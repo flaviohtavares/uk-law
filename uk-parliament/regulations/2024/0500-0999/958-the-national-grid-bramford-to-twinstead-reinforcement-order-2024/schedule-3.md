@@ -24,7 +24,7 @@ Article 2
 
 ### Interpretation
 
-**1.**[^key-76db2c461381a7da42f167ba8d1b4551] (1) In this Schedule unless the context requires otherwise—
+**1.**[^c-76db2c461381a7da42f167ba8d1b4551] (1) In this Schedule unless the context requires otherwise—
 
 - “**biodiversity metric**” means Biodiversity Metric 3.1 as published by Natural England in April 2022;
 - “**discharging authority**” means the body responsible for giving any consent, agreement or approval required by a requirement included in this Order, or further to any document referred to in any requirement, or the local authority in the exercise of functions set out in sections 60 or 61 of the Control of Pollution Act 1974[^f00046];
@@ -33,7 +33,7 @@ Article 2
 - “**lead local flood authority**” has the same meaning as in section 6(7) of the Flood and Water Management Act 2010;
 - “**part**” means a given geographical section, component or location of the authorised development;
 - “**reinstatement planting**” includes, unless otherwise agreed with the relevant planning authority, embedded planting, reinstatement hedgerow or other planting and mitigation planting as each are described in the Landscape and Ecological Management Plan approved pursuant to requirement 4;
-- “**reinstatement planting plan**” means the plan referenced at requirements[^key-0b96a7b9517c08b33ba1e9049814b8de] 9 and 10 and which provides detail on reinstatement planting to be prepared for each stage of the authorised development;
+- “**reinstatement planting plan**” means the plan referenced at requirements[^c-0b96a7b9517c08b33ba1e9049814b8de] 9 and 10 and which provides detail on reinstatement planting to be prepared for each stage of the authorised development;
 - “**stage**” means a defined stage of the authorised development, the extent of which is shown in a scheme submitted to the relevant planning authority pursuant to requirement 3;
 - “**start-up and close down activities**” means—
   - (a) arrival and departure of workforce and staff at site and movement to and from places of work;
@@ -44,17 +44,17 @@ Article 2
   - (f) general site maintenance; and
   - (g) low key maintenance and safety checking of plant and machinery.
 
-(2) Where under any of the requirements[^key-e7ddd714c08add5b86636835b19789b5] the approval or agreement of the relevant planning authority or the relevant highway authority is required, that approval or agreement must be given in writing.
+(2) Where under any of the requirements[^c-e7ddd714c08add5b86636835b19789b5] the approval or agreement of the relevant planning authority or the relevant highway authority is required, that approval or agreement must be given in writing.
 
-(3) Where any requirement[^key-37d0d382e1dbf8fa09b6a225fd694e87] requires the authorised development to be carried out in accordance or general accordance with matters including a plan, document, or details approved by the relevant planning authority or the relevant highway authority, those matters are to be taken to include any amendments that may subsequently be approved in writing by the relevant planning authority or the relevant highway authority.
+(3) Where any requirement[^c-37d0d382e1dbf8fa09b6a225fd694e87] requires the authorised development to be carried out in accordance or general accordance with matters including a plan, document, or details approved by the relevant planning authority or the relevant highway authority, those matters are to be taken to include any amendments that may subsequently be approved in writing by the relevant planning authority or the relevant highway authority.
 
-(4) Where an approval or agreement is required under the terms of any requirement[^key-395fff62c704b267b26f5ed9719411d8] or a document referred to in a requirement, or any requirement specifies “unless otherwise approved” or “unless otherwise agreed” by the relevant highway authority or the relevant planning authority, such approval or agreement may only be given in relation to minor or immaterial changes and where it has been demonstrated to the satisfaction of the relevant highway authority or the relevant planning authority that the subject matter of the approval or agreement sought will not give rise to any materially new or materially different environmental effects from those assessed in the Environmental Statement.
+(4) Where an approval or agreement is required under the terms of any requirement[^c-395fff62c704b267b26f5ed9719411d8] or a document referred to in a requirement, or any requirement specifies “unless otherwise approved” or “unless otherwise agreed” by the relevant highway authority or the relevant planning authority, such approval or agreement may only be given in relation to minor or immaterial changes and where it has been demonstrated to the satisfaction of the relevant highway authority or the relevant planning authority that the subject matter of the approval or agreement sought will not give rise to any materially new or materially different environmental effects from those assessed in the Environmental Statement.
 
-(5) Unless otherwise provided in this Order, where a requirement[^key-47933df5f1f0368991002db2b172ff42] relates to a specific site or work and it specifies “commencement of development”, it refers to the commencement of development on that site or in relation to that work only.
+(5) Unless otherwise provided in this Order, where a requirement[^c-47933df5f1f0368991002db2b172ff42] relates to a specific site or work and it specifies “commencement of development”, it refers to the commencement of development on that site or in relation to that work only.
 
 ### Time Limits
 
-**2.**[^key-34317b0739003c2c903497fa447e9ca4] (1) The authorised development must commence no later than the expiration of five years beginning with the date on which this Order comes into force.
+**2.**[^c-34317b0739003c2c903497fa447e9ca4] (1) The authorised development must commence no later than the expiration of five years beginning with the date on which this Order comes into force.
 
 (2) If any proceedings are begun to challenge the validity of this Order, the period specified in paragraph (1) is extended for the period specified in paragraph (3).
 
@@ -70,7 +70,7 @@ Article 2
 
 ### Stages of authorised development
 
-**3.**[^key-35017122c244239ce14e0bae7264d400] (1) Unless otherwise agreed with the relevant planning authority, written notice setting out the anticipated programme for the carrying out of pre-commencement operations must be given to the relevant planning authority no less than seven days prior to the date on which those pre-commencement operations are first carried out.
+**3.**[^c-35017122c244239ce14e0bae7264d400] (1) Unless otherwise agreed with the relevant planning authority, written notice setting out the anticipated programme for the carrying out of pre-commencement operations must be given to the relevant planning authority no less than seven days prior to the date on which those pre-commencement operations are first carried out.
 
 (2) The authorised development may not commence until a written scheme setting out all stages of the authorised development has been submitted to the relevant planning authority.
 
@@ -82,7 +82,7 @@ Article 2
 
 ### Management Plans
 
-**4.**[^key-9586b41b36983a6a6b5b1113e4b33182] (1) No stage of the authorised development may commence until, for that stage, the following plans as relevant to that stage, have been submitted to and approved by the relevant planning authority (in consultation with Natural England in the case of the landscape and ecological management plan) or other discharging authority as may be appropriate to the relevant plan concerned and in the case of the construction traffic management plan, the relevant highway authority. The relevant plans are—
+**4.**[^c-9586b41b36983a6a6b5b1113e4b33182] (1) No stage of the authorised development may commence until, for that stage, the following plans as relevant to that stage, have been submitted to and approved by the relevant planning authority (in consultation with Natural England in the case of the landscape and ecological management plan) or other discharging authority as may be appropriate to the relevant plan concerned and in the case of the construction traffic management plan, the relevant highway authority. The relevant plans are—
 
 - (a) A construction environmental management plan (which must be substantially in accordance with the outline construction environmental management plan);
 - (b) A materials and waste management plan (which must be substantially in accordance with the outline materials and waste management plan);
@@ -92,17 +92,17 @@ Article 2
 
 (2) All construction works forming part of the authorised development must be carried out in accordance with the plans listed in paragraph (1), unless otherwise agreed with the relevant planning authority or other discharging authority as may be appropriate to the relevant plan concerned, and in the case of the construction traffic management plan, the relevant highway authority.
 
-(3) For the avoidance of doubt, all pre-commencement operations must be carried out in accordance with the outline construction environmental management plan, the outline materials and[^key-dce37421f725b36c4aed1410348698cb] waste management plan, the outline construction traffic management plan, the outline landscape and ecological management plan and the outline public right of way management plan unless otherwise agreed with the relevant planning authority or other discharging authority as may be appropriate to the relevant plan concerned, and in the case of the construction traffic management plan[^key-462769e579b0a39acab10e65c3ccf897], the relevant highway authority.
+(3) For the avoidance of doubt, all pre-commencement operations must be carried out in accordance with the outline construction environmental management plan, the outline materials and[^c-dce37421f725b36c4aed1410348698cb] waste management plan, the outline construction traffic management plan, the outline landscape and ecological management plan and the outline public right of way management plan unless otherwise agreed with the relevant planning authority or other discharging authority as may be appropriate to the relevant plan concerned, and in the case of the construction traffic management plan[^c-462769e579b0a39acab10e65c3ccf897], the relevant highway authority.
 
 ### Approval and implementation of Drainage Management Plan
 
-**5.**[^key-8d4cb81b9ec804702b423df55400627e] (1) No stage of the authorised development may be brought into operational use until, for that stage, a drainage management plan, to address operational surface water management matters, has been submitted to and approved by the relevant planning authority, after consultation with the lead local flood authority and the relevant highway authority.
+**5.**[^c-8d4cb81b9ec804702b423df55400627e] (1) No stage of the authorised development may be brought into operational use until, for that stage, a drainage management plan, to address operational surface water management matters, has been submitted to and approved by the relevant planning authority, after consultation with the lead local flood authority and the relevant highway authority.
 
 (2) The operational use of each stage of the authorised development must be carried out in accordance with the approved drainage management plan referred to in sub-paragraph (1) or with any amended drainage management plan that may subsequently be approved by the relevant planning authority, after consultation with the lead local flood authority and the relevant highway authority.
 
 ### Archaeology
 
-**6.**[^key-31be820cb42625b124cd55e5707cc0fc] (1) The authorised development must be undertaken in accordance with the archaeological framework strategy and the outline written scheme of investigation.
+**6.**[^c-31be820cb42625b124cd55e5707cc0fc] (1) The authorised development must be undertaken in accordance with the archaeological framework strategy and the outline written scheme of investigation.
 
 (2) No stage of the authorised development may commence until either a preservation *in situ* management plan, or a detailed written scheme of investigation of areas of archaeological interest relevant to that stage (if any), as identified within the outline written scheme of investigation or identified through evaluation work as set out in the outline written scheme of investigation has been submitted to and approved by the relevant planning authority.
 
@@ -120,9 +120,9 @@ Article 2
 
 ### Construction hours
 
-**7.**[^key-3c301c901c77f9c2702b6f60a26d6d84] (1) Subject to sub-paragraphs (2) to (5)[^key-c456bdaedadc52ffe8c548d75bc88681], work may only take place between 07.00 and 19.00 Monday to Friday and between 08.00 and 17.00 on Saturdays, Sundays and bank holidays (the core working hours), unless otherwise approved by the relevant planning authority.
+**7.**[^c-3c301c901c77f9c2702b6f60a26d6d84] (1) Subject to sub-paragraphs (2) to (5)[^c-c456bdaedadc52ffe8c548d75bc88681], work may only take place between 07.00 and 19.00 Monday to Friday and between 08.00 and 17.00 on Saturdays, Sundays and bank holidays (the core working hours), unless otherwise approved by the relevant planning authority.
 
-(2) No piling operations may take place between 19.00 and 07.00, or on Sundays, bank holidays[^key-f6f736f73694b2173fd3a68fd76bff7c] or other public holidays, and, unless otherwise agreed with the local highway authority, no HGV deliveries may be made to site between 19.00 and 07.00, or on Sundays, bank holidays or other public holidays.
+(2) No piling operations may take place between 19.00 and 07.00, or on Sundays, bank holidays[^c-f6f736f73694b2173fd3a68fd76bff7c] or other public holidays, and, unless otherwise agreed with the local highway authority, no HGV deliveries may be made to site between 19.00 and 07.00, or on Sundays, bank holidays or other public holidays.
 
 (3) The following operations may take place outside the core working hours referred to in sub-paragraph (1)—
 
@@ -130,7 +130,7 @@ Article 2
 - (b) the installation and removal of conductors, pilot wires and associated protective netting across highways, railway lines or watercourses;
 - (c) the jointing of underground cables (save for the cutting of underground cables);
 - (d) the continuation of operations commenced during the core working hours to a point where they can safely be paused;
-- (e) any highway works requested by the highway authority to be undertaken on a Saturday, Sunday or a bank holiday[^key-7c83839cb368346f18bc4f65d7ba3787] or outside the core working hours;
+- (e) any highway works requested by the highway authority to be undertaken on a Saturday, Sunday or a bank holiday[^c-7c83839cb368346f18bc4f65d7ba3787] or outside the core working hours;
 - (f) the testing or commissioning of any electrical plant installed as part of the authorised development;
 - (g) the completion of works delayed or held up by severe weather conditions which disrupted or interrupted normal construction activities that the undertaker and its contractor agree forms the critical path for the accepted construction programme. In such cases, the undertaker must, as soon as practicable, notify the relevant planning authority of the disruption or interruption and explain why that work could not be completed within the core working hours referred to in sub-paragraph (1);
 - (h) activity necessary in the instance of an emergency where there is a risk to persons or property;
@@ -140,7 +140,7 @@ Article 2
 
 (4) The core working hours referred to in sub-paragraph (1) exclude start-up and close down activities up to one hour either side of the core working hours. A 50dBA noise limit (LOAEL) will apply at the nearest noise-sensitive receptors for start-up and close down activities up to one hour either side of the core working hours.
 
-(5) No construction activities may take place between 19.00 and 07.00, or on Sundays, bank holidays[^key-6658eda84dcf798434330543aac2be60] or other public holidays at—
+(5) No construction activities may take place between 19.00 and 07.00, or on Sundays, bank holidays[^c-6658eda84dcf798434330543aac2be60] or other public holidays at—
 
 - (a) pylon PCB 64;
 - (b) pylon 4Y004A;
@@ -156,7 +156,7 @@ as shown on Figure 4.1 in the environmental statement figures (document referenc
 
 ### Retention and removal of trees, woodlands and hedgerows
 
-**8.**[^key-976923c46eb4898d66775f3a8af16639] (1) Unless otherwise agreed with the relevant planning authority, no stage of the authorised development may commence until, for that stage, a plan showing the trees, groups of trees, woodlands and hedgerows to be retained and/or removed during that stage has been submitted to and approved by the relevant planning authority.
+**8.**[^c-976923c46eb4898d66775f3a8af16639] (1) Unless otherwise agreed with the relevant planning authority, no stage of the authorised development may commence until, for that stage, a plan showing the trees, groups of trees, woodlands and hedgerows to be retained and/or removed during that stage has been submitted to and approved by the relevant planning authority.
 
 (2) The plan submitted under sub-paragraph (1) must include details of the location, species and condition of the trees, groups of trees, woodlands and hedgerows to be removed and retained during that stage of the authorised development.
 
@@ -166,7 +166,7 @@ as shown on Figure 4.1 in the environmental statement figures (document referenc
 
 ### Reinstatement planting plan
 
-**9.**[^key-2ab0d6d4bc7c80e3306d16a72c6b23d0] (1) Unless otherwise agreed with the relevant planning authority, no stage of the authorised development may be brought into operational use until, for that stage, a reinstatement planting plan for trees, groups of trees, woodlands and hedgerows to be reinstated during that stage has been submitted to and approved by the relevant planning authority.
+**9.**[^c-2ab0d6d4bc7c80e3306d16a72c6b23d0] (1) Unless otherwise agreed with the relevant planning authority, no stage of the authorised development may be brought into operational use until, for that stage, a reinstatement planting plan for trees, groups of trees, woodlands and hedgerows to be reinstated during that stage has been submitted to and approved by the relevant planning authority.
 
 (2) Unless otherwise agreed with the relevant planning authority, the reinstatement planting plan submitted under sub-paragraph (1) must include a landscape plan for each cable sealing end compound where relevant to that stage, which will show landscape mounds, planting and proposed finishes for hard landscape features.
 
@@ -176,7 +176,7 @@ as shown on Figure 4.1 in the environmental statement figures (document referenc
 
 ### Reinstatement planting plan– implementation, compliance and replacement planting
 
-**10.**[^key-e5f2db7bf7f5c76b9763aec915497b8e] (1) Unless otherwise agreed with the relevant planning authority, all reinstatement planting works referred to in requirement 9 must be implemented at the earliest opportunity and no later than by the first available planting season after that part of the authorised development to which the reinstatement planting works apply is first brought into operational use.
+**10.**[^c-e5f2db7bf7f5c76b9763aec915497b8e] (1) Unless otherwise agreed with the relevant planning authority, all reinstatement planting works referred to in requirement 9 must be implemented at the earliest opportunity and no later than by the first available planting season after that part of the authorised development to which the reinstatement planting works apply is first brought into operational use.
 
 (2) All reinstatement planting works referred to in requirement 9 must be carried out in accordance with the relevant reinstatement planting plan for that stage of the authorised development, unless otherwise approved by the relevant planning authority.
 
@@ -186,7 +186,7 @@ as shown on Figure 4.1 in the environmental statement figures (document referenc
 
 ### Highway works
 
-**11.**[^key-b696014cda26960c5d0eff8af9635494] (1) No work to construct, alter or temporarily alter any highway, including any new or existing means of access to a highway to be used by vehicular traffic, may commence until written details of design, layout and reinstatement of those highway works have been submitted to and approved by the relevant highway authority.
+**11.**[^c-b696014cda26960c5d0eff8af9635494] (1) No work to construct, alter or temporarily alter any highway, including any new or existing means of access to a highway to be used by vehicular traffic, may commence until written details of design, layout and reinstatement of those highway works have been submitted to and approved by the relevant highway authority.
 
 (2) The highway works must be constructed and reinstated in accordance with the details approved under sub-paragraph (1).
 
@@ -200,7 +200,7 @@ as shown on Figure 4.1 in the environmental statement figures (document referenc
 
 ### Decommissioning
 
-**12.**[^key-92a1135d28e07051372473b9ade62850] (1) In the event that, at some future date, the authorised development, or part of it, is to be decommissioned, a written scheme of decommissioning must be submitted to the relevant planning authority for its approval in consultation with the relevant highway authority, at least six months prior to any decommissioning works.
+**12.**[^c-92a1135d28e07051372473b9ade62850] (1) In the event that, at some future date, the authorised development, or part of it, is to be decommissioned, a written scheme of decommissioning must be submitted to the relevant planning authority for its approval in consultation with the relevant highway authority, at least six months prior to any decommissioning works.
 
 (2) The approved scheme must be implemented as approved as part of the decommissioning of the authorised development or relevant part of it.
 
@@ -210,64 +210,64 @@ as shown on Figure 4.1 in the environmental statement figures (document referenc
 
 ### Biodiversity Net Gain
 
-**13.**[^key-34c5c9fa8f62ff421956b71182e80e35] Unless otherwise agreed with the relevant planning authority, written evidence (in the form of the outputs of the biodiversity metric) demonstrating how at least ten per cent in biodiversity net gain is to be delivered as part of the authorised development must be submitted to the relevant planning authority no later than the date on which that part of the authorised development comprising the transmission electric line forming part of the authorised development is first brought into operational use.
+**13.**[^c-34c5c9fa8f62ff421956b71182e80e35] Unless otherwise agreed with the relevant planning authority, written evidence (in the form of the outputs of the biodiversity metric) demonstrating how at least ten per cent in biodiversity net gain is to be delivered as part of the authorised development must be submitted to the relevant planning authority no later than the date on which that part of the authorised development comprising the transmission electric line forming part of the authorised development is first brought into operational use.
 
 ### Approval and implementation of Soil Management Plan
 
-**14.**[^key-e09790eaadd3e37277b456c72bb40913] (1) Unless otherwise agreed with the relevant planning authority, no stage of the authorised development may commence until, for that stage, a soil management plan prepared in accordance with Chapter 11 of the outline construction environmental management plan (or the final construction environmental management plan if approved pursuant to requirement 4) describing how construction works should be undertaken to minimise effects on the nature and quality of soil has been submitted to and approved by the relevant planning authority.
+**14.**[^c-e09790eaadd3e37277b456c72bb40913] (1) Unless otherwise agreed with the relevant planning authority, no stage of the authorised development may commence until, for that stage, a soil management plan prepared in accordance with Chapter 11 of the outline construction environmental management plan (or the final construction environmental management plan if approved pursuant to requirement 4) describing how construction works should be undertaken to minimise effects on the nature and quality of soil has been submitted to and approved by the relevant planning authority.
 
 (2) The construction works for each stage of the authorised development must be carried out in general accordance with the approved soil management plan referred to in sub-paragraph (1), unless otherwise agreed with the relevant planning authority.
 
 ## Annotations
 
-[^key-76db2c461381a7da42f167ba8d1b4551]: Commencement: Sch. 3 para. 1 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-76db2c461381a7da42f167ba8d1b4551]: Commencement: Sch. 3 para. 1 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
 [^f00046]: Footnote: [1974 c.40](https://www.legislation.gov.uk/ukpga/1974/40).
 
-[^key-0b96a7b9517c08b33ba1e9049814b8de]: Textual amendment: Words in [Sch. 3 para. 1(1)](https://www.legislation.gov.uk/uksi/2024/958/schedule/3/paragraph/1/1) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-0b96a7b9517c08b33ba1e9049814b8de]: Textual amendment: Words in [Sch. 3 para. 1(1)](https://www.legislation.gov.uk/uksi/2024/958/schedule/3/paragraph/1/1) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
-[^key-e7ddd714c08add5b86636835b19789b5]: Textual amendment: Word in [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/uksi/2024/958/schedule/3/paragraph/1/2) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-e7ddd714c08add5b86636835b19789b5]: Textual amendment: Word in [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/uksi/2024/958/schedule/3/paragraph/1/2) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
-[^key-37d0d382e1dbf8fa09b6a225fd694e87]: Textual amendment: Word in [Sch. 3 para. 1(3)](https://www.legislation.gov.uk/uksi/2024/958/schedule/3/paragraph/1/3) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-37d0d382e1dbf8fa09b6a225fd694e87]: Textual amendment: Word in [Sch. 3 para. 1(3)](https://www.legislation.gov.uk/uksi/2024/958/schedule/3/paragraph/1/3) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
-[^key-395fff62c704b267b26f5ed9719411d8]: Textual amendment: Word in [Sch. 3 para. 1(4)](https://www.legislation.gov.uk/uksi/2024/958/schedule/3/paragraph/1/4) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-395fff62c704b267b26f5ed9719411d8]: Textual amendment: Word in [Sch. 3 para. 1(4)](https://www.legislation.gov.uk/uksi/2024/958/schedule/3/paragraph/1/4) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
-[^key-47933df5f1f0368991002db2b172ff42]: Textual amendment: Word in [Sch. 3 para. 1(5)](https://www.legislation.gov.uk/uksi/2024/958/schedule/3/paragraph/1/5) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-47933df5f1f0368991002db2b172ff42]: Textual amendment: Word in [Sch. 3 para. 1(5)](https://www.legislation.gov.uk/uksi/2024/958/schedule/3/paragraph/1/5) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
-[^key-34317b0739003c2c903497fa447e9ca4]: Commencement: Sch. 3 para. 2 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-34317b0739003c2c903497fa447e9ca4]: Commencement: Sch. 3 para. 2 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-35017122c244239ce14e0bae7264d400]: Commencement: Sch. 3 para. 3 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-35017122c244239ce14e0bae7264d400]: Commencement: Sch. 3 para. 3 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-9586b41b36983a6a6b5b1113e4b33182]: Commencement: Sch. 3 para. 4 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-9586b41b36983a6a6b5b1113e4b33182]: Commencement: Sch. 3 para. 4 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-dce37421f725b36c4aed1410348698cb]: Textual amendment: Word in [Sch. 3 para. 4(3)](https://www.legislation.gov.uk/uksi/2024/958/schedule/3/paragraph/4/3) inserted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-dce37421f725b36c4aed1410348698cb]: Textual amendment: Word in [Sch. 3 para. 4(3)](https://www.legislation.gov.uk/uksi/2024/958/schedule/3/paragraph/4/3) inserted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
-[^key-462769e579b0a39acab10e65c3ccf897]: Textual amendment: Words in [Sch. 3 para. 4(3)](https://www.legislation.gov.uk/uksi/2024/958/schedule/3/paragraph/4/3) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-462769e579b0a39acab10e65c3ccf897]: Textual amendment: Words in [Sch. 3 para. 4(3)](https://www.legislation.gov.uk/uksi/2024/958/schedule/3/paragraph/4/3) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
-[^key-8d4cb81b9ec804702b423df55400627e]: Commencement: Sch. 3 para. 5 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-8d4cb81b9ec804702b423df55400627e]: Commencement: Sch. 3 para. 5 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-31be820cb42625b124cd55e5707cc0fc]: Commencement: Sch. 3 para. 6 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-31be820cb42625b124cd55e5707cc0fc]: Commencement: Sch. 3 para. 6 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-3c301c901c77f9c2702b6f60a26d6d84]: Commencement: Sch. 3 para. 7 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-3c301c901c77f9c2702b6f60a26d6d84]: Commencement: Sch. 3 para. 7 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-c456bdaedadc52ffe8c548d75bc88681]: Textual amendment: Words in [Sch. 3 para. 7(1)](https://www.legislation.gov.uk/uksi/2024/958/schedule/3/paragraph/7/1) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-c456bdaedadc52ffe8c548d75bc88681]: Textual amendment: Words in [Sch. 3 para. 7(1)](https://www.legislation.gov.uk/uksi/2024/958/schedule/3/paragraph/7/1) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
-[^key-f6f736f73694b2173fd3a68fd76bff7c]: Textual amendment: Words in [Sch. 3 para. 7(2)](https://www.legislation.gov.uk/uksi/2024/958/schedule/3/paragraph/7/2) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-f6f736f73694b2173fd3a68fd76bff7c]: Textual amendment: Words in [Sch. 3 para. 7(2)](https://www.legislation.gov.uk/uksi/2024/958/schedule/3/paragraph/7/2) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
-[^key-7c83839cb368346f18bc4f65d7ba3787]: Textual amendment: Words in [Sch. 3 para. 7(3)(e)](https://www.legislation.gov.uk/uksi/2024/958/schedule/3/paragraph/7/3/e) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-7c83839cb368346f18bc4f65d7ba3787]: Textual amendment: Words in [Sch. 3 para. 7(3)(e)](https://www.legislation.gov.uk/uksi/2024/958/schedule/3/paragraph/7/3/e) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
-[^key-6658eda84dcf798434330543aac2be60]: Textual amendment: Words in [Sch. 3 para. 7(5)](https://www.legislation.gov.uk/uksi/2024/958/schedule/3/paragraph/7/5) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-6658eda84dcf798434330543aac2be60]: Textual amendment: Words in [Sch. 3 para. 7(5)](https://www.legislation.gov.uk/uksi/2024/958/schedule/3/paragraph/7/5) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
-[^key-976923c46eb4898d66775f3a8af16639]: Commencement: Sch. 3 para. 8 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-976923c46eb4898d66775f3a8af16639]: Commencement: Sch. 3 para. 8 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-2ab0d6d4bc7c80e3306d16a72c6b23d0]: Commencement: Sch. 3 para. 9 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-2ab0d6d4bc7c80e3306d16a72c6b23d0]: Commencement: Sch. 3 para. 9 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-e5f2db7bf7f5c76b9763aec915497b8e]: Commencement: Sch. 3 para. 10 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-e5f2db7bf7f5c76b9763aec915497b8e]: Commencement: Sch. 3 para. 10 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-b696014cda26960c5d0eff8af9635494]: Commencement: Sch. 3 para. 11 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-b696014cda26960c5d0eff8af9635494]: Commencement: Sch. 3 para. 11 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-92a1135d28e07051372473b9ade62850]: Commencement: Sch. 3 para. 12 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-92a1135d28e07051372473b9ade62850]: Commencement: Sch. 3 para. 12 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-34c5c9fa8f62ff421956b71182e80e35]: Commencement: Sch. 3 para. 13 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-34c5c9fa8f62ff421956b71182e80e35]: Commencement: Sch. 3 para. 13 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-e09790eaadd3e37277b456c72bb40913]: Commencement: Sch. 3 para. 14 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-e09790eaadd3e37277b456c72bb40913]: Commencement: Sch. 3 para. 14 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)

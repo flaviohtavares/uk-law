@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**95.**[^key-7fdbc70a6ef06d091f72eee0679286a3] In regulation 1—
+**95.**[^c-7fdbc70a6ef06d091f72eee0679286a3] In regulation 1—
 
 - (a) the existing provision becomes paragraph (1) of regulation 1;
 - (b) after that paragraph (1) insert—
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7fdbc70a6ef06d091f72eee0679286a3]: Commencement: [Reg. 95](https://www.legislation.gov.uk/wsi/2024/924/regulation/95) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-7fdbc70a6ef06d091f72eee0679286a3]: Commencement: [Reg. 95](https://www.legislation.gov.uk/wsi/2024/924/regulation/95) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

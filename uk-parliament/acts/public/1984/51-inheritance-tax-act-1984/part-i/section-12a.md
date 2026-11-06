@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12A. Pension drawdown fund not used up: no deemed disposition[^key-667ecc9e7b2625769e8e4c1b00e35b1f]
+## 12A. Pension drawdown fund not used up: no deemed disposition[^c-667ecc9e7b2625769e8e4c1b00e35b1f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-667ecc9e7b2625769e8e4c1b00e35b1f]: Textual amendment: [S. 12A](https://www.legislation.gov.uk/ukpga/1984/51/section/12A) omitted (with application in accordance with s. 71 of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 69(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/69/2), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)
+[^c-667ecc9e7b2625769e8e4c1b00e35b1f]: Textual amendment: [S. 12A](https://www.legislation.gov.uk/ukpga/1984/51/section/12A) omitted (with application in accordance with s. 71 of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 69(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/69/2), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)

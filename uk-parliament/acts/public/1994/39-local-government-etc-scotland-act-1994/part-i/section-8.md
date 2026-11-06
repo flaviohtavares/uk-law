@@ -34,19 +34,19 @@ summary: ''
 
 (4) No scheme under subsection (3) above shall be made without the consent of the new authority or authorities, or of the new water and sewerage authority or authorities (within the meaning of Part II of this Act), to whom the employees concerned are to be transferred or, failing such consent, without the consent of the Secretary of State.
 
-(5)[^key-d89af05044a73dee11c5ceecb58f362f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d89af05044a73dee11c5ceecb58f362f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) An order under this section shall be made by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
 
 (7) In this section—
 
 - “**existing local authority**” includes a joint committee and a joint board but does not, subject to any other provision of this Act, include an islands authority;
-- [^key-080f45d4a6adcc07458a23c4ab31ec58]...
+- [^c-080f45d4a6adcc07458a23c4ab31ec58]...
 - “**new authority**” means any of the authorities constituted under section 2 of this Act (other than Orkney Islands, Shetland Islands or Western Isles), a residuary body and a joint board; and
-- [^key-080f45d4a6adcc07458a23c4ab31ec58]...
+- [^c-080f45d4a6adcc07458a23c4ab31ec58]...
 
 ## Annotations
 
-[^key-d89af05044a73dee11c5ceecb58f362f]: Textual amendment: S. 8(5) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 8 Pt. 3](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-d89af05044a73dee11c5ceecb58f362f]: Textual amendment: S. 8(5) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 8 Pt. 3](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-080f45d4a6adcc07458a23c4ab31ec58]: Textual amendment: Words in s. 8(7) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 8 Pt. 3](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-080f45d4a6adcc07458a23c4ab31ec58]: Textual amendment: Words in s. 8(7) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 8 Pt. 3](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23D. Legal advisers[^key-4be6831b60d6149c70886030f19057eb]
+## 23D. Legal advisers[^c-4be6831b60d6149c70886030f19057eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ on questions of law arising in connection with any matter which the Committee is
 
 - (a) have at least a five year general qualification (within the meaning of section 71 of the Courts and Legal Services Act 1990);
 - (b) be an advocate or solicitor in Scotland of at least five years standing; or
-- (c) be a member of the Bar of Northern Ireland or solicitor of the Court of Judicature of Northern Ireland[^key-122f7e02e85b5b08eaa7bf80520d52ee] of at least five years standing.
+- (c) be a member of the Bar of Northern Ireland or solicitor of the Court of Judicature of Northern Ireland[^c-122f7e02e85b5b08eaa7bf80520d52ee] of at least five years standing.
 
 (4) A legal adviser must not be a member of the Council.
 
@@ -49,6 +49,6 @@ on questions of law arising in connection with any matter which the Committee is
 
 ## Annotations
 
-[^key-4be6831b60d6149c70886030f19057eb]: Textual amendment: Pt. 3A inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 17(2)](https://www.legislation.gov.uk/uksi/2005/848/article/17/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-4be6831b60d6149c70886030f19057eb]: Textual amendment: Pt. 3A inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 17(2)](https://www.legislation.gov.uk/uksi/2005/848/article/17/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
 
-[^key-122f7e02e85b5b08eaa7bf80520d52ee]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/5); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-122f7e02e85b5b08eaa7bf80520d52ee]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/5); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)

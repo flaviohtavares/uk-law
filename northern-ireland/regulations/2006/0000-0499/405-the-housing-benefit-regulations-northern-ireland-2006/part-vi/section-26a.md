@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26A. Date on which income consisting of earnings from employment as an employed earner are taken into account[^key-d838a168ff79e3b9496797dcc194d192]
+## 26A. Date on which income consisting of earnings from employment as an employed earner are taken into account[^c-d838a168ff79e3b9496797dcc194d192]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ A claimant’s average weekly earnings from employment estimated pursuant to reg
 
 ## Annotations
 
-[^key-d838a168ff79e3b9496797dcc194d192]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/nisr/2006/405/regulation/26A) inserted (18.2.2015) by [The Housing Benefit (Income from earnings) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/19)](https://www.legislation.gov.uk/nisr/2015/19), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/19/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2015/19/regulation/2/3)
+[^c-d838a168ff79e3b9496797dcc194d192]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/nisr/2006/405/regulation/26A) inserted (18.2.2015) by [The Housing Benefit (Income from earnings) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/19)](https://www.legislation.gov.uk/nisr/2015/19), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/19/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2015/19/regulation/2/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.26. Application for approval to seize property or to search[^key-600a30119bbe1d4e3e4dc0ed8b55ad59]
+## 33.26. Application for approval to seize property or to search[^c-600a30119bbe1d4e3e4dc0ed8b55ad59]
 
 *Extent: E+W*
 
@@ -68,7 +68,7 @@ summary: ''
 
 ## Annotations
 
-[^key-600a30119bbe1d4e3e4dc0ed8b55ad59]: Commencement: [Rule 33.26](https://www.legislation.gov.uk/uksi/2025/909/rule/33.26) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-600a30119bbe1d4e3e4dc0ed8b55ad59]: Commencement: [Rule 33.26](https://www.legislation.gov.uk/uksi/2025/909/rule/33.26) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00824]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 47G was inserted by section 55 of the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) and amended by section 55 of, and paragraphs 14 and 17 of Schedule 21 to, the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) and section 13 of the Serious Crime Act [2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9).
 

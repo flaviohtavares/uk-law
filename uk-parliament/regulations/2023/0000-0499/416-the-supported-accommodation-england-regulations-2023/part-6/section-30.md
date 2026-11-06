@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Amendments to the Care Standards Act 2000 (Enforcement of Care Standards) (Notification) (England) Regulations 2011[^key-a34d8fcabdba30d8e46544b0843ab511]
+## 30. Amendments to the Care Standards Act 2000 (Enforcement of Care Standards) (Notification) (England) Regulations 2011[^c-a34d8fcabdba30d8e46544b0843ab511]
 
 *Extent: E+W*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a34d8fcabdba30d8e46544b0843ab511]: Commencement: Reg. 30 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-a34d8fcabdba30d8e46544b0843ab511]: Commencement: Reg. 30 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
 
 [^f00025]: Footnote: [S.I. 2011/552](https://www.legislation.gov.uk/uksi/2011/552).

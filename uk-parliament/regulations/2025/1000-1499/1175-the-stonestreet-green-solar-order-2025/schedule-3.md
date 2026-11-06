@@ -22,7 +22,7 @@ summary: ''
 
 Article 8
 
-**1.**[^key-c7a5e4bfacc69b3c717e9774a1f78834] The following provisions do not apply in so far as they relate to the construction of any numbered work or the carrying out of any operation required for the purpose of, or in connection with, the construction, operation, maintenance or decommissioning of the authorised development—
+**1.**[^c-c7a5e4bfacc69b3c717e9774a1f78834] The following provisions do not apply in so far as they relate to the construction of any numbered work or the carrying out of any operation required for the purpose of, or in connection with, the construction, operation, maintenance or decommissioning of the authorised development—
 
 - (a) County of Kent Act 1981[^f00054];
 - (b) Kent County Council (Filming on Highways) Act 2010[^f00055];
@@ -33,7 +33,7 @@ Article 8
 
 ## Annotations
 
-[^key-c7a5e4bfacc69b3c717e9774a1f78834]: Commencement: Sch. 3 para. 1 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-c7a5e4bfacc69b3c717e9774a1f78834]: Commencement: Sch. 3 para. 1 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
 [^f00054]: Footnote: [1981 c. 18](https://www.legislation.gov.uk/ukpga/1981/18).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Decision notified under section 13(7) of the Banking Act[^key-5ae3734808955ecc4f31174df1374a84]
+## 16. Decision notified under section 13(7) of the Banking Act[^c-5ae3734808955ecc4f31174df1374a84]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ the Authority must consider any representations made pursuant to section 13(9) o
 
 ## Annotations
 
-[^key-5ae3734808955ecc4f31174df1374a84]: Commencement: Art. 16 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-5ae3734808955ecc4f31174df1374a84]: Commencement: Art. 16 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

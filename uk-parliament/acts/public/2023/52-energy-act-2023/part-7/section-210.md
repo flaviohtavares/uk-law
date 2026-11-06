@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 210. Consequential amendments relating to multi-purpose interconnectors[^key-5d70c68d24c4c4000a8358502d64677e]
+## 210. Consequential amendments relating to multi-purpose interconnectors[^c-5d70c68d24c4c4000a8358502d64677e]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ Schedule 17 contains minor and consequential amendments.
 
 ## Annotations
 
-[^key-5d70c68d24c4c4000a8358502d64677e]: Commencement: S. 210 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-5d70c68d24c4c4000a8358502d64677e]: Commencement: S. 210 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)

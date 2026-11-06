@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61L. Meaning of “public authority”[^key-c5ed4a8550671f87f70e726d21948b20]
+## 61L. Meaning of “public authority”[^c-c5ed4a8550671f87f70e726d21948b20]
 
 *Extent: E+W+S+N.I.*
 
 (1) In this Chapter “**public authority**” means—
 
 - (a) a public authority as defined by the Freedom of Information Act 2000,
-- (aa)[^key-5fab81a7a9e600356466b7455ab6b367] a body specified in section 23(3) of the Freedom of Information Act 2000,
+- (aa)[^c-5fab81a7a9e600356466b7455ab6b367] a body specified in section 23(3) of the Freedom of Information Act 2000,
 - (b) a Scottish public authority as defined by the Freedom of Information (Scotland) Act 2002 (asp 13),
-- (ba)[^key-365cfb71cf96e847f1253e26feed7082] the Advanced Research and Invention Agency,
+- (ba)[^c-365cfb71cf96e847f1253e26feed7082] the Advanced Research and Invention Agency,
 - (c) the Corporate Officer of the House of Commons,
 - (d) the Corporate Officer of the House of Lords,
 - (e) the National Assembly for Wales Commission, ...
-- (f) the Northern Ireland Assembly Commission , or[^key-441541723b1735f1d1538ea55e84bcc2]
+- (f) the Northern Ireland Assembly Commission , or[^c-441541723b1735f1d1538ea55e84bcc2]
 - (g) a company connected with any person mentioned in paragraphs (a) to (f).
 
 (2) An authority within paragraph (a) or (b) of subsection (1) is a public authority for the purposes of this Chapter in relation to all its activities even if provisions of the Act mentioned in that paragraph do not apply to all information held by the authority.
@@ -63,10 +63,10 @@ summary: ''
 
 ## Annotations
 
-[^key-c5ed4a8550671f87f70e726d21948b20]: Textual amendment: Pt. 2 Ch. 10 inserted (with effect in accordance with Sch. 1 para. 16 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2017/10/schedule/1/paragraph/9)
+[^c-c5ed4a8550671f87f70e726d21948b20]: Textual amendment: Pt. 2 Ch. 10 inserted (with effect in accordance with Sch. 1 para. 16 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2017/10/schedule/1/paragraph/9)
 
-[^key-5fab81a7a9e600356466b7455ab6b367]: Textual amendment: S. 61L(1)(aa) inserted (with effect in accordance with Sch. 1 para. 25 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 1 para. 10(a)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/10/a) (with [Sch. 1 paras. 30-34](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/30))
+[^c-5fab81a7a9e600356466b7455ab6b367]: Textual amendment: S. 61L(1)(aa) inserted (with effect in accordance with Sch. 1 para. 25 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 1 para. 10(a)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/10/a) (with [Sch. 1 paras. 30-34](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/30))
 
-[^key-365cfb71cf96e847f1253e26feed7082]: Textual amendment: [S. 61L(1)(ba)](https://www.legislation.gov.uk/ukpga/2003/1/section/61L/1/ba) inserted (25.1.2023) by [Advanced Research and Invention Agency Act 2022 (c. 4)](https://www.legislation.gov.uk/ukpga/2022/4), [s. 13(1)](https://www.legislation.gov.uk/ukpga/2022/4/section/13/1), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2022/4/schedule/3/paragraph/5); [S.I. 2023/58](https://www.legislation.gov.uk/uksi/2023/58), [reg. 2](https://www.legislation.gov.uk/uksi/2023/58/regulation/2)
+[^c-365cfb71cf96e847f1253e26feed7082]: Textual amendment: [S. 61L(1)(ba)](https://www.legislation.gov.uk/ukpga/2003/1/section/61L/1/ba) inserted (25.1.2023) by [Advanced Research and Invention Agency Act 2022 (c. 4)](https://www.legislation.gov.uk/ukpga/2022/4), [s. 13(1)](https://www.legislation.gov.uk/ukpga/2022/4/section/13/1), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2022/4/schedule/3/paragraph/5); [S.I. 2023/58](https://www.legislation.gov.uk/uksi/2023/58), [reg. 2](https://www.legislation.gov.uk/uksi/2023/58/regulation/2)
 
-[^key-441541723b1735f1d1538ea55e84bcc2]: Textual amendment: S. 61L(1)(g) and word inserted (with effect in accordance with Sch. 1 para. 25 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 1 para. 10(c)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/10/c) (with [Sch. 1 paras. 30-34](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/30))
+[^c-441541723b1735f1d1538ea55e84bcc2]: Textual amendment: S. 61L(1)(g) and word inserted (with effect in accordance with Sch. 1 para. 25 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 1 para. 10(c)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/10/c) (with [Sch. 1 paras. 30-34](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/30))

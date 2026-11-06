@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82E. Appeal against designation notice[^key-3be04071b6e982862efa5dedc98b91c5]
+## 82E. Appeal against designation notice[^c-3be04071b6e982862efa5dedc98b91c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3be04071b6e982862efa5dedc98b91c5]: Textual amendment: Ss. 82A-82E inserted (17.11.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 89(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/89/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/996](https://www.legislation.gov.uk/uksi/2025/996), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/996/regulation/2/2/a)
+[^c-3be04071b6e982862efa5dedc98b91c5]: Textual amendment: Ss. 82A-82E inserted (17.11.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 89(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/89/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/996](https://www.legislation.gov.uk/uksi/2025/996), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/996/regulation/2/2/a)

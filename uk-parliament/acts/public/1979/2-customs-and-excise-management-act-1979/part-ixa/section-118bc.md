@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118BC. Inspection powers: gaming duty and machine games duty[^key-4430fe0a1e77a01dbdc48b8ee5491caa][^key-10f27fb5329381b84fe9cfb0d38ceeb2]
+## 118BC. Inspection powers: gaming duty and machine games duty[^c-4430fe0a1e77a01dbdc48b8ee5491caa][^c-10f27fb5329381b84fe9cfb0d38ceeb2]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4430fe0a1e77a01dbdc48b8ee5491caa]: Textual amendment: S. 118BC substituted (with effect in accordance with Sch. 24 para. 66(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 42(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/42/1)
+[^c-4430fe0a1e77a01dbdc48b8ee5491caa]: Textual amendment: S. 118BC substituted (with effect in accordance with Sch. 24 para. 66(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 42(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/42/1)
 
-[^key-10f27fb5329381b84fe9cfb0d38ceeb2]: Textual amendment: Ss. 118BA-118BD inserted (1.4.2011) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 29(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/29/2), [Sch. 13 para. 12](https://www.legislation.gov.uk/ukpga/2010/33/schedule/13/paragraph/12); [S.I. 2011/777](https://www.legislation.gov.uk/uksi/2011/777), [art. 2](https://www.legislation.gov.uk/uksi/2011/777/article/2)
+[^c-10f27fb5329381b84fe9cfb0d38ceeb2]: Textual amendment: Ss. 118BA-118BD inserted (1.4.2011) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 29(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/29/2), [Sch. 13 para. 12](https://www.legislation.gov.uk/ukpga/2010/33/schedule/13/paragraph/12); [S.I. 2011/777](https://www.legislation.gov.uk/uksi/2011/777), [art. 2](https://www.legislation.gov.uk/uksi/2011/777/article/2)

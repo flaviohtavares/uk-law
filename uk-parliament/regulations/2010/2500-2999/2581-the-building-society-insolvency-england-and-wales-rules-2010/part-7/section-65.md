@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Admission and rejection of proofs for dividend[^key-bee1cba3aedb3b4505d522eb29873f01]
+## 65. Admission and rejection of proofs for dividend[^c-bee1cba3aedb3b4505d522eb29873f01]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.82 of the 1986 Rules.
 
 ## Annotations
 
-[^key-bee1cba3aedb3b4505d522eb29873f01]: Commencement: Rule 65 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-bee1cba3aedb3b4505d522eb29873f01]: Commencement: Rule 65 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

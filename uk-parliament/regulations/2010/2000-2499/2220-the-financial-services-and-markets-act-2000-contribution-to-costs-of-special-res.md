@@ -323,7 +323,7 @@ Where a reference is made under regulation 14(5) or 15, Schedule 3 shall apply.
 
 (1) This regulation applies where the stabilisation power exercised in respect of the banking institution has resulted in a qualifying claimant having all or part of their protected deposits held by that institution (or, where the banking institution is a holding company, held by a subsidiary of that company) being transferred to a new entity.
 
-(2) For the purposes of the scheme (including the provisions in the relevant fees rules[^key-e06b5d4cbdd06e48e232bc4f259fefc4])—
+(2) For the purposes of the scheme (including the provisions in the relevant fees rules[^c-e06b5d4cbdd06e48e232bc4f259fefc4])—
 
 - (a) any payments made by the scheme manager, under these Regulations, in respect of that banking institution, shall constitute payment of compensation to that claimant in respect of claims under the scheme against the banking institution (or as the case may be, the subsidiary) for the amount of their protected deposit transferred;
 - (b) the banking institution, (or if the banking institution is a holding company, the subsidiary of that company holding protected deposits,) shall be deemed to be in default;
@@ -341,16 +341,16 @@ and accordingly, a qualifying claimant has no right to claim, and the scheme man
 
 (4) In this regulation—
 
-- [^key-da11418bd937a9d715830702bee6e191]...
+- [^c-da11418bd937a9d715830702bee6e191]...
 - “**eligible claimant**” means a person who is eligible to make a claim under the scheme in respect of a deposit at a banking institution [^c20431471];
-- [^key-da11418bd937a9d715830702bee6e191]...
-- “in default” means in default in accordance with rules made by—[^key-4213f28b39c6224df3b48b1984004d3c]
+- [^c-da11418bd937a9d715830702bee6e191]...
+- “in default” means in default in accordance with rules made by—[^c-4213f28b39c6224df3b48b1984004d3c]
   - (a) if the banking institution is a PRA-authorised person, the PRA or the FCA;
   - (b) in any other case, the FCA;
 - “**in temporary public ownership**” means that a share transfer order has been made under, or in accordance with, section 13(2) of the 2009 Act and the banking institution is wholly owned by a nominee of the Treasury or a company wholly owned by the Treasury;
 - “**qualifying claimant**” means an eligible claimant who, if the banking institution were to have been in default immediately before the relevant time, would have had a claim against the banking institution, or in the case of a banking institution which is a holding company would have had a claim against one more of its subsidiary companies, in respect of a protected deposit; and
 - “**protected deposit**” means a protected deposit under the scheme [^c20431481] held with the banking institution.
-- “relevant fees rules” means rules (as amended from time to time) made under section 213 of[^key-ec7274fb8ac6ad42fea2dc4c1c424c3f] the Act by—
+- “relevant fees rules” means rules (as amended from time to time) made under section 213 of[^c-ec7274fb8ac6ad42fea2dc4c1c424c3f] the Act by—
   - (a) if the banking institution is a PRA-authorised person, the PRA or the FCA;
   - (b) in any other case, the FCA.
 
@@ -651,17 +651,17 @@ An Impact Assessment of the effect that allowing the cost of funding the exercis
 
 [^c20431461]: Marginal citation: “**The Tribunal**” means the Upper Tribunal: see [section 417(1)](https://www.legislation.gov.uk/uksi/2010/2220/section/417/1) of the Act as amended by [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22).
 
-[^key-e06b5d4cbdd06e48e232bc4f259fefc4]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2010/2220/regulation/17/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 189(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/189/a)
+[^c-e06b5d4cbdd06e48e232bc4f259fefc4]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2010/2220/regulation/17/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 189(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/189/a)
 
-[^key-da11418bd937a9d715830702bee6e191]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/uksi/2010/2220/regulation/17/4) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 189(b)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/189/b/i)
+[^c-da11418bd937a9d715830702bee6e191]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/uksi/2010/2220/regulation/17/4) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 189(b)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/189/b/i)
 
 [^c20431471]: Marginal citation: See rule 4.2.1. of the COMP Sourcebook.
 
-[^key-4213f28b39c6224df3b48b1984004d3c]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/uksi/2010/2220/regulation/17/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 189(b)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/189/b/ii)
+[^c-4213f28b39c6224df3b48b1984004d3c]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/uksi/2010/2220/regulation/17/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 189(b)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/189/b/ii)
 
 [^c20431481]: Marginal citation: See rule 5.3.1 of the COMP Sourcebook.
 
-[^key-ec7274fb8ac6ad42fea2dc4c1c424c3f]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/uksi/2010/2220/regulation/17/4) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 189(c)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/189/c)
+[^c-ec7274fb8ac6ad42fea2dc4c1c424c3f]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/uksi/2010/2220/regulation/17/4) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 189(c)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/189/c)
 
 [^c20431491]: Marginal citation: See section 16(2) of the Financial Services Act 2010.
 

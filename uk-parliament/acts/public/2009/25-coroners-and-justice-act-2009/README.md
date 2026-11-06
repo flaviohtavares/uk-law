@@ -34,7 +34,7 @@ An Act to amend the law relating to coroners, to investigation of deaths and to 
 
 \[12th November 2009\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-cb0b200bf829254d681b3156021e9d6c]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-cb0b200bf829254d681b3156021e9d6c]
 
 ## Contents
 
@@ -83,7 +83,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 11 — Duty or power to suspend or resume investigations](part-1/section-11.md)
 
-##### Deaths related to the Northern Ireland Troubles[^key-4e4ff62a1f69adec9e496be354d406ee]
+##### Deaths related to the Northern Ireland Troubles[^c-4e4ff62a1f69adec9e496be354d406ee]
 
 - [Section 11A — Investigations and inquests into Troubles-related deaths](part-1/section-11a.md)
 
@@ -552,6 +552,6 @@ Schedules
 
 ## Annotations
 
-[^key-cb0b200bf829254d681b3156021e9d6c]: Modification: Act: power to amend conferred (E.W.) (26.5.2019) by [Civil Partnerships, Marriages and Deaths (Registration etc) Act 2019 (c. 12)](https://www.legislation.gov.uk/ukpga/2019/12), [s. 4(4)](https://www.legislation.gov.uk/ukpga/2019/12/section/4/4)
+[^c-cb0b200bf829254d681b3156021e9d6c]: Modification: Act: power to amend conferred (E.W.) (26.5.2019) by [Civil Partnerships, Marriages and Deaths (Registration etc) Act 2019 (c. 12)](https://www.legislation.gov.uk/ukpga/2019/12), [s. 4(4)](https://www.legislation.gov.uk/ukpga/2019/12/section/4/4)
 
-[^key-4e4ff62a1f69adec9e496be354d406ee]: Textual amendment: S. 11A and cross-heading inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3), [Sch. 11 para. 1(1)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/11/paragraph/1/1) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
+[^c-4e4ff62a1f69adec9e496be354d406ee]: Textual amendment: S. 11A and cross-heading inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3), [Sch. 11 para. 1(1)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/11/paragraph/1/1) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))

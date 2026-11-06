@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 208. Costs paid otherwise than out of the insolvent estate[^key-d06bfaf6eec237276d96072c0049c631]
+## 208. Costs paid otherwise than out of the insolvent estate[^c-d06bfaf6eec237276d96072c0049c631]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 7.38 of the 1986 Rules.
 
 ## Annotations
 
-[^key-d06bfaf6eec237276d96072c0049c631]: Commencement: Rule 208 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-d06bfaf6eec237276d96072c0049c631]: Commencement: Rule 208 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

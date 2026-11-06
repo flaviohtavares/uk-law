@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 186. Forfeiture and set-off: procedure[^key-bffbfac1585419d37ac001fa86028f6c]
+## 186. Forfeiture and set-off: procedure[^c-bffbfac1585419d37ac001fa86028f6c]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bffbfac1585419d37ac001fa86028f6c]: Commencement: Reg. 186 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-bffbfac1585419d37ac001fa86028f6c]: Commencement: Reg. 186 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

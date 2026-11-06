@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Prohibition on promoting homosexuality by teaching or by publishing material.[^key-635e31158d8d81b76dd03466e599e950]
+## 28. Prohibition on promoting homosexuality by teaching or by publishing material.[^c-635e31158d8d81b76dd03466e599e950]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-635e31158d8d81b76dd03466e599e950]: Textual amendment: S. 28 repealed: (S.) (29.3.2001) by [2000 asp 7](https://www.legislation.gov.uk/asp/2000/7), [s. 36(1)](https://www.legislation.gov.uk/asp/2000/7/section/36/1), [Sch. 4](https://www.legislation.gov.uk/asp/2000/7/schedule/4) (with [s. 31](https://www.legislation.gov.uk/asp/2000/7/section/31)); [S.S.I. 2001/113](https://www.legislation.gov.uk/ssi/2001/113), [art. 2(c)(d)](https://www.legislation.gov.uk/ssi/2001/113/article/2/c/d); and (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(2)(f)(ii)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/2/f/ii), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1)
+[^c-635e31158d8d81b76dd03466e599e950]: Textual amendment: S. 28 repealed: (S.) (29.3.2001) by [2000 asp 7](https://www.legislation.gov.uk/asp/2000/7), [s. 36(1)](https://www.legislation.gov.uk/asp/2000/7/section/36/1), [Sch. 4](https://www.legislation.gov.uk/asp/2000/7/schedule/4) (with [s. 31](https://www.legislation.gov.uk/asp/2000/7/section/31)); [S.S.I. 2001/113](https://www.legislation.gov.uk/ssi/2001/113), [art. 2(c)(d)](https://www.legislation.gov.uk/ssi/2001/113/article/2/c/d); and (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(2)(f)(ii)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/2/f/ii), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Placement of looked after children with prospective adopters[^key-8592595cf4820237acc8ead27135703b]
+## 2. Placement of looked after children with prospective adopters[^c-8592595cf4820237acc8ead27135703b]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8592595cf4820237acc8ead27135703b]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2014/6/section/2) in force at 25.7.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/889/article/6/b)
+[^c-8592595cf4820237acc8ead27135703b]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2014/6/section/2) in force at 25.7.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/889/article/6/b)

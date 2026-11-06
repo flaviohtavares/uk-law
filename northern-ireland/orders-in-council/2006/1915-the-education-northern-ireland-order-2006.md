@@ -94,7 +94,7 @@ but (in either case) does not apply in relation to any admission to a school tak
 
 (3) This Order shall be construed as one with the 1986 Order; and accordingly Article 2 of the 1986 Order, in so far as it relates to the interpretation of words or expressions used in that Order and in this Order, applies for the purposes of this Order as it applies for the purposes of that Order.
 
-## PART II — THE CURRICULUM[^key-3e27faeded784708efbe75596bd4e494][^key-6fc247ea1284e5f045aa3c605e609e16]
+## PART II — THE CURRICULUM[^c-3e27faeded784708efbe75596bd4e494][^c-6fc247ea1284e5f045aa3c605e609e16]
 
 ### Interpretation
 
@@ -112,7 +112,7 @@ but (in either case) does not apply in relation to any admission to a school tak
 - “**levels of progression**” means levels determined for the purpose of measuring the progress of pupils in the development of a cross-curricular skill;
 - “**minimum content**”, in relation to an area of learning and a key stage, means the knowledge, understanding and skills within that area of learning which are required to be taught to pupils of different abilities and maturities during that stage;
 - “**NICCEA**” means the Northern Ireland Council for the Curriculum, Examinations and Assessment;
-- [^key-217b325c8eab5876318e14bcc75bb3ff]...
+- [^c-217b325c8eab5876318e14bcc75bb3ff]...
 - “**school year**” means a year ending on 31st July;
 - “**skill**” includes any personal capability.
 
@@ -157,7 +157,7 @@ is conducted (wholly or partly) in Irish, and “**school**” includes part of 
 - (a) include provision for religious education for all registered pupils at the school in accordance with such of the provisions of Article 21 of the 1986 Order as apply in relation to the school; and
 - (b) in so far as it relates to registered pupils at the school of compulsory school age, meet the requirements of Articles 6 to 9.
 
-(1A)[^key-713538fbde287a6db5e45f0bf7d65893] The curriculum for every grant-aided school shall, in relation to key stages 3 and 4, include age-appropriate, comprehensive and scientifically accurate education on sexual and reproductive health and rights, covering prevention of early pregnancy and access to abortion.
+(1A)[^c-713538fbde287a6db5e45f0bf7d65893] The curriculum for every grant-aided school shall, in relation to key stages 3 and 4, include age-appropriate, comprehensive and scientifically accurate education on sexual and reproductive health and rights, covering prevention of early pregnancy and access to abortion.
 
 (2) In Articles 6 to 9—
 
@@ -286,7 +286,7 @@ require pupils to be assessed by reference to levels of progression specified un
 
 (7) NICCEA shall send to the Board of Governors of every grant-aided school which appears to NICCEA to be affected a copy of every document published by it under paragraph (6)(c).
 
-#### 10A. Relationships and Sexuality Education[^key-19285bb89f0ab2c484487eead72e5610]
+#### 10A. Relationships and Sexuality Education[^c-19285bb89f0ab2c484487eead72e5610]
 
 (1) The Department must, by 1st January 2024, issue guidance on the content and delivery of the education required to be provided by virtue of Article 5(1A).
 
@@ -347,7 +347,7 @@ require pupils to be assessed by reference to levels of progression specified un
 
 - (a) when determining or reviewing its policy in relation to the curriculum for the school—
   - (i) to take account of the findings of any inspection of the school under Article 102 of the 1986 Order;
-  - (ii) to consider any representations made to it regarding the curriculum by the Authority[^key-efe894e93d98f9b85bcb0e0b0819f8cc] , the Council for Catholic Maintained Schools (where the school is a Catholic maintained school) and any other body or person connected with the community served by the school;
+  - (ii) to consider any representations made to it regarding the curriculum by the Authority[^c-efe894e93d98f9b85bcb0e0b0819f8cc] , the Council for Catholic Maintained Schools (where the school is a Catholic maintained school) and any other body or person connected with the community served by the school;
 - (b) to consult the principal of the school before making or varying any statement under paragraph (1)(b).
 
 (5) The scheme of management for every grant-aided school shall provide for the principal to be allocated such functions as will, subject to the resources available, enable him to determine and organise the curriculum and secure that it is followed within the school.
@@ -358,7 +358,7 @@ require pupils to be assessed by reference to levels of progression specified un
 
 (8) The Board of Governors of a grant-aided school shall send a copy of every statement made by it under paragraph (1)(b) to—
 
-- (a) the Authority[^key-15502d5d73de7c94fac2a37c3fce2618] ; and
+- (a) the Authority[^c-15502d5d73de7c94fac2a37c3fce2618] ; and
 - (b) if the school is a Catholic maintained school, the Council for Catholic Maintained Schools.
 
 #### 13. Duties with respect to requirements of this Part
@@ -373,7 +373,7 @@ require pupils to be assessed by reference to levels of progression specified un
 
 (3) It shall be the duty of—
 
-- (a) the Department and the Authority[^key-a9c6d360ac40011e0d0b3de83ed4be34] in relation to all grant-aided schools;
+- (a) the Department and the Authority[^c-a9c6d360ac40011e0d0b3de83ed4be34] in relation to all grant-aided schools;
 - (b) the Council for Catholic Maintained Schools in relation to Catholic maintained schools,
 
 to exercise their functions with a view to ensuring that the Boards of Governors and principals of grant-aided schools are in a position to fulfil their duties under the preceding provisions of this Part.
@@ -393,9 +393,9 @@ to exercise their functions with a view to ensuring that the Boards of Governors
 
 - (a) the Board of Governors of the school;
 - (b) NICCEA, with the agreement of the Board of Governors of the school; or
-- (c) the Authority[^key-2b19f175373ca1a69401b2cd8c1f35af] , with the agreement of the Board of Governors of the school.
+- (c) the Authority[^c-2b19f175373ca1a69401b2cd8c1f35af] , with the agreement of the Board of Governors of the school.
 
-(4) Before giving a direction under paragraph (1) on an application mentioned in paragraph (3)(a) or (b), the Department shall consult the Authority[^key-24b684db0c9fb3c5a0e729f3a924ae94] .
+(4) Before giving a direction under paragraph (1) on an application mentioned in paragraph (3)(a) or (b), the Department shall consult the Authority[^c-24b684db0c9fb3c5a0e729f3a924ae94] .
 
 (5) The Department may make it a condition of a direction under paragraph (1) that any body by which or with whose agreement the request for the direction was made should, when so directed or at specified intervals, report to the Department on any matters specified by the Department.
 
@@ -561,23 +561,23 @@ a Board of Governors shall take account of such guidance as may from time to tim
 
 (2) Before giving a direction under paragraph (1) which affects any school the Department shall consult—
 
-- (a) the Authority[^key-e24894d55c9b07d6ba39b5631e443b16] ; and
+- (a) the Authority[^c-e24894d55c9b07d6ba39b5631e443b16] ; and
 - (b) in the case of a Catholic maintained school, the Council for Catholic Maintained Schools.
 
-(3) The Department may make it a condition of a direction under paragraph (1) affecting any school that the Board of Governors or the Authority[^key-84934bedff66a1992180db9c35906fb7] should, when so directed or at specified intervals, report to the Department on any matters specified by the Department.
+(3) The Department may make it a condition of a direction under paragraph (1) affecting any school that the Board of Governors or the Authority[^c-84934bedff66a1992180db9c35906fb7] should, when so directed or at specified intervals, report to the Department on any matters specified by the Department.
 
 ### Miscellaneous and supplementary
 
 #### 23. Curriculum advice and support by boards
 
-(1) the Authority shall prepare and submit to the Department a scheme for the provision to all grant-aided schools [^key-02436c7d1e988659a883a129934e8571]... of advisory and support services in relation to the curricula and staff of such schools.
+(1) the Authority shall prepare and submit to the Department a scheme for the provision to all grant-aided schools [^c-02436c7d1e988659a883a129934e8571]... of advisory and support services in relation to the curricula and staff of such schools.
 
 (2) A scheme under paragraph (1) shall be in such form as the Department may direct and shall in particular contain provision—
 
 - (a) requiring the Authority , in accordance with a programme prepared under Article 149 of the 1989 Order, to secure the provision of further training for teachers (whether or not employed on the staff of a particular school);
 - (b) empowering the Authority to pay to persons undergoing the training referred to in sub-paragraph (a) travelling and other allowances at such rate or of such amount and subject to such conditions as the Authority may determine;
 - (c) enabling the Authority to provide teaching and training materials for use in schools or by persons undergoing the training referred to in sub-paragraph (a);
-- (d) enabling services, training and materials mentioned in the scheme to be provided by the Authority itself or through the agency of another [^key-4ca3fdcce94119cd3181959113182942]..., person or body;
+- (d) enabling services, training and materials mentioned in the scheme to be provided by the Authority itself or through the agency of another [^c-4ca3fdcce94119cd3181959113182942]..., person or body;
 - (e) requiring such services, training and materials to be provided free of charge;
 - (f) requiring the Authority to secure the agreement of the Board of Governors of a school to the entry into that school for the purposes of the scheme of any persons employed by the Authority .
 
@@ -655,7 +655,7 @@ and shall not require such information to be made available to any body or perso
 
 #### 25. Complaints[^c16556131]
 
-(1) the Authority shall, in accordance with regulations under paragraph (4), appoint a tribunal (in this Article referred to as a complaints tribunal) to hear and determine any complaint which is to the effect that the Authority or the Board of Governors of a grant-aided school [^key-348774232f076bf589e528c54bf18d22]...—
+(1) the Authority shall, in accordance with regulations under paragraph (4), appoint a tribunal (in this Article referred to as a complaints tribunal) to hear and determine any complaint which is to the effect that the Authority or the Board of Governors of a grant-aided school [^c-348774232f076bf589e528c54bf18d22]...—
 
 - (a) has acted or is proposing to act unreasonably with respect to the exercise of any power conferred or the performance of any duty imposed on it by or under a relevant provision; or
 - (b) has failed to discharge any such duty.
@@ -701,7 +701,7 @@ the tribunal may include in a notice given under paragraph (5) a requirement for
 
 (10) A complaints tribunal shall not be regarded as a committee of the Authority .
 
-(11) Article 79(1) of the 1986 Order shall apply to members of a complaints tribunal [^key-8e430aaf2ce62f1e54feb28f729dab73]....
+(11) Article 79(1) of the 1986 Order shall apply to members of a complaints tribunal [^c-8e430aaf2ce62f1e54feb28f729dab73]....
 
 #### 26. Application of this Part
 
@@ -883,7 +883,7 @@ After Article 16A of the 1997 Order insert—
 (2) A scheme under this Article—
 
 - (a) shall provide that—
-  - (i) a registered pupil at a controlled school may be expelled from that school only by the Authority[^key-dc09e7d713e7f4987fa2cce51ddcd6f9] on the application of the Board of Governors of the school;
+  - (i) a registered pupil at a controlled school may be expelled from that school only by the Authority[^c-dc09e7d713e7f4987fa2cce51ddcd6f9] on the application of the Board of Governors of the school;
   - (ii) a registered pupil at any other grant-aided school may be expelled from that school only by the Board of Governors of the school;
 - (b) shall provide that a registered pupil at a grant-aided school may be suspended from that school only by a person or body specified in the scheme;
 - (c) shall specify the maximum period—
@@ -894,7 +894,7 @@ After Article 16A of the 1997 Order insert—
 
 (3) It is the duty of—
 
-- (a) the Authority[^key-15dd86721b6a1c050a8ee196f16c192f] and the Board of Governors (in relation to a controlled school); and
+- (a) the Authority[^c-15dd86721b6a1c050a8ee196f16c192f] and the Board of Governors (in relation to a controlled school); and
 - (b) the Board of Governors (in relation to any other grant-aided school),
 
 to comply with a scheme under this Article.
@@ -910,13 +910,13 @@ to comply with a scheme under this Article.
 - (b) the Board of Governors of a number of grant-aided schools selected by the Department as being a representative sample of all such schools; and
 - (c) any other person with whom consultation appears to it to be desirable.
 
-(6)[^key-601aee643b1d7b45e73e856bccc67f4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-601aee643b1d7b45e73e856bccc67f4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 32. Appeals against expulsion
 
 **Not yet in force.**
 
-(1) Where the Authority[^key-a650ce3d8e8098a2efcce90b075ccf99] decides to expel a registered pupil from a controlled school—
+(1) Where the Authority[^c-a650ce3d8e8098a2efcce90b075ccf99] decides to expel a registered pupil from a controlled school—
 
 - (a) the Authority shall immediately—
   - (i) inform the Board of Governors of the school concerned of that decision; and
@@ -951,7 +951,7 @@ to comply with a scheme under this Article.
   - (ii) the tribunal to hear and determine an appeal,
 
   within such period as may be specified in, or determined in accordance with, the regulations;
-- (d) provide for representations to be made to the tribunal by or on behalf of the Board of Governors of the school concerned, the relevant person and (in the case of a controlled school) the Authority[^key-0bb26ddfa80ed9be30f38320f8d45873] ;
+- (d) provide for representations to be made to the tribunal by or on behalf of the Board of Governors of the school concerned, the relevant person and (in the case of a controlled school) the Authority[^c-0bb26ddfa80ed9be30f38320f8d45873] ;
 - (e) provide for the tribunal in determining an appeal to have regard in particular to any prescribed matters;
 - (f) provide for the tribunal to sit in private, except in such circumstances as may be specified in, or determined in accordance with, the regulations;
 - (g) provide that all matters relating to the procedure of a tribunal which are not specifically regulated by the regulations are to be determined by the Department.
@@ -1418,15 +1418,15 @@ Part II of this Order makes new provision concerning the curriculum for grant-ai
 
 [^c19937321]: Textual amendment: [Art. 1(6)(a)(b)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/6/a/b) substituted (22.11.2006) by [Northern Ireland (St Andrews Agreement) Act 2006 (c. 53)](https://www.legislation.gov.uk/ukpga/2006/53), [ss. 21(1)](https://www.legislation.gov.uk/ukpga/2006/53/section/21/1), [27(8)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/8) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2006/53/section/1/3))
 
-[^key-3e27faeded784708efbe75596bd4e494]: Modification: Pt. 2 power to disapply or modify conferred (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 17 para. 17](https://www.legislation.gov.uk/ukpga/2020/7/schedule/17/paragraph/17) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
+[^c-3e27faeded784708efbe75596bd4e494]: Modification: Pt. 2 power to disapply or modify conferred (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 17 para. 17](https://www.legislation.gov.uk/ukpga/2020/7/schedule/17/paragraph/17) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
 
-[^key-6fc247ea1284e5f045aa3c605e609e16]: Modification: Pt. 2 expiry of earlier affecting provision [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7), [Sch. 16 para. 17](https://www.legislation.gov.uk/ukpga/2020/7/schedule/16/paragraph/17) (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-6fc247ea1284e5f045aa3c605e609e16]: Modification: Pt. 2 expiry of earlier affecting provision [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7), [Sch. 16 para. 17](https://www.legislation.gov.uk/ukpga/2020/7/schedule/16/paragraph/17) (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
 [^c16544371]: Commencement: Art. 3 in force for certain purposes at 27.7.2006 and otherwise at 1.8.2006, see art. 1(2)(3)
 
-[^key-217b325c8eab5876318e14bcc75bb3ff]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/nisi/2006/1915/article/3/1) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-217b325c8eab5876318e14bcc75bb3ff]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/nisi/2006/1915/article/3/1) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-713538fbde287a6db5e45f0bf7d65893]: Textual amendment: [Art. 5(1A)](https://www.legislation.gov.uk/nisi/2006/1915/article/5/1A) inserted (1.7.2023) by [The Relationships and Sexuality Education (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/602)](https://www.legislation.gov.uk/uksi/2023/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/602/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/602/regulation/2/2)
+[^c-713538fbde287a6db5e45f0bf7d65893]: Textual amendment: [Art. 5(1A)](https://www.legislation.gov.uk/nisi/2006/1915/article/5/1A) inserted (1.7.2023) by [The Relationships and Sexuality Education (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/602)](https://www.legislation.gov.uk/uksi/2023/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/602/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/602/regulation/2/2)
 
 [^c16554551]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisi/2006/1915/article/6) in force for certain purposes at 27.7.2006 and otherwise at 1.8.2006, see [art. 1(2)(3)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/2/3)
 
@@ -1438,39 +1438,39 @@ Part II of this Order makes new provision concerning the curriculum for grant-ai
 
 [^c16554591]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisi/2006/1915/article/10) in force for certain purposes at 27.7.2006 and otherwise at 1.8.2006, see [art. 1(2)(3)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/2/3)
 
-[^key-19285bb89f0ab2c484487eead72e5610]: Textual amendment: [Art. 10A](https://www.legislation.gov.uk/nisi/2006/1915/article/10A) inserted (6.6.2023 for specified purposes, 1.7.2023 in so far as not already in force) by [The Relationships and Sexuality Education (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/602)](https://www.legislation.gov.uk/uksi/2023/602), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2023/602/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2023/602/regulation/2/3)
+[^c-19285bb89f0ab2c484487eead72e5610]: Textual amendment: [Art. 10A](https://www.legislation.gov.uk/nisi/2006/1915/article/10A) inserted (6.6.2023 for specified purposes, 1.7.2023 in so far as not already in force) by [The Relationships and Sexuality Education (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/602)](https://www.legislation.gov.uk/uksi/2023/602), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2023/602/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2023/602/regulation/2/3)
 
 [^c16554601]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisi/2006/1915/article/11) in force for certain purposes at 27.7.2006 and otherwise at 1.8.2006, see [art. 1(2)(3)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/2/3)
 
-[^key-efe894e93d98f9b85bcb0e0b0819f8cc]: Textual amendment: Words in [art. 12(4)(a)(ii)](https://www.legislation.gov.uk/nisi/2006/1915/article/12/4/a/ii) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 25(1)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/25/1) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-efe894e93d98f9b85bcb0e0b0819f8cc]: Textual amendment: Words in [art. 12(4)(a)(ii)](https://www.legislation.gov.uk/nisi/2006/1915/article/12/4/a/ii) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 25(1)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/25/1) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-15502d5d73de7c94fac2a37c3fce2618]: Textual amendment: Words in [art. 12(8)(a)](https://www.legislation.gov.uk/nisi/2006/1915/article/12/8/a) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 25(1)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/25/1) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-15502d5d73de7c94fac2a37c3fce2618]: Textual amendment: Words in [art. 12(8)(a)](https://www.legislation.gov.uk/nisi/2006/1915/article/12/8/a) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 25(1)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/25/1) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-a9c6d360ac40011e0d0b3de83ed4be34]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/2006/1915) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-a9c6d360ac40011e0d0b3de83ed4be34]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/2006/1915) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-2b19f175373ca1a69401b2cd8c1f35af]: Textual amendment: Words in [art. 14(3)(c)](https://www.legislation.gov.uk/nisi/2006/1915/article/14/3/c) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 25(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/25/2) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-2b19f175373ca1a69401b2cd8c1f35af]: Textual amendment: Words in [art. 14(3)(c)](https://www.legislation.gov.uk/nisi/2006/1915/article/14/3/c) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 25(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/25/2) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-24b684db0c9fb3c5a0e729f3a924ae94]: Textual amendment: Words in [art. 14(4)](https://www.legislation.gov.uk/nisi/2006/1915/article/14/4) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 25(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/25/2) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-24b684db0c9fb3c5a0e729f3a924ae94]: Textual amendment: Words in [art. 14(4)](https://www.legislation.gov.uk/nisi/2006/1915/article/14/4) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 25(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/25/2) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c16556081]: Commencement: [Art. 15](https://www.legislation.gov.uk/nisi/2006/1915/article/15) in force for certain purposes at 27.7.2006 and otherwise at 1.8.2006, see [art. 1(2)(3)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/2/3)
 
 [^c16556091]: Commencement: Art. 17 in force for certain purposes at 27.7.2006 and otherwise at 1.8.2006, see art. 1(2)(3)
 
-[^key-e24894d55c9b07d6ba39b5631e443b16]: Textual amendment: Words in [art. 22(2)(a)](https://www.legislation.gov.uk/nisi/2006/1915/article/22/2/a) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 25(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/25/3) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-e24894d55c9b07d6ba39b5631e443b16]: Textual amendment: Words in [art. 22(2)(a)](https://www.legislation.gov.uk/nisi/2006/1915/article/22/2/a) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 25(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/25/3) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-84934bedff66a1992180db9c35906fb7]: Textual amendment: Words in [art. 22(3)](https://www.legislation.gov.uk/nisi/2006/1915/article/22/3) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 25(4)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/25/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-84934bedff66a1992180db9c35906fb7]: Textual amendment: Words in [art. 22(3)](https://www.legislation.gov.uk/nisi/2006/1915/article/22/3) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 25(4)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/25/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-02436c7d1e988659a883a129934e8571]: Textual amendment: Words in art. 23(1) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-02436c7d1e988659a883a129934e8571]: Textual amendment: Words in art. 23(1) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-4ca3fdcce94119cd3181959113182942]: Textual amendment: Word in art. 23(2)(d) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-4ca3fdcce94119cd3181959113182942]: Textual amendment: Word in art. 23(2)(d) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c16556101]: Commencement: Art. 24 in force for certain purposes at 27.7.2006 and otherwise at 1.8.2006, see art. 1(2)(3)
 
 [^c16556131]: Commencement: Art. 25 in force for certain purposes at 27.7.2006 and otherwise at 1.8.2006, see art. 1(2)(3)
 
-[^key-348774232f076bf589e528c54bf18d22]: Textual amendment: Words in art. 25(1) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-348774232f076bf589e528c54bf18d22]: Textual amendment: Words in art. 25(1) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-8e430aaf2ce62f1e54feb28f729dab73]: Textual amendment: Words in art. 25(11) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-8e430aaf2ce62f1e54feb28f729dab73]: Textual amendment: Words in art. 25(11) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c16576151]: Commencement: [Art. 27](https://www.legislation.gov.uk/nisi/2006/1915/article/27) partly in force; [art. 27](https://www.legislation.gov.uk/nisi/2006/1915/article/27) in force for certain purposes at 1.10.2006, see [art. 1(5)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/5) (with application as mentioned in the commencing provision)
 
@@ -1480,15 +1480,15 @@ Part II of this Order makes new provision concerning the curriculum for grant-ai
 
 [^c16667081]: Commencement: [Art. 30](https://www.legislation.gov.uk/nisi/2006/1915/article/30) partly in force; [art. 30](https://www.legislation.gov.uk/nisi/2006/1915/article/30) in force for certain purposes at 1.10.2006, see [art. 1(5)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/5) (with application as mentioned in the commencing provision)
 
-[^key-dc09e7d713e7f4987fa2cce51ddcd6f9]: Textual amendment: Words in art. 31(2)(a)(i) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 25(5)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/25/5) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-dc09e7d713e7f4987fa2cce51ddcd6f9]: Textual amendment: Words in art. 31(2)(a)(i) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 25(5)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/25/5) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-15dd86721b6a1c050a8ee196f16c192f]: Textual amendment: Words in art. 31(3)(a) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 25(5)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/25/5) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-15dd86721b6a1c050a8ee196f16c192f]: Textual amendment: Words in art. 31(3)(a) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 25(5)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/25/5) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-601aee643b1d7b45e73e856bccc67f4a]: Textual amendment: Art. 31(6) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-601aee643b1d7b45e73e856bccc67f4a]: Textual amendment: Art. 31(6) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-a650ce3d8e8098a2efcce90b075ccf99]: Textual amendment: Words in art. 32(1) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 25(6)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/25/6) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-a650ce3d8e8098a2efcce90b075ccf99]: Textual amendment: Words in art. 32(1) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 25(6)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/25/6) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-0bb26ddfa80ed9be30f38320f8d45873]: Textual amendment: Words in art. 32(7)(d) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 25(6)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/25/6) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-0bb26ddfa80ed9be30f38320f8d45873]: Textual amendment: Words in art. 32(7)(d) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 25(6)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/25/6) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c16579761]: Commencement: [Art. 44](https://www.legislation.gov.uk/nisi/2006/1915/article/44) partly in operation; [art. 44](https://www.legislation.gov.uk/nisi/2006/1915/article/44) in operation for certain purposes at 1.8.2006 and for certain further purposes at 1.10.2006, see [art. 1(2)(4)(5)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/2/4/5) (with application as mentioned in art. 1(5)); [art. 44(1)(2)](https://www.legislation.gov.uk/nisi/2006/1915/article/44/1/2) in operation for certain purposes at 23.3.2007 by [S.R. 2007/197](https://www.legislation.gov.uk/nisr/2007/197), [art. 2](https://www.legislation.gov.uk/nisr/2007/197/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/197/schedule)
 

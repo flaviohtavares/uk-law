@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113C. Health in pregnancy grant: civil penalty for fraud, etc.[^key-7519849eab1f5607a269d830de479307]
+## 113C. Health in pregnancy grant: civil penalty for fraud, etc.[^c-7519849eab1f5607a269d830de479307]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3A (health in pregnancy grant: civil penalty for fraud, etc.) has effec
 
 ## Annotations
 
-[^key-7519849eab1f5607a269d830de479307]: Textual amendment: S. 113C inserted (21.7.2008 for specified purposes, 1.1.2009 in so far as not already in force) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 133(1)](https://www.legislation.gov.uk/ukpga/2008/14/section/133/1), [170](https://www.legislation.gov.uk/ukpga/2008/14/section/170); [S.I. 2008/3137](https://www.legislation.gov.uk/uksi/2008/3137), [art. 2](https://www.legislation.gov.uk/uksi/2008/3137/article/2)
+[^c-7519849eab1f5607a269d830de479307]: Textual amendment: S. 113C inserted (21.7.2008 for specified purposes, 1.1.2009 in so far as not already in force) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 133(1)](https://www.legislation.gov.uk/ukpga/2008/14/section/133/1), [170](https://www.legislation.gov.uk/ukpga/2008/14/section/170); [S.I. 2008/3137](https://www.legislation.gov.uk/uksi/2008/3137), [art. 2](https://www.legislation.gov.uk/uksi/2008/3137/article/2)

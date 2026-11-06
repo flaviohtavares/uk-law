@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 79. Withholding of benefit[^key-f784de04354470a3ac7dc949695326ab]
+## 79. Withholding of benefit[^c-f784de04354470a3ac7dc949695326ab]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f784de04354470a3ac7dc949695326ab]: Commencement: [Reg. 79](https://www.legislation.gov.uk/uksi/1988/1890/regulation/79) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-f784de04354470a3ac7dc949695326ab]: Commencement: [Reg. 79](https://www.legislation.gov.uk/uksi/1988/1890/regulation/79) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

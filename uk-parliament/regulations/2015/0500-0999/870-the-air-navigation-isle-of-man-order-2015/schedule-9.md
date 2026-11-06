@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 9 — Information and instructions which must be included in an aerodrome manual[^key-c72605d423d010b2e7aae976db7efe83]
+## SCHEDULE 9 — Information and instructions which must be included in an aerodrome manual[^c-c72605d423d010b2e7aae976db7efe83]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,48 +24,48 @@ summary: ''
 
 Article 129(7)
 
-**1.**[^key-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-c72605d423d010b2e7aae976db7efe83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c72605d423d010b2e7aae976db7efe83]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/uksi/2015/870/schedule/9) omitted (coming into force in accordance with art. 1(2) of the amending S.I.) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2022 (S.I. 2022/172)](https://www.legislation.gov.uk/uksi/2022/172), [art. 12](https://www.legislation.gov.uk/uksi/2022/172/article/12)
+[^c-c72605d423d010b2e7aae976db7efe83]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/uksi/2015/870/schedule/9) omitted (coming into force in accordance with art. 1(2) of the amending S.I.) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2022 (S.I. 2022/172)](https://www.legislation.gov.uk/uksi/2022/172), [art. 12](https://www.legislation.gov.uk/uksi/2022/172/article/12)

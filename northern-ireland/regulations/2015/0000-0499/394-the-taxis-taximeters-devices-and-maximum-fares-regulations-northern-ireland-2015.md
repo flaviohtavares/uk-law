@@ -42,16 +42,16 @@ The Department of the Environment makes the following Regulations in exercise of
 
 In accordance with section 16(3) of that Act the Department has taken into consideration recommendations made by the General Consumer Council for Northern Ireland.
 
-## 1. Citation and commencement[^key-922e11eeb270a21485f5ebfc3e269442]
+## 1. Citation and commencement[^c-922e11eeb270a21485f5ebfc3e269442]
 
 These Regulations may be cited as the Taxis (Taximeters, Devices and Maximum Fares) Regulations (Northern Ireland) 2015 and shall come into operation on—
 
 - (a) for the purposes of this regulation and regulations 2(1) and 4 on 9<sup>th</sup> May 2016; and
 - (b) for all other purposes on 31<sup>st</sup> May 2016.
 
-## 2. Interpretation[^key-6dce48eb40b38d0bd01710ec3352b887][^key-f3aaf6a7a7f6b9c5fd5a95c9e396d2a9]
+## 2. Interpretation[^c-6dce48eb40b38d0bd01710ec3352b887][^c-f3aaf6a7a7f6b9c5fd5a95c9e396d2a9]
 
-(1)[^key-6dce48eb40b38d0bd01710ec3352b887] In these Regulations—
+(1)[^c-6dce48eb40b38d0bd01710ec3352b887] In these Regulations—
 
 - “the Act” means the Taxis Act (Northern Ireland) 2008;
 - “checksum” means the unique identifying number for tariff software installed in a taximeter approved by the Department;
@@ -65,9 +65,9 @@ These Regulations may be cited as the Taxis (Taximeters, Devices and Maximum Far
 - “the Taxi Operators Licensing Regulations” means the Taxi Operators Licensing Regulations (Northern Ireland) 2012[^f00004]; and
 - “tour service” has the same meaning as in regulation 2 of the Taxi Operators Licensing Regulations[^f00005].
 
-(2)[^key-f3aaf6a7a7f6b9c5fd5a95c9e396d2a9] For the purposes of regulation 9(2), section 39(8) of the Interpretation Act (Northern Ireland) 1954[^f00006] applies with the substitution of “Easter Tuesday” for “Good Friday”.
+(2)[^c-f3aaf6a7a7f6b9c5fd5a95c9e396d2a9] For the purposes of regulation 9(2), section 39(8) of the Interpretation Act (Northern Ireland) 1954[^f00006] applies with the substitution of “Easter Tuesday” for “Good Friday”.
 
-## 3. Taximeters and devices[^key-d74edd4ec47a2e55b0c7a79f31e4aaec]
+## 3. Taximeters and devices[^c-d74edd4ec47a2e55b0c7a79f31e4aaec]
 
 (1) A taximeter and device fitted in a taxi and of a type approved by the Department[^f00007] shall be inspected, tested and sealed in accordance with these Regulations.
 
@@ -75,17 +75,17 @@ These Regulations may be cited as the Taxis (Taximeters, Devices and Maximum Far
 
 (3) The owner or driver of a Class C or D licensed taxi shall not cause or permit the taxi to be fitted with a taximeter or device.
 
-## 4. Application[^key-5656ea960d30d2cc05e84c421b4e4a4c]
+## 4. Application[^c-5656ea960d30d2cc05e84c421b4e4a4c]
 
 (1) Any person may apply to the Department for the inspection, testing and sealing of a taximeter and device fitted in a taxi.
 
-(2) [^key-c7d7de7e350767583610412f5e6f628e]... An application for the inspection, testing and sealing of a taximeter and device shall be made on a form supplied by the Department and shall be accompanied by a fee of £42.00[^key-c9963785419e56c145124beabd45fb47].
+(2) [^c-c7d7de7e350767583610412f5e6f628e]... An application for the inspection, testing and sealing of a taximeter and device shall be made on a form supplied by the Department and shall be accompanied by a fee of £42.00[^c-c9963785419e56c145124beabd45fb47].
 
-(3)[^key-4aa18ca2e442e9eaac40e0f271432098] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4aa18ca2e442e9eaac40e0f271432098] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Presentation for inspection, testing and sealing[^key-888b3168ea69589669a611b17b2d5c6a]
+## 5. Presentation for inspection, testing and sealing[^c-888b3168ea69589669a611b17b2d5c6a]
 
-(1) On notification by the Department, the taxi shall[^key-d8ac75813463ea062d4ebb76269d8b20] be presented for inspection, testing and sealing of the taximeter and device, by a vehicle examiner, at the time and centre specified in the notice.
+(1) On notification by the Department, the taxi shall[^c-d8ac75813463ea062d4ebb76269d8b20] be presented for inspection, testing and sealing of the taximeter and device, by a vehicle examiner, at the time and centre specified in the notice.
 
 (2) A vehicle examiner shall not be obliged to carry out an inspection, testing or sealing of the taximeter and device where—
 
@@ -100,7 +100,7 @@ These Regulations may be cited as the Taxis (Taximeters, Devices and Maximum Far
 
 (3) In this regulation “approved M1 vehicle” has the same meaning as in regulation 2(1) of the Taxi Licensing Regulations.
 
-## 6. Taximeter fitting requirements[^key-879d962470beaf637a6252f1cd1e8d3a]
+## 6. Taximeter fitting requirements[^c-879d962470beaf637a6252f1cd1e8d3a]
 
 A taximeter shall—
 
@@ -113,7 +113,7 @@ A taximeter shall—
 - (g) be calibrated in accordance with the checksum; and
 - (h) be connected to a device capable of automatically printing a receipt containing the details specified in regulation 15(1).
 
-## 7. Sealing of taximeter[^key-2c0057f22e81892fdb26027e6948c860]
+## 7. Sealing of taximeter[^c-2c0057f22e81892fdb26027e6948c860]
 
 (1) Where the Department is satisfied that the taximeter meets the requirements specified in regulation 6, it shall seal the taximeter and affix a taximeter plaque in accordance with regulation 8(1) to the taxi in a readily accessible position on the internal frame of the door aperture.
 
@@ -128,7 +128,7 @@ A taximeter shall—
 
 (5) The taximeter plaque referred to in paragraph (1) is prescribed for the purposes of section 44(3)(f) of the Act (false statements, forgery and power of seizure in connection with certain documents).
 
-## 8. Taximeter plaque[^key-163ef2880d4296f917e4e9bfa5f46317]
+## 8. Taximeter plaque[^c-163ef2880d4296f917e4e9bfa5f46317]
 
 (1) A taximeter plaque affixed by the Department shall display—
 
@@ -142,7 +142,7 @@ A taximeter shall—
 
 (3) In this regulation “pulses per mile” means the number of pulses the taximeter must receive in order to correctly indicate a distance travelled of one mile.
 
-## 9. Refund of fees[^key-fdc679ffb0fe033ecc618d52775a85de]
+## 9. Refund of fees[^c-fdc679ffb0fe033ecc618d52775a85de]
 
 (1) Any fees paid in pursuance of regulation 4(2) shall be refunded to the applicant if—
 
@@ -155,11 +155,11 @@ A taximeter shall—
 
 (3) In this regulation, “exceptional circumstances” mean an accident, fire, a failure in the supply of essential services or other unexpected happening (excluding a breakdown or defect in the vehicle, taximeter or device or non-delivery of spare parts thereof).
 
-## 10. Use of taximeter[^key-85a800c093055b78ffafd8acc5d7bd0a]
+## 10. Use of taximeter[^c-85a800c093055b78ffafd8acc5d7bd0a]
 
 (1) Subject to paragraph (2), the driver of a taxi shall commence operation of the taximeter on commencement of the journey and shall cease operation of the taximeter immediately on completion of the journey.
 
-(2)[^key-48f9693a9081d4a6f4170817993b14a5] Paragraph (1) shall not apply where—
+(2)[^c-48f9693a9081d4a6f4170817993b14a5] Paragraph (1) shall not apply where—
 
 - (a) the journey the taxi is used to provide is an executive service or a tour service;
 - (b) the journey the taxi is used to provide is a service for—
@@ -173,14 +173,14 @@ A taximeter shall—
 
 - (a) confirmation that the passenger has been advised in accordance with paragraph (2)(c);
 - (b) confirmation that the passenger has waived the right to have the fare calculated by taximeter;
-- (c)[^key-0d0e5abee6eade652c82d6c1b86aeea5] the fare agreed for the journey;
-- (d)[^key-2813ec97ea9fdd33cb9afd889977820a] the name of the person for whom the taxi booking is made;
+- (c)[^c-0d0e5abee6eade652c82d6c1b86aeea5] the fare agreed for the journey;
+- (d)[^c-2813ec97ea9fdd33cb9afd889977820a] the name of the person for whom the taxi booking is made;
 - (e) the date of the journey;
 - (f) the time and place of collection;
 - (g) the destination; and
 - (h) the taxi driver’s licence number.
 
-(3) When calculated by a taximeter, the fare[^key-958823c638509344f094754be04ebf9a], demanded by the driver of a taxi or any other person, shall not exceed the amount displayed on the taximeter.
+(3) When calculated by a taximeter, the fare[^c-958823c638509344f094754be04ebf9a], demanded by the driver of a taxi or any other person, shall not exceed the amount displayed on the taximeter.
 
 (4) All fares calculated and displayed by a taximeter shall be in pounds and pence sterling only.
 
@@ -188,29 +188,29 @@ A taximeter shall—
 
 (6) The owner or driver of a taxi shall not cause or permit any unnecessary or improper delay in any journey or wilfully deceive any person in respect of the route or destination.
 
-(7)[^key-dfc5064cff10250b2fcb352916bf9a03] In this regulation “commencement of the journey” means—
+(7)[^c-dfc5064cff10250b2fcb352916bf9a03] In this regulation “commencement of the journey” means—
 
 - (a) at the specific time and place agreed with the person who hired the taxi; or
 - (b) where the taxi arrives later than the time agreed with the person who hired the taxi, at the time the taxi arrives.
 
-## 11. Condition of taximeter and device[^key-4a67222a4819459c62e541856b2d2342]
+## 11. Condition of taximeter and device[^c-4a67222a4819459c62e541856b2d2342]
 
-(1) Subject to paragraph (3),[^key-0af1feabbcee0b4060958d542e860746] where a taximeter or device becomes defective or a seal on a taximeter is missing or broken, whether accidentally or otherwise, the driver of the taxi shall inform the Department and no person shall cause or permit the taxi to be used to stand or ply for hire or reward or carry passengers for hire or reward—
+(1) Subject to paragraph (3),[^c-0af1feabbcee0b4060958d542e860746] where a taximeter or device becomes defective or a seal on a taximeter is missing or broken, whether accidentally or otherwise, the driver of the taxi shall inform the Department and no person shall cause or permit the taxi to be used to stand or ply for hire or reward or carry passengers for hire or reward—
 
 - (a) until the defect has been corrected; and
 - (b) where a seal is missing or broken, until the taximeter has been resealed by the Department.
 
 (2) Where paragraph (1)(b) applies, an application for inspection, testing and sealing of the taximeter shall be made in accordance with regulation 4.
 
-(3)[^key-7e98babcb168d3887cb72213cf3fbcc2] During the period from and including 5th December 2023 to 31st May 2024[^key-24d9ec4ead3e8702a048ec1b4f3be34e] where a taximeter does not have a seal in accordance with regulation 7, for any of the reasons in paragraph (4), the taxi is permitted to be used to stand or ply for hire or reward or carry passengers for hire or reward on the condition that an application for inspection, testing and sealing of the taximeter has been made in accordance with regulation 4[^key-df7ec63a5bd5cb1ccb08e3a098af13bd] .
+(3)[^c-7e98babcb168d3887cb72213cf3fbcc2] During the period from and including 5th December 2023 to 31st May 2024[^c-24d9ec4ead3e8702a048ec1b4f3be34e] where a taximeter does not have a seal in accordance with regulation 7, for any of the reasons in paragraph (4), the taxi is permitted to be used to stand or ply for hire or reward or carry passengers for hire or reward on the condition that an application for inspection, testing and sealing of the taximeter has been made in accordance with regulation 4[^c-df7ec63a5bd5cb1ccb08e3a098af13bd] .
 
 (4) The reasons referred to in paragraph (3) are—
 
-- (a) the seal has been broken for the purpose of calibrating the taximeter so as not to exceed the maximum fare rates; or[^key-6000ea6c9be4e27a7b972b5123127a25]
-- (b)[^key-5612bd46c4f193b8fc3ca493d4e04093] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the seal has been broken for the purpose of calibrating the taximeter so as not to exceed the maximum fare rates; or[^c-6000ea6c9be4e27a7b972b5123127a25]
+- (b)[^c-5612bd46c4f193b8fc3ca493d4e04093] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) a new taximeter has been fitted and has not yet been inspected, tested and sealed in accordance with these Regulations.
 
-## 12. Display of fares[^key-22e74c8922643a8d8a292f404fd044bc]
+## 12. Display of fares[^c-22e74c8922643a8d8a292f404fd044bc]
 
 (1) The owner or driver of a taxi shall exhibit a fares board in a position so as to enable a passenger inside the taxi to easily see and read it.
 
@@ -218,11 +218,11 @@ A taximeter shall—
 
 (3) In this regulation “fares board” means the printed sheet, issued by the Department[^f00010] to all taxi drivers, detailing the maximum fare that applies at the time of the journey.
 
-## 13. Maximum fare[^key-f3a04c22214e56ed1231d890d362d3fe]
+## 13. Maximum fare[^c-f3a04c22214e56ed1231d890d362d3fe]
 
 The maximum fare, which may be demanded by the driver of a taxi or any other person, in respect of journeys undertaken by a taxi operating a taximeter, shall be calculated in accordance with Part I of the Schedule.
 
-## 14. Maximum charges[^key-e7ce24b72a8d94e7af5e629b6e819c13]
+## 14. Maximum charges[^c-e7ce24b72a8d94e7af5e629b6e819c13]
 
 (1) The maximum charge, additional to the maximum fare, which may be demanded by the driver of a taxi or any other person, in respect of journeys undertaken by a taxi operating a taximeter, shall be calculated in accordance with paragraph (2).
 
@@ -232,7 +232,7 @@ The maximum fare, which may be demanded by the driver of a taxi or any other per
 - (b) a road toll, airport entrance or car parking charge is incurred by the driver, the cost of the toll or charge; or
 - (c) the taxi is soiled by a passenger such that it is necessary to take the taxi out of service for cleaning purposes, the cost incurred to the driver up to a maximum of £75.00.
 
-## 15. Receipts[^key-da66bf43509f12f9c803881dd9840a51]
+## 15. Receipts[^c-da66bf43509f12f9c803881dd9840a51]
 
 (1) A receipt issued in accordance with section 18(4) of the Act shall contain—
 
@@ -243,11 +243,11 @@ The maximum fare, which may be demanded by the driver of a taxi or any other per
 - (e) the registration mark; and
 - (f) any other charges as specified in regulation 14(2).
 
-(2) The prescribed exceptions for the purposes of section 18(4) of the Act are where a passenger states that a receipt is not required or where regulation 10(2) applies[^key-a5a3177c0e226a1d84591dcdce362dc2].
+(2) The prescribed exceptions for the purposes of section 18(4) of the Act are where a passenger states that a receipt is not required or where regulation 10(2) applies[^c-a5a3177c0e226a1d84591dcdce362dc2].
 
 (3) In this regulation, “registration mark” has the same meaning as in section 23(1) of the Vehicle Excise and Registration Act 1994[^f00011].
 
-## 16. Transitional provisions[^key-06e3446a6d0c23c4d62a848494664b26]
+## 16. Transitional provisions[^c-06e3446a6d0c23c4d62a848494664b26]
 
 (1) Subject to paragraph (2), where on 31<sup>st</sup> May 2016 a taxi is deemed as licensed for use as Class A or B in accordance with regulation 35 of the Taxi Licensing Regulations, any requirement for the taximeter and device to be inspected, tested and sealed in accordance with these Regulations shall not apply until the expiry of the public service vehicle licence referred to in regulation 35(1) of the Taxi Licensing Regulations.
 
@@ -261,11 +261,11 @@ A senior officer of the
 
 Department of the Environment
 
-## SCHEDULE[^key-ac3091b720c7aed888da1e57f5c1a647]
+## SCHEDULE[^c-ac3091b720c7aed888da1e57f5c1a647]
 
 Regulations 2(1) and 13
 
-### Part 1 — Maximum Fares (amended figures to be supplied)[^key-37135f6204698257c3c0c3fdab56fbe5]
+### Part 1 — Maximum Fares (amended figures to be supplied)[^c-37135f6204698257c3c0c3fdab56fbe5]
 
 <table>
 <thead>
@@ -314,11 +314,11 @@ An Explanatory Memorandum and a Regulatory Impact Assessment have been produced 
 
 [^f00001]: Footnote: [2008 c.4 (N.I.)](https://www.legislation.gov.uk/nia/2008/4); section 56(2) was amended by paragraph 92 of Schedule 14 to [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976)
 
-[^key-922e11eeb270a21485f5ebfc3e269442]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2015/394/regulation/1) in operation at 9.5.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/a)
+[^c-922e11eeb270a21485f5ebfc3e269442]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2015/394/regulation/1) in operation at 9.5.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/a)
 
-[^key-6dce48eb40b38d0bd01710ec3352b887]: Commencement: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/394/regulation/2/1) in operation at 9.5.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/a)
+[^c-6dce48eb40b38d0bd01710ec3352b887]: Commencement: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/394/regulation/2/1) in operation at 9.5.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/a)
 
-[^key-f3aaf6a7a7f6b9c5fd5a95c9e396d2a9]: Commencement: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2015/394/regulation/2/2) in operation at 31.5.2016, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/b)
+[^c-f3aaf6a7a7f6b9c5fd5a95c9e396d2a9]: Commencement: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2015/394/regulation/2/2) in operation at 31.5.2016, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/b)
 
 [^f00002]: Footnote: The definition of “executive service” is inserted by regulation 2(2) of [S.R. 2015 No. 395](https://www.legislation.gov.uk/nisr/2015/395)
 
@@ -330,72 +330,72 @@ An Explanatory Memorandum and a Regulatory Impact Assessment have been produced 
 
 [^f00006]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-d74edd4ec47a2e55b0c7a79f31e4aaec]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/394/regulation/3) in operation at 31.5.2016, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/b)
+[^c-d74edd4ec47a2e55b0c7a79f31e4aaec]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/394/regulation/3) in operation at 31.5.2016, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/b)
 
 [^f00007]: Footnote: The Department will publish and maintain a list of approved taximeters, including checksums, and devices on the nidirect website at www.nidirect.gov.uk
 
-[^key-5656ea960d30d2cc05e84c421b4e4a4c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2015/394/regulation/4) in operation at 9.5.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/a)
+[^c-5656ea960d30d2cc05e84c421b4e4a4c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2015/394/regulation/4) in operation at 9.5.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/a)
 
-[^key-c7d7de7e350767583610412f5e6f628e]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/nisr/2015/394/regulation/4/2) omitted (5.12.2023) by virtue of [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/185)](https://www.legislation.gov.uk/nisr/2023/185), [regs. 1](https://www.legislation.gov.uk/nisr/2023/185/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2023/185/regulation/2/2/a)
+[^c-c7d7de7e350767583610412f5e6f628e]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/nisr/2015/394/regulation/4/2) omitted (5.12.2023) by virtue of [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/185)](https://www.legislation.gov.uk/nisr/2023/185), [regs. 1](https://www.legislation.gov.uk/nisr/2023/185/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2023/185/regulation/2/2/a)
 
-[^key-c9963785419e56c145124beabd45fb47]: Textual amendment: Sum in [Reg. 4(2)](https://www.legislation.gov.uk/nisr/2015/394/regulation/4/2) substituted (1.10.2023) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/127)](https://www.legislation.gov.uk/nisr/2023/127), [regs. 1](https://www.legislation.gov.uk/nisr/2023/127/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/127/regulation/2)
+[^c-c9963785419e56c145124beabd45fb47]: Textual amendment: Sum in [Reg. 4(2)](https://www.legislation.gov.uk/nisr/2015/394/regulation/4/2) substituted (1.10.2023) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/127)](https://www.legislation.gov.uk/nisr/2023/127), [regs. 1](https://www.legislation.gov.uk/nisr/2023/127/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/127/regulation/2)
 
-[^key-4aa18ca2e442e9eaac40e0f271432098]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/2015/394/regulation/4/3) omitted (5.12.2023) by virtue of [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/185)](https://www.legislation.gov.uk/nisr/2023/185), [regs. 1](https://www.legislation.gov.uk/nisr/2023/185/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2023/185/regulation/2/2/b)
+[^c-4aa18ca2e442e9eaac40e0f271432098]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/2015/394/regulation/4/3) omitted (5.12.2023) by virtue of [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/185)](https://www.legislation.gov.uk/nisr/2023/185), [regs. 1](https://www.legislation.gov.uk/nisr/2023/185/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2023/185/regulation/2/2/b)
 
-[^key-888b3168ea69589669a611b17b2d5c6a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2015/394/regulation/5) in operation at 31.5.2016, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/b)
+[^c-888b3168ea69589669a611b17b2d5c6a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2015/394/regulation/5) in operation at 31.5.2016, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/b)
 
-[^key-d8ac75813463ea062d4ebb76269d8b20]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2015/394/regulation/5/1) substituted (31.5.2016) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/148)](https://www.legislation.gov.uk/nisr/2016/148), [regs. 1](https://www.legislation.gov.uk/nisr/2016/148/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2016/148/regulation/2/2)
+[^c-d8ac75813463ea062d4ebb76269d8b20]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2015/394/regulation/5/1) substituted (31.5.2016) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/148)](https://www.legislation.gov.uk/nisr/2016/148), [regs. 1](https://www.legislation.gov.uk/nisr/2016/148/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2016/148/regulation/2/2)
 
-[^key-879d962470beaf637a6252f1cd1e8d3a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2015/394/regulation/6) in operation at 31.5.2016, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/b)
+[^c-879d962470beaf637a6252f1cd1e8d3a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2015/394/regulation/6) in operation at 31.5.2016, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/b)
 
-[^key-2c0057f22e81892fdb26027e6948c860]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2015/394/regulation/7) in operation at 31.5.2016, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/b)
+[^c-2c0057f22e81892fdb26027e6948c860]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2015/394/regulation/7) in operation at 31.5.2016, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/b)
 
-[^key-163ef2880d4296f917e4e9bfa5f46317]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2015/394/regulation/8) in operation at 31.5.2016, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/b)
+[^c-163ef2880d4296f917e4e9bfa5f46317]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2015/394/regulation/8) in operation at 31.5.2016, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/b)
 
-[^key-fdc679ffb0fe033ecc618d52775a85de]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2015/394/regulation/9) in operation at 31.5.2016, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/b)
+[^c-fdc679ffb0fe033ecc618d52775a85de]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2015/394/regulation/9) in operation at 31.5.2016, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/b)
 
-[^key-85a800c093055b78ffafd8acc5d7bd0a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2015/394/regulation/10) in operation at 31.5.2016, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/b)
+[^c-85a800c093055b78ffafd8acc5d7bd0a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2015/394/regulation/10) in operation at 31.5.2016, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/b)
 
-[^key-48f9693a9081d4a6f4170817993b14a5]: Textual amendment: [Reg. 10(2)-(2A)](https://www.legislation.gov.uk/nisr/2015/394/regulation/10/2) substituted for [reg. 10(2)](https://www.legislation.gov.uk/nisr/2015/394/regulation/10/2) (31.5.2016) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/148)](https://www.legislation.gov.uk/nisr/2016/148), [regs. 1](https://www.legislation.gov.uk/nisr/2016/148/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2016/148/regulation/2/3/a)
+[^c-48f9693a9081d4a6f4170817993b14a5]: Textual amendment: [Reg. 10(2)-(2A)](https://www.legislation.gov.uk/nisr/2015/394/regulation/10/2) substituted for [reg. 10(2)](https://www.legislation.gov.uk/nisr/2015/394/regulation/10/2) (31.5.2016) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/148)](https://www.legislation.gov.uk/nisr/2016/148), [regs. 1](https://www.legislation.gov.uk/nisr/2016/148/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2016/148/regulation/2/3/a)
 
-[^key-0d0e5abee6eade652c82d6c1b86aeea5]: Textual amendment: [Reg. 10(2A)(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/10/2A/c) renumbered as reg. 10(2A)(c) (29.12.2017) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/225)](https://www.legislation.gov.uk/nisr/2017/225), [regs. 1](https://www.legislation.gov.uk/nisr/2017/225/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2017/225/regulation/2/2/a)
+[^c-0d0e5abee6eade652c82d6c1b86aeea5]: Textual amendment: [Reg. 10(2A)(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/10/2A/c) renumbered as reg. 10(2A)(c) (29.12.2017) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/225)](https://www.legislation.gov.uk/nisr/2017/225), [regs. 1](https://www.legislation.gov.uk/nisr/2017/225/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2017/225/regulation/2/2/a)
 
-[^key-2813ec97ea9fdd33cb9afd889977820a]: Textual amendment: [Reg. 10(2A)(c)-(g)](https://www.legislation.gov.uk/nisr/2015/394/regulation/10/2A/d) renumbered as reg. 10(2A)(d)-(h) (29.12.2017) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/225)](https://www.legislation.gov.uk/nisr/2017/225), [regs. 1](https://www.legislation.gov.uk/nisr/2017/225/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2017/225/regulation/2/2/b)
+[^c-2813ec97ea9fdd33cb9afd889977820a]: Textual amendment: [Reg. 10(2A)(c)-(g)](https://www.legislation.gov.uk/nisr/2015/394/regulation/10/2A/d) renumbered as reg. 10(2A)(d)-(h) (29.12.2017) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/225)](https://www.legislation.gov.uk/nisr/2017/225), [regs. 1](https://www.legislation.gov.uk/nisr/2017/225/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2017/225/regulation/2/2/b)
 
-[^key-958823c638509344f094754be04ebf9a]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/nisr/2015/394/regulation/10/3) substituted (31.5.2016) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/148)](https://www.legislation.gov.uk/nisr/2016/148), [regs. 1](https://www.legislation.gov.uk/nisr/2016/148/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2016/148/regulation/2/3/b)
+[^c-958823c638509344f094754be04ebf9a]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/nisr/2015/394/regulation/10/3) substituted (31.5.2016) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/148)](https://www.legislation.gov.uk/nisr/2016/148), [regs. 1](https://www.legislation.gov.uk/nisr/2016/148/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2016/148/regulation/2/3/b)
 
-[^key-dfc5064cff10250b2fcb352916bf9a03]: Textual amendment: [Reg. 10(7)](https://www.legislation.gov.uk/nisr/2015/394/regulation/10/7) substituted (31.5.2016) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/148)](https://www.legislation.gov.uk/nisr/2016/148), [regs. 1](https://www.legislation.gov.uk/nisr/2016/148/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2016/148/regulation/2/3/c)
+[^c-dfc5064cff10250b2fcb352916bf9a03]: Textual amendment: [Reg. 10(7)](https://www.legislation.gov.uk/nisr/2015/394/regulation/10/7) substituted (31.5.2016) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/148)](https://www.legislation.gov.uk/nisr/2016/148), [regs. 1](https://www.legislation.gov.uk/nisr/2016/148/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2016/148/regulation/2/3/c)
 
-[^key-4a67222a4819459c62e541856b2d2342]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2015/394/regulation/11) in operation at 31.5.2016, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/b)
+[^c-4a67222a4819459c62e541856b2d2342]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2015/394/regulation/11) in operation at 31.5.2016, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/b)
 
-[^key-0af1feabbcee0b4060958d542e860746]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/nisr/2015/394/regulation/11/1) inserted (24.11.2021) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/305)](https://www.legislation.gov.uk/nisr/2021/305), [regs. 1](https://www.legislation.gov.uk/nisr/2021/305/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2021/305/regulation/2/3/a)
+[^c-0af1feabbcee0b4060958d542e860746]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/nisr/2015/394/regulation/11/1) inserted (24.11.2021) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/305)](https://www.legislation.gov.uk/nisr/2021/305), [regs. 1](https://www.legislation.gov.uk/nisr/2021/305/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2021/305/regulation/2/3/a)
 
-[^key-7e98babcb168d3887cb72213cf3fbcc2]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/nisr/2015/394/regulation/11/3)[(4)](https://www.legislation.gov.uk/nisr/2015/394/regulation/11/4) inserted (24.11.2021) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/305)](https://www.legislation.gov.uk/nisr/2021/305), [regs. 1](https://www.legislation.gov.uk/nisr/2021/305/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2021/305/regulation/2/3/b)
+[^c-7e98babcb168d3887cb72213cf3fbcc2]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/nisr/2015/394/regulation/11/3)[(4)](https://www.legislation.gov.uk/nisr/2015/394/regulation/11/4) inserted (24.11.2021) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/305)](https://www.legislation.gov.uk/nisr/2021/305), [regs. 1](https://www.legislation.gov.uk/nisr/2021/305/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2021/305/regulation/2/3/b)
 
-[^key-24d9ec4ead3e8702a048ec1b4f3be34e]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/nisr/2015/394/regulation/11/3) substituted (5.12.2023) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/185)](https://www.legislation.gov.uk/nisr/2023/185), [regs. 1](https://www.legislation.gov.uk/nisr/2023/185/regulation/1), [2(3)(a)(i)](https://www.legislation.gov.uk/nisr/2023/185/regulation/2/3/a/i)
+[^c-24d9ec4ead3e8702a048ec1b4f3be34e]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/nisr/2015/394/regulation/11/3) substituted (5.12.2023) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/185)](https://www.legislation.gov.uk/nisr/2023/185), [regs. 1](https://www.legislation.gov.uk/nisr/2023/185/regulation/1), [2(3)(a)(i)](https://www.legislation.gov.uk/nisr/2023/185/regulation/2/3/a/i)
 
-[^key-df7ec63a5bd5cb1ccb08e3a098af13bd]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/nisr/2015/394/regulation/11/3) substituted (5.12.2023) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/185)](https://www.legislation.gov.uk/nisr/2023/185), [regs. 1](https://www.legislation.gov.uk/nisr/2023/185/regulation/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2023/185/regulation/2/3/a/ii)
+[^c-df7ec63a5bd5cb1ccb08e3a098af13bd]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/nisr/2015/394/regulation/11/3) substituted (5.12.2023) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/185)](https://www.legislation.gov.uk/nisr/2023/185), [regs. 1](https://www.legislation.gov.uk/nisr/2023/185/regulation/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2023/185/regulation/2/3/a/ii)
 
-[^key-6000ea6c9be4e27a7b972b5123127a25]: Textual amendment: Word in [reg. 11(4)(a)](https://www.legislation.gov.uk/nisr/2015/394/regulation/11/4/a) inserted (5.12.2023) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/185)](https://www.legislation.gov.uk/nisr/2023/185), [regs. 1](https://www.legislation.gov.uk/nisr/2023/185/regulation/1), [2(3)(b)(i)](https://www.legislation.gov.uk/nisr/2023/185/regulation/2/3/b/i)
+[^c-6000ea6c9be4e27a7b972b5123127a25]: Textual amendment: Word in [reg. 11(4)(a)](https://www.legislation.gov.uk/nisr/2015/394/regulation/11/4/a) inserted (5.12.2023) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/185)](https://www.legislation.gov.uk/nisr/2023/185), [regs. 1](https://www.legislation.gov.uk/nisr/2023/185/regulation/1), [2(3)(b)(i)](https://www.legislation.gov.uk/nisr/2023/185/regulation/2/3/b/i)
 
-[^key-5612bd46c4f193b8fc3ca493d4e04093]: Textual amendment: [Reg. 11(4)(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/11/4/b) omitted (5.12.2023) by virtue of [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/185)](https://www.legislation.gov.uk/nisr/2023/185), [regs. 1](https://www.legislation.gov.uk/nisr/2023/185/regulation/1), [2(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2023/185/regulation/2/3/b/ii)
+[^c-5612bd46c4f193b8fc3ca493d4e04093]: Textual amendment: [Reg. 11(4)(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/11/4/b) omitted (5.12.2023) by virtue of [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/185)](https://www.legislation.gov.uk/nisr/2023/185), [regs. 1](https://www.legislation.gov.uk/nisr/2023/185/regulation/1), [2(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2023/185/regulation/2/3/b/ii)
 
-[^key-22e74c8922643a8d8a292f404fd044bc]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2015/394/regulation/12) in operation at 31.5.2016, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/b)
+[^c-22e74c8922643a8d8a292f404fd044bc]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2015/394/regulation/12) in operation at 31.5.2016, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/b)
 
 [^f00010]: Footnote: The Department will also publish the fares board on the nidirect website at www.nidirect.go.uk
 
-[^key-f3a04c22214e56ed1231d890d362d3fe]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2015/394/regulation/13) in operation at 31.5.2016, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/b)
+[^c-f3a04c22214e56ed1231d890d362d3fe]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2015/394/regulation/13) in operation at 31.5.2016, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/b)
 
-[^key-e7ce24b72a8d94e7af5e629b6e819c13]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2015/394/regulation/14) in operation at 31.5.2016, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/b)
+[^c-e7ce24b72a8d94e7af5e629b6e819c13]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2015/394/regulation/14) in operation at 31.5.2016, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/b)
 
-[^key-da66bf43509f12f9c803881dd9840a51]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2015/394/regulation/15) in operation at 31.5.2016, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/b)
+[^c-da66bf43509f12f9c803881dd9840a51]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2015/394/regulation/15) in operation at 31.5.2016, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/b)
 
-[^key-a5a3177c0e226a1d84591dcdce362dc2]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/nisr/2015/394/regulation/15/2) inserted (31.5.2016) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/148)](https://www.legislation.gov.uk/nisr/2016/148), [regs. 1](https://www.legislation.gov.uk/nisr/2016/148/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2016/148/regulation/2/4)
+[^c-a5a3177c0e226a1d84591dcdce362dc2]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/nisr/2015/394/regulation/15/2) inserted (31.5.2016) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/148)](https://www.legislation.gov.uk/nisr/2016/148), [regs. 1](https://www.legislation.gov.uk/nisr/2016/148/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2016/148/regulation/2/4)
 
 [^f00011]: Footnote: [1994 c.22](https://www.legislation.gov.uk/ukpga/1994/22)
 
-[^key-06e3446a6d0c23c4d62a848494664b26]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2015/394/regulation/16) in operation at 31.5.2016, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/b)
+[^c-06e3446a6d0c23c4d62a848494664b26]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2015/394/regulation/16) in operation at 31.5.2016, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2015/394/regulation/1/b)
 
-[^key-ac3091b720c7aed888da1e57f5c1a647]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2015/394/schedule) substituted (24.11.2021) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/305)](https://www.legislation.gov.uk/nisr/2021/305), [regs. 1](https://www.legislation.gov.uk/nisr/2021/305/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2021/305/regulation/2/4), [Sch.](https://www.legislation.gov.uk/nisr/2021/305/schedule)
+[^c-ac3091b720c7aed888da1e57f5c1a647]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2015/394/schedule) substituted (24.11.2021) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/305)](https://www.legislation.gov.uk/nisr/2021/305), [regs. 1](https://www.legislation.gov.uk/nisr/2021/305/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2021/305/regulation/2/4), [Sch.](https://www.legislation.gov.uk/nisr/2021/305/schedule)
 
-[^key-37135f6204698257c3c0c3fdab56fbe5]: Textual amendment: [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2015/394/schedule/part/1) substituted (5.12.2023) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/185)](https://www.legislation.gov.uk/nisr/2023/185), [regs. 1](https://www.legislation.gov.uk/nisr/2023/185/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2023/185/regulation/2/4), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2023/185/schedule/part/1)
+[^c-37135f6204698257c3c0c3fdab56fbe5]: Textual amendment: [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2015/394/schedule/part/1) substituted (5.12.2023) by [The Taxis (Taximeters, Devices and Maximum Fares) (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/185)](https://www.legislation.gov.uk/nisr/2023/185), [regs. 1](https://www.legislation.gov.uk/nisr/2023/185/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2023/185/regulation/2/4), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2023/185/schedule/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Public service pension schemes[^key-7960d4612d4de7ef82a7b4e04b5ea9ae]
+## 128. Public service pension schemes[^c-7960d4612d4de7ef82a7b4e04b5ea9ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7960d4612d4de7ef82a7b4e04b5ea9ae]: Commencement: S. 128 in force at Royal Assent, see [s. 133(11)(f)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/f)
+[^c-7960d4612d4de7ef82a7b4e04b5ea9ae]: Commencement: S. 128 in force at Royal Assent, see [s. 133(11)(f)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/f)

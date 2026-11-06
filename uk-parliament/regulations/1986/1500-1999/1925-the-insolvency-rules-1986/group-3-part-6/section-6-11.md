@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.11. Proof of service of statutory demand[^key-1f31ee8ca30d26608e44a533d026bbc8]
+## 6.11. Proof of service of statutory demand[^c-1f31ee8ca30d26608e44a533d026bbc8]
 
 *Extent: E+W*
 
-(1) Where under section 268 the petition must have been preceded by a statutory demand, there must be filed in court, with the petition, an affidavit or affidavits[^key-d03add13ae589229ac90a2a15297c158] proving service of the demand.
+(1) Where under section 268 the petition must have been preceded by a statutory demand, there must be filed in court, with the petition, an affidavit or affidavits[^c-d03add13ae589229ac90a2a15297c158] proving service of the demand.
 
-(2) Every affidavit[^key-61c3b9cfb80cb30d56b0bd32788cfe13] must have exhibited to it a copy of the demand as served.
+(2) Every affidavit[^c-61c3b9cfb80cb30d56b0bd32788cfe13] must have exhibited to it a copy of the demand as served.
 
 (3) [^m00126] Subject to the next paragraph, if the demand has been served personally on the debtor, the affidavit must be made by the person who effected that service.
 
 (4) If service of the demand (however effected) has been acknowledged in writing either by the debtor himself, or by some person stating himself in the acknowledgement to be authorised to accept service on the debtor's behalf, the affidavit must be made either by the creditor or by a person acting on his behalf, and the acknowledgement of service must be exhibited to the affidavit.
 
-(5) [^m00127] If neither paragraph (3) nor paragraph (4) applies, the affidavit or affidavits[^key-dac58bc077fcb89c0c51932b5c5a37e1] must be made by a person or persons[^key-c0eb8bba8349b5759705ce1d650fa02e] having direct personal knowledge of the means adopted for serving the statutory demand, and must—
+(5) [^m00127] If neither paragraph (3) nor paragraph (4) applies, the affidavit or affidavits[^c-dac58bc077fcb89c0c51932b5c5a37e1] must be made by a person or persons[^c-c0eb8bba8349b5759705ce1d650fa02e] having direct personal knowledge of the means adopted for serving the statutory demand, and must—
 
-- (a) give particulars of the steps which have been taken with a view to serving the demand personally[^key-75108ed5a4742d7766ba1b3d1ba97d5c], and
+- (a) give particulars of the steps which have been taken with a view to serving the demand personally[^c-75108ed5a4742d7766ba1b3d1ba97d5c], and
 - (b) state the means whereby (those steps having been ineffective) it was sought to bring the demand to the debtor's attention, and
 - (c) specify a date by which, to the best of the knowledge, information and belief of the person making the affidavit, the demand will have come to the debtor's attention.
 
@@ -49,18 +49,18 @@ and there shall be exhibited to the affidavit a copy of any advertisement of the
 
 ## Annotations
 
-[^key-1f31ee8ca30d26608e44a533d026bbc8]: Commencement: [Rule 6.11](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.11) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-1f31ee8ca30d26608e44a533d026bbc8]: Commencement: [Rule 6.11](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.11) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-d03add13ae589229ac90a2a15297c158]: Textual amendment: Words in [rule 6.11(1)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.11/1) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 94(1)](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/94/1)
+[^c-d03add13ae589229ac90a2a15297c158]: Textual amendment: Words in [rule 6.11(1)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.11/1) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 94(1)](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/94/1)
 
-[^key-61c3b9cfb80cb30d56b0bd32788cfe13]: Textual amendment: Words in [rule 6.11(2)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.11/2) substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 94(2)](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/94/2)
+[^c-61c3b9cfb80cb30d56b0bd32788cfe13]: Textual amendment: Words in [rule 6.11(2)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.11/2) substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 94(2)](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/94/2)
 
 [^m00126]: Marginal citation: \[FORM 6.11\]
 
 [^m00127]: Marginal citation: \[FORM 6.12\]
 
-[^key-dac58bc077fcb89c0c51932b5c5a37e1]: Textual amendment: Words in [rule 6.11(5)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.11/5) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 94(3)(a)](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/94/3/a)
+[^c-dac58bc077fcb89c0c51932b5c5a37e1]: Textual amendment: Words in [rule 6.11(5)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.11/5) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 94(3)(a)](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/94/3/a)
 
-[^key-c0eb8bba8349b5759705ce1d650fa02e]: Textual amendment: Words in [rule 6.11(5)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.11/5) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 94(3)(b)](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/94/3/b)
+[^c-c0eb8bba8349b5759705ce1d650fa02e]: Textual amendment: Words in [rule 6.11(5)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.11/5) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 94(3)(b)](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/94/3/b)
 
-[^key-75108ed5a4742d7766ba1b3d1ba97d5c]: Textual amendment: Word in [rule 6.11(5)(a)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.11/5/a) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 94(3)(c)](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/94/3/c)
+[^c-75108ed5a4742d7766ba1b3d1ba97d5c]: Textual amendment: Word in [rule 6.11(5)(a)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.11/5/a) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 94(3)(c)](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/94/3/c)

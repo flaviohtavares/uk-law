@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Records[^key-c1556c21c0d7ad5b904fc4f89298c83f]
+## 7. Records[^c-c1556c21c0d7ad5b904fc4f89298c83f]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1556c21c0d7ad5b904fc4f89298c83f]: Commencement: Reg. 7 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-c1556c21c0d7ad5b904fc4f89298c83f]: Commencement: Reg. 7 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)

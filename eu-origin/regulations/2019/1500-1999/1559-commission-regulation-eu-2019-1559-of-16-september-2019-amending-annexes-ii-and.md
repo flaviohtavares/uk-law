@@ -35,20 +35,20 @@ amending Annexes II and III to Regulation (EC) No 396/2005 of the European Parli
 
 (Text with EEA relevance) (revoked)
 
-[^key-de5b8e07b2333bcfdd73a6164eeb037a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de5b8e07b2333bcfdd73a6164eeb037a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-de5b8e07b2333bcfdd73a6164eeb037a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-de5b8e07b2333bcfdd73a6164eeb037a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-de5b8e07b2333bcfdd73a6164eeb037a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-de5b8e07b2333bcfdd73a6164eeb037a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-de5b8e07b2333bcfdd73a6164eeb037a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-de5b8e07b2333bcfdd73a6164eeb037a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-de5b8e07b2333bcfdd73a6164eeb037a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de5b8e07b2333bcfdd73a6164eeb037a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-de5b8e07b2333bcfdd73a6164eeb037a]
+## ANNEX[^c-de5b8e07b2333bcfdd73a6164eeb037a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-de5b8e07b2333bcfdd73a6164eeb037a]: Textual amendment: Regulation revoked (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2020/1376/schedule/paragraph/12)
+[^c-de5b8e07b2333bcfdd73a6164eeb037a]: Textual amendment: Regulation revoked (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2020/1376/schedule/paragraph/12)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Duty to compile and maintain register[^key-7e0d56fe0a98e0ee3a3a4dc711110082]
+## 6. Duty to compile and maintain register[^c-7e0d56fe0a98e0ee3a3a4dc711110082]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e0d56fe0a98e0ee3a3a4dc711110082]: Commencement: S. 6 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-7e0d56fe0a98e0ee3a3a4dc711110082]: Commencement: S. 6 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

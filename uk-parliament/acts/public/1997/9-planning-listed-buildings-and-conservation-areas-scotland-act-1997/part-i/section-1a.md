@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1A. Publication of lists and notification of listing etc.[^key-4b58ded96c939474d8a051c49c3e8d5c][^key-8ae4be89ffc0274dc33127188147d259]
+## 1A. Publication of lists and notification of listing etc.[^c-4b58ded96c939474d8a051c49c3e8d5c][^c-8ae4be89ffc0274dc33127188147d259]
 
 *Extent: S*
 
@@ -44,6 +44,6 @@ of the inclusion of a building in, the amendment of an entry relating to a build
 
 ## Annotations
 
-[^key-4b58ded96c939474d8a051c49c3e8d5c]: Modification: S. 1A savings for effects of 2014 asp 19, Sch. 3 para. 3 (1.10.2015) by [The Historic Environment Scotland Act 2014 (Saving, Transitional and Consequential Provisions) Order 2015 (S.S.I. 2015/239)](https://www.legislation.gov.uk/ssi/2015/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/239/article/1/1), [13(2)](https://www.legislation.gov.uk/ssi/2015/239/article/13/2)
+[^c-4b58ded96c939474d8a051c49c3e8d5c]: Modification: S. 1A savings for effects of 2014 asp 19, Sch. 3 para. 3 (1.10.2015) by [The Historic Environment Scotland Act 2014 (Saving, Transitional and Consequential Provisions) Order 2015 (S.S.I. 2015/239)](https://www.legislation.gov.uk/ssi/2015/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/239/article/1/1), [13(2)](https://www.legislation.gov.uk/ssi/2015/239/article/13/2)
 
-[^key-8ae4be89ffc0274dc33127188147d259]: Textual amendment: S. 1A inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [sch. 3 para. 3](https://www.legislation.gov.uk/asp/2014/19/schedule/3/paragraph/3) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule); [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule)
+[^c-8ae4be89ffc0274dc33127188147d259]: Textual amendment: S. 1A inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [sch. 3 para. 3](https://www.legislation.gov.uk/asp/2014/19/schedule/3/paragraph/3) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule); [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule)

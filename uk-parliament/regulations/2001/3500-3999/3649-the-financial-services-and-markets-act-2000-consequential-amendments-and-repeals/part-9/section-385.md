@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 385. Repeal of unnecessary provisions[^key-81337928868b166a68aa395b2c5f1d25]
+## 385. Repeal of unnecessary provisions[^c-81337928868b166a68aa395b2c5f1d25]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81337928868b166a68aa395b2c5f1d25]: Commencement: Art. 385 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-81337928868b166a68aa395b2c5f1d25]: Commencement: Art. 385 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

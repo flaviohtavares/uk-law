@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 8 — TRAFFIC REGULATION MEASURES[^key-c1a93debf071caa5ccb95cf3b6a5f132]
+## SCHEDULE 8 — TRAFFIC REGULATION MEASURES[^c-c1a93debf071caa5ccb95cf3b6a5f132]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ Article 15
 
 ## Annotations
 
-[^key-c1a93debf071caa5ccb95cf3b6a5f132]: Commencement: Sch. 8 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-c1a93debf071caa5ccb95cf3b6a5f132]: Commencement: Sch. 8 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Damages for loss resulting from trustee’s act or omission in ordinary course of administration[^key-39ed76e63d7a26e07e73559d3820fa6a]
+## 39. Damages for loss resulting from trustee’s act or omission in ordinary course of administration[^c-39ed76e63d7a26e07e73559d3820fa6a]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39ed76e63d7a26e07e73559d3820fa6a]: Commencement: S. 39 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-39ed76e63d7a26e07e73559d3820fa6a]: Commencement: S. 39 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

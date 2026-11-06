@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Period during which regulation 11 is to apply[^key-b09f124b9fd95b039499fe9747c33033]
+## 14. Period during which regulation 11 is to apply[^c-b09f124b9fd95b039499fe9747c33033]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For the purposes of regulation 12(b), the period is a period of one year beginni
 
 ## Annotations
 
-[^key-b09f124b9fd95b039499fe9747c33033]: Commencement: Reg. 14 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
+[^c-b09f124b9fd95b039499fe9747c33033]: Commencement: Reg. 14 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)

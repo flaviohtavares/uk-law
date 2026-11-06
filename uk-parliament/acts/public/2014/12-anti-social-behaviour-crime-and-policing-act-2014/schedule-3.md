@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Schedule to be inserted as Schedule 2A to the Housing Act 1985[^key-833aac2f1d8d0d900bf9f8e44c297d1d][^key-09f0404c91a74189299d3771495f6f46]
+## SCHEDULE 3 — Schedule to be inserted as Schedule 2A to the Housing Act 1985[^c-833aac2f1d8d0d900bf9f8e44c297d1d][^c-09f0404c91a74189299d3771495f6f46]
 
 *Extent: E+W*
 
@@ -171,6 +171,6 @@ Section 94(2)
 
 ## Annotations
 
-[^key-833aac2f1d8d0d900bf9f8e44c297d1d]: Commencement: Sch. 3 in force at 20.10.2014 for E. by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 2(g)](https://www.legislation.gov.uk/uksi/2014/2590/article/2/g)
+[^c-833aac2f1d8d0d900bf9f8e44c297d1d]: Commencement: Sch. 3 in force at 20.10.2014 for E. by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 2(g)](https://www.legislation.gov.uk/uksi/2014/2590/article/2/g)
 
-[^key-09f0404c91a74189299d3771495f6f46]: Commencement: Sch. 3 in force at 21.10.2014 for W. by [S.I. 2014/2830](https://www.legislation.gov.uk/wsi/2014/2830), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/2830/article/2/a)
+[^c-09f0404c91a74189299d3771495f6f46]: Commencement: Sch. 3 in force at 21.10.2014 for W. by [S.I. 2014/2830](https://www.legislation.gov.uk/wsi/2014/2830), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/2830/article/2/a)

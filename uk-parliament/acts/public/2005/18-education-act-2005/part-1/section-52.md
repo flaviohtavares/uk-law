@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Provision of inspection services by local authorities in Wales[^key-a2173b6f678e4942b640e80d5cd628b4]
+## 52. Provision of inspection services by local authorities in Wales[^c-a2173b6f678e4942b640e80d5cd628b4]
 
 *Extent: E+W*
 
-(1) Any local authority[^key-94ed0295e29907765ea29be5dd3e5cb4] in Wales may provide a school inspection service for schools within their area.
+(1) Any local authority[^c-94ed0295e29907765ea29be5dd3e5cb4] in Wales may provide a school inspection service for schools within their area.
 
 (2) In this section “**school inspection service**”, in relation to any local authority in Wales, means a service providing for the inspection of schools under section 28 or 50 by officers of the authority.
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a2173b6f678e4942b640e80d5cd628b4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/3)
+[^c-a2173b6f678e4942b640e80d5cd628b4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/3)
 
-[^key-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
+[^c-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)

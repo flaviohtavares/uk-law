@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 25.5. Transfer of appeals[^key-6cec2b851725e2137d8db98acbf71ab4]
+## 25.5. Transfer of appeals[^c-6cec2b851725e2137d8db98acbf71ab4]
 
 *Extent: E*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cec2b851725e2137d8db98acbf71ab4]: Commencement: [Rule 25.5](https://www.legislation.gov.uk/uksi/2015/1568/article/25.5) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-6cec2b851725e2137d8db98acbf71ab4]: Commencement: [Rule 25.5](https://www.legislation.gov.uk/uksi/2015/1568/article/25.5) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

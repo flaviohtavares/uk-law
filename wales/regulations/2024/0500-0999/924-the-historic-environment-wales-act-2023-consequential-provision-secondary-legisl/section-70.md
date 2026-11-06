@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. The Town and Country Planning (Determination of Appeals by Appointed Persons) (Prescribed Classes) (Wales) Regulations 2015[^key-83cae81e012840d39f3027a71208c4b6]
+## 70. The Town and Country Planning (Determination of Appeals by Appointed Persons) (Prescribed Classes) (Wales) Regulations 2015[^c-83cae81e012840d39f3027a71208c4b6]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Town and Country Planning (Determination of Appeals by Appointed Persons) (P
 
 ## Annotations
 
-[^key-83cae81e012840d39f3027a71208c4b6]: Commencement: [Reg. 70](https://www.legislation.gov.uk/wsi/2024/924/regulation/70) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-83cae81e012840d39f3027a71208c4b6]: Commencement: [Reg. 70](https://www.legislation.gov.uk/wsi/2024/924/regulation/70) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00043]: Footnote: [S.I. 2015/1822 (W. 264)](https://www.legislation.gov.uk/wsi/2015/1822).

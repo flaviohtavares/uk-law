@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Further education institutions: amendments[^key-a2ecefdfc742b4e4b2277c9c36156b50]
+## 49. Further education institutions: amendments[^c-a2ecefdfc742b4e4b2277c9c36156b50]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 12 (further education institutions: amendments) has effect.
 
 ## Annotations
 
-[^key-a2ecefdfc742b4e4b2277c9c36156b50]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2011/21/section/49) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/924/article/6), [7](https://www.legislation.gov.uk/uksi/2012/924/article/7))
+[^c-a2ecefdfc742b4e4b2277c9c36156b50]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2011/21/section/49) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/924/article/6), [7](https://www.legislation.gov.uk/uksi/2012/924/article/7))

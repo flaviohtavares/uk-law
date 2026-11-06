@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2024-02-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/14
 
-## 54. Contributions paid in error[^key-059c53f70bb29edb57a4ec1bdec8dacb]
+## 54. Contributions paid in error[^c-059c53f70bb29edb57a4ec1bdec8dacb]
 
 After section 19 of the Contributions and Benefits Act there shall be inserted the following section—
 
@@ -35,4 +35,4 @@ After section 19 of the Contributions and Benefits Act there shall be inserted t
 
 ## Annotations
 
-[^key-059c53f70bb29edb57a4ec1bdec8dacb]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/1998/14/section/54) in force at 4.3.1999 for specified purposes and 6.4.1999 in so far as not already in force by [S.I. 1999/526](https://www.legislation.gov.uk/uksi/1999/526), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/526/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/1999/526/article/2/2/a)
+[^c-059c53f70bb29edb57a4ec1bdec8dacb]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/1998/14/section/54) in force at 4.3.1999 for specified purposes and 6.4.1999 in so far as not already in force by [S.I. 1999/526](https://www.legislation.gov.uk/uksi/1999/526), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/526/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/1999/526/article/2/2/a)

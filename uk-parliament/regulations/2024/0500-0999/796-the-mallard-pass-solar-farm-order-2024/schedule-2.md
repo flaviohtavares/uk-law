@@ -22,7 +22,7 @@ summary: ''
 
 Article 2
 
-### 1. Interpretation[^key-2196694fcabdf910399e1d52d6c41a64]
+### 1. Interpretation[^c-2196694fcabdf910399e1d52d6c41a64]
 
 In this Schedule—
 
@@ -31,11 +31,11 @@ In this Schedule—
 - “**decommissioning timing provisions**” means provisions relating to the timing for decommissioning works to take place, being all of section 2.4 of the outline operational environmental management plan; and
 - “**relevant highway authority**” means the highway authority for the highways that are the subject of a construction traffic management plan submitted pursuant to requirement 13(1).
 
-### 2. Commencement of the authorised development[^key-057a375f4f4a5aa638c11778f1bd4d32]
+### 2. Commencement of the authorised development[^c-057a375f4f4a5aa638c11778f1bd4d32]
 
 The authorised development must not be commenced after the expiration of five years from the date this Order comes into force.
 
-### 3. Phasing of the authorised development and date of final commissioning[^key-2bfadb57ea2a09fd5590797b4ddea2bf]
+### 3. Phasing of the authorised development and date of final commissioning[^c-2bfadb57ea2a09fd5590797b4ddea2bf]
 
 (1) No part of the authorised development may commence until a written scheme setting out the phase or phases of construction of the authorised development has been submitted to and approved by the relevant planning authorities.
 
@@ -45,17 +45,17 @@ The authorised development must not be commenced after the expiration of five ye
 
 (4) Notice of the date of final commissioning with respect to each phase of Work No. 1 must be given to the relevant planning authorities within 15 working days of the date of final commissioning for that phase.
 
-### 4. Requirement for written approval[^key-13418436d536aeaf3b216a3bf7249662]
+### 4. Requirement for written approval[^c-13418436d536aeaf3b216a3bf7249662]
 
 Where under any of the requirements the approval, agreement or confirmation of both relevant planning authorities or of the relevant planning authority (as applicable) or another person is required, that approval, agreement or confirmation must be provided in writing.
 
-### 5. Approved details and amendments to them[^key-e8dfad3669af590f6549bc03c423330b]
+### 5. Approved details and amendments to them[^c-e8dfad3669af590f6549bc03c423330b]
 
 (1) With respect to any plans, details or schemes which have been approved pursuant to any requirement (the “Approved Documents, Plans, Details or Schemes”), the undertaker may submit to the relevant planning authority or both relevant planning authorities (as applicable) for approval any amendments to any of the Approved Documents, Plans, Details or Schemes and, following approval by the relevant planning authority or both relevant planning authorities (as applicable), the relevant Approved Documents, Plans, Details or Schemes is to be taken to include the amendments as so approved pursuant to this paragraph.
 
 (2) Approval under sub-paragraph (1) for the amendments to any of the Approved Documents, Plans, Details or Schemes must not be given except where it has been demonstrated to the satisfaction of the relevant planning authority or both relevant planning authorities (as applicable) that the subject matter of the approval sought is unlikely to give rise to any materially new or materially different environmental effects from those assessed in the environmental statement.
 
-### 6. Detailed design approval[^key-97084afb576fd2beeb4171f1eea5d1d8]
+### 6. Detailed design approval[^c-97084afb576fd2beeb4171f1eea5d1d8]
 
 (1) No phase of the authorised development may commence until details of—
 
@@ -78,7 +78,7 @@ relating to that phase have been submitted and approved in writing by the releva
 
 (5) Sub-paragraph (1) does not apply to the matters listed under sub-paragraph (1)(g) if consent has already been given to the details of those works pursuant to articles 9 (power to alter layout, etc. of streets), 10 (construction and maintenance of altered streets) or 13 (access to works).
 
-### 7. Landscape and ecology management plan[^key-4119f1669d22a71ca8e65e2d6bec823e]
+### 7. Landscape and ecology management plan[^c-4119f1669d22a71ca8e65e2d6bec823e]
 
 (1) No phase of the authorised development may commence, and no part of the permitted preliminary works for that phase comprising vegetation removal may start, until a landscape and ecology management plan (which must be substantially in accordance with the outline landscape and ecology management plan) has been submitted to and approved by the relevant planning authority for that phase or, where the phase falls within the administrative areas of both the District of South Kesteven and the County of Rutland, both relevant planning authorities, following consultation with Natural England and Lincolnshire County Council.
 
@@ -99,7 +99,7 @@ relating to that phase have been submitted and approved in writing by the releva
 
 (4) Each landscape and ecology management plan approved under sub-paragraph (1) must be implemented as approved and maintained throughout the operation of the relevant phases of the authorised development to which each plan relates.
 
-### 8. Fencing and other means of enclosure[^key-34d1b0cecbee8f068b6e5563b7c03997]
+### 8. Fencing and other means of enclosure[^c-34d1b0cecbee8f068b6e5563b7c03997]
 
 (1) No phase of the authorised development may commence, and no part of the permitted preliminary works for that phase comprising the provision of temporary means of enclosure may start, until written details of all proposed temporary fences, walls or other means of enclosure, including those set out in the construction environmental management plan, for that phase have been submitted to and approved by the relevant planning authority or, where the phase falls within the administrative areas of both the District of South Kesteven and the County of Rutland, both relevant planning authorities, such approval to be in consultation with Lincolnshire County Council.
 
@@ -117,7 +117,7 @@ relating to that phase have been submitted and approved in writing by the releva
 
 (8) Any permanent fencing, walls or other means of enclosure must be properly maintained for the operational lifetime of the part of the authorised development.
 
-### 9. Surface and foul water drainage[^key-f3a640ec3456f68b3e4b7b4c2b58e8c9]
+### 9. Surface and foul water drainage[^c-f3a640ec3456f68b3e4b7b4c2b58e8c9]
 
 (1) No phase of the authorised development may commence until written details of the surface water drainage scheme and (if any) foul water drainage system (which must be substantially in accordance with the outline surface water drainage strategy) have been submitted to and approved by the local lead flood authority and the relevant planning authority for that phase or, where the phase falls within the administrative areas of both the District of South Kesteven and the County of Rutland, both relevant planning authorities and both local lead flood authorities.
 
@@ -129,7 +129,7 @@ relating to that phase have been submitted and approved in writing by the releva
 
 (5) The construction of any phase of the authorised development must be carried out in accordance with the water management plan approved under sub-paragraph (3) for that phase.
 
-### 10. Archaeology[^key-4a4f0ab8807139a61773da7e2010026c]
+### 10. Archaeology[^c-4a4f0ab8807139a61773da7e2010026c]
 
 (1) The authorised development may not commence until:
 
@@ -139,7 +139,7 @@ relating to that phase have been submitted and approved in writing by the releva
 
 (2) The authorised development must be carried out in accordance with the updated outline written scheme of investigation approved under sub-paragraph 1(c).
 
-### 11. Construction environmental management plan[^key-59fd22e280dc4228267a6cf78c6df686]
+### 11. Construction environmental management plan[^c-59fd22e280dc4228267a6cf78c6df686]
 
 (1) No phase of the authorised development may commence until a construction environmental management plan (which must be substantially in accordance with the outline construction environmental management plan) for that phase has been submitted to and approved by the relevant planning authority for that phase or, where the phase falls within the administrative areas of both the District of South Kesteven and the County of Rutland, both relevant planning authorities, such approval to be in consultation with the Environment Agency and Lincolnshire County Council.
 
@@ -149,7 +149,7 @@ relating to that phase have been submitted and approved in writing by the releva
 
 (4) The construction of any phase of the authorised development must be carried out in accordance with the approved construction environmental management plan for that phase.
 
-### 12. Operational environmental management plan[^key-66bbdd94b268adef75fe6fb3efefab61]
+### 12. Operational environmental management plan[^c-66bbdd94b268adef75fe6fb3efefab61]
 
 (1) Prior to the date of final commissioning for any phase of the authorised development, an operational environmental management plan (which must be substantially in accordance with the outline operational environmental management plan and which must include the decommissioning timing provisions) for that phase must be submitted to and approved by the relevant planning authority for that phase or, where the phase falls within the administrative areas of both the District of South Kesteven and the County of Rutland, both relevant planning authorities, such approval to be in consultation with the Environment Agency and Lincolnshire County Council.
 
@@ -157,7 +157,7 @@ relating to that phase have been submitted and approved in writing by the releva
 
 (3) The operation of any phase of the authorised development must be carried out and maintained in accordance with the approved operational environmental management plan for that phase.
 
-### 13. Construction traffic management plan[^key-19a319a151d5f4642a1d36b290b5032b]
+### 13. Construction traffic management plan[^c-19a319a151d5f4642a1d36b290b5032b]
 
 (1) No phase of the authorised development may commence until a construction traffic management plan (which must be substantially in accordance with the outline construction traffic management plan) for that phase has been submitted to and approved by the relevant planning authority for that phase or, where the phase falls within the administrative areas of both the District of South Kesteven and the County of Rutland, both relevant planning authorities, such approval to be in consultation with both relevant highway authorities.
 
@@ -165,7 +165,7 @@ relating to that phase have been submitted and approved in writing by the releva
 
 (3) The construction of any phase of the authorised development must be carried out in accordance with the approved construction traffic management plan for that phase.
 
-### 14. Soil management plan[^key-4e46f82a790b0018ef45979454344499]
+### 14. Soil management plan[^c-4e46f82a790b0018ef45979454344499]
 
 (1) No phase of the authorised development may commence until a soil management plan, which must include an excavated materials management plan (which must be substantially in accordance with the outline soil management plan and the outline excavated materials management plan) for that phase has been submitted to and approved by the relevant planning authority for that phase or, where the phase falls within the administrative areas of both the District of South Kesteven and the County of Rutland, both relevant planning authorities. Such approval must be in consultation with the Environment Agency in relation to the excavated materials management plan.
 
@@ -173,27 +173,27 @@ relating to that phase have been submitted and approved in writing by the releva
 
 (3) The construction of any phase of the authorised development must be carried out in accordance with the approved soil management plan and excavated materials management plan for that phase.
 
-### 15. Ground conditions[^key-6dd455acc9c3be95c4b5dfe4a349670f]
+### 15. Ground conditions[^c-6dd455acc9c3be95c4b5dfe4a349670f]
 
 (1) No phase of the authorised development may commence, and no part of the permitted preliminary works for that phase comprising demolition or decommissioning of existing structures, environmental surveys, geotechnical surveys and other investigations for the purpose of assessing ground conditions only may start, until a written strategy in relation to the identification and remediation of any risks associated with contamination for that phase has been submitted to and approved by the relevant planning authority or, where the phase falls within the administrative areas of both the District of South Kesteven and the County of Rutland, both relevant planning authorities, such approval to be in consultation with the Environment Agency.
 
 (2) The carrying out of any phase of the authorised development must be undertaken in accordance with the strategies approved pursuant to sub-paragraph (1) for that phase.
 
-### 16. Operational noise[^key-efe6313341f42d373fe0cc695868d4a5]
+### 16. Operational noise[^c-efe6313341f42d373fe0cc695868d4a5]
 
 (1) No phase of the authorised development may be operational until an operational noise assessment containing details of how the design of the authorised development for that phase has incorporated mitigation to ensure that operational noise rating levels (determined in line with BSI British Standards Publication 4142:2014+A1:2019 dated 30 June 2019 (or the current version of that publication if this has been superseded when the assessment is submitted for approval)) not exceeding 35 decibels at residential properties are to be compiled with for that phase has been submitted to and approved by the relevant planning authority for that phase or, where that phase falls within the administrative areas of both the District of South Kesteven and the County of Rutland, both relevant planning authorities.
 
 (2) The mitigation measures described in the operational noise assessment must be implemented and maintained as approved throughout the operation of that phase of the authorised development.
 
-### 17. Skills, supply chain and employment[^key-d798d4dd04db8ed689add3e407bfa6ad]
+### 17. Skills, supply chain and employment[^c-d798d4dd04db8ed689add3e407bfa6ad]
 
 (1) No phase of the authorised development may commence until a employment, skills and supply chain plan (which must be substantially in accordance with the outline employment, skills and supply chain plan) in relation to that phase has been submitted to and approved by the relevant planning authority for that phase or, where the phase falls within the administrative areas of both the District of South Kesteven and the County of Rutland, both relevant planning authorities.
 
-(2) The employment, skills and supply chain plan[^key-3413e7c45b42f5d502ec9c1b514ba408] must identify opportunities for individuals and businesses to access employment and supply chain opportunities associated with the construction, operation and maintenance of the authorised development, and the means for publicising such opportunities.
+(2) The employment, skills and supply chain plan[^c-3413e7c45b42f5d502ec9c1b514ba408] must identify opportunities for individuals and businesses to access employment and supply chain opportunities associated with the construction, operation and maintenance of the authorised development, and the means for publicising such opportunities.
 
 (3) Any employment, skills and supply chain plan approved under sub-paragraph (1) must be implemented as approved.
 
-### 18. Decommissioning and restoration[^key-fc5fef6b54bbb53778daf8eb5671f7e0]
+### 18. Decommissioning and restoration[^c-fc5fef6b54bbb53778daf8eb5671f7e0]
 
 (1) Decommissioning works must commence no later than 60 years following the date of the final commissioning of the first phase of Work No. 1, as notified by the undertaker pursuant to requirement 3(4) (phasing of the authorised development and date of final commissioning).
 
@@ -207,7 +207,7 @@ relating to that phase have been submitted and approved in writing by the releva
 
 (6) This requirement is without prejudice to any other consents or permissions which may be required to decommission any part of the authorised development.
 
-### 19. Long-term flood risk mitigation[^key-5921fca948abb5caf9a200be1c63385e]
+### 19. Long-term flood risk mitigation[^c-5921fca948abb5caf9a200be1c63385e]
 
 (1) If any part of Work No.1 is still in operation on 1 January 2077, the undertaker must notify the relevant planning authority and the Environment Agency whether it anticipates that the operation of Work No. 1 will continue after 31 January 2077.
 
@@ -226,42 +226,42 @@ relating to that phase have been submitted and approved in writing by the releva
 
 ## Annotations
 
-[^key-2196694fcabdf910399e1d52d6c41a64]: Commencement: Sch. 2 para. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-2196694fcabdf910399e1d52d6c41a64]: Commencement: Sch. 2 para. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-057a375f4f4a5aa638c11778f1bd4d32]: Commencement: Sch. 2 para. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-057a375f4f4a5aa638c11778f1bd4d32]: Commencement: Sch. 2 para. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-2bfadb57ea2a09fd5590797b4ddea2bf]: Commencement: Sch. 2 para. 3 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-2bfadb57ea2a09fd5590797b4ddea2bf]: Commencement: Sch. 2 para. 3 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-13418436d536aeaf3b216a3bf7249662]: Commencement: Sch. 2 para. 4 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-13418436d536aeaf3b216a3bf7249662]: Commencement: Sch. 2 para. 4 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-e8dfad3669af590f6549bc03c423330b]: Commencement: Sch. 2 para. 5 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-e8dfad3669af590f6549bc03c423330b]: Commencement: Sch. 2 para. 5 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-97084afb576fd2beeb4171f1eea5d1d8]: Commencement: Sch. 2 para. 6 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-97084afb576fd2beeb4171f1eea5d1d8]: Commencement: Sch. 2 para. 6 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-4119f1669d22a71ca8e65e2d6bec823e]: Commencement: Sch. 2 para. 7 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-4119f1669d22a71ca8e65e2d6bec823e]: Commencement: Sch. 2 para. 7 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-34d1b0cecbee8f068b6e5563b7c03997]: Commencement: Sch. 2 para. 8 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-34d1b0cecbee8f068b6e5563b7c03997]: Commencement: Sch. 2 para. 8 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-f3a640ec3456f68b3e4b7b4c2b58e8c9]: Commencement: Sch. 2 para. 9 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-f3a640ec3456f68b3e4b7b4c2b58e8c9]: Commencement: Sch. 2 para. 9 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-4a4f0ab8807139a61773da7e2010026c]: Commencement: Sch. 2 para. 10 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-4a4f0ab8807139a61773da7e2010026c]: Commencement: Sch. 2 para. 10 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-59fd22e280dc4228267a6cf78c6df686]: Commencement: Sch. 2 para. 11 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-59fd22e280dc4228267a6cf78c6df686]: Commencement: Sch. 2 para. 11 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-66bbdd94b268adef75fe6fb3efefab61]: Commencement: Sch. 2 para. 12 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-66bbdd94b268adef75fe6fb3efefab61]: Commencement: Sch. 2 para. 12 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-19a319a151d5f4642a1d36b290b5032b]: Commencement: Sch. 2 para. 13 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-19a319a151d5f4642a1d36b290b5032b]: Commencement: Sch. 2 para. 13 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-4e46f82a790b0018ef45979454344499]: Commencement: Sch. 2 para. 14 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-4e46f82a790b0018ef45979454344499]: Commencement: Sch. 2 para. 14 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-6dd455acc9c3be95c4b5dfe4a349670f]: Commencement: Sch. 2 para. 15 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-6dd455acc9c3be95c4b5dfe4a349670f]: Commencement: Sch. 2 para. 15 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-efe6313341f42d373fe0cc695868d4a5]: Commencement: Sch. 2 para. 16 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-efe6313341f42d373fe0cc695868d4a5]: Commencement: Sch. 2 para. 16 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-d798d4dd04db8ed689add3e407bfa6ad]: Commencement: Sch. 2 para. 17 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-d798d4dd04db8ed689add3e407bfa6ad]: Commencement: Sch. 2 para. 17 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-3413e7c45b42f5d502ec9c1b514ba408]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2024/796/schedule/2) substituted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
+[^c-3413e7c45b42f5d502ec9c1b514ba408]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2024/796/schedule/2) substituted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
 
-[^key-fc5fef6b54bbb53778daf8eb5671f7e0]: Commencement: Sch. 2 para. 18 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-fc5fef6b54bbb53778daf8eb5671f7e0]: Commencement: Sch. 2 para. 18 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-5921fca948abb5caf9a200be1c63385e]: Commencement: Sch. 2 para. 19 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-5921fca948abb5caf9a200be1c63385e]: Commencement: Sch. 2 para. 19 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)

@@ -24,11 +24,11 @@ Section 2
 
 ### PART 1 — The ICRIR
 
-#### 1. Status[^key-6b70427995613a9b71329d698ea79bea][^key-9035b45fff0db4c88e2b7a3baed53569]
+#### 1. Status[^c-6b70427995613a9b71329d698ea79bea][^c-9035b45fff0db4c88e2b7a3baed53569]
 
 The ICRIR is not to be regarded as the servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown.
 
-#### 2. Powers[^key-9d78b4a54d1dc42cd899db43513e3e77][^key-cf1346ef495e70de0f639364b8a08ac0]
+#### 2. Powers[^c-9d78b4a54d1dc42cd899db43513e3e77][^c-cf1346ef495e70de0f639364b8a08ac0]
 
 (1) The ICRIR may do anything that it thinks necessary or expedient in connection with the exercise of its functions.
 
@@ -44,7 +44,7 @@ The ICRIR is not to be regarded as the servant or agent of the Crown or as enjoy
 - (a) the Commissioners, and
 - (b) the ICRIR officers.
 
-#### 3. Regulation and validity of proceedings[^key-f007a9fd62d42f08f3b998e362c520d0][^key-3598301048b545638f66947e981d5011]
+#### 3. Regulation and validity of proceedings[^c-f007a9fd62d42f08f3b998e362c520d0][^c-3598301048b545638f66947e981d5011]
 
 (1) The ICRIR may regulate its own proceedings (including quorum).
 
@@ -53,7 +53,7 @@ The ICRIR is not to be regarded as the servant or agent of the Crown or as enjoy
 - (a) any vacancy in the membership of the ICRIR;
 - (b) any defect in the appointment of any Commissioner.
 
-#### 4. Delegation of functions and their exercise by the Commissioners[^key-2917b17505999c3ddcbf9fec83d0bf5d][^key-078a260ac134498691ef6a328310afe0]
+#### 4. Delegation of functions and their exercise by the Commissioners[^c-2917b17505999c3ddcbf9fec83d0bf5d][^c-078a260ac134498691ef6a328310afe0]
 
 (1) Any function of the ICRIR may be exercised on behalf of, and in the name of, the ICRIR by—
 
@@ -73,7 +73,7 @@ who has been authorised (whether generally or specifically) by the ICRIR for tha
 
 (5) If a function is exercisable by the ICRIR in accordance with sub-paragraph (3), the ICRIR may make arrangements under sub-paragraph (1) relating to the exercise of the function.
 
-#### 5. Seal and proof of documents[^key-ca864dbaadbdfdcae406cb53ac149f5b][^key-be7ca62602c2b70b7204112e4514c73f]
+#### 5. Seal and proof of documents[^c-ca864dbaadbdfdcae406cb53ac149f5b][^c-be7ca62602c2b70b7204112e4514c73f]
 
 (1) The ICRIR may have a seal.
 
@@ -90,7 +90,7 @@ who has been authorised (whether generally or specifically) by the ICRIR for tha
 
 must be received in evidence and treated as so signed unless the contrary is shown.
 
-#### 6. Accounts and audit[^key-5d5e3af8ccfcfe91adb2836e47d79d22][^key-0d0af5a5cf24cde53faf35410edb855c]
+#### 6. Accounts and audit[^c-5d5e3af8ccfcfe91adb2836e47d79d22][^c-0d0af5a5cf24cde53faf35410edb855c]
 
 (1) The ICRIR must—
 
@@ -109,11 +109,11 @@ must be received in evidence and treated as so signed unless the contrary is sho
 
 ### PART 2 — The Commissioners
 
-#### 7. Number of Commissioners[^key-f9add457141fb6716f21a9d43f143b10][^key-45f5470436f2bbab2a6dcf0f893409ae]
+#### 7. Number of Commissioners[^c-f9add457141fb6716f21a9d43f143b10][^c-45f5470436f2bbab2a6dcf0f893409ae]
 
 The Secretary of State is to determine from time to time how many other Commissioners there are to be under section 2(3)(c) (which allows for there to be between one and five of them).
 
-#### 8. Appointment[^key-e49d499338ce1871f7ee4f7af844c9ae][^key-5df13b127b95b9a6b034fbf65cf5b46e]
+#### 8. Appointment[^c-e49d499338ce1871f7ee4f7af844c9ae][^c-5df13b127b95b9a6b034fbf65cf5b46e]
 
 (1) The Commissioners are to be appointed by the Secretary of State.
 
@@ -158,7 +158,7 @@ The Secretary of State is to determine from time to time how many other Commissi
   | Judge of the High Court in England and Wales | The Lord Chief Justice of England and Wales |
   | Judge of the Court of Session | The Lord President of the Court of Session |
 
-#### 9. Person holding public elected position not to be a Commissioner[^key-2b73af60b2224ba5f747e71faaa71edc][^key-e14ea19102731b68c87523d1c2a3ca69]
+#### 9. Person holding public elected position not to be a Commissioner[^c-2b73af60b2224ba5f747e71faaa71edc][^c-e14ea19102731b68c87523d1c2a3ca69]
 
 (1) A person who holds a relevant office may not be appointed as a Commissioner.
 
@@ -181,7 +181,7 @@ The Secretary of State is to determine from time to time how many other Commissi
 - (k) a member of a city council, county council or city and county council in Ireland;
 - (l) a member of the European Parliament from any member State.
 
-#### 10. Terms of appointment of Commissioners[^key-0eace704e35eaefb9dd7299be79d36a1][^key-9f4ff9550477994d506d207fcb1b9025]
+#### 10. Terms of appointment of Commissioners[^c-0eace704e35eaefb9dd7299be79d36a1][^c-9f4ff9550477994d506d207fcb1b9025]
 
 (1) The appointment of a person as a Commissioner is for a term which—
 
@@ -193,7 +193,7 @@ The Secretary of State is to determine from time to time how many other Commissi
 
 (3) The Secretary of State may pay a person compensation on ceasing to be a Commissioner if it appears to the Secretary of State that there are special circumstances which make it right for the person to receive the compensation.
 
-#### 11. Conflicts of interest[^key-d7d79d2868fe3960cf722258647e5447][^key-8c2c2eb0020cc9832735a392239dbaab]
+#### 11. Conflicts of interest[^c-d7d79d2868fe3960cf722258647e5447][^c-8c2c2eb0020cc9832735a392239dbaab]
 
 (1) The Secretary of State may require—
 
@@ -207,7 +207,7 @@ to provide the Secretary of State with information about any relevant matter.
 - (a) give rise to a conflict of interest in respect of a person’s work as a Commissioner, or
 - (b) otherwise affect a person’s ability to carry out the work as a Commissioner fairly and impartially.
 
-#### 12. Resignation and removal of Commissioners[^key-434b7ca7f292d4f59fd6ac58944cf668][^key-be22143cf4bf1d8174382b8624e42581]
+#### 12. Resignation and removal of Commissioners[^c-434b7ca7f292d4f59fd6ac58944cf668][^c-be22143cf4bf1d8174382b8624e42581]
 
 (1) A person ceases to be a Commissioner if the person gives the Secretary of State written notice of resignation.
 
@@ -239,7 +239,7 @@ to provide the Secretary of State with information about any relevant matter.
 
 ### PART 3 — The Chief Commissioner
 
-#### 13. Delegation of functions[^key-2cb38f8db024b2c3a9f0a07b8cfce9f1][^key-687b5136ceeb155cc0ecc70651d54b8e]
+#### 13. Delegation of functions[^c-2cb38f8db024b2c3a9f0a07b8cfce9f1][^c-687b5136ceeb155cc0ecc70651d54b8e]
 
 (1) The Chief Commissioner may authorise—
 
@@ -254,7 +254,7 @@ to do any act which the Chief Commissioner may do.
 
 ### PART 4 — The Commissioner for Investigations
 
-#### 14. Delegation of functions[^key-c9bf5b0b908a16d7af407ab75d5df216][^key-53a2832902effc6d3a2b8f36b4493f8b]
+#### 14. Delegation of functions[^c-c9bf5b0b908a16d7af407ab75d5df216][^c-53a2832902effc6d3a2b8f36b4493f8b]
 
 (1) The Commissioner for Investigations may authorise—
 
@@ -267,7 +267,7 @@ to do any act which the Commissioner for Investigations may do.
 
 (3) An authorisation under this paragraph may be given generally or specially.
 
-#### 15. No limitation on trade union activity[^key-bee149350372e9d1fb1380835dc204c8][^key-4d0a8ef7998915a9ad47aac46f7e8b6e]
+#### 15. No limitation on trade union activity[^c-bee149350372e9d1fb1380835dc204c8][^c-4d0a8ef7998915a9ad47aac46f7e8b6e]
 
 The Commissioner for Investigations is not to be regarded as in police service for the purposes of—
 
@@ -278,14 +278,14 @@ The Commissioner for Investigations is not to be regarded as in police service f
 
 ### PART 5 — ICRIR officers
 
-#### 16. Employed ICRIR officers[^key-00915e41b338aac71c95950c7b873a4c][^key-c197749a1f332af32a06121926e4373e]
+#### 16. Employed ICRIR officers[^c-00915e41b338aac71c95950c7b873a4c][^c-c197749a1f332af32a06121926e4373e]
 
 The ICRIR is to determine—
 
 - (a) the number of employed ICRIR officers; and
 - (b) the terms of their employment.
 
-#### 17. Seconded ICRIR officers[^key-831ee3a3039808a3ba988ad75bee26a6][^key-b092fa5d6c389917a48031bef01a894a]
+#### 17. Seconded ICRIR officers[^c-831ee3a3039808a3ba988ad75bee26a6][^c-b092fa5d6c389917a48031bef01a894a]
 
 (1) Seconded ICRIR officers are under the direction and control of the ICRIR in the same way as employed ICRIR officers.
 
@@ -333,7 +333,7 @@ to the person does not affect the person’s ability, as an ICRIR officer, to be
   - (f) in the case of the Ministry of Defence Police, the Secretary of State;
   - (g) in the case of the British Transport Police, the British Transport Police Authority.
 
-#### 18. Persons holding public elected positions not to be ICRIR officers[^key-16d73099ad1eb2f49d6b36fe3bc8b7c1][^key-42a4374c33f8746217ce4f411eee552f]
+#### 18. Persons holding public elected positions not to be ICRIR officers[^c-16d73099ad1eb2f49d6b36fe3bc8b7c1][^c-42a4374c33f8746217ce4f411eee552f]
 
 (1) A person who holds a relevant office may not become an ICRIR officer.
 
@@ -343,7 +343,7 @@ to the person does not affect the person’s ability, as an ICRIR officer, to be
 
 (4) This paragraph does not apply to the Commissioner for Investigations (instead see paragraph 9).
 
-#### 19. Rehabilitation of offenders[^key-fe647698afbcaa3c39ddab8da06cb061][^key-b05cd46204ede730a4b064dec0dcd706]
+#### 19. Rehabilitation of offenders[^c-fe647698afbcaa3c39ddab8da06cb061][^c-b05cd46204ede730a4b064dec0dcd706]
 
 (1) The following Orders apply to ICRIR officers as they apply to constables—
 
@@ -353,7 +353,7 @@ to the person does not affect the person’s ability, as an ICRIR officer, to be
 
 (2) This paragraph does not apply to the Commissioner for Investigations (instead see paragraph 8(8)).
 
-#### 20. Liability for unlawful conduct[^key-529fe7cc05764d0710069e555088a5a7][^key-52dd2e24b5db97894dcfcba260ce4a31]
+#### 20. Liability for unlawful conduct[^c-529fe7cc05764d0710069e555088a5a7][^c-52dd2e24b5db97894dcfcba260ce4a31]
 
 (1) The ICRIR may, in such cases and to such extent as appear to the ICRIR to be appropriate, pay—
 
@@ -369,7 +369,7 @@ to the person does not affect the person’s ability, as an ICRIR officer, to be
 
 (5) If the unlawful conduct is a tort, the ICRIR is accordingly to be treated as a joint tortfeasor.
 
-#### 21. No limitation on trade union activity[^key-7c867669448e86f7a6400a4160b3bed2][^key-eae347796fd63825e76190b1fdb66342]
+#### 21. No limitation on trade union activity[^c-7c867669448e86f7a6400a4160b3bed2][^c-eae347796fd63825e76190b1fdb66342]
 
 (1) An ICRIR officer is not to be regarded as in police service for the purposes of—
 
@@ -380,7 +380,7 @@ to the person does not affect the person’s ability, as an ICRIR officer, to be
 
 (2) This paragraph does not apply to the Commissioner for Investigations (instead see paragraph 15).
 
-#### 22. Meaning of “employed” and “seconded” ICRIR officer[^key-5352f15b2fdd9dc61626a849a8b357ee][^key-896c53312ee0d4815cd41b1da72ee9ba]
+#### 22. Meaning of “employed” and “seconded” ICRIR officer[^c-5352f15b2fdd9dc61626a849a8b357ee][^c-896c53312ee0d4815cd41b1da72ee9ba]
 
 In this Part—
 
@@ -389,90 +389,90 @@ In this Part—
 
 ## Annotations
 
-[^key-6b70427995613a9b71329d698ea79bea]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-6b70427995613a9b71329d698ea79bea]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-9035b45fff0db4c88e2b7a3baed53569]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/1) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
+[^c-9035b45fff0db4c88e2b7a3baed53569]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/1) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
 
-[^key-9d78b4a54d1dc42cd899db43513e3e77]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-9d78b4a54d1dc42cd899db43513e3e77]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-cf1346ef495e70de0f639364b8a08ac0]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/2) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
+[^c-cf1346ef495e70de0f639364b8a08ac0]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/2) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
 
-[^key-f007a9fd62d42f08f3b998e362c520d0]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-f007a9fd62d42f08f3b998e362c520d0]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-3598301048b545638f66947e981d5011]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/3) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
+[^c-3598301048b545638f66947e981d5011]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/3) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
 
-[^key-2917b17505999c3ddcbf9fec83d0bf5d]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-2917b17505999c3ddcbf9fec83d0bf5d]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-078a260ac134498691ef6a328310afe0]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/4) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
+[^c-078a260ac134498691ef6a328310afe0]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/4) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
 
-[^key-ca864dbaadbdfdcae406cb53ac149f5b]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-ca864dbaadbdfdcae406cb53ac149f5b]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-be7ca62602c2b70b7204112e4514c73f]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/5) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
+[^c-be7ca62602c2b70b7204112e4514c73f]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/5) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
 
-[^key-5d5e3af8ccfcfe91adb2836e47d79d22]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-5d5e3af8ccfcfe91adb2836e47d79d22]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-0d0af5a5cf24cde53faf35410edb855c]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/6) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
+[^c-0d0af5a5cf24cde53faf35410edb855c]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/6) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
 
-[^key-f9add457141fb6716f21a9d43f143b10]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-f9add457141fb6716f21a9d43f143b10]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-45f5470436f2bbab2a6dcf0f893409ae]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/7) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
+[^c-45f5470436f2bbab2a6dcf0f893409ae]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/7) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
 
-[^key-e49d499338ce1871f7ee4f7af844c9ae]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-e49d499338ce1871f7ee4f7af844c9ae]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-5df13b127b95b9a6b034fbf65cf5b46e]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/8) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
+[^c-5df13b127b95b9a6b034fbf65cf5b46e]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/8) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
 
-[^key-2b73af60b2224ba5f747e71faaa71edc]: Commencement: Sch. 1 para. 9 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-2b73af60b2224ba5f747e71faaa71edc]: Commencement: Sch. 1 para. 9 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-e14ea19102731b68c87523d1c2a3ca69]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/9) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
+[^c-e14ea19102731b68c87523d1c2a3ca69]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/9) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
 
-[^key-0eace704e35eaefb9dd7299be79d36a1]: Commencement: Sch. 1 para. 10 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-0eace704e35eaefb9dd7299be79d36a1]: Commencement: Sch. 1 para. 10 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-9f4ff9550477994d506d207fcb1b9025]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/10) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
+[^c-9f4ff9550477994d506d207fcb1b9025]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/10) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
 
-[^key-d7d79d2868fe3960cf722258647e5447]: Commencement: Sch. 1 para. 11 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-d7d79d2868fe3960cf722258647e5447]: Commencement: Sch. 1 para. 11 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-8c2c2eb0020cc9832735a392239dbaab]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/11) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
+[^c-8c2c2eb0020cc9832735a392239dbaab]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/11) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
 
-[^key-434b7ca7f292d4f59fd6ac58944cf668]: Commencement: Sch. 1 para. 12 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-434b7ca7f292d4f59fd6ac58944cf668]: Commencement: Sch. 1 para. 12 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-be22143cf4bf1d8174382b8624e42581]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/12) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
+[^c-be22143cf4bf1d8174382b8624e42581]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/12) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
 
-[^key-2cb38f8db024b2c3a9f0a07b8cfce9f1]: Commencement: Sch. 1 para. 13 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-2cb38f8db024b2c3a9f0a07b8cfce9f1]: Commencement: Sch. 1 para. 13 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-687b5136ceeb155cc0ecc70651d54b8e]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/13) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
+[^c-687b5136ceeb155cc0ecc70651d54b8e]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/13) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
 
-[^key-c9bf5b0b908a16d7af407ab75d5df216]: Commencement: Sch. 1 para. 14 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-c9bf5b0b908a16d7af407ab75d5df216]: Commencement: Sch. 1 para. 14 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-53a2832902effc6d3a2b8f36b4493f8b]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/14) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
+[^c-53a2832902effc6d3a2b8f36b4493f8b]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/14) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
 
-[^key-bee149350372e9d1fb1380835dc204c8]: Commencement: Sch. 1 para. 15 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-bee149350372e9d1fb1380835dc204c8]: Commencement: Sch. 1 para. 15 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-4d0a8ef7998915a9ad47aac46f7e8b6e]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/15) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
+[^c-4d0a8ef7998915a9ad47aac46f7e8b6e]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/15) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
 
-[^key-00915e41b338aac71c95950c7b873a4c]: Commencement: Sch. 1 para. 16 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-00915e41b338aac71c95950c7b873a4c]: Commencement: Sch. 1 para. 16 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-c197749a1f332af32a06121926e4373e]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/16) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
+[^c-c197749a1f332af32a06121926e4373e]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/16) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
 
-[^key-831ee3a3039808a3ba988ad75bee26a6]: Commencement: Sch. 1 para. 17 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-831ee3a3039808a3ba988ad75bee26a6]: Commencement: Sch. 1 para. 17 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-b092fa5d6c389917a48031bef01a894a]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/17) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
+[^c-b092fa5d6c389917a48031bef01a894a]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/17) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
 
-[^key-16d73099ad1eb2f49d6b36fe3bc8b7c1]: Commencement: Sch. 1 para. 18 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-16d73099ad1eb2f49d6b36fe3bc8b7c1]: Commencement: Sch. 1 para. 18 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-42a4374c33f8746217ce4f411eee552f]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/18) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
+[^c-42a4374c33f8746217ce4f411eee552f]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/18) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
 
-[^key-fe647698afbcaa3c39ddab8da06cb061]: Commencement: Sch. 1 para. 19 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-fe647698afbcaa3c39ddab8da06cb061]: Commencement: Sch. 1 para. 19 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-b05cd46204ede730a4b064dec0dcd706]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/19) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
+[^c-b05cd46204ede730a4b064dec0dcd706]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/19) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
 
-[^key-529fe7cc05764d0710069e555088a5a7]: Commencement: Sch. 1 para. 20 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-529fe7cc05764d0710069e555088a5a7]: Commencement: Sch. 1 para. 20 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-52dd2e24b5db97894dcfcba260ce4a31]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/20) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
+[^c-52dd2e24b5db97894dcfcba260ce4a31]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/20) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
 
-[^key-7c867669448e86f7a6400a4160b3bed2]: Commencement: Sch. 1 para. 21 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-7c867669448e86f7a6400a4160b3bed2]: Commencement: Sch. 1 para. 21 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-eae347796fd63825e76190b1fdb66342]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/21) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
+[^c-eae347796fd63825e76190b1fdb66342]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/21) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
 
-[^key-5352f15b2fdd9dc61626a849a8b357ee]: Commencement: Sch. 1 para. 22 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-5352f15b2fdd9dc61626a849a8b357ee]: Commencement: Sch. 1 para. 22 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-896c53312ee0d4815cd41b1da72ee9ba]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/22) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
+[^c-896c53312ee0d4815cd41b1da72ee9ba]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/22) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)

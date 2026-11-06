@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 71. Power to obtain information from persons connected to premises[^key-55145b6e3afeb7d48c46a724a346673f]
+## 71. Power to obtain information from persons connected to premises[^c-55145b6e3afeb7d48c46a724a346673f]
 
 *Extent: N.I.*
 
@@ -58,4 +58,4 @@ the notice may also require the person to disclose the relationship (if any) bet
 
 ## Annotations
 
-[^key-55145b6e3afeb7d48c46a724a346673f]: Commencement: [S. 71](https://www.legislation.gov.uk/nia/2016/22/section/71) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-55145b6e3afeb7d48c46a724a346673f]: Commencement: [S. 71](https://www.legislation.gov.uk/nia/2016/22/section/71) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

@@ -31,7 +31,7 @@ summary: ''
 
 JUDGMENTS
 
-The Civil Jurisdiction and Judgments (Authentic Instruments and Court Settlements) Order 2001 (revoked)[^key-12d27e94f1cc362ff6da34f08c454faa]
+The Civil Jurisdiction and Judgments (Authentic Instruments and Court Settlements) Order 2001 (revoked)[^c-12d27e94f1cc362ff6da34f08c454faa]
 
 Made
 
@@ -51,32 +51,32 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-12d27e94f1cc362ff6da34f08c454faa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12d27e94f1cc362ff6da34f08c454faa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-12d27e94f1cc362ff6da34f08c454faa]
+## 1.[^c-12d27e94f1cc362ff6da34f08c454faa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-12d27e94f1cc362ff6da34f08c454faa]
+## 2.[^c-12d27e94f1cc362ff6da34f08c454faa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-12d27e94f1cc362ff6da34f08c454faa]
+## 3.[^c-12d27e94f1cc362ff6da34f08c454faa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-12d27e94f1cc362ff6da34f08c454faa]
+## 4.[^c-12d27e94f1cc362ff6da34f08c454faa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-12d27e94f1cc362ff6da34f08c454faa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12d27e94f1cc362ff6da34f08c454faa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-12d27e94f1cc362ff6da34f08c454faa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12d27e94f1cc362ff6da34f08c454faa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-12d27e94f1cc362ff6da34f08c454faa]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/3928) revoked (31.12.2020) by [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [74](https://www.legislation.gov.uk/uksi/2019/479/regulation/74) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-12d27e94f1cc362ff6da34f08c454faa]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/3928) revoked (31.12.2020) by [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [74](https://www.legislation.gov.uk/uksi/2019/479/regulation/74) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Establishment and maintenance of register by person other than Scottish Ministers[^key-684cc7eaeea29ddb7b1b16bd83fc19e2]
+## 33. Establishment and maintenance of register by person other than Scottish Ministers[^c-684cc7eaeea29ddb7b1b16bd83fc19e2]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-684cc7eaeea29ddb7b1b16bd83fc19e2]: Commencement: S. 33 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-684cc7eaeea29ddb7b1b16bd83fc19e2]: Commencement: S. 33 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

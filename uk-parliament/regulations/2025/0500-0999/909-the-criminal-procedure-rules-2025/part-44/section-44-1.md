@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44.1. When this Part applies[^key-a93e0e67c9bfdf7045a83368db849ea3]
+## 44.1. When this Part applies[^c-a93e0e67c9bfdf7045a83368db849ea3]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ This Part applies in a magistrates’ court where—
 
 ## Annotations
 
-[^key-a93e0e67c9bfdf7045a83368db849ea3]: Commencement: [Rule 44.1](https://www.legislation.gov.uk/uksi/2025/909/rule/44.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-a93e0e67c9bfdf7045a83368db849ea3]: Commencement: [Rule 44.1](https://www.legislation.gov.uk/uksi/2025/909/rule/44.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01031]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 14 was amended by section 109 of, and paragraph 205 of Schedule 8 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39). Section 16E was inserted by section 48 of the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31A. Power to amend names of police areas[^key-5eb5a1be660aa9320e2c7254a21971de]
+## 31A. Power to amend names of police areas[^c-5eb5a1be660aa9320e2c7254a21971de]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5eb5a1be660aa9320e2c7254a21971de]: Textual amendment: S. 31A and cross-heading inserted (31.1.2017) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 124(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/124/1), [183(5)(a)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/a/e)
+[^c-5eb5a1be660aa9320e2c7254a21971de]: Textual amendment: S. 31A and cross-heading inserted (31.1.2017) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 124(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/124/1), [183(5)(a)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/a/e)

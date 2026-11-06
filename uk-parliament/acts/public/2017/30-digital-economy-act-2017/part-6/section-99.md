@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. OFCOM and Northern Ireland[^key-23aa812030f7fe08c72c855dfafde30f]
+## 99. OFCOM and Northern Ireland[^c-23aa812030f7fe08c72c855dfafde30f]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23aa812030f7fe08c72c855dfafde30f]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2017/30/section/99) in force at 29.10.2021 by [S.I. 2021/1170](https://www.legislation.gov.uk/uksi/2021/1170), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1170/regulation/2)
+[^c-23aa812030f7fe08c72c855dfafde30f]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2017/30/section/99) in force at 29.10.2021 by [S.I. 2021/1170](https://www.legislation.gov.uk/uksi/2021/1170), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1170/regulation/2)

@@ -28,7 +28,7 @@ Section 56.
 
 **2.** (1) Section 266 (personal reliefs: life assurance premiums) shall be amended as follows.
 
-(2) In subsections (2)(a)(iii) [^key-20d4877966831a207cae41e73dfaa758]..., for “registered friendly society" there shall be substituted “ friendly society ”.
+(2) In subsections (2)(a)(iii) [^c-20d4877966831a207cae41e73dfaa758]..., for “registered friendly society" there shall be substituted “ friendly society ”.
 
 (3) The following subsection shall be added at the end—
 
@@ -139,15 +139,15 @@ Section 56.
 
 (2) In subsection (2), for “Section 460(2)(a)" there shall be substituted “ Section 460(2)(a) or (aa) ”.
 
-(3)[^key-a401fbf903724bba6eb526889a2ba09e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a401fbf903724bba6eb526889a2ba09e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-bc6d145a98e66a305c2d400df612e764] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-bc6d145a98e66a305c2d400df612e764] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **10.** In section 463 (life or endowment business: application of the Corporation Tax Acts) in subsection (1) for “registered friendly societies" there shall be substituted “ friendly societies ”.
 
 **11.** (1) Section 464 (maximum benefits payable to members) shall be amended as follows.
 
-(2)[^key-600c3576bc6083dfab6cf963483c4476] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-600c3576bc6083dfab6cf963483c4476] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (5)(d)(ii), for “society which is not" there shall be substituted “ friendly society other than ”.
 
@@ -212,7 +212,7 @@ Section 56.
 > - (a) all the friendly societies amalgamated were registered friendly societies eligible for the exemption conferred by section 460(1); and
 > - (b) at least one of them was not a new society.
 
-**15.**[^key-8787cbde92404616474b1488357a3a2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-8787cbde92404616474b1488357a3a2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **16.** In section 599 (charge to tax: commutation of entire pension in special circumstances) for subsection (8)(b) there shall be substituted—
 
@@ -292,7 +292,7 @@ Section 56.
 
 **21.** The Taxation of Chargeable Gains Act 1992 shall be amended as follows.
 
-(2)[^key-a67307e84d59946d5a9c101746bd440d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a67307e84d59946d5a9c101746bd440d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After section 217 there shall be inserted—
 
@@ -340,7 +340,7 @@ Section 56.
 
 ## Annotations
 
-[^key-20d4877966831a207cae41e73dfaa758]: Textual amendment: Words in [Sch. 9 para. 2(2)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/9/paragraph/2/2) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-20d4877966831a207cae41e73dfaa758]: Textual amendment: Words in [Sch. 9 para. 2(2)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/9/paragraph/2/2) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
 [^c13520841]: Textual amendment: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/1992/48/schedule/9/paragraph/3) repealed (1.12.2001 with effect as mentioned Sch. Note 1 of the amending S.I.) by [S.I. 2001/3629](https://www.legislation.gov.uk/uksi/2001/3629), [art. 109](https://www.legislation.gov.uk/uksi/2001/3629/article/109), [Sch.](https://www.legislation.gov.uk/uksi/2001/3629/schedule)
 
@@ -350,15 +350,15 @@ Section 56.
 
 [^c13520881]: Textual amendment: [Sch. 9 para. 6(b)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/9/paragraph/6/b) repealed (1.12.2001 with effect as mentioned Sch. Note 1 of the amending S.I.) by [S.I. 2001/3629](https://www.legislation.gov.uk/uksi/2001/3629), [art. 109](https://www.legislation.gov.uk/uksi/2001/3629/article/109), [Sch.](https://www.legislation.gov.uk/uksi/2001/3629/schedule)
 
-[^key-a401fbf903724bba6eb526889a2ba09e]: Textual amendment: [Sch. 9 para. 8(3)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/9/paragraph/8/3) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(12)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/12)
+[^c-a401fbf903724bba6eb526889a2ba09e]: Textual amendment: [Sch. 9 para. 8(3)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/9/paragraph/8/3) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(12)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/12)
 
-[^key-bc6d145a98e66a305c2d400df612e764]: Textual amendment: [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/1992/48/schedule/9/paragraph/9) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 18 para. 5(3)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/18/paragraph/5/3/b)
+[^c-bc6d145a98e66a305c2d400df612e764]: Textual amendment: [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/1992/48/schedule/9/paragraph/9) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 18 para. 5(3)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/18/paragraph/5/3/b)
 
-[^key-600c3576bc6083dfab6cf963483c4476]: Textual amendment: [Sch. 9 para. 11(2)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/9/paragraph/11/2) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(12)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/12)
+[^c-600c3576bc6083dfab6cf963483c4476]: Textual amendment: [Sch. 9 para. 11(2)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/9/paragraph/11/2) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(12)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/12)
 
 [^c13520901]: Textual amendment: [Sch. 9 para. 14(2)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/9/paragraph/14/2) repealed (29.4.1996 with effect in accordance with s. 171 of the repealing Act) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 205](https://www.legislation.gov.uk/ukpga/1996/8/section/205), [Sch. 41 Pt. V(23)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/23), Note
 
-[^key-8787cbde92404616474b1488357a3a2d]: Textual amendment: [Sch. 9 para. 15](https://www.legislation.gov.uk/ukpga/1992/48/schedule/9/paragraph/15) omitted (21.7.2008) (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 17(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/17/c)
+[^c-8787cbde92404616474b1488357a3a2d]: Textual amendment: [Sch. 9 para. 15](https://www.legislation.gov.uk/ukpga/1992/48/schedule/9/paragraph/15) omitted (21.7.2008) (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 17(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/17/c)
 
 [^c13520911]: Textual amendment: [Sch. 9 para. 19(3)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/9/paragraph/19/3) repealed (5.5.1996 in accordance with s. 55(1)-(5) of the repealing Act) by [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4), [ss. 55(1)-(5)](https://www.legislation.gov.uk/ukpga/1995/4/section/55/1), [162](https://www.legislation.gov.uk/ukpga/1995/4/section/162), [Sch. 29 Pt. VIII(6)](https://www.legislation.gov.uk/ukpga/1995/4/schedule/29/part/VIII/6), Note
 
@@ -372,6 +372,6 @@ Section 56.
 
 [^c13520961]: Marginal citation: [1988 c. 39](https://www.legislation.gov.uk/ukpga/1988/39).
 
-[^key-a67307e84d59946d5a9c101746bd440d]: Textual amendment: [Sch. 9 para. 21(2)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/9/paragraph/21/2) omitted (21.7.2008) (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 70(a)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/70/a/ii)
+[^c-a67307e84d59946d5a9c101746bd440d]: Textual amendment: [Sch. 9 para. 21(2)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/9/paragraph/21/2) omitted (21.7.2008) (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 70(a)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/70/a/ii)
 
 [^c13520971]: Subordinate legislation: [Sch. 9 para. 22](https://www.legislation.gov.uk/ukpga/1992/48/schedule/9/paragraph/22): Power exercised (9.2.1993) by [S.I. 1993/236](https://www.legislation.gov.uk/uksi/1993/236)

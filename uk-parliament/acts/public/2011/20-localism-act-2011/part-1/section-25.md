@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Prior indications of view of a matter not to amount to predetermination etc[^key-dcb76ada103d5e3ffb64e8e00c960db5][^key-2ed3f15420d26ea192ee13ba43f596c8]
+## 25. Prior indications of view of a matter not to amount to predetermination etc[^c-dcb76ada103d5e3ffb64e8e00c960db5][^c-2ed3f15420d26ea192ee13ba43f596c8]
 
 *Extent: E+W*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dcb76ada103d5e3ffb64e8e00c960db5]: Modification: [S. 25](https://www.legislation.gov.uk/ukpga/2011/20/section/25) applied (with modifications) (22.11.2012) by [The Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012 (S.I. 2012/2734)](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2734/regulation/1/1), [regs. 3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2012/2734/schedule/part/2)
+[^c-dcb76ada103d5e3ffb64e8e00c960db5]: Modification: [S. 25](https://www.legislation.gov.uk/ukpga/2011/20/section/25) applied (with modifications) (22.11.2012) by [The Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012 (S.I. 2012/2734)](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2734/regulation/1/1), [regs. 3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2012/2734/schedule/part/2)
 
-[^key-2ed3f15420d26ea192ee13ba43f596c8]: Modification: [S. 25](https://www.legislation.gov.uk/ukpga/2011/20/section/25) applied (with modifications) (22.11.2012) by [The Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012 (S.I. 2012/2734)](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2734/regulation/1/1), [regs. 3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. Pts. 1](https://www.legislation.gov.uk/uksi/2012/2734/schedule/part/1)
+[^c-2ed3f15420d26ea192ee13ba43f596c8]: Modification: [S. 25](https://www.legislation.gov.uk/ukpga/2011/20/section/25) applied (with modifications) (22.11.2012) by [The Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012 (S.I. 2012/2734)](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2734/regulation/1/1), [regs. 3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. Pts. 1](https://www.legislation.gov.uk/uksi/2012/2734/schedule/part/1)

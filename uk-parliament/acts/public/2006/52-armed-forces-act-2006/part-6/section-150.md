@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Privileges of witnesses and others[^key-b9c7f74e6bd8c1bec96eb7b04eb63b54][^key-4e1f67059c86976dae3705108edeed8e]
+## 150. Privileges of witnesses and others[^c-b9c7f74e6bd8c1bec96eb7b04eb63b54][^c-4e1f67059c86976dae3705108edeed8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ A witness before the Summary Appeal Court or any other person whose duty it is t
 
 ## Annotations
 
-[^key-b9c7f74e6bd8c1bec96eb7b04eb63b54]: Commencement: S. 150 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-b9c7f74e6bd8c1bec96eb7b04eb63b54]: Commencement: S. 150 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-4e1f67059c86976dae3705108edeed8e]: Commencement: S. 150 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-4e1f67059c86976dae3705108edeed8e]: Commencement: S. 150 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

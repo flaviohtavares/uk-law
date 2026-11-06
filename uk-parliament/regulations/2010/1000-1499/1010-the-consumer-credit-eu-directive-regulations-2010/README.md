@@ -32,7 +32,7 @@ summary: ''
 
 Consumer Credit
 
-The Consumer Credit (EU Directive) Regulations 2010 (revoked)[^key-659079ca188a23d0799c9b0948f7b1ab]
+The Consumer Credit (EU Directive) Regulations 2010 (revoked)[^c-659079ca188a23d0799c9b0948f7b1ab]
 
 Made
 
@@ -44,11 +44,11 @@ Laid before Parliament
 
 Coming into force in accordance with regulations 99 and 101
 
-[^key-659079ca188a23d0799c9b0948f7b1ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-659079ca188a23d0799c9b0948f7b1ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — General[^key-659079ca188a23d0799c9b0948f7b1ab]
+### PART 1 — General[^c-659079ca188a23d0799c9b0948f7b1ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,7 +56,7 @@ Coming into force in accordance with regulations 99 and 101
 
 - [Section 1 — Citation and commencement](part-1/section-1.md)
 
-### PART 2 — Amendments to primary legislation[^key-659079ca188a23d0799c9b0948f7b1ab]
+### PART 2 — Amendments to primary legislation[^c-659079ca188a23d0799c9b0948f7b1ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -96,7 +96,7 @@ Coming into force in accordance with regulations 99 and 101
 - [Section 44 — Amount of credit in running-account agreement](part-2/section-44.md)
 - [Section 46 — Enterprise Act 2002](part-2/section-46.md)
 
-### PART 3 — Amendments to secondary legislation[^key-659079ca188a23d0799c9b0948f7b1ab]
+### PART 3 — Amendments to secondary legislation[^c-659079ca188a23d0799c9b0948f7b1ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -149,7 +149,7 @@ Coming into force in accordance with regulations 99 and 101
 - [Section 97 — Payment Services Regulations 2009](part-3/section-97.md)
 - [Section 98 — Education (Student Loans) (Repayment) Regulations 2009](part-3/section-98.md)
 
-### PART 4 — Commencement, Transitional and Saving Provision[^key-659079ca188a23d0799c9b0948f7b1ab]
+### PART 4 — Commencement, Transitional and Saving Provision[^c-659079ca188a23d0799c9b0948f7b1ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -165,14 +165,14 @@ Coming into force in accordance with regulations 99 and 101
 
 **No longer in force.**
 
-[^key-659079ca188a23d0799c9b0948f7b1ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-659079ca188a23d0799c9b0948f7b1ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-659079ca188a23d0799c9b0948f7b1ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-659079ca188a23d0799c9b0948f7b1ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-659079ca188a23d0799c9b0948f7b1ab]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/1010) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-659079ca188a23d0799c9b0948f7b1ab]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/1010) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)

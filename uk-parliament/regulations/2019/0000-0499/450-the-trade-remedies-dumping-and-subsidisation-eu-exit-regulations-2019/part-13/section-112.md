@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112.[^key-c54b337e3fe6205565a852f2e7156a22]
+## 112.[^c-c54b337e3fe6205565a852f2e7156a22]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ Regulation 65 (content of notices) has effect as if—
 
 ## Annotations
 
-[^key-c54b337e3fe6205565a852f2e7156a22]: Commencement: Reg. 112 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-c54b337e3fe6205565a852f2e7156a22]: Commencement: Reg. 112 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

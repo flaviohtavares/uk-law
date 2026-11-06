@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4.3. Citation of witnesses[^key-148e4a95f0935066e3d99cf40c6a1cf8]
+## 4.3. Citation of witnesses[^c-148e4a95f0935066e3d99cf40c6a1cf8]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-148e4a95f0935066e3d99cf40c6a1cf8]: Commencement: [Rule 4.3](https://www.legislation.gov.uk/ssi/2017/103/rule/4.3) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-148e4a95f0935066e3d99cf40c6a1cf8]: Commencement: [Rule 4.3](https://www.legislation.gov.uk/ssi/2017/103/rule/4.3) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

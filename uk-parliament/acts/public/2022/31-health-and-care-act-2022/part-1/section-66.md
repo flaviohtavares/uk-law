@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Transfers on dissolution of NHS foundation trusts[^key-cc092c3cd2fb4fe5b4238e168aea094c][^key-96f7c4a8906ce7b8d48b8db007537860]
+## 66. Transfers on dissolution of NHS foundation trusts[^c-cc092c3cd2fb4fe5b4238e168aea094c][^c-96f7c4a8906ce7b8d48b8db007537860]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ In section 57A of the National Health Service Act 2006 (dissolution)—
 
 ## Annotations
 
-[^key-cc092c3cd2fb4fe5b4238e168aea094c]: Commencement: S. 66 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-cc092c3cd2fb4fe5b4238e168aea094c]: Commencement: S. 66 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-96f7c4a8906ce7b8d48b8db007537860]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2022/31/section/66) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-96f7c4a8906ce7b8d48b8db007537860]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2022/31/section/66) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

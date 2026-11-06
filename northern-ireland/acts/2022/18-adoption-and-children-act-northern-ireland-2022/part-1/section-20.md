@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Varying placement orders[^key-3c13df01040bcfad8454d87a906c0ef9]
+## 20. Varying placement orders[^c-3c13df01040bcfad8454d87a906c0ef9]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c13df01040bcfad8454d87a906c0ef9]: Commencement: S. 20 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-3c13df01040bcfad8454d87a906c0ef9]: Commencement: S. 20 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

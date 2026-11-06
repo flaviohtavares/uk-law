@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3A — Offences for the purposes of section 54: Northern Ireland[^key-9dec2b991f7c0809073b7264c1fa2d87]
+## SCHEDULE 3A — Offences for the purposes of section 54: Northern Ireland[^c-9dec2b991f7c0809073b7264c1fa2d87]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ Section 54
 
 ## Annotations
 
-[^key-9dec2b991f7c0809073b7264c1fa2d87]: Textual amendment: Sch. 3A inserted (with effect from 1.8.2017 in accordance with S.I. 2017/189, art. 3 and London Gazette notice dated 1.8.2017 (Issue 62012 page 14601)) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 20](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/20) (with [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/27)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3)
+[^c-9dec2b991f7c0809073b7264c1fa2d87]: Textual amendment: Sch. 3A inserted (with effect from 1.8.2017 in accordance with S.I. 2017/189, art. 3 and London Gazette notice dated 1.8.2017 (Issue 62012 page 14601)) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 20](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/20) (with [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/27)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3)

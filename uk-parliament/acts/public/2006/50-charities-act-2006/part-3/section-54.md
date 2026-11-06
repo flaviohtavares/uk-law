@@ -29,8 +29,8 @@ summary: ''
 
 to provide it with any information in his possession, or document in his custody or under this control, which is relevant to the exercise of any of its functions under this Chapter.
 
-(2) Nothing in this section affects the power conferred on the Commission by section 52 of the Charities Act 2011[^key-9b395edfffc65b576a458248e20b9f9d].
+(2) Nothing in this section affects the power conferred on the Commission by section 52 of the Charities Act 2011[^c-9b395edfffc65b576a458248e20b9f9d].
 
 ## Annotations
 
-[^key-9b395edfffc65b576a458248e20b9f9d]: Textual amendment: Words in s. 54(2) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 118](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/118) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-9b395edfffc65b576a458248e20b9f9d]: Textual amendment: Words in s. 54(2) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 118](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/118) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))

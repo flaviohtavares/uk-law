@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Information required for determining capability for work-related activity[^key-632ddc0ccbcfae5f49911cd61e32eb4f]
+## 36. Information required for determining capability for work-related activity[^c-632ddc0ccbcfae5f49911cd61e32eb4f]
 
 *Extent: N.I.*
 
@@ -25,10 +25,10 @@ summary: ''
 - (a) any information relating to the descriptors set out in Schedule 3 as may be requested in the form of a questionnaire; and
 - (b) any such additional information as may be requested.
 
-(2) Where the Department is satisfied that there is sufficient information to determine whether a claimant has limited capability for work-related activity without the information specified in paragraph (1)(a), that information must[^key-5dcec58426313e146410909919a34fd8] not be required for the purposes of making the determination.
+(2) Where the Department is satisfied that there is sufficient information to determine whether a claimant has limited capability for work-related activity without the information specified in paragraph (1)(a), that information must[^c-5dcec58426313e146410909919a34fd8] not be required for the purposes of making the determination.
 
 ## Annotations
 
-[^key-632ddc0ccbcfae5f49911cd61e32eb4f]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2008/280/regulation/36) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-632ddc0ccbcfae5f49911cd61e32eb4f]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2008/280/regulation/36) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
-[^key-5dcec58426313e146410909919a34fd8]: Textual amendment: Word in [reg. 36(2)](https://www.legislation.gov.uk/nisr/2008/280/regulation/36/2) substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(17)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/17)
+[^c-5dcec58426313e146410909919a34fd8]: Textual amendment: Word in [reg. 36(2)](https://www.legislation.gov.uk/nisr/2008/280/regulation/36/2) substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(17)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/17)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Common law rules replaced[^key-c1b6c7910c324041d0d37b89a0621a98]
+## 65. Common law rules replaced[^c-c1b6c7910c324041d0d37b89a0621a98]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1b6c7910c324041d0d37b89a0621a98]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2007/15/section/65) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)
+[^c-c1b6c7910c324041d0d37b89a0621a98]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2007/15/section/65) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)

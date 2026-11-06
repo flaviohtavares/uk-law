@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Scottish charitable incorporated organisations[^key-9103b5447496456b77db08d0b9464192]
+## 49. Scottish charitable incorporated organisations[^c-9103b5447496456b77db08d0b9464192]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9103b5447496456b77db08d0b9464192]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2005/10/section/49) in force at 1.4.2011 by [S.S.I. 2011/20](https://www.legislation.gov.uk/ssi/2011/20), [art. 2(3)(a)](https://www.legislation.gov.uk/ssi/2011/20/article/2/3/a)
+[^c-9103b5447496456b77db08d0b9464192]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2005/10/section/49) in force at 1.4.2011 by [S.S.I. 2011/20](https://www.legislation.gov.uk/ssi/2011/20), [art. 2(3)(a)](https://www.legislation.gov.uk/ssi/2011/20/article/2/3/a)

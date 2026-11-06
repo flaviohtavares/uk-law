@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 9A — Species control agreements and orders (England and Wales)[^key-82436c21912f0e843b6c81c2d5669cbb]
+## SCHEDULE 9A — Species control agreements and orders (England and Wales)[^c-82436c21912f0e843b6c81c2d5669cbb]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ and for related matters.
 
 (2) A species control agreement or species control order may relate to—
 
-- (a)[^key-17b3c4e005d6857d03d13b7ad72c3da2] a species of animal or plant included on the list of species of special concern[^key-f65a3559c5bf38dff9c44d25e2e9b073],
+- (a)[^c-17b3c4e005d6857d03d13b7ad72c3da2] a species of animal or plant included on the list of species of special concern[^c-f65a3559c5bf38dff9c44d25e2e9b073],
 - (b) an invasive non-native species of animal or plant not falling within sub-paragraph (a), or
 - (c) a species of animal that is no longer normally present in Great Britain.
 
@@ -69,7 +69,7 @@ This is subject to the other provisions of this Schedule.
   - (i) whose natural range includes all or any part of Great Britain, and
   - (ii) which has ceased to be ordinarily resident in, or a regular visitor to, Great Britain in a wild state.
 
-(6)[^key-da667856b3d44e46fbfb34872b0a5b62][^key-266b84057965c1c33a298088ed76a09a] The “**list of species of special concern**” means the list of species in the Annex to Commission Implementing Regulation (EU) 2016/1141 adopting a list of invasive alien species of Union concern pursuant to Regulation (EU) No. 1143/2014 of the European Parliament and of the Council, as amended from time to time.
+(6)[^c-da667856b3d44e46fbfb34872b0a5b62][^c-266b84057965c1c33a298088ed76a09a] The “**list of species of special concern**” means the list of species in the Annex to Commission Implementing Regulation (EU) 2016/1141 adopting a list of invasive alien species of Union concern pursuant to Regulation (EU) No. 1143/2014 of the European Parliament and of the Council, as amended from time to time.
 
 #### Environmental authorities
 
@@ -438,12 +438,12 @@ This is subject to the other provisions of this Schedule.
 
 ## Annotations
 
-[^key-82436c21912f0e843b6c81c2d5669cbb]: Textual amendment: Sch. 9A inserted (E.W.) (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 23(3)](https://www.legislation.gov.uk/ukpga/2015/7/section/23/3), [57(4)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/4); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/3/a); [S.I. 2015/990](https://www.legislation.gov.uk/wsi/2015/990), [reg. 2](https://www.legislation.gov.uk/wsi/2015/990/regulation/2)
+[^c-82436c21912f0e843b6c81c2d5669cbb]: Textual amendment: Sch. 9A inserted (E.W.) (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 23(3)](https://www.legislation.gov.uk/ukpga/2015/7/section/23/3), [57(4)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/4); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/3/a); [S.I. 2015/990](https://www.legislation.gov.uk/wsi/2015/990), [reg. 2](https://www.legislation.gov.uk/wsi/2015/990/regulation/2)
 
-[^key-17b3c4e005d6857d03d13b7ad72c3da2]: Textual amendment: Sch. 9A para. 1(2)(a)-(c) substituted for Sch. 9A para. 1(2)(a)(b) (1.12.2019) by [The Invasive Alien Species (Enforcement and Permitting) Order 2019 (S.I. 2019/527)](https://www.legislation.gov.uk/uksi/2019/527), [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1), [Sch. 4 para. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/527/schedule/4/paragraph/1/4/a) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/527/article/1/2)[(4)](https://www.legislation.gov.uk/uksi/2019/527/article/1/4)) (as amended by [S.I. 2019/1213](https://www.legislation.gov.uk/uksi/2019/1213), regs. 1, 2(2))
+[^c-17b3c4e005d6857d03d13b7ad72c3da2]: Textual amendment: Sch. 9A para. 1(2)(a)-(c) substituted for Sch. 9A para. 1(2)(a)(b) (1.12.2019) by [The Invasive Alien Species (Enforcement and Permitting) Order 2019 (S.I. 2019/527)](https://www.legislation.gov.uk/uksi/2019/527), [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1), [Sch. 4 para. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/527/schedule/4/paragraph/1/4/a) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/527/article/1/2)[(4)](https://www.legislation.gov.uk/uksi/2019/527/article/1/4)) (as amended by [S.I. 2019/1213](https://www.legislation.gov.uk/uksi/2019/1213), regs. 1, 2(2))
 
-[^key-f65a3559c5bf38dff9c44d25e2e9b073]: Textual amendment: Words in Sch. 9A para. 1(2)(a) substituted (31.12.2020) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/c), [6(3)(a)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/6/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f65a3559c5bf38dff9c44d25e2e9b073]: Textual amendment: Words in Sch. 9A para. 1(2)(a) substituted (31.12.2020) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/c), [6(3)(a)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/6/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-da667856b3d44e46fbfb34872b0a5b62]: Textual amendment: Sch. 9A para. 2(6) substituted (31.12.2020) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/c), [6(3)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/6/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-da667856b3d44e46fbfb34872b0a5b62]: Textual amendment: Sch. 9A para. 2(6) substituted (31.12.2020) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/c), [6(3)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/6/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-266b84057965c1c33a298088ed76a09a]: Textual amendment: Sch. 9A para. 2(6) inserted (1.12.2019) by [The Invasive Alien Species (Enforcement and Permitting) Order 2019 (S.I. 2019/527)](https://www.legislation.gov.uk/uksi/2019/527), [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1), [Sch. 4 para. 1(4)(b)](https://www.legislation.gov.uk/uksi/2019/527/schedule/4/paragraph/1/4/b) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/527/article/1/2)[(4)](https://www.legislation.gov.uk/uksi/2019/527/article/1/4)) (as amended by [S.I. 2019/1213](https://www.legislation.gov.uk/uksi/2019/1213), regs. 1, 2(2))
+[^c-266b84057965c1c33a298088ed76a09a]: Textual amendment: Sch. 9A para. 2(6) inserted (1.12.2019) by [The Invasive Alien Species (Enforcement and Permitting) Order 2019 (S.I. 2019/527)](https://www.legislation.gov.uk/uksi/2019/527), [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1), [Sch. 4 para. 1(4)(b)](https://www.legislation.gov.uk/uksi/2019/527/schedule/4/paragraph/1/4/b) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/527/article/1/2)[(4)](https://www.legislation.gov.uk/uksi/2019/527/article/1/4)) (as amended by [S.I. 2019/1213](https://www.legislation.gov.uk/uksi/2019/1213), regs. 1, 2(2))

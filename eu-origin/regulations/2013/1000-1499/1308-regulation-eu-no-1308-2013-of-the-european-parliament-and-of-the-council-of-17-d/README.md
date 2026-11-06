@@ -1077,7 +1077,7 @@ Subsection 3
 
 *Extent: E+W+S+N.I.*
 
-###### Section 1 — Marketing standards[^key-856b6965dbb8eb3dc14f1c3a267837e8]
+###### Section 1 — Marketing standards[^c-856b6965dbb8eb3dc14f1c3a267837e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -1192,7 +1192,7 @@ Subsection 3
 - [Section Article 115 — Article 115 Other delegated powers](section-article-115.md)
 - [Section Article 116 — Other implementing powers](section-article-116.md)
 
-###### Section 3 — Labelling and presentation in the wine sector[^key-31c0fa691bc7edc0cedbc2f3fe7733e7]
+###### Section 3 — Labelling and presentation in the wine sector[^c-31c0fa691bc7edc0cedbc2f3fe7733e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -1481,11 +1481,11 @@ Subsection 3
 
 - [Section Article 226 — Use of the Reserve](section-article-226.md)
 
-### PART VI — REGULATIONS, TRANSITIONAL AND FINAL PROVISIONS[^key-e258e6c3f3d23679f8857482f90470f2]
+### PART VI — REGULATIONS, TRANSITIONAL AND FINAL PROVISIONS[^c-e258e6c3f3d23679f8857482f90470f2]
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER I — Regulations[^key-8aa4b4208b1bc02e830069611fe89ddd]
+#### CHAPTER I — Regulations[^c-8aa4b4208b1bc02e830069611fe89ddd]
 
 *Extent: E+W+S+N.I.*
 
@@ -1521,7 +1521,7 @@ Subsection 3
 
 *Extent: E+W+S+N.I.*
 
-[^key-aefbdac24739604bcb760204275e0b9a]...
+[^c-aefbdac24739604bcb760204275e0b9a]...
 
 ## Annotations
 
@@ -1567,14 +1567,14 @@ Subsection 3
 
 [^c000002]: Textual amendment: Substituted by [Regulation (EU) 2016/791 of the European Parliament and of the Council of 11 May 2016 amending Regulations (EU) No 1308/2013 and (EU) No 1306/2013 as regards the aid scheme for the supply of fruit and vegetables, bananas and milk in educational establishments](https://www.legislation.gov.uk/eur/2016/791).
 
-[^key-856b6965dbb8eb3dc14f1c3a267837e8]: Modification: [Pt. 2](https://www.legislation.gov.uk/eur/2013/1308/part/2) Title 2 Ch. 1 Section 1 applied (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/959/schedule/1) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-856b6965dbb8eb3dc14f1c3a267837e8]: Modification: [Pt. 2](https://www.legislation.gov.uk/eur/2013/1308/part/2) Title 2 Ch. 1 Section 1 applied (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/959/schedule/1) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
-[^key-31c0fa691bc7edc0cedbc2f3fe7733e7]: Modification: [Pt. 2](https://www.legislation.gov.uk/eur/2013/1308/part/2) Title 2 Ch. 1 Section 3 applied (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/959/schedule/1) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-31c0fa691bc7edc0cedbc2f3fe7733e7]: Modification: [Pt. 2](https://www.legislation.gov.uk/eur/2013/1308/part/2) Title 2 Ch. 1 Section 3 applied (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/959/schedule/1) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
 [^c000006]: Textual amendment: Inserted by [Regulation (EU) 2017/2393 of the European Parliament and of the Council of 13 December 2017 amending Regulations (EU) No 1305/2013 on support for rural development by the European Agricultural Fund for Rural Development (EAFRD), (EU) No 1306/2013 on the financing, management and monitoring of the common agricultural policy, (EU) No 1307/2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy, (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products and (EU) No 652/2014 laying down provisions for the management of expenditure relating to the food chain, animal health and animal welfare, and relating to plant health and plant reproductive material](https://www.legislation.gov.uk/eur/2017/2393).
 
-[^key-e258e6c3f3d23679f8857482f90470f2]: Textual amendment: Word in [Pt. 6](https://www.legislation.gov.uk/eur/2013/1308/part/VI) heading substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [35](https://www.legislation.gov.uk/uksi/2019/831/regulation/35); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e258e6c3f3d23679f8857482f90470f2]: Textual amendment: Word in [Pt. 6](https://www.legislation.gov.uk/eur/2013/1308/part/VI) heading substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [35](https://www.legislation.gov.uk/uksi/2019/831/regulation/35); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8aa4b4208b1bc02e830069611fe89ddd]: Textual amendment: [Pt. 6 Ch. 1](https://www.legislation.gov.uk/eur/2013/1308/part/VI/chapter/I) heading substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [36](https://www.legislation.gov.uk/uksi/2019/831/regulation/36); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8aa4b4208b1bc02e830069611fe89ddd]: Textual amendment: [Pt. 6 Ch. 1](https://www.legislation.gov.uk/eur/2013/1308/part/VI/chapter/I) heading substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [36](https://www.legislation.gov.uk/uksi/2019/831/regulation/36); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-aefbdac24739604bcb760204275e0b9a]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2013/1308/signature) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [78](https://www.legislation.gov.uk/uksi/2019/821/regulation/78); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aefbdac24739604bcb760204275e0b9a]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2013/1308/signature) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [78](https://www.legislation.gov.uk/uksi/2019/821/regulation/78); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

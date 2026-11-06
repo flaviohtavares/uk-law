@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Task of interim tribunal when determining an appeal against disciplinary measure[^key-11edac0d1cc75ec432afc38a136f2ed0]
+## 78. Task of interim tribunal when determining an appeal against disciplinary measure[^c-11edac0d1cc75ec432afc38a136f2ed0]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11edac0d1cc75ec432afc38a136f2ed0]: Commencement: Art. 78 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-11edac0d1cc75ec432afc38a136f2ed0]: Commencement: Art. 78 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

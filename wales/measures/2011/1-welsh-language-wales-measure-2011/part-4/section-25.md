@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Duty to comply with a standard[^key-33706c4c98dde38d908dcdacb852f0c4]
+## 25. Duty to comply with a standard[^c-33706c4c98dde38d908dcdacb852f0c4]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33706c4c98dde38d908dcdacb852f0c4]: Commencement: [S. 25](https://www.legislation.gov.uk/mwa/2011/1/section/25) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)
+[^c-33706c4c98dde38d908dcdacb852f0c4]: Commencement: [S. 25](https://www.legislation.gov.uk/mwa/2011/1/section/25) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Port and border controls[^key-8108c166198733ad58bfff8f5f81d2c8][^key-eb6360467d0967a0513bf5335cd712e5]
+## 22. Port and border controls[^c-8108c166198733ad58bfff8f5f81d2c8][^c-eb6360467d0967a0513bf5335cd712e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 3 confers powers exercisable at ports and borders etc.
 
 ## Annotations
 
-[^key-8108c166198733ad58bfff8f5f81d2c8]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2019/3/section/22) in force at 13.8.2020 for specified purposes by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/f)
+[^c-8108c166198733ad58bfff8f5f81d2c8]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2019/3/section/22) in force at 13.8.2020 for specified purposes by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/f)
 
-[^key-eb6360467d0967a0513bf5335cd712e5]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2019/3/section/22) in force at 1.6.2021 for specified purposes for N.I. by [S.I. 2021/622](https://www.legislation.gov.uk/uksi/2021/622), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/622/regulation/2/a)
+[^c-eb6360467d0967a0513bf5335cd712e5]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2019/3/section/22) in force at 1.6.2021 for specified purposes for N.I. by [S.I. 2021/622](https://www.legislation.gov.uk/uksi/2021/622), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/622/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Amendment of section 105 (English text)[^key-e4a68c37b87c082aca09079b9374f831]
+## 138. Amendment of section 105 (English text)[^c-e4a68c37b87c082aca09079b9374f831]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4a68c37b87c082aca09079b9374f831]: Commencement: Reg. 138 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-e4a68c37b87c082aca09079b9374f831]: Commencement: Reg. 138 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

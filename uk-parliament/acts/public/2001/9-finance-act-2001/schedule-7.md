@@ -22,7 +22,7 @@ summary: ''
 
 Section 29.
 
-### 1. Provision of information[^key-7e3134c1a443a4d2e969b26bee77bd49]
+### 1. Provision of information[^c-7e3134c1a443a4d2e969b26bee77bd49]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -38,7 +38,7 @@ Section 29.
 - (b) authorise the Commissioners to direct that any such records need only be preserved for a shorter period than that specified in the regulations;
 - (c) authorise a direction to be made so as to apply generally or in such cases as the Commissioners may stipulate.
 
-(4)[^key-0e6921d08428867897fd57e29d0d0791] A duty under regulations under this paragraph to preserve records may be discharged—
+(4)[^c-0e6921d08428867897fd57e29d0d0791] A duty under regulations under this paragraph to preserve records may be discharged—
 
 - (a) by preserving them in any form and by any means, or
 - (b) by preserving the information contained in them in any form and by any means,
@@ -57,29 +57,29 @@ shall be liable to a penalty of £250.
 (8) Where, by reason of any such failure by any person as is mentioned in sub-paragraph (6) above—
 
 - (a) that person is convicted of an offence (whether under this Act or otherwise), or
-- (b) that person is assessed to a penalty under paragraph 7 of Schedule 6 to this Act (penalty for evasion) or a penalty for a deliberate inaccuracy under Schedule 24 to the Finance Act 2007 (penalties for errors)[^key-28b7612d0423e51fb6dcb743f9462f1b],
+- (b) that person is assessed to a penalty under paragraph 7 of Schedule 6 to this Act (penalty for evasion) or a penalty for a deliberate inaccuracy under Schedule 24 to the Finance Act 2007 (penalties for errors)[^c-28b7612d0423e51fb6dcb743f9462f1b],
 
 that person shall not by reason of that failure be liable also to a penalty under this paragraph.
 
-(9) The Commissioners may if they think fit at any time modify or withdraw any [^key-4282359611a7c0f417602228e83bca7b]... requirement [^key-4282359611a7c0f417602228e83bca7b]... imposed for the purposes of this paragraph.
+(9) The Commissioners may if they think fit at any time modify or withdraw any [^c-4282359611a7c0f417602228e83bca7b]... requirement [^c-4282359611a7c0f417602228e83bca7b]... imposed for the purposes of this paragraph.
 
-### 3. Evidence of records that are required to be preserved[^key-d4af11087a70496e71f7eee5876fba84]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 4. Production of documents[^key-9c7066ec67e0b7f3c9d0a5f35d5e6ad1]
+### 3. Evidence of records that are required to be preserved[^c-d4af11087a70496e71f7eee5876fba84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Powers in relation to documents produced[^key-780ceb154584d5df69c988b5c5ef1d82]
+### 4. Production of documents[^c-9c7066ec67e0b7f3c9d0a5f35d5e6ad1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Entry and inspection[^key-e551035b462e5380f0eb82b9df7d6adf]
+### 5. Powers in relation to documents produced[^c-780ceb154584d5df69c988b5c5ef1d82]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Entry and search[^key-5d6e6510e64f712c4b74c636aa240ef8]
+### 6. Entry and inspection[^c-e551035b462e5380f0eb82b9df7d6adf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Entry and search[^c-5d6e6510e64f712c4b74c636aa240ef8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -164,7 +164,7 @@ is made to the officer in overall charge of the investigation by a person who ha
 
 ### 11. Power to take samples
 
-(1) An authorised person, if it appears to him necessary for the protection of the revenue against mistake or fraud, may at any time take, from material which he has reasonable cause to believe is aggregate which is intended to be, is being, or has been subjected to exploitation in England, Wales or Northern Ireland[^key-eef658463e096d107b521e718c22df31], such samples as he may require with a view to determining how the material ought to be treated, or to have been treated, for the purposes of aggregates levy.
+(1) An authorised person, if it appears to him necessary for the protection of the revenue against mistake or fraud, may at any time take, from material which he has reasonable cause to believe is aggregate which is intended to be, is being, or has been subjected to exploitation in England, Wales or Northern Ireland[^c-eef658463e096d107b521e718c22df31], such samples as he may require with a view to determining how the material ought to be treated, or to have been treated, for the purposes of aggregates levy.
 
 (2) Any sample taken under this paragraph shall be disposed of in such manner as the Commissioners may direct.
 
@@ -172,10 +172,10 @@ is made to the officer in overall charge of the investigation by a person who ha
 
 (1) In any proceedings a certificate of the Commissioners—
 
-- (a) that a person was or was not at any time registered, or[^key-b68827b2da7e89a6a520cc981f2541bf]
+- (a) that a person was or was not at any time registered, or[^c-b68827b2da7e89a6a520cc981f2541bf]
 - (b) that any return required by regulations made under section 25 of this Act has not been made or had not been made at any time,
-- (c)[^key-a0cd4b16977c6081316dab564a61e85d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-0d303166f6b68f3a1e0dc95b2c96ba6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-a0cd4b16977c6081316dab564a61e85d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-0d303166f6b68f3a1e0dc95b2c96ba6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 shall be evidence or, in Scotland, sufficient evidence of that fact.
 
@@ -246,36 +246,36 @@ for the purpose of assisting the Commissioners in the performance of duties in r
 In this Schedule—
 
 - “**authorised person**” means any person acting under the authority of the Commissioners;
-- “**connected activities**”, in relation to the exploitation of aggregate in England, Wales or Northern Ireland[^key-ad88c9e04035d7f1e29329f9a0a1f230], means any activities carried out—
+- “**connected activities**”, in relation to the exploitation of aggregate in England, Wales or Northern Ireland[^c-ad88c9e04035d7f1e29329f9a0a1f230], means any activities carried out—
   - (a) for purposes connected with the carrying out of any such exploitation or with any transaction involving the carrying out of any such exploitation; or
   - (b) for the purposes of, in connection with or in relation to the carrying on of any business involving any such exploitation.
 
 ## Annotations
 
-[^key-7e3134c1a443a4d2e969b26bee77bd49]: Textual amendment: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2001/9/schedule/7/paragraph/1) omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/9) (with [art. 6](https://www.legislation.gov.uk/uksi/2009/3054/article/6))
+[^c-7e3134c1a443a4d2e969b26bee77bd49]: Textual amendment: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2001/9/schedule/7/paragraph/1) omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/9) (with [art. 6](https://www.legislation.gov.uk/uksi/2009/3054/article/6))
 
-[^key-0e6921d08428867897fd57e29d0d0791]: Textual amendment: Sch. 7 para. 2(4) substituted for Sch. 7 para. 2(4)(5) (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 98(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/98/2), [Sch. 50 para. 16(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/50/paragraph/16/2); [S.I. 2010/815](https://www.legislation.gov.uk/uksi/2010/815), [art. 2](https://www.legislation.gov.uk/uksi/2010/815/article/2)
+[^c-0e6921d08428867897fd57e29d0d0791]: Textual amendment: Sch. 7 para. 2(4) substituted for Sch. 7 para. 2(4)(5) (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 98(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/98/2), [Sch. 50 para. 16(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/50/paragraph/16/2); [S.I. 2010/815](https://www.legislation.gov.uk/uksi/2010/815), [art. 2](https://www.legislation.gov.uk/uksi/2010/815/article/2)
 
-[^key-28b7612d0423e51fb6dcb743f9462f1b]: Textual amendment: Words in Sch. 7 para. 2(8)(b) inserted (1.4.2009) by [The Finance Act 2008, Schedule 40 (Appointed Day, Transitional Provisions and Consequential Amendments) Order 2009 (S.I. 2009/571)](https://www.legislation.gov.uk/uksi/2009/571), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/571/article/1/1), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2009/571/schedule/1/paragraph/25)
+[^c-28b7612d0423e51fb6dcb743f9462f1b]: Textual amendment: Words in Sch. 7 para. 2(8)(b) inserted (1.4.2009) by [The Finance Act 2008, Schedule 40 (Appointed Day, Transitional Provisions and Consequential Amendments) Order 2009 (S.I. 2009/571)](https://www.legislation.gov.uk/uksi/2009/571), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/571/article/1/1), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2009/571/schedule/1/paragraph/25)
 
-[^key-4282359611a7c0f417602228e83bca7b]: Textual amendment: Words in Sch. 7 para. 2(9) omitted (1.4.2010) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 98(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/98/2), [Sch. 50 para. 16(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/50/paragraph/16/3); [S.I. 2010/815](https://www.legislation.gov.uk/uksi/2010/815), [art. 2](https://www.legislation.gov.uk/uksi/2010/815/article/2)
+[^c-4282359611a7c0f417602228e83bca7b]: Textual amendment: Words in Sch. 7 para. 2(9) omitted (1.4.2010) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 98(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/98/2), [Sch. 50 para. 16(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/50/paragraph/16/3); [S.I. 2010/815](https://www.legislation.gov.uk/uksi/2010/815), [art. 2](https://www.legislation.gov.uk/uksi/2010/815/article/2)
 
-[^key-d4af11087a70496e71f7eee5876fba84]: Textual amendment: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/7/paragraph/3) omitted (1.4.2010) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 98(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/98/2), [Sch. 50 para. 17](https://www.legislation.gov.uk/ukpga/2009/10/schedule/50/paragraph/17); [S.I. 2010/815](https://www.legislation.gov.uk/uksi/2010/815), [art. 2](https://www.legislation.gov.uk/uksi/2010/815/article/2)
+[^c-d4af11087a70496e71f7eee5876fba84]: Textual amendment: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/7/paragraph/3) omitted (1.4.2010) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 98(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/98/2), [Sch. 50 para. 17](https://www.legislation.gov.uk/ukpga/2009/10/schedule/50/paragraph/17); [S.I. 2010/815](https://www.legislation.gov.uk/uksi/2010/815), [art. 2](https://www.legislation.gov.uk/uksi/2010/815/article/2)
 
-[^key-9c7066ec67e0b7f3c9d0a5f35d5e6ad1]: Textual amendment: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2001/9/schedule/7/paragraph/4) omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/9) (with [art. 6](https://www.legislation.gov.uk/uksi/2009/3054/article/6))
+[^c-9c7066ec67e0b7f3c9d0a5f35d5e6ad1]: Textual amendment: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2001/9/schedule/7/paragraph/4) omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/9) (with [art. 6](https://www.legislation.gov.uk/uksi/2009/3054/article/6))
 
-[^key-780ceb154584d5df69c988b5c5ef1d82]: Textual amendment: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2001/9/schedule/7/paragraph/5) omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/9)
+[^c-780ceb154584d5df69c988b5c5ef1d82]: Textual amendment: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2001/9/schedule/7/paragraph/5) omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/9)
 
-[^key-e551035b462e5380f0eb82b9df7d6adf]: Textual amendment: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2001/9/schedule/7/paragraph/6) omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/9)
+[^c-e551035b462e5380f0eb82b9df7d6adf]: Textual amendment: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2001/9/schedule/7/paragraph/6) omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/9)
 
-[^key-5d6e6510e64f712c4b74c636aa240ef8]: Textual amendment: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2001/9/schedule/7/paragraph/7) repealed (1.12.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 84(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5), [Sch. 22 para. 12(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/22/paragraph/12/b), [Sch. 27 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/1); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/3166/article/3/a)
+[^c-5d6e6510e64f712c4b74c636aa240ef8]: Textual amendment: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2001/9/schedule/7/paragraph/7) repealed (1.12.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 84(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5), [Sch. 22 para. 12(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/22/paragraph/12/b), [Sch. 27 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/1); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/3166/article/3/a)
 
-[^key-eef658463e096d107b521e718c22df31]: Textual amendment: Words in Sch. 7 para. 11(1) substituted (with effect in accordance with s. 18(4) of the amending Act) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3), [Sch. 1 para. 12(2)](https://www.legislation.gov.uk/ukpga/2016/11/schedule/1/paragraph/12/2); [S.I. 2026/355](https://www.legislation.gov.uk/uksi/2026/355), [reg. 2](https://www.legislation.gov.uk/uksi/2026/355/regulation/2)
+[^c-eef658463e096d107b521e718c22df31]: Textual amendment: Words in Sch. 7 para. 11(1) substituted (with effect in accordance with s. 18(4) of the amending Act) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3), [Sch. 1 para. 12(2)](https://www.legislation.gov.uk/ukpga/2016/11/schedule/1/paragraph/12/2); [S.I. 2026/355](https://www.legislation.gov.uk/uksi/2026/355), [reg. 2](https://www.legislation.gov.uk/uksi/2026/355/regulation/2)
 
-[^key-b68827b2da7e89a6a520cc981f2541bf]: Textual amendment: Word in Sch. 7 para. 12(1)(a) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 44 para. 9(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/44/paragraph/9/a)
+[^c-b68827b2da7e89a6a520cc981f2541bf]: Textual amendment: Word in Sch. 7 para. 12(1)(a) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 44 para. 9(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/44/paragraph/9/a)
 
-[^key-a0cd4b16977c6081316dab564a61e85d]: Textual amendment: Sch. 7 para. 12(1)(c) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 44 para. 9(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/44/paragraph/9/b)
+[^c-a0cd4b16977c6081316dab564a61e85d]: Textual amendment: Sch. 7 para. 12(1)(c) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 44 para. 9(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/44/paragraph/9/b)
 
-[^key-0d303166f6b68f3a1e0dc95b2c96ba6e]: Textual amendment: Sch. 7 para. 12(1)(d) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 44 para. 9(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/44/paragraph/9/b)
+[^c-0d303166f6b68f3a1e0dc95b2c96ba6e]: Textual amendment: Sch. 7 para. 12(1)(d) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 44 para. 9(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/44/paragraph/9/b)
 
-[^key-ad88c9e04035d7f1e29329f9a0a1f230]: Textual amendment: Words in Sch. 7 para. 15 substituted (with effect in accordance with s. 18(4) of the amending Act) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3), [Sch. 1 para. 12(3)](https://www.legislation.gov.uk/ukpga/2016/11/schedule/1/paragraph/12/3); [S.I. 2026/355](https://www.legislation.gov.uk/uksi/2026/355), [reg. 2](https://www.legislation.gov.uk/uksi/2026/355/regulation/2)
+[^c-ad88c9e04035d7f1e29329f9a0a1f230]: Textual amendment: Words in Sch. 7 para. 15 substituted (with effect in accordance with s. 18(4) of the amending Act) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3), [Sch. 1 para. 12(3)](https://www.legislation.gov.uk/ukpga/2016/11/schedule/1/paragraph/12/3); [S.I. 2026/355](https://www.legislation.gov.uk/uksi/2026/355), [reg. 2](https://www.legislation.gov.uk/uksi/2026/355/regulation/2)

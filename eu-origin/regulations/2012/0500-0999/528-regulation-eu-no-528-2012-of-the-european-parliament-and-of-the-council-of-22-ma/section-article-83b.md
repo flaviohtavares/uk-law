@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 83B. The consent requirement[^key-bf949738e2fdb447fa16cc5384497587]
+## Article 83B. The consent requirement[^c-bf949738e2fdb447fa16cc5384497587]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf949738e2fdb447fa16cc5384497587]: Textual amendment: [Arts. 83A](https://www.legislation.gov.uk/eur/2012/528/article/83A), [83B](https://www.legislation.gov.uk/eur/2012/528/article/83B) inserted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 125](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/125) (as amended by [S.I. 2020/1567](https://www.legislation.gov.uk/uksi/2020/1567), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2020/1567/schedule/2/paragraph/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bf949738e2fdb447fa16cc5384497587]: Textual amendment: [Arts. 83A](https://www.legislation.gov.uk/eur/2012/528/article/83A), [83B](https://www.legislation.gov.uk/eur/2012/528/article/83B) inserted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 125](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/125) (as amended by [S.I. 2020/1567](https://www.legislation.gov.uk/uksi/2020/1567), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2020/1567/schedule/2/paragraph/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

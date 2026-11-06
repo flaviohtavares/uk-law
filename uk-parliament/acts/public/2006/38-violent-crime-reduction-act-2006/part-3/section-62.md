@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Offering or agreeing to re-programme a mobile telephone[^key-46274d06d0966d22fda9cb1474ebc860]
+## 62. Offering or agreeing to re-programme a mobile telephone[^c-46274d06d0966d22fda9cb1474ebc860]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In section 1(1) of the Mobile Telephones (Re-programming) Act 2002 (c. 31) (offe
 
 ## Annotations
 
-[^key-46274d06d0966d22fda9cb1474ebc860]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2006/38/section/62) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(l)](https://www.legislation.gov.uk/uksi/2007/858/article/2/l)
+[^c-46274d06d0966d22fda9cb1474ebc860]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2006/38/section/62) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(l)](https://www.legislation.gov.uk/uksi/2007/858/article/2/l)

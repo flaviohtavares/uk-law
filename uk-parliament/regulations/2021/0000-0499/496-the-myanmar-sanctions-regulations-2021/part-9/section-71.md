@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Power to stop, board, search etc.[^key-9f4997304f42958ce364915bbe231e15]
+## 71. Power to stop, board, search etc.[^c-9f4997304f42958ce364915bbe231e15]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f4997304f42958ce364915bbe231e15]: Commencement: Reg. 71 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-9f4997304f42958ce364915bbe231e15]: Commencement: Reg. 71 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)

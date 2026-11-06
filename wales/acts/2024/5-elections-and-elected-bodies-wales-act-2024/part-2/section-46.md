@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Meaning of “mandatory consultees” in Part 3 of the 2013 Act[^key-c29b021681be627f5f2b44456278852a]
+## 46. Meaning of “mandatory consultees” in Part 3 of the 2013 Act[^c-c29b021681be627f5f2b44456278852a]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c29b021681be627f5f2b44456278852a]: Commencement: [S. 46](https://www.legislation.gov.uk/asc/2024/5/section/46) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)
+[^c-c29b021681be627f5f2b44456278852a]: Commencement: [S. 46](https://www.legislation.gov.uk/asc/2024/5/section/46) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)

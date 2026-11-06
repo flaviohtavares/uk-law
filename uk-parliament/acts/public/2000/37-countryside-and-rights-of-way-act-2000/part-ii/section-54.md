@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Excepted highways and rights of way : England.[^key-6e6bed9ec608d58a3870635ec22b34ba][^key-b1211ed855c0b85b116538a25c8eb2f1]
+## 54. Excepted highways and rights of way : England.[^c-6e6bed9ec608d58a3870635ec22b34ba][^c-b1211ed855c0b85b116538a25c8eb2f1]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 - (c) it is a footpath or bridleway—
   - (i) at the side of (whether or not contiguous with) a carriageway constituting or comprised in another highway, or
   - (ii) between two carriageways comprised in the same highway (whether or not the footpath or bridleway is contiguous with either carriageway),
-- (d) it is a footpath or bridleway of such other description as may be specified in regulations made by the Secretary of State[^key-652321c1c9204be764bfd792988a46a5], or
+- (d) it is a footpath or bridleway of such other description as may be specified in regulations made by the Secretary of State[^c-652321c1c9204be764bfd792988a46a5], or
 - (e) it is a footpath or bridleway so specified.
 
 (2) A footpath or bridleway (“**the relevant highway**”) satisfies the first condition if—
@@ -55,19 +55,19 @@ and it communicates with a retained highway, either directly or by means of one 
 
 - (a) it subsists over land over which there subsists on the cut-off date any public right of way created on or after 1st January 1949 otherwise than by virtue of section 30 of the [^c1057056]Countryside Act 1968 (riding of pedal cycles on bridleways),
 - (b) it subsists over the whole or part of a way any part of which is in an area which, immediately before 1st April 1965, formed part of the administrative county of London,
-- (c) it is a public right of way of such other description as may be specified in regulations made by the Secretary of State[^key-5b741f0e0755643fa9a03fdefe7484bb], or
+- (c) it is a public right of way of such other description as may be specified in regulations made by the Secretary of State[^c-5b741f0e0755643fa9a03fdefe7484bb], or
 - (d) it subsists over land so specified.
 
 (6) Regulations under subsection (1)(d) or (e) or (5)(c) or (d) shall be made by statutory instrument, and a statutory instrument containing such regulations made by the Secretary of State shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
 ## Annotations
 
-[^key-6e6bed9ec608d58a3870635ec22b34ba]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2000/37/section/54) in force at 25.10.2023 for E. by [S.I. 2023/1121](https://www.legislation.gov.uk/uksi/2023/1121), [art. 2](https://www.legislation.gov.uk/uksi/2023/1121/article/2)
+[^c-6e6bed9ec608d58a3870635ec22b34ba]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2000/37/section/54) in force at 25.10.2023 for E. by [S.I. 2023/1121](https://www.legislation.gov.uk/uksi/2023/1121), [art. 2](https://www.legislation.gov.uk/uksi/2023/1121/article/2)
 
-[^key-b1211ed855c0b85b116538a25c8eb2f1]: Textual amendment: Word in s. 54 heading inserted (W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 54(3)(c)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/54/3/c)
+[^c-b1211ed855c0b85b116538a25c8eb2f1]: Textual amendment: Word in s. 54 heading inserted (W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 54(3)(c)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/54/3/c)
 
-[^key-652321c1c9204be764bfd792988a46a5]: Textual amendment: Words in s. 54(1)(d) substituted (W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 54(3)(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/54/3/a)
+[^c-652321c1c9204be764bfd792988a46a5]: Textual amendment: Words in s. 54(1)(d) substituted (W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 54(3)(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/54/3/a)
 
 [^c1057056]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 
-[^key-5b741f0e0755643fa9a03fdefe7484bb]: Textual amendment: Words in s. 54(5)(c) substituted (W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 54(3)(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/54/3/b)
+[^c-5b741f0e0755643fa9a03fdefe7484bb]: Textual amendment: Words in s. 54(5)(c) substituted (W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 54(3)(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/54/3/b)

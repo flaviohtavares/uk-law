@@ -22,8 +22,8 @@ summary: ''
 
 (1) In section 34 of the 2001 Act (short Scottish secure tenancies)—
 
-- (a)[^key-05e59bfceb4d85b658404e977288f6ca] in subsection (7), for “or 2” substitute “ , 2 or 2A ”, and
-- (b)[^key-f3c86454dd1d6aca2f39ec1fbf958418] after subsection (8), insert—
+- (a)[^c-05e59bfceb4d85b658404e977288f6ca] in subsection (7), for “or 2” substitute “ , 2 or 2A ”, and
+- (b)[^c-f3c86454dd1d6aca2f39ec1fbf958418] after subsection (8), insert—
 
   > (9) A landlord must have regard to any guidance published by the Scottish Ministers—
   >
@@ -36,7 +36,7 @@ summary: ''
 
   .
 
-(2)[^key-05e59bfceb4d85b658404e977288f6ca] In section 35 of the 2001 Act (conversion to a short Scottish secure tenancy)—
+(2)[^c-05e59bfceb4d85b658404e977288f6ca] In section 35 of the 2001 Act (conversion to a short Scottish secure tenancy)—
 
 - (a) for subsection (2) substitute—
 
@@ -71,9 +71,9 @@ summary: ''
 
   .
 
-(3)[^key-05e59bfceb4d85b658404e977288f6ca] In section 37(1) of the 2001 Act (conversion to Scottish secure tenancy), in paragraph (a) for “or 2” substitute “ , 2 or 2A ”.
+(3)[^c-05e59bfceb4d85b658404e977288f6ca] In section 37(1) of the 2001 Act (conversion to Scottish secure tenancy), in paragraph (a) for “or 2” substitute “ , 2 or 2A ”.
 
-(4)[^key-05e59bfceb4d85b658404e977288f6ca] In schedule 6 to the 2001 Act (grounds for granting short Scottish secure tenancy)—
+(4)[^c-05e59bfceb4d85b658404e977288f6ca] In schedule 6 to the 2001 Act (grounds for granting short Scottish secure tenancy)—
 
 - (a) after paragraph 2 insert—
 
@@ -109,10 +109,10 @@ summary: ''
 
   .
 
-(5)[^key-05e59bfceb4d85b658404e977288f6ca] In section 31(5) of the 1987 Act (permanent accommodation where duty to secure accommodation for persons found to be homeless), in paragraph (c) for “or 2” substitute “ , 2 or 2A ”.
+(5)[^c-05e59bfceb4d85b658404e977288f6ca] In section 31(5) of the 1987 Act (permanent accommodation where duty to secure accommodation for persons found to be homeless), in paragraph (c) for “or 2” substitute “ , 2 or 2A ”.
 
 ## Annotations
 
-[^key-05e59bfceb4d85b658404e977288f6ca]: Commencement: S. 7(1)(a)(2)-(5) in force at 1.5.2019 by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2018/153/article/3), [9](https://www.legislation.gov.uk/ssi/2018/153/article/9))
+[^c-05e59bfceb4d85b658404e977288f6ca]: Commencement: S. 7(1)(a)(2)-(5) in force at 1.5.2019 by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2018/153/article/3), [9](https://www.legislation.gov.uk/ssi/2018/153/article/9))
 
-[^key-f3c86454dd1d6aca2f39ec1fbf958418]: Commencement: S. 7(1)(b) in force at 20.11.2014 by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-f3c86454dd1d6aca2f39ec1fbf958418]: Commencement: S. 7(1)(b) in force at 20.11.2014 by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)

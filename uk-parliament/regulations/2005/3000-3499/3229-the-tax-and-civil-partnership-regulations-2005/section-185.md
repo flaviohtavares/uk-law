@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 185.[^key-fe43a2680b400d7206ab844d0aba910f]
+## 185.[^c-fe43a2680b400d7206ab844d0aba910f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 487 (disregard of certain assignments), in paragraph (c), after “sp
 
 ## Annotations
 
-[^key-fe43a2680b400d7206ab844d0aba910f]: Commencement: Reg. 185 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-fe43a2680b400d7206ab844d0aba910f]: Commencement: Reg. 185 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

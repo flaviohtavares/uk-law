@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Curfew orders: supplementary.[^key-2718b1f7cffd34a53cd373e48de3175f]
+## 40. Curfew orders: supplementary.[^c-2718b1f7cffd34a53cd373e48de3175f]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2718b1f7cffd34a53cd373e48de3175f]: Textual amendment: Pt. IV Ch. II repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2008/4/section/6/1), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1)[5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(f)(u)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/f/u) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/3074/article/4))
+[^c-2718b1f7cffd34a53cd373e48de3175f]: Textual amendment: Pt. IV Ch. II repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2008/4/section/6/1), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1)[5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(f)(u)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/f/u) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/3074/article/4))

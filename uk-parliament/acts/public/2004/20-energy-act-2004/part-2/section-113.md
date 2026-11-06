@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Offences relating to decommissioning programmes[^key-60d1865ffe858c00410b72403823f915]
+## 113. Offences relating to decommissioning programmes[^c-60d1865ffe858c00410b72403823f915]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ he (as well as the firm) is guilty of that offence and shall be liable to be pro
 
 ## Annotations
 
-[^key-60d1865ffe858c00410b72403823f915]: Commencement: S. 113 in force at 1.10.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/877/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/877/schedule/2)
+[^c-60d1865ffe858c00410b72403823f915]: Commencement: S. 113 in force at 1.10.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/877/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/877/schedule/2)

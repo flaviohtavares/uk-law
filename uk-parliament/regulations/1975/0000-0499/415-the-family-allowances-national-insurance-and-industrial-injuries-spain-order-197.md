@@ -46,7 +46,7 @@ And Whereas the Convention has been ratified by the said Governments and the ins
 
 And Whereas by section 105(1) of the National Insurance Act 1965 as extended by section 22(1) of the Family Allowances Act 1965, and section 84(1) of the National Insurance (Industrial Injuries) Act 1965, it is provided that Her Majesty may, by Order in Council, make provision for modifying or adapting the said Acts of 1965 in their application to cases affected by agreements with other Governments providing for reciprocity in matters specified in those sections:
 
-Now, therefore, Her Majesty in pursuance of the said section 105(1), as so extended, and the said section 84(1), and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^key-f22bd401750fffd7b22d1cc46c8bc657][^key-17aef8a19d96b4cce51fe1b2f4b6f00b][^key-4fe702007b52316feb2a5ff40c68bae2][^key-52762e14dd6b3fbddc02680cc5636f4b][^key-a6acf3701616457d4db3522d77b8bd2e][^key-b41f0bb19e9ad1d5ec75836a98e55fa3][^key-2551a52355bb02f249470bd92e7b4383][^key-232af2c8b9a3d0984b966771efbb9491][^key-83324c6f7ae53782ffe70ccc401e526a]
+Now, therefore, Her Majesty in pursuance of the said section 105(1), as so extended, and the said section 84(1), and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^c-f22bd401750fffd7b22d1cc46c8bc657][^c-17aef8a19d96b4cce51fe1b2f4b6f00b][^c-4fe702007b52316feb2a5ff40c68bae2][^c-52762e14dd6b3fbddc02680cc5636f4b][^c-a6acf3701616457d4db3522d77b8bd2e][^c-b41f0bb19e9ad1d5ec75836a98e55fa3][^c-2551a52355bb02f249470bd92e7b4383][^c-232af2c8b9a3d0984b966771efbb9491][^c-83324c6f7ae53782ffe70ccc401e526a]
 
 ## 1. Citation and interpretation
 
@@ -60,9 +60,9 @@ The provisions contained in the Convention shall have full force and effect, so 
 
 N.E. Leigh
 
-## SCHEDULE[^key-3e9ca9948dd1d265412a40d1fe126272]
+## SCHEDULE[^c-3e9ca9948dd1d265412a40d1fe126272]
 
-[^key-3e9ca9948dd1d265412a40d1fe126272]
+[^c-3e9ca9948dd1d265412a40d1fe126272]
 
 > CONVENTION ON SOCIAL SECURITY BETWEEN THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND SPAIN
 >
@@ -140,7 +140,7 @@ N.E. Leigh
 >
 > **ARTICLE 5.** (1) Subject to the provisions of Articles 12(2), 15(5), 21(2) and 22 of this Convention, where under the legislation of Spain any benefit or any increase of benefit would be payable for a dependant if he were in the territory of Spain, it shall be paid while he is in the territory of the United Kingdom.
 >
-> (2)[^key-dce4e88d8d62b18fa92b469619522647] Subject to the provisions of Articles 12(2), 15(5), 21(2) and 22 of this Convention, where a person claims an increase of any benefit in respect of a dependant, child’s special allowance or guardian’s allowance, under the legislation of the United Kingdom no provision of that legislation which would affect that claim by reason of his absence or the absence of a child, adult dependant or other person from the United Kingdom shall apply to him in respect of that claim if he, the child, adult dependant or other person, as the case may be, is, or was, at the time in question, in Spain.
+> (2)[^c-dce4e88d8d62b18fa92b469619522647] Subject to the provisions of Articles 12(2), 15(5), 21(2) and 22 of this Convention, where a person claims an increase of any benefit in respect of a dependant, child’s special allowance or guardian’s allowance, under the legislation of the United Kingdom no provision of that legislation which would affect that claim by reason of his absence or the absence of a child, adult dependant or other person from the United Kingdom shall apply to him in respect of that claim if he, the child, adult dependant or other person, as the case may be, is, or was, at the time in question, in Spain.
 >
 > **PART II — PROVISIONS WHICH DETERMINE THE LEGISLATION APPLICABLE**
 >
@@ -324,7 +324,7 @@ N.E. Leigh
 >
 > (2) Where a worker claims unemployment benefit under the legislation of one Party by virtue of paragraph (1) of this Article, any period during which he received such benefit under the legislation of the other Party during the last 12 months before the day on which his claim is made shall be taken into account as if it were a period during which he had received such benefit under the legislation of the former Party.
 >
-> (3)[^key-52abb7d366c5e401a8b332763425af01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (3)[^c-52abb7d366c5e401a8b332763425af01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **Section 8 — Earnings Related Supplement**
 >
@@ -425,26 +425,26 @@ This Order gives effect in England, Wales and Scotland to the Convention (set ou
 
 ## Annotations
 
-[^key-f22bd401750fffd7b22d1cc46c8bc657]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1975/415) modified (18.2.1976) by [The Social Security (Reciprocal Agreements) Order 1976 (S.I. 1976/225)](https://www.legislation.gov.uk/uksi/1976/225), [arts. 2](https://www.legislation.gov.uk/uksi/1976/225/article/2), [3](https://www.legislation.gov.uk/uksi/1976/225/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1976/225/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1976/225/schedule/2)
+[^c-f22bd401750fffd7b22d1cc46c8bc657]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1975/415) modified (18.2.1976) by [The Social Security (Reciprocal Agreements) Order 1976 (S.I. 1976/225)](https://www.legislation.gov.uk/uksi/1976/225), [arts. 2](https://www.legislation.gov.uk/uksi/1976/225/article/2), [3](https://www.legislation.gov.uk/uksi/1976/225/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1976/225/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1976/225/schedule/2)
 
-[^key-17aef8a19d96b4cce51fe1b2f4b6f00b]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1975/415) modificaion (8.8.1976) by [The Child Benefit (Residence and Persons Abroad) Regulations 1976 (S.I. 1976/963)](https://www.legislation.gov.uk/uksi/1976/963), [reg. 9](https://www.legislation.gov.uk/uksi/1976/963/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/1976/963/schedule)
+[^c-17aef8a19d96b4cce51fe1b2f4b6f00b]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1975/415) modificaion (8.8.1976) by [The Child Benefit (Residence and Persons Abroad) Regulations 1976 (S.I. 1976/963)](https://www.legislation.gov.uk/uksi/1976/963), [reg. 9](https://www.legislation.gov.uk/uksi/1976/963/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/1976/963/schedule)
 
-[^key-4fe702007b52316feb2a5ff40c68bae2]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1975/415) modified (6.4.1979) by [The Social Security (Reciprocal Agreements) Order 1979 (S.I. 1979/290)](https://www.legislation.gov.uk/uksi/1979/290), [art. 2](https://www.legislation.gov.uk/uksi/1979/290/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1979/290/schedule)
+[^c-4fe702007b52316feb2a5ff40c68bae2]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1975/415) modified (6.4.1979) by [The Social Security (Reciprocal Agreements) Order 1979 (S.I. 1979/290)](https://www.legislation.gov.uk/uksi/1979/290), [art. 2](https://www.legislation.gov.uk/uksi/1979/290/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1979/290/schedule)
 
-[^key-52762e14dd6b3fbddc02680cc5636f4b]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1975/415) modified (11.4.1988) by [The Social Security (Reciprocal Agreements) Order 1988 (S.I. 1988/591)](https://www.legislation.gov.uk/uksi/1988/591), [arts. 2](https://www.legislation.gov.uk/uksi/1988/591/article/2), [3](https://www.legislation.gov.uk/uksi/1988/591/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1988/591/schedule)
+[^c-52762e14dd6b3fbddc02680cc5636f4b]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1975/415) modified (11.4.1988) by [The Social Security (Reciprocal Agreements) Order 1988 (S.I. 1988/591)](https://www.legislation.gov.uk/uksi/1988/591), [arts. 2](https://www.legislation.gov.uk/uksi/1988/591/article/2), [3](https://www.legislation.gov.uk/uksi/1988/591/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1988/591/schedule)
 
-[^key-a6acf3701616457d4db3522d77b8bd2e]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1975/415) modified (13.4.1995) by [The Social Security (Reciprocal Agreements) Order 1995 (S.I. 1995/767)](https://www.legislation.gov.uk/uksi/1995/767), [art. 2](https://www.legislation.gov.uk/uksi/1995/767/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1995/767/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1995/767/schedule/2)
+[^c-a6acf3701616457d4db3522d77b8bd2e]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1975/415) modified (13.4.1995) by [The Social Security (Reciprocal Agreements) Order 1995 (S.I. 1995/767)](https://www.legislation.gov.uk/uksi/1995/767), [art. 2](https://www.legislation.gov.uk/uksi/1995/767/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1995/767/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1995/767/schedule/2)
 
-[^key-b41f0bb19e9ad1d5ec75836a98e55fa3]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1975/415) modified (7.10.1996) by [The Social Security (Reciprocal Agreements) Order 1996 (S.I. 1996/1928)](https://www.legislation.gov.uk/uksi/1996/1928), [art. 2](https://www.legislation.gov.uk/uksi/1996/1928/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/1928/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/1928/schedule/2)
+[^c-b41f0bb19e9ad1d5ec75836a98e55fa3]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1975/415) modified (7.10.1996) by [The Social Security (Reciprocal Agreements) Order 1996 (S.I. 1996/1928)](https://www.legislation.gov.uk/uksi/1996/1928), [art. 2](https://www.legislation.gov.uk/uksi/1996/1928/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/1928/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/1928/schedule/2)
 
-[^key-2551a52355bb02f249470bd92e7b4383]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1975/415) modified (9.4.2001) by [The Social Security (Reciprocal Agreements) Order 2001 (S.I. 2001/407)](https://www.legislation.gov.uk/uksi/2001/407), [art. 2](https://www.legislation.gov.uk/uksi/2001/407/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/407/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/407/schedule/2)
+[^c-2551a52355bb02f249470bd92e7b4383]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1975/415) modified (9.4.2001) by [The Social Security (Reciprocal Agreements) Order 2001 (S.I. 2001/407)](https://www.legislation.gov.uk/uksi/2001/407), [art. 2](https://www.legislation.gov.uk/uksi/2001/407/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/407/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/407/schedule/2)
 
-[^key-232af2c8b9a3d0984b966771efbb9491]: Modification: [Order](https://www.legislation.gov.uk/uksi/1975/415) modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/158/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/158/schedule/2)
+[^c-232af2c8b9a3d0984b966771efbb9491]: Modification: [Order](https://www.legislation.gov.uk/uksi/1975/415) modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/158/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/158/schedule/2)
 
-[^key-83324c6f7ae53782ffe70ccc401e526a]: Modification: [Order](https://www.legislation.gov.uk/uksi/1975/415) modified (6.4.2017) by [The Social Security (Reciprocal Agreements) Order 2017 (S.I. 2017/159)](https://www.legislation.gov.uk/uksi/2017/159), [art. 1](https://www.legislation.gov.uk/uksi/2017/159/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/159/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/159/schedule/2)
+[^c-83324c6f7ae53782ffe70ccc401e526a]: Modification: [Order](https://www.legislation.gov.uk/uksi/1975/415) modified (6.4.2017) by [The Social Security (Reciprocal Agreements) Order 2017 (S.I. 2017/159)](https://www.legislation.gov.uk/uksi/2017/159), [art. 1](https://www.legislation.gov.uk/uksi/2017/159/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/159/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/159/schedule/2)
 
-[^key-3e9ca9948dd1d265412a40d1fe126272]: Modification: [Sch.](https://www.legislation.gov.uk/uksi/1975/415/schedule) modified (E.W.S.) (5.12.2005) by [The Social Security (Reciprocal Agreements) Order 2005 (S.I. 2005/2765)](https://www.legislation.gov.uk/uksi/2005/2765), [art. 1](https://www.legislation.gov.uk/uksi/2005/2765/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2765/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2765/schedule/2)
+[^c-3e9ca9948dd1d265412a40d1fe126272]: Modification: [Sch.](https://www.legislation.gov.uk/uksi/1975/415/schedule) modified (E.W.S.) (5.12.2005) by [The Social Security (Reciprocal Agreements) Order 2005 (S.I. 2005/2765)](https://www.legislation.gov.uk/uksi/2005/2765), [art. 1](https://www.legislation.gov.uk/uksi/2005/2765/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2765/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2765/schedule/2)
 
-[^key-dce4e88d8d62b18fa92b469619522647]: Textual amendment: Sch. art. 5(2) substituted (15.11.1976) by [The Social Security (Spain) Order 1976 (S.I. 1976/1916)](https://www.legislation.gov.uk/uksi/1976/1916), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1976/1916/article/1/1), [2](https://www.legislation.gov.uk/uksi/1976/1916/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1976/1916/schedule)
+[^c-dce4e88d8d62b18fa92b469619522647]: Textual amendment: Sch. art. 5(2) substituted (15.11.1976) by [The Social Security (Spain) Order 1976 (S.I. 1976/1916)](https://www.legislation.gov.uk/uksi/1976/1916), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1976/1916/article/1/1), [2](https://www.legislation.gov.uk/uksi/1976/1916/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1976/1916/schedule)
 
-[^key-52abb7d366c5e401a8b332763425af01]: Textual amendment: Sch. art. 23(3) omitted (with effect in accordance with Sch. of the amending S.I.) by virtue of [The Social Security (Spain) Order 1976 (S.I. 1976/1916)](https://www.legislation.gov.uk/uksi/1976/1916), [art. 2](https://www.legislation.gov.uk/uksi/1976/1916/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1976/1916/schedule)
+[^c-52abb7d366c5e401a8b332763425af01]: Textual amendment: Sch. art. 23(3) omitted (with effect in accordance with Sch. of the amending S.I.) by virtue of [The Social Security (Spain) Order 1976 (S.I. 1976/1916)](https://www.legislation.gov.uk/uksi/1976/1916), [art. 2](https://www.legislation.gov.uk/uksi/1976/1916/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1976/1916/schedule)

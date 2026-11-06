@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168A. Provision of information as to defendant's interest in property[^key-9881e1458491a6bf0f3cb4fbaeb48bbb]
+## 168A. Provision of information as to defendant's interest in property[^c-9881e1458491a6bf0f3cb4fbaeb48bbb]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ the court may treat the acceptance as conclusive of the matters to which it rela
 
 ## Annotations
 
-[^key-9881e1458491a6bf0f3cb4fbaeb48bbb]: Textual amendment: [S. 168A](https://www.legislation.gov.uk/ukpga/2002/29/section/168A) inserted (1.6.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 25(3)](https://www.legislation.gov.uk/ukpga/2015/9/section/25/3), [88(3)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/3/a); [S.R. 2015/190](https://www.legislation.gov.uk/nisr/2015/190), [reg. 3(1)(a)](https://www.legislation.gov.uk/nisr/2015/190/regulation/3/1/a)
+[^c-9881e1458491a6bf0f3cb4fbaeb48bbb]: Textual amendment: [S. 168A](https://www.legislation.gov.uk/ukpga/2002/29/section/168A) inserted (1.6.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 25(3)](https://www.legislation.gov.uk/ukpga/2015/9/section/25/3), [88(3)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/3/a); [S.R. 2015/190](https://www.legislation.gov.uk/nisr/2015/190), [reg. 3(1)(a)](https://www.legislation.gov.uk/nisr/2015/190/regulation/3/1/a)

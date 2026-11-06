@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 102. Common good registers[^key-2f098b1576bc66ba45cf3887bcdff165]
+## 102. Common good registers[^c-2f098b1576bc66ba45cf3887bcdff165]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f098b1576bc66ba45cf3887bcdff165]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2015/6/section/102) in force at 27.6.2018 by [S.S.I. 2018/139](https://www.legislation.gov.uk/ssi/2018/139), [art. 2(c)](https://www.legislation.gov.uk/ssi/2018/139/article/2/c)
+[^c-2f098b1576bc66ba45cf3887bcdff165]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2015/6/section/102) in force at 27.6.2018 by [S.S.I. 2018/139](https://www.legislation.gov.uk/ssi/2018/139), [art. 2(c)](https://www.legislation.gov.uk/ssi/2018/139/article/2/c)

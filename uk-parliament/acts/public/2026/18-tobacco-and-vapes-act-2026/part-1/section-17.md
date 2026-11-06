@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Offences in connection with licences: England[^key-3d3d406fa835939512bfabb5b34d1648]
+## 17. Offences in connection with licences: England[^c-3d3d406fa835939512bfabb5b34d1648]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d3d406fa835939512bfabb5b34d1648]: Commencement: S. 17 not in force at Royal Assent, see [s. 175(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/4)
+[^c-3d3d406fa835939512bfabb5b34d1648]: Commencement: S. 17 not in force at Royal Assent, see [s. 175(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/4)

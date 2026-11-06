@@ -49,7 +49,7 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by section 15(1) and (2) of the Fisheries Act 1981[^f00001] and of all other powers enabling them in that behalf, hereby make the following Scheme:
 
-## 1. Citation, commencement and extent[^key-37a4516f2cd4db20fe7038fa075f13f2]
+## 1. Citation, commencement and extent[^c-37a4516f2cd4db20fe7038fa075f13f2]
 
 (1) This Scheme may be cited as the Sea Fishing (Transitional Support) (Scotland) (No. 2) Scheme 2003 and shall come into force on 27th February 2003.
 
@@ -57,7 +57,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 15(1) and
 
 (3) Insofar as it extends beyond Scotland and the Scottish zone, it does so only as a matter of Scots law.
 
-## 2. Interpretation[^key-54fc4b48ef8e3c60a0faf84783469707]
+## 2. Interpretation[^c-54fc4b48ef8e3c60a0faf84783469707]
 
 In this Scheme–
 
@@ -71,7 +71,7 @@ In this Scheme–
 - “Scotland” and “the Scottish zone” have the same meaning as in section 126(1) of the Scotland Act 1998[^f00003];
 - “Scottish based vessel” means a vessel the port of administration of which is, throughout the period from 1st January 2003 until the date of the application relating to the vessel, both dates inclusive, a port in Scotland.
 
-## 3. Transitional support grant[^key-aae4086c89d7bf67e201cc252fa9bd1a]
+## 3. Transitional support grant[^c-aae4086c89d7bf67e201cc252fa9bd1a]
 
 Any person who owns a registered vessel which–
 
@@ -82,7 +82,7 @@ Any person who owns a registered vessel which–
 
 may make an application to the Scottish Ministers for a grant in respect of that vessel.
 
-## 4. Applications[^key-43d5f78c4d45c4d36cf95c13414a24d7]
+## 4. Applications[^c-43d5f78c4d45c4d36cf95c13414a24d7]
 
 (1) The Scottish Ministers may from time to time invite applications and where they do so the following provisions of this paragraph shall apply.
 
@@ -98,7 +98,7 @@ may make an application to the Scottish Ministers for a grant in respect of that
 
 (5) An applicant shall furnish all such further information relating to the application as the Scottish Ministers may specify in the notice or from time to time require.
 
-## 5. Consideration of applications[^key-ebf9c9671599a76640b6c66688bed3df]
+## 5. Consideration of applications[^c-ebf9c9671599a76640b6c66688bed3df]
 
 (1) As soon as reasonably practicable after the appropriate closing date the Scottish Ministers shall–
 
@@ -111,7 +111,7 @@ may make an application to the Scottish Ministers for a grant in respect of that
 - (b) afford the applicant the opportunity of making written representations within such time as the Scottish Ministers consider reasonable; and
 - (c) consider any such representations.
 
-## 6. Approval of applications[^key-6fd4ea19e765bd9dc52cdb89e2061560]
+## 6. Approval of applications[^c-6fd4ea19e765bd9dc52cdb89e2061560]
 
 (1) The Scottish Ministers shall approve any application which they have selected for approval under paragraph 5(1)(b).
 
@@ -127,7 +127,7 @@ may make an application to the Scottish Ministers for a grant in respect of that
 - (a) notify applicants of the result of their applications; and
 - (b) notify applicants whose applications they have approved under this paragraph of any conditions which they have determined or amended under sub paragraph (2).
 
-## 7. Rate of payment[^key-7bcffdcabe25d4fa4d56d21050a725c1]
+## 7. Rate of payment[^c-7bcffdcabe25d4fa4d56d21050a725c1]
 
 (1) The Scottish Ministers shall pay such grants at such rates and for such periods as they may from time to time determine, to applicants whose applications they have approved under paragraph 6.
 
@@ -160,15 +160,15 @@ may make an application to the Scottish Ministers for a grant in respect of that
   - B is the breadth of the vessel in metres; and
   - P is the recorded engine power of the vessel expressed in kilowatts.
 
-## 8. Method of payment[^key-2fc65b40c702bf5e9f761f3a50b0f83c]
+## 8. Method of payment[^c-2fc65b40c702bf5e9f761f3a50b0f83c]
 
 Payments by way of grant may be made by the Scottish Ministers at such time, or by such instalments at such intervals or times, as they may determine.
 
-## 9. Assistance to authorised officers[^key-153285e27469f13b1eb12425a635f1e7]
+## 9. Assistance to authorised officers[^c-153285e27469f13b1eb12425a635f1e7]
 
 Any applicant or any employee or agent of any applicant shall give to an authorised officer such assistance as the officer may reasonably request in order to exercise the powers conferred on the officer by paragraph 10.
 
-## 10. Powers of authorised officers[^key-437ec28a87698dd18845dc71b3706505]
+## 10. Powers of authorised officers[^c-437ec28a87698dd18845dc71b3706505]
 
 (1) An authorised officer at all reasonable hours and on producing, if required to do so, some duly authenticated document showing the authority of the officer, may exercise the powers specified in this paragraph for the purpose of ascertaining whether and to what extent–
 
@@ -204,7 +204,7 @@ Any applicant or any employee or agent of any applicant shall give to an authori
 - “relevant document” means any document relating to the vessel in respect of which an application has been made; and
 - “relevant premises” includes the vessel in respect of which an application has been made and any premises in which a relevant document is retained or in which an authorised officer has reasonable grounds to believe such a document may be retained.
 
-## 11. Reduction, withholding and recovery of grant[^key-239198bef7bcc151e99b1c92bfa40016]
+## 11. Reduction, withholding and recovery of grant[^c-239198bef7bcc151e99b1c92bfa40016]
 
 (1) If at any time after the Scottish Ministers have approved an application in respect of any vessel it appears to them–
 
@@ -227,13 +227,13 @@ they may revoke the approval of such application or withhold the grant or any pa
 - (b) afford the applicant the opportunity of making written representations within such time as the Scottish Ministers consider reasonable; and
 - (c) consider any such representations.
 
-## 12. Interest[^key-34eaf1373307b51f9d035ae4a1484f3c]
+## 12. Interest[^c-34eaf1373307b51f9d035ae4a1484f3c]
 
 (1) Where the Scottish Ministers intend to recover on demand payment by way of grant in whole or in part in accordance with paragraph 11, they may, in addition, recover interest on that amount at a rate of 1% above LIBOR calculated on a daily basis for the period from the date of payment until the date of recovery.
 
 (2) In any proceedings for recovery under this Scheme, a certificate issued by the Scottish Ministers showing the rate or rates of interest, the amount of such interest recoverable and the period for which interest is calculated shall, unless the contrary is shown, be conclusive of those matters.
 
-## 13. Amendment of the Fishing Vessels (Decommissioning) (Scotland) Scheme 2003[^key-e1f95d9f0528d8c1aabc0430eee20c3b]
+## 13. Amendment of the Fishing Vessels (Decommissioning) (Scotland) Scheme 2003[^c-e1f95d9f0528d8c1aabc0430eee20c3b]
 
 For paragraph 11 of the Fishing Vessels (Decommissioning) (Scotland) Scheme 2003[^f00008] there is substituted–
 
@@ -243,7 +243,7 @@ For paragraph 11 of the Fishing Vessels (Decommissioning) (Scotland) Scheme 2003
 
 .
 
-## 14. Revocation[^key-331d84cac229996c465edc7d355bd721]
+## 14. Revocation[^c-331d84cac229996c465edc7d355bd721]
 
 The Sea Fishing (Transitional Support) (Scotland) Scheme 2003[^f00010] is hereby revoked.
 
@@ -275,48 +275,48 @@ Section 17 of the Fisheries Act 1981 creates offences in respect of the producti
 
 [^f00001]: Footnote: [1981 c. 29](https://www.legislation.gov.uk/ukpga/1981/29). See section 18(1) for a definition of “the Ministers” relevant for the purposes of this Scheme. Sections 15(2) and 18(1) were amended by the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)), Schedule 2, paragraph 68(1), (2) and (3) and has effect in relation to Scotland as modified by section 18A inserted by that Order, Schedule 2, paragraph 68(4).
 
-[^key-37a4516f2cd4db20fe7038fa075f13f2]: Commencement: Para. 1 in force at 27.2.2003, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2003/116/paragraph/1/1)
+[^c-37a4516f2cd4db20fe7038fa075f13f2]: Commencement: Para. 1 in force at 27.2.2003, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2003/116/paragraph/1/1)
 
-[^key-54fc4b48ef8e3c60a0faf84783469707]: Commencement: Para. 2 in force at 27.2.2003, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2003/116/paragraph/1/1)
+[^c-54fc4b48ef8e3c60a0faf84783469707]: Commencement: Para. 2 in force at 27.2.2003, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2003/116/paragraph/1/1)
 
 [^f00002]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
 [^f00003]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-aae4086c89d7bf67e201cc252fa9bd1a]: Commencement: Para. 3 in force at 27.2.2003, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2003/116/paragraph/1/1)
+[^c-aae4086c89d7bf67e201cc252fa9bd1a]: Commencement: Para. 3 in force at 27.2.2003, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2003/116/paragraph/1/1)
 
 [^f00004]: Footnote: S.I. [1975/330](https://www.legislation.gov.uk/uksi/1975/330), amended by S.I. [1975/471](https://www.legislation.gov.uk/uksi/1975/471), [1976/432](https://www.legislation.gov.uk/uksi/1976/432), [1977/313](https://www.legislation.gov.uk/uksi/1977/313) and [498](https://www.legislation.gov.uk/uksi/1977/498), [1978/1598](https://www.legislation.gov.uk/uksi/1978/1598) and [1873](https://www.legislation.gov.uk/uksi/1978/1873), [1981/567](https://www.legislation.gov.uk/uksi/1981/567), [1991/1342](https://www.legislation.gov.uk/uksi/1991/1342) (revoked by [1998/3243](https://www.legislation.gov.uk/uksi/1998/3243)), [1998/928](https://www.legislation.gov.uk/uksi/1998/928) and [2647](https://www.legislation.gov.uk/uksi/1998/2647), [1999/2998](https://www.legislation.gov.uk/uksi/1999/2998), [3210](https://www.legislation.gov.uk/uksi/1999/3210) and [2001/9](https://www.legislation.gov.uk/uksi/2001/9) and by the Fisheries Act 1981, Schedule 3, paragraph 8(3). The 1975 Rules now have effect as if made under section 90, 121 and 122 of and paragraph 7 of Schedule 14 to the Merchant Shipping Act [1995 (c. 21)](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-43d5f78c4d45c4d36cf95c13414a24d7]: Commencement: Para. 4 in force at 27.2.2003, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2003/116/paragraph/1/1)
+[^c-43d5f78c4d45c4d36cf95c13414a24d7]: Commencement: Para. 4 in force at 27.2.2003, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2003/116/paragraph/1/1)
 
-[^key-ebf9c9671599a76640b6c66688bed3df]: Commencement: Para. 5 in force at 27.2.2003, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2003/116/paragraph/1/1)
+[^c-ebf9c9671599a76640b6c66688bed3df]: Commencement: Para. 5 in force at 27.2.2003, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2003/116/paragraph/1/1)
 
-[^key-6fd4ea19e765bd9dc52cdb89e2061560]: Commencement: Para. 6 in force at 27.2.2003, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2003/116/paragraph/1/1)
+[^c-6fd4ea19e765bd9dc52cdb89e2061560]: Commencement: Para. 6 in force at 27.2.2003, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2003/116/paragraph/1/1)
 
-[^key-7bcffdcabe25d4fa4d56d21050a725c1]: Commencement: Para. 7 in force at 27.2.2003, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2003/116/paragraph/1/1)
+[^c-7bcffdcabe25d4fa4d56d21050a725c1]: Commencement: Para. 7 in force at 27.2.2003, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2003/116/paragraph/1/1)
 
 [^f00005]: Footnote: O.J. No. L 356, 31.12.02, p.12.
 
 [^f00006]: Footnote: O.J. No. L 261, 20.10.93, p.1 as amended by Council Regulation [(EC) No. 2870/95](https://www.legislation.gov.uk/european/regulation/1995/2870), O.J. No. L 301, 14.12.95, p.1, Council Decision [(EC) No. 95/528](https://www.legislation.gov.uk/european/regulation/528/0095), O.J. No. L 301, 14.12.95, p.35, Council Regulation [(EC) No. 2489/96](https://www.legislation.gov.uk/european/regulation/1996/2489), O.J. No. L 338, 28.12.96, p.12, Council Regulation [(EC) No. 686/97](https://www.legislation.gov.uk/european/regulation/1997/0686), O.J. No. L 102, 19.4.97, p.1, Council Regulation [(EC) No. 2205/97](https://www.legislation.gov.uk/european/regulation/1997/2205), O.J. No. L 304, 7.11.97, p.1, Council Regulation [(EC) No. 2635/97](https://www.legislation.gov.uk/european/regulation/1997/2635), O.J. No. L 356, 31.12.97, p.14 and Council Regulation [(EC) No. 2846/98](https://www.legislation.gov.uk/european/regulation/1998/2846), O.J. No. L 358, 31.12.98, p.5.
 
-[^key-2fc65b40c702bf5e9f761f3a50b0f83c]: Commencement: Para. 8 in force at 27.2.2003, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2003/116/paragraph/1/1)
+[^c-2fc65b40c702bf5e9f761f3a50b0f83c]: Commencement: Para. 8 in force at 27.2.2003, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2003/116/paragraph/1/1)
 
-[^key-153285e27469f13b1eb12425a635f1e7]: Commencement: Para. 9 in force at 27.2.2003, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2003/116/paragraph/1/1)
+[^c-153285e27469f13b1eb12425a635f1e7]: Commencement: Para. 9 in force at 27.2.2003, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2003/116/paragraph/1/1)
 
-[^key-437ec28a87698dd18845dc71b3706505]: Commencement: Para. 10 in force at 27.2.2003, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2003/116/paragraph/1/1)
+[^c-437ec28a87698dd18845dc71b3706505]: Commencement: Para. 10 in force at 27.2.2003, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2003/116/paragraph/1/1)
 
 [^f00007]: Footnote: [1981 c. 29](https://www.legislation.gov.uk/ukpga/1981/29).
 
-[^key-239198bef7bcc151e99b1c92bfa40016]: Commencement: Para. 11 in force at 27.2.2003, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2003/116/paragraph/1/1)
+[^c-239198bef7bcc151e99b1c92bfa40016]: Commencement: Para. 11 in force at 27.2.2003, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2003/116/paragraph/1/1)
 
-[^key-34eaf1373307b51f9d035ae4a1484f3c]: Commencement: Para. 12 in force at 27.2.2003, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2003/116/paragraph/1/1)
+[^c-34eaf1373307b51f9d035ae4a1484f3c]: Commencement: Para. 12 in force at 27.2.2003, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2003/116/paragraph/1/1)
 
-[^key-e1f95d9f0528d8c1aabc0430eee20c3b]: Commencement: Para. 13 in force at 27.2.2003, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2003/116/paragraph/1/1)
+[^c-e1f95d9f0528d8c1aabc0430eee20c3b]: Commencement: Para. 13 in force at 27.2.2003, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2003/116/paragraph/1/1)
 
 [^f00008]: Footnote: [S.S.I. 2003/87](https://www.legislation.gov.uk/ssi/2003/87).
 
 [^f00009]: Footnote: O.J. No. L 337, 30.12.99, p.10 as corrected by corrigenda O.J. No. L 83, 4.4.00, p.35 and O.J. No. L 2, 5.1.01, p.41 and amended by Council Regulation [(EC) No. 1451/2001](https://www.legislation.gov.uk/european/regulation/2001/1451), O.J. No. L 198, 21.7.01, p.9, Council Regulation [(EC) No. 179/2002](https://www.legislation.gov.uk/european/regulation/2002/0179), O.J. No. L 31, 1.2.02, p.25, and Council Regulation [(EC) No. 2369/2002](https://www.legislation.gov.uk/european/regulation/2002/2369), O.J. No. L 358, 31.12.02, p.49.
 
-[^key-331d84cac229996c465edc7d355bd721]: Commencement: Para. 14 in force at 27.2.2003, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2003/116/paragraph/1/1)
+[^c-331d84cac229996c465edc7d355bd721]: Commencement: Para. 14 in force at 27.2.2003, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2003/116/paragraph/1/1)
 
 [^f00010]: Footnote: [S.S.I. 2003/92](https://www.legislation.gov.uk/ssi/2003/92).

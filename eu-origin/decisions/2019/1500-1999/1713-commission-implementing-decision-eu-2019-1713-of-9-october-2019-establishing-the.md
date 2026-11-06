@@ -61,11 +61,11 @@ The measures provided for in this Decision are in accordance with the opinion of
 
 HAS ADOPTED THIS DECISION:
 
-**Article 1.** For the purpose of reporting to the appropriate authority[^key-62de0da9a678eb6580a12af54bba934b] an estimate of the total annual emissions of carbon monoxide (CO) from medium combustion plants coming within Directive (EU) 2015/2193, the competent authorities must[^key-3b5a93d589e32cd33dd473b07544d1dc] use the questionnaire set out in the Annex to this Decision.
+**Article 1.** For the purpose of reporting to the appropriate authority[^c-62de0da9a678eb6580a12af54bba934b] an estimate of the total annual emissions of carbon monoxide (CO) from medium combustion plants coming within Directive (EU) 2015/2193, the competent authorities must[^c-3b5a93d589e32cd33dd473b07544d1dc] use the questionnaire set out in the Annex to this Decision.
 
-Where a competent authority holds information covered by this Decision, that authority must provide such information to the relevant appropriate authority so that the appropriate authority can meet its obligations to prepare a report in accordance with Article 3.[^key-f13a8ab2d05ab11bf7baab186756633e]
+Where a competent authority holds information covered by this Decision, that authority must provide such information to the relevant appropriate authority so that the appropriate authority can meet its obligations to prepare a report in accordance with Article 3.[^c-f13a8ab2d05ab11bf7baab186756633e]
 
-**Article 2.** [^key-979bcfb3c5c006977410aad588695dc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.** [^c-979bcfb3c5c006977410aad588695dc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 The information set out in the Annex to this Decision shall be submitted by 1 January 2021 at the latest.
 
@@ -82,7 +82,7 @@ The information set out in the Annex to this Decision shall be submitted by 1 Ja
   - (d) in relation to Northern Ireland, the Department of Agriculture, Environment and Rural Affairs;
 - “competent authority” means the national authority or authorities, or any other competent body or bodies, designated by the appropriate authority.
 
-[^key-d12fe066a7ddf46e28b220703cea5abc]...
+[^c-d12fe066a7ddf46e28b220703cea5abc]...
 
 Done at Brussels, 9 October 2019.
 
@@ -96,7 +96,7 @@ Karmenu Vella
 
 **INFORMATION ON MEDIUM COMBUSTION PLANTS COVERED BY DIRECTIVE (EU) 2015/2193**
 
-*Note*. The obligation to supply the information required by January 2021 predates the need for existing Medium Combustion Plants to be permitted or registered. In view of this, when completing the report competent authorities[^key-37e04f479ba26da22bb6c54bba4fa8f1] will need to rely on data that they have available at that time. In cases where they do not have data available they shall complete the report using their best estimates. For these reasons a distinction is made between new and existing plants and plants above and below 20MWth.
+*Note*. The obligation to supply the information required by January 2021 predates the need for existing Medium Combustion Plants to be permitted or registered. In view of this, when completing the report competent authorities[^c-37e04f479ba26da22bb6c54bba4fa8f1] will need to rely on data that they have available at that time. In cases where they do not have data available they shall complete the report using their best estimates. For these reasons a distinction is made between new and existing plants and plants above and below 20MWth.
 
 **PART 1**
 
@@ -149,19 +149,19 @@ This table provides the plant categories to be used for providing the informatio
 
 [^f00002]: Footnote: Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control) ([OJ L 334, 17.12.2010, p. 17](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.334.01.0017.01.ENG)).
 
-[^key-62de0da9a678eb6580a12af54bba934b]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2019/1713/article/1) substituted (31.12.2020) by [S.I. 2018/1407](https://www.legislation.gov.uk/uksi/2018/1407), [reg. 24C(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/24C/2/a/i) (as inserted by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/3))
+[^c-62de0da9a678eb6580a12af54bba934b]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2019/1713/article/1) substituted (31.12.2020) by [S.I. 2018/1407](https://www.legislation.gov.uk/uksi/2018/1407), [reg. 24C(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/24C/2/a/i) (as inserted by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/3))
 
-[^key-3b5a93d589e32cd33dd473b07544d1dc]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2019/1713/article/1) substituted (31.12.2020) by [S.I. 2018/1407](https://www.legislation.gov.uk/uksi/2018/1407), [reg. 24C(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/24C/2/a/ii) (as inserted by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/3))
+[^c-3b5a93d589e32cd33dd473b07544d1dc]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2019/1713/article/1) substituted (31.12.2020) by [S.I. 2018/1407](https://www.legislation.gov.uk/uksi/2018/1407), [reg. 24C(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/24C/2/a/ii) (as inserted by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/3))
 
-[^key-f13a8ab2d05ab11bf7baab186756633e]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2019/1713/article/1) substituted (31.12.2020) by [S.I. 2018/1407](https://www.legislation.gov.uk/uksi/2018/1407), [reg. 24C(2)(b)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/24C/2/b) (as inserted by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/3))
+[^c-f13a8ab2d05ab11bf7baab186756633e]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2019/1713/article/1) substituted (31.12.2020) by [S.I. 2018/1407](https://www.legislation.gov.uk/uksi/2018/1407), [reg. 24C(2)(b)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/24C/2/b) (as inserted by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/3))
 
-[^key-979bcfb3c5c006977410aad588695dc7]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eudn/2019/1713/article/2) omitted (31.12.2020) by [S.I. 2018/1407](https://www.legislation.gov.uk/uksi/2018/1407), [reg. 24C(3)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/24C/3) (as inserted by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/3))
+[^c-979bcfb3c5c006977410aad588695dc7]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eudn/2019/1713/article/2) omitted (31.12.2020) by [S.I. 2018/1407](https://www.legislation.gov.uk/uksi/2018/1407), [reg. 24C(3)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/24C/3) (as inserted by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/3))
 
 [^M_F_aa9b2cdd-08b1-45b0-98d7-97dec02f2169]: Textual amendment: Art. 3 inserted (31.12.2020) by [S.I. 2018/1407](https://www.legislation.gov.uk/uksi/2018/1407), [reg. 24C(4)(a)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/24C/4/b) (as inserted by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/3))
 
-[^key-d12fe066a7ddf46e28b220703cea5abc]: Textual amendment: Words in Signature omitted (31.12.2020) by [S.I. 2018/1407](https://www.legislation.gov.uk/uksi/2018/1407), [reg. 24C(4)(b)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/24C/4/b) (as inserted by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/3))
+[^c-d12fe066a7ddf46e28b220703cea5abc]: Textual amendment: Words in Signature omitted (31.12.2020) by [S.I. 2018/1407](https://www.legislation.gov.uk/uksi/2018/1407), [reg. 24C(4)(b)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/24C/4/b) (as inserted by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/3))
 
-[^key-37e04f479ba26da22bb6c54bba4fa8f1]: Textual amendment: Words in Annex substituted (31.12.2020) by [S.I. 2018/1407](https://www.legislation.gov.uk/uksi/2018/1407), [reg. 24C(5)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/24C/5) (as inserted by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/3))
+[^c-37e04f479ba26da22bb6c54bba4fa8f1]: Textual amendment: Words in Annex substituted (31.12.2020) by [S.I. 2018/1407](https://www.legislation.gov.uk/uksi/2018/1407), [reg. 24C(5)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/24C/5) (as inserted by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/3))
 
 [^f00003]: Footnote: Example of category: New boilers greater than 5 MWth and less than or equal to 20 MWth combusting liquid fuels other than gas oil.
 

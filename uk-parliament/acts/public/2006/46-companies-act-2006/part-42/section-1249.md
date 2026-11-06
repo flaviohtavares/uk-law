@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1249. Supplementary provision about second audits[^key-3c3554d9c2dc9f13b06a7bdf574a1855]
+## 1249. Supplementary provision about second audits[^c-3c3554d9c2dc9f13b06a7bdf574a1855]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ For this purpose “**appropriate**” is to be construed in accordance with sub
 
 ## Annotations
 
-[^key-3c3554d9c2dc9f13b06a7bdf574a1855]: Modification: S. 1249 applied (with modifications) by 1986 c. 53, Sch. 11 para. 3DA(3) (as inserted (with effect in accordance with reg. 2(1) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/3) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7)))
+[^c-3c3554d9c2dc9f13b06a7bdf574a1855]: Modification: S. 1249 applied (with modifications) by 1986 c. 53, Sch. 11 para. 3DA(3) (as inserted (with effect in accordance with reg. 2(1) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/3) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7)))

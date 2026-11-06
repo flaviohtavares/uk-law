@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.6. Application for order: general rules[^key-9349bec71a62fe76db3f94556990af01]
+## 47.6. Application for order: general rules[^c-9349bec71a62fe76db3f94556990af01]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9349bec71a62fe76db3f94556990af01]: Commencement: Rule 47.6 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-9349bec71a62fe76db3f94556990af01]: Commencement: Rule 47.6 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

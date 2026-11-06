@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. National savings: date of issue of repayment warrants etc.[^key-d21a669a69a23585dc417adf02291125]
+## 120. National savings: date of issue of repayment warrants etc.[^c-d21a669a69a23585dc417adf02291125]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d21a669a69a23585dc417adf02291125]: Textual amendment: [S. 120](https://www.legislation.gov.uk/ukpga/1991/31/section/120) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 4
+[^c-d21a669a69a23585dc417adf02291125]: Textual amendment: [S. 120](https://www.legislation.gov.uk/ukpga/1991/31/section/120) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 4

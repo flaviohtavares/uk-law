@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 162. Authorisation of demolition by conservation area consent[^key-1c8b3f801b69e9c725e1415590644bf5][^key-fdea2cf5fcd0492c80f5a309cd67f157]
+## 162. Authorisation of demolition by conservation area consent[^c-1c8b3f801b69e9c725e1415590644bf5][^c-fdea2cf5fcd0492c80f5a309cd67f157]
 
 *Extent: E+W*
 
 (1) Works for the demolition of a building to which section 161 applies are authorised if—
 
-- (a)[^key-ae7108c4787d0146c5d2ad82b27f49fa] written consent to carry them out has been granted by the planning authority in whose area the building is situated or the Welsh Ministers, and
+- (a)[^c-ae7108c4787d0146c5d2ad82b27f49fa] written consent to carry them out has been granted by the planning authority in whose area the building is situated or the Welsh Ministers, and
 - (b) the works are carried out in accordance with the terms of the consent (including any conditions attached to it).
 
 (2) Where—
@@ -36,8 +36,8 @@ the works are authorised from the grant of that consent.
 
 ## Annotations
 
-[^key-1c8b3f801b69e9c725e1415590644bf5]: Commencement: S. 162 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-1c8b3f801b69e9c725e1415590644bf5]: Commencement: S. 162 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-fdea2cf5fcd0492c80f5a309cd67f157]: Commencement: [S. 162](https://www.legislation.gov.uk/asc/2023/3/section/162) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-fdea2cf5fcd0492c80f5a309cd67f157]: Commencement: [S. 162](https://www.legislation.gov.uk/asc/2023/3/section/162) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
 
-[^key-ae7108c4787d0146c5d2ad82b27f49fa]: Modification: [S. 162(1)(a)](https://www.legislation.gov.uk/asc/2023/3/section/162/1/a) modified (4.11.2024) by [S.I. 2016/56](https://www.legislation.gov.uk/uksi/2016/56), [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2016/56/schedule/5/paragraph/1) (as substituted by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/uksi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/924/regulation/1/2), [83](https://www.legislation.gov.uk/uksi/2024/924/regulation/83))
+[^c-ae7108c4787d0146c5d2ad82b27f49fa]: Modification: [S. 162(1)(a)](https://www.legislation.gov.uk/asc/2023/3/section/162/1/a) modified (4.11.2024) by [S.I. 2016/56](https://www.legislation.gov.uk/uksi/2016/56), [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2016/56/schedule/5/paragraph/1) (as substituted by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/uksi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/924/regulation/1/2), [83](https://www.legislation.gov.uk/uksi/2024/924/regulation/83))

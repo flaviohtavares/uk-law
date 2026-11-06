@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Tobacco vending machines[^key-41b03fb3014edb4fce83a1666c47d891]
+## 3. Tobacco vending machines[^c-41b03fb3014edb4fce83a1666c47d891]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41b03fb3014edb4fce83a1666c47d891]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2026/18/section/3) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-41b03fb3014edb4fce83a1666c47d891]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2026/18/section/3) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

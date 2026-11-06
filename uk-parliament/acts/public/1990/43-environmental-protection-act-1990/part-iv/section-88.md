@@ -44,7 +44,7 @@ and, without prejudice to payment by any other method, payment of the fixed pena
 (6A) The amount of a fixed penalty payable in pursuance of a notice under this section—
 
 - (a) is the amount specified by a principal litter authority in relation to its area (whether the penalty is payable to that or another authority), or
-- (b)[^key-f77f14508b36f93b9a3fea97f7d015b1] if no amount is so specified, is—
+- (b)[^c-f77f14508b36f93b9a3fea97f7d015b1] if no amount is so specified, is—
   - (i) in England, £100, or
   - (ii) in Wales, £75.
 
@@ -90,7 +90,7 @@ shall be evidence of the facts stated.
 - [^c13744921]. . .
 - “**proper officer**” means the officer who has, as respects the authority, the responsibility mentioned in section 95 of the [^c13744941]Local Government (Scotland) Act 1973 (financial administration).
 
-(11)[^key-5dd3f2ae418a72eb7a2cb1d93a189d16] The appropriate person may by regulations provide that—
+(11)[^c-5dd3f2ae418a72eb7a2cb1d93a189d16] The appropriate person may by regulations provide that—
 
 - (a) an authorised officer of a litter authority must meet such conditions as may be prescribed in the regulations;
 - (b) if an authorised officer of a litter authority fails to meet any such condition, the authority must revoke the officer’s authorisation.
@@ -105,8 +105,8 @@ shall be evidence of the facts stated.
 
 (1) Where [^c18950331]. . .
 
-- (a)[^c18952941] an authorised person or a constable[^key-f1d282028c39216e56a42873278e7553] [^c18950331]. . . has reason to believe that a person has[^c18952921] committed an offence under section 87 above [^key-ac2749ff2be3d4b4291f91766272736f]...
-- (b)[^key-ac2749ff2be3d4b4291f91766272736f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c18952941] an authorised person or a constable[^c-f1d282028c39216e56a42873278e7553] [^c18950331]. . . has reason to believe that a person has[^c18952921] committed an offence under section 87 above [^c-ac2749ff2be3d4b4291f91766272736f]...
+- (b)[^c-ac2749ff2be3d4b4291f91766272736f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 he may give that person a notice offering him the opportunity of discharging any liability to conviction for that offence by payment of a fixed penalty.
 
@@ -131,13 +131,13 @@ and, without prejudice to payment by any other method, payment of the fixed pena
 
 (5A)[^c18952991] A fixed penalty payable in pursuance of a notice under this section shall be payable
 
-- (a)[^key-52b66361d0396aef2dd42cf7b95c698b] where the notice is given by an officer of a litter authority authorised as mentioned in paragraph (a) of the definition of “authorised person” in subsection (10) below, to that litter authority;
+- (a)[^c-52b66361d0396aef2dd42cf7b95c698b] where the notice is given by an officer of a litter authority authorised as mentioned in paragraph (a) of the definition of “authorised person” in subsection (10) below, to that litter authority;
 - (b) where the notice is given by an officer of Loch Lomond and The Trossachs National Park Authority authorised as mentioned in paragraph (b) of that definition, to that Authority.
 
-(6)[^c18949541] The fixed penalty payable [^c18953021]. . . in pursuance of a notice under this section shall, subject to subsection (7) below, be £80[^key-d909a254756ba7fa47986eb12838d83d]; and as respects the sums received by—
+(6)[^c18949541] The fixed penalty payable [^c18953021]. . . in pursuance of a notice under this section shall, subject to subsection (7) below, be £80[^c-d909a254756ba7fa47986eb12838d83d]; and as respects the sums received by—
 
-- (a)[^key-46ccb0fa719a61aca16e4378c0b7e50e] a litter[^c18953041] authority, those sums if received by an authority in Scotland, shall accrue to the litter authority[^c19497541]
-- (b)[^key-7270925678d827d6e09348dd957932f0] Loch Lomond and The Trossachs National Park Authority, shall accrue to that Authority.
+- (a)[^c-46ccb0fa719a61aca16e4378c0b7e50e] a litter[^c18953041] authority, those sums if received by an authority in Scotland, shall accrue to the litter authority[^c19497541]
+- (b)[^c-7270925678d827d6e09348dd957932f0] Loch Lomond and The Trossachs National Park Authority, shall accrue to that Authority.
 
 (7) The Secretary of State may by order substitute a different amount (not exceeding level 2 on the standard scale)[^c18953061] for the amount for the time being specified as the amount of the fixed penalty in subsection (6) above.
 
@@ -145,12 +145,12 @@ and, without prejudice to payment by any other method, payment of the fixed pena
 
 - (a) purports to be signed by or on behalf of—
   - (i) in England and Wales, the chief finance officer of the litter authority; or
-  - (ii) in Scotland, a proper officer[^key-be2a79f329c63ef76bd6445f75a5312f]; and
+  - (ii) in Scotland, a proper officer[^c-be2a79f329c63ef76bd6445f75a5312f]; and
 - (b) states that payment of a fixed penalty was or was not received by a date specified in the certificate,
 
 shall be evidence of the facts stated.
 
-(8A)[^key-12b7c4f8d10c741917c78ef37f490845] In subsection (8) above, “**proper officer**” means—
+(8A)[^c-12b7c4f8d10c741917c78ef37f490845] In subsection (8) above, “**proper officer**” means—
 
 - (a) in a case where a notice under this section is given as mentioned in paragraph (a) of subsection (5A) above, the officer who has, as respects the litter authority, the responsibility mentioned in section 95 of the Local Government (Scotland) Act 1973 (financial administration);
 - (b) in a case where a notice is given as mentioned in paragraph (b) of that subsection, the proper officer for that Authorityappointed under paragraph 12(3) of schedule 2 to the National Parks (Scotland) Act 2000.
@@ -171,16 +171,16 @@ shall be evidence of the facts stated.
 
 (10) In this section—
 
-- “[^key-0c6bc67df073184f2a8dc8a26097597c]**authorised person**” means—
+- “[^c-0c6bc67df073184f2a8dc8a26097597c]**authorised person**” means—
   - (a) an officer of a litter authority who is authorised in writing by the authority for the purpose of issuing notices under this section in relation to an offence under section 87 above committed in the area of the authority;
   - (b) an officer of Loch Lomond and The Trossachs National Park Authority who is authorised in writing by the Authority for the purpose of issuing notices under this section in relation to an offence under section 87 above committed in the area designated as the National Park for which the Authority is established; or
   - (c) such other persons as may be specified by order made by the Scottish Ministers.
 - “**chief finance officer**”, in relation to a litter authority, means the person having responsibility for the financial affairs of the authority;
 - [^c13744921]. . .
 - [^c13744921]. . .
-- [^key-4ecca1b0580129c58754d77f74cb52b0]...
+- [^c-4ecca1b0580129c58754d77f74cb52b0]...
 
-(10A)[^key-d7e06f592872f5772903fe4ad069c59b] The Scottish Ministers may by order make such modifications of this section as they consider necessary or expedient in connection with the specification of a person by an order under paragraph (c) of the definition of “authorised person” in subsection (10) above.
+(10A)[^c-d7e06f592872f5772903fe4ad069c59b] The Scottish Ministers may by order make such modifications of this section as they consider necessary or expedient in connection with the specification of a person by an order under paragraph (c) of the definition of “authorised person” in subsection (10) above.
 
 (10B) An order under subsection (10A) above may include—
 
@@ -205,7 +205,7 @@ shall be evidence of the facts stated.
 
 [^c18978491]: Textual amendment: S. 88(6)(6A)(6B)(7) substituted (E.W.) (16.3.2006 for certain purposes for W., 6.4.2006 for E. and 15.3.2007 in so far as not already in force for W.) for s. 88(6)(7) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2005/16/section/19/2), [108](https://www.legislation.gov.uk/ukpga/2005/16/section/108); [S.I. 2006/768](https://www.legislation.gov.uk/uksi/2006/768), [art. 3](https://www.legislation.gov.uk/uksi/2006/768/article/3); [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2) (with [art. 4(3)(a)](https://www.legislation.gov.uk/uksi/2006/795/article/4/3/a)); [S.I. 2006/2797](https://www.legislation.gov.uk/uksi/2006/2797), [art. 4(f)](https://www.legislation.gov.uk/uksi/2006/2797/article/4/f) (with [art. 10(3)(a)](https://www.legislation.gov.uk/uksi/2006/2797/article/10/3/a)); [S.I. 2007/739](https://www.legislation.gov.uk/uksi/2007/739)
 
-[^key-f77f14508b36f93b9a3fea97f7d015b1]: Textual amendment: S. 88(6A)(b) substituted (1.4.2018) by [The Environmental Offences (Fixed Penalties) (England) Regulations 2017 (S.I. 2017/1050)](https://www.legislation.gov.uk/uksi/2017/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1050/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2017/1050/regulation/6/1)
+[^c-f77f14508b36f93b9a3fea97f7d015b1]: Textual amendment: S. 88(6A)(b) substituted (1.4.2018) by [The Environmental Offences (Fixed Penalties) (England) Regulations 2017 (S.I. 2017/1050)](https://www.legislation.gov.uk/uksi/2017/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1050/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2017/1050/regulation/6/1)
 
 [^c18978501]: Textual amendment: S. 88(8A)-(8C) inserted (E.W.) (16.3.2006 for certain purposes for W., 6.4.2006 for E. and 15.3.2007 in so far as not already in force for W.) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 19(3)](https://www.legislation.gov.uk/ukpga/2005/16/section/19/3), [108](https://www.legislation.gov.uk/ukpga/2005/16/section/108); [S.I. 2006/768](https://www.legislation.gov.uk/uksi/2006/768), [art. 3](https://www.legislation.gov.uk/uksi/2006/768/article/3); [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2) (with [art. 4(3)(a)](https://www.legislation.gov.uk/uksi/2006/795/article/4/3/a)); [S.I. 2006/2797](https://www.legislation.gov.uk/uksi/2006/2797), [art. 4(f)](https://www.legislation.gov.uk/uksi/2006/2797/article/4/f) (with [art. 10(3)(a)](https://www.legislation.gov.uk/uksi/2006/2797/article/10/3/a)); [S.I. 2007/739](https://www.legislation.gov.uk/uksi/2007/739)
 
@@ -227,7 +227,7 @@ shall be evidence of the facts stated.
 
 [^c13744941]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
 
-[^key-5dd3f2ae418a72eb7a2cb1d93a189d16]: Textual amendment: [S. 88(11)-(13)](https://www.legislation.gov.uk/ukpga/1990/43/section/88/11) substituted for [s. 88(11)](https://www.legislation.gov.uk/ukpga/1990/43/section/88/11) (1.4.2023 for E.) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 68(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/68/2), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/4) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2023/381](https://www.legislation.gov.uk/uksi/2023/381), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/381/regulation/2/a)
+[^c-5dd3f2ae418a72eb7a2cb1d93a189d16]: Textual amendment: [S. 88(11)-(13)](https://www.legislation.gov.uk/ukpga/1990/43/section/88/11) substituted for [s. 88(11)](https://www.legislation.gov.uk/ukpga/1990/43/section/88/11) (1.4.2023 for E.) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 68(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/68/2), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/4) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2023/381](https://www.legislation.gov.uk/uksi/2023/381), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/381/regulation/2/a)
 
 [^c18954351]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 
@@ -235,40 +235,40 @@ shall be evidence of the facts stated.
 
 [^c18952941]: Textual amendment: Words in s. 88(1) renumbered (S.) (28.10.2004) as s. 88(1)(a) by [Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8)](https://www.legislation.gov.uk/asp/2004/8), [ss. 56(2)(c)](https://www.legislation.gov.uk/asp/2004/8/section/56/2/c), [145(2)](https://www.legislation.gov.uk/asp/2004/8/section/145/2); [S.S.I. 2004/420](https://www.legislation.gov.uk/ssi/2004/420), [art. 3](https://www.legislation.gov.uk/ssi/2004/420/article/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/420/schedule/1)
 
-[^key-f1d282028c39216e56a42873278e7553]: Textual amendment: Words in s. 88(1)(a) substituted (S.) (1.4.2015) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 11(4)(a)(i)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/11/4/a/i); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(3)](https://www.legislation.gov.uk/ssi/2014/160/article/2/3)
+[^c-f1d282028c39216e56a42873278e7553]: Textual amendment: Words in s. 88(1)(a) substituted (S.) (1.4.2015) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 11(4)(a)(i)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/11/4/a/i); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(3)](https://www.legislation.gov.uk/ssi/2014/160/article/2/3)
 
 [^c18952921]: Textual amendment: Words in s. 88(1) substituted (S.) (28.10.2004) by [Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8)](https://www.legislation.gov.uk/asp/2004/8), [ss. 56(2)(b)](https://www.legislation.gov.uk/asp/2004/8/section/56/2/b), [145(2)](https://www.legislation.gov.uk/asp/2004/8/section/145/2); [S.S.I. 2004/420](https://www.legislation.gov.uk/ssi/2004/420), [art. 3](https://www.legislation.gov.uk/ssi/2004/420/article/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/420/schedule/1)
 
-[^key-ac2749ff2be3d4b4291f91766272736f]: Textual amendment: Words in s. 88(1) repealed (S.) (1.4.2015) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 11(4)(a)(ii)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/11/4/a/ii); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(3)](https://www.legislation.gov.uk/ssi/2014/160/article/2/3)
+[^c-ac2749ff2be3d4b4291f91766272736f]: Textual amendment: Words in s. 88(1) repealed (S.) (1.4.2015) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 11(4)(a)(ii)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/11/4/a/ii); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(3)](https://www.legislation.gov.uk/ssi/2014/160/article/2/3)
 
 [^c18952971]: Textual amendment: S. 88(1A) inserted (S.) (28.10.2004) by [Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8)](https://www.legislation.gov.uk/asp/2004/8), [ss. 56(3)](https://www.legislation.gov.uk/asp/2004/8/section/56/3), [145(2)](https://www.legislation.gov.uk/asp/2004/8/section/145/2); [S.S.I. 2004/420](https://www.legislation.gov.uk/ssi/2004/420), [art. 3](https://www.legislation.gov.uk/ssi/2004/420/article/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/420/schedule/1)
 
 [^c18952991]: Textual amendment: S. 88(5A) inserted (S.) (28.10.2004) by [Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8)](https://www.legislation.gov.uk/asp/2004/8), [ss. 56(4)](https://www.legislation.gov.uk/asp/2004/8/section/56/4), [145(2)](https://www.legislation.gov.uk/asp/2004/8/section/145/2); [S.S.I. 2004/420](https://www.legislation.gov.uk/ssi/2004/420), [art. 3](https://www.legislation.gov.uk/ssi/2004/420/article/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/420/schedule/1)
 
-[^key-52b66361d0396aef2dd42cf7b95c698b]: Textual amendment: S. 88(5A)(a)(b) substituted for words (1.4.2015) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 11(4)(b)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/11/4/b); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(3)](https://www.legislation.gov.uk/ssi/2014/160/article/2/3)
+[^c-52b66361d0396aef2dd42cf7b95c698b]: Textual amendment: S. 88(5A)(a)(b) substituted for words (1.4.2015) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 11(4)(b)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/11/4/b); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(3)](https://www.legislation.gov.uk/ssi/2014/160/article/2/3)
 
 [^c18949541]: Textual amendment: By [The Litter and Dog Fouling (Fixed Penalty) (Wales) Order 2004 (S.I. 2004/909)](https://www.legislation.gov.uk/uksi/2004/909), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/909/article/2/b), it is provided (W.) (1.4.2004) that any surviving reference to £25 in s. 88(6) is hereby repealed
 
 [^c18953021]: Textual amendment: Words in s. 88(6) repealed (S.) (28.10.2004) by [Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8)](https://www.legislation.gov.uk/asp/2004/8), [ss. 56(5)(a)](https://www.legislation.gov.uk/asp/2004/8/section/56/5/a), [145(2)](https://www.legislation.gov.uk/asp/2004/8/section/145/2); [S.S.I. 2004/420](https://www.legislation.gov.uk/ssi/2004/420), [art. 3](https://www.legislation.gov.uk/ssi/2004/420/article/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/420/schedule/1)
 
-[^key-d909a254756ba7fa47986eb12838d83d]: Textual amendment: Sum in s. 88(6) substituted (S.) (1.4.2014) by [The Litter (Fixed Penalties) (Scotland) Order 2013 (S.S.I. 2013/315)](https://www.legislation.gov.uk/ssi/2013/315), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/315/article/1/1), [3(b)](https://www.legislation.gov.uk/ssi/2013/315/article/3/b)
+[^c-d909a254756ba7fa47986eb12838d83d]: Textual amendment: Sum in s. 88(6) substituted (S.) (1.4.2014) by [The Litter (Fixed Penalties) (Scotland) Order 2013 (S.S.I. 2013/315)](https://www.legislation.gov.uk/ssi/2013/315), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/315/article/1/1), [3(b)](https://www.legislation.gov.uk/ssi/2013/315/article/3/b)
 
-[^key-46ccb0fa719a61aca16e4378c0b7e50e]: Textual amendment: Words in s. 88(6) renumbered as s. 88(6)(a) (S.) (1.4.2015) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 11(4)(c)(i)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/11/4/c/i); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(3)](https://www.legislation.gov.uk/ssi/2014/160/article/2/3)
+[^c-46ccb0fa719a61aca16e4378c0b7e50e]: Textual amendment: Words in s. 88(6) renumbered as s. 88(6)(a) (S.) (1.4.2015) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 11(4)(c)(i)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/11/4/c/i); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(3)](https://www.legislation.gov.uk/ssi/2014/160/article/2/3)
 
 [^c18953041]: Textual amendment: Words in s. 88(6) substituted (S.) (28.10.2004) by [Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8)](https://www.legislation.gov.uk/asp/2004/8), [ss. 56(5)(b)](https://www.legislation.gov.uk/asp/2004/8/section/56/5/b), [145(2)](https://www.legislation.gov.uk/asp/2004/8/section/145/2); [S.S.I. 2004/420](https://www.legislation.gov.uk/ssi/2004/420), [art. 3](https://www.legislation.gov.uk/ssi/2004/420/article/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/420/schedule/1)
 
 [^c19497541]: Textual amendment: Words in s. 88(6)(b) substituted (S.) (10.3.2008) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 80](https://www.legislation.gov.uk/asp/2007/6/section/80), [84](https://www.legislation.gov.uk/asp/2007/6/section/84), [Sch. para. 8(b)](https://www.legislation.gov.uk/asp/2007/6/schedule/paragraph/8/b); [S.S.I. 2008/42](https://www.legislation.gov.uk/ssi/2008/42), [art. 3(1)](https://www.legislation.gov.uk/ssi/2008/42/article/3/1), [Sch.](https://www.legislation.gov.uk/ssi/2008/42/schedule)
 
-[^key-7270925678d827d6e09348dd957932f0]: Textual amendment: S. 88(6)(b) inserted (S.) (1.4.2015) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 11(4)(c)(ii)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/11/4/c/ii); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(3)](https://www.legislation.gov.uk/ssi/2014/160/article/2/3)
+[^c-7270925678d827d6e09348dd957932f0]: Textual amendment: S. 88(6)(b) inserted (S.) (1.4.2015) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 11(4)(c)(ii)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/11/4/c/ii); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(3)](https://www.legislation.gov.uk/ssi/2014/160/article/2/3)
 
 [^c18953061]: Textual amendment: Words in s. 88(7) inserted (S.) (28.10.2004) by [Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8)](https://www.legislation.gov.uk/asp/2004/8), [ss. 56(6)](https://www.legislation.gov.uk/asp/2004/8/section/56/6), [145(2)](https://www.legislation.gov.uk/asp/2004/8/section/145/2); [S.S.I. 2004/420](https://www.legislation.gov.uk/ssi/2004/420), [art. 3](https://www.legislation.gov.uk/ssi/2004/420/article/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/420/schedule/1)
 
-[^key-be2a79f329c63ef76bd6445f75a5312f]: Textual amendment: Words in s. 88(8)(a)(ii) substituted (S.) (1.4.2015) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 11(4)(d)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/11/4/d); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(3)](https://www.legislation.gov.uk/ssi/2014/160/article/2/3)
+[^c-be2a79f329c63ef76bd6445f75a5312f]: Textual amendment: Words in s. 88(8)(a)(ii) substituted (S.) (1.4.2015) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 11(4)(d)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/11/4/d); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(3)](https://www.legislation.gov.uk/ssi/2014/160/article/2/3)
 
-[^key-12b7c4f8d10c741917c78ef37f490845]: Textual amendment: S. 88(8A)-(8D) inserted (S.) (1.4.2015) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 11(4)(e)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/11/4/e); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(3)](https://www.legislation.gov.uk/ssi/2014/160/article/2/3)
+[^c-12b7c4f8d10c741917c78ef37f490845]: Textual amendment: S. 88(8A)-(8D) inserted (S.) (1.4.2015) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 11(4)(e)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/11/4/e); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(3)](https://www.legislation.gov.uk/ssi/2014/160/article/2/3)
 
-[^key-0c6bc67df073184f2a8dc8a26097597c]: Textual amendment: Words in s. 88(10) substituted (S.) (1.4.2015) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 11(4)(f)(i)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/11/4/f/i); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(3)](https://www.legislation.gov.uk/ssi/2014/160/article/2/3)
+[^c-0c6bc67df073184f2a8dc8a26097597c]: Textual amendment: Words in s. 88(10) substituted (S.) (1.4.2015) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 11(4)(f)(i)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/11/4/f/i); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(3)](https://www.legislation.gov.uk/ssi/2014/160/article/2/3)
 
-[^key-4ecca1b0580129c58754d77f74cb52b0]: Textual amendment: Words in s. 88(10) repealed (S.) (1.4.2015) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 11(4)(f)(ii)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/11/4/f/ii); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(3)](https://www.legislation.gov.uk/ssi/2014/160/article/2/3)
+[^c-4ecca1b0580129c58754d77f74cb52b0]: Textual amendment: Words in s. 88(10) repealed (S.) (1.4.2015) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 11(4)(f)(ii)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/11/4/f/ii); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(3)](https://www.legislation.gov.uk/ssi/2014/160/article/2/3)
 
-[^key-d7e06f592872f5772903fe4ad069c59b]: Textual amendment: S. 88(10A)(10B) inserted (S.) (1.4.2015) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 11(4)(g)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/11/4/g); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(3)](https://www.legislation.gov.uk/ssi/2014/160/article/2/3)
+[^c-d7e06f592872f5772903fe4ad069c59b]: Textual amendment: S. 88(10A)(10B) inserted (S.) (1.4.2015) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 11(4)(g)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/11/4/g); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(3)](https://www.legislation.gov.uk/ssi/2014/160/article/2/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Advance information about railway and shipping closures.[^key-9e49c38b93b2ced30512eaecb66abc1a]
+## 54. Advance information about railway and shipping closures.[^c-9e49c38b93b2ced30512eaecb66abc1a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e49c38b93b2ced30512eaecb66abc1a]: Textual amendment: S. 54 omitted (15.7.2003) by virtue of [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 2(4)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/2/4)
+[^c-9e49c38b93b2ced30512eaecb66abc1a]: Textual amendment: S. 54 omitted (15.7.2003) by virtue of [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 2(4)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/2/4)

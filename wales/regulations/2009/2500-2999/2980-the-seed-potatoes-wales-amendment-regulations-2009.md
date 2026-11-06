@@ -31,7 +31,7 @@ summary: ''
 
 SEEDS, WALES
 
-The Seed Potatoes (Wales) (Amendment) Regulations 2009 (revoked)[^key-b2adcf6c1d12b344187afcc61ac037d1]
+The Seed Potatoes (Wales) (Amendment) Regulations 2009 (revoked)[^c-b2adcf6c1d12b344187afcc61ac037d1]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 15 December 2009
 
-[^key-b2adcf6c1d12b344187afcc61ac037d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b2adcf6c1d12b344187afcc61ac037d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-b2adcf6c1d12b344187afcc61ac037d1]
+## 1. Title, application and commencement[^c-b2adcf6c1d12b344187afcc61ac037d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Seed Potatoes (Wales) Regulations 2006[^key-b2adcf6c1d12b344187afcc61ac037d1]
+## 2. Amendments to the Seed Potatoes (Wales) Regulations 2006[^c-b2adcf6c1d12b344187afcc61ac037d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b2adcf6c1d12b344187afcc61ac037d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b2adcf6c1d12b344187afcc61ac037d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b2adcf6c1d12b344187afcc61ac037d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b2adcf6c1d12b344187afcc61ac037d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b2adcf6c1d12b344187afcc61ac037d1]: Textual amendment: Regulations revoked (29.2.2016) by [The Seed Potatoes (Wales) Regulations 2016 (S.I. 2016/106)](https://www.legislation.gov.uk/uksi/2016/106), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/106/regulation/1/2), [25(c)](https://www.legislation.gov.uk/uksi/2016/106/regulation/25/c)
+[^c-b2adcf6c1d12b344187afcc61ac037d1]: Textual amendment: Regulations revoked (29.2.2016) by [The Seed Potatoes (Wales) Regulations 2016 (S.I. 2016/106)](https://www.legislation.gov.uk/uksi/2016/106), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/106/regulation/1/2), [25(c)](https://www.legislation.gov.uk/uksi/2016/106/regulation/25/c)

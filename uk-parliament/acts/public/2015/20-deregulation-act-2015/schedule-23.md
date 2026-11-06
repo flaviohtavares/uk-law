@@ -265,9 +265,9 @@ Section 107
 
 **Not yet in force.**
 
-**35.**[^key-afab75be2b29f275b9b99c9d94786766] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-afab75be2b29f275b9b99c9d94786766] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**36.**[^key-3a157cfaba862930d1584a0eafa43b24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-3a157cfaba862930d1584a0eafa43b24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Animal Health Act 1981 (c. 22)
 
@@ -289,7 +289,7 @@ Section 107
 
 **Not yet in force.**
 
-**41.**[^key-eec76ccaff9e00092082d05077c7630b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41.**[^c-eec76ccaff9e00092082d05077c7630b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Coal and Other Mines (Horses) Order (S.I. 1956/1777)
 
@@ -350,8 +350,8 @@ Section 107
 
 ## Annotations
 
-[^key-afab75be2b29f275b9b99c9d94786766]: Textual amendment: [Sch. 23 para. 35](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/35) omitted (1.10.2018) by virtue of [The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486)](https://www.legislation.gov.uk/uksi/2018/486), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2018/486/regulation/1/1/b), [Sch. 9 para. 16](https://www.legislation.gov.uk/uksi/2018/486/schedule/9/paragraph/16) (with [reg. 27](https://www.legislation.gov.uk/uksi/2018/486/regulation/27))
+[^c-afab75be2b29f275b9b99c9d94786766]: Textual amendment: [Sch. 23 para. 35](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/35) omitted (1.10.2018) by virtue of [The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486)](https://www.legislation.gov.uk/uksi/2018/486), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2018/486/regulation/1/1/b), [Sch. 9 para. 16](https://www.legislation.gov.uk/uksi/2018/486/schedule/9/paragraph/16) (with [reg. 27](https://www.legislation.gov.uk/uksi/2018/486/regulation/27))
 
-[^key-3a157cfaba862930d1584a0eafa43b24]: Textual amendment: [Sch. 23 para. 36](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/36) omitted (1.10.2018) by virtue of [The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486)](https://www.legislation.gov.uk/uksi/2018/486), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2018/486/regulation/1/1/b), [Sch. 9 para. 16](https://www.legislation.gov.uk/uksi/2018/486/schedule/9/paragraph/16) (with [reg. 27](https://www.legislation.gov.uk/uksi/2018/486/regulation/27))
+[^c-3a157cfaba862930d1584a0eafa43b24]: Textual amendment: [Sch. 23 para. 36](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/36) omitted (1.10.2018) by virtue of [The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486)](https://www.legislation.gov.uk/uksi/2018/486), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2018/486/regulation/1/1/b), [Sch. 9 para. 16](https://www.legislation.gov.uk/uksi/2018/486/schedule/9/paragraph/16) (with [reg. 27](https://www.legislation.gov.uk/uksi/2018/486/regulation/27))
 
-[^key-eec76ccaff9e00092082d05077c7630b]: Textual amendment: [Sch. 23 para. 41](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/41) omitted (1.10.2018) by virtue of [The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486)](https://www.legislation.gov.uk/uksi/2018/486), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2018/486/regulation/1/1/b), [Sch. 9 para. 16](https://www.legislation.gov.uk/uksi/2018/486/schedule/9/paragraph/16) (with [reg. 27](https://www.legislation.gov.uk/uksi/2018/486/regulation/27))
+[^c-eec76ccaff9e00092082d05077c7630b]: Textual amendment: [Sch. 23 para. 41](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/41) omitted (1.10.2018) by virtue of [The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486)](https://www.legislation.gov.uk/uksi/2018/486), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2018/486/regulation/1/1/b), [Sch. 9 para. 16](https://www.legislation.gov.uk/uksi/2018/486/schedule/9/paragraph/16) (with [reg. 27](https://www.legislation.gov.uk/uksi/2018/486/regulation/27))

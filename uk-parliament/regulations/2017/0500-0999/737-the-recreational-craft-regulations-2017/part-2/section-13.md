@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Duty of manufacturers to ensure products are labelled[^key-f8543f21757554f20b2b53bcfa1eb821]
+## 13. Duty of manufacturers to ensure products are labelled[^c-f8543f21757554f20b2b53bcfa1eb821]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8543f21757554f20b2b53bcfa1eb821]: Commencement: Reg. 13 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-f8543f21757554f20b2b53bcfa1eb821]: Commencement: Reg. 13 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

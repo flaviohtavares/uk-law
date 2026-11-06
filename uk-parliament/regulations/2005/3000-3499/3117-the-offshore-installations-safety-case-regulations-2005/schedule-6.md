@@ -71,7 +71,7 @@ Regulation 17
 - (a) particulars of—
   - (i) the meteorological and oceanographic conditions to which that installation or, as the case may be, vessel may foreseeably be subjected;
   - (ii) the depth of water; and
-  - (iii) the properties of the bed of internal waters[^key-ed9d17e9344a6a9795f4b7252a96dcf6] and subsoil
+  - (iii) the properties of the bed of internal waters[^c-ed9d17e9344a6a9795f4b7252a96dcf6] and subsoil
 
   at the location at which the well operation will be carried out; and
 - (b) a description of how the well operator and—
@@ -82,4 +82,4 @@ Regulation 17
 
 ## Annotations
 
-[^key-ed9d17e9344a6a9795f4b7252a96dcf6]: Textual amendment: Words in Regulations substituted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/3), [Sch. 13 para. 34(3)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/3) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 13 para. 34(4)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/4), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-ed9d17e9344a6a9795f4b7252a96dcf6]: Textual amendment: Words in Regulations substituted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/3), [Sch. 13 para. 34(3)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/3) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 13 para. 34(4)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/4), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))

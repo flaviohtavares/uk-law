@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 117. Claim for payment of pension credit member’s pension[^key-b7214e484dce4866fd2978aab5f0948e]
+## 117. Claim for payment of pension credit member’s pension[^c-b7214e484dce4866fd2978aab5f0948e]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7214e484dce4866fd2978aab5f0948e]: Commencement: Reg. 117 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-b7214e484dce4866fd2978aab5f0948e]: Commencement: Reg. 117 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

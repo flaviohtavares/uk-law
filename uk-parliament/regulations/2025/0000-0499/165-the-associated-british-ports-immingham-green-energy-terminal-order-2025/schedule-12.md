@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 12 — LAND IN WHICH ONLY NEW RIGHTS AND RESTRICTIVE COVENANTS, ETC. MAY BE ACQUIRED[^key-aa8d5c5cf24063837afddcb2b6f8b424]
+## SCHEDULE 12 — LAND IN WHICH ONLY NEW RIGHTS AND RESTRICTIVE COVENANTS, ETC. MAY BE ACQUIRED[^c-aa8d5c5cf24063837afddcb2b6f8b424]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ Article 24
 
 ## Annotations
 
-[^key-aa8d5c5cf24063837afddcb2b6f8b424]: Commencement: Sch. 12 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-aa8d5c5cf24063837afddcb2b6f8b424]: Commencement: Sch. 12 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

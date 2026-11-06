@@ -47,7 +47,7 @@ In accordance with section 40(5) of that Act, a draft of this instrument was lai
 
 Accordingly, the Secretary of State, in exercise of the powers conferred by sections 27 to 32, 36 and 40(1) of the Energy Act 2013, makes the following Regulations:
 
-## 1. Citation, commencement, application and interpretation[^key-def71321ece424454ca787a83d585bb8]
+## 1. Citation, commencement, application and interpretation[^c-def71321ece424454ca787a83d585bb8]
 
 (1) These Regulations may be cited as the Electricity Capacity (Amendment etc.) (Coronavirus) Regulations 2020.
 
@@ -61,17 +61,17 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 - “capacity auction” has the meaning given in regulation 2(1) of the Principal Regulations; and
 - “Principal Regulations” means the Electricity Capacity Regulations 2014[^f00002].
 
-## 2. Amendments to the Principal Regulations[^key-939bdefc1838460109a2edb7126d2d54]
+## 2. Amendments to the Principal Regulations[^c-939bdefc1838460109a2edb7126d2d54]
 
 (1) The Principal Regulations are amended as set out in Schedule 1.
 
 (2) Any reference in that Schedule to a numbered regulation is to the regulation so numbered in the Principal Regulations.
 
-## 3. Amendments to the Electricity Capacity (No. 1) Regulations 2019[^key-32b302b3e1e1258599b04b44477391fd]
+## 3. Amendments to the Electricity Capacity (No. 1) Regulations 2019[^c-32b302b3e1e1258599b04b44477391fd]
 
 Omit regulations 26 and 35 (Secretary of State’s discretion: modifications) of the Electricity Capacity (No. 1) Regulations 2019[^f00003].
 
-## 4. Modifications to the application of the Principal Regulations[^key-4c91aca1156aff89034bc16e84766dd9]
+## 4. Modifications to the application of the Principal Regulations[^c-4c91aca1156aff89034bc16e84766dd9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -89,7 +89,7 @@ Regulation 2(1)
 
 ### PART 1 — Demand side response CMUs
 
-#### 1. Regulation 5 (“demand side response CMU”)[^key-9b2aa83c40cc6a3a9e71c0868503f15c]
+#### 1. Regulation 5 (“demand side response CMU”)[^c-9b2aa83c40cc6a3a9e71c0868503f15c]
 
 (1) In regulation 5(2)(a)(i), at the beginning insert “subject to paragraph (2A),”.
 
@@ -99,7 +99,7 @@ Regulation 2(1)
 
 ### PART 2 — Auction parameters
 
-#### 2. Regulation 11 (meaning of auction parameters)[^key-7f703f69a00a2b3f92292bb8c7f913a2]
+#### 2. Regulation 11 (meaning of auction parameters)[^c-7f703f69a00a2b3f92292bb8c7f913a2]
 
 (1) In regulation 11(1)(b), before “target capacity” insert “auction”.
 
@@ -111,7 +111,7 @@ Regulation 2(1)
 
   > - “auction target capacity” means, in respect of a capacity auction, the portion of the target capacity in relation to the capacity year corresponding to the delivery year for which the capacity auction is to be held which should be used for that capacity auction.
 
-#### 3. Regulation 12 (determination of auction parameters by Secretary of State)[^key-0bb62a2454df01a61eea6465d0e2d2a5]
+#### 3. Regulation 12 (determination of auction parameters by Secretary of State)[^c-0bb62a2454df01a61eea6465d0e2d2a5]
 
 (1) After regulation 12(2), insert—
 
@@ -145,7 +145,7 @@ Regulation 2(1)
 
 .
 
-#### 4. Regulation 13 (adjustment of auction parameters following prequalification)[^key-cbe0703fffd7e03d95d28851fe230dce]
+#### 4. Regulation 13 (adjustment of auction parameters following prequalification)[^c-cbe0703fffd7e03d95d28851fe230dce]
 
 (1) In regulation 13(1), at the beginning insert “Subject to paragraph (1A),”.
 
@@ -163,17 +163,17 @@ Regulation 2(1)
 
 ### PART 3 — General eligibility criteria
 
-#### 5. Regulation 15 (general eligibility criteria)[^key-9edf862a2434848b829bda4d8676dae3]
+#### 5. Regulation 15 (general eligibility criteria)[^c-9edf862a2434848b829bda4d8676dae3]
 
 In regulation 15(4)(a), for “2MW” substitute “1MW”.
 
 ### PART 4 — Long term STOR CMUs
 
-#### 6. Regulation 18 (excluded capacity: long term STOR CMUs)[^key-9ec0c9660b4810f471405eb360f07bd2]
+#### 6. Regulation 18 (excluded capacity: long term STOR CMUs)[^c-9ec0c9660b4810f471405eb360f07bd2]
 
 Omit regulation 18 (excluded capacity: long term STOR CMUs).
 
-#### 7. Regulation 19 (Regulations 16 to 18: interpretation)[^key-24fe0a587de6e48158d564dbac124270]
+#### 7. Regulation 19 (Regulations 16 to 18: interpretation)[^c-24fe0a587de6e48158d564dbac124270]
 
 (1) In the heading of regulation 19, for “to 18”, substitute “and 17”.
 
@@ -181,7 +181,7 @@ Omit regulation 18 (excluded capacity: long term STOR CMUs).
 
 ### PART 5 — Demand side response CMUs and applicant credit cover
 
-#### 8. Regulation 59 (requirement to provide applicant credit cover)[^key-e6b45e86ec0552981f7ff865c3529b39]
+#### 8. Regulation 59 (requirement to provide applicant credit cover)[^c-e6b45e86ec0552981f7ff865c3529b39]
 
 (1) In regulation 59(2)—
 
@@ -208,37 +208,37 @@ Omit regulation 18 (excluded capacity: long term STOR CMUs).
 
 ### PART 6 — Applicant credit cover provided in respect of the T-3 auction
 
-#### 9. Regulation 87C (transitory provisions: the T-3 auction)[^key-361cc8c802e47f51e192824104bcf971]
+#### 9. Regulation 87C (transitory provisions: the T-3 auction)[^c-361cc8c802e47f51e192824104bcf971]
 
 In regulation 87C(2)(c), omit paragraph (i).
 
-## SCHEDULE 2 — Modifications to application of Principal Regulations[^key-ea2d73029fe0bee017feb3eb8ac7f185]
+## SCHEDULE 2 — Modifications to application of Principal Regulations[^c-ea2d73029fe0bee017feb3eb8ac7f185]
 
 **No longer in force.**
 
 Regulation 4(1)
 
-### 1. Interpretation[^key-ea2d73029fe0bee017feb3eb8ac7f185]
+### 1. Interpretation[^c-ea2d73029fe0bee017feb3eb8ac7f185]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Termination of capacity agreements and Secretary of State’s discretion: modifications[^key-ea2d73029fe0bee017feb3eb8ac7f185]
+### 2. Termination of capacity agreements and Secretary of State’s discretion: modifications[^c-ea2d73029fe0bee017feb3eb8ac7f185]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Failure to demonstrate satisfactory performance: modifications[^key-ea2d73029fe0bee017feb3eb8ac7f185]
+### 3. Failure to demonstrate satisfactory performance: modifications[^c-ea2d73029fe0bee017feb3eb8ac7f185]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Reconsideration by Delivery Body: modifications[^key-ea2d73029fe0bee017feb3eb8ac7f185]
+### 4. Reconsideration by Delivery Body: modifications[^c-ea2d73029fe0bee017feb3eb8ac7f185]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Appeals to the Authority: modifications[^key-ea2d73029fe0bee017feb3eb8ac7f185]
+### 5. Appeals to the Authority: modifications[^c-ea2d73029fe0bee017feb3eb8ac7f185]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Review by Secretary of State: modifications[^key-ea2d73029fe0bee017feb3eb8ac7f185]
+### 6. Review by Secretary of State: modifications[^c-ea2d73029fe0bee017feb3eb8ac7f185]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -262,36 +262,36 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2013 c. 32](https://www.legislation.gov.uk/ukpga/2013/32).
 
-[^key-def71321ece424454ca787a83d585bb8]: Commencement: Reg. 1 in force at 4.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2)
+[^c-def71321ece424454ca787a83d585bb8]: Commencement: Reg. 1 in force at 4.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2014/2043](https://www.legislation.gov.uk/uksi/2014/2043); relevant amending instruments are [S.I. 2014/3354](https://www.legislation.gov.uk/uksi/2014/3354), [2015/875](https://www.legislation.gov.uk/uksi/2015/875), [2015/1974](https://www.legislation.gov.uk/uksi/2015/1974), [2016/742](https://www.legislation.gov.uk/uksi/2016/742), [2017/1053](https://www.legislation.gov.uk/uksi/2017/1053), and [2019/1139](https://www.legislation.gov.uk/uksi/2019/1139). [S.I.2019/862](https://www.legislation.gov.uk/uksi/2019/862) makes relevant modifications to the application of the Principal Regulations.
 
-[^key-939bdefc1838460109a2edb7126d2d54]: Commencement: Reg. 2 in force at 4.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2)
+[^c-939bdefc1838460109a2edb7126d2d54]: Commencement: Reg. 2 in force at 4.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2)
 
-[^key-32b302b3e1e1258599b04b44477391fd]: Commencement: Reg. 3 in force at 4.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2)
+[^c-32b302b3e1e1258599b04b44477391fd]: Commencement: Reg. 3 in force at 4.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2019/862](https://www.legislation.gov.uk/uksi/2019/862).
 
-[^key-4c91aca1156aff89034bc16e84766dd9]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/697/regulation/4) omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 24](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/24)
+[^c-4c91aca1156aff89034bc16e84766dd9]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/697/regulation/4) omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 24](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/24)
 
-[^key-9b2aa83c40cc6a3a9e71c0868503f15c]: Commencement: Sch. 1 para. 1 in force at 4.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2)
+[^c-9b2aa83c40cc6a3a9e71c0868503f15c]: Commencement: Sch. 1 para. 1 in force at 4.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2)
 
-[^key-7f703f69a00a2b3f92292bb8c7f913a2]: Commencement: Sch. 1 para. 2 in force at 4.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2)
+[^c-7f703f69a00a2b3f92292bb8c7f913a2]: Commencement: Sch. 1 para. 2 in force at 4.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2)
 
-[^key-0bb62a2454df01a61eea6465d0e2d2a5]: Commencement: Sch. 1 para. 3 in force at 4.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2)
+[^c-0bb62a2454df01a61eea6465d0e2d2a5]: Commencement: Sch. 1 para. 3 in force at 4.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2)
 
-[^key-cbe0703fffd7e03d95d28851fe230dce]: Commencement: Sch. 1 para. 4 in force at 4.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2)
+[^c-cbe0703fffd7e03d95d28851fe230dce]: Commencement: Sch. 1 para. 4 in force at 4.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2)
 
-[^key-9edf862a2434848b829bda4d8676dae3]: Commencement: Sch. 1 para. 5 in force at 4.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2)
+[^c-9edf862a2434848b829bda4d8676dae3]: Commencement: Sch. 1 para. 5 in force at 4.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2)
 
-[^key-9ec0c9660b4810f471405eb360f07bd2]: Commencement: Sch. 1 para. 6 in force at 4.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2)
+[^c-9ec0c9660b4810f471405eb360f07bd2]: Commencement: Sch. 1 para. 6 in force at 4.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2)
 
-[^key-24fe0a587de6e48158d564dbac124270]: Commencement: Sch. 1 para. 7 in force at 4.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2)
+[^c-24fe0a587de6e48158d564dbac124270]: Commencement: Sch. 1 para. 7 in force at 4.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2)
 
-[^key-e6b45e86ec0552981f7ff865c3529b39]: Commencement: Sch. 1 para. 8 in force at 4.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2)
+[^c-e6b45e86ec0552981f7ff865c3529b39]: Commencement: Sch. 1 para. 8 in force at 4.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2)
 
-[^key-361cc8c802e47f51e192824104bcf971]: Commencement: Sch. 1 para. 9 in force at 4.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2)
+[^c-361cc8c802e47f51e192824104bcf971]: Commencement: Sch. 1 para. 9 in force at 4.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2)
 
-[^key-ea2d73029fe0bee017feb3eb8ac7f185]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2020/697/schedule/2) omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 25](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/25)
+[^c-ea2d73029fe0bee017feb3eb8ac7f185]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2020/697/schedule/2) omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 25](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/25)
 
 [^f00005]: Footnote: A consolidated version of the Capacity Market Rules 2014 are at https://www.ofgem.gov.uk/publications-and-updates/publication-consolidated-capacity-market-rules-0. Copies are available from the Department for Business, Energy and Industrial Strategy, 1 Victoria Street, London, SW1H 0ET.

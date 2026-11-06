@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5E. Winding-up lump sum[^key-01851bca60742079d40afd132f077a46]
+## 5E. Winding-up lump sum[^c-01851bca60742079d40afd132f077a46]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) that worker has received a winding-up lump sum as defined in paragraph 10 of Schedule 29 to the Finance Act 2004 (winding-up lump sums) (“paragraph 10”);
 - (b) at the time the winding-up lump sum was paid, the worker was employed by the person mentioned in sub-paragraph (1)(c) of paragraph 10; and
-- (c)[^key-61276eeb018eaf6cca718eb537d89656] during the period of 12 months beginning with the date on which the winding-up lump sum was paid—
+- (c)[^c-61276eeb018eaf6cca718eb537d89656] during the period of 12 months beginning with the date on which the winding-up lump sum was paid—
   - (i) the worker has ceased to be employed and been re-employed by that person; and
   - (ii) after re-employment, either section 3(1) (automatic enrolment) or 5(1A) or (1B) (automatic re-enrolment) of the Act applies to the worker.
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-01851bca60742079d40afd132f077a46]: Textual amendment: Regs. 5B-5F inserted (1.4.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2015 (S.I. 2015/501)](https://www.legislation.gov.uk/uksi/2015/501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/501/regulation/1), [5](https://www.legislation.gov.uk/uksi/2015/501/regulation/5)
+[^c-01851bca60742079d40afd132f077a46]: Textual amendment: Regs. 5B-5F inserted (1.4.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2015 (S.I. 2015/501)](https://www.legislation.gov.uk/uksi/2015/501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/501/regulation/1), [5](https://www.legislation.gov.uk/uksi/2015/501/regulation/5)
 
-[^key-61276eeb018eaf6cca718eb537d89656]: Textual amendment: Reg. 5E(1)(c) substituted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/311)](https://www.legislation.gov.uk/uksi/2016/311), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/311/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2016/311/regulation/4/2)
+[^c-61276eeb018eaf6cca718eb537d89656]: Textual amendment: Reg. 5E(1)(c) substituted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/311)](https://www.legislation.gov.uk/uksi/2016/311), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/311/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2016/311/regulation/4/2)

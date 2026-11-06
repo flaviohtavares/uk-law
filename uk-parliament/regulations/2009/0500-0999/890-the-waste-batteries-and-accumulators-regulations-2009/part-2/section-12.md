@@ -25,7 +25,7 @@ summary: ''
 - (a) the total amount in tonnes; and
 - (b) the amount in tonnes by reference to the chemistry type,
 
-of portable batteries which that producer has placed on the market for the first time in the United Kingdom during 2009 and during any compliance period excluding any portable batteries and accumulators that have left the United Kingdom before being sold to end users[^key-dd02b068cf661c26e67580f016852156].
+of portable batteries which that producer has placed on the market for the first time in the United Kingdom during 2009 and during any compliance period excluding any portable batteries and accumulators that have left the United Kingdom before being sold to end users[^c-dd02b068cf661c26e67580f016852156].
 
 (2) A record kept under this regulation must be kept for four years from the date it is made and must be made available to the appropriate authority on demand.
 
@@ -33,4 +33,4 @@ of portable batteries which that producer has placed on the market for the first
 
 ## Annotations
 
-[^key-dd02b068cf661c26e67580f016852156]: Textual amendment: Words in reg. 12(1) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [14(4)](https://www.legislation.gov.uk/uksi/2019/188/regulation/14/4) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dd02b068cf661c26e67580f016852156]: Textual amendment: Words in reg. 12(1) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [14(4)](https://www.legislation.gov.uk/uksi/2019/188/regulation/14/4) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

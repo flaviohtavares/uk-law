@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Amendment of article 4 (meaning of “relevant service”) of the EDP Order 2005[^key-0ac177539a9722b452c47ed6d29a00aa]
+## 17. Amendment of article 4 (meaning of “relevant service”) of the EDP Order 2005[^c-0ac177539a9722b452c47ed6d29a00aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ Article 4 of the EDP Order 2005 is amended by, after paragraph (3), inserting—
 
 ## Annotations
 
-[^key-0ac177539a9722b452c47ed6d29a00aa]: Commencement: Reg. 17 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-0ac177539a9722b452c47ed6d29a00aa]: Commencement: Reg. 17 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)

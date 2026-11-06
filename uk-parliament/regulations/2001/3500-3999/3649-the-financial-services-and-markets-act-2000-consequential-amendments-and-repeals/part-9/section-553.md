@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 553. Requirements applying to policies of insurance and annuity contracts[^key-5dc2bde704ed6a278f94b52adbe3732f]
+## 553. Requirements applying to policies of insurance and annuity contracts[^c-5dc2bde704ed6a278f94b52adbe3732f]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5dc2bde704ed6a278f94b52adbe3732f]: Commencement: Art. 553 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-5dc2bde704ed6a278f94b52adbe3732f]: Commencement: Art. 553 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

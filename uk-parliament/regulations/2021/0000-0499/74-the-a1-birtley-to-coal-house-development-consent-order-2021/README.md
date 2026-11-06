@@ -45,13 +45,13 @@ The application was initially examined by a single appointed person and subseque
 
 The Panel, having considered the representations made and not withdrawn and the application together with the accompanying documents, in accordance with section 74 of the 2008 Act, has submitted a report and recommendation to the Secretary of State.
 
-The Secretary of State is satisfied in terms of section 131(4B) of the 2008 Act that (a) the order land forms part of an open space; (b) none of the order land is of any of the other descriptions in section 131(1) of the 2008 Act; and (c) the order land is being acquired for a temporary (although possibly long-lived) purpose.[^key-8bf9802f18d889072ec9b75511945a00]
+The Secretary of State is satisfied in terms of section 131(4B) of the 2008 Act that (a) the order land forms part of an open space; (b) none of the order land is of any of the other descriptions in section 131(1) of the 2008 Act; and (c) the order land is being acquired for a temporary (although possibly long-lived) purpose.[^c-8bf9802f18d889072ec9b75511945a00]
 
 The Secretary of State is further satisfied in terms of section 131(5) of the 2008 Act that (a) the order land is required in connection with the widening or drainage of an existing highway; and (b) the giving of other land in exchange for the order land is unnecessary.
 
 The Secretary of State, having considered the representations made and not withdrawn, and the report of the Panel, has decided to make an Order granting development consent for the development described in the application with modifications which in the opinion of the Secretary of State do not make any substantial changes to the proposals comprised in the application.
 
-The Secretary of State, in exercise of the powers conferred by sections 114, 115 [^c24427081], 117, 120 , 122, 131 and 132 [^key-74d6b9c6a7e08b6f6e66774ca30f55cb]... of, and paragraphs 1 to 3, 10 to 17, 19 to 23, 26, 33, 36 and 37 of Part 1 of Schedule 5 [^c24427091] to, the 2008 Act, makes the following Order—
+The Secretary of State, in exercise of the powers conferred by sections 114, 115 [^c24427081], 117, 120 , 122, 131 and 132 [^c-74d6b9c6a7e08b6f6e66774ca30f55cb]... of, and paragraphs 1 to 3, 10 to 17, 19 to 23, 26, 33, 36 and 37 of Part 1 of Schedule 5 [^c24427091] to, the 2008 Act, makes the following Order—
 
 ## Contents
 
@@ -183,10 +183,10 @@ A copy of the plans, engineering drawings and sections, the book of reference, t
 
 [^c24427071]: Marginal citation: [S.I. 2010/103](https://www.legislation.gov.uk/uksi/2010/103), amended by [S.I. 2012/635](https://www.legislation.gov.uk/uksi/2012/635).
 
-[^key-8bf9802f18d889072ec9b75511945a00]: Textual amendment: Words in [Preamble](https://www.legislation.gov.uk/uksi/2021/74/introduction) inserted (1.5.2021) by [The A1 Birtley to Coal House Development Consent (Correction) Order 2021 (S.I. 2021/551)](https://www.legislation.gov.uk/uksi/2021/551), [art. 1](https://www.legislation.gov.uk/uksi/2021/551/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/551/schedule)
+[^c-8bf9802f18d889072ec9b75511945a00]: Textual amendment: Words in [Preamble](https://www.legislation.gov.uk/uksi/2021/74/introduction) inserted (1.5.2021) by [The A1 Birtley to Coal House Development Consent (Correction) Order 2021 (S.I. 2021/551)](https://www.legislation.gov.uk/uksi/2021/551), [art. 1](https://www.legislation.gov.uk/uksi/2021/551/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/551/schedule)
 
 [^c24427081]: Marginal citation: Section 115 was amended by section 160 of the [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 
-[^key-74d6b9c6a7e08b6f6e66774ca30f55cb]: Textual amendment: Words in [Preamble](https://www.legislation.gov.uk/uksi/2021/74/introduction) omitted (1.5.2021) by virtue of [The A1 Birtley to Coal House Development Consent (Correction) Order 2021 (S.I. 2021/551)](https://www.legislation.gov.uk/uksi/2021/551), [art. 1](https://www.legislation.gov.uk/uksi/2021/551/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/551/schedule)
+[^c-74d6b9c6a7e08b6f6e66774ca30f55cb]: Textual amendment: Words in [Preamble](https://www.legislation.gov.uk/uksi/2021/74/introduction) omitted (1.5.2021) by virtue of [The A1 Birtley to Coal House Development Consent (Correction) Order 2021 (S.I. 2021/551)](https://www.legislation.gov.uk/uksi/2021/551), [art. 1](https://www.legislation.gov.uk/uksi/2021/551/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/551/schedule)
 
 [^c24427091]: Marginal citation: Schedule 5 was amended by paragraph 71 of Schedule 13 of the Localism Act and sections 112(1) and 321 of, and paragraph 4 of Schedule 8 and Part 2 of Schedule 22 to, the [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23).

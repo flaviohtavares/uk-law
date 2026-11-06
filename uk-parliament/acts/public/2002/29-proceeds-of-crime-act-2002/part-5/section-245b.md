@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 245B. Variation and setting aside of order[^key-a996036f14dbbbe93393716ab95ec6e3]
+## 245B. Variation and setting aside of order[^c-a996036f14dbbbe93393716ab95ec6e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a996036f14dbbbe93393716ab95ec6e3]: Textual amendment: Ss. 245A-245D and cross-heading inserted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 98(1)](https://www.legislation.gov.uk/ukpga/2005/15/section/98/1), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8); [S.I. 2005/3136](https://www.legislation.gov.uk/uksi/2005/3136), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/3136/article/3/a)
+[^c-a996036f14dbbbe93393716ab95ec6e3]: Textual amendment: Ss. 245A-245D and cross-heading inserted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 98(1)](https://www.legislation.gov.uk/ukpga/2005/15/section/98/1), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8); [S.I. 2005/3136](https://www.legislation.gov.uk/uksi/2005/3136), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/3136/article/3/a)

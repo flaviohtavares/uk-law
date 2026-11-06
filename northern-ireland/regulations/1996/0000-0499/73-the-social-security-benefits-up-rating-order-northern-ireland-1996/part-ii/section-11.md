@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Increase in rate of graduated retirement benefit and increments thereof[^key-012b55ee10bb952704136b89a017e8f6]
+## 11. Increase in rate of graduated retirement benefit and increments thereof[^c-012b55ee10bb952704136b89a017e8f6]
 
 *Extent: N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-012b55ee10bb952704136b89a017e8f6]: Commencement: Art. 11 in operation at 8.4.1996, see [art. 1(1)(d)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/d)
+[^c-012b55ee10bb952704136b89a017e8f6]: Commencement: Art. 11 in operation at 8.4.1996, see [art. 1(1)(d)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/d)
 
 [^f00019]: Footnote: [1966 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1966/6); sections 35 and 36 were repealed by the Social Security Act [1973 (c. 38)](https://www.legislation.gov.uk/ukpga/1973/38) but are continued in force by regulation 2 of the Social Security (Graduated Retirement Benefit) (No. 2) Regulations (Northern Ireland) 1978 ([S.R. 1978 No. 105](https://www.legislation.gov.uk/nisr/1978/105)). *See also* [S.R. 1995 No. 483](https://www.legislation.gov.uk/nisr/1995/483)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Sulphur-free fuel[^key-75378fb673e4ccac4f6b18ba6d2041a6]
+## 7. Sulphur-free fuel[^c-75378fb673e4ccac4f6b18ba6d2041a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ summary: ''
 >
 > (7) “**Sulphur-free diesel**” means gas oil the sulphur content of which does not exceed 0.001 per cent. by weight (or is nil).
 
-(3)[^key-68b8a3abbe4998232e196dc377fcfbb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-68b8a3abbe4998232e196dc377fcfbb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) For section 2A(1) of that Act (power to amend definitions) substitute—
 
@@ -89,6 +89,6 @@ summary: ''
 
 ## Annotations
 
-[^key-75378fb673e4ccac4f6b18ba6d2041a6]: Commencement: S. 7 in force at 1.9.2004, see s. 7(9)
+[^c-75378fb673e4ccac4f6b18ba6d2041a6]: Commencement: S. 7 in force at 1.9.2004, see s. 7(9)
 
-[^key-68b8a3abbe4998232e196dc377fcfbb7]: Textual amendment: S. 7(3) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 5 paras. 25(e)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/25/e/i), [26(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26/b)
+[^c-68b8a3abbe4998232e196dc377fcfbb7]: Textual amendment: S. 7(3) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 5 paras. 25(e)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/25/e/i), [26(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26/b)

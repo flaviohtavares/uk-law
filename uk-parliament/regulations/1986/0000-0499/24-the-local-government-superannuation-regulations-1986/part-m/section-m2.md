@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## M2. Transfer of certain sums from the superannuation fund[^key-c08bf5b8a37cb5f697d697f2d98c55d2]
+## M2. Transfer of certain sums from the superannuation fund[^c-c08bf5b8a37cb5f697d697f2d98c55d2]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c08bf5b8a37cb5f697d697f2d98c55d2]: Commencement: [Reg. M2](https://www.legislation.gov.uk/uksi/1986/24/regulation/M2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-c08bf5b8a37cb5f697d697f2d98c55d2]: Commencement: [Reg. M2](https://www.legislation.gov.uk/uksi/1986/24/regulation/M2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

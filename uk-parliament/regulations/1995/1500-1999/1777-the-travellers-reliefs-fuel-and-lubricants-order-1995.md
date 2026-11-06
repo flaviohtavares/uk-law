@@ -32,7 +32,7 @@ Order made by the Commissioners of Customs and Excise, laid before the House of 
 
 CUSTOMS AND EXCISE
 
-The Travellers' Reliefs (Fuel and Lubricants) Order 1995 (revoked)[^key-4e00ede02a6595f3755d5557dcd166be]
+The Travellers' Reliefs (Fuel and Lubricants) Order 1995 (revoked)[^c-4e00ede02a6595f3755d5557dcd166be]
 
 Made
 
@@ -46,34 +46,34 @@ Coming into force
 
 1st August 1995
 
-[^key-4e00ede02a6595f3755d5557dcd166be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e00ede02a6595f3755d5557dcd166be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4e00ede02a6595f3755d5557dcd166be]
+## 1. Citation and commencement[^c-4e00ede02a6595f3755d5557dcd166be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-4e00ede02a6595f3755d5557dcd166be]
+## 2. Interpretation[^c-4e00ede02a6595f3755d5557dcd166be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Relief for fuel and lubricants contained in a commercial vehicle[^key-4e00ede02a6595f3755d5557dcd166be]
+## 3. Relief for fuel and lubricants contained in a commercial vehicle[^c-4e00ede02a6595f3755d5557dcd166be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Conditions[^key-4e00ede02a6595f3755d5557dcd166be]
+## 4. Conditions[^c-4e00ede02a6595f3755d5557dcd166be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Consequential amendments[^key-4e00ede02a6595f3755d5557dcd166be]
+## 5. Consequential amendments[^c-4e00ede02a6595f3755d5557dcd166be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4e00ede02a6595f3755d5557dcd166be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e00ede02a6595f3755d5557dcd166be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4e00ede02a6595f3755d5557dcd166be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e00ede02a6595f3755d5557dcd166be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4e00ede02a6595f3755d5557dcd166be]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1995/1777) revoked (31.12.2020) by [The Excise Duties (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/14)](https://www.legislation.gov.uk/uksi/2019/14), [regs. 1](https://www.legislation.gov.uk/uksi/2019/14/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/14/regulation/4); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+[^c-4e00ede02a6595f3755d5557dcd166be]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1995/1777) revoked (31.12.2020) by [The Excise Duties (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/14)](https://www.legislation.gov.uk/uksi/2019/14), [regs. 1](https://www.legislation.gov.uk/uksi/2019/14/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/14/regulation/4); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)

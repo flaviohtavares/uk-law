@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Measures at border inspection posts[^key-736ae9fce8b64af353026f68f7ab716a]
+## 41. Measures at border inspection posts[^c-736ae9fce8b64af353026f68f7ab716a]
 
 *Extent: N.I.*
 
 (1) The Department must, if it considers it necessary to reduce the risk of the spread of avian influenza—
 
-- (a) require a veterinary inquiry to be carried out at a border control post[^key-6a4c63b62e2ef15e8f8a38133ba4a4c5] where avian influenza is suspected or has been confirmed; and
+- (a) require a veterinary inquiry to be carried out at a border control post[^c-6a4c63b62e2ef15e8f8a38133ba4a4c5] where avian influenza is suspected or has been confirmed; and
 - (b) impose (by notice served on the occupier of the border control post) such of the measures in Schedule 1 as it considers appropriate.
 
 (2) The Department must, by notice served on the occupier of the border control post, direct where birds specified in the notice are to be killed, slaughtered or isolated.
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-736ae9fce8b64af353026f68f7ab716a]: Commencement: Reg. 41 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-736ae9fce8b64af353026f68f7ab716a]: Commencement: Reg. 41 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
 
-[^key-6a4c63b62e2ef15e8f8a38133ba4a4c5]: Textual amendment: Words in [reg. 41](https://www.legislation.gov.uk/nisr/2007/68/regulation/41) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [16(3)](https://www.legislation.gov.uk/nisr/2019/227/regulation/16/3)
+[^c-6a4c63b62e2ef15e8f8a38133ba4a4c5]: Textual amendment: Words in [reg. 41](https://www.legislation.gov.uk/nisr/2007/68/regulation/41) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [16(3)](https://www.legislation.gov.uk/nisr/2019/227/regulation/16/3)

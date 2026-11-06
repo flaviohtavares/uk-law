@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Investigations: deaths and serious injuries during or after contact with the police[^key-2cabcb8c9f0a7f6a885268a6d8d5ceb7]
+## 160. Investigations: deaths and serious injuries during or after contact with the police[^c-2cabcb8c9f0a7f6a885268a6d8d5ceb7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 12 (which makes provision for the investigation of deaths and serious i
 
 ## Annotations
 
-[^key-2cabcb8c9f0a7f6a885268a6d8d5ceb7]: Commencement: [S. 160](https://www.legislation.gov.uk/ukpga/2005/15/section/160) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
+[^c-2cabcb8c9f0a7f6a885268a6d8d5ceb7]: Commencement: [S. 160](https://www.legislation.gov.uk/ukpga/2005/15/section/160) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. General transitional provision and saving[^key-cc8432ef082082aed6147cdca3af161f]
+## 31. General transitional provision and saving[^c-cc8432ef082082aed6147cdca3af161f]
 
 *Extent: E+W*
 
@@ -36,11 +36,11 @@ summary: ''
 
 (5) In this regulation—
 
-- “**the commencement date**” (“***y dyddiad cychwyn***”) means the date on which these Regulations come into force; [^key-cd43fc223c125d263b20c9cfa5a28289]...
+- “**the commencement date**” (“***y dyddiad cychwyn***”) means the date on which these Regulations come into force; [^c-cd43fc223c125d263b20c9cfa5a28289]...
 - “**contract**” (“***contract***”) includes any contract to which the 2004 Regulations applied immediately before the commencement date under which medical services were provided before the commencement date (whether or not such services continued to be provided after that date).
 
 ## Annotations
 
-[^key-cc8432ef082082aed6147cdca3af161f]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2023/953/regulation/31) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
+[^c-cc8432ef082082aed6147cdca3af161f]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2023/953/regulation/31) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
 
-[^key-cd43fc223c125d263b20c9cfa5a28289]: Textual amendment: Word in reg. 31(5) omitted (11.1.2024) by virtue of [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [15](https://www.legislation.gov.uk/wsi/2023/1421/regulation/15)
+[^c-cd43fc223c125d263b20c9cfa5a28289]: Textual amendment: Word in reg. 31(5) omitted (11.1.2024) by virtue of [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [15](https://www.legislation.gov.uk/wsi/2023/1421/regulation/15)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Technical assistance relating to gold, precious metals or diamonds[^key-cc42030796ad4f2bcd87d9cda492db3b][^key-52b92762f31ea659cb955bb0309107b1]
+## 53. Technical assistance relating to gold, precious metals or diamonds[^c-cc42030796ad4f2bcd87d9cda492db3b][^c-52b92762f31ea659cb955bb0309107b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cc42030796ad4f2bcd87d9cda492db3b]: Commencement: Reg. 53 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-cc42030796ad4f2bcd87d9cda492db3b]: Commencement: Reg. 53 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-52b92762f31ea659cb955bb0309107b1]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2019/411/regulation/53) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-52b92762f31ea659cb955bb0309107b1]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2019/411/regulation/53) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

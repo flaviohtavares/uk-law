@@ -38,10 +38,10 @@ summary: ''
 
 of 22 December 1976 laying down the standard code and rules governing the transcription into a machine-readable form of the data of the surveys of plantations of certain species of fruit trees, and laying down the boundaries of the production areas for these surveys (revoked)
 
-[^key-63bbcf96d900c52e1817f0e751628262]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-63bbcf96d900c52e1817f0e751628262]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-63bbcf96d900c52e1817f0e751628262] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-63bbcf96d900c52e1817f0e751628262] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-63bbcf96d900c52e1817f0e751628262]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/2)
+[^c-63bbcf96d900c52e1817f0e751628262]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/2)

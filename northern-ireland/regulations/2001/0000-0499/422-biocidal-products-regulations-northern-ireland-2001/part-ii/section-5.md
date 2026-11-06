@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Applications concerning new active substances[^key-15b75dbccee392414daf0447ab9d1c2f]
+## 5. Applications concerning new active substances[^c-15b75dbccee392414daf0447ab9d1c2f]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ A person who applies to the Executive for the inclusion of a new active substanc
 
 ## Annotations
 
-[^key-15b75dbccee392414daf0447ab9d1c2f]: Commencement: Reg. 5 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-15b75dbccee392414daf0447ab9d1c2f]: Commencement: Reg. 5 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

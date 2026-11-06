@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15A. Contents of service declaration: declarant with a service qualification under section 14(1A) of the 1983 Act[^key-5d2b8889d3009e6026d490424bb1a0dd]
+## 15A. Contents of service declaration: declarant with a service qualification under section 14(1A) of the 1983 Act[^c-5d2b8889d3009e6026d490424bb1a0dd]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d2b8889d3009e6026d490424bb1a0dd]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/uksi/2001/341/regulation/15A) inserted (1.6.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [ss. 21(3)](https://www.legislation.gov.uk/anaw/2020/1/section/21/3), [42(3)(a)](https://www.legislation.gov.uk/anaw/2020/1/section/42/3/a)
+[^c-5d2b8889d3009e6026d490424bb1a0dd]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/uksi/2001/341/regulation/15A) inserted (1.6.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [ss. 21(3)](https://www.legislation.gov.uk/anaw/2020/1/section/21/3), [42(3)(a)](https://www.legislation.gov.uk/anaw/2020/1/section/42/3/a)

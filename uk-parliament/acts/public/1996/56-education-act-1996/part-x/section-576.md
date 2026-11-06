@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 576. Meaning of “parent”.[^key-204172708455abbb4c2dc99c76de6ce6]
+## 576. Meaning of “parent”.[^c-204172708455abbb4c2dc99c76de6ce6]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ except that in section 499(8)[^c15254581] it only includes such a person if he i
 
 ## Annotations
 
-[^key-204172708455abbb4c2dc99c76de6ce6]: Modification: S. 576 excluded (1.1.2014) by [The Education (Information About Individual Pupils) (England) Regulations 2013 (S.I. 2013/2094)](https://www.legislation.gov.uk/uksi/2013/2094), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1), [Sch. 1 para. 18(3)](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/18/3)
+[^c-204172708455abbb4c2dc99c76de6ce6]: Modification: S. 576 excluded (1.1.2014) by [The Education (Information About Individual Pupils) (England) Regulations 2013 (S.I. 2013/2094)](https://www.legislation.gov.uk/uksi/2013/2094), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1), [Sch. 1 para. 18(3)](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/18/3)
 
 [^c15254561]: Modification: S. 576 applied (24.7.1998) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [ss. 142(10)](https://www.legislation.gov.uk/ukpga/1998/31/section/142/10), [145(4)](https://www.legislation.gov.uk/ukpga/1998/31/section/145/4) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6))
 

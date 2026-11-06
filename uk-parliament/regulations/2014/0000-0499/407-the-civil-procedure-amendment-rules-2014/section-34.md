@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**34.**[^key-5263623b3a10a51a9324ca0c2b8fedc9] In Part 74—
+**34.**[^c-5263623b3a10a51a9324ca0c2b8fedc9] In Part 74—
 
 - (a) In the table of contents, in the entry for section II, for “COUNTY COURTS” substitute “THE COUNTY COURT”.
 - (b) in rule 74.2, in paragraph (1)—
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5263623b3a10a51a9324ca0c2b8fedc9]: Commencement: [Rule 34](https://www.legislation.gov.uk/uksi/2014/407/rule/34) in force at 6.4.2014, see [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3)
+[^c-5263623b3a10a51a9324ca0c2b8fedc9]: Commencement: [Rule 34](https://www.legislation.gov.uk/uksi/2014/407/rule/34) in force at 6.4.2014, see [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3)

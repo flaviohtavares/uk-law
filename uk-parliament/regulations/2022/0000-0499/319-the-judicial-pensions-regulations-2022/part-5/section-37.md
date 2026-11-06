@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Closure of deferred member’s account after gap in pensionable service not exceeding 5 years[^key-5b81640e8255bb2d6e909d634efb1ba1]
+## 37. Closure of deferred member’s account after gap in pensionable service not exceeding 5 years[^c-5b81640e8255bb2d6e909d634efb1ba1]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b81640e8255bb2d6e909d634efb1ba1]: Commencement: Reg. 37 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-5b81640e8255bb2d6e909d634efb1ba1]: Commencement: Reg. 37 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

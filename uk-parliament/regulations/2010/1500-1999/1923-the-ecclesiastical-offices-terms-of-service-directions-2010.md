@@ -31,7 +31,7 @@ summary: ''
 
 Ecclesiastical Law, England
 
-The Ecclesiastical Offices (Terms of Service) Directions 2010 (revoked)[^key-942cf542054689b3471dcf92ee834f99]
+The Ecclesiastical Offices (Terms of Service) Directions 2010 (revoked)[^c-942cf542054689b3471dcf92ee834f99]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 1st January 2011
 
-[^key-942cf542054689b3471dcf92ee834f99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-942cf542054689b3471dcf92ee834f99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, coming into force and interpretation[^key-942cf542054689b3471dcf92ee834f99]
+## 1. Citation, coming into force and interpretation[^c-942cf542054689b3471dcf92ee834f99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Entitlement to maternity, paternity, parental and adoption leave[^key-942cf542054689b3471dcf92ee834f99]
+## 2. Entitlement to maternity, paternity, parental and adoption leave[^c-942cf542054689b3471dcf92ee834f99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Time off work for caring for dependants[^key-942cf542054689b3471dcf92ee834f99]
+## 3. Time off work for caring for dependants[^c-942cf542054689b3471dcf92ee834f99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-942cf542054689b3471dcf92ee834f99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-942cf542054689b3471dcf92ee834f99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-942cf542054689b3471dcf92ee834f99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-942cf542054689b3471dcf92ee834f99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-942cf542054689b3471dcf92ee834f99]: Textual amendment: Directions revoked (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 6(11)(a)](https://www.legislation.gov.uk/ukcm/2018/7/section/6/11/a), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3) (with [s. 6(13)](https://www.legislation.gov.uk/ukcm/2018/7/section/6/13)); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/e)
+[^c-942cf542054689b3471dcf92ee834f99]: Textual amendment: Directions revoked (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 6(11)(a)](https://www.legislation.gov.uk/ukcm/2018/7/section/6/11/a), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3) (with [s. 6(13)](https://www.legislation.gov.uk/ukcm/2018/7/section/6/13)); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/e)

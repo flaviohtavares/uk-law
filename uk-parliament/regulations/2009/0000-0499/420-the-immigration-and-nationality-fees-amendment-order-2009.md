@@ -32,7 +32,7 @@ summary: ''
 
 Immigration
 
-The Immigration and Nationality (Fees) (Amendment) Order 2009 (revoked)[^key-bce593855a3857427562b48650ffb524]
+The Immigration and Nationality (Fees) (Amendment) Order 2009 (revoked)[^c-bce593855a3857427562b48650ffb524]
 
 Made
 
@@ -40,24 +40,24 @@ Made
 
 Coming into force in accordance with article 1
 
-[^key-bce593855a3857427562b48650ffb524]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bce593855a3857427562b48650ffb524]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-bce593855a3857427562b48650ffb524]
+## 1. Citation and commencement[^c-bce593855a3857427562b48650ffb524]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-bce593855a3857427562b48650ffb524]
+## 2. Amendment[^c-bce593855a3857427562b48650ffb524]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bce593855a3857427562b48650ffb524]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bce593855a3857427562b48650ffb524]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-bce593855a3857427562b48650ffb524]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bce593855a3857427562b48650ffb524]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bce593855a3857427562b48650ffb524]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/420) ceases to have effect (6.4.2014) by virtue of [The Immigration and Nationality (Fees) Order 2011 (S.I. 2011/445)](https://www.legislation.gov.uk/uksi/2011/445), [arts. 1](https://www.legislation.gov.uk/uksi/2011/445/article/1), [9](https://www.legislation.gov.uk/uksi/2011/445/article/9)
+[^c-bce593855a3857427562b48650ffb524]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/420) ceases to have effect (6.4.2014) by virtue of [The Immigration and Nationality (Fees) Order 2011 (S.I. 2011/445)](https://www.legislation.gov.uk/uksi/2011/445), [arts. 1](https://www.legislation.gov.uk/uksi/2011/445/article/1), [9](https://www.legislation.gov.uk/uksi/2011/445/article/9)

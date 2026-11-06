@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 213. Consequential amendments[^key-9fcd9f4b468d9ecb99af5e87097ad4a9][^key-e4790e7b857285cd76be4c4ec7698274]
+## 213. Consequential amendments[^c-9fcd9f4b468d9ecb99af5e87097ad4a9][^c-e4790e7b857285cd76be4c4ec7698274]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9fcd9f4b468d9ecb99af5e87097ad4a9]: Commencement: S. 213 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-9fcd9f4b468d9ecb99af5e87097ad4a9]: Commencement: S. 213 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-e4790e7b857285cd76be4c4ec7698274]: Commencement: [S. 213](https://www.legislation.gov.uk/ukpga/2026/20/section/213) in force at 21.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/h)
+[^c-e4790e7b857285cd76be4c4ec7698274]: Commencement: [S. 213](https://www.legislation.gov.uk/ukpga/2026/20/section/213) in force at 21.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/h)

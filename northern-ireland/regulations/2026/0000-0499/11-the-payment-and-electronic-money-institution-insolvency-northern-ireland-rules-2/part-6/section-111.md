@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 111. Distribution plan[^key-c8cd8aacaf4caed1d146e14cab57f765]
+## 111. Distribution plan[^c-c8cd8aacaf4caed1d146e14cab57f765]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8cd8aacaf4caed1d146e14cab57f765]: Commencement: [Rule 111](https://www.legislation.gov.uk/nisr/2026/11/rule/111) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-c8cd8aacaf4caed1d146e14cab57f765]: Commencement: [Rule 111](https://www.legislation.gov.uk/nisr/2026/11/rule/111) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

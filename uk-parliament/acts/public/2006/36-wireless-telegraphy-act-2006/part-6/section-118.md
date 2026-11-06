@@ -32,7 +32,7 @@ summary: ''
 
 (6) The provisions capable of being extended outside the United Kingdom under—
 
-- (a)[^key-b379d61f93ec48451d47bc6906a7eb51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-b379d61f93ec48451d47bc6906a7eb51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) section 204(6) of the Broadcasting Act 1990 (c. 42),
 - (c) section 12(4) of the Intelligence Services Act 1994 (c. 13),
 - (d) section 315(2) of the Merchant Shipping Act 1995 (c. 21),
@@ -43,4 +43,4 @@ include any amendment of those provisions made by this Act.
 
 ## Annotations
 
-[^key-b379d61f93ec48451d47bc6906a7eb51]: Textual amendment: S. 118(6)(a) repealed (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/21/paragraph/2)
+[^c-b379d61f93ec48451d47bc6906a7eb51]: Textual amendment: S. 118(6)(a) repealed (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/21/paragraph/2)

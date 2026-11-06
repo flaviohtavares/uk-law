@@ -44,13 +44,13 @@ The Secretary of State, in exercise of the powers conferred by sections 250(2) a
 
 A draft of this instrument was laid before and approved by a resolution of each House of Parliament in accordance with section 250(6)(f) of the Housing Act 2004.
 
-## 1. Citation, commencement and application[^key-37791a721a7303187624621d96e8f22b]
+## 1. Citation, commencement and application[^c-37791a721a7303187624621d96e8f22b]
 
 (1) These Regulations may be cited as the Licensing of Houses in Multiple Occupation (Mandatory Conditions of Licences) (England) Regulations 2018 and come into force on 1st October 2018.
 
 (2) The amendments to the Housing Act 2004 made by regulation 2 do not apply to a licence granted before 1st October 2018.
 
-## 2. Amendment to Schedule 4 to the Housing Act 2004[^key-30b7699d0874c52293f29aeb44aa5eed]
+## 2. Amendment to Schedule 4 to the Housing Act 2004[^c-30b7699d0874c52293f29aeb44aa5eed]
 
 In Schedule 4 to the Housing Act 2004 (licences under Parts 2 and 3: mandatory conditions), after paragraph 1 insert—
 
@@ -140,8 +140,8 @@ An impact assessment has been prepared in relation to these Regulations. The ass
 
 [^f00001]: Footnote: [2004 c.34](https://www.legislation.gov.uk/ukpga/2004/34). There are amendments to section 250 and Schedule 4 which are not relevant to this instrument.
 
-[^key-37791a721a7303187624621d96e8f22b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/616/regulation/1) in force at 1.10.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/616/regulation/1/1)
+[^c-37791a721a7303187624621d96e8f22b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/616/regulation/1) in force at 1.10.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/616/regulation/1/1)
 
-[^key-30b7699d0874c52293f29aeb44aa5eed]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/616/regulation/2) in force at 1.10.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/616/regulation/1/1)
+[^c-30b7699d0874c52293f29aeb44aa5eed]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/616/regulation/2) in force at 1.10.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/616/regulation/1/1)
 
 [^f00002]: Footnote: For the definition of occupier see section 262(6) of the Housing Act [2004, c.34](https://www.legislation.gov.uk/ukpga/2004/34).

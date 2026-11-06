@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Meaning of “the Tribunal[^key-b7f08f54873be58c5fdc646c2c134480]
+## 81. Meaning of “the Tribunal[^c-b7f08f54873be58c5fdc646c2c134480]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In this Part “the Tribunal” means the First-tier Tribunal.
 
 ## Annotations
 
-[^key-b7f08f54873be58c5fdc646c2c134480]: Textual amendment: S. 81 substituted (15.2.2010) by [The Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 (S.I. 2010/21)](https://www.legislation.gov.uk/uksi/2010/21), [art. 1](https://www.legislation.gov.uk/uksi/2010/21/article/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2010/21/schedule/1/paragraph/22) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2010/21/schedule/4))
+[^c-b7f08f54873be58c5fdc646c2c134480]: Textual amendment: S. 81 substituted (15.2.2010) by [The Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 (S.I. 2010/21)](https://www.legislation.gov.uk/uksi/2010/21), [art. 1](https://www.legislation.gov.uk/uksi/2010/21/article/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2010/21/schedule/1/paragraph/22) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2010/21/schedule/4))

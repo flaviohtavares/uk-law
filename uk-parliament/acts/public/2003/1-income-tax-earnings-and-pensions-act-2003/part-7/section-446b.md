@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 446B. Charge on acquisition[^key-198fd296557cbd9940e05c1cadf0b299]
+## 446B. Charge on acquisition[^c-198fd296557cbd9940e05c1cadf0b299]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,16 +30,16 @@ summary: ''
 
 - (a) Chapter 1 of Part 3 (earnings),
 - (b) Chapter 10 of Part 3 (taxable benefits: residual liability to charge),
-- (ba)[^key-49a104999c0870f603ff7dc9cab2c7e7] section 226A (employee shareholder shares: amount treated as earnings),
+- (ba)[^c-49a104999c0870f603ff7dc9cab2c7e7] section 226A (employee shareholder shares: amount treated as earnings),
 - (c) Chapter 3 of this Part (acquisition by conversion),
 - (d) Chapter 3C of this Part (acquisition for less than market value), ...
-- (e) Chapter 5 of this Part (acquisition pursuant to securities option) , or[^key-fa25221518091face7e612223c4ece9c]
+- (e) Chapter 5 of this Part (acquisition pursuant to securities option) , or[^c-fa25221518091face7e612223c4ece9c]
 - (f) Chapter 2 of Part 7A (employment income provided through third parties)
 
 ## Annotations
 
-[^key-198fd296557cbd9940e05c1cadf0b299]: Textual amendment: Pt. 7 Ch. 3A inserted (16.4.2003 with effect in accordance with Sch. 22 para. 5(2)-(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 5(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/5/1)
+[^c-198fd296557cbd9940e05c1cadf0b299]: Textual amendment: Pt. 7 Ch. 3A inserted (16.4.2003 with effect in accordance with Sch. 22 para. 5(2)-(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 5(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/5/1)
 
-[^key-49a104999c0870f603ff7dc9cab2c7e7]: Textual amendment: S. 446B(4)(ba) inserted (1.9.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 23 paras. 8](https://www.legislation.gov.uk/ukpga/2013/29/schedule/23/paragraph/8), [38](https://www.legislation.gov.uk/ukpga/2013/29/schedule/23/paragraph/38); [S.I. 2013/1755](https://www.legislation.gov.uk/uksi/2013/1755), [art. 2](https://www.legislation.gov.uk/uksi/2013/1755/article/2)
+[^c-49a104999c0870f603ff7dc9cab2c7e7]: Textual amendment: S. 446B(4)(ba) inserted (1.9.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 23 paras. 8](https://www.legislation.gov.uk/ukpga/2013/29/schedule/23/paragraph/8), [38](https://www.legislation.gov.uk/ukpga/2013/29/schedule/23/paragraph/38); [S.I. 2013/1755](https://www.legislation.gov.uk/uksi/2013/1755), [art. 2](https://www.legislation.gov.uk/uksi/2013/1755/article/2)
 
-[^key-fa25221518091face7e612223c4ece9c]: Textual amendment: S. 446B(4)(f) and word inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 19(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/19/b)
+[^c-fa25221518091face7e612223c4ece9c]: Textual amendment: S. 446B(4)(f) and word inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 19(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/19/b)

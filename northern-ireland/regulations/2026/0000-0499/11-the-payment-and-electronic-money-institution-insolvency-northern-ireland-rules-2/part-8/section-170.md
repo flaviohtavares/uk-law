@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 170. Grounds for resignation[^key-d1b35bca1ddbb4f3df52448c21c3f971]
+## 170. Grounds for resignation[^c-d1b35bca1ddbb4f3df52448c21c3f971]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1b35bca1ddbb4f3df52448c21c3f971]: Commencement: [Rule 170](https://www.legislation.gov.uk/nisr/2026/11/rule/170) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-d1b35bca1ddbb4f3df52448c21c3f971]: Commencement: [Rule 170](https://www.legislation.gov.uk/nisr/2026/11/rule/170) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

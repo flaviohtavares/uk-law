@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Liquidity provision for deposit takers or insurance companies[^key-3ed371a1f39508aa08ea6d0f833c8386][^key-4f62ad9764661ef556f3e59485d0c157]
+## 23. Liquidity provision for deposit takers or insurance companies[^c-3ed371a1f39508aa08ea6d0f833c8386][^c-4f62ad9764661ef556f3e59485d0c157]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3ed371a1f39508aa08ea6d0f833c8386]: Commencement: S. 23 not in force at Royal Assent, see [s. 91](https://www.legislation.gov.uk/ukpga/2022/23/section/91)
+[^c-3ed371a1f39508aa08ea6d0f833c8386]: Commencement: S. 23 not in force at Royal Assent, see [s. 91](https://www.legislation.gov.uk/ukpga/2022/23/section/91)
 
-[^key-4f62ad9764661ef556f3e59485d0c157]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2022/23/section/23) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-4f62ad9764661ef556f3e59485d0c157]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2022/23/section/23) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

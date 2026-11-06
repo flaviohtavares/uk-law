@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Meaning of “plastic” and “recycled plastic” (affected by repeal, see note) , “recycled plastic” and “attributed recycled plastic”[^key-0a169d5447a6d86e0bd53eaf12167c46][^key-9d64eb17ed1f7b5b4da3486a23ff7ae2][^key-469a62b9d55a3a2abfb4e208c186572b][^key-469a62b9d55a3a2abfb4e208c186572b][^key-2c4cad8bc806294229106707b73c0831]
+## 49. Meaning of “plastic” and “recycled plastic” (affected by repeal, see note) , “recycled plastic” and “attributed recycled plastic”[^c-0a169d5447a6d86e0bd53eaf12167c46][^c-9d64eb17ed1f7b5b4da3486a23ff7ae2][^c-469a62b9d55a3a2abfb4e208c186572b][^c-469a62b9d55a3a2abfb4e208c186572b][^c-2c4cad8bc806294229106707b73c0831]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) “Recycled plastic” is plastic that has been reprocessed from recovered material by means of a chemical or manufacturing process, other than organic recycling, so that it can be used either for its original purpose or for other purposes.
 
-(2A)[^key-6298de3dd74628b287dedce22c7c4a30] “Attributed recycled plastic” is plastic to which recovered material has been attributed in accordance with a chemical recycling certification scheme.
+(2A)[^c-6298de3dd74628b287dedce22c7c4a30] “Attributed recycled plastic” is plastic to which recovered material has been attributed in accordance with a chemical recycling certification scheme.
 
 (3) “**Organic recycling**” means the aerobic or anaerobic treatment, under controlled conditions and using micro-organisms, of biodegradable matter, which produces stabilised organic residues or methane.
 
@@ -49,28 +49,28 @@ This includes returns of plastic from the distribution chain.
 
 (7) Plastic is not to be taken as recycled plastic unless it is shown that it is recycled plastic.
 
-(7A)[^key-657a7d2fbe50011d4aa826526dc12d46] Plastic is not to be taken as attributed recycled plastic unless it is shown that it is attributed recycled plastic.
+(7A)[^c-657a7d2fbe50011d4aa826526dc12d46] Plastic is not to be taken as attributed recycled plastic unless it is shown that it is attributed recycled plastic.
 
-(8) The Treasury may by regulations amend the meaning of “plastic” and “recycled plastic” *(affected by repeal, see note)*[^key-a354f03a7e6f1aab1ffb436ef9b7ab29] , “recycled plastic” and “attributed recycled plastic”.
+(8) The Treasury may by regulations amend the meaning of “plastic” and “recycled plastic” *(affected by repeal, see note)*[^c-a354f03a7e6f1aab1ffb436ef9b7ab29] , “recycled plastic” and “attributed recycled plastic”.
 
 (9) Regulations under subsection (8) may amend this Part.
 
-(10) The Commissioners may by regulations make provision about the methodology to be used, or the information or evidence required, to satisfy them that plastic is recycled plastic or attributed recycled plastic[^key-26cd9e37c8cf0087eabd407d386c3b78].
+(10) The Commissioners may by regulations make provision about the methodology to be used, or the information or evidence required, to satisfy them that plastic is recycled plastic or attributed recycled plastic[^c-26cd9e37c8cf0087eabd407d386c3b78].
 
 ## Annotations
 
-[^key-0a169d5447a6d86e0bd53eaf12167c46]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2021/26/section/49) in force at 10.12.2021 for specified purposes by [S.I. 2021/1409](https://www.legislation.gov.uk/uksi/2021/1409), [reg. 3](https://www.legislation.gov.uk/uksi/2021/1409/regulation/3)
+[^c-0a169d5447a6d86e0bd53eaf12167c46]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2021/26/section/49) in force at 10.12.2021 for specified purposes by [S.I. 2021/1409](https://www.legislation.gov.uk/uksi/2021/1409), [reg. 3](https://www.legislation.gov.uk/uksi/2021/1409/regulation/3)
 
-[^key-9d64eb17ed1f7b5b4da3486a23ff7ae2]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2021/26/section/49) in force at 1.4.2022 in so far as not already in force by [S.I. 2021/1409](https://www.legislation.gov.uk/uksi/2021/1409), [reg. 4](https://www.legislation.gov.uk/uksi/2021/1409/regulation/4)
+[^c-9d64eb17ed1f7b5b4da3486a23ff7ae2]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2021/26/section/49) in force at 1.4.2022 in so far as not already in force by [S.I. 2021/1409](https://www.legislation.gov.uk/uksi/2021/1409), [reg. 4](https://www.legislation.gov.uk/uksi/2021/1409/regulation/4)
 
-[^key-469a62b9d55a3a2abfb4e208c186572b]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2021/26/part/2) modified (1.4.2022) by [The Plastic Packaging Tax (Descriptions of Products) Regulations 2021 (S.I. 2021/1417)](https://www.legislation.gov.uk/uksi/2021/1417), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1417/regulation/1), [3-5](https://www.legislation.gov.uk/uksi/2021/1417/regulation/3)
+[^c-469a62b9d55a3a2abfb4e208c186572b]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2021/26/part/2) modified (1.4.2022) by [The Plastic Packaging Tax (Descriptions of Products) Regulations 2021 (S.I. 2021/1417)](https://www.legislation.gov.uk/uksi/2021/1417), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1417/regulation/1), [3-5](https://www.legislation.gov.uk/uksi/2021/1417/regulation/3)
 
-[^key-2c4cad8bc806294229106707b73c0831]: Textual amendment: Words in [s. 49](https://www.legislation.gov.uk/ukpga/2021/26/part/2/crossheading/interpretation-of-main-terms-etc) heading substituted (18.3.2026 for specified purposes) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 105(3)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/105/3/a), [107](https://www.legislation.gov.uk/ukpga/2026/11/section/107)
+[^c-2c4cad8bc806294229106707b73c0831]: Textual amendment: Words in [s. 49](https://www.legislation.gov.uk/ukpga/2021/26/part/2/crossheading/interpretation-of-main-terms-etc) heading substituted (18.3.2026 for specified purposes) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 105(3)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/105/3/a), [107](https://www.legislation.gov.uk/ukpga/2026/11/section/107)
 
-[^key-6298de3dd74628b287dedce22c7c4a30]: Textual amendment: [S. 49(2A)](https://www.legislation.gov.uk/ukpga/2021/26/section/49/2A) inserted (18.3.2026 for specified purposes) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 105(3)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/105/3/b), [107](https://www.legislation.gov.uk/ukpga/2026/11/section/107)
+[^c-6298de3dd74628b287dedce22c7c4a30]: Textual amendment: [S. 49(2A)](https://www.legislation.gov.uk/ukpga/2021/26/section/49/2A) inserted (18.3.2026 for specified purposes) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 105(3)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/105/3/b), [107](https://www.legislation.gov.uk/ukpga/2026/11/section/107)
 
-[^key-657a7d2fbe50011d4aa826526dc12d46]: Textual amendment: [S. 49(7A)](https://www.legislation.gov.uk/ukpga/2021/26/section/49/7A) inserted (18.3.2026 for specified purposes) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 105(3)(c)](https://www.legislation.gov.uk/ukpga/2026/11/section/105/3/c), [107](https://www.legislation.gov.uk/ukpga/2026/11/section/107)
+[^c-657a7d2fbe50011d4aa826526dc12d46]: Textual amendment: [S. 49(7A)](https://www.legislation.gov.uk/ukpga/2021/26/section/49/7A) inserted (18.3.2026 for specified purposes) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 105(3)(c)](https://www.legislation.gov.uk/ukpga/2026/11/section/105/3/c), [107](https://www.legislation.gov.uk/ukpga/2026/11/section/107)
 
-[^key-a354f03a7e6f1aab1ffb436ef9b7ab29]: Textual amendment: Words in [s. 49(8)](https://www.legislation.gov.uk/ukpga/2021/26/section/49/8) substituted (18.3.2026 for specified purposes) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 105(3)(d)](https://www.legislation.gov.uk/ukpga/2026/11/section/105/3/d), [107](https://www.legislation.gov.uk/ukpga/2026/11/section/107)
+[^c-a354f03a7e6f1aab1ffb436ef9b7ab29]: Textual amendment: Words in [s. 49(8)](https://www.legislation.gov.uk/ukpga/2021/26/section/49/8) substituted (18.3.2026 for specified purposes) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 105(3)(d)](https://www.legislation.gov.uk/ukpga/2026/11/section/105/3/d), [107](https://www.legislation.gov.uk/ukpga/2026/11/section/107)
 
-[^key-26cd9e37c8cf0087eabd407d386c3b78]: Textual amendment: Words in [s. 49(10)](https://www.legislation.gov.uk/ukpga/2021/26/section/49/10) inserted (18.3.2026 for specified purposes) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 105(3)(e)](https://www.legislation.gov.uk/ukpga/2026/11/section/105/3/e), [107](https://www.legislation.gov.uk/ukpga/2026/11/section/107)
+[^c-26cd9e37c8cf0087eabd407d386c3b78]: Textual amendment: Words in [s. 49(10)](https://www.legislation.gov.uk/ukpga/2021/26/section/49/10) inserted (18.3.2026 for specified purposes) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 105(3)(e)](https://www.legislation.gov.uk/ukpga/2026/11/section/105/3/e), [107](https://www.legislation.gov.uk/ukpga/2026/11/section/107)

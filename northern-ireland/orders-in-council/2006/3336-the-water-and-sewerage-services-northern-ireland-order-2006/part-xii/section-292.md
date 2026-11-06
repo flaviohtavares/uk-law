@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 292. The Water Appeals Commission[^c20621261][^c22549241][^c22549251][^key-8899264e50a59e889bdd1414d46552d5]
+## 292. The Water Appeals Commission[^c20621261][^c22549241][^c22549251][^c-8899264e50a59e889bdd1414d46552d5]
 
 *Extent: N.I.*
 
@@ -56,4 +56,4 @@ in a gainful profession, occupation or business if to do so would in any way be 
 
 [^c22549251]: Modification: [Art. 292](https://www.legislation.gov.uk/nisi/2006/3336/article/292) applied (6.4.2011) by [Marine Licensing (Civil Sanctions) Order (Northern Ireland) 2011 (S.R. 2011/81)](https://www.legislation.gov.uk/nisr/2011/81), [art. 28(1)](https://www.legislation.gov.uk/nisr/2011/81/article/28/1)
 
-[^key-8899264e50a59e889bdd1414d46552d5]: Modification: Arts. 292 293: transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/5) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-8899264e50a59e889bdd1414d46552d5]: Modification: Arts. 292 293: transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/5) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))

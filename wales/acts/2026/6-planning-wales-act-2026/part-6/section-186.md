@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 186. Collection and payment of CIL[^key-a11ca282f3eceb434a61fa64adeacbcb]
+## 186. Collection and payment of CIL[^c-a11ca282f3eceb434a61fa64adeacbcb]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a11ca282f3eceb434a61fa64adeacbcb]: Commencement: S. 186 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-a11ca282f3eceb434a61fa64adeacbcb]: Commencement: S. 186 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

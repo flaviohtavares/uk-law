@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**40.**[^key-bd3a530d85f267da5ea497cc254f7d4e] In section 22 (arrears of contributions charged on interest in land in England and Wales)—
+**40.**[^c-bd3a530d85f267da5ea497cc254f7d4e] In section 22 (arrears of contributions charged on interest in land in England and Wales)—
 
 - (a) after subsection (2B)[^f00043] insert—
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bd3a530d85f267da5ea497cc254f7d4e]: Commencement: Reg. 40 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-bd3a530d85f267da5ea497cc254f7d4e]: Commencement: Reg. 40 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00043]: Footnote: Section 22(2B) was inserted by [S.I. 2015/914](https://www.legislation.gov.uk/uksi/2015/914), Schedule, paragraphs 30, 32(1), (2).
 

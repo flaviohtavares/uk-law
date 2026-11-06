@@ -22,7 +22,7 @@ summary: ''
 
 Article 39
 
-### PART 1 — REMOVAL OF HEDGEROWS[^key-4134890e9d8254065115de50b194f6f1]
+### PART 1 — REMOVAL OF HEDGEROWS[^c-4134890e9d8254065115de50b194f6f1]
 
 | *(1)*<br>*Area* | *(2)*<br>*Number of hedgerow and extent of removal* |
 | --- | --- |
@@ -64,7 +64,7 @@ Article 39
 | District of North Kesteven | Removal of part of approximately 2m of hedgerow within the area identified by blue shading on figure 3.11C of the vegetation removal parameters, reference R49 |
 | District of North Kesteven | Removal of part of approximately 2m of hedgerow within the area identified by blue shading on figure 3.11E of the vegetation removal parameters, reference R50 |
 
-### PART 2 — REMOVAL OF IMPORTANT HEDGEROWS[^key-79617831dca3f729561fed281961a94e]
+### PART 2 — REMOVAL OF IMPORTANT HEDGEROWS[^c-79617831dca3f729561fed281961a94e]
 
 | *(1)*<br>*Area* | *(2)*<br>*Number of hedgerow and extent of removal* |
 | --- | --- |
@@ -84,6 +84,6 @@ Article 39
 
 ## Annotations
 
-[^key-4134890e9d8254065115de50b194f6f1]: Commencement: Sch. 12 Pt. 1 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-4134890e9d8254065115de50b194f6f1]: Commencement: Sch. 12 Pt. 1 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-79617831dca3f729561fed281961a94e]: Commencement: Sch. 12 Pt. 2 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-79617831dca3f729561fed281961a94e]: Commencement: Sch. 12 Pt. 2 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)

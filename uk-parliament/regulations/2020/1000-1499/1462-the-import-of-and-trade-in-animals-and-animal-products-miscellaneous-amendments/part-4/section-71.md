@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Power to amend transitional dates[^key-d6e7ee7ec288d636e0183781fc66a0eb]
+## 71. Power to amend transitional dates[^c-d6e7ee7ec288d636e0183781fc66a0eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d6e7ee7ec288d636e0183781fc66a0eb]: Commencement: Reg. 71 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-d6e7ee7ec288d636e0183781fc66a0eb]: Commencement: Reg. 71 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
 
 [^c24364541]: Marginal citation: [S.I. 2011/1197](https://www.legislation.gov.uk/uksi/2011/1197), amended by [S.I. 2012/2897](https://www.legislation.gov.uk/uksi/2012/2897), 2013/2996, 2014/3158, 2018/575 and 1037, 2019/1488 and 2020/109.

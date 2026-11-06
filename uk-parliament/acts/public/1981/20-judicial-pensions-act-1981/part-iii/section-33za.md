@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33ZA. Contributions towards cost of certain judicial pensions etc[^key-9533c05ee08af0c9dcdd1c753b5a1598]
+## 33ZA. Contributions towards cost of certain judicial pensions etc[^c-9533c05ee08af0c9dcdd1c753b5a1598]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9533c05ee08af0c9dcdd1c753b5a1598]: Textual amendment: S. 33ZA inserted (3.1.2012) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [s. 38(4)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/4), [Sch. 5 para. 2(3)](https://www.legislation.gov.uk/ukpga/2011/19/schedule/5/paragraph/2/3); [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(j)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/j)
+[^c-9533c05ee08af0c9dcdd1c753b5a1598]: Textual amendment: S. 33ZA inserted (3.1.2012) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [s. 38(4)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/4), [Sch. 5 para. 2(3)](https://www.legislation.gov.uk/ukpga/2011/19/schedule/5/paragraph/2/3); [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(j)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/j)

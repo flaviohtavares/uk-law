@@ -37,12 +37,12 @@ concerning the position of the European Union regarding draft Decision 1/2003 an
 
 (2010/308/EU) (revoked)
 
-[^key-370083be1c654ca834914355d61ab2d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-370083be1c654ca834914355d61ab2d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Sole Article.**[^key-370083be1c654ca834914355d61ab2d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Sole Article.**[^c-370083be1c654ca834914355d61ab2d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-370083be1c654ca834914355d61ab2d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-370083be1c654ca834914355d61ab2d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-370083be1c654ca834914355d61ab2d0]: Textual amendment: Decision revoked (31.12.2020) by The Common Rules for Access to the [International Market for Coach and Bus Services (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/741)](https://www.legislation.gov.uk/uksi/2019/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/741/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2019/741/regulation/11/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-370083be1c654ca834914355d61ab2d0]: Textual amendment: Decision revoked (31.12.2020) by The Common Rules for Access to the [International Market for Coach and Bus Services (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/741)](https://www.legislation.gov.uk/uksi/2019/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/741/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2019/741/regulation/11/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

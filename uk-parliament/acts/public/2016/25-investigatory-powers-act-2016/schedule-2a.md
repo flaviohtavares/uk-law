@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 2A — Specified public authorities for the purposes of section 12[^key-608b2a597d790ed7ec0c553cca0fa21c]
+## Schedule 2A — Specified public authorities for the purposes of section 12[^c-608b2a597d790ed7ec0c553cca0fa21c]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In this Schedule “**local authority**” has the same meaning as in Part 3 (se
 
 ## Annotations
 
-[^key-608b2a597d790ed7ec0c553cca0fa21c]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/ukpga/2016/25/schedule/2A) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 14(9)](https://www.legislation.gov.uk/ukpga/2024/9/section/14/9), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/n)
+[^c-608b2a597d790ed7ec0c553cca0fa21c]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/ukpga/2016/25/schedule/2A) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 14(9)](https://www.legislation.gov.uk/ukpga/2024/9/section/14/9), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/n)

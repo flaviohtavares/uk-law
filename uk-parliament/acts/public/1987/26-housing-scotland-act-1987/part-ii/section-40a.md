@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40A. Meaning of homelessness and threatened with homelessness[^key-42d18f74fb74e1fffb5aba5ff2281cd5]
+## 40A. Meaning of homelessness and threatened with homelessness[^c-42d18f74fb74e1fffb5aba5ff2281cd5]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42d18f74fb74e1fffb5aba5ff2281cd5]: Textual amendment: S. 40A inserted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 52(11)](https://www.legislation.gov.uk/asp/2025/13/section/52/11), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-42d18f74fb74e1fffb5aba5ff2281cd5]: Textual amendment: S. 40A inserted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 52(11)](https://www.legislation.gov.uk/asp/2025/13/section/52/11), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

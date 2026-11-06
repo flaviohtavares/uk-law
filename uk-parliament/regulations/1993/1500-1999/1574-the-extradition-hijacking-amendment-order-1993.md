@@ -28,7 +28,7 @@ This Statutory Instrument has been printed to correct an error in S.I. 1992/3200
 
 EXTRADITION
 
-The Extradition (Hijacking) (Amendment) Order 1993 (revoked)[^key-4e0e6e7f87caa0ce3fc341d95b7e19f7]
+The Extradition (Hijacking) (Amendment) Order 1993 (revoked)[^c-4e0e6e7f87caa0ce3fc341d95b7e19f7]
 
 Made
 
@@ -48,24 +48,24 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-4e0e6e7f87caa0ce3fc341d95b7e19f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e0e6e7f87caa0ce3fc341d95b7e19f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-4e0e6e7f87caa0ce3fc341d95b7e19f7]
+## 1.[^c-4e0e6e7f87caa0ce3fc341d95b7e19f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-4e0e6e7f87caa0ce3fc341d95b7e19f7]
+## 2.[^c-4e0e6e7f87caa0ce3fc341d95b7e19f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4e0e6e7f87caa0ce3fc341d95b7e19f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e0e6e7f87caa0ce3fc341d95b7e19f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4e0e6e7f87caa0ce3fc341d95b7e19f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e0e6e7f87caa0ce3fc341d95b7e19f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4e0e6e7f87caa0ce3fc341d95b7e19f7]: Textual amendment: Order revoked (1.9.1997) by [The Extradition (Hijacking) Order 1997 (S.I. 1997/1763)](https://www.legislation.gov.uk/uksi/1997/1763), [art. 4](https://www.legislation.gov.uk/uksi/1997/1763/article/4) \[Editorial note: No historical versions of this S.I.have been created prior to its revocation. Select the 'Original (As Made) version from the left-hand menu to see the document content as it originally stood\]
+[^c-4e0e6e7f87caa0ce3fc341d95b7e19f7]: Textual amendment: Order revoked (1.9.1997) by [The Extradition (Hijacking) Order 1997 (S.I. 1997/1763)](https://www.legislation.gov.uk/uksi/1997/1763), [art. 4](https://www.legislation.gov.uk/uksi/1997/1763/article/4) \[Editorial note: No historical versions of this S.I.have been created prior to its revocation. Select the 'Original (As Made) version from the left-hand menu to see the document content as it originally stood\]

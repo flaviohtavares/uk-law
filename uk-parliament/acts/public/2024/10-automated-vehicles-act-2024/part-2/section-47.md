@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. User-in-charge not liable for manner of driving[^key-fa9ca13b7c2df557c5fea946155ae6f6]
+## 47. User-in-charge not liable for manner of driving[^c-fa9ca13b7c2df557c5fea946155ae6f6]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa9ca13b7c2df557c5fea946155ae6f6]: Commencement: S. 47 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-fa9ca13b7c2df557c5fea946155ae6f6]: Commencement: S. 47 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

@@ -60,13 +60,13 @@ The Secretary of State has been designated for the purposes of section 2(2) of t
 (2) Parts 1 to 9 and 11 of these Regulations apply in relation to the supply of water by every—
 
 - (a) water undertaker [^c23158331] whose area is not wholly or mainly in Wales;
-- (b) water supply licensee[^key-c683b9baa60e02b388154841e0cad0ab] so far as relating to licensed activities not using the supply system of a water undertaker whose area is wholly or mainly in Wales.
+- (b) water supply licensee[^c-c683b9baa60e02b388154841e0cad0ab] so far as relating to licensed activities not using the supply system of a water undertaker whose area is wholly or mainly in Wales.
 
 (3) Part 10 of these Regulations applies to local authorities in England, as regards the discharge of functions under that Part, in relation to every—
 
 - (a) water undertaker whose area is wholly in England;
 - (b) water undertaker whose area is partly in England and partly in Wales, but only in respect of the part in England;
-- (c) water supply licensee[^key-43f8bdbcb65b0a771deeab10a8ae3a08] so far as relating to licensed activities not using the supply system situated in Wales of any water undertaker.
+- (c) water supply licensee[^c-43f8bdbcb65b0a771deeab10a8ae3a08] so far as relating to licensed activities not using the supply system situated in Wales of any water undertaker.
 
 ### 2. Interpretation
 
@@ -80,14 +80,14 @@ The Secretary of State has been designated for the purposes of section 2(2) of t
   - (c) an event specified in regulation 35(6),
 
   means a local authority whose area contains any part of the water supply zone to which the authorisation relates or, in the case of an application, would relate if a departure were authorised in the terms sought, or whose area is affected or is likely to be affected by the event;
-- [^key-e9651340b7a18d2410cef054bb165835]...
+- [^c-e9651340b7a18d2410cef054bb165835]...
 - “**blending point**” means a point at which water originating from two or more sources and treated for the purposes of their supply for regulation 4(1) purposes is combined under conditions that are designed to secure that, after such combination, the requirements of regulation 4(2) are met;
 - “**Chapter 3**” means Chapter 3 of Part 3 of the Act (quality and sufficiency of water supplies);
-- [^key-e9651340b7a18d2410cef054bb165835]...
-- [^key-da1dda59ba1979a3fd054a9b4e979611]...
+- [^c-e9651340b7a18d2410cef054bb165835]...
+- [^c-da1dda59ba1979a3fd054a9b4e979611]...
 - “**consumer**” means a person to whom water is supplied for regulation 4(1) purposes by a relevant supplier in the discharge of its duties under Chapter 3;
 - “**disinfection**” means a process of water treatment to remove or render harmless to human health every pathogenic micro-organism and pathogenic parasite that would otherwise be present in the water;
-- “[^key-f221a5ee1a2180a37a2669eed81063ab]*E. coli*” means *Escherichia coli*;
+- “[^c-f221a5ee1a2180a37a2669eed81063ab]*E. coli*” means *Escherichia coli*;
 - “**groundwater**” means water contained in underground strata, and section 221(3) of the Water Resources Act 1991 [^c23158371] has effect for the purposes of this definition as it has effect for the purpose of construing references in that Act to water contained in underground strata;
 - “indicative dose” (ID) means the committed effective dose for 1 year of ingestion resulting from all the radionuclides whose presence has been detected in a supply of water intended for human consumption, of natural and artificial origin, excluding tritium, potassium-40, radon and short-lived radon decay products;
 - “**indicator parameter**” means a parameter listed in Schedule 2;
@@ -119,7 +119,7 @@ The Secretary of State has been designated for the purposes of section 2(2) of t
   - (h) organic slimicide;
   - (i) any product related to any of (a) to (h) (including any growth regulator);
 - “**prescribed concentration or value**”, in relation to any parameter, means the maximum or minimum concentration or value specified in relation to that parameter in Table A or in Table B in Schedule 1, as measured by reference to the unit of measurement so specified and as read where appropriate with the notes to those Tables;
-- “**Public Health England**” means the executive agency of that name of the Department of Health and Social Care[^key-9601cead476abea34c87443eeed420ef];
+- “**Public Health England**” means the executive agency of that name of the Department of Health and Social Care[^c-9601cead476abea34c87443eeed420ef];
 - “**radioactive parameters**” means the following indicator parameters listed in Schedule 2—
   - (a) indicative dose (item 8);
   - (b) radon (item 9);
@@ -127,8 +127,8 @@ The Secretary of State has been designated for the purposes of section 2(2) of t
 - “**regulation 4(1) purposes**”, in relation to a supply of water, means a supply to premises—
   - (a) for such domestic purposes as consist in or include, cooking, drinking, food preparation or washing, or
   - (b) for food production purposes [^c23158391];
-- “**relevant supplier**” means a water undertaker or water supply licensee[^key-a07b2ee408eab99cd0c98f09fe745975];
-- “retail licensee” means a person who is the holder of a water supply licence with a retail authorisation within the meaning of Schedule 2A to the Act;[^key-c4e5c9b654cfdd8127e96b45725f42aa]
+- “**relevant supplier**” means a water undertaker or water supply licensee[^c-a07b2ee408eab99cd0c98f09fe745975];
+- “retail licensee” means a person who is the holder of a water supply licence with a retail authorisation within the meaning of Schedule 2A to the Act;[^c-c4e5c9b654cfdd8127e96b45725f42aa]
 - “sampling point”—
   - (a) in relation to water supplied from a distribution network, means a point, being a consumer's tap, that is selected for the purposes of Part 4 of these Regulations;
   - (b) in relation to water supplied from a tanker, means the point at which the water emerges from the tanker;
@@ -137,14 +137,14 @@ The Secretary of State has been designated for the purposes of section 2(2) of t
 - “suitably accredited body” means the Secretary of State or a person acting on behalf of the Secretary of State;
 - “**supply point**” means a blending point, service reservoir, treatment works or other point, not being a sampling point, which the Secretary of State authorises under regulation 8, for the purposes of regulation 6;
 - “**supply system**” is to be construed in accordance with section 17B(4A) of the Act [^c23158401];
-- “**water of a relevant description**” means water supplied by a relevant supplier which uses a supply system for the purposes of supplying water to consumers, being a supply system into which the water undertaker or wholesale licensee[^key-aaa0e1d3ada40e943cf31c6ab41c670f] introduces water;
-- “**water supply zone**” in relation to a water undertaker and a water supply licensee[^key-a3e673420bc9c68a60683ffd854aafb3] and a year, means an area designated for that year by the water undertaker in accordance with regulation 3;
-- “wholesale licensee” means a person who is the holder of a water supply licence with a wholesale authorisation within the meaning of Schedule 2A to the Act;[^key-41ae4fe6e6581c605394a0326b846199]
+- “**water of a relevant description**” means water supplied by a relevant supplier which uses a supply system for the purposes of supplying water to consumers, being a supply system into which the water undertaker or wholesale licensee[^c-aaa0e1d3ada40e943cf31c6ab41c670f] introduces water;
+- “**water supply zone**” in relation to a water undertaker and a water supply licensee[^c-a3e673420bc9c68a60683ffd854aafb3] and a year, means an area designated for that year by the water undertaker in accordance with regulation 3;
+- “wholesale licensee” means a person who is the holder of a water supply licence with a wholesale authorisation within the meaning of Schedule 2A to the Act;[^c-41ae4fe6e6581c605394a0326b846199]
 - “**year**” means a calendar year.
 
 (2) In these Regulations a reference to an application or notice includes a reference to that application or notice in electronic form.
 
-(3) Subject to paragraph (4), references in these Regulations to a service reservoir are references to any structure [^key-505a45cb016dbfba963d11055361f032]..., in which a reserve of water that has been treated with a view to complying with the requirements of regulation 4 is contained and stored for the sole[^key-780f172ae39ccdbb3c08a6a3690c9e1f] purpose of meeting a variable demand for the supply of water.
+(3) Subject to paragraph (4), references in these Regulations to a service reservoir are references to any structure [^c-505a45cb016dbfba963d11055361f032]..., in which a reserve of water that has been treated with a view to complying with the requirements of regulation 4 is contained and stored for the sole[^c-780f172ae39ccdbb3c08a6a3690c9e1f] purpose of meeting a variable demand for the supply of water.
 
 (4) Where references in these Regulations to a service reservoir would, but for this paragraph, include references to a structure comprising more than one compartment—
 
@@ -152,7 +152,7 @@ The Secretary of State has been designated for the purposes of section 2(2) of t
 - (b) the compartments that are connected hydraulically are to be treated as a single service reservoir, and
 - (c) unless all of the compartments are connected hydraulically, the structure as a whole is not to be treated as a service reservoir.
 
-(5)[^key-7646ac1d91f220440e416f4e65be9b03] In these Regulations, a reference to an EU or Euratom Directive is to be read as if any reference in that Directive to one or more member States in a provision imposing an obligation on, or conferring a discretion on, a member State or member States were a reference to either the Secretary of State or local authority depending on which, immediately before exit day, was responsible for the United Kingdom's compliance with that obligation, or able to exercise that discretion, in respect of England or Wales.
+(5)[^c-7646ac1d91f220440e416f4e65be9b03] In these Regulations, a reference to an EU or Euratom Directive is to be read as if any reference in that Directive to one or more member States in a provision imposing an obligation on, or conferring a discretion on, a member State or member States were a reference to either the Secretary of State or local authority depending on which, immediately before exit day, was responsible for the United Kingdom's compliance with that obligation, or able to exercise that discretion, in respect of England or Wales.
 
 ## PART 2 — Water supply zones
 
@@ -170,7 +170,7 @@ The Secretary of State has been designated for the purposes of section 2(2) of t
 
 ### 4. Wholesomeness
 
-(1) Water supplied to premises that is intended for human consumption including[^key-0fc7d5d97ac8aa0bc188cd9f5fe82f11]—
+(1) Water supplied to premises that is intended for human consumption including[^c-0fc7d5d97ac8aa0bc188cd9f5fe82f11]—
 
 - (a) for such domestic purposes as consist in or include, cooking, drinking, food preparation or washing, or
 - (b) for food production purposes,
@@ -208,7 +208,7 @@ is, subject to paragraphs (4) and (5), to be regarded as wholesome for the purpo
 
 ### 5. Interpretation and application of Part 4
 
-(1)[^key-f172fa40c219a5e9bbb0a9348f3c8cb3] In this Part, “monitoring of a Group A parameter” means monitoring of a Group A parameter for the purpose of obtaining information at regular intervals—
+(1)[^c-f172fa40c219a5e9bbb0a9348f3c8cb3] In this Part, “monitoring of a Group A parameter” means monitoring of a Group A parameter for the purpose of obtaining information at regular intervals—
 
 - (a) as to the organoleptic and microbiological quality of water;
 - (b) where relevant, as to the effectiveness of drinking water treatment, particularly for the purposes of disinfection, for the purposes referred to in paragraph (2); and
@@ -224,9 +224,9 @@ is, subject to paragraphs (4) and (5), to be regarded as wholesome for the purpo
 
 (4) This Part applies to water supplied for regulation 4(1) purposes by a relevant supplier in the performance of its duties under Chapter 3.
 
-(5) Regulations 6 to 10 apply to a wholesale licensee[^key-45c92f6c5dd4e2e17e3acfd48f9800a1] in relation to samples taken from supply points as they apply to a water undertaker, but only insofar as the wholesale licensee is introducing water into a water supply zone in which the water undertaker takes samples under this Part (to the extent authorised by or under regulation 8) from supply points.
+(5) Regulations 6 to 10 apply to a wholesale licensee[^c-45c92f6c5dd4e2e17e3acfd48f9800a1] in relation to samples taken from supply points as they apply to a water undertaker, but only insofar as the wholesale licensee is introducing water into a water supply zone in which the water undertaker takes samples under this Part (to the extent authorised by or under regulation 8) from supply points.
 
-(6)[^key-934cc729879ce827faacad829798a948] In this regulation—
+(6)[^c-934cc729879ce827faacad829798a948] In this regulation—
 
 - “Group A parameter” means a parameter specified in column 2 of Table 1 in Schedule 3;
 - “Group B parameter” means a parameter specified in column 2 of Table 2 or, as the case may be, Table 3 in Schedule 3.
@@ -237,20 +237,20 @@ is, subject to paragraphs (4) and (5), to be regarded as wholesome for the purpo
 
 (2) A water undertaker must take or cause to be taken, and analyse or cause to be analysed, not less than the number of samples of the water within each of the water supply zones which it supplies specified in, or in accordance with the provisions of, this Part and Schedule 3.
 
-(3)[^key-8585bf9e084e17e3731874c0cd466397] Except in a case to which paragraph (16) applies, the parameters listed in Tables A and B in Schedule 1 and the indicator parameters must be subject to—
+(3)[^c-8585bf9e084e17e3731874c0cd466397] Except in a case to which paragraph (16) applies, the parameters listed in Tables A and B in Schedule 1 and the indicator parameters must be subject to—
 
 - (a) monitoring of a Group A parameter if the parameter is one listed in column 2 of Table 1 in Schedule 3 and the circumstances specified in column 3 of that Table apply;
 - (b) monitoring of a Group B parameter in any other case.
 
-(4) In the application of paragraph (3)(b) to the aluminium, *[^key-020e068e80b3c5695adaff367aae928e]...*, iron and manganese parameters (items 1, 9 and 10[^key-eebccc97217b07fa5962c777289e5085] in Table 1 in Schedule 3), a supply which consists of both groundwater and surface water is deemed to be a supply which consists only of surface water.
+(4) In the application of paragraph (3)(b) to the aluminium, *[^c-020e068e80b3c5695adaff367aae928e]...*, iron and manganese parameters (items 1, 9 and 10[^c-eebccc97217b07fa5962c777289e5085] in Table 1 in Schedule 3), a supply which consists of both groundwater and surface water is deemed to be a supply which consists only of surface water.
 
-(5)[^key-b4f27a0d53e2ae3f413a2872452ac1a4] Compliance samples for chemical parameters including copper, lead and nickel must take the form of a random daytime sample of one litre volume taken at a consumer’s tap without prior flushing.
+(5)[^c-b4f27a0d53e2ae3f413a2872452ac1a4] Compliance samples for chemical parameters including copper, lead and nickel must take the form of a random daytime sample of one litre volume taken at a consumer’s tap without prior flushing.
 
 (6) Paragraphs (7) to (15) apply to the radioactive parameters.
 
 (7) As regards the indicative dose parameter—
 
-- (a) monitoring must be carried out where an artificial source of radionuclides or elevated natural radioactivity is present and it cannot be shown on the basis of other representative surveillance[^key-48f7aa3a5bc4cc6c5b91658bc163de27] programmes or other investigations that the level of indicative dose is below the value specified in Schedule 2;
+- (a) monitoring must be carried out where an artificial source of radionuclides or elevated natural radioactivity is present and it cannot be shown on the basis of other representative surveillance[^c-48f7aa3a5bc4cc6c5b91658bc163de27] programmes or other investigations that the level of indicative dose is below the value specified in Schedule 2;
 - (b) where monitoring for natural radionuclide levels is required, the Secretary of State must define the frequency of the monitoring of either gross alpha activity, gross beta activity or individual natural radionuclides, depending on the screening strategy adopted in accordance with Schedule 4;
 - (c) where the monitoring frequency defined in accordance with sub-paragraph (b) requires one sample per year for naturally occurring radioactivity, a further sample must be taken where any change occurs in relation to the supply that is likely to influence the concentrations of radionuclides in water supplied for regulation 4(1) purposes;
 - (d) in the case of naturally occurring radionuclides where the results of the monitoring referred to in sub-paragraph (b) show that the concentration of radionuclides in the supply is stable, the minimum sampling and analysis frequencies are to be decided by the Secretary of State and confirmed by notice to the water undertaker, taking into account the risk to human health;
@@ -279,7 +279,7 @@ is, subject to paragraphs (4) and (5), to be regarded as wholesome for the purpo
 - (b) contains levels of radon that are below the parametric value specified in Schedule 2,
 - (c) contains levels of tritium that are below the parametric value specified in Schedule 2.
 
-(13) Where paragraph (12) applies, the Secretary of State must publish, in such manner as the Secretary of State considers appropriate, the grounds for the notification[^key-f085e31f130eae61b345e6dd6329b8d9] with the necessary documentation supporting the decision (including the findings of any surveys, monitoring or investigations carried out).
+(13) Where paragraph (12) applies, the Secretary of State must publish, in such manner as the Secretary of State considers appropriate, the grounds for the notification[^c-f085e31f130eae61b345e6dd6329b8d9] with the necessary documentation supporting the decision (including the findings of any surveys, monitoring or investigations carried out).
 
 (14) The Secretary of State must by notice in writing withdraw a notice under paragraph (12)—
 
@@ -287,11 +287,11 @@ is, subject to paragraphs (4) and (5), to be regarded as wholesome for the purpo
 - (b) given in relation to the radon parameter, if the Secretary of State believes that water supplied to the zone in question for regulation 4(1) purposes contains levels of radon that are likely to exceed the parametric value specified in Schedule 2;
 - (c) given in relation to the tritium parameter, if the Secretary of State believes that water supplied to the zone in question for regulation 4(1) purposes contains levels of tritium that are likely to exceed the parametric value specified in Schedule 2.
 
-(15) A water undertaker which receives a notice under paragraph (14) must monitor or cause to be monitored the indicative dose parameter or, as the case may be, the radon or tritium parameter, in accordance with Tables 8 to 13 (as applicable)[^key-7684eea99fc24771836c61948878a9bb] in Schedule 3.
+(15) A water undertaker which receives a notice under paragraph (14) must monitor or cause to be monitored the indicative dose parameter or, as the case may be, the radon or tritium parameter, in accordance with Tables 8 to 13 (as applicable)[^c-7684eea99fc24771836c61948878a9bb] in Schedule 3.
 
 (16) Where the distribution of water in any part of a water supply zone is by tanker and is (or is likely to be) an intermittent short-term supply, samples of water from each tanker from which the water is distributed must be taken—
 
-- (a) at[^key-5870019f854605086904ccf040caee53] the commencement of the distribution from that tanker, and
+- (a) at[^c-5870019f854605086904ccf040caee53] the commencement of the distribution from that tanker, and
 - (b) every 48 hours thereafter until the distribution is discontinued.
 
 (17) The first sample taken in relation to each distribution must be analysed for compliance with the following parameters—
@@ -309,7 +309,7 @@ Except in relation to water supplied from a tanker, sampling points in respect o
 
 ### 8. Authorisation of supply points
 
-(1) For those parameters specified as item 6 in column 1 of Table 1, and as[^key-8003194f9583cf760eaf9b8c8641cb9d] items 1 to 12[^key-9492b86e2a2d4a534bcae49b37e62875] and 14 to 21 in column 1 of Table 3 in Schedule 3, samples may be taken from—
+(1) For those parameters specified as item 6 in column 1 of Table 1, and as[^c-8003194f9583cf760eaf9b8c8641cb9d] items 1 to 12[^c-9492b86e2a2d4a534bcae49b37e62875] and 14 to 21 in column 1 of Table 3 in Schedule 3, samples may be taken from—
 
 - (a) any blending point;
 - (b) the water leaving any service reservoir which receives water from a treatment works before its supply to any consumer;
@@ -317,9 +317,9 @@ Except in relation to water supplied from a tanker, sampling points in respect o
 
 (2) If the Secretary of State is satisfied that analysis of those samples will produce data which are unlikely to differ in any material respect from the data that would be produced from analysis within the sampling points, the Secretary of State may authorise the use for the purposes of regulation 6 of those samples taken for a water supply zone from a blending point, a service reservoir of that description or a treatment works.
 
-(3) In respect of any water supply zone, the taking of samples from a supply point is not authorised under paragraph (2) where a wholesale licensee[^key-19e55a9493ae99680eeae04134f17e30] introduces water into the water supply zone, unless the water quality within the water supply zone remains approximately uniform.
+(3) In respect of any water supply zone, the taking of samples from a supply point is not authorised under paragraph (2) where a wholesale licensee[^c-19e55a9493ae99680eeae04134f17e30] introduces water into the water supply zone, unless the water quality within the water supply zone remains approximately uniform.
 
-(4) Subject to paragraph (6), the Secretary of State may, in relation to any parameter not covered by an authorisation given under paragraph (2), on the written application of a water undertaker or on the joint written application of a water undertaker and wholesale licensee[^key-35b59773b04da0b092a85e491c37393f], authorise the use for the purposes of regulation 6 of samples taken for a water supply zone otherwise than from a sampling point.
+(4) Subject to paragraph (6), the Secretary of State may, in relation to any parameter not covered by an authorisation given under paragraph (2), on the written application of a water undertaker or on the joint written application of a water undertaker and wholesale licensee[^c-35b59773b04da0b092a85e491c37393f], authorise the use for the purposes of regulation 6 of samples taken for a water supply zone otherwise than from a sampling point.
 
 (5) An authorisation under paragraph (4) may extend to all samples in relation to that parameter or to such number or proportion of those samples as is specified in the authorisation.
 
@@ -338,7 +338,7 @@ Except in relation to water supplied from a tanker, sampling points in respect o
 - (a) an authorisation under regulation 8(1) of the 2000 Regulations is taken to be an authorisation given under paragraph 8(2) of this regulation;
 - (b) an authorisation under regulation 8(2) of the 2000 Regulation which had effect immediately before the coming into force of these Regulation is taken to be an authorisation under paragraph 8(4) of this regulation.
 
-### 9. Numbers of samples[^key-cec87d7261c6ea1e0044c84fb76ad6c6]
+### 9. Numbers of samples[^c-cec87d7261c6ea1e0044c84fb76ad6c6]
 
 (1) In each year a water undertaker must take or cause to be taken from its sampling points or, to the extent authorised under regulation 8, from its supply points, the standard number of samples for analysis of residual disinfectant and each parameter listed in—
 
@@ -398,7 +398,7 @@ Except in relation to water supplied from a tanker, sampling points in respect o
 
 (12) In this regulation “the standard number” means the number of samples specified in Part 2 or Part 3 of Schedule 3 in respect of a parameter specified in Part 1 of that Schedule.
 
-(13)[^key-5a05fde80d2697e6ff2397dea0cc7630] For the purposes of paragraph (11)(c), Articles 7(1) and 8 of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) are to be read with the following modifications—
+(13)[^c-5a05fde80d2697e6ff2397dea0cc7630] For the purposes of paragraph (11)(c), Articles 7(1) and 8 of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) are to be read with the following modifications—
 
 - (a) as if any reference to Annex 5 to that Directive were a reference to that Annex as modified by Part 1 of Schedule 5 to the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017;
 - (b) in Article 8, as if—
@@ -417,7 +417,7 @@ Except in relation to water supplied from a tanker, sampling points in respect o
 
 ## PART 5 — Monitoring – additional provisions
 
-### 11. Interpretation of Part 5[^key-886861e930aa0557138f98e45fe36be9]
+### 11. Interpretation of Part 5[^c-886861e930aa0557138f98e45fe36be9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -425,31 +425,31 @@ Except in relation to water supplied from a tanker, sampling points in respect o
 
 (1) For the purposes of establishing the quality of water to be supplied to any of its water supply zones, a water undertaker must take or cause to be taken, and analyse or cause to be analysed, not less than the number of samples specified in this Part.
 
-(2) For the purposes of establishing the quality of water to be supplied in any supply system into which a wholesale licensee[^key-de0750603c9697f46b0ad90a9e06a22b] introduces water, the wholesale licensee must take or cause to be taken, and analyse or cause to be analysed, not less than the number of samples specified in this Part.
+(2) For the purposes of establishing the quality of water to be supplied in any supply system into which a wholesale licensee[^c-de0750603c9697f46b0ad90a9e06a22b] introduces water, the wholesale licensee must take or cause to be taken, and analyse or cause to be analysed, not less than the number of samples specified in this Part.
 
 ### 13. Sampling at treatment works
 
-(1) Subject to paragraph (6)[^key-1290ea1959f3128042d92654e0ead337], in each year every water undertaker or wholesale licensee[^key-6c0c623a00149d9c699e999031e0e9cc] must take or cause to be taken, from the point at which water leaves each treatment works which it uses to supply water to water supply zones, the standard number of samples for analysis—
+(1) Subject to paragraph (6)[^c-1290ea1959f3128042d92654e0ead337], in each year every water undertaker or wholesale licensee[^c-6c0c623a00149d9c699e999031e0e9cc] must take or cause to be taken, from the point at which water leaves each treatment works which it uses to supply water to water supply zones, the standard number of samples for analysis—
 
 - (a) for determining the concentration of residual disinfectant,
 - (b) for determining whether, in relation to the colony counts and turbidity parameters (items 5 and 13 in Schedule 2), water leaving treatment works meets the specifications for those parameters set out in Schedule 2, and
 - (c) for testing for compliance with the prescribed concentrations or values in respect of the coliform bacteria, *E. coli*, and nitrite parameters (in Part II of Table A in Schedule 1 and item 19 in Table B of Schedule 1 respectively) for leaving water treatment works.
 
-(2)[^key-9b87a2af9208d9ad63f6017244ba0a04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9b87a2af9208d9ad63f6017244ba0a04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-9b87a2af9208d9ad63f6017244ba0a04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9b87a2af9208d9ad63f6017244ba0a04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-9b87a2af9208d9ad63f6017244ba0a04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-9b87a2af9208d9ad63f6017244ba0a04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Samples required to be taken by this regulation must be taken at regular intervals.
 
-(6) Where a particular treatment works is in use for part only of a year, the minimum number of samples to be taken from that works in that year must bear to the standard number or, as the case may be, the number specified in a current notice given by the Secretary of State under regulation 9 which departs from the standard number[^key-b12a3a9c82f65bb8344645453a8bb42c], the same proportion as the number of days in that year in which the treatment works has been in use bears to 365.
+(6) Where a particular treatment works is in use for part only of a year, the minimum number of samples to be taken from that works in that year must bear to the standard number or, as the case may be, the number specified in a current notice given by the Secretary of State under regulation 9 which departs from the standard number[^c-b12a3a9c82f65bb8344645453a8bb42c], the same proportion as the number of days in that year in which the treatment works has been in use bears to 365.
 
-(7)[^key-9024d50c18824cab6d1a644143f44e46] In this regulation, “the standard number” has the same meaning as in regulation 9
+(7)[^c-9024d50c18824cab6d1a644143f44e46] In this regulation, “the standard number” has the same meaning as in regulation 9
 
 ### 14. Sampling at service reservoirs
 
-Every water undertaker or wholesale licensee[^key-7bfbc021b76e9990e756fd66bc177a58] must take or cause to be taken, from each of its service reservoirs in each week in which the reservoir is in use or as specified in a notice given by the Secretary of State under regulation 9(3)[^key-a4d6a26412e9a67027ec9650606fe660], one sample for analysis—
+Every water undertaker or wholesale licensee[^c-7bfbc021b76e9990e756fd66bc177a58] must take or cause to be taken, from each of its service reservoirs in each week in which the reservoir is in use or as specified in a notice given by the Secretary of State under regulation 9(3)[^c-a4d6a26412e9a67027ec9650606fe660], one sample for analysis—
 
 - (a) for testing for compliance with the prescribed concentrations or values in respect of the coliform bacteria and *E. coli* parameters,
 - (b) for determining the concentration of the residual disinfectant, and
@@ -491,7 +491,7 @@ Every water undertaker or wholesale licensee[^key-7bfbc021b76e9990e756fd66bc177a
 
 (7) For the purposes of paragraph (6)(b), regulation 27 applies to supplies made as a matter of urgency as if “**treatment works**” includes a source from which untreated water is supplied.
 
-### 16. Collection and analysis of samples[^key-fa82c236ed31b19123291e8a362a0f86]
+### 16. Collection and analysis of samples[^c-fa82c236ed31b19123291e8a362a0f86]
 
 (1) Every water undertaker or wholesale licensee must secure, so far as reasonably practicable, that when it takes, handles, transports, stores or analyses any sample required to be taken for the purposes of Part 4 or this Part, or causes any such sample to be taken, handled, transported, stored or analysed, it complies with the appropriate requirements.
 
@@ -629,7 +629,7 @@ Every water undertaker or wholesale licensee[^key-7bfbc021b76e9990e756fd66bc177a
 
 ### 19. Investigations: indicator parameters
 
-(1) Where a water undertaker or wholesale licensee[^key-9eabb0a9070f00c7de71da17c428558d] has reason to believe that water of a relevant description does not meet the specifications for indicator parameters set out in Schedule 2, it must immediately take such steps as are necessary to identify—
+(1) Where a water undertaker or wholesale licensee[^c-9eabb0a9070f00c7de71da17c428558d] has reason to believe that water of a relevant description does not meet the specifications for indicator parameters set out in Schedule 2, it must immediately take such steps as are necessary to identify—
 
 - (a) the reason why the specifications are not met;
 - (b) the indicator parameters in respect of which the specifications are not met;
@@ -639,14 +639,14 @@ Every water undertaker or wholesale licensee[^key-7bfbc021b76e9990e756fd66bc177a
   - (iii) to neither of those matters;
 - (d) if the specification for the tritium parameter is not met, whether the inability to meet the specification is attributable to artificial radionuclides.
 
-(2) As soon possible after the matters specified in paragraph (1) have been identified, the water undertaker or wholesale licensee[^key-b8a566c057fbd6b60cd159cac459529b] must—
+(2) As soon possible after the matters specified in paragraph (1) have been identified, the water undertaker or wholesale licensee[^c-b8a566c057fbd6b60cd159cac459529b] must—
 
 - (a) notify the Secretary of State—
   - (i) of those matters;
   - (ii) whether it is its opinion that, in relation to each parameter identified in accordance with paragraph (1)(b), a recurrence of the inability to meet the specification in respect of that parameter is likely;
 - (b) send a copy of that notice to any other relevant supplier which uses the supply system for the purposes of supplying water to consumers who are likely to be affected by the failure.
 
-(3) Where, in a case to which paragraph (1)(c) applies, the inability to meet the specification has been attributable to the domestic distribution system or to the maintenance of that system, the water undertaker or water supply licensee[^key-5a803448f980e698b60d244605628e7f] must, at the same time as notification is given under paragraph (2)—
+(3) Where, in a case to which paragraph (1)(c) applies, the inability to meet the specification has been attributable to the domestic distribution system or to the maintenance of that system, the water undertaker or water supply licensee[^c-5a803448f980e698b60d244605628e7f] must, at the same time as notification is given under paragraph (2)—
 
 - (a) by notice in writing to any person referred to in paragraph (4), inform them of the nature of the failure and provide details of the steps (if any) that, in its opinion, it is necessary or desirable for those consumers to take in the interests of their health;
 - (b) send a copy of that notice to the Secretary of State and to each local authority whose area is likely to be affected by the failure.
@@ -707,7 +707,7 @@ the Secretary of State must, by notice in writing to any relevant supplier which
 (3) Subject to paragraph (7), the Secretary of State must serve a notice in writing on—
 
 - (a) the water undertaker that supplies water to the premises, or
-- (b) the water undertaker whose supply system is used for the purpose of a water supply licensee[^key-95358b79d544341b9f7f4cb4702ead92] making a supply of water to the premises,
+- (b) the water undertaker whose supply system is used for the purpose of a water supply licensee[^c-95358b79d544341b9f7f4cb4702ead92] making a supply of water to the premises,
 
 requiring it to exercise the power conferred by section 75(2) of the Act in respect of the failure.
 
@@ -749,7 +749,7 @@ requiring it to exercise the power conferred by section 75(2) of the Act in resp
 - (b) a supply of water for those purposes cannot be maintained in that zone by any other reasonable means, and
 - (c) the supply of water in accordance with the authorisation does not constitute a potential danger to human health.
 
-(3) Every water undertaker or wholesale licensee[^key-298913e3fb66beb7b59f96733fac7de7] must provide with its application—
+(3) Every water undertaker or wholesale licensee[^c-298913e3fb66beb7b59f96733fac7de7] must provide with its application—
 
 - (a) a statement—
   - (i) of the grounds on which the authorisation is sought;
@@ -768,7 +768,7 @@ requiring it to exercise the power conferred by section 75(2) of the Act in resp
   - (ii) an estimate of the cost of the work;
   - (iii) provisions for reviewing the progress of the work and for reporting the results of the review to the Secretary of State.
 
-(4) At the same time as it makes an application for an authorisation under paragraph (1), the water undertaker or wholesale licensee[^key-b92b451e081c6f98d8c9cb3399337d4d] must serve a copy of the application and of the statement, scheme and summary referred to in paragraph (3) on—
+(4) At the same time as it makes an application for an authorisation under paragraph (1), the water undertaker or wholesale licensee[^c-b92b451e081c6f98d8c9cb3399337d4d] must serve a copy of the application and of the statement, scheme and summary referred to in paragraph (3) on—
 
 - (a) every appropriate local authority;
 - (b) Public Health England;
@@ -816,20 +816,20 @@ requiring it to exercise the power conferred by section 75(2) of the Act in resp
 - (a) the extent of the contravention of the requirements of Part 3 as respects any parameter is trivial, and
 - (b) the prescribed concentration or value as respects that parameter is likely to be achieved within the period of 30 days beginning with the day on which the prescribed concentration or value in respect of that parameter was contravened.
 
-(7) Where it appears to the Secretary of State that a supply of water that fully satisfies the requirements of Part 3 cannot be restored by the end of the departure period, the Secretary of State may authorise a further two departures[^key-c51c83eed61e11da1430132ffc553c89].
+(7) Where it appears to the Secretary of State that a supply of water that fully satisfies the requirements of Part 3 cannot be restored by the end of the departure period, the Secretary of State may authorise a further two departures[^c-c51c83eed61e11da1430132ffc553c89].
 
 (8) Paragraphs (1) to (6) apply to a further departure authorised under paragraph (7) as they apply to a departure authorised under regulation 22.
 
-(9)[^key-cd420f364d0324fc4c7259b14b4a034e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-cd420f364d0324fc4c7259b14b4a034e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-cd420f364d0324fc4c7259b14b4a034e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-cd420f364d0324fc4c7259b14b4a034e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) An authorisation under regulation 22 or this regulation may be limited to water supplied—
 
 - (a) from particular sources or classes of source;
 - (b) to particular water supply zones or to zones of particular descriptions.
 
-(12) On the coming into force of these Regulations, any further authorisations given under regulation 21(5) and (7) of the 2000 Regulations which had effect immediately before the coming into force of these Regulations are taken to be further authorisations given under paragraph (7) [^key-90574177bf76b63144bbef96d172b6ce]... of this regulation.
+(12) On the coming into force of these Regulations, any further authorisations given under regulation 21(5) and (7) of the 2000 Regulations which had effect immediately before the coming into force of these Regulations are taken to be further authorisations given under paragraph (7) [^c-90574177bf76b63144bbef96d172b6ce]... of this regulation.
 
 ### 24. Publicity for authorisations
 
@@ -868,12 +868,12 @@ requiring it to exercise the power conferred by section 75(2) of the Act in resp
 
 ### 26. Disinfection and other treatment arrangements
 
-(1) Unless the conditions in paragraph (5) are satisfied, before supplying water for regulation 4(1) purposes, a water undertaker or wholesale licensee[^key-ee99960f433c54a6a00c58565f06d9db] must—
+(1) Unless the conditions in paragraph (5) are satisfied, before supplying water for regulation 4(1) purposes, a water undertaker or wholesale licensee[^c-ee99960f433c54a6a00c58565f06d9db] must—
 
 - (a) disinfect the water, and
 - (b) where necessary, subject the water to sufficient preliminary treatment to prepare it for disinfection.
 
-(2) A water undertaker or water supply licensee[^key-16021f5f49d3fd7ebe3fbc8f02b6e5ad] supplier must—
+(2) A water undertaker or water supply licensee[^c-16021f5f49d3fd7ebe3fbc8f02b6e5ad] supplier must—
 
 - (a) design, operate and maintain the disinfection process so as to keep disinfection by-products as low as possible without compromising the effectiveness of the disinfection, and
 - (b) verify the effectiveness of the disinfection process.
@@ -938,7 +938,7 @@ requiring it to exercise the power conferred by section 75(2) of the Act in resp
 
 (5) In paragraph (4), “**specified**” means specified in the notice served under that paragraph.
 
-(6) The Secretary of State may, by notice served on the relevant undertaker or water supply licensee[^key-f984f08cb30627bae55538ee3bf13334], revoke or vary a notice served under paragraph (4).
+(6) The Secretary of State may, by notice served on the relevant undertaker or water supply licensee[^c-f984f08cb30627bae55538ee3bf13334], revoke or vary a notice served under paragraph (4).
 
 (7) On the coming into force of these Regulations, a notice given under regulation 28(4) of the 2000 Regulations which had effect immediately before the coming into force of these Regulations is taken to be a notice given under paragraph (4) of this regulation.
 
@@ -949,11 +949,11 @@ requiring it to exercise the power conferred by section 75(2) of the Act in resp
 - (a) contain a concentration of copper in excess of 2mg/litre, or
 - (b) contain a concentration of lead in excess of 10µg/litre.
 
-(2) Every water undertaker or wholesale licensee[^key-4fe2e0ae56e697c280d9ee0e9824a7e2] which introduces water into the supply system used by the relevant supplier must, subject to paragraph (4), treat the water in such a way as will, in its opinion, eliminate the prescribed risk or reduce it to a minimum.
+(2) Every water undertaker or wholesale licensee[^c-4fe2e0ae56e697c280d9ee0e9824a7e2] which introduces water into the supply system used by the relevant supplier must, subject to paragraph (4), treat the water in such a way as will, in its opinion, eliminate the prescribed risk or reduce it to a minimum.
 
 (3) The reason referred to in paragraph (1) is the presence in the water of a concentration of copper or lead which is attributable to the fact that copper or lead is the major component of such a pipe as is mentioned in section 68(3) of the Act [^c23158491], or its associated fittings.
 
-(4) Paragraph (1) does not require a water undertaker or wholesale licensee[^key-33cfc1a9dafc52e2ac88f52688b4871a] to treat water if—
+(4) Paragraph (1) does not require a water undertaker or wholesale licensee[^c-33cfc1a9dafc52e2ac88f52688b4871a] to treat water if—
 
 - (a) the treatment is unlikely to achieve a significant reduction in the concentration of copper or lead, or
 - (b) treatment is not reasonably practicable.
@@ -975,19 +975,19 @@ requiring it to exercise the power conferred by section 75(2) of the Act in resp
 
 ### 31. Application and introduction of substances and products
 
-(1) Subject to paragraph (2), a water undertaker or wholesale licensee[^key-dfd462fb9575afa41156f6904122703b] must not apply any substance or product to, or introduce any substance or product into, water which is to be supplied for regulation 4(1) purposes, unless one of the requirements of paragraph (4) is satisfied.
+(1) Subject to paragraph (2), a water undertaker or wholesale licensee[^c-dfd462fb9575afa41156f6904122703b] must not apply any substance or product to, or introduce any substance or product into, water which is to be supplied for regulation 4(1) purposes, unless one of the requirements of paragraph (4) is satisfied.
 
 (2) A substance or product which, at the time of its application or introduction—
 
-- (a)[^key-feb2961fd186383eed1a30ff03239fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) conforms to an appropriate British Standard or some other appropriate standard [^key-4b80d89003180e74c8309a59b9ecf6d4]... which provides an equivalent level of protection and performance,
+- (a)[^c-feb2961fd186383eed1a30ff03239fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) conforms to an appropriate British Standard or some other appropriate standard [^c-4b80d89003180e74c8309a59b9ecf6d4]... which provides an equivalent level of protection and performance,
 
 may be applied or introduced, notwithstanding that none of the requirements of paragraph (4) is satisfied.
 
 (3) Paragraph (2) applies only if such an application or introduction complies with—
 
 - (a) such conditions of use restricting the dosing concentration as are for the time being in force in relation to such substances and products pursuant to a determination of the Secretary of State by an instrument in writing;
-- (b)[^key-055360b337a779f96c9ebbb11f06ccab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-055360b337a779f96c9ebbb11f06ccab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The requirements of this paragraph are that—
 
@@ -1029,7 +1029,7 @@ may be applied or introduced, notwithstanding that none of the requirements of p
 - (a) by notice served on the person who makes an application for approval under paragraph (4)(a), require the person to pay the Secretary of State a charge which reflects the administrative expenses incurred or likely to be incurred by the Secretary of State in connection with the application;
 - (b) in determining the amount of any such charge, adopt such methods and principles for its calculation as appear to the Secretary of State to be appropriate.
 
-(15)[^key-c2f6b606e09ebf84d5f3e368bf933ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(15)[^c-c2f6b606e09ebf84d5f3e368bf933ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (16) On the coming into force of these Regulations—
 
@@ -1088,13 +1088,13 @@ is guilty of an offence and liable on summary conviction, or on conviction on in
 - (b) the name of every water treatment works, service reservoir and other supply point from which water is supplied to premises within the zone;
 - (c) an estimate of the population of the zone;
 - (d) particulars of any departure authorised under Part 7 of these Regulations which applies to water supplied in the zone;
-- (e) particulars of the action taken or required to be taken by the water undertaker or water supply licensee[^key-87cd847992adeb4e1909ec9e33f962c7] to comply with—
+- (e) particulars of the action taken or required to be taken by the water undertaker or water supply licensee[^c-87cd847992adeb4e1909ec9e33f962c7] to comply with—
   - (i) any enforcement order made under section 18 of the Act [^c23158521];
   - (ii) any departure authorised under Part 7;
   - (iii) any notice under regulation 20(4);
 - (f) particulars of the result of any analysis of samples taken in accordance with Part 4 of these Regulations or any of regulations 12 to 14, 17 and 28;
 - (g) the results of any electronic monitoring where this is carried out in accordance with these Regulations;
-- (h) particulars of all consumer contacts [^key-006deadd72fa5aeb106271bf333a8520]... in relation to the discharge of duties under these Regulations;
+- (h) particulars of all consumer contacts [^c-006deadd72fa5aeb106271bf333a8520]... in relation to the discharge of duties under these Regulations;
 - (i) such other particulars as the water undertaker or water supply licensee may determine.
 
 (2) A retail licensee must, in respect of each of the water supply zones which it uses for the purposes of supplying to consumers, prepare and maintain a record containing—
@@ -1105,7 +1105,7 @@ is guilty of an offence and liable on summary conviction, or on conviction on in
   - (i) any enforcement order made under section 18 of the Act;
   - (ii) any departure authorised under Part 7;
   - (iii) any notice under regulation 20(4);
-- (ca)[^key-c74d9dc4da6efa4cf83bad8dfc7a1cc0] particulars of all consumer contacts [^key-167d37579cadb06dd801cb2652278154]... in relation to the discharge of duties under these Regulations;
+- (ca)[^c-c74d9dc4da6efa4cf83bad8dfc7a1cc0] particulars of all consumer contacts [^c-167d37579cadb06dd801cb2652278154]... in relation to the discharge of duties under these Regulations;
 - (d) such other particulars as the retail licensee may determine.
 
 (3) A water undertaker or wholesale licensee must make entries in the record —
@@ -1163,7 +1163,7 @@ is guilty of an offence and liable on summary conviction, or on conviction on in
 (2) In this Part, “**specified relevant supplier**” in relation to a local authority means—
 
 - (a) a water undertaker any of whose water supply zones includes an area which is situated within the area of that authority;
-- (b) a water supply licensee[^key-b04170099af5e94b01b5edb696072c46] which uses any such water supply zones for the purposes of supplying water to consumers.
+- (b) a water supply licensee[^c-b04170099af5e94b01b5edb696072c46] which uses any such water supply zones for the purposes of supplying water to consumers.
 
 ### 37. Duties of local authorities: supplementary provision
 
@@ -1174,7 +1174,7 @@ is guilty of an offence and liable on summary conviction, or on conviction on in
 
 (2) Regulation 16 applies to samples taken by virtue of paragraph (1) as it applies to samples taken for the purposes of Parts 4 and 5 of these Regulations but with the following modifications—
 
-- (a) paragraph (1) is to be read as if for the words “water undertaker or wholesale licensee[^key-1f055c4cab26fc02f16db2fe9f53e9b3]” there were to be substituted the words “ local authority ”;
+- (a) paragraph (1) is to be read as if for the words “water undertaker or wholesale licensee[^c-1f055c4cab26fc02f16db2fe9f53e9b3]” there were to be substituted the words “ local authority ”;
 - (b) paragraph (2)(e)(i) is to be read as if for the words “the water undertaker or the wholesale licensee” there were to be substituted “ the water undertaker, the wholesale licensee or the local authority ”.
 
 ## PART 11 — Enforcement
@@ -1207,7 +1207,7 @@ Any duty or requirement imposed by Parts 4 to 9 of these Regulations on a releva
 
 (6) In this regulation, “**regulatory provision**” has the meaning given by section 32(4) of the Small Business, Enterprise and Employment Act 2015 [^c23158561].
 
-### 39A. Reporting[^key-0aa652c16209fe9191d614c6f596a9ca]
+### 39A. Reporting[^c-0aa652c16209fe9191d614c6f596a9ca]
 
 (1) The Secretary of State must prepare and publish a report on the quality of water intended for human consumption, with the objective of informing consumers.
 
@@ -1372,7 +1372,7 @@ Regulation 2
 </tbody>
 </table>
 
-## SCHEDULE 3 — Monitoring[^key-ee78b2fb5ec269a4a99040fb9917756f]
+## SCHEDULE 3 — Monitoring[^c-ee78b2fb5ec269a4a99040fb9917756f]
 
 Regulation 6
 
@@ -1467,7 +1467,7 @@ Group B1 parameters and circumstances for monitoring to be used for sampling in 
 
 Table 3
 
-Group B2 parameters and circumstances for monitoring to be used for sampling at works or in water supply zones (or supply points)[^key-a60c9cdc05a97de06cd3a01098b8b35b]
+Group B2 parameters and circumstances for monitoring to be used for sampling at works or in water supply zones (or supply points)[^c-a60c9cdc05a97de06cd3a01098b8b35b]
 
 <table>
 <thead>
@@ -1504,7 +1504,7 @@ Group B2 parameters and circumstances for monitoring to be used for sampling at 
 </tbody>
 </table>
 
-[^key-49e0339c1f57f06d7d85d9c170221f45][^key-8c23769b70411f1de97fa6da1412cf37][^key-68b8359217f130bf52576bd74a04a26f][^key-60174bace654d831e67b1bf6372cf96f][^key-60174bace654d831e67b1bf6372cf96f][^key-60174bace654d831e67b1bf6372cf96f]
+[^c-49e0339c1f57f06d7d85d9c170221f45][^c-8c23769b70411f1de97fa6da1412cf37][^c-68b8359217f130bf52576bd74a04a26f][^c-60174bace654d831e67b1bf6372cf96f][^c-60174bace654d831e67b1bf6372cf96f][^c-60174bace654d831e67b1bf6372cf96f]
 
 Table 4
 
@@ -1690,7 +1690,7 @@ Regulation 6
 
 (1) The ID must be calculated from—
 
-- (a)[^key-6314c080d5c0e5ae7f676a3d08ee18e4] the measured radionuclide concentrations and the dose coefficients referred to as “standard values and relationships” in Article 13, and recommended for the estimation of doses from internal exposure in the definition of “standard values and relationships” in Article 4(96), of Council Directive 2013/59/Euratom laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation, or
+- (a)[^c-6314c080d5c0e5ae7f676a3d08ee18e4] the measured radionuclide concentrations and the dose coefficients referred to as “standard values and relationships” in Article 13, and recommended for the estimation of doses from internal exposure in the definition of “standard values and relationships” in Article 4(96), of Council Directive 2013/59/Euratom laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation, or
 - (b) more recent information recognised by the Secretary of State, on the basis of the annual intake of water (730 litres for adults).
 
 (2) Where the following formula is satisfied, it can be assumed that the ID is less than the parametric value of 0.1 mSv and no further investigation is required—
@@ -1709,7 +1709,7 @@ Table 1
 
 Derived concentrations for radioactivity in water intended for human consumption
 
-This table includes values for the most common natural and artificial radionuclides: these are precise values, calculated for a dose of 0.1 mSy, an annual intake of 730 litres and using the dose coefficients referred to as “standard values and relationships” in Article 13, and recommended for the estimation of doses from internal exposure in the definition of “standard values and relationships” in Article 4(96), of Council Directive 2013/59/Euratom[^key-8ce6367020d04488c99b2483c5fde6b6]. Derived concentrations for other radionuclides can be calculated on the same basis, and values can be updated on the basis of more recent information recognised by the Secretary of State
+This table includes values for the most common natural and artificial radionuclides: these are precise values, calculated for a dose of 0.1 mSy, an annual intake of 730 litres and using the dose coefficients referred to as “standard values and relationships” in Article 13, and recommended for the estimation of doses from internal exposure in the definition of “standard values and relationships” in Article 4(96), of Council Directive 2013/59/Euratom[^c-8ce6367020d04488c99b2483c5fde6b6]. Derived concentrations for other radionuclides can be calculated on the same basis, and values can be updated on the basis of more recent information recognised by the Secretary of State
 
 <table>
 <tfoot>
@@ -1777,7 +1777,7 @@ Note 5: This limit of detection applies only to initial screening for ID for a n
 
 Regulation 16
 
-Table A1[^key-098ef506f3ff3e99aea060015881d491]
+Table A1[^c-098ef506f3ff3e99aea060015881d491]
 
 Microbiological parameters for which, subject to regulation 16(6), methods of analysis are specified
 
@@ -1792,9 +1792,9 @@ Microbiological parameters for which, subject to regulation 16(6), methods of an
 
 Table A2
 
-[^key-6093f2c6da321f126db5e4b2482c9401] . . . . . . . . . . . .
+[^c-6093f2c6da321f126db5e4b2482c9401] . . . . . . . . . . . .
 
-Table A3[^key-229d3c579ee3ea62bfb9291b52e97945]
+Table A3[^c-229d3c579ee3ea62bfb9291b52e97945]
 
 Minimum performance characteristic uncertainty of measurement
 
@@ -1933,167 +1933,167 @@ A validation impact assessment of the effect that this instrument will have on t
 
 [^c23158331]: Marginal citation: See section 6 of the Act for the meaning of “water undertaker”.
 
-[^key-c683b9baa60e02b388154841e0cad0ab]: Textual amendment: Words in [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/2/b) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2017/506/article/32/2)
+[^c-c683b9baa60e02b388154841e0cad0ab]: Textual amendment: Words in [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/2/b) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2017/506/article/32/2)
 
-[^key-43f8bdbcb65b0a771deeab10a8ae3a08]: Textual amendment: Words in [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/3/c) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2017/506/article/32/2)
+[^c-43f8bdbcb65b0a771deeab10a8ae3a08]: Textual amendment: Words in [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/3/c) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2017/506/article/32/2)
 
 [^c23158351]: Marginal citation: [S.I. 2000/3184](https://www.legislation.gov.uk/uksi/2000/3184), as amended by [S.I. 2001/2885](https://www.legislation.gov.uk/uksi/2001/2885), 2002/2469, 2005/2035, 2007/2734, 2010/991, 2013/235, 1387.
 
-[^key-e9651340b7a18d2410cef054bb165835]: Textual amendment: Words in reg. 2(1) omitted (11.7.2018) by virtue of [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/2/a/i)
+[^c-e9651340b7a18d2410cef054bb165835]: Textual amendment: Words in reg. 2(1) omitted (11.7.2018) by virtue of [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/2/a/i)
 
-[^key-da1dda59ba1979a3fd054a9b4e979611]: Textual amendment: Words in reg. 2 omitted (31.3.2017) by virtue of [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(3)(a)](https://www.legislation.gov.uk/uksi/2017/506/article/32/3/a)
+[^c-da1dda59ba1979a3fd054a9b4e979611]: Textual amendment: Words in reg. 2 omitted (31.3.2017) by virtue of [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(3)(a)](https://www.legislation.gov.uk/uksi/2017/506/article/32/3/a)
 
-[^key-f221a5ee1a2180a37a2669eed81063ab]: Textual amendment: Words in reg. 2(1) inserted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/2/a/ii)
+[^c-f221a5ee1a2180a37a2669eed81063ab]: Textual amendment: Words in reg. 2(1) inserted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/2/a/ii)
 
 [^c23158371]: Marginal citation: [1991 c.57](https://www.legislation.gov.uk/ukpga/1991/57).
 
 [^c23158381]: Marginal citation: [2006 c.42](https://www.legislation.gov.uk/ukpga/2006/42).
 
-[^key-9601cead476abea34c87443eeed420ef]: Textual amendment: Words in reg. 2(1) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(gg)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/gg) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+[^c-9601cead476abea34c87443eeed420ef]: Textual amendment: Words in reg. 2(1) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(gg)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/gg) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
 
 [^c23158391]: Marginal citation: See section 93(1) of the Act for the meaning of “food production purposes”.
 
-[^key-a07b2ee408eab99cd0c98f09fe745975]: Textual amendment: Words in reg. 2 substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(3)(b)](https://www.legislation.gov.uk/uksi/2017/506/article/32/3/b)
+[^c-a07b2ee408eab99cd0c98f09fe745975]: Textual amendment: Words in reg. 2 substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(3)(b)](https://www.legislation.gov.uk/uksi/2017/506/article/32/3/b)
 
-[^key-c4e5c9b654cfdd8127e96b45725f42aa]: Textual amendment: Words in reg. 2 substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(3)(c)](https://www.legislation.gov.uk/uksi/2017/506/article/32/3/c)
+[^c-c4e5c9b654cfdd8127e96b45725f42aa]: Textual amendment: Words in reg. 2 substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(3)(c)](https://www.legislation.gov.uk/uksi/2017/506/article/32/3/c)
 
 [^c23158401]: Marginal citation: Section 17B was inserted by paragraph 2 of Schedule 4 to the Water Act 2003. It is prospectively amended by section 2 of, and paragraph 6 of Schedule 5 and paragraph 10 of Schedule 7 to, the Water Act 2014 from a date to be appointed.
 
-[^key-aaa0e1d3ada40e943cf31c6ab41c670f]: Textual amendment: Words in reg. 2 substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(3)(d)](https://www.legislation.gov.uk/uksi/2017/506/article/32/3/d)
+[^c-aaa0e1d3ada40e943cf31c6ab41c670f]: Textual amendment: Words in reg. 2 substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(3)(d)](https://www.legislation.gov.uk/uksi/2017/506/article/32/3/d)
 
-[^key-a3e673420bc9c68a60683ffd854aafb3]: Textual amendment: Words in reg. 2 substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(3)(e)](https://www.legislation.gov.uk/uksi/2017/506/article/32/3/e)
+[^c-a3e673420bc9c68a60683ffd854aafb3]: Textual amendment: Words in reg. 2 substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(3)(e)](https://www.legislation.gov.uk/uksi/2017/506/article/32/3/e)
 
-[^key-41ae4fe6e6581c605394a0326b846199]: Textual amendment: Words in reg. 2 inserted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(3)(f)](https://www.legislation.gov.uk/uksi/2017/506/article/32/3/f)
+[^c-41ae4fe6e6581c605394a0326b846199]: Textual amendment: Words in reg. 2 inserted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(3)(f)](https://www.legislation.gov.uk/uksi/2017/506/article/32/3/f)
 
-[^key-505a45cb016dbfba963d11055361f032]: Textual amendment: Words in reg. 2(3) omitted (11.7.2018) by virtue of [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/2/b/i)
+[^c-505a45cb016dbfba963d11055361f032]: Textual amendment: Words in reg. 2(3) omitted (11.7.2018) by virtue of [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/2/b/i)
 
-[^key-780f172ae39ccdbb3c08a6a3690c9e1f]: Textual amendment: Word in reg. 2(3) inserted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/2/b/ii)
+[^c-780f172ae39ccdbb3c08a6a3690c9e1f]: Textual amendment: Word in reg. 2(3) inserted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/2/b/ii)
 
-[^key-7646ac1d91f220440e416f4e65be9b03]: Textual amendment: Reg. 2(5) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [18(2)](https://www.legislation.gov.uk/uksi/2019/558/regulation/18/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7646ac1d91f220440e416f4e65be9b03]: Textual amendment: Reg. 2(5) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [18(2)](https://www.legislation.gov.uk/uksi/2019/558/regulation/18/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0fc7d5d97ac8aa0bc188cd9f5fe82f11]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2016/614/regulation/4/1) inserted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/3)
+[^c-0fc7d5d97ac8aa0bc188cd9f5fe82f11]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2016/614/regulation/4/1) inserted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/3)
 
-[^key-f172fa40c219a5e9bbb0a9348f3c8cb3]: Textual amendment: [Reg. 5(1)-(3)](https://www.legislation.gov.uk/uksi/2016/614/regulation/5/1) substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/4/a)
+[^c-f172fa40c219a5e9bbb0a9348f3c8cb3]: Textual amendment: [Reg. 5(1)-(3)](https://www.legislation.gov.uk/uksi/2016/614/regulation/5/1) substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/4/a)
 
-[^key-45c92f6c5dd4e2e17e3acfd48f9800a1]: Textual amendment: Words in reg. 5(5) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
+[^c-45c92f6c5dd4e2e17e3acfd48f9800a1]: Textual amendment: Words in reg. 5(5) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
 
-[^key-934cc729879ce827faacad829798a948]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/uksi/2016/614/regulation/5/6) inserted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/4/b)
+[^c-934cc729879ce827faacad829798a948]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/uksi/2016/614/regulation/5/6) inserted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/4/b)
 
-[^key-8585bf9e084e17e3731874c0cd466397]: Textual amendment: Reg. 6(3) substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/5/a)
+[^c-8585bf9e084e17e3731874c0cd466397]: Textual amendment: Reg. 6(3) substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/5/a)
 
-[^key-020e068e80b3c5695adaff367aae928e]: Textual amendment: Words in reg. 6(4) omitted (11.7.2018) by virtue of [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(5)(b)(i)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/5/b/i)
+[^c-020e068e80b3c5695adaff367aae928e]: Textual amendment: Words in reg. 6(4) omitted (11.7.2018) by virtue of [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(5)(b)(i)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/5/b/i)
 
-[^key-eebccc97217b07fa5962c777289e5085]: Textual amendment: Words in reg. 6(4) substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/5/b/ii)
+[^c-eebccc97217b07fa5962c777289e5085]: Textual amendment: Words in reg. 6(4) substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/5/b/ii)
 
-[^key-b4f27a0d53e2ae3f413a2872452ac1a4]: Textual amendment: Reg. 6(5) substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/5/c)
+[^c-b4f27a0d53e2ae3f413a2872452ac1a4]: Textual amendment: Reg. 6(5) substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/5/c)
 
-[^key-48f7aa3a5bc4cc6c5b91658bc163de27]: Textual amendment: Word in reg. 6(7) substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(5)(d)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/5/d)
+[^c-48f7aa3a5bc4cc6c5b91658bc163de27]: Textual amendment: Word in reg. 6(7) substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(5)(d)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/5/d)
 
-[^key-f085e31f130eae61b345e6dd6329b8d9]: Textual amendment: Words in reg. 6(13) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [18(3)](https://www.legislation.gov.uk/uksi/2019/558/regulation/18/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f085e31f130eae61b345e6dd6329b8d9]: Textual amendment: Words in reg. 6(13) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [18(3)](https://www.legislation.gov.uk/uksi/2019/558/regulation/18/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7684eea99fc24771836c61948878a9bb]: Textual amendment: Words in reg. 6(15) substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(5)(e)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/5/e)
+[^c-7684eea99fc24771836c61948878a9bb]: Textual amendment: Words in reg. 6(15) substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(5)(e)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/5/e)
 
-[^key-5870019f854605086904ccf040caee53]: Textual amendment: Word in reg. 6(16)(a) substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(5)(f)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/5/f)
+[^c-5870019f854605086904ccf040caee53]: Textual amendment: Word in reg. 6(16)(a) substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(5)(f)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/5/f)
 
-[^key-8003194f9583cf760eaf9b8c8641cb9d]: Textual amendment: Words in reg. 8(1) substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/6)
+[^c-8003194f9583cf760eaf9b8c8641cb9d]: Textual amendment: Words in reg. 8(1) substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/6)
 
-[^key-9492b86e2a2d4a534bcae49b37e62875]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2016/614/regulation/8/1) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/6/2)
+[^c-9492b86e2a2d4a534bcae49b37e62875]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2016/614/regulation/8/1) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/6/2)
 
-[^key-19e55a9493ae99680eeae04134f17e30]: Textual amendment: Words in reg. 8(3) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
+[^c-19e55a9493ae99680eeae04134f17e30]: Textual amendment: Words in reg. 8(3) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
 
-[^key-35b59773b04da0b092a85e491c37393f]: Textual amendment: Words in reg. 8(4) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
+[^c-35b59773b04da0b092a85e491c37393f]: Textual amendment: Words in reg. 8(4) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
 
-[^key-cec87d7261c6ea1e0044c84fb76ad6c6]: Textual amendment: Reg. 9 substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/7)
+[^c-cec87d7261c6ea1e0044c84fb76ad6c6]: Textual amendment: Reg. 9 substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/7)
 
-[^key-5a05fde80d2697e6ff2397dea0cc7630]: Textual amendment: Reg. 9(13) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [18(4)](https://www.legislation.gov.uk/uksi/2019/558/regulation/18/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5a05fde80d2697e6ff2397dea0cc7630]: Textual amendment: Reg. 9(13) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [18(4)](https://www.legislation.gov.uk/uksi/2019/558/regulation/18/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-886861e930aa0557138f98e45fe36be9]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2016/614/regulation/11) omitted (11.7.2018) by virtue of [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/8)
+[^c-886861e930aa0557138f98e45fe36be9]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2016/614/regulation/11) omitted (11.7.2018) by virtue of [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/8)
 
-[^key-de0750603c9697f46b0ad90a9e06a22b]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2016/614/regulation/12/2) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
+[^c-de0750603c9697f46b0ad90a9e06a22b]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2016/614/regulation/12/2) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
 
-[^key-1290ea1959f3128042d92654e0ead337]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2016/614/regulation/13/1) substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(9)(a)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/9/a)
+[^c-1290ea1959f3128042d92654e0ead337]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2016/614/regulation/13/1) substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(9)(a)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/9/a)
 
-[^key-6c0c623a00149d9c699e999031e0e9cc]: Textual amendment: Words in reg. 13(1) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
+[^c-6c0c623a00149d9c699e999031e0e9cc]: Textual amendment: Words in reg. 13(1) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
 
-[^key-9b87a2af9208d9ad63f6017244ba0a04]: Textual amendment: [Reg. 13(2)-(4)](https://www.legislation.gov.uk/uksi/2016/614/regulation/13/2) omitted (11.7.2018) by virtue of [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(9)(b)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/9/b)
+[^c-9b87a2af9208d9ad63f6017244ba0a04]: Textual amendment: [Reg. 13(2)-(4)](https://www.legislation.gov.uk/uksi/2016/614/regulation/13/2) omitted (11.7.2018) by virtue of [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(9)(b)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/9/b)
 
-[^key-b12a3a9c82f65bb8344645453a8bb42c]: Textual amendment: Words in [reg. 13(6)](https://www.legislation.gov.uk/uksi/2016/614/regulation/13/6) substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(9)(c)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/9/c)
+[^c-b12a3a9c82f65bb8344645453a8bb42c]: Textual amendment: Words in [reg. 13(6)](https://www.legislation.gov.uk/uksi/2016/614/regulation/13/6) substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(9)(c)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/9/c)
 
-[^key-9024d50c18824cab6d1a644143f44e46]: Textual amendment: [Reg. 13(7)](https://www.legislation.gov.uk/uksi/2016/614/regulation/13/7) inserted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(9)(d)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/9/d)
+[^c-9024d50c18824cab6d1a644143f44e46]: Textual amendment: [Reg. 13(7)](https://www.legislation.gov.uk/uksi/2016/614/regulation/13/7) inserted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(9)(d)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/9/d)
 
-[^key-7bfbc021b76e9990e756fd66bc177a58]: Textual amendment: Words in regs. 14-18 substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
+[^c-7bfbc021b76e9990e756fd66bc177a58]: Textual amendment: Words in regs. 14-18 substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
 
-[^key-a4d6a26412e9a67027ec9650606fe660]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/2016/614/regulation/14) inserted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(10)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/10)
+[^c-a4d6a26412e9a67027ec9650606fe660]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/2016/614/regulation/14) inserted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(10)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/10)
 
 [^c23158411]: Marginal citation: Section 68(1) was amended by paragraph 18 of Schedule 8 to the [Water Act 2003 (c.37)](https://www.legislation.gov.uk/ukpga/2003/37). It is prospectively amended by paragraph 38 of Schedule 5, and paragraphs 66 and 67 of Schedule 7, to the [Water Act 2014 (c.21)](https://www.legislation.gov.uk/ukpga/2014/21).
 
-[^key-fa82c236ed31b19123291e8a362a0f86]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2016/614/regulation/16) substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(11)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/11) (with [reg. 3](https://www.legislation.gov.uk/uksi/2018/706/regulation/3))
+[^c-fa82c236ed31b19123291e8a362a0f86]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2016/614/regulation/16) substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(11)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/11) (with [reg. 3](https://www.legislation.gov.uk/uksi/2018/706/regulation/3))
 
 [^c23158421]: Marginal citation: O.J. No L 327, 22.12.2000, p 1, as last amended by Commission Directive 2014/101/EU (OJ No L 311, 31.10.2014, p 32).
 
-[^key-9eabb0a9070f00c7de71da17c428558d]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2016/614/regulation/19/1) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
+[^c-9eabb0a9070f00c7de71da17c428558d]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2016/614/regulation/19/1) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
 
-[^key-b8a566c057fbd6b60cd159cac459529b]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2016/614/regulation/19/2) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
+[^c-b8a566c057fbd6b60cd159cac459529b]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2016/614/regulation/19/2) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
 
-[^key-5a803448f980e698b60d244605628e7f]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/uksi/2016/614/regulation/19/3) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2017/506/article/32/2)
+[^c-5a803448f980e698b60d244605628e7f]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/uksi/2016/614/regulation/19/3) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2017/506/article/32/2)
 
 [^c23158431]: Marginal citation: Section 18 was amended by sections 36(2) and 49(2) of, and paragraph 4 of Schedule 8 to, the [Water Act 2003 (c.37)](https://www.legislation.gov.uk/ukpga/2003/37). It is prospectively amended by paragraph 26 of Schedule 7 to the [Water Act 2014 (c.21)](https://www.legislation.gov.uk/ukpga/2014/21) from a date to be appointed.
 
 [^c23158441]: Marginal citation: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56).
 
-[^key-95358b79d544341b9f7f4cb4702ead92]: Textual amendment: Words in reg. 21 substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2017/506/article/32/2)
+[^c-95358b79d544341b9f7f4cb4702ead92]: Textual amendment: Words in reg. 21 substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2017/506/article/32/2)
 
 [^c23158451]: Marginal citation: Section 75 was amended by paragraph 24 of Schedule 8 to the Water Act 2003 and paragraph 72 of Schedule 7 to the Water Act 2014.
 
 [^c23158461]: Marginal citation: [S.I. 2016/618](https://www.legislation.gov.uk/uksi/2016/618).
 
-[^key-298913e3fb66beb7b59f96733fac7de7]: Textual amendment: Words in [reg. 22(3)](https://www.legislation.gov.uk/uksi/2016/614/regulation/22/3) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
+[^c-298913e3fb66beb7b59f96733fac7de7]: Textual amendment: Words in [reg. 22(3)](https://www.legislation.gov.uk/uksi/2016/614/regulation/22/3) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
 
-[^key-b92b451e081c6f98d8c9cb3399337d4d]: Textual amendment: Words in [reg. 22(4)](https://www.legislation.gov.uk/uksi/2016/614/regulation/22/4) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
+[^c-b92b451e081c6f98d8c9cb3399337d4d]: Textual amendment: Words in [reg. 22(4)](https://www.legislation.gov.uk/uksi/2016/614/regulation/22/4) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
 
 [^c23158471]: Marginal citation: Section 219(1) of the Act defines “the Council” as the Consumer Council for Water.
 
-[^key-c51c83eed61e11da1430132ffc553c89]: Textual amendment: Words in reg. 23(7) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [18(5)(a)](https://www.legislation.gov.uk/uksi/2019/558/regulation/18/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c51c83eed61e11da1430132ffc553c89]: Textual amendment: Words in reg. 23(7) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [18(5)(a)](https://www.legislation.gov.uk/uksi/2019/558/regulation/18/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cd420f364d0324fc4c7259b14b4a034e]: Textual amendment: Reg. 23(9)(10) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [18(5)(b)](https://www.legislation.gov.uk/uksi/2019/558/regulation/18/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cd420f364d0324fc4c7259b14b4a034e]: Textual amendment: Reg. 23(9)(10) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [18(5)(b)](https://www.legislation.gov.uk/uksi/2019/558/regulation/18/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-90574177bf76b63144bbef96d172b6ce]: Textual amendment: Words in reg. 23(12) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [18(5)(c)](https://www.legislation.gov.uk/uksi/2019/558/regulation/18/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-90574177bf76b63144bbef96d172b6ce]: Textual amendment: Words in reg. 23(12) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [18(5)(c)](https://www.legislation.gov.uk/uksi/2019/558/regulation/18/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ee99960f433c54a6a00c58565f06d9db]: Textual amendment: Words in regs. 26-28 substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
+[^c-ee99960f433c54a6a00c58565f06d9db]: Textual amendment: Words in regs. 26-28 substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
 
-[^key-16021f5f49d3fd7ebe3fbc8f02b6e5ad]: Textual amendment: Words in [reg. 26(2)](https://www.legislation.gov.uk/uksi/2016/614/regulation/26/2) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2017/506/article/32/2)
+[^c-16021f5f49d3fd7ebe3fbc8f02b6e5ad]: Textual amendment: Words in [reg. 26(2)](https://www.legislation.gov.uk/uksi/2016/614/regulation/26/2) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2017/506/article/32/2)
 
-[^key-f984f08cb30627bae55538ee3bf13334]: Textual amendment: Words in reg. 28(6) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2017/506/article/32/2)
+[^c-f984f08cb30627bae55538ee3bf13334]: Textual amendment: Words in reg. 28(6) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2017/506/article/32/2)
 
-[^key-4fe2e0ae56e697c280d9ee0e9824a7e2]: Textual amendment: Words in [reg. 29(2)](https://www.legislation.gov.uk/uksi/2016/614/regulation/29/2) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
+[^c-4fe2e0ae56e697c280d9ee0e9824a7e2]: Textual amendment: Words in [reg. 29(2)](https://www.legislation.gov.uk/uksi/2016/614/regulation/29/2) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
 
 [^c23158491]: Marginal citation: Section 68(3) was amended by paragraph 18(5) of Schedule 8 to the [Water Act 2003 (c.37)](https://www.legislation.gov.uk/ukpga/2003/37).
 
-[^key-33cfc1a9dafc52e2ac88f52688b4871a]: Textual amendment: Words in [reg. 29(4)](https://www.legislation.gov.uk/uksi/2016/614/regulation/29/4) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
+[^c-33cfc1a9dafc52e2ac88f52688b4871a]: Textual amendment: Words in [reg. 29(4)](https://www.legislation.gov.uk/uksi/2016/614/regulation/29/4) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
 
-[^key-dfd462fb9575afa41156f6904122703b]: Textual amendment: Words in regs. 31-34 substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
+[^c-dfd462fb9575afa41156f6904122703b]: Textual amendment: Words in regs. 31-34 substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
 
-[^key-feb2961fd186383eed1a30ff03239fb1]: Textual amendment: Reg. 31(2)(a) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [18(6)(a)](https://www.legislation.gov.uk/uksi/2019/558/regulation/18/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-feb2961fd186383eed1a30ff03239fb1]: Textual amendment: Reg. 31(2)(a) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [18(6)(a)](https://www.legislation.gov.uk/uksi/2019/558/regulation/18/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4b80d89003180e74c8309a59b9ecf6d4]: Textual amendment: Words in reg. 31(2)(b) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [18(6)(b)](https://www.legislation.gov.uk/uksi/2019/558/regulation/18/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4b80d89003180e74c8309a59b9ecf6d4]: Textual amendment: Words in reg. 31(2)(b) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [18(6)(b)](https://www.legislation.gov.uk/uksi/2019/558/regulation/18/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-055360b337a779f96c9ebbb11f06ccab]: Textual amendment: Reg. 31(3)(b) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [18(6)(c)](https://www.legislation.gov.uk/uksi/2019/558/regulation/18/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-055360b337a779f96c9ebbb11f06ccab]: Textual amendment: Reg. 31(3)(b) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [18(6)(c)](https://www.legislation.gov.uk/uksi/2019/558/regulation/18/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c2f6b606e09ebf84d5f3e368bf933ade]: Textual amendment: Reg. 31(15) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [18(6)(d)](https://www.legislation.gov.uk/uksi/2019/558/regulation/18/6/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c2f6b606e09ebf84d5f3e368bf933ade]: Textual amendment: Reg. 31(15) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [18(6)(d)](https://www.legislation.gov.uk/uksi/2019/558/regulation/18/6/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-87cd847992adeb4e1909ec9e33f962c7]: Textual amendment: Words in reg. 34(1) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2017/506/article/32/2)
+[^c-87cd847992adeb4e1909ec9e33f962c7]: Textual amendment: Words in reg. 34(1) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2017/506/article/32/2)
 
 [^c23158521]: Marginal citation: Section 18 was amended by sections 36(2) and 49(2) of, and paragraph 4 of Schedule 8 to, the [Water Act 2003 (c.37)](https://www.legislation.gov.uk/ukpga/2003/37). It is prospectively amended by paragraph 26 of Schedule 7 to the [Water Act 2014 (c.21)](https://www.legislation.gov.uk/ukpga/2014/21) from a date to be appointed.
 
-[^key-006deadd72fa5aeb106271bf333a8520]: Textual amendment: Word in [reg. 34(1)(h)](https://www.legislation.gov.uk/uksi/2016/614/regulation/34/1/h) omitted (11.7.2018) by virtue of [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(12)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/12)
+[^c-006deadd72fa5aeb106271bf333a8520]: Textual amendment: Word in [reg. 34(1)(h)](https://www.legislation.gov.uk/uksi/2016/614/regulation/34/1/h) omitted (11.7.2018) by virtue of [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(12)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/12)
 
-[^key-c74d9dc4da6efa4cf83bad8dfc7a1cc0]: Textual amendment: Reg. 34(2)(ca) inserted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(5)](https://www.legislation.gov.uk/uksi/2017/506/article/32/5)
+[^c-c74d9dc4da6efa4cf83bad8dfc7a1cc0]: Textual amendment: Reg. 34(2)(ca) inserted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(5)](https://www.legislation.gov.uk/uksi/2017/506/article/32/5)
 
-[^key-167d37579cadb06dd801cb2652278154]: Textual amendment: Word in [reg. 34(2)(ca)](https://www.legislation.gov.uk/uksi/2016/614/regulation/34/2/ca) omitted (11.7.2018) by virtue of [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(12)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/12)
+[^c-167d37579cadb06dd801cb2652278154]: Textual amendment: Word in [reg. 34(2)(ca)](https://www.legislation.gov.uk/uksi/2016/614/regulation/34/2/ca) omitted (11.7.2018) by virtue of [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(12)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/12)
 
-[^key-b04170099af5e94b01b5edb696072c46]: Textual amendment: Words in [reg. 36(2)(b)](https://www.legislation.gov.uk/uksi/2016/614/regulation/36/2/b) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2017/506/article/32/2)
+[^c-b04170099af5e94b01b5edb696072c46]: Textual amendment: Words in [reg. 36(2)(b)](https://www.legislation.gov.uk/uksi/2016/614/regulation/36/2/b) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2017/506/article/32/2)
 
-[^key-1f055c4cab26fc02f16db2fe9f53e9b3]: Textual amendment: Words in reg. 37(2) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
+[^c-1f055c4cab26fc02f16db2fe9f53e9b3]: Textual amendment: Words in reg. 37(2) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [32(4)](https://www.legislation.gov.uk/uksi/2017/506/article/32/4)
 
 [^c23158531]: Marginal citation: [Section 219(1)](https://www.legislation.gov.uk/uksi/2016/614/section/219/1) of the Act defines “the Authority” as the Water Services Regulation Authority.
 
@@ -2103,37 +2103,37 @@ A validation impact assessment of the effect that this instrument will have on t
 
 [^c23158561]: Marginal citation: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-0aa652c16209fe9191d614c6f596a9ca]: Textual amendment: Reg. 39A inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [18(7)](https://www.legislation.gov.uk/uksi/2019/558/regulation/18/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0aa652c16209fe9191d614c6f596a9ca]: Textual amendment: Reg. 39A inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [18(7)](https://www.legislation.gov.uk/uksi/2019/558/regulation/18/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ee78b2fb5ec269a4a99040fb9917756f]: Textual amendment: Sch. 3 substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(13)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/13)
+[^c-ee78b2fb5ec269a4a99040fb9917756f]: Textual amendment: Sch. 3 substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(13)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/13)
 
-[^key-a60c9cdc05a97de06cd3a01098b8b35b]: Textual amendment: Words in Sch. 3 Pt. 1 substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [6(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/526/regulation/6/3/a/i)
+[^c-a60c9cdc05a97de06cd3a01098b8b35b]: Textual amendment: Words in Sch. 3 Pt. 1 substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [6(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/526/regulation/6/3/a/i)
 
-[^key-49e0339c1f57f06d7d85d9c170221f45]: Textual amendment: Words in Sch. 3 Pt. 1 substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [6(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/526/regulation/6/3/a/ii)
+[^c-49e0339c1f57f06d7d85d9c170221f45]: Textual amendment: Words in Sch. 3 Pt. 1 substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [6(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/526/regulation/6/3/a/ii)
 
-[^key-8c23769b70411f1de97fa6da1412cf37]: Textual amendment: Words in Sch. 3 Pt. 1 substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [6(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/526/regulation/6/3/a/iii)
+[^c-8c23769b70411f1de97fa6da1412cf37]: Textual amendment: Words in Sch. 3 Pt. 1 substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [6(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/526/regulation/6/3/a/iii)
 
-[^key-68b8359217f130bf52576bd74a04a26f]: Textual amendment: Words in Sch. 3 Pt. 1 substituted (29.3.2019) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [6(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2019/526/regulation/6/3/a/iv)
+[^c-68b8359217f130bf52576bd74a04a26f]: Textual amendment: Words in Sch. 3 Pt. 1 substituted (29.3.2019) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [6(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2019/526/regulation/6/3/a/iv)
 
-[^key-60174bace654d831e67b1bf6372cf96f]: Textual amendment: Word in Sch. 3 Pt. 1 omitted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [6(3)(a)(v)](https://www.legislation.gov.uk/uksi/2019/526/regulation/6/3/a/v)
+[^c-60174bace654d831e67b1bf6372cf96f]: Textual amendment: Word in Sch. 3 Pt. 1 omitted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [6(3)(a)(v)](https://www.legislation.gov.uk/uksi/2019/526/regulation/6/3/a/v)
 
 [^M_F_d62e5bbb-1aa6-4350-cd2b-b2d10927826d]: Textual amendment: Word in Sch. 3 Pt. 3 substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/uksi/2019/526/regulation/6/3/b)
 
 [^c23158571]: Marginal citation: Where appropriate gross beta activity may be replaced by residual beta activity after subtraction of the K-40 activity concentration.
 
-[^key-6314c080d5c0e5ae7f676a3d08ee18e4]: Textual amendment: Sch. 4 para. 4(1)(a) substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(14)(a)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/14/a)
+[^c-6314c080d5c0e5ae7f676a3d08ee18e4]: Textual amendment: Sch. 4 para. 4(1)(a) substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(14)(a)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/14/a)
 
-[^key-8ce6367020d04488c99b2483c5fde6b6]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2016/614/schedule/4) substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(14)(b)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/14/b)
+[^c-8ce6367020d04488c99b2483c5fde6b6]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2016/614/schedule/4) substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(14)(b)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/14/b)
 
 [^c23158591]: Marginal citation: See sections 17A and 219(1) of the Act for the meaning of “licensed water supplier”. This definition is prospectively repealed by paragraph 120 of Schedule 7 to the Water Act 2014 from a date to be appointed.
 
 [^c23158601]: Marginal citation: [S.I. 2000/3184](https://www.legislation.gov.uk/uksi/2000/3184), as amended by [S.I. 2001/2885](https://www.legislation.gov.uk/uksi/2001/2885), 2002/2469, 2005/2035, 2007/2734, 2010/991, 2013/235, 1387.
 
-[^key-098ef506f3ff3e99aea060015881d491]: Textual amendment: Sch. 5 Table A1 substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(15)(a)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/15/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2018/706/regulation/3))
+[^c-098ef506f3ff3e99aea060015881d491]: Textual amendment: Sch. 5 Table A1 substituted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(15)(a)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/15/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2018/706/regulation/3))
 
-[^key-6093f2c6da321f126db5e4b2482c9401]: Textual amendment: Sch. 5 Table A2 omitted (11.7.2018) by virtue of [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(15)(b)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/15/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2018/706/regulation/3))
+[^c-6093f2c6da321f126db5e4b2482c9401]: Textual amendment: Sch. 5 Table A2 omitted (11.7.2018) by virtue of [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(15)(b)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/15/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2018/706/regulation/3))
 
-[^key-229d3c579ee3ea62bfb9291b52e97945]: Textual amendment: Sch. 5 Table A3 and footnotes inserted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(15)(c)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/15/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2018/706/regulation/3))
+[^c-229d3c579ee3ea62bfb9291b52e97945]: Textual amendment: Sch. 5 Table A3 and footnotes inserted (11.7.2018) by [The Water Supply (Water Quality) (Amendment) Regulations 2018 (S.I. 2018/706)](https://www.legislation.gov.uk/uksi/2018/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/706/regulation/1/1), [2(15)(c)](https://www.legislation.gov.uk/uksi/2018/706/regulation/2/15/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2018/706/regulation/3))
 
 [^c23158611]: Marginal citation: There are amendments not relevant to these Regulations.
 

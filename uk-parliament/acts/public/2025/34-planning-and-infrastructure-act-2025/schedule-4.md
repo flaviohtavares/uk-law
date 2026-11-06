@@ -22,17 +22,17 @@ summary: ''
 
 Section 89(8)
 
-### 1. Application of Acquisition of Land Act 1981[^key-b62e2201fa5c78f88d7c405aeaf9b5bd][^key-042c62c9c8e9aee07c6fd6ee7609ca18]
+### 1. Application of Acquisition of Land Act 1981[^c-b62e2201fa5c78f88d7c405aeaf9b5bd][^c-042c62c9c8e9aee07c6fd6ee7609ca18]
 
 (1) The [Acquisition of Land Act 1981](https://www.legislation.gov.uk/ukpga/1981/67/contents) (“ALA 1981”) applies to the compulsory acquisition of land under section 89, with the following modification.
 
 (2) Section 17(2) of ALA 1981 (orders to be subject to special parliamentary procedure in certain cases involving local authority or statutory undertakers’ land) does not apply to the acquisition of an interest in land by Natural England acting under section 89.
 
-**2.**[^key-273b38c0426ddae5ad3cf1ba6d9bf3b2][^key-dc03fa4402950fba053e59c82384b9e7] (1) Schedule 3 to ALA 1981 applies to the acquisition of new rights under section 89, with the following modification.
+**2.**[^c-273b38c0426ddae5ad3cf1ba6d9bf3b2][^c-dc03fa4402950fba053e59c82384b9e7] (1) Schedule 3 to ALA 1981 applies to the acquisition of new rights under section 89, with the following modification.
 
 (2) Paragraph 4(2) of that Schedule (orders to be subject to special parliamentary procedure in certain cases involving local authority or statutory undertakers’ land) does not apply to the acquisition of an interest in land by Natural England acting under section 89.
 
-### 3. Extinguishment of private rights of way etc[^key-16097eb5a9b0298f36dec61358d3d0d4][^key-0d6fe15db3a5168cd38f40c1aef4b21c]
+### 3. Extinguishment of private rights of way etc[^c-16097eb5a9b0298f36dec61358d3d0d4][^c-0d6fe15db3a5168cd38f40c1aef4b21c]
 
 (1) Sub-paragraph (2) applies where Natural England completes the compulsory acquisition of land under section 89.
 
@@ -44,16 +44,16 @@ Section 89(8)
 
 (3) Sub-paragraph (2) is subject to paragraphs 4 to 7.
 
-**4.**[^key-f1a41d4aa923512edf7a35a3e23cd67b][^key-0ea5386079df1d4102fe020d46bc591d] Natural England may give a direction before the completion of the acquisition that paragraph 3(2) is not to apply to any right or apparatus specified in the direction.
+**4.**[^c-f1a41d4aa923512edf7a35a3e23cd67b][^c-0ea5386079df1d4102fe020d46bc591d] Natural England may give a direction before the completion of the acquisition that paragraph 3(2) is not to apply to any right or apparatus specified in the direction.
 
-**5.**[^key-502c05f39d6030d19865f22ce8009579][^key-1c3bbdf7deba0b1aa2968171e1222ff5] Paragraph 3(2) is subject to any agreement which may be made (whether before or after the completion of the acquisition) between—
+**5.**[^c-502c05f39d6030d19865f22ce8009579][^c-1c3bbdf7deba0b1aa2968171e1222ff5] Paragraph 3(2) is subject to any agreement which may be made (whether before or after the completion of the acquisition) between—
 
 - (a) Natural England, and
 - (b) the person—
   - (i) in whom the right or apparatus concerned is vested, or
   - (ii) to whom it belongs.
 
-**6.**[^key-f4fccd5df8f2e1e3be650e2102a01e71][^key-4e672854df5bb522a73bcba38ef1cc33] (1) Paragraph 3(2) does not apply to—
+**6.**[^c-f4fccd5df8f2e1e3be650e2102a01e71][^c-4e672854df5bb522a73bcba38ef1cc33] (1) Paragraph 3(2) does not apply to—
 
 - (a) any right vested in statutory undertakers for the purpose of carrying on their undertaking,
 - (b) any apparatus belonging to statutory undertakers for that purpose,
@@ -62,11 +62,11 @@ Section 89(8)
 
 (2) In sub-paragraph (1) “**statutory undertakers**” means persons who are, or are deemed to be, statutory undertakers for the purposes of any provision of Part 11 of the Town and Country Planning Act 1990; and “**undertaking**” is to be read in accordance with section 262 of that Act (meaning of “**statutory undertakers**”).
 
-**7.**[^key-ef5c10a654be7626b9c1e5efc13111d5][^key-799aedc13390568d092e33a054540fb5] (1) Any person who suffers loss by the extinguishment of a right, or the vesting of any apparatus, under paragraph 3 is entitled to compensation from Natural England.
+**7.**[^c-ef5c10a654be7626b9c1e5efc13111d5][^c-799aedc13390568d092e33a054540fb5] (1) Any person who suffers loss by the extinguishment of a right, or the vesting of any apparatus, under paragraph 3 is entitled to compensation from Natural England.
 
 (2) Any compensation payable under this paragraph is to be determined in accordance with the Land Compensation Act 1961.
 
-### 8. New rights: application of Compulsory Purchase Act 1965[^key-b82d9816b10b38918ed6f401b0a60d79][^key-ef34445cee93196d780825e011482fc4]
+### 8. New rights: application of Compulsory Purchase Act 1965[^c-b82d9816b10b38918ed6f401b0a60d79][^c-ef34445cee93196d780825e011482fc4]
 
 (1) The Compulsory Purchase Act 1965 (“CPA 1965”) applies to the compulsory acquisition of new rights under section 89 as it applies to the compulsory purchase of land.
 
@@ -82,7 +82,7 @@ Section 89(8)
 
 according to the requirements of the particular context.
 
-**9.**[^key-aa39f9f34fe5d2eab73b0c383ff7fcec][^key-7183678a6a7e4b53ac8dee6280d922c5] Section 7 of CPA 1965 is to have effect as if for the words of that section there were substituted—
+**9.**[^c-aa39f9f34fe5d2eab73b0c383ff7fcec][^c-7183678a6a7e4b53ac8dee6280d922c5] Section 7 of CPA 1965 is to have effect as if for the words of that section there were substituted—
 
 > **7. Measure of compensation in case of acquisition of new right**
 >
@@ -93,7 +93,7 @@ according to the requirements of the particular context.
 > - (a) for “land is acquired or taken” there is substituted “a right over land is acquired”; and
 > - (b) for “acquired or taken from him” there is substituted “over which the right is exercisable”.
 
-**10.**[^key-6939cec9a7c843c14fae88a66a7c80c7][^key-0eab000f9c38a79017f4b653640e8127] (1) Section 8(1) of CPA 1965 is to have effect as if references to acquiring land were to acquiring a right in the land.
+**10.**[^c-6939cec9a7c843c14fae88a66a7c80c7][^c-0eab000f9c38a79017f4b653640e8127] (1) Section 8(1) of CPA 1965 is to have effect as if references to acquiring land were to acquiring a right in the land.
 
 (2) Schedule 2A to CPA 1965 is to be read as if, for the words of that Schedule, there were substituted—
 
@@ -152,7 +152,7 @@ according to the requirements of the particular context.
 >
 > (3) Any dispute as to the compensation is to be determined by the Upper Tribunal.
 
-**11.**[^key-45ca8c9677e7363f38bb4e98cd3d509b][^key-20c8cd5a8046ed7103d84a969abaeb7d] (1) The provisions of CPA 1965 mentioned in sub-paragraph (2) (which state the effect of a deed poll executed in various circumstances where there is no conveyance by persons with interests in the land) are to be read as if they were modified in accordance with sub-paragraph (3).
+**11.**[^c-45ca8c9677e7363f38bb4e98cd3d509b][^c-20c8cd5a8046ed7103d84a969abaeb7d] (1) The provisions of CPA 1965 mentioned in sub-paragraph (2) (which state the effect of a deed poll executed in various circumstances where there is no conveyance by persons with interests in the land) are to be read as if they were modified in accordance with sub-paragraph (3).
 
 (2) The provisions are—
 
@@ -163,20 +163,20 @@ according to the requirements of the particular context.
 
 (3) The provisions are to be read as if they were modified so as to secure that, as against persons with interests in the land which are expressed to be overridden by the deed, the right which is to be acquired compulsorily is vested absolutely in the acquiring authority.
 
-**12.**[^key-261d9b12915c843ee5d77cd014f71134][^key-879bef3f542ae863d2f4fa429ea58b01] Section 11 of CPA 1965 (powers of entry) is to be read as if it were modified so as to secure that, where the acquiring authority have served notice to treat in respect of any right as well as the notice required by subsection (1) of that section (as it applies to a compulsory acquisition under section 89), they have power, exercisable in the same circumstances and subject to the same conditions, to enter for the purpose of exercising that right; and sections 11A (powers of entry: further notices of entry), 11B (counter-notice requiring possession to be taken on specified date), 12 (penalty for unauthorised entry) and 13 (entry on enforcement officer’s or sheriff’s warrant in the event of obstruction) of that Act are modified accordingly.
+**12.**[^c-261d9b12915c843ee5d77cd014f71134][^c-879bef3f542ae863d2f4fa429ea58b01] Section 11 of CPA 1965 (powers of entry) is to be read as if it were modified so as to secure that, where the acquiring authority have served notice to treat in respect of any right as well as the notice required by subsection (1) of that section (as it applies to a compulsory acquisition under section 89), they have power, exercisable in the same circumstances and subject to the same conditions, to enter for the purpose of exercising that right; and sections 11A (powers of entry: further notices of entry), 11B (counter-notice requiring possession to be taken on specified date), 12 (penalty for unauthorised entry) and 13 (entry on enforcement officer’s or sheriff’s warrant in the event of obstruction) of that Act are modified accordingly.
 
-**13.**[^key-9ecf14003f0a1fad69cc0bf0f3c2abf1][^key-f8fe362bfb0afa1be6d4ce9957520f54] Section 20 of CPA 65 (compensation for short-term tenants) is to be read as if it were modified so as to secure that persons with such interests as are mentioned in that section are compensated in a manner corresponding to that in which they would be compensated on a compulsory purchase of the interests but taking into account only the extent (if any) of such interference with such interests as is actually caused, or likely to be caused, by the exercise of the right concerned.
+**13.**[^c-9ecf14003f0a1fad69cc0bf0f3c2abf1][^c-f8fe362bfb0afa1be6d4ce9957520f54] Section 20 of CPA 65 (compensation for short-term tenants) is to be read as if it were modified so as to secure that persons with such interests as are mentioned in that section are compensated in a manner corresponding to that in which they would be compensated on a compulsory purchase of the interests but taking into account only the extent (if any) of such interference with such interests as is actually caused, or likely to be caused, by the exercise of the right concerned.
 
-**14.**[^key-c8312e9e39dc2b2264fb086439f52117][^key-5a712e8bcb1fdb185501e24721958fe6] Section 22 of CPA 65 (protection of acquiring authority’s possession of land where by inadvertence an interest in the land has not been purchased) is to be read as if it were modified so as to enable the acquiring authority, in circumstances corresponding to those referred to in that section, to continue to be entitled to exercise the right concerned, subject to compliance with that section as respects compensation.
+**14.**[^c-c8312e9e39dc2b2264fb086439f52117][^c-5a712e8bcb1fdb185501e24721958fe6] Section 22 of CPA 65 (protection of acquiring authority’s possession of land where by inadvertence an interest in the land has not been purchased) is to be read as if it were modified so as to enable the acquiring authority, in circumstances corresponding to those referred to in that section, to continue to be entitled to exercise the right concerned, subject to compliance with that section as respects compensation.
 
-### 15. New rights: application of the Compulsory Purchase (Vesting Declarations) Act 1981[^key-899687dbbf78bb22119ea8f18e8a8111][^key-c87e99b3c3f223377bc3aa111f11559f]
+### 15. New rights: application of the Compulsory Purchase (Vesting Declarations) Act 1981[^c-899687dbbf78bb22119ea8f18e8a8111][^c-c87e99b3c3f223377bc3aa111f11559f]
 
 The Compulsory Purchase (Vesting Declarations) Act 1981 (“CP(VD)A 1981”) applies to the compulsory acquisition of new rights under section 89—
 
 - (a) with the modifications specified in paragraph 16, and
 - (b) with such other modifications as may be necessary.
 
-**16.**[^key-5b9031c08b85a22a718425f71a836a58][^key-6647b974d94f2ba05e28efcdbb9fff90] (1) The modifications of CP(VD)A 1981 referred to in paragraph 15(a) are as follows.
+**16.**[^c-5b9031c08b85a22a718425f71a836a58][^c-6647b974d94f2ba05e28efcdbb9fff90] (1) The modifications of CP(VD)A 1981 referred to in paragraph 15(a) are as follows.
 
 (2) References to CPA 1965 are, in appropriate contexts, to be read (according to the requirements of the particular context) as referring to, or as including references to—
 
@@ -203,7 +203,7 @@ The Compulsory Purchase (Vesting Declarations) Act 1981 (“CP(VD)A 1981”) app
 - (e) in paragraphs 14 and 15, references to the severance of land proposed to be acquired were to the acquisition of the right; and
 - (f) in paragraph 15, after “in addition to” there were inserted “or in substitution for”.
 
-### 17. New rights: compensation[^key-831715bb2d6d6d224a84bd5a967348cb][^key-294fbe64e8880648c2cff108727c8a68]
+### 17. New rights: compensation[^c-831715bb2d6d6d224a84bd5a967348cb][^c-294fbe64e8880648c2cff108727c8a68]
 
 (1) The enactments relating to compensation for the compulsory purchase of land apply—
 
@@ -214,7 +214,7 @@ in relation to the acquisition of new rights under section 89 as they apply to c
 
 (2) Sub-paragraph (1) is without prejudice to the generality of paragraph 8.
 
-**18.**[^key-b459eff634ee7316a77618d994e0cf96][^key-1d322c604f6fed94c8c4778415a34f18] Section 5A (relevant valuation date) of the Land Compensation Act 1961 is to be read as if for subsections (5A) and (5B) there were substituted—
+**18.**[^c-b459eff634ee7316a77618d994e0cf96][^c-1d322c604f6fed94c8c4778415a34f18] Section 5A (relevant valuation date) of the Land Compensation Act 1961 is to be read as if for subsections (5A) and (5B) there were substituted—
 
 > (5A) If—
 >
@@ -234,74 +234,74 @@ in relation to the acquisition of new rights under section 89 as they apply to c
 
 ## Annotations
 
-[^key-b62e2201fa5c78f88d7c405aeaf9b5bd]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-b62e2201fa5c78f88d7c405aeaf9b5bd]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-042c62c9c8e9aee07c6fd6ee7609ca18]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/1) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-042c62c9c8e9aee07c6fd6ee7609ca18]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/1) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
 
-[^key-273b38c0426ddae5ad3cf1ba6d9bf3b2]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-273b38c0426ddae5ad3cf1ba6d9bf3b2]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-dc03fa4402950fba053e59c82384b9e7]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/2) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-dc03fa4402950fba053e59c82384b9e7]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/2) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
 
-[^key-16097eb5a9b0298f36dec61358d3d0d4]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-16097eb5a9b0298f36dec61358d3d0d4]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-0d6fe15db3a5168cd38f40c1aef4b21c]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/3) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-0d6fe15db3a5168cd38f40c1aef4b21c]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/3) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
 
-[^key-f1a41d4aa923512edf7a35a3e23cd67b]: Commencement: Sch. 4 para. 4 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-f1a41d4aa923512edf7a35a3e23cd67b]: Commencement: Sch. 4 para. 4 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-0ea5386079df1d4102fe020d46bc591d]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/4) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-0ea5386079df1d4102fe020d46bc591d]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/4) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
 
-[^key-502c05f39d6030d19865f22ce8009579]: Commencement: Sch. 4 para. 5 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-502c05f39d6030d19865f22ce8009579]: Commencement: Sch. 4 para. 5 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-1c3bbdf7deba0b1aa2968171e1222ff5]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/5) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-1c3bbdf7deba0b1aa2968171e1222ff5]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/5) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
 
-[^key-f4fccd5df8f2e1e3be650e2102a01e71]: Commencement: Sch. 4 para. 6 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-f4fccd5df8f2e1e3be650e2102a01e71]: Commencement: Sch. 4 para. 6 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-4e672854df5bb522a73bcba38ef1cc33]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/6) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-4e672854df5bb522a73bcba38ef1cc33]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/6) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
 
-[^key-ef5c10a654be7626b9c1e5efc13111d5]: Commencement: Sch. 4 para. 7 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-ef5c10a654be7626b9c1e5efc13111d5]: Commencement: Sch. 4 para. 7 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-799aedc13390568d092e33a054540fb5]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/7) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-799aedc13390568d092e33a054540fb5]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/7) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
 
-[^key-b82d9816b10b38918ed6f401b0a60d79]: Commencement: Sch. 4 para. 8 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-b82d9816b10b38918ed6f401b0a60d79]: Commencement: Sch. 4 para. 8 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-ef34445cee93196d780825e011482fc4]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/8) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-ef34445cee93196d780825e011482fc4]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/8) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
 
-[^key-aa39f9f34fe5d2eab73b0c383ff7fcec]: Commencement: Sch. 4 para. 9 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-aa39f9f34fe5d2eab73b0c383ff7fcec]: Commencement: Sch. 4 para. 9 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-7183678a6a7e4b53ac8dee6280d922c5]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/9) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-7183678a6a7e4b53ac8dee6280d922c5]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/9) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
 
-[^key-6939cec9a7c843c14fae88a66a7c80c7]: Commencement: Sch. 4 para. 10 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-6939cec9a7c843c14fae88a66a7c80c7]: Commencement: Sch. 4 para. 10 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-0eab000f9c38a79017f4b653640e8127]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/10) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-0eab000f9c38a79017f4b653640e8127]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/10) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
 
-[^key-45ca8c9677e7363f38bb4e98cd3d509b]: Commencement: Sch. 4 para. 11 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-45ca8c9677e7363f38bb4e98cd3d509b]: Commencement: Sch. 4 para. 11 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-20c8cd5a8046ed7103d84a969abaeb7d]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/11) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-20c8cd5a8046ed7103d84a969abaeb7d]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/11) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
 
-[^key-261d9b12915c843ee5d77cd014f71134]: Commencement: Sch. 4 para. 12 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-261d9b12915c843ee5d77cd014f71134]: Commencement: Sch. 4 para. 12 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-879bef3f542ae863d2f4fa429ea58b01]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/12) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-879bef3f542ae863d2f4fa429ea58b01]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/12) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
 
-[^key-9ecf14003f0a1fad69cc0bf0f3c2abf1]: Commencement: Sch. 4 para. 13 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-9ecf14003f0a1fad69cc0bf0f3c2abf1]: Commencement: Sch. 4 para. 13 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-f8fe362bfb0afa1be6d4ce9957520f54]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/13) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-f8fe362bfb0afa1be6d4ce9957520f54]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/13) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
 
-[^key-c8312e9e39dc2b2264fb086439f52117]: Commencement: Sch. 4 para. 14 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-c8312e9e39dc2b2264fb086439f52117]: Commencement: Sch. 4 para. 14 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-5a712e8bcb1fdb185501e24721958fe6]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/14) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-5a712e8bcb1fdb185501e24721958fe6]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/14) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
 
-[^key-899687dbbf78bb22119ea8f18e8a8111]: Commencement: Sch. 4 para. 15 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-899687dbbf78bb22119ea8f18e8a8111]: Commencement: Sch. 4 para. 15 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-c87e99b3c3f223377bc3aa111f11559f]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/15) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-c87e99b3c3f223377bc3aa111f11559f]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/15) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
 
-[^key-5b9031c08b85a22a718425f71a836a58]: Commencement: Sch. 4 para. 16 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-5b9031c08b85a22a718425f71a836a58]: Commencement: Sch. 4 para. 16 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-6647b974d94f2ba05e28efcdbb9fff90]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/16) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-6647b974d94f2ba05e28efcdbb9fff90]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/16) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
 
-[^key-831715bb2d6d6d224a84bd5a967348cb]: Commencement: Sch. 4 para. 17 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-831715bb2d6d6d224a84bd5a967348cb]: Commencement: Sch. 4 para. 17 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-294fbe64e8880648c2cff108727c8a68]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/17) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-294fbe64e8880648c2cff108727c8a68]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/17) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
 
-[^key-b459eff634ee7316a77618d994e0cf96]: Commencement: Sch. 4 para. 18 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-b459eff634ee7316a77618d994e0cf96]: Commencement: Sch. 4 para. 18 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-1d322c604f6fed94c8c4778415a34f18]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/18) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-1d322c604f6fed94c8c4778415a34f18]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/2025/34/schedule/4/paragraph/18) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)

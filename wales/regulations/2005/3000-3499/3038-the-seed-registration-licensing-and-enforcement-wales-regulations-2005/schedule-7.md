@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7 — CERTIFICATES OF THE RESULTS OF TESTS OF SEEDS[^key-54230c0d004b6f9146fe3055a782a20f]
+## SCHEDULE 7 — CERTIFICATES OF THE RESULTS OF TESTS OF SEEDS[^c-54230c0d004b6f9146fe3055a782a20f]
 
 *Extent: E+W*
 
@@ -24,48 +24,48 @@ summary: ''
 
 Regulation 33
 
-### PART I[^key-54230c0d004b6f9146fe3055a782a20f]
+### PART I[^c-54230c0d004b6f9146fe3055a782a20f]
 
-[^key-54230c0d004b6f9146fe3055a782a20f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-54230c0d004b6f9146fe3055a782a20f]
+[^c-54230c0d004b6f9146fe3055a782a20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II[^key-54230c0d004b6f9146fe3055a782a20f]
-
-[^key-54230c0d004b6f9146fe3055a782a20f]
+[^c-54230c0d004b6f9146fe3055a782a20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-54230c0d004b6f9146fe3055a782a20f]
+### PART II[^c-54230c0d004b6f9146fe3055a782a20f]
+
+[^c-54230c0d004b6f9146fe3055a782a20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III[^key-54230c0d004b6f9146fe3055a782a20f]
-
-[^key-54230c0d004b6f9146fe3055a782a20f]
+[^c-54230c0d004b6f9146fe3055a782a20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IV[^key-54230c0d004b6f9146fe3055a782a20f]
+### PART III[^c-54230c0d004b6f9146fe3055a782a20f]
 
-[^key-54230c0d004b6f9146fe3055a782a20f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART V[^key-54230c0d004b6f9146fe3055a782a20f]
-
-[^key-54230c0d004b6f9146fe3055a782a20f]
+[^c-54230c0d004b6f9146fe3055a782a20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-54230c0d004b6f9146fe3055a782a20f]
+### PART IV[^c-54230c0d004b6f9146fe3055a782a20f]
+
+[^c-54230c0d004b6f9146fe3055a782a20f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART V[^c-54230c0d004b6f9146fe3055a782a20f]
+
+[^c-54230c0d004b6f9146fe3055a782a20f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-54230c0d004b6f9146fe3055a782a20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-54230c0d004b6f9146fe3055a782a20f]: Textual amendment: Regulations revoked (27.2.2012) by [The Seed Marketing (Wales) Regulations 2012 (S.I. 2012/245)](https://www.legislation.gov.uk/wsi/2012/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2012/245/regulation/1), [34(f)](https://www.legislation.gov.uk/wsi/2012/245/regulation/34/f) (with [reg. 4](https://www.legislation.gov.uk/wsi/2012/245/regulation/4))
+[^c-54230c0d004b6f9146fe3055a782a20f]: Textual amendment: Regulations revoked (27.2.2012) by [The Seed Marketing (Wales) Regulations 2012 (S.I. 2012/245)](https://www.legislation.gov.uk/wsi/2012/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2012/245/regulation/1), [34(f)](https://www.legislation.gov.uk/wsi/2012/245/regulation/34/f) (with [reg. 4](https://www.legislation.gov.uk/wsi/2012/245/regulation/4))

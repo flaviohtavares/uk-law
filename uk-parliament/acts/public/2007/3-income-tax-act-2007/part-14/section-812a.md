@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 812A. Temporary non-residents[^key-6fd305e37913cee8ba9e5ef0646c934f]
+## 812A. Temporary non-residents[^c-6fd305e37913cee8ba9e5ef0646c934f]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
   - (i) a material participator in that company, or
   - (ii) an associate of a material participator in the company.
 
-(4A)[^key-4d5a28c4215ca50295997744d64809e0] Where—
+(4A)[^c-4d5a28c4215ca50295997744d64809e0] Where—
 
 - (a) a company (“**company A**”) makes a payment (including by way of a loan) to the individual in the non-resident year,
 - (b) the individual is, at a relevant time, a material participator in, or is an associate of a material participator in, another company that is a close company (“**company B**”),
@@ -60,14 +60,14 @@ the amount of the value of the relevant receipt is to be treated as relevant inv
 
 (4C) For the purposes of subsection (4B)(c) “arrangements” include any agreement, understanding, scheme, transaction or series of transactions (whether or not legally enforceable).
 
-(4D)[^key-3eb4f53d5679aefd37c156659754781b] Where tax of a similar character to income tax is payable by the individual under the law of a territory outside the United Kingdom on relevant investment income—
+(4D)[^c-3eb4f53d5679aefd37c156659754781b] Where tax of a similar character to income tax is payable by the individual under the law of a territory outside the United Kingdom on relevant investment income—
 
 - (a) credit for any such tax paid by the individual is to be allowed against income tax chargeable in respect of the relevant investment income, and
 - (b) the credit is to be given effect by treating the amount of the relevant investment income as reduced to such amount as would secure that so much of the credit is given as does not exceed the income tax chargeable in respect of the relevant investment income.
 
-(5)[^key-c1e56a02629875d1ba229dec85698a47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c1e56a02629875d1ba229dec85698a47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-eff846d238e99ebeff6fa4cc3c6799da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-eff846d238e99ebeff6fa4cc3c6799da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) The “notional UK tax” on relevant investment income is—
 
@@ -76,7 +76,7 @@ the amount of the value of the relevant receipt is to be treated as relevant inv
 
 (8) The following matters are to be determined on a just and reasonable basis—
 
-- (a)[^key-ae675da542cc485a147d2d9a9806e5d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-ae675da542cc485a147d2d9a9806e5d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the extent to which a sum included within amount A is a sum in respect of relevant investment income.
 
 (9) Nothing in any double taxation arrangements is to be read as preventing the individual from being chargeable to income tax by virtue of this section (or as preventing a charge to that tax from arising as a result).
@@ -94,21 +94,21 @@ the amount of the value of the relevant receipt is to be treated as relevant inv
 - “**relevant time**” means—
   - (a) any time in the year of departure or, if the year of departure is a split year as respects the individual, the UK part of that year, or
   - (b) any time in one or more of the 3 tax years preceding that year;
-- [^key-0b70313ee8cab34231efadca1da301ce]...
+- [^c-0b70313ee8cab34231efadca1da301ce]...
 - “**year of return**” means the tax year consisting of or including the period of return.
 
 ## Annotations
 
-[^key-6fd305e37913cee8ba9e5ef0646c934f]: Textual amendment: S. 812A inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 138](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/138)
+[^c-6fd305e37913cee8ba9e5ef0646c934f]: Textual amendment: S. 812A inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 138](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/138)
 
-[^key-4d5a28c4215ca50295997744d64809e0]: Textual amendment: S. 812A(4A)-(4C) inserted (with effect in accordance with Sch. 3 para. 23(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 22(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/22/2), [23(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/23/1)
+[^c-4d5a28c4215ca50295997744d64809e0]: Textual amendment: S. 812A(4A)-(4C) inserted (with effect in accordance with Sch. 3 para. 23(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 22(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/22/2), [23(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/23/1)
 
-[^key-3eb4f53d5679aefd37c156659754781b]: Textual amendment: S. 812A(4D) inserted (with effect in accordance with Sch. 3 para. 23(2) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 22(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/22/3), [23(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/23/2)
+[^c-3eb4f53d5679aefd37c156659754781b]: Textual amendment: S. 812A(4D) inserted (with effect in accordance with Sch. 3 para. 23(2) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 22(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/22/3), [23(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/23/2)
 
-[^key-c1e56a02629875d1ba229dec85698a47]: Textual amendment: S. 812A(5) omitted (with effect in accordance with Sch. 3 para. 23(2) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 22(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/22/4), [23(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/23/2)
+[^c-c1e56a02629875d1ba229dec85698a47]: Textual amendment: S. 812A(5) omitted (with effect in accordance with Sch. 3 para. 23(2) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 22(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/22/4), [23(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/23/2)
 
-[^key-eff846d238e99ebeff6fa4cc3c6799da]: Textual amendment: S. 812A(6) omitted (with effect in accordance with Sch. 3 para. 23(2) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 22(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/22/4), [23(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/23/2)
+[^c-eff846d238e99ebeff6fa4cc3c6799da]: Textual amendment: S. 812A(6) omitted (with effect in accordance with Sch. 3 para. 23(2) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 22(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/22/4), [23(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/23/2)
 
-[^key-ae675da542cc485a147d2d9a9806e5d9]: Textual amendment: S. 812A(8)(a) omitted (with effect in accordance with Sch. 3 para. 23(2) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 22(5)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/22/5), [23(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/23/2)
+[^c-ae675da542cc485a147d2d9a9806e5d9]: Textual amendment: S. 812A(8)(a) omitted (with effect in accordance with Sch. 3 para. 23(2) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 22(5)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/22/5), [23(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/23/2)
 
-[^key-0b70313ee8cab34231efadca1da301ce]: Textual amendment: Words in s. 812A(11) omitted (with effect in accordance with Sch. 3 para. 23(2) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 22(6)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/22/6), [23(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/23/2)
+[^c-0b70313ee8cab34231efadca1da301ce]: Textual amendment: Words in s. 812A(11) omitted (with effect in accordance with Sch. 3 para. 23(2) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 22(6)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/22/6), [23(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/23/2)

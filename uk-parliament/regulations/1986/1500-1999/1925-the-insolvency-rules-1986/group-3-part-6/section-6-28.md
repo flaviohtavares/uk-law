@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.28. Extension of time for hearing[^key-cfe7e1e91960d57b6aadaab02456efae]
+## 6.28. Extension of time for hearing[^c-cfe7e1e91960d57b6aadaab02456efae]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfe7e1e91960d57b6aadaab02456efae]: Commencement: [Rule 6.28](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.28) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-cfe7e1e91960d57b6aadaab02456efae]: Commencement: [Rule 6.28](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.28) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

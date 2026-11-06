@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Duration of BID arrangements etc.[^key-958913bd7cf222f936c2b1fa9c9a1843][^key-2b041dea68c09fc932aa0faa0e5fb162]
+## 45. Duration of BID arrangements etc.[^c-958913bd7cf222f936c2b1fa9c9a1843][^c-2b041dea68c09fc932aa0faa0e5fb162]
 
 *Extent: S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-958913bd7cf222f936c2b1fa9c9a1843]: Commencement: S. 45 in force at 6.2.2007 for specified purposes by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)
+[^c-958913bd7cf222f936c2b1fa9c9a1843]: Commencement: S. 45 in force at 6.2.2007 for specified purposes by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)
 
-[^key-2b041dea68c09fc932aa0faa0e5fb162]: Commencement: S. 45 in force at 1.4.2007 in so far as not already in force by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-2b041dea68c09fc932aa0faa0e5fb162]: Commencement: S. 45 in force at 1.4.2007 in so far as not already in force by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)

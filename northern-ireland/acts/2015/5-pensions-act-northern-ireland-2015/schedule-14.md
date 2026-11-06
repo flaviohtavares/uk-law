@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 14 — POWER TO AMEND SCHEMES TO REFLECT ABOLITION OF CONTRACTING-OUT[^key-abfbe79ad603ced10836366ed9f5cf38]
+## SCHEDULE 14 — POWER TO AMEND SCHEMES TO REFLECT ABOLITION OF CONTRACTING-OUT[^c-abfbe79ad603ced10836366ed9f5cf38]
 
 *Extent: N.I.*
 
@@ -24,58 +24,58 @@ summary: ''
 
 Section 24.
 
-### Introduction[^key-abfbe79ad603ced10836366ed9f5cf38]
+### Introduction[^c-abfbe79ad603ced10836366ed9f5cf38]
 
-**1.**[^key-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### What can the power be used to do?[^key-abfbe79ad603ced10836366ed9f5cf38]
+### What can the power be used to do?[^c-abfbe79ad603ced10836366ed9f5cf38]
 
-**2.**[^key-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Creation of exceptions[^key-abfbe79ad603ced10836366ed9f5cf38]
+### Creation of exceptions[^c-abfbe79ad603ced10836366ed9f5cf38]
 
-**5.**[^key-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Requirement for actuary's certificates[^key-abfbe79ad603ced10836366ed9f5cf38]
+### Requirement for actuary's certificates[^c-abfbe79ad603ced10836366ed9f5cf38]
 
-**6.**[^key-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### When can the power be used?[^key-abfbe79ad603ced10836366ed9f5cf38]
+### When can the power be used?[^c-abfbe79ad603ced10836366ed9f5cf38]
 
-**7.**[^key-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Can the power be used more than once?[^key-abfbe79ad603ced10836366ed9f5cf38]
+### Can the power be used more than once?[^c-abfbe79ad603ced10836366ed9f5cf38]
 
-**9.**[^key-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Modifications for multi-employer or sectionalised schemes[^key-abfbe79ad603ced10836366ed9f5cf38]
+### Modifications for multi-employer or sectionalised schemes[^c-abfbe79ad603ced10836366ed9f5cf38]
 
-**10.**[^key-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The power overrides other legislation[^key-abfbe79ad603ced10836366ed9f5cf38]
+### The power overrides other legislation[^c-abfbe79ad603ced10836366ed9f5cf38]
 
-**11.**[^key-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Procedural requirements and supplementary matters[^key-abfbe79ad603ced10836366ed9f5cf38]
+### Procedural requirements and supplementary matters[^c-abfbe79ad603ced10836366ed9f5cf38]
 
-**12.**[^key-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Information[^key-abfbe79ad603ced10836366ed9f5cf38]
+### Information[^c-abfbe79ad603ced10836366ed9f5cf38]
 
-**14.**[^key-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Definitions[^key-abfbe79ad603ced10836366ed9f5cf38]
+### Definitions[^c-abfbe79ad603ced10836366ed9f5cf38]
 
-**15.**[^key-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-abfbe79ad603ced10836366ed9f5cf38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-abfbe79ad603ced10836366ed9f5cf38]: Textual amendment: [Sch. 14](https://www.legislation.gov.uk/nia/2015/5/schedule/14) repealed (6.4.2021) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 24(8)](https://www.legislation.gov.uk/nia/2015/5/section/24/8), [53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/a)
+[^c-abfbe79ad603ced10836366ed9f5cf38]: Textual amendment: [Sch. 14](https://www.legislation.gov.uk/nia/2015/5/schedule/14) repealed (6.4.2021) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 24(8)](https://www.legislation.gov.uk/nia/2015/5/section/24/8), [53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/a)

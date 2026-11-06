@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Mental health officer’s duty to prepare report[^key-50b478ea0899d18ade225cad29a73c08]
+## 61. Mental health officer’s duty to prepare report[^c-50b478ea0899d18ade225cad29a73c08]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50b478ea0899d18ade225cad29a73c08]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2003/13/section/61) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-50b478ea0899d18ade225cad29a73c08]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2003/13/section/61) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Duties to operate installations and to provide treatment etc.[^key-d53f4b23300204ae33d6498bb204433b]
+## 16. Duties to operate installations and to provide treatment etc.[^c-d53f4b23300204ae33d6498bb204433b]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ in accordance with general and specific directions.
 
 ## Annotations
 
-[^key-d53f4b23300204ae33d6498bb204433b]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2004/20/section/16) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-d53f4b23300204ae33d6498bb204433b]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2004/20/section/16) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

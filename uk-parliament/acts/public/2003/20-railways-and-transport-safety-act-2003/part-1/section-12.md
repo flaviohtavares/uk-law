@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Crown application[^key-b14ff7464bbd6385eb42b0afd3863a5f]
+## 12. Crown application[^c-b14ff7464bbd6385eb42b0afd3863a5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Part applies in relation to property irrespective of whether it belongs to 
 
 ## Annotations
 
-[^key-b14ff7464bbd6385eb42b0afd3863a5f]: Commencement: S. 12 in force at 17.10.2005 by [S.I. 2005/1991](https://www.legislation.gov.uk/uksi/2005/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/1)[(2)(xii)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/2/xii)
+[^c-b14ff7464bbd6385eb42b0afd3863a5f]: Commencement: S. 12 in force at 17.10.2005 by [S.I. 2005/1991](https://www.legislation.gov.uk/uksi/2005/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/1)[(2)(xii)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/2/xii)

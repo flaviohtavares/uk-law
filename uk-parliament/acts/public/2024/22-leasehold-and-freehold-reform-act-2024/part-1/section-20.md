@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Lead enforcement authority[^key-301299d161835a631173b5e42876b7eb]
+## 20. Lead enforcement authority[^c-301299d161835a631173b5e42876b7eb]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-301299d161835a631173b5e42876b7eb]: Commencement: S. 20 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-301299d161835a631173b5e42876b7eb]: Commencement: S. 20 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

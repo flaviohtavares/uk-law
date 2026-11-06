@@ -32,15 +32,15 @@ summary: ''
 
 (6) In section 1058 (amount of tax credit), in subsection (1)(a), for “14%” substitute “ 12.5% ”.
 
-(7)[^key-7fe1ee37733bfa4d78d55a55d5520d4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-7fe1ee37733bfa4d78d55a55d5520d4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-7fe1ee37733bfa4d78d55a55d5520d4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-7fe1ee37733bfa4d78d55a55d5520d4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-7fe1ee37733bfa4d78d55a55d5520d4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-7fe1ee37733bfa4d78d55a55d5520d4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-7fe1ee37733bfa4d78d55a55d5520d4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-7fe1ee37733bfa4d78d55a55d5520d4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-7fe1ee37733bfa4d78d55a55d5520d4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-7fe1ee37733bfa4d78d55a55d5520d4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12)[^c21240881] This section comes into force on such day as the Treasury may by order appoint.
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7fe1ee37733bfa4d78d55a55d5520d4c]: Textual amendment: [S. 43(7)-(11)](https://www.legislation.gov.uk/ukpga/2011/11/section/43/7) omitted (with effect in accordance with Sch. 3 para. 38 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 3 para. 32(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/3/paragraph/32/c)
+[^c-7fe1ee37733bfa4d78d55a55d5520d4c]: Textual amendment: [S. 43(7)-(11)](https://www.legislation.gov.uk/ukpga/2011/11/section/43/7) omitted (with effect in accordance with Sch. 3 para. 38 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 3 para. 32(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/3/paragraph/32/c)
 
 [^c21240881]: Subordinate legislation: S. 43(12) power fully exercised: 15.9.2011 appointed by {[S.I. 2011/2280](https://www.legislation.gov.uk/uksi/2011/2280)}, art. 2

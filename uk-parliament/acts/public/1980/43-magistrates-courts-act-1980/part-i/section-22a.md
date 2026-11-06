@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22A. Low-value shoplifting to be a summary offence[^key-e4a1c00e97d2890564ad5c58adbf5197]
+## 22A. Low-value shoplifting to be a summary offence[^c-e4a1c00e97d2890564ad5c58adbf5197]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) But where a person accused of low-value shoplifting is aged 18 or over, and appears or is brought before the court before the summary trial of the offence begins, the court must give the person the opportunity of electing to be tried by the Crown Court for the offence and, if the person elects to be so tried—
 
 - (a) subsection (1) does not apply, and
-- (b)[^key-8c20d18dd8aaa3f71ceee8fdaefbad64] the court must proceed in relation to the offence in accordance with section 51(1) of the Crime and Disorder Act 1998.
+- (b)[^c-8c20d18dd8aaa3f71ceee8fdaefbad64] the court must proceed in relation to the offence in accordance with section 51(1) of the Crime and Disorder Act 1998.
 
 (3) “**Low-value shoplifting**” means an offence under section 1 of the Theft Act 1968 in circumstances where—
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e4a1c00e97d2890564ad5c58adbf5197]: Textual amendment: S. 22A inserted (E.W.) (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 176(3)](https://www.legislation.gov.uk/ukpga/2014/12/section/176/3), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 8](https://www.legislation.gov.uk/ukpga/2014/12/section/8), [21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93), [176(8)](https://www.legislation.gov.uk/ukpga/2014/12/section/176/8)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/17)
+[^c-e4a1c00e97d2890564ad5c58adbf5197]: Textual amendment: S. 22A inserted (E.W.) (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 176(3)](https://www.legislation.gov.uk/ukpga/2014/12/section/176/3), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 8](https://www.legislation.gov.uk/ukpga/2014/12/section/8), [21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93), [176(8)](https://www.legislation.gov.uk/ukpga/2014/12/section/176/8)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/17)
 
-[^key-8c20d18dd8aaa3f71ceee8fdaefbad64]: Textual amendment: S. 22A(2)(b) substituted (12.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 52(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/52/1), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1)
+[^c-8c20d18dd8aaa3f71ceee8fdaefbad64]: Textual amendment: S. 22A(2)(b) substituted (12.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 52(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/52/1), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1)

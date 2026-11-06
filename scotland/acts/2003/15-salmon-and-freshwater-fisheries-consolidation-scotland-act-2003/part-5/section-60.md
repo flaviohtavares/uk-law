@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Forfeiture[^key-5c3ac230bfc08c4987d8be40b3cf93ad]
+## 60. Forfeiture[^c-5c3ac230bfc08c4987d8be40b3cf93ad]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c3ac230bfc08c4987d8be40b3cf93ad]: Commencement: S. 60 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-5c3ac230bfc08c4987d8be40b3cf93ad]: Commencement: S. 60 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

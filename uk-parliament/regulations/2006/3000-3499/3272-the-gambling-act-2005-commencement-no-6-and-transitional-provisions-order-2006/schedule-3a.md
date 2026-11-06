@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3A — Provisions coming into force on 1st August 2007[^key-835881072ade3af4933b25a32e89dbe3]
+## SCHEDULE 3A — Provisions coming into force on 1st August 2007[^c-835881072ade3af4933b25a32e89dbe3]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ Article 2(3A)
 
 ## Annotations
 
-[^key-835881072ade3af4933b25a32e89dbe3]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3A) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [6](https://www.legislation.gov.uk/uksi/2007/1157/article/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/1157/schedule/2)
+[^c-835881072ade3af4933b25a32e89dbe3]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3A) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [6](https://www.legislation.gov.uk/uksi/2007/1157/article/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/1157/schedule/2)

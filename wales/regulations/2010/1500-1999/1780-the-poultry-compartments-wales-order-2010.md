@@ -45,11 +45,11 @@ The Welsh Ministers, make the following Order in exercise of the powers conferre
 
 The Welsh Ministers consider it expedient that references to Commission Regulation [(EC) 616/2009](https://www.legislation.gov.uk/european/regulation/2009/0616) [^f00002] implemented by this Order should have effect as references to that Regulation as amended from time to time.
 
-## 1. Title, application and commencement[^key-a242b06a14ac7333f68f08997efd00af]
+## 1. Title, application and commencement[^c-a242b06a14ac7333f68f08997efd00af]
 
 The title of this Order is the Poultry Compartments (Wales) Order 2010. It applies in relation to Wales and comes into force on 30 July 2010.
 
-## 2. Interpretation[^key-596f6051e8c28fd89bf888c08e163faa]
+## 2. Interpretation[^c-596f6051e8c28fd89bf888c08e163faa]
 
 In this Order:—
 
@@ -57,15 +57,15 @@ In this Order:—
 - “Commission Regulation” means Commission Regulation [(EC) No 616/2009](https://www.legislation.gov.uk/european/regulation/2009/0616) implementing Council Directive 2005/94/EV as regards the approval of poultry compartments and other captive birds compartments with respect to avian influenza and additional preventive biosecurity measures in such compartments as amended from time to time; and
 - “production site” means premises where poultry are kept for the purposes of breeding, rearing, fattening or egg production and which are the subject of an application under article 4.
 
-## 3. Competent authority[^key-4602a65ef3db61d6be0d2617a0b082ba]
+## 3. Competent authority[^c-4602a65ef3db61d6be0d2617a0b082ba]
 
 The Welsh Ministers are the competent authority for the purposes of the Commission Regulation.
 
-## 4. Applications[^key-73a4b34b59a4f5e62220454153db3249]
+## 4. Applications[^c-73a4b34b59a4f5e62220454153db3249]
 
 Applications for approval of compartments must be made on the forms provided by the Welsh Ministers on the Welsh Assembly Government website.
 
-## 5. Power of inspectors[^key-0d730ed36bea7c6f7caa6a680a0cd9b5]
+## 5. Power of inspectors[^c-0d730ed36bea7c6f7caa6a680a0cd9b5]
 
 (1) An inspector may, for any purpose relating to this Order—
 
@@ -74,13 +74,13 @@ Applications for approval of compartments must be made on the forms provided by 
 - (c) remove and retain a copy of any document or record;
 - (d) have access to, and check the operation of, any computer and any associated apparatus or material which is or has been used in connection with records;
 - (e) where a record is kept by means of a computer, require the record to be produced in a form which may be taken away;
-- (f) be accompanied by [^key-6068bf38654531c233adcf1bd1dd263b]... any person the inspector considers necessary.
+- (f) be accompanied by [^c-6068bf38654531c233adcf1bd1dd263b]... any person the inspector considers necessary.
 
 (2) A person required to do anything by an inspector acting under paragraph (1) must, unless they have reasonable cause, do so without delay.
 
 (3) For the purposes of this article an inspector means any person approved as an inspector under the Animal Health Act 1981.
 
-## 6. Inspections[^key-a8ccf62522c32c2c9138ca5a2b130d65]
+## 6. Inspections[^c-a8ccf62522c32c2c9138ca5a2b130d65]
 
 (1) The Welsh Ministers must inspect all production sites before approving them as a compartment..
 
@@ -102,16 +102,16 @@ This Order implements Commission Regulation [(EC) No. 616/2009](https://www.legi
 
 [^f00002]: Footnote: OJ No L 181, 14.7.2009, p.16.
 
-[^key-a242b06a14ac7333f68f08997efd00af]: Commencement: Art. 1 in force at 30.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1780/article/1)
+[^c-a242b06a14ac7333f68f08997efd00af]: Commencement: Art. 1 in force at 30.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1780/article/1)
 
-[^key-596f6051e8c28fd89bf888c08e163faa]: Commencement: Art. 2 in force at 30.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1780/article/1)
+[^c-596f6051e8c28fd89bf888c08e163faa]: Commencement: Art. 2 in force at 30.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1780/article/1)
 
-[^key-4602a65ef3db61d6be0d2617a0b082ba]: Commencement: Art. 3 in force at 30.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1780/article/1)
+[^c-4602a65ef3db61d6be0d2617a0b082ba]: Commencement: Art. 3 in force at 30.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1780/article/1)
 
-[^key-73a4b34b59a4f5e62220454153db3249]: Commencement: Art. 4 in force at 30.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1780/article/1)
+[^c-73a4b34b59a4f5e62220454153db3249]: Commencement: Art. 4 in force at 30.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1780/article/1)
 
-[^key-0d730ed36bea7c6f7caa6a680a0cd9b5]: Commencement: Art. 5 in force at 30.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1780/article/1)
+[^c-0d730ed36bea7c6f7caa6a680a0cd9b5]: Commencement: Art. 5 in force at 30.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1780/article/1)
 
-[^key-6068bf38654531c233adcf1bd1dd263b]: Textual amendment: Words in [art. 5(1)(f)](https://www.legislation.gov.uk/wsi/2010/1780/article/5/1/f) omitted (31.12.2020) by virtue of [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2019/371/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6068bf38654531c233adcf1bd1dd263b]: Textual amendment: Words in [art. 5(1)(f)](https://www.legislation.gov.uk/wsi/2010/1780/article/5/1/f) omitted (31.12.2020) by virtue of [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2019/371/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a8ccf62522c32c2c9138ca5a2b130d65]: Commencement: Art. 6 in force at 30.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1780/article/1)
+[^c-a8ccf62522c32c2c9138ca5a2b130d65]: Commencement: Art. 6 in force at 30.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1780/article/1)

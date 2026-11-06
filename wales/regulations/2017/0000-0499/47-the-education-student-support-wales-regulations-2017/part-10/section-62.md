@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Overpayments[^key-4e722af7421601c820f5d2f690c65f31]
+## 62. Overpayments[^c-4e722af7421601c820f5d2f690c65f31]
 
 *Extent: E+W*
 
@@ -48,15 +48,15 @@ summary: ''
 - (a) by subtracting the overpayment from any kind of grant payable to the eligible student from time to time pursuant to regulations made by the Welsh Ministers under section 22 of the 1998 Act;
 - (b) by taking such other action for the recovery of an overpayment as is available to them.
 
-(10)[^key-7c9fa8bb172bd24351cb88109f02f815] Any overpayment of a loan for living costs in respect of any academic year may be recovered by the Welsh Ministers—
+(10)[^c-7c9fa8bb172bd24351cb88109f02f815] Any overpayment of a loan for living costs in respect of any academic year may be recovered by the Welsh Ministers—
 
 - (a) by subtracting the overpayment from the amount of any loan payable to the student from time to time under these Regulations or any other regulations made by the Welsh Ministers under section 22 of the 1998 Act;
 - (b) by requiring the student to repay the overpayment in accordance with regulations made under section 22 of the 1998 Act;
 - (c) by any other method available to them.
 
-(11)[^key-2df13970097418df039812f2ea2a87fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-2df13970097418df039812f2ea2a87fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-f35893278875f0eea48a490add7a55fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-f35893278875f0eea48a490add7a55fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (13) In this regulation “the relevant date” (“*y dyddiad perthnasol*”) is the date on which the first term of the academic year in question actually begins.
 
@@ -64,10 +64,10 @@ summary: ''
 
 ## Annotations
 
-[^key-4e722af7421601c820f5d2f690c65f31]: Commencement: Reg. 62 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-4e722af7421601c820f5d2f690c65f31]: Commencement: Reg. 62 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
 
-[^key-7c9fa8bb172bd24351cb88109f02f815]: Textual amendment: [Reg. 62(10)](https://www.legislation.gov.uk/wsi/2017/47/regulation/62/10) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (Miscellaneous Amendments) (Wales) (No. 2) Regulations 2020 (S.I. 2020/708)](https://www.legislation.gov.uk/wsi/2020/708), [reg. 3(a)](https://www.legislation.gov.uk/wsi/2020/708/regulation/3/a)
+[^c-7c9fa8bb172bd24351cb88109f02f815]: Textual amendment: [Reg. 62(10)](https://www.legislation.gov.uk/wsi/2017/47/regulation/62/10) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (Miscellaneous Amendments) (Wales) (No. 2) Regulations 2020 (S.I. 2020/708)](https://www.legislation.gov.uk/wsi/2020/708), [reg. 3(a)](https://www.legislation.gov.uk/wsi/2020/708/regulation/3/a)
 
-[^key-2df13970097418df039812f2ea2a87fd]: Textual amendment: [Reg. 62(11)](https://www.legislation.gov.uk/wsi/2017/47/regulation/62/11) omitted (with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Education (Student Support) (Miscellaneous Amendments) (Wales) (No. 2) Regulations 2020 (S.I. 2020/708)](https://www.legislation.gov.uk/wsi/2020/708), [reg. 3(b)](https://www.legislation.gov.uk/wsi/2020/708/regulation/3/b)
+[^c-2df13970097418df039812f2ea2a87fd]: Textual amendment: [Reg. 62(11)](https://www.legislation.gov.uk/wsi/2017/47/regulation/62/11) omitted (with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Education (Student Support) (Miscellaneous Amendments) (Wales) (No. 2) Regulations 2020 (S.I. 2020/708)](https://www.legislation.gov.uk/wsi/2020/708), [reg. 3(b)](https://www.legislation.gov.uk/wsi/2020/708/regulation/3/b)
 
-[^key-f35893278875f0eea48a490add7a55fa]: Textual amendment: [Reg. 62(12)](https://www.legislation.gov.uk/wsi/2017/47/regulation/62/12) omitted (with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Education (Student Support) (Miscellaneous Amendments) (Wales) (No. 2) Regulations 2020 (S.I. 2020/708)](https://www.legislation.gov.uk/wsi/2020/708), [reg. 3(c)](https://www.legislation.gov.uk/wsi/2020/708/regulation/3/c)
+[^c-f35893278875f0eea48a490add7a55fa]: Textual amendment: [Reg. 62(12)](https://www.legislation.gov.uk/wsi/2017/47/regulation/62/12) omitted (with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Education (Student Support) (Miscellaneous Amendments) (Wales) (No. 2) Regulations 2020 (S.I. 2020/708)](https://www.legislation.gov.uk/wsi/2020/708), [reg. 3(c)](https://www.legislation.gov.uk/wsi/2020/708/regulation/3/c)

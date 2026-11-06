@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1218ZDC. Terminal losses[^key-921bbddea408e5702170a10458364ff8][^key-c435f0e4f1b39f56dfbe9f77bf1f7fc7]
+## 1218ZDC. Terminal losses[^c-921bbddea408e5702170a10458364ff8][^c-c435f0e4f1b39f56dfbe9f77bf1f7fc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ company A may (on making a claim) make an election under subsection (3).
 
 ## Annotations
 
-[^key-921bbddea408e5702170a10458364ff8]: Modification: S. 1218ZDC modified by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 357UY](https://www.legislation.gov.uk/ukpga/2010/4/section/357UY) (as inserted (with effect in accordance with Sch. 6 para. 20 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 6 para. 17](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/17))
+[^c-921bbddea408e5702170a10458364ff8]: Modification: S. 1218ZDC modified by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 357UY](https://www.legislation.gov.uk/ukpga/2010/4/section/357UY) (as inserted (with effect in accordance with Sch. 6 para. 20 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 6 para. 17](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/17))
 
-[^key-c435f0e4f1b39f56dfbe9f77bf1f7fc7]: Textual amendment: Pt. 15E inserted (for specified purposes and with effect in accordance with Sch. 6 paras. 20, 21(1)(a) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/1) (with [Sch. 6 para. 21(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/21/3))
+[^c-c435f0e4f1b39f56dfbe9f77bf1f7fc7]: Textual amendment: Pt. 15E inserted (for specified purposes and with effect in accordance with Sch. 6 paras. 20, 21(1)(a) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/1) (with [Sch. 6 para. 21(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/21/3))

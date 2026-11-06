@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6B — FIXED PENALTIES FOR CERTAIN OFFENCES UNDER PART 4[^M_C_4abde005-5174-4609-cc29-aea08e34dad8][^key-8ec82502659179393c4a0337084bb65b]
+## SCHEDULE 6B — FIXED PENALTIES FOR CERTAIN OFFENCES UNDER PART 4[^M_C_4abde005-5174-4609-cc29-aea08e34dad8][^c-8ec82502659179393c4a0337084bb65b]
 
 *Extent: S*
 
@@ -144,7 +144,7 @@ accordingly, that the fixed penalty is or, as the case may be, is not enforceabl
 
 [^M_C_4abde005-5174-4609-cc29-aea08e34dad8]: Modification: [Sch. 6B](https://www.legislation.gov.uk/ukpga/1991/22/schedule/6B) restricted (1.10.2008) by [The Road Works (Fixed Penalty) (Scotland) Regulations 2008 (S.S.I. 2008/244)](https://www.legislation.gov.uk/ssi/2008/244), [regs. 1](https://www.legislation.gov.uk/ssi/2008/244/regulation/1), [3](https://www.legislation.gov.uk/ssi/2008/244/regulation/3)
 
-[^key-8ec82502659179393c4a0337084bb65b]: Textual amendment: [Sch. 6B](https://www.legislation.gov.uk/ukpga/1991/22/schedule/6B) inserted (S.) (1.10.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 5](https://www.legislation.gov.uk/asp/2005/12/schedule/5); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(3)](https://www.legislation.gov.uk/ssi/2008/15/article/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2008/15/schedule/2)
+[^c-8ec82502659179393c4a0337084bb65b]: Textual amendment: [Sch. 6B](https://www.legislation.gov.uk/ukpga/1991/22/schedule/6B) inserted (S.) (1.10.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 5](https://www.legislation.gov.uk/asp/2005/12/schedule/5); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(3)](https://www.legislation.gov.uk/ssi/2008/15/article/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2008/15/schedule/2)
 
 [^M_F_5e6d395f-f927-4aeb-962f-6576d2ff821e]: Textual amendment: Word in Sch. 6B para. 4(2) substituted (1.10.2008) by [The Road Works (Fixed Penalty) (Scotland) Regulations 2008 (S.S.I. 2008/244)](https://www.legislation.gov.uk/ssi/2008/244), [regs. 1](https://www.legislation.gov.uk/ssi/2008/244/regulation/1), [8(a)](https://www.legislation.gov.uk/ssi/2008/244/regulation/8/a)
 

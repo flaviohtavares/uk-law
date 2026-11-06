@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Maintenance and inspection of equipment[^key-8968c71803d197b08793319db12922be]
+## 15. Maintenance and inspection of equipment[^c-8968c71803d197b08793319db12922be]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8968c71803d197b08793319db12922be]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2014/3248/regulation/15) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-8968c71803d197b08793319db12922be]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2014/3248/regulation/15) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

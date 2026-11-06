@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Amendment and revocation of retained direct EU legislation[^key-8f870d4c87e42b8904163da664bcb12b]
+## 8. Amendment and revocation of retained direct EU legislation[^c-8f870d4c87e42b8904163da664bcb12b]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f870d4c87e42b8904163da664bcb12b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2019/489/regulation/8) in force at 31.12.2020 in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1)
+[^c-8f870d4c87e42b8904163da664bcb12b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2019/489/regulation/8) in force at 31.12.2020 in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1)

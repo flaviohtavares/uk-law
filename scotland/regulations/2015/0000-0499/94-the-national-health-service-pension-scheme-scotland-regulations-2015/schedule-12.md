@@ -63,7 +63,7 @@ Table
 
 ### 3. Death of deferred member
 
-(1) A lump sum on death is payable under this paragraph in respect of the death of a deferred member who is not also an active member[^key-b5fef897535e8f20e7deade84ed6fc26] before the member reaches the age of 75.
+(1) A lump sum on death is payable under this paragraph in respect of the death of a deferred member who is not also an active member[^c-b5fef897535e8f20e7deade84ed6fc26] before the member reaches the age of 75.
 
 (2) The amount of the lump sum on death payable is equal to 2.025 times the amount of the member's deferred annual pension.
 
@@ -128,7 +128,7 @@ Table
   - DPS is, where the member continues in pensionable service as an active member on the election day (or the last such election day if the option has been exercised more than once), the total number of days of pensionable service which do not relate to the specified percentage of pension at the election day, and
   - TDPS is the aggregate of DPS and the total number of days of pensionable service (at the election day or the last such election day if the option has been exercised more than once) which relate to the specified percentage of pension payable;
 - “**election day**” has the meaning given in regulation 83;
-- “re-valued pensionable earnings” means, in relation to a scheme year, an amount equal to the actual pensionable earnings for the year increased by the same amount as that by which an annual pension equal to that amount would have been increased for the first time under the Pensions (Increase) Act 1971 at the relevant day if—[^key-9133d063e19d3173f741c94952be4271]
+- “re-valued pensionable earnings” means, in relation to a scheme year, an amount equal to the actual pensionable earnings for the year increased by the same amount as that by which an annual pension equal to that amount would have been increased for the first time under the Pensions (Increase) Act 1971 at the relevant day if—[^c-9133d063e19d3173f741c94952be4271]
   - (a) the pension was eligible to be so increased;
   - (b) the beginning date for the pension was the first day of the following scheme year; and
   - (c) the relevant day was the member’s last day of pensionable service.
@@ -167,7 +167,7 @@ Table
 
 (2) The lump sum must be paid to the member's personal representatives, except so far as it payable to a different person or body under sub-paragraph (4) or (6).
 
-(3) A member may give notice to the scheme manager[^key-846b502b34f45574a4887e3288a9d9a9]—
+(3) A member may give notice to the scheme manager[^c-846b502b34f45574a4887e3288a9d9a9]—
 
 - (a) specifying—
   - (i) the member's executors;
@@ -196,7 +196,7 @@ the lump sum (or, as the case may be, the percentage of it specified in respect 
 
 the lump sum may be paid to that person unless sub-paragraph (7) applies.
 
-(7) This sub-paragraph applies if the person to whom the lump sum (or a specified percentage of the lump sum) would otherwise be payable has been convicted of an offence specified in paragraph 12(4)[^key-c0a41c2b17696fe7d762a0b95948688d] of Schedule 3 (forfeiture of rights to benefit) and the Scottish Ministers have directed, as a consequence of that conviction, that the person's right to a payment in respect of the member's death is forfeited.
+(7) This sub-paragraph applies if the person to whom the lump sum (or a specified percentage of the lump sum) would otherwise be payable has been convicted of an offence specified in paragraph 12(4)[^c-c0a41c2b17696fe7d762a0b95948688d] of Schedule 3 (forfeiture of rights to benefit) and the Scottish Ministers have directed, as a consequence of that conviction, that the person's right to a payment in respect of the member's death is forfeited.
 
 (8) A notice under sub-paragraph (3)—
 
@@ -212,12 +212,12 @@ the lump sum may be paid to that person unless sub-paragraph (7) applies.
 
 ## Annotations
 
-[^key-b5fef897535e8f20e7deade84ed6fc26]: Textual amendment: Words in [sch. 12 para. 3(1)](https://www.legislation.gov.uk/ssi/2015/94/schedule/12/paragraph/3/1) inserted (retrospective to 1.4.2015) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/2), [14(2)](https://www.legislation.gov.uk/ssi/2017/433/regulation/14/2)
+[^c-b5fef897535e8f20e7deade84ed6fc26]: Textual amendment: Words in [sch. 12 para. 3(1)](https://www.legislation.gov.uk/ssi/2015/94/schedule/12/paragraph/3/1) inserted (retrospective to 1.4.2015) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/2), [14(2)](https://www.legislation.gov.uk/ssi/2017/433/regulation/14/2)
 
-[^key-9133d063e19d3173f741c94952be4271]: Textual amendment: Words in [sch. 12 para. 7(3)](https://www.legislation.gov.uk/ssi/2015/94/schedule/12/paragraph/7/3) substituted (retrospective to 1.4.2015) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/2), [14(3)](https://www.legislation.gov.uk/ssi/2017/433/regulation/14/3)
+[^c-9133d063e19d3173f741c94952be4271]: Textual amendment: Words in [sch. 12 para. 7(3)](https://www.legislation.gov.uk/ssi/2015/94/schedule/12/paragraph/7/3) substituted (retrospective to 1.4.2015) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/2), [14(3)](https://www.legislation.gov.uk/ssi/2017/433/regulation/14/3)
 
-[^key-846b502b34f45574a4887e3288a9d9a9]: Textual amendment: Word in [sch. 12 para. 9(3)](https://www.legislation.gov.uk/ssi/2015/94/schedule/12/paragraph/9/3) substituted (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/97)](https://www.legislation.gov.uk/ssi/2016/97), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/97/regulation/1/1), [16](https://www.legislation.gov.uk/ssi/2016/97/regulation/16)
+[^c-846b502b34f45574a4887e3288a9d9a9]: Textual amendment: Word in [sch. 12 para. 9(3)](https://www.legislation.gov.uk/ssi/2015/94/schedule/12/paragraph/9/3) substituted (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/97)](https://www.legislation.gov.uk/ssi/2016/97), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/97/regulation/1/1), [16](https://www.legislation.gov.uk/ssi/2016/97/regulation/16)
 
-[^key-c0a41c2b17696fe7d762a0b95948688d]: Textual amendment: Words in [sch. 12 para. 9(7)](https://www.legislation.gov.uk/ssi/2015/94/schedule/12/paragraph/9/7) substituted (with effect from 1.4.2015) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(4)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/4), [33](https://www.legislation.gov.uk/ssi/2025/259/regulation/33)
+[^c-c0a41c2b17696fe7d762a0b95948688d]: Textual amendment: Words in [sch. 12 para. 9(7)](https://www.legislation.gov.uk/ssi/2015/94/schedule/12/paragraph/9/7) substituted (with effect from 1.4.2015) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(4)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/4), [33](https://www.legislation.gov.uk/ssi/2025/259/regulation/33)
 
 [^c22415051]: Marginal citation: [1965 c.32](https://www.legislation.gov.uk/ukpga/1965/32).

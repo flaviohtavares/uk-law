@@ -34,7 +34,7 @@ Regulations made by the Department for Communities and laid before the Assembly 
 
 Pensions
 
-The Occupational Pension Schemes (Administration, Investment, Charges and Governance) (Amendment) Regulations (Northern Ireland) 2023 (revoked)[^key-f12f1b857436dad48c48d2a5e9c2b0ab]
+The Occupational Pension Schemes (Administration, Investment, Charges and Governance) (Amendment) Regulations (Northern Ireland) 2023 (revoked)[^c-f12f1b857436dad48c48d2a5e9c2b0ab]
 
 Made
 
@@ -42,34 +42,34 @@ Made
 
 Coming into operation in accordance with regulation 1(1) and (2)
 
-[^key-f12f1b857436dad48c48d2a5e9c2b0ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f12f1b857436dad48c48d2a5e9c2b0ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-f12f1b857436dad48c48d2a5e9c2b0ab]
+## 1. Citation, commencement, application and interpretation[^c-f12f1b857436dad48c48d2a5e9c2b0ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Occupational Pension Schemes (Scheme Administration) Regulations[^key-f12f1b857436dad48c48d2a5e9c2b0ab]
+## 2. Amendment of the Occupational Pension Schemes (Scheme Administration) Regulations[^c-f12f1b857436dad48c48d2a5e9c2b0ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Occupational Pension Schemes (Investment) Regulations[^key-f12f1b857436dad48c48d2a5e9c2b0ab]
+## 3. Amendment of the Occupational Pension Schemes (Investment) Regulations[^c-f12f1b857436dad48c48d2a5e9c2b0ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations[^key-f12f1b857436dad48c48d2a5e9c2b0ab]
+## 4. Amendment of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations[^c-f12f1b857436dad48c48d2a5e9c2b0ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Occupational Pension Schemes (Charges and Governance) Regulations[^key-f12f1b857436dad48c48d2a5e9c2b0ab]
+## 5. Amendment of the Occupational Pension Schemes (Charges and Governance) Regulations[^c-f12f1b857436dad48c48d2a5e9c2b0ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f12f1b857436dad48c48d2a5e9c2b0ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f12f1b857436dad48c48d2a5e9c2b0ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f12f1b857436dad48c48d2a5e9c2b0ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f12f1b857436dad48c48d2a5e9c2b0ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f12f1b857436dad48c48d2a5e9c2b0ab]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2023/62) revoked (1.10.2023) by [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/158)](https://www.legislation.gov.uk/nisr/2023/158), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/158/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2023/158/regulation/6)
+[^c-f12f1b857436dad48c48d2a5e9c2b0ab]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2023/62) revoked (1.10.2023) by [The Occupational Pension Schemes (Administration, Investment, Charges and Governance) (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/158)](https://www.legislation.gov.uk/nisr/2023/158), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/158/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2023/158/regulation/6)

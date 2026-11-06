@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 57. Execution of documents[^key-60820bfc4b2a4cd93b1ce2d787c21649]
+## 57. Execution of documents[^c-60820bfc4b2a4cd93b1ce2d787c21649]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60820bfc4b2a4cd93b1ce2d787c21649]: Commencement: [Reg. 57](https://www.legislation.gov.uk/nisr/2004/335/regulation/57) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-60820bfc4b2a4cd93b1ce2d787c21649]: Commencement: [Reg. 57](https://www.legislation.gov.uk/nisr/2004/335/regulation/57) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 191. General prohibition on deposit taking[^key-68044425599b44ffda3a2f211a05afea]
+## 191. General prohibition on deposit taking[^c-68044425599b44ffda3a2f211a05afea]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ In section 8(2) of the Credit Unions Act 1979[^f00134] (general prohibition on d
 
 ## Annotations
 
-[^key-68044425599b44ffda3a2f211a05afea]: Commencement: Art. 191 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-68044425599b44ffda3a2f211a05afea]: Commencement: Art. 191 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00134]: Footnote: Subsection (2) of section 8 was substituted by the Banking Act 1987 section 108(1), Schedule 6 paragraph 7(1).

@@ -36,92 +36,92 @@ Welsh Elections (Coronavirus) Act 2021 (repealed)
 
 2021 asc 2
 
-[^key-107e2a6987df80b4da6e7e484a5f4333]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-107e2a6987df80b4da6e7e484a5f4333]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Main provisions[^key-107e2a6987df80b4da6e7e484a5f4333]
+## Main provisions[^c-107e2a6987df80b4da6e7e484a5f4333]
 
-### 1. The 2021 election[^key-107e2a6987df80b4da6e7e484a5f4333]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Application of provisions of Government of Wales Act 2006[^key-107e2a6987df80b4da6e7e484a5f4333]
+### 1. The 2021 election[^c-107e2a6987df80b4da6e7e484a5f4333]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Dissolution of the current Senedd[^key-107e2a6987df80b4da6e7e484a5f4333]
+### 2. Application of provisions of Government of Wales Act 2006[^c-107e2a6987df80b4da6e7e484a5f4333]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Guidance on exercise of functions in the pre-election period[^key-107e2a6987df80b4da6e7e484a5f4333]
+### 3. Dissolution of the current Senedd[^c-107e2a6987df80b4da6e7e484a5f4333]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Date of first meeting after the 2021 election[^key-107e2a6987df80b4da6e7e484a5f4333]
+### 4. Guidance on exercise of functions in the pre-election period[^c-107e2a6987df80b4da6e7e484a5f4333]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Power to postpone 2021 election for up to 6 months[^key-107e2a6987df80b4da6e7e484a5f4333]
+### 5. Date of first meeting after the 2021 election[^c-107e2a6987df80b4da6e7e484a5f4333]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Power to provide for additional polling days[^key-107e2a6987df80b4da6e7e484a5f4333]
+### 6. Power to postpone 2021 election for up to 6 months[^c-107e2a6987df80b4da6e7e484a5f4333]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Further power to vary date of 2021 election[^key-107e2a6987df80b4da6e7e484a5f4333]
+### 7. Power to provide for additional polling days[^c-107e2a6987df80b4da6e7e484a5f4333]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Guidance on election campaigning[^key-107e2a6987df80b4da6e7e484a5f4333]
+### 8. Further power to vary date of 2021 election[^c-107e2a6987df80b4da6e7e484a5f4333]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Power to postpone Senedd by-elections[^key-107e2a6987df80b4da6e7e484a5f4333]
+### 9. Guidance on election campaigning[^c-107e2a6987df80b4da6e7e484a5f4333]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Power to postpone local authority by-elections[^key-107e2a6987df80b4da6e7e484a5f4333]
+### 10. Power to postpone Senedd by-elections[^c-107e2a6987df80b4da6e7e484a5f4333]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Orders and rules on the conduct of elections to be held in 2021[^key-107e2a6987df80b4da6e7e484a5f4333]
+### 11. Power to postpone local authority by-elections[^c-107e2a6987df80b4da6e7e484a5f4333]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Supplementary[^key-107e2a6987df80b4da6e7e484a5f4333]
-
-### 13. Effect of this Act on existing power to make provision about elections[^key-107e2a6987df80b4da6e7e484a5f4333]
+### 12. Orders and rules on the conduct of elections to be held in 2021[^c-107e2a6987df80b4da6e7e484a5f4333]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Modification of the 2007 Order[^key-107e2a6987df80b4da6e7e484a5f4333]
+## Supplementary[^c-107e2a6987df80b4da6e7e484a5f4333]
+
+### 13. Effect of this Act on existing power to make provision about elections[^c-107e2a6987df80b4da6e7e484a5f4333]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Review: preparations for the holding of the poll[^key-107e2a6987df80b4da6e7e484a5f4333]
+### 14. Modification of the 2007 Order[^c-107e2a6987df80b4da6e7e484a5f4333]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## General[^key-107e2a6987df80b4da6e7e484a5f4333]
-
-### 16. Interpretation[^key-107e2a6987df80b4da6e7e484a5f4333]
+### 15. Review: preparations for the holding of the poll[^c-107e2a6987df80b4da6e7e484a5f4333]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Power to make consequential and transitional provision etc.[^key-107e2a6987df80b4da6e7e484a5f4333]
+## General[^c-107e2a6987df80b4da6e7e484a5f4333]
+
+### 16. Interpretation[^c-107e2a6987df80b4da6e7e484a5f4333]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Coming into force[^key-107e2a6987df80b4da6e7e484a5f4333]
+### 17. Power to make consequential and transitional provision etc.[^c-107e2a6987df80b4da6e7e484a5f4333]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Short title[^key-107e2a6987df80b4da6e7e484a5f4333]
+### 18. Coming into force[^c-107e2a6987df80b4da6e7e484a5f4333]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Short title[^c-107e2a6987df80b4da6e7e484a5f4333]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-107e2a6987df80b4da6e7e484a5f4333]: Textual amendment: [Act](https://www.legislation.gov.uk/asc/2021/2) repealed (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 61](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/61)
+[^c-107e2a6987df80b4da6e7e484a5f4333]: Textual amendment: [Act](https://www.legislation.gov.uk/asc/2021/2) repealed (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 61](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/61)

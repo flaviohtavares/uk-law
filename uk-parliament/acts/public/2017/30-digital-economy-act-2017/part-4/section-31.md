@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Lending of e-books by public libraries[^key-263be20846263bbe5ec34f88681f5b68][^key-02116c362ff8c22c9e56fef84ca4924e]
+## 31. Lending of e-books by public libraries[^c-263be20846263bbe5ec34f88681f5b68][^c-02116c362ff8c22c9e56fef84ca4924e]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-263be20846263bbe5ec34f88681f5b68]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2017/30/section/31) in force at 30.6.2018 for E.W.S. by [S.I. 2018/690](https://www.legislation.gov.uk/uksi/2018/690), [reg. 2](https://www.legislation.gov.uk/uksi/2018/690/regulation/2)
+[^c-263be20846263bbe5ec34f88681f5b68]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2017/30/section/31) in force at 30.6.2018 for E.W.S. by [S.I. 2018/690](https://www.legislation.gov.uk/uksi/2018/690), [reg. 2](https://www.legislation.gov.uk/uksi/2018/690/regulation/2)
 
-[^key-02116c362ff8c22c9e56fef84ca4924e]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2017/30/section/31) in force at 30.6.2021 for N.I. by [S.I. 2021/680](https://www.legislation.gov.uk/uksi/2021/680), [reg. 2](https://www.legislation.gov.uk/uksi/2021/680/regulation/2)
+[^c-02116c362ff8c22c9e56fef84ca4924e]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2017/30/section/31) in force at 30.6.2021 for N.I. by [S.I. 2021/680](https://www.legislation.gov.uk/uksi/2021/680), [reg. 2](https://www.legislation.gov.uk/uksi/2021/680/regulation/2)

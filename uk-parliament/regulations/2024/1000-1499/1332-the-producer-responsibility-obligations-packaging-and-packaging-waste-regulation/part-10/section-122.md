@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Civil sanctions: Scottish enforcement agencies[^key-ed456c4289d5525bd13d1ac4df601a92]
+## 122. Civil sanctions: Scottish enforcement agencies[^c-ed456c4289d5525bd13d1ac4df601a92]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed456c4289d5525bd13d1ac4df601a92]: Commencement: Reg. 122 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-ed456c4289d5525bd13d1ac4df601a92]: Commencement: Reg. 122 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

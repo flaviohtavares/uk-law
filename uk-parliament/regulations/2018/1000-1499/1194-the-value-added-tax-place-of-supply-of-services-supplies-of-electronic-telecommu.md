@@ -32,7 +32,7 @@ summary: ''
 
 Value Added Tax
 
-The Value Added Tax (Place of Supply of Services) (Supplies of Electronic, Telecommunication and Broadcasting Services) Order 2018 (revoked)[^key-3c9cb27bf6f716a9e876f5dd708ec80e]
+The Value Added Tax (Place of Supply of Services) (Supplies of Electronic, Telecommunication and Broadcasting Services) Order 2018 (revoked)[^c-3c9cb27bf6f716a9e876f5dd708ec80e]
 
 Approved by the House of Commons
 
@@ -48,25 +48,25 @@ Coming into force
 
 1st January 2019
 
-[^key-3c9cb27bf6f716a9e876f5dd708ec80e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c9cb27bf6f716a9e876f5dd708ec80e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-3c9cb27bf6f716a9e876f5dd708ec80e]
+## 1. Citation, commencement and effect[^c-3c9cb27bf6f716a9e876f5dd708ec80e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to Part 3 of Schedule 4A to the Value Added Tax Act 1994[^key-3c9cb27bf6f716a9e876f5dd708ec80e]
+## 2. Amendments to Part 3 of Schedule 4A to the Value Added Tax Act 1994[^c-3c9cb27bf6f716a9e876f5dd708ec80e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-3c9cb27bf6f716a9e876f5dd708ec80e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3c9cb27bf6f716a9e876f5dd708ec80e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3c9cb27bf6f716a9e876f5dd708ec80e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c9cb27bf6f716a9e876f5dd708ec80e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-3c9cb27bf6f716a9e876f5dd708ec80e]EXPLANATORY NOTE
+[^c-3c9cb27bf6f716a9e876f5dd708ec80e]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -82,4 +82,4 @@ A Tax Information and Impact Note covering this instrument was published on 11th
 
 ## Annotations
 
-[^key-3c9cb27bf6f716a9e876f5dd708ec80e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/1194) revoked (31.12.2020) by [The Value Added Tax (Place of Supply of Services) (Supplies of Electronic, Telecommunication and Broadcasting Services) (Amendment and Revocation) (EU Exit) Order 2019 (S.I. 2019/404)](https://www.legislation.gov.uk/uksi/2019/404), [arts. 2](https://www.legislation.gov.uk/uksi/2019/404/article/2), [4](https://www.legislation.gov.uk/uksi/2019/404/article/4); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-3c9cb27bf6f716a9e876f5dd708ec80e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/1194) revoked (31.12.2020) by [The Value Added Tax (Place of Supply of Services) (Supplies of Electronic, Telecommunication and Broadcasting Services) (Amendment and Revocation) (EU Exit) Order 2019 (S.I. 2019/404)](https://www.legislation.gov.uk/uksi/2019/404), [arts. 2](https://www.legislation.gov.uk/uksi/2019/404/article/2), [4](https://www.legislation.gov.uk/uksi/2019/404/article/4); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

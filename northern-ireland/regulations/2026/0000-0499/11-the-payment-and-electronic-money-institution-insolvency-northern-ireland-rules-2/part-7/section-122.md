@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 122. New administrator appointed[^key-ef184211c8abd57cba7ee69048ea53f3]
+## 122. New administrator appointed[^c-ef184211c8abd57cba7ee69048ea53f3]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef184211c8abd57cba7ee69048ea53f3]: Commencement: [Rule 122](https://www.legislation.gov.uk/nisr/2026/11/rule/122) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-ef184211c8abd57cba7ee69048ea53f3]: Commencement: [Rule 122](https://www.legislation.gov.uk/nisr/2026/11/rule/122) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

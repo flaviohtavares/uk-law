@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Average weekly income other than earnings[^key-c1fa5679a87157c3b999c8f974130a00]
+## 28. Average weekly income other than earnings[^c-c1fa5679a87157c3b999c8f974130a00]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1fa5679a87157c3b999c8f974130a00]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2006/405/regulation/28) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-c1fa5679a87157c3b999c8f974130a00]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2006/405/regulation/28) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Declining to determine an application[^key-7f47e2014ce5f20de8e84d1472228bc8]
+## 22. Declining to determine an application[^c-7f47e2014ce5f20de8e84d1472228bc8]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f47e2014ce5f20de8e84d1472228bc8]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2019/13/section/22) in force at 1.10.2022 by [S.S.I. 2022/275](https://www.legislation.gov.uk/ssi/2022/275), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2022/275/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/275/regulation/3))
+[^c-7f47e2014ce5f20de8e84d1472228bc8]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2019/13/section/22) in force at 1.10.2022 by [S.S.I. 2022/275](https://www.legislation.gov.uk/ssi/2022/275), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2022/275/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/275/regulation/3))

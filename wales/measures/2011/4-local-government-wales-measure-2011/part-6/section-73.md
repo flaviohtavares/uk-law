@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Occasional vacancies in committee chairs[^key-6fe04966673b3b83386c2180e9ad012a]
+## 73. Occasional vacancies in committee chairs[^c-6fe04966673b3b83386c2180e9ad012a]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6fe04966673b3b83386c2180e9ad012a]: Commencement: [S. 73](https://www.legislation.gov.uk/mwa/2011/4/section/73) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(h)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/h)
+[^c-6fe04966673b3b83386c2180e9ad012a]: Commencement: [S. 73](https://www.legislation.gov.uk/mwa/2011/4/section/73) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(h)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/h)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13A. Turning circle—articulated vehicles other than those incorporating a car transporter[^key-bd96708822c418469285170b1e069d72][^key-e74e1dc73bc469f831c1ae7dccb0f911]
+## 13A. Turning circle—articulated vehicles other than those incorporating a car transporter[^c-bd96708822c418469285170b1e069d72][^c-e74e1dc73bc469f831c1ae7dccb0f911]
 
 *Extent: E+W+S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bd96708822c418469285170b1e069d72]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/13A) substituted (1.1.2001) by [The Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 2000 (S.I. 2000/3197)](https://www.legislation.gov.uk/uksi/2000/3197), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3197/regulation/1), [3](https://www.legislation.gov.uk/uksi/2000/3197/regulation/3)
+[^c-bd96708822c418469285170b1e069d72]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/13A) substituted (1.1.2001) by [The Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 2000 (S.I. 2000/3197)](https://www.legislation.gov.uk/uksi/2000/3197), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3197/regulation/1), [3](https://www.legislation.gov.uk/uksi/2000/3197/regulation/3)
 
-[^key-e74e1dc73bc469f831c1ae7dccb0f911]: Textual amendment: [Regs. 13A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/13A), [13B](https://www.legislation.gov.uk/uksi/1986/1078/regulation/13B) inserted (19.3.1990) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 1990 (S.I. 1990/317)](https://www.legislation.gov.uk/uksi/1990/317), [regs. 1](https://www.legislation.gov.uk/uksi/1990/317/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/1990/317/regulation/5/2) (with [reg. 2(a)](https://www.legislation.gov.uk/uksi/1990/317/regulation/2/a))
+[^c-e74e1dc73bc469f831c1ae7dccb0f911]: Textual amendment: [Regs. 13A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/13A), [13B](https://www.legislation.gov.uk/uksi/1986/1078/regulation/13B) inserted (19.3.1990) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 1990 (S.I. 1990/317)](https://www.legislation.gov.uk/uksi/1990/317), [regs. 1](https://www.legislation.gov.uk/uksi/1990/317/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/1990/317/regulation/5/2) (with [reg. 2(a)](https://www.legislation.gov.uk/uksi/1990/317/regulation/2/a))

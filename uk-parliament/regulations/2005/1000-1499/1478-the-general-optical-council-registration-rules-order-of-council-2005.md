@@ -93,7 +93,7 @@ The General Optical Council, in exercise of their powers under sections 7, 8A(4)
 - “**the Council**” means the General Optical Council;
 - “**contact lens specialty**” means the specialty described in columns 2 and 3 of the entry at line A of the Table in rule 10;
 - “**Fitness to Practise Committee**” means the Fitness to Practise Committee referred to in section 5C(1) (the Fitness to Practise Committee) [^c12246721];
-- “independent prescribing specialty” means the specialty described in columns 2 and 3 of the entry at row D of the Table in rule 10;[^key-cbb2ddd0ca95937f4ba879bbc118efa5]
+- “independent prescribing specialty” means the specialty described in columns 2 and 3 of the entry at row D of the Table in rule 10;[^c-cbb2ddd0ca95937f4ba879bbc118efa5]
 - “**practice address**”—
   - (a) in relation to an individual, means the address of a practice or place of business from which the individual practises (or proposes to practise) the profession of an optometrist or a dispensing optician, other than an address at which he practises that profession—
     - (i) only in an emergency,
@@ -107,11 +107,11 @@ The General Optical Council, in exercise of their powers under sections 7, 8A(4)
 - “**specialty**” means a specialty or level of proficiency particulars of which may, by virtue of rule 10, be entered in a register against a registrant's name; and
 - “**student registrant**” means a person registered under section 8A (registers of students) [^c12246741].
 
-(1A)[^key-1d92502be74ac7e4975986246ff34902] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-1d92502be74ac7e4975986246ff34902] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In these Rules any reference to a numbered section is a reference to the section of the Opticians Act 1989 which bears that number.
 
-#### 2A. Notices and notifications[^key-909f87d36443b676c7b591870118740a]
+#### 2A. Notices and notifications[^c-909f87d36443b676c7b591870118740a]
 
 (1) Any notice, notification or other document which is required by these Rules to be served on another person may be served by email if that person has provided an email address for communications.
 
@@ -146,14 +146,14 @@ shall be submitted to the registrar in such form (including electronic) as may b
 - (a) the applicant's full name;
 - (b) his former names, if any;
 - (c) his date of birth;
-- (d) [^key-45e02886300a81b35290edde03a2ecc5]... a declaration as to whether he—
+- (d) [^c-45e02886300a81b35290edde03a2ecc5]... a declaration as to whether he—
   - (i) has any convictions (including a conviction by court martial) or cautions in the British Islands for a criminal offence, or a conviction elsewhere for an offence which, if committed in England or Wales, would constitute a criminal offence,
   - (ii) has accepted a conditional offer under section 302 of the Criminal Procedure (Scotland) Act 1995 [^c12246781] (fixed penalty: conditional offer by procurator fiscal) or agreed to pay a penalty under section 115A of the Social Security Administration Act 1992 [^c12246791] (penalty as alternative to prosecution),
   - (iii) in proceedings in Scotland for an offence, has been the subject of an order under section 246(2) or (3) of the Criminal Procedure (Scotland) Act 1995 discharging him absolutely,
   - (iv) was the subject of any determination by a body in the United Kingdom responsible under any enactment for the regulation of a health or social care profession to the effect that his fitness to practise as a member of that profession is impaired, or a determination by a regulatory body outside the United Kingdom to the same effect, or
   - (v) is currently the subject of any investigation or proceedings which might lead to any of the results set out in paragraphs (i) to (iv);
 - (e) in any case falling within sub-paragraph (d), details of any investigations (including approximate dates), the place where any relevant proceedings are being or were brought and, where possible, the outcome;
-- (f) [^key-898e0fe307a3ed9b81b1446bbc9e6451]... details of any adverse physical or mental health which a reasonable person would think may impair his fitness to practise; and
+- (f) [^c-898e0fe307a3ed9b81b1446bbc9e6451]... details of any adverse physical or mental health which a reasonable person would think may impair his fitness to practise; and
 - (g) a photograph which is signed and dated by—
   - (i) a registered optometrist or registered dispensing optician,
   - (ii) a registered medical practitioner,
@@ -192,7 +192,7 @@ In addition to the information required under rule 5, an application under rule 
   - (ii) all proposed practice addresses of the applicant, other than the contact address, together with, in each case, an indication of the trading name, if any, under which the applicant proposes to practise at each address;
 - (c) a copy of a certificate of any approved qualification or other qualification held by the applicant in reliance upon which the application is made, including the name of the approved training establishment or establishment from which, and the date upon which, the qualification was obtained (where this information is not stated on the certificate);
 - (d) details of the practical experience in the work of an optometrist or a dispensing optician by virtue of which the application is made;
-- (e)[^key-0d89a0389950fd452d3ec91dcb738864] evidence that, if the applicant's name were to be entered in the register, that applicant would have in place appropriate cover under an indemnity arrangement for the purposes of complying with section 10A (indemnity arrangements for individual registrants and persons applying for their name to be registered);
+- (e)[^c-0d89a0389950fd452d3ec91dcb738864] evidence that, if the applicant's name were to be entered in the register, that applicant would have in place appropriate cover under an indemnity arrangement for the purposes of complying with section 10A (indemnity arrangements for individual registrants and persons applying for their name to be registered);
 - (f) a copy of that indemnity arrangement or a means of identifying the terms of that indemnity arrangement.
 
 #### 8. Information required from applicants for registration or restoration of registration as business registrants
@@ -236,7 +236,7 @@ In addition to the information required under rule 5, an application under rule 
   - (iii) a certificate issued by the applicant that so much of its business as consists of the fitting and supply of optical appliances is carried on under the management of a registered optometrist or registered dispensing optician; or
 - (d) in the case of an application made in reliance upon section 9(2)(d) —
   - (i) a certificate described in sub-paragraph (c)(ii) and (iii), and
-  - (ii) a copy of the acknowledgement of registration issued by the Financial Conduct Authority[^key-ddd86c14116b631b95026999c043eb5f] under section 2(3) of the Industrial and Provident Societies Act 1965 [^c12246861] or the registrar under section 2(3) of the Industrial and Provident Societies Act Northern Ireland 1969 [^c12246871].
+  - (ii) a copy of the acknowledgement of registration issued by the Financial Conduct Authority[^c-ddd86c14116b631b95026999c043eb5f] under section 2(3) of the Industrial and Provident Societies Act 1965 [^c12246861] or the registrar under section 2(3) of the Industrial and Provident Societies Act Northern Ireland 1969 [^c12246871].
 
 (3) The registrar may seek information additional to that provided with the application—
 
@@ -250,7 +250,7 @@ In addition to the information required under rule 5, an application under rule 
 - (a) where the application is for an entry relating to a contact lens specialty and is reliant upon certification under rule 5 (certification) of the General Optical Council (Contact Lens Qualifications Etc.) Rules 1988 [^c12246881], a copy of the certificate; or
 - (b) in any other case, a copy of a certificate of the qualification held by the applicant by virtue of which the application is made, including the name of the approved training establishment or other establishment from which, and the date upon which, the qualification was obtained (where this information is not stated on the certificate)
 
-(1A)[^key-ae44b5d3b356dd5a41440e38f47b9497] Where the application is for an entry relating to the independent prescribing specialty, the application shall include details of the applicant’s practical experience relating to the work and activities listed in column 3 of the Table in rule 10 in relation to that specialty.
+(1A)[^c-ae44b5d3b356dd5a41440e38f47b9497] Where the application is for an entry relating to the independent prescribing specialty, the application shall include details of the applicant’s practical experience relating to the work and activities listed in column 3 of the Table in rule 10 in relation to that specialty.
 
 (2) Where the application is for restoration of an entry relating to a specialty, the application shall—
 
@@ -288,13 +288,13 @@ Specialties
 </tbody>
 </table>
 
-[^key-d937d7d5e4775fefea3aed1d354d8c7b][^key-e548ac51ffc0873e64738c4cabcb4985][^key-7bdd49119451c6f8376fa6e4bf22c208][^key-f132f9df8e01b47f6f147bea7a940c72][^key-b8dff49a0e517fc1f12b47c2cb74170f]
+[^c-d937d7d5e4775fefea3aed1d354d8c7b][^c-e548ac51ffc0873e64738c4cabcb4985][^c-7bdd49119451c6f8376fa6e4bf22c208][^c-f132f9df8e01b47f6f147bea7a940c72][^c-b8dff49a0e517fc1f12b47c2cb74170f]
 
 #### 11. Performance of work or activities without entry in the register relating to specialty
 
 Where a registrant performs any work or activities listed in column 3 of the Table, without particulars of the relevant specialty being entered against his name in the register, this shall be treated as adversely affecting his fitness to practise for the purposes of section 13D(2) (allegations) [^c12246901].
 
-#### 11A. Exceptions in relation to performance of work or activities without entry in the register relating to a specialty[^key-68a45d368717912e5fa0dc705132b0bc]
+#### 11A. Exceptions in relation to performance of work or activities without entry in the register relating to a specialty[^c-68a45d368717912e5fa0dc705132b0bc]
 
 Rule 11 shall not apply to the work or activities listed in column 3 of the entry at row A of the Table in rule 10 where performed by—
 
@@ -308,7 +308,7 @@ Rule 11 shall not apply to the work or activities listed in column 3 of the entr
 
 #### 12. Registration and restoration of registration
 
-(1)[^key-8b7f7925f3acd1fd2620f3441b2384ec] On receipt of an application under rule 3 for registration or restoration of registration, the registrar shall enter the name of the applicant on the appropriate register if the Council is satisfied that—
+(1)[^c-8b7f7925f3acd1fd2620f3441b2384ec] On receipt of an application under rule 3 for registration or restoration of registration, the registrar shall enter the name of the applicant on the appropriate register if the Council is satisfied that—
 
 - (a) the applicant is entitled to be registered under section 8, 8A or 9;
 - (b) the application is in accordance with rules 3 and 5 to 8, as applicable;
@@ -316,7 +316,7 @@ Rule 11 shall not apply to the work or activities listed in column 3 of the entr
 - (d) any requirements imposed upon him by rules made under section 11A (requirement for continuing education and training) [^c12246921] have been met; and
 - (e) any application fee has been paid.
 
-(2)[^key-b9b94ebadaa257ed0a9397656ce9d05f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b9b94ebadaa257ed0a9397656ce9d05f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 13. Entry and restoration of an entry relating to a specialty in a register
 
@@ -326,12 +326,12 @@ On receipt of an application under rule 4 for the entry in a register of particu
   - (i) holds a qualification approved by the Council under section 12(7)(b) [^c12246931],
   - (ii) in the case of a contact lens specialty, is a dispensing optician who has been certified under rule 5 of the Contact Lens (Qualifications Etc.) Rules 1988, or
   - (iii) holds a qualification granted outside the United Kingdom which attests to an equivalent content and standard of education and training to a qualification in the specialty approved by the Council under section 12(7)(b);
-- (aa)[^key-12cf6c5e5ac8e2c99c76c125c20b5592] in the case of the independent prescribing specialty, the applicant has had adequate practical experience relating to the work or activities listed in column 3 of the Table in rule 10 in relation to that specialty;
+- (aa)[^c-12cf6c5e5ac8e2c99c76c125c20b5592] in the case of the independent prescribing specialty, the applicant has had adequate practical experience relating to the work or activities listed in column 3 of the Table in rule 10 in relation to that specialty;
 - (b) the application is in accordance with rules 4 and 9;
 - (c) any requirements imposed upon him by rules made under section 11A (requirement for continuing education and training) have been met; and
 - (d) any application fee has been paid.
 
-(2)[^key-d480b2134f38e27c217d3269f096b0fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d480b2134f38e27c217d3269f096b0fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 14. Notice of refusal
 
@@ -389,9 +389,9 @@ he shall send a notice to the registrant indicating that failure to apply or to 
 - (c) the registrant is covered by a policy of insurance which meets the requirements of section 10A (insurance for individual registrants and persons applying for their names to be registered) [^c12246951]; or
 - (d) the application fee has been paid.
 
-(1A)[^key-41edc67fd83da2b70fc3505678928934] The registrar may remove the entry of an independent prescribing specialty against the name of a registrant whose name is entered on an appropriate register if he is not satisfied that that registrant is entitled, under rule 13, to have that specialty entered against his name on that register.
+(1A)[^c-41edc67fd83da2b70fc3505678928934] The registrar may remove the entry of an independent prescribing specialty against the name of a registrant whose name is entered on an appropriate register if he is not satisfied that that registrant is entitled, under rule 13, to have that specialty entered against his name on that register.
 
-(2)[^key-49730e3ccf6fb079c12e5ee962d20545] Where, pursuant to this rule, the registrar removes from a register a registrant’s name or the entry against his name for an independent prescribing specialty, the registrar shall send a notice to the registrant giving details of the action taken and stating the reasons for it.
+(2)[^c-49730e3ccf6fb079c12e5ee962d20545] Where, pursuant to this rule, the registrar removes from a register a registrant’s name or the entry against his name for an independent prescribing specialty, the registrar shall send a notice to the registrant giving details of the action taken and stating the reasons for it.
 
 (3) The “**relevant date**” for the purposes of paragraph (1)—
 
@@ -424,11 +424,11 @@ Each register shall contain the following particulars in respect of each registr
 - (i) where the registrant is an individual, the qualifications held by the individual registrant on which he relies for registration of an entry relating to a specialty; and
 - (j) where the registrant is an individual registrant, the particulars of any specialty which he is permitted to register.
 
-#### 21A. Visiting opticians from relevant European States: registration information[^key-0477f422ef3a8aba41e43a78f33815a1]
+#### 21A. Visiting opticians from relevant European States: registration information[^c-0477f422ef3a8aba41e43a78f33815a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 21B. Visiting opticians from relevant European States: changes in information provided to the Council[^key-e290980f9be21940ea3b46c22dda1571]
+#### 21B. Visiting opticians from relevant European States: changes in information provided to the Council[^c-e290980f9be21940ea3b46c22dda1571]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -517,29 +517,29 @@ Part 7 revokes the General Optical Council (Registration and Enrolment) Rules 19
 
 [^c12246721]: Marginal citation: Section 5C(1) was inserted by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848).
 
-[^key-cbb2ddd0ca95937f4ba879bbc118efa5]: Textual amendment: Words in Sch. rule 2(1) inserted (coming into force in accordance with Sch. rule 1(1) of the amending S.I.) by [The General Optical Council (Therapeutics and Contact Lens Specialties) Rules Order of Council 2008 (S.I. 2008/1940)](https://www.legislation.gov.uk/uksi/2008/1940), [Sch. rule 2(2)](https://www.legislation.gov.uk/uksi/2008/1940/schedule/rule/2/2)
+[^c-cbb2ddd0ca95937f4ba879bbc118efa5]: Textual amendment: Words in Sch. rule 2(1) inserted (coming into force in accordance with Sch. rule 1(1) of the amending S.I.) by [The General Optical Council (Therapeutics and Contact Lens Specialties) Rules Order of Council 2008 (S.I. 2008/1940)](https://www.legislation.gov.uk/uksi/2008/1940), [Sch. rule 2(2)](https://www.legislation.gov.uk/uksi/2008/1940/schedule/rule/2/2)
 
 [^c12246731]: Marginal citation: Section 5A was inserted by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848).
 
 [^c12246741]: Marginal citation: Section 8A was inserted by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848).
 
-[^key-1d92502be74ac7e4975986246ff34902]: Textual amendment: [Sch. rule 2(1A)](https://www.legislation.gov.uk/uksi/2005/1478/schedule/rule/2/1A) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 5 para. 20(a)](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/paragraph/20/a) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [13](https://www.legislation.gov.uk/uksi/2020/1394/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1d92502be74ac7e4975986246ff34902]: Textual amendment: [Sch. rule 2(1A)](https://www.legislation.gov.uk/uksi/2005/1478/schedule/rule/2/1A) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 5 para. 20(a)](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/paragraph/20/a) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [13](https://www.legislation.gov.uk/uksi/2020/1394/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-909f87d36443b676c7b591870118740a]: Textual amendment: Sch. rule 2A inserted (14.12.2020) by [The General Optical Council (Committee Constitution, Registration and Fitness to Practise) (Coronavirus) (Amendment) Rules Order of Council 2020 (S.I. 2020/1325)](https://www.legislation.gov.uk/uksi/2020/1325), [art. 1](https://www.legislation.gov.uk/uksi/2020/1325/article/1), [Sch. rule 17](https://www.legislation.gov.uk/uksi/2020/1325/schedule/paragraph/17)
+[^c-909f87d36443b676c7b591870118740a]: Textual amendment: Sch. rule 2A inserted (14.12.2020) by [The General Optical Council (Committee Constitution, Registration and Fitness to Practise) (Coronavirus) (Amendment) Rules Order of Council 2020 (S.I. 2020/1325)](https://www.legislation.gov.uk/uksi/2020/1325), [art. 1](https://www.legislation.gov.uk/uksi/2020/1325/article/1), [Sch. rule 17](https://www.legislation.gov.uk/uksi/2020/1325/schedule/paragraph/17)
 
 [^c12246751]: Marginal citation: Applications for restoration of registration following erasure on a direction by the Fitness to Practice Committee under section 13[F of the Opticians Act 1989 (c. 44)](https://www.legislation.gov.uk/ukpga/1989/44) are made under the General Optical Council (Registration Appeals) Rules 2005 (the rules are scheduled to S.I. 2005/ 1477
 
 [^c12246761]: Marginal citation: Applications for restoration of an entry relating to a specialty following its removal on a direction by the Fitness to Practice Committee under section 13[F of the Opticians Act 1989 (c. 44)](https://www.legislation.gov.uk/ukpga/1989/44) are made under the General Optical Council (Registration Appeals) Rules 2005.
 
-[^key-45e02886300a81b35290edde03a2ecc5]: Textual amendment: Words in [Sch. rule 5(1)(d)](https://www.legislation.gov.uk/uksi/2005/1478/schedule/rule/5/1/d) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 5 para. 20(b)(i)](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/paragraph/20/b/i) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [13](https://www.legislation.gov.uk/uksi/2020/1394/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-45e02886300a81b35290edde03a2ecc5]: Textual amendment: Words in [Sch. rule 5(1)(d)](https://www.legislation.gov.uk/uksi/2005/1478/schedule/rule/5/1/d) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 5 para. 20(b)(i)](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/paragraph/20/b/i) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [13](https://www.legislation.gov.uk/uksi/2020/1394/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c12246781]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46). Section 302(9)(a) was amended by Schedule 17 to the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
 [^c12246791]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5). Section 115A(7A) and (7B) were inserted by section 14 of the [Social Security Fraud Act 2001 (c. 11)](https://www.legislation.gov.uk/ukpga/2001/11).
 
-[^key-898e0fe307a3ed9b81b1446bbc9e6451]: Textual amendment: Words in [Sch. rule 5(1)(f)](https://www.legislation.gov.uk/uksi/2005/1478/schedule/rule/5/1/f) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 5 para. 20(b)(ii)](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/paragraph/20/b/ii) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [13](https://www.legislation.gov.uk/uksi/2020/1394/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-898e0fe307a3ed9b81b1446bbc9e6451]: Textual amendment: Words in [Sch. rule 5(1)(f)](https://www.legislation.gov.uk/uksi/2005/1478/schedule/rule/5/1/f) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 5 para. 20(b)(ii)](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/paragraph/20/b/ii) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [13](https://www.legislation.gov.uk/uksi/2020/1394/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0d89a0389950fd452d3ec91dcb738864]: Textual amendment: [Sch. rule 7(e)(f)](https://www.legislation.gov.uk/uksi/2005/1478/schedule/article/7/e/f) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2014/1887/schedule/1/paragraph/8)
+[^c-0d89a0389950fd452d3ec91dcb738864]: Textual amendment: [Sch. rule 7(e)(f)](https://www.legislation.gov.uk/uksi/2005/1478/schedule/article/7/e/f) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2014/1887/schedule/1/paragraph/8)
 
 [^c12246821]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46). Section 302(9)(a) was amended by Schedule 17 to the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
@@ -549,7 +549,7 @@ Part 7 revokes the General Optical Council (Registration and Enrolment) Rules 19
 
 [^c12246851]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6). Modifications and amendments of section 234 were made by section 8(1) of the [Companies Act 1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40), [section 9(1)](https://www.legislation.gov.uk/ukpga/1989/40/section/9/1) and (2) of the [Companies (Audit, Investigations and Community Enterprise) Act 2004 (c. 27)](https://www.legislation.gov.uk/ukpga/2004/27) and [S.I. 1996/189](https://www.legislation.gov.uk/uksi/1996/189), 1997/571 and 2004/3219.
 
-[^key-ddd86c14116b631b95026999c043eb5f]: Textual amendment: Words in Sch. rule 8(2)(d)(ii) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 107](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/107)
+[^c-ddd86c14116b631b95026999c043eb5f]: Textual amendment: Words in Sch. rule 8(2)(d)(ii) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 107](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/107)
 
 [^c12246861]: Marginal citation: 1965 (c. 12). Section 2(3) was amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617) and [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 
@@ -557,46 +557,46 @@ Part 7 revokes the General Optical Council (Registration and Enrolment) Rules 19
 
 [^c12246881]: Marginal citation: The Rules were scheduled to [S.I. 1985/856](https://www.legislation.gov.uk/uksi/1985/856) and amended by Rules scheduled to [S.I. 1988/1305](https://www.legislation.gov.uk/uksi/1988/1305).
 
-[^key-ae44b5d3b356dd5a41440e38f47b9497]: Textual amendment: Sch. rule 9(1A) inserted (coming into force in accordance with Sch. rule 1(1) of the amending S.I.) by [The General Optical Council (Therapeutics and Contact Lens Specialties) Rules Order of Council 2008 (S.I. 2008/1940)](https://www.legislation.gov.uk/uksi/2008/1940), [Sch. rule 2(3)](https://www.legislation.gov.uk/uksi/2008/1940/schedule/rule/2/3)
+[^c-ae44b5d3b356dd5a41440e38f47b9497]: Textual amendment: Sch. rule 9(1A) inserted (coming into force in accordance with Sch. rule 1(1) of the amending S.I.) by [The General Optical Council (Therapeutics and Contact Lens Specialties) Rules Order of Council 2008 (S.I. 2008/1940)](https://www.legislation.gov.uk/uksi/2008/1940), [Sch. rule 2(3)](https://www.legislation.gov.uk/uksi/2008/1940/schedule/rule/2/3)
 
-[^key-d937d7d5e4775fefea3aed1d354d8c7b]: Textual amendment: Words in Sch. rule 10 Table substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 90(a)(i)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/90/a/i) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-d937d7d5e4775fefea3aed1d354d8c7b]: Textual amendment: Words in Sch. rule 10 Table substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 90(a)(i)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/90/a/i) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
-[^key-e548ac51ffc0873e64738c4cabcb4985]: Textual amendment: Word in Sch. rule. 10 Table substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 90(a)(ii)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/90/a/ii) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-e548ac51ffc0873e64738c4cabcb4985]: Textual amendment: Word in Sch. rule. 10 Table substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 90(a)(ii)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/90/a/ii) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
-[^key-7bdd49119451c6f8376fa6e4bf22c208]: Textual amendment: Words in Sch. rule 10 Table substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 90(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/90/b) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-7bdd49119451c6f8376fa6e4bf22c208]: Textual amendment: Words in Sch. rule 10 Table substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 90(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/90/b) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
-[^key-f132f9df8e01b47f6f147bea7a940c72]: Textual amendment: Words in Sch. rule 10 Table inserted (coming into force in accordance with Sch. rule 1(1) of the amending S.I.) by [The General Optical Council (Therapeutics and Contact Lens Specialties) Rules Order of Council 2008 (S.I. 2008/1940)](https://www.legislation.gov.uk/uksi/2008/1940), [Sch. rule 2(4)](https://www.legislation.gov.uk/uksi/2008/1940/schedule/rule/2/4)
+[^c-f132f9df8e01b47f6f147bea7a940c72]: Textual amendment: Words in Sch. rule 10 Table inserted (coming into force in accordance with Sch. rule 1(1) of the amending S.I.) by [The General Optical Council (Therapeutics and Contact Lens Specialties) Rules Order of Council 2008 (S.I. 2008/1940)](https://www.legislation.gov.uk/uksi/2008/1940), [Sch. rule 2(4)](https://www.legislation.gov.uk/uksi/2008/1940/schedule/rule/2/4)
 
-[^key-b8dff49a0e517fc1f12b47c2cb74170f]: Textual amendment: Words in Sch. rule 10 Table substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 90(c)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/90/c) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-b8dff49a0e517fc1f12b47c2cb74170f]: Textual amendment: Words in Sch. rule 10 Table substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 90(c)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/90/c) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
 [^c12246901]: Marginal citation: Section 13D(2) was inserted by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848).
 
-[^key-68a45d368717912e5fa0dc705132b0bc]: Textual amendment: Sch. rule 11A inserted (coming into force in accordance with Sch. rule 1(1) of the amending S.I.) by [The General Optical Council (Therapeutics and Contact Lens Specialties) Rules Order of Council 2008 (S.I. 2008/1940)](https://www.legislation.gov.uk/uksi/2008/1940), [Sch. rule 2(5)](https://www.legislation.gov.uk/uksi/2008/1940/schedule/rule/2/5)
+[^c-68a45d368717912e5fa0dc705132b0bc]: Textual amendment: Sch. rule 11A inserted (coming into force in accordance with Sch. rule 1(1) of the amending S.I.) by [The General Optical Council (Therapeutics and Contact Lens Specialties) Rules Order of Council 2008 (S.I. 2008/1940)](https://www.legislation.gov.uk/uksi/2008/1940), [Sch. rule 2(5)](https://www.legislation.gov.uk/uksi/2008/1940/schedule/rule/2/5)
 
-[^key-8b7f7925f3acd1fd2620f3441b2384ec]: Textual amendment: Sch. rule 12 renumbered as rule 12(1) (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [202(b)(i)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/202/b/i)
+[^c-8b7f7925f3acd1fd2620f3441b2384ec]: Textual amendment: Sch. rule 12 renumbered as rule 12(1) (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [202(b)(i)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/202/b/i)
 
 [^c12246911]: Marginal citation: Section 10A was inserted by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848).
 
 [^c12246921]: Marginal citation: Section 11A was inserted by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848).
 
-[^key-b9b94ebadaa257ed0a9397656ce9d05f]: Textual amendment: [Sch. rule 12(2)](https://www.legislation.gov.uk/uksi/2005/1478/schedule/rule/12/2) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 5 para. 20(c)](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/paragraph/20/c) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [13](https://www.legislation.gov.uk/uksi/2020/1394/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b9b94ebadaa257ed0a9397656ce9d05f]: Textual amendment: [Sch. rule 12(2)](https://www.legislation.gov.uk/uksi/2005/1478/schedule/rule/12/2) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 5 para. 20(c)](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/paragraph/20/c) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [13](https://www.legislation.gov.uk/uksi/2020/1394/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c12246931]: Marginal citation: Section 12(11) applies section 12(7)(b) to specialties.
 
-[^key-12cf6c5e5ac8e2c99c76c125c20b5592]: Textual amendment: Sch. rule 13(1)(aa) inserted (coming into force in accordance with Sch. rule 1(1) of the amending S.I.) by [The General Optical Council (Therapeutics and Contact Lens Specialties) Rules Order of Council 2008 (S.I. 2008/1940)](https://www.legislation.gov.uk/uksi/2008/1940), [Sch. rule 2(6)](https://www.legislation.gov.uk/uksi/2008/1940/schedule/rule/2/6)
+[^c-12cf6c5e5ac8e2c99c76c125c20b5592]: Textual amendment: Sch. rule 13(1)(aa) inserted (coming into force in accordance with Sch. rule 1(1) of the amending S.I.) by [The General Optical Council (Therapeutics and Contact Lens Specialties) Rules Order of Council 2008 (S.I. 2008/1940)](https://www.legislation.gov.uk/uksi/2008/1940), [Sch. rule 2(6)](https://www.legislation.gov.uk/uksi/2008/1940/schedule/rule/2/6)
 
-[^key-d480b2134f38e27c217d3269f096b0fa]: Textual amendment: [Sch. rule 13(2)](https://www.legislation.gov.uk/uksi/2005/1478/schedule/rule/13/2) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 5 para. 20(d)](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/paragraph/20/d) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [13](https://www.legislation.gov.uk/uksi/2020/1394/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d480b2134f38e27c217d3269f096b0fa]: Textual amendment: [Sch. rule 13(2)](https://www.legislation.gov.uk/uksi/2005/1478/schedule/rule/13/2) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 5 para. 20(d)](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/paragraph/20/d) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [13](https://www.legislation.gov.uk/uksi/2020/1394/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c12246941]: Marginal citation: Section 13F was inserted by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848).
 
 [^c12246951]: Marginal citation: Section 10A was inserted by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848).
 
-[^key-41edc67fd83da2b70fc3505678928934]: Textual amendment: Sch. rule 20(1A) inserted (coming into force in accordance with Sch. rule 1(1) of the amending S.I.) by [The General Optical Council (Therapeutics and Contact Lens Specialties) Rules Order of Council 2008 (S.I. 2008/1940)](https://www.legislation.gov.uk/uksi/2008/1940), [Sch. rule 2(7)(a)](https://www.legislation.gov.uk/uksi/2008/1940/schedule/rule/2/7/a)
+[^c-41edc67fd83da2b70fc3505678928934]: Textual amendment: Sch. rule 20(1A) inserted (coming into force in accordance with Sch. rule 1(1) of the amending S.I.) by [The General Optical Council (Therapeutics and Contact Lens Specialties) Rules Order of Council 2008 (S.I. 2008/1940)](https://www.legislation.gov.uk/uksi/2008/1940), [Sch. rule 2(7)(a)](https://www.legislation.gov.uk/uksi/2008/1940/schedule/rule/2/7/a)
 
-[^key-49730e3ccf6fb079c12e5ee962d20545]: Textual amendment: Sch. rule 20(2) substituted (coming into force in accordance with Sch. rule 1(1) of the amending S.I.) by [The General Optical Council (Therapeutics and Contact Lens Specialties) Rules Order of Council 2008 (S.I. 2008/1940)](https://www.legislation.gov.uk/uksi/2008/1940), [Sch. rule 2(7)(b)](https://www.legislation.gov.uk/uksi/2008/1940/schedule/rule/2/7/b)
+[^c-49730e3ccf6fb079c12e5ee962d20545]: Textual amendment: Sch. rule 20(2) substituted (coming into force in accordance with Sch. rule 1(1) of the amending S.I.) by [The General Optical Council (Therapeutics and Contact Lens Specialties) Rules Order of Council 2008 (S.I. 2008/1940)](https://www.legislation.gov.uk/uksi/2008/1940), [Sch. rule 2(7)(b)](https://www.legislation.gov.uk/uksi/2008/1940/schedule/rule/2/7/b)
 
-[^key-0477f422ef3a8aba41e43a78f33815a1]: Textual amendment: [Sch. rule 21A](https://www.legislation.gov.uk/uksi/2005/1478/schedule/rule/21A) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 5 para. 20(e)](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/paragraph/20/e) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [13](https://www.legislation.gov.uk/uksi/2020/1394/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0477f422ef3a8aba41e43a78f33815a1]: Textual amendment: [Sch. rule 21A](https://www.legislation.gov.uk/uksi/2005/1478/schedule/rule/21A) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 5 para. 20(e)](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/paragraph/20/e) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [13](https://www.legislation.gov.uk/uksi/2020/1394/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e290980f9be21940ea3b46c22dda1571]: Textual amendment: [Sch. rule 21B](https://www.legislation.gov.uk/uksi/2005/1478/schedule/rule/21B) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 5 para. 20(e)](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/paragraph/20/e) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [13](https://www.legislation.gov.uk/uksi/2020/1394/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e290980f9be21940ea3b46c22dda1571]: Textual amendment: [Sch. rule 21B](https://www.legislation.gov.uk/uksi/2005/1478/schedule/rule/21B) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 5 para. 20(e)](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/paragraph/20/e) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [13](https://www.legislation.gov.uk/uksi/2020/1394/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c12246961]: Marginal citation: The Rules were scheduled to [S.I. 1977/176](https://www.legislation.gov.uk/uksi/1977/176).

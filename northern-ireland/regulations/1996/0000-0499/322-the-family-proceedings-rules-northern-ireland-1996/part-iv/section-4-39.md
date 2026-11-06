@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4.39. Application for a declaration as to the extent, or existence, of parental responsibility in relation to a child under Article 16 of the 1996 Hague Convention[^key-3d329ddb35deadd1cc802f6d9f31b922]
+## 4.39. Application for a declaration as to the extent, or existence, of parental responsibility in relation to a child under Article 16 of the 1996 Hague Convention[^c-3d329ddb35deadd1cc802f6d9f31b922]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ where the question arises by virtue of the application of Article 16 of the 1996
 
 ## Annotations
 
-[^key-3d329ddb35deadd1cc802f6d9f31b922]: Textual amendment: [Rules 4.28-4.39](https://www.legislation.gov.uk/nisr/1996/322/rule/4.28) substituted for [rule 4.28](https://www.legislation.gov.uk/nisr/1996/322/rule/4.28) (25.3.2011 for specified purposes, 1.11.2012 in so far as not already in operation) by [The Family Proceedings (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/64)](https://www.legislation.gov.uk/nisr/2011/64), [rules 1](https://www.legislation.gov.uk/nisr/2011/64/article/1), [2(4)](https://www.legislation.gov.uk/nisr/2011/64/article/2/4), [Sch. 1](https://www.legislation.gov.uk/nisr/2011/64/schedule/1)
+[^c-3d329ddb35deadd1cc802f6d9f31b922]: Textual amendment: [Rules 4.28-4.39](https://www.legislation.gov.uk/nisr/1996/322/rule/4.28) substituted for [rule 4.28](https://www.legislation.gov.uk/nisr/1996/322/rule/4.28) (25.3.2011 for specified purposes, 1.11.2012 in so far as not already in operation) by [The Family Proceedings (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/64)](https://www.legislation.gov.uk/nisr/2011/64), [rules 1](https://www.legislation.gov.uk/nisr/2011/64/article/1), [2(4)](https://www.legislation.gov.uk/nisr/2011/64/article/2/4), [Sch. 1](https://www.legislation.gov.uk/nisr/2011/64/schedule/1)

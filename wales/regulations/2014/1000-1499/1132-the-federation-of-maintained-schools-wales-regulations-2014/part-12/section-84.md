@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Transfer of property[^key-2e44e5e6c61e2935d55b47a23db7c148]
+## 84. Transfer of property[^c-2e44e5e6c61e2935d55b47a23db7c148]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2e44e5e6c61e2935d55b47a23db7c148]: Commencement: Reg. 84 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-2e44e5e6c61e2935d55b47a23db7c148]: Commencement: Reg. 84 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
 
 [^f00041]: Footnote: [1988 c.40](https://www.legislation.gov.uk/ukpga/1988/40).

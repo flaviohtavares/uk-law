@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 168. Remuneration of new administrator[^key-428e0a36302c6cb6124c0a836b6b32f8]
+## 168. Remuneration of new administrator[^c-428e0a36302c6cb6124c0a836b6b32f8]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ If a new administrator is appointed in place of another, any determination, reso
 
 ## Annotations
 
-[^key-428e0a36302c6cb6124c0a836b6b32f8]: Commencement: [Rule 168](https://www.legislation.gov.uk/nisr/2026/11/rule/168) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-428e0a36302c6cb6124c0a836b6b32f8]: Commencement: [Rule 168](https://www.legislation.gov.uk/nisr/2026/11/rule/168) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

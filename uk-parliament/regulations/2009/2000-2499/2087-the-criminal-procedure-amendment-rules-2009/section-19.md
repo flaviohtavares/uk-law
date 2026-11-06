@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**19.**[^key-4e30923ca7281517cbf51aa61962995c] In rule 39(1) (Time limits for beginning of trials), for “Supreme Court”, substitute “Senior Courts”.
+**19.**[^c-4e30923ca7281517cbf51aa61962995c] In rule 39(1) (Time limits for beginning of trials), for “Supreme Court”, substitute “Senior Courts”.
 
 ## Annotations
 
-[^key-4e30923ca7281517cbf51aa61962995c]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/2009/2087/article/19) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
+[^c-4e30923ca7281517cbf51aa61962995c]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/2009/2087/article/19) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)

@@ -60,8 +60,8 @@ shall be guilty of an offence.
 
 (8) Any child who engages in street trading in contravention of Article 135(4) shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 1 on the standard scale.
 
-(9) Any person who intentionally obstructs any officer of the Education Authority[^key-300a0f3b3a10de334105d47016d96f27] or any constable in the exercise of any powers conferred on him by or under Article 146 shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+(9) Any person who intentionally obstructs any officer of the Education Authority[^c-300a0f3b3a10de334105d47016d96f27] or any constable in the exercise of any powers conferred on him by or under Article 146 shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
 
 ## Annotations
 
-[^key-300a0f3b3a10de334105d47016d96f27]: Textual amendment: Words in [art. 147(9)](https://www.legislation.gov.uk/nisi/1995/755/article/147/9) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 14(22)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/14/22) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-300a0f3b3a10de334105d47016d96f27]: Textual amendment: Words in [art. 147(9)](https://www.legislation.gov.uk/nisi/1995/755/article/147/9) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 14(22)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/14/22) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

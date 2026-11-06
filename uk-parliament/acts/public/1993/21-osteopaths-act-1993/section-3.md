@@ -27,11 +27,11 @@ summary: ''
 - (a) has paid the prescribed fee;
 - (b) satisfies the Registrar that he is of good character;
 - (c) satisfies the Registrar that he is in good health, both physically and mentally; and
-- (d)[^key-19751b7e4cbc58641925cf24895dabe6] is a person who—
+- (d)[^c-19751b7e4cbc58641925cf24895dabe6] is a person who—
   - (i) has a recognised qualification, or
   - (ii) has a specified state qualification which is not a recognised qualification and has met the requirement specified in relation to the person under section 14A.
 
-(2A)[^key-c16bef7a7544617e3d26f1b190e65f41] The General Council may require a specified state professional who wishes to be registered under this section to demonstrate that the person possesses the language skills necessary to the practice of a registered osteopath.
+(2A)[^c-c16bef7a7544617e3d26f1b190e65f41] The General Council may require a specified state professional who wishes to be registered under this section to demonstrate that the person possesses the language skills necessary to the practice of a registered osteopath.
 
 (2B) A language test required by the General Council under subsection (2A) must be proportionate to the level of language skills referred to in that subsection.
 
@@ -49,7 +49,7 @@ summary: ''
 
 as holding a recognised qualification for the purposes of this Act.
 
-(6A)[^key-fe9c6095de92c00c619d43fe3a05fe2f] The General Council may by rules provide for treating a person who does not hold a recognised qualification but who, on an application made to the Registrar before 1 January 2011, satisfies the Registrar that the person—
+(6A)[^c-fe9c6095de92c00c619d43fe3a05fe2f] The General Council may by rules provide for treating a person who does not hold a recognised qualification but who, on an application made to the Registrar before 1 January 2011, satisfies the Registrar that the person—
 
 - (a) obtained a qualification in osteopathy in the United Kingdom before 9 May 2000,
 - (b) practised as an osteopath before 9 May 2000,
@@ -65,8 +65,8 @@ as holding a recognised qualification for the purposes of this Act.
 
 [^c10494661]: Commencement: S. 3 wholly in force at 9.5.1998; s. 3 not in force at Royal Assent see s. 42(2)(4)(5); s. 3 in force for certain purposes at 1.4.1998 by [S.I. 1998/872](https://www.legislation.gov.uk/uksi/1998/872), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/1998/872/article/2/1/b); s. 3 in force at 9.5.1998 insofar as not already in force by [S.I. 1998/1138](https://www.legislation.gov.uk/uksi/1998/1138), [art. 2(b)](https://www.legislation.gov.uk/uksi/1998/1138/article/2/b)
 
-[^key-19751b7e4cbc58641925cf24895dabe6]: Textual amendment: [S. 3(2)(d)](https://www.legislation.gov.uk/ukpga/1993/21/section/3/2/d) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 43(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/43/a)
+[^c-19751b7e4cbc58641925cf24895dabe6]: Textual amendment: [S. 3(2)(d)](https://www.legislation.gov.uk/ukpga/1993/21/section/3/2/d) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 43(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/43/a)
 
-[^key-c16bef7a7544617e3d26f1b190e65f41]: Textual amendment: [S. 3(2A)](https://www.legislation.gov.uk/ukpga/1993/21/section/3/2A)[(2B)](https://www.legislation.gov.uk/ukpga/1993/21/section/3/2B) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 43(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/43/b)
+[^c-c16bef7a7544617e3d26f1b190e65f41]: Textual amendment: [S. 3(2A)](https://www.legislation.gov.uk/ukpga/1993/21/section/3/2A)[(2B)](https://www.legislation.gov.uk/ukpga/1993/21/section/3/2B) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 43(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/43/b)
 
-[^key-fe9c6095de92c00c619d43fe3a05fe2f]: Textual amendment: S. 3(6A) inserted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/2); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
+[^c-fe9c6095de92c00c619d43fe3a05fe2f]: Textual amendment: S. 3(6A) inserted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/2); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)

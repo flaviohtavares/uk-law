@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Patient’s right to apply for revocation of short-term detention certificate or extension certificate etc.[^key-1aedb405df9d2c9f2cca31001419c64f]
+## 50. Patient’s right to apply for revocation of short-term detention certificate or extension certificate etc.[^c-1aedb405df9d2c9f2cca31001419c64f]
 
 *Extent: S*
 
-(1) Where a patient is subject to[^key-132a82c1ef04031c7f31c8506cbe4477] a short-term detention certificate or an extension certificate—
+(1) Where a patient is subject to[^c-132a82c1ef04031c7f31c8506cbe4477] a short-term detention certificate or an extension certificate—
 
 - (a) the patient; or
 - (b) the patient’s named person,
@@ -55,6 +55,6 @@ revoke the certificate.
 
 ## Annotations
 
-[^key-1aedb405df9d2c9f2cca31001419c64f]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2003/13/section/50) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-1aedb405df9d2c9f2cca31001419c64f]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2003/13/section/50) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
 
-[^key-132a82c1ef04031c7f31c8506cbe4477]: Textual amendment: Words in s. 50(1) substituted (27.9.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 1 para. 32(8)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/8)
+[^c-132a82c1ef04031c7f31c8506cbe4477]: Textual amendment: Words in s. 50(1) substituted (27.9.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 1 para. 32(8)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/8)

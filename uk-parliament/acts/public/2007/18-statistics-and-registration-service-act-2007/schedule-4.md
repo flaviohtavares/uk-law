@@ -22,7 +22,7 @@ summary: ''
 
 Section 73
 
-### Part 1 — Repeals relating to Part 1[^key-1043bb5d36b98e519a70371c59f89261]
+### Part 1 — Repeals relating to Part 1[^c-1043bb5d36b98e519a70371c59f89261]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -30,7 +30,7 @@ Section 73
 | Parliamentary Commissioner Act 1967 (c. 13) | In Schedule 2, the entries relating to the Office for National Statistics and the Statistics Commission. |
 | Freedom of Information Act 2000 (c. 36) | In Schedule 1, in Part 6, the entry relating to the Statistics Commission. |
 
-### Part 2 — Repeals relating to Part 2[^key-6a834c02278eb23a5db06c209191acd2]
+### Part 2 — Repeals relating to Part 2[^c-6a834c02278eb23a5db06c209191acd2]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -38,6 +38,6 @@ Section 73
 
 ## Annotations
 
-[^key-1043bb5d36b98e519a70371c59f89261]: Commencement: [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/18/schedule/4/part/1) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-1043bb5d36b98e519a70371c59f89261]: Commencement: [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/18/schedule/4/part/1) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
 
-[^key-6a834c02278eb23a5db06c209191acd2]: Commencement: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/18/schedule/4/part/2) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-6a834c02278eb23a5db06c209191acd2]: Commencement: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/18/schedule/4/part/2) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

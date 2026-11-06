@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Offences by bodies corporate etc[^key-3a6c2bf1467f471de5fd1b1b5336e1de]
+## 103. Offences by bodies corporate etc[^c-3a6c2bf1467f471de5fd1b1b5336e1de]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ the partner (as well as the firm) is guilty of the offence and liable to be proc
 
 ## Annotations
 
-[^key-3a6c2bf1467f471de5fd1b1b5336e1de]: Commencement: S. 103 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/2/e/i)
+[^c-3a6c2bf1467f471de5fd1b1b5336e1de]: Commencement: S. 103 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/2/e/i)

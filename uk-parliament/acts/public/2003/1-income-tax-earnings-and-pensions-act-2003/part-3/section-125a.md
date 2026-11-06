@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125A. Security features not to be regarded as accessories[^key-3219465b16cfbac09be411ac52210b16]
+## 125A. Security features not to be regarded as accessories[^c-3219465b16cfbac09be411ac52210b16]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3219465b16cfbac09be411ac52210b16]: Textual amendment: S. 125A inserted (with effect in accordance with s. 14(5) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 14(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/14/3)
+[^c-3219465b16cfbac09be411ac52210b16]: Textual amendment: S. 125A inserted (with effect in accordance with s. 14(5) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 14(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/14/3)

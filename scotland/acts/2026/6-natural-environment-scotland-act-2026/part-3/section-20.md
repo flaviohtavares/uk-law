@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Limitation of criminal liability[^key-2ffe565b6d8f9b1fada1e33bdb5e3605]
+## 20. Limitation of criminal liability[^c-2ffe565b6d8f9b1fada1e33bdb5e3605]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ffe565b6d8f9b1fada1e33bdb5e3605]: Commencement: S. 20 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-2ffe565b6d8f9b1fada1e33bdb5e3605]: Commencement: S. 20 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)

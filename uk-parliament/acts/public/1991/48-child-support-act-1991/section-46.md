@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Reduced benefit decisions.[^key-b9f0488360252a6aa5a8ef00fe4565fb]
+## 46. Reduced benefit decisions.[^c-b9f0488360252a6aa5a8ef00fe4565fb]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9f0488360252a6aa5a8ef00fe4565fb]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/1991/48/section/46) repealed (14.7.2008) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 15(b)](https://www.legislation.gov.uk/ukpga/2008/6/section/15/b), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3), [Sch. 8](https://www.legislation.gov.uk/ukpga/2008/6/schedule/8); [S.I. 2008/1476](https://www.legislation.gov.uk/uksi/2008/1476), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2008/1476/article/2/2/a)
+[^c-b9f0488360252a6aa5a8ef00fe4565fb]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/1991/48/section/46) repealed (14.7.2008) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 15(b)](https://www.legislation.gov.uk/ukpga/2008/6/section/15/b), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3), [Sch. 8](https://www.legislation.gov.uk/ukpga/2008/6/schedule/8); [S.I. 2008/1476](https://www.legislation.gov.uk/uksi/2008/1476), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2008/1476/article/2/2/a)

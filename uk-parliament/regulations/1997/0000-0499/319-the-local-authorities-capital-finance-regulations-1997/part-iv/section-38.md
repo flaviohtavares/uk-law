@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Reduction in the initial cost of certain leases[^key-ad5fc1ab818a0a61ef5c5313637a752e]
+## 38. Reduction in the initial cost of certain leases[^c-ad5fc1ab818a0a61ef5c5313637a752e]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ad5fc1ab818a0a61ef5c5313637a752e]: Commencement: Reg. 38 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-ad5fc1ab818a0a61ef5c5313637a752e]: Commencement: Reg. 38 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00039]: Footnote: Regulation 7A was inserted by [S.I. 1996/568](https://www.legislation.gov.uk/uksi/1996/568) and revoked by [S.I. 1996/2539](https://www.legislation.gov.uk/uksi/1996/2539).

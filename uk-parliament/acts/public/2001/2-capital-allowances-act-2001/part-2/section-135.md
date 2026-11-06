@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-372d5a15ff98cbc7a2dd6eea6b5cee0c][^key-2640256f57f214c18d6a129b7774db2c] A person (“**the shipowner**”) who is liable to a balancing charge for a chargeable period may claim deferment of all or part of the charge if—
+(1)[^c-372d5a15ff98cbc7a2dd6eea6b5cee0c][^c-2640256f57f214c18d6a129b7774db2c] A person (“**the shipowner**”) who is liable to a balancing charge for a chargeable period may claim deferment of all or part of the charge if—
 
 - (a) in the chargeable period there is a disposal event (“**the relevant disposal event**”) in respect of a ship (“**the old ship**”),
 - (b) the old ship—
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-372d5a15ff98cbc7a2dd6eea6b5cee0c]: Modification: [S. 135(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/135/1) excluded (with effect in accordance with s. 13(8) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 13(7)](https://www.legislation.gov.uk/ukpga/2021/26/section/13/7)
+[^c-372d5a15ff98cbc7a2dd6eea6b5cee0c]: Modification: [S. 135(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/135/1) excluded (with effect in accordance with s. 13(8) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 13(7)](https://www.legislation.gov.uk/ukpga/2021/26/section/13/7)
 
-[^key-2640256f57f214c18d6a129b7774db2c]: Modification: [S. 135(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/135/1) excluded (with effect in accordance with s. 12(12) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 12(10)](https://www.legislation.gov.uk/ukpga/2021/26/section/12/10)
+[^c-2640256f57f214c18d6a129b7774db2c]: Modification: [S. 135(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/135/1) excluded (with effect in accordance with s. 12(12) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 12(10)](https://www.legislation.gov.uk/ukpga/2021/26/section/12/10)

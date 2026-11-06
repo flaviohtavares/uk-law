@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.18. Functions and meetings of the committee[^key-f8fc798705511d3870b6f4573a62a769]
+## 3.18. Functions and meetings of the committee[^c-f8fc798705511d3870b6f4573a62a769]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ Waiver may be signified either at or before the meeting.
 
 ## Annotations
 
-[^key-f8fc798705511d3870b6f4573a62a769]: Commencement: [Rule 3.18](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.18) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-f8fc798705511d3870b6f4573a62a769]: Commencement: [Rule 3.18](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.18) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

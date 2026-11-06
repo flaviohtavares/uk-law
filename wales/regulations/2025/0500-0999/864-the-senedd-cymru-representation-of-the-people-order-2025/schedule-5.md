@@ -24,7 +24,7 @@ Article 17(1)
 
 ### PART 1 — Provision as to time
 
-#### 1. Timetable[^key-e384928e2412f56f294f4b169b1e0c87]
+#### 1. Timetable[^c-e384928e2412f56f294f4b169b1e0c87]
 
 (1) The proceedings at a Senedd election must be conducted in accordance with the following timetable—
 
@@ -49,7 +49,7 @@ Article 17(1)
 
 (4) For the purpose of determining whether the paper or notice has been delivered in accordance with the timetable in paragraph (1), the paper or notice is to be treated as having been delivered at the time when its delivery is recorded on the computer system in use by the returning officer for receiving the paper or notice.
 
-#### 2. Computation of time[^key-bc750ca7ce52735fa49cca165e3bb024]
+#### 2. Computation of time[^c-bc750ca7ce52735fa49cca165e3bb024]
 
 (1) An excluded day is to be disregarded in calculating any period set out in the second column of the timetable in rule 1.
 
@@ -366,11 +366,11 @@ any individual nomination paper or any party nomination paper submitted in relat
 (1) This rule applies where the following are delivered in accordance with these rules—
 
 - (a) a party nomination paper, together with its party list,
-- (b) the home address form of a candidate[^key-d6d133de45094403388f66ac8a04e050] in that list,
-- (c) the consent to nomination of a candidate[^key-49ea7f2b476cc63e834ad3bed145320c] in that list, and
+- (b) the home address form of a candidate[^c-d6d133de45094403388f66ac8a04e050] in that list,
+- (c) the consent to nomination of a candidate[^c-49ea7f2b476cc63e834ad3bed145320c] in that list, and
 - (d) the deposit that complies with the requirements of rule 11(2) and (3).
 
-(2) The party , and each candidate on its list in respect of which a home address form and consent to nomination form has been received,[^key-0091f3532cf42f7f7cdc3bc76e36c06f] stands nominated unless and until the returning officer decides that the party nomination paper is invalid.
+(2) The party , and each candidate on its list in respect of which a home address form and consent to nomination form has been received,[^c-0091f3532cf42f7f7cdc3bc76e36c06f] stands nominated unless and until the returning officer decides that the party nomination paper is invalid.
 
 (3) The returning officer is entitled to hold a party nomination paper invalid only on one of the following grounds—
 
@@ -832,7 +832,7 @@ in the forms set out in Schedule 10, together with such envelopes for the return
 (7) The returning officer must also provide each polling station with—
 
 - (a) an enlarged hand-held sample copy of the ballot paper which complies with article 138(6), for the assistance of voters who are partially-sighted, and
-- (b) such equipment as it is reasonable to provide for the purposes of enabling, or making it easier for, relevant persons to vote independently in the manner directed by rule 46[^key-01fa9caf4c4dc59b32b7e5c688713608], including in relation to voting secretly.
+- (b) such equipment as it is reasonable to provide for the purposes of enabling, or making it easier for, relevant persons to vote independently in the manner directed by rule 46[^c-01fa9caf4c4dc59b32b7e5c688713608], including in relation to voting secretly.
 
 (8) In this rule, “**relevant persons**” means persons who find it difficult or impossible to vote in the manner directed by rule 46 because of—
 
@@ -997,7 +997,7 @@ Table 1
 | --- | --- | --- |
 | Description | Question to be asked in English | Question to be asked in Welsh |
 | 1\. A person applying as an elector | 1(a) “Are you the person registered in the register of local government electors as follows?”<br>*Notes to 1(a)*<br>*The presiding officer must then read the whole entry from the copies of the registration records*.<br>1(b) “Have you already voted, here or elsewhere, at this election, otherwise than as proxy for some other person?” | 1(a) “Ai chi yw’r person sydd wedi ei gofrestru yn y gofrestr etholwyr llywodraeth leol fel a ganlyn?”<br>*Nodiadau ar 1(a)*<br>*Yna rhaid i’r swyddog llywyddu ddarllen y cofnod cyfan o’r copïau o’r cofnodion cofrestru.*<br>1(b) “Ydych chi eisoes wedi pleidleisio, fan hyn neu rywle arall, yn yr etholiad hwn, heblaw fel dirprwy ar ran rhyw berson arall?” |
-| 2\. A person applying as a proxy for an elector other than an elector who has an anonymous entry | 2(a) “Are you the person whose name appears as AB in the list of proxies for this election as entitled to vote as proxy on behalf of CD?”<br>2(b) “Have you already voted, here or elsewhere, at this election, as proxy on behalf of CD?”<br>2(c) “Are you the spouse, civil partner, parent, grandparent, brother, sister , child[^key-16dada2e8ebbd8c49470d261d544d76e] or grandchild of CD?”<br>*Notes to 2(a) to (c)*<br>*Where a question refers to AB, the presiding officer reads out the name as it appears in the list of proxies. Where a question refers to CD, the presiding officer reads out the name of the elector*. | 2(a) “Ai chi yw’r person y mae ei enw’n ymddangos fel AB yn y rhestr dirprwyon ar gyfer yr etholiad hwn fel person sydd â hawl i bleidleisio fel dirprwy ar ran CD?”<br>2(b) “Ydych chi eisoes wedi pleidleisio, fan hyn neu rywle arall, yn yr etholiad hwn, fel dirprwy ar ran CD?”<br>2(c) “Ai chi yw priod, partner sifil, rhiant, taid/tad-cu, nain/mam-gu, brawd, chwaer, plentyn,[^key-e146cb45aced4bae986ded4dd5dd3850] ŵyr neu wyres CD?”<br>*Nodiadau ar 2(a) i (c)*<br>*Pan fo cwestiwn yn cyfeirio at AB, mae’r swyddog llywyddu’n darllen yr enw fel y mae’n ymddangos yn y rhestr dirprwyon. Pan fo cwestiwn yn cyfeirio at CD, mae’r swyddog llywyddu’n darllen enw’r etholwr.* |
+| 2\. A person applying as a proxy for an elector other than an elector who has an anonymous entry | 2(a) “Are you the person whose name appears as AB in the list of proxies for this election as entitled to vote as proxy on behalf of CD?”<br>2(b) “Have you already voted, here or elsewhere, at this election, as proxy on behalf of CD?”<br>2(c) “Are you the spouse, civil partner, parent, grandparent, brother, sister , child[^c-16dada2e8ebbd8c49470d261d544d76e] or grandchild of CD?”<br>*Notes to 2(a) to (c)*<br>*Where a question refers to AB, the presiding officer reads out the name as it appears in the list of proxies. Where a question refers to CD, the presiding officer reads out the name of the elector*. | 2(a) “Ai chi yw’r person y mae ei enw’n ymddangos fel AB yn y rhestr dirprwyon ar gyfer yr etholiad hwn fel person sydd â hawl i bleidleisio fel dirprwy ar ran CD?”<br>2(b) “Ydych chi eisoes wedi pleidleisio, fan hyn neu rywle arall, yn yr etholiad hwn, fel dirprwy ar ran CD?”<br>2(c) “Ai chi yw priod, partner sifil, rhiant, taid/tad-cu, nain/mam-gu, brawd, chwaer, plentyn,[^c-e146cb45aced4bae986ded4dd5dd3850] ŵyr neu wyres CD?”<br>*Nodiadau ar 2(a) i (c)*<br>*Pan fo cwestiwn yn cyfeirio at AB, mae’r swyddog llywyddu’n darllen yr enw fel y mae’n ymddangos yn y rhestr dirprwyon. Pan fo cwestiwn yn cyfeirio at CD, mae’r swyddog llywyddu’n darllen enw’r etholwr.* |
 | 3\. A person applying as proxy for an elector who has an anonymous entry, instead of the questions at entry 2. | 3(a) “Are you the person entitled to vote as proxy on behalf of the elector whose number on the register of electors is \[X\]?”<br>3(b) “Have you already voted, here or elsewhere, at this election, as proxy on behalf of the elector whose number on the register of electors is \[X\]?”<br>3(c) “Are you the spouse, civil partner, parent, grandparent, brother, sister, child or grandchild of the elector whose number on the register of electors is \[X\]?”<br>*Note to 3(a) to (c)*<br>*Where the questions in this entry refer to \[X\], the presiding officer must read the elector’s number from the copies of the registration records.* | 3(a) “Ai chi yw’r person sydd â hawl i bleidleisio fel dirprwy ar ran yr etholwr sydd â’r rhif \[X\] yn y gofrestr etholwyr?”<br>3(b) “Ydych chi eisoes wedi pleidleisio, fan hyn neu rywle arall, yn yr etholiad hwn, fel dirprwy ar ran yr etholwr sydd â’r rhif \[X\] yn y gofrestr etholwyr?”<br>3(c) “Ai chi yw priod, partner sifil, rhiant, taid/tad-cu, nain/mam-gu, brawd, chwaer, plentyn, ŵyr neu wyres yr etholwr sydd â’r rhif \[X\] yn y gofrestr etholwyr?”<br>*Nodiadau ar 3(a) i (c)*<br>*Pan fo’r cwestiynau yn y cofnod hwn yn cyfeirio at \[X\], rhaid i’r swyddog llywyddu ddarllen rhif yr etholwr o’r copïau o’r cofnodion cofrestru.* |
 | 4\. A person applying as proxy who has been asked the question numbered 2(c) or 3(c) and has not answered “yes” | 4 “At this election, have you already voted in this constituency on behalf of two persons of whom you are not the spouse, civil partner, parent, grandparent, brother, sister, child or grandchild?” | 4 “Yn yr etholiad hwn, ydych chi eisoes wedi pleidleisio yn yr etholaeth hon ar ran dau berson nad ydych yn briod, yn bartner sifil, yn rhiant, yn daid/tad-cu neu’n nain/mam-gu, yn frawd, yn chwaer, yn blentyn, yn ŵyr neu’n wyres iddynt?” |
 
@@ -1427,7 +1427,7 @@ The decision of the returning officer on any question arising in respect of a ba
 
 ### PART 4 — Final proceedings in contested and uncontested elections
 
-#### 63. Ascertainment of results at a contested election[^key-af5a652812920608b6d14139cb41737e]
+#### 63. Ascertainment of results at a contested election[^c-af5a652812920608b6d14139cb41737e]
 
 (1) At a contested election, the returning officer must ascertain the results of the poll in accordance with sections 8 and 9 of the 2006 Act.
 
@@ -1465,7 +1465,7 @@ The decision of the returning officer on any question arising in respect of a ba
 - (a) there is no request made under paragraph (7) for the returning officer to make a further provisional ascertainment, or
 - (b) if there is such a request, the returning officer refuses to make a further provisional ascertainment.
 
-#### 64. Declaration of result[^key-160e082c093220da67e6d1c17e64c412]
+#### 64. Declaration of result[^c-160e082c093220da67e6d1c17e64c412]
 
 (1) After the returning officer has ascertained the results of the poll, the returning officer must immediately—
 
@@ -1496,7 +1496,7 @@ and the returning officer must immediately return the names of those persons to 
 - (a) completing a certificate in form 22 set out in Welsh and English in Schedule 10, and
 - (b) delivering the certificate, or causing it to be delivered, to the Clerk.
 
-#### 65. Return or forfeiture of deposit[^key-1d9afffed3af3acfe36d5c990c9e66cb]
+#### 65. Return or forfeiture of deposit[^c-1d9afffed3af3acfe36d5c990c9e66cb]
 
 (1) The deposit made under rule 11 is to be—
 
@@ -1525,7 +1525,7 @@ the deposit must be returned as soon as practicable after the publication of tha
 
 ### PART 5 — Disposal of documents
 
-#### 66. Sealing up of ballot papers at contested elections[^key-2037d2d30536a7b63442f88ec782ea3a]
+#### 66. Sealing up of ballot papers at contested elections[^c-2037d2d30536a7b63442f88ec782ea3a]
 
 (1) This rule applies on the completion of the counting of votes at a contested election.
 
@@ -1541,7 +1541,7 @@ the deposit must be returned as soon as practicable after the publication of tha
 - (c) certificates surrendered by constables or staff of returning officers under rule 41(5) or (6), or
 - (d) marked copies of the registration records and list of proxies.
 
-#### 67. Delivery of documents to registration officer at contested elections[^key-a615752687a2256a0bfc46a309ab12b2]
+#### 67. Delivery of documents to registration officer at contested elections[^c-a615752687a2256a0bfc46a309ab12b2]
 
 (1) This rule applies where the returning officer has sealed up the counted and rejected ballot papers under rule 66(2).
 
@@ -1573,7 +1573,7 @@ the deposit must be returned as soon as practicable after the publication of tha
 - (a) securely store all documents received in accordance with this rule, and
 - (b) prevent any unauthorised access to those documents.
 
-#### 68. Production etc. of documents[^key-a4c71c05aaf09002fbe391e985890fb5]
+#### 68. Production etc. of documents[^c-a4c71c05aaf09002fbe391e985890fb5]
 
 (1) This rule applies in relation to the following documents when in the custody or control of the relevant registration officer, having been forwarded under rule 67—
 
@@ -1626,7 +1626,7 @@ the deposit must be returned as soon as practicable after the publication of tha
   - (i) marked copies of the corresponding number lists, or
   - (ii) certificates surrendered by constables or staff of returning officers under rule 41(5) or (6).
 
-#### 69. Orders for the production of documents: supplemental provisions[^key-9c0852fb497330a8c3962292fb8ee41e]
+#### 69. Orders for the production of documents: supplemental provisions[^c-9c0852fb497330a8c3962292fb8ee41e]
 
 (1) Paragraphs (2) and (3) apply where an order is made under rule 68 for the production by a relevant registration officer of a document, in paper or electronic format, in the registration officer’s custody or control relating to an election specified in the order.
 
@@ -1641,7 +1641,7 @@ the deposit must be returned as soon as practicable after the publication of tha
 
 (5) The production of the ballot paper and the list are prima facie evidence that the elector whose vote was given by that ballot paper was the person whose entry at the time of the election in the register of electors, or on a notice issued under section 13B(3B) or (3D) of the 1983 Act, contained the same number as the number written on the ballot paper.
 
-#### 70. Retention and destruction of documents forwarded to relevant registration officer[^key-f08879e6f908026830adba8161033b63]
+#### 70. Retention and destruction of documents forwarded to relevant registration officer[^c-f08879e6f908026830adba8161033b63]
 
 (1) The relevant registration officer must retain all documents forwarded under rule 67 for a period of one year beginning with the day on which they were received by the registration officer.
 
@@ -1649,7 +1649,7 @@ the deposit must be returned as soon as practicable after the publication of tha
 
 (3) Notwithstanding the revocation of the National Assembly for Wales (Representation of the People) Order 2007[^f00120], rule 69 of Schedule 5 to that Order continues to have effect in relation to documents forwarded to the relevant registration officer in accordance with that Schedule and to which rule 69 applied.
 
-#### 71. Destruction of home address forms by returning officer[^key-71b36c16898238a9e48f25e6ac5288d6]
+#### 71. Destruction of home address forms by returning officer[^c-71b36c16898238a9e48f25e6ac5288d6]
 
 (1) The returning officer must destroy each candidate’s home address form—
 
@@ -1660,7 +1660,7 @@ the deposit must be returned as soon as practicable after the publication of tha
 
 ### PART 6 — Death of candidate
 
-#### 72. Death of candidate[^key-3cf9807d282576ba3945ab332314325c]
+#### 72. Death of candidate[^c-3cf9807d282576ba3945ab332314325c]
 
 (1) If at a contested election the returning officer is satisfied before the results of the election are declared that one of the persons named or to be named as a candidate on the ballot paper, whether an individual candidate or party list candidate, has died and as a result of that death the election becomes uncontested, the returning officer must—
 
@@ -1683,7 +1683,7 @@ the deposit must be returned as soon as practicable after the publication of tha
 - (b) rule 57(1)(b) to (d) (attendance at count), and
 - (c) rule 65(5) (forfeiture of deposit), in relation to an individual candidate only.
 
-#### 73. Abandoned poll[^key-eae9fefc4652f5292ba56e781ccad93a]
+#### 73. Abandoned poll[^c-eae9fefc4652f5292ba56e781ccad93a]
 
 (1) This rule applies to a poll which is abandoned in accordance with rule 72(1)(b) as if it were a poll at a contested election.
 
@@ -1703,7 +1703,7 @@ the deposit must be returned as soon as practicable after the publication of tha
 
 ### PART 7 — Miscellaneous
 
-#### 74. Return of Senedd members and record of returns etc.[^key-9f61c9f83dc4737dce21b54824f3f0a5]
+#### 74. Return of Senedd members and record of returns etc.[^c-9f61c9f83dc4737dce21b54824f3f0a5]
 
 (1) The Clerk must, on receipt of a certificate delivered under rule 64(6), enter the information contained in the certificate in a record kept for that purpose at the Senedd, in this rule referred to as “**the returns record**”.
 
@@ -1711,7 +1711,7 @@ the deposit must be returned as soon as practicable after the publication of tha
 
 (3) The returns record must be open to public inspection at reasonable times and any person may, on payment of a reasonable fee, obtain copies from the record.
 
-#### 75. Vacancies[^key-5bc43cfe09532dbd586957457cca0698]
+#### 75. Vacancies[^c-5bc43cfe09532dbd586957457cca0698]
 
 (1) Where it comes to the notice of the Presiding Officer of the Senedd, referred to in this rule as “**the Presiding Officer**” that—
 
@@ -1796,7 +1796,7 @@ the returning officer must complete the steps required by paragraph (11) as soon
 
 (18) In this rule, “**the returns record**” means the record kept in accordance with rule 74(1).
 
-#### 76. Registered political parties[^key-e7d96ccf8bdfacb1e7bbfba98efcd3ae]
+#### 76. Registered political parties[^c-e7d96ccf8bdfacb1e7bbfba98efcd3ae]
 
 (1) For the purposes of the application of these rules in relation to a Senedd election “**registered political party**” means a party which was registered under Part 2 of the 2000 Political Parties Act on the day (“**the relevant day**”) which is 2 days before the last day for the delivery of nomination papers at the election in accordance with the Table in rule 1(1).
 
@@ -1804,7 +1804,7 @@ the returning officer must complete the steps required by paragraph (11) as soon
 
 (3) For the purposes of paragraph (1), any day that is an excluded day must be disregarded.
 
-#### 77. Party’s registered nominating officer: discharge of functions[^key-12cd921569bc6a3852a1f0dbd7d9420e]
+#### 77. Party’s registered nominating officer: discharge of functions[^c-12cd921569bc6a3852a1f0dbd7d9420e]
 
 (1) A registered nominating officer for a registered political party may, in writing, appoint one or more persons to discharge all or any of the registered nominating officer’s functions conferred or imposed by these rules.
 
@@ -1814,9 +1814,9 @@ the returning officer must complete the steps required by paragraph (11) as soon
 
 ## Annotations
 
-[^key-e384928e2412f56f294f4b169b1e0c87]: Commencement: Sch. 5 rule 1 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-e384928e2412f56f294f4b169b1e0c87]: Commencement: Sch. 5 rule 1 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-bc750ca7ce52735fa49cca165e3bb024]: Commencement: Sch. 5 rule 2 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-bc750ca7ce52735fa49cca165e3bb024]: Commencement: Sch. 5 rule 2 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00109]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
@@ -1856,11 +1856,11 @@ the returning officer must complete the steps required by paragraph (11) as soon
 
 [^M_I_ae465118-da71-4468-aaff-4ae56eddf791]: Commencement: Sch. 5 rule 15 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-d6d133de45094403388f66ac8a04e050]: Textual amendment: Words in [Sch. 5 rule 15(1)(b)](https://www.legislation.gov.uk/wsi/2025/864/schedule/5/rule/15/1/b) substituted (24.3.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/2), [43(2)(a)](https://www.legislation.gov.uk/wsi/2026/91/regulation/43/2/a)
+[^c-d6d133de45094403388f66ac8a04e050]: Textual amendment: Words in [Sch. 5 rule 15(1)(b)](https://www.legislation.gov.uk/wsi/2025/864/schedule/5/rule/15/1/b) substituted (24.3.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/2), [43(2)(a)](https://www.legislation.gov.uk/wsi/2026/91/regulation/43/2/a)
 
-[^key-49ea7f2b476cc63e834ad3bed145320c]: Textual amendment: Words in [Sch. 5 rule 15(1)(c)](https://www.legislation.gov.uk/wsi/2025/864/schedule/5/rule/15/1/c) substituted (24.3.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/2), [43(2)(b)](https://www.legislation.gov.uk/wsi/2026/91/regulation/43/2/b)
+[^c-49ea7f2b476cc63e834ad3bed145320c]: Textual amendment: Words in [Sch. 5 rule 15(1)(c)](https://www.legislation.gov.uk/wsi/2025/864/schedule/5/rule/15/1/c) substituted (24.3.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/2), [43(2)(b)](https://www.legislation.gov.uk/wsi/2026/91/regulation/43/2/b)
 
-[^key-0091f3532cf42f7f7cdc3bc76e36c06f]: Textual amendment: Words in [Sch. 5 rule 15(2)](https://www.legislation.gov.uk/wsi/2025/864/schedule/5/rule/15/2) substituted (24.3.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/2), [43(2)(c)](https://www.legislation.gov.uk/wsi/2026/91/regulation/43/2/c)
+[^c-0091f3532cf42f7f7cdc3bc76e36c06f]: Textual amendment: Words in [Sch. 5 rule 15(2)](https://www.legislation.gov.uk/wsi/2025/864/schedule/5/rule/15/2) substituted (24.3.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/2), [43(2)(c)](https://www.legislation.gov.uk/wsi/2026/91/regulation/43/2/c)
 
 [^M_I_9c453928-77ef-4c71-d225-f0f1ba8a1f16]: Commencement: Sch. 5 rule 16 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
@@ -1910,7 +1910,7 @@ the returning officer must complete the steps required by paragraph (11) as soon
 
 [^f00116]: Footnote: Section 13B was inserted by paragraph 6 of Schedule 1 to the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2). Subsequent amendments have been made to section 13(b) which are not relevant here.
 
-[^key-01fa9caf4c4dc59b32b7e5c688713608]: Textual amendment: Words in [Sch. 5 rule 37(7)(b)](https://www.legislation.gov.uk/wsi/2025/864/schedule/5/rule/37/7/b) substituted (24.3.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/2), [43(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/43/3)
+[^c-01fa9caf4c4dc59b32b7e5c688713608]: Textual amendment: Words in [Sch. 5 rule 37(7)(b)](https://www.legislation.gov.uk/wsi/2025/864/schedule/5/rule/37/7/b) substituted (24.3.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/2), [43(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/43/3)
 
 [^M_I_833c570f-687a-4d24-cf90-7aeddd15a687]: Commencement: Sch. 5 rule 38 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
@@ -1930,9 +1930,9 @@ the returning officer must complete the steps required by paragraph (11) as soon
 
 [^M_I_d3047848-4dc2-4163-a449-e2c803c88b15]: Commencement: Sch. 5 rule 44 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-16dada2e8ebbd8c49470d261d544d76e]: Textual amendment: Word in [Sch. 5 rule 44(4)](https://www.legislation.gov.uk/wsi/2025/864/schedule/5/rule/44/4) Table 1 inserted (24.3.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/2), [43(4)(a)](https://www.legislation.gov.uk/wsi/2026/91/regulation/43/4/a)
+[^c-16dada2e8ebbd8c49470d261d544d76e]: Textual amendment: Word in [Sch. 5 rule 44(4)](https://www.legislation.gov.uk/wsi/2025/864/schedule/5/rule/44/4) Table 1 inserted (24.3.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/2), [43(4)(a)](https://www.legislation.gov.uk/wsi/2026/91/regulation/43/4/a)
 
-[^key-e146cb45aced4bae986ded4dd5dd3850]: Textual amendment: Word in [Sch. 5 rule 44(4)](https://www.legislation.gov.uk/wsi/2025/864/schedule/5/rule/44/4) Table 1 inserted (24.3.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/2), [43(4)(b)](https://www.legislation.gov.uk/wsi/2026/91/regulation/43/4/b)
+[^c-e146cb45aced4bae986ded4dd5dd3850]: Textual amendment: Word in [Sch. 5 rule 44(4)](https://www.legislation.gov.uk/wsi/2025/864/schedule/5/rule/44/4) Table 1 inserted (24.3.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/2), [43(4)(b)](https://www.legislation.gov.uk/wsi/2026/91/regulation/43/4/b)
 
 [^M_I_da90da16-ef8d-4823-8f56-a5668f63e87d]: Commencement: Sch. 5 rule 45 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
@@ -1972,33 +1972,33 @@ the returning officer must complete the steps required by paragraph (11) as soon
 
 [^M_I_0bdd2f3c-7a9c-4bf2-bf16-67a37c641c68]: Commencement: Sch. 5 rule 62 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-af5a652812920608b6d14139cb41737e]: Commencement: Sch. 5 rule 63 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-af5a652812920608b6d14139cb41737e]: Commencement: Sch. 5 rule 63 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-160e082c093220da67e6d1c17e64c412]: Commencement: Sch. 5 rule 64 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-160e082c093220da67e6d1c17e64c412]: Commencement: Sch. 5 rule 64 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-1d9afffed3af3acfe36d5c990c9e66cb]: Commencement: Sch. 5 rule 65 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-1d9afffed3af3acfe36d5c990c9e66cb]: Commencement: Sch. 5 rule 65 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-2037d2d30536a7b63442f88ec782ea3a]: Commencement: Sch. 5 rule 66 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-2037d2d30536a7b63442f88ec782ea3a]: Commencement: Sch. 5 rule 66 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-a615752687a2256a0bfc46a309ab12b2]: Commencement: Sch. 5 rule 67 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-a615752687a2256a0bfc46a309ab12b2]: Commencement: Sch. 5 rule 67 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-a4c71c05aaf09002fbe391e985890fb5]: Commencement: Sch. 5 rule 68 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-a4c71c05aaf09002fbe391e985890fb5]: Commencement: Sch. 5 rule 68 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-9c0852fb497330a8c3962292fb8ee41e]: Commencement: Sch. 5 rule 69 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-9c0852fb497330a8c3962292fb8ee41e]: Commencement: Sch. 5 rule 69 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-f08879e6f908026830adba8161033b63]: Commencement: Sch. 5 rule 70 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-f08879e6f908026830adba8161033b63]: Commencement: Sch. 5 rule 70 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00120]: Footnote: [S.I. 2007/236](https://www.legislation.gov.uk/uksi/2007/236).
 
-[^key-71b36c16898238a9e48f25e6ac5288d6]: Commencement: Sch. 5 rule 71 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-71b36c16898238a9e48f25e6ac5288d6]: Commencement: Sch. 5 rule 71 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-3cf9807d282576ba3945ab332314325c]: Commencement: Sch. 5 rule 72 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-3cf9807d282576ba3945ab332314325c]: Commencement: Sch. 5 rule 72 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-eae9fefc4652f5292ba56e781ccad93a]: Commencement: Sch. 5 rule 73 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-eae9fefc4652f5292ba56e781ccad93a]: Commencement: Sch. 5 rule 73 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-9f61c9f83dc4737dce21b54824f3f0a5]: Commencement: Sch. 5 rule 74 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-9f61c9f83dc4737dce21b54824f3f0a5]: Commencement: Sch. 5 rule 74 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-5bc43cfe09532dbd586957457cca0698]: Commencement: Sch. 5 rule 75 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-5bc43cfe09532dbd586957457cca0698]: Commencement: Sch. 5 rule 75 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00121]: Footnote: Section 11(2) was substituted by section 9 of the Senedd Cymru (Members and Elections) Act [2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4).
 
@@ -2006,6 +2006,6 @@ the returning officer must complete the steps required by paragraph (11) as soon
 
 [^f00123]: Footnote: Section 11(7) was substituted by section 9 of the Senedd Cymru (Members and Elections) Act [2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4).
 
-[^key-e7d96ccf8bdfacb1e7bbfba98efcd3ae]: Commencement: Sch. 5 rule 76 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-e7d96ccf8bdfacb1e7bbfba98efcd3ae]: Commencement: Sch. 5 rule 76 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-12cd921569bc6a3852a1f0dbd7d9420e]: Commencement: Sch. 5 rule 77 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-12cd921569bc6a3852a1f0dbd7d9420e]: Commencement: Sch. 5 rule 77 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

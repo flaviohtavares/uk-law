@@ -46,28 +46,28 @@ The Lord Chancellor makes these Regulations[^f00001] in exercise of the powers c
 
 ## PART 1 — GENERAL
 
-### 1. Citation, commencement and interpretation[^key-50b386c07257903322bdf961a6334a64][^key-50b386c07257903322bdf961a6334a64]
+### 1. Citation, commencement and interpretation[^c-50b386c07257903322bdf961a6334a64][^c-50b386c07257903322bdf961a6334a64]
 
 (1) These Regulations may be cited as the Criminal Legal Aid (Remuneration etc.) (Amendment) Regulations 2015.
 
 (2) These Regulations come into force for the purposes of—
 
 - (a) Part 2 on 1st July 2015, and
-- (b)[^key-adfb89fc70048fd8164bc0c140419cd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-adfb89fc70048fd8164bc0c140419cd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In these Regulations, “the Criminal Remuneration Regulations” means the Criminal Legal Aid (Remuneration) Regulations 2013[^f00003].
 
-### 2. Transitional provisions[^key-011b4208890d149b239b018b908071dd][^key-011b4208890d149b239b018b908071dd]
+### 2. Transitional provisions[^c-011b4208890d149b239b018b908071dd][^c-011b4208890d149b239b018b908071dd]
 
 (1) The amendments made by Part 2 of these Regulations apply to matters in which a relevant determination is made on or after 1st July 2015.
 
-(2)[^key-3bb12b7486db21d828e7d12a367d19ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3bb12b7486db21d828e7d12a367d19ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In this regulation a “relevant determination” means a determination made under section 13 (advice and assistance for individuals in custody), section 15 (advice and assistance for criminal proceedings) or section 16 (representation for criminal proceedings) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012.
 
 ## PART 2 — AMENDMENTS COMING INTO FORCE ON 1ST JULY 2015
 
-### 3. Amendments to the Criminal Remuneration Regulations[^key-48c4cbc0b5abf18ef9f3e227605ac46d]
+### 3. Amendments to the Criminal Remuneration Regulations[^c-48c4cbc0b5abf18ef9f3e227605ac46d]
 
 (1) The Criminal Remuneration Regulations are amended as follows.
 
@@ -77,34 +77,34 @@ The Lord Chancellor makes these Regulations[^f00001] in exercise of the powers c
 
 (4) Schedule 4 (rates payable for the claims specified in regulation 8) is amended as set out in Schedule 3 to these Regulations.
 
-## PART 3 — AMENDMENTS COMING INTO FORCE ON 1ST APRIL 2016[^key-e7faf662440f0acc54132b95115f1d44][^key-78234edabd894f71d68f1eb4d8cf074a]
+## PART 3 — AMENDMENTS COMING INTO FORCE ON 1ST APRIL 2016[^c-e7faf662440f0acc54132b95115f1d44][^c-78234edabd894f71d68f1eb4d8cf074a]
 
-### 4. Amendments to the Criminal Legal Aid (General) Regulations 2013[^key-e7faf662440f0acc54132b95115f1d44]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 5. Amendments to the Civil Legal Aid (Remuneration) Regulations 2013[^key-e7faf662440f0acc54132b95115f1d44]
+### 4. Amendments to the Criminal Legal Aid (General) Regulations 2013[^c-e7faf662440f0acc54132b95115f1d44]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Amendments to the Criminal Remuneration Regulations[^key-5400935bb760a32624e2be474f7795cc]
+### 5. Amendments to the Civil Legal Aid (Remuneration) Regulations 2013[^c-e7faf662440f0acc54132b95115f1d44]
 
-(1)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Not yet in force.**
 
-(2)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 6. Amendments to the Criminal Remuneration Regulations[^c-5400935bb760a32624e2be474f7795cc]
+
+(1)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In regulation 17A[^f00009] (interim payment of litigators’ fees)—
 
-- (a)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (14)—
-  - (i)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (ii)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) at the end of sub-paragraphs (a) and (b) insert “as appropriate to the offence with which the assisted person is charged and the number of pages of prosecution evidence served on the court”;
 - (c) in paragraph (19), for ““PPE Cut-off” has” substitute ““cracked trial”, “guilty plea” and “PPE Cut-off” have”, and
 - (d) after paragraph (19), insert—
@@ -119,38 +119,38 @@ The Lord Chancellor makes these Regulations[^f00001] in exercise of the powers c
 
 (7) In Schedule 2—
 
-- (a)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph 1(1), in the definition of “PPE Cut-off”—
   - (i) omit “minimum”;
   - (ii) for “calculating” substitute “determining”;
-  - (iii)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (iv)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (i)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (j)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (k)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (l)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (m)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (n)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (o)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (p)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (q)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (r)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (s)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (t)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (l)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (m)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (n)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (o)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (p)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (q)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (r)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (s)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (t)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In Schedule 4—
 
-- (a)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) in paragraph 5[^f00022] (representation in the magistrates’ court)—
   - (i) before sub-paragraph (1), insert—
 
@@ -158,13 +158,13 @@ The Lord Chancellor makes these Regulations[^f00001] in exercise of the powers c
 
     ;
   - (ii) in sub-paragraph (1), omit “(except where paragraph 5A applies)”;
-  - (iii)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (iv)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (v)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (vi)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^key-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (v)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (vi)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-e7faf662440f0acc54132b95115f1d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendments to the Criminal Legal Aid (Financial Resources) Regulations 2013[^key-e7faf662440f0acc54132b95115f1d44]
+### 7. Amendments to the Criminal Legal Aid (Financial Resources) Regulations 2013[^c-e7faf662440f0acc54132b95115f1d44]
 
 **Not yet in force.**
 
@@ -182,7 +182,7 @@ Ministry of Justice
 
 Regulation 3(2)
 
-**1.**[^key-17f85e245b3673a8d745ed030ba7a763] For the table following paragraph 6(2) (basic fees for cracked trials and guilty pleas) substitute the following—
+**1.**[^c-17f85e245b3673a8d745ed030ba7a763] For the table following paragraph 6(2) (basic fees for cracked trials and guilty pleas) substitute the following—
 
 > <table>
 > <thead>
@@ -197,7 +197,7 @@ Regulation 3(2)
 
 .
 
-**2.**[^key-3ac1efd489cd073a3c5ec72534269074] In paragraph 7—
+**2.**[^c-3ac1efd489cd073a3c5ec72534269074] In paragraph 7—
 
 - (a) for the table following sub-paragraph (2) (basic fees for trials), substitute the following—
 
@@ -421,7 +421,7 @@ Regulation 3(2)
 
   .
 
-**3.**[^key-921b50fcd020466c1e2556ab2a9d1346] In paragraph 8 (cracked trials and guilty pleas where the number of pages of prosecution evidence exceeds the PPE Cut-off), for the tables following sub-paragraph (2) (table of final fees in cracked trials and table of final fees in guilty pleas), including the headings to the tables, substitute the following—
+**3.**[^c-921b50fcd020466c1e2556ab2a9d1346] In paragraph 8 (cracked trials and guilty pleas where the number of pages of prosecution evidence exceeds the PPE Cut-off), for the tables following sub-paragraph (2) (table of final fees in cracked trials and table of final fees in guilty pleas), including the headings to the tables, substitute the following—
 
 > Table of final fees in cracked trials
 >
@@ -633,7 +633,7 @@ Regulation 3(2)
 
 .
 
-**4.**[^key-2c2a46959563558b24e7d19d999fcb38] In paragraph 9 (trials where the number of pages of prosecution evidence exceeds the PPE Cut-off), for the table following sub-paragraph (2) (table of final fees in trials), substitute the following—
+**4.**[^c-2c2a46959563558b24e7d19d999fcb38] In paragraph 9 (trials where the number of pages of prosecution evidence exceeds the PPE Cut-off), for the table following sub-paragraph (2) (table of final fees in trials), substitute the following—
 
 > | **Class of Offence** | **PPE Range** | **Initial Fee (£)** | **Incremental fee per page (£)** |
 > | --- | --- | --- | --- |
@@ -767,9 +767,9 @@ Regulation 3(2)
 
 .
 
-**5.**[^key-0454a5df3f0718ef1e5bf35fb39c7bc9] In paragraph 11[^f00024] (fixed fee for guilty pleas or cracked trials), for “£330.33” substitute “£298.65”.
+**5.**[^c-0454a5df3f0718ef1e5bf35fb39c7bc9] In paragraph 11[^f00024] (fixed fee for guilty pleas or cracked trials), for “£330.33” substitute “£298.65”.
 
-**6.**[^key-966a6815b8722e853a63c834bad1ace3] For the table following paragraph 19[^f00025] (fixed fees), substitute the following—
+**6.**[^c-966a6815b8722e853a63c834bad1ace3] For the table following paragraph 19[^f00025] (fixed fees), substitute the following—
 
 > | **Types of proceedings** | **Paragraph providing for fee** | **Fee payable – (£ per proceedings)** |
 > | --- | --- | --- |
@@ -782,7 +782,7 @@ Regulation 3(2)
 
 .
 
-**7.**[^key-82761296f48b97d4da877c1d99bca3e3] For the table following paragraph 27[^f00026] (prescribed fee rates), substitute the following—
+**7.**[^c-82761296f48b97d4da877c1d99bca3e3] For the table following paragraph 27[^f00026] (prescribed fee rates), substitute the following—
 
 > | **Class of work** | **Grade of fee earner** | **Rate** | **Variations** |
 > | --- | --- | --- | --- |
@@ -803,7 +803,7 @@ Regulation 3(2)
 
 Regulation 3(3)
 
-**1.**[^key-4a89b0eabfef93f63686902a46c88e7b] For the table following paragraph 7(1)[^f00027] (litigators’ fees for proceedings in the Court of Appeal), substitute the following—
+**1.**[^c-4a89b0eabfef93f63686902a46c88e7b] For the table following paragraph 7(1)[^f00027] (litigators’ fees for proceedings in the Court of Appeal), substitute the following—
 
 > | **Class of work** | **Grade of fee earner** | **Rate** | **Variations** |
 > | --- | --- | --- | --- |
@@ -826,9 +826,9 @@ Regulation 3(3)
 
 Regulation 3(4)
 
-**1.**[^key-a3369c9547c4336fe97865b67496d1b7] For “£1,368.75”, wherever it appears, substitute “£1,237.50”.
+**1.**[^c-a3369c9547c4336fe97865b67496d1b7] For “£1,368.75”, wherever it appears, substitute “£1,237.50”.
 
-**2.**[^key-851b440a9b435e595498308c84930e05] In paragraph 2 (work conducted at the Police Station: Police Station advice and assistance)—
+**2.**[^c-851b440a9b435e595498308c84930e05] In paragraph 2 (work conducted at the Police Station: Police Station advice and assistance)—
 
 - (a) in sub-paragraph (1)—
   - (i) in paragraph (a), for “£28.70” substitute “£25.95”, and
@@ -1113,7 +1113,7 @@ Regulation 3(4)
 
   .
 
-**3.**[^key-27403552d81ce9e0942dcfe0a6959b7d] In paragraph 3 (work conducted outside the Police Station)—
+**3.**[^c-27403552d81ce9e0942dcfe0a6959b7d] In paragraph 3 (work conducted outside the Police Station)—
 
 - (a) in sub-paragraph (1) for “£273.75” substitute “£247.50”;
 - (b) for the table following sub-paragraph (1) (free standing advice and assistance), substitute the following—
@@ -1201,7 +1201,7 @@ Regulation 3(4)
 
   .
 
-**4.**[^key-c0a2f5d6966af55c698018b713972c26] In paragraph 4 (Advice and Assistance and Advocacy Assistance by a court Duty Solicitor and Advocacy Assistance at the Virtual Court)—
+**4.**[^c-c0a2f5d6966af55c698018b713972c26] In paragraph 4 (Advice and Assistance and Advocacy Assistance by a court Duty Solicitor and Advocacy Assistance at the Virtual Court)—
 
 - (a) for the table following sub-paragraph (1) (Advice and Assistance and Advocacy Assistance by a court Duty Solicitor), substitute the following—
 
@@ -1221,7 +1221,7 @@ Regulation 3(4)
 
   .
 
-**5.**[^key-c97eac9a5dd1bf370196278280fbda01] In paragraph 5 (representation in the magistrates’ court)—
+**5.**[^c-c97eac9a5dd1bf370196278280fbda01] In paragraph 5 (representation in the magistrates’ court)—
 
 - (a) for the table following sub-paragraph (1) (representation in a magistrates’ court), substitute the following—
 
@@ -1258,7 +1258,7 @@ Regulation 3(4)
 
   .
 
-**6.**[^key-4167d1f6599f19b45464b736a3ac986e] In paragraph 5A[^f00028] (representation in proceedings relating to an injunction under Part 1 of the 2014 Act or related parenting order in any court)—
+**6.**[^c-4167d1f6599f19b45464b736a3ac986e] In paragraph 5A[^f00028] (representation in proceedings relating to an injunction under Part 1 of the 2014 Act or related parenting order in any court)—
 
 - (a) for the table following sub-paragraph (2) (representation in proceedings relating to an injunction under Part 1 of the 2014 Act or related parenting order in any court), substitute the following—
 
@@ -1282,7 +1282,7 @@ Regulation 3(4)
   and
 - (c) in sub-paragraph (4) for “£24.00” substitute “£21.70”.
 
-**7.**[^key-67e58395353372728e7dcf1d6ce96c48] In paragraph 6 (own client work)—
+**7.**[^c-67e58395353372728e7dcf1d6ce96c48] In paragraph 6 (own client work)—
 
 - (a) in sub-paragraph (2)—
   - (i) in paragraph (a) for “£47.95” substitute “£43.35”, and
@@ -1300,7 +1300,7 @@ Regulation 3(4)
 
   .
 
-**8.**[^key-2a5fc9f1bef8dfa85b74a0789ed36a02] In paragraph 7[^f00029] (representation in proceedings prescribed as criminal proceedings under section 14(h) of the Act)—
+**8.**[^c-2a5fc9f1bef8dfa85b74a0789ed36a02] In paragraph 7[^f00029] (representation in proceedings prescribed as criminal proceedings under section 14(h) of the Act)—
 
 - (a) for the table following sub-paragraph (1) (representation in Prescribed Proceedings in a Crown Court), substitute the following—
 
@@ -1327,7 +1327,7 @@ Regulation 3(4)
 
   .
 
-**9.**[^key-0dd0db5e1ca10b547e407b546bdd441a] In paragraph 8[^f00030] (Advice and Assistance on an appeal against conviction or sentence or an application to the Criminal Cases Review Commission)—
+**9.**[^c-0dd0db5e1ca10b547e407b546bdd441a] In paragraph 8[^f00030] (Advice and Assistance on an appeal against conviction or sentence or an application to the Criminal Cases Review Commission)—
 
 - (a) in paragraph (a), for “£273.75” substitute “£247.50”;
 - (b) in paragraph (b), for “£456.25” substitute “£412.50”, and
@@ -1341,7 +1341,7 @@ Regulation 3(4)
 
   .
 
-**10.**[^key-4fe073b2445f9e6867efdb2d34d956af] In paragraph 9[^f00031] (representation on an appeal by way of case stated), for the table following sub-paragraph (1) (representation on an appeal by way of case stated in the High Court), substitute the following—
+**10.**[^c-4fe073b2445f9e6867efdb2d34d956af] In paragraph 9[^f00031] (representation on an appeal by way of case stated), for the table following sub-paragraph (1) (representation on an appeal by way of case stated in the High Court), substitute the following—
 
 > |  | **High Court (£)** |
 > | --- | --- |
@@ -1354,7 +1354,7 @@ Regulation 3(4)
 
 .
 
-**11.**[^key-e91ccbae4a642fd9a02dceec073d7953] For the table following paragraph 10[^f00032] (representation in the Crown Court on an appeal from a magistrates’ court in proceedings prescribed as criminal proceedings under section 14(h) of the Act), substitute the following—
+**11.**[^c-e91ccbae4a642fd9a02dceec073d7953] For the table following paragraph 10[^f00032] (representation in the Crown Court on an appeal from a magistrates’ court in proceedings prescribed as criminal proceedings under section 14(h) of the Act), substitute the following—
 
 > |  | **London (£)** | **National (£)** |
 > | --- | --- | --- |
@@ -1365,7 +1365,7 @@ Regulation 3(4)
 
 .
 
-**12.**[^key-af872df90a4c8eebd366a09b580c96cf] In paragraph 11[^f00033] (Advice and Assistance provided pursuant to a determination made under section 15 of the Act in Prison Law cases)—
+**12.**[^c-af872df90a4c8eebd366a09b580c96cf] In paragraph 11[^f00033] (Advice and Assistance provided pursuant to a determination made under section 15 of the Act in Prison Law cases)—
 
 - (a) in sub-paragraph (1)—
   - (i) for “£200.75” substitute “£181.50”, and
@@ -1418,7 +1418,7 @@ Regulation 3(4)
 
   .
 
-**13.**[^key-c940b8be1ffddcdfe44dc5eaa4ac8cd7] In paragraph 12[^f00034] (payment for Assigned Counsel), for the table following sub-paragraph (2) (payment for Assigned Counsel), substitute the following—
+**13.**[^c-c940b8be1ffddcdfe44dc5eaa4ac8cd7] In paragraph 12[^f00034] (payment for Assigned Counsel), for the table following sub-paragraph (2) (payment for Assigned Counsel), substitute the following—
 
 > <table>
 > <thead>
@@ -1436,101 +1436,101 @@ Regulation 3(4)
 
 .
 
-## SCHEDULE 4 — Substitution for regulation 17A(11) to (13) to the Criminal Remuneration Regulations[^key-203aa3c156b2fa941a6ce3229d6e3b38]
+## SCHEDULE 4 — Substitution for regulation 17A(11) to (13) to the Criminal Remuneration Regulations[^c-203aa3c156b2fa941a6ce3229d6e3b38]
 
 Regulation 6(4)(a)
 
-> (11)[^key-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (11)[^c-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> (12)[^key-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (12)[^c-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> (13)[^key-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (13)[^c-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — Insertion of new Part 1A in Schedule 2 to the Criminal Remuneration Regulations[^key-203aa3c156b2fa941a6ce3229d6e3b38]
+## SCHEDULE 5 — Insertion of new Part 1A in Schedule 2 to the Criminal Remuneration Regulations[^c-203aa3c156b2fa941a6ce3229d6e3b38]
 
 Regulation 6(7)(c)
 
-> **PART 1A — Fixed Fees for Guilty Pleas, Cracked Trials and Trials[^key-203aa3c156b2fa941a6ce3229d6e3b38]**
+> **PART 1A — Fixed Fees for Guilty Pleas, Cracked Trials and Trials[^c-203aa3c156b2fa941a6ce3229d6e3b38]**
 >
 > **No longer in force.**
 >
-> **3A. Scope[^key-203aa3c156b2fa941a6ce3229d6e3b38]**
+> **3A. Scope[^c-203aa3c156b2fa941a6ce3229d6e3b38]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3AA. Fixed Fees[^key-203aa3c156b2fa941a6ce3229d6e3b38]**
+> **3AA. Fixed Fees[^c-203aa3c156b2fa941a6ce3229d6e3b38]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 6 — Substitution for paragraph 5 of Schedule 2 to the Criminal Remuneration Regulations[^key-203aa3c156b2fa941a6ce3229d6e3b38]
+## SCHEDULE 6 — Substitution for paragraph 5 of Schedule 2 to the Criminal Remuneration Regulations[^c-203aa3c156b2fa941a6ce3229d6e3b38]
 
 Regulation 6(7)(e)
 
-> **5. Pages of Prosecution Evidence[^key-203aa3c156b2fa941a6ce3229d6e3b38]**
+> **5. Pages of Prosecution Evidence[^c-203aa3c156b2fa941a6ce3229d6e3b38]**
 >
 > **No longer in force.**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 7 — Substitution for tables following paragraph 8(2) of Schedule 2 to the Criminal Remuneration Regulations[^key-203aa3c156b2fa941a6ce3229d6e3b38]
+## SCHEDULE 7 — Substitution for tables following paragraph 8(2) of Schedule 2 to the Criminal Remuneration Regulations[^c-203aa3c156b2fa941a6ce3229d6e3b38]
 
 Regulation 6(7)(j)
 
-## SCHEDULE 8 — Substitution for tables following paragraph 9(2) of Schedule 2 to the Criminal Remuneration Regulations[^key-203aa3c156b2fa941a6ce3229d6e3b38]
+## SCHEDULE 8 — Substitution for tables following paragraph 9(2) of Schedule 2 to the Criminal Remuneration Regulations[^c-203aa3c156b2fa941a6ce3229d6e3b38]
 
 Regulation 6(7)(k)
 
-## SCHEDULE 9 — Substitution for paragraph 21(2) to (6) of Schedule 2 to the Criminal Remuneration Regulations[^key-203aa3c156b2fa941a6ce3229d6e3b38]
+## SCHEDULE 9 — Substitution for paragraph 21(2) to (6) of Schedule 2 to the Criminal Remuneration Regulations[^c-203aa3c156b2fa941a6ce3229d6e3b38]
 
 Regulation 6(7)(q)
 
-> (2)[^key-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (2)[^c-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> (3)[^key-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (3)[^c-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> (4)[^key-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (4)[^c-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> (5)[^key-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (5)[^c-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 10 — Substitution for paragraph 23(2) of Schedule 2 to the Criminal Remuneration Regulations[^key-203aa3c156b2fa941a6ce3229d6e3b38]
+## SCHEDULE 10 — Substitution for paragraph 23(2) of Schedule 2 to the Criminal Remuneration Regulations[^c-203aa3c156b2fa941a6ce3229d6e3b38]
 
 Regulation 6(7)(s)
 
-> (2)[^key-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (2)[^c-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> (2A)[^key-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (2A)[^c-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 11 — Substitution for paragraph 25 of Schedule 2 to the Criminal Remuneration Regulations[^key-203aa3c156b2fa941a6ce3229d6e3b38]
+## SCHEDULE 11 — Substitution for paragraph 25 of Schedule 2 to the Criminal Remuneration Regulations[^c-203aa3c156b2fa941a6ce3229d6e3b38]
 
 Regulation 6(7)(t)
 
-> **25. Assisted person unfit to plead or stand trial[^key-203aa3c156b2fa941a6ce3229d6e3b38]**
+> **25. Assisted person unfit to plead or stand trial[^c-203aa3c156b2fa941a6ce3229d6e3b38]**
 >
 > **No longer in force.**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 12 — Substitution for paragraphs 2(4) to (7) of Schedule 4 to the Criminal Remuneration Regulations[^key-203aa3c156b2fa941a6ce3229d6e3b38]
+## SCHEDULE 12 — Substitution for paragraphs 2(4) to (7) of Schedule 4 to the Criminal Remuneration Regulations[^c-203aa3c156b2fa941a6ce3229d6e3b38]
 
 Regulation 6(8)(c)(iv)
 
-> (4)[^key-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (4)[^c-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> (5)[^key-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (5)[^c-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> (6)[^key-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (6)[^c-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> (7)[^key-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (7)[^c-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 13 — Substitution for paragraph 5(2) of Schedule 4 to the Criminal Remuneration Regulations[^key-203aa3c156b2fa941a6ce3229d6e3b38]
+## SCHEDULE 13 — Substitution for paragraph 5(2) of Schedule 4 to the Criminal Remuneration Regulations[^c-203aa3c156b2fa941a6ce3229d6e3b38]
 
 Regulation 6(8)(f)(vi)
 
-> (2)[^key-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (2)[^c-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> (2A)[^key-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (2A)[^c-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> (2B)[^key-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (2B)[^c-203aa3c156b2fa941a6ce3229d6e3b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 EXPLANATORY NOTE
 
@@ -1556,23 +1556,23 @@ A full impact assessment of the effect that Part 2 of this instrument will have 
 
 [^f00002]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-50b386c07257903322bdf961a6334a64]: Commencement: Reg. 1 in force at made date
+[^c-50b386c07257903322bdf961a6334a64]: Commencement: Reg. 1 in force at made date
 
-[^key-adfb89fc70048fd8164bc0c140419cd6]: Textual amendment: [Reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/b) revoked (31.3.2016) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2016 (S.I. 2016/313)](https://www.legislation.gov.uk/uksi/2016/313), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/2016/313/regulation/2/a/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/313/regulation/5))
+[^c-adfb89fc70048fd8164bc0c140419cd6]: Textual amendment: [Reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/b) revoked (31.3.2016) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2016 (S.I. 2016/313)](https://www.legislation.gov.uk/uksi/2016/313), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/2016/313/regulation/2/a/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/313/regulation/5))
 
 [^f00003]: Footnote: [S.I. 2013/435](https://www.legislation.gov.uk/uksi/2013/435).
 
-[^key-011b4208890d149b239b018b908071dd]: Commencement: Reg. 2 in force at made date
+[^c-011b4208890d149b239b018b908071dd]: Commencement: Reg. 2 in force at made date
 
-[^key-3bb12b7486db21d828e7d12a367d19ed]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/2/2) revoked (31.3.2016) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2016 (S.I. 2016/313)](https://www.legislation.gov.uk/uksi/2016/313), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/2016/313/regulation/2/a/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/313/regulation/5))
+[^c-3bb12b7486db21d828e7d12a367d19ed]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/2/2) revoked (31.3.2016) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2016 (S.I. 2016/313)](https://www.legislation.gov.uk/uksi/2016/313), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/2016/313/regulation/2/a/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/313/regulation/5))
 
-[^key-48c4cbc0b5abf18ef9f3e227605ac46d]: Commencement: Reg. 3 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
+[^c-48c4cbc0b5abf18ef9f3e227605ac46d]: Commencement: Reg. 3 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
 
-[^key-e7faf662440f0acc54132b95115f1d44]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2015/1369/part/3) (except reg. 6(4)(b)(iii)(c)(d)(5)(6)(7)(b)(i)(ii)(8)(f)(i)(ii)) revoked (31.3.2016) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2016 (S.I. 2016/313)](https://www.legislation.gov.uk/uksi/2016/313), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1), [2(a)(ii)](https://www.legislation.gov.uk/uksi/2016/313/regulation/2/a/ii), [3](https://www.legislation.gov.uk/uksi/2016/313/regulation/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/313/regulation/5))
+[^c-e7faf662440f0acc54132b95115f1d44]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2015/1369/part/3) (except reg. 6(4)(b)(iii)(c)(d)(5)(6)(7)(b)(i)(ii)(8)(f)(i)(ii)) revoked (31.3.2016) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2016 (S.I. 2016/313)](https://www.legislation.gov.uk/uksi/2016/313), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1), [2(a)(ii)](https://www.legislation.gov.uk/uksi/2016/313/regulation/2/a/ii), [3](https://www.legislation.gov.uk/uksi/2016/313/regulation/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/313/regulation/5))
 
-[^key-78234edabd894f71d68f1eb4d8cf074a]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2015/1369/part/3) heading substituted (10.1.2016) by [The Criminal Legal Aid (Remuneration etc.) (Amendment) (No. 2) Regulations 2015 (S.I. 2015/2049)](https://www.legislation.gov.uk/uksi/2015/2049), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/2049/regulation/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2015/2049/regulation/2/c)
+[^c-78234edabd894f71d68f1eb4d8cf074a]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2015/1369/part/3) heading substituted (10.1.2016) by [The Criminal Legal Aid (Remuneration etc.) (Amendment) (No. 2) Regulations 2015 (S.I. 2015/2049)](https://www.legislation.gov.uk/uksi/2015/2049), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/2049/regulation/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2015/2049/regulation/2/c)
 
-[^key-5400935bb760a32624e2be474f7795cc]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/1369/regulation/6) in force at 1.4.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/b) (as amended by S.I. 2015/2049, [reg 2(a)](https://www.legislation.gov.uk/uksi/2015/2049/regulation/2/a))
+[^c-5400935bb760a32624e2be474f7795cc]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/1369/regulation/6) in force at 1.4.2016, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/b) (as amended by S.I. 2015/2049, [reg 2(a)](https://www.legislation.gov.uk/uksi/2015/2049/regulation/2/a))
 
 [^f00009]: Footnote: Inserted by [S.I. 2014/2422](https://www.legislation.gov.uk/uksi/2014/2422).
 
@@ -1582,68 +1582,68 @@ A full impact assessment of the effect that Part 2 of this instrument will have 
 
 [^f00022]: Footnote: Amended by [S.I. 2014/415](https://www.legislation.gov.uk/uksi/2014/415) and [2015/325](https://www.legislation.gov.uk/uksi/2015/325).
 
-[^key-17f85e245b3673a8d745ed030ba7a763]: Commencement: Sch. 1 para. 1 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
+[^c-17f85e245b3673a8d745ed030ba7a763]: Commencement: Sch. 1 para. 1 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
 
-[^key-3ac1efd489cd073a3c5ec72534269074]: Commencement: Sch. 1 para. 2 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
+[^c-3ac1efd489cd073a3c5ec72534269074]: Commencement: Sch. 1 para. 2 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
 
-[^key-921b50fcd020466c1e2556ab2a9d1346]: Commencement: Sch. 1 para. 3 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
+[^c-921b50fcd020466c1e2556ab2a9d1346]: Commencement: Sch. 1 para. 3 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
 
-[^key-2c2a46959563558b24e7d19d999fcb38]: Commencement: Sch. 1 para. 4 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
+[^c-2c2a46959563558b24e7d19d999fcb38]: Commencement: Sch. 1 para. 4 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
 
-[^key-0454a5df3f0718ef1e5bf35fb39c7bc9]: Commencement: Sch. 1 para. 5 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
+[^c-0454a5df3f0718ef1e5bf35fb39c7bc9]: Commencement: Sch. 1 para. 5 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
 
 [^f00024]: Footnote: Amended by [S.I. 2014/415](https://www.legislation.gov.uk/uksi/2014/415).
 
-[^key-966a6815b8722e853a63c834bad1ace3]: Commencement: Sch. 1 para. 6 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
+[^c-966a6815b8722e853a63c834bad1ace3]: Commencement: Sch. 1 para. 6 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
 
 [^f00025]: Footnote: Amended by [S.I. 2014/415](https://www.legislation.gov.uk/uksi/2014/415).
 
-[^key-82761296f48b97d4da877c1d99bca3e3]: Commencement: Sch. 1 para. 7 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
+[^c-82761296f48b97d4da877c1d99bca3e3]: Commencement: Sch. 1 para. 7 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
 
 [^f00026]: Footnote: Amended by [S.I. 2014/415](https://www.legislation.gov.uk/uksi/2014/415).
 
-[^key-4a89b0eabfef93f63686902a46c88e7b]: Commencement: Sch. 2 para. 1 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
+[^c-4a89b0eabfef93f63686902a46c88e7b]: Commencement: Sch. 2 para. 1 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
 
 [^f00027]: Footnote: Amended by [S.I. 2014/415](https://www.legislation.gov.uk/uksi/2014/415).
 
-[^key-a3369c9547c4336fe97865b67496d1b7]: Commencement: Sch. 3 para. 1 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
+[^c-a3369c9547c4336fe97865b67496d1b7]: Commencement: Sch. 3 para. 1 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
 
-[^key-851b440a9b435e595498308c84930e05]: Commencement: Sch. 3 para. 2 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
+[^c-851b440a9b435e595498308c84930e05]: Commencement: Sch. 3 para. 2 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
 
-[^key-27403552d81ce9e0942dcfe0a6959b7d]: Commencement: Sch. 3 para. 3 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
+[^c-27403552d81ce9e0942dcfe0a6959b7d]: Commencement: Sch. 3 para. 3 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
 
-[^key-c0a2f5d6966af55c698018b713972c26]: Commencement: Sch. 3 para. 4 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
+[^c-c0a2f5d6966af55c698018b713972c26]: Commencement: Sch. 3 para. 4 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
 
-[^key-c97eac9a5dd1bf370196278280fbda01]: Commencement: Sch. 3 para. 5 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
+[^c-c97eac9a5dd1bf370196278280fbda01]: Commencement: Sch. 3 para. 5 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
 
-[^key-4167d1f6599f19b45464b736a3ac986e]: Commencement: Sch. 3 para. 6 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
+[^c-4167d1f6599f19b45464b736a3ac986e]: Commencement: Sch. 3 para. 6 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
 
 [^f00028]: Footnote: Inserted by [S.I. 2015/325](https://www.legislation.gov.uk/uksi/2015/325).
 
-[^key-67e58395353372728e7dcf1d6ce96c48]: Commencement: Sch. 3 para. 7 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
+[^c-67e58395353372728e7dcf1d6ce96c48]: Commencement: Sch. 3 para. 7 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
 
-[^key-2a5fc9f1bef8dfa85b74a0789ed36a02]: Commencement: Sch. 3 para. 8 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
+[^c-2a5fc9f1bef8dfa85b74a0789ed36a02]: Commencement: Sch. 3 para. 8 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
 
 [^f00029]: Footnote: Amended by [S.I. 2014/415](https://www.legislation.gov.uk/uksi/2014/415), [2015/325](https://www.legislation.gov.uk/uksi/2015/325).
 
-[^key-0dd0db5e1ca10b547e407b546bdd441a]: Commencement: Sch. 3 para. 9 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
+[^c-0dd0db5e1ca10b547e407b546bdd441a]: Commencement: Sch. 3 para. 9 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
 
 [^f00030]: Footnote: Amended by [S.I. 2014/415](https://www.legislation.gov.uk/uksi/2014/415).
 
-[^key-4fe073b2445f9e6867efdb2d34d956af]: Commencement: Sch. 3 para. 10 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
+[^c-4fe073b2445f9e6867efdb2d34d956af]: Commencement: Sch. 3 para. 10 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
 
 [^f00031]: Footnote: Amended by [S.I. 2014/415](https://www.legislation.gov.uk/uksi/2014/415).
 
-[^key-e91ccbae4a642fd9a02dceec073d7953]: Commencement: Sch. 3 para. 11 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
+[^c-e91ccbae4a642fd9a02dceec073d7953]: Commencement: Sch. 3 para. 11 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
 
 [^f00032]: Footnote: Amended by [S.I. 2014/415](https://www.legislation.gov.uk/uksi/2014/415), [2015/325](https://www.legislation.gov.uk/uksi/2015/325).
 
-[^key-af872df90a4c8eebd366a09b580c96cf]: Commencement: Sch. 3 para. 12 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
+[^c-af872df90a4c8eebd366a09b580c96cf]: Commencement: Sch. 3 para. 12 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
 
 [^f00033]: Footnote: Amended by [S.I. 2013/2803](https://www.legislation.gov.uk/uksi/2013/2803), [2014/415](https://www.legislation.gov.uk/uksi/2014/415).
 
-[^key-c940b8be1ffddcdfe44dc5eaa4ac8cd7]: Commencement: Sch. 3 para. 13 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
+[^c-c940b8be1ffddcdfe44dc5eaa4ac8cd7]: Commencement: Sch. 3 para. 13 in force at 1.7.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1369/regulation/1/2/a)
 
 [^f00034]: Footnote: Amended by [S.I. 2014/415](https://www.legislation.gov.uk/uksi/2014/415).
 
-[^key-203aa3c156b2fa941a6ce3229d6e3b38]: Textual amendment: [Schs. 4-13](https://www.legislation.gov.uk/uksi/2015/1369/schedule/4) revoked (31.3.2016) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2016 (S.I. 2016/313)](https://www.legislation.gov.uk/uksi/2016/313), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1), [2(a)(ii)](https://www.legislation.gov.uk/uksi/2016/313/regulation/2/a/ii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/313/regulation/5))
+[^c-203aa3c156b2fa941a6ce3229d6e3b38]: Textual amendment: [Schs. 4-13](https://www.legislation.gov.uk/uksi/2015/1369/schedule/4) revoked (31.3.2016) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2016 (S.I. 2016/313)](https://www.legislation.gov.uk/uksi/2016/313), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/313/regulation/1/1), [2(a)(ii)](https://www.legislation.gov.uk/uksi/2016/313/regulation/2/a/ii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/313/regulation/5))

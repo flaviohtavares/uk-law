@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture, England
 
-The Rural Development Programme (Transfer and Appeals) (England) Regulations 2011 (revoked)[^key-213301d503bd9c61987c823124c6b783]
+The Rural Development Programme (Transfer and Appeals) (England) Regulations 2011 (revoked)[^c-213301d503bd9c61987c823124c6b783]
 
 Made
 
@@ -46,27 +46,27 @@ Coming into force
 
 1st July 2011
 
-[^key-213301d503bd9c61987c823124c6b783]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-213301d503bd9c61987c823124c6b783]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application, commencement and interpretation[^key-213301d503bd9c61987c823124c6b783]
+## 1. Title, application, commencement and interpretation[^c-213301d503bd9c61987c823124c6b783]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Transfer from the regional development agencies to the Secretary of State[^key-213301d503bd9c61987c823124c6b783]
+## 2. Transfer from the regional development agencies to the Secretary of State[^c-213301d503bd9c61987c823124c6b783]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Appeals[^key-213301d503bd9c61987c823124c6b783]
+## 3. Appeals[^c-213301d503bd9c61987c823124c6b783]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-213301d503bd9c61987c823124c6b783]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-213301d503bd9c61987c823124c6b783]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-213301d503bd9c61987c823124c6b783]EXPLANATORY NOTE
+[^c-213301d503bd9c61987c823124c6b783]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -76,4 +76,4 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 ## Annotations
 
-[^key-213301d503bd9c61987c823124c6b783]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2011/1433) revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5) (with [reg. 35](https://www.legislation.gov.uk/uksi/2014/3263/regulation/35))
+[^c-213301d503bd9c61987c823124c6b783]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2011/1433) revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5) (with [reg. 35](https://www.legislation.gov.uk/uksi/2014/3263/regulation/35))

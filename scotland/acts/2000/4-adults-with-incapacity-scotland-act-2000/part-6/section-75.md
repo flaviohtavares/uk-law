@@ -32,7 +32,7 @@ summary: ''
 (3) On receiving notice in writing and evidence as mentioned in subsection (2)(b), the Public Guardian shall—
 
 - (a) enter prescribed particulars in the register maintained by him under section 6(2)(b)(iv);
-- (b) if satisfied that the substitute guardian has found caution or given other security[^key-07f1b3f654a8612a5f48c751a0a75c99] if so required, issue him with a new certificate of appointment;
+- (b) if satisfied that the substitute guardian has found caution or given other security[^c-07f1b3f654a8612a5f48c751a0a75c99] if so required, issue him with a new certificate of appointment;
 - (c) issue a remaining joint guardian with a new certificate of appointment;
 - (d) notify the adult.
 
@@ -51,4 +51,4 @@ shall not resign until a replacement guardian has been appointed under section 7
 
 ## Annotations
 
-[^key-07f1b3f654a8612a5f48c751a0a75c99]: Textual amendment: Words in s. 75(3)(b) inserted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 60(14)](https://www.legislation.gov.uk/asp/2007/10/section/60/14), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
+[^c-07f1b3f654a8612a5f48c751a0a75c99]: Textual amendment: Words in s. 75(3)(b) inserted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 60(14)](https://www.legislation.gov.uk/asp/2007/10/section/60/14), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)

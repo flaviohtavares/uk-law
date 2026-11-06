@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 231. Proceedings under EU insolvency proceedings regulation: modified definition of “estate”[^key-5a7327b7110b0d17237249c5260dfab1][^key-c213325001206583150a65ab93d9cb83]
+## 231. Proceedings under EU insolvency proceedings regulation: modified definition of “estate”[^c-5a7327b7110b0d17237249c5260dfab1][^c-c213325001206583150a65ab93d9cb83]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5a7327b7110b0d17237249c5260dfab1]: Textual amendment: S. 231 omitted (31.12.2020) by virtue of [The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94)](https://www.legislation.gov.uk/ssi/2019/94), [regs. 1](https://www.legislation.gov.uk/ssi/2019/94/regulation/1), [4(17)](https://www.legislation.gov.uk/ssi/2019/94/regulation/4/17) (with [reg. 9](https://www.legislation.gov.uk/ssi/2019/94/regulation/9)) (as amended by [S.S.I. 2020/337](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/337/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5a7327b7110b0d17237249c5260dfab1]: Textual amendment: S. 231 omitted (31.12.2020) by virtue of [The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94)](https://www.legislation.gov.uk/ssi/2019/94), [regs. 1](https://www.legislation.gov.uk/ssi/2019/94/regulation/1), [4(17)](https://www.legislation.gov.uk/ssi/2019/94/regulation/4/17) (with [reg. 9](https://www.legislation.gov.uk/ssi/2019/94/regulation/9)) (as amended by [S.S.I. 2020/337](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/337/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c213325001206583150a65ab93d9cb83]: Textual amendment: Word in s. 231 heading substituted (26.6.2017) by [The Insolvency (Regulation (EU) 2015/848) (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/210)](https://www.legislation.gov.uk/ssi/2017/210), [regs. 1](https://www.legislation.gov.uk/ssi/2017/210/regulation/1), [4(23)](https://www.legislation.gov.uk/ssi/2017/210/regulation/4/23) (with [reg. 9](https://www.legislation.gov.uk/ssi/2017/210/regulation/9))
+[^c-c213325001206583150a65ab93d9cb83]: Textual amendment: Word in s. 231 heading substituted (26.6.2017) by [The Insolvency (Regulation (EU) 2015/848) (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/210)](https://www.legislation.gov.uk/ssi/2017/210), [regs. 1](https://www.legislation.gov.uk/ssi/2017/210/regulation/1), [4(23)](https://www.legislation.gov.uk/ssi/2017/210/regulation/4/23) (with [reg. 9](https://www.legislation.gov.uk/ssi/2017/210/regulation/9))

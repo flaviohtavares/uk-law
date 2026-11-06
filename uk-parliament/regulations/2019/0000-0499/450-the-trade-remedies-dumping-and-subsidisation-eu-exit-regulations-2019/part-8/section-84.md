@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Reviews by the TRA of the continuing application of an undertaking[^key-6530eed809afebddf4fa16f9a0516387]
+## 84. Reviews by the TRA of the continuing application of an undertaking[^c-6530eed809afebddf4fa16f9a0516387]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6530eed809afebddf4fa16f9a0516387]: Commencement: Reg. 84 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-6530eed809afebddf4fa16f9a0516387]: Commencement: Reg. 84 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

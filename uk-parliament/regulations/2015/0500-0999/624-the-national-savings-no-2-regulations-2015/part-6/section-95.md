@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Rectification of mistakes[^key-3f933b6744fae39cb9b32923c9332d5d]
+## 95. Rectification of mistakes[^c-3f933b6744fae39cb9b32923c9332d5d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f933b6744fae39cb9b32923c9332d5d]: Commencement: Reg. 95 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-3f933b6744fae39cb9b32923c9332d5d]: Commencement: Reg. 95 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

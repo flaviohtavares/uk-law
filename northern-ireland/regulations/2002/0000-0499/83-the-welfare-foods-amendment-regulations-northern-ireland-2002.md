@@ -31,7 +31,7 @@ summary: ''
 
 WELFARE FOODS
 
-The Welfare Foods (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^key-72b6769ee3bf7ade76fe84f1a6181fa4]
+The Welfare Foods (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^c-72b6769ee3bf7ade76fe84f1a6181fa4]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 1st April 2002
 
-[^key-72b6769ee3bf7ade76fe84f1a6181fa4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72b6769ee3bf7ade76fe84f1a6181fa4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-72b6769ee3bf7ade76fe84f1a6181fa4]
+## 1. Citation, commencement and interpretation[^c-72b6769ee3bf7ade76fe84f1a6181fa4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 4 of the principal Regulations[^key-72b6769ee3bf7ade76fe84f1a6181fa4]
+## 2. Amendment of regulation 4 of the principal Regulations[^c-72b6769ee3bf7ade76fe84f1a6181fa4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-72b6769ee3bf7ade76fe84f1a6181fa4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72b6769ee3bf7ade76fe84f1a6181fa4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-72b6769ee3bf7ade76fe84f1a6181fa4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72b6769ee3bf7ade76fe84f1a6181fa4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-72b6769ee3bf7ade76fe84f1a6181fa4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/83) revoked (1.10.2004) by [The Welfare Foods (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/161)](https://www.legislation.gov.uk/nisr/2004/161), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2004/161/regulation/1/2), [6](https://www.legislation.gov.uk/nisr/2004/161/regulation/6)
+[^c-72b6769ee3bf7ade76fe84f1a6181fa4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/83) revoked (1.10.2004) by [The Welfare Foods (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/161)](https://www.legislation.gov.uk/nisr/2004/161), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2004/161/regulation/1/2), [6](https://www.legislation.gov.uk/nisr/2004/161/regulation/6)

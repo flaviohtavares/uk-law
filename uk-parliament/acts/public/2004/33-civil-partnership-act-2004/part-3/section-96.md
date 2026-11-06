@@ -37,11 +37,11 @@ be expedited as follows.
 - (a) in section 90—
   - (i) in subsection (2)(b), the words from “being” to the end, and
   - (ii) subsection (3),
-- (b) section 91(1)[^key-e46140cd5c1dc5eac0bdce192d4703b1], and
-- (c) in section 94, subsection (1)(b)[^key-052ed2e1811950b47baa400edfc2d0f1].
+- (b) section 91(1)[^c-e46140cd5c1dc5eac0bdce192d4703b1], and
+- (c) in section 94, subsection (1)(b)[^c-052ed2e1811950b47baa400edfc2d0f1].
 
 ## Annotations
 
-[^key-e46140cd5c1dc5eac0bdce192d4703b1]: Textual amendment: Words in s. 96(3)(b) substituted (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 24(17)(a)](https://www.legislation.gov.uk/asp/2014/5/section/24/17/a), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-e46140cd5c1dc5eac0bdce192d4703b1]: Textual amendment: Words in s. 96(3)(b) substituted (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 24(17)(a)](https://www.legislation.gov.uk/asp/2014/5/section/24/17/a), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-052ed2e1811950b47baa400edfc2d0f1]: Textual amendment: Words in s. 96(3)(c) substituted (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 24(17)(b)](https://www.legislation.gov.uk/asp/2014/5/section/24/17/b), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-052ed2e1811950b47baa400edfc2d0f1]: Textual amendment: Words in s. 96(3)(c) substituted (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 24(17)(b)](https://www.legislation.gov.uk/asp/2014/5/section/24/17/b), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)

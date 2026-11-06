@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4A. Purpose of exercise of functions[^key-02c00282fae80967499e5e188dd16d41]
+## 4A. Purpose of exercise of functions[^c-02c00282fae80967499e5e188dd16d41]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ with a view to meeting the needs of people living in that area.
 
 ## Annotations
 
-[^key-02c00282fae80967499e5e188dd16d41]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/ukpga/2008/17/section/4A) and cross-heading inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2026/23/schedule/18/paragraph/2) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-02c00282fae80967499e5e188dd16d41]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/ukpga/2008/17/section/4A) and cross-heading inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2026/23/schedule/18/paragraph/2) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

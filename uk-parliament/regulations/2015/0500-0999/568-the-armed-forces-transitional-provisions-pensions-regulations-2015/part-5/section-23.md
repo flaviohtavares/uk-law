@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Amendment of the Reserve Forces (Full-Time Reserve Service) Pension Scheme 1997[^key-81f9bf20f2c0999e842bdf8a51f19fab]
+## 23. Amendment of the Reserve Forces (Full-Time Reserve Service) Pension Scheme 1997[^c-81f9bf20f2c0999e842bdf8a51f19fab]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Reserve Forces (Full-Time Reserve Service Pension Scheme 1997[^f00020](“th
 
 ## Annotations
 
-[^key-81f9bf20f2c0999e842bdf8a51f19fab]: Commencement: Reg. 23 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-81f9bf20f2c0999e842bdf8a51f19fab]: Commencement: Reg. 23 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
 
 [^f00020]: Footnote: This scheme is established in the Reserve Forces (Full-time Reserve Service Pension Scheme 1997) Regulations 2010 as amended by the Reserve Forces (Full-time Reserve Service Pension Scheme 1997) (Amendment) Regulations 2012.

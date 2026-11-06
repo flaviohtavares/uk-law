@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 249A. Opinions service[^key-f24017a71764a18f6f277ed99559bad2]
+## 249A. Opinions service[^c-f24017a71764a18f6f277ed99559bad2]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The descriptions of designs which may be specified in regulations under subsecti
 
 ## Annotations
 
-[^key-f24017a71764a18f6f277ed99559bad2]: Textual amendment: S. 249A inserted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2014/18/section/11/2), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-f24017a71764a18f6f277ed99559bad2]: Textual amendment: S. 249A inserted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2014/18/section/11/2), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)

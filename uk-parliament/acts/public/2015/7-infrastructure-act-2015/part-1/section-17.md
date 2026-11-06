@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Financial assistance[^key-ca361c7fc5f041068231dff022b89d42]
+## 17. Financial assistance[^c-ca361c7fc5f041068231dff022b89d42]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca361c7fc5f041068231dff022b89d42]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2015/7/section/17) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-ca361c7fc5f041068231dff022b89d42]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2015/7/section/17) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)

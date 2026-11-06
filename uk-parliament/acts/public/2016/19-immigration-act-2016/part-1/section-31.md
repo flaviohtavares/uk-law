@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Consequential and related amendments[^key-cb6f77edeb814f23b0a0ece4ceb04187]
+## 31. Consequential and related amendments[^c-cb6f77edeb814f23b0a0ece4ceb04187]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3 (consequential and related amendments) has effect.
 
 ## Annotations
 
-[^key-cb6f77edeb814f23b0a0ece4ceb04187]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2016/19/section/31) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/d)
+[^c-cb6f77edeb814f23b0a0ece4ceb04187]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2016/19/section/31) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/d)

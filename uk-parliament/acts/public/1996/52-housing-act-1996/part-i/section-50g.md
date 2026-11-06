@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50G (Extent: W). Sanction (Extent: W)[^key-926bbb01cc02708e757b0bbc697d961a]
+## 50G (Extent: W). Sanction (Extent: W)[^c-926bbb01cc02708e757b0bbc697d961a]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-926bbb01cc02708e757b0bbc697d961a]: Textual amendment: S. 50G inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 56](https://www.legislation.gov.uk/mwa/2011/5/section/56), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(j)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/j)
+[^c-926bbb01cc02708e757b0bbc697d961a]: Textual amendment: S. 50G inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 56](https://www.legislation.gov.uk/mwa/2011/5/section/56), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(j)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/j)

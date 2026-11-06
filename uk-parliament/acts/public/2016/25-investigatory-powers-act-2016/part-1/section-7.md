@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Monetary penalties for certain unlawful interceptions[^key-a36dc18e52d7f14048a2061baac81b15]
+## 7. Monetary penalties for certain unlawful interceptions[^c-a36dc18e52d7f14048a2061baac81b15]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a36dc18e52d7f14048a2061baac81b15]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2016/25/section/7) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(c)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/c) (with [reg. 19(3)(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/19/3/b))
+[^c-a36dc18e52d7f14048a2061baac81b15]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2016/25/section/7) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(c)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/c) (with [reg. 19(3)(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/19/3/b))

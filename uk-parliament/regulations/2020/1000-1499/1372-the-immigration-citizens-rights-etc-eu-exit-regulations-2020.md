@@ -48,7 +48,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 1 — INTRODUCTION
 
-### 1. Citation and commencement[^key-06464a93d2d4afcc10b84cdb01ecccaa]
+### 1. Citation and commencement[^c-06464a93d2d4afcc10b84cdb01ecccaa]
 
 (1) These Regulations may be cited as the Immigration (Citizens' Rights etc.) (EU Exit) Regulations 2020.
 
@@ -67,7 +67,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 2 — IMMIGRATION
 
-### 2. Amendment of the Immigration (Citizens' Rights Appeals) (EU Exit) Regulations 2020[^key-d145a37f6aba21e28704638ee08cc3f9]
+### 2. Amendment of the Immigration (Citizens' Rights Appeals) (EU Exit) Regulations 2020[^c-d145a37f6aba21e28704638ee08cc3f9]
 
 (1) The Immigration (Citizens' Rights Appeals) (EU Exit) Regulations 2020 [^c24350701] are amended as follows.
 
@@ -190,7 +190,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
   .
 
-### 3. Amendment of the Special Immigration Appeals Commission (Procedure) Rules 2003[^key-8e477dd61584aaa9e6163d8cc0168937]
+### 3. Amendment of the Special Immigration Appeals Commission (Procedure) Rules 2003[^c-8e477dd61584aaa9e6163d8cc0168937]
 
 (1) The Special Immigration Appeals Commission (Procedure) Rules 2003 [^c24350811] are amended as follows.
 
@@ -202,13 +202,13 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
   .
 
-### 4. Amendment of the Tribunal Procedure (Upper Tribunal) Rules 2008[^key-59c087eebcf9ae2adad6028ab17e0285]
+### 4. Amendment of the Tribunal Procedure (Upper Tribunal) Rules 2008[^c-59c087eebcf9ae2adad6028ab17e0285]
 
 (1) The Tribunal Procedure (Upper Tribunal) Rules 2008 [^c24350821] are amended as follows.
 
 (2) In rule 17A (appeal treated as abandoned or finally determined in an asylum claim or immigration case), in paragraph (1A), for “13(3)” substitute “ 13 ”.
 
-### 5. Amendment of the Tribunal Procedure (First-tier Tribunal) (Immigration and Asylum Chamber) Rules 2014[^key-66716b44362214c1fc42a31427a5a74e]
+### 5. Amendment of the Tribunal Procedure (First-tier Tribunal) (Immigration and Asylum Chamber) Rules 2014[^c-66716b44362214c1fc42a31427a5a74e]
 
 (1) The Tribunal Procedure (First-tier Tribunal) (Immigration and Asylum Chamber) Rules 2014 [^c24350831] are amended as follows.
 
@@ -218,11 +218,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 .
 
-### 6. Amendment of the Immigration (Control of Entry through Republic of Ireland) Order 1972[^key-a4aa045d7ef10f527fd49b8abee4a5d3][^key-b434293b706a02aca7d2dfe327b94cbb][^key-4563baf146f0225f2e4fbf2801ec8267]
+### 6. Amendment of the Immigration (Control of Entry through Republic of Ireland) Order 1972[^c-a4aa045d7ef10f527fd49b8abee4a5d3][^c-b434293b706a02aca7d2dfe327b94cbb][^c-4563baf146f0225f2e4fbf2801ec8267]
 
-(1)[^key-a4aa045d7ef10f527fd49b8abee4a5d3] The Immigration (Control of Entry through Republic of Ireland) Order 1972 is amended as follows.
+(1)[^c-a4aa045d7ef10f527fd49b8abee4a5d3] The Immigration (Control of Entry through Republic of Ireland) Order 1972 is amended as follows.
 
-(2)[^key-a4aa045d7ef10f527fd49b8abee4a5d3] In article 2(1) (interpretation) [^c24350841], at the appropriate places insert—
+(2)[^c-a4aa045d7ef10f527fd49b8abee4a5d3] In article 2(1) (interpretation) [^c24350841], at the appropriate places insert—
 
 - “**exempt work activity**” means an activity listed in Appendix Visitor: Permitted Activities to the immigration rules [^c24350851], except those listed in paragraphs PA 1, PA 2, and PA 16.1 to 18;
 - “**occupation or employment**” includes, in particular, the following activities in the United Kingdom (whether paid or unpaid)—
@@ -235,7 +235,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - “**permitted paid engagement**” means an engagement listed in paragraph V13.3. of Appendix V:Visitor to the immigration rules [^c24350861];
 - “**permitted payment**” means a payment of a type listed in paragraph V4.6.(a) to (f) of Appendix V:Visitor to the immigration rules, save that the words in paragraph V4.6.(f) “where the requirements of V13.1. to V13.3. are met” do not apply to payments permitted by this Order;.
 
-(3)[^key-b434293b706a02aca7d2dfe327b94cbb] In article 3 (persons excluded from section 1(3) of the Act) [^c24350871], after paragraph (1)(b)(vi) insert—
+(3)[^c-b434293b706a02aca7d2dfe327b94cbb] In article 3 (persons excluded from section 1(3) of the Act) [^c24350871], after paragraph (1)(b)(vi) insert—
 
 > - (vii) he is a person who has at any time been refused admission to the United Kingdom under regulation 23(1), (3) or (4) of the Immigration (European Economic Area) Regulations 2016 [^c24350881], and has not since then been granted admission to, or leave to enter or remain in, the United Kingdom;
 > - (viii) he is a person in respect of whom the Secretary of State has made a removal decision under regulation 23(6)(a) or (c) of the Immigration (European Economic Area Regulations) 2016, and has not since then been granted admission to or leave to enter or remain in, the United Kingdom;
@@ -244,7 +244,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 .
 
-(4)[^key-a4aa045d7ef10f527fd49b8abee4a5d3] In article 4 (restrictions and conditions on entry through Ireland) [^c24350901]—
+(4)[^c-a4aa045d7ef10f527fd49b8abee4a5d3] In article 4 (restrictions and conditions on entry through Ireland) [^c24350901]—
 
 - (a) in paragraph (1), after “(2B)” insert “ and (2C) and (2D) ”;
 - (b) after paragraph (2B) [^c24350911] insert—
@@ -271,7 +271,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
   - (i) for “three” substitute “ six ”;
   - (ii) for “seven days” substitute “ two months ”.
 
-(5)[^key-4563baf146f0225f2e4fbf2801ec8267] After Article 4 insert—
+(5)[^c-4563baf146f0225f2e4fbf2801ec8267] After Article 4 insert—
 
 > **5.**
 >
@@ -341,7 +341,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 .
 
-### 7. Amendment of the Citizens' Rights (Frontier Workers) (EU Exit) Regulations 2020[^key-2267147b8e34c1b9136128d343b4709c]
+### 7. Amendment of the Citizens' Rights (Frontier Workers) (EU Exit) Regulations 2020[^c-2267147b8e34c1b9136128d343b4709c]
 
 (1) The Citizens' Rights (Frontier Workers) (EU Exit) Regulations 2020 [^c24350931] are amended as follows.
 
@@ -365,7 +365,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 3 — Access to benefits and services
 
-### 8. Amendment of the Income Support (General) Regulations 1987[^key-55995a475100e8d95fadffd5c991f1a6]
+### 8. Amendment of the Income Support (General) Regulations 1987[^c-55995a475100e8d95fadffd5c991f1a6]
 
 (1) The Income Support (General) Regulations 1987 [^c24350951] are amended as follows.
 
@@ -380,7 +380,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
   .
 
-### 9. Amendment of the Income Support (General) Regulations (Northern Ireland) 1987[^key-5e6a082a99da665f0d1dae26f7af9a6a]
+### 9. Amendment of the Income Support (General) Regulations (Northern Ireland) 1987[^c-5e6a082a99da665f0d1dae26f7af9a6a]
 
 (1) The Income Support (General) Regulations (Northern Ireland) 1987 [^c24350981] are amended as follows.
 
@@ -395,7 +395,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
   .
 
-### 10. Amendment of the Jobseeker's Allowance Regulations 1996[^key-0510eaf614cd7a5015baf04a3d2d11e6]
+### 10. Amendment of the Jobseeker's Allowance Regulations 1996[^c-0510eaf614cd7a5015baf04a3d2d11e6]
 
 (1) The Jobseeker's Allowance Regulations 1996 [^c24351001] are amended as follows.
 
@@ -410,7 +410,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
   .
 
-### 11. Amendment of the Jobseeker's Allowance Regulations (Northern Ireland) 1996[^key-09a6c09082f8873dce7b8d08c781cc12]
+### 11. Amendment of the Jobseeker's Allowance Regulations (Northern Ireland) 1996[^c-09a6c09082f8873dce7b8d08c781cc12]
 
 (1) The Jobseeker's Allowance Regulations (Northern Ireland) 1996 [^c24351021] are amended as follows.
 
@@ -425,7 +425,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
   .
 
-### 12. Amendment of the Asylum Support Regulations 2000[^key-fb79752e3ebdd43006862bfa8d3d5bcd]
+### 12. Amendment of the Asylum Support Regulations 2000[^c-fb79752e3ebdd43006862bfa8d3d5bcd]
 
 (1) The Asylum Support Regulations 2000 [^c24351041] are amended as follows.
 
@@ -438,7 +438,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 .
 
-### 13. Amendment of the State Pension Credit Regulations 2002[^key-567b838595f2742b3840c2419cb95a2d]
+### 13. Amendment of the State Pension Credit Regulations 2002[^c-567b838595f2742b3840c2419cb95a2d]
 
 (1) The State Pension Credit Regulations 2002 [^c24351061] are amended as follows.
 
@@ -453,7 +453,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
   .
 
-### 14. Amendment of the Tax Credits (Residence) Regulations 2003[^key-c66fa5761215ec1a8dbd34e5eedf3cc9]
+### 14. Amendment of the Tax Credits (Residence) Regulations 2003[^c-c66fa5761215ec1a8dbd34e5eedf3cc9]
 
 (1) The Tax Credits (Residence) Regulations 2003 [^c24351081] are amended as follows.
 
@@ -477,7 +477,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (d) in paragraph (5A), for “(5)(b)(ii)” substitute “ (5)(c) ”;
 - (e) in paragraph (5B), for “(5)(b)(iii)” substitute “ (5)(d)(i) ”.
 
-### 15. Amendment of the State Pension Credit Regulations (Northern Ireland) 2003[^key-dfed3c66c6d323c197831f5f4faf82f0]
+### 15. Amendment of the State Pension Credit Regulations (Northern Ireland) 2003[^c-dfed3c66c6d323c197831f5f4faf82f0]
 
 (1) The State Pension Credit Regulations (Northern Ireland) 2003 [^c24351101] are amended as follows.
 
@@ -492,7 +492,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
   .
 
-### 16. Amendment of the Housing Benefit Regulations 2006[^key-6c48abdbf5a27c64e0e84b83ad4b82fe]
+### 16. Amendment of the Housing Benefit Regulations 2006[^c-6c48abdbf5a27c64e0e84b83ad4b82fe]
 
 (1) The Housing Benefit Regulations 2006 [^c24351121] are amended as follows.
 
@@ -507,7 +507,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
   .
 
-### 17. Amendment of the Housing Benefit Regulations (Northern Ireland) 2006[^key-f5f6b63d48d42124d26ab5eb0b0461f8]
+### 17. Amendment of the Housing Benefit Regulations (Northern Ireland) 2006[^c-f5f6b63d48d42124d26ab5eb0b0461f8]
 
 (1) The Housing Benefit Regulations (Northern Ireland) 2006 [^c24351141] are amended as follows.
 
@@ -522,7 +522,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
   .
 
-### 18. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^key-902d1dab6041e57ca7756d2cbe6039e0]
+### 18. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^c-902d1dab6041e57ca7756d2cbe6039e0]
 
 (1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006 [^c24351161] are amended as follows.
 
@@ -537,7 +537,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
   .
 
-### 19. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^key-e1503b2393ad0a36d2d875f271443a26]
+### 19. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^c-e1503b2393ad0a36d2d875f271443a26]
 
 (1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006 [^c24351181] are amended as follows.
 
@@ -552,7 +552,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
   .
 
-### 20. Amendment of the Allocation of Housing and Homelessness (Eligibility) (England) Regulations 2006[^key-c2af3c19602919658a344d2e8ed72cea]
+### 20. Amendment of the Allocation of Housing and Homelessness (Eligibility) (England) Regulations 2006[^c-c2af3c19602919658a344d2e8ed72cea]
 
 (1) The Allocation of Housing and Homelessness (Eligibility) (England) Regulations 2006 [^c24351201] are amended as follows.
 
@@ -565,7 +565,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 .
 
-### 21. Amendment of the Allocation of Housing and Homelessness (Eligibility) Regulations (Northern Ireland) 2006[^key-b856c5bb6b539b5dcf26a8b45438f94b]
+### 21. Amendment of the Allocation of Housing and Homelessness (Eligibility) Regulations (Northern Ireland) 2006[^c-b856c5bb6b539b5dcf26a8b45438f94b]
 
 (1) The Allocation of Housing and Homelessness (Eligibility) Regulations (Northern Ireland) 2006 [^c24351231] are amended as follows.
 
@@ -578,7 +578,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 .
 
-### 22. Amendment of the Child Benefit (General) Regulations 2006[^key-90736cb67310caaaa9881d9197f01ff9]
+### 22. Amendment of the Child Benefit (General) Regulations 2006[^c-90736cb67310caaaa9881d9197f01ff9]
 
 (1) The Child Benefit (General) Regulations 2006 [^c24351261] are amended as follows.
 
@@ -602,7 +602,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
   ;
 - (b) in paragraph (3B), after “Paragraph (3)(c)” insert “ (i) ”.
 
-### 23. Amendment of the Employment and Support Allowance Regulations 2008[^key-0155c2cd4d1bfc0ce6daf307bfd22807]
+### 23. Amendment of the Employment and Support Allowance Regulations 2008[^c-0155c2cd4d1bfc0ce6daf307bfd22807]
 
 (1) The Employment and Support Allowance Regulations 2008 [^c24351291] are amended as follows.
 
@@ -617,7 +617,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
   .
 
-### 24. Amendment of the Employment and Support Allowance Regulations (Northern Ireland) 2008[^key-c4ba5dfee26e9af0b9f7063e528d0e88]
+### 24. Amendment of the Employment and Support Allowance Regulations (Northern Ireland) 2008[^c-c4ba5dfee26e9af0b9f7063e528d0e88]
 
 (1) The Employment and Support Allowance Regulations (Northern Ireland) 2008 [^c24351311] are amended as follows.
 
@@ -632,7 +632,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
   .
 
-### 25. Amendment of the Universal Credit Regulations 2013[^key-5fdda9840f22cad4434773c655be23f7]
+### 25. Amendment of the Universal Credit Regulations 2013[^c-5fdda9840f22cad4434773c655be23f7]
 
 (1) The Universal Credit Regulations 2013 [^c24351331] are amended as follows.
 
@@ -647,7 +647,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
   .
 
-### 26. Amendment of the Allocation of Housing and Homelessness (Eligibility) (Wales) Regulations 2014[^key-36ad3f105a8ba22e8bc55aef5d4e5d73]
+### 26. Amendment of the Allocation of Housing and Homelessness (Eligibility) (Wales) Regulations 2014[^c-36ad3f105a8ba22e8bc55aef5d4e5d73]
 
 (1) The Allocation of Housing and Homelessness (Eligibility) (Wales) Regulations 2014 [^c24351351] are amended as follows.
 
@@ -670,7 +670,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
   .
 
-### 27. Amendment of the Universal Credit Regulations (Northern Ireland) 2016[^key-215b26767cf24cf05c335c0429211b84]
+### 27. Amendment of the Universal Credit Regulations (Northern Ireland) 2016[^c-215b26767cf24cf05c335c0429211b84]
 
 (1) The Universal Credit Regulations (Northern Ireland) 2016 [^c24351381] are amended as follows.
 
@@ -735,13 +735,13 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24350671]: Marginal citation: [2020 c. 20](https://www.legislation.gov.uk/ukpga/2020/20).
 
-[^key-06464a93d2d4afcc10b84cdb01ecccaa]: Commencement: Reg. 1 in force at 31.12.2020 in force on IP completion day, see reg. 1(2)
+[^c-06464a93d2d4afcc10b84cdb01ecccaa]: Commencement: Reg. 1 in force at 31.12.2020 in force on IP completion day, see reg. 1(2)
 
 [^c24350681]: Marginal citation: “IP completion day” is defined in section 39 of the European Union (Withdrawal Agreement) Act 2020.
 
 [^c24350691]: Marginal citation: [S.I. 1972/1610](https://www.legislation.gov.uk/uksi/1972/1610), amended by [S.I. 2019/468](https://www.legislation.gov.uk/uksi/2019/468), 2019/745, 2020/1213 and 2020/1309. There have been other amendments to the Order which are not relevant to these Regulations.
 
-[^key-d145a37f6aba21e28704638ee08cc3f9]: Commencement: Reg. 2 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(a)
+[^c-d145a37f6aba21e28704638ee08cc3f9]: Commencement: Reg. 2 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(a)
 
 [^c24350701]: Marginal citation: [S.I. 2020/61](https://www.legislation.gov.uk/uksi/2020/61), amended by [S.I. 2020/1213](https://www.legislation.gov.uk/uksi/2020/1213).
 
@@ -765,23 +765,23 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24350801]: Marginal citation: Section 11(1) was amended by paragraph 48 of Schedule 14 to the [Immigration and Asylum Act 1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33), [section 62(8)](https://www.legislation.gov.uk/ukpga/1999/33/section/62/8) of the [Nationality, Immigration and Asylum Act 2002 (c. 14)](https://www.legislation.gov.uk/ukpga/2002/14), and paragraph 15 of Schedule 10 to the [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19).
 
-[^key-8e477dd61584aaa9e6163d8cc0168937]: Commencement: Reg. 3 in force at 31.12.2020 in force on IP completion day, see reg. 1(2)
+[^c-8e477dd61584aaa9e6163d8cc0168937]: Commencement: Reg. 3 in force at 31.12.2020 in force on IP completion day, see reg. 1(2)
 
 [^c24350811]: Marginal citation: [S.I. 2003/1034](https://www.legislation.gov.uk/uksi/2003/1034). Rule 8 was amended by [S.I. 2007/1285](https://www.legislation.gov.uk/uksi/2007/1285), 2013/2995, 2020/61 and 2020/1213.
 
-[^key-59c087eebcf9ae2adad6028ab17e0285]: Commencement: Reg. 4 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(b)
+[^c-59c087eebcf9ae2adad6028ab17e0285]: Commencement: Reg. 4 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(b)
 
 [^c24350821]: Marginal citation: [S.I. 2008/2698](https://www.legislation.gov.uk/uksi/2008/2698), amended by [S.I. 2020/61](https://www.legislation.gov.uk/uksi/2020/61); there are other amending instruments but none is relevant.
 
-[^key-66716b44362214c1fc42a31427a5a74e]: Commencement: Reg. 5 in force at 31.12.2020 in force on IP completion day, see reg. 1(2)
+[^c-66716b44362214c1fc42a31427a5a74e]: Commencement: Reg. 5 in force at 31.12.2020 in force on IP completion day, see reg. 1(2)
 
 [^c24350831]: Marginal citation: [S.I. 2014/2604](https://www.legislation.gov.uk/uksi/2014/2604); relevant amending instruments are [S.I. 2020/61](https://www.legislation.gov.uk/uksi/2020/61) and 2020/1213.
 
-[^key-a4aa045d7ef10f527fd49b8abee4a5d3]: Commencement: Reg. 6(1)(2)(4) in force at 31.12.2020 on IP completion day, see reg. 1(2)
+[^c-a4aa045d7ef10f527fd49b8abee4a5d3]: Commencement: Reg. 6(1)(2)(4) in force at 31.12.2020 on IP completion day, see reg. 1(2)
 
-[^key-b434293b706a02aca7d2dfe327b94cbb]: Commencement: Reg. 6(3) in force at 31.12.2020 on IP completion day for specified purposes and immediately after IP completion day in so far as not already in force, see reg. 1(2)(3)(c)
+[^c-b434293b706a02aca7d2dfe327b94cbb]: Commencement: Reg. 6(3) in force at 31.12.2020 on IP completion day for specified purposes and immediately after IP completion day in so far as not already in force, see reg. 1(2)(3)(c)
 
-[^key-4563baf146f0225f2e4fbf2801ec8267]: Commencement: Reg. 6(5) in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)(b)
+[^c-4563baf146f0225f2e4fbf2801ec8267]: Commencement: Reg. 6(5) in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)(b)
 
 [^c24350841]: Marginal citation: Article 2(1) was amended by [S.I. 2014/2475](https://www.legislation.gov.uk/uksi/2014/2475) and is prospectively amended by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309) which comes into force at the same time as this instrument.
 
@@ -801,13 +801,13 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24350921]: Marginal citation: Regulation (EC) No.883/2004 of the European Parliament and of the Council of 29 April 2004 on coordination of social security systems.
 
-[^key-2267147b8e34c1b9136128d343b4709c]: Commencement: Reg. 7 in force at 22.12.2020, see reg. 1(2)(c)
+[^c-2267147b8e34c1b9136128d343b4709c]: Commencement: Reg. 7 in force at 22.12.2020, see reg. 1(2)(c)
 
 [^c24350931]: Marginal citation: [S.I. 2020/1213](https://www.legislation.gov.uk/uksi/2020/1213).
 
 [^c24350941]: Marginal citation: SI 2016/1052, amended by S.I 2017/1, 2017/1242, 2018/801, 2019/468, 2019/745 and 2019/1155. The amendments made by [S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745) are not yet in force and are revoked by regulation 48 of the Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 before they come into force. [S.I. 2016/1052](https://www.legislation.gov.uk/uksi/2016/1052) is revoked by section 1 of, and paragraph 2(2) of Schedule 1 to, the Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020.
 
-[^key-55995a475100e8d95fadffd5c991f1a6]: Commencement: Reg. 8 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+[^c-55995a475100e8d95fadffd5c991f1a6]: Commencement: Reg. 8 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
 
 [^c24350951]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
 
@@ -815,73 +815,73 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24350971]: Marginal citation: Appendix EU (Family Permit) was laid before Parliament on 7th March 2019 (HC 1919).
 
-[^key-5e6a082a99da665f0d1dae26f7af9a6a]: Commencement: Reg. 9 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+[^c-5e6a082a99da665f0d1dae26f7af9a6a]: Commencement: Reg. 9 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
 
 [^c24350981]: Marginal citation: S.R. [1987 No. 459](https://www.legislation.gov.uk/ukcm/1987/459).
 
 [^c24350991]: Marginal citation: Regulation 21AA was inserted by S.R. [2006 No. 178](https://www.legislation.gov.uk/ukcm/2006/178) and was amended by S.R. [2019 No. 90](https://www.legislation.gov.uk/ukcm/2019/90), prospective amendments are made by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309). There are other amending instruments but none is relevant.
 
-[^key-0510eaf614cd7a5015baf04a3d2d11e6]: Commencement: Reg. 10 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+[^c-0510eaf614cd7a5015baf04a3d2d11e6]: Commencement: Reg. 10 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
 
 [^c24351001]: Marginal citation: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207).
 
 [^c24351011]: Marginal citation: Regulation 85A was inserted by [S.I. 2006/1026](https://www.legislation.gov.uk/uksi/2006/1026) and was amended by [S.I. 2019/872](https://www.legislation.gov.uk/uksi/2019/872), prospective amendments are made by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309). There are other amending instruments but none is relevant.
 
-[^key-09a6c09082f8873dce7b8d08c781cc12]: Commencement: Reg. 11 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+[^c-09a6c09082f8873dce7b8d08c781cc12]: Commencement: Reg. 11 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
 
 [^c24351021]: Marginal citation: S.R. [1996 No. 198](https://www.legislation.gov.uk/ukcm/1996/198).
 
 [^c24351031]: Marginal citation: Regulation 85A was inserted by S.R. [2006 No. 178](https://www.legislation.gov.uk/ukcm/2006/178) and was amended by S.R. [2019 No. 90](https://www.legislation.gov.uk/ukcm/2019/90), prospective amendments are made by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309). There are other amending instruments but none is relevant.
 
-[^key-fb79752e3ebdd43006862bfa8d3d5bcd]: Commencement: Reg. 12 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+[^c-fb79752e3ebdd43006862bfa8d3d5bcd]: Commencement: Reg. 12 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
 
 [^c24351041]: Marginal citation: [S.I. 2000/704](https://www.legislation.gov.uk/uksi/2000/704)
 
 [^c24351051]: Marginal citation: Provision is made for the admissibility of asylum claims made by EU nationals in exceptional circumstances under paragraph 236F of the immigration rules.
 
-[^key-567b838595f2742b3840c2419cb95a2d]: Commencement: Reg. 13 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+[^c-567b838595f2742b3840c2419cb95a2d]: Commencement: Reg. 13 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
 
 [^c24351061]: Marginal citation: [S.I. 2002/1792](https://www.legislation.gov.uk/uksi/2002/1792).
 
 [^c24351071]: Marginal citation: Regulation 2 was substituted by [S.I. 2006/1026](https://www.legislation.gov.uk/uksi/2006/1026) and was amended by [S.I. 2019/872](https://www.legislation.gov.uk/uksi/2019/872), prospective amendments are made by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309). There are other amending instruments but none is relevant.
 
-[^key-c66fa5761215ec1a8dbd34e5eedf3cc9]: Commencement: Reg. 14 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+[^c-c66fa5761215ec1a8dbd34e5eedf3cc9]: Commencement: Reg. 14 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
 
 [^c24351081]: Marginal citation: [S.I. 2003/654](https://www.legislation.gov.uk/uksi/2003/654). Relevant amendments are made by [S.I. 2004/1243](https://www.legislation.gov.uk/uksi/2004/1243), 2012/2612, 2014/1511, 2019/364, 2019/867, 2020/672 and prospectively by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309).
 
 [^c24351091]: Marginal citation: Regulation is prospectively amended by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309).
 
-[^key-dfed3c66c6d323c197831f5f4faf82f0]: Commencement: Reg. 15 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+[^c-dfed3c66c6d323c197831f5f4faf82f0]: Commencement: Reg. 15 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
 
 [^c24351101]: Marginal citation: S.R. [2003 No. 28](https://www.legislation.gov.uk/ukcm/2003/28).
 
 [^c24351111]: Marginal citation: Regulation 2 was substituted by S.R. [2006 No. 178](https://www.legislation.gov.uk/ukcm/2006/178) and amended by S.R. [2019 No. 90](https://www.legislation.gov.uk/ukcm/2019/90), it is prospectively amended by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309). There are other amending instruments but none is relevant.
 
-[^key-6c48abdbf5a27c64e0e84b83ad4b82fe]: Commencement: Reg. 16 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+[^c-6c48abdbf5a27c64e0e84b83ad4b82fe]: Commencement: Reg. 16 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
 
 [^c24351121]: Marginal citation: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213), prospective amendments are made by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309).
 
 [^c24351131]: Marginal citation: Regulation 10 was amended by [S.I. 2019/872](https://www.legislation.gov.uk/uksi/2019/872) and is prospectively amended by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309). There are other amending instruments but none is relevant.
 
-[^key-f5f6b63d48d42124d26ab5eb0b0461f8]: Commencement: Reg. 17 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+[^c-f5f6b63d48d42124d26ab5eb0b0461f8]: Commencement: Reg. 17 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
 
 [^c24351141]: Marginal citation: S.R. [2006 No. 405](https://www.legislation.gov.uk/ukcm/2006/405), prospective amendments are made by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309).
 
 [^c24351151]: Marginal citation: Regulation 10 was amended by S.R. [2019 No. 90](https://www.legislation.gov.uk/ukcm/2019/90) and is prospectively amended by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309). There are other amending instruments but none is relevant.
 
-[^key-902d1dab6041e57ca7756d2cbe6039e0]: Commencement: Reg. 18 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+[^c-902d1dab6041e57ca7756d2cbe6039e0]: Commencement: Reg. 18 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
 
 [^c24351161]: Marginal citation: [S.I. 2006/214](https://www.legislation.gov.uk/uksi/2006/214), prospective amendments are made by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309).
 
 [^c24351171]: Marginal citation: Regulation 10 was amended by [S.I. 2019/872](https://www.legislation.gov.uk/uksi/2019/872) and is prospectively amended by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309). There are other amending instruments but none is relevant.
 
-[^key-e1503b2393ad0a36d2d875f271443a26]: Commencement: Reg. 19 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+[^c-e1503b2393ad0a36d2d875f271443a26]: Commencement: Reg. 19 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
 
 [^c24351181]: Marginal citation: S.R. [2006 No. 406](https://www.legislation.gov.uk/ukcm/2006/406). Prospective amendments are made by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309).
 
 [^c24351191]: Marginal citation: Regulation 10 was amended by S.R. [2019 No. 90](https://www.legislation.gov.uk/ukcm/2019/90) and is prospectively amended by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309). There are other amending instruments but none is relevant.
 
-[^key-c2af3c19602919658a344d2e8ed72cea]: Commencement: Reg. 20 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+[^c-c2af3c19602919658a344d2e8ed72cea]: Commencement: Reg. 20 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
 
 [^c24351201]: Marginal citation: [S.I. 2006/1294](https://www.legislation.gov.uk/uksi/2006/1294); amended by [S.I. 2012/2588](https://www.legislation.gov.uk/uksi/2012/2588), 2019/861, and is prospectively amended by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309). There are other amending instruments but none is relevant.
 
@@ -889,7 +889,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24351221]: Marginal citation: Regulation 6 is prospectively amended by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309).
 
-[^key-b856c5bb6b539b5dcf26a8b45438f94b]: Commencement: Reg. 21 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+[^c-b856c5bb6b539b5dcf26a8b45438f94b]: Commencement: Reg. 21 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
 
 [^c24351231]: Marginal citation: S.R. [2006 No. 397](https://www.legislation.gov.uk/ukcm/2006/397); amended by S.R. [2012 No. 429](https://www.legislation.gov.uk/ukcm/2012/429), S.R. [2019 No. 86](https://www.legislation.gov.uk/ukcm/2019/86), and is prospectively amended by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309). There are other amending instruments but none is relevant.
 
@@ -897,7 +897,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24351251]: Marginal citation: Regulation 4 is prospectively amended by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309).
 
-[^key-90736cb67310caaaa9881d9197f01ff9]: Commencement: Reg. 22 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+[^c-90736cb67310caaaa9881d9197f01ff9]: Commencement: Reg. 22 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
 
 [^c24351261]: Marginal citation: [S.I. 2006/223](https://www.legislation.gov.uk/uksi/2006/223). Relevant amendments are made by [S.I. 2007/2150](https://www.legislation.gov.uk/uksi/2007/2150), 2012/2612, 2014/1511, 2019/364, [S.I. 2019/867](https://www.legislation.gov.uk/uksi/2019/867) and 2020/672. It is prospectively amended by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309).
 
@@ -905,25 +905,25 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24351281]: Marginal citation: Regulation 27 is prospectively amended by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309).
 
-[^key-0155c2cd4d1bfc0ce6daf307bfd22807]: Commencement: Reg. 23 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+[^c-0155c2cd4d1bfc0ce6daf307bfd22807]: Commencement: Reg. 23 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
 
 [^c24351291]: Marginal citation: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794).
 
 [^c24351301]: Marginal citation: Regulation 70 was amended by [S.I. 2019/872](https://www.legislation.gov.uk/uksi/2019/872) and is prospectively amended by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309). There are other amending instruments but none is relevant.
 
-[^key-c4ba5dfee26e9af0b9f7063e528d0e88]: Commencement: Reg. 24 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+[^c-c4ba5dfee26e9af0b9f7063e528d0e88]: Commencement: Reg. 24 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
 
 [^c24351311]: Marginal citation: S.R. [2008 No. 280](https://www.legislation.gov.uk/ukcm/2008/280).
 
 [^c24351321]: Marginal citation: Regulation 70 was amended by S.R. [2019 No. 90](https://www.legislation.gov.uk/ukcm/2019/90) and is prospectively amended by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309). There are other amending instruments but none is relevant.
 
-[^key-5fdda9840f22cad4434773c655be23f7]: Commencement: Reg. 25 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+[^c-5fdda9840f22cad4434773c655be23f7]: Commencement: Reg. 25 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
 
 [^c24351331]: Marginal citation: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376).
 
 [^c24351341]: Marginal citation: Regulation 9 was amended by [S.I. 2019/872](https://www.legislation.gov.uk/uksi/2019/872) and is prospectively amended by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309). There are other amending instruments but none is relevant.
 
-[^key-36ad3f105a8ba22e8bc55aef5d4e5d73]: Commencement: Reg. 26 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+[^c-36ad3f105a8ba22e8bc55aef5d4e5d73]: Commencement: Reg. 26 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
 
 [^c24351351]: Marginal citation: [S.I. 2014/2603](https://www.legislation.gov.uk/uksi/2014/2603) (W. 57), amended by [S.I. 2017/698](https://www.legislation.gov.uk/uksi/2017/698) (W. 164), 2019/1041 (W. 183), 2019/1149 (W. 199), 2020/1209 and prospectively amended by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309).
 
@@ -931,7 +931,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24351371]: Marginal citation: Regulation 6 is prospectively amended by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309).
 
-[^key-215b26767cf24cf05c335c0429211b84]: Commencement: Reg. 27 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
+[^c-215b26767cf24cf05c335c0429211b84]: Commencement: Reg. 27 in force at 31.12.2020 immediately after IP completion day, see reg. 1(2)(a)(3)(d)
 
 [^c24351381]: Marginal citation: S.R. [2016 No. 216](https://www.legislation.gov.uk/ukcm/2016/216).
 

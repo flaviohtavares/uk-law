@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. What may be included in an infrastructure consent order[^key-59311ba132ffc06d0362e8e498bc6284][^key-97686cd9435bd9fe21209a471f01d1f6]
+## 63. What may be included in an infrastructure consent order[^c-59311ba132ffc06d0362e8e498bc6284][^c-97686cd9435bd9fe21209a471f01d1f6]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-59311ba132ffc06d0362e8e498bc6284]: Commencement: S. 63 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
+[^c-59311ba132ffc06d0362e8e498bc6284]: Commencement: S. 63 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
 
-[^key-97686cd9435bd9fe21209a471f01d1f6]: Commencement: [S. 63](https://www.legislation.gov.uk/asc/2024/3/section/63) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)
+[^c-97686cd9435bd9fe21209a471f01d1f6]: Commencement: [S. 63](https://www.legislation.gov.uk/asc/2024/3/section/63) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)

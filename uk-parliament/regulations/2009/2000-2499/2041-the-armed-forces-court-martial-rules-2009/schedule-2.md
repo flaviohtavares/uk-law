@@ -212,7 +212,7 @@ the advance information in relation to him must include a notice that, if he wer
 
 the advance information in relation to him must include a notice that, if he were convicted of the offence, the court would have power to deal with him for the offence for which the order was made.
 
-(2) In rule 114(5) the reference to power to deal with the offender under paragraph 25 of Schedule 10 to the Sentencing Code[^key-0fb93757444a0994047d87e6d0675355] includes power to deal with him for an offence as respects which a community supervision order was made.
+(2) In rule 114(5) the reference to power to deal with the offender under paragraph 25 of Schedule 10 to the Sentencing Code[^c-0fb93757444a0994047d87e6d0675355] includes power to deal with him for an offence as respects which a community supervision order was made.
 
 (3) In this paragraph, “**community supervision order**” means an order under paragraph 4(1) of Schedule 5A to AA 1955 or AFA 1955 or of Schedule 4A to NDA 1957.
 
@@ -317,43 +317,43 @@ In these Rules—
 
 (2) In rule 150 as applied by this paragraph, “**the order**” means the order under paragraph 14 of Schedule 5A to AA 1955 or AFA 1955 or of Schedule 4A to NDA 1957.
 
-### PART 8 — CONSEQUENCES OF ELECTION FOR COURT-MARTIAL TRIAL[^key-f48965148fd1cc74fffb3296f2a96912]
+### PART 8 — CONSEQUENCES OF ELECTION FOR COURT-MARTIAL TRIAL[^c-f48965148fd1cc74fffb3296f2a96912]
 
 **No longer in force.**
 
-#### 25. Interpretation[^key-f48965148fd1cc74fffb3296f2a96912]
+#### 25. Interpretation[^c-f48965148fd1cc74fffb3296f2a96912]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 26. Application of Part 20 to SDA elections[^key-f48965148fd1cc74fffb3296f2a96912]
+#### 26. Application of Part 20 to SDA elections[^c-f48965148fd1cc74fffb3296f2a96912]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 27. Charge referred to higher authority following election for court-martial trial on another charge[^key-f48965148fd1cc74fffb3296f2a96912]
+#### 27. Charge referred to higher authority following election for court-martial trial on another charge[^c-f48965148fd1cc74fffb3296f2a96912]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 28. Powers of the Director[^key-f48965148fd1cc74fffb3296f2a96912]
+#### 28. Powers of the Director[^c-f48965148fd1cc74fffb3296f2a96912]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 29. Sentence for an SDA election offence relevant by virtue of section 165(1)(a) or (b)[^key-f48965148fd1cc74fffb3296f2a96912]
+#### 29. Sentence for an SDA election offence relevant by virtue of section 165(1)(a) or (b)[^c-f48965148fd1cc74fffb3296f2a96912]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 30. Sentence where charge referred following SDA election on another charge[^key-f48965148fd1cc74fffb3296f2a96912]
+#### 30. Sentence where charge referred following SDA election on another charge[^c-f48965148fd1cc74fffb3296f2a96912]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 31. Multiple relevant offences where election under AA 1955[^key-f48965148fd1cc74fffb3296f2a96912]
+#### 31. Multiple relevant offences where election under AA 1955[^c-f48965148fd1cc74fffb3296f2a96912]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 32. Sentence for multiple relevant offences[^key-f48965148fd1cc74fffb3296f2a96912]
+#### 32. Sentence for multiple relevant offences[^c-f48965148fd1cc74fffb3296f2a96912]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 33. Activation of suspended SDA sentence of detention[^key-f48965148fd1cc74fffb3296f2a96912]
+#### 33. Activation of suspended SDA sentence of detention[^c-f48965148fd1cc74fffb3296f2a96912]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -377,8 +377,8 @@ In these Rules—
 
 [^c19793681]: Marginal citation: [2001 c. 19](https://www.legislation.gov.uk/ukpga/2001/19).
 
-[^key-0fb93757444a0994047d87e6d0675355]: Textual amendment: Words in [Sch. 2 para. 17(2)](https://www.legislation.gov.uk/uksi/2009/2041/schedule/2/paragraph/17/2) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 395](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/395) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-0fb93757444a0994047d87e6d0675355]: Textual amendment: Words in [Sch. 2 para. 17(2)](https://www.legislation.gov.uk/uksi/2009/2041/schedule/2/paragraph/17/2) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 395](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/395) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c19793691]: Marginal citation: [Sections 91 to 91D](https://www.legislation.gov.uk/uksi/2009/2041/section/91) of NDA 1957 were substituted for section 91 of that Act by article 31 of the Armed Forces (Alignment of Service Discipline Acts) Order 2008, [S.I. 2008/1694](https://www.legislation.gov.uk/uksi/2008/1694).
 
-[^key-f48965148fd1cc74fffb3296f2a96912]: Textual amendment: Sch. 2 Pt. 8 omitted (1.8.2013) by virtue of [The Armed Forces (Court Martial) (Amendment) Rules 2013 (S.I. 2013/1851)](https://www.legislation.gov.uk/uksi/2013/1851), [rules 1](https://www.legislation.gov.uk/uksi/2013/1851/article/1), [6](https://www.legislation.gov.uk/uksi/2013/1851/article/6)
+[^c-f48965148fd1cc74fffb3296f2a96912]: Textual amendment: Sch. 2 Pt. 8 omitted (1.8.2013) by virtue of [The Armed Forces (Court Martial) (Amendment) Rules 2013 (S.I. 2013/1851)](https://www.legislation.gov.uk/uksi/2013/1851), [rules 1](https://www.legislation.gov.uk/uksi/2013/1851/article/1), [6](https://www.legislation.gov.uk/uksi/2013/1851/article/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Serious crime prevention orders[^c22719901][^key-d8b723c435beca657a7aefbfefc5e4e5]
+## 151. Serious crime prevention orders[^c22719901][^c-d8b723c435beca657a7aefbfefc5e4e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -83,4 +83,4 @@ summary: ''
 
 [^c22719901]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2017/3/section/151) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-d8b723c435beca657a7aefbfefc5e4e5]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2017/3/section/151) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/482](https://www.legislation.gov.uk/uksi/2017/482), [reg. 2](https://www.legislation.gov.uk/uksi/2017/482/regulation/2)
+[^c-d8b723c435beca657a7aefbfefc5e4e5]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2017/3/section/151) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/482](https://www.legislation.gov.uk/uksi/2017/482), [reg. 2](https://www.legislation.gov.uk/uksi/2017/482/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Appeal against application of regulation 27[^key-328f66a96dc781855698a0025af33bff]
+## 29. Appeal against application of regulation 27[^c-328f66a96dc781855698a0025af33bff]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A contractor who has their overall contract proportions reduced in accordance wi
 
 ## Annotations
 
-[^key-328f66a96dc781855698a0025af33bff]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2026/37/regulation/29) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-328f66a96dc781855698a0025af33bff]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2026/37/regulation/29) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 19B — Further provision about write-down orders[^key-513cc218adb02bf31db8e041424487ca]
+## SCHEDULE 19B — Further provision about write-down orders[^c-513cc218adb02bf31db8e041424487ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -172,4 +172,4 @@ The insurer may not make a distribution, within the meaning of Part 23 of the Co
 
 ## Annotations
 
-[^key-513cc218adb02bf31db8e041424487ca]: Textual amendment: [Sch. 19B](https://www.legislation.gov.uk/ukpga/2000/8/schedule/19B) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/3)
+[^c-513cc218adb02bf31db8e041424487ca]: Textual amendment: [Sch. 19B](https://www.legislation.gov.uk/ukpga/2000/8/schedule/19B) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/3)

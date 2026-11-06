@@ -65,16 +65,16 @@ These Regulations may be cited as the Energy Information (Household Refrigerator
 - “dealer” means a retailer or other person who offers for sale, displays or sells household appliances to end-users;
 - “EEA” means the European Economic Area created by the EEA Agreement;
 - “EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993 and the Amending Agreement signed at Luxembourg on 14th October 2003;
-- [^key-1682e108c0962c76b428343f991ae0a9]...
-- “harmonized standards” means EN 153:2006;[^key-c19e6fb4090c43aded6796afd8f702e2]
+- [^c-1682e108c0962c76b428343f991ae0a9]...
+- “harmonized standards” means EN 153:2006;[^c-c19e6fb4090c43aded6796afd8f702e2]
 - “information sheet” means a standard table of information relating to the appliance in question;
-- “local weights and measures authority” means a local weights and measures authority within the meaning of section 69 of the Weights and Measures Act 1985;[^key-cd262219c014c8a32834b8f1b2bad0e0]
+- “local weights and measures authority” means a local weights and measures authority within the meaning of section 69 of the Weights and Measures Act 1985;[^c-cd262219c014c8a32834b8f1b2bad0e0]
 - “records” includes any books, documents, labels, marks, symbols and inscriptions and any records in non-documentary form;
 - “regulated appliance” has the meaning given by regulation 3(3);
 - “sale” includes hire and hire-purchase and related expressions shall be construed accordingly;
 - “supplier” means the manufacturer or his authorised representative in the Community or the person who places the product on the Community market.
 
-## 2A. Enforcement authority[^key-f9f6b40a1cc76d6087b0d7e252feff3a]
+## 2A. Enforcement authority[^c-f9f6b40a1cc76d6087b0d7e252feff3a]
 
 (1) In these Regulations the enforcement authority means—
 
@@ -554,7 +554,7 @@ Proceedings for an offence under these Regulations shall not be instituted—
 - (a) in England and Wales, except by an enforcement authority; and
 - (b) in Northern Ireland, except by or on behalf of an enforcement authority or the Director of Public Prosecutions.
 
-#### 2A. Time limit for prosecution of offences[^key-15728cf0d8ab644daec0eb9a0b1c7f3d]
+#### 2A. Time limit for prosecution of offences[^c-15728cf0d8ab644daec0eb9a0b1c7f3d]
 
 (1) An offence under these Regulations may be tried by summary proceedings if—
 
@@ -728,8 +728,8 @@ and an order so made may contain such provision as appears to the court to be ap
 - (e) the Consumer Protection Act 1987[^f00029];
 - (f) the Consumer Protection (Northern Ireland) Order 1987[^f00030];
 - (g) the Low Voltage Electrical Equipment (Safety) Regulations 1989[^f00031];
-- (h)[^key-2722c7a56b0888929dfd55af82f94780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (i)[^key-2f84e140da54407591b42c9907ec62ee] any subordinate legislation made for the purpose of securing compliance with Directive [2005/29/EC](https://www.legislation.gov.uk/european/directive/2005/0029) of the European Parliament and of the Council of 11 May 2005 concerning unfair business-to-consumer commercial practices in the internal market;
+- (h)[^c-2722c7a56b0888929dfd55af82f94780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-2f84e140da54407591b42c9907ec62ee] any subordinate legislation made for the purpose of securing compliance with Directive [2005/29/EC](https://www.legislation.gov.uk/european/directive/2005/0029) of the European Parliament and of the Council of 11 May 2005 concerning unfair business-to-consumer commercial practices in the internal market;
 - (j) any subordinate legislation made for the purpose of securing compliance with Directive [2006/114/EC](https://www.legislation.gov.uk/european/directive/2006/0114) of the European Parliament and of the Council of 12 December 2006 concerning misleading and comparative advertising.
 
 (4) In sub-paragraph (2)(a) the reference to a person’s functions shall include a reference to any function of making, amending or revoking any regulations or order.
@@ -814,13 +814,13 @@ Copies of the British Standards publications referred to in these Regulations ma
 
 [^f00008]: Footnote: The parent Directive was extended to the European Economic Area by EEA Joint Committee Decision No 7/94 of 21st March 1994 (OJ No. L 160, 28.6.1994, p. 1) and the Refrigerators and Freezers Directive was extended by EEA Joint Committee Decision 22/98 of 17th December 1998 (OJ No. L 342, 17.12.1998, p. 32) and EEA Joint Committee Decision 19/2004 of 19th March 2004, which has yet to be published in the Official Journal.
 
-[^key-1682e108c0962c76b428343f991ae0a9]: Textual amendment: Words in reg. 2 omitted (15.10.2009) by virtue of [The Energy Information (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/2559)](https://www.legislation.gov.uk/uksi/2009/2559), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/1/b), [8(2)(a)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/8/2/a)
+[^c-1682e108c0962c76b428343f991ae0a9]: Textual amendment: Words in reg. 2 omitted (15.10.2009) by virtue of [The Energy Information (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/2559)](https://www.legislation.gov.uk/uksi/2009/2559), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/1/b), [8(2)(a)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/8/2/a)
 
-[^key-c19e6fb4090c43aded6796afd8f702e2]: Textual amendment: Words in reg. 2 substituted (15.10.2009) by [The Energy Information (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/2559)](https://www.legislation.gov.uk/uksi/2009/2559), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/1/b), [8(2)(b)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/8/2/b)
+[^c-c19e6fb4090c43aded6796afd8f702e2]: Textual amendment: Words in reg. 2 substituted (15.10.2009) by [The Energy Information (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/2559)](https://www.legislation.gov.uk/uksi/2009/2559), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/1/b), [8(2)(b)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/8/2/b)
 
-[^key-cd262219c014c8a32834b8f1b2bad0e0]: Textual amendment: Words in reg. 2 inserted (15.10.2009) by [The Energy Information (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/2559)](https://www.legislation.gov.uk/uksi/2009/2559), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/1/b), [8(2)(c)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/8/2/c)
+[^c-cd262219c014c8a32834b8f1b2bad0e0]: Textual amendment: Words in reg. 2 inserted (15.10.2009) by [The Energy Information (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/2559)](https://www.legislation.gov.uk/uksi/2009/2559), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/1/b), [8(2)(c)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/8/2/c)
 
-[^key-f9f6b40a1cc76d6087b0d7e252feff3a]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2004/1468/regulation/2A) inserted (15.10.2009) by [The Energy Information (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/2559)](https://www.legislation.gov.uk/uksi/2009/2559), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/1/b), [8(3)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/8/3)
+[^c-f9f6b40a1cc76d6087b0d7e252feff3a]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2004/1468/regulation/2A) inserted (15.10.2009) by [The Energy Information (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/2559)](https://www.legislation.gov.uk/uksi/2009/2559), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/1/b), [8(3)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/8/3)
 
 [^f00011]: Footnote: OJ L No. 344, 6.12.1986, p. 24. This Directive was transposed by the Household Appliances (Noise Emission) Regulations 1990 (S.I. [1990/161](https://www.legislation.gov.uk/uksi/1990/161) as amended by S.I. [1994/1386](https://www.legislation.gov.uk/uksi/1994/1386)); *see* regulation 4 of those Regulations requiring that where noise information is given, it must be determined in accordance with Council Directive [86/594/EEC](https://www.legislation.gov.uk/european/directive/1986/0594).
 
@@ -874,7 +874,7 @@ Copies of the British Standards publications referred to in these Regulations ma
 
     For these appliances, the values of M and N shall be determined by the temperature and star rating of the compartment with the lowest temperature, in accordance with Table 6.
 
-[^key-15728cf0d8ab644daec0eb9a0b1c7f3d]: Textual amendment: [Sch. 6 para. 2A](https://www.legislation.gov.uk/uksi/2004/1468/schedule/6/paragraph/2A) inserted (15.10.2009) by [The Energy Information (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/2559)](https://www.legislation.gov.uk/uksi/2009/2559), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/1/b), [8(4)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/8/4)
+[^c-15728cf0d8ab644daec0eb9a0b1c7f3d]: Textual amendment: [Sch. 6 para. 2A](https://www.legislation.gov.uk/uksi/2004/1468/schedule/6/paragraph/2A) inserted (15.10.2009) by [The Energy Information (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/2559)](https://www.legislation.gov.uk/uksi/2009/2559), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/1/b), [8(4)](https://www.legislation.gov.uk/uksi/2009/2559/regulation/8/4)
 
 [^f00020]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
@@ -900,8 +900,8 @@ Copies of the British Standards publications referred to in these Regulations ma
 
 [^f00031]: Footnote: S.I. [1989/728](https://www.legislation.gov.uk/uksi/1989/728).
 
-[^key-2722c7a56b0888929dfd55af82f94780]: Textual amendment: Sch. 6 para. 12(3)(h) omitted (26.5.2008) by virtue of [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 107(a)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/107/a), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
+[^c-2722c7a56b0888929dfd55af82f94780]: Textual amendment: Sch. 6 para. 12(3)(h) omitted (26.5.2008) by virtue of [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 107(a)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/107/a), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
 
-[^key-2f84e140da54407591b42c9907ec62ee]: Textual amendment: Sch. 6 para. 12(3)(i)(j) inserted (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 107(b)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/107/b) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
+[^c-2f84e140da54407591b42c9907ec62ee]: Textual amendment: Sch. 6 para. 12(3)(i)(j) inserted (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 107(b)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/107/b) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
 
 [^f00033]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

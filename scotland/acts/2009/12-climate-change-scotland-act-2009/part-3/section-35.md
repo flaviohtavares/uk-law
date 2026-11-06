@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Climate change plan[^key-0c5b09b3459f04a18cc69ccc38e8c864]
+## 35. Climate change plan[^c-0c5b09b3459f04a18cc69ccc38e8c864]
 
 *Extent: S*
 
 (1) The Scottish Ministers must lay a climate change plan before the Scottish Parliament—
 
-- (a)[^key-e1fdd54b9cc387e8f896551f130f0209] in the case of the first plan, before the end of the period of 90 days, of which no fewer than 45 must be days on which the Parliament is not dissolved or in recess, beginning with the day on which the period described by section 35A(1)(a) ends following the laying of a draft plan in accordance with section 3(1) of the Climate Change (Emissions Reduction Targets) (Scotland) Act 2024,
+- (a)[^c-e1fdd54b9cc387e8f896551f130f0209] in the case of the first plan, before the end of the period of 90 days, of which no fewer than 45 must be days on which the Parliament is not dissolved or in recess, beginning with the day on which the period described by section 35A(1)(a) ends following the laying of a draft plan in accordance with section 3(1) of the Climate Change (Emissions Reduction Targets) (Scotland) Act 2024,
 - (b) in the case of each subsequent plan, before the end of the period of 5 years beginning with the day on which the previous plan was laid.
 
 (2) The plan must, in particular, set out—
@@ -46,11 +46,11 @@ summary: ''
 (4) In subsection (2), the “**plan period**” means the period of—
 
 - (a) 15 years beginning with the year after the year in which the draft plan is laid before the Parliament, or
-- (b) such other period of between 10 and 20 years beginning with that year as the Scottish Ministers may specify in the plan in order that the period ends in a[^key-16524d5d8b42d7623b2b97435f767940] target year.
+- (b) such other period of between 10 and 20 years beginning with that year as the Scottish Ministers may specify in the plan in order that the period ends in a[^c-16524d5d8b42d7623b2b97435f767940] target year.
 
-(5) The plan must also set out [^key-b1d7648909fa929119be80de81156773]... the respective contributions (in measurable terms)[^key-13a65e4d7f187497ce6312c5e7517746] towards meeting the emissions reduction targets that should be made by
+(5) The plan must also set out [^c-b1d7648909fa929119be80de81156773]... the respective contributions (in measurable terms)[^c-13a65e4d7f187497ce6312c5e7517746] towards meeting the emissions reduction targets that should be made by
 
-- (a)[^key-bedf185d91df953975f595a6b8233310] each of the sectors mentioned in subsection (3) , and[^key-ffd6f9a941b58c06479f2cc6f238eba3]
+- (a)[^c-bedf185d91df953975f595a6b8233310] each of the sectors mentioned in subsection (3) , and[^c-ffd6f9a941b58c06479f2cc6f238eba3]
 - (b) each group of associated policies set out in the plan.
 
 (6) Without prejudice to the generality of subsection (5), the plan must in particular set out the Scottish Ministers' proposals and policies for—
@@ -108,9 +108,9 @@ summary: ''
 - (a) explain how the proposals and policies set out in the plan are expected to affect different sectors of the Scottish economy and different regions in Scotland, including how they are expected to affect employment in those sectors and regions, and
 - (b) set out the Scottish Ministers' proposals and policies for supporting the workforce, employers and communities in those sectors and regions.
 
-(20A)[^key-0792bbb7b51e7c45d30105a9c8486ad0] The plan must also set out the Scottish Ministers’ proposals and policies for assessing the impact of major capital projects (as defined in the plan) on meeting Scottish carbon budget targets.
+(20A)[^c-0792bbb7b51e7c45d30105a9c8486ad0] The plan must also set out the Scottish Ministers’ proposals and policies for assessing the impact of major capital projects (as defined in the plan) on meeting Scottish carbon budget targets.
 
-(21) The plan must also set out an estimate of the costs and benefits associated with the policies set out in the plan , broken down by reference to the period covered by a Scottish carbon budget in which those costs and benefits are expected to arise[^key-9705d3d9b57ff8d8c9faa7b0584a58db].
+(21) The plan must also set out an estimate of the costs and benefits associated with the policies set out in the plan , broken down by reference to the period covered by a Scottish carbon budget in which those costs and benefits are expected to arise[^c-9705d3d9b57ff8d8c9faa7b0584a58db].
 
 (22) In preparing a plan under subsection (1), the Scottish Ministers must have regard to—
 
@@ -140,20 +140,20 @@ summary: ''
 
 ## Annotations
 
-[^key-0c5b09b3459f04a18cc69ccc38e8c864]: Textual amendment: Ss. 35-35C and cross-heading substituted for s. 35 (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 24(1)](https://www.legislation.gov.uk/asp/2019/15/section/24/1), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-0c5b09b3459f04a18cc69ccc38e8c864]: Textual amendment: Ss. 35-35C and cross-heading substituted for s. 35 (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 24(1)](https://www.legislation.gov.uk/asp/2019/15/section/24/1), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-e1fdd54b9cc387e8f896551f130f0209]: Textual amendment: [S. 35(1)(a)](https://www.legislation.gov.uk/asp/2009/12/section/35/1/a) substituted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 3(3)](https://www.legislation.gov.uk/asp/2024/15/section/3/3), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-e1fdd54b9cc387e8f896551f130f0209]: Textual amendment: [S. 35(1)(a)](https://www.legislation.gov.uk/asp/2009/12/section/35/1/a) substituted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 3(3)](https://www.legislation.gov.uk/asp/2024/15/section/3/3), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-16524d5d8b42d7623b2b97435f767940]: Textual amendment: Word in [s. 35(4)(b)](https://www.legislation.gov.uk/asp/2009/12/section/35/4/b) substituted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 2(18)](https://www.legislation.gov.uk/asp/2024/15/section/2/18), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-16524d5d8b42d7623b2b97435f767940]: Textual amendment: Word in [s. 35(4)(b)](https://www.legislation.gov.uk/asp/2009/12/section/35/4/b) substituted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 2(18)](https://www.legislation.gov.uk/asp/2024/15/section/2/18), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-b1d7648909fa929119be80de81156773]: Textual amendment: Words in [s. 35(5)](https://www.legislation.gov.uk/asp/2009/12/section/35/5) repealed (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 5(2)(a)](https://www.legislation.gov.uk/asp/2024/15/section/5/2/a), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-b1d7648909fa929119be80de81156773]: Textual amendment: Words in [s. 35(5)](https://www.legislation.gov.uk/asp/2009/12/section/35/5) repealed (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 5(2)(a)](https://www.legislation.gov.uk/asp/2024/15/section/5/2/a), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-13a65e4d7f187497ce6312c5e7517746]: Textual amendment: Words in [s. 35(5)](https://www.legislation.gov.uk/asp/2009/12/section/35/5) inserted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 5(2)(b)](https://www.legislation.gov.uk/asp/2024/15/section/5/2/b), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-13a65e4d7f187497ce6312c5e7517746]: Textual amendment: Words in [s. 35(5)](https://www.legislation.gov.uk/asp/2009/12/section/35/5) inserted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 5(2)(b)](https://www.legislation.gov.uk/asp/2024/15/section/5/2/b), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-bedf185d91df953975f595a6b8233310]: Textual amendment: Words in [s. 35(5)](https://www.legislation.gov.uk/asp/2009/12/section/35/5/a) renumbered as s. 35(5)(a) (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 5(2)(c)](https://www.legislation.gov.uk/asp/2024/15/section/5/2/c), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-bedf185d91df953975f595a6b8233310]: Textual amendment: Words in [s. 35(5)](https://www.legislation.gov.uk/asp/2009/12/section/35/5/a) renumbered as s. 35(5)(a) (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 5(2)(c)](https://www.legislation.gov.uk/asp/2024/15/section/5/2/c), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-ffd6f9a941b58c06479f2cc6f238eba3]: Textual amendment: [S. 35(5)(b)](https://www.legislation.gov.uk/asp/2009/12/section/35/5/b) and word inserted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 5(2)(d)](https://www.legislation.gov.uk/asp/2024/15/section/5/2/d), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-ffd6f9a941b58c06479f2cc6f238eba3]: Textual amendment: [S. 35(5)(b)](https://www.legislation.gov.uk/asp/2009/12/section/35/5/b) and word inserted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 5(2)(d)](https://www.legislation.gov.uk/asp/2024/15/section/5/2/d), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-0792bbb7b51e7c45d30105a9c8486ad0]: Textual amendment: [S. 35(20A)](https://www.legislation.gov.uk/asp/2009/12/section/35/20A) inserted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 12(3)](https://www.legislation.gov.uk/asp/2024/15/section/12/3), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-0792bbb7b51e7c45d30105a9c8486ad0]: Textual amendment: [S. 35(20A)](https://www.legislation.gov.uk/asp/2009/12/section/35/20A) inserted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 12(3)](https://www.legislation.gov.uk/asp/2024/15/section/12/3), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-9705d3d9b57ff8d8c9faa7b0584a58db]: Textual amendment: Words in [s. 35(21)](https://www.legislation.gov.uk/asp/2009/12/section/35/21) inserted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 4(2)](https://www.legislation.gov.uk/asp/2024/15/section/4/2), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-9705d3d9b57ff8d8c9faa7b0584a58db]: Textual amendment: Words in [s. 35(21)](https://www.legislation.gov.uk/asp/2009/12/section/35/21) inserted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 4(2)](https://www.legislation.gov.uk/asp/2024/15/section/4/2), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)

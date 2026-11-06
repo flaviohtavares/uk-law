@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32.12. Use of witness statements for other purposes[^key-0fe55f59209db1e69939b6b581b1d3cf]
+## 32.12. Use of witness statements for other purposes[^c-0fe55f59209db1e69939b6b581b1d3cf]
 
 *Extent: E+W*
 
@@ -28,10 +28,10 @@ summary: ''
 - (b) the court gives permission for some other use; or
 - (c) the witness statement has been put in evidence at a hearing held in public.
 
-(3)[^key-e0ef63a95a7d0bc905448b8a38aaf05d] This rule applies to affidavits in the same way as it applies to witness statements.
+(3)[^c-e0ef63a95a7d0bc905448b8a38aaf05d] This rule applies to affidavits in the same way as it applies to witness statements.
 
 ## Annotations
 
-[^key-0fe55f59209db1e69939b6b581b1d3cf]: Commencement: [Rule 32.12](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.12) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-0fe55f59209db1e69939b6b581b1d3cf]: Commencement: [Rule 32.12](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.12) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-e0ef63a95a7d0bc905448b8a38aaf05d]: Textual amendment: [Rule 32.12(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.12/3) inserted (6.4.2021) by [The Civil Procedure (Amendment) Rules 2021 (S.I. 2021/117)](https://www.legislation.gov.uk/uksi/2021/117), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/117/rule/1/1), [8(1)](https://www.legislation.gov.uk/uksi/2021/117/rule/8/1)
+[^c-e0ef63a95a7d0bc905448b8a38aaf05d]: Textual amendment: [Rule 32.12(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.12/3) inserted (6.4.2021) by [The Civil Procedure (Amendment) Rules 2021 (S.I. 2021/117)](https://www.legislation.gov.uk/uksi/2021/117), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/117/rule/1/1), [8(1)](https://www.legislation.gov.uk/uksi/2021/117/rule/8/1)

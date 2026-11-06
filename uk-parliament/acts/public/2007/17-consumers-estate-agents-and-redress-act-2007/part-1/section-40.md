@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. The OFCOM Consumer Panel[^key-9fc1a2eafe55236e13210c80c5a2c8b9]
+## 40. The OFCOM Consumer Panel[^c-9fc1a2eafe55236e13210c80c5a2c8b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ In section 17 of the Communications Act 2003 (c. 21) (membership etc of the Cons
 
 ## Annotations
 
-[^key-9fc1a2eafe55236e13210c80c5a2c8b9]: Commencement: S. 40 in force at 21.12.2007 by [S.I. 2007/3546](https://www.legislation.gov.uk/uksi/2007/3546) , [art. 3](https://www.legislation.gov.uk/uksi/2007/3546/article/3) , [Sch.](https://www.legislation.gov.uk/uksi/2007/3546/schedule)
+[^c-9fc1a2eafe55236e13210c80c5a2c8b9]: Commencement: S. 40 in force at 21.12.2007 by [S.I. 2007/3546](https://www.legislation.gov.uk/uksi/2007/3546) , [art. 3](https://www.legislation.gov.uk/uksi/2007/3546/article/3) , [Sch.](https://www.legislation.gov.uk/uksi/2007/3546/schedule)

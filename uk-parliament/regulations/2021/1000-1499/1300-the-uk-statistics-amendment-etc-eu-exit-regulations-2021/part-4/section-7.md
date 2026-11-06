@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Revocation of retained direct EU legislation and saving[^key-400c0ffd3efc2f27a5560767f88569aa]
+## 7. Revocation of retained direct EU legislation and saving[^c-400c0ffd3efc2f27a5560767f88569aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-400c0ffd3efc2f27a5560767f88569aa]: Commencement: Reg. 7 in force at 15.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1)
+[^c-400c0ffd3efc2f27a5560767f88569aa]: Commencement: Reg. 7 in force at 15.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1)
 
 [^f00008]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). Section 3 was amended by section 25 of the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1).
 

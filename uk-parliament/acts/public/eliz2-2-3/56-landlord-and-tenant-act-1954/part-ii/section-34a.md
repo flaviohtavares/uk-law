@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34A. Rent under new tenancy conferring code rights[^key-86ae073333045e047c0ddac95a4634d7]
+## 34A. Rent under new tenancy conferring code rights[^c-86ae073333045e047c0ddac95a4634d7]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86ae073333045e047c0ddac95a4634d7]: Textual amendment: [S. 34A](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/56/section/34A) inserted (7.4.2026) by [Product Security and Telecommunications Infrastructure Act 2022 (c. 46)](https://www.legislation.gov.uk/ukpga/2022/46), [ss. 61(2)](https://www.legislation.gov.uk/ukpga/2022/46/section/61/2), [79(2)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/2); [S.I. 2025/1326](https://www.legislation.gov.uk/uksi/2025/1326), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1326/regulation/2/a) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2025/1326/regulation/3))
+[^c-86ae073333045e047c0ddac95a4634d7]: Textual amendment: [S. 34A](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/56/section/34A) inserted (7.4.2026) by [Product Security and Telecommunications Infrastructure Act 2022 (c. 46)](https://www.legislation.gov.uk/ukpga/2022/46), [ss. 61(2)](https://www.legislation.gov.uk/ukpga/2022/46/section/61/2), [79(2)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/2); [S.I. 2025/1326](https://www.legislation.gov.uk/uksi/2025/1326), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1326/regulation/2/a) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2025/1326/regulation/3))

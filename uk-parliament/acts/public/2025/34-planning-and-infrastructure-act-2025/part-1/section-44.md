@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Deemed consent under marine licence[^key-65625ca9df717e9a43b3adbd2d690fd0]
+## 44. Deemed consent under marine licence[^c-65625ca9df717e9a43b3adbd2d690fd0]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65625ca9df717e9a43b3adbd2d690fd0]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2025/34/section/44) in force at 18.2.2026, see [s. 118(1)(z)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/z)
+[^c-65625ca9df717e9a43b3adbd2d690fd0]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2025/34/section/44) in force at 18.2.2026, see [s. 118(1)(z)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/z)

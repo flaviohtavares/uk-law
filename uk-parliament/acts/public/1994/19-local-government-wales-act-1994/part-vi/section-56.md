@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Transitional agreements as to property and finance.[^key-67901fd921c6c5b54c30ebb110f37cd0]
+## 56. Transitional agreements as to property and finance.[^c-67901fd921c6c5b54c30ebb110f37cd0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67901fd921c6c5b54c30ebb110f37cd0]: Textual amendment: [S. 56](https://www.legislation.gov.uk/ukpga/1994/19/section/56) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 38(e)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/38/e)
+[^c-67901fd921c6c5b54c30ebb110f37cd0]: Textual amendment: [S. 56](https://www.legislation.gov.uk/ukpga/1994/19/section/56) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 38(e)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/38/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Budget monitoring: Greater London Authority[^key-d4e3df35e93125466e6bc43eddefb69b]
+## 29. Budget monitoring: Greater London Authority[^c-d4e3df35e93125466e6bc43eddefb69b]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4e3df35e93125466e6bc43eddefb69b]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2003/26/section/29) in force at 1.4.2004 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-d4e3df35e93125466e6bc43eddefb69b]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2003/26/section/29) in force at 1.4.2004 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))

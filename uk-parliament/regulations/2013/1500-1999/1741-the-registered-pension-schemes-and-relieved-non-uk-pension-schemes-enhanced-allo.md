@@ -30,7 +30,7 @@ summary: ''
 
 Income Tax
 
-The Registered Pension Schemes and Relieved Non-UK Pension Schemes ( Enhanced Allowances[^key-6fd7255158ffe85c0d39a57e236d96e0] Transitional Protection) (Notification) Regulations 2013
+The Registered Pension Schemes and Relieved Non-UK Pension Schemes ( Enhanced Allowances[^c-6fd7255158ffe85c0d39a57e236d96e0] Transitional Protection) (Notification) Regulations 2013
 
 Made
 
@@ -46,11 +46,11 @@ Coming into force
 
 The Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by section 251(1) of the Finance Act 2004[^f00001] and now exercisable by them[^f00002], and paragraphs 3 and 4(1) of Schedule 22 to the Finance Act 2013[^f00003].
 
-## 1. Citation, commencement and interpretation[^key-dfdc6f6de60f3ff3a3ba0c55a45ef1aa]
+## 1. Citation, commencement and interpretation[^c-dfdc6f6de60f3ff3a3ba0c55a45ef1aa]
 
-These Regulations may be cited as the Registered Pension Schemes and Relieved Non-UK Pension Schemes (Enhanced Allowances[^key-2ff016d58d0e393b343c0e0d87ef70f2] Transitional Protection) (Notification) Regulations 2013 and come into force on 12th August 2013.
+These Regulations may be cited as the Registered Pension Schemes and Relieved Non-UK Pension Schemes (Enhanced Allowances[^c-2ff016d58d0e393b343c0e0d87ef70f2] Transitional Protection) (Notification) Regulations 2013 and come into force on 12th August 2013.
 
-**2.**[^key-d380fe40599e5aaaeece8792f965ffb2] In these Regulations—
+**2.**[^c-d380fe40599e5aaaeece8792f965ffb2] In these Regulations—
 
 - “HMRC” means Her Majesty’s Revenue and Customs;
 - “paragraph 1” means paragraph 1 of Schedule 22 to the Finance Act 2013;
@@ -58,7 +58,7 @@ These Regulations may be cited as the Registered Pension Schemes and Relieved No
 - “paragraph 1 notice” means a notice of intention to rely upon paragraph 1; and
 - “tribunal” means the First-tier Tribunal or, where determined in accordance with the Tribunal Procedure (First-tier Tribunal) (Tax Chamber) Rules 2009[^f00004], the Upper Tribunal.
 
-## 3. Reliance on paragraph 1[^key-3ff8c4686be5f25ee58e75831bb867ad]
+## 3. Reliance on paragraph 1[^c-3ff8c4686be5f25ee58e75831bb867ad]
 
 (1) Subject to paragraph (2), an individual may rely on paragraph 1 if—
 
@@ -71,15 +71,15 @@ These Regulations may be cited as the Registered Pension Schemes and Relieved No
 - (b) HMRC have revoked the certificate in accordance with regulation 11, or
 - (c) a paragraph 1(3) event has occurred.
 
-## 4. The paragraph 1 notice[^key-4ffed007e845f18188bd3e4f03611aca]
+## 4. The paragraph 1 notice[^c-4ffed007e845f18188bd3e4f03611aca]
 
 (1) A paragraph 1 notice must include the following information—
 
 - (a) the title, full name, address (including post code, if applicable) and date of birth of the individual submitting the paragraph 1 notice,
 - (b) the national insurance number of the individual or, where the individual does not qualify for a national insurance number, the reasons for this,
-- (c) a declaration that paragraph 7 of Schedule 36 to the Finance Act 2004 (primary protection) does not apply[^key-11e7c4504679350a073b9269327861ec] in the case of the individual,
+- (c) a declaration that paragraph 7 of Schedule 36 to the Finance Act 2004 (primary protection) does not apply[^c-11e7c4504679350a073b9269327861ec] in the case of the individual,
 - (d) a declaration that paragraph 12 of that Schedule[^f00005] (enhanced protection) will not apply in relation to the individual on and after 6th April 2014, and
-- (e) a declaration that paragraph 14 of Schedule 18 to the Finance Act 2011[^f00006] (fixed protection)[^key-e5029c0aac45df80018b137cfd7e8df9] will not apply in relation to the individual on and after 6th April 2014.
+- (e) a declaration that paragraph 14 of Schedule 18 to the Finance Act 2011[^f00006] (fixed protection)[^c-e5029c0aac45df80018b137cfd7e8df9] will not apply in relation to the individual on and after 6th April 2014.
 
 (2) A paragraph 1 notice must—
 
@@ -87,19 +87,19 @@ These Regulations may be cited as the Registered Pension Schemes and Relieved No
 - (b) contain a declaration that the information provided in the notice is true and complete to the best of the knowledge and belief of the person completing the form, and
 - (c) be received by HMRC on or before 5th April 2014.
 
-## 5. Issue of certificate by HMRC[^key-5b0bb0e0069e05d3c94512c4c5de6882]
+## 5. Issue of certificate by HMRC[^c-5b0bb0e0069e05d3c94512c4c5de6882]
 
 (1) If HMRC accept the paragraph 1 notice, they must issue a certificate to the individual.
 
 (2) The certificate must have a unique reference number.
 
-## 6. Refusal by HMRC to accept notice[^key-5da440ebd6c87db7306653a3431153e4]
+## 6. Refusal by HMRC to accept notice[^c-5da440ebd6c87db7306653a3431153e4]
 
 (1) HMRC may refuse to accept the paragraph 1 notice if it does not satisfy the requirements in regulation 4.
 
 (2) If HMRC refuse to accept the paragraph 1 notice the individual may require that HMRC provide reasons for the refusal.
 
-## 7. Appeal against refusal to accept notice[^key-87315bf60e22a79675fd78203ac1701c]
+## 7. Appeal against refusal to accept notice[^c-87315bf60e22a79675fd78203ac1701c]
 
 (1) The individual may appeal against a refusal by HMRC to accept the paragraph 1 notice.
 
@@ -109,24 +109,24 @@ These Regulations may be cited as the Registered Pension Schemes and Relieved No
 
 (4) If the tribunal allows the appeal, the tribunal may direct HMRC to accept the paragraph 1 notice and issue a certificate to the individual.
 
-## 8. Incorrect information given in, or in connection with, the paragraph 1 notice[^key-8fa79996c53e7cf4afe5a50e3cf8f4ee]
+## 8. Incorrect information given in, or in connection with, the paragraph 1 notice[^c-8fa79996c53e7cf4afe5a50e3cf8f4ee]
 
 If the individual realises that any information given in the paragraph 1 notice or given to HMRC in connection with that notice was incorrect or has become incorrect, the individual must provide HMRC with the correct information without undue delay.
 
-## 9. Requirement to inform HMRC of a paragraph 1(3) event[^key-82a2b6842f3ab61343665885975bcf3a]
+## 9. Requirement to inform HMRC of a paragraph 1(3) event[^c-82a2b6842f3ab61343665885975bcf3a]
 
 Where HMRC have issued a certificate the individual must—
 
 - (a) inform HMRC when a paragraph 1(3) event occurs, and
 - (b) provide that information before the end of the period of 90 days beginning with the day on which the individual could first reasonably be expected to have known that a paragraph 1(3) event had occurred.
 
-## 10. Replacement of a certificate by HMRC[^key-77bdb5d8025078f9979a4c03c6814b60]
+## 10. Replacement of a certificate by HMRC[^c-77bdb5d8025078f9979a4c03c6814b60]
 
 (1) HMRC may issue a certificate, replacing the previous certificate, if they have reason to believe that information given in, or in connection with, the paragraph 1 notice was incorrect or has become incorrect.
 
 (2) A certificate issued in accordance with regulation 10(1) must have a unique reference number.
 
-## 11. Revocation of a certificate by HMRC[^key-cf44603601ffd482fb9a09422ed9a4ff]
+## 11. Revocation of a certificate by HMRC[^c-cf44603601ffd482fb9a09422ed9a4ff]
 
 HMRC may revoke a certificate if they—
 
@@ -134,7 +134,7 @@ HMRC may revoke a certificate if they—
 - (b) have reason to believe that any of the conditions in paragraph 1(1) of Schedule 22 to the Finance Act 2013 have not been met, or
 - (c) have given a taxpayer notice to the individual under Part 1 of Schedule 36 to the Finance Act 2008[^f00007] (power to obtain information and documents from taxpayer) in connection with paragraph 1 and the individual does not reply to that notice within the time specified in the notice.
 
-## 12. Appeal against replacement or revocation of a certificate[^key-e2c7472d5bc01ef5b01a73794d872f4e]
+## 12. Appeal against replacement or revocation of a certificate[^c-e2c7472d5bc01ef5b01a73794d872f4e]
 
 (1) The individual may require HMRC to provide reasons for replacing or revoking the certificate.
 
@@ -144,9 +144,9 @@ HMRC may revoke a certificate if they—
 
 (4) If the tribunal allows the appeal, the tribunal may direct HMRC to issue a certificate to the individual.
 
-## 13. Preservation of documents[^key-15ed478f05710c1d8d423b4ec9c17a09]
+## 13. Preservation of documents[^c-15ed478f05710c1d8d423b4ec9c17a09]
 
-(1) Where HMRC have issued a certificate the individual must preserve the certificate until no further relevant benefit crystallisation event within the meaning of section 637S of ITEPA 2003[^key-9bf8db4e8ef8358b7e7af395d33718e6] can occur in relation to the individual.
+(1) Where HMRC have issued a certificate the individual must preserve the certificate until no further relevant benefit crystallisation event within the meaning of section 637S of ITEPA 2003[^c-9bf8db4e8ef8358b7e7af395d33718e6] can occur in relation to the individual.
 
 (2) The requirement to preserve the certificate ceases where the certificate has been revoked.
 
@@ -176,7 +176,7 @@ A Tax Information and Impact Note covering the lifetime allowance was published 
 
 ## Annotations
 
-[^key-6fd7255158ffe85c0d39a57e236d96e0]: Textual amendment: Words in Title substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 97(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/97/2), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+[^c-6fd7255158ffe85c0d39a57e236d96e0]: Textual amendment: Words in Title substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 97(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/97/2), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
 
 [^f00001]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12). Subsection (2) of section 251 sets out the matters referred to in subsection (1)(a) in respect of which regulations may require persons to provide information of a prescribed description and to preserve documents for a prescribed period. Subsection (6) states that “prescribed” means prescribed by regulations.
 
@@ -184,44 +184,44 @@ A Tax Information and Impact Note covering the lifetime allowance was published 
 
 [^f00003]: Footnote: [2013 c. 29](https://www.legislation.gov.uk/ukpga/2013/29).
 
-[^key-dfdc6f6de60f3ff3a3ba0c55a45ef1aa]: Commencement: Reg. 1 in force at 12.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1741/regulation/1)
+[^c-dfdc6f6de60f3ff3a3ba0c55a45ef1aa]: Commencement: Reg. 1 in force at 12.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1741/regulation/1)
 
-[^key-2ff016d58d0e393b343c0e0d87ef70f2]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2013/1741/regulation/1) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 97(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/97/3), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+[^c-2ff016d58d0e393b343c0e0d87ef70f2]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2013/1741/regulation/1) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 97(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/97/3), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
 
-[^key-d380fe40599e5aaaeece8792f965ffb2]: Commencement: Reg. 2 in force at 12.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1741/regulation/1)
+[^c-d380fe40599e5aaaeece8792f965ffb2]: Commencement: Reg. 2 in force at 12.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1741/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2009/273 (L. 1)](https://www.legislation.gov.uk/uksi/2009/273).
 
-[^key-3ff8c4686be5f25ee58e75831bb867ad]: Commencement: Reg. 3 in force at 12.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1741/regulation/1)
+[^c-3ff8c4686be5f25ee58e75831bb867ad]: Commencement: Reg. 3 in force at 12.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1741/regulation/1)
 
-[^key-4ffed007e845f18188bd3e4f03611aca]: Commencement: Reg. 4 in force at 12.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1741/regulation/1)
+[^c-4ffed007e845f18188bd3e4f03611aca]: Commencement: Reg. 4 in force at 12.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1741/regulation/1)
 
-[^key-11e7c4504679350a073b9269327861ec]: Textual amendment: Word in [reg. 4(1)(c)](https://www.legislation.gov.uk/uksi/2013/1741/regulation/4/1/c) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 97(4)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/97/4/a), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+[^c-11e7c4504679350a073b9269327861ec]: Textual amendment: Word in [reg. 4(1)(c)](https://www.legislation.gov.uk/uksi/2013/1741/regulation/4/1/c) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 97(4)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/97/4/a), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
 
 [^f00005]: Footnote: Paragraph 12 has been amended by paragraph 53(2) to (6) of Schedule 10 to the Finance Act [2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), paragraph 17 of Schedule 20 and Part 3(2) of Schedule 27 to the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), paragraph 432(2) of Schedule 1 to the Corporation Tax Act [2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4) and paragraph 59 of Schedule 26 to the Equality Act [2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15).
 
 [^f00006]: Footnote: [2011 c. 11](https://www.legislation.gov.uk/ukpga/2011/11); paragraph 14 was amended by section 47(1) and (2) of the Finance Act 2013 and [S.I. 2013/1740](https://www.legislation.gov.uk/uksi/2013/1740).
 
-[^key-e5029c0aac45df80018b137cfd7e8df9]: Textual amendment: Words in [reg. 4(1)(e)](https://www.legislation.gov.uk/uksi/2013/1741/regulation/4/1/e) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 97(4)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/97/4/b), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+[^c-e5029c0aac45df80018b137cfd7e8df9]: Textual amendment: Words in [reg. 4(1)(e)](https://www.legislation.gov.uk/uksi/2013/1741/regulation/4/1/e) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 97(4)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/97/4/b), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
 
-[^key-5b0bb0e0069e05d3c94512c4c5de6882]: Commencement: Reg. 5 in force at 12.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1741/regulation/1)
+[^c-5b0bb0e0069e05d3c94512c4c5de6882]: Commencement: Reg. 5 in force at 12.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1741/regulation/1)
 
-[^key-5da440ebd6c87db7306653a3431153e4]: Commencement: Reg. 6 in force at 12.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1741/regulation/1)
+[^c-5da440ebd6c87db7306653a3431153e4]: Commencement: Reg. 6 in force at 12.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1741/regulation/1)
 
-[^key-87315bf60e22a79675fd78203ac1701c]: Commencement: Reg. 7 in force at 12.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1741/regulation/1)
+[^c-87315bf60e22a79675fd78203ac1701c]: Commencement: Reg. 7 in force at 12.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1741/regulation/1)
 
-[^key-8fa79996c53e7cf4afe5a50e3cf8f4ee]: Commencement: Reg. 8 in force at 12.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1741/regulation/1)
+[^c-8fa79996c53e7cf4afe5a50e3cf8f4ee]: Commencement: Reg. 8 in force at 12.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1741/regulation/1)
 
-[^key-82a2b6842f3ab61343665885975bcf3a]: Commencement: Reg. 9 in force at 12.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1741/regulation/1)
+[^c-82a2b6842f3ab61343665885975bcf3a]: Commencement: Reg. 9 in force at 12.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1741/regulation/1)
 
-[^key-77bdb5d8025078f9979a4c03c6814b60]: Commencement: Reg. 10 in force at 12.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1741/regulation/1)
+[^c-77bdb5d8025078f9979a4c03c6814b60]: Commencement: Reg. 10 in force at 12.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1741/regulation/1)
 
-[^key-cf44603601ffd482fb9a09422ed9a4ff]: Commencement: Reg. 11 in force at 12.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1741/regulation/1)
+[^c-cf44603601ffd482fb9a09422ed9a4ff]: Commencement: Reg. 11 in force at 12.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1741/regulation/1)
 
 [^f00007]: Footnote: [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9); taxpayer notice is defined in paragraph 1(2) of Schedule 36.
 
-[^key-e2c7472d5bc01ef5b01a73794d872f4e]: Commencement: Reg. 12 in force at 12.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1741/regulation/1)
+[^c-e2c7472d5bc01ef5b01a73794d872f4e]: Commencement: Reg. 12 in force at 12.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1741/regulation/1)
 
-[^key-15ed478f05710c1d8d423b4ec9c17a09]: Commencement: Reg. 13 in force at 12.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1741/regulation/1)
+[^c-15ed478f05710c1d8d423b4ec9c17a09]: Commencement: Reg. 13 in force at 12.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1741/regulation/1)
 
-[^key-9bf8db4e8ef8358b7e7af395d33718e6]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2013/1741/regulation/13/1) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 97(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/97/5), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+[^c-9bf8db4e8ef8358b7e7af395d33718e6]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2013/1741/regulation/13/1) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 97(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/97/5), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))

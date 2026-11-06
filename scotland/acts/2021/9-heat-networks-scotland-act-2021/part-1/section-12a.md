@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12A. Enforcement provisions under Part 8 of the Energy Act 2023 applied[^key-92c84a939ad1e8a269fccc770c9cd275]
+## 12A. Enforcement provisions under Part 8 of the Energy Act 2023 applied[^c-92c84a939ad1e8a269fccc770c9cd275]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92c84a939ad1e8a269fccc770c9cd275]: Textual amendment: [S. 12A](https://www.legislation.gov.uk/asp/2021/9/section/12A) and cross-heading inserted (27.1.2026) by [The Heat Networks (Market Framework) (Great Britain) Regulations 2025 (S.I. 2025/269)](https://www.legislation.gov.uk/uksi/2025/269), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4), [68(2)](https://www.legislation.gov.uk/uksi/2025/269/regulation/68/2)
+[^c-92c84a939ad1e8a269fccc770c9cd275]: Textual amendment: [S. 12A](https://www.legislation.gov.uk/asp/2021/9/section/12A) and cross-heading inserted (27.1.2026) by [The Heat Networks (Market Framework) (Great Britain) Regulations 2025 (S.I. 2025/269)](https://www.legislation.gov.uk/uksi/2025/269), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4), [68(2)](https://www.legislation.gov.uk/uksi/2025/269/regulation/68/2)

@@ -29,9 +29,9 @@ summary: ''
 
 (1A) This paragraph applies—
 
-- (a) [^key-1f84063a3e0c15b8a8799631f1e4075e]... to trials on indictment, appeals to the Court of Appeal and hearings of references under section 10 of the Criminal Appeal Act 1995[^c17131181];
-- (b) except in a case where paragraph (1)(b)(i) applies, to proceedings in magistrates[^c17131201] courts and , appeals to the county court arising out of such proceedings and hearings of references under section 12 of the Criminal Appeal Act 1995 so arising; [^key-8c817a99c64ec4462963d92eefa856d5]...
-- (c)[^key-8c817a99c64ec4462963d92eefa856d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) [^c-1f84063a3e0c15b8a8799631f1e4075e]... to trials on indictment, appeals to the Court of Appeal and hearings of references under section 10 of the Criminal Appeal Act 1995[^c17131181];
+- (b) except in a case where paragraph (1)(b)(i) applies, to proceedings in magistrates[^c17131201] courts and , appeals to the county court arising out of such proceedings and hearings of references under section 12 of the Criminal Appeal Act 1995 so arising; [^c-8c817a99c64ec4462963d92eefa856d5]...
+- (c)[^c-8c817a99c64ec4462963d92eefa856d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Evidence may not be given through a link by virtue of this Article without leave of the court.
 
@@ -69,7 +69,7 @@ but no application may be made under sub-paragraph (a) unless there has been a m
 - (b) Crown Court rules; and
 - (c) rules of court.
 
-(7) Where, [^key-2cebd950635e222e1221d625ade939fa]... in proceedings before a magistrates court or on an appeal to the county court arising out of such proceedings, a court grants leave for evidence to be given through a link by virtue of this Article—
+(7) Where, [^c-2cebd950635e222e1221d625ade939fa]... in proceedings before a magistrates court or on an appeal to the county court arising out of such proceedings, a court grants leave for evidence to be given through a link by virtue of this Article—
 
 - (a) that court may, notwithstanding anything in any statutory provision adjourn the investigation, inquiry, proceedings or appeal, as the case may require and order that it be held at such time and at such designated place as may be specified in the order; and
 - (b) a court sitting at a designated place shall, by virtue of this paragraph, have jurisdiction [^c17131131]. . . to deal with an offence in relation to which an investigation or inquiry or any proceedings or appeal is so adjourned.
@@ -84,13 +84,13 @@ but no application may be made under sub-paragraph (a) unless there has been a m
 
 [^c17131131]: Textual amendment: [1995 NI 3](https://www.legislation.gov.uk/1995/ni3)
 
-[^key-1f84063a3e0c15b8a8799631f1e4075e]: Textual amendment: Words in [art. 81(1A)(a)](https://www.legislation.gov.uk/nisi/1989/1341/article/81/1A/a) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 11(b)(i)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/11/b/i); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-1f84063a3e0c15b8a8799631f1e4075e]: Textual amendment: Words in [art. 81(1A)(a)](https://www.legislation.gov.uk/nisi/1989/1341/article/81/1A/a) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 11(b)(i)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/11/b/i); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
 [^c17131181]: Textual amendment: [1995 c. 35](https://www.legislation.gov.uk/ukpga/1995/35)
 
 [^c17131201]: Textual amendment: [1998 NI 9](https://www.legislation.gov.uk/1998/ni9)
 
-[^key-8c817a99c64ec4462963d92eefa856d5]: Textual amendment: [Art. 81(1A)(c)](https://www.legislation.gov.uk/nisi/1989/1341/article/81/1A/c) and word repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 11(b)(ii)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/11/b/ii); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-8c817a99c64ec4462963d92eefa856d5]: Textual amendment: [Art. 81(1A)(c)](https://www.legislation.gov.uk/nisi/1989/1341/article/81/1A/c) and word repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 11(b)(ii)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/11/b/ii); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
 [^c17131251]: Textual amendment: [1968 c. 34 (NI)](https://www.legislation.gov.uk/apni/1968/34)
 
@@ -98,6 +98,6 @@ but no application may be made under sub-paragraph (a) unless there has been a m
 
 [^c17131281]: Textual amendment: [1979 NI 19](https://www.legislation.gov.uk/1979/ni19)
 
-[^key-2cebd950635e222e1221d625ade939fa]: Textual amendment: Words in [art. 81(7)](https://www.legislation.gov.uk/nisi/1989/1341/article/81/7) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 11(c)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/11/c); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-2cebd950635e222e1221d625ade939fa]: Textual amendment: Words in [art. 81(7)](https://www.legislation.gov.uk/nisi/1989/1341/article/81/7) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 11(c)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/11/c); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
 [^c20348541]: Textual amendment: Words in [art. 81(8)](https://www.legislation.gov.uk/nisi/1989/1341/article/81/8) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/2), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para. 79](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/79); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 paras. 10](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/10), [12(a)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/a)

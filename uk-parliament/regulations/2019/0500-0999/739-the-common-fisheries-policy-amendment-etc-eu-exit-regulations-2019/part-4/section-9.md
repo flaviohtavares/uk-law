@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Council Regulation [(EC) No 1005/2008](https://www.legislation.gov.uk/eur/2008/1005) establishing a Community system to prevent, deter and eliminate illegal, unreported and unregulated fishing[^key-5601841b5172967b39649e5372757b47]
+## 9. Council Regulation [(EC) No 1005/2008](https://www.legislation.gov.uk/eur/2008/1005) establishing a Community system to prevent, deter and eliminate illegal, unreported and unregulated fishing[^c-5601841b5172967b39649e5372757b47]
 
 *Extent: E+W+S+N.I.*
 
@@ -402,7 +402,7 @@ summary: ''
 
 > **Article 35 — Publicity of the list of non-cooperating third countries**
 >
-> The Secretary of State must take such measures as the Secretary of State feels necessary to ensure the publicity of any list of non-cooperating third countries contained in regulations made under Article 33(1). In particular, the Secretary of State must publish the [^key-0b564cc8fb0bb7cd9e358882b2f19b6c]... list on a website that is accessible to the public.
+> The Secretary of State must take such measures as the Secretary of State feels necessary to ensure the publicity of any list of non-cooperating third countries contained in regulations made under Article 33(1). In particular, the Secretary of State must publish the [^c-0b564cc8fb0bb7cd9e358882b2f19b6c]... list on a website that is accessible to the public.
 
 .
 
@@ -530,6 +530,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5601841b5172967b39649e5372757b47]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)
+[^c-5601841b5172967b39649e5372757b47]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)
 
-[^key-0b564cc8fb0bb7cd9e358882b2f19b6c]: Textual amendment: Word in [reg. 9(31)](https://www.legislation.gov.uk/uksi/2019/739/regulation/9/31) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0b564cc8fb0bb7cd9e358882b2f19b6c]: Textual amendment: Word in [reg. 9(31)](https://www.legislation.gov.uk/uksi/2019/739/regulation/9/31) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Promoting continuous improvement in tertiary education[^key-7d6b225e334bfe1bd20d35e224437613][^key-527e1395411f55e96d2c6cd0caa69af3][^key-48412ae00e9154e2b43c27c592ee9f48]
+## 5. Promoting continuous improvement in tertiary education[^c-7d6b225e334bfe1bd20d35e224437613][^c-527e1395411f55e96d2c6cd0caa69af3][^c-48412ae00e9154e2b43c27c592ee9f48]
 
 *Extent: E+W*
 
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7d6b225e334bfe1bd20d35e224437613]: Commencement: S. 5 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-7d6b225e334bfe1bd20d35e224437613]: Commencement: S. 5 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-527e1395411f55e96d2c6cd0caa69af3]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2022/1/section/5) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(d)](https://www.legislation.gov.uk/wsi/2023/919/article/3/d)
+[^c-527e1395411f55e96d2c6cd0caa69af3]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2022/1/section/5) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(d)](https://www.legislation.gov.uk/wsi/2023/919/article/3/d)
 
-[^key-48412ae00e9154e2b43c27c592ee9f48]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2022/1/section/5) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 4(a)](https://www.legislation.gov.uk/wsi/2023/919/article/4/a)
+[^c-48412ae00e9154e2b43c27c592ee9f48]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2022/1/section/5) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 4(a)](https://www.legislation.gov.uk/wsi/2023/919/article/4/a)

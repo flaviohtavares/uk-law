@@ -50,11 +50,11 @@ The Secretary of State for Transport, in exercise of the powers conferred by sec
 
 ## Contents
 
-### PART I (affected by repeal, see note) — THE TRAFFIC SIGNS REGULATIONS 2002 (affected by repeal, see note)[^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b]
+### PART I (affected by repeal, see note) — THE TRAFFIC SIGNS REGULATIONS 2002 (affected by repeal, see note)[^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b]
 
 *Extent: E+W+S*
 
-#### SECTION 1 (affected by repeal, see note) — PRELIMINARY (affected by repeal, see note)[^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b]
+#### SECTION 1 (affected by repeal, see note) — PRELIMINARY (affected by repeal, see note)[^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b]
 
 *Extent: E+W+S*
 
@@ -66,7 +66,7 @@ The Secretary of State for Transport, in exercise of the powers conferred by sec
 - [Section 6 — Interpretation of references](part-i/section-6.md)
 - [Section 7 — Interpretation of Schedules 1 to 12](part-i/section-7.md)
 
-#### SECTION 2 (affected by repeal, see note) — GENERAL PROVISIONS (affected by repeal, see note)[^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b]
+#### SECTION 2 (affected by repeal, see note) — GENERAL PROVISIONS (affected by repeal, see note)[^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b]
 
 *Extent: E+W+S*
 
@@ -78,7 +78,7 @@ The Secretary of State for Transport, in exercise of the powers conferred by sec
 - [Section 13 — Proportions and form of letters, numerals, symbols and other characters](part-i/section-13.md)
 - [Section 14 — Signs attached to vehicles](part-i/section-14.md)
 
-#### SECTION 3 (affected by repeal, see note) — WARNING, REGULATORY AND INFORMATORY TRAFFIC SIGNS (affected by repeal, see note)[^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b]
+#### SECTION 3 (affected by repeal, see note) — WARNING, REGULATORY AND INFORMATORY TRAFFIC SIGNS (affected by repeal, see note)[^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b]
 
 *Extent: E+W+S*
 
@@ -93,7 +93,7 @@ The Secretary of State for Transport, in exercise of the powers conferred by sec
 - [Section 23 — Bus lanes](part-i/section-23.md)
 - [Section 24 — Bus symbols](part-i/section-24.md)
 
-#### SECTION 4 (affected by repeal, see note) — ROAD MARKINGS (affected by repeal, see note)[^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b]
+#### SECTION 4 (affected by repeal, see note) — ROAD MARKINGS (affected by repeal, see note)[^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b]
 
 *Extent: E+W+S*
 
@@ -106,7 +106,7 @@ The Secretary of State for Transport, in exercise of the powers conferred by sec
 - [Section 31 — Illumination of road markings](part-i/section-31.md)
 - [Section 32 — Height of road markings and size of studs](part-i/section-32.md)
 
-#### SECTION 5 (affected by repeal, see note) — LIGHT SIGNALS AND WARNING LIGHTS (affected by repeal, see note)[^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b]
+#### SECTION 5 (affected by repeal, see note) — LIGHT SIGNALS AND WARNING LIGHTS (affected by repeal, see note)[^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b]
 
 *Extent: E+W+S*
 
@@ -132,7 +132,7 @@ The Secretary of State for Transport, in exercise of the powers conferred by sec
 - [Section 51 — Cattle crossing signs and warning lights](part-i/section-51.md)
 - [Section 52 — Light signals for pedestrian traffic at level crossings](part-i/section-52.md)
 
-#### SECTION 6 (affected by repeal, see note) — MISCELLANEOUS TRAFFIC SIGNS (affected by repeal, see note)[^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b]
+#### SECTION 6 (affected by repeal, see note) — MISCELLANEOUS TRAFFIC SIGNS (affected by repeal, see note)[^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b]
 
 *Extent: E+W+S*
 
@@ -143,7 +143,7 @@ The Secretary of State for Transport, in exercise of the powers conferred by sec
 - [Section 57 — Refuge indicator lamps](part-i/section-57.md)
 - [Section 58 — Variable message signs](part-i/section-58.md)
 
-### PART II (affected by repeal, see note) — THE TRAFFIC SIGNS GENERAL DIRECTIONS 2002 (affected by repeal, see note)[^key-719e96ccad5bb6f3737643df272d45a5][^key-719e96ccad5bb6f3737643df272d45a5]
+### PART II (affected by repeal, see note) — THE TRAFFIC SIGNS GENERAL DIRECTIONS 2002 (affected by repeal, see note)[^c-719e96ccad5bb6f3737643df272d45a5][^c-719e96ccad5bb6f3737643df272d45a5]
 
 *Extent: E+W+S*
 
@@ -294,6 +294,6 @@ These Regulations were notified in draft to the European Commission in accordanc
 
 [^f00003]: Footnote: [S.I. 1999/3143](https://www.legislation.gov.uk/uksi/1999/3143).
 
-[^key-c04181b99fd16d713999f801bf7e1d8b]: Textual amendment: Pt. 1 revoked (22.4.2016) by [The Traffic Signs Regulations and General Directions 2016 (S.I. 2016/362)](https://www.legislation.gov.uk/uksi/2016/362), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1/1/b), [Sch. 19 Pt. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/19/part/1) (with [regs. 4](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/4), [14](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/14), [15](https://www.legislation.gov.uk/uksi/2016/362/regulation/15))
+[^c-c04181b99fd16d713999f801bf7e1d8b]: Textual amendment: Pt. 1 revoked (22.4.2016) by [The Traffic Signs Regulations and General Directions 2016 (S.I. 2016/362)](https://www.legislation.gov.uk/uksi/2016/362), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1/1/b), [Sch. 19 Pt. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/19/part/1) (with [regs. 4](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/4), [14](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/14), [15](https://www.legislation.gov.uk/uksi/2016/362/regulation/15))
 
-[^key-719e96ccad5bb6f3737643df272d45a5]: Textual amendment: Pt. 2 revoked (22.4.2016) by [The Traffic Signs Regulations and General Directions 2016 (S.I. 2016/362)](https://www.legislation.gov.uk/uksi/2016/362), [dir. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1/1), [Sch. 19 Pt. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/19/part/2) (with [dirs. 12](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/12), [13](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/13))
+[^c-719e96ccad5bb6f3737643df272d45a5]: Textual amendment: Pt. 2 revoked (22.4.2016) by [The Traffic Signs Regulations and General Directions 2016 (S.I. 2016/362)](https://www.legislation.gov.uk/uksi/2016/362), [dir. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1/1), [Sch. 19 Pt. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/19/part/2) (with [dirs. 12](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/12), [13](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/13))

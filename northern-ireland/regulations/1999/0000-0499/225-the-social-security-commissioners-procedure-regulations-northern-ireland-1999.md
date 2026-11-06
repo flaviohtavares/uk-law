@@ -44,11 +44,11 @@ The Lord Chancellor, in exercise of the powers conferred by the provisions set o
 
 ## PART I — GENERAL PROVISIONS
 
-### 1. Citation and commencement[^key-009e44873a339bd9468b499eb51d4a23]
+### 1. Citation and commencement[^c-009e44873a339bd9468b499eb51d4a23]
 
 These Regulations may be cited as the Social Security Commissioners (Procedure) Regulations (Northern Ireland) 1999 and shall come into operation on 7th June 1999.
 
-### 2. Revocation[^key-d8302987b3ddc824a18ca4fb34d14619]
+### 2. Revocation[^c-d8302987b3ddc824a18ca4fb34d14619]
 
 The following Regulations are revoked—
 
@@ -56,7 +56,7 @@ The following Regulations are revoked—
 - (b) the Social Security Commissioners Procedure (Amendment) Regulations (Northern Ireland) 1992[^f00003]; and
 - (c) the Social Security Commissioners Procedure (Amendment) Regulations (Northern Ireland) 1997[^f00004].
 
-### 3. Transitional provisions[^key-3a2abc12f48ddd7b321a349173069ff6]
+### 3. Transitional provisions[^c-3a2abc12f48ddd7b321a349173069ff6]
 
 (1) Subject to paragraphs (2) and (3), these Regulations shall apply to all proceedings before the Commissioners on or after 7th June 1999.
 
@@ -71,7 +71,7 @@ The following Regulations are revoked—
 
 (3) Any transitional question arising under any application, appeal or reference in consequence of the coming into operation of these Regulations shall be determined by a Commissioner who may for this purpose give such directions as he may think just, including modifying the normal requirements of these Regulations in relation to the application, appeal or reference.
 
-### 4. Interpretation[^key-516c67ae5aafa36c5c75dc2f947bb8a2]
+### 4. Interpretation[^c-516c67ae5aafa36c5c75dc2f947bb8a2]
 
 In these Regulations, unless the context otherwise requires—
 
@@ -92,7 +92,7 @@ In these Regulations, unless the context otherwise requires—
 - “proceedings” means any proceedings before a Commissioner, whether by way of an application for leave to appeal to, or from, a Commissioner by way of an appeal or reference, or otherwise; and
 - “respondent” means any person or organisation other than the applicant, appellant or person making the reference, who is one of the principal parties as defined in Article 14 of the Order or is otherwise taking part in the proceedings in accordance with Article 15 of the Order or regulation 24(6).
 
-### 5. General powers of a Commissioner[^key-d1fd57cb3ac3cfa6b65d5332b7dced93]
+### 5. General powers of a Commissioner[^c-d1fd57cb3ac3cfa6b65d5332b7dced93]
 
 (1) Subject to the provisions of these Regulations, a Commissioner may adopt any procedure in relation to proceedings before him.
 
@@ -109,11 +109,11 @@ In these Regulations, unless the context otherwise requires—
 
 (6) Nothing in these Regulations shall affect any power which is exercisable apart from these Regulations.
 
-### 6. Transfer of proceedings between Commissioners[^key-c7ea79efe1ef6a59d1d80881a14c2414]
+### 6. Transfer of proceedings between Commissioners[^c-c7ea79efe1ef6a59d1d80881a14c2414]
 
 If it becomes impractical or inexpedient for a Commissioner to continue to deal with proceedings which are or have been before him, any other Commissioner may rehear or deal with those proceedings and any related matters.
 
-### 7. Delegation of functions to authorised officers[^key-acdf4dd60370e1ff9266b33f75cca46c]
+### 7. Delegation of functions to authorised officers[^c-acdf4dd60370e1ff9266b33f75cca46c]
 
 (1) The following functions of Commissioners may be exercised by legally qualified authorised officers, to be known as legal officers to the Commissioners—
 
@@ -127,7 +127,7 @@ If it becomes impractical or inexpedient for a Commissioner to continue to deal 
 
 (2) Any party may, within 14 days of being sent notice of the direction or order of a legal officer, make a written request to a Commissioner asking him to reconsider the matter and confirm or replace the direction or order with his own, but, unless ordered by a Commissioner, a request shall not stop proceedings under the direction or order.
 
-### 8. Manner of and time for service of notices, etc[^key-ee7a5a13a3454407c3e948921341c30e]
+### 8. Manner of and time for service of notices, etc[^c-ee7a5a13a3454407c3e948921341c30e]
 
 (1) A notice to or other document for any party shall be deemed duly served if it is—
 
@@ -141,7 +141,7 @@ If it becomes impractical or inexpedient for a Commissioner to continue to deal 
 
 ## PART II — APPLICATIONS FOR LEAVE TO APPEAL, APPEALS AND REFERENCES
 
-### 9. Application to a Commissioner for leave to appeal[^key-0aa4405e5f9be377a928b45dbd51c7eb]
+### 9. Application to a Commissioner for leave to appeal[^c-0aa4405e5f9be377a928b45dbd51c7eb]
 
 (1) An application to a Commissioner for leave to appeal against the decision of an appeal tribunal may be made only where the applicant has sought to obtain leave from the chairman and leave has been refused or the application has been rejected.
 
@@ -151,7 +151,7 @@ If it becomes impractical or inexpedient for a Commissioner to continue to deal 
 
 (4) In paragraph (3) the final date means the end of a period of 13 months from the date on which the decision of the appeal tribunal or, if later, any separate statement of the reasons for it, was sent to the applicant by the appeal tribunal.
 
-### 10. Notice of application to a Commissioner for leave to appeal[^key-4d88b9b98b39387e414173f266b76a0c]
+### 10. Notice of application to a Commissioner for leave to appeal[^c-4d88b9b98b39387e414173f266b76a0c]
 
 (1) An application to a Commissioner for leave to appeal shall be made by notice in writing, and shall contain—
 
@@ -168,7 +168,7 @@ If it becomes impractical or inexpedient for a Commissioner to continue to deal 
 
 (3) Where an application for leave to appeal is made by the Department, the Department shall send each respondent a copy of the notice of application and any documents sent with it when they are sent to the Commissioner.
 
-### 11. Determination of application[^key-bf01c135f6d86b374cdeb27231f0dda7]
+### 11. Determination of application[^c-bf01c135f6d86b374cdeb27231f0dda7]
 
 (1) The office shall send written notice to the applicant and each respondent of the determination of an application for leave to appeal to a Commissioner.
 
@@ -179,7 +179,7 @@ If it becomes impractical or inexpedient for a Commissioner to continue to deal 
 
 (3) If a Commissioner grants an application for leave to appeal he may, with the consent of the applicant and each respondent, treat and determine the application as an appeal.
 
-### 12. Notice of appeal[^key-850db1ffd217c563db28212d76aaf353]
+### 12. Notice of appeal[^c-850db1ffd217c563db28212d76aaf353]
 
 (1) Subject to regulation 11(2), an appeal shall be made by notice in writing and shall contain—
 
@@ -195,13 +195,13 @@ If it becomes impractical or inexpedient for a Commissioner to continue to deal 
 - (b) the decision against which leave to appeal has been granted; and
 - (c) if separate, the written statement of the appeal tribunal’s reasons for it.
 
-### 13. Time limit for appealing after leave obtained[^key-b98b8aedfba2406b376b86034776faa4]
+### 13. Time limit for appealing after leave obtained[^c-b98b8aedfba2406b376b86034776faa4]
 
 (1) Subject to paragraph (2), a notice of appeal shall not be valid unless it is sent to a Commissioner within one month of the date on which the appellant was sent written notice that leave to appeal had been granted.
 
 (2) A Commissioner may for special reasons accept a late notice of appeal.
 
-### 14. References under the Forfeiture (Northern Ireland) Order 1982[^key-8a759396b75f8bd3cdc6f6f4d05f7c0f]
+### 14. References under the Forfeiture (Northern Ireland) Order 1982[^c-8a759396b75f8bd3cdc6f6f4d05f7c0f]
 
 (1) For the purposes of Article 6(5) of the Forfeiture (Northern Ireland) Order 1982, the Order is prescribed as a relevant enactment.
 
@@ -213,13 +213,13 @@ If it becomes impractical or inexpedient for a Commissioner to continue to deal 
 - (b) the grounds upon which the reference is made; and
 - (c) the address for sending notices and other documents to the Department and to each respondent.
 
-### 15. Further provisions relating to references under the Forfeiture (Northern Ireland) Order 1982[^key-94bb1680e6230f5b808d25728ff086c8]
+### 15. Further provisions relating to references under the Forfeiture (Northern Ireland) Order 1982[^c-94bb1680e6230f5b808d25728ff086c8]
 
 (1) Article 16(7) of the Order (tribunal of Commissioners to deal with cases involving questions of law of special difficulty) shall apply in relation to a forfeiture rule question as it applies in relation to an appeal under the Order.
 
 (2) Articles 10 and 11 of the Order (revision and superseding of decisions) shall apply to a decision on a forfeiture rule question by a Commissioner with the modification that those powers shall be exercisable only by a Commissioner to whom any application for the purpose shall be made.
 
-### 16. Acknowledgement of a notice of appeal or a reference and notification to each respondent[^key-f338b37175286b612f01d98b98642660]
+### 16. Acknowledgement of a notice of appeal or a reference and notification to each respondent[^c-f338b37175286b612f01d98b98642660]
 
 The office shall send—
 
@@ -228,11 +228,11 @@ The office shall send—
 
 ## PART III — PROCEDURE
 
-### 17. Representation[^key-9e698126f112aae7a9435830cc13f31f]
+### 17. Representation[^c-9e698126f112aae7a9435830cc13f31f]
 
 A party may conduct his case himself (with assistance from any person if he wishes) or be represented by any person whom he may appoint for the purpose.
 
-### 18. Respondent’s written observations[^key-08db28e69b21683689540c0e2575fbd0]
+### 18. Respondent’s written observations[^c-08db28e69b21683689540c0e2575fbd0]
 
 (1) A respondent may submit to a Commissioner written observations on an appeal or reference within one month of being sent written notice of it.
 
@@ -244,7 +244,7 @@ A party may conduct his case himself (with assistance from any person if he wish
 
 (3) The office shall send a copy of any written observations from a respondent to every other party.
 
-### 19. Written observations in reply[^key-2197048484659928dbeadf30ab4f6af1]
+### 19. Written observations in reply[^c-2197048484659928dbeadf30ab4f6af1]
 
 (1) Any party may submit to a Commissioner written observations in reply within one month of being sent written observations under regulation 18.
 
@@ -257,7 +257,7 @@ A party may conduct his case himself (with assistance from any person if he wish
 
 a Commissioner may make an order under Article 15(7) of the Order setting aside the decision and may dispense with the procedure in paragraphs (1) and (2).
 
-### 20. Directions[^key-c20f858ce6e7386621c453c2e51a6a13]
+### 20. Directions[^c-c20f858ce6e7386621c453c2e51a6a13]
 
 (1) Where a Commissioner considers that an application, appeal or reference made to him gives insufficient particulars to enable the question at issue to be determined, he may direct the party making the application, appeal or reference, or any respondent, to furnish any further particulars as may reasonably be required.
 
@@ -271,11 +271,11 @@ a Commissioner may make an order under Article 15(7) of the Order setting aside 
 
 (6) Unless a Commissioner shall otherwise determine, the office shall send a copy of an application under paragraph (3) to every other party.
 
-### 21. Procedure on linked case notice from the Department[^key-b1a53c2fc5f9aab2f73e806996c0b8a9]
+### 21. Procedure on linked case notice from the Department[^c-b1a53c2fc5f9aab2f73e806996c0b8a9]
 
 Any notice from the Department to a Commissioner under Article 26 of the Order (Appeal involving issues that arise on appeal in other cases) shall be sent in writing and shall identify each appeal or application to which it relates.
 
-### 22. Non-disclosure of medical evidence[^key-2c18383fb152f6e353697b15c42275a8]
+### 22. Non-disclosure of medical evidence[^c-2c18383fb152f6e353697b15c42275a8]
 
 (1) Where, in any proceedings, there is before a Commissioner medical evidence relating to a person which has not been disclosed to that person and, in the opinion of the Commissioner, the disclosure to that person of that evidence would be harmful to his health, such evidence shall not be disclosed to that person.
 
@@ -288,7 +288,7 @@ unless the Commissioner considers that it is in the interests of the person to w
 
 (3) Non-disclosure under paragraphs (1) or (2) does not preclude the Commissioner from taking the evidence concerned into account for the purpose of the proceedings.
 
-### 23. Requests for hearings[^key-69b303efd3abb6c5fa7d59dcff6e55a8]
+### 23. Requests for hearings[^c-69b303efd3abb6c5fa7d59dcff6e55a8]
 
 (1) Subject to paragraphs (2), (3) and (4), a Commissioner may determine any proceedings without a hearing.
 
@@ -298,7 +298,7 @@ unless the Commissioner considers that it is in the interests of the person to w
 
 (4) A Commissioner may, without an application and at any stage, direct a hearing.
 
-### 24. Hearings[^key-ba8f2af03f6c947709b08b3d359885d2]
+### 24. Hearings[^c-ba8f2af03f6c947709b08b3d359885d2]
 
 (1) This regulation applies to any hearing of an application, appeal or reference to which these Regulations apply.
 
@@ -325,7 +325,7 @@ unless the Commissioner considers that it is in the interests of the person to w
 - (a) address the Commissioner;
 - (b) with the leave of the Commissioner, give evidence, call witnesses and put questions directly to any other person called as a witness.
 
-### 25. Summoning of witnesses[^key-03125800b4b1cadd956b1a6ab79e5973]
+### 25. Summoning of witnesses[^c-03125800b4b1cadd956b1a6ab79e5973]
 
 (1) Subject to paragraph (2), a Commissioner may summon any person to attend a hearing as a witness, at such time and place as may be specified in the summons, to answer any questions or produce any documents in his custody or under his control which relate to any matter in question in the proceedings.
 
@@ -335,7 +335,7 @@ unless the Commissioner considers that it is in the interests of the person to w
 
 (4) A Commissioner may require any witness to give evidence on oath and for this purpose an oath may be administered in due form.
 
-### 26. Withdrawal of applications for leave to appeal, appeals and references[^key-86f12eba84a79a3cb8e85df201c5b6ae]
+### 26. Withdrawal of applications for leave to appeal, appeals and references[^c-86f12eba84a79a3cb8e85df201c5b6ae]
 
 (1) At any time before it is determined, an applicant may withdraw an application to a Commissioner for leave to appeal against a decision of an appeal tribunal by giving written notice to a Commissioner.
 
@@ -343,13 +343,13 @@ unless the Commissioner considers that it is in the interests of the person to w
 
 (3) A Commissioner may, on application by the party concerned, give leave to reinstate any application, appeal or reference which has been withdrawn in accordance with paragraphs (1) and (2) and, on giving leave, he may make directions as to the conduct of the proceedings.
 
-### 27. Irregularities[^key-50e4c6b3345461020b02c5eca1a2c1f3]
+### 27. Irregularities[^c-50e4c6b3345461020b02c5eca1a2c1f3]
 
 Any irregularity resulting from failure to comply with the requirements of these Regulations shall not by itself invalidate any proceedings, and the Commissioner, before reaching his decision, may waive the irregularity or take steps to remedy it.
 
 ## PART IV — DECISIONS
 
-### 28. Determinations and decisions of a Commissioner[^key-35466e75f6faee64f96cc0527b538253]
+### 28. Determinations and decisions of a Commissioner[^c-35466e75f6faee64f96cc0527b538253]
 
 (1) The determination of a Commissioner on an application for leave to appeal shall be in writing and signed by him.
 
@@ -359,17 +359,17 @@ Any irregularity resulting from failure to comply with the requirements of these
 
 (4) Without prejudice to paragraphs (2) and (3), a Commissioner may announce his determination or decision at the end of a hearing.
 
-### 29. Procedure after determination of a forfeiture rule question[^key-07c81c328f88ab910d9a839e3790917a]
+### 29. Procedure after determination of a forfeiture rule question[^c-07c81c328f88ab910d9a839e3790917a]
 
 A Commissioner who has determined a forfeiture rule question shall remit the case to the Department for any necessary determination on entitlement to benefit to be made in light of the decision on the forfeiture rule question.
 
-### 30. Correction of accidental errors in decisions[^key-4338624ad20315b0254534604014548c]
+### 30. Correction of accidental errors in decisions[^c-4338624ad20315b0254534604014548c]
 
 (1) Subject to regulations 6 and 32, the Commissioner who gave the decision may, at any time, correct accidental errors in any decision or record of a decision.
 
 (2) A correction made to, or to the record of, a decision shall become part of the decision or record, and the office shall send written notice of the correction to any party to whom notice of the decision has been sent.
 
-### 31. Setting aside decisions on certain grounds[^key-584589e178eaead1d826ae123094cc95]
+### 31. Setting aside decisions on certain grounds[^c-584589e178eaead1d826ae123094cc95]
 
 (1) Subject to regulations 6 and 32, on an application made by any party, the Commissioner who gave the decision in proceedings may set it aside where it appears just to do so on the ground that—
 
@@ -383,7 +383,7 @@ A Commissioner who has determined a forfeiture rule question shall remit the cas
 
 (4) The office shall send each party written notice of a determination of an application to set aside a decision and the reasons for it.
 
-### 32. Provisions common to regulations 30 and 31[^key-72e9d04db5a969c81553099aabab3287]
+### 32. Provisions common to regulations 30 and 31[^c-72e9d04db5a969c81553099aabab3287]
 
 (1) In regulations 30 and 31 the word “decision” shall include determinations of applications for leave to appeal, orders setting aside tribunal decisions under Article 15(7) of the Order and decisions on appeals and references.
 
@@ -391,7 +391,7 @@ A Commissioner who has determined a forfeiture rule question shall remit the cas
 
 ## PART V — APPLICATIONS FOR LEAVE TO APPEAL TO THE APPELLATE COURT
 
-### 33. Application to a Commissioner for leave to appeal to the Appellate Court[^key-5aff0ff4196557ec91b876406eae8f55]
+### 33. Application to a Commissioner for leave to appeal to the Appellate Court[^c-5aff0ff4196557ec91b876406eae8f55]
 
 (1) Subject to paragraph (2), an application to a Commissioner under section 22 of the Administration Act[^f00011] for leave to appeal against a decision of a Commissioner shall be made in writing, stating the grounds of the application, within three months from the date on which the applicant was sent written notice of the decision.
 
@@ -410,7 +410,7 @@ Irvine of Lairg, C.
 
 Dated 12th May 1999
 
-## SCHEDULE — PROVISIONS CONFERRING POWERS EXERCISED IN MAKING THESE REGULATIONS[^key-9066957d24a856f95716e04f0b1416a0]
+## SCHEDULE — PROVISIONS CONFERRING POWERS EXERCISED IN MAKING THESE REGULATIONS[^c-9066957d24a856f95716e04f0b1416a0]
 
 - Article 6 of the Forfeiture (Northern Ireland) Order 1982[^f00013].
 - Sections 22 and 165(2) of the Social Security Administration (Northern Ireland) Act 1992[^f00014].
@@ -424,9 +424,9 @@ These Regulations regulate the procedure of the Social Security Commissioners in
 
 [^f00001]: Footnote: By virtue of Part II of Schedule 9 to the Social Security Act [1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50), paragraphs 3(1)(c), 2(a) to (g) and (j) of which were repealed by Schedule 1 to the Social Security (Consequential Provisions) (Northern Ireland) Act [1992 (c. 9)](https://www.legislation.gov.uk/ukpga/1992/9); section 165(2) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8) and Article 74(2) of the Social Security (Northern Ireland) Order 1998 \[S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)\]
 
-[^key-009e44873a339bd9468b499eb51d4a23]: Commencement: Reg. 1 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-009e44873a339bd9468b499eb51d4a23]: Commencement: Reg. 1 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
-[^key-d8302987b3ddc824a18ca4fb34d14619]: Commencement: Reg. 2 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-d8302987b3ddc824a18ca4fb34d14619]: Commencement: Reg. 2 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
 [^f00002]: Footnote: [S.R. 1987 No. 112](https://www.legislation.gov.uk/nisr/1987/112)
 
@@ -434,13 +434,13 @@ These Regulations regulate the procedure of the Social Security Commissioners in
 
 [^f00004]: Footnote: [S.R. 1997 No. 427](https://www.legislation.gov.uk/nisr/1997/427)
 
-[^key-3a2abc12f48ddd7b321a349173069ff6]: Commencement: Reg. 3 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-3a2abc12f48ddd7b321a349173069ff6]: Commencement: Reg. 3 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
 [^f00005]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
 
 [^f00006]: Footnote: [1995 No. 293](https://www.legislation.gov.uk/nisr/1995/293)
 
-[^key-516c67ae5aafa36c5c75dc2f947bb8a2]: Commencement: Reg. 4 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-516c67ae5aafa36c5c75dc2f947bb8a2]: Commencement: Reg. 4 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
 [^f00007]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
 
@@ -448,71 +448,71 @@ These Regulations regulate the procedure of the Social Security Commissioners in
 
 [^f00009]: Footnote: S.I. [1982/1082 (N.I. 14)](https://www.legislation.gov.uk/nisi/1982/1082) paragraphs (1A) to (1H) were inserted by Article 77(1) of the Social Security (Northern Ireland) Order 1986 \[S.I. [1986/1888 (N.I. 18)](https://www.legislation.gov.uk/nisi/1986/1888)\]
 
-[^key-d1fd57cb3ac3cfa6b65d5332b7dced93]: Commencement: Reg. 5 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-d1fd57cb3ac3cfa6b65d5332b7dced93]: Commencement: Reg. 5 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
-[^key-c7ea79efe1ef6a59d1d80881a14c2414]: Commencement: Reg. 6 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-c7ea79efe1ef6a59d1d80881a14c2414]: Commencement: Reg. 6 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
-[^key-acdf4dd60370e1ff9266b33f75cca46c]: Commencement: Reg. 7 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-acdf4dd60370e1ff9266b33f75cca46c]: Commencement: Reg. 7 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
-[^key-ee7a5a13a3454407c3e948921341c30e]: Commencement: Reg. 8 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-ee7a5a13a3454407c3e948921341c30e]: Commencement: Reg. 8 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
-[^key-0aa4405e5f9be377a928b45dbd51c7eb]: Commencement: Reg. 9 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-0aa4405e5f9be377a928b45dbd51c7eb]: Commencement: Reg. 9 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
-[^key-4d88b9b98b39387e414173f266b76a0c]: Commencement: Reg. 10 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-4d88b9b98b39387e414173f266b76a0c]: Commencement: Reg. 10 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
-[^key-bf01c135f6d86b374cdeb27231f0dda7]: Commencement: Reg. 11 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-bf01c135f6d86b374cdeb27231f0dda7]: Commencement: Reg. 11 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
-[^key-850db1ffd217c563db28212d76aaf353]: Commencement: Reg. 12 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-850db1ffd217c563db28212d76aaf353]: Commencement: Reg. 12 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
-[^key-b98b8aedfba2406b376b86034776faa4]: Commencement: Reg. 13 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-b98b8aedfba2406b376b86034776faa4]: Commencement: Reg. 13 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
-[^key-8a759396b75f8bd3cdc6f6f4d05f7c0f]: Commencement: Reg. 14 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-8a759396b75f8bd3cdc6f6f4d05f7c0f]: Commencement: Reg. 14 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
-[^key-94bb1680e6230f5b808d25728ff086c8]: Commencement: Reg. 15 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-94bb1680e6230f5b808d25728ff086c8]: Commencement: Reg. 15 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
-[^key-f338b37175286b612f01d98b98642660]: Commencement: Reg. 16 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-f338b37175286b612f01d98b98642660]: Commencement: Reg. 16 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
-[^key-9e698126f112aae7a9435830cc13f31f]: Commencement: Reg. 17 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-9e698126f112aae7a9435830cc13f31f]: Commencement: Reg. 17 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
-[^key-08db28e69b21683689540c0e2575fbd0]: Commencement: Reg. 18 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-08db28e69b21683689540c0e2575fbd0]: Commencement: Reg. 18 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
-[^key-2197048484659928dbeadf30ab4f6af1]: Commencement: Reg. 19 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-2197048484659928dbeadf30ab4f6af1]: Commencement: Reg. 19 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
-[^key-c20f858ce6e7386621c453c2e51a6a13]: Commencement: Reg. 20 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-c20f858ce6e7386621c453c2e51a6a13]: Commencement: Reg. 20 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
-[^key-b1a53c2fc5f9aab2f73e806996c0b8a9]: Commencement: Reg. 21 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-b1a53c2fc5f9aab2f73e806996c0b8a9]: Commencement: Reg. 21 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
-[^key-2c18383fb152f6e353697b15c42275a8]: Commencement: Reg. 22 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-2c18383fb152f6e353697b15c42275a8]: Commencement: Reg. 22 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
-[^key-69b303efd3abb6c5fa7d59dcff6e55a8]: Commencement: Reg. 23 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-69b303efd3abb6c5fa7d59dcff6e55a8]: Commencement: Reg. 23 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
-[^key-ba8f2af03f6c947709b08b3d359885d2]: Commencement: Reg. 24 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-ba8f2af03f6c947709b08b3d359885d2]: Commencement: Reg. 24 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
 [^f00010]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8). Section 69 was amended by Section 2 of the Social Security (Overpayments) Act [1996 (c. 51)](https://www.legislation.gov.uk/ukpga/1996/51) and Article 31 of, and paragraph 31 of Schedule 2 to the Job Seekers (Northern Ireland) Order 1995 \[S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)\]. Section 72 was amended by paragraph 13 of the Job Seekers (Northern Ireland) Order 1995
 
-[^key-03125800b4b1cadd956b1a6ab79e5973]: Commencement: Reg. 25 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-03125800b4b1cadd956b1a6ab79e5973]: Commencement: Reg. 25 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
-[^key-86f12eba84a79a3cb8e85df201c5b6ae]: Commencement: Reg. 26 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-86f12eba84a79a3cb8e85df201c5b6ae]: Commencement: Reg. 26 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
-[^key-50e4c6b3345461020b02c5eca1a2c1f3]: Commencement: Reg. 27 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-50e4c6b3345461020b02c5eca1a2c1f3]: Commencement: Reg. 27 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
-[^key-35466e75f6faee64f96cc0527b538253]: Commencement: Reg. 28 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-35466e75f6faee64f96cc0527b538253]: Commencement: Reg. 28 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
-[^key-07c81c328f88ab910d9a839e3790917a]: Commencement: Reg. 29 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-07c81c328f88ab910d9a839e3790917a]: Commencement: Reg. 29 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
-[^key-4338624ad20315b0254534604014548c]: Commencement: Reg. 30 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-4338624ad20315b0254534604014548c]: Commencement: Reg. 30 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
-[^key-584589e178eaead1d826ae123094cc95]: Commencement: Reg. 31 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-584589e178eaead1d826ae123094cc95]: Commencement: Reg. 31 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
-[^key-72e9d04db5a969c81553099aabab3287]: Commencement: Reg. 32 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-72e9d04db5a969c81553099aabab3287]: Commencement: Reg. 32 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
-[^key-5aff0ff4196557ec91b876406eae8f55]: Commencement: Reg. 33 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-5aff0ff4196557ec91b876406eae8f55]: Commencement: Reg. 33 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
 [^f00011]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
 
 [^f00012]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465)
 
-[^key-9066957d24a856f95716e04f0b1416a0]: Commencement: Sch. in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
+[^c-9066957d24a856f95716e04f0b1416a0]: Commencement: Sch. in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/225/regulation/1)
 
 [^f00013]: Footnote: S.I. [1982/1082 (N.I. 14)](https://www.legislation.gov.uk/nisi/1982/1082); Article 6 was amended by section 82 of, and Parts II and III of Schedule 9 to, the Social Security Act [1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50); Articles 77 and 83 of, and paragraph 76 of Schedule 9 to, the Social Security (Northern Ireland) Order 1986 \[S.I. [1986/1888 (N.I. 18)](https://www.legislation.gov.uk/nisi/1986/1888)\]; Article 5 of the Statutory Sick Pay (Northern Ireland) Order 1991 \[S.I. [1991/765 (N.I. 9)](https://www.legislation.gov.uk/nisi/1991/765)\]; section 4 of, and paragraph 26 of Schedule 2 to, the Social Security (Consequential Provisions) (Northern Ireland) Act [1992 (c. 9)](https://www.legislation.gov.uk/ukpga/1992/9) and section 184 of, and paragraph 19 of Schedule 7 to the Pension Schemes (Northern Ireland) Act [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 

@@ -34,7 +34,7 @@ This Statutory Instrument has been printed to correct errors in [SI 2005/895](ht
 
 ENVIRONMENTAL PROTECTION, ENGLAND
 
-The List of Wastes (England) (Amendment) Regulations 2005 (revoked)[^key-ddadee131fde935b777b784951c78938]
+The List of Wastes (England) (Amendment) Regulations 2005 (revoked)[^c-ddadee131fde935b777b784951c78938]
 
 Made
 
@@ -48,30 +48,30 @@ Coming into force
 
 15th July 2005
 
-[^key-ddadee131fde935b777b784951c78938]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ddadee131fde935b777b784951c78938]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-ddadee131fde935b777b784951c78938]
+## 1. Citation, commencement and application[^c-ddadee131fde935b777b784951c78938]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the List of Wastes (England) Regulations 2005[^key-ddadee131fde935b777b784951c78938]
+## 2. Amendment of the List of Wastes (England) Regulations 2005[^c-ddadee131fde935b777b784951c78938]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ddadee131fde935b777b784951c78938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ddadee131fde935b777b784951c78938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ddadee131fde935b777b784951c78938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ddadee131fde935b777b784951c78938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-ddadee131fde935b777b784951c78938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ddadee131fde935b777b784951c78938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ddadee131fde935b777b784951c78938]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ddadee131fde935b777b784951c78938]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ddadee131fde935b777b784951c78938]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ddadee131fde935b777b784951c78938]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ddadee131fde935b777b784951c78938]: Textual amendment: Regulations revoked (1.7.2015) by [The Hazardous Waste (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1360)](https://www.legislation.gov.uk/uksi/2015/1360), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1360/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2015/1360/regulation/10/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1360/schedule/2))
+[^c-ddadee131fde935b777b784951c78938]: Textual amendment: Regulations revoked (1.7.2015) by [The Hazardous Waste (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1360)](https://www.legislation.gov.uk/uksi/2015/1360), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1360/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2015/1360/regulation/10/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1360/schedule/2))

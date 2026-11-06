@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Notification requirements in relation to citrus fruits[^key-d0a3bb7fba36c42888912416c8b89654]
+## 25. Notification requirements in relation to citrus fruits[^c-d0a3bb7fba36c42888912416c8b89654]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0a3bb7fba36c42888912416c8b89654]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/ssi/2019/421/regulation/25) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [18(2)](https://www.legislation.gov.uk/ssi/2020/466/regulation/18/2) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-d0a3bb7fba36c42888912416c8b89654]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/ssi/2019/421/regulation/25) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [18(2)](https://www.legislation.gov.uk/ssi/2020/466/regulation/18/2) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))

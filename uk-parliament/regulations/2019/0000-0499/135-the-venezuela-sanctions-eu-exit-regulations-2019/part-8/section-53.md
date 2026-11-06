@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Jurisdiction to try offences[^key-e8a3348a8fab7f01c2419ff198a7e069]
+## 53. Jurisdiction to try offences[^c-e8a3348a8fab7f01c2419ff198a7e069]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) proceedings for the offence may be taken at any place in the United Kingdom, and
 - (b) the offence may for all incidental purposes be treated as having been committed at any such place.
 
-(2) Where an offence under these Regulations is committed outside the United Kingdom—[^key-1dc47c623c09663a20504b35940bd144]
+(2) Where an offence under these Regulations is committed outside the United Kingdom—[^c-1dc47c623c09663a20504b35940bd144]
 
 - (a) proceedings for the offence may be taken at any place in the United Kingdom, and
 - (b) the offence may for all incidental purposes be treated as having been committed at any such place.
@@ -39,8 +39,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e8a3348a8fab7f01c2419ff198a7e069]: Commencement: Reg. 53 in force at 31.12.2020 on IP completion day by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e8a3348a8fab7f01c2419ff198a7e069]: Commencement: Reg. 53 in force at 31.12.2020 on IP completion day by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1dc47c623c09663a20504b35940bd144]: Textual amendment: Words in [reg. 53(2)](https://www.legislation.gov.uk/uksi/2019/135/regulation/53/2) substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [3(11)](https://www.legislation.gov.uk/uksi/2020/590/regulation/3/11); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)
+[^c-1dc47c623c09663a20504b35940bd144]: Textual amendment: Words in [reg. 53(2)](https://www.legislation.gov.uk/uksi/2019/135/regulation/53/2) substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [3(11)](https://www.legislation.gov.uk/uksi/2020/590/regulation/3/11); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)
 
 [^c23543081]: Marginal citation: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46).

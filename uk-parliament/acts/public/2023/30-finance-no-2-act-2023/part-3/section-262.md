@@ -22,10 +22,10 @@ summary: ''
 
 (1) Where the Treasury consider it necessary for the purpose of ensuring consistency with the Pillar Two rules, the Treasury may by regulations—
 
-- (a) make further provision about the application of provisions of this Part , Part 4 or any of Schedules 14 to 16A and 18[^key-63e5462f3a69b86f00573f672390c3c7], or
-- (b) amend this Part , Part 4 or any of Schedules 14 to 18[^key-fb0d6910c36f4d96af772647bbd820c8].
+- (a) make further provision about the application of provisions of this Part , Part 4 or any of Schedules 14 to 16A and 18[^c-63e5462f3a69b86f00573f672390c3c7], or
+- (b) amend this Part , Part 4 or any of Schedules 14 to 18[^c-fb0d6910c36f4d96af772647bbd820c8].
 
-(1A)[^key-42a4c3aae46161df8cdb378075ac0f55] The provision that may be made by regulations under subsection (1) includes provision designed to secure the effective implementation of the Pillar Two rules including—
+(1A)[^c-42a4c3aae46161df8cdb378075ac0f55] The provision that may be made by regulations under subsection (1) includes provision designed to secure the effective implementation of the Pillar Two rules including—
 
 - (a) provision to ensure consistency with commentaries or guidance published by the OECD that has effect from a time before the commentary or guidance was published;
 - (b) provision that the Treasury consider necessary to secure the effective operation of multinational top-up tax or domestic top-up tax (see Part 4) where—
@@ -55,8 +55,8 @@ summary: ''
 
 ## Annotations
 
-[^key-63e5462f3a69b86f00573f672390c3c7]: Textual amendment: Words in s. 262(1)(a) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 47(1)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/47/1/a)
+[^c-63e5462f3a69b86f00573f672390c3c7]: Textual amendment: Words in s. 262(1)(a) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 47(1)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/47/1/a)
 
-[^key-fb0d6910c36f4d96af772647bbd820c8]: Textual amendment: Words in s. 262(1)(b) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 47(1)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/47/1/b)
+[^c-fb0d6910c36f4d96af772647bbd820c8]: Textual amendment: Words in s. 262(1)(b) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 47(1)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/47/1/b)
 
-[^key-42a4c3aae46161df8cdb378075ac0f55]: Textual amendment: [S. 262(1A)-(1D)](https://www.legislation.gov.uk/ukpga/2023/30/section/262/1A) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 36](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/36)
+[^c-42a4c3aae46161df8cdb378075ac0f55]: Textual amendment: [S. 262(1A)-(1D)](https://www.legislation.gov.uk/ukpga/2023/30/section/262/1A) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 36](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/36)

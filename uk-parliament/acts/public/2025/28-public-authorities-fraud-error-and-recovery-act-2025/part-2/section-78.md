@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 78. Eligibility verification[^key-c7a24e4ae35a94dba5e74c9c32d074e6][^key-72ae85863a19bbe294671e0f6169e8ac]
+## 78. Eligibility verification[^c-c7a24e4ae35a94dba5e74c9c32d074e6][^c-72ae85863a19bbe294671e0f6169e8ac]
 
 *Extent: E+W+S*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c7a24e4ae35a94dba5e74c9c32d074e6]: Commencement: S. 78 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
+[^c-c7a24e4ae35a94dba5e74c9c32d074e6]: Commencement: S. 78 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
 
-[^key-72ae85863a19bbe294671e0f6169e8ac]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2025/28/section/78) in force at 2.2.2026 in so far as not already in force by [S.I. 2025/1265](https://www.legislation.gov.uk/uksi/2025/1265), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/1265/regulation/2/2/a)
+[^c-72ae85863a19bbe294671e0f6169e8ac]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2025/28/section/78) in force at 2.2.2026 in so far as not already in force by [S.I. 2025/1265](https://www.legislation.gov.uk/uksi/2025/1265), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/1265/regulation/2/2/a)

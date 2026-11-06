@@ -22,8 +22,8 @@ summary: ''
 
 (1) Any of the persons mentioned in subsection (2) may make an objection to the grant of an application for an operator’s licence on the ground—
 
-- (a) that any of the requirements of sections 13A to 13D[^key-41c4ce909d2e9c54283715aa3d66c3d9] are not satisfied in the case of the application; or
-- (b) in the case of a heavy goods vehicle licence,[^key-52c5c14b5ef5ca6687027586a51d716f] that any place in the traffic area concerned[^key-4850e958367e6fae268f53ff86a82900] which, if the licence is issued, will be an operating centre of the holder of the licence will be unsuitable on environmental grounds for use as such.
+- (a) that any of the requirements of sections 13A to 13D[^c-41c4ce909d2e9c54283715aa3d66c3d9] are not satisfied in the case of the application; or
+- (b) in the case of a heavy goods vehicle licence,[^c-52c5c14b5ef5ca6687027586a51d716f] that any place in the traffic area concerned[^c-4850e958367e6fae268f53ff86a82900] which, if the licence is issued, will be an operating centre of the holder of the licence will be unsuitable on environmental grounds for use as such.
 
 (2) The persons who may make such an objection are—
 
@@ -37,7 +37,7 @@ summary: ''
 - (a) persons holding operators’ licences, or
 - (b) employees of any such persons.
 
-(4) Where an application for a heavy goods vehicle[^key-c7c2aaf70951b9c23163b8dcac90aad7] licence is made, any person who is the owner or occupier of land in the vicinity of any place in the traffic area concerned[^key-4ffe058685580ef2cf52ef2cb30ae573] which, if the licence is issued, will be an operating centre of the holder of the licence may make representations against the grant of the application on the ground that that place will be unsuitable on environmental grounds for use as such.
+(4) Where an application for a heavy goods vehicle[^c-c7c2aaf70951b9c23163b8dcac90aad7] licence is made, any person who is the owner or occupier of land in the vicinity of any place in the traffic area concerned[^c-4ffe058685580ef2cf52ef2cb30ae573] which, if the licence is issued, will be an operating centre of the holder of the licence may make representations against the grant of the application on the ground that that place will be unsuitable on environmental grounds for use as such.
 
 (5) A person may not make representations under subsection (4) unless any adverse effects on environmental conditions arising from the use of the place in question as an operating centre of the holder of the licence would be capable of prejudicially affecting the use or enjoyment of the land mentioned in that subsection.
 
@@ -51,7 +51,7 @@ summary: ''
 - (a) within the prescribed time after the making of the application to which they relate; and
 - (b) in the prescribed manner.
 
-(8) Where a traffic commissioner[^key-9719a26b1783519889e96d0aceab21d3] considers there to be exceptional circumstances that justify his doing so, he may direct that an objection or representations be treated for the purposes of this Act as duly made under this section, notwithstanding that the objection was not, or the representations were not, made within the prescribed time or in the prescribed manner.
+(8) Where a traffic commissioner[^c-9719a26b1783519889e96d0aceab21d3] considers there to be exceptional circumstances that justify his doing so, he may direct that an objection or representations be treated for the purposes of this Act as duly made under this section, notwithstanding that the objection was not, or the representations were not, made within the prescribed time or in the prescribed manner.
 
 (9) Any objection under subsection (1) shall contain—
 
@@ -60,10 +60,10 @@ summary: ''
 
 (10) Any representations under subsection (4) shall contain particulars of any matters alleged by the person making the representations to be relevant to the issue to which they relate.
 
-(11) In subsection (1) the reference to “**the requirements of sections 13A to 13D[^key-3368340d52a969b73eec6dd499249af1]**” is a reference—
+(11) In subsection (1) the reference to “**the requirements of sections 13A to 13D[^c-3368340d52a969b73eec6dd499249af1]**” is a reference—
 
-- (a) in the case of an application for a standard licence, to the requirements of sections 13A, 13C and 13D[^key-645eddeccdbf6b0a2e184a321942a3b6]; and
-- (b) in the case of an application for a restricted licence, to the requirements of sections 13B, 13C and 13D[^key-dcfd278c43095e43f0582bbfc7c2fc3a].
+- (a) in the case of an application for a standard licence, to the requirements of sections 13A, 13C and 13D[^c-645eddeccdbf6b0a2e184a321942a3b6]; and
+- (b) in the case of an application for a restricted licence, to the requirements of sections 13B, 13C and 13D[^c-dcfd278c43095e43f0582bbfc7c2fc3a].
 
 (12) In this section—
 
@@ -76,27 +76,27 @@ summary: ''
   - (b) in Scotland, the planning authority for any area for the purpose of determining applications for planning permission under Part III of the [^c10974691]Town and Country Planning (Scotland) Act 1997[^c10974701] (general planning control); and
 - “**trade union**”has the same meaning as in the [^c10974711]Trade Union and Labour Relations (Consolidation) Act 1992;
 
-[^key-0df0199556fae156cbfb8b80bee0801d]....
+[^c-0df0199556fae156cbfb8b80bee0801d]....
 
 ## Annotations
 
-[^key-41c4ce909d2e9c54283715aa3d66c3d9]: Textual amendment: Words in s. 12(1)(a) substituted (4.12.2011) by [The Road Transport Operator Regulations 2011 (S.I. 2011/2632)](https://www.legislation.gov.uk/uksi/2011/2632), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/4/2) (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/part/2))
+[^c-41c4ce909d2e9c54283715aa3d66c3d9]: Textual amendment: Words in s. 12(1)(a) substituted (4.12.2011) by [The Road Transport Operator Regulations 2011 (S.I. 2011/2632)](https://www.legislation.gov.uk/uksi/2011/2632), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/4/2) (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/part/2))
 
-[^key-52c5c14b5ef5ca6687027586a51d716f]: Textual amendment: Words in [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/1995/23/section/12/1/b) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [30(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/30/1)
+[^c-52c5c14b5ef5ca6687027586a51d716f]: Textual amendment: Words in [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/1995/23/section/12/1/b) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [30(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/30/1)
 
-[^key-4850e958367e6fae268f53ff86a82900]: Textual amendment: Words in s. 12(1)(b) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-4850e958367e6fae268f53ff86a82900]: Textual amendment: Words in s. 12(1)(b) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
 
-[^key-c7c2aaf70951b9c23163b8dcac90aad7]: Textual amendment: Words in [s. 12(4)](https://www.legislation.gov.uk/ukpga/1995/23/section/12/4) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [30(2)](https://www.legislation.gov.uk/uksi/2022/293/regulation/30/2)
+[^c-c7c2aaf70951b9c23163b8dcac90aad7]: Textual amendment: Words in [s. 12(4)](https://www.legislation.gov.uk/ukpga/1995/23/section/12/4) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [30(2)](https://www.legislation.gov.uk/uksi/2022/293/regulation/30/2)
 
-[^key-4ffe058685580ef2cf52ef2cb30ae573]: Textual amendment: Words in s. 12(4) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-4ffe058685580ef2cf52ef2cb30ae573]: Textual amendment: Words in s. 12(4) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
 
-[^key-9719a26b1783519889e96d0aceab21d3]: Textual amendment: Words in s. 12(8) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-9719a26b1783519889e96d0aceab21d3]: Textual amendment: Words in s. 12(8) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
 
-[^key-3368340d52a969b73eec6dd499249af1]: Textual amendment: Words in s. 12(11) substituted (4.12.2011) by [The Road Transport Operator Regulations 2011 (S.I. 2011/2632)](https://www.legislation.gov.uk/uksi/2011/2632), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1), [Sch. 2 para. 4(3)(a)](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/4/3/a) (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/part/2))
+[^c-3368340d52a969b73eec6dd499249af1]: Textual amendment: Words in s. 12(11) substituted (4.12.2011) by [The Road Transport Operator Regulations 2011 (S.I. 2011/2632)](https://www.legislation.gov.uk/uksi/2011/2632), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1), [Sch. 2 para. 4(3)(a)](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/4/3/a) (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/part/2))
 
-[^key-645eddeccdbf6b0a2e184a321942a3b6]: Textual amendment: Words in s. 12(11)(a) substituted (4.12.2011) by [The Road Transport Operator Regulations 2011 (S.I. 2011/2632)](https://www.legislation.gov.uk/uksi/2011/2632), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1), [Sch. 2 para. 4(3)(b)](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/4/3/b) (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/part/2))
+[^c-645eddeccdbf6b0a2e184a321942a3b6]: Textual amendment: Words in s. 12(11)(a) substituted (4.12.2011) by [The Road Transport Operator Regulations 2011 (S.I. 2011/2632)](https://www.legislation.gov.uk/uksi/2011/2632), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1), [Sch. 2 para. 4(3)(b)](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/4/3/b) (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/part/2))
 
-[^key-dcfd278c43095e43f0582bbfc7c2fc3a]: Textual amendment: Words in s. 12(11)(b) substituted (4.12.2011) by [The Road Transport Operator Regulations 2011 (S.I. 2011/2632)](https://www.legislation.gov.uk/uksi/2011/2632), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1), [Sch. 2 para. 4(3)(c)](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/4/3/c) (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/part/2))
+[^c-dcfd278c43095e43f0582bbfc7c2fc3a]: Textual amendment: Words in s. 12(11)(b) substituted (4.12.2011) by [The Road Transport Operator Regulations 2011 (S.I. 2011/2632)](https://www.legislation.gov.uk/uksi/2011/2632), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1), [Sch. 2 para. 4(3)(c)](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/4/3/c) (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/part/2))
 
 [^c10974671]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
 
@@ -108,4 +108,4 @@ summary: ''
 
 [^c10974711]: Marginal citation: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 
-[^key-0df0199556fae156cbfb8b80bee0801d]: Textual amendment: Words in s. 12(12) omitted (3.7.2013) by virtue of [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-0df0199556fae156cbfb8b80bee0801d]: Textual amendment: Words in s. 12(12) omitted (3.7.2013) by virtue of [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))

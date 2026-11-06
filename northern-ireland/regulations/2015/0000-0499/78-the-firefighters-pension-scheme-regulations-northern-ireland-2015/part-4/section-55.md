@@ -33,10 +33,10 @@ summary: ''
 
 (4) For the retirement amount of deferred pension, the deferred member's account must specify—
 
-- (aa)[^key-5337cec8c8b03d53b2b72ca88e0f2888] the early payment reduction (if any);
+- (aa)[^c-5337cec8c8b03d53b2b72ca88e0f2888] the early payment reduction (if any);
 - (a) the commutation amount (if any); and
 - (b) the total allocation amount (if any).
 
 ## Annotations
 
-[^key-5337cec8c8b03d53b2b72ca88e0f2888]: Textual amendment: [Reg. 55(4)(aa)](https://www.legislation.gov.uk/nisr/2015/78/regulation/55/4/aa) inserted (9.1.2025 with effect from 1.4.2015) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) (No. 2) Regulations (Northern Ireland) 2024 (S.R. 2024/218)](https://www.legislation.gov.uk/nisr/2024/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/1)[(2)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/2), [5(3)](https://www.legislation.gov.uk/nisr/2024/218/regulation/5/3)
+[^c-5337cec8c8b03d53b2b72ca88e0f2888]: Textual amendment: [Reg. 55(4)(aa)](https://www.legislation.gov.uk/nisr/2015/78/regulation/55/4/aa) inserted (9.1.2025 with effect from 1.4.2015) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) (No. 2) Regulations (Northern Ireland) 2024 (S.R. 2024/218)](https://www.legislation.gov.uk/nisr/2024/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/1)[(2)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/2), [5(3)](https://www.legislation.gov.uk/nisr/2024/218/regulation/5/3)

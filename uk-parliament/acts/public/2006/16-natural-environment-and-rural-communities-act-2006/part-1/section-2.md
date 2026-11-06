@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. General purpose[^key-6e2cc2bc7b6e230e973613492fbd9063]
+## 2. General purpose[^c-6e2cc2bc7b6e230e973613492fbd9063]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e2cc2bc7b6e230e973613492fbd9063]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2006/16/section/2) in force at 2.5.2006 by [S.I. 2006/1176](https://www.legislation.gov.uk/uksi/2006/1176), [art. 4](https://www.legislation.gov.uk/uksi/2006/1176/article/4)
+[^c-6e2cc2bc7b6e230e973613492fbd9063]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2006/16/section/2) in force at 2.5.2006 by [S.I. 2006/1176](https://www.legislation.gov.uk/uksi/2006/1176), [art. 4](https://www.legislation.gov.uk/uksi/2006/1176/article/4)

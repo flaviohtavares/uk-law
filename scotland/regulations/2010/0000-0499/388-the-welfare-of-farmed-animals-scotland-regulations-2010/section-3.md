@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Animals to which these Regulations apply[^key-4e4e7272b1073be7ee5d89f811c1d3ff]
+## 3. Animals to which these Regulations apply[^c-4e4e7272b1073be7ee5d89f811c1d3ff]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e4e7272b1073be7ee5d89f811c1d3ff]: Commencement: Reg. 3 in force at 5.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/388/regulation/1)
+[^c-4e4e7272b1073be7ee5d89f811c1d3ff]: Commencement: Reg. 3 in force at 5.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/388/regulation/1)

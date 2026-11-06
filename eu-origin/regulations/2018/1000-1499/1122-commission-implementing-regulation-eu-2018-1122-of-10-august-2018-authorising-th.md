@@ -35,22 +35,22 @@ authorising the placing on the market of pyrroloquinoline quinone disodium salt 
 
 (Text with EEA relevance) (revoked)
 
-[^key-c7182b2c8dab406b7613ffb88d315ce2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c7182b2c8dab406b7613ffb88d315ce2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-c7182b2c8dab406b7613ffb88d315ce2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c7182b2c8dab406b7613ffb88d315ce2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c7182b2c8dab406b7613ffb88d315ce2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c7182b2c8dab406b7613ffb88d315ce2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-c7182b2c8dab406b7613ffb88d315ce2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-c7182b2c8dab406b7613ffb88d315ce2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-c7182b2c8dab406b7613ffb88d315ce2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-c7182b2c8dab406b7613ffb88d315ce2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c7182b2c8dab406b7613ffb88d315ce2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c7182b2c8dab406b7613ffb88d315ce2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-c7182b2c8dab406b7613ffb88d315ce2]
+## ANNEX[^c-c7182b2c8dab406b7613ffb88d315ce2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c7182b2c8dab406b7613ffb88d315ce2]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 7 para. 11](https://www.legislation.gov.uk/uksi/2025/361/schedule/7/paragraph/11) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-c7182b2c8dab406b7613ffb88d315ce2]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 7 para. 11](https://www.legislation.gov.uk/uksi/2025/361/schedule/7/paragraph/11) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

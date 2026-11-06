@@ -22,7 +22,7 @@ summary: ''
 
 (1) Regulations may provide that where—
 
-- (a) a person has paid or is liable to pay tax in respect of the disposal of material at a landfill site[^key-a79437b3c629ec1ee3114b1ce35fb549], and
+- (a) a person has paid or is liable to pay tax in respect of the disposal of material at a landfill site[^c-a79437b3c629ec1ee3114b1ce35fb549], and
 - (b) prescribed conditions are fulfilled,
 
 the person shall be entitled to credit of such an amount as is found in accordance with prescribed rules.
@@ -52,4 +52,4 @@ the person shall be entitled to credit of such an amount as is found in accordan
 
 ## Annotations
 
-[^key-a79437b3c629ec1ee3114b1ce35fb549]: Textual amendment: Words in [s. 51(1)(a)](https://www.legislation.gov.uk/ukpga/1996/8/section/51/1/a) inserted (with effect in accordance with s. 42(2), Sch. 12 para. 29(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 12 para. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/12/paragraph/11)
+[^c-a79437b3c629ec1ee3114b1ce35fb549]: Textual amendment: Words in [s. 51(1)(a)](https://www.legislation.gov.uk/ukpga/1996/8/section/51/1/a) inserted (with effect in accordance with s. 42(2), Sch. 12 para. 29(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 12 para. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/12/paragraph/11)

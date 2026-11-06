@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Delegation[^key-756519eb57e51a640781f3ea517887a4][^key-756519eb57e51a640781f3ea517887a4]
+## 5. Delegation[^c-756519eb57e51a640781f3ea517887a4][^c-756519eb57e51a640781f3ea517887a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-756519eb57e51a640781f3ea517887a4]: Commencement: Reg. 5 in force at 18.3.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/2)
+[^c-756519eb57e51a640781f3ea517887a4]: Commencement: Reg. 5 in force at 18.3.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/2)

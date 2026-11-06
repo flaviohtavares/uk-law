@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Grant of authorisation: notification of new providers[^key-91fecdd533a6636775657505f36177f9]
+## 47. Grant of authorisation: notification of new providers[^c-91fecdd533a6636775657505f36177f9]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91fecdd533a6636775657505f36177f9]: Commencement: S. 47 in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/e)
+[^c-91fecdd533a6636775657505f36177f9]: Commencement: S. 47 in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/e)

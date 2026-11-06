@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**6.**[^key-d0a1aa0f11ed23917a5eaab5823bcfca] The National Assistance Act 1948 is amended as follows.
+**6.**[^c-d0a1aa0f11ed23917a5eaab5823bcfca] The National Assistance Act 1948 is amended as follows.
 
 ## Annotations
 
-[^key-d0a1aa0f11ed23917a5eaab5823bcfca]: Commencement: Reg. 6 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-d0a1aa0f11ed23917a5eaab5823bcfca]: Commencement: Reg. 6 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

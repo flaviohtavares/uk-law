@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Postal ballot papers[^key-f43844f8ca2c6f9157faa5609354f7d7]
+## 17. Postal ballot papers[^c-f43844f8ca2c6f9157faa5609354f7d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ together with envelopes for their return complying with the requirements prescri
 
 ## Annotations
 
-[^key-f43844f8ca2c6f9157faa5609354f7d7]: Commencement: Reg. 17 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-f43844f8ca2c6f9157faa5609354f7d7]: Commencement: Reg. 17 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

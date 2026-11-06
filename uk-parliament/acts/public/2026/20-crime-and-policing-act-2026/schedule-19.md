@@ -24,14 +24,14 @@ summary: ''
 
 Section 179
 
-**1.**[^key-34ce267ac5f02057e97086349670fd9a] Chapter 3 of Part 2 of the Police, Crime, Sentencing and Courts Act 2022 (extraction of information from electronic devices) is amended as follows.
+**1.**[^c-34ce267ac5f02057e97086349670fd9a] Chapter 3 of Part 2 of the Police, Crime, Sentencing and Courts Act 2022 (extraction of information from electronic devices) is amended as follows.
 
-**2.**[^key-5db92480d025d897c917d39d0efb7341] In the Chapter heading—
+**2.**[^c-5db92480d025d897c917d39d0efb7341] In the Chapter heading—
 
 - (a) for “information from” substitute “information:”;
 - (b) after “devices” insert “and online accounts”.
 
-**3.**[^key-f0e172b6c1fbb2991bb13122cd435c9b] (1) Section 37 (extraction of information from electronic devices: investigations of crime etc) is amended as follows.
+**3.**[^c-f0e172b6c1fbb2991bb13122cd435c9b] (1) Section 37 (extraction of information from electronic devices: investigations of crime etc) is amended as follows.
 
 (2) In the heading, omit “from electronic devices”.
 
@@ -92,7 +92,7 @@ Section 179
   >   - (a) in relation to an electronic device, means a person who ordinarily uses the device;
   >   - (b) in relation to an online account, means a person who ordinarily uses the account.
 
-**4.**[^key-4b9ccf259cd24ac351ca73b158e77bd0] (1) Section 38 (application of section 37 to children and adults without capacity) is amended as follows.
+**4.**[^c-4b9ccf259cd24ac351ca73b158e77bd0] (1) Section 38 (application of section 37 to children and adults without capacity) is amended as follows.
 
 (2) After subsection (2) insert—
 
@@ -152,7 +152,7 @@ Section 179
 
 .
 
-**5.**[^key-c8ed397b3d2eeba455acff445bd421e5] (1) Section 39 (requirements for voluntary provision and agreement) is amended as follows.
+**5.**[^c-c8ed397b3d2eeba455acff445bd421e5] (1) Section 39 (requirements for voluntary provision and agreement) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -198,7 +198,7 @@ Section 179
 >   - (i) voluntarily provided access to the online account to an authorised person, and
 >   - (ii) agreed to the extraction by the authorised person of information accessible by means of the online account.
 
-**6.**[^key-7e85950eef4f449638f5647aba0a4b12] (1) Section 40 (application of section 37 where user has died etc) is amended as follows.
+**6.**[^c-7e85950eef4f449638f5647aba0a4b12] (1) Section 40 (application of section 37 where user has died etc) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -230,7 +230,7 @@ Section 179
 
 (6) In subsection (5), after “(1)” insert “or (1A)”.
 
-**7.**[^key-071601327b988263b5184ae7fc06b9e2] (1) Section 41 (extraction of information from electronic devices: investigations of death) is amended as follows.
+**7.**[^c-071601327b988263b5184ae7fc06b9e2] (1) Section 41 (extraction of information from electronic devices: investigations of death) is amended as follows.
 
 (2) In the heading, omit “from electronic devices”.
 
@@ -276,12 +276,12 @@ Section 179
 
 (12) In subsection (10), after “(1)” insert “or (1A)”.
 
-**8.**[^key-f777af9151fa690281b0767cc2dc3cca] In section 42 (code of practice about the extraction of information), in subsection (1)—
+**8.**[^c-f777af9151fa690281b0767cc2dc3cca] In section 42 (code of practice about the extraction of information), in subsection (1)—
 
 - (a) after “37(1) and” insert “(1A) and”;
 - (b) after “41(1)” insert “and (1A)”.
 
-**9.**[^key-736dd0de15b1cd70973c5653026b6bb8] (1) Section 44 (authorised persons) is amended as follows.
+**9.**[^c-736dd0de15b1cd70973c5653026b6bb8] (1) Section 44 (authorised persons) is amended as follows.
 
 (2) In subsection (2), for “power in subsection (1)” substitute “powers in subsections (1) and (1A)”.
 
@@ -290,29 +290,29 @@ Section 179
 - (a) for “power” substitute “powers”;
 - (b) after “41(1)” insert “and (1A)”.
 
-**10.**[^key-8a62ae8ece284fc0b4a57baf36457c79] In Schedule 3 (extraction of information from electronic devices: authorised persons)—
+**10.**[^c-8a62ae8ece284fc0b4a57baf36457c79] In Schedule 3 (extraction of information from electronic devices: authorised persons)—
 
 - (a) in the Schedule heading, omit “from electronic devices”;
 - (b) after “**electronic devices**” (in each place) insert “, or the extraction of information accessible by means of online accounts,”.
 
 ## Annotations
 
-[^key-34ce267ac5f02057e97086349670fd9a]: Commencement: Sch. 19 para. 1 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-34ce267ac5f02057e97086349670fd9a]: Commencement: Sch. 19 para. 1 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-5db92480d025d897c917d39d0efb7341]: Commencement: Sch. 19 para. 2 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-5db92480d025d897c917d39d0efb7341]: Commencement: Sch. 19 para. 2 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-f0e172b6c1fbb2991bb13122cd435c9b]: Commencement: Sch. 19 para. 3 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-f0e172b6c1fbb2991bb13122cd435c9b]: Commencement: Sch. 19 para. 3 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-4b9ccf259cd24ac351ca73b158e77bd0]: Commencement: Sch. 19 para. 4 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-4b9ccf259cd24ac351ca73b158e77bd0]: Commencement: Sch. 19 para. 4 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-c8ed397b3d2eeba455acff445bd421e5]: Commencement: Sch. 19 para. 5 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-c8ed397b3d2eeba455acff445bd421e5]: Commencement: Sch. 19 para. 5 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-7e85950eef4f449638f5647aba0a4b12]: Commencement: Sch. 19 para. 6 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-7e85950eef4f449638f5647aba0a4b12]: Commencement: Sch. 19 para. 6 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-071601327b988263b5184ae7fc06b9e2]: Commencement: Sch. 19 para. 7 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-071601327b988263b5184ae7fc06b9e2]: Commencement: Sch. 19 para. 7 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-f777af9151fa690281b0767cc2dc3cca]: Commencement: Sch. 19 para. 8 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-f777af9151fa690281b0767cc2dc3cca]: Commencement: Sch. 19 para. 8 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-736dd0de15b1cd70973c5653026b6bb8]: Commencement: Sch. 19 para. 9 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-736dd0de15b1cd70973c5653026b6bb8]: Commencement: Sch. 19 para. 9 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-8a62ae8ece284fc0b4a57baf36457c79]: Commencement: Sch. 19 para. 10 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-8a62ae8ece284fc0b4a57baf36457c79]: Commencement: Sch. 19 para. 10 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Change of corporate control[^key-7f691091267104438cffabf8830fbe76][^key-db6a924b6c60dc1ce719f4a0f0ef546f][^key-5cf0820e6d7cfcdcf6edc526c9657dfb][^key-e1f6e585bac667309e250f830e864ec8][^key-db6a924b6c60dc1ce719f4a0f0ef546f][^key-e1f6e585bac667309e250f830e864ec8]
+## 102. Change of corporate control[^c-7f691091267104438cffabf8830fbe76][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-5cf0820e6d7cfcdcf6edc526c9657dfb][^c-e1f6e585bac667309e250f830e864ec8][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-e1f6e585bac667309e250f830e864ec8]
 
 *Extent: E+W+S*
 
@@ -31,7 +31,7 @@ summary: ''
 
 - (a) the new controller,
 - (b) his interest in the company, and
-- (c) his interest in any company of which the company is a subsidiary (within the meaning of section 1159 of the Companies Act 2006[^key-7e6d05c973cfa8314dd3526a59165927]).
+- (c) his interest in any company of which the company is a subsidiary (within the meaning of section 1159 of the Companies Act 2006[^c-7e6d05c973cfa8314dd3526a59165927]).
 
 (4) On considering an application under section (2)(b) the Commission shall—
 
@@ -47,12 +47,12 @@ summary: ''
 
 ## Annotations
 
-[^key-7f691091267104438cffabf8830fbe76]: Commencement: S. 102 in force at 1.1.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3272/schedule/1) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))
+[^c-7f691091267104438cffabf8830fbe76]: Commencement: S. 102 in force at 1.1.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3272/schedule/1) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))
 
-[^key-db6a924b6c60dc1ce719f4a0f0ef546f]: Modification: Pt. 5 modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 72](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/72)
+[^c-db6a924b6c60dc1ce719f4a0f0ef546f]: Modification: Pt. 5 modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 72](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/72)
 
-[^key-5cf0820e6d7cfcdcf6edc526c9657dfb]: Modification: Ss. 102 103 excluded (1.1.2007) by [Gambling (Personal Licences) (Modification of Part 5 of the Gambling Act 2005) Regulations 2006 (S.I. 2006/3267)](https://www.legislation.gov.uk/uksi/2006/3267), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/3267/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2006/3267/regulation/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2006/3267/schedule) Table 1
+[^c-5cf0820e6d7cfcdcf6edc526c9657dfb]: Modification: Ss. 102 103 excluded (1.1.2007) by [Gambling (Personal Licences) (Modification of Part 5 of the Gambling Act 2005) Regulations 2006 (S.I. 2006/3267)](https://www.legislation.gov.uk/uksi/2006/3267), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/3267/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2006/3267/regulation/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2006/3267/schedule) Table 1
 
-[^key-e1f6e585bac667309e250f830e864ec8]: Modification: Pt. 5 modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 50](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/50)
+[^c-e1f6e585bac667309e250f830e864ec8]: Modification: Pt. 5 modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 50](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/50)
 
-[^key-7e6d05c973cfa8314dd3526a59165927]: Textual amendment: Words in s. 102(3)(c) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 247](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/247) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-7e6d05c973cfa8314dd3526a59165927]: Textual amendment: Words in s. 102(3)(c) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 247](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/247) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

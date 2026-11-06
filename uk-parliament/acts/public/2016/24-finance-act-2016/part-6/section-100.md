@@ -36,8 +36,8 @@ summary: ''
 - (a) references to “payments of earnings” are to be interpreted as they would be interpreted for the purposes of determining liability to pay secondary Class 1 contributions under the Contributions and Benefits Act;
 - (b) the amount of any earnings is to be calculated in the same manner and on the same basis as for the purpose of calculating the liabilities mentioned in subsection (1)(b).
 
-(6) In this section references to liability to pay secondary Class 1 contributions are to liability to pay secondary Class 1 contributions under Part 1 of the Contributions and Benefits Act (including a case where the amount of a liability to pay a secondary Class 1 contribution is £0)[^key-8413390972a40db4c949900584e4eaea].
+(6) In this section references to liability to pay secondary Class 1 contributions are to liability to pay secondary Class 1 contributions under Part 1 of the Contributions and Benefits Act (including a case where the amount of a liability to pay a secondary Class 1 contribution is £0)[^c-8413390972a40db4c949900584e4eaea].
 
 ## Annotations
 
-[^key-8413390972a40db4c949900584e4eaea]: Textual amendment: Words in [s. 100(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/100/6) substituted (15.3.2022) by [National Insurance Contributions Act 2022 (c. 9)](https://www.legislation.gov.uk/ukpga/2022/9), [s. 9](https://www.legislation.gov.uk/ukpga/2022/9/section/9)
+[^c-8413390972a40db4c949900584e4eaea]: Textual amendment: Words in [s. 100(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/100/6) substituted (15.3.2022) by [National Insurance Contributions Act 2022 (c. 9)](https://www.legislation.gov.uk/ukpga/2022/9), [s. 9](https://www.legislation.gov.uk/ukpga/2022/9/section/9)

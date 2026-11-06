@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Authority to survey and investigate the land[^key-731b29591de1089aae4d9ff0fdf8eeb3]
+## 17. Authority to survey and investigate the land[^c-731b29591de1089aae4d9ff0fdf8eeb3]
 
 *Extent: E+W*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-731b29591de1089aae4d9ff0fdf8eeb3]: Commencement: Art. 17 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-731b29591de1089aae4d9ff0fdf8eeb3]: Commencement: Art. 17 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
 
 [^f00031]: Footnote: Section 13 has been amended by section 139 and Schedules 13 and 23 to the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).

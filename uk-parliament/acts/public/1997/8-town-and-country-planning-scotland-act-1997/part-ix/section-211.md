@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-f19c472000c90a1e5fdd0776c76c759f] In relation to orders under sections 202, 203 and 207, regulations made under this Act may make provision for securing that any proceedings required to be taken for the purposes of the acquisition of land under section 104(1)(b)(i) of the [^c950217]Roads (Scotland) Act 1984 may be taken concurrently with any proceedings required to be taken for the purposes of the order.
+(1)[^c-f19c472000c90a1e5fdd0776c76c759f] In relation to orders under sections 202, 203 and 207, regulations made under this Act may make provision for securing that any proceedings required to be taken for the purposes of the acquisition of land under section 104(1)(b)(i) of the [^c950217]Roads (Scotland) Act 1984 may be taken concurrently with any proceedings required to be taken for the purposes of the order.
 
 (2) In relation to orders under section 206(1)(a) or (b), regulations may make provision for securing—
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f19c472000c90a1e5fdd0776c76c759f]: Modification: S. 211(1) excluded (11.8.2004) by [Stirling-Alloa-Kincardine Railway and Linked Improvements Act 2004 (asp 10)](https://www.legislation.gov.uk/asp/2004/10), [s. 27(4)(b)](https://www.legislation.gov.uk/asp/2004/10/section/27/4/b) (with [s. 33](https://www.legislation.gov.uk/asp/2004/10/section/33))
+[^c-f19c472000c90a1e5fdd0776c76c759f]: Modification: S. 211(1) excluded (11.8.2004) by [Stirling-Alloa-Kincardine Railway and Linked Improvements Act 2004 (asp 10)](https://www.legislation.gov.uk/asp/2004/10), [s. 27(4)(b)](https://www.legislation.gov.uk/asp/2004/10/section/27/4/b) (with [s. 33](https://www.legislation.gov.uk/asp/2004/10/section/33))
 
 [^c950217]: Marginal citation: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).

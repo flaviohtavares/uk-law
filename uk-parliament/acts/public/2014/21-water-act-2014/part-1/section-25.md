@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-7f531656773d47bbf24a7aeffca2b63e] Section 17F of the Water Industry Act 1991 (procedure for granting water supply licences) is amended as follows.
+(1)[^c-7f531656773d47bbf24a7aeffca2b63e] Section 17F of the Water Industry Act 1991 (procedure for granting water supply licences) is amended as follows.
 
-(2)[^key-7f531656773d47bbf24a7aeffca2b63e] For subsection (1) (application to be made as set out in regulations) there is substituted—
+(2)[^c-7f531656773d47bbf24a7aeffca2b63e] For subsection (1) (application to be made as set out in regulations) there is substituted—
 
 > (1) The Authority must determine for each type of relevant application that may be made—
 >
@@ -48,10 +48,10 @@ summary: ''
 
 (3) Subsections (2), (3) and (5) (requirement for applicant to publish notice of an application made) are repealed.
 
-(4)[^key-7f531656773d47bbf24a7aeffca2b63e] In subsection (4) (procedure where the Secretary of State or the Authority proposes to refuse an application), for “the application”, in the first place it occurs, there is substituted “ a relevant application ”.
+(4)[^c-7f531656773d47bbf24a7aeffca2b63e] In subsection (4) (procedure where the Secretary of State or the Authority proposes to refuse an application), for “the application”, in the first place it occurs, there is substituted “ a relevant application ”.
 
 ## Annotations
 
 [^c2218950]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2014/21/section/25) not in force at Royal Assent; [s. 25(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/25/3) in force at 14.7.2014, see [s. 94(2)(f)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/f)
 
-[^key-7f531656773d47bbf24a7aeffca2b63e]: Commencement: [S. 25(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/25/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/25/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/21/section/25/4) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(f)](https://www.legislation.gov.uk/uksi/2016/465/article/2/f) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-7f531656773d47bbf24a7aeffca2b63e]: Commencement: [S. 25(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/25/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/25/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/21/section/25/4) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(f)](https://www.legislation.gov.uk/uksi/2016/465/article/2/f) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))

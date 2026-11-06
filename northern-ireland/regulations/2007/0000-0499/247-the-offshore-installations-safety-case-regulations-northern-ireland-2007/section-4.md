@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Application within the territorial sea[^key-71b528f561cf56e78045d577b637e28d]
+## 4. Application within the territorial sea[^c-71b528f561cf56e78045d577b637e28d]
 
 *Extent: N.I.*
 
-(1)[^key-9e7ea3df6e0581399d77abf0b358cbaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-9e7ea3df6e0581399d77abf0b358cbaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) These Regulations shall not apply to wells to which the Borehole Sites and Operations Regulations (Northern Ireland) 1995[^f00015] apply.
 
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-71b528f561cf56e78045d577b637e28d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/247/regulation/4) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)
+[^c-71b528f561cf56e78045d577b637e28d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/247/regulation/4) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)
 
-[^key-9e7ea3df6e0581399d77abf0b358cbaa]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/nisr/2007/247/regulation/4/1) omitted (19.12.2016) by virtue of [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations (Northern Ireland) 2016 (S.R. 2016/406)](https://www.legislation.gov.uk/nisr/2016/406), [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1), [Sch. 14 para. 38](https://www.legislation.gov.uk/nisr/2016/406/schedule/14/paragraph/38) (with [reg. 4(2)](https://www.legislation.gov.uk/nisr/2016/406/regulation/4/2), [Sch. 15](https://www.legislation.gov.uk/nisr/2016/406/schedule/15))
+[^c-9e7ea3df6e0581399d77abf0b358cbaa]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/nisr/2007/247/regulation/4/1) omitted (19.12.2016) by virtue of [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations (Northern Ireland) 2016 (S.R. 2016/406)](https://www.legislation.gov.uk/nisr/2016/406), [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1), [Sch. 14 para. 38](https://www.legislation.gov.uk/nisr/2016/406/schedule/14/paragraph/38) (with [reg. 4(2)](https://www.legislation.gov.uk/nisr/2016/406/regulation/4/2), [Sch. 15](https://www.legislation.gov.uk/nisr/2016/406/schedule/15))
 
 [^f00015]: Footnote: [S.R. 1995 No. 491](https://www.legislation.gov.uk/nisr/1995/491), as amended by [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150) and [S.R. 2000 No. 388](https://www.legislation.gov.uk/nisr/2000/388)

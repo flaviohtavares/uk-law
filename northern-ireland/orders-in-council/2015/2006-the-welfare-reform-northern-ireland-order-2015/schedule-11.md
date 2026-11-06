@@ -22,11 +22,11 @@ summary: ''
 
 Article 107(6)
 
-### 1. The Child Support (Northern Ireland) Order 1991 (NI 23)[^key-16db2178c245f4baedde7880d6bdc121]
+### 1. The Child Support (Northern Ireland) Order 1991 (NI 23)[^c-16db2178c245f4baedde7880d6bdc121]
 
 The Child Support (Northern Ireland) Order 1991 is amended as follows.
 
-**2.**[^key-4df861a9108de069baf360cf03554104] In Article 22 (appeals to appeal tribunals), as substituted by section 10 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (and subsequently amended), after paragraph (2) insert—
+**2.**[^c-4df861a9108de069baf360cf03554104] In Article 22 (appeals to appeal tribunals), as substituted by section 10 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (and subsequently amended), after paragraph (2) insert—
 
 > (2A) Regulations may provide that, in such cases or circumstances as may be prescribed, there is a right of appeal against a decision mentioned in paragraph (1)(a) or (b) only if the Department has considered whether to revise the decision under Article 18.
 >
@@ -38,7 +38,7 @@ The Child Support (Northern Ireland) Order 1991 is amended as follows.
 >
 > (2C) Regulations may make provision that, where in accordance with regulations under paragraph (2A) there is no right of appeal against a decision, any purported appeal may be treated as an application for revision under Article 18.
 
-**3.**[^key-244d78a66cd8c81dbac7f1f50592354b] In Article 22 (appeals to appeal tribunals), as it has effect apart from section 10 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000, after paragraph (3) insert—
+**3.**[^c-244d78a66cd8c81dbac7f1f50592354b] In Article 22 (appeals to appeal tribunals), as it has effect apart from section 10 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000, after paragraph (3) insert—
 
 > (3A) Regulations may provide that, in such cases or circumstances as may be prescribed, there is a right of appeal against a decision only if the Department has considered whether to revise the decision under Article 18.
 >
@@ -50,20 +50,20 @@ The Child Support (Northern Ireland) Order 1991 is amended as follows.
 >
 > (3C) Regulations may make provision that, where in accordance with regulations under paragraph (3A) there is no right of appeal against a decision, any purported appeal may be treated as an application for revision under Article 18.
 
-**4.**[^key-1d895eaa8d9d2a2304c65d058868f530] In Article 47A (pilot schemes) (as inserted by section 32 of the Child Maintenance Act (Northern Ireland) 2008) at the end insert—
+**4.**[^c-1d895eaa8d9d2a2304c65d058868f530] In Article 47A (pilot schemes) (as inserted by section 32 of the Child Maintenance Act (Northern Ireland) 2008) at the end insert—
 
 > (6) This Article does not apply to regulations under—
 >
 > - (a) paragraph (2A) of Article 22 as substituted by section 10 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000;
 > - (b) paragraph (3A) of Article 22 as it has effect apart from section 10 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000.
 
-**5.**[^key-e88c78f1ef41102e6dc5ecfb782a4b9b] In Article 48 (regulations and orders), in paragraph (2)(a), after “Article 14(5)(b)),” insert “ 22(2A), 22(3A) ”.
+**5.**[^c-e88c78f1ef41102e6dc5ecfb782a4b9b] In Article 48 (regulations and orders), in paragraph (2)(a), after “Article 14(5)(b)),” insert “ 22(2A), 22(3A) ”.
 
-### 6. The Social Security (Recovery of Benefits) (Northern Ireland) Order 1997 (NI 12)[^key-9cf4ac9b9460e14ec2660d5aeed89f6c]
+### 6. The Social Security (Recovery of Benefits) (Northern Ireland) Order 1997 (NI 12)[^c-9cf4ac9b9460e14ec2660d5aeed89f6c]
 
 The Social Security (Recovery of Benefits) (Northern Ireland) Order 1997 is amended as follows.
 
-**7.**[^key-36097d34c6735a43806dc32147431052] (1) Article 13 (appeals against certificates) is amended as follows.
+**7.**[^c-36097d34c6735a43806dc32147431052] (1) Article 13 (appeals against certificates) is amended as follows.
 
 (2) After paragraph (2) insert—
 
@@ -77,7 +77,7 @@ The Social Security (Recovery of Benefits) (Northern Ireland) Order 1997 is amen
 
 (3) In paragraph (5)(c) after “any such appeal” insert “ (or, where in accordance with regulations under paragraph (2A) there is no right of appeal, any purported appeal) ”.
 
-**8.**[^key-9694afd5fb5664b836da4381885f66ef] (1) Article 28 (regulations and orders) is amended as follows.
+**8.**[^c-9694afd5fb5664b836da4381885f66ef] (1) Article 28 (regulations and orders) is amended as follows.
 
 (2) In paragraph (1) after “regulations made under Article” insert “ 13(2A) or ”.
 
@@ -115,13 +115,13 @@ The Child Support, Pensions and Social Security Act (Northern Ireland) 2000 is a
 
 **11.** In paragraph 20(4) of Schedule 7 (regulations subject to confirmatory procedure) for “or (4)” substitute “ , (4) or (5A) ”.
 
-### 12. The Mesothelioma, etc., Act (Northern Ireland) 2008 (c. 9)[^key-8d04d9fd93fde1741a0d0a05542c3414]
+### 12. The Mesothelioma, etc., Act (Northern Ireland) 2008 (c. 9)[^c-8d04d9fd93fde1741a0d0a05542c3414]
 
 The Mesothelioma, etc., Act (Northern Ireland) 2008 is amended as follows.
 
-**13.**[^key-371d130f5a17ee828b99db4a31d94fe2] In section 4(2) (regulations regarding reconsideration) after “and” insert “ may prescribe ”.
+**13.**[^c-371d130f5a17ee828b99db4a31d94fe2] In section 4(2) (regulations regarding reconsideration) after “and” insert “ may prescribe ”.
 
-**14.**[^key-a20607413d0dd1718f15565be8d862ff] (1) Section 5 (appeals to appeal tribunal) is amended as follows.
+**14.**[^c-a20607413d0dd1718f15565be8d862ff] (1) Section 5 (appeals to appeal tribunal) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -135,30 +135,30 @@ The Mesothelioma, etc., Act (Northern Ireland) 2008 is amended as follows.
 
 (3) In subsection (4)(c) after “an appeal under subsection (1)(a)” insert “ (or, where in accordance with regulations under subsection (1A) there is no right of appeal, any purported appeal) ”.
 
-**15.**[^key-661f190b9c3f82e95e27c3e9cb45336f] In section 10(2) (Assembly control) after “section 1” insert “ or 5(1A) ”.
+**15.**[^c-661f190b9c3f82e95e27c3e9cb45336f] In section 10(2) (Assembly control) after “section 1” insert “ or 5(1A) ”.
 
 ## Annotations
 
-[^key-16db2178c245f4baedde7880d6bdc121]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/1) in operation at 17.3.2016 by [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
+[^c-16db2178c245f4baedde7880d6bdc121]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/1) in operation at 17.3.2016 by [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
 
-[^key-4df861a9108de069baf360cf03554104]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/2) in operation at 17.3.2016 by [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
+[^c-4df861a9108de069baf360cf03554104]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/2) in operation at 17.3.2016 by [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
 
-[^key-244d78a66cd8c81dbac7f1f50592354b]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/3) in operation at 17.3.2016 by [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
+[^c-244d78a66cd8c81dbac7f1f50592354b]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/3) in operation at 17.3.2016 by [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
 
-[^key-1d895eaa8d9d2a2304c65d058868f530]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/4) in operation at 17.3.2016 by [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
+[^c-1d895eaa8d9d2a2304c65d058868f530]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/4) in operation at 17.3.2016 by [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
 
-[^key-e88c78f1ef41102e6dc5ecfb782a4b9b]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/5) in operation at 17.3.2016 by [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
+[^c-e88c78f1ef41102e6dc5ecfb782a4b9b]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/5) in operation at 17.3.2016 by [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
 
-[^key-9cf4ac9b9460e14ec2660d5aeed89f6c]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/6) in operation at 17.3.2016 by [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
+[^c-9cf4ac9b9460e14ec2660d5aeed89f6c]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/6) in operation at 17.3.2016 by [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
 
-[^key-36097d34c6735a43806dc32147431052]: Commencement: [Sch. 11 para. 7](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/7) in operation at 17.3.2016 by [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
+[^c-36097d34c6735a43806dc32147431052]: Commencement: [Sch. 11 para. 7](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/7) in operation at 17.3.2016 by [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
 
-[^key-9694afd5fb5664b836da4381885f66ef]: Commencement: [Sch. 11 para. 8](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/8) in operation at 17.3.2016 by [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
+[^c-9694afd5fb5664b836da4381885f66ef]: Commencement: [Sch. 11 para. 8](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/8) in operation at 17.3.2016 by [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
 
-[^key-8d04d9fd93fde1741a0d0a05542c3414]: Commencement: [Sch. 11 para. 12](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/12) in operation at 17.3.2016 by [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
+[^c-8d04d9fd93fde1741a0d0a05542c3414]: Commencement: [Sch. 11 para. 12](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/12) in operation at 17.3.2016 by [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
 
-[^key-371d130f5a17ee828b99db4a31d94fe2]: Commencement: [Sch. 11 para. 13](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/13) in operation at 17.3.2016 by [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
+[^c-371d130f5a17ee828b99db4a31d94fe2]: Commencement: [Sch. 11 para. 13](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/13) in operation at 17.3.2016 by [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
 
-[^key-a20607413d0dd1718f15565be8d862ff]: Commencement: [Sch. 11 para. 14](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/14) in operation at 17.3.2016 by [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
+[^c-a20607413d0dd1718f15565be8d862ff]: Commencement: [Sch. 11 para. 14](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/14) in operation at 17.3.2016 by [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
 
-[^key-661f190b9c3f82e95e27c3e9cb45336f]: Commencement: [Sch. 11 para. 15](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/15) in operation at 17.3.2016 by [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
+[^c-661f190b9c3f82e95e27c3e9cb45336f]: Commencement: [Sch. 11 para. 15](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/15) in operation at 17.3.2016 by [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)

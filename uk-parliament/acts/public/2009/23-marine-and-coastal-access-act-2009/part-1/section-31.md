@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Incidental powers[^key-2c539e34bab44e725f0f28f92a9c4686]
+## 31. Incidental powers[^c-2c539e34bab44e725f0f28f92a9c4686]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c539e34bab44e725f0f28f92a9c4686]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2009/23/section/31) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/4)
+[^c-2c539e34bab44e725f0f28f92a9c4686]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2009/23/section/31) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/4)

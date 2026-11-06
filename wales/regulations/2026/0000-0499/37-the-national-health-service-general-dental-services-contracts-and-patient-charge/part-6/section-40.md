@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Disputes and appeals[^key-29c0071443acb163c4fa49d05fc85757]
+## 40. Disputes and appeals[^c-29c0071443acb163c4fa49d05fc85757]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ the dispute or appeal continues to be dealt with in accordance with the 2006 Reg
 
 ## Annotations
 
-[^key-29c0071443acb163c4fa49d05fc85757]: Commencement: [Reg. 40](https://www.legislation.gov.uk/wsi/2026/37/regulation/40) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-29c0071443acb163c4fa49d05fc85757]: Commencement: [Reg. 40](https://www.legislation.gov.uk/wsi/2026/37/regulation/40) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

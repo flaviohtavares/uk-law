@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Time limit for making an appeal[^key-aac86afcbad8b8381701fe2f6570d063]
+## 7. Time limit for making an appeal[^c-aac86afcbad8b8381701fe2f6570d063]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ Notice of appeal shall be given –
 
 ## Annotations
 
-[^key-aac86afcbad8b8381701fe2f6570d063]: Commencement: Reg. 7 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-aac86afcbad8b8381701fe2f6570d063]: Commencement: Reg. 7 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)

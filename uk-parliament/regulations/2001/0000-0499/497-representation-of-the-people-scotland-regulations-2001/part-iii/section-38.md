@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Separate part of register for each parliamentary polling district[^key-6a703ae5e3f4ca475d641ed5edde6827]
+## 38. Separate part of register for each parliamentary polling district[^c-6a703ae5e3f4ca475d641ed5edde6827]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a703ae5e3f4ca475d641ed5edde6827]: Commencement: Reg. 38 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
+[^c-6a703ae5e3f4ca475d641ed5edde6827]: Commencement: Reg. 38 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 28. Closure of operator holding accounts[^key-3e16d0893afb4104ceea9c75f05adb6b]
+## Article 28. Closure of operator holding accounts[^c-3e16d0893afb4104ceea9c75f05adb6b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e16d0893afb4104ceea9c75f05adb6b]: Textual amendment: [Arts. 28-31](https://www.legislation.gov.uk/eur/2013/389/article/28) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [4(19)](https://www.legislation.gov.uk/uksi/2021/511/regulation/4/19)
+[^c-3e16d0893afb4104ceea9c75f05adb6b]: Textual amendment: [Arts. 28-31](https://www.legislation.gov.uk/eur/2013/389/article/28) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [4(19)](https://www.legislation.gov.uk/uksi/2021/511/regulation/4/19)

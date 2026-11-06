@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176. Sexual risk orders: power to impose positive requirements[^key-ec3f3ac8de59bad220e55cc0ca931613][^key-3ddc34fad55e1179b45ec02d146db666]
+## 176. Sexual risk orders: power to impose positive requirements[^c-ec3f3ac8de59bad220e55cc0ca931613][^c-3ddc34fad55e1179b45ec02d146db666]
 
 *Extent: E+W*
 
@@ -121,6 +121,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ec3f3ac8de59bad220e55cc0ca931613]: Commencement: S. 176 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-ec3f3ac8de59bad220e55cc0ca931613]: Commencement: S. 176 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-3ddc34fad55e1179b45ec02d146db666]: Commencement: [S. 176](https://www.legislation.gov.uk/ukpga/2022/32/section/176) in force at 29.11.2022 by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/i)
+[^c-3ddc34fad55e1179b45ec02d146db666]: Commencement: [S. 176](https://www.legislation.gov.uk/ukpga/2022/32/section/176) in force at 29.11.2022 by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/i)

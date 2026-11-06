@@ -40,7 +40,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### Scottish carbon budgets
 
-##### 1. Scottish carbon budgets[^key-3bed24a77b86d6173b58c40d8274144e]
+##### 1. Scottish carbon budgets[^c-3bed24a77b86d6173b58c40d8274144e]
 
 (1) The [Climate Change (Scotland) Act 2009](https://www.legislation.gov.uk/asp/2009/12) is modified as follows.
 
@@ -114,7 +114,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-##### 2. Replacement of annual and interim targets with budget targets[^key-001208441565b258a24b910929782d3c]
+##### 2. Replacement of annual and interim targets with budget targets[^c-001208441565b258a24b910929782d3c]
 
 (1) The [Climate Change (Scotland) Act 2009](https://www.legislation.gov.uk/asp/2009/12) is modified as follows.
 
@@ -333,7 +333,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### Climate change plan
 
-##### 3. Next plan to follow setting of budgets[^key-34e9916561faa9d8ff3e844305fe54ba]
+##### 3. Next plan to follow setting of budgets[^c-34e9916561faa9d8ff3e844305fe54ba]
 
 (1) The Scottish Ministers must lay a draft climate change plan before the Scottish Parliament before the end of the period of 2 months beginning with the day that the first regulations setting a Scottish carbon budget under section A4 of the Climate Change (Scotland) Act 2009 come into force.
 
@@ -345,13 +345,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-##### 4. Content of plan: budget-period breakdown of costs and benefits[^key-f087f17fef52bd74d578b6a71dd1c043]
+##### 4. Content of plan: budget-period breakdown of costs and benefits[^c-f087f17fef52bd74d578b6a71dd1c043]
 
 (1) The Climate Change (Scotland) Act 2009 is modified as follows.
 
 (2) In section 35(21), after “plan” the second time it occurs insert “, broken down by reference to the period covered by a Scottish carbon budget in which those costs and benefits are expected to arise”.
 
-##### 5. Content of plan: contribution of policies to meeting targets[^key-a53d606cffad0d93bce28065b9ad3ced]
+##### 5. Content of plan: contribution of policies to meeting targets[^c-a53d606cffad0d93bce28065b9ad3ced]
 
 (1) The Climate Change (Scotland) Act 2009 is modified as follows.
 
@@ -368,7 +368,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   .
 
-##### 6. Preparation of plan: public consultation[^key-33bd04904ca8014f47ce80597ae138a6]
+##### 6. Preparation of plan: public consultation[^c-33bd04904ca8014f47ce80597ae138a6]
 
 (1) The Climate Change (Scotland) Act 2009 is modified as follows.
 
@@ -387,7 +387,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-##### 7. Preparation of plan: further consultation[^key-4d5f8b131c19b29a366ae56a7b012b35]
+##### 7. Preparation of plan: further consultation[^c-4d5f8b131c19b29a366ae56a7b012b35]
 
 (1) The Climate Change (Scotland) Act 2009 is amended as follows.
 
@@ -408,7 +408,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   .
 
-##### 8. Requirement to respond to parliamentary reports and resolutions on draft plan[^key-d2db54ad79e5bf4be66cd7b9c8b69895]
+##### 8. Requirement to respond to parliamentary reports and resolutions on draft plan[^c-d2db54ad79e5bf4be66cd7b9c8b69895]
 
 (1) The Climate Change (Scotland) Act 2009 is modified as follows.
 
@@ -427,7 +427,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### Reporting and assessments
 
-##### 9. Report on proposals and policies where targets at risk of not being met[^key-e7704469f7b0f838690830d0b05c855c]
+##### 9. Report on proposals and policies where targets at risk of not being met[^c-e7704469f7b0f838690830d0b05c855c]
 
 (1) The Climate Change (Scotland) Act 2009 is modified as follows.
 
@@ -440,13 +440,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-##### 10. Deadline for report on proposals and policies where targets not met[^key-82a9b7062949d4910abd6d7c37de96d5]
+##### 10. Deadline for report on proposals and policies where targets not met[^c-82a9b7062949d4910abd6d7c37de96d5]
 
 (1) The Climate Change (Scotland) Act 2009 is modified as follows.
 
 (2) In section 36(2), for the words from “As soon” to “laid” substitute “Within the period of 6 months beginning with the day that the report referred to in subsection (1) is laid before the Parliament”.
 
-##### 11. Annual progress reports on climate change plan: further procedure[^key-1b78755dac7d87a2f2c3174077e0373c]
+##### 11. Annual progress reports on climate change plan: further procedure[^c-1b78755dac7d87a2f2c3174077e0373c]
 
 (1) The Climate Change (Scotland) Act 2009 is modified as follows.
 
@@ -456,7 +456,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-##### 12. Assessing the impact of major capital projects on meeting targets[^key-eacd75d9873d3c70043d01b25a541ae4]
+##### 12. Assessing the impact of major capital projects on meeting targets[^c-eacd75d9873d3c70043d01b25a541ae4]
 
 (1) The [Climate Change (Scotland) Act 2009](https://www.legislation.gov.uk/asp/2009/12) is modified as follows.
 
@@ -476,7 +476,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### Setting Scottish carbon budgets
 
-##### 13. Further provision about setting first budgets[^key-e999d66467b0a6fe61a7fd80b3f8e3de]
+##### 13. Further provision about setting first budgets[^c-e999d66467b0a6fe61a7fd80b3f8e3de]
 
 (1) The first regulations under section A4 of the [2009 Act](https://www.legislation.gov.uk/asp/2009/12) setting Scottish carbon budgets are to do so by—
 
@@ -499,7 +499,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Part 2 — Final provisions
 
-### 14. Ancillary provision[^key-d681947e7c81d58810312068585286a2]
+### 14. Ancillary provision[^c-d681947e7c81d58810312068585286a2]
 
 (1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, or in connection with, or for giving full effect to this Act or any provision made under it.
 
@@ -513,44 +513,44 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act, but
 - (b) otherwise, are subject to the negative procedure.
 
-### 15. Commencement[^key-8c8c14687a58b8da9e68673ffb2eadd4]
+### 15. Commencement[^c-8c8c14687a58b8da9e68673ffb2eadd4]
 
 This Act comes into force on the day after Royal Assent.
 
-### 16. Short title[^key-75b9a88d0b399052256a8a8210b24f87]
+### 16. Short title[^c-75b9a88d0b399052256a8a8210b24f87]
 
 The short title of this Act is the Climate Change (Emissions Reduction Targets) (Scotland) Act 2024.
 
 ## Annotations
 
-[^key-3bed24a77b86d6173b58c40d8274144e]: Commencement: S. 1 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-3bed24a77b86d6173b58c40d8274144e]: Commencement: S. 1 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-001208441565b258a24b910929782d3c]: Commencement: S. 2 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-001208441565b258a24b910929782d3c]: Commencement: S. 2 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-34e9916561faa9d8ff3e844305fe54ba]: Commencement: S. 3 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-34e9916561faa9d8ff3e844305fe54ba]: Commencement: S. 3 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-f087f17fef52bd74d578b6a71dd1c043]: Commencement: S. 4 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-f087f17fef52bd74d578b6a71dd1c043]: Commencement: S. 4 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-a53d606cffad0d93bce28065b9ad3ced]: Commencement: S. 5 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-a53d606cffad0d93bce28065b9ad3ced]: Commencement: S. 5 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-33bd04904ca8014f47ce80597ae138a6]: Commencement: S. 6 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-33bd04904ca8014f47ce80597ae138a6]: Commencement: S. 6 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-4d5f8b131c19b29a366ae56a7b012b35]: Commencement: S. 7 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-4d5f8b131c19b29a366ae56a7b012b35]: Commencement: S. 7 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-d2db54ad79e5bf4be66cd7b9c8b69895]: Commencement: S. 8 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-d2db54ad79e5bf4be66cd7b9c8b69895]: Commencement: S. 8 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-e7704469f7b0f838690830d0b05c855c]: Commencement: S. 9 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-e7704469f7b0f838690830d0b05c855c]: Commencement: S. 9 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-82a9b7062949d4910abd6d7c37de96d5]: Commencement: S. 10 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-82a9b7062949d4910abd6d7c37de96d5]: Commencement: S. 10 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-1b78755dac7d87a2f2c3174077e0373c]: Commencement: S. 11 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-1b78755dac7d87a2f2c3174077e0373c]: Commencement: S. 11 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-eacd75d9873d3c70043d01b25a541ae4]: Commencement: S. 12 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-eacd75d9873d3c70043d01b25a541ae4]: Commencement: S. 12 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-e999d66467b0a6fe61a7fd80b3f8e3de]: Commencement: S. 13 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-e999d66467b0a6fe61a7fd80b3f8e3de]: Commencement: S. 13 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-d681947e7c81d58810312068585286a2]: Commencement: S. 14 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-d681947e7c81d58810312068585286a2]: Commencement: S. 14 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-8c8c14687a58b8da9e68673ffb2eadd4]: Commencement: S. 15 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-8c8c14687a58b8da9e68673ffb2eadd4]: Commencement: S. 15 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-75b9a88d0b399052256a8a8210b24f87]: Commencement: S. 16 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-75b9a88d0b399052256a8a8210b24f87]: Commencement: S. 16 in force at 23.11.2024, see [s. 15](https://www.legislation.gov.uk/asp/2024/15/section/15)

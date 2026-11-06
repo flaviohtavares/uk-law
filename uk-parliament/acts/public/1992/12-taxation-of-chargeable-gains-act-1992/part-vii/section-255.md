@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 255. Provisions supplementary to section 254.[^key-9c21217cb19842d5a99db20569c1f7f2]
+## 255. Provisions supplementary to section 254.[^c-9c21217cb19842d5a99db20569c1f7f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c21217cb19842d5a99db20569c1f7f2]: Textual amendment: Ss. 254, 255 repealed (with effect in accordance with s. 141(2)(b) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [s. 141(1)(b)](https://www.legislation.gov.uk/ukpga/1998/36/section/141/1/b), [Sch. 27 Pt. III(32)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/III/32)
+[^c-9c21217cb19842d5a99db20569c1f7f2]: Textual amendment: Ss. 254, 255 repealed (with effect in accordance with s. 141(2)(b) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [s. 141(1)(b)](https://www.legislation.gov.uk/ukpga/1998/36/section/141/1/b), [Sch. 27 Pt. III(32)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/III/32)

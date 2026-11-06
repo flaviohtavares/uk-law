@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Delivery of jury verdict[^key-bb3e3fd4a2cb7c50c10e4a94e6d937f6]
+## 100. Delivery of jury verdict[^c-bb3e3fd4a2cb7c50c10e4a94e6d937f6]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb3e3fd4a2cb7c50c10e4a94e6d937f6]: Textual amendment: S. 100 heading substituted (1.1.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 65(3)](https://www.legislation.gov.uk/asp/2025/12/section/65/3), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2025/393](https://www.legislation.gov.uk/ssi/2025/393), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/393/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/393/regulation/3))
+[^c-bb3e3fd4a2cb7c50c10e4a94e6d937f6]: Textual amendment: S. 100 heading substituted (1.1.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 65(3)](https://www.legislation.gov.uk/asp/2025/12/section/65/3), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2025/393](https://www.legislation.gov.uk/ssi/2025/393), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/393/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/393/regulation/3))

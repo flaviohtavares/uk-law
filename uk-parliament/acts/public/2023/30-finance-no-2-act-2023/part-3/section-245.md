@@ -25,8 +25,8 @@ summary: ''
 - (a) ignore any indirect ownership interest apart from ownership interests held solely through one or more qualifying service entities or qualifying exempt income entities, and
 - (b) ignore any direct or indirect ownership interest required to be ignored as described in subsection (2).
 
-(2) Where an individual or[^key-40ecbea427afc963621513419cd03f1d] an entity holds an indirect ownership interest in A solely through an entity, or entities, that are qualifying service entities or qualifying exempt income entities, each direct and indirect ownership interest from which it is derived is to be ignored.
+(2) Where an individual or[^c-40ecbea427afc963621513419cd03f1d] an entity holds an indirect ownership interest in A solely through an entity, or entities, that are qualifying service entities or qualifying exempt income entities, each direct and indirect ownership interest from which it is derived is to be ignored.
 
 ## Annotations
 
-[^key-40ecbea427afc963621513419cd03f1d]: Textual amendment: Words in [s. 245(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/245/2) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 56(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/56/5)
+[^c-40ecbea427afc963621513419cd03f1d]: Textual amendment: Words in [s. 245(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/245/2) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 56(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/56/5)

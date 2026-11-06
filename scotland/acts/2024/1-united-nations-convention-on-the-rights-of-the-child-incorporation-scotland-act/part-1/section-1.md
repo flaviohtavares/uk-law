@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Meaning of “the UNCRC requirements” and related expressions[^key-aa66d163ebcb7fb6516dde43612133ab]
+## 1. Meaning of “the UNCRC requirements” and related expressions[^c-aa66d163ebcb7fb6516dde43612133ab]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa66d163ebcb7fb6516dde43612133ab]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2024/1/section/1) in force at 31.1.2024, see [s. 47(2)(b)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/b) and [S.S.I. 2024/13](https://www.legislation.gov.uk/ssi/2024/13), [reg. 2](https://www.legislation.gov.uk/ssi/2024/13/regulation/2)
+[^c-aa66d163ebcb7fb6516dde43612133ab]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2024/1/section/1) in force at 31.1.2024, see [s. 47(2)(b)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/b) and [S.S.I. 2024/13](https://www.legislation.gov.uk/ssi/2024/13), [reg. 2](https://www.legislation.gov.uk/ssi/2024/13/regulation/2)

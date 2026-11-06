@@ -46,11 +46,11 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 13 of the Coronavirus (Scotland) Act 2020 [^c24451151] and sections 8(1)(a) and 10 of the Coronavirus (Scotland) (No. 2) Act 2020 [^c24451161], and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-b2398ac95392522ba5d52bf4fe976b1a]
+## 1. Citation and commencement[^c-b2398ac95392522ba5d52bf4fe976b1a]
 
 These Regulations may be cited as the Coronavirus (Scotland) Acts (Early Expiry and Suspension of Provisions) Regulations 2021 and come into force on 29 March 2021.
 
-## 2. Expiry of provisions of the Coronavirus (Scotland) Act 2020[^key-491975e0826b948ecb95dc4ebb9afb9b]
+## 2. Expiry of provisions of the Coronavirus (Scotland) Act 2020[^c-491975e0826b948ecb95dc4ebb9afb9b]
 
 30 March 2021 is specified as the day on which the following provisions of the Coronavirus (Scotland) Act 2020 expire—
 
@@ -60,7 +60,7 @@ These Regulations may be cited as the Coronavirus (Scotland) Acts (Early Expiry 
   - (ii) paragraphs 20 to 22 (Anatomy Act 1984: extension of periods),
   - (iii) paragraphs 32 and 33 (muirburn) [^c24451171].
 
-## 3. Expiry of provisions of the Coronavirus (Scotland) (No. 2) Act 2020[^key-2d9699703c6588c83fa47898a7104eb7]
+## 3. Expiry of provisions of the Coronavirus (Scotland) (No. 2) Act 2020[^c-2d9699703c6588c83fa47898a7104eb7]
 
 30 March 2021 is specified as the day on which the following provisions of the Coronavirus (Scotland) (No. 2) Act 2020 expire—
 
@@ -69,11 +69,11 @@ These Regulations may be cited as the Coronavirus (Scotland) Acts (Early Expiry 
   - (i) paragraph 13 (low emission zones),
   - (ii) paragraph 15 (traffic regulation).
 
-## 4. Suspension of provision of the Coronavirus (Scotland) (No. 2) Act 2020[^key-4fa648c03ee34f916cbf430d7352380d]
+## 4. Suspension of provision of the Coronavirus (Scotland) (No. 2) Act 2020[^c-4fa648c03ee34f916cbf430d7352380d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Saving provision[^key-2c51b4d41e0dd59a3c825e4bf8c89603]
+## 5. Saving provision[^c-2c51b4d41e0dd59a3c825e4bf8c89603]
 
 Despite regulation 2(b)(i), paragraph 15 of schedule 7 of the Coronavirus (Scotland) Act 2020, so far as it provides as to the meaning of a reference in paragraph 19 of that schedule to “the 2012 Act”, continues in effect until paragraph 19 ceases to have effect.
 
@@ -111,14 +111,14 @@ An impact assessment has not been produced for this instrument.
 
 [^c24451161]: Marginal citation: [2020 asp 10](https://www.legislation.gov.uk/asp/2020/10).
 
-[^key-b2398ac95392522ba5d52bf4fe976b1a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/93/regulation/1) in force at 29.3.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/93/regulation/1)
+[^c-b2398ac95392522ba5d52bf4fe976b1a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/93/regulation/1) in force at 29.3.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/93/regulation/1)
 
-[^key-491975e0826b948ecb95dc4ebb9afb9b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/93/regulation/2) in force at 29.3.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/93/regulation/1)
+[^c-491975e0826b948ecb95dc4ebb9afb9b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/93/regulation/2) in force at 29.3.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/93/regulation/1)
 
 [^c24451171]: Marginal citation: [Paragraphs 32](https://www.legislation.gov.uk/ssi/2021/93/paragraph/32) and 33 of schedule 7 of the Coronavirus (Scotland) Act 2020 were suspended by [S.S.I. 2020/260](https://www.legislation.gov.uk/ssi/2020/260).
 
-[^key-2d9699703c6588c83fa47898a7104eb7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/93/regulation/3) in force at 29.3.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/93/regulation/1)
+[^c-2d9699703c6588c83fa47898a7104eb7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/93/regulation/3) in force at 29.3.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/93/regulation/1)
 
-[^key-4fa648c03ee34f916cbf430d7352380d]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2021/93/regulation/4) revoked (30.9.2021 at the end of the day) by [Coronavirus (Extension and Expiry) (Scotland) Act 2021 (asp 19)](https://www.legislation.gov.uk/asp/2021/19), [ss. 8(12)](https://www.legislation.gov.uk/asp/2021/19/section/8/12), [11(1)](https://www.legislation.gov.uk/asp/2021/19/section/11/1)
+[^c-4fa648c03ee34f916cbf430d7352380d]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2021/93/regulation/4) revoked (30.9.2021 at the end of the day) by [Coronavirus (Extension and Expiry) (Scotland) Act 2021 (asp 19)](https://www.legislation.gov.uk/asp/2021/19), [ss. 8(12)](https://www.legislation.gov.uk/asp/2021/19/section/8/12), [11(1)](https://www.legislation.gov.uk/asp/2021/19/section/11/1)
 
-[^key-2c51b4d41e0dd59a3c825e4bf8c89603]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/93/regulation/5) in force at 29.3.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/93/regulation/1)
+[^c-2c51b4d41e0dd59a3c825e4bf8c89603]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/93/regulation/5) in force at 29.3.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/93/regulation/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Before giving a direction under section 328(1), the FCA[^key-50683fa26ed2cfd179548983e1dd62eb] must publish a draft of the proposed direction.
+(1) Before giving a direction under section 328(1), the FCA[^c-50683fa26ed2cfd179548983e1dd62eb] must publish a draft of the proposed direction.
 
 (2) The draft must be accompanied by—
 
@@ -50,7 +50,7 @@ summary: ''
 
 (9) When the FCA is required to publish a document under this section it must do so in the way appearing to it to be best calculated to bring it to the attention of the public.
 
-(10)[^key-61585bd6562aa0a765a71a9f291e2c8a] Cost benefit analysis” means—
+(10)[^c-61585bd6562aa0a765a71a9f291e2c8a] Cost benefit analysis” means—
 
 - (a) an analysis of the costs together with an analysis of the benefits that will arise—
   - (i) if the proposed direction is given, or
@@ -71,6 +71,6 @@ the cost benefit analysis need not estimate them, but must include a statement o
 
 ## Annotations
 
-[^key-50683fa26ed2cfd179548983e1dd62eb]: Textual amendment: Word in s. 330 substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 16 para. 4(a)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/16/paragraph/4/a) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-50683fa26ed2cfd179548983e1dd62eb]: Textual amendment: Word in s. 330 substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 16 para. 4(a)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/16/paragraph/4/a) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-61585bd6562aa0a765a71a9f291e2c8a]: Textual amendment: S. 330(10)(10A) substituted for s. 330(10) (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 16 para. 4(b)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/16/paragraph/4/b) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-61585bd6562aa0a765a71a9f291e2c8a]: Textual amendment: S. 330(10)(10A) substituted for s. 330(10) (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 16 para. 4(b)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/16/paragraph/4/b) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

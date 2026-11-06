@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Sending claim form to respondents[^key-44746f371eb54936c40472588fa1508c]
+## 16. Sending claim form to respondents[^c-44746f371eb54936c40472588fa1508c]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44746f371eb54936c40472588fa1508c]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2024/1155/rule/16) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-44746f371eb54936c40472588fa1508c]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2024/1155/rule/16) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

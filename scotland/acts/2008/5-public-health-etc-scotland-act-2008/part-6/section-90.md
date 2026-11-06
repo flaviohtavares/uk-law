@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Restriction on release of infected etc. bodies from hospital[^key-0ee1d1e934572febf10841ed7c94980f]
+## 90. Restriction on release of infected etc. bodies from hospital[^c-0ee1d1e934572febf10841ed7c94980f]
 
 *Extent: S*
 
@@ -56,15 +56,15 @@ summary: ''
 
 (8) In this Part, “**disposal**”, in relation to a body—
 
-- (a) means burial , cremation or hydrolysis[^key-a110c4a5216739f7b8b97f42a54807ba]; and
-- (b) includes preparation of the body for burial , cremation or hydrolysis[^key-2b228bb89dbe6509177db3e23075a6d6];
+- (a) means burial , cremation or hydrolysis[^c-a110c4a5216739f7b8b97f42a54807ba]; and
+- (b) includes preparation of the body for burial , cremation or hydrolysis[^c-2b228bb89dbe6509177db3e23075a6d6];
 
 and cognate expressions are to be construed accordingly.
 
 ## Annotations
 
-[^key-0ee1d1e934572febf10841ed7c94980f]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2008/5/section/90) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-0ee1d1e934572febf10841ed7c94980f]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2008/5/section/90) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
 
-[^key-a110c4a5216739f7b8b97f42a54807ba]: Textual amendment: Words in [s. 90(8)(a)](https://www.legislation.gov.uk/asp/2008/5/section/90/8/a) substituted (2.3.2026) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [5(c)(i)](https://www.legislation.gov.uk/ssi/2026/50/regulation/5/c/i)
+[^c-a110c4a5216739f7b8b97f42a54807ba]: Textual amendment: Words in [s. 90(8)(a)](https://www.legislation.gov.uk/asp/2008/5/section/90/8/a) substituted (2.3.2026) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [5(c)(i)](https://www.legislation.gov.uk/ssi/2026/50/regulation/5/c/i)
 
-[^key-2b228bb89dbe6509177db3e23075a6d6]: Textual amendment: Words in [s. 90(8)(b)](https://www.legislation.gov.uk/asp/2008/5/section/90/8/b) substituted (2.3.2026) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [5(c)(ii)](https://www.legislation.gov.uk/ssi/2026/50/regulation/5/c/ii)
+[^c-2b228bb89dbe6509177db3e23075a6d6]: Textual amendment: Words in [s. 90(8)(b)](https://www.legislation.gov.uk/asp/2008/5/section/90/8/b) substituted (2.3.2026) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [5(c)(ii)](https://www.legislation.gov.uk/ssi/2026/50/regulation/5/c/ii)

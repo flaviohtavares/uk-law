@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Operation of generating station[^key-c05087d5f7b8394cb20fa295be603b6f]
+## 30. Operation of generating station[^c-c05087d5f7b8394cb20fa295be603b6f]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c05087d5f7b8394cb20fa295be603b6f]: Commencement: Art. 30 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
+[^c-c05087d5f7b8394cb20fa295be603b6f]: Commencement: Art. 30 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)

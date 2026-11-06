@@ -48,11 +48,11 @@ The Secretary of State for Transport makes the following Regulations in exercise
 
 Representative organisations have been consulted in accordance with section 195(2)[^f00005] of that Act.
 
-## 1. Citation and commencement[^key-e15fd3753722d80e65a4330956ae0a48]
+## 1. Citation and commencement[^c-e15fd3753722d80e65a4330956ae0a48]
 
 These Regulations may be cited as the Motor Vehicles (Insurance Requirements) (Immobilisation, Removal and Disposal) Regulations 2011 and come into force on 16th May 2011.
 
-## 2. Interpretation[^key-3e4447580cf6ac699f441565c882db6f]
+## 2. Interpretation[^c-3e4447580cf6ac699f441565c882db6f]
 
 (1) In these Regulations—
 
@@ -67,9 +67,9 @@ These Regulations may be cited as the Motor Vehicles (Insurance Requirements) (I
 - “NI records” means the records kept under the 1994 Act by the Driver and Vehicle Agency on behalf of the Secretary of State and “NI registration mark” means a registration mark assigned to a vehicle registered in those records;
 - “prescribed evidence” means any of the following—
   - (a) a policy of insurance;
-  - (b) [^key-629b1565eec6000148809e7737fa957c]...
+  - (b) [^c-629b1565eec6000148809e7737fa957c]...
   - (c) a certificate of insurance;
-  - (d) [^key-065cd02dd15f9b828dd1f5f90f712b64]...
+  - (d) [^c-065cd02dd15f9b828dd1f5f90f712b64]...
 - “public service vehicle” has the meaning given by section 1 of the Public Passenger Vehicles Act 1981[^f00009];
 - “registered keeper” means the person in whose name a vehicle is registered under the 1994 Act;
 - “release” in relation to a vehicle means release from an immobilisation device.
@@ -82,7 +82,7 @@ These Regulations may be cited as the Motor Vehicles (Insurance Requirements) (I
 
 (5) Save in relation to a vehicle which is the subject of a hiring agreement or a hire-purchase agreement, references to the “owner” of a vehicle at a particular time are to the person by whom it was then kept and the registered keeper at a particular time is to be taken, unless the contrary is shown, to be the person by whom the vehicle was kept at that time.
 
-## 3. Authorised persons[^key-50e2a6985cd3014a48a8c56e38de4e61]
+## 3. Authorised persons[^c-50e2a6985cd3014a48a8c56e38de4e61]
 
 (1) In these Regulations a reference to an authorised person is to a person authorised by the Secretary of State for the purposes of these Regulations.
 
@@ -90,7 +90,7 @@ These Regulations may be cited as the Motor Vehicles (Insurance Requirements) (I
 
 (3) Different persons may be authorised for different purposes, but a person who is an authorised person for the purposes of regulation 14 must not act as an authorised person for any other purpose.
 
-## 4. Disapplication of the Regulations[^key-8943c04186270942c462cad721042ee3]
+## 4. Disapplication of the Regulations[^c-8943c04186270942c462cad721042ee3]
 
 (1) These Regulations do not apply in relation to a vehicle in any of the circumstances specified in paragraph (2).
 
@@ -102,7 +102,7 @@ These Regulations may be cited as the Motor Vehicles (Insurance Requirements) (I
 - (d) the vehicle is being used for the purpose of the removal of any obstruction to traffic, the maintenance, improvement or reconstruction of a public road, or the laying, erection, alteration, repair or cleaning in or near a road of any traffic sign or sewer or of any main, pipe or apparatus for the supply of gas, water or electricity, or of any telegraph or telephone wires, cables, posts or supports; or
 - (e) the vehicle is being used by a universal service provider (within the meaning of the Postal Services Act 2000[^f00011]) in relation to the provision of a universal postal service (within the meaning of that Act) and each side of the vehicle is clearly marked with the name of the universal service provider concerned.
 
-## 5. Power to immobilise vehicles[^key-129b0e309977efaf045148ce1660162a]
+## 5. Power to immobilise vehicles[^c-129b0e309977efaf045148ce1660162a]
 
 (1) This regulation applies where an authorised person has reason to believe that an offence under section 144A of the 1988 Act is being committed as regards a vehicle which is stationary on a road or other public place.
 
@@ -118,7 +118,7 @@ These Regulations may be cited as the Motor Vehicles (Insurance Requirements) (I
 - (c) specifies the steps to be taken to secure its release, including the charges payable under these Regulations and the person to whom and the means by which those charges may be paid; and
 - (d) states the right of the owner, or person in charge of the vehicle at the time it was immobilised, to appeal pursuant to regulation 14, and specifies the steps to be taken and the address to which representations to an authorised person made as mentioned in that regulation should be sent.
 
-## 6. Release of immobilised vehicles[^key-049c13c50885667d1425a0f2d463d6e0]
+## 6. Release of immobilised vehicles[^c-049c13c50885667d1425a0f2d463d6e0]
 
 (1) A vehicle to which an immobilisation device has been fixed in accordance with regulation 5—
 
@@ -134,7 +134,7 @@ These Regulations may be cited as the Motor Vehicles (Insurance Requirements) (I
 - (a) any person who proposes to drive the vehicle away will not in doing so be guilty of an offence under section 143 of the 1988 Act; and
 - (b) the registered keeper is not, at the point of release, guilty of an offence under section 144A of that Act as regards the vehicle.
 
-## 7. Removal of or interference with immobilisation notice or device[^key-34ff22e440f7cd7fab7a9f1864ff9d23]
+## 7. Removal of or interference with immobilisation notice or device[^c-34ff22e440f7cd7fab7a9f1864ff9d23]
 
 (1) An immobilisation notice must not be removed or interfered with except by or under the authority of an authorised person.
 
@@ -142,7 +142,7 @@ These Regulations may be cited as the Motor Vehicles (Insurance Requirements) (I
 
 (3) Any person who, without being authorised to do so in accordance with regulation 6, removes or attempts to remove an immobilisation device fixed to a vehicle in accordance with these Regulations is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-## 8. Other offences connected with immobilisation[^key-9b4d829010a2c211e1d5f260cac88859]
+## 8. Other offences connected with immobilisation[^c-9b4d829010a2c211e1d5f260cac88859]
 
 (1) Where these Regulations would apply to a vehicle but for the provisions of regulation 4(1) and (2)(a) and the vehicle was not, at the time it was stationary, being used—
 
@@ -151,7 +151,7 @@ These Regulations may be cited as the Motor Vehicles (Insurance Requirements) (I
 
 the person in charge of the vehicle at that time is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-## 9. Removal of vehicles[^key-4a089707370d9466db5cdc875f079edf]
+## 9. Removal of vehicles[^c-4a089707370d9466db5cdc875f079edf]
 
 (1) This regulation applies where an authorised person has reason to believe that an offence under section 144A of the 1988 Act—
 
@@ -165,7 +165,7 @@ the person in charge of the vehicle at that time is guilty of an offence and lia
 
 (3) In a case where this regulation applies, the authorised person or a person acting under the authorised person’s direction, may remove the vehicle and deliver it to a person authorised by the Secretary of State to keep vehicles so removed (“the custodian”).
 
-## 10. Disposal of removed vehicles[^key-2a3845ba4470a9ea5c1a0db2bf97a0ef]
+## 10. Disposal of removed vehicles[^c-2a3845ba4470a9ea5c1a0db2bf97a0ef]
 
 (1) Subject to the provisions of this regulation, the custodian of a vehicle delivered in accordance with regulation 9(3) may dispose of it by selling it or dealing with it as scrap, as the custodian thinks fit.
 
@@ -193,23 +193,23 @@ the person in charge of the vehicle at that time is guilty of an offence and lia
   - (i) in the case of a vehicle which is of no economic value, within three days of the date on which the notice is served; or
   - (ii) in any other case, within seven days of that date.
 
-(5)[^key-5ad13f707bef44fd4e2b03336b158cb2] Where it appears to the custodian of a vehicle that more than one person is the owner—
+(5)[^c-5ad13f707bef44fd4e2b03336b158cb2] Where it appears to the custodian of a vehicle that more than one person is the owner—
 
 - (a) the notice under paragraph (3)(c)(ii) must be sent to all persons appearing to be the owner of the vehicle; and
 - (b) the vehicle may not be disposed of in accordance with paragraph (2) unless all persons appearing to be owners have disclaimed all rights of ownership.
 
 (6) For the purposes of this regulation, a vehicle is of no economic value if the custodian is satisfied that the total prescribed charges for the removal of the vehicle and its storage for seven days exceed the resale or scrap value of the vehicle.
 
-## 11. Recovery of prescribed charges[^key-19b9f8c865175c7329240123404efdb8]
+## 11. Recovery of prescribed charges[^c-19b9f8c865175c7329240123404efdb8]
 
-(1) Where a vehicle has been removed and delivered into the custody of a custodian in accordance with regulation 9(3), the Secretary of State or the custodian may (whether or not any claim is made under regulation 12 or 13[^key-4ee26df79043be1618f7bf0a0dd8fed7]) recover from the person who was the owner of the vehicle when the vehicle was removed the prescribed charges for—
+(1) Where a vehicle has been removed and delivered into the custody of a custodian in accordance with regulation 9(3), the Secretary of State or the custodian may (whether or not any claim is made under regulation 12 or 13[^c-4ee26df79043be1618f7bf0a0dd8fed7]) recover from the person who was the owner of the vehicle when the vehicle was removed the prescribed charges for—
 
 - (a) its removal and storage; and
 - (b) its disposal, if the vehicle has been disposed of.
 
 (2) Where, by virtue of paragraph (1)(a), any sum is recoverable in respect of a vehicle by a custodian, the custodian is entitled to retain custody of it until that sum is paid.
 
-(3)[^key-8e74fb3c3c76f06d2eeb7f8abd43d106] Where—
+(3)[^c-8e74fb3c3c76f06d2eeb7f8abd43d106] Where—
 
 - (a) it appears to a custodian of a vehicle that more than one person is the owner; and
 - (b) one of those owners, or a person authorised by one of those owners, has gained possession of the vehicle under regulation 12,
@@ -230,7 +230,7 @@ then the owner who made the claim under regulation 13 must be treated as the own
 
 then those persons must be treated as jointly and severally liable for the prescribed charges.
 
-## 12. Taking possession of a vehicle[^key-f5807d76d4c725a46c840977c710ebb6]
+## 12. Taking possession of a vehicle[^c-f5807d76d4c725a46c840977c710ebb6]
 
 (1) A person (“the claimant”) may take possession of a vehicle which has been removed and delivered to a custodian and has not been disposed of under regulation 10, if the conditions specified in paragraph (2) are satisfied.
 
@@ -246,23 +246,23 @@ then those persons must be treated as jointly and severally liable for the presc
 
 (3) On giving the claimant possession of a vehicle pursuant to this regulation, the custodian must give the claimant a statement of the right of the owner, or person in charge of the vehicle at the time it was immobilised or, where it was not immobilised, it was removed, to appeal pursuant to regulation 14, of the steps to be taken in order to appeal and of the address to which representations to an authorised person made as mentioned in that regulation should be sent.
 
-(4)[^key-2cfdcb6c83091fa5c26e83aed5ee7674] Where it appears to a custodian of a vehicle that more than one person is the owner, or person authorised by the owner, the custodian must give possession of the vehicle to the first claimant who satisfies the conditions set out in paragraph (2).
+(4)[^c-2cfdcb6c83091fa5c26e83aed5ee7674] Where it appears to a custodian of a vehicle that more than one person is the owner, or person authorised by the owner, the custodian must give possession of the vehicle to the first claimant who satisfies the conditions set out in paragraph (2).
 
-## 13. Claim by owner of a vehicle after its disposal[^key-22a2daf3598ae79735b03d336ca6169e]
+## 13. Claim by owner of a vehicle after its disposal[^c-22a2daf3598ae79735b03d336ca6169e]
 
 (1) If, after a vehicle has been disposed of by a custodian pursuant to regulation 10, a person claims to have been the owner of the vehicle at the time when it was disposed of and the conditions specified in paragraph (2) are fulfilled, the custodian must pay that person a sum calculated in accordance with paragraph (3).
 
 (2) The conditions are that—
 
-- (a) the person making the claim satisfies the custodian that that person was the owner of the vehicle at the time it was disposed of; [^key-90e25367ea5938f9a7adc01ce8d66894]...
-- (b) the claim is made before the end of the period of one year beginning with the date on which the vehicle was disposed of ; and[^key-fb41ed58b8ee8d24faa7c9fcc3016b9f]
-- (c)[^key-d428410dab3607da8e4dc2100c857632] no previous claim in respect of the vehicle has been paid.
+- (a) the person making the claim satisfies the custodian that that person was the owner of the vehicle at the time it was disposed of; [^c-90e25367ea5938f9a7adc01ce8d66894]...
+- (b) the claim is made before the end of the period of one year beginning with the date on which the vehicle was disposed of ; and[^c-fb41ed58b8ee8d24faa7c9fcc3016b9f]
+- (c)[^c-d428410dab3607da8e4dc2100c857632] no previous claim in respect of the vehicle has been paid.
 
 (3) The sum payable under paragraph (1) must be calculated by deducting from the proceeds of sale the prescribed charges for the removal, storage and disposal of the vehicle.
 
-(4)[^key-4a2af9de27a50aa0d69fa507dee97b94] Where it appears to a custodian of a vehicle that more than one person is the owner, the custodian must treat the first person who makes a claim that satisfies the conditions set out in paragraph (2) as the owner for the purposes of this regulation.
+(4)[^c-4a2af9de27a50aa0d69fa507dee97b94] Where it appears to a custodian of a vehicle that more than one person is the owner, the custodian must treat the first person who makes a claim that satisfies the conditions set out in paragraph (2) as the owner for the purposes of this regulation.
 
-## 14. Disputes[^key-58febd917ca84c45f4f0196ff2ee9a83]
+## 14. Disputes[^c-58febd917ca84c45f4f0196ff2ee9a83]
 
 (1) This regulation applies to a dispute which has arisen because—
 
@@ -275,7 +275,7 @@ then those persons must be treated as jointly and severally liable for the presc
 
 (3) The authorised person to whom the appeal is made must consider any representations duly made and any evidence provided in support of them and must notify the claimant as to whether or not the appeal for a refund is upheld, but the authorised person may disregard representations and evidence received later than 28 days from the date on which the vehicle was released, or as the case may be, on which possession was taken of it.
 
-(4)[^key-f4b629b64622039ead28f070dc7f8ba7] The authorised person must uphold the appeal if the authorised person is satisfied that—
+(4)[^c-f4b629b64622039ead28f070dc7f8ba7] The authorised person must uphold the appeal if the authorised person is satisfied that—
 
 - (a) the ground in paragraph (1)(a)(i) or the ground in paragraph (1)(a)(ii) has been established; and
 - (b) the disputed charge has not been refunded.
@@ -289,7 +289,7 @@ then those persons must be treated as jointly and severally liable for the presc
 - (a) if the claimant’s appeal under paragraph (2) has been rejected under paragraph (6) and the further appeal is made within 28 days of the claimant being served with notification to that effect under paragraph (6); or
 - (b) if the authorised person has not notified the claimant of the outcome of the appeal in accordance with paragraph (5) or (6) and 56 days have elapsed since the claimant appealed.
 
-(8)[^key-94994688f878803768d547d53ff54b97] If the court finds that—
+(8)[^c-94994688f878803768d547d53ff54b97] If the court finds that—
 
 - (a) the ground in paragraph (1)(a)(i) or the ground in paragraph (1)(a)(ii) has been established; and
 - (b) the disputed charge has not been refunded,
@@ -317,7 +317,7 @@ Department for Transport
 
 Regulation 2(2)
 
-**1.**[^key-214d3063f7c067a7e79b34ef29ef34a3] The prescribed charge for any matter referred to in column (2) of an item in the table is to be the sum specified in column (3) of that item.
+**1.**[^c-214d3063f7c067a7e79b34ef29ef34a3] The prescribed charge for any matter referred to in column (2) of an item in the table is to be the sum specified in column (3) of that item.
 
 TABLE
 
@@ -334,9 +334,9 @@ TABLE
 
 Regulation 10(3)
 
-**1.**[^key-5bbff3d24b99a8ef71e9411dab2e2c77] If the vehicle carries a GB registration mark or an NI registration mark, it is the duty of the custodian to ascertain from the GB records, or as the case may be, the NI records the name and address of the registered keeper.
+**1.**[^c-5bbff3d24b99a8ef71e9411dab2e2c77] If the vehicle carries a GB registration mark or an NI registration mark, it is the duty of the custodian to ascertain from the GB records, or as the case may be, the NI records the name and address of the registered keeper.
 
-**2.**[^key-23cf14414a96b97496c63ef7f6b7869f] If the vehicle does not carry such a registration mark, the custodian must make such inquiries as appear to be practicable to ascertain the identity of the owner of the vehicle.
+**2.**[^c-23cf14414a96b97496c63ef7f6b7869f] If the vehicle does not carry such a registration mark, the custodian must make such inquiries as appear to be practicable to ascertain the identity of the owner of the vehicle.
 
 EXPLANATORY NOTE
 
@@ -372,9 +372,9 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00005]: Footnote: Section 195(2) was amended by the Road Safety Act 2006, Schedule 6, paragraphs 1 and 30 and Schedule 7.
 
-[^key-e15fd3753722d80e65a4330956ae0a48]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
+[^c-e15fd3753722d80e65a4330956ae0a48]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
 
-[^key-3e4447580cf6ac699f441565c882db6f]: Commencement: Reg. 2 in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
+[^c-3e4447580cf6ac699f441565c882db6f]: Commencement: Reg. 2 in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
 
 [^f00006]: Footnote: [1994 c.22](https://www.legislation.gov.uk/ukpga/1994/22)
 
@@ -382,66 +382,66 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00008]: Footnote: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39); section 2 was amended by the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), Schedule 22, paragraph 232(1).
 
-[^key-629b1565eec6000148809e7737fa957c]: Textual amendment: Words in reg. 2(1) omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 3 para. 16(2)(a)](https://www.legislation.gov.uk/uksi/2019/1047/schedule/3/paragraph/16/2/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
+[^c-629b1565eec6000148809e7737fa957c]: Textual amendment: Words in reg. 2(1) omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 3 para. 16(2)(a)](https://www.legislation.gov.uk/uksi/2019/1047/schedule/3/paragraph/16/2/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
 
-[^key-065cd02dd15f9b828dd1f5f90f712b64]: Textual amendment: Words in reg. 2(1) omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 3 para. 16(2)(b)](https://www.legislation.gov.uk/uksi/2019/1047/schedule/3/paragraph/16/2/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
+[^c-065cd02dd15f9b828dd1f5f90f712b64]: Textual amendment: Words in reg. 2(1) omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 3 para. 16(2)(b)](https://www.legislation.gov.uk/uksi/2019/1047/schedule/3/paragraph/16/2/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
 
 [^f00009]: Footnote: [1981 c.14](https://www.legislation.gov.uk/ukpga/1981/14); section 1 was amended by the Transport Act [1985 (c.67)](https://www.legislation.gov.uk/ukpga/1985/67), Schedule 8.
 
 [^f00010]: Footnote: See paragraph 8 of Schedule 2A to the Road Traffic Act 1988; the regulations may make provision as to the meaning for the purposes of the regulations of “owner” as regards the vehicle.
 
-[^key-50e2a6985cd3014a48a8c56e38de4e61]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/1120/regulation/3) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
+[^c-50e2a6985cd3014a48a8c56e38de4e61]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/1120/regulation/3) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
 
-[^key-8943c04186270942c462cad721042ee3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2011/1120/regulation/4) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
+[^c-8943c04186270942c462cad721042ee3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2011/1120/regulation/4) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
 
 [^f00011]: Footnote: [2000 c.26](https://www.legislation.gov.uk/ukpga/2000/26)
 
-[^key-129b0e309977efaf045148ce1660162a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2011/1120/regulation/5) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
+[^c-129b0e309977efaf045148ce1660162a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2011/1120/regulation/5) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
 
-[^key-049c13c50885667d1425a0f2d463d6e0]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2011/1120/regulation/6) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
+[^c-049c13c50885667d1425a0f2d463d6e0]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2011/1120/regulation/6) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
 
-[^key-34ff22e440f7cd7fab7a9f1864ff9d23]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2011/1120/regulation/7) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
+[^c-34ff22e440f7cd7fab7a9f1864ff9d23]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2011/1120/regulation/7) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
 
-[^key-9b4d829010a2c211e1d5f260cac88859]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2011/1120/regulation/8) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
+[^c-9b4d829010a2c211e1d5f260cac88859]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2011/1120/regulation/8) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
 
 [^f00012]: Footnote: [1970 c.44](https://www.legislation.gov.uk/ukpga/1970/44); section 21 was amended by the Local Government Act [1972 (c.70)](https://www.legislation.gov.uk/ukpga/1972/70), section 272(1) and Schedule 30, the Transport Act [1982 (c.49)](https://www.legislation.gov.uk/ukpga/1982/49), section 68, the Road Traffic Regulation Act [1984 (c.27)](https://www.legislation.gov.uk/ukpga/1984/27), section 146 and Schedule 13, paragraph 11, the Local Government Act [1985 (c.51)](https://www.legislation.gov.uk/ukpga/1985/51), section 8 and Schedule 5, paragraph 1, the Road Traffic Act [1991 (c.40)](https://www.legislation.gov.uk/ukpga/1991/40), section 35(1) to (5) and Schedule 8, paragraph 1, the Local Government (Wales) Act [1994 (c.19)](https://www.legislation.gov.uk/ukpga/1994/19), Schedule 10, paragraph 8 and Schedule 18, the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), Schedule 13, paragraph 86, the Transport (Scotland) Act 2001 (asp.2), section 73, the Traffic Management Act [2004 (c.18)](https://www.legislation.gov.uk/ukpga/2004/18), section 94(1) to (4), the Disability Discrimination Act [2005 (c.13)](https://www.legislation.gov.uk/ukpga/2005/13), Schedule 1, Part 2, paragraph 41, the Transport (Scotland) Act [2005 (asp.12)](https://www.legislation.gov.uk/asp/2005/12), section 49 and the Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15), Schedule 8, paragraph 2.
 
 [^f00013]: Footnote: [1984 c.27](https://www.legislation.gov.uk/ukpga/1984/27); section 117(1) was amended by the Road Traffic Act [1991 (c.40)](https://www.legislation.gov.uk/ukpga/1991/40), section 35(6), the Traffic Management Act [2004 (c.18)](https://www.legislation.gov.uk/ukpga/2004/18), section 94(5) and the Disability Discrimination Act [2005 (c.13)](https://www.legislation.gov.uk/ukpga/2005/13), Schedule 1, Part 2, paragraphs 42 and 44.
 
-[^key-4a089707370d9466db5cdc875f079edf]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2011/1120/regulation/9) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
+[^c-4a089707370d9466db5cdc875f079edf]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2011/1120/regulation/9) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
 
-[^key-2a3845ba4470a9ea5c1a0db2bf97a0ef]: Commencement: Reg. 10 in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
+[^c-2a3845ba4470a9ea5c1a0db2bf97a0ef]: Commencement: Reg. 10 in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
 
-[^key-5ad13f707bef44fd4e2b03336b158cb2]: Textual amendment: Reg. 10(5) substituted (30.6.2015) by [The Motor Vehicles (Insurance Requirements) (Immobilisation, Removal and Disposal) (Amendment) Regulations 2015 (S.I. 2015/854)](https://www.legislation.gov.uk/uksi/2015/854), [regs. 1](https://www.legislation.gov.uk/uksi/2015/854/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2015/854/regulation/2/a)
+[^c-5ad13f707bef44fd4e2b03336b158cb2]: Textual amendment: Reg. 10(5) substituted (30.6.2015) by [The Motor Vehicles (Insurance Requirements) (Immobilisation, Removal and Disposal) (Amendment) Regulations 2015 (S.I. 2015/854)](https://www.legislation.gov.uk/uksi/2015/854), [regs. 1](https://www.legislation.gov.uk/uksi/2015/854/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2015/854/regulation/2/a)
 
-[^key-19b9f8c865175c7329240123404efdb8]: Commencement: Reg. 11 in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
+[^c-19b9f8c865175c7329240123404efdb8]: Commencement: Reg. 11 in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
 
-[^key-4ee26df79043be1618f7bf0a0dd8fed7]: Textual amendment: Word in reg. 11(1) substituted (30.6.2015) by [The Motor Vehicles (Insurance Requirements) (Immobilisation, Removal and Disposal) (Amendment) Regulations 2015 (S.I. 2015/854)](https://www.legislation.gov.uk/uksi/2015/854), [regs. 1](https://www.legislation.gov.uk/uksi/2015/854/regulation/1), [2(b)(i)](https://www.legislation.gov.uk/uksi/2015/854/regulation/2/b/i)
+[^c-4ee26df79043be1618f7bf0a0dd8fed7]: Textual amendment: Word in reg. 11(1) substituted (30.6.2015) by [The Motor Vehicles (Insurance Requirements) (Immobilisation, Removal and Disposal) (Amendment) Regulations 2015 (S.I. 2015/854)](https://www.legislation.gov.uk/uksi/2015/854), [regs. 1](https://www.legislation.gov.uk/uksi/2015/854/regulation/1), [2(b)(i)](https://www.legislation.gov.uk/uksi/2015/854/regulation/2/b/i)
 
-[^key-8e74fb3c3c76f06d2eeb7f8abd43d106]: Textual amendment: Reg. 11(3)-(5) substituted for reg. 11(3) (30.6.2015) by [The Motor Vehicles (Insurance Requirements) (Immobilisation, Removal and Disposal) (Amendment) Regulations 2015 (S.I. 2015/854)](https://www.legislation.gov.uk/uksi/2015/854), [regs. 1](https://www.legislation.gov.uk/uksi/2015/854/regulation/1), [2(b)(ii)](https://www.legislation.gov.uk/uksi/2015/854/regulation/2/b/ii)
+[^c-8e74fb3c3c76f06d2eeb7f8abd43d106]: Textual amendment: Reg. 11(3)-(5) substituted for reg. 11(3) (30.6.2015) by [The Motor Vehicles (Insurance Requirements) (Immobilisation, Removal and Disposal) (Amendment) Regulations 2015 (S.I. 2015/854)](https://www.legislation.gov.uk/uksi/2015/854), [regs. 1](https://www.legislation.gov.uk/uksi/2015/854/regulation/1), [2(b)(ii)](https://www.legislation.gov.uk/uksi/2015/854/regulation/2/b/ii)
 
-[^key-f5807d76d4c725a46c840977c710ebb6]: Commencement: Reg. 12 in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
+[^c-f5807d76d4c725a46c840977c710ebb6]: Commencement: Reg. 12 in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
 
-[^key-2cfdcb6c83091fa5c26e83aed5ee7674]: Textual amendment: Reg. 12(4) substituted (30.6.2015) by [The Motor Vehicles (Insurance Requirements) (Immobilisation, Removal and Disposal) (Amendment) Regulations 2015 (S.I. 2015/854)](https://www.legislation.gov.uk/uksi/2015/854), [regs. 1](https://www.legislation.gov.uk/uksi/2015/854/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2015/854/regulation/2/c)
+[^c-2cfdcb6c83091fa5c26e83aed5ee7674]: Textual amendment: Reg. 12(4) substituted (30.6.2015) by [The Motor Vehicles (Insurance Requirements) (Immobilisation, Removal and Disposal) (Amendment) Regulations 2015 (S.I. 2015/854)](https://www.legislation.gov.uk/uksi/2015/854), [regs. 1](https://www.legislation.gov.uk/uksi/2015/854/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2015/854/regulation/2/c)
 
-[^key-22a2daf3598ae79735b03d336ca6169e]: Commencement: Reg. 13 in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
+[^c-22a2daf3598ae79735b03d336ca6169e]: Commencement: Reg. 13 in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
 
-[^key-90e25367ea5938f9a7adc01ce8d66894]: Textual amendment: Word in reg. 13(2)(a) omitted (30.6.2015) by virtue of [The Motor Vehicles (Insurance Requirements) (Immobilisation, Removal and Disposal) (Amendment) Regulations 2015 (S.I. 2015/854)](https://www.legislation.gov.uk/uksi/2015/854), [regs. 1](https://www.legislation.gov.uk/uksi/2015/854/regulation/1), [2(d)(i)](https://www.legislation.gov.uk/uksi/2015/854/regulation/2/d/i)
+[^c-90e25367ea5938f9a7adc01ce8d66894]: Textual amendment: Word in reg. 13(2)(a) omitted (30.6.2015) by virtue of [The Motor Vehicles (Insurance Requirements) (Immobilisation, Removal and Disposal) (Amendment) Regulations 2015 (S.I. 2015/854)](https://www.legislation.gov.uk/uksi/2015/854), [regs. 1](https://www.legislation.gov.uk/uksi/2015/854/regulation/1), [2(d)(i)](https://www.legislation.gov.uk/uksi/2015/854/regulation/2/d/i)
 
-[^key-fb41ed58b8ee8d24faa7c9fcc3016b9f]: Textual amendment: Word in reg. 13(2)(b) substituted (30.6.2015) by [The Motor Vehicles (Insurance Requirements) (Immobilisation, Removal and Disposal) (Amendment) Regulations 2015 (S.I. 2015/854)](https://www.legislation.gov.uk/uksi/2015/854), [regs. 1](https://www.legislation.gov.uk/uksi/2015/854/regulation/1), [2(d)(ii)](https://www.legislation.gov.uk/uksi/2015/854/regulation/2/d/ii)
+[^c-fb41ed58b8ee8d24faa7c9fcc3016b9f]: Textual amendment: Word in reg. 13(2)(b) substituted (30.6.2015) by [The Motor Vehicles (Insurance Requirements) (Immobilisation, Removal and Disposal) (Amendment) Regulations 2015 (S.I. 2015/854)](https://www.legislation.gov.uk/uksi/2015/854), [regs. 1](https://www.legislation.gov.uk/uksi/2015/854/regulation/1), [2(d)(ii)](https://www.legislation.gov.uk/uksi/2015/854/regulation/2/d/ii)
 
-[^key-d428410dab3607da8e4dc2100c857632]: Textual amendment: Reg. 13(2)(c) inserted (30.6.2015) by [The Motor Vehicles (Insurance Requirements) (Immobilisation, Removal and Disposal) (Amendment) Regulations 2015 (S.I. 2015/854)](https://www.legislation.gov.uk/uksi/2015/854), [regs. 1](https://www.legislation.gov.uk/uksi/2015/854/regulation/1), [2(d)(iii)](https://www.legislation.gov.uk/uksi/2015/854/regulation/2/d/iii)
+[^c-d428410dab3607da8e4dc2100c857632]: Textual amendment: Reg. 13(2)(c) inserted (30.6.2015) by [The Motor Vehicles (Insurance Requirements) (Immobilisation, Removal and Disposal) (Amendment) Regulations 2015 (S.I. 2015/854)](https://www.legislation.gov.uk/uksi/2015/854), [regs. 1](https://www.legislation.gov.uk/uksi/2015/854/regulation/1), [2(d)(iii)](https://www.legislation.gov.uk/uksi/2015/854/regulation/2/d/iii)
 
-[^key-4a2af9de27a50aa0d69fa507dee97b94]: Textual amendment: Reg. 13(4) substituted (30.6.2015) by [The Motor Vehicles (Insurance Requirements) (Immobilisation, Removal and Disposal) (Amendment) Regulations 2015 (S.I. 2015/854)](https://www.legislation.gov.uk/uksi/2015/854), [regs. 1](https://www.legislation.gov.uk/uksi/2015/854/regulation/1), [2(d)(iv)](https://www.legislation.gov.uk/uksi/2015/854/regulation/2/d/iv)
+[^c-4a2af9de27a50aa0d69fa507dee97b94]: Textual amendment: Reg. 13(4) substituted (30.6.2015) by [The Motor Vehicles (Insurance Requirements) (Immobilisation, Removal and Disposal) (Amendment) Regulations 2015 (S.I. 2015/854)](https://www.legislation.gov.uk/uksi/2015/854), [regs. 1](https://www.legislation.gov.uk/uksi/2015/854/regulation/1), [2(d)(iv)](https://www.legislation.gov.uk/uksi/2015/854/regulation/2/d/iv)
 
-[^key-58febd917ca84c45f4f0196ff2ee9a83]: Commencement: Reg. 14 in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
+[^c-58febd917ca84c45f4f0196ff2ee9a83]: Commencement: Reg. 14 in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
 
-[^key-f4b629b64622039ead28f070dc7f8ba7]: Textual amendment: Reg. 14(4) substituted (30.6.2015) by [The Motor Vehicles (Insurance Requirements) (Immobilisation, Removal and Disposal) (Amendment) Regulations 2015 (S.I. 2015/854)](https://www.legislation.gov.uk/uksi/2015/854), [regs. 1](https://www.legislation.gov.uk/uksi/2015/854/regulation/1), [2(e)(i)](https://www.legislation.gov.uk/uksi/2015/854/regulation/2/e/i)
+[^c-f4b629b64622039ead28f070dc7f8ba7]: Textual amendment: Reg. 14(4) substituted (30.6.2015) by [The Motor Vehicles (Insurance Requirements) (Immobilisation, Removal and Disposal) (Amendment) Regulations 2015 (S.I. 2015/854)](https://www.legislation.gov.uk/uksi/2015/854), [regs. 1](https://www.legislation.gov.uk/uksi/2015/854/regulation/1), [2(e)(i)](https://www.legislation.gov.uk/uksi/2015/854/regulation/2/e/i)
 
-[^key-94994688f878803768d547d53ff54b97]: Textual amendment: Reg. 14(8) substituted (30.6.2015) by [The Motor Vehicles (Insurance Requirements) (Immobilisation, Removal and Disposal) (Amendment) Regulations 2015 (S.I. 2015/854)](https://www.legislation.gov.uk/uksi/2015/854), [regs. 1](https://www.legislation.gov.uk/uksi/2015/854/regulation/1), [2(e)(ii)](https://www.legislation.gov.uk/uksi/2015/854/regulation/2/e/ii)
+[^c-94994688f878803768d547d53ff54b97]: Textual amendment: Reg. 14(8) substituted (30.6.2015) by [The Motor Vehicles (Insurance Requirements) (Immobilisation, Removal and Disposal) (Amendment) Regulations 2015 (S.I. 2015/854)](https://www.legislation.gov.uk/uksi/2015/854), [regs. 1](https://www.legislation.gov.uk/uksi/2015/854/regulation/1), [2(e)(ii)](https://www.legislation.gov.uk/uksi/2015/854/regulation/2/e/ii)
 
-[^key-214d3063f7c067a7e79b34ef29ef34a3]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/1120/schedule/1/paragraph/1) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
+[^c-214d3063f7c067a7e79b34ef29ef34a3]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/1120/schedule/1/paragraph/1) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
 
-[^key-5bbff3d24b99a8ef71e9411dab2e2c77]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2011/1120/schedule/2/paragraph/1) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
+[^c-5bbff3d24b99a8ef71e9411dab2e2c77]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2011/1120/schedule/2/paragraph/1) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
 
-[^key-23cf14414a96b97496c63ef7f6b7869f]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2011/1120/schedule/2/paragraph/2) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)
+[^c-23cf14414a96b97496c63ef7f6b7869f]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2011/1120/schedule/2/paragraph/2) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1120/regulation/1)

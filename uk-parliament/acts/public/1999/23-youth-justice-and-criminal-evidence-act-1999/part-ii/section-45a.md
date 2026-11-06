@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45A. Power to restrict reporting of criminal proceedings for lifetime of witnesses and victims under 18[^key-8235ba177dbac1fecc2bf02ef1459829]
+## 45A. Power to restrict reporting of criminal proceedings for lifetime of witnesses and victims under 18[^c-8235ba177dbac1fecc2bf02ef1459829]
 
 *Extent: E+W+S+N.I.*
 
@@ -94,7 +94,7 @@ is likely to be diminished by reason of fear or distress on the part of the pers
 (15) For the purposes of this section—
 
 - (a) criminal proceedings in a court other than a service court commence when proceedings are instituted for the purposes of Part 1 of the Prosecution of Offences Act 1985, in accordance with section 15(2) of that Act;
-- (b) proceedings in a service court commence when the charge is brought under section 121(1A) or 122[^key-e080041472b37539f5eb0e2a1712bbc1] of the Armed Forces Act 2006.
+- (b) proceedings in a service court commence when the charge is brought under section 121(1A) or 122[^c-e080041472b37539f5eb0e2a1712bbc1] of the Armed Forces Act 2006.
 
 (16) In this section—
 
@@ -105,6 +105,6 @@ is likely to be diminished by reason of fear or distress on the part of the pers
 
 ## Annotations
 
-[^key-8235ba177dbac1fecc2bf02ef1459829]: Textual amendment: S. 45A inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 78(2)](https://www.legislation.gov.uk/ukpga/2015/2/section/78/2), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 63](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/63)
+[^c-8235ba177dbac1fecc2bf02ef1459829]: Textual amendment: S. 45A inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 78(2)](https://www.legislation.gov.uk/ukpga/2015/2/section/78/2), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 63](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/63)
 
-[^key-e080041472b37539f5eb0e2a1712bbc1]: Textual amendment: Words in s. 45A(15)(b) substituted (22.5.2019 for specified purposes, 1.7.2019 in so far as not already in force) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 5(3)(a)](https://www.legislation.gov.uk/ukpga/2016/21/section/5/3/a), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2019/961](https://www.legislation.gov.uk/uksi/2019/961), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2019/961/regulation/2/1/a)[(b)](https://www.legislation.gov.uk/uksi/2019/961/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/961/regulation/3))
+[^c-e080041472b37539f5eb0e2a1712bbc1]: Textual amendment: Words in s. 45A(15)(b) substituted (22.5.2019 for specified purposes, 1.7.2019 in so far as not already in force) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 5(3)(a)](https://www.legislation.gov.uk/ukpga/2016/21/section/5/3/a), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2019/961](https://www.legislation.gov.uk/uksi/2019/961), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2019/961/regulation/2/1/a)[(b)](https://www.legislation.gov.uk/uksi/2019/961/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/961/regulation/3))

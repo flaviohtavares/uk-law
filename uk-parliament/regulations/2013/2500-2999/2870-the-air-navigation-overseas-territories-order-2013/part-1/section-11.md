@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Revocation, suspension and variation of certificates, licences and other documents[^key-eec237134b907185f0f865d90934ebec]
+## 11. Revocation, suspension and variation of certificates, licences and other documents[^c-eec237134b907185f0f865d90934ebec]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eec237134b907185f0f865d90934ebec]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2013/2870/article/11) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-eec237134b907185f0f865d90934ebec]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2013/2870/article/11) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 203. Effect of recall from conditional discharge[^key-25be4a1e6121665fe1580f2b02b350cd]
+## 203. Effect of recall from conditional discharge[^c-25be4a1e6121665fe1580f2b02b350cd]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where the Scottish Ministers recall a patient to hospital under section 202 of t
 
 ## Annotations
 
-[^key-25be4a1e6121665fe1580f2b02b350cd]: Commencement: [S. 203](https://www.legislation.gov.uk/asp/2003/13/section/203) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-25be4a1e6121665fe1580f2b02b350cd]: Commencement: [S. 203](https://www.legislation.gov.uk/asp/2003/13/section/203) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

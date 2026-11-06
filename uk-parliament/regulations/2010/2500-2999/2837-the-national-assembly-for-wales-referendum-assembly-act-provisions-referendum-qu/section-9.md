@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. The Chief Counting Officer and Deputy Chief Counting Officers[^key-61e064add6cbcdc1bec8b821794e60b1]
+## 9. The Chief Counting Officer and Deputy Chief Counting Officers[^c-61e064add6cbcdc1bec8b821794e60b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-61e064add6cbcdc1bec8b821794e60b1]: Commencement: Art. 9 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-61e064add6cbcdc1bec8b821794e60b1]: Commencement: Art. 9 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00018]: Footnote: Section 128(2) of the Political Parties, Elections and Referendums Act 2000 makes provision in connection with the appointment of the Chief Counting Officer.

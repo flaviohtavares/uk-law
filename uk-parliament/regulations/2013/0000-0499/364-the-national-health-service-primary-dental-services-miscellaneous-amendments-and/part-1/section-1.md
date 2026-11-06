@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation, commencement and interpretation[^key-248dc988151e469263f23ef6d6d9a9d4]
+## 1. Citation, commencement and interpretation[^c-248dc988151e469263f23ef6d6d9a9d4]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-248dc988151e469263f23ef6d6d9a9d4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/364/regulation/1) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-248dc988151e469263f23ef6d6d9a9d4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/364/regulation/1) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
 
 [^f00002]: Footnote: [S.I.2005/3361](https://www.legislation.gov.uk/uksi/2005/3361) as amended by [S.I.2006/563](https://www.legislation.gov.uk/uksi/2006/563), [2007/544](https://www.legislation.gov.uk/uksi/2007/544), [2008/528](https://www.legislation.gov.uk/uksi/2008/528), [1514](https://www.legislation.gov.uk/uksi/2008/1514), and [1700](https://www.legislation.gov.uk/uksi/2008/1700), [2009/309](https://www.legislation.gov.uk/uksi/2009/309) and [462](https://www.legislation.gov.uk/uksi/2009/462), [2010/22](https://www.legislation.gov.uk/uksi/2010/22) and [1881](https://www.legislation.gov.uk/uksi/2010/1881), [2011/1182](https://www.legislation.gov.uk/uksi/2011/1182) and [2012/502](https://www.legislation.gov.uk/uksi/2012/502), [2273](https://www.legislation.gov.uk/uksi/2012/2273) and [2404](https://www.legislation.gov.uk/uksi/2012/2404).
 

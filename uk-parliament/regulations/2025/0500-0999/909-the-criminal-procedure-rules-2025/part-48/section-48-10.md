@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48.10. Procedure on hearing[^key-b7a475c93b2aec1927ef6d2e32543f1d]
+## 48.10. Procedure on hearing[^c-b7a475c93b2aec1927ef6d2e32543f1d]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7a475c93b2aec1927ef6d2e32543f1d]: Commencement: [Rule 48.10](https://www.legislation.gov.uk/uksi/2025/909/rule/48.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-b7a475c93b2aec1927ef6d2e32543f1d]: Commencement: [Rule 48.10](https://www.legislation.gov.uk/uksi/2025/909/rule/48.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

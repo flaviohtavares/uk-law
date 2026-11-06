@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Review of reduction in number of constituencies[^key-355b7ca4d0677ab92c94d2d8cfbaa8cc]
+## 14. Review of reduction in number of constituencies[^c-355b7ca4d0677ab92c94d2d8cfbaa8cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-355b7ca4d0677ab92c94d2d8cfbaa8cc]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/2011/1/section/14) omitted (retrospective to 31.5.2020) by virtue of [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [s. 11(1)](https://www.legislation.gov.uk/ukpga/2020/25/section/11/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/11/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-355b7ca4d0677ab92c94d2d8cfbaa8cc]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/2011/1/section/14) omitted (retrospective to 31.5.2020) by virtue of [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [s. 11(1)](https://www.legislation.gov.uk/ukpga/2020/25/section/11/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/11/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 215. Nature of notice[^key-749445743a812b2bfdf506633e582ed8]
+## 215. Nature of notice[^c-749445743a812b2bfdf506633e582ed8]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-749445743a812b2bfdf506633e582ed8]: Commencement: [S. 215](https://www.legislation.gov.uk/ukpga/2005/19/section/215) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)
+[^c-749445743a812b2bfdf506633e582ed8]: Commencement: [S. 215](https://www.legislation.gov.uk/ukpga/2005/19/section/215) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)

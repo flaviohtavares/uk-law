@@ -39,52 +39,52 @@ laying down detailed rules on the monitoring of the reuse/recovery and reuse/rec
 
 (2005/293/EC) (revoked)
 
-[^key-4cc6ac3d606d0c0d9294a360f209ed53]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4cc6ac3d606d0c0d9294a360f209ed53]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-4cc6ac3d606d0c0d9294a360f209ed53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-4cc6ac3d606d0c0d9294a360f209ed53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-4cc6ac3d606d0c0d9294a360f209ed53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-4cc6ac3d606d0c0d9294a360f209ed53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-4cc6ac3d606d0c0d9294a360f209ed53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-4cc6ac3d606d0c0d9294a360f209ed53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-4cc6ac3d606d0c0d9294a360f209ed53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-4cc6ac3d606d0c0d9294a360f209ed53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4cc6ac3d606d0c0d9294a360f209ed53]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4cc6ac3d606d0c0d9294a360f209ed53]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-4cc6ac3d606d0c0d9294a360f209ed53]
+## ANNEX[^c-4cc6ac3d606d0c0d9294a360f209ed53]
 
-[^key-4cc6ac3d606d0c0d9294a360f209ed53]Notes:
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-4cc6ac3d606d0c0d9294a360f209ed53]1.
+[^c-4cc6ac3d606d0c0d9294a360f209ed53]Notes:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4cc6ac3d606d0c0d9294a360f209ed53]2.
+[^c-4cc6ac3d606d0c0d9294a360f209ed53]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4cc6ac3d606d0c0d9294a360f209ed53]3.
+[^c-4cc6ac3d606d0c0d9294a360f209ed53]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4cc6ac3d606d0c0d9294a360f209ed53]4.
+[^c-4cc6ac3d606d0c0d9294a360f209ed53]3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-4cc6ac3d606d0c0d9294a360f209ed53]4.
 
 Member States not using the metal content assumption shall calculate reuse (A) on the basis of the following subtraction method: the individual vehicle weight (Wi) minus weight of the de-polluted and dismantled end-of-life vehicle (body shell) (Wb) minus the weight of the de-polluted and dismantled materials sent for recovery, recycling or final disposal. Member States using the metal content assumption shall determine A (excluding the metal components) on the basis of declarations from the authorised treatment facilities.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4cc6ac3d606d0c0d9294a360f209ed53]5.
+[^c-4cc6ac3d606d0c0d9294a360f209ed53]5.
 
 The total vehicle weight (W1) shall be calculated as the sum of the individual vehicle weights (Wi).
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4cc6ac3d606d0c0d9294a360f209ed53]6.
+[^c-4cc6ac3d606d0c0d9294a360f209ed53]6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4cc6ac3d606d0c0d9294a360f209ed53]: Textual amendment: Decision revoked (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2019/620/schedule/paragraph/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4cc6ac3d606d0c0d9294a360f209ed53]: Textual amendment: Decision revoked (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2019/620/schedule/paragraph/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

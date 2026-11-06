@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Controlled area of Parliament Square[^key-b8d21a91fe8c18713692141909d5b708]
+## 142. Controlled area of Parliament Square[^c-b8d21a91fe8c18713692141909d5b708]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8d21a91fe8c18713692141909d5b708]: Commencement: S. 142 in force at 19.12.2011 by [S.I. 2011/2834](https://www.legislation.gov.uk/uksi/2011/2834), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/2834/article/2/b)
+[^c-b8d21a91fe8c18713692141909d5b708]: Commencement: S. 142 in force at 19.12.2011 by [S.I. 2011/2834](https://www.legislation.gov.uk/uksi/2011/2834), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/2834/article/2/b)

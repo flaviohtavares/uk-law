@@ -44,7 +44,7 @@ A draft of the instrument has been laid before Parliament and a period of forty 
 
 The Commission makes the following Order in exercise of the power conferred by section 59(1) of the Act.
 
-## 1. Citation, commencement, extent and application[^key-9c3bd93a5557cc43dbd97c57dcab6e4e]
+## 1. Citation, commencement, extent and application[^c-9c3bd93a5557cc43dbd97c57dcab6e4e]
 
 (1) This Order may be cited as the Cannock Chase (Electoral Changes) Order 2023.
 
@@ -62,13 +62,13 @@ The Commission makes the following Order in exercise of the power conferred by s
 
 (5) This Order extends to England and Wales but applies in relation to England only.
 
-## 2. Interpretation[^key-63a8d576f114b3a47b3348e454ae032e]
+## 2. Interpretation[^c-63a8d576f114b3a47b3348e454ae032e]
 
 (1) In this Order, “**the map**” means the map marked “Map referred to in the Cannock Chase (Electoral Changes) Order 2023”, held by the Local Government Boundary Commission for England[^f00005].
 
 (2) Where a boundary is shown on the map as running along a road, railway line, footway, watercourse or similar geographical feature, it is to be treated as running along the centre line of the feature.
 
-## 3. Wards of the district of Cannock Chase and number of councillors[^key-3ec5d09197825890b3c7ec4f9df9c458]
+## 3. Wards of the district of Cannock Chase and number of councillors[^c-3ec5d09197825890b3c7ec4f9df9c458]
 
 (1) The existing wards of the district of Cannock Chase are abolished.
 
@@ -78,7 +78,7 @@ The Commission makes the following Order in exercise of the power conferred by s
 
 (4) The number of councillors to be elected for each ward is three.
 
-## 4. Elections of the district of Cannock Chase[^key-37d762e19439b496e65f4f2b3e0c0856]
+## 4. Elections of the district of Cannock Chase[^c-37d762e19439b496e65f4f2b3e0c0856]
 
 (1) Elections of all councillors for each ward of the district of Cannock Chase are to be held simultaneously on the ordinary day of election of councillors in England in 2024.
 
@@ -103,7 +103,7 @@ The Commission makes the following Order in exercise of the power conferred by s
 
 (8) Where under this article any question is to be determined by lot, the lot is to be drawn at the next practicable meeting of the council after the question has arisen and the drawing is to be conducted under the direction of the person presiding at the meeting.
 
-## 5. Parish wards of the parishes of Brereton & Ravenhill, Heath Hayes & Wimblebury, Hednesford and Rugeley and number of councillors[^key-7721fd64cbe1528559202ee65bce7342]
+## 5. Parish wards of the parishes of Brereton & Ravenhill, Heath Hayes & Wimblebury, Hednesford and Rugeley and number of councillors[^c-7721fd64cbe1528559202ee65bce7342]
 
 **Not yet in force.**
 
@@ -131,7 +131,7 @@ Local Government Boundary Commission for England
 
 19th September 2023
 
-## SCHEDULE 1 — Wards of the district of Cannock Chase[^key-f69cbec48a23a7aeafc44a1fad80988a]
+## SCHEDULE 1 — Wards of the district of Cannock Chase[^c-f69cbec48a23a7aeafc44a1fad80988a]
 
 Article 3
 
@@ -150,7 +150,7 @@ Article 3
 | Norton Canes |
 | Western Springs |
 
-## SCHEDULE 2 — Parish wards of the parishes of Brereton & Ravenhill, Heath Hayes & Wimblebury, Hednesford and Rugeley and number of councillors[^key-d78a955bcaa0bbc7012cd04d7f13714a]
+## SCHEDULE 2 — Parish wards of the parishes of Brereton & Ravenhill, Heath Hayes & Wimblebury, Hednesford and Rugeley and number of councillors[^c-d78a955bcaa0bbc7012cd04d7f13714a]
 
 **Not yet in force.**
 
@@ -224,20 +224,20 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00003]: Footnote: The report is available for inspection at reasonable times at the principal office of the Local Government Boundary Commission for England, 1st Floor, Windsor House, 50 Victoria Street, London SW1H 0TL. It is also accessible online at https://www.lgbce.org.uk/all-reviews/cannock-chase.
 
-[^key-9c3bd93a5557cc43dbd97c57dcab6e4e]: Commencement: Art. 1 in force at 20.9.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1023/article/1/2)
+[^c-9c3bd93a5557cc43dbd97c57dcab6e4e]: Commencement: Art. 1 in force at 20.9.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1023/article/1/2)
 
 [^f00004]: Footnote: The ordinary day of election of councillors in England is prescribed by section 37(1) of the Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2), as amended by section 18(2) of the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), renumbered by paragraph 5 of Schedule 3 to the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), and further amended by section 6(16) of the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).
 
-[^key-63a8d576f114b3a47b3348e454ae032e]: Commencement: Art. 2 in force at 20.9.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1023/article/1/2)
+[^c-63a8d576f114b3a47b3348e454ae032e]: Commencement: Art. 2 in force at 20.9.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1023/article/1/2)
 
 [^f00005]: Footnote: Prints of the map are available for inspection at reasonable times at the principal office of the Local Government Boundary Commission for England, 1st Floor, Windsor House, 50 Victoria Street, London SW1H 0TL. It is also accessible online at https://www.lgbce.org.uk/all-reviews/cannock-chase.
 
-[^key-3ec5d09197825890b3c7ec4f9df9c458]: Commencement: Art. 3 in force at 20.9.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/1023/article/1/3)
+[^c-3ec5d09197825890b3c7ec4f9df9c458]: Commencement: Art. 3 in force at 20.9.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/1023/article/1/3)
 
-[^key-37d762e19439b496e65f4f2b3e0c0856]: Commencement: Art. 4 in force at 20.9.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/1023/article/1/3)
+[^c-37d762e19439b496e65f4f2b3e0c0856]: Commencement: Art. 4 in force at 20.9.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/1023/article/1/3)
 
-[^key-7721fd64cbe1528559202ee65bce7342]: Commencement: Art. 5 in force at 15.10.2026 for specified purposes and otherwise on the ordinary day of election of parish councillors in England in 2027, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2023/1023/article/1/4)
+[^c-7721fd64cbe1528559202ee65bce7342]: Commencement: Art. 5 in force at 15.10.2026 for specified purposes and otherwise on the ordinary day of election of parish councillors in England in 2027, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2023/1023/article/1/4)
 
-[^key-f69cbec48a23a7aeafc44a1fad80988a]: Commencement: Sch. 1 in force at 20.9.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/1023/article/1/3)
+[^c-f69cbec48a23a7aeafc44a1fad80988a]: Commencement: Sch. 1 in force at 20.9.2023 for specified purposes and otherwise on the ordinary day of election of councillors in England in 2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/1023/article/1/3)
 
-[^key-d78a955bcaa0bbc7012cd04d7f13714a]: Commencement: Sch. 2 in force at 15.10.2026 for specified purposes and otherwise on the ordinary day of election of parish councillors in England in 2027, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2023/1023/article/1/4)
+[^c-d78a955bcaa0bbc7012cd04d7f13714a]: Commencement: Sch. 2 in force at 15.10.2026 for specified purposes and otherwise on the ordinary day of election of parish councillors in England in 2027, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2023/1023/article/1/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.100. Appointment by creditors or contributories[^key-53831e6380b22774fdaedb06397b2cc6]
+## 4.100. Appointment by creditors or contributories[^c-53831e6380b22774fdaedb06397b2cc6]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (2) [^m00057] The chairman of the meeting shall certify the appointment, but not unless and until the person appointed has provided him with a written statement to the effect that he is an insolvency practitioner, duly qualified under the Act to be the liquidator, and that he consents so to act.
 
-(3)[^key-d973c61db4f552867146c75283534a1d] The liquidator’s appointment is effective from the date on which the appointment is certified, that date to be endorsed on the certificate.
+(3)[^c-d973c61db4f552867146c75283534a1d] The liquidator’s appointment is effective from the date on which the appointment is certified, that date to be endorsed on the certificate.
 
 (4) The chairman of the meeting (if not himself the official receiver) shall send the certificate to the official receiver.
 
@@ -34,8 +34,8 @@ summary: ''
 
 ## Annotations
 
-[^key-53831e6380b22774fdaedb06397b2cc6]: Commencement: [Rule 4.100](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.100) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-53831e6380b22774fdaedb06397b2cc6]: Commencement: [Rule 4.100](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.100) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00057]: Marginal citation: \[FORM 4.27\] \[FORM 4.28\]
 
-[^key-d973c61db4f552867146c75283534a1d]: Textual amendment: [Rule 4.100(3)-(5)](https://www.legislation.gov.uk/uksi/1986/1925/article/4.100/3) substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 60](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/60)
+[^c-d973c61db4f552867146c75283534a1d]: Textual amendment: [Rule 4.100(3)-(5)](https://www.legislation.gov.uk/uksi/1986/1925/article/4.100/3) substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 60](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/60)

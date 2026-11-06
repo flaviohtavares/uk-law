@@ -101,7 +101,7 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 ## PART II — AMENDMENT OF SOCIAL SECURITY PROVISIONS
 
-### 4. Amendment of Schedule 9 to the Social Security (Claims and Payments) Regulations 1987[^key-339eb0a0d35c698370e6e9f164a5e844]
+### 4. Amendment of Schedule 9 to the Social Security (Claims and Payments) Regulations 1987[^c-339eb0a0d35c698370e6e9f164a5e844]
 
 In paragraph 7A(1) of Schedule 9 to the Social Security (Claims and Payments) Regulations 1987 [^c16412551], for the words “a child support officer (within the meaning of section 13 of the Child Support Act 1991)" there shall be substituted the words “ the Secretary of State ”.
 
@@ -1156,7 +1156,7 @@ The following provisions have been brought into force by the Social Security Act
 
 [^c16412541]: Marginal citation: [1993 c.8](https://www.legislation.gov.uk/ukpga/1993/8).
 
-[^key-339eb0a0d35c698370e6e9f164a5e844]: Modification: [Art. 4](https://www.legislation.gov.uk/uksi/1999/1510/article/4) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-339eb0a0d35c698370e6e9f164a5e844]: Modification: [Art. 4](https://www.legislation.gov.uk/uksi/1999/1510/article/4) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^c16412551]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968); [paragraph 7A](https://www.legislation.gov.uk/uksi/1999/1510/paragraph/7A) was inserted by [S.I. 1993/478](https://www.legislation.gov.uk/uksi/1993/478) and sub-paragraph (1) was substituted by [S.I. 1993/2113](https://www.legislation.gov.uk/uksi/1993/2113).
 

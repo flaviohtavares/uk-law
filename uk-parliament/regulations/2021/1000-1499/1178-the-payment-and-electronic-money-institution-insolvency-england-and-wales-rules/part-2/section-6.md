@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Content of application[^key-f62632c34d43b562727152bb5656cf0e]
+## 6. Content of application[^c-f62632c34d43b562727152bb5656cf0e]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f62632c34d43b562727152bb5656cf0e]: Commencement: Rule 6 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-f62632c34d43b562727152bb5656cf0e]: Commencement: Rule 6 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

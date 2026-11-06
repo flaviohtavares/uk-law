@@ -40,11 +40,11 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Articles 56, 65 and 106(*b*) of, and paragraphs 1, 8 and 8C(2) of Schedule 11 to, the Health and Personal Social Services (Northern Ireland) Order 1972[^f00001], and Articles 14 and 31(2) of, and paragraphs 3(4) and (5) and 7 of Schedule 1 to, the Health Services (Primary Care) (Northern Ireland) Order 1997[^f00002] and of all other powers enabling it in that behalf, and after consultation with such organisations as appear to the Department of Health and Social Services to be representative of the medical profession as required by Article 56(5) of the said Order, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-1b838109eb42514923df782070a73679]
+## 1. Citation and commencement[^c-1b838109eb42514923df782070a73679]
 
 These Regulations may be cited as the Health Services (Tribunal and Disciplinary Procedures) (Amendment) Regulations (Northern Ireland) 1999, and shall come into operation on 1st April 1999.
 
-## 2. Amendment of the Tribunal Regulations (Northern Ireland) 1995[^key-8ede0b82a1c5ec01791c643dbf15275e]
+## 2. Amendment of the Tribunal Regulations (Northern Ireland) 1995[^c-8ede0b82a1c5ec01791c643dbf15275e]
 
 The Tribunal Regulations (Northern Ireland) 1995[^f00003] shall be amended as follows–
 
@@ -167,7 +167,7 @@ The Tribunal Regulations (Northern Ireland) 1995[^f00003] shall be amended as fo
   - (i) in paragraph 1, after “inquiry shall” there shall be inserted “, whether or not on application by any party,”,
   - (ii) in paragraph 2, after “practices” there shall be inserted “(or, in the case of representations made under the 1997 Order, in whose medical list the respondent is seeking to be included)”.
 
-## 3. Amendment of the Health and Personal Social Services (Disciplinary Procedures) Regulations (Northern Ireland) 1996[^key-83814d49402a0ced12b8dd72f700fb1a]
+## 3. Amendment of the Health and Personal Social Services (Disciplinary Procedures) Regulations (Northern Ireland) 1996[^c-83814d49402a0ced12b8dd72f700fb1a]
 
 The Health and Personal Social Services (Disciplinary Procedures) Regulations (Northern Ireland) 1996[^f00005] shall be amended as follows–
 
@@ -175,14 +175,14 @@ The Health and Personal Social Services (Disciplinary Procedures) Regulations (N
 
   > - “the 1997 Order” means the Health Services (Primary Care) (Northern Ireland) Order 1997;
 
-  > - [^key-53ad9d698c0e71e0571cf401f5051e11]...
+  > - [^c-53ad9d698c0e71e0571cf401f5051e11]...
 
   > - “pilot scheme” has the meaning given in Article 3(1) of the 1997 Order;
 
   > - “pilot scheme practitioner” has the meaning given in Article 16(3) of the 1997 Order;
 
   ; and
-- (b)[^key-ad0e3eb70da3b785549db19d41ab096b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ad0e3eb70da3b785549db19d41ab096b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Sealed with the Official Seal of the Department of Health and Social Services on
 
@@ -210,18 +210,18 @@ The Regulations also make consequential amendments to the Health and Personal So
 
 [^f00002]: Footnote: [S.I. 1997/1177 (N.I. 7)](https://www.legislation.gov.uk/nisi/1997/1177)
 
-[^key-1b838109eb42514923df782070a73679]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1999/15/regulation/1) in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/15/regulation/1)
+[^c-1b838109eb42514923df782070a73679]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1999/15/regulation/1) in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/15/regulation/1)
 
-[^key-8ede0b82a1c5ec01791c643dbf15275e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1999/15/regulation/2) in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/15/regulation/1)
+[^c-8ede0b82a1c5ec01791c643dbf15275e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1999/15/regulation/2) in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/15/regulation/1)
 
 [^f00003]: Footnote: [S.R. 1995 No. 493](https://www.legislation.gov.uk/nisr/1995/493); as amended by [S.R. 1997 No. 71](https://www.legislation.gov.uk/nisr/1997/71)
 
 [^f00004]: Footnote: [S.R. 1997 No. 380](https://www.legislation.gov.uk/nisr/1997/380); as amended by [S.R. 1998 No. 9](https://www.legislation.gov.uk/nisr/1998/9)
 
-[^key-83814d49402a0ced12b8dd72f700fb1a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1999/15/regulation/3) in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/15/regulation/1)
+[^c-83814d49402a0ced12b8dd72f700fb1a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1999/15/regulation/3) in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/15/regulation/1)
 
 [^f00005]: Footnote: [S.R. 1996 No. 137](https://www.legislation.gov.uk/nisr/1996/137)
 
-[^key-53ad9d698c0e71e0571cf401f5051e11]: Textual amendment: Words in [reg. 3(a)](https://www.legislation.gov.uk/nisr/1999/15/regulation/3/a) omitted (1.4.2004) by virtue of [The General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004 (S.R. 2004/156)](https://www.legislation.gov.uk/nisr/2004/156), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/regulation/1/1), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/nisr/2004/156/schedule/1/paragraph/12/a)
+[^c-53ad9d698c0e71e0571cf401f5051e11]: Textual amendment: Words in [reg. 3(a)](https://www.legislation.gov.uk/nisr/1999/15/regulation/3/a) omitted (1.4.2004) by virtue of [The General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004 (S.R. 2004/156)](https://www.legislation.gov.uk/nisr/2004/156), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/regulation/1/1), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/nisr/2004/156/schedule/1/paragraph/12/a)
 
-[^key-ad0e3eb70da3b785549db19d41ab096b]: Textual amendment: [Reg. 3(b)](https://www.legislation.gov.uk/nisr/1999/15/regulation/3/b) omitted (1.4.2004) by virtue of [The General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004 (S.R. 2004/156)](https://www.legislation.gov.uk/nisr/2004/156), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/regulation/1/1), [Sch. 1 para. 12(b)](https://www.legislation.gov.uk/nisr/2004/156/schedule/1/paragraph/12/b)
+[^c-ad0e3eb70da3b785549db19d41ab096b]: Textual amendment: [Reg. 3(b)](https://www.legislation.gov.uk/nisr/1999/15/regulation/3/b) omitted (1.4.2004) by virtue of [The General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004 (S.R. 2004/156)](https://www.legislation.gov.uk/nisr/2004/156), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/regulation/1/1), [Sch. 1 para. 12(b)](https://www.legislation.gov.uk/nisr/2004/156/schedule/1/paragraph/12/b)

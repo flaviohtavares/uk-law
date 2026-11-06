@@ -42,13 +42,13 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 96(2) of that Act a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-ea70edd54bce50aeb9a2521199d9c0c4]
+## 1. Citation and commencement[^c-ea70edd54bce50aeb9a2521199d9c0c4]
 
 These Regulations may be cited as the Social Security (Advocacy Service Standards) (Scotland) Regulations 2020 and come into force on the day after the day on which they are made.
 
-## 2. Advocacy service standards[^key-36b02035d02adb2747e077f0bd8b3543]
+## 2. Advocacy service standards[^c-36b02035d02adb2747e077f0bd8b3543]
 
-The advocacy service standards for the purposes of section 11 of the Social Security (Scotland) Act 2018 (advocacy service standards) are those contained in the document prepared by the Scottish Ministers entitled “Social Security (Scotland) Act 2018 – Advocacy Service Standards” published on 9 November 2021[^key-23b193fe9abac0ee6194f294e4a2390c].
+The advocacy service standards for the purposes of section 11 of the Social Security (Scotland) Act 2018 (advocacy service standards) are those contained in the document prepared by the Scottish Ministers entitled “Social Security (Scotland) Act 2018 – Advocacy Service Standards” published on 9 November 2021[^c-23b193fe9abac0ee6194f294e4a2390c].
 
 SHIRLEY-ANNE SOMERVILLE
 
@@ -70,8 +70,8 @@ Regulation 2 provides that the advocacy service standards are set by reference t
 
 [^f00001]: Footnote: [2018 asp 9](https://www.legislation.gov.uk/asp/2018/9).
 
-[^key-ea70edd54bce50aeb9a2521199d9c0c4]: Commencement: Reg. 1 in force at 2.4.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/115/regulation/1)
+[^c-ea70edd54bce50aeb9a2521199d9c0c4]: Commencement: Reg. 1 in force at 2.4.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/115/regulation/1)
 
-[^key-36b02035d02adb2747e077f0bd8b3543]: Commencement: Reg. 2 in force at 2.4.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/115/regulation/1)
+[^c-36b02035d02adb2747e077f0bd8b3543]: Commencement: Reg. 2 in force at 2.4.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/115/regulation/1)
 
-[^key-23b193fe9abac0ee6194f294e4a2390c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2020/115/regulation/2) substituted (9.11.2021) by [The Social Security (Advocacy Service Standards) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/399)](https://www.legislation.gov.uk/ssi/2021/399), [regs. 1](https://www.legislation.gov.uk/ssi/2021/399/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/399/regulation/2/2)
+[^c-23b193fe9abac0ee6194f294e4a2390c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2020/115/regulation/2) substituted (9.11.2021) by [The Social Security (Advocacy Service Standards) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/399)](https://www.legislation.gov.uk/ssi/2021/399), [regs. 1](https://www.legislation.gov.uk/ssi/2021/399/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/399/regulation/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Circumstances in which claimants are not to be treated as available for employment[^key-1c62c5c4a6898e4e7f7ec90ee69e868b][^key-fd54f9f3798c8097782436cb05e79484]
+## 10. Circumstances in which claimants are not to be treated as available for employment[^c-1c62c5c4a6898e4e7f7ec90ee69e868b][^c-fd54f9f3798c8097782436cb05e79484]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1c62c5c4a6898e4e7f7ec90ee69e868b]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/1987/1967/regulation/10) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+[^c-1c62c5c4a6898e4e7f7ec90ee69e868b]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/1987/1967/regulation/10) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
 
-[^key-fd54f9f3798c8097782436cb05e79484]: Commencement: Reg. 10 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)
+[^c-fd54f9f3798c8097782436cb05e79484]: Commencement: Reg. 10 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)

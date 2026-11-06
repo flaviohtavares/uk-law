@@ -34,7 +34,7 @@ Exiting The European Union
 
 Financial Services
 
-The Solvency 2 (Group Supervision) (Amendment) Regulations 2021 (revoked)[^key-da2f027c4836d3cbff41fcdd0b99836d]
+The Solvency 2 (Group Supervision) (Amendment) Regulations 2021 (revoked)[^c-da2f027c4836d3cbff41fcdd0b99836d]
 
 Made
 
@@ -44,22 +44,22 @@ Coming into force
 
 24th January 2022
 
-[^key-da2f027c4836d3cbff41fcdd0b99836d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-da2f027c4836d3cbff41fcdd0b99836d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-da2f027c4836d3cbff41fcdd0b99836d]
+## 1. Citation and commencement[^c-da2f027c4836d3cbff41fcdd0b99836d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Solvency 2 Regulations 2015[^key-da2f027c4836d3cbff41fcdd0b99836d]
+## 2. Amendments to the Solvency 2 Regulations 2015[^c-da2f027c4836d3cbff41fcdd0b99836d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-da2f027c4836d3cbff41fcdd0b99836d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-da2f027c4836d3cbff41fcdd0b99836d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-da2f027c4836d3cbff41fcdd0b99836d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-da2f027c4836d3cbff41fcdd0b99836d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-da2f027c4836d3cbff41fcdd0b99836d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/1408) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-da2f027c4836d3cbff41fcdd0b99836d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/1408) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)

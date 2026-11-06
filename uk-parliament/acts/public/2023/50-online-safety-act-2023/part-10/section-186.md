@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186. Liability of corporate officers[^key-15371427ffec77a1beec2c1a8f685b1e][^key-33a5283b51942d7574dd113cbb5f01dd]
+## 186. Liability of corporate officers[^c-15371427ffec77a1beec2c1a8f685b1e][^c-33a5283b51942d7574dd113cbb5f01dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ the partner (as well as the partnership) commits the offence and is liable to be
 
 ## Annotations
 
-[^key-15371427ffec77a1beec2c1a8f685b1e]: Commencement: S. 186 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-15371427ffec77a1beec2c1a8f685b1e]: Commencement: S. 186 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-33a5283b51942d7574dd113cbb5f01dd]: Commencement: [S. 186](https://www.legislation.gov.uk/ukpga/2023/50/section/186) in force at 31.1.2024 by [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-33a5283b51942d7574dd113cbb5f01dd]: Commencement: [S. 186](https://www.legislation.gov.uk/ukpga/2023/50/section/186) in force at 31.1.2024 by [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Liquidator’s reports[^key-917ea5e7f338626dbfe1415f025d7a98]
+## 74. Liquidator’s reports[^c-917ea5e7f338626dbfe1415f025d7a98]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-917ea5e7f338626dbfe1415f025d7a98]: Commencement: Rule 74 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-917ea5e7f338626dbfe1415f025d7a98]: Commencement: Rule 74 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

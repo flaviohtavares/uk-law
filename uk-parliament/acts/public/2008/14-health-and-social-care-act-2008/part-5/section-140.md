@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Pharmaceutical services[^key-0402495d9e8d5929b857872ba5aeae21][^key-a745310d05f6df856cc51e135983cab4]
+## 140. Pharmaceutical services[^c-0402495d9e8d5929b857872ba5aeae21][^c-a745310d05f6df856cc51e135983cab4]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 12 (which contains amendments of the National Health Service Act 2006 a
 
 ## Annotations
 
-[^key-0402495d9e8d5929b857872ba5aeae21]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2008/14/section/140) in force at 1.4.2010 for specified purposes by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/708/article/2/a)
+[^c-0402495d9e8d5929b857872ba5aeae21]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2008/14/section/140) in force at 1.4.2010 for specified purposes by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/708/article/2/a)
 
-[^key-a745310d05f6df856cc51e135983cab4]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2008/14/section/140) in force at 21.5.2010 for specified purposes by [S.I. 2010/1457](https://www.legislation.gov.uk/wsi/2010/1457), [art. 2(a)](https://www.legislation.gov.uk/wsi/2010/1457/article/2/a)
+[^c-a745310d05f6df856cc51e135983cab4]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2008/14/section/140) in force at 21.5.2010 for specified purposes by [S.I. 2010/1457](https://www.legislation.gov.uk/wsi/2010/1457), [art. 2(a)](https://www.legislation.gov.uk/wsi/2010/1457/article/2/a)

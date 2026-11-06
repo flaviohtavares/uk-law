@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Penalty[^key-54c80751cb3afd5c4e9ff32ddca0fff8]
+## 82. Penalty[^c-54c80751cb3afd5c4e9ff32ddca0fff8]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ A person guilty of an offence under this Part shall be liable—
 
 ## Annotations
 
-[^key-54c80751cb3afd5c4e9ff32ddca0fff8]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2003/20/section/82) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(e)](https://www.legislation.gov.uk/uksi/2004/827/article/3/e)
+[^c-54c80751cb3afd5c4e9ff32ddca0fff8]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2003/20/section/82) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(e)](https://www.legislation.gov.uk/uksi/2004/827/article/3/e)

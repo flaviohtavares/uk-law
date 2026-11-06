@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57A. Eligible complaints – breach of the relevant requirements by a green deal assessor[^key-f2cc4c22373c68ce86696b630463b417]
+## 57A. Eligible complaints – breach of the relevant requirements by a green deal assessor[^c-f2cc4c22373c68ce86696b630463b417]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ An eligible complaint in respect of a breach of the relevant requirements by a g
 
 ## Annotations
 
-[^key-f2cc4c22373c68ce86696b630463b417]: Textual amendment: [Reg. 57A](https://www.legislation.gov.uk/uksi/2012/2079/regulation/57A) inserted (28.1.2013) by [The Green Deal Framework (Disclosure, Acknowledgment, Redress etc.) (Amendment) Regulations 2013 (S.I. 2013/139)](https://www.legislation.gov.uk/uksi/2013/139), [regs. 1](https://www.legislation.gov.uk/uksi/2013/139/regulation/1), [10](https://www.legislation.gov.uk/uksi/2013/139/regulation/10)
+[^c-f2cc4c22373c68ce86696b630463b417]: Textual amendment: [Reg. 57A](https://www.legislation.gov.uk/uksi/2012/2079/regulation/57A) inserted (28.1.2013) by [The Green Deal Framework (Disclosure, Acknowledgment, Redress etc.) (Amendment) Regulations 2013 (S.I. 2013/139)](https://www.legislation.gov.uk/uksi/2013/139), [regs. 1](https://www.legislation.gov.uk/uksi/2013/139/regulation/1), [10](https://www.legislation.gov.uk/uksi/2013/139/regulation/10)

@@ -24,7 +24,7 @@ Article 28
 
 ### PART 1 — Licensed marine activities
 
-**1.**[^key-d9889607bbc2f78a171636ef8b4793d8] (1) In this licence—
+**1.**[^c-d9889607bbc2f78a171636ef8b4793d8] (1) In this licence—
 
 - “the 2004 Act” means the Energy Act 2004[^f00047];
 - “the 2007 Regulations” means the Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007[^f00048];
@@ -184,7 +184,7 @@ Article 28
 
   Tel: 01483 252 059.
 
-#### 2. Details of licensed marine activities[^key-9b75f1edc216bfe51ecf919cbe96119d]
+#### 2. Details of licensed marine activities[^c-9b75f1edc216bfe51ecf919cbe96119d]
 
 Subject to the licence conditions, this licence authorises the undertaker (and any agent or contractor acting on their behalf) to carry out the following licensable marine activities under section 66(1) of the 2009 Act—
 
@@ -196,7 +196,7 @@ Subject to the licence conditions, this licence authorises the undertaker (and a
   - (ii) 219,675 m<sup>3</sup> for the offshore electrical substations;
   - (iii) 162,242 m<sup>3</sup> for the export cables.
 
-**3.**[^key-20dd10737028e5d10521d7b9ff0c3491] Such activities are authorised in relation to the construction, maintenance and operation of—
+**3.**[^c-20dd10737028e5d10521d7b9ff0c3491] Such activities are authorised in relation to the construction, maintenance and operation of—
 
 (1) Work No. 2 (phase 1) – up to three offshore electrical stations fixed to the seabed within the area shown on the works plan by one of two foundation types (namely jacket or gravity base).
 
@@ -211,7 +211,7 @@ Subject to the licence conditions, this licence authorises the undertaker (and a
 - (a) temporary landing places, moorings or other means of accommodating vessels in the construction and/ or maintenance of the authorised scheme; and
 - (b) marking buoys, beacons, fenders and other navigational warning or ship impact protection works.
 
-**4.**[^key-6cf2ea3c232207e130ae255259394144] The substances or articles authorised for deposit at sea are—
+**4.**[^c-6cf2ea3c232207e130ae255259394144] The substances or articles authorised for deposit at sea are—
 
 - (a) iron and steel, copper and aluminium;
 - (b) stone and rock;
@@ -221,7 +221,7 @@ Subject to the licence conditions, this licence authorises the undertaker (and a
 - (f) material extracted from within the offshore Order limits during construction drilling and seabed preparation for foundation works and cable sandwave preparation works; and
 - (g) marine coatings, other chemicals and timber.
 
-**5.**[^key-65924dde23a31a85271f4fc16c5ae093] The grid coordinates for the authorised scheme are specified below—
+**5.**[^c-65924dde23a31a85271f4fc16c5ae093] The grid coordinates for the authorised scheme are specified below—
 
 | Point | Latitude (DMS) | Longitude (DMS) | Point | Latitude (DMS) | Longitude (DMS) |
 | --- | --- | --- | --- | --- | --- |
@@ -334,30 +334,30 @@ Subject to the licence conditions, this licence authorises the undertaker (and a
 | 107 | 52° 8′ 11.224″ N | 1° 52′ 49.779″ E | 33 | 52° 13′ 46.402″ N | 2° 19′ 32.631″ E |
 | 108 | 52° 8′ 11.076″ N | 1° 52′ 49.044″ E |  |  |  |
 
-**6.**[^key-e16052f8a317fe716e06444703077686] This licence remains in force until the authorised scheme has been decommissioned in accordance with a programme approved by the Secretary of State under section 106 of the 2004 Act, including any modification to the programme under section 108, and the completion of such programme has been confirmed by the Secretary of State in writing.
+**6.**[^c-e16052f8a317fe716e06444703077686] This licence remains in force until the authorised scheme has been decommissioned in accordance with a programme approved by the Secretary of State under section 106 of the 2004 Act, including any modification to the programme under section 108, and the completion of such programme has been confirmed by the Secretary of State in writing.
 
-**7.**[^key-3f1458cba5f5a84b75cfd76d6db50782] The provisions of section 72 of the 2009 Act apply to this licence except that the provisions of section 72(7) relating to the transfer of the licence only apply to a transfer not falling within article 5 (benefit of the Order).
+**7.**[^c-3f1458cba5f5a84b75cfd76d6db50782] The provisions of section 72 of the 2009 Act apply to this licence except that the provisions of section 72(7) relating to the transfer of the licence only apply to a transfer not falling within article 5 (benefit of the Order).
 
-**8.**[^key-26ab40ab940007d3f463693b6dc466a0] With respect to any condition which requires the licensed activities be carried out in accordance with the plans, protocols or statements approved under this Schedule, the approved details, plan or scheme are taken to include any amendments that may subsequently be approved in writing by the MMO.
+**8.**[^c-26ab40ab940007d3f463693b6dc466a0] With respect to any condition which requires the licensed activities be carried out in accordance with the plans, protocols or statements approved under this Schedule, the approved details, plan or scheme are taken to include any amendments that may subsequently be approved in writing by the MMO.
 
-**9.**[^key-a420fb8fbfca6658ae750fcf9e088ce2] Any amendments to or variations from the approved plans, protocols or statements must be minor or immaterial where it has been demonstrated that the subject matter of the approval sought is unlikely to give rise to any materially new or materially different environmental effects from those assessed in the environmental statement.
+**9.**[^c-a420fb8fbfca6658ae750fcf9e088ce2] Any amendments to or variations from the approved plans, protocols or statements must be minor or immaterial where it has been demonstrated that the subject matter of the approval sought is unlikely to give rise to any materially new or materially different environmental effects from those assessed in the environmental statement.
 
 ### PART 2 — Conditions
 
-#### 1. Design parameters[^key-faf78af5c4640445afa2e6a5696f9d23]
+#### 1. Design parameters[^c-faf78af5c4640445afa2e6a5696f9d23]
 
 Licensed activities must not take place within the restricted area until the MMO has confirmed in writing that it is satisfied with the results of a sediment sample survey or that sufficient mitigation has been secured in the approved method statement required to be submitted under condition 13(1)(g), to prevent impacts from contaminated sediment.
 
-**2.**[^key-84d9264dc37148ce49bd956cf6b3e610] Offshore platforms forming part of the authorised scheme must not be erected within the platform exclusion zone, whose co-ordinates are specified below—
+**2.**[^c-84d9264dc37148ce49bd956cf6b3e610] Offshore platforms forming part of the authorised scheme must not be erected within the platform exclusion zone, whose co-ordinates are specified below—
 
 | Point | Latitude (DMS) | Longitude (DMS) | Point | Latitude (DMS) | Longitude (DMS) |
 | --- | --- | --- | --- | --- | --- |
 | 1 | 52° 30′ 20.0268″ N | 2° 48′ 33.264″ E | 3 | 52° 32′ 10.4568″ N | 2° 45′ 31.9572″ E |
 | 2 | 52° 31′ 32.0664″ N | 2° 45′ 31.8672″ E | 4 | 52° 30′ 48.7369″ N | 2° 48′ 57.7512″ E |
 
-**3.**[^key-e30b7f11735e5518c8dc549f75cef3be] In the event that driven or part-driven pile foundations are proposed to be used, the hammer energy used to drive or part-drive the pile foundations must not exceed 3,500kJ.
+**3.**[^c-e30b7f11735e5518c8dc549f75cef3be] In the event that driven or part-driven pile foundations are proposed to be used, the hammer energy used to drive or part-drive the pile foundations must not exceed 3,500kJ.
 
-**4.**[^key-49a19e512da302aeaed45768f094f0d3] (1) The total number of offshore electrical stations forming part of the authorised scheme must not exceed three.
+**4.**[^c-49a19e512da302aeaed45768f094f0d3] (1) The total number of offshore electrical stations forming part of the authorised scheme must not exceed three.
 
 (2) The dimensions of any offshore electrical station forming part of the authorised scheme (excluding towers, helipads, masts and cranes) must not exceed 70 metres in height when measured from LAT, 80 metres in length and 120 metres in width.
 
@@ -368,16 +368,16 @@ Licensed activities must not take place within the restricted area until the MMO
 - (a) a footprint at the seabed which is more than than 15,855 m<sup>2</sup>;
 - (b) more than one pile per leg or more than one suction caisson per leg.
 
-**5.**[^key-f771ace42a3f3551ee90a51508ddbf0e] The total length of the cables and the volume of their cable protection must not exceed the following—
+**5.**[^c-f771ace42a3f3551ee90a51508ddbf0e] The total length of the cables and the volume of their cable protection must not exceed the following—
 
 | Work | Length | Cable protection |
 | --- | --- | --- |
 | Work No. 3 (platform link) | 75 kilometres | 8,900 m3 |
 | Work No. 5A (export cable) | 332 kilometres | 40,630 m3 |
 
-**6.**[^key-9387b9d39ccd93a51800fccda115bfd5] The total amount of scour protection for the offshore electrical stations forming part of the authorised scheme must not exceed 50,400 m<sup>2</sup>.
+**6.**[^c-9387b9d39ccd93a51800fccda115bfd5] The total amount of scour protection for the offshore electrical stations forming part of the authorised scheme must not exceed 50,400 m<sup>2</sup>.
 
-#### 7. Notifications and inspections[^key-06390b9c1320ce34baae93eaf0602ea9]
+#### 7. Notifications and inspections[^c-06390b9c1320ce34baae93eaf0602ea9]
 
 (1) The undertaker must ensure that—
 
@@ -415,7 +415,7 @@ Confirmation of notification must be provided to the MMO within five days.
 
 (11) In case of damage to, or destruction or decay of, the authorised scheme seaward of MHWS or any part thereof the undertaker must as soon as possible and no later than 24 hours following the undertaker becoming aware of any such damage, destruction or decay, notify MMO, MCA, Trinity House and the UK Hydrographic Office.
 
-#### 8. Aids to navigation[^key-0aad8082b55a3f04065b68456f225b72]
+#### 8. Aids to navigation[^c-0aad8082b55a3f04065b68456f225b72]
 
 (1) The undertaker must during the whole period from commencement of the licensed activities to completion of decommissioning seaward of MHWS exhibit such lights, marks, sounds, signals and other aids to navigation, and to take such other steps for the prevention of danger to navigation as Trinity House may from time to time direct.
 
@@ -431,9 +431,9 @@ Confirmation of notification must be provided to the MMO within five days.
 
 (5) In the event that the provisions of condition 7(11) are invoked, the undertaker must lay down such buoys, exhibit such lights and take such other steps for preventing danger to navigation as directed by Trinity House.
 
-**9.**[^key-63c9d15a1dbd638e2dc24a3ce49bc173] The undertaker must colour all structures yellow (colour code RAL 1023) from at least highest astronomical tide to a height directed by Trinity House, or must colour the structure as directed by Trinity House from time to time.
+**9.**[^c-63c9d15a1dbd638e2dc24a3ce49bc173] The undertaker must colour all structures yellow (colour code RAL 1023) from at least highest astronomical tide to a height directed by Trinity House, or must colour the structure as directed by Trinity House from time to time.
 
-#### 10. Aviation safety[^key-34f695c36a1359407342310db7500082]
+#### 10. Aviation safety[^c-34f695c36a1359407342310db7500082]
 
 The undertaker must notify the Defence Infrastructure Organisation Safeguarding, at least 14 days prior to the commencement of the authorised scheme, in writing of the following information—
 
@@ -445,7 +445,7 @@ The undertaker must notify the Defence Infrastructure Organisation Safeguarding,
 
 and the Defence Infrastructure Organisation Safeguarding must be notified of any changes to the information supplied under this paragraph and of the completion of the construction of the authorised scheme. Copies of notifications must be provided to the MMO.
 
-#### 11. Chemicals, drilling and debris[^key-5120cccd28259d1bad9c41b5d7e7db88]
+#### 11. Chemicals, drilling and debris[^c-5120cccd28259d1bad9c41b5d7e7db88]
 
 (1) Unless otherwise agreed in writing by the MMO all chemicals used in the construction of the authorised scheme must be selected from the List of Notified Chemicals approved for use by the offshore oil and gas industry under the Offshore Chemicals Regulations 2002 (as amended).
 
@@ -469,13 +469,13 @@ and the Defence Infrastructure Organisation Safeguarding must be notified of any
 
 (11) All dropped objects must be reported to the MMO using the Dropped Object Procedure Form as soon as reasonably practicable and in any event within 24 hours of the undertaker becoming aware of an incident. On receipt of the Dropped Object Procedure Form, the MMO may require relevant surveys to be carried out by the undertaker (such as side scan sonar) if reasonable to do so and the MMO may require obstructions to be removed from the seabed at the undertaker’s expense if reasonable to do so.
 
-#### 12. Force majeure[^key-dcda0040fc1ad4e0c1121872c2ea9aef]
+#### 12. Force majeure[^c-dcda0040fc1ad4e0c1121872c2ea9aef]
 
 (1) If, due to stress of weather or any other cause the master of a vessel determines that it is necessary to deposit the authorised deposits within or outside of the Order limits because the safety of human life and/or of the vessel is threatened, within 48 hours full details of the circumstances of the deposit must be notified to the MMO.
 
 (2) The unauthorised deposits must be removed at the expense of the undertaker unless written approval is obtained from the MMO.
 
-#### 13. Pre-construction plans and documentation[^key-b25cff5b3bade7b168e68dc324cbc821]
+#### 13. Pre-construction plans and documentation[^c-b25cff5b3bade7b168e68dc324cbc821]
 
 (1) The licensed activities or any part of those activities must not commence until the following (as relevant to that part) have been submitted to and approved in writing by the MMO—
 
@@ -542,7 +542,7 @@ and the Defence Infrastructure Organisation Safeguarding must be notified of any
 
 (3) Pre-construction archaeological investigations and pre-commencement material operations which involve intrusive seabed works must only take place in accordance with a specific written scheme of investigation which is itself in accordance with the details set out in the outline offshore written scheme of investigation, and which has been submitted to and approved by the MMO.
 
-**14.**[^key-57c6583cfcc3536eb429a704f3beeb0d] (1) Any archaeological reports produced in accordance with condition 13(1)(h)(iii) are to be agreed with the statutory historic body (and, if relevant, Suffolk Coastal District Council).
+**14.**[^c-57c6583cfcc3536eb429a704f3beeb0d] (1) Any archaeological reports produced in accordance with condition 13(1)(h)(iii) are to be agreed with the statutory historic body (and, if relevant, Suffolk Coastal District Council).
 
 (2) Each programme, statement, plan, protocol or scheme required to be approved under condition 13 must be submitted for approval at least four months prior to the intended commencement of licensed activities, except where otherwise stated or unless otherwise agreed in writing by the MMO.
 
@@ -552,7 +552,7 @@ and the Defence Infrastructure Organisation Safeguarding must be notified of any
 
 (5) No part of the authorised scheme may commence until the MMO, in consultation with the MCA, has given written approval of an Emergency Response Co-operation Plan (ERCoP) which includes full details of the plan for emergency, response and co-operation for the construction, operation and decommissioning phases of that part of the authorised scheme in accordance with the MCA recommendations contained within MGN543 “Offshore Renewable Energy Installations (OREIs) – Guidance on UK Navigational Practice, Safety and Emergency Response Issues”, and has confirmed in writing that the undertaker has taken into account and, so far as is applicable to that part of the authorised scheme, adequately addressed all MCA recommendations contained within MGN543 and its annexes.
 
-#### 15. Reporting of engaged agents, contractors and vessels[^key-4b26cbfa9dbc1a2929e190d6dbddc8fa]
+#### 15. Reporting of engaged agents, contractors and vessels[^c-4b26cbfa9dbc1a2929e190d6dbddc8fa]
 
 (1) The undertaker must provide the following information to the MMO—
 
@@ -561,11 +561,11 @@ and the Defence Infrastructure Organisation Safeguarding must be notified of any
 
 (2) Any changes to the supplied details must be notified to the MMO in writing prior to the agent, contractor or vessel engaging in the licensed activities.
 
-#### 16. Foundation restrictions[^key-c801d239912d72e233c160eb87b2ad59]
+#### 16. Foundation restrictions[^c-c801d239912d72e233c160eb87b2ad59]
 
 No gravity base foundations may be installed in any area of the seabed with mobile sand waves of five metres or more, as identified by the swath-bathymetry survey carried out under condition 17(2)(b), unless otherwise agreed in writing by the MMO.
 
-#### 17. Pre-construction monitoring and surveys[^key-22977106527747e82006efd67e48466b]
+#### 17. Pre-construction monitoring and surveys[^c-22977106527747e82006efd67e48466b]
 
 (1) The undertaker must, in discharging condition 13(1)(b), submit details (which accord with the in principle monitoring plan) for written approval by the MMO in consultation with relevant statutory bodies of proposed pre-construction surveys, including methodologies and timings, and a proposed format and content for a pre-construction baseline report; and
 
@@ -579,13 +579,13 @@ No gravity base foundations may be installed in any area of the seabed with mobi
 
 (3) The undertaker must carry out the surveys agreed under sub-paragraph (1) and provide the baseline report to the MMO in the agreed format in accordance with the agreed timetable, unless otherwise agreed in writing by the MMO in consultation with the relevant statutory nature conservation bodies.
 
-#### 18. Construction monitoring[^key-dd931a748224778439d97d6645ad5f4a]
+#### 18. Construction monitoring[^c-dd931a748224778439d97d6645ad5f4a]
 
 (1) The undertaker must, in discharging condition 13(1)(b), submit details (which accord with the in principle monitoring plan) for approval by the MMO in consultation with the relevant statutory nature conservation bodies of any proposed monitoring, including methodologies and timings, to be carried out during the construction of the authorised scheme. The survey proposals must specify each survey’s objectives.
 
 (2) The undertaker must carry out the surveys approved under sub-paragraph (1) and provide the agreed reports in the agreed format in accordance with the agreed timetable, unless otherwise agreed in writing with the MMO in consultation with the relevant statutory nature conservation bodies.
 
-#### 19. Post construction[^key-af431d21b780a4c3e0b82ccd046fb3c5]
+#### 19. Post construction[^c-af431d21b780a4c3e0b82ccd046fb3c5]
 
 (1) The undertaker must, in discharging condition 13(1)(b), submit details (which accord with the in principle monitoring plan) for approval by the MMO in consultation with relevant statutory bodies of proposed post-construction surveys, including methodologies and timings, and a proposed format, content and timings for providing reports on the results. The survey proposals must specify each survey’s objectives and explain how it will assist in either informing a useful and valid comparison with the pre-construction position and/or will enable the validation or otherwise of key predictions in the environmental statement.
 
@@ -598,7 +598,7 @@ No gravity base foundations may be installed in any area of the seabed with mobi
 
 (4) Following installation of cables, the cable monitoring plan required under condition 13(1)(g)(iii) must be updated with the results of the post installation surveys. The plan must be implemented during the operational lifetime of the project and reviewed as specified within the plan, following cable burial surveys, or as instructed by the MMO.
 
-#### 20. Reporting of impact pile driving/detonation of explosives[^key-e47178b2c7cc8768dfe9773e90b34128]
+#### 20. Reporting of impact pile driving/detonation of explosives[^c-e47178b2c7cc8768dfe9773e90b34128]
 
 (1) Only when driven or part-driven pile foundations or detonation of explosives are proposed to be used as part of the foundation installation the undertaker must provide the following information to the Marine Noise Registry—
 
@@ -615,7 +615,7 @@ No gravity base foundations may be installed in any area of the seabed with mobi
 
 ## Annotations
 
-[^key-d9889607bbc2f78a171636ef8b4793d8]: Commencement: Sch. 12 Pt. 1 para. 1 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-d9889607bbc2f78a171636ef8b4793d8]: Commencement: Sch. 12 Pt. 1 para. 1 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
 [^f00047]: Footnote: [2004 c.20](https://www.legislation.gov.uk/ukpga/2004/20).
 
@@ -625,58 +625,58 @@ No gravity base foundations may be installed in any area of the seabed with mobi
 
 [^f00050]: Footnote: [2006 c.16](https://www.legislation.gov.uk/ukpga/2006/16).
 
-[^key-9b75f1edc216bfe51ecf919cbe96119d]: Commencement: Sch. 12 Pt. 1 para. 2 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-9b75f1edc216bfe51ecf919cbe96119d]: Commencement: Sch. 12 Pt. 1 para. 2 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-20dd10737028e5d10521d7b9ff0c3491]: Commencement: Sch. 12 Pt. 1 para. 3 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-20dd10737028e5d10521d7b9ff0c3491]: Commencement: Sch. 12 Pt. 1 para. 3 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-6cf2ea3c232207e130ae255259394144]: Commencement: Sch. 12 Pt. 1 para. 4 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-6cf2ea3c232207e130ae255259394144]: Commencement: Sch. 12 Pt. 1 para. 4 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-65924dde23a31a85271f4fc16c5ae093]: Commencement: Sch. 12 Pt. 1 para. 5 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-65924dde23a31a85271f4fc16c5ae093]: Commencement: Sch. 12 Pt. 1 para. 5 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-e16052f8a317fe716e06444703077686]: Commencement: Sch. 12 Pt. 1 para. 6 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-e16052f8a317fe716e06444703077686]: Commencement: Sch. 12 Pt. 1 para. 6 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-3f1458cba5f5a84b75cfd76d6db50782]: Commencement: Sch. 12 Pt. 1 para. 7 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-3f1458cba5f5a84b75cfd76d6db50782]: Commencement: Sch. 12 Pt. 1 para. 7 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-26ab40ab940007d3f463693b6dc466a0]: Commencement: Sch. 12 Pt. 1 para. 8 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-26ab40ab940007d3f463693b6dc466a0]: Commencement: Sch. 12 Pt. 1 para. 8 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-a420fb8fbfca6658ae750fcf9e088ce2]: Commencement: Sch. 12 Pt. 1 para. 9 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-a420fb8fbfca6658ae750fcf9e088ce2]: Commencement: Sch. 12 Pt. 1 para. 9 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-faf78af5c4640445afa2e6a5696f9d23]: Commencement: Sch. 12 Pt. 2 para. 1 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-faf78af5c4640445afa2e6a5696f9d23]: Commencement: Sch. 12 Pt. 2 para. 1 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-84d9264dc37148ce49bd956cf6b3e610]: Commencement: Sch. 12 Pt. 2 para. 2 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-84d9264dc37148ce49bd956cf6b3e610]: Commencement: Sch. 12 Pt. 2 para. 2 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-e30b7f11735e5518c8dc549f75cef3be]: Commencement: Sch. 12 Pt. 2 para. 3 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-e30b7f11735e5518c8dc549f75cef3be]: Commencement: Sch. 12 Pt. 2 para. 3 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-49a19e512da302aeaed45768f094f0d3]: Commencement: Sch. 12 Pt. 2 para. 4 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-49a19e512da302aeaed45768f094f0d3]: Commencement: Sch. 12 Pt. 2 para. 4 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-f771ace42a3f3551ee90a51508ddbf0e]: Commencement: Sch. 12 Pt. 2 para. 5 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-f771ace42a3f3551ee90a51508ddbf0e]: Commencement: Sch. 12 Pt. 2 para. 5 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-9387b9d39ccd93a51800fccda115bfd5]: Commencement: Sch. 12 Pt. 2 para. 6 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-9387b9d39ccd93a51800fccda115bfd5]: Commencement: Sch. 12 Pt. 2 para. 6 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-06390b9c1320ce34baae93eaf0602ea9]: Commencement: Sch. 12 Pt. 2 para. 7 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-06390b9c1320ce34baae93eaf0602ea9]: Commencement: Sch. 12 Pt. 2 para. 7 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-0aad8082b55a3f04065b68456f225b72]: Commencement: Sch. 12 Pt. 2 para. 8 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-0aad8082b55a3f04065b68456f225b72]: Commencement: Sch. 12 Pt. 2 para. 8 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-63c9d15a1dbd638e2dc24a3ce49bc173]: Commencement: Sch. 12 Pt. 2 para. 9 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-63c9d15a1dbd638e2dc24a3ce49bc173]: Commencement: Sch. 12 Pt. 2 para. 9 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-34f695c36a1359407342310db7500082]: Commencement: Sch. 12 para. 10 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-34f695c36a1359407342310db7500082]: Commencement: Sch. 12 para. 10 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-5120cccd28259d1bad9c41b5d7e7db88]: Commencement: Sch. 12 para. 11 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-5120cccd28259d1bad9c41b5d7e7db88]: Commencement: Sch. 12 para. 11 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-dcda0040fc1ad4e0c1121872c2ea9aef]: Commencement: Sch. 12 para. 12 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-dcda0040fc1ad4e0c1121872c2ea9aef]: Commencement: Sch. 12 para. 12 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-b25cff5b3bade7b168e68dc324cbc821]: Commencement: Sch. 12 para. 13 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-b25cff5b3bade7b168e68dc324cbc821]: Commencement: Sch. 12 para. 13 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-57c6583cfcc3536eb429a704f3beeb0d]: Commencement: Sch. 12 para. 14 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-57c6583cfcc3536eb429a704f3beeb0d]: Commencement: Sch. 12 para. 14 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-4b26cbfa9dbc1a2929e190d6dbddc8fa]: Commencement: Sch. 12 para. 15 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-4b26cbfa9dbc1a2929e190d6dbddc8fa]: Commencement: Sch. 12 para. 15 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-c801d239912d72e233c160eb87b2ad59]: Commencement: Sch. 12 para. 16 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-c801d239912d72e233c160eb87b2ad59]: Commencement: Sch. 12 para. 16 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-22977106527747e82006efd67e48466b]: Commencement: Sch. 12 para. 17 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-22977106527747e82006efd67e48466b]: Commencement: Sch. 12 para. 17 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-dd931a748224778439d97d6645ad5f4a]: Commencement: Sch. 12 para. 18 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-dd931a748224778439d97d6645ad5f4a]: Commencement: Sch. 12 para. 18 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-af431d21b780a4c3e0b82ccd046fb3c5]: Commencement: Sch. 12 para. 19 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-af431d21b780a4c3e0b82ccd046fb3c5]: Commencement: Sch. 12 para. 19 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-e47178b2c7cc8768dfe9773e90b34128]: Commencement: Sch. 12 para. 20 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-e47178b2c7cc8768dfe9773e90b34128]: Commencement: Sch. 12 para. 20 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)

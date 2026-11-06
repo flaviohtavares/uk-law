@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Calculation of Charges for Veterinary Checks[^key-270fbd33ccf65610bfd46219f1537d4c]
+## SCHEDULE 3 — Calculation of Charges for Veterinary Checks[^c-270fbd33ccf65610bfd46219f1537d4c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,36 +24,36 @@ summary: ''
 
 Regulations 52(1), 53 and 54
 
-### PART I — COSTS COVERED BY THE CHARGES[^key-270fbd33ccf65610bfd46219f1537d4c]
+### PART I — COSTS COVERED BY THE CHARGES[^c-270fbd33ccf65610bfd46219f1537d4c]
 
-**1.**[^key-270fbd33ccf65610bfd46219f1537d4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-270fbd33ccf65610bfd46219f1537d4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-270fbd33ccf65610bfd46219f1537d4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-270fbd33ccf65610bfd46219f1537d4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — CONSIGNMENTS FROM SPECIFIED THIRD COUNTRIES[^key-270fbd33ccf65610bfd46219f1537d4c]
+### PART II — CONSIGNMENTS FROM SPECIFIED THIRD COUNTRIES[^c-270fbd33ccf65610bfd46219f1537d4c]
 
-[^key-270fbd33ccf65610bfd46219f1537d4c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART III — MEAT AND MEAT PRODUCTS[^key-270fbd33ccf65610bfd46219f1537d4c]
-
-[^key-270fbd33ccf65610bfd46219f1537d4c]
+[^c-270fbd33ccf65610bfd46219f1537d4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IV — FISHERY PRODUCTS[^key-270fbd33ccf65610bfd46219f1537d4c]
+### PART III — MEAT AND MEAT PRODUCTS[^c-270fbd33ccf65610bfd46219f1537d4c]
 
-[^key-270fbd33ccf65610bfd46219f1537d4c]
+[^c-270fbd33ccf65610bfd46219f1537d4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART V — ALL OTHER PRODUCTS[^key-270fbd33ccf65610bfd46219f1537d4c]
+### PART IV — FISHERY PRODUCTS[^c-270fbd33ccf65610bfd46219f1537d4c]
 
-[^key-270fbd33ccf65610bfd46219f1537d4c]
+[^c-270fbd33ccf65610bfd46219f1537d4c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART V — ALL OTHER PRODUCTS[^c-270fbd33ccf65610bfd46219f1537d4c]
+
+[^c-270fbd33ccf65610bfd46219f1537d4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-270fbd33ccf65610bfd46219f1537d4c]: Textual amendment: Regulations revoked (1.8.2004) by [The Products of Animal Origin (Third Country Imports) (England) (No. 2) Regulations 2004 (S.I. 2004/1740)](https://www.legislation.gov.uk/uksi/2004/1740), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1740/regulation/1), [68](https://www.legislation.gov.uk/uksi/2004/1740/regulation/68)
+[^c-270fbd33ccf65610bfd46219f1537d4c]: Textual amendment: Regulations revoked (1.8.2004) by [The Products of Animal Origin (Third Country Imports) (England) (No. 2) Regulations 2004 (S.I. 2004/1740)](https://www.legislation.gov.uk/uksi/2004/1740), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1740/regulation/1), [68](https://www.legislation.gov.uk/uksi/2004/1740/regulation/68)

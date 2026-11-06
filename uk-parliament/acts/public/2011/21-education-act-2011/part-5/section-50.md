@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Financing of pupil referral units[^key-6d860812e1b6ef8977a86657de137d58]
+## 50. Financing of pupil referral units[^c-6d860812e1b6ef8977a86657de137d58]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d860812e1b6ef8977a86657de137d58]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2011/21/section/50) in force at 1.9.2012 for specified purposes by [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)
+[^c-6d860812e1b6ef8977a86657de137d58]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2011/21/section/50) in force at 1.9.2012 for specified purposes by [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)

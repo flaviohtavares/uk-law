@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27I. Disposal of pig products that have been traced in England[^key-2db1384982de3a661bd5c58a54bf0b23]
+## 27I. Disposal of pig products that have been traced in England[^c-2db1384982de3a661bd5c58a54bf0b23]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ The Secretary of State must—
 
 ## Annotations
 
-[^key-2db1384982de3a661bd5c58a54bf0b23]: Textual amendment: [Pts. 6A-6E](https://www.legislation.gov.uk/uksi/2014/1894/part/6A) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(25)](https://www.legislation.gov.uk/uksi/2026/475/article/3/25)
+[^c-2db1384982de3a661bd5c58a54bf0b23]: Textual amendment: [Pts. 6A-6E](https://www.legislation.gov.uk/uksi/2014/1894/part/6A) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(25)](https://www.legislation.gov.uk/uksi/2026/475/article/3/25)

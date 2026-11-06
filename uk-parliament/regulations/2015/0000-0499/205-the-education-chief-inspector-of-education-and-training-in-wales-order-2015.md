@@ -47,28 +47,28 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-705f050f4aba764d1d8ccb3931255f8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-705f050f4aba764d1d8ccb3931255f8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-705f050f4aba764d1d8ccb3931255f8e]
+## 1. Citation and commencement[^c-705f050f4aba764d1d8ccb3931255f8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointment of Her Majesty’s Chief Inspector of Education and Training in Wales or Prif Arolygydd Ei Mawrhydi dros Addysg a Hyfforddiant yng Nghymru[^key-705f050f4aba764d1d8ccb3931255f8e]
+## 2. Appointment of Her Majesty’s Chief Inspector of Education and Training in Wales or Prif Arolygydd Ei Mawrhydi dros Addysg a Hyfforddiant yng Nghymru[^c-705f050f4aba764d1d8ccb3931255f8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-705f050f4aba764d1d8ccb3931255f8e]
+## 3. Revocation[^c-705f050f4aba764d1d8ccb3931255f8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-705f050f4aba764d1d8ccb3931255f8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-705f050f4aba764d1d8ccb3931255f8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-705f050f4aba764d1d8ccb3931255f8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-705f050f4aba764d1d8ccb3931255f8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-705f050f4aba764d1d8ccb3931255f8e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/205) revoked (1.6.2020) by [The Education (Chief Inspector of Education and Training in Wales) Order 2020 (S.I. 2020/148)](https://www.legislation.gov.uk/uksi/2020/148), [arts. 1](https://www.legislation.gov.uk/uksi/2020/148/article/1), [3](https://www.legislation.gov.uk/uksi/2020/148/article/3)
+[^c-705f050f4aba764d1d8ccb3931255f8e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/205) revoked (1.6.2020) by [The Education (Chief Inspector of Education and Training in Wales) Order 2020 (S.I. 2020/148)](https://www.legislation.gov.uk/uksi/2020/148), [arts. 1](https://www.legislation.gov.uk/uksi/2020/148/article/1), [3](https://www.legislation.gov.uk/uksi/2020/148/article/3)

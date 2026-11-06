@@ -24,7 +24,7 @@ Article 29
 
 ### PART 1 — FOR THE PROTECTION OF OPERATORS OF ELECTRONIC COMMUNICATIONS CODE NETWORKS
 
-**1.**[^key-4eea1ab010b18f1ae50c55cf1524f886] (1) For the protection of any operator, the following provisions have effect, unless otherwise agreed in writing between the undertaker and the operator.
+**1.**[^c-4eea1ab010b18f1ae50c55cf1524f886] (1) For the protection of any operator, the following provisions have effect, unless otherwise agreed in writing between the undertaker and the operator.
 
 (2) In this Part of this Schedule—
 
@@ -38,9 +38,9 @@ Article 29
 - “electronic communications code operator” means a person in whose case the electronic communications code is applied by a direction under section 106 of the 2003 Act; and
 - “operator” means the operator of an electronic communications code network.
 
-**2.**[^key-af9e7880f64c87db9ef4846a197ef345] The exercise of the powers of article 29 (statutory undertakers) is subject to paragraph 23 of Schedule 2 to the Telecommunications Act 1984[^f00029] (undertaker’s works).
+**2.**[^c-af9e7880f64c87db9ef4846a197ef345] The exercise of the powers of article 29 (statutory undertakers) is subject to paragraph 23 of Schedule 2 to the Telecommunications Act 1984[^f00029] (undertaker’s works).
 
-**3.**[^key-9c0931cc8cb4b2e63931af0196947b8d] (1) Subject to sub-paragraphs (2) to (4), if as the result of the authorised development or its construction, or of any subsidence resulting from any of those works—
+**3.**[^c-9c0931cc8cb4b2e63931af0196947b8d] (1) Subject to sub-paragraphs (2) to (4), if as the result of the authorised development or its construction, or of any subsidence resulting from any of those works—
 
 - (a) any damage is caused to any electronic communications apparatus belonging to an operator (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works), or other property of an operator; or
 - (b) there is any interruption in the supply of the service provided by an operator,
@@ -53,18 +53,18 @@ the undertaker must bear and pay the cost reasonably incurred by the operator in
 
 (4) Any difference arising between the undertaker and the operator under this Part of this Schedule must be referred to and settled by arbitration under article 40 (arbitration).
 
-**4.**[^key-bb31c05821b31743b9410318369005fc] This Part of this Schedule does not apply to—
+**4.**[^c-bb31c05821b31743b9410318369005fc] This Part of this Schedule does not apply to—
 
 - (a) any apparatus in respect of which the relations between the undertaker and an operator are regulated by the provisions of Part 3 of the 1991 Act; or
 - (b) any damage, or any interruption, caused by electro-magnetic interference arising from the construction or use of the authorised development.
 
-**5.**[^key-fb3a41806e3ac20d70dbc4b3c93a1856] Nothing in this Part of this Schedule affects the provisions of any enactment or agreement regulating the relations between the undertaker and an operator in respect of any apparatus laid or erected in land belonging to the undertaker on the date on which this Order is made.
+**5.**[^c-fb3a41806e3ac20d70dbc4b3c93a1856] Nothing in this Part of this Schedule affects the provisions of any enactment or agreement regulating the relations between the undertaker and an operator in respect of any apparatus laid or erected in land belonging to the undertaker on the date on which this Order is made.
 
 ### PART 2 — FOR THE PROTECTION OF DŴR CYMRU CYFYNGEDIG
 
-**6.**[^key-90b9876fcb112c4e3677c46c10e1fb99] For the protection of DCC referred to in this Part 2 of Schedule 9, the following provisions will, unless otherwise agreed in writing between the undertaker and DCC, have effect.
+**6.**[^c-90b9876fcb112c4e3677c46c10e1fb99] For the protection of DCC referred to in this Part 2 of Schedule 9, the following provisions will, unless otherwise agreed in writing between the undertaker and DCC, have effect.
 
-**7.**[^key-240687c10f0372bb2c835c0b4cd1a261] In this Part of this Schedule—
+**7.**[^c-240687c10f0372bb2c835c0b4cd1a261] In this Part of this Schedule—
 
 - “acceptable insurance” means a policy of public liability/third party liability insurance effected and maintained by the undertaker and available in the market on commercially reasonable terms having regard (inter alia) to premiums required and the policy terms obtainable, with a level of insurance cover to be agreed between the undertaker and DCC, during the construction of the works pursuant to this Order with a reputable insurer and with DCC named as an insured party under the policy;
 - “accessories” has the same meaning as that set out in section 219 of the WIA 1991 but also includes any feature or aspect of a design that is intended to receive or facilitate the receipt of rainwater or surface water and which is part of a sustainable drainage system;
@@ -81,11 +81,11 @@ the undertaker must bear and pay the cost reasonably incurred by the operator in
 - “WIA 1991” means the Water Industry Act 1991[^f00030] as amended; and
 - “works” means any works forming part of the authorised development in, on, over or under any land purchased, held, or used under this Order that are near to, or will or may in any way affect any DCC apparatus together with all ancillary actions relating hereto.
 
-**8.**[^key-376d7e6641bd22050e13f411ee01da13] (1) Regardless of any provision in this Order or anything shown on the land plans or contained in the book of reference, the undertaker must not acquire any DCC apparatus or its accessories or override or extinguish any easement or other interest of DCC or acquire any land or other interest of DCC identified in the book of reference or create any new rights over the same otherwise than by agreement with DCC in accordance with the provisions of this Schedule.
+**8.**[^c-376d7e6641bd22050e13f411ee01da13] (1) Regardless of any provision in this Order or anything shown on the land plans or contained in the book of reference, the undertaker must not acquire any DCC apparatus or its accessories or override or extinguish any easement or other interest of DCC or acquire any land or other interest of DCC identified in the book of reference or create any new rights over the same otherwise than by agreement with DCC in accordance with the provisions of this Schedule.
 
 (2) Sub-paragraph (1) does not apply to the powers conferred on the undertaker by this Order to interfere temporarily with DCC’s rights to access DCC apparatus or accessories but subject always to each sub-paragraph of paragraphs 12 and 13 of this Part and to the undertaker giving DCC 28 days’ notice of such interference.
 
-#### 9. Precedence of the WIA 1991[^key-413c0715f9016335e4a3e21d713ae654]
+#### 9. Precedence of the WIA 1991[^c-413c0715f9016335e4a3e21d713ae654]
 
 (1) Regardless of any provision of this Order and this Schedule the undertaker must comply fully with all provisions of the WIA 1991 in relation to any use of, any connection with or any actions or omissions which in any way affect the DCC apparatus and nothing in this Order releases the undertaker from the requirement to comply with the provisions of the WIA 1991 in relation to any use of, any connection with or any actions or omissions which in any way affect the DCC apparatus, including without limitation—
 
@@ -103,7 +103,7 @@ the undertaker must bear and pay the cost reasonably incurred by the operator in
 
 (2) The arbitration provisions at article 40 or specified in this Schedule do not apply where DCC uses a warrant of entry in accordance with the provisions of the WIA 1991.
 
-#### 10. Protection of DCC apparatus[^key-48f5ae33f6319ee4e8dccad3bd8886c8]
+#### 10. Protection of DCC apparatus[^c-48f5ae33f6319ee4e8dccad3bd8886c8]
 
 (1) Not less than 28 days before starting the execution of any works that are within the clearance area or will, or could reasonably foreseeably affect, any DCC apparatus the removal or alteration of which has not been required by the undertaker under paragraph 9(1)(k), the undertaker must submit to DCC written notice together with a draft specification.
 
@@ -130,7 +130,7 @@ the undertaker must bear and pay the cost reasonably incurred by the operator in
 
 (10) Any affected DCC apparatus which is no longer required by DCC but is not removed must be transferred to the undertaker by way of a deed of transfer from DCC at the undertaker’s expense and on such terms as DCC reasonably requires.
 
-#### 11. Suspension of works[^key-7f72e8380b8b0497298151c45c6b1894]
+#### 11. Suspension of works[^c-7f72e8380b8b0497298151c45c6b1894]
 
 DCC is entitled to instruct the undertaker to suspend the works if in DCC’s reasonable opinion the actions of the undertaker, or those of its contractor(s) or subcontractor(s) in carrying out the works, have caused damage to any DCC apparatus and/or are likely to cause or result in damage to any DCC apparatus and/or have caused or are likely to cause damage to the environment arising as a result of damage to DCC apparatus. In the event of such instruction being given by DCC—
 
@@ -141,11 +141,11 @@ DCC is entitled to instruct the undertaker to suspend the works if in DCC’s re
 - (e) DCC must commence, carry out and complete any remedial works pursuant to sub-paragraph (a), as soon as reasonably practicable and DCC must give the undertaker notice immediately upon completion of such remedial works and on receipt of such notice the undertaker will be entitled to resume the works; and
 - (f) DCC is entitled to reclaim all reasonable costs of all remedial works undertaken in accordance with this paragraph 11.
 
-**12.**[^key-f31368965ddf7d21e1805e0a9f5b6191] (1) In the event that either the undertaker or DCC (for the purpose of this paragraph 12 “the party” or together “the parties”) wishes to take any action which would impact on the ability of the undertaker to carry out the development or DCC to carry out its statutory functions, the parties must use reasonable endeavours to cooperate with one another in order to align work streams so to minimise or avoid disruption to the other party’s works. In respect of the references to ‘work’ and ‘works’ in this sub-paragraph (1), to the extent that this refers to ‘work’ or ‘works’ to be undertaken by DCC, the definition of works in paragraph 7 of this Part does not apply.
+**12.**[^c-f31368965ddf7d21e1805e0a9f5b6191] (1) In the event that either the undertaker or DCC (for the purpose of this paragraph 12 “the party” or together “the parties”) wishes to take any action which would impact on the ability of the undertaker to carry out the development or DCC to carry out its statutory functions, the parties must use reasonable endeavours to cooperate with one another in order to align work streams so to minimise or avoid disruption to the other party’s works. In respect of the references to ‘work’ and ‘works’ in this sub-paragraph (1), to the extent that this refers to ‘work’ or ‘works’ to be undertaken by DCC, the definition of works in paragraph 7 of this Part does not apply.
 
 (2) Subject to paragraph 13, differences or disputes arising between the undertaker and DCC under this Schedule must, unless otherwise agreed in writing between the undertaker and DCC, be determined by arbitration in accordance with article 40 (arbitration) of the Order.
 
-#### 13. Emergency Works[^key-a940c23c408f85ee5c56b6d93dab7fa6]
+#### 13. Emergency Works[^c-a940c23c408f85ee5c56b6d93dab7fa6]
 
 (1) The undertaker is permitted to carry out emergency works provided that it first notifies DCC of the proposed emergency works. For the avoidance of doubt, in the event that DCC suffers any loss, cost or damage as a result of the emergency action taken by the undertaker without prior notification in accordance with this sub-paragraph the indemnity in paragraph 15 is to apply.
 
@@ -155,11 +155,11 @@ DCC is entitled to instruct the undertaker to suspend the works if in DCC’s re
 
 (4) In respect of the references to ‘work’ and ‘works’ in this paragraph 13, to the extent that this is ‘work’ or ‘works’ to be undertaken by DCC, the definition of works in paragraph 7 of this Part does not apply.
 
-#### 14. Insurance[^key-ac1ccb9f93703b5190903b8480ce7cdc]
+#### 14. Insurance[^c-ac1ccb9f93703b5190903b8480ce7cdc]
 
 The undertaker must not commence any works under paragraph 10(1) to this Part unless and until the undertaker has procured acceptable insurance.
 
-#### 15. Damage to DCC apparatus[^key-01a1d1da71e9c93785fa72ae878f2d0d]
+#### 15. Damage to DCC apparatus[^c-01a1d1da71e9c93785fa72ae878f2d0d]
 
 (1) Subject to sub-paragraphs (3) to (6), the undertaker is to indemnify and hold harmless DCC against all claims demands costs damages expenses penalties and losses which DCC sustains or becomes liable for in consequence of works under sub-paragraph 10(1) and emergency works under sub-paragraph 13(1) (but only in where such emergency works are carried out by the undertaker without prior notification to DCC in accordance with sub-paragraph 13(1)) to this Part in respect of—
 
@@ -179,7 +179,7 @@ The undertaker must not commence any works under paragraph 10(1) to this Part un
 
 ### PART 3 — FOR THE PROTECTION OF THE RELEVANT PLANNING AUTHORITY
 
-**16.**[^key-c4e90ae50d77baba7f8880f7329f01a1] (1) The following provisions shall apply for the protection of the consenting authority unless otherwise agreed in writing between the undertaker and the consenting authority.
+**16.**[^c-c4e90ae50d77baba7f8880f7329f01a1] (1) The following provisions shall apply for the protection of the consenting authority unless otherwise agreed in writing between the undertaker and the consenting authority.
 
 (2) In this part of this Schedule—
 
@@ -194,9 +194,9 @@ The undertaker must not commence any works under paragraph 10(1) to this Part un
 - “specified work” means a work that is required to be consented under the terms of section 23 of the Land Drainage Act 1991, irrespective of any status as a statutory undertaker under those provisions; and
 - “watercourse” includes all rivers, streams, ditches, drains, cuts, culverts, dykes, sluices, basins, sewers and passages through which water flows except a public sewer.
 
-**17.**[^key-0ce5e34612486e717b9e847f885165d6] Regardless of any provision in this Order or anything shown on the land plans or contained in the book of reference, the undertaker shall not acquire any interest of the consenting authority or acquire any land or other land interest of the consenting authority identified in the book of reference or create any new rights over the same otherwise than by agreement with the consenting authority in accordance with the provisions of this Schedule.
+**17.**[^c-0ce5e34612486e717b9e847f885165d6] Regardless of any provision in this Order or anything shown on the land plans or contained in the book of reference, the undertaker shall not acquire any interest of the consenting authority or acquire any land or other land interest of the consenting authority identified in the book of reference or create any new rights over the same otherwise than by agreement with the consenting authority in accordance with the provisions of this Schedule.
 
-**18.**[^key-12eb4c4e659e58d4ab39255c942a1ec3] (1) Before beginning to construct any specified work, the undertaker shall submit to the consenting authority plans of the specified work and such further particulars available to it as the consenting authority may within 28 days of the receipt of the plans reasonably require.
+**18.**[^c-12eb4c4e659e58d4ab39255c942a1ec3] (1) Before beginning to construct any specified work, the undertaker shall submit to the consenting authority plans of the specified work and such further particulars available to it as the consenting authority may within 28 days of the receipt of the plans reasonably require.
 
 (2) Any such specified work shall not be constructed except in accordance with such plans as may be approved in writing by the consenting authority, or determined under sub-paragraph (1).
 
@@ -207,9 +207,9 @@ The undertaker must not commence any works under paragraph 10(1) to this Part un
 - (c) shall be deemed to have been given if it is neither given nor refused within 8 weeks of the submission of the plans or receipt of further particulars if such particulars have been required by the consenting authority for approval; and
 - (d) may be given subject to such reasonable modifications to the plans as the consenting authority may request and such reasonable requirements as the consenting authority may make for the protection of any drainage work or for the protection of watercourse, or for the prevention of flooding or pollution or in the discharge of its environmental duties.
 
-**19.**[^key-bf92a87e6c4935b40993d3460282cadd] The requirements which the consenting authority may make under paragraph 18 include conditions requiring the undertaker at its own expense to construct such protective works, whether temporary or permanent, before or during the construction of the specified works as are reasonably necessary to safeguard any drainage work against damage.
+**19.**[^c-bf92a87e6c4935b40993d3460282cadd] The requirements which the consenting authority may make under paragraph 18 include conditions requiring the undertaker at its own expense to construct such protective works, whether temporary or permanent, before or during the construction of the specified works as are reasonably necessary to safeguard any drainage work against damage.
 
-**20.**[^key-61c485c9b92492a8ade784451eebab2d] (1) Subject to sub-paragraph (2), any specified work, and all protective works required by the consenting authority under paragraph 19, shall be constructed—
+**20.**[^c-61c485c9b92492a8ade784451eebab2d] (1) Subject to sub-paragraph (2), any specified work, and all protective works required by the consenting authority under paragraph 19, shall be constructed—
 
 - (a) in accordance with the plans approved or deemed to have been approved under this Schedule; and
 - (b) the consenting authority shall be entitled by its officer to watch and inspect the construction of such works.
@@ -224,7 +224,7 @@ The undertaker must not commence any works under paragraph 10(1) to this Part un
 
 (6) In the event of any dispute as to whether sub-paragraph (4) is properly applicable to any work in respect of which notice has been served under that sub-paragraph, or as to the reasonableness of any requirement of such a notice, the consenting authority shall not, except in emergency, exercise the powers conferred by sub-paragraph (5) until the dispute has been finally determined.
 
-**21.**[^key-22e38fcca1b8e4bdeebd5a6619374eed] (1) Subject to sub-paragraph (6) the undertaker shall, from the commencement of the construction of the specified works, maintain in good repair and condition and free from obstruction any drainage work which is situated within the limits of deviation, whether or not the drainage work is constructed under the powers conferred by this Order or is already in existence.
+**21.**[^c-22e38fcca1b8e4bdeebd5a6619374eed] (1) Subject to sub-paragraph (6) the undertaker shall, from the commencement of the construction of the specified works, maintain in good repair and condition and free from obstruction any drainage work which is situated within the limits of deviation, whether or not the drainage work is constructed under the powers conferred by this Order or is already in existence.
 
 (2) If any such drainage work which the undertaker is liable to maintain is not maintained to the reasonable satisfaction of the consenting authority, the consenting authority may by notice in writing require the undertaker to repair and restore the work, or any part of such work, or (if the undertaker so elects and the consenting authority in writing consents, such consent not to be unreasonably withheld or delayed), to remove the work and restore the site to its former condition, to such extent and within such limits as the consenting authority reasonably requires.
 
@@ -236,64 +236,64 @@ The undertaker must not commence any works under paragraph 10(1) to this Part un
 
 (6) This paragraph does not apply to drainage works which are vested in the consenting authority, or which the consenting authority or another person is liable to maintain and is not proscribed by the powers of the Order from doing so.
 
-**22.**[^key-0f04a1ea04f800f044caf8ffe962db2c] If by reason of the construction of any specified work or of the failure of any such work the efficiency of any drainage work is impaired, or that drainage work is otherwise damaged, such impairment or damage shall be made good by the undertaker to the reasonable satisfaction of the consenting authority and if the undertaker fails to do so, the consenting authority may make good the same and recover from the undertaker the expense reasonably incurred by it in so doing.
+**22.**[^c-0f04a1ea04f800f044caf8ffe962db2c] If by reason of the construction of any specified work or of the failure of any such work the efficiency of any drainage work is impaired, or that drainage work is otherwise damaged, such impairment or damage shall be made good by the undertaker to the reasonable satisfaction of the consenting authority and if the undertaker fails to do so, the consenting authority may make good the same and recover from the undertaker the expense reasonably incurred by it in so doing.
 
-**23.**[^key-9a01c0deb801e4a9cceed63342d8c983] The fact that any work or thing has been executed or done by the undertaker in accordance with a plan approved or deemed to be approved by the consenting authority, or to its satisfaction, or in accordance with any directions or award of an arbitrator, shall not relieve the undertaker from any liability under the provisions of this Part of this Schedule.
+**23.**[^c-9a01c0deb801e4a9cceed63342d8c983] The fact that any work or thing has been executed or done by the undertaker in accordance with a plan approved or deemed to be approved by the consenting authority, or to its satisfaction, or in accordance with any directions or award of an arbitrator, shall not relieve the undertaker from any liability under the provisions of this Part of this Schedule.
 
 ## Annotations
 
-[^key-4eea1ab010b18f1ae50c55cf1524f886]: Commencement: Sch. 9 para. 1 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-4eea1ab010b18f1ae50c55cf1524f886]: Commencement: Sch. 9 para. 1 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
 [^f00027]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
 [^f00028]: Footnote: See section 106.
 
-[^key-af9e7880f64c87db9ef4846a197ef345]: Commencement: Sch. 9 para. 2 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-af9e7880f64c87db9ef4846a197ef345]: Commencement: Sch. 9 para. 2 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
 [^f00029]: Footnote: [1984 c. 12](https://www.legislation.gov.uk/ukpga/1984/12).
 
-[^key-9c0931cc8cb4b2e63931af0196947b8d]: Commencement: Sch. 9 para. 3 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-9c0931cc8cb4b2e63931af0196947b8d]: Commencement: Sch. 9 para. 3 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-bb31c05821b31743b9410318369005fc]: Commencement: Sch. 9 para. 4 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-bb31c05821b31743b9410318369005fc]: Commencement: Sch. 9 para. 4 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-fb3a41806e3ac20d70dbc4b3c93a1856]: Commencement: Sch. 9 para. 5 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-fb3a41806e3ac20d70dbc4b3c93a1856]: Commencement: Sch. 9 para. 5 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-90b9876fcb112c4e3677c46c10e1fb99]: Commencement: Sch. 9 para. 6 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-90b9876fcb112c4e3677c46c10e1fb99]: Commencement: Sch. 9 para. 6 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-240687c10f0372bb2c835c0b4cd1a261]: Commencement: Sch. 9 para. 7 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-240687c10f0372bb2c835c0b4cd1a261]: Commencement: Sch. 9 para. 7 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
 [^f00030]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 
-[^key-376d7e6641bd22050e13f411ee01da13]: Commencement: Sch. 9 para. 8 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-376d7e6641bd22050e13f411ee01da13]: Commencement: Sch. 9 para. 8 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-413c0715f9016335e4a3e21d713ae654]: Commencement: Sch. 9 para. 9 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-413c0715f9016335e4a3e21d713ae654]: Commencement: Sch. 9 para. 9 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-48f5ae33f6319ee4e8dccad3bd8886c8]: Commencement: Sch. 9 para. 10 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-48f5ae33f6319ee4e8dccad3bd8886c8]: Commencement: Sch. 9 para. 10 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-7f72e8380b8b0497298151c45c6b1894]: Commencement: Sch. 9 para. 11 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-7f72e8380b8b0497298151c45c6b1894]: Commencement: Sch. 9 para. 11 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-f31368965ddf7d21e1805e0a9f5b6191]: Commencement: Sch. 9 para. 12 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-f31368965ddf7d21e1805e0a9f5b6191]: Commencement: Sch. 9 para. 12 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-a940c23c408f85ee5c56b6d93dab7fa6]: Commencement: Sch. 9 para. 13 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-a940c23c408f85ee5c56b6d93dab7fa6]: Commencement: Sch. 9 para. 13 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-ac1ccb9f93703b5190903b8480ce7cdc]: Commencement: Sch. 9 para. 14 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-ac1ccb9f93703b5190903b8480ce7cdc]: Commencement: Sch. 9 para. 14 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-01a1d1da71e9c93785fa72ae878f2d0d]: Commencement: Sch. 9 para. 15 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-01a1d1da71e9c93785fa72ae878f2d0d]: Commencement: Sch. 9 para. 15 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-c4e90ae50d77baba7f8880f7329f01a1]: Commencement: Sch. 9 para. 16 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-c4e90ae50d77baba7f8880f7329f01a1]: Commencement: Sch. 9 para. 16 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
 [^f00031]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59).
 
-[^key-0ce5e34612486e717b9e847f885165d6]: Commencement: Sch. 9 para. 17 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-0ce5e34612486e717b9e847f885165d6]: Commencement: Sch. 9 para. 17 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-12eb4c4e659e58d4ab39255c942a1ec3]: Commencement: Sch. 9 para. 18 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-12eb4c4e659e58d4ab39255c942a1ec3]: Commencement: Sch. 9 para. 18 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-bf92a87e6c4935b40993d3460282cadd]: Commencement: Sch. 9 para. 19 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-bf92a87e6c4935b40993d3460282cadd]: Commencement: Sch. 9 para. 19 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-61c485c9b92492a8ade784451eebab2d]: Commencement: Sch. 9 para. 20 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-61c485c9b92492a8ade784451eebab2d]: Commencement: Sch. 9 para. 20 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-22e38fcca1b8e4bdeebd5a6619374eed]: Commencement: Sch. 9 para. 21 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-22e38fcca1b8e4bdeebd5a6619374eed]: Commencement: Sch. 9 para. 21 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-0f04a1ea04f800f044caf8ffe962db2c]: Commencement: Sch. 9 para. 22 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-0f04a1ea04f800f044caf8ffe962db2c]: Commencement: Sch. 9 para. 22 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-9a01c0deb801e4a9cceed63342d8c983]: Commencement: Sch. 9 para. 23 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-9a01c0deb801e4a9cceed63342d8c983]: Commencement: Sch. 9 para. 23 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)

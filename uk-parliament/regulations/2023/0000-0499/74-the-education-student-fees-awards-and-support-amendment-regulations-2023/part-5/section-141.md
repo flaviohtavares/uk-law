@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 141. Savings: Higher Education Short Course Loans Regulations 2022[^key-3c70f4ced8eeae4736804ce7b52f9023]
+## 141. Savings: Higher Education Short Course Loans Regulations 2022[^c-3c70f4ced8eeae4736804ce7b52f9023]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ the HESCL Regulations apply as if the amendments made by regulations 129(a), 130
 
 ## Annotations
 
-[^key-3c70f4ced8eeae4736804ce7b52f9023]: Commencement: Reg. 141 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-3c70f4ced8eeae4736804ce7b52f9023]: Commencement: Reg. 141 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)

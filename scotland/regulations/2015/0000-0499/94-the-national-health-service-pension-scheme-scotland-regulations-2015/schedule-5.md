@@ -36,7 +36,7 @@ Regulation 18(1)
 **3.** The following are medical contractors for the purposes of these Regulations—
 
 - (a) a GMS practice;
-- (b) a HBPMS contractor[^key-1329d4b68506fa2e6bcd1d21b4abc2ff];
+- (b) a HBPMS contractor[^c-1329d4b68506fa2e6bcd1d21b4abc2ff];
 - (c) a Section 17C Agreement provider;
 - (d) an OOH provider.
 
@@ -44,8 +44,8 @@ Regulation 18(1)
 
 **4.** The following are medical practitioners for the purposes of these Regulations—
 
-- (a) a medical practitioner (construed in accordance with regulation 152)[^key-f83db3a45fe668dc7856140ae65f2be8];
-- (b) a locum [^key-ab5a4080a183bbde3f8c91e1d595c4f1]...practitioner;
+- (a) a medical practitioner (construed in accordance with regulation 152)[^c-f83db3a45fe668dc7856140ae65f2be8];
+- (b) a locum [^c-ab5a4080a183bbde3f8c91e1d595c4f1]...practitioner;
 - (c) a non-GP provider.
 
 **5.** The following are dental practitioners for the purposes of these Regulations—
@@ -63,8 +63,8 @@ Regulation 18(1)
 
 [^c22415031]: Marginal citation: [2003 asp 13](https://www.legislation.gov.uk/asp/2003/13).
 
-[^key-1329d4b68506fa2e6bcd1d21b4abc2ff]: Textual amendment: Words in [sch. 5 para. 3(b)](https://www.legislation.gov.uk/ssi/2015/94/schedule/5/paragraph/3/b) substituted (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/97)](https://www.legislation.gov.uk/ssi/2016/97), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/97/regulation/1/1), [13(a)](https://www.legislation.gov.uk/ssi/2016/97/regulation/13/a)
+[^c-1329d4b68506fa2e6bcd1d21b4abc2ff]: Textual amendment: Words in [sch. 5 para. 3(b)](https://www.legislation.gov.uk/ssi/2015/94/schedule/5/paragraph/3/b) substituted (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/97)](https://www.legislation.gov.uk/ssi/2016/97), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/97/regulation/1/1), [13(a)](https://www.legislation.gov.uk/ssi/2016/97/regulation/13/a)
 
-[^key-f83db3a45fe668dc7856140ae65f2be8]: Textual amendment: Words in [sch. 5 para. 4(a)](https://www.legislation.gov.uk/ssi/2015/94/schedule/5/paragraph/4/a) inserted (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/97)](https://www.legislation.gov.uk/ssi/2016/97), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/97/regulation/1/1), [13(b)(i)](https://www.legislation.gov.uk/ssi/2016/97/regulation/13/b/i)
+[^c-f83db3a45fe668dc7856140ae65f2be8]: Textual amendment: Words in [sch. 5 para. 4(a)](https://www.legislation.gov.uk/ssi/2015/94/schedule/5/paragraph/4/a) inserted (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/97)](https://www.legislation.gov.uk/ssi/2016/97), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/97/regulation/1/1), [13(b)(i)](https://www.legislation.gov.uk/ssi/2016/97/regulation/13/b/i)
 
-[^key-ab5a4080a183bbde3f8c91e1d595c4f1]: Textual amendment: Word in [sch. 5 para. 4(b)](https://www.legislation.gov.uk/ssi/2015/94/schedule/5/paragraph/4/b) omitted (with effect in accordance with reg. 1(2) of the amending S.S.I.) by virtue of [The National Health Service Pension Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/97)](https://www.legislation.gov.uk/ssi/2016/97), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/97/regulation/1/1), [13(b)(ii)](https://www.legislation.gov.uk/ssi/2016/97/regulation/13/b/ii)
+[^c-ab5a4080a183bbde3f8c91e1d595c4f1]: Textual amendment: Word in [sch. 5 para. 4(b)](https://www.legislation.gov.uk/ssi/2015/94/schedule/5/paragraph/4/b) omitted (with effect in accordance with reg. 1(2) of the amending S.S.I.) by virtue of [The National Health Service Pension Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/97)](https://www.legislation.gov.uk/ssi/2016/97), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/97/regulation/1/1), [13(b)(ii)](https://www.legislation.gov.uk/ssi/2016/97/regulation/13/b/ii)

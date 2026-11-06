@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Sections 29 to 32A[^key-f20dfdfe4882d682a74191798dd2738c] above shall, so far as applicable, have effect in relation to a person residing in a caravan on a caravan site who is displaced from that site as they have effect in relation to a person displaced from a dwelling on any land but shall so have effect subject to the following modifications.
+(1) Sections 29 to 32A[^c-f20dfdfe4882d682a74191798dd2738c] above shall, so far as applicable, have effect in relation to a person residing in a caravan on a caravan site who is displaced from that site as they have effect in relation to a person displaced from a dwelling on any land but shall so have effect subject to the following modifications.
 
 (2) No home loss payment or discretionary payment[^c776362] shall be made to any person by virtue of this section except where no suitable alternative site for stationing a caravan is available to him on reasonable terms.
 
@@ -39,13 +39,13 @@ summary: ''
 
   > (5) Where any land comprises two or more caravan sites and the claimant has successively been in occupation of or resided in a caravan on different caravan sites on that land, section 29(2) above and subsections (3) to (4)[^c776366] above shall have effect as if those sites were the same site.
 
-(6) Sections 29 to 32A[^key-717f6ff03e08244a8b1d82afbe97d6ee] above shall have effect as if in any provision not modified as aforesaid for any reference to a dwelling or land there were substituted a reference to a caravan site.
+(6) Sections 29 to 32A[^c-717f6ff03e08244a8b1d82afbe97d6ee] above shall have effect as if in any provision not modified as aforesaid for any reference to a dwelling or land there were substituted a reference to a caravan site.
 
 (7) In this section “**caravan site**” means land on which a caravan is stationed for the purpose of human habitation and land which is used in conjunction with land on which a caravan is so stationed.
 
 ## Annotations
 
-[^key-f20dfdfe4882d682a74191798dd2738c]: Textual amendment: Word in [s. 33(1)](https://www.legislation.gov.uk/ukpga/1973/26/section/33/1) substituted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 111(4)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/111/4/a), [118(5)(e)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/e) (with [ss. 111(6)](https://www.legislation.gov.uk/ukpga/2025/34/section/111/6)[(7)](https://www.legislation.gov.uk/ukpga/2025/34/section/111/7), [116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-f20dfdfe4882d682a74191798dd2738c]: Textual amendment: Word in [s. 33(1)](https://www.legislation.gov.uk/ukpga/1973/26/section/33/1) substituted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 111(4)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/111/4/a), [118(5)(e)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/e) (with [ss. 111(6)](https://www.legislation.gov.uk/ukpga/2025/34/section/111/6)[(7)](https://www.legislation.gov.uk/ukpga/2025/34/section/111/7), [116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
 
 [^c776362]: Textual amendment: Words in s. 33(2) inserted (25.09.1991) by [Planning and Compensation Act 1991 (c. 34, SIF 28:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 68(8)(a)(9)](https://www.legislation.gov.uk/ukpga/1991/34/section/68/8/a/9)(with s. 84(5)); [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art.3](https://www.legislation.gov.uk/uksi/1991/2067/article/3)
 
@@ -57,4 +57,4 @@ summary: ''
 
 [^c776366]: Textual amendment: Words in s. 33(5)(c) substituted (25.09.1991) by [Planning and Compensation Act 1991 (c. 34, SIF 28:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 68(8)(d)(9)](https://www.legislation.gov.uk/ukpga/1991/34/section/68/8/d/9) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067),art. 3.
 
-[^key-717f6ff03e08244a8b1d82afbe97d6ee]: Textual amendment: Word in [s. 33(6)](https://www.legislation.gov.uk/ukpga/1973/26/section/33/6) substituted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 111(4)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/111/4/b), [118(5)(e)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/e) (with [ss. 111(6)](https://www.legislation.gov.uk/ukpga/2025/34/section/111/6)[(7)](https://www.legislation.gov.uk/ukpga/2025/34/section/111/7), [116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-717f6ff03e08244a8b1d82afbe97d6ee]: Textual amendment: Word in [s. 33(6)](https://www.legislation.gov.uk/ukpga/1973/26/section/33/6) substituted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 111(4)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/111/4/b), [118(5)(e)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/e) (with [ss. 111(6)](https://www.legislation.gov.uk/ukpga/2025/34/section/111/6)[(7)](https://www.legislation.gov.uk/ukpga/2025/34/section/111/7), [116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))

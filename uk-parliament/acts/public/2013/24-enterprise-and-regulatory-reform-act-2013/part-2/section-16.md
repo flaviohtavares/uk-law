@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Power of employment tribunal to impose financial penalty on employers etc[^c2181316][^key-70e04634d854492d0f5e78c3ed8481e4]
+## 16. Power of employment tribunal to impose financial penalty on employers etc[^c2181316][^c-70e04634d854492d0f5e78c3ed8481e4]
 
 *Extent: E+W+S*
 
@@ -106,4 +106,4 @@ summary: ''
 
 [^c2181316]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2013/24/section/16) partly in force; [s. 16](https://www.legislation.gov.uk/ukpga/2013/24/section/16) in force for specified purposes at Royal Assent, see [s. 103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)
 
-[^key-70e04634d854492d0f5e78c3ed8481e4]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2013/24/section/16) in force at 6.4.2014 by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/253/article/3/e)
+[^c-70e04634d854492d0f5e78c3ed8481e4]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2013/24/section/16) in force at 6.4.2014 by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/253/article/3/e)

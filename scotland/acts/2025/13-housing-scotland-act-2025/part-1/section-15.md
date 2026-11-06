@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Information sharing and cooperation between local authorities and the Scottish Ministers[^key-907aad63c15555a3d11ef08023580f83][^key-d5651a5b4564e8f798bf686331483748]
+## 15. Information sharing and cooperation between local authorities and the Scottish Ministers[^c-907aad63c15555a3d11ef08023580f83][^c-d5651a5b4564e8f798bf686331483748]
 
 *Extent: S*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-907aad63c15555a3d11ef08023580f83]: Commencement: S. 15 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-907aad63c15555a3d11ef08023580f83]: Commencement: S. 15 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-d5651a5b4564e8f798bf686331483748]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2025/13/section/15) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-d5651a5b4564e8f798bf686331483748]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2025/13/section/15) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

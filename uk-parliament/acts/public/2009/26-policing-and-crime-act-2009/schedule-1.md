@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 1 — Schedule to the Street Offences Act 1959[^key-ab7d2f1581a226181db838970d604aa9]
+## Schedule 1 — Schedule to the Street Offences Act 1959[^c-ab7d2f1581a226181db838970d604aa9]
 
 *Extent: E+W+S+N.I.*
 
@@ -209,4 +209,4 @@ Section 17(4)
 
 ## Annotations
 
-[^key-ab7d2f1581a226181db838970d604aa9]: Commencement: Sch. 1 in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(s)](https://www.legislation.gov.uk/uksi/2010/507/article/5/s)
+[^c-ab7d2f1581a226181db838970d604aa9]: Commencement: Sch. 1 in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(s)](https://www.legislation.gov.uk/uksi/2010/507/article/5/s)

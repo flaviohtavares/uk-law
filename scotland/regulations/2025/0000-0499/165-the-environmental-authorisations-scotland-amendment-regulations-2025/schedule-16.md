@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 16 — NEW SCHEDULE 25 TO BE ADDED INTO THE 2018 REGULATIONS[^key-faacad4791f1879d0c7449faf39198ef][^key-95a4a00281cd61eb6524a3c6bdb5ff60]
+## SCHEDULE 16 — NEW SCHEDULE 25 TO BE ADDED INTO THE 2018 REGULATIONS[^c-faacad4791f1879d0c7449faf39198ef][^c-95a4a00281cd61eb6524a3c6bdb5ff60]
 
 *Extent: S*
 
@@ -266,9 +266,9 @@ Regulation 9(2)
 
 ## Annotations
 
-[^key-faacad4791f1879d0c7449faf39198ef]: Commencement: [Sch. 16](https://www.legislation.gov.uk/ssi/2025/165/schedule/16) in force at 1.6.2025 for specified purposes (subject to reg. 1(5)), see [reg. 1(4)(d)(ii)(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/d/ii/5)
+[^c-faacad4791f1879d0c7449faf39198ef]: Commencement: [Sch. 16](https://www.legislation.gov.uk/ssi/2025/165/schedule/16) in force at 1.6.2025 for specified purposes (subject to reg. 1(5)), see [reg. 1(4)(d)(ii)(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/d/ii/5)
 
-[^key-95a4a00281cd61eb6524a3c6bdb5ff60]: Commencement: [Sch. 16](https://www.legislation.gov.uk/ssi/2025/165/schedule/16) in force at 1.11.2025 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-95a4a00281cd61eb6524a3c6bdb5ff60]: Commencement: [Sch. 16](https://www.legislation.gov.uk/ssi/2025/165/schedule/16) in force at 1.11.2025 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00082]: Footnote: [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32). Section 18 was amended by paragraph 53 of schedule 1(1) of the Energy Act [2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [S.I. 2017/524](https://www.legislation.gov.uk/uksi/2017/524) and [2011/2453](https://www.legislation.gov.uk/uksi/2011/2453).
 

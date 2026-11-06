@@ -22,7 +22,7 @@ summary: ''
 
 (1) This section applies if—
 
-- (a) during the period beginning with 1 April 2002 and ending with 30 June 2020[^key-6d29253af031f079a17d16910bfb8159] a company (“**the acquiring company**”) acquires an intangible fixed asset (“the acquired asset”) from a person (“**the transferor**”),
+- (a) during the period beginning with 1 April 2002 and ending with 30 June 2020[^c-6d29253af031f079a17d16910bfb8159] a company (“**the acquiring company**”) acquires an intangible fixed asset (“the acquired asset”) from a person (“**the transferor**”),
 - (b) the acquired asset is created on or after 1 April 2002,
 - (c) at the time of the acquisition the transferor and the acquiring company are related parties,
 - (d) the value of the acquired asset derives in whole or in part from any other asset (“the other asset”), and
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d29253af031f079a17d16910bfb8159]: Textual amendment: Words in s. 893(1)(a substituted (with effect in accordance with s. 31(14)(15) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 31(11)](https://www.legislation.gov.uk/ukpga/2020/14/section/31/11)
+[^c-6d29253af031f079a17d16910bfb8159]: Textual amendment: Words in s. 893(1)(a substituted (with effect in accordance with s. 31(14)(15) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 31(11)](https://www.legislation.gov.uk/ukpga/2020/14/section/31/11)

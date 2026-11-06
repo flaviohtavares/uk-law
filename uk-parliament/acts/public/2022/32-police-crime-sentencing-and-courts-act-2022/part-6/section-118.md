@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Abolition of other cautions and out-of-court disposals[^key-f6d61df1ad5ff56cfce00700a5947682]
+## 118. Abolition of other cautions and out-of-court disposals[^c-f6d61df1ad5ff56cfce00700a5947682]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6d61df1ad5ff56cfce00700a5947682]: Commencement: S. 118 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-f6d61df1ad5ff56cfce00700a5947682]: Commencement: S. 118 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)

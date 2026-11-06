@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Time limit for proceedings for summary offences[^key-da0aef20b5ee0232c0f61c8f50032fe5][^key-1216732231791b34e2708a559e2f4b9b]
+## 114. Time limit for proceedings for summary offences[^c-da0aef20b5ee0232c0f61c8f50032fe5][^c-1216732231791b34e2708a559e2f4b9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,8 +33,8 @@ summary: ''
 
 ## Annotations
 
-[^key-da0aef20b5ee0232c0f61c8f50032fe5]: Commencement: Reg. 114 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-da0aef20b5ee0232c0f61c8f50032fe5]: Commencement: Reg. 114 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-1216732231791b34e2708a559e2f4b9b]: Commencement: [Reg. 114](https://www.legislation.gov.uk/uksi/2019/411/regulation/114) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1216732231791b34e2708a559e2f4b9b]: Commencement: [Reg. 114](https://www.legislation.gov.uk/uksi/2019/411/regulation/114) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23636751]: Marginal citation: There have been no amendments to section 136(3).

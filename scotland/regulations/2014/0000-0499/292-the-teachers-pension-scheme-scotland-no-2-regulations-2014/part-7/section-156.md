@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 156. Death grant: death of pension credit member after benefits payable[^key-861060d94517dd6905ea3410926cd858]
+## 156. Death grant: death of pension credit member after benefits payable[^c-861060d94517dd6905ea3410926cd858]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-861060d94517dd6905ea3410926cd858]: Commencement: [Reg. 156](https://www.legislation.gov.uk/ssi/2014/292/regulation/156) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-861060d94517dd6905ea3410926cd858]: Commencement: [Reg. 156](https://www.legislation.gov.uk/ssi/2014/292/regulation/156) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

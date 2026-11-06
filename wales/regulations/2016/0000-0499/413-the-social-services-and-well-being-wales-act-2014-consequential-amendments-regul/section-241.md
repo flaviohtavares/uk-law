@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**241.**[^key-d403e23049a9659c5e3e46887367013d] In section 77 (care trusts)—
+**241.**[^c-d403e23049a9659c5e3e46887367013d] In section 77 (care trusts)—
 
 - (a) in subsection (11) after the words “relevant social services functions” insert “of a local authority in England”;
 - (b) after subsection (11), insert—
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d403e23049a9659c5e3e46887367013d]: Commencement: Reg. 241 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-d403e23049a9659c5e3e46887367013d]: Commencement: Reg. 241 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

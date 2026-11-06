@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Local authorities in England: duty to promote sustainable modes of travel etc[^key-077d33c7c3ddf94eb5fab1f8940d172f][^key-81ffb0eb20e62c98df124b83aeaf3944]
+## 76. Local authorities in England: duty to promote sustainable modes of travel etc[^c-077d33c7c3ddf94eb5fab1f8940d172f][^c-81ffb0eb20e62c98df124b83aeaf3944]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ After section 508 of EA 1996 insert—
 
 > **508A. Local authorities in England: duty to promote sustainable modes of travel etc**
 >
-> (1) A local authority[^key-0ea7acc4831332590d0c9da4689eca3c] in England must—
+> (1) A local authority[^c-0ea7acc4831332590d0c9da4689eca3c] in England must—
 >
 > - (a) prepare for each academic year a document containing their strategy to promote the use of sustainable modes of travel to meet the school travel needs of their area (“a sustainable modes of travel strategy”),
 > - (b) publish the strategy in such manner and by such time as may be prescribed, and
@@ -74,8 +74,8 @@ After section 508 of EA 1996 insert—
 
 ## Annotations
 
-[^key-077d33c7c3ddf94eb5fab1f8940d172f]: Commencement: S. 76 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(l)](https://www.legislation.gov.uk/uksi/2007/935/article/5/l)
+[^c-077d33c7c3ddf94eb5fab1f8940d172f]: Commencement: S. 76 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(l)](https://www.legislation.gov.uk/uksi/2007/935/article/5/l)
 
-[^key-81ffb0eb20e62c98df124b83aeaf3944]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/3)
+[^c-81ffb0eb20e62c98df124b83aeaf3944]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/3)
 
-[^key-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)
+[^c-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)

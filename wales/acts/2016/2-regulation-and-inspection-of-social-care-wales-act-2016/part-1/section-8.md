@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Duration of domiciliary support visits[^key-5a0bec09746895714b0ffb20dba72667]
+## 8. Duration of domiciliary support visits[^c-5a0bec09746895714b0ffb20dba72667]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a0bec09746895714b0ffb20dba72667]: Commencement: S. 8 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/d)
+[^c-5a0bec09746895714b0ffb20dba72667]: Commencement: S. 8 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/d)

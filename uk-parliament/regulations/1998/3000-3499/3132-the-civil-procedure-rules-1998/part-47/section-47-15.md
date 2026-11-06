@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.15. Provisional Assessment[^key-b941119c8cdc9da1893b8454ae2b36e6]
+## 47.15. Provisional Assessment[^c-b941119c8cdc9da1893b8454ae2b36e6]
 
 *Extent: E+W*
 
-(1) This rule applies to any detailed assessment proceedings commenced in the High Court or the County Court[^key-06ee65836197b66ca787a749c33c5656] on or after 1 April 2013 in which the costs claimed are the amount set out in paragraph 14.1 of the practice direction supplementing this Part, or less.
+(1) This rule applies to any detailed assessment proceedings commenced in the High Court or the County Court[^c-06ee65836197b66ca787a749c33c5656] on or after 1 April 2013 in which the costs claimed are the amount set out in paragraph 14.1 of the practice direction supplementing this Part, or less.
 
 (2) In proceedings to which this rule applies, the parties must comply with the procedure set out in Part 47 as modified by paragraph 14 Practice Direction 47.
 
@@ -28,7 +28,7 @@ summary: ''
 
 (4) The provisional assessment will be based on the information contained in the bill and supporting papers and the contentions set out in Precedent G (the points of dispute and any reply).
 
-(5)[^key-ceeb5afcebed20685813ae697078417d] In proceedings which do not go beyond provisional assessment, the maximum amount the court will award to any party as costs of the assessment (other than the costs of drafting the bill of costs) is £1,500 together with any VAT thereon and any court fees paid by that party.
+(5)[^c-ceeb5afcebed20685813ae697078417d] In proceedings which do not go beyond provisional assessment, the maximum amount the court will award to any party as costs of the assessment (other than the costs of drafting the bill of costs) is £1,500 together with any VAT thereon and any court fees paid by that party.
 
 (6) The court may at any time decide that the matter is unsuitable for a provisional assessment and may give directions for the matter to be listed for hearing. The matter will then proceed under rule 47.14 without modification.
 
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b941119c8cdc9da1893b8454ae2b36e6]: Textual amendment: Pts. 44-48 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [16](https://www.legislation.gov.uk/uksi/2013/262/rule/16), [Sch.](https://www.legislation.gov.uk/uksi/2013/262/schedule) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))
+[^c-b941119c8cdc9da1893b8454ae2b36e6]: Textual amendment: Pts. 44-48 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [16](https://www.legislation.gov.uk/uksi/2013/262/rule/16), [Sch.](https://www.legislation.gov.uk/uksi/2013/262/schedule) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))
 
-[^key-06ee65836197b66ca787a749c33c5656]: Textual amendment: Words in Rules substituted (22.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rules 2(1)](https://www.legislation.gov.uk/uksi/2014/407/article/2/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2014/407/rule/4/a/i); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/954/article/2/a)
+[^c-06ee65836197b66ca787a749c33c5656]: Textual amendment: Words in Rules substituted (22.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rules 2(1)](https://www.legislation.gov.uk/uksi/2014/407/article/2/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2014/407/rule/4/a/i); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/954/article/2/a)
 
-[^key-ceeb5afcebed20685813ae697078417d]: Textual amendment: [Rule 47.15(5)](https://www.legislation.gov.uk/uksi/1998/3132/rule/47.15/5) substituted (1.10.2013) by [The Civil Procedure (Amendment No.7) Rules 2013 (S.I. 2013/1974)](https://www.legislation.gov.uk/uksi/2013/1974), [rules 2](https://www.legislation.gov.uk/uksi/2013/1974/article/2), [22](https://www.legislation.gov.uk/uksi/2013/1974/rule/22)
+[^c-ceeb5afcebed20685813ae697078417d]: Textual amendment: [Rule 47.15(5)](https://www.legislation.gov.uk/uksi/1998/3132/rule/47.15/5) substituted (1.10.2013) by [The Civil Procedure (Amendment No.7) Rules 2013 (S.I. 2013/1974)](https://www.legislation.gov.uk/uksi/2013/1974), [rules 2](https://www.legislation.gov.uk/uksi/2013/1974/article/2), [22](https://www.legislation.gov.uk/uksi/2013/1974/rule/22)

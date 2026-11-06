@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106A. Exclusion of precision bred organisms from English application of Part[^key-0afe5258107baf067667beb9053d5088]
+## 106A. Exclusion of precision bred organisms from English application of Part[^c-0afe5258107baf067667beb9053d5088]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0afe5258107baf067667beb9053d5088]: Textual amendment: S. 106A inserted (13.11.2025 for specified purposes) by [Genetic Technology (Precision Breeding) Act 2023 (c. 6)](https://www.legislation.gov.uk/ukpga/2023/6), [ss. 41(2)](https://www.legislation.gov.uk/ukpga/2023/6/section/41/2), [48(4)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/4) (with [s. 46](https://www.legislation.gov.uk/ukpga/2023/6/section/46)); [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(5)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/5)
+[^c-0afe5258107baf067667beb9053d5088]: Textual amendment: S. 106A inserted (13.11.2025 for specified purposes) by [Genetic Technology (Precision Breeding) Act 2023 (c. 6)](https://www.legislation.gov.uk/ukpga/2023/6), [ss. 41(2)](https://www.legislation.gov.uk/ukpga/2023/6/section/41/2), [48(4)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/4) (with [s. 46](https://www.legislation.gov.uk/ukpga/2023/6/section/46)); [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(5)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/5)

@@ -156,12 +156,12 @@ This Instrument contains only regulations made consequential upon Part 1 of the 
   - (i) in sub-paragraph (5)(a) for “or incapacity benefit” substitute “ , incapacity benefit or contributory employment and support allowance ”; and
   - (ii) after sub-paragraph (14) add—
 
-    > (15) For the purpose of determining whether the linking rules set out in this paragraph apply in a case where a claimant, a claimant’s partner or[^key-623fbb725e761582a11451e6bc6c232d] a claimant's former partner was entitled to income-related employment and support allowance, any reference to income support in this Schedule shall be taken to include also a reference to income-related employment and support allowance.
+    > (15) For the purpose of determining whether the linking rules set out in this paragraph apply in a case where a claimant, a claimant’s partner or[^c-623fbb725e761582a11451e6bc6c232d] a claimant's former partner was entitled to income-related employment and support allowance, any reference to income support in this Schedule shall be taken to include also a reference to income-related employment and support allowance.
 
     ; and
 - (g) in paragraph 18(7) (non-dependant deductions) after paragraph (h) add—
 
-  > - (i) he is aged less than 25 and is in receipt of employment and support allowance which does not include an amount under section [^key-4c27c4d8c40cde4da88c96e4359e59bc]... 4(4) or (5) of the Welfare Reform Act (components).
+  > - (i) he is aged less than 25 and is in receipt of employment and support allowance which does not include an amount under section [^c-4c27c4d8c40cde4da88c96e4359e59bc]... 4(4) or (5) of the Welfare Reform Act (components).
 
   .
 
@@ -373,7 +373,7 @@ This Instrument contains only regulations made consequential upon Part 1 of the 
 
     > or
     >
-    > - (i) he is aged less than 25 and is in receipt of employment and support allowance which does not include an amount under section [^key-39c43ca0eed280ad82add84dc6f5dea1]... 4(4) or (5) of the Welfare Reform Act (components)
+    > - (i) he is aged less than 25 and is in receipt of employment and support allowance which does not include an amount under section [^c-39c43ca0eed280ad82add84dc6f5dea1]... 4(4) or (5) of the Welfare Reform Act (components)
 
     ; and
 - (g) in paragraph 18 (continuity with income support)—
@@ -487,7 +487,7 @@ This Instrument contains only regulations made consequential upon Part 1 of the 
 - (d) in paragraph 10(10) (excessive housing costs) for “and income-based jobseeker's allowance” substitute “ , income-based jobseeker's allowance and income-related employment and support allowance ”; and
 - (e) in paragraph 14(7) (persons residing with the claimant) after (f) add—
 
-  > - (g) if he is aged less than 25 and is in receipt of employment and support allowance which does not include an amount under section [^key-7c51060a469dbee43f4a3372cae80a25]... 4(4) or (5) of the Welfare Reform Act (components).
+  > - (g) if he is aged less than 25 and is in receipt of employment and support allowance which does not include an amount under section [^c-7c51060a469dbee43f4a3372cae80a25]... 4(4) or (5) of the Welfare Reform Act (components).
 
   .
 
@@ -557,7 +557,7 @@ In regulation 3 of the Social Fund (Recovery by Deductions from Benefits) Regula
 
   .
 
-### 7. Amendment of the Social Fund Winter Fuel Payment Regulations 2000[^key-5e9a7c2a3c44f4559fc6b5f2b247bb34]
+### 7. Amendment of the Social Fund Winter Fuel Payment Regulations 2000[^c-5e9a7c2a3c44f4559fc6b5f2b247bb34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -2260,9 +2260,9 @@ These Regulations have no impact on the cost of business, charities or the volun
 
 [^c1928994]: Marginal citation: Sub-paragraph (1B) was inserted by [S.I. 1997/2305](https://www.legislation.gov.uk/uksi/1997/2305) and amended by [S.I. 2002/3019](https://www.legislation.gov.uk/uksi/2002/3019).
 
-[^key-623fbb725e761582a11451e6bc6c232d]: Textual amendment: Words in [reg. 2(11)(f)(ii)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/2/11/f/ii) inserted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [41(2)(a)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/41/2/a)
+[^c-623fbb725e761582a11451e6bc6c232d]: Textual amendment: Words in [reg. 2(11)(f)(ii)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/2/11/f/ii) inserted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [41(2)(a)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/41/2/a)
 
-[^key-4c27c4d8c40cde4da88c96e4359e59bc]: Textual amendment: Words in [reg. 2(11)(g)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/2/11/g) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [41(2)(b)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/41/2/b)
+[^c-4c27c4d8c40cde4da88c96e4359e59bc]: Textual amendment: Words in [reg. 2(11)(g)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/2/11/g) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [41(2)(b)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/41/2/b)
 
 [^c1928995]: Marginal citation: Paragraph 19A was inserted by [S.I. 2001/488](https://www.legislation.gov.uk/uksi/2001/488) and amended by [S.I. 2001/3767](https://www.legislation.gov.uk/uksi/2001/3767) and 2002/398.
 
@@ -2322,7 +2322,7 @@ These Regulations have no impact on the cost of business, charities or the volun
 
 [^c1929023]: Marginal citation: Sub-paragraph (2B) was inserted by [S.I. 2000/1978](https://www.legislation.gov.uk/uksi/2000/1978).
 
-[^key-39c43ca0eed280ad82add84dc6f5dea1]: Textual amendment: Words in [reg. 3(25)(f)(ii)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/3/25/f/ii) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [41(3)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/41/3)
+[^c-39c43ca0eed280ad82add84dc6f5dea1]: Textual amendment: Words in [reg. 3(25)(f)(ii)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/3/25/f/ii) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [41(3)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/41/3)
 
 [^c1929024]: Marginal citation: Schedule was inserted by [S.I. 2000/1978](https://www.legislation.gov.uk/uksi/2000/1978).
 
@@ -2344,7 +2344,7 @@ These Regulations have no impact on the cost of business, charities or the volun
 
 [^c1929033]: Marginal citation: Paragraph 6 was amended by [S.I. 2002/3197](https://www.legislation.gov.uk/uksi/2002/3197) and 2006/588.
 
-[^key-7c51060a469dbee43f4a3372cae80a25]: Textual amendment: Words in [reg. 4(8)(e)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/4/8/e) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [41(4)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/41/4)
+[^c-7c51060a469dbee43f4a3372cae80a25]: Textual amendment: Words in [reg. 4(8)(e)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/4/8/e) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [41(4)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/41/4)
 
 [^c1929034]: Marginal citation: Paragraph 2 was substituted by [S.I. 2003/2274](https://www.legislation.gov.uk/uksi/2003/2274).
 
@@ -2360,7 +2360,7 @@ These Regulations have no impact on the cost of business, charities or the volun
 
 [^c1929040]: Marginal citation: [Regulation 1A](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1A) was inserted by [S.I. 1991/2448](https://www.legislation.gov.uk/uksi/1991/2448) and paragraph (1) was amended by [S.I. 2002/3019](https://www.legislation.gov.uk/uksi/2002/3019), 2003/1121 and 2005/2687.
 
-[^key-5e9a7c2a3c44f4559fc6b5f2b247bb34]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2008/1554/regulation/7) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2)
+[^c-5e9a7c2a3c44f4559fc6b5f2b247bb34]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2008/1554/regulation/7) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2)
 
 [^c1929043]: Marginal citation: [S.I. 2005/3061](https://www.legislation.gov.uk/uksi/2005/3061).
 

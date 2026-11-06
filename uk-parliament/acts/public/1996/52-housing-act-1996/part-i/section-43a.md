@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43A (Extent: W). Appointment of interim manager (Extent: W)[^key-fdee11cd1f0e961bb5ebf0c9da6d0487]
+## 43A (Extent: W). Appointment of interim manager (Extent: W)[^c-fdee11cd1f0e961bb5ebf0c9da6d0487]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fdee11cd1f0e961bb5ebf0c9da6d0487]: Textual amendment: S. 43A inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 83](https://www.legislation.gov.uk/mwa/2011/5/section/83), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(s)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/s)
+[^c-fdee11cd1f0e961bb5ebf0c9da6d0487]: Textual amendment: S. 43A inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 83](https://www.legislation.gov.uk/mwa/2011/5/section/83), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(s)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/s)

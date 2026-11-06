@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture, England
 
-The Common Agricultural Policy Single Payment and Support Schemes Regulations 2010 (revoked)[^key-abc5b399013d09f5ce675471b2792f38]
+The Common Agricultural Policy Single Payment and Support Schemes Regulations 2010 (revoked)[^c-abc5b399013d09f5ce675471b2792f38]
 
 Made
 
@@ -46,55 +46,55 @@ Coming into force
 
 4th April 2010
 
-[^key-abc5b399013d09f5ce675471b2792f38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-abc5b399013d09f5ce675471b2792f38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-abc5b399013d09f5ce675471b2792f38]
+## 1. Title, application and commencement[^c-abc5b399013d09f5ce675471b2792f38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Regions[^key-abc5b399013d09f5ce675471b2792f38]
+## 2. Regions[^c-abc5b399013d09f5ce675471b2792f38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Minimum size of holding to establish entitlements[^key-abc5b399013d09f5ce675471b2792f38]
+## 3. Minimum size of holding to establish entitlements[^c-abc5b399013d09f5ce675471b2792f38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Minimum claim[^key-abc5b399013d09f5ce675471b2792f38]
+## 4. Minimum claim[^c-abc5b399013d09f5ce675471b2792f38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Date on which eligible land must be at the farmer’s disposal[^key-abc5b399013d09f5ce675471b2792f38]
+## 5. Date on which eligible land must be at the farmer’s disposal[^c-abc5b399013d09f5ce675471b2792f38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Progressive modifications of entitlements[^key-abc5b399013d09f5ce675471b2792f38]
+## 6. Progressive modifications of entitlements[^c-abc5b399013d09f5ce675471b2792f38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Transfers[^key-abc5b399013d09f5ce675471b2792f38]
+## 7. Transfers[^c-abc5b399013d09f5ce675471b2792f38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Additional modulation[^key-abc5b399013d09f5ce675471b2792f38]
+## 8. Additional modulation[^c-abc5b399013d09f5ce675471b2792f38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Short rotation coppice[^key-abc5b399013d09f5ce675471b2792f38]
+## 9. Short rotation coppice[^c-abc5b399013d09f5ce675471b2792f38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Revocation[^key-abc5b399013d09f5ce675471b2792f38]
+## 10. Revocation[^c-abc5b399013d09f5ce675471b2792f38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-abc5b399013d09f5ce675471b2792f38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-abc5b399013d09f5ce675471b2792f38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Specified proportion of additional modulation[^key-abc5b399013d09f5ce675471b2792f38]
+## SCHEDULE — Specified proportion of additional modulation[^c-abc5b399013d09f5ce675471b2792f38]
 
 Regulation 8
 
@@ -102,7 +102,7 @@ Regulation 8
 
 **No longer in force.**
 
-[^key-abc5b399013d09f5ce675471b2792f38]EXPLANATORY NOTE
+[^c-abc5b399013d09f5ce675471b2792f38]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -137,4 +137,4 @@ An impact assessment has not been prepared as the provisions covered by these Re
 
 ## Annotations
 
-[^key-abc5b399013d09f5ce675471b2792f38]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy Basic Payment and Support Schemes (England) Regulations 2014 (S.I. 2014/3259)](https://www.legislation.gov.uk/uksi/2014/3259), regs. 1, [15(1)(b)](https://www.legislation.gov.uk/uksi/2014/3259/regulation/15/1/b) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2014/3259/regulation/15/2))
+[^c-abc5b399013d09f5ce675471b2792f38]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy Basic Payment and Support Schemes (England) Regulations 2014 (S.I. 2014/3259)](https://www.legislation.gov.uk/uksi/2014/3259), regs. 1, [15(1)(b)](https://www.legislation.gov.uk/uksi/2014/3259/regulation/15/1/b) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2014/3259/regulation/15/2))

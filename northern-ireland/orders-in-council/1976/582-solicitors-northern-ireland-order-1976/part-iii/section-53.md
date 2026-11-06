@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53. Appeals against orders of the Tribunal[^key-9473b3ba556df9f4323c815a0f835b6f][^c17114291]
+## 53. Appeals against orders of the Tribunal[^c-9473b3ba556df9f4323c815a0f835b6f][^c17114291]
 
 *Extent: N.I.*
 
@@ -45,6 +45,6 @@ may appeal to the Lord Chief Justice who may—
 
 ## Annotations
 
-[^key-9473b3ba556df9f4323c815a0f835b6f]: Modification: [Art. 53](https://www.legislation.gov.uk/nisi/1976/582/article/53) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(gg)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/gg)
+[^c-9473b3ba556df9f4323c815a0f835b6f]: Modification: [Art. 53](https://www.legislation.gov.uk/nisi/1976/582/article/53) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(gg)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/gg)
 
 [^c17114291]: Textual amendment: [1989 NI 14](https://www.legislation.gov.uk/1989/ni14)

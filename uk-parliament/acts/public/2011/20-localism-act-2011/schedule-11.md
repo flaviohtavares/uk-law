@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 11 — Neighbourhood planning: community right to build orders[^c2116715][^key-26e464954b5b4ca58c0e97d2ccc6978f][^key-f0bcb68f836ace6922286b73ab1b78a8][^key-6f9fa2dafb58077e18b8f72b54104c4b][^key-a6aae58eb657a56a23d8c82f1f66e203]
+## SCHEDULE 11 — Neighbourhood planning: community right to build orders[^c2116715][^c-26e464954b5b4ca58c0e97d2ccc6978f][^c-f0bcb68f836ace6922286b73ab1b78a8][^c-6f9fa2dafb58077e18b8f72b54104c4b][^c-a6aae58eb657a56a23d8c82f1f66e203]
 
 *Extent: E+W*
 
 Section 116
 
-[^key-a6aae58eb657a56a23d8c82f1f66e203]
+[^c-a6aae58eb657a56a23d8c82f1f66e203]
 
 This is the Schedule to be inserted as Schedule 4C to the Town and Country Planning Act 1990—
 
@@ -178,10 +178,10 @@ This is the Schedule to be inserted as Schedule 4C to the Town and Country Plann
 
 [^c2116715]: Commencement: Sch. 11 in force at Royal Assent for specified purposes see s. 240(5)(j)
 
-[^key-26e464954b5b4ca58c0e97d2ccc6978f]: Commencement: Sch. 11 in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(h)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/h) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-26e464954b5b4ca58c0e97d2ccc6978f]: Commencement: Sch. 11 in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(h)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/h) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-f0bcb68f836ace6922286b73ab1b78a8]: Commencement: Sch. 11 in force at 6.4.2012 for specified purposes by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(a)](https://www.legislation.gov.uk/uksi/2012/628/article/8/a) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [arts. 18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
+[^c-f0bcb68f836ace6922286b73ab1b78a8]: Commencement: Sch. 11 in force at 6.4.2012 for specified purposes by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(a)](https://www.legislation.gov.uk/uksi/2012/628/article/8/a) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [arts. 18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
 
-[^key-6f9fa2dafb58077e18b8f72b54104c4b]: Commencement: Sch. 11 in force at 3.8.2012 for specified purposes by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), [arts. 2](https://www.legislation.gov.uk/uksi/2012/2029/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/2029/article/3/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2029/article/5)) (as amended (6.4.2013) by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), art. 4)
+[^c-6f9fa2dafb58077e18b8f72b54104c4b]: Commencement: Sch. 11 in force at 3.8.2012 for specified purposes by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), [arts. 2](https://www.legislation.gov.uk/uksi/2012/2029/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/2029/article/3/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2029/article/5)) (as amended (6.4.2013) by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), art. 4)
 
-[^key-a6aae58eb657a56a23d8c82f1f66e203]: Commencement: Sch. 11 in force at 6.4.2013 in so far as not already in force by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/797/article/1/2), [2](https://www.legislation.gov.uk/uksi/2013/797/article/2)
+[^c-a6aae58eb657a56a23d8c82f1f66e203]: Commencement: Sch. 11 in force at 6.4.2013 in so far as not already in force by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/797/article/1/2), [2](https://www.legislation.gov.uk/uksi/2013/797/article/2)

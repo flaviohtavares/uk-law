@@ -30,7 +30,7 @@ summary: ''
 
 (5) Provision for conditions mentioned in section 274(2) (conditions for approval as a VCT) to be treated (whether at times before, during or after the merger) for purposes of section 274(1) as met, or as conditions that will be met, with respect to the successor company or any of the merging companies.
 
-(5A)[^key-33dacabf7f7f6e22a84f67e456417e59] Provision for section 281(1)(f) (withdrawal of VCT approval where company has made a repayment of share capital etc) not to apply, or to apply subject to modifications, to the successor company or any of the merging companies, in relation to payments made, or amounts used to pay up new shares, in connection with or after the merger.
+(5A)[^c-33dacabf7f7f6e22a84f67e456417e59] Provision for section 281(1)(f) (withdrawal of VCT approval where company has made a repayment of share capital etc) not to apply, or to apply subject to modifications, to the successor company or any of the merging companies, in relation to payments made, or amounts used to pay up new shares, in connection with or after the merger.
 
 (6) Provision for shares in or securities of a company that are acquired (whether at times before, during or after the merger) by the successor company from a merging company to be treated, at times after the acquisition when they are held by the successor company, as meeting requirements of Chapter 4 (provisions for determining whether shares or securities held by a VCT form part of its qualifying holdings).
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33dacabf7f7f6e22a84f67e456417e59]: Textual amendment: S. 322(5A) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2014/26/schedule/10/paragraph/4)
+[^c-33dacabf7f7f6e22a84f67e456417e59]: Textual amendment: S. 322(5A) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2014/26/schedule/10/paragraph/4)

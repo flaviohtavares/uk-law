@@ -25,7 +25,7 @@ summary: ''
 - (a) the invention is new;
 - (b) it involves an inventive step;
 - (c) it is capable of industrial application;
-- (d) the grant of a patent for it is not excluded by subsections (2) and (3) or section 4A[^key-1225aa8783c804b236b0a4a4c2b9ab5b] below;
+- (d) the grant of a patent for it is not excluded by subsections (2) and (3) or section 4A[^c-1225aa8783c804b236b0a4a4c2b9ab5b] below;
 
 and references in this Act to a patentable invention shall be construed accordingly.
 
@@ -46,6 +46,6 @@ but the foregoing provision shall prevent anything from being treated as an inve
 
 ## Annotations
 
-[^key-1225aa8783c804b236b0a4a4c2b9ab5b]: Textual amendment: Words in s. 1(1)(d) inserted (13.12.2007) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [s. 17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/2); [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(l)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/l)
+[^c-1225aa8783c804b236b0a4a4c2b9ab5b]: Textual amendment: Words in s. 1(1)(d) inserted (13.12.2007) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [s. 17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/2); [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(l)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/l)
 
 [^c8019941]: Textual amendment: S. 1(3)(4) substituted (28.7.2000) by [S.I. 2000/2037](https://www.legislation.gov.uk/uksi/2000/2037), [reg. 3](https://www.legislation.gov.uk/uksi/2000/2037/regulation/3)

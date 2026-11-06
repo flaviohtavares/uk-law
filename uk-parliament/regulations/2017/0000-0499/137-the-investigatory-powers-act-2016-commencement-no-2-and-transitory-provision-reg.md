@@ -37,19 +37,19 @@ Made
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 270(2) and 272(1) of the Investigatory Powers Act 2016[^f00001].
 
-## 1. Citation and interpretation[^key-fe1ec8ee0d55f179dac83268e8787802]
+## 1. Citation and interpretation[^c-fe1ec8ee0d55f179dac83268e8787802]
 
 (1) These Regulations may be cited as the Investigatory Powers Act 2016 (Commencement No. 2 and Transitory Provision) Regulations 2017.
 
 (2) In these Regulations “the 2016 Act” means the Investigatory Powers Act 2016.
 
-## 2. Appointed Day[^key-c5c74c2366a1d6708eb1bc426b5b1304]
+## 2. Appointed Day[^c-c5c74c2366a1d6708eb1bc426b5b1304]
 
 The following provisions of the 2016 Act come into force on 13th February 2017—
 
 - (a) section 1 (overview of Act);
-- (b)[^key-8caa00346d449748b08f44e141634d9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-8caa00346d449748b08f44e141634d9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-8caa00346d449748b08f44e141634d9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-8caa00346d449748b08f44e141634d9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) section 229(6) and (7) (requirement that a Judicial Commissioner must not act in certain ways);
 - (e) the definition of “police force” in section 229(9) (definitions in section 229) and section 60(1) for the purpose of the definition of “police force” in section 229(9);
 - (f) section 230 (additional directed oversight functions);
@@ -68,7 +68,7 @@ The following provisions of the 2016 Act come into force on 13th February 2017�
 - (s) section 253(3) to (6) (regulations specifying obligations that may be imposed by a technical capability notice);
 - (t) Schedule 7 (codes of practice).
 
-## 3. Transitory Provision[^key-960b223903a6b943f73dd88e589cddbc]
+## 3. Transitory Provision[^c-960b223903a6b943f73dd88e589cddbc]
 
 From 13th February 2017 until section 245 of the 2016 Act (Technical Advisory Board) comes into force, the reference to the “Technical Advisory Board” in section 253(6)(a) of the 2016 Act is to be read as a reference to the Technical Advisory Board within the meaning of section 13 of the Regulation of Investigatory Powers Act 2000[^f00002].
 
@@ -123,12 +123,12 @@ The following provisions of the Investigatory Powers Act [2016 (c. 25)](https://
 
 [^f00001]: Footnote: [2016 c. 25](https://www.legislation.gov.uk/ukpga/2016/25).
 
-[^key-fe1ec8ee0d55f179dac83268e8787802]: Commencement: Reg. 1 in force at made date
+[^c-fe1ec8ee0d55f179dac83268e8787802]: Commencement: Reg. 1 in force at made date
 
-[^key-c5c74c2366a1d6708eb1bc426b5b1304]: Commencement: Reg. 2 in force at made date
+[^c-c5c74c2366a1d6708eb1bc426b5b1304]: Commencement: Reg. 2 in force at made date
 
-[^key-8caa00346d449748b08f44e141634d9f]: Textual amendment: [Reg. 2(b)(c)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/b/c) omitted (10.2.2017) by virtue of [The Investigatory Powers Act 2016 (Commencement No. 2 and Transitory Provision) (Amendment) Regulations 2017 (S.I. 2017/143)](https://www.legislation.gov.uk/uksi/2017/143), [reg. 2](https://www.legislation.gov.uk/uksi/2017/143/regulation/2)
+[^c-8caa00346d449748b08f44e141634d9f]: Textual amendment: [Reg. 2(b)(c)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/b/c) omitted (10.2.2017) by virtue of [The Investigatory Powers Act 2016 (Commencement No. 2 and Transitory Provision) (Amendment) Regulations 2017 (S.I. 2017/143)](https://www.legislation.gov.uk/uksi/2017/143), [reg. 2](https://www.legislation.gov.uk/uksi/2017/143/regulation/2)
 
-[^key-960b223903a6b943f73dd88e589cddbc]: Commencement: Reg. 3 in force at made date
+[^c-960b223903a6b943f73dd88e589cddbc]: Commencement: Reg. 3 in force at made date
 
 [^f00002]: Footnote: [2000 c. 23](https://www.legislation.gov.uk/ukpga/2000/23).

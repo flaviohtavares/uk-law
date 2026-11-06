@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Support for housing costs[^key-0ca0c1c9c6c9dda8fae2a529883fa73d]
+## 30. Support for housing costs[^c-0ca0c1c9c6c9dda8fae2a529883fa73d]
 
 *Extent: N.I.*
 
@@ -26,9 +26,9 @@ summary: ''
   - (i) was entitled to income-based jobseeker’s allowance, income-related employment and support allowance or income support (a “relevant award”) at any time during the period of one month ending with the day on which the claim for universal credit was made or treated as made (or would have been so entitled were it not for termination of that award by virtue of an order made under Article 2(2) of the Order or the effect of these Regulations), or
   - (ii) was at any time during the period of one month ending with the day on which the claim for universal credit was made or treated as made, the partner of a person (“**P**”) who was at that time entitled to a relevant award, where the award of universal credit is not a joint award to the claimant and P; and
 - (b) on the relevant date, the relevant award included an amount in respect of housing costs under—
-  - (i) paragraph 16 of Schedule 2[^key-b6bc36aaa48514fb171c5c86fb47b829] to the JSA Regulations 1996[^f00044],
-  - (ii) paragraph 18 of Schedule 6[^key-47d01d679e10577ba0ce28a2ec699dfa] to the ESA Regulations 2008[^f00045], or, as the case may be,
-  - (iii) paragraph 17 of Schedule 3[^key-1e76a37d670780d471472ff14c5dea44] to the Income Support (General) Regulations (Northern Ireland) 1987[^f00046].
+  - (i) paragraph 16 of Schedule 2[^c-b6bc36aaa48514fb171c5c86fb47b829] to the JSA Regulations 1996[^f00044],
+  - (ii) paragraph 18 of Schedule 6[^c-47d01d679e10577ba0ce28a2ec699dfa] to the ESA Regulations 2008[^f00045], or, as the case may be,
+  - (iii) paragraph 17 of Schedule 3[^c-1e76a37d670780d471472ff14c5dea44] to the Income Support (General) Regulations (Northern Ireland) 1987[^f00046].
 
 (2) In this regulation the “**relevant date**” means—
 
@@ -62,17 +62,17 @@ summary: ''
 
 ## Annotations
 
-[^key-0ca0c1c9c6c9dda8fae2a529883fa73d]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2016/226/regulation/30) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
+[^c-0ca0c1c9c6c9dda8fae2a529883fa73d]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2016/226/regulation/30) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
 
-[^key-b6bc36aaa48514fb171c5c86fb47b829]: Textual amendment: Words in [reg. 30(1)(b)(i)](https://www.legislation.gov.uk/nisr/2016/226/regulation/30/1/b/i) substituted (6.4.2018) by [The Loans for Mortgage Interest Regulations (Northern Ireland) 2017 (S.R. 2017/176)](https://www.legislation.gov.uk/nisr/2017/176), [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2017/176/regulation/1/2/a), [Sch. 5 para. 6(a)](https://www.legislation.gov.uk/nisr/2017/176/schedule/5/paragraph/6/a)
+[^c-b6bc36aaa48514fb171c5c86fb47b829]: Textual amendment: Words in [reg. 30(1)(b)(i)](https://www.legislation.gov.uk/nisr/2016/226/regulation/30/1/b/i) substituted (6.4.2018) by [The Loans for Mortgage Interest Regulations (Northern Ireland) 2017 (S.R. 2017/176)](https://www.legislation.gov.uk/nisr/2017/176), [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2017/176/regulation/1/2/a), [Sch. 5 para. 6(a)](https://www.legislation.gov.uk/nisr/2017/176/schedule/5/paragraph/6/a)
 
 [^f00044]: Footnote: Schedule 2 is modified in relation to certain persons by [S.R. 2008 No. 503](https://www.legislation.gov.uk/nisr/2008/503), as amended by [S.R. 2009 No. 426](https://www.legislation.gov.uk/nisr/2009/426). Paragraph 15 was amended by regulation 4(8)(c) of [S.R. 2008 No. 428](https://www.legislation.gov.uk/nisr/2008/428). Paragraph 16 was amended by regulation 5 of [S.R. 2006 No. 407](https://www.legislation.gov.uk/nisr/2006/407).
 
-[^key-47d01d679e10577ba0ce28a2ec699dfa]: Textual amendment: Words in [reg. 30(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2016/226/regulation/30/1/b/ii) substituted (6.4.2018) by [The Loans for Mortgage Interest Regulations (Northern Ireland) 2017 (S.R. 2017/176)](https://www.legislation.gov.uk/nisr/2017/176), [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2017/176/regulation/1/2/a), [Sch. 5 para. 6(b)](https://www.legislation.gov.uk/nisr/2017/176/schedule/5/paragraph/6/b)
+[^c-47d01d679e10577ba0ce28a2ec699dfa]: Textual amendment: Words in [reg. 30(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2016/226/regulation/30/1/b/ii) substituted (6.4.2018) by [The Loans for Mortgage Interest Regulations (Northern Ireland) 2017 (S.R. 2017/176)](https://www.legislation.gov.uk/nisr/2017/176), [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2017/176/regulation/1/2/a), [Sch. 5 para. 6(b)](https://www.legislation.gov.uk/nisr/2017/176/schedule/5/paragraph/6/b)
 
 [^f00045]: Footnote: Schedule 6 is modified in relation to certain persons by [S.R. 2008 No. 503](https://www.legislation.gov.uk/nisr/2008/503), as amended by [S.R. 2009 No. 426](https://www.legislation.gov.uk/nisr/2009/426)
 
-[^key-1e76a37d670780d471472ff14c5dea44]: Textual amendment: Words in [reg. 30(1)(b)(iii)](https://www.legislation.gov.uk/nisr/2016/226/regulation/30/1/b/iii) substituted (6.4.2018) by [The Loans for Mortgage Interest Regulations (Northern Ireland) 2017 (S.R. 2017/176)](https://www.legislation.gov.uk/nisr/2017/176), [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2017/176/regulation/1/2/a), [Sch. 5 para. 6(c)](https://www.legislation.gov.uk/nisr/2017/176/schedule/5/paragraph/6/c)
+[^c-1e76a37d670780d471472ff14c5dea44]: Textual amendment: Words in [reg. 30(1)(b)(iii)](https://www.legislation.gov.uk/nisr/2016/226/regulation/30/1/b/iii) substituted (6.4.2018) by [The Loans for Mortgage Interest Regulations (Northern Ireland) 2017 (S.R. 2017/176)](https://www.legislation.gov.uk/nisr/2017/176), [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2017/176/regulation/1/2/a), [Sch. 5 para. 6(c)](https://www.legislation.gov.uk/nisr/2017/176/schedule/5/paragraph/6/c)
 
 [^f00046]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); Schedule 3is modified in relation to certain persons by [S.R. 2008 No. 503](https://www.legislation.gov.uk/nisr/2008/503), as amended by [S.R. 2009 No. 426](https://www.legislation.gov.uk/nisr/2009/426). Paragraph 16 was amended by regulation 2(8)(c) of [S.R. 2008 No. 248](https://www.legislation.gov.uk/nisr/2008/248); Paragraph 17 was amended by regulation 5 of [S.R. 2006 No. 407](https://www.legislation.gov.uk/nisr/2006/407).
 

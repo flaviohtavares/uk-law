@@ -43,11 +43,11 @@ The Department for Social Development makes the following Regulations in exercis
 
 The Social Security Advisory Committee has agreed that proposals in respect of these Regulations should not be referred to it[^f00003].
 
-## 1. Citation and commencement[^key-1bae57dffe7cd1ddc428d719b776d3bd]
+## 1. Citation and commencement[^c-1bae57dffe7cd1ddc428d719b776d3bd]
 
 These Regulations may be cited as the Social Security (Claims and Payments) (Amendment No. 2) Regulations (Northern Ireland) 2007 and shall come into operation on 16th April 2007.
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-abfc9398e2578887b0afd93ec52e1abd]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-abfc9398e2578887b0afd93ec52e1abd]
 
 In Schedule 8A to the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00004] (deductions from benefits and direct payment to third parties)—
 
@@ -149,20 +149,20 @@ In Schedule 8A to the Social Security (Claims and Payments) Regulations (Norther
   .
 - (f) in paragraph 8 (aggregate amounts and maximum amount of payments to third parties)—
   - (i) in sub-paragraphs (2)[^f00015] and (2A) after “6(2)(a)” insert “, 6A(3)(a) and (5)(a)”, and
-  - (ii)[^key-24855b357ec19870fbdb89fa6156a39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-24855b357ec19870fbdb89fa6156a39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) in paragraph 9(1)[^f00017] (priority as between debts) after head (c) insert—
 
   > - (cc) any liability mentioned in paragraph 6A (water charges);
 
   .
 
-## 3. Revocations[^key-485b01fe3c21e2615ebc66bc6b5040ca]
+## 3. Revocations[^c-485b01fe3c21e2615ebc66bc6b5040ca]
 
 The Regulations specified in column (1) of the Schedule are revoked to the extent mentioned in column (3).
 
 Sealed with the Official Seal of the Department for Social Development on 23rd March 2007
 
-## SCHEDULE — Revocations[^key-6919168aae4b1f6287332a97edbdf886]
+## SCHEDULE — Revocations[^c-6919168aae4b1f6287332a97edbdf886]
 
 Regulation 3
 
@@ -198,9 +198,9 @@ Regulation 3 makes consequential revocations.
 
 [^f00003]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-1bae57dffe7cd1ddc428d719b776d3bd]: Commencement: Reg. 1 in operation at 16.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/206/regulation/1)
+[^c-1bae57dffe7cd1ddc428d719b776d3bd]: Commencement: Reg. 1 in operation at 16.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/206/regulation/1)
 
-[^key-abfc9398e2578887b0afd93ec52e1abd]: Commencement: Reg. 2 in operation at 16.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/206/regulation/1)
+[^c-abfc9398e2578887b0afd93ec52e1abd]: Commencement: Reg. 2 in operation at 16.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/206/regulation/1)
 
 [^f00004]: Footnote: [S.R 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Rules are [S.R. 1988 No. 67](https://www.legislation.gov.uk/nisr/1988/67), [S.R. 1989 No. 40](https://www.legislation.gov.uk/nisr/1989/40), [S.R. 1991 No. 488](https://www.legislation.gov.uk/nisr/1991/488), [S.R. 1993 No. 146](https://www.legislation.gov.uk/nisr/1993/146), [S.R. 1994 No. 456](https://www.legislation.gov.uk/nisr/1994/456), [S.R. 1996 Nos. 354](https://www.legislation.gov.uk/nisr/1996/354), [432](https://www.legislation.gov.uk/nisr/1996/432) and [622](https://www.legislation.gov.uk/nisr/1996/622), [S.R. 1997 No. 165](https://www.legislation.gov.uk/nisr/1997/165), [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472), [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191) and [S.R 2006 Nos. 365](https://www.legislation.gov.uk/nisr/2006/365) and [407](https://www.legislation.gov.uk/nisr/2006/407)
 
@@ -226,10 +226,10 @@ Regulation 3 makes consequential revocations.
 
 [^f00015]: Footnote: Sub-paragraph (2) was amended by regulation 2(4) of [S.R. 1993 No. 146](https://www.legislation.gov.uk/nisr/1993/146) and regulation 4(2)(a) of [S.R. 1997 No. 165](https://www.legislation.gov.uk/nisr/1997/165) and sub-paragraph (2A) was inserted by regulation 2(8)(c) of [S.R. 1996 No. 432](https://www.legislation.gov.uk/nisr/1996/432)
 
-[^key-24855b357ec19870fbdb89fa6156a39e]: Textual amendment: [Reg. 2(f)(ii)](https://www.legislation.gov.uk/nisr/2007/206/regulation/2/f/ii) revoked (31.7.2007) by [The Social Security (Claims and Payments) (Amendment No. 3) Regulations (Northern Ireland) 2007 (S.R. 2007/330)](https://www.legislation.gov.uk/nisr/2007/330), [regs. 1](https://www.legislation.gov.uk/nisr/2007/330/regulation/1), [3](https://www.legislation.gov.uk/nisr/2007/330/regulation/3)
+[^c-24855b357ec19870fbdb89fa6156a39e]: Textual amendment: [Reg. 2(f)(ii)](https://www.legislation.gov.uk/nisr/2007/206/regulation/2/f/ii) revoked (31.7.2007) by [The Social Security (Claims and Payments) (Amendment No. 3) Regulations (Northern Ireland) 2007 (S.R. 2007/330)](https://www.legislation.gov.uk/nisr/2007/330), [regs. 1](https://www.legislation.gov.uk/nisr/2007/330/regulation/1), [3](https://www.legislation.gov.uk/nisr/2007/330/regulation/3)
 
 [^f00017]: Footnote: Paragraph 9(1) was amended by regulation 6(5) of [S.R. 1989 No. 40](https://www.legislation.gov.uk/nisr/1989/40), regulation 2(5) of [S.R. 1993 No. 146](https://www.legislation.gov.uk/nisr/1993/146), regulation 2(8)(d)(i) of [S.R. 1996 No.432](https://www.legislation.gov.uk/nisr/1996/432) and regulation 4(2)(c) of [S.R. 1997 No. 165](https://www.legislation.gov.uk/nisr/1997/165)
 
-[^key-485b01fe3c21e2615ebc66bc6b5040ca]: Commencement: Reg. 3 in operation at 16.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/206/regulation/1)
+[^c-485b01fe3c21e2615ebc66bc6b5040ca]: Commencement: Reg. 3 in operation at 16.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/206/regulation/1)
 
-[^key-6919168aae4b1f6287332a97edbdf886]: Commencement: Sch. in operation at 16.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/206/regulation/1)
+[^c-6919168aae4b1f6287332a97edbdf886]: Commencement: Sch. in operation at 16.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/206/regulation/1)

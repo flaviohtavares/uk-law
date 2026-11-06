@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 132. Working, &c., of horses in parts of mine below ground.[^key-b836c5e12c71a40d394a423350303415]
+## 132. Working, &c., of horses in parts of mine below ground.[^c-b836c5e12c71a40d394a423350303415]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b836c5e12c71a40d394a423350303415]: Textual amendment: [S. 132](https://www.legislation.gov.uk/apni/1969/6/section/132) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-b836c5e12c71a40d394a423350303415]: Textual amendment: [S. 132](https://www.legislation.gov.uk/apni/1969/6/section/132) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

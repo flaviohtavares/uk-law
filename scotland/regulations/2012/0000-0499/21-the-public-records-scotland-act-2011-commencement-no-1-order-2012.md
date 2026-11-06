@@ -45,13 +45,13 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 16(1) of the Public Records (Scotland) Act 2011[^f00001].
 
-## 1. Citation and commencement[^key-2f42a0f8d213708f5c50ccdf265233ec]
+## 1. Citation and commencement[^c-2f42a0f8d213708f5c50ccdf265233ec]
 
 This Order may be cited as the Public Records (Scotland) Act 2011 (Commencement No. 1) Order 2012 and comes into force on 24th February 2012.
 
-## 2. Appointed day[^key-dcd1ee417f13ee4c611ecdca81c37586]
+## 2. Appointed day[^c-dcd1ee417f13ee4c611ecdca81c37586]
 
-24th February 2012 is the day appointed for sections 1(4) to (6) (record management plans), 2 (authorities to which Part 1 applies), 3 (meaning of “public records”), 8(1) and (2) (model records management plan) and 13 (interpretation) of , and the schedule (authorities to which Part[^key-6bfee365e44010b525df1f39cbcbabe1] 1 applies) to, the Public Records (Scotland) Act 2011 to come into force.
+24th February 2012 is the day appointed for sections 1(4) to (6) (record management plans), 2 (authorities to which Part 1 applies), 3 (meaning of “public records”), 8(1) and (2) (model records management plan) and 13 (interpretation) of , and the schedule (authorities to which Part[^c-6bfee365e44010b525df1f39cbcbabe1] 1 applies) to, the Public Records (Scotland) Act 2011 to come into force.
 
 FIONA HYSLOP
 
@@ -77,8 +77,8 @@ This Order also commences section 2 of the Act which enables the Scottish Minist
 
 [^f00001]: Footnote: [2011 asp 12](https://www.legislation.gov.uk/asp/2011/12).
 
-[^key-2f42a0f8d213708f5c50ccdf265233ec]: Commencement: Art. 1 in force at 24.2.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/21/article/1)
+[^c-2f42a0f8d213708f5c50ccdf265233ec]: Commencement: Art. 1 in force at 24.2.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/21/article/1)
 
-[^key-dcd1ee417f13ee4c611ecdca81c37586]: Commencement: Art. 2 in force at 24.2.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/21/article/1)
+[^c-dcd1ee417f13ee4c611ecdca81c37586]: Commencement: Art. 2 in force at 24.2.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/21/article/1)
 
-[^key-6bfee365e44010b525df1f39cbcbabe1]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2012/21/article/2) inserted (23.2.2012) by [The Public Records (Scotland) Act 2011 (Commencement No. 1) Amendment Order 2012 (S.S.I. 2012/42)](https://www.legislation.gov.uk/ssi/2012/42), [arts. 1](https://www.legislation.gov.uk/ssi/2012/42/article/1), [2](https://www.legislation.gov.uk/ssi/2012/42/article/2)
+[^c-6bfee365e44010b525df1f39cbcbabe1]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2012/21/article/2) inserted (23.2.2012) by [The Public Records (Scotland) Act 2011 (Commencement No. 1) Amendment Order 2012 (S.S.I. 2012/42)](https://www.legislation.gov.uk/ssi/2012/42), [arts. 1](https://www.legislation.gov.uk/ssi/2012/42/article/1), [2](https://www.legislation.gov.uk/ssi/2012/42/article/2)

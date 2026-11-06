@@ -24,11 +24,11 @@ Section 250
 
 ### Part 1 — Amendments to Schedule 38 to FA 2012
 
-**1.**[^key-61eeb22677bdf3952144bd7090bf368b] Schedule 38 to FA 2012 (tax agents: dishonest conduct) is amended in accordance with this Part.
+**1.**[^c-61eeb22677bdf3952144bd7090bf368b] Schedule 38 to FA 2012 (tax agents: dishonest conduct) is amended in accordance with this Part.
 
-**2.**[^key-871cfa86cfbc6273a4fc7810168920a1] For the Schedule heading substitute “Tax advisers: sanctionable conduct”.
+**2.**[^c-871cfa86cfbc6273a4fc7810168920a1] For the Schedule heading substitute “Tax advisers: sanctionable conduct”.
 
-**3.**[^key-3a521a63b14a3a741333d9ae112c4974] In paragraph 1 (overview)—
+**3.**[^c-3a521a63b14a3a741333d9ae112c4974] In paragraph 1 (overview)—
 
 - (a) in paragraph (a)—
   - (i) for “agent” substitute “adviser”;
@@ -41,7 +41,7 @@ Section 250
   ;
 - (d) in paragraph (d), for “dishonest” substitute “sanctionable”.
 
-**4.**[^key-0d592057fa0d11d125b8fa8b0bc48393] (1) For paragraph 2 and the italic heading before it (tax agent) substitute—
+**4.**[^c-0d592057fa0d11d125b8fa8b0bc48393] (1) For paragraph 2 and the italic heading before it (tax agent) substitute—
 
 > **2. Tax adviser**
 >
@@ -61,7 +61,7 @@ Section 250
 >
 > (4) In this Schedule (except in paragraph 17) “**client**”, in relation to a tax adviser, means a person who the adviser, in the course of a business (whether carried on by the adviser or by an organisation for which the adviser works), assists with their tax affairs.
 
-**5.**[^key-60b5a3d37426614dfee906fb2e0cc2b3] (1) In the italic heading before paragraph 3, for “Dishonest” substitute “Sanctionable”.
+**5.**[^c-60b5a3d37426614dfee906fb2e0cc2b3] (1) In the italic heading before paragraph 3, for “Dishonest” substitute “Sanctionable”.
 
 (2) In paragraph 3 (dishonest conduct)—
 
@@ -75,11 +75,11 @@ Section 250
 
   > (7) A reference in this paragraph to doing something includes omitting to do something.
 
-**6.**[^key-a83c39a4c5a176d78a0fa9db036126c8] Omit Part 2 (establishing dishonest conduct).
+**6.**[^c-a83c39a4c5a176d78a0fa9db036126c8] Omit Part 2 (establishing dishonest conduct).
 
-**7.**[^key-5df3a3c1babdc9328166c130bb0c9d8a] In the Part 3 heading, for “agent’s” substitute “adviser’s”.
+**7.**[^c-5df3a3c1babdc9328166c130bb0c9d8a] In the Part 3 heading, for “agent’s” substitute “adviser’s”.
 
-**8.**[^key-dcd7cefa96f712341fc6b704ab13cd1f] In paragraph 7 (circumstances in which power is exercisable)—
+**8.**[^c-dcd7cefa96f712341fc6b704ab13cd1f] In paragraph 7 (circumstances in which power is exercisable)—
 
 - (a) in sub-paragraph (1), after “and” insert “, in respect of a person other than a tax adviser,”;
 - (b) after sub-paragraph (1) insert—
@@ -107,16 +107,16 @@ Section 250
   - (i) for “individual” substitute “person”;
   - (ii) for “agent” substitute “adviser”.
 
-**9.**[^key-223b55957ea5af8f82f0a18320f23b1f] In paragraph 8(2)(a) (file access notice), for “agent” substitute “adviser”.
+**9.**[^c-223b55957ea5af8f82f0a18320f23b1f] In paragraph 8(2)(a) (file access notice), for “agent” substitute “adviser”.
 
-**10.**[^key-4ad3c482d2cbddf5e835f2433254e01f] In paragraph 9 (relevant documents)—
+**10.**[^c-4ad3c482d2cbddf5e835f2433254e01f] In paragraph 9 (relevant documents)—
 
 - (a) in sub-paragraph (1)—
   - (i) for “agent’s” substitute “adviser’s”;
   - (ii) for “**agent**” (in each place it occurs) substitute “adviser”;
 - (b) in sub-paragraph (3), omit paragraph (b) and the “and” before it.
 
-**11.**[^key-f983f2ca77cd10189a086f1cb947b53d] In paragraph 10 (content of file access notice)—
+**11.**[^c-f983f2ca77cd10189a086f1cb947b53d] In paragraph 10 (content of file access notice)—
 
 - (a) in sub-paragraph (1), after “may” insert “, subject to sub-paragraph (1A),”;
 - (b) after sub-paragraph (1) insert—
@@ -134,14 +134,14 @@ Section 250
   - (ii) for “agent” substitute “adviser”;
 - (d) in sub-paragraph (3), for “**agent**” (in each place it occurs) substitute “adviser”.
 
-**12.**[^key-3adf7a46f597f538fb55a403de1ac7f3] In paragraph 13 (approval of file access notice by tribunal)—
+**12.**[^c-3adf7a46f597f538fb55a403de1ac7f3] In paragraph 13 (approval of file access notice by tribunal)—
 
 - (a) in sub-paragraph (1)(d), for “agent” substitute “adviser”;
 - (b) in sub-paragraph (2)—
   - (i) for “an individual” substitute “a person”;
   - (ii) for “dishonest” substitute “sanctionable”.
 
-**13.**[^key-ee0915c662de86d8d208b848970d12a9] In paragraph 20 (appeal against file access notice)—
+**13.**[^c-ee0915c662de86d8d208b848970d12a9] In paragraph 20 (appeal against file access notice)—
 
 - (a) in sub-paragraph (1), for “agent” substitute “adviser”;
 - (b) after sub-paragraph (1) insert—
@@ -156,7 +156,7 @@ Section 250
   ;
 - (c) in sub-paragraph (2), in the opening words, after “appeal” insert “under sub-paragraph (1) or (1A)”.
 
-**14.**[^key-72fefe56288116a1223571713796ed4f] After paragraph 23 insert—
+**14.**[^c-72fefe56288116a1223571713796ed4f] After paragraph 23 insert—
 
 > **23A. Increased daily default penalty**
 >
@@ -185,7 +185,7 @@ Section 250
 >
 > (7) The notification must specify the new maximum amount and the day from which it applies.
 
-**15.**[^key-1eb7abb86c0336873731f72fd3146b6a] After paragraph 25 insert—
+**15.**[^c-1eb7abb86c0336873731f72fd3146b6a] After paragraph 25 insert—
 
 > **25A. Penalties for inaccurate documents**
 >
@@ -197,7 +197,7 @@ Section 250
 >
 > (2) Where the document contains more than one inaccuracy, a penalty is payable for each inaccuracy.
 
-**16.**[^key-d5f20b21856baffa82b4f5cb4a149630] After Part 3 insert—
+**16.**[^c-d5f20b21856baffa82b4f5cb4a149630] After Part 3 insert—
 
 > **Part 3A — Conduct notices**
 >
@@ -223,9 +223,9 @@ Section 250
 >
 > (4) In this paragraph “**the applicable deadline**” has the same meaning as in paragraph 30(3) (assessment of penalties).
 
-**17.**[^key-d7bd47db29bbd05876ff991a1156e440] In the Part 4 heading, for “dishonest” substitute “sanctionable”.
+**17.**[^c-d7bd47db29bbd05876ff991a1156e440] In the Part 4 heading, for “dishonest” substitute “sanctionable”.
 
-**18.**[^key-3cca2f6c32e49ccfb25f68aad89af70a] For paragraph 26 and the italic heading before it (penalty for dishonest conduct) substitute—
+**18.**[^c-3cca2f6c32e49ccfb25f68aad89af70a] For paragraph 26 and the italic heading before it (penalty for dishonest conduct) substitute—
 
 > **26. Penalty for sanctionable conduct**
 >
@@ -335,14 +335,14 @@ Section 250
 >
 > (7) In its application for the purposes of sub-paragraph (5)(d), paragraph 11(2) and (3) of Schedule 25 to FA 2021 (determination of penalty where no return made) has effect as if references to a penalty were references to a penalty under this Schedule.
 
-**19.**[^key-df32d7f3859484349e9398ceb87ef6aa] In paragraph 27 (special reduction)—
+**19.**[^c-df32d7f3859484349e9398ceb87ef6aa] In paragraph 27 (special reduction)—
 
 - (a) in sub-paragraph (1)—
   - (i) for “an individual” substitute “a person”;
   - (ii) omit “of £5,000”;
 - (b) in sub-paragraph (2)(a), omit “to an amount below £5,000 (which may be nil)”.
 
-**20.**[^key-e5db390d7006d09034f890abca9250ab] In paragraph 28 (power to publish details)—
+**20.**[^c-e5db390d7006d09034f890abca9250ab] In paragraph 28 (power to publish details)—
 
 - (a) for sub-paragraph (1), substitute—
 
@@ -364,24 +364,24 @@ Section 250
   - (i) for “agent” substitute “adviser”;
   - (ii) for “the individual” substitute “an individual”.
 
-**21.**[^key-59f9cd0b67f5a575eb740417dd24b837] In paragraph 29 (assessment of penalties)—
+**21.**[^c-59f9cd0b67f5a575eb740417dd24b837] In paragraph 29 (assessment of penalties)—
 
 - (a) in sub-paragraph (2), for the words from “and either” to the end substitute “and not withdrawn”;
 - (b) omit sub-paragraph (3).
 
-**22.**[^key-eebb751a37f9ec97e3a1589d4e8c7278] In paragraph 30 (deadline for assessment)—
+**22.**[^c-eebb751a37f9ec97e3a1589d4e8c7278] In paragraph 30 (deadline for assessment)—
 
 - (a) in sub-paragraph (3)(a), omit “(see paragraph 29(2))”;
 - (b) in sub-paragraphs (4) and (5), for “dishonest” substitute “sanctionable”.
 
-**23.**[^key-bfa030de615871ba1466b944b776b6f4] In paragraph 31 (appeal against penalty)—
+**23.**[^c-bfa030de615871ba1466b944b776b6f4] In paragraph 31 (appeal against penalty)—
 
 - (a) in sub-paragraph (1)(a), after “Part 3” insert “or 4”;
 - (b) after sub-paragraph (1) insert—
 
   > (1A) But sub-paragraph (1)(b) does not give a right of appeal against the amount of an increased daily penalty payable as a result of paragraph 23A (increased daily default penalty).
 
-**24.**[^key-d85b8017ae0bfa58d9cbd16cb9ccad5a] In paragraph 35 (power to change amount of penalties)—
+**24.**[^c-d85b8017ae0bfa58d9cbd16cb9ccad5a] In paragraph 35 (power to change amount of penalties)—
 
 - (a) for sub-paragraph (1) substitute—
 
@@ -390,7 +390,7 @@ Section 250
   ;
 - (b) omit sub-paragraph (2).
 
-**25.**[^key-bb615139c0f00e5af204465ab2c8694d] In paragraph 37(1) (meaning of “**tax**”), after paragraph (la) insert—
+**25.**[^c-bb615139c0f00e5af204465ab2c8694d] In paragraph 37(1) (meaning of “**tax**”), after paragraph (la) insert—
 
 > - (lb) diverted profits tax,
 > - (lc) multinational top-up tax,
@@ -403,7 +403,7 @@ Section 250
 
 .
 
-**26.**[^key-574d277d59078b6a3ca1164ca299e976] In paragraph 38—
+**26.**[^c-574d277d59078b6a3ca1164ca299e976] In paragraph 38—
 
 - (a) in the definition of “client”—
   - (i) in paragraph (a), for “paragraph 2(1)” substitute “paragraph 2(4)”;
@@ -411,33 +411,33 @@ Section 250
 - (b) in the definition of “conduct notice”, for “paragraph 4” substitute “paragraph 25B”;
 - (c) in the definition of “organisation”, for “includes any person or firm” substitute “means any body corporate, partnership or other organisation”.
 
-**27.**[^key-c3bdc9959bdcb587ec25edc0987a9444] Omit paragraph 39 (clients).
+**27.**[^c-c3bdc9959bdcb587ec25edc0987a9444] Omit paragraph 39 (clients).
 
-**28.**[^key-9058289c78364c92749aa6f13c579727] In paragraph 40 (loss of tax revenue), for “dishonest” substitute “sanctionable”.
+**28.**[^c-9058289c78364c92749aa6f13c579727] In paragraph 40 (loss of tax revenue), for “dishonest” substitute “sanctionable”.
 
 ### Part 2 — Consequential amendments
 
-#### 29. TMA 1970[^key-af035677bf63a3f6d3ed2781bb038e38]
+#### 29. TMA 1970[^c-af035677bf63a3f6d3ed2781bb038e38]
 
 In section 103ZA of TMA 1970 (disapplication of sections 100 to 103 in the case of certain penalties), in paragraph (g), for “tax agents: dishonest conduct” substitute “tax advisers: sanctionable conduct”.
 
-#### 30. Social Security Administration Act 1992[^key-bf1014758fab4f24118e5f34a786688a]
+#### 30. Social Security Administration Act 1992[^c-bf1014758fab4f24118e5f34a786688a]
 
 In section 110ZA(2A) of the Social Security Administration Act 1992 (class 1, 1A, 1B or 2 contributions: powers to call for documents etc), for “tax agent’s” substitute “tax adviser’s”.
 
-#### 31. Social Security Administration (Northern Ireland) Act 1992[^key-987bdba58dfa52fd8c37aa05329bd415]
+#### 31. Social Security Administration (Northern Ireland) Act 1992[^c-987bdba58dfa52fd8c37aa05329bd415]
 
 In section 104ZA(2A) of the Social Security Administration (Northern Ireland) Act 1992 (class 1, 1A, 1B or 2 contributions: powers to call for documents etc), for “tax agent’s” substitute “tax adviser’s”.
 
-#### 32. The Education (Student Loans) (Repayment) Regulations (Northern Ireland) 2009[^key-c74fa5d0b8b382cc50f4c779f20c3150]
+#### 32. The Education (Student Loans) (Repayment) Regulations (Northern Ireland) 2009[^c-c74fa5d0b8b382cc50f4c779f20c3150]
 
 In regulation 9(2) of the Education (Student Loans) (Repayment) Regulations (Northern Ireland) 2009 ([S.I. 2009/128](https://www.legislation.gov.uk/uksi/2009/128)) (student loan repayments: penalties), for “Tax Agents: Dishonest Conduct” substitute “tax advisers: sanctionable conduct”.
 
-#### 33. The Education (Student Loans) (Repayment) Regulations 2009[^key-605f3979676cbee66b9a2eed84acb6e5]
+#### 33. The Education (Student Loans) (Repayment) Regulations 2009[^c-605f3979676cbee66b9a2eed84acb6e5]
 
 In regulation 13(2) of the Education (Student Loans) (Repayment) Regulations 2009 ([S.I. 2009/470](https://www.legislation.gov.uk/uksi/2009/470)) (student loan repayments: penalties), for “Tax Agents: Dishonest Conduct” substitute “tax advisers: sanctionable conduct”.
 
-#### 34. FA 2012[^key-41252bc49f394848f68553d7237c361c]
+#### 34. FA 2012[^c-41252bc49f394848f68553d7237c361c]
 
 In section 223 of FA 2012 (tax agents: dishonest conduct)—
 
@@ -446,14 +446,14 @@ In section 223 of FA 2012 (tax agents: dishonest conduct)—
   - (i) for “agents” substitute “advisers”;
   - (ii) for “dishonest” substitute “sanctionable”.
 
-#### 35. The Social Security (Contributions) (Amendment and Application of Schedule 38 to the Finance Act 2012) Regulations 2013[^key-76d3c4dc4745c7ed63a495932a92927b]
+#### 35. The Social Security (Contributions) (Amendment and Application of Schedule 38 to the Finance Act 2012) Regulations 2013[^c-76d3c4dc4745c7ed63a495932a92927b]
 
 In the Social Security (Contributions) (Amendment and Application of Schedule 38 to the Finance Act 2012) Regulations 2013 ([S.I. 2013/622](https://www.legislation.gov.uk/uksi/2013/622))—
 
 - (a) for the Part 5 heading substitute “Tax advisers: sanctionable conduct”;
 - (b) in regulation 41 (application of Schedule 38 to the Finance Act 2012), for “tax agents: dishonest conduct” substitute “tax advisers: sanctionable conduct”.
 
-#### 36. The Small Charitable Donations Regulations 2013[^key-9d4b5af0cae8ad1e67c225dab45b3033]
+#### 36. The Small Charitable Donations Regulations 2013[^c-9d4b5af0cae8ad1e67c225dab45b3033]
 
 In regulation 6 of the Small Charitable Donations Regulations 2013 ([S.I. 2013/938](https://www.legislation.gov.uk/uksi/2013/938)) (agents of the charity: information powers and penalties)—
 
@@ -462,7 +462,7 @@ In regulation 6 of the Small Charitable Donations Regulations 2013 ([S.I. 2013
   - (ii) for “to tax agents” substitute “to tax advisers”;
 - (b) in paragraph (2)(a), for “agent” substitute “adviser”.
 
-#### 37. FA 2014[^key-208924a4d4f2ee37caf88eb7d787cf0f]
+#### 37. FA 2014[^c-208924a4d4f2ee37caf88eb7d787cf0f]
 
 In Schedule 34 to FA 2014 (promoters of tax avoidance schemes: threshold conditions), for paragraph 4 and the italic heading before it (dishonest tax agents) substitute—
 
@@ -475,76 +475,76 @@ In Schedule 34 to FA 2014 (promoters of tax avoidance schemes: threshold conditi
 
 ## Annotations
 
-[^key-61eeb22677bdf3952144bd7090bf368b]: Commencement: [Sch. 22 para. 1](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/1) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-61eeb22677bdf3952144bd7090bf368b]: Commencement: [Sch. 22 para. 1](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/1) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-871cfa86cfbc6273a4fc7810168920a1]: Commencement: [Sch. 22 para. 2](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/2) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-871cfa86cfbc6273a4fc7810168920a1]: Commencement: [Sch. 22 para. 2](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/2) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-3a521a63b14a3a741333d9ae112c4974]: Commencement: [Sch. 22 para. 3](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/3) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-3a521a63b14a3a741333d9ae112c4974]: Commencement: [Sch. 22 para. 3](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/3) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-0d592057fa0d11d125b8fa8b0bc48393]: Commencement: [Sch. 22 para. 4](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/4) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-0d592057fa0d11d125b8fa8b0bc48393]: Commencement: [Sch. 22 para. 4](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/4) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-60b5a3d37426614dfee906fb2e0cc2b3]: Commencement: [Sch. 22 para. 5](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/5) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-60b5a3d37426614dfee906fb2e0cc2b3]: Commencement: [Sch. 22 para. 5](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/5) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-a83c39a4c5a176d78a0fa9db036126c8]: Commencement: [Sch. 22 para. 6](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/6) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-a83c39a4c5a176d78a0fa9db036126c8]: Commencement: [Sch. 22 para. 6](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/6) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-5df3a3c1babdc9328166c130bb0c9d8a]: Commencement: [Sch. 22 para. 7](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/7) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-5df3a3c1babdc9328166c130bb0c9d8a]: Commencement: [Sch. 22 para. 7](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/7) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-dcd7cefa96f712341fc6b704ab13cd1f]: Commencement: [Sch. 22 para. 8](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/8) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-dcd7cefa96f712341fc6b704ab13cd1f]: Commencement: [Sch. 22 para. 8](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/8) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-223b55957ea5af8f82f0a18320f23b1f]: Commencement: [Sch. 22 para. 9](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/9) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-223b55957ea5af8f82f0a18320f23b1f]: Commencement: [Sch. 22 para. 9](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/9) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-4ad3c482d2cbddf5e835f2433254e01f]: Commencement: [Sch. 22 para. 10](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/10) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-4ad3c482d2cbddf5e835f2433254e01f]: Commencement: [Sch. 22 para. 10](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/10) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-f983f2ca77cd10189a086f1cb947b53d]: Commencement: [Sch. 22 para. 11](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/11) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-f983f2ca77cd10189a086f1cb947b53d]: Commencement: [Sch. 22 para. 11](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/11) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-3adf7a46f597f538fb55a403de1ac7f3]: Commencement: [Sch. 22 para. 12](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/12) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-3adf7a46f597f538fb55a403de1ac7f3]: Commencement: [Sch. 22 para. 12](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/12) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-ee0915c662de86d8d208b848970d12a9]: Commencement: [Sch. 22 para. 13](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/13) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-ee0915c662de86d8d208b848970d12a9]: Commencement: [Sch. 22 para. 13](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/13) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-72fefe56288116a1223571713796ed4f]: Commencement: [Sch. 22 para. 14](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/14) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-72fefe56288116a1223571713796ed4f]: Commencement: [Sch. 22 para. 14](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/14) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-1eb7abb86c0336873731f72fd3146b6a]: Commencement: [Sch. 22 para. 15](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/15) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-1eb7abb86c0336873731f72fd3146b6a]: Commencement: [Sch. 22 para. 15](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/15) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-d5f20b21856baffa82b4f5cb4a149630]: Commencement: [Sch. 22 para. 16](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/16) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-d5f20b21856baffa82b4f5cb4a149630]: Commencement: [Sch. 22 para. 16](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/16) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-d7bd47db29bbd05876ff991a1156e440]: Commencement: [Sch. 22 para. 17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/17) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-d7bd47db29bbd05876ff991a1156e440]: Commencement: [Sch. 22 para. 17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/17) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-3cca2f6c32e49ccfb25f68aad89af70a]: Commencement: [Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/18) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-3cca2f6c32e49ccfb25f68aad89af70a]: Commencement: [Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/18) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-df32d7f3859484349e9398ceb87ef6aa]: Commencement: [Sch. 22 para. 19](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/19) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-df32d7f3859484349e9398ceb87ef6aa]: Commencement: [Sch. 22 para. 19](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/19) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-e5db390d7006d09034f890abca9250ab]: Commencement: [Sch. 22 para. 20](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/20) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-e5db390d7006d09034f890abca9250ab]: Commencement: [Sch. 22 para. 20](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/20) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-59f9cd0b67f5a575eb740417dd24b837]: Commencement: [Sch. 22 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/21) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-59f9cd0b67f5a575eb740417dd24b837]: Commencement: [Sch. 22 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/21) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-eebb751a37f9ec97e3a1589d4e8c7278]: Commencement: [Sch. 22 para. 22](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/22) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-eebb751a37f9ec97e3a1589d4e8c7278]: Commencement: [Sch. 22 para. 22](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/22) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-bfa030de615871ba1466b944b776b6f4]: Commencement: [Sch. 22 para. 23](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/23) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-bfa030de615871ba1466b944b776b6f4]: Commencement: [Sch. 22 para. 23](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/23) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-d85b8017ae0bfa58d9cbd16cb9ccad5a]: Commencement: [Sch. 22 para. 24](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/24) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-d85b8017ae0bfa58d9cbd16cb9ccad5a]: Commencement: [Sch. 22 para. 24](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/24) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-bb615139c0f00e5af204465ab2c8694d]: Commencement: [Sch. 22 para. 25](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/25) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-bb615139c0f00e5af204465ab2c8694d]: Commencement: [Sch. 22 para. 25](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/25) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-574d277d59078b6a3ca1164ca299e976]: Commencement: [Sch. 22 para. 26](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/26) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-574d277d59078b6a3ca1164ca299e976]: Commencement: [Sch. 22 para. 26](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/26) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-c3bdc9959bdcb587ec25edc0987a9444]: Commencement: [Sch. 22 para. 27](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/27) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-c3bdc9959bdcb587ec25edc0987a9444]: Commencement: [Sch. 22 para. 27](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/27) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-9058289c78364c92749aa6f13c579727]: Commencement: [Sch. 22 para. 28](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/28) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-9058289c78364c92749aa6f13c579727]: Commencement: [Sch. 22 para. 28](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/28) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-af035677bf63a3f6d3ed2781bb038e38]: Commencement: [Sch. 22 para. 29](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/29) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-af035677bf63a3f6d3ed2781bb038e38]: Commencement: [Sch. 22 para. 29](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/29) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-bf1014758fab4f24118e5f34a786688a]: Commencement: [Sch. 22 para. 30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/30) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-bf1014758fab4f24118e5f34a786688a]: Commencement: [Sch. 22 para. 30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/30) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-987bdba58dfa52fd8c37aa05329bd415]: Commencement: [Sch. 22 para. 31](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/31) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-987bdba58dfa52fd8c37aa05329bd415]: Commencement: [Sch. 22 para. 31](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/31) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-c74fa5d0b8b382cc50f4c779f20c3150]: Commencement: [Sch. 22 para. 32](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/32) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-c74fa5d0b8b382cc50f4c779f20c3150]: Commencement: [Sch. 22 para. 32](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/32) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-605f3979676cbee66b9a2eed84acb6e5]: Commencement: [Sch. 22 para. 33](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/33) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-605f3979676cbee66b9a2eed84acb6e5]: Commencement: [Sch. 22 para. 33](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/33) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-41252bc49f394848f68553d7237c361c]: Commencement: [Sch. 22 para. 34](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/34) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-41252bc49f394848f68553d7237c361c]: Commencement: [Sch. 22 para. 34](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/34) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-76d3c4dc4745c7ed63a495932a92927b]: Commencement: [Sch. 22 para. 35](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/35) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-76d3c4dc4745c7ed63a495932a92927b]: Commencement: [Sch. 22 para. 35](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/35) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-9d4b5af0cae8ad1e67c225dab45b3033]: Commencement: [Sch. 22 para. 36](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/36) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-9d4b5af0cae8ad1e67c225dab45b3033]: Commencement: [Sch. 22 para. 36](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/36) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
 
-[^key-208924a4d4f2ee37caf88eb7d787cf0f]: Commencement: [Sch. 22 para. 37](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/37) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)
+[^c-208924a4d4f2ee37caf88eb7d787cf0f]: Commencement: [Sch. 22 para. 37](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/37) in force at 1.4.2026, see [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2)

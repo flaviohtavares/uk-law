@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 145. Liquidator’s notice of disclaimer[^key-3b8c19e4a374bb99a92d8dfb28d6d4ed]
+## 145. Liquidator’s notice of disclaimer[^c-3b8c19e4a374bb99a92d8dfb28d6d4ed]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.187 of the 1986 Rules.
 
 ## Annotations
 
-[^key-3b8c19e4a374bb99a92d8dfb28d6d4ed]: Commencement: Rule 145 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-3b8c19e4a374bb99a92d8dfb28d6d4ed]: Commencement: Rule 145 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

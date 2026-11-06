@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Exercise of local authority functions[^key-34b0ed8da4626bcf1ab7cbc27f3c0204]
+## 32. Exercise of local authority functions[^c-34b0ed8da4626bcf1ab7cbc27f3c0204]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34b0ed8da4626bcf1ab7cbc27f3c0204]: Commencement: S. 32 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-34b0ed8da4626bcf1ab7cbc27f3c0204]: Commencement: S. 32 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 69. Negotiable instruments, etc.[^key-d24ca1d9d4706683b9045d0f6b692367]
+## 69. Negotiable instruments, etc.[^c-d24ca1d9d4706683b9045d0f6b692367]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.093 of the 1991 Rules.
 
 ## Annotations
 
-[^key-d24ca1d9d4706683b9045d0f6b692367]: Commencement: Rule 69 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-d24ca1d9d4706683b9045d0f6b692367]: Commencement: Rule 69 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

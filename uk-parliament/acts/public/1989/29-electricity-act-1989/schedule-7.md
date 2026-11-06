@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — Use etc. of Electricity Meters[^c4121221][^key-8d76577a6ef87cf4ace2b1ab2dd4f569][^key-787821ee0fca16299afcf1fd580cd7c1][^key-bb833cb16b41123c7aca990c5a9e5145]
+## SCHEDULE 7 — Use etc. of Electricity Meters[^c4121221][^c-8d76577a6ef87cf4ace2b1ab2dd4f569][^c-787821ee0fca16299afcf1fd580cd7c1][^c-bb833cb16b41123c7aca990c5a9e5145]
 
 *Extent: E+W+S*
 
@@ -44,11 +44,11 @@ and any replacement meter shall be provided and installed in accordance with tho
 
 (6) For the purposes of this paragraph a meter is an appropriate meter for use in connection with any particular supply if it is of a pattern or construction which, having regard to the terms on which the supply is to be charged for, is particularly suitable for such use.
 
-(7)[^key-4193b193a0984beba76936b371cd965e] In relation to a dispute arising under this paragraph between an electricity supplier and a customer, section 23 of this Act applies with the substitution, for references to the Authority (and references treated as references to the Authority) of references to the Secretary of State.
+(7)[^c-4193b193a0984beba76936b371cd965e] In relation to a dispute arising under this paragraph between an electricity supplier and a customer, section 23 of this Act applies with the substitution, for references to the Authority (and references treated as references to the Authority) of references to the Secretary of State.
 
-(8) Pending the determination under section 23 of this Act (as modified by sub-paragraph (7))[^key-b4f2e32d2642e7f311c80b99e0a51011] of any dispute arising under this paragraph, the meter and its provision and installation shall be such as the Director may direct; and directions under this sub-paragraph may apply either in cases of particular descriptions or in particular cases.
+(8) Pending the determination under section 23 of this Act (as modified by sub-paragraph (7))[^c-b4f2e32d2642e7f311c80b99e0a51011] of any dispute arising under this paragraph, the meter and its provision and installation shall be such as the Director may direct; and directions under this sub-paragraph may apply either in cases of particular descriptions or in particular cases.
 
-(9) Part I of this Act shall apply as if any duty or other requirement imposed on an electricity supplier[^c4121361] by directions under sub-paragraph (8) above were imposed by directions under section 23 of this Act (as modified by sub-paragraph (7))[^key-e8535f680c3e9ed0084118250a859d04].
+(9) Part I of this Act shall apply as if any duty or other requirement imposed on an electricity supplier[^c4121361] by directions under sub-paragraph (8) above were imposed by directions under section 23 of this Act (as modified by sub-paragraph (7))[^c-e8535f680c3e9ed0084118250a859d04].
 
 (10) In this Schedule “**exempt supply**” means a supply of electricity to any premises where—
 
@@ -93,14 +93,14 @@ he shall be liable on summary conviction to a fine not exceeding level 3 on the 
 
 **4.** (1) The Director shall appoint competent and impartial persons as meter examiners for the purposes of this Schedule.
 
-(2) There shall be paid out of money provided by Parliament to meter examiners employed in the civil service of the State[^key-428e5bf26b01611d5a0a12701216fc09] such remuneration and such allowances as may be determined by the Director with the approval of the Treasury; and such pensions as may be so determined may be paid out of money provided by Parliament to or in respect of such examiners.
+(2) There shall be paid out of money provided by Parliament to meter examiners employed in the civil service of the State[^c-428e5bf26b01611d5a0a12701216fc09] such remuneration and such allowances as may be determined by the Director with the approval of the Treasury; and such pensions as may be so determined may be paid out of money provided by Parliament to or in respect of such examiners.
 
-(2A)[^key-f7f1f2f5878390e2bb5b94a304f2fdd9] The Secretary of State may pay, out of money provided by Parliament, to meter examiners who are not employed in the civil service of the State or to any employer of such examiners—
+(2A)[^c-f7f1f2f5878390e2bb5b94a304f2fdd9] The Secretary of State may pay, out of money provided by Parliament, to meter examiners who are not employed in the civil service of the State or to any employer of such examiners—
 
 - (a) sums in connection with the performance by such examiners of functions conferred by or under this Schedule or electricity meter regulations (within the meaning of section 95 of the Energy Act 2008), and
 - (b) sums in respect of any pension payable to or in respect of such examiners.
 
-(3) All fees payable in respect of the examination of meters by meter examiners employed in the civil service of the State[^key-5a5fe2d5ceedb1cf02b521acca4b2dba] shall be paid to the Director; and any sums received by him under this sub-paragraph shall be paid into the Consolidated Fund.
+(3) All fees payable in respect of the examination of meters by meter examiners employed in the civil service of the State[^c-5a5fe2d5ceedb1cf02b521acca4b2dba] shall be paid to the Director; and any sums received by him under this sub-paragraph shall be paid into the Consolidated Fund.
 
 ### Certification of meters
 
@@ -130,7 +130,7 @@ and the examiner has himself examined and tested as many of those meters as he m
 (4) Regulations under this paragraph may make different provision for meters of different descriptions or for meters used or intended to be used for different purposes and may include provision—
 
 - (a) for the termination of certification in the case of meters which no longer conform to the prescribed standards and in such other cases as may be prescribed;
-- (b) for determining the fees to be paid to meter examiners employed in the civil service of the State[^key-b4f883c069293c2ae4ea01338774c1f8] for examining, testing and certifying meters, and the persons by whom they are to be paid; and
+- (b) for determining the fees to be paid to meter examiners employed in the civil service of the State[^c-b4f883c069293c2ae4ea01338774c1f8] for examining, testing and certifying meters, and the persons by whom they are to be paid; and
 - (c) as to the procedure to be followed in examining, testing and certifying meters.
 
 (5) Regulations under this paragraph above may also include provision—
@@ -147,7 +147,7 @@ and the examiner has himself examined and tested as many of those meters as he m
 - (b) to use apparatus so provided and maintained to carry out such examination, testing and regulation of meters, or to seal or unseal meters in such circumstances, as may be so specified; and
 - (c) to keep such records and make such reports of things done in pursuance of paragraph (b) above as may be so specified.
 
-(2) It shall also be the duty of a person to whom this paragraph applies to afford to meter examiners, acting in the exercise of functions conferred by or under[^key-da0f548df0ce67bc8f2c2e79bac27741] this Schedule, all necessary facilities for the use of apparatus provided and maintained in pursuance of sub-paragraph (1) above.
+(2) It shall also be the duty of a person to whom this paragraph applies to afford to meter examiners, acting in the exercise of functions conferred by or under[^c-da0f548df0ce67bc8f2c2e79bac27741] this Schedule, all necessary facilities for the use of apparatus provided and maintained in pursuance of sub-paragraph (1) above.
 
 (3) If the Director considers that any person to whom this paragraph applies has made satisfactory arrangements whereby apparatus provided by some other person is available for the examination, testing or regulation of the first mentioned person’s meters, the Director may direct that this paragraph shall not apply to that person to such extent as may be specified in the direction.
 
@@ -157,7 +157,7 @@ and the examiner has himself examined and tested as many of those meters as he m
 
 ### Testing etc. of meters
 
-**7.** (1) It shall be the duty of a meter examiner employed in the civil service of the State[^key-ed94bfbc77c51503aad2b9eebb24e2c9], on being required to do so by any person and after giving notice to such persons as may be prescribed—
+**7.** (1) It shall be the duty of a meter examiner employed in the civil service of the State[^c-ed94bfbc77c51503aad2b9eebb24e2c9], on being required to do so by any person and after giving notice to such persons as may be prescribed—
 
 - (a) to examine and test any meter used or intended to be used for ascertaining the quantity of electricity supplied to any premises;
 - (b) to determine whether it is of an approved pattern or construction and, if it is installed for use, whether it is installed in an approved manner;
@@ -169,7 +169,7 @@ and the examiner has himself examined and tested as many of those meters as he m
 - (a) any period for which the meter has or may have been so operating; and
 - (b) the accuracy (if any) with which it was or may have been operating for any such period.
 
-(3) Regulations under this paragraph may make provision for determining the fees to be paid to meter examiners employed in the civil service of the State[^key-b139fe8d8031cbba04587d5bd040e5d1] for examining and testing meters, and the persons by whom and the circumstances in which they are to be paid.
+(3) Regulations under this paragraph may make provision for determining the fees to be paid to meter examiners employed in the civil service of the State[^c-b139fe8d8031cbba04587d5bd040e5d1] for examining and testing meters, and the persons by whom and the circumstances in which they are to be paid.
 
 (4) In relation to a meter used or intended to be used in connection with an exempt supply, this paragraph shall have effect as if any reference to the prescribed margins of error included a reference to any margins of error agreed between the authorised supplier[^c4121481] and the customer (in this Schedule referred to as “**agreed margins of error**”).
 
@@ -210,7 +210,7 @@ the meter shall be conclusively presumed to have been correctly registering for 
 
 (2) An authorised supplier shall at all times, at his own expense, keep any meter provided[^c4121551] by him to any customer in proper order for correctly registering the quantity of electricity supplied and, in the case of pre-payment meters, for operating properly on receipt of the necessary payment.
 
-(2A)[^key-1c01e9ba0bb8b5cf83299aabaf4e3d68] In relation to a dispute arising under this paragraph between an electricity supplier and a customer, section 23 of this Act applies, with the substitution for references to the Authority (and references treated as references to the Authority) of references to the Secretary of State.
+(2A)[^c-1c01e9ba0bb8b5cf83299aabaf4e3d68] In relation to a dispute arising under this paragraph between an electricity supplier and a customer, section 23 of this Act applies, with the substitution for references to the Authority (and references treated as references to the Authority) of references to the Secretary of State.
 
 (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -235,9 +235,9 @@ he shall be liable on summary conviction to a fine not exceeding level 3 on the 
 
 **12.** (1) A customer of an authorised supplier[^c4121601] who takes his supply through a pre-payment meter shall be under a duty to take all reasonable precautions for the safekeeping of any money or tokens which are inserted into that meter.
 
-(2)[^key-03388b0e8fef41ca826cfd4833c77cec] A pre-payment meter installed by an authorised supplier through which a customer of such a supplier takes his supply of electricity shall not be used to recover a sum unless—
+(2)[^c-03388b0e8fef41ca826cfd4833c77cec] A pre-payment meter installed by an authorised supplier through which a customer of such a supplier takes his supply of electricity shall not be used to recover a sum unless—
 
-- (a)[^key-e88ed2c3d6a3e6cb6110cd2f85c0bfa0] the sum is owed to an authorised supplier—
+- (a)[^c-e88ed2c3d6a3e6cb6110cd2f85c0bfa0] the sum is owed to an authorised supplier—
   - (i) in respect of the supply of electricity to the premises on which the meter is installed,
   - (ii) in respect of the provision of the meter, or
   - (iii) under a green deal plan (within the meaning of section 1 of the Energy Act 2011) in respect of the premises; or
@@ -259,8 +259,8 @@ he shall be liable on summary conviction to a fine not exceeding level 3 on the 
 
 (5) Before making regulations under this paragraph the Authority must consult—
 
-- (a) Citizens Advice[^key-9669cb422d4afb3bd51893a0d9410eb9];
-- (aa) Consumer Scotland[^key-0322470787d93055464d0e18cb48d053];
+- (a) Citizens Advice[^c-9669cb422d4afb3bd51893a0d9410eb9];
+- (aa) Consumer Scotland[^c-0322470787d93055464d0e18cb48d053];
 - (b) all authorised suppliers;
 - (c) such other persons as the Authority considers appropriate.
 
@@ -274,7 +274,7 @@ he shall be liable on summary conviction to a fine not exceeding level 3 on the 
 - “**exempt supply**” has the meaning given in paragraph 1(10) above;
 - “**prescribed**” means prescribed by regulations;
 - “**prescribed margins of error**” has the meaning given by paragraph 5(2) above;
-- “[^key-e9a30dfb8fb01ec17b4d0439a0d7d9aa]**regulations**” means—
+- “[^c-e9a30dfb8fb01ec17b4d0439a0d7d9aa]**regulations**” means—
   - (a) in paragraph 12, regulations made by the Authority with the consent of the Secretary of State, and
   - (b) in every other case, regulations made by the Secretary of State.
 
@@ -282,11 +282,11 @@ he shall be liable on summary conviction to a fine not exceeding level 3 on the 
 
 [^c4121221]: Modification: Sch. 7 modified (1.11.1995) by [S.I. 1995/2607](https://www.legislation.gov.uk/uksi/1995/2607), [reg. 3(1)](https://www.legislation.gov.uk/uksi/1995/2607/regulation/3/1)
 
-[^key-8d76577a6ef87cf4ace2b1ab2dd4f569]: Modification: Sch. 7 modified (30.10.2006) by [The Measuring Instruments (Active Electrical Energy Meters) Regulations 2006 (S.I. 2006/1679)](https://www.legislation.gov.uk/uksi/2006/1679), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2006/1679/regulation/1/3), [28(1)-(4)](https://www.legislation.gov.uk/uksi/2006/1679/regulation/28/1)
+[^c-8d76577a6ef87cf4ace2b1ab2dd4f569]: Modification: Sch. 7 modified (30.10.2006) by [The Measuring Instruments (Active Electrical Energy Meters) Regulations 2006 (S.I. 2006/1679)](https://www.legislation.gov.uk/uksi/2006/1679), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2006/1679/regulation/1/3), [28(1)-(4)](https://www.legislation.gov.uk/uksi/2006/1679/regulation/28/1)
 
-[^key-787821ee0fca16299afcf1fd580cd7c1]: Modification: Sch. 7 modified (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 95(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/95/2)[(5)](https://www.legislation.gov.uk/ukpga/2008/32/section/95/5), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)
+[^c-787821ee0fca16299afcf1fd580cd7c1]: Modification: Sch. 7 modified (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 95(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/95/2)[(5)](https://www.legislation.gov.uk/ukpga/2008/32/section/95/5), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)
 
-[^key-bb833cb16b41123c7aca990c5a9e5145]: Modification: Sch. 7 applied (with modifications) (28.12.2016) by [The Measuring Instruments Regulations 2016 (S.I. 2016/1153)](https://www.legislation.gov.uk/uksi/2016/1153), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/1/2), [Sch. 3 para. 6(1)-(4)](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/6/1) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/3/4), [5](https://www.legislation.gov.uk/uksi/2016/1153/regulation/5), [67(5)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/67/5))
+[^c-bb833cb16b41123c7aca990c5a9e5145]: Modification: Sch. 7 applied (with modifications) (28.12.2016) by [The Measuring Instruments Regulations 2016 (S.I. 2016/1153)](https://www.legislation.gov.uk/uksi/2016/1153), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/1/2), [Sch. 3 para. 6(1)-(4)](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/6/1) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/3/4), [5](https://www.legislation.gov.uk/uksi/2016/1153/regulation/5), [67(5)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/67/5))
 
 [^c4121261]: Textual amendment: Words in Sch. 7 paras. 1(1)-(4)(10)(b) substituted (1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 52](https://www.legislation.gov.uk/ukpga/2000/27/section/52), [Sch. 5 para. 2(1)](https://www.legislation.gov.uk/ukpga/2000/27/schedule/5/paragraph/2/1); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
@@ -300,13 +300,13 @@ he shall be liable on summary conviction to a fine not exceeding level 3 on the 
 
 [^c4121331]: Textual amendment: Words in Sch. 7 para. 1(2A) substituted (1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 52](https://www.legislation.gov.uk/ukpga/2000/27/section/52), [Sch. 5 para. 3(4)](https://www.legislation.gov.uk/ukpga/2000/27/schedule/5/paragraph/3/4); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-4193b193a0984beba76936b371cd965e]: Textual amendment: Sch. 7 para. 1(7) substituted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 96(3)(a)](https://www.legislation.gov.uk/ukpga/2008/32/section/96/3/a), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)
+[^c-4193b193a0984beba76936b371cd965e]: Textual amendment: Sch. 7 para. 1(7) substituted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 96(3)(a)](https://www.legislation.gov.uk/ukpga/2008/32/section/96/3/a), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)
 
-[^key-b4f2e32d2642e7f311c80b99e0a51011]: Textual amendment: Words in Sch. 7 para. 1(8) inserted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 96(3)(b)](https://www.legislation.gov.uk/ukpga/2008/32/section/96/3/b), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)
+[^c-b4f2e32d2642e7f311c80b99e0a51011]: Textual amendment: Words in Sch. 7 para. 1(8) inserted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 96(3)(b)](https://www.legislation.gov.uk/ukpga/2008/32/section/96/3/b), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)
 
 [^c4121361]: Textual amendment: Words in Sch. 7 para. 1(7)(9) substituted (1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 52](https://www.legislation.gov.uk/ukpga/2000/27/section/52), [Sch. 5 para. 3(5)](https://www.legislation.gov.uk/ukpga/2000/27/schedule/5/paragraph/3/5); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-e8535f680c3e9ed0084118250a859d04]: Textual amendment: Words in Sch. 7 para. 1(9) inserted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 96(3)(b)](https://www.legislation.gov.uk/ukpga/2008/32/section/96/3/b), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)
+[^c-e8535f680c3e9ed0084118250a859d04]: Textual amendment: Words in Sch. 7 para. 1(9) inserted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 96(3)(b)](https://www.legislation.gov.uk/ukpga/2008/32/section/96/3/b), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)
 
 [^c4121401]: Textual amendment: Words in Sch. 7 para. 2(1)(2) substituted (1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 52](https://www.legislation.gov.uk/ukpga/2000/27/section/52), [Sch. 5 para. 2(1)](https://www.legislation.gov.uk/ukpga/2000/27/schedule/5/paragraph/2/1); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
@@ -314,25 +314,25 @@ he shall be liable on summary conviction to a fine not exceeding level 3 on the 
 
 [^c4121441]: Textual amendment: Sch. 7 para. 3(1A) inserted (16.5.2001 for certain purposes and otherwise 1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 52](https://www.legislation.gov.uk/ukpga/2000/27/section/52), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2000/27/schedule/5/paragraph/4); [S.I. 2001/1781](https://www.legislation.gov.uk/uksi/2001/1781), [art. 2](https://www.legislation.gov.uk/uksi/2001/1781/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/1781/schedule) (subject to transitional provisions in [arts. 3-10](https://www.legislation.gov.uk/uksi/2001/1781/article/3)); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-428e5bf26b01611d5a0a12701216fc09]: Textual amendment: Words in Sch. 7 para. 4(2) inserted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 96(4)(a)](https://www.legislation.gov.uk/ukpga/2008/32/section/96/4/a), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)
+[^c-428e5bf26b01611d5a0a12701216fc09]: Textual amendment: Words in Sch. 7 para. 4(2) inserted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 96(4)(a)](https://www.legislation.gov.uk/ukpga/2008/32/section/96/4/a), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)
 
-[^key-f7f1f2f5878390e2bb5b94a304f2fdd9]: Textual amendment: Sch. 7 para. 4(2A) inserted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 96(4)(b)](https://www.legislation.gov.uk/ukpga/2008/32/section/96/4/b), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)
+[^c-f7f1f2f5878390e2bb5b94a304f2fdd9]: Textual amendment: Sch. 7 para. 4(2A) inserted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 96(4)(b)](https://www.legislation.gov.uk/ukpga/2008/32/section/96/4/b), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)
 
-[^key-5a5fe2d5ceedb1cf02b521acca4b2dba]: Textual amendment: Words in Sch. 7 para. 4(3) inserted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 96(4)(c)](https://www.legislation.gov.uk/ukpga/2008/32/section/96/4/c), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)
+[^c-5a5fe2d5ceedb1cf02b521acca4b2dba]: Textual amendment: Words in Sch. 7 para. 4(3) inserted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 96(4)(c)](https://www.legislation.gov.uk/ukpga/2008/32/section/96/4/c), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)
 
 [^c4121451]: Textual amendment: Words in Sch. 7 para. 5(3)(a) repealed (1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [ss. 52](https://www.legislation.gov.uk/ukpga/2000/27/section/52), [108](https://www.legislation.gov.uk/ukpga/2000/27/section/108), [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2000/27/schedule/5/paragraph/5), [Sch. 8](https://www.legislation.gov.uk/ukpga/2000/27/schedule/8); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-b4f883c069293c2ae4ea01338774c1f8]: Textual amendment: Words in Sch. 7 para. 5(4)(b) inserted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 96(5)](https://www.legislation.gov.uk/ukpga/2008/32/section/96/5), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)
+[^c-b4f883c069293c2ae4ea01338774c1f8]: Textual amendment: Words in Sch. 7 para. 5(4)(b) inserted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 96(5)](https://www.legislation.gov.uk/ukpga/2008/32/section/96/5), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)
 
 [^c4121461]: Textual amendment: Words in Sch. 7 para. 6(1) repealed (1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [ss. 52](https://www.legislation.gov.uk/ukpga/2000/27/section/52), [108](https://www.legislation.gov.uk/ukpga/2000/27/section/108), [Sch. 5 para. 6(a)](https://www.legislation.gov.uk/ukpga/2000/27/schedule/5/paragraph/6/a), [Sch. 8](https://www.legislation.gov.uk/ukpga/2000/27/schedule/8); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-da0f548df0ce67bc8f2c2e79bac27741]: Textual amendment: Words in Sch. 7 para. 6(2) substituted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 96(6)](https://www.legislation.gov.uk/ukpga/2008/32/section/96/6), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)
+[^c-da0f548df0ce67bc8f2c2e79bac27741]: Textual amendment: Words in Sch. 7 para. 6(2) substituted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 96(6)](https://www.legislation.gov.uk/ukpga/2008/32/section/96/6), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)
 
 [^c4121471]: Textual amendment: Sch. 7 para. 6(5) repealed (1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [ss. 52](https://www.legislation.gov.uk/ukpga/2000/27/section/52), [108](https://www.legislation.gov.uk/ukpga/2000/27/section/108), [Sch. 5 para. 6(b)](https://www.legislation.gov.uk/ukpga/2000/27/schedule/5/paragraph/6/b), [Sch. 8](https://www.legislation.gov.uk/ukpga/2000/27/schedule/8); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-ed94bfbc77c51503aad2b9eebb24e2c9]: Textual amendment: Words in Sch. 7 para. 7(1) inserted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 96(7)(a)](https://www.legislation.gov.uk/ukpga/2008/32/section/96/7/a), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)
+[^c-ed94bfbc77c51503aad2b9eebb24e2c9]: Textual amendment: Words in Sch. 7 para. 7(1) inserted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 96(7)(a)](https://www.legislation.gov.uk/ukpga/2008/32/section/96/7/a), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)
 
-[^key-b139fe8d8031cbba04587d5bd040e5d1]: Textual amendment: Words in Sch. 7 para. 7(3) inserted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 96(7)(b)](https://www.legislation.gov.uk/ukpga/2008/32/section/96/7/b), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)
+[^c-b139fe8d8031cbba04587d5bd040e5d1]: Textual amendment: Words in Sch. 7 para. 7(3) inserted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 96(7)(b)](https://www.legislation.gov.uk/ukpga/2008/32/section/96/7/b), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)
 
 [^c4121481]: Textual amendment: Words in Sch. 7 para. 7(4) substituted (1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 52](https://www.legislation.gov.uk/ukpga/2000/27/section/52), [Sch. 5 para. 2(1)](https://www.legislation.gov.uk/ukpga/2000/27/schedule/5/paragraph/2/1); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
@@ -344,20 +344,20 @@ he shall be liable on summary conviction to a fine not exceeding level 3 on the 
 
 [^c4121551]: Textual amendment: Words in Sch. 7 para. 10(2) substituted (1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 52](https://www.legislation.gov.uk/ukpga/2000/27/section/52), [Sch. 5 para. 7(b)](https://www.legislation.gov.uk/ukpga/2000/27/schedule/5/paragraph/7/b); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-1c01e9ba0bb8b5cf83299aabaf4e3d68]: Textual amendment: Sch. 7 para. 10(2A) substituted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 96(8)](https://www.legislation.gov.uk/ukpga/2008/32/section/96/8), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)
+[^c-1c01e9ba0bb8b5cf83299aabaf4e3d68]: Textual amendment: Sch. 7 para. 10(2A) substituted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 96(8)](https://www.legislation.gov.uk/ukpga/2008/32/section/96/8), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)
 
 [^c4121581]: Textual amendment: Words in Sch. 7 para. 11(1)(a)(4) substituted (1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 52](https://www.legislation.gov.uk/ukpga/2000/27/section/52), [Sch. 5 para. 2(1)](https://www.legislation.gov.uk/ukpga/2000/27/schedule/5/paragraph/2/1); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
 [^c4121601]: Textual amendment: Words in Sch. 7 para. 12(1) substituted (1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 52](https://www.legislation.gov.uk/ukpga/2000/27/section/52), [Sch. 5 para. 2(1)](https://www.legislation.gov.uk/ukpga/2000/27/schedule/5/paragraph/2/1); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-03388b0e8fef41ca826cfd4833c77cec]: Textual amendment: Sch. 7 para. 12(2)-(5) substituted for Sch. 7 para. 12(2) (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 181(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/181/2), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-03388b0e8fef41ca826cfd4833c77cec]: Textual amendment: Sch. 7 para. 12(2)-(5) substituted for Sch. 7 para. 12(2) (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 181(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/181/2), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-e88ed2c3d6a3e6cb6110cd2f85c0bfa0]: Textual amendment: Sch. 7 para. 12(2)(a) substituted (28.1.2013) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 24(6)](https://www.legislation.gov.uk/ukpga/2011/16/section/24/6), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/125/article/3/a)
+[^c-e88ed2c3d6a3e6cb6110cd2f85c0bfa0]: Textual amendment: Sch. 7 para. 12(2)(a) substituted (28.1.2013) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 24(6)](https://www.legislation.gov.uk/ukpga/2011/16/section/24/6), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/125/article/3/a)
 
-[^key-9669cb422d4afb3bd51893a0d9410eb9]: Textual amendment: Sch. 7 para. 12(5)(a)(aa) substituted for Sch. 7 para. 12(5)(a) (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 5(22)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/5/22) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
+[^c-9669cb422d4afb3bd51893a0d9410eb9]: Textual amendment: Sch. 7 para. 12(5)(a)(aa) substituted for Sch. 7 para. 12(5)(a) (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 5(22)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/5/22) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
 
-[^key-0322470787d93055464d0e18cb48d053]: Textual amendment: Words in [Sch. 7 para. 12(5)(aa)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/7/paragraph/12/5/aa) substituted (13.1.2022) by [The Consumer Scotland Act 2020 (Consequential Provisions and Modifications) Order 2022 (S.I. 2022/34)](https://www.legislation.gov.uk/uksi/2022/34), [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/34/article/1/1), [Sch. para. 3(20)](https://www.legislation.gov.uk/uksi/2022/34/schedule/paragraph/3/20) (with [art. 5](https://www.legislation.gov.uk/uksi/2022/34/article/5))
+[^c-0322470787d93055464d0e18cb48d053]: Textual amendment: Words in [Sch. 7 para. 12(5)(aa)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/7/paragraph/12/5/aa) substituted (13.1.2022) by [The Consumer Scotland Act 2020 (Consequential Provisions and Modifications) Order 2022 (S.I. 2022/34)](https://www.legislation.gov.uk/uksi/2022/34), [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/34/article/1/1), [Sch. para. 3(20)](https://www.legislation.gov.uk/uksi/2022/34/schedule/paragraph/3/20) (with [art. 5](https://www.legislation.gov.uk/uksi/2022/34/article/5))
 
 [^c4121621]: Textual amendment: Sch. 7 para. 13: definition of “electricity supplier” repealed (1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [ss. 52](https://www.legislation.gov.uk/ukpga/2000/27/section/52), [108](https://www.legislation.gov.uk/ukpga/2000/27/section/108), [Sch. 5 para. 2(2)](https://www.legislation.gov.uk/ukpga/2000/27/schedule/5/paragraph/2/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2000/27/schedule/8); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-e9a30dfb8fb01ec17b4d0439a0d7d9aa]: Textual amendment: Words in Sch. 7 para. 13 substituted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 96(9)](https://www.legislation.gov.uk/ukpga/2008/32/section/96/9), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)
+[^c-e9a30dfb8fb01ec17b4d0439a0d7d9aa]: Textual amendment: Words in Sch. 7 para. 13 substituted (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 96(9)](https://www.legislation.gov.uk/ukpga/2008/32/section/96/9), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)

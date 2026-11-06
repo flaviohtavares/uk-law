@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. NHS pension schemes: suspension of restrictions on return to work: Scotland[^key-f0e6619574b7cc1c70ed026c273051a4]
+## 46. NHS pension schemes: suspension of restrictions on return to work: Scotland[^c-f0e6619574b7cc1c70ed026c273051a4]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0e6619574b7cc1c70ed026c273051a4]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/2020/7/section/46) expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-f0e6619574b7cc1c70ed026c273051a4]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/2020/7/section/46) expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

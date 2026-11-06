@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 323. Annual accounts[^key-bc138277d2e4a4aa0bbca6023564283e]
+## 323. Annual accounts[^c-bc138277d2e4a4aa0bbca6023564283e]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc138277d2e4a4aa0bbca6023564283e]: Commencement: S. 323 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)
+[^c-bc138277d2e4a4aa0bbca6023564283e]: Commencement: S. 323 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)

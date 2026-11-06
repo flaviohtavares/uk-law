@@ -59,15 +59,15 @@ The title of these Regulations is the Fishery Products (Official Controls Charge
 
 (1) In these Regulations —
 
-- “Directive 2004/41” (“[^key-be5c49a186971fc11b322cf6be6238e1]*Cyfarwyddeb 2004/41*”), “Regulation 2406/96” (“*Rheoliad 2406/96*”), “Regulation 852/2004” (“*Rheoliad 852/2004*”), “Regulation 853/2004” (“*Rheoliad 853/2004*”), “Regulation 1688/2005” (“*Rheoliad 1688/2005*”), “Regulation 2073/2005” (“*Rheoliad 2073/2005*”), “Regulation 2074/2005” (“*Rheoliad 2074/2005*”), “Regulation 2015/1375” (“*Rheoliad 2015/1375*”), “Regulation 2017/185” (“*Rheoliad 2017/185*”), “Regulation 2017/625” (“*Rheoliad 2017/625*”), “Regulation 2019/624” (“*Rheoliad 2019/624*”) and “Regulation 2019/627” (“*Rheoliad 2019/627*”) have the meanings respectively given to them in the Schedule;
+- “Directive 2004/41” (“[^c-be5c49a186971fc11b322cf6be6238e1]*Cyfarwyddeb 2004/41*”), “Regulation 2406/96” (“*Rheoliad 2406/96*”), “Regulation 852/2004” (“*Rheoliad 852/2004*”), “Regulation 853/2004” (“*Rheoliad 853/2004*”), “Regulation 1688/2005” (“*Rheoliad 1688/2005*”), “Regulation 2073/2005” (“*Rheoliad 2073/2005*”), “Regulation 2074/2005” (“*Rheoliad 2074/2005*”), “Regulation 2015/1375” (“*Rheoliad 2015/1375*”), “Regulation 2017/185” (“*Rheoliad 2017/185*”), “Regulation 2017/625” (“*Rheoliad 2017/625*”), “Regulation 2019/624” (“*Rheoliad 2019/624*”) and “Regulation 2019/627” (“*Rheoliad 2019/627*”) have the meanings respectively given to them in the Schedule;
 - “**establishment**” (“***sefydliad***”) has the meaning given to it in paragraph 1(c) of Article 2 of Regulation 852/2004;
-- “**first placing on the market**” (“***rhoi gyntaf ar y farchnad***”) has the meaning that it bears in Regulation 2017/625[^key-452602a60f7a20d689dd759001fa2a9d];
-- “**first sale in a fish market**” (“***gwerthu gyntaf mewn marchnad bysgod***”) is construed in accordance with the phrase “first sale in fish market” in Regulation 2017/625[^key-deefc9438f934bfbe6f8be814c1c7882];
+- “**first placing on the market**” (“***rhoi gyntaf ar y farchnad***”) has the meaning that it bears in Regulation 2017/625[^c-452602a60f7a20d689dd759001fa2a9d];
+- “**first sale in a fish market**” (“***gwerthu gyntaf mewn marchnad bysgod***”) is construed in accordance with the phrase “first sale in fish market” in Regulation 2017/625[^c-deefc9438f934bfbe6f8be814c1c7882];
 - “**fishery products**” (“***cynhyrchion pysgodfeydd***”) has the meaning given to it in point 3.1 of Annex I to Regulation 853/2004;
 - “**food authority**” (“***awdurdod bwyd***”) has the meaning that it bears by virtue of section 5(1A) of the Food Safety Act 1990 [^c19052681];
 - “**imported**” (“***a fewnforir***”) means introduced into Wales other than from another part of the British Islands;
-- “official controls” (“[^key-86a4fcd7301d455d18cd4e1b96c45be9]*rheolaethau swyddogol*”) has the meaning given to it in Article 2(1) of Regulation 2017/625;
-- “**processing**” (“***prosesu***”) has the meaning that it bears in Regulation 2017/625[^key-0be634eff8ba14bf0b9f5bb559865e16];
+- “official controls” (“[^c-86a4fcd7301d455d18cd4e1b96c45be9]*rheolaethau swyddogol*”) has the meaning given to it in Article 2(1) of Regulation 2017/625;
+- “**processing**” (“***prosesu***”) has the meaning that it bears in Regulation 2017/625[^c-0be634eff8ba14bf0b9f5bb559865e16];
 - “**processing establishment**” (“***sefydliad prosesu***”) means an establishment at which processing occurs;
 - “**relevant fishery products**” (“***cynhyrchion pysgodfeydd perthnasol***”) means fishery products which —
   - (a) were caught in their natural environment;
@@ -91,26 +91,26 @@ The title of these Regulations is the Fishery Products (Official Controls Charge
   - (e) anchovies (*Engraulis* spp.);
   - (f) picarels of the species Maena smaris; and
   - (g) sprat of the species Sprattus sprattus;
-- “third country” (“[^key-d346c3d14c280df3e601784fbb175869]*trydedd wlad*”), except in the expression “third country import” means any country or territory other than the British Islands;
-- “**third country import**” (“***mewnforyn trydedd wlad***”) means an import in respect of which a charge set out in Annex 4 to Regulation 2017/625 is payable[^key-4fe9252c9e55b2d3cae4f69e01a6f95e]; and
+- “third country” (“[^c-d346c3d14c280df3e601784fbb175869]*trydedd wlad*”), except in the expression “third country import” means any country or territory other than the British Islands;
+- “**third country import**” (“***mewnforyn trydedd wlad***”) means an import in respect of which a charge set out in Annex 4 to Regulation 2017/625 is payable[^c-4fe9252c9e55b2d3cae4f69e01a6f95e]; and
 - “**vendor**” (“***gwerthwr***”) means —
   - (a) where a first placing on the market or first sale in a fish market of relevant fishery products or relevant landed fishery products is effected by another person on behalf of the owner or master of a vessel, that other person; and
   - (b) where there is a first placing on the market or first sale in a fish market of relevant fishery products or relevant landed fishery products in any other circumstances, the owner or master of the vessel from which they are landed.
 
 (2) Where any functions under the Food Safety Act 1990 are assigned —
 
-- (a) by an order under section 2 [^key-54dd7237aef8b77d3c157604ac8a37ab]...of the Public Health (Control of Disease) Act 1984 [^c19052701], to a port health authority; or
+- (a) by an order under section 2 [^c-54dd7237aef8b77d3c157604ac8a37ab]...of the Public Health (Control of Disease) Act 1984 [^c19052701], to a port health authority; or
 - (b) by an order under section 6 of the Public Health Act 1936 [^c19052711], to a joint board for a united district,
 
 any reference in these Regulations to a food authority is construed, so far as relating to those functions, as a reference to the authority to whom they are so assigned.
 
-(3)[^key-626041972ce2e44a7d20dba397db5c5a] In these Regulations, any reference to an EU instrument defined in the Schedule is a reference to that instrument as amended from time to time.
+(3)[^c-626041972ce2e44a7d20dba397db5c5a] In these Regulations, any reference to an EU instrument defined in the Schedule is a reference to that instrument as amended from time to time.
 
 ### 3. Actual costs
 
-For the purposes of these Regulations, the actual costs of exercising official controls are the aggregate of the costs of the items referred to in Articles 81 and 82 of Regulation 2017/625[^key-d3f75befbac49186fa78e86c66fd66c6] directly incurred in the exercise of the official controls required under Title 6 of and Annex 6 to Regulation 2019/627[^key-b62dcfc64e30ae644e2276e7891ddb74].
+For the purposes of these Regulations, the actual costs of exercising official controls are the aggregate of the costs of the items referred to in Articles 81 and 82 of Regulation 2017/625[^c-d3f75befbac49186fa78e86c66fd66c6] directly incurred in the exercise of the official controls required under Title 6 of and Annex 6 to Regulation 2019/627[^c-b62dcfc64e30ae644e2276e7891ddb74].
 
-### 4. Sterling equivalents of Euro[^key-2da1db2ec000c2b2f35693b8ce6050f6]
+### 4. Sterling equivalents of Euro[^c-2da1db2ec000c2b2f35693b8ce6050f6]
 
 Any reference in these Regulations to a specified number of Euros (“EUR”) is to be read as that sum converted into pounds sterling (“GBP”) using the exchange rate of GBP1 = EUR1.1413.
 
@@ -161,7 +161,7 @@ Where a duty to pay a charge under these Regulations is imposed on either of two
 
 ### 9. Sums remitted from one food authority to another
 
-In any case where the exercise of official controls is deferred and the food authority responsible for the exercise of the official controls required under Title 6 of and Annex 6 to Regulation 2019/627[^key-db21f74cdd7dc60421b7d477ec303ed1] (“authority A”) is not the relevant food authority to which a charge is required to be paid under these Regulations (“authority B”), authority B must remit to authority A a sum equal to any amount received by authority B which is referable to official controls exercised by authority A.
+In any case where the exercise of official controls is deferred and the food authority responsible for the exercise of the official controls required under Title 6 of and Annex 6 to Regulation 2019/627[^c-db21f74cdd7dc60421b7d477ec303ed1] (“authority A”) is not the relevant food authority to which a charge is required to be paid under these Regulations (“authority B”), authority B must remit to authority A a sum equal to any amount received by authority B which is referable to official controls exercised by authority A.
 
 ## PART 2 — OFFICIAL CONTROLS CHARGES OTHER THAN CHARGES FOR THIRD COUNTRY IMPORTS
 
@@ -176,7 +176,7 @@ In any case where the exercise of official controls is deferred and the food aut
 
 (2) Subject to paragraph (8), where there is a chargeable transaction for the purposes of this regulation and regulation 11, the vendor must pay the charge determined in accordance with paragraphs (3) to (7) (“the landings charge”) to the relevant food authority.
 
-(3) Subject to paragraph (7), where the chargeable transaction is the first placing on the market of relevant fishery products or relevant landed fishery products the landings charge is a contribution towards the expenditure incurred in exercising the official controls required under Title 6 of and Annex 6 to Regulation 2019/627[^key-53ded403b909689f046f0f8c197715d1], calculated at the rate of 1 Euro per tonne for the first 50 tonnes and 0.5 Euro per tonne for each additional tonne relevant fishery products or relevant landed fishery products first placed on the market in a calendar month.
+(3) Subject to paragraph (7), where the chargeable transaction is the first placing on the market of relevant fishery products or relevant landed fishery products the landings charge is a contribution towards the expenditure incurred in exercising the official controls required under Title 6 of and Annex 6 to Regulation 2019/627[^c-53ded403b909689f046f0f8c197715d1], calculated at the rate of 1 Euro per tonne for the first 50 tonnes and 0.5 Euro per tonne for each additional tonne relevant fishery products or relevant landed fishery products first placed on the market in a calendar month.
 
 (4) Where the chargeable transaction is the first sale in a fish market of relevant fishery products, the landings charge is a contribution towards the expenditure incurred in exercising the official controls required under Title 6 of and Annex 6 to Regulation 2019/627, calculated at the rate of 1 Euro per tonne for the first 50 tonnes and 0.5 Euro per tonne for each additional tonne of relevant fishery products first sold in a fish market in a calendar month.
 
@@ -235,7 +235,7 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 (1) Subject to paragraph (3), the proprietor or operator of a processing establishment must pay the charge determined in accordance with paragraph (2) (“the processing establishment charge”) to the relevant food authority.
 
-(2) The processing establishment charge is a contribution towards the expenditure incurred by the relevant food authority in exercising the official controls required under Title 6 of and Annex 6 to Regulation 2019/627[^key-e0a2f9ed2e7dfd7b09687f9a493f0c59], calculated at the rate of 0.5 Euro per tonne of fishery products entering the establishment for the purpose of processing.
+(2) The processing establishment charge is a contribution towards the expenditure incurred by the relevant food authority in exercising the official controls required under Title 6 of and Annex 6 to Regulation 2019/627[^c-e0a2f9ed2e7dfd7b09687f9a493f0c59], calculated at the rate of 0.5 Euro per tonne of fishery products entering the establishment for the purpose of processing.
 
 (3) Where the actual costs of exercising the official controls required under Title 6 of and Annex 6 to Regulation 2019/627 are less than the processing establishment charge, the proprietor or operator must pay an amount equal to those costs to the relevant food authority, instead of the processing establishment charge.
 
@@ -269,7 +269,7 @@ G. Thomas
 
 Under authority of the Minister for Health and Social Services, one of the Welsh Ministers
 
-## THE SCHEDULE — DEFINITIONS OF LEGISLATION[^key-209647674573b093d3fc8a25cec170c9][^key-9f8132f4687bf090c653dd628d79d4ac]
+## THE SCHEDULE — DEFINITIONS OF LEGISLATION[^c-209647674573b093d3fc8a25cec170c9][^c-9f8132f4687bf090c653dd628d79d4ac]
 
 Regulation 2
 
@@ -325,44 +325,44 @@ Regulation 2
 
 [^c19052671]: Marginal citation: OJ No. L31, 1.2.2002, p.1, as last amended by Commission Regulation (EC) No. 575/2006 amending Regulation (EC) No. 178/2002 of the European Parliament and of the Council as regards the number and names of the permanent Scientific Panels of the European Food Safety Authority (OJ No. L100, 8.4.2006, p.3).
 
-[^key-be5c49a186971fc11b322cf6be6238e1]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1481)](https://www.legislation.gov.uk/wsi/2019/1481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/1/2), [3(a)(i)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/3/a/i)
+[^c-be5c49a186971fc11b322cf6be6238e1]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1481)](https://www.legislation.gov.uk/wsi/2019/1481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/1/2), [3(a)(i)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/3/a/i)
 
-[^key-452602a60f7a20d689dd759001fa2a9d]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1481)](https://www.legislation.gov.uk/wsi/2019/1481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/3/a/ii)
+[^c-452602a60f7a20d689dd759001fa2a9d]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1481)](https://www.legislation.gov.uk/wsi/2019/1481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/3/a/ii)
 
-[^key-deefc9438f934bfbe6f8be814c1c7882]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1481)](https://www.legislation.gov.uk/wsi/2019/1481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/1/2), [3(a)(iii)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/3/a/iii)
+[^c-deefc9438f934bfbe6f8be814c1c7882]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1481)](https://www.legislation.gov.uk/wsi/2019/1481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/1/2), [3(a)(iii)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/3/a/iii)
 
 [^c19052681]: Marginal citation: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16); section 5 was amended by paragraphs 8 and 9 of Schedule 5 to the [Food Standards Act 1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28).
 
-[^key-86a4fcd7301d455d18cd4e1b96c45be9]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1481)](https://www.legislation.gov.uk/wsi/2019/1481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/1/2), [3(a)(iv)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/3/a/iv)
+[^c-86a4fcd7301d455d18cd4e1b96c45be9]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1481)](https://www.legislation.gov.uk/wsi/2019/1481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/1/2), [3(a)(iv)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/3/a/iv)
 
-[^key-0be634eff8ba14bf0b9f5bb559865e16]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1481)](https://www.legislation.gov.uk/wsi/2019/1481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/1/2), [3(a)(v)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/3/a/v)
+[^c-0be634eff8ba14bf0b9f5bb559865e16]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1481)](https://www.legislation.gov.uk/wsi/2019/1481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/1/2), [3(a)(v)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/3/a/v)
 
-[^key-d346c3d14c280df3e601784fbb175869]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/3462/regulation/2/1) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [7(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/7/2)
+[^c-d346c3d14c280df3e601784fbb175869]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/3462/regulation/2/1) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [7(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/7/2)
 
-[^key-4fe9252c9e55b2d3cae4f69e01a6f95e]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1481)](https://www.legislation.gov.uk/wsi/2019/1481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/1/2), [3(a)(vi)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/3/a/vi)
+[^c-4fe9252c9e55b2d3cae4f69e01a6f95e]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1481)](https://www.legislation.gov.uk/wsi/2019/1481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/1/2), [3(a)(vi)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/3/a/vi)
 
-[^key-54dd7237aef8b77d3c157604ac8a37ab]: Textual amendment: Words in reg. 2(2)(a) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [14(2)(b)](https://www.legislation.gov.uk/wsi/2018/806/regulation/14/2/b)
+[^c-54dd7237aef8b77d3c157604ac8a37ab]: Textual amendment: Words in reg. 2(2)(a) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [14(2)(b)](https://www.legislation.gov.uk/wsi/2018/806/regulation/14/2/b)
 
 [^c19052701]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22); section 7(3)(d) was substituted by paragraph 27 of Schedule 3 to the [Food Safety Act 1990 (1990 c. 16)](https://www.legislation.gov.uk/ukpga/1990/16).
 
 [^c19052711]: Marginal citation: [1936 c. 49](https://www.legislation.gov.uk/ukpga/1936/49); section 6 is to be read with paragraph 1 of Schedule 3 to the Food Safety Act 1990.
 
-[^key-626041972ce2e44a7d20dba397db5c5a]: Textual amendment: Reg. 2(3) inserted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1481)](https://www.legislation.gov.uk/wsi/2019/1481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/3/b)
+[^c-626041972ce2e44a7d20dba397db5c5a]: Textual amendment: Reg. 2(3) inserted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1481)](https://www.legislation.gov.uk/wsi/2019/1481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/3/b)
 
-[^key-d3f75befbac49186fa78e86c66fd66c6]: Textual amendment: Words in reg. 3 substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1481)](https://www.legislation.gov.uk/wsi/2019/1481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/1/2), [4(a)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/4/a)
+[^c-d3f75befbac49186fa78e86c66fd66c6]: Textual amendment: Words in reg. 3 substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1481)](https://www.legislation.gov.uk/wsi/2019/1481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/1/2), [4(a)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/4/a)
 
-[^key-b62dcfc64e30ae644e2276e7891ddb74]: Textual amendment: Words in reg. 3 substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1481)](https://www.legislation.gov.uk/wsi/2019/1481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/1/2), [4(b)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/4/b)
+[^c-b62dcfc64e30ae644e2276e7891ddb74]: Textual amendment: Words in reg. 3 substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1481)](https://www.legislation.gov.uk/wsi/2019/1481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/1/2), [4(b)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/4/b)
 
-[^key-2da1db2ec000c2b2f35693b8ce6050f6]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2007/3462/regulation/4) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [7(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/7/3)
+[^c-2da1db2ec000c2b2f35693b8ce6050f6]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2007/3462/regulation/4) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [7(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/7/3)
 
-[^key-db21f74cdd7dc60421b7d477ec303ed1]: Textual amendment: Words in reg. 9 substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1481)](https://www.legislation.gov.uk/wsi/2019/1481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2019/1481/regulation/6)
+[^c-db21f74cdd7dc60421b7d477ec303ed1]: Textual amendment: Words in reg. 9 substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1481)](https://www.legislation.gov.uk/wsi/2019/1481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2019/1481/regulation/6)
 
-[^key-53ded403b909689f046f0f8c197715d1]: Textual amendment: Words in reg. 10 substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1481)](https://www.legislation.gov.uk/wsi/2019/1481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2019/1481/regulation/7)
+[^c-53ded403b909689f046f0f8c197715d1]: Textual amendment: Words in reg. 10 substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1481)](https://www.legislation.gov.uk/wsi/2019/1481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2019/1481/regulation/7)
 
-[^key-e0a2f9ed2e7dfd7b09687f9a493f0c59]: Textual amendment: Words in reg. 12 substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1481)](https://www.legislation.gov.uk/wsi/2019/1481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2019/1481/regulation/8)
+[^c-e0a2f9ed2e7dfd7b09687f9a493f0c59]: Textual amendment: Words in reg. 12 substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1481)](https://www.legislation.gov.uk/wsi/2019/1481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2019/1481/regulation/8)
 
 [^c19052721]: Marginal citation: [S.I. 2006/3344](https://www.legislation.gov.uk/uksi/2006/3344) (W.305).
 
-[^key-209647674573b093d3fc8a25cec170c9]: Textual amendment: Sch. substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1481)](https://www.legislation.gov.uk/wsi/2019/1481), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/1/2), [Sch.](https://www.legislation.gov.uk/wsi/2019/1481/schedule)
+[^c-209647674573b093d3fc8a25cec170c9]: Textual amendment: Sch. substituted (14.12.2019) by [The Fishery Products (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1481)](https://www.legislation.gov.uk/wsi/2019/1481), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1481/regulation/1/2), [Sch.](https://www.legislation.gov.uk/wsi/2019/1481/schedule)
 
-[^key-9f8132f4687bf090c653dd628d79d4ac]: Textual amendment: [Sch.](https://www.legislation.gov.uk/wsi/2007/3462/schedule) heading substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [7(4)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/7/4)
+[^c-9f8132f4687bf090c653dd628d79d4ac]: Textual amendment: [Sch.](https://www.legislation.gov.uk/wsi/2007/3462/schedule) heading substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [7(4)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/7/4)

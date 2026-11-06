@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Notice to local authority of wrongful-termination order[^key-be9382ceefbb7e4fc68abfd292fd40b0]
+## 60. Notice to local authority of wrongful-termination order[^c-be9382ceefbb7e4fc68abfd292fd40b0]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be9382ceefbb7e4fc68abfd292fd40b0]: Commencement: S. 60 in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-be9382ceefbb7e4fc68abfd292fd40b0]: Commencement: S. 60 in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

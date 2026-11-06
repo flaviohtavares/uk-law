@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65D. Unconnected multiple employer schemes: promotion or marketing requirement[^key-b4cfa194cb2a881f57444010b509e6ac]
+## 65D. Unconnected multiple employer schemes: promotion or marketing requirement[^c-b4cfa194cb2a881f57444010b509e6ac]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4cfa194cb2a881f57444010b509e6ac]: Textual amendment: [Ss. 65A-65D](https://www.legislation.gov.uk/ukpga/2021/1/section/65A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2026/151/regulation/10)
+[^c-b4cfa194cb2a881f57444010b509e6ac]: Textual amendment: [Ss. 65A-65D](https://www.legislation.gov.uk/ukpga/2021/1/section/65A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2026/151/regulation/10)

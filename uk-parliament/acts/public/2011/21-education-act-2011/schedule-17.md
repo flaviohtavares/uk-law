@@ -24,12 +24,12 @@ Section 68
 
 ### Staff transfer schemes
 
-**1.**[^key-710090eee0a9487e03ea6d8f680f001a] The Secretary of State may make a scheme (a “staff transfer scheme”) providing for designated employees of the YPLA—
+**1.**[^c-710090eee0a9487e03ea6d8f680f001a] The Secretary of State may make a scheme (a “staff transfer scheme”) providing for designated employees of the YPLA—
 
 - (a) to become members of staff of the Secretary of State (and accordingly to become employed in the civil service of the state), or
 - (b) to be transferred to a permitted transferee.
 
-**2.**[^key-224a2d56b24014235dbfdb1243111daf] (1) This paragraph applies where a staff transfer scheme provides for an employee of the YPLA to become a member of staff of the Secretary of State.
+**2.**[^c-224a2d56b24014235dbfdb1243111daf] (1) This paragraph applies where a staff transfer scheme provides for an employee of the YPLA to become a member of staff of the Secretary of State.
 
 (2) The staff transfer scheme may provide—
 
@@ -45,7 +45,7 @@ Section 68
 
 (6) The staff transfer scheme may provide for an employee of the YPLA to become a member of the Secretary of State's staff despite any provision, of whatever nature, which would otherwise prevent the person from being employed in the civil service of the state.
 
-**3.**[^key-86456606af2451ef5869cc8483153390] (1) This paragraph applies where a staff transfer scheme provides for the transfer of an employee of the YPLA to a permitted transferee.
+**3.**[^c-86456606af2451ef5869cc8483153390] (1) This paragraph applies where a staff transfer scheme provides for the transfer of an employee of the YPLA to a permitted transferee.
 
 (2) The staff transfer scheme may provide—
 
@@ -65,7 +65,7 @@ Section 68
 
 ### Property transfer schemes
 
-**4.**[^key-13fa52846ed83f751480537bba189947] (1) The Secretary of State may make a scheme (a “property transfer scheme”) providing for the transfer from the YPLA of designated property, rights or liabilities of the YPLA to—
+**4.**[^c-13fa52846ed83f751480537bba189947] (1) The Secretary of State may make a scheme (a “property transfer scheme”) providing for the transfer from the YPLA of designated property, rights or liabilities of the YPLA to—
 
 - (a) the Secretary of State, or
 - (b) a permitted transferee.
@@ -84,15 +84,15 @@ Section 68
 
 ### Continuity
 
-**5.**[^key-dd65c5a2625e697f67f498f9f7a86d1e] A transfer by virtue of a staff transfer scheme or a property transfer scheme does not affect the validity of anything done by or in relation to the YPLA before the transfer takes effect.
+**5.**[^c-dd65c5a2625e697f67f498f9f7a86d1e] A transfer by virtue of a staff transfer scheme or a property transfer scheme does not affect the validity of anything done by or in relation to the YPLA before the transfer takes effect.
 
 ### Supplementary provision etc.
 
-**6.**[^key-2bb42daab6b661fd0e8a7327357db70b] A staff transfer scheme or a property transfer scheme may include supplementary, incidental, transitional and consequential provision.
+**6.**[^c-2bb42daab6b661fd0e8a7327357db70b] A staff transfer scheme or a property transfer scheme may include supplementary, incidental, transitional and consequential provision.
 
 ### Interpretation
 
-**7.**[^key-597b25063466923f931b6c411984e7b9] In this Schedule—
+**7.**[^c-597b25063466923f931b6c411984e7b9] In this Schedule—
 
 - “**designated**”, in relation to a staff transfer scheme or a property transfer scheme, means specified in, or determined in accordance with, the scheme;
 - “**permitted transferee**” means a person specified in an order made by the Secretary of State;
@@ -100,16 +100,16 @@ Section 68
 
 ## Annotations
 
-[^key-710090eee0a9487e03ea6d8f680f001a]: Commencement: [Sch. 17 para. 1](https://www.legislation.gov.uk/ukpga/2011/21/schedule/17/paragraph/1) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-710090eee0a9487e03ea6d8f680f001a]: Commencement: [Sch. 17 para. 1](https://www.legislation.gov.uk/ukpga/2011/21/schedule/17/paragraph/1) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-224a2d56b24014235dbfdb1243111daf]: Commencement: [Sch. 17 para. 2](https://www.legislation.gov.uk/ukpga/2011/21/schedule/17/paragraph/2) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-224a2d56b24014235dbfdb1243111daf]: Commencement: [Sch. 17 para. 2](https://www.legislation.gov.uk/ukpga/2011/21/schedule/17/paragraph/2) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-86456606af2451ef5869cc8483153390]: Commencement: [Sch. 17 para. 3](https://www.legislation.gov.uk/ukpga/2011/21/schedule/17/paragraph/3) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-86456606af2451ef5869cc8483153390]: Commencement: [Sch. 17 para. 3](https://www.legislation.gov.uk/ukpga/2011/21/schedule/17/paragraph/3) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-13fa52846ed83f751480537bba189947]: Commencement: [Sch. 17 para. 4](https://www.legislation.gov.uk/ukpga/2011/21/schedule/17/paragraph/4) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-13fa52846ed83f751480537bba189947]: Commencement: [Sch. 17 para. 4](https://www.legislation.gov.uk/ukpga/2011/21/schedule/17/paragraph/4) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-dd65c5a2625e697f67f498f9f7a86d1e]: Commencement: [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/2011/21/schedule/17/paragraph/5) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-dd65c5a2625e697f67f498f9f7a86d1e]: Commencement: [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/2011/21/schedule/17/paragraph/5) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-2bb42daab6b661fd0e8a7327357db70b]: Commencement: [Sch. 17 para. 6](https://www.legislation.gov.uk/ukpga/2011/21/schedule/17/paragraph/6) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-2bb42daab6b661fd0e8a7327357db70b]: Commencement: [Sch. 17 para. 6](https://www.legislation.gov.uk/ukpga/2011/21/schedule/17/paragraph/6) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-597b25063466923f931b6c411984e7b9]: Commencement: [Sch. 17 para. 7](https://www.legislation.gov.uk/ukpga/2011/21/schedule/17/paragraph/7) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-597b25063466923f931b6c411984e7b9]: Commencement: [Sch. 17 para. 7](https://www.legislation.gov.uk/ukpga/2011/21/schedule/17/paragraph/7) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

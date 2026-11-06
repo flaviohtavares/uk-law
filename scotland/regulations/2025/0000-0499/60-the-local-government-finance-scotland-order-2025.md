@@ -45,15 +45,15 @@ In accordance with paragraph 2(2) of that schedule, they have consulted with suc
 
 In accordance with paragraph 2(3) of that schedule[^f00002], a draft of this Order has been laid before, and approved by resolution of, the Scottish Parliament.
 
-## 1. Citation and Commencement[^key-2c6bceda583e399a4d5bd847fedd9e0d]
+## 1. Citation and Commencement[^c-2c6bceda583e399a4d5bd847fedd9e0d]
 
 This Order may be cited as the Local Government Finance (Scotland) Order 2025 and comes into force on the day after the day on which it is made.
 
-## 2. Revenue support grant for 2025-2026[^key-677434ea9bc83f2c2278e1c93937ae31]
+## 2. Revenue support grant for 2025-2026[^c-677434ea9bc83f2c2278e1c93937ae31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Distribution of non-domestic rate income for 2025-2026[^key-855024a06a992fa5c5025bc5aad044bd]
+## 3. Distribution of non-domestic rate income for 2025-2026[^c-855024a06a992fa5c5025bc5aad044bd]
 
 (1) The distributable amount of non-domestic rate income arrived at under paragraph 9 of schedule 12 of the Local Government Finance Act 1992 in respect of the financial year 2025-2026 is £3,114,000,000.
 
@@ -61,13 +61,13 @@ This Order may be cited as the Local Government Finance (Scotland) Order 2025 an
 
 (3) The amount of non-domestic rate income distributed to each local authority specified in column 1 of schedule 1 in respect of the financial year 2025-2026 is the amount set out in column 3 of that schedule opposite the name of that local authority.
 
-## 4. Revenue support grant for 2024-2025 – redetermination[^key-f8ced8bf020f45657bc5a09e69b306a8]
+## 4. Revenue support grant for 2024-2025 – redetermination[^c-f8ced8bf020f45657bc5a09e69b306a8]
 
 (1) The local authorities to which revenue support grant is payable in respect of the financial year 2024-2025 are specified in column 1 of schedule 2.
 
 (2) The amount of revenue support grant payable to each local authority specified in column 1 of schedule 2 in respect of the financial year 2024-2025 is the amount set out in column 2 of that schedule opposite the name of that local authority.
 
-## 5. Revocations[^key-1787f8d8368af0f7698d2459266c49e1]
+## 5. Revocations[^c-1787f8d8368af0f7698d2459266c49e1]
 
 Article 2 and column 2 of schedule 1 of the Local Government Finance (Scotland) Order 2024[^f00003] are revoked.
 
@@ -81,11 +81,11 @@ Edinburgh
 
 5th March 2025
 
-## SCHEDULE 1 — REVENUE SUPPORT GRANT AND DISTRIBUTION OF NON‑DOMESTIC RATE INCOME 2025-2026[^key-c9bd078fd80e7d7b9687fe6a562ecb0c]
+## SCHEDULE 1 — REVENUE SUPPORT GRANT AND DISTRIBUTION OF NON‑DOMESTIC RATE INCOME 2025-2026[^c-c9bd078fd80e7d7b9687fe6a562ecb0c]
 
 Articles 2 and 3
 
-| *Column 1*<br>*Local authority* | *[^key-978162d14af6eafa7a13c5747e81a7b9]...* | *Column 3*<br>*Amount of non-domestic rate income*<br>*£m* |
+| *Column 1*<br>*Local authority* | *[^c-978162d14af6eafa7a13c5747e81a7b9]...* | *Column 3*<br>*Amount of non-domestic rate income*<br>*£m* |
 | --- | --- | --- |
 | Aberdeen City | ... | 200.361 |
 | Aberdeenshire | ... | 130.389 |
@@ -121,7 +121,7 @@ Articles 2 and 3
 | West Lothian | ... | 98.011 |
 | *Scotland Total* | ... | 3,114.000 |
 
-## SCHEDULE 2 — REVENUE SUPPORT GRANT 2024-2025[^key-bc0febc63f6c2005ae3913c76209289e]
+## SCHEDULE 2 — REVENUE SUPPORT GRANT 2024-2025[^c-bc0febc63f6c2005ae3913c76209289e]
 
 Article 4
 
@@ -178,20 +178,20 @@ This Order–
 
 [^f00002]: Footnote: Paragraph 2(3) has been modified by section 118(2) of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) and paragraph 6 of schedule 3 of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-2c6bceda583e399a4d5bd847fedd9e0d]: Commencement: Art. 1 in force at 6.3.2025, see [art. 1](https://www.legislation.gov.uk/ssi/2025/60/article/1)
+[^c-2c6bceda583e399a4d5bd847fedd9e0d]: Commencement: Art. 1 in force at 6.3.2025, see [art. 1](https://www.legislation.gov.uk/ssi/2025/60/article/1)
 
-[^key-677434ea9bc83f2c2278e1c93937ae31]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/ssi/2025/60/article/2) revoked (4.3.2026) by [The Local Government Finance (Scotland) Order 2026 (S.S.I. 2026/118)](https://www.legislation.gov.uk/ssi/2026/118), [arts. 1](https://www.legislation.gov.uk/ssi/2026/118/article/1), [5](https://www.legislation.gov.uk/ssi/2026/118/article/5)
+[^c-677434ea9bc83f2c2278e1c93937ae31]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/ssi/2025/60/article/2) revoked (4.3.2026) by [The Local Government Finance (Scotland) Order 2026 (S.S.I. 2026/118)](https://www.legislation.gov.uk/ssi/2026/118), [arts. 1](https://www.legislation.gov.uk/ssi/2026/118/article/1), [5](https://www.legislation.gov.uk/ssi/2026/118/article/5)
 
-[^key-855024a06a992fa5c5025bc5aad044bd]: Commencement: Art. 3 in force at 6.3.2025, see [art. 1](https://www.legislation.gov.uk/ssi/2025/60/article/1)
+[^c-855024a06a992fa5c5025bc5aad044bd]: Commencement: Art. 3 in force at 6.3.2025, see [art. 1](https://www.legislation.gov.uk/ssi/2025/60/article/1)
 
-[^key-f8ced8bf020f45657bc5a09e69b306a8]: Commencement: Art. 4 in force at 6.3.2025, see [art. 1](https://www.legislation.gov.uk/ssi/2025/60/article/1)
+[^c-f8ced8bf020f45657bc5a09e69b306a8]: Commencement: Art. 4 in force at 6.3.2025, see [art. 1](https://www.legislation.gov.uk/ssi/2025/60/article/1)
 
-[^key-1787f8d8368af0f7698d2459266c49e1]: Commencement: Art. 5 in force at 6.3.2025, see [art. 1](https://www.legislation.gov.uk/ssi/2025/60/article/1)
+[^c-1787f8d8368af0f7698d2459266c49e1]: Commencement: Art. 5 in force at 6.3.2025, see [art. 1](https://www.legislation.gov.uk/ssi/2025/60/article/1)
 
 [^f00003]: Footnote: [S.S.I. 2024/71](https://www.legislation.gov.uk/ssi/2024/71).
 
-[^key-c9bd078fd80e7d7b9687fe6a562ecb0c]: Commencement: Sch. 1 in force at 6.3.2025, see [art. 1](https://www.legislation.gov.uk/ssi/2025/60/article/1)
+[^c-c9bd078fd80e7d7b9687fe6a562ecb0c]: Commencement: Sch. 1 in force at 6.3.2025, see [art. 1](https://www.legislation.gov.uk/ssi/2025/60/article/1)
 
-[^key-978162d14af6eafa7a13c5747e81a7b9]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2025/60/schedule/1) revoked (4.3.2026) by [The Local Government Finance (Scotland) Order 2026 (S.S.I. 2026/118)](https://www.legislation.gov.uk/ssi/2026/118), [arts. 1](https://www.legislation.gov.uk/ssi/2026/118/article/1), [5](https://www.legislation.gov.uk/ssi/2026/118/article/5)
+[^c-978162d14af6eafa7a13c5747e81a7b9]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2025/60/schedule/1) revoked (4.3.2026) by [The Local Government Finance (Scotland) Order 2026 (S.S.I. 2026/118)](https://www.legislation.gov.uk/ssi/2026/118), [arts. 1](https://www.legislation.gov.uk/ssi/2026/118/article/1), [5](https://www.legislation.gov.uk/ssi/2026/118/article/5)
 
-[^key-bc0febc63f6c2005ae3913c76209289e]: Commencement: Sch. 2 in force at 6.3.2025, see [art. 1](https://www.legislation.gov.uk/ssi/2025/60/article/1)
+[^c-bc0febc63f6c2005ae3913c76209289e]: Commencement: Sch. 2 in force at 6.3.2025, see [art. 1](https://www.legislation.gov.uk/ssi/2025/60/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Use of existing works at Surrey Canal Road[^key-094c1f2bd6c4f616add31bc7f40a3056]
+## 13. Use of existing works at Surrey Canal Road[^c-094c1f2bd6c4f616add31bc7f40a3056]
 
 *Extent: E+W+S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-094c1f2bd6c4f616add31bc7f40a3056]: Commencement: Art. 13 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-094c1f2bd6c4f616add31bc7f40a3056]: Commencement: Art. 13 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
 [^f00014]: Footnote: [1865 c. li](https://www.legislation.gov.uk/ukla/1865/51).

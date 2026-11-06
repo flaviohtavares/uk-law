@@ -128,7 +128,7 @@ A person, other than an authorised person or a person acting under the direction
 
 (2) A person guilty of an offence under paragraph (1) is liable—
 
-- (a) on summary conviction, to a fine not exceeding the statutory maximum[^key-d6f7ad1714decc47e9a53a38a81201f6] ; or
+- (a) on summary conviction, to a fine not exceeding the statutory maximum[^c-d6f7ad1714decc47e9a53a38a81201f6] ; or
 - (b) on conviction on indictment, to imprisonment for a term not exceeding two years, or to a fine, or both.
 
 ## PART 3 — Removal and Disposal of Vehicles
@@ -272,7 +272,7 @@ A person who fails to comply within a reasonable time with a direction under reg
 
 (2) A person guilty of an offence under paragraph (1) is liable—
 
-- (a) on summary conviction, to a fine not exceeding the statutory maximum[^key-2ee4c5aac92741586125de9511367eb4] ; or
+- (a) on summary conviction, to a fine not exceeding the statutory maximum[^c-2ee4c5aac92741586125de9511367eb4] ; or
 - (b) on conviction on indictment, to imprisonment for a term not exceeding two years, or to a fine, or both.
 
 ## PART 4 — General
@@ -281,7 +281,7 @@ A person who fails to comply within a reasonable time with a direction under reg
 
 (1) A person may apply to the court of summary jurisdiction on the grounds that the authorised person, or persons acting under his direction, did not comply with any of the requirements of regulation 4(1), 9, 10(1), 11, 12, or 13 (“the specified requirements”).
 
-(2) If a court of summary jurisdiction[^key-1474c7541188d520de25df8152b76722] finds that an authorised person, or person acting under his direction did not comply with any of the specified requirements, it may order the Department to pay a sum to the person applying to the court to reflect any financial loss directly attributable to that failure to comply.
+(2) If a court of summary jurisdiction[^c-1474c7541188d520de25df8152b76722] finds that an authorised person, or person acting under his direction did not comply with any of the specified requirements, it may order the Department to pay a sum to the person applying to the court to reflect any financial loss directly attributable to that failure to comply.
 
 ### 21. Application of Road Traffic Offenders (Northern Ireland) Order 1996
 
@@ -336,8 +336,8 @@ The Department of the Environment has produced an Explanatory Memorandum and a R
 
 [^c21166461]: Marginal citation: S.R. [1993 No.202](https://www.legislation.gov.uk/ukcm/1993/202); [Article 3A](https://www.legislation.gov.uk/nisr/2012/19/article/3A) was inserted by regulation 2(2) of S.R. [2010 No.45](https://www.legislation.gov.uk/ukcm/2010/45)
 
-[^key-d6f7ad1714decc47e9a53a38a81201f6]: Textual amendment: Words in [reg. 8(2)(a)](https://www.legislation.gov.uk/nisr/2012/19/regulation/8/2/a) substituted (23.4.2012) by [The Road Traffic (Immobilisation, Removal and Disposal of Vehicles) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/146)](https://www.legislation.gov.uk/nisr/2012/146), [regs. 1](https://www.legislation.gov.uk/nisr/2012/146/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2012/146/regulation/2/2)
+[^c-d6f7ad1714decc47e9a53a38a81201f6]: Textual amendment: Words in [reg. 8(2)(a)](https://www.legislation.gov.uk/nisr/2012/19/regulation/8/2/a) substituted (23.4.2012) by [The Road Traffic (Immobilisation, Removal and Disposal of Vehicles) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/146)](https://www.legislation.gov.uk/nisr/2012/146), [regs. 1](https://www.legislation.gov.uk/nisr/2012/146/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2012/146/regulation/2/2)
 
-[^key-2ee4c5aac92741586125de9511367eb4]: Textual amendment: Words in [reg. 19(2)(a)](https://www.legislation.gov.uk/nisr/2012/19/regulation/19/2/a) substituted (23.4.2012) by [The Road Traffic (Immobilisation, Removal and Disposal of Vehicles) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/146)](https://www.legislation.gov.uk/nisr/2012/146), [regs. 1](https://www.legislation.gov.uk/nisr/2012/146/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2012/146/regulation/2/2)
+[^c-2ee4c5aac92741586125de9511367eb4]: Textual amendment: Words in [reg. 19(2)(a)](https://www.legislation.gov.uk/nisr/2012/19/regulation/19/2/a) substituted (23.4.2012) by [The Road Traffic (Immobilisation, Removal and Disposal of Vehicles) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/146)](https://www.legislation.gov.uk/nisr/2012/146), [regs. 1](https://www.legislation.gov.uk/nisr/2012/146/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2012/146/regulation/2/2)
 
-[^key-1474c7541188d520de25df8152b76722]: Textual amendment: Words in [reg. 20(2)](https://www.legislation.gov.uk/nisr/2012/19/regulation/20/2) substituted (23.4.2012) by [The Road Traffic (Immobilisation, Removal and Disposal of Vehicles) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/146)](https://www.legislation.gov.uk/nisr/2012/146), [regs. 1](https://www.legislation.gov.uk/nisr/2012/146/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2012/146/regulation/2/3)
+[^c-1474c7541188d520de25df8152b76722]: Textual amendment: Words in [reg. 20(2)](https://www.legislation.gov.uk/nisr/2012/19/regulation/20/2) substituted (23.4.2012) by [The Road Traffic (Immobilisation, Removal and Disposal of Vehicles) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/146)](https://www.legislation.gov.uk/nisr/2012/146), [regs. 1](https://www.legislation.gov.uk/nisr/2012/146/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2012/146/regulation/2/3)

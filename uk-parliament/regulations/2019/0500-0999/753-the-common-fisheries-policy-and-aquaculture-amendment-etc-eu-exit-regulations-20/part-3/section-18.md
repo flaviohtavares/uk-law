@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Commission Implementing Regulation (EU) No 737/2012 on the protection of certain stocks in the Celtic Sea[^key-147f78e4f12a8846af0702e962b4b6d8]
+## 18. Commission Implementing Regulation (EU) No 737/2012 on the protection of certain stocks in the Celtic Sea[^c-147f78e4f12a8846af0702e962b4b6d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-147f78e4f12a8846af0702e962b4b6d8]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-147f78e4f12a8846af0702e962b4b6d8]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

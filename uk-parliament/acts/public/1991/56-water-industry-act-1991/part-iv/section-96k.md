@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96K. Powers to amend sections 96D and 96F[^key-a8a5e2a2b4a25a09e682382b8ac7078b]
+## 96K. Powers to amend sections 96D and 96F[^c-a8a5e2a2b4a25a09e682382b8ac7078b]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8a5e2a2b4a25a09e682382b8ac7078b]: Textual amendment: Ss. 96B-96N inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 168(1)](https://www.legislation.gov.uk/ukpga/2023/55/section/168/1), [255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-a8a5e2a2b4a25a09e682382b8ac7078b]: Textual amendment: Ss. 96B-96N inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 168(1)](https://www.legislation.gov.uk/ukpga/2023/55/section/168/1), [255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Establishment[^key-6945070f8f6351a34a50eec56181db72]
+## 3. Establishment[^c-6945070f8f6351a34a50eec56181db72]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6945070f8f6351a34a50eec56181db72]: Commencement: Art. 3 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-6945070f8f6351a34a50eec56181db72]: Commencement: Art. 3 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)

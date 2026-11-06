@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Additional expenses[^key-eca70a857fa68245454cd2def360a535]
+## 38. Additional expenses[^c-eca70a857fa68245454cd2def360a535]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eca70a857fa68245454cd2def360a535]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2024/1/section/38) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-eca70a857fa68245454cd2def360a535]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2024/1/section/38) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

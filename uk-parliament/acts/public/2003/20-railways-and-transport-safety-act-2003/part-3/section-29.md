@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Terms of employment[^key-a00ec78943d670aa9c9aab7299f6f45d]
+## 29. Terms of employment[^c-a00ec78943d670aa9c9aab7299f6f45d]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a00ec78943d670aa9c9aab7299f6f45d]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2003/20/section/29) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(l)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/l)
+[^c-a00ec78943d670aa9c9aab7299f6f45d]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2003/20/section/29) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(l)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/l)

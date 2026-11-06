@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Proceedings in respect of statutory nuisance[^key-dd1ddc021ac28d4e16261d77ae0afbe0]
+## 50. Proceedings in respect of statutory nuisance[^c-dd1ddc021ac28d4e16261d77ae0afbe0]
 
 *Extent: E+W+S*
 
@@ -34,7 +34,7 @@ shall not apply where the consent relates to the use of premises by the undertak
 
 ## Annotations
 
-[^key-dd1ddc021ac28d4e16261d77ae0afbe0]: Commencement: Art. 50 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-dd1ddc021ac28d4e16261d77ae0afbe0]: Commencement: Art. 50 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
 
 [^f00030]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Enforcement[^key-c0ceb56cbc17063bc3636a2ae9bf5860]
+## 36. Enforcement[^c-c0ceb56cbc17063bc3636a2ae9bf5860]
 
 *Extent: N.I.*
 
@@ -77,6 +77,6 @@ and the reference to an inspector in Article 25(5) and (6) of that Order has eff
 
 ## Annotations
 
-[^key-c0ceb56cbc17063bc3636a2ae9bf5860]: Commencement: Reg. 36 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-c0ceb56cbc17063bc3636a2ae9bf5860]: Commencement: Reg. 36 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
 [^f00035]: Footnote: OJ No. L 302, 22.10.14, p. 1

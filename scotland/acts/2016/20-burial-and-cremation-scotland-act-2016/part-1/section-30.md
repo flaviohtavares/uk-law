@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Exhumation register[^key-a2e16cbb4bd68e61226a6de0ec2e5f50]
+## 30. Exhumation register[^c-a2e16cbb4bd68e61226a6de0ec2e5f50]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2e16cbb4bd68e61226a6de0ec2e5f50]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2016/20/section/30) in force at 2.6.2023 for specified purposes by [S.S.I. 2023/145](https://www.legislation.gov.uk/ssi/2023/145), [reg. 2](https://www.legislation.gov.uk/ssi/2023/145/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/145/schedule)
+[^c-a2e16cbb4bd68e61226a6de0ec2e5f50]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2016/20/section/30) in force at 2.6.2023 for specified purposes by [S.S.I. 2023/145](https://www.legislation.gov.uk/ssi/2023/145), [reg. 2](https://www.legislation.gov.uk/ssi/2023/145/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/145/schedule)

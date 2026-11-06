@@ -43,7 +43,7 @@ Coming into force
 
 19th October 2001
 
-The Secretary of State, being a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 *(affected by repeal, see note)*[^key-b02c6c6597523a3fdb3eabd08685d2a6][^f00001] in relation to measures relating to energy labelling and standard product information for household products *(affected by repeal, see note)*[^key-b02c6c6597523a3fdb3eabd08685d2a6][^f00002] and in relation to measures relating to energy efficiency and performance requirements for products *(affected by repeal, see note)*[^key-b02c6c6597523a3fdb3eabd08685d2a6] [^f00003], in exercise of the powers conferred by section 2(2) of that Act and of all other powers enabling her in that behalf, hereby makes the following Regulations: *(affected by repeal, see note)*[^key-b02c6c6597523a3fdb3eabd08685d2a6]
+The Secretary of State, being a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 *(affected by repeal, see note)*[^c-b02c6c6597523a3fdb3eabd08685d2a6][^f00001] in relation to measures relating to energy labelling and standard product information for household products *(affected by repeal, see note)*[^c-b02c6c6597523a3fdb3eabd08685d2a6][^f00002] and in relation to measures relating to energy efficiency and performance requirements for products *(affected by repeal, see note)*[^c-b02c6c6597523a3fdb3eabd08685d2a6] [^f00003], in exercise of the powers conferred by section 2(2) of that Act and of all other powers enabling her in that behalf, hereby makes the following Regulations: *(affected by repeal, see note)*[^c-b02c6c6597523a3fdb3eabd08685d2a6]
 
 ## PART 1 — GENERAL
 
@@ -160,7 +160,7 @@ Schedule 6 (offences, enforcement and other matters) to the Refrigerators and Fr
 
 ## PART 3 — AMENDMENTS TO THE ENERGY EFFICIENCY (REFRIGERATORS AND FREEZERS) REGULATIONS 1997
 
-**11.**[^key-bbba5565e9e5e96bbad8276a0b4464a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-bbba5565e9e5e96bbad8276a0b4464a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Signed by authority of the Secretary of State for Environment, Food and Rural Affairs
 
@@ -196,7 +196,7 @@ Regulation 11 amends the Energy Efficiency (Refrigerators and Freezers) Regulati
 
 ## Annotations
 
-[^key-b02c6c6597523a3fdb3eabd08685d2a6]: Textual amendment: Regulations revoked (in part) (1.7.2004) by [The Energy Information (Household Refrigerators and Freezers) Regulations 2004 (S.I. 2004/1468)](https://www.legislation.gov.uk/uksi/2004/1468), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1468/regulation/1), [17(1)](https://www.legislation.gov.uk/uksi/2004/1468/regulation/17/1) (with [regs. 16](https://www.legislation.gov.uk/uksi/2004/1468/regulation/16), [17(2)](https://www.legislation.gov.uk/uksi/2004/1468/regulation/17/2))
+[^c-b02c6c6597523a3fdb3eabd08685d2a6]: Textual amendment: Regulations revoked (in part) (1.7.2004) by [The Energy Information (Household Refrigerators and Freezers) Regulations 2004 (S.I. 2004/1468)](https://www.legislation.gov.uk/uksi/2004/1468), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1468/regulation/1), [17(1)](https://www.legislation.gov.uk/uksi/2004/1468/regulation/17/1) (with [regs. 16](https://www.legislation.gov.uk/uksi/2004/1468/regulation/16), [17(2)](https://www.legislation.gov.uk/uksi/2004/1468/regulation/17/2))
 
 [^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
@@ -220,4 +220,4 @@ Regulation 11 amends the Energy Efficiency (Refrigerators and Freezers) Regulati
 
 [^f00011]: Footnote: OJ No. L217 5.8.98. p. 18.
 
-[^key-bbba5565e9e5e96bbad8276a0b4464a7]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2001/3142/regulation/11) revoked (11.8.2007) by [The Ecodesign for Energy-Using Products Regulations 2007 (S.I. 2007/2037)](https://www.legislation.gov.uk/uksi/2007/2037), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2037/regulation/1), [28](https://www.legislation.gov.uk/uksi/2007/2037/regulation/28), [Sch. 10](https://www.legislation.gov.uk/uksi/2007/2037/schedule/10)
+[^c-bbba5565e9e5e96bbad8276a0b4464a7]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2001/3142/regulation/11) revoked (11.8.2007) by [The Ecodesign for Energy-Using Products Regulations 2007 (S.I. 2007/2037)](https://www.legislation.gov.uk/uksi/2007/2037), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2037/regulation/1), [28](https://www.legislation.gov.uk/uksi/2007/2037/regulation/28), [Sch. 10](https://www.legislation.gov.uk/uksi/2007/2037/schedule/10)

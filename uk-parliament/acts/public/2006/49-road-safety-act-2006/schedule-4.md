@@ -24,7 +24,7 @@ Section 11
 
 ### Cases to which regulations may apply
 
-**1.**[^key-7d16b8af73a315d2b12a4508a2d6771f] The Secretary of State may make regulations with respect to any case where, on or after such date as may be prescribed, the driving of a vehicle has been prohibited under—
+**1.**[^c-7d16b8af73a315d2b12a4508a2d6771f] The Secretary of State may make regulations with respect to any case where, on or after such date as may be prescribed, the driving of a vehicle has been prohibited under—
 
 - (a) section 99A(1) of the Transport Act 1968 (c. 73) (powers to prohibit driving of vehicles in connection with contravention of provisions about drivers' hours),
 - (b) section 1 of the Road Traffic (Foreign Vehicles) Act 1972 (c. 27) (powers to prohibit driving of foreign goods vehicles and foreign public service vehicles),
@@ -33,7 +33,7 @@ Section 11
 
 ### Immobilisation
 
-**2.**[^key-22c0e019d662e538dc84524174301cc4] (1) The regulations may provide that an authorised person or a person acting under his direction may—
+**2.**[^c-22c0e019d662e538dc84524174301cc4] (1) The regulations may provide that an authorised person or a person acting under his direction may—
 
 - (a) fix an immobilisation device to the vehicle, and
 - (b) move the vehicle, or direct it to be moved, for the purpose of enabling an immobilisation device to be fitted it.
@@ -64,7 +64,7 @@ and “**disabled person's badge**” means a badge issued, or having effect as 
 
 ### Offences connected with immobilisation etc.
 
-**3.**[^key-63dbb422123033a3287743a5fa2cfb93] (1) The regulations may provide that a person who fails to comply within a reasonable time with a direction under provision made under paragraph 2(1)(b) is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+**3.**[^c-63dbb422123033a3287743a5fa2cfb93] (1) The regulations may provide that a person who fails to comply within a reasonable time with a direction under provision made under paragraph 2(1)(b) is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
 (2) The regulations may provide that a person contravening provision made under paragraph 2(7) is guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
 
@@ -92,7 +92,7 @@ he is guilty of an offence.
 
 ### Removal and disposal of vehicles
 
-**4.**[^key-0967af18f9836b917ac7797ee45b07ec] (1) The regulations may provide that where such conditions as may be prescribed are fulfilled an authorised person, or a person acting under his direction, may remove the vehicle or direct it to be removed.
+**4.**[^c-0967af18f9836b917ac7797ee45b07ec] (1) The regulations may provide that where such conditions as may be prescribed are fulfilled an authorised person, or a person acting under his direction, may remove the vehicle or direct it to be removed.
 
 (2) The regulations may provide that where such conditions as may be prescribed are fulfilled an authorised person, or a person acting under his direction, may deliver the vehicle, or direct it to be delivered, into the custody of a person—
 
@@ -141,7 +141,7 @@ may recover from the vehicle's owner or the person in charge of the vehicle such
 
 ### Offences as to securing possession of vehicles
 
-**5.**[^key-e14f22b5ee26a121d8222c91d41b8a5c] (1) The regulations may provide that a person who fails to comply within a reasonable time with a direction under provision made under sub-paragraph (1) or (2) of paragraph 4 is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+**5.**[^c-e14f22b5ee26a121d8222c91d41b8a5c] (1) The regulations may provide that a person who fails to comply within a reasonable time with a direction under provision made under sub-paragraph (1) or (2) of paragraph 4 is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
 (2) The regulations may provide that where—
 
@@ -158,27 +158,27 @@ he is guilty of an offence.
 
 ### Disputes
 
-**6.**[^key-37cf62804e6efe4d56eb142c5e9c4291] The regulations may make provision about the proceedings to be followed where a dispute occurs as a result of the regulations, and may in particular make provision—
+**6.**[^c-37cf62804e6efe4d56eb142c5e9c4291] The regulations may make provision about the proceedings to be followed where a dispute occurs as a result of the regulations, and may in particular make provision—
 
 - (a) for an application to be made to a magistrates' court or (in Scotland) to the sheriff, or
 - (b) for a court to order a sum to be paid by the Secretary of State.
 
 ### Authorised persons
 
-**7.**[^key-fe22d4cb8429eaaf01f44abaf6c16db7] As regards anything falling to be done under the regulations (such as receiving payment of a charge or other sum) the regulations may provide that it may be done—
+**7.**[^c-fe22d4cb8429eaaf01f44abaf6c16db7] As regards anything falling to be done under the regulations (such as receiving payment of a charge or other sum) the regulations may provide that it may be done—
 
 - (a) by an authorised person, or
 - (b) by an authorised person or a person acting under his direction.
 
 ### Application of Road Traffic Offenders Act 1988 (c. 53)
 
-**8.**[^key-865e82de86797aee2c46ac29a790a2e9] The regulations may make provision for the application of any or all of sections 1, 6, 11 and 12(1) of the Road Traffic Offenders Act 1988 to an offence for which provision is made by the regulations.
+**8.**[^c-865e82de86797aee2c46ac29a790a2e9] The regulations may make provision for the application of any or all of sections 1, 6, 11 and 12(1) of the Road Traffic Offenders Act 1988 to an offence for which provision is made by the regulations.
 
 ### Interpretation
 
-**9.**[^key-ff55ead3f5607505fcae9ce04ad93053] References in this Schedule to a vehicle include references to any trailer drawn by the vehicle.
+**9.**[^c-ff55ead3f5607505fcae9ce04ad93053] References in this Schedule to a vehicle include references to any trailer drawn by the vehicle.
 
-**10.**[^key-d2f8c44ac7e2159a93afe3b2ee0d5a1d] (1) This paragraph makes provision about the meaning of “**authorised person**” for the purposes of this Schedule.
+**10.**[^c-d2f8c44ac7e2159a93afe3b2ee0d5a1d] (1) This paragraph makes provision about the meaning of “**authorised person**” for the purposes of this Schedule.
 
 (2) Where the driving of the vehicle has been prohibited under section 99A(1) of the Transport Act 1968 (c. 73), section 1(2) of the Road Traffic (Foreign Vehicles) Act 1972 (c. 27) or section 69 of the Road Traffic Act 1988 (c. 52), “**authorised person**” means—
 
@@ -197,49 +197,49 @@ he is guilty of an offence.
 - (a) an examiner appointed by the Secretary of State under section 66A of the Road Traffic Act 1988, or
 - (b) a constable.
 
-**11.**[^key-d9c6a8cd27fc687a75092668c8efbcd2] In this Schedule—
+**11.**[^c-d9c6a8cd27fc687a75092668c8efbcd2] In this Schedule—
 
 - (a) references to an immobilisation device are to a device or appliance which is an immobilisation device for the purposes of section 104 of the Road Traffic Regulation Act 1984 (c. 27) (immobilisation of vehicles illegally parked), and
 - (b) references to an immobilisation notice are to a notice fixed to a vehicle in accordance with the regulations.
 
-**12.**[^key-229451a464217a49494d172510c473bf] In this Schedule “**prescribed**” means prescribed by the regulations.
+**12.**[^c-229451a464217a49494d172510c473bf] In this Schedule “**prescribed**” means prescribed by the regulations.
 
-**13.**[^key-427a956028943ae7090fe1ae0fe01469] (1) The regulations may make provision as to the meaning for the purposes of the regulations of “owner” as regards a vehicle.
+**13.**[^c-427a956028943ae7090fe1ae0fe01469] (1) The regulations may make provision as to the meaning for the purposes of the regulations of “owner” as regards a vehicle.
 
 (2) In particular, the regulations may provide that for the purposes of the regulations the owner of a vehicle is taken to be the person in whose name it is then registered under the Vehicle Excise and Registration Act 1994 (c. 22).
 
 ### Supplementary provisions about regulations
 
-**14.**[^key-2882e3a049ded3a276094de209dc7c2b] (1) The power to make regulations under this Schedule is exercisable by statutory instrument.
+**14.**[^c-2882e3a049ded3a276094de209dc7c2b] (1) The power to make regulations under this Schedule is exercisable by statutory instrument.
 
 (2) A statutory instrument containing regulations under this Schedule is subject to annulment in pursuance of a resolution of either House of Parliament.
 
 ## Annotations
 
-[^key-7d16b8af73a315d2b12a4508a2d6771f]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2006/49/schedule/4/paragraph/1) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
+[^c-7d16b8af73a315d2b12a4508a2d6771f]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2006/49/schedule/4/paragraph/1) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
 
-[^key-22c0e019d662e538dc84524174301cc4]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2006/49/schedule/4/paragraph/2) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
+[^c-22c0e019d662e538dc84524174301cc4]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2006/49/schedule/4/paragraph/2) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
 
-[^key-63dbb422123033a3287743a5fa2cfb93]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2006/49/schedule/4/paragraph/3) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
+[^c-63dbb422123033a3287743a5fa2cfb93]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2006/49/schedule/4/paragraph/3) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
 
-[^key-0967af18f9836b917ac7797ee45b07ec]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/4/paragraph/4) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
+[^c-0967af18f9836b917ac7797ee45b07ec]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/4/paragraph/4) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
 
-[^key-e14f22b5ee26a121d8222c91d41b8a5c]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2006/49/schedule/4/paragraph/5) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
+[^c-e14f22b5ee26a121d8222c91d41b8a5c]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2006/49/schedule/4/paragraph/5) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
 
-[^key-37cf62804e6efe4d56eb142c5e9c4291]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2006/49/schedule/4/paragraph/6) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
+[^c-37cf62804e6efe4d56eb142c5e9c4291]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2006/49/schedule/4/paragraph/6) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
 
-[^key-fe22d4cb8429eaaf01f44abaf6c16db7]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2006/49/schedule/4/paragraph/7) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
+[^c-fe22d4cb8429eaaf01f44abaf6c16db7]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2006/49/schedule/4/paragraph/7) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
 
-[^key-865e82de86797aee2c46ac29a790a2e9]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2006/49/schedule/4/paragraph/8) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
+[^c-865e82de86797aee2c46ac29a790a2e9]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2006/49/schedule/4/paragraph/8) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
 
-[^key-ff55ead3f5607505fcae9ce04ad93053]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2006/49/schedule/4/paragraph/9) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
+[^c-ff55ead3f5607505fcae9ce04ad93053]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2006/49/schedule/4/paragraph/9) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
 
-[^key-d2f8c44ac7e2159a93afe3b2ee0d5a1d]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2006/49/schedule/4/paragraph/10) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
+[^c-d2f8c44ac7e2159a93afe3b2ee0d5a1d]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2006/49/schedule/4/paragraph/10) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
 
-[^key-d9c6a8cd27fc687a75092668c8efbcd2]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2006/49/schedule/4/paragraph/11) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
+[^c-d9c6a8cd27fc687a75092668c8efbcd2]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2006/49/schedule/4/paragraph/11) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
 
-[^key-229451a464217a49494d172510c473bf]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2006/49/schedule/4/paragraph/12) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
+[^c-229451a464217a49494d172510c473bf]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2006/49/schedule/4/paragraph/12) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
 
-[^key-427a956028943ae7090fe1ae0fe01469]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2006/49/schedule/4/paragraph/13) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
+[^c-427a956028943ae7090fe1ae0fe01469]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2006/49/schedule/4/paragraph/13) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
 
-[^key-2882e3a049ded3a276094de209dc7c2b]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2006/49/schedule/4/paragraph/14) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
+[^c-2882e3a049ded3a276094de209dc7c2b]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2006/49/schedule/4/paragraph/14) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)

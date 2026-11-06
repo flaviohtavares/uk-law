@@ -45,15 +45,15 @@ Coming into force
 
 The Welsh Ministers make the following Regulations in exercise of the powers conferred on them by sections 14(3) and (6), 46(4) and 94(1) of the Landfill Disposals Tax (Wales) Act 2017 [^c23972911].
 
-## 1. Title and commencement[^key-7dae2d258f4c2bfc2366e81571da1c7d]
+## 1. Title and commencement[^c-7dae2d258f4c2bfc2366e81571da1c7d]
 
 The title of these Regulations is the Landfill Disposals Tax (Tax Rates) (Wales) (Amendment) Regulations 2020 and they come into force on 1 April 2020.
 
-## 2. Application[^key-32a667d85078ea25372a4a0ff9124ced]
+## 2. Application[^c-32a667d85078ea25372a4a0ff9124ced]
 
-These Regulations have effect in relation to a taxable disposal (within the meaning of Part 2 of the Landfill Disposals Tax (Wales) Act 2017) made on or after 1 April 2020 but before 1 April 2021[^key-b2ec0db8a0f8c842a359b7cfae1eb092].
+These Regulations have effect in relation to a taxable disposal (within the meaning of Part 2 of the Landfill Disposals Tax (Wales) Act 2017) made on or after 1 April 2020 but before 1 April 2021[^c-b2ec0db8a0f8c842a359b7cfae1eb092].
 
-## 3. Rates of landfill disposals tax[^key-f319a12f59fa468b559207b8f714f0c2]
+## 3. Rates of landfill disposals tax[^c-f319a12f59fa468b559207b8f714f0c2]
 
 The following rates are prescribed in accordance with sections 14(3) and (6), and 46(4) of the Landfill Disposals Tax (Wales) Act 2017 respectively—
 
@@ -61,7 +61,7 @@ The following rates are prescribed in accordance with sections 14(3) and (6), an
 - (b) the lower rate is £3.00 per tonne; and
 - (c) the unauthorised disposals rate is £141.20 per tonne.
 
-## 4. Amendment of the Landfill Disposals Tax (Tax Rates) (Wales) (Amendment) Regulations 2018[^key-7bc2331ae8267cc69804cdc8915bc4a4]
+## 4. Amendment of the Landfill Disposals Tax (Tax Rates) (Wales) (Amendment) Regulations 2018[^c-7bc2331ae8267cc69804cdc8915bc4a4]
 
 In regulation 2 of the Landfill Disposals Tax (Tax Rates) (Wales) (Amendment) Regulations 2018 [^c23972921], after “1 April 2019” insert “ but before 1 April 2020 ”.
 
@@ -83,14 +83,14 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23972911]: Marginal citation: 2017 anaw 3Cy.246.
 
-[^key-7dae2d258f4c2bfc2366e81571da1c7d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2020/95/regulation/1) in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/wsi/2020/95/regulation/1)
+[^c-7dae2d258f4c2bfc2366e81571da1c7d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2020/95/regulation/1) in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/wsi/2020/95/regulation/1)
 
-[^key-32a667d85078ea25372a4a0ff9124ced]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2020/95/regulation/2) in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/wsi/2020/95/regulation/1)
+[^c-32a667d85078ea25372a4a0ff9124ced]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2020/95/regulation/2) in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/wsi/2020/95/regulation/1)
 
-[^key-b2ec0db8a0f8c842a359b7cfae1eb092]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2020/95/regulation/2) inserted (with effect in accordance with reg. 2 of the amending S.I.) by [The Landfill Disposals Tax (Tax Rates) (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1614)](https://www.legislation.gov.uk/wsi/2020/1614), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1614/regulation/1), [4](https://www.legislation.gov.uk/wsi/2020/1614/regulation/4)
+[^c-b2ec0db8a0f8c842a359b7cfae1eb092]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2020/95/regulation/2) inserted (with effect in accordance with reg. 2 of the amending S.I.) by [The Landfill Disposals Tax (Tax Rates) (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1614)](https://www.legislation.gov.uk/wsi/2020/1614), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1614/regulation/1), [4](https://www.legislation.gov.uk/wsi/2020/1614/regulation/4)
 
-[^key-f319a12f59fa468b559207b8f714f0c2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2020/95/regulation/3) in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/wsi/2020/95/regulation/1)
+[^c-f319a12f59fa468b559207b8f714f0c2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2020/95/regulation/3) in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/wsi/2020/95/regulation/1)
 
-[^key-7bc2331ae8267cc69804cdc8915bc4a4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2020/95/regulation/4) in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/wsi/2020/95/regulation/1)
+[^c-7bc2331ae8267cc69804cdc8915bc4a4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2020/95/regulation/4) in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/wsi/2020/95/regulation/1)
 
 [^c23972921]: Marginal citation: [S.I. 2018/1209](https://www.legislation.gov.uk/uksi/2018/1209) (W. 246).

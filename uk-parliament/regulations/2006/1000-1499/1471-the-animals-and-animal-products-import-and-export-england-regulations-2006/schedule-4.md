@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4 — The Poultry Health Scheme[^key-efec508bd317d4537b18a46347a58bfc]
+## SCHEDULE 4 — The Poultry Health Scheme[^c-efec508bd317d4537b18a46347a58bfc]
 
 *Extent: E+W+S*
 
@@ -24,54 +24,54 @@ summary: ''
 
 Regulations 5(5)
 
-### PART I — MEMBERSHIP[^key-efec508bd317d4537b18a46347a58bfc]
+### PART I — MEMBERSHIP[^c-efec508bd317d4537b18a46347a58bfc]
 
-**1.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — REGISTRATION FEE[^key-efec508bd317d4537b18a46347a58bfc]
+### PART II — REGISTRATION FEE[^c-efec508bd317d4537b18a46347a58bfc]
 
-**1.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — ANNUAL MEMBERSHIP FEE[^key-efec508bd317d4537b18a46347a58bfc]
+### PART III — ANNUAL MEMBERSHIP FEE[^c-efec508bd317d4537b18a46347a58bfc]
 
-**1.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IV — RE-INSPECTION FEE[^key-efec508bd317d4537b18a46347a58bfc]
+### PART IV — RE-INSPECTION FEE[^c-efec508bd317d4537b18a46347a58bfc]
 
-**1.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-efec508bd317d4537b18a46347a58bfc]: Textual amendment: Regulations revoked (25.5.2011) by [The Trade in Animals and Related Products Regulations 2011 (S.I. 2011/1197)](https://www.legislation.gov.uk/uksi/2011/1197), [reg. 44(f)](https://www.legislation.gov.uk/uksi/2011/1197/regulation/44/f) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/1197/regulation/3))
+[^c-efec508bd317d4537b18a46347a58bfc]: Textual amendment: Regulations revoked (25.5.2011) by [The Trade in Animals and Related Products Regulations 2011 (S.I. 2011/1197)](https://www.legislation.gov.uk/uksi/2011/1197), [reg. 44(f)](https://www.legislation.gov.uk/uksi/2011/1197/regulation/44/f) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/1197/regulation/3))

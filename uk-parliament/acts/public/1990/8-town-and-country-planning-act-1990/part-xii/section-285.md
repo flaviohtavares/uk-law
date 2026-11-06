@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 285. Validity of enforcement notices and similar notices.[^c14029891][^key-6bb930b2c79e19e187811886e716df7a][^key-7075597939d0cdfae76b4641325d633e][^c14029881]
+## 285. Validity of enforcement notices and similar notices.[^c14029891][^c-6bb930b2c79e19e187811886e716df7a][^c-7075597939d0cdfae76b4641325d633e][^c14029881]
 
 *Extent: E+W*
 
-(A1)[^key-8ab9891cccd48564469330f28c79935c] The validity of a completion notice under section 93H shall not, except by way of an appeal under section 93I, be questioned in any proceedings whatsoever on any of the grounds on which such an appeal may be brought.
+(A1)[^c-8ab9891cccd48564469330f28c79935c] The validity of a completion notice under section 93H shall not, except by way of an appeal under section 93I, be questioned in any proceedings whatsoever on any of the grounds on which such an appeal may be brought.
 
 (1)[^c14029901] [^c14029911]. . . The validity of an enforcement notice shall not, except by way of an appeal under Part VII, be questioned in any proceedings whatsoever on any of the grounds on which such an appeal may be brought.
 
@@ -48,13 +48,13 @@ summary: ''
 
     Ss. 284-288 modified (1.11.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 96](https://www.legislation.gov.uk/ukpga/1995/25/section/96), [Sch. 14 para. 9(4)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/14/paragraph/9/4) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1995/2765](https://www.legislation.gov.uk/uksi/1995/2765), [art. 2](https://www.legislation.gov.uk/uksi/1995/2765/article/2)
 
-[^key-6bb930b2c79e19e187811886e716df7a]: Modification: [S. 285](https://www.legislation.gov.uk/ukpga/1990/8/section/285) applied (with modifications) (E.) (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [19(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/19/1), [Sch. 4 Pt. 4](https://www.legislation.gov.uk/uksi/2015/627/schedule/4/part/4) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
+[^c-6bb930b2c79e19e187811886e716df7a]: Modification: [S. 285](https://www.legislation.gov.uk/ukpga/1990/8/section/285) applied (with modifications) (E.) (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [19(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/19/1), [Sch. 4 Pt. 4](https://www.legislation.gov.uk/uksi/2015/627/schedule/4/part/4) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
 
-[^key-7075597939d0cdfae76b4641325d633e]: Modification: [S. 285](https://www.legislation.gov.uk/ukpga/1990/8/section/285) applied (with modifications) (W.) (4.9.2015) by [The Planning (Hazardous Substances) (Wales) Regulations 2015 (S.I. 2015/1597)](https://www.legislation.gov.uk/wsi/2015/1597), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/1/1), [20(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/20/1), [Sch. 4 Pt. 3](https://www.legislation.gov.uk/wsi/2015/1597/schedule/4/part/3) (with [reg. 36](https://www.legislation.gov.uk/wsi/2015/1597/regulation/36))
+[^c-7075597939d0cdfae76b4641325d633e]: Modification: [S. 285](https://www.legislation.gov.uk/ukpga/1990/8/section/285) applied (with modifications) (W.) (4.9.2015) by [The Planning (Hazardous Substances) (Wales) Regulations 2015 (S.I. 2015/1597)](https://www.legislation.gov.uk/wsi/2015/1597), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/1/1), [20(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/20/1), [Sch. 4 Pt. 3](https://www.legislation.gov.uk/wsi/2015/1597/schedule/4/part/3) (with [reg. 36](https://www.legislation.gov.uk/wsi/2015/1597/regulation/36))
 
 [^c14029881]: Modification: S. 285: power to modify conferred (11.3.1992 so far as to confer on the Secretary of State a power to impose on him a duty to make regulations, or make provision with respect to the exercise of any such power or duty, 1.6.1992 so far as not already in force) by [Planning (Hazardous Substances) Act 1990 (c. 10, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1990/10), [s. 25(1)(b)](https://www.legislation.gov.uk/ukpga/1990/10/section/25/1/b); [S.I. 1992/725](https://www.legislation.gov.uk/uksi/1992/725), [arts. 2](https://www.legislation.gov.uk/uksi/1992/725/article/2), [3](https://www.legislation.gov.uk/uksi/1992/725/article/3)
 
-[^key-8ab9891cccd48564469330f28c79935c]: Textual amendment: [S. 285(A1)](https://www.legislation.gov.uk/ukpga/1990/8/section/285/A1) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3), [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2023/55/schedule/11/paragraph/8) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-8ab9891cccd48564469330f28c79935c]: Textual amendment: [S. 285(A1)](https://www.legislation.gov.uk/ukpga/1990/8/section/285/A1) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3), [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2023/55/schedule/11/paragraph/8) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
 [^c14029901]: Modification: S. 285(1)(2) applied (with modifications) (27.7.1992) by [S.I. 1992/1562](https://www.legislation.gov.uk/uksi/1992/1562), [reg. 2](https://www.legislation.gov.uk/uksi/1992/1562/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/1992/1562/schedule)
 

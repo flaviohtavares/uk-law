@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Common transit procedure[^key-00ca9c20ab79c323f7781711c6a9f563]
+## 2. Common transit procedure[^c-00ca9c20ab79c323f7781711c6a9f563]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-00ca9c20ab79c323f7781711c6a9f563]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/1258/regulation/2) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-00ca9c20ab79c323f7781711c6a9f563]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/1258/regulation/2) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23714591]: Marginal citation: The Convention has been amended many times 1988 to 2017. These Regulations anticipate the United Kingdom's effective accession to the Convention, and its withdrawal from the EU.
 

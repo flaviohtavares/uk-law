@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.30. File of court proceedings[^key-f86fd831366dea6035639b9c0d8e943d]
+## 7.30. File of court proceedings[^c-f86fd831366dea6035639b9c0d8e943d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f86fd831366dea6035639b9c0d8e943d]: Commencement: [Rule 7.30](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.30) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-f86fd831366dea6035639b9c0d8e943d]: Commencement: [Rule 7.30](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.30) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 178. Transfers[^key-6508de0b08317a8420337f7d8b1e5ff2]
+## 178. Transfers[^c-6508de0b08317a8420337f7d8b1e5ff2]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Sections 124 to 126 of this Act shall apply in relation to a patient whose deten
 
 ## Annotations
 
-[^key-6508de0b08317a8420337f7d8b1e5ff2]: Commencement: S. 178 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-6508de0b08317a8420337f7d8b1e5ff2]: Commencement: S. 178 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

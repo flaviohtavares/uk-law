@@ -33,7 +33,7 @@ summary: ''
 
 and regulations under paragraph (a) above may modify section 53 above.
 
-(5) As regards any case where a person carries on a business of an insurer or taxable intermediary who has died or become bankrupt or incapacitated or been sequestrated, or of an insurer or taxable intermediary which is in liquidation or receivership or administration[^key-045c9d99b67a2535675d909b6a0689a9] , regulations may—
+(5) As regards any case where a person carries on a business of an insurer or taxable intermediary who has died or become bankrupt or incapacitated or been sequestrated, or of an insurer or taxable intermediary which is in liquidation or receivership or administration[^c-045c9d99b67a2535675d909b6a0689a9] , regulations may—
 
 - (a) require the person to inform the Commissioners of the fact that he is carrying on the business and of the event that has led to his carrying it on;
 - (b) make provision allowing the person to be treated for a limited time as if he were the insurer or taxable intermediary;
@@ -52,4 +52,4 @@ but the regulations may provide that no such provision as is mentioned in paragr
 
 [^c14453371]: Textual amendment: Words in s. 62(1)(5) inserted (19.3.1997) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 27(7)](https://www.legislation.gov.uk/ukpga/1997/16/section/27/7)
 
-[^key-045c9d99b67a2535675d909b6a0689a9]: Textual amendment: Word in s. 62(5) substituted (15.9.2003) by [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/23) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))
+[^c-045c9d99b67a2535675d909b6a0689a9]: Textual amendment: Word in s. 62(5) substituted (15.9.2003) by [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/23) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))

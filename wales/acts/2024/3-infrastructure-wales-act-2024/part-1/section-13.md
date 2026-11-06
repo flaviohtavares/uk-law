@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Transfer of water resources[^key-c3eaaeed01688bb73cd4e8b09eb3b0c1]
+## 13. Transfer of water resources[^c-c3eaaeed01688bb73cd4e8b09eb3b0c1]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3eaaeed01688bb73cd4e8b09eb3b0c1]: Commencement: S. 13 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)
+[^c-c3eaaeed01688bb73cd4e8b09eb3b0c1]: Commencement: S. 13 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)

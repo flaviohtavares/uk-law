@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Further implementation requirements for pupils aged 14 to 16[^key-09b90105a0ebcd623fddd8e7d480ef36][^key-b09124191e3c5704f4aa3b6c2f7356cc]
+## 30. Further implementation requirements for pupils aged 14 to 16[^c-09b90105a0ebcd623fddd8e7d480ef36][^c-b09124191e3c5704f4aa3b6c2f7356cc]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-09b90105a0ebcd623fddd8e7d480ef36]: Commencement: [S. 30](https://www.legislation.gov.uk/asc/2021/4/section/30) in force at 1.9.2025 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 8(a)](https://www.legislation.gov.uk/wsi/2022/652/article/8/a)
+[^c-09b90105a0ebcd623fddd8e7d480ef36]: Commencement: [S. 30](https://www.legislation.gov.uk/asc/2021/4/section/30) in force at 1.9.2025 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 8(a)](https://www.legislation.gov.uk/wsi/2022/652/article/8/a)
 
-[^key-b09124191e3c5704f4aa3b6c2f7356cc]: Commencement: [S. 30](https://www.legislation.gov.uk/asc/2021/4/section/30) in force at 1.9.2026 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(a)](https://www.legislation.gov.uk/wsi/2022/652/article/9/a)
+[^c-b09124191e3c5704f4aa3b6c2f7356cc]: Commencement: [S. 30](https://www.legislation.gov.uk/asc/2021/4/section/30) in force at 1.9.2026 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(a)](https://www.legislation.gov.uk/wsi/2022/652/article/9/a)

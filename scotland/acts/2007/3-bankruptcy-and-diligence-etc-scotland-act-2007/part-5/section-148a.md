@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 148A. Register of Inhibitions: electronic signature of documents[^key-c534792502431a13db6d7c6044d364fa]
+## 148A. Register of Inhibitions: electronic signature of documents[^c-c534792502431a13db6d7c6044d364fa]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c534792502431a13db6d7c6044d364fa]: Textual amendment: [S. 148A](https://www.legislation.gov.uk/asp/2007/3/section/148A) inserted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 34(2)](https://www.legislation.gov.uk/asp/2022/8/section/34/2), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1) (with [s. 48(1)(c)](https://www.legislation.gov.uk/asp/2022/8/section/48/1/c)[(2)(c)](https://www.legislation.gov.uk/asp/2022/8/section/48/2/c)[(3)(b)](https://www.legislation.gov.uk/asp/2022/8/section/48/3/b))
+[^c-c534792502431a13db6d7c6044d364fa]: Textual amendment: [S. 148A](https://www.legislation.gov.uk/asp/2007/3/section/148A) inserted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 34(2)](https://www.legislation.gov.uk/asp/2022/8/section/34/2), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1) (with [s. 48(1)(c)](https://www.legislation.gov.uk/asp/2022/8/section/48/1/c)[(2)(c)](https://www.legislation.gov.uk/asp/2022/8/section/48/2/c)[(3)(b)](https://www.legislation.gov.uk/asp/2022/8/section/48/3/b))

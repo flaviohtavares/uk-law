@@ -55,7 +55,7 @@ except as otherwise provided by subsections (7) and (8) below.
 - (a) as respects the conveyance of any freehold interest, conform with the provisions of Schedule 7, and
 - (b) as respects the conveyance of any leasehold interest, conform with the provisions of paragraph 2 of that Schedule (any reference in that paragraph to the freeholder being read as a reference to the person whose leasehold interest is to be conveyed , and with the reference to the covenants for title implied under Part I of the Law of Property (Miscellaneous Provisions) Act 1994 being read as excluding the covenant in section 4(1)(b) of that Act (compliance with terms of lease)[^c17024351]).
 
-(10) Any such conveyance shall in addition contain a statement that it is a conveyance executed for the purposes of this Chapter; and any such statement shall comply with such requirements as may be prescribed by land registration rules under the Land Registration Act 2002[^key-f0c5b372b8ebbc6a37750a66398a982f].
+(10) Any such conveyance shall in addition contain a statement that it is a conveyance executed for the purposes of this Chapter; and any such statement shall comply with such requirements as may be prescribed by land registration rules under the Land Registration Act 2002[^c-f0c5b372b8ebbc6a37750a66398a982f].
 
 ## Annotations
 
@@ -73,4 +73,4 @@ except as otherwise provided by subsections (7) and (8) below.
 
 [^c17024351]: Textual amendment: Words in s. 34(9) inserted (1.7.1995) by [1994 c. 36](https://www.legislation.gov.uk/ukpga/1994/36), [s. 21(1)](https://www.legislation.gov.uk/ukpga/1994/36/section/21/1), [Sch. 1 para. 12(1)](https://www.legislation.gov.uk/ukpga/1994/36/schedule/1/paragraph/12/1); [S.I. 1995/1317](https://www.legislation.gov.uk/uksi/1995/1317), [art. 2](https://www.legislation.gov.uk/uksi/1995/1317/article/2)
 
-[^key-f0c5b372b8ebbc6a37750a66398a982f]: Textual amendment: Words in s. 34(10) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 30(2)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/30/2) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-f0c5b372b8ebbc6a37750a66398a982f]: Textual amendment: Words in s. 34(10) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 30(2)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/30/2) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)

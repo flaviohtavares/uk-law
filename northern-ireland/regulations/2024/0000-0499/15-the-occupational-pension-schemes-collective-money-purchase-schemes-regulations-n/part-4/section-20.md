@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Reporting requirements relating to benefit adjustments[^key-20f9061edeac5a5aaf56c7e337734522]
+## 20. Reporting requirements relating to benefit adjustments[^c-20f9061edeac5a5aaf56c7e337734522]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ A report under section 73(2) of the 2021 Act (benefits adjustments) must, in add
 
 ## Annotations
 
-[^key-20f9061edeac5a5aaf56c7e337734522]: Commencement: Reg. 20 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-20f9061edeac5a5aaf56c7e337734522]: Commencement: Reg. 20 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)

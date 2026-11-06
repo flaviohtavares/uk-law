@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 220. Regulations made by Secretary of State: consultation with devolved authorities[^key-1dbe581e100b17b3f55c3496098e3c89]
+## 220. Regulations made by Secretary of State: consultation with devolved authorities[^c-1dbe581e100b17b3f55c3496098e3c89]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ and must consider any representations duly made and not withdrawn.
 
 ## Annotations
 
-[^key-1dbe581e100b17b3f55c3496098e3c89]: Commencement: S. 220 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-1dbe581e100b17b3f55c3496098e3c89]: Commencement: S. 220 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)

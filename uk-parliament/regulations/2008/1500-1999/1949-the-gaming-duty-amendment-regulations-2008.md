@@ -32,7 +32,7 @@ summary: ''
 
 Excise
 
-The Gaming Duty (Amendment) Regulations 2008 (revoked)[^key-f6cd67eb5c555db13e3e370e26abc971]
+The Gaming Duty (Amendment) Regulations 2008 (revoked)[^c-f6cd67eb5c555db13e3e370e26abc971]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 1st October 2008
 
-[^key-f6cd67eb5c555db13e3e370e26abc971]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f6cd67eb5c555db13e3e370e26abc971]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-f6cd67eb5c555db13e3e370e26abc971]
+## 1. Citation and Commencement[^c-f6cd67eb5c555db13e3e370e26abc971]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-f6cd67eb5c555db13e3e370e26abc971]
+## 2. Interpretation[^c-f6cd67eb5c555db13e3e370e26abc971]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application and revocation[^key-f6cd67eb5c555db13e3e370e26abc971]
+## 3. Application and revocation[^c-f6cd67eb5c555db13e3e370e26abc971]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. The amount of payments on account[^key-f6cd67eb5c555db13e3e370e26abc971]
+## 4. The amount of payments on account[^c-f6cd67eb5c555db13e3e370e26abc971]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f6cd67eb5c555db13e3e370e26abc971]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f6cd67eb5c555db13e3e370e26abc971]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f6cd67eb5c555db13e3e370e26abc971]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f6cd67eb5c555db13e3e370e26abc971]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f6cd67eb5c555db13e3e370e26abc971]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1949) revoked (1.10.2010) by [The Gaming Duty (Amendment) Regulations 2010 (S.I. 2010/1677)](https://www.legislation.gov.uk/uksi/2010/1677), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1677/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2010/1677/regulation/3/2) (with [regs. 2](https://www.legislation.gov.uk/uksi/2010/1677/regulation/2), [3(1)](https://www.legislation.gov.uk/uksi/2010/1677/regulation/3/1))
+[^c-f6cd67eb5c555db13e3e370e26abc971]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1949) revoked (1.10.2010) by [The Gaming Duty (Amendment) Regulations 2010 (S.I. 2010/1677)](https://www.legislation.gov.uk/uksi/2010/1677), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1677/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2010/1677/regulation/3/2) (with [regs. 2](https://www.legislation.gov.uk/uksi/2010/1677/regulation/2), [3(1)](https://www.legislation.gov.uk/uksi/2010/1677/regulation/3/1))

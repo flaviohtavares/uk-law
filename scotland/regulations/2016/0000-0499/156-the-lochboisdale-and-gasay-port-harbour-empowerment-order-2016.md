@@ -59,11 +59,11 @@ In accordance with paragraph 19(2) of that Schedule, Ministers have decided to m
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-ce92eb701c9e211fbcc39b2671fe034b]
+### 1. Citation and commencement[^c-ce92eb701c9e211fbcc39b2671fe034b]
 
 This Order may be cited as the Lochboisdale and Gasay Port (Harbour Empowerment) Order 2016 and comes into force on the day following the day on which it is made.
 
-### 2. Interpretation[^key-17b58b33b5d4c2dc277691fb8dea561e]
+### 2. Interpretation[^c-17b58b33b5d4c2dc277691fb8dea561e]
 
 In this Order—
 
@@ -86,7 +86,7 @@ In this Order—
 - “Tidal Work” means so much of any work as is on, under or over tidal waters or tidal lands below the Level of High-Water including such works as are existing at the commencement of this Order; and
 - “Vessel” means a ship, boat, raft or water craft (including storage barges) of any description, however propelled or moved, and includes anything constructed or used to carry persons or goods by water and shall include but not be limited to a displacement craft, a personal waterjet craft intended for sports or leisure purposes, a seaplane on the surface of the water, a hydrofoil vessel, a hovercraft or any other amphibious vehicle and any other thing constructed or adapted for floating on or being submersed in water (whether permanently or temporarily).
 
-### 3. Incorporation of the Harbours, Docks, and Piers Clauses Act 1847[^key-db38899274685eb761ae883763fe9aed]
+### 3. Incorporation of the Harbours, Docks, and Piers Clauses Act 1847[^c-db38899274685eb761ae883763fe9aed]
 
 (1) Sections 1 to 4, 27, 29, 32 to 41, 43 to 46, 51, 52, 54 to 59, 63 to 65 and 69 of the 1847 Act are incorporated with this Order subject to the modifications stated in paragraphs (2) to (6).
 
@@ -107,7 +107,7 @@ In this Order—
 
 ## PART 2 — DUTIES AND POWERS OF THE COMPANY
 
-### 4. Limits of Port[^key-3de108832fd8ebda2779ce74e2b06cde]
+### 4. Limits of Port[^c-3de108832fd8ebda2779ce74e2b06cde]
 
 (1) The Limits of the Port within which the Company shall exercise jurisdiction as the harbour authority and within which the powers of the Harbour Master shall be exercisable shall be the area shown on the Port Map bounded by an imaginary line commencing at a point (1) at 57°09.092′N 007°15.996′W, then extending in a straight line in a generally southerly direction to point (2) at 57°08.474′N 007°15.998′W, then following the line of the Mean High Water Spring tide to point (3) at 57°08.581′N 007°16.915′W, then in a straight line in a generally westerly direction to point (4) at 57°08.604′N 007°18.076′W, then in a straight line in a generally northerly direction to point (5) at 57°08.912′N 007°18.079′W, then in a straight line in a generally north-easterly direction to point (6) at 57°08.949′N 007°18.026′W, then in a straight line in a generally north north-westerly direction to point (7) at 57°09.199′N 007°18.135′W, then in a straight line in a generally northerly direction to point (8) at 57°09.462′N 007°18.144′W, then following the line of the Mean High Water Spring tide returning to the point of commencement.
 
@@ -119,7 +119,7 @@ In this Order—
 
 (3) The area described in paragraph (1) is, for the purpose of identification only, shown edged by a broken black line and hatched in black on the Port Map and, in the event that there is any discrepancy between the description of that area and the area shown on the Port Map, the description shall prevail.
 
-### 5. General powers and duties in respect of Port[^key-f81240c5d567e5868340f1348568880d]
+### 5. General powers and duties in respect of Port[^c-f81240c5d567e5868340f1348568880d]
 
 (1) The Company may improve, maintain, regulate, manage, mark and light the Port and provide accommodation and port facilities.
 
@@ -139,7 +139,7 @@ In this Order—
 
 (7) This article is without prejudice to any powers of the Company under or by virtue of any other enactment (including any other provision of this Order).
 
-### 6. Power to dredge[^key-8a9c247befeafbe0586c9657ca008738]
+### 6. Power to dredge[^c-8a9c247befeafbe0586c9657ca008738]
 
 (1) The Company may from time to time deepen, dredge, scour, cleanse, alter and improve the Port and so much of the bed, shores and channels of Loch Boisdale as lie within the Port Limits and within the approaches and channels leading to the Port Limits in the area so described for the purpose of affording the uninterrupted means of access to the Port or any part of it for the accommodation of Vessels or the egress from the Port of Vessels.
 
@@ -150,7 +150,7 @@ In this Order—
 - (a) disposed of in contravention of any enactment relating to the disposal of waste; or
 - (b) deposited below the Level of High-Water except in such places and under such conditions and restrictions as may be approved or directed by Ministers.
 
-### 7. Restriction of works and dredging[^key-72ea3a5ab814b870d908bb2cb7336860]
+### 7. Restriction of works and dredging[^c-72ea3a5ab814b870d908bb2cb7336860]
 
 (1) No person other than the Company shall in the Port—
 
@@ -165,7 +165,7 @@ unless that person has contracted with the Company to do so.
 
 (4) This article shall not apply to dredging carried out by the Inner Harbour Authority in the approaches to the Inner Harbour, but before carrying out any dredging in the approaches to the Inner Harbour, the Inner Harbour Authority shall consult with the Company.
 
-### 8. Moorings[^key-4f66228282e90140b9db3c75eb9fd970]
+### 8. Moorings[^c-4f66228282e90140b9db3c75eb9fd970]
 
 (1) The Company may provide, place, lay down, maintain, renew, use or remove such moorings, buoys and similar apparatus within the Port as it considers necessary or desirable for the convenience of Vessels.
 
@@ -177,7 +177,7 @@ unless that person has contracted with the Company to do so.
 
 (5) Any person who, without reasonable excuse, shall place, lay down, maintain, renew or use a mooring, buoy or similar apparatus for Vessels within the Port except under and in accordance with the terms and conditions of a contract granted under this article shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### 9. Power to licence tugs[^key-b1d382f4de640947323dc7a7540681cd]
+### 9. Power to licence tugs[^c-b1d382f4de640947323dc7a7540681cd]
 
 (1) It shall not be lawful for any person, except in an emergency, to operate a Vessel exceeding 5 tonnes gross for fee or reward for the purpose of moving or controlling the movement of any other Vessel within the Port except under and in accordance with the terms and conditions of a licence granted by the Company in that regard.
 
@@ -185,11 +185,11 @@ unless that person has contracted with the Company to do so.
 
 (3) Any person who contravenes paragraph (1) above shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### 10. Parking places[^key-e5c81bd9cf9ba5a05c06ba45e05ec656]
+### 10. Parking places[^c-e5c81bd9cf9ba5a05c06ba45e05ec656]
 
 The Company may provide facilities within the Port for the parking of vehicles and for that purpose may erect barricades or fencing with related offices, waiting rooms and other conveniences and may make reasonable charges for the use of such facilities.
 
-### 11. Power to appropriate parts of Port, etc.[^key-11c7bc39db16e6e13c8e0e751acfb43a]
+### 11. Power to appropriate parts of Port, etc.[^c-11c7bc39db16e6e13c8e0e751acfb43a]
 
 (1) Subject to paragraph (3) but notwithstanding anything else in this or any other statutory provision of local application, the Company may from time to time set apart or appropriate any land, works, buildings, machinery or other property within the harbour owned or managed by the Company for the exclusive, partial or preferential use or accommodation of any particular trade, activity, person, vessel or class of vessels or goods, subject to the payment of such reasonable charges and to such terms, conditions or regulations as the Company thinks fit.
 
@@ -200,17 +200,17 @@ The Company may provide facilities within the Port for the parking of vehicles a
 
 (3) Nothing in this article shall authorise the prohibition of navigation within any part of the harbour, nor shall it authorise interference with the public right of way across public slipways and public quays.
 
-### 12. Power to lease, etc.[^key-676349a5a67e535340942e3274ddc6ba]
+### 12. Power to lease, etc.[^c-676349a5a67e535340942e3274ddc6ba]
 
 The Company may at any time lease or grant for the purposes of the Port Undertaking the use or occupation of, or any right or interest in, over or relating to, any lands, works, buildings, equipment or other property forming part of the Port for such period or periods and on such terms and conditions as may be agreed between the Company and the persons taking the same.
 
-### 13. Power to enter into arrangements to provide supplies[^key-3cc8d17f0826c268b08855a4e8458fdd]
+### 13. Power to enter into arrangements to provide supplies[^c-3cc8d17f0826c268b08855a4e8458fdd]
 
 The Company may make arrangements for the purpose of providing and supplying fuel, ice and such other requirements as may be made available to Vessels using the Port and in respect of the supply, laying down and maintaining of pipelines, storage tanks, plants, equipment and other apparatus and the execution of ancillary and necessary works for that purpose within the Port.
 
 ## PART 3 — PORT REGULATION
 
-### 14. General byelaws[^key-518558d4eb8f6bc77484fc277ef66866]
+### 14. General byelaws[^c-518558d4eb8f6bc77484fc277ef66866]
 
 (1) The Company may from time to time make byelaws for the efficient management and regulation of the Port, for conservation of the natural beauty of all or any part of the Port or of any of the fauna, flora or geological or physiographical features in the Port, and the conservation, preservation or redevelopment of any buildings, plant or other artificial features of the Port.
 
@@ -245,7 +245,7 @@ The Company may make arrangements for the purpose of providing and supplying fue
 - (b) relate to the whole of the Port or to any part;
 - (c) make different provisions for different parts of the Port or in relation to different classes of Vessels.
 
-### 15. Confirmation of byelaws[^key-7de5c4b26c7d7990fbf06a32aec3ccd7]
+### 15. Confirmation of byelaws[^c-7de5c4b26c7d7990fbf06a32aec3ccd7]
 
 (1) Byelaws made by the Company under this Order shall not come into operation until they have been confirmed by Ministers.
 
@@ -268,7 +268,7 @@ The Company may make arrangements for the purpose of providing and supplying fue
 
 (9) A copy of the byelaws when confirmed shall be printed and deposited at the office of the Harbour Master and shall at all reasonable hours be open to public inspection without payment, and a copy thereof shall on application be furnished to any person on payment of such reasonable sum as the Company may determine.
 
-### 16. General Directions to Vessels[^key-8765b8285522f189fbc4776bca70d852]
+### 16. General Directions to Vessels[^c-8765b8285522f189fbc4776bca70d852]
 
 (1) The Company may, after consultation with the Chamber of Shipping, the Inner Harbour Authority, harbour users and the Royal Yachting Association in each case of an exercise of powers, give directions for any of the following purposes—
 
@@ -289,13 +289,13 @@ and every direction under this article shall specify the extent of its applicati
 
 (3) The Company may, after consultation with the Chamber of Shipping, the Inner Harbour Authority, harbour users and the Royal Yachting Association revoke or amend any General Direction given under this article.
 
-### 17. Publication of General Directions[^key-ecb475931b77c331ab40d47d02b8e03c]
+### 17. Publication of General Directions[^c-ecb475931b77c331ab40d47d02b8e03c]
 
 (1) Notice of the giving of a General Direction and of any amendment or revocation of a General Direction must, except in case of emergency, be published by the Company as soon as practical once in Lloyd’s List or some other newspaper specialising in shipping news; and, if the notice relates to the giving or amendment of a Direction, the notice must state a place at which copies of the Direction or the amended Direction (as the case may be) may be inspected and bought, and the price of the Direction or amended Direction (as the case may be).
 
 (2) In an emergency, notice of the giving of a General Direction or of any amendment or revocation of a General Direction may be given in any manner the Company considers appropriate.
 
-### 18. Special Directions to Vessels[^key-3f99a58f95ac0c5cc1135ab3dc05dbeb]
+### 18. Special Directions to Vessels[^c-3f99a58f95ac0c5cc1135ab3dc05dbeb]
 
 (1) The Harbour Master may give a direction under this article—
 
@@ -317,13 +317,13 @@ and every direction under this article shall specify the extent of its applicati
 
 (3) The Harbour Master may revoke or amend a Special Direction.
 
-### 19. Failure to comply with Directions[^key-26e20643024e555a714c97a707f3b9f8]
+### 19. Failure to comply with Directions[^c-26e20643024e555a714c97a707f3b9f8]
 
 (1) The Master of a Vessel who fails to comply with a General Direction or Special Direction shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
 (2) Without prejudice to any other defence, it shall be a defence to a charge made pursuant to paragraph (1) above that the Master had reasonable grounds for believing that to comply with the direction in question would have endangered life, imperiled the safety of any Vessel or its cargo or otherwise been impossible to comply.
 
-### 20. Enforcement of Special Directions[^key-b4691b8b30fbc0b43a71007fd92979dd]
+### 20. Enforcement of Special Directions[^c-b4691b8b30fbc0b43a71007fd92979dd]
 
 (1) Without prejudice to any other remedy available to the Company, if a Special Direction is not complied with within a reasonable time, the Harbour Master may put persons on board the vessel to carry out the Direction or may otherwise cause the Vessel to be handled in accordance with the Direction.
 
@@ -331,19 +331,19 @@ and every direction under this article shall specify the extent of its applicati
 
 (3) Reasonable expenses incurred in the exercise of the powers conferred by this article shall be recovered by the Company from the owner of the Vessel as if they were a charge of the Company in respect of the Vessel.
 
-### 21. Master’s responsibility in relation to directions[^key-320593ec37ec59532cb136f84434fde5]
+### 21. Master’s responsibility in relation to directions[^c-320593ec37ec59532cb136f84434fde5]
 
 The giving of a General Direction or a Special Direction shall not diminish or in any other way affect the responsibility of the Master of the Vessel to which the direction is given in relation to that Vessel, to persons on board the Vessel, to the cargo or to any other person or property.
 
 ## PART 4 — CHARGES
 
-### 22. Charges.[^key-26f53d42ae7427d053e27e59d2d85748]
+### 22. Charges.[^c-26f53d42ae7427d053e27e59d2d85748]
 
 (1) The Company may levy charges for any services performed by it in the exercise and performance of its statutory powers and duties at the Port.
 
 (2) In this article “charges” means any charges other than ship, passenger and goods dues.
 
-### 23. Liability for charges[^key-d2429305c760dbfb78f32027cdedbf3a]
+### 23. Liability for charges[^c-d2429305c760dbfb78f32027cdedbf3a]
 
 (1) Charges or dues payable to the Company on or in respect of—
 
@@ -352,27 +352,27 @@ The giving of a General Direction or a Special Direction shall not diminish or i
 
 (2) Where a charge or due payable to the Company may be recovered from more than one person, the persons from whom it is recoverable shall be jointly and severally liable.
 
-### 24. Exemptions, rebates, etc. in respect of charges[^key-3f7203ae53ab075b26cd867bc14f307b]
+### 24. Exemptions, rebates, etc. in respect of charges[^c-3f7203ae53ab075b26cd867bc14f307b]
 
 (1) The Company may confer total or partial exemptions from, allow rebates to or make compositions with any person with respect to, charges or dues and may vary or extinguish any such exemption or composition.
 
 (2) Nothing in section 30 of the Harbours Act 1964 shall require the Company to include in the list of ship, passenger and goods dues kept at the harbour office as required by subsection (1) of that section, charges reduced by a rebate allowed on, or subject to a compounding arrangement in respect of, a due included in that list.
 
-### 25. Security for charges[^key-448227a601933b3dea65be8d75aa6c47]
+### 25. Security for charges[^c-448227a601933b3dea65be8d75aa6c47]
 
 The Company may require a person who incurs or is about to incur a charge or due to deposit with, or to guarantee, such sum of money as is, in the opinion of the Company, reasonable having regard to the amount or probable amount of the charge or due, and where such a person fails to deposit or guarantee the sum of money required by the Company, the Company may detain the vessel in the Port or goods on or in Port premises, in respect of which the charge or due has been or will be incurred, until the requirement has been complied with or the charge or due paid.
 
-### 26. Liens for charges[^key-3964e120f3f9995a8debbbd6940ede77]
+### 26. Liens for charges[^c-3964e120f3f9995a8debbbd6940ede77]
 
 (1) A person, who by agreement with the Company collects charges or dues on its behalf and who pays or gives security for the payment of charges or dues on goods in that person’s possession, shall have a lien on those goods for the amount paid or security given.
 
 (2) A wharfinger or carrier who is not itself liable for the payment of charges or dues may pay or by agreement with the Company give security for charges or dues on goods in its custody, and in that event it shall have a like lien on the goods for the amount of those charges or dues as it would have in respect of its charges for safe custody or carriage of the goods, as the case may be.
 
-### 27. Refusal to pay charges for landing place, etc.[^key-9305e2f0dc1383a153f9971857760c88]
+### 27. Refusal to pay charges for landing place, etc.[^c-9305e2f0dc1383a153f9971857760c88]
 
 An officer of the Company may prevent a Vessel from using a landing place or any other facilities provided by the Company, if the Master of the Vessel refuses to pay the charges or dues for such use.
 
-### 28. Exemptions from charges[^key-53346d682ba5f1f4082f841ab3ebd938]
+### 28. Exemptions from charges[^c-53346d682ba5f1f4082f841ab3ebd938]
 
 (1) Except insofar as may be agreed between the Company and the Government Department or person concerned or as may be specifically laid down by statute, nothing in any enactment authorising the Company to levy charges or dues shall extend to authorise them to levy dues on—
 
@@ -387,7 +387,7 @@ An officer of the Company may prevent a Vessel from using a landing place or any
 
 (3) This Order shall not extend to subject any person to liability for charges in respect of a Vessel which merely passes through the limits of the Port to gain access to the Inner Harbour.
 
-### 29. Conditions as to payment of charges[^key-644c2a77da999bc24405d56c81eb86eb]
+### 29. Conditions as to payment of charges[^c-644c2a77da999bc24405d56c81eb86eb]
 
 (1) Charges and dues shall be payable subject to such terms and conditions as the Company may from time to time specify in its published list of charges.
 
@@ -395,27 +395,27 @@ An officer of the Company may prevent a Vessel from using a landing place or any
 
 ## PART 5 — MISCELLANEOUS
 
-### 30. Requirements of reasonable notice[^key-3ddd3ca679fe9676a4db2bbcfc1322ed]
+### 30. Requirements of reasonable notice[^c-3ddd3ca679fe9676a4db2bbcfc1322ed]
 
 Where any claim, loss or demand is made by the Inner Harbour Authority under any provision of this Order, the Inner Harbour Authority shall give the Company reasonable notice of any such claim, loss, or demand and no settlement or compromise of any such loss, claim or demand shall be made by the Inner Harbour Authority without the prior consent of the Company, which consent must not be unreasonably withheld.
 
-### 31. Saving for Commissioners of Northern Lighthouses[^key-e7af4863a1c2173e2ccd91420abbe025]
+### 31. Saving for Commissioners of Northern Lighthouses[^c-e7af4863a1c2173e2ccd91420abbe025]
 
 Nothing in this Order shall prejudice or derogate from any of the rights, duties or privileges of the Commissioners of Northern Lighthouses.
 
-### 32. Crown rights[^key-260d0221245f2009c33803597ead793c]
+### 32. Crown rights[^c-260d0221245f2009c33803597ead793c]
 
 (1) Nothing in this Order affects prejudicially any estate, right, power, privilege, authority or exemption of the Crown and in particular and without prejudice to the generality of the foregoing, nothing in this Order authorises the Company to take, use, enter upon or in any manner interfere with, any land or interest in land (including any portion of the shore or bed of the sea or of any river, channel, creek, bay or estuary) or any rights of whatsoever description—
 
 - (a) belonging to Her Majesty in right of the Crown and under the management of the Crown Estate Commissioners, without the consent in writing of those Commissioners;
-- (b) belonging to Her Majesty in right of the Crown and not under the management of the Crown Estate, without the consent in writing of the Government Department having management of that land or (as the case may be) the relevant person[^key-1040d348465c61679152446c5e470389]; or
+- (b) belonging to Her Majesty in right of the Crown and not under the management of the Crown Estate, without the consent in writing of the Government Department having management of that land or (as the case may be) the relevant person[^c-1040d348465c61679152446c5e470389]; or
 - (c) belonging to a government department or held in trust for Her Majesty for the purposes of a Government Department, without the consent in writing of that Government Department.
 
-(1A)[^key-27d9f96535bfe94745f2a4cb3f488332] In paragraph (1), “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests.
+(1A)[^c-27d9f96535bfe94745f2a4cb3f488332] In paragraph (1), “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests.
 
 (2) A consent under paragraph (1) may be given unconditionally, or subject to terms and conditions, and shall be deemed to have been given in writing where it is sent electronically.
 
-### 33. Saving for other consents[^key-f472ceb8ba52184d1c5711d3e608484c]
+### 33. Saving for other consents[^c-f472ceb8ba52184d1c5711d3e608484c]
 
 The carrying out of any works or operations pursuant to this Order is subject to the Company obtaining any consent, permission or licence required under any other enactment.
 
@@ -453,78 +453,78 @@ Part 5 makes miscellaneous and general provisions.
 
 [^f00001]: Footnote: [1964 c.40](https://www.legislation.gov.uk/ukpga/1964/40).
 
-[^key-ce92eb701c9e211fbcc39b2671fe034b]: Commencement: Art. 1 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-ce92eb701c9e211fbcc39b2671fe034b]: Commencement: Art. 1 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-17b58b33b5d4c2dc277691fb8dea561e]: Commencement: Art. 2 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-17b58b33b5d4c2dc277691fb8dea561e]: Commencement: Art. 2 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
 [^f00002]: Footnote: [1847 c.27](https://www.legislation.gov.uk/ukpga/1847/27).
 
 [^f00003]: Footnote: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-db38899274685eb761ae883763fe9aed]: Commencement: Art. 3 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-db38899274685eb761ae883763fe9aed]: Commencement: Art. 3 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-3de108832fd8ebda2779ce74e2b06cde]: Commencement: Art. 4 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-3de108832fd8ebda2779ce74e2b06cde]: Commencement: Art. 4 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-f81240c5d567e5868340f1348568880d]: Commencement: Art. 5 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-f81240c5d567e5868340f1348568880d]: Commencement: Art. 5 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-8a9c247befeafbe0586c9657ca008738]: Commencement: Art. 6 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-8a9c247befeafbe0586c9657ca008738]: Commencement: Art. 6 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
 [^f00004]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-72ea3a5ab814b870d908bb2cb7336860]: Commencement: Art. 7 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-72ea3a5ab814b870d908bb2cb7336860]: Commencement: Art. 7 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-4f66228282e90140b9db3c75eb9fd970]: Commencement: Art. 8 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-4f66228282e90140b9db3c75eb9fd970]: Commencement: Art. 8 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-b1d382f4de640947323dc7a7540681cd]: Commencement: Art. 9 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-b1d382f4de640947323dc7a7540681cd]: Commencement: Art. 9 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-e5c81bd9cf9ba5a05c06ba45e05ec656]: Commencement: Art. 10 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-e5c81bd9cf9ba5a05c06ba45e05ec656]: Commencement: Art. 10 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-11c7bc39db16e6e13c8e0e751acfb43a]: Commencement: Art. 11 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-11c7bc39db16e6e13c8e0e751acfb43a]: Commencement: Art. 11 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-676349a5a67e535340942e3274ddc6ba]: Commencement: Art. 12 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-676349a5a67e535340942e3274ddc6ba]: Commencement: Art. 12 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-3cc8d17f0826c268b08855a4e8458fdd]: Commencement: Art. 13 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-3cc8d17f0826c268b08855a4e8458fdd]: Commencement: Art. 13 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-518558d4eb8f6bc77484fc277ef66866]: Commencement: Art. 14 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-518558d4eb8f6bc77484fc277ef66866]: Commencement: Art. 14 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-7de5c4b26c7d7990fbf06a32aec3ccd7]: Commencement: Art. 15 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-7de5c4b26c7d7990fbf06a32aec3ccd7]: Commencement: Art. 15 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-8765b8285522f189fbc4776bca70d852]: Commencement: Art. 16 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-8765b8285522f189fbc4776bca70d852]: Commencement: Art. 16 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-ecb475931b77c331ab40d47d02b8e03c]: Commencement: Art. 17 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-ecb475931b77c331ab40d47d02b8e03c]: Commencement: Art. 17 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-3f99a58f95ac0c5cc1135ab3dc05dbeb]: Commencement: Art. 18 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-3f99a58f95ac0c5cc1135ab3dc05dbeb]: Commencement: Art. 18 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-26e20643024e555a714c97a707f3b9f8]: Commencement: Art. 19 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-26e20643024e555a714c97a707f3b9f8]: Commencement: Art. 19 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-b4691b8b30fbc0b43a71007fd92979dd]: Commencement: Art. 20 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-b4691b8b30fbc0b43a71007fd92979dd]: Commencement: Art. 20 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-320593ec37ec59532cb136f84434fde5]: Commencement: Art. 21 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-320593ec37ec59532cb136f84434fde5]: Commencement: Art. 21 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-26f53d42ae7427d053e27e59d2d85748]: Commencement: Art. 22 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-26f53d42ae7427d053e27e59d2d85748]: Commencement: Art. 22 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-d2429305c760dbfb78f32027cdedbf3a]: Commencement: Art. 23 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-d2429305c760dbfb78f32027cdedbf3a]: Commencement: Art. 23 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-3f7203ae53ab075b26cd867bc14f307b]: Commencement: Art. 24 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-3f7203ae53ab075b26cd867bc14f307b]: Commencement: Art. 24 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-448227a601933b3dea65be8d75aa6c47]: Commencement: Art. 25 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-448227a601933b3dea65be8d75aa6c47]: Commencement: Art. 25 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-3964e120f3f9995a8debbbd6940ede77]: Commencement: Art. 26 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-3964e120f3f9995a8debbbd6940ede77]: Commencement: Art. 26 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-9305e2f0dc1383a153f9971857760c88]: Commencement: Art. 27 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-9305e2f0dc1383a153f9971857760c88]: Commencement: Art. 27 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-53346d682ba5f1f4082f841ab3ebd938]: Commencement: Art. 28 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-53346d682ba5f1f4082f841ab3ebd938]: Commencement: Art. 28 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-644c2a77da999bc24405d56c81eb86eb]: Commencement: Art. 29 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-644c2a77da999bc24405d56c81eb86eb]: Commencement: Art. 29 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-3ddd3ca679fe9676a4db2bbcfc1322ed]: Commencement: Art. 30 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-3ddd3ca679fe9676a4db2bbcfc1322ed]: Commencement: Art. 30 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-e7af4863a1c2173e2ccd91420abbe025]: Commencement: Art. 31 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-e7af4863a1c2173e2ccd91420abbe025]: Commencement: Art. 31 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-260d0221245f2009c33803597ead793c]: Commencement: Art. 32 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-260d0221245f2009c33803597ead793c]: Commencement: Art. 32 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
 
-[^key-1040d348465c61679152446c5e470389]: Textual amendment: Words in art. 32(1)(b) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 140(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/140/a)
+[^c-1040d348465c61679152446c5e470389]: Textual amendment: Words in art. 32(1)(b) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 140(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/140/a)
 
-[^key-27d9f96535bfe94745f2a4cb3f488332]: Textual amendment: Art. 32(1A) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 140(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/140/b)
+[^c-27d9f96535bfe94745f2a4cb3f488332]: Textual amendment: Art. 32(1A) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 140(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/140/b)
 
-[^key-f472ceb8ba52184d1c5711d3e608484c]: Commencement: Art. 33 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+[^c-f472ceb8ba52184d1c5711d3e608484c]: Commencement: Art. 33 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Carry over of approvals, applications, notices etc.[^key-a8a14554a0ebdd8dfa2fc76b3b0144a3]
+## 41. Carry over of approvals, applications, notices etc.[^c-a8a14554a0ebdd8dfa2fc76b3b0144a3]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ contained in the default contract.
 
 ## Annotations
 
-[^key-a8a14554a0ebdd8dfa2fc76b3b0144a3]: Commencement: Art. 41 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-a8a14554a0ebdd8dfa2fc76b3b0144a3]: Commencement: Art. 41 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

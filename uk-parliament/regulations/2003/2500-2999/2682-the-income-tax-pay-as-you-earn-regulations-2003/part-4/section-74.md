@@ -41,8 +41,8 @@ summary: ''
 (4) But the following are not relevant employees—
 
 - (a) an employee included on a return under regulation 73 (Forms P35 and P14),
-- (b) an employee who has indicated that statement A or statement B applies[^key-f2a99ca5adb5cd7c907196944133f166] on Form P46 (see regulation 46), and to whom the employer has not made relevant payments exceeding the PAYE threshold at any time during that tax year.
+- (b) an employee who has indicated that statement A or statement B applies[^c-f2a99ca5adb5cd7c907196944133f166] on Form P46 (see regulation 46), and to whom the employer has not made relevant payments exceeding the PAYE threshold at any time during that tax year.
 
 ## Annotations
 
-[^key-f2a99ca5adb5cd7c907196944133f166]: Textual amendment: Word in [reg. 74(4)(b)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/74/4/b) substituted (6.4.2006) by [The Income Tax (Pay as You Earn) (Amendment) Regulations 2005 (S.I. 2005/2691)](https://www.legislation.gov.uk/uksi/2005/2691), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2691/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2005/2691/regulation/9/2)
+[^c-f2a99ca5adb5cd7c907196944133f166]: Textual amendment: Word in [reg. 74(4)(b)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/74/4/b) substituted (6.4.2006) by [The Income Tax (Pay as You Earn) (Amendment) Regulations 2005 (S.I. 2005/2691)](https://www.legislation.gov.uk/uksi/2005/2691), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2691/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2005/2691/regulation/9/2)

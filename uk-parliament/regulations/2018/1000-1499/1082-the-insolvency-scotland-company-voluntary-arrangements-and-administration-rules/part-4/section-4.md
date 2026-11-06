@@ -28,9 +28,9 @@ summary: ''
 
 (2) In a case to which this Part applies the Court of Session has the power to make an order (“a block transfer order”) appointing a replacement office-holder in the place of the outgoing office-holder to be—
 
-- (a) administrator in any administration; [^key-848081e255195c9effbae9e22c099b60]...
-- (b) supervisor of a CVA or[^key-23ae677e1bb8a4dedc2964a8834e54d4]
-- (c)[^key-c351e66e31243d968087f42b5e33fbb3] a monitor in respect of a moratorium under Part A1 of the Act.
+- (a) administrator in any administration; [^c-848081e255195c9effbae9e22c099b60]...
+- (b) supervisor of a CVA or[^c-23ae677e1bb8a4dedc2964a8834e54d4]
+- (c)[^c-c351e66e31243d968087f42b5e33fbb3] a monitor in respect of a moratorium under Part A1 of the Act.
 
 (3) The replacement office-holder must be qualified to act as an insolvency practitioner in relation to the company.
 
@@ -46,14 +46,14 @@ summary: ''
 
 (2) The powers referred to in paragraph (1)(a) are those in—
 
-- (za)[^key-2299668fe1b19c6dbc07278b143e724b] section A39 (moratorium under Part A1 of the Act);
-- (a) section 7(5) [^key-58caee9af2c1772d5b727721e368fb20]... ; and
+- (za)[^c-2299668fe1b19c6dbc07278b143e724b] section A39 (moratorium under Part A1 of the Act);
+- (a) section 7(5) [^c-58caee9af2c1772d5b727721e368fb20]... ; and
 - (b) paragraph 88 of Schedule B1 and rule 4.1(2).
 
 (3) The powers referred to in paragraph (1)(b) are those in —
 
-- (za)[^key-2204a1f93b35584c9e510b6bc37302d4] section A39 (moratorium under Part A1 of the Act);
-- (a) section 7(5) [^key-d2595963a3340133d0690fcf4f2673c9]... ; and
+- (za)[^c-2204a1f93b35584c9e510b6bc37302d4] section A39 (moratorium under Part A1 of the Act);
+- (a) section 7(5) [^c-d2595963a3340133d0690fcf4f2673c9]... ; and
 - (b) paragraphs 63, 91 and 95 of Schedule B1 and rule 4.12(2).
 
 (4) Subject to paragraph (5), the application may be made by any of the following—
@@ -107,16 +107,16 @@ summary: ''
 
 ## Annotations
 
-[^key-848081e255195c9effbae9e22c099b60]: Textual amendment: Word in [rule 4.1(2)(a)](https://www.legislation.gov.uk/uksi/2018/1082/rule/4.1/2/a) omitted (1.10.2021) by virtue of [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [28(2)(a)](https://www.legislation.gov.uk/uksi/2021/1026/rule/28/2/a) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-848081e255195c9effbae9e22c099b60]: Textual amendment: Word in [rule 4.1(2)(a)](https://www.legislation.gov.uk/uksi/2018/1082/rule/4.1/2/a) omitted (1.10.2021) by virtue of [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [28(2)(a)](https://www.legislation.gov.uk/uksi/2021/1026/rule/28/2/a) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
-[^key-23ae677e1bb8a4dedc2964a8834e54d4]: Textual amendment: Word in [rule 4.1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1082/rule/4.1/2/b) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [28(2)(b)](https://www.legislation.gov.uk/uksi/2021/1026/rule/28/2/b) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-23ae677e1bb8a4dedc2964a8834e54d4]: Textual amendment: Word in [rule 4.1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1082/rule/4.1/2/b) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [28(2)(b)](https://www.legislation.gov.uk/uksi/2021/1026/rule/28/2/b) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
-[^key-c351e66e31243d968087f42b5e33fbb3]: Textual amendment: [Rule 4.1(2)(c)](https://www.legislation.gov.uk/uksi/2018/1082/rule/4.1/2/c) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [28(2)(c)](https://www.legislation.gov.uk/uksi/2021/1026/rule/28/2/c) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-c351e66e31243d968087f42b5e33fbb3]: Textual amendment: [Rule 4.1(2)(c)](https://www.legislation.gov.uk/uksi/2018/1082/rule/4.1/2/c) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [28(2)(c)](https://www.legislation.gov.uk/uksi/2021/1026/rule/28/2/c) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
-[^key-2299668fe1b19c6dbc07278b143e724b]: Textual amendment: [Rule 4.2(2)(za)](https://www.legislation.gov.uk/uksi/2018/1082/rule/4.2/2/za) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [29(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/29/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-2299668fe1b19c6dbc07278b143e724b]: Textual amendment: [Rule 4.2(2)(za)](https://www.legislation.gov.uk/uksi/2018/1082/rule/4.2/2/za) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [29(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/29/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
-[^key-58caee9af2c1772d5b727721e368fb20]: Textual amendment: Words in [rule 4.2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1082/rule/4.2/2/a) omitted (1.10.2021) by virtue of [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rule 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [Sch. 2 para. 3 Table](https://www.legislation.gov.uk/uksi/2021/1026/schedule/2/paragraph/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-58caee9af2c1772d5b727721e368fb20]: Textual amendment: Words in [rule 4.2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1082/rule/4.2/2/a) omitted (1.10.2021) by virtue of [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rule 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [Sch. 2 para. 3 Table](https://www.legislation.gov.uk/uksi/2021/1026/schedule/2/paragraph/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
-[^key-2204a1f93b35584c9e510b6bc37302d4]: Textual amendment: [Rule 4.2(3)(za)](https://www.legislation.gov.uk/uksi/2018/1082/rule/4.2/3/za) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [29(3)](https://www.legislation.gov.uk/uksi/2021/1026/rule/29/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-2204a1f93b35584c9e510b6bc37302d4]: Textual amendment: [Rule 4.2(3)(za)](https://www.legislation.gov.uk/uksi/2018/1082/rule/4.2/3/za) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [29(3)](https://www.legislation.gov.uk/uksi/2021/1026/rule/29/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
-[^key-d2595963a3340133d0690fcf4f2673c9]: Textual amendment: Words in [rule 4.2(3)(a)](https://www.legislation.gov.uk/uksi/2018/1082/rule/4.2/3/a) omitted (1.10.2021) by virtue of [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rule 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [Sch. 2 para. 3 Table](https://www.legislation.gov.uk/uksi/2021/1026/schedule/2/paragraph/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-d2595963a3340133d0690fcf4f2673c9]: Textual amendment: Words in [rule 4.2(3)(a)](https://www.legislation.gov.uk/uksi/2018/1082/rule/4.2/3/a) omitted (1.10.2021) by virtue of [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rule 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [Sch. 2 para. 3 Table](https://www.legislation.gov.uk/uksi/2021/1026/schedule/2/paragraph/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))

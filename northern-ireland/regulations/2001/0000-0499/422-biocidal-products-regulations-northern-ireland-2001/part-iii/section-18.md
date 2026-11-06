@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Frame-formulations[^key-1444b1c437459316c56963c233194b24]
+## 18. Frame-formulations[^c-1444b1c437459316c56963c233194b24]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ issue a frame-formulation which includes that biocidal product and it shall comm
 
 ## Annotations
 
-[^key-1444b1c437459316c56963c233194b24]: Commencement: Reg. 18 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-1444b1c437459316c56963c233194b24]: Commencement: Reg. 18 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

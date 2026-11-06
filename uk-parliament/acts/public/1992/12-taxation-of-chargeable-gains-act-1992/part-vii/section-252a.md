@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 252A. Foreign currency bank accounts and the remittance basis[^key-66bd92a1894674b69967f71d4b52bac0]
+## 252A. Foreign currency bank accounts and the remittance basis[^c-66bd92a1894674b69967f71d4b52bac0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66bd92a1894674b69967f71d4b52bac0]: Textual amendment: S. 252A omitted (with effect in accordance with s. 34(6) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 35(5)](https://www.legislation.gov.uk/ukpga/2012/14/section/35/5)
+[^c-66bd92a1894674b69967f71d4b52bac0]: Textual amendment: S. 252A omitted (with effect in accordance with s. 34(6) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 35(5)](https://www.legislation.gov.uk/ukpga/2012/14/section/35/5)

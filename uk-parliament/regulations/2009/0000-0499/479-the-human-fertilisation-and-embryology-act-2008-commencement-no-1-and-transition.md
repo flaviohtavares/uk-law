@@ -37,7 +37,7 @@ Made
 
 The Secretary of State, in exercise of the powers conferred by sections 61 and 68 of the Human Fertilisation and Embryology Act 2008[^f00001] makes the following Order:
 
-## 1. Citation and interpretation[^key-a89b1fdf750bf0728d7a38600eb5aed7]
+## 1. Citation and interpretation[^c-a89b1fdf750bf0728d7a38600eb5aed7]
 
 (1) This Order may be cited as the Human Fertilisation and Embryology Act 2008 (Commencement No.1 and Transitional Provisions) Order 2009.
 
@@ -47,22 +47,22 @@ The Secretary of State, in exercise of the powers conferred by sections 61 and 6
 - “the 1990 Act” means the Human Fertilisation and Embryology Act 1990[^f00002]; and
 - “the Authority” means the Human Fertilisation and Embryology Authority.
 
-## 2. Appointed day for provisions relating to the power to contract out functions[^key-c47ae6f6128b136852a8559a3a8f218b]
+## 2. Appointed day for provisions relating to the power to contract out functions[^c-c47ae6f6128b136852a8559a3a8f218b]
 
 6th April 2009 is the day appointed for the coming into force of section 8 (power to contract out functions etc.) of the Act for the purpose of inserting new sections 8B (agency arrangements and provision of services), 8C(1) to (6) (contracting out functions of Authority) and section 8D (disclosure of information where functions of Authority exercised by others) into the 1990 Act but only for the purpose of enabling the establishment of one or more committees to carry out the Authority’s functions under new section 20 of the 1990 Act (right to reconsideration of licensing decisions) when it is brought into force.
 
-## 3. Appointed day for provisions relating to the appointment of the appeals committee[^key-efed2d105e580673f7179003d50ac86b]
+## 3. Appointed day for provisions relating to the appointment of the appeals committee[^c-efed2d105e580673f7179003d50ac86b]
 
 6th April 2009 is the day appointed for the coming into force of section 21 (reconsideration and appeals) of the Act for the purpose of inserting new section 20A(1) and (2) (appeals committee) into the 1990 Act to enable the establishment of one or more committees to carry out the Authority’s functions under new section 20 of the 1990 Act when it is brought into force.
 
-## 4. Appointed day for provisions relating to conditions of licences for treatment[^key-407e50f191d40b266bebac9f0571c334]
+## 4. Appointed day for provisions relating to conditions of licences for treatment[^c-407e50f191d40b266bebac9f0571c334]
 
 6th April 2009 is the day appointed for the coming into force of the following provisions of the Act—
 
 - (a) section 14(3), 14(5) and in so far as it relates to section 14(3), 14(1) (conditions of licences for treatment); and
 - (b) Schedule 4 (Schedule inserted into the 1990 Act as Schedule 3ZA).
 
-## 5. Appointed day for regulation-making powers[^key-6f32217b292fdae959f178b9178e93ef]
+## 5. Appointed day for regulation-making powers[^c-6f32217b292fdae959f178b9178e93ef]
 
 6th April 2009 is the day appointed for the coming into force of the following provisions of the Act—
 
@@ -75,7 +75,7 @@ The Secretary of State, in exercise of the powers conferred by sections 61 and 6
 - (g) paragraph 15(c) of Schedule 7 (minor and consequential amendments) and in so far as it relates to that paragraph, section 65 (minor and consequential amendments); and
 - (h) any provision of the Act in so far as the provision or any amendment made by the provision, defines any expression relevant to the exercise of any power to make orders, regulations or directions under the Act or any provision conferred or amended by the Act that is commenced by this Order.
 
-## 6. Appointed day for provisions relating to parenthood in cases involving assisted reproduction[^key-ffc2d396f9d8e2849155d9555bd506c6]
+## 6. Appointed day for provisions relating to parenthood in cases involving assisted reproduction[^c-ffc2d396f9d8e2849155d9555bd506c6]
 
 (1) 6th April 2009 is the day appointed for the coming into force of the following provisions of the Act—
 
@@ -86,11 +86,11 @@ The Secretary of State, in exercise of the powers conferred by sections 61 and 6
 - (e) paragraphs 1 to 12, 16 to 19, 23, 26 to 32, 39, 41 to 56, 60 to 66, 68, 70 to 72, and 74 to 78, of Schedule 6, and in so far as it relates to the repeal of those provisions, section 66 (repeals and revocations) for the purpose of enabling the exercise of any power to make orders, regulations or other instruments or other documents; and
 - (f) section 56 (amendments relating to parenthood in cases involving assisted reproduction) in so far as it relates to the provisions listed in sub-paragraphs (d) and (e).
 
-(2) 1st September 2009 is the day appointed for the coming into force of section 56 of the Act and paragraphs 1 to 12, 16 to 19, 23, 26 to 32, 39, 41 to 51, 52(1) and (3), 53, 54(a), 55, 56[^key-2f23e1b17a096d5b912a6954b7764529], 60 to 66, 68, 70 to 72, and 74 to 78, of Schedule 6 to the Act, and Schedule 8 to the Act for the purpose of the repeal of paragraphs 3, 5, 7, 9, 10, 12 and 18 of the Schedule to the Human Fertilisation and Embryology (Deceased Fathers) Act 2003[^f00003], and in so far as it relates to the repeal of those provisions, section 66 (repeals and revocations), in so far as not already in force.
+(2) 1st September 2009 is the day appointed for the coming into force of section 56 of the Act and paragraphs 1 to 12, 16 to 19, 23, 26 to 32, 39, 41 to 51, 52(1) and (3), 53, 54(a), 55, 56[^c-2f23e1b17a096d5b912a6954b7764529], 60 to 66, 68, 70 to 72, and 74 to 78, of Schedule 6 to the Act, and Schedule 8 to the Act for the purpose of the repeal of paragraphs 3, 5, 7, 9, 10, 12 and 18 of the Schedule to the Human Fertilisation and Embryology (Deceased Fathers) Act 2003[^f00003], and in so far as it relates to the repeal of those provisions, section 66 (repeals and revocations), in so far as not already in force.
 
 (3) 1st September 2009 is the day appointed for the coming into force of Schedule 8 of the Act for the purpose of the repeal of section 1(4) of the Family Law Act (Northern Ireland) 2001[^f00004] and the revocation relating to Article 7 of the Children (Northern Ireland) Order 1995[^f00005] and in so far as it relates to the repeal and revocation of those provisions, section 66 (repeals and revocations).
 
-## 7. Transitional provisions[^key-e81fb1eb0da0f792dbcd8f8011aa2461]
+## 7. Transitional provisions[^c-e81fb1eb0da0f792dbcd8f8011aa2461]
 
 (1) The transitional provisions in the Schedule shall have effect.
 
@@ -110,7 +110,7 @@ Department of Health
 
 Article 7
 
-### 1. Conditions of licences for treatment[^key-87efc79fb6409f832312cb95866ad049]
+### 1. Conditions of licences for treatment[^c-87efc79fb6409f832312cb95866ad049]
 
 (1) Subject to paragraph (2) the conditions set out in paragraphs (3) to (8) shall apply to any licences for treatment issued on or before 5th April 2009.
 
@@ -162,21 +162,21 @@ Article 6 brings into force on 6th April 2009 the majority of Part 2 of the Act,
 
 [^f00001]: Footnote: [2008 c. 22](https://www.legislation.gov.uk/ukpga/2008/22).
 
-[^key-a89b1fdf750bf0728d7a38600eb5aed7]: Commencement: Art. 1 in force at made date
+[^c-a89b1fdf750bf0728d7a38600eb5aed7]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [1990 c. 37](https://www.legislation.gov.uk/ukpga/1990/37).
 
-[^key-c47ae6f6128b136852a8559a3a8f218b]: Commencement: Art. 2 in force at made date
+[^c-c47ae6f6128b136852a8559a3a8f218b]: Commencement: Art. 2 in force at made date
 
-[^key-efed2d105e580673f7179003d50ac86b]: Commencement: Art. 3 in force at made date
+[^c-efed2d105e580673f7179003d50ac86b]: Commencement: Art. 3 in force at made date
 
-[^key-407e50f191d40b266bebac9f0571c334]: Commencement: Art. 4 in force at made date
+[^c-407e50f191d40b266bebac9f0571c334]: Commencement: Art. 4 in force at made date
 
-[^key-6f32217b292fdae959f178b9178e93ef]: Commencement: Art. 5 in force at made date
+[^c-6f32217b292fdae959f178b9178e93ef]: Commencement: Art. 5 in force at made date
 
-[^key-ffc2d396f9d8e2849155d9555bd506c6]: Commencement: Art. 6 in force at made date
+[^c-ffc2d396f9d8e2849155d9555bd506c6]: Commencement: Art. 6 in force at made date
 
-[^key-2f23e1b17a096d5b912a6954b7764529]: Textual amendment: Words in [art. 6(2)](https://www.legislation.gov.uk/uksi/2009/479/article/6/2) substituted (1.9.2009) by [The Human Fertilisation and Embryology Act 2008 (Commencement No.2 and Transitional Provision) and (Commencement No.1 Amendment) Order 2009 (S.I. 2009/2232)](https://www.legislation.gov.uk/uksi/2009/2232), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/2232/article/1/2), [3](https://www.legislation.gov.uk/uksi/2009/2232/article/3)
+[^c-2f23e1b17a096d5b912a6954b7764529]: Textual amendment: Words in [art. 6(2)](https://www.legislation.gov.uk/uksi/2009/479/article/6/2) substituted (1.9.2009) by [The Human Fertilisation and Embryology Act 2008 (Commencement No.2 and Transitional Provision) and (Commencement No.1 Amendment) Order 2009 (S.I. 2009/2232)](https://www.legislation.gov.uk/uksi/2009/2232), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/2232/article/1/2), [3](https://www.legislation.gov.uk/uksi/2009/2232/article/3)
 
 [^f00003]: Footnote: [2003. c.24](https://www.legislation.gov.uk/ukpga/2003/24).
 
@@ -184,6 +184,6 @@ Article 6 brings into force on 6th April 2009 the majority of Part 2 of the Act,
 
 [^f00005]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755).
 
-[^key-e81fb1eb0da0f792dbcd8f8011aa2461]: Commencement: Art. 7 in force at made date
+[^c-e81fb1eb0da0f792dbcd8f8011aa2461]: Commencement: Art. 7 in force at made date
 
-[^key-87efc79fb6409f832312cb95866ad049]: Commencement: Sch. 1 para. 1 in force at made date
+[^c-87efc79fb6409f832312cb95866ad049]: Commencement: Sch. 1 para. 1 in force at made date

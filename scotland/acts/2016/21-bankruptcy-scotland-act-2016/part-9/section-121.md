@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 121. Conduct of examination[^key-a3238e2ba28309e583dc91955198ca48]
+## 121. Conduct of examination[^c-a3238e2ba28309e583dc91955198ca48]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ as to any matter relating to the debtor's assets, the debtor's dealings with tho
 
 ## Annotations
 
-[^key-a3238e2ba28309e583dc91955198ca48]: Commencement: [S. 121](https://www.legislation.gov.uk/asp/2016/21/section/121) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-a3238e2ba28309e583dc91955198ca48]: Commencement: [S. 121](https://www.legislation.gov.uk/asp/2016/21/section/121) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

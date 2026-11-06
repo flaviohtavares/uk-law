@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214. The Health and Care Professions Council[^key-ec8d0fa8e20bdf442ebccd04ecd49b90]
+## 214. The Health and Care Professions Council[^c-ec8d0fa8e20bdf442ebccd04ecd49b90]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec8d0fa8e20bdf442ebccd04ecd49b90]: Commencement: [S. 214](https://www.legislation.gov.uk/ukpga/2012/7/section/214) in force at 1.8.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)
+[^c-ec8d0fa8e20bdf442ebccd04ecd49b90]: Commencement: [S. 214](https://www.legislation.gov.uk/ukpga/2012/7/section/214) in force at 1.8.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)

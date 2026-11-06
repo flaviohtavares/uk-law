@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Claim for early payment[^key-dde0d18604d7caf5418e6f685206a2ad]
+## 69. Claim for early payment[^c-dde0d18604d7caf5418e6f685206a2ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dde0d18604d7caf5418e6f685206a2ad]: Commencement: Reg. 69 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-dde0d18604d7caf5418e6f685206a2ad]: Commencement: Reg. 69 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
 
 [^f00034]: Footnote: [S.I. 2000/1054](https://www.legislation.gov.uk/uksi/2000/1054). Regulation 7 was amended by [S.I. 2009/615](https://www.legislation.gov.uk/uksi/2009/615).

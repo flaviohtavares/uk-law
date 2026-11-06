@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 156. Form of list[^key-d660325325f33dbbf40258eb21d50e97]
+## 156. Form of list[^c-d660325325f33dbbf40258eb21d50e97]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.207 of the 1991 Rules.
 
 ## Annotations
 
-[^key-d660325325f33dbbf40258eb21d50e97]: Commencement: Rule 156 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-d660325325f33dbbf40258eb21d50e97]: Commencement: Rule 156 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

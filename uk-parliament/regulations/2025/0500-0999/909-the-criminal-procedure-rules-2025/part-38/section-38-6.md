@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38.6. Expediting an appeal[^key-fa15e23ef0ef3f7a026a96dc5c9f4bc1]
+## 38.6. Expediting an appeal[^c-fa15e23ef0ef3f7a026a96dc5c9f4bc1]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa15e23ef0ef3f7a026a96dc5c9f4bc1]: Commencement: [Rule 38.6](https://www.legislation.gov.uk/uksi/2025/909/rule/38.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-fa15e23ef0ef3f7a026a96dc5c9f4bc1]: Commencement: [Rule 38.6](https://www.legislation.gov.uk/uksi/2025/909/rule/38.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

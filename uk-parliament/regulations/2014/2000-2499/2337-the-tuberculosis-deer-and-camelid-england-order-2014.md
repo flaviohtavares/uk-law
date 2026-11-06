@@ -34,7 +34,7 @@ Animals, England
 
 Animal Health
 
-The Tuberculosis (Deer and Camelid) (England) Order 2014 (revoked)[^key-f8308055c6640e91a006f444c6e407d7]
+The Tuberculosis (Deer and Camelid) (England) Order 2014 (revoked)[^c-f8308055c6640e91a006f444c6e407d7]
 
 Made
 
@@ -44,107 +44,107 @@ Coming into force
 
 1st October 2014
 
-[^key-f8308055c6640e91a006f444c6e407d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f8308055c6640e91a006f444c6e407d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Introductory provisions[^key-f8308055c6640e91a006f444c6e407d7]
+## PART 1 — Introductory provisions[^c-f8308055c6640e91a006f444c6e407d7]
 
-### 1. Title, commencement, application and expiry[^key-f8308055c6640e91a006f444c6e407d7]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-f8308055c6640e91a006f444c6e407d7]
+### 1. Title, commencement, application and expiry[^c-f8308055c6640e91a006f444c6e407d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Deer[^key-f8308055c6640e91a006f444c6e407d7]
-
-### 3. Notification of suspected tuberculosis in a deer[^key-f8308055c6640e91a006f444c6e407d7]
+### 2. Interpretation[^c-f8308055c6640e91a006f444c6e407d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Notification of suspected tuberculosis in a deer carcase[^key-f8308055c6640e91a006f444c6e407d7]
+## PART 2 — Deer[^c-f8308055c6640e91a006f444c6e407d7]
+
+### 3. Notification of suspected tuberculosis in a deer[^c-f8308055c6640e91a006f444c6e407d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Veterinary inquiry as to the existence of tuberculosis in deer[^key-f8308055c6640e91a006f444c6e407d7]
+### 4. Notification of suspected tuberculosis in a deer carcase[^c-f8308055c6640e91a006f444c6e407d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Testing of deer[^key-f8308055c6640e91a006f444c6e407d7]
+### 5. Veterinary inquiry as to the existence of tuberculosis in deer[^c-f8308055c6640e91a006f444c6e407d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Slaughter of deer to prevent spread of tuberculosis[^key-f8308055c6640e91a006f444c6e407d7]
+### 6. Testing of deer[^c-f8308055c6640e91a006f444c6e407d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Prohibition on vaccination and therapeutic treatment of deer[^key-f8308055c6640e91a006f444c6e407d7]
+### 7. Slaughter of deer to prevent spread of tuberculosis[^c-f8308055c6640e91a006f444c6e407d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Precautions against spread of tuberculosis infection in deer[^key-f8308055c6640e91a006f444c6e407d7]
+### 8. Prohibition on vaccination and therapeutic treatment of deer[^c-f8308055c6640e91a006f444c6e407d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Identification and movement of deer[^key-f8308055c6640e91a006f444c6e407d7]
+### 9. Precautions against spread of tuberculosis infection in deer[^c-f8308055c6640e91a006f444c6e407d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Camelids[^key-f8308055c6640e91a006f444c6e407d7]
-
-### 11. Notification of suspected tuberculosis in a camelid carcase[^key-f8308055c6640e91a006f444c6e407d7]
+### 10. Identification and movement of deer[^c-f8308055c6640e91a006f444c6e407d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Tuberculosis testing of camelids[^key-f8308055c6640e91a006f444c6e407d7]
+## PART 3 — Camelids[^c-f8308055c6640e91a006f444c6e407d7]
+
+### 11. Notification of suspected tuberculosis in a camelid carcase[^c-f8308055c6640e91a006f444c6e407d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Prohibition on vaccination and therapeutic treatment of camelids[^key-f8308055c6640e91a006f444c6e407d7]
+### 12. Tuberculosis testing of camelids[^c-f8308055c6640e91a006f444c6e407d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Precautions against spread of tuberculosis infection in camelids[^key-f8308055c6640e91a006f444c6e407d7]
+### 13. Prohibition on vaccination and therapeutic treatment of camelids[^c-f8308055c6640e91a006f444c6e407d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Slaughter of camelids to prevent spread of tuberculosis[^key-f8308055c6640e91a006f444c6e407d7]
+### 14. Precautions against spread of tuberculosis infection in camelids[^c-f8308055c6640e91a006f444c6e407d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — General provisions[^key-f8308055c6640e91a006f444c6e407d7]
-
-### 16. Enforcement[^key-f8308055c6640e91a006f444c6e407d7]
+### 15. Slaughter of camelids to prevent spread of tuberculosis[^c-f8308055c6640e91a006f444c6e407d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Notices, licences and consents[^key-f8308055c6640e91a006f444c6e407d7]
+## PART 4 — General provisions[^c-f8308055c6640e91a006f444c6e407d7]
+
+### 16. Enforcement[^c-f8308055c6640e91a006f444c6e407d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Ascertainment of market value of deer for purposes of payment of compensation[^key-f8308055c6640e91a006f444c6e407d7]
+### 17. Notices, licences and consents[^c-f8308055c6640e91a006f444c6e407d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Revocations[^key-f8308055c6640e91a006f444c6e407d7]
+### 18. Ascertainment of market value of deer for purposes of payment of compensation[^c-f8308055c6640e91a006f444c6e407d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Transitional provisions[^key-f8308055c6640e91a006f444c6e407d7]
+### 19. Revocations[^c-f8308055c6640e91a006f444c6e407d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Review[^key-f8308055c6640e91a006f444c6e407d7]
+### 20. Transitional provisions[^c-f8308055c6640e91a006f444c6e407d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f8308055c6640e91a006f444c6e407d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 21. Review[^c-f8308055c6640e91a006f444c6e407d7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-f8308055c6640e91a006f444c6e407d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-f8308055c6640e91a006f444c6e407d7]EXPLANATORY NOTE
+[^c-f8308055c6640e91a006f444c6e407d7]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -182,4 +182,4 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 ## Annotations
 
-[^key-f8308055c6640e91a006f444c6e407d7]: Textual amendment: Order revoked (1.10.2021) by [The Tuberculosis in Animals (England) Order 2021 (S.I. 2021/1001)](https://www.legislation.gov.uk/uksi/2021/1001), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1), [26](https://www.legislation.gov.uk/uksi/2021/1001/article/26) (with [art. 28(1)(a)](https://www.legislation.gov.uk/uksi/2021/1001/article/28/1/a))
+[^c-f8308055c6640e91a006f444c6e407d7]: Textual amendment: Order revoked (1.10.2021) by [The Tuberculosis in Animals (England) Order 2021 (S.I. 2021/1001)](https://www.legislation.gov.uk/uksi/2021/1001), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1), [26](https://www.legislation.gov.uk/uksi/2021/1001/article/26) (with [art. 28(1)(a)](https://www.legislation.gov.uk/uksi/2021/1001/article/28/1/a))

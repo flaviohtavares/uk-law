@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Inheritance tax: power to amend definitions of “market maker”[^key-105ebb2e739b9f0ecfcf66364bd3ba1d]
+## 11. Inheritance tax: power to amend definitions of “market maker”[^c-105ebb2e739b9f0ecfcf66364bd3ba1d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In sections 106(4)(a) and 107(4)(a) (power to amend sections 105(7) and 234(4) o
 
 ## Annotations
 
-[^key-105ebb2e739b9f0ecfcf66364bd3ba1d]: Commencement: Art. 11 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-105ebb2e739b9f0ecfcf66364bd3ba1d]: Commencement: Art. 11 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

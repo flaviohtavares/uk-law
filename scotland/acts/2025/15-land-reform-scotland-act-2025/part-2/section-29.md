@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Compensation arising as a result of diversification[^key-f390ca5804e651085d529e0e8f2e8d1c]
+## 29. Compensation arising as a result of diversification[^c-f390ca5804e651085d529e0e8f2e8d1c]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f390ca5804e651085d529e0e8f2e8d1c]: Commencement: S. 29 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-f390ca5804e651085d529e0e8f2e8d1c]: Commencement: S. 29 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

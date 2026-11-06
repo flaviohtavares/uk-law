@@ -68,7 +68,7 @@ In accordance with section 105(6) of that Act (as applied by paragraph 34(2) of 
 - “**counting officer**” (“***swyddog cyfrif***”) means a person referred to in regulation 9;
 - “**elected mayor**” (“***maer etholedig***”), in relation to a local authority, means an individual elected as mayor of the local authority by the local government electors for the local authority's area in accordance with provisions made by or under Part II of the 2000 Act;
 - “**the Elections Act**” (“***Deddf yr Etholiadau***”) means the Political Parties, Elections and Referendums Act 2000 [^c19368201];
-- [^key-8b3e6fbcd05a926af682e04e4e50047f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-8b3e6fbcd05a926af682e04e4e50047f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**further referendum**” (“***refferendwm pellach***”) means a referendum held in pursuance of an order under regulation 13(3);
 - “**the Local Government Act Referendums Rules**” (“***Rheolau Refferenda'r Ddeddf Llywodraeth Leol***”) means the rules set out in Schedule 3 to these Regulations;
 - “**local government election**” (“***etholiad llywodraeth leol***”) must be construed in accordance with section 203(1) of the 1983 Act;
@@ -188,10 +188,10 @@ Where the proposals in relation to which a referendum is to be held involve—
 
 (6) A person who commits an offence under paragraph (3) is liable—
 
-- (a) on summary conviction, to a fine not exceeding the statutory maximum or imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-963acd309669dada3e358caba3339fa4] or both, or
+- (a) on summary conviction, to a fine not exceeding the statutory maximum or imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-963acd309669dada3e358caba3339fa4] or both, or
 - (b) on conviction on indictment, to a fine or imprisonment for a term not exceeding 12 months or both.
 
-(7) In relation to an offence committed before the commencement of paragraph 24(2) of Schedule 22 to the Sentencing Act 2020[^key-799b534b5c5684599a839a8312333ed0], the reference in paragraph (6)(a) to the general limit in a magistrates’ court[^key-125e4fb8cd79f31db902ae7c83dfcc88] is to be read as a reference to 6 months.
+(7) In relation to an offence committed before the commencement of paragraph 24(2) of Schedule 22 to the Sentencing Act 2020[^c-799b534b5c5684599a839a8312333ed0], the reference in paragraph (6)(a) to the general limit in a magistrates’ court[^c-125e4fb8cd79f31db902ae7c83dfcc88] is to be read as a reference to 6 months.
 
 (8) Nothing in paragraph (2) affects the right of any creditor who, when the expense was incurred, was ignorant of that expense being in contravention of that paragraph.
 
@@ -570,7 +570,7 @@ No person who has voted at the referendum is required, in any legal proceeding t
 
 (1) The counting officer may use, free of charge, for the purpose of taking the poll or counting the votes—
 
-- (a) a room in a school maintained or assisted by a local authority (within the meaning of section 579(1) of the Education Act 1996)[^key-cc148a0f80a85bebb1e72c9587a2e6e1] or a school in respect of which grants are made out of moneys provided by the Welsh Ministers to the person or body of persons responsible for the management of the school;
+- (a) a room in a school maintained or assisted by a local authority (within the meaning of section 579(1) of the Education Act 1996)[^c-cc148a0f80a85bebb1e72c9587a2e6e1] or a school in respect of which grants are made out of moneys provided by the Welsh Ministers to the person or body of persons responsible for the management of the school;
 - (b) a room the expense of maintaining which is payable out of any rate.
 
 (2) The counting officer must make good any damage done to, and defray any expense incurred by the persons having control over, any such room as mentioned above by reason of its being used for the purpose of taking the poll or counting the votes.
@@ -1396,7 +1396,7 @@ Regulation 8
   </tbody>
   </table>
 
-  [^c19369121][^c19369131][^c19369141][^c19369151][^c19369161][^c19369171][^c19369181][^c19369191][^c19369201][^c19369211][^c19369221][^c19369231][^c19369241][^c19369251][^c19369261][^c19369271][^c19369281][^c19369291][^c19369301][^c19369311][^c19369321][^c19369331][^c19369341][^c19369351][^c19369361][^c19369371][^c19369381][^c19369391][^c19369401][^c19369411][^c19369421][^c19369431][^c19369441][^c19369451][^c19369461][^c19369471][^c19369481][^c19369491][^key-d48ad8707756d2295fbff526343489b6][^key-ef38d47065970bfccdcb65a630e4e0c2]
+  [^c19369121][^c19369131][^c19369141][^c19369151][^c19369161][^c19369171][^c19369181][^c19369191][^c19369201][^c19369211][^c19369221][^c19369231][^c19369241][^c19369251][^c19369261][^c19369271][^c19369281][^c19369291][^c19369301][^c19369311][^c19369321][^c19369331][^c19369341][^c19369351][^c19369361][^c19369371][^c19369381][^c19369391][^c19369401][^c19369411][^c19369421][^c19369431][^c19369441][^c19369451][^c19369461][^c19369471][^c19369481][^c19369491][^c-d48ad8707756d2295fbff526343489b6][^c-ef38d47065970bfccdcb65a630e4e0c2]
 
 ## SCHEDULE 5 — Application, with further modifications, of the Representation of the People Act 1983 in relation to Referendum Petitions
 
@@ -1527,7 +1527,7 @@ A regulatory impact assessment has been carried out in connection with these Reg
 
 [^c19368201]: Marginal citation: [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41).
 
-[^key-8b3e6fbcd05a926af682e04e4e50047f]: Textual amendment: Words in reg. 2(1) omitted (31.1.2020) by virtue of [The Elections (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/115)](https://www.legislation.gov.uk/wsi/2019/115), [regs. 1](https://www.legislation.gov.uk/wsi/2019/115/regulation/1), [4(2)](https://www.legislation.gov.uk/wsi/2019/115/regulation/4/2) (as read with [The European Union (Withdrawal Agreement) Act 2020 (Disapplication of the Deferral of Subordinate Legislation) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/93)](https://www.legislation.gov.uk/uksi/2020/93), [reg. 2](https://www.legislation.gov.uk/uksi/2020/93/regulation/2))
+[^c-8b3e6fbcd05a926af682e04e4e50047f]: Textual amendment: Words in reg. 2(1) omitted (31.1.2020) by virtue of [The Elections (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/115)](https://www.legislation.gov.uk/wsi/2019/115), [regs. 1](https://www.legislation.gov.uk/wsi/2019/115/regulation/1), [4(2)](https://www.legislation.gov.uk/wsi/2019/115/regulation/4/2) (as read with [The European Union (Withdrawal Agreement) Act 2020 (Disapplication of the Deferral of Subordinate Legislation) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/93)](https://www.legislation.gov.uk/uksi/2020/93), [reg. 2](https://www.legislation.gov.uk/uksi/2020/93/regulation/2))
 
 [^c19368221]: Marginal citation: [S.I. 2007/1024](https://www.legislation.gov.uk/uksi/2007/1024).
 
@@ -1549,11 +1549,11 @@ A regulatory impact assessment has been carried out in connection with these Reg
 
 [^c19368311]: Marginal citation: [Section 10](https://www.legislation.gov.uk/wsi/2008/1848/section/10) was substituted together with section 10A for section 10 as originally enacted by paragraph 4 of Schedule 1 to the [Representation of the People Act 2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2) and amended by paragraphs 5 and 105 of Schedule 1 to the [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22).
 
-[^key-963acd309669dada3e358caba3339fa4]: Textual amendment: Words in [reg. 6(6)(a)](https://www.legislation.gov.uk/wsi/2008/1848/regulation/6/6/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2 table](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
+[^c-963acd309669dada3e358caba3339fa4]: Textual amendment: Words in [reg. 6(6)(a)](https://www.legislation.gov.uk/wsi/2008/1848/regulation/6/6/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2 table](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
 
-[^key-799b534b5c5684599a839a8312333ed0]: Textual amendment: Words in [reg. 6(7)](https://www.legislation.gov.uk/wsi/2008/1848/regulation/6/7) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 446(1)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/446/1) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-799b534b5c5684599a839a8312333ed0]: Textual amendment: Words in [reg. 6(7)](https://www.legislation.gov.uk/wsi/2008/1848/regulation/6/7) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 446(1)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/446/1) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-125e4fb8cd79f31db902ae7c83dfcc88]: Textual amendment: Words in [reg. 6(7)](https://www.legislation.gov.uk/wsi/2008/1848/regulation/6/7) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2 table](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
+[^c-125e4fb8cd79f31db902ae7c83dfcc88]: Textual amendment: Words in [reg. 6(7)](https://www.legislation.gov.uk/wsi/2008/1848/regulation/6/7) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2 table](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
 
 [^c19368331]: Marginal citation: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2); subsection (1A) was inserted by the Local Government (Wales) Act 1994, section 66(6), Schedule 16, paragraph 68(7).
 
@@ -1565,7 +1565,7 @@ A regulatory impact assessment has been carried out in connection with these Reg
 
 [^c19368391]: Marginal citation: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41).
 
-[^key-cc148a0f80a85bebb1e72c9587a2e6e1]: Textual amendment: Words in [Sch. 3 para. 11](https://www.legislation.gov.uk/wsi/2008/1848/schedule/3/paragraph/11) substituted (5.5.2010) by [The Local Education Authorities and Childrens Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 2 para. 24](https://www.legislation.gov.uk/wsi/2010/1142/schedule/2/paragraph/24)
+[^c-cc148a0f80a85bebb1e72c9587a2e6e1]: Textual amendment: Words in [Sch. 3 para. 11](https://www.legislation.gov.uk/wsi/2008/1848/schedule/3/paragraph/11) substituted (5.5.2010) by [The Local Education Authorities and Childrens Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 2 para. 24](https://www.legislation.gov.uk/wsi/2010/1142/schedule/2/paragraph/24)
 
 [^c19368421]: Marginal citation: *See* the Representation of the People (England and Wales) Regulations 2001 [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341) (amended by [S.I. 2001/1700](https://www.legislation.gov.uk/uksi/2001/1700), 2002/1871, 2004/226, 2006/752 and 2006/2910).
 
@@ -1741,9 +1741,9 @@ A regulatory impact assessment has been carried out in connection with these Reg
 
 [^c19369491]: Marginal citation: Amended by [S.I. 2005/2114](https://www.legislation.gov.uk/uksi/2005/2114).
 
-[^key-d48ad8707756d2295fbff526343489b6]: Textual amendment: Words in Sch. 4 substituted (31.1.2020) by [The Elections (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/115)](https://www.legislation.gov.uk/wsi/2019/115), [regs. 1](https://www.legislation.gov.uk/wsi/2019/115/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/wsi/2019/115/regulation/4/3/a) (as read with [The European Union (Withdrawal Agreement) Act 2020 (Disapplication of the Deferral of Subordinate Legislation) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/93)](https://www.legislation.gov.uk/uksi/2020/93), [reg. 2](https://www.legislation.gov.uk/uksi/2020/93/regulation/2))
+[^c-d48ad8707756d2295fbff526343489b6]: Textual amendment: Words in Sch. 4 substituted (31.1.2020) by [The Elections (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/115)](https://www.legislation.gov.uk/wsi/2019/115), [regs. 1](https://www.legislation.gov.uk/wsi/2019/115/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/wsi/2019/115/regulation/4/3/a) (as read with [The European Union (Withdrawal Agreement) Act 2020 (Disapplication of the Deferral of Subordinate Legislation) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/93)](https://www.legislation.gov.uk/uksi/2020/93), [reg. 2](https://www.legislation.gov.uk/uksi/2020/93/regulation/2))
 
-[^key-ef38d47065970bfccdcb65a630e4e0c2]: Textual amendment: Words in Sch. 4 substituted (31.1.2020) by [The Elections (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/115)](https://www.legislation.gov.uk/wsi/2019/115), [regs. 1](https://www.legislation.gov.uk/wsi/2019/115/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/wsi/2019/115/regulation/4/3/b) (as read with [The European Union (Withdrawal Agreement) Act 2020 (Disapplication of the Deferral of Subordinate Legislation) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/93)](https://www.legislation.gov.uk/uksi/2020/93), [reg. 2](https://www.legislation.gov.uk/uksi/2020/93/regulation/2))
+[^c-ef38d47065970bfccdcb65a630e4e0c2]: Textual amendment: Words in Sch. 4 substituted (31.1.2020) by [The Elections (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/115)](https://www.legislation.gov.uk/wsi/2019/115), [regs. 1](https://www.legislation.gov.uk/wsi/2019/115/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/wsi/2019/115/regulation/4/3/b) (as read with [The European Union (Withdrawal Agreement) Act 2020 (Disapplication of the Deferral of Subordinate Legislation) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/93)](https://www.legislation.gov.uk/uksi/2020/93), [reg. 2](https://www.legislation.gov.uk/uksi/2020/93/regulation/2))
 
 [^c19369501]: Marginal citation: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2); [section 128](https://www.legislation.gov.uk/wsi/2008/1848/section/128) was amended by paragraph 12 of Schedule 1 to the [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22).
 

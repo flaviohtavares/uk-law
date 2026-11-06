@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Training manual[^key-bcae82d634b9dc42071cee50f03ece38]
+## 66. Training manual[^c-bcae82d634b9dc42071cee50f03ece38]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcae82d634b9dc42071cee50f03ece38]: Commencement: Reg. 66 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-bcae82d634b9dc42071cee50f03ece38]: Commencement: Reg. 66 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

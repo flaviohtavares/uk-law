@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Abandonment of, or repetition of steps in, a procurement[^key-bb917322182876a10f82bc4b62ebff30]
+## 15. Abandonment of, or repetition of steps in, a procurement[^c-bb917322182876a10f82bc4b62ebff30]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ where that decision is in accordance with the procedure and requirements in regu
 
 (3) Where a relevant authority makes a decision referred to in paragraph (2), the relevant authority may only abandon the procurement or repeat those steps after the standstill period has ended.
 
-(4) Where, having started a process to procure relevant health care services under these Regulations, a relevant authority decides to abandon a procurement, the relevant authority must submit for publication on the central digital platform[^key-a89559bb286e59e996ee27b5a7018d55] a notice of that decision.
+(4) Where, having started a process to procure relevant health care services under these Regulations, a relevant authority decides to abandon a procurement, the relevant authority must submit for publication on the central digital platform[^c-a89559bb286e59e996ee27b5a7018d55] a notice of that decision.
 
 (5) The notice in paragraph (4) must be submitted for publication—
 
@@ -56,6 +56,6 @@ where that decision is in accordance with the procedure and requirements in regu
 
 ## Annotations
 
-[^key-bb917322182876a10f82bc4b62ebff30]: Commencement: Reg. 15 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-bb917322182876a10f82bc4b62ebff30]: Commencement: Reg. 15 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
 
-[^key-a89559bb286e59e996ee27b5a7018d55]: Textual amendment: Words in [reg. 15(4)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/15/4) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2025/163/regulation/28/3) (with [reg. 34](https://www.legislation.gov.uk/uksi/2025/163/regulation/34))
+[^c-a89559bb286e59e996ee27b5a7018d55]: Textual amendment: Words in [reg. 15(4)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/15/4) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2025/163/regulation/28/3) (with [reg. 34](https://www.legislation.gov.uk/uksi/2025/163/regulation/34))

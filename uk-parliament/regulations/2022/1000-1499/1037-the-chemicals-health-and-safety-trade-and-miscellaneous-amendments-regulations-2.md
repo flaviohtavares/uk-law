@@ -54,13 +54,13 @@ In accordance with paragraph 4(1) of Schedule 2 to the Trade Act 2021, and parag
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-5bd3dbf2b87ab9f6c7a4991e0839bfa2]
+### 1. Citation and commencement[^c-5bd3dbf2b87ab9f6c7a4991e0839bfa2]
 
 (1) These Regulations may be cited as the Chemicals (Health and Safety) Trade and Miscellaneous Amendments Regulations 2022.
 
 (2) These Regulations come into force on the 22nd day after the day on which they are made.
 
-### 2. Extent[^key-09180a611e1eb6f11a89a4e476b8e51d]
+### 2. Extent[^c-09180a611e1eb6f11a89a4e476b8e51d]
 
 (1) This Part and Part 2 extend to England and Wales, Northern Ireland and Scotland.
 
@@ -68,7 +68,7 @@ In accordance with paragraph 4(1) of Schedule 2 to the Trade Act 2021, and parag
 
 ## PART 2 — TRADE
 
-### 3. Disclosure of chemical trade and safety information within UK[^key-e735d353e6f2143acaf18b34b4c780d7]
+### 3. Disclosure of chemical trade and safety information within UK[^c-e735d353e6f2143acaf18b34b4c780d7]
 
 (1) This regulation applies to information which relates to the trade in or safety of chemicals supplied by a relevant trading partner, or such person as a relevant trading partner may specify by written notice to the Secretary of State, for the purpose of giving effect to a provision of the EEA EFTA Agreement (including any annex to such agreement).
 
@@ -87,13 +87,13 @@ In accordance with paragraph 4(1) of Schedule 2 to the Trade Act 2021, and parag
 
 (5) A person who receives the information following consent by the Executive under sub-paragraph 4(b) may use or disclose the information in accordance with paragraph (4).
 
-### 4. Disclosure of chemical trade and safety information to a relevant trading partner[^key-fd8c6f64726c4bacfd6f90c0eddc5cf1]
+### 4. Disclosure of chemical trade and safety information to a relevant trading partner[^c-fd8c6f64726c4bacfd6f90c0eddc5cf1]
 
 (1) This regulation applies to information held by the Executive which relates to the trade in or safety of chemicals.
 
 (2) The Executive may disclose information to a relevant trading partner, or such person as the relevant trading partner may specify by written notice to the Secretary of State, for the purpose of giving effect to a provision of the EEA EFTA Agreement (including any annex to such agreement).
 
-### 5. General provisions about disclosure of chemical trade and safety information[^key-43b6fe587ae771ecffdf2f03c827f438]
+### 5. General provisions about disclosure of chemical trade and safety information[^c-43b6fe587ae771ecffdf2f03c827f438]
 
 (1) Nothing in regulation 3 or 4 limits the circumstances in which information may be disclosed under any other enactment or rule of law.
 
@@ -104,7 +104,7 @@ In accordance with paragraph 4(1) of Schedule 2 to the Trade Act 2021, and parag
 
 (3) Nothing in this regulation, or regulation 3 and 4, authorises a disclosure of information if the disclosure would contravene the data protection legislation (but in determining whether a disclosure would do so, regulation 3 and 4 of these Regulations should be taken into account).
 
-### 6. Interpretation of regulations 3 to 5[^key-d9d1e7d461c8096f24a5b3e137f8b883]
+### 6. Interpretation of regulations 3 to 5[^c-d9d1e7d461c8096f24a5b3e137f8b883]
 
 In regulations 3 to 5—
 
@@ -115,7 +115,7 @@ In regulations 3 to 5—
 
 ## PART 3 — AMENDMENTS TO RETAINED DIRECT EU LEGISLATION
 
-### 7. Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272)[^key-b435e37715a1f3bad7b5792c85fe15fb]
+### 7. Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272)[^c-b435e37715a1f3bad7b5792c85fe15fb]
 
 (1) Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures[^f00008] is amended as follows.
 
@@ -134,7 +134,7 @@ In regulations 3 to 5—
 
 (6) Omit Article 53c (Separate delegated acts for different delegated powers).
 
-### 8. Regulation (EU) No 649/2012[^key-43f8fea49c5f1b174abee67e3f0526a6]
+### 8. Regulation (EU) No 649/2012[^c-43f8fea49c5f1b174abee67e3f0526a6]
 
 (1) Regulation (EU) No 649/2012 of the European Parliament and of the Council of 4 July 2012 concerning the export and import of hazardous chemicals (recast)[^f00009] is amended as follows.
 
@@ -149,7 +149,7 @@ In regulations 3 to 5—
 
 .
 
-### 9. Regulation (EU) No 528/2012[^key-236d995dfee35a198ceabf8b491dcb06]
+### 9. Regulation (EU) No 528/2012[^c-236d995dfee35a198ceabf8b491dcb06]
 
 (1) Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products[^f00011] is amended as follows.
 
@@ -157,7 +157,7 @@ In regulations 3 to 5—
 
 (3) In Article 64(2), omit “, as applicable”[^f00012].
 
-### 10. Commission Delegated Regulation (EU) No 1062/2014[^key-8f45d553bee97f4fbb8081fc0e99055a]
+### 10. Commission Delegated Regulation (EU) No 1062/2014[^c-8f45d553bee97f4fbb8081fc0e99055a]
 
 (1) Commission Delegated Regulation (EU) No 1062/2014 of 4 August 2014 on the work programme for the systematic examination of all existing active substances contained in biocidal products referred to in Regulation (EU) No 528/2012 of the European Parliament and of the Council[^f00013] is amended as follows.
 
@@ -174,7 +174,7 @@ In regulations 3 to 5—
 - (a) in paragraph (1), for “point (a)(ii) of Article 89(7)” substitute “Article 89(8)”;
 - (b) in paragraph (3), omit “point (a)(ii) of”[^f00014].
 
-### 11. Commission Implementing Regulation (EU) No 88/2014[^key-935b32f590f09e4d52a7129f83d98a40]
+### 11. Commission Implementing Regulation (EU) No 88/2014[^c-935b32f590f09e4d52a7129f83d98a40]
 
 (1) Commission Implementing Regulation (EU) No 88/2014 of 31 January 2014 specifying a procedure for the amendment of Annex I to Regulation (EU) No 528/2012 of the European Parliament and of the Council concerning the making available on the market and use of biocidal products[^f00015] is amended as follows.
 
@@ -194,13 +194,13 @@ In regulations 3 to 5—
 
 ## PART 4 — DOMESTIC LEGISLATION
 
-### 12. Plant Protection Product (Fees and Charges) Regulations 2011[^key-a8f9efcae10d293da327934e05998d1b]
+### 12. Plant Protection Product (Fees and Charges) Regulations 2011[^c-a8f9efcae10d293da327934e05998d1b]
 
 (1) The Plant Protection Product (Fees and Charges) Regulations 2011[^f00016] are amended as follows.
 
 (2) In regulation 2, in both places it occurs, for “EU law” substitute “Northern Ireland by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement”.
 
-### 13. Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013[^key-b4f39a7843708768c187fd256341e6f0]
+### 13. Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013[^c-b4f39a7843708768c187fd256341e6f0]
 
 (1) The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013[^f00017] are amended as follows.
 
@@ -210,7 +210,7 @@ In regulations 3 to 5—
 
 (4) In paragraph 11 of Schedule 2, for “exit day” substitute “IP completion day”.
 
-### 14. Health and Safety and Nuclear (Fees) Regulations 2021[^key-ed05284d040bcc68de1ad14916f3c4dc][^key-2056b1f377f1977e92fa13842586ba54]
+### 14. Health and Safety and Nuclear (Fees) Regulations 2021[^c-ed05284d040bcc68de1ad14916f3c4dc][^c-2056b1f377f1977e92fa13842586ba54]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -258,17 +258,17 @@ No impact assessment has been prepared for these Regulations as there is not exp
 
 [^f00004]: Footnote: Paragraph 8F of Schedule 7 to the 2018 Act was inserted by paragraph 51 of Schedule 5 to the 2020 Act.
 
-[^key-5bd3dbf2b87ab9f6c7a4991e0839bfa2]: Commencement: Reg. 1 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1037/regulation/1/2)
+[^c-5bd3dbf2b87ab9f6c7a4991e0839bfa2]: Commencement: Reg. 1 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1037/regulation/1/2)
 
-[^key-09180a611e1eb6f11a89a4e476b8e51d]: Commencement: Reg. 2 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1037/regulation/1/2)
+[^c-09180a611e1eb6f11a89a4e476b8e51d]: Commencement: Reg. 2 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1037/regulation/1/2)
 
-[^key-e735d353e6f2143acaf18b34b4c780d7]: Commencement: Reg. 3 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1037/regulation/1/2)
+[^c-e735d353e6f2143acaf18b34b4c780d7]: Commencement: Reg. 3 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1037/regulation/1/2)
 
-[^key-fd8c6f64726c4bacfd6f90c0eddc5cf1]: Commencement: Reg. 4 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1037/regulation/1/2)
+[^c-fd8c6f64726c4bacfd6f90c0eddc5cf1]: Commencement: Reg. 4 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1037/regulation/1/2)
 
-[^key-43b6fe587ae771ecffdf2f03c827f438]: Commencement: Reg. 5 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1037/regulation/1/2)
+[^c-43b6fe587ae771ecffdf2f03c827f438]: Commencement: Reg. 5 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1037/regulation/1/2)
 
-[^key-d9d1e7d461c8096f24a5b3e137f8b883]: Commencement: Reg. 6 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1037/regulation/1/2)
+[^c-d9d1e7d461c8096f24a5b3e137f8b883]: Commencement: Reg. 6 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1037/regulation/1/2)
 
 [^f00005]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12). Section 3(9) of the Data Protection Act 2018 was amended by [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419), regulation 4 and Schedule 2, paragraph 1 and 4.
 
@@ -276,40 +276,40 @@ No impact assessment has been prepared for these Regulations as there is not exp
 
 [^f00007]: Footnote: The Health and Safety Executive was established by section 10 of the Health and Safety at Work etc. Act [1974 (c. 37)](https://www.legislation.gov.uk/ukpga/1974/37), which was amended by Article 4 of [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960).
 
-[^key-b435e37715a1f3bad7b5792c85fe15fb]: Commencement: Reg. 7 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1037/regulation/1/2)
+[^c-b435e37715a1f3bad7b5792c85fe15fb]: Commencement: Reg. 7 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1037/regulation/1/2)
 
 [^f00008]: Footnote: EUR 2008/1272. Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures was amended by the Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 ([S.I. 2019/720](https://www.legislation.gov.uk/uksi/2019/720)) and the Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 ([S.I. 2020/1567](https://www.legislation.gov.uk/uksi/2020/1567)).
 
-[^key-43f8fea49c5f1b174abee67e3f0526a6]: Commencement: Reg. 8 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1037/regulation/1/2)
+[^c-43f8fea49c5f1b174abee67e3f0526a6]: Commencement: Reg. 8 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1037/regulation/1/2)
 
 [^f00009]: Footnote: EUR 2012/649.
 
 [^f00010]: Footnote: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).
 
-[^key-236d995dfee35a198ceabf8b491dcb06]: Commencement: Reg. 9 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1037/regulation/1/2)
+[^c-236d995dfee35a198ceabf8b491dcb06]: Commencement: Reg. 9 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1037/regulation/1/2)
 
 [^f00011]: Footnote: EUR 2018/528. Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products was amended by the Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 ([S.I. 2019/720](https://www.legislation.gov.uk/uksi/2019/720)) and the Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 ([S.I. 2020/1567](https://www.legislation.gov.uk/uksi/2020/1567)).
 
 [^f00012]: Footnote: Article 64 of EUR 2018/528 was amended by paragraph 110(3) of Schedule 2 of the Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 ([S.I. 2019/720](https://www.legislation.gov.uk/uksi/2019/720)).
 
-[^key-8f45d553bee97f4fbb8081fc0e99055a]: Commencement: Reg. 10 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1037/regulation/1/2)
+[^c-8f45d553bee97f4fbb8081fc0e99055a]: Commencement: Reg. 10 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1037/regulation/1/2)
 
 [^f00013]: Footnote: EUR 2014/1062. Commission Delegated Regulation (EU) No 1062/2014 of 4 August 2014 on the work programme for the systematic examination of all existing active substances contained in biocidal products referred to in Regulation (EU) No 528/2012 of the European Parliament and of the Council Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 ([S.I. 2019/720](https://www.legislation.gov.uk/uksi/2019/720)).
 
 [^f00014]: Footnote: Article 22 of EUR 2014/1062 was amended by paragraph 234 of the Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 ([S.I. 2019/720](https://www.legislation.gov.uk/uksi/2019/720)) and the Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 ([S.I. 2020/1567](https://www.legislation.gov.uk/uksi/2020/1567)).
 
-[^key-935b32f590f09e4d52a7129f83d98a40]: Commencement: Reg. 11 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1037/regulation/1/2)
+[^c-935b32f590f09e4d52a7129f83d98a40]: Commencement: Reg. 11 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1037/regulation/1/2)
 
 [^f00015]: Footnote: EUR 2014/88.
 
-[^key-a8f9efcae10d293da327934e05998d1b]: Commencement: Reg. 12 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1037/regulation/1/2)
+[^c-a8f9efcae10d293da327934e05998d1b]: Commencement: Reg. 12 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1037/regulation/1/2)
 
 [^f00016]: Footnote: [S.I. 2011/2132](https://www.legislation.gov.uk/uksi/2011/2132). The Plant Protection Product (Fees and Charges) Regulations 2011 were amended by the Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 ([S.I. 2019/720](https://www.legislation.gov.uk/uksi/2019/720)) and the Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 ([S.I. 2020/1567](https://www.legislation.gov.uk/uksi/2020/1567)). There are other amendments that are not relevant to this instrument.
 
-[^key-b4f39a7843708768c187fd256341e6f0]: Commencement: Reg. 13 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1037/regulation/1/2)
+[^c-b4f39a7843708768c187fd256341e6f0]: Commencement: Reg. 13 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1037/regulation/1/2)
 
 [^f00017]: Footnote: [S.I. 2013/1506](https://www.legislation.gov.uk/uksi/2013/1506). The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 were amended by the Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 ([S.I. 2019/720](https://www.legislation.gov.uk/uksi/2019/720)) and the Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 ([S.I. 2020/1567](https://www.legislation.gov.uk/uksi/2020/1567)).
 
-[^key-ed05284d040bcc68de1ad14916f3c4dc]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2022/1037/regulation/14) revoked (21.12.2022) by [The Health and Safety and Nuclear (Fees) Regulations 2022 (S.I. 2022/1378)](https://www.legislation.gov.uk/uksi/2022/1378), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2022/1378/regulation/28)
+[^c-ed05284d040bcc68de1ad14916f3c4dc]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2022/1037/regulation/14) revoked (21.12.2022) by [The Health and Safety and Nuclear (Fees) Regulations 2022 (S.I. 2022/1378)](https://www.legislation.gov.uk/uksi/2022/1378), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1378/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2022/1378/regulation/28)
 
-[^key-2056b1f377f1977e92fa13842586ba54]: Commencement: Reg. 14 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1037/regulation/1/2)
+[^c-2056b1f377f1977e92fa13842586ba54]: Commencement: Reg. 14 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1037/regulation/1/2)

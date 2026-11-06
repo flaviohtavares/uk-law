@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**15.**[^key-6f416b2df09a09c0c8129a2461e210bb] In regulation 14(1)—
+**15.**[^c-6f416b2df09a09c0c8129a2461e210bb] In regulation 14(1)—
 
 - (a) in subparagraph (a) for “another” substitute “an EU”;
 - (b) in subparagraph (b) for “the UK” substitute “Northern Ireland”.
 
 ## Annotations
 
-[^key-6f416b2df09a09c0c8129a2461e210bb]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-6f416b2df09a09c0c8129a2461e210bb]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)

@@ -28,7 +28,7 @@ summary: ''
 - (d) section 36 and Schedule 3;
 - (e) section 37 and Schedule 4;
 - (f) section 40;
-- (g)[^key-abb70c8c3f5a044b1f0c1a4ad635df09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-abb70c8c3f5a044b1f0c1a4ad635df09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Section 48 and Schedule 6 extend to Northern Ireland only.
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-abb70c8c3f5a044b1f0c1a4ad635df09]: Textual amendment: S. 56(1)(g) omitted (17.10.2023) by virtue of [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4), [Sch. 2 para. 1(7)](https://www.legislation.gov.uk/asc/2023/4/schedule/2/paragraph/1/7); [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(g)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/g)
+[^c-abb70c8c3f5a044b1f0c1a4ad635df09]: Textual amendment: S. 56(1)(g) omitted (17.10.2023) by virtue of [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4), [Sch. 2 para. 1(7)](https://www.legislation.gov.uk/asc/2023/4/schedule/2/paragraph/1/7); [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(g)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/g)

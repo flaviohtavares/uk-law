@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Saving[^key-030156e59b50d9dc29589a8bc7126b5c]
+## 13. Saving[^c-030156e59b50d9dc29589a8bc7126b5c]
 
 *Extent: E+W+S*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-030156e59b50d9dc29589a8bc7126b5c]: Commencement: [Dir. 13](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/13) in force at 22.4.2016, see [dir. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1)
+[^c-030156e59b50d9dc29589a8bc7126b5c]: Commencement: [Dir. 13](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/13) in force at 22.4.2016, see [dir. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1)
 
 [^f00022]: Footnote: Part 2 of [S.I. 1997/2400](https://www.legislation.gov.uk/uksi/1997/2400), amended by [S.I. 1998/901](https://www.legislation.gov.uk/uksi/1998/901).
 

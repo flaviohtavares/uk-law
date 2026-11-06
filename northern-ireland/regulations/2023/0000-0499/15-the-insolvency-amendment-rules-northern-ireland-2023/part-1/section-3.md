@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Saving provisions[^key-da1a3d0e134438535aff70f28fcdb3e6]
+## 3. Saving provisions[^c-da1a3d0e134438535aff70f28fcdb3e6]
 
 *Extent: N.I.*
 
@@ -32,11 +32,11 @@ summary: ''
 
 in relation to that moratorium.
 
-**4.**[^key-9a2ecade66cf6e276b474b2b56c527d5] Nothing in Parts 2 and 3 of these Rules affects the operation of the principal Rules in relation to a moratorium under Schedule A1 to the Order which has come into operation before repeal of that schedule taking effect on 25th June 2020[^f00008].
+**4.**[^c-9a2ecade66cf6e276b474b2b56c527d5] Nothing in Parts 2 and 3 of these Rules affects the operation of the principal Rules in relation to a moratorium under Schedule A1 to the Order which has come into operation before repeal of that schedule taking effect on 25th June 2020[^f00008].
 
 ## Annotations
 
-[^key-da1a3d0e134438535aff70f28fcdb3e6]: Commencement: Rule 3 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-da1a3d0e134438535aff70f28fcdb3e6]: Commencement: Rule 3 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
 [^f00005]: Footnote: Part 1A was inserted by section 4 of the Corporate Insolvency and Governance Act [2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12).
 
@@ -44,6 +44,6 @@ in relation to that moratorium.
 
 [^f00007]: Footnote: [2020 c. 12](https://www.legislation.gov.uk/ukpga/2020/12); Schedule 8 was amended by [S.R. 2020 No. 199](https://www.legislation.gov.uk/nisr/2020/199), [S.R. 2020 No. 214](https://www.legislation.gov.uk/nisr/2020/214) and [S.R. 2021 No. 61](https://www.legislation.gov.uk/nisr/2021/61).
 
-[^key-9a2ecade66cf6e276b474b2b56c527d5]: Commencement: Rule 4 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-9a2ecade66cf6e276b474b2b56c527d5]: Commencement: Rule 4 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
 [^f00008]: Footnote: Schedule A1 to the Order was repealed by paragraph 26 of Schedule 7 to the Corporate Insolvency and Governance Act 2020

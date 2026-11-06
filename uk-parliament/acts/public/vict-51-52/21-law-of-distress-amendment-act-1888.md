@@ -27,7 +27,7 @@ summary: ''
 
 **No longer in force.**
 
-[^key-2e5d50e9870175abef9efa40b4f801b2]Law Of Distress Amendment Act 1888 (repealed)
+[^c-2e5d50e9870175abef9efa40b4f801b2]Law Of Distress Amendment Act 1888 (repealed)
 
 1888 c.21
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e5d50e9870175abef9efa40b4f801b2]: Textual amendment: Act repealed (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 14 para. 19](https://www.legislation.gov.uk/ukpga/2007/15/schedule/14/paragraph/19), [Sch. 23 Pt. 4](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/4) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b); for savings see S.I. 2014/600, art. 6
+[^c-2e5d50e9870175abef9efa40b4f801b2]: Textual amendment: Act repealed (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 14 para. 19](https://www.legislation.gov.uk/ukpga/2007/15/schedule/14/paragraph/19), [Sch. 23 Pt. 4](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/4) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b); for savings see S.I. 2014/600, art. 6

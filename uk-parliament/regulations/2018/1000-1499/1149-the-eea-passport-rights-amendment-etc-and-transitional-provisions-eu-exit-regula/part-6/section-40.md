@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Regulated activities to which regulation 34 applies[^key-ec7994749e834d5079fc7e8b53683f00]
+## 40. Regulated activities to which regulation 34 applies[^c-ec7994749e834d5079fc7e8b53683f00]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (2) This paragraph applies to a regulated activity—
 
-- (a) in the case of a person who satisfies the conditions in regulation 36, which the person is, immediately before IP completion day[^key-77911e7c7ed647a554141fa6f9ed1e49], authorised to carry on in the United Kingdom by virtue of section 31(1)(b) or (c) of the 2000 Act;
+- (a) in the case of a person who satisfies the conditions in regulation 36, which the person is, immediately before IP completion day[^c-77911e7c7ed647a554141fa6f9ed1e49], authorised to carry on in the United Kingdom by virtue of section 31(1)(b) or (c) of the 2000 Act;
 - (b) in the case of a person who satisfies the conditions in regulation 37, which the person is, immediately before the day on which regulation 8 ceases to apply, permitted to carry on in the United Kingdom by virtue of that regulation;
 - (c) in the case of a person who satisfies the conditions in regulation 38, which the person is, immediately before the day on which regulation 11 ceases to apply, permitted to carry on in the United Kingdom by virtue of that regulation;
 - (d) in the case of a person who satisfies the conditions in regulation 39, which the person is, immediately before the day on which regulation 28 ceases to apply, permitted to carry on in the United Kingdom by virtue of that regulation.
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ec7994749e834d5079fc7e8b53683f00]: Textual amendment: Pt. 6 inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2019/405/regulation/2)
+[^c-ec7994749e834d5079fc7e8b53683f00]: Textual amendment: Pt. 6 inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2019/405/regulation/2)
 
-[^key-77911e7c7ed647a554141fa6f9ed1e49]: Textual amendment: Words in [reg. 40](https://www.legislation.gov.uk/uksi/2018/1149/regulation/40) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(v)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/v)
+[^c-77911e7c7ed647a554141fa6f9ed1e49]: Textual amendment: Words in [reg. 40](https://www.legislation.gov.uk/uksi/2018/1149/regulation/40) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(v)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/v)

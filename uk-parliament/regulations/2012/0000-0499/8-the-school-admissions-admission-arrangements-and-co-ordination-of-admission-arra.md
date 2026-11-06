@@ -48,20 +48,20 @@ The Secretary of State for Education makes the following Regulations in exercise
 
 ## PART 1 — General
 
-### 1. Citation, commencement and application[^key-bba4bceac5fd1afeb5d8c1cf2ee3cd3b]
+### 1. Citation, commencement and application[^c-bba4bceac5fd1afeb5d8c1cf2ee3cd3b]
 
 (1) These Regulations may be cited as the School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) Regulations 2012 and come into force on 1st February 2012.
 
-(2) Chapters 1 to 5 of Part 2 of these Regulations apply in relation to arrangements under which pupils are admitted to schools in England for the school[^key-0ee571281f6bc8d102ef84ed92a9291e] year 2013-2014 and subsequent years.
+(2) Chapters 1 to 5 of Part 2 of these Regulations apply in relation to arrangements under which pupils are admitted to schools in England for the school[^c-0ee571281f6bc8d102ef84ed92a9291e] year 2013-2014 and subsequent years.
 
 (3) Part 1 so far as it relates to co-ordination of admission arrangements and Part 3 of these Regulations—
 
-- (a) apply (subject to the saving in regulation 3(3)) in relation to arrangements under which pupils are to be admitted to schools in England for the school[^key-b4cfccace06a9283c3d6081de1b34f2c] year 2014-2015 and subsequent years; and
+- (a) apply (subject to the saving in regulation 3(3)) in relation to arrangements under which pupils are to be admitted to schools in England for the school[^c-b4cfccace06a9283c3d6081de1b34f2c] year 2014-2015 and subsequent years; and
 - (b) do not apply to the Council of the Isles of Scilly.
 
 (4) These Regulations apply in relation to arrangements under which pupils are admitted to schools in England and, in respect of objections to admission arrangements, these Regulations apply to both schools and Academies.
 
-### 2. Interpretation[^key-c2834012cae0a874a776af0d19748b83]
+### 2. Interpretation[^c-c2834012cae0a874a776af0d19748b83]
 
 (1) Save where otherwise appears, any reference in these Regulations to a numbered section is a reference to that section of SSFA 1998.
 
@@ -72,7 +72,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 - “Academy” has the meaning in section 1(10) of the Academies Act 2010[^f00003]: a school to which Academy arrangements relate;
 - “Academy arrangements” has the meaning in section 1(2) of the Academies Act 2010;
 - “admission authority” has the meaning in section 88(1)[^f00004];
-- “admission number” means the number of children in any relevant year group intended to be admitted in the school[^key-b2afca68e28764517a4087a7d0854446] year as determined or, where the context requires, proposed to be determined by an admission authority in accordance with section 88D;
+- “admission number” means the number of children in any relevant year group intended to be admitted in the school[^c-b2afca68e28764517a4087a7d0854446] year as determined or, where the context requires, proposed to be determined by an admission authority in accordance with section 88D;
 - “admission year” in relation to the admission of pupils to schools during a particular school year in pursuance of a qualifying scheme or a scheme imposed by the Secretary of State, means that school year;
 - “application”, in relation to arrangements made by a local authority under section 86(1)[^f00005], means a parent’s expression of preference as to the school at which that parent wishes education to be provided for the child;
 - “determination year”, in relation to the proposed admission arrangements for a school, means the school year beginning two years before the school year to which the arrangements relate;
@@ -87,12 +87,12 @@ The Secretary of State for Education makes the following Regulations in exercise
 - “relevant area” has the meaning in section 88F(4)[^f00009];
 - “school” means a community, foundation or voluntary school;
 - “School Admissions Code” means any code for school admissions issued under section 84[^f00010];
-- “school year” means the period beginning with the first school term to begin after July and ending with the beginning of the first such term to begin after the following July;[^key-39419d97cf4985f8f9a939b831efcbbd]
+- “school year” means the period beginning with the first school term to begin after July and ending with the beginning of the first such term to begin after the following July;[^c-39419d97cf4985f8f9a939b831efcbbd]
 - “selective Academy” is an Academy which replaces a school and to which section 6(3) of the Academies Act 2010 applies (retention of selective admission arrangements on conversion);
 - “selection arrangements” means those arrangements (if any) in the admission arrangements determined for a school for a particular school year which make provision for the selection of pupils by ability or aptitude within the meaning of section 99(5);
 - “working day” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday within the meaning of the Banking and Financial Dealings Act 1971[^f00011];
 
-(3) For the purposes of these Regulations admission arrangements for a school or an Academy are treated as being for the particular school[^key-8daf2d6acfa64de6222ed225f65de612] year in which pupils are to be admitted to the school in consequence of the arrangements.
+(3) For the purposes of these Regulations admission arrangements for a school or an Academy are treated as being for the particular school[^c-8daf2d6acfa64de6222ed225f65de612] year in which pupils are to be admitted to the school in consequence of the arrangements.
 
 (4) For the purposes of these Regulations an application is made in the course of a normal admission round if it is not a late application or an in-year application.
 
@@ -107,7 +107,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 - (a) it is for the admission of a child to a relevant age group and it is submitted on or after the first day of the first school term of the admission year; or
 - (b) it is for the admission of a child to an age group other than a relevant age group.
 
-### 3. Revocations and amendments[^key-4e2b05fd758e2a302d4cdcf050d989db]
+### 3. Revocations and amendments[^c-4e2b05fd758e2a302d4cdcf050d989db]
 
 (1) Subject to the savings in paragraphs (2) and (3) the following Regulations are revoked—
 
@@ -115,11 +115,11 @@ The Secretary of State for Education makes the following Regulations in exercise
 - (b) the School Admissions (Co-ordination of Admission Arrangements) (England) Regulations 2008[^f00014]; and
 - (c) the School Admissions (Local Authority Reports and Admission Forums) (England) Regulations 2008[^f00015].
 
-(2)[^key-6a2a09d87234e58be0f31628c043827f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-6a2a09d87234e58be0f31628c043827f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-6a2a09d87234e58be0f31628c043827f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6a2a09d87234e58be0f31628c043827f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4.[^key-77f2b86b938fd44e83af648322470efc]
+### 4.[^c-77f2b86b938fd44e83af648322470efc]
 
 (1) The School Information (England) Regulations 2008[^f00016] are amended as follows.
 
@@ -131,13 +131,13 @@ The Secretary of State for Education makes the following Regulations in exercise
 
 ### CHAPTER 1 — General
 
-#### 5. Proportion of selective admissions[^key-cd521adbceffb3864a404711742cec8a]
+#### 5. Proportion of selective admissions[^c-cd521adbceffb3864a404711742cec8a]
 
 (1) This regulation has effect for the purpose of calculating the proportion of selective admissions within the meaning of section 100(3) and section 102(4) in relation to the admission of pupils in any relevant age group to a school in any year.
 
-(2) For the purpose of that calculation the total number of pupils in any such age group admitted to the school in a school[^key-605838c5c7561cbd8c5e9df5c5ac0e18] year is to be taken to equal the number of pupils in that age group which it is intended to admit to the school in that year.
+(2) For the purpose of that calculation the total number of pupils in any such age group admitted to the school in a school[^c-605838c5c7561cbd8c5e9df5c5ac0e18] year is to be taken to equal the number of pupils in that age group which it is intended to admit to the school in that year.
 
-#### 6. Selection by aptitude for particular subjects[^key-b35853bc96c230018af6458f9aaa609a]
+#### 6. Selection by aptitude for particular subjects[^c-b35853bc96c230018af6458f9aaa609a]
 
 (1) Subject to paragraph (2) the following subjects are prescribed for the purposes of section 102 (permitted selection: aptitude for particular subjects)—
 
@@ -148,11 +148,11 @@ The Secretary of State for Education makes the following Regulations in exercise
 - (e) design and technology,
 - (f) information technology.
 
-(2) The subjects in sub-paragraphs (e) and (f) of paragraph (1) are prescribed in relation to admission arrangements for a school for the school[^key-fac92567f0c7c292067317a6773ce574] year 2013-2014 and subsequent school years only if the admission arrangements for that school made provision for the selection of pupils by reference to their aptitude in those subjects in relation to the school year 2007-2008 and each subsequent year.
+(2) The subjects in sub-paragraphs (e) and (f) of paragraph (1) are prescribed in relation to admission arrangements for a school for the school[^c-fac92567f0c7c292067317a6773ce574] year 2013-2014 and subsequent school years only if the admission arrangements for that school made provision for the selection of pupils by reference to their aptitude in those subjects in relation to the school year 2007-2008 and each subsequent year.
 
 ### CHAPTER 2 — Admission arrangements: looked after children
 
-#### 7. Priority for looked after children[^key-732d01987f024b2a4b3aacc08355c53f]
+#### 7. Priority for looked after children[^c-732d01987f024b2a4b3aacc08355c53f]
 
 (1) Except where regulations 8, 9, 10 or 11 applies, an admission authority must give first priority in their oversubscription criteria to all relevant looked after children.
 
@@ -161,7 +161,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 - (a) “relevant looked after child” means a child who is looked after by the local authority in accordance with section 22 of the Children Act 1989[^f00017] at the time an application to a school is made, and
 - (b) any reference to an admission authority giving priority in their oversubscription criteria to a relevant looked after child is a reference to the authority giving priority to such a child when determining their admission arrangements before the beginning of each school year in accordance with section 88C.
 
-#### 8. Grammar schools[^key-a595a55dbfba08dc596eb786ecce3831]
+#### 8. Grammar schools[^c-a595a55dbfba08dc596eb786ecce3831]
 
 (1) This regulation applies to an admission authority for a grammar school as defined by section 104(7).
 
@@ -169,7 +169,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 
 (3) Where paragraph (2) does not apply, the admission authority must give first priority in their oversubscription criteria to all relevant looked after children who meet the pre-set standards of the school.
 
-#### 9. Schools designated as having a religious character[^key-8d6f075eab75d5f320ac6c8e511fdd27]
+#### 9. Schools designated as having a religious character[^c-8d6f075eab75d5f320ac6c8e511fdd27]
 
 (1) This regulation applies to an admission authority for a school which has been designated as having a religious character by an order under section 69(3).
 
@@ -178,7 +178,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 - (a) give first priority to all relevant looked after children who are of that faith, and
 - (b) give higher priority to all relevant looked after children not of that faith than to all other children not of that faith.
 
-#### 10. Schools with pre-existing selection arrangements[^key-feac31f3d36d4ab50a950a9acc8b207f]
+#### 10. Schools with pre-existing selection arrangements[^c-feac31f3d36d4ab50a950a9acc8b207f]
 
 (1) This regulation applies to an admission authority for a school which has pre-existing selection arrangements.
 
@@ -188,7 +188,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 
 (4) Where the admission authority have allocated places in accordance with paragraph (2) or (3), they must give higher priority to all relevant looked after children who have not been allocated a place on the basis of their ability or aptitude in the oversubscription criteria than to all other children who have not been offered a place on the basis of their ability or aptitude.
 
-#### 11. Schools which select by pupil banding[^key-ae5e5903772d0d5fd7af1f0f9a46261c]
+#### 11. Schools which select by pupil banding[^c-ae5e5903772d0d5fd7af1f0f9a46261c]
 
 (1) This regulation applies to an admission authority for a school which makes provision for selection by ability in accordance with section 101(1) or (1A)[^f00018] (permitted selection: pupil banding).
 
@@ -196,7 +196,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 
 ### CHAPTER 3 — Procedure for determining admission arrangements: consultation
 
-#### 12. Persons who must be consulted[^key-6d75999dbd5fff3f10115dc8142f4d12]
+#### 12. Persons who must be consulted[^c-6d75999dbd5fff3f10115dc8142f4d12]
 
 (1) This regulation prescribes for the purposes of section 88C(2) the persons who must be consulted about proposed admission arrangements for a school.
 
@@ -213,37 +213,37 @@ The Secretary of State for Education makes the following Regulations in exercise
 
 (4) For the purposes of sub-paragraph (2)(c) a local authority are “neighbouring”, in relation to another local authority, if the areas of the two authorities adjoin to any extent.
 
-#### 13. Matters to which consultation is to relate[^key-656c60c414f2f33f7686b2d2528bd408]
+#### 13. Matters to which consultation is to relate[^c-656c60c414f2f33f7686b2d2528bd408]
 
 (1) This regulation prescribes for the purposes of section 88C(2) the matters to which any consultation must relate.
 
-(2) Subject to regulations 14 and 15, consultation must relate to the arrangements (including any supplementary information form) which the admission authority propose to determine as the admission arrangements for the school for the particular school[^key-72f361a79a8d6f9be73a2a93878d5627] year, except any exempt arrangements.
+(2) Subject to regulations 14 and 15, consultation must relate to the arrangements (including any supplementary information form) which the admission authority propose to determine as the admission arrangements for the school for the particular school[^c-72f361a79a8d6f9be73a2a93878d5627] year, except any exempt arrangements.
 
 (3) For the purposes of paragraph (2) admission arrangements are exempt to the extent that—
 
 - (a) in the case of a grammar school, they make provision that the school should retain selective admission arrangements as defined by section 104(2) or that the school should cease to have such arrangements in accordance with section 108[^f00019] or section 109[^f00020];
 - (b) section 88C is excluded by section 103(1) and (2)[^f00021] from applying to their determination (making or abandonment of provision for selection which constitutes a prescribed alteration).
 
-#### 14. Matters about which consultation is not required[^key-3b03dcaac2147c3b1ee1f2efd13beaae]
+#### 14. Matters about which consultation is not required[^c-3b03dcaac2147c3b1ee1f2efd13beaae]
 
-(1) Subject to paragraph (2) an admission authority are not required to consult about a proposal to increase or keep the same admission number in any consultation on admission arrangements under section 88C(2) for the school[^key-38ef73e5021b52ba12c88c38e21f2c49] year 2013-2014 or any subsequent years.
+(1) Subject to paragraph (2) an admission authority are not required to consult about a proposal to increase or keep the same admission number in any consultation on admission arrangements under section 88C(2) for the school[^c-38ef73e5021b52ba12c88c38e21f2c49] year 2013-2014 or any subsequent years.
 
 (2) Where the admission authority for a community or voluntary controlled school are the local authority they must consult the governing body of the school if they propose to increase or keep the same admission number.
 
-#### 15. Circumstances where consultation on admission arrangements is not required[^key-c1f711b867257b07219bdf3d478c5f3d]
+#### 15. Circumstances where consultation on admission arrangements is not required[^c-c1f711b867257b07219bdf3d478c5f3d]
 
 (1) This regulation prescribes for the purposes of section 88C(2) the circumstances in which an admission authority are not required to consult on their proposed admission arrangements.
 
-(2) Subject to paragraphs (3) and (4) an admission authority are not required to consult on their proposed admission arrangements for the school[^key-6b5430a60eb6135ea6bf3517ca22c4dc] year 2013-2014 and any subsequent admission year where they consulted on their proposed admission arrangements in accordance with section 88C(2) in any of the six[^key-b4d6d419f335a4b7c5d3beaaff2e65d7] preceding determination years, and the proposed arrangements are the same as those determined following the last such consultation.
+(2) Subject to paragraphs (3) and (4) an admission authority are not required to consult on their proposed admission arrangements for the school[^c-6b5430a60eb6135ea6bf3517ca22c4dc] year 2013-2014 and any subsequent admission year where they consulted on their proposed admission arrangements in accordance with section 88C(2) in any of the six[^c-b4d6d419f335a4b7c5d3beaaff2e65d7] preceding determination years, and the proposed arrangements are the same as those determined following the last such consultation.
 
 (3) The proposed arrangements are treated as the same for the purpose of paragraph (2) if the only change made to the proposed admission arrangements is one or more of the following changes—
 
 - (a) an increase to the admission number in accordance with regulation 14, or
 - (b) a change made to comply with any mandatory requirement in the School Admissions Code or these Regulations.
 
-(4) A consultation required under regulation 14(2) is not to be regarded as a consultation for the purpose of calculating whether an admission authority have consulted in any of the six[^key-b1340af34d5521105d26c05d271e7689] preceding determination years in paragraph (2).
+(4) A consultation required under regulation 14(2) is not to be regarded as a consultation for the purpose of calculating whether an admission authority have consulted in any of the six[^c-b1340af34d5521105d26c05d271e7689] preceding determination years in paragraph (2).
 
-#### 16. Manner of consultation[^key-455a1fe77900e7f8e8e65fdc0884ceff]
+#### 16. Manner of consultation[^c-455a1fe77900e7f8e8e65fdc0884ceff]
 
 (1) During a period of consultation an admission authority must—
 
@@ -254,7 +254,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 
 (3) Communication under paragraph (1)(b) may be effected by the transmission of a copy of the proposed admission arrangements in electronic form.
 
-#### 17. Time for consultation and determination of admission arrangements[^key-a88df688906b7a7e5301cf838aa1302a]
+#### 17. Time for consultation and determination of admission arrangements[^c-a88df688906b7a7e5301cf838aa1302a]
 
 (1) For the school year 2016-2017, every admission authority must—
 
@@ -270,15 +270,15 @@ The Secretary of State for Education makes the following Regulations in exercise
 
 ### CHAPTER 4 — Publication of determined admission arrangements
 
-#### 18. Publication by local authority[^key-217244301c6e475261d5d171a3861ca6]
+#### 18. Publication by local authority[^c-217244301c6e475261d5d171a3861ca6]
 
-(1) A local authority must publish the following information on their website on or before the relevant date[^key-af9a7d2c9ff4e24572ba77d426b3765c]—
+(1) A local authority must publish the following information on their website on or before the relevant date[^c-af9a7d2c9ff4e24572ba77d426b3765c]—
 
 - (a) the proposed admission arrangements for any school or Academy which is intended to open in their area within the determination year;
 - (b) the details of where the determined admission arrangements for schools and Academies in their area can be viewed; and
 - (c) a statement about any person or body’s right to object to admission arrangements, the condition to be met before an objection can be determined (regulation 24), and those objections that cannot be made (regulations 21 and 22).
 
-(1A)[^key-d26b2e4b39f36a8bd3b9228b3deae639] For the purposes of paragraph (1), the relevant date is—
+(1A)[^c-d26b2e4b39f36a8bd3b9228b3deae639] For the purposes of paragraph (1), the relevant date is—
 
 - (a) for admission arrangements for the school year 2016-2017, 1st May 2015; and
 - (b) for admission arrangements for the school year 2017-2018 and every subsequent school year, 15th March in the determination year.
@@ -290,9 +290,9 @@ The Secretary of State for Education makes the following Regulations in exercise
 
 ### CHAPTER 5 — Variation of determined admission arrangements
 
-#### 19. Variation of admission arrangements[^key-9acff8a90c1318551a7bab0d6e1b4a8f]
+#### 19. Variation of admission arrangements[^c-9acff8a90c1318551a7bab0d6e1b4a8f]
 
-(1) This regulation prescribes for the purposes of section 88E(9)(b) the circumstances in which an admission authority may vary the admission arrangements they have determined for a particular school[^key-3096266b144199dcc0cf48f8918d658b] year.
+(1) This regulation prescribes for the purposes of section 88E(9)(b) the circumstances in which an admission authority may vary the admission arrangements they have determined for a particular school[^c-3096266b144199dcc0cf48f8918d658b] year.
 
 (2) An admission authority may vary the admission arrangements under which pupils are to be admitted to school to the extent that such variation is necessary to give effect to any of the following—
 
@@ -301,7 +301,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 - (c) a determination of the adjudicator under section 88(H)(4)[^f00022], 88I(4)(b) or 88I(5)(b); or
 - (d) a correction to any misprint in the admission arrangements.
 
-#### 20. Variation of the determined admission number[^key-781c1af5de58660a869095de63b6f6c9]
+#### 20. Variation of the determined admission number[^c-781c1af5de58660a869095de63b6f6c9]
 
 (1) This regulation prescribes for the purposes of section 88E(3) the case in which an admission authority are not required to refer their proposed variation to the adjudicator.
 
@@ -309,7 +309,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 
 ### CHAPTER 6 — Reference of objections to the adjudicator: schools and Academies
 
-#### 21. Objections that may not be referred to the adjudicator[^key-73856bd2b9f6cdceada965c7ae3e73af]
+#### 21. Objections that may not be referred to the adjudicator[^c-73856bd2b9f6cdceada965c7ae3e73af]
 
 (1) For the purposes of section 88H(2)(**b**) the description of objections that may not be referred under section 88H(2)[^f00023] is—
 
@@ -323,33 +323,33 @@ The Secretary of State for Education makes the following Regulations in exercise
 
 (2) For the purposes of paragraph (1)(e), an agreement is that made between the proprietor of an Academy and the Secretary of State and set out in the Academy arrangements.
 
-#### 22. Restriction on referring objections following a decision by the adjudicator[^key-2a36f98d9094d63744f968545d5facce]
+#### 22. Restriction on referring objections following a decision by the adjudicator[^c-2a36f98d9094d63744f968545d5facce]
 
 For the purposes of section 88H(5)(d)[^f00026], where the adjudicator has determined an objection to the admission arrangements of a school or Academy, no objection may be referred to the adjudicator raising the same or substantially the same issues in relation to those admission arrangements within 2 years of the decision by the adjudicator.
 
-#### 23. Time limit for objections[^key-8f51dc8efe891f5255152a5652ad36f6]
+#### 23. Time limit for objections[^c-8f51dc8efe891f5255152a5652ad36f6]
 
 (1) For admission arrangements for the school year 2016-2017, the adjudicator is not required to determine an objection under section 88H(2) unless it is received by the adjudicator on or before 30th June 2015.
 
 (2) For admission arrangements for the school year 2017-2018 and every subsequent school year, the adjudicator is not required to determine an objection referred under section 88H(2) unless it is received by the adjudicator on or before 15th May in the determination year.
 
-#### 24. Condition to be met before the determination of an objection[^key-40e62489da7e305e9984eb6eac0158a1]
+#### 24. Condition to be met before the determination of an objection[^c-40e62489da7e305e9984eb6eac0158a1]
 
 An objection may only be referred under section 88H(2) where the person or body making the objection provides their name and address to the adjudicator.
 
-#### 25. Information to be provided by the admission authority[^key-3ceb1df03740f24c6d3a73ad6e6b5bb6]
+#### 25. Information to be provided by the admission authority[^c-3ceb1df03740f24c6d3a73ad6e6b5bb6]
 
 Where the adjudicator is carrying out functions under sections 88H and 88I[^f00027] and makes a request to the admission authority of a school or an Academy for any of the information set out in Schedule 1 to these Regulations the admission authority must provide the requested information to the adjudicator.
 
 ## PART 3 — Co-ordination of admission arrangements
 
-### 26. Formulation of qualifying schemes[^key-110a654ac0b8532d7fba8cf2d2735a05]
+### 26. Formulation of qualifying schemes[^c-110a654ac0b8532d7fba8cf2d2735a05]
 
 (1) A local authority must formulate, in relation to each academic year, a qualifying scheme in relation to each primary and secondary school in their area (a “qualifying scheme”).
 
 (2) A qualifying scheme must comply with the requirements in Schedule 2.
 
-### 27. Action to be taken by a local authority to secure adoption of a qualifying scheme[^key-dd7c04a19ff5e56acf44fadb9e728d18]
+### 27. Action to be taken by a local authority to secure adoption of a qualifying scheme[^c-dd7c04a19ff5e56acf44fadb9e728d18]
 
 (1) This regulation prescribes for the purposes of section 88M(1)(b)[^f00028] the action to be taken by a local authority with a view to securing the adoption of a qualifying scheme by themselves and each governing body who are the admission authority for a primary school or secondary school in their area.
 
@@ -358,7 +358,7 @@ Where the adjudicator is carrying out functions under sections 88H and 88I[^f000
 (3) Where—
 
 - (a) the qualifying scheme is substantially different from the qualifying scheme adopted for the preceding academic year, or
-- (b) the local authority have not consulted on a qualifying scheme adopted in the previous six[^key-25d97d18dd2b56b88ae988f2c2661ff3] years,
+- (b) the local authority have not consulted on a qualifying scheme adopted in the previous six[^c-25d97d18dd2b56b88ae988f2c2661ff3] years,
 
 the local authority must consult the bodies mentioned in paragraph (4).
 
@@ -371,13 +371,13 @@ the local authority must consult the bodies mentioned in paragraph (4).
 
 (6) After the local authority have carried out any consultation required under this regulation they must determine the qualifying scheme (either in its original form or with such modifications as the authority think fit) for the academic year in question and must take all reasonable steps to secure its adoption by themselves and each governing body who are an admission authority that they consulted in relation to it.
 
-### 28. Information to be provided to the Secretary of State[^key-05feb047b8649f90ee217b1d69bc051a]
+### 28. Information to be provided to the Secretary of State[^c-05feb047b8649f90ee217b1d69bc051a]
 
 (1) For admission arrangements for the school year 2016-2017, a local authority must inform the Secretary of State on or before 15th April 2015 whether they have secured the adoption of a qualifying scheme or not.
 
 (2) For admission arrangements for the school year 2017-2018 and every subsequent school year, a local authority must inform the Secretary of State on or before 28th February in the determination year whether they have secured the adoption of a qualifying scheme or not.
 
-### 29. Making of a scheme by the Secretary of State[^key-6afa25f4346043ab34ea6eded81ed44c]
+### 29. Making of a scheme by the Secretary of State[^c-6afa25f4346043ab34ea6eded81ed44c]
 
 (1) In any case where the local authority have not informed the Secretary of State on or before the relevant date in accordance with regulation 28 that a qualifying scheme has been adopted in their area—
 
@@ -389,7 +389,7 @@ the local authority must consult the bodies mentioned in paragraph (4).
 - (a) for admission arrangements for the school year 2016-2017, 15th April 2015; and
 - (b) for admission arrangements for the school year 2017-2018 and every subsequent school year, 28th February in the determination year.
 
-### 30. Offer date[^key-18750473ac9a90072f0a6fd39eb3960a]
+### 30. Offer date[^c-18750473ac9a90072f0a6fd39eb3960a]
 
 (1) Subject to paragraph (3), this regulation prescribes for the purposes of section 88M(4)(b), the single date in each year on which a determination made in accordance with the provisions of a qualifying scheme or a scheme imposed by the Secretary of State to offer or refuse a child admission to a primary or secondary school must be communicated to a parent.
 
@@ -402,21 +402,21 @@ in the offer year except that, in any year in which that day is not a working da
 
 (3) The requirement in paragraph (1) to send a determination to offer or refuse a child admission to a school only applies to applications made in the course of a normal admission round.
 
-### 31. Saving for qualifying schemes[^key-1166412cf55a0b70a737c30dd9c04109]
+### 31. Saving for qualifying schemes[^c-1166412cf55a0b70a737c30dd9c04109]
 
 Any qualifying scheme formulated on or before 1st January 2012 under the School Admissions (Co-ordination of Admission Arrangements) (England) Regulations 2008[^f00029] for admission of pupils to a school in September 2013 is to have effect, save that any part of the scheme that relates to in-year applications will not have effect.
 
-### 32. Sections 496 and 497 of the Education Act 1996[^key-b751469723f05c5aa99554d51e1c4b6a]
+### 32. Sections 496 and 497 of the Education Act 1996[^c-b751469723f05c5aa99554d51e1c4b6a]
 
 Sections 496 and 497[^f00030] of the Education Act 1996 apply to a local authority or a governing body as if any of the obligations imposed on them under a qualifying scheme or an imposed scheme were duties imposed on them under that Act.
 
 ## PART 4 — Miscellaneous
 
-### 33. Provision of information to local authority[^key-1a1c7777fea263a121bcb9e580a2ec19]
+### 33. Provision of information to local authority[^c-1a1c7777fea263a121bcb9e580a2ec19]
 
 For the purposes of section 88Q (relevant persons who must provide information to a local authority), the clerk to an appeal panel constituted under section 94(5)[^f00031] is a relevant person.
 
-### 34. Representative bodies or persons for schools designated as having a religious character[^key-63fc811ab9962d72b5edc51b8e61291f]
+### 34. Representative bodies or persons for schools designated as having a religious character[^c-63fc811ab9962d72b5edc51b8e61291f]
 
 For the purposes of section 88F(3)(e) the bodies or persons listed in Schedule 3 are the representatives of the religion or religious denomination in question for schools designated as having a religious character.
 
@@ -432,27 +432,27 @@ Department for Education
 
 Regulation 25
 
-**1.**[^key-dbf128035bdaef313ad4b8216a840bbb] The following information must be provided by an admission authority if requested by the adjudicator.
+**1.**[^c-dbf128035bdaef313ad4b8216a840bbb] The following information must be provided by an admission authority if requested by the adjudicator.
 
-**2.**[^key-52a0c2df5f5d665dca1f62624bb37379] Details of the school’s pupil numbers for the past five years, including for each year the admission number, the number admitted, the number of applications and the number of appeals.
+**2.**[^c-52a0c2df5f5d665dca1f62624bb37379] Details of the school’s pupil numbers for the past five years, including for each year the admission number, the number admitted, the number of applications and the number of appeals.
 
-**3.**[^key-d5be1cd40e18e49b622d619c1e82fb5e] Projected applicant numbers for the school for the next three years.
+**3.**[^c-d5be1cd40e18e49b622d619c1e82fb5e] Projected applicant numbers for the school for the next three years.
 
-**4.**[^key-bca8631923c5de23a8280bd5e16f5e28] A copy of the admissions booklet for parents.
+**4.**[^c-bca8631923c5de23a8280bd5e16f5e28] A copy of the admissions booklet for parents.
 
-**5.**[^key-8bb2b0e84be4de841dcf32704f52bddd] A copy of the determined admission arrangements for the school.
+**5.**[^c-8bb2b0e84be4de841dcf32704f52bddd] A copy of the determined admission arrangements for the school.
 
-**6.**[^key-1176e79db99c27202f9f66e45abf1e4e] A copy of the minutes of the meeting at which the admission authority determined the admission arrangements.
+**6.**[^c-1176e79db99c27202f9f66e45abf1e4e] A copy of the minutes of the meeting at which the admission authority determined the admission arrangements.
 
-**7.**[^key-5cba719ad2af80ed42d38535aa6abc92] If the admission authority are not the governing body of the school, the date on which the determined admission number was notified to the governing body.
+**7.**[^c-5cba719ad2af80ed42d38535aa6abc92] If the admission authority are not the governing body of the school, the date on which the determined admission number was notified to the governing body.
 
-**8.**[^key-24b8f1459e95e941f08f2ea442be76cc] The dates on which the objection, or as the case may be the adjudicator’s consideration of the admission arrangements under section 88I, was discussed by the governing body of the school and where such discussions have been held a copy of the minutes of those discussions.
+**8.**[^c-24b8f1459e95e941f08f2ea442be76cc] The dates on which the objection, or as the case may be the adjudicator’s consideration of the admission arrangements under section 88I, was discussed by the governing body of the school and where such discussions have been held a copy of the minutes of those discussions.
 
 ## SCHEDULE 2 — Requirements of a qualifying scheme
 
 Regulation 26
 
-### 1. General[^key-64a1accf4a80de7d26420f858791842a]
+### 1. General[^c-64a1accf4a80de7d26420f858791842a]
 
 A qualifying scheme must—
 
@@ -467,7 +467,7 @@ A qualifying scheme must—
 - (e) where the governing body who are the admission authority for such a school have made arrangements for another body to determine the order of priority under paragraph 5(b), identify that body; and
 - (f) specify that any notification of acceptance of a school place must be received by the local authority within two weeks after the date of the offer.
 
-### 2. Applications made in the course of a normal admission round[^key-0c9c35393805dcd6f1530a0d9f0341aa]
+### 2. Applications made in the course of a normal admission round[^c-0c9c35393805dcd6f1530a0d9f0341aa]
 
 (1) This paragraph specifies provisions to be made in a qualifying scheme about applications made in the course of a normal admission round.
 
@@ -478,7 +478,7 @@ A qualifying scheme must—
 - (c) require a local authority to send any determination granting or refusing admission to a school to a parent on the offer date (such determination being sent on behalf of the school’s governing body in any case where the local authority are not the admission authority for the school); and
 - (d) specify the dates by which each of the steps required to be taken in accordance with this Schedule is to be performed, including where the date is specified in this Schedule.
 
-### 3. Applications for in-area schools[^key-15071af3e064439991ce49f4345194c8]
+### 3. Applications for in-area schools[^c-15071af3e064439991ce49f4345194c8]
 
 (1) This paragraph specifies provisions to be made in a qualifying scheme about applications made for a school in the area of the local authority.
 
@@ -495,7 +495,7 @@ A qualifying scheme must—
 - (e) except where paragraph (f) applies, to send any determination granting or refusing admission to a school to the parent (such determination being sent on behalf of a school’s governing body in any case where the local authority are not the admission authority for the school); and
 - (f) with regard to any application relating to a child living in a different local authority’s area, to notify that local authority of their determination.
 
-### 4. Additional duties on an authority relating to applications for out-of area schools[^key-5d3819915901dc22d187791b21a2beb4]
+### 4. Additional duties on an authority relating to applications for out-of area schools[^c-5d3819915901dc22d187791b21a2beb4]
 
 (1) This paragraph applies where a parent in the area of a local authority (“the home authority”) applies under the common application form for a school in the area of a different local authority (“the maintaining authority”).
 
@@ -506,7 +506,7 @@ A qualifying scheme must—
 - (a) specify that, in determining in accordance with paragraph 3(2)(c) whether the child is to be granted or refused admission to any school in the home authority’s area for which an application has also been made, that authority will have regard to any information provided by the maintaining authority as to whether the child is to be granted admission to a school within that authority’s area; and
 - (b) require the home authority to send any determination granting or refusing admission to the school in the maintaining authority’s area to the parent (such determination being sent on behalf of the school’s governing body in any case where they are the admission authority for the school).
 
-### 5. Duties of governing body under a qualifying scheme[^key-493a428ca9cf74a8129bc46f657d8245]
+### 5. Duties of governing body under a qualifying scheme[^c-493a428ca9cf74a8129bc46f657d8245]
 
 A qualifying scheme must require a governing body who are the admission authority for a school—
 
@@ -514,24 +514,24 @@ A qualifying scheme must require a governing body who are the admission authorit
 - (b) to determine or make arrangements for another body (including their local authority) to determine by reference to the school’s admissions criteria the order of priority in which each application for the school is ranked; and
 - (c) to notify or, where arrangements have been made under sub-paragraph (b) for another body (not being their local authority) to make a determination, to arrange for that body to notify their local authority of their determination.
 
-## SCHEDULE 3 — Representative bodies or persons of the religion or religious denomination for schools designated as having a religious character[^key-37ab79b5542b71be1154cae161694605]
+## SCHEDULE 3 — Representative bodies or persons of the religion or religious denomination for schools designated as having a religious character[^c-37ab79b5542b71be1154cae161694605]
 
 Regulation 34
 
 | Religion or religious denomination | Representative body or person |
 | --- | --- |
 | Church of England | The appropriate diocesan authority for the diocese in which the school is situated |
-| [^key-df86d66518273ce8b8f96f6c5f32e360]. . . | [^key-df86d66518273ce8b8f96f6c5f32e360]. . . |
-| [^key-5f6afe517c5da23265b387fee492c5cf]. . . | [^key-5f6afe517c5da23265b387fee492c5cf]. . . |
-| Jewish | The appropriate rabbinic authority for the school listed in Part 1 of[^key-d658c2ea79d4bde3e3815e13ae659b2e] Schedule 4 |
-| Methodist | Methodist Academies and Schools Trust[^key-049836df6e6a2851b828b395d159eec8] |
+| [^c-df86d66518273ce8b8f96f6c5f32e360]. . . | [^c-df86d66518273ce8b8f96f6c5f32e360]. . . |
+| [^c-5f6afe517c5da23265b387fee492c5cf]. . . | [^c-5f6afe517c5da23265b387fee492c5cf]. . . |
+| Jewish | The appropriate rabbinic authority for the school listed in Part 1 of[^c-d658c2ea79d4bde3e3815e13ae659b2e] Schedule 4 |
+| Methodist | Methodist Academies and Schools Trust[^c-049836df6e6a2851b828b395d159eec8] |
 | Muslim | The Association of Muslim Schools UK |
 | Quaker | The Religious Society of Friends (Quakers) |
 | Roman Catholic | The Diocesan Bishop or the equivalent in canon law for the diocese in which the school is situated |
 | Seventh Day Adventist | The British Union Conference of Seventh Day Adventists |
-| Sikh | The appropriate representative body for the school listed in Part 2 of Schedule 4[^key-e6513782254498d26bdbb3ca75e9b805] |
+| Sikh | The appropriate representative body for the school listed in Part 2 of Schedule 4[^c-e6513782254498d26bdbb3ca75e9b805] |
 
-## SCHEDULE 4 — Rabbinic authorities and other representative bodies[^key-c3d533f482be0beedb6e59169baefe79]
+## SCHEDULE 4 — Rabbinic authorities and other representative bodies[^c-c3d533f482be0beedb6e59169baefe79]
 
 Schedule 3
 
@@ -559,7 +559,7 @@ Schedule 3
 | Elector Rabbis of the Jewish Secondary Schools Movement | Beit Shvidler Primary School | Barnet | HA8 8NX |
 |  | Hasmonean Primary School | Barnet | NW4 2PD |
 |  |  |  |  |
-| Golders Green Beth Hamedrash[^key-211c29d5b95a637f82d8d86a330991f9] | Menorah Primary School for Boys | Barnet | NW11 9SP |
+| Golders Green Beth Hamedrash[^c-211c29d5b95a637f82d8d86a330991f9] | Menorah Primary School for Boys | Barnet | NW11 9SP |
 |  | Menorah Primary School for Girls | Barnet | NW11 9SP |
 |  |  |  |  |
 | Jewish Community Day Schools Advisory Board | Akiva School | Barnet | N3 2SY |
@@ -567,7 +567,7 @@ Schedule 3
 |  | Clore Tikva School | Redbridge | IG6 2JN |
 |  | JCoSS | Barnet | EN4 9GE |
 |  |  |  |  |
-| Office of the Rabbis of Od Yosef Hai Synagogue, Hendon[^key-39f2101aabf1ca96412bc4777b01ed83] | Nancy Reuben Primary School | Barnet | NW4 1DJ |
+| Office of the Rabbis of Od Yosef Hai Synagogue, Hendon[^c-39f2101aabf1ca96412bc4777b01ed83] | Nancy Reuben Primary School | Barnet | NW4 1DJ |
 |  |  |  |  |
 | Office of Rabbi of The Gateshead Jewish Community | Menorah High School for Girls | Barnet | NW2 7BZ |
 |  |  |  |  |
@@ -616,19 +616,19 @@ Part 4 provides that a clerk to an appeal panel is a relevant person for the pur
 
 [^f00002]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56); see section 579(1) of the Education Act 1996 for the definition of “regulations”.
 
-[^key-bba4bceac5fd1afeb5d8c1cf2ee3cd3b]: Commencement: Reg. 1 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-bba4bceac5fd1afeb5d8c1cf2ee3cd3b]: Commencement: Reg. 1 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-0ee571281f6bc8d102ef84ed92a9291e]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/2) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2014/2886/regulation/3/a)
+[^c-0ee571281f6bc8d102ef84ed92a9291e]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/2) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2014/2886/regulation/3/a)
 
-[^key-b4cfccace06a9283c3d6081de1b34f2c]: Textual amendment: Word in [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/3/a) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2014/2886/regulation/3/b)
+[^c-b4cfccace06a9283c3d6081de1b34f2c]: Textual amendment: Word in [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/3/a) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2014/2886/regulation/3/b)
 
-[^key-c2834012cae0a874a776af0d19748b83]: Commencement: Reg. 2 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-c2834012cae0a874a776af0d19748b83]: Commencement: Reg. 2 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
 [^f00003]: Footnote: [2010 c.32](https://www.legislation.gov.uk/ukpga/2010/32); section 53 of the Education Act [2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21), which is not yet in force, prospectively amends section 1(10) of the Academies Act 2010 and inserts section 1A into that Act. An Academy for the purposes of these Regulations will become known as an Academy school under section 1A of the Academies Act when section 53 of the Education Act 2011 is brought into force.
 
 [^f00004]: Footnote: Section 88 was amended by section 43(1) of the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40), [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158) and section 64(2) of the Education Act [2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21).
 
-[^key-b2afca68e28764517a4087a7d0854446]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2012/8/regulation/2/2) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2014/2886/regulation/4/a)
+[^c-b2afca68e28764517a4087a7d0854446]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2012/8/regulation/2/2) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2014/2886/regulation/4/a)
 
 [^f00005]: Footnote: Section 86(1) was amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 
@@ -642,15 +642,15 @@ Part 4 provides that a clerk to an appeal panel is a relevant person for the pur
 
 [^f00010]: Footnote: Section 84 was amended by section 40 of, and Part 6 of Schedule 18 to, the Education and Inspections Act [2006(c.40)](https://www.legislation.gov.uk/ukpga/2006/40).
 
-[^key-39419d97cf4985f8f9a939b831efcbbd]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2012/8/regulation/2/2) inserted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2014/2886/regulation/4/b)
+[^c-39419d97cf4985f8f9a939b831efcbbd]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2012/8/regulation/2/2) inserted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2014/2886/regulation/4/b)
 
 [^f00011]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-8daf2d6acfa64de6222ed225f65de612]: Textual amendment: Word in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2012/8/regulation/2/3) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2014/2886/regulation/4/c)
+[^c-8daf2d6acfa64de6222ed225f65de612]: Textual amendment: Word in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2012/8/regulation/2/3) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2014/2886/regulation/4/c)
 
 [^f00012]: Footnote: See section 142(1) of the School Standards and Framework Act [1998 (c.31)](https://www.legislation.gov.uk/ukpga/1998/31) for the definition of “relevant age group”.
 
-[^key-4e2b05fd758e2a302d4cdcf050d989db]: Commencement: Reg. 3 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-4e2b05fd758e2a302d4cdcf050d989db]: Commencement: Reg. 3 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
 [^f00013]: Footnote: [S.I. 2008/3089](https://www.legislation.gov.uk/uksi/2008/3089), amended by [S.I. 2009/1099](https://www.legislation.gov.uk/uksi/2009/1099) and [S.I. 2010/1172](https://www.legislation.gov.uk/uksi/2010/1172).
 
@@ -658,39 +658,39 @@ Part 4 provides that a clerk to an appeal panel is a relevant person for the pur
 
 [^f00015]: Footnote: [S.I. 2008/3091](https://www.legislation.gov.uk/uksi/2008/3091).
 
-[^key-6a2a09d87234e58be0f31628c043827f]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2012/8/regulation/3/2)[(3)](https://www.legislation.gov.uk/uksi/2012/8/regulation/3/3) omitted (19.12.2014) by virtue of [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/2886/regulation/5)
+[^c-6a2a09d87234e58be0f31628c043827f]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2012/8/regulation/3/2)[(3)](https://www.legislation.gov.uk/uksi/2012/8/regulation/3/3) omitted (19.12.2014) by virtue of [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/2886/regulation/5)
 
-[^key-77f2b86b938fd44e83af648322470efc]: Commencement: Reg. 4 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-77f2b86b938fd44e83af648322470efc]: Commencement: Reg. 4 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
 [^f00016]: Footnote: [S.I. 2008/3093](https://www.legislation.gov.uk/uksi/2008/3093).
 
-[^key-cd521adbceffb3864a404711742cec8a]: Commencement: Reg. 5 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-cd521adbceffb3864a404711742cec8a]: Commencement: Reg. 5 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-605838c5c7561cbd8c5e9df5c5ac0e18]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2012/8/regulation/5/2) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [6](https://www.legislation.gov.uk/uksi/2014/2886/regulation/6)
+[^c-605838c5c7561cbd8c5e9df5c5ac0e18]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2012/8/regulation/5/2) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [6](https://www.legislation.gov.uk/uksi/2014/2886/regulation/6)
 
-[^key-b35853bc96c230018af6458f9aaa609a]: Commencement: Reg. 6 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-b35853bc96c230018af6458f9aaa609a]: Commencement: Reg. 6 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-fac92567f0c7c292067317a6773ce574]: Textual amendment: Word in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2012/8/regulation/6/2) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [7](https://www.legislation.gov.uk/uksi/2014/2886/regulation/7)
+[^c-fac92567f0c7c292067317a6773ce574]: Textual amendment: Word in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2012/8/regulation/6/2) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [7](https://www.legislation.gov.uk/uksi/2014/2886/regulation/7)
 
-[^key-732d01987f024b2a4b3aacc08355c53f]: Commencement: Reg. 7 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-732d01987f024b2a4b3aacc08355c53f]: Commencement: Reg. 7 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
 [^f00017]: Footnote: [1989 c.4](https://www.legislation.gov.uk/ukpga/1989/4); section 22(1) was amended by the Local Government Act [2000 (c.22)](https://www.legislation.gov.uk/ukpga/2000/22), Schedule 5, the Children (Leaving Care) Act [2000 (c.35)](https://www.legislation.gov.uk/ukpga/2000/35), section 2(2), and the Adoption and Children Act [2002 (c.38)](https://www.legislation.gov.uk/ukpga/2002/38), section 116(2). There are further amendments to section 22 which are not relevant for these Regulations.
 
-[^key-a595a55dbfba08dc596eb786ecce3831]: Commencement: Reg. 8 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-a595a55dbfba08dc596eb786ecce3831]: Commencement: Reg. 8 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-8d6f075eab75d5f320ac6c8e511fdd27]: Commencement: Reg. 9 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-8d6f075eab75d5f320ac6c8e511fdd27]: Commencement: Reg. 9 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-feac31f3d36d4ab50a950a9acc8b207f]: Commencement: Reg. 10 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-feac31f3d36d4ab50a950a9acc8b207f]: Commencement: Reg. 10 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-ae5e5903772d0d5fd7af1f0f9a46261c]: Commencement: Reg. 11 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-ae5e5903772d0d5fd7af1f0f9a46261c]: Commencement: Reg. 11 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
 [^f00018]: Footnote: Subsections 101(1) and (1A) were amended and inserted respectively by the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40), section 54(1).
 
-[^key-6d75999dbd5fff3f10115dc8142f4d12]: Commencement: Reg. 12 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-6d75999dbd5fff3f10115dc8142f4d12]: Commencement: Reg. 12 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-656c60c414f2f33f7686b2d2528bd408]: Commencement: Reg. 13 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-656c60c414f2f33f7686b2d2528bd408]: Commencement: Reg. 13 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-72f361a79a8d6f9be73a2a93878d5627]: Textual amendment: Word in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2012/8/regulation/13/2) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [8](https://www.legislation.gov.uk/uksi/2014/2886/regulation/8)
+[^c-72f361a79a8d6f9be73a2a93878d5627]: Textual amendment: Word in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2012/8/regulation/13/2) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [8](https://www.legislation.gov.uk/uksi/2014/2886/regulation/8)
 
 [^f00019]: Footnote: Section 108 was amended by the Education and Skills Act [2008 (c.25)](https://www.legislation.gov.uk/ukpga/2008/25), Schedule 1, paragraph 70.
 
@@ -698,37 +698,37 @@ Part 4 provides that a clerk to an appeal panel is a relevant person for the pur
 
 [^f00021]: Footnote: Subsection 103(1) was amended by the Education and Skills Act [2008 (c.25)](https://www.legislation.gov.uk/ukpga/2008/25), Schedule 1, paragraph 69. Subsection 103(2) was amended by Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40), section 54(3)(a) and (b).
 
-[^key-3b03dcaac2147c3b1ee1f2efd13beaae]: Commencement: Reg. 14 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-3b03dcaac2147c3b1ee1f2efd13beaae]: Commencement: Reg. 14 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-38ef73e5021b52ba12c88c38e21f2c49]: Textual amendment: Word in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/14/1) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [9](https://www.legislation.gov.uk/uksi/2014/2886/regulation/9)
+[^c-38ef73e5021b52ba12c88c38e21f2c49]: Textual amendment: Word in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/14/1) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [9](https://www.legislation.gov.uk/uksi/2014/2886/regulation/9)
 
-[^key-c1f711b867257b07219bdf3d478c5f3d]: Commencement: Reg. 15 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-c1f711b867257b07219bdf3d478c5f3d]: Commencement: Reg. 15 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-6b5430a60eb6135ea6bf3517ca22c4dc]: Textual amendment: Word in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2012/8/regulation/15/2) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2014/2886/regulation/10/a)
+[^c-6b5430a60eb6135ea6bf3517ca22c4dc]: Textual amendment: Word in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2012/8/regulation/15/2) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2014/2886/regulation/10/a)
 
-[^key-b4d6d419f335a4b7c5d3beaaff2e65d7]: Textual amendment: Word in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2012/8/regulation/15/2) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2014/2886/regulation/10/b)
+[^c-b4d6d419f335a4b7c5d3beaaff2e65d7]: Textual amendment: Word in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2012/8/regulation/15/2) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2014/2886/regulation/10/b)
 
-[^key-b1340af34d5521105d26c05d271e7689]: Textual amendment: Word in [reg. 15(4)](https://www.legislation.gov.uk/uksi/2012/8/regulation/15/4) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2014/2886/regulation/10/b)
+[^c-b1340af34d5521105d26c05d271e7689]: Textual amendment: Word in [reg. 15(4)](https://www.legislation.gov.uk/uksi/2012/8/regulation/15/4) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2014/2886/regulation/10/b)
 
-[^key-455a1fe77900e7f8e8e65fdc0884ceff]: Commencement: Reg. 16 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-455a1fe77900e7f8e8e65fdc0884ceff]: Commencement: Reg. 16 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-a88df688906b7a7e5301cf838aa1302a]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2012/8/regulation/17) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [11](https://www.legislation.gov.uk/uksi/2014/2886/regulation/11)
+[^c-a88df688906b7a7e5301cf838aa1302a]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2012/8/regulation/17) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [11](https://www.legislation.gov.uk/uksi/2014/2886/regulation/11)
 
-[^key-217244301c6e475261d5d171a3861ca6]: Commencement: Reg. 18 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-217244301c6e475261d5d171a3861ca6]: Commencement: Reg. 18 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-af9a7d2c9ff4e24572ba77d426b3765c]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/18/1) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/2014/2886/regulation/12/a)
+[^c-af9a7d2c9ff4e24572ba77d426b3765c]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/18/1) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/2014/2886/regulation/12/a)
 
-[^key-d26b2e4b39f36a8bd3b9228b3deae639]: Textual amendment: [Reg. 18(1A)](https://www.legislation.gov.uk/uksi/2012/8/regulation/18/1A) inserted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/2014/2886/regulation/12/b)
+[^c-d26b2e4b39f36a8bd3b9228b3deae639]: Textual amendment: [Reg. 18(1A)](https://www.legislation.gov.uk/uksi/2012/8/regulation/18/1A) inserted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/2014/2886/regulation/12/b)
 
-[^key-9acff8a90c1318551a7bab0d6e1b4a8f]: Commencement: Reg. 19 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-9acff8a90c1318551a7bab0d6e1b4a8f]: Commencement: Reg. 19 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-3096266b144199dcc0cf48f8918d658b]: Textual amendment: Word in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/19/1) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [13](https://www.legislation.gov.uk/uksi/2014/2886/regulation/13)
+[^c-3096266b144199dcc0cf48f8918d658b]: Textual amendment: Word in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/19/1) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [13](https://www.legislation.gov.uk/uksi/2014/2886/regulation/13)
 
 [^f00022]: Footnote: Subsection 88H(4) was amended by the Education Act [2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21), section 36(4).
 
-[^key-781c1af5de58660a869095de63b6f6c9]: Commencement: Reg. 20 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-781c1af5de58660a869095de63b6f6c9]: Commencement: Reg. 20 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-73856bd2b9f6cdceada965c7ae3e73af]: Commencement: Reg. 21 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-73856bd2b9f6cdceada965c7ae3e73af]: Commencement: Reg. 21 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
 [^f00023]: Footnote: Subsection 88H(2) was amended by the Education Act [2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21), section 36(2).
 
@@ -736,86 +736,86 @@ Part 4 provides that a clerk to an appeal panel is a relevant person for the pur
 
 [^f00025]: Footnote: Section 109 was amended by the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40), Schedule 3, paragraph 29 and [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 
-[^key-2a36f98d9094d63744f968545d5facce]: Commencement: Reg. 22 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-2a36f98d9094d63744f968545d5facce]: Commencement: Reg. 22 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
 [^f00026]: Footnote: Subsection 88H(5(d) was amended by the Education Act [2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21), section 36(5)(d).
 
-[^key-8f51dc8efe891f5255152a5652ad36f6]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2012/8/regulation/23) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [14](https://www.legislation.gov.uk/uksi/2014/2886/regulation/14)
+[^c-8f51dc8efe891f5255152a5652ad36f6]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2012/8/regulation/23) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [14](https://www.legislation.gov.uk/uksi/2014/2886/regulation/14)
 
-[^key-40e62489da7e305e9984eb6eac0158a1]: Commencement: Reg. 24 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-40e62489da7e305e9984eb6eac0158a1]: Commencement: Reg. 24 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-3ceb1df03740f24c6d3a73ad6e6b5bb6]: Commencement: Reg. 25 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-3ceb1df03740f24c6d3a73ad6e6b5bb6]: Commencement: Reg. 25 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
 [^f00027]: Footnote: Sections 88H and 88I were amended by the Education Act [2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21). Section 88H was amended by section 36(1) to (6), and section 64(3). Section 88I was amended by sections 34(3) and 64(4).
 
-[^key-110a654ac0b8532d7fba8cf2d2735a05]: Commencement: Reg. 26 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-110a654ac0b8532d7fba8cf2d2735a05]: Commencement: Reg. 26 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-dd7c04a19ff5e56acf44fadb9e728d18]: Commencement: Reg. 27 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-dd7c04a19ff5e56acf44fadb9e728d18]: Commencement: Reg. 27 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
 [^f00028]: Footnote: Section 88M(1) was amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 
-[^key-25d97d18dd2b56b88ae988f2c2661ff3]: Textual amendment: Word in [reg. 27(3)(b)](https://www.legislation.gov.uk/uksi/2012/8/regulation/27/3/b) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [15](https://www.legislation.gov.uk/uksi/2014/2886/regulation/15)
+[^c-25d97d18dd2b56b88ae988f2c2661ff3]: Textual amendment: Word in [reg. 27(3)(b)](https://www.legislation.gov.uk/uksi/2012/8/regulation/27/3/b) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [15](https://www.legislation.gov.uk/uksi/2014/2886/regulation/15)
 
-[^key-05feb047b8649f90ee217b1d69bc051a]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/2012/8/regulation/28) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [16](https://www.legislation.gov.uk/uksi/2014/2886/regulation/16)
+[^c-05feb047b8649f90ee217b1d69bc051a]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/2012/8/regulation/28) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [16](https://www.legislation.gov.uk/uksi/2014/2886/regulation/16)
 
-[^key-6afa25f4346043ab34ea6eded81ed44c]: Textual amendment: [Reg. 29](https://www.legislation.gov.uk/uksi/2012/8/regulation/29) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [17](https://www.legislation.gov.uk/uksi/2014/2886/regulation/17)
+[^c-6afa25f4346043ab34ea6eded81ed44c]: Textual amendment: [Reg. 29](https://www.legislation.gov.uk/uksi/2012/8/regulation/29) substituted (19.12.2014) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2014 (S.I. 2014/2886)](https://www.legislation.gov.uk/uksi/2014/2886), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2886/regulation/1), [17](https://www.legislation.gov.uk/uksi/2014/2886/regulation/17)
 
-[^key-18750473ac9a90072f0a6fd39eb3960a]: Commencement: Reg. 30 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-18750473ac9a90072f0a6fd39eb3960a]: Commencement: Reg. 30 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-1166412cf55a0b70a737c30dd9c04109]: Commencement: Reg. 31 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-1166412cf55a0b70a737c30dd9c04109]: Commencement: Reg. 31 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
 [^f00029]: Footnote: [S.I. 2008/3090](https://www.legislation.gov.uk/uksi/2008/3090).
 
-[^key-b751469723f05c5aa99554d51e1c4b6a]: Commencement: Reg. 32 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-b751469723f05c5aa99554d51e1c4b6a]: Commencement: Reg. 32 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
 [^f00030]: Footnote: Sections 496 and 497 were amended by the School Standards and Framework Act [1998 (c.31)](https://www.legislation.gov.uk/ukpga/1998/31), Schedule 30, paragraphs 57, 129 and 130; the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40), section 168; the Apprenticeships, Skills, Children and Learning Act [2009 (c.22)](https://www.legislation.gov.uk/ukpga/2009/22), sections 59 and 221, and Schedule 2, paragraphs 1 to 8; and [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 
-[^key-1a1c7777fea263a121bcb9e580a2ec19]: Commencement: Reg. 33 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-1a1c7777fea263a121bcb9e580a2ec19]: Commencement: Reg. 33 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
 [^f00031]: Footnote: Subsection 94(5) was inserted by the Education Act [2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32), section 50 and Schedule 4, paragraph 4.
 
-[^key-63fc811ab9962d72b5edc51b8e61291f]: Commencement: Reg. 34 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-63fc811ab9962d72b5edc51b8e61291f]: Commencement: Reg. 34 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-dbf128035bdaef313ad4b8216a840bbb]: Commencement: Sch. 1 para. 1 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-dbf128035bdaef313ad4b8216a840bbb]: Commencement: Sch. 1 para. 1 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-52a0c2df5f5d665dca1f62624bb37379]: Commencement: Sch. 1 para. 2 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-52a0c2df5f5d665dca1f62624bb37379]: Commencement: Sch. 1 para. 2 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-d5be1cd40e18e49b622d619c1e82fb5e]: Commencement: Sch. 1 para. 3 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-d5be1cd40e18e49b622d619c1e82fb5e]: Commencement: Sch. 1 para. 3 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-bca8631923c5de23a8280bd5e16f5e28]: Commencement: Sch. 1 para. 4 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-bca8631923c5de23a8280bd5e16f5e28]: Commencement: Sch. 1 para. 4 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-8bb2b0e84be4de841dcf32704f52bddd]: Commencement: Sch. 1 para. 5 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-8bb2b0e84be4de841dcf32704f52bddd]: Commencement: Sch. 1 para. 5 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-1176e79db99c27202f9f66e45abf1e4e]: Commencement: Sch. 1 para. 6 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-1176e79db99c27202f9f66e45abf1e4e]: Commencement: Sch. 1 para. 6 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-5cba719ad2af80ed42d38535aa6abc92]: Commencement: Sch. 1 para. 7 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-5cba719ad2af80ed42d38535aa6abc92]: Commencement: Sch. 1 para. 7 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-24b8f1459e95e941f08f2ea442be76cc]: Commencement: Sch. 1 para. 8 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-24b8f1459e95e941f08f2ea442be76cc]: Commencement: Sch. 1 para. 8 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-64a1accf4a80de7d26420f858791842a]: Commencement: Sch. 2 para. 1 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-64a1accf4a80de7d26420f858791842a]: Commencement: Sch. 2 para. 1 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-0c9c35393805dcd6f1530a0d9f0341aa]: Commencement: Sch. 2 para. 2 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-0c9c35393805dcd6f1530a0d9f0341aa]: Commencement: Sch. 2 para. 2 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-15071af3e064439991ce49f4345194c8]: Commencement: Sch. 2 para. 3 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-15071af3e064439991ce49f4345194c8]: Commencement: Sch. 2 para. 3 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-5d3819915901dc22d187791b21a2beb4]: Commencement: Sch. 2 para. 4 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-5d3819915901dc22d187791b21a2beb4]: Commencement: Sch. 2 para. 4 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-493a428ca9cf74a8129bc46f657d8245]: Commencement: Sch. 2 para. 5 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-493a428ca9cf74a8129bc46f657d8245]: Commencement: Sch. 2 para. 5 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-37ab79b5542b71be1154cae161694605]: Commencement: Sch. 3 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
+[^c-37ab79b5542b71be1154cae161694605]: Commencement: Sch. 3 in force at 1.2.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/8/regulation/1/1)
 
-[^key-df86d66518273ce8b8f96f6c5f32e360]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2012/8/schedule/3) omitted (28.2.2022) by virtue of [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2022 (S.I. 2022/105)](https://www.legislation.gov.uk/uksi/2022/105), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/105/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/105/regulation/3/2/a) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/105/regulation/1/4))
+[^c-df86d66518273ce8b8f96f6c5f32e360]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2012/8/schedule/3) omitted (28.2.2022) by virtue of [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2022 (S.I. 2022/105)](https://www.legislation.gov.uk/uksi/2022/105), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/105/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/105/regulation/3/2/a) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/105/regulation/1/4))
 
-[^key-5f6afe517c5da23265b387fee492c5cf]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2012/8/schedule/3) omitted (28.2.2022) by virtue of [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2022 (S.I. 2022/105)](https://www.legislation.gov.uk/uksi/2022/105), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/105/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/105/regulation/3/2/b) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/105/regulation/1/4))
+[^c-5f6afe517c5da23265b387fee492c5cf]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2012/8/schedule/3) omitted (28.2.2022) by virtue of [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2022 (S.I. 2022/105)](https://www.legislation.gov.uk/uksi/2022/105), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/105/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/105/regulation/3/2/b) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/105/regulation/1/4))
 
-[^key-d658c2ea79d4bde3e3815e13ae659b2e]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2012/8/schedule/3) inserted (28.2.2022) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2022 (S.I. 2022/105)](https://www.legislation.gov.uk/uksi/2022/105), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/105/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2022/105/regulation/3/3) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/105/regulation/1/4))
+[^c-d658c2ea79d4bde3e3815e13ae659b2e]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2012/8/schedule/3) inserted (28.2.2022) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2022 (S.I. 2022/105)](https://www.legislation.gov.uk/uksi/2022/105), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/105/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2022/105/regulation/3/3) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/105/regulation/1/4))
 
-[^key-049836df6e6a2851b828b395d159eec8]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2012/8/schedule/3) substituted (28.2.2022) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2022 (S.I. 2022/105)](https://www.legislation.gov.uk/uksi/2022/105), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/105/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2022/105/regulation/3/4) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/105/regulation/1/4))
+[^c-049836df6e6a2851b828b395d159eec8]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2012/8/schedule/3) substituted (28.2.2022) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2022 (S.I. 2022/105)](https://www.legislation.gov.uk/uksi/2022/105), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/105/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2022/105/regulation/3/4) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/105/regulation/1/4))
 
-[^key-e6513782254498d26bdbb3ca75e9b805]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2012/8/schedule/3) substituted (28.2.2022) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2022 (S.I. 2022/105)](https://www.legislation.gov.uk/uksi/2022/105), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/105/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2022/105/regulation/3/5) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/105/regulation/1/4))
+[^c-e6513782254498d26bdbb3ca75e9b805]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2012/8/schedule/3) substituted (28.2.2022) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2022 (S.I. 2022/105)](https://www.legislation.gov.uk/uksi/2022/105), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/105/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2022/105/regulation/3/5) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/105/regulation/1/4))
 
-[^key-c3d533f482be0beedb6e59169baefe79]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2012/8/schedule/4) substituted (28.2.2022) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2022 (S.I. 2022/105)](https://www.legislation.gov.uk/uksi/2022/105), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/105/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/105/regulation/4) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/105/regulation/1/4))
+[^c-c3d533f482be0beedb6e59169baefe79]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2012/8/schedule/4) substituted (28.2.2022) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2022 (S.I. 2022/105)](https://www.legislation.gov.uk/uksi/2022/105), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/105/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/105/regulation/4) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/105/regulation/1/4))
 
-[^key-211c29d5b95a637f82d8d86a330991f9]: Textual amendment: Words in Sch. 4 Pt. 1 table substituted (28.2.2024) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2024 (S.I. 2024/109)](https://www.legislation.gov.uk/uksi/2024/109), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/109/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2024/109/regulation/2) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/109/regulation/1/4))
+[^c-211c29d5b95a637f82d8d86a330991f9]: Textual amendment: Words in Sch. 4 Pt. 1 table substituted (28.2.2024) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2024 (S.I. 2024/109)](https://www.legislation.gov.uk/uksi/2024/109), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/109/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2024/109/regulation/2) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/109/regulation/1/4))
 
-[^key-39f2101aabf1ca96412bc4777b01ed83]: Textual amendment: Words in Sch. 4 Pt. 1 table inserted (6.11.2025) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2025 (S.I. 2025/1081)](https://www.legislation.gov.uk/uksi/2025/1081), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1081/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2025/1081/regulation/2)
+[^c-39f2101aabf1ca96412bc4777b01ed83]: Textual amendment: Words in Sch. 4 Pt. 1 table inserted (6.11.2025) by [The School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements) (England) (Amendment) Regulations 2025 (S.I. 2025/1081)](https://www.legislation.gov.uk/uksi/2025/1081), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1081/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2025/1081/regulation/2)

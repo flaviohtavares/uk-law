@@ -34,7 +34,7 @@ summary: ''
 
 (4) The conditions which may be imposed include—
 
-- (a) conditions requiring the person to whom the certificate is issued to take specified steps that will, in the opinion of the Society, be conducive to the carrying on by that person of an efficient practice as a solicitor [^key-9f86e54affb961f7ab6b4ac8d8cdfe92]...;
+- (a) conditions requiring the person to whom the certificate is issued to take specified steps that will, in the opinion of the Society, be conducive to the carrying on by that person of an efficient practice as a solicitor [^c-9f86e54affb961f7ab6b4ac8d8cdfe92]...;
 - (b) conditions which prohibit that person from taking any specified steps, except with the approval of the Society.
 
 (5) In this section —
@@ -48,4 +48,4 @@ summary: ''
 
 [^c19692311]: Textual amendment: S. 10 substituted (1.7.2009) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 177](https://www.legislation.gov.uk/ukpga/2007/29/section/177), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 16 para. 9](https://www.legislation.gov.uk/ukpga/2007/29/schedule/16/paragraph/9) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/1365](https://www.legislation.gov.uk/uksi/2009/1365), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2009/1365/article/2/a/i)
 
-[^key-9f86e54affb961f7ab6b4ac8d8cdfe92]: Textual amendment: Words in [s. 10(4)(a)](https://www.legislation.gov.uk/ukpga/1974/47/section/10/4/a) omitted (1.11.2015) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/4)
+[^c-9f86e54affb961f7ab6b4ac8d8cdfe92]: Textual amendment: Words in [s. 10(4)(a)](https://www.legislation.gov.uk/ukpga/1974/47/section/10/4/a) omitted (1.11.2015) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/4)

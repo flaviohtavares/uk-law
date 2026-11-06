@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Construction and maintenance of new, altered or diverted streets and other structures[^key-0dbe960cfb372ed3acd13af5521f8763]
+## 11. Construction and maintenance of new, altered or diverted streets and other structures[^c-0dbe960cfb372ed3acd13af5521f8763]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ but for the purposes of such a defence it is not relevant to prove that the unde
 
 ## Annotations
 
-[^key-0dbe960cfb372ed3acd13af5521f8763]: Commencement: Art. 11 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)
+[^c-0dbe960cfb372ed3acd13af5521f8763]: Commencement: Art. 11 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 289A. Provision of children's programmes[^key-89614dd47f166b07218d0f08ed56a1b0]
+## 289A. Provision of children's programmes[^c-89614dd47f166b07218d0f08ed56a1b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89614dd47f166b07218d0f08ed56a1b0]: Textual amendment: S. 289A and cross-heading inserted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 90](https://www.legislation.gov.uk/ukpga/2017/30/section/90), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2)
+[^c-89614dd47f166b07218d0f08ed56a1b0]: Textual amendment: S. 289A and cross-heading inserted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 90](https://www.legislation.gov.uk/ukpga/2017/30/section/90), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2)

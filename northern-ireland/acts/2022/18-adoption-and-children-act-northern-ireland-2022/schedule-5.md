@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 5 — Repeals[^key-829c978f7b8e08ffa9a2a1c8011146bd]
+## SCHEDULE 5 — Repeals[^c-829c978f7b8e08ffa9a2a1c8011146bd]
 
 *Extent: N.I.*
 
@@ -75,4 +75,4 @@ Section 154(3)
 
 ## Annotations
 
-[^key-829c978f7b8e08ffa9a2a1c8011146bd]: Commencement: Sch. 5 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-829c978f7b8e08ffa9a2a1c8011146bd]: Commencement: Sch. 5 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

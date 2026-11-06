@@ -26,7 +26,7 @@ summary: ''
 - (b) a person who has been removed from a part of the register may be restored to that part;
 - (c) a person's registration in a part of the register may be suspended for a specified period;
 - (d) the suspension of a person's registration in a part of the register may be terminated;
-- (da)[^key-78cfed9b1c0b97480f215d8729be8f7a] a person's registration in a part of the register may be made subject to conditions (whether or not for a specified period);
+- (da)[^c-78cfed9b1c0b97480f215d8729be8f7a] a person's registration in a part of the register may be made subject to conditions (whether or not for a specified period);
 - (db) the conditions to which a person's registration in a part of the register is subject may be varied or revoked;
 - (dc) the duration for which a person's registration in a part of the register is subject to conditions may be varied;
 - (dd) an agreement with a registered person that the person will comply with specified undertakings (whether or not for a specified period) may be made;
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78cfed9b1c0b97480f215d8729be8f7a]: Textual amendment: [S. 6(1)(da)-(dg)](https://www.legislation.gov.uk/nia/2001/3/section/6/1/da) inserted (13.5.2016) by [Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23)](https://www.legislation.gov.uk/nia/2016/23), [ss. 1](https://www.legislation.gov.uk/nia/2016/23/section/1), [8](https://www.legislation.gov.uk/nia/2016/23/section/8)
+[^c-78cfed9b1c0b97480f215d8729be8f7a]: Textual amendment: [S. 6(1)(da)-(dg)](https://www.legislation.gov.uk/nia/2001/3/section/6/1/da) inserted (13.5.2016) by [Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23)](https://www.legislation.gov.uk/nia/2016/23), [ss. 1](https://www.legislation.gov.uk/nia/2016/23/section/1), [8](https://www.legislation.gov.uk/nia/2016/23/section/8)

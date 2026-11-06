@@ -36,7 +36,7 @@ was residing with the first successor in the dwelling-house—
 
 (ii) at the time of and for the period of two years immediately before the tenant’s death,
 
-that person, or if there is more than one such person, such one of them as may be decided by agreement or, in default of agreement, by the First-tier Tribunal[^key-a34d62e581f6ce1c06775ef742bbd52e], shall be entitled to a statutory assured tenancy of the dwelling-house by succession.
+that person, or if there is more than one such person, such one of them as may be decided by agreement or, in default of agreement, by the First-tier Tribunal[^c-a34d62e581f6ce1c06775ef742bbd52e], shall be entitled to a statutory assured tenancy of the dwelling-house by succession.
 
 **4.**[^c16940491] (1) Where after a succession the successor becomes the tenant of the dwelling-house by the grant to him of another tenancy, “the original tenant” and “the first successor” in this Schedule shall, in relation to that other tenancy, mean the persons who were respectively the original tenant and the first successor at the time of the succession, and accordingly—
 
@@ -62,7 +62,7 @@ that person, or if there is more than one such person, such one of them as may b
 
 [^c16940441]: Textual amendment: Schs. 1A, 1B inserted by [Housing (Scotland) Act 1988 (c. 43, SIF 61)](https://www.legislation.gov.uk/ukpga/1988/43), [ss. 46(3)](https://www.legislation.gov.uk/ukpga/1988/43/section/46/3), [52](https://www.legislation.gov.uk/ukpga/1988/43/section/52), [Sch. 6 Pt. I para. 1](https://www.legislation.gov.uk/ukpga/1988/43/schedule/6/part/I/paragraph/1)
 
-[^key-a34d62e581f6ce1c06775ef742bbd52e]: Textual amendment: Words in [Sch. 1B para. 3](https://www.legislation.gov.uk/ukpga/1984/58/schedule/1B/paragraph/3) substituted (1.12.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 1 para. 30](https://www.legislation.gov.uk/asp/2014/14/schedule/1/paragraph/30); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)
+[^c-a34d62e581f6ce1c06775ef742bbd52e]: Textual amendment: Words in [Sch. 1B para. 3](https://www.legislation.gov.uk/ukpga/1984/58/schedule/1B/paragraph/3) substituted (1.12.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 1 para. 30](https://www.legislation.gov.uk/asp/2014/14/schedule/1/paragraph/30); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)
 
 [^c16940491]: Textual amendment: [Schs. 1A](https://www.legislation.gov.uk/ukpga/1984/58/schedule/1A), [1B](https://www.legislation.gov.uk/ukpga/1984/58/schedule/1B) inserted by [Housing (Scotland) Act 1988 (c. 43, SIF 61)](https://www.legislation.gov.uk/ukpga/1988/43), [ss. 46(3)](https://www.legislation.gov.uk/ukpga/1988/43/section/46/3), [52](https://www.legislation.gov.uk/ukpga/1988/43/section/52), [Sch. 6 Pt. I para. 1](https://www.legislation.gov.uk/ukpga/1988/43/schedule/6/part/I/paragraph/1)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Amendment of the Value Added Tax (Special Provisions) Order 1995[^key-f1ecb294f0fb8dfe40d82ae2feaadec0]
+## 30. Amendment of the Value Added Tax (Special Provisions) Order 1995[^c-f1ecb294f0fb8dfe40d82ae2feaadec0]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,7 +59,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f1ecb294f0fb8dfe40d82ae2feaadec0]: Commencement: Reg. 30 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-f1ecb294f0fb8dfe40d82ae2feaadec0]: Commencement: Reg. 30 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24394991]: Marginal citation: [S.I. 1995/1268](https://www.legislation.gov.uk/uksi/1995/1268); relevant amending instruments are [S.I. 1997/1616](https://www.legislation.gov.uk/uksi/1997/1616), 1998/760, 2001/3753, 2002/1503, 2006/2187 and 2019/59. The amendments made by the last-named instrument are not yet in force and are omitted by this instrument.
 

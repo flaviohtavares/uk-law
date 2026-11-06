@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19.5. Cautioners and other guarantors[^key-27f295bb4e0208d35a324feca2431089]
+## 19.5. Cautioners and other guarantors[^c-27f295bb4e0208d35a324feca2431089]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ A bond of caution or other security may only be given by a person who is an auth
 
 ## Annotations
 
-[^key-27f295bb4e0208d35a324feca2431089]: Commencement: Para. 19.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-27f295bb4e0208d35a324feca2431089]: Commencement: Para. 19.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
 
 [^f00014]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8). Section 31 was amended by the Financial Services Act [2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21), section 11(1) and [S.I. 2018/1149](https://www.legislation.gov.uk/uksi/2018/1149).

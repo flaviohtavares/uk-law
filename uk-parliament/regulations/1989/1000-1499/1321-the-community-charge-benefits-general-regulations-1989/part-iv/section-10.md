@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Calculation of income and capital of members of claimant’s family and of a polygamous marriage[^key-0dd6b0bd2c4bf8f7ec77b3d888892300]
+## 10. Calculation of income and capital of members of claimant’s family and of a polygamous marriage[^c-0dd6b0bd2c4bf8f7ec77b3d888892300]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0dd6b0bd2c4bf8f7ec77b3d888892300]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1989/1321/regulation/10) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-0dd6b0bd2c4bf8f7ec77b3d888892300]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1989/1321/regulation/10) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)

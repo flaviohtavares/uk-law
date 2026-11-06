@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) An inspector who knows or suspects that any poultry, other captive bird or any thing on any vehicle is infected or contaminated with highly pathogenic avian influenza virus[^key-cdd7bb5160aba0769f89c9d0a3940c8a] may, by notice to the owner or driver of the vehicle or to the occupier of any premises—
+(1) An inspector who knows or suspects that any poultry, other captive bird or any thing on any vehicle is infected or contaminated with highly pathogenic avian influenza virus[^c-cdd7bb5160aba0769f89c9d0a3940c8a] may, by notice to the owner or driver of the vehicle or to the occupier of any premises—
 
 - (a) require the detention at such place as the inspector directs of any vehicle, equipment or other thing suspected of being contaminated; and
 - (b) direct that the vehicle be moved to such premises as the inspector directs.
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cdd7bb5160aba0769f89c9d0a3940c8a]: Textual amendment: Word in [art. 42(1)](https://www.legislation.gov.uk/wsi/2006/2927/article/42/1) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [26](https://www.legislation.gov.uk/wsi/2025/1357/article/26)
+[^c-cdd7bb5160aba0769f89c9d0a3940c8a]: Textual amendment: Word in [art. 42(1)](https://www.legislation.gov.uk/wsi/2006/2927/article/42/1) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [26](https://www.legislation.gov.uk/wsi/2025/1357/article/26)

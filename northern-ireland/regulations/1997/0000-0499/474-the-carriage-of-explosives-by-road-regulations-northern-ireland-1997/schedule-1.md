@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 2(3), 3(4), 8(2), 15(1) and (2), 20(4), 21(4) and 28(2)
 
-### Part I[^key-f9a5ee8505e069b5f9f1c953d3febf14]
+### Part I[^c-f9a5ee8505e069b5f9f1c953d3febf14]
 
 <table>
 <thead>
@@ -48,7 +48,7 @@ Regulations 2(3), 3(4), 8(2), 15(1) and (2), 20(4), 21(4) and 28(2)
 </tbody>
 </table>
 
-### Part II[^key-f224b000e4701022c9cacbff5ad1958c]
+### Part II[^c-f224b000e4701022c9cacbff5ad1958c]
 
 <table>
 <thead>
@@ -75,7 +75,7 @@ Regulations 2(3), 3(4), 8(2), 15(1) and (2), 20(4), 21(4) and 28(2)
 
 [^f01000][^f01000][^f01000][^f01000][^f01000][^f01000]
 
-### Part III[^key-2157b5c42d1111f45e999912999f85c8]
+### Part III[^c-2157b5c42d1111f45e999912999f85c8]
 
 <table>
 <thead>
@@ -128,12 +128,12 @@ Regulations 2(3), 3(4), 8(2), 15(1) and (2), 20(4), 21(4) and 28(2)
 
 ## Annotations
 
-[^key-f9a5ee8505e069b5f9f1c953d3febf14]: Commencement: [Sch. 1 Pt. I](https://www.legislation.gov.uk/nisr/1997/474/schedule/1/part/I) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-f9a5ee8505e069b5f9f1c953d3febf14]: Commencement: [Sch. 1 Pt. I](https://www.legislation.gov.uk/nisr/1997/474/schedule/1/part/I) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
 
-[^key-f224b000e4701022c9cacbff5ad1958c]: Commencement: [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/1997/474/schedule/1/part/II) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-f224b000e4701022c9cacbff5ad1958c]: Commencement: [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/1997/474/schedule/1/part/II) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
 
 [^f01000]: Footnote: \*
 
     These explosives are referred to in paragraph 15(*c*)(i) of Part II of Schedule 5.
 
-[^key-2157b5c42d1111f45e999912999f85c8]: Commencement: [Sch. 1 Pt. III](https://www.legislation.gov.uk/nisr/1997/474/schedule/1/part/III) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-2157b5c42d1111f45e999912999f85c8]: Commencement: [Sch. 1 Pt. III](https://www.legislation.gov.uk/nisr/1997/474/schedule/1/part/III) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

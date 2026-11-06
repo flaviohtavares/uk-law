@@ -59,7 +59,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(7)[^key-e2099dd9f27b278810ab34955b6b6ace] Schedule 3A (which provides for the review and discharge of indefinite notification requirements) has effect.
+(7)[^c-e2099dd9f27b278810ab34955b6b6ace] Schedule 3A (which provides for the review and discharge of indefinite notification requirements) has effect.
 
 ## Annotations
 
@@ -71,4 +71,4 @@ summary: ''
 
 [^c22557541]: Textual amendment: Words in table in s. 82(1) substituted (S.) (1.2.2011) by [The Criminal Justice and Licensing (Scotland) Act 2010 (Consequential and Supplementary Provisions) Order 2011 (S.S.I. 2011/25)](https://www.legislation.gov.uk/ssi/2011/25), [arts. 1](https://www.legislation.gov.uk/ssi/2011/25/article/1), [2](https://www.legislation.gov.uk/ssi/2011/25/article/2), [Sch. para. 2(2)(b)](https://www.legislation.gov.uk/ssi/2011/25/schedule/paragraph/2/2/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2011/25/article/3))
 
-[^key-e2099dd9f27b278810ab34955b6b6ace]: Textual amendment: S. 82(7) inserted (N.I.) (1.3.2014) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 1(2)](https://www.legislation.gov.uk/nia/2013/7/section/1/2), [15(2)(a)](https://www.legislation.gov.uk/nia/2013/7/section/15/2/a); [S.R. 2014/53](https://www.legislation.gov.uk/nisr/2014/53), [art. 2(a)](https://www.legislation.gov.uk/nisr/2014/53/article/2/a)
+[^c-e2099dd9f27b278810ab34955b6b6ace]: Textual amendment: S. 82(7) inserted (N.I.) (1.3.2014) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 1(2)](https://www.legislation.gov.uk/nia/2013/7/section/1/2), [15(2)(a)](https://www.legislation.gov.uk/nia/2013/7/section/15/2/a); [S.R. 2014/53](https://www.legislation.gov.uk/nisr/2014/53), [art. 2(a)](https://www.legislation.gov.uk/nisr/2014/53/article/2/a)

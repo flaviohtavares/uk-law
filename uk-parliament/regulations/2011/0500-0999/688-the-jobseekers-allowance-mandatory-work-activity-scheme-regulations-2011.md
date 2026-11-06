@@ -50,7 +50,7 @@ These Regulations are made with the consent of the Treasury in respect of provis
 
 In respect of provisions in these Regulations relating to housing benefit and council tax benefit, organisations appearing to the Secretary of State to be representative of the authorities concerned have agreed that consultations need not be undertaken [^c2075676].
 
-In accordance with section 172(1) of the Social Security Administration Act 1992 [^c2075677], the Secretary of State referred the proposals for these Regulations to the Social Security Advisory Committee.[^key-ca0f38358c7f21f577df6c4d1e26a6d9]
+In accordance with section 172(1) of the Social Security Administration Act 1992 [^c2075677], the Secretary of State referred the proposals for these Regulations to the Social Security Advisory Committee.[^c-ca0f38358c7f21f577df6c4d1e26a6d9]
 
 ## PART 1 — General
 
@@ -114,11 +114,11 @@ whichever is earlier.
 
 A claimant (“C”) is to be regarded as having failed to participate in the Scheme in accordance with these Regulations where C fails to comply with any requirement notified under regulation 4.
 
-### 7. Good cause[^key-5df19bf7350a07c6c8d620727def76bd]
+### 7. Good cause[^c-5df19bf7350a07c6c8d620727def76bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Consequences of failure to participate in the Scheme[^key-1c23bc2ea89b30fc3794e105ec61fd5b]
+### 8. Consequences of failure to participate in the Scheme[^c-1c23bc2ea89b30fc3794e105ec61fd5b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -252,7 +252,7 @@ The Jobseeker's Allowance Regulations are amended as follows—
 
 - (a) regulation 2(4)(a) and (b) (interpretation) of the Council Tax Benefit Regulations;
 - (b) regulation 2(4)(a) and (b) (interpretation) of the Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006 [^c2075708];
-- (c) regulation 3(j) (circumstances in which discretionary housing payments may be made) of the Discretionary Financial Assistance Regulations 2001 *(Extent: E)* *(affected by repeal, see note)*[^key-3b9cbb76aa1b99abdae546752ca6253a] [^c2075709]; *(Extent: E)* *(affected by repeal, see note)*[^key-3b9cbb76aa1b99abdae546752ca6253a]
+- (c) regulation 3(j) (circumstances in which discretionary housing payments may be made) of the Discretionary Financial Assistance Regulations 2001 *(Extent: E)* *(affected by repeal, see note)*[^c-3b9cbb76aa1b99abdae546752ca6253a] [^c2075709]; *(Extent: E)* *(affected by repeal, see note)*[^c-3b9cbb76aa1b99abdae546752ca6253a]
 - (d) regulation 2(3)(a) and (b) (interpretation) of the Housing Benefit Regulations;
 - (e) regulation 2(3)(a) and (b) (interpretation) of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006 [^c2075710].
 
@@ -374,7 +374,7 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^c2075677]: Marginal citation: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-ca0f38358c7f21f577df6c4d1e26a6d9]: Modification: Regulations modified (26.3.2013) by [Jobseekers (Back to Work Schemes) Act 2013 (c. 17)](https://www.legislation.gov.uk/ukpga/2013/17), [ss. 1](https://www.legislation.gov.uk/ukpga/2013/17/section/1), [3(2)](https://www.legislation.gov.uk/ukpga/2013/17/section/3/2)
+[^c-ca0f38358c7f21f577df6c4d1e26a6d9]: Modification: Regulations modified (26.3.2013) by [Jobseekers (Back to Work Schemes) Act 2013 (c. 17)](https://www.legislation.gov.uk/ukpga/2013/17), [ss. 1](https://www.legislation.gov.uk/ukpga/2013/17/section/1), [3(2)](https://www.legislation.gov.uk/ukpga/2013/17/section/3/2)
 
 [^c2075678]: Marginal citation: [S.I. 2006/215](https://www.legislation.gov.uk/uksi/2006/215).
 
@@ -388,9 +388,9 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^c2075683]: Marginal citation: *See* section 17A(10) of the Act for the meaning of the “jobseeking conditions”.
 
-[^key-5df19bf7350a07c6c8d620727def76bd]: Textual amendment: Reg. 7 revoked (22.10.2012) by [The Jobseekerâ€™s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2012/2568/regulation/8)
+[^c-5df19bf7350a07c6c8d620727def76bd]: Textual amendment: Reg. 7 revoked (22.10.2012) by [The Jobseekerâ€™s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2012/2568/regulation/8)
 
-[^key-1c23bc2ea89b30fc3794e105ec61fd5b]: Textual amendment: Reg. 8 revoked (22.10.2012) by [The Jobseekerâ€™s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2012/2568/regulation/8)
+[^c-1c23bc2ea89b30fc3794e105ec61fd5b]: Textual amendment: Reg. 8 revoked (22.10.2012) by [The Jobseekerâ€™s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2012/2568/regulation/8)
 
 [^c2075686]: Marginal citation: [Regulation 140](https://www.legislation.gov.uk/uksi/2011/688/regulation/140) was amended by [S.I. 1996/1516](https://www.legislation.gov.uk/uksi/1996/1516), 1997/2863, 1999/2860, 2000/239, 2000/1987, 2001/1029, 2003/445, 2005/2877, 2008/1554, 2008/3051 and 2009/480.
 
@@ -438,7 +438,7 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^c2075708]: Marginal citation: [S.I. 2006/216](https://www.legislation.gov.uk/uksi/2006/216).
 
-[^key-3b9cbb76aa1b99abdae546752ca6253a]: Textual amendment: [Reg. 17(1)(c)](https://www.legislation.gov.uk/uksi/2011/688/regulation/17/1/c) revoked (E.) (1.4.2026) by [The Discretionary Financial Assistance and Discretionary Housing Payments (Amendment and Revocation) Regulations 2026 (S.I. 2026/271)](https://www.legislation.gov.uk/uksi/2026/271), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/271/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/271/schedule)
+[^c-3b9cbb76aa1b99abdae546752ca6253a]: Textual amendment: [Reg. 17(1)(c)](https://www.legislation.gov.uk/uksi/2011/688/regulation/17/1/c) revoked (E.) (1.4.2026) by [The Discretionary Financial Assistance and Discretionary Housing Payments (Amendment and Revocation) Regulations 2026 (S.I. 2026/271)](https://www.legislation.gov.uk/uksi/2026/271), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/271/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/271/schedule)
 
 [^c2075709]: Marginal citation: [S.I. 2001/1167](https://www.legislation.gov.uk/uksi/2001/1167).
 

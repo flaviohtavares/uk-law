@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Amendment of regulation 25[^key-6d904249de48bf7eba59adf83e7e4202]
+## 25. Amendment of regulation 25[^c-6d904249de48bf7eba59adf83e7e4202]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 25(1), for “a member (“**P**”)” substitute “P”.
 
 ## Annotations
 
-[^key-6d904249de48bf7eba59adf83e7e4202]: Commencement: Reg. 25 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-6d904249de48bf7eba59adf83e7e4202]: Commencement: Reg. 25 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

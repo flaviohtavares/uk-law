@@ -42,7 +42,7 @@ Coming into operation
 
 The Department of Finance makes the following Order in exercise of the powers conferred by section 9(2) and (3) of the Public Service Pensions Act (Northern Ireland) 2014[^f00001].
 
-## 1. Citation, commencement and effect[^key-0383c898e1c204c194b3103a10b3f1e8]
+## 1. Citation, commencement and effect[^c-0383c898e1c204c194b3103a10b3f1e8]
 
 (1) This Order may be cited as the Public Service Pensions Revaluation Order (Northern Ireland) 2023 and comes into operation on 1st April 2023.
 
@@ -53,7 +53,7 @@ The Department of Finance makes the following Order in exercise of the powers co
 - (a) The Local Government Pension Scheme Regulations (Northern Ireland) 2014[^f00002]; and
 - (b) The Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015[^f00003].
 
-## 2. Revaluation by reference to change in prices or earnings[^key-5b069080f32c146821721468b1496762]
+## 2. Revaluation by reference to change in prices or earnings[^c-5b069080f32c146821721468b1496762]
 
 For the purposes of section 9(2) of the Public Service Pensions Act (Northern Ireland) 2014 (revaluation), in relation to the period beginning on 1st April 2022 and ending on 31st March 2023—
 
@@ -84,10 +84,10 @@ This Order comes into operation on 1st April 2023 but for the schemes specified 
 
 [^f00001]: Footnote: [2014 c.2 (N.I.)](https://www.legislation.gov.uk/nia/2014/2)
 
-[^key-0383c898e1c204c194b3103a10b3f1e8]: Commencement: Art. 1 in operation at 1.4.2023 with effect in accordance with art. 1(2)(3), see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/54/article/1/1)
+[^c-0383c898e1c204c194b3103a10b3f1e8]: Commencement: Art. 1 in operation at 1.4.2023 with effect in accordance with art. 1(2)(3), see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/54/article/1/1)
 
 [^f00002]: Footnote: [S.R. 2014/188](https://www.legislation.gov.uk/nisr/2014/188).
 
 [^f00003]: Footnote: [S.R. 2015/120](https://www.legislation.gov.uk/nisr/2015/120).
 
-[^key-5b069080f32c146821721468b1496762]: Commencement: Art. 2 in operation at 1.4.2023 with effect in accordance with art. 1(2)(3), see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/54/article/1/1)
+[^c-5b069080f32c146821721468b1496762]: Commencement: Art. 2 in operation at 1.4.2023 with effect in accordance with art. 1(2)(3), see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/54/article/1/1)

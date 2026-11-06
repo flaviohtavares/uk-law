@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Consequential changes to electoral arrangements[^key-3f217ea280d72d7d2d90f4449359252f]
+## 9. Consequential changes to electoral arrangements[^c-3f217ea280d72d7d2d90f4449359252f]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In the community of Clydach, the number of councillors to be elected for the—
 
 ## Annotations
 
-[^key-3f217ea280d72d7d2d90f4449359252f]: Commencement: [Art. 9](https://www.legislation.gov.uk/wsi/2026/95/article/9) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-3f217ea280d72d7d2d90f4449359252f]: Commencement: [Art. 9](https://www.legislation.gov.uk/wsi/2026/95/article/9) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

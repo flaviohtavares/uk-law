@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28A. Complaints and misconduct: Northern Ireland[^key-43e7fd706c2a719432f0877b7d4f9e23]
+## 28A. Complaints and misconduct: Northern Ireland[^c-43e7fd706c2a719432f0877b7d4f9e23]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43e7fd706c2a719432f0877b7d4f9e23]: Textual amendment: S. 28A inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 278(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/278/1)
+[^c-43e7fd706c2a719432f0877b7d4f9e23]: Textual amendment: S. 28A inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 278(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/278/1)

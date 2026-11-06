@@ -24,19 +24,19 @@ Section 101
 
 ### Introduction
 
-**1.**[^key-8d3f042e394f5045c76952f4ac4faf51] Part 4 of FA 2004 (pension schemes etc.) is amended in accordance with paragraphs 2 to 58.
+**1.**[^c-8d3f042e394f5045c76952f4ac4faf51] Part 4 of FA 2004 (pension schemes etc.) is amended in accordance with paragraphs 2 to 58.
 
 ### Deferred annuities
 
-**2.**[^key-9710cd85d2109d2a4424eeb6aef3dc75] In section 153(8) (deferred annuity contract to be registered pension scheme), after “contract” insert “ made with an insurance company ”.
+**2.**[^c-9710cd85d2109d2a4424eeb6aef3dc75] In section 153(8) (deferred annuity contract to be registered pension scheme), after “contract” insert “ made with an insurance company ”.
 
 ### Orders for return of unauthorised payments
 
-**3.**[^key-dbbf21d3b03f0eb22510f2eb1de8347d] In section 153 (registration of pension schemes), after subsection (8) insert—
+**3.**[^c-dbbf21d3b03f0eb22510f2eb1de8347d] In section 153 (registration of pension schemes), after subsection (8) insert—
 
 > (8A) Where an order has been made under section 19(4) or 21(2)(a) of the Pensions Act 2004 or Article 15(4) or 17(2)(a) of the Pensions (Northern Ireland) Order 2005 (restitution by order of court or Pensions Regulator) that property or money be transferred, or a sum be paid, towards an annuity contract made with an insurance company, the annuity contract is to be treated as having become a registered pension scheme on the day on which it is made.
 
-**4.**[^key-d9f8fc563f69bbd37507ae52630a39fa] After section 266 insert—
+**4.**[^c-d9f8fc563f69bbd37507ae52630a39fa] After section 266 insert—
 
 > **Relief from liability in respect of returned unauthorised member payments**
 >
@@ -96,11 +96,11 @@ Section 101
 
 ### Unauthorised member payments
 
-**5.**[^key-6dedf5985794dd4b8ede069f72bfba8c] In section 161(5) (payment made to person who is connected with member, or was connected with member at his death, to be treated as made in respect of member), after “scheme to” insert “ or in respect of ”.
+**5.**[^c-6dedf5985794dd4b8ede069f72bfba8c] In section 161(5) (payment made to person who is connected with member, or was connected with member at his death, to be treated as made in respect of member), after “scheme to” insert “ or in respect of ”.
 
 ### Unauthorised payments: loans to person connected with member or sponsoring employer
 
-**6.**[^key-3ded8aa797d38356db5e6683d5ed94ea] (1) Section 162 (meaning of “loan”) is amended as follows.
+**6.**[^c-3ded8aa797d38356db5e6683d5ed94ea] (1) Section 162 (meaning of “loan”) is amended as follows.
 
 (2) In subsection (3) (guarantee of loan to or in respect of member or sponsoring employer to be treated as loan), after “scheme” insert “ , or to or in respect of a person who is connected with a member or sponsoring employer of a registered pension scheme but is not a member or sponsoring employer of the pension scheme, ”.
 
@@ -112,9 +112,9 @@ Section 101
 
 ### Abatement of public service pensions
 
-**7.**[^key-f6945085d357106a8d51dc2488d6be77] In section 165(3) (when a person becomes entitled to a pension), insert at the end (not as part of paragraph (b)) “ and, for this purpose, the abatement of a scheme pension under a public service pension scheme is not to be taken to affect the right to receive it. ”
+**7.**[^c-f6945085d357106a8d51dc2488d6be77] In section 165(3) (when a person becomes entitled to a pension), insert at the end (not as part of paragraph (b)) “ and, for this purpose, the abatement of a scheme pension under a public service pension scheme is not to be taken to affect the right to receive it. ”
 
-**8.**[^key-2be741c3a7595624d52bc386d44b8b58] (1) Schedule 32 (benefit crystallisation events: supplementary) is amended as follows.
+**8.**[^c-2be741c3a7595624d52bc386d44b8b58] (1) Schedule 32 (benefit crystallisation events: supplementary) is amended as follows.
 
 (2) In paragraph 9 (benefit crystallisation event 2: meaning of “P”), after sub-paragraph (1) insert—
 
@@ -144,13 +144,13 @@ Section 101
 > - (a) the increased annual rate of the pension, and
 > - (b) the rate at which it was payable on the day on which the individual became entitled to it.
 
-**9.**[^key-eec4a3f9811b66e980bb927f4bb37923] In section 279(1) (definitions), before the definition of “the Board of Inland Revenue” insert—
+**9.**[^c-eec4a3f9811b66e980bb927f4bb37923] In section 279(1) (definitions), before the definition of “the Board of Inland Revenue” insert—
 
 > “**abatement**”, in relation to a scheme pension under a public service pension scheme, means the reduction of the pension (including its reduction to nil) in accordance with the rules of the pension scheme by reason of re-employment in public service,
 
 .
 
-**10.**[^key-7a6029078d94b256c41c5fe12bff766e] In the table in section 280(2) (index of defined expressions), insert at the appropriate place—
+**10.**[^c-7a6029078d94b256c41c5fe12bff766e] In the table in section 280(2) (index of defined expressions), insert at the appropriate place—
 
 > |  |  |
 > | --- | --- |
@@ -160,7 +160,7 @@ Section 101
 
 ### Scheme pensions
 
-**11.**[^key-246006d8dcc9296b871bdda514bbe1b8] (1) Paragraph 2 of Schedule 28 (scheme pensions) is amended as follows.
+**11.**[^c-246006d8dcc9296b871bdda514bbe1b8] (1) Paragraph 2 of Schedule 28 (scheme pensions) is amended as follows.
 
 (2) Omit sub-paragraph (1) (special provisions for pension scheme with fewer than 50 members).
 
@@ -203,7 +203,7 @@ Section 101
 
 > (8) Regulations under sub-paragraph (4)(e) and (h) may include provision having effect in relation to times before they are made.
 
-**12.**[^key-9d3093845d8c876812b109ef234e9650] In Schedule 28 (authorised pensions), after paragraph 2 insert—
+**12.**[^c-9d3093845d8c876812b109ef234e9650] In Schedule 28 (authorised pensions), after paragraph 2 insert—
 
 > **2A.** (1) Where this paragraph applies in relation to a pension payable to the member, the pension scheme is to be treated as making an unauthorised payment to the member of the appropriate amount.
 >
@@ -226,7 +226,7 @@ Section 101
 
 ### Annuities
 
-**13.**[^key-e9f0a8fe189aca87a5e90c50b72adb5e] (1) Paragraph 3 of Schedule 28 (lifetime annuity) is amended as follows.
+**13.**[^c-e9f0a8fe189aca87a5e90c50b72adb5e] (1) Paragraph 3 of Schedule 28 (lifetime annuity) is amended as follows.
 
 (2) For sub-paragraph (1)(d) (lifetime annuity to be level annuity, increasing annuity or relevant linked annuity) substitute—
 
@@ -250,7 +250,7 @@ Section 101
 
 (4) Omit sub-paragraphs (3) to (6) (which define level annuity, increasing annuity and relevant linked annuity).
 
-**14.**[^key-e85aa331726b23516072db0d8934036b] (1) Paragraph 6 of Schedule 28 (short-term annuity) is amended as follows.
+**14.**[^c-e85aa331726b23516072db0d8934036b] (1) Paragraph 6 of Schedule 28 (short-term annuity) is amended as follows.
 
 (2) In sub-paragraph (1) (meaning of “short-term annuity”), for “An” substitute “ For the purposes of this Part an ”.
 
@@ -276,7 +276,7 @@ Section 101
 
 (5) Omit sub-paragraph (2) (which defines level annuity, increasing annuity and relevant linked annuity).
 
-**15.**[^key-ff932e2e476946d5518cc0b3343255c4] (1) Paragraph 17 of Schedule 28 (dependants' annuity) is amended as follows.
+**15.**[^c-ff932e2e476946d5518cc0b3343255c4] (1) Paragraph 17 of Schedule 28 (dependants' annuity) is amended as follows.
 
 (2) In sub-paragraph (1) (meaning of “dependants' annuity”), for “An” substitute “ For the purposes of this Part an ”.
 
@@ -302,7 +302,7 @@ Section 101
 >
 > (5) For the purposes of sub-paragraphs (3) and (4) a registered pension scheme is the relevant registered pension scheme if the original dependants' annuity was acquired using sums or assets held for the purposes of the pension scheme.
 
-**16.**[^key-98082900c6bfc89adfffd80fd854d6cc] (1) Paragraph 20 of Schedule 28 (dependants' short-term annuity) is amended as follows.
+**16.**[^c-98082900c6bfc89adfffd80fd854d6cc] (1) Paragraph 20 of Schedule 28 (dependants' short-term annuity) is amended as follows.
 
 (2) In sub-paragraph (1) (meaning of “dependants' short-term annuity”), for “An” substitute “ For the purposes of this Part an ”.
 
@@ -328,7 +328,7 @@ Section 101
 
 (5) Omit sub-paragraph (2) (which defines level annuity, increasing annuity and relevant linked annuity).
 
-**17.**[^key-076a2ab2c777906744797686a058641e] In the table in section 280(2) (index of defined expressions), insert at the appropriate place—
+**17.**[^c-076a2ab2c777906744797686a058641e] In the table in section 280(2) (index of defined expressions), insert at the appropriate place—
 
 > |  |  |
 > | --- | --- |
@@ -346,7 +346,7 @@ Section 101
 
 ### Unsecured pension funds and alternatively secured pension funds
 
-**18.**[^key-831bb52dd6d629247d880a037df124e8] (1) Paragraph 8 of Schedule 28 (member's unsecured pension fund) is amended as follows.
+**18.**[^c-831bb52dd6d629247d880a037df124e8] (1) Paragraph 8 of Schedule 28 (member's unsecured pension fund) is amended as follows.
 
 (2) In sub-paragraph (1) (sums and assets designated as available for the payment of unsecured pension), for the words after “of the arrangement” substitute “as are member-designated funds.”
 
@@ -359,13 +359,13 @@ Section 101
 >
 > and have not been applied towards the provision of a scheme pension.
 
-(4)[^key-ca89acd859facd4cae2d2312c381c7f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ca89acd859facd4cae2d2312c381c7f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) After that sub-paragraph insert—
 
 > (4) If any sums or assets representing the member's unsecured pension fund in respect of an arrangement under the pension scheme would (apart from this sub-paragraph) come to be taken to represent another unsecured pension fund of his under the pension scheme, or a dependant's unsecured pension fund of his under the pension scheme, they are to be treated as not doing so.
 
-**19.**[^key-ca53f9d437913803bd68792d87dff151] (1) Paragraph 10 of Schedule 28 (“unsecured pension years” etc.) is amended as follows.
+**19.**[^c-ca53f9d437913803bd68792d87dff151] (1) Paragraph 10 of Schedule 28 (“unsecured pension years” etc.) is amended as follows.
 
 (2) In sub-paragraph (4)(“basis amount”)—
 
@@ -378,9 +378,9 @@ Section 101
 
 (4) In sub-paragraph (9) (“recent”), for “or additional fund designation” substitute “ , additional fund designation or pension sharing event ”.
 
-**20.**[^key-67f55725de81745b6f453271f285eaa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-67f55725de81745b6f453271f285eaa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-a175a1d9c620e14e81bd4f86fdd815f6] (1) Paragraph 22 of Schedule 28 (dependant's unsecured pension fund) is amended as follows.
+**21.**[^c-a175a1d9c620e14e81bd4f86fdd815f6] (1) Paragraph 22 of Schedule 28 (dependant's unsecured pension fund) is amended as follows.
 
 (2) In sub-paragraph (1) (sums and assets designated as available for the payment of dependants' unsecured pension), for paragraphs (a) and (b) substitute—
 
@@ -401,7 +401,7 @@ Section 101
 >
 > they are to be treated as not doing so.
 
-**22.**[^key-cfa788c5ca71f0c8971dbbd507c1541b] (1) Paragraph 24 of Schedule 28 (“unsecured pension years” etc.) is amended as follows.
+**22.**[^c-cfa788c5ca71f0c8971dbbd507c1541b] (1) Paragraph 24 of Schedule 28 (“unsecured pension years” etc.) is amended as follows.
 
 (2) In sub-paragraph (4) (“basis amount”)—
 
@@ -414,25 +414,25 @@ Section 101
 
 (4) In sub-paragraph (9) (“recent”), for “or additional fund designation” substitute “ , additional fund designation or pension sharing event ”.
 
-**23.**[^key-11c05bdc9217ce15f27c7e3cf4fa0c1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-11c05bdc9217ce15f27c7e3cf4fa0c1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-24397c32b905d4a0d7b7eb42f7ff5c67] In paragraph 3(8) of Schedule 29 (pension commencement lump sum: deduction from applicable amount in case of scheme pension), for “surrender” substitute “ application ”.
+**24.**[^c-24397c32b905d4a0d7b7eb42f7ff5c67] In paragraph 3(8) of Schedule 29 (pension commencement lump sum: deduction from applicable amount in case of scheme pension), for “surrender” substitute “ application ”.
 
-**25.**[^key-790a5fe42eeb890040f680a803098cdd] (1) Schedule 32 (benefit crystallisation events: supplementary) is amended as follows.
+**25.**[^c-790a5fe42eeb890040f680a803098cdd] (1) Schedule 32 (benefit crystallisation events: supplementary) is amended as follows.
 
 (2) In paragraph 3(1) (benefit crystallisation events 1, 2 and 4: prevention of overlap), for “surrender” substitute “application”.
 
-(3)[^key-46478b958e66ae8f681d7caf1321030c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-46478b958e66ae8f681d7caf1321030c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Meaning of “dependant”
 
-**26.**[^key-11609a75d4b1fc5bcc0ef91aac6fee29] In paragraph 15 of Schedule 28 (meaning of “dependant”), after sub-paragraph (1) insert—
+**26.**[^c-11609a75d4b1fc5bcc0ef91aac6fee29] In paragraph 15 of Schedule 28 (meaning of “dependant”), after sub-paragraph (1) insert—
 
 > (1A) If the rules of the pension scheme so provide, a person who was married to the member when the member first became entitled to a pension under the pension scheme is a dependant of the member.
 
 ### Dependants' scheme pensions
 
-**27.**[^key-f12ef7dd6b3e316dc2489e4ecb1777d2] (1) Paragraph 16 of Schedule 28 (dependants' scheme pension) is amended as follows.
+**27.**[^c-f12ef7dd6b3e316dc2489e4ecb1777d2] (1) Paragraph 16 of Schedule 28 (dependants' scheme pension) is amended as follows.
 
 (2) Omit sub-paragraph (1) (special provisions for pension scheme with fewer than 50 members).
 
@@ -457,7 +457,7 @@ Section 101
 
 (5) Omit sub-paragraphs (3) to (6) (condition to be satisfied).
 
-**28.**[^key-d7237f49e91b3c7e0dd68c82c6ced8db] In Schedule 28 (authorised pensions), after paragraph 16 insert—
+**28.**[^c-d7237f49e91b3c7e0dd68c82c6ced8db] In Schedule 28 (authorised pensions), after paragraph 16 insert—
 
 > **16A.** (1) Paragraphs 16B and 16C apply where—
 >
@@ -564,7 +564,7 @@ Section 101
 
 ### Lifetime annuities and dependants' annuities purchased together
 
-**29.**[^key-a72aedc9d0617c08a9e4a7b06d3d3052] (1) Paragraph 17 of Schedule 28 (dependants' annuity) is amended as follows.
+**29.**[^c-a72aedc9d0617c08a9e4a7b06d3d3052] (1) Paragraph 17 of Schedule 28 (dependants' annuity) is amended as follows.
 
 (2) In sub-paragraph (1) (meaning of “dependants' annuity”), before paragraph (a) insert—
 
@@ -576,7 +576,7 @@ Section 101
 
 > (1A) For the purposes of sub-paragraph (1)(za) a dependants' annuity is purchased together with a lifetime annuity if the dependant's annuity is related to the lifetime annuity.
 
-**30.**[^key-22ca9b4a636f15012a70f4420644d038] (1) Paragraph 3 of Schedule 29 (pension commencement lump sum: applicable amount) is amended as follows.
+**30.**[^c-22ca9b4a636f15012a70f4420644d038] (1) Paragraph 3 of Schedule 29 (pension commencement lump sum: applicable amount) is amended as follows.
 
 (2) In sub-paragraph (4) (applicable amount where member entitled to lifetime annuity to be one third of purchase price), for “of the annuity” substitute “ of the lifetime annuity and any related dependants' annuity ”.
 
@@ -587,11 +587,11 @@ Section 101
 > - (a) if they are purchased either in the form of a joint life annuity or separately in circumstances in which the day on which the one is purchased is no earlier than seven days before, and no later than seven days after, the day on which the other is purchased, and
 > - (b) the dependant's annuity will be payable to a dependant of the member.
 
-**31.**[^key-affd9c0a8565837ae56ce7f907764762] In the table in section 216(1) (benefit crystallisation events and amounts crystallised), in benefit crystallisation event 4 (becoming entitled to lifetime annuity), in column 2 (amount crystallised), insert at the end “ and any related dependants' annuity ”.
+**31.**[^c-affd9c0a8565837ae56ce7f907764762] In the table in section 216(1) (benefit crystallisation events and amounts crystallised), in benefit crystallisation event 4 (becoming entitled to lifetime annuity), in column 2 (amount crystallised), insert at the end “ and any related dependants' annuity ”.
 
-**32.**[^key-51a36e1a1eda22f72f61bbb910cc8b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-51a36e1a1eda22f72f61bbb910cc8b38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.**[^key-e93604f973e758751b14ff6e1f6c5c7a] In the table in section 280(2) (index of defined expressions), insert at the appropriate place—
+**33.**[^c-e93604f973e758751b14ff6e1f6c5c7a] In the table in section 280(2) (index of defined expressions), insert at the appropriate place—
 
 > |  |  |
 > | --- | --- |
@@ -601,7 +601,7 @@ Section 101
 
 ### Pension commencement lump sums
 
-**34.**[^key-12d45d365fa48e7b991d5038c1b7c966] (1) Paragraph 1 of Schedule 29 (meaning of “pension commencement lump sum”) is amended as follows.
+**34.**[^c-12d45d365fa48e7b991d5038c1b7c966] (1) Paragraph 1 of Schedule 29 (meaning of “pension commencement lump sum”) is amended as follows.
 
 (2) In sub-paragraph (3)(b) (member must become entitled to lump sum in connection with becoming entitled to relevant pension: lump sum and pension to be under same arrangement), for “under the arrangement” substitute “ , otherwise than by virtue of the operation of paragraph 8(2) of Schedule 28, under the pension scheme ”.
 
@@ -609,7 +609,7 @@ Section 101
 
 > (6) The Board of Inland Revenue may by regulations provide that, where incorrect income tax has been paid by the scheme administrator in relation to the member by way of the lifetime allowance charge in circumstances prescribed by the regulations, a lump sum subsequently paid to the member in circumstances so prescribed is to be treated as a pension commencement lump sum even though either or both of the conditions in sub-paragraph (1)(c) and (e) are not met.
 
-**35.**[^key-bd726d9a6b9425260d1c93dc8d61ab1f] (1) Paragraph 3 of Schedule 29 (applicable amount limit) is amended as follows.
+**35.**[^c-bd726d9a6b9425260d1c93dc8d61ab1f] (1) Paragraph 3 of Schedule 29 (applicable amount limit) is amended as follows.
 
 (2) For sub-paragraph (5) (annuity purchase price: sums and assets to be disregarded) substitute—
 
@@ -622,7 +622,7 @@ Section 101
 
 ### Recognised transfers
 
-**36.**[^key-e38ddc384153c8a56cdd26450c42b389] In section 169 (recognised transfers), after subsection (1) insert—
+**36.**[^c-e38ddc384153c8a56cdd26450c42b389] In section 169 (recognised transfers), after subsection (1) insert—
 
 > (1A) A transfer of sums or assets held for the purposes of, or representing accrued rights under, a registered pension scheme to an insurance company is to be treated as a recognised transfer if the sums or assets had been applied by the pension scheme towards the provision of a scheme pension or a dependants' scheme pension (but subject to regulations under subsections (1B) and (1C)).
 >
@@ -652,7 +652,7 @@ Section 101
 
 ### Assignment
 
-**37.**[^key-090c7bb78dbfb8f31bca73dc41d15b4a] (1) Section 172 (assignment of benefit to which member has actual or prospective entitlement to constitute unauthorised payment) is amended as follows.
+**37.**[^c-090c7bb78dbfb8f31bca73dc41d15b4a] (1) Section 172 (assignment of benefit to which member has actual or prospective entitlement to constitute unauthorised payment) is amended as follows.
 
 (2) In subsection (1) (members), for the words after “agrees to assign” substitute—
 
@@ -674,7 +674,7 @@ Section 101
 
 ### Surrender and allocation of rights etc.
 
-**38.**[^key-0f568d164051314356cce96a07c5342f] After section 172 insert—
+**38.**[^c-0f568d164051314356cce96a07c5342f] After section 172 insert—
 
 > **172A. Surrender**
 >
@@ -830,7 +830,7 @@ Section 101
 
 ### Restriction of employers' relief in respect of contributions
 
-**39.**[^key-08faaff06b31a74e03672ec6486986e6] After section 196 insert—
+**39.**[^c-08faaff06b31a74e03672ec6486986e6] After section 196 insert—
 
 > **196A. Power to restrict relief**
 >
@@ -860,7 +860,7 @@ Section 101
 >
 > have the same meaning as in Chapter 2 of Part 6 of ITEPA 2003 (see sections 393A and 393B of that Act).
 
-**40.**[^key-57bff189370ea6b20877106eac772e1e] After section 246 insert—
+**40.**[^c-57bff189370ea6b20877106eac772e1e] After section 246 insert—
 
 > **246A. Case where no relief for provision by an employer**
 >
@@ -890,14 +890,14 @@ Section 101
 
 ### Lifetime allowance: reduction of rights in respect of tax paid
 
-**41.**[^key-e7a5293fdff41b341a7a1ea144de7dd9] In section 215 (amount of lifetime allowance charge), omit—
+**41.**[^c-e7a5293fdff41b341a7a1ea144de7dd9] In section 215 (amount of lifetime allowance charge), omit—
 
 - (a) in subsection (9), paragraph (b) (tax covered by scheme funded payment if rights not reduced so as fully to reflect amount of payment of tax) and the word “and” before it, and
 - (b) subsection (10) (whether rights reduced so as fully to reflect amount of payment of tax).
 
-**42.**[^key-3700b91533058c6ad4fa9012011b8ce4] In the table in section 216(1) (benefit crystallisation events and amounts crystallised), in the entry relating to benefit crystallisation event 6 (entitlement to relevant lump sum), in the second column (amount crystallised), after “sum” insert “ paid to the individual ”.
+**42.**[^c-3700b91533058c6ad4fa9012011b8ce4] In the table in section 216(1) (benefit crystallisation events and amounts crystallised), in the entry relating to benefit crystallisation event 6 (entitlement to relevant lump sum), in the second column (amount crystallised), after “sum” insert “ paid to the individual ”.
 
-**43.**[^key-514e806c7d0ae6ba3dc1c7b357580c60] (1) Schedule 32 (benefit crystallisation events: supplementary) is amended as follows.
+**43.**[^c-514e806c7d0ae6ba3dc1c7b357580c60] (1) Schedule 32 (benefit crystallisation events: supplementary) is amended as follows.
 
 (2) In paragraph 9 (benefit crystallisation event 2: meaning of “P”) is amended as follows.
 
@@ -931,11 +931,11 @@ Section 101
 
 ### Lifetime allowance: minor amendment
 
-**44.**[^key-10730dacbe517b2995d4be4702d48467] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-10730dacbe517b2995d4be4702d48467] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Lifetime allowance: pension credits
 
-**45.**[^key-3f2251cad8edbeab31d56ac4e8c99464] (1) Section 220 (lifetime allowance enhancement factor in case of pension credits from previously crystallised rights) is amended as follows.
+**45.**[^c-3f2251cad8edbeab31d56ac4e8c99464] (1) Section 220 (lifetime allowance enhancement factor in case of pension credits from previously crystallised rights) is amended as follows.
 
 (2) In subsection (4) (pension credit factor), in the definition of APC, after “APC is” insert “ the post-commencement pension in payment portion of ”.
 
@@ -948,18 +948,18 @@ Section 101
 
 ### Migrant member relief
 
-**46.**[^key-e94b5d326c3e8980d7aa898643a532ed] In paragraph 4(c) of Schedule 33 (meaning of “relevant migrant member”: requirement that person be entitled to contributions tax relief in foreign country before taking up residence in United Kingdom)—
+**46.**[^c-e94b5d326c3e8980d7aa898643a532ed] In paragraph 4(c) of Schedule 33 (meaning of “relevant migrant member”: requirement that person be entitled to contributions tax relief in foreign country before taking up residence in United Kingdom)—
 
 - (a) at the beginning insert “ either ”, and
 - (b) after “resident” insert “ or meets such other condition as may be prescribed by regulations made by the Board of Inland Revenue ”.
 
 ### Information
 
-**47.**[^key-4a4018b8fca5261fc9d717620733ac52] In section 251(4)(a) (persons to whom scheme administrators can be required to provide information), after “are prescribed” insert “ or to the scheme administrators of other registered pension schemes ”.
+**47.**[^c-4a4018b8fca5261fc9d717620733ac52] In section 251(4)(a) (persons to whom scheme administrators can be required to provide information), after “are prescribed” insert “ or to the scheme administrators of other registered pension schemes ”.
 
 ### Electronic payment
 
-**48.**[^key-92d6c8f1ced0be1e64952c2f790a688e] After section 255 insert—
+**48.**[^c-92d6c8f1ced0be1e64952c2f790a688e] After section 255 insert—
 
 > **Payment**
 >
@@ -1008,7 +1008,7 @@ Section 101
 
 ### Insurance company liable as scheme administrator
 
-**49.**[^key-321f401553e74e94f3f26a5b53f53023] (1) After section 273 insert—
+**49.**[^c-321f401553e74e94f3f26a5b53f53023] (1) After section 273 insert—
 
 > **273A. Insurance company liable as scheme administrator**
 >
@@ -1031,7 +1031,7 @@ Section 101
 
 ### Power to split schemes
 
-**50.**[^key-4e8f782b036186c3f19ff900af812712] Before section 275 insert—
+**50.**[^c-4e8f782b036186c3f19ff900af812712] Before section 275 insert—
 
 > **274A. Power to split schemes**
 >
@@ -1048,7 +1048,7 @@ Section 101
 
 ### Power to modify rules of existing schemes
 
-**51.**[^key-d0f1dd84db16b283284de9afa2993b1a] In paragraph 3(2) of Schedule 36 (power to modify rules of existing schemes: modifications to have effect until earlier of time when rules amended and end of tax year 2008-09), for the words after “the pension scheme” substitute
+**51.**[^c-d0f1dd84db16b283284de9afa2993b1a] In paragraph 3(2) of Schedule 36 (power to modify rules of existing schemes: modifications to have effect until earlier of time when rules amended and end of tax year 2008-09), for the words after “the pension scheme” substitute
 
 > which state that the modifications no longer apply in relation to it take effect, or
 >
@@ -1056,7 +1056,7 @@ Section 101
 
 ### Primary and enhanced protection: valuation of uncrystallised rights
 
-**52.**[^key-55e4097224e49e6ca7766ea1c4d7dce9] (1) Schedule 36 (transitional provisions) is amended as follows.
+**52.**[^c-55e4097224e49e6ca7766ea1c4d7dce9] (1) Schedule 36 (transitional provisions) is amended as follows.
 
 (2) Paragraph 9 (valuation of uncrystallised rights under pension schemes within paragraph 1(1)(a) to (d)) is amended as follows.
 
@@ -1108,7 +1108,7 @@ Section 101
 
 ### Enhanced protection
 
-**53.**[^key-92afd0d0f224391f8fcd69084e0bded1] (1) Schedule 36 (transitional provisions) is amended as follows.
+**53.**[^c-92afd0d0f224391f8fcd69084e0bded1] (1) Schedule 36 (transitional provisions) is amended as follows.
 
 (2) Paragraph 12 (enhanced protection) is amended as follows.
 
@@ -1192,7 +1192,7 @@ Section 101
 
 ### Transitional provisions: persons who may take benefits before normal minimum pension age
 
-**54.**[^key-54d1a2acdfa9f73d9bc91e870b6803e9] (1) Schedule 36 (transitional provisions) is amended as follows.
+**54.**[^c-54d1a2acdfa9f73d9bc91e870b6803e9] (1) Schedule 36 (transitional provisions) is amended as follows.
 
 (2) In paragraph 19(5) (individuals permitted to take pension before normal minimum pension age), omit “and the pension scheme”.
 
@@ -1211,7 +1211,7 @@ Section 101
 
 ### Transitional provisions: block transfers
 
-**55.**[^key-7f57b7a52b7f943056bbeb9acbbb2886] (1) Schedule 36 (transitional provisions) is amended as follows.
+**55.**[^c-7f57b7a52b7f943056bbeb9acbbb2886] (1) Schedule 36 (transitional provisions) is amended as follows.
 
 (2) Paragraph 22 (right to take pension before normal minimum pension age: protected pension scheme where original pension scheme within paragraph 1(1)(a), (b), (c), (d) or (e)) is amended as follows.
 
@@ -1249,7 +1249,7 @@ Section 101
 
 ### Transitional provisions: lump sums before normal minimum pension age
 
-**56.**[^key-d971f2b4740c76418378ada1bd6c9cf7] In Schedule 36 (transitional provisions), after paragraph 23 insert—
+**56.**[^c-d971f2b4740c76418378ada1bd6c9cf7] In Schedule 36 (transitional provisions), after paragraph 23 insert—
 
 > **23A.** (1) Where—
 >
@@ -1264,11 +1264,11 @@ Section 101
 
 ### Transitional provisions: lump sums exceeding 25% of uncrystallised rights
 
-**57.**[^key-2cc4ef5bd3aa327921cda488ab5f2d41] In the substituted sub-paragraph (7) set out in paragraph 34(2) of Schedule 36 (entitlement to lump sums exceeding 25% of uncrystallised rights), in the definition of “ALSA”, for “additional lump sum amount” substitute “ greater of the additional lump sum amount and nil ”.
+**57.**[^c-2cc4ef5bd3aa327921cda488ab5f2d41] In the substituted sub-paragraph (7) set out in paragraph 34(2) of Schedule 36 (entitlement to lump sums exceeding 25% of uncrystallised rights), in the definition of “ALSA”, for “additional lump sum amount” substitute “ greater of the additional lump sum amount and nil ”.
 
 ### Transitional provisions: inheritance tax
 
-**58.**[^key-f498d7b1c8c3157b7d00b08cc2fdd840] (1) Schedule 36 (transitional provisions) is amended as follows.
+**58.**[^c-f498d7b1c8c3157b7d00b08cc2fdd840] (1) Schedule 36 (transitional provisions) is amended as follows.
 
 (2) In paragraph 57(1) and (2) (no contributions under scheme after 5th April 2006), for “proportion”, in each place, substitute “ percentage ”.
 
@@ -1276,7 +1276,7 @@ Section 101
 
 ### Trivial commutation and winding-up lump sums
 
-**59.**[^key-e6bdad652560eae21cb44152922d71bb] In section 636B(3) of ITEPA 2003 (trivial commutation and winding-up lump sums: taxable pension income to be 75% of lump sum where member has not become entitled to any benefits under pension scheme), for the words after “member” substitute
+**59.**[^c-e6bdad652560eae21cb44152922d71bb] In section 636B(3) of ITEPA 2003 (trivial commutation and winding-up lump sums: taxable pension income to be 75% of lump sum where member has not become entitled to any benefits under pension scheme), for the words after “member” substitute
 
 > has uncrystallised rights (within the meaning of section 212 of FA 2004) under any one or more arrangements under the pension scheme, the amount of the taxable pension income—
 >
@@ -1285,14 +1285,14 @@ Section 101
 
 ### Application of PAYE to annuities etc.
 
-**60.**[^key-dc2166f8326e546b980c701bf5b484f9] In section 683(3) of ITEPA 2003 (PAYE pension income), after the entry relating to section 579B of that Act insert— “ section 612, so far as relating to annuities to which section 610 applies (annuities under non-registered occupational pension schemes), ”.
+**60.**[^c-dc2166f8326e546b980c701bf5b484f9] In section 683(3) of ITEPA 2003 (PAYE pension income), after the entry relating to section 579B of that Act insert— “ section 612, so far as relating to annuities to which section 610 applies (annuities under non-registered occupational pension schemes), ”.
 
-**61.**[^key-593f5ebc59d00a2eca811fb8578aa236] In Schedule 36 to FA 2004 (transitional provisions), omit—
+**61.**[^c-593f5ebc59d00a2eca811fb8578aa236] In Schedule 36 to FA 2004 (transitional provisions), omit—
 
 - (a) paragraph 43 (continuation of Chapter 9 of Part 9 of ITEPA 2003 for certain annuity contracts with continued exclusion from PAYE), and
 - (b) paragraph 46 (application of PAYE to certain existing annuity contracts taxable under section 612 of ITEPA 2003).
 
-**62.**[^key-9f11ef9851fc4a655fd96bdd5d29c23a] In sections 348(1A) and 349(1A) of ICTA (deduction of tax), omit—
+**62.**[^c-9f11ef9851fc4a655fd96bdd5d29c23a] In sections 348(1A) and 349(1A) of ICTA (deduction of tax), omit—
 
 - (a) paragraph (b), and
 - (b) in paragraph (c), “, 610”.
@@ -1311,130 +1311,130 @@ Section 101
 
 ## Annotations
 
-[^key-8d3f042e394f5045c76952f4ac4faf51]: Commencement: Sch. 10 para. 1 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-8d3f042e394f5045c76952f4ac4faf51]: Commencement: Sch. 10 para. 1 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-9710cd85d2109d2a4424eeb6aef3dc75]: Commencement: Sch. 10 para. 2 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-9710cd85d2109d2a4424eeb6aef3dc75]: Commencement: Sch. 10 para. 2 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-dbbf21d3b03f0eb22510f2eb1de8347d]: Commencement: Sch. 10 para. 3 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-dbbf21d3b03f0eb22510f2eb1de8347d]: Commencement: Sch. 10 para. 3 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-d9f8fc563f69bbd37507ae52630a39fa]: Commencement: Sch. 10 para. 4 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-d9f8fc563f69bbd37507ae52630a39fa]: Commencement: Sch. 10 para. 4 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-6dedf5985794dd4b8ede069f72bfba8c]: Commencement: Sch. 10 para. 5 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-6dedf5985794dd4b8ede069f72bfba8c]: Commencement: Sch. 10 para. 5 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-3ded8aa797d38356db5e6683d5ed94ea]: Commencement: Sch. 10 para. 6 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-3ded8aa797d38356db5e6683d5ed94ea]: Commencement: Sch. 10 para. 6 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-f6945085d357106a8d51dc2488d6be77]: Commencement: Sch. 10 para. 7 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-f6945085d357106a8d51dc2488d6be77]: Commencement: Sch. 10 para. 7 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-2be741c3a7595624d52bc386d44b8b58]: Commencement: Sch. 10 para. 8 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-2be741c3a7595624d52bc386d44b8b58]: Commencement: Sch. 10 para. 8 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-eec4a3f9811b66e980bb927f4bb37923]: Commencement: Sch. 10 para. 9 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-eec4a3f9811b66e980bb927f4bb37923]: Commencement: Sch. 10 para. 9 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-7a6029078d94b256c41c5fe12bff766e]: Commencement: Sch. 10 para. 10 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-7a6029078d94b256c41c5fe12bff766e]: Commencement: Sch. 10 para. 10 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-246006d8dcc9296b871bdda514bbe1b8]: Commencement: Sch. 10 para. 11 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-246006d8dcc9296b871bdda514bbe1b8]: Commencement: Sch. 10 para. 11 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-9d3093845d8c876812b109ef234e9650]: Commencement: Sch. 10 para. 12 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-9d3093845d8c876812b109ef234e9650]: Commencement: Sch. 10 para. 12 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-e9f0a8fe189aca87a5e90c50b72adb5e]: Commencement: Sch. 10 para. 13 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-e9f0a8fe189aca87a5e90c50b72adb5e]: Commencement: Sch. 10 para. 13 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-e85aa331726b23516072db0d8934036b]: Commencement: Sch. 10 para. 14 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-e85aa331726b23516072db0d8934036b]: Commencement: Sch. 10 para. 14 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-ff932e2e476946d5518cc0b3343255c4]: Commencement: Sch. 10 para. 15 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-ff932e2e476946d5518cc0b3343255c4]: Commencement: Sch. 10 para. 15 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-98082900c6bfc89adfffd80fd854d6cc]: Commencement: Sch. 10 para. 16 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-98082900c6bfc89adfffd80fd854d6cc]: Commencement: Sch. 10 para. 16 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-076a2ab2c777906744797686a058641e]: Commencement: Sch. 10 para. 17 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-076a2ab2c777906744797686a058641e]: Commencement: Sch. 10 para. 17 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-831bb52dd6d629247d880a037df124e8]: Commencement: Sch. 10 para. 18 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-831bb52dd6d629247d880a037df124e8]: Commencement: Sch. 10 para. 18 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-ca89acd859facd4cae2d2312c381c7f8]: Textual amendment: Sch. 10 para. 18(4) omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 84(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/a)
+[^c-ca89acd859facd4cae2d2312c381c7f8]: Textual amendment: Sch. 10 para. 18(4) omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 84(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/a)
 
-[^key-ca53f9d437913803bd68792d87dff151]: Commencement: Sch. 10 para. 19 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-ca53f9d437913803bd68792d87dff151]: Commencement: Sch. 10 para. 19 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-67f55725de81745b6f453271f285eaa9]: Textual amendment: Sch. 10 para. 20 omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 84(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/a)
+[^c-67f55725de81745b6f453271f285eaa9]: Textual amendment: Sch. 10 para. 20 omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 84(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/a)
 
-[^key-a175a1d9c620e14e81bd4f86fdd815f6]: Commencement: Sch. 10 para. 21 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-a175a1d9c620e14e81bd4f86fdd815f6]: Commencement: Sch. 10 para. 21 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-cfa788c5ca71f0c8971dbbd507c1541b]: Commencement: Sch. 10 para. 22 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-cfa788c5ca71f0c8971dbbd507c1541b]: Commencement: Sch. 10 para. 22 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-11c05bdc9217ce15f27c7e3cf4fa0c1b]: Textual amendment: Sch. 10 para. 23 omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 84(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/a)
+[^c-11c05bdc9217ce15f27c7e3cf4fa0c1b]: Textual amendment: Sch. 10 para. 23 omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 84(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/a)
 
-[^key-24397c32b905d4a0d7b7eb42f7ff5c67]: Commencement: Sch. 10 para. 24 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-24397c32b905d4a0d7b7eb42f7ff5c67]: Commencement: Sch. 10 para. 24 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-790a5fe42eeb890040f680a803098cdd]: Commencement: Sch. 10 para. 25 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-790a5fe42eeb890040f680a803098cdd]: Commencement: Sch. 10 para. 25 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-46478b958e66ae8f681d7caf1321030c]: Textual amendment: Sch. 10 para. 25(3) omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 84(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/a)
+[^c-46478b958e66ae8f681d7caf1321030c]: Textual amendment: Sch. 10 para. 25(3) omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 84(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/a)
 
-[^key-11609a75d4b1fc5bcc0ef91aac6fee29]: Commencement: Sch. 10 para. 26 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-11609a75d4b1fc5bcc0ef91aac6fee29]: Commencement: Sch. 10 para. 26 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-f12ef7dd6b3e316dc2489e4ecb1777d2]: Commencement: Sch. 10 para. 27 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-f12ef7dd6b3e316dc2489e4ecb1777d2]: Commencement: Sch. 10 para. 27 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-d7237f49e91b3c7e0dd68c82c6ced8db]: Commencement: Sch. 10 para. 28 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-d7237f49e91b3c7e0dd68c82c6ced8db]: Commencement: Sch. 10 para. 28 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-a72aedc9d0617c08a9e4a7b06d3d3052]: Commencement: Sch. 10 para. 29 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-a72aedc9d0617c08a9e4a7b06d3d3052]: Commencement: Sch. 10 para. 29 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-22ca9b4a636f15012a70f4420644d038]: Commencement: Sch. 10 para. 30 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-22ca9b4a636f15012a70f4420644d038]: Commencement: Sch. 10 para. 30 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-affd9c0a8565837ae56ce7f907764762]: Commencement: Sch. 10 para. 31 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-affd9c0a8565837ae56ce7f907764762]: Commencement: Sch. 10 para. 31 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-51a36e1a1eda22f72f61bbb910cc8b38]: Textual amendment: Sch. 10 para. 32 omitted (26.3.2015) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2015/11/schedule/4/paragraph/16)
+[^c-51a36e1a1eda22f72f61bbb910cc8b38]: Textual amendment: Sch. 10 para. 32 omitted (26.3.2015) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2015/11/schedule/4/paragraph/16)
 
-[^key-e93604f973e758751b14ff6e1f6c5c7a]: Commencement: Sch. 10 para. 33 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-e93604f973e758751b14ff6e1f6c5c7a]: Commencement: Sch. 10 para. 33 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-12d45d365fa48e7b991d5038c1b7c966]: Commencement: Sch. 10 para. 34 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-12d45d365fa48e7b991d5038c1b7c966]: Commencement: Sch. 10 para. 34 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-bd726d9a6b9425260d1c93dc8d61ab1f]: Commencement: Sch. 10 para. 35 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-bd726d9a6b9425260d1c93dc8d61ab1f]: Commencement: Sch. 10 para. 35 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-e38ddc384153c8a56cdd26450c42b389]: Commencement: Sch. 10 para. 36 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-e38ddc384153c8a56cdd26450c42b389]: Commencement: Sch. 10 para. 36 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-090c7bb78dbfb8f31bca73dc41d15b4a]: Commencement: Sch. 10 para. 37 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-090c7bb78dbfb8f31bca73dc41d15b4a]: Commencement: Sch. 10 para. 37 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-0f568d164051314356cce96a07c5342f]: Commencement: Sch. 10 para. 38 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-0f568d164051314356cce96a07c5342f]: Commencement: Sch. 10 para. 38 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-08faaff06b31a74e03672ec6486986e6]: Commencement: Sch. 10 para. 39 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-08faaff06b31a74e03672ec6486986e6]: Commencement: Sch. 10 para. 39 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-57bff189370ea6b20877106eac772e1e]: Commencement: Sch. 10 para. 40 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-57bff189370ea6b20877106eac772e1e]: Commencement: Sch. 10 para. 40 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-e7a5293fdff41b341a7a1ea144de7dd9]: Commencement: Sch. 10 para. 41 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-e7a5293fdff41b341a7a1ea144de7dd9]: Commencement: Sch. 10 para. 41 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-3700b91533058c6ad4fa9012011b8ce4]: Commencement: Sch. 10 para. 42 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-3700b91533058c6ad4fa9012011b8ce4]: Commencement: Sch. 10 para. 42 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-514e806c7d0ae6ba3dc1c7b357580c60]: Commencement: Sch. 10 para. 43 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-514e806c7d0ae6ba3dc1c7b357580c60]: Commencement: Sch. 10 para. 43 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-10730dacbe517b2995d4be4702d48467]: Textual amendment: Sch. 10 para. 44 omitted (retrospective to 6.4.2006) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 29 paras. 11](https://www.legislation.gov.uk/ukpga/2008/9/schedule/29/paragraph/11), [12(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/29/paragraph/12/3)
+[^c-10730dacbe517b2995d4be4702d48467]: Textual amendment: Sch. 10 para. 44 omitted (retrospective to 6.4.2006) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 29 paras. 11](https://www.legislation.gov.uk/ukpga/2008/9/schedule/29/paragraph/11), [12(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/29/paragraph/12/3)
 
-[^key-3f2251cad8edbeab31d56ac4e8c99464]: Commencement: Sch. 10 para. 45 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-3f2251cad8edbeab31d56ac4e8c99464]: Commencement: Sch. 10 para. 45 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-e94b5d326c3e8980d7aa898643a532ed]: Commencement: Sch. 10 para. 46 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-e94b5d326c3e8980d7aa898643a532ed]: Commencement: Sch. 10 para. 46 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-4a4018b8fca5261fc9d717620733ac52]: Commencement: Sch. 10 para. 47 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-4a4018b8fca5261fc9d717620733ac52]: Commencement: Sch. 10 para. 47 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-92d6c8f1ced0be1e64952c2f790a688e]: Commencement: Sch. 10 para. 48 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-92d6c8f1ced0be1e64952c2f790a688e]: Commencement: Sch. 10 para. 48 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-321f401553e74e94f3f26a5b53f53023]: Commencement: Sch. 10 para. 49 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-321f401553e74e94f3f26a5b53f53023]: Commencement: Sch. 10 para. 49 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-4e8f782b036186c3f19ff900af812712]: Commencement: Sch. 10 para. 50 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-4e8f782b036186c3f19ff900af812712]: Commencement: Sch. 10 para. 50 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-d0f1dd84db16b283284de9afa2993b1a]: Commencement: Sch. 10 para. 51 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-d0f1dd84db16b283284de9afa2993b1a]: Commencement: Sch. 10 para. 51 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-55e4097224e49e6ca7766ea1c4d7dce9]: Commencement: Sch. 10 para. 52 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-55e4097224e49e6ca7766ea1c4d7dce9]: Commencement: Sch. 10 para. 52 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-92afd0d0f224391f8fcd69084e0bded1]: Commencement: Sch. 10 para. 53 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-92afd0d0f224391f8fcd69084e0bded1]: Commencement: Sch. 10 para. 53 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-54d1a2acdfa9f73d9bc91e870b6803e9]: Commencement: Sch. 10 para. 54 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-54d1a2acdfa9f73d9bc91e870b6803e9]: Commencement: Sch. 10 para. 54 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-7f57b7a52b7f943056bbeb9acbbb2886]: Commencement: Sch. 10 para. 55 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-7f57b7a52b7f943056bbeb9acbbb2886]: Commencement: Sch. 10 para. 55 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-d971f2b4740c76418378ada1bd6c9cf7]: Commencement: Sch. 10 para. 56 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-d971f2b4740c76418378ada1bd6c9cf7]: Commencement: Sch. 10 para. 56 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-2cc4ef5bd3aa327921cda488ab5f2d41]: Commencement: Sch. 10 para. 57 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-2cc4ef5bd3aa327921cda488ab5f2d41]: Commencement: Sch. 10 para. 57 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-f498d7b1c8c3157b7d00b08cc2fdd840]: Commencement: Sch. 10 para. 58 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-f498d7b1c8c3157b7d00b08cc2fdd840]: Commencement: Sch. 10 para. 58 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-e6bdad652560eae21cb44152922d71bb]: Commencement: Sch. 10 para. 59 in force at 6.4.2006, see Sch. 10 para. 64(1)
+[^c-e6bdad652560eae21cb44152922d71bb]: Commencement: Sch. 10 para. 59 in force at 6.4.2006, see Sch. 10 para. 64(1)
 
-[^key-dc2166f8326e546b980c701bf5b484f9]: Commencement: Sch. 10 para. 60 in force at 6.4.2007, see Sch. 10 para. 64(2)
+[^c-dc2166f8326e546b980c701bf5b484f9]: Commencement: Sch. 10 para. 60 in force at 6.4.2007, see Sch. 10 para. 64(2)
 
-[^key-593f5ebc59d00a2eca811fb8578aa236]: Commencement: Sch. 10 para. 61 in force at 6.4.2007, see Sch. 10 para. 64(2)
+[^c-593f5ebc59d00a2eca811fb8578aa236]: Commencement: Sch. 10 para. 61 in force at 6.4.2007, see Sch. 10 para. 64(2)
 
-[^key-9f11ef9851fc4a655fd96bdd5d29c23a]: Commencement: Sch. 10 para. 62 in force at 6.4.2007, see Sch. 10 para. 64(2)
+[^c-9f11ef9851fc4a655fd96bdd5d29c23a]: Commencement: Sch. 10 para. 62 in force at 6.4.2007, see Sch. 10 para. 64(2)

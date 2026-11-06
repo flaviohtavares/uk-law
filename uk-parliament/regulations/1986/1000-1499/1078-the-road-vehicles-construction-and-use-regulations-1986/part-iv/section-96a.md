@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 96A. Use of aerodynamic devices and equipment[^key-9bf5e1a831c94bd5e56623e9035f9d8f]
+## 96A. Use of aerodynamic devices and equipment[^c-9bf5e1a831c94bd5e56623e9035f9d8f]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ No person shall use, or cause or permit to be used, on any vehicle or vehicle co
 
 ## Annotations
 
-[^key-9bf5e1a831c94bd5e56623e9035f9d8f]: Textual amendment: [Pt. 4(DA)](https://www.legislation.gov.uk/uksi/1986/1078/part/4/DA) inserted (14.2.2022) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2022 (S.I. 2022/59)](https://www.legislation.gov.uk/uksi/2022/59), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/59/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2022/59/regulation/5)
+[^c-9bf5e1a831c94bd5e56623e9035f9d8f]: Textual amendment: [Pt. 4(DA)](https://www.legislation.gov.uk/uksi/1986/1078/part/4/DA) inserted (14.2.2022) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2022 (S.I. 2022/59)](https://www.legislation.gov.uk/uksi/2022/59), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/59/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2022/59/regulation/5)

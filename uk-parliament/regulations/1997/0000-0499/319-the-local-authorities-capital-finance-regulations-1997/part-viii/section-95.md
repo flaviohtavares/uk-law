@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 95. Improvement of land out of moneys provided by the Urban Regeneration Agency or the Welsh Development Agency[^key-589d1025fb6f28d0b0e6c0f0b9bc8e15]
+## 95. Improvement of land out of moneys provided by the Urban Regeneration Agency or the Welsh Development Agency[^c-589d1025fb6f28d0b0e6c0f0b9bc8e15]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-589d1025fb6f28d0b0e6c0f0b9bc8e15]: Commencement: Reg. 95 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-589d1025fb6f28d0b0e6c0f0b9bc8e15]: Commencement: Reg. 95 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00084]: Footnote: [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28).
 

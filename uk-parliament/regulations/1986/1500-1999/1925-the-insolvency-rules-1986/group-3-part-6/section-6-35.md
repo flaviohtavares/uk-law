@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.35. Amendment of title of proceedings[^key-074b92190052c5a77567c398f24b4841]
+## 6.35. Amendment of title of proceedings[^c-074b92190052c5a77567c398f24b4841]
 
 *Extent: E+W*
 
 (1) At any time after the making of a bankruptcy order, the official receiver or the trustee may apply to the court for an order amending the full title of the proceedings.
 
-(2) Where such an order is made, the official receiver shall forthwith send notice of it to the Chief Land Registrar, for corresponding amendment of the register; and, if the court so directs he shall also cause notice of the order to be gazetted, and to be advertised in such [^key-4bd758b871e5ba445953131c4aa10c47]... newspaper as the official receiver thinks fit.
+(2) Where such an order is made, the official receiver shall forthwith send notice of it to the Chief Land Registrar, for corresponding amendment of the register; and, if the court so directs he shall also cause notice of the order to be gazetted, and to be advertised in such [^c-4bd758b871e5ba445953131c4aa10c47]... newspaper as the official receiver thinks fit.
 
 ## Annotations
 
-[^key-074b92190052c5a77567c398f24b4841]: Commencement: Rule 6.35 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-074b92190052c5a77567c398f24b4841]: Commencement: Rule 6.35 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-4bd758b871e5ba445953131c4aa10c47]: Textual amendment: Word in rule 6.35(2) omitted (2.4.1991) by virtue of [The Insolvency (Amendment) Rules 1991 (S.I. 1991/495)](https://www.legislation.gov.uk/uksi/1991/495), [rule 1](https://www.legislation.gov.uk/uksi/1991/495/rule/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/1991/495/schedule/paragraph/2)
+[^c-4bd758b871e5ba445953131c4aa10c47]: Textual amendment: Word in rule 6.35(2) omitted (2.4.1991) by virtue of [The Insolvency (Amendment) Rules 1991 (S.I. 1991/495)](https://www.legislation.gov.uk/uksi/1991/495), [rule 1](https://www.legislation.gov.uk/uksi/1991/495/rule/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/1991/495/schedule/paragraph/2)

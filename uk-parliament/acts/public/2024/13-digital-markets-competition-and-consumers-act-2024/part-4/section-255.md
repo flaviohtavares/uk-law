@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 255. Excluded contracts[^key-20baf21733ce6f228a224babd8f61c63]
+## 255. Excluded contracts[^c-20baf21733ce6f228a224babd8f61c63]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20baf21733ce6f228a224babd8f61c63]: Commencement: S. 255 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-20baf21733ce6f228a224babd8f61c63]: Commencement: S. 255 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)

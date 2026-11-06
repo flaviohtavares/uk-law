@@ -31,7 +31,7 @@ summary: ''
 
 Agriculture
 
-The Beef and Veal Labelling Regulations (Northern Ireland) 2009 (revoked)[^key-767eec4b719b4a68d8f54c05ec779023]
+The Beef and Veal Labelling Regulations (Northern Ireland) 2009 (revoked)[^c-767eec4b719b4a68d8f54c05ec779023]
 
 Made
 
@@ -41,64 +41,64 @@ Coming into operation
 
 2nd February 2009
 
-[^key-767eec4b719b4a68d8f54c05ec779023]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-767eec4b719b4a68d8f54c05ec779023]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-767eec4b719b4a68d8f54c05ec779023]
+## 1. Citation and commencement[^c-767eec4b719b4a68d8f54c05ec779023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-767eec4b719b4a68d8f54c05ec779023]
+## 2. Interpretation[^c-767eec4b719b4a68d8f54c05ec779023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The competent authority[^key-767eec4b719b4a68d8f54c05ec779023]
+## 3. The competent authority[^c-767eec4b719b4a68d8f54c05ec779023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. The enforcement authorities[^key-767eec4b719b4a68d8f54c05ec779023]
+## 4. The enforcement authorities[^c-767eec4b719b4a68d8f54c05ec779023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Offences[^key-767eec4b719b4a68d8f54c05ec779023]
+## 5. Offences[^c-767eec4b719b4a68d8f54c05ec779023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Enforcement Notices[^key-767eec4b719b4a68d8f54c05ec779023]
+## 6. Enforcement Notices[^c-767eec4b719b4a68d8f54c05ec779023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Powers of entry[^key-767eec4b719b4a68d8f54c05ec779023]
+## 7. Powers of entry[^c-767eec4b719b4a68d8f54c05ec779023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Powers of authorised officers[^key-767eec4b719b4a68d8f54c05ec779023]
+## 8. Powers of authorised officers[^c-767eec4b719b4a68d8f54c05ec779023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Obstruction[^key-767eec4b719b4a68d8f54c05ec779023]
+## 9. Obstruction[^c-767eec4b719b4a68d8f54c05ec779023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Penalties[^key-767eec4b719b4a68d8f54c05ec779023]
+## 10. Penalties[^c-767eec4b719b4a68d8f54c05ec779023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Appeals against notices[^key-767eec4b719b4a68d8f54c05ec779023]
+## 11. Appeals against notices[^c-767eec4b719b4a68d8f54c05ec779023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Revocations[^key-767eec4b719b4a68d8f54c05ec779023]
+## 12. Revocations[^c-767eec4b719b4a68d8f54c05ec779023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-767eec4b719b4a68d8f54c05ec779023]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-767eec4b719b4a68d8f54c05ec779023]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-767eec4b719b4a68d8f54c05ec779023]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-767eec4b719b4a68d8f54c05ec779023]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-767eec4b719b4a68d8f54c05ec779023]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/2) revoked (17.5.2010) by [The Beef and Veal Labelling Regulations (Northern Ireland) 2010 (S.R. 2010/155)](https://www.legislation.gov.uk/nisr/2010/155), [regs. 1](https://www.legislation.gov.uk/nisr/2010/155/regulation/1), [11](https://www.legislation.gov.uk/nisr/2010/155/regulation/11)
+[^c-767eec4b719b4a68d8f54c05ec779023]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/2) revoked (17.5.2010) by [The Beef and Veal Labelling Regulations (Northern Ireland) 2010 (S.R. 2010/155)](https://www.legislation.gov.uk/nisr/2010/155), [regs. 1](https://www.legislation.gov.uk/nisr/2010/155/regulation/1), [11](https://www.legislation.gov.uk/nisr/2010/155/regulation/11)

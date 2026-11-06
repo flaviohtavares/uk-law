@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 137. Death out of service grant[^key-a10fca5c22a54612977cefc099be4244]
+## 137. Death out of service grant[^c-a10fca5c22a54612977cefc099be4244]
 
 *Extent: S*
 
-(1) A death grant may be payable[^key-c78878d8daad8e7dcda9702f888dfe5d] under this regulation if a member (D) dies out of service (“death out of service grant”).
+(1) A death grant may be payable[^c-c78878d8daad8e7dcda9702f888dfe5d] under this regulation if a member (D) dies out of service (“death out of service grant”).
 
 (2) A death out of service grant is not payable if a retirement pension other than a phased retirement pension becomes payable before D’s death.
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a10fca5c22a54612977cefc099be4244]: Commencement: [Reg. 137](https://www.legislation.gov.uk/ssi/2014/292/regulation/137) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-a10fca5c22a54612977cefc099be4244]: Commencement: [Reg. 137](https://www.legislation.gov.uk/ssi/2014/292/regulation/137) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-c78878d8daad8e7dcda9702f888dfe5d]: Textual amendment: Words in [reg. 137(1)](https://www.legislation.gov.uk/ssi/2014/292/regulation/137/1) substituted (with effect from 1.4.2015) by [The Teachers’ Pension Scheme (Scotland) (No. 2) Amendment Regulations 2017 (S.S.I. 2017/454)](https://www.legislation.gov.uk/ssi/2017/454), [regs. 1](https://www.legislation.gov.uk/ssi/2017/454/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/454/regulation/2/2)
+[^c-c78878d8daad8e7dcda9702f888dfe5d]: Textual amendment: Words in [reg. 137(1)](https://www.legislation.gov.uk/ssi/2014/292/regulation/137/1) substituted (with effect from 1.4.2015) by [The Teachers’ Pension Scheme (Scotland) (No. 2) Amendment Regulations 2017 (S.S.I. 2017/454)](https://www.legislation.gov.uk/ssi/2017/454), [regs. 1](https://www.legislation.gov.uk/ssi/2017/454/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/454/regulation/2/2)

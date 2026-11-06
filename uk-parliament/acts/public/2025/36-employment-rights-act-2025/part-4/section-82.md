@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Removal of investigatory powers[^key-cf72127e6dce1f7c76cfc5a001377b35]
+## 82. Removal of investigatory powers[^c-cf72127e6dce1f7c76cfc5a001377b35]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf72127e6dce1f7c76cfc5a001377b35]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2025/36/section/82) in force at 18.2.2026, see [s. 159(2)(n)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/n) (with savings and transitional provisions in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/15))
+[^c-cf72127e6dce1f7c76cfc5a001377b35]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2025/36/section/82) in force at 18.2.2026, see [s. 159(2)(n)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/n) (with savings and transitional provisions in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/15))

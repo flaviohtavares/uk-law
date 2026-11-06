@@ -47,7 +47,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 ## Part I — General
 
-### 1. Citation, commencement and interpretation[^key-fe38105d4871185df0ec036f2362e595]
+### 1. Citation, commencement and interpretation[^c-fe38105d4871185df0ec036f2362e595]
 
 (1) These Regulations may be cited as the Social Security (Work-focused Interviews) Regulations (Northern Ireland) 2001 and shall come into operation on 14th May 2001.
 
@@ -83,7 +83,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (7) The Interpretation Act (Northern Ireland) 1954[^f00011] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-### 2. Work-focused interview[^key-2c7dbc278c64da7ce9f2b85d82fe5f21]
+### 2. Work-focused interview[^c-2c7dbc278c64da7ce9f2b85d82fe5f21]
 
 In these Regulations, a “work-focused interview” means an interview with a relevant person conducted for any or all of the following purposes—
 
@@ -95,7 +95,7 @@ In these Regulations, a “work-focused interview” means an interview with a r
 
 ## Part II — Work-focused Interviews
 
-### 3. Persons required to take part in an interview[^key-d20d17eb250c7136ddfa73493b9027ce]
+### 3. Persons required to take part in an interview[^c-d20d17eb250c7136ddfa73493b9027ce]
 
 (1) This regulation is subject to the provisions of regulations 4, 7, 8 and 9.
 
@@ -115,7 +115,7 @@ is required to take part in an interview.
 
 (6) Where the claimant has not attained the age of 18, the designated authority shall arrange for the claimant to have an interview with an officer of the Careers Service.
 
-### 4. Exemptions[^key-6cd05d4eed0c9ff5d52f8fc4e19cdf0a]
+### 4. Exemptions[^c-6cd05d4eed0c9ff5d52f8fc4e19cdf0a]
 
 (1) The following claims for a specified benefit do not give rise to an interview under regulation 3—
 
@@ -134,7 +134,7 @@ is required to take part in an interview.
 - (a) claims made on the expiry of a benefit period;
 - (b) claims made in consequence of the claimant moving from one dwelling to another within the postcode districts specified in Schedule 1.
 
-### 5. Continuing entitlement dependent upon an interview[^key-93e6c7a2ba997976b7e2e229ed83020c]
+### 5. Continuing entitlement dependent upon an interview[^c-93e6c7a2ba997976b7e2e229ed83020c]
 
 (1) A relevant person who has not attained the age of 60 and who is entitled to a specified benefit shall be required to take part in an interview as a condition of his continuing to be entitled to the full amount of benefit which is payable apart from these Regulations where paragraph (2) applies, and—
 
@@ -161,7 +161,7 @@ is required to take part in an interview.
 - “lone parent” means a person who has no partner and who is responsible for, and a member of the same household as, a child;
 - “personal capability assessment” means an assessment in accordance with the Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 2000[^f00015].
 
-### 6. Waiver[^key-120efd12cb12674661373916fece8f2f]
+### 6. Waiver[^c-120efd12cb12674661373916fece8f2f]
 
 (1) A requirement to take part in an interview imposed by these Regulations shall not apply where an officer of the Department or of the Department of Higher and Further Education, Training and Employment determines in the case of any particular person making a claim that the interview—
 
@@ -170,7 +170,7 @@ is required to take part in an interview.
 
 (2) A person in relation to whom the requirement to take part in an interview has been waived shall be treated for the purposes of any claim for or entitlement to a specified benefit as having complied with that requirement.
 
-### 7. Deferment of interview[^key-d46f5596cb654be0550b2a8d07596a39]
+### 7. Deferment of interview[^c-d46f5596cb654be0550b2a8d07596a39]
 
 (1) Except in a case to which paragraph (2) refers, an officer of the Department or of the Department of Higher and Further Education, Training and Employment shall arrange for an interview to take place as soon as reasonably practicable after the claim is made or the event which under regulation 5(3) or (4) gives rise to the interview occurs.
 
@@ -188,20 +188,20 @@ is required to take part in an interview.
 
 he shall be treated for the purposes of any claim for or entitlement to a specified benefit as having complied with any requirement to take part in an interview.
 
-### 8. Claims for two or more specified benefits[^key-6ba4542be183f1c34304167db6b28465]
+### 8. Claims for two or more specified benefits[^c-6ba4542be183f1c34304167db6b28465]
 
 A person who would otherwise be required under these Regulations to take part in interviews relating to more than one specified benefit—
 
 - (a) is only required to take part in one interview, and
 - (b) that interview counts for the purposes of all those benefits.
 
-### 9. The interview[^key-672a467bbe1cf4a8b4e589fb0945eb32]
+### 9. The interview[^c-672a467bbe1cf4a8b4e589fb0945eb32]
 
 (1) An officer of the Department or of the Department of Higher and Further Education, Training and Employment shall inform the claimant of the place and time of the interview.
 
 (2) The officer may determine that the interview is to take place in the home of the claimant or elsewhere where it would in his opinion be unreasonable to expect the claimant to attend the office of a designated authority because his personal circumstances are such that attending the office would cause him undue inconvenience or endanger his health.
 
-### 10. Taking part in an interview[^key-8b50d2ab24d1d9d5797fb80936af3547]
+### 10. Taking part in an interview[^c-8b50d2ab24d1d9d5797fb80936af3547]
 
 (1) The personal adviser shall determine whether a person has taken part in an interview.
 
@@ -219,7 +219,7 @@ A person who would otherwise be required under these Regulations to take part in
 
 (3) A person who has not attained the age of 18 shall be regarded as having taken part in an interview if, and only if, he attends an interview with the Careers Service at the time and place notified to him by an officer of the Department or of the Department of Higher and Further Education, Training and Employment.
 
-### 11. Failure to take part in an interview[^key-8d1f1de46508ec86e81f9d3d75b83d48]
+### 11. Failure to take part in an interview[^c-8d1f1de46508ec86e81f9d3d75b83d48]
 
 (1) A person who—
 
@@ -267,14 +267,14 @@ shall, subject to paragraph (12), suffer the consequences set out below.
 
 (13) In paragraphs (2) and (12), the “decision” means the decision that the person failed without good cause to take part in an interview.
 
-### 12. Circumstances where regulation 11 does not apply[^key-1cf2b2b7a7828e882461c8349f206527]
+### 12. Circumstances where regulation 11 does not apply[^c-1cf2b2b7a7828e882461c8349f206527]
 
 The consequences of a failure to take part in an interview set out in regulation 11 shall not apply where the person—
 
 - (a) ceases to reside in a postcode district specified in Schedule 1, or
 - (b) attains the age of 60.
 
-### 13. Good cause[^key-766aec540c7f1e77e97bbcf5c2e9ccf4]
+### 13. Good cause[^c-766aec540c7f1e77e97bbcf5c2e9ccf4]
 
 Matters to be taken into account in determining whether a person has shown good cause for his failure to take part in an interview include—
 
@@ -288,7 +288,7 @@ Matters to be taken into account in determining whether a person has shown good 
 - (h) that he was attending the funeral of a close friend or relative on the day fixed for the interview;
   - (i) that a disability from which the person suffers made it impracticable for him to attend at the time fixed for the interview.
 
-### 14. Appeals[^key-8f5d6ecdf4b58e914ad47447b03a015f]
+### 14. Appeals[^c-8f5d6ecdf4b58e914ad47447b03a015f]
 
 (1) This regulation applies to any relevant decision of a designated authority or any decision under Article 11 of the 1998 Order (decisions superseding earlier decisions) superseding such a decision.
 
@@ -299,7 +299,7 @@ Matters to be taken into account in determining whether a person has shown good 
 
 (3) In the case of a decision to which this regulation applies, the person in respect of whom the decision was made shall have a right of appeal under Article 13 of the 1998 Order (appeal to appeal tribunal) to an appeal tribunal.
 
-### 15. Consequential amendments[^key-66225ea49bb96c3284ba9a9554d8a873]
+### 15. Consequential amendments[^c-66225ea49bb96c3284ba9a9554d8a873]
 
 (1) Schedule 2, which makes changes to the Housing Benefit Regulations which are consequential upon the making of decisions under these Regulations on the work-focused interview, shall have effect.
 
@@ -339,7 +339,7 @@ Senior Officer of the
 
 Department of Finance and Personnel
 
-## SCHEDULE 1 — Postcode Districts[^key-515d457ddb52984251a500db625d4643]
+## SCHEDULE 1 — Postcode Districts[^c-515d457ddb52984251a500db625d4643]
 
 Regulation 1(3)
 
@@ -361,16 +361,16 @@ Regulation 1(3)
 
 Regulation 15(1)
 
-**1.**[^key-fd3b670b7b1a494eca55213a3a9cd7b6] The Housing Benefit Regulations shall be amended in accordance with paragraphs 2 to 6.
+**1.**[^c-fd3b670b7b1a494eca55213a3a9cd7b6] The Housing Benefit Regulations shall be amended in accordance with paragraphs 2 to 6.
 
-**2.**[^key-53b0374b5e8cfc4b10e48acddeedd9ee] In regulation 2(1) (interpretation), after the definition of “voluntary organisation”[^f00017], there shall be inserted the following definitions—
+**2.**[^c-53b0374b5e8cfc4b10e48acddeedd9ee] In regulation 2(1) (interpretation), after the definition of “voluntary organisation”[^f00017], there shall be inserted the following definitions—
 
 > - “work-focused interview” has the meaning it has in regulation 2 of the Work-focused Interviews Regulations;
 > - “the Work-focused Interviews Regulations” means the Social Security (Work-focused Interviews) Regulations (Northern Ireland) 2001;
 
 .
 
-**3.**[^key-6772e31194cefd0f475f26fca59899ca] (1) In regulation 68(1)[^f00018] (date on which change of circumstances is to take effect) for “applies” there shall be substituted “or regulation 68A applies”.
+**3.**[^c-6772e31194cefd0f475f26fca59899ca] (1) In regulation 68(1)[^f00018] (date on which change of circumstances is to take effect) for “applies” there shall be substituted “or regulation 68A applies”.
 
 (2) After regulation 68 there shall be inserted the following regulation—
 
@@ -394,7 +394,7 @@ Regulation 15(1)
 
 .
 
-**4.**[^key-4f8f19b7019a059cedaa7a89151e4994] In regulation 79 (review of determinations)—
+**4.**[^c-4f8f19b7019a059cedaa7a89151e4994] In regulation 79 (review of determinations)—
 
 - (a) in paragraph (1), for “and (1B)”[^f00019], there shall be substituted “, (1B) and (1C)”;
 - (b) after paragraph (1B)[^f00020], there shall be inserted the following paragraph—
@@ -403,7 +403,7 @@ Regulation 15(1)
 
   .
 
-**5.**[^key-d8764cdf8f2f3068e41bf91a82f92dc4] In regulation 81 (further review of determinations)—
+**5.**[^c-d8764cdf8f2f3068e41bf91a82f92dc4] In regulation 81 (further review of determinations)—
 
 - (a) in paragraph (3), at the beginning, there shall be inserted “Subject to paragraph (5),”;
 - (b) after paragraph (4), there shall be added the following paragraph—
@@ -412,7 +412,7 @@ Regulation 15(1)
 
   .
 
-**6.**[^key-cd6f8d2cf418d19e7277190cea2049fd] In Schedule 6 (matters to be included in the Notice of Determination), the following Part shall be added at the end—
+**6.**[^c-cd6f8d2cf418d19e7277190cea2049fd] In Schedule 6 (matters to be included in the Notice of Determination), the following Part shall be added at the end—
 
 > **Part VIII**
 >
@@ -444,17 +444,17 @@ Regulation 15(1)
 
 Regulation 15(2)
 
-**1.**[^key-f8d0adfbe7bb771739309f4e6cdfbf6d] The Claims and Payments Regulations shall be amended in accordance with paragraphs 2 to 4.
+**1.**[^c-f8d0adfbe7bb771739309f4e6cdfbf6d] The Claims and Payments Regulations shall be amended in accordance with paragraphs 2 to 4.
 
-**2.**[^key-c1ddbeafdbb05c071678e720c7e668a3] In regulation 4 (making a claim for benefit) after paragraph (1C)[^f00021] there shall be inserted the following paragraph—
+**2.**[^c-c1ddbeafdbb05c071678e720c7e668a3] In regulation 4 (making a claim for benefit) after paragraph (1C)[^f00021] there shall be inserted the following paragraph—
 
 > (1D) In calculating any period of one month for the purposes of paragraph (7) and regulation 6(1A)(*b*)[^f00022], there shall be disregarded any period commencing on, and including, a day on which a person is first notified of a decision that he failed to take part in a work-focused interview and ending on a day on which he was notified that that decision has been revised so that the decision as revised is that he did take part.
 
 .
 
-**3.**[^key-fa93cd501a759e0a3279c99a8d294f4f] In regulation 6(1)[^f00023] (date of claim) after “this regulation” there shall be inserted “or regulation 6A”.
+**3.**[^c-fa93cd501a759e0a3279c99a8d294f4f] In regulation 6(1)[^f00023] (date of claim) after “this regulation” there shall be inserted “or regulation 6A”.
 
-**4.**[^key-eefc6d7c604be3ce081ab63980a2d56a] After regulation 6, there shall be inserted the following regulation—
+**4.**[^c-eefc6d7c604be3ce081ab63980a2d56a] After regulation 6, there shall be inserted the following regulation—
 
 > **6A. Claims by persons subject to work-focused interviews**
 >
@@ -486,9 +486,9 @@ Regulation 15(2)
 
 Regulation 15(3)
 
-**1.**[^key-59a2824eb651249cf04780a89a7172d9] The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00025] shall be amended in accordance with paragraphs 2 to 7.
+**1.**[^c-59a2824eb651249cf04780a89a7172d9] The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00025] shall be amended in accordance with paragraphs 2 to 7.
 
-**2.**[^key-df654629be35ca6acfbcb4cc99173901] In regulation 1(2) (interpretation)—
+**2.**[^c-df654629be35ca6acfbcb4cc99173901] In regulation 1(2) (interpretation)—
 
 - (a) after the definition of “the date of notification” there shall be inserted the following definition—
 
@@ -516,7 +516,7 @@ Regulation 15(3)
 
   .
 
-**3.**[^key-f1886327df488bfdb0ce89db0160733b] In regulation 3 (revision of decisions)—
+**3.**[^c-f1886327df488bfdb0ce89db0160733b] In regulation 3 (revision of decisions)—
 
 - (a) after paragraph (6) there shall be inserted the following paragraph—
 
@@ -535,7 +535,7 @@ Regulation 15(3)
 
   .
 
-**4.**[^key-e3c8262c4d46a995028b8e74cbcae6bb] In regulation 6(2) (supersession of decisions), after sub-paragraph (*g*[^f00031]) there shall be added—
+**4.**[^c-e3c8262c4d46a995028b8e74cbcae6bb] In regulation 6(2) (supersession of decisions), after sub-paragraph (*g*[^f00031]) there shall be added—
 
 > or
 >
@@ -545,7 +545,7 @@ Regulation 15(3)
 
 .
 
-**5.**[^key-1de73a8d0e496843078340d0d1776169] In regulation 7 (date from which a decision superseded under Article 11 takes effect), after paragraph (24) there shall be added the following paragraphs—
+**5.**[^c-1de73a8d0e496843078340d0d1776169] In regulation 7 (date from which a decision superseded under Article 11 takes effect), after paragraph (24) there shall be added the following paragraphs—
 
 > (25) In a case where a decision (“the first decision”) has been made that a person failed without good cause to take part in a work-focused interview, the decision under Article 11 shall take effect as from the first day of the benefit week to commence for that person following the date of the first decision.
 >
@@ -553,7 +553,7 @@ Regulation 15(3)
 
 .
 
-**6.**[^key-062e7ac9eafd405e06add60893de54ce] In regulation 33(1)(*b*)[^f00032] (making of appeals and applications) after head (ii) there shall be inserted the following head—
+**6.**[^c-062e7ac9eafd405e06add60893de54ce] In regulation 33(1)(*b*)[^f00032] (making of appeals and applications) after head (ii) there shall be inserted the following head—
 
 > - (iia) in a case where the decision appealed against was a decision arising from a claim made at an office of a relevant authority displaying the
 >
@@ -563,7 +563,7 @@ Regulation 15(3)
 
 .
 
-**7.**[^key-22d037a2d9fd9c074474d473cd09cfc8] In Schedule 1(decisions against which no appeal lies), after paragraph 23 there shall be added the following paragraph—
+**7.**[^c-22d037a2d9fd9c074474d473cd09cfc8] In Schedule 1(decisions against which no appeal lies), after paragraph 23 there shall be added the following paragraph—
 
 > **24. Work-focused Interviews**
 >
@@ -571,7 +571,7 @@ Regulation 15(3)
 
 .
 
-**8.**[^key-c42a71d69a70b1eb9674edaeb7ef93b5] In regulation 1(2) of the Child Support (Maintenance Assessment Procedure) Regulations (Northern Ireland) 1992[^f00033] (interpretation)—
+**8.**[^c-c42a71d69a70b1eb9674edaeb7ef93b5] In regulation 1(2) of the Child Support (Maintenance Assessment Procedure) Regulations (Northern Ireland) 1992[^f00033] (interpretation)—
 
 - (a) after the definition of “day to day care” there shall be inserted the following definition—
 
@@ -588,7 +588,7 @@ Regulation 15(3)
 
   .
 
-**9.**[^key-f587e08b9bc8d3a131553e0db7fbc961] In regulation 1(2) of the Child Support Departure Direction and Consequential Amendments Regulations (Northern Ireland) 1996[^f00035] (interpretation)—
+**9.**[^c-f587e08b9bc8d3a131553e0db7fbc961] In regulation 1(2) of the Child Support Departure Direction and Consequential Amendments Regulations (Northern Ireland) 1996[^f00035] (interpretation)—
 
 - (a) after the definition of “departure direction application form” there shall be inserted the following definition—
 
@@ -637,7 +637,7 @@ These Regulations do not impose a charge on business.
 
 [^f00006]: Footnote: *See* section 150(1)(*b*) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-fe38105d4871185df0ec036f2362e595]: Commencement: Reg. 1 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-fe38105d4871185df0ec036f2362e595]: Commencement: Reg. 1 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
 [^f00007]: Footnote: S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 
@@ -649,11 +649,11 @@ These Regulations do not impose a charge on business.
 
 [^f00011]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-2c7dbc278c64da7ce9f2b85d82fe5f21]: Commencement: Reg. 2 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-2c7dbc278c64da7ce9f2b85d82fe5f21]: Commencement: Reg. 2 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
-[^key-d20d17eb250c7136ddfa73493b9027ce]: Commencement: Reg. 3 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-d20d17eb250c7136ddfa73493b9027ce]: Commencement: Reg. 3 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
-[^key-6cd05d4eed0c9ff5d52f8fc4e19cdf0a]: Commencement: Reg. 4 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-6cd05d4eed0c9ff5d52f8fc4e19cdf0a]: Commencement: Reg. 4 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
 [^f00012]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198)
 
@@ -661,75 +661,75 @@ These Regulations do not impose a charge on business.
 
 [^f00014]: Footnote: S.I. [1995/2705(N.I.15)](https://www.legislation.gov.uk/nisi/1995/2705); Article 3(2B) was inserted by paragraph 3(3) of Schedule 7 to the Welfare Reform and Pensions (Northern Ireland) Order 1999
 
-[^key-93e6c7a2ba997976b7e2e229ed83020c]: Commencement: Reg. 5 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-93e6c7a2ba997976b7e2e229ed83020c]: Commencement: Reg. 5 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
 [^f00015]: Footnote: [S.R. 2000 No. 4](https://www.legislation.gov.uk/nisr/2000/4)
 
-[^key-120efd12cb12674661373916fece8f2f]: Commencement: Reg. 6 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-120efd12cb12674661373916fece8f2f]: Commencement: Reg. 6 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
-[^key-d46f5596cb654be0550b2a8d07596a39]: Commencement: Reg. 7 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-d46f5596cb654be0550b2a8d07596a39]: Commencement: Reg. 7 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
-[^key-6ba4542be183f1c34304167db6b28465]: Commencement: Reg. 8 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-6ba4542be183f1c34304167db6b28465]: Commencement: Reg. 8 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
-[^key-672a467bbe1cf4a8b4e589fb0945eb32]: Commencement: Reg. 9 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-672a467bbe1cf4a8b4e589fb0945eb32]: Commencement: Reg. 9 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
-[^key-8b50d2ab24d1d9d5797fb80936af3547]: Commencement: Reg. 10 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-8b50d2ab24d1d9d5797fb80936af3547]: Commencement: Reg. 10 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
-[^key-8d1f1de46508ec86e81f9d3d75b83d48]: Commencement: Reg. 11 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-8d1f1de46508ec86e81f9d3d75b83d48]: Commencement: Reg. 11 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
-[^key-1cf2b2b7a7828e882461c8349f206527]: Commencement: Reg. 12 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-1cf2b2b7a7828e882461c8349f206527]: Commencement: Reg. 12 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
-[^key-766aec540c7f1e77e97bbcf5c2e9ccf4]: Commencement: Reg. 13 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-766aec540c7f1e77e97bbcf5c2e9ccf4]: Commencement: Reg. 13 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
-[^key-8f5d6ecdf4b58e914ad47447b03a015f]: Commencement: Reg. 14 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-8f5d6ecdf4b58e914ad47447b03a015f]: Commencement: Reg. 14 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
-[^key-66225ea49bb96c3284ba9a9554d8a873]: Commencement: Reg. 15 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-66225ea49bb96c3284ba9a9554d8a873]: Commencement: Reg. 15 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
 [^f00016]: Footnote: [S.R. 2001 No. 152](https://www.legislation.gov.uk/nisr/2001/152)
 
-[^key-515d457ddb52984251a500db625d4643]: Commencement: Sch. 1 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-515d457ddb52984251a500db625d4643]: Commencement: Sch. 1 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
-[^key-fd3b670b7b1a494eca55213a3a9cd7b6]: Commencement: Sch. 2 para. 1 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-fd3b670b7b1a494eca55213a3a9cd7b6]: Commencement: Sch. 2 para. 1 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
-[^key-53b0374b5e8cfc4b10e48acddeedd9ee]: Commencement: Sch. 2 para. 2 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-53b0374b5e8cfc4b10e48acddeedd9ee]: Commencement: Sch. 2 para. 2 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
 [^f00017]: Footnote: The definition of “voluntary organisation” was inserted by regulation 2 of [S.R. 1995 No.89](https://www.legislation.gov.uk/nisr/1995/89)
 
-[^key-6772e31194cefd0f475f26fca59899ca]: Commencement: Sch. 2 para. 3 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-6772e31194cefd0f475f26fca59899ca]: Commencement: Sch. 2 para. 3 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
 [^f00018]: Footnote: Regulation 68(1) was amended by regulation 6(*a*) of [S.R. 1999 No.416](https://www.legislation.gov.uk/nisr/1999/416)
 
-[^key-4f8f19b7019a059cedaa7a89151e4994]: Commencement: Sch. 2 para. 4 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-4f8f19b7019a059cedaa7a89151e4994]: Commencement: Sch. 2 para. 4 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
 [^f00019]: Footnote: Words inserted by regulation 2(2)(*a*) of [S.R. 1993 No. 218](https://www.legislation.gov.uk/nisr/1993/218)
 
 [^f00020]: Footnote: Paragraph (1B) was inserted by regulation 2(2)(*b*) of [S.R. 1993 No. 218](https://www.legislation.gov.uk/nisr/1993/218)
 
-[^key-d8764cdf8f2f3068e41bf91a82f92dc4]: Commencement: Sch. 2 para. 5 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-d8764cdf8f2f3068e41bf91a82f92dc4]: Commencement: Sch. 2 para. 5 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
-[^key-cd6f8d2cf418d19e7277190cea2049fd]: Commencement: Sch. 2 para. 6 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-cd6f8d2cf418d19e7277190cea2049fd]: Commencement: Sch. 2 para. 6 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
-[^key-f8d0adfbe7bb771739309f4e6cdfbf6d]: Commencement: Sch. 3 para. 1 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-f8d0adfbe7bb771739309f4e6cdfbf6d]: Commencement: Sch. 3 para. 1 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
-[^key-c1ddbeafdbb05c071678e720c7e668a3]: Commencement: Sch. 3 para. 2 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-c1ddbeafdbb05c071678e720c7e668a3]: Commencement: Sch. 3 para. 2 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
 [^f00021]: Footnote: Paragraph (1C) was inserted by regulation 3(3)(*b*) of [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156)
 
 [^f00022]: Footnote: Paragraph (1A) was inserted by regulation 3(4)(*b*) of [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156)
 
-[^key-fa93cd501a759e0a3279c99a8d294f4f]: Commencement: Sch. 3 para. 3 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-fa93cd501a759e0a3279c99a8d294f4f]: Commencement: Sch. 3 para. 3 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
 [^f00023]: Footnote: Regulation 6(1) was amended by regulation 3(4)(*a*)(i) of [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156)
 
-[^key-eefc6d7c604be3ce081ab63980a2d56a]: Commencement: Sch. 3 para. 4 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-eefc6d7c604be3ce081ab63980a2d56a]: Commencement: Sch. 3 para. 4 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
 [^f00024]: Footnote: Paragraph (1A) was inserted by regulation 3(3)(*b*) of [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156)
 
-[^key-59a2824eb651249cf04780a89a7172d9]: Commencement: Sch. 4 para. 1 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-59a2824eb651249cf04780a89a7172d9]: Commencement: Sch. 4 para. 1 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
 [^f00025]: Footnote: [S.R. 1999 No.162](https://www.legislation.gov.uk/nisr/1999/162); relevant amending rules are [S.R. 1999 Nos. 267](https://www.legislation.gov.uk/nisr/1999/267), [271 (C. 22)](https://www.legislation.gov.uk/nisr/1999/271) and [272](https://www.legislation.gov.uk/nisr/1999/272) and [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
 
-[^key-df654629be35ca6acfbcb4cc99173901]: Commencement: Sch. 4 para. 2 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-df654629be35ca6acfbcb4cc99173901]: Commencement: Sch. 4 para. 2 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
 [^f00026]: Footnote: The definition of “official error” was amended by Article 3(2)(*a*)(iii) of [S.R. 1999 No. 271 (C.22)](https://www.legislation.gov.uk/nisr/1999/271) and regulation 6(2)(*d*) of [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
 
@@ -737,31 +737,31 @@ These Regulations do not impose a charge on business.
 
 [^f00028]: Footnote: [S.R. 2001 No. 176](https://www.legislation.gov.uk/nisr/2001/176)
 
-[^key-f1886327df488bfdb0ce89db0160733b]: Commencement: Sch. 4 para. 3 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-f1886327df488bfdb0ce89db0160733b]: Commencement: Sch. 4 para. 3 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
 [^f00029]: Footnote: Section 2B was inserted by Article 54 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. [1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147))
 
 [^f00030]: Footnote: Sub-paragraph (*d*) was added by Article 3(3)(*b*) of [S.R. 1999 No. 271 (C. 22)](https://www.legislation.gov.uk/nisr/1999/271)
 
-[^key-e3c8262c4d46a995028b8e74cbcae6bb]: Commencement: Sch. 4 para. 4 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-e3c8262c4d46a995028b8e74cbcae6bb]: Commencement: Sch. 4 para. 4 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
 [^f00031]: Footnote: Sub-paragraph (*g*) was added by regulation 2(4) of [S.R. 1999 No. 267](https://www.legislation.gov.uk/nisr/1999/267)
 
-[^key-1de73a8d0e496843078340d0d1776169]: Commencement: Sch. 4 para. 5 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-1de73a8d0e496843078340d0d1776169]: Commencement: Sch. 4 para. 5 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
-[^key-062e7ac9eafd405e06add60893de54ce]: Commencement: Sch. 4 para. 6 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-062e7ac9eafd405e06add60893de54ce]: Commencement: Sch. 4 para. 6 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
 [^f00032]: Footnote: Sub-paragraph (*b*) was substituted by Article 3(4) of [S.R. 1999 No. 271 (C. 22)](https://www.legislation.gov.uk/nisr/1999/271)
 
-[^key-22d037a2d9fd9c074474d473cd09cfc8]: Commencement: Sch. 4 para. 7 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-22d037a2d9fd9c074474d473cd09cfc8]: Commencement: Sch. 4 para. 7 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
-[^key-c42a71d69a70b1eb9674edaeb7ef93b5]: Commencement: Sch. 4 para. 8 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-c42a71d69a70b1eb9674edaeb7ef93b5]: Commencement: Sch. 4 para. 8 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
 [^f00033]: Footnote: [S.R. 1992 No. 340](https://www.legislation.gov.uk/nisr/1992/340); relevant amending Regulations are [S.R. 1999 No. 167](https://www.legislation.gov.uk/nisr/1999/167) and [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
 
 [^f00034]: Footnote: Definition of “official error”was inserted by regulation 2(2)(*a*) of [S.R. 1999 No.167](https://www.legislation.gov.uk/nisr/1999/167) and amended by regulation 4(2) of [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
 
-[^key-f587e08b9bc8d3a131553e0db7fbc961]: Commencement: Sch. 4 para. 9 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
+[^c-f587e08b9bc8d3a131553e0db7fbc961]: Commencement: Sch. 4 para. 9 in operation at 14.5.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/176/regulation/1/1)
 
 [^f00035]: Footnote: [S.R. 1996 No. 541](https://www.legislation.gov.uk/nisr/1996/541); relevant amending Regulations are [S.R. 1999 No. 167](https://www.legislation.gov.uk/nisr/1999/167) and [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
 

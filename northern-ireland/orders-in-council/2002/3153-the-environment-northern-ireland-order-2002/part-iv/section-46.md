@@ -33,7 +33,7 @@ is, unless there was a reasonable excuse for carrying out the operation without 
 
 (4) For the purposes of paragraphs (1), (2) and (3), it is a reasonable excuse in any event for a person to carry out an operation (or to fail to comply with a requirement to send a notice about it) if—
 
-- (a) subject to paragraph (5), the operation in question was authorised by a planning permission granted on an application under Part 3 of the Planning Act (Northern Ireland) 2011[^key-c85f7cd5cb4f6fe0fcd81cb9289b6694] or permitted by a public body which has acted in accordance with Article 40; or
+- (a) subject to paragraph (5), the operation in question was authorised by a planning permission granted on an application under Part 3 of the Planning Act (Northern Ireland) 2011[^c-c85f7cd5cb4f6fe0fcd81cb9289b6694] or permitted by a public body which has acted in accordance with Article 40; or
 - (b) the operation in question was an emergency operation particulars of which (including details of the emergency) were notified to the Department as soon as practicable after the commencement of the operation.
 
 (5) If an operation needs both a planning permission and the permission of a public body, paragraph (4)(a) does not provide reasonable excuse unless both have been obtained.
@@ -63,7 +63,7 @@ is guilty of an offence and is liable on summary conviction to a fine not exceed
 
 (7) For the purposes of paragraph (6) or (6A)[^c22335831] it is a reasonable excuse in any event for a person to do what is mentioned in that paragraph if—
 
-- (a) subject to paragraph (8), the destruction, damage or disturbance in question was authorised by a planning permission granted on an application under Part 3 of the Planning Act (Northern Ireland) 2011[^key-54bd6f7b74ab6343f83a2006fbdea761] or permitted by a public body which has acted in accordance with Article 40; or
+- (a) subject to paragraph (8), the destruction, damage or disturbance in question was authorised by a planning permission granted on an application under Part 3 of the Planning Act (Northern Ireland) 2011[^c-54bd6f7b74ab6343f83a2006fbdea761] or permitted by a public body which has acted in accordance with Article 40; or
 - (b) the destruction, damage or disturbance in question was caused by an emergency operation particulars of which (including details of the emergency) were notified to the Department as soon as practicable after the commencement of the operation.
 
 (8) If the destruction, damage or disturbance in question needs both a planning permission and the permission of a public body, paragraph (7)(a) does not provide reasonable excuse unless both have been obtained.
@@ -85,7 +85,7 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 ## Annotations
 
-[^key-c85f7cd5cb4f6fe0fcd81cb9289b6694]: Textual amendment: Words in art. 46(4)(a) substituted (13.2.2015 for specified purposes) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 96(a)](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/96/a) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2, Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/article/2)
+[^c-c85f7cd5cb4f6fe0fcd81cb9289b6694]: Textual amendment: Words in art. 46(4)(a) substituted (13.2.2015 for specified purposes) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 96(a)](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/96/a) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2, Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/article/2)
 
 [^c22335791]: Textual amendment: Art. 46(5A)(5B) inserted (17.8.2011) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 31(2)](https://www.legislation.gov.uk/nia/2011/15/section/31/2), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
@@ -93,4 +93,4 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 [^c22335831]: Textual amendment: Words in art. 46(7) inserted (17.8.2011) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 31(4)](https://www.legislation.gov.uk/nia/2011/15/section/31/4), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
-[^key-54bd6f7b74ab6343f83a2006fbdea761]: Textual amendment: Words in art. 46(7)(a) substituted (13.2.2015 for specified purposes) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 96(b)](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/96/b) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2, Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/article/2)
+[^c-54bd6f7b74ab6343f83a2006fbdea761]: Textual amendment: Words in art. 46(7)(a) substituted (13.2.2015 for specified purposes) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 96(b)](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/96/b) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2, Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/article/2)

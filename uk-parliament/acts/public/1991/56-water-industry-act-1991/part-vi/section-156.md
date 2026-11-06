@@ -35,7 +35,7 @@ summary: ''
 - (b) a requirement that the company making the disposal has complied with such of the conditions of its appointment under Chapter I of Part II of this Act as relate to the disposal of its protected land or of any interest or right in or over that land;
 - (c) a requirement that the company, before making a disposal in a case in which the land in question is situated in a National Park, in the Broads or in an area of outstanding natural beauty or special scientific interest, should do one or both of the following, that is to say—
 
-- (i) consult with Natural England (as respects land in England) or[^c19896141] the[^key-9b4c34356e4208fe09a8605f4c3d2059] NRBW (as respects land in Wales); and
+- (i) consult with Natural England (as respects land in England) or[^c19896141] the[^c-9b4c34356e4208fe09a8605f4c3d2059] NRBW (as respects land in Wales); and
 - (ii) enter into such management agreements or such covenants under subsection (6) below as the Secretary of State may determine;
 - (d) provision requiring determinations under or for the purposes of the consent or authorisation to be made, in such cases as are mentioned in paragraph (c) above, either by Natural England[^c19896171] or the NRBW or only after consultation with Natural England or[^c19896221] the NRBW .
 
@@ -69,7 +69,7 @@ and the reference in subsection (4)(c) above to an area of special scientific in
 - “**the Broads**” has the same meaning as in the [^c13221211]Norfolk and Suffolk Broads Act 1988.
 - “[^c19896241]**management agreement**” means—
   - (a) in relation to land in England, an agreement under section 39 of the Wildlife and Countryside Act 1981 or section 7 of the Natural Environment and Rural Communities Act 2006;
-  - (b) in relation to land in Wales, an agreement under section 39 of the Wildlife and Countryside Act 1981 or section 16 of the Environment (Wales) Act 2016[^key-6dc881878339748599514e8fc5ad801d].
+  - (b) in relation to land in Wales, an agreement under section 39 of the Wildlife and Countryside Act 1981 or section 16 of the Environment (Wales) Act 2016[^c-6dc881878339748599514e8fc5ad801d].
 
 ## Annotations
 
@@ -77,7 +77,7 @@ and the reference in subsection (4)(c) above to an area of special scientific in
 
 [^c19896141]: Textual amendment: S. 156(4)(c)(i)(ii) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 105(1)](https://www.legislation.gov.uk/ukpga/2006/16/section/105/1), [107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 131(2)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/131/2); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 
-[^key-9b4c34356e4208fe09a8605f4c3d2059]: Textual amendment: Words in s. 156(4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 249](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/249) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-9b4c34356e4208fe09a8605f4c3d2059]: Textual amendment: Words in s. 156(4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 249](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/249) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c19896171]: Textual amendment: Words in s. 156(4)(d) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 105(1)](https://www.legislation.gov.uk/ukpga/2006/16/section/105/1), [107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/131/3/a); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 
@@ -97,4 +97,4 @@ and the reference in subsection (4)(c) above to an area of special scientific in
 
 [^c19896241]: Textual amendment: S. 156(8): definition inserted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 105(1)](https://www.legislation.gov.uk/ukpga/2006/16/section/105/1), [107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 131(4)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/131/4); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 
-[^key-6dc881878339748599514e8fc5ad801d]: Textual amendment: Words in s. 156(8) inserted (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a), [Sch. 2 para. 5](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/5)
+[^c-6dc881878339748599514e8fc5ad801d]: Textual amendment: Words in s. 156(8) inserted (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a), [Sch. 2 para. 5](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/5)

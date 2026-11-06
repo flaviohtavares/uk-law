@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Transitional provision[^key-555959d36369c5c11bae16380b4b53b4][^key-e56281341eec639300eb85f6ae76a28a]
+## 62. Transitional provision[^c-555959d36369c5c11bae16380b4b53b4][^c-e56281341eec639300eb85f6ae76a28a]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 8 has effect.
 
 ## Annotations
 
-[^key-555959d36369c5c11bae16380b4b53b4]: Commencement: S. 62 in force at 31.12.2007 for specified purposes by [S.I. 2007/3545](https://www.legislation.gov.uk/uksi/2007/3545), [art. 2(h)](https://www.legislation.gov.uk/uksi/2007/3545/article/2/h)
+[^c-555959d36369c5c11bae16380b4b53b4]: Commencement: S. 62 in force at 31.12.2007 for specified purposes by [S.I. 2007/3545](https://www.legislation.gov.uk/uksi/2007/3545), [art. 2(h)](https://www.legislation.gov.uk/uksi/2007/3545/article/2/h)
 
-[^key-e56281341eec639300eb85f6ae76a28a]: Commencement: S. 62 in force at 11.2.2008 for specified purposes by [S.I. 2007/3545](https://www.legislation.gov.uk/uksi/2007/3545), [art. 4(q)](https://www.legislation.gov.uk/uksi/2007/3545/article/4/q)
+[^c-e56281341eec639300eb85f6ae76a28a]: Commencement: S. 62 in force at 11.2.2008 for specified purposes by [S.I. 2007/3545](https://www.legislation.gov.uk/uksi/2007/3545), [art. 4(q)](https://www.legislation.gov.uk/uksi/2007/3545/article/4/q)

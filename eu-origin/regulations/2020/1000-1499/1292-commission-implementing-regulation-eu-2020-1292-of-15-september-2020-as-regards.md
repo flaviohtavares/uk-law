@@ -33,38 +33,38 @@ of 15 September 2020
 
 as regards measures to prevent the entry into the Union of *Agrilus planipennis* Fairmaire from Ukraine and amending Annex XI to Implementing Regulation (EU) 2019/2072 (revoked)
 
-[^key-02db316b7f4835835a1a2d449650b853]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-02db316b7f4835835a1a2d449650b853]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-02db316b7f4835835a1a2d449650b853]
+## Article 1. Subject matter[^c-02db316b7f4835835a1a2d449650b853]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Introduction into the Union of plants, wood and isolated bark originating from Ukraine[^key-02db316b7f4835835a1a2d449650b853]
+## Article 2. Introduction into the Union of plants, wood and isolated bark originating from Ukraine[^c-02db316b7f4835835a1a2d449650b853]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Amendment of Annex XI to Implementing Regulation (EU) 2019/2072[^key-02db316b7f4835835a1a2d449650b853]
+## Article 3. Amendment of Annex XI to Implementing Regulation (EU) 2019/2072[^c-02db316b7f4835835a1a2d449650b853]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Review of the provisional measures[^key-02db316b7f4835835a1a2d449650b853]
+## Article 4. Review of the provisional measures[^c-02db316b7f4835835a1a2d449650b853]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Entry into force[^key-02db316b7f4835835a1a2d449650b853]
+## Article 5. Entry into force[^c-02db316b7f4835835a1a2d449650b853]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02db316b7f4835835a1a2d449650b853]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-02db316b7f4835835a1a2d449650b853]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — List of plants, plant products and other objects originating from Ukraine, and the corresponding measures for their introduction into the Union territory, as referred to in Article 2[^key-02db316b7f4835835a1a2d449650b853]
+## ANNEX — List of plants, plant products and other objects originating from Ukraine, and the corresponding measures for their introduction into the Union territory, as referred to in Article 2[^c-02db316b7f4835835a1a2d449650b853]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-02db316b7f4835835a1a2d449650b853]: Textual amendment: Regulation revoked (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2021/426/regulation/9/a)
+[^c-02db316b7f4835835a1a2d449650b853]: Textual amendment: Regulation revoked (E.W.S.) (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2021/426/regulation/9/a)

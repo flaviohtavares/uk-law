@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Health records[^key-393bbe13c1a3121420f004d02c9bd765]
+## 145. Health records[^c-393bbe13c1a3121420f004d02c9bd765]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-393bbe13c1a3121420f004d02c9bd765]: Commencement: Reg. 145 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-393bbe13c1a3121420f004d02c9bd765]: Commencement: Reg. 145 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

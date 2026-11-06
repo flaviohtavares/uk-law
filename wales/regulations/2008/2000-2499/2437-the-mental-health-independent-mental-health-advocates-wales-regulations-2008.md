@@ -31,7 +31,7 @@ summary: ''
 
 MENTAL HEALTH, WALES
 
-The Mental Health (Independent Mental Health Advocates) (Wales) Regulations 2008 (revoked)[^key-a164f0b0226e789dd41edad2acd64832]
+The Mental Health (Independent Mental Health Advocates) (Wales) Regulations 2008 (revoked)[^c-a164f0b0226e789dd41edad2acd64832]
 
 Made
 
@@ -73,4 +73,4 @@ Coming into force
 
 ## Annotations
 
-[^key-a164f0b0226e789dd41edad2acd64832]: Textual amendment: Regulations revoked (3.1.2012 for specified purposes, 2.4.2012 in so far as not already in force) by [The Mental Health (Independent Mental Health Advocates) (Wales) Regulations 2011 (S.I. 2011/2501)](https://www.legislation.gov.uk/uksi/2011/2501), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2501/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2011/2501/regulation/7)
+[^c-a164f0b0226e789dd41edad2acd64832]: Textual amendment: Regulations revoked (3.1.2012 for specified purposes, 2.4.2012 in so far as not already in force) by [The Mental Health (Independent Mental Health Advocates) (Wales) Regulations 2011 (S.I. 2011/2501)](https://www.legislation.gov.uk/uksi/2011/2501), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2501/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2011/2501/regulation/7)

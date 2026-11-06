@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24B. Enforcement of sections 24 to 24ZC by Certification Officer[^key-bea8ee2aa7447989948f3ed45546634e]
+## 24B. Enforcement of sections 24 to 24ZC by Certification Officer[^c-bea8ee2aa7447989948f3ed45546634e]
 
 *Extent: E+W+S*
 
@@ -54,12 +54,12 @@ the Officer must specify those steps in the declaration.
 
 (11) A declaration made by the Certification Officer under this section may be relied on as if it were a declaration made by the court.
 
-(12) An enforcement order made by the Certification Officer under this section may be enforced by the Officer[^key-1e7639a9fde794b3f054fdbf0100f3b6] in the same way as an order of the court.
+(12) An enforcement order made by the Certification Officer under this section may be enforced by the Officer[^c-1e7639a9fde794b3f054fdbf0100f3b6] in the same way as an order of the court.
 
 (13) Where an enforcement order has been made, a person who is a member of the union and was a member at the time it was made is entitled to enforce obedience to the order as if the order had been made on an application by that person.
 
 ## Annotations
 
-[^key-bea8ee2aa7447989948f3ed45546634e]: Textual amendment: Ss. 24B, 24C inserted (1.6.2016) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 43(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/43/2), [45(1)(c)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/1/c); [S.I. 2015/717](https://www.legislation.gov.uk/uksi/2015/717), [art. 4(b)](https://www.legislation.gov.uk/uksi/2015/717/article/4/b)
+[^c-bea8ee2aa7447989948f3ed45546634e]: Textual amendment: Ss. 24B, 24C inserted (1.6.2016) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 43(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/43/2), [45(1)(c)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/1/c); [S.I. 2015/717](https://www.legislation.gov.uk/uksi/2015/717), [art. 4(b)](https://www.legislation.gov.uk/uksi/2015/717/article/4/b)
 
-[^key-1e7639a9fde794b3f054fdbf0100f3b6]: Textual amendment: Words in [s. 24B(12)](https://www.legislation.gov.uk/ukpga/1992/52/section/24B/12) inserted (1.4.2022) by [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [ss. 19(4)](https://www.legislation.gov.uk/ukpga/2016/15/section/19/4), [25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1); [S.I. 2021/1373](https://www.legislation.gov.uk/uksi/2021/1373), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2021/1373/regulation/4/c) (with [reg. 15](https://www.legislation.gov.uk/uksi/2021/1373/regulation/15))
+[^c-1e7639a9fde794b3f054fdbf0100f3b6]: Textual amendment: Words in [s. 24B(12)](https://www.legislation.gov.uk/ukpga/1992/52/section/24B/12) inserted (1.4.2022) by [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [ss. 19(4)](https://www.legislation.gov.uk/ukpga/2016/15/section/19/4), [25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1); [S.I. 2021/1373](https://www.legislation.gov.uk/uksi/2021/1373), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2021/1373/regulation/4/c) (with [reg. 15](https://www.legislation.gov.uk/uksi/2021/1373/regulation/15))

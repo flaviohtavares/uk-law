@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Interpretation[^key-9a2eb1d97e4b206e6c223247e2b6674b]
+## 7. Interpretation[^c-9a2eb1d97e4b206e6c223247e2b6674b]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ In this Act—
 
 ## Annotations
 
-[^key-9a2eb1d97e4b206e6c223247e2b6674b]: Commencement: S. 7 in operation at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/nia/2022/3/section/8/2)
+[^c-9a2eb1d97e4b206e6c223247e2b6674b]: Commencement: S. 7 in operation at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/nia/2022/3/section/8/2)

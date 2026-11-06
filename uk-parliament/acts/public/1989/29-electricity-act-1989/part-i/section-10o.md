@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10O. Interpretation[^key-0ad53e4f3cafa17a3266363ef95540bb]
+## 10O. Interpretation[^c-0ad53e4f3cafa17a3266363ef95540bb]
 
 *Extent: E+W+S+N.I.*
 
 (1) In sections 10A to 10N and this section—
 
 - “control”, in relation to one person having control over another, has the meaning given by Article 2(34) of the Electricity Directive (but in determining whether one person (“person A”) has control over another (“person B”) no account is to be taken of any unexercised contractual or other right which would, if exercised, give person A control over person B and which was conferred as a condition of the provision of either financial support or a guarantee (or both), by person A in relation to the business of person B); and references to one person controlling another are to be interpreted accordingly;
-- “certified” means certified by[^key-8e0448ff614881678cc1546833f59455] the Authority under section 10D; and “certify” and “certification” are to be interpreted accordingly;
+- “certified” means certified by[^c-8e0448ff614881678cc1546833f59455] the Authority under section 10D; and “certify” and “certification” are to be interpreted accordingly;
 - “certification grounds” has the meaning given by section 10E(2);
 - “majority shareholding” means a simple majority of shares;
-- “person from a country outside the United Kingdom[^key-f70f854a61c86dea84d9841e5a16cd74]” means a person the Authority thinks is from a country outside the United Kingdom;
+- “person from a country outside the United Kingdom[^c-f70f854a61c86dea84d9841e5a16cd74]” means a person the Authority thinks is from a country outside the United Kingdom;
 - “shareholder right” means a right, conferred by the holding of a share in a company’s share capital—
   - (a) to vote at general meetings of the company; or
   - (b) to appoint or remove a member of the company’s board of directors;
-- [^key-e721e5631fa87a6306482b1c1db2900c]...
+- [^c-e721e5631fa87a6306482b1c1db2900c]...
 
 (2) In this Part “electricity undertaking” means a person who—
 
@@ -51,7 +51,7 @@ summary: ''
 
 and terms used in paragraphs (b) to (f) of this subsection have the same meanings in those paragraphs as in Part 1 of the Gas Act 1986.
 
-(5)[^key-726630dd05bf9268cf872e86d82b7e08] A person falls within this subsection if—
+(5)[^c-726630dd05bf9268cf872e86d82b7e08] A person falls within this subsection if—
 
 - (a) the person requires a licence under section 7A of the Gas Act 1986 (licensing of gas suppliers and gas shippers) or section 6 of this Act to carry out the activity by virtue of which the person falls within subsection (4);
 - (b) where the person does not carry out the activity in Great Britain, the person would, in the Authority’s opinion, require such a licence if carrying out the activity in Great Britain; or
@@ -59,12 +59,12 @@ and terms used in paragraphs (b) to (f) of this subsection have the same meaning
 
 ## Annotations
 
-[^key-0ad53e4f3cafa17a3266363ef95540bb]: Textual amendment: Ss. 10A-10O and cross-heading inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2011/2704/regulation/5)
+[^c-0ad53e4f3cafa17a3266363ef95540bb]: Textual amendment: Ss. 10A-10O and cross-heading inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2011/2704/regulation/5)
 
-[^key-8e0448ff614881678cc1546833f59455]: Textual amendment: Words in s. 10O(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [53(a)](https://www.legislation.gov.uk/uksi/2019/530/regulation/53/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8e0448ff614881678cc1546833f59455]: Textual amendment: Words in s. 10O(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [53(a)](https://www.legislation.gov.uk/uksi/2019/530/regulation/53/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f70f854a61c86dea84d9841e5a16cd74]: Textual amendment: Words in s. 10O(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [53(b)](https://www.legislation.gov.uk/uksi/2019/530/regulation/53/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f70f854a61c86dea84d9841e5a16cd74]: Textual amendment: Words in s. 10O(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [53(b)](https://www.legislation.gov.uk/uksi/2019/530/regulation/53/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e721e5631fa87a6306482b1c1db2900c]: Textual amendment: Words in s. 10O(1) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [53(c)](https://www.legislation.gov.uk/uksi/2019/530/regulation/53/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e721e5631fa87a6306482b1c1db2900c]: Textual amendment: Words in s. 10O(1) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [53(c)](https://www.legislation.gov.uk/uksi/2019/530/regulation/53/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-726630dd05bf9268cf872e86d82b7e08]: Textual amendment: S. 10O(5) substituted (24.4.2017) by [The Electricity and Gas (Internal Markets) Regulations 2017 (S.I. 2017/493)](https://www.legislation.gov.uk/uksi/2017/493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/493/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2017/493/regulation/3) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2017/493/regulation/7/2))
+[^c-726630dd05bf9268cf872e86d82b7e08]: Textual amendment: S. 10O(5) substituted (24.4.2017) by [The Electricity and Gas (Internal Markets) Regulations 2017 (S.I. 2017/493)](https://www.legislation.gov.uk/uksi/2017/493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/493/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2017/493/regulation/3) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2017/493/regulation/7/2))

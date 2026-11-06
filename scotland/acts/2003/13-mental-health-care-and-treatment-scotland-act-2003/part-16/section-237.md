@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 237. Electro-convulsive therapy etc.[^key-f84323b8e2b5443d2d056344a23c0678][^key-01a893140ba96b34d4c1aaab042ad1bb]
+## 237. Electro-convulsive therapy etc.[^c-f84323b8e2b5443d2d056344a23c0678][^c-01a893140ba96b34d4c1aaab042ad1bb]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f84323b8e2b5443d2d056344a23c0678]: Commencement: S. 237 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
+[^c-f84323b8e2b5443d2d056344a23c0678]: Commencement: S. 237 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
 
-[^key-01a893140ba96b34d4c1aaab042ad1bb]: Commencement: [S. 237](https://www.legislation.gov.uk/asp/2003/13/section/237) in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-01a893140ba96b34d4c1aaab042ad1bb]: Commencement: [S. 237](https://www.legislation.gov.uk/asp/2003/13/section/237) in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

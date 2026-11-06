@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Scottish Natural Heritage representation on advisory panels[^key-930293e2339b52522eb668c5efff5bc0][^key-b31314419a28be0044568a3894a30ad7]
+## 12. Scottish Natural Heritage representation on advisory panels[^c-930293e2339b52522eb668c5efff5bc0][^c-b31314419a28be0044568a3894a30ad7]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-930293e2339b52522eb668c5efff5bc0]: Commencement: S. 12 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-930293e2339b52522eb668c5efff5bc0]: Commencement: S. 12 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-b31314419a28be0044568a3894a30ad7]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2026/6/section/12) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(j)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/j)
+[^c-b31314419a28be0044568a3894a30ad7]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2026/6/section/12) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(j)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/j)

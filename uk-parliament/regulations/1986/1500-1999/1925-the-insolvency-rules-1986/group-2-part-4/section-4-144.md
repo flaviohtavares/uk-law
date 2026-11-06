@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.144. Release of resigning or removed liquidator[^key-5273d5e628f2070d2cb2a14554c54afa]
+## 4.144. Release of resigning or removed liquidator[^c-5273d5e628f2070d2cb2a14554c54afa]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5273d5e628f2070d2cb2a14554c54afa]: Commencement: [Rule 4.144](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.144) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-5273d5e628f2070d2cb2a14554c54afa]: Commencement: [Rule 4.144](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.144) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00088]: Marginal citation: \[FORM 4.40\]
 

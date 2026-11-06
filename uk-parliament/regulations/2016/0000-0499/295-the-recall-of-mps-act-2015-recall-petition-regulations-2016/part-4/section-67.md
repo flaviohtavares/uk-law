@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Additional provision concerning the requirement that an application for absent signing must be signed by the applicant: England and Wales and Scotland[^key-3a15f2018c4e31732a296347bb6767e8]
+## 67. Additional provision concerning the requirement that an application for absent signing must be signed by the applicant: England and Wales and Scotland[^c-3a15f2018c4e31732a296347bb6767e8]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ The registration officer must be satisfied—
 
 ## Annotations
 
-[^key-3a15f2018c4e31732a296347bb6767e8]: Commencement: Reg. 67 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-3a15f2018c4e31732a296347bb6767e8]: Commencement: Reg. 67 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

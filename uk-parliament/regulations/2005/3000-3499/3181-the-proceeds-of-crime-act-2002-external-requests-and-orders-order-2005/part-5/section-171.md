@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. Supervision of interim administrator and variation of order[^key-a8242690be84a60c099bedf80ff5173a]
+## 171. Supervision of interim administrator and variation of order[^c-a8242690be84a60c099bedf80ff5173a]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8242690be84a60c099bedf80ff5173a]: Commencement: [Art. 171](https://www.legislation.gov.uk/uksi/2005/3181/article/171) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-a8242690be84a60c099bedf80ff5173a]: Commencement: [Art. 171](https://www.legislation.gov.uk/uksi/2005/3181/article/171) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

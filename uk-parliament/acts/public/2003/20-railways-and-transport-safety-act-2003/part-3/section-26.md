@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Cadets[^key-b0613de909b4d2b17888717adbf2b660]
+## 26. Cadets[^c-b0613de909b4d2b17888717adbf2b660]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0613de909b4d2b17888717adbf2b660]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2003/20/section/26) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(i)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/i)
+[^c-b0613de909b4d2b17888717adbf2b660]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2003/20/section/26) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(i)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/i)

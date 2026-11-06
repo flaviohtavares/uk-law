@@ -103,7 +103,7 @@ and references in this section to the weekly rate of a guaranteed minimum pensio
 
 (9)[^c11723091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-9ded2a80edb493642a16e5e9b01fd5e7] In this section a reference to “additional pension” does not include any amount of additional pension attributable to units of additional pension.
+(10)[^c-9ded2a80edb493642a16e5e9b01fd5e7] In this section a reference to “additional pension” does not include any amount of additional pension attributable to units of additional pension.
 
 (11) For units of additional pension, see section 14A of the Social Security Contributions and Benefits (Northern Ireland) Act 1992.
 
@@ -133,4 +133,4 @@ and references in this section to the weekly rate of a guaranteed minimum pensio
 
 [^c11723091]: Textual amendment: S. 42(9) repealed (13.4.1995) by [S.I. 1994/1898](https://www.legislation.gov.uk/uksi/1994/1898) (NI 12), art. 13(1)(2), Sch. 1 Pt. II para. 54(7), Sch. 2; [S.R. 1994/450](https://www.legislation.gov.uk/nisr/1994/450), [art. 2(d)](https://www.legislation.gov.uk/nisr/1994/450/article/2/d), [Sch. Pt. IV](https://www.legislation.gov.uk/nisr/1994/450/schedule/part/IV)
 
-[^key-9ded2a80edb493642a16e5e9b01fd5e7]: Textual amendment: S. 42(10)(11) inserted (12.10.2015) by [The Pensions (2015 Act) (Consequential Amendments) (Units of Additional Pension) Order (Northern Ireland) 2015 (S.R. 2015/308)](https://www.legislation.gov.uk/nisr/2015/308), [arts. 1](https://www.legislation.gov.uk/nisr/2015/308/article/1), [3](https://www.legislation.gov.uk/nisr/2015/308/article/3)
+[^c-9ded2a80edb493642a16e5e9b01fd5e7]: Textual amendment: S. 42(10)(11) inserted (12.10.2015) by [The Pensions (2015 Act) (Consequential Amendments) (Units of Additional Pension) Order (Northern Ireland) 2015 (S.R. 2015/308)](https://www.legislation.gov.uk/nisr/2015/308), [arts. 1](https://www.legislation.gov.uk/nisr/2015/308/article/1), [3](https://www.legislation.gov.uk/nisr/2015/308/article/3)

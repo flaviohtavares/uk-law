@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Duty not to appoint administrator without approval[^key-5b5c7fabd985b0b0ee978a5843464603][^key-bdad476c5edc8a7c25c1c45b127a72dc]
+## 47. Duty not to appoint administrator without approval[^c-5b5c7fabd985b0b0ee978a5843464603][^c-bdad476c5edc8a7c25c1c45b127a72dc]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5b5c7fabd985b0b0ee978a5843464603]: Commencement: S. 47 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-5b5c7fabd985b0b0ee978a5843464603]: Commencement: S. 47 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-bdad476c5edc8a7c25c1c45b127a72dc]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2025/21/section/47) in force at 5.5.2026 in so far as not already in force by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/b/iii)
+[^c-bdad476c5edc8a7c25c1c45b127a72dc]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2025/21/section/47) in force at 5.5.2026 in so far as not already in force by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/b/iii)

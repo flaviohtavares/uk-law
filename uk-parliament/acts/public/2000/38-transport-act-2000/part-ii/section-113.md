@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Role of councils in relation to policies etc of ITAs, combined authorities & CCAs[^key-39188424932ed650b074ea786933356c]
+## 113. Role of councils in relation to policies etc of ITAs, combined authorities & CCAs[^c-39188424932ed650b074ea786933356c]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39188424932ed650b074ea786933356c]: Textual amendment: S. 113 substituted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 30](https://www.legislation.gov.uk/ukpga/2026/23/section/30), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-39188424932ed650b074ea786933356c]: Textual amendment: S. 113 substituted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 30](https://www.legislation.gov.uk/ukpga/2026/23/section/30), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

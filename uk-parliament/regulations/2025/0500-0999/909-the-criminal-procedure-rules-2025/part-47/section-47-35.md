@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.35. When this Section applies[^key-137b8148ae45052fc260beeb4f096f6d]
+## 47.35. When this Section applies[^c-137b8148ae45052fc260beeb4f096f6d]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-137b8148ae45052fc260beeb4f096f6d]: Commencement: Rule 47.35 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-137b8148ae45052fc260beeb4f096f6d]: Commencement: Rule 47.35 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01228]: Footnote: [1897 c. 30](https://www.legislation.gov.uk/ukpga/1897/30); section 1 was amended by sections 33 and 36 of, and Part III of Schedule 3 to, the Theft Act [1968 (c. 60)](https://www.legislation.gov.uk/ukpga/1968/60), section 58 of the Criminal Justice Act [1972 (c. 71)](https://www.legislation.gov.uk/ukpga/1972/71), section 192 of, and Part I of Schedule 5 to, the Consumer Credit Act [1974 (c. 39)](https://www.legislation.gov.uk/ukpga/1974/39), the Statute Law (Repeals) Act [1989 (c. 43)](https://www.legislation.gov.uk/ukpga/1989/43) and section 4 of the Police (Property) Act [1997 (c. 30)](https://www.legislation.gov.uk/ukpga/1997/30).
 

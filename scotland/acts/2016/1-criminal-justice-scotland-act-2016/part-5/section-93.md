@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93. Advocation in summary proceedings[^key-e680b0d567a92f360db53d89a39bad9d]
+## 93. Advocation in summary proceedings[^c-e680b0d567a92f360db53d89a39bad9d]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ After section 191A of the 1995 Act there is inserted—
 
 ## Annotations
 
-[^key-e680b0d567a92f360db53d89a39bad9d]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2016/1/section/93) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-e680b0d567a92f360db53d89a39bad9d]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2016/1/section/93) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)

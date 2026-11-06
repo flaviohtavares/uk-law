@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Effect of default in election agent’s appointment[^key-e2301ba2ffb1844cc3a63aa3b6b6e265]
+## 42. Effect of default in election agent’s appointment[^c-e2301ba2ffb1844cc3a63aa3b6b6e265]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2301ba2ffb1844cc3a63aa3b6b6e265]: Commencement: Art. 42 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-e2301ba2ffb1844cc3a63aa3b6b6e265]: Commencement: Art. 42 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

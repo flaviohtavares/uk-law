@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Duty to report remote sales of knives etc in bulk: England and Wales and Scotland[^key-358b482ae2c7e2a04b31a15ab8d67f47]
+## 42. Duty to report remote sales of knives etc in bulk: England and Wales and Scotland[^c-358b482ae2c7e2a04b31a15ab8d67f47]
 
 *Extent: E+W+S+N.I.*
 
@@ -114,4 +114,4 @@ summary: ''
 
 ## Annotations
 
-[^key-358b482ae2c7e2a04b31a15ab8d67f47]: Commencement: S. 42 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-358b482ae2c7e2a04b31a15ab8d67f47]: Commencement: S. 42 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

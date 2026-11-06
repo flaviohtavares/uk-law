@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Compulsory acquisition of rights[^key-93f9e52b70c09e02dd4f038f6bb6199c]
+## 22. Compulsory acquisition of rights[^c-93f9e52b70c09e02dd4f038f6bb6199c]
 
 *Extent: E+W+S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-93f9e52b70c09e02dd4f038f6bb6199c]: Commencement: Art. 22 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-93f9e52b70c09e02dd4f038f6bb6199c]: Commencement: Art. 22 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
 [^f00051]: Footnote: Schedule 2A was inserted by paragraphs 1 and 3 of Schedule 17 to the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).

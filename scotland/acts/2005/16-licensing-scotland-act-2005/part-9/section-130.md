@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 130. Effect of appeal against conviction for relevant or foreign offence[^key-4d834cae800cebecb8d487cd7be93628]
+## 130. Effect of appeal against conviction for relevant or foreign offence[^c-4d834cae800cebecb8d487cd7be93628]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d834cae800cebecb8d487cd7be93628]: Commencement: S. 130 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-4d834cae800cebecb8d487cd7be93628]: Commencement: S. 130 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)

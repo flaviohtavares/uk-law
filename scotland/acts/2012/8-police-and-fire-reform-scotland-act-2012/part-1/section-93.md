@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93. Purpose of custody visiting[^key-d6d6464062a410259ea9a0b374160b4d]
+## 93. Purpose of custody visiting[^c-d6d6464062a410259ea9a0b374160b4d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The provisions in this Chapter are in pursuance of the objective of OPCAT, that 
 
 ## Annotations
 
-[^key-d6d6464062a410259ea9a0b374160b4d]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2012/8/section/93) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-d6d6464062a410259ea9a0b374160b4d]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2012/8/section/93) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

@@ -16,25 +16,25 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 11ZA — Wrecks Convention[^key-265354466cfa378ceb8a556518964cf3]
+## SCHEDULE 11ZA — Wrecks Convention[^c-265354466cfa378ceb8a556518964cf3]
 
 *Extent: E+W+S+N.I.*
 
-[^key-265354466cfa378ceb8a556518964cf3]Preamble:
+[^c-265354466cfa378ceb8a556518964cf3]Preamble:
 
-[^key-265354466cfa378ceb8a556518964cf3]THE STATES PARTIES TO THE PRESENT CONVENTION,
+[^c-265354466cfa378ceb8a556518964cf3]THE STATES PARTIES TO THE PRESENT CONVENTION,
 
-[^key-265354466cfa378ceb8a556518964cf3]CONSCIOUS of the fact that wrecks, if not removed, may pose a hazard to navigation or the marine environment,
+[^c-265354466cfa378ceb8a556518964cf3]CONSCIOUS of the fact that wrecks, if not removed, may pose a hazard to navigation or the marine environment,
 
-[^key-265354466cfa378ceb8a556518964cf3]CONVINCED of the need to adopt uniform international rules and procedures to ensure the prompt and effective removal of wrecks and payment of compensation for the costs therein involved,
+[^c-265354466cfa378ceb8a556518964cf3]CONVINCED of the need to adopt uniform international rules and procedures to ensure the prompt and effective removal of wrecks and payment of compensation for the costs therein involved,
 
-[^key-265354466cfa378ceb8a556518964cf3]NOTING that many wrecks may be located in States' territory, including the territorial sea,
+[^c-265354466cfa378ceb8a556518964cf3]NOTING that many wrecks may be located in States' territory, including the territorial sea,
 
-[^key-265354466cfa378ceb8a556518964cf3]RECOGNIZING the benefits to be gained through uniformity in legal regimes governing responsibility and liability for removal of hazardous wrecks,
+[^c-265354466cfa378ceb8a556518964cf3]RECOGNIZING the benefits to be gained through uniformity in legal regimes governing responsibility and liability for removal of hazardous wrecks,
 
-[^key-265354466cfa378ceb8a556518964cf3]BEARING IN MIND the importance of the United Nations Convention on the Law of the Sea, done at Montego Bay on 10 December 1982, and of the customary international law of the sea, and the consequent need to implement the present Convention in accordance with such provisions,
+[^c-265354466cfa378ceb8a556518964cf3]BEARING IN MIND the importance of the United Nations Convention on the Law of the Sea, done at Montego Bay on 10 December 1982, and of the customary international law of the sea, and the consequent need to implement the present Convention in accordance with such provisions,
 
-[^key-265354466cfa378ceb8a556518964cf3]HAVE AGREED as follows:
+[^c-265354466cfa378ceb8a556518964cf3]HAVE AGREED as follows:
 
 ### Article 1 — Definitions
 
@@ -341,4 +341,4 @@ The Convention is established in a single original in the Arabic, Chinese, Engli
 
 ## Annotations
 
-[^key-265354466cfa378ceb8a556518964cf3]: Textual amendment: Sch. 11ZA inserted (5.2.2015 for specified purposes, 14.4.2015 in so far as not already in force) by [Wreck Removal Convention Act 2011 (c. 8)](https://www.legislation.gov.uk/ukpga/2011/8), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2011/8/section/1/4), [2(2)](https://www.legislation.gov.uk/ukpga/2011/8/section/2/2), [Sch.](https://www.legislation.gov.uk/ukpga/2011/8/schedule); [S.I. 2015/133](https://www.legislation.gov.uk/uksi/2015/133), [arts. 2](https://www.legislation.gov.uk/uksi/2015/133/article/2), [3](https://www.legislation.gov.uk/uksi/2015/133/article/3)
+[^c-265354466cfa378ceb8a556518964cf3]: Textual amendment: Sch. 11ZA inserted (5.2.2015 for specified purposes, 14.4.2015 in so far as not already in force) by [Wreck Removal Convention Act 2011 (c. 8)](https://www.legislation.gov.uk/ukpga/2011/8), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2011/8/section/1/4), [2(2)](https://www.legislation.gov.uk/ukpga/2011/8/section/2/2), [Sch.](https://www.legislation.gov.uk/ukpga/2011/8/schedule); [S.I. 2015/133](https://www.legislation.gov.uk/uksi/2015/133), [arts. 2](https://www.legislation.gov.uk/uksi/2015/133/article/2), [3](https://www.legislation.gov.uk/uksi/2015/133/article/3)

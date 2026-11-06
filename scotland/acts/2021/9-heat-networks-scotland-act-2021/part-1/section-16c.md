@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16C. Records[^key-a4166583e80f5b8735d76f2fa3e09df4]
+## 16C. Records[^c-a4166583e80f5b8735d76f2fa3e09df4]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4166583e80f5b8735d76f2fa3e09df4]: Textual amendment: [Ss. 16A-16C](https://www.legislation.gov.uk/asp/2021/9/section/16A) inserted (27.1.2026) by [The Heat Networks (Market Framework) (Great Britain) Regulations 2025 (S.I. 2025/269)](https://www.legislation.gov.uk/uksi/2025/269), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4), [68(3)](https://www.legislation.gov.uk/uksi/2025/269/regulation/68/3)
+[^c-a4166583e80f5b8735d76f2fa3e09df4]: Textual amendment: [Ss. 16A-16C](https://www.legislation.gov.uk/asp/2021/9/section/16A) inserted (27.1.2026) by [The Heat Networks (Market Framework) (Great Britain) Regulations 2025 (S.I. 2025/269)](https://www.legislation.gov.uk/uksi/2025/269), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4), [68(3)](https://www.legislation.gov.uk/uksi/2025/269/regulation/68/3)

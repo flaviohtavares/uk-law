@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Criminal offences and legal proceedings[^key-2155175329360b576411e63d6e55c0f3]
+## 21. Criminal offences and legal proceedings[^c-2155175329360b576411e63d6e55c0f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2155175329360b576411e63d6e55c0f3]: Commencement: Art. 21 comes into force in accordance with art. 1(3)-(6)
+[^c-2155175329360b576411e63d6e55c0f3]: Commencement: Art. 21 comes into force in accordance with art. 1(3)-(6)

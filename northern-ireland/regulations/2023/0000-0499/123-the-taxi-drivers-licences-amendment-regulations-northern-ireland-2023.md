@@ -44,11 +44,11 @@ Coming into operation
 
 The Department for Infrastructure[^f00001] makes the following Regulations in exercise of the powers conferred by sections 23(5), 30(1) and 56(1) of the Taxis Act (Northern Ireland) 2008[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-bf18df99472abe1bbcc5fae487832112]
+## 1. Citation and commencement[^c-bf18df99472abe1bbcc5fae487832112]
 
 These Regulations may be cited as the Taxi Drivers’ Licences (Amendment) Regulations (Northern Ireland) 2023 and shall come into operation on 1<sup>st</sup> October 2023.
 
-## 2. Amendment of the Taxi Drivers’ Licences Regulations[^key-024c61b78cd3ce586ee3389d2af7c634]
+## 2. Amendment of the Taxi Drivers’ Licences Regulations[^c-024c61b78cd3ce586ee3389d2af7c634]
 
 In regulation 13 of the Taxi Drivers’ Licences Regulations (Northern Ireland) 2014[^f00004] (fee for a practical test) —
 
@@ -83,8 +83,8 @@ An Explanatory Memorandum has been produced and is available from Safe and Acces
 
 [^f00003]: Footnote: See Article 8(1)(b) of, and Part 2 of Schedule 5 to, the Departments (Transfer of Function) Order (Northern Ireland) 2016 ([S.R. 2016 No.76](https://www.legislation.gov.uk/nisr/2016/76))
 
-[^key-bf18df99472abe1bbcc5fae487832112]: Commencement: Reg. 1 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/123/regulation/1)
+[^c-bf18df99472abe1bbcc5fae487832112]: Commencement: Reg. 1 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/123/regulation/1)
 
-[^key-024c61b78cd3ce586ee3389d2af7c634]: Commencement: Reg. 2 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/123/regulation/1)
+[^c-024c61b78cd3ce586ee3389d2af7c634]: Commencement: Reg. 2 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/123/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2014 No. 239](https://www.legislation.gov.uk/nisr/2014/239); to which there are no amendments

@@ -48,15 +48,15 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 1 — Introductory
 
-### 1. Citation[^key-1bd4d1831398e15dd3410d2ec6f75a7c]
+### 1. Citation[^c-1bd4d1831398e15dd3410d2ec6f75a7c]
 
 These Regulations may be cited as the Trade in Animals and Related Products (Amendment and Legislative Functions) Regulations 2022.
 
-### 2. Commencement[^key-6e49663ddcc59414bb3f7754f5591147]
+### 2. Commencement[^c-6e49663ddcc59414bb3f7754f5591147]
 
 These Regulations come into force on the day after the day on which they are made.
 
-### 3. Application and Extent[^key-988a6c558c6c7f7137bbe362a10c7f2b]
+### 3. Application and Extent[^c-988a6c558c6c7f7137bbe362a10c7f2b]
 
 (1) Subject to paragraphs (2) and (3), these Regulations extend to England and Wales and Scotland.
 
@@ -64,7 +64,7 @@ These Regulations come into force on the day after the day on which they are mad
 
 (3) Part 3 applies in England and Scotland.
 
-### 4. Interpretation[^key-84923659b59d7f75df7e5a9497007b02]
+### 4. Interpretation[^c-84923659b59d7f75df7e5a9497007b02]
 
 (1) For the purposes of these Regulations, the words and expressions listed in paragraph (2) as used in these Regulations and in the EU Directives modified by Part 5 have the meanings given in paragraph (2).
 
@@ -95,7 +95,7 @@ These Regulations come into force on the day after the day on which they are mad
 
 ## PART 2 — Amendment of legislation relating to trade in animals and related products
 
-### 5. Amendment of the Trade in Animals and Related Products Regulations 2011[^key-cd417fb06c8b388d5967387faee372e7]
+### 5. Amendment of the Trade in Animals and Related Products Regulations 2011[^c-cd417fb06c8b388d5967387faee372e7]
 
 (1) The Trade in Animals and Related Products Regulations 2011[^f00021] are amended as follows.
 
@@ -117,7 +117,7 @@ These Regulations come into force on the day after the day on which they are mad
 
 (5) Omit Schedule 1.
 
-### 6. Amendment of the Trade in Animals and Related Products (Scotland) Regulations 2012[^key-678d85021a185576beefa111b3e2196f]
+### 6. Amendment of the Trade in Animals and Related Products (Scotland) Regulations 2012[^c-678d85021a185576beefa111b3e2196f]
 
 (1) The Trade in Animals and Related Products (Scotland) Regulations 2012[^f00022] are amended as follows.
 
@@ -146,7 +146,7 @@ These Regulations come into force on the day after the day on which they are mad
 
 *Extent: E+S*
 
-### 7. List of animal and public health requirements[^key-200e025eb2a054c938d32c57e375092d]
+### 7. List of animal and public health requirements[^c-200e025eb2a054c938d32c57e375092d]
 
 (1) Paragraph (2) lists legislation for the purposes of—
 
@@ -181,7 +181,7 @@ These Regulations come into force on the day after the day on which they are mad
 
 ## PART 4 — Legislative and other functions
 
-### 8. Provisions containing legislative and other functions[^key-9091daefc451c6daa46f35f9cff2f1f8]
+### 8. Provisions containing legislative and other functions[^c-9091daefc451c6daa46f35f9cff2f1f8]
 
 (1) The Schedule contains lists of provisions of EU Directives that confer functions on the appropriate authority, together with any provisions that are to be retained because they are either to be read with a listed provision and are relevant to the exercise of that function, or connected to the purpose of that function, for the purposes of paragraphs (2), (3) and (4) of this regulation.
 
@@ -195,7 +195,7 @@ These Regulations come into force on the day after the day on which they are mad
 - (a) together with any other provisions listed in the Schedule that may be relevant or connected to the exercise of a listed function, as modified by Part 5 of those Regulations and so far as they relate to consignments to which these Regulations apply, are exercisable as if those provisions formed part of domestic law; and
 - (b) are to be treated as a function conferred by these Regulations.
 
-### 9. Regulation-making procedure[^key-db7880049037dd25d9494c6476433eff]
+### 9. Regulation-making procedure[^c-db7880049037dd25d9494c6476433eff]
 
 (1) Regulations made by the Secretary of State under any of the functions listed in the Schedule are to be made by statutory instrument.
 
@@ -217,7 +217,7 @@ These Regulations come into force on the day after the day on which they are mad
 
 ## PART 5 — Modifications to EU Directives
 
-### 10. Modifications to EU Directives[^key-8128e4efd9926280f3609acee1799321]
+### 10. Modifications to EU Directives[^c-8128e4efd9926280f3609acee1799321]
 
 Regulations 12 to 22 set out modifications to the EU Directives listed in regulation 7(2)(a) and the Schedule, including modifications to the headings and titles of divisions of those EU Directives where appropriate, for the purposes of—
 
@@ -225,7 +225,7 @@ Regulations 12 to 22 set out modifications to the EU Directives listed in regula
 - (b) regulation 13(3)(a) and 16(3) of the Trade in Animals and Related Products (Scotland) Regulations 2012; and
 - (c) regulation 8 of these Regulations.
 
-### 11. Interpretation[^key-1fd5369dd4a3b5493e55cd96e01e416f]
+### 11. Interpretation[^c-1fd5369dd4a3b5493e55cd96e01e416f]
 
 (1) For the purposes of these Regulations, the words and expressions listed in paragraph (2) as used in this Part and in the EU Directives modified by this Part have the meanings given in paragraph (2).
 
@@ -272,7 +272,7 @@ Regulations 12 to 22 set out modifications to the EU Directives listed in regula
 
 (3) For the purposes of these Regulations, in the EU Directives modified by this Part and in the modifications made to the EU Directives in this Part, any reference to one of those EU Directives, unless specified otherwise, is a reference to that Directive as it had effect immediately before IP completion day and as modified by this Part.
 
-### 12. Modifications to Directive 64/432[^key-54a101d766265232a6621fe90bfff96e]
+### 12. Modifications to Directive 64/432[^c-54a101d766265232a6621fe90bfff96e]
 
 (1) Directive 64/432 is modified as follows.
 
@@ -487,7 +487,7 @@ Regulations 12 to 22 set out modifications to the EU Directives listed in regula
     - (bb) for “Article 6a” there were substituted “Article 100 of the Official Controls Regulation”;
   - (iv) in Section C, in point 3(b), “in accordance with Article 6(2)(c)” were omitted.
 
-### 13. Modifications to Directive 88/407[^key-1da1b164680c3a321ea111fd836b1176]
+### 13. Modifications to Directive 88/407[^c-1da1b164680c3a321ea111fd836b1176]
 
 (1) Directive 88/407 is modified as follows.
 
@@ -616,7 +616,7 @@ Regulations 12 to 22 set out modifications to the EU Directives listed in regula
   - (i) in the words before point (a), for “for intra-Community trade” there were substituted “intended for importation into Great Britain”;
   - (ii) in point (b), for “the Member State of destination” there were substituted “Great Britain”.
 
-### 14. Modifications to Directive 89/556[^key-e11cb43647c3822ff5d5f26633a1c75a]
+### 14. Modifications to Directive 89/556[^c-e11cb43647c3822ff5d5f26633a1c75a]
 
 (1) Directive 89/556 is modified as follows.
 
@@ -696,7 +696,7 @@ Regulations 12 to 22 set out modifications to the EU Directives listed in regula
 
 (10) Annex B is to be read as if, in point 1(a), “within Community territory or” were omitted.
 
-### 15. Modifications to Directive 90/429[^key-64af6ff221c4d2a75cb0dffc760dbdb7]
+### 15. Modifications to Directive 90/429[^c-64af6ff221c4d2a75cb0dffc760dbdb7]
 
 (1) Directive 90/429 is modified as follows.
 
@@ -801,7 +801,7 @@ Regulations 12 to 22 set out modifications to the EU Directives listed in regula
   - (i) for “Member States” there were substituted “The appropriate authority”;
   - (ii) the second paragraph were omitted.
 
-### 16. Modifications to Directive 91/68[^key-9b2e42f2cbddf7b381ba4a1e08e5cedd]
+### 16. Modifications to Directive 91/68[^c-9b2e42f2cbddf7b381ba4a1e08e5cedd]
 
 (1) Directive 91/68 is modified as follows.
 
@@ -902,7 +902,7 @@ Regulations 12 to 22 set out modifications to the EU Directives listed in regula
 - (a) after “national” there were inserted “reference”;
 - (b) for “Central Veterinary Laboratory, Weybridge, Surrey, United Kingdom” there were substituted “WOAH reference laboratory for brucellosis”.
 
-### 17. Modifications to Directive 92/65[^key-89d0e48776d7d19d538619f01b171efd]
+### 17. Modifications to Directive 92/65[^c-89d0e48776d7d19d538619f01b171efd]
 
 (1) Directive 92/65 is modified as follows.
 
@@ -1211,7 +1211,7 @@ Regulations 12 to 22 set out modifications to the EU Directives listed in regula
       >
       > - (i) Article 7 of Directive 2002/99, in relation to meat from ungulates, rabbit meat, farmed game meat and poultry meat;
       > - (ii) Article 7 of Directive 2004/68; or
-      > - (iii) in the case of other animals covered by this Directive, any decision set out in assimilated direct[^key-78dd835896cfca2ebeac02ee2342fac0] legislation made under Article 26 of Directive [92/65/EEC](https://www.legislation.gov.uk/european/decision/1992/0065)[^f00067] for this purpose, as it had effect immediately before IP completion day and without modification by Part 5 of the TARP (ALF) Regulations 2022, or any other decision which may be taken by the appropriate authority in accordance with a procedure set out by the appropriate authority by regulations for this purpose that takes account of their state of health;
+      > - (iii) in the case of other animals covered by this Directive, any decision set out in assimilated direct[^c-78dd835896cfca2ebeac02ee2342fac0] legislation made under Article 26 of Directive [92/65/EEC](https://www.legislation.gov.uk/european/decision/1992/0065)[^f00067] for this purpose, as it had effect immediately before IP completion day and without modification by Part 5 of the TARP (ALF) Regulations 2022, or any other decision which may be taken by the appropriate authority in accordance with a procedure set out by the appropriate authority by regulations for this purpose that takes account of their state of health;
 
       ;
   - (ii) in point (b), “in accordance with Article 3(2) of Directive [72/462/EEC](https://www.legislation.gov.uk/european/directive/1972/0462)” were omitted;
@@ -1342,7 +1342,7 @@ Regulations 12 to 22 set out modifications to the EU Directives listed in regula
 
 .
 
-### 18. Modifications to Directive 92/118[^key-58d97a04524527fee4bcfc884b58edb4]
+### 18. Modifications to Directive 92/118[^c-58d97a04524527fee4bcfc884b58edb4]
 
 (1) Directive 92/118 is modified as follows.
 
@@ -1625,7 +1625,7 @@ Regulations 12 to 22 set out modifications to the EU Directives listed in regula
 
   .
 
-### 19. Modifications to Directive 2002/99[^key-07effaeeba3a61cd01c1fd7ca707b1c4]
+### 19. Modifications to Directive 2002/99[^c-07effaeeba3a61cd01c1fd7ca707b1c4]
 
 (1) Directive 2002/99 is modified as follows.
 
@@ -1781,7 +1781,7 @@ Regulations 12 to 22 set out modifications to the EU Directives listed in regula
 
 (12) Annex 3 is to be read as if, in the first table concerning meat, in the column entitled “Meat Treatment”, in the eighth row of that table concerning point “(g)”, for “Article 12(2) procedure following an opinion by the relevant Scientific Committee” there were substituted “appropriate authority, in regulations made under Article 4(1)(iv)(a)”.
 
-### 20. Modifications to Directive 2004/68[^key-83f172d4bef2f732bdbd9cf798b3cf66]
+### 20. Modifications to Directive 2004/68[^c-83f172d4bef2f732bdbd9cf798b3cf66]
 
 (1) Directive 2004/68 is modified as follows.
 
@@ -1924,7 +1924,7 @@ Regulations 12 to 22 set out modifications to the EU Directives listed in regula
 - (f) in paragraph 5, for “veterinary”, in both places where it occurs, there were substituted “health”;
 - (g) in paragraph 6, for “veterinary” there were substituted “health”.
 
-### 21. Modifications to Directive 2009/156[^key-2a1c03f4fae2af220e6fc453b17987e3]
+### 21. Modifications to Directive 2009/156[^c-2a1c03f4fae2af220e6fc453b17987e3]
 
 (1) Directive 2009/156 is modified as follows.
 
@@ -2008,7 +2008,7 @@ Regulations 12 to 22 set out modifications to the EU Directives listed in regula
     - (aa) “Community” were omitted;
     - (bb) for “Commission” there were substituted “appropriate authority”;
 - (c) paragraph 3 were omitted.
-- (d)[^key-46b007c4f4925aa4c2c58099dd9dc127] in paragraph 4, for “shall be established” to the end there were substituted “, may be established by, or in accordance with a procedure established by, regulations made by the appropriate authority;
+- (d)[^c-46b007c4f4925aa4c2c58099dd9dc127] in paragraph 4, for “shall be established” to the end there were substituted “, may be established by, or in accordance with a procedure established by, regulations made by the appropriate authority;
 - (e) in paragraph 5, for “may be adopted” to the end there were substituted “may be established by, or in accordance with a procedure established by, regulations made by the appropriate authority.
 
 (9) Article 13 is to be read as if, in paragraph 2—
@@ -2080,7 +2080,7 @@ Regulations 12 to 22 set out modifications to the EU Directives listed in regula
 - (a) in the words before point 1, in the fourth subparagraph, “the European Union Reference Laboratory or” were omitted;
 - (b) in point 2.1, in the first paragraph, the second and third sentences were omitted.
 
-### 22. Modifications to Directive 2009/158[^key-1175a04ea343c21541f5d510ef40e10d]
+### 22. Modifications to Directive 2009/158[^c-1175a04ea343c21541f5d510ef40e10d]
 
 (1) Directive 2009/158 is modified as follows.
 
@@ -2286,7 +2286,7 @@ Department for Environment, Food and Rural Affairs
 
 Regulation 8(1)
 
-**1.**[^key-46798bea8d8c932564da42d29a21908e] In Directive 64/432—
+**1.**[^c-46798bea8d8c932564da42d29a21908e] In Directive 64/432—
 
 - (a) Article 9(1), together with Annex E(2);
 - (b) Article 9(2);
@@ -2314,7 +2314,7 @@ Regulation 8(1)
     - (aa) the first paragraph;
     - (bb) the second paragraph.
 
-**2.**[^key-95bf8c5a13249a76c7aef52ad0886f97] In Directive 88/407—
+**2.**[^c-95bf8c5a13249a76c7aef52ad0886f97] In Directive 88/407—
 
 - (a) in Article 8(1), the second subparagraph, together with Article 8(2);
 - (b) in Article 9(2), the third subparagraph;
@@ -2323,7 +2323,7 @@ Regulation 8(1)
 - (e) Article 10(3);
 - (f) Article 17.
 
-**3.**[^key-4c5dadd3734b6dba7339f051673d8f7c] In Directive 89/556—
+**3.**[^c-4c5dadd3734b6dba7339f051673d8f7c] In Directive 89/556—
 
 - (a) in Article 7(1), the second subparagraph, together with Article 7(2);
 - (b) in Article 8(2), the third subparagraph;
@@ -2336,7 +2336,7 @@ Regulation 8(1)
   - (ii) point (m);
   - (iii) point (n).
 
-**4.**[^key-7d8b36bb0912ac7195bc8c7656c58417] In Directive 90/429—
+**4.**[^c-7d8b36bb0912ac7195bc8c7656c58417] In Directive 90/429—
 
 - (a) in Article 7(1), the second subparagraph, together with Article 7(2);
 - (b) Article 8(2), the third subparagraph;
@@ -2346,7 +2346,7 @@ Regulation 8(1)
 - (f) Article 17;
 - (g) point 6(g) of Chapter 2 of Annex A.
 
-**5.**[^key-b1cddbf26b7eb574ed5908c7e3f3e1ee] In Directive 91/68—
+**5.**[^c-b1cddbf26b7eb574ed5908c7e3f3e1ee] In Directive 91/68—
 
 - (a) the third indent of Article 6(a)(i);
 - (b) the third indent of Article 6(c);
@@ -2361,7 +2361,7 @@ Regulation 8(1)
   - (ii) the third indent of point 2(i);
 - (j) the first paragraph of Annex C.
 
-**6.**[^key-a43e5d5c15703b81d403da3460430ea3] In Directive 92/65—
+**6.**[^c-a43e5d5c15703b81d403da3460430ea3] In Directive 92/65—
 
 - (a) Article 6(A)(2)(c);
 - (b) Article 6(A)(4);
@@ -2387,7 +2387,7 @@ Regulation 8(1)
 - (v) Article 22;
 - (w) Article 23.
 
-**7.**[^key-9d632399887b996d159e657cfcf6743b] In Directive 92/118—
+**7.**[^c-9d632399887b996d159e657cfcf6743b] In Directive 92/118—
 
 - (a) in Article 5, the second paragraph;
 - (b) Article 6;
@@ -2399,7 +2399,7 @@ Regulation 8(1)
 - (h) in Article 15, the second paragraph;
 - (i) Section 3 of Chapter 7 of Annex 1.
 
-**8.**[^key-be66a8ec63d3b3535e86cb2c7ec2c6e7] In Directive 2002/99—
+**8.**[^c-be66a8ec63d3b3535e86cb2c7ec2c6e7] In Directive 2002/99—
 
 - (a) in Article 4(1), paragraph (a) of the second subparagraph;
 - (b) Article 4(2)(a);
@@ -2415,7 +2415,7 @@ Regulation 8(1)
 - (l) Article 9(4)(c);
 - (m) Article 11.
 
-**9.**[^key-5c69fd7052f09c301cc0ab1082dd1de1] In Directive 2004/68—
+**9.**[^c-5c69fd7052f09c301cc0ab1082dd1de1] In Directive 2004/68—
 
 - (a) in Article 3(1), the second subparagraph,, together with Article 4;
 - (b) in Article 3(1), the third subparagraph, together with the fourth subparagraph;
@@ -2432,7 +2432,7 @@ Regulation 8(1)
 - (m) Article 13(1)(c);
 - (n) Article 13(2).
 
-**10.**[^key-aedbbc3ae7dd98afb93be32a71da29a3] In Directive 2009/156—
+**10.**[^c-aedbbc3ae7dd98afb93be32a71da29a3] In Directive 2009/156—
 
 - (a) in Article 4(4)(a), the second subparagraph;
 - (b) Article 4(4)(b);
@@ -2456,7 +2456,7 @@ Regulation 8(1)
 - (t) Article 19(d);
 - (u) Article 20.
 
-**11.**[^key-b8224378d6b38cde6c87caa15376ab4b] In Directive 2009/158—
+**11.**[^c-b8224378d6b38cde6c87caa15376ab4b] In Directive 2009/158—
 
 - (a) in Article 15(2), the first subparagraph;
 - (b) in Article 15(2), the second subparagraph;
@@ -2505,13 +2505,13 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). Paragraph 21 of Schedule 7 was amended by paragraph 53 of Schedule 5 to the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1).
 
-[^key-1bd4d1831398e15dd3410d2ec6f75a7c]: Commencement: Reg. 1 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-1bd4d1831398e15dd3410d2ec6f75a7c]: Commencement: Reg. 1 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
-[^key-6e49663ddcc59414bb3f7754f5591147]: Commencement: Reg. 2 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-6e49663ddcc59414bb3f7754f5591147]: Commencement: Reg. 2 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
-[^key-988a6c558c6c7f7137bbe362a10c7f2b]: Commencement: Reg. 3 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-988a6c558c6c7f7137bbe362a10c7f2b]: Commencement: Reg. 3 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
-[^key-84923659b59d7f75df7e5a9497007b02]: Commencement: Reg. 4 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-84923659b59d7f75df7e5a9497007b02]: Commencement: Reg. 4 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
 [^f00002]: Footnote: [S.I. 2009/463](https://www.legislation.gov.uk/uksi/2009/463), as amended by [S.I. 2011/981](https://www.legislation.gov.uk/uksi/2011/981) and [1043](https://www.legislation.gov.uk/uksi/2011/1043), [2019/1488](https://www.legislation.gov.uk/uksi/2019/1488), [2020/1388](https://www.legislation.gov.uk/uksi/2020/1388) and [2022/835](https://www.legislation.gov.uk/uksi/2022/835).
 
@@ -2551,15 +2551,15 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00020]: Footnote: [EUR 2009/1069](https://www.legislation.gov.uk/european/regulation/2009/1069), as amended by [S.I. 2019/588](https://www.legislation.gov.uk/uksi/2019/588), [2020/1388](https://www.legislation.gov.uk/uksi/2020/1388) and [1463](https://www.legislation.gov.uk/uksi/2020/1463).
 
-[^key-cd417fb06c8b388d5967387faee372e7]: Commencement: Reg. 5 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-cd417fb06c8b388d5967387faee372e7]: Commencement: Reg. 5 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
 [^f00021]: Footnote: [S.I. 2011/1197](https://www.legislation.gov.uk/uksi/2011/1197), amended by [S.I. 2018/1037](https://www.legislation.gov.uk/uksi/2018/1037), [2019/1488](https://www.legislation.gov.uk/uksi/2019/1488), [2020/1462](https://www.legislation.gov.uk/uksi/2020/1462) and [2021/809](https://www.legislation.gov.uk/uksi/2021/809); there are other amending instruments but none is relevant.
 
-[^key-678d85021a185576beefa111b3e2196f]: Commencement: Reg. 6 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-678d85021a185576beefa111b3e2196f]: Commencement: Reg. 6 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
 [^f00022]: Footnote: [S.S.I. 2012/177](https://www.legislation.gov.uk/ssi/2012/177), amended by [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391), [2019/5](https://www.legislation.gov.uk/ssi/2019/5), [71](https://www.legislation.gov.uk/ssi/2019/71) and [412](https://www.legislation.gov.uk/ssi/2019/412), and [2020/458](https://www.legislation.gov.uk/ssi/2020/458); there are other amending instruments but none is relevant.
 
-[^key-200e025eb2a054c938d32c57e375092d]: Commencement: Reg. 7 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-200e025eb2a054c938d32c57e375092d]: Commencement: Reg. 7 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
 [^f00023]: Footnote: [EUR 2005/183](https://www.legislation.gov.uk/european/regulation/2005/0183), amended by [S.I. 2019/654](https://www.legislation.gov.uk/uksi/2019/654) and [2020/1504](https://www.legislation.gov.uk/uksi/2020/1504).
 
@@ -2567,9 +2567,9 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00025]: Footnote: [EUR 2016/1012](https://www.legislation.gov.uk/european/regulation/2016/1012), amended by [S.I. 2019/117](https://www.legislation.gov.uk/uksi/2019/117) and [588](https://www.legislation.gov.uk/uksi/2019/588), and [2020/1388](https://www.legislation.gov.uk/uksi/2020/1388).
 
-[^key-9091daefc451c6daa46f35f9cff2f1f8]: Commencement: Reg. 8 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-9091daefc451c6daa46f35f9cff2f1f8]: Commencement: Reg. 8 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
-[^key-db7880049037dd25d9494c6476433eff]: Commencement: Reg. 9 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-db7880049037dd25d9494c6476433eff]: Commencement: Reg. 9 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
 [^f00026]: Footnote: See section 27 of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10).
 
@@ -2577,9 +2577,9 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00028]: Footnote: “**Enactment**” has the meaning given by the parent act, the European Union Withdrawal Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16). Note that “**enactment**” does not include an Act of Parliament.
 
-[^key-8128e4efd9926280f3609acee1799321]: Commencement: Reg. 10 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-8128e4efd9926280f3609acee1799321]: Commencement: Reg. 10 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
-[^key-1fd5369dd4a3b5493e55cd96e01e416f]: Commencement: Reg. 11 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-1fd5369dd4a3b5493e55cd96e01e416f]: Commencement: Reg. 11 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
 [^f00029]: Footnote: OJ L 316, 1.12.2001, p. 5.
 
@@ -2631,7 +2631,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00053]: Footnote: The World Assembly is the authority for WOAH and comprises of 182 delegates from each Member country of WOAH. For more information on the World Assembly see here: https://www.woah.org/en/who-we-are/structure/world-assembly/. Further details on the procedure for designation of the reference laboratories can be found here: https://www.woah.org/en/what-we-offer/expertise-network/reference-laboratories/#ui-id-2.
 
-[^key-54a101d766265232a6621fe90bfff96e]: Commencement: Reg. 12 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-54a101d766265232a6621fe90bfff96e]: Commencement: Reg. 12 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
 [^f00054]: Footnote: [EUR 2014/652](https://www.legislation.gov.uk/european/regulation/2014/0652), as amended by [S.I. 2018/1410](https://www.legislation.gov.uk/uksi/2018/1410) and [2020/1388](https://www.legislation.gov.uk/uksi/2020/1388).
 
@@ -2643,19 +2643,19 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00058]: Footnote: The European Pharmacopoeia is set of legally binding reference standards for the quality control of medicines adopted in accordance with the Convention on the Elaboration of a European Pharmacopoeia. It is available online or in print version for a subscription fee (see https://www.edqm.eu/en/european-pharmacopoeia for links to the subscription services).
 
-[^key-1da1b164680c3a321ea111fd836b1176]: Commencement: Reg. 13 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-1da1b164680c3a321ea111fd836b1176]: Commencement: Reg. 13 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
 [^f00059]: Footnote: The Terrestrial Animal Health Code 2021 is freely accessible online (https://www.woah.org/en/what-we-do/standards/codes-and-manuals/#ui-id-1) or available to order in hard copy from the WOAH online bookshop (at https://www.woah.org/en/ebookshop/). The WOAH’s address is 12, rue de Prony, 75017 Paris, France. A hard copy version is also available to view on request from the Virology Department at the offices of the Animal and Plant Health Agency, Weybridge, Woodham Lane, New Haw, Addlestone. Surrey. KT15 3NB.
 
-[^key-e11cb43647c3822ff5d5f26633a1c75a]: Commencement: Reg. 14 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-e11cb43647c3822ff5d5f26633a1c75a]: Commencement: Reg. 14 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
-[^key-64af6ff221c4d2a75cb0dffc760dbdb7]: Commencement: Reg. 15 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-64af6ff221c4d2a75cb0dffc760dbdb7]: Commencement: Reg. 15 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
 [^f00060]: Footnote: The Manual of Standards for Diagnostic Tests and Vaccines for Terrestrial Animals 2021 is freely accessible online (https://www.woah.org/en/what-we-do/standards/codes-and-manuals/#ui-id-2 ) or available to order in hard copy from the WOAH online bookshop (at https://www.woah.org/en/ebookshop/). The WOAH’s address is 12, rue de Prony, 75017 Paris, France. A hard copy version is also available to view on request from the Virology Department at the offices of the Animal and Plant Health Agency, Weybridge, Woodham Lane, New Haw, Addlestone. Surrey. KT15 3NB.
 
-[^key-9b2e42f2cbddf7b381ba4a1e08e5cedd]: Commencement: Reg. 16 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-9b2e42f2cbddf7b381ba4a1e08e5cedd]: Commencement: Reg. 16 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
-[^key-89d0e48776d7d19d538619f01b171efd]: Commencement: Reg. 17 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-89d0e48776d7d19d538619f01b171efd]: Commencement: Reg. 17 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
 [^f00061]: Footnote: [EUR 1997/338](https://www.legislation.gov.uk/european/regulation/1997/0338), as amended by [S.I. 2020/1395](https://www.legislation.gov.uk/uksi/2020/1395), [2021/54](https://www.legislation.gov.uk/uksi/2021/54) and [645](https://www.legislation.gov.uk/uksi/2021/645).
 
@@ -2669,7 +2669,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00066]: Footnote: [S.I. 1974/2211](https://www.legislation.gov.uk/uksi/1974/2211), as amended by [S.I. 1997/361](https://www.legislation.gov.uk/uksi/1997/361), [1984/1182](https://www.legislation.gov.uk/uksi/1984/1182), [1986/2062](https://www.legislation.gov.uk/uksi/1986/2062), [1990/2371](https://www.legislation.gov.uk/uksi/1990/2371), [1993/1813](https://www.legislation.gov.uk/uksi/1993/1813), [1994/1405](https://www.legislation.gov.uk/uksi/1994/1405) and [1716](https://www.legislation.gov.uk/uksi/1994/1716), [1995](https://www.legislation.gov.uk/uksi/1994/1995), [2922](https://www.legislation.gov.uk/uksi/1994/2922), [1999/3443](https://www.legislation.gov.uk/uksi/1999/3443), [2000/1298](https://www.legislation.gov.uk/uksi/2000/1298), [2001/6](https://www.legislation.gov.uk/uksi/2001/6), [2002/882](https://www.legislation.gov.uk/uksi/2002/882) and [3135](https://www.legislation.gov.uk/uksi/2002/3135), [2004/828](https://www.legislation.gov.uk/uksi/2004/828), [2004/2364](https://www.legislation.gov.uk/uksi/2004/2364), [2011/2883](https://www.legislation.gov.uk/uksi/2011/2883), [2014/3158](https://www.legislation.gov.uk/uksi/2014/3158), [2019/526](https://www.legislation.gov.uk/uksi/2019/526) and [782](https://www.legislation.gov.uk/uksi/2019/782), [2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), and [S.S.I. 2000/216](https://www.legislation.gov.uk/ssi/2000/216), [2003/229](https://www.legislation.gov.uk/ssi/2003/229), [2011/46](https://www.legislation.gov.uk/ssi/2011/46), [2012/177](https://www.legislation.gov.uk/ssi/2012/177); there are other amending instruments but none are relevant.
 
-[^key-78dd835896cfca2ebeac02ee2342fac0]: Textual amendment: Words in [reg. 17(19)(c)(i)(bb)](https://www.legislation.gov.uk/uksi/2022/1322/regulation/17/19/c/i/bb) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 54](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/54)
+[^c-78dd835896cfca2ebeac02ee2342fac0]: Textual amendment: Words in [reg. 17(19)(c)(i)(bb)](https://www.legislation.gov.uk/uksi/2022/1322/regulation/17/19/c/i/bb) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 54](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/54)
 
 [^f00067]: Footnote: OJ L 268, 14.9.1992, p. 54.
 
@@ -2677,11 +2677,11 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00069]: Footnote: [1986 c. 14](https://www.legislation.gov.uk/ukpga/1986/14).
 
-[^key-58d97a04524527fee4bcfc884b58edb4]: Commencement: Reg. 18 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-58d97a04524527fee4bcfc884b58edb4]: Commencement: Reg. 18 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
 [^f00070]: Footnote: [EUR 2008/798](https://www.legislation.gov.uk/european/regulation/2008/0798), as amended by [S.I. 2020/1462](https://www.legislation.gov.uk/uksi/2020/1462) and [1631](https://www.legislation.gov.uk/uksi/2020/1631), [2021/211](https://www.legislation.gov.uk/uksi/2021/211) and [1454](https://www.legislation.gov.uk/uksi/2021/1454), and [2022/735](https://www.legislation.gov.uk/uksi/2022/735).
 
-[^key-07effaeeba3a61cd01c1fd7ca707b1c4]: Commencement: Reg. 19 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-07effaeeba3a61cd01c1fd7ca707b1c4]: Commencement: Reg. 19 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
 [^f00071]: Footnote: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).
 
@@ -2689,9 +2689,9 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00073]: Footnote: [EUR 2019/628](https://www.legislation.gov.uk/european/regulation/2019/0628), as amended by [S.I. 2020/1631](https://www.legislation.gov.uk/uksi/2020/1631).
 
-[^key-83f172d4bef2f732bdbd9cf798b3cf66]: Commencement: Reg. 20 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-83f172d4bef2f732bdbd9cf798b3cf66]: Commencement: Reg. 20 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
-[^key-2a1c03f4fae2af220e6fc453b17987e3]: Commencement: Reg. 21 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-2a1c03f4fae2af220e6fc453b17987e3]: Commencement: Reg. 21 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
 [^f00074]: Footnote: [EUR 2015/262](https://www.legislation.gov.uk/european/regulation/2015/0262), as amended by [S.I. 2019/591](https://www.legislation.gov.uk/uksi/2019/591) and [2020/1388](https://www.legislation.gov.uk/uksi/2020/1388).
 
@@ -2701,28 +2701,28 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00077]: Footnote: [S.S.I. 2012/178](https://www.legislation.gov.uk/ssi/2012/178), as amended by [S.S.I. 2019/71](https://www.legislation.gov.uk/ssi/2019/71).
 
-[^key-46b007c4f4925aa4c2c58099dd9dc127]: Textual amendment: [Reg. 21(8)(d)](https://www.legislation.gov.uk/uksi/2022/1322/regulation/21/8/d)[(e)](https://www.legislation.gov.uk/uksi/2022/1322/regulation/21/8/e) inserted (4.2.2023) by [The Plant Health and Trade in Animals and Related Products (Amendment) Regulations 2022 (S.I. 2022/1367)](https://www.legislation.gov.uk/uksi/2022/1367), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1367/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2022/1367/regulation/8/2)
+[^c-46b007c4f4925aa4c2c58099dd9dc127]: Textual amendment: [Reg. 21(8)(d)](https://www.legislation.gov.uk/uksi/2022/1322/regulation/21/8/d)[(e)](https://www.legislation.gov.uk/uksi/2022/1322/regulation/21/8/e) inserted (4.2.2023) by [The Plant Health and Trade in Animals and Related Products (Amendment) Regulations 2022 (S.I. 2022/1367)](https://www.legislation.gov.uk/uksi/2022/1367), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1367/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2022/1367/regulation/8/2)
 
-[^key-1175a04ea343c21541f5d510ef40e10d]: Commencement: Reg. 22 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-1175a04ea343c21541f5d510ef40e10d]: Commencement: Reg. 22 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
-[^key-46798bea8d8c932564da42d29a21908e]: Commencement: Sch. para. 1 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-46798bea8d8c932564da42d29a21908e]: Commencement: Sch. para. 1 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
-[^key-95bf8c5a13249a76c7aef52ad0886f97]: Commencement: Sch. para. 2 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-95bf8c5a13249a76c7aef52ad0886f97]: Commencement: Sch. para. 2 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
-[^key-4c5dadd3734b6dba7339f051673d8f7c]: Commencement: Sch. para. 3 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-4c5dadd3734b6dba7339f051673d8f7c]: Commencement: Sch. para. 3 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
-[^key-7d8b36bb0912ac7195bc8c7656c58417]: Commencement: Sch. para. 4 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-7d8b36bb0912ac7195bc8c7656c58417]: Commencement: Sch. para. 4 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
-[^key-b1cddbf26b7eb574ed5908c7e3f3e1ee]: Commencement: Sch. para. 5 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-b1cddbf26b7eb574ed5908c7e3f3e1ee]: Commencement: Sch. para. 5 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
-[^key-a43e5d5c15703b81d403da3460430ea3]: Commencement: Sch. para. 6 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-a43e5d5c15703b81d403da3460430ea3]: Commencement: Sch. para. 6 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
-[^key-9d632399887b996d159e657cfcf6743b]: Commencement: Sch. para. 7 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-9d632399887b996d159e657cfcf6743b]: Commencement: Sch. para. 7 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
-[^key-be66a8ec63d3b3535e86cb2c7ec2c6e7]: Commencement: Sch. para. 8 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-be66a8ec63d3b3535e86cb2c7ec2c6e7]: Commencement: Sch. para. 8 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
-[^key-5c69fd7052f09c301cc0ab1082dd1de1]: Commencement: Sch. para. 9 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-5c69fd7052f09c301cc0ab1082dd1de1]: Commencement: Sch. para. 9 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
-[^key-aedbbc3ae7dd98afb93be32a71da29a3]: Commencement: Sch. para. 10 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-aedbbc3ae7dd98afb93be32a71da29a3]: Commencement: Sch. para. 10 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
 
-[^key-b8224378d6b38cde6c87caa15376ab4b]: Commencement: Sch. para. 11 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)
+[^c-b8224378d6b38cde6c87caa15376ab4b]: Commencement: Sch. para. 11 in force at 13.12.2022, see [reg. 2](https://www.legislation.gov.uk/uksi/2022/1322/regulation/2)

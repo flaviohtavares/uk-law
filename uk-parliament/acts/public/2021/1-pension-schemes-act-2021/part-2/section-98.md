@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Powers to extend definition of qualifying schemes[^c24493571][^key-182645140f202a2c8eac6e2450898b4b]
+## 98. Powers to extend definition of qualifying schemes[^c24493571][^c-182645140f202a2c8eac6e2450898b4b]
 
 *Extent: N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 - (a) modifying or amending this Part;
 - (b) making consequential modifications or amendments of any other statutory provision.
 
-(4A)[^key-94b84dfbb40682082bcd2ce94bf8692b] Where regulations under this section make provision in relation to an unconnected multiple employer scheme that corresponds or is similar to provision contained in regulations under another provision of this Part made in relation to a single or connected employer scheme, the regulations under this section are to be treated for the purposes of this Part as having been made under that other provision of this Part to the extent that they contain such provision.
+(4A)[^c-94b84dfbb40682082bcd2ce94bf8692b] Where regulations under this section make provision in relation to an unconnected multiple employer scheme that corresponds or is similar to provision contained in regulations under another provision of this Part made in relation to a single or connected employer scheme, the regulations under this section are to be treated for the purposes of this Part as having been made under that other provision of this Part to the extent that they contain such provision.
 
 (5) Regulations under this section are subject to confirmatory procedure.
 
@@ -49,6 +49,6 @@ summary: ''
 
 [^c24493571]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2021/1/section/98) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-182645140f202a2c8eac6e2450898b4b]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2021/1/section/98) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-182645140f202a2c8eac6e2450898b4b]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2021/1/section/98) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
 
-[^key-94b84dfbb40682082bcd2ce94bf8692b]: Textual amendment: [S. 98(4A)](https://www.legislation.gov.uk/ukpga/2021/1/section/98/4A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [20](https://www.legislation.gov.uk/nisr/2026/151/regulation/20)
+[^c-94b84dfbb40682082bcd2ce94bf8692b]: Textual amendment: [S. 98(4A)](https://www.legislation.gov.uk/ukpga/2021/1/section/98/4A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [20](https://www.legislation.gov.uk/nisr/2026/151/regulation/20)

@@ -40,18 +40,18 @@ Section 106.
 
 #### Increase of unemployability supplement
 
-**3.**[^key-cb8f0e732d7bcb95ce1fde567463071e] (1) Subject to the following provisions of this paragraph, if on the qualifying date the beneficiary was—
+**3.**[^c-cb8f0e732d7bcb95ce1fde567463071e] (1) Subject to the following provisions of this paragraph, if on the qualifying date the beneficiary was—
 
 - (a) a man under the age of 60, or
 - (b) a woman under the age of 55,
 
 the weekly rate of unemployability supplement shall be increased by the appropriate amount specified in Schedule 4, Part V, paragraph 6.
 
-(2) Where for any period the beneficiary is entitled to a Category A or Category B retirement pension [^key-3d0398c363f753e10b1347c68e0456bd]... and the weekly rate of the pension includes an additional pension such as is mentioned in section 44(3)(b) above, for that period the relevant amount shall be deducted from the amount that would otherwise be the increase under this paragraph and the beneficiary shall be entitled to an increase only if there is a balance after that deduction and, if there is such a balance, only to an amount equal to it.
+(2) Where for any period the beneficiary is entitled to a Category A or Category B retirement pension [^c-3d0398c363f753e10b1347c68e0456bd]... and the weekly rate of the pension includes an additional pension such as is mentioned in section 44(3)(b) above, for that period the relevant amount shall be deducted from the amount that would otherwise be the increase under this paragraph and the beneficiary shall be entitled to an increase only if there is a balance after that deduction and, if there is such a balance, only to an amount equal to it.
 
-(3) In this paragraph “**the relevant amount**” means an amount equal to the additional pension reduced by the amount of any reduction in the weekly rate of the retirement [^key-bafab3efe385ce2c47a7030b30bfc1f9]... made by virtue of section 46[^key-7fcb84202ccf84b135cdb1ddc7fdc120] of the Pensions Act.
+(3) In this paragraph “**the relevant amount**” means an amount equal to the additional pension reduced by the amount of any reduction in the weekly rate of the retirement [^c-bafab3efe385ce2c47a7030b30bfc1f9]... made by virtue of section 46[^c-7fcb84202ccf84b135cdb1ddc7fdc120] of the Pensions Act.
 
-(3A)[^key-904b001cba876316e2fc17e53ed4646f] In sub-paragraphs (2) and (3) above references to additional pension do not include any amount of additional pension attributable to units of additional pension.
+(3A)[^c-904b001cba876316e2fc17e53ed4646f] In sub-paragraphs (2) and (3) above references to additional pension do not include any amount of additional pension attributable to units of additional pension.
 
 (3B) For units of additional pension, see section 14A.
 
@@ -70,32 +70,32 @@ the weekly rate of unemployability supplement shall be increased by the appropri
 
 (9) The Secretary of State may by regulations provide that sub-paragraph (8) above shall have effect as if for the references to 8 weeks there were substituted references to a larger number of weeks specified in the regulations.
 
-(10) In this paragraph “**period of interruption of employment**” has the same meaning as a jobseeking period and any period linked to such a period has for the purposes of the Jobseekers Act 1995.[^key-9270899de984b70bad17f6619d2303c3]
+(10) In this paragraph “**period of interruption of employment**” has the same meaning as a jobseeking period and any period linked to such a period has for the purposes of the Jobseekers Act 1995.[^c-9270899de984b70bad17f6619d2303c3]
 
-(11) The provisions of this paragraph are subject to section 46(6) and (7) (entitlement to guaranteed minimum pensions and increases of unemployability supplement)[^key-5b95862da2a3cf5c45429b9c60492099].
+(11) The provisions of this paragraph are subject to section 46(6) and (7) (entitlement to guaranteed minimum pensions and increases of unemployability supplement)[^c-5b95862da2a3cf5c45429b9c60492099].
 
 #### Increase for beneficiary’s dependent children and qualifying young persons[^M_F_537ce734-7873-48b4-9725-8740d2c2faaa]
 
-**4.** (1)[^key-7e6fbc2c4985fb780a9436d454d0001f] Subject to the provisions of this paragraph and paragraph 5 below, the weekly rate of a disablement pension where the beneficiary is entitled to an unemployability supplement shall be increased for any period during which the beneficiary is entitled to child benefit in respect of one or more children or qualifying young persons[^key-e8f8b7ddc63f62f50b4f4fdf7600c9fb].
+**4.** (1)[^c-7e6fbc2c4985fb780a9436d454d0001f] Subject to the provisions of this paragraph and paragraph 5 below, the weekly rate of a disablement pension where the beneficiary is entitled to an unemployability supplement shall be increased for any period during which the beneficiary is entitled to child benefit in respect of one or more children or qualifying young persons[^c-e8f8b7ddc63f62f50b4f4fdf7600c9fb].
 
 (2) The amount of the increase shall be as specified in Schedule 4, Part V, paragraph 7.
 
 (3) In any case where—
 
-- (a)[^key-e59232dc8c471975cd4355bd4c7ba53f] a beneficiary is one of two persons who are—
-  - (i) spouses or civil partners residing together, or *(Extent: E+W)*[^key-30634b45abf0d2f558e3cb8ed8c6935a]
+- (a)[^c-e59232dc8c471975cd4355bd4c7ba53f] a beneficiary is one of two persons who are—
+  - (i) spouses or civil partners residing together, or *(Extent: E+W)*[^c-30634b45abf0d2f558e3cb8ed8c6935a]
 
   *Extent: E+W*
 
-  - (ii)[^key-ca8b86bba741867feef11a539b2600c3] two people who are not married to, or civil partners of, each other but are living together as if they were a married couple or civil partners[^key-888f28570d3d92cb1d91d674162e6550], and
+  - (ii)[^c-ca8b86bba741867feef11a539b2600c3] two people who are not married to, or civil partners of, each other but are living together as if they were a married couple or civil partners[^c-888f28570d3d92cb1d91d674162e6550], and
 - (b) the other person had earnings in any week,
 
 the beneficiary’s right to payment of increases for the following week under this paragraph shall be determined in accordance with sub-paragraph (4) below.
 
 (4) No such increase shall be payable—
 
-- (a) in respect of the first child or qualifying young person[^key-de103b1d48fb9ddf0e4e580853f90943] where the earnings were £215[^key-b4c39bb9f53f0832dbc8d1e4216b79ad] or more; and
-- (b) in respect of a further child or qualifying young person for each complete £28[^key-b0469ce236fe2c74269760ed12c0fa1a] by which the earnings exceeded £215.
+- (a) in respect of the first child or qualifying young person[^c-de103b1d48fb9ddf0e4e580853f90943] where the earnings were £215[^c-b4c39bb9f53f0832dbc8d1e4216b79ad] or more; and
+- (b) in respect of a further child or qualifying young person for each complete £28[^c-b0469ce236fe2c74269760ed12c0fa1a] by which the earnings exceeded £215.
 
 (5) The Secretary of State may by order substitute larger amounts for the amounts for the time being specified in sub-paragraph (4) above.
 
@@ -103,7 +103,7 @@ the beneficiary’s right to payment of increases for the following week under t
 
 #### Additional provisions as to increase under paragraph 4
 
-**5.** (1) An increase under paragraph 4 above of any amount in respect of a particular child or qualifying young person[^key-17c542a62cfa347c65a61642416e445e] shall for any period be payable only if during that period one or other of the following conditions is satisfied with respect to the child or qualifying young person—
+**5.** (1) An increase under paragraph 4 above of any amount in respect of a particular child or qualifying young person[^c-17c542a62cfa347c65a61642416e445e] shall for any period be payable only if during that period one or other of the following conditions is satisfied with respect to the child or qualifying young person—
 
 - (a) the beneficiary would be treated for the purposes of Part IX of this Act as having the child or qualifying young person living with him; or
 - (b) the requisite contributions are being made to the cost of providing for the child or qualifying young person.
@@ -112,34 +112,34 @@ the beneficiary’s right to payment of increases for the following week under t
 
 - (a) such contributions are being made at a weekly rate not less than the amount referred to in that sub-paragraph—
   - (i) by the beneficiary, or
-  - (ii) where the beneficiary is one of two spouses or civil partners[^key-6f5b9774ef7bccb9a37cf7c6e8539713] residing together, by them together; and
+  - (ii) where the beneficiary is one of two spouses or civil partners[^c-6f5b9774ef7bccb9a37cf7c6e8539713] residing together, by them together; and
 - (b) except in prescribed cases, the contributions are over and above those required for the purposes of satisfying section 143(1)(b) above.
 
 #### Increase for adult dependants
 
-**6.** (1)[^key-7ec8b53b495697d7225470a65f1b87bb] The weekly rate of a disablement pension where the beneficiary is entitled to an unemployability supplement shall be increased under this paragraph for any period during which—
+**6.** (1)[^c-7ec8b53b495697d7225470a65f1b87bb] The weekly rate of a disablement pension where the beneficiary is entitled to an unemployability supplement shall be increased under this paragraph for any period during which—
 
 - (a) the beneficiary is—
-  - (i) residing with his spouse or civil partner[^key-e1e4ec8ee165c35022bd11036b813170], or
+  - (i) residing with his spouse or civil partner[^c-e1e4ec8ee165c35022bd11036b813170], or
   - (ii) contributing to the maintenance of his spouse or civil partner at the requisite rate; or
 - (b) a person—
-  - (i) who is neither the spouse or civil partner of the beneficiary nor a child or qualifying young person[^key-65127d46c9cc183ce88a4b20f88333cb], and
+  - (i) who is neither the spouse or civil partner of the beneficiary nor a child or qualifying young person[^c-65127d46c9cc183ce88a4b20f88333cb], and
   - (ii) in relation to whom such further conditions as may be prescribed are fulfilled,
 
-  has the care of one or more children or qualifying young persons[^key-38588de0f13ad5b9cfe563103b0a4052] in respect of whom the beneficiary is entitled to child benefit.
+  has the care of one or more children or qualifying young persons[^c-38588de0f13ad5b9cfe563103b0a4052] in respect of whom the beneficiary is entitled to child benefit.
 
 (2) The amount of the increase under this paragraph shall be that specified in Schedule 4, Part V, paragraph 8 and the requisite rate for the purposes of sub-paragraph (1)(a) above is a weekly rate not less than that amount.
 
 (3) Regulations may provide that, for any period during which—
 
-- (a) the beneficiary is contributing to the maintenance of his or her spouse or civil partner[^key-e0178483ddac72aa2175259c27393427] at the requisite rate, and
+- (a) the beneficiary is contributing to the maintenance of his or her spouse or civil partner[^c-e0178483ddac72aa2175259c27393427] at the requisite rate, and
 - (b) the weekly earnings of the spouse or civil partner exceed such amount as may be prescribed,
 
 there shall be no increase of benefit under this paragraph.
 
-(4) Regulations may provide that, for any period during which the beneficiary is residing with his or her spouse or civil partner[^key-7926db6d7133958ee0e6e750d694602b] and the spouse or civil partner has earnings—
+(4) Regulations may provide that, for any period during which the beneficiary is residing with his or her spouse or civil partner[^c-7926db6d7133958ee0e6e750d694602b] and the spouse or civil partner has earnings—
 
-- (a) the increase of benefit under this paragraph shall be subject to a reduction in respect of the spouse’s or civil partner's[^key-8b26da0f5342d6771dc415d759a289ff] earnings; or
+- (a) the increase of benefit under this paragraph shall be subject to a reduction in respect of the spouse’s or civil partner's[^c-8b26da0f5342d6771dc415d759a289ff] earnings; or
 - (b) there shall be no increase of benefit under this paragraph.
 
 (5) Regulations may, in a case within sub-paragraph (1)(b) above in which the person there referred to is residing with the beneficiary and fulfils such further conditions as may be prescribed, authorise an increase of benefit under this paragraph, but subject, taking account of the earnings of the person residing with the beneficiary, other than such of that person’s earnings from employment by the beneficiary as may be prescribed, to provisions comparable to those that may be made by virtue of sub-paragraph (4) above.
@@ -202,7 +202,7 @@ then, if and so long as the beneficiary would have continued to be entitled to t
 
   or is, and has at all times since the end of the period of 90 days referred to in section 103(6) above been, incapable of following that occupation or any such employment;
 
-but a person shall not be entitled to reduced earnings allowance to the extent that the [^c21371181]relevant loss of faculty results from an accident happening on or after 1st October 1990 (the day on which section 3 of the Social Security Act 1990 came into force) and a person shall not be entitled to reduced earnings allowance—[^key-c55d491e05f979ec8ff4092f6e44e72a]
+but a person shall not be entitled to reduced earnings allowance to the extent that the [^c21371181]relevant loss of faculty results from an accident happening on or after 1st October 1990 (the day on which section 3 of the Social Security Act 1990 came into force) and a person shall not be entitled to reduced earnings allowance—[^c-c55d491e05f979ec8ff4092f6e44e72a]
 
 - (i) in relation to a disease prescribed on or after 10th October 1994 under section 108(2) above; or
 - (ii) in relation to a disease prescribed before 10th October 1994 whose prescription is extended on or after that date under section 108(2) above but only in so far as the prescription has been so extended.
@@ -307,7 +307,7 @@ shall cease to be entitled to reduced earnings allowance as from the day on whic
 
 (3) Retirement allowance shall be payable to him (subject to any enactment contained in Part V or VI of this Act or in the Administration Act and to any regulations made under any such enactment) for life.
 
-(4)[^key-8ccd68b6128719825879545b500d5d44][^key-6118f01c4d7e49a43eb2a723e6639f29] Subject to sub-paragraph (6) below, the weekly rate of a beneficiary’s retirement allowance shall be—
+(4)[^c-8ccd68b6128719825879545b500d5d44][^c-6118f01c4d7e49a43eb2a723e6639f29] Subject to sub-paragraph (6) below, the weekly rate of a beneficiary’s retirement allowance shall be—
 
 - (a) 25 per cent. of the weekly rate at which he was last entitled to reduced earnings allowance; or
 - (b) 10 per cent. of the maximum rate of a disablement pension,
@@ -344,7 +344,7 @@ the beneficiary shall be entitled to retirement allowance at a rate equal to the
   - (i) the level or frequency of his earnings during a prescribed period; or
   - (ii) the number of hours for which he works during a prescribed period calculated in a prescribed manner.
 
-(10)[^key-2e76eeaa23563cf5b02cbe1472625289] “**Day of interruption of employment**” means a day which forms part of—
+(10)[^c-2e76eeaa23563cf5b02cbe1472625289] “**Day of interruption of employment**” means a day which forms part of—
 
 - (a) a jobseeking period (as defined by the Jobseekers Act 1995), or
 - (b) a linked period (as defined by that Act).
@@ -357,7 +357,7 @@ the beneficiary shall be entitled to retirement allowance at a rate equal to the
 
 **14.** (1) This Part of this Schedule only has effect in relation to deaths before 11th April 1988.
 
-(1A)[^key-ea8b307880406aeb16680a51e2277fc9] No claim may be made for industrial death benefit after the coming into force of this sub-paragraph.
+(1A)[^c-ea8b307880406aeb16680a51e2277fc9] No claim may be made for industrial death benefit after the coming into force of this sub-paragraph.
 
 (2) In this Part of this Schedule “**the deceased**” means the person in respect of whose death industrial death benefit is claimed or payable.
 
@@ -368,9 +368,9 @@ the beneficiary shall be entitled to retirement allowance at a rate equal to the
 - (a) she was residing with him; or
 - (b) she was receiving or entitled to receive, or would but for the relevant accident have been receiving or entitled to receive, from him periodical payments for her maintenance of not less than the prescribed amount.
 
-(2) In the case of a widow, death benefit shall be a pension commencing from the death of the deceased and payable, at the weekly rate for the time being applicable under paragraph 16 below for life or until she remarries or forms a civil partnership[^key-39121c89455b7c73e78aca909c5ab68d].
+(2) In the case of a widow, death benefit shall be a pension commencing from the death of the deceased and payable, at the weekly rate for the time being applicable under paragraph 16 below for life or until she remarries or forms a civil partnership[^c-39121c89455b7c73e78aca909c5ab68d].
 
-(3) A pension under this paragraph shall not be payable for any period during which the beneficiary is living as a married couple with a person whom she is not married to or in a civil partnership with.[^key-241a7eebf833e695745007a09a4d8d93]
+(3) A pension under this paragraph shall not be payable for any period during which the beneficiary is living as a married couple with a person whom she is not married to or in a civil partnership with.[^c-241a7eebf833e695745007a09a4d8d93]
 
 (4) In this paragraph—
 
@@ -383,7 +383,7 @@ the beneficiary shall be entitled to retirement allowance at a rate equal to the
 
 (2) The weekly rate of the pension shall, after the end of that period, be the higher permanent rate specified in that paragraph—
 
-- (a) for any period for which the widow is entitled, or is treated by regulations as entitled, to an allowance for children or qualifying young persons[^key-ca0ddc7a1851d51fa52b7f3719770c9d] under paragraph 18 below; or
+- (a) for any period for which the widow is entitled, or is treated by regulations as entitled, to an allowance for children or qualifying young persons[^c-ca0ddc7a1851d51fa52b7f3719770c9d] under paragraph 18 below; or
 - (b) where the widow was over the age of 50 at the deceased’s death or was over the age of 40 at the end of the period for which she was entitled to such an allowance; or
 - (c) where the widow at the deceased’s death was permanently incapable of self-support; or
 - (d) while the widow is pregnant by the deceased.
@@ -401,11 +401,11 @@ the beneficiary shall be entitled to retirement allowance at a rate equal to the
 
 #### Deceased's family[^M_F_43977534-a872-4ce6-a3f2-fcb5f12287dd]
 
-**18.** (1) Subject to paragraph 19 below, where at his death the deceased was entitled to child benefit in respect of one or more children or qualifying young persons[^key-5f8901f645912897f9b7766fb3afd46f], then, for any period for which—
+**18.** (1) Subject to paragraph 19 below, where at his death the deceased was entitled to child benefit in respect of one or more children or qualifying young persons[^c-5f8901f645912897f9b7766fb3afd46f], then, for any period for which—
 
 - (a) the widow of the deceased is entitled—
   - (i) to death benefit (other than a gratuity) under paragraphs 15 and 16 above; and
-  - (ii)[^key-5ed591bd52f948ce573f0adee9a0e2ea] to child benefit in respect of that child or qualifying young person[^key-ddf3c631edaba219f7e11ba94272f430] or one or more of those children or qualifying young persons[^key-56e81f98a23d1a116e6221f97f3da21c]; or
+  - (ii)[^c-5ed591bd52f948ce573f0adee9a0e2ea] to child benefit in respect of that child or qualifying young person[^c-ddf3c631edaba219f7e11ba94272f430] or one or more of those children or qualifying young persons[^c-56e81f98a23d1a116e6221f97f3da21c]; or
 - (b) such other person as may be prescribed is entitled to child benefit in respect of that child or qualifying young person or one or more of those children or qualifying young persons,
 
 the widow or, as the case may be, the person so prescribed shall be entitled in respect of that child or qualifying young person, or in respect of each respectively of those children or qualifying young persons, to death benefit by way of an allowance at the weekly rate specified in Schedule 4, Part V, paragraph 12.
@@ -416,7 +416,7 @@ the widow or, as the case may be, the person so prescribed shall be entitled in 
 
 **19.** Where two or more persons satisfy the conditions, in respect of the same death, for receipt of an allowance or allowances under paragraph 18 above for any period—
 
-- (a) not more than one of those persons shall be entitled for that period to such an allowance in respect of the same child or qualifying young person[^key-d085007377e190585f13022f910e91ee];
+- (a) not more than one of those persons shall be entitled for that period to such an allowance in respect of the same child or qualifying young person[^c-d085007377e190585f13022f910e91ee];
 - (b) where the deceased leaves a widow or widower, then for any period for which she or he is entitled to death benefit as the deceased’s widow or widower and satisfies the conditions for receipt of such an allowance in respect of a child or qualifying young person, she or he shall be entitled to the allowance in respect of that child;
 - (c) subject to sub-paragraph (b) above, regulations may make provision as to the priority in any prescribed circumstances of two or more persons satisfying the said conditions.
 
@@ -448,90 +448,90 @@ then, subject to sub-paragraph (2) below, his death shall be treated, for the pu
 
 ## Annotations
 
-[^key-cb8f0e732d7bcb95ce1fde567463071e]: Modification: Sch. 7 para. 3 modified (7.2.1994) by [Pension Schemes Act 1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48), [s. 46(6)](https://www.legislation.gov.uk/ukpga/1993/48/section/46/6)[(7)](https://www.legislation.gov.uk/ukpga/1993/48/section/46/7), [193(2)](https://www.legislation.gov.uk/ukpga/1993/48/section/193/2) (with [s. 189](https://www.legislation.gov.uk/ukpga/1993/48/section/189), [Schs. 6](https://www.legislation.gov.uk/ukpga/1993/48/schedule/section/6), [9](https://www.legislation.gov.uk/ukpga/1993/48/schedule/section/9)); [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86)
+[^c-cb8f0e732d7bcb95ce1fde567463071e]: Modification: Sch. 7 para. 3 modified (7.2.1994) by [Pension Schemes Act 1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48), [s. 46(6)](https://www.legislation.gov.uk/ukpga/1993/48/section/46/6)[(7)](https://www.legislation.gov.uk/ukpga/1993/48/section/46/7), [193(2)](https://www.legislation.gov.uk/ukpga/1993/48/section/193/2) (with [s. 189](https://www.legislation.gov.uk/ukpga/1993/48/section/189), [Schs. 6](https://www.legislation.gov.uk/ukpga/1993/48/schedule/section/6), [9](https://www.legislation.gov.uk/ukpga/1993/48/schedule/section/9)); [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86)
 
-[^key-3d0398c363f753e10b1347c68e0456bd]: Textual amendment: Words in Sch. 7 para. 3(3) repealed (13.4.1995) by [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [s. 16(3)](https://www.legislation.gov.uk/ukpga/1994/18/section/16/3), [Sch. 1 para. 41(2)(b)](https://www.legislation.gov.uk/ukpga/1994/18/schedule/1/paragraph/41/2/b), [Sch. 2](https://www.legislation.gov.uk/ukpga/1994/18/schedule/2); [S.I. 1994/2926](https://www.legislation.gov.uk/uksi/1994/2926), [art. 2(4)](https://www.legislation.gov.uk/uksi/1994/2926/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/1994/2926/schedule/part/4)
+[^c-3d0398c363f753e10b1347c68e0456bd]: Textual amendment: Words in Sch. 7 para. 3(3) repealed (13.4.1995) by [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [s. 16(3)](https://www.legislation.gov.uk/ukpga/1994/18/section/16/3), [Sch. 1 para. 41(2)(b)](https://www.legislation.gov.uk/ukpga/1994/18/schedule/1/paragraph/41/2/b), [Sch. 2](https://www.legislation.gov.uk/ukpga/1994/18/schedule/2); [S.I. 1994/2926](https://www.legislation.gov.uk/uksi/1994/2926), [art. 2(4)](https://www.legislation.gov.uk/uksi/1994/2926/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/1994/2926/schedule/part/4)
 
-[^key-bafab3efe385ce2c47a7030b30bfc1f9]: Textual amendment: Words in Sch. 7 para. 3(2) repealed (13.4.1995) by [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [s. 16(3)](https://www.legislation.gov.uk/ukpga/1994/18/section/16/3), [Sch. 1 para. 41(2)(a)](https://www.legislation.gov.uk/ukpga/1994/18/schedule/1/paragraph/41/2/a), [Sch. 2](https://www.legislation.gov.uk/ukpga/1994/18/schedule/2); [S.I. 1994/2926](https://www.legislation.gov.uk/uksi/1994/2926), [art. 2(4)](https://www.legislation.gov.uk/uksi/1994/2926/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/1994/2926/schedule/part/4)
+[^c-bafab3efe385ce2c47a7030b30bfc1f9]: Textual amendment: Words in Sch. 7 para. 3(2) repealed (13.4.1995) by [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [s. 16(3)](https://www.legislation.gov.uk/ukpga/1994/18/section/16/3), [Sch. 1 para. 41(2)(a)](https://www.legislation.gov.uk/ukpga/1994/18/schedule/1/paragraph/41/2/a), [Sch. 2](https://www.legislation.gov.uk/ukpga/1994/18/schedule/2); [S.I. 1994/2926](https://www.legislation.gov.uk/uksi/1994/2926), [art. 2(4)](https://www.legislation.gov.uk/uksi/1994/2926/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/1994/2926/schedule/part/4)
 
-[^key-7fcb84202ccf84b135cdb1ddc7fdc120]: Textual amendment: Words in Sch. 7 para. 3(3) substituted (7.2.1994) by [Pension Schemes Act 1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48), [s. 193(2)](https://www.legislation.gov.uk/ukpga/1993/48/section/193/2), [Sch. 8 para. 43(a)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/43/a) (with [s. 189](https://www.legislation.gov.uk/ukpga/1993/48/section/189), [Schs. 6](https://www.legislation.gov.uk/ukpga/1993/48/schedule/6), [9](https://www.legislation.gov.uk/ukpga/1993/48/schedule/9)); [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86)
+[^c-7fcb84202ccf84b135cdb1ddc7fdc120]: Textual amendment: Words in Sch. 7 para. 3(3) substituted (7.2.1994) by [Pension Schemes Act 1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48), [s. 193(2)](https://www.legislation.gov.uk/ukpga/1993/48/section/193/2), [Sch. 8 para. 43(a)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/43/a) (with [s. 189](https://www.legislation.gov.uk/ukpga/1993/48/section/189), [Schs. 6](https://www.legislation.gov.uk/ukpga/1993/48/schedule/6), [9](https://www.legislation.gov.uk/ukpga/1993/48/schedule/9)); [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86)
 
-[^key-904b001cba876316e2fc17e53ed4646f]: Textual amendment: [Sch. 7 para. 3(3A)](https://www.legislation.gov.uk/ukpga/1992/4/schedule/7/paragraph/3/3A)[(3B)](https://www.legislation.gov.uk/ukpga/1992/4/schedule/7/paragraph/3/3B) inserted (12.10.2015) by [The Pensions Act 2014 (Consequential Amendments) (Units of Additional Pension) Order 2014 (S.I. 2014/3213)](https://www.legislation.gov.uk/uksi/2014/3213), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3213/article/1/2), [3](https://www.legislation.gov.uk/uksi/2014/3213/article/3)
+[^c-904b001cba876316e2fc17e53ed4646f]: Textual amendment: [Sch. 7 para. 3(3A)](https://www.legislation.gov.uk/ukpga/1992/4/schedule/7/paragraph/3/3A)[(3B)](https://www.legislation.gov.uk/ukpga/1992/4/schedule/7/paragraph/3/3B) inserted (12.10.2015) by [The Pensions Act 2014 (Consequential Amendments) (Units of Additional Pension) Order 2014 (S.I. 2014/3213)](https://www.legislation.gov.uk/uksi/2014/3213), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3213/article/1/2), [3](https://www.legislation.gov.uk/uksi/2014/3213/article/3)
 
-[^key-9270899de984b70bad17f6619d2303c3]: Textual amendment: Words in Sch. 7 para. 3(10) substituted (7.10.1996) by [Jobseekers Act 1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18), [s. 41(2)](https://www.legislation.gov.uk/ukpga/1994/18/section/41/2), [Sch. 2 para. 36(2)](https://www.legislation.gov.uk/ukpga/1994/18/schedule/2/paragraph/36/2); [S.I. 1996/2208](https://www.legislation.gov.uk/uksi/1996/2208), [art. 2(b)](https://www.legislation.gov.uk/uksi/1996/2208/article/2/b)
+[^c-9270899de984b70bad17f6619d2303c3]: Textual amendment: Words in Sch. 7 para. 3(10) substituted (7.10.1996) by [Jobseekers Act 1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18), [s. 41(2)](https://www.legislation.gov.uk/ukpga/1994/18/section/41/2), [Sch. 2 para. 36(2)](https://www.legislation.gov.uk/ukpga/1994/18/schedule/2/paragraph/36/2); [S.I. 1996/2208](https://www.legislation.gov.uk/uksi/1996/2208), [art. 2(b)](https://www.legislation.gov.uk/uksi/1996/2208/article/2/b)
 
-[^key-5b95862da2a3cf5c45429b9c60492099]: Textual amendment: Words in Sch. 7 para. 3(11) substituted (7.2.1994) by [Pension Schemes Act 1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48), [s. 193(2)](https://www.legislation.gov.uk/ukpga/1993/48/section/193/2), [Sch. 8 para. 43(b)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/43/b) (with [s. 189](https://www.legislation.gov.uk/ukpga/1993/48/section/189), [Schs. 6](https://www.legislation.gov.uk/ukpga/1993/48/schedule/6), [9](https://www.legislation.gov.uk/ukpga/1993/48/schedule/9)); [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86)
+[^c-5b95862da2a3cf5c45429b9c60492099]: Textual amendment: Words in Sch. 7 para. 3(11) substituted (7.2.1994) by [Pension Schemes Act 1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48), [s. 193(2)](https://www.legislation.gov.uk/ukpga/1993/48/section/193/2), [Sch. 8 para. 43(b)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/43/b) (with [s. 189](https://www.legislation.gov.uk/ukpga/1993/48/section/189), [Schs. 6](https://www.legislation.gov.uk/ukpga/1993/48/schedule/6), [9](https://www.legislation.gov.uk/ukpga/1993/48/schedule/9)); [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86)
 
 [^M_F_537ce734-7873-48b4-9725-8740d2c2faaa]: Textual amendment: Words in Sch. 7 para. 4 cross-heading inserted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 16(2)](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/16/2)
 
-[^key-7e6fbc2c4985fb780a9436d454d0001f]: Modification: Sch. 7 para. 4(1) modified by [The Social Security Benefit (Dependency) Regulations 1977 (S.I. 1977/343)](https://www.legislation.gov.uk/uksi/1977/343), [reg. 4B](https://www.legislation.gov.uk/uksi/1977/343/regulation/4B) (as substituted (9.4.2001) by [S.I. 2000/1483](https://www.legislation.gov.uk/uksi/2000/1483), [regs. 1](https://www.legislation.gov.uk/uksi/2000/1483/regulation/1), [5](https://www.legislation.gov.uk/uksi/2000/1483/regulation/5))
+[^c-7e6fbc2c4985fb780a9436d454d0001f]: Modification: Sch. 7 para. 4(1) modified by [The Social Security Benefit (Dependency) Regulations 1977 (S.I. 1977/343)](https://www.legislation.gov.uk/uksi/1977/343), [reg. 4B](https://www.legislation.gov.uk/uksi/1977/343/regulation/4B) (as substituted (9.4.2001) by [S.I. 2000/1483](https://www.legislation.gov.uk/uksi/2000/1483), [regs. 1](https://www.legislation.gov.uk/uksi/2000/1483/regulation/1), [5](https://www.legislation.gov.uk/uksi/2000/1483/regulation/5))
 
-[^key-e8f8b7ddc63f62f50b4f4fdf7600c9fb]: Textual amendment: Words in Sch. 7 para. 4(1) substituted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 16(2)(a)](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/16/2/a)
+[^c-e8f8b7ddc63f62f50b4f4fdf7600c9fb]: Textual amendment: Words in Sch. 7 para. 4(1) substituted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 16(2)(a)](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/16/2/a)
 
-[^key-e59232dc8c471975cd4355bd4c7ba53f]: Textual amendment: Sch. 7 para. 4(3)(a) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 52(2)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/52/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-e59232dc8c471975cd4355bd4c7ba53f]: Textual amendment: Sch. 7 para. 4(3)(a) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 52(2)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/52/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-30634b45abf0d2f558e3cb8ed8c6935a]: Textual amendment: Word in [Sch. 7 para. 4(3)(a)](https://www.legislation.gov.uk/ukpga/1992/4/schedule/7/paragraph/4/3/a) inserted (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 1 para. 22(9)(a)](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/22/9/a); and inserted (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 4 para. 2(20)(a)(i)](https://www.legislation.gov.uk/uksi/2014/3229/schedule/4/paragraph/2/20/a/i)
+[^c-30634b45abf0d2f558e3cb8ed8c6935a]: Textual amendment: Word in [Sch. 7 para. 4(3)(a)](https://www.legislation.gov.uk/ukpga/1992/4/schedule/7/paragraph/4/3/a) inserted (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 1 para. 22(9)(a)](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/22/9/a); and inserted (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 4 para. 2(20)(a)(i)](https://www.legislation.gov.uk/uksi/2014/3229/schedule/4/paragraph/2/20/a/i)
 
-[^key-ca8b86bba741867feef11a539b2600c3]: Textual amendment: [Sch. 7 para. 4(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/1992/4/schedule/7/paragraph/4/3/a/ii) substituted for Sch. 7 para. 4(3)(a)(ii)(iii) (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 1 para. 22(9)(a)](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/22/9/a); and substituted (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 4 para. 2(20)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/3229/schedule/4/paragraph/2/20/a/ii)
+[^c-ca8b86bba741867feef11a539b2600c3]: Textual amendment: [Sch. 7 para. 4(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/1992/4/schedule/7/paragraph/4/3/a/ii) substituted for Sch. 7 para. 4(3)(a)(ii)(iii) (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 1 para. 22(9)(a)](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/22/9/a); and substituted (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 4 para. 2(20)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/3229/schedule/4/paragraph/2/20/a/ii)
 
-[^key-888f28570d3d92cb1d91d674162e6550]: Textual amendment: Words in [Sch. 7 para. 4(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/1992/4/schedule/7/paragraph/4/3/a/ii) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 14(2)(e)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/14/2/e)
+[^c-888f28570d3d92cb1d91d674162e6550]: Textual amendment: Words in [Sch. 7 para. 4(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/1992/4/schedule/7/paragraph/4/3/a/ii) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 14(2)(e)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/14/2/e)
 
-[^key-de103b1d48fb9ddf0e4e580853f90943]: Textual amendment: Words in Sch. 7 para. 4(4) inserted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 16(2)(b)](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/16/2/b)
+[^c-de103b1d48fb9ddf0e4e580853f90943]: Textual amendment: Words in Sch. 7 para. 4(4) inserted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 16(2)(b)](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/16/2/b)
 
-[^key-b4c39bb9f53f0832dbc8d1e4216b79ad]: Textual amendment: Word in Sch. 7 para. 4(4)(a) substituted (11.4.2012) by [The Social Security (Industrial Injuries) (Dependency) (Permitted Earnings Limits) Order 2012 (S.I. 2012/823)](https://www.legislation.gov.uk/uksi/2012/823), [arts. 1](https://www.legislation.gov.uk/uksi/2012/823/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2012/823/article/2/a)
+[^c-b4c39bb9f53f0832dbc8d1e4216b79ad]: Textual amendment: Word in Sch. 7 para. 4(4)(a) substituted (11.4.2012) by [The Social Security (Industrial Injuries) (Dependency) (Permitted Earnings Limits) Order 2012 (S.I. 2012/823)](https://www.legislation.gov.uk/uksi/2012/823), [arts. 1](https://www.legislation.gov.uk/uksi/2012/823/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2012/823/article/2/a)
 
-[^key-b0469ce236fe2c74269760ed12c0fa1a]: Textual amendment: Word in Sch. 7 para. 4(4)(b) substituted (11.4.2012) by [The Social Security (Industrial Injuries) (Dependency) (Permitted Earnings Limits) Order 2012 (S.I. 2012/823)](https://www.legislation.gov.uk/uksi/2012/823), [arts. 1](https://www.legislation.gov.uk/uksi/2012/823/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2012/823/article/2/b)
+[^c-b0469ce236fe2c74269760ed12c0fa1a]: Textual amendment: Word in Sch. 7 para. 4(4)(b) substituted (11.4.2012) by [The Social Security (Industrial Injuries) (Dependency) (Permitted Earnings Limits) Order 2012 (S.I. 2012/823)](https://www.legislation.gov.uk/uksi/2012/823), [arts. 1](https://www.legislation.gov.uk/uksi/2012/823/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2012/823/article/2/b)
 
-[^key-17c542a62cfa347c65a61642416e445e]: Textual amendment: Words in Sch. 7 para. 5(1) inserted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 16(3)](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/16/3)
+[^c-17c542a62cfa347c65a61642416e445e]: Textual amendment: Words in Sch. 7 para. 5(1) inserted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 16(3)](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/16/3)
 
-[^key-6f5b9774ef7bccb9a37cf7c6e8539713]: Textual amendment: Words in Sch. 7 para. 5(2)(a)(ii) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 52(3)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/52/3); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-6f5b9774ef7bccb9a37cf7c6e8539713]: Textual amendment: Words in Sch. 7 para. 5(2)(a)(ii) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 52(3)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/52/3); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-7ec8b53b495697d7225470a65f1b87bb]: Modification: Sch. 7 para. 6(1) modified by [The Social Security Benefit (Dependency) Regulations 1977 (S.I. 1977/343)](https://www.legislation.gov.uk/uksi/1977/343), [reg. 4B](https://www.legislation.gov.uk/uksi/1977/343/regulation/4B) (as substituted (9.4.2001) by [S.I. 2000/1483](https://www.legislation.gov.uk/uksi/2000/1483), [regs. 1](https://www.legislation.gov.uk/uksi/2000/1483/regulation/1), [5](https://www.legislation.gov.uk/uksi/2000/1483/regulation/5))
+[^c-7ec8b53b495697d7225470a65f1b87bb]: Modification: Sch. 7 para. 6(1) modified by [The Social Security Benefit (Dependency) Regulations 1977 (S.I. 1977/343)](https://www.legislation.gov.uk/uksi/1977/343), [reg. 4B](https://www.legislation.gov.uk/uksi/1977/343/regulation/4B) (as substituted (9.4.2001) by [S.I. 2000/1483](https://www.legislation.gov.uk/uksi/2000/1483), [regs. 1](https://www.legislation.gov.uk/uksi/2000/1483/regulation/1), [5](https://www.legislation.gov.uk/uksi/2000/1483/regulation/5))
 
-[^key-e1e4ec8ee165c35022bd11036b813170]: Textual amendment: Words in Sch. 7 para. 6(1) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 52(4)(a)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/52/4/a); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-e1e4ec8ee165c35022bd11036b813170]: Textual amendment: Words in Sch. 7 para. 6(1) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 52(4)(a)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/52/4/a); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-65127d46c9cc183ce88a4b20f88333cb]: Textual amendment: Words in Sch. 7 para. 6(1) inserted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 16(4)(a)](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/16/4/a)
+[^c-65127d46c9cc183ce88a4b20f88333cb]: Textual amendment: Words in Sch. 7 para. 6(1) inserted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 16(4)(a)](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/16/4/a)
 
-[^key-38588de0f13ad5b9cfe563103b0a4052]: Textual amendment: Words in Sch. 7 para. 6(1) substituted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 16(4)(b)](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/16/4/b)
+[^c-38588de0f13ad5b9cfe563103b0a4052]: Textual amendment: Words in Sch. 7 para. 6(1) substituted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 16(4)(b)](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/16/4/b)
 
-[^key-e0178483ddac72aa2175259c27393427]: Textual amendment: Words in Sch. 7 para. 6(3) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 52(4)(a)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/52/4/a); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-e0178483ddac72aa2175259c27393427]: Textual amendment: Words in Sch. 7 para. 6(3) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 52(4)(a)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/52/4/a); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-7926db6d7133958ee0e6e750d694602b]: Textual amendment: Words in Sch. 7 para. 6(4) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 52(4)(a)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/52/4/a); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-7926db6d7133958ee0e6e750d694602b]: Textual amendment: Words in Sch. 7 para. 6(4) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 52(4)(a)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/52/4/a); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-8b26da0f5342d6771dc415d759a289ff]: Textual amendment: Words in Sch. 7 para. 6(4)(a) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 52(4)(b)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/52/4/b); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-8b26da0f5342d6771dc415d759a289ff]: Textual amendment: Words in Sch. 7 para. 6(4)(a) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 52(4)(b)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/52/4/b); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
 [^c21371181]: Marginal citation: [1990 c. 27](https://www.legislation.gov.uk/ukpga/1990/27).
 
-[^key-c55d491e05f979ec8ff4092f6e44e72a]: Textual amendment: Words in Sch. 7 para. 11(1) added by SI 1985/967 reg. 14A (as inserted) (10.10.1994) by [The Social Security (Industrial Injuries) (Prescribed Diseases) Amendment Regulations 1994 (S.I. 1994/2343)](https://www.legislation.gov.uk/uksi/1994/2343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/2343/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1994/2343/regulation/3)
+[^c-c55d491e05f979ec8ff4092f6e44e72a]: Textual amendment: Words in Sch. 7 para. 11(1) added by SI 1985/967 reg. 14A (as inserted) (10.10.1994) by [The Social Security (Industrial Injuries) (Prescribed Diseases) Amendment Regulations 1994 (S.I. 1994/2343)](https://www.legislation.gov.uk/uksi/1994/2343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/2343/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1994/2343/regulation/3)
 
 [^c21371191]: Textual amendment: Sch. 7 para. 11(12A) inserted (temp.) (1.7.1992) by [Social Security (Consequential Provisions) Act 1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6), [ss. 6](https://www.legislation.gov.uk/ukpga/1992/6/section/6), [7(2)](https://www.legislation.gov.uk/ukpga/1992/6/section/7/2), [Sch. 4 paras. 1](https://www.legislation.gov.uk/ukpga/1992/6/schedule/4/paragraph/1), [10](https://www.legislation.gov.uk/ukpga/1992/6/schedule/4/paragraph/10)
 
 [^c21371201]: Textual amendment: Sch. 7 para. 12(7) inserted (temp.) (1.7.1992) by [Social Security (Consequential Provisions) Act 1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6), [ss. 6](https://www.legislation.gov.uk/ukpga/1992/6/section/6), [7(2)](https://www.legislation.gov.uk/ukpga/1992/6/section/7/2), [Sch. 4 paras. 1](https://www.legislation.gov.uk/ukpga/1992/6/schedule/4/paragraph/1), [11](https://www.legislation.gov.uk/ukpga/1992/6/schedule/4/paragraph/11)
 
-[^key-8ccd68b6128719825879545b500d5d44]: Modification: Sch. 7 para. 13(4): power to amend conferred (1.7.1992) by [Social Security Administration Act 1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5), [ss. 150(1)(g)](https://www.legislation.gov.uk/ukpga/1992/5/section/150/1/g), [151](https://www.legislation.gov.uk/ukpga/1992/5/section/151), [192(4)](https://www.legislation.gov.uk/ukpga/1992/5/section/192/4)
+[^c-8ccd68b6128719825879545b500d5d44]: Modification: Sch. 7 para. 13(4): power to amend conferred (1.7.1992) by [Social Security Administration Act 1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5), [ss. 150(1)(g)](https://www.legislation.gov.uk/ukpga/1992/5/section/150/1/g), [151](https://www.legislation.gov.uk/ukpga/1992/5/section/151), [192(4)](https://www.legislation.gov.uk/ukpga/1992/5/section/192/4)
 
-[^key-6118f01c4d7e49a43eb2a723e6639f29]: Modification: [Sch. 7 para. 13(4)](https://www.legislation.gov.uk/ukpga/1992/4/schedule/7/paragraph/13/4): sums amended (coming into force in accordance with arts. 1(4)(5), 7 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [4(1)](https://www.legislation.gov.uk/uksi/2026/148/article/4/1)
+[^c-6118f01c4d7e49a43eb2a723e6639f29]: Modification: [Sch. 7 para. 13(4)](https://www.legislation.gov.uk/ukpga/1992/4/schedule/7/paragraph/13/4): sums amended (coming into force in accordance with arts. 1(4)(5), 7 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [4(1)](https://www.legislation.gov.uk/uksi/2026/148/article/4/1)
 
-[^key-2e76eeaa23563cf5b02cbe1472625289]: Textual amendment: Sch. 7 para. 13(10) substituted (7.10.1996) by [Jobseekers Act 1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18), [s. 41(2)](https://www.legislation.gov.uk/ukpga/1992/6/section/41/2), [Sch. 2 para. 36(3)](https://www.legislation.gov.uk/ukpga/1992/6/schedule/2/paragraph/36/3); [S.I. 1996/2208](https://www.legislation.gov.uk/uksi/1996/2208), [art. 2(b)](https://www.legislation.gov.uk/uksi/1996/2208/article/2/b)
+[^c-2e76eeaa23563cf5b02cbe1472625289]: Textual amendment: Sch. 7 para. 13(10) substituted (7.10.1996) by [Jobseekers Act 1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18), [s. 41(2)](https://www.legislation.gov.uk/ukpga/1992/6/section/41/2), [Sch. 2 para. 36(3)](https://www.legislation.gov.uk/ukpga/1992/6/schedule/2/paragraph/36/3); [S.I. 1996/2208](https://www.legislation.gov.uk/uksi/1996/2208), [art. 2(b)](https://www.legislation.gov.uk/uksi/1996/2208/article/2/b)
 
-[^key-ea8b307880406aeb16680a51e2277fc9]: Textual amendment: Sch. 7 para. 14(1A) inserted (5.12.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 67](https://www.legislation.gov.uk/ukpga/2012/5/section/67), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2012/2530](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(6)(c)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/6/c)
+[^c-ea8b307880406aeb16680a51e2277fc9]: Textual amendment: Sch. 7 para. 14(1A) inserted (5.12.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 67](https://www.legislation.gov.uk/ukpga/2012/5/section/67), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2012/2530](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(6)(c)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/6/c)
 
-[^key-39121c89455b7c73e78aca909c5ab68d]: Textual amendment: Words in Sch. 7 para. 15(2) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 52(5)(a)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/52/5/a); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-39121c89455b7c73e78aca909c5ab68d]: Textual amendment: Words in Sch. 7 para. 15(2) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 52(5)(a)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/52/5/a); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-241a7eebf833e695745007a09a4d8d93]: Textual amendment: Words in [Sch. 7 para. 15(3)](https://www.legislation.gov.uk/ukpga/1992/4/schedule/7/paragraph/15/3) substituted (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 1 para. 22(9)(b)](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/22/9/b); substituted (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 4 para. 2(20)(b)](https://www.legislation.gov.uk/uksi/2014/3229/schedule/4/paragraph/2/20/b)
+[^c-241a7eebf833e695745007a09a4d8d93]: Textual amendment: Words in [Sch. 7 para. 15(3)](https://www.legislation.gov.uk/ukpga/1992/4/schedule/7/paragraph/15/3) substituted (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 1 para. 22(9)(b)](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/22/9/b); substituted (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 4 para. 2(20)(b)](https://www.legislation.gov.uk/uksi/2014/3229/schedule/4/paragraph/2/20/b)
 
-[^key-ca0ddc7a1851d51fa52b7f3719770c9d]: Textual amendment: Words in Sch. 7 para. 16(2)(a) inserted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 16(5)](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/16/5)
+[^c-ca0ddc7a1851d51fa52b7f3719770c9d]: Textual amendment: Words in Sch. 7 para. 16(2)(a) inserted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 16(5)](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/16/5)
 
 [^M_F_43977534-a872-4ce6-a3f2-fcb5f12287dd]: Textual amendment: Words in Sch. 7 para. 18 cross-heading substituted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 16(6)](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/16/6)
 
-[^key-5f8901f645912897f9b7766fb3afd46f]: Textual amendment: Words in Sch. 7 para. 18 substituted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 16(6)(a)](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/16/6/a)
+[^c-5f8901f645912897f9b7766fb3afd46f]: Textual amendment: Words in Sch. 7 para. 18 substituted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 16(6)(a)](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/16/6/a)
 
-[^key-5ed591bd52f948ce573f0adee9a0e2ea]: Modification: Sch. 7 para. 18(1)(a)(ii) modified by [The Social Security Benefit (Dependency) Regulations 1977 (S.I. 1977/343)](https://www.legislation.gov.uk/uksi/1977/343), [reg. 4B](https://www.legislation.gov.uk/uksi/1977/343/regulation/4B) (as substituted (9.4.2001) by [S.I. 2000/1483](https://www.legislation.gov.uk/uksi/2000/1483), [regs. 1](https://www.legislation.gov.uk/uksi/2000/1483/regulation/1), [5](https://www.legislation.gov.uk/uksi/2000/1483/regulation/5))
+[^c-5ed591bd52f948ce573f0adee9a0e2ea]: Modification: Sch. 7 para. 18(1)(a)(ii) modified by [The Social Security Benefit (Dependency) Regulations 1977 (S.I. 1977/343)](https://www.legislation.gov.uk/uksi/1977/343), [reg. 4B](https://www.legislation.gov.uk/uksi/1977/343/regulation/4B) (as substituted (9.4.2001) by [S.I. 2000/1483](https://www.legislation.gov.uk/uksi/2000/1483), [regs. 1](https://www.legislation.gov.uk/uksi/2000/1483/regulation/1), [5](https://www.legislation.gov.uk/uksi/2000/1483/regulation/5))
 
-[^key-ddf3c631edaba219f7e11ba94272f430]: Textual amendment: Words in Sch. 7 para. 18 inserted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 16(6)(b)](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/16/6/b)
+[^c-ddf3c631edaba219f7e11ba94272f430]: Textual amendment: Words in Sch. 7 para. 18 inserted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 16(6)(b)](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/16/6/b)
 
-[^key-56e81f98a23d1a116e6221f97f3da21c]: Textual amendment: Words in Sch. 7 para. 18 inserted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 16(6)(c)](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/16/6/c)
+[^c-56e81f98a23d1a116e6221f97f3da21c]: Textual amendment: Words in Sch. 7 para. 18 inserted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 16(6)(c)](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/16/6/c)
 
 [^M_F_5de86322-f6d5-4b82-e4df-2da2bb96262c]: Textual amendment: Words in Sch. 7 para. 19 cross-heading inserted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 16(7)](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/16/7)
 
-[^key-d085007377e190585f13022f910e91ee]: Textual amendment: Words in Sch. 7 para. 19 inserted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 16(7)](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/16/7)
+[^c-d085007377e190585f13022f910e91ee]: Textual amendment: Words in Sch. 7 para. 19 inserted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 16(7)](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/16/7)

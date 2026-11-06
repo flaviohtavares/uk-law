@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Death of debtor or hirer.[^key-e56a4f48c084f839cd680052471de3b8]
+## 86. Death of debtor or hirer.[^c-e56a4f48c084f839cd680052471de3b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ out of the proceeds of a policy of assurance on his life.
 
 ## Annotations
 
-[^key-e56a4f48c084f839cd680052471de3b8]: Modification: [S. 86](https://www.legislation.gov.uk/ukpga/1974/39/section/86) excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/3) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
+[^c-e56a4f48c084f839cd680052471de3b8]: Modification: [S. 86](https://www.legislation.gov.uk/ukpga/1974/39/section/86) excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/3) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))

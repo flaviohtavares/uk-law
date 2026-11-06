@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Removal from the list of patients at the request of the relevant medical practitioner[^key-b05c533792e241d468074d7b70b09bbe]
+## 6. Removal from the list of patients at the request of the relevant medical practitioner[^c-b05c533792e241d468074d7b70b09bbe]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ whichever is the sooner.
 
 ## Annotations
 
-[^key-b05c533792e241d468074d7b70b09bbe]: Commencement: Art. 6 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-b05c533792e241d468074d7b70b09bbe]: Commencement: Art. 6 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00017]: Footnote: Paragraph 9 was amended by [S.I. 1994/633](https://www.legislation.gov.uk/uksi/1994/633), [1998/682](https://www.legislation.gov.uk/uksi/1998/682) and [2002/1896 (W.197)](https://www.legislation.gov.uk/wsi/2002/1896).

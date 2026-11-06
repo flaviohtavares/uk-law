@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Organ or tissue sample removed before day on which section 27 comes into force[^key-32f2d76b1b897e39c3f32a30c82d68b8]
+## 36. Organ or tissue sample removed before day on which section 27 comes into force[^c-32f2d76b1b897e39c3f32a30c82d68b8]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ may be retained and used for any such purpose.
 
 ## Annotations
 
-[^key-32f2d76b1b897e39c3f32a30c82d68b8]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2006/4/section/36) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-32f2d76b1b897e39c3f32a30c82d68b8]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2006/4/section/36) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

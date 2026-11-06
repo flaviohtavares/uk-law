@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80ED. Chapter 4: supplemental[^key-d6229adb87d5ab82e6a0827e471fdb56]
+## 80ED. Chapter 4: supplemental[^c-d6229adb87d5ab82e6a0827e471fdb56]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ Regulations under section 80EA may—
 
 ## Annotations
 
-[^key-d6229adb87d5ab82e6a0827e471fdb56]: Textual amendment: Pt. 8 Ch. 4 inserted (18.1.2020) by [Parental Bereavement (Leave and Pay) Act 2018 (c. 24)](https://www.legislation.gov.uk/ukpga/2018/24), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2018/24/section/2/2), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/2); [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-d6229adb87d5ab82e6a0827e471fdb56]: Textual amendment: Pt. 8 Ch. 4 inserted (18.1.2020) by [Parental Bereavement (Leave and Pay) Act 2018 (c. 24)](https://www.legislation.gov.uk/ukpga/2018/24), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2018/24/section/2/2), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/2); [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Service of notices etc[^key-6982e2a18a9bfaafbeacf46aa2aa3d09]
+## 31. Service of notices etc[^c-6982e2a18a9bfaafbeacf46aa2aa3d09]
 
 *Extent: S*
 
-(1) Except where otherwise stated, any notice[^key-e807f6c33f7334477dadc217b0350e73] or document which is required or authorised by these Regulations to be sent to or served on any person or body may be sent or served as follows—
+(1) Except where otherwise stated, any notice[^c-e807f6c33f7334477dadc217b0350e73] or document which is required or authorised by these Regulations to be sent to or served on any person or body may be sent or served as follows—
 
 - (a) in the case of the Scottish Ministers, by delivering it to them or sending it by post addressed to them at St Andrew’s House, Edinburgh;
 - (b) in the case of a Health Board, by delivering it to the Chief Executive or by sending it by post addressed to the Chief Executive at the Health Board’s principal office;
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6982e2a18a9bfaafbeacf46aa2aa3d09]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2010/208/regulation/31) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
+[^c-6982e2a18a9bfaafbeacf46aa2aa3d09]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2010/208/regulation/31) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
 
-[^key-e807f6c33f7334477dadc217b0350e73]: Textual amendment: Words in [reg. 31(1)](https://www.legislation.gov.uk/ssi/2010/208/regulation/31/1) substituted (1.1.2018) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/289)](https://www.legislation.gov.uk/ssi/2017/289), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/3), [7](https://www.legislation.gov.uk/ssi/2017/289/regulation/7) (with [reg. 14](https://www.legislation.gov.uk/ssi/2017/289/regulation/14))
+[^c-e807f6c33f7334477dadc217b0350e73]: Textual amendment: Words in [reg. 31(1)](https://www.legislation.gov.uk/ssi/2010/208/regulation/31/1) substituted (1.1.2018) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/289)](https://www.legislation.gov.uk/ssi/2017/289), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/3), [7](https://www.legislation.gov.uk/ssi/2017/289/regulation/7) (with [reg. 14](https://www.legislation.gov.uk/ssi/2017/289/regulation/14))

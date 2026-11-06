@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Establishment and maintenance of the Account[^key-4a3363fec219787977dc5cc2e526cd35]
+## 31. Establishment and maintenance of the Account[^c-4a3363fec219787977dc5cc2e526cd35]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a3363fec219787977dc5cc2e526cd35]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2004/20/section/31) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-4a3363fec219787977dc5cc2e526cd35]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2004/20/section/31) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

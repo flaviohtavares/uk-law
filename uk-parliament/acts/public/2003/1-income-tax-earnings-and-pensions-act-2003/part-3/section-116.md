@@ -24,13 +24,13 @@ summary: ''
 
 (2) References in this Chapter to—
 
-- (a) the time when a car or van[^key-5e5632c1717002c17a23c9fb6384e39e] is first made available to an employee are to the earliest time when the car or van is made available as mentioned in subsection (1), and
+- (a) the time when a car or van[^c-5e5632c1717002c17a23c9fb6384e39e] is first made available to an employee are to the earliest time when the car or van is made available as mentioned in subsection (1), and
 - (b) the last day in a year on which a car or van is available to an employee are to the last day in the year on which the car or van is made available as mentioned in subsection (1).
 
-(3) This section does not apply to section 124A or[^key-65a643ff9697506647fc74717cb27989] 138 (automatic car or van for a disabled employee).
+(3) This section does not apply to section 124A or[^c-65a643ff9697506647fc74717cb27989] 138 (automatic car or van for a disabled employee).
 
 ## Annotations
 
-[^key-5e5632c1717002c17a23c9fb6384e39e]: Textual amendment: Words in s. 116(2) inserted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/14/paragraph/3)
+[^c-5e5632c1717002c17a23c9fb6384e39e]: Textual amendment: Words in s. 116(2) inserted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/14/paragraph/3)
 
-[^key-65a643ff9697506647fc74717cb27989]: Textual amendment: Words in s. 116(3) inserted (with effect in accordance with s. 54(6) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 54(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/54/2)
+[^c-65a643ff9697506647fc74717cb27989]: Textual amendment: Words in s. 116(3) inserted (with effect in accordance with s. 54(6) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 54(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/54/2)

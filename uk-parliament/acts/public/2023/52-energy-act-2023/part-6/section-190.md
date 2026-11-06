@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 190. Strategic direction statement[^key-f693b57b7fced5800026968ea1785e6c][^key-6a8cb4e8892649b60b05b981d53db6ce]
+## 190. Strategic direction statement[^c-f693b57b7fced5800026968ea1785e6c][^c-6a8cb4e8892649b60b05b981d53db6ce]
 
 *Extent: E+W+S*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f693b57b7fced5800026968ea1785e6c]: Commencement: S. 190 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-f693b57b7fced5800026968ea1785e6c]: Commencement: S. 190 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-6a8cb4e8892649b60b05b981d53db6ce]: Commencement: [S. 190](https://www.legislation.gov.uk/ukpga/2023/52/section/190) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(v)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/v)
+[^c-6a8cb4e8892649b60b05b981d53db6ce]: Commencement: [S. 190](https://www.legislation.gov.uk/ukpga/2023/52/section/190) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(v)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/v)

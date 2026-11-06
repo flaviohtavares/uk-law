@@ -40,11 +40,11 @@ Coming into operation
 
 The Department of the Environment, in exercise of the powers conferred on it by Article 65(1) and (2) of the Road Traffic (Northern Ireland) Order 1981[^f00001] and of every other power enabling it in that behalf, hereby makes the following By-Laws:
 
-## 1. Citation and commencement[^key-ea61c7d4c48776ae747deca35dd7c676]
+## 1. Citation and commencement[^c-ea61c7d4c48776ae747deca35dd7c676]
 
 These By-Laws may be cited as the Motor Hackney Carriages (Belfast) (Amendment) By-Laws (Northern Ireland) 1997 and shall come into operation on 22nd September 1997.
 
-## 2. By-Laws amended[^key-b5ff30f437e0bc1993cce2b0defb5b12]
+## 2. By-Laws amended[^c-b5ff30f437e0bc1993cce2b0defb5b12]
 
 (1) The By-Laws made in respect of Motor Hackney Carriages standing or plying for hire made by the Council of the County Borough of Belfast on 4th June 1951[^f00002] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -91,7 +91,7 @@ These By-Laws may be cited as the Motor Hackney Carriages (Belfast) (Amendment) 
 
 .
 
-## 3. Revocation[^key-fa30ec0fa583e974f41d9ac98a159c40]
+## 3. Revocation[^c-fa30ec0fa583e974f41d9ac98a159c40]
 
 The Motor Hackney Carriages (Belfast) (Amendment No. 3) By-Laws (Northern Ireland) 1996[^f00003] are hereby revoked.
 
@@ -119,12 +119,12 @@ The Motor Hackney Carriages (Belfast) (Amendment No. 3) By-Laws (Northern Irelan
 
 [^f00001]: Footnote: S.I. [1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154); *see* Article 2(2) for the definition of “Department”
 
-[^key-ea61c7d4c48776ae747deca35dd7c676]: Commencement: [By-Law 1](https://www.legislation.gov.uk/nisr/1997/365/section/1) in operation at 22.9.1997, see [By-Law 1](https://www.legislation.gov.uk/nisr/1997/365/section/1)
+[^c-ea61c7d4c48776ae747deca35dd7c676]: Commencement: [By-Law 1](https://www.legislation.gov.uk/nisr/1997/365/section/1) in operation at 22.9.1997, see [By-Law 1](https://www.legislation.gov.uk/nisr/1997/365/section/1)
 
-[^key-b5ff30f437e0bc1993cce2b0defb5b12]: Commencement: [By-Law 2](https://www.legislation.gov.uk/nisr/1997/365/section/2) in operation at 22.9.1997, see [By-Law 1](https://www.legislation.gov.uk/nisr/1997/365/section/1)
+[^c-b5ff30f437e0bc1993cce2b0defb5b12]: Commencement: [By-Law 2](https://www.legislation.gov.uk/nisr/1997/365/section/2) in operation at 22.9.1997, see [By-Law 1](https://www.legislation.gov.uk/nisr/1997/365/section/1)
 
 [^f00002]: Footnote: The relevant amending By-Law is [S.R. 1996 No. 543](https://www.legislation.gov.uk/nisr/1996/543)
 
-[^key-fa30ec0fa583e974f41d9ac98a159c40]: Commencement: [By-Law 3](https://www.legislation.gov.uk/nisr/1997/365/section/3) in operation at 22.9.1997, see [By-Law 1](https://www.legislation.gov.uk/nisr/1997/365/section/1)
+[^c-fa30ec0fa583e974f41d9ac98a159c40]: Commencement: [By-Law 3](https://www.legislation.gov.uk/nisr/1997/365/section/3) in operation at 22.9.1997, see [By-Law 1](https://www.legislation.gov.uk/nisr/1997/365/section/1)
 
 [^f00003]: Footnote: [S.R. 1996 No. 543](https://www.legislation.gov.uk/nisr/1996/543)

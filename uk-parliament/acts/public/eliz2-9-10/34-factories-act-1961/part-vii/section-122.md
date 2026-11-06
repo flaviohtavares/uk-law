@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Parts of buildings let off as separate factories—other provisions.[^key-7b0de6a6e7578944c83195c2c4a61726]
+## 122. Parts of buildings let off as separate factories—other provisions.[^c-7b0de6a6e7578944c83195c2c4a61726]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b0de6a6e7578944c83195c2c4a61726]: Textual amendment: [S. 122](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/34/section/122) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
+[^c-7b0de6a6e7578944c83195c2c4a61726]: Textual amendment: [S. 122](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/34/section/122) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1

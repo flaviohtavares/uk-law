@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119.[^key-af1dea4903fbdb861472ad5bda697b09]
+## 119.[^c-af1dea4903fbdb861472ad5bda697b09]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Regulation 74 (scope review) has effect as if—
 
 ## Annotations
 
-[^key-af1dea4903fbdb861472ad5bda697b09]: Commencement: Reg. 119 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-af1dea4903fbdb861472ad5bda697b09]: Commencement: Reg. 119 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

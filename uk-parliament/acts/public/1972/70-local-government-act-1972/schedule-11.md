@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 11 — Rules to be Observed in Considering Electoral Arrangements[^c15130731][^key-6c820fae8b0b37542f6d187738588aae]
+## SCHEDULE 11 — Rules to be Observed in Considering Electoral Arrangements[^c15130731][^c-6c820fae8b0b37542f6d187738588aae]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ Section 78.
 
 ### Welsh counties and county boroughs[^c18189341]
 
-**1A.**[^key-6c820fae8b0b37542f6d187738588aae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1A.**[^c-6c820fae8b0b37542f6d187738588aae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force (ended 2013-09-30).**
 
@@ -40,20 +40,20 @@ Section 78.
 
 ### Parishes and communities
 
-**4 (Extent: W) (affected by repeal, see note).**[^key-6c820fae8b0b37542f6d187738588aae] (1 (Extent: W) (affected by repeal, see note))[^key-6c820fae8b0b37542f6d187738588aae] This paragraph applies to the consideration *(Extent: W)* *(affected by repeal, see note)*[^key-6c820fae8b0b37542f6d187738588aae] [^c15130941]. . ., *(Extent: W)* *(affected by repeal, see note)*[^key-6c820fae8b0b37542f6d187738588aae] [^c20515111]. . . *(Extent: W)* *(affected by repeal, see note)*[^key-6c820fae8b0b37542f6d187738588aae] by a Welsh principal council[^c15130951] *(Extent: W)* *(affected by repeal, see note)*[^key-6c820fae8b0b37542f6d187738588aae] or by a district council of the electoral arrangements for a parish or community having a parish or community council (whether separate or common). *(Extent: W)* *(affected by repeal, see note)*[^key-6c820fae8b0b37542f6d187738588aae]
+**4 (Extent: W) (affected by repeal, see note).**[^c-6c820fae8b0b37542f6d187738588aae] (1 (Extent: W) (affected by repeal, see note))[^c-6c820fae8b0b37542f6d187738588aae] This paragraph applies to the consideration *(Extent: W)* *(affected by repeal, see note)*[^c-6c820fae8b0b37542f6d187738588aae] [^c15130941]. . ., *(Extent: W)* *(affected by repeal, see note)*[^c-6c820fae8b0b37542f6d187738588aae] [^c20515111]. . . *(Extent: W)* *(affected by repeal, see note)*[^c-6c820fae8b0b37542f6d187738588aae] by a Welsh principal council[^c15130951] *(Extent: W)* *(affected by repeal, see note)*[^c-6c820fae8b0b37542f6d187738588aae] or by a district council of the electoral arrangements for a parish or community having a parish or community council (whether separate or common). *(Extent: W)* *(affected by repeal, see note)*[^c-6c820fae8b0b37542f6d187738588aae]
 
-(2 (Extent: W) (affected by repeal, see note))[^key-6c820fae8b0b37542f6d187738588aae] In considering whether any such parish or community is to be divided into parish or community wards, regard shall be had to the questions whether— *(Extent: W)* *(affected by repeal, see note)*[^key-6c820fae8b0b37542f6d187738588aae]
+(2 (Extent: W) (affected by repeal, see note))[^c-6c820fae8b0b37542f6d187738588aae] In considering whether any such parish or community is to be divided into parish or community wards, regard shall be had to the questions whether— *(Extent: W)* *(affected by repeal, see note)*[^c-6c820fae8b0b37542f6d187738588aae]
 
-- (a (Extent: W) (affected by repeal, see note))[^key-6c820fae8b0b37542f6d187738588aae] the number or distribution of the local government electors for the parish or community is such as to make a single election of parish or community councillors impracticable or inconvenient; and *(Extent: W)* *(affected by repeal, see note)*[^key-6c820fae8b0b37542f6d187738588aae]
-- (b (Extent: W) (affected by repeal, see note))[^key-6c820fae8b0b37542f6d187738588aae] it is desirable that any area or areas of the parish or community should be separately represented on the parish or community council. *(Extent: W)* *(affected by repeal, see note)*[^key-6c820fae8b0b37542f6d187738588aae]
+- (a (Extent: W) (affected by repeal, see note))[^c-6c820fae8b0b37542f6d187738588aae] the number or distribution of the local government electors for the parish or community is such as to make a single election of parish or community councillors impracticable or inconvenient; and *(Extent: W)* *(affected by repeal, see note)*[^c-6c820fae8b0b37542f6d187738588aae]
+- (b (Extent: W) (affected by repeal, see note))[^c-6c820fae8b0b37542f6d187738588aae] it is desirable that any area or areas of the parish or community should be separately represented on the parish or community council. *(Extent: W)* *(affected by repeal, see note)*[^c-6c820fae8b0b37542f6d187738588aae]
 
-(3 (Extent: W) (affected by repeal, see note))[^key-6c820fae8b0b37542f6d187738588aae] Where it is decided to divide any such parish or community into parish or community wards, in considering the size and boundaries of the wards and in fixing the number of parish or community councillors to be elected for each ward, regard shall be had to— *(Extent: W)* *(affected by repeal, see note)*[^key-6c820fae8b0b37542f6d187738588aae]
+(3 (Extent: W) (affected by repeal, see note))[^c-6c820fae8b0b37542f6d187738588aae] Where it is decided to divide any such parish or community into parish or community wards, in considering the size and boundaries of the wards and in fixing the number of parish or community councillors to be elected for each ward, regard shall be had to— *(Extent: W)* *(affected by repeal, see note)*[^c-6c820fae8b0b37542f6d187738588aae]
 
-- (a (Extent: W) (affected by repeal, see note))[^key-6c820fae8b0b37542f6d187738588aae] any change in the number or distribution of the local government electors of the parish or community which is likely to take place within the period of five years immediately following the consideration; *(Extent: W)* *(affected by repeal, see note)*[^key-6c820fae8b0b37542f6d187738588aae]
-- (b (Extent: W) (affected by repeal, see note))[^key-6c820fae8b0b37542f6d187738588aae] the desirability of fixing boundaries which are and will remain easily identifiable; and *(Extent: W)* *(affected by repeal, see note)*[^key-6c820fae8b0b37542f6d187738588aae]
-- (c (Extent: W) (affected by repeal, see note))[^key-6c820fae8b0b37542f6d187738588aae] any local ties which will be broken by the fixing of any particular boundaries. *(Extent: W)* *(affected by repeal, see note)*[^key-6c820fae8b0b37542f6d187738588aae]
+- (a (Extent: W) (affected by repeal, see note))[^c-6c820fae8b0b37542f6d187738588aae] any change in the number or distribution of the local government electors of the parish or community which is likely to take place within the period of five years immediately following the consideration; *(Extent: W)* *(affected by repeal, see note)*[^c-6c820fae8b0b37542f6d187738588aae]
+- (b (Extent: W) (affected by repeal, see note))[^c-6c820fae8b0b37542f6d187738588aae] the desirability of fixing boundaries which are and will remain easily identifiable; and *(Extent: W)* *(affected by repeal, see note)*[^c-6c820fae8b0b37542f6d187738588aae]
+- (c (Extent: W) (affected by repeal, see note))[^c-6c820fae8b0b37542f6d187738588aae] any local ties which will be broken by the fixing of any particular boundaries. *(Extent: W)* *(affected by repeal, see note)*[^c-6c820fae8b0b37542f6d187738588aae]
 
-(4 (Extent: W) (affected by repeal, see note))[^key-6c820fae8b0b37542f6d187738588aae] Where it is decided not to divide the parish or community into parish or community wards, in fixing the number of councillors to be elected for each parish or community regard shall be had to the number and distribution of the local government electors of the parish or community and any change in either which is likely to take place within the period of five years immediately following the fixing of the number of parish or community councillors. *(Extent: W)* *(affected by repeal, see note)*[^key-6c820fae8b0b37542f6d187738588aae]
+(4 (Extent: W) (affected by repeal, see note))[^c-6c820fae8b0b37542f6d187738588aae] Where it is decided not to divide the parish or community into parish or community wards, in fixing the number of councillors to be elected for each parish or community regard shall be had to the number and distribution of the local government electors of the parish or community and any change in either which is likely to take place within the period of five years immediately following the fixing of the number of parish or community councillors. *(Extent: W)* *(affected by repeal, see note)*[^c-6c820fae8b0b37542f6d187738588aae]
 
 **5.**[^c15130961] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -61,7 +61,7 @@ Section 78.
 
 [^c15130731]: Modification: Sch. 11 applied (6.3.1992) by [Local Government Act 1992 (c. 19)](https://www.legislation.gov.uk/ukpga/1992/19), [s. 27(2)](https://www.legislation.gov.uk/ukpga/1992/19/section/27/2)
 
-[^key-6c820fae8b0b37542f6d187738588aae]: Textual amendment: Sch. 11 repealed (W.) (30.9.2013) by [Local Government (Democracy) (Wales) Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4), [s. 75(2)(d)](https://www.legislation.gov.uk/anaw/2013/4/section/75/2/d), [Sch. 2](https://www.legislation.gov.uk/anaw/2013/4/schedule/2)
+[^c-6c820fae8b0b37542f6d187738588aae]: Textual amendment: Sch. 11 repealed (W.) (30.9.2013) by [Local Government (Democracy) (Wales) Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4), [s. 75(2)(d)](https://www.legislation.gov.uk/anaw/2013/4/section/75/2/d), [Sch. 2](https://www.legislation.gov.uk/anaw/2013/4/schedule/2)
 
 [^c20515251]: Textual amendment: Sch. 11 para. 1 repealed (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 67(1)](https://www.legislation.gov.uk/ukpga/2009/20/section/67/1), [146(1)](https://www.legislation.gov.uk/ukpga/2009/20/section/146/1), [148(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3), [Sch. 4 para. 6(2)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/4/paragraph/6/2), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/20/schedule/7/part/3); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ff)(hh)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ff/hh)
 

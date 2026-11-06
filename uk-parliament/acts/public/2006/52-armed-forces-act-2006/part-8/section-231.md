@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 231. Service restraining orders: appeals[^key-e226dcf992fc9ecf58f11dae0a4d1f70][^key-5e277b65bd2411ed9b3069b2b54bdefb]
+## 231. Service restraining orders: appeals[^c-e226dcf992fc9ecf58f11dae0a4d1f70][^c-5e277b65bd2411ed9b3069b2b54bdefb]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e226dcf992fc9ecf58f11dae0a4d1f70]: Commencement: S. 231 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-e226dcf992fc9ecf58f11dae0a4d1f70]: Commencement: S. 231 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-5e277b65bd2411ed9b3069b2b54bdefb]: Commencement: S. 231 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-5e277b65bd2411ed9b3069b2b54bdefb]: Commencement: S. 231 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Welsh Seal : Letters Patent and proclamations[^c16544291][^key-3b3f590c4472854b387c84aef04f88e5]
+## 116. Welsh Seal : Letters Patent and proclamations[^c16544291][^c-3b3f590c4472854b387c84aef04f88e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 - (a) the form and manner of preparation, and
 - (b) the publication,
 
-of Letters Patent signed with Her Majesty's own hand signifying Her Assent to a Bill passed by the Senedd[^key-60edd79c70d763519861630d1afb7962] and all royal proclamations under section 4(2) and section 5(4), which have passed under the Welsh Seal[^key-6da1002b353ab87044823ab381fe6f9f].
+of Letters Patent signed with Her Majesty's own hand signifying Her Assent to a Bill passed by the Senedd[^c-60edd79c70d763519861630d1afb7962] and all royal proclamations under section 4(2) and section 5(4), which have passed under the Welsh Seal[^c-6da1002b353ab87044823ab381fe6f9f].
 
 (4) A statutory instrument containing an Order in Council under subsection (3) is subject to annulment in pursuance of a resolution of the Senedd .
 
@@ -37,8 +37,8 @@ of Letters Patent signed with Her Majesty's own hand signifying Her Assent to a 
 
 [^c16544291]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-3b3f590c4472854b387c84aef04f88e5]: Textual amendment: Words in s. 116 heading substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 5(2)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/5/2) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/q)
+[^c-3b3f590c4472854b387c84aef04f88e5]: Textual amendment: Words in s. 116 heading substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 5(2)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/5/2) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/q)
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
 
-[^key-6da1002b353ab87044823ab381fe6f9f]: Textual amendment: Words in s. 116(3) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 5(3)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/5/3) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/q)
+[^c-6da1002b353ab87044823ab381fe6f9f]: Textual amendment: Words in s. 116(3) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 5(3)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/5/3) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/q)

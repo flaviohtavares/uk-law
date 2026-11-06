@@ -33,7 +33,7 @@ summary: ''
 
 may drive motor vehicles of all other classes subject to the same conditions as if he were authorised by a provisional licence to drive motor vehicles of those other classes.
 
-(3)[^key-5b34f0d8d08959b00606db0c8b10bd0d] A licence shall not by virtue of paragraph (2) authorise a person to drive—
+(3)[^c-5b34f0d8d08959b00606db0c8b10bd0d] A licence shall not by virtue of paragraph (2) authorise a person to drive—
 
 - (a) a vehicle of a class for the driving of which he could not, by reason of Article 17, lawfully hold a licence; or
 - (b) unless he has passed a test of competence to drive a motor bicycle or moped on a road in circumstances in which, by virtue of Article 13(3)(e), a provisional licence would not authorise him to drive it before he had passed that test.
@@ -48,6 +48,6 @@ may drive motor vehicles of all other classes subject to the same conditions as 
 
 [^c17614301]: Textual amendment: SR 2002/374
 
-[^key-5b34f0d8d08959b00606db0c8b10bd0d]: Textual amendment: Art. 14(3) substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/170)](https://www.legislation.gov.uk/nisr/2012/170), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/170/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2012/170/regulation/2/3)
+[^c-5b34f0d8d08959b00606db0c8b10bd0d]: Textual amendment: Art. 14(3) substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/170)](https://www.legislation.gov.uk/nisr/2012/170), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/170/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2012/170/regulation/2/3)
 
 [^c20385271]: Textual amendment: Art. 14(6) repealed (15.11.2007) by [Road Traffic (Northern Ireland) Order 2007 (S.I. 2007/916 (N.I. 10))](https://www.legislation.gov.uk/nisi/2007/916), [arts.1(3)(4)](https://www.legislation.gov.uk/nisi/2007/916/article/1/3/4), [86(2)](https://www.legislation.gov.uk/nisi/2007/916/article/86/2), [Sch. 8 Pt. I](https://www.legislation.gov.uk/nisi/2007/916/schedule/8/part/I); [S.R. 2007/454](https://www.legislation.gov.uk/nisr/2007/454), [art. 2](https://www.legislation.gov.uk/nisr/2007/454/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/454/schedule)

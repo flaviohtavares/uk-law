@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Part 20 (repayments to Community traders)[^key-4e0ffbed00023b08ea668547fa7da919]
+## 86. Part 20 (repayments to Community traders)[^c-4e0ffbed00023b08ea668547fa7da919]
 
 *Extent: E+W+S+N.I.*
 
@@ -104,7 +104,7 @@ Before Part 21 [^c24395571] (repayments to traders outside the United Kingdom) i
 
 ## Annotations
 
-[^key-4e0ffbed00023b08ea668547fa7da919]: Commencement: Reg. 86 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-4e0ffbed00023b08ea668547fa7da919]: Commencement: Reg. 86 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395571]: Marginal citation: Relevantly amended by [S.I. 2009/3241](https://www.legislation.gov.uk/uksi/2009/3241), 2014/2430 and 2019/59. [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495) contains transitional provisions following the omission of Part 20 by [S.I. 2019/59](https://www.legislation.gov.uk/uksi/2019/59). These two instruments are not yet in force.
 

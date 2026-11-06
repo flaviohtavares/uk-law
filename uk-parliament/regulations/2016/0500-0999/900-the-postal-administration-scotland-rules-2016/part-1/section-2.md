@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Construction and interpretation[^key-fd0b52e5417bbe1e2b5d591f9e501c5c]
+## 2. Construction and interpretation[^c-fd0b52e5417bbe1e2b5d591f9e501c5c]
 
 *Extent: S*
 
@@ -31,7 +31,7 @@ summary: ''
 - “the Companies Act” means the Companies Act 2006[^f00003];
 - “insolvency proceedings” means any proceedings under the first group of parts in the 1986 Act or under the Insolvency (Scotland) Rules 1986[^f00004];
 - “OFCOM” means the Office of Communications;
-- “pre-postal administration costs” has the meaning given in Rule 16(2)(a)[^key-8f12b13bafff3e9d73b2c869ee166115];
+- “pre-postal administration costs” has the meaning given in Rule 16(2)(a)[^c-8f12b13bafff3e9d73b2c869ee166115];
 - “prescribed part” has the same meaning as it does in section 176A(2)(a) of the 1986 Act (share of assets for unsecured creditors)[^f00005];
 - “responsible insolvency practitioner” means, in relation to any insolvency proceedings, the person acting as supervisor of a voluntary arrangement under Part I of the 1986 Act, or as receiver, liquidator or provisional liquidator;
 - “standard content” means—
@@ -56,13 +56,13 @@ summary: ''
 
 ## Annotations
 
-[^key-fd0b52e5417bbe1e2b5d591f9e501c5c]: Commencement: Rule 2 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-fd0b52e5417bbe1e2b5d591f9e501c5c]: Commencement: Rule 2 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
 [^f00003]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
 [^f00004]: Footnote: [S.I. 1986/1915](https://www.legislation.gov.uk/uksi/1986/1915), as amended by [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921), [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [2001/4040](https://www.legislation.gov.uk/uksi/2001/4040), [2002/2709](https://www.legislation.gov.uk/uksi/2002/2709). [2003/2108](https://www.legislation.gov.uk/uksi/2003/2108), [2003/2109](https://www.legislation.gov.uk/uksi/2003/2109), [2003/2111](https://www.legislation.gov.uk/uksi/2003/2111), [2006/734](https://www.legislation.gov.uk/uksi/2006/734), [2006/735](https://www.legislation.gov.uk/uksi/2006/735), [2008/393](https://www.legislation.gov.uk/uksi/2008/393), [2008/662](https://www.legislation.gov.uk/uksi/2008/662), [2009/662](https://www.legislation.gov.uk/uksi/2009/662), [2009/2375](https://www.legislation.gov.uk/uksi/2009/2375), [2010/688](https://www.legislation.gov.uk/uksi/2010/688) and [2014/114](https://www.legislation.gov.uk/uksi/2014/114).
 
-[^key-8f12b13bafff3e9d73b2c869ee166115]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2016/900/rule/2/1) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)
+[^c-8f12b13bafff3e9d73b2c869ee166115]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2016/900/rule/2/1) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)
 
 [^f00005]: Footnote: Section 176A was inserted by the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40), section 252.
 

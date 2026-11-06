@@ -35,22 +35,22 @@ establishing for 2006 the ‘Prodcom list’ of industrial products provided for
 
 (Text with EEA relevance) (revoked)
 
-[^key-3a3531302bb7362864c33d4a6971c3c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3a3531302bb7362864c33d4a6971c3c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-3a3531302bb7362864c33d4a6971c3c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-3a3531302bb7362864c33d4a6971c3c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-3a3531302bb7362864c33d4a6971c3c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-3a3531302bb7362864c33d4a6971c3c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3a3531302bb7362864c33d4a6971c3c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3a3531302bb7362864c33d4a6971c3c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-3a3531302bb7362864c33d4a6971c3c7]
+## ANNEX[^c-3a3531302bb7362864c33d4a6971c3c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3a3531302bb7362864c33d4a6971c3c7]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 54](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/54)
+[^c-3a3531302bb7362864c33d4a6971c3c7]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 54](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/54)

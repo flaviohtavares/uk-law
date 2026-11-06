@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 342. Contraventions recorded in Welsh Authority’s annual report[^key-8fff285121ba7de4fa1b389413f20eb4]
+## 342. Contraventions recorded in Welsh Authority’s annual report[^c-8fff285121ba7de4fa1b389413f20eb4]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ In paragraph 13 of Schedule 6 to the 1990 Act (annual report of the Welsh Author
 
 ## Annotations
 
-[^key-8fff285121ba7de4fa1b389413f20eb4]: Commencement: S. 342 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-8fff285121ba7de4fa1b389413f20eb4]: Commencement: S. 342 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

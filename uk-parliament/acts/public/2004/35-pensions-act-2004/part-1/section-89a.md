@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89A. Reports about misappropriation etc in public service pension schemes[^key-f82daff7e57c53cb15620a225d3a9311]
+## 89A. Reports about misappropriation etc in public service pension schemes[^c-f82daff7e57c53cb15620a225d3a9311]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ the Regulator must report the matter to the scheme manager.
 
 ## Annotations
 
-[^key-f82daff7e57c53cb15620a225d3a9311]: Textual amendment: [S. 89A](https://www.legislation.gov.uk/ukpga/2004/35/section/89A) inserted (1.4.2015) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/12) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
+[^c-f82daff7e57c53cb15620a225d3a9311]: Textual amendment: [S. 89A](https://www.legislation.gov.uk/ukpga/2004/35/section/89A) inserted (1.4.2015) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/12) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32A. Discharge of protected rights on winding up: insurance policies[^key-ffc61a8db924002a487eeda0bd73c621]
+## 32A. Discharge of protected rights on winding up: insurance policies[^c-ffc61a8db924002a487eeda0bd73c621]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffc61a8db924002a487eeda0bd73c621]: Textual amendment: [S. 32A](https://www.legislation.gov.uk/ukpga/1993/48/section/32A) repealed (6.4.2012) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 106(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/106/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2008/30/section/106/2/b)[(4)](https://www.legislation.gov.uk/ukpga/2008/30/section/106/4), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 11 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/30/schedule/11/part/3); [S.I. 2011/1266](https://www.legislation.gov.uk/uksi/2011/1266), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/1266/article/2/c)
+[^c-ffc61a8db924002a487eeda0bd73c621]: Textual amendment: [S. 32A](https://www.legislation.gov.uk/ukpga/1993/48/section/32A) repealed (6.4.2012) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 106(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/106/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2008/30/section/106/2/b)[(4)](https://www.legislation.gov.uk/ukpga/2008/30/section/106/4), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 11 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/30/schedule/11/part/3); [S.I. 2011/1266](https://www.legislation.gov.uk/uksi/2011/1266), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/1266/article/2/c)

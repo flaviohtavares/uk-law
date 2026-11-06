@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 991. Harbour reorganisation schemes: corporation tax[^key-a2405bf7101dd8fa3fbb876d7e22b042]
+## 991. Harbour reorganisation schemes: corporation tax[^c-a2405bf7101dd8fa3fbb876d7e22b042]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2405bf7101dd8fa3fbb876d7e22b042]: Textual amendment: Ss. 991-995 repealed (with effect in accordance with Sch. 39 para. 18(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 16](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/16)
+[^c-a2405bf7101dd8fa3fbb876d7e22b042]: Textual amendment: Ss. 991-995 repealed (with effect in accordance with Sch. 39 para. 18(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 16](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/16)

@@ -37,16 +37,16 @@ amending Decision 2014/256/EU in order to prolong the validity of the ecological
 
 (Text with EEA relevance) (revoked)
 
-[^key-fdf6649458c8d0dc4e373e9885be6047]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fdf6649458c8d0dc4e373e9885be6047]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-fdf6649458c8d0dc4e373e9885be6047] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-fdf6649458c8d0dc4e373e9885be6047] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-fdf6649458c8d0dc4e373e9885be6047] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-fdf6649458c8d0dc4e373e9885be6047] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fdf6649458c8d0dc4e373e9885be6047]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fdf6649458c8d0dc4e373e9885be6047]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fdf6649458c8d0dc4e373e9885be6047]: Textual amendment: Decision revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 50](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/50); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fdf6649458c8d0dc4e373e9885be6047]: Textual amendment: Decision revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 50](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/50); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

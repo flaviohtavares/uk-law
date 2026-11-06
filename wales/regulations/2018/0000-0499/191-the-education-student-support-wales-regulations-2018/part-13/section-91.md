@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91. Recovery of overpayments of maintenance loans[^key-856051741cbabaee713c08678d7beb67]
+## 91. Recovery of overpayments of maintenance loans[^c-856051741cbabaee713c08678d7beb67]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Where a maintenance loan has been overpaid the Welsh Ministers may recover the o
 
 ## Annotations
 
-[^key-856051741cbabaee713c08678d7beb67]: Textual amendment: [Reg. 91](https://www.legislation.gov.uk/wsi/2018/191/regulation/91) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (Miscellaneous Amendments) (Wales) (No. 2) Regulations 2020 (S.I. 2020/708)](https://www.legislation.gov.uk/uksi/2020/708), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/708/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/708/regulation/10)
+[^c-856051741cbabaee713c08678d7beb67]: Textual amendment: [Reg. 91](https://www.legislation.gov.uk/wsi/2018/191/regulation/91) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (Miscellaneous Amendments) (Wales) (No. 2) Regulations 2020 (S.I. 2020/708)](https://www.legislation.gov.uk/uksi/2020/708), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/708/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/708/regulation/10)

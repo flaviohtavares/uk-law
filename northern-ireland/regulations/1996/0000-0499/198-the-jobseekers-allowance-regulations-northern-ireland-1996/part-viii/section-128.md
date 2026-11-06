@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 128. Calculation of the weekly amount of child support maintenance[^key-479e01a2e9eaef7aed37dc7be5b3a716]
+## 128. Calculation of the weekly amount of child support maintenance[^c-479e01a2e9eaef7aed37dc7be5b3a716]
 
 *Extent: N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-479e01a2e9eaef7aed37dc7be5b3a716]: Commencement: Reg. 128 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-479e01a2e9eaef7aed37dc7be5b3a716]: Commencement: Reg. 128 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00109]: Footnote: [S.R. 1992 No. 390](https://www.legislation.gov.uk/nisr/1992/390); regulation 4 was amended by regulation 4(2) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162)

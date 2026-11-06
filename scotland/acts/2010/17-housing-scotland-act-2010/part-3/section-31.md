@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Scottish Social Housing Charter[^key-9ad9a7a7f705f13635247ee0a21e5c9a]
+## 31. Scottish Social Housing Charter[^c-9ad9a7a7f705f13635247ee0a21e5c9a]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ The document in which those standards and outcomes are set out is to be known as
 
 ## Annotations
 
-[^key-9ad9a7a7f705f13635247ee0a21e5c9a]: Commencement: S. 31 in force at 1.4.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-9ad9a7a7f705f13635247ee0a21e5c9a]: Commencement: S. 31 in force at 1.4.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)

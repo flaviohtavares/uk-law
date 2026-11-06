@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-49e01abd8c0c374cc7d01fa3090eb4dd]
+## 1. Citation and commencement[^c-49e01abd8c0c374cc7d01fa3090eb4dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Trade Marks (Isle of Man) Order 2013 and shall co
 
 ## Annotations
 
-[^key-49e01abd8c0c374cc7d01fa3090eb4dd]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-49e01abd8c0c374cc7d01fa3090eb4dd]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)

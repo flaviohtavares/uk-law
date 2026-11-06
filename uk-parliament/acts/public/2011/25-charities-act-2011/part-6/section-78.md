@@ -47,7 +47,7 @@ as it thinks just.
 
 (7) The costs of an application under subsection (5)(b) must be paid by the charity concerned.
 
-(8) Regulations made by the Secretary of State[^key-f72b0cc6ddfe0df65df96448b4b602d3] may make provision with respect to—
+(8) Regulations made by the Secretary of State[^c-f72b0cc6ddfe0df65df96448b4b602d3] may make provision with respect to—
 
 - (a) the appointment and removal of persons appointed in accordance with this section;
 - (b) the remuneration of such persons out of the income of the charities concerned;
@@ -61,4 +61,4 @@ as it thinks just.
 
 ## Annotations
 
-[^key-f72b0cc6ddfe0df65df96448b4b602d3]: Textual amendment: Words in [s. 78(8)](https://www.legislation.gov.uk/ukpga/2011/25/section/78/8) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(o)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/o) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-f72b0cc6ddfe0df65df96448b4b602d3]: Textual amendment: Words in [s. 78(8)](https://www.legislation.gov.uk/ukpga/2011/25/section/78/8) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(o)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/o) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

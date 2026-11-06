@@ -24,7 +24,7 @@ Regulation 69
 
 ### Eligibility
 
-**1.** No person is eligible for appointment as auditor of an open-ended investment company unless he is eligible for appointment as a statutory auditor under Part 42 of the Companies Act 2006[^key-acd30cebabef2ae53ca5c736c42dd84f].
+**1.** No person is eligible for appointment as auditor of an open-ended investment company unless he is eligible for appointment as a statutory auditor under Part 42 of the Companies Act 2006[^c-acd30cebabef2ae53ca5c736c42dd84f].
 
 **2.** (1) A person is ineligible for appointment as auditor of an open-ended investment company if he is—
 
@@ -33,7 +33,7 @@ Regulation 69
 
 (2) For the purposes of sub-paragraph (1), an auditor of a company is not to be regarded as an officer or employee of the company.
 
-(3)[^key-3a8d87eca553112ec865071486a4228f] A person is also ineligible for appointment if there exists between that person, or any associate of that person, and the company a connection of any such description as may be specified by regulations made by the Secretary of State under section 1214(4) of the Companies Act 2006.
+(3)[^c-3a8d87eca553112ec865071486a4228f] A person is also ineligible for appointment if there exists between that person, or any associate of that person, and the company a connection of any such description as may be specified by regulations made by the Secretary of State under section 1214(4) of the Companies Act 2006.
 
 (4) In sub-paragraph (3) “**associate**” has the same meaning as in Part 42 of that Act (see section 1260 of that Act).
 
@@ -56,19 +56,19 @@ Regulation 69
 
 **4.** (1) Every company must appoint an auditor or auditors in accordance with this paragraph.
 
-(2) Subject to sub-paragraphs (6) and (7), a company[^key-d5e4d6148b704ad382daa8c7b2b17ad3] must, at each general meeting at which the company’s annual report is laid, appoint an auditor or auditors to hold office from the conclusion of that meeting until the conclusion of the next general meeting at which an annual report is laid.
+(2) Subject to sub-paragraphs (6) and (7), a company[^c-d5e4d6148b704ad382daa8c7b2b17ad3] must, at each general meeting at which the company’s annual report is laid, appoint an auditor or auditors to hold office from the conclusion of that meeting until the conclusion of the next general meeting at which an annual report is laid.
 
-(3) Subject to sub-paragraph (6), the first[^key-59eb5d7ea39b97aa9812cec2a797e8f7] auditors of a company may be appointed by the directors of the company at any time before the first general meeting of the company at which an annual report is laid; and auditors so appointed are to hold office until the conclusion of that meeting.
+(3) Subject to sub-paragraph (6), the first[^c-59eb5d7ea39b97aa9812cec2a797e8f7] auditors of a company may be appointed by the directors of the company at any time before the first general meeting of the company at which an annual report is laid; and auditors so appointed are to hold office until the conclusion of that meeting.
 
 (4) Where no appointment is made under sub-paragraph (3), the first auditors of any company may be appointed by the company in general meeting.
 
-(5)[^key-35ac9b14997785e59504520abc1862ed] Subject to sub-paragraph (5A), no rules made under section 340 of the Act (appointment of auditors) apply in relation to open-ended investment companies.
+(5)[^c-35ac9b14997785e59504520abc1862ed] Subject to sub-paragraph (5A), no rules made under section 340 of the Act (appointment of auditors) apply in relation to open-ended investment companies.
 
-(5A) Rules may be made under section 340 of the Act in relation to open-ended investment companies that are UCITS[^key-83d7958767142ab914c82fa17c404d27].
+(5A) Rules may be made under section 340 of the Act in relation to open-ended investment companies that are UCITS[^c-83d7958767142ab914c82fa17c404d27].
 
-(6)[^key-4ceacbd0a0e5ca9c098d8d5a1926e638] On the date on which the holding of an annual general meeting is dispensed with in accordance with regulation 37A, any auditor or auditors appointed in accordance with sub-paragraph (2) or (3) ceases to hold office and the directors must forthwith re-appoint the auditor or auditors or appoint a new auditor or auditors.
+(6)[^c-4ceacbd0a0e5ca9c098d8d5a1926e638] On the date on which the holding of an annual general meeting is dispensed with in accordance with regulation 37A, any auditor or auditors appointed in accordance with sub-paragraph (2) or (3) ceases to hold office and the directors must forthwith re-appoint the auditor or auditors or appoint a new auditor or auditors.
 
-(7)[^key-97d4fb95c958f356ab639a95bb36587b] The directors of any company which does not hold annual general meetings must appoint the auditor or auditors.
+(7)[^c-97d4fb95c958f356ab639a95bb36587b] The directors of any company which does not hold annual general meetings must appoint the auditor or auditors.
 
 **5.** If, in any case, no auditors are appointed as required in paragraph 4, the Authority may appoint a person to fill the vacancy.
 
@@ -117,12 +117,12 @@ Regulation 69
 
 (2) The remuneration of auditors who are appointed by the directors or the Authority must, as the case may be, be fixed by the directors or the Authority (and be payable by the company even where it is fixed by the Authority).
 
-**11.** (1) Subject to sub-paragraph (2), the power of the Secretary of State to make regulations under section 494 of the Companies Act 2006[^key-08a8a3da83397d63409035e2a0cfe594] (remuneration of auditors or their associates for non-audit work) in relation to company auditors is to be exercisable in relation to auditors of open-ended investment companies—
+**11.** (1) Subject to sub-paragraph (2), the power of the Secretary of State to make regulations under section 494 of the Companies Act 2006[^c-08a8a3da83397d63409035e2a0cfe594] (remuneration of auditors or their associates for non-audit work) in relation to company auditors is to be exercisable in relation to auditors of open-ended investment companies—
 
 - (a) for like purposes; and
 - (b) subject to the same conditions.
 
-(2) For the purposes of the exercise of the power to make regulations under section 494 of the Companies Act 2006[^key-679802765bef9487d4404e48cb75cc94], as extended by sub-paragraph (1), the reference in section 494(4)[^key-6e08b0915e1923f26d85cd20d78b8c9b] to a note to a company’s accounts is to be taken to be a reference to the annual report of an open-ended investment company.
+(2) For the purposes of the exercise of the power to make regulations under section 494 of the Companies Act 2006[^c-679802765bef9487d4404e48cb75cc94], as extended by sub-paragraph (1), the reference in section 494(4)[^c-6e08b0915e1923f26d85cd20d78b8c9b] to a note to a company’s accounts is to be taken to be a reference to the annual report of an open-ended investment company.
 
 ### Removal
 
@@ -149,7 +149,7 @@ is not effective unless notice of the intention to move it has been given to the
 
 - (a) in any notice of the resolution given to the shareholders of the company, state the fact of the representations having been made;
 - (b) send a copy of the representations to each of the shareholders whose name appears on the register of shareholders (other than the designated person) and to whom notice of the meeting is or has been sent;
-- (c) take such steps as FCA[^key-22e07a67ed7afbb1a72aaed221fbf07f] rules may require for the purpose of bringing the fact that the representations have been made to the attention of the holders of any bearer shares; and
+- (c) take such steps as FCA[^c-22e07a67ed7afbb1a72aaed221fbf07f] rules may require for the purpose of bringing the fact that the representations have been made to the attention of the holders of any bearer shares; and
 - (d) at the request of any holder of bearer shares, provide a copy of the representations.
 
 (5) If a copy of any such representations is not sent out as required because they were received too late or because of the company’s default or if, for either of those reasons, any steps required by sub-paragraph (4)(c) or (d) are not taken, the auditor may (without prejudice to his right to be heard orally) require that the representations be read out at the meeting.
@@ -240,26 +240,26 @@ and the company must, not later than 14 days after the court’s decision, take 
 
 ## Annotations
 
-[^key-acd30cebabef2ae53ca5c736c42dd84f]: Textual amendment: Words in Sch. 5 para. 1 substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 28(2)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/28/2) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-acd30cebabef2ae53ca5c736c42dd84f]: Textual amendment: Words in Sch. 5 para. 1 substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 28(2)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/28/2) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-3a8d87eca553112ec865071486a4228f]: Textual amendment: Sch. 5 para. 2(3)-(5) substituted for Sch. 5 para. 2(3) (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 28(3)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/28/3) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-3a8d87eca553112ec865071486a4228f]: Textual amendment: Sch. 5 para. 2(3)-(5) substituted for Sch. 5 para. 2(3) (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 28(3)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/28/3) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-d5e4d6148b704ad382daa8c7b2b17ad3]: Textual amendment: Words in Sch. 5 para. 4(2) substituted (6.4.2005) by [The Open-Ended Investment Companies (Amendment) Regulations 2005 (S.I. 2005/923)](https://www.legislation.gov.uk/uksi/2005/923), [regs. 1](https://www.legislation.gov.uk/uksi/2005/923/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/uksi/2005/923/regulation/2/9/a)
+[^c-d5e4d6148b704ad382daa8c7b2b17ad3]: Textual amendment: Words in Sch. 5 para. 4(2) substituted (6.4.2005) by [The Open-Ended Investment Companies (Amendment) Regulations 2005 (S.I. 2005/923)](https://www.legislation.gov.uk/uksi/2005/923), [regs. 1](https://www.legislation.gov.uk/uksi/2005/923/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/uksi/2005/923/regulation/2/9/a)
 
-[^key-59eb5d7ea39b97aa9812cec2a797e8f7]: Textual amendment: Words in Sch. 5 para. 4(3) substituted (6.4.2005) by [The Open-Ended Investment Companies (Amendment) Regulations 2005 (S.I. 2005/923)](https://www.legislation.gov.uk/uksi/2005/923), [regs. 1](https://www.legislation.gov.uk/uksi/2005/923/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/uksi/2005/923/regulation/2/9/b)
+[^c-59eb5d7ea39b97aa9812cec2a797e8f7]: Textual amendment: Words in Sch. 5 para. 4(3) substituted (6.4.2005) by [The Open-Ended Investment Companies (Amendment) Regulations 2005 (S.I. 2005/923)](https://www.legislation.gov.uk/uksi/2005/923), [regs. 1](https://www.legislation.gov.uk/uksi/2005/923/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/uksi/2005/923/regulation/2/9/b)
 
-[^key-35ac9b14997785e59504520abc1862ed]: Textual amendment: Sch. 5 para. 4(5)(5A) substituted for Sch. 5 para. 4(5) (1.7.2011) by [The Undertakings for Collective Investment in Transferable Securities Regulations 2011 (S.I. 2011/1613)](https://www.legislation.gov.uk/uksi/2011/1613), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1613/regulation/1), [3(9)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/3/9)
+[^c-35ac9b14997785e59504520abc1862ed]: Textual amendment: Sch. 5 para. 4(5)(5A) substituted for Sch. 5 para. 4(5) (1.7.2011) by [The Undertakings for Collective Investment in Transferable Securities Regulations 2011 (S.I. 2011/1613)](https://www.legislation.gov.uk/uksi/2011/1613), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1613/regulation/1), [3(9)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/3/9)
 
-[^key-83d7958767142ab914c82fa17c404d27]: Textual amendment: Words in [Sch. 5 para. 4(5A)](https://www.legislation.gov.uk/uksi/2001/1228/schedule/5/paragraph/4/5A) substituted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [52(13)](https://www.legislation.gov.uk/uksi/2019/325/regulation/52/13) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-83d7958767142ab914c82fa17c404d27]: Textual amendment: Words in [Sch. 5 para. 4(5A)](https://www.legislation.gov.uk/uksi/2001/1228/schedule/5/paragraph/4/5A) substituted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [52(13)](https://www.legislation.gov.uk/uksi/2019/325/regulation/52/13) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4ceacbd0a0e5ca9c098d8d5a1926e638]: Textual amendment: Sch. 5 para. 4(6) inserted (6.4.2005) by [The Open-Ended Investment Companies (Amendment) Regulations 2005 (S.I. 2005/923)](https://www.legislation.gov.uk/uksi/2005/923), [regs. 1](https://www.legislation.gov.uk/uksi/2005/923/regulation/1), [2(9)(c)](https://www.legislation.gov.uk/uksi/2005/923/regulation/2/9/c)
+[^c-4ceacbd0a0e5ca9c098d8d5a1926e638]: Textual amendment: Sch. 5 para. 4(6) inserted (6.4.2005) by [The Open-Ended Investment Companies (Amendment) Regulations 2005 (S.I. 2005/923)](https://www.legislation.gov.uk/uksi/2005/923), [regs. 1](https://www.legislation.gov.uk/uksi/2005/923/regulation/1), [2(9)(c)](https://www.legislation.gov.uk/uksi/2005/923/regulation/2/9/c)
 
-[^key-97d4fb95c958f356ab639a95bb36587b]: Textual amendment: Sch. 5 para. 4(7) inserted (6.4.2005) by [The Open-Ended Investment Companies (Amendment) Regulations 2005 (S.I. 2005/923)](https://www.legislation.gov.uk/uksi/2005/923), [regs. 1](https://www.legislation.gov.uk/uksi/2005/923/regulation/1), [2(9)(d)](https://www.legislation.gov.uk/uksi/2005/923/regulation/2/9/d)
+[^c-97d4fb95c958f356ab639a95bb36587b]: Textual amendment: Sch. 5 para. 4(7) inserted (6.4.2005) by [The Open-Ended Investment Companies (Amendment) Regulations 2005 (S.I. 2005/923)](https://www.legislation.gov.uk/uksi/2005/923), [regs. 1](https://www.legislation.gov.uk/uksi/2005/923/regulation/1), [2(9)(d)](https://www.legislation.gov.uk/uksi/2005/923/regulation/2/9/d)
 
-[^key-08a8a3da83397d63409035e2a0cfe594]: Textual amendment: Words in Sch. 5 para. 11(1) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 222(a)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/222/a) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-08a8a3da83397d63409035e2a0cfe594]: Textual amendment: Words in Sch. 5 para. 11(1) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 222(a)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/222/a) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-679802765bef9487d4404e48cb75cc94]: Textual amendment: Words in Sch. 5 para. 11(2) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 222(b)(i)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/222/b/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-679802765bef9487d4404e48cb75cc94]: Textual amendment: Words in Sch. 5 para. 11(2) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 222(b)(i)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/222/b/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-6e08b0915e1923f26d85cd20d78b8c9b]: Textual amendment: Words in Sch. 5 para. 11(2) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 222(b)(ii)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/222/b/ii) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-6e08b0915e1923f26d85cd20d78b8c9b]: Textual amendment: Words in Sch. 5 para. 11(2) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 222(b)(ii)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/222/b/ii) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)
+[^c-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)

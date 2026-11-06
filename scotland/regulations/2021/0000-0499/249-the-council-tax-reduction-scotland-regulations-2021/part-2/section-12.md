@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Membership of a household[^key-3d0b16e155e0b180712c22019d31d7a4]
+## 12. Membership of a household[^c-3d0b16e155e0b180712c22019d31d7a4]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The applicant and any partner of the applicant and, where the applicant or the a
 
 ## Annotations
 
-[^key-3d0b16e155e0b180712c22019d31d7a4]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2021/249/regulation/12) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-3d0b16e155e0b180712c22019d31d7a4]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2021/249/regulation/12) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

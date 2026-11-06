@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Transitional provisions: prior obligations[^key-38c16f8c5e8443db14ce9cc6d8a0a089][^key-2b2828553fabd2e7f554389eeadba5d8]
+## 71. Transitional provisions: prior obligations[^c-38c16f8c5e8443db14ce9cc6d8a0a089][^c-2b2828553fabd2e7f554389eeadba5d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ any reference in a provision mentioned in paragraph (2) to the date on which a p
 (2) The provisions referred to in paragraph (1) are—
 
 - (a) regulation 30(5) (finance: exception from prohibitions), and
-- (b) paragraph[^key-07b25d1fe556d698c6d214ee0ea4a4f9] 9(a) of Schedule 3 (Treasury licences: purposes).
+- (b) paragraph[^c-07b25d1fe556d698c6d214ee0ea4a4f9] 9(a) of Schedule 3 (Treasury licences: purposes).
 
 (3) In this regulation—
 
@@ -41,8 +41,8 @@ any reference in a provision mentioned in paragraph (2) to the date on which a p
 
 ## Annotations
 
-[^key-38c16f8c5e8443db14ce9cc6d8a0a089]: Commencement: Reg. 71 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
+[^c-38c16f8c5e8443db14ce9cc6d8a0a089]: Commencement: Reg. 71 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
 
-[^key-2b2828553fabd2e7f554389eeadba5d8]: Commencement: Reg. 71 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2b2828553fabd2e7f554389eeadba5d8]: Commencement: Reg. 71 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-07b25d1fe556d698c6d214ee0ea4a4f9]: Textual amendment: Word in reg. 71(2)(b) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [11(11)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/11/11)
+[^c-07b25d1fe556d698c6d214ee0ea4a4f9]: Textual amendment: Word in reg. 71(2)(b) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [11(11)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/11/11)

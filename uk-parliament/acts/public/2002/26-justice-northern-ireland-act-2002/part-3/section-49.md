@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-c1ba9d91c90cc51666a66c4c577c77a6] The Chief Inspector must report to the Department of Justice on each inspection and review carried out by the Chief Inspector.
+(1)[^c-c1ba9d91c90cc51666a66c4c577c77a6] The Chief Inspector must report to the Department of Justice on each inspection and review carried out by the Chief Inspector.
 
 (1A) In this section “protected information” means information the inclusion of which in a report under subsection (1) would be against the public interest on the ground of national security.
 
@@ -76,14 +76,14 @@ notify the Chief Inspector whether, in the opinion of the Secretary of State, th
 
 (1L) Section 41(3) of the Interpretation Act (Northern Ireland) 1954 applies for the purposes of subsections (1I) and (1K) in relation to the laying of a copy of a report or a statement as it applies in relation to the laying of a statutory document under an enactment.
 
-(5) If a report relates (wholly or partly) to the Public Prosecution Service for Northern Ireland, the Chief Inspector must send a copy of it to the Advocate General for Northern Ireland and[^key-626b9a760316b84b70c13fed7a6b7f75] the Attorney General for Northern Ireland.
+(5) If a report relates (wholly or partly) to the Public Prosecution Service for Northern Ireland, the Chief Inspector must send a copy of it to the Advocate General for Northern Ireland and[^c-626b9a760316b84b70c13fed7a6b7f75] the Attorney General for Northern Ireland.
 
-(6)[^key-ea5f54539fd054c2c3082258ffae0e16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-ea5f54539fd054c2c3082258ffae0e16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c1ba9d91c90cc51666a66c4c577c77a6]: Textual amendment: S. 49(1)-(1L) substituted for s. 49(1)-(4) (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 13 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/13/paragraph/7/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-c1ba9d91c90cc51666a66c4c577c77a6]: Textual amendment: S. 49(1)-(1L) substituted for s. 49(1)-(4) (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 13 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/13/paragraph/7/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-626b9a760316b84b70c13fed7a6b7f75]: Textual amendment: Words in s. 49(5) inserted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 17](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/17); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(c)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/c)
+[^c-626b9a760316b84b70c13fed7a6b7f75]: Textual amendment: Words in s. 49(5) inserted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 17](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/17); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(c)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/c)
 
-[^key-ea5f54539fd054c2c3082258ffae0e16]: Textual amendment: S. 49(6) omitted (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 18 para. 64](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/64) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-ea5f54539fd054c2c3082258ffae0e16]: Textual amendment: S. 49(6) omitted (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 18 para. 64](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/64) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

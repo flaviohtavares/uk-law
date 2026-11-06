@@ -22,7 +22,7 @@ summary: ''
 
 (1) Notice of application in accordance with Articles 7 or 9 of and Schedule 1 to the Licensing Order for the grant or, as the case may be, for the provisional grant of a licence shall be in one of Forms 194 to 201 as may be appropriate; so, however, that the notice required by paragraph (1)(*a*) of that Schedule to be inserted in the newspapers referred to in that paragraph and the notice required by paragraph (1) (*b*) of that Schedule to be displayed for the time and in the manner specified by that paragraph, may omit to specify the address of the applicant for the licence where the notice gives the address of the solicitor for the applicant.
 
-(2) A person intending to make an application for the grant or declaration of the final grant of a licence, in addition to complying with paragraph 1 or paragraph 11 of Schedule 1 to the Licensing Order, as the case may be, shall not less than three weeks before the time of the opening of the court at which the application is to be heard, serve a copy of the notice upon the clerk of petty sessions [^key-dd8d202263beac9306c2ef39c5383b5a]....
+(2) A person intending to make an application for the grant or declaration of the final grant of a licence, in addition to complying with paragraph 1 or paragraph 11 of Schedule 1 to the Licensing Order, as the case may be, shall not less than three weeks before the time of the opening of the court at which the application is to be heard, serve a copy of the notice upon the clerk of petty sessions [^c-dd8d202263beac9306c2ef39c5383b5a]....
 
 (3) Where it is intended to apply to the court which grants a licence or declares a licence provisionally granted to be final for—
 
@@ -67,4 +67,4 @@ such intention shall be stated in the notice of application for the grant or in 
 
 ## Annotations
 
-[^key-dd8d202263beac9306c2ef39c5383b5a]: Textual amendment: Words in Order 48 rule 2(2) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(17)(b)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/17/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-dd8d202263beac9306c2ef39c5383b5a]: Textual amendment: Words in Order 48 rule 2(2) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(17)(b)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/17/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)

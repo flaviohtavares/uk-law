@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Content of report etc[^key-853f839ef0884c09e1010f298660fbb4][^key-49aa012874e460ac191434e7c839547b]
+## 60. Content of report etc[^c-853f839ef0884c09e1010f298660fbb4][^c-49aa012874e460ac191434e7c839547b]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ before making or replacing a notice under this section.
 
 ## Annotations
 
-[^key-853f839ef0884c09e1010f298660fbb4]: Commencement: S. 60 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-853f839ef0884c09e1010f298660fbb4]: Commencement: S. 60 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-49aa012874e460ac191434e7c839547b]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2024/13/section/60) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-49aa012874e460ac191434e7c839547b]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2024/13/section/60) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

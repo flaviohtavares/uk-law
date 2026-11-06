@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Appeal to Court of Appeal about restraint orders[^key-725fdbbc9e8d0d4cb427676ff0f3df16]
+## 10. Appeal to Court of Appeal about restraint orders[^c-725fdbbc9e8d0d4cb427676ff0f3df16]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-725fdbbc9e8d0d4cb427676ff0f3df16]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2005/3181/article/10) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-725fdbbc9e8d0d4cb427676ff0f3df16]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2005/3181/article/10) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

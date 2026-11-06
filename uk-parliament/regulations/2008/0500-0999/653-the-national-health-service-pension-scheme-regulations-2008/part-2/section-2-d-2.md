@@ -27,13 +27,13 @@ summary: ''
 - (a) when the pension credit member reaches 65, or
 - (b) if it is later, when the pension sharing order under which the member is entitled to the pension credit takes effect.
 
-This is subject to paragraphs (5) and (8).[^key-2d002fd3ae4a1d12526e1a0fbc654127]
+This is subject to paragraphs (5) and (8).[^c-2d002fd3ae4a1d12526e1a0fbc654127]
 
 (3) The pension must be of such an amount that its value is equal to the member’s pension credit, as calculated in accordance with regulations made under paragraph 5(b) of Schedule 5 to the 1999 Act.
 
 (4) A claim under paragraph (1) must be made by notice in writing in such form as the Secretary of State requires and takes effect from the date specified in the claim as the date on which the pension is to become payable.
 
-(5)[^key-58e5b9cb1a4aafdb38b75e8eda58659c] A pension credit member who has not reached the age of 65 is entitled to immediate payment of a reduced pension payable for life if the pension credit member has—
+(5)[^c-58e5b9cb1a4aafdb38b75e8eda58659c] A pension credit member who has not reached the age of 65 is entitled to immediate payment of a reduced pension payable for life if the pension credit member has—
 
 - (a) reached the age of 55, and
 - (b) claimed the payment of the pension.
@@ -57,6 +57,6 @@ This is subject to paragraphs (5) and (8).[^key-2d002fd3ae4a1d12526e1a0fbc654127
 
 ## Annotations
 
-[^key-2d002fd3ae4a1d12526e1a0fbc654127]: Textual amendment: Words in [reg. 2.D.2(2)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.2/2) added (1.4.2009 with effect from 6.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3), [23(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/23/a) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-2d002fd3ae4a1d12526e1a0fbc654127]: Textual amendment: Words in [reg. 2.D.2(2)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.2/2) added (1.4.2009 with effect from 6.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3), [23(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/23/a) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
-[^key-58e5b9cb1a4aafdb38b75e8eda58659c]: Textual amendment: [Reg. 2.D.2(5)-(10)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.2/5) added (1.4.2009 with effect from 6.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3), [23(b)](https://www.legislation.gov.uk/uksi/2009/381/regulation/23/b) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-58e5b9cb1a4aafdb38b75e8eda58659c]: Textual amendment: [Reg. 2.D.2(5)-(10)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.2/5) added (1.4.2009 with effect from 6.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3), [23(b)](https://www.legislation.gov.uk/uksi/2009/381/regulation/23/b) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))

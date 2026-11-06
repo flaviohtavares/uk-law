@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. The Postal Services Commission.[^key-37baaa8d2fcc093dc274398109e00e24]
+## 1. The Postal Services Commission.[^c-37baaa8d2fcc093dc274398109e00e24]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-37baaa8d2fcc093dc274398109e00e24]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/2000/26/section/1) omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/2); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-37baaa8d2fcc093dc274398109e00e24]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/2000/26/section/1) omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/2); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

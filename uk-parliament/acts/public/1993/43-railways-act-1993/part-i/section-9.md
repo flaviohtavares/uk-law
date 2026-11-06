@@ -25,7 +25,7 @@ summary: ''
 - (a) such conditions (whether or not relating to the licence holder’s being the operator of railway assets under the authorisation of the licence) as appear to the grantor to be requisite or expedient having regard to the duties imposed by section 4 above; and
 - (b) conditions requiring the rendering to—
   - (i) the Secretary of State,
-  - (ii) the Office of Rail and Road[^key-13ab752375a89b988796b123666d8405], or
+  - (ii) the Office of Rail and Road[^c-13ab752375a89b988796b123666d8405], or
   - (iii) any other person, or any other person of a class or description, specified in the licence, except a Minister of the Crown or Government department,
 
   of a payment on the grant of the licence, or payments during the currency of the licence, or both, of such amount or amounts as may be determined by or under the licence.
@@ -61,7 +61,7 @@ and includes a reference to a person nominated for that purpose by such a person
 
 ## Annotations
 
-[^key-13ab752375a89b988796b123666d8405]: Textual amendment: Words in s. 9 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(e)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/e)
+[^c-13ab752375a89b988796b123666d8405]: Textual amendment: Words in s. 9 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(e)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/e)
 
 [^c18772531]: Textual amendment: Words in s. 9 inserted (5.7.2004) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [ss. 16](https://www.legislation.gov.uk/ukpga/2003/20/section/16), [120](https://www.legislation.gov.uk/ukpga/2003/20/section/120), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2003/20/schedule/2/paragraph/6); [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 4(g)](https://www.legislation.gov.uk/uksi/2004/827/article/4/g)
 

@@ -22,7 +22,7 @@ summary: ''
 
 (1) This subsection explains how the deductions are to be made.
 
-The amount of the loss to be deducted at any step is limited in accordance with sections 24A and 25(4) and (5)[^key-c3940dd87f7ef02fd7fba5e562ad00e3].
+The amount of the loss to be deducted at any step is limited in accordance with sections 24A and 25(4) and (5)[^c-c3940dd87f7ef02fd7fba5e562ad00e3].
 
 *Step 1*
 
@@ -52,4 +52,4 @@ If the loss has not been deducted in full at Steps 1 and 2, the person may use t
 
 ## Annotations
 
-[^key-c3940dd87f7ef02fd7fba5e562ad00e3]: Textual amendment: Words in s. 65(1) substituted (with effect in accordance with Sch. 3 para. 3 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 3 para. 2(3)(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/3/paragraph/2/3/a)
+[^c-c3940dd87f7ef02fd7fba5e562ad00e3]: Textual amendment: Words in s. 65(1) substituted (with effect in accordance with Sch. 3 para. 3 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 3 para. 2(3)(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/3/paragraph/2/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Regulations and orders: Chapter 2[^key-1b596083fd9f40986205121e27394f1e]
+## 52. Regulations and orders: Chapter 2[^c-1b596083fd9f40986205121e27394f1e]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ which apply in relation to domestic PR properties situated in Wales.
 
 ## Annotations
 
-[^key-1b596083fd9f40986205121e27394f1e]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2011/16/section/52) in force at 26.3.2015 by [S.I. 2015/880](https://www.legislation.gov.uk/uksi/2015/880), [art. 2](https://www.legislation.gov.uk/uksi/2015/880/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/880/schedule)
+[^c-1b596083fd9f40986205121e27394f1e]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2011/16/section/52) in force at 26.3.2015 by [S.I. 2015/880](https://www.legislation.gov.uk/uksi/2015/880), [art. 2](https://www.legislation.gov.uk/uksi/2015/880/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/880/schedule)

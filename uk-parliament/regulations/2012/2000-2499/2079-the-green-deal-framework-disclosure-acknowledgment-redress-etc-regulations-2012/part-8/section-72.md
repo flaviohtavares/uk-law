@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 72. Requirement to give an intention notice before imposing a sanction[^key-640f8ff8cab59e06c293604c6723054b]
+## 72. Requirement to give an intention notice before imposing a sanction[^c-640f8ff8cab59e06c293604c6723054b]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-640f8ff8cab59e06c293604c6723054b]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/2012/2079/regulation/72) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)
+[^c-640f8ff8cab59e06c293604c6723054b]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/2012/2079/regulation/72) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)

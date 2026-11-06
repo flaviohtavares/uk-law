@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 298. Regulations under sections 296 and 297: procedure with devolved authorities[^key-7e2f05ef8f1647937eb2bdadb76ca3bd][^key-b41f373144f519081dd993851284a34c]
+## 298. Regulations under sections 296 and 297: procedure with devolved authorities[^c-7e2f05ef8f1647937eb2bdadb76ca3bd][^c-b41f373144f519081dd993851284a34c]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ and references to provision being within devolved competence are to provision th
 
 ## Annotations
 
-[^key-7e2f05ef8f1647937eb2bdadb76ca3bd]: Commencement: S. 298 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-7e2f05ef8f1647937eb2bdadb76ca3bd]: Commencement: S. 298 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-b41f373144f519081dd993851284a34c]: Commencement: [S. 298](https://www.legislation.gov.uk/ukpga/2023/52/section/298) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(d)(i)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/d/i)
+[^c-b41f373144f519081dd993851284a34c]: Commencement: [S. 298](https://www.legislation.gov.uk/ukpga/2023/52/section/298) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(d)(i)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/d/i)

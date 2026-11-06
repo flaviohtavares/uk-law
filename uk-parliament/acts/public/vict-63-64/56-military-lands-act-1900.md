@@ -50,17 +50,17 @@ An Act to amend the Military Lands Act, 1892.
 Provided that—
 
 - (a) If any such byelaw injuriously affects or obstructs the exercise of any private right of any person in or over any such sea, tidal water, or shore, that person shall be entitled to compensation, and the compensation shall, in case of difference, be ascertained in manner provided by the Lands Clauses Acts with respect to the compensation for land taken otherwise than by agreement; and
-- (b)[^key-d34cdb8f66eaa024da11c6e06c328d5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-d34cdb8f66eaa024da11c6e06c328d5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) No such byelaw shall be made in relation to any sea, tidal water, or shore which may for the time being be vested in Her Majesty, and under the management of the Commissioners of Woods, without the consent in writing of such Commissioners on behalf of Her Majesty first had and obtained for that purpose, which consent such Commissioners are hereby authorised to give.
 
-(2A)[^key-82536fb8d32372e3cd274ef6c3ff0752] Before making any such byelaws the Secretary of State must—
+(2A)[^c-82536fb8d32372e3cd274ef6c3ff0752] Before making any such byelaws the Secretary of State must—
 
 - (a) take all reasonable steps to ascertain whether the byelaws would injuriously affect any public rights; and
 - (b) be satisfied, in relation to every public right that the Secretary of State considers would be injuriously affected by the byelaws—
   - (i) that a restriction of the right is required for the safety of the public or for the requirements of the military purpose for which the area to which the byelaws apply is used; and
   - (ii) that the restriction of the right imposed by the byelaws is only to such extent as is reasonable in all the circumstances of the case.
 
-(3)[^key-0cdec35482d2b5a562fc51ad121b95d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0cdec35482d2b5a562fc51ad121b95d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) For the purposes of this section “**public right**” means any right of navigation, anchoring, grounding, fishing, bathing, walking, or recreation.
 
@@ -110,11 +110,11 @@ This Act shall be construed as part of the Military Lands Act, 1892, and may be 
 
 [^c577752]: Modification: Functions of Commissioners of Woods now exercisable by Crown Estate Commissioners: S.R. & O. 1924/1370 (Rev. V, p. 443: 1924, p. 228), [Crown Estate Act 1956 (c. 73)](https://www.legislation.gov.uk/ukpga/1956/73), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1956/73/section/1/1) and [Crown Estate Act, 1961 (c. 55)](https://www.legislation.gov.uk/ukpga/1961/55), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1961/55/section/1/1)
 
-[^key-d34cdb8f66eaa024da11c6e06c328d5d]: Textual amendment: Words in s. 2(2) repealed (8.3.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 24(1)(a)](https://www.legislation.gov.uk/ukpga/2011/18/section/24/1/a), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(a)(g)](https://www.legislation.gov.uk/uksi/2012/669/article/3/a/g)
+[^c-d34cdb8f66eaa024da11c6e06c328d5d]: Textual amendment: Words in s. 2(2) repealed (8.3.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 24(1)(a)](https://www.legislation.gov.uk/ukpga/2011/18/section/24/1/a), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(a)(g)](https://www.legislation.gov.uk/uksi/2012/669/article/3/a/g)
 
-[^key-82536fb8d32372e3cd274ef6c3ff0752]: Textual amendment: S. 2(2A) inserted (8.3.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 24(1)(b)](https://www.legislation.gov.uk/ukpga/2011/18/section/24/1/b), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/669/article/3/a)
+[^c-82536fb8d32372e3cd274ef6c3ff0752]: Textual amendment: S. 2(2A) inserted (8.3.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 24(1)(b)](https://www.legislation.gov.uk/ukpga/2011/18/section/24/1/b), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/669/article/3/a)
 
-[^key-0cdec35482d2b5a562fc51ad121b95d3]: Textual amendment: S. 2(3) repealed (8.3.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 24(1)(c)](https://www.legislation.gov.uk/ukpga/2011/18/section/24/1/c), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(a)(g)](https://www.legislation.gov.uk/uksi/2012/669/article/3/a/g)
+[^c-0cdec35482d2b5a562fc51ad121b95d3]: Textual amendment: S. 2(3) repealed (8.3.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 24(1)(c)](https://www.legislation.gov.uk/ukpga/2011/18/section/24/1/c), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(a)(g)](https://www.legislation.gov.uk/uksi/2012/669/article/3/a/g)
 
 [^c577754]: Textual amendment: S. 2(6) repealed by [Statute Law Revision Act 1908 (c. 49)](https://www.legislation.gov.uk/ukpga/1908/49)
 

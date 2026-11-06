@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Health services body status[^key-7e31c5ec2718e99200856e5557fe5742]
+## 10. Health services body status[^c-7e31c5ec2718e99200856e5557fe5742]
 
 *Extent: N.I.*
 
@@ -56,4 +56,4 @@ as a health services body for the purposes of Article 8 of the 1991 Order from t
 
 ## Annotations
 
-[^key-7e31c5ec2718e99200856e5557fe5742]: Commencement: Reg. 10 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-7e31c5ec2718e99200856e5557fe5742]: Commencement: Reg. 10 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)

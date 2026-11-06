@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162.[^key-92bd6131d24807ab7690036e164c5b21]
+## 162.[^c-92bd6131d24807ab7690036e164c5b21]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 646 (former miners etc: coal and allowances in lieu of coal), in subs
 
 ## Annotations
 
-[^key-92bd6131d24807ab7690036e164c5b21]: Commencement: Reg. 162 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-92bd6131d24807ab7690036e164c5b21]: Commencement: Reg. 162 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

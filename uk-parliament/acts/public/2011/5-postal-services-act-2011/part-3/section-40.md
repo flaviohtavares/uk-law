@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Services within scope of the universal postal service[^key-f4566ad52196ab866498db32507bf15b]
+## 40. Services within scope of the universal postal service[^c-f4566ad52196ab866498db32507bf15b]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f4566ad52196ab866498db32507bf15b]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2011/5/section/40) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-f4566ad52196ab866498db32507bf15b]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2011/5/section/40) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

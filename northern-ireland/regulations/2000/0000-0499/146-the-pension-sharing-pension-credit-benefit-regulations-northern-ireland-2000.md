@@ -45,7 +45,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 ## Part I — General
 
-### 1. Citation, commencement and interpretation[^key-d44cf5fecc38467edc500307c1605e07]
+### 1. Citation, commencement and interpretation[^c-d44cf5fecc38467edc500307c1605e07]
 
 (1) These Regulations may be cited as the Pension Sharing (Pension Credit Benefit) Regulations (Northern Ireland) 2000 and shall come into operation on 1st December 2000.
 
@@ -113,7 +113,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 - (a) any reference to a numbered section is a reference to the section of the Act bearing that number, and
 - (b) any reference to a numbered Article is a reference to the Article of the Pensions (Northern Ireland) Order 1995 bearing that number.
 
-### 2. Salary related schemes[^key-5c9744f4539ed513a12b42ec332399c3]
+### 2. Salary related schemes[^c-5c9744f4539ed513a12b42ec332399c3]
 
 For the purposes of Chapter II of Part IVA of the Act[^f00025] (requirements relating to pension credit benefit—transfer values) and these Regulations, an occupational pension scheme is salary related if it is not a money purchase scheme and it is not a scheme—
 
@@ -122,7 +122,7 @@ For the purposes of Chapter II of Part IVA of the Act[^f00025] (requirements rel
 
 ## Part II — Pension Credit Benefit Under Occupational Pension Schemes
 
-### 3. Commutation of the whole of pension credit benefit[^key-00df1d30deb123ba14702f4a6002acda]
+### 3. Commutation of the whole of pension credit benefit[^c-00df1d30deb123ba14702f4a6002acda]
 
 (1) Subject to paragraphs (3) and (4) and regulation 9 of the Safeguarded Rights Regulations (ways of giving effect to safeguarded rights—salary related schemes), the circumstances in which the whole of the pension credit benefit may be commuted for the purposes of section 97C(2)[^f00026] (payment of pension credit benefit in the form of a lump sum before normal benefit age) are those described in paragraph (2).
 
@@ -135,7 +135,7 @@ For the purposes of Chapter II of Part IVA of the Act[^f00025] (requirements rel
 
 (4) In this regulation, “serious ill health” means ill health which is such as to give rise to a life expectancy of less than one year from the date on which commutation of the pension credit benefit is applied for.
 
-### 4. Commutation of part of pension credit benefit[^key-bead9ca8321d276051cda87b5b6829c6]
+### 4. Commutation of part of pension credit benefit[^c-bead9ca8321d276051cda87b5b6829c6]
 
 (1) Subject to paragraphs (2) and (3) and regulation 9 of the Safeguarded Rights Regulations, the circumstances in which part of the pension credit benefit may be commuted for the purposes of section 97C(2) are—
 
@@ -153,7 +153,7 @@ For the purposes of Chapter II of Part IVA of the Act[^f00025] (requirements rel
 
 (4) This regulation does not apply to an occupational pension scheme which is approved under section 590 of the Taxes Act.
 
-### 5. Means of assuring pension credit benefit[^key-059665157d9218bb5946c5b82d88bd39]
+### 5. Means of assuring pension credit benefit[^c-059665157d9218bb5946c5b82d88bd39]
 
 (1) The prescribed means by which a person’s pension credit benefit under a scheme must be assured for the purposes of section 97D(1)(*b*)[^f00027] (form of pension credit benefit and its alternatives) is by means of a transaction to which section 15 (discharge of liability where guaranteed minimum pensions are secured by insurance policies or annuity contracts) applies.
 
@@ -170,13 +170,13 @@ For the purposes of Chapter II of Part IVA of the Act[^f00025] (requirements rel
 - (a) carries on ordinary long-term insurance business (within the meaning of section 96(1) of the Insurance Companies Act 1982[^f00032]) in the United Kingdom through a branch in respect of which such of the requirements of Part I of Schedule 2F to that Act[^f00033] (recognition in the United Kingdom of EC and EFTA companies: EC companies carrying on business etc. in the United Kingdom) as are applicable have been complied with, or
 - (b) provides ordinary long-term insurance in the United Kingdom and such of the requirements of Part I of Schedule 2F to that Act as are applicable have been complied with in respect of insurance.
 
-### 6. Alternatives to pension credit benefit[^key-559f701ba9459eb341b6c75824be10d5]
+### 6. Alternatives to pension credit benefit[^c-559f701ba9459eb341b6c75824be10d5]
 
 (1) The prescribed alternatives to pension credit benefit which a scheme may provide for the purposes of section 97D(2) are described in regulations 7 to 9.
 
 (2) For the purposes of section 97D(4)(*b*), the cases in which the alternatives described in regulations 7 to 9 may be provided without the consent of the person entitled to the benefit are described in regulations 7(4) and 8(4).
 
-### 7. Early retirement or deferred retirement[^key-fc8b4e297fb0bb4f1ceec2740436144c]
+### 7. Early retirement or deferred retirement[^c-fc8b4e297fb0bb4f1ceec2740436144c]
 
 (1) Subject to paragraph (2), the scheme may provide benefits which are different from those required to constitute pension credit benefit in respect of the—
 
@@ -197,7 +197,7 @@ For the purposes of Chapter II of Part IVA of the Act[^f00025] (requirements rel
 
 (6) In this regulation, “serious ill health” means ill health which is such as to give rise to a life expectancy of less than one year from the date on which the benefit of the person entitled to the pension credit becomes payable.
 
-### 8. Bought out benefits[^key-e8347e777db835d336248d0fc295e692]
+### 8. Bought out benefits[^c-e8347e777db835d336248d0fc295e692]
 
 (1) The scheme may provide for benefits different from those required to constitute pension credit benefit to be appropriately secured by a transaction to which section 15 applies (discharge of liability where guaranteed minimum pensions are secured by insurance policies or annuity contracts).
 
@@ -222,13 +222,13 @@ For the purposes of Chapter II of Part IVA of the Act[^f00025] (requirements rel
 
 (7) For the purposes of this regulation “appropriately secured” means secured by an insurance policy or annuity contract to which regulation 5 applies.
 
-### 9. Money purchase benefits[^key-3294a6814cfe5a72c4312e0b97bb7487]
+### 9. Money purchase benefits[^c-3294a6814cfe5a72c4312e0b97bb7487]
 
 (1) The scheme may, with the consent of the person entitled to the benefit, provide money purchase benefits instead of all or any of the benefits that constitute pension credit benefit.
 
 (2) Any scheme rule which allows this alternative must require the trustees or managers of the scheme to be reasonably satisfied that the amount allocated to provide money purchase benefits in respect of the person entitled to the benefit is at least equal to the amount described in regulation 11.
 
-### 10. Transfer of a person’s pension credit rights without consent[^key-5631d45698cbb4324c061285567bc022]
+### 10. Transfer of a person’s pension credit rights without consent[^c-5631d45698cbb4324c061285567bc022]
 
 (1) For the purposes of section 97D(4) (form of pension credit benefit and its alternatives), the trustees or managers of an occupational pension scheme may provide for a person’s pension credit rights under that scheme to be transferred to another occupational pension scheme without that person’s consent where the conditions set out in paragraphs (2) and either (3) or (7), as the case may be, are satisfied.
 
@@ -259,26 +259,26 @@ For the purposes of Chapter II of Part IVA of the Act[^f00025] (requirements rel
   - (a) where the transferring scheme is a scheme for which an actuary is required under Article 47 (professional advisers) to be appointed, the individual for the time being appointed in accordance with paragraph (1) of that Article as actuary for that scheme;
   - (b) in any other case, a Fellow of the Institute of Actuaries, a Fellow of the Faculty of Actuaries[^f00035], or a person with other actuarial qualifications who is approved by the Department, at the request of the trustees or managers of the scheme, as being a proper person to act for the purposes of this regulation in connection with the scheme.
 
-### 11. Value of alternatives to pension credit benefit[^key-0efbd3ee404630d3a5759b680f54cd35]
+### 11. Value of alternatives to pension credit benefit[^c-0efbd3ee404630d3a5759b680f54cd35]
 
 The amount referred to in regulations 7, 8 and 9 is an amount equal to the value of the benefits (or, where the alternative is provided by way of partial substitute for pension credit benefit, the relevant part of the benefits) that have accrued to or in respect of the person entitled to the benefit.
 
-### 12. Discharge of liability where pension credit benefit or alternative benefits are secured by insurance policies or annuity contracts[^key-12c3839be8ee8c531d33c56eb5bc5382]
+### 12. Discharge of liability where pension credit benefit or alternative benefits are secured by insurance policies or annuity contracts[^c-12c3839be8ee8c531d33c56eb5bc5382]
 
 The requirements which must be met for the purposes of section 97E(1)(*c*) (discharge of liability where pension credit or alternative benefits are secured by insurance policies or annuity contracts) are those described in regulations 13 and 14.
 
-### 13. Conditions on which pension credit benefit secured by insurance policies and annuity contracts may be commuted[^key-63ea31dd355ddb26a9dcf6ac2cd4c3cf]
+### 13. Conditions on which pension credit benefit secured by insurance policies and annuity contracts may be commuted[^c-63ea31dd355ddb26a9dcf6ac2cd4c3cf]
 
 Pension credit benefit secured by an insurance policy or an annuity contract may be commuted if it satisfies the requirements of regulation 3 or 4 (commutation of the whole of pension credit benefit, or commutation of part of pension credit benefit).
 
-### 14. Other requirements applying to insurance policies and annuity contracts[^key-95b878252a7e5ef88aa5e33f300441d9]
+### 14. Other requirements applying to insurance policies and annuity contracts[^c-95b878252a7e5ef88aa5e33f300441d9]
 
 The requirements described in this regulation are—
 
 - (a) that the insurance company with which the insurance policy is taken out or the annuity contract entered into assumes an obligation to the person entitled to the benefit or to the trustees of a trust for the benefit of the person entitled to the benefit and, if appropriate, dependants of his, to pay the benefits secured by that policy or contract to him or, as the case may be, to dependants of his, or to the trustees of such a trust, and
 - (b) that the insurance policy or annuity contract contains, or is endorsed with, terms so as to provide for any increase, which would have been applicable as a consequence of Article 37 of the 1999 Order (indexation: other pension schemes) had the discharge of liability of the pension credit benefit, or its alternative, not taken place, to apply to the benefits which have become secured or been replaced by that policy or contract.
 
-### 15. Further conditions on which liability may be discharged[^key-8b2b66e3f2d16ee95e6e9c3dd8864d2e]
+### 15. Further conditions on which liability may be discharged[^c-8b2b66e3f2d16ee95e6e9c3dd8864d2e]
 
 (1) Section 97E(1)(*b*) (transactions with the consent of the person entitled to the benefit which discharge liability where pension credit or alternative benefits secured by insurance policies or annuity contracts) shall not apply in the circumstances described in paragraph (2), (3), (4) or (5).
 
@@ -306,7 +306,7 @@ The requirements described in this regulation are—
 
 ## Part III — Transfer Values
 
-### 16. Transfer payments in respect of safeguarded rights—general[^key-94aba1463721ea24f5ef51d70e9afa85]
+### 16. Transfer payments in respect of safeguarded rights—general[^c-94aba1463721ea24f5ef51d70e9afa85]
 
 (1) A transfer of liability from—
 
@@ -327,7 +327,7 @@ in accordance with regulations 17 to 19 and no such transfer may be made otherwi
 
 (3) In this regulation and in regulations 17 to 19 a “transfer payment” means a transfer payment such as is described in this regulation.
 
-### 17. Transfer payments to money purchase contracted-out schemes and appropriate schemes[^key-1043c9a6a7037c3e8484e65faa5ac296]
+### 17. Transfer payments to money purchase contracted-out schemes and appropriate schemes[^c-1043c9a6a7037c3e8484e65faa5ac296]
 
 A transfer of any liability in respect of safeguarded rights may be made to a money purchase contracted-out scheme or an appropriate scheme if—
 
@@ -336,7 +336,7 @@ A transfer of any liability in respect of safeguarded rights may be made to a mo
 - (c) in the case of a transfer payment to a money purchase contracted-out scheme, the person with pension credit rights is employed by an employer who is a contributor to the receiving scheme, and
 - (d) the transfer payment is applied so as to provide money purchase benefits under the receiving scheme for, or in respect of, the person with pension credit rights in respect of safeguarded rights.
 
-### 18. Transfer payments to salary related contracted-out schemes[^key-db01820b00962c48664d254b8ce3771b]
+### 18. Transfer payments to salary related contracted-out schemes[^c-db01820b00962c48664d254b8ce3771b]
 
 A transfer of any liability in respect of safeguarded rights may be made to a salary related contracted-out scheme if—
 
@@ -345,7 +345,7 @@ A transfer of any liability in respect of safeguarded rights may be made to a sa
 - (c) the person with pension credit rights is employed by an employer who is a contributor to the receiving scheme, and
 - (d) the transfer payment is applied to provide rights for the person with pension credit rights which, had they accrued in the receiving scheme, would be provided in accordance with the rules of the receiving scheme relating to earners who are in employment which is contracted-out in relation to the receiving scheme or have been in employment which was so contracted-out on or after 6th April 1997.
 
-### 19. Transfer payments to overseas schemes or overseas arrangements[^key-6bbb6fa63ce2ded650cac4fa2e5fa6e9]
+### 19. Transfer payments to overseas schemes or overseas arrangements[^c-6bbb6fa63ce2ded650cac4fa2e5fa6e9]
 
 A transfer of any liability in respect of safeguarded rights may be made to an overseas scheme or an overseas arrangement if—
 
@@ -355,11 +355,11 @@ A transfer of any liability in respect of safeguarded rights may be made to an o
 - (d) the person with pension credit rights has acknowledged that he accepts that the scheme or arrangement to which the transfer payment is to be made may not be regulated in any way by the law of the United Kingdom and that as a consequence there may be no obligation under that law on the receiving scheme or arrangement or its trustees or managers to provide any particular value or benefit in return for the transfer payment, and
 - (e) the trustees or managers of the transferring scheme have taken reasonable steps to satisfy themselves that the person with pension credit rights has received a statement from the receiving scheme or arrangement showing the benefits to be awarded in respect of the transfer payment and the conditions (if any) on which these could be forfeited or withheld.
 
-### 20. Requirements to be met by annuities[^key-4b1475bb03297746a8ca7d3246d10f6d]
+### 20. Requirements to be met by annuities[^c-4b1475bb03297746a8ca7d3246d10f6d]
 
 Subject to regulation 19, the prescribed requirements referred to in section 97F(2)(*b*) (cash equivalent to be used for purchasing annuities) are those specified in regulation 15(2) to (7) of the Pension Sharing (Implementation and Discharge of Liability) Regulations (Northern Ireland) 2000[^f00037] (disqualification as a destination for pension credit—annuity contracts and insurance policies).
 
-### 21. Requirements of other pension arrangements[^key-e4d7c3873aab369d2731d7e4b0ec27ae]
+### 21. Requirements of other pension arrangements[^c-e4d7c3873aab369d2731d7e4b0ec27ae]
 
 (1) The prescribed requirements referred to in section 97F(2)(*c*) and (3)(*b*) (cash equivalent of pension credit benefit to be used to subscribe to other pension arrangements which satisfy prescribed requirements) are that the pension arrangement to which it is proposed to subscribe—
 
@@ -377,7 +377,7 @@ Subject to regulation 19, the prescribed requirements referred to in section 97F
 
 (3) The prescribed circumstances referred to in section 97F(2)(*c*) and (3)(*b*) are those referred to in paragraph (1)(*b*) and (*c*).
 
-### 22. Requirements to be met by an eligible scheme[^key-f5c266fc84ce11027187b3924200d0ba]
+### 22. Requirements to be met by an eligible scheme[^c-f5c266fc84ce11027187b3924200d0ba]
 
 (1) The prescribed requirements referred to in section 97F(6)(*b*) (references to an eligible scheme which satisfies the prescribed requirements) are that—
 
@@ -390,7 +390,7 @@ Subject to regulation 19, the prescribed requirements referred to in section 97F
 
 (2) In this regulation “eligible scheme” means a scheme described in section 97F(6).
 
-### 23. Statements of entitlement[^key-bb4b9cf80f0dadfa4d8b24c0b96107ee]
+### 23. Statements of entitlement[^c-bb4b9cf80f0dadfa4d8b24c0b96107ee]
 
 (1) Subject to paragraph (2), for the purposes of subsection (2)(*a*) of section 97H (salary related schemes: statements of entitlement), the prescribed period beginning with the date of the eligible member’s application under that section for a statement of entitlement is a period of 3 months.
 
@@ -400,7 +400,7 @@ Subject to regulation 19, the prescribed requirements referred to in section 97F
 
 (4) For the purposes of section 97H(3), an eligible member who has made an application under section 97H(1) for a statement of entitlement may not, within a period of 12 months beginning on the date of that application, make any further such application unless the rules of the scheme provide otherwise or the trustees or managers allow him to do so.
 
-### 24. Manner of calculation and verification of cash equivalents[^key-897a1034f7439bd751ecdffb6ad37f94]
+### 24. Manner of calculation and verification of cash equivalents[^c-897a1034f7439bd751ecdffb6ad37f94]
 
 (1) Except in a case to which, or to the extent to which, paragraph (2) or (5) applies, cash equivalents are to be calculated and verified in such manner as may be approved in particular cases by the scheme actuary or, in relation to a scheme to which Article 47(1)(*b*) does not apply, by—
 
@@ -425,11 +425,11 @@ and, subject to paragraph (2), in this regulation, “actuary” means the schem
 
 (5) Where a cash equivalent or any portion of a cash equivalent relates to money purchase benefits which do not fall to be valued in a manner which involves making estimates of the value of benefits, then that cash equivalent or that portion shall be calculated and verified in such manner as may be approved in a particular case by the trustees or managers of the scheme and in accordance with methods consistent with the requirements of Chapter II of Part IVA of the Act.
 
-### 25. Time period for notification to the Regulatory Authority of failure by the trustees or managers of an occupational pension scheme to comply with a transfer notice[^key-5cdb69a5f61a51153bbe18a8a86e9f17]
+### 25. Time period for notification to the Regulatory Authority of failure by the trustees or managers of an occupational pension scheme to comply with a transfer notice[^c-5cdb69a5f61a51153bbe18a8a86e9f17]
 
 The period prescribed for the purpose of section 97J(4)(*a*) (time for compliance with transfer notice) is the period of 21 days beginning with the day immediately following the end of the period for compliance specified in section 97J(1).
 
-### 26. Extension of time limits for payment of cash equivalents[^key-c265e755d18eb4936b1366229e25dd8c]
+### 26. Extension of time limits for payment of cash equivalents[^c-c265e755d18eb4936b1366229e25dd8c]
 
 The Regulatory Authority may grant an extension of the period mentioned in section 97J(1)(*a*)[^f00043] to the trustees or managers of an occupational pension scheme if the trustees or managers have within that period applied to the Regulatory Authority for an extension and—
 
@@ -443,7 +443,7 @@ The Regulatory Authority may grant an extension of the period mentioned in secti
 - (b) the provisions of section 49[^f00044] (supervision: former contracted-out schemes) apply, or
 - (c) an application has been made for an extension on one or more of the grounds specified in paragraph (*a*) or (*b*) and the Regulatory Authority’s consideration of the application cannot be completed before the end of the period mentioned in section 97J(1)(*a*).
 
-### 27. Increases and reductions of cash equivalents before a statement of entitlement has been sent to the eligible member[^key-1124e523863b9783c6a2801bf56c669c]
+### 27. Increases and reductions of cash equivalents before a statement of entitlement has been sent to the eligible member[^c-1124e523863b9783c6a2801bf56c669c]
 
 (1) A cash equivalent referred to in section 97H shall not be reduced under this regulation once that cash equivalent has been sent to the eligible member and a direction referred to in paragraph (2) shall not affect such a cash equivalent unless that direction is made before that cash equivalent.
 
@@ -476,7 +476,7 @@ where the actuarial valuation is the latest actuarial valuation obtained in acco
 
 (13) In this regulation “actuary” has the meaning given by regulation 24.
 
-### 28. Increases and reductions of cash equivalents once the statement of entitlement has been sent to the eligible member[^key-6a84a31e58c4455d6e3aac607c8d3dd2]
+### 28. Increases and reductions of cash equivalents once the statement of entitlement has been sent to the eligible member[^c-6a84a31e58c4455d6e3aac607c8d3dd2]
 
 (1) This regulation applies to a cash equivalent when a statement of entitlement has been sent to an eligible member of a salary related scheme by the trustees or managers of that scheme.
 
@@ -490,7 +490,7 @@ where the actuarial valuation is the latest actuarial valuation obtained in acco
 
 (6) In a case where two or more of the paragraphs of this regulation fall to be applied to a calculation, they shall be applied in the order in which they occur in this regulation except that where paragraph (5) falls to be applied it shall be applied as at the date on which it is established that the cash equivalent falls short of or exceeds the proper amount.
 
-### 29. Increases of cash equivalents on late payment[^key-cb5eb898b38dfe5bfbfd4c5ebe95cc40]
+### 29. Increases of cash equivalents on late payment[^c-cb5eb898b38dfe5bfbfd4c5ebe95cc40]
 
 (1) Subject to paragraph (2), if the trustees or managers of a scheme, having received an application under section 97F(1) (power to give transfer notice), fail to comply with the transfer notice within 6 months of the valuation date, the eligible member’s cash equivalent, as calculated in accordance with regulations 24, 27 and 28, shall be increased by the amount, if any, by which that cash equivalent falls short of what it would have been if the valuation date had been the date on which the trustees or managers carry out what the eligible member requires.
 
@@ -499,7 +499,7 @@ where the actuarial valuation is the latest actuarial valuation obtained in acco
 - (a) the interest on that cash equivalent calculated on a daily basis over the period from the valuation date to the date on which the trustees or managers carry out what the eligible member requires, at an annual rate of one per cent. above base rate, or, if it is greater,
 - (b) the amount, if any, by which that cash equivalent falls short of what it would have been if the valuation date had been the date on which the trustees or managers carry out what the eligible member requires.
 
-### 30. Personal pension schemes: increases and reductions of cash equivalents[^key-09c09e4152575e6e8fb4f3f4a4f7c39c]
+### 30. Personal pension schemes: increases and reductions of cash equivalents[^c-09c09e4152575e6e8fb4f3f4a4f7c39c]
 
 (1) If the whole or any part of the cash equivalent of the pension credit benefit under section 97F has been surrendered, commuted or forfeited before the date on which the trustees or managers comply with the transfer notice, the cash equivalent shall be reduced in proportion to the reduction in the total value of the benefits.
 
@@ -508,13 +508,13 @@ where the actuarial valuation is the latest actuarial valuation obtained in acco
 - (a) the interest on that cash equivalent, calculated on a daily basis over the period from the date the notice is given until the date on which the trustees or managers carry out what the eligible member requires, at the same rate as that payable for the time being on judgment debts by virtue of Order 42, Rule 9(2) of the Rules of the Supreme Court (Northern Ireland) 1980[^f00045], or if it is greater,
 - (b) the amount, if any, by which that cash equivalent falls short of what it would have been if the date on which the transfer notice is given had been the date on which the trustees or managers comply with it.
 
-### 31. Civil Penalties[^key-8eea5e25b5516ea9310934b14a898724]
+### 31. Civil Penalties[^c-8eea5e25b5516ea9310934b14a898724]
 
 Where Article 10[^f00046] (civil penalties) applies by virtue of section 97H(4) or section 97J(4)(*b*), the maximum amount for the purposes of Article 10(1) shall be £1,000 in the case of an individual, and £10,000 in any other case.
 
 ## Part IV — Indexation
 
-### 32. Increase of relevant pension[^key-7281019729a393ed3a1f9c533cd76960]
+### 32. Increase of relevant pension[^c-7281019729a393ed3a1f9c533cd76960]
 
 Subject to regulations 33 and 34, a relevant pension shall be increased each year by whichever is the lesser of—
 
@@ -530,13 +530,13 @@ Subject to regulations 33 and 34, a relevant pension shall be increased each yea
   - (a) the percentage increase in the retail prices index for the reference period, being a period determined, in relation to each periodic increase, under the rules of the scheme, or
   - (b) the percentage for that period which corresponds to 5 per cent. per annum.
 
-### 33. Annual increase in rate of pension: qualifying occupational and personal pension schemes[^key-43593f51700af9474cabc5869003b524]
+### 33. Annual increase in rate of pension: qualifying occupational and personal pension schemes[^c-43593f51700af9474cabc5869003b524]
 
 (1) The first increase required by regulation 32 in the rate of a relevant pension must take effect not later than the first anniversary of the date on which the pension is first paid; and subsequent increases must take effect at intervals of not more than 12 months.
 
 (2) Where the first such increase takes effect on a date when the pension has been in payment for a period of less than 12 months, the increase must be of an amount at least equal to one twelfth of the amount of the increase so required (apart from this paragraph) for each complete month in that period.
 
-### 34. Effect of increase above the statutory requirement: qualifying occupational pension schemes[^key-cef370f9ed1f4534882961891136a0c1]
+### 34. Effect of increase above the statutory requirement: qualifying occupational pension schemes[^c-cef370f9ed1f4534882961891136a0c1]
 
 (1) Where in any tax year the trustees or managers of a qualifying occupational pension scheme make an increase in a member’s pension which is a relevant pension, not being an increase required by regulation 32, they may deduct the amount of the increase from any increase which but for this paragraph, they would be required to make under that regulation in the next tax year.
 
@@ -544,7 +544,7 @@ Subject to regulations 33 and 34, a relevant pension shall be increased each yea
 
 (3) Where by virtue of paragraph (1) or (2) any such pension is not required to be increased in pursuance of regulation 32, or not by the full amount that it otherwise would be, its amount shall be calculated for any purposes as if it had been increased in pursuance of regulation 32 or, as the case may be, by that full amount.
 
-### 35. Definition of eligible pension credit rights[^key-19109d1d05b1714a44182a12073ac2c4]
+### 35. Definition of eligible pension credit rights[^c-19109d1d05b1714a44182a12073ac2c4]
 
 For the purposes of Article 37(3) of the 1999 Order, pension credit rights are eligible if they fall within the description in paragraph (*a*) or (*b*)—
 
@@ -619,7 +619,7 @@ Sections 64D, 97C, 97D, 97E, 97F, 97H, 97I, 97J, 97L, 97P and 97Q of the Act, so
 
 [^f00004]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-d44cf5fecc38467edc500307c1605e07]: Commencement: Reg. 1 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-d44cf5fecc38467edc500307c1605e07]: Commencement: Reg. 1 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
 [^f00005]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
 
@@ -661,17 +661,17 @@ Sections 64D, 97C, 97D, 97E, 97F, 97H, 97I, 97J, 97L, 97P and 97Q of the Act, so
 
 [^f00024]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-5c9744f4539ed513a12b42ec332399c3]: Commencement: Reg. 2 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-5c9744f4539ed513a12b42ec332399c3]: Commencement: Reg. 2 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
 [^f00025]: Footnote: Part IVA is inserted by Article 34 of the Welfare Reform and Pensions (Northern Ireland) Order 1999
 
-[^key-00df1d30deb123ba14702f4a6002acda]: Commencement: Reg. 3 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-00df1d30deb123ba14702f4a6002acda]: Commencement: Reg. 3 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
 [^f00026]: Footnote: Section 97C is inserted by Article 34 of the Welfare Reform and Pensions (Northern Ireland) Order 1999
 
-[^key-bead9ca8321d276051cda87b5b6829c6]: Commencement: Reg. 4 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-bead9ca8321d276051cda87b5b6829c6]: Commencement: Reg. 4 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
-[^key-059665157d9218bb5946c5b82d88bd39]: Commencement: Reg. 5 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-059665157d9218bb5946c5b82d88bd39]: Commencement: Reg. 5 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
 [^f00027]: Footnote: Section 97D is inserted by Article 34 of the Welfare Reform and Pensions (Northern Ireland) Order 1999
 
@@ -687,53 +687,53 @@ Sections 64D, 97C, 97D, 97E, 97F, 97H, 97I, 97J, 97L, 97P and 97Q of the Act, so
 
 [^f00033]: Footnote: Schedule 2F was inserted by regulation 45 of S.I. [1994/1696](https://www.legislation.gov.uk/uksi/1994/1696)
 
-[^key-559f701ba9459eb341b6c75824be10d5]: Commencement: Reg. 6 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-559f701ba9459eb341b6c75824be10d5]: Commencement: Reg. 6 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
-[^key-fc8b4e297fb0bb4f1ceec2740436144c]: Commencement: Reg. 7 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-fc8b4e297fb0bb4f1ceec2740436144c]: Commencement: Reg. 7 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
-[^key-e8347e777db835d336248d0fc295e692]: Commencement: Reg. 8 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-e8347e777db835d336248d0fc295e692]: Commencement: Reg. 8 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
 [^f00034]: Footnote: [S.R. 1997 No. 159](https://www.legislation.gov.uk/nisr/1997/159), to which there are amendments not relevant to these regulations
 
-[^key-3294a6814cfe5a72c4312e0b97bb7487]: Commencement: Reg. 9 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-3294a6814cfe5a72c4312e0b97bb7487]: Commencement: Reg. 9 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
-[^key-5631d45698cbb4324c061285567bc022]: Commencement: Reg. 10 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-5631d45698cbb4324c061285567bc022]: Commencement: Reg. 10 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
 [^f00035]: Footnote: The Institute of Actuaries is at Staple Inn Hall, High Holborn, London WC1V 7QJ. The Faculty of Actuaries is at Maclaurin House, 18 Dublin Street, Edinburgh EH1 3PP
 
-[^key-0efbd3ee404630d3a5759b680f54cd35]: Commencement: Reg. 11 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-0efbd3ee404630d3a5759b680f54cd35]: Commencement: Reg. 11 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
-[^key-12c3839be8ee8c531d33c56eb5bc5382]: Commencement: Reg. 12 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-12c3839be8ee8c531d33c56eb5bc5382]: Commencement: Reg. 12 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
-[^key-63ea31dd355ddb26a9dcf6ac2cd4c3cf]: Commencement: Reg. 13 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-63ea31dd355ddb26a9dcf6ac2cd4c3cf]: Commencement: Reg. 13 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
-[^key-95b878252a7e5ef88aa5e33f300441d9]: Commencement: Reg. 14 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-95b878252a7e5ef88aa5e33f300441d9]: Commencement: Reg. 14 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
-[^key-8b2b66e3f2d16ee95e6e9c3dd8864d2e]: Commencement: Reg. 15 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-8b2b66e3f2d16ee95e6e9c3dd8864d2e]: Commencement: Reg. 15 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
 [^f00036]: Footnote: Article 73 was modified by regulation 3 of [S.R. 1996 No. 621](https://www.legislation.gov.uk/nisr/1996/621) (as amended by regulation 9 of [S.R. 1999 No. 486](https://www.legislation.gov.uk/nisr/1999/486)) and amended by Article 35(1) of, and paragraph 44 of Schedule 9 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999. Article 74 is amended by paragraph 45 of Schedule 9 to that Order. *See also* Article 11 of [S.R. 1997 No. 192 (C. 10)](https://www.legislation.gov.uk/nisr/1997/192)
 
-[^key-94aba1463721ea24f5ef51d70e9afa85]: Commencement: Reg. 16 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-94aba1463721ea24f5ef51d70e9afa85]: Commencement: Reg. 16 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
-[^key-1043c9a6a7037c3e8484e65faa5ac296]: Commencement: Reg. 17 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-1043c9a6a7037c3e8484e65faa5ac296]: Commencement: Reg. 17 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
-[^key-db01820b00962c48664d254b8ce3771b]: Commencement: Reg. 18 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-db01820b00962c48664d254b8ce3771b]: Commencement: Reg. 18 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
-[^key-6bbb6fa63ce2ded650cac4fa2e5fa6e9]: Commencement: Reg. 19 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-6bbb6fa63ce2ded650cac4fa2e5fa6e9]: Commencement: Reg. 19 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
-[^key-4b1475bb03297746a8ca7d3246d10f6d]: Commencement: Reg. 20 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-4b1475bb03297746a8ca7d3246d10f6d]: Commencement: Reg. 20 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
 [^f00037]: Footnote: [S.R. 2000 No. 145](https://www.legislation.gov.uk/nisr/2000/145)
 
-[^key-e4d7c3873aab369d2731d7e4b0ec27ae]: Commencement: Reg. 21 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-e4d7c3873aab369d2731d7e4b0ec27ae]: Commencement: Reg. 21 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
 [^f00038]: Footnote: Section 611A was inserted by paragraph 15 of Schedule 6 to the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26)
 
-[^key-f5c266fc84ce11027187b3924200d0ba]: Commencement: Reg. 22 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-f5c266fc84ce11027187b3924200d0ba]: Commencement: Reg. 22 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
-[^key-bb4b9cf80f0dadfa4d8b24c0b96107ee]: Commencement: Reg. 23 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-bb4b9cf80f0dadfa4d8b24c0b96107ee]: Commencement: Reg. 23 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
-[^key-897a1034f7439bd751ecdffb6ad37f94]: Commencement: Reg. 24 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-897a1034f7439bd751ecdffb6ad37f94]: Commencement: Reg. 24 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
 [^f00039]: Footnote: S.I. [1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073)
 
@@ -743,32 +743,32 @@ Sections 64D, 97C, 97D, 97E, 97F, 97H, 97I, 97J, 97L, 97P and 97Q of the Act, so
 
 [^f00042]: Footnote: Schedule 5 was amended by [S.R. 1997 Nos. 160](https://www.legislation.gov.uk/nisr/1997/160) and [544](https://www.legislation.gov.uk/nisr/1997/544)
 
-[^key-5cdb69a5f61a51153bbe18a8a86e9f17]: Commencement: Reg. 25 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-5cdb69a5f61a51153bbe18a8a86e9f17]: Commencement: Reg. 25 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
-[^key-c265e755d18eb4936b1366229e25dd8c]: Commencement: Reg. 26 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-c265e755d18eb4936b1366229e25dd8c]: Commencement: Reg. 26 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
 [^f00043]: Footnote: Section 97J is inserted by Article 34 of the Welfare Reform and Pensions (Northern Ireland) Order 1999
 
 [^f00044]: Footnote: Section 49 applies to occupational pension schemes by virtue of section 48(1). Section 49 was amended by paragraph 40 of Schedule 3 to the Pensions (Northern Ireland) Order 1995 and paragraph 61 of Schedule 1 to the Social Security (Transfer of Functions, etc.) (Northern Ireland) Order 1999 (S.I. [1999/671](https://www.legislation.gov.uk/uksi/1999/671))
 
-[^key-1124e523863b9783c6a2801bf56c669c]: Commencement: Reg. 27 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-1124e523863b9783c6a2801bf56c669c]: Commencement: Reg. 27 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
-[^key-6a84a31e58c4455d6e3aac607c8d3dd2]: Commencement: Reg. 28 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-6a84a31e58c4455d6e3aac607c8d3dd2]: Commencement: Reg. 28 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
-[^key-cb5eb898b38dfe5bfbfd4c5ebe95cc40]: Commencement: Reg. 29 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-cb5eb898b38dfe5bfbfd4c5ebe95cc40]: Commencement: Reg. 29 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
-[^key-09c09e4152575e6e8fb4f3f4a4f7c39c]: Commencement: Reg. 30 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-09c09e4152575e6e8fb4f3f4a4f7c39c]: Commencement: Reg. 30 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
 [^f00045]: Footnote: [S.R. 1980 No. 346](https://www.legislation.gov.uk/nisr/1980/346); the rate of interest was substituted by [S.R. 1993 No. 143](https://www.legislation.gov.uk/nisr/1993/143)
 
-[^key-8eea5e25b5516ea9310934b14a898724]: Commencement: Reg. 31 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-8eea5e25b5516ea9310934b14a898724]: Commencement: Reg. 31 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
 [^f00046]: Footnote: Article 10 is amended by paragraph 9 of Schedule 2 to the Welfare Reform and Pensions (Northern Ireland) Order 1999
 
-[^key-7281019729a393ed3a1f9c533cd76960]: Commencement: Reg. 32 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-7281019729a393ed3a1f9c533cd76960]: Commencement: Reg. 32 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
-[^key-43593f51700af9474cabc5869003b524]: Commencement: Reg. 33 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-43593f51700af9474cabc5869003b524]: Commencement: Reg. 33 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
-[^key-cef370f9ed1f4534882961891136a0c1]: Commencement: Reg. 34 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-cef370f9ed1f4534882961891136a0c1]: Commencement: Reg. 34 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
 
-[^key-19109d1d05b1714a44182a12073ac2c4]: Commencement: Reg. 35 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)
+[^c-19109d1d05b1714a44182a12073ac2c4]: Commencement: Reg. 35 in operation at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/146/regulation/1/1)

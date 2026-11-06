@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 160. Interest in property to be declared on request[^key-ed3f011ddbbded17de7a9783199e6753]
+## 160. Interest in property to be declared on request[^c-ed3f011ddbbded17de7a9783199e6753]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed3f011ddbbded17de7a9783199e6753]: Commencement: Rule 160 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-ed3f011ddbbded17de7a9783199e6753]: Commencement: Rule 160 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32C. Regulations about orders under Article 32A[^key-2fca5054a0e62412cccf9c68080d0397]
+## 32C. Regulations about orders under Article 32A[^c-2fca5054a0e62412cccf9c68080d0397]
 
 *Extent: N.I.*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2fca5054a0e62412cccf9c68080d0397]: Textual amendment: [Arts. 32A-32D](https://www.legislation.gov.uk/nisi/1991/2628/article/32A) inserted (1.6.2009 for specified purposes, 3.8.2009 in so far as not already in operation) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 14](https://www.legislation.gov.uk/nia/2008/10/section/14), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1) (with [s. 40(2)](https://www.legislation.gov.uk/nia/2008/10/section/40/2)[(3)](https://www.legislation.gov.uk/nia/2008/10/section/40/3)); [S.R. 2009/216](https://www.legislation.gov.uk/nisr/2009/216), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2009/216/article/2/1/a)
+[^c-2fca5054a0e62412cccf9c68080d0397]: Textual amendment: [Arts. 32A-32D](https://www.legislation.gov.uk/nisi/1991/2628/article/32A) inserted (1.6.2009 for specified purposes, 3.8.2009 in so far as not already in operation) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 14](https://www.legislation.gov.uk/nia/2008/10/section/14), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1) (with [s. 40(2)](https://www.legislation.gov.uk/nia/2008/10/section/40/2)[(3)](https://www.legislation.gov.uk/nia/2008/10/section/40/3)); [S.R. 2009/216](https://www.legislation.gov.uk/nisr/2009/216), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2009/216/article/2/1/a)

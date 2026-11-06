@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 35
 
-### 1. Amendments to the Occupational Pension Schemes (Scheme Administration) Regulations[^key-fdd56cc11b120681dfd7793f776e7963]
+### 1. Amendments to the Occupational Pension Schemes (Scheme Administration) Regulations[^c-fdd56cc11b120681dfd7793f776e7963]
 
 (1) The Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997[^f00056] are amended in accordance with sub-paragraphs (2) to (5).
 
@@ -75,7 +75,7 @@ Regulation 35
 
     .
 
-### 2. Amendment of the Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations[^key-14337391cc021cca97d07e05aba56b28]
+### 2. Amendment of the Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations[^c-14337391cc021cca97d07e05aba56b28]
 
 (1) The Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations (Northern Ireland) 2010[^f00066] are amended in accordance with sub-paragraphs (2) to (6).
 
@@ -194,11 +194,11 @@ Regulation 35
 
   .
 
-### 3. Amendments to the Occupational Pension Schemes (Charges and Governance) Regulations[^key-45dc99841b9e2ee4b0daf8fe73b63f6b]
+### 3. Amendments to the Occupational Pension Schemes (Charges and Governance) Regulations[^c-45dc99841b9e2ee4b0daf8fe73b63f6b]
 
 The Occupational Pension Schemes (Charges and Governance) Regulations (Northern Ireland) 2015[^f00071] are amended in accordance with paragraphs 4 to 22.
 
-**4.**[^key-6b6fcad971bed69148407d3f7b2e7670] (1) Regulation 2 (interpretation) is amended in accordance with sub-paragraphs (2) to (6).
+**4.**[^c-6b6fcad971bed69148407d3f7b2e7670] (1) Regulation 2 (interpretation) is amended in accordance with sub-paragraphs (2) to (6).
 
 (2) In paragraph (1)—
 
@@ -280,13 +280,13 @@ The Occupational Pension Schemes (Charges and Governance) Regulations (Northern 
 
   .
 
-**5.**[^key-9b0b3cea7fec1d5efc9fc8bdadfdf4e9] In regulation 3(9) (default arrangement) after the definition of “relevant jobholder” insert—
+**5.**[^c-9b0b3cea7fec1d5efc9fc8bdadfdf4e9] In regulation 3(9) (default arrangement) after the definition of “relevant jobholder” insert—
 
 > - “**relevant scheme**” does not include a collective money purchase scheme;
 
 .
 
-**6.**[^key-f1ad6d5afaaad405ed7980555d1bd504] After regulation 3 insert—
+**6.**[^c-f1ad6d5afaaad405ed7980555d1bd504] After regulation 3 insert—
 
 > **3A. Qualifying collective money purchase schemes**
 >
@@ -305,9 +305,9 @@ The Occupational Pension Schemes (Charges and Governance) Regulations (Northern 
 
 .
 
-**7.**[^key-38e5943befacf218ee35419bb7915846] In the heading to Chapter 1 of Part 2 (default arrangements, non-contributing members and payments to advisers)[^f00076] after “default arrangements,” insert “qualifying collective money purchase schemes,”.
+**7.**[^c-38e5943befacf218ee35419bb7915846] In the heading to Chapter 1 of Part 2 (default arrangements, non-contributing members and payments to advisers)[^f00076] after “default arrangements,” insert “qualifying collective money purchase schemes,”.
 
-**8.**[^key-fa7e1a4346cd3202f578bba635ccff51] (1) Regulation 4 (restrictions on charges) is amended in accordance with sub-paragraphs (2) to (8).
+**8.**[^c-fa7e1a4346cd3202f578bba635ccff51] (1) Regulation 4 (restrictions on charges) is amended in accordance with sub-paragraphs (2) to (8).
 
 (2) In paragraph (1)[^f00077]—
 
@@ -361,9 +361,9 @@ The Occupational Pension Schemes (Charges and Governance) Regulations (Northern 
 
 .
 
-**9.**[^key-4570bc68aeec5d3dfabab9bb5384bfc4] In the heading to regulation 5 (prohibited charge structures) after “prohibited charge structures” insert “ – default arrangements”.
+**9.**[^c-4570bc68aeec5d3dfabab9bb5384bfc4] In the heading to regulation 5 (prohibited charge structures) after “prohibited charge structures” insert “ – default arrangements”.
 
-**10.**[^key-d95ae99e1806bf82f19d56d529345899] After regulation 5 insert—
+**10.**[^c-d95ae99e1806bf82f19d56d529345899] After regulation 5 insert—
 
 > **5A. Prohibited charge structures – qualifying collective money purchase schemes**
 >
@@ -383,9 +383,9 @@ The Occupational Pension Schemes (Charges and Governance) Regulations (Northern 
 
 .
 
-**11.**[^key-4f2342a87c2a8d3b0950a03ced823f2b] In the heading to regulation 6 (limits on charges) after “limits on charges” insert “ – default arrangements”.
+**11.**[^c-4f2342a87c2a8d3b0950a03ced823f2b] In the heading to regulation 6 (limits on charges) after “limits on charges” insert “ – default arrangements”.
 
-**12.**[^key-b78f76d7df83c61d86b51cabe5793286] After regulation 6 insert—
+**12.**[^c-b78f76d7df83c61d86b51cabe5793286] After regulation 6 insert—
 
 > **6A. Limits on charges – qualifying collective money purchase schemes**
 >
@@ -417,9 +417,9 @@ The Occupational Pension Schemes (Charges and Governance) Regulations (Northern 
 >   | More than 10 but no more than 20 | 0.5 |
 >   | More than 20 but no more than 25 | 0.4 |
 
-**13.**[^key-c44d0ad684f08973c74ebfc24468a3ad] In the heading to regulation 7 (assessment of charges) after “assessment of charges” insert “ – default arrangements”.
+**13.**[^c-c44d0ad684f08973c74ebfc24468a3ad] In the heading to regulation 7 (assessment of charges) after “assessment of charges” insert “ – default arrangements”.
 
-**14.**[^key-ffdec0239ba5f13fa23b9113a2d34830] After regulation 7 insert—
+**14.**[^c-ffdec0239ba5f13fa23b9113a2d34830] After regulation 7 insert—
 
 > **7A. Assessment of charges – qualifying collective money purchase schemes**
 >
@@ -467,9 +467,9 @@ The Occupational Pension Schemes (Charges and Governance) Regulations (Northern 
 
 .
 
-**15.**[^key-9f0c59234c4b4fa85dad7ccdbca6abd6] In the heading to regulation 8 (alternative assessment of charges) after “charges” insert “ – default arrangements”.
+**15.**[^c-9f0c59234c4b4fa85dad7ccdbca6abd6] In the heading to regulation 8 (alternative assessment of charges) after “charges” insert “ – default arrangements”.
 
-**16.**[^key-f1ed29c80c160f3d1d4cf37c398dd414] After regulation 8 insert—
+**16.**[^c-f1ed29c80c160f3d1d4cf37c398dd414] After regulation 8 insert—
 
 > **8A. Alternative assessment of charges – qualifying collective money purchase schemes.**
 >
@@ -506,7 +506,7 @@ The Occupational Pension Schemes (Charges and Governance) Regulations (Northern 
 
 .
 
-**17.**[^key-6c267d865cb0e5a040d9af57df04729b] In regulation 9 (member agreement for services)—
+**17.**[^c-6c267d865cb0e5a040d9af57df04729b] In regulation 9 (member agreement for services)—
 
 - (a) in paragraph (1) after “Subject to paragraph (3),” insert “in the case of a member of a relevant scheme (that is not a collective money purchase scheme),”;
 - (b) after paragraph (1) insert—
@@ -526,11 +526,11 @@ The Occupational Pension Schemes (Charges and Governance) Regulations (Northern 
 
     .
 
-**18.**[^key-d4d4f3590b0d3ace5b4e1da8711d1b3b] In regulation 10(1) (charge limits adjustment) after “relevant scheme” insert “, that is not a collective money purchase scheme,”.
+**18.**[^c-d4d4f3590b0d3ace5b4e1da8711d1b3b] In regulation 10(1) (charge limits adjustment) after “relevant scheme” insert “, that is not a collective money purchase scheme,”.
 
-**19.**[^key-ad687224930329f999d0bbee5db6305e] In regulation 11(5) (non-contributing members) in the definition of “relevant scheme” for “regulation 2(2)” substitute “regulation 2(2)(a) or (b)”.
+**19.**[^c-ad687224930329f999d0bbee5db6305e] In regulation 11(5) (non-contributing members) in the definition of “relevant scheme” for “regulation 2(2)” substitute “regulation 2(2)(a) or (b)”.
 
-**20.**[^key-0e537a7698bc54ee6b3948599957589d] In regulation 11A[^f00082] (relevant information)—
+**20.**[^c-0e537a7698bc54ee6b3948599957589d] In regulation 11A[^f00082] (relevant information)—
 
 - (a) in paragraph (1)[^f00083]—
   - (i) for “applies” substitute “applies—“;
@@ -543,13 +543,13 @@ The Occupational Pension Schemes (Charges and Governance) Regulations (Northern 
     ;
 - (b) in paragraph (3) after “specified scheme”, in both places where it occurs, insert “or specified section, as applicable”.
 
-**21.**[^key-5dd19704671b6bbaeddac719d915ee7f] In regulation 11B (relevant information) after paragraph (7) add—
+**21.**[^c-5dd19704671b6bbaeddac719d915ee7f] In regulation 11B (relevant information) after paragraph (7) add—
 
 > (8) In this regulation, in relation to a specified section, references to a “specified scheme” are to be read as references to a “specified section”.
 
 .
 
-**22.**[^key-e534d8d71ef0729c289d5dce9596478a] In regulation 11C (member agreement for payments to advisers) for paragraph (5) substitute—
+**22.**[^c-e534d8d71ef0729c289d5dce9596478a] In regulation 11C (member agreement for payments to advisers) for paragraph (5) substitute—
 
 > (5) In this regulation—
 >
@@ -560,7 +560,7 @@ The Occupational Pension Schemes (Charges and Governance) Regulations (Northern 
 
 ## Annotations
 
-[^key-fdd56cc11b120681dfd7793f776e7963]: Commencement: Sch. 7 para. 1 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-fdd56cc11b120681dfd7793f776e7963]: Commencement: Sch. 7 para. 1 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
 [^f00056]: Footnote: [S.R. 1997 No. 94](https://www.legislation.gov.uk/nisr/1997/94); relevant amending Regulations are [S.R. 2015 No. 309](https://www.legislation.gov.uk/nisr/2015/309), [S.R. 2018 No. 53](https://www.legislation.gov.uk/nisr/2018/53), [S.R. 2021 No. 272](https://www.legislation.gov.uk/nisr/2021/272) and [S.R. 2023 No. 158](https://www.legislation.gov.uk/nisr/2023/158); *see also* paragraph 1 of Schedule 7 to [S.R. 2023 No. 117](https://www.legislation.gov.uk/nisr/2023/117)
 
@@ -582,7 +582,7 @@ The Occupational Pension Schemes (Charges and Governance) Regulations (Northern 
 
 [^f00065]: Footnote: [S.R. 2005 No. 569](https://www.legislation.gov.uk/nisr/2005/569); regulation 2 was amended by regulation 4(2) of [S.R. 2018 No. 165](https://www.legislation.gov.uk/nisr/2018/165) and regulation 2(2) of [S.R. 2019 No. 115](https://www.legislation.gov.uk/nisr/2019/115)
 
-[^key-14337391cc021cca97d07e05aba56b28]: Commencement: Sch. 7 para. 2 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-14337391cc021cca97d07e05aba56b28]: Commencement: Sch. 7 para. 2 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
 [^f00066]: Footnote: [S.R. 2010 No. 122](https://www.legislation.gov.uk/nisr/2010/122); relevant amending Regulations are [S.R. 2012 No. 237](https://www.legislation.gov.uk/nisr/2012/237) and [S.I. 2019/193](https://www.legislation.gov.uk/uksi/2019/193); *see also* paragraph 2 of Schedule 7 to [S.R. 2023 No. 117](https://www.legislation.gov.uk/nisr/2023/117)
 
@@ -594,11 +594,11 @@ The Occupational Pension Schemes (Charges and Governance) Regulations (Northern 
 
 [^f00070]: Footnote: Section 44(4) was substituted by Article 64 of the Social Security (Northern Ireland) Order 1998 ([S.I. 1998/1506 (N.I. 10))](https://www.legislation.gov.uk/nisi/1998/1506) and amended by Article 4(3) of [S.R. 2022 No. 143](https://www.legislation.gov.uk/nisr/2022/143)
 
-[^key-45dc99841b9e2ee4b0daf8fe73b63f6b]: Commencement: Sch. 7 para. 3 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-45dc99841b9e2ee4b0daf8fe73b63f6b]: Commencement: Sch. 7 para. 3 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
 [^f00071]: Footnote: [S.R. 2015 No. 309](https://www.legislation.gov.uk/nisr/2015/309); relevant amending Regulations are [S.R. 2016 No. 171](https://www.legislation.gov.uk/nisr/2016/171), [S.R. 2018 No. 54](https://www.legislation.gov.uk/nisr/2018/54) and [S.R. 2021 No. 272](https://www.legislation.gov.uk/nisr/2021/272); *see also* paragraphs 3 to 22 of Schedule 7 to [S.R. 2023 No. 117](https://www.legislation.gov.uk/nisr/2023/117)
 
-[^key-6b6fcad971bed69148407d3f7b2e7670]: Commencement: Sch. 7 para. 4 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-6b6fcad971bed69148407d3f7b2e7670]: Commencement: Sch. 7 para. 4 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
 [^f00072]: Footnote: The definition of “performance fee” was inserted by regulation 6(2)(a)(iii) of [S.R. 2021 No. 272](https://www.legislation.gov.uk/nisr/2021/272)
 
@@ -608,15 +608,15 @@ The Occupational Pension Schemes (Charges and Governance) Regulations (Northern 
 
 [^f00075]: Footnote: The definition of “specified scheme” was inserted by regulation 3(d) of [S.R. 2016 No. 171](https://www.legislation.gov.uk/nisr/2016/171)
 
-[^key-9b0b3cea7fec1d5efc9fc8bdadfdf4e9]: Commencement: Sch. 7 para. 5 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-9b0b3cea7fec1d5efc9fc8bdadfdf4e9]: Commencement: Sch. 7 para. 5 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-f1ad6d5afaaad405ed7980555d1bd504]: Commencement: Sch. 7 para. 6 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-f1ad6d5afaaad405ed7980555d1bd504]: Commencement: Sch. 7 para. 6 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-38e5943befacf218ee35419bb7915846]: Commencement: Sch. 7 para. 7 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-38e5943befacf218ee35419bb7915846]: Commencement: Sch. 7 para. 7 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
 [^f00076]: Footnote: The heading to Chapter 1 was inserted by regulation 6(3) of [S.R. 2021 No. 272](https://www.legislation.gov.uk/nisr/2021/272)
 
-[^key-fa7e1a4346cd3202f578bba635ccff51]: Commencement: Sch. 7 para. 8 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-fa7e1a4346cd3202f578bba635ccff51]: Commencement: Sch. 7 para. 8 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
 [^f00077]: Footnote: Paragraph (1) was amended by regulation 4(1)(a) of [S.R. 2016 No. 171](https://www.legislation.gov.uk/nisr/2016/171) and regulation 6(4)(a) of [S.R. 2021 No. 272](https://www.legislation.gov.uk/nisr/2021/272)
 
@@ -628,34 +628,34 @@ The Occupational Pension Schemes (Charges and Governance) Regulations (Northern 
 
 [^f00081]: Footnote: The definition of “pensioner member” was amended by Article 11(7) of [S.I. 2006/745](https://www.legislation.gov.uk/uksi/2006/745)
 
-[^key-4570bc68aeec5d3dfabab9bb5384bfc4]: Commencement: Sch. 7 para. 9 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-4570bc68aeec5d3dfabab9bb5384bfc4]: Commencement: Sch. 7 para. 9 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-d95ae99e1806bf82f19d56d529345899]: Commencement: Sch. 7 para. 10 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-d95ae99e1806bf82f19d56d529345899]: Commencement: Sch. 7 para. 10 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-4f2342a87c2a8d3b0950a03ced823f2b]: Commencement: Sch. 7 para. 11 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-4f2342a87c2a8d3b0950a03ced823f2b]: Commencement: Sch. 7 para. 11 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-b78f76d7df83c61d86b51cabe5793286]: Commencement: Sch. 7 para. 12 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-b78f76d7df83c61d86b51cabe5793286]: Commencement: Sch. 7 para. 12 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-c44d0ad684f08973c74ebfc24468a3ad]: Commencement: Sch. 7 para. 13 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-c44d0ad684f08973c74ebfc24468a3ad]: Commencement: Sch. 7 para. 13 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-ffdec0239ba5f13fa23b9113a2d34830]: Commencement: Sch. 7 para. 14 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-ffdec0239ba5f13fa23b9113a2d34830]: Commencement: Sch. 7 para. 14 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-9f0c59234c4b4fa85dad7ccdbca6abd6]: Commencement: Sch. 7 para. 15 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-9f0c59234c4b4fa85dad7ccdbca6abd6]: Commencement: Sch. 7 para. 15 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-f1ed29c80c160f3d1d4cf37c398dd414]: Commencement: Sch. 7 para. 16 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-f1ed29c80c160f3d1d4cf37c398dd414]: Commencement: Sch. 7 para. 16 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-6c267d865cb0e5a040d9af57df04729b]: Commencement: Sch. 7 para. 17 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-6c267d865cb0e5a040d9af57df04729b]: Commencement: Sch. 7 para. 17 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-d4d4f3590b0d3ace5b4e1da8711d1b3b]: Commencement: Sch. 7 para. 18 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-d4d4f3590b0d3ace5b4e1da8711d1b3b]: Commencement: Sch. 7 para. 18 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-ad687224930329f999d0bbee5db6305e]: Commencement: Sch. 7 para. 19 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-ad687224930329f999d0bbee5db6305e]: Commencement: Sch. 7 para. 19 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-0e537a7698bc54ee6b3948599957589d]: Commencement: Sch. 7 para. 20 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-0e537a7698bc54ee6b3948599957589d]: Commencement: Sch. 7 para. 20 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
 [^f00082]: Footnote: Regulations 11A to 11C were inserted by regulation 5 of [S.R. 2016 No. 171](https://www.legislation.gov.uk/nisr/2016/171)
 
 [^f00083]: Footnote: Paragraph (1) was amended by regulation 6(9)(a) of [S.R. 2021 No. 272](https://www.legislation.gov.uk/nisr/2021/272)
 
-[^key-5dd19704671b6bbaeddac719d915ee7f]: Commencement: Sch. 7 para. 21 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-5dd19704671b6bbaeddac719d915ee7f]: Commencement: Sch. 7 para. 21 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-e534d8d71ef0729c289d5dce9596478a]: Commencement: Sch. 7 para. 22 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-e534d8d71ef0729c289d5dce9596478a]: Commencement: Sch. 7 para. 22 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)

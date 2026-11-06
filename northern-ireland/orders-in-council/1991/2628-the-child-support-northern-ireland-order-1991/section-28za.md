@@ -22,7 +22,7 @@ summary: ''
 
 (1) This Article applies where—
 
-- (a) a decision by the Department falls to be made under Article 13, 14, 18 or 19 [^key-8a5b2da996ee59c830a16d51414b82ab]...; and
+- (a) a decision by the Department falls to be made under Article 13, 14, 18 or 19 [^c-8a5b2da996ee59c830a16d51414b82ab]...; and
 - (b) an appeal is pending against a decision given in relation to a different matter[^c21017861] by a Child Support Commissioner or a court.
 
 (2) If the Department considers it possible that the result of the appeal will be such that, if it were already determined, it would affect the decision in some way—
@@ -44,6 +44,6 @@ summary: ''
 
 [^c21019191]: Textual amendment: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 
-[^key-8a5b2da996ee59c830a16d51414b82ab]: Textual amendment: Words in [art. 28ZA(1)(a)](https://www.legislation.gov.uk/nisi/1991/2628/article/28ZA/1/a) repealed (14.7.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 5](https://www.legislation.gov.uk/nia/2008/10/schedule/5) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2008/291](https://www.legislation.gov.uk/nisr/2008/291), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2008/291/article/2/1/c)
+[^c-8a5b2da996ee59c830a16d51414b82ab]: Textual amendment: Words in [art. 28ZA(1)(a)](https://www.legislation.gov.uk/nisi/1991/2628/article/28ZA/1/a) repealed (14.7.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 5](https://www.legislation.gov.uk/nia/2008/10/schedule/5) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2008/291](https://www.legislation.gov.uk/nisr/2008/291), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2008/291/article/2/1/c)
 
 [^c21017861]: Textual amendment: Words in [art. 28ZA(1)(b)](https://www.legislation.gov.uk/nisi/1991/2628/article/28ZA/1/b) substituted (3.3.2003 for specified purposes) by [Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4)](https://www.legislation.gov.uk/nia/2000/4), [ss. 25](https://www.legislation.gov.uk/nia/2000/4/section/25), [68(2)](https://www.legislation.gov.uk/nia/2000/4/section/68/2), [Sch. 3 para. 19(b)](https://www.legislation.gov.uk/nia/2000/4/schedule/3/paragraph/19/b); [S.R. 2003/53](https://www.legislation.gov.uk/nisr/2003/53), [art. 3(1)](https://www.legislation.gov.uk/nisr/2003/53/article/3/1), [Sch.](https://www.legislation.gov.uk/nisr/2003/53/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE ZA1 — Civil penalties under section 9E[^key-1efed85c2dec5d3407693a37e0fc8ef4]
+## SCHEDULE ZA1 — Civil penalties under section 9E[^c-1efed85c2dec5d3407693a37e0fc8ef4]
 
 *Extent: E+W+S+N.I.*
 
@@ -79,7 +79,7 @@ Section 9E
 
 **10.** Regulations may make provision about the recovery of civil penalties by registration officers.
 
-**11.**[^key-7a5862def000a5caa422de22b3fd80e6] A civil penalty received by a registration officer is to be paid into the Consolidated Fund.
+**11.**[^c-7a5862def000a5caa422de22b3fd80e6] A civil penalty received by a registration officer is to be paid into the Consolidated Fund.
 
 ### Power to make further provision
 
@@ -87,6 +87,6 @@ Section 9E
 
 ## Annotations
 
-[^key-1efed85c2dec5d3407693a37e0fc8ef4]: Textual amendment: [Sch. ZA1](https://www.legislation.gov.uk/ukpga/1983/2/schedule/ZA1) inserted (10.6.2014 for E.W., 15.9.2014 for N.I., 19.9.2014 for S.) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2013/6/section/5/2), [27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2013/6/schedule/3) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(e)(l)](https://www.legislation.gov.uk/uksi/2014/414/article/5/e/l); [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(d)(k)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/d/k)
+[^c-1efed85c2dec5d3407693a37e0fc8ef4]: Textual amendment: [Sch. ZA1](https://www.legislation.gov.uk/ukpga/1983/2/schedule/ZA1) inserted (10.6.2014 for E.W., 15.9.2014 for N.I., 19.9.2014 for S.) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2013/6/section/5/2), [27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2013/6/schedule/3) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(e)(l)](https://www.legislation.gov.uk/uksi/2014/414/article/5/e/l); [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(d)(k)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/d/k)
 
-[^key-7a5862def000a5caa422de22b3fd80e6]: Modification: [Sch. ZA1 para. 11](https://www.legislation.gov.uk/ukpga/1983/2/schedule/ZA1/paragraph/11) modified (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2018/644/schedule/2/paragraph/1)
+[^c-7a5862def000a5caa422de22b3fd80e6]: Modification: [Sch. ZA1 para. 11](https://www.legislation.gov.uk/ukpga/1983/2/schedule/ZA1/paragraph/11) modified (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2018/644/schedule/2/paragraph/1)

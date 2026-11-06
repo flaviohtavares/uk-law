@@ -35,7 +35,7 @@ summary: ''
 - “discrimination” and related terms shall be construed in accordance with paragraph (7);
 - “dispose”, in relation to premises, includes granting a right to occupy the premises, and any reference to acquiring premises shall be construed accordingly;
 - “education” includes any form of training or instruction;
-- [^key-7eaae60b97ea5a1de91030966b722db2]...
+- [^c-7eaae60b97ea5a1de91030966b722db2]...
 - “employment” means employment under a contract of service or of apprenticeship or a contract personally to execute any work or labour, and related expressions shall be construed accordingly;
 - “employment agency” means a person who, for profit or not, provides services for the purpose of finding employment for workers or supplying employers with workers;
 - “enactment” includes an enactment contained in an Act of Parliament or in an Act of the Parliament of Northern Ireland or a Measure or an Order in Council having the same effect as such an Act or a Measure;
@@ -64,7 +64,7 @@ summary: ''
 - “prescribed”, except in relation to anything required or permitted to be prescribed by order or county court rules, means prescribed by regulations made by the Department of Manpower Services;
 - “profession” includes any vocation or occupation;
 - “proprietor”, in relation to any school, has the meaning given by Article 2(2) of the Education and Libraries (Northern Ireland) Order 1986;
-- [^key-da87e713bbcded33d917d73fa9ea8951]...
+- [^c-da87e713bbcded33d917d73fa9ea8951]...
 - “retirement” includes retirement (whether voluntary or not) on grounds of age, length of service or incapacity;
 - “school” has the meaning given by Article 2(2) of the Education and Libraries (Northern Ireland) Order 1986;
 - “statutory provision” has the meaning given by section 1( *f*) of the Interpretation Act (Northern Ireland) 1954 [^m00004];
@@ -94,7 +94,7 @@ summary: ''
 (7) In this Order—
 
 - (a) references to discrimination refer to any discrimination falling within Articles 3 to 6; and
-- (b) references to sex discrimination refer to any discrimination falling within Article 3, 3A[^key-a048b377272571f10e6097b0aa03aa46] 4 , 5A or 5B[^c20768481],
+- (b) references to sex discrimination refer to any discrimination falling within Article 3, 3A[^c-a048b377272571f10e6097b0aa03aa46] 4 , 5A or 5B[^c20768481],
 
 and related expressions shall be construed accordingly.
 
@@ -108,7 +108,7 @@ and related expressions shall be construed accordingly.
 
 [^c17231971]: Textual amendment: SR 2005/426
 
-[^key-7eaae60b97ea5a1de91030966b722db2]: Textual amendment: Words in art. 2(2) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-7eaae60b97ea5a1de91030966b722db2]: Textual amendment: Words in art. 2(2) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^m00002]: Marginal citation: 1970 c.32
 
@@ -122,7 +122,7 @@ and related expressions shall be construed accordingly.
 
 [^c17231991]: Textual amendment: [1986 NI 3](https://www.legislation.gov.uk/nisi/1986)
 
-[^key-da87e713bbcded33d917d73fa9ea8951]: Textual amendment: Words in art. 2(2) omitted (2.5.2016) by virtue of [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2016/191/regulation/3/a)
+[^c-da87e713bbcded33d917d73fa9ea8951]: Textual amendment: Words in art. 2(2) omitted (2.5.2016) by virtue of [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2016/191/regulation/3/a)
 
 [^m00004]: Marginal citation: 1954 c.33
 
@@ -132,7 +132,7 @@ and related expressions shall be construed accordingly.
 
 [^c17232281]: Textual amendment: [2004 c.33](https://www.legislation.gov.uk/ukpga/2004/33)
 
-[^key-a048b377272571f10e6097b0aa03aa46]: Textual amendment: Word in art. 2(7)(b) inserted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [3(b)](https://www.legislation.gov.uk/nisr/2016/191/regulation/3/b)
+[^c-a048b377272571f10e6097b0aa03aa46]: Textual amendment: Word in art. 2(7)(b) inserted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [3(b)](https://www.legislation.gov.uk/nisr/2016/191/regulation/3/b)
 
 [^c20768481]: Textual amendment: Words in art. 2(7)(b) substituted (6.4.2008) by [Sex Discrimination (Amendment of Legislation) Regulations 2008 (S.I. 2008/963)](https://www.legislation.gov.uk/uksi/2008/963), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/963/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/963/regulation/2/2), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2008/963/schedule/2/paragraph/3/2)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 156. Death gratuity - estate[^key-61eb48986c16d7361ca1de499a2358c6]
+## 156. Death gratuity - estate[^c-61eb48986c16d7361ca1de499a2358c6]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61eb48986c16d7361ca1de499a2358c6]: Commencement: Reg. 156 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-61eb48986c16d7361ca1de499a2358c6]: Commencement: Reg. 156 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

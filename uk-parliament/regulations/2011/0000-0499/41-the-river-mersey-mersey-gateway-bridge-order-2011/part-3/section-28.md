@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Temporary use of land for construction of works[^key-adee10e69da021ffabdcf8dfbb2c33bf]
+## 28. Temporary use of land for construction of works[^c-adee10e69da021ffabdcf8dfbb2c33bf]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-adee10e69da021ffabdcf8dfbb2c33bf]: Commencement: Art. 28 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-adee10e69da021ffabdcf8dfbb2c33bf]: Commencement: Art. 28 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

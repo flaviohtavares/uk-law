@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12A. Requirement that facilities retain certain data[^key-b5b981a36f6a3750f9f8aa5d4456f17a]
+## 12A. Requirement that facilities retain certain data[^c-b5b981a36f6a3750f9f8aa5d4456f17a]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5b981a36f6a3750f9f8aa5d4456f17a]: Textual amendment: Regs. 12A, 12B inserted (31.8.2006) by [The Blood Safety and Quality (Amendment) Regulations 2006 (S.I. 2006/2013)](https://www.legislation.gov.uk/uksi/2006/2013), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2013/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2006/2013/regulation/7)
+[^c-b5b981a36f6a3750f9f8aa5d4456f17a]: Textual amendment: Regs. 12A, 12B inserted (31.8.2006) by [The Blood Safety and Quality (Amendment) Regulations 2006 (S.I. 2006/2013)](https://www.legislation.gov.uk/uksi/2006/2013), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2013/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2006/2013/regulation/7)

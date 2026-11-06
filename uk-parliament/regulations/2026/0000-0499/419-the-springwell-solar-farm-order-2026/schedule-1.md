@@ -22,7 +22,7 @@ summary: ''
 
 Article 3
 
-**1.**[^key-a2a59ff048b4851e3a9d1a1e8bc61e47] In this Schedule—
+**1.**[^c-a2a59ff048b4851e3a9d1a1e8bc61e47] In this Schedule—
 
 - “**balance of solar system (BoSS) plant**” means inverters, transformers and switch gear and would be either—
   - (a) centralised inverters, transformers and switch gear placed on adjustable legs or metal skids with each component either—
@@ -36,7 +36,7 @@ Article 3
 - “**energy storage**” means equipment used for the storage of electrical energy;
 - “**inverter**” means electrical equipment required to convert direct current power to alternating current;
 - “main collector compound” connects Work Nos. 1, 3 and 4 to Work No. 2 to enable collection of electricity and transmission of electricity from and to Work No. 2, and comprises switch gear and transformers in either indoor units or outdoor fenced area and control buildings housing monitoring equipment, storage, security and welfare facilities;
-- “**mounting structure**” means a frame or rack made of galvanised steel, anodised aluminium or other material designed to support the solar PV modules[^key-f9cc97ae0dbb724a70795b738fcebbca] and mounted on piles driven into the ground, helical piles or pillars fixed to a concrete foundation;
+- “**mounting structure**” means a frame or rack made of galvanised steel, anodised aluminium or other material designed to support the solar PV modules[^c-f9cc97ae0dbb724a70795b738fcebbca] and mounted on piles driven into the ground, helical piles or pillars fixed to a concrete foundation;
 - “**permissive paths**” means new paths providing restricted public access within the Order limits along the approximate routes shown on the outline landscape and ecology management plan;
 - “**satellite collector compound**” means a compound with electrical equipment required to collect electricity from the balance of solar system (BoSS) plant in Work No. 1 and transmits it to Work No. 2, sitting on concrete pads or concrete columns;
 - “**solar PV module**” means a solar photovoltaic panel or module designed to convert solar irradiance to electrical energy;
@@ -44,7 +44,7 @@ Article 3
 - “**switch gear**” means a combination of electrical disconnect switches, fuses or circuit breakers used to control, protect and isolate electrical equipment; and
 - “**transformer**” means a structure serving to transform electricity to a different voltage.
 
-### 2. Authorised development[^key-b9ff1feb12ba69ae8490268b11af69eb]
+### 2. Authorised development[^c-b9ff1feb12ba69ae8490268b11af69eb]
 
 In the District of North Kesteven and in the County of Lincolnshire a nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act and associated development under section 115(1)(b) of the 2008 Act.
 
@@ -147,8 +147,8 @@ and associated development within the meaning of section 115(2) of the 2008 Act 
 
 ## Annotations
 
-[^key-a2a59ff048b4851e3a9d1a1e8bc61e47]: Commencement: Sch. 1 para. 1 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-a2a59ff048b4851e3a9d1a1e8bc61e47]: Commencement: Sch. 1 para. 1 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-f9cc97ae0dbb724a70795b738fcebbca]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2026/419/schedule/1/paragraph/1) substituted (23.9.2026) by [The Springwell Solar Farm (Correction) Order 2026 (S.I. 2026/1052)](https://www.legislation.gov.uk/uksi/2026/1052), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1052/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/1052/schedule)
+[^c-f9cc97ae0dbb724a70795b738fcebbca]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2026/419/schedule/1/paragraph/1) substituted (23.9.2026) by [The Springwell Solar Farm (Correction) Order 2026 (S.I. 2026/1052)](https://www.legislation.gov.uk/uksi/2026/1052), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1052/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/1052/schedule)
 
-[^key-b9ff1feb12ba69ae8490268b11af69eb]: Commencement: Sch. 1 para. 2 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-b9ff1feb12ba69ae8490268b11af69eb]: Commencement: Sch. 1 para. 2 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)

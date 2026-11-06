@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Obligations of compliance schemes[^key-6007229199ccc09c9cf692c393de45e0]
+## 43. Obligations of compliance schemes[^c-6007229199ccc09c9cf692c393de45e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6007229199ccc09c9cf692c393de45e0]: Commencement: Reg. 43 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-6007229199ccc09c9cf692c393de45e0]: Commencement: Reg. 43 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

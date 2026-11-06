@@ -49,11 +49,11 @@ The Secretary of State, in exercise of the powers conferred by sections 29(2)(c)
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-c97cf26da9468082bef23c9b8ba6b4c7]
+### 1. Citation and commencement[^c-c97cf26da9468082bef23c9b8ba6b4c7]
 
 This Order may be cited as the Regulation of Investigatory Powers (Covert Human Intelligence Sources: Matters Subject to Legal Privilege) Order 2010 and shall come into force on 18<sup>th</sup> February 2010.
 
-### 2. Interpretation[^key-b5eac9c88df864e0dccf40439c99310b]
+### 2. Interpretation[^c-b5eac9c88df864e0dccf40439c99310b]
 
 (1) In this Order—
 
@@ -69,9 +69,9 @@ This Order may be cited as the Regulation of Investigatory Powers (Covert Human 
 
 ## PART 2 — CONDUCT TO WHICH THIS ORDER APPLIES
 
-### 3. Matters subject to legal privilege[^key-506be4c9bdaf55b3c6736f88b8315887]
+### 3. Matters subject to legal privilege[^c-506be4c9bdaf55b3c6736f88b8315887]
 
-(1) This Order applies where any conduct that is, or is to be, authorised in an authorisation under section 29 or section 29B[^key-a2d2aea45e6b8f0d26667e057d20dbde] of the 2000 Act consists in any activities involving conduct of a source, or the use of a source, to—
+(1) This Order applies where any conduct that is, or is to be, authorised in an authorisation under section 29 or section 29B[^c-a2d2aea45e6b8f0d26667e057d20dbde] of the 2000 Act consists in any activities involving conduct of a source, or the use of a source, to—
 
 - (a) obtain matters subject to legal privilege,
 - (b) provide access to any matters subject to legal privilege to another person, or
@@ -81,11 +81,11 @@ This Order may be cited as the Regulation of Investigatory Powers (Covert Human 
 
 (3) Where a single authorisation under section 29 or section 29B of the 2000 Act authorises conduct to which this Order applies and other conduct falling within Part II of that Act, the requirements imposed by Part 3 of this Order shall only apply in relation to those parts of the combined authorisation which authorise conduct falling within paragraph (1).
 
-## PART 3 — APPROVAL BY JUDICIAL COMMISSIONER OR SECRETARY OF STATE[^key-37e1fb3acd80a01d998e775027b8c95c]
+## PART 3 — APPROVAL BY JUDICIAL COMMISSIONER OR SECRETARY OF STATE[^c-37e1fb3acd80a01d998e775027b8c95c]
 
-### 4. Approving officer[^key-1fae50c0c947ec77fc4ac090a7420a5f]
+### 4. Approving officer[^c-1fae50c0c947ec77fc4ac090a7420a5f]
 
-(1) Where the person designated for the purposes of section 29 or section 29B[^key-63b1ceb29c1c9443185126923daa8b2a] of the 2000 Act is—
+(1) Where the person designated for the purposes of section 29 or section 29B[^c-63b1ceb29c1c9443185126923daa8b2a] of the 2000 Act is—
 
 - (a) a member of any of the intelligence services,
 - (b) an official of the Ministry of Defence,
@@ -94,9 +94,9 @@ This Order may be cited as the Regulation of Investigatory Powers (Covert Human 
 
 the approving officer for the purposes of this Part shall be the Secretary of State.
 
-(2) In any other case, the approving officer shall be a Judicial Commissioner[^key-e42725f195e91b10ed903ef6576ba2ac].
+(2) In any other case, the approving officer shall be a Judicial Commissioner[^c-e42725f195e91b10ed903ef6576ba2ac].
 
-### 5. Notification[^key-8e7651718ace8b3acc4ca62107d0998b]
+### 5. Notification[^c-8e7651718ace8b3acc4ca62107d0998b]
 
 (1) Before a person grants or renews an authorisation for conduct to which this Order applies, that person shall, in accordance with arrangements made by the relevant approving officer, give notice to the approving officer.
 
@@ -108,7 +108,7 @@ the approving officer for the purposes of this Part shall be the Secretary of St
 
 (3) Where a person gives notice under paragraph (1) seeking approval to grant an authorisation, the notice to the approving officer shall, in addition to the statement required by article 5(2)(b), specify—
 
-- (a) the grounds on which the person giving the notice believes the matters specified in article 6(4), section 29(2)(b) and (c) and section 29B(4)(b) and (c)[^key-5f6045a6c584a4d125117fdaf7c47d13] of the 2000 Act;
+- (a) the grounds on which the person giving the notice believes the matters specified in article 6(4), section 29(2)(b) and (c) and section 29B(4)(b) and (c)[^c-5f6045a6c584a4d125117fdaf7c47d13] of the 2000 Act;
 - (b) the conduct falling within article 3(1) that is, or is to be, authorised by the authorisation;
 - (c) the identity, where known, of—
   - (i) the professional legal adviser and his client or any person representing his client, or
@@ -130,7 +130,7 @@ the approving officer for the purposes of this Part shall be the Secretary of St
 
 (5) Any notice that is required by this article to be given in writing may be given, instead, by being transmitted by electronic means.
 
-### 6. Approval required for grant or renewal of authorisations[^key-5de27e9f82af068094d7cb18491294f8]
+### 6. Approval required for grant or renewal of authorisations[^c-5de27e9f82af068094d7cb18491294f8]
 
 (1) An authorisation for conduct to which this Order applies shall not be granted or renewed until—
 
@@ -146,7 +146,7 @@ the approving officer for the purposes of this Part shall be the Secretary of St
 
 - (a) give his approval to the grant or renewal of the authorisation if, and only if, the approving officer is satisfied that there are reasonable grounds for believing that—
   - (i) the authorisation is necessary on grounds falling within paragraph (4), and
-  - (ii) the requirements of section 29(2)(b) and (c) or section 29B(4)(b) and (c)[^key-da1675f35bb7007c571e2e7244bdd5f7] of the 2000 Act are satisfied in the case of the authorisation; and
+  - (ii) the requirements of section 29(2)(b) and (c) or section 29B(4)(b) and (c)[^c-da1675f35bb7007c571e2e7244bdd5f7] of the 2000 Act are satisfied in the case of the authorisation; and
 - (b) give written notice of his decision to the person who gave notice under article 5 as soon as reasonably practicable after making that decision.
 
 (4) An authorisation is necessary on grounds falling within this paragraph if it is necessary—
@@ -157,7 +157,7 @@ the approving officer for the purposes of this Part shall be the Secretary of St
 
 (5) Any notice that is required by this article to be given in writing may be given, instead, by being transmitted by electronic means.
 
-### 7. Notices given by the Secretary of State[^key-dee6afc64fbc09e17e6ef8b6ca154329]
+### 7. Notices given by the Secretary of State[^c-dee6afc64fbc09e17e6ef8b6ca154329]
 
 (1) Subject to paragraph (2), a notice of the Secretary of State’s decision to approve the grant or renewal of an authorisation under article 6(3)(b) shall not be given except under the hand of the Secretary of State.
 
@@ -170,7 +170,7 @@ the notice may be given under the hand of a senior official.
 
 ## PART 4 — DURATION OF AUTHORISATIONS
 
-### 8. Duration[^key-796026288fcb310a1564cce75196ee4e]
+### 8. Duration[^c-796026288fcb310a1564cce75196ee4e]
 
 (1) Subject to paragraph , where an authorisation authorises conduct to which this Order applies, section 43(3) of the 2000 Act shall have effect as if the period specified in paragraph (b) of that subsection was—
 
@@ -186,7 +186,7 @@ section 43(3) of the 2000 Act shall have effect as if the period specified in pa
 
 ## PART 5 — REVOCATION
 
-### 9. Revocation[^key-fdcd2f91f1057ffaeb2c75141b8a95d1]
+### 9. Revocation[^c-fdcd2f91f1057ffaeb2c75141b8a95d1]
 
 The Regulation of Investigatory Powers (Covert Human Intelligence Sources: Matters Subject to Legal Privilege) Order 2009[^f00003] is revoked.
 
@@ -216,36 +216,36 @@ This Order has been made in substitution of the Regulation of Investigatory Powe
 
 [^f00001]: Footnote: [2000 c. 23](https://www.legislation.gov.uk/ukpga/2000/23).
 
-[^key-c97cf26da9468082bef23c9b8ba6b4c7]: Commencement: Art. 1 in force at 18.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/123/article/1)
+[^c-c97cf26da9468082bef23c9b8ba6b4c7]: Commencement: Art. 1 in force at 18.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/123/article/1)
 
-[^key-b5eac9c88df864e0dccf40439c99310b]: Commencement: Art. 2 in force at 18.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/123/article/1)
+[^c-b5eac9c88df864e0dccf40439c99310b]: Commencement: Art. 2 in force at 18.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/123/article/1)
 
 [^f00002]: Footnote: [1997 c.50](https://www.legislation.gov.uk/ukpga/1997/50); section 91(1) has been amended by [S.I. 1999/1747](https://www.legislation.gov.uk/uksi/1999/1747).
 
-[^key-506be4c9bdaf55b3c6736f88b8315887]: Commencement: Art. 3 in force at 18.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/123/article/1)
+[^c-506be4c9bdaf55b3c6736f88b8315887]: Commencement: Art. 3 in force at 18.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/123/article/1)
 
-[^key-a2d2aea45e6b8f0d26667e057d20dbde]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2010/123/article/3) inserted (10.8.2021) by [The Regulation of Investigatory Powers (Criminal Conduct Authorisations) (Amendment) Order 2021 (S.I. 2021/601)](https://www.legislation.gov.uk/uksi/2021/601), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/601/article/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2021/601/article/3/a)
+[^c-a2d2aea45e6b8f0d26667e057d20dbde]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2010/123/article/3) inserted (10.8.2021) by [The Regulation of Investigatory Powers (Criminal Conduct Authorisations) (Amendment) Order 2021 (S.I. 2021/601)](https://www.legislation.gov.uk/uksi/2021/601), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/601/article/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2021/601/article/3/a)
 
-[^key-37e1fb3acd80a01d998e775027b8c95c]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2010/123/part/3) heading substituted (11.9.2017) by [The Investigatory Powers Act 2016 (Consequential Amendments and Saving Provisions) Regulations 2017 (S.I. 2017/845)](https://www.legislation.gov.uk/uksi/2017/845), [regs. 1](https://www.legislation.gov.uk/uksi/2017/845/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2017/845/regulation/5/2) (with [reg. 5(4)](https://www.legislation.gov.uk/uksi/2017/845/regulation/5/4))
+[^c-37e1fb3acd80a01d998e775027b8c95c]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2010/123/part/3) heading substituted (11.9.2017) by [The Investigatory Powers Act 2016 (Consequential Amendments and Saving Provisions) Regulations 2017 (S.I. 2017/845)](https://www.legislation.gov.uk/uksi/2017/845), [regs. 1](https://www.legislation.gov.uk/uksi/2017/845/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2017/845/regulation/5/2) (with [reg. 5(4)](https://www.legislation.gov.uk/uksi/2017/845/regulation/5/4))
 
-[^key-1fae50c0c947ec77fc4ac090a7420a5f]: Commencement: Art. 4 in force at 18.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/123/article/1)
+[^c-1fae50c0c947ec77fc4ac090a7420a5f]: Commencement: Art. 4 in force at 18.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/123/article/1)
 
-[^key-63b1ceb29c1c9443185126923daa8b2a]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2010/123/article/4) inserted (10.8.2021) by [The Regulation of Investigatory Powers (Criminal Conduct Authorisations) (Amendment) Order 2021 (S.I. 2021/601)](https://www.legislation.gov.uk/uksi/2021/601), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/601/article/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2021/601/article/3/b)
+[^c-63b1ceb29c1c9443185126923daa8b2a]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2010/123/article/4) inserted (10.8.2021) by [The Regulation of Investigatory Powers (Criminal Conduct Authorisations) (Amendment) Order 2021 (S.I. 2021/601)](https://www.legislation.gov.uk/uksi/2021/601), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/601/article/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2021/601/article/3/b)
 
-[^key-e42725f195e91b10ed903ef6576ba2ac]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2010/123/article/4/2) substituted (11.9.2017) by [The Investigatory Powers Act 2016 (Consequential Amendments and Saving Provisions) Regulations 2017 (S.I. 2017/845)](https://www.legislation.gov.uk/uksi/2017/845), [regs. 1](https://www.legislation.gov.uk/uksi/2017/845/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2017/845/regulation/5/3) (with [reg. 5(4)](https://www.legislation.gov.uk/uksi/2017/845/regulation/5/4))
+[^c-e42725f195e91b10ed903ef6576ba2ac]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2010/123/article/4/2) substituted (11.9.2017) by [The Investigatory Powers Act 2016 (Consequential Amendments and Saving Provisions) Regulations 2017 (S.I. 2017/845)](https://www.legislation.gov.uk/uksi/2017/845), [regs. 1](https://www.legislation.gov.uk/uksi/2017/845/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2017/845/regulation/5/3) (with [reg. 5(4)](https://www.legislation.gov.uk/uksi/2017/845/regulation/5/4))
 
-[^key-8e7651718ace8b3acc4ca62107d0998b]: Commencement: Art. 5 in force at 18.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/123/article/1)
+[^c-8e7651718ace8b3acc4ca62107d0998b]: Commencement: Art. 5 in force at 18.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/123/article/1)
 
-[^key-5f6045a6c584a4d125117fdaf7c47d13]: Textual amendment: Words in [art. 5(3)(a)](https://www.legislation.gov.uk/uksi/2010/123/article/5/3/a) substituted (10.8.2021) by [The Regulation of Investigatory Powers (Criminal Conduct Authorisations) (Amendment) Order 2021 (S.I. 2021/601)](https://www.legislation.gov.uk/uksi/2021/601), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/601/article/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2021/601/article/3/c)
+[^c-5f6045a6c584a4d125117fdaf7c47d13]: Textual amendment: Words in [art. 5(3)(a)](https://www.legislation.gov.uk/uksi/2010/123/article/5/3/a) substituted (10.8.2021) by [The Regulation of Investigatory Powers (Criminal Conduct Authorisations) (Amendment) Order 2021 (S.I. 2021/601)](https://www.legislation.gov.uk/uksi/2021/601), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/601/article/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2021/601/article/3/c)
 
-[^key-5de27e9f82af068094d7cb18491294f8]: Commencement: Art. 6 in force at 18.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/123/article/1)
+[^c-5de27e9f82af068094d7cb18491294f8]: Commencement: Art. 6 in force at 18.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/123/article/1)
 
-[^key-da1675f35bb7007c571e2e7244bdd5f7]: Textual amendment: Words in [art. 6(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2010/123/article/6/3/a/ii) inserted (10.8.2021) by [The Regulation of Investigatory Powers (Criminal Conduct Authorisations) (Amendment) Order 2021 (S.I. 2021/601)](https://www.legislation.gov.uk/uksi/2021/601), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/601/article/1/2), [3(d)](https://www.legislation.gov.uk/uksi/2021/601/article/3/d)
+[^c-da1675f35bb7007c571e2e7244bdd5f7]: Textual amendment: Words in [art. 6(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2010/123/article/6/3/a/ii) inserted (10.8.2021) by [The Regulation of Investigatory Powers (Criminal Conduct Authorisations) (Amendment) Order 2021 (S.I. 2021/601)](https://www.legislation.gov.uk/uksi/2021/601), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/601/article/1/2), [3(d)](https://www.legislation.gov.uk/uksi/2021/601/article/3/d)
 
-[^key-dee6afc64fbc09e17e6ef8b6ca154329]: Commencement: Art. 7 in force at 18.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/123/article/1)
+[^c-dee6afc64fbc09e17e6ef8b6ca154329]: Commencement: Art. 7 in force at 18.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/123/article/1)
 
-[^key-796026288fcb310a1564cce75196ee4e]: Commencement: Art. 8 in force at 18.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/123/article/1)
+[^c-796026288fcb310a1564cce75196ee4e]: Commencement: Art. 8 in force at 18.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/123/article/1)
 
-[^key-fdcd2f91f1057ffaeb2c75141b8a95d1]: Commencement: Art. 9 in force at 18.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/123/article/1)
+[^c-fdcd2f91f1057ffaeb2c75141b8a95d1]: Commencement: Art. 9 in force at 18.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/123/article/1)
 
 [^f00003]: Footnote: [S.I. 2009/3404](https://www.legislation.gov.uk/uksi/2009/3404).

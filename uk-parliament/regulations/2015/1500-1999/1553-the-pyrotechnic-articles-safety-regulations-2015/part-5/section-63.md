@@ -41,14 +41,14 @@ summary: ''
 - (a) in England and Wales, to a fine or imprisonment for a term not exceeding 3 months or to both;
 - (b) in Scotland or Northern Ireland, to a fine not exceeding level 5 on the standard scale or imprisonment for a term not exceeding 3 months or to both.
 
-(2) Except as provided in paragraph (3),[^key-570cef76f1a840ad5ee38e97ed8a55f5] a person guilty of an offence under regulation 62 in respect of a pyrotechnic article to which paragraph (1) does not apply is liable—
+(2) Except as provided in paragraph (3),[^c-570cef76f1a840ad5ee38e97ed8a55f5] a person guilty of an offence under regulation 62 in respect of a pyrotechnic article to which paragraph (1) does not apply is liable—
 
 - (a) on summary conviction—
   - (i) in England and Wales, to a fine or imprisonment for a term not exceeding 3 months or to both;
   - (ii) in Scotland or Northern Ireland, to a fine not exceeding the statutory maximum or imprisonment for a term not exceeding 3 months or to both;
 - (b) on conviction on indictment, to a fine or imprisonment for a term not exceeding 2 years or to both.
 
-(3)[^key-d4cb24de47913e5380d3e706e08dfd1b] A person guilty of an offence under regulation 62(5) insofar as the requirement relates to a UK(NI) indication is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+(3)[^c-d4cb24de47913e5380d3e706e08dfd1b] A person guilty of an offence under regulation 62(5) insofar as the requirement relates to a UK(NI) indication is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
 ## Annotations
 
@@ -56,6 +56,6 @@ summary: ''
 
 [^M_E_ee6b956c-a018-4582-d326-85b7cc82b332]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-570cef76f1a840ad5ee38e97ed8a55f5]: Textual amendment: Words in [reg. 63(2)](https://www.legislation.gov.uk/uksi/2015/1553/regulation/63/2) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/2), [Sch. 2 para. 6(5)(a)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/2/paragraph/6/5/a)
+[^c-570cef76f1a840ad5ee38e97ed8a55f5]: Textual amendment: Words in [reg. 63(2)](https://www.legislation.gov.uk/uksi/2015/1553/regulation/63/2) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/2), [Sch. 2 para. 6(5)(a)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/2/paragraph/6/5/a)
 
-[^key-d4cb24de47913e5380d3e706e08dfd1b]: Textual amendment: [Reg. 63(3)](https://www.legislation.gov.uk/uksi/2015/1553/regulation/63/3) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/2), [Sch. 2 para. 6(5)(b)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/2/paragraph/6/5/b)
+[^c-d4cb24de47913e5380d3e706e08dfd1b]: Textual amendment: [Reg. 63(3)](https://www.legislation.gov.uk/uksi/2015/1553/regulation/63/3) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/2), [Sch. 2 para. 6(5)(b)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/2/paragraph/6/5/b)

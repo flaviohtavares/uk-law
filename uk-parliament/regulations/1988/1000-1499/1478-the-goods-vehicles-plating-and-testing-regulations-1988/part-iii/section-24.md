@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Re-test procedure, and issue of plating and test certificates (or notices of refusal)[^key-ade18421d5959d62fa945f26263225de]
+## 24. Re-test procedure, and issue of plating and test certificates (or notices of refusal)[^c-ade18421d5959d62fa945f26263225de]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ade18421d5959d62fa945f26263225de]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1988/1478/regulation/24) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)
+[^c-ade18421d5959d62fa945f26263225de]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1988/1478/regulation/24) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)

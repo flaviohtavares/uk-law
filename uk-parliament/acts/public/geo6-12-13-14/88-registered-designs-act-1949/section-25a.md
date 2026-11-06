@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25A. Privilege for communications with those on the special list of professional designs representatives[^key-58826e7d0989e8f249acf8c5c52f770c]
+## 25A. Privilege for communications with those on the special list of professional designs representatives[^c-58826e7d0989e8f249acf8c5c52f770c]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ is privileged from, or in Scotland protected against, disclosure in legal procee
 
 ## Annotations
 
-[^key-58826e7d0989e8f249acf8c5c52f770c]: Textual amendment: [S. 25A](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/25A) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 8 para. 8](https://www.legislation.gov.uk/uksi/2019/638/schedule/8/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-58826e7d0989e8f249acf8c5c52f770c]: Textual amendment: [S. 25A](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/25A) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 8 para. 8](https://www.legislation.gov.uk/uksi/2019/638/schedule/8/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

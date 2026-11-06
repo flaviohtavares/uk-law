@@ -36,7 +36,7 @@ An Act to declare charitable the provision in the interests of social welfare of
 
 (1) Subject to the provisions of this Act, it shall be and be deemed always to have been charitable to provide, or assist in the provision of, facilities for recreation or other leisure-time occupation, if the facilities are provided in the interests of social welfare:
 
-Provided that nothing in this section shall be taken to derogate from the requirement in section 2(1)(b) of the Charities Act (Northern Ireland) 2008 that a purpose falling within section 2(2) of that Act must be for the public benefit if it is to be a charitable purpose[^key-ac72cd0f385a885781e335666e3b903a].
+Provided that nothing in this section shall be taken to derogate from the requirement in section 2(1)(b) of the Charities Act (Northern Ireland) 2008 that a purpose falling within section 2(2) of that Act must be for the public benefit if it is to be a charitable purpose[^c-ac72cd0f385a885781e335666e3b903a].
 
 (2)[^c20704841] The requirement in subsection (1) that the facilities are provided in the interests of social welfare cannot be satisfied if the basic conditions are not met.
 
@@ -75,7 +75,7 @@ This Act may be cited as the Recreational Charities Act (Northern Ireland), 1958
 
 ## Annotations
 
-[^key-ac72cd0f385a885781e335666e3b903a]: Textual amendment: Words in s. 1(1) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/1)
+[^c-ac72cd0f385a885781e335666e3b903a]: Textual amendment: Words in s. 1(1) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/1)
 
 [^c20704841]: Textual amendment: S. 1(2)(2A) substituted (18.2.2011) for s. 1(2) by [Charities Act (Northern Ireland) 2008 (c. 12)](https://www.legislation.gov.uk/nia/2008/12), [ss. 5(2)](https://www.legislation.gov.uk/nia/2008/12/section/5/2), [185(1)](https://www.legislation.gov.uk/nia/2008/12/section/185/1); [S.R. 2011/11](https://www.legislation.gov.uk/nisr/2011/11), [art. 2](https://www.legislation.gov.uk/nisr/2011/11/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/11/schedule)
 

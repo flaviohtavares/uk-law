@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 294. Confirmation of order made by planning authority[^key-008490937ff8f61811f95dac76ee0a9c]
+## 294. Confirmation of order made by planning authority[^c-008490937ff8f61811f95dac76ee0a9c]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-008490937ff8f61811f95dac76ee0a9c]: Commencement: S. 294 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-008490937ff8f61811f95dac76ee0a9c]: Commencement: S. 294 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

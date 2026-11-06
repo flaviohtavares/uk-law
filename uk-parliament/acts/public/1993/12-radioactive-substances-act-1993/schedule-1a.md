@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1A — Tables of NORM industrial activities, radionuclides and summation rules[^key-b9bfa87d624bd63d27bf21ea583f9beb][^key-e05bb5a83b3c20a35c457072ae5127b6]
+## SCHEDULE 1A — Tables of NORM industrial activities, radionuclides and summation rules[^c-b9bfa87d624bd63d27bf21ea583f9beb][^c-e05bb5a83b3c20a35c457072ae5127b6]
 
 *Extent: S+N.I.*
 
@@ -48,11 +48,11 @@ Section 1A-D
 | Activities related to coal mine de-watering plants |
 | Water treatment associated with provision of drinking water and the remediation of contamination from other NORM industrial activities |
 | China clay extraction |
-| Geothermal energy production *(Extent: N.I.)*[^key-e20818ee7ba504b2625554fe3c7c5345] |
+| Geothermal energy production *(Extent: N.I.)*[^c-e20818ee7ba504b2625554fe3c7c5345] |
 
 *Extent: N.I.*
 
-Table 2[^key-1bfc62b60e9fdc449983ab76c56f15e5]
+Table 2[^c-1bfc62b60e9fdc449983ab76c56f15e5]
 
 Concentration of radionuclides: NORM industrial activities
 
@@ -76,7 +76,7 @@ Concentration of radionuclides: NORM industrial activities
 
 *Extent: N.I.*
 
-Table 3[^key-574e8719087ed2b49668ad0acf27d3e2]
+Table 3[^c-574e8719087ed2b49668ad0acf27d3e2]
 
 Concentration of radionuclides
 
@@ -437,12 +437,12 @@ Concentration of radionuclides
 
 ## Annotations
 
-[^key-b9bfa87d624bd63d27bf21ea583f9beb]: Textual amendment: Sch. 1A repealed (S.) (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2018/219/schedule/7/paragraph/1) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 paras. 3](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/3), [4](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/4), [6](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/6) and with transitional provisions and savings ([25](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/25).[11](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/11).[2021](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2021)) by [The Environmental Authorisations (Scotland) Regulations 2018 (Transitional and Savings Provisions) Order 2021 (S.I. 2021/1309)](https://www.legislation.gov.uk/uksi/2021/1309), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1309/article/1/1), [3-5](https://www.legislation.gov.uk/uksi/2021/1309/article/3))
+[^c-b9bfa87d624bd63d27bf21ea583f9beb]: Textual amendment: Sch. 1A repealed (S.) (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2018/219/schedule/7/paragraph/1) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 paras. 3](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/3), [4](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/4), [6](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/6) and with transitional provisions and savings ([25](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/25).[11](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/11).[2021](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2021)) by [The Environmental Authorisations (Scotland) Regulations 2018 (Transitional and Savings Provisions) Order 2021 (S.I. 2021/1309)](https://www.legislation.gov.uk/uksi/2021/1309), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1309/article/1/1), [3-5](https://www.legislation.gov.uk/uksi/2021/1309/article/3))
 
-[^key-e05bb5a83b3c20a35c457072ae5127b6]: Textual amendment: Sch. 1A substituted for Sch. 1 (S.) (1.10.2011) by [The Radioactive Substances Act 1993 Amendment (Scotland) Regulations 2011 (S.S.I. 2011/207)](https://www.legislation.gov.uk/ssi/2011/207), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/207/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2011/207/regulation/7), [sch.](https://www.legislation.gov.uk/ssi/2011/207/schedule); and (N.I.) (1.10.2011) by [The Radioactive Substances Act 1993 (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/290)](https://www.legislation.gov.uk/nisr/2011/290), [reg. 1](https://www.legislation.gov.uk/nisr/2011/290/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2011/290/schedule)
+[^c-e05bb5a83b3c20a35c457072ae5127b6]: Textual amendment: Sch. 1A substituted for Sch. 1 (S.) (1.10.2011) by [The Radioactive Substances Act 1993 Amendment (Scotland) Regulations 2011 (S.S.I. 2011/207)](https://www.legislation.gov.uk/ssi/2011/207), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/207/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2011/207/regulation/7), [sch.](https://www.legislation.gov.uk/ssi/2011/207/schedule); and (N.I.) (1.10.2011) by [The Radioactive Substances Act 1993 (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/290)](https://www.legislation.gov.uk/nisr/2011/290), [reg. 1](https://www.legislation.gov.uk/nisr/2011/290/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2011/290/schedule)
 
-[^key-e20818ee7ba504b2625554fe3c7c5345]: Textual amendment: Words in Sch. 1A inserted (N.I.) (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [2(8)(a)](https://www.legislation.gov.uk/nisr/2018/116/regulation/2/8/a)
+[^c-e20818ee7ba504b2625554fe3c7c5345]: Textual amendment: Words in Sch. 1A inserted (N.I.) (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [2(8)(a)](https://www.legislation.gov.uk/nisr/2018/116/regulation/2/8/a)
 
-[^key-1bfc62b60e9fdc449983ab76c56f15e5]: Textual amendment: Sch. 1A Table 2 substituted (N.I.) (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [2(8)(b)](https://www.legislation.gov.uk/nisr/2018/116/regulation/2/8/b)
+[^c-1bfc62b60e9fdc449983ab76c56f15e5]: Textual amendment: Sch. 1A Table 2 substituted (N.I.) (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [2(8)(b)](https://www.legislation.gov.uk/nisr/2018/116/regulation/2/8/b)
 
-[^key-574e8719087ed2b49668ad0acf27d3e2]: Textual amendment: Sch. 1A Table 3 substituted (N.I.) (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [2(8)(c)](https://www.legislation.gov.uk/nisr/2018/116/regulation/2/8/c)
+[^c-574e8719087ed2b49668ad0acf27d3e2]: Textual amendment: Sch. 1A Table 3 substituted (N.I.) (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [2(8)(c)](https://www.legislation.gov.uk/nisr/2018/116/regulation/2/8/c)

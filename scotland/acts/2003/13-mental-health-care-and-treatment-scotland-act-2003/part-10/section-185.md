@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 185. Duty of Scottish Ministers on receiving report from responsible medical officer[^key-195bd9255b89cf6e03c2283f5f7a4be5]
+## 185. Duty of Scottish Ministers on receiving report from responsible medical officer[^c-195bd9255b89cf6e03c2283f5f7a4be5]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ the Scottish Ministers shall make a reference to the Tribunal in respect of the 
 
 ## Annotations
 
-[^key-195bd9255b89cf6e03c2283f5f7a4be5]: Commencement: [S. 185](https://www.legislation.gov.uk/asp/2003/13/section/185) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-195bd9255b89cf6e03c2283f5f7a4be5]: Commencement: [S. 185](https://www.legislation.gov.uk/asp/2003/13/section/185) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 58. Crown rights[^key-a3c647182708527f69b2f34d73e14938]
+## 58. Crown rights[^c-a3c647182708527f69b2f34d73e14938]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3c647182708527f69b2f34d73e14938]: Commencement: Art. 58 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-a3c647182708527f69b2f34d73e14938]: Commencement: Art. 58 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

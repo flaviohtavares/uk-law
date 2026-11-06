@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Further payment where the amount of a winning bidder's deposit is less than its total auction sum[^key-2955dfe463a3010738f7959d2c0b796f]
+## 116. Further payment where the amount of a winning bidder's deposit is less than its total auction sum[^c-2955dfe463a3010738f7959d2c0b796f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where, after the notification given in accordance with regulation 115, the total
 
 ## Annotations
 
-[^key-2955dfe463a3010738f7959d2c0b796f]: Commencement: Reg. 116 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-2955dfe463a3010738f7959d2c0b796f]: Commencement: Reg. 116 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

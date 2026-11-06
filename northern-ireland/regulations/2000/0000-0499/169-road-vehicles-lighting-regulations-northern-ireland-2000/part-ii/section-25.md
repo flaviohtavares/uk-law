@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Additional side marker lamps[^key-4f287a268817d6f2266e96a86863fdfe]
+## 25. Additional side marker lamps[^c-4f287a268817d6f2266e96a86863fdfe]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ TABLE
 
 ## Annotations
 
-[^key-4f287a268817d6f2266e96a86863fdfe]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2000/169/regulation/25) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-4f287a268817d6f2266e96a86863fdfe]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2000/169/regulation/25) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

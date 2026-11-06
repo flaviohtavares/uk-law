@@ -27,22 +27,22 @@ summary: ''
 
 andparagraph 7 (which is superseded by the following provisions of this section) shall be omitted.
 
-(2)[^key-8c30ba0e0f8e2e57f8e1e8ee0fc09c89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8c30ba0e0f8e2e57f8e1e8ee0fc09c89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-8c30ba0e0f8e2e57f8e1e8ee0fc09c89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8c30ba0e0f8e2e57f8e1e8ee0fc09c89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-8c30ba0e0f8e2e57f8e1e8ee0fc09c89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8c30ba0e0f8e2e57f8e1e8ee0fc09c89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-8c30ba0e0f8e2e57f8e1e8ee0fc09c89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-8c30ba0e0f8e2e57f8e1e8ee0fc09c89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-8c30ba0e0f8e2e57f8e1e8ee0fc09c89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-8c30ba0e0f8e2e57f8e1e8ee0fc09c89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-8c30ba0e0f8e2e57f8e1e8ee0fc09c89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-8c30ba0e0f8e2e57f8e1e8ee0fc09c89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-8c30ba0e0f8e2e57f8e1e8ee0fc09c89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-8c30ba0e0f8e2e57f8e1e8ee0fc09c89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c15155991]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 
-[^key-8c30ba0e0f8e2e57f8e1e8ee0fc09c89]: Textual amendment: [S. 187(2)-(8)](https://www.legislation.gov.uk/ukpga/1993/34/section/187/2) omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 5(a)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/5/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2009/3054/article/5))
+[^c-8c30ba0e0f8e2e57f8e1e8ee0fc09c89]: Textual amendment: [S. 187(2)-(8)](https://www.legislation.gov.uk/ukpga/1993/34/section/187/2) omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 5(a)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/5/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2009/3054/article/5))

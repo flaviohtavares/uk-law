@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 468. Partnerships which are authorised persons: administration orders[^key-943462f7d15d16d6167c27215915fe1f]
+## 468. Partnerships which are authorised persons: administration orders[^c-943462f7d15d16d6167c27215915fe1f]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-943462f7d15d16d6167c27215915fe1f]: Commencement: Art. 468 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-943462f7d15d16d6167c27215915fe1f]: Commencement: Art. 468 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00312]: Footnote: [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421).

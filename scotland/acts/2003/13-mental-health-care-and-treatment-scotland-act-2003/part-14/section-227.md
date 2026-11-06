@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 227. Assessment of needs for community care services etc.[^key-1c6debc97ef285f2c3590909c5e84f1a]
+## 227. Assessment of needs for community care services etc.[^c-1c6debc97ef285f2c3590909c5e84f1a]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ the patient shall for the purposes of that section be deemed to appear to the lo
 
 ## Annotations
 
-[^key-1c6debc97ef285f2c3590909c5e84f1a]: Commencement: [S. 227](https://www.legislation.gov.uk/asp/2003/13/section/227) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-1c6debc97ef285f2c3590909c5e84f1a]: Commencement: [S. 227](https://www.legislation.gov.uk/asp/2003/13/section/227) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

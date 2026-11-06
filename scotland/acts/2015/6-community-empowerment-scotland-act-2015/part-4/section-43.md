@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Evidence and notification of concluded missives or option agreements[^key-6f9aa411a5e44241de4a5c039da4d9b4]
+## 43. Evidence and notification of concluded missives or option agreements[^c-6f9aa411a5e44241de4a5c039da4d9b4]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ After section 39 of the 2003 Act, insert—
 
 ## Annotations
 
-[^key-6f9aa411a5e44241de4a5c039da4d9b4]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2015/6/section/43) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-6f9aa411a5e44241de4a5c039da4d9b4]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2015/6/section/43) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

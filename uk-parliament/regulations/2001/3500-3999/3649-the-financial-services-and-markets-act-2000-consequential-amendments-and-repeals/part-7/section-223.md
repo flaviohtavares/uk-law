@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 223. Meaning of “authorised insurer”[^key-7d42a58ebca581cc63a8239052d4db30]
+## 223. Meaning of “authorised insurer”[^c-7d42a58ebca581cc63a8239052d4db30]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d42a58ebca581cc63a8239052d4db30]: Commencement: Art. 223 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-7d42a58ebca581cc63a8239052d4db30]: Commencement: Art. 223 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

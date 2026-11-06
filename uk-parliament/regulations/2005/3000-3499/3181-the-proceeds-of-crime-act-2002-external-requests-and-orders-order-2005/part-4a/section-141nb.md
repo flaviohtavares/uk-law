@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141NB. Legal expenses: regulations for purposes of article 141G(4A)[^key-c7748ed5e0a43634751eeef5a6cb22b7][^key-60d328b1519329044b0e7f9eeb27db3e]
+## 141NB. Legal expenses: regulations for purposes of article 141G(4A)[^c-c7748ed5e0a43634751eeef5a6cb22b7][^c-60d328b1519329044b0e7f9eeb27db3e]
 
 *Extent: E+W+S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c7748ed5e0a43634751eeef5a6cb22b7]: Textual amendment: [Arts. 141NA](https://www.legislation.gov.uk/uksi/2005/3181/article/141NA), [141NB](https://www.legislation.gov.uk/uksi/2005/3181/article/141NB) inserted (E.W.S.) (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [34](https://www.legislation.gov.uk/uksi/2015/1750/article/34)
+[^c-c7748ed5e0a43634751eeef5a6cb22b7]: Textual amendment: [Arts. 141NA](https://www.legislation.gov.uk/uksi/2005/3181/article/141NA), [141NB](https://www.legislation.gov.uk/uksi/2005/3181/article/141NB) inserted (E.W.S.) (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [34](https://www.legislation.gov.uk/uksi/2015/1750/article/34)
 
-[^key-60d328b1519329044b0e7f9eeb27db3e]: Textual amendment: [Pts. 4A](https://www.legislation.gov.uk/uksi/2005/3181/part/4A), [4B](https://www.legislation.gov.uk/uksi/2005/3181/part/4B) inserted (11.11.2013) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2013 (S.I. 2013/2604)](https://www.legislation.gov.uk/uksi/2013/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2604/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2604/article/3)
+[^c-60d328b1519329044b0e7f9eeb27db3e]: Textual amendment: [Pts. 4A](https://www.legislation.gov.uk/uksi/2005/3181/part/4A), [4B](https://www.legislation.gov.uk/uksi/2005/3181/part/4B) inserted (11.11.2013) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2013 (S.I. 2013/2604)](https://www.legislation.gov.uk/uksi/2013/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2604/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2604/article/3)

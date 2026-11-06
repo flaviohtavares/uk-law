@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S*
 
-The Secretary of State shall from time to time, and in any event not less than once in every five years, lay before each House of Parliament a report on the exercise of his functions under this Act[^key-25bd3e05a79b5f374f29df6bfd08d2fa]....
+The Secretary of State shall from time to time, and in any event not less than once in every five years, lay before each House of Parliament a report on the exercise of his functions under this Act[^c-25bd3e05a79b5f374f29df6bfd08d2fa]....
 
 ## Annotations
 
-[^key-25bd3e05a79b5f374f29df6bfd08d2fa]: Textual amendment: Words in [s. 87](https://www.legislation.gov.uk/ukpga/1985/72/section/87) omitted (6.4.2006) by virtue of [The Weights and Measures (Packaged Goods) Regulations 2006 (S.I. 2006/659)](https://www.legislation.gov.uk/uksi/2006/659), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/659/regulation/1/1), [Sch. 1 Pt. 2(15)](https://www.legislation.gov.uk/uksi/2006/659/schedule/1/part/2/15) (with [reg. 21](https://www.legislation.gov.uk/uksi/2006/659/regulation/21))
+[^c-25bd3e05a79b5f374f29df6bfd08d2fa]: Textual amendment: Words in [s. 87](https://www.legislation.gov.uk/ukpga/1985/72/section/87) omitted (6.4.2006) by virtue of [The Weights and Measures (Packaged Goods) Regulations 2006 (S.I. 2006/659)](https://www.legislation.gov.uk/uksi/2006/659), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/659/regulation/1/1), [Sch. 1 Pt. 2(15)](https://www.legislation.gov.uk/uksi/2006/659/schedule/1/part/2/15) (with [reg. 21](https://www.legislation.gov.uk/uksi/2006/659/regulation/21))

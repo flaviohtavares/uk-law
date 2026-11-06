@@ -32,7 +32,7 @@ summary: ''
 
 AGRICULTURE
 
-The Land Managers Skills Development Grants (Scotland) Regulations 2008 (revoked)[^key-88758acf5a428d1e974ed69bb6f6f522]
+The Land Managers Skills Development Grants (Scotland) Regulations 2008 (revoked)[^c-88758acf5a428d1e974ed69bb6f6f522]
 
 Made
 
@@ -46,72 +46,72 @@ Coming into force
 
 18th May 2008
 
-[^key-88758acf5a428d1e974ed69bb6f6f522]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-88758acf5a428d1e974ed69bb6f6f522]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-88758acf5a428d1e974ed69bb6f6f522]
+## 1. Citation, commencement and extent[^c-88758acf5a428d1e974ed69bb6f6f522]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-88758acf5a428d1e974ed69bb6f6f522]
+## 2. Interpretation[^c-88758acf5a428d1e974ed69bb6f6f522]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Projects which may be considered for grant[^key-88758acf5a428d1e974ed69bb6f6f522]
+## 3. Projects which may be considered for grant[^c-88758acf5a428d1e974ed69bb6f6f522]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Supported project costs[^key-88758acf5a428d1e974ed69bb6f6f522]
+## 4. Supported project costs[^c-88758acf5a428d1e974ed69bb6f6f522]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Eligible bodies[^key-88758acf5a428d1e974ed69bb6f6f522]
+## 5. Eligible bodies[^c-88758acf5a428d1e974ed69bb6f6f522]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Determination of applications[^key-88758acf5a428d1e974ed69bb6f6f522]
+## 6. Determination of applications[^c-88758acf5a428d1e974ed69bb6f6f522]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Payment of grant[^key-88758acf5a428d1e974ed69bb6f6f522]
+## 7. Payment of grant[^c-88758acf5a428d1e974ed69bb6f6f522]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Guidance[^key-88758acf5a428d1e974ed69bb6f6f522]
+## 8. Guidance[^c-88758acf5a428d1e974ed69bb6f6f522]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Information and records[^key-88758acf5a428d1e974ed69bb6f6f522]
+## 9. Information and records[^c-88758acf5a428d1e974ed69bb6f6f522]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Powers of authorised persons[^key-88758acf5a428d1e974ed69bb6f6f522]
+## 10. Powers of authorised persons[^c-88758acf5a428d1e974ed69bb6f6f522]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Revocation or variation of approval and withholding or recovery of grant[^key-88758acf5a428d1e974ed69bb6f6f522]
+## 11. Revocation or variation of approval and withholding or recovery of grant[^c-88758acf5a428d1e974ed69bb6f6f522]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Interest[^key-88758acf5a428d1e974ed69bb6f6f522]
+## 12. Interest[^c-88758acf5a428d1e974ed69bb6f6f522]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Offences[^key-88758acf5a428d1e974ed69bb6f6f522]
+## 13. Offences[^c-88758acf5a428d1e974ed69bb6f6f522]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Offences by bodies corporate[^key-88758acf5a428d1e974ed69bb6f6f522]
+## 14. Offences by bodies corporate[^c-88758acf5a428d1e974ed69bb6f6f522]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-88758acf5a428d1e974ed69bb6f6f522]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-88758acf5a428d1e974ed69bb6f6f522]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-88758acf5a428d1e974ed69bb6f6f522]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-88758acf5a428d1e974ed69bb6f6f522]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-88758acf5a428d1e974ed69bb6f6f522]: Textual amendment: Regulations revoked (12.6.2015) by [The Rural Development (Scotland) Regulations 2015 (S.S.I. 2015/192)](https://www.legislation.gov.uk/ssi/2015/192), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2015/192/schedule) (with [reg. 22(2)](https://www.legislation.gov.uk/ssi/2015/192/regulation/22/2))
+[^c-88758acf5a428d1e974ed69bb6f6f522]: Textual amendment: Regulations revoked (12.6.2015) by [The Rural Development (Scotland) Regulations 2015 (S.S.I. 2015/192)](https://www.legislation.gov.uk/ssi/2015/192), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2015/192/schedule) (with [reg. 22(2)](https://www.legislation.gov.uk/ssi/2015/192/regulation/22/2))

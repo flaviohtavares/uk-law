@@ -41,7 +41,7 @@ This Act may be cited as the Greenwich Hospital Act, 1883, and this Act and the 
 
 ### 2. Power to grant pensions, allowances, and gratuities.[^c596294]
 
-(1)[^key-748b565feb4a1adb1eb2ce67aeb4c916] The Admiralty may out of the funds of Greenwich Hospital from time to time grant pensions to widows or surviving civil partners and allowances to children of any person deceased, whether before or after the passing of the [^c596295]Greenwich Hospital Act, 1947, while serving, or having served, as a non-commissioned officer, petty officer or man of the Royal Navy or Royal Marines or of any naval reserve force.
+(1)[^c-748b565feb4a1adb1eb2ce67aeb4c916] The Admiralty may out of the funds of Greenwich Hospital from time to time grant pensions to widows or surviving civil partners and allowances to children of any person deceased, whether before or after the passing of the [^c596295]Greenwich Hospital Act, 1947, while serving, or having served, as a non-commissioned officer, petty officer or man of the Royal Navy or Royal Marines or of any naval reserve force.
 
 (2) The Admiralty may out of the said funds from time to time grant gratuities to parents or other relatives dependent on any such person deceased, as aforesaid, so however that the total expenditure in such gratuities shall not exceed in any one year the sum of five hundred pounds.
 
@@ -49,7 +49,7 @@ This Act may be cited as the Greenwich Hospital Act, 1883, and this Act and the 
 
 ### 3. Power to provide for education and maintenance of sons of seamen, &c.
 
-The Admiralty may out of the funds of Greenwich Hospital from time to time provide wholly or in part for the education and maintenance of sons of deceased or incapacitated warrant officers, non-commissioned officers, petty officers, and men of the Royal Navy and Marines, and also for the education and maintenance of sons of men of the Royal Naval Volunteers [^key-9289e1312289464bd35b73fdb699ccf0]... killed or drowned in the service of the Crown.
+The Admiralty may out of the funds of Greenwich Hospital from time to time provide wholly or in part for the education and maintenance of sons of deceased or incapacitated warrant officers, non-commissioned officers, petty officers, and men of the Royal Navy and Marines, and also for the education and maintenance of sons of men of the Royal Naval Volunteers [^c-9289e1312289464bd35b73fdb699ccf0]... killed or drowned in the service of the Crown.
 
 ### 4. Regulations by Admiralty.[^c596297]
 
@@ -77,13 +77,13 @@ The decision of the Admiralty respecting the eligibility of any person to receiv
 
 [^c596294]: Textual amendment: S. 2 substituted by [Greenwich Hospital Act 1947 (c. 5)](https://www.legislation.gov.uk/ukpga/1947/5), [s. 2](https://www.legislation.gov.uk/ukpga/1947/5/section/2), [Sch. 1](https://www.legislation.gov.uk/ukpga/1947/5/schedule/1)
 
-[^key-748b565feb4a1adb1eb2ce67aeb4c916]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukpga/Vict/46-47/32/section/2/1) inserted (15.4.2005 for specified purposes, 5.12.2005 in so far as not already in force) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 4](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/4); [S.I. 2005/1112](https://www.legislation.gov.uk/uksi/2005/1112), [art. 2](https://www.legislation.gov.uk/uksi/2005/1112/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1112/schedule/1); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-748b565feb4a1adb1eb2ce67aeb4c916]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukpga/Vict/46-47/32/section/2/1) inserted (15.4.2005 for specified purposes, 5.12.2005 in so far as not already in force) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 4](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/4); [S.I. 2005/1112](https://www.legislation.gov.uk/uksi/2005/1112), [art. 2](https://www.legislation.gov.uk/uksi/2005/1112/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1112/schedule/1); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
 [^c596295]: Marginal citation: [1947 c. 5](https://www.legislation.gov.uk/ukpga/1947/5).
 
 [^c596296]: Marginal citation: [1947 c. 5](https://www.legislation.gov.uk/ukpga/1947/5).
 
-[^key-9289e1312289464bd35b73fdb699ccf0]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/ukpga/Vict/46-47/32/section/3) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 2
+[^c-9289e1312289464bd35b73fdb699ccf0]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/ukpga/Vict/46-47/32/section/3) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 2
 
 [^c596297]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/Vict/46-47/32/section/4) applied by [Greenwich Hospital Act 1947 (c. 5)](https://www.legislation.gov.uk/ukpga/1947/5), [s. 2](https://www.legislation.gov.uk/ukpga/1947/5/section/2)
 

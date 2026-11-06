@@ -56,13 +56,13 @@ In accordance with section 125(1)(b) of the Act, the Secretary of State has cons
 
 In accordance with section 126 of the Act, the Secretary of State has consulted such of the persons and bodies referred to in that section as appeared to the Secretary of State to be appropriate.
 
-## 1. Citation, commencement, extent and application[^key-5c08bd1f4a3a2cf2aa981f62fd9b0488]
+## 1. Citation, commencement, extent and application[^c-5c08bd1f4a3a2cf2aa981f62fd9b0488]
 
 (1) This Order may be cited as the School Teachers’ Pay and Conditions (England) Order 2025 and comes into force on the 1st September 2025.
 
 (2) This Order extends to England and Wales and applies to school teachers[^f00002] in England.
 
-## 2. The Document[^key-8463287bf1d070006bca3eea5ed8a3e2]
+## 2. The Document[^c-8463287bf1d070006bca3eea5ed8a3e2]
 
 (1) The provisions set out in Section 2 of the Document have effect on and after 1st September 2025 for the purposes of determining—
 
@@ -71,7 +71,7 @@ In accordance with section 126 of the Act, the Secretary of State has consulted 
 
 (2) In paragraph (1) “**the Document**” means the document entitled “School teachers’ pay and conditions document 2025 and guidance on school teachers’ pay and conditions” dated 16 July 2025 and published on the gov.uk website[^f00003].
 
-## 3. Revocation of the School Teachers’ Pay and Conditions (England) Order 2024[^key-2ae9e403745a28ae6a660ba310b2eee4]
+## 3. Revocation of the School Teachers’ Pay and Conditions (England) Order 2024[^c-2ae9e403745a28ae6a660ba310b2eee4]
 
 The School Teachers’ Pay and Conditions (England) Order 2024[^f00004] is revoked.
 
@@ -99,14 +99,14 @@ An impact assessment has not been prepared for this Order as no impact on busine
 
 [^f00001]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32). Sections 121-123 and 126 were amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Provision is made in respect of the School Teachers’ Review Body in section 119.
 
-[^key-5c08bd1f4a3a2cf2aa981f62fd9b0488]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2025/892/article/1) in force at 1.9.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/892/article/1/1)
+[^c-5c08bd1f4a3a2cf2aa981f62fd9b0488]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2025/892/article/1) in force at 1.9.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/892/article/1/1)
 
 [^f00002]: Footnote: “School teachers” is defined for these purposes in section 122(3) to (6) of the Education Act 2002. The functions of the Secretary of State under sections 122 to 124, 126 and 127 of that Act, so far as they were exercisable in relation to school teachers in Wales, were transferred to the Welsh Ministers by virtue of article 39(3) of the Welsh Ministers (Transfer of Functions) Order 2018 ([S.I. 2018/644](https://www.legislation.gov.uk/uksi/2018/644)).
 
-[^key-8463287bf1d070006bca3eea5ed8a3e2]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2025/892/article/2) in force at 1.9.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/892/article/1/1)
+[^c-8463287bf1d070006bca3eea5ed8a3e2]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2025/892/article/2) in force at 1.9.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/892/article/1/1)
 
 [^f00003]: Footnote: https://www.gov.uk/; copies are available to purchase from TSO Customer Services, PO Box 29, Norwich, NR3 1GN, telephone 0333 202 5070 or for inspection at reasonable times at the offices of the Department for Education, Sanctuary Buildings, Great Smith Street, London, SW1P 3BT.
 
-[^key-2ae9e403745a28ae6a660ba310b2eee4]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2025/892/article/3) in force at 1.9.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/892/article/1/1)
+[^c-2ae9e403745a28ae6a660ba310b2eee4]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2025/892/article/3) in force at 1.9.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/892/article/1/1)
 
 [^f00004]: Footnote: [S.I. 2024/1037](https://www.legislation.gov.uk/uksi/2024/1037).

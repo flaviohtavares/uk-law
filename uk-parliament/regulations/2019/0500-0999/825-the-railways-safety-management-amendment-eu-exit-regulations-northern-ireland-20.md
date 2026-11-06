@@ -50,7 +50,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 The Secretary of State is of the opinion that, by reason of urgency, it is necessary to make these Regulations without a draft of the instrument being laid before, and approved by a resolution of, each House of Parliament.
 
-## 1. Citation, commencement and extent[^key-3775abc210736e041c02df6fec1a13b4]
+## 1. Citation, commencement and extent[^c-3775abc210736e041c02df6fec1a13b4]
 
 (1) These Regulations may be cited as the Railways (Safety Management) (Amendment) (EU Exit) Regulations (Northern Ireland) 2019.
 
@@ -58,7 +58,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 (3) These Regulations extend to Northern Ireland only.
 
-## 2. Amendment to the Railways (Safety Management) Regulations (Northern Ireland) 2006[^key-065240cff8756934f97e27a7869d879b]
+## 2. Amendment to the Railways (Safety Management) Regulations (Northern Ireland) 2006[^c-065240cff8756934f97e27a7869d879b]
 
 (1) The Railways (Safety Management) Regulations (Northern Ireland) 2006 [^c23831191] are amended as follows.
 
@@ -134,7 +134,7 @@ Department for Transport
 
 Regulation 2(9)
 
-**1.**[^key-7d1e239be04c51217cc54690033a899e] After Schedule 5 to the Railways (Safety Management) Regulations (Northern Ireland) 2006, insert—
+**1.**[^c-7d1e239be04c51217cc54690033a899e] After Schedule 5 to the Railways (Safety Management) Regulations (Northern Ireland) 2006, insert—
 
 > **SCHEDULE 6 — Format for safety certificates and applications**
 >
@@ -194,7 +194,7 @@ Regulation 2(9)
 > - “**passenger-km**” means the unit of measure representing the transport of one passenger by rail over a distance of one kilometre;
 > - “**passenger train-km**” means the unit of measure representing the movement of a passenger train over one kilometre;
 > - “**risk category**” means one of the railway risk categories specified by Article 7(4)(a) and (b) of the Directive;
-> - “[^key-58e739e6356dfe179db9e8169bd9be00]**risk to society as a whole**” means the collective risk to all categories of persons listed in Article 7(4)(a) of the Directive;
+> - “[^c-58e739e6356dfe179db9e8169bd9be00]**risk to society as a whole**” means the collective risk to all categories of persons listed in Article 7(4)(a) of the Directive;
 > - “**safety enhancement plan**” means a plan to implement the organisational structure, responsibilities, procedures, activities, capabilities and resources required to reduce the risk for one or more risk categories;
 > - “staff” or “**employees including the staff of contractors**” means any persons whose employment is in connection with a railway and is at work at the moment of the accident; it includes the crew of the train and persons handling rolling stock and infrastructure installations;
 > - “**track-km**” means the length measured in kilometres of the railway network where each track of a multiple track railway line is to be counted;
@@ -284,14 +284,14 @@ Regulation 2(9)
 >
 > | *Risk category* | *Measurement units* | *Scaling bases* |
 > | --- | --- | --- |
-> | 1\. Risks to passengers[^key-0244313ad899f3e9f8493bd8e8375662] | 1.1 Number of passenger FWSIs per year arising from significant accidents/Number of passenger train-km per year | Passenger train-km per year |
+> | 1\. Risks to passengers[^c-0244313ad899f3e9f8493bd8e8375662] | 1.1 Number of passenger FWSIs per year arising from significant accidents/Number of passenger train-km per year | Passenger train-km per year |
 > |  | 1.2 Number of passenger FWSIs arising from significant accidents/Number of passenger-km per year | Passenger-km per year |
-> | 2\. Risks to staff or employees, including the staff of contractors[^key-c9a310828de677b907bd5d95e8340112] | 2\. Number of employee FWSIs per year arising from significant accidents/Number of train-km per year | Train-km per year |
-> | 3\. Risks to level crossing users[^key-31bbb848393da04f2c366a16420424b9] | 3.1 Number of level-crossing user FWSIs per year arising from significant accidents/Number of train-km per year | Train-km per year |
+> | 2\. Risks to staff or employees, including the staff of contractors[^c-c9a310828de677b907bd5d95e8340112] | 2\. Number of employee FWSIs per year arising from significant accidents/Number of train-km per year | Train-km per year |
+> | 3\. Risks to level crossing users[^c-31bbb848393da04f2c366a16420424b9] | 3.1 Number of level-crossing user FWSIs per year arising from significant accidents/Number of train-km per year | Train-km per year |
 > |  | 3.2 Number of level-crossing user FWSIs per year arising from significant accidents/\[(Number of Train-km per year x Number of level crossings)/Track-km)\] | (Train-km per year x Number of level crossings)/Track-km |
-> | 4\. Risks to others[^key-145eb07273fd10ec9f79b1ece0a81dfc] | 4\. Yearly number of FWSIs to persons belonging to the category ‘others’ arising from significant accidents/Number of train-km per year | Train-km per year |
-> | 5\. Risks to unauthorised persons on railway premises[^key-3aac6571e768ba9d06ef22f7f267978e] | 5\. Number of FWSIs to unauthorised persons on railway premises per year arising from significant accidents/Number of train-km per year | Train-km per year |
-> | 6\. Risk to society as a whole[^key-f73b743fa1dc51757578bdcc5f6e79df] | 6\. Total number of FWSIs per year arising from significant accidents/Number of train-km per year | Train-km per year |
+> | 4\. Risks to others[^c-145eb07273fd10ec9f79b1ece0a81dfc] | 4\. Yearly number of FWSIs to persons belonging to the category ‘others’ arising from significant accidents/Number of train-km per year | Train-km per year |
+> | 5\. Risks to unauthorised persons on railway premises[^c-3aac6571e768ba9d06ef22f7f267978e] | 5\. Number of FWSIs to unauthorised persons on railway premises per year arising from significant accidents/Number of train-km per year | Train-km per year |
+> | 6\. Risk to society as a whole[^c-f73b743fa1dc51757578bdcc5f6e79df] | 6\. Total number of FWSIs per year arising from significant accidents/Number of train-km per year | Train-km per year |
 >
 > **15. Decision flowchart**
 >
@@ -307,12 +307,12 @@ Regulation 2(9)
 > | --- | --- | --- |
 > | 1.1 (x 10<sup>-9</sup>) | Risk to passengers | 2.73 |
 > | 1.2 (x 10<sup>-9</sup>) |  | 0.028 |
-> | 2 (x 10<sup>-9</sup>) | Risks to staff or employees, including the staff of contractors[^key-d8a5d91b3b2382e7a036627ad86c3c03] | 5.17 |
+> | 2 (x 10<sup>-9</sup>) | Risks to staff or employees, including the staff of contractors[^c-d8a5d91b3b2382e7a036627ad86c3c03] | 5.17 |
 > | 3.1 (x 10<sup>-9</sup>) | Risk to level crossing users | 23.5 |
 > | 3.2 |  | n/a |
-> | 4 (x 10<sup>-9</sup>) | Risks to others[^key-c58a11e38397d9b8507aceaac88cad2a] | 7.00 |
+> | 4 (x 10<sup>-9</sup>) | Risks to others[^c-c58a11e38397d9b8507aceaac88cad2a] | 7.00 |
 > | 5 (x 10<sup>-9</sup>) | Risk to unauthorised persons on railway premises | 84.5 |
-> | 6 (x 10<sup>-9</sup>) | Risk to society as a whole[^key-3168601289ff26cc082d4a481edc67ef] | 120.0 |
+> | 6 (x 10<sup>-9</sup>) | Risk to society as a whole[^c-3168601289ff26cc082d4a481edc67ef] | 120.0 |
 >
 > **17. Values for CSTs**
 >
@@ -322,7 +322,7 @@ Regulation 2(9)
 > | --- | --- | --- | --- |
 > | Risk to passengers | CST. 1.1 | 0.17 | Number of passenger FWSIs per year arising from significant accidents/Number of passenger train-km per year |
 > |  | CST 1.2 | 0.00165 | Number of passenger FWSIs arising from significant accidents/Number of passenger-km per year |
-> | Risks to staff or employees, including the staff of contractors[^key-e129b2cf42c4101b49f723042e3c22cd] | CST 2 | 0.0779 | Number of employee FWSIs per year arising from significant accidents/Number of train-km per year |
+> | Risks to staff or employees, including the staff of contractors[^c-e129b2cf42c4101b49f723042e3c22cd] | CST 2 | 0.0779 | Number of employee FWSIs per year arising from significant accidents/Number of train-km per year |
 > | Risk to level crossing users | CST 3.1 | 0.710 | Number of level-crossing user FWSIs per year arising from significant accidents/Number of train-km per year |
 > |  | CST 3.2 | n/a | Number of level-crossing user FWSIs per year arising from significant accidents/\[(Number of Train-km per year x Number of level crossings)/Track-km)\] |
 > | Risk to others | CST 4 | 0.0145 | Yearly number of FWSIs to persons belonging to the category ‘others’ arising from significant accidents/Number of train-km per year |
@@ -341,9 +341,9 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23831181]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-3775abc210736e041c02df6fec1a13b4]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-3775abc210736e041c02df6fec1a13b4]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-065240cff8756934f97e27a7869d879b]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-065240cff8756934f97e27a7869d879b]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23831191]: Marginal citation: S.R. [2006 No. 237](https://www.legislation.gov.uk/ukcm/2006/237), amended by [2011 No. 261](https://www.legislation.gov.uk/ukcm/2011/261), [2013 No. 237](https://www.legislation.gov.uk/ukcm/2013/237), [2016 No. 267](https://www.legislation.gov.uk/ukcm/2016/267).
 
@@ -355,30 +355,30 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23831231]: Marginal citation: [S.I. 2015/1682](https://www.legislation.gov.uk/uksi/2015/1682).
 
-[^key-7d1e239be04c51217cc54690033a899e]: Commencement: Sch. para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-7d1e239be04c51217cc54690033a899e]: Commencement: Sch. para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23831241]: Marginal citation: This Schedule substantially reproduces the provisions of Commission Decision 2009/460/EC on the adoption of a common safety method for assessment of achievement of safety targets, Commission Decision 2012/226/EU on the second set of common safety targets as regards the rail system, and the Commissioning Implementing Decision 2013/753/EU amending Decision 2012/226/EU on the second set of common safety targets for the rail system, in so far as they continue to have effect in Northern Ireland following the withdrawal of the United Kingdom from the European Union.
 
-[^key-58e739e6356dfe179db9e8169bd9be00]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2019/1310/schedule/2/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-58e739e6356dfe179db9e8169bd9be00]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2019/1310/schedule/2/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23831251]: Marginal citation: Asterisks in this paragraph have been used to indicate multiplication signs.
 
-[^key-0244313ad899f3e9f8493bd8e8375662]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2019/1310/schedule/2/paragraph/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0244313ad899f3e9f8493bd8e8375662]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2019/1310/schedule/2/paragraph/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c9a310828de677b907bd5d95e8340112]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/2019/1310/schedule/2/paragraph/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c9a310828de677b907bd5d95e8340112]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/2019/1310/schedule/2/paragraph/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-31bbb848393da04f2c366a16420424b9]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 2 para. 3(c)](https://www.legislation.gov.uk/uksi/2019/1310/schedule/2/paragraph/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-31bbb848393da04f2c366a16420424b9]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 2 para. 3(c)](https://www.legislation.gov.uk/uksi/2019/1310/schedule/2/paragraph/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-145eb07273fd10ec9f79b1ece0a81dfc]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 2 para. 3(d)](https://www.legislation.gov.uk/uksi/2019/1310/schedule/2/paragraph/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-145eb07273fd10ec9f79b1ece0a81dfc]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 2 para. 3(d)](https://www.legislation.gov.uk/uksi/2019/1310/schedule/2/paragraph/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3aac6571e768ba9d06ef22f7f267978e]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 2 para. 3(e)](https://www.legislation.gov.uk/uksi/2019/1310/schedule/2/paragraph/3/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3aac6571e768ba9d06ef22f7f267978e]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 2 para. 3(e)](https://www.legislation.gov.uk/uksi/2019/1310/schedule/2/paragraph/3/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f73b743fa1dc51757578bdcc5f6e79df]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 2 para. 3(f)](https://www.legislation.gov.uk/uksi/2019/1310/schedule/2/paragraph/3/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f73b743fa1dc51757578bdcc5f6e79df]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 2 para. 3(f)](https://www.legislation.gov.uk/uksi/2019/1310/schedule/2/paragraph/3/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d8a5d91b3b2382e7a036627ad86c3c03]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2019/1310/schedule/2/paragraph/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d8a5d91b3b2382e7a036627ad86c3c03]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2019/1310/schedule/2/paragraph/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c58a11e38397d9b8507aceaac88cad2a]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2019/1310/schedule/2/paragraph/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c58a11e38397d9b8507aceaac88cad2a]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2019/1310/schedule/2/paragraph/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3168601289ff26cc082d4a481edc67ef]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 2 para. 4(c)](https://www.legislation.gov.uk/uksi/2019/1310/schedule/2/paragraph/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3168601289ff26cc082d4a481edc67ef]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 2 para. 4(c)](https://www.legislation.gov.uk/uksi/2019/1310/schedule/2/paragraph/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e129b2cf42c4101b49f723042e3c22cd]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2019/1310/schedule/2/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e129b2cf42c4101b49f723042e3c22cd]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2019/1310/schedule/2/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

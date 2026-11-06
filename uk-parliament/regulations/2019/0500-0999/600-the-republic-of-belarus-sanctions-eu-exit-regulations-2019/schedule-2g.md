@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2G — Quantum computing and advanced materials goods and technology[^key-56db89c08c83e7a86806e0b875d952e9]
+## SCHEDULE 2G — Quantum computing and advanced materials goods and technology[^c-56db89c08c83e7a86806e0b875d952e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -105,4 +105,4 @@ Equipment, “electronic assemblies” and components, specially designed for �
 
 ## Annotations
 
-[^key-56db89c08c83e7a86806e0b875d952e9]: Textual amendment: [Sch. 2G](https://www.legislation.gov.uk/uksi/2019/600/schedule/2G) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/748/schedule)
+[^c-56db89c08c83e7a86806e0b875d952e9]: Textual amendment: [Sch. 2G](https://www.legislation.gov.uk/uksi/2019/600/schedule/2G) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/748/schedule)

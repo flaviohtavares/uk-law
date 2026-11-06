@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13A. Transitional provisions relating to admission to the register[^key-8327592551c2e759f0ad278c9fafaffa]
+## 13A. Transitional provisions relating to admission to the register[^c-8327592551c2e759f0ad278c9fafaffa]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8327592551c2e759f0ad278c9fafaffa]: Textual amendment: [Art. 13A](https://www.legislation.gov.uk/uksi/2002/253/article/13A) inserted (28.1.2019) by [The Nursing and Midwifery (Amendment) Order 2018 (S.I. 2018/838)](https://www.legislation.gov.uk/uksi/2018/838), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/838/article/1/3), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2018/838/schedule/1/paragraph/12)
+[^c-8327592551c2e759f0ad278c9fafaffa]: Textual amendment: [Art. 13A](https://www.legislation.gov.uk/uksi/2002/253/article/13A) inserted (28.1.2019) by [The Nursing and Midwifery (Amendment) Order 2018 (S.I. 2018/838)](https://www.legislation.gov.uk/uksi/2018/838), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/838/article/1/3), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2018/838/schedule/1/paragraph/12)

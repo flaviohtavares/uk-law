@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Effect of a transfer out[^key-ac64df3afbdf041770c12c6e05ff13c2]
+## 147. Effect of a transfer out[^c-ac64df3afbdf041770c12c6e05ff13c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If a transfer payment is made under this Chapter in respect of a member’s accr
 
 ## Annotations
 
-[^key-ac64df3afbdf041770c12c6e05ff13c2]: Commencement: [Reg. 147](https://www.legislation.gov.uk/uksi/2014/1964/regulation/147) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-ac64df3afbdf041770c12c6e05ff13c2]: Commencement: [Reg. 147](https://www.legislation.gov.uk/uksi/2014/1964/regulation/147) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

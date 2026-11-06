@@ -22,13 +22,13 @@ summary: ''
 
 Section 146
 
-### 1. Introductory[^key-c14df0a0639c85ba368788977adafff0]
+### 1. Introductory[^c-c14df0a0639c85ba368788977adafff0]
 
 (1) The Secretary of State may by regulations make provision in relation to the marketing and supply of construction products in the United Kingdom.
 
 (2) Regulations under this paragraph are called “construction products regulations”.
 
-### 2. General safety requirements[^key-be08a18b078d97ffa802fa6910f99e5a]
+### 2. General safety requirements[^c-be08a18b078d97ffa802fa6910f99e5a]
 
 (1) Construction products regulations may—
 
@@ -46,14 +46,14 @@ Section 146
 - “**use**” includes storage, transportation or packaging;
 - “**reasonably foreseeable conditions**” include reasonably foreseeable circumstances in which the construction product might come under stress (for example, a fire).
 
-### 3. Construction products with designated standards or technical assessments[^key-4f4e6400a1bbd7c697fa3a35f2c7e6d5]
+### 3. Construction products with designated standards or technical assessments[^c-4f4e6400a1bbd7c697fa3a35f2c7e6d5]
 
 Construction products regulations may make provision for and in relation to—
 
 - (a) designated standards for construction products (see paragraph 4);
 - (b) technical assessments for construction products (see paragraph 5).
 
-**4.**[^key-2f1c92db4c6174fc8c8f37fd66c50321] (1) Provision under paragraph 3(a) (designated standards) may include provision—
+**4.**[^c-2f1c92db4c6174fc8c8f37fd66c50321] (1) Provision under paragraph 3(a) (designated standards) may include provision—
 
 - (a) for the designation by the Secretary of State of standards prepared in accordance with the regulations or the 2011 Regulation;
 - (b) for the designation by the Secretary of State of EU harmonised standards or international standards;
@@ -65,7 +65,7 @@ Construction products regulations may make provision for and in relation to—
 - (b) the procedure by which and persons by whom standards are to be prepared;
 - (c) the matters to be covered by a standard.
 
-**5.**[^key-ecdcd03fbbfe0da4fcc9352c7acc4ab2] (1) Provision under paragraph 3(b) (technical assessments) may include provision as to the procedure by which and persons by whom technical assessments are to be issued.
+**5.**[^c-ecdcd03fbbfe0da4fcc9352c7acc4ab2] (1) Provision under paragraph 3(b) (technical assessments) may include provision as to the procedure by which and persons by whom technical assessments are to be issued.
 
 (2) Provision under sub-paragraph (1) may include provision for assessment bodies to issue technical assessments on the basis of assessment documents developed or adopted by them, and in particular provision—
 
@@ -73,12 +73,12 @@ Construction products regulations may make provision for and in relation to—
 - (b) as to the functions, operation and funding of assessment bodies;
 - (c) as to the contents of assessment documents and the procedure by which they are developed or adopted.
 
-**6.**[^key-a95648b820b0b09f8a6c5b3a35bc27e7] Construction products regulations may—
+**6.**[^c-a95648b820b0b09f8a6c5b3a35bc27e7] Construction products regulations may—
 
 - (a) impose requirements on persons carrying out activities in relation to construction products for which there are designated standards or technical assessments under the regulations (see paragraph 7);
 - (b) confer powers on relevant authorities to impose requirements on such persons (see paragraph 8).
 
-**7.**[^key-fb679afd5efb8a69e8c35057c5b74233] (1) Provision under paragraph 6(a) (imposition of requirements) may include provision for the imposition of requirements relating to—
+**7.**[^c-fb679afd5efb8a69e8c35057c5b74233] (1) Provision under paragraph 6(a) (imposition of requirements) may include provision for the imposition of requirements relating to—
 
 - (a) declarations of performance in respect of products which are or are to be marketed;
 - (b) the making of other statements or claims in relation to the performance of products which are or are to be marketed;
@@ -114,7 +114,7 @@ Construction products regulations may make provision for and in relation to—
 
 (5) Requirements which may be imposed on persons carrying out activities in relation to construction products under paragraph 6(a) may also be imposed on the authorised representatives of such persons.
 
-**8.**[^key-fcb41c02358b3222320c9384c6669b90] (1) Provision under paragraph 6(b) (conferral of powers) may include provision conferring powers on a relevant authority to impose requirements on persons carrying out activities in relation to construction products in circumstances where—
+**8.**[^c-fcb41c02358b3222320c9384c6669b90] (1) Provision under paragraph 6(b) (conferral of powers) may include provision conferring powers on a relevant authority to impose requirements on persons carrying out activities in relation to construction products in circumstances where—
 
 - (a) there has been no failure to comply with requirements imposed under paragraph 6(a), but
 - (b) in the view of the relevant authority the products nevertheless risk causing death or serious injury to any person.
@@ -129,12 +129,12 @@ Construction products regulations may make provision for and in relation to—
 
 (3) Provision under sub-paragraph (2) may include provision for appeals against a notice.
 
-**9.**[^key-f83d8e690106952caa081ee31c812aa4] Construction products regulations may include any provision—
+**9.**[^c-f83d8e690106952caa081ee31c812aa4] Construction products regulations may include any provision—
 
 - (a) which is made in the 2011 Regulation or the 2019 or 2020 Regulations immediately after IP completion day, or
 - (b) which relates to any matter in respect of which provision is made in that Regulation or those Regulations immediately after that time.
 
-### 10. Safety-critical products[^key-7246de0b453b08740197d911a34420d8]
+### 10. Safety-critical products[^c-7246de0b453b08740197d911a34420d8]
 
 (1) For the purposes of this Schedule, “**safety-critical products**” means construction products which are included in a list contained in construction products regulations.
 
@@ -147,7 +147,7 @@ Construction products regulations may make provision for and in relation to—
 
 (3) Before including a construction product in the list, or amending the list, the Secretary of State must consult such persons as the Secretary of State considers appropriate.
 
-**11.**[^key-0c427cc11b369b1497e8c5a48d566fa3] (1) Construction products regulations may make provision for and in relation to standards for safety-critical products (“safety-critical standards”).
+**11.**[^c-0c427cc11b369b1497e8c5a48d566fa3] (1) Construction products regulations may make provision for and in relation to standards for safety-critical products (“safety-critical standards”).
 
 (2) Provision under sub-paragraph (1) may include provision as to—
 
@@ -155,14 +155,14 @@ Construction products regulations may make provision for and in relation to—
 - (b) the procedure by which and persons by whom safety-critical standards are to be prepared;
 - (c) the matters to be covered by a safety-critical standard.
 
-**12.**[^key-eacc6b7c18344f185e0a1611eeec7742] Construction products regulations may—
+**12.**[^c-eacc6b7c18344f185e0a1611eeec7742] Construction products regulations may—
 
 - (a) impose requirements on persons carrying out activities in relation to safety-critical products for which there are safety-critical standards under the regulations (see paragraph 13);
 - (b) confer powers on relevant authorities to impose requirements on such persons (see paragraph 14).
 
-**13.**[^key-593954941787edd64228e8c190aef528] Provision under paragraph 12(a) (imposition of requirements) may include any provision referred to in paragraph 7.
+**13.**[^c-593954941787edd64228e8c190aef528] Provision under paragraph 12(a) (imposition of requirements) may include any provision referred to in paragraph 7.
 
-**14.**[^key-e89889ce2a516c888166b40c751eb86d] (1) Provision under paragraph 12(b) (conferral of powers) may include provision conferring powers on a relevant authority to impose requirements on persons carrying out activities in relation to construction products in circumstances where—
+**14.**[^c-e89889ce2a516c888166b40c751eb86d] (1) Provision under paragraph 12(b) (conferral of powers) may include provision conferring powers on a relevant authority to impose requirements on persons carrying out activities in relation to construction products in circumstances where—
 
 - (a) there has been no failure to comply with requirements imposed under paragraph 12(a), but
 - (b) in the view of the relevant authority the products nevertheless risk causing death or serious injury to any person.
@@ -177,7 +177,7 @@ Construction products regulations may make provision for and in relation to—
 
 (3) Provision under sub-paragraph (2) may include provision for appeals against a notice.
 
-### 15. Enforcement[^key-0034196dc343ffe92b460b8f6aba0eae]
+### 15. Enforcement[^c-0034196dc343ffe92b460b8f6aba0eae]
 
 (1) Construction products regulations may make provision for and in relation to—
 
@@ -222,7 +222,7 @@ Construction products regulations may make provision for and in relation to—
 - (a) which is made by the 2013 Regulations, or
 - (b) which relates to any matter in respect of which provision is made by the 2013 Regulations.
 
-### 16. Costs[^key-db4c5286940ae69f1fc5a6d4ebfd9985]
+### 16. Costs[^c-db4c5286940ae69f1fc5a6d4ebfd9985]
 
 (1) Construction products regulations may make provision for a relevant authority to impose charges on a person carrying out activities in relation to construction products, or an authorised representative of such a person, in respect of the exercise of the relevant authority’s construction product functions in relation to such a person.
 
@@ -240,7 +240,7 @@ Construction products regulations may make provision for and in relation to—
 
 (3) Provision under this paragraph may confer a discretion on the relevant authority.
 
-### 17. Information[^key-e3d55b8e72504f26702455c020a8d788]
+### 17. Information[^c-e3d55b8e72504f26702455c020a8d788]
 
 (1) Construction products regulations may, in connection with the exercise by relevant authorities of their construction product functions, make provision for and in relation to—
 
@@ -259,18 +259,18 @@ Construction products regulations may make provision for and in relation to—
 - (d) for the purpose of preventing the further disclosure of information (including provision for the creation of criminal offences);
 - (e) for the purpose of securing that there is (taking into account any power or duty to provide information under the regulations) no contravention of the data protection legislation.
 
-**18.**[^key-eed630ff267451b50157d82e7e6ba482] (1) Construction products regulations may make provision for and in relation to the publication by relevant authorities of information held by them in connection with their construction product functions.
+**18.**[^c-eed630ff267451b50157d82e7e6ba482] (1) Construction products regulations may make provision for and in relation to the publication by relevant authorities of information held by them in connection with their construction product functions.
 
 (2) Provision under sub-paragraph (1) may include provision as to—
 
 - (a) the circumstances in which information may or must be published (which may include circumstances in which the information could not otherwise have been lawfully published);
 - (b) how, where and in what form information may or must be published.
 
-**19.**[^key-22bc25560db8dd49faf74c9ed2c3921a] (1) Construction products regulations may make provision prohibiting the disclosure of information held by relevant authorities in connection with their construction product functions.
+**19.**[^c-22bc25560db8dd49faf74c9ed2c3921a] (1) Construction products regulations may make provision prohibiting the disclosure of information held by relevant authorities in connection with their construction product functions.
 
 (2) Provision under sub-paragraph (1) may include provision for the creation of criminal offences.
 
-### 20. General and supplementary[^key-80b2e71f128a78055edb461c1953f9a4]
+### 20. General and supplementary[^c-80b2e71f128a78055edb461c1953f9a4]
 
 (1) Construction products regulations may make—
 
@@ -280,15 +280,15 @@ Construction products regulations may make provision for and in relation to—
 
 (2) The provision made by paragraphs 2 to 19 does not limit the power conferred by paragraph 1.
 
-**21.**[^key-63f2bcb4dc706864ec0066668c3f7602] (1) Construction products regulations may make provision by repealing, amending or re-enacting—
+**21.**[^c-63f2bcb4dc706864ec0066668c3f7602] (1) Construction products regulations may make provision by repealing, amending or re-enacting—
 
-- (a) assimilated[^key-100de76d49f401f0dfe07177ce962d80] law (and in particular the 2011 Regulation and the 2013 Regulations);
+- (a) assimilated[^c-100de76d49f401f0dfe07177ce962d80] law (and in particular the 2011 Regulation and the 2013 Regulations);
 - (b) the 2019 and 2020 Regulations;
 - (c) any other enactment other than an Act.
 
 (2) Construction products regulations may under paragraph 20(1)(c) make consequential provision amending section 148 (liability relating to construction products), which may in particular include the omission or amendment of subsection (2)(b) and (c) of that section.
 
-**22.**[^key-bb18b015aa0942a158c4ce8cdb8f469e] (1) Where construction products regulations contain provision creating a criminal offence, the provision must have the effect that—
+**22.**[^c-bb18b015aa0942a158c4ce8cdb8f469e] (1) Where construction products regulations contain provision creating a criminal offence, the provision must have the effect that—
 
 - (a) the offence is—
   - (i) triable summarily only, or
@@ -312,7 +312,7 @@ Construction products regulations may make provision for and in relation to—
   - (i) where the offence is committed before the coming into force of paragraph 24(2) of Schedule 22 to the Sentencing Act 2020, 6 months, and
   - (ii) where the offence is committed after that time, 12 months.
 
-### 23. Procedure[^key-1e38548424985f3dcb4d9c873656da8a]
+### 23. Procedure[^c-1e38548424985f3dcb4d9c873656da8a]
 
 (1) Construction products regulations are to be made by statutory instrument.
 
@@ -323,12 +323,12 @@ Construction products regulations may make provision for and in relation to—
 - (a) the first provision to be made under paragraph 10(1) (list of safety-critical products);
 - (b) provision omitting a construction product from the list of safety-critical products under paragraph 10(1);
 - (c) provision creating a criminal offence;
-- (d)[^key-0e7628b07cd011cb1871aab4f987392d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-0e7628b07cd011cb1871aab4f987392d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) provision under paragraph 21(2) (consequential provision relating to liability for construction products).
 
 (4) A statutory instrument containing construction products regulations to which the requirements specified in sub-paragraph (2) do not apply is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 24. Interpretation[^key-542d772284454c6f56000faeeebe7faf]
+### 24. Interpretation[^c-542d772284454c6f56000faeeebe7faf]
 
 In this Schedule—
 
@@ -368,54 +368,54 @@ In this Schedule—
 
 ## Annotations
 
-[^key-c14df0a0639c85ba368788977adafff0]: Commencement: Sch. 11 para. 1 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
+[^c-c14df0a0639c85ba368788977adafff0]: Commencement: Sch. 11 para. 1 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
 
-[^key-be08a18b078d97ffa802fa6910f99e5a]: Commencement: Sch. 11 para. 2 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
+[^c-be08a18b078d97ffa802fa6910f99e5a]: Commencement: Sch. 11 para. 2 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
 
-[^key-4f4e6400a1bbd7c697fa3a35f2c7e6d5]: Commencement: Sch. 11 para. 3 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
+[^c-4f4e6400a1bbd7c697fa3a35f2c7e6d5]: Commencement: Sch. 11 para. 3 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
 
-[^key-2f1c92db4c6174fc8c8f37fd66c50321]: Commencement: Sch. 11 para. 4 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
+[^c-2f1c92db4c6174fc8c8f37fd66c50321]: Commencement: Sch. 11 para. 4 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
 
-[^key-ecdcd03fbbfe0da4fcc9352c7acc4ab2]: Commencement: Sch. 11 para. 5 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
+[^c-ecdcd03fbbfe0da4fcc9352c7acc4ab2]: Commencement: Sch. 11 para. 5 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
 
-[^key-a95648b820b0b09f8a6c5b3a35bc27e7]: Commencement: Sch. 11 para. 6 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
+[^c-a95648b820b0b09f8a6c5b3a35bc27e7]: Commencement: Sch. 11 para. 6 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
 
-[^key-fb679afd5efb8a69e8c35057c5b74233]: Commencement: Sch. 11 para. 7 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
+[^c-fb679afd5efb8a69e8c35057c5b74233]: Commencement: Sch. 11 para. 7 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
 
-[^key-fcb41c02358b3222320c9384c6669b90]: Commencement: Sch. 11 para. 8 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
+[^c-fcb41c02358b3222320c9384c6669b90]: Commencement: Sch. 11 para. 8 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
 
-[^key-f83d8e690106952caa081ee31c812aa4]: Commencement: Sch. 11 para. 9 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
+[^c-f83d8e690106952caa081ee31c812aa4]: Commencement: Sch. 11 para. 9 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
 
-[^key-7246de0b453b08740197d911a34420d8]: Commencement: Sch. 11 para. 10 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
+[^c-7246de0b453b08740197d911a34420d8]: Commencement: Sch. 11 para. 10 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
 
-[^key-0c427cc11b369b1497e8c5a48d566fa3]: Commencement: Sch. 11 para. 11 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
+[^c-0c427cc11b369b1497e8c5a48d566fa3]: Commencement: Sch. 11 para. 11 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
 
-[^key-eacc6b7c18344f185e0a1611eeec7742]: Commencement: Sch. 11 para. 12 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
+[^c-eacc6b7c18344f185e0a1611eeec7742]: Commencement: Sch. 11 para. 12 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
 
-[^key-593954941787edd64228e8c190aef528]: Commencement: Sch. 11 para. 13 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
+[^c-593954941787edd64228e8c190aef528]: Commencement: Sch. 11 para. 13 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
 
-[^key-e89889ce2a516c888166b40c751eb86d]: Commencement: Sch. 11 para. 14 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
+[^c-e89889ce2a516c888166b40c751eb86d]: Commencement: Sch. 11 para. 14 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
 
-[^key-0034196dc343ffe92b460b8f6aba0eae]: Commencement: Sch. 11 para. 15 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
+[^c-0034196dc343ffe92b460b8f6aba0eae]: Commencement: Sch. 11 para. 15 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
 
-[^key-db4c5286940ae69f1fc5a6d4ebfd9985]: Commencement: Sch. 11 para. 16 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
+[^c-db4c5286940ae69f1fc5a6d4ebfd9985]: Commencement: Sch. 11 para. 16 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
 
-[^key-e3d55b8e72504f26702455c020a8d788]: Commencement: Sch. 11 para. 17 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
+[^c-e3d55b8e72504f26702455c020a8d788]: Commencement: Sch. 11 para. 17 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
 
-[^key-eed630ff267451b50157d82e7e6ba482]: Commencement: Sch. 11 para. 18 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
+[^c-eed630ff267451b50157d82e7e6ba482]: Commencement: Sch. 11 para. 18 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
 
-[^key-22bc25560db8dd49faf74c9ed2c3921a]: Commencement: Sch. 11 para. 19 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
+[^c-22bc25560db8dd49faf74c9ed2c3921a]: Commencement: Sch. 11 para. 19 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
 
-[^key-80b2e71f128a78055edb461c1953f9a4]: Commencement: Sch. 11 para. 20 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
+[^c-80b2e71f128a78055edb461c1953f9a4]: Commencement: Sch. 11 para. 20 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
 
-[^key-63f2bcb4dc706864ec0066668c3f7602]: Commencement: Sch. 11 para. 21 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
+[^c-63f2bcb4dc706864ec0066668c3f7602]: Commencement: Sch. 11 para. 21 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
 
-[^key-100de76d49f401f0dfe07177ce962d80]: Textual amendment: Word in [Sch. 11 para. 21(1)](https://www.legislation.gov.uk/ukpga/2022/30/schedule/11/paragraph/21/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 105](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/105)
+[^c-100de76d49f401f0dfe07177ce962d80]: Textual amendment: Word in [Sch. 11 para. 21(1)](https://www.legislation.gov.uk/ukpga/2022/30/schedule/11/paragraph/21/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 105](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/105)
 
-[^key-bb18b015aa0942a158c4ce8cdb8f469e]: Commencement: Sch. 11 para. 22 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
+[^c-bb18b015aa0942a158c4ce8cdb8f469e]: Commencement: Sch. 11 para. 22 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
 
-[^key-1e38548424985f3dcb4d9c873656da8a]: Commencement: Sch. 11 para. 23 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
+[^c-1e38548424985f3dcb4d9c873656da8a]: Commencement: Sch. 11 para. 23 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
 
-[^key-0e7628b07cd011cb1871aab4f987392d]: Textual amendment: [Sch. 11 para. 23(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/schedule/11/paragraph/23/3/d) omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/11)
+[^c-0e7628b07cd011cb1871aab4f987392d]: Textual amendment: [Sch. 11 para. 23(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/schedule/11/paragraph/23/3/d) omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/11)
 
-[^key-542d772284454c6f56000faeeebe7faf]: Commencement: Sch. 11 para. 24 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
+[^c-542d772284454c6f56000faeeebe7faf]: Commencement: Sch. 11 para. 24 in force at Royal Assent, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)

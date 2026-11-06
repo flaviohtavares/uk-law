@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Interest payable on judgment debts etc.[^key-51ed29f01900459a609359c185baeed5][^key-3d55def1d2c455c8ec5bedce71314819]
+## 17. Interest payable on judgment debts etc.[^c-51ed29f01900459a609359c185baeed5][^c-3d55def1d2c455c8ec5bedce71314819]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ After section 130 of the 1974 Act insert—
 
 ## Annotations
 
-[^key-51ed29f01900459a609359c185baeed5]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2006/14/section/17) in force at 16.6.2006 for specified purposes by [S.I. 2006/1508](https://www.legislation.gov.uk/uksi/2006/1508), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1508/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1508/schedule/1)
+[^c-51ed29f01900459a609359c185baeed5]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2006/14/section/17) in force at 16.6.2006 for specified purposes by [S.I. 2006/1508](https://www.legislation.gov.uk/uksi/2006/1508), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1508/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1508/schedule/1)
 
-[^key-3d55def1d2c455c8ec5bedce71314819]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2006/14/section/17) in force at 1.10.2008 in so far as not already in force by [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(3)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2007/3300/schedule/3)
+[^c-3d55def1d2c455c8ec5bedce71314819]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2006/14/section/17) in force at 1.10.2008 in so far as not already in force by [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(3)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2007/3300/schedule/3)

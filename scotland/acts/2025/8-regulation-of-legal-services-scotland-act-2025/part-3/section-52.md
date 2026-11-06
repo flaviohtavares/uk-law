@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Ineligible or premature complaints[^key-f458285dd907f7b6ce01b10d4807dd99]
+## 52. Ineligible or premature complaints[^c-f458285dd907f7b6ce01b10d4807dd99]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f458285dd907f7b6ce01b10d4807dd99]: Commencement: S. 52 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-f458285dd907f7b6ce01b10d4807dd99]: Commencement: S. 52 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

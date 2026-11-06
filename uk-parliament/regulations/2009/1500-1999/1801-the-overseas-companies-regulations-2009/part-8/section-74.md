@@ -21,8 +21,8 @@ summary: ''
 (2) A person guilty of an offence under this regulation is liable on summary conviction to—
 
 - (a) a fine not exceeding level 5 on the standard scale, and
-- (b) for continued contravention, a daily default fine not exceeding one-tenth of level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^key-21cc67d38d705278f7115bc40c55e5ac] one-tenth of the greater of £5,000 or level 4 on the standard scale *(Extent: E+W)*.
+- (b) for continued contravention, a daily default fine not exceeding one-tenth of level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^c-21cc67d38d705278f7115bc40c55e5ac] one-tenth of the greater of £5,000 or level 4 on the standard scale *(Extent: E+W)*.
 
 ## Annotations
 
-[^key-21cc67d38d705278f7115bc40c55e5ac]: Textual amendment: Words in [reg. 74(2)(b)](https://www.legislation.gov.uk/uksi/2009/1801/regulation/74/2/b) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 13(6)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/13/6) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-21cc67d38d705278f7115bc40c55e5ac]: Textual amendment: Words in [reg. 74(2)(b)](https://www.legislation.gov.uk/uksi/2009/1801/regulation/74/2/b) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 13(6)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/13/6) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

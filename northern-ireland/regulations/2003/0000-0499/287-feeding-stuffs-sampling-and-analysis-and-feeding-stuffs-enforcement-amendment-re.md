@@ -41,49 +41,49 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety in exercise of the powers conferred by sections 66(1), 75(1), 76(1), 77(4), 78(6), 79(1) and (2), 84 and 86 of the Agriculture Act 1970[^f00001] (as read with regulation 14 of the Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) Regulations (Northern Ireland) 2000[^f00002]), after consultation as required by section 84(1) of that Act and by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003], and being a Department designated[^f00004] for the purposes of section 2(2) of the European Communities Act 1972[^f00005] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred on it by the said section 2(2) (in so far as these Regulations cannot be made under the powers in the Agriculture Act 1970 specified above), and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-abb8cd35a38f9330ca7206aa37115972]
+## 1. Citation, commencement and interpretation[^c-abb8cd35a38f9330ca7206aa37115972]
 
 (1) These Regulations may be cited as the Feeding Stuffs (Sampling and Analysis) and Feeding Stuffs (Enforcement) (Amendment) Regulations (Northern Ireland) 2003 and shall come into operation on 14th July 2003.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 2. Amendment of the Feeding Stuffs (Sampling and Analysis) Regulations (Northern Ireland) 1999[^key-e62e96fb4d359e6fe9f08580bd91981d]
+## 2. Amendment of the Feeding Stuffs (Sampling and Analysis) Regulations (Northern Ireland) 1999[^c-e62e96fb4d359e6fe9f08580bd91981d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-e62e96fb4d359e6fe9f08580bd91981d]
+## 3.[^c-e62e96fb4d359e6fe9f08580bd91981d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-e62e96fb4d359e6fe9f08580bd91981d]
+## 4.[^c-e62e96fb4d359e6fe9f08580bd91981d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-e62e96fb4d359e6fe9f08580bd91981d]
+## 5.[^c-e62e96fb4d359e6fe9f08580bd91981d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-e62e96fb4d359e6fe9f08580bd91981d]
+## 6.[^c-e62e96fb4d359e6fe9f08580bd91981d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-e62e96fb4d359e6fe9f08580bd91981d]
+## 7.[^c-e62e96fb4d359e6fe9f08580bd91981d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of the Feeding Stuffs (Enforcement) Regulations 1999[^key-a64b2f5549c442816e6381e6a2bf6440]
+## 8. Amendment of the Feeding Stuffs (Enforcement) Regulations 1999[^c-a64b2f5549c442816e6381e6a2bf6440]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-a64b2f5549c442816e6381e6a2bf6440]
+## 9.[^c-a64b2f5549c442816e6381e6a2bf6440]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-a64b2f5549c442816e6381e6a2bf6440]
+## 10.[^c-a64b2f5549c442816e6381e6a2bf6440]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-03c56cd76b098f56422ef3bf0cbacaa6]
+## 11.[^c-03c56cd76b098f56422ef3bf0cbacaa6]
 
 In regulation 10 (modification of section 76 of the Agriculture Act 1970) –
 
@@ -100,7 +100,7 @@ In regulation 10 (modification of section 76 of the Agriculture Act 1970) –
   ; and
 - (d) in the modified version of subsection (9) of section 76 of that Act as so set out for “subsection (8)” there shall be inserted “subsections (8) and (10)”.
 
-## 12.[^key-267e055deaddae82b7ae82abe3733559]
+## 12.[^c-267e055deaddae82b7ae82abe3733559]
 
 For regulations 11 and 11A (modification of sections 77(4) and 78(6) of the Agriculture Act 1970) there shall be substituted the following regulations –
 
@@ -123,11 +123,11 @@ For regulations 11 and 11A (modification of sections 77(4) and 78(6) of the Agri
 
 .
 
-## 13.[^key-3af6695b6b1d7f88ce7ab97cd2eeea57]
+## 13.[^c-3af6695b6b1d7f88ce7ab97cd2eeea57]
 
 In each of regulations 12 (modification of section 83 of the Agriculture Act 1970) and 13 (modification of section 86 of the Agriculture Act 1970), “(as specified in regulation 7)” shall be omitted.
 
-## 14. Amendment of the Feeding Stuffs (Establishments and Intermediaries) Regulations 1999[^key-6ccba8c13a82054ae5009f3d73ad3cc3]
+## 14. Amendment of the Feeding Stuffs (Establishments and Intermediaries) Regulations 1999[^c-6ccba8c13a82054ae5009f3d73ad3cc3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -171,20 +171,20 @@ These Regulations –
 
 [^f00005]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). The enabling powers conferred by section 2(2) were extended by virtue of section 1 of the European Economic Area Act [1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51)
 
-[^key-abb8cd35a38f9330ca7206aa37115972]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2003/287/regulation/1) in operation at 14.7.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/287/regulation/1/1)
+[^c-abb8cd35a38f9330ca7206aa37115972]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2003/287/regulation/1) in operation at 14.7.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/287/regulation/1/1)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-e62e96fb4d359e6fe9f08580bd91981d]: Textual amendment: [Regs. 2-7](https://www.legislation.gov.uk/nisr/2003/287/regulation/2) revoked (11.10.2010) by [The Feed (Sampling and Analysis and Specified Undesirable Substances) Regulations (Northern Ireland) 2010 (S.R. 2010/323)](https://www.legislation.gov.uk/nisr/2010/323), [reg. 1](https://www.legislation.gov.uk/nisr/2010/323/regulation/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2010/323/schedule/3)
+[^c-e62e96fb4d359e6fe9f08580bd91981d]: Textual amendment: [Regs. 2-7](https://www.legislation.gov.uk/nisr/2003/287/regulation/2) revoked (11.10.2010) by [The Feed (Sampling and Analysis and Specified Undesirable Substances) Regulations (Northern Ireland) 2010 (S.R. 2010/323)](https://www.legislation.gov.uk/nisr/2010/323), [reg. 1](https://www.legislation.gov.uk/nisr/2010/323/regulation/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2010/323/schedule/3)
 
-[^key-a64b2f5549c442816e6381e6a2bf6440]: Textual amendment: [Regs. 8-10](https://www.legislation.gov.uk/nisr/2003/287/regulation/8) revoked (1.1.2006) by [The Feed (Hygiene and Enforcement) Regulations (Northern Ireland) 2005 (S.R. 2005/546)](https://www.legislation.gov.uk/nisr/2005/546), [reg. 1](https://www.legislation.gov.uk/nisr/2005/546/regulation/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2005/546/schedule/3)
+[^c-a64b2f5549c442816e6381e6a2bf6440]: Textual amendment: [Regs. 8-10](https://www.legislation.gov.uk/nisr/2003/287/regulation/8) revoked (1.1.2006) by [The Feed (Hygiene and Enforcement) Regulations (Northern Ireland) 2005 (S.R. 2005/546)](https://www.legislation.gov.uk/nisr/2005/546), [reg. 1](https://www.legislation.gov.uk/nisr/2005/546/regulation/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2005/546/schedule/3)
 
-[^key-03c56cd76b098f56422ef3bf0cbacaa6]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2003/287/regulation/11) in operation at 14.7.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/287/regulation/1/1)
+[^c-03c56cd76b098f56422ef3bf0cbacaa6]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2003/287/regulation/11) in operation at 14.7.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/287/regulation/1/1)
 
-[^key-267e055deaddae82b7ae82abe3733559]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2003/287/regulation/12) in operation at 14.7.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/287/regulation/1/1)
+[^c-267e055deaddae82b7ae82abe3733559]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2003/287/regulation/12) in operation at 14.7.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/287/regulation/1/1)
 
 [^f00012]: Footnote: [S.R. 2001 No. 47](https://www.legislation.gov.uk/nisr/2001/47), as amended by [S.R. 2001 Nos. 209](https://www.legislation.gov.uk/nisr/2001/209) and [428](https://www.legislation.gov.uk/nisr/2001/428) and [S.R. 2002 No. 263](https://www.legislation.gov.uk/nisr/2002/263)
 
-[^key-3af6695b6b1d7f88ce7ab97cd2eeea57]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2003/287/regulation/13) in operation at 14.7.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/287/regulation/1/1)
+[^c-3af6695b6b1d7f88ce7ab97cd2eeea57]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2003/287/regulation/13) in operation at 14.7.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/287/regulation/1/1)
 
-[^key-6ccba8c13a82054ae5009f3d73ad3cc3]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/nisr/2003/287/regulation/14) revoked (1.1.2006) by [The Feed (Hygiene and Enforcement) Regulations (Northern Ireland) 2005 (S.R. 2005/546)](https://www.legislation.gov.uk/nisr/2005/546), [reg. 1](https://www.legislation.gov.uk/nisr/2005/546/regulation/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2005/546/schedule/3)
+[^c-6ccba8c13a82054ae5009f3d73ad3cc3]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/nisr/2003/287/regulation/14) revoked (1.1.2006) by [The Feed (Hygiene and Enforcement) Regulations (Northern Ireland) 2005 (S.R. 2005/546)](https://www.legislation.gov.uk/nisr/2005/546), [reg. 1](https://www.legislation.gov.uk/nisr/2005/546/regulation/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2005/546/schedule/3)

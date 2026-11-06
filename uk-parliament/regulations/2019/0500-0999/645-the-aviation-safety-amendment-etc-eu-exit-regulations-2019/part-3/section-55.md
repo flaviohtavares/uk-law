@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Amendment of Article 22 of Regulation (EU) No 996/2010[^key-50b9e72276c8c251e6da895a31bf934c]
+## 55. Amendment of Article 22 of Regulation (EU) No 996/2010[^c-50b9e72276c8c251e6da895a31bf934c]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In Article 22 (access to documents and protection of personal data)—
 
 ## Annotations
 
-[^key-50b9e72276c8c251e6da895a31bf934c]: Commencement: Reg. 55 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-50b9e72276c8c251e6da895a31bf934c]: Commencement: Reg. 55 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

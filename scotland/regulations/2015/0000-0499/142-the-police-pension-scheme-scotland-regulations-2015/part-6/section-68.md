@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. A report under this Part[^key-7e68946672d88b2f6e4101349c6e63c2]
+## 68. A report under this Part[^c-7e68946672d88b2f6e4101349c6e63c2]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ For the purpose of these Regulations—
 
 ## Annotations
 
-[^key-7e68946672d88b2f6e4101349c6e63c2]: Commencement: Reg. 68 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-7e68946672d88b2f6e4101349c6e63c2]: Commencement: Reg. 68 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

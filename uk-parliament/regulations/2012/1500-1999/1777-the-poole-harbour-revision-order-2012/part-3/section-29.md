@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Charges for services or facilities[^key-67b06cb7eb13e14870309d0d36961e99]
+## 29. Charges for services or facilities[^c-67b06cb7eb13e14870309d0d36961e99]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Without prejudice to section 26 of the 1964 Act, the Commissioners may demand, t
 
 ## Annotations
 
-[^key-67b06cb7eb13e14870309d0d36961e99]: Commencement: Art. 29 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-67b06cb7eb13e14870309d0d36961e99]: Commencement: Art. 29 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

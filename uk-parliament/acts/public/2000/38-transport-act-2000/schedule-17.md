@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 17 — Transfers to SRA from the Office of Rail and Road[^key-10a37033981f7a9c12862ebbe010c549]
+## SCHEDULE 17 — Transfers to SRA from the Office of Rail and Road[^c-10a37033981f7a9c12862ebbe010c549]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,23 +34,23 @@ Section 216.
 
 **2.**[^c14888491] (1) Section 7 (exemptions from requirement for operator of railway asset to be authorised by licence) is amended as follows.
 
-(2)[^key-c374e10c4ec48243198d8fc7224399c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c374e10c4ec48243198d8fc7224399c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-c374e10c4ec48243198d8fc7224399c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c374e10c4ec48243198d8fc7224399c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-c374e10c4ec48243198d8fc7224399c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c374e10c4ec48243198d8fc7224399c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-c374e10c4ec48243198d8fc7224399c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c374e10c4ec48243198d8fc7224399c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In subsection (7), for “subsection (6) above” substitute “ this section ”.
 
-(7)[^key-645579cd7a48213bc10dfdbbb23c9db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-645579cd7a48213bc10dfdbbb23c9db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-645579cd7a48213bc10dfdbbb23c9db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-645579cd7a48213bc10dfdbbb23c9db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Consumer protection conditions
 
-**3.**[^key-4f4fd2a86c194864be51ebabef82e1fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4f4fd2a86c194864be51ebabef82e1fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Grant
 
@@ -58,7 +58,7 @@ Section 216.
 
 (2) In subsection (1)—
 
-- (a)[^key-9f39083c19fd408c3c66a482d8b108f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-9f39083c19fd408c3c66a482d8b108f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (b) (grant by Regulator with consent of, or in accordance with general authority given by, Secretary of State), for the words after “consent” substitute “ , or in accordance with a general authority, of the Secretary of State given after consultation with the Authority, ”.
 
 (3) In subsection (2) (general authority may require Regulator to consult, or obtain approval of, Secretary of State), for the words after “above” substitute—
@@ -72,7 +72,7 @@ Section 216.
 
 (5) In subsection (7) (grantor of licence to give copies)—
 
-- (a)[^key-1f11cb36da1c0deb70ab4b9d9627eba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-1f11cb36da1c0deb70ab4b9d9627eba5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (b), after “Regulator,” insert “ to the Authority and ”.
 
 #### Assignment
@@ -92,56 +92,56 @@ Section 216.
 
 **6.**[^c14888531] (1) Section 12 (modification by agreement) is amended as follows.
 
-(2)[^key-4cba78549acaf256801557c8d053c53e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4cba78549acaf256801557c8d053c53e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (2) (notice by Regulator)—
 
-- (a)[^key-4be4ac3e868106cc390005a1edb3feae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-4be4ac3e868106cc390005a1edb3feae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) after “and shall” insert “ , before making the modifications, ”.
 
-(4)[^key-cc3e832730f23b13aaa24a10b68b835d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-cc3e832730f23b13aaa24a10b68b835d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-cc3e832730f23b13aaa24a10b68b835d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-cc3e832730f23b13aaa24a10b68b835d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.**[^c14888541] (1) Section 13 (modification references to Competition Commission) is amended as follows.
 
-(2)[^key-356c0c63b5ae2248839419d89178558a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-356c0c63b5ae2248839419d89178558a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-356c0c63b5ae2248839419d89178558a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-356c0c63b5ae2248839419d89178558a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-356c0c63b5ae2248839419d89178558a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-356c0c63b5ae2248839419d89178558a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In subsection (3) (matters which may be specified in reference or variation)—
 
-- (a)[^key-4f652e08fe52f1c24bd9ef1578f45a6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-4f652e08fe52f1c24bd9ef1578f45a6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for “his” (in both places) substitute “ its ”.
 
 (6) In subsection (4) (notice of reference or variation)—
 
-- (a)[^key-e3070549cd8c1fd8542e2dd52d17a740] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e3070549cd8c1fd8542e2dd52d17a740] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for “he” substitute “ it ”.
 
-(7)[^key-4519c4f02c7f883a257ac4b30a13cb93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-4519c4f02c7f883a257ac4b30a13cb93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In subsection (6) (assistance to Commission)—
 
-- (a)[^key-99e999b7fb5f93e561ae9211b4edd088] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-99e999b7fb5f93e561ae9211b4edd088] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for “his possession” substitute “ the possession of the appropriate authority ”,
 - (c) for “his opinion” substitute “ the opinion of the appropriate authority ”, and
 - (d) for “his power” substitute “ the power of the appropriate authority ”.
 
 **8.**[^c14888551] (1) Section 14 (reports on modification references) is amended as follows.
 
-(2)[^key-d7e88bb654b92c8e3198e3dd62e4c817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d7e88bb654b92c8e3198e3dd62e4c817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (5) (publication by Regulator)—
 
-- (a)[^key-4a336da89549d14cba5c58cd5a007c0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-4a336da89549d14cba5c58cd5a007c0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for “he” substitute “ it ”.
 
-(4)[^key-d64953df406c4816bdfcb4a096635d23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-d64953df406c4816bdfcb4a096635d23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-d64953df406c4816bdfcb4a096635d23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d64953df406c4816bdfcb4a096635d23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **9.**[^c14888561] (1) Section 15 (modification following report) is amended as follows.
 
@@ -159,17 +159,17 @@ Section 216.
 (4) In subsection (2) (Regulator to have regard to modifications specified in report)—
 
 - (a) after “making” insert “ , or requiring the making of, ”, and
-- (b)[^key-53f88c933abef18edca19df38dcb50d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-53f88c933abef18edca19df38dcb50d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In subsection (3) (notice by Regulator), for “this section” substitute “ subsection (1A) above ”.
 
-(6)[^key-8bf456ac20c614a5f5cd9f367c549428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-8bf456ac20c614a5f5cd9f367c549428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-8bf456ac20c614a5f5cd9f367c549428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-8bf456ac20c614a5f5cd9f367c549428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-8bf456ac20c614a5f5cd9f367c549428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-8bf456ac20c614a5f5cd9f367c549428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-8167271783c1e160fc51d5beacd525ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-8167271783c1e160fc51d5beacd525ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Enforcement
 
@@ -183,7 +183,7 @@ Section 216.
 > - (b) that period has expired; and
 > - (c) the Regulator has not given notice to the Authority within that period that he so considers (or, if he has, he has withdrawn it).
 
-(3)[^key-7b159296af832888e62aad50d7af90bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7b159296af832888e62aad50d7af90bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In subsection (11), for “(5A)” substitute “ (5ZA) ”.
 
@@ -193,9 +193,9 @@ Section 216.
 
 #### Investigation
 
-**13.**[^key-b8f56da12e289395ec4403488f36da3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-b8f56da12e289395ec4403488f36da3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-e2c8862fc093bcbbf4fbdd315ab48604] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-e2c8862fc093bcbbf4fbdd315ab48604] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Registers
 
@@ -212,8 +212,8 @@ Section 216.
 
 **16.**[^c14888641] In section 73(2) (matters which Authority is to enter in register maintained by it)—
 
-- (a) in paragraph (e) (provisions of enforcement orders etc.), for “which relates to” substitute “ made by the Authority in relation to a licence or ”, [^key-8c44f52f85879c29ad563be2906970f2]...
-- (b)[^key-8c44f52f85879c29ad563be2906970f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) in paragraph (e) (provisions of enforcement orders etc.), for “which relates to” substitute “ made by the Authority in relation to a licence or ”, [^c-8c44f52f85879c29ad563be2906970f2]...
+- (b)[^c-8c44f52f85879c29ad563be2906970f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part II — Other functions
 
@@ -225,13 +225,13 @@ Section 216.
 
 #### Rail users’ consultative committees
 
-**18.**[^key-4f80177e9597e89f862dbef9851e7cf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-4f80177e9597e89f862dbef9851e7cf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-81c7a21632ce57d32bf102916cc4b9c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-81c7a21632ce57d32bf102916cc4b9c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **20.**[^c14888691] (1) Section 76 (general duties of Central Committee) is amended as follows.
 
-(2)[^key-c45149e08e64b0238ecca0a8c38f8f96] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c45149e08e64b0238ecca0a8c38f8f96] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (5), for the words from “refer the matter” to the end substitute “ , unless representations about the matter have been made to the Authority by the Rail Passengers’ Council, refer it to the Authority with a view to the Authority exercising such of its powers as it considers appropriate in the circumstances of the case. ”
 
@@ -239,23 +239,23 @@ Section 216.
 
 > (5A) But if the Authority considers that it would be more appropriate for a matter referred to it by the Rail Passengers’ Council to be considered by the Regulator, the Authority shall refer it to him, with a view to his exercising such of his powers as he considers appropriate in the circumstances of the case.
 
-(5)[^key-651c82a10967bff16556729de32442a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-651c82a10967bff16556729de32442a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-202ebc583164e98cdda47b9f29297908] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-202ebc583164e98cdda47b9f29297908] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-202ebc583164e98cdda47b9f29297908] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-202ebc583164e98cdda47b9f29297908] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-202ebc583164e98cdda47b9f29297908] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-202ebc583164e98cdda47b9f29297908] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-202ebc583164e98cdda47b9f29297908] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-202ebc583164e98cdda47b9f29297908] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Closures
 
-**25.**[^key-202ebc583164e98cdda47b9f29297908] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-202ebc583164e98cdda47b9f29297908] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-202ebc583164e98cdda47b9f29297908] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-202ebc583164e98cdda47b9f29297908] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-202ebc583164e98cdda47b9f29297908] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-202ebc583164e98cdda47b9f29297908] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Code for protection of disabled rail users
 
@@ -276,13 +276,13 @@ Section 216.
 
 #### Annual reports
 
-**29.**[^key-712c569f92e0034b0bd47747ec162e02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-712c569f92e0034b0bd47747ec162e02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Penalty fares
 
-**30.**[^key-670bd34191098ea622e116e1ac9d2ed6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-670bd34191098ea622e116e1ac9d2ed6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part III — Associated property, rights and liabilities[^key-92fa6f38ed6aaf2b2882ad9d046374f0]
+### Part III — Associated property, rights and liabilities[^c-92fa6f38ed6aaf2b2882ad9d046374f0]
 
 **No longer in force.**
 
@@ -342,7 +342,7 @@ Section 216.
 
 ## Annotations
 
-[^key-10a37033981f7a9c12862ebbe010c549]: Textual amendment: Words in Sch. 17 heading substituted (E.W.S.) (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(p)(v)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/4/p/v)
+[^c-10a37033981f7a9c12862ebbe010c549]: Textual amendment: Words in Sch. 17 heading substituted (E.W.S.) (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(p)(v)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/4/p/v)
 
 [^c14888471]: Commencement: Sch. 17 Pt. I wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
@@ -350,96 +350,96 @@ Section 216.
 
 [^c14888491]: Commencement: Sch. 17 Pt. I wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-c374e10c4ec48243198d8fc7224399c2]: Textual amendment: Sch. 17 para. 2(2)-(5) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-c374e10c4ec48243198d8fc7224399c2]: Textual amendment: Sch. 17 para. 2(2)-(5) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-645579cd7a48213bc10dfdbbb23c9db2]: Textual amendment: Sch. 17 para. 2(7)(8) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-645579cd7a48213bc10dfdbbb23c9db2]: Textual amendment: Sch. 17 para. 2(7)(8) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-4f4fd2a86c194864be51ebabef82e1fb]: Textual amendment: Sch. 17 para. 3 repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-4f4fd2a86c194864be51ebabef82e1fb]: Textual amendment: Sch. 17 para. 3 repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
 [^c14888511]: Commencement: Sch. 17 Pt. I wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-9f39083c19fd408c3c66a482d8b108f6]: Textual amendment: Sch. 17 para. 4(2)(a) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-9f39083c19fd408c3c66a482d8b108f6]: Textual amendment: Sch. 17 para. 4(2)(a) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-1f11cb36da1c0deb70ab4b9d9627eba5]: Textual amendment: Sch. 17 para. 4(5)(a) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-1f11cb36da1c0deb70ab4b9d9627eba5]: Textual amendment: Sch. 17 para. 4(5)(a) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
 [^c14888521]: Commencement: Sch. 17 Pt. I wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
 [^c14888531]: Commencement: Sch. 17 Pt. I wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-4cba78549acaf256801557c8d053c53e]: Textual amendment: Sch. 17 para. 6(2) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-4cba78549acaf256801557c8d053c53e]: Textual amendment: Sch. 17 para. 6(2) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-4be4ac3e868106cc390005a1edb3feae]: Textual amendment: Sch. 17 para. 6(3)(a) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-4be4ac3e868106cc390005a1edb3feae]: Textual amendment: Sch. 17 para. 6(3)(a) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-cc3e832730f23b13aaa24a10b68b835d]: Textual amendment: Sch. 17 para. 6(4)(5) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-cc3e832730f23b13aaa24a10b68b835d]: Textual amendment: Sch. 17 para. 6(4)(5) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
 [^c14888541]: Commencement: Sch. 17 Pt. I wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-356c0c63b5ae2248839419d89178558a]: Textual amendment: Sch. 17 para. 7(2)-(4) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-356c0c63b5ae2248839419d89178558a]: Textual amendment: Sch. 17 para. 7(2)-(4) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-4f652e08fe52f1c24bd9ef1578f45a6b]: Textual amendment: Sch. 17 para. 7(5)(a) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-4f652e08fe52f1c24bd9ef1578f45a6b]: Textual amendment: Sch. 17 para. 7(5)(a) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-e3070549cd8c1fd8542e2dd52d17a740]: Textual amendment: Sch. 17 para. 7(6)(a) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-e3070549cd8c1fd8542e2dd52d17a740]: Textual amendment: Sch. 17 para. 7(6)(a) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-4519c4f02c7f883a257ac4b30a13cb93]: Textual amendment: Sch. 17 para. 7(7) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-4519c4f02c7f883a257ac4b30a13cb93]: Textual amendment: Sch. 17 para. 7(7) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-99e999b7fb5f93e561ae9211b4edd088]: Textual amendment: Sch. 17 para. 7(8)(a) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-99e999b7fb5f93e561ae9211b4edd088]: Textual amendment: Sch. 17 para. 7(8)(a) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
 [^c14888551]: Commencement: Sch. 17 Pt. I wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-d7e88bb654b92c8e3198e3dd62e4c817]: Textual amendment: Sch. 17 para. 8(2) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-d7e88bb654b92c8e3198e3dd62e4c817]: Textual amendment: Sch. 17 para. 8(2) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-4a336da89549d14cba5c58cd5a007c0c]: Textual amendment: Sch. 17 para. 8(3)(a) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-4a336da89549d14cba5c58cd5a007c0c]: Textual amendment: Sch. 17 para. 8(3)(a) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-d64953df406c4816bdfcb4a096635d23]: Textual amendment: Sch. 17 para. 8(4)(5) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-d64953df406c4816bdfcb4a096635d23]: Textual amendment: Sch. 17 para. 8(4)(5) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
 [^c14888561]: Commencement: Sch. 17 Pt. I wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-53f88c933abef18edca19df38dcb50d6]: Textual amendment: Sch. 17 para. 9(4)(b) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-53f88c933abef18edca19df38dcb50d6]: Textual amendment: Sch. 17 para. 9(4)(b) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-8bf456ac20c614a5f5cd9f367c549428]: Textual amendment: Sch. 17 para. 9(6)-(8) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-8bf456ac20c614a5f5cd9f367c549428]: Textual amendment: Sch. 17 para. 9(6)-(8) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-8167271783c1e160fc51d5beacd525ea]: Textual amendment: Sch. 17 para. 10 repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-8167271783c1e160fc51d5beacd525ea]: Textual amendment: Sch. 17 para. 10 repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
 [^c14888581]: Commencement: Sch. 17 Pt. I wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
 [^c14888591]: Marginal citation: [1998 c. 41](https://www.legislation.gov.uk/ukpga/1998/41).
 
-[^key-7b159296af832888e62aad50d7af90bb]: Textual amendment: Sch. 17 para. 11(3) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-7b159296af832888e62aad50d7af90bb]: Textual amendment: Sch. 17 para. 11(3) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
 [^c14888601]: Commencement: Sch. 17 Pt. I wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-b8f56da12e289395ec4403488f36da3b]: Textual amendment: Sch. 17 para. 13 repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-b8f56da12e289395ec4403488f36da3b]: Textual amendment: Sch. 17 para. 13 repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-e2c8862fc093bcbbf4fbdd315ab48604]: Textual amendment: Sch. 17 para. 14 repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-e2c8862fc093bcbbf4fbdd315ab48604]: Textual amendment: Sch. 17 para. 14 repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
 [^c14888631]: Commencement: Sch. 17 Pt. I wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
 [^c14888641]: Commencement: Sch. 17 Pt. I wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-8c44f52f85879c29ad563be2906970f2]: Textual amendment: Sch. 17 para. 16(b) and preceding word repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-8c44f52f85879c29ad563be2906970f2]: Textual amendment: Sch. 17 para. 16(b) and preceding word repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
 [^c14888651]: Commencement: Sch. 17 Pt. II wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
 [^c14888661]: Marginal citation: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
 
-[^key-4f80177e9597e89f862dbef9851e7cf1]: Textual amendment: Sch. 17 para. 18 repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-4f80177e9597e89f862dbef9851e7cf1]: Textual amendment: Sch. 17 para. 18 repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-81c7a21632ce57d32bf102916cc4b9c4]: Textual amendment: Sch. 17 para. 19 repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-81c7a21632ce57d32bf102916cc4b9c4]: Textual amendment: Sch. 17 para. 19 repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
 [^c14888691]: Commencement: Sch. 17 Pt. II wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-c45149e08e64b0238ecca0a8c38f8f96]: Textual amendment: Sch. 17 para. 20(2) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-c45149e08e64b0238ecca0a8c38f8f96]: Textual amendment: Sch. 17 para. 20(2) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-651c82a10967bff16556729de32442a5]: Textual amendment: Sch. 17 para. 20(5) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-651c82a10967bff16556729de32442a5]: Textual amendment: Sch. 17 para. 20(5) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-202ebc583164e98cdda47b9f29297908]: Textual amendment: Sch. 17 paras. 21-27 repealed (24.7.2005 for the repeal of Sch. 17 paras. 21-24, 1.12.2006 for the repeal of Sch.17 paras. 25-27) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/21/schedule/13/part/1) (with [s. 14(4)(5)](https://www.legislation.gov.uk/ukpga/2003/21/section/14/4/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911). Sch.
+[^c-202ebc583164e98cdda47b9f29297908]: Textual amendment: Sch. 17 paras. 21-27 repealed (24.7.2005 for the repeal of Sch. 17 paras. 21-24, 1.12.2006 for the repeal of Sch.17 paras. 25-27) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/21/schedule/13/part/1) (with [s. 14(4)(5)](https://www.legislation.gov.uk/ukpga/2003/21/section/14/4/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911). Sch.
 
 [^c14888771]: Commencement: Sch 17 Pt. II wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
 [^c14888781]: Marginal citation: [1985 c. 67](https://www.legislation.gov.uk/ukpga/1985/67).
 
-[^key-712c569f92e0034b0bd47747ec162e02]: Textual amendment: Sch. 17 para. 29 repealed (1.12.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-712c569f92e0034b0bd47747ec162e02]: Textual amendment: Sch. 17 para. 29 repealed (1.12.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
 
-[^key-670bd34191098ea622e116e1ac9d2ed6]: Textual amendment: Sch. 17 para. 30 repealed (1.12.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-670bd34191098ea622e116e1ac9d2ed6]: Textual amendment: Sch. 17 para. 30 repealed (1.12.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
 
-[^key-92fa6f38ed6aaf2b2882ad9d046374f0]: Textual amendment: Sch. 17 Pt. III repealed (1.12.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/paragraph/3)); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-92fa6f38ed6aaf2b2882ad9d046374f0]: Textual amendment: Sch. 17 Pt. III repealed (1.12.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/paragraph/3)); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)

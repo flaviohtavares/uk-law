@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Qualifying schemes: administration charges[^key-999738929fd5a6be224d68d34909ee61]
+## 10. Qualifying schemes: administration charges[^c-999738929fd5a6be224d68d34909ee61]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-999738929fd5a6be224d68d34909ee61]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/2011/19/section/10) repealed (11.9.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1), [Sch. 18 para. 12](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/12); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
+[^c-999738929fd5a6be224d68d34909ee61]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/2011/19/section/10) repealed (11.9.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1), [Sch. 18 para. 12](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/12); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)

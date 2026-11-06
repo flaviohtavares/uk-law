@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Appeal against exclusion orders and restriction orders[^key-aca22c4d0e5cbb7c6d760ff259861862]
+## 61. Appeal against exclusion orders and restriction orders[^c-aca22c4d0e5cbb7c6d760ff259861862]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aca22c4d0e5cbb7c6d760ff259861862]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2008/5/section/61) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-aca22c4d0e5cbb7c6d760ff259861862]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2008/5/section/61) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

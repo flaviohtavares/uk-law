@@ -32,7 +32,7 @@ summary: ''
 
 Education
 
-The Additional Support for Learning (Sources of Information) (Scotland) Order 2010 (revoked)[^key-ceeb0f9129742c2beb7870fd8f7de549]
+The Additional Support for Learning (Sources of Information) (Scotland) Order 2010 (revoked)[^c-ceeb0f9129742c2beb7870fd8f7de549]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 16th August 2010
 
-[^key-ceeb0f9129742c2beb7870fd8f7de549]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ceeb0f9129742c2beb7870fd8f7de549]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ceeb0f9129742c2beb7870fd8f7de549]
+## 1. Citation and commencement[^c-ceeb0f9129742c2beb7870fd8f7de549]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Publication of information by education authority[^key-ceeb0f9129742c2beb7870fd8f7de549]
+## 2. Publication of information by education authority[^c-ceeb0f9129742c2beb7870fd8f7de549]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ceeb0f9129742c2beb7870fd8f7de549]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ceeb0f9129742c2beb7870fd8f7de549]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ceeb0f9129742c2beb7870fd8f7de549]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ceeb0f9129742c2beb7870fd8f7de549]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ceeb0f9129742c2beb7870fd8f7de549]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2010/145) revoked (14.11.2016) by [The Additional Support for Learning (Sources of Information) (Scotland) Order 2016 (S.S.I. 2016/299)](https://www.legislation.gov.uk/ssi/2016/299), [art. 1](https://www.legislation.gov.uk/ssi/2016/299/article/1), [sch.](https://www.legislation.gov.uk/ssi/2016/299/schedule)
+[^c-ceeb0f9129742c2beb7870fd8f7de549]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2010/145) revoked (14.11.2016) by [The Additional Support for Learning (Sources of Information) (Scotland) Order 2016 (S.S.I. 2016/299)](https://www.legislation.gov.uk/ssi/2016/299), [art. 1](https://www.legislation.gov.uk/ssi/2016/299/article/1), [sch.](https://www.legislation.gov.uk/ssi/2016/299/schedule)

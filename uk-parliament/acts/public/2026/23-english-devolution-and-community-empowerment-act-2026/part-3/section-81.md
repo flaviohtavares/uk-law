@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81. Appeals and compensation[^key-b90889c9c3a6bab072b4b65dc14c240a]
+## 81. Appeals and compensation[^c-b90889c9c3a6bab072b4b65dc14c240a]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b90889c9c3a6bab072b4b65dc14c240a]: Commencement: S. 81 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-b90889c9c3a6bab072b4b65dc14c240a]: Commencement: S. 81 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)

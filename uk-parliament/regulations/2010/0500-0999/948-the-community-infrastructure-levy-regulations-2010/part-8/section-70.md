@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Payment periods[^key-24fb0c4fc25769fbb88154dc0f373a76]
+## 70. Payment periods[^c-24fb0c4fc25769fbb88154dc0f373a76]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (3) Where—
 
-- (a) A is charged by both the Mayor of London and a London borough council or[^key-e5b72727b6ab62b461c01f69b6a36ae8] MDC; and
+- (a) A is charged by both the Mayor of London and a London borough council or[^c-e5b72727b6ab62b461c01f69b6a36ae8] MDC; and
 - (b) the London borough council or MDC has issued an instalment policy on or before the commencement date stated in the commencement notice received under paragraph (1)(b),
 
 A is payable in accordance with that instalment policy.
@@ -50,7 +50,7 @@ A is payable in accordance with the Mayor’s instalment policy.
 
 A is payable in accordance with that instalment policy.
 
-(5A)[^key-13587c94b1bca458b5fa0a6f5e513580] Where—
+(5A)[^c-13587c94b1bca458b5fa0a6f5e513580] Where—
 
 - (a) A is charged by the Mayor of London but not by a London borough council or MDC; and
 - (b) the Mayor has issued an instalment policy on or before the commencement date stated in the commencement notice received under paragraph (1)(b),
@@ -73,7 +73,7 @@ A is payable in accordance with that instalment policy.
 
 *Extent: E*
 
-(9)[^key-f7be60ac9aff9a0be0845974502b7b9c] Where—
+(9)[^c-f7be60ac9aff9a0be0845974502b7b9c] Where—
 
 - (a) the amount of CIL in respect of a chargeable development which is granted planning permission is payable in accordance with an instalment policy; and
 - (b) a new planning permission (B) is later granted in relation to the development under section 73 of TCPA 1990,
@@ -82,10 +82,10 @@ then the amount of CIL in respect of the development granted by B is payable in 
 
 ## Annotations
 
-[^key-24fb0c4fc25769fbb88154dc0f373a76]: Textual amendment: Regs. 69B, 70 substituted for reg. 70 (6.4.2011) by [The Community Infrastructure Levy (Amendment) Regulations 2011 (S.I. 2011/987)](https://www.legislation.gov.uk/uksi/2011/987), [regs. 1](https://www.legislation.gov.uk/uksi/2011/987/regulation/1), [9(11)](https://www.legislation.gov.uk/uksi/2011/987/regulation/9/11)
+[^c-24fb0c4fc25769fbb88154dc0f373a76]: Textual amendment: Regs. 69B, 70 substituted for reg. 70 (6.4.2011) by [The Community Infrastructure Levy (Amendment) Regulations 2011 (S.I. 2011/987)](https://www.legislation.gov.uk/uksi/2011/987), [regs. 1](https://www.legislation.gov.uk/uksi/2011/987/regulation/1), [9(11)](https://www.legislation.gov.uk/uksi/2011/987/regulation/9/11)
 
-[^key-e5b72727b6ab62b461c01f69b6a36ae8]: Textual amendment: Words in [reg. 70(3)-(6)](https://www.legislation.gov.uk/uksi/2010/948/regulation/70/3) inserted (25.4.2013) by [The Community Infrastructure Levy (Amendment) Regulations 2013 (S.I. 2013/982)](https://www.legislation.gov.uk/uksi/2013/982), [regs. 1](https://www.legislation.gov.uk/uksi/2013/982/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2013/982/regulation/9/2)
+[^c-e5b72727b6ab62b461c01f69b6a36ae8]: Textual amendment: Words in [reg. 70(3)-(6)](https://www.legislation.gov.uk/uksi/2010/948/regulation/70/3) inserted (25.4.2013) by [The Community Infrastructure Levy (Amendment) Regulations 2013 (S.I. 2013/982)](https://www.legislation.gov.uk/uksi/2013/982), [regs. 1](https://www.legislation.gov.uk/uksi/2013/982/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2013/982/regulation/9/2)
 
-[^key-13587c94b1bca458b5fa0a6f5e513580]: Textual amendment: [Reg. 70(5A)](https://www.legislation.gov.uk/uksi/2010/948/regulation/70/5A) inserted (29.11.2012) by [The Community Infrastructure Levy (Amendment) Regulations 2012 (S.I. 2012/2975)](https://www.legislation.gov.uk/uksi/2012/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2012/2975/regulation/8/2) (with [reg. 10(3)-(5)](https://www.legislation.gov.uk/uksi/2012/2975/regulation/10/3))
+[^c-13587c94b1bca458b5fa0a6f5e513580]: Textual amendment: [Reg. 70(5A)](https://www.legislation.gov.uk/uksi/2010/948/regulation/70/5A) inserted (29.11.2012) by [The Community Infrastructure Levy (Amendment) Regulations 2012 (S.I. 2012/2975)](https://www.legislation.gov.uk/uksi/2012/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2012/2975/regulation/8/2) (with [reg. 10(3)-(5)](https://www.legislation.gov.uk/uksi/2012/2975/regulation/10/3))
 
-[^key-f7be60ac9aff9a0be0845974502b7b9c]: Textual amendment: [Reg. 70(9)](https://www.legislation.gov.uk/uksi/2010/948/regulation/70/9) inserted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/7/2) (with [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/4), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
+[^c-f7be60ac9aff9a0be0845974502b7b9c]: Textual amendment: [Reg. 70(9)](https://www.legislation.gov.uk/uksi/2010/948/regulation/70/9) inserted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/7/2) (with [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/4), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))

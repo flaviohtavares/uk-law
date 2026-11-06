@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Additional safeguards for confidential journalistic material etc[^key-1314261ad9216ae2c6c53df2cc7efade]
+## 154. Additional safeguards for confidential journalistic material etc[^c-1314261ad9216ae2c6c53df2cc7efade]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ if the public interest in retaining the material outweighs the public interest i
 
 ## Annotations
 
-[^key-1314261ad9216ae2c6c53df2cc7efade]: Textual amendment: [Ss. 154](https://www.legislation.gov.uk/ukpga/2016/25/section/154), [154A](https://www.legislation.gov.uk/ukpga/2016/25/section/154A) substituted for s.154 (16.4.2024) by [The Investigatory Powers Act 2016 (Remedial) Order 2024 (S.I. 2024/514)](https://www.legislation.gov.uk/uksi/2024/514), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/514/article/1/1), [2](https://www.legislation.gov.uk/uksi/2024/514/article/2)
+[^c-1314261ad9216ae2c6c53df2cc7efade]: Textual amendment: [Ss. 154](https://www.legislation.gov.uk/ukpga/2016/25/section/154), [154A](https://www.legislation.gov.uk/ukpga/2016/25/section/154A) substituted for s.154 (16.4.2024) by [The Investigatory Powers Act 2016 (Remedial) Order 2024 (S.I. 2024/514)](https://www.legislation.gov.uk/uksi/2024/514), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/514/article/1/1), [2](https://www.legislation.gov.uk/uksi/2024/514/article/2)

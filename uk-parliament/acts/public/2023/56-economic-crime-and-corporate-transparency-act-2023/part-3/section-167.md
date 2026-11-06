@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167. Material unavailable for public inspection[^key-76d37cc96ee770c4a89e559796a77273][^key-834689ae9c281970eb1830d489f8a08f]
+## 167. Material unavailable for public inspection[^c-76d37cc96ee770c4a89e559796a77273][^c-834689ae9c281970eb1830d489f8a08f]
 
 *Extent: E+W+S+N.I.*
 
@@ -117,6 +117,6 @@ For sections 22 to 24 of the Economic Crime (Transparency and Enforcement) Act 2
 
 ## Annotations
 
-[^key-76d37cc96ee770c4a89e559796a77273]: Commencement: S. 167 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-76d37cc96ee770c4a89e559796a77273]: Commencement: S. 167 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-834689ae9c281970eb1830d489f8a08f]: Commencement: [S. 167](https://www.legislation.gov.uk/ukpga/2023/56/section/167) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z52)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z52)
+[^c-834689ae9c281970eb1830d489f8a08f]: Commencement: [S. 167](https://www.legislation.gov.uk/ukpga/2023/56/section/167) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z52)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z52)

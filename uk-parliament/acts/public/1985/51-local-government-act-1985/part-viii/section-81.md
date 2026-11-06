@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Transitional functions of residuary bodies in respect of block grant.[^key-c3262baa0f17615c310116d09f16de62]
+## 81. Transitional functions of residuary bodies in respect of block grant.[^c-c3262baa0f17615c310116d09f16de62]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3262baa0f17615c310116d09f16de62]: Textual amendment: S. 81 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
+[^c-c3262baa0f17615c310116d09f16de62]: Textual amendment: S. 81 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2

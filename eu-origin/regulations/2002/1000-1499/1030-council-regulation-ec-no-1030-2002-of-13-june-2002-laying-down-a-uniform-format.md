@@ -35,88 +35,88 @@ of 13 June 2002
 
 laying down a uniform format for residence permits for third-country nationals (revoked)
 
-[^key-51a94b55d3d5d33b2a1cf7fe6bfba24a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51a94b55d3d5d33b2a1cf7fe6bfba24a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-51a94b55d3d5d33b2a1cf7fe6bfba24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-51a94b55d3d5d33b2a1cf7fe6bfba24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-51a94b55d3d5d33b2a1cf7fe6bfba24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-51a94b55d3d5d33b2a1cf7fe6bfba24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-51a94b55d3d5d33b2a1cf7fe6bfba24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-51a94b55d3d5d33b2a1cf7fe6bfba24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-51a94b55d3d5d33b2a1cf7fe6bfba24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-51a94b55d3d5d33b2a1cf7fe6bfba24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4a.**[^key-51a94b55d3d5d33b2a1cf7fe6bfba24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4a.**[^c-51a94b55d3d5d33b2a1cf7fe6bfba24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4b.**[^key-51a94b55d3d5d33b2a1cf7fe6bfba24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4b.**[^c-51a94b55d3d5d33b2a1cf7fe6bfba24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-51a94b55d3d5d33b2a1cf7fe6bfba24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-51a94b55d3d5d33b2a1cf7fe6bfba24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5a.**[^key-51a94b55d3d5d33b2a1cf7fe6bfba24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5a.**[^c-51a94b55d3d5d33b2a1cf7fe6bfba24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-51a94b55d3d5d33b2a1cf7fe6bfba24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-51a94b55d3d5d33b2a1cf7fe6bfba24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-51a94b55d3d5d33b2a1cf7fe6bfba24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-51a94b55d3d5d33b2a1cf7fe6bfba24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-51a94b55d3d5d33b2a1cf7fe6bfba24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-51a94b55d3d5d33b2a1cf7fe6bfba24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-51a94b55d3d5d33b2a1cf7fe6bfba24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-51a94b55d3d5d33b2a1cf7fe6bfba24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.**[^key-51a94b55d3d5d33b2a1cf7fe6bfba24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-51a94b55d3d5d33b2a1cf7fe6bfba24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51a94b55d3d5d33b2a1cf7fe6bfba24a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51a94b55d3d5d33b2a1cf7fe6bfba24a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — FRONT AND REVERSE OF THE CARD[^key-51a94b55d3d5d33b2a1cf7fe6bfba24a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## ANNEX — FRONT AND REVERSE OF THE CARD[^c-51a94b55d3d5d33b2a1cf7fe6bfba24a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51a94b55d3d5d33b2a1cf7fe6bfba24a] (a)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-51a94b55d3d5d33b2a1cf7fe6bfba24a] (a)
 
 Description
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51a94b55d3d5d33b2a1cf7fe6bfba24a] (b)
+[^c-51a94b55d3d5d33b2a1cf7fe6bfba24a] (b)
 
 Colour, printing process
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51a94b55d3d5d33b2a1cf7fe6bfba24a] (c)
+[^c-51a94b55d3d5d33b2a1cf7fe6bfba24a] (c)
 
 Material
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51a94b55d3d5d33b2a1cf7fe6bfba24a] (d)
+[^c-51a94b55d3d5d33b2a1cf7fe6bfba24a] (d)
 
 Printing techniques
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51a94b55d3d5d33b2a1cf7fe6bfba24a] (e)
+[^c-51a94b55d3d5d33b2a1cf7fe6bfba24a] (e)
 
 Numbering
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51a94b55d3d5d33b2a1cf7fe6bfba24a] (f)
+[^c-51a94b55d3d5d33b2a1cf7fe6bfba24a] (f)
 
 Protection against copying
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51a94b55d3d5d33b2a1cf7fe6bfba24a] (g)
+[^c-51a94b55d3d5d33b2a1cf7fe6bfba24a] (g)
 
 Personalisation technique
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51a94b55d3d5d33b2a1cf7fe6bfba24a] (h)
+[^c-51a94b55d3d5d33b2a1cf7fe6bfba24a] (h)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-51a94b55d3d5d33b2a1cf7fe6bfba24a]: Textual amendment: Regulation revoked (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2019/745/schedule/1/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-51a94b55d3d5d33b2a1cf7fe6bfba24a]: Textual amendment: Regulation revoked (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2019/745/schedule/1/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

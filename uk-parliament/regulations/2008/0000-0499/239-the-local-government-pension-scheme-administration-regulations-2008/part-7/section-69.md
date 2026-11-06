@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 69. Information to be supplied by employees[^key-b5c22f375c2fa6c3983dcd496d6449e0]
+## 69. Information to be supplied by employees[^c-b5c22f375c2fa6c3983dcd496d6449e0]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5c22f375c2fa6c3983dcd496d6449e0]: Commencement: Reg. 69 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-b5c22f375c2fa6c3983dcd496d6449e0]: Commencement: Reg. 69 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

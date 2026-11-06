@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 247A. Protocols relating to coronavirus and influenza vaccinations and immunisations[^key-6f6178ca213faa4b1b09f48a861114f0]
+## 247A. Protocols relating to coronavirus and influenza vaccinations and immunisations[^c-6f6178ca213faa4b1b09f48a861114f0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f6178ca213faa4b1b09f48a861114f0]: Textual amendment: Reg. 247A omitted (31.3.2026) by virtue of [The Human Medicines (Amendment) Regulations 2026 (S.I. 2026/381)](https://www.legislation.gov.uk/uksi/2026/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/381/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2026/381/regulation/10)
+[^c-6f6178ca213faa4b1b09f48a861114f0]: Textual amendment: Reg. 247A omitted (31.3.2026) by virtue of [The Human Medicines (Amendment) Regulations 2026 (S.I. 2026/381)](https://www.legislation.gov.uk/uksi/2026/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/381/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2026/381/regulation/10)

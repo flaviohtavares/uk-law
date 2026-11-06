@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Interpretation of Part 3[^key-077124c230bc86b31e14380d97a792c9]
+## 29. Interpretation of Part 3[^c-077124c230bc86b31e14380d97a792c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ A body is “based”—
 
 ## Annotations
 
-[^key-077124c230bc86b31e14380d97a792c9]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2020/27/section/29) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/c)
+[^c-077124c230bc86b31e14380d97a792c9]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2020/27/section/29) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/c)

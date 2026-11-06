@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — ADDITIONAL CONDITIONS UNDER WHICH POULTRY (OTHER THAN THOSE KEPT IN THE SYSTEMS REFERRED TO IN SCHEDULES 3A, 3B AND 3C) MUST BE KEPT[^key-e95daaa851c76292286aa60df5f71143]
+## SCHEDULE 3 — ADDITIONAL CONDITIONS UNDER WHICH POULTRY (OTHER THAN THOSE KEPT IN THE SYSTEMS REFERRED TO IN SCHEDULES 3A, 3B AND 3C) MUST BE KEPT[^c-e95daaa851c76292286aa60df5f71143]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Where any poultry (other than those kept in the systems referred to in Schedules
 
 ## Annotations
 
-[^key-e95daaa851c76292286aa60df5f71143]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/wsi/2001/2682/schedule/3) substituted (6.8.2002) by [The Welfare of Farmed Animals (Wales) (Amendment) Regulations 2002 (S.I. 2002/1898)](https://www.legislation.gov.uk/wsi/2002/1898), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2002/1898/regulation/1/2), [2(7)](https://www.legislation.gov.uk/wsi/2002/1898/regulation/2/7)
+[^c-e95daaa851c76292286aa60df5f71143]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/wsi/2001/2682/schedule/3) substituted (6.8.2002) by [The Welfare of Farmed Animals (Wales) (Amendment) Regulations 2002 (S.I. 2002/1898)](https://www.legislation.gov.uk/wsi/2002/1898), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2002/1898/regulation/1/2), [2(7)](https://www.legislation.gov.uk/wsi/2002/1898/regulation/2/7)

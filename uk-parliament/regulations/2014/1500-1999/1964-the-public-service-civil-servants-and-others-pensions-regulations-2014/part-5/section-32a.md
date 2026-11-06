@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32A. Modification of the retirement index adjustment[^key-b3f9f4a96b47ee8966e24c47a465d16f]
+## 32A. Modification of the retirement index adjustment[^c-b3f9f4a96b47ee8966e24c47a465d16f]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3f9f4a96b47ee8966e24c47a465d16f]: Textual amendment: [Reg. 32A](https://www.legislation.gov.uk/uksi/2014/1964/regulation/32A) inserted (with effect from 1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2018 (S.I. 2018/537)](https://www.legislation.gov.uk/uksi/2018/537), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/537/regulation/1/2/b), [11(2)](https://www.legislation.gov.uk/uksi/2018/537/regulation/11/2)
+[^c-b3f9f4a96b47ee8966e24c47a465d16f]: Textual amendment: [Reg. 32A](https://www.legislation.gov.uk/uksi/2014/1964/regulation/32A) inserted (with effect from 1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2018 (S.I. 2018/537)](https://www.legislation.gov.uk/uksi/2018/537), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/537/regulation/1/2/b), [11(2)](https://www.legislation.gov.uk/uksi/2018/537/regulation/11/2)

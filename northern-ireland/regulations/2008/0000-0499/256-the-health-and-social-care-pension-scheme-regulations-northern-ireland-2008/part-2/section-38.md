@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Exercise of options under regulations 34, 36 and 37[^key-5e53f575b024d5ac4eb0f64078bd9d4e]
+## 38. Exercise of options under regulations 34, 36 and 37[^c-5e53f575b024d5ac4eb0f64078bd9d4e]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e53f575b024d5ac4eb0f64078bd9d4e]: Modification: [Regs. 34-41](https://www.legislation.gov.uk/nisr/2008/256/regulation/34) applied (with modifications) (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [23(2)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/2/a)[(3)(b)(i)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/3/b/i)
+[^c-5e53f575b024d5ac4eb0f64078bd9d4e]: Modification: [Regs. 34-41](https://www.legislation.gov.uk/nisr/2008/256/regulation/34) applied (with modifications) (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [23(2)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/2/a)[(3)(b)(i)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/3/b/i)

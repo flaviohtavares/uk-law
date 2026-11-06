@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Additional functions of the Chief Inspector[^key-5e00d7fd454a387b326eb47a2d6d3b40][^key-75ebfaf79e46e69f5d62c4afa8bcce59]
+## 61. Additional functions of the Chief Inspector[^c-5e00d7fd454a387b326eb47a2d6d3b40][^c-75ebfaf79e46e69f5d62c4afa8bcce59]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5e00d7fd454a387b326eb47a2d6d3b40]: Commencement: S. 61 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-5e00d7fd454a387b326eb47a2d6d3b40]: Commencement: S. 61 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-75ebfaf79e46e69f5d62c4afa8bcce59]: Commencement: [S. 61](https://www.legislation.gov.uk/asc/2022/1/section/61) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(e)](https://www.legislation.gov.uk/wsi/2026/62/article/2/e)
+[^c-75ebfaf79e46e69f5d62c4afa8bcce59]: Commencement: [S. 61](https://www.legislation.gov.uk/asc/2022/1/section/61) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(e)](https://www.legislation.gov.uk/wsi/2026/62/article/2/e)

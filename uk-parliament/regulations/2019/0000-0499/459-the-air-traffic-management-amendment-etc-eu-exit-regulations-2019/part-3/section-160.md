@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Article 11 of Commission Regulation (EU) No 73/2010[^key-9dbddba51588a651d41fa518d05c4e6b]
+## 160. Article 11 of Commission Regulation (EU) No 73/2010[^c-9dbddba51588a651d41fa518d05c4e6b]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In Article 11 (conformity or suitability for use of constituents)—
 
 ## Annotations
 
-[^key-9dbddba51588a651d41fa518d05c4e6b]: Commencement: Reg. 160 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-9dbddba51588a651d41fa518d05c4e6b]: Commencement: Reg. 160 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

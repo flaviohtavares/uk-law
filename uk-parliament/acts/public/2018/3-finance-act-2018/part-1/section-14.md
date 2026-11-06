@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-eeda07cccb7be1ef8486ec3a24334437] In Part 5 of ITA 2007 (enterprise investment scheme)—
+(1)[^c-eeda07cccb7be1ef8486ec3a24334437] In Part 5 of ITA 2007 (enterprise investment scheme)—
 
 - (a) in section 157 (eligibility for EIS relief), in subsection (1), before paragraph (a) insert—
 
@@ -57,7 +57,7 @@ summary: ''
   > - (a) any reference in this section to the company's trade is to what would be the trade of the group if the activities of the group companies taken together were regarded as one trade, and
   > - (b) any reference in subsection (3)(a) to (e) to the company is to any group company.
 
-(2)[^key-eeda07cccb7be1ef8486ec3a24334437] In Part 5A of ITA 2007 (seed enterprise investment scheme)—
+(2)[^c-eeda07cccb7be1ef8486ec3a24334437] In Part 5A of ITA 2007 (seed enterprise investment scheme)—
 
 - (a) in section 257AA (eligibility for SEIS relief), before paragraph (a) insert—
 
@@ -94,7 +94,7 @@ summary: ''
   > - (a) any reference in this section to the company's trade is to what would be the trade of the group if the activities of the group companies taken together were regarded as one trade, and
   > - (b) any reference in subsection (3)(a) to (e) to the company is to any group company.
 
-(3)[^key-4b583dc2ade814a9234398318471dffc] In Part 6 of ITA 2007 (venture capital trusts)—
+(3)[^c-4b583dc2ade814a9234398318471dffc] In Part 6 of ITA 2007 (venture capital trusts)—
 
 - (a) in section 286 (qualifying holdings), in subsection (3), before paragraph (za) insert—
 
@@ -141,6 +141,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eeda07cccb7be1ef8486ec3a24334437]: Commencement: S. 14(1)(2) in force at 15.3.2018 for the purposes of the amendments made by those subsections by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/2/a)
+[^c-eeda07cccb7be1ef8486ec3a24334437]: Commencement: S. 14(1)(2) in force at 15.3.2018 for the purposes of the amendments made by those subsections by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/2/a)
 
-[^key-4b583dc2ade814a9234398318471dffc]: Commencement: S. 14(3) in force at 15.3.2018 for the purposes of the amendments made by that subsection by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/931/regulation/2/b)
+[^c-4b583dc2ade814a9234398318471dffc]: Commencement: S. 14(3) in force at 15.3.2018 for the purposes of the amendments made by that subsection by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/931/regulation/2/b)

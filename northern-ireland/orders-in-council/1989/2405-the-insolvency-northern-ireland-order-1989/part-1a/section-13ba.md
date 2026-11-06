@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13BA. Obtaining a moratorium for company subject to winding-up petition[^M_C_ca3b3d6c-0ef7-4dec-d112-5c3a10dae1c7][^key-1531dc9ea9123ea203c78422d93482c3]
+## 13BA. Obtaining a moratorium for company subject to winding-up petition[^M_C_ca3b3d6c-0ef7-4dec-d112-5c3a10dae1c7][^c-1531dc9ea9123ea203c78422d93482c3]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 [^M_C_ca3b3d6c-0ef7-4dec-d112-5c3a10dae1c7]: Modification: Art. 13BA modified (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2020/12/schedule/8/paragraph/5) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2020/12/schedule/8/paragraph/1))
 
-[^key-1531dc9ea9123ea203c78422d93482c3]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/nisi/1989/2405/part/1A) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/4/1), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-1531dc9ea9123ea203c78422d93482c3]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/nisi/1989/2405/part/1A) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/4/1), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

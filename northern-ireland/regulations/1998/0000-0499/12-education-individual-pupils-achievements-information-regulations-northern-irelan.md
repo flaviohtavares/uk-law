@@ -40,15 +40,15 @@ Coming into operation
 
 The Department of Education, in exercise of the powers conferred on it by Articles 17A(1), (2) and (2A) and 134(1) of the Education and Libraries (Northern Ireland) Order 1986[^f00001] and Article 31(2) and (3) of the Education Reform (Northern Ireland) Order 1989[^f00002] and of every other power enabling it in that behalf, and after consulting as required by Article 31(4) of that Order, hereby makes the following Regulations:
 
-## 1. Citation[^key-db29c56e6f2256d3434471d1598398ed]
+## 1. Citation[^c-db29c56e6f2256d3434471d1598398ed]
 
 These Regulations may be cited as the Education (Individual Pupils' Achievements) (Information) Regulations (Northern Ireland) 1998.
 
-## 2. Commencement[^key-155fa51d7bb28246499ddeb476b85f1a]
+## 2. Commencement[^c-155fa51d7bb28246499ddeb476b85f1a]
 
 These Regulations shall come into operation on 19th February 1998.
 
-## 3. Interpretation[^key-39bea6617beffe99d1de86e2d5a67584]
+## 3. Interpretation[^c-39bea6617beffe99d1de86e2d5a67584]
 
 (1) In these Regulations—
 
@@ -64,20 +64,20 @@ These Regulations shall come into operation on 19th February 1998.
 - “summative Record of Achievement” has the meaning given by regulation 6(4);
 - “the statutory arrangements” means assessment arrangements specified by orders made under Article 7(1)(*b*) of the 1989 Order.
 
-## 4. Revocation[^key-39bd1a5b16c26fc52a3d99eb1380285b]
+## 4. Revocation[^c-39bd1a5b16c26fc52a3d99eb1380285b]
 
 The following Regulations are hereby revoked:
 
 - The Education (Individual Pupils' Achievements) (Information) Regulations (Northern Ireland) 1995[^f00003]; and
 - The Education (Individual Pupils' Achievements) (Information) (Amendment) Regulations (Northern Ireland) 1997[^f00004].
 
-## 5. Application[^key-d2ae8c6f3316ccfeeaf05ef461ef5fb7]
+## 5. Application[^c-d2ae8c6f3316ccfeeaf05ef461ef5fb7]
 
 (1) Subject to paragraph (2), these Regulations shall apply to all grant-aided schools.
 
 (2) These Regulations shall not apply to nursery schools, or in respect of pupils in primary schools or special schools who have not attained the lower limit of compulsory school age.
 
-## 6. General duties of the principal[^key-16584d1766587f05417e54dfb6c3e847]
+## 6. General duties of the principal[^c-16584d1766587f05417e54dfb6c3e847]
 
 (1) The principal of each grant-aided school shall make available to the parents of each pupil at the school the information relating to that pupil’s educational achievements specified in regulation 7.
 
@@ -87,7 +87,7 @@ The following Regulations are hereby revoked:
 
 (4) The information referred to in paragraph (3) shall be produced in a document to be known as the pupil’s summative Record of Achievement and shall be made available at the times and in the manner specified in regulation 11.
 
-**7.**[^key-ef8b053525a3ab619eb38801412d6112] (1) The information required by regulation 6(1) to be made available is—
+**7.**[^c-ef8b053525a3ab619eb38801412d6112] (1) The information required by regulation 6(1) to be made available is—
 
 - (a) where the pupil is in the final year of the first, second or third key stage: the information set out in Schedule 1; in the case of a pupil in the final year of the second key stage the information set out in paragraph 1(1)(*a*), (*c*) and (*f*) of Schedule 1 shall be provided in the form specified in Schedule 5, or a form to the like effect;
 - (b) where the pupil is in the final year of the fourth key stage: the information set out in Schedule 2;
@@ -96,13 +96,13 @@ The following Regulations are hereby revoked:
 
 (2) The brief particulars referred to in paragraph 1(*d*) shall include the results of any public examination taken by the pupil for which he was prepared by the school in the school year to which the information relates, and where they include references to the pupil’s levels of attainment they shall contain a statement that those levels have not been assessed in accordance with the statutory arrangements.
 
-## 8. Time and manner of provision of information to parents[^key-8ec12c7c0642ab515d8b7ea01953bb72]
+## 8. Time and manner of provision of information to parents[^c-8ec12c7c0642ab515d8b7ea01953bb72]
 
 (1) Subject to paragraph (2) the principal shall send the information (whether by post or otherwise) to the pupil’s parent not later than 30th June in the school year to which the information relates.
 
 (2) Where the principal receives information after 30th June in any school year consisting of the results of public examinations taken by a pupil at the school during the school year, he shall send that information (whether by post or otherwise) as soon as reasonably practicable to the parent of that pupil.
 
-## 9. Additional information to be made available to parents in certain cases[^key-b1e66255fb2ed329a12a8fb956274e6f]
+## 9. Additional information to be made available to parents in certain cases[^c-b1e66255fb2ed329a12a8fb956274e6f]
 
 (1) Subject to paragraph (2), it shall be the duty of the principal, in the case of a pupil mentioned in regulation 7(1)(*a*), other than a pupil who is in the final year of the second key stage, to disclose to that pupil’s parent, when requested to do so by that parent, the relevant data, and to make available to the parent a copy of those data.
 
@@ -110,7 +110,7 @@ The following Regulations are hereby revoked:
 
 (3) In paragraph (1) the “relevant data” means the level of attainment achieved by the pupil in each attainment target of any compulsory contributory subject in respect of which the pupil has been assessed in accordance with the statutory arrangements.
 
-## 10. Information to be provided in a pupil’s summative Record of Achievement[^key-8968b9c597a073bd0646fefbb588751f]
+## 10. Information to be provided in a pupil’s summative Record of Achievement[^c-8968b9c597a073bd0646fefbb588751f]
 
 (1) The information required by regulation 6(3) to be made available in a pupil’s summative Record of Achievement is:
 
@@ -120,7 +120,7 @@ The following Regulations are hereby revoked:
 
 (2) In the case of a pupil to whom paragraph (1)(*b*) or (*c*) applies, the information shall be provided in the form specified in Schedule 8, or a form to the like effect.
 
-## 11. Time and manner of provision of information in summative Records of Achievement[^key-d1537756f801fa1d1227ee5ac9db23d7]
+## 11. Time and manner of provision of information in summative Records of Achievement[^c-d1537756f801fa1d1227ee5ac9db23d7]
 
 (1) In the case of a pupil at the end of the final year of the second key stage, the principal shall send the information (whether by post or otherwise) to the pupil’s parent not later than 30th June in that school year.
 
@@ -140,7 +140,7 @@ Assistant Secretary
 
 Regulation 7(1)(*a*)
 
-**1.**[^key-3352323aaba4d6578c0656c4a11def66] (1) Subject to paragraphs 3 and 4, in the case of a pupil in the final year of the first or second key stage—
+**1.**[^c-3352323aaba4d6578c0656c4a11def66] (1) Subject to paragraphs 3 and 4, in the case of a pupil in the final year of the first or second key stage—
 
 - (a) the pupil’s level of attainment in any relevant subject in which his achievements have been assessed in the final year of that key stage in accordance with the statutory arrangements for that key stage;
 - (b) a statement of the percentage of pupils in the final year of that key stage in the school—
@@ -156,7 +156,7 @@ Regulation 7(1)(*a*)
 
 (3) Where a pupil is in an Irish speaking school, in this paragraph and in paragraph 4(1)(*a*) “relevant subject” means Irish or Mathematics in relation to a pupil in the first key stage and Irish, English or Mathematics in relation to a pupil in the second key stage.
 
-**2.**[^key-2d6fe60bdabfa52c2eb71ebeb9df524b] (1) Subject to paragraph 4, in the case of a pupil in the final year of the third key stage—
+**2.**[^c-2d6fe60bdabfa52c2eb71ebeb9df524b] (1) Subject to paragraph 4, in the case of a pupil in the final year of the third key stage—
 
 - (a) the pupil’s level of attainment in any relevant subject as determined by a teacher under Article 6 of the Education (Assessment Arrangements for Key Stage 3) Order (Northern Ireland) 1997[^f00006] and his level of attainment in tests set by the Northern Ireland Council for the Curriculum, Examinations and Assessment under Article 9 of that Order together with a statement of the percentage of pupils in the final year of that key stage in the school—
   - (i) attaining each level as determined by a teacher under Article 6 of that Order in that subject;
@@ -171,9 +171,9 @@ Regulation 7(1)(*a*)
 
 (2) In this paragraph and in paragraph 4(1)(*b*) “relevant subject” means English, Mathematics or Science.
 
-**3.**[^key-149ce7fa6aeeed9b27d8d687a5a9c6ec] In the case of a pupil who is in the final year of the second key stage the reference in paragraph 1(1)(*a*) to the pupil’s level of attainment shall be deemed to include a reference to his level of attainment in each attainment target of each relevant subject.
+**3.**[^c-149ce7fa6aeeed9b27d8d687a5a9c6ec] In the case of a pupil who is in the final year of the second key stage the reference in paragraph 1(1)(*a*) to the pupil’s level of attainment shall be deemed to include a reference to his level of attainment in each attainment target of each relevant subject.
 
-**4.**[^key-3b098b1cc080ac9203e81254555d96f5] (1) Subject to sub-paragraph (2), in the case of a pupil in respect of whom a statement of special educational needs is maintained by an education and library board under Article 16 of the Education (Northern Ireland) Order 1996[^f00007]—
+**4.**[^c-3b098b1cc080ac9203e81254555d96f5] (1) Subject to sub-paragraph (2), in the case of a pupil in respect of whom a statement of special educational needs is maintained by an education and library board under Article 16 of the Education (Northern Ireland) Order 1996[^f00007]—
 
 - (a) the reference in paragraph 1(1)(*a*) to the pupil’s level of attainment shall be deemed to include a reference to his level of attainment in each attainment target of each relevant subject; and
 - (b) the reference in paragraph 2(1)(*a*) to the pupil’s level of attainment shall be deemed to include a reference to his level of attainment in each attainment target of each relevant subject as determined by a teacher under Article 6 of the Education (Assessment Arrangements for Key Stage 3) Order (Northern Ireland) 1997.
@@ -185,14 +185,14 @@ Regulation 7(1)(*a*)
 
 shall not apply.
 
-**5.**[^key-bf1e4e9fbe1b93e07625a6fabee17518] In paragraphs 1(1)(*d*) and 2(1)(*c*) a reference to a pupil who has been exempted from any part of a programme of study is a reference to a pupil to whom any part of a programme of study does not apply or applies with modifications (as the case may be) by virtue of—
+**5.**[^c-bf1e4e9fbe1b93e07625a6fabee17518] In paragraphs 1(1)(*d*) and 2(1)(*c*) a reference to a pupil who has been exempted from any part of a programme of study is a reference to a pupil to whom any part of a programme of study does not apply or applies with modifications (as the case may be) by virtue of—
 
 - (a) a direction given by the Department under Article 14 of the 1989 Order (development work and experiments);
 - (b) regulations made under Article 15 of the 1989 Order (exceptions by regulations);
 - (c) provision made pursuant to Article 16 of the 1989 Order in a statement of the pupil’s special educational needs made under Article 16 of the Education (Northern Ireland) Order 1996; or
 - (d) a direction given by a principal pursuant to regulations made under Article 17 of the 1989 Order (temporary exceptions for individual pupils).
 
-**6.**[^key-4250df532d3dee1b9f47e60401394744] In this Schedule—
+**6.**[^c-4250df532d3dee1b9f47e60401394744] In this Schedule—
 
 - “programme of study” means—
   - (a) in relation to a pupil in the final year of the first or second key stage the programme of study set out in the Document published by The Stationery Office entitled “The Northern Ireland Curriculum Key Stages 1 and 2, Programmes of Study and Attainment Targets”[^f00008];
@@ -211,49 +211,49 @@ shall not apply.
 
 Regulation 7(1)(*b*)
 
-**1.**[^key-0b079821252a97a46de05be4ca0c790e] The names of any GCSE subjects entered by the pupil and the grade obtained in each.
+**1.**[^c-0b079821252a97a46de05be4ca0c790e] The names of any GCSE subjects entered by the pupil and the grade obtained in each.
 
-**2.**[^key-7c22e011b19d138b960ae6ca8fa8c158] Where the pupil has been exempted from any part of a programme of study in that school year, a statement to that effect referring to the part.
+**2.**[^c-7c22e011b19d138b960ae6ca8fa8c158] Where the pupil has been exempted from any part of a programme of study in that school year, a statement to that effect referring to the part.
 
-**3.**[^key-ac124d33dfdbb36f441deed01cf204a4] The names of any GNVQ vocational areas in which the pupil obtained a full qualification and the level at which the qualification was obtained.
+**3.**[^c-ac124d33dfdbb36f441deed01cf204a4] The names of any GNVQ vocational areas in which the pupil obtained a full qualification and the level at which the qualification was obtained.
 
-**4.**[^key-fcd471e02e5f3ef4712fb9397b8c1eaf] The result of any other public examination taken by the pupil for which the pupil was prepared by the school in the school year to which the information relates, including any credit awarded towards a qualification where the pupil did not obtain the full qualification.
+**4.**[^c-fcd471e02e5f3ef4712fb9397b8c1eaf] The result of any other public examination taken by the pupil for which the pupil was prepared by the school in the school year to which the information relates, including any credit awarded towards a qualification where the pupil did not obtain the full qualification.
 
-**5.**[^key-380e012f7aebc794e73e723671c4061e] Brief particulars of the pupil’s achievements in any other subject or activity which forms part of his curriculum.
+**5.**[^c-380e012f7aebc794e73e723671c4061e] Brief particulars of the pupil’s achievements in any other subject or activity which forms part of his curriculum.
 
 ## SCHEDULE 3 — Information to be provided for the parents of a pupil in the sixth form
 
 Regulation 7(1)(*c*)
 
-**1.**[^key-b19aad5c934a0811c2dc0925718cfd53] The names of any GCE AS or A level subjects entered by the pupil and the grade obtained in each.
+**1.**[^c-b19aad5c934a0811c2dc0925718cfd53] The names of any GCE AS or A level subjects entered by the pupil and the grade obtained in each.
 
-**2.**[^key-2a7dc17d8cf7ea803e2670120ed3ace6] The names of any GCSE subjects entered by the pupil and the grade obtained in each.
+**2.**[^c-2a7dc17d8cf7ea803e2670120ed3ace6] The names of any GCSE subjects entered by the pupil and the grade obtained in each.
 
-**3.**[^key-22549edfa92dcc82a52ad0a73b5083a5] The names of any GNVQ vocational areas in which the pupil obtained a full qualification and the level at which the qualification was obtained.
+**3.**[^c-22549edfa92dcc82a52ad0a73b5083a5] The names of any GNVQ vocational areas in which the pupil obtained a full qualification and the level at which the qualification was obtained.
 
-**4.**[^key-7e3654eec4b1883ad53cf18ea5e01766] The result of any other public examination taken by the pupil for which the pupil was prepared by the school in the school year to which the information relates, including any credit awarded towards a qualification where the pupil did not obtain the full qualification.
+**4.**[^c-7e3654eec4b1883ad53cf18ea5e01766] The result of any other public examination taken by the pupil for which the pupil was prepared by the school in the school year to which the information relates, including any credit awarded towards a qualification where the pupil did not obtain the full qualification.
 
-**5.**[^key-cd21c133b7d426ea8fd3a4ba64b37a3a] Brief particulars of the pupil’s achievements in any other subject or activity which forms part of his curriculum.
+**5.**[^c-cd21c133b7d426ea8fd3a4ba64b37a3a] Brief particulars of the pupil’s achievements in any other subject or activity which forms part of his curriculum.
 
 ## SCHEDULE 4 — Information to be provided in the summative Record of Achievement of a pupil in the final year of the second key stage
 
 Regulation 10(1)(*a*)
 
-**1.**[^key-449145f9e39857f11050880f833b38a0] (1) Subject to sub-paragraph (2) the pupil’s level of attainment in any relevant subject in which his achievements have been assessed in accordance with the statutory arrangements for that key stage and his level of attainment in each attainment target of each such subject.
+**1.**[^c-449145f9e39857f11050880f833b38a0] (1) Subject to sub-paragraph (2) the pupil’s level of attainment in any relevant subject in which his achievements have been assessed in accordance with the statutory arrangements for that key stage and his level of attainment in each attainment target of each such subject.
 
 (2) In this paragraph “relevant subject” means, in relation to a pupil in an English speaking school, English or Mathematics and, in relation to a pupil in an Irish speaking school, Irish, English or Mathematics.
 
-**2.**[^key-202230581d017c7484679a33807ea85f] A statement that the level has been so assessed.
+**2.**[^c-202230581d017c7484679a33807ea85f] A statement that the level has been so assessed.
 
-**3.**[^key-2f87c6b4b69884507805d2159ac64c72] Brief particulars of his achievements in any other subject or activity which forms part of his curriculum.
+**3.**[^c-2f87c6b4b69884507805d2159ac64c72] Brief particulars of his achievements in any other subject or activity which forms part of his curriculum.
 
-**4.**[^key-552700b651ea9395cbc14db06ed76427] The name of any qualification, award or certificate gained by the pupil for which he was prepared by the school, or by any other primary school, whether in connection with his studies or otherwise, together, where appropriate, with the highest grade obtained by him therein and the school year in which the qualification, award or certificate was gained.
+**4.**[^c-552700b651ea9395cbc14db06ed76427] The name of any qualification, award or certificate gained by the pupil for which he was prepared by the school, or by any other primary school, whether in connection with his studies or otherwise, together, where appropriate, with the highest grade obtained by him therein and the school year in which the qualification, award or certificate was gained.
 
-**5.**[^key-3ed137b025cc88433b2170370d77cae6] Brief particulars of any school societies, clubs or activities in which the pupil was involved in the course of his attendance at the school or at any other primary school, whether in connection with his studies or otherwise.
+**5.**[^c-3ed137b025cc88433b2170370d77cae6] Brief particulars of any school societies, clubs or activities in which the pupil was involved in the course of his attendance at the school or at any other primary school, whether in connection with his studies or otherwise.
 
-**6.**[^key-4d93fc515bd0e23f68eb08b23c4b2e67] Particulars of any position of responsibility held by the pupil in the school or in any other primary school attended by him or in any societies, clubs or activities mentioned in paragraph 5.
+**6.**[^c-4d93fc515bd0e23f68eb08b23c4b2e67] Particulars of any position of responsibility held by the pupil in the school or in any other primary school attended by him or in any societies, clubs or activities mentioned in paragraph 5.
 
-## SCHEDULE 5[^key-edf0f1ce5acdefde6c7365beab62c631]
+## SCHEDULE 5[^c-edf0f1ce5acdefde6c7365beab62c631]
 
 Regulation 7(1)(*a*), 10(1)(*a*)
 
@@ -273,7 +273,7 @@ Irish-speaking Schools
 
 Regulation 10(1)(*b*)
 
-**1.**[^key-1c8c46591a2baeb5943f503f3d61a7fe] (1) The information is:
+**1.**[^c-1c8c46591a2baeb5943f503f3d61a7fe] (1) The information is:
 
 - (a) the names of any GCSE subjects entered by the pupil, the grade obtained in each and the year in which entered;
 - (b) the names of any GNVQ vocational areas in which the pupil obtained a full qualification, the year in which it was obtained and the level at which the qualification was obtained;
@@ -293,7 +293,7 @@ Regulation 10(1)(*b*)
 
 Regulation 10(1)(*c*)
 
-**1.**[^key-c6cd72238c407d922130523904f7cf0c] (1) The information is:
+**1.**[^c-c6cd72238c407d922130523904f7cf0c] (1) The information is:
 
 - (a) the names of any GCE AS or A level subjects entered by the pupil, the grade obtained in each and the year in which entered;
 - (b) the names of any GNVQ vocational areas in which the pupil obtained a full qualification, the year in which it was obtained and the level at which the qualification was obtained;
@@ -310,7 +310,7 @@ Regulation 10(1)(*c*)
 
 (4) The information in heads (*f*) to (*h*) of sub-paragraph (1) shall be provided under the heading “Achievements and Experiences” in the form specified in Part III of Schedule 8.
 
-## SCHEDULE 8[^key-3fcfa1a2ebf96edf46da9f269cedd7b7]
+## SCHEDULE 8[^c-3fcfa1a2ebf96edf46da9f269cedd7b7]
 
 Regulation 10(2)
 
@@ -344,49 +344,49 @@ Regulation 11 prescribes the time and manner of the provision of summative Recor
 
 [^f00002]: Footnote: [S.I. 1989/2406 (N.I. 20)](https://www.legislation.gov.uk/nisi/1989/2406)
 
-[^key-db29c56e6f2256d3434471d1598398ed]: Commencement: Reg. 1 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-db29c56e6f2256d3434471d1598398ed]: Commencement: Reg. 1 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-155fa51d7bb28246499ddeb476b85f1a]: Commencement: Reg. 2 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-155fa51d7bb28246499ddeb476b85f1a]: Commencement: Reg. 2 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-39bea6617beffe99d1de86e2d5a67584]: Commencement: Reg. 3 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-39bea6617beffe99d1de86e2d5a67584]: Commencement: Reg. 3 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-39bd1a5b16c26fc52a3d99eb1380285b]: Commencement: Reg. 4 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-39bd1a5b16c26fc52a3d99eb1380285b]: Commencement: Reg. 4 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
 [^f00003]: Footnote: [S.R. 1995 No. 323](https://www.legislation.gov.uk/nisr/1995/323)
 
 [^f00004]: Footnote: [S.R. 1997 No. 232](https://www.legislation.gov.uk/nisr/1997/232)
 
-[^key-d2ae8c6f3316ccfeeaf05ef461ef5fb7]: Commencement: Reg. 5 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-d2ae8c6f3316ccfeeaf05ef461ef5fb7]: Commencement: Reg. 5 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-16584d1766587f05417e54dfb6c3e847]: Commencement: Reg. 6 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-16584d1766587f05417e54dfb6c3e847]: Commencement: Reg. 6 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-ef8b053525a3ab619eb38801412d6112]: Commencement: Reg. 7 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-ef8b053525a3ab619eb38801412d6112]: Commencement: Reg. 7 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-8ec12c7c0642ab515d8b7ea01953bb72]: Commencement: Reg. 8 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-8ec12c7c0642ab515d8b7ea01953bb72]: Commencement: Reg. 8 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-b1e66255fb2ed329a12a8fb956274e6f]: Commencement: Reg. 9 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-b1e66255fb2ed329a12a8fb956274e6f]: Commencement: Reg. 9 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-8968b9c597a073bd0646fefbb588751f]: Commencement: Reg. 10 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-8968b9c597a073bd0646fefbb588751f]: Commencement: Reg. 10 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-d1537756f801fa1d1227ee5ac9db23d7]: Commencement: Reg. 11 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-d1537756f801fa1d1227ee5ac9db23d7]: Commencement: Reg. 11 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-3352323aaba4d6578c0656c4a11def66]: Commencement: Sch. 1 para. 1 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-3352323aaba4d6578c0656c4a11def66]: Commencement: Sch. 1 para. 1 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
 [^f00005]: Footnote: [S.R. 1996 No. 363](https://www.legislation.gov.uk/nisr/1996/363)
 
-[^key-2d6fe60bdabfa52c2eb71ebeb9df524b]: Commencement: Sch. 1 para. 2 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-2d6fe60bdabfa52c2eb71ebeb9df524b]: Commencement: Sch. 1 para. 2 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
 [^f00006]: Footnote: [S.R. 1997 No. 422](https://www.legislation.gov.uk/nisr/1997/422)
 
-[^key-149ce7fa6aeeed9b27d8d687a5a9c6ec]: Commencement: Sch. 1 para. 3 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-149ce7fa6aeeed9b27d8d687a5a9c6ec]: Commencement: Sch. 1 para. 3 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-3b098b1cc080ac9203e81254555d96f5]: Commencement: Sch. 1 para. 4 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-3b098b1cc080ac9203e81254555d96f5]: Commencement: Sch. 1 para. 4 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
 [^f00007]: Footnote: [S.I. 1996/274 (N.I. 1)](https://www.legislation.gov.uk/nisi/1996/274)
 
-[^key-bf1e4e9fbe1b93e07625a6fabee17518]: Commencement: Sch. 1 para. 5 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-bf1e4e9fbe1b93e07625a6fabee17518]: Commencement: Sch. 1 para. 5 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-4250df532d3dee1b9f47e60401394744]: Commencement: Sch. 1 para. 6 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-4250df532d3dee1b9f47e60401394744]: Commencement: Sch. 1 para. 6 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
 [^f00008]: Footnote: ISBN 0 337 04290 X
 
@@ -396,42 +396,42 @@ Regulation 11 prescribes the time and manner of the provision of summative Recor
 
 [^f00011]: Footnote: ISBN 0 337 04295 0
 
-[^key-0b079821252a97a46de05be4ca0c790e]: Commencement: Sch. 2 para. 1 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-0b079821252a97a46de05be4ca0c790e]: Commencement: Sch. 2 para. 1 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-7c22e011b19d138b960ae6ca8fa8c158]: Commencement: Sch. 2 para. 2 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-7c22e011b19d138b960ae6ca8fa8c158]: Commencement: Sch. 2 para. 2 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-ac124d33dfdbb36f441deed01cf204a4]: Commencement: Sch. 2 para. 3 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-ac124d33dfdbb36f441deed01cf204a4]: Commencement: Sch. 2 para. 3 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-fcd471e02e5f3ef4712fb9397b8c1eaf]: Commencement: Sch. 2 para. 4 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-fcd471e02e5f3ef4712fb9397b8c1eaf]: Commencement: Sch. 2 para. 4 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-380e012f7aebc794e73e723671c4061e]: Commencement: Sch. 2 para. 5 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-380e012f7aebc794e73e723671c4061e]: Commencement: Sch. 2 para. 5 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-b19aad5c934a0811c2dc0925718cfd53]: Commencement: Sch. 3 para. 1 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-b19aad5c934a0811c2dc0925718cfd53]: Commencement: Sch. 3 para. 1 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-2a7dc17d8cf7ea803e2670120ed3ace6]: Commencement: Sch. 3 para. 2 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-2a7dc17d8cf7ea803e2670120ed3ace6]: Commencement: Sch. 3 para. 2 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-22549edfa92dcc82a52ad0a73b5083a5]: Commencement: Sch. 3 para. 3 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-22549edfa92dcc82a52ad0a73b5083a5]: Commencement: Sch. 3 para. 3 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-7e3654eec4b1883ad53cf18ea5e01766]: Commencement: Sch. 3 para. 4 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-7e3654eec4b1883ad53cf18ea5e01766]: Commencement: Sch. 3 para. 4 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-cd21c133b7d426ea8fd3a4ba64b37a3a]: Commencement: Sch. 3 para. 5 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-cd21c133b7d426ea8fd3a4ba64b37a3a]: Commencement: Sch. 3 para. 5 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-449145f9e39857f11050880f833b38a0]: Commencement: Sch. 4 para. 1 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-449145f9e39857f11050880f833b38a0]: Commencement: Sch. 4 para. 1 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-202230581d017c7484679a33807ea85f]: Commencement: Sch. 4 para. 2 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-202230581d017c7484679a33807ea85f]: Commencement: Sch. 4 para. 2 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-2f87c6b4b69884507805d2159ac64c72]: Commencement: Sch. 4 para. 3 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-2f87c6b4b69884507805d2159ac64c72]: Commencement: Sch. 4 para. 3 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-552700b651ea9395cbc14db06ed76427]: Commencement: Sch. 4 para. 4 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-552700b651ea9395cbc14db06ed76427]: Commencement: Sch. 4 para. 4 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-3ed137b025cc88433b2170370d77cae6]: Commencement: Sch. 4 para. 5 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-3ed137b025cc88433b2170370d77cae6]: Commencement: Sch. 4 para. 5 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-4d93fc515bd0e23f68eb08b23c4b2e67]: Commencement: Sch. 4 para. 6 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-4d93fc515bd0e23f68eb08b23c4b2e67]: Commencement: Sch. 4 para. 6 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-edf0f1ce5acdefde6c7365beab62c631]: Commencement: Sch. 5 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-edf0f1ce5acdefde6c7365beab62c631]: Commencement: Sch. 5 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-1c8c46591a2baeb5943f503f3d61a7fe]: Commencement: Sch. 6 para. 1 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-1c8c46591a2baeb5943f503f3d61a7fe]: Commencement: Sch. 6 para. 1 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-c6cd72238c407d922130523904f7cf0c]: Commencement: Sch. 7 para. 1 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-c6cd72238c407d922130523904f7cf0c]: Commencement: Sch. 7 para. 1 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
 
-[^key-3fcfa1a2ebf96edf46da9f269cedd7b7]: Commencement: Sch. 8 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)
+[^c-3fcfa1a2ebf96edf46da9f269cedd7b7]: Commencement: Sch. 8 in operation at 19.2.1998, see [reg. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2)

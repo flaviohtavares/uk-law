@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Key terms[^key-a92ec106fb94e15abc933deea3dfd0a2]
+## 15. Key terms[^c-a92ec106fb94e15abc933deea3dfd0a2]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a92ec106fb94e15abc933deea3dfd0a2]: Commencement: S. 15 in force at 2.11.2020 by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/2/b)
+[^c-a92ec106fb94e15abc933deea3dfd0a2]: Commencement: S. 15 in force at 2.11.2020 by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/2/b)

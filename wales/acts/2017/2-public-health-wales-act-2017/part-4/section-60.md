@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Exempted individuals[^key-7c671e039cf59ee2c651659fac2b1674][^key-385925902f08acdd4429a6566d012642]
+## 60. Exempted individuals[^c-7c671e039cf59ee2c651659fac2b1674][^c-385925902f08acdd4429a6566d012642]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ is to be treated as being exempt from the requirement to be licensed in respect 
 
 ## Annotations
 
-[^key-7c671e039cf59ee2c651659fac2b1674]: Commencement: [S. 60](https://www.legislation.gov.uk/anaw/2017/2/section/60) in force at 13.9.2024 for specified purposes by [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2024/938/article/2/1/b)
+[^c-7c671e039cf59ee2c651659fac2b1674]: Commencement: [S. 60](https://www.legislation.gov.uk/anaw/2017/2/section/60) in force at 13.9.2024 for specified purposes by [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2024/938/article/2/1/b)
 
-[^key-385925902f08acdd4429a6566d012642]: Commencement: [S. 60](https://www.legislation.gov.uk/anaw/2017/2/section/60) in force at 29.11.2024 in so far as not already in force by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(e)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/e) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-385925902f08acdd4429a6566d012642]: Commencement: [S. 60](https://www.legislation.gov.uk/anaw/2017/2/section/60) in force at 29.11.2024 in so far as not already in force by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(e)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/e) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

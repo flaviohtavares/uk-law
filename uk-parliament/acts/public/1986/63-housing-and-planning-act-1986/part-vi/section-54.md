@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Effect of modification or termination of enterprise zone scheme.[^key-c0ebde7cd0262b9312061aebe16ccec1]
+## 54. Effect of modification or termination of enterprise zone scheme.[^c-c0ebde7cd0262b9312061aebe16ccec1]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0ebde7cd0262b9312061aebe16ccec1]: Textual amendment: [S. 54](https://www.legislation.gov.uk/ukpga/1986/63/section/54) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
+[^c-c0ebde7cd0262b9312061aebe16ccec1]: Textual amendment: [S. 54](https://www.legislation.gov.uk/ukpga/1986/63/section/54) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)

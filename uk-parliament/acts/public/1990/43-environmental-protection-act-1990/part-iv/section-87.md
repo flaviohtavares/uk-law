@@ -40,7 +40,7 @@ summary: ''
 
 (4C) In subsection (4B) above, “**lake or pond**”, “**watercourse**” and “**public sewer**” have the same meanings as in section 104 of the Water Resources Act 1991.
 
-(4D)[^key-bf05fb3ff55fc5598977c8b8aa2e3b5d] No proceedings may be instituted for an offence under subsection (1) which is a littering offence in respect of a vehicle within the meaning of section 88A(2) if—
+(4D)[^c-bf05fb3ff55fc5598977c8b8aa2e3b5d] No proceedings may be instituted for an offence under subsection (1) which is a littering offence in respect of a vehicle within the meaning of section 88A(2) if—
 
 - (a) a penalty notice has been given under section 88A to the keeper of the vehicle in respect of which the offence was committed, and
 - (b) the fixed penalty has been paid or recovered in full.
@@ -93,6 +93,6 @@ summary: ''
 
 [^c18976851]: Textual amendment: S. 87(1)-(4C) substituted (E.W.) (7.6.2005) for s. 87(1)-(4) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 18](https://www.legislation.gov.uk/ukpga/2005/16/section/18), [108(4)(b)](https://www.legislation.gov.uk/ukpga/2005/16/section/108/4/b)
 
-[^key-bf05fb3ff55fc5598977c8b8aa2e3b5d]: Textual amendment: [S. 87(4D)](https://www.legislation.gov.uk/ukpga/1990/43/section/87/4D) inserted (E.W.) (1.4.2018) by [The Littering From Vehicles Outside London (Keepers Civil Penalties) Regulations 2018 (S.I. 2018/171)](https://www.legislation.gov.uk/uksi/2018/171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2018/171/regulation/21)
+[^c-bf05fb3ff55fc5598977c8b8aa2e3b5d]: Textual amendment: [S. 87(4D)](https://www.legislation.gov.uk/ukpga/1990/43/section/87/4D) inserted (E.W.) (1.4.2018) by [The Littering From Vehicles Outside London (Keepers Civil Penalties) Regulations 2018 (S.I. 2018/171)](https://www.legislation.gov.uk/uksi/2018/171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/171/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2018/171/regulation/21)
 
 [^c18976901]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only

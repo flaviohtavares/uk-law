@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**41.**[^key-47aa96897c30775597fd2e52b30938e4] In section 46 of the Public Health (Control of Disease) Act 1984 (burial and cremation), for subsection (2)[^f00046] substitute—
+**41.**[^c-47aa96897c30775597fd2e52b30938e4] In section 46 of the Public Health (Control of Disease) Act 1984 (burial and cremation), for subsection (2)[^f00046] substitute—
 
 > (2) Any council which is the local authority for the purposes of the Local Authority Social Services Act 1970 may cause to be buried or cremated the body of any deceased person who immediately before his death was being provided with accommodation under Part 1 of the Care Act 2014.
 >
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-47aa96897c30775597fd2e52b30938e4]: Commencement: Reg. 41 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-47aa96897c30775597fd2e52b30938e4]: Commencement: Reg. 41 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00046]: Footnote: Section 46(2) was amended by [S.I. 2015/914](https://www.legislation.gov.uk/uksi/2015/914), Schedule, paragraph 34(a) and (b).

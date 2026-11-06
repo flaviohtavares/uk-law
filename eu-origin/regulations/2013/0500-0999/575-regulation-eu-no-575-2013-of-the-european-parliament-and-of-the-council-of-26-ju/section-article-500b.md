@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 500b. Temporary exclusion of certain exposures to central banks from the total exposure measure in view of the COVID-19 pandemic[^key-c7f096aeeb3e1c5cec8ba304bd4fe855][^c000001]
+## Article 500b. Temporary exclusion of certain exposures to central banks from the total exposure measure in view of the COVID-19 pandemic[^c-c7f096aeeb3e1c5cec8ba304bd4fe855][^c000001]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c7f096aeeb3e1c5cec8ba304bd4fe855]: Textual amendment: Art. 500b omitted (1.1.2022) by [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [12(5A)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/12/5A) (as inserted by [S.I. 2021/1376](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(6)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/6))
+[^c-c7f096aeeb3e1c5cec8ba304bd4fe855]: Textual amendment: Art. 500b omitted (1.1.2022) by [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [12(5A)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/12/5A) (as inserted by [S.I. 2021/1376](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(6)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/6))
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)](https://www.legislation.gov.uk/eur/2013/575/pdfs/eurcs_20130575_en_002.pdf).

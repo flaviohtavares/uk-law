@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92. Local authorities need not make payments if not funded[^key-296c6594fedbd4c9c26ae6f9ad0a591d]
+## 92. Local authorities need not make payments if not funded[^c-296c6594fedbd4c9c26ae6f9ad0a591d]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-296c6594fedbd4c9c26ae6f9ad0a591d]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2018/9/section/92) in force at 1.4.2024 by [S.S.I. 2024/57](https://www.legislation.gov.uk/ssi/2024/57), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2024/57/regulation/2/e) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/57/regulation/3))
+[^c-296c6594fedbd4c9c26ae6f9ad0a591d]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2018/9/section/92) in force at 1.4.2024 by [S.S.I. 2024/57](https://www.legislation.gov.uk/ssi/2024/57), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2024/57/regulation/2/e) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/57/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Reviews[^key-bc3b7671a89b9e59c0a6d2af48cdd95d]
+## 37. Reviews[^c-bc3b7671a89b9e59c0a6d2af48cdd95d]
 
 *Extent: E+W*
 
@@ -93,4 +93,4 @@ of the outcome of the review and of any decision taken by it in consequence of t
 
 ## Annotations
 
-[^key-bc3b7671a89b9e59c0a6d2af48cdd95d]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2005/1313/regulation/37) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)
+[^c-bc3b7671a89b9e59c0a6d2af48cdd95d]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2005/1313/regulation/37) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)

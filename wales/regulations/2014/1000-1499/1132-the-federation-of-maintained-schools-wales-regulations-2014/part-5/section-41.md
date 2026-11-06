@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Procedure for removal of governors by the governing body[^key-9215ad5802e4d223b5a15aec3d90ab68]
+## 41. Procedure for removal of governors by the governing body[^c-9215ad5802e4d223b5a15aec3d90ab68]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9215ad5802e4d223b5a15aec3d90ab68]: Commencement: Reg. 41 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-9215ad5802e4d223b5a15aec3d90ab68]: Commencement: Reg. 41 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

@@ -29,10 +29,10 @@ summary: ''
 
 (3) Regulations may make provision as to payments which are, and those which are not, to be treated as contractual remuneration for the purposes of subsections (1) and (2) above.
 
-(4)[^key-721a0372f5fe74c656ecdd9869da4c5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-721a0372f5fe74c656ecdd9869da4c5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c19104331]: Textual amendment: Pt. XIIZA (ss. 167ZA-167ZK) inserted (8.12.2002) by [The Employment (Northern Ireland) Order 2002 (S.I. 2002/2836 (N.I. 2))](https://www.legislation.gov.uk/nisi/2002/2836), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2002/2836/article/1/2), [5](https://www.legislation.gov.uk/nisi/2002/2836/article/5); [S.R. 2002/356](https://www.legislation.gov.uk/nisr/2002/356), [art. 2(2)](https://www.legislation.gov.uk/nisr/2002/356/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2002/356/schedule/1/part/II)
 
-[^key-721a0372f5fe74c656ecdd9869da4c5a]: Textual amendment: [S. 167ZG(4)](https://www.legislation.gov.uk/ukpga/1992/7/section/167ZG/4) repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 2(16)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/2/16), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(b)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/b)[(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-721a0372f5fe74c656ecdd9869da4c5a]: Textual amendment: [S. 167ZG(4)](https://www.legislation.gov.uk/ukpga/1992/7/section/167ZG/4) repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 2(16)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/2/16), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(b)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/b)[(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))

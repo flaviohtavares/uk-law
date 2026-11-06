@@ -34,7 +34,7 @@ This statutory instrument has been made in consequence of a defect in [SI 2013/5
 
 Financial Services And Markets
 
-The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (Amendment) Regulations 2015 (revoked)[^key-57820c950e72e5946b216941b63fe14e]
+The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (Amendment) Regulations 2015 (revoked)[^c-57820c950e72e5946b216941b63fe14e]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 18th March 2015
 
-[^key-57820c950e72e5946b216941b63fe14e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-57820c950e72e5946b216941b63fe14e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-57820c950e72e5946b216941b63fe14e]
+## 1. Citation and commencement[^c-57820c950e72e5946b216941b63fe14e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013[^key-57820c950e72e5946b216941b63fe14e]
+## 2. Amendments to the Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013[^c-57820c950e72e5946b216941b63fe14e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57820c950e72e5946b216941b63fe14e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-57820c950e72e5946b216941b63fe14e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-57820c950e72e5946b216941b63fe14e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-57820c950e72e5946b216941b63fe14e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-57820c950e72e5946b216941b63fe14e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/348) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-57820c950e72e5946b216941b63fe14e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/348) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)

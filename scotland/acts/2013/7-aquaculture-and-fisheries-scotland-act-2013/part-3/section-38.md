@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Power of sheriff to order release of vessels[^key-11c58dbb62a7c966826630fa50297bcd]
+## 38. Power of sheriff to order release of vessels[^c-11c58dbb62a7c966826630fa50297bcd]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11c58dbb62a7c966826630fa50297bcd]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2013/7/section/38) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-11c58dbb62a7c966826630fa50297bcd]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2013/7/section/38) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62B. Restriction on access to records kept under rules 60, 62, and 62A[^key-1d5ddc6872f5f908dc957986f2eb7503]
+## 62B. Restriction on access to records kept under rules 60, 62, and 62A[^c-1d5ddc6872f5f908dc957986f2eb7503]
 
 *Extent: N.I.*
 
-The records kept under rules 60, 62 and 62A[^key-cef022efaee794095326205f5a3ad097] shall not be open to inspection by any person except—
+The records kept under rules 60, 62 and 62A[^c-cef022efaee794095326205f5a3ad097] shall not be open to inspection by any person except—
 
 - (a) as authorised by the Secretary of State; or
 - (b) with leave of the Court.\]
 
 ## Annotations
 
-[^key-1d5ddc6872f5f908dc957986f2eb7503]: Textual amendment: [Rule 62B](https://www.legislation.gov.uk/nisr/1979/90/rule/62B) heading substituted (22.2.2021) by [The Crown Court (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/16)](https://www.legislation.gov.uk/nisr/2021/16), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/16/rule/1/2), [2(3)(a)](https://www.legislation.gov.uk/nisr/2021/16/rule/2/3/a)
+[^c-1d5ddc6872f5f908dc957986f2eb7503]: Textual amendment: [Rule 62B](https://www.legislation.gov.uk/nisr/1979/90/rule/62B) heading substituted (22.2.2021) by [The Crown Court (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/16)](https://www.legislation.gov.uk/nisr/2021/16), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/16/rule/1/2), [2(3)(a)](https://www.legislation.gov.uk/nisr/2021/16/rule/2/3/a)
 
-[^key-cef022efaee794095326205f5a3ad097]: Textual amendment: Words in [rule 62B](https://www.legislation.gov.uk/nisr/1979/90/rule/62B) substituted (22.2.2021) by [The Crown Court (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/16)](https://www.legislation.gov.uk/nisr/2021/16), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/16/rule/1/2), [2(3)(b)](https://www.legislation.gov.uk/nisr/2021/16/rule/2/3/b)
+[^c-cef022efaee794095326205f5a3ad097]: Textual amendment: Words in [rule 62B](https://www.legislation.gov.uk/nisr/1979/90/rule/62B) substituted (22.2.2021) by [The Crown Court (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/16)](https://www.legislation.gov.uk/nisr/2021/16), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/16/rule/1/2), [2(3)(b)](https://www.legislation.gov.uk/nisr/2021/16/rule/2/3/b)

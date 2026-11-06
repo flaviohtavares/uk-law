@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 190. Football banning orders: relevant offences[^key-49a5edeb936808f2af703bb6aabff18b][^key-9dac099a754e6e8aeab116ecf91c3dd4]
+## 190. Football banning orders: relevant offences[^c-49a5edeb936808f2af703bb6aabff18b][^c-9dac099a754e6e8aeab116ecf91c3dd4]
 
 *Extent: E+W*
 
@@ -103,6 +103,6 @@ summary: ''
 
 ## Annotations
 
-[^key-49a5edeb936808f2af703bb6aabff18b]: Commencement: S. 190 in force at Royal Assent for specified purposes, see [s. 208(4)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/y)
+[^c-49a5edeb936808f2af703bb6aabff18b]: Commencement: S. 190 in force at Royal Assent for specified purposes, see [s. 208(4)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/y)
 
-[^key-9dac099a754e6e8aeab116ecf91c3dd4]: Commencement: [S. 190](https://www.legislation.gov.uk/ukpga/2022/32/section/190) in force at 29.6.2022 in so far as not already in force by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 6(a)](https://www.legislation.gov.uk/uksi/2022/520/regulation/6/a)
+[^c-9dac099a754e6e8aeab116ecf91c3dd4]: Commencement: [S. 190](https://www.legislation.gov.uk/ukpga/2022/32/section/190) in force at 29.6.2022 in so far as not already in force by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 6(a)](https://www.legislation.gov.uk/uksi/2022/520/regulation/6/a)

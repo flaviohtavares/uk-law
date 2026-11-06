@@ -16,7 +16,7 @@ summary: ''
 
 ## 11. Eligible housing costs
 
-(1)[^key-1e291364b454aba82b46c8bb97c524b9] Subject to the following provisions of this regulation, housing benefit shall be payable in respect of the payments specified in regulation 12(1) (rent) and a claimant’s maximum housing benefit shall be calculated under Part 7 (amount of benefit) by reference to the amount of his eligible rent determined in accordance with—
+(1)[^c-1e291364b454aba82b46c8bb97c524b9] Subject to the following provisions of this regulation, housing benefit shall be payable in respect of the payments specified in regulation 12(1) (rent) and a claimant’s maximum housing benefit shall be calculated under Part 7 (amount of benefit) by reference to the amount of his eligible rent determined in accordance with—
 
 - (a) regulation 12B (eligible rent);
 - (b) regulations 12C (eligible rent and maximum rent), 13 (maximum rent), 13ZA (protection on death and 13 week protection) and 13ZB (change in reckonable rent);
@@ -30,10 +30,10 @@ whichever is applicable in his case.
 - (a) outstanding arrears of any payment or charge; or
 - (b) any other unpaid payment or charge,
 
-to which paragraphs (1) or (2) of that regulation or paragraph (2) of regulation 12B[^key-2fce7a60d0ec73e9e8f54fa7dd4da01b] or Schedule 1 (ineligible service charges) refer and which is or was formerly owed by him in respect of that or another dwelling, a rent rebate or, as the case may be, a rent allowance shall not be payable in respect of that increase.
+to which paragraphs (1) or (2) of that regulation or paragraph (2) of regulation 12B[^c-2fce7a60d0ec73e9e8f54fa7dd4da01b] or Schedule 1 (ineligible service charges) refer and which is or was formerly owed by him in respect of that or another dwelling, a rent rebate or, as the case may be, a rent allowance shall not be payable in respect of that increase.
 
 ## Annotations
 
-[^key-1e291364b454aba82b46c8bb97c524b9]: Textual amendment: Reg. 11(1) substituted (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [4(3)(a)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/4/3/a)
+[^c-1e291364b454aba82b46c8bb97c524b9]: Textual amendment: Reg. 11(1) substituted (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [4(3)(a)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/4/3/a)
 
-[^key-2fce7a60d0ec73e9e8f54fa7dd4da01b]: Textual amendment: Words in reg. 11(2) substituted (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [4(3)(b)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/4/3/b)
+[^c-2fce7a60d0ec73e9e8f54fa7dd4da01b]: Textual amendment: Words in reg. 11(2) substituted (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [4(3)(b)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/4/3/b)

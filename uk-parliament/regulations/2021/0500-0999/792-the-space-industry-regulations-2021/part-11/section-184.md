@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184. Security controls for flight safety systems[^key-d1cfec7d04f2ad55e0b327e1a9d0f0ef]
+## 184. Security controls for flight safety systems[^c-d1cfec7d04f2ad55e0b327e1a9d0f0ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1cfec7d04f2ad55e0b327e1a9d0f0ef]: Commencement: Reg. 184 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-d1cfec7d04f2ad55e0b327e1a9d0f0ef]: Commencement: Reg. 184 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

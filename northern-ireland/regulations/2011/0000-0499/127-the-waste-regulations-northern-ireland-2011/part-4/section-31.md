@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31.[^key-357c64b84420a449ca7e0c6a7acfe6ad]
+## 31.[^c-357c64b84420a449ca7e0c6a7acfe6ad]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ For regulation 11(2) substitute—
 
 ## Annotations
 
-[^key-357c64b84420a449ca7e0c6a7acfe6ad]: Commencement: Reg. 31 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-357c64b84420a449ca7e0c6a7acfe6ad]: Commencement: Reg. 31 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)

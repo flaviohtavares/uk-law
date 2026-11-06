@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Unfair relationships between creditors and debtors[^key-f3d70b2bc8b7d3bfecd3a4f962853bd5]
+## 19. Unfair relationships between creditors and debtors[^c-f3d70b2bc8b7d3bfecd3a4f962853bd5]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ After section 140 of the 1974 Act insert—
 
 ## Annotations
 
-[^key-f3d70b2bc8b7d3bfecd3a4f962853bd5]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2006/14/section/19) in force at 6.4.2007 by [S.I. 2007/123](https://www.legislation.gov.uk/uksi/2007/123), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/123/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/123/schedule/2)
+[^c-f3d70b2bc8b7d3bfecd3a4f962853bd5]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2006/14/section/19) in force at 6.4.2007 by [S.I. 2007/123](https://www.legislation.gov.uk/uksi/2007/123), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/123/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/123/schedule/2)

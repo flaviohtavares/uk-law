@@ -52,20 +52,20 @@ shall be guilty of an offence and shall be liable on summary conviction to a fin
 (1)[^c816945] A person (“the purchaser”) shall not be liable to make any payment, and shall be entitled to recover any payment made by him, by way of charge for including or arranging for the inclusion in a directory of an entry relating to that person or his trade or business, unless—
 
 - (a) there has been signed by the purchaser or on his behalf an order complying with this section,
-- (b) there has been signed by the purchaser or on his behalf a note complying with this section of his agreement to the charge and before the note was signed, a copy of it was supplied, for retention by him, to him or a person acting on his behalf, [^key-3cd8d5b55a45dea970b992268209bf68] ...
-- (c) there has been transmitted by the purchaser or a person acting on his behalf an electronic communication which includes a statement that the purchaser agrees to the charge and the relevant condition is satisfied in relation to that communication, or[^key-46caeb8d1202d0385024a94120f14e00]
+- (b) there has been signed by the purchaser or on his behalf a note complying with this section of his agreement to the charge and before the note was signed, a copy of it was supplied, for retention by him, to him or a person acting on his behalf, [^c-3cd8d5b55a45dea970b992268209bf68] ...
+- (c) there has been transmitted by the purchaser or a person acting on his behalf an electronic communication which includes a statement that the purchaser agrees to the charge and the relevant condition is satisfied in relation to that communication, or[^c-46caeb8d1202d0385024a94120f14e00]
 - (d) the charge arises under a contract in relation to which the conditions in section 3B(1) (renewed and extended contracts) are met
 
-(2)[^c816946] A person shall be guilty of an offence punishable on summary conviction with a fine not exceeding £400 if, in a case where a payment in respect of a charge would [^key-1b6de4fcac4847e220defc78ea426b05]... be recoverable from him in accordance with the terms of subsection (1) above, he demands payment, or asserts a present or prospective right to payment, of the charge or any part of it, without knowing or having reasonable cause to believe that—[^c816948]
+(2)[^c816946] A person shall be guilty of an offence punishable on summary conviction with a fine not exceeding £400 if, in a case where a payment in respect of a charge would [^c-1b6de4fcac4847e220defc78ea426b05]... be recoverable from him in accordance with the terms of subsection (1) above, he demands payment, or asserts a present or prospective right to payment, of the charge or any part of it, without knowing or having reasonable cause to believe that—[^c816948]
 
 - (a) the entry to which the charge relates was ordered in accordance with this section,
 - (b) a proper note of the agreement has been duly signed, or
-- (c) the requirements set out in subsection (1)(c) or (d)[^key-6b4ccda1d42072a85ed2c154eac64459] above have been met.
+- (c) the requirements set out in subsection (1)(c) or (d)[^c-6b4ccda1d42072a85ed2c154eac64459] above have been met.
 
-(3) For the purposes of this section—[^key-d3d4147394aaed4a669c0fc4449f98af]
+(3) For the purposes of this section—[^c-d3d4147394aaed4a669c0fc4449f98af]
 
-- (a) an order for an entry in a directory must be made by means of an order form or other stationery belonging to the purchaser[^c816949] , which may be sent electronically but which must bear[^key-fa9859ad9a196a61e70e4b565d8c3382] his name and address (or one or more of his addresses); and
-- (b)[^key-fb667c0b11024bfb0731e0f82abd073b] the note of a person’s agreement to a charge must—[^key-6c01cfce33eda778c09865a1c37d793e]
+- (a) an order for an entry in a directory must be made by means of an order form or other stationery belonging to the purchaser[^c816949] , which may be sent electronically but which must bear[^c-fa9859ad9a196a61e70e4b565d8c3382] his name and address (or one or more of his addresses); and
+- (b)[^c-fb667c0b11024bfb0731e0f82abd073b] the note of a person’s agreement to a charge must—[^c-6c01cfce33eda778c09865a1c37d793e]
   - (i) specify the particulars set out in Part 1 of the Schedule to the Regulatory Reform (Unsolicited Goods and Services Act 1971) (Directory Entries and Demands for Payment) Order 2005, and
   - (ii) give reasonable particulars of the entry in respect of which the charge would be payable.
 
@@ -89,11 +89,11 @@ shall be guilty of an offence and shall be liable on summary conviction to a fin
 
 (3C) In this section “electronic communication” has the same meaning as in the Electronic Communications Act 2000.
 
-## 3A. Contents and form of notes of agreement, invoices and similar documents.[^key-4e0b8bd56bb6327c8a1e770012a622a9]
+## 3A. Contents and form of notes of agreement, invoices and similar documents.[^c-4e0b8bd56bb6327c8a1e770012a622a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3B. Renewed and extended contracts[^key-f0ca0c2b3419f8a777d7ed474de9f390]
+## 3B. Renewed and extended contracts[^c-f0ca0c2b3419f8a777d7ed474de9f390]
 
 (1) The conditions referred to in section 3(1)(d) above are met in relation to a contract (“the new contract”) if —
 
@@ -146,9 +146,9 @@ shall be guilty of an offence and shall be liable on summary conviction to a fin
 - “**send**” includes deliver, and “**sender**” shall be construed accordingly;
 - “**unsolicited**” means, in relation to goods sent to any person, that they are sent without any prior request made by him or on his behalf.
 
-(2)[^key-8dde8de8dc517dcbf73ee7d8e9600211] For the purposes of this Act, any invoice or similar document stating the amount of any payment shall be regarded as asserting a right to the payment unless it complies with the conditions set out in Part 2 of the Schedule to the Regulatory Reform (Unsolicited Goods and Services Act 1971) (Directory Entries and Demands for Payment) Order 2005.
+(2)[^c-8dde8de8dc517dcbf73ee7d8e9600211] For the purposes of this Act, any invoice or similar document stating the amount of any payment shall be regarded as asserting a right to the payment unless it complies with the conditions set out in Part 2 of the Schedule to the Regulatory Reform (Unsolicited Goods and Services Act 1971) (Directory Entries and Demands for Payment) Order 2005.
 
-(3)[^key-cefbbc7c3259ca21718c3ecdce77368b] Nothing in section 3 or 3B affects the rights of any consumer under the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013.
+(3)[^c-cefbbc7c3259ca21718c3ecdce77368b] Nothing in section 3 or 3B affects the rights of any consumer under the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013.
 
 ## 7. Citation commencement and extent.
 
@@ -170,38 +170,38 @@ shall be guilty of an offence and shall be liable on summary conviction to a fin
 
 [^c816945]: Textual amendment: S. 3(1) substituted (31.8.2001) by [S.I. 2001/2778](https://www.legislation.gov.uk/uksi/2001/2778), [art. 3](https://www.legislation.gov.uk/uksi/2001/2778/article/3)
 
-[^key-3cd8d5b55a45dea970b992268209bf68]: Textual amendment: Word in s. 3(1)(b) omitted (6.4.2005) by virtue of [The Regulatory Reform (Unsolicited Goods and Services Act 1971) (Directory Entries and Demands for Payment) Order 2005 (S.I. 2005/55)](https://www.legislation.gov.uk/uksi/2005/55), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/55/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/55/article/2/2)
+[^c-3cd8d5b55a45dea970b992268209bf68]: Textual amendment: Word in s. 3(1)(b) omitted (6.4.2005) by virtue of [The Regulatory Reform (Unsolicited Goods and Services Act 1971) (Directory Entries and Demands for Payment) Order 2005 (S.I. 2005/55)](https://www.legislation.gov.uk/uksi/2005/55), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/55/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/55/article/2/2)
 
-[^key-46caeb8d1202d0385024a94120f14e00]: Textual amendment: S. 3(1)(d) and preceding word inserted (6.4.2005) by [The Regulatory Reform (Unsolicited Goods and Services Act 1971) (Directory Entries and Demands for Payment) Order 2005 (S.I. 2005/55)](https://www.legislation.gov.uk/uksi/2005/55), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/55/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/55/article/2/3)
+[^c-46caeb8d1202d0385024a94120f14e00]: Textual amendment: S. 3(1)(d) and preceding word inserted (6.4.2005) by [The Regulatory Reform (Unsolicited Goods and Services Act 1971) (Directory Entries and Demands for Payment) Order 2005 (S.I. 2005/55)](https://www.legislation.gov.uk/uksi/2005/55), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/55/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/55/article/2/3)
 
 [^c816946]: Modification: S. 3(2) amended by [Unsolicited Goods and Services (Amendment) Act 1975 (c. 13, SIF 109:1)](https://www.legislation.gov.uk/ukpga/1975/13), [s. 3](https://www.legislation.gov.uk/ukpga/1975/13/section/3)
 
-[^key-1b6de4fcac4847e220defc78ea426b05]: Textual amendment: Words in s. 3(2) omitted (6.4.2005) by virtue of [The Regulatory Reform (Unsolicited Goods and Services Act 1971) (Directory Entries and Demands for Payment) Order 2005 (S.I. 2005/55)](https://www.legislation.gov.uk/uksi/2005/55), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/55/article/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2005/55/article/2/4/a)
+[^c-1b6de4fcac4847e220defc78ea426b05]: Textual amendment: Words in s. 3(2) omitted (6.4.2005) by virtue of [The Regulatory Reform (Unsolicited Goods and Services Act 1971) (Directory Entries and Demands for Payment) Order 2005 (S.I. 2005/55)](https://www.legislation.gov.uk/uksi/2005/55), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/55/article/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2005/55/article/2/4/a)
 
 [^c816948]: Textual amendment: Words in s. 3(2) inserted (31.8.2001) by [S.I. 2001/2778](https://www.legislation.gov.uk/uksi/2001/2778), [art. 4(b)](https://www.legislation.gov.uk/uksi/2001/2778/article/4/b)
 
-[^key-6b4ccda1d42072a85ed2c154eac64459]: Textual amendment: Words in s. 3(2)(c) inserted (6.4.2005) by [The Regulatory Reform (Unsolicited Goods and Services Act 1971) (Directory Entries and Demands for Payment) Order 2005 (S.I. 2005/55)](https://www.legislation.gov.uk/uksi/2005/55), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/55/article/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2005/55/article/2/4/b)
+[^c-6b4ccda1d42072a85ed2c154eac64459]: Textual amendment: Words in s. 3(2)(c) inserted (6.4.2005) by [The Regulatory Reform (Unsolicited Goods and Services Act 1971) (Directory Entries and Demands for Payment) Order 2005 (S.I. 2005/55)](https://www.legislation.gov.uk/uksi/2005/55), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/55/article/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2005/55/article/2/4/b)
 
-[^key-d3d4147394aaed4a669c0fc4449f98af]: Textual amendment: Words in s. 3(3) substituted (6.4.2005) by [The Regulatory Reform (Unsolicited Goods and Services Act 1971) (Directory Entries and Demands for Payment) Order 2005 (S.I. 2005/55)](https://www.legislation.gov.uk/uksi/2005/55), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/55/article/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2005/55/article/2/5/a)
+[^c-d3d4147394aaed4a669c0fc4449f98af]: Textual amendment: Words in s. 3(3) substituted (6.4.2005) by [The Regulatory Reform (Unsolicited Goods and Services Act 1971) (Directory Entries and Demands for Payment) Order 2005 (S.I. 2005/55)](https://www.legislation.gov.uk/uksi/2005/55), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/55/article/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2005/55/article/2/5/a)
 
 [^c816949]: Textual amendment: Words in s. 3(3) substituted (31.8.2001) by [S.I. 2001/2778](https://www.legislation.gov.uk/uksi/2001/2778), [art. 5](https://www.legislation.gov.uk/uksi/2001/2778/article/5)
 
-[^key-fa9859ad9a196a61e70e4b565d8c3382]: Textual amendment: Words in s. 3(3)(a) substituted (6.4.2005) by [The Unsolicited Goods and Services Act 1971 (Electronic Commerce) (Amendment) Regulations 2005 (S.I. 2005/148)](https://www.legislation.gov.uk/uksi/2005/148), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/148/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2005/148/regulation/2)
+[^c-fa9859ad9a196a61e70e4b565d8c3382]: Textual amendment: Words in s. 3(3)(a) substituted (6.4.2005) by [The Unsolicited Goods and Services Act 1971 (Electronic Commerce) (Amendment) Regulations 2005 (S.I. 2005/148)](https://www.legislation.gov.uk/uksi/2005/148), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/148/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2005/148/regulation/2)
 
-[^key-fb667c0b11024bfb0731e0f82abd073b]: Textual amendment: Word in s. 3(3) inserted (6.4.2005) by [The Regulatory Reform (Unsolicited Goods and Services Act 1971) (Directory Entries and Demands for Payment) Order 2005 (S.I. 2005/55)](https://www.legislation.gov.uk/uksi/2005/55), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/55/article/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2005/55/article/2/5/b)
+[^c-fb667c0b11024bfb0731e0f82abd073b]: Textual amendment: Word in s. 3(3) inserted (6.4.2005) by [The Regulatory Reform (Unsolicited Goods and Services Act 1971) (Directory Entries and Demands for Payment) Order 2005 (S.I. 2005/55)](https://www.legislation.gov.uk/uksi/2005/55), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/55/article/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2005/55/article/2/5/b)
 
-[^key-6c01cfce33eda778c09865a1c37d793e]: Textual amendment: Words in s. 3(3) substituted (6.4.2005) by [The Regulatory Reform (Unsolicited Goods and Services Act 1971) (Directory Entries and Demands for Payment) Order 2005 (S.I. 2005/55)](https://www.legislation.gov.uk/uksi/2005/55), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/55/article/1/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2005/55/article/2/5/c)
+[^c-6c01cfce33eda778c09865a1c37d793e]: Textual amendment: Words in s. 3(3) substituted (6.4.2005) by [The Regulatory Reform (Unsolicited Goods and Services Act 1971) (Directory Entries and Demands for Payment) Order 2005 (S.I. 2005/55)](https://www.legislation.gov.uk/uksi/2005/55), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/55/article/1/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2005/55/article/2/5/c)
 
 [^c816950]: Textual amendment: S. 3(3A)-(3C) inserted (31.8.2001) by [S.I. 2001/2778](https://www.legislation.gov.uk/uksi/2001/2778), [art. 6](https://www.legislation.gov.uk/uksi/2001/2778/article/6)
 
-[^key-4e0b8bd56bb6327c8a1e770012a622a9]: Textual amendment: S. 3A omitted (6.4.2005) by virtue of [The Regulatory Reform (Unsolicited Goods and Services Act 1971) (Directory Entries and Demands for Payment) Order 2005 (S.I. 2005/55)](https://www.legislation.gov.uk/uksi/2005/55), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/55/article/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2005/55/article/2/6)
+[^c-4e0b8bd56bb6327c8a1e770012a622a9]: Textual amendment: S. 3A omitted (6.4.2005) by virtue of [The Regulatory Reform (Unsolicited Goods and Services Act 1971) (Directory Entries and Demands for Payment) Order 2005 (S.I. 2005/55)](https://www.legislation.gov.uk/uksi/2005/55), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/55/article/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2005/55/article/2/6)
 
-[^key-f0ca0c2b3419f8a777d7ed474de9f390]: Textual amendment: S. 3B inserted (6.4.2005) by [The Regulatory Reform (Unsolicited Goods and Services Act 1971) (Directory Entries and Demands for Payment) Order 2005 (S.I. 2005/55)](https://www.legislation.gov.uk/uksi/2005/55), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/55/article/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2005/55/article/2/7)
+[^c-f0ca0c2b3419f8a777d7ed474de9f390]: Textual amendment: S. 3B inserted (6.4.2005) by [The Regulatory Reform (Unsolicited Goods and Services Act 1971) (Directory Entries and Demands for Payment) Order 2005 (S.I. 2005/55)](https://www.legislation.gov.uk/uksi/2005/55), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/55/article/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2005/55/article/2/7)
 
 [^c816960]: Modification: [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 35](https://www.legislation.gov.uk/ukpga/1982/48/section/35) (in relation to liability on first and subsequent convictions), 38 (increase of fines) and 46 (substitution of references to levels on the standard scale) apply (E.W.)
 
 [^c816961]: Textual amendment: For “£100,” and “£400” substituted in each case (S) by virtue of [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289E–289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289E)
 
-[^key-8dde8de8dc517dcbf73ee7d8e9600211]: Textual amendment: S. 6(2) substituted (6.4.2005) by [The Regulatory Reform (Unsolicited Goods and Services Act 1971) (Directory Entries and Demands for Payment) Order 2005 (S.I. 2005/55)](https://www.legislation.gov.uk/uksi/2005/55), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/55/article/1/1), [2(8)(a)](https://www.legislation.gov.uk/uksi/2005/55/article/2/8/a)
+[^c-8dde8de8dc517dcbf73ee7d8e9600211]: Textual amendment: S. 6(2) substituted (6.4.2005) by [The Regulatory Reform (Unsolicited Goods and Services Act 1971) (Directory Entries and Demands for Payment) Order 2005 (S.I. 2005/55)](https://www.legislation.gov.uk/uksi/2005/55), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/55/article/1/1), [2(8)(a)](https://www.legislation.gov.uk/uksi/2005/55/article/2/8/a)
 
-[^key-cefbbc7c3259ca21718c3ecdce77368b]: Textual amendment: [S. 6(3)](https://www.legislation.gov.uk/ukpga/1971/30/section/6/3) substituted (13.6.2014 with application in accordance with reg. 1(2)) by [The Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 (S.I. 2013/3134)](https://www.legislation.gov.uk/uksi/2013/3134), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3134/regulation/1/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2013/3134/schedule/4/paragraph/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/3134/regulation/6))
+[^c-cefbbc7c3259ca21718c3ecdce77368b]: Textual amendment: [S. 6(3)](https://www.legislation.gov.uk/ukpga/1971/30/section/6/3) substituted (13.6.2014 with application in accordance with reg. 1(2)) by [The Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 (S.I. 2013/3134)](https://www.legislation.gov.uk/uksi/2013/3134), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3134/regulation/1/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2013/3134/schedule/4/paragraph/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/3134/regulation/6))

@@ -32,7 +32,7 @@ summary: ''
 
 Housing
 
-The Private Landlord Registration (Information and Fees) (Scotland) Amendment Regulations 2018 (revoked)[^key-4dcde0b6a521d1e231533276f41479bf]
+The Private Landlord Registration (Information and Fees) (Scotland) Amendment Regulations 2018 (revoked)[^c-4dcde0b6a521d1e231533276f41479bf]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st December 2018
 
-[^key-4dcde0b6a521d1e231533276f41479bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4dcde0b6a521d1e231533276f41479bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4dcde0b6a521d1e231533276f41479bf]
+## 1. Citation and commencement[^c-4dcde0b6a521d1e231533276f41479bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Private Landlord Registration (Information and Fees) (Scotland) Regulations 2005[^key-4dcde0b6a521d1e231533276f41479bf]
+## 2. Amendment of the Private Landlord Registration (Information and Fees) (Scotland) Regulations 2005[^c-4dcde0b6a521d1e231533276f41479bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Saving provision[^key-4dcde0b6a521d1e231533276f41479bf]
+## 3. Saving provision[^c-4dcde0b6a521d1e231533276f41479bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4dcde0b6a521d1e231533276f41479bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4dcde0b6a521d1e231533276f41479bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4dcde0b6a521d1e231533276f41479bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4dcde0b6a521d1e231533276f41479bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4dcde0b6a521d1e231533276f41479bf]: Textual amendment: Regulations revoked (11.6.2019 at 0900 hours) by [The Private Landlord Registration (Fees) (Scotland) Regulations 2019 (S.S.I. 2019/160)](https://www.legislation.gov.uk/ssi/2019/160), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/160/regulation/1/1), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2019/160/schedule/part/2)
+[^c-4dcde0b6a521d1e231533276f41479bf]: Textual amendment: Regulations revoked (11.6.2019 at 0900 hours) by [The Private Landlord Registration (Fees) (Scotland) Regulations 2019 (S.S.I. 2019/160)](https://www.legislation.gov.uk/ssi/2019/160), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/160/regulation/1/1), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2019/160/schedule/part/2)

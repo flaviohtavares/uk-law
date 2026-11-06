@@ -24,7 +24,7 @@ summary: ''
 
 - “**charity law**” means—
   - (a) any enactment contained in, or made under, this Act or the Charities Act 2006,
-  - (b) any other enactment specified in regulations made by the Secretary of State[^key-843ebb2e7973fa691949c624412e2b4d], and
+  - (b) any other enactment specified in regulations made by the Secretary of State[^c-843ebb2e7973fa691949c624412e2b4d], and
   - (c) any rule of law which relates to charities, and
 - “**enactment**” includes an enactment comprised in subordinate legislation (within the meaning of the Interpretation Act 1978), and includes an enactment whenever passed or made.
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-843ebb2e7973fa691949c624412e2b4d]: Textual amendment: Words in [s. 331(1)(b)](https://www.legislation.gov.uk/ukpga/2011/25/section/331/1/b) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(kk)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/kk) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-843ebb2e7973fa691949c624412e2b4d]: Textual amendment: Words in [s. 331(1)(b)](https://www.legislation.gov.uk/ukpga/2011/25/section/331/1/b) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(kk)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/kk) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

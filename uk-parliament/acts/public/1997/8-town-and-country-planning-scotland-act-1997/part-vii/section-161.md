@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-149395c41b1759aa411e353cd4f951b5] Subject to section 249, a tree preservation order—
+(1)[^c-149395c41b1759aa411e353cd4f951b5] Subject to section 249, a tree preservation order—
 
 - (a) takes effect on such date as may be specified in the order, but
 - (b) expires 6 months after it is made unless it has, within that period, been confirmed by the planning authority.
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-149395c41b1759aa411e353cd4f951b5]: Textual amendment: S. 161(1)(1A) substituted for s. 161(1) (1.2.2011) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 28(3)](https://www.legislation.gov.uk/asp/2006/17/section/28/3), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2) (with [S.S.I. 2010/431](https://www.legislation.gov.uk/ssi/2010/431), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2010/431/article/1/1), [2](https://www.legislation.gov.uk/ssi/2010/431/article/2)); [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 3](https://www.legislation.gov.uk/ssi/2010/400/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/400/schedule)
+[^c-149395c41b1759aa411e353cd4f951b5]: Textual amendment: S. 161(1)(1A) substituted for s. 161(1) (1.2.2011) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 28(3)](https://www.legislation.gov.uk/asp/2006/17/section/28/3), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2) (with [S.S.I. 2010/431](https://www.legislation.gov.uk/ssi/2010/431), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2010/431/article/1/1), [2](https://www.legislation.gov.uk/ssi/2010/431/article/2)); [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 3](https://www.legislation.gov.uk/ssi/2010/400/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/400/schedule)

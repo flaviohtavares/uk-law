@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3 — MODIFICATIONS OF SCHEDULE 6 TO THE LOCAL GOVERNMENT ACT (NORTHERN IRELAND) 1972 FOR PURPOSES OF ARTICLE 24(3) AND 48(3)[^key-884aae3a7b21b56efe8aa841bfaa89ca]
+## SCHEDULE 3 — MODIFICATIONS OF SCHEDULE 6 TO THE LOCAL GOVERNMENT ACT (NORTHERN IRELAND) 1972 FOR PURPOSES OF ARTICLE 24(3) AND 48(3)[^c-884aae3a7b21b56efe8aa841bfaa89ca]
 
 *Extent: N.I.*
 
@@ -63,6 +63,6 @@ Article 24(3) and 48(3).
 
 ## Annotations
 
-[^key-884aae3a7b21b56efe8aa841bfaa89ca]: Modification: Schs. 3-5: transfer of functions (8.5.2016 for specified purposes) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-884aae3a7b21b56efe8aa841bfaa89ca]: Modification: Schs. 3-5: transfer of functions (8.5.2016 for specified purposes) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^m00023]: Marginal citation: 1972 c.9 (N.I.).

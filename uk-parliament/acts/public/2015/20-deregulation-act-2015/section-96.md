@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. NHS foundation trusts and NHS trusts: acquisitions and dissolutions etc[^key-8ae54dc2fbfe4a497935b0e396f94cf1]
+## 96. NHS foundation trusts and NHS trusts: acquisitions and dissolutions etc[^c-8ae54dc2fbfe4a497935b0e396f94cf1]
 
 *Extent: E+W+S*
 
@@ -76,4 +76,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ae54dc2fbfe4a497935b0e396f94cf1]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2015/20/section/96) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(r)](https://www.legislation.gov.uk/uksi/2015/994/article/6/r)
+[^c-8ae54dc2fbfe4a497935b0e396f94cf1]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2015/20/section/96) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(r)](https://www.legislation.gov.uk/uksi/2015/994/article/6/r)

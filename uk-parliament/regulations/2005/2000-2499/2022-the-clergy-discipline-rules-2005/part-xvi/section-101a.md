@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 101A. Deemed service[^key-31b308f3a2cfb30938a5123785d18559]
+## 101A. Deemed service[^c-31b308f3a2cfb30938a5123785d18559]
 
 *Extent: E*
 
@@ -31,4 +31,4 @@ A document sent or delivered in accordance with these Rules by a method specifie
 
 ## Annotations
 
-[^key-31b308f3a2cfb30938a5123785d18559]: Textual amendment: [Rule 101A](https://www.legislation.gov.uk/uksi/2005/2022/rule/101A) inserted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [9](https://www.legislation.gov.uk/uksi/2021/557/rule/9)
+[^c-31b308f3a2cfb30938a5123785d18559]: Textual amendment: [Rule 101A](https://www.legislation.gov.uk/uksi/2005/2022/rule/101A) inserted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [9](https://www.legislation.gov.uk/uksi/2021/557/rule/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Revocations and disapplication[^key-4d3b794f6b7b3c613b5eee55eff64625]
+## 2. Revocations and disapplication[^c-4d3b794f6b7b3c613b5eee55eff64625]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d3b794f6b7b3c613b5eee55eff64625]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2016/211/regulation/2) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2)
+[^c-4d3b794f6b7b3c613b5eee55eff64625]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2016/211/regulation/2) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2)

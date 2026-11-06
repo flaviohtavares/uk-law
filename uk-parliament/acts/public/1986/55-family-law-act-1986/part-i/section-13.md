@@ -20,18 +20,18 @@ summary: ''
 
 *Extent: S*
 
-(1) The jurisdiction of a court in Scotland to entertain an application for a Part I order[^c13383531] in matrimonial or civil partnership[^key-9196aef0fb508773f5c8fec524831c54] proceedings shall be modified by the following provisions of this section.
+(1) The jurisdiction of a court in Scotland to entertain an application for a Part I order[^c13383531] in matrimonial or civil partnership[^c-9196aef0fb508773f5c8fec524831c54] proceedings shall be modified by the following provisions of this section.
 
-(2)[^key-76143ca1d381732d3aa89ac828322061] A court in Scotland shall not have jurisdiction–
+(2)[^c-76143ca1d381732d3aa89ac828322061] A court in Scotland shall not have jurisdiction–
 
 - (a) after the dismissal of matrimonial proceedings or after decree of absolvitor is granted therein; or
 - (b) after the dismissal of civil partnership proceedings,
 
 to entertain an application for a Part 1 order in those proceedings unless the application therefor was made on or before such dismissal or the granting of the decree of absolvitor.
 
-(3) Where, after a decree of separation has been granted, an application is made in the separation process for a Part I order, a court in Scotland shall not have jurisdiction to entertain that application if, on the date of the application, proceedings for divorce or nullity of marriage or proceedings for dissolution or nullity of civil partnership[^key-b331c6340b0d0422fb78a89a2257a386] in respect of the marriage or civil partnership[^key-ce75dc4a59338dd2a54615ea71a1e370] concerned are continuing in another court in the United Kingdom.
+(3) Where, after a decree of separation has been granted, an application is made in the separation process for a Part I order, a court in Scotland shall not have jurisdiction to entertain that application if, on the date of the application, proceedings for divorce or nullity of marriage or proceedings for dissolution or nullity of civil partnership[^c-b331c6340b0d0422fb78a89a2257a386] in respect of the marriage or civil partnership[^c-ce75dc4a59338dd2a54615ea71a1e370] concerned are continuing in another court in the United Kingdom.
 
-(4) A court in Scotland shall not have jurisdiction to entertain an application for the variation of a Part I order made in matrimonial[^c13383581] or civil partnership[^key-164dac23d1d9aad49f4f1d3628464526] proceedings where the court has refused to grant the principal remedy sought in the proceedings if, on the date of the application, matrimonial or civil partnership proceedings in respect of the marriage or civil partnership[^key-af21fcca32b4891c65014a454c1eac73] concerned are continuing in another court in the United Kingdom.
+(4) A court in Scotland shall not have jurisdiction to entertain an application for the variation of a Part I order made in matrimonial[^c13383581] or civil partnership[^c-164dac23d1d9aad49f4f1d3628464526] proceedings where the court has refused to grant the principal remedy sought in the proceedings if, on the date of the application, matrimonial or civil partnership proceedings in respect of the marriage or civil partnership[^c-af21fcca32b4891c65014a454c1eac73] concerned are continuing in another court in the United Kingdom.
 
 (5) Subsections (3) and (4) above shall not apply if the court in which the other proceedings there referred to are continuing has made—
 
@@ -40,7 +40,7 @@ to entertain an application for a Part 1 order in those proceedings unless the a
 
 and that order is in force.
 
-(6) A court in Scotland which has jurisdiction in matrimonial or civil partnership[^key-60421dd9a22bb3968c397ea6cc0b9f6a] proceedings to entertain an application for a Part I order with respect to a child may make an order declining such jurisdiction if—
+(6) A court in Scotland which has jurisdiction in matrimonial or civil partnership[^c-60421dd9a22bb3968c397ea6cc0b9f6a] proceedings to entertain an application for a Part I order with respect to a child may make an order declining such jurisdiction if—
 
 - (a) it appears to the court with respect to that child that—
   - (i) but for section 11(1) of this Act, another court in Scotland would have jurisdiction to entertain an application for a Part I order, or
@@ -53,19 +53,19 @@ and that order is in force.
 
 [^c13383531]: Textual amendment: Words in s. 13(1)-(4)(6)(a)(i)(ii) substituted (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108](https://www.legislation.gov.uk/ukpga/1989/41/section/108), [Sch. 13 para. 62(2)(a)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/13/paragraph/62/2/a) (with [Sch. 14 para. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-9196aef0fb508773f5c8fec524831c54]: Textual amendment: Words in s. 13(1) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Consequential Amendments) (Scotland) Order 2005 (S.S.I. 2005/623)](https://www.legislation.gov.uk/ssi/2005/623), [arts. 1](https://www.legislation.gov.uk/ssi/2005/623/article/1), [15(2)](https://www.legislation.gov.uk/ssi/2005/623/article/15/2)
+[^c-9196aef0fb508773f5c8fec524831c54]: Textual amendment: Words in s. 13(1) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Consequential Amendments) (Scotland) Order 2005 (S.S.I. 2005/623)](https://www.legislation.gov.uk/ssi/2005/623), [arts. 1](https://www.legislation.gov.uk/ssi/2005/623/article/1), [15(2)](https://www.legislation.gov.uk/ssi/2005/623/article/15/2)
 
-[^key-76143ca1d381732d3aa89ac828322061]: Textual amendment: S. 13(2) substituted (5.12.2005) by [The Civil Partnership Act 2004 (Consequential Amendments) (Scotland) Order 2005 (S.S.I. 2005/623)](https://www.legislation.gov.uk/ssi/2005/623), [arts. 1](https://www.legislation.gov.uk/ssi/2005/623/article/1), [15(3)](https://www.legislation.gov.uk/ssi/2005/623/article/15/3)
+[^c-76143ca1d381732d3aa89ac828322061]: Textual amendment: S. 13(2) substituted (5.12.2005) by [The Civil Partnership Act 2004 (Consequential Amendments) (Scotland) Order 2005 (S.S.I. 2005/623)](https://www.legislation.gov.uk/ssi/2005/623), [arts. 1](https://www.legislation.gov.uk/ssi/2005/623/article/1), [15(3)](https://www.legislation.gov.uk/ssi/2005/623/article/15/3)
 
-[^key-b331c6340b0d0422fb78a89a2257a386]: Textual amendment: Words in s. 13(3) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Consequential Amendments) (Scotland) Order 2005 (S.S.I. 2005/623)](https://www.legislation.gov.uk/ssi/2005/623), [arts. 1](https://www.legislation.gov.uk/ssi/2005/623/article/1), [15(4)(a)](https://www.legislation.gov.uk/ssi/2005/623/article/15/4/a)
+[^c-b331c6340b0d0422fb78a89a2257a386]: Textual amendment: Words in s. 13(3) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Consequential Amendments) (Scotland) Order 2005 (S.S.I. 2005/623)](https://www.legislation.gov.uk/ssi/2005/623), [arts. 1](https://www.legislation.gov.uk/ssi/2005/623/article/1), [15(4)(a)](https://www.legislation.gov.uk/ssi/2005/623/article/15/4/a)
 
-[^key-ce75dc4a59338dd2a54615ea71a1e370]: Textual amendment: Words in s. 13(3) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Consequential Amendments) (Scotland) Order 2005 (S.S.I. 2005/623)](https://www.legislation.gov.uk/ssi/2005/623), [arts. 1](https://www.legislation.gov.uk/ssi/2005/623/article/1), [15(4)(b)](https://www.legislation.gov.uk/ssi/2005/623/article/15/4/b)
+[^c-ce75dc4a59338dd2a54615ea71a1e370]: Textual amendment: Words in s. 13(3) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Consequential Amendments) (Scotland) Order 2005 (S.S.I. 2005/623)](https://www.legislation.gov.uk/ssi/2005/623), [arts. 1](https://www.legislation.gov.uk/ssi/2005/623/article/1), [15(4)(b)](https://www.legislation.gov.uk/ssi/2005/623/article/15/4/b)
 
 [^c13383581]: Textual amendment: Words in s. 13(4) substituted (1.11.1996) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4), [Sch. 4 para. 41(3)(b)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/41/3/b); [S.I. 1996/2203](https://www.legislation.gov.uk/uksi/1996/2203), [art. 3(3)](https://www.legislation.gov.uk/uksi/1996/2203/article/3/3), [Sch.](https://www.legislation.gov.uk/uksi/1996/2203/schedule)
 
-[^key-164dac23d1d9aad49f4f1d3628464526]: Textual amendment: Words in s. 13(4) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Consequential Amendments) (Scotland) Order 2005 (S.S.I. 2005/623)](https://www.legislation.gov.uk/ssi/2005/623), [arts. 1](https://www.legislation.gov.uk/ssi/2005/623/article/1), [15(5)(a)](https://www.legislation.gov.uk/ssi/2005/623/article/15/5/a)
+[^c-164dac23d1d9aad49f4f1d3628464526]: Textual amendment: Words in s. 13(4) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Consequential Amendments) (Scotland) Order 2005 (S.S.I. 2005/623)](https://www.legislation.gov.uk/ssi/2005/623), [arts. 1](https://www.legislation.gov.uk/ssi/2005/623/article/1), [15(5)(a)](https://www.legislation.gov.uk/ssi/2005/623/article/15/5/a)
 
-[^key-af21fcca32b4891c65014a454c1eac73]: Textual amendment: Words in s. 13(4) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Consequential Amendments) (Scotland) Order 2005 (S.S.I. 2005/623)](https://www.legislation.gov.uk/ssi/2005/623), [arts. 1](https://www.legislation.gov.uk/ssi/2005/623/article/1), [15(5)(b)](https://www.legislation.gov.uk/ssi/2005/623/article/15/5/b)
+[^c-af21fcca32b4891c65014a454c1eac73]: Textual amendment: Words in s. 13(4) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Consequential Amendments) (Scotland) Order 2005 (S.S.I. 2005/623)](https://www.legislation.gov.uk/ssi/2005/623), [arts. 1](https://www.legislation.gov.uk/ssi/2005/623/article/1), [15(5)(b)](https://www.legislation.gov.uk/ssi/2005/623/article/15/5/b)
 
 [^c13383591]: Textual amendment: Figure in s. 13(5)(a) substituted (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108](https://www.legislation.gov.uk/ukpga/1989/41/section/108), [Sch. 13 para. 68(b)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/13/paragraph/68/b) (with [Sch. 14 para. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
@@ -73,6 +73,6 @@ and that order is in force.
 
 [^c13383611]: Textual amendment: Words in s. 13(5)(b) substituted (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108](https://www.legislation.gov.uk/ukpga/1989/41/section/108), [Sch. 13 para. 62(2)(b)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/13/paragraph/62/2/b) (with [Sch. 14 para. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-60421dd9a22bb3968c397ea6cc0b9f6a]: Textual amendment: Words in s. 13(6) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Consequential Amendments) (Scotland) Order 2005 (S.S.I. 2005/623)](https://www.legislation.gov.uk/ssi/2005/623), [arts. 1](https://www.legislation.gov.uk/ssi/2005/623/article/1), [15(6)](https://www.legislation.gov.uk/ssi/2005/623/article/15/6)
+[^c-60421dd9a22bb3968c397ea6cc0b9f6a]: Textual amendment: Words in s. 13(6) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Consequential Amendments) (Scotland) Order 2005 (S.S.I. 2005/623)](https://www.legislation.gov.uk/ssi/2005/623), [arts. 1](https://www.legislation.gov.uk/ssi/2005/623/article/1), [15(6)](https://www.legislation.gov.uk/ssi/2005/623/article/15/6)
 
 [^c13383661]: Textual amendment: Words in s. 13(6)(b) substituted (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108](https://www.legislation.gov.uk/ukpga/1989/41/section/108), [Sch. 13 para. 62(2)(c)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/13/paragraph/62/2/c) (with [Sch. 14 para. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)

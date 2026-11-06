@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2D. Section 2C: supplementary provision[^key-976454936034c8257da4d2f66569887e]
+## 2D. Section 2C: supplementary provision[^c-976454936034c8257da4d2f66569887e]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-976454936034c8257da4d2f66569887e]: Textual amendment: Ss. 2C, 2D inserted (E.W.) (27.5.2013) by [Mobile Homes Act 2013 (c. 14)](https://www.legislation.gov.uk/ukpga/2013/14), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2013/14/section/9/1), [15(3)](https://www.legislation.gov.uk/ukpga/2013/14/section/15/3)
+[^c-976454936034c8257da4d2f66569887e]: Textual amendment: Ss. 2C, 2D inserted (E.W.) (27.5.2013) by [Mobile Homes Act 2013 (c. 14)](https://www.legislation.gov.uk/ukpga/2013/14), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2013/14/section/9/1), [15(3)](https://www.legislation.gov.uk/ukpga/2013/14/section/15/3)

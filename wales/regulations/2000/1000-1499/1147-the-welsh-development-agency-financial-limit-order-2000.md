@@ -30,7 +30,7 @@ summary: ''
 
 ECONOMIC DEVELOPMENT, WALES
 
-The Welsh Development Agency (Financial Limit) Order 2000 (revoked)[^key-95f5ea1cc541e69ab1d57a178209f13f]
+The Welsh Development Agency (Financial Limit) Order 2000 (revoked)[^c-95f5ea1cc541e69ab1d57a178209f13f]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into force
 
 12th April 2000
 
-[^key-95f5ea1cc541e69ab1d57a178209f13f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-95f5ea1cc541e69ab1d57a178209f13f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-95f5ea1cc541e69ab1d57a178209f13f]
+## 1. Citation and commencement[^c-95f5ea1cc541e69ab1d57a178209f13f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Increase in financial limit[^key-95f5ea1cc541e69ab1d57a178209f13f]
+## 2. Increase in financial limit[^c-95f5ea1cc541e69ab1d57a178209f13f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-95f5ea1cc541e69ab1d57a178209f13f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-95f5ea1cc541e69ab1d57a178209f13f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-95f5ea1cc541e69ab1d57a178209f13f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-95f5ea1cc541e69ab1d57a178209f13f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-95f5ea1cc541e69ab1d57a178209f13f]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2000/1147) revoked (1.4.2006) by [The Welsh Development Agency (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3226)](https://www.legislation.gov.uk/wsi/2005/3226), [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/wsi/2005/3226/schedule/2/part/2) (with [art. 3](https://www.legislation.gov.uk/wsi/2005/3226/article/3))
+[^c-95f5ea1cc541e69ab1d57a178209f13f]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2000/1147) revoked (1.4.2006) by [The Welsh Development Agency (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3226)](https://www.legislation.gov.uk/wsi/2005/3226), [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/wsi/2005/3226/schedule/2/part/2) (with [art. 3](https://www.legislation.gov.uk/wsi/2005/3226/article/3))

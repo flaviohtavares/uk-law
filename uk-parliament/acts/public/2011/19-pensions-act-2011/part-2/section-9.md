@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Rounded figures for earnings trigger and qualifying earnings band[^c2114363][^key-fca1f036cfd08aba342dcdcfb977f470]
+## 9. Rounded figures for earnings trigger and qualifying earnings band[^c2114363][^c-fca1f036cfd08aba342dcdcfb977f470]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ After section 15 of the 2008 Act insert—
 
 [^c2114363]: Commencement: [Pt. 2](https://www.legislation.gov.uk/ukpga/2011/19/part/2) (ss. 4-18) partly in force; [Pt. 2](https://www.legislation.gov.uk/ukpga/2011/19/part/2) (ss. 4-18) in force at 3.11.2011 in so far as it confers power to make subordinate legislation see [s. 38(1)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/1).
 
-[^key-fca1f036cfd08aba342dcdcfb977f470]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2011/19/section/9) in force at 6.3.2012 in so far as not already in force by [S.I. 2012/682](https://www.legislation.gov.uk/uksi/2012/682), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/682/article/2/a)
+[^c-fca1f036cfd08aba342dcdcfb977f470]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2011/19/section/9) in force at 6.3.2012 in so far as not already in force by [S.I. 2012/682](https://www.legislation.gov.uk/uksi/2012/682), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/682/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Guidance about investigation of offences under section 76[^key-59631e270f138dd772d6ea6740791c39]
+## 77. Guidance about investigation of offences under section 76[^c-59631e270f138dd772d6ea6740791c39]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59631e270f138dd772d6ea6740791c39]: Commencement: S. 77 in force at 29.12.2015 by [S.I. 2015/1976](https://www.legislation.gov.uk/uksi/2015/1976), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1976/regulation/2/b)
+[^c-59631e270f138dd772d6ea6740791c39]: Commencement: S. 77 in force at 29.12.2015 by [S.I. 2015/1976](https://www.legislation.gov.uk/uksi/2015/1976), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1976/regulation/2/b)

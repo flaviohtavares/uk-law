@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Where, on an application made by any person for a warrant under this Article, it appears to the court that there is reasonable cause to believe that the provisions of this Part or of any regulations made or licences granted under this Part are being contravened with respect to any child, the court may issue a warrant authorising any officer of the Education Authority[^key-67708083cb8c16f43ec2d5f6dda31278] or any constable to enter, at any reasonable time within 48 hours of the issue of the warrant, any place in or in connection with which the child in question is, or is believed to be, employed or taking part in a performance, or being trained, and to make inquiries there with respect to that child.
+(1) Where, on an application made by any person for a warrant under this Article, it appears to the court that there is reasonable cause to believe that the provisions of this Part or of any regulations made or licences granted under this Part are being contravened with respect to any child, the court may issue a warrant authorising any officer of the Education Authority[^c-67708083cb8c16f43ec2d5f6dda31278] or any constable to enter, at any reasonable time within 48 hours of the issue of the warrant, any place in or in connection with which the child in question is, or is believed to be, employed or taking part in a performance, or being trained, and to make inquiries there with respect to that child.
 
-(2) Any authorised officer of the Education Authority[^key-48ddf093912c691c1c09f219a7c87d83] or any constable may—
+(2) Any authorised officer of the Education Authority[^c-48ddf093912c691c1c09f219a7c87d83] or any constable may—
 
 - (a) at any time enter any place used—
   - (i) as a broadcasting studio or film studio; or
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-67708083cb8c16f43ec2d5f6dda31278]: Textual amendment: Words in [art. 146(1)](https://www.legislation.gov.uk/nisi/1995/755/article/146/1) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 14(21)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/14/21) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-67708083cb8c16f43ec2d5f6dda31278]: Textual amendment: Words in [art. 146(1)](https://www.legislation.gov.uk/nisi/1995/755/article/146/1) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 14(21)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/14/21) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-48ddf093912c691c1c09f219a7c87d83]: Textual amendment: Words in [art. 146(2)](https://www.legislation.gov.uk/nisi/1995/755/article/146/2) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 14(21)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/14/21) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-48ddf093912c691c1c09f219a7c87d83]: Textual amendment: Words in [art. 146(2)](https://www.legislation.gov.uk/nisi/1995/755/article/146/2) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 14(21)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/14/21) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

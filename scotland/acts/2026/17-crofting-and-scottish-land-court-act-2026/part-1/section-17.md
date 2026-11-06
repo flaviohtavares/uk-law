@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Guidance relating to absences from crofts[^key-7ae3f8af0ad127b373a002c5532c21ca]
+## 17. Guidance relating to absences from crofts[^c-7ae3f8af0ad127b373a002c5532c21ca]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ After section 21D of the 1993 Act insert—
 
 ## Annotations
 
-[^key-7ae3f8af0ad127b373a002c5532c21ca]: Commencement: S. 17 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-7ae3f8af0ad127b373a002c5532c21ca]: Commencement: S. 17 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

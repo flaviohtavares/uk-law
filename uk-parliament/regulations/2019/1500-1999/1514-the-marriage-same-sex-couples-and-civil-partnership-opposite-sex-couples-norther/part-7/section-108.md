@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Housing Benefit regulations of 2006[^key-b6ad194e524e47509ead7967412c0778]
+## 108. Housing Benefit regulations of 2006[^c-b6ad194e524e47509ead7967412c0778]
 
 *Extent: N.I.*
 
@@ -30,7 +30,7 @@ In regulation 2(1) of the Housing Benefit Regulations (Northern Ireland) 2006[^f
 
 ## Annotations
 
-[^key-b6ad194e524e47509ead7967412c0778]: Commencement: Reg. 108 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-b6ad194e524e47509ead7967412c0778]: Commencement: Reg. 108 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00171]: Footnote: [S.R. (N.I.) 2006/405](https://www.legislation.gov.uk/nisr/2006/405).
 

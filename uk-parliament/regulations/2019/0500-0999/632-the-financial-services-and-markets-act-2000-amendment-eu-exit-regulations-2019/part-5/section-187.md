@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187. The Financial Services and Markets Act 2000 (Qualifying EU Provisions) Order 2013[^key-eaba07795bb07e50a028bbc1837fa7e7][^key-660b7df424255946745807230422752e]
+## 187. The Financial Services and Markets Act 2000 (Qualifying EU Provisions) Order 2013[^c-eaba07795bb07e50a028bbc1837fa7e7][^c-660b7df424255946745807230422752e]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-df46fb940466ec67e1dad83c4d9e0eaa] The Financial Services and Markets Act 2000 (Qualifying EU Provisions) Order 2013 [^c23660711] is amended as follows.
+(1)[^c-df46fb940466ec67e1dad83c4d9e0eaa] The Financial Services and Markets Act 2000 (Qualifying EU Provisions) Order 2013 [^c23660711] is amended as follows.
 
-(2)[^key-df46fb940466ec67e1dad83c4d9e0eaa] In the title and in article 1(1) (citation) for “(Qualifying EU Provisions)” substitute “ (Qualifying Provisions) ”.
+(2)[^c-df46fb940466ec67e1dad83c4d9e0eaa] In the title and in article 1(1) (citation) for “(Qualifying EU Provisions)” substitute “ (Qualifying Provisions) ”.
 
 (3)[^M_I_855aa845-3122-4759-ec60-64dbd3233666] In article 1, after paragraph (2) [^c23660721] (interpretation) insert—
 
@@ -53,7 +53,7 @@ summary: ''
 
 .
 
-(4)[^key-df46fb940466ec67e1dad83c4d9e0eaa] In the following provisions for “qualifying EU provisions” substitute “ qualifying provisions ”
+(4)[^c-df46fb940466ec67e1dad83c4d9e0eaa] In the following provisions for “qualifying EU provisions” substitute “ qualifying provisions ”
 
 - (a) in article 2 [^c23660771] (qualifying EU provisions: general), in that heading and in paragraphs (1), (3), (4A), (5), (7) and (9) to (11);
 - (b) in article 3 [^c23660781] (qualifying EU provisions: disciplinary measures), in that heading and in paragraphs (1) and (3);
@@ -61,9 +61,9 @@ summary: ''
 - (d) in article 5 [^c23660801] (qualifying EU provisions: injunctions and restitution), in that heading and in paragraphs (1), (3), (4A) and (6); and
 - (e) in article 6 [^c23660811] (qualifying EU provisions: fees), in that heading and in paragraphs (1), (3) and (5).
 
-(5)[^key-df46fb940466ec67e1dad83c4d9e0eaa] In article 2(12) [^c23660821] and (13) [^c23660831] for “qualifying EU provision” substitute “ qualifying provision ”.
+(5)[^c-df46fb940466ec67e1dad83c4d9e0eaa] In article 2(12) [^c23660821] and (13) [^c23660831] for “qualifying EU provision” substitute “ qualifying provision ”.
 
-(6)[^key-df46fb940466ec67e1dad83c4d9e0eaa] In article 5 at the end insert—
+(6)[^c-df46fb940466ec67e1dad83c4d9e0eaa] In article 5 at the end insert—
 
 > (7) In paragraphs (2)(n) and (5)(m) the reference to any directly applicable measure of the EU Benchmarks Regulation 2016 is a reference to—
 >
@@ -73,7 +73,7 @@ summary: ''
 
 .
 
-(7)[^key-df46fb940466ec67e1dad83c4d9e0eaa] In article 6—
+(7)[^c-df46fb940466ec67e1dad83c4d9e0eaa] In article 6—
 
 - (a) in paragraph (1) after “Act” insert “and regulation 206(1)(a) of the Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019;
 - (b) in paragraph (3) after “Act” insert “and regulation 206(1)(a) of the Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019;
@@ -81,11 +81,11 @@ summary: ''
 
 ## Annotations
 
-[^key-eaba07795bb07e50a028bbc1837fa7e7]: Commencement: Reg. 187(3) in force for specified purposes at 23.3.2019, see reg. 1(2)(h)
+[^c-eaba07795bb07e50a028bbc1837fa7e7]: Commencement: Reg. 187(3) in force for specified purposes at 23.3.2019, see reg. 1(2)(h)
 
-[^key-660b7df424255946745807230422752e]: Modification: Pts. 3-6 modified in part (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/1)[(4)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/4)[(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/5) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-660b7df424255946745807230422752e]: Modification: Pts. 3-6 modified in part (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/1)[(4)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/4)[(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/5) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-df46fb940466ec67e1dad83c4d9e0eaa]: Commencement: Reg. 187(1)(2)(4)-(7) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-df46fb940466ec67e1dad83c4d9e0eaa]: Commencement: Reg. 187(1)(2)(4)-(7) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23660711]: Marginal citation: [S.I. 2013/419](https://www.legislation.gov.uk/uksi/2013/419).
 

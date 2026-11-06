@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29.5. Timetable in application for new trial[^key-0906bf3998dfdadafaef8ca0712c75ff]
+## 29.5. Timetable in application for new trial[^c-0906bf3998dfdadafaef8ca0712c75ff]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0906bf3998dfdadafaef8ca0712c75ff]: Commencement: Para. 29.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-0906bf3998dfdadafaef8ca0712c75ff]: Commencement: Para. 29.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

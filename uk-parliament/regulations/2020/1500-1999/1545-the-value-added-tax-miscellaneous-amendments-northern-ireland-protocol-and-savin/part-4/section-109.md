@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Interpretation of this Part[^key-f93cf1e472a41c53c8c94256e2ddf4ad]
+## 109. Interpretation of this Part[^c-f93cf1e472a41c53c8c94256e2ddf4ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f93cf1e472a41c53c8c94256e2ddf4ad]: Commencement: Reg. 109 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-f93cf1e472a41c53c8c94256e2ddf4ad]: Commencement: Reg. 109 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395791]: Marginal citation: [S.I. 2019/60](https://www.legislation.gov.uk/uksi/2019/60). These Regulations are not yet in force.
 

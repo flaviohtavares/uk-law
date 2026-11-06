@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99B. Calculation of the disposal cost of accumulation units[^key-dd7432083ee709cccc5bd862aaecaa49]
+## 99B. Calculation of the disposal cost of accumulation units[^c-dd7432083ee709cccc5bd862aaecaa49]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,14 +33,14 @@ summary: ''
 - (a) in relation to an authorised unit trust, on the distribution date for the distribution period in respect of which the amount is reinvested, and
 - (b) in relation to any other unit trust scheme, on the date on which the amount is reinvested.
 
-(3) In subsection (2)(a) “**distribution date**” and “**distribution period**” shall have the meaning given by regulations made under section 17(3) of the Finance (No. 2) Act 2005 (as at 1st April 2006, see regulation 15 of the Authorised Investment Funds (Tax) Regulations 2006 (S.I. 2006/964))[^key-5bfa3b39915446dd9b25912d333c50f9].
+(3) In subsection (2)(a) “**distribution date**” and “**distribution period**” shall have the meaning given by regulations made under section 17(3) of the Finance (No. 2) Act 2005 (as at 1st April 2006, see regulation 15 of the Authorised Investment Funds (Tax) Regulations 2006 (S.I. 2006/964))[^c-5bfa3b39915446dd9b25912d333c50f9].
 
-(4)[^key-6946a24136e6105e927ae49d43259f72] Subsection (1) does not apply to disposals in units of an offshore fund that is a transparent fund within the meaning given by regulation 11 of the Offshore Funds (Tax) Regulations 2009 (see instead section 103D).
+(4)[^c-6946a24136e6105e927ae49d43259f72] Subsection (1) does not apply to disposals in units of an offshore fund that is a transparent fund within the meaning given by regulation 11 of the Offshore Funds (Tax) Regulations 2009 (see instead section 103D).
 
 ## Annotations
 
-[^key-dd7432083ee709cccc5bd862aaecaa49]: Textual amendment: S. 99B inserted (with effect in accordance with s. 21(2) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 21(1)](https://www.legislation.gov.uk/ukpga/2005/22/section/21/1)
+[^c-dd7432083ee709cccc5bd862aaecaa49]: Textual amendment: S. 99B inserted (with effect in accordance with s. 21(2) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 21(1)](https://www.legislation.gov.uk/ukpga/2005/22/section/21/1)
 
-[^key-5bfa3b39915446dd9b25912d333c50f9]: Textual amendment: Words in s. 99B(3) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) Regulations 2006 (S.I. 2006/964)](https://www.legislation.gov.uk/uksi/2006/964), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/964/regulation/1/1), [89(2)](https://www.legislation.gov.uk/uksi/2006/964/regulation/89/2)
+[^c-5bfa3b39915446dd9b25912d333c50f9]: Textual amendment: Words in s. 99B(3) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) Regulations 2006 (S.I. 2006/964)](https://www.legislation.gov.uk/uksi/2006/964), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/964/regulation/1/1), [89(2)](https://www.legislation.gov.uk/uksi/2006/964/regulation/89/2)
 
-[^key-6946a24136e6105e927ae49d43259f72]: Textual amendment: S. 99B(4) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Collective Investment Schemes and Offshore Funds (Amendment of the Taxation of Chargeable Gains Act 1992) Regulations 2017 (S.I. 2017/1204)](https://www.legislation.gov.uk/uksi/2017/1204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1204/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2017/1204/regulation/4)
+[^c-6946a24136e6105e927ae49d43259f72]: Textual amendment: S. 99B(4) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Collective Investment Schemes and Offshore Funds (Amendment of the Taxation of Chargeable Gains Act 1992) Regulations 2017 (S.I. 2017/1204)](https://www.legislation.gov.uk/uksi/2017/1204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1204/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2017/1204/regulation/4)

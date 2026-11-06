@@ -25,7 +25,7 @@ summary: ''
 - “ **the EEA** ” means the European Economic Area; and
 - “ **EEA state** ” means a member State, Iceland, Liechtenstein or Norway.
 
-(2)[^key-219b8e73e811327e002c76f5a0a2774f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-219b8e73e811327e002c76f5a0a2774f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3)[^c19454391] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -39,6 +39,6 @@ summary: ''
 
 [^c19454401]: Textual amendment: S. 172A(1) substituted (29.4.2006) by [The Intellectual Property (Enforcement, etc.) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2006/1028/regulation/2/2), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/uksi/2006/1028/schedule/2/paragraph/8/2)
 
-[^key-219b8e73e811327e002c76f5a0a2774f]: Textual amendment: [S. 172A(2)](https://www.legislation.gov.uk/ukpga/1988/48/section/172A/2) omitted (31.12.2020) by virtue of [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2019/605/regulation/18) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), regs. 1(2), 4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), Sch. 5 para. 1(1)
+[^c-219b8e73e811327e002c76f5a0a2774f]: Textual amendment: [S. 172A(2)](https://www.legislation.gov.uk/ukpga/1988/48/section/172A/2) omitted (31.12.2020) by virtue of [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2019/605/regulation/18) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), regs. 1(2), 4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), Sch. 5 para. 1(1)
 
 [^c19454391]: Textual amendment: S. 172A(3) repealed (29.4.2006) by [The Intellectual Property (Enforcement, etc.) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2006/1028/regulation/2/4), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/1028/schedule/4)

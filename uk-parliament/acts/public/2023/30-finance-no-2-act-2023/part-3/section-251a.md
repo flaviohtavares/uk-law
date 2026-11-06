@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 251A. Meaning of country-by-country report[^key-e6438026942403461631863f36026bb5]
+## 251A. Meaning of country-by-country report[^c-e6438026942403461631863f36026bb5]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6438026942403461631863f36026bb5]: Textual amendment: [S. 251A](https://www.legislation.gov.uk/ukpga/2023/30/section/251A) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 29(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/29/1)
+[^c-e6438026942403461631863f36026bb5]: Textual amendment: [S. 251A](https://www.legislation.gov.uk/ukpga/2023/30/section/251A) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 29(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/29/1)

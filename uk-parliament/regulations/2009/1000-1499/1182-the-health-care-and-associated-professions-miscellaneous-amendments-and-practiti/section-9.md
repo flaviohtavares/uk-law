@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Transitional, transitory or saving provisions orders[^key-a872d529c7f9980b1b618233bafec8fd]
+## 9. Transitional, transitory or saving provisions orders[^c-a872d529c7f9980b1b618233bafec8fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ the Privy Council must consult the Scottish Ministers.
 
 ## Annotations
 
-[^key-a872d529c7f9980b1b618233bafec8fd]: Commencement: Art. 9 in force at 14.5.2009, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/a)
+[^c-a872d529c7f9980b1b618233bafec8fd]: Commencement: Art. 9 in force at 14.5.2009, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/a)
 
 [^f00016]: Footnote: [S.I. 1986/887](https://www.legislation.gov.uk/uksi/1986/887).
 

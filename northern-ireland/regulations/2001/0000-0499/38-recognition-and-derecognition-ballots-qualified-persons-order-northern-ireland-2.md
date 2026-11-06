@@ -41,13 +41,13 @@ Coming into operation
 
 The Department of Higher and Further Education, Training and Employment, in exercise of the powers conferred by paragraphs 25(7)(*a*) and 117(9)(*a*) of Schedule 1A to the Trade Union and Labour Relations (Northern Ireland) Order 1995[^f00001], and now vested in it[^f00002], and of every other power enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-90663bd2e2f6164584afe8b90f70f148]
+## 1. Citation, commencement and interpretation[^c-90663bd2e2f6164584afe8b90f70f148]
 
 (1) This Order may be cited as the Recognition and Derecognition Ballots (Qualified Persons) Order (Northern Ireland) 2001 and shall come into operation on 8th March 2001.
 
 (2) In this Order “the relevant provisions” means paragraph 25(7)(*a*) and 117(9)(*a*) of Schedule 1A to the Trade Union and Labour Relations (Northern Ireland) Order 1995.
 
-## 2. Qualifications: Individuals[^key-3bc6249af9a3a1776765bdfd20f25303]
+## 2. Qualifications: Individuals[^c-3bc6249af9a3a1776765bdfd20f25303]
 
 In relation to an individual, the condition specified for the purposes of the relevant provisions is that he—
 
@@ -55,13 +55,13 @@ In relation to an individual, the condition specified for the purposes of the re
   - (i) the Law Society of Northern Ireland;
   - (ii) the Law Society of England and Wales; and
   - (iii) the Law Society of Scotland; or
-- (b)[^key-e290d59b5dbb5370f5b884cb74e928a8] is eligible for appointment as a statutory auditor under Part 42 of the Companies Act 2006.
+- (b)[^c-e290d59b5dbb5370f5b884cb74e928a8] is eligible for appointment as a statutory auditor under Part 42 of the Companies Act 2006.
 
-## 3. Qualifications: Partnerships[^key-7b87b1cc45b57cd058e12a60cc6d289d]
+## 3. Qualifications: Partnerships[^c-7b87b1cc45b57cd058e12a60cc6d289d]
 
 In relation to a partnership, the condition specified for the purposes of the relevant provisions is that every member of the partnership is an individual who satisfies the conditions specified in Article 2.
 
-## 4. Persons specified by name[^key-19a25b9b5010278efc32dcdf1678bbd5][^key-786daa1b94e24427504db40c9409f0c4]
+## 4. Persons specified by name[^c-19a25b9b5010278efc32dcdf1678bbd5][^c-786daa1b94e24427504db40c9409f0c4]
 
 The following persons are specified for the purposes of the relevant provisions—
 
@@ -92,14 +92,14 @@ The Order comes into operation on 8th March 2001.
 
 [^f00002]: Footnote: The Departments (Transfer and Assignment of Functions) Order (Northern Ireland) 1999 ([S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)) transferred functions under the Employment Relations (Northern Ireland) Order 1999 to the Department of Higher and Further Education, Training and Employment
 
-[^key-90663bd2e2f6164584afe8b90f70f148]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2001/38/article/1) in operation at 8.3.2001, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/38/article/1/1)
+[^c-90663bd2e2f6164584afe8b90f70f148]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2001/38/article/1) in operation at 8.3.2001, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/38/article/1/1)
 
-[^key-3bc6249af9a3a1776765bdfd20f25303]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2001/38/article/2) in operation at 8.3.2001, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/38/article/1/1)
+[^c-3bc6249af9a3a1776765bdfd20f25303]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2001/38/article/2) in operation at 8.3.2001, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/38/article/1/1)
 
-[^key-e290d59b5dbb5370f5b884cb74e928a8]: Textual amendment: [Art. 2(b)](https://www.legislation.gov.uk/nisr/2001/38/article/2/b) substituted (6.4.2010) by [The Recognition and Derecognition Ballots (Qualified Persons) (Amendment) Order (Northern Ireland) 2010 (S.R. 2010/79)](https://www.legislation.gov.uk/nisr/2010/79), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2010/79/article/1/1), [2(1)](https://www.legislation.gov.uk/nisr/2010/79/article/2/1)
+[^c-e290d59b5dbb5370f5b884cb74e928a8]: Textual amendment: [Art. 2(b)](https://www.legislation.gov.uk/nisr/2001/38/article/2/b) substituted (6.4.2010) by [The Recognition and Derecognition Ballots (Qualified Persons) (Amendment) Order (Northern Ireland) 2010 (S.R. 2010/79)](https://www.legislation.gov.uk/nisr/2010/79), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2010/79/article/1/1), [2(1)](https://www.legislation.gov.uk/nisr/2010/79/article/2/1)
 
-[^key-7b87b1cc45b57cd058e12a60cc6d289d]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2001/38/article/3) in operation at 8.3.2001, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/38/article/1/1)
+[^c-7b87b1cc45b57cd058e12a60cc6d289d]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2001/38/article/3) in operation at 8.3.2001, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/38/article/1/1)
 
-[^key-19a25b9b5010278efc32dcdf1678bbd5]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2001/38/article/4) in operation at 8.3.2001, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/38/article/1/1)
+[^c-19a25b9b5010278efc32dcdf1678bbd5]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2001/38/article/4) in operation at 8.3.2001, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/38/article/1/1)
 
-[^key-786daa1b94e24427504db40c9409f0c4]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/nisr/2001/38/article/4) substituted (17.12.2017) by [The Recognition and Derecognition Ballots (Qualified Persons) (Amendment) Order (Northern Ireland) 2017 (S.R. 2017/223)](https://www.legislation.gov.uk/nisr/2017/223), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2017/223/article/1/1), [2](https://www.legislation.gov.uk/nisr/2017/223/article/2)
+[^c-786daa1b94e24427504db40c9409f0c4]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/nisr/2001/38/article/4) substituted (17.12.2017) by [The Recognition and Derecognition Ballots (Qualified Persons) (Amendment) Order (Northern Ireland) 2017 (S.R. 2017/223)](https://www.legislation.gov.uk/nisr/2017/223), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2017/223/article/1/1), [2](https://www.legislation.gov.uk/nisr/2017/223/article/2)

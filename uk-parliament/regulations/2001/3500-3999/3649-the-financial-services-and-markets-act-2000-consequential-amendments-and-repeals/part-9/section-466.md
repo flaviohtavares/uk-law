@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 466. Notes to annual accounts of friendly societies[^key-3c1c45f6fd561ef6b88bd73f3526b6c3]
+## 466. Notes to annual accounts of friendly societies[^c-3c1c45f6fd561ef6b88bd73f3526b6c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In Schedule 4 to the Friendly Societies (Accounts and Related Provisions) Order 
 
 ## Annotations
 
-[^key-3c1c45f6fd561ef6b88bd73f3526b6c3]: Commencement: Art. 466 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-3c1c45f6fd561ef6b88bd73f3526b6c3]: Commencement: Art. 466 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

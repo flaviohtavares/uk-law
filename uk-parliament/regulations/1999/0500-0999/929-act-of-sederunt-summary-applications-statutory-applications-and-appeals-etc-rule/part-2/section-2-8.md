@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.8. Orders against which caveats may be lodged[^key-e00a3bb8ee012a44d4f9baf0cf2b1ccd]
+## 2.8. Orders against which caveats may be lodged[^c-e00a3bb8ee012a44d4f9baf0cf2b1ccd]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ A person may lodge a caveat against an interim order (other than an order under 
 
 ## Annotations
 
-[^key-e00a3bb8ee012a44d4f9baf0cf2b1ccd]: Commencement: Rule 2.8 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-e00a3bb8ee012a44d4f9baf0cf2b1ccd]: Commencement: Rule 2.8 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
 
 [^f00015]: Footnote: [1972 c. 59](https://www.legislation.gov.uk/ukpga/1972/59); section 1 was amended by the Law Reform (Miscellaneous) (Provisions) (Scotland) Act [1985 (c. 73)](https://www.legislation.gov.uk/ukpga/1985/73), section 19 and Schedule 2, paragraph 15.

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Provisions of the 1990 Schengen Convention relating to police cooperation and mutual legal assistance in criminal matters[^key-adba16d944d6d481afeea44c62c61510]
+## 99. Provisions of the 1990 Schengen Convention relating to police cooperation and mutual legal assistance in criminal matters[^c-adba16d944d6d481afeea44c62c61510]
 
 *Extent: E+W+S+N.I.*
 
-The following decisions are revoked but only so far as they relate to Articles 39, 46 to 49 and 51 of the 1990 Schengen Convention (and see Article 63(1)(a) and Title VII of Part 3 of the withdrawal agreement, Articles 50(3), 52(a) and Title IV of Part 3 of the EEA EFTA separation agreement and sections 7A to 7C of the Withdrawal Act.)[^key-2af5ccec24dea34464ada9690e237f40]—
+The following decisions are revoked but only so far as they relate to Articles 39, 46 to 49 and 51 of the 1990 Schengen Convention (and see Article 63(1)(a) and Title VII of Part 3 of the withdrawal agreement, Articles 50(3), 52(a) and Title IV of Part 3 of the EEA EFTA separation agreement and sections 7A to 7C of the Withdrawal Act.)[^c-2af5ccec24dea34464ada9690e237f40]—
 
 - (a) Council Decision [2000/365/EC](https://www.legislation.gov.uk/eudn/2000/365) of 29 May 2000 concerning the request of the United Kingdom of Great Britain and Northern Ireland to take part in some of the provisions of the Schengen acquis;
 - (b) Council Decision [2004/926/EC](https://www.legislation.gov.uk/eudn/2004/926) of 22 December 2004 on the putting into effect of parts of the Schengen acquis by the United Kingdom of Great Britain and Northern Ireland;
@@ -28,6 +28,6 @@ The following decisions are revoked but only so far as they relate to Articles 3
 
 ## Annotations
 
-[^key-adba16d944d6d481afeea44c62c61510]: Commencement: Reg. 99 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-adba16d944d6d481afeea44c62c61510]: Commencement: Reg. 99 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-2af5ccec24dea34464ada9690e237f40]: Textual amendment: Words in reg. 99 inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [29](https://www.legislation.gov.uk/uksi/2020/1408/regulation/29)
+[^c-2af5ccec24dea34464ada9690e237f40]: Textual amendment: Words in reg. 99 inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [29](https://www.legislation.gov.uk/uksi/2020/1408/regulation/29)

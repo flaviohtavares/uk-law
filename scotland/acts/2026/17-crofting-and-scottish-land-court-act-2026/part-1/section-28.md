@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Tenancies which cannot be private residential tenancies[^key-b23ab80800a229545d3721d455e8887f]
+## 28. Tenancies which cannot be private residential tenancies[^c-b23ab80800a229545d3721d455e8887f]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b23ab80800a229545d3721d455e8887f]: Commencement: S. 28 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-b23ab80800a229545d3721d455e8887f]: Commencement: S. 28 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

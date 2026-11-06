@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 119. Payments due to deceased officers.[^c15107541][^c15107551][^c15107561][^c18858441][^c18891481][^key-b493f4fc7b029edf19ff3e63c1677d63][^key-7a0647b70ccaeacb11c3f25ea548ce63]
+## 119. Payments due to deceased officers.[^c15107541][^c15107551][^c15107561][^c18858441][^c18891481][^c-b493f4fc7b029edf19ff3e63c1677d63][^c-7a0647b70ccaeacb11c3f25ea548ce63]
 
 *Extent: E+W*
 
-(1)[^c15107571][^c15107581][^key-02a4db8004cb69e6e2ba5fa3f42dbec5] If, on the death of any person who is or has been an officer of a local authority, there is due to him or his legal personal representatives from a local authority a sum not exceeding £500 and not being a pension, allowance or gratuity payable by virtue of section 7 of the [^c15107591]Superannuation Act 1972, the authority may, without requiring the production of probate or letters of administration of the estate of the officer, pay the whole or any part of that sum to the officer’s personal representatives or to the person, or to or among any one or more of any persons, appearing to the authority to be beneficially entitled to the estate of the officer, and any person to whom such a payment is made, and not the authority, shall be liable to account for the sum paid to him under this subsection.
+(1)[^c15107571][^c15107581][^c-02a4db8004cb69e6e2ba5fa3f42dbec5] If, on the death of any person who is or has been an officer of a local authority, there is due to him or his legal personal representatives from a local authority a sum not exceeding £500 and not being a pension, allowance or gratuity payable by virtue of section 7 of the [^c15107591]Superannuation Act 1972, the authority may, without requiring the production of probate or letters of administration of the estate of the officer, pay the whole or any part of that sum to the officer’s personal representatives or to the person, or to or among any one or more of any persons, appearing to the authority to be beneficially entitled to the estate of the officer, and any person to whom such a payment is made, and not the authority, shall be liable to account for the sum paid to him under this subsection.
 
-(2)[^key-a7b7090509c16f5d030c0e2ecaea5b26] The authority may, if they think fit, pay out of the said sum the funeral expenses of the officer or so much thereof as they consider reasonable [^c15107601]. . .
+(2)[^c-a7b7090509c16f5d030c0e2ecaea5b26] The authority may, if they think fit, pay out of the said sum the funeral expenses of the officer or so much thereof as they consider reasonable [^c15107601]. . .
 
 (3) Subsection (1) above shall be included among the provisions with respect to which the Treasury may make an order under section 6(1) of the [^c15107611]Administration of Estates (Small Payments) Act 1965, substituting for references to £500 references to such higher amount as may be specified in the order.
 
 (4) Where provision has been made by regulations under section 7(1)(b) of the said Act of 1972 with respect to the pensions, allowances or gratuities which in certain circumstances are to be, or may be, paid to or in respect of any persons or classes of persons, the Secretary of State may by regulations provide for the application of the foregoing provisions of this section to such of those persons or classes of persons as may be specified in the regulations.
 
-(5)[^key-7c4f8986d65e784e5efe3261c449d894] In this section, references to a local authority include a corporate joint committee.
+(5)[^c-7c4f8986d65e784e5efe3261c449d894] In this section, references to a local authority include a corporate joint committee.
 
 ## Annotations
 
@@ -68,22 +68,22 @@ summary: ''
 
 [^c18891481]: Modification: S. 119 applied (with modifications) (20.11.2006) by [The Devon and Somerset Fire and Rescue Authority (Combination Scheme) Order 2006 (S.I. 2006/2790)](https://www.legislation.gov.uk/uksi/2006/2790), [art. 2](https://www.legislation.gov.uk/uksi/2006/2790/article/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2006/2790/schedule/paragraph/19)
 
-[^key-b493f4fc7b029edf19ff3e63c1677d63]: Modification: S. 119 applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [7](https://www.legislation.gov.uk/uksi/2011/939/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/939/schedule/1)
+[^c-b493f4fc7b029edf19ff3e63c1677d63]: Modification: S. 119 applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [7](https://www.legislation.gov.uk/uksi/2011/939/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/939/schedule/1)
 
-[^key-7a0647b70ccaeacb11c3f25ea548ce63]: Modification: S. 119 applied (with modifications) (1.4.2020) by [The Hampshire and Isle of Wight Fire and Rescue Authority (Combination Scheme) Order 2020 (S.I. 2020/186)](https://www.legislation.gov.uk/uksi/2020/186), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/186/paragraph/1/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2020/186/schedule/paragraph/22)
+[^c-7a0647b70ccaeacb11c3f25ea548ce63]: Modification: S. 119 applied (with modifications) (1.4.2020) by [The Hampshire and Isle of Wight Fire and Rescue Authority (Combination Scheme) Order 2020 (S.I. 2020/186)](https://www.legislation.gov.uk/uksi/2020/186), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/186/paragraph/1/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2020/186/schedule/paragraph/22)
 
 [^c15107571]: Modification: Section 119(1) has effect by virtue of [S.I. 1984/539](https://www.legislation.gov.uk/uksi/1984/539), [art. 2](https://www.legislation.gov.uk/uksi/1984/539/article/2)(*i*), as if for the reference to £500 there were substituted a reference to £5,000
 
 [^c15107581]: Modification: S. 119(1) amended by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [ss. 1](https://www.legislation.gov.uk/ukpga/1985/51/section/1), [57(7)](https://www.legislation.gov.uk/ukpga/1985/51/section/57/7), [Sch. 13 para. 12](https://www.legislation.gov.uk/ukpga/1985/51/schedule/13/paragraph/12)(*b*)
 
-[^key-02a4db8004cb69e6e2ba5fa3f42dbec5]: Modification: S. 119(1) applied (with modifications) (1.4.2015) by [The Dorset and Wiltshire Fire and Rescue Authority (Combination Scheme) Order 2015 (S.I. 2015/435)](https://www.legislation.gov.uk/uksi/2015/435), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/435/article/1/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2015/435/schedule/paragraph/19)
+[^c-02a4db8004cb69e6e2ba5fa3f42dbec5]: Modification: S. 119(1) applied (with modifications) (1.4.2015) by [The Dorset and Wiltshire Fire and Rescue Authority (Combination Scheme) Order 2015 (S.I. 2015/435)](https://www.legislation.gov.uk/uksi/2015/435), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/435/article/1/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2015/435/schedule/paragraph/19)
 
 [^c15107591]: Marginal citation: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
 
-[^key-a7b7090509c16f5d030c0e2ecaea5b26]: Modification: S. 119(2) applied (with modifications) (1.4.2015) by [The Dorset and Wiltshire Fire and Rescue Authority (Combination Scheme) Order 2015 (S.I. 2015/435)](https://www.legislation.gov.uk/uksi/2015/435), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/435/article/1/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2015/435/schedule/paragraph/19)
+[^c-a7b7090509c16f5d030c0e2ecaea5b26]: Modification: S. 119(2) applied (with modifications) (1.4.2015) by [The Dorset and Wiltshire Fire and Rescue Authority (Combination Scheme) Order 2015 (S.I. 2015/435)](https://www.legislation.gov.uk/uksi/2015/435), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/435/article/1/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2015/435/schedule/paragraph/19)
 
 [^c15107601]: Textual amendment: Words repealed by [Social Security Act 1986 (c. 50, SIF 113:1)](https://www.legislation.gov.uk/ukpga/1986/50), [s. 86](https://www.legislation.gov.uk/ukpga/1986/50/section/86), [Sch. 11](https://www.legislation.gov.uk/ukpga/1986/50/schedule/11)
 
 [^c15107611]: Marginal citation: [1965 c. 32](https://www.legislation.gov.uk/ukpga/1965/32).
 
-[^key-7c4f8986d65e784e5efe3261c449d894]: Textual amendment: [S. 119(5)](https://www.legislation.gov.uk/ukpga/1972/70/section/119/5) inserted (1.4.2023) by [The Local Government and Elections (Wales) Act 2021 (Corporate Joint Committees) (Consequential Amendments) Order 2023 (S.I. 2023/402)](https://www.legislation.gov.uk/uksi/2023/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/402/article/1/3), [3](https://www.legislation.gov.uk/uksi/2023/402/article/3)
+[^c-7c4f8986d65e784e5efe3261c449d894]: Textual amendment: [S. 119(5)](https://www.legislation.gov.uk/ukpga/1972/70/section/119/5) inserted (1.4.2023) by [The Local Government and Elections (Wales) Act 2021 (Corporate Joint Committees) (Consequential Amendments) Order 2023 (S.I. 2023/402)](https://www.legislation.gov.uk/uksi/2023/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/402/article/1/3), [3](https://www.legislation.gov.uk/uksi/2023/402/article/3)

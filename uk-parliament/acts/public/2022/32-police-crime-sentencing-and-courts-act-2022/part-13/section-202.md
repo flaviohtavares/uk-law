@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 202. Expedited procedure for initial regulations about remote observation of proceedings[^key-e44a3992330a9a50445db0d0e8f6dd79]
+## 202. Expedited procedure for initial regulations about remote observation of proceedings[^c-e44a3992330a9a50445db0d0e8f6dd79]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e44a3992330a9a50445db0d0e8f6dd79]: Commencement: S. 202 in force at Royal Assent, see [s. 208(4)(ab)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/ab)
+[^c-e44a3992330a9a50445db0d0e8f6dd79]: Commencement: S. 202 in force at Royal Assent, see [s. 208(4)(ab)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/ab)

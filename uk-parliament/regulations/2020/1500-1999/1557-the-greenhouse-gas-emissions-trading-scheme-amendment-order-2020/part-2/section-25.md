@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Article 49 amended (regulator must publish names of persons subject to civil penalty under article 52)[^key-95873f773147d98e60eb901045e47251]
+## 25. Article 49 amended (regulator must publish names of persons subject to civil penalty under article 52)[^c-95873f773147d98e60eb901045e47251]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95873f773147d98e60eb901045e47251]: Commencement: Art. 25 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-95873f773147d98e60eb901045e47251]: Commencement: Art. 25 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

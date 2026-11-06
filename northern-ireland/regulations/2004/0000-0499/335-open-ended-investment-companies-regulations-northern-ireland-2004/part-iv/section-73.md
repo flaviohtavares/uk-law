@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73. Delivery of documents to the Authority[^key-a53409d873a09398cb8821ce741b3ef9]
+## 73. Delivery of documents to the Authority[^c-a53409d873a09398cb8821ce741b3ef9]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Any document which is required by these Regulations to be delivered to the Autho
 
 ## Annotations
 
-[^key-a53409d873a09398cb8821ce741b3ef9]: Commencement: [Reg. 73](https://www.legislation.gov.uk/nisr/2004/335/regulation/73) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-a53409d873a09398cb8821ce741b3ef9]: Commencement: [Reg. 73](https://www.legislation.gov.uk/nisr/2004/335/regulation/73) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

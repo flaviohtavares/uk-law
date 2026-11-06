@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 310C. Duty of promoters to provide updated information[^key-f4f6ebc26fbc8926dbe6368675c577f9]
+## 310C. Duty of promoters to provide updated information[^c-f4f6ebc26fbc8926dbe6368675c577f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f4f6ebc26fbc8926dbe6368675c577f9]: Textual amendment: S. 310C inserted (with application in accordance with Sch. 17 para. 19 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 17 para. 1](https://www.legislation.gov.uk/ukpga/2015/11/schedule/17/paragraph/1)
+[^c-f4f6ebc26fbc8926dbe6368675c577f9]: Textual amendment: S. 310C inserted (with application in accordance with Sch. 17 para. 19 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 17 para. 1](https://www.legislation.gov.uk/ukpga/2015/11/schedule/17/paragraph/1)

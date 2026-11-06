@@ -22,14 +22,14 @@ summary: ''
 
 Section 112
 
-### Part 1 — Appointment of senior police officers[^key-ff929631a167d06e420c6b127e1cd691]
+### Part 1 — Appointment of senior police officers[^c-ff929631a167d06e420c6b127e1cd691]
 
 | *Reference* | *Extent of repeal* |
 | --- | --- |
 | Police Act 1996 | Section 54(3A). |
 | Police Reform Act 2002 (c. 30) | Section 84. |
 
-### Part 2 — Sexual offences[^key-4811860ad1d95e74e654ec6d20c33701]
+### Part 2 — Sexual offences[^c-4811860ad1d95e74e654ec6d20c33701]
 
 <table>
 <tfoot>
@@ -51,14 +51,14 @@ Section 112
 </tbody>
 </table>
 
-### Part 3 — Alcohol misuse[^key-8056828db1c18a02698e9209b7e0ea5d]
+### Part 3 — Alcohol misuse[^c-8056828db1c18a02698e9209b7e0ea5d]
 
 | *Reference* | *Extent of repeal* |
 | --- | --- |
 | Confiscation of Alcohol (Young Persons) Act 1997 (c. 33) | In section 1—<br>- (a) in subsection (1), “and to state his name and address”,<br>- (b) subsection (1A), and<br>- (c) in subsection (6), “and (1A)”. |
 | Licensing Act 2003 (c. 17) | Section 155(1)(b) and (c). |
 
-### Part 4 — Proceeds of crime: confiscation[^key-e62500fdeb0b87f06f45c6d5a973b913][^key-35d3342a22262c9460b228379c796d0a]
+### Part 4 — Proceeds of crime: confiscation[^c-e62500fdeb0b87f06f45c6d5a973b913][^c-35d3342a22262c9460b228379c796d0a]
 
 <table>
 <tbody>
@@ -82,7 +82,7 @@ Section 112
 </tbody>
 </table>
 
-### Part 5 — Proceeds of crime: detained cash investigations[^key-7542eb38beeec6895ed9d2c5cbd22351][^key-067d4585397091a18cb6874c4b8a4f9f][^key-d69eb47e4b6ab5432c5a72288d6f88cf]
+### Part 5 — Proceeds of crime: detained cash investigations[^c-7542eb38beeec6895ed9d2c5cbd22351][^c-067d4585397091a18cb6874c4b8a4f9f][^c-d69eb47e4b6ab5432c5a72288d6f88cf]
 
 <table>
 <tbody>
@@ -100,7 +100,7 @@ Section 112
 </tbody>
 </table>
 
-### Part 6 — Extradition[^key-6233d840b65279743e28a15a2fd63b7f]
+### Part 6 — Extradition[^c-6233d840b65279743e28a15a2fd63b7f]
 
 <table>
 <tbody>
@@ -110,7 +110,7 @@ Section 112
 </tbody>
 </table>
 
-### Part 7 — Security planning at airports[^key-ca6053c593b06b598a3e46ba0b9d7bb2]
+### Part 7 — Security planning at airports[^c-ca6053c593b06b598a3e46ba0b9d7bb2]
 
 <table>
 <tbody>
@@ -123,7 +123,7 @@ Section 112
 </tbody>
 </table>
 
-### Part 8 — Safeguarding vulnerable groups and criminal records[^key-e99cb659f48a6c755d5fc826ee5a3819]
+### Part 8 — Safeguarding vulnerable groups and criminal records[^c-e99cb659f48a6c755d5fc826ee5a3819]
 
 <table>
 <tfoot>
@@ -146,9 +146,9 @@ Section 112
 </tbody>
 </table>
 
-[^key-6e1d824bc6b9ef9da46b6c2cc6a82235][^key-6e1d824bc6b9ef9da46b6c2cc6a82235]
+[^c-6e1d824bc6b9ef9da46b6c2cc6a82235][^c-6e1d824bc6b9ef9da46b6c2cc6a82235]
 
-### Part 9 — Border control powers in relation to cash[^key-18e4c481cf4b6da52096004e9d7d3b34]
+### Part 9 — Border control powers in relation to cash[^c-18e4c481cf4b6da52096004e9d7d3b34]
 
 | *Reference* | *Extent of repeal* |
 | --- | --- |
@@ -170,7 +170,7 @@ Section 112
 </tbody>
 </table>
 
-### Part 11 — Football spectators[^key-470c2c20d92b3ed8a371a0e3184c0215]
+### Part 11 — Football spectators[^c-470c2c20d92b3ed8a371a0e3184c0215]
 
 <table>
 <tbody>
@@ -248,30 +248,30 @@ Section 112
 
 ## Annotations
 
-[^key-ff929631a167d06e420c6b127e1cd691]: Commencement: Sch. 8 Pt. 1 in force at 19.4.2010 by [S.I. 2010/999](https://www.legislation.gov.uk/uksi/2010/999), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/999/article/2/d)
+[^c-ff929631a167d06e420c6b127e1cd691]: Commencement: Sch. 8 Pt. 1 in force at 19.4.2010 by [S.I. 2010/999](https://www.legislation.gov.uk/uksi/2010/999), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/999/article/2/d)
 
-[^key-4811860ad1d95e74e654ec6d20c33701]: Commencement: Sch. 8 Pt. 2 in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(x)](https://www.legislation.gov.uk/uksi/2010/507/article/5/x)
+[^c-4811860ad1d95e74e654ec6d20c33701]: Commencement: Sch. 8 Pt. 2 in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(x)](https://www.legislation.gov.uk/uksi/2010/507/article/5/x)
 
-[^key-8056828db1c18a02698e9209b7e0ea5d]: Commencement: Sch. 8 Pt. 3 in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(u)](https://www.legislation.gov.uk/uksi/2010/125/article/2/u)
+[^c-8056828db1c18a02698e9209b7e0ea5d]: Commencement: Sch. 8 Pt. 3 in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(u)](https://www.legislation.gov.uk/uksi/2010/125/article/2/u)
 
-[^key-e62500fdeb0b87f06f45c6d5a973b913]: Commencement: Sch. 8 Pt. 4 in force at 1.6.2015 for specified purposes by [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(f)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/f)
+[^c-e62500fdeb0b87f06f45c6d5a973b913]: Commencement: Sch. 8 Pt. 4 in force at 1.6.2015 for specified purposes by [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(f)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/f)
 
-[^key-35d3342a22262c9460b228379c796d0a]: Commencement: [Sch. 8 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/4) in force at 1.3.2016 in so far as not already in force by [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(k)](https://www.legislation.gov.uk/uksi/2016/147/article/3/k)
+[^c-35d3342a22262c9460b228379c796d0a]: Commencement: [Sch. 8 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/4) in force at 1.3.2016 in so far as not already in force by [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(k)](https://www.legislation.gov.uk/uksi/2016/147/article/3/k)
 
-[^key-7542eb38beeec6895ed9d2c5cbd22351]: Commencement: Sch. 8 Pt. 5 in force at 22.11.2014 for specified purposes by [S.I. 2014/3101](https://www.legislation.gov.uk/uksi/2014/3101), [art. 3](https://www.legislation.gov.uk/uksi/2014/3101/article/3)
+[^c-7542eb38beeec6895ed9d2c5cbd22351]: Commencement: Sch. 8 Pt. 5 in force at 22.11.2014 for specified purposes by [S.I. 2014/3101](https://www.legislation.gov.uk/uksi/2014/3101), [art. 3](https://www.legislation.gov.uk/uksi/2014/3101/article/3)
 
-[^key-067d4585397091a18cb6874c4b8a4f9f]: Commencement: Sch. 8 Pt. 5 in force at 1.6.2015 for E.W.S. in so far as not already in force by [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/g) (with [art. 5](https://www.legislation.gov.uk/uksi/2015/983/article/5))
+[^c-067d4585397091a18cb6874c4b8a4f9f]: Commencement: Sch. 8 Pt. 5 in force at 1.6.2015 for E.W.S. in so far as not already in force by [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/g) (with [art. 5](https://www.legislation.gov.uk/uksi/2015/983/article/5))
 
-[^key-d69eb47e4b6ab5432c5a72288d6f88cf]: Commencement: [Sch. 8 Pt. 5](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/5) in force at 1.3.2016 in so far as not already in force by [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(l)](https://www.legislation.gov.uk/uksi/2016/147/article/3/l) (with [art. 5](https://www.legislation.gov.uk/uksi/2016/147/article/5))
+[^c-d69eb47e4b6ab5432c5a72288d6f88cf]: Commencement: [Sch. 8 Pt. 5](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/5) in force at 1.3.2016 in so far as not already in force by [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(l)](https://www.legislation.gov.uk/uksi/2016/147/article/3/l) (with [art. 5](https://www.legislation.gov.uk/uksi/2016/147/article/5))
 
-[^key-6233d840b65279743e28a15a2fd63b7f]: Commencement: Sch. 8 Pt. 6 in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(y)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/y) (with [art. 4(4)](https://www.legislation.gov.uk/uksi/2009/3096/article/4/4))
+[^c-6233d840b65279743e28a15a2fd63b7f]: Commencement: Sch. 8 Pt. 6 in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(y)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/y) (with [art. 4(4)](https://www.legislation.gov.uk/uksi/2009/3096/article/4/4))
 
-[^key-ca6053c593b06b598a3e46ba0b9d7bb2]: Commencement: Sch. 8 Pt. 7 in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(u)](https://www.legislation.gov.uk/uksi/2010/125/article/2/u)
+[^c-ca6053c593b06b598a3e46ba0b9d7bb2]: Commencement: Sch. 8 Pt. 7 in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(u)](https://www.legislation.gov.uk/uksi/2010/125/article/2/u)
 
-[^key-e99cb659f48a6c755d5fc826ee5a3819]: Commencement: Sch. 8 Pt. 8 in force at 29.1.2010 for specified purposes by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(u)](https://www.legislation.gov.uk/uksi/2010/125/article/2/u)
+[^c-e99cb659f48a6c755d5fc826ee5a3819]: Commencement: Sch. 8 Pt. 8 in force at 29.1.2010 for specified purposes by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(u)](https://www.legislation.gov.uk/uksi/2010/125/article/2/u)
 
-[^key-6e1d824bc6b9ef9da46b6c2cc6a82235]: Textual amendment: Entry in [Sch. 8 Pt. 8](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/8) repealed (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
+[^c-6e1d824bc6b9ef9da46b6c2cc6a82235]: Textual amendment: Entry in [Sch. 8 Pt. 8](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/8) repealed (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
 
-[^key-18e4c481cf4b6da52096004e9d7d3b34]: Commencement: Sch. 8 Pt. 9 in force at 25.1.2010 by [S.I. 2010/52](https://www.legislation.gov.uk/uksi/2010/52), [art. 2](https://www.legislation.gov.uk/uksi/2010/52/article/2)
+[^c-18e4c481cf4b6da52096004e9d7d3b34]: Commencement: Sch. 8 Pt. 9 in force at 25.1.2010 by [S.I. 2010/52](https://www.legislation.gov.uk/uksi/2010/52), [art. 2](https://www.legislation.gov.uk/uksi/2010/52/article/2)
 
-[^key-470c2c20d92b3ed8a371a0e3184c0215]: Commencement: Sch. 8 Pt. 11 in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(x)](https://www.legislation.gov.uk/uksi/2010/507/article/5/x)
+[^c-470c2c20d92b3ed8a371a0e3184c0215]: Commencement: Sch. 8 Pt. 11 in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(x)](https://www.legislation.gov.uk/uksi/2010/507/article/5/x)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Supplementary codes[^key-d7e3f912c8be9331fabbca791eb45860][^key-8d5363ffb8e01f638df50490788b5588]
+## 29. Supplementary codes[^c-d7e3f912c8be9331fabbca791eb45860][^c-8d5363ffb8e01f638df50490788b5588]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 (4) In preparing a set of rules, the Secretary of State must consult—
 
-- (a) the Information Commission[^key-3ac22da95cbbaf73a59d3b2fe105b838], and
+- (a) the Information Commission[^c-3ac22da95cbbaf73a59d3b2fe105b838], and
 - (b) such other persons as the Secretary of State considers appropriate.
 
 (5) The requirement in subsection (4) may be satisfied by consultation undertaken before the coming into force of this section.
@@ -54,8 +54,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d7e3f912c8be9331fabbca791eb45860]: Commencement: S. 29 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-d7e3f912c8be9331fabbca791eb45860]: Commencement: S. 29 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-8d5363ffb8e01f638df50490788b5588]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2025/18/section/29) in force at 1.12.2025 by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)
+[^c-8d5363ffb8e01f638df50490788b5588]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2025/18/section/29) in force at 1.12.2025 by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)
 
-[^key-3ac22da95cbbaf73a59d3b2fe105b838]: Textual amendment: Word in s. 29(4)(a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 28(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/28/2)[(3)(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/28/3/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-3ac22da95cbbaf73a59d3b2fe105b838]: Textual amendment: Word in s. 29(4)(a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 28(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/28/2)[(3)(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/28/3/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

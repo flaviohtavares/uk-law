@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Regulation (EU) No 1379/2013 of the European Parliament and of the Council on the common organisation of the markets in fishery and aquaculture products[^key-65955c8b8cb66716ad33130c3ebe2b0b]
+## 33. Regulation (EU) No 1379/2013 of the European Parliament and of the Council on the common organisation of the markets in fishery and aquaculture products[^c-65955c8b8cb66716ad33130c3ebe2b0b]
 
 *Extent: E+W+S+N.I.*
 
@@ -87,7 +87,7 @@ summary: ''
 
 ## Annotations
 
-[^key-65955c8b8cb66716ad33130c3ebe2b0b]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-65955c8b8cb66716ad33130c3ebe2b0b]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
 [^c24328241]: Marginal citation: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
 

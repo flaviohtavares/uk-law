@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Directions and guidance[^key-95a995b78f81b097e6146f5e26f1180e]
+## 6. Directions and guidance[^c-95a995b78f81b097e6146f5e26f1180e]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ given to it under subsection (1).
 
 ## Annotations
 
-[^key-95a995b78f81b097e6146f5e26f1180e]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2015/7/section/6) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-95a995b78f81b097e6146f5e26f1180e]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2015/7/section/6) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)

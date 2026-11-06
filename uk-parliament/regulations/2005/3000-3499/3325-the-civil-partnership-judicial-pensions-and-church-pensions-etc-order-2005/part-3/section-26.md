@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**26.**[^key-b8c4c8702f5680cf34f276ad5a4d5f16] (1) In section 128 (persons serving again after retirement), paragraph (a) is amended as follows.
+**26.**[^c-b8c4c8702f5680cf34f276ad5a4d5f16] (1) In section 128 (persons serving again after retirement), paragraph (a) is amended as follows.
 
 (2) After “marrying” insert “or forming a civil partnership”.
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8c4c8702f5680cf34f276ad5a4d5f16]: Commencement: Art. 26 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-b8c4c8702f5680cf34f276ad5a4d5f16]: Commencement: Art. 26 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

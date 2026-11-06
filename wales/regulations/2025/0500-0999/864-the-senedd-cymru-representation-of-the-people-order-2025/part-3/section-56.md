@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Party list candidates: declarations as to personal expenses[^key-0054e4d89ab6dd0eb211baec0f410e1d]
+## 56. Party list candidates: declarations as to personal expenses[^c-0054e4d89ab6dd0eb211baec0f410e1d]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0054e4d89ab6dd0eb211baec0f410e1d]: Commencement: Art. 56 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-0054e4d89ab6dd0eb211baec0f410e1d]: Commencement: Art. 56 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

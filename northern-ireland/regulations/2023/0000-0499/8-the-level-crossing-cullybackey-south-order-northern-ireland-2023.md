@@ -48,13 +48,13 @@ The Department did not receive from that council any representation in respect o
 
 The Department for Infrastructure makes the following Order in exercise of the powers conferred by section 66(1) and (2) of the Transport Act (Northern Ireland) 1967 and now vested in it[^f00003].
 
-## 1. Citation, commencement and interpretation[^key-3ccf6d9a0b222b4808723ac8c446e550]
+## 1. Citation, commencement and interpretation[^c-3ccf6d9a0b222b4808723ac8c446e550]
 
 (1) This Order may be cited as the Level Crossing (Cullybackey South) Order (Northern Ireland) 2023 and shall come into operation on 20<sup>th</sup> February 2023.
 
 (2) In this Order “**the crossing**” means the Cullybackey South Level Crossing in the Borough of Ballymena and the County of Antrim whereby the road known as Ballymena Road is crossed by the railway between Ballymena and Ballymoney Stations (NI Grid Reference D 065 052).
 
-## 2. Suspension of statutory provisions[^key-80f5f6c3a7000ffa8a488239dc1076c3]
+## 2. Suspension of statutory provisions[^c-80f5f6c3a7000ffa8a488239dc1076c3]
 
 While this Order remains in force—
 
@@ -64,7 +64,7 @@ While this Order remains in force—
 
 shall not apply in relation to the crossing.
 
-## 3. Provision of equipment[^key-6f0e88d8947fce83cb9f40d251b06090]
+## 3. Provision of equipment[^c-6f0e88d8947fce83cb9f40d251b06090]
 
 The railway undertaking shall at the crossing—
 
@@ -72,7 +72,7 @@ The railway undertaking shall at the crossing—
 - (b) secure the provision, maintenance and operation by that Department of the traffic signs specified in Schedule 1; and
 - (c) comply with the conditions and requirements specified in Schedule 2.
 
-## 4. Revocation[^key-0a24893f0c912111fc30035ef1103b1f]
+## 4. Revocation[^c-0a24893f0c912111fc30035ef1103b1f]
 
 The Level Crossing (Cullybackey South) Order (Northern Ireland) 2015[^f00006] is hereby revoked.
 
@@ -86,93 +86,93 @@ A senior officer of the Department for Infrastructure
 
 Article 3 (a) and (b)
 
-**1.**[^key-815596d20a56ec1f939e430f602969ef] Cattle-cum-trespass guards of standard railway design shall be provided adjacent to the ground, which is made up to the level of the carriageway. The guards shall extend the full distance between the fence on each side of the railway.
+**1.**[^c-815596d20a56ec1f939e430f602969ef] Cattle-cum-trespass guards of standard railway design shall be provided adjacent to the ground, which is made up to the level of the carriageway. The guards shall extend the full distance between the fence on each side of the railway.
 
-**2.**[^key-6813eae2fb1cf8ab1dbfb1270680df80] A barrier shall be provided and pivoted as close to the railway on both sides of the road on each approach to the crossing. Barriers shall be aligned as parallel to the railway as practicable to reduce the crossing length.
+**2.**[^c-6813eae2fb1cf8ab1dbfb1270680df80] A barrier shall be provided and pivoted as close to the railway on both sides of the road on each approach to the crossing. Barriers shall be aligned as parallel to the railway as practicable to reduce the crossing length.
 
-**3.**[^key-853f274f9cbb4bf3d4e2ae7c21bc69a6] It shall be possible to raise and lower the barriers. When lowered, the barriers shall be as nearly horizontal as possible and shall extend across the full width of the carriageway and the footway.
+**3.**[^c-853f274f9cbb4bf3d4e2ae7c21bc69a6] It shall be possible to raise and lower the barriers. When lowered, the barriers shall be as nearly horizontal as possible and shall extend across the full width of the carriageway and the footway.
 
-**4.**[^key-9d9c056edc84968cfbcfa8cc5259d2d4] When the barriers are fully lowered, their uppermost surfaces shall be not less than 900mm above the road surface at the centre of the carriageway and the under-clearance between the barrier and the road shall not exceed 1 metre.
+**4.**[^c-9d9c056edc84968cfbcfa8cc5259d2d4] When the barriers are fully lowered, their uppermost surfaces shall be not less than 900mm above the road surface at the centre of the carriageway and the under-clearance between the barrier and the road shall not exceed 1 metre.
 
-**5.**[^key-d8746da5760680b1cec09b2cc0d18efe] When in the fully raised position, the barrier shall be inclined towards the carriageway an angle of between 5 and 10 degrees from the vertical. No part of either barrier or of any attachment thereto which is less than 5 metres above the level of the carriageway shall be horizontally displaced from the nearer edge of the carriageway by less than 450mm. No part of any barrier or any attachment thereto which in either case is less than 2 metres above the level of the footway shall normally be horizontally displaced from the edge of the footway further from the carriageway by less than 150mm.
+**5.**[^c-d8746da5760680b1cec09b2cc0d18efe] When in the fully raised position, the barrier shall be inclined towards the carriageway an angle of between 5 and 10 degrees from the vertical. No part of either barrier or of any attachment thereto which is less than 5 metres above the level of the carriageway shall be horizontally displaced from the nearer edge of the carriageway by less than 450mm. No part of any barrier or any attachment thereto which in either case is less than 2 metres above the level of the footway shall normally be horizontally displaced from the edge of the footway further from the carriageway by less than 150mm.
 
-**6.**[^key-8423d5431f8f8550a7e182be9a9d53f0] The barriers shall be as light as possible but shall also be strong enough to prevent distortion or fracture likely to be caused by wind pressure. It shall be possible to raise them by hand.
+**6.**[^c-8423d5431f8f8550a7e182be9a9d53f0] The barriers shall be as light as possible but shall also be strong enough to prevent distortion or fracture likely to be caused by wind pressure. It shall be possible to raise them by hand.
 
-**7.**[^key-e55d52fc2393d01288fe021f969d9fdc] The barriers shall be fitted with skirts so arranged that when the barriers are lowered the skirts fence in the space between the barrier and the ground.
+**7.**[^c-e55d52fc2393d01288fe021f969d9fdc] The barriers shall be fitted with skirts so arranged that when the barriers are lowered the skirts fence in the space between the barrier and the ground.
 
-**8.**[^key-9a1fc1551438f7317a9ad63121cdf571] Three electric lamps, or equivalent (light emitting diodes) each of not less than 5 watts nominal rating or equivalent and with lenses not less than 50mm diameter, shall be fitted to each barrier, one within 150mm of its tip and the other 2 equally spaced. When illuminated, the lamps shall show a red light in each direction along the carriageway.
+**8.**[^c-9a1fc1551438f7317a9ad63121cdf571] Three electric lamps, or equivalent (light emitting diodes) each of not less than 5 watts nominal rating or equivalent and with lenses not less than 50mm diameter, shall be fitted to each barrier, one within 150mm of its tip and the other 2 equally spaced. When illuminated, the lamps shall show a red light in each direction along the carriageway.
 
-**9.**[^key-5df3d36cf8fbf4adfda3311f353681c9] The barriers shall display on both front and rear faces alternate red and white bands each approximately 600mm long and to the full depth of the barriers. A band of red retro-reflecting material not less than 50mm deep shall be provided along the length of each red band.
+**9.**[^c-5df3d36cf8fbf4adfda3311f353681c9] The barriers shall display on both front and rear faces alternate red and white bands each approximately 600mm long and to the full depth of the barriers. A band of red retro-reflecting material not less than 50mm deep shall be provided along the length of each red band.
 
-**10.**[^key-20b82e17d90e3cf22f0e66aac129c134] Suitable screening shall be provided for each barrier machine to guard against danger to persons from the operating mechanisms and moving parts of the machine.
+**10.**[^c-20b82e17d90e3cf22f0e66aac129c134] Suitable screening shall be provided for each barrier machine to guard against danger to persons from the operating mechanisms and moving parts of the machine.
 
-**11.**[^key-9ee984df7c82d404eb655802b4bc3e2d] A traffic light signal of the size, colour and type shown in Diagram 3104 of the Regulations shall be provided on the left-hand side of the road on each approach to the crossing and as close as practicable to the barrier. There shall be an additional traffic light signal of the same type on the right-hand side of the road on each approach to the crossing so located to be either in line with or on the railway side of the stop line mentioned in paragraph 13. The traffic light signals on each side of the railway shall be positioned so as to face outwards from the crossing towards approaching traffic. All the signals shall be capable of directional adjustment.
+**11.**[^c-9ee984df7c82d404eb655802b4bc3e2d] A traffic light signal of the size, colour and type shown in Diagram 3104 of the Regulations shall be provided on the left-hand side of the road on each approach to the crossing and as close as practicable to the barrier. There shall be an additional traffic light signal of the same type on the right-hand side of the road on each approach to the crossing so located to be either in line with or on the railway side of the stop line mentioned in paragraph 13. The traffic light signals on each side of the railway shall be positioned so as to face outwards from the crossing towards approaching traffic. All the signals shall be capable of directional adjustment.
 
-**12.**[^key-38834c54c9cde6f81a6bbee2d642cb06] An audible warning device shall be provided on or adjacent to each left hand side traffic light signal post on each approach to the crossing. Facilities shall be provided to reduce the sound output of these devices and any reduced sound output shall operate to suit local day and night conditions.
+**12.**[^c-38834c54c9cde6f81a6bbee2d642cb06] An audible warning device shall be provided on or adjacent to each left hand side traffic light signal post on each approach to the crossing. Facilities shall be provided to reduce the sound output of these devices and any reduced sound output shall operate to suit local day and night conditions.
 
-**13.**[^key-0014059794330c8115e9a21d225506eb] A reflectorised stop line of the size and type shown in Diagram 1001 in the Regulations shall be provided across the left-hand side of carriageway on each approach to the crossing approximately 1 metre before the left-hand side traffic signal. Where this is not achievable due to crossing skew, the stop line shall be positioned in line with or in front of the duplicate traffic light signal. A stop line shall not be located behind a road traffic light signal in any circumstances.
+**13.**[^c-0014059794330c8115e9a21d225506eb] A reflectorised stop line of the size and type shown in Diagram 1001 in the Regulations shall be provided across the left-hand side of carriageway on each approach to the crossing approximately 1 metre before the left-hand side traffic signal. Where this is not achievable due to crossing skew, the stop line shall be positioned in line with or in front of the duplicate traffic light signal. A stop line shall not be located behind a road traffic light signal in any circumstances.
 
-**14.**[^key-c194a8b75ed1de8470680bc8efc85713] Where the road passes over the crossing, reflectorised edge of road markings of the size and type shown in Diagram 1012.1 in the Regulations shall be provided along each edge of the carriageway or made-up ground along each edge of the carriageway.
+**14.**[^c-c194a8b75ed1de8470680bc8efc85713] Where the road passes over the crossing, reflectorised edge of road markings of the size and type shown in Diagram 1012.1 in the Regulations shall be provided along each edge of the carriageway or made-up ground along each edge of the carriageway.
 
-**15.**[^key-ba575330433072d18fbf5744089e432b] The centre line of the carriageway shall be marked on the crossing between the stop lines mentioned in paragraph 13 and for a distance of approximately 14 metres on the west side of the railway measured along the centre of the carriageway from stop lines to hatched markings to Diagram 1040 with a reflectorised double continuous line road marking of the size and type shown in Diagram 1013.1A in the Regulations.
+**15.**[^c-ba575330433072d18fbf5744089e432b] The centre line of the carriageway shall be marked on the crossing between the stop lines mentioned in paragraph 13 and for a distance of approximately 14 metres on the west side of the railway measured along the centre of the carriageway from stop lines to hatched markings to Diagram 1040 with a reflectorised double continuous line road marking of the size and type shown in Diagram 1013.1A in the Regulations.
 
-**16.**[^key-1d85021a72a6258a7211124067839324] The centre line of the carriageway shall be marked on the crossing between the stop lines mentioned in paragraph 13 and for a distance of approximately 48 metres on the east side of the railway measured along the centre of the carriageway from the stop lines with a reflectorised double lines of the size, colour and type shown in Diagram 1013.1D in the Regulations wherein the continuous line is on the left-hand side of the broken line.
+**16.**[^c-1d85021a72a6258a7211124067839324] The centre line of the carriageway shall be marked on the crossing between the stop lines mentioned in paragraph 13 and for a distance of approximately 48 metres on the east side of the railway measured along the centre of the carriageway from the stop lines with a reflectorised double lines of the size, colour and type shown in Diagram 1013.1D in the Regulations wherein the continuous line is on the left-hand side of the broken line.
 
-**17.**[^key-d8514bcd62198d3d20f65d59399e97a7] At least two carriageway markings of the size, colour and type shown in Diagram 1014 in the Regulations shall be marked on the carriageway in an appropriate position on the approach side of the road marking described in paragraph 16.
+**17.**[^c-d8514bcd62198d3d20f65d59399e97a7] At least two carriageway markings of the size, colour and type shown in Diagram 1014 in the Regulations shall be marked on the carriageway in an appropriate position on the approach side of the road marking described in paragraph 16.
 
-**18.**[^key-db2019dcf02b3cc2da757422281a7ec9] A traffic sign of the size, colour and type shown in Diagram 770 in the Regulations shall be provided on the left-hand side of each road approach to the crossing facing traffic approaching the crossing. Below this, a traffic sign of the size, colour and type shown in Diagram 773 in the Regulations shall be provided facing traffic approaching the crossing.
+**18.**[^c-db2019dcf02b3cc2da757422281a7ec9] A traffic sign of the size, colour and type shown in Diagram 770 in the Regulations shall be provided on the left-hand side of each road approach to the crossing facing traffic approaching the crossing. Below this, a traffic sign of the size, colour and type shown in Diagram 773 in the Regulations shall be provided facing traffic approaching the crossing.
 
-**19.**[^key-f181d352b7c96ba39aa187bd50832960] There shall be a signal control centre at Coleraine. A closed-circuit television camera shall be provided at the crossing and shall be connected to a viewing monitor adjacent to the crossing control point in the control centre.
+**19.**[^c-f181d352b7c96ba39aa187bd50832960] There shall be a signal control centre at Coleraine. A closed-circuit television camera shall be provided at the crossing and shall be connected to a viewing monitor adjacent to the crossing control point in the control centre.
 
-**20.**[^key-dc03cd98dcca6bda32fd4e80568ae099] The control point shall have push-buttons to:
+**20.**[^c-dc03cd98dcca6bda32fd4e80568ae099] The control point shall have push-buttons to:
 
 - (a) lower the barriers – the ‘lower’ push-button;
 - (b) raise the barriers – the ‘raise’ push-button;
 - (c) release the protecting signals – the ‘crossing-clear’ push-button; and
 - (d) stop the lowering or raising of the barriers – the ‘stop’ push-button.
 
-**21.**[^key-b39afdda1e73e3a0ece69a19ca24b0d2] Facilities shall be provided at the crossing to operate the barriers and other protective equipment.
+**21.**[^c-b39afdda1e73e3a0ece69a19ca24b0d2] Facilities shall be provided at the crossing to operate the barriers and other protective equipment.
 
-**22.**[^key-9a62adf6d5bb718f1f3371eabb5dd0a8] Lighting shall be provided as necessary so that during the hours of darkness in conditions of normal visibility it can be seen from the control point that the crossing is clear whilst the barriers are being lowered, and until the ‘crossing-clear’ push-button is pressed.
+**22.**[^c-9a62adf6d5bb718f1f3371eabb5dd0a8] Lighting shall be provided as necessary so that during the hours of darkness in conditions of normal visibility it can be seen from the control point that the crossing is clear whilst the barriers are being lowered, and until the ‘crossing-clear’ push-button is pressed.
 
-**23.**[^key-35d966d56c81de6969040236d0bf4779] Protecting railway signals shall be provided. Whilst the barriers are raised the railway signals will be set at danger and it shall not be possible to clear those signals. It will also be possible to raise the barriers from their positions across the carriageway by hand or under local control.
+**23.**[^c-35d966d56c81de6969040236d0bf4779] Protecting railway signals shall be provided. Whilst the barriers are raised the railway signals will be set at danger and it shall not be possible to clear those signals. It will also be possible to raise the barriers from their positions across the carriageway by hand or under local control.
 
-**24.**[^key-22e524639726b1e939ea6fe5700364f4] In this Schedule “**the Regulations**” means the Traffic Signs Regulations (Northern Ireland) 1997[^f00007].
+**24.**[^c-22e524639726b1e939ea6fe5700364f4] In this Schedule “**the Regulations**” means the Traffic Signs Regulations (Northern Ireland) 1997[^f00007].
 
 ## SCHEDULE 2 — CONDITIONS AND REQUIREMENTS TO BE COMPLIED WITH BY THE RAILWAY UNDERTAKING
 
 Article 3 (c)
 
-**1.**[^key-76d02a5a2800ef4a901fb8ab3b1c1ed0] The carriageway shall be approximately 6.25 metres wide at the crossing.
+**1.**[^c-76d02a5a2800ef4a901fb8ab3b1c1ed0] The carriageway shall be approximately 6.25 metres wide at the crossing.
 
-**2.**[^key-065916edb03c997d0ef5a9dfc123441d] The ground at the two edge of the carriageway over the crossing shall be made-up to the level of the carriageway for the distance of approximately 1.8 metres beyond the southern edge, forming a footway, and 1 metre beyond the northern edge, forming a run-off area.
+**2.**[^c-065916edb03c997d0ef5a9dfc123441d] The ground at the two edge of the carriageway over the crossing shall be made-up to the level of the carriageway for the distance of approximately 1.8 metres beyond the southern edge, forming a footway, and 1 metre beyond the northern edge, forming a run-off area.
 
-**3.**[^key-0810e031b2eb9d13a4828a11e85ea920] The surface of the carriageway and footway/ run-off areas over the crossing shall be maintained in good and even condition.
+**3.**[^c-0810e031b2eb9d13a4828a11e85ea920] The surface of the carriageway and footway/ run-off areas over the crossing shall be maintained in good and even condition.
 
-**4.**[^key-72cabee387594f7964f4e520158b24dd] The barriers shall be kept in the fully raised position except during the time when engines, carriages or other vehicles passing along the railway have occasion to cross the road.
+**4.**[^c-72cabee387594f7964f4e520158b24dd] The barriers shall be kept in the fully raised position except during the time when engines, carriages or other vehicles passing along the railway have occasion to cross the road.
 
-**5.**[^key-127ad5c4ec4f70963c5eeecea1bd61d2] The electric lamps or equivalent (light emitting diodes) on each barrier mentioned in Schedule 1 shall be lit at all times except when the barriers are in the fully raised position.
+**5.**[^c-127ad5c4ec4f70963c5eeecea1bd61d2] The electric lamps or equivalent (light emitting diodes) on each barrier mentioned in Schedule 1 shall be lit at all times except when the barriers are in the fully raised position.
 
-**6.**[^key-543661a3bf20a397963fa698bca74312] The crossing shall be illuminated during the hours of darkness to such a standard that the operator can ascertain in conditions of normal visibility that the crossing is clear before the barriers are fully lowered.
+**6.**[^c-543661a3bf20a397963fa698bca74312] The crossing shall be illuminated during the hours of darkness to such a standard that the operator can ascertain in conditions of normal visibility that the crossing is clear before the barriers are fully lowered.
 
-**7.**[^key-108435f7e3e98fcc58b3bf649cfe8c98] The protecting signals shall be controlled from the signalling control centre containing the crossing control point.
+**7.**[^c-108435f7e3e98fcc58b3bf649cfe8c98] The protecting signals shall be controlled from the signalling control centre containing the crossing control point.
 
-**8.**[^key-20ecfdb59b0100f737d5e4196727f6af] The picture of the crossing shall be exhibited on the television monitor before the sequence of events to close the crossing to road traffic begins. The picture shall continue to be exhibited until either the barriers are fully raised after the ‘raise’ push-button is pressed, or if automatic raising is in operation after the ‘crossing-clear’ push-button is pressed.
+**8.**[^c-20ecfdb59b0100f737d5e4196727f6af] The picture of the crossing shall be exhibited on the television monitor before the sequence of events to close the crossing to road traffic begins. The picture shall continue to be exhibited until either the barriers are fully raised after the ‘raise’ push-button is pressed, or if automatic raising is in operation after the ‘crossing-clear’ push-button is pressed.
 
-**9.**[^key-aec3264b5e0982c0990b1da10371c926] Visual indictors and an audible alarm shall be provided at the control point. The indicators shall show when:
+**9.**[^c-aec3264b5e0982c0990b1da10371c926] Visual indictors and an audible alarm shall be provided at the control point. The indicators shall show when:
 
 - (a) the main power supply is available;
 - (b) all barriers are fully raised;
 - (c) all the barriers are fully lowered;
 - (d) at least one of the intermittent red lights of the traffic light signals on each side of the railway is showing along the carriageway.
 
-**10.**[^key-abbf2a7b4d744eba31fc7e6a60b64fa6] The audible alarm shall sound if:
+**10.**[^c-abbf2a7b4d744eba31fc7e6a60b64fa6] The audible alarm shall sound if:
 
 - (a) any barrier is horizontally dislocated when in the fully lowered position;
 - (b) the main power supply fails;
 - (c) all the red traffic light signals facing in one direction fail.
 
-**11.**[^key-4523666fd665ab71ff5905c2dfa909f0] When the ‘lower’ push-button is pressed, or the train initiates the automatic lower sequence, the sequence of events to close the crossing to road traffic shall begin. The sequence shall be:
+**11.**[^c-4523666fd665ab71ff5905c2dfa909f0] When the ‘lower’ push-button is pressed, or the train initiates the automatic lower sequence, the sequence of events to close the crossing to road traffic shall begin. The sequence shall be:
 
 - (a) the amber lamps shall immediately show, and the audible warning shall begin. The lights shall show for approximately 3 seconds;
 - (b) immediately the amber lamps are extinguished the intermittent red lights shall show;
@@ -182,19 +182,19 @@ Article 3 (c)
 - (f) the audible warning shall stop when all the barriers are fully lowered;
 - (g) the train can then approach and pass over the crossing.
 
-**12.**[^key-991fecf6479cd70ff4cdd158aefea046] The arrangements shall be such that the protecting railway signals can only be cleared after the barriers are fully lowered and the ‘crossing clear’ push-button has been pressed. Unless the protecting signals have been cleared for another train, all the barriers shall rise simultaneously either after the ‘raise’ push-button has been pressed or automatically as soon as the train has passed clear of the crossing.
+**12.**[^c-991fecf6479cd70ff4cdd158aefea046] The arrangements shall be such that the protecting railway signals can only be cleared after the barriers are fully lowered and the ‘crossing clear’ push-button has been pressed. Unless the protecting signals have been cleared for another train, all the barriers shall rise simultaneously either after the ‘raise’ push-button has been pressed or automatically as soon as the train has passed clear of the crossing.
 
-**13.**[^key-b24eb706ac7299a759812c40e39ceb3b] If a train overruns a protecting signal the arrangements shall be such that the red lights will immediately show omitting the amber sequence, the audible warning shall sound and all barriers remain in the raised position.
+**13.**[^c-b24eb706ac7299a759812c40e39ceb3b] If a train overruns a protecting signal the arrangements shall be such that the red lights will immediately show omitting the amber sequence, the audible warning shall sound and all barriers remain in the raised position.
 
-**14.**[^key-7bf371b359635ce687528592f07c4b43] The intermittent red lights shall continue to show until the barriers have begun to rise and shall be extinguished before the barriers have risen to an angle of 45 degrees above the horizontal.
+**14.**[^c-7bf371b359635ce687528592f07c4b43] The intermittent red lights shall continue to show until the barriers have begun to rise and shall be extinguished before the barriers have risen to an angle of 45 degrees above the horizontal.
 
-**15.**[^key-eb107f3e4b6ac48616744d94d383463d] If, during the lowering sequence, both red road lights on any RTL are failed before the point in the sequence that the barriers are due to start lowering, then the barriers shall remain in the raised position. In this situation, the barriers can only be lowered from the local control unit until the fault is rectified. Once the barriers have begun to lower a further red light failure shall not stop or prevent them lowering.
+**15.**[^c-eb107f3e4b6ac48616744d94d383463d] If, during the lowering sequence, both red road lights on any RTL are failed before the point in the sequence that the barriers are due to start lowering, then the barriers shall remain in the raised position. In this situation, the barriers can only be lowered from the local control unit until the fault is rectified. Once the barriers have begun to lower a further red light failure shall not stop or prevent them lowering.
 
-**16.**[^key-1fb00dd94557b09d37d3004dc2738651] If the barriers do not achieve the fully raised position within 10 seconds of starting to raise, then the barriers stop in their present positions. The red RTL’s shall re-illuminate and a failed indication and alarm is given at the supervising control centre. A further 2 seconds may be added if required to allow for relay operation.
+**16.**[^c-1fb00dd94557b09d37d3004dc2738651] If the barriers do not achieve the fully raised position within 10 seconds of starting to raise, then the barriers stop in their present positions. The red RTL’s shall re-illuminate and a failed indication and alarm is given at the supervising control centre. A further 2 seconds may be added if required to allow for relay operation.
 
-**17.**[^key-60f57f93abd2bfd349bb0d0ebbc33eff] A failure indication can only be extinguished when the barriers are either in the fully raised or fully lowered position. In the fully raised position, the failure indication shall only extinguish if the RTL’s are also extinguished. RTL’s shall be taken to be extinguished if the controls are set for them to be extinguished. No light proving is required.
+**17.**[^c-60f57f93abd2bfd349bb0d0ebbc33eff] A failure indication can only be extinguished when the barriers are either in the fully raised or fully lowered position. In the fully raised position, the failure indication shall only extinguish if the RTL’s are also extinguished. RTL’s shall be taken to be extinguished if the controls are set for them to be extinguished. No light proving is required.
 
-**18.**[^key-445d99c4115387bf3b4c8d330e196f89] If automatic lowering or raising should take an abnormally long time an audible and visual warning shall be given at the control point.
+**18.**[^c-445d99c4115387bf3b4c8d330e196f89] If automatic lowering or raising should take an abnormally long time an audible and visual warning shall be given at the control point.
 
 EXPLANATORY NOTE
 
@@ -214,102 +214,102 @@ This Order revokes the Level Crossing (Cullybackey South) Order (Northern Irelan
 
 [^f00003]: Footnote: The functions of the Ministry of Development under the Transport Act (Northern Ireland) 1967 transferred to the Department of the Environment by [S.R. & O (N. I.) No. 1973 No. 504](https://www.legislation.gov.uk/nisro/1973/504) Article 4 and to the Department for Regional Development by [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) Article 6(d) and Schedule 4 Part IV, the Department for Regional Development was renamed the Department for Infrastructure by virtue of section 1(6) of [2016 c.5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5).
 
-[^key-3ccf6d9a0b222b4808723ac8c446e550]: Commencement: Art. 1 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-3ccf6d9a0b222b4808723ac8c446e550]: Commencement: Art. 1 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-80f5f6c3a7000ffa8a488239dc1076c3]: Commencement: Art. 2 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-80f5f6c3a7000ffa8a488239dc1076c3]: Commencement: Art. 2 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
 [^f00004]: Footnote: [1845 c.20](https://www.legislation.gov.uk/ukpga/1845/20)
 
 [^f00005]: Footnote: [1863 c.92](https://www.legislation.gov.uk/ukpga/1863/92)
 
-[^key-6f0e88d8947fce83cb9f40d251b06090]: Commencement: Art. 3 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-6f0e88d8947fce83cb9f40d251b06090]: Commencement: Art. 3 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-0a24893f0c912111fc30035ef1103b1f]: Commencement: Art. 4 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-0a24893f0c912111fc30035ef1103b1f]: Commencement: Art. 4 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
 [^f00006]: Footnote: [S.R. 2015 No. 13](https://www.legislation.gov.uk/nisr/2015/13)
 
-[^key-815596d20a56ec1f939e430f602969ef]: Commencement: Sch. 1 para. 1 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-815596d20a56ec1f939e430f602969ef]: Commencement: Sch. 1 para. 1 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-6813eae2fb1cf8ab1dbfb1270680df80]: Commencement: Sch. 1 para. 2 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-6813eae2fb1cf8ab1dbfb1270680df80]: Commencement: Sch. 1 para. 2 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-853f274f9cbb4bf3d4e2ae7c21bc69a6]: Commencement: Sch. 1 para. 3 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-853f274f9cbb4bf3d4e2ae7c21bc69a6]: Commencement: Sch. 1 para. 3 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-9d9c056edc84968cfbcfa8cc5259d2d4]: Commencement: Sch. 1 para. 4 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-9d9c056edc84968cfbcfa8cc5259d2d4]: Commencement: Sch. 1 para. 4 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-d8746da5760680b1cec09b2cc0d18efe]: Commencement: Sch. 1 para. 5 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-d8746da5760680b1cec09b2cc0d18efe]: Commencement: Sch. 1 para. 5 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-8423d5431f8f8550a7e182be9a9d53f0]: Commencement: Sch. 1 para. 6 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-8423d5431f8f8550a7e182be9a9d53f0]: Commencement: Sch. 1 para. 6 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-e55d52fc2393d01288fe021f969d9fdc]: Commencement: Sch. 1 para. 7 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-e55d52fc2393d01288fe021f969d9fdc]: Commencement: Sch. 1 para. 7 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-9a1fc1551438f7317a9ad63121cdf571]: Commencement: Sch. 1 para. 8 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-9a1fc1551438f7317a9ad63121cdf571]: Commencement: Sch. 1 para. 8 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-5df3d36cf8fbf4adfda3311f353681c9]: Commencement: Sch. 1 para. 9 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-5df3d36cf8fbf4adfda3311f353681c9]: Commencement: Sch. 1 para. 9 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-20b82e17d90e3cf22f0e66aac129c134]: Commencement: Sch. 1 para. 10 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-20b82e17d90e3cf22f0e66aac129c134]: Commencement: Sch. 1 para. 10 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-9ee984df7c82d404eb655802b4bc3e2d]: Commencement: Sch. 1 para. 11 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-9ee984df7c82d404eb655802b4bc3e2d]: Commencement: Sch. 1 para. 11 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-38834c54c9cde6f81a6bbee2d642cb06]: Commencement: Sch. 1 para. 12 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-38834c54c9cde6f81a6bbee2d642cb06]: Commencement: Sch. 1 para. 12 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-0014059794330c8115e9a21d225506eb]: Commencement: Sch. 1 para. 13 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-0014059794330c8115e9a21d225506eb]: Commencement: Sch. 1 para. 13 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-c194a8b75ed1de8470680bc8efc85713]: Commencement: Sch. 1 para. 14 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-c194a8b75ed1de8470680bc8efc85713]: Commencement: Sch. 1 para. 14 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-ba575330433072d18fbf5744089e432b]: Commencement: Sch. 1 para. 15 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-ba575330433072d18fbf5744089e432b]: Commencement: Sch. 1 para. 15 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-1d85021a72a6258a7211124067839324]: Commencement: Sch. 1 para. 16 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-1d85021a72a6258a7211124067839324]: Commencement: Sch. 1 para. 16 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-d8514bcd62198d3d20f65d59399e97a7]: Commencement: Sch. 1 para. 17 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-d8514bcd62198d3d20f65d59399e97a7]: Commencement: Sch. 1 para. 17 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-db2019dcf02b3cc2da757422281a7ec9]: Commencement: Sch. 1 para. 18 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-db2019dcf02b3cc2da757422281a7ec9]: Commencement: Sch. 1 para. 18 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-f181d352b7c96ba39aa187bd50832960]: Commencement: Sch. 1 para. 19 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-f181d352b7c96ba39aa187bd50832960]: Commencement: Sch. 1 para. 19 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-dc03cd98dcca6bda32fd4e80568ae099]: Commencement: Sch. 1 para. 20 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-dc03cd98dcca6bda32fd4e80568ae099]: Commencement: Sch. 1 para. 20 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-b39afdda1e73e3a0ece69a19ca24b0d2]: Commencement: Sch. 1 para. 21 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-b39afdda1e73e3a0ece69a19ca24b0d2]: Commencement: Sch. 1 para. 21 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-9a62adf6d5bb718f1f3371eabb5dd0a8]: Commencement: Sch. 1 para. 22 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-9a62adf6d5bb718f1f3371eabb5dd0a8]: Commencement: Sch. 1 para. 22 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-35d966d56c81de6969040236d0bf4779]: Commencement: Sch. 1 para. 23 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-35d966d56c81de6969040236d0bf4779]: Commencement: Sch. 1 para. 23 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-22e524639726b1e939ea6fe5700364f4]: Commencement: Sch. 1 para. 24 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-22e524639726b1e939ea6fe5700364f4]: Commencement: Sch. 1 para. 24 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
 [^f00007]: Footnote: [S.R. 1997 No. 386](https://www.legislation.gov.uk/nisr/1997/386), as amended by [S.R. 1999 No. 484](https://www.legislation.gov.uk/nisr/1999/484)
 
-[^key-76d02a5a2800ef4a901fb8ab3b1c1ed0]: Commencement: Sch. 2 para. 1 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-76d02a5a2800ef4a901fb8ab3b1c1ed0]: Commencement: Sch. 2 para. 1 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-065916edb03c997d0ef5a9dfc123441d]: Commencement: Sch. 2 para. 2 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-065916edb03c997d0ef5a9dfc123441d]: Commencement: Sch. 2 para. 2 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-0810e031b2eb9d13a4828a11e85ea920]: Commencement: Sch. 2 para. 3 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-0810e031b2eb9d13a4828a11e85ea920]: Commencement: Sch. 2 para. 3 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-72cabee387594f7964f4e520158b24dd]: Commencement: Sch. 2 para. 4 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-72cabee387594f7964f4e520158b24dd]: Commencement: Sch. 2 para. 4 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-127ad5c4ec4f70963c5eeecea1bd61d2]: Commencement: Sch. 2 para. 5 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-127ad5c4ec4f70963c5eeecea1bd61d2]: Commencement: Sch. 2 para. 5 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-543661a3bf20a397963fa698bca74312]: Commencement: Sch. 2 para. 6 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-543661a3bf20a397963fa698bca74312]: Commencement: Sch. 2 para. 6 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-108435f7e3e98fcc58b3bf649cfe8c98]: Commencement: Sch. 2 para. 7 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-108435f7e3e98fcc58b3bf649cfe8c98]: Commencement: Sch. 2 para. 7 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-20ecfdb59b0100f737d5e4196727f6af]: Commencement: Sch. 2 para. 8 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-20ecfdb59b0100f737d5e4196727f6af]: Commencement: Sch. 2 para. 8 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-aec3264b5e0982c0990b1da10371c926]: Commencement: Sch. 2 para. 9 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-aec3264b5e0982c0990b1da10371c926]: Commencement: Sch. 2 para. 9 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-abbf2a7b4d744eba31fc7e6a60b64fa6]: Commencement: Sch. 2 para. 10 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-abbf2a7b4d744eba31fc7e6a60b64fa6]: Commencement: Sch. 2 para. 10 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-4523666fd665ab71ff5905c2dfa909f0]: Commencement: Sch. 2 para. 11 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-4523666fd665ab71ff5905c2dfa909f0]: Commencement: Sch. 2 para. 11 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-991fecf6479cd70ff4cdd158aefea046]: Commencement: Sch. 2 para. 12 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-991fecf6479cd70ff4cdd158aefea046]: Commencement: Sch. 2 para. 12 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-b24eb706ac7299a759812c40e39ceb3b]: Commencement: Sch. 2 para. 13 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-b24eb706ac7299a759812c40e39ceb3b]: Commencement: Sch. 2 para. 13 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-7bf371b359635ce687528592f07c4b43]: Commencement: Sch. 2 para. 14 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-7bf371b359635ce687528592f07c4b43]: Commencement: Sch. 2 para. 14 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-eb107f3e4b6ac48616744d94d383463d]: Commencement: Sch. 2 para. 15 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-eb107f3e4b6ac48616744d94d383463d]: Commencement: Sch. 2 para. 15 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-1fb00dd94557b09d37d3004dc2738651]: Commencement: Sch. 2 para. 16 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-1fb00dd94557b09d37d3004dc2738651]: Commencement: Sch. 2 para. 16 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-60f57f93abd2bfd349bb0d0ebbc33eff]: Commencement: Sch. 2 para. 17 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-60f57f93abd2bfd349bb0d0ebbc33eff]: Commencement: Sch. 2 para. 17 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
 
-[^key-445d99c4115387bf3b4c8d330e196f89]: Commencement: Sch. 2 para. 18 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)
+[^c-445d99c4115387bf3b4c8d330e196f89]: Commencement: Sch. 2 para. 18 in operation at 20.2.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/8/article/1/1)

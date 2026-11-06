@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 63. Collective money purchase schemes - amendments to secondary legislation[^key-1042c52b00a933661294f3ed39e83f54]
+## 63. Collective money purchase schemes - amendments to secondary legislation[^c-1042c52b00a933661294f3ed39e83f54]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 7 contains consequential amendments to secondary legislation in relatio
 
 ## Annotations
 
-[^key-1042c52b00a933661294f3ed39e83f54]: Commencement: Reg. 63 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-1042c52b00a933661294f3ed39e83f54]: Commencement: Reg. 63 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

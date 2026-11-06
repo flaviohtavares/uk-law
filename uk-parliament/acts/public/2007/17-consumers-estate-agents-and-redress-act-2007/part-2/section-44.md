@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Requirements for making regulations under section 43[^key-4852d2a457128176898514296e363835]
+## 44. Requirements for making regulations under section 43[^c-4852d2a457128176898514296e363835]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4852d2a457128176898514296e363835]: Commencement: S. 44 in force at 21.12.2007 by [S.I. 2007/3546](https://www.legislation.gov.uk/uksi/2007/3546), [art. 3](https://www.legislation.gov.uk/uksi/2007/3546/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2007/3546/schedule)
+[^c-4852d2a457128176898514296e363835]: Commencement: S. 44 in force at 21.12.2007 by [S.I. 2007/3546](https://www.legislation.gov.uk/uksi/2007/3546), [art. 3](https://www.legislation.gov.uk/uksi/2007/3546/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2007/3546/schedule)

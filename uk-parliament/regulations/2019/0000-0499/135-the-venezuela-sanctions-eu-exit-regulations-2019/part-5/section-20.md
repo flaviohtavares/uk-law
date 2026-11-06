@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Definition of “interception and monitoring services”[^key-098158dad835cef3fd56c9a17977380b]
+## 20. Definition of “interception and monitoring services”[^c-098158dad835cef3fd56c9a17977380b]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-098158dad835cef3fd56c9a17977380b]: Commencement: Reg. 20 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/j)
+[^c-098158dad835cef3fd56c9a17977380b]: Commencement: Reg. 20 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/j)
 
 [^c23542891]: Marginal citation: [2006 c.36](https://www.legislation.gov.uk/ukpga/2006/36).

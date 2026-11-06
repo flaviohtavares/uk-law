@@ -37,17 +37,17 @@ Made
 
 The Welsh Ministers make the following Order in exercise of the powers conferred on them by section 147(2) of the Infrastructure (Wales) Act 2024[^f00001].
 
-## 1. Title[^key-74eeb59cbc02bd0559a6768d1e0f6961]
+## 1. Title[^c-74eeb59cbc02bd0559a6768d1e0f6961]
 
 The title of this Order is the Infrastructure (Wales) Act 2024 (Commencement No. 2) Order 2025.
 
-## 2. Provisions coming into force on 16 March 2026[^key-e8c634795021aef18eb0bff312115524]
+## 2. Provisions coming into force on 16 March 2026[^c-e8c634795021aef18eb0bff312115524]
 
 The following provisions of the Infrastructure (Wales) Act 2024 come into force on 16 March 2026—
 
 - (a) section 40(2);
 - (b) section 90;
-- (c) section 91 to the extent not already in force[^key-3e30addbfaa93d731b709f19aac53e51];
+- (c) section 91 to the extent not already in force[^c-3e30addbfaa93d731b709f19aac53e51];
 - (d) section 92(1)(c) and (3) to the extent not already in force;
 - (e) section 93;
 - (f) section 96(5), (6) and (8) to the extent not already in force;
@@ -109,8 +109,8 @@ See section 147 of the Act for the provisions which came into force on 4 June 20
 
 [^f00001]: Footnote: [2024 asc 3](https://www.legislation.gov.uk/asc/2024/3).
 
-[^key-74eeb59cbc02bd0559a6768d1e0f6961]: Commencement: Art. 1 in force at made date
+[^c-74eeb59cbc02bd0559a6768d1e0f6961]: Commencement: Art. 1 in force at made date
 
-[^key-e8c634795021aef18eb0bff312115524]: Commencement: Art. 2 in force at made date
+[^c-e8c634795021aef18eb0bff312115524]: Commencement: Art. 2 in force at made date
 
-[^key-3e30addbfaa93d731b709f19aac53e51]: Textual amendment: Words in [art. 2(c)](https://www.legislation.gov.uk/wsi/2025/1306/article/2/c) inserted (11.3.2026) by [The Infrastructure (Wales) Act 2024 (Amendment to Commencement Order No. 2) Order 2026 (W.S.I. 2026/68)](https://www.legislation.gov.uk/wsi/2026/68), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/68/article/1/2), [2(b)](https://www.legislation.gov.uk/wsi/2026/68/article/2/b)
+[^c-3e30addbfaa93d731b709f19aac53e51]: Textual amendment: Words in [art. 2(c)](https://www.legislation.gov.uk/wsi/2025/1306/article/2/c) inserted (11.3.2026) by [The Infrastructure (Wales) Act 2024 (Amendment to Commencement Order No. 2) Order 2026 (W.S.I. 2026/68)](https://www.legislation.gov.uk/wsi/2026/68), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/68/article/1/2), [2(b)](https://www.legislation.gov.uk/wsi/2026/68/article/2/b)

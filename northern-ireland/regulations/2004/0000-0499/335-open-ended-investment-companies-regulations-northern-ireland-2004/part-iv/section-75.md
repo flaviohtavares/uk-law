@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 75. Inspection etc. of records kept by the Authority[^key-84da07fce81be8696834dac1ca47dd50]
+## 75. Inspection etc. of records kept by the Authority[^c-84da07fce81be8696834dac1ca47dd50]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84da07fce81be8696834dac1ca47dd50]: Commencement: [Reg. 75](https://www.legislation.gov.uk/nisr/2004/335/regulation/75) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-84da07fce81be8696834dac1ca47dd50]: Commencement: [Reg. 75](https://www.legislation.gov.uk/nisr/2004/335/regulation/75) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

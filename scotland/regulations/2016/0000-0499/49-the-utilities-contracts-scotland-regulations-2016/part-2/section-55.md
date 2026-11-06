@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Procurement involving utilities from different member States[^key-f2020cd86ca3084bd9c6f071f15d62a1]
+## 55. Procurement involving utilities from different member States[^c-f2020cd86ca3084bd9c6f071f15d62a1]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2020cd86ca3084bd9c6f071f15d62a1]: Textual amendment: [Reg. 55](https://www.legislation.gov.uk/ssi/2016/49/regulation/55) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(34)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/34) (with [sch. paras. 1-6](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-f2020cd86ca3084bd9c6f071f15d62a1]: Textual amendment: [Reg. 55](https://www.legislation.gov.uk/ssi/2016/49/regulation/55) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(34)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/34) (with [sch. paras. 1-6](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

@@ -46,21 +46,21 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 These Regulations give effect without modifications to proposals submitted to the Secretary of State by the Health and Safety Executive under section 11(3) of the Act. Before submitting the proposals, the Health and Safety Executive consulted the Office for Nuclear Regulation[^f00002] and such other bodies as appeared to be appropriate as required by section 50(3) of the Act.
 
-## 1. Citation, commencement and extent[^key-ee121954f2c125c0edacc326b942ae99]
+## 1. Citation, commencement and extent[^c-ee121954f2c125c0edacc326b942ae99]
 
 (1) These Regulations may be cited as the Gas Safety (Management) (Amendment) Regulations 2023.
 
-(2) Regulation 14(2)(a)(v)[^key-c4d97622b6cd2f19ae6b1c48eb9629b2] comes into force on 6th April 2025.
+(2) Regulation 14(2)(a)(v)[^c-c4d97622b6cd2f19ae6b1c48eb9629b2] comes into force on 6th April 2025.
 
 (3) Otherwise, these Regulations come into force on 6th April 2023.
 
 (4) Any amendment made by these Regulations has the same extent as the provision amended.
 
-## 2. Amendment of the Gas Safety (Management) Regulations 1996[^key-04578dfa3c356f15818a2c6584ae4207]
+## 2. Amendment of the Gas Safety (Management) Regulations 1996[^c-04578dfa3c356f15818a2c6584ae4207]
 
 The Gas Safety (Management) Regulations 1996[^f00003] are amended in accordance with regulations 3 to 14.
 
-## 3. Amendment of regulation 2[^key-769821ff268c9a7419378453e0c9bbe5]
+## 3. Amendment of regulation 2[^c-769821ff268c9a7419378453e0c9bbe5]
 
 (1) Regulation 2 (interpretation) is amended as follows.
 
@@ -112,7 +112,7 @@ The Gas Safety (Management) Regulations 1996[^f00003] are amended in accordance 
 
 .
 
-## 4. Amendment of regulation 3[^key-a1cb9fc755e1dfa2f9918e7f5555702e]
+## 4. Amendment of regulation 3[^c-a1cb9fc755e1dfa2f9918e7f5555702e]
 
 (1) Regulation 3 (duties on persons conveying gas) is amended as follows.
 
@@ -140,11 +140,11 @@ The Gas Safety (Management) Regulations 1996[^f00003] are amended in accordance 
 
 (4) In paragraph (4), after “co-ordinator” insert “or the emergency reporting service provider (or both)”.
 
-## 5. Amendment of regulation 5[^key-0098f8b3dc57327cb3290f33e196a78e]
+## 5. Amendment of regulation 5[^c-0098f8b3dc57327cb3290f33e196a78e]
 
 In regulation 5 (duty to conform with safety case), in paragraph (1), after “co-ordinator” insert “or an emergency reporting service provider”.
 
-## 6. Amendment of regulation 6[^key-b5ed32df9745d10ec4fdcc83ebcd6e8c]
+## 6. Amendment of regulation 6[^c-b5ed32df9745d10ec4fdcc83ebcd6e8c]
 
 (1) Regulation 6 (co-operation) is amended as follows.
 
@@ -162,7 +162,7 @@ In regulation 5 (duty to conform with safety case), in paragraph (1), after “c
   - (i) after “a gas production facility” insert “, a biomethane production facility”;
   - (ii) after “a storage facility” insert “, an LNG facility”.
 
-## 7. Amendment of regulation 7[^key-d0c34a72ad6252717cb08e7d44230654]
+## 7. Amendment of regulation 7[^c-d0c34a72ad6252717cb08e7d44230654]
 
 (1) Regulation 7 (gas escapes and investigations) is amended as follows.
 
@@ -226,7 +226,7 @@ In regulation 5 (duty to conform with safety case), in paragraph (1), after “c
 
 (10) In paragraph (17)(a), for “the 1994 Regulations” substitute “the 1998 Regulations”.
 
-## 8. Amendment of regulation 8[^key-5a250f5ccd6b7e850a02a9617b576f59]
+## 8. Amendment of regulation 8[^c-5a250f5ccd6b7e850a02a9617b576f59]
 
 (1) Regulation 8 (content and other characteristics of gas) is amended as follows.
 
@@ -254,7 +254,7 @@ In regulation 5 (duty to conform with safety case), in paragraph (1), after “c
 
 .
 
-## 9. Transitional provisions[^key-9dd454a7f7f3a25e4a34c8a7dca106aa]
+## 9. Transitional provisions[^c-9dd454a7f7f3a25e4a34c8a7dca106aa]
 
 For regulation 10 substitute—
 
@@ -296,11 +296,11 @@ For regulation 10 substitute—
 
 .
 
-## 10. Revocation of regulation 12[^key-0cf54d69065f0b82f69a8ceee32f1dcb]
+## 10. Revocation of regulation 12[^c-0cf54d69065f0b82f69a8ceee32f1dcb]
 
 Omit regulation 12 (repeals, revocations and amendment).
 
-## 11. Insertion of Regulation 13[^key-440223f35cfa343626c1da90447a5482]
+## 11. Insertion of Regulation 13[^c-440223f35cfa343626c1da90447a5482]
 
 After regulation 12 insert—
 
@@ -326,15 +326,15 @@ After regulation 12 insert—
 
 .
 
-## 12. Amendment of Schedule 1[^key-af1167bcdb57ed62a545db1afbb6d551]
+## 12. Amendment of Schedule 1[^c-af1167bcdb57ed62a545db1afbb6d551]
 
 In paragraph 12 of Schedule 1, after “network emergency co-ordinator”, in both places it occurs, insert “or the emergency reporting service provider for the network”.
 
-## 13. New Schedule 2A[^key-bc4509a853702fb24514fc87a6416366]
+## 13. New Schedule 2A[^c-bc4509a853702fb24514fc87a6416366]
 
 The Schedule inserts a new Schedule 2A into the Gas Safety (Management) Regulations 1996.
 
-## 14. Amendment of Schedule 3[^key-39cc6ace77abade9db4e730076e789c6]
+## 14. Amendment of Schedule 3[^c-39cc6ace77abade9db4e730076e789c6]
 
 (1) Schedule 3 (content and other characteristics of gas) is amended as follows.
 
@@ -351,7 +351,7 @@ The Schedule inserts a new Schedule 2A into the Gas Safety (Management) Regulati
     > | RD | ≤0.700 |
 
     ;
-  - (v)[^key-d4bef1afd955113c3db99ab18626724c] in the entry for “WN”, for “≥47.20 MJ/m<sup>3</sup>” substitute “≥46.50 MJ/m<sup>3</sup>”;
+  - (v)[^c-d4bef1afd955113c3db99ab18626724c] in the entry for “WN”, for “≥47.20 MJ/m<sup>3</sup>” substitute “≥46.50 MJ/m<sup>3</sup>”;
   - (vi) omit the entry for “ICF”;
   - (vii) omit the entry for “SI”;
 - (b) in paragraph 3, for “the 1994 Regulations” substitute “the 1998 Regulations”;
@@ -410,7 +410,7 @@ The Schedule inserts a new Schedule 2A into the Gas Safety (Management) Regulati
   ;
 - (c) omit paragraph 2.
 
-## 15. Amendment of the Health and Safety and Nuclear (Fees) Regulations 2022[^key-7b8a1278422fd6a9b8b447459193cb39]
+## 15. Amendment of the Health and Safety and Nuclear (Fees) Regulations 2022[^c-7b8a1278422fd6a9b8b447459193cb39]
 
 (1) The Health and Safety and Nuclear (Fees) Regulations 2022[^f00007] are amended as follows.
 
@@ -435,11 +435,11 @@ Department for Work and Pensions
 
 7th March 2023
 
-## SCHEDULE — Emergency Reporting Service Provider: Safety Case[^key-10efc8fcf97e43b25f42ae3642169ae7]
+## SCHEDULE — Emergency Reporting Service Provider: Safety Case[^c-10efc8fcf97e43b25f42ae3642169ae7]
 
 Regulation 13
 
-[^key-10efc8fcf97e43b25f42ae3642169ae7]After Schedule 2 to the Gas Safety (Management) Regulations 1996 insert—
+[^c-10efc8fcf97e43b25f42ae3642169ae7]After Schedule 2 to the Gas Safety (Management) Regulations 1996 insert—
 
 > **SCHEDULE 2A — Particulars to be included in safety case of an emergency reporting service provider**
 >
@@ -505,48 +505,48 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00002]: Footnote: The Office for Nuclear Regulation was established by section 77 of the Energy Act [2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32).
 
-[^key-ee121954f2c125c0edacc326b942ae99]: Commencement: Reg. 1 in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
+[^c-ee121954f2c125c0edacc326b942ae99]: Commencement: Reg. 1 in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
 
-[^key-c4d97622b6cd2f19ae6b1c48eb9629b2]: Textual amendment: Words in reg. 1(2) substituted (5.4.2023) by [The Gas Safety (Management) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/320)](https://www.legislation.gov.uk/uksi/2023/320), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/320/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/320/regulation/2)
+[^c-c4d97622b6cd2f19ae6b1c48eb9629b2]: Textual amendment: Words in reg. 1(2) substituted (5.4.2023) by [The Gas Safety (Management) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/320)](https://www.legislation.gov.uk/uksi/2023/320), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/320/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/320/regulation/2)
 
-[^key-04578dfa3c356f15818a2c6584ae4207]: Commencement: Reg. 2 in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
+[^c-04578dfa3c356f15818a2c6584ae4207]: Commencement: Reg. 2 in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
 
 [^f00003]: Footnote: [S.I. 1996/551](https://www.legislation.gov.uk/uksi/1996/551).
 
-[^key-769821ff268c9a7419378453e0c9bbe5]: Commencement: Reg. 3 in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
+[^c-769821ff268c9a7419378453e0c9bbe5]: Commencement: Reg. 3 in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
 
 [^f00004]: Footnote: [S.I. 1998/2451](https://www.legislation.gov.uk/uksi/1998/2451).
 
 [^f00005]: Footnote: [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32). The definition of “biogas” was inserted by [S.I. 2011/2195](https://www.legislation.gov.uk/uksi/2011/2195). There are other amendments to section 100(3) but none is relevant to these Regulations.
 
-[^key-a1cb9fc755e1dfa2f9918e7f5555702e]: Commencement: Reg. 4 in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
+[^c-a1cb9fc755e1dfa2f9918e7f5555702e]: Commencement: Reg. 4 in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
 
-[^key-0098f8b3dc57327cb3290f33e196a78e]: Commencement: Reg. 5 in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
+[^c-0098f8b3dc57327cb3290f33e196a78e]: Commencement: Reg. 5 in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
 
-[^key-b5ed32df9745d10ec4fdcc83ebcd6e8c]: Commencement: Reg. 6 in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
+[^c-b5ed32df9745d10ec4fdcc83ebcd6e8c]: Commencement: Reg. 6 in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
 
-[^key-d0c34a72ad6252717cb08e7d44230654]: Commencement: Reg. 7 in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
+[^c-d0c34a72ad6252717cb08e7d44230654]: Commencement: Reg. 7 in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
 
-[^key-5a250f5ccd6b7e850a02a9617b576f59]: Commencement: Reg. 8 in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
+[^c-5a250f5ccd6b7e850a02a9617b576f59]: Commencement: Reg. 8 in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
 
-[^key-9dd454a7f7f3a25e4a34c8a7dca106aa]: Commencement: Reg. 9 in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
+[^c-9dd454a7f7f3a25e4a34c8a7dca106aa]: Commencement: Reg. 9 in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
 
-[^key-0cf54d69065f0b82f69a8ceee32f1dcb]: Commencement: Reg. 10 in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
+[^c-0cf54d69065f0b82f69a8ceee32f1dcb]: Commencement: Reg. 10 in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
 
-[^key-440223f35cfa343626c1da90447a5482]: Commencement: Reg. 11 in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
+[^c-440223f35cfa343626c1da90447a5482]: Commencement: Reg. 11 in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
 
 [^f00006]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-af1167bcdb57ed62a545db1afbb6d551]: Commencement: Reg. 12 in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
+[^c-af1167bcdb57ed62a545db1afbb6d551]: Commencement: Reg. 12 in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
 
-[^key-bc4509a853702fb24514fc87a6416366]: Commencement: Reg. 13 in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
+[^c-bc4509a853702fb24514fc87a6416366]: Commencement: Reg. 13 in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
 
-[^key-39cc6ace77abade9db4e730076e789c6]: Commencement: Reg. 14(1)(2)(a)(i)-(iv)(vi)(vii)(b)(c)(3)(4) in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
+[^c-39cc6ace77abade9db4e730076e789c6]: Commencement: Reg. 14(1)(2)(a)(i)-(iv)(vi)(vii)(b)(c)(3)(4) in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
 
-[^key-d4bef1afd955113c3db99ab18626724c]: Commencement: [Reg. 14(2)(a)(v)](https://www.legislation.gov.uk/uksi/2023/284/regulation/14/2/a/v) in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/2)
+[^c-d4bef1afd955113c3db99ab18626724c]: Commencement: [Reg. 14(2)(a)(v)](https://www.legislation.gov.uk/uksi/2023/284/regulation/14/2/a/v) in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/2)
 
-[^key-7b8a1278422fd6a9b8b447459193cb39]: Commencement: Reg. 15 in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
+[^c-7b8a1278422fd6a9b8b447459193cb39]: Commencement: Reg. 15 in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
 
 [^f00007]: Footnote: [S.I. 2022/1378](https://www.legislation.gov.uk/uksi/2022/1378), as amended by [S.I. 2023/247](https://www.legislation.gov.uk/uksi/2023/247).
 
-[^key-10efc8fcf97e43b25f42ae3642169ae7]: Commencement: Sch. in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)
+[^c-10efc8fcf97e43b25f42ae3642169ae7]: Commencement: Sch. in force at 6.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/284/regulation/1/3)

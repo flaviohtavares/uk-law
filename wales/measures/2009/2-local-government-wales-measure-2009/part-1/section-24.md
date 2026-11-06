@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Annual improvement reports[^key-3298f4c4056ca94cca26cce2a64de1ba]
+## 24. Annual improvement reports[^c-3298f4c4056ca94cca26cce2a64de1ba]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) The reports are—
 
-- (a)[^key-7b095107a41b1b4ba9ca272821847c75] each report issued in respect of the authority during that financial year under section 19;
+- (a)[^c-7b095107a41b1b4ba9ca272821847c75] each report issued in respect of the authority during that financial year under section 19;
 - (b) any report of a special inspection of the authority issued under section 22 during that financial year.
 
 (3) The Auditor General for Wales—
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3298f4c4056ca94cca26cce2a64de1ba]: Commencement: S. 24 in force at 1.4.2010 by [S.I. 2009/3272](https://www.legislation.gov.uk/uksi/2009/3272), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/3272/article/3/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3272/schedule/2)
+[^c-3298f4c4056ca94cca26cce2a64de1ba]: Commencement: S. 24 in force at 1.4.2010 by [S.I. 2009/3272](https://www.legislation.gov.uk/uksi/2009/3272), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/3272/article/3/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3272/schedule/2)
 
-[^key-7b095107a41b1b4ba9ca272821847c75]: Commencement: S. 24(2)(a) in force at 1.4.2011 by [S.I. 2009/3272](https://www.legislation.gov.uk/uksi/2009/3272), [art. 4](https://www.legislation.gov.uk/uksi/2009/3272/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2009/3272/schedule/3)
+[^c-7b095107a41b1b4ba9ca272821847c75]: Commencement: S. 24(2)(a) in force at 1.4.2011 by [S.I. 2009/3272](https://www.legislation.gov.uk/uksi/2009/3272), [art. 4](https://www.legislation.gov.uk/uksi/2009/3272/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2009/3272/schedule/3)

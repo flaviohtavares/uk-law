@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Amendment of the Health Protection (Coronavirus, Restrictions) (Directions by Local Authorities) (Scotland) Regulations 2020[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+## 10. Amendment of the Health Protection (Coronavirus, Restrictions) (Directions by Local Authorities) (Scotland) Regulations 2020[^c-e06b4056dfcd9f9f5a870e3231388c9d]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e06b4056dfcd9f9f5a870e3231388c9d]: Textual amendment: Regulations revoked (9.8.2021) by [The Health Protection (Coronavirus) (Requirements) (Scotland) Regulations 2021 (S.S.I. 2021/277)](https://www.legislation.gov.uk/ssi/2021/277), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/277/regulation/1/1), [20](https://www.legislation.gov.uk/ssi/2021/277/regulation/20)
+[^c-e06b4056dfcd9f9f5a870e3231388c9d]: Textual amendment: Regulations revoked (9.8.2021) by [The Health Protection (Coronavirus) (Requirements) (Scotland) Regulations 2021 (S.S.I. 2021/277)](https://www.legislation.gov.uk/ssi/2021/277), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/277/regulation/1/1), [20](https://www.legislation.gov.uk/ssi/2021/277/regulation/20)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 112. Power of court to set aside certain transactions[^key-c0f89510c88ac0dbfdc5dead59657ec5]
+## 112. Power of court to set aside certain transactions[^c-c0f89510c88ac0dbfdc5dead59657ec5]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0f89510c88ac0dbfdc5dead59657ec5]: Commencement: Rule 112 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-c0f89510c88ac0dbfdc5dead59657ec5]: Commencement: Rule 112 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

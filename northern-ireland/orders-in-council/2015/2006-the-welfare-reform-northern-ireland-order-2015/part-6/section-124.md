@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 124. Information-sharing for social security or employment purposes etc.[^key-7947e2b22b304247a68bc2e332bccc99]
+## 124. Information-sharing for social security or employment purposes etc.[^c-7947e2b22b304247a68bc2e332bccc99]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In Article 69 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 (
 
 ## Annotations
 
-[^key-7947e2b22b304247a68bc2e332bccc99]: Commencement: [Art. 124](https://www.legislation.gov.uk/nisi/2015/2006/article/124) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(4)(i)](https://www.legislation.gov.uk/nisr/2016/46/article/3/4/i)
+[^c-7947e2b22b304247a68bc2e332bccc99]: Commencement: [Art. 124](https://www.legislation.gov.uk/nisi/2015/2006/article/124) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(4)(i)](https://www.legislation.gov.uk/nisr/2016/46/article/3/4/i)

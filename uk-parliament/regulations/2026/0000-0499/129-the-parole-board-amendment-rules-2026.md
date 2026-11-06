@@ -34,7 +34,7 @@ This Statutory Instrument has been made in consequence of a defect in [S.I. 2025
 
 PRISONS, ENGLAND AND WALES
 
-The Parole Board (Amendment) Rules 2026 (revoked)[^key-e9ed7de2441fbb9b1303b1070a274acc]
+The Parole Board (Amendment) Rules 2026 (revoked)[^c-e9ed7de2441fbb9b1303b1070a274acc]
 
 Made
 
@@ -48,15 +48,15 @@ Coming into force
 
 5th March 2026
 
-[^key-e9ed7de2441fbb9b1303b1070a274acc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9ed7de2441fbb9b1303b1070a274acc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and extent[^key-e9ed7de2441fbb9b1303b1070a274acc]
+## 1. Citation, commencement and extent[^c-e9ed7de2441fbb9b1303b1070a274acc]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Parole Board Rules 2019[^key-e9ed7de2441fbb9b1303b1070a274acc]
+## 2. Amendments to the Parole Board Rules 2019[^c-e9ed7de2441fbb9b1303b1070a274acc]
 
 **Not yet in force.**
 
@@ -64,12 +64,12 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-e9ed7de2441fbb9b1303b1070a274acc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9ed7de2441fbb9b1303b1070a274acc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e9ed7de2441fbb9b1303b1070a274acc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9ed7de2441fbb9b1303b1070a274acc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e9ed7de2441fbb9b1303b1070a274acc]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2026/129) revoked (4.3.2026) by [The Parole Board (Amendment) (No. 2) Rules 2026 (S.I. 2026/204)](https://www.legislation.gov.uk/uksi/2026/204), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/204/rule/1/2), [3](https://www.legislation.gov.uk/uksi/2026/204/rule/3)
+[^c-e9ed7de2441fbb9b1303b1070a274acc]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2026/129) revoked (4.3.2026) by [The Parole Board (Amendment) (No. 2) Rules 2026 (S.I. 2026/204)](https://www.legislation.gov.uk/uksi/2026/204), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/204/rule/1/2), [3](https://www.legislation.gov.uk/uksi/2026/204/rule/3)

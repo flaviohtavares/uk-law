@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Duties to promote media literacy[^key-cf1a8b38dfba3c4843b2f0c34acb6cdf][^key-09c3c717e052b5dd5ad4aa4c5f14030d]
+## 11. Duties to promote media literacy[^c-cf1a8b38dfba3c4843b2f0c34acb6cdf][^c-09c3c717e052b5dd5ad4aa4c5f14030d]
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-3c73177426c826162d0facbc6f122cec] In this section—
+(A1)[^c-3c73177426c826162d0facbc6f122cec] In this section—
 
 - (a) subsection (1) imposes duties on OFCOM which apply in relation to material published by means of the electronic media (including by means of regulated services), and
 - (b) subsections (1A) to (1E) expand on those duties, and impose further duties on OFCOM, in relation to regulated services only.
@@ -33,7 +33,7 @@ summary: ''
 - (d) to bring about, or to encourage others to bring about, the development of a better public awareness of the available systems by which persons to whom such material is made available may control what is received and of the uses to which such systems may be put; and
 - (e) to encourage the development and use of technologies and systems for regulating access to such material, and for facilitating control over what material is received, that are both effective and easy to use.
 
-(1A)[^key-7752e06664c2c02a831f458c2314edaf] OFCOM must take such steps, and enter into such arrangements, as they consider most likely to be effective in heightening the public’s awareness and understanding of ways in which they can protect themselves and others when using regulated services, in particular by helping them to—
+(1A)[^c-7752e06664c2c02a831f458c2314edaf] OFCOM must take such steps, and enter into such arrangements, as they consider most likely to be effective in heightening the public’s awareness and understanding of ways in which they can protect themselves and others when using regulated services, in particular by helping them to—
 
 - (a) understand the nature and impact of harmful content and the harmful ways in which regulated services may be used, especially content and activity disproportionately affecting particular groups, including women and girls;
 - (b) reduce their and others’ exposure to harmful content and to the use of regulated services in harmful ways, especially content and activity disproportionately affecting particular groups, including women and girls;
@@ -68,7 +68,7 @@ summary: ''
 - (a) broadcast so as to be available for reception by members of the public or of a section of the public; or
 - (b) distributed by means of an electronic communications network to members of the public or of a section of the public.
 
-(3)[^key-a72dd40d375d55a4f79af7ddb9bf759b] In this section and in section 11A, “**regulated service**” means—
+(3)[^c-a72dd40d375d55a4f79af7ddb9bf759b] In this section and in section 11A, “**regulated service**” means—
 
 - (a) a regulated user-to-user service, or
 - (b) a regulated search service.
@@ -88,12 +88,12 @@ summary: ''
 
 ## Annotations
 
-[^key-cf1a8b38dfba3c4843b2f0c34acb6cdf]: Commencement: S. 11 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-cf1a8b38dfba3c4843b2f0c34acb6cdf]: Commencement: S. 11 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-09c3c717e052b5dd5ad4aa4c5f14030d]: Textual amendment: Word in [s. 11](https://www.legislation.gov.uk/ukpga/2003/21/section/11) heading substituted (10.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 165(5)](https://www.legislation.gov.uk/ukpga/2023/50/section/165/5), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z19)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z19)
+[^c-09c3c717e052b5dd5ad4aa4c5f14030d]: Textual amendment: Word in [s. 11](https://www.legislation.gov.uk/ukpga/2003/21/section/11) heading substituted (10.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 165(5)](https://www.legislation.gov.uk/ukpga/2023/50/section/165/5), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z19)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z19)
 
-[^key-3c73177426c826162d0facbc6f122cec]: Textual amendment: [S. 11(A1)](https://www.legislation.gov.uk/ukpga/2003/21/section/11/A1) inserted (10.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 165(2)](https://www.legislation.gov.uk/ukpga/2023/50/section/165/2), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z19)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z19)
+[^c-3c73177426c826162d0facbc6f122cec]: Textual amendment: [S. 11(A1)](https://www.legislation.gov.uk/ukpga/2003/21/section/11/A1) inserted (10.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 165(2)](https://www.legislation.gov.uk/ukpga/2023/50/section/165/2), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z19)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z19)
 
-[^key-7752e06664c2c02a831f458c2314edaf]: Textual amendment: [S. 11(1A)-(1E)](https://www.legislation.gov.uk/ukpga/2003/21/section/11/1A) inserted (10.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 165(3)](https://www.legislation.gov.uk/ukpga/2023/50/section/165/3), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z19)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z19)
+[^c-7752e06664c2c02a831f458c2314edaf]: Textual amendment: [S. 11(1A)-(1E)](https://www.legislation.gov.uk/ukpga/2003/21/section/11/1A) inserted (10.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 165(3)](https://www.legislation.gov.uk/ukpga/2023/50/section/165/3), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z19)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z19)
 
-[^key-a72dd40d375d55a4f79af7ddb9bf759b]: Textual amendment: [S. 11(3)](https://www.legislation.gov.uk/ukpga/2003/21/section/11/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/21/section/11/4) inserted (10.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 165(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/165/4), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z19)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z19)
+[^c-a72dd40d375d55a4f79af7ddb9bf759b]: Textual amendment: [S. 11(3)](https://www.legislation.gov.uk/ukpga/2003/21/section/11/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/21/section/11/4) inserted (10.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 165(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/165/4), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z19)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z19)

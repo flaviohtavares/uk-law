@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Support provided by local authorities to victims of domestic abuse[^key-ed665eb57c8ac0d97782c7a5bdc64254]
+## 57. Support provided by local authorities to victims of domestic abuse[^c-ed665eb57c8ac0d97782c7a5bdc64254]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) prepare and publish a strategy for the provision of such support in its area, and
 - (c) monitor and evaluate the effectiveness of the strategy.
 
-(2)[^key-2fd32baa2d4677590b6dfbe9bf91bef8] For the purposes of subsection (1)—
+(2)[^c-2fd32baa2d4677590b6dfbe9bf91bef8] For the purposes of subsection (1)—
 
 - “**accommodation-based support**” means support, in relation to domestic abuse, provided to victims of domestic abuse, or their children, who reside in relevant accommodation;
 - “**relevant accommodation**” means accommodation of a description specified by the Secretary of State in regulations.
@@ -75,6 +75,6 @@ other than accommodation-based support (within the meaning of subsection (2)).
 
 ## Annotations
 
-[^key-ed665eb57c8ac0d97782c7a5bdc64254]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2021/17/section/57) in force at 1.10.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/2/e)
+[^c-ed665eb57c8ac0d97782c7a5bdc64254]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2021/17/section/57) in force at 1.10.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/2/e)
 
-[^key-2fd32baa2d4677590b6dfbe9bf91bef8]: Modification: [S. 57(2)](https://www.legislation.gov.uk/ukpga/2021/17/section/57/2) modified (1.10.2021) by [The Domestic Abuse Support (Relevant Accommodation and Housing Benefit and Universal Credit Sanctuary Schemes) (Amendment) Regulations 2021 (S.I. 2021/991)](https://www.legislation.gov.uk/uksi/2021/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/991/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/991/regulation/2)
+[^c-2fd32baa2d4677590b6dfbe9bf91bef8]: Modification: [S. 57(2)](https://www.legislation.gov.uk/ukpga/2021/17/section/57/2) modified (1.10.2021) by [The Domestic Abuse Support (Relevant Accommodation and Housing Benefit and Universal Credit Sanctuary Schemes) (Amendment) Regulations 2021 (S.I. 2021/991)](https://www.legislation.gov.uk/uksi/2021/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/991/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/991/regulation/2)

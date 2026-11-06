@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Powers to require information from partner authorities[^key-4026042a2bdbfc69d0f2f444f00e9586]
+## 121. Powers to require information from partner authorities[^c-4026042a2bdbfc69d0f2f444f00e9586]
 
 *Extent: E+W*
 
-(1)[^key-64ac56f04f36c1efd39148d1ca35f654] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-64ac56f04f36c1efd39148d1ca35f654] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 20 of the Police and Justice Act 2006 (c. 48) (guidance and regulations regarding crime and disorder matters), after subsection (6) insert—
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4026042a2bdbfc69d0f2f444f00e9586]: Commencement: S. 121 in force at 1.4.2009 by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 4(c)](https://www.legislation.gov.uk/uksi/2008/3110/article/4/c)
+[^c-4026042a2bdbfc69d0f2f444f00e9586]: Commencement: S. 121 in force at 1.4.2009 by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 4(c)](https://www.legislation.gov.uk/uksi/2008/3110/article/4/c)
 
-[^key-64ac56f04f36c1efd39148d1ca35f654]: Textual amendment: S. 121(1) repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/c)
+[^c-64ac56f04f36c1efd39148d1ca35f654]: Textual amendment: S. 121(1) repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 211. Application of the Supreme Court Rules[^key-6cea12d22e131f08e2bb3b1e84e1188c]
+## 211. Application of the Supreme Court Rules[^c-6cea12d22e131f08e2bb3b1e84e1188c]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 7.29 of the 1991 Rules.
 
 ## Annotations
 
-[^key-6cea12d22e131f08e2bb3b1e84e1188c]: Commencement: Rule 211 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-6cea12d22e131f08e2bb3b1e84e1188c]: Commencement: Rule 211 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

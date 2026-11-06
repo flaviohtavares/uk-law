@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. No double recovery[^key-7cee845070ba46c339292350273d08fe]
+## 53. No double recovery[^c-7cee845070ba46c339292350273d08fe]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Compensation shall not be payable in respect of the same matter both under this 
 
 ## Annotations
 
-[^key-7cee845070ba46c339292350273d08fe]: Commencement: Art. 53 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-7cee845070ba46c339292350273d08fe]: Commencement: Art. 53 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

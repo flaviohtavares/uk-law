@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1196A. Intended release or broadcast[^key-5247b4f446955192c6c5e6006cf53da5]
+## 1196A. Intended release or broadcast[^c-5247b4f446955192c6c5e6006cf53da5]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ This does not affect any entitlement of the company to relief in an earlier acco
 
 ## Annotations
 
-[^key-5247b4f446955192c6c5e6006cf53da5]: Textual amendment: [S. 1196A](https://www.legislation.gov.uk/ukpga/2009/4/section/1196A) inserted (with effect in accordance with s. 16(5)(6) of the amending Act) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 16(4)](https://www.legislation.gov.uk/ukpga/2022/3/section/16/4)
+[^c-5247b4f446955192c6c5e6006cf53da5]: Textual amendment: [S. 1196A](https://www.legislation.gov.uk/ukpga/2009/4/section/1196A) inserted (with effect in accordance with s. 16(5)(6) of the amending Act) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 16(4)](https://www.legislation.gov.uk/ukpga/2022/3/section/16/4)

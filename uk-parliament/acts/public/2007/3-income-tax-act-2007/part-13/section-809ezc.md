@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809EZC. Meaning of “carried interest” in section 809EZB[^key-63748d8e3cc7503c8431cc39def8564c]
+## 809EZC. Meaning of “carried interest” in section 809EZB[^c-63748d8e3cc7503c8431cc39def8564c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63748d8e3cc7503c8431cc39def8564c]: Textual amendment: S. 809EZC omitted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 3(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/3/4)
+[^c-63748d8e3cc7503c8431cc39def8564c]: Textual amendment: S. 809EZC omitted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 3(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/3/4)

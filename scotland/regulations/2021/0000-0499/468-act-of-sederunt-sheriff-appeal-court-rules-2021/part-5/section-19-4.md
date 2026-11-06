@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19.4. Methods of finding caution or giving security[^key-0947c33aef1d06074705ac85336f1ac6]
+## 19.4. Methods of finding caution or giving security[^c-0947c33aef1d06074705ac85336f1ac6]
 
 *Extent: S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0947c33aef1d06074705ac85336f1ac6]: Commencement: Para. 19.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-0947c33aef1d06074705ac85336f1ac6]: Commencement: Para. 19.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
 
 [^f00013]: Footnote: [1893 c.44](https://www.legislation.gov.uk/ukpga/1893/44), amended by the Law Reform (Miscellaneous Provisions) (Scotland) Act [1940 (c.42)](https://www.legislation.gov.uk/ukpga/1940/42), section 6(2); the Sheriff Courts (Scotland) Act [1971 (c.58)](https://www.legislation.gov.uk/ukpga/1971/58), section 4 and Schedule 1, paragraph 1; the Statute Law (Repeals) Act [1986 (c.12)](https://www.legislation.gov.uk/ukpga/1986/12), Schedule 1, Part 1, Group 4 and Schedule 2, paragraph 1; [S.I. 1974/1274](https://www.legislation.gov.uk/uksi/1974/1274) and [S.S.I. 2015/402](https://www.legislation.gov.uk/ssi/2015/402).

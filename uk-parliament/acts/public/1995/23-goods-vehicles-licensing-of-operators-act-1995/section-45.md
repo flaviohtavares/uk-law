@@ -41,7 +41,7 @@ until any fee or instalment of a fee in respect of the application, issue or var
 
 (4) If any fee or instalment of a fee in respect of the continuation in force of an operator’s licence is not duly paid by the prescribed time, the licence terminates at that time.
 
-(5) A traffic commissioner[^key-4e20c6acd2c3a51fd47c594c67ec506c] may, if he considers there to be exceptional circumstances that justify his doing so in any case where subsection (3) or (4) has applied, direct that as from the time mentioned in that subsection its effect in that case be disregarded.
+(5) A traffic commissioner[^c-4e20c6acd2c3a51fd47c594c67ec506c] may, if he considers there to be exceptional circumstances that justify his doing so in any case where subsection (3) or (4) has applied, direct that as from the time mentioned in that subsection its effect in that case be disregarded.
 
 (6) Where, by virtue of such a direction, the effect of subsection (3)(a) is to be disregarded in any case, any termination—
 
@@ -61,4 +61,4 @@ by virtue of the operation of subsection (3)(a) in that case before the directio
 
 [^c10975021]: Modification: S. 45(3) excluded (1.1.1996) by [S.I. 1995/2181](https://www.legislation.gov.uk/uksi/1995/2181), [art. 3](https://www.legislation.gov.uk/uksi/1995/2181/article/3), [Sch. para. 14](https://www.legislation.gov.uk/uksi/1995/2181/schedule/paragraph/14)
 
-[^key-4e20c6acd2c3a51fd47c594c67ec506c]: Textual amendment: Words in s. 45(5) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-4e20c6acd2c3a51fd47c594c67ec506c]: Textual amendment: Words in s. 45(5) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))

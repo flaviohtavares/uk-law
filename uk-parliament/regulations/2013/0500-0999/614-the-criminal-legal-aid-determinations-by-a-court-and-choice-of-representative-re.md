@@ -153,7 +153,7 @@ In relation to any criminal proceedings described in section 14(a) to (f) and (h
 - (a) is employed by the Lord Chancellor to provide criminal legal aid;
 - (b) is permitted to provide criminal legal aid to the individual under the arrangements the Lord Chancellor has made with the provider [^c21702131]; or
 - (c) is representing the individual before the Court of Appeal in an appeal against a decision of the Upper Tribunal in proceedings in respect of a decision of—
-  - (i)[^key-0734e3d52c654946717e09d3cf3f77cb] a decision of the Financial Conduct Authority;
+  - (i)[^c-0734e3d52c654946717e09d3cf3f77cb] a decision of the Financial Conduct Authority;
   - (ia) a decision of the Prudential Regulation Authority;
   - (ii) the Bank of England; or
   - (iii) a person in relation to the assessment of any compensation or consideration under the Banking (Special Provisions) Act 2008 [^c21702141] or the Banking Act 2009 [^c21702151].
@@ -249,12 +249,12 @@ In relation to any criminal proceedings described in section 14(a) to (f) and (h
 - “**the counsel condition**” means, in relation to particular criminal proceedings, that a Queen's Counsel or senior Treasury Counsel has been instructed on behalf of the prosecution;
 - “**the exceptional condition**” means, in relation to particular criminal proceedings, that the individual's case is exceptional compared with the generality of cases involving similar offences;
 - “**the prosecution condition**” means, in relation to particular criminal proceedings, any of the following circumstances—
-  - (a) two or more advocates have been instructed on behalf of the prosecution and the relevant court is satisfied that the individual will be, or will be likely to be, prejudiced if they too are not represented by two or more advocates[^key-1a0aea07b15a080c43f250b6acf319ab];
+  - (a) two or more advocates have been instructed on behalf of the prosecution and the relevant court is satisfied that the individual will be, or will be likely to be, prejudiced if they too are not represented by two or more advocates[^c-1a0aea07b15a080c43f250b6acf319ab];
   - (b) the number of prosecution witnesses exceeds 80;
   - (c) the number of pages of prosecution evidence exceeds 1000; and
-- “**prosecution evidence**” means all witness statements, documentary and pictorial exhibits and records of interview with the individual and with any other defendants which form part of the [^key-013076065d89906ffdd083fcd2bd89a3]... served prosecution documents or are included in any notice of additional evidence.
+- “**prosecution evidence**” means all witness statements, documentary and pictorial exhibits and records of interview with the individual and with any other defendants which form part of the [^c-013076065d89906ffdd083fcd2bd89a3]... served prosecution documents or are included in any notice of additional evidence.
 
-### 19. Selection of a Queen’s Counsel or multiple advocates[^key-df99c6224b05a87e71b7b72bf80ec6ad]
+### 19. Selection of a Queen’s Counsel or multiple advocates[^c-df99c6224b05a87e71b7b72bf80ec6ad]
 
 (1) A determination that an individual is entitled to select a Queen’s Counsel or more than one advocate under regulation 18 may only be made by the following judges—
 
@@ -276,9 +276,9 @@ For the purposes of making a determination under regulation 18, the relevant cou
 
 ### 22. Determinations by the Director in certain cases in the Crown Court
 
-(1) The Director may, upon the [^key-3cda92d861dd7712a1d30097a40c33d8]... sending for trial of an individual, determine that the individual can select a Queen's Counsel without a junior advocate if the proceedings are a trial for murder.
+(1) The Director may, upon the [^c-3cda92d861dd7712a1d30097a40c33d8]... sending for trial of an individual, determine that the individual can select a Queen's Counsel without a junior advocate if the proceedings are a trial for murder.
 
-(2) The Director may, upon receipt of a notice [^key-9ed89f4cc6c38ef4b9ac921c03b3311d]... of an individual's case under section 51B of the Crime and Disorder Act 1998[^key-f8ba67024611b112394aa144b6246f2d], determine that the individual can select a Queen's Counsel with one junior advocate if the prosecution is brought by the Serious Fraud Office.
+(2) The Director may, upon receipt of a notice [^c-9ed89f4cc6c38ef4b9ac921c03b3311d]... of an individual's case under section 51B of the Crime and Disorder Act 1998[^c-f8ba67024611b112394aa144b6246f2d], determine that the individual can select a Queen's Counsel with one junior advocate if the prosecution is brought by the Serious Fraud Office.
 
 ### 23. Noting juniors
 
@@ -341,7 +341,7 @@ Regulation 24 applies Part 3 to legal persons subject to the modifications speci
 
 [^c21702131]: Marginal citation: Under section 2(1) of the Act the Lord Chancellor may make such arrangements as the Lord Chancellor considers appropriate for the purposes of carrying out the Lord Chancellor's functions under Part 1 of the Act.
 
-[^key-0734e3d52c654946717e09d3cf3f77cb]: Textual amendment: Reg. 12(c)(i)(ia) substituted for reg. 12(c)(i) (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [12](https://www.legislation.gov.uk/uksi/2013/1765/article/12)
+[^c-0734e3d52c654946717e09d3cf3f77cb]: Textual amendment: Reg. 12(c)(i)(ia) substituted for reg. 12(c)(i) (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [12](https://www.legislation.gov.uk/uksi/2013/1765/article/12)
 
 [^c21702141]: Marginal citation: [2008 c. 2](https://www.legislation.gov.uk/ukpga/2008/2).
 
@@ -349,16 +349,16 @@ Regulation 24 applies Part 3 to legal persons subject to the modifications speci
 
 [^c21702161]: Marginal citation: [2003 c. 41](https://www.legislation.gov.uk/ukpga/2003/41).
 
-[^key-1a0aea07b15a080c43f250b6acf319ab]: Textual amendment: Words in reg. 18(7) inserted (2.12.2013) by [The Criminal Legal Aid (Determinations by a Court and Choice of Representative) (Amendment) Regulations 2013 (S.I. 2013/2814)](https://www.legislation.gov.uk/uksi/2013/2814), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2814/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/2814/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2814/regulation/1/2))
+[^c-1a0aea07b15a080c43f250b6acf319ab]: Textual amendment: Words in reg. 18(7) inserted (2.12.2013) by [The Criminal Legal Aid (Determinations by a Court and Choice of Representative) (Amendment) Regulations 2013 (S.I. 2013/2814)](https://www.legislation.gov.uk/uksi/2013/2814), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2814/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/2814/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2814/regulation/1/2))
 
-[^key-013076065d89906ffdd083fcd2bd89a3]: Textual amendment: Words in [reg. 18(7)](https://www.legislation.gov.uk/uksi/2013/614/regulation/18/7) omitted (5.10.2015) by virtue of [The Civil and Criminal Legal Aid (Amendment) (No.2) Regulations 2015 (S.I. 2015/1678)](https://www.legislation.gov.uk/uksi/2015/1678), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/1/2/a), [8(2)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/8/2) (with [reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/10/1))
+[^c-013076065d89906ffdd083fcd2bd89a3]: Textual amendment: Words in [reg. 18(7)](https://www.legislation.gov.uk/uksi/2013/614/regulation/18/7) omitted (5.10.2015) by virtue of [The Civil and Criminal Legal Aid (Amendment) (No.2) Regulations 2015 (S.I. 2015/1678)](https://www.legislation.gov.uk/uksi/2015/1678), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/1/2/a), [8(2)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/8/2) (with [reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/10/1))
 
-[^key-df99c6224b05a87e71b7b72bf80ec6ad]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2013/614/regulation/19) substituted (2.12.2013) by [The Criminal Legal Aid (Determinations by a Court and Choice of Representative) (Amendment) Regulations 2013 (S.I. 2013/2814)](https://www.legislation.gov.uk/uksi/2013/2814), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2814/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/2814/regulation/2/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2814/regulation/1/2))
+[^c-df99c6224b05a87e71b7b72bf80ec6ad]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2013/614/regulation/19) substituted (2.12.2013) by [The Criminal Legal Aid (Determinations by a Court and Choice of Representative) (Amendment) Regulations 2013 (S.I. 2013/2814)](https://www.legislation.gov.uk/uksi/2013/2814), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2814/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/2814/regulation/2/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2814/regulation/1/2))
 
-[^key-3cda92d861dd7712a1d30097a40c33d8]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/2013/614/regulation/22/1) omitted (5.10.2015) by virtue of [The Civil and Criminal Legal Aid (Amendment) (No.2) Regulations 2015 (S.I. 2015/1678)](https://www.legislation.gov.uk/uksi/2015/1678), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/1/2/a), [8(3)(a)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/8/3/a) (with [reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/10/1))
+[^c-3cda92d861dd7712a1d30097a40c33d8]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/2013/614/regulation/22/1) omitted (5.10.2015) by virtue of [The Civil and Criminal Legal Aid (Amendment) (No.2) Regulations 2015 (S.I. 2015/1678)](https://www.legislation.gov.uk/uksi/2015/1678), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/1/2/a), [8(3)(a)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/8/3/a) (with [reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/10/1))
 
-[^key-9ed89f4cc6c38ef4b9ac921c03b3311d]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/uksi/2013/614/regulation/22/2) omitted (5.10.2015) by virtue of [The Civil and Criminal Legal Aid (Amendment) (No.2) Regulations 2015 (S.I. 2015/1678)](https://www.legislation.gov.uk/uksi/2015/1678), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/1/2/a), [8(3)(b)(i)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/8/3/b/i) (with [reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/10/1))
+[^c-9ed89f4cc6c38ef4b9ac921c03b3311d]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/uksi/2013/614/regulation/22/2) omitted (5.10.2015) by virtue of [The Civil and Criminal Legal Aid (Amendment) (No.2) Regulations 2015 (S.I. 2015/1678)](https://www.legislation.gov.uk/uksi/2015/1678), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/1/2/a), [8(3)(b)(i)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/8/3/b/i) (with [reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/10/1))
 
-[^key-f8ba67024611b112394aa144b6246f2d]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/uksi/2013/614/regulation/22/2) substituted (5.10.2015) by [The Civil and Criminal Legal Aid (Amendment) (No.2) Regulations 2015 (S.I. 2015/1678)](https://www.legislation.gov.uk/uksi/2015/1678), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/1/2/a), [8(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/8/3/b/ii) (with [reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/10/1))
+[^c-f8ba67024611b112394aa144b6246f2d]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/uksi/2013/614/regulation/22/2) substituted (5.10.2015) by [The Civil and Criminal Legal Aid (Amendment) (No.2) Regulations 2015 (S.I. 2015/1678)](https://www.legislation.gov.uk/uksi/2015/1678), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/1/2/a), [8(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/8/3/b/ii) (with [reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/10/1))
 
 [^c21702181]: Marginal citation: Paragraph 9(1) of Schedule 3 to the Act (legal aid for legal persons) provides that section 27 of the Act (choice of provider of services) applies in relation to the provision of services to a legal person, as it applies in relation to the provision of services to an individual.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3.[^key-63a60cd2544e258a1edda56aac72d4d5][^key-eca15e787de416302992dab285f3e138]
+## 3.[^c-63a60cd2544e258a1edda56aac72d4d5][^c-eca15e787de416302992dab285f3e138]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ The following provisions extend to the United Kingdom—
 
 ## Annotations
 
-[^key-63a60cd2544e258a1edda56aac72d4d5]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-63a60cd2544e258a1edda56aac72d4d5]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-eca15e787de416302992dab285f3e138]: Textual amendment: Reg. 3 substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment to Extent and Meaning of Market) (EU Exit) Regulations 2020 (S.I. 2020/676)](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/676/regulation/2/2)
+[^c-eca15e787de416302992dab285f3e138]: Textual amendment: Reg. 3 substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment to Extent and Meaning of Market) (EU Exit) Regulations 2020 (S.I. 2020/676)](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/676/regulation/2/2)

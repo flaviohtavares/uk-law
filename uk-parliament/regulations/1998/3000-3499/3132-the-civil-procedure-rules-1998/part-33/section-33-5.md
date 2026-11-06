@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.5. Credibility[^key-44d70b58a96471bf0fb5870b88d10fe6]
+## 33.5. Credibility[^c-44d70b58a96471bf0fb5870b88d10fe6]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ the party who so wishes must give notice of his intention to the party who propo
 
 ## Annotations
 
-[^key-44d70b58a96471bf0fb5870b88d10fe6]: Commencement: [Rule 33.5](https://www.legislation.gov.uk/uksi/1998/3132/rule/33.5) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-44d70b58a96471bf0fb5870b88d10fe6]: Commencement: [Rule 33.5](https://www.legislation.gov.uk/uksi/1998/3132/rule/33.5) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

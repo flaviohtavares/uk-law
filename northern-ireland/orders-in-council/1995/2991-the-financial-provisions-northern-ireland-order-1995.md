@@ -126,10 +126,10 @@ In Article 6 of the 1993 Order (borrowing by funds) for paragraph (5) there shal
 
 *Art.7 rep. by 1998 NI 4*
 
-### 8. Repayment of loans by Enterprise Ulster[^key-8209e7b287d02398e8ec6614023902e1]
+### 8. Repayment of loans by Enterprise Ulster[^c-8209e7b287d02398e8ec6614023902e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8209e7b287d02398e8ec6614023902e1]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/nisi/1995/2991/article/8) repealed (1.5.2015) by [Public Authorities (Reform) Act (Northern Ireland) 2009 (c. 3)](https://www.legislation.gov.uk/nia/2009/3), [ss. 4(1)(d)](https://www.legislation.gov.uk/nia/2009/3/section/4/1/d), [7(1)](https://www.legislation.gov.uk/nia/2009/3/section/7/1), [Sch. 3](https://www.legislation.gov.uk/nia/2009/3/schedule/3) (with [Sch. 1 Pt. 1 para. 4(3)](https://www.legislation.gov.uk/nia/2009/3/schedule/1/part/1/paragraph/4/3)); [S.R. 2015/230](https://www.legislation.gov.uk/nisr/2015/230), [art. 2(c)(d)](https://www.legislation.gov.uk/nisr/2015/230/article/2/c/d)
+[^c-8209e7b287d02398e8ec6614023902e1]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/nisi/1995/2991/article/8) repealed (1.5.2015) by [Public Authorities (Reform) Act (Northern Ireland) 2009 (c. 3)](https://www.legislation.gov.uk/nia/2009/3), [ss. 4(1)(d)](https://www.legislation.gov.uk/nia/2009/3/section/4/1/d), [7(1)](https://www.legislation.gov.uk/nia/2009/3/section/7/1), [Sch. 3](https://www.legislation.gov.uk/nia/2009/3/schedule/3) (with [Sch. 1 Pt. 1 para. 4(3)](https://www.legislation.gov.uk/nia/2009/3/schedule/1/part/1/paragraph/4/3)); [S.R. 2015/230](https://www.legislation.gov.uk/nisr/2015/230), [art. 2(c)(d)](https://www.legislation.gov.uk/nisr/2015/230/article/2/c/d)

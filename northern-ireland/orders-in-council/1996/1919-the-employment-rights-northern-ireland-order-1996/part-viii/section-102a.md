@@ -27,7 +27,7 @@ summary: ''
 - (a) before the end of the period of three months beginning with the day on which the supply of the agency worker to a hirer was ended on maternity grounds, or
 - (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented within that period of three months.
 
-(2A)[^key-464751028944d9cc23ccfdac3100ec8f] Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
+(2A)[^c-464751028944d9cc23ccfdac3100ec8f] Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 (3) Where an industrial tribunal finds a complaint under paragraph (1) well-founded, the tribunal shall order the temporary work agency to pay the agency worker the amount of remuneration which it finds is due to her.
 
@@ -51,4 +51,4 @@ summary: ''
 
 [^c22542121]: Textual amendment: Art. 102A inserted (5.12.2011) by [Agency Workers Regulations (Northern Ireland) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [Sch. 2 para. 13](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/13)
 
-[^key-464751028944d9cc23ccfdac3100ec8f]: Textual amendment: [Art. 102A(2A)](https://www.legislation.gov.uk/nisi/1996/1919/article/102A/2A) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 34](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/34); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-464751028944d9cc23ccfdac3100ec8f]: Textual amendment: [Art. 102A(2A)](https://www.legislation.gov.uk/nisi/1996/1919/article/102A/2A) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 34](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/34); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)

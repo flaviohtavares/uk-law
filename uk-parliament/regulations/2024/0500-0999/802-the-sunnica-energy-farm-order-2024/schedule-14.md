@@ -22,7 +22,7 @@ summary: ''
 
 Article 43
 
-### PART 1 — TEMPORARY SPEED LIMITS[^key-75031e1db9cc1ffb03695337f926082a]
+### PART 1 — TEMPORARY SPEED LIMITS[^c-75031e1db9cc1ffb03695337f926082a]
 
 | *(1)*<br>*District* | *(2)*<br>*Road name, number and length* | *(3)*<br>*Temporary speed limit* |
 | --- | --- | --- |
@@ -35,13 +35,13 @@ Article 43
 | West Suffolk District | Elms Road<br>From its junction with Bridge End Road (reference SL8A) in a generally north-westerly direction for a distance of 1150 metres (to reference SL8B) as shown on sheets 12 and 13 of the traffic regulation measures plans – temporary measures. | 40 miles per hour |
 | West Suffolk District | Newmarket Road (Worlington)<br>From a point 350 metres south of its junction with Golf Links Road (reference SL9A) for a distance of 900 metres in a generally southerly direction (to reference SL9B) as shown on sheets 15 and 16 of the traffic regulation measures plans – temporary measures. | 40 miles per hour |
 
-### PART 2 — TEMPORARY PROHIBITION[^key-7810fe50a0a5534ecc230293067d1aac]
+### PART 2 — TEMPORARY PROHIBITION[^c-7810fe50a0a5534ecc230293067d1aac]
 
 | *(1)*<br>*District* | *(2)*<br>*Road name, number and length* | *(3)*<br>*Measures* |
 | --- | --- | --- |
 | East Cambridgeshire District | A142<br>From a point 70 metres in a generally westerly direction of its roundabout junction with Newmarket Road (reference TP1A), in a generally westerly direction for a distance of 50 metres (to reference TP1B), as shown on sheet 5 of the traffic regulation measures plans – temporary measures. | Prohibition of entry<br>No right turn for entry to, or egress from, the means of access to the authorised development by vehicular traffic. |
 
-### PART 3 — TEMPORARY ROAD CLOSURES[^key-1d0959759368970f535409edbf94695a]
+### PART 3 — TEMPORARY ROAD CLOSURES[^c-1d0959759368970f535409edbf94695a]
 
 | *(1)*<br>*District* | *(2*<br>*Road name, number and length* | *(3)*<br>*Measure* |
 | --- | --- | --- |
@@ -59,7 +59,7 @@ Article 43
 | West Suffolk District | U6006<br>From a point 450 metres in a generally south-westerly direction from its junction with Newmarket Road (Worlington) (reference RC13A) in a generally south-westerly direction for a distance of 70 metres (reference RC13B) as shown on sheet 17 of the traffic regulation measures plans – temporary road closures. | Closed to all traffic save for traffic under the direction of the undertaker. |
 | West Suffolk District | U6006<br>From a point 700 metres in a generally north-easterly direction of its junction with Elms Road (reference RC14A) in a generally north-easterly direction for a distance of 400 metres (to reference RC14B) as shown on sheets 15 and 16 of the traffic regulation measures plans – temporary road closures. | Closed to all traffic save for traffic under the direction of the undertaker. |
 
-### PART 4 — TEMPORARY TRAFFIC SIGNALS[^key-d34666bb8f7de6424389162a3de0f3a1]
+### PART 4 — TEMPORARY TRAFFIC SIGNALS[^c-d34666bb8f7de6424389162a3de0f3a1]
 
 | *(1)*<br>*District* | *(2)*<br>*Extent of temporary traffic signal control* |
 | --- | --- |
@@ -78,10 +78,10 @@ Article 43
 
 ## Annotations
 
-[^key-75031e1db9cc1ffb03695337f926082a]: Commencement: Sch. 14 Pt. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-75031e1db9cc1ffb03695337f926082a]: Commencement: Sch. 14 Pt. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
 
-[^key-7810fe50a0a5534ecc230293067d1aac]: Commencement: Sch. 14 Pt. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-7810fe50a0a5534ecc230293067d1aac]: Commencement: Sch. 14 Pt. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
 
-[^key-1d0959759368970f535409edbf94695a]: Commencement: Sch. 14 Pt. 3 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-1d0959759368970f535409edbf94695a]: Commencement: Sch. 14 Pt. 3 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
 
-[^key-d34666bb8f7de6424389162a3de0f3a1]: Commencement: Sch. 14 Pt. 4 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-d34666bb8f7de6424389162a3de0f3a1]: Commencement: Sch. 14 Pt. 4 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)

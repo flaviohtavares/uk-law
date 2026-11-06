@@ -23,7 +23,7 @@ summary: ''
 (1) This section applies to an instrument of any of the following descriptions executed in the period beginning with 22nd March 2000 and ending with the day on which this Act is passed—
 
 - (a) an instrument transferring or vesting an estate or interest in land in such circumstances as are mentioned in section 119 (transfer of land to connected company), in a case specified in section 120 (excepted cases);
-- (b)[^key-560987e36b40f655cb7e2a111699d2c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-560987e36b40f655cb7e2a111699d2c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) If the instrument is not stamped until after the day on which this Act is passed, the law in force at the time of its execution shall be deemed for stamp duty purposes to be that which would have applied if it had been executed after that day.
 
@@ -45,7 +45,7 @@ they shall pay to such person as they consider appropriate an amount equal to th
 
 ## Annotations
 
-[^key-560987e36b40f655cb7e2a111699d2c9]: Textual amendment: [S. 131(1)(b)](https://www.legislation.gov.uk/ukpga/2000/17/section/131/1/b) omitted (with effect in accordance with Sch. 39 para. 10(2) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 6(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/6/2) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-560987e36b40f655cb7e2a111699d2c9]: Textual amendment: [S. 131(1)(b)](https://www.legislation.gov.uk/ukpga/2000/17/section/131/1/b) omitted (with effect in accordance with Sch. 39 para. 10(2) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 6(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/6/2) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
 
 [^c14055071]: Marginal citation: [1866 c. 39](https://www.legislation.gov.uk/ukpga/1866/39).
 

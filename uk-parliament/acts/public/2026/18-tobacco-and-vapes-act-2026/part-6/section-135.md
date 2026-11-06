@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Enforcement authorities[^key-5ce78a9ec86f3e18b5dcd8a2ee299c7d]
+## 135. Enforcement authorities[^c-5ce78a9ec86f3e18b5dcd8a2ee299c7d]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ce78a9ec86f3e18b5dcd8a2ee299c7d]: Commencement: S. 135 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
+[^c-5ce78a9ec86f3e18b5dcd8a2ee299c7d]: Commencement: S. 135 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)

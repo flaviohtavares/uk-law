@@ -22,7 +22,7 @@ summary: ''
 
 (1) Subject to paragraphs (2) and (5), these Regulations apply to—
 
-- (a)[^key-692e5d699e5b17ed26087fad46debdc0] the rail system;
+- (a)[^c-692e5d699e5b17ed26087fad46debdc0] the rail system;
 - (b) subsystems located, operated or intended to be operated in the United Kingdom; and
 - (c) interoperability constituents.
 
@@ -43,10 +43,10 @@ summary: ''
 
 (6) Paragraphs (2) and (5)(a) are subject to the voluntary arrangements provided for in regulation 5(1)(b) and (c).
 
-(7) References in this regulation to the Secretary of State shall in their application to Northern Ireland have effect as references to DFI[^key-e4d8d5a75e93f1b0f90152151b04d64a].
+(7) References in this regulation to the Secretary of State shall in their application to Northern Ireland have effect as references to DFI[^c-e4d8d5a75e93f1b0f90152151b04d64a].
 
 ## Annotations
 
-[^key-692e5d699e5b17ed26087fad46debdc0]: Textual amendment: [Reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/3/1/a) substituted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2019/345/regulation/2/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-692e5d699e5b17ed26087fad46debdc0]: Textual amendment: [Reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/3/1/a) substituted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2019/345/regulation/2/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e4d8d5a75e93f1b0f90152151b04d64a]: Textual amendment: Word in [reg. 3(7)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/3/7) substituted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2019/345/regulation/2/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e4d8d5a75e93f1b0f90152151b04d64a]: Textual amendment: Word in [reg. 3(7)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/3/7) substituted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2019/345/regulation/2/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

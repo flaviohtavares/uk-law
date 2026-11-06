@@ -22,7 +22,7 @@ summary: ''
 
 Article 12
 
-### PART 1 — STREETS TO BE TEMPORARILY STOPPED UP ETC.[^key-ecd5a6e30bf81d1118152c2ce5e175d4]
+### PART 1 — STREETS TO BE TEMPORARILY STOPPED UP ETC.[^c-ecd5a6e30bf81d1118152c2ce5e175d4]
 
 Table 7
 
@@ -43,7 +43,7 @@ Table 7
 | In the District of East Riding of Yorkshire | Boothferry Road | Temporary closure of that part of the street shown between points BL and BK on sheet 23 of the access and rights of way plans to ensure the safe and unhindered passage of heavy goods vehicles and abnormal indivisible loads |
 | In the District of East Riding of Yorkshire | A614 / A161 | Temporary closure of that part of the street shown between BT and AF on sheets 22 and 23 of the access and rights of way plans to ensure the safe and unhindered passage of heavy goods vehicles and abnormal indivisible loads |
 
-### PART 2 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY STOPPED UP ETC.[^key-aa0636eaf31dce02f27ce31a834d0095]
+### PART 2 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY STOPPED UP ETC.[^c-aa0636eaf31dce02f27ce31a834d0095]
 
 Table 8
 
@@ -56,6 +56,6 @@ Table 8
 
 ## Annotations
 
-[^key-ecd5a6e30bf81d1118152c2ce5e175d4]: Commencement: Sch. 6 Pt. 1 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-ecd5a6e30bf81d1118152c2ce5e175d4]: Commencement: Sch. 6 Pt. 1 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
 
-[^key-aa0636eaf31dce02f27ce31a834d0095]: Commencement: Sch. 6 Pt. 2 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-aa0636eaf31dce02f27ce31a834d0095]: Commencement: Sch. 6 Pt. 2 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)

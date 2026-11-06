@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Interpretation[^key-09dfb6293817739fc23d39eae9015d67][^key-3bd3568f45a2eafcda40208ea8ac30d5]
+## 123. Interpretation[^c-09dfb6293817739fc23d39eae9015d67][^c-3bd3568f45a2eafcda40208ea8ac30d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
   - (b) the Welsh Ministers, or
   - (c) a Northern Ireland department;
 
-  (but see section 83A(2) for a different meaning of “appropriate authority” in Part 5A (outsourcing: protection of workers));[^key-02cee9069cc27c4e6e3421b2cd240e34]
+  (but see section 83A(2) for a different meaning of “appropriate authority” in Part 5A (outsourcing: protection of workers));[^c-02cee9069cc27c4e6e3421b2cd240e34]
 - “**enactment**” includes primary legislation and legislation made under primary legislation;
 - “**Minister of the Crown**” has the same meaning as in the Ministers of the Crown Act 1975;
 - “**modify**”, in relation to enactments, includes amend, repeal or revoke;
@@ -64,8 +64,8 @@ summary: ''
 
 ## Annotations
 
-[^key-09dfb6293817739fc23d39eae9015d67]: Commencement: S. 123 in force at Royal Assent, see [s. 127(1)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/1)
+[^c-09dfb6293817739fc23d39eae9015d67]: Commencement: S. 123 in force at Royal Assent, see [s. 127(1)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/1)
 
-[^key-3bd3568f45a2eafcda40208ea8ac30d5]: Modification: [S. 123](https://www.legislation.gov.uk/ukpga/2023/54/section/123) applied in part (24.2.2025) by S.I. 2013/1582,reg. 6(2), Sch. 2 Pt. 1 (as amended by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2025/163/regulation/17) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33)))
+[^c-3bd3568f45a2eafcda40208ea8ac30d5]: Modification: [S. 123](https://www.legislation.gov.uk/ukpga/2023/54/section/123) applied in part (24.2.2025) by S.I. 2013/1582,reg. 6(2), Sch. 2 Pt. 1 (as amended by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2025/163/regulation/17) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33)))
 
-[^key-02cee9069cc27c4e6e3421b2cd240e34]: Textual amendment: Words in [s. 123(1)](https://www.legislation.gov.uk/ukpga/2023/54/section/123/1) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 32(5)](https://www.legislation.gov.uk/ukpga/2025/36/section/32/5), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(16)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/16/b)
+[^c-02cee9069cc27c4e6e3421b2cd240e34]: Textual amendment: Words in [s. 123(1)](https://www.legislation.gov.uk/ukpga/2023/54/section/123/1) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 32(5)](https://www.legislation.gov.uk/ukpga/2025/36/section/32/5), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(16)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/16/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1094. Relief only available to SME where company is going concern[^key-10b63a00113c45744add87b6d941ebf2]
+## 1094. Relief only available to SME where company is going concern[^c-10b63a00113c45744add87b6d941ebf2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10b63a00113c45744add87b6d941ebf2]: Textual amendment: Ss. 1092-1096 omitted (with effect in accordance with Sch. 3 para. 38 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2012/14/schedule/3/paragraph/26)
+[^c-10b63a00113c45744add87b6d941ebf2]: Textual amendment: Ss. 1092-1096 omitted (with effect in accordance with Sch. 3 para. 38 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2012/14/schedule/3/paragraph/26)

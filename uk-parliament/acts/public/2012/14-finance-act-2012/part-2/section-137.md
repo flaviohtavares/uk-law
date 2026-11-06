@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Meaning of “the long-term business fixed capital”[^key-7dec1d09316086d5fe4a8432a5603aec]
+## 137. Meaning of “the long-term business fixed capital”[^c-7dec1d09316086d5fe4a8432a5603aec]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7dec1d09316086d5fe4a8432a5603aec]: Modification: S. 137 applied by 1992 c. 12, Sch. 7AC para. 30A(1) (as inserted (with effect in accordance with s. 28(7) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 28(5)](https://www.legislation.gov.uk/ukpga/2017/32/section/28/5))
+[^c-7dec1d09316086d5fe4a8432a5603aec]: Modification: S. 137 applied by 1992 c. 12, Sch. 7AC para. 30A(1) (as inserted (with effect in accordance with s. 28(7) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 28(5)](https://www.legislation.gov.uk/ukpga/2017/32/section/28/5))

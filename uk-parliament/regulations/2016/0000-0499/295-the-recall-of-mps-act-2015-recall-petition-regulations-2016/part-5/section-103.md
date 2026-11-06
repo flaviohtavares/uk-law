@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Opening of postal signers’ ballot box[^key-22dbe0bc65a970bd39e6e0fb2bfc3f5d]
+## 103. Opening of postal signers’ ballot box[^c-22dbe0bc65a970bd39e6e0fb2bfc3f5d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22dbe0bc65a970bd39e6e0fb2bfc3f5d]: Commencement: Reg. 103 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-22dbe0bc65a970bd39e6e0fb2bfc3f5d]: Commencement: Reg. 103 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

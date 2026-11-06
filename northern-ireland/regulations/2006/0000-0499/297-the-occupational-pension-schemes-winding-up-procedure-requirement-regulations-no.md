@@ -41,13 +41,13 @@ Coming into operation
 
 The Department for Social Development, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002], in relation to matters relating to personal and occupational pensions makes the following Regulations in exercise of the powers conferred by that section, sections 109(1) and 177(2) to (4) of the Pension Schemes (Northern Ireland) Act 1993[^f00003], and now vested in it[^f00004], and Articles 55(2)(h), 64(2)(a) and 287(3) of the Pensions (Northern Ireland) Order 2005[^f00005].
 
-## 1. Citation, commencement and interpretation[^key-57600f08afdd7beb0f3906eea54b83b2]
+## 1. Citation, commencement and interpretation[^c-57600f08afdd7beb0f3906eea54b83b2]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Winding up Procedure Requirement) Regulations (Northern Ireland) 2006 and shall come into operation on 24th July 2006.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Pensions (Northern Ireland) Order[^key-d79d685bdce006bc1140caa316e4ed7e]
+## 2. Amendment of the Pensions (Northern Ireland) Order[^c-d79d685bdce006bc1140caa316e4ed7e]
 
 After Article 210 of the Pensions (Northern Ireland) Order 2005 (powers of the Regulator) insert—
 
@@ -77,11 +77,11 @@ After Article 210 of the Pensions (Northern Ireland) Order 2005 (powers of the R
 
 .
 
-## 3. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations[^key-fe62e80a5391493202ea1e8cabab1a29]
+## 3. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations[^c-fe62e80a5391493202ea1e8cabab1a29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Register of Occupational and Personal Pension Schemes Regulations[^key-b153623e3703d5e68669dc49b42007c6]
+## 4. Amendment of the Register of Occupational and Personal Pension Schemes Regulations[^c-b153623e3703d5e68669dc49b42007c6]
 
 In regulation 3 of the Register of Occupational and Personal Pension Schemes Regulations (Northern Ireland) 2005[^f00013] (registrable information)—
 
@@ -99,7 +99,7 @@ In regulation 3 of the Register of Occupational and Personal Pension Schemes Reg
 
   .
 
-## 5. Amendment of the Occupational Pension Schemes (Scheme Funding) Regulations[^key-baa424070a381d7c6c081e462c077dd4]
+## 5. Amendment of the Occupational Pension Schemes (Scheme Funding) Regulations[^c-baa424070a381d7c6c081e462c077dd4]
 
 (1) The Occupational Pension Schemes (Scheme Funding) Regulations (Northern Ireland) 2005[^f00014]shall be amended in accordance with paragraphs (2) and (3).
 
@@ -158,11 +158,11 @@ The transposition of Article 16.2(c) of the Directive is detailed in a Transposi
 
 [^f00005]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
-[^key-57600f08afdd7beb0f3906eea54b83b2]: Commencement: Reg. 1 in operation at 24.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/297/regulation/1/1)
+[^c-57600f08afdd7beb0f3906eea54b83b2]: Commencement: Reg. 1 in operation at 24.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/297/regulation/1/1)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-d79d685bdce006bc1140caa316e4ed7e]: Commencement: Reg. 2 in operation at 24.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/297/regulation/1/1)
+[^c-d79d685bdce006bc1140caa316e4ed7e]: Commencement: Reg. 2 in operation at 24.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/297/regulation/1/1)
 
 [^f00007]: Footnote: Article 205 is modified in respect of schemes undertaking cross-border activities by [S.R. 2005 No. 568](https://www.legislation.gov.uk/nisr/2005/568) and in respect of schemes that are subject to the regulatory own funds requirement by [S.R. 2005 No. 570](https://www.legislation.gov.uk/nisr/2005/570)
 
@@ -170,12 +170,12 @@ The transposition of Article 16.2(c) of the Directive is detailed in a Transposi
 
 [^f00009]: Footnote: Article 10 was amended by paragraph 9 of Schedule 2 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 and Schedule 11 to the Pensions (Northern Ireland) Order 2005
 
-[^key-fe62e80a5391493202ea1e8cabab1a29]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/297/regulation/3) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
+[^c-fe62e80a5391493202ea1e8cabab1a29]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/297/regulation/3) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
 
-[^key-b153623e3703d5e68669dc49b42007c6]: Commencement: Reg. 4 in operation at 24.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/297/regulation/1/1)
+[^c-b153623e3703d5e68669dc49b42007c6]: Commencement: Reg. 4 in operation at 24.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/297/regulation/1/1)
 
 [^f00013]: Footnote: [S.R. 2005 No. 93](https://www.legislation.gov.uk/nisr/2005/93)
 
-[^key-baa424070a381d7c6c081e462c077dd4]: Commencement: Reg. 5 in operation at 24.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/297/regulation/1/1)
+[^c-baa424070a381d7c6c081e462c077dd4]: Commencement: Reg. 5 in operation at 24.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/297/regulation/1/1)
 
 [^f00014]: Footnote: [S.R. 2005 No. 568](https://www.legislation.gov.uk/nisr/2005/568); those Regulations are modified in their application to an occupational pension scheme that is subject to the regulatory own funds requirement by [S.R. 2005 No. 570](https://www.legislation.gov.uk/nisr/2005/570)

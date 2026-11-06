@@ -28,9 +28,9 @@ Regulation 10
 
 In addition to the information required by section 416 of the 2006 Act, the directors' report must contain the following information.
 
-**1A.**[^key-cd6e879e6a8daef0882de88bb006a4db] Where a company has chosen in accordance with section 414C(11) to set out in the company’s strategic report information required by this Schedule to be contained in the directors’ report it shall state in the directors’ report that it has done so and in respect of which information it has done so.
+**1A.**[^c-cd6e879e6a8daef0882de88bb006a4db] Where a company has chosen in accordance with section 414C(11) to set out in the company’s strategic report information required by this Schedule to be contained in the directors’ report it shall state in the directors’ report that it has done so and in respect of which information it has done so.
 
-#### 2. Asset values[^key-a67914e92c95eb2a52f97ed5f4d1cf42]
+#### 2. Asset values[^c-a67914e92c95eb2a52f97ed5f4d1cf42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -62,7 +62,7 @@ the directors' report for the year is not, by virtue of sub-paragraph (1), requi
 
 (4) Any expression used in this paragraph which is also used in Part 14 of the 2006 Act (control of political donations and expenditure) has the same meaning as in that Part.
 
-**4.** (1) If the company (not being the wholly-owned subsidiary of a company incorporated in the United Kingdom) has in the financial year made any contribution to a non-UK[^key-f6ecaad6ac07da1edd42f4a3d9e8c2dd] political party, the directors' report for the year must contain—
+**4.** (1) If the company (not being the wholly-owned subsidiary of a company incorporated in the United Kingdom) has in the financial year made any contribution to a non-UK[^c-f6ecaad6ac07da1edd42f4a3d9e8c2dd] political party, the directors' report for the year must contain—
 
 - (a) a statement of the amount of the contribution, or
 - (b) (if it has made two or more such contributions in the year) a statement of the total amount of the contributions.
@@ -80,23 +80,23 @@ the directors' report for the year is not, by virtue of sub-paragraph (1), requi
 - (b) any subscription or other fee paid for affiliation to, or membership of, the organisation; or
 - (c) any money spent (otherwise than by the organisation or a person acting on its behalf) in paying any expenses incurred directly or indirectly by the organisation.
 
-(4) In this paragraph, “**non-UK[^key-ff85e74207af6a38a4a25b6c57c4fd8c] political party**” means any political party which carries on, or proposes to carry on, its activities wholly outside the United Kingdom[^key-0cca084ec3de63509042fd78f9d6d9a9].
+(4) In this paragraph, “**non-UK[^c-ff85e74207af6a38a4a25b6c57c4fd8c] political party**” means any political party which carries on, or proposes to carry on, its activities wholly outside the United Kingdom[^c-0cca084ec3de63509042fd78f9d6d9a9].
 
-#### 5. Charitable donations[^key-c2d7f265c1645a87f1f34f1858f3b4eb]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 6. Financial instruments[^key-3aeedb9820c117f5a8593f4c916884ae]
+#### 5. Charitable donations[^c-c2d7f265c1645a87f1f34f1858f3b4eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Miscellaneous[^key-0c42c8209f64ffb4cbac9e3e2d13df88]
+#### 6. Financial instruments[^c-3aeedb9820c117f5a8593f4c916884ae]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 7. Miscellaneous[^c-0c42c8209f64ffb4cbac9e3e2d13df88]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 2 — DISCLOSURE REQUIRED BY COMPANY ACQUIRING ITS OWN SHARES ETC.
 
-**8.** This Part of this Schedule applies where shares in a public[^key-b8f63a25e0a49db0e2dfc655a0edb2c0] company—
+**8.** This Part of this Schedule applies where shares in a public[^c-b8f63a25e0a49db0e2dfc655a0edb2c0] company—
 
 - (a) are purchased by the company or are acquired by it by forfeiture or surrender in lieu of forfeiture, or in pursuance of any of the following provisions (acquisition of own shares by company limited by shares)—
   - (i) section 143(3) of the Companies Act 1985 [^c19250101],
@@ -121,35 +121,35 @@ the directors' report for the year is not, by virtue of sub-paragraph (1), requi
 - (f) where any of the shares have been so charged the amount of the charge in each case; and
 - (g) where any of the shares have been disposed of by the company or the person who acquired them in such circumstances for money or money's worth the amount or value of the consideration in each case.
 
-### PART 3 — DISCLOSURE CONCERNING EMPLOYMENT ETC. OF DISABLED PERSONS[^key-5397a47885a6d81c185399a878497cce]
+### PART 3 — DISCLOSURE CONCERNING EMPLOYMENT ETC. OF DISABLED PERSONS[^c-5397a47885a6d81c185399a878497cce]
 
 **No longer in force.**
 
-**10.**[^key-5397a47885a6d81c185399a878497cce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-5397a47885a6d81c185399a878497cce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4 — ENGAGEMENT WITH EMPLOYEES, SUPPLIERS, CUSTOMERS AND OTHERS[^key-a4e774d167e086e0f5110565f89b9d4d]
+### PART 4 — ENGAGEMENT WITH EMPLOYEES, SUPPLIERS, CUSTOMERS AND OTHERS[^c-a4e774d167e086e0f5110565f89b9d4d]
 
 **No longer in force.**
 
-#### 11. Engagement with employees[^key-a4e774d167e086e0f5110565f89b9d4d]
+#### 11. Engagement with employees[^c-a4e774d167e086e0f5110565f89b9d4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11A.**[^key-a4e774d167e086e0f5110565f89b9d4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11A.**[^c-a4e774d167e086e0f5110565f89b9d4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11B. Engagement with suppliers, customers and others in a business relationship with the company[^key-a4e774d167e086e0f5110565f89b9d4d]
+#### 11B. Engagement with suppliers, customers and others in a business relationship with the company[^c-a4e774d167e086e0f5110565f89b9d4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11C.**[^key-a4e774d167e086e0f5110565f89b9d4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11C.**[^c-a4e774d167e086e0f5110565f89b9d4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 5 — POLICY AND PRACTICE ON PAYMENT OF CREDITORS
 
-**12.**[^key-df3f0a3502115e151b2fac295cb0d301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-df3f0a3502115e151b2fac295cb0d301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 6 — DISCLOSURE REQUIRED BY CERTAIN PUBLICLY-TRADED COMPANIES
 
-**13.** (1) This Part of this Schedule applies to the directors' report for a financial year if the company had securities carrying voting rights admitted to trading on a UK[^key-50c8e162a64b2603979c4883f470e658] regulated market at the end of that year.
+**13.** (1) This Part of this Schedule applies to the directors' report for a financial year if the company had securities carrying voting rights admitted to trading on a UK[^c-50c8e162a64b2603979c4883f470e658] regulated market at the end of that year.
 
 (2) The report must contain detailed information, by reference to the end of that year, on the following matters—
 
@@ -198,17 +198,17 @@ the directors' report for the year is not, by virtue of sub-paragraph (1), requi
 (6) In this paragraph—
 
 - “**securities**” means shares or debentures;
-- “**takeover bid**” has the same meaning as in paragraph 20(1) of Schedule 1C to the Companies Act 2006[^key-c69079004b8067943fa32f7040a27348];
-- [^key-daa88fe61895ced609db3d06dc53e73f]...
+- “**takeover bid**” has the same meaning as in paragraph 20(1) of Schedule 1C to the Companies Act 2006[^c-c69079004b8067943fa32f7040a27348];
+- [^c-daa88fe61895ced609db3d06dc53e73f]...
 - “**voting rights**” means rights to vote at general meetings of the company in question, including rights that arise only in certain circumstances.
 
 **14.** The directors' report must also contain any necessary explanatory material with regard to information that is required to be included in the report by this Part.
 
-### PART 7 — DISCLOSURES CONCERNING GREENHOUSE GAS EMISSIONS , ENERGY CONSUMPTION AND ENERGY EFFICIENCY ACTION BY QUOTED COMPANIES[^key-13b220eca8db87b700572ff0945dce0b][^key-b4ece0cbf6867d051381a015a677daa6]
+### PART 7 — DISCLOSURES CONCERNING GREENHOUSE GAS EMISSIONS , ENERGY CONSUMPTION AND ENERGY EFFICIENCY ACTION BY QUOTED COMPANIES[^c-13b220eca8db87b700572ff0945dce0b][^c-b4ece0cbf6867d051381a015a677daa6]
 
-**15.** (1) Subject to sub-paragraph (1A),[^key-3bb5f3d47e0d6a5536095c0b7d96c4ab] this Part of this Schedule applies to the directors’ report for a financial year if the company is a quoted company.
+**15.** (1) Subject to sub-paragraph (1A),[^c-3bb5f3d47e0d6a5536095c0b7d96c4ab] this Part of this Schedule applies to the directors’ report for a financial year if the company is a quoted company.
 
-(1A)[^key-118ad1841206bffffb4e572c1b5601c0] This Part does not apply if—
+(1A)[^c-118ad1841206bffffb4e572c1b5601c0] This Part does not apply if—
 
 - (a) the company is a subsidiary undertaking at the end of the financial year;
 - (b) the company is included in the group report of a parent undertaking; and
@@ -227,7 +227,7 @@ the directors' report for the year is not, by virtue of sub-paragraph (1), requi
 
 (3) The report must state the annual quantity of emissions in tonnes of carbon dioxide equivalent resulting from the purchase of electricity, heat, steam or cooling by the company for its own use.
 
-(3A)[^key-1a406d702bf8fabce21d97b1f1d8f550] The report must state a figure, in kWh, which is the aggregate of—
+(3A)[^c-1a406d702bf8fabce21d97b1f1d8f550] The report must state a figure, in kWh, which is the aggregate of—
 
 - (a) the annual quantity of energy consumed from activities for which the company is responsible, including—
   - (i) the combustion of fuel; and
@@ -240,14 +240,14 @@ the directors' report for the year is not, by virtue of sub-paragraph (1), requi
 
 (3D) If the company has in the financial year to which the report relates taken any measures for the purpose of increasing the company’s energy efficiency, the report must contain a description of the principal measures taken for that purpose.
 
-(4) Sub-paragraphs (2) to (3D) and paragraphs 16 and 17[^key-18b1de474ea8b3a2214f30b663b55786] apply only to the extent that it is practical for the company to obtain the information in question; but where it is not practical for the company to obtain some or all of that information, the report must state what information is not included and why.
+(4) Sub-paragraphs (2) to (3D) and paragraphs 16 and 17[^c-18b1de474ea8b3a2214f30b663b55786] apply only to the extent that it is practical for the company to obtain the information in question; but where it is not practical for the company to obtain some or all of that information, the report must state what information is not included and why.
 
-(5)[^key-60fced41a17c92a7e5a5b44a6b9c274c] Nothing in sub-paragraphs (2) to (3D) and paragraphs 16 and 17 requires the disclosure of information if—
+(5)[^c-60fced41a17c92a7e5a5b44a6b9c274c] Nothing in sub-paragraphs (2) to (3D) and paragraphs 16 and 17 requires the disclosure of information if—
 
 - (a) the company consumed 40,000 kWh of energy or less during the period in respect of which the directors’ report is prepared and the report states that the information is not disclosed for that reason; or
 - (b) the disclosure would, in the opinion of the directors, be seriously prejudicial to the interests of the company, and the report states that the information is not disclosed for that reason.
 
-**15A.**[^key-13393690987b1de3b04f170b1e3dd651] (1) If the report is a group directors’ report, subject to sub-paragraph (2), paragraph 15(2) to (3A), (3D) and (5)(a) and paragraph 17 have effect as if references to the company were references to the company and its subsidiary undertakings included in the consolidation that are quoted companies, unquoted companies or limited liability partnerships.
+**15A.**[^c-13393690987b1de3b04f170b1e3dd651] (1) If the report is a group directors’ report, subject to sub-paragraph (2), paragraph 15(2) to (3A), (3D) and (5)(a) and paragraph 17 have effect as if references to the company were references to the company and its subsidiary undertakings included in the consolidation that are quoted companies, unquoted companies or limited liability partnerships.
 
 (2) The company may exclude from the report any information which relates to—
 
@@ -257,22 +257,22 @@ the directors' report for the year is not, by virtue of sub-paragraph (1), requi
 
 (3) For the purpose of this paragraph, “limited liability partnership” means a limited liability partnership registered under the Limited Liability Partnerships Act 2000.
 
-**16.** The directors’ report must state the methodologies used to calculate the information disclosed under paragraph 15(2) , (3) and (3A)[^key-8ec5f8822393b864838c835cd4a5ede5].
+**16.** The directors’ report must state the methodologies used to calculate the information disclosed under paragraph 15(2) , (3) and (3A)[^c-8ec5f8822393b864838c835cd4a5ede5].
 
-**17.** The directors’ report must state at least one ratio which expresses the [^key-d16587d4e0e61c05155823f5d3183b0e]... company’s annual emissions in relation to a quantifiable factor associated with the company’s activities.
+**17.** The directors’ report must state at least one ratio which expresses the [^c-d16587d4e0e61c05155823f5d3183b0e]... company’s annual emissions in relation to a quantifiable factor associated with the company’s activities.
 
 **18.** With the exception of the first year for which the directors’ report contains the information required by paragraphs 15(2) and (3) and 17, the report must state not only the information required by paragraphs 15(2) and (3) and 17, but also that information as disclosed in the report for the preceding financial year.
 
-**18A.**[^key-efe611327abb359a92bdf76b42ae4343] With the exception of the first year for which the directors’ report contains the information required by paragraph 15(3A) to (3D), the report must state not only the information required by paragraph 15(3A) to (3D) but that information as disclosed in the report for the preceding financial year.
+**18A.**[^c-efe611327abb359a92bdf76b42ae4343] With the exception of the first year for which the directors’ report contains the information required by paragraph 15(3A) to (3D), the report must state not only the information required by paragraph 15(3A) to (3D) but that information as disclosed in the report for the preceding financial year.
 
-**19.** The directors’ report must state [^key-14f3350c3e4f2c28849d5db01a22a0e0]... the period for which it is reporting the information required by paragraph 15(2) if it[^key-bf26c23ea1a7cfac0dd46f1d450bbab5] is different to the period in respect of which the directors’ report is prepared.
+**19.** The directors’ report must state [^c-14f3350c3e4f2c28849d5db01a22a0e0]... the period for which it is reporting the information required by paragraph 15(2) if it[^c-bf26c23ea1a7cfac0dd46f1d450bbab5] is different to the period in respect of which the directors’ report is prepared.
 
-**19A.**[^key-6e78bd51684758ec7cb8999c1d497e88] The period for which the directors’ report is reporting the information required by paragraph 15(3) and (3A) must be the same as the period for which it is reporting the information required by paragraph 15(2).
+**19A.**[^c-6e78bd51684758ec7cb8999c1d497e88] The period for which the directors’ report is reporting the information required by paragraph 15(3) and (3A) must be the same as the period for which it is reporting the information required by paragraph 15(2).
 
 **20.** The following definitions apply for the purposes of this Part of this Schedule—
 
 - “emissions” means emissions into the atmosphere of a greenhouse gas as defined in section 92 of the Climate Change Act 2008 which are attributable to human activity;
-- “energy” means all forms of energy products where “energy products” means combustible fuels, heat, renewable energy, electricity, or any other form of energy;[^key-65b44b3aaccfcd4060738e4155541d10]
+- “energy” means all forms of energy products where “energy products” means combustible fuels, heat, renewable energy, electricity, or any other form of energy;[^c-65b44b3aaccfcd4060738e4155541d10]
 - “energy efficiency” means the ratio of output of performance, service, goods or energy to input of energy;
 - “kWh” means kilowatt hours;
 - “offshore area” means the areas comprising—
@@ -284,7 +284,7 @@ the directors' report for the year is not, by virtue of sub-paragraph (1), requi
   and includes the places above those areas, and the bed and subsoil of the sea within those areas;.
 - “tonne of carbon dioxide equivalent” has the meaning given in section 93(2) of the Climate Change Act 2008.
 
-### PART 7A — DISCLOSURES CONCERNING GREENHOUSE GAS EMISSIONS, ENERGY CONSUMPTION AND ENERGY EFFICIENCY ACTION BY UNQUOTED COMPANIES[^key-09008b4aa6e5273c0282db7d04cd89ed][^key-ffa50f8da3ee6c7ee7686c0a6de619a3]
+### PART 7A — DISCLOSURES CONCERNING GREENHOUSE GAS EMISSIONS, ENERGY CONSUMPTION AND ENERGY EFFICIENCY ACTION BY UNQUOTED COMPANIES[^c-09008b4aa6e5273c0282db7d04cd89ed][^c-ffa50f8da3ee6c7ee7686c0a6de619a3]
 
 **20A.** (1) Unless the company is exempted under paragraph 20B or 20C, and subject to sub-paragraph (2), this Part of this Schedule applies to the directors’ report for a financial year if the company is an unquoted company.
 
@@ -446,7 +446,7 @@ the directors' report for the year is not, by virtue of sub-paragraph (1), requi
 - “train” has the meaning given in section 83 of the Railways Act 1993;
 - “vessel” means any boat or ship which is self-propelled and operates in or under water.
 
-### PART 8 — STATEMENT OF CORPORATE GOVERNANCE ARRANGEMENTS[^key-f6727a5afd1a8d9fa8230f6cb3ac590d]
+### PART 8 — STATEMENT OF CORPORATE GOVERNANCE ARRANGEMENTS[^c-f6727a5afd1a8d9fa8230f6cb3ac590d]
 
 **21.** This Part of this Schedule applies to the directors’ report for a financial year unless the company is exempted under paragraph 22.
 
@@ -540,7 +540,7 @@ the directors' report for the year is not, by virtue of sub-paragraph (1), requi
 
 (9) A person guilty of an offence under sub-paragraph (8) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### Part 9 — DISCLOSURES CONCERNING PAYMENT PRACTICES AND PERFORMANCE IN RESPECT TO SUPPLIERS[^key-5bf472776566d645f9d1bb01e46e89d4]
+### Part 9 — DISCLOSURES CONCERNING PAYMENT PRACTICES AND PERFORMANCE IN RESPECT TO SUPPLIERS[^c-5bf472776566d645f9d1bb01e46e89d4]
 
 **28.** (1) Subject to paragraphs 29 and 30, the directors’ report for a financial year must contain the information specified by sub-paragraphs (2), (3) and (4).
 
@@ -627,23 +627,23 @@ the directors' report for the year is not, by virtue of sub-paragraph (1), requi
 
 ## Annotations
 
-[^key-cd6e879e6a8daef0882de88bb006a4db]: Textual amendment: Sch. 7 para. 1A inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3), [7(3)(a)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/7/3/a)
+[^c-cd6e879e6a8daef0882de88bb006a4db]: Textual amendment: Sch. 7 para. 1A inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3), [7(3)(a)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/7/3/a)
 
-[^key-a67914e92c95eb2a52f97ed5f4d1cf42]: Textual amendment: Sch. 7 para. 2 omitted (with effect in accordance with reg. 1(4) of the amending S.I.) by virtue of [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3), [7(3)(b)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/7/3/b)
+[^c-a67914e92c95eb2a52f97ed5f4d1cf42]: Textual amendment: Sch. 7 para. 2 omitted (with effect in accordance with reg. 1(4) of the amending S.I.) by virtue of [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3), [7(3)(b)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/7/3/b)
 
-[^key-f6ecaad6ac07da1edd42f4a3d9e8c2dd]: Textual amendment: Word in [Sch. 7 para. 4(1)](https://www.legislation.gov.uk/uksi/2008/410/schedule/7/paragraph/4/1) substituted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 5(a)(i)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/5/a/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/145/regulation/7)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f6ecaad6ac07da1edd42f4a3d9e8c2dd]: Textual amendment: Word in [Sch. 7 para. 4(1)](https://www.legislation.gov.uk/uksi/2008/410/schedule/7/paragraph/4/1) substituted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 5(a)(i)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/5/a/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/145/regulation/7)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ff85e74207af6a38a4a25b6c57c4fd8c]: Textual amendment: Word in [Sch. 7 para. 4(4)](https://www.legislation.gov.uk/uksi/2008/410/schedule/7/paragraph/4/4) substituted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 5(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/5/a/ii/aa) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/145/regulation/7)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ff85e74207af6a38a4a25b6c57c4fd8c]: Textual amendment: Word in [Sch. 7 para. 4(4)](https://www.legislation.gov.uk/uksi/2008/410/schedule/7/paragraph/4/4) substituted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 5(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/5/a/ii/aa) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/145/regulation/7)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0cca084ec3de63509042fd78f9d6d9a9]: Textual amendment: Words in [Sch. 7 para. 4(4)](https://www.legislation.gov.uk/uksi/2008/410/schedule/7/paragraph/4/4) substituted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 5(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/5/a/ii/bb) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/145/regulation/7)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0cca084ec3de63509042fd78f9d6d9a9]: Textual amendment: Words in [Sch. 7 para. 4(4)](https://www.legislation.gov.uk/uksi/2008/410/schedule/7/paragraph/4/4) substituted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 5(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/5/a/ii/bb) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/145/regulation/7)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c2d7f265c1645a87f1f34f1858f3b4eb]: Textual amendment: Sch. 7 para. 5 omitted (with effect in accordance with reg. 1(4) of the amending S.I.) by virtue of [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3), [7(3)(b)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/7/3/b)
+[^c-c2d7f265c1645a87f1f34f1858f3b4eb]: Textual amendment: Sch. 7 para. 5 omitted (with effect in accordance with reg. 1(4) of the amending S.I.) by virtue of [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3), [7(3)(b)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/7/3/b)
 
-[^key-3aeedb9820c117f5a8593f4c916884ae]: Textual amendment: [Sch. 7 para. 6](https://www.legislation.gov.uk/uksi/2008/410/schedule/7/paragraph/6) omitted (6.4.2025 with effect in relation to financial years beginning on or after 6.4.2025) by virtue of [The Companies (Accounts and Reports) (Amendment and Transitional Provision) Regulations 2024 (S.I. 2024/1303)](https://www.legislation.gov.uk/uksi/2024/1303), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/2/2), [5(3)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/5/3)
+[^c-3aeedb9820c117f5a8593f4c916884ae]: Textual amendment: [Sch. 7 para. 6](https://www.legislation.gov.uk/uksi/2008/410/schedule/7/paragraph/6) omitted (6.4.2025 with effect in relation to financial years beginning on or after 6.4.2025) by virtue of [The Companies (Accounts and Reports) (Amendment and Transitional Provision) Regulations 2024 (S.I. 2024/1303)](https://www.legislation.gov.uk/uksi/2024/1303), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/2/2), [5(3)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/5/3)
 
-[^key-0c42c8209f64ffb4cbac9e3e2d13df88]: Textual amendment: [Sch. 7 para. 7](https://www.legislation.gov.uk/uksi/2008/410/schedule/7/paragraph/7) omitted (6.4.2025 with effect in relation to financial years beginning on or after 6.4.2025) by virtue of [The Companies (Accounts and Reports) (Amendment and Transitional Provision) Regulations 2024 (S.I. 2024/1303)](https://www.legislation.gov.uk/uksi/2024/1303), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/2/2), [5(3)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/5/3)
+[^c-0c42c8209f64ffb4cbac9e3e2d13df88]: Textual amendment: [Sch. 7 para. 7](https://www.legislation.gov.uk/uksi/2008/410/schedule/7/paragraph/7) omitted (6.4.2025 with effect in relation to financial years beginning on or after 6.4.2025) by virtue of [The Companies (Accounts and Reports) (Amendment and Transitional Provision) Regulations 2024 (S.I. 2024/1303)](https://www.legislation.gov.uk/uksi/2024/1303), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/2/2), [5(3)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/5/3)
 
-[^key-b8f63a25e0a49db0e2dfc655a0edb2c0]: Textual amendment: Word in Sch. 7 para. 8 inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3), [7(3)(c)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/7/3/c)
+[^c-b8f63a25e0a49db0e2dfc655a0edb2c0]: Textual amendment: Word in Sch. 7 para. 8 inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3), [7(3)(c)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/7/3/c)
 
 [^c19250101]: Marginal citation: Section 143 is prospectively repealed by the 2006 Act.
 
@@ -657,52 +657,52 @@ the directors' report for the year is not, by virtue of sub-paragraph (1), requi
 
 [^c19250151]: Marginal citation: Article 160 is prospectively repealed by the 2006 Act.
 
-[^key-5397a47885a6d81c185399a878497cce]: Textual amendment: [Sch. 7 Pt. 3](https://www.legislation.gov.uk/uksi/2008/410/schedule/7/part/3) omitted (6.4.2025 with effect in relation to financial years beginning on or after 6.4.2025) by virtue of [The Companies (Accounts and Reports) (Amendment and Transitional Provision) Regulations 2024 (S.I. 2024/1303)](https://www.legislation.gov.uk/uksi/2024/1303), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/2/2), [5(3)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/5/3)
+[^c-5397a47885a6d81c185399a878497cce]: Textual amendment: [Sch. 7 Pt. 3](https://www.legislation.gov.uk/uksi/2008/410/schedule/7/part/3) omitted (6.4.2025 with effect in relation to financial years beginning on or after 6.4.2025) by virtue of [The Companies (Accounts and Reports) (Amendment and Transitional Provision) Regulations 2024 (S.I. 2024/1303)](https://www.legislation.gov.uk/uksi/2024/1303), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/2/2), [5(3)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/5/3)
 
-[^key-a4e774d167e086e0f5110565f89b9d4d]: Textual amendment: [Sch. 7 Pt. 4](https://www.legislation.gov.uk/uksi/2008/410/schedule/7/part/4) omitted (6.4.2025 with effect in relation to financial years beginning on or after 6.4.2025) by virtue of [The Companies (Accounts and Reports) (Amendment and Transitional Provision) Regulations 2024 (S.I. 2024/1303)](https://www.legislation.gov.uk/uksi/2024/1303), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/2/2), [5(3)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/5/3)
+[^c-a4e774d167e086e0f5110565f89b9d4d]: Textual amendment: [Sch. 7 Pt. 4](https://www.legislation.gov.uk/uksi/2008/410/schedule/7/part/4) omitted (6.4.2025 with effect in relation to financial years beginning on or after 6.4.2025) by virtue of [The Companies (Accounts and Reports) (Amendment and Transitional Provision) Regulations 2024 (S.I. 2024/1303)](https://www.legislation.gov.uk/uksi/2024/1303), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/2/2), [5(3)](https://www.legislation.gov.uk/uksi/2024/1303/regulation/5/3)
 
-[^key-df3f0a3502115e151b2fac295cb0d301]: Textual amendment: Sch. 7 para. 12 omitted (with effect in accordance with reg. 1(4) of the amending S.I.) by virtue of [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3), [7(3)(d)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/7/3/d)
+[^c-df3f0a3502115e151b2fac295cb0d301]: Textual amendment: Sch. 7 para. 12 omitted (with effect in accordance with reg. 1(4) of the amending S.I.) by virtue of [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3), [7(3)(d)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/7/3/d)
 
-[^key-50c8e162a64b2603979c4883f470e658]: Textual amendment: Word in [Sch. 7 para. 13(1)](https://www.legislation.gov.uk/uksi/2008/410/schedule/7/paragraph/13/1) inserted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 5(b)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/5/b) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/145/regulation/7/2)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-50c8e162a64b2603979c4883f470e658]: Textual amendment: Word in [Sch. 7 para. 13(1)](https://www.legislation.gov.uk/uksi/2008/410/schedule/7/paragraph/13/1) inserted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 5(b)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/5/b) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/145/regulation/7/2)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c69079004b8067943fa32f7040a27348]: Textual amendment: Words in [Sch. 7 para. 13(6)](https://www.legislation.gov.uk/uksi/2008/410/schedule/7/paragraph/13/6) substituted (31.12.2020) by [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [18(a)](https://www.legislation.gov.uk/uksi/2019/217/regulation/18/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c69079004b8067943fa32f7040a27348]: Textual amendment: Words in [Sch. 7 para. 13(6)](https://www.legislation.gov.uk/uksi/2008/410/schedule/7/paragraph/13/6) substituted (31.12.2020) by [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [18(a)](https://www.legislation.gov.uk/uksi/2019/217/regulation/18/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-daa88fe61895ced609db3d06dc53e73f]: Textual amendment: Words in [Sch. 7 para. 13(6)](https://www.legislation.gov.uk/uksi/2008/410/schedule/7/paragraph/13/6) omitted (31.12.2020) by virtue of [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [18(b)](https://www.legislation.gov.uk/uksi/2019/217/regulation/18/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-daa88fe61895ced609db3d06dc53e73f]: Textual amendment: Words in [Sch. 7 para. 13(6)](https://www.legislation.gov.uk/uksi/2008/410/schedule/7/paragraph/13/6) omitted (31.12.2020) by virtue of [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [18(b)](https://www.legislation.gov.uk/uksi/2019/217/regulation/18/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-13b220eca8db87b700572ff0945dce0b]: Textual amendment: Sch. 7 Pt. 7 inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3), [7(3)(e)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/7/3/e)
+[^c-13b220eca8db87b700572ff0945dce0b]: Textual amendment: Sch. 7 Pt. 7 inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3), [7(3)(e)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/7/3/e)
 
-[^key-b4ece0cbf6867d051381a015a677daa6]: Textual amendment: Words in Sch. 7 Pt. 7 heading inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [6(2)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/6/2)
+[^c-b4ece0cbf6867d051381a015a677daa6]: Textual amendment: Words in Sch. 7 Pt. 7 heading inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [6(2)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/6/2)
 
-[^key-3bb5f3d47e0d6a5536095c0b7d96c4ab]: Textual amendment: Words in Sch. 7 para. 15(1) inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/6/3/a)
+[^c-3bb5f3d47e0d6a5536095c0b7d96c4ab]: Textual amendment: Words in Sch. 7 para. 15(1) inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/6/3/a)
 
-[^key-118ad1841206bffffb4e572c1b5601c0]: Textual amendment: Sch. 7 para. 15(1A)(1B) inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [6(3)(b)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/6/3/b)
+[^c-118ad1841206bffffb4e572c1b5601c0]: Textual amendment: Sch. 7 para. 15(1A)(1B) inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [6(3)(b)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/6/3/b)
 
-[^key-1a406d702bf8fabce21d97b1f1d8f550]: Textual amendment: Sch. 7 para. 15(3A)-(3D) inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [6(3)(c)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/6/3/c)
+[^c-1a406d702bf8fabce21d97b1f1d8f550]: Textual amendment: Sch. 7 para. 15(3A)-(3D) inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [6(3)(c)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/6/3/c)
 
-[^key-18b1de474ea8b3a2214f30b663b55786]: Textual amendment: Words in Sch. 7 para. 15(4) substituted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [6(3)(d)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/6/3/d)
+[^c-18b1de474ea8b3a2214f30b663b55786]: Textual amendment: Words in Sch. 7 para. 15(4) substituted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [6(3)(d)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/6/3/d)
 
-[^key-60fced41a17c92a7e5a5b44a6b9c274c]: Textual amendment: Sch. 7 para. 15(5) inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [6(3)(e)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/6/3/e)
+[^c-60fced41a17c92a7e5a5b44a6b9c274c]: Textual amendment: Sch. 7 para. 15(5) inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [6(3)(e)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/6/3/e)
 
-[^key-13393690987b1de3b04f170b1e3dd651]: Textual amendment: Sch. 7 para. 15A inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [6(4)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/6/4)
+[^c-13393690987b1de3b04f170b1e3dd651]: Textual amendment: Sch. 7 para. 15A inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [6(4)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/6/4)
 
-[^key-8ec5f8822393b864838c835cd4a5ede5]: Textual amendment: Words in Sch. 7 para. 16 substituted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [6(5)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/6/5)
+[^c-8ec5f8822393b864838c835cd4a5ede5]: Textual amendment: Words in Sch. 7 para. 16 substituted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [6(5)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/6/5)
 
-[^key-d16587d4e0e61c05155823f5d3183b0e]: Textual amendment: Word in Sch. 7 para. 17 omitted (1.4.2019) by virtue of [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [6(6)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/6/6)
+[^c-d16587d4e0e61c05155823f5d3183b0e]: Textual amendment: Word in Sch. 7 para. 17 omitted (1.4.2019) by virtue of [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [6(6)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/6/6)
 
-[^key-efe611327abb359a92bdf76b42ae4343]: Textual amendment: Sch. 7 para. 18A inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [6(7)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/6/7)
+[^c-efe611327abb359a92bdf76b42ae4343]: Textual amendment: Sch. 7 para. 18A inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [6(7)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/6/7)
 
-[^key-14f3350c3e4f2c28849d5db01a22a0e0]: Textual amendment: Word in Sch. 7 para. 19 omitted (1.4.2019) by virtue of [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [6(8)(a)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/6/8/a)
+[^c-14f3350c3e4f2c28849d5db01a22a0e0]: Textual amendment: Word in Sch. 7 para. 19 omitted (1.4.2019) by virtue of [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [6(8)(a)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/6/8/a)
 
-[^key-bf26c23ea1a7cfac0dd46f1d450bbab5]: Textual amendment: Words in Sch. 7 para. 19 substituted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [6(8)(b)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/6/8/b)
+[^c-bf26c23ea1a7cfac0dd46f1d450bbab5]: Textual amendment: Words in Sch. 7 para. 19 substituted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [6(8)(b)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/6/8/b)
 
-[^key-6e78bd51684758ec7cb8999c1d497e88]: Textual amendment: Sch. 7 para. 19A inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [6(9)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/6/9)
+[^c-6e78bd51684758ec7cb8999c1d497e88]: Textual amendment: Sch. 7 para. 19A inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [6(9)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/6/9)
 
-[^key-65b44b3aaccfcd4060738e4155541d10]: Textual amendment: Words in Sch. 7 para. 20 inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [6(10)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/6/10)
+[^c-65b44b3aaccfcd4060738e4155541d10]: Textual amendment: Words in Sch. 7 para. 20 inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [6(10)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/6/10)
 
-[^key-09008b4aa6e5273c0282db7d04cd89ed]: Modification: Sch. 7 Pt. 7A applied (with modifications) (1.4.2019) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 416](https://www.legislation.gov.uk/ukpga/2006/46/section/416) (as modified by [S.I. 2008/1911](https://www.legislation.gov.uk/uksi/2008/1911), [reg. 12B](https://www.legislation.gov.uk/uksi/2008/1911/regulation/12B) (as inserted by [S.I. 2018/1155](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [10](https://www.legislation.gov.uk/uksi/2018/1155/regulation/10)))
+[^c-09008b4aa6e5273c0282db7d04cd89ed]: Modification: Sch. 7 Pt. 7A applied (with modifications) (1.4.2019) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 416](https://www.legislation.gov.uk/ukpga/2006/46/section/416) (as modified by [S.I. 2008/1911](https://www.legislation.gov.uk/uksi/2008/1911), [reg. 12B](https://www.legislation.gov.uk/uksi/2008/1911/regulation/12B) (as inserted by [S.I. 2018/1155](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [10](https://www.legislation.gov.uk/uksi/2018/1155/regulation/10)))
 
-[^key-ffa50f8da3ee6c7ee7686c0a6de619a3]: Textual amendment: Sch. 7 Pt. 7A inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [7](https://www.legislation.gov.uk/uksi/2018/1155/regulation/7)
+[^c-ffa50f8da3ee6c7ee7686c0a6de619a3]: Textual amendment: Sch. 7 Pt. 7A inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [7](https://www.legislation.gov.uk/uksi/2018/1155/regulation/7)
 
-[^key-f6727a5afd1a8d9fa8230f6cb3ac590d]: Textual amendment: Sch. 7 Pt. 8 inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Companies (Miscellaneous Reporting) Regulations 2018 (S.I. 2018/860)](https://www.legislation.gov.uk/uksi/2018/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/860/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2018/860/regulation/14)
+[^c-f6727a5afd1a8d9fa8230f6cb3ac590d]: Textual amendment: Sch. 7 Pt. 8 inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Companies (Miscellaneous Reporting) Regulations 2018 (S.I. 2018/860)](https://www.legislation.gov.uk/uksi/2018/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/860/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2018/860/regulation/14)
 
-[^key-5bf472776566d645f9d1bb01e46e89d4]: Textual amendment: [Sch. 7 Pt. 9](https://www.legislation.gov.uk/uksi/2008/410/schedule/7/part/9) inserted (1.1.2026 with effect in respect of a company’s financial year beginning on or after 1.1.2026) by [The Companies (Directors’ Report) (Payment Reporting) Regulations 2025 (S.I. 2025/1152)](https://www.legislation.gov.uk/uksi/2025/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1152/regulation/1/2)[(4)](https://www.legislation.gov.uk/uksi/2025/1152/regulation/1/4), [5](https://www.legislation.gov.uk/uksi/2025/1152/regulation/5)
+[^c-5bf472776566d645f9d1bb01e46e89d4]: Textual amendment: [Sch. 7 Pt. 9](https://www.legislation.gov.uk/uksi/2008/410/schedule/7/part/9) inserted (1.1.2026 with effect in respect of a company’s financial year beginning on or after 1.1.2026) by [The Companies (Directors’ Report) (Payment Reporting) Regulations 2025 (S.I. 2025/1152)](https://www.legislation.gov.uk/uksi/2025/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1152/regulation/1/2)[(4)](https://www.legislation.gov.uk/uksi/2025/1152/regulation/1/4), [5](https://www.legislation.gov.uk/uksi/2025/1152/regulation/5)

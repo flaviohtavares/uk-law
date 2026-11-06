@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 71. Amendment of the enforcement provisions of the Energy Order[^key-7fa7fc5a79a75fd2c9df86f8cffeffda]
+## 71. Amendment of the enforcement provisions of the Energy Order[^c-7fa7fc5a79a75fd2c9df86f8cffeffda]
 
 *Extent: N.I.*
 
@@ -25,9 +25,9 @@ In Articles 42 to 51 of the Energy Order, for “licence holder”, substitute �
 - (a) Article 45(2) of the Energy Order;
 - (b) paragraphs (b) and (c) of Article 51(1) of the Energy Order.
 
-**72.**[^key-2e1043e011dc1b5b4b1a219e44935610] In Article 41(1)(a) of the Energy Order, after the words “electricity licences” there shall be inserted the words “and exemptions”.
+**72.**[^c-2e1043e011dc1b5b4b1a219e44935610] In Article 41(1)(a) of the Energy Order, after the words “electricity licences” there shall be inserted the words “and exemptions”.
 
-**73.**[^key-c7a4122fca8343090f65f3d79a6e0fbe] In Article 41(2) of the Energy Order, before the definition of “relevant conditions” there shall be inserted the following definition—
+**73.**[^c-c7a4122fca8343090f65f3d79a6e0fbe] In Article 41(2) of the Energy Order, before the definition of “relevant conditions” there shall be inserted the following definition—
 
 > - “regulated person” means any person who is—
 >   - (a) a licence holder; or
@@ -35,7 +35,7 @@ In Articles 42 to 51 of the Energy Order, for “licence holder”, substitute �
 
 .
 
-**74.**[^key-57bb4557fcc955ef668b3eb980b300d0] In Article 41(2) of the Energy Order, for the definition of “relevant conditions” there shall be substituted the following definition—
+**74.**[^c-57bb4557fcc955ef668b3eb980b300d0] In Article 41(2) of the Energy Order, for the definition of “relevant conditions” there shall be substituted the following definition—
 
 > - “relevant conditions” means—
 >   - (a) in relation to any licence holder, any condition of his licence;
@@ -43,13 +43,13 @@ In Articles 42 to 51 of the Energy Order, for “licence holder”, substitute �
 
 .
 
-**75.**[^key-47a6928076910cd803849a038337f6f0] In Article 41(2) of the Energy Order, for the definition of “relevant requirement” there shall be substituted the following definition—
+**75.**[^c-47a6928076910cd803849a038337f6f0] In Article 41(2) of the Energy Order, for the definition of “relevant requirement” there shall be substituted the following definition—
 
 > - “relevant requirement” has the meaning given to it in Articles 41A and 41B.
 
 .
 
-**76.**[^key-08beaa623f82b439af6e8016611c5286] After Article 41 of the Energy Order there shall be inserted the following new Articles—
+**76.**[^c-08beaa623f82b439af6e8016611c5286] After Article 41 of the Energy Order there shall be inserted the following new Articles—
 
 > **41A. Meaning of relevant requirement in relation to electricity**
 >
@@ -150,14 +150,14 @@ In Articles 42 to 51 of the Energy Order, for “licence holder”, substitute �
 
 ## Annotations
 
-[^key-7fa7fc5a79a75fd2c9df86f8cffeffda]: Commencement: Reg. 71 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-7fa7fc5a79a75fd2c9df86f8cffeffda]: Commencement: Reg. 71 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
 
-[^key-2e1043e011dc1b5b4b1a219e44935610]: Commencement: Reg. 72 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-2e1043e011dc1b5b4b1a219e44935610]: Commencement: Reg. 72 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
 
-[^key-c7a4122fca8343090f65f3d79a6e0fbe]: Commencement: Reg. 73 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-c7a4122fca8343090f65f3d79a6e0fbe]: Commencement: Reg. 73 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
 
-[^key-57bb4557fcc955ef668b3eb980b300d0]: Commencement: Reg. 74 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-57bb4557fcc955ef668b3eb980b300d0]: Commencement: Reg. 74 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
 
-[^key-47a6928076910cd803849a038337f6f0]: Commencement: Reg. 75 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-47a6928076910cd803849a038337f6f0]: Commencement: Reg. 75 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
 
-[^key-08beaa623f82b439af6e8016611c5286]: Commencement: Reg. 76 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-08beaa623f82b439af6e8016611c5286]: Commencement: Reg. 76 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

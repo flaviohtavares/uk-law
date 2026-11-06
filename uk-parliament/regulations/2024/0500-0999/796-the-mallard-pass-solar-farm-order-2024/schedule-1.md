@@ -22,7 +22,7 @@ summary: ''
 
 Article 2
 
-**1.**[^key-b5aca32847c8438ec2c42090dc4fe068] In this Schedule—
+**1.**[^c-b5aca32847c8438ec2c42090dc4fe068] In this Schedule—
 
 - “**existing substation**” means the existing substation at Ryhall Substation, Uffington Lane, Essendine, Stamford, PE9 4QD, owned and operated by National Grid Electricity Transmission plc;
 - “**inverter**” means electrical equipment required to convert direct current power to alternating current which will either be a string inverter attached to a mounting structure or a central container inverter;
@@ -35,7 +35,7 @@ Article 2
 - “**switch gear**” means a combination of electrical disconnect switches, fuses or circuit breakers used to control, protect and isolate electrical equipment; and
 - “**transformer**” means a structure serving to transform electricity to a higher voltage which will either be a string transformer or a central container transformer.
 
-### 2. Authorised development[^key-acb8c0bcaf2cee55778ca33e4bf2de5c]
+### 2. Authorised development[^c-acb8c0bcaf2cee55778ca33e4bf2de5c]
 
 In the District of South Kesteven and in the County of Rutland a nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act and associated development under section 115(1)(b) of the 2008 Act.
 
@@ -48,7 +48,7 @@ The nationally significant infrastructure project comprises the following works�
   - (d) switch gear; and
   - (e) electrical cables.
 
-  The[^key-bf43b89726db64422cfde076be887cf1] associated development within the meaning of section 115(2) of the 2008 Act includes —
+  The[^c-bf43b89726db64422cfde076be887cf1] associated development within the meaning of section 115(2) of the 2008 Act includes —
 - **Work No. 2**— works in connection with an onsite substation including—
   - (a) substation, switch room buildings and ancillary equipment including reactive power units;
   - (b) control building housing offices, storage, welfare facilities, parking areas and access;
@@ -99,8 +99,8 @@ The nationally significant infrastructure project comprises the following works�
 
 ## Annotations
 
-[^key-b5aca32847c8438ec2c42090dc4fe068]: Commencement: Sch. 1 para. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-b5aca32847c8438ec2c42090dc4fe068]: Commencement: Sch. 1 para. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-acb8c0bcaf2cee55778ca33e4bf2de5c]: Commencement: Sch. 1 para. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-acb8c0bcaf2cee55778ca33e4bf2de5c]: Commencement: Sch. 1 para. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-bf43b89726db64422cfde076be887cf1]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2024/796/schedule/1) substituted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
+[^c-bf43b89726db64422cfde076be887cf1]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2024/796/schedule/1) substituted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)

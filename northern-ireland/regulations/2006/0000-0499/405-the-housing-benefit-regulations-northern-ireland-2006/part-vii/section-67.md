@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 67. Disregard of changes occurring during summer vacation[^key-298735ef39870c0244bafdffb0f615be]
+## 67. Disregard of changes occurring during summer vacation[^c-298735ef39870c0244bafdffb0f615be]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In calculating a student’s income the relevant authority shall disregard any c
 
 ## Annotations
 
-[^key-298735ef39870c0244bafdffb0f615be]: Commencement: [Reg. 67](https://www.legislation.gov.uk/nisr/2006/405/regulation/67) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-298735ef39870c0244bafdffb0f615be]: Commencement: [Reg. 67](https://www.legislation.gov.uk/nisr/2006/405/regulation/67) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

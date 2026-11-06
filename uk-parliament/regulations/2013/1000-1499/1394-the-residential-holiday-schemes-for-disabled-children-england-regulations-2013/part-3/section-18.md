@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Medicines[^key-f7ca71783da848a712bb10b2c51fd8f6]
+## 18. Medicines[^c-f7ca71783da848a712bb10b2c51fd8f6]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f7ca71783da848a712bb10b2c51fd8f6]: Commencement: Reg. 18 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-f7ca71783da848a712bb10b2c51fd8f6]: Commencement: Reg. 18 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
 [^f00010]: Footnote: [2003 c.43](https://www.legislation.gov.uk/ukpga/2003/43) (“the 2003 Act”).
 

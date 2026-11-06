@@ -37,14 +37,14 @@ amending Decision 2009/607/EC as regards the period of validity of the ecologica
 
 (Text with EEA relevance) (revoked)
 
-[^key-a30fa223ae4ad81a31030718c92c6a3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a30fa223ae4ad81a31030718c92c6a3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-a30fa223ae4ad81a31030718c92c6a3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a30fa223ae4ad81a31030718c92c6a3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a30fa223ae4ad81a31030718c92c6a3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a30fa223ae4ad81a31030718c92c6a3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a30fa223ae4ad81a31030718c92c6a3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a30fa223ae4ad81a31030718c92c6a3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a30fa223ae4ad81a31030718c92c6a3c]: Textual amendment: Decision revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 51](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/51); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a30fa223ae4ad81a31030718c92c6a3c]: Textual amendment: Decision revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 51](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/51); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

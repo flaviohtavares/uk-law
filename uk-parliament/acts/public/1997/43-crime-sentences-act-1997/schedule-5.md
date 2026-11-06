@@ -69,7 +69,7 @@ Section 56(1).
 
 *Extent: E+W*
 
-**7.** (1) Section 32(3) and (4) of this Act shall have effect as if any life prisoner recalled to prison under subsection (1) or (2) of section 39 of the 1991 Act had been recalled to prison under [^key-ca043eb1b5ddd4d672006e6228918247]... section 32 of this Act.
+**7.** (1) Section 32(3) and (4) of this Act shall have effect as if any life prisoner recalled to prison under subsection (1) or (2) of section 39 of the 1991 Act had been recalled to prison under [^c-ca043eb1b5ddd4d672006e6228918247]... section 32 of this Act.
 
 (2) Section 32(4) of this Act shall have effect as if any representations made by a life prisoner under section 39(3) of the 1991 Act had been made under section 32(3) of this Act.
 
@@ -157,7 +157,7 @@ Section 56(1).
 
 [^c11470901]: Textual amendment: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/1997/43/schedule/5/paragraph/6) repealed (30.9.1998) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [ss. 119](https://www.legislation.gov.uk/ukpga/1998/37/section/119), [120(2)](https://www.legislation.gov.uk/ukpga/1998/37/section/120/2), [Sch. 8 para. 138(1)](https://www.legislation.gov.uk/ukpga/1998/37/schedule/8/paragraph/138/1), [Sch.10](https://www.legislation.gov.uk/ukpga/1998/37/schedule/10); [S.I. 1998/2327](https://www.legislation.gov.uk/uksi/1998/2327), [art. 2(2)(pp)(3)(x)](https://www.legislation.gov.uk/uksi/1998/2327/article/2/2/pp/3/x).
 
-[^key-ca043eb1b5ddd4d672006e6228918247]: Textual amendment: Words in [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/1997/43/schedule/5/paragraph/7) repealed (14.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/2); [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 50(2)(b)](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/50/2/b)
+[^c-ca043eb1b5ddd4d672006e6228918247]: Textual amendment: Words in [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/1997/43/schedule/5/paragraph/7) repealed (14.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/2); [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 50(2)(b)](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/50/2/b)
 
 [^c11470911]: Textual amendment: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/1997/43/schedule/5/paragraph/8) repealed (30.9.1998) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [ss. 119](https://www.legislation.gov.uk/ukpga/1998/37/section/119), [120(2)](https://www.legislation.gov.uk/ukpga/1998/37/section/120/2), [Sch. 8 para. 138(1)(b)](https://www.legislation.gov.uk/ukpga/1998/37/schedule/8/paragraph/138/1/b), [Sch.10](https://www.legislation.gov.uk/ukpga/1998/37/schedule/10); [S.I. 1998/2327](https://www.legislation.gov.uk/uksi/1998/2327), [art. 2(2)(pp)(3)(x)](https://www.legislation.gov.uk/uksi/1998/2327/article/2/2/pp/3/x).
 

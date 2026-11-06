@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Procedure for admitting creditors’ claims for voting[^key-3fc9ad978676f7e4bfdc6f8c5c4e16e4]
+## 89. Procedure for admitting creditors’ claims for voting[^c-3fc9ad978676f7e4bfdc6f8c5c4e16e4]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fc9ad978676f7e4bfdc6f8c5c4e16e4]: Commencement: [Rule 89](https://www.legislation.gov.uk/uksi/2011/1301/rule/89) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-3fc9ad978676f7e4bfdc6f8c5c4e16e4]: Commencement: [Rule 89](https://www.legislation.gov.uk/uksi/2011/1301/rule/89) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -120,7 +120,7 @@ Section 8.
 
   .
 
-(3)[^key-624442ef91f158b9b89abab642c1a4e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-624442ef91f158b9b89abab642c1a4e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In subsection (3)—
 
@@ -163,7 +163,7 @@ Section 8.
 
 **16.** (1) The Insolvency Act 1986 is amended as follows.
 
-(2)[^key-9b67c4337c9e2a24b225e4b7e1d2123b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9b67c4337c9e2a24b225e4b7e1d2123b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 426(10) (co-operation between courts)—
 
@@ -181,37 +181,37 @@ Section 8.
 
 *Extent: E+W+S*
 
-**17.**[^key-2fa0475a50b46ebb914cd46769f008e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-2fa0475a50b46ebb914cd46769f008e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Charities Act 1993 (c. 10)
 
 *Extent: E+W+S*
 
-**18.**[^key-476b79c59dd8abb0a433cea74382d785] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-476b79c59dd8abb0a433cea74382d785] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Pensions Act 1995 (c. 26)
 
 *Extent: E+W+S*
 
-**19.**[^key-99d2d7102bd087c79330b0efb593cdd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-99d2d7102bd087c79330b0efb593cdd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Police Act 1996 (c. 16)
 
 *Extent: E+W+S*
 
-**20.**[^key-344aed16e1630c042399526d3b7a516b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-344aed16e1630c042399526d3b7a516b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Housing Act 1996 (c. 52)
 
 *Extent: E+W+S*
 
-**21.**[^key-99d2d7102bd087c79330b0efb593cdd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-99d2d7102bd087c79330b0efb593cdd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Police Act 1997 (c. 50)
 
 **22.** (1) The Police Act 1997 is amended as follows.
 
-(2)[^key-83a508ae485f550ddd7e11deb147a2b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-83a508ae485f550ddd7e11deb147a2b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In Schedule 2 (members of Service Authorities), in paragraph 3(1)(c)—
 
@@ -228,18 +228,18 @@ Section 8.
 
 [^c1029588]: Marginal citation: [S.I. 1989/2404 (N.I. 18)](https://www.legislation.gov.uk/nisi/1989/2404).
 
-[^key-624442ef91f158b9b89abab642c1a4e7]: Textual amendment: [Sch. 4 para. 13(3)](https://www.legislation.gov.uk/ukpga/2000/39/schedule/4/paragraph/13/3) repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
+[^c-624442ef91f158b9b89abab642c1a4e7]: Textual amendment: [Sch. 4 para. 13(3)](https://www.legislation.gov.uk/ukpga/2000/39/schedule/4/paragraph/13/3) repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
 
 [^c1029589]: Marginal citation: [S.I. 1989/2404 (N.I. 18)](https://www.legislation.gov.uk/nisi/1989/2404).
 
-[^key-9b67c4337c9e2a24b225e4b7e1d2123b]: Textual amendment: [Sch. 4 para. 16(2)](https://www.legislation.gov.uk/ukpga/2000/39/schedule/4/paragraph/16/2) repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-9b67c4337c9e2a24b225e4b7e1d2123b]: Textual amendment: [Sch. 4 para. 16(2)](https://www.legislation.gov.uk/ukpga/2000/39/schedule/4/paragraph/16/2) repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-2fa0475a50b46ebb914cd46769f008e6]: Textual amendment: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2000/39/schedule/4/paragraph/17) repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-2fa0475a50b46ebb914cd46769f008e6]: Textual amendment: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2000/39/schedule/4/paragraph/17) repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-476b79c59dd8abb0a433cea74382d785]: Textual amendment: [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/2000/39/schedule/4/paragraph/18) repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-476b79c59dd8abb0a433cea74382d785]: Textual amendment: [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/2000/39/schedule/4/paragraph/18) repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-99d2d7102bd087c79330b0efb593cdd8]: Textual amendment: Sch. 4 paras. 19-21 repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-99d2d7102bd087c79330b0efb593cdd8]: Textual amendment: Sch. 4 paras. 19-21 repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-344aed16e1630c042399526d3b7a516b]: Textual amendment: Sch. 4 para. 20 repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(B)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/B); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(s)(iii)](https://www.legislation.gov.uk/uksi/2007/709/article/3/s/iii) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-344aed16e1630c042399526d3b7a516b]: Textual amendment: Sch. 4 para. 20 repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(B)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/B); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(s)(iii)](https://www.legislation.gov.uk/uksi/2007/709/article/3/s/iii) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-83a508ae485f550ddd7e11deb147a2b8]: Textual amendment: [Sch. 4 para. 22(2)](https://www.legislation.gov.uk/ukpga/2000/39/schedule/4/paragraph/22/2) repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
+[^c-83a508ae485f550ddd7e11deb147a2b8]: Textual amendment: [Sch. 4 para. 22(2)](https://www.legislation.gov.uk/ukpga/2000/39/schedule/4/paragraph/22/2) repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))

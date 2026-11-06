@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Planning permission[^key-76ab51847dacd4e543b0b7a9963ec6e9]
+## 6. Planning permission[^c-76ab51847dacd4e543b0b7a9963ec6e9]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ the carrying out of such development, under the terms of the planning permission
 
 ## Annotations
 
-[^key-76ab51847dacd4e543b0b7a9963ec6e9]: Commencement: Art. 6 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)
+[^c-76ab51847dacd4e543b0b7a9963ec6e9]: Commencement: Art. 6 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)

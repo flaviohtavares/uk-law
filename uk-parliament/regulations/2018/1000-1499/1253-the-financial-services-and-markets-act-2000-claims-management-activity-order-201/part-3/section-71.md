@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 71. Procedure for dealing with relevant complaints[^key-bdb86dea7a1d3c1af123cace78d3ccb3][^key-a7234b084989a09760d723235ebbd4bc]
+## 71. Procedure for dealing with relevant complaints[^c-bdb86dea7a1d3c1af123cace78d3ccb3][^c-a7234b084989a09760d723235ebbd4bc]
 
 *Extent: E+W+S*
 
@@ -40,7 +40,7 @@ summary: ''
 
 the ombudsman may dismiss the complaint.
 
-(7) The corresponding rules of the former scheme are to be read as if they were subject to paragraph 13 of Schedule 3 to the Alternative Dispute Resolution for Consumer Disputes (Competent Authorities and Information) Regulations 2015[^f00106] (grounds to refuse to deal with a dispute) as it was in force on 1st April 2019.[^key-67d5800d17ee4fee5bb6c52f1f7d3534]
+(7) The corresponding rules of the former scheme are to be read as if they were subject to paragraph 13 of Schedule 3 to the Alternative Dispute Resolution for Consumer Disputes (Competent Authorities and Information) Regulations 2015[^f00106] (grounds to refuse to deal with a dispute) as it was in force on 1st April 2019.[^c-67d5800d17ee4fee5bb6c52f1f7d3534]
 
 (8) Paragraph (9) applies to a relevant existing complaint where—
 
@@ -54,10 +54,10 @@ the ombudsman may dismiss the complaint.
 
 ## Annotations
 
-[^key-bdb86dea7a1d3c1af123cace78d3ccb3]: Commencement: Art. 71 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-bdb86dea7a1d3c1af123cace78d3ccb3]: Commencement: Art. 71 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-a7234b084989a09760d723235ebbd4bc]: Commencement: [Art. 71](https://www.legislation.gov.uk/uksi/2018/1253/article/71) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-a7234b084989a09760d723235ebbd4bc]: Commencement: [Art. 71](https://www.legislation.gov.uk/uksi/2018/1253/article/71) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00106]: Footnote: [S.I. 2015/542](https://www.legislation.gov.uk/uksi/2015/542).
 
-[^key-67d5800d17ee4fee5bb6c52f1f7d3534]: Textual amendment: Words in [art. 71(7)](https://www.legislation.gov.uk/uksi/2018/1253/article/71/7) substituted for full stop (6.4.2026) by virtue of [The Digital Markets, Competition and Consumers Act 2024 (Alternative Dispute Resolution) (Consequential Amendments) Regulations 2026 (S.I. 2026/263)](https://www.legislation.gov.uk/uksi/2026/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/263/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2026/263/regulation/6)
+[^c-67d5800d17ee4fee5bb6c52f1f7d3534]: Textual amendment: Words in [art. 71(7)](https://www.legislation.gov.uk/uksi/2018/1253/article/71/7) substituted for full stop (6.4.2026) by virtue of [The Digital Markets, Competition and Consumers Act 2024 (Alternative Dispute Resolution) (Consequential Amendments) Regulations 2026 (S.I. 2026/263)](https://www.legislation.gov.uk/uksi/2026/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/263/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2026/263/regulation/6)

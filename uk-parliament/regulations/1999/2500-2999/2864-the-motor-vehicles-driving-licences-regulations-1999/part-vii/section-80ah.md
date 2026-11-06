@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 80AH. Modification of regulation 80: paragraph UKR 29.3(b) or (c) leave[^key-d3fa91b3393ffc83e3cf061d5dfca806]
+## 80AH. Modification of regulation 80: paragraph UKR 29.3(b) or (c) leave[^c-d3fa91b3393ffc83e3cf061d5dfca806]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3fa91b3393ffc83e3cf061d5dfca806]: Textual amendment: [Regs. 80AG](https://www.legislation.gov.uk/uksi/1999/2864/regulation/80AG), [80AH](https://www.legislation.gov.uk/uksi/1999/2864/regulation/80AH) inserted (27.7.2026) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/741)](https://www.legislation.gov.uk/uksi/2026/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/741/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2026/741/regulation/11)
+[^c-d3fa91b3393ffc83e3cf061d5dfca806]: Textual amendment: [Regs. 80AG](https://www.legislation.gov.uk/uksi/1999/2864/regulation/80AG), [80AH](https://www.legislation.gov.uk/uksi/1999/2864/regulation/80AH) inserted (27.7.2026) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/741)](https://www.legislation.gov.uk/uksi/2026/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/741/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2026/741/regulation/11)

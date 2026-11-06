@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Meaning of “monument” and “site of monument”[^key-a72ec433d71a4cd81af54d21d3e53f7e][^key-5690f7d1ccf847bea1baa26851a340c9]
+## 2. Meaning of “monument” and “site of monument”[^c-a72ec433d71a4cd81af54d21d3e53f7e][^c-5690f7d1ccf847bea1baa26851a340c9]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a72ec433d71a4cd81af54d21d3e53f7e]: Commencement: S. 2 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-a72ec433d71a4cd81af54d21d3e53f7e]: Commencement: S. 2 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-5690f7d1ccf847bea1baa26851a340c9]: Commencement: [S. 2](https://www.legislation.gov.uk/asc/2023/3/section/2) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-5690f7d1ccf847bea1baa26851a340c9]: Commencement: [S. 2](https://www.legislation.gov.uk/asc/2023/3/section/2) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

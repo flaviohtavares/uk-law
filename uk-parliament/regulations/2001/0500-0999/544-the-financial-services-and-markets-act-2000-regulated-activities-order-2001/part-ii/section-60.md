@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Plans covered by insurance or trust arrangements[^key-59e9893b7c517563fedefddf589b98d7]
+## 60. Plans covered by insurance or trust arrangements[^c-59e9893b7c517563fedefddf589b98d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59e9893b7c517563fedefddf589b98d7]: Textual amendment: [Art. 60](https://www.legislation.gov.uk/uksi/2001/544/article/60) omitted (28.1.2021 for specified purposes, 30.7.2022 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2021 (S.I. 2021/90)](https://www.legislation.gov.uk/uksi/2021/90), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3), [2(5)](https://www.legislation.gov.uk/uksi/2021/90/article/2/5)
+[^c-59e9893b7c517563fedefddf589b98d7]: Textual amendment: [Art. 60](https://www.legislation.gov.uk/uksi/2001/544/article/60) omitted (28.1.2021 for specified purposes, 30.7.2022 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2021 (S.I. 2021/90)](https://www.legislation.gov.uk/uksi/2021/90), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3), [2(5)](https://www.legislation.gov.uk/uksi/2021/90/article/2/5)

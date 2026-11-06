@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Transitional provisions.[^key-4cbfbfa95ce812c2c3c4eab0f3d93897][^c1044366]
+## 19. Transitional provisions.[^c-4cbfbfa95ce812c2c3c4eab0f3d93897][^c1044366]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4cbfbfa95ce812c2c3c4eab0f3d93897]: Textual amendment: Ss. 15-19 repealed (1.4.2006) by [Water Environment (Consequential and Savings Provisions) (Scotland) Order 2006 (S.S.I. 2006/181)](https://www.legislation.gov.uk/ssi/2006/181), [art. 1](https://www.legislation.gov.uk/ssi/2006/181/article/1), [Sch. Pt. I](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/I) (with [Sch. Pt. III](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/III))
+[^c-4cbfbfa95ce812c2c3c4eab0f3d93897]: Textual amendment: Ss. 15-19 repealed (1.4.2006) by [Water Environment (Consequential and Savings Provisions) (Scotland) Order 2006 (S.S.I. 2006/181)](https://www.legislation.gov.uk/ssi/2006/181), [art. 1](https://www.legislation.gov.uk/ssi/2006/181/article/1), [Sch. Pt. I](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/I) (with [Sch. Pt. III](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/III))
 
 [^c1044366]: Commencement: S. 19 wholly in force at 1.10.1991 see s. 28(2) and [S.I. 1991/2187](https://www.legislation.gov.uk/uksi/1991/2187), [art. 3](https://www.legislation.gov.uk/uksi/1991/2187/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1991/2187/schedule)

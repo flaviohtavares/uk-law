@@ -44,11 +44,11 @@ Coming into force
 
 26th November 2018
 
-The Secretary of State, in exercise of the powers conferred by sections 14 and 240(10) of the Local Government and Public Involvement in Health Act 2007[^f00001], makes the following Regulations:[^key-21cbdc197d756f40d7f6305977dbbd8b]
+The Secretary of State, in exercise of the powers conferred by sections 14 and 240(10) of the Local Government and Public Involvement in Health Act 2007[^f00001], makes the following Regulations:[^c-21cbdc197d756f40d7f6305977dbbd8b]
 
 ## PART 1 — General
 
-### 1. Citation, commencement, application and effect[^key-6b5cdfa2b8118adfac80e868fc090171]
+### 1. Citation, commencement, application and effect[^c-6b5cdfa2b8118adfac80e868fc090171]
 
 (1) These Regulations may be cited as the Local Government (Boundary Changes) Regulations 2018 and come into force on 26th November 2018.
 
@@ -68,7 +68,7 @@ The Secretary of State, in exercise of the powers conferred by sections 14 and 2
   - (vi) regulations under section 3 of the Public Service Pensions Act 2013[^f00003] (scheme regulations); and
 - (b) do not affect any transfer of property, rights or liabilities for which provision is contained in an agreement under section 16 of the 2007 Act (agreements about incidental matters).
 
-### 2. Interpretation[^key-e3bc225cbc0cc0023617bd20be40351b]
+### 2. Interpretation[^c-e3bc225cbc0cc0023617bd20be40351b]
 
 (1) In these Regulations—
 
@@ -92,7 +92,7 @@ The Secretary of State, in exercise of the powers conferred by sections 14 and 2
 
 (2) Any reference in these Regulations to rights or liabilities of a predecessor council includes a reference to rights or liabilities acquired or incurred by any predecessor in title of that council.
 
-### 3. Information for facilitating implementation of Regulations[^key-9ec5a5551355ab0c44c47b2289c67176]
+### 3. Information for facilitating implementation of Regulations[^c-9ec5a5551355ab0c44c47b2289c67176]
 
 (1) This regulation has effect for the purpose of facilitating the implementation of these Regulations.
 
@@ -140,11 +140,11 @@ The Secretary of State, in exercise of the powers conferred by sections 14 and 2
 
 ## PART 2 — Transfer of functions to successor council, continuity and responsibility for functions exercised by a shadow authority
 
-### 4. Transfer of functions to successor council[^key-0bc5733dd0528d99979b9b67865f1287]
+### 4. Transfer of functions to successor council[^c-0bc5733dd0528d99979b9b67865f1287]
 
 On the reorganisation date, the functions of the predecessor councils shall become functions of the successor council.
 
-### 5. Continuity: references in enactments, etc.[^key-05299459b84a7687fc7afd3d97d7268c]
+### 5. Continuity: references in enactments, etc.[^c-05299459b84a7687fc7afd3d97d7268c]
 
 (1) A provision of an enactment in which a predecessor council or its area is mentioned by name shall have effect on and after the reorganisation date, as if, for the name of that council or its area, there were substituted the name of the successor council or of the area of that council.
 
@@ -157,7 +157,7 @@ On the reorganisation date, the functions of the predecessor councils shall beco
 - (a) an Act of the Scottish Parliament or Northern Ireland legislation;
 - (b) an order under section 7 or 10 of the 2007 Act or regulations under section 14 of that Act.
 
-### 6. Continuity: successor council[^key-94ad7cc14f5840c82613b6c1ce87962d]
+### 6. Continuity: successor council[^c-94ad7cc14f5840c82613b6c1ce87962d]
 
 (1) The following provisions of this regulation have effect subject to regulation 7.
 
@@ -183,13 +183,13 @@ On the reorganisation date, the functions of the predecessor councils shall beco
 
 (7) A person appointed by a predecessor council to represent that council on any body (whether the body is public or private and whether or not the person has voting rights) (“the appointee”) shall, unless the appointee resigns or the appointment is otherwise terminated, continue to hold that appointment on and after the reorganisation date as if the appointee had been appointed by, and as a representative of, the successor council.
 
-### 7. Continuity: limitations[^key-217c04a8c0188e1b3c7388ea1067333e]
+### 7. Continuity: limitations[^c-217c04a8c0188e1b3c7388ea1067333e]
 
 (1) Regulation 6 shall not be construed as continuing in force any contract of employment made by a predecessor council.
 
 (2) Where anything done or in the process of being done by a predecessor council or shadow authority was limited to part of its area, regulation 6(2) and (3) shall have effect only as regards that part; but this does not preclude the successor council (if it has the power to do so), from taking steps to secure that the thing has effect in relation to the whole of its area.
 
-### 8. Responsibility for functions exercised by a shadow authority[^key-ebfd4e291a020201ad64c33d99091a53]
+### 8. Responsibility for functions exercised by a shadow authority[^c-ebfd4e291a020201ad64c33d99091a53]
 
 (1) This regulation applies to a shadow authority whose shadow executive is appointed by, or nominated in accordance with, a section 10 order.
 
@@ -207,17 +207,17 @@ On the reorganisation date, the functions of the predecessor councils shall beco
 
 ## PART 3 — Transfer of property, rights and liabilities
 
-### 9. Transfer of property, rights and liabilities[^key-6d49c12271c75375f63a3d8a5e817e53]
+### 9. Transfer of property, rights and liabilities[^c-6d49c12271c75375f63a3d8a5e817e53]
 
 All property, rights and liabilities of the predecessor councils shall on the reorganisation date vest in, and transfer to, the successor council.
 
 ## PART 4 — Staffing
 
-### 10. Transfer of functions: staffing[^key-55a8eee5eb00421e7e55a75dbb3ae80d]
+### 10. Transfer of functions: staffing[^c-55a8eee5eb00421e7e55a75dbb3ae80d]
 
 Notwithstanding regulation 3(5) of the Transfer of Undertakings (Protection of Employment) Regulations 2006[^f00008], the transfer of functions from a predecessor council to a successor council in consequence of a section 10 order shall be treated for all purposes as a relevant transfer within the meaning of those Regulations, whether or not, apart from this provision, those Regulations would otherwise apply.
 
-### 11. Heads of paid service and other chief officers[^key-9a16ae8a7d305d1ab44425a5a30c893e]
+### 11. Heads of paid service and other chief officers[^c-9a16ae8a7d305d1ab44425a5a30c893e]
 
 (1) Subject to paragraph (2), the 1993 Regulations and the 2001 Regulations shall apply to a shadow authority (notwithstanding that it does not have the functions and full powers of a local authority) and a successor council—
 
@@ -251,7 +251,7 @@ Notwithstanding regulation 3(5) of the Transfer of Undertakings (Protection of E
   - (a) in relation to a shadow authority or successor council provided for under an existing section 10 order, the period beginning on the date on which these Regulations come into force and ending on the date that falls 12 months after the reorganisation date; and
   - (b) in relation to any other shadow authority or successor council, the period beginning on the date on which the section 10 order concerned comes into force and ending on the date that falls 12 months after the reorganisation date.
 
-### 12. Redundancy payments[^key-48b47907da38df38cbfb4aa7340fd697]
+### 12. Redundancy payments[^c-48b47907da38df38cbfb4aa7340fd697]
 
 A head of paid service—
 
@@ -260,13 +260,13 @@ A head of paid service—
 
 shall be treated as being dismissed by reason of redundancy for the purposes of the Local Government (Early Termination of Employment) (Discretionary Compensation) (England and Wales) Regulations 2006[^f00011] and the Local Government Pension Scheme Regulations 2013[^f00012], regardless of whether or not that person applies for the post of head of paid service of the successor council.
 
-### 13. Local Government Pension Scheme[^key-3e30cda4d05d8bfaeaf93bc8afd3820d]
+### 13. Local Government Pension Scheme[^c-3e30cda4d05d8bfaeaf93bc8afd3820d]
 
 A shadow authority shall, notwithstanding that it does not have the functions and full powers of a district council, be treated as falling within paragraph 1 of Part 1 of Schedule 2 (Scheme employers) to the Local Government Pension Scheme Regulations 2013.
 
 ## PART 5 — Governance
 
-### 14. Establishment of parishes and parish councils under the 2007 Act[^key-8afae69f1e7ec6675d13a7068c020773]
+### 14. Establishment of parishes and parish councils under the 2007 Act[^c-8afae69f1e7ec6675d13a7068c020773]
 
 (1) This regulation applies where a predecessor council undertakes, or has undertaken, a community governance review under Part 4 of the 2007 Act (parishes), where the predecessor council has not exercised its powers under section 86 of the 2007 Act (reorganisation of community governance) to give effect to the review’s recommendations before the beginning of the transitional period.
 
@@ -284,13 +284,13 @@ A shadow authority shall, notwithstanding that it does not have the functions an
 - (a) section 93(8) of the 2007 Act has effect as if the reference to the period of 12 months were a reference to the period of 12 months starting with the reorganisation date; and
 - (b) sections 86 and 96 to 100 of the 2007 Act have effect as if the successor council were the principal council for the purposes of the review mentioned in paragraph (4).
 
-### 15. Petitions on executive arrangements[^key-f81c337ba730843ff431b7b3a63321ec]
+### 15. Petitions on executive arrangements[^c-f81c337ba730843ff431b7b3a63321ec]
 
 Part 1A of the Local Government Act 2000 (arrangements with respect to local authority governance in England) shall have effect in relation to a predecessor council as if any regulations made under section 9MC[^f00015] (referendum following petition) did not apply to that council.
 
 ## PART 6 — Electoral administration
 
-### 16. Returning officers and proper officers[^key-0999968f6280ea53f81a6d9599779181]
+### 16. Returning officers and proper officers[^c-0999968f6280ea53f81a6d9599779181]
 
 (1) The returning officer[^f00016] and the proper officer at any election of councillors of parishes in the area of a predecessor council that will take place after the reorganisation date but for which proceedings must be taken by a returning officer or proper officer before that date shall be—
 
@@ -299,7 +299,7 @@ Part 1A of the Local Government Act 2000 (arrangements with respect to local aut
 
 (2) In this regulation, “proper officer” means the proper officer for the purposes of the Local Elections (Parishes and Communities) (England and Wales) Rules 2006[^f00017].
 
-### 17. Interim acting returning officers and electoral registration officers[^key-8adde6df4fdd9d90a9bd7680b70d9223]
+### 17. Interim acting returning officers and electoral registration officers[^c-8adde6df4fdd9d90a9bd7680b70d9223]
 
 (1) Every authority which, on the coming into force of these Regulations, is a shadow authority, shall, not later than the relevant date, appoint one of their officers to discharge the duties referred to in paragraph (2).
 
@@ -334,7 +334,7 @@ Part 1A of the Local Government Act 2000 (arrangements with respect to local aut
 
 ## PART 7 — Statutory reviews, schemes, statements, rules and strategies
 
-### 18. Reviews, schemes, statements, strategies and rules required not later than 24 months after the reorganisation date[^key-248fe3fe9ed107f2dc4d7de59a991454]
+### 18. Reviews, schemes, statements, strategies and rules required not later than 24 months after the reorganisation date[^c-248fe3fe9ed107f2dc4d7de59a991454]
 
 (1) Where it is practicable to do so during the transitional period—
 
@@ -381,7 +381,7 @@ Part 1A of the Local Government Act 2000 (arrangements with respect to local aut
 
 (10) In this regulation “relevant document or review” means a scheme, statement, rules, review or strategy of a description in paragraph (1).
 
-### 19. Continuity in relation to plans, schemes, statements and strategies[^key-c4dde688773b1b1012a4109e49d14174]
+### 19. Continuity in relation to plans, schemes, statements and strategies[^c-c4dde688773b1b1012a4109e49d14174]
 
 (1) Subject to paragraph (2) where, pursuant to a requirement imposed by or under any enactment (whether the requirement has direct effect in relation to the council concerned or because the enactment or provision that imposes the requirement applies to the council by virtue of an order or resolution), a plan, scheme, statement or strategy is prepared and, where required by the enactment or provision, published before the reorganisation date by a predecessor council, the plan, scheme, statement or strategy shall be treated, for the period specified in paragraph (3), as if it had been prepared and, if so required, published by the successor council for the whole or such part of its area as corresponds to the area to which the particular plan, scheme, statement or strategy relates.
 
@@ -396,7 +396,7 @@ Part 1A of the Local Government Act 2000 (arrangements with respect to local aut
 
 ## PART 8 — Accounts of predecessor councils and other financial matters
 
-### 20. Interpretation of Part 8[^key-f8109c479884dffca4365cd900f88af1]
+### 20. Interpretation of Part 8[^c-f8109c479884dffca4365cd900f88af1]
 
 In this Part—
 
@@ -405,7 +405,7 @@ In this Part—
 - “section 151 officer” means the person who is for the time being appointed by the predecessor council, shadow authority or successor council, as the case may be, to be responsible for the administration of its financial affairs; and
 - “statement of accounts” means the statement required by regulation 7(1) (statement of accounts for Category 1 authorities) of the 2015 Regulations.
 
-### 21. Responsibility for preparation of final accounts of predecessor councils[^key-5b3afc9842c672125111729fc7ec98ca]
+### 21. Responsibility for preparation of final accounts of predecessor councils[^c-5b3afc9842c672125111729fc7ec98ca]
 
 (1) A successor council shall prepare and publish the final accounts of its predecessor councils.
 
@@ -422,7 +422,7 @@ In this Part—
   - (ii) in paragraphs (1)(a) and (3)(a) and (b) the reference to an authority were a reference to a predecessor council and not to its successor council; and
 - (d) the requirement in regulation 10(1) (publication of statement of accounts etc.) were a requirement for the successor council to publish the final accounts of each of its predecessor councils.
 
-### 22. Transitional responsibility for preparation of final accounts, etc.[^key-538ec6b3651da1bcb48b7f252cab0123]
+### 22. Transitional responsibility for preparation of final accounts, etc.[^c-538ec6b3651da1bcb48b7f252cab0123]
 
 (1) During the transitional period, steps for the preparation of the final accounts of a predecessor council—
 
@@ -452,7 +452,7 @@ In this Part—
 - “closure plan” means the plan required by paragraph (4); and
 - “necessary steps” means the steps referred to in paragraph (3).
 
-### 23. Reports of statutory audits, inspections and investigations[^key-71b618fb83c7022b59435d431105f949]
+### 23. Reports of statutory audits, inspections and investigations[^c-71b618fb83c7022b59435d431105f949]
 
 (1) A predecessor council which receives from an auditor, inspector or investigator, in the performance of duties under any enactment, a report (whether in draft or final form), shall immediately copy it to the proper officer of the shadow authority.
 
@@ -476,7 +476,7 @@ shall not pass a resolution to vary the policy, procedure or structure in that r
 - (b) has allowed the consultee a reasonable time within which to respond; and
 - (c) has taken into account any comments received from the consultee within the period allowed for responding.
 
-### 24. Other transitional provisions relating to financial matters[^key-16380104962ad7068dfacaec9940e016]
+### 24. Other transitional provisions relating to financial matters[^c-16380104962ad7068dfacaec9940e016]
 
 (1) Not later than the reorganisation date, each predecessor council must, in accordance with regulation 6 (review of internal control) of the 2015 Regulations, prepare and approve an annual governance statement.
 
@@ -498,45 +498,45 @@ shall not pass a resolution to vary the policy, procedure or structure in that r
 
 ## PART 9 — Functions relating to town and country planning
 
-### 25. Interpretation of Part 9[^key-9a74128c97604e50811dbb0887e71f1e]
+### 25. Interpretation of Part 9[^c-9a74128c97604e50811dbb0887e71f1e]
 
 In this Part—
 
 - “the 2004 Act” means the Planning and Compulsory Purchase Act 2004[^f00034]; and
-- “joint committee” means a committee established by regulations made under section 15J(2), or treated as established by regulations made under section 15J,[^key-ae6443aa04a978c9c8f8d166073f183a] of the 2004 Act.
+- “joint committee” means a committee established by regulations made under section 15J(2), or treated as established by regulations made under section 15J,[^c-ae6443aa04a978c9c8f8d166073f183a] of the 2004 Act.
 
-### 26. Plans[^key-bc61840c6dce9518743c4eb9e1ace8ce][^key-b2d7950e31ee60ea9628338e05b2fced]
+### 26. Plans[^c-bc61840c6dce9518743c4eb9e1ace8ce][^c-b2d7950e31ee60ea9628338e05b2fced]
 
-(1)[^key-ad1a7aa6e2abd6e09858465f70dd7a16] Any of the following documents or plans adopted by a predecessor council, or approved under the 2004 Act, before the reorganisation date have effect on and after that date as if it had been adopted by the successor council, or approved for such part of its area as corresponds to the area to which the document or plan relates—
+(1)[^c-ad1a7aa6e2abd6e09858465f70dd7a16] Any of the following documents or plans adopted by a predecessor council, or approved under the 2004 Act, before the reorganisation date have effect on and after that date as if it had been adopted by the successor council, or approved for such part of its area as corresponds to the area to which the document or plan relates—
 
 - (a) a document which is to be or form part of a minerals and waste plan;
 - (b) a local development document;
 - (c) a local plan;
 - (d) a supplementary plan.
 
-(2) Nothing in paragraph (1) affects any power of the Secretary of State to revoke, or the successor council to revise, a document or plan[^key-25c84659f198ba8aefed6fd03c92f403] to which paragraph (1) relates.
+(2) Nothing in paragraph (1) affects any power of the Secretary of State to revoke, or the successor council to revise, a document or plan[^c-25c84659f198ba8aefed6fd03c92f403] to which paragraph (1) relates.
 
-(3) A successor council must adopt a local plan and the document or documents which are to form their minerals and waste plan under section 15EA[^key-39105cd7797638465b5cbcf29ce3ee71] of the 2004 Act to apply to the whole of its area within a period of five years starting with the reorganisation date.
+(3) A successor council must adopt a local plan and the document or documents which are to form their minerals and waste plan under section 15EA[^c-39105cd7797638465b5cbcf29ce3ee71] of the 2004 Act to apply to the whole of its area within a period of five years starting with the reorganisation date.
 
-(4) On or after the reorganisation date and prior to adoption of a plan and adoption of a document or documents[^key-43763e73aa360bb7af97ad146d070754] to apply to the whole of its area as required by paragraph (3) a successor council may revise or replace a document or plan[^key-c6dc38afc2bc50f15c381cd336473639] referred to in paragraph (1) for a part of its area which was the area of a predecessor council.
+(4) On or after the reorganisation date and prior to adoption of a plan and adoption of a document or documents[^c-43763e73aa360bb7af97ad146d070754] to apply to the whole of its area as required by paragraph (3) a successor council may revise or replace a document or plan[^c-c6dc38afc2bc50f15c381cd336473639] referred to in paragraph (1) for a part of its area which was the area of a predecessor council.
 
-(5) In revising or replacing a document or plan[^key-02502de5f30bafd77d668eb62460d119] in accordance with paragraph (4), a successor council may adopt, with or without modification, a document or plan which[^key-e208c82467bae2fb48484febf5fdf846] was prepared but not adopted by a predecessor council before the reorganisation date.
+(5) In revising or replacing a document or plan[^c-02502de5f30bafd77d668eb62460d119] in accordance with paragraph (4), a successor council may adopt, with or without modification, a document or plan which[^c-e208c82467bae2fb48484febf5fdf846] was prepared but not adopted by a predecessor council before the reorganisation date.
 
 (6) Where—
 
-- (a) a predecessor council has not, before the reorganisation date, prepared or adopted a local development document under section 23 of the 2004 Act , a local plan, a supplementary plan or a document which is to be or form part of a minerals and waste plan under section 15EA of the 2004 Act[^key-88f01da6ab94f5ad0b529b12c3537f66]; and
-- (b) the successor council has not yet adopted such a document or plan[^key-9d4111d3a38013b4e3c873dfcc28ab9d] for the whole of its area as required by paragraph (3),
+- (a) a predecessor council has not, before the reorganisation date, prepared or adopted a local development document under section 23 of the 2004 Act , a local plan, a supplementary plan or a document which is to be or form part of a minerals and waste plan under section 15EA of the 2004 Act[^c-88f01da6ab94f5ad0b529b12c3537f66]; and
+- (b) the successor council has not yet adopted such a document or plan[^c-9d4111d3a38013b4e3c873dfcc28ab9d] for the whole of its area as required by paragraph (3),
 
-the successor council may prepare and adopt such a document or a plan[^key-6294951c74a073b4242c43be6c91e0c0] for the part of its area which was the area of the predecessor council.
+the successor council may prepare and adopt such a document or a plan[^c-6294951c74a073b4242c43be6c91e0c0] for the part of its area which was the area of the predecessor council.
 
-### 27. Continuity relevant to joint committees[^key-87b95478b66823f71c86972d2ca8485e][^key-9509ee41c7ee2f451d2627888da996c7]
+### 27. Continuity relevant to joint committees[^c-87b95478b66823f71c86972d2ca8485e][^c-9509ee41c7ee2f451d2627888da996c7]
 
-(1) Regulations made under section 15J, or an order treated as made under section 15J,[^key-95f1f8e2aea536af87343e58aa6915b1] of the 2004 Act establishing a joint committee of which a predecessor council is a constituent member shall continue to have effect on and after the reorganisation date as if—
+(1) Regulations made under section 15J, or an order treated as made under section 15J,[^c-95f1f8e2aea536af87343e58aa6915b1] of the 2004 Act establishing a joint committee of which a predecessor council is a constituent member shall continue to have effect on and after the reorganisation date as if—
 
 - (a) references to a predecessor council were references to the successor council;
 - (b) references to the area of a predecessor council were references to such part of the area of the successor council as is coterminous with the area of the predecessor council.
 
-(2) A successor council to which paragraph (1) applies shall be treated for the purposes of section 15J(11)[^key-f56e1f2fe67d86a93dc921cce50d9949] of the 2004 Act as a constituent authority of the joint committee.
+(2) A successor council to which paragraph (1) applies shall be treated for the purposes of section 15J(11)[^c-f56e1f2fe67d86a93dc921cce50d9949] of the 2004 Act as a constituent authority of the joint committee.
 
 (3) Anything which is in the process of being done by or in relation to a joint committee before the reorganisation date may be continued on and after the reorganisation date—
 
@@ -550,19 +550,19 @@ the successor council may prepare and adopt such a document or a plan[^key-62949
 
 (5) Paragraphs (1) to (3) shall cease to have effect as regards an area on whichever is the earlier of—
 
-- (a) the date on which the last of such of the documents mentioned or referred to in the agreement under section 15J(1)[^key-d8e4e00b2e9c1c836d5c2954e24db461] of the 2004 Act to which the regulations under that section give[^key-f0190b8c4063fd237e308e63cc527f83] effect (being documents required under any provision of Part 2 of the 2004 Act to be adopted) is adopted; and
+- (a) the date on which the last of such of the documents mentioned or referred to in the agreement under section 15J(1)[^c-d8e4e00b2e9c1c836d5c2954e24db461] of the 2004 Act to which the regulations under that section give[^c-f0190b8c4063fd237e308e63cc527f83] effect (being documents required under any provision of Part 2 of the 2004 Act to be adopted) is adopted; and
 - (b) the third anniversary of the reorganisation date,
 
 and the date so ascertained is referred to in the following paragraph as the relevant date.
 
-(6) On the date that is the relevant date as regards an area, the order under section 29 or the regulations made under section 15J of the 2004 Act[^key-21ffba10b3a03d8e31b832234930fb05] relevant to that area shall be treated as revoked; and section 15J[^key-3dd3fd95764ecaa89c8b8b29bd4a01db] shall have effect as if—
+(6) On the date that is the relevant date as regards an area, the order under section 29 or the regulations made under section 15J of the 2004 Act[^c-21ffba10b3a03d8e31b832234930fb05] relevant to that area shall be treated as revoked; and section 15J[^c-3dd3fd95764ecaa89c8b8b29bd4a01db] shall have effect as if—
 
-- (a) the reference in subsection (6)[^key-9ec3de8b7e7c8b0d019235dc27c258c0] to annulment in pursuance of a resolution of either House of Parliament were a reference to this paragraph; and
-- (b) the reference in subsection (6)(a)[^key-6ad107c7806e96dc704be8e1225faa94] to the date of the resolution were a reference to the relevant date.
+- (a) the reference in subsection (6)[^c-9ec3de8b7e7c8b0d019235dc27c258c0] to annulment in pursuance of a resolution of either House of Parliament were a reference to this paragraph; and
+- (b) the reference in subsection (6)(a)[^c-6ad107c7806e96dc704be8e1225faa94] to the date of the resolution were a reference to the relevant date.
 
 ## PART 10 — Miscellaneous transitional provisions
 
-### 28. Housing finance[^key-2a0dd62407dce393b385f3f0ff47ceaa]
+### 28. Housing finance[^c-2a0dd62407dce393b385f3f0ff47ceaa]
 
 (1) The relevant provisions shall have effect, in relation to functions falling to be discharged by or in relation to a shadow authority under those provisions before the reorganisation date and as regards a financial year beginning on or after the reorganisation date, as if the shadow authority were a local housing authority within the meaning of those provisions.
 
@@ -573,7 +573,7 @@ and the date so ascertained is referred to in the following paragraph as the rel
 - (a) Part 6 of the 1989 Act (housing finance); and
 - (b) sections 171, 172, 173 (insofar as that section relates to a determination under section 171) and 175 of the Localism Act 2011 (limits on indebtedness).
 
-### 29. Community right to challenge[^key-b16931856863c7c3bb9d2a7743e3bb08]
+### 29. Community right to challenge[^c-b16931856863c7c3bb9d2a7743e3bb08]
 
 (1) This regulation applies in relation to an expression of interest received by a predecessor council under Chapter 2 of Part 5 of the Localism Act 2011[^f00035] (“the 2011 Act”) (community right to challenge) where the predecessor council has not considered the expression of interest in accordance with that chapter before the beginning of the transitional period.
 
@@ -593,7 +593,7 @@ and the date so ascertained is referred to in the following paragraph as the rel
     - (bb) the reference to a relevant authority notifying the relevant body in writing were reference to the successor council so notifying the relevant body; and
   - (iii) in subsection (7) each time it occurs reference to the period of 30 days were reference to the period of 30 days beginning with the reorganisation date.
 
-### 30. Honorary titles[^key-deae5ba627350ae128333660342f65e5]
+### 30. Honorary titles[^c-deae5ba627350ae128333660342f65e5]
 
 (1) Section 249(1)[^f00036] of the 1972 Act (honorary titles) shall have effect in relation to a predecessor council as if, for the words from “as past members” to the end, there were substituted “as past or serving members of the council”.
 
@@ -643,15 +643,15 @@ A full impact assessment has not been prepared as this instrument will have no i
 
 [^f00001]: Footnote: [2007 c. 28](https://www.legislation.gov.uk/ukpga/2007/28).
 
-[^key-21cbdc197d756f40d7f6305977dbbd8b]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/1128) continued (temp.) (25.3.2026) by [The Levelling-up and Regeneration Act 2023 (Commencement No. 11 and Saving and Transitional Provisions) Regulations 2026 (S.I. 2026/169)](https://www.legislation.gov.uk/uksi/2026/169), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1)
+[^c-21cbdc197d756f40d7f6305977dbbd8b]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/1128) continued (temp.) (25.3.2026) by [The Levelling-up and Regeneration Act 2023 (Commencement No. 11 and Saving and Transitional Provisions) Regulations 2026 (S.I. 2026/169)](https://www.legislation.gov.uk/uksi/2026/169), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1)
 
-[^key-6b5cdfa2b8118adfac80e868fc090171]: Commencement: Reg. 1 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-6b5cdfa2b8118adfac80e868fc090171]: Commencement: Reg. 1 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
 [^f00002]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
 
 [^f00003]: Footnote: [2013 c. 25](https://www.legislation.gov.uk/ukpga/2013/25).
 
-[^key-e3bc225cbc0cc0023617bd20be40351b]: Commencement: Reg. 2 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-e3bc225cbc0cc0023617bd20be40351b]: Commencement: Reg. 2 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
 [^f00004]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
@@ -659,57 +659,57 @@ A full impact assessment has not been prepared as this instrument will have no i
 
 [^f00006]: Footnote: [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853); relevant amendments were made by [S.I. 2008/516](https://www.legislation.gov.uk/uksi/2008/516) and [2008/2787](https://www.legislation.gov.uk/uksi/2008/2787).
 
-[^key-9ec5a5551355ab0c44c47b2289c67176]: Commencement: Reg. 3 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-9ec5a5551355ab0c44c47b2289c67176]: Commencement: Reg. 3 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
-[^key-0bc5733dd0528d99979b9b67865f1287]: Commencement: Reg. 4 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-0bc5733dd0528d99979b9b67865f1287]: Commencement: Reg. 4 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
-[^key-05299459b84a7687fc7afd3d97d7268c]: Commencement: Reg. 5 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-05299459b84a7687fc7afd3d97d7268c]: Commencement: Reg. 5 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
 [^f00007]: Footnote: [1946 c. 36](https://www.legislation.gov.uk/ukpga/1946/36).
 
-[^key-94ad7cc14f5840c82613b6c1ce87962d]: Commencement: Reg. 6 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-94ad7cc14f5840c82613b6c1ce87962d]: Commencement: Reg. 6 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
-[^key-217c04a8c0188e1b3c7388ea1067333e]: Commencement: Reg. 7 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-217c04a8c0188e1b3c7388ea1067333e]: Commencement: Reg. 7 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
-[^key-ebfd4e291a020201ad64c33d99091a53]: Commencement: Reg. 8 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-ebfd4e291a020201ad64c33d99091a53]: Commencement: Reg. 8 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
-[^key-6d49c12271c75375f63a3d8a5e817e53]: Commencement: Reg. 9 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-6d49c12271c75375f63a3d8a5e817e53]: Commencement: Reg. 9 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
-[^key-55a8eee5eb00421e7e55a75dbb3ae80d]: Commencement: Reg. 10 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-55a8eee5eb00421e7e55a75dbb3ae80d]: Commencement: Reg. 10 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 2006/246](https://www.legislation.gov.uk/uksi/2006/246).
 
-[^key-9a16ae8a7d305d1ab44425a5a30c893e]: Commencement: Reg. 11 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-9a16ae8a7d305d1ab44425a5a30c893e]: Commencement: Reg. 11 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
 [^f00009]: Footnote: [S.I. 1993/202](https://www.legislation.gov.uk/uksi/1993/202); relevant amendments were made by [S.I. 2001/3384](https://www.legislation.gov.uk/uksi/2001/3384).
 
 [^f00010]: Footnote: [S.I. 2001/3384](https://www.legislation.gov.uk/uksi/2001/3384) amended by [S.I. 2014/165](https://www.legislation.gov.uk/uksi/2014/165) and [S.I. 2015/881](https://www.legislation.gov.uk/uksi/2015/881).
 
-[^key-48b47907da38df38cbfb4aa7340fd697]: Commencement: Reg. 12 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-48b47907da38df38cbfb4aa7340fd697]: Commencement: Reg. 12 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
 [^f00011]: Footnote: [S.I. 2006/2914](https://www.legislation.gov.uk/uksi/2006/2914).
 
 [^f00012]: Footnote: [S.I. 2013/2356](https://www.legislation.gov.uk/uksi/2013/2356).
 
-[^key-3e30cda4d05d8bfaeaf93bc8afd3820d]: Commencement: Reg. 13 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-3e30cda4d05d8bfaeaf93bc8afd3820d]: Commencement: Reg. 13 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
-[^key-8afae69f1e7ec6675d13a7068c020773]: Commencement: Reg. 14 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-8afae69f1e7ec6675d13a7068c020773]: Commencement: Reg. 14 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
 [^f00013]: Footnote: See section 102 of the Local Government and Housing Act 1989 for meaning of “principal council”.
 
 [^f00014]: Footnote: Section 80A was inserted by [S.I. 2015/998](https://www.legislation.gov.uk/uksi/2015/998).
 
-[^key-f81c337ba730843ff431b7b3a63321ec]: Commencement: Reg. 15 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-f81c337ba730843ff431b7b3a63321ec]: Commencement: Reg. 15 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
 [^f00015]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22). Part 1A was inserted by the Localism Act [2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20) section 21 and Schedule 2.
 
-[^key-0999968f6280ea53f81a6d9599779181]: Commencement: Reg. 16 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-0999968f6280ea53f81a6d9599779181]: Commencement: Reg. 16 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
 [^f00016]: Footnote: See section 35 of the Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2) for meaning of “returning officer”.
 
 [^f00017]: Footnote: [S.I. 2006/3305](https://www.legislation.gov.uk/uksi/2006/3305).
 
-[^key-8adde6df4fdd9d90a9bd7680b70d9223]: Commencement: Reg. 17 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-8adde6df4fdd9d90a9bd7680b70d9223]: Commencement: Reg. 17 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
 [^f00018]: Footnote: See Schedule 1 to the Interpretation Act [1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30) for meaning of “parliamentary election”.
 
@@ -721,7 +721,7 @@ A full impact assessment has not been prepared as this instrument will have no i
 
 [^f00022]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2). Section 8(2) was amended by the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), Schedule 16, paragraph 68(1). Section 37 was amended by section 60 of the Local Government and Public Involvement in Health Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28). There are other amendments not relevant to these Regulations.
 
-[^key-248fe3fe9ed107f2dc4d7de59a991454]: Commencement: Reg. 18 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-248fe3fe9ed107f2dc4d7de59a991454]: Commencement: Reg. 18 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
 [^f00023]: Footnote: [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52). Section 166A was inserted by the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) section 147(1).
 
@@ -741,78 +741,78 @@ A full impact assessment has not been prepared as this instrument will have no i
 
 [^f00031]: Footnote: Section 5 of the Licensing Act 2003 requires a licensing authority to determine and publish its licensing policy for each five year period ending with 6th January 2016 and for each subsequent five year period. Section 5 was amended by section 122 of the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13) to substitute for the reference to three years in subsection (1) reference to a period of five years; to insert the definition of “five year period” and “licensing statement” in subsection (8) and to insert subsections (6A) to (6C) to allow an authority to replace its policy at any time within the five year period and to specify the five year period to which the policy relates. There are other amendments not relevant to this provision.
 
-[^key-c4dde688773b1b1012a4109e49d14174]: Commencement: Reg. 19 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-c4dde688773b1b1012a4109e49d14174]: Commencement: Reg. 19 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
-[^key-f8109c479884dffca4365cd900f88af1]: Commencement: Reg. 20 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-f8109c479884dffca4365cd900f88af1]: Commencement: Reg. 20 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
 [^f00032]: Footnote: [S.I. 2015/234](https://www.legislation.gov.uk/uksi/2015/234).
 
-[^key-5b3afc9842c672125111729fc7ec98ca]: Commencement: Reg. 21 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-5b3afc9842c672125111729fc7ec98ca]: Commencement: Reg. 21 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
-[^key-538ec6b3651da1bcb48b7f252cab0123]: Commencement: Reg. 22 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-538ec6b3651da1bcb48b7f252cab0123]: Commencement: Reg. 22 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
-[^key-71b618fb83c7022b59435d431105f949]: Commencement: Reg. 23 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-71b618fb83c7022b59435d431105f949]: Commencement: Reg. 23 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
-[^key-16380104962ad7068dfacaec9940e016]: Commencement: Reg. 24 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-16380104962ad7068dfacaec9940e016]: Commencement: Reg. 24 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
 [^f00033]: Footnote: See regulation 3 of [S.I. 2015/234](https://www.legislation.gov.uk/uksi/2015/234) for meaning of “internal control”.
 
-[^key-9a74128c97604e50811dbb0887e71f1e]: Commencement: Reg. 25 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-9a74128c97604e50811dbb0887e71f1e]: Commencement: Reg. 25 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
 [^f00034]: Footnote: [2004 c. 5](https://www.legislation.gov.uk/ukpga/2004/5). Section 23 was amended by the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), section 112.
 
-[^key-ae6443aa04a978c9c8f8d166073f183a]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/uksi/2018/1128/regulation/25) substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/2)
+[^c-ae6443aa04a978c9c8f8d166073f183a]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/uksi/2018/1128/regulation/25) substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/2)
 
-[^key-bc61840c6dce9518743c4eb9e1ace8ce]: Commencement: Reg. 26 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-bc61840c6dce9518743c4eb9e1ace8ce]: Commencement: Reg. 26 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
-[^key-b2d7950e31ee60ea9628338e05b2fced]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/uksi/2018/1128/regulation/26) heading substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(3)(a)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/3/a)
+[^c-b2d7950e31ee60ea9628338e05b2fced]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/uksi/2018/1128/regulation/26) heading substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(3)(a)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/3/a)
 
-[^key-ad1a7aa6e2abd6e09858465f70dd7a16]: Textual amendment: [Reg. 26(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/26/1) substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(3)(b)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/3/b)
+[^c-ad1a7aa6e2abd6e09858465f70dd7a16]: Textual amendment: [Reg. 26(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/26/1) substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(3)(b)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/3/b)
 
-[^key-25c84659f198ba8aefed6fd03c92f403]: Textual amendment: Words in [reg. 26(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/26/2) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(3)(c)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/3/c)
+[^c-25c84659f198ba8aefed6fd03c92f403]: Textual amendment: Words in [reg. 26(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/26/2) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(3)(c)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/3/c)
 
-[^key-39105cd7797638465b5cbcf29ce3ee71]: Textual amendment: Words in [reg. 26(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/26/3) substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(3)(d)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/3/d)
+[^c-39105cd7797638465b5cbcf29ce3ee71]: Textual amendment: Words in [reg. 26(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/26/3) substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(3)(d)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/3/d)
 
-[^key-43763e73aa360bb7af97ad146d070754]: Textual amendment: Words in [reg. 26(4)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/26/4) substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(3)(e)(i)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/3/e/i)
+[^c-43763e73aa360bb7af97ad146d070754]: Textual amendment: Words in [reg. 26(4)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/26/4) substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(3)(e)(i)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/3/e/i)
 
-[^key-c6dc38afc2bc50f15c381cd336473639]: Textual amendment: Words in [reg. 26(4)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/26/4) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/3/e/ii)
+[^c-c6dc38afc2bc50f15c381cd336473639]: Textual amendment: Words in [reg. 26(4)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/26/4) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/3/e/ii)
 
-[^key-02502de5f30bafd77d668eb62460d119]: Textual amendment: Words in [reg. 26(5)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/26/5) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(3)(f)(i)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/3/f/i)
+[^c-02502de5f30bafd77d668eb62460d119]: Textual amendment: Words in [reg. 26(5)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/26/5) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(3)(f)(i)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/3/f/i)
 
-[^key-e208c82467bae2fb48484febf5fdf846]: Textual amendment: Words in [reg. 26(5)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/26/5) substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(3)(f)(ii)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/3/f/ii)
+[^c-e208c82467bae2fb48484febf5fdf846]: Textual amendment: Words in [reg. 26(5)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/26/5) substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(3)(f)(ii)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/3/f/ii)
 
-[^key-88f01da6ab94f5ad0b529b12c3537f66]: Textual amendment: Words in [reg. 26(6)(a)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/26/6/a) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(3)(g)(i)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/3/g/i)
+[^c-88f01da6ab94f5ad0b529b12c3537f66]: Textual amendment: Words in [reg. 26(6)(a)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/26/6/a) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(3)(g)(i)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/3/g/i)
 
-[^key-9d4111d3a38013b4e3c873dfcc28ab9d]: Textual amendment: Words in [reg. 26(6)(b)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/26/6/b) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(3)(g)(ii)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/3/g/ii)
+[^c-9d4111d3a38013b4e3c873dfcc28ab9d]: Textual amendment: Words in [reg. 26(6)(b)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/26/6/b) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(3)(g)(ii)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/3/g/ii)
 
-[^key-6294951c74a073b4242c43be6c91e0c0]: Textual amendment: Words in [reg. 26(6)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/26/6) substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(3)(g)(iii)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/3/g/iii)
+[^c-6294951c74a073b4242c43be6c91e0c0]: Textual amendment: Words in [reg. 26(6)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/26/6) substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(3)(g)(iii)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/3/g/iii)
 
-[^key-87b95478b66823f71c86972d2ca8485e]: Commencement: Reg. 27 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-87b95478b66823f71c86972d2ca8485e]: Commencement: Reg. 27 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
-[^key-9509ee41c7ee2f451d2627888da996c7]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/2018/1128/regulation/27) heading substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(4)(a)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/4/a)
+[^c-9509ee41c7ee2f451d2627888da996c7]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/2018/1128/regulation/27) heading substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(4)(a)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/4/a)
 
-[^key-95f1f8e2aea536af87343e58aa6915b1]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/27/1) substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(4)(b)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/4/b)
+[^c-95f1f8e2aea536af87343e58aa6915b1]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/27/1) substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(4)(b)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/4/b)
 
-[^key-f56e1f2fe67d86a93dc921cce50d9949]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/27/2) substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(4)(c)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/4/c)
+[^c-f56e1f2fe67d86a93dc921cce50d9949]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/27/2) substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(4)(c)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/4/c)
 
-[^key-d8e4e00b2e9c1c836d5c2954e24db461]: Textual amendment: Words in [reg. 27(5)(a)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/27/5/a) substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(4)(d)(i)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/4/d/i)
+[^c-d8e4e00b2e9c1c836d5c2954e24db461]: Textual amendment: Words in [reg. 27(5)(a)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/27/5/a) substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(4)(d)(i)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/4/d/i)
 
-[^key-f0190b8c4063fd237e308e63cc527f83]: Textual amendment: Words in [reg. 27(5)(a)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/27/5/a) substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/4/d/ii)
+[^c-f0190b8c4063fd237e308e63cc527f83]: Textual amendment: Words in [reg. 27(5)(a)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/27/5/a) substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/4/d/ii)
 
-[^key-21ffba10b3a03d8e31b832234930fb05]: Textual amendment: Words in [reg. 27(6)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/27/6) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(4)(e)(i)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/4/e/i)
+[^c-21ffba10b3a03d8e31b832234930fb05]: Textual amendment: Words in [reg. 27(6)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/27/6) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(4)(e)(i)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/4/e/i)
 
-[^key-3dd3fd95764ecaa89c8b8b29bd4a01db]: Textual amendment: Words in [reg. 27(6)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/27/6) substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(4)(e)(ii)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/4/e/ii)
+[^c-3dd3fd95764ecaa89c8b8b29bd4a01db]: Textual amendment: Words in [reg. 27(6)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/27/6) substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(4)(e)(ii)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/4/e/ii)
 
-[^key-9ec3de8b7e7c8b0d019235dc27c258c0]: Textual amendment: Words in [reg. 27(6)(a)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/27/6/a) substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(4)(e)(iii)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/4/e/iii)
+[^c-9ec3de8b7e7c8b0d019235dc27c258c0]: Textual amendment: Words in [reg. 27(6)(a)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/27/6/a) substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(4)(e)(iii)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/4/e/iii)
 
-[^key-6ad107c7806e96dc704be8e1225faa94]: Textual amendment: Words in [reg. 27(6)(b)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/27/6/b) substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(4)(e)(iv)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/4/e/iv)
+[^c-6ad107c7806e96dc704be8e1225faa94]: Textual amendment: Words in [reg. 27(6)(b)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/27/6/b) substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [24(4)(e)(iv)](https://www.legislation.gov.uk/uksi/2026/170/regulation/24/4/e/iv)
 
-[^key-2a0dd62407dce393b385f3f0ff47ceaa]: Commencement: Reg. 28 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-2a0dd62407dce393b385f3f0ff47ceaa]: Commencement: Reg. 28 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
-[^key-b16931856863c7c3bb9d2a7743e3bb08]: Commencement: Reg. 29 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-b16931856863c7c3bb9d2a7743e3bb08]: Commencement: Reg. 29 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
 [^f00035]: Footnote: [2011 c. 20](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-deae5ba627350ae128333660342f65e5]: Commencement: Reg. 30 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
+[^c-deae5ba627350ae128333660342f65e5]: Commencement: Reg. 30 in force at 26.11.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1)
 
 [^f00036]: Footnote: Section 249 was amended by the Local Democracy, Economic Development and Construction Act [2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), section 29.

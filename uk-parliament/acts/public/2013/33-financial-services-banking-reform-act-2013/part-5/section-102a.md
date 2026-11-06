@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102A. Recommendations by Treasury in connection with general duties[^key-e0bd16cf20812c070727a00ad247ccf3]
+## 102A. Recommendations by Treasury in connection with general duties[^c-e0bd16cf20812c070727a00ad247ccf3]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0bd16cf20812c070727a00ad247ccf3]: Textual amendment: [S. 102A](https://www.legislation.gov.uk/ukpga/2013/33/section/102A) and cross-heading inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/4); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/iv)
+[^c-e0bd16cf20812c070727a00ad247ccf3]: Textual amendment: [S. 102A](https://www.legislation.gov.uk/ukpga/2013/33/section/102A) and cross-heading inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/4); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/iv)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Cessation on death of liable person[^key-eedb50ef4b58404256c1fd97aae140b5][^key-cc818da740791d563a98ac7d22e0f1c4]
+## 33. Cessation on death of liable person[^c-eedb50ef4b58404256c1fd97aae140b5][^c-cc818da740791d563a98ac7d22e0f1c4]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ A bank ceases to be subject to a direct deduction order on becoming aware of the
 
 ## Annotations
 
-[^key-eedb50ef4b58404256c1fd97aae140b5]: Commencement: S. 33 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-eedb50ef4b58404256c1fd97aae140b5]: Commencement: S. 33 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-cc818da740791d563a98ac7d22e0f1c4]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2025/28/section/33) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-cc818da740791d563a98ac7d22e0f1c4]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2025/28/section/33) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Insolvency of registered providers[^key-112330dee28b0ad322ebe91b88ffe30c][^key-ec1e29799e7a1c0140f8a4c89385f1e5]
+## 14. Insolvency of registered providers[^c-112330dee28b0ad322ebe91b88ffe30c][^c-ec1e29799e7a1c0140f8a4c89385f1e5]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 2 contains amendments to provisions of the Housing and Planning Act 201
 
 ## Annotations
 
-[^key-112330dee28b0ad322ebe91b88ffe30c]: Commencement: S. 14 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-112330dee28b0ad322ebe91b88ffe30c]: Commencement: S. 14 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-ec1e29799e7a1c0140f8a4c89385f1e5]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2023/36/section/14) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/g)
+[^c-ec1e29799e7a1c0140f8a4c89385f1e5]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2023/36/section/14) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/g)

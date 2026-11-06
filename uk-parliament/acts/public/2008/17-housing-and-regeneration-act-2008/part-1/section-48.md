@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Consents of the Secretary of State[^key-e65b3f980d44f1bd214d0f8bac4e2cf0]
+## 48. Consents of the Secretary of State[^c-e65b3f980d44f1bd214d0f8bac4e2cf0]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e65b3f980d44f1bd214d0f8bac4e2cf0]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2008/17/section/48) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/u) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-e65b3f980d44f1bd214d0f8bac4e2cf0]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2008/17/section/48) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/u) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

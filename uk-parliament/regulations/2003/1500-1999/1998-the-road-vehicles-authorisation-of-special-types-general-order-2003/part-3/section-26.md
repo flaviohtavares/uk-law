@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Track-laying agricultural motor vehicles: road and bridge authority notification and indemnity[^key-a8cc3075f7f904fe4b881200eaa922ce]
+## 26. Track-laying agricultural motor vehicles: road and bridge authority notification and indemnity[^c-a8cc3075f7f904fe4b881200eaa922ce]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8cc3075f7f904fe4b881200eaa922ce]: Commencement: Art. 26 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-a8cc3075f7f904fe4b881200eaa922ce]: Commencement: Art. 26 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

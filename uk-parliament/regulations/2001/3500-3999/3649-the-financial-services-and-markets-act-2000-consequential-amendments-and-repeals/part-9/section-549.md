@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 549. Capital receipts of debt-free authorities[^key-27ae04814df7d233a145d840f0ef25b1]
+## 549. Capital receipts of debt-free authorities[^c-27ae04814df7d233a145d840f0ef25b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-27ae04814df7d233a145d840f0ef25b1]: Commencement: Art. 549 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-27ae04814df7d233a145d840f0ef25b1]: Commencement: Art. 549 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00347]: Footnote: Regulation 65 was amended by [S.I. 1998/1937](https://www.legislation.gov.uk/uksi/1998/1937).

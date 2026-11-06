@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Duration etc. of temporary stop notice[^key-945935d463747dfc0a2dccbb03749e1d][^key-66eda72a84d7d979521e962bf86d3209]
+## 32. Duration etc. of temporary stop notice[^c-945935d463747dfc0a2dccbb03749e1d][^c-66eda72a84d7d979521e962bf86d3209]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-945935d463747dfc0a2dccbb03749e1d]: Commencement: S. 32 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-945935d463747dfc0a2dccbb03749e1d]: Commencement: S. 32 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-66eda72a84d7d979521e962bf86d3209]: Commencement: [S. 32](https://www.legislation.gov.uk/asc/2023/3/section/32) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-66eda72a84d7d979521e962bf86d3209]: Commencement: [S. 32](https://www.legislation.gov.uk/asc/2023/3/section/32) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

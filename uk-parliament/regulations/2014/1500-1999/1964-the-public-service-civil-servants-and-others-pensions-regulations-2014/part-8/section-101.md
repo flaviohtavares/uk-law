@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Meaning of “surviving partner”[^key-bb542271acc7ce74d9ae3186fdc6bc87]
+## 101. Meaning of “surviving partner”[^c-bb542271acc7ce74d9ae3186fdc6bc87]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb542271acc7ce74d9ae3186fdc6bc87]: Textual amendment: [Reg. 101](https://www.legislation.gov.uk/uksi/2014/1964/regulation/101) substituted (with effect from 1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2018 (S.I. 2018/537)](https://www.legislation.gov.uk/uksi/2018/537), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/537/regulation/1/2/b), [20](https://www.legislation.gov.uk/uksi/2018/537/regulation/20)
+[^c-bb542271acc7ce74d9ae3186fdc6bc87]: Textual amendment: [Reg. 101](https://www.legislation.gov.uk/uksi/2014/1964/regulation/101) substituted (with effect from 1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2018 (S.I. 2018/537)](https://www.legislation.gov.uk/uksi/2018/537), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/537/regulation/1/2/b), [20](https://www.legislation.gov.uk/uksi/2018/537/regulation/20)

@@ -37,13 +37,13 @@ An Act to secure that local and other public authorities undertake certain activ
 
 ## Contents
 
-### Part I — Competition[^c13388211][^key-ce07114f8a41d85b469a1fccdaa6e69b]
+### Part I — Competition[^c13388211][^c-ce07114f8a41d85b469a1fccdaa6e69b]
 
 *Extent: S*
 
 **No longer in force.**
 
-#### Preliminary[^key-ce07114f8a41d85b469a1fccdaa6e69b]
+#### Preliminary[^c-ce07114f8a41d85b469a1fccdaa6e69b]
 
 *Extent: E+W+S*
 
@@ -53,7 +53,7 @@ An Act to secure that local and other public authorities undertake certain activ
 - [Section 2 — Defined activities.](part-i/section-2.md)
 - [Section 3 — Other definitions.](part-i/section-3.md)
 
-#### Works contracts: restrictions[^key-ce07114f8a41d85b469a1fccdaa6e69b]
+#### Works contracts: restrictions[^c-ce07114f8a41d85b469a1fccdaa6e69b]
 
 *Extent: E+W+S*
 
@@ -62,7 +62,7 @@ An Act to secure that local and other public authorities undertake certain activ
 - [Section 4 — Works contracts: restrictions.](part-i/section-4.md)
 - [Section 5 — Works contracts: transitional.](part-i/section-5.md)
 
-#### Functional work: restrictions[^key-ce07114f8a41d85b469a1fccdaa6e69b]
+#### Functional work: restrictions[^c-ce07114f8a41d85b469a1fccdaa6e69b]
 
 *Extent: E+W+S*
 
@@ -72,7 +72,7 @@ An Act to secure that local and other public authorities undertake certain activ
 - [Section 7 — The conditions.](part-i/section-7.md)
 - [Section 8 — The conditions: further provisions.](part-i/section-8.md)
 
-#### Accounts, reports and information[^key-ce07114f8a41d85b469a1fccdaa6e69b]
+#### Accounts, reports and information[^c-ce07114f8a41d85b469a1fccdaa6e69b]
 
 *Extent: E+W+S*
 
@@ -83,7 +83,7 @@ An Act to secure that local and other public authorities undertake certain activ
 - [Section 11 — Report for financial year.](part-i/section-11.md)
 - [Section 12 — Information.](part-i/section-12.md)
 
-#### Sanctions[^key-ce07114f8a41d85b469a1fccdaa6e69b]
+#### Sanctions[^c-ce07114f8a41d85b469a1fccdaa6e69b]
 
 *Extent: E+W+S*
 
@@ -92,7 +92,7 @@ An Act to secure that local and other public authorities undertake certain activ
 - [Section 13 — Notice for purpose of getting information.](part-i/section-13.md)
 - [Section 14 — Power to give directions.](part-i/section-14.md)
 
-#### Miscellaneous[^key-ce07114f8a41d85b469a1fccdaa6e69b]
+#### Miscellaneous[^c-ce07114f8a41d85b469a1fccdaa6e69b]
 
 *Extent: E+W+S*
 
@@ -159,7 +159,7 @@ SCHEDULES
 
 [^c13388211]: Textual amendment: Pt. I repealed (E.W.) (27.7.1999 with effect in accordance with ss. 21, 27 of the amending Act) by [1999 c. 27](https://www.legislation.gov.uk/ukpga/1999/27), [ss. 21(1)(b)](https://www.legislation.gov.uk/ukpga/1999/27/section/21/1/b), [34](https://www.legislation.gov.uk/ukpga/1999/27/section/34), [Sch. 2(1)](https://www.legislation.gov.uk/ukpga/1999/27/schedule/2/1), Note
 
-[^key-ce07114f8a41d85b469a1fccdaa6e69b]: Textual amendment: Pt. 1 repealed (S.) (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 60(1)(f)](https://www.legislation.gov.uk/asp/2003/1/section/60/1/f), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
+[^c-ce07114f8a41d85b469a1fccdaa6e69b]: Textual amendment: Pt. 1 repealed (S.) (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 60(1)(f)](https://www.legislation.gov.uk/asp/2003/1/section/60/1/f), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
 
 [^c13394291]: Modification: [Pt. II](https://www.legislation.gov.uk/ukpga/1988/9/part/II) (ss. 17-23) applied (*temp.* until 1.4.1996) by [S.I. 1995/789](https://www.legislation.gov.uk/uksi/1995/789), [art. 2](https://www.legislation.gov.uk/uksi/1995/789/article/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/1995/789/schedule/paragraph/10)
 

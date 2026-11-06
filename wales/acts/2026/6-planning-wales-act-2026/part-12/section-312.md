@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 312. Discontinuance orders, prohibition orders and protection orders[^key-c8f40c9b75ae51384abada9bfb203cda]
+## 312. Discontinuance orders, prohibition orders and protection orders[^c-c8f40c9b75ae51384abada9bfb203cda]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Sections 206 and 207 and Schedules 14 and 15 (discontinuance orders, prohibition
 
 ## Annotations
 
-[^key-c8f40c9b75ae51384abada9bfb203cda]: Commencement: S. 312 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-c8f40c9b75ae51384abada9bfb203cda]: Commencement: S. 312 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

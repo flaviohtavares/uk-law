@@ -31,7 +31,7 @@ summary: ''
 
 PLANT HEALTH
 
-Plant Health (Amendment) Order (Northern Ireland) 2006 (revoked)[^key-ab88d027d039a4faf91f265325ea12a6]
+Plant Health (Amendment) Order (Northern Ireland) 2006 (revoked)[^c-ab88d027d039a4faf91f265325ea12a6]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into operation
 
 1st May 2006
 
-[^key-ab88d027d039a4faf91f265325ea12a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab88d027d039a4faf91f265325ea12a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ab88d027d039a4faf91f265325ea12a6]
+## 1. Citation and commencement[^c-ab88d027d039a4faf91f265325ea12a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health Order (Northern Ireland) 2006[^key-ab88d027d039a4faf91f265325ea12a6]
+## 2. Amendment of the Plant Health Order (Northern Ireland) 2006[^c-ab88d027d039a4faf91f265325ea12a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ab88d027d039a4faf91f265325ea12a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ab88d027d039a4faf91f265325ea12a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ab88d027d039a4faf91f265325ea12a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ab88d027d039a4faf91f265325ea12a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ab88d027d039a4faf91f265325ea12a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab88d027d039a4faf91f265325ea12a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ab88d027d039a4faf91f265325ea12a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab88d027d039a4faf91f265325ea12a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ab88d027d039a4faf91f265325ea12a6]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/165) revoked (1.12.2018) by [The Plant Health Order (Northern Ireland) 2018 (S.R. 2018/184)](https://www.legislation.gov.uk/nisr/2018/184), [Sch. 18](https://www.legislation.gov.uk/nisr/2018/184/schedule/18)
+[^c-ab88d027d039a4faf91f265325ea12a6]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/165) revoked (1.12.2018) by [The Plant Health Order (Northern Ireland) 2018 (S.R. 2018/184)](https://www.legislation.gov.uk/nisr/2018/184), [Sch. 18](https://www.legislation.gov.uk/nisr/2018/184/schedule/18)

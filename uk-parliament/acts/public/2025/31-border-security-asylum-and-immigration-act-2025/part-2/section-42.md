@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Sections 40 and 41: consequential amendments[^key-505b15234bf663f96cc02c98486749f7]
+## 42. Sections 40 and 41: consequential amendments[^c-505b15234bf663f96cc02c98486749f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-505b15234bf663f96cc02c98486749f7]: Commencement: S. 42 in force at Royal Assent, see [s. 65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/a)
+[^c-505b15234bf663f96cc02c98486749f7]: Commencement: S. 42 in force at Royal Assent, see [s. 65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/a)

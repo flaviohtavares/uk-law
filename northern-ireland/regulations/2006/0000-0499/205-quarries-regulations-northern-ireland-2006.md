@@ -45,7 +45,7 @@ In accordance with Article 46(3) of that Order, the Executive has consulted any 
 
 ## PART I — INTERPRETATION AND GENERAL
 
-### 1. Citation and commencement[^key-ef2ab35a6909a6197a589759d2888e27]
+### 1. Citation and commencement[^c-ef2ab35a6909a6197a589759d2888e27]
 
 (1) These Regulations may be cited as the Quarries Regulations (Northern Ireland) 2006 and, subject to paragraphs (2) and (3), shall come into operation on 1st August 2006.
 
@@ -53,7 +53,7 @@ In accordance with Article 46(3) of that Order, the Executive has consulted any 
 
 (3) Regulation 26(4) shall come into operation on 1st August 2008 with respect to any notifiable tip which was not a classified tip for the purposes of regulation 2(1) of the 1995 Regulations.
 
-### 2. Interpretation[^key-7c8f179a8510d1732abcac9d86ad66ea]
+### 2. Interpretation[^c-7c8f179a8510d1732abcac9d86ad66ea]
 
 (1) In these Regulations—
 
@@ -87,13 +87,13 @@ In accordance with Article 46(3) of that Order, the Executive has consulted any 
 
 (2) Any reference in these Regulations to any specified document shall operate as a reference to that document as revised or reissued from time to time.
 
-### 3. Meaning of quarry[^key-af8215976f62e8a06c05cd802a9cdfe8]
+### 3. Meaning of quarry[^c-af8215976f62e8a06c05cd802a9cdfe8]
 
 (1) In these Regulations “quarry” means—
 
 - (a) subject to paragraph (2), an excavation or system of excavations made for the purpose of, or in connection with, the extraction of minerals (whether in their natural state or in solution or suspension) or products of minerals, being neither a mine nor merely a well or borehole or a well and borehole combined;
 - (b) any reclamation site (and for this purpose “reclamation site” means a site where the extraction of minerals forms part of the process whereby that site is restored for agricultural, industrial or domestic use) from which minerals are being extracted for sale or further use; or
-- (c) any disused tip from which minerals are being extracted for sale or further use and which is not at a mine within the meaning of regulation 3 of the Mines Regulations (Northern Ireland) 2016[^key-1cf4827475e6784e5af538c00da3a211].
+- (c) any disused tip from which minerals are being extracted for sale or further use and which is not at a mine within the meaning of regulation 3 of the Mines Regulations (Northern Ireland) 2016[^c-1cf4827475e6784e5af538c00da3a211].
 
 (2) Notwithstanding paragraph (1)(a), in these Regulations “quarry” does not include—
 
@@ -122,7 +122,7 @@ In accordance with Article 46(3) of that Order, the Executive has consulted any 
 
 (5) Upon receipt of a notice given in accordance with paragraphs (4)(a)(ii) or (4)(b)(ii), the tip named in that notice shall be treated as forming part of the quarry specified in the said notice.
 
-### 4. Application[^key-b6d6a65439a74567093c8d627fdbf20a]
+### 4. Application[^c-b6d6a65439a74567093c8d627fdbf20a]
 
 (1) Subject to paragraph (2), these Regulations shall apply to all quarries where persons work.
 
@@ -145,7 +145,7 @@ provided that no work activity set out in paragraph (3) is being carried on at t
 
 ## PART II — HEALTH AND SAFETY MANAGEMENT
 
-### 5. Duties of the person entitled to work the quarry[^key-8d3738116e590f829ff1aea10d85c836]
+### 5. Duties of the person entitled to work the quarry[^c-8d3738116e590f829ff1aea10d85c836]
 
 (1) The person entitled to work a quarry shall not permit another person to be the operator of that quarry unless that person is suitable and has sufficient resources to be able to operate the quarry safely.
 
@@ -155,7 +155,7 @@ provided that no work activity set out in paragraph (3) is being carried on at t
 
 (4) The person so entitled shall provide the operator with any relevant information available to him which might affect the health and safety of persons at work at the quarry.
 
-### 6. General duties of the operator[^key-67cab8a31901ac0ac215db4afd92cc0f]
+### 6. General duties of the operator[^c-67cab8a31901ac0ac215db4afd92cc0f]
 
 (1) It shall be the duty of the operator of every quarry to take the necessary measures to ensure, so far as is reasonably practicable, that the quarry and its plant are designed, constructed, equipped, commissioned, operated and maintained in such a way that persons at work can perform the work assigned to them without endangering their own health and safety or the health and safety of others.
 
@@ -168,7 +168,7 @@ provided that no work activity set out in paragraph (3) is being carried on at t
 
 (4) The operator shall ensure that in the event of the abandonment of or ceasing of operations at a quarry, the quarry is left, so far as is reasonably practicable, in a safe condition.
 
-### 7. The health and safety document[^key-692fb4439d19050c70d41c8f7ba29979]
+### 7. The health and safety document[^c-692fb4439d19050c70d41c8f7ba29979]
 
 (1) The operator shall ensure that no work is carried out at the quarry unless a document (in these Regulations referred to as the “health and safety document”) has been prepared which—
 
@@ -207,7 +207,7 @@ provided that no work activity set out in paragraph (3) is being carried on at t
 
 (5) Each person in the management structure shall carry out the duties assigned to him in the health and safety document so as to protect the health and safety of persons at work at the quarry.
 
-### 8. Management structure[^key-0346220facf279ad3895405a1f3cbb1d]
+### 8. Management structure[^c-0346220facf279ad3895405a1f3cbb1d]
 
 (1) With a view to ensuring the health, safety and welfare of those persons identified in regulation 7(1)(b)(i) and (ii), it shall be the duty of the operator to—
 
@@ -225,14 +225,14 @@ provided that no work activity set out in paragraph (3) is being carried on at t
 
 (5) The reference to a competent individual taking charge in paragraph (1)(c) is a reference to that individual taking charge subject to the overall control exercised by the operator.
 
-### 9. Training and competence[^key-7c878e8435b3d0feecea0390e6cac97c]
+### 9. Training and competence[^c-7c878e8435b3d0feecea0390e6cac97c]
 
 The operator shall ensure that a person shall not undertake any work at the quarry unless—
 
 - (a) that person is either competent to do that work or he does so under the instruction and supervision of some other person who is competent to give instruction in and to supervise the doing of that work for the purpose of training him; and
 - (b) a sufficient number of persons with the requisite competence to perform the tasks assigned to them are present.
 
-### 10. Instructions, rules and schemes[^key-c49b53aaba8ac5ac2914375c77bca31b]
+### 10. Instructions, rules and schemes[^c-c49b53aaba8ac5ac2914375c77bca31b]
 
 (1) It shall be the duty of the operator to—
 
@@ -246,7 +246,7 @@ The operator shall ensure that a person shall not undertake any work at the quar
 
 (2) The operator shall ensure, so far as is reasonably practicable, that any instructions, rules and schemes required to be made under these Regulations are followed, or as the case may be, complied with, by persons at work at the quarry.
 
-### 11. Review of health and safety measures[^key-8f62f7e799872649fcb5594b33b12459]
+### 11. Review of health and safety measures[^c-8f62f7e799872649fcb5594b33b12459]
 
 The operator shall ensure that—
 
@@ -257,7 +257,7 @@ The operator shall ensure that—
 
 ## PART III — RISK CONTROL
 
-### 12. Inspection[^key-52efb3f33be72ffbd65145360bae4d16]
+### 12. Inspection[^c-52efb3f33be72ffbd65145360bae4d16]
 
 (1) The operator shall—
 
@@ -279,18 +279,18 @@ are inspected for loose ground or loose rocks before any work at the quarry comm
 
 (3) In this regulation, “inspection” means such visual or more rigorous inspection by a competent person as is appropriate for the purpose.
 
-### 13. Benches and haul roads[^key-163e19aa355d568a550afaccc3d31974]
+### 13. Benches and haul roads[^c-163e19aa355d568a550afaccc3d31974]
 
 The operator shall ensure, so far as is reasonably practicable, that—
 
 - (a) benches and haul roads are designed, constructed and maintained so as to allow vehicles and plant to be used and moved upon them safely; and
 - (b) where necessary, effective precautions are taken, by the installation of barriers or otherwise, to prevent vehicles or plant accidentally leaving any bench or haul road.
 
-### 14. Rules controlling risk from vehicles[^key-9c18f286197c6350b3ddcce6e74b9168]
+### 14. Rules controlling risk from vehicles[^c-9c18f286197c6350b3ddcce6e74b9168]
 
 The operator shall make suitable and sufficient rules (known in these Regulations as the “vehicles rules”) which shall lay down in writing measures designed to control the risks to persons at the quarry arising from the use of vehicles at the quarry.
 
-### 15. Escape and rescue facilities at the quarry[^key-2ee9b0f51a5aafaf41799b1347a91045]
+### 15. Escape and rescue facilities at the quarry[^c-2ee9b0f51a5aafaf41799b1347a91045]
 
 The operator shall ensure that—
 
@@ -300,17 +300,17 @@ The operator shall ensure that—
 - (d) persons at work at the quarry are trained in appropriate action to be taken in the event of an emergency; and
 - (e) rescue equipment is provided at readily accessible, appropriately sited and clearly sign-posted places and kept ready for use.
 
-### 16. Barriers[^key-797be944cbb22f47935f0610db59f94a]
+### 16. Barriers[^c-797be944cbb22f47935f0610db59f94a]
 
 The operator shall ensure that, where appropriate, a barrier suitable for the purpose of discouraging trespass is placed around the boundary of the quarry and is properly maintained.
 
 ## PART IV — ADDITIONAL HEALTH AND SAFETY REQUIREMENTS
 
-### 17. Compliance with Part IV[^key-9e2a259538de01e27a7745a8c969e7fd]
+### 17. Compliance with Part IV[^c-9e2a259538de01e27a7745a8c969e7fd]
 
 The operator shall ensure that regulations 18 to 23 are in each case complied with as appropriate having regard to the features of the quarry, the nature and circumstances of the work carried on there or to a specific risk.
 
-### 18. Permits to work[^key-e7ac072a148226eedc35a97049db8527]
+### 18. Permits to work[^c-e7ac072a148226eedc35a97049db8527]
 
 (1) The operator shall ensure that a system is in place so as to ensure that any work involving—
 
@@ -328,7 +328,7 @@ The operator shall ensure that regulations 18 to 23 are in each case complied wi
 - (a) issued, signed and dated by a suitable person in the management structure; and then
 - (b) accepted, signed and dated by a further suitable person.
 
-### 19. Safety drills[^key-386a4402fe30054f727d2836754867e2]
+### 19. Safety drills[^c-386a4402fe30054f727d2836754867e2]
 
 (1) The operator shall ensure that safety drills are held at regular intervals for persons at work at the quarry.
 
@@ -337,13 +337,13 @@ The operator shall ensure that regulations 18 to 23 are in each case complied wi
 - (a) to train the persons who work at the quarry in the appropriate actions to be taken in an emergency including, where appropriate, the correct use, handling or operation of emergency equipment; and
 - (b) to train and check the skills of such persons to whom specific duties involving the use, handling or operation of such equipment have been assigned in the event of an emergency.
 
-### 20. Fire and explosion hazards[^key-9e39039beb368019e24fa510859d32fc]
+### 20. Fire and explosion hazards[^c-9e39039beb368019e24fa510859d32fc]
 
 (1) The operator shall ensure that a person at work at the quarry does not use a naked flame or carry out any work which could give rise to a risk of an unintended explosion or fire unless sufficient measures to prevent such an explosion or fire are taken.
 
 (2) A person shall not smoke in any part of a quarry where there is a risk of fire or explosion.
 
-### 21. Control of harmful and explosive atmospheres[^key-dda81084987c3e7316d1c8f9bce68121]
+### 21. Control of harmful and explosive atmospheres[^c-dda81084987c3e7316d1c8f9bce68121]
 
 (1) It shall be the duty of the operator to ensure that—
 
@@ -369,7 +369,7 @@ The operator shall ensure that regulations 18 to 23 are in each case complied wi
 
 (3) The operator shall ensure that the equipment referred to at paragraph (2)(a) is suitably stored and maintained.
 
-### 22. Danger areas[^key-3b6a265443ebd84ded33cb1567b30783]
+### 22. Danger areas[^c-3b6a265443ebd84ded33cb1567b30783]
 
 The operator shall ensure that—
 
@@ -380,13 +380,13 @@ The operator shall ensure that—
   - (iii) a significant risk to the health and safety of persons; and
 - (c) where any person at work is authorised to enter a danger area, appropriate measures are taken to protect his health and safety.
 
-### 23. Lighting[^key-691ae6cd0097dd6de3f35af7ef072854]
+### 23. Lighting[^c-691ae6cd0097dd6de3f35af7ef072854]
 
 The operator shall ensure that every part of a quarry in which a person is likely to be exposed to risks in the event of the failure of artificial lighting is provided with emergency lighting of adequate intensity and where that is impractical persons at work in that place shall be provided with a personal lamp.
 
 ## PART V — EXCAVATIONS AND TIPS
 
-### 24. General duty to ensure safety of excavations and tips[^key-6b89dba7912f6d20fd281b1d7d7d82e2]
+### 24. General duty to ensure safety of excavations and tips[^c-6b89dba7912f6d20fd281b1d7d7d82e2]
 
 The operator shall ensure that excavations and tips are designed, constructed, operated and maintained so as to ensure that—
 
@@ -395,7 +395,7 @@ The operator shall ensure that excavations and tips are designed, constructed, o
 
 which is likely to give rise to a risk to the health and safety of any person is avoided.
 
-### 25. Excavations and tips rules[^key-3e5a354679f18928799d2df5830a91bd]
+### 25. Excavations and tips rules[^c-3e5a354679f18928799d2df5830a91bd]
 
 The operator shall ensure that suitable and sufficient rules (known in these Regulations as the “excavations and tips rules”) are made to ensure the safe construction and operation of excavations and tips and such rules shall in particular specify the following matters—
 
@@ -403,17 +403,17 @@ The operator shall ensure that suitable and sufficient rules (known in these Reg
 - (b) the nature and extent of supervision of such activities; and
 - (c) the precautions to be taken during such activities to ensure the health and safety of any person and the safety and stability of the excavation or tip.
 
-### 26. Appraisal of excavations and tips[^key-4b80fb535630f278f7db984d57353061][^key-d815121bd3975a6757a3bd91a629dd69]
+### 26. Appraisal of excavations and tips[^c-4b80fb535630f278f7db984d57353061][^c-d815121bd3975a6757a3bd91a629dd69]
 
-(1)[^key-4b80fb535630f278f7db984d57353061] The operator shall ensure that a suitable and sufficient appraisal of all proposed or existing excavations or tips at the quarry is undertaken by a competent person in order to determine whether any such excavation or tip is a significant hazard.
+(1)[^c-4b80fb535630f278f7db984d57353061] The operator shall ensure that a suitable and sufficient appraisal of all proposed or existing excavations or tips at the quarry is undertaken by a competent person in order to determine whether any such excavation or tip is a significant hazard.
 
-(2)[^key-4b80fb535630f278f7db984d57353061] The operator shall ensure that—
+(2)[^c-4b80fb535630f278f7db984d57353061] The operator shall ensure that—
 
 - (a) any significant findings made during an appraisal, any conclusions reached in accordance with paragraph (1) and the reasons for those conclusions are recorded by the competent person undertaking the appraisal;
 - (b) the said competent person signs and dates any such record; and
 - (c) the record made in accordance with sub-paragraph (a) is made available to each employer of persons at work at the quarry and to all persons at work at the quarry.
 
-(3)[^key-4b80fb535630f278f7db984d57353061] Where the conclusion reached by the competent person following an appraisal made pursuant to paragraph (1) is that the excavation or tip presents no significant hazard, the operator shall ensure that a competent person carries out further such appraisals—
+(3)[^c-4b80fb535630f278f7db984d57353061] Where the conclusion reached by the competent person following an appraisal made pursuant to paragraph (1) is that the excavation or tip presents no significant hazard, the operator shall ensure that a competent person carries out further such appraisals—
 
 - (a) at appropriate intervals;
 - (b) whenever there is any reason to suspect that there has been or will be a significant change to—
@@ -421,9 +421,9 @@ The operator shall ensure that suitable and sufficient rules (known in these Reg
   - (ii) any neighbouring land which may be affected by movement by or instability of the excavation or tip to which the appraisal relates; and
 - (c) whenever there is any reason to doubt the validity of the conclusion of the current appraisal.
 
-(4)[^key-d815121bd3975a6757a3bd91a629dd69] Where the conclusion reached by the competent person following an appraisal made pursuant to paragraph (1) is that the excavation or tip represents a significant hazard, the operator shall ensure that a geotechnical assessment is carried out in accordance with the requirements of regulation 27 as soon as is reasonably practicable.
+(4)[^c-d815121bd3975a6757a3bd91a629dd69] Where the conclusion reached by the competent person following an appraisal made pursuant to paragraph (1) is that the excavation or tip represents a significant hazard, the operator shall ensure that a geotechnical assessment is carried out in accordance with the requirements of regulation 27 as soon as is reasonably practicable.
 
-### 27. Meaning of “geotechnical assessment” and operator’s duties in relation to geotechnical assessments[^key-ceddeef1df769bc497e9903d6b06bc20]
+### 27. Meaning of “geotechnical assessment” and operator’s duties in relation to geotechnical assessments[^c-ceddeef1df769bc497e9903d6b06bc20]
 
 (1) For the purposes of these Regulations, a “geotechnical assessment” means an assessment carried out by a geotechnical specialist identifying and assessing all factors liable to affect the stability and safety of a proposed or existing excavation or tip and shall include—
 
@@ -442,7 +442,7 @@ The operator shall ensure that suitable and sufficient rules (known in these Reg
 
 (4) The operator shall ensure that any remedial works identified during the geotechnical assessment in accordance with paragraph (1)(c) are completed by the date specified.
 
-### 28. Operator’s duties in relation to excavations and tips which are a significant hazard (“notifiable” excavations and tips)[^key-89b824a94d7dfa35cdfe1c6be64f9510]
+### 28. Operator’s duties in relation to excavations and tips which are a significant hazard (“notifiable” excavations and tips)[^c-89b824a94d7dfa35cdfe1c6be64f9510]
 
 (1) Where the conclusion recorded by a geotechnical specialist in accordance with regulation 27(1)(b) following a geotechnical assessment of a proposed or existing excavation or tip is that the excavation or tip represents a significant hazard by way of instability or movement, the operator shall ensure, subject to regulation 27(1)(d), that the said excavation or tip is subject to a further geotechnical assessment at least every two years.
 
@@ -457,18 +457,18 @@ the operator shall ensure that a further geotechnical assessment is undertaken a
 
 (3) For the purposes of these Regulations, excavations and tips falling within paragraph (1) shall be known as “notifiable excavations” and “notifiable tips” respectively.
 
-### 29. Operator’s duties in relation to excavations and tips which are not a significant hazard[^key-a6e47b180f3148314f83c8bf976c08fc]
+### 29. Operator’s duties in relation to excavations and tips which are not a significant hazard[^c-a6e47b180f3148314f83c8bf976c08fc]
 
 Where the conclusion reached by a geotechnical specialist in accordance with regulation 27(1)(b) following a geotechnical assessment of a proposed or existing excavation or tip is that it presents no significant hazard, the operator shall ensure that—
 
 - (a) the said geotechnical specialist specifies the frequency with which appraisals pursuant to regulation 26 are to be conducted in order to ensure the continued safety and stability of the excavation or tip; and
 - (b) a record of that specification is made.
 
-### 30. Duty to keep record of substances tipped[^key-ca8c418e8e22799f7d7de56806a92a19]
+### 30. Duty to keep record of substances tipped[^c-ca8c418e8e22799f7d7de56806a92a19]
 
 The operator shall ensure that sufficient records are kept of the nature, quantity and location of all substances accumulated or deposited at a notifiable tip to enable an accurate assessment of the stability of that tip to be made.
 
-### 31. Notification of excavations and tips[^key-fee5028b554ad9fdd3061bc245bdc8e3]
+### 31. Notification of excavations and tips[^c-fee5028b554ad9fdd3061bc245bdc8e3]
 
 (1) Subject to paragraph (2), the operator shall in relation to any—
 
@@ -494,17 +494,17 @@ give not less than 30 days notice (or such shorter period as the Executive may p
 
 (5) Where the conclusion reached by a geotechnical specialist during the geotechnical assessment of an excavation or tip which has, in accordance with regulation 28(1), been subject to a geotechnical assessment at least every two years is that the excavation or tip no longer presents a significant hazard by way of instability or movement, the operator shall give notice of that conclusion and the reasons for that conclusion to the Executive within two months of the geotechnical assessment.
 
-### 32. Transitional provisions[^key-2a3ff10f8eda4aa42c2d9437e9512592]
+### 32. Transitional provisions[^c-2a3ff10f8eda4aa42c2d9437e9512592]
 
 Where, at the coming into operation of these Regulations, a report has been obtained in accordance with regulations 9(2)(a), 12(1) or 18(1) of the 1995 Regulations and is less than two years old, that report shall be treated as a geotechnical assessment for the purpose of regulation 26(4) of these Regulations and shall remain valid for a maximum of two years from the date when it was first made.
 
 ## PART VI — DUTIES OF EMPLOYERS AND PARTICIPATION AND DUTIES OF PERSONS AT WORK
 
-### 33. Co-operation[^key-e8643f1ead8ee919fe0e417ce308177b]
+### 33. Co-operation[^c-e8643f1ead8ee919fe0e417ce308177b]
 
 Every employer of persons at work at a quarry and every person at work at the quarry shall co-operate with the operator to the extent requisite to enable the operator to comply with the relevant statutory provisions.
 
-### 34. Participation of persons at work[^key-a335ebb4047277f937ac661a3747717b]
+### 34. Participation of persons at work[^c-a335ebb4047277f937ac661a3747717b]
 
 (1) It shall be the duty of the operator to make and maintain arrangements which will enable him and those persons who regularly work at the quarry to co-operate effectively in promoting and developing measures to ensure the health, safety and welfare of persons who regularly work at the quarry and in checking the effectiveness of such measures.
 
@@ -531,26 +531,26 @@ Every employer of persons at work at a quarry and every person at work at the qu
 
 (9) Where a written report is made, a copy of the report signed in accordance with paragraph (8) shall be posted in a conspicuous position at the quarry and kept posted there for 28 days.
 
-### 35. Duty of employers of employees at work at a quarry[^key-ab68cb39172d463d46b2c0d8b5d89e20]
+### 35. Duty of employers of employees at work at a quarry[^c-ab68cb39172d463d46b2c0d8b5d89e20]
 
 (1) An employer shall not employ any person to work at a quarry unless there is an operator.
 
 (2) Without prejudice to regulation 6, where the employees of more than one employer are at work at a quarry, it shall be the duty of each employer to comply with those relevant statutory provisions which apply to the quarry.
 
-### 36. Duty of persons at work at a quarry[^key-26b2ca6f044ba0fee5688b1d588290f1]
+### 36. Duty of persons at work at a quarry[^c-26b2ca6f044ba0fee5688b1d588290f1]
 
 Every person at work at a quarry shall—
 
 - (a) to the extent of his responsibility and authority, carry out the duties allocated to him with reasonable care for the health and safety of himself and other persons who may be affected by his acts or omissions; and
 - (b) comply with the rules put in place at the quarry by the operator in accordance with regulation 10.
 
-### 37. Health surveillance[^key-9f594a46e1d2c264b8c50b3ae13f4934]
+### 37. Health surveillance[^c-9f594a46e1d2c264b8c50b3ae13f4934]
 
 An employer of a person at work at a quarry shall ensure, where health surveillance under regulation 6 of the 2000 Regulations is required in respect of any work to which that person is to be assigned, that the health surveillance commences before that person begins to carry out such work.
 
 ## PART VII — MISCELLANEOUS AND GENERAL
 
-### 38. Record keeping[^key-a583b39b27f17412d7617d29b6a518ef]
+### 38. Record keeping[^c-a583b39b27f17412d7617d29b6a518ef]
 
 (1) It shall be the duty of the operator to ensure that—
 
@@ -559,7 +559,7 @@ An employer of a person at work at a quarry shall ensure, where health surveilla
 
 (2) Paragraph (1)(a) shall apply to copies of information notified to the Executive under these Regulations but shall not apply to the record made in accordance with regulation 5(2) by the person entitled to work the quarry.
 
-### 39. Notification of quarrying operations[^key-601ff8c229eb6406b82975987b88e772]
+### 39. Notification of quarrying operations[^c-601ff8c229eb6406b82975987b88e772]
 
 (1) It shall be the duty of the operator to ensure that within fourteen days of any of the events specified at paragraph (2)(a) to (c), written notice thereof is given to the Executive.
 
@@ -573,7 +573,7 @@ An employer of a person at work at a quarry shall ensure, where health surveilla
 
 (4) Where, in pursuance of paragraph (3), a plan has been sent to the Executive or a body approved by it, that plan shall be retained by the Executive or that body in accordance with arrangements approved by the Executive.
 
-### 40. Exemptions[^key-03bbe0712ca8b6608562d92d68c0e186]
+### 40. Exemptions[^c-03bbe0712ca8b6608562d92d68c0e186]
 
 (1) Subject to paragraph (2), the Executive may, by a certificate in writing, exempt any quarry, part of a quarry or class of quarries, any person or class of persons, any plant or class of plant or any operation or class of operations from all or any of the prohibitions or requirements imposed by these Regulations, and any such exemption may be granted subject to conditions and to a limit of time and may be revoked at any time by the Executive by a further certificate in writing.
 
@@ -586,7 +586,7 @@ it is satisfied that the health and safety of persons who are likely to be affec
 
 ## PART VIII — REPEALS, AMENDMENTS AND REVOCATIONS
 
-### 41. Repeals and amendments[^key-1d43054a4bc26cf2505661d5437c26e2]
+### 41. Repeals and amendments[^c-1d43054a4bc26cf2505661d5437c26e2]
 
 (1) The 1983 Order shall be amended in accordance with paragraphs (2) to (6).
 
@@ -600,7 +600,7 @@ it is satisfied that the health and safety of persons who are likely to be affec
 
 (6) For the words “Articles 3 to 8, 10, 11 and 14” in Article 22(2) there shall be substituted “Articles 10 and 11”.
 
-### 42. Revocations and amendments[^key-a0ea37050014b190db694ab9882c30b8]
+### 42. Revocations and amendments[^c-a0ea37050014b190db694ab9882c30b8]
 
 (1) The statutory provisions specified in column 1 of Part I of Schedule 2 shall be revoked.
 
@@ -618,7 +618,7 @@ Department of Enterprise, Trade and Investment
 
 Regulation 27(1)(a)
 
-### 1. Site survey[^key-ee3cb09a4b13d36f5a8cabbc06204cd8]
+### 1. Site survey[^c-ee3cb09a4b13d36f5a8cabbc06204cd8]
 
 An accurate plan which should be prepared on a scale not less detailed than 1:2,500 showing—
 
@@ -627,37 +627,37 @@ An accurate plan which should be prepared on a scale not less detailed than 1:2,
 - (c) any contiguous land or structures which might be affected by the excavation or tip or proposed excavation or tip; and
 - (d) all mine workings (whether abandoned or not), buried quarry workings, known cave systems, active or former landslips, springs, artesian wells, watercourses and other natural or man-made features including tunnel pipes or culverts which might affect the safety of the excavation or tip or proposed excavation or tip or which might be relevant for the purpose of determining whether excavation or tipping operations can be carried out safely, which plan shall be contoured to Ordnance Datum at a vertical interval not greater than five metres and orientated to and correlated with the Irish Grid and marked with squares corresponding to the 100 metre squares shown on Ordnance Survey of Northern Ireland sheets on the scale of 1:2,500.
 
-### 2. Site investigation[^key-86aba2f481a6a73594ab503626934ed1]
+### 2. Site investigation[^c-86aba2f481a6a73594ab503626934ed1]
 
 A record of all relevant site investigation information including surveys, tests, boreholes and groundwater measurements made for the purpose of the geotechnical assessment together with the results of any testing including the strength of materials within and beneath the tip or within the excavated slope. The record shall include any known historical information relevant to the site investigation.
 
-### 3. Cross-sections based on site investigation[^key-0e8802c7202e5afb6d944b2e569f1824]
+### 3. Cross-sections based on site investigation[^c-0e8802c7202e5afb6d944b2e569f1824]
 
 Sufficient accurate cross-sections on a scale not less detailed than 1:1,250 of the site of the excavation or tip or proposed excavation or tip showing the existing ground surface and all relevant superficial materials and bedrock underlying the said site and—
 
 - (a) any variation in the thickness, level or character of the superficial deposits and bedrock materials based on the site investigation; and
 - (b) the position of any surface whether natural or manmade which may affect the safety of the excavation or tip or proposed excavation or tip.
 
-### 4. Plans based on site investigation[^key-0fb153618fae6375bee18b5825c98ef1]
+### 4. Plans based on site investigation[^c-0fb153618fae6375bee18b5825c98ef1]
 
 Plans showing the position of all boreholes, wells and trial pits used in the site investigation and the location and levels of all materials and surfaces which may affect the safety of the excavation or tip or proposed excavation or tip.
 
-### 5. Assumptions made before analysis[^key-8ad8f4e6da625aca4fdde03aacbb8d81]
+### 5. Assumptions made before analysis[^c-8ad8f4e6da625aca4fdde03aacbb8d81]
 
 A record of any assumptions relevant to the assessment of ground conditions relating to the safety of the excavation or tip made by the geotechnical specialist including a record of any relevant information which was not available when undertaking the assessment.
 
-### 6. Findings of analysis[^key-fa2ce4408e895390ba24f4101be2c723]
+### 6. Findings of analysis[^c-fa2ce4408e895390ba24f4101be2c723]
 
 A record of the calculations carried out in order to determine the safety of the excavation or tip, including any variables or parameters used in those calculations and the reasons for using them and the findings of those calculations expressed as the factor of safety or the probability of failure or other recognised basis of assessing stability.
 
-### 7. Design coming out of analysis[^key-74702767c56e30bce71a6bba9aff16a6]
+### 7. Design coming out of analysis[^c-74702767c56e30bce71a6bba9aff16a6]
 
 An accurate plan on a scale not less detailed than 1:2,500 recording—
 
 - (a) in relation to tips or proposed tips, the design of the tip, including the area of land covered or to be covered, the gradients of that land, the designed contours at vertical intervals of not more than two metres, the side slopes and boundaries of the tip and the designed position and nature of construction of any wall or other structure retaining or confining the tip; and
 - (b) in relation to excavations or proposed excavations, the design of the excavation, including the height or proposed height of the slope, the position and width of any benches and representative contours of the excavation at vertical intervals of not more than five metres.
 
-### 8. Requirements during and after construction[^key-276ce7dea3e761cb4bb75b8ee8eb7a08]
+### 8. Requirements during and after construction[^c-276ce7dea3e761cb4bb75b8ee8eb7a08]
 
 A record of the nature and extent of inspection, supervision and safety measures necessary to ensure the safety of the excavation or tip and a specification of necessary engineering works and safety measures. A record of the action to be taken regarding defects specified in the report.
 
@@ -665,7 +665,7 @@ A record of the nature and extent of inspection, supervision and safety measures
 
 Regulation 42(1)
 
-### PART I — REVOCATIONS[^key-5cde9f5f08ed5cb64045f455f61939ae]
+### PART I — REVOCATIONS[^c-5cde9f5f08ed5cb64045f455f61939ae]
 
 | *Column 1*<br>*Title* | *Column 2*<br>*Reference* |
 | --- | --- |
@@ -674,7 +674,7 @@ Regulation 42(1)
 | Quarries (Metrication) Regulations (Northern Ireland) 1992 | [S.R. 1992 No. 216](https://www.legislation.gov.uk/nisr/1992/216) |
 | Quarries Miscellaneous Health and Safety Provisions Regulations (Northern Ireland) 1995 | [S.R. 1995 No. 378](https://www.legislation.gov.uk/nisr/1995/378) |
 
-### PART II — AMENDMENTS[^key-706bf257cc7351dc814ddce8110cec84]
+### PART II — AMENDMENTS[^c-706bf257cc7351dc814ddce8110cec84]
 
 Regulation 42(2)
 
@@ -705,7 +705,7 @@ Regulation 42(2)
 | Regulation 2(1) | For the definition of “quarry” there shall be substituted the following definition—‘ “quarry” means a quarry within the meaning of regulation 3 of the Quarries Regulations (Northern Ireland) 2006’.<br>The following definition shall be inserted—<br>‘ “operator” in relation to a quarry has the meaning assigned to it by the Quarries Regulations (Northern Ireland) 2006;’.<br>In the definition of “owner”, paragraph (c) shall be omitted.<br>In sub-paragraph (a)(ii) of the definition of “responsible person”, for the words “owner, occupier or agent” there shall be substituted the word “operator” and in paragraph (a)(iii), the words “or quarry” shall be omitted. |
 | Regulation 8 | In the heading, the words “and quarries” shall be inserted at the end.<br>After the words “relating to mines” there shall be inserted the words “or quarries”. |
 | Schedule 2, Part III | In paragraph 45, for the words “to which Article 9 of the Quarries (Northern Ireland) Order 1983 applies” there shall be substituted the words “to which the Quarries Regulations (Northern Ireland) 2006 apply”. |
-| Schedule 5 | In the heading the words “or quarries” shall be inserted at the end.<br>In paragraph 1, after the words “In this Schedule—” there shall be inserted the following definition:<br>> - “appropriate person” means—<br>>   - (a) in the case of a mine, the responsible person;<br>>   - (b) in the case of a quarry, the responsible person or a person appointed in the management structure of that quarry established pursuant to regulation 8(1) of the Quarries Regulations (Northern Ireland) 2006.<br>In paragraph (a)[^key-1571bf5188432b0961e37df45f8ea5da] of the definition of “nominated person”, after the words “at a mine” there shall be inserted the words “or quarry”.<br>In paragraph 2, after the words “at a mine” there shall be inserted the words “or quarry”.<br>In paragraph 3, after the words “at a mine” there shall be inserted the words “or quarry”.<br>In paragraph 4(1)(b), after the words “Mines Act (Northern Ireland) 1969” there shall be inserted the words “or, as the case may be, regulation 34 of the Quarries Regulations (Northern Ireland) 2006”.<br>In paragraph 4(3)(a)(ii), after the words “at the mine” there shall be inserted the words “or quarry”.<br>In paragraph 4(5), after the words “of the mine” there shall be inserted the words “or quarry”.<br>In paragraph 5(b), after the words “Mines Act (Northern Ireland) 1969” there shall be inserted the words “or, as the case may be, regulation 34 of the Quarries Regulations (Northern Ireland) 2006”. |
+| Schedule 5 | In the heading the words “or quarries” shall be inserted at the end.<br>In paragraph 1, after the words “In this Schedule—” there shall be inserted the following definition:<br>> - “appropriate person” means—<br>>   - (a) in the case of a mine, the responsible person;<br>>   - (b) in the case of a quarry, the responsible person or a person appointed in the management structure of that quarry established pursuant to regulation 8(1) of the Quarries Regulations (Northern Ireland) 2006.<br>In paragraph (a)[^c-1571bf5188432b0961e37df45f8ea5da] of the definition of “nominated person”, after the words “at a mine” there shall be inserted the words “or quarry”.<br>In paragraph 2, after the words “at a mine” there shall be inserted the words “or quarry”.<br>In paragraph 3, after the words “at a mine” there shall be inserted the words “or quarry”.<br>In paragraph 4(1)(b), after the words “Mines Act (Northern Ireland) 1969” there shall be inserted the words “or, as the case may be, regulation 34 of the Quarries Regulations (Northern Ireland) 2006”.<br>In paragraph 4(3)(a)(ii), after the words “at the mine” there shall be inserted the words “or quarry”.<br>In paragraph 4(5), after the words “of the mine” there shall be inserted the words “or quarry”.<br>In paragraph 5(b), after the words “Mines Act (Northern Ireland) 1969” there shall be inserted the words “or, as the case may be, regulation 34 of the Quarries Regulations (Northern Ireland) 2006”. |
 | *Health and Safety (Enforcing Authority) Regulations (Northern Ireland) 1999*[^f00020] |  |
 | Regulation 2 | In paragraph (1), for the definition of “quarry” there shall be substituted the following definition—<br>‘ “quarry” has the meaning assigned to it by regulation 3 of the Quarries Regulations (Northern Ireland) 2006;’. |
 | Schedule 2 | In paragraph 1, for the words “Article 16 of the Quarries (Northern Ireland) Order 1983” there shall be substituted the words “regulation 39(1) of the Quarries Regulations (Northern Ireland) 2006”. |
@@ -715,8 +715,8 @@ Regulation 42(2)
 | Regulation 2 | In paragraph (4)(b), for the words “Article 2(2) of the Quarries (Northern Ireland) Order 1983” there shall be substituted the words “regulation 3 of the Quarries Regulations (Northern Ireland) 2006” and for the words “or that Order” there shall be substituted the words “or those Regulations”. |
 | *Pressure Systems Safety Regulations (Northern Ireland) 2004*[^f00023] |  |
 | Regulation 2 | In paragraph (1), in sub-paragraph (b) of the definition of “user”, for the words “Article 2(2) of the Quarries (Northern Ireland) Order 1983” there shall be substituted the words “regulation 3 of the Quarries Regulations (Northern Ireland) 2006”. |
-| [^key-f65e61f49446b934e2105653d953be32]. . . |  |
-| [^key-f65e61f49446b934e2105653d953be32]. . . | [^key-f65e61f49446b934e2105653d953be32]. . . |
+| [^c-f65e61f49446b934e2105653d953be32]. . . |  |
+| [^c-f65e61f49446b934e2105653d953be32]. . . | [^c-f65e61f49446b934e2105653d953be32]. . . |
 
 (This note is not part of the Regulations)
 
@@ -778,9 +778,9 @@ Regulation 42(2)
 
 [^f00006]: Footnote: Article 13(1A) was substituted by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 4
 
-[^key-ef2ab35a6909a6197a589759d2888e27]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/205/regulation/1) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-ef2ab35a6909a6197a589759d2888e27]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/205/regulation/1) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-7c8f179a8510d1732abcac9d86ad66ea]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/205/regulation/2) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-7c8f179a8510d1732abcac9d86ad66ea]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/205/regulation/2) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
 [^f00007]: Footnote: [1969 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1969/6)
 
@@ -792,115 +792,115 @@ Regulation 42(2)
 
 [^f00011]: Footnote: [1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154), to which there are amendments not relevant to these Regulations
 
-[^key-af8215976f62e8a06c05cd802a9cdfe8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/205/regulation/3) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-af8215976f62e8a06c05cd802a9cdfe8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/205/regulation/3) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-1cf4827475e6784e5af538c00da3a211]: Textual amendment: Words in [reg. 3(1)(c)](https://www.legislation.gov.uk/nisr/2006/205/regulation/3/1/c) substituted (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 5 para. 10](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/10)
+[^c-1cf4827475e6784e5af538c00da3a211]: Textual amendment: Words in [reg. 3(1)(c)](https://www.legislation.gov.uk/nisr/2006/205/regulation/3/1/c) substituted (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 5 para. 10](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/10)
 
-[^key-b6d6a65439a74567093c8d627fdbf20a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/205/regulation/4) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-b6d6a65439a74567093c8d627fdbf20a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/205/regulation/4) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-8d3738116e590f829ff1aea10d85c836]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/205/regulation/5) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-8d3738116e590f829ff1aea10d85c836]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/205/regulation/5) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-67cab8a31901ac0ac215db4afd92cc0f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/205/regulation/6) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-67cab8a31901ac0ac215db4afd92cc0f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/205/regulation/6) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-692fb4439d19050c70d41c8f7ba29979]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/205/regulation/7) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-692fb4439d19050c70d41c8f7ba29979]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/205/regulation/7) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
 [^f00012]: Footnote: [S.R. 2006 No. 204](https://www.legislation.gov.uk/nisr/2006/204)
 
-[^key-0346220facf279ad3895405a1f3cbb1d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/205/regulation/8) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-0346220facf279ad3895405a1f3cbb1d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/205/regulation/8) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-7c878e8435b3d0feecea0390e6cac97c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/205/regulation/9) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-7c878e8435b3d0feecea0390e6cac97c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/205/regulation/9) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-c49b53aaba8ac5ac2914375c77bca31b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/205/regulation/10) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-c49b53aaba8ac5ac2914375c77bca31b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/205/regulation/10) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-8f62f7e799872649fcb5594b33b12459]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/205/regulation/11) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-8f62f7e799872649fcb5594b33b12459]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/205/regulation/11) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-52efb3f33be72ffbd65145360bae4d16]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/205/regulation/12) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-52efb3f33be72ffbd65145360bae4d16]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/205/regulation/12) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-163e19aa355d568a550afaccc3d31974]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/205/regulation/13) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-163e19aa355d568a550afaccc3d31974]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/205/regulation/13) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-9c18f286197c6350b3ddcce6e74b9168]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/205/regulation/14) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-9c18f286197c6350b3ddcce6e74b9168]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/205/regulation/14) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-2ee9b0f51a5aafaf41799b1347a91045]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/205/regulation/15) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-2ee9b0f51a5aafaf41799b1347a91045]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/205/regulation/15) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-797be944cbb22f47935f0610db59f94a]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2006/205/regulation/16) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-797be944cbb22f47935f0610db59f94a]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2006/205/regulation/16) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-9e2a259538de01e27a7745a8c969e7fd]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2006/205/regulation/17) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-9e2a259538de01e27a7745a8c969e7fd]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2006/205/regulation/17) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-e7ac072a148226eedc35a97049db8527]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2006/205/regulation/18) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-e7ac072a148226eedc35a97049db8527]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2006/205/regulation/18) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-386a4402fe30054f727d2836754867e2]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2006/205/regulation/19) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-386a4402fe30054f727d2836754867e2]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2006/205/regulation/19) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-9e39039beb368019e24fa510859d32fc]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2006/205/regulation/20) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-9e39039beb368019e24fa510859d32fc]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2006/205/regulation/20) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-dda81084987c3e7316d1c8f9bce68121]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2006/205/regulation/21) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-dda81084987c3e7316d1c8f9bce68121]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2006/205/regulation/21) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
 [^f00013]: Footnote: [S.R. 1993 No. 20](https://www.legislation.gov.uk/nisr/1993/20) as amended by [S.R. 1995 No. 51](https://www.legislation.gov.uk/nisr/1995/51), [S.R. 1996 No. 109](https://www.legislation.gov.uk/nisr/1996/109), [S.R. 2000 No. 87](https://www.legislation.gov.uk/nisr/2000/87), [S.R. 2000 No. 375](https://www.legislation.gov.uk/nisr/2000/375) and [S.R. 2003 No. 423](https://www.legislation.gov.uk/nisr/2003/423)
 
-[^key-3b6a265443ebd84ded33cb1567b30783]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2006/205/regulation/22) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-3b6a265443ebd84ded33cb1567b30783]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2006/205/regulation/22) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-691ae6cd0097dd6de3f35af7ef072854]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2006/205/regulation/23) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-691ae6cd0097dd6de3f35af7ef072854]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2006/205/regulation/23) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-6b89dba7912f6d20fd281b1d7d7d82e2]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2006/205/regulation/24) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-6b89dba7912f6d20fd281b1d7d7d82e2]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2006/205/regulation/24) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-3e5a354679f18928799d2df5830a91bd]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2006/205/regulation/25) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-3e5a354679f18928799d2df5830a91bd]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2006/205/regulation/25) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-4b80fb535630f278f7db984d57353061]: Commencement: [Reg. 26(1)-(3)](https://www.legislation.gov.uk/nisr/2006/205/regulation/26/1) in operation at 1.8.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/2)
+[^c-4b80fb535630f278f7db984d57353061]: Commencement: [Reg. 26(1)-(3)](https://www.legislation.gov.uk/nisr/2006/205/regulation/26/1) in operation at 1.8.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/2)
 
-[^key-d815121bd3975a6757a3bd91a629dd69]: Commencement: [Reg. 26(4)](https://www.legislation.gov.uk/nisr/2006/205/regulation/26/4) in operation at 1.8.2008, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/3)
+[^c-d815121bd3975a6757a3bd91a629dd69]: Commencement: [Reg. 26(4)](https://www.legislation.gov.uk/nisr/2006/205/regulation/26/4) in operation at 1.8.2008, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/3)
 
-[^key-ceddeef1df769bc497e9903d6b06bc20]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2006/205/regulation/27) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-ceddeef1df769bc497e9903d6b06bc20]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2006/205/regulation/27) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-89b824a94d7dfa35cdfe1c6be64f9510]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2006/205/regulation/28) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-89b824a94d7dfa35cdfe1c6be64f9510]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2006/205/regulation/28) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-a6e47b180f3148314f83c8bf976c08fc]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2006/205/regulation/29) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-a6e47b180f3148314f83c8bf976c08fc]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2006/205/regulation/29) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-ca8c418e8e22799f7d7de56806a92a19]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2006/205/regulation/30) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-ca8c418e8e22799f7d7de56806a92a19]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2006/205/regulation/30) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-fee5028b554ad9fdd3061bc245bdc8e3]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2006/205/regulation/31) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-fee5028b554ad9fdd3061bc245bdc8e3]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2006/205/regulation/31) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-2a3ff10f8eda4aa42c2d9437e9512592]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2006/205/regulation/32) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-2a3ff10f8eda4aa42c2d9437e9512592]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2006/205/regulation/32) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-e8643f1ead8ee919fe0e417ce308177b]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2006/205/regulation/33) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-e8643f1ead8ee919fe0e417ce308177b]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2006/205/regulation/33) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-a335ebb4047277f937ac661a3747717b]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2006/205/regulation/34) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-a335ebb4047277f937ac661a3747717b]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2006/205/regulation/34) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
 [^f00014]: Footnote: [S.R. 1997 No. 455](https://www.legislation.gov.uk/nisr/1997/455) as amended by [S.R. 1998 No. 375](https://www.legislation.gov.uk/nisr/1998/375), [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150), [S.R. 2000 No. 375](https://www.legislation.gov.uk/nisr/2000/375), [S.R. 2001 No. 436](https://www.legislation.gov.uk/nisr/2001/436) [S.R. 2004 No. 196](https://www.legislation.gov.uk/nisr/2004/196) and [S.R. 2005 No. 45](https://www.legislation.gov.uk/nisr/2005/45)
 
-[^key-ab68cb39172d463d46b2c0d8b5d89e20]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2006/205/regulation/35) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-ab68cb39172d463d46b2c0d8b5d89e20]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2006/205/regulation/35) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-26b2ca6f044ba0fee5688b1d588290f1]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2006/205/regulation/36) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-26b2ca6f044ba0fee5688b1d588290f1]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2006/205/regulation/36) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-9f594a46e1d2c264b8c50b3ae13f4934]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2006/205/regulation/37) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-9f594a46e1d2c264b8c50b3ae13f4934]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2006/205/regulation/37) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-a583b39b27f17412d7617d29b6a518ef]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2006/205/regulation/38) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-a583b39b27f17412d7617d29b6a518ef]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2006/205/regulation/38) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-601ff8c229eb6406b82975987b88e772]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2006/205/regulation/39) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-601ff8c229eb6406b82975987b88e772]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2006/205/regulation/39) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-03bbe0712ca8b6608562d92d68c0e186]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2006/205/regulation/40) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-03bbe0712ca8b6608562d92d68c0e186]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2006/205/regulation/40) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-1d43054a4bc26cf2505661d5437c26e2]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2006/205/regulation/41) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-1d43054a4bc26cf2505661d5437c26e2]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2006/205/regulation/41) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-a0ea37050014b190db694ab9882c30b8]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2006/205/regulation/42) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-a0ea37050014b190db694ab9882c30b8]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2006/205/regulation/42) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-ee3cb09a4b13d36f5a8cabbc06204cd8]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2006/205/schedule/1/paragraph/1) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-ee3cb09a4b13d36f5a8cabbc06204cd8]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2006/205/schedule/1/paragraph/1) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-86aba2f481a6a73594ab503626934ed1]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2006/205/schedule/1/paragraph/2) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-86aba2f481a6a73594ab503626934ed1]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2006/205/schedule/1/paragraph/2) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-0e8802c7202e5afb6d944b2e569f1824]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2006/205/schedule/1/paragraph/3) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-0e8802c7202e5afb6d944b2e569f1824]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2006/205/schedule/1/paragraph/3) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-0fb153618fae6375bee18b5825c98ef1]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2006/205/schedule/1/paragraph/4) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-0fb153618fae6375bee18b5825c98ef1]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2006/205/schedule/1/paragraph/4) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-8ad8f4e6da625aca4fdde03aacbb8d81]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2006/205/schedule/1/paragraph/5) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-8ad8f4e6da625aca4fdde03aacbb8d81]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2006/205/schedule/1/paragraph/5) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-fa2ce4408e895390ba24f4101be2c723]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2006/205/schedule/1/paragraph/6) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-fa2ce4408e895390ba24f4101be2c723]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2006/205/schedule/1/paragraph/6) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-74702767c56e30bce71a6bba9aff16a6]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2006/205/schedule/1/paragraph/7) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-74702767c56e30bce71a6bba9aff16a6]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2006/205/schedule/1/paragraph/7) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-276ce7dea3e761cb4bb75b8ee8eb7a08]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nisr/2006/205/schedule/1/paragraph/8) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-276ce7dea3e761cb4bb75b8ee8eb7a08]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nisr/2006/205/schedule/1/paragraph/8) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-5cde9f5f08ed5cb64045f455f61939ae]: Commencement: [Sch. 2 Pt. I](https://www.legislation.gov.uk/nisr/2006/205/schedule/2/part/I) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-5cde9f5f08ed5cb64045f455f61939ae]: Commencement: [Sch. 2 Pt. I](https://www.legislation.gov.uk/nisr/2006/205/schedule/2/part/I) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
-[^key-706bf257cc7351dc814ddce8110cec84]: Commencement: [Sch. 2 Pt. II](https://www.legislation.gov.uk/nisr/2006/205/schedule/2/part/II) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
+[^c-706bf257cc7351dc814ddce8110cec84]: Commencement: [Sch. 2 Pt. II](https://www.legislation.gov.uk/nisr/2006/205/schedule/2/part/II) in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1)
 
 [^f00015]: Footnote: [S.R. 1979 No. 437](https://www.legislation.gov.uk/nisr/1979/437) as amended by [S.R. 1992 No. 459](https://www.legislation.gov.uk/nisr/1992/459) and [S.R. 1996 No. 511](https://www.legislation.gov.uk/nisr/1996/511)
 
@@ -912,7 +912,7 @@ Regulation 42(2)
 
 [^f00019]: Footnote: [S.R. 1997 No. 455](https://www.legislation.gov.uk/nisr/1997/455) as amended by [S.R. 1998 No. 375](https://www.legislation.gov.uk/nisr/1998/375), [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150), [S.R. 2000 No. 375](https://www.legislation.gov.uk/nisr/2000/375), [S.R. 2001 No. 436](https://www.legislation.gov.uk/nisr/2001/436); [S.R. 2004 No. 196](https://www.legislation.gov.uk/nisr/2004/196) and [S.R. 2005 No. 45](https://www.legislation.gov.uk/nisr/2005/45)
 
-[^key-1571bf5188432b0961e37df45f8ea5da]: Textual amendment: Words in [Sch. 2 Pt. II](https://www.legislation.gov.uk/nisr/2006/205/schedule/2/part/II) substituted (13.7.2009) by [The Health and Safety (Miscellaneous Amendments and Revocation) Regulations (Northern Ireland) 2009 (S.R. 2009/227)](https://www.legislation.gov.uk/nisr/2009/227), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/227/regulation/1), [3](https://www.legislation.gov.uk/nisr/2009/227/regulation/3)
+[^c-1571bf5188432b0961e37df45f8ea5da]: Textual amendment: Words in [Sch. 2 Pt. II](https://www.legislation.gov.uk/nisr/2006/205/schedule/2/part/II) substituted (13.7.2009) by [The Health and Safety (Miscellaneous Amendments and Revocation) Regulations (Northern Ireland) 2009 (S.R. 2009/227)](https://www.legislation.gov.uk/nisr/2009/227), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/227/regulation/1), [3](https://www.legislation.gov.uk/nisr/2009/227/regulation/3)
 
 [^f00020]: Footnote: [S.R. 1999 No. 90](https://www.legislation.gov.uk/nisr/1999/90)
 
@@ -922,4 +922,4 @@ Regulation 42(2)
 
 [^f00023]: Footnote: [S.R. 2004 No. 222](https://www.legislation.gov.uk/nisr/2004/222)
 
-[^key-f65e61f49446b934e2105653d953be32]: Textual amendment: Words in [Sch. 2 Pt. II](https://www.legislation.gov.uk/nisr/2006/205/schedule/2/part/II) omitted (19.5.2010) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010 (S.R. 2010/160)](https://www.legislation.gov.uk/nisr/2010/160), [regs. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1), [30](https://www.legislation.gov.uk/nisr/2010/160/regulation/30), [Sch. 5](https://www.legislation.gov.uk/nisr/2010/160/schedule/5)
+[^c-f65e61f49446b934e2105653d953be32]: Textual amendment: Words in [Sch. 2 Pt. II](https://www.legislation.gov.uk/nisr/2006/205/schedule/2/part/II) omitted (19.5.2010) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010 (S.R. 2010/160)](https://www.legislation.gov.uk/nisr/2010/160), [regs. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1), [30](https://www.legislation.gov.uk/nisr/2010/160/regulation/30), [Sch. 5](https://www.legislation.gov.uk/nisr/2010/160/schedule/5)

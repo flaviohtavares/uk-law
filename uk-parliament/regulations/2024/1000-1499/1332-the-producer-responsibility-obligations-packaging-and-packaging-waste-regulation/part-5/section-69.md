@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Disposal costs of relevant authorities for household packaging waste[^key-bdb233384d156305f2fe5fc4d0246d2c]
+## 69. Disposal costs of relevant authorities for household packaging waste[^c-bdb233384d156305f2fe5fc4d0246d2c]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bdb233384d156305f2fe5fc4d0246d2c]: Commencement: Reg. 69 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-bdb233384d156305f2fe5fc4d0246d2c]: Commencement: Reg. 69 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

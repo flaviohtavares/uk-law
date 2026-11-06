@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.12.3. Recognition and enforcement of awards[^key-c1735bb6c84c0b1110464324e78c508a]
+## 3.12.3. Recognition and enforcement of awards[^c-c1735bb6c84c0b1110464324e78c508a]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1735bb6c84c0b1110464324e78c508a]: Commencement: Rule 3.12.3 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-c1735bb6c84c0b1110464324e78c508a]: Commencement: Rule 3.12.3 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

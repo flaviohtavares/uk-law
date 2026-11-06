@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Liability for tax[^key-23d92a540226664438bdc8f079283515]
+## 28. Liability for tax[^c-23d92a540226664438bdc8f079283515]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23d92a540226664438bdc8f079283515]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2013/11/section/28) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-23d92a540226664438bdc8f079283515]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2013/11/section/28) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

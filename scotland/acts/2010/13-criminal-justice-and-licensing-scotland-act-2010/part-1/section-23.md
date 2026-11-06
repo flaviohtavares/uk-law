@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Extended sentences for certain sexual offences[^key-991bd5b3928bee9ec6ec87d1c1de0a04]
+## 23. Extended sentences for certain sexual offences[^c-991bd5b3928bee9ec6ec87d1c1de0a04]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ In section 210A of the 1995 Act (extended sentences for sex and violent offender
 
 ## Annotations
 
-[^key-991bd5b3928bee9ec6ec87d1c1de0a04]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2010/13/section/23) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-991bd5b3928bee9ec6ec87d1c1de0a04]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2010/13/section/23) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))

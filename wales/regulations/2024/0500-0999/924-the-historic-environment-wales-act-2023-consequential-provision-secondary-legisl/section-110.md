@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 110. The Environmental Impact Assessment (Agriculture) (Wales) Regulations 2017[^key-5d93b547e93c05b1541d443d642444f3]
+## 110. The Environmental Impact Assessment (Agriculture) (Wales) Regulations 2017[^c-5d93b547e93c05b1541d443d642444f3]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ In regulation 5(7) of the Environmental Impact Assessment (Agriculture) (Wales) 
 
 ## Annotations
 
-[^key-5d93b547e93c05b1541d443d642444f3]: Commencement: [Reg. 110](https://www.legislation.gov.uk/wsi/2024/924/regulation/110) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-5d93b547e93c05b1541d443d642444f3]: Commencement: [Reg. 110](https://www.legislation.gov.uk/wsi/2024/924/regulation/110) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00051]: Footnote: [S.I. 2017/565 (W. 134)](https://www.legislation.gov.uk/wsi/2017/565), to which there are amendments not relevant to these Regulations.

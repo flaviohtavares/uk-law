@@ -24,11 +24,11 @@ Article 25
 
 ### Pensions (Increase) Act 1971
 
-**1.**[^key-0fdb240163b5b4ef9a8dc26b974b735e] In paragraph 44 of Schedule 2 to the Pensions (Increase) Act 1971[^f00031] (official pensions), for “a relevant authority (as defined in section 6 of the Fire (Scotland) Act [2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5))” substitute “the Scottish Fire and Rescue Service”.
+**1.**[^c-0fdb240163b5b4ef9a8dc26b974b735e] In paragraph 44 of Schedule 2 to the Pensions (Increase) Act 1971[^f00031] (official pensions), for “a relevant authority (as defined in section 6 of the Fire (Scotland) Act [2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5))” substitute “the Scottish Fire and Rescue Service”.
 
 ### Health and Safety at Work etc. Act 1974
 
-**2.**[^key-84cedc76d31efc21ccb5d3cc47e0a7b4] In section 51A of the Health and Safety at Work etc. Act 1974 (application of Part to police)[^f00032]—
+**2.**[^c-84cedc76d31efc21ccb5d3cc47e0a7b4] In section 51A of the Health and Safety at Work etc. Act 1974 (application of Part to police)[^f00032]—
 
 - (a) in subsection (2E), for paragraph (a) substitute—
 
@@ -39,11 +39,11 @@ Article 25
 
 ### Road Traffic Regulation Act 1984
 
-**3.**[^key-6d470744b4398a53acd569abf0bf8655] In section 87(1) of the Road Traffic Regulation Act 1984 (exemption of fire brigade, ambulance and police vehicles from speed limits)[^f00033], for “a relevant authority (as defined in section 6 of the Fire (Scotland) Act [2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5))” substitute “the Scottish Fire and Rescue Service”.
+**3.**[^c-6d470744b4398a53acd569abf0bf8655] In section 87(1) of the Road Traffic Regulation Act 1984 (exemption of fire brigade, ambulance and police vehicles from speed limits)[^f00033], for “a relevant authority (as defined in section 6 of the Fire (Scotland) Act [2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5))” substitute “the Scottish Fire and Rescue Service”.
 
 ### Criminal Justice and Public Order Act 1994
 
-**4.**[^key-b9533828f8dc60ef2ea416bbc45ddee8] (1) The Criminal Justice and Public Order Act 1994[^f00034] is amended as follows.
+**4.**[^c-b9533828f8dc60ef2ea416bbc45ddee8] (1) The Criminal Justice and Public Order Act 1994[^f00034] is amended as follows.
 
 (2) In section 102(5) (arrangements for the provision of prisoner escorts)[^f00035], for “prescribed under section 9(1A)(b) of the Police (Scotland) Act [1967 (c.77)](https://www.legislation.gov.uk/ukpga/1967/77)” substitute “under section 28 of the Police and Fire Reform (Scotland) Act [2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8)”.
 
@@ -60,7 +60,7 @@ Article 25
 
 ### Police Act 1996
 
-**5.**[^key-fbc48af2f12bd3659439700d8c1602f2] (1) The Police Act 1996[^f00037] is amended as follows.
+**5.**[^c-fbc48af2f12bd3659439700d8c1602f2] (1) The Police Act 1996[^f00037] is amended as follows.
 
 (2) In section 59(2) (police federations)[^f00038], for “section 26(2A) of the Police (Scotland) Act 1967” substitute “under section 48 of the Police and Fire Reform (Scotland) Act 2012 in so far as relating to the matters described in section 52 of that Act,”.
 
@@ -70,11 +70,11 @@ Article 25
 - (b) in paragraph (d), for “police authorities” substitute “the Scottish Police Authority”; and
 - (c) in paragraph (e), for “26 of the Police (Scotland) Act 1967” substitute “48 of the Police and Fire Reform (Scotland) Act 2012”.
 
-(4) Omit section 61(6). *(Extent: S)* *(affected by repeal, see note)*[^key-f8d8cb5c5453ede8282b19c54758c601]
+(4) Omit section 61(6). *(Extent: S)* *(affected by repeal, see note)*[^c-f8d8cb5c5453ede8282b19c54758c601]
 
-(5) In section 62(1A)(a) (functions of the Board with respect to regulations) *(Extent: S)* *(affected by repeal, see note)*[^key-f8d8cb5c5453ede8282b19c54758c601][^f00040], for “26 or 27 of the Police (Scotland) Act 1967” substitute “48 of the Police and Fire Reform (Scotland) Act 2012”. *(Extent: S)* *(affected by repeal, see note)*[^key-f8d8cb5c5453ede8282b19c54758c601]
+(5) In section 62(1A)(a) (functions of the Board with respect to regulations) *(Extent: S)* *(affected by repeal, see note)*[^c-f8d8cb5c5453ede8282b19c54758c601][^f00040], for “26 or 27 of the Police (Scotland) Act 1967” substitute “48 of the Police and Fire Reform (Scotland) Act 2012”. *(Extent: S)* *(affected by repeal, see note)*[^c-f8d8cb5c5453ede8282b19c54758c601]
 
-(6) In section 62(3) (functions of the Board with respect to regulations) *(Extent: S)* *(affected by repeal, see note)*[^key-f8d8cb5c5453ede8282b19c54758c601][^f00041], omit “, section 27 of the Police (Scotland) Act 1967”. *(Extent: S)* *(affected by repeal, see note)*[^key-f8d8cb5c5453ede8282b19c54758c601]
+(6) In section 62(3) (functions of the Board with respect to regulations) *(Extent: S)* *(affected by repeal, see note)*[^c-f8d8cb5c5453ede8282b19c54758c601][^f00041], omit “, section 27 of the Police (Scotland) Act 1967”. *(Extent: S)* *(affected by repeal, see note)*[^c-f8d8cb5c5453ede8282b19c54758c601]
 
 (7) In section 63 (Police Advisory Boards for England and Wales and for Scotland)—
 
@@ -89,7 +89,7 @@ Article 25
 
 ### Police Act 1997
 
-**6.**[^key-7e6b9df80fbb05e68fa1f15474be02e0] (1) The Police Act 1997[^f00045] is amended as follows.
+**6.**[^c-7e6b9df80fbb05e68fa1f15474be02e0] (1) The Police Act 1997[^f00045] is amended as follows.
 
 (2) In section 93 (authorisations to deal with property etc.)—
 
@@ -153,7 +153,7 @@ Article 25
 
 ### Fire and Rescue Services Act 2004
 
-**7.**[^key-430e8bd32879d31eb23c87f1c282c23e] (1) The Fire and Rescue Services Act 2004[^f00061] is amended as follows.
+**7.**[^c-430e8bd32879d31eb23c87f1c282c23e] (1) The Fire and Rescue Services Act 2004[^f00061] is amended as follows.
 
 (2) For subsection (10) of section 34 (pensions etc.)[^f00062] substitute—
 
@@ -174,7 +174,7 @@ Article 25
 
 ### Gambling Act 2005
 
-**8.**[^key-7b70b19fc13dd5c01535ca13f332c05b] In section 157 of the Gambling Act 2005 (responsible authorities in relation to premises)[^f00064], for paragraph (f) substitute—
+**8.**[^c-7b70b19fc13dd5c01535ca13f332c05b] In section 157 of the Gambling Act 2005 (responsible authorities in relation to premises)[^f00064], for paragraph (f) substitute—
 
 > - (f) the Scottish Fire and Rescue Service,
 
@@ -182,7 +182,7 @@ Article 25
 
 ### Corporate Manslaughter and Corporate Homicide Act 2007
 
-**9.**[^key-cca10bad1eec013bd50f234b6e8f9e57] In section 6(2) of the Corporate Manslaughter and Corporate Homicide Act 2007 (duty of care for certain organisations in emergencies)[^f00065], for paragraph (b) substitute—
+**9.**[^c-cca10bad1eec013bd50f234b6e8f9e57] In section 6(2) of the Corporate Manslaughter and Corporate Homicide Act 2007 (duty of care for certain organisations in emergencies)[^f00065], for paragraph (b) substitute—
 
 > - (b) the Scottish Fire and Rescue Service;
 
@@ -190,19 +190,19 @@ Article 25
 
 ## Annotations
 
-[^key-0fdb240163b5b4ef9a8dc26b974b735e]: Commencement: Sch. 1 para. 1 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-0fdb240163b5b4ef9a8dc26b974b735e]: Commencement: Sch. 1 para. 1 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00031]: Footnote: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56). Paragraph 44 was amended by the Fire and Rescue Services Act [2004 (c.21)](https://www.legislation.gov.uk/ukpga/2004/21), Schedule 1, paragraph 35(3), [S.I. 2005/2060](https://www.legislation.gov.uk/uksi/2005/2060), Schedule 1, paragraph 1 and the 2012 Act, schedule 7, paragraph 48.
 
-[^key-84cedc76d31efc21ccb5d3cc47e0a7b4]: Commencement: Sch. 1 para. 2 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-84cedc76d31efc21ccb5d3cc47e0a7b4]: Commencement: Sch. 1 para. 2 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00032]: Footnote: [1974 c.37](https://www.legislation.gov.uk/ukpga/1974/37). Section 51A was inserted by the Police (Health and Safety) Act [1997 (c.42)](https://www.legislation.gov.uk/ukpga/1997/42), section 1 and was relevantly amended by the Police and Justice Act [2006 (c.48)](https://www.legislation.gov.uk/ukpga/2006/48), Schedule 1, paragraph 54 and Schedule 15, paragraph 1 and the 2012 Act, schedule 7, paragraph 2(a) and (b).
 
-[^key-6d470744b4398a53acd569abf0bf8655]: Commencement: Sch. 1 para. 3 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-6d470744b4398a53acd569abf0bf8655]: Commencement: Sch. 1 para. 3 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00033]: Footnote: [1984 c.27](https://www.legislation.gov.uk/ukpga/1984/27). Section 87(1) was amended by the Fire (Scotland) Act [2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5), Schedule 3, paragraph 12 and the 2012 Act, schedule 7, paragraph 54.
 
-[^key-b9533828f8dc60ef2ea416bbc45ddee8]: Commencement: Sch. 1 para. 4 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-b9533828f8dc60ef2ea416bbc45ddee8]: Commencement: Sch. 1 para. 4 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00034]: Footnote: [1994 c.33](https://www.legislation.gov.uk/ukpga/1994/33).
 
@@ -210,7 +210,7 @@ Article 25
 
 [^f00036]: Footnote: Section 163 was amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), Schedule 17, paragraph 130 and the 2012 Act, schedule 7, paragraph 9(3).
 
-[^key-fbc48af2f12bd3659439700d8c1602f2]: Commencement: Sch. 1 para. 5 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-fbc48af2f12bd3659439700d8c1602f2]: Commencement: Sch. 1 para. 5 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00037]: Footnote: [1996 c.16](https://www.legislation.gov.uk/ukpga/1996/16).
 
@@ -218,7 +218,7 @@ Article 25
 
 [^f00039]: Footnote: Section 60(2) was amended by the Police Reform and Social Responsibility Act [2011 (c.13)](https://www.legislation.gov.uk/ukpga/2011/13), Schedule 16, paragraph 37 and the 2012 Act, Schedule 7, paragraph 13(3).
 
-[^key-f8d8cb5c5453ede8282b19c54758c601]: Textual amendment: [Sch. 1 para. 5(4)-(6)](https://www.legislation.gov.uk/uksi/2013/602/schedule/1/paragraph/5/4) revoked (17.8.2023 for S.) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 102](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/102) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2023/829](https://www.legislation.gov.uk/uksi/2023/829), [art. 2(d)(ix)](https://www.legislation.gov.uk/uksi/2023/829/article/2/d/ix)
+[^c-f8d8cb5c5453ede8282b19c54758c601]: Textual amendment: [Sch. 1 para. 5(4)-(6)](https://www.legislation.gov.uk/uksi/2013/602/schedule/1/paragraph/5/4) revoked (17.8.2023 for S.) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 102](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/102) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2023/829](https://www.legislation.gov.uk/uksi/2023/829), [art. 2(d)(ix)](https://www.legislation.gov.uk/uksi/2023/829/article/2/d/ix)
 
 [^f00040]: Footnote: Section 62(1A) was inserted by the Police Act [1997 (c.50)](https://www.legislation.gov.uk/ukpga/1997/50), Schedule 9, paragraph 82 and amended by the Police, Public Order and Criminal Justice (Scotland) Act [2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), schedule 6, paragraph 5(4) and the 2012 Act, schedule 7, paragraph 13(4).
 
@@ -230,7 +230,7 @@ Article 25
 
 [^f00044]: Footnote: Section 99(1) was amended by the 2012 Act, schedule 7, Part 1, paragraph 13(5).
 
-[^key-7e6b9df80fbb05e68fa1f15474be02e0]: Commencement: Sch. 1 para. 6 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-7e6b9df80fbb05e68fa1f15474be02e0]: Commencement: Sch. 1 para. 6 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00045]: Footnote: [1997 c.50](https://www.legislation.gov.uk/ukpga/1997/50).
 
@@ -262,7 +262,7 @@ Article 25
 
 [^f00060]: Footnote: In section 126(1) the definition of “police authority” was amended by the Police (Northern Ireland) Act [2000 (c.32)](https://www.legislation.gov.uk/ukpga/2000/32), Schedule 6, paragraph 20(3), the Police Reform and Social Responsibility Act [2011 (c.13)](https://www.legislation.gov.uk/ukpga/2011/13), Schedule 16(3), paragraph 224 and the 2012 Act, schedule 7, paragraph 14(8)(b).
 
-[^key-430e8bd32879d31eb23c87f1c282c23e]: Commencement: Sch. 1 para. 7 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-430e8bd32879d31eb23c87f1c282c23e]: Commencement: Sch. 1 para. 7 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00061]: Footnote: [2004 c.21](https://www.legislation.gov.uk/ukpga/2004/21).
 
@@ -270,10 +270,10 @@ Article 25
 
 [^f00063]: Footnote: Section 35(6) is amended by the 2012 Act, schedule 7, paragraph 66(3).
 
-[^key-7b70b19fc13dd5c01535ca13f332c05b]: Commencement: Sch. 1 para. 8 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-7b70b19fc13dd5c01535ca13f332c05b]: Commencement: Sch. 1 para. 8 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00064]: Footnote: [2005 c.19](https://www.legislation.gov.uk/ukpga/2005/19). Section 157(f) was amended by the Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 ([S.S.I. 2006/475](https://www.legislation.gov.uk/ssi/2006/475)), schedule 1, paragraph 16(2) and the 2012 Act, schedule 7, paragraph 69.
 
-[^key-cca10bad1eec013bd50f234b6e8f9e57]: Commencement: Sch. 1 para. 9 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-cca10bad1eec013bd50f234b6e8f9e57]: Commencement: Sch. 1 para. 9 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00065]: Footnote: [2007 c.19](https://www.legislation.gov.uk/ukpga/2007/19). Section 6(2) is amended by the 2012 Act, schedule 7, paragraph 71.

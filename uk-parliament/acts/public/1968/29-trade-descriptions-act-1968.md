@@ -66,7 +66,7 @@ An Act to replace the Merchandise Marks Acts 1887 to 1953 by fresh provisions pr
 (4) Notwithstanding anything in the preceding provisions of this section, the following shall be deemed not to be trade descriptions, that is to say, any description or mark applied in pursuance of—
 
 - (a)[^c683276] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-00a259bf74b63892643969686f4143c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-00a259bf74b63892643969686f4143c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the [^c683279]Plant Varieties and Seeds Act 1964;
 - (d) the [^c683280]Agriculture and Horticulture Act 1964 or any Community grading rules within the meaning of Part III of that Act[^c683281];
 - (e) the [^c683282]Seeds Act (Northern Ireland) 1965;
@@ -79,7 +79,7 @@ any statement made in respect of, or mark applied to, any material in pursuance 
 (5)[^c683291] Notwithstanding anything in the preceding provisions of this section,
 
 - (a)[^c683292] where provision is made under the Food Safety Act 1990[^c683293] or the Food Safety (Northern Ireland) Order 1991[^c1842101] or the Consumer Protection Act 1987[^c683294] prohibiting the application of a description except to goods in the case of which the requirements specified in that provision are complied with, that description, when applied to such goods, shall be deemed not to be a trade description.
-- (b)[^c683295] where by virtue of any provision of Chapter 1 of Part 13 of the Human Medicines Regulations 2012[^key-3c8158cd56a16286138096413b29998d] anything which, in accordance with this Act, constitutes the application of a trade description to goods is subject to any requirements or restrictions imposed by that provision, any particular description specified in that provision, when applied to goods in circumstances to which those requirements or restrictions are applicable, shall be deemed not to be a trade description.
+- (b)[^c683295] where by virtue of any provision of Chapter 1 of Part 13 of the Human Medicines Regulations 2012[^c-3c8158cd56a16286138096413b29998d] anything which, in accordance with this Act, constitutes the application of a trade description to goods is subject to any requirements or restrictions imposed by that provision, any particular description specified in that provision, when applied to goods in circumstances to which those requirements or restrictions are applicable, shall be deemed not to be a trade description.
 - (c)[^c1842103] where any description of a veterinary medicinal product is required to be applied to the product by an authorisation for the product granted under the Veterinary Medicines Regulations 2006, that description, when applied to the product, shall be deemed not to be a trade description. [^c1842103]
 
 ### 3. False trade description.
@@ -144,7 +144,7 @@ any statement made in respect of, or mark applied to, any material in pursuance 
 
 (3)[^c2001246] A person shall not be guilty of an offence under subsection (1) or (2) by reason of doing anything that is a commercial practice unless the commercial practice is unfair.
 
-In this subsection “**commercial practice**” has the same meaning as in Chapter 1 of Part 4 of the Digital Markets, Competition and Consumers Act 2024 and, for the purposes of this section, a commercial practice is unfair if it would be unfair for the purposes of that Chapter[^key-3088347a4c105e492aebab5b12239352].
+In this subsection “**commercial practice**” has the same meaning as in Chapter 1 of Part 4 of the Digital Markets, Competition and Consumers Act 2024 and, for the purposes of this section, a commercial practice is unfair if it would be unfair for the purposes of that Chapter[^c-3088347a4c105e492aebab5b12239352].
 
 ### 13. False representations as to supply of goods or services.
 
@@ -255,11 +255,11 @@ In proceedings for an offence under this Act committed by the publication of an 
 
 ## Enforcement
 
-### 26. Enforcing authorities.[^c683350][^key-8b753066f274a56ce79aebc4a4460c09][^key-744d866a2985b04a8572d817ce5b348c]
+### 26. Enforcing authorities.[^c683350][^c-8b753066f274a56ce79aebc4a4460c09][^c-744d866a2985b04a8572d817ce5b348c]
 
 (1) It shall be the duty of every local weights and measures authority as defined in[^c683351] section 69(3) of the Weights and Measures Act[^c683352] [^c683353]1985 to enforce within their area the provisions of this Act and of any order made under this Act; . . . [^c683354]
 
-(1A)[^key-57ee09618348604d3a3481b89499a14a] For the investigatory powers available to a local weights and measures authority for the purposes of the duty in subsection (1), see Schedule 5 to the Consumer Rights Act 2015.
+(1A)[^c-57ee09618348604d3a3481b89499a14a] For the investigatory powers available to a local weights and measures authority for the purposes of the duty in subsection (1), see Schedule 5 to the Consumer Rights Act 2015.
 
 (2)[^c683355][^c683356] Every local weights and measures authority shall, whenever the Board of Trade so direct, make to the Board a report on the exercise of their functions under this Act in such form and containing such particulars as the Board may direct.
 
@@ -267,19 +267,19 @@ In proceedings for an offence under this Act committed by the publication of an 
 
 (5) Nothing in this section shall be taken as authorising a local weights and measures authority in Scotland to institute proceedings for an offence.
 
-### 27. Power to make test purchases.[^key-40a35c9d0f18ea394d0923afdf684356]
+### 27. Power to make test purchases.[^c-40a35c9d0f18ea394d0923afdf684356]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Power to enter premises and inspect and seize goods and documents.[^key-efe091015fa5de7fd4dacf910c558fd6]
+### 28. Power to enter premises and inspect and seize goods and documents.[^c-efe091015fa5de7fd4dacf910c558fd6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Obstruction of authorised officers.[^key-daa31fe3397779ff71717ac902e640a2]
+### 29. Obstruction of authorised officers.[^c-daa31fe3397779ff71717ac902e640a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Notice of test and intended prosecution.[^key-e902d1815ba23646a921a2b1a6a07d70]
+### 30. Notice of test and intended prosecution.[^c-e902d1815ba23646a921a2b1a6a07d70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -304,7 +304,7 @@ In proceedings for an offence under this Act committed by the publication of an 
 
 [^c2001279]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 33. Compensation for loss, etc. of goods seized under s. 28.[^key-48e09b2f5f4b539652fa8bce51ec36f7]
+### 33. Compensation for loss, etc. of goods seized under s. 28.[^c-48e09b2f5f4b539652fa8bce51ec36f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -366,11 +366,11 @@ A contract for the supply of any goods shall not be void or unenforceable by rea
 
 - (a) section 19(2) shall apply as if for the references to section 127(1) of the Magistrates’ Courts Act 1980[^c683410] and the trial and laying of an information there were substituted respectively references to Article 19(1) of the Magistrates’ Courts (Northern Ireland) Order 1981[^c683411] and the hearing and determination and making of a complaint and as if for the word “under” there were substituted the words “under section 29(1) of”;[^c683412]
 - (b)[^c683413] section 26 and subsections (2) to (4) of section 30 shall not apply but it shall be the duty of the Ministry of Commerce for Northern Ireland to enforce the provisions of this Act and of any order made under it (other than the provisions of section 42 of this Act);
-- (c)[^key-3ad52698e11eecdcb7e03c39fa01d385][^c683413] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-3ad52698e11eecdcb7e03c39fa01d385][^c683413] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2)—(4) . . . [^c683415]
 
-(1A)[^key-9f05177230bf4f303555f8dbef644ec7] For the investigatory powers available to the Department of Enterprise, Trade and Investment in Northern Ireland for the purposes of the duty in subsection (1)(b), see Schedule 5 to the Consumer Rights Act 2015.
+(1A)[^c-9f05177230bf4f303555f8dbef644ec7] For the investigatory powers available to the Department of Enterprise, Trade and Investment in Northern Ireland for the purposes of the duty in subsection (1)(b), see Schedule 5 to the Consumer Rights Act 2015.
 
 (5) The Board of Trade shall for each financial year pay into the Exchequer of Northern Ireland such sum as the Board and the Ministry of Commerce for Northern Ireland may agree to be appropriate as representing the expenses incurred by that Ministry in enforcing so much of this Act as relates to matters with respect to which the Parliament of Northern Ireland does not have power to make laws.
 
@@ -402,7 +402,7 @@ Section 41(1).
 
 **2.**[^c683423] In section 1(1) of the [^c683424]Anglo-Portuguese Treaty Act 1916 for the words “the Merchandise Marks Act 1887” there shall be substituted the words “ the Trade Description Act 1968 ”.
 
-**3.**[^key-2230835ca6628d25e2f3278a51f2e7a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2230835ca6628d25e2f3278a51f2e7a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c683427]
 
@@ -442,7 +442,7 @@ Section 41(1).
 
 [^c683276]: Textual amendment: S. 2(4)(*a*) repealed by [European Communities Act 1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68), [s. 4](https://www.legislation.gov.uk/ukpga/1972/68/section/4), [Sch. 3 Pt. III](https://www.legislation.gov.uk/ukpga/1972/68/schedule/3/part/III)
 
-[^key-00a259bf74b63892643969686f4143c1]: Textual amendment: S. 2(4)(b) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 34(5)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/34/5/a)
+[^c-00a259bf74b63892643969686f4143c1]: Textual amendment: S. 2(4)(b) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 34(5)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/34/5/a)
 
 [^c683279]: Marginal citation: [1964 c. 14](https://www.legislation.gov.uk/ukpga/1964/14).
 
@@ -480,7 +480,7 @@ Section 41(1).
 
 [^c683295]: Textual amendment: Para. (*b*) inserted by [Medicines Act 1968 (c. 67, SIF 84)](https://www.legislation.gov.uk/ukpga/1968/67), [s. 135(1)](https://www.legislation.gov.uk/ukpga/1968/67/section/135/1), [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/1968/67/schedule/5/paragraph/16)
 
-[^key-3c8158cd56a16286138096413b29998d]: Textual amendment: Words in s. 2(5)(b) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 37](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/37) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-3c8158cd56a16286138096413b29998d]: Textual amendment: Words in s. 2(5)(b) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 37](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/37) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
 [^c1842103]: Textual amendment: S. 2(5)(c) added (1.10.2006) by [The Veterinary Medicines Regulations 2006 (S.I. 2006/2407)](https://www.legislation.gov.uk/uksi/2006/2407), [reg. 44(3)](https://www.legislation.gov.uk/uksi/2006/2407/regulation/44/3), [Sch. 9 Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/2006/2407/schedule/9/part/1/paragraph/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2006/2407/regulation/3))
 
@@ -504,7 +504,7 @@ Section 41(1).
 
 [^c2001246]: Textual amendment: S. 12(3) added (26.5.2008) by The Consumer Protection from [Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 30(1)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/30/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/10) (with savings in [reg. 28(2)(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2/3))
 
-[^key-3088347a4c105e492aebab5b12239352]: Textual amendment: Words in s. 12(3) substituted (6.4.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2024/13/schedule/21/paragraph/2) (with [ss. 235](https://www.legislation.gov.uk/ukpga/2024/13/section/235), [243](https://www.legislation.gov.uk/ukpga/2024/13/section/243), [252](https://www.legislation.gov.uk/ukpga/2024/13/section/252)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(12)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/12)
+[^c-3088347a4c105e492aebab5b12239352]: Textual amendment: Words in s. 12(3) substituted (6.4.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2024/13/schedule/21/paragraph/2) (with [ss. 235](https://www.legislation.gov.uk/ukpga/2024/13/section/235), [243](https://www.legislation.gov.uk/ukpga/2024/13/section/243), [252](https://www.legislation.gov.uk/ukpga/2024/13/section/252)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(12)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/12)
 
 [^c2001248]: Textual amendment: [Ss. 13-15](https://www.legislation.gov.uk/ukpga/1968/29/section/13) repealed (26.5.2008) by [The Consumer Protection for Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 30(1)(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/30/1/3), [Sch. 2 para. 8(e)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/8/e), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with savings in [reg. 28(2)(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2/3))
 
@@ -560,9 +560,9 @@ Section 41(1).
 
     S. 26 restricted (23.3.1996) by [S.I. 1995/2489](https://www.legislation.gov.uk/uksi/1995/2489), [reg.9](https://www.legislation.gov.uk/uksi/1995/2489/regulation/9).
 
-[^key-8b753066f274a56ce79aebc4a4460c09]: Modification: S. 26 applied by SI 1973/1952 reg. 8(3) (as substituted (1.10.2015) by [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2015/1630/schedule/2/paragraph/2))
+[^c-8b753066f274a56ce79aebc4a4460c09]: Modification: S. 26 applied by SI 1973/1952 reg. 8(3) (as substituted (1.10.2015) by [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2015/1630/schedule/2/paragraph/2))
 
-[^key-744d866a2985b04a8572d817ce5b348c]: Modification: S. 26 applied by SI 1995/2489 reg. 10(2) (as substituted (1.10.2015) by [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2015/1630/schedule/2/paragraph/23))
+[^c-744d866a2985b04a8572d817ce5b348c]: Modification: S. 26 applied by SI 1995/2489 reg. 10(2) (as substituted (1.10.2015) by [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2015/1630/schedule/2/paragraph/23))
 
 [^c683351]: Textual amendment: Words inserted (S.) by [Local Government (Scotland) Act 1973 (c. 65, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1973/65), [s. 214(2)](https://www.legislation.gov.uk/ukpga/1973/65/section/214/2), [Sch. 27 Pt. II para. 174](https://www.legislation.gov.uk/ukpga/1973/65/schedule/27/part/II/paragraph/174)(*a*)
 
@@ -572,7 +572,7 @@ Section 41(1).
 
 [^c683354]: Textual amendment: Words repealed by [Local Government (Scotland) Act 1973 (c. 65, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1973/65),s. 214(2), Sch. 27 Pt. II para. 174(*a*), Sch. 29 and [Weights and Measures Act 1985 (c. 72, SIF 131)](https://www.legislation.gov.uk/ukpga/1985/72), [ss. 96(1)](https://www.legislation.gov.uk/ukpga/1985/72/section/96/1), [98](https://www.legislation.gov.uk/ukpga/1985/72/section/98), [Sch. 11 para. 21(2)](https://www.legislation.gov.uk/ukpga/1985/72/schedule/11/paragraph/21/2), [Sch. 13 Pt. I](https://www.legislation.gov.uk/ukpga/1985/72/schedule/13/part/I)
 
-[^key-57ee09618348604d3a3481b89499a14a]: Textual amendment: [S. 26(1A)](https://www.legislation.gov.uk/ukpga/1968/29/section/26/1A) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/3); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
+[^c-57ee09618348604d3a3481b89499a14a]: Textual amendment: [S. 26(1A)](https://www.legislation.gov.uk/ukpga/1968/29/section/26/1A) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/3); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
 
 [^c683355]: Modification: S. 26(2) extended by [Control of Pollution Act 1974 (c. 40, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1974/40), [s. 75(5)](https://www.legislation.gov.uk/ukpga/1974/40/section/75/5)
 
@@ -580,13 +580,13 @@ Section 41(1).
 
 [^c683357]: Textual amendment: S. 26(3)(4) repealed by [Local Government, Planning and Land Act 1980 (c. 65, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1980/65), [ss. 1](https://www.legislation.gov.uk/ukpga/1980/65/section/1), [194](https://www.legislation.gov.uk/ukpga/1980/65/section/194), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/1980/65/schedule/4/paragraph/10) and Sch. 34 Pt. IV
 
-[^key-40a35c9d0f18ea394d0923afdf684356]: Textual amendment: S. 27 omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/4); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-40a35c9d0f18ea394d0923afdf684356]: Textual amendment: S. 27 omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/4); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
-[^key-efe091015fa5de7fd4dacf910c558fd6]: Textual amendment: S. 28 omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/5); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-efe091015fa5de7fd4dacf910c558fd6]: Textual amendment: S. 28 omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/5); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
-[^key-daa31fe3397779ff71717ac902e640a2]: Textual amendment: S. 29 omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/6); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-daa31fe3397779ff71717ac902e640a2]: Textual amendment: S. 29 omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/6); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
-[^key-e902d1815ba23646a921a2b1a6a07d70]: Textual amendment: S. 30 omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/7); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-e902d1815ba23646a921a2b1a6a07d70]: Textual amendment: S. 30 omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/7); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
 [^c683383]: Modification: [S. 31](https://www.legislation.gov.uk/ukpga/1968/29/section/31) extended (1.1.1975) by [Hallmarking Act 1973 (c. 43)](https://www.legislation.gov.uk/ukpga/1973/43), [s. 9(3)](https://www.legislation.gov.uk/ukpga/1973/43/section/9/3)
 
@@ -598,7 +598,7 @@ Section 41(1).
 
 [^c2001279]: Textual amendment: [S. 32](https://www.legislation.gov.uk/ukpga/1968/29/section/32) repealed (26.5.2008) by [The Consumer Protection for Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 30(1)(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/30/1/3), [Sch. 2 para. 8(h)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/8/h), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with savings in [reg. 28(2)(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2/3))
 
-[^key-48e09b2f5f4b539652fa8bce51ec36f7]: Textual amendment: S. 33 omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/8); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-48e09b2f5f4b539652fa8bce51ec36f7]: Textual amendment: S. 33 omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/8); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
 [^c683402]: Textual amendment: Words in [s. 34](https://www.legislation.gov.uk/ukpga/1968/29/section/34) omitted (31.10.1994) by [1994 c. 26](https://www.legislation.gov.uk/ukpga/1994/26), [s. 106(1)](https://www.legislation.gov.uk/ukpga/1994/26/section/106/1), [Sch. 4 para. 4(a)](https://www.legislation.gov.uk/ukpga/1994/26/schedule/4/paragraph/4/a); [S.I. 1994/2550](https://www.legislation.gov.uk/uksi/1994/2550), [art.2](https://www.legislation.gov.uk/uksi/1994/2550/article/2).
 
@@ -626,11 +626,11 @@ Section 41(1).
 
 [^c683413]: Modification: S. 40(*b*)(*c*) extended by [Control of Pollution Act 1974 (c. 40, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1974/40), [s. 75(8)](https://www.legislation.gov.uk/ukpga/1974/40/section/75/8)
 
-[^key-3ad52698e11eecdcb7e03c39fa01d385]: Textual amendment: [S. 40(1)(c)](https://www.legislation.gov.uk/ukpga/1968/29/section/40/1/c) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 9(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/9/2); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-3ad52698e11eecdcb7e03c39fa01d385]: Textual amendment: [S. 40(1)(c)](https://www.legislation.gov.uk/ukpga/1968/29/section/40/1/c) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 9(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/9/2); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
 [^c683415]: Textual amendment: S. 40(2)—(4)(7) repealed by [Northern Ireland Constitution Act 1973 (c. 36)](https://www.legislation.gov.uk/ukpga/1973/36), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1973/36/schedule/6/part/I)
 
-[^key-9f05177230bf4f303555f8dbef644ec7]: Textual amendment: [S. 40(1A)](https://www.legislation.gov.uk/ukpga/1968/29/section/40/1A) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 9(3)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/9/3); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
+[^c-9f05177230bf4f303555f8dbef644ec7]: Textual amendment: [S. 40(1A)](https://www.legislation.gov.uk/ukpga/1968/29/section/40/1A) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 9(3)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/9/3); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
 
 [^c683417]: Modification: The text of S. 41(1) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -648,7 +648,7 @@ Section 41(1).
 
 [^c683424]: Marginal citation: 1916 C. 39
 
-[^key-2230835ca6628d25e2f3278a51f2e7a7]: Textual amendment: Sch. 1 para. 3 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 34(5)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/34/5/b)
+[^c-2230835ca6628d25e2f3278a51f2e7a7]: Textual amendment: Sch. 1 para. 3 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 34(5)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/34/5/b)
 
 [^c683427]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/1968/29/schedule/1/paragraph/4) repealed by [Road Traffic Act 1972 (c. 20)](https://www.legislation.gov.uk/ukpga/1972/20), [Sch. 9 Pt. I](https://www.legislation.gov.uk/ukpga/1972/20/schedule/9/part/I)
 

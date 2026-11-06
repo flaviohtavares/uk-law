@@ -47,57 +47,57 @@ Coming into force
 
 The Secretary of State, after consulting the persons referred to in section 86(4) of the Merchant Shipping Act 1995[^f00001], in exercise of the powers conferred upon him by section 85(1)(a) and (b), (3) and (5) to (7) and section 86(1) of that Act, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-eb05027e04e982700753942bca63e6e4]
+## 1. Citation, commencement and interpretation[^c-eb05027e04e982700753942bca63e6e4]
 
 (1) These Regulations may be cited as the Merchant Shipping (Fire Protection) Regulations (Amendment) Regulations 2003 and shall come into force on 11th December 2003.
 
 (2) In these Regulations “the principal Regulations” means the Merchant Shipping (Fire Protection: Large Ships) Regulations 1998[^f00002].
 
-## 2. Interpretation of principal Regulations[^key-ccd1414da45af94771f02fb365913f66]
+## 2. Interpretation of principal Regulations[^c-ccd1414da45af94771f02fb365913f66]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application of principal Regulations[^key-ccd1414da45af94771f02fb365913f66]
+## 3. Application of principal Regulations[^c-ccd1414da45af94771f02fb365913f66]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Principal Regulations: Repairs, alterations etc.[^key-ccd1414da45af94771f02fb365913f66]
+## 4. Principal Regulations: Repairs, alterations etc.[^c-ccd1414da45af94771f02fb365913f66]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Principal Regulations: Machinery spaces of Category A[^key-ccd1414da45af94771f02fb365913f66]
+## 5. Principal Regulations: Machinery spaces of Category A[^c-ccd1414da45af94771f02fb365913f66]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Principal Regulations: Fire detection and alarm systems etc.[^key-ccd1414da45af94771f02fb365913f66]
+## 6. Principal Regulations: Fire detection and alarm systems etc.[^c-ccd1414da45af94771f02fb365913f66]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Principal Regulations: Emergency escape breathing devices[^key-ccd1414da45af94771f02fb365913f66]
+## 7. Principal Regulations: Emergency escape breathing devices[^c-ccd1414da45af94771f02fb365913f66]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Principal Regulations: Cargo tank purging and/or gas freeing[^key-ccd1414da45af94771f02fb365913f66]
+## 8. Principal Regulations: Cargo tank purging and/or gas freeing[^c-ccd1414da45af94771f02fb365913f66]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Principal Regulations: Gas monitoring systems for tankers and combination carriers[^key-ccd1414da45af94771f02fb365913f66]
+## 9. Principal Regulations: Gas monitoring systems for tankers and combination carriers[^c-ccd1414da45af94771f02fb365913f66]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Principal Regulations: Deep-fat cooking equipment[^key-ccd1414da45af94771f02fb365913f66]
+## 10. Principal Regulations: Deep-fat cooking equipment[^c-ccd1414da45af94771f02fb365913f66]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Principal Regulations: Operational readiness and maintenance[^key-ccd1414da45af94771f02fb365913f66]
+## 11. Principal Regulations: Operational readiness and maintenance[^c-ccd1414da45af94771f02fb365913f66]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment of Merchant Shipping (Fire Protection: Small Ships) Regulations 1998[^key-a5aa3f0cbaeb0dffa1c6722bfb850218]
+## 12. Amendment of Merchant Shipping (Fire Protection: Small Ships) Regulations 1998[^c-a5aa3f0cbaeb0dffa1c6722bfb850218]
 
 Regulation 1(7)(a)(i) of the Merchant Shipping (Fire Protection: Small Ships) Regulations 1998[^f00006] shall be amended as follows:
 
@@ -140,12 +140,12 @@ The SOLAS Convention, its Protocols and IMO resolutions and circulars can be obt
 
 [^f00001]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21); sections 85 and 86 were amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), section 8.
 
-[^key-eb05027e04e982700753942bca63e6e4]: Commencement: Reg. 1 in force at 11.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2951/regulation/1/1)
+[^c-eb05027e04e982700753942bca63e6e4]: Commencement: Reg. 1 in force at 11.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2951/regulation/1/1)
 
 [^f00002]: Footnote: S.I. [1998/1012](https://www.legislation.gov.uk/uksi/1998/1012), amended by S.I. [1999/992](https://www.legislation.gov.uk/uksi/1999/992), S.I. [2000/2687](https://www.legislation.gov.uk/uksi/2000/2687), S.I. [2001/1638](https://www.legislation.gov.uk/uksi/2001/1638) and S.I. 2002/ .
 
-[^key-ccd1414da45af94771f02fb365913f66]: Textual amendment: [Regs. 2-11](https://www.legislation.gov.uk/uksi/2003/2951/regulation/2) revoked (15.6.2023) by [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
+[^c-ccd1414da45af94771f02fb365913f66]: Textual amendment: [Regs. 2-11](https://www.legislation.gov.uk/uksi/2003/2951/regulation/2) revoked (15.6.2023) by [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
 
-[^key-a5aa3f0cbaeb0dffa1c6722bfb850218]: Commencement: Reg. 12 in force at 11.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2951/regulation/1/1)
+[^c-a5aa3f0cbaeb0dffa1c6722bfb850218]: Commencement: Reg. 12 in force at 11.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2951/regulation/1/1)
 
 [^f00006]: Footnote: S.I. [1998/1011](https://www.legislation.gov.uk/uksi/1998/1011), amended by S.I. [1999/992](https://www.legislation.gov.uk/uksi/1999/992) and S.I. [2000/2687](https://www.legislation.gov.uk/uksi/2000/2687).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Authorisation for taking or killing deer at night[^key-5f9bf2da4c7070c9adfd2fa245909e25]
+## 30. Authorisation for taking or killing deer at night[^c-5f9bf2da4c7070c9adfd2fa245909e25]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f9bf2da4c7070c9adfd2fa245909e25]: Commencement: S. 30 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-5f9bf2da4c7070c9adfd2fa245909e25]: Commencement: S. 30 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)

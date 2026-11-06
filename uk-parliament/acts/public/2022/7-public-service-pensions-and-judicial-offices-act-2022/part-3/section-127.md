@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Power to add new offices[^key-4f8df2a812c664b6a76ef68bfdae37a3][^key-c4bdc35bbf6dd5a2ae7633917af20e6a]
+## 127. Power to add new offices[^c-4f8df2a812c664b6a76ef68bfdae37a3][^c-c4bdc35bbf6dd5a2ae7633917af20e6a]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4f8df2a812c664b6a76ef68bfdae37a3]: Commencement: S. 127 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-4f8df2a812c664b6a76ef68bfdae37a3]: Commencement: S. 127 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-c4bdc35bbf6dd5a2ae7633917af20e6a]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2022/7/section/127) in force at 1.10.2022 in so far as not already in force by [S.I. 2022/1014](https://www.legislation.gov.uk/uksi/2022/1014), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1014/regulation/2/a)
+[^c-c4bdc35bbf6dd5a2ae7633917af20e6a]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2022/7/section/127) in force at 1.10.2022 in so far as not already in force by [S.I. 2022/1014](https://www.legislation.gov.uk/uksi/2022/1014), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1014/regulation/2/a)

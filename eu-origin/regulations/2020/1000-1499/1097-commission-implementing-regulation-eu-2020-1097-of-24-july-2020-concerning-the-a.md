@@ -35,22 +35,22 @@ concerning the authorisation of lutein-rich and lutein/zeaxanthin extracts from 
 
 (Text with EEA relevance) (revoked)
 
-[^key-b768eccb4dcb941aeb55ff74edd3979a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b768eccb4dcb941aeb55ff74edd3979a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-b768eccb4dcb941aeb55ff74edd3979a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-b768eccb4dcb941aeb55ff74edd3979a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-b768eccb4dcb941aeb55ff74edd3979a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-b768eccb4dcb941aeb55ff74edd3979a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-b768eccb4dcb941aeb55ff74edd3979a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-b768eccb4dcb941aeb55ff74edd3979a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-b768eccb4dcb941aeb55ff74edd3979a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-b768eccb4dcb941aeb55ff74edd3979a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b768eccb4dcb941aeb55ff74edd3979a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b768eccb4dcb941aeb55ff74edd3979a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-b768eccb4dcb941aeb55ff74edd3979a]
+## ANNEX[^c-b768eccb4dcb941aeb55ff74edd3979a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b768eccb4dcb941aeb55ff74edd3979a]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 378](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/378) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-b768eccb4dcb941aeb55ff74edd3979a]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 378](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/378) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

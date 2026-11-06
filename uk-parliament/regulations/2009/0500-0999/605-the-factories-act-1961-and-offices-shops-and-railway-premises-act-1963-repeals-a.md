@@ -48,17 +48,17 @@ The Secretary of State makes these regulations in exercise of the powers conferr
 
 These Regulations give effect without modification to proposals submitted to the Secretary of State by the Health and Safety Executive under section 11(3) of that Act (after carrying out the consultation required by section 50(3) of that Act).
 
-## 1. Citation and commencement[^key-d49479a82bcc4fb88e68cc839d56214d]
+## 1. Citation and commencement[^c-d49479a82bcc4fb88e68cc839d56214d]
 
 These Regulations may be cited as the Factories Act 1961 and Offices, Shops and Railway Premises Act 1963 (Repeals and Modifications) Regulations 2009 and shall come into force on 6th April 2009 (referred to in these Regulations as the “commencement date”).
 
-## 2. Repeal of certain notification requirements[^key-1e7d1ff41ec4d80542e70bdc44bca0fc]
+## 2. Repeal of certain notification requirements[^c-1e7d1ff41ec4d80542e70bdc44bca0fc]
 
 (1) Section 137 (notice of occupation of factory and use of mechanical power) of the Factories Act 1961[^f00002] (in these Regulations referred to as “the 1961 Act”) and section 49 (notification of fact of employment of certain persons) of the Offices, Shops and Railway Premises Act 1963[^f00003] are repealed.
 
 (2) The Notification of Employment of Persons Order 1964[^f00004] (which relates to notices required by section 49 of the Offices, Shops and Railway Premises Act 1963) is revoked.
 
-## 3. Abolition of requirement to keep general registers[^key-0699af669201c8aa42ba000fd8dad563]
+## 3. Abolition of requirement to keep general registers[^c-0699af669201c8aa42ba000fd8dad563]
 
 (1) Section 140 (duties to keep and to make entries in general registers and to provide extracts on request) of the 1961 Act is repealed.
 
@@ -70,9 +70,9 @@ These Regulations may be cited as the Factories Act 1961 and Offices, Shops and 
 
 (5) In the case of a general register containing such a record, section 141 of the 1961 Act is to be read as requiring the record to be preserved and kept available for inspection for at least two years after the date of the last record entered in or attached to the register.
 
-## 4. Amendment, repeals and revocation consequential on regulation 3[^key-087850ee576370b4be2e0f79880dc0c4]
+## 4. Amendment, repeals and revocation consequential on regulation 3[^c-087850ee576370b4be2e0f79880dc0c4]
 
-(1)[^key-e115f8ca2b137049ee62d84f6f35aac9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-e115f8ca2b137049ee62d84f6f35aac9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The following provisions of the 1961 Act are repealed-
 
@@ -103,9 +103,9 @@ A final impact assessment of the affect that this instrument will have on the co
 
 [^f00001]: Footnote: [1974 c.37](https://www.legislation.gov.uk/ukpga/1974/37), as amended by the Legislative Reform (Health and Safety Executive) Order 2008 ([S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960)). Sections 15(1) and 50(3) were amended by the Employment Protection Act [1975 (c.71)](https://www.legislation.gov.uk/ukpga/1975/71), Schedule 15, paragraphs 6 and 16 respectively.
 
-[^key-d49479a82bcc4fb88e68cc839d56214d]: Commencement: Reg. 1 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/605/regulation/1)
+[^c-d49479a82bcc4fb88e68cc839d56214d]: Commencement: Reg. 1 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/605/regulation/1)
 
-[^key-1e7d1ff41ec4d80542e70bdc44bca0fc]: Commencement: Reg. 2 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/605/regulation/1)
+[^c-1e7d1ff41ec4d80542e70bdc44bca0fc]: Commencement: Reg. 2 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/605/regulation/1)
 
 [^f00002]: Footnote: [1961 c.34](https://www.legislation.gov.uk/ukpga/1961/34).
 
@@ -113,12 +113,12 @@ A final impact assessment of the affect that this instrument will have on the co
 
 [^f00004]: Footnote: [S.I. 1964/533](https://www.legislation.gov.uk/uksi/1964/533).
 
-[^key-0699af669201c8aa42ba000fd8dad563]: Commencement: Reg. 3 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/605/regulation/1)
+[^c-0699af669201c8aa42ba000fd8dad563]: Commencement: Reg. 3 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/605/regulation/1)
 
 [^f00005]: Footnote: [1920 c.65](https://www.legislation.gov.uk/ukpga/1920/65).
 
-[^key-087850ee576370b4be2e0f79880dc0c4]: Commencement: Reg. 4 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/605/regulation/1)
+[^c-087850ee576370b4be2e0f79880dc0c4]: Commencement: Reg. 4 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/605/regulation/1)
 
-[^key-e115f8ca2b137049ee62d84f6f35aac9]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2009/605/regulation/4/1) revoked (6.4.2013) by [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations 2013 (S.I. 2013/448)](https://www.legislation.gov.uk/uksi/2013/448), [reg. 1](https://www.legislation.gov.uk/uksi/2013/448/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/448/schedule) Table 4
+[^c-e115f8ca2b137049ee62d84f6f35aac9]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2009/605/regulation/4/1) revoked (6.4.2013) by [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations 2013 (S.I. 2013/448)](https://www.legislation.gov.uk/uksi/2013/448), [reg. 1](https://www.legislation.gov.uk/uksi/2013/448/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/448/schedule) Table 4
 
 [^f00006]: Footnote: [S.I. 1973/8](https://www.legislation.gov.uk/uksi/1973/8).

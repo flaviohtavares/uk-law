@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.46. Restraint and ancillary orders[^key-e076a160601b44bfece54077803fd66b]
+## 33.46. Restraint and ancillary orders[^c-e076a160601b44bfece54077803fd66b]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e076a160601b44bfece54077803fd66b]: Commencement: [Rule 33.46](https://www.legislation.gov.uk/uksi/2025/909/rule/33.46) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-e076a160601b44bfece54077803fd66b]: Commencement: [Rule 33.46](https://www.legislation.gov.uk/uksi/2025/909/rule/33.46) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

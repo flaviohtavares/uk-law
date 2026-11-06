@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24B. Decision (EU) 2019/2031 establishing best available techniques (BAT) conclusions for the food, drink and milk industries, under [Directive 2010/75/EU](https://www.legislation.gov.uk/eudr/2010/0075) of the European Parliament and of the Council[^M_I_01f68b77-046c-4f0c-e351-00043b31ab21][^key-fad4a0f1f934fd08ca70ebcde83f280e]
+## 24B. Decision (EU) 2019/2031 establishing best available techniques (BAT) conclusions for the food, drink and milk industries, under [Directive 2010/75/EU](https://www.legislation.gov.uk/eudr/2010/0075) of the European Parliament and of the Council[^M_I_01f68b77-046c-4f0c-e351-00043b31ab21][^c-fad4a0f1f934fd08ca70ebcde83f280e]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 [^M_I_01f68b77-046c-4f0c-e351-00043b31ab21]: Commencement: Reg. 24B in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-fad4a0f1f934fd08ca70ebcde83f280e]: Textual amendment: Regs. 24B-24E inserted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/3)
+[^c-fad4a0f1f934fd08ca70ebcde83f280e]: Textual amendment: Regs. 24B-24E inserted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/3)

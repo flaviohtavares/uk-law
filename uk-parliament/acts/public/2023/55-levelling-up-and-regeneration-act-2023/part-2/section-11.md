@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Non-constituent members of a CCA[^key-9a3a13d9bc8b493565f398a6c70c370c]
+## 11. Non-constituent members of a CCA[^c-9a3a13d9bc8b493565f398a6c70c370c]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a3a13d9bc8b493565f398a6c70c370c]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/55/section/11) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-9a3a13d9bc8b493565f398a6c70c370c]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/55/section/11) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Surrender of allowances: (affected by repeal, see note) UK (affected by repeal, see note) aircraft operators (affected by repeal, see note)[^key-8f652481127f047133125efc8dad806a][^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc]
+## 42. Surrender of allowances: (affected by repeal, see note) UK (affected by repeal, see note) aircraft operators (affected by repeal, see note)[^c-8f652481127f047133125efc8dad806a][^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8f652481127f047133125efc8dad806a]: Textual amendment: [Reg. 42](https://www.legislation.gov.uk/uksi/2012/3038/regulation/42) revoked (22.12.2014) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2014 (S.I. 2014/3125)](https://www.legislation.gov.uk/uksi/2014/3125), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3125/regulation/1/1), [12(1)](https://www.legislation.gov.uk/uksi/2014/3125/regulation/12/1)
+[^c-8f652481127f047133125efc8dad806a]: Textual amendment: [Reg. 42](https://www.legislation.gov.uk/uksi/2012/3038/regulation/42) revoked (22.12.2014) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2014 (S.I. 2014/3125)](https://www.legislation.gov.uk/uksi/2014/3125), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3125/regulation/1/1), [12(1)](https://www.legislation.gov.uk/uksi/2014/3125/regulation/12/1)
 
-[^key-ff0f761e51ae43a5920475cc265851cc]: Textual amendment: Regulations revoked in so far as they continue to apply in relation to the UK Registry (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [12](https://www.legislation.gov.uk/uksi/2021/511/regulation/12)
+[^c-ff0f761e51ae43a5920475cc265851cc]: Textual amendment: Regulations revoked in so far as they continue to apply in relation to the UK Registry (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [12](https://www.legislation.gov.uk/uksi/2021/511/regulation/12)

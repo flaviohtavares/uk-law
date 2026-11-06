@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Supervision of former salary related contracted-out schemes[^key-c85b8d383894b7b83b6e42ad34feedc9]
+## 52. Supervision of former salary related contracted-out schemes[^c-c85b8d383894b7b83b6e42ad34feedc9]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ Section 53 shall apply for the purpose of making provision for securing the cont
 
 ## Annotations
 
-[^key-c85b8d383894b7b83b6e42ad34feedc9]: Textual amendment: [S. 52](https://www.legislation.gov.uk/ukpga/1993/48/section/52) substituted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 35](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/35)
+[^c-c85b8d383894b7b83b6e42ad34feedc9]: Textual amendment: [S. 52](https://www.legislation.gov.uk/ukpga/1993/48/section/52) substituted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 35](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/35)

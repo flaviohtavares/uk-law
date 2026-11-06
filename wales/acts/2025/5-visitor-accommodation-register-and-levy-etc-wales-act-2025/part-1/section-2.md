@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Visitor accommodation[^key-f72b8f35b6d7f38bee0ee15f73b0b660]
+## 2. Visitor accommodation[^c-f72b8f35b6d7f38bee0ee15f73b0b660]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f72b8f35b6d7f38bee0ee15f73b0b660]: Commencement: S. 2 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-f72b8f35b6d7f38bee0ee15f73b0b660]: Commencement: S. 2 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

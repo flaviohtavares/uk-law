@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Nominations[^key-c2631c1bcad63622b61e587822d429ab]
+## 13. Nominations[^c-c2631c1bcad63622b61e587822d429ab]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2631c1bcad63622b61e587822d429ab]: Commencement: Reg. 13 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
+[^c-c2631c1bcad63622b61e587822d429ab]: Commencement: Reg. 13 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)

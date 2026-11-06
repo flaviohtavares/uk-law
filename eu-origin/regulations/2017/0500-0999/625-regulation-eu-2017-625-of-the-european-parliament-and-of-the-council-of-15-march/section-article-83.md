@@ -24,7 +24,7 @@ summary: ''
 
 2. Fees or charges collected in accordance with Articles 79 and 80 shall not be directly or indirectly refunded, unless unduly collected.
 
-3.[^key-d15f470fca570a9f296ea43c17daca2a] Competent authorities may—
+3.[^c-d15f470fca570a9f296ea43c17daca2a] Competent authorities may—
 
 - (a) arrange for fees or charges to be collected by authorities other than the competent authorities or by delegated bodies;
 - (b) publish details of how and when fees or charges are to be paid;
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d15f470fca570a9f296ea43c17daca2a]: Textual amendment: [Art. 83(3)](https://www.legislation.gov.uk/eur/2017/625/article/83/3) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [25](https://www.legislation.gov.uk/uksi/2025/102/regulation/25)
+[^c-d15f470fca570a9f296ea43c17daca2a]: Textual amendment: [Art. 83(3)](https://www.legislation.gov.uk/eur/2017/625/article/83/3) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [25](https://www.legislation.gov.uk/uksi/2025/102/regulation/25)

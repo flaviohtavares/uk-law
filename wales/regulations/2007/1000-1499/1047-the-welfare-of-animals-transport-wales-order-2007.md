@@ -45,11 +45,11 @@ The National Assembly for Wales, in exercise of the powers conferred by sections
 
 ## PART 1 — Introduction
 
-### 1. Title, commencement and application[^key-e7c759bc0cdc89e41d3ab48566a64489]
+### 1. Title, commencement and application[^c-e7c759bc0cdc89e41d3ab48566a64489]
 
 The title of this Order is the Welfare of Animals (Transport) (Wales) Order 2007. It comes into force on 30 March 2007 and applies in relation to Wales.
 
-### 2. Interpretation[^key-dcbc7e08ceca1a0a8cfbb4b8d531a3cf]
+### 2. Interpretation[^c-dcbc7e08ceca1a0a8cfbb4b8d531a3cf]
 
 (1) In this Order “the Act” means the Animal Health Act 1981.
 
@@ -59,21 +59,21 @@ The title of this Order is the Welfare of Animals (Transport) (Wales) Order 2007
 
 - (a) Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) on the protection of animals during transport and related operations and amending Directives [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432) and [93/119/EC](https://www.legislation.gov.uk/european/directive/1993/0119) and Regulation [(EC) 1255/97](https://www.legislation.gov.uk/european/regulation/1997/1255)[^f00003];
 - (b) Council Regulation [(EC) No 1255/97](https://www.legislation.gov.uk/european/regulation/1997/1255) concerning Community criteria for staging points and amending the route plan referred to in the Annex to Directive [91/628/EEC](https://www.legislation.gov.uk/european/directive/1991/0628)[^f00004];
-- (c)[^key-32eee3a15765f9b78d9315ecea0e4056] Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products.
+- (c)[^c-32eee3a15765f9b78d9315ecea0e4056] Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products.
 
 (4) The “local authority” means in relation to an area the county council or county borough council for that area.
 
-(5)[^key-62d05e4f2bc43807513dd2afdd012a58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-62d05e4f2bc43807513dd2afdd012a58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Any reference to the Regulations referred to in paragraph (3) is a reference to those instruments as amended from time to time.
 
-### 3. Extension of definition of “animals” and “poultry”[^key-af76171dfd05811501a921bb07755b3f]
+### 3. Extension of definition of “animals” and “poultry”[^c-af76171dfd05811501a921bb07755b3f]
 
 For the purposes of the Act in its application to this Order, the definitions of animals and poultry in section 87 of the Act are extended to cover all vertebrate animals and cold-blooded invertebrate animals.
 
 ## PART 2 — Transport of Animals
 
-### 4. General provision on the protection of animals during transport[^key-f6e53ca7d3a30f8730751acaed1b33b3]
+### 4. General provision on the protection of animals during transport[^c-f6e53ca7d3a30f8730751acaed1b33b3]
 
 (1) It is an offence to transport any animal in a way which causes, or is likely to cause, injury or unnecessary suffering to that animal.
 
@@ -83,7 +83,7 @@ For the purposes of the Act in its application to this Order, the definitions of
 
 (4) This article applies to the transport of vertebrate animals except those to which Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) applies.
 
-### 5. Transport[^key-bedaa1270edeffa364e68be1e05906f7]
+### 5. Transport[^c-bedaa1270edeffa364e68be1e05906f7]
 
 (1) A person who fails to comply with any of the following provisions of Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) is guilty of an offence against the Act—
 
@@ -99,7 +99,7 @@ For the purposes of the Act in its application to this Order, the definitions of
 
 (3) Copies of the documentation referred to in Article 4 of Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) must be kept for 6 months from the completion of the journey.
 
-### 6. Transporters[^key-2472b31ba11a0579e2d8ef292ff959bf]
+### 6. Transporters[^c-2472b31ba11a0579e2d8ef292ff959bf]
 
 A transporter who fails to comply with the following provisions of Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) is guilty of an offence against the Act—
 
@@ -111,25 +111,25 @@ A transporter who fails to comply with the following provisions of Council Regul
   - (ii) for all means of transport by road on or after 1 January 2009;
 - (e) Article 12 (Article 12 relates to limitation on applications for authorisation).
 
-### 7. Roll-on-roll-off vessels[^key-9eae9c9b1c7a8a50fba15bad0c4fd518]
+### 7. Roll-on-roll-off vessels[^c-9eae9c9b1c7a8a50fba15bad0c4fd518]
 
 (1) A master of a roll-on-roll-off vessel who fails to comply with point 3.1 of Chapter II of Annex I to Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) (Chapter II relates to additional provisions for transport on roll-on-roll-off vessels) is guilty of an offence against the Act.
 
 (2) No transporter is to transport animals on a roll-on-roll-off vessel unless the master of the vessel has first verified the matters referred to in that point.
 
-### 8. Organisers[^key-078cd90bdfaec42182306785db555f4b]
+### 8. Organisers[^c-078cd90bdfaec42182306785db555f4b]
 
 An organiser who fails to comply with any of the obligations in Article 5(3) and (4) of Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) (Article 5 relates to planning obligations for the transport of animals) is guilty of an offence against the Act.
 
-### 9. Keepers[^key-96a792f36b4c07124894fad8a54060aa]
+### 9. Keepers[^c-96a792f36b4c07124894fad8a54060aa]
 
 A keeper who fails to comply with Article 8 of Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) (keepers at places of departure, transfer or destination) is guilty of an offence against the Act.
 
-### 10. Assembly centres[^key-5c9a1b17a6e9b3cfc72727be0e59e141]
+### 10. Assembly centres[^c-5c9a1b17a6e9b3cfc72727be0e59e141]
 
 An operator of an assembly centre who fails to comply with Article 9 of Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) (assembly centres) is guilty of an offence against the Act.
 
-### 11. Control posts[^key-46f0f19fda951752548f05022ac8bb18]
+### 11. Control posts[^c-46f0f19fda951752548f05022ac8bb18]
 
 (1) It is an offence for a person to operate a control post unless he or she is approved for that purpose.
 
@@ -143,26 +143,26 @@ An operator of an assembly centre who fails to comply with Article 9 of Council 
 
 ## PART 3 — Derogations for means of transport by road on journeys under 12 hours
 
-### 12. Application[^key-08ed34be3649c7922a9abd402c032b11]
+### 12. Application[^c-08ed34be3649c7922a9abd402c032b11]
 
 In accordance with Article 18(4) of Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001), the derogations in this Part apply in respect of a means of transport by road used for a journey that does not exceed 12 hours in order to reach the final place of destination (“means of transport by road”).
 
-### 13. Derogation from inspection and approval[^key-f43479cc0b51e44e484a2b926a8e53b9]
+### 13. Derogation from inspection and approval[^c-f43479cc0b51e44e484a2b926a8e53b9]
 
 For the purposes of Article 18(1) of Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001), a means of transport by road used to transport animals other than domestic equidae or domestic animals of bovine, ovine, caprine or porcine species does not require a certificate of approval.
 
-### 14. Derogation from requirement for continuous access to water[^key-dc907827516eef82d5f8be4015e2984c]
+### 14. Derogation from requirement for continuous access to water[^c-dc907827516eef82d5f8be4015e2984c]
 
 For the purposes of point 1.4(b) of Chapter V of Annex I to Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001), during a journey pigs—
 
 - (a) do not require continuous access to water on a means of transport by road;
 - (b) must be offered water at appropriate intervals and afforded an adequate opportunity to drink.
 
-### 15. Derogation from insulated roof requirement[^key-1e00cc65acea50d36e808c5d34057a76]
+### 15. Derogation from insulated roof requirement[^c-1e00cc65acea50d36e808c5d34057a76]
 
 For the purposes of point 1.1 of Chapter VI to Annex I to Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001), the roof on a means of transport by road does not require insulation.
 
-### 16. Derogation from temperature requirements[^key-7cf14f2531779f353c4d03d20f415a9a]
+### 16. Derogation from temperature requirements[^c-7cf14f2531779f353c4d03d20f415a9a]
 
 (1) For the purposes of point 3.1 of Chapter VI of Annex I to Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001), the temperature on a means of transport by road may fall below 0°C during a journey—
 
@@ -171,28 +171,28 @@ For the purposes of point 1.1 of Chapter VI to Annex I to Council Regulation [(E
 
 (2) But where the temperature falls below 0°C, pigs weighing less than 30 kgs and unaccompanied on the journey by their mother must be provided with adequate quantities of a bedding material appropriate to the species to ensure their thermal comfort.
 
-### 17. Derogation from ventilation system requirement[^key-e3152a06e8e9fc977b0fe9983474c4a8]
+### 17. Derogation from ventilation system requirement[^c-e3152a06e8e9fc977b0fe9983474c4a8]
 
 The ventilation system on a means of transport by road—
 
 - (a) does not require the capabilities described in point 3.2 of Chapter VI of Annex I to Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001);
 - (b) must be capable of adjustment so as to ensure that the requirements for temperatures set out in that point and in article 16(1) are maintained during the journey.
 
-### 18. Derogation from temperature monitoring requirements[^key-f6dccc8b415f0b74dbf32240c27902d5]
+### 18. Derogation from temperature monitoring requirements[^c-f6dccc8b415f0b74dbf32240c27902d5]
 
 The temperature monitoring, data recording and warning systems referred to in points 3.3 and 3.4 of Chapter VI of Annex I to Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) are not required on a means of transport by road.
 
-### 19. Derogation from navigation system requirement[^key-89dcc6037f3641c582c439d3b8e4eab6]
+### 19. Derogation from navigation system requirement[^c-89dcc6037f3641c582c439d3b8e4eab6]
 
 The navigation system referred to in point 4.1 of Chapter VI of Annex I to Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) is not required in a means of transport by road.
 
 ## PART 4 — Approvals
 
-### 20. The competent authority[^key-220bf09c451aab5c65473a0a5e4505ba]
+### 20. The competent authority[^c-220bf09c451aab5c65473a0a5e4505ba]
 
 The Welsh Ministers are the competent authority for the purposes of Council Regulation [(EC) No 1255/97](https://www.legislation.gov.uk/eur/1997/1255) and Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/eur/2005/1).
 
-### 21. Approvals, authorisations etc[^key-b565d747ae252a529c0907af2350679c]
+### 21. Approvals, authorisations etc[^c-b565d747ae252a529c0907af2350679c]
 
 Any approval, authorisation or certificate issued under this Order, Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) or Council Regulation [(EC) No 1255/97](https://www.legislation.gov.uk/european/regulation/1997/1255)—
 
@@ -200,40 +200,40 @@ Any approval, authorisation or certificate issued under this Order, Council Regu
 - (b) may be made subject to conditions; and
 - (c) may be amended, suspended or revoked at any time.
 
-### 22. Suspension, revocation of approvals etc[^key-31919221be52848351718c3602a50887]
+### 22. Suspension, revocation of approvals etc[^c-31919221be52848351718c3602a50887]
 
-(1) The Welsh Ministers[^key-d264cc8a6e82cacfcacf399104707bd6] may, by notice, suspend or amend an approval, authorisation, certificate of approval or certificate of competence if satisfied that any of the conditions under which it was granted or of any provision of Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001), Council Regulation [(EC) No 1255/97](https://www.legislation.gov.uk/european/regulation/1997/1255) or this Order have been breached.
+(1) The Welsh Ministers[^c-d264cc8a6e82cacfcacf399104707bd6] may, by notice, suspend or amend an approval, authorisation, certificate of approval or certificate of competence if satisfied that any of the conditions under which it was granted or of any provision of Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001), Council Regulation [(EC) No 1255/97](https://www.legislation.gov.uk/european/regulation/1997/1255) or this Order have been breached.
 
 (2) A suspension under paragraph (1)—
 
-- (a) has immediate effect where the Welsh Ministers consider[^key-98dacc0354a065c58c7493b6efbbd6be] it necessary to protect the welfare of animals;
+- (a) has immediate effect where the Welsh Ministers consider[^c-98dacc0354a065c58c7493b6efbbd6be] it necessary to protect the welfare of animals;
 - (b) otherwise will not have effect for at least 21 days following service of the notice.
 
 (3) The notice must—
 
 - (a) give reasons;
 - (b) state when it comes into effect and, in the case of a suspension, state on what date or event it is to cease to have effect; and
-- (c) explain the right of the recipient of the notice to make written representations to a person appointed by the Welsh Ministers[^key-2893a2da0abc4e40511a413d3e444f31].
+- (c) explain the right of the recipient of the notice to make written representations to a person appointed by the Welsh Ministers[^c-2893a2da0abc4e40511a413d3e444f31].
 
-(4) Where the notice does not have immediate effect, and representations are made under article 23, an amendment or suspension will not have effect until the final determination by the Welsh Ministers[^key-714ae15bb5268d95a62d4f710ac1c768] in accordance with article 23 unless the Welsh Ministers decide[^key-b0e1eff70b96e7e60656a1946414ad5a] that it is necessary for the protection of animal welfare for the amendment or suspension to have immediate effect and gives notice to that effect.
+(4) Where the notice does not have immediate effect, and representations are made under article 23, an amendment or suspension will not have effect until the final determination by the Welsh Ministers[^c-714ae15bb5268d95a62d4f710ac1c768] in accordance with article 23 unless the Welsh Ministers decide[^c-b0e1eff70b96e7e60656a1946414ad5a] that it is necessary for the protection of animal welfare for the amendment or suspension to have immediate effect and gives notice to that effect.
 
-(5) Where a suspension is upheld, the Welsh Ministers[^key-8d74ef76a1e624c424ac7442259e20a8] may, by notice, revoke an approval, authorisation, certificate of approval or certificate of competence if satisfied that this Order, Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) or Council Regulation [(EC) No 1255/97](https://www.legislation.gov.uk/european/regulation/1997/1255) will not be complied with.
+(5) Where a suspension is upheld, the Welsh Ministers[^c-8d74ef76a1e624c424ac7442259e20a8] may, by notice, revoke an approval, authorisation, certificate of approval or certificate of competence if satisfied that this Order, Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) or Council Regulation [(EC) No 1255/97](https://www.legislation.gov.uk/european/regulation/1997/1255) will not be complied with.
 
 (6) A notice must not be issued under paragraph (5) until the process in article 23 (if any) has been completed.
 
-### 23. Representations to an appointed person[^key-9d4de459c5d907c8df8dc494bf94a802]
+### 23. Representations to an appointed person[^c-9d4de459c5d907c8df8dc494bf94a802]
 
-(1) A person may make written representations against a refusal, condition, amendment, suspension or revocation of an approval, authorisation or certificate to a person appointed for the purpose by the Welsh Ministers[^key-35f83bf2c01ac727b88d331a1991e277].
+(1) A person may make written representations against a refusal, condition, amendment, suspension or revocation of an approval, authorisation or certificate to a person appointed for the purpose by the Welsh Ministers[^c-35f83bf2c01ac727b88d331a1991e277].
 
-(2) Any representations must be made within 21 days of receiving notification of the Welsh Ministers'[^key-479d1e36569cb6ebe1f11ed701013d80] decision.
+(2) Any representations must be made within 21 days of receiving notification of the Welsh Ministers'[^c-479d1e36569cb6ebe1f11ed701013d80] decision.
 
-(3) The appointed person must consider the representations and report in writing to the Welsh Ministers[^key-6fe9507030a9f2804152fdb092d94a3c].
+(3) The appointed person must consider the representations and report in writing to the Welsh Ministers[^c-6fe9507030a9f2804152fdb092d94a3c].
 
-(4) The Welsh Ministers[^key-d08cbde1c4f8ce56e782e83d8760ccd9] must give to the person making the representations written notification of their[^key-c2bbcc967fcfbfb3ddee2660654dc6dc] final determination and their reasons.
+(4) The Welsh Ministers[^c-d08cbde1c4f8ce56e782e83d8760ccd9] must give to the person making the representations written notification of their[^c-c2bbcc967fcfbfb3ddee2660654dc6dc] final determination and their reasons.
 
 ## PART 5 — Miscellaneous
 
-### 24. Powers of inspectors[^key-d45ac2f2837218977f2a8a6d91642a2a]
+### 24. Powers of inspectors[^c-d45ac2f2837218977f2a8a6d91642a2a]
 
 (1) If an inspector considers animals are being transported, or are to be transported, in a way which—
 
@@ -254,7 +254,7 @@ he or she may serve a notice on the person appearing to him or her to be in char
 
 (3) Where it is necessary for identification purposes, an inspector may mark an animal.
 
-(4)[^key-83a1c9ca5556ad0a41ad660ea638c0a3] An inspector may take copies of any document—
+(4)[^c-83a1c9ca5556ad0a41ad660ea638c0a3] An inspector may take copies of any document—
 
 - (a) inspected for the purpose of ascertaining whether the provisions of this Order, Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001), Council Regulation [(EC) No 1255/97](https://www.legislation.gov.uk/european/regulation/1997/1255) or Regulation (EU) 2017/625 have been complied with;
 - (b) inspected in the course of performing official controls under Regulation (EU) 2017/625.
@@ -266,35 +266,35 @@ he or she may serve a notice on the person appearing to him or her to be in char
 - (a) require one or more animals at a control post to be removed from the control post;
 - (b) specify conditions under which animals may remain there.
 
-(7) In deciding whether to serve a notice under this article, an inspector may take into account any previous failure to comply with any provision of this Order, any other Order made under sections 37, 38 or 39 of the Act or paragraph 13(b)[^key-5d443d56ccf6b661bebe0e3160f28a65] of Annex II to Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) (return of documents after completion of journey).
+(7) In deciding whether to serve a notice under this article, an inspector may take into account any previous failure to comply with any provision of this Order, any other Order made under sections 37, 38 or 39 of the Act or paragraph 13(b)[^c-5d443d56ccf6b661bebe0e3160f28a65] of Annex II to Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) (return of documents after completion of journey).
 
 (8) Where a person fails to comply with the requirements of a notice served under this article, an inspector may take any steps he or she considers necessary to ensure the requirement is met.
 
-(9) The person in default must reimburse any reasonable expenses incurred by the Welsh Ministers[^key-39bb14274618504979e0ff5fba785016] or the local authority in taking such steps and any such debt is recoverable summarily.
+(9) The person in default must reimburse any reasonable expenses incurred by the Welsh Ministers[^c-39bb14274618504979e0ff5fba785016] or the local authority in taking such steps and any such debt is recoverable summarily.
 
-### 25. Compliance with notices[^key-3cd6642b4a0fd2a7b02d891513f75e33]
+### 25. Compliance with notices[^c-3cd6642b4a0fd2a7b02d891513f75e33]
 
 Any notice served under this Order must be complied with at the expense of the person on whom it is served, except where otherwise provided in that notice.
 
-### 26. Production of plans[^key-2f88ee1d1c716cde678c0e590b71ae22]
+### 26. Production of plans[^c-2f88ee1d1c716cde678c0e590b71ae22]
 
 (1) The owner or charterer of any vessel to be used for the transport of animals must—
 
-- (a) produce, on demand to an officer of the Welsh Ministers[^key-1e86a6ca67c9df42be4a4180a29891ff] plans of the vessel (including details of its ventilation system and any fittings for livestock); and
+- (a) produce, on demand to an officer of the Welsh Ministers[^c-1e86a6ca67c9df42be4a4180a29891ff] plans of the vessel (including details of its ventilation system and any fittings for livestock); and
 - (b) provide, on demand, such information concerning the vessel as the officer considers necessary to enable him or her to ascertain whether the provisions of this Order will be complied with during the proposed journey
 
 (2) But no person has to provide any information which he or she cannot, with the exercise of reasonable diligence, obtain.
 
-### 27. Obstruction[^key-8f287ea245c6edd19ca99a0f7dbf35bd]
+### 27. Obstruction[^c-8f287ea245c6edd19ca99a0f7dbf35bd]
 
 No person is to—
 
-- (a) without reasonable cause, fail to give any person acting under Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001), Council Regulation [(EC) No 1255/97](https://www.legislation.gov.uk/european/regulation/1997/1255) , Regulation (EU) 2017/625[^key-e632bafc5c9c7b9a2ea5d4ccca148d20] or this Order any assistance or information which that person may reasonably require for the purposes of his or her functions under those Regulations or this Order;
-- (b) provide false information on any journey log (whether submitted for approval, returned to the officer of the Welsh Ministers[^key-15225191b87ee8a8e4367af8cb89b137] after the journey or otherwise) or provide false or misleading information on any documentation carried pursuant to Article 4 of Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001);
+- (a) without reasonable cause, fail to give any person acting under Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001), Council Regulation [(EC) No 1255/97](https://www.legislation.gov.uk/european/regulation/1997/1255) , Regulation (EU) 2017/625[^c-e632bafc5c9c7b9a2ea5d4ccca148d20] or this Order any assistance or information which that person may reasonably require for the purposes of his or her functions under those Regulations or this Order;
+- (b) provide false information on any journey log (whether submitted for approval, returned to the officer of the Welsh Ministers[^c-15225191b87ee8a8e4367af8cb89b137] after the journey or otherwise) or provide false or misleading information on any documentation carried pursuant to Article 4 of Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001);
 - (c) make an entry in a record or statement, or give any information for the purposes of this Order, which he or she knows to be false or misleading in any material particular or, for those purposes, recklessly make a statement or give any information which is false or misleading in any material particular; or
 - (d) cause or permit any of the above.
 
-### 28. Offences by bodies corporate[^key-f8d27c0c2168b9231280ccfd9003cb07]
+### 28. Offences by bodies corporate[^c-f8d27c0c2168b9231280ccfd9003cb07]
 
 (1) If an offence under this Order committed by a body corporate is shown—
 
@@ -307,13 +307,13 @@ the officer as well as the body corporate is guilty of the offence and is liable
 
 (3) “Officer”, in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity.
 
-### 29. Enforcement[^key-153e06837b4b9a2a9c7c2614905ee7e0]
+### 29. Enforcement[^c-153e06837b4b9a2a9c7c2614905ee7e0]
 
 (1) This Order is enforceable by the local authority.
 
-(2) The Welsh Ministers[^key-24d8cbaa654c99f55966313dcdc3fbf7] may direct, in relation to cases of a particular description or a particular case, that any duty imposed on a local authority under paragraph (1) will be discharged by the Welsh Ministers and not the local authority.
+(2) The Welsh Ministers[^c-24d8cbaa654c99f55966313dcdc3fbf7] may direct, in relation to cases of a particular description or a particular case, that any duty imposed on a local authority under paragraph (1) will be discharged by the Welsh Ministers and not the local authority.
 
-### 30. Amendments[^key-4d6db90e6d31193dab845515b3a9e365]
+### 30. Amendments[^c-4d6db90e6d31193dab845515b3a9e365]
 
 (1) The Transport of Animals (Cleansing and Disinfection) (Wales) (No 3) Order 2003[^f00005] is amended as follows.
 
@@ -325,7 +325,7 @@ the officer as well as the body corporate is guilty of the offence and is liable
 
 (5) In article 9(4), omit “,4”.
 
-### 31. Revocations[^key-a717d8c8bddf3ab91543e2eff2ca2858]
+### 31. Revocations[^c-a717d8c8bddf3ab91543e2eff2ca2858]
 
 The Schedule (Orders revoked) has effect.
 
@@ -339,7 +339,7 @@ The Presiding Officer of the National Assembly
 
 Article 31
 
-**1.**[^key-2bd61db541dc2c4c04699de2d3402a16] The following are revoked in so far as they have effect in Wales—
+**1.**[^c-2bd61db541dc2c4c04699de2d3402a16] The following are revoked in so far as they have effect in Wales—
 
 - (a) the Transit of Animals (Road and Rail) Order 1975[^f00007];
 - (b) the Export of Animals (Protection) Order 1981[^f00008];
@@ -377,117 +377,117 @@ A Regulatory Appraisal has been prepared and copies can be obtained from the Nat
 
 [^f00002]: Footnote: Functions transferred to the National Assembly by the National Assembly (Transfer of Functions) Orders 1999 and 2004 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672) and S.I. [2004/3044](https://www.legislation.gov.uk/uksi/2004/3044) respectively).
 
-[^key-e7c759bc0cdc89e41d3ab48566a64489]: Commencement: Art. 1 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-e7c759bc0cdc89e41d3ab48566a64489]: Commencement: Art. 1 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
-[^key-dcbc7e08ceca1a0a8cfbb4b8d531a3cf]: Commencement: Art. 2 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-dcbc7e08ceca1a0a8cfbb4b8d531a3cf]: Commencement: Art. 2 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
 [^f00003]: Footnote: OJ L 3, 5.1.2005 p.1.
 
 [^f00004]: Footnote: OJ L 174, 2.7.97 p.1.
 
-[^key-32eee3a15765f9b78d9315ecea0e4056]: Textual amendment: [Art. 2(3)(c)](https://www.legislation.gov.uk/wsi/2007/1047/article/2/3/c) inserted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/261)](https://www.legislation.gov.uk/wsi/2023/261), [regs. 1(2)(c)](https://www.legislation.gov.uk/wsi/2023/261/regulation/1/2/c), [4(2)](https://www.legislation.gov.uk/wsi/2023/261/regulation/4/2)
+[^c-32eee3a15765f9b78d9315ecea0e4056]: Textual amendment: [Art. 2(3)(c)](https://www.legislation.gov.uk/wsi/2007/1047/article/2/3/c) inserted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/261)](https://www.legislation.gov.uk/wsi/2023/261), [regs. 1(2)(c)](https://www.legislation.gov.uk/wsi/2023/261/regulation/1/2/c), [4(2)](https://www.legislation.gov.uk/wsi/2023/261/regulation/4/2)
 
-[^key-62d05e4f2bc43807513dd2afdd012a58]: Textual amendment: [Art. 2(5)](https://www.legislation.gov.uk/wsi/2007/1047/article/2/5) omitted (31.12.2020) by virtue of [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-62d05e4f2bc43807513dd2afdd012a58]: Textual amendment: [Art. 2(5)](https://www.legislation.gov.uk/wsi/2007/1047/article/2/5) omitted (31.12.2020) by virtue of [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-af76171dfd05811501a921bb07755b3f]: Commencement: Art. 3 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-af76171dfd05811501a921bb07755b3f]: Commencement: Art. 3 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
-[^key-f6e53ca7d3a30f8730751acaed1b33b3]: Commencement: Art. 4 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-f6e53ca7d3a30f8730751acaed1b33b3]: Commencement: Art. 4 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
-[^key-bedaa1270edeffa364e68be1e05906f7]: Commencement: Art. 5 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-bedaa1270edeffa364e68be1e05906f7]: Commencement: Art. 5 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
-[^key-2472b31ba11a0579e2d8ef292ff959bf]: Commencement: Art. 6 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-2472b31ba11a0579e2d8ef292ff959bf]: Commencement: Art. 6 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
-[^key-9eae9c9b1c7a8a50fba15bad0c4fd518]: Commencement: Art. 7 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-9eae9c9b1c7a8a50fba15bad0c4fd518]: Commencement: Art. 7 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
-[^key-078cd90bdfaec42182306785db555f4b]: Commencement: Art. 8 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-078cd90bdfaec42182306785db555f4b]: Commencement: Art. 8 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
-[^key-96a792f36b4c07124894fad8a54060aa]: Commencement: Art. 9 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-96a792f36b4c07124894fad8a54060aa]: Commencement: Art. 9 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
-[^key-5c9a1b17a6e9b3cfc72727be0e59e141]: Commencement: Art. 10 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-5c9a1b17a6e9b3cfc72727be0e59e141]: Commencement: Art. 10 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
-[^key-46f0f19fda951752548f05022ac8bb18]: Commencement: Art. 11 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-46f0f19fda951752548f05022ac8bb18]: Commencement: Art. 11 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
-[^key-08ed34be3649c7922a9abd402c032b11]: Commencement: Art. 12 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-08ed34be3649c7922a9abd402c032b11]: Commencement: Art. 12 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
-[^key-f43479cc0b51e44e484a2b926a8e53b9]: Commencement: Art. 13 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-f43479cc0b51e44e484a2b926a8e53b9]: Commencement: Art. 13 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
-[^key-dc907827516eef82d5f8be4015e2984c]: Commencement: Art. 14 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-dc907827516eef82d5f8be4015e2984c]: Commencement: Art. 14 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
-[^key-1e00cc65acea50d36e808c5d34057a76]: Commencement: Art. 15 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-1e00cc65acea50d36e808c5d34057a76]: Commencement: Art. 15 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
-[^key-7cf14f2531779f353c4d03d20f415a9a]: Commencement: Art. 16 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-7cf14f2531779f353c4d03d20f415a9a]: Commencement: Art. 16 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
-[^key-e3152a06e8e9fc977b0fe9983474c4a8]: Commencement: Art. 17 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-e3152a06e8e9fc977b0fe9983474c4a8]: Commencement: Art. 17 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
-[^key-f6dccc8b415f0b74dbf32240c27902d5]: Commencement: Art. 18 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-f6dccc8b415f0b74dbf32240c27902d5]: Commencement: Art. 18 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
-[^key-89dcc6037f3641c582c439d3b8e4eab6]: Commencement: Art. 19 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-89dcc6037f3641c582c439d3b8e4eab6]: Commencement: Art. 19 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
-[^key-220bf09c451aab5c65473a0a5e4505ba]: Textual amendment: [Art. 20](https://www.legislation.gov.uk/wsi/2007/1047/article/20) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-220bf09c451aab5c65473a0a5e4505ba]: Textual amendment: [Art. 20](https://www.legislation.gov.uk/wsi/2007/1047/article/20) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b565d747ae252a529c0907af2350679c]: Commencement: Art. 21 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-b565d747ae252a529c0907af2350679c]: Commencement: Art. 21 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
-[^key-31919221be52848351718c3602a50887]: Commencement: Art. 22 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-31919221be52848351718c3602a50887]: Commencement: Art. 22 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
-[^key-d264cc8a6e82cacfcacf399104707bd6]: Textual amendment: Words in [art. 22(1)](https://www.legislation.gov.uk/wsi/2007/1047/article/22/1) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d264cc8a6e82cacfcacf399104707bd6]: Textual amendment: Words in [art. 22(1)](https://www.legislation.gov.uk/wsi/2007/1047/article/22/1) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-98dacc0354a065c58c7493b6efbbd6be]: Textual amendment: Words in [art. 22(2)(a)](https://www.legislation.gov.uk/wsi/2007/1047/article/22/2/a) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-98dacc0354a065c58c7493b6efbbd6be]: Textual amendment: Words in [art. 22(2)(a)](https://www.legislation.gov.uk/wsi/2007/1047/article/22/2/a) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2893a2da0abc4e40511a413d3e444f31]: Textual amendment: Words in [art. 22(3)(c)](https://www.legislation.gov.uk/wsi/2007/1047/article/22/3/c) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2893a2da0abc4e40511a413d3e444f31]: Textual amendment: Words in [art. 22(3)(c)](https://www.legislation.gov.uk/wsi/2007/1047/article/22/3/c) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-714ae15bb5268d95a62d4f710ac1c768]: Textual amendment: Words in [art. 22(4)](https://www.legislation.gov.uk/wsi/2007/1047/article/22/4) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(4)(c)(i)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/4/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-714ae15bb5268d95a62d4f710ac1c768]: Textual amendment: Words in [art. 22(4)](https://www.legislation.gov.uk/wsi/2007/1047/article/22/4) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(4)(c)(i)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/4/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b0e1eff70b96e7e60656a1946414ad5a]: Textual amendment: Words in [art. 22(4)](https://www.legislation.gov.uk/wsi/2007/1047/article/22/4) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(4)(c)(ii)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/4/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b0e1eff70b96e7e60656a1946414ad5a]: Textual amendment: Words in [art. 22(4)](https://www.legislation.gov.uk/wsi/2007/1047/article/22/4) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(4)(c)(ii)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/4/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8d74ef76a1e624c424ac7442259e20a8]: Textual amendment: Words in [art. 22(5)](https://www.legislation.gov.uk/wsi/2007/1047/article/22/5) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8d74ef76a1e624c424ac7442259e20a8]: Textual amendment: Words in [art. 22(5)](https://www.legislation.gov.uk/wsi/2007/1047/article/22/5) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9d4de459c5d907c8df8dc494bf94a802]: Commencement: Art. 23 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-9d4de459c5d907c8df8dc494bf94a802]: Commencement: Art. 23 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
-[^key-35f83bf2c01ac727b88d331a1991e277]: Textual amendment: Words in [art. 23(1)](https://www.legislation.gov.uk/wsi/2007/1047/article/23/1) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(5)(a)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-35f83bf2c01ac727b88d331a1991e277]: Textual amendment: Words in [art. 23(1)](https://www.legislation.gov.uk/wsi/2007/1047/article/23/1) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(5)(a)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-479d1e36569cb6ebe1f11ed701013d80]: Textual amendment: Words in [art. 23(2)](https://www.legislation.gov.uk/wsi/2007/1047/article/23/2) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(5)(b)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-479d1e36569cb6ebe1f11ed701013d80]: Textual amendment: Words in [art. 23(2)](https://www.legislation.gov.uk/wsi/2007/1047/article/23/2) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(5)(b)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6fe9507030a9f2804152fdb092d94a3c]: Textual amendment: Words in [art. 23(3)](https://www.legislation.gov.uk/wsi/2007/1047/article/23/3) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(5)(a)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6fe9507030a9f2804152fdb092d94a3c]: Textual amendment: Words in [art. 23(3)](https://www.legislation.gov.uk/wsi/2007/1047/article/23/3) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(5)(a)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d08cbde1c4f8ce56e782e83d8760ccd9]: Textual amendment: Words in [art. 23(4)](https://www.legislation.gov.uk/wsi/2007/1047/article/23/4) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(5)(c)(i)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/5/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d08cbde1c4f8ce56e782e83d8760ccd9]: Textual amendment: Words in [art. 23(4)](https://www.legislation.gov.uk/wsi/2007/1047/article/23/4) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(5)(c)(i)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/5/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c2bbcc967fcfbfb3ddee2660654dc6dc]: Textual amendment: Word in [art. 23(4)](https://www.legislation.gov.uk/wsi/2007/1047/article/23/4) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(5)(c)(ii)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/5/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c2bbcc967fcfbfb3ddee2660654dc6dc]: Textual amendment: Word in [art. 23(4)](https://www.legislation.gov.uk/wsi/2007/1047/article/23/4) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(5)(c)(ii)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/5/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d45ac2f2837218977f2a8a6d91642a2a]: Commencement: Art. 24 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-d45ac2f2837218977f2a8a6d91642a2a]: Commencement: Art. 24 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
-[^key-83a1c9ca5556ad0a41ad660ea638c0a3]: Textual amendment: [Art. 24(4)](https://www.legislation.gov.uk/wsi/2007/1047/article/24/4) substituted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/261)](https://www.legislation.gov.uk/wsi/2023/261), [regs. 1(2)(c)](https://www.legislation.gov.uk/wsi/2023/261/regulation/1/2/c), [4(3)(a)](https://www.legislation.gov.uk/wsi/2023/261/regulation/4/3/a)
+[^c-83a1c9ca5556ad0a41ad660ea638c0a3]: Textual amendment: [Art. 24(4)](https://www.legislation.gov.uk/wsi/2007/1047/article/24/4) substituted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/261)](https://www.legislation.gov.uk/wsi/2023/261), [regs. 1(2)(c)](https://www.legislation.gov.uk/wsi/2023/261/regulation/1/2/c), [4(3)(a)](https://www.legislation.gov.uk/wsi/2023/261/regulation/4/3/a)
 
-[^key-5d443d56ccf6b661bebe0e3160f28a65]: Textual amendment: Words in [art. 24(7)](https://www.legislation.gov.uk/wsi/2007/1047/article/24/7) substituted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/261)](https://www.legislation.gov.uk/wsi/2023/261), [regs. 1(2)(c)](https://www.legislation.gov.uk/wsi/2023/261/regulation/1/2/c), [4(3)(b)](https://www.legislation.gov.uk/wsi/2023/261/regulation/4/3/b)
+[^c-5d443d56ccf6b661bebe0e3160f28a65]: Textual amendment: Words in [art. 24(7)](https://www.legislation.gov.uk/wsi/2007/1047/article/24/7) substituted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/261)](https://www.legislation.gov.uk/wsi/2023/261), [regs. 1(2)(c)](https://www.legislation.gov.uk/wsi/2023/261/regulation/1/2/c), [4(3)(b)](https://www.legislation.gov.uk/wsi/2023/261/regulation/4/3/b)
 
-[^key-39bb14274618504979e0ff5fba785016]: Textual amendment: Words in [art. 24(9)](https://www.legislation.gov.uk/wsi/2007/1047/article/24/9) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(6)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-39bb14274618504979e0ff5fba785016]: Textual amendment: Words in [art. 24(9)](https://www.legislation.gov.uk/wsi/2007/1047/article/24/9) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(6)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3cd6642b4a0fd2a7b02d891513f75e33]: Commencement: Art. 25 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-3cd6642b4a0fd2a7b02d891513f75e33]: Commencement: Art. 25 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
-[^key-2f88ee1d1c716cde678c0e590b71ae22]: Commencement: Art. 26 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-2f88ee1d1c716cde678c0e590b71ae22]: Commencement: Art. 26 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
-[^key-1e86a6ca67c9df42be4a4180a29891ff]: Textual amendment: Words in [art. 26(1)(a)](https://www.legislation.gov.uk/wsi/2007/1047/article/26/1/a) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(6)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1e86a6ca67c9df42be4a4180a29891ff]: Textual amendment: Words in [art. 26(1)(a)](https://www.legislation.gov.uk/wsi/2007/1047/article/26/1/a) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(6)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8f287ea245c6edd19ca99a0f7dbf35bd]: Commencement: Art. 27 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-8f287ea245c6edd19ca99a0f7dbf35bd]: Commencement: Art. 27 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
-[^key-e632bafc5c9c7b9a2ea5d4ccca148d20]: Textual amendment: Words in [art. 27(a)](https://www.legislation.gov.uk/wsi/2007/1047/article/27/a) inserted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/261)](https://www.legislation.gov.uk/wsi/2023/261), [regs. 1(2)(c)](https://www.legislation.gov.uk/wsi/2023/261/regulation/1/2/c), [4(4)](https://www.legislation.gov.uk/wsi/2023/261/regulation/4/4)
+[^c-e632bafc5c9c7b9a2ea5d4ccca148d20]: Textual amendment: Words in [art. 27(a)](https://www.legislation.gov.uk/wsi/2007/1047/article/27/a) inserted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/261)](https://www.legislation.gov.uk/wsi/2023/261), [regs. 1(2)(c)](https://www.legislation.gov.uk/wsi/2023/261/regulation/1/2/c), [4(4)](https://www.legislation.gov.uk/wsi/2023/261/regulation/4/4)
 
-[^key-15225191b87ee8a8e4367af8cb89b137]: Textual amendment: Words in [art. 27(b)](https://www.legislation.gov.uk/wsi/2007/1047/article/27/b) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(6)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-15225191b87ee8a8e4367af8cb89b137]: Textual amendment: Words in [art. 27(b)](https://www.legislation.gov.uk/wsi/2007/1047/article/27/b) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(6)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f8d27c0c2168b9231280ccfd9003cb07]: Commencement: Art. 28 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-f8d27c0c2168b9231280ccfd9003cb07]: Commencement: Art. 28 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
-[^key-153e06837b4b9a2a9c7c2614905ee7e0]: Commencement: Art. 29 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-153e06837b4b9a2a9c7c2614905ee7e0]: Commencement: Art. 29 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
-[^key-24d8cbaa654c99f55966313dcdc3fbf7]: Textual amendment: Words in [art. 29(2)](https://www.legislation.gov.uk/wsi/2007/1047/article/29/2) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(6)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-24d8cbaa654c99f55966313dcdc3fbf7]: Textual amendment: Words in [art. 29(2)](https://www.legislation.gov.uk/wsi/2007/1047/article/29/2) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [3(6)](https://www.legislation.gov.uk/wsi/2019/684/regulation/3/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4d6db90e6d31193dab845515b3a9e365]: Commencement: Art. 30 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-4d6db90e6d31193dab845515b3a9e365]: Commencement: Art. 30 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
 [^f00005]: Footnote: [O.S. 2003/1968 (Cy.213)](https://www.legislation.gov.uk/wsi/2003/1968).
 
-[^key-a717d8c8bddf3ab91543e2eff2ca2858]: Commencement: Art. 31 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-a717d8c8bddf3ab91543e2eff2ca2858]: Commencement: Art. 31 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
 [^f00006]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-2bd61db541dc2c4c04699de2d3402a16]: Commencement: Sch. para. 1 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
+[^c-2bd61db541dc2c4c04699de2d3402a16]: Commencement: Sch. para. 1 in force at 30.3.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/1047/article/1)
 
 [^f00007]: Footnote: S.I. [1975/1024](https://www.legislation.gov.uk/uksi/1975/1024).
 

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Application of offences etc. applying to constables[^key-0f8c76d302ab47d7cd1e3a449b4e1228]
+## 68. Application of offences etc. applying to constables[^c-0f8c76d302ab47d7cd1e3a449b4e1228]
 
 *Extent: E+W+S*
 
-(1) The references in section 89(1) and (2) of the Police Act 1996 [^key-3cab8de4c859ba2427c7a92e8bdab0e6]... (assaults on constables) to a constable in the execution of his duty shall have effect as if they included references to a member of the Constabulary who—
+(1) The references in section 89(1) and (2) of the Police Act 1996 [^c-3cab8de4c859ba2427c7a92e8bdab0e6]... (assaults on constables) to a constable in the execution of his duty shall have effect as if they included references to a member of the Constabulary who—
 
 - (a) is exercising any of the powers or privileges conferred on him by section 56; or
 - (b) is otherwise performing his duties under the direction and control of the chief constable or as an employee of the Police Authority.
@@ -37,11 +37,11 @@ summary: ''
 >
 > as it applies in the case of members of a police force.
 
-(4)[^key-36ff240179b809f816841aa4957e012d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-36ff240179b809f816841aa4957e012d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-36ff240179b809f816841aa4957e012d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-36ff240179b809f816841aa4957e012d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-36ff240179b809f816841aa4957e012d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-36ff240179b809f816841aa4957e012d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In any enactment—
 
@@ -50,8 +50,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0f8c76d302ab47d7cd1e3a449b4e1228]: Commencement: S. 68 in force at 1.4.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+[^c-0f8c76d302ab47d7cd1e3a449b4e1228]: Commencement: S. 68 in force at 1.4.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
 
-[^key-3cab8de4c859ba2427c7a92e8bdab0e6]: Textual amendment: Words in s. 68(1) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 44(6)(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/44/6/a)
+[^c-3cab8de4c859ba2427c7a92e8bdab0e6]: Textual amendment: Words in s. 68(1) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 44(6)(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/44/6/a)
 
-[^key-36ff240179b809f816841aa4957e012d]: Textual amendment: S. 68(4)(5)(6) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 44(6)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/44/6/b)
+[^c-36ff240179b809f816841aa4957e012d]: Textual amendment: S. 68(4)(5)(6) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 44(6)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/44/6/b)

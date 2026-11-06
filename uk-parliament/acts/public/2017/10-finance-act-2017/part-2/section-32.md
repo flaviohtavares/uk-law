@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Chargeable events: soft drinks packaged in the UK[^key-98d0adc19a46f1b1cabe575469fa6c69]
+## 32. Chargeable events: soft drinks packaged in the UK[^c-98d0adc19a46f1b1cabe575469fa6c69]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ in compliance with such conditions and requirements as may be imposed by regulat
 
 ## Annotations
 
-[^key-98d0adc19a46f1b1cabe575469fa6c69]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2017/10/section/32) in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)
+[^c-98d0adc19a46f1b1cabe575469fa6c69]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2017/10/section/32) in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)

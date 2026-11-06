@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation, commencement and interpretation[^key-294ae5192f165cf5cf190931235d1231]
+## 1. Citation, commencement and interpretation[^c-294ae5192f165cf5cf190931235d1231]
 
 *Extent: N.I.*
 
@@ -56,7 +56,7 @@ summary: ''
 
 ## Annotations
 
-[^key-294ae5192f165cf5cf190931235d1231]: Commencement: Art. 1 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-294ae5192f165cf5cf190931235d1231]: Commencement: Art. 1 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
 
 [^f00003]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)
 

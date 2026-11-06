@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 4.2. Documents etc. to be submitted to Diocesan Advisory Committee[^key-b73abe952f627b235fcb14caa18f9263]
+## 4.2. Documents etc. to be submitted to Diocesan Advisory Committee[^c-b73abe952f627b235fcb14caa18f9263]
 
 *Extent: E*
 
@@ -28,8 +28,8 @@ summary: ''
 (2) Intending applicants must submit the following to the Diocesan Advisory Committee when proposals reach the stage at which they are available—
 
 - (a) any relevant designs, plans or photographs;
-- (b) any advice or other material relating to the environmental implications of the works or proposals including, in the case of matters to which net zero guidance applies, an explanation of how the intending applicants, in formulating the proposals, have had due regard to that guidance[^key-498d4aa6c29bc308d796bbb882336995];
-- (ba)[^key-473a0b941deb1503f69e1c57f7c6c381] where proposals involve the movement, removal or alteration of a statue, plaque, memorial, monument or other article because it is considered to conflict with the role of a church as a local centre of worship and mission, an explanation of how the intending applicants, in formulating the proposals, have had due regard to guidance issued for the purposes of this sub-paragraph by the Church Buildings Council under section 55 of the Dioceses, Pastoral and Mission Measure 2007;
+- (b) any advice or other material relating to the environmental implications of the works or proposals including, in the case of matters to which net zero guidance applies, an explanation of how the intending applicants, in formulating the proposals, have had due regard to that guidance[^c-498d4aa6c29bc308d796bbb882336995];
+- (ba)[^c-473a0b941deb1503f69e1c57f7c6c381] where proposals involve the movement, removal or alteration of a statue, plaque, memorial, monument or other article because it is considered to conflict with the role of a church as a local centre of worship and mission, an explanation of how the intending applicants, in formulating the proposals, have had due regard to guidance issued for the purposes of this sub-paragraph by the Church Buildings Council under section 55 of the Dioceses, Pastoral and Mission Measure 2007;
 - (c) any other documents giving particulars of the works or proposals; and
 - (d) any relevant correspondence with Historic England, Natural England, a national amenity society, the local planning authority or the Church Buildings Council.
 
@@ -37,8 +37,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b73abe952f627b235fcb14caa18f9263]: Textual amendment: Pt. 4 substituted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1184/rule/6) (with [rule 23(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/2))
+[^c-b73abe952f627b235fcb14caa18f9263]: Textual amendment: Pt. 4 substituted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1184/rule/6) (with [rule 23(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/2))
 
-[^key-498d4aa6c29bc308d796bbb882336995]: Textual amendment: Words in rule 4.2(2)(b) inserted (1.7.2022) by [The Faculty Jurisdiction (Amendment) Rules 2022 (S.I. 2022/155)](https://www.legislation.gov.uk/uksi/2022/155), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/155/rule/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/155/rule/2/3) (with [rule 6(2)](https://www.legislation.gov.uk/uksi/2022/155/rule/6/2))
+[^c-498d4aa6c29bc308d796bbb882336995]: Textual amendment: Words in rule 4.2(2)(b) inserted (1.7.2022) by [The Faculty Jurisdiction (Amendment) Rules 2022 (S.I. 2022/155)](https://www.legislation.gov.uk/uksi/2022/155), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/155/rule/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/155/rule/2/3) (with [rule 6(2)](https://www.legislation.gov.uk/uksi/2022/155/rule/6/2))
 
-[^key-473a0b941deb1503f69e1c57f7c6c381]: Textual amendment: Rule 4.2(2)(ba) inserted (1.1.2024) by [The Faculty Jurisdiction (Amendment) Rules 2023 (S.I. 2023/866)](https://www.legislation.gov.uk/uksi/2023/866), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/866/rule/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/866/rule/2/1) (with [rule 5(1)](https://www.legislation.gov.uk/uksi/2023/866/rule/5/1))
+[^c-473a0b941deb1503f69e1c57f7c6c381]: Textual amendment: Rule 4.2(2)(ba) inserted (1.1.2024) by [The Faculty Jurisdiction (Amendment) Rules 2023 (S.I. 2023/866)](https://www.legislation.gov.uk/uksi/2023/866), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/866/rule/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/866/rule/2/1) (with [rule 5(1)](https://www.legislation.gov.uk/uksi/2023/866/rule/5/1))

@@ -243,7 +243,7 @@ Section 4.
 
 **4.** (1) In section 5(2A)(a)(i) of the Historic Buildings and Ancient Monuments Act 1953, for “section 262 of the Town and Country Planning (Scotland) Act 1972” substitute “ section 61 of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 ”.
 
-(2)[^key-fee686c88e50b7f1524b35189aed15ca] In section 6(1) of that Act, for “section thirty-eight of the Town and Country Planning (Scotland) Act 1947” substitute “ section 42 of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 ”. *(affected by repeal, see note)*[^key-fee686c88e50b7f1524b35189aed15ca]
+(2)[^c-fee686c88e50b7f1524b35189aed15ca] In section 6(1) of that Act, for “section thirty-eight of the Town and Country Planning (Scotland) Act 1947” substitute “ section 42 of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 ”. *(affected by repeal, see note)*[^c-fee686c88e50b7f1524b35189aed15ca]
 
 ### The Opencast Coal Act 1958 (c. 69)
 
@@ -266,7 +266,7 @@ Section 4.
 
 ### The Building (Scotland) Act 1959 (c. 24)
 
-**6.**[^key-590830851eed7481fc1a3b98b44ab66a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-590830851eed7481fc1a3b98b44ab66a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Town and Country Planning (Scotland) Act 1959 (c. 70)
 
@@ -280,7 +280,7 @@ Section 4.
 
 ### The Flood Prevention (Scotland) Act 1961 (c. 41)
 
-**8.**[^key-28d8b096433766e07794d1af2b5723bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-28d8b096433766e07794d1af2b5723bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Land Compensation (Scotland) Act 1963 (c. 51)
 
@@ -498,7 +498,7 @@ Section 4.
 
 ### The Control of Pollution Act 1974 (c. 40)
 
-**23.** (1)[^key-335f4ed5df017810cdd21303604ec6dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.** (1)[^c-335f4ed5df017810cdd21303604ec6dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 105(3) of that Act, for “subsection (7) of section 253 of the Town and Country Planning (Scotland) Act 1972” substitute “ subsections (1) to (3) of section 242 of the Town and Country Planning (Scotland) Act 1997 ”.
 
@@ -746,7 +746,7 @@ Section 4.
 
 ### The Telecommunications Act 1984 (c. 12)
 
-**37.**[^key-0cc09b1ce53aebbd3d2fcd32b507ebc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-0cc09b1ce53aebbd3d2fcd32b507ebc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Roads (Scotland) Act 1984 (c. 54)
 
@@ -943,7 +943,7 @@ Section 4.
 
 ### The Radioactive Substances Act 1993 (c. 12)
 
-**54.**[^key-08050e06c1fc09e0d474241a0f404e38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**54.**[^c-08050e06c1fc09e0d474241a0f404e38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Crofters (Scotland) Act 1993 (c. 44)
 
@@ -1076,25 +1076,25 @@ Section 5.
 
 [^c863066]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2/paragraph/1) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/IV) Group 2
 
-[^key-fee686c88e50b7f1524b35189aed15ca]: Textual amendment: Sch. 2 para. 4(2) omitted (W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 176](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/176) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-fee686c88e50b7f1524b35189aed15ca]: Textual amendment: Sch. 2 para. 4(2) omitted (W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 176](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/176) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-590830851eed7481fc1a3b98b44ab66a]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2/paragraph/6) repealed (1.5.2005) by [Building (Scotland) Act 2003 (asp 8)](https://www.legislation.gov.uk/asp/2003/8), [s. 59(1)](https://www.legislation.gov.uk/asp/2003/8/section/59/1), [Sch. 6 para. 23](https://www.legislation.gov.uk/asp/2003/8/schedule/6/paragraph/23) (with [s. 53](https://www.legislation.gov.uk/asp/2003/8/section/53)); [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-590830851eed7481fc1a3b98b44ab66a]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2/paragraph/6) repealed (1.5.2005) by [Building (Scotland) Act 2003 (asp 8)](https://www.legislation.gov.uk/asp/2003/8), [s. 59(1)](https://www.legislation.gov.uk/asp/2003/8/section/59/1), [Sch. 6 para. 23](https://www.legislation.gov.uk/asp/2003/8/schedule/6/paragraph/23) (with [s. 53](https://www.legislation.gov.uk/asp/2003/8/section/53)); [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
 
-[^key-28d8b096433766e07794d1af2b5723bd]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2/paragraph/8) repealed (24.12.2010) by [Flood Risk Management (Scotland) Act 2009 (asp 6)](https://www.legislation.gov.uk/asp/2009/6), [s. 97(1)](https://www.legislation.gov.uk/asp/2009/6/section/97/1), [Sch. 3 para. 9](https://www.legislation.gov.uk/asp/2009/6/schedule/3/paragraph/9) (with [s. 91](https://www.legislation.gov.uk/asp/2009/6/section/91)); [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(h)](https://www.legislation.gov.uk/ssi/2010/401/article/3/h)
+[^c-28d8b096433766e07794d1af2b5723bd]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2/paragraph/8) repealed (24.12.2010) by [Flood Risk Management (Scotland) Act 2009 (asp 6)](https://www.legislation.gov.uk/asp/2009/6), [s. 97(1)](https://www.legislation.gov.uk/asp/2009/6/section/97/1), [Sch. 3 para. 9](https://www.legislation.gov.uk/asp/2009/6/schedule/3/paragraph/9) (with [s. 91](https://www.legislation.gov.uk/asp/2009/6/section/91)); [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(h)](https://www.legislation.gov.uk/ssi/2010/401/article/3/h)
 
 [^c863067]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2/paragraph/12) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/IV) Group 2
 
 [^c863068]: Textual amendment: [Sch. 2 para. 19(1)](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2/paragraph/19/1) repealed (26.3.2001) by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [art. 3(2)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/1149/schedule/2) (with [art. 4(11)](https://www.legislation.gov.uk/uksi/2001/1149/article/4/11))
 
-[^key-335f4ed5df017810cdd21303604ec6dc]: Textual amendment: [Sch. 2 para. 23(1)](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2/paragraph/23/1) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 33](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/33); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-335f4ed5df017810cdd21303604ec6dc]: Textual amendment: [Sch. 2 para. 23(1)](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2/paragraph/23/1) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 33](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/33); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-0cc09b1ce53aebbd3d2fcd32b507ebc9]: Textual amendment: [Sch. 2 para. 37](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2/paragraph/37) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-0cc09b1ce53aebbd3d2fcd32b507ebc9]: Textual amendment: [Sch. 2 para. 37](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2/paragraph/37) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c863069]: Textual amendment: [Sch. 2 para. 40(3)](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2/paragraph/40/3) repealed (30.9.2002) by [2001 asp 10](https://www.legislation.gov.uk/asp/2001/10), [s. 112](https://www.legislation.gov.uk/asp/2001/10/section/112), [Sch. 10 para. 25](https://www.legislation.gov.uk/asp/2001/10/schedule/10/paragraph/25); [S.S.I. 2002/321](https://www.legislation.gov.uk/ssi/2002/321), [art. 2(2)](https://www.legislation.gov.uk/ssi/2002/321/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2002/321/schedule)
 
 [^c863070]: Textual amendment: [Sch. 2 para. 45](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2/paragraph/45) repealed (22.3.2001 with effect as mentioned in [s. 579(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/579/1) of the amending Act) by [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2), [s. 580](https://www.legislation.gov.uk/ukpga/2001/2/section/580), [Sch. 4](https://www.legislation.gov.uk/ukpga/2001/2/schedule/4)
 
-[^key-08050e06c1fc09e0d474241a0f404e38]: Textual amendment: [Sch. 2 para. 54](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2/paragraph/54) repealed (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2018/219/schedule/7/paragraph/1) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
+[^c-08050e06c1fc09e0d474241a0f404e38]: Textual amendment: [Sch. 2 para. 54](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2/paragraph/54) repealed (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2018/219/schedule/7/paragraph/1) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
 
 [^c863071]: Textual amendment: [Sch. 2 para. 58](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2/paragraph/58) repealed (1.4.2002) by [2002 asp 3](https://www.legislation.gov.uk/asp/2002/3), [s. 71(2)](https://www.legislation.gov.uk/asp/2002/3/section/71/2), [Sch. 7 para. 25](https://www.legislation.gov.uk/asp/2002/3/schedule/7/paragraph/25) (with [s. 67](https://www.legislation.gov.uk/asp/2002/3/section/67)); [S.S.I. 2002/118](https://www.legislation.gov.uk/ssi/2002/118), [art. 2(3)](https://www.legislation.gov.uk/ssi/2002/118/article/2/3)
 

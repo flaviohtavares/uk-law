@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Certificates to be copied to Registrar General[^key-e70a6a0e29db2fa5ad88d67b6b3fd517]
+## 44. Certificates to be copied to Registrar General[^c-e70a6a0e29db2fa5ad88d67b6b3fd517]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ In section 10 (registration), before subsection (2) insert—
 
 ## Annotations
 
-[^key-e70a6a0e29db2fa5ad88d67b6b3fd517]: Commencement: Reg. 44 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-e70a6a0e29db2fa5ad88d67b6b3fd517]: Commencement: Reg. 44 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)

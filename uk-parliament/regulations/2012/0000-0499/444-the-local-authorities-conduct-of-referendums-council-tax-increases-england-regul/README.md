@@ -42,7 +42,7 @@ Coming into force in accordance with regulation 1
 
 The Secretary of State has consulted the Electoral Commission about these Regulations in accordance with section 52ZQ(6) of that Act.
 
-In accordance with section 52ZQ(7) of that Act, a draft of this instrument has been laid before and approved by a resolution of each House of Parliament.[^key-903c0bcce71cf4496fc4a3cd15b27339]
+In accordance with section 52ZQ(7) of that Act, a draft of this instrument has been laid before and approved by a resolution of each House of Parliament.[^c-903c0bcce71cf4496fc4a3cd15b27339]
 
 ## Contents
 
@@ -148,4 +148,4 @@ A full impact assessment has not been produced for these Regulations as no impac
 
 [^c21182911]: Textual amendment: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14). Section 52ZQ was inserted into the Local Government Finance Act 1992 by Schedule 5 to the [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) and section 113 was amended by paragraph 32 of Schedule 6 to that Act.
 
-[^key-903c0bcce71cf4496fc4a3cd15b27339]: Textual amendment: Regulations applied (with modifications) (27.4.2017) by [The Combined Authorities (Finance) Order 2017 (S.I. 2017/611)](https://www.legislation.gov.uk/uksi/2017/611), [arts. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1), [4(1)(2)(c)](https://www.legislation.gov.uk/uksi/2017/611/article/4/1/2/c), [Sch.](https://www.legislation.gov.uk/uksi/2017/611/schedule) (as amended (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2024/652/regulation/3/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4)))
+[^c-903c0bcce71cf4496fc4a3cd15b27339]: Textual amendment: Regulations applied (with modifications) (27.4.2017) by [The Combined Authorities (Finance) Order 2017 (S.I. 2017/611)](https://www.legislation.gov.uk/uksi/2017/611), [arts. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1), [4(1)(2)(c)](https://www.legislation.gov.uk/uksi/2017/611/article/4/1/2/c), [Sch.](https://www.legislation.gov.uk/uksi/2017/611/schedule) (as amended (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2024/652/regulation/3/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4)))

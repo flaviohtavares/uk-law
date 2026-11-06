@@ -33,7 +33,7 @@ summary: ''
 - (g) a drug treatment requirement,
 - (h) an alcohol treatment requirement,
 - (i) a conduct requirement.
-- (j)[^key-312bf2dce59e013357a8bd7501e2f06b] a restricted movement requirement.
+- (j)[^c-312bf2dce59e013357a8bd7501e2f06b] a restricted movement requirement.
 
 (3) Subsection (4) applies where—
 
@@ -71,4 +71,4 @@ summary: ''
 
 [^c20919581]: Textual amendment: Ss. 227A-227ZN and cross-headings inserted (1.2.2011 except for the insertion of s. 227ZM, 1.4.2011 in so far as not already in force) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 14(1)](https://www.legislation.gov.uk/asp/2010/13/section/14/1), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))
 
-[^key-312bf2dce59e013357a8bd7501e2f06b]: Textual amendment: [S. 227A(2)(j)](https://www.legislation.gov.uk/ukpga/1995/46/section/227A/2/j) inserted (17.5.2022) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [s. 63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2), [sch. 1 para. 2(2)](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/2/2); [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(l)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/l) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/3/2))
+[^c-312bf2dce59e013357a8bd7501e2f06b]: Textual amendment: [S. 227A(2)(j)](https://www.legislation.gov.uk/ukpga/1995/46/section/227A/2/j) inserted (17.5.2022) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [s. 63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2), [sch. 1 para. 2(2)](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/2/2); [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(l)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/l) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/3/2))

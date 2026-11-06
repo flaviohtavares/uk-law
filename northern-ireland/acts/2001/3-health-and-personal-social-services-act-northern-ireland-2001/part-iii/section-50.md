@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50. Disclosure of information by the Commissioner for Complaints[^key-b1f6dd4c84850f545d01bb91ae23e05f]
+## 50. Disclosure of information by the Commissioner for Complaints[^c-b1f6dd4c84850f545d01bb91ae23e05f]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1f6dd4c84850f545d01bb91ae23e05f]: Textual amendment: [S. 50](https://www.legislation.gov.uk/nia/2001/3/section/50) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))
+[^c-b1f6dd4c84850f545d01bb91ae23e05f]: Textual amendment: [S. 50](https://www.legislation.gov.uk/nia/2001/3/section/50) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))

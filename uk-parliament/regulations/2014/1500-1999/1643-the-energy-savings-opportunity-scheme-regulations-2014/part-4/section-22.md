@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A responsible undertaking must [^key-fb020087e184c71091281366e1e084dc]... calculate the participant's total energy consumption.
+(1) A responsible undertaking must [^c-fb020087e184c71091281366e1e084dc]... calculate the participant's total energy consumption.
 
 (2) The calculation referred to in paragraph (1) must—
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb020087e184c71091281366e1e084dc]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/22/1) omitted (29.11.2023) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2023/1182/regulation/11)
+[^c-fb020087e184c71091281366e1e084dc]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/22/1) omitted (29.11.2023) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2023/1182/regulation/11)

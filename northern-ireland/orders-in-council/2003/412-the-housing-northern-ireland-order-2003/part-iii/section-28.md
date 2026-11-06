@@ -24,10 +24,10 @@ summary: ''
 
 - “dwelling” means a building or part of a building occupied or intended to be occupied as a separate dwelling, together with any yard, garden, outhouses and appurtenances belonging to it or usually enjoyed with it;
 - “elderly” means aged 60 years or over;
-- “house in multiple occupation” has the meaning given by section 1 of the Act of 2016[^key-6b0e3e1895631a520e74f45a4ad48800] ;
+- “house in multiple occupation” has the meaning given by section 1 of the Act of 2016[^c-6b0e3e1895631a520e74f45a4ad48800] ;
 - “housing action area” has the same meaning as in Article 2(2) of the Order of 1981;
 - “improvement” includes alteration and enlargement;
-- “owner”, in relation to a dwelling, has the meaning given by Article 32, and, in relation to a house in multiple occupation, has the meaning given by section 88(5) and (6) of the Act of 2016[^key-b3ff30e83a857277b499aa9b08e69d60] ;
+- “owner”, in relation to a dwelling, has the meaning given by Article 32, and, in relation to a house in multiple occupation, has the meaning given by section 88(5) and (6) of the Act of 2016[^c-b3ff30e83a857277b499aa9b08e69d60] ;
 - “owner's interest”, in relation to any premises, means—
   - (a) a freehold estate in possession (whether legal or equitable), or
   - (b) an interest under a tenancy granted or extended for a term of years of which not less than 10 years remain unexpired at the date of the application,
@@ -50,9 +50,9 @@ summary: ''
 
 ## Annotations
 
-[^key-6b0e3e1895631a520e74f45a4ad48800]: Textual amendment: Words in [art. 28(1)](https://www.legislation.gov.uk/nisi/2003/412/article/28/1) substituted (1.4.2019) by [Houses in Multiple Occupation Act (Northern Ireland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 7 para. 6(1)(a)](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/6/1/a); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-6b0e3e1895631a520e74f45a4ad48800]: Textual amendment: Words in [art. 28(1)](https://www.legislation.gov.uk/nisi/2003/412/article/28/1) substituted (1.4.2019) by [Houses in Multiple Occupation Act (Northern Ireland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 7 para. 6(1)(a)](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/6/1/a); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-b3ff30e83a857277b499aa9b08e69d60]: Textual amendment: Words in [art. 28(1)](https://www.legislation.gov.uk/nisi/2003/412/article/28/1) substituted (1.4.2019) by [Houses in Multiple Occupation Act (Northern Ireland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 7 para. 6(1)(b)](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/6/1/b); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-b3ff30e83a857277b499aa9b08e69d60]: Textual amendment: Words in [art. 28(1)](https://www.legislation.gov.uk/nisi/2003/412/article/28/1) substituted (1.4.2019) by [Houses in Multiple Occupation Act (Northern Ireland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 7 para. 6(1)(b)](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/6/1/b); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
 [^c17101691]: Textual amendment: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 

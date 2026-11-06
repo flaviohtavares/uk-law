@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 378. Other powers of the court to bind over to keep the peace[^key-47baf9e7b2951f15fa3c79adf21cb9b1]
+## 378. Other powers of the court to bind over to keep the peace[^c-47baf9e7b2951f15fa3c79adf21cb9b1]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47baf9e7b2951f15fa3c79adf21cb9b1]: Commencement: [S. 378](https://www.legislation.gov.uk/ukpga/2020/17/section/378) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-47baf9e7b2951f15fa3c79adf21cb9b1]: Commencement: [S. 378](https://www.legislation.gov.uk/ukpga/2020/17/section/378) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

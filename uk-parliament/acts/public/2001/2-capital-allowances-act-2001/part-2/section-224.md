@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 224. Restriction on B’s qualifying expenditure[^key-9d99be5dbe86decb74859febaf559060]
+## 224. Restriction on B’s qualifying expenditure[^c-9d99be5dbe86decb74859febaf559060]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d99be5dbe86decb74859febaf559060]: Textual amendment: S. 224 omitted (with effect in accordance with Sch. 20 para. 6(19) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 6(12)(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/6/12/c)
+[^c-9d99be5dbe86decb74859febaf559060]: Textual amendment: S. 224 omitted (with effect in accordance with Sch. 20 para. 6(19) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 6(12)(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/6/12/c)

@@ -26,23 +26,23 @@ Section 6
 
 #### Introduction
 
-**1.**[^key-853fa0eb75c13357b72ed216bac0e34e] The Criminal Justice Act 2003 is amended as follows.
+**1.**[^c-853fa0eb75c13357b72ed216bac0e34e] The Criminal Justice Act 2003 is amended as follows.
 
 #### Sentence
 
-**2.**[^key-d9bc33954cb1cf435d948f816e8f0159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d9bc33954cb1cf435d948f816e8f0159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d9bc33954cb1cf435d948f816e8f0159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d9bc33954cb1cf435d948f816e8f0159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Offences of particular concern
 
-**4.**[^key-d9bc33954cb1cf435d948f816e8f0159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d9bc33954cb1cf435d948f816e8f0159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Release on licence to be directed by Parole Board
 
-**5.**[^key-4659aa91b88578ba5aab4ada65505688] In section 244(1) (duty to release prisoners), after “243A” insert “ , 244A ”.
+**5.**[^c-4659aa91b88578ba5aab4ada65505688] In section 244(1) (duty to release prisoners), after “243A” insert “ , 244A ”.
 
-**6.**[^key-1ad0e4374d1ca70dba6fe271bca26ea3] After section 244 insert—
+**6.**[^c-1ad0e4374d1ca70dba6fe271bca26ea3] After section 244 insert—
 
 > **244A. Release on licence of prisoners serving sentence under section 236A**
 >
@@ -72,7 +72,7 @@ Section 6
 >   - (a) in relation to a person serving one sentence, one-half of the appropriate custodial term, and
 >   - (b) in relation to a person serving two or more concurrent or consecutive sentences, the period determined under sections 263(2) and 264(2).
 
-**7.**[^key-93d155318b1955eab6e2ec961defbc4f] (1) Section 246 (power to release prisoners on licence before required to do so) is amended as follows.
+**7.**[^c-93d155318b1955eab6e2ec961defbc4f] (1) Section 246 (power to release prisoners on licence before required to do so) is amended as follows.
 
 (2) In subsection (4)(a) (disapplication of power), for “or 228” substitute “ , 228 or 236A ”.
 
@@ -82,7 +82,7 @@ Section 6
 
 #### Armed Forces Act 2006 (c. 52)
 
-**8.**[^key-aff9f934025698b90f2ceaacbd83b413] In the Armed Forces Act 2006, after section 224 insert—
+**8.**[^c-aff9f934025698b90f2ceaacbd83b413] In the Armed Forces Act 2006, after section 224 insert—
 
 > **224A. Special custodial sentence for certain offenders of particular concern**
 >
@@ -105,19 +105,19 @@ Section 6
 
 #### Application of new provisions about special custodial sentences
 
-**9.**[^key-8a7e2715aabf87acfc60df6751f49c34] (1) Section 236A of the Criminal Justice Act 2003, inserted by paragraph 2 of this Schedule, applies in relation to the sentencing of a person for an offence after that paragraph comes into force, whether the person was convicted of the offence before or after it comes into force.
+**9.**[^c-8a7e2715aabf87acfc60df6751f49c34] (1) Section 236A of the Criminal Justice Act 2003, inserted by paragraph 2 of this Schedule, applies in relation to the sentencing of a person for an offence after that paragraph comes into force, whether the person was convicted of the offence before or after it comes into force.
 
 (2) Section 224A of the Armed Forces Act 2006, inserted by paragraph 8 of this Schedule, applies in relation to the sentencing of a person for an offence after that paragraph comes into force, whether the person was convicted of the offence before or after it comes into force.
 
 #### Detention in a young offender institution
 
-**10.**[^key-ed9213b867556a2019ad4589512709b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-ed9213b867556a2019ad4589512709b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 4 — Consequential provision
 
 #### Road Traffic Offenders Act 1988 (c. 53)
 
-**11.**[^key-fb7d0229bbdcad7442817daace5c53d0] (1) Section 35A(4) of the Road Traffic Offenders Act 1988 (extension of disqualification where custodial sentence also imposed) is amended as follows.
+**11.**[^c-fb7d0229bbdcad7442817daace5c53d0] (1) Section 35A(4) of the Road Traffic Offenders Act 1988 (extension of disqualification where custodial sentence also imposed) is amended as follows.
 
 (2) In paragraph (e), for “that Act” (in the first place) substitute “ the Criminal Justice Act 2003 ”.
 
@@ -129,7 +129,7 @@ Section 6
 
 #### Crime (Sentences) Act 1997 (c. 43)
 
-**12.**[^key-b6a9c5073c29c90be55b2e87570bf6c4] (1) Schedule 1 to the Crime (Sentences) Act 1997 (transfer of prisoners within the British Islands) is amended as follows.
+**12.**[^c-b6a9c5073c29c90be55b2e87570bf6c4] (1) Schedule 1 to the Crime (Sentences) Act 1997 (transfer of prisoners within the British Islands) is amended as follows.
 
 (2) In paragraph 8(2)(a) (restricted transfers from England and Wales to Scotland), after “244” insert “ , 244A ”.
 
@@ -137,13 +137,13 @@ Section 6
 
 #### Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
 
-**13.**[^key-34a0040e833ab785b74058aba087198d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-34a0040e833ab785b74058aba087198d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Criminal Justice Act 2003 (c. 44)
 
-**14.**[^key-e37f2bb39c012c7ce34ef21e794f3dfe] The Criminal Justice Act 2003 is amended as follows.
+**14.**[^c-e37f2bb39c012c7ce34ef21e794f3dfe] The Criminal Justice Act 2003 is amended as follows.
 
-**15.**[^key-da860e4a1845a36bf7edef7aa9b3780e] (1) Section 237 (meaning of “fixed-term prisoner”) is amended as follows.
+**15.**[^c-da860e4a1845a36bf7edef7aa9b3780e] (1) Section 237 (meaning of “fixed-term prisoner”) is amended as follows.
 
 (2) In subsection (1)(b), for “ or 228” substitute “ , 228 or 236A ”.
 
@@ -158,9 +158,9 @@ Section 6
 
 (4) In subsection (3), for “or 227” substitute “ , 227 or 236A ”.
 
-**16.**[^key-a2a556e9a164a3ec926ada0a924bdc57] In section 240ZA(11) (time remanded in custody to count as time served), for “or 228” substitute “ , 228 or 236A ”.
+**16.**[^c-a2a556e9a164a3ec926ada0a924bdc57] In section 240ZA(11) (time remanded in custody to count as time served), for “or 228” substitute “ , 228 or 236A ”.
 
-**17.**[^key-21bf84e9b022d724c6413b88b1274015] (1) Section 250 (licence conditions) is amended as follows.
+**17.**[^c-21bf84e9b022d724c6413b88b1274015] (1) Section 250 (licence conditions) is amended as follows.
 
 (2) In subsection (4)—
 
@@ -182,21 +182,21 @@ Section 6
   >
   > - (b) a prisoner serving a sentence imposed under section 236A.
 
-**18.**[^key-0a624a0bedc2e8529be0bfd299a700bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-0a624a0bedc2e8529be0bfd299a700bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-71828ce344495f4584e6a5590b7c8f5a] In section 258(3A) (early release of fine defaulters and contemnors), for “or 228” substitute “ , 228 or 236A ”.
+**19.**[^c-71828ce344495f4584e6a5590b7c8f5a] In section 258(3A) (early release of fine defaulters and contemnors), for “or 228” substitute “ , 228 or 236A ”.
 
-**20.**[^key-c8711dbe56a56e626dfac0cdb7fe2c34] (1) Section 260 (early removal of prisoners liable to removal from United Kingdom) is amended as follows.
+**20.**[^c-c8711dbe56a56e626dfac0cdb7fe2c34] (1) Section 260 (early removal of prisoners liable to removal from United Kingdom) is amended as follows.
 
 (2) In subsection (2A), after “226B” insert “ or a sentence under section 236A ”.
 
 (3) In subsection (5), after “244” insert “ , 244A ”.
 
-**21.**[^key-67d2283e117a8a992b2523193d1b347d] In section 261(5)(b) (re-entry into United Kingdom of offender removed from prison early), after “244” insert “ , 244A ”.
+**21.**[^c-67d2283e117a8a992b2523193d1b347d] In section 261(5)(b) (re-entry into United Kingdom of offender removed from prison early), after “244” insert “ , 244A ”.
 
-**22.**[^key-7a2dddfcade45dd1556fe9b7d2b94409] In section 263(4) (concurrent terms), for “or 228” substitute “ , 228 or 236A ”.
+**22.**[^c-7a2dddfcade45dd1556fe9b7d2b94409] In section 263(4) (concurrent terms), for “or 228” substitute “ , 228 or 236A ”.
 
-**23.**[^key-6210dbde5b553aab89f6ba336e5b73fa] (1) Section 264 (consecutive terms) is amended as follows.
+**23.**[^c-6210dbde5b553aab89f6ba336e5b73fa] (1) Section 264 (consecutive terms) is amended as follows.
 
 (2) For subsection (6) substitute—
 
@@ -209,11 +209,11 @@ Section 6
 
 (3) In subsection (7), for “or 228” substitute “ , 228 or 236A ”.
 
-**24.**[^key-1d15e7025f86bdd6cae86805bd662247] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-1d15e7025f86bdd6cae86805bd662247] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)
 
-**25.**[^key-ec58a284cc9f25458dd789c4a5cb6ffb] (1) Section 128 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (power to change test for release on licence of certain prisoners) is amended as follows.
+**25.**[^c-ec58a284cc9f25458dd789c4a5cb6ffb] (1) Section 128 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (power to change test for release on licence of certain prisoners) is amended as follows.
 
 (2) In subsection (2), after paragraph (b) (but before “or”) insert—
 
@@ -233,48 +233,48 @@ Section 6
 
 ## Annotations
 
-[^key-853fa0eb75c13357b72ed216bac0e34e]: Commencement: Sch. 1 para. 1 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
+[^c-853fa0eb75c13357b72ed216bac0e34e]: Commencement: Sch. 1 para. 1 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
 
-[^key-d9bc33954cb1cf435d948f816e8f0159]: Textual amendment: Sch. 1 paras. 2-4 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-d9bc33954cb1cf435d948f816e8f0159]: Textual amendment: Sch. 1 paras. 2-4 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-4659aa91b88578ba5aab4ada65505688]: Commencement: Sch. 1 para. 5 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
+[^c-4659aa91b88578ba5aab4ada65505688]: Commencement: Sch. 1 para. 5 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
 
-[^key-1ad0e4374d1ca70dba6fe271bca26ea3]: Commencement: Sch. 1 para. 6 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
+[^c-1ad0e4374d1ca70dba6fe271bca26ea3]: Commencement: Sch. 1 para. 6 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
 
-[^key-93d155318b1955eab6e2ec961defbc4f]: Commencement: Sch. 1 para. 7 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
+[^c-93d155318b1955eab6e2ec961defbc4f]: Commencement: Sch. 1 para. 7 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
 
-[^key-aff9f934025698b90f2ceaacbd83b413]: Commencement: Sch. 1 para. 8 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
+[^c-aff9f934025698b90f2ceaacbd83b413]: Commencement: Sch. 1 para. 8 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
 
-[^key-8a7e2715aabf87acfc60df6751f49c34]: Commencement: Sch. 1 para. 9 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
+[^c-8a7e2715aabf87acfc60df6751f49c34]: Commencement: Sch. 1 para. 9 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
 
-[^key-ed9213b867556a2019ad4589512709b3]: Textual amendment: Sch. 1 para. 10 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ed9213b867556a2019ad4589512709b3]: Textual amendment: Sch. 1 para. 10 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-fb7d0229bbdcad7442817daace5c53d0]: Commencement: Sch. 1 para. 11 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
+[^c-fb7d0229bbdcad7442817daace5c53d0]: Commencement: Sch. 1 para. 11 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
 
-[^key-b6a9c5073c29c90be55b2e87570bf6c4]: Commencement: Sch. 1 para. 12 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
+[^c-b6a9c5073c29c90be55b2e87570bf6c4]: Commencement: Sch. 1 para. 12 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
 
-[^key-34a0040e833ab785b74058aba087198d]: Textual amendment: Sch. 1 para. 13 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-34a0040e833ab785b74058aba087198d]: Textual amendment: Sch. 1 para. 13 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-e37f2bb39c012c7ce34ef21e794f3dfe]: Commencement: Sch. 1 para. 14 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
+[^c-e37f2bb39c012c7ce34ef21e794f3dfe]: Commencement: Sch. 1 para. 14 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
 
-[^key-da860e4a1845a36bf7edef7aa9b3780e]: Commencement: Sch. 1 para. 15 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
+[^c-da860e4a1845a36bf7edef7aa9b3780e]: Commencement: Sch. 1 para. 15 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
 
-[^key-a2a556e9a164a3ec926ada0a924bdc57]: Commencement: Sch. 1 para. 16 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
+[^c-a2a556e9a164a3ec926ada0a924bdc57]: Commencement: Sch. 1 para. 16 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
 
-[^key-21bf84e9b022d724c6413b88b1274015]: Commencement: Sch. 1 para. 17 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
+[^c-21bf84e9b022d724c6413b88b1274015]: Commencement: Sch. 1 para. 17 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
 
-[^key-0a624a0bedc2e8529be0bfd299a700bf]: Textual amendment: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2015/2/schedule/1/paragraph/18) omitted (11.5.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1), [Sch. 5 para. 13(2)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/13/2) (with [s. 34(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/4)[(5)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/5)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
+[^c-0a624a0bedc2e8529be0bfd299a700bf]: Textual amendment: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2015/2/schedule/1/paragraph/18) omitted (11.5.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1), [Sch. 5 para. 13(2)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/13/2) (with [s. 34(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/4)[(5)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/5)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
 
-[^key-71828ce344495f4584e6a5590b7c8f5a]: Commencement: Sch. 1 para. 19 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
+[^c-71828ce344495f4584e6a5590b7c8f5a]: Commencement: Sch. 1 para. 19 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
 
-[^key-c8711dbe56a56e626dfac0cdb7fe2c34]: Commencement: Sch. 1 para. 20 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
+[^c-c8711dbe56a56e626dfac0cdb7fe2c34]: Commencement: Sch. 1 para. 20 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
 
-[^key-67d2283e117a8a992b2523193d1b347d]: Commencement: Sch. 1 para. 21 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
+[^c-67d2283e117a8a992b2523193d1b347d]: Commencement: Sch. 1 para. 21 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
 
-[^key-7a2dddfcade45dd1556fe9b7d2b94409]: Commencement: Sch. 1 para. 22 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
+[^c-7a2dddfcade45dd1556fe9b7d2b94409]: Commencement: Sch. 1 para. 22 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
 
-[^key-6210dbde5b553aab89f6ba336e5b73fa]: Commencement: Sch. 1 para. 23 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
+[^c-6210dbde5b553aab89f6ba336e5b73fa]: Commencement: Sch. 1 para. 23 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
 
-[^key-1d15e7025f86bdd6cae86805bd662247]: Textual amendment: Sch. 1 para. 24 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-1d15e7025f86bdd6cae86805bd662247]: Textual amendment: Sch. 1 para. 24 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-ec58a284cc9f25458dd789c4a5cb6ffb]: Commencement: Sch. 1 para. 25 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)
+[^c-ec58a284cc9f25458dd789c4a5cb6ffb]: Commencement: Sch. 1 para. 25 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/72)

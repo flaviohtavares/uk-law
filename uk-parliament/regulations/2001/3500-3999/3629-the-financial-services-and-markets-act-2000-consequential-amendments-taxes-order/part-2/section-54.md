@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Introduction[^key-3710205d38df767de37be3f847cb0147]
+## 54. Introduction[^c-3710205d38df767de37be3f847cb0147]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Amend the Finance Act 1989 in accordance with Articles 55 to 60.
 
 ## Annotations
 
-[^key-3710205d38df767de37be3f847cb0147]: Commencement: Art. 54 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-3710205d38df767de37be3f847cb0147]: Commencement: Art. 54 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

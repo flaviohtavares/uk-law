@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Functions relating to the treatment of offenders[^key-e37d93c294c9ecf44217bd8721a50522]
+## 6. Functions relating to the treatment of offenders[^c-e37d93c294c9ecf44217bd8721a50522]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e37d93c294c9ecf44217bd8721a50522]: Commencement: Art. 6 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-e37d93c294c9ecf44217bd8721a50522]: Commencement: Art. 6 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00003]: Footnote: [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33).
 

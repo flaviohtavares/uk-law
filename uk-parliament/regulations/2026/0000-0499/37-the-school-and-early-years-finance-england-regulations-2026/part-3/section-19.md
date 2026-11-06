@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. English as an additional language[^key-fb63ab6d3dd2507a5bc6d178e6f8e395]
+## 19. English as an additional language[^c-fb63ab6d3dd2507a5bc6d178e6f8e395]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb63ab6d3dd2507a5bc6d178e6f8e395]: Commencement: Reg. 19 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-fb63ab6d3dd2507a5bc6d178e6f8e395]: Commencement: Reg. 19 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)

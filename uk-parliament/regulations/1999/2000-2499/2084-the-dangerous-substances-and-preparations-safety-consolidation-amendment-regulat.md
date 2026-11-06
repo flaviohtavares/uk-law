@@ -31,7 +31,7 @@ summary: ''
 
 CONSUMER PROTECTION
 
-The Dangerous Substances and Preparations (Safety) (Consolidation) (Amendment) Regulations 1999 (revoked)[^key-c1bd72f73b43e9964c04f8a27818f234]
+The Dangerous Substances and Preparations (Safety) (Consolidation) (Amendment) Regulations 1999 (revoked)[^c-c1bd72f73b43e9964c04f8a27818f234]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 13th August 1999
 
-[^key-c1bd72f73b43e9964c04f8a27818f234]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c1bd72f73b43e9964c04f8a27818f234]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-c1bd72f73b43e9964c04f8a27818f234]
+## 1.[^c-c1bd72f73b43e9964c04f8a27818f234]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-c1bd72f73b43e9964c04f8a27818f234]
+## 2.[^c-c1bd72f73b43e9964c04f8a27818f234]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c1bd72f73b43e9964c04f8a27818f234]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c1bd72f73b43e9964c04f8a27818f234]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c1bd72f73b43e9964c04f8a27818f234]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c1bd72f73b43e9964c04f8a27818f234]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c1bd72f73b43e9964c04f8a27818f234]: Textual amendment: Regulations revoked (4.12.2006) by [The Dangerous Substances and Preparations (Safety) Regulations 2006 (S.I. 2006/2916)](https://www.legislation.gov.uk/uksi/2006/2916), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/2916/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2006/2916/regulation/3))
+[^c-c1bd72f73b43e9964c04f8a27818f234]: Textual amendment: Regulations revoked (4.12.2006) by [The Dangerous Substances and Preparations (Safety) Regulations 2006 (S.I. 2006/2916)](https://www.legislation.gov.uk/uksi/2006/2916), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/2916/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2006/2916/regulation/3))

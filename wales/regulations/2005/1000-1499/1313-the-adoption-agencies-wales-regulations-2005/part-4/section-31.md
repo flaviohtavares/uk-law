@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Prospective adopter matching plan[^key-7f90cd67511442ae5b44192f37dfdffe]
+## 31. Prospective adopter matching plan[^c-7f90cd67511442ae5b44192f37dfdffe]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Except in a section 83 case, where an adoption agency has approved a prospective
 
 ## Annotations
 
-[^key-7f90cd67511442ae5b44192f37dfdffe]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/wsi/2005/1313/part/4) substituted (1.4.2020) by [The Adoption Agencies (Wales) (Amendment) Regulations 2020 (S.I. 2020/163)](https://www.legislation.gov.uk/wsi/2020/163), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/163/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2020/163/regulation/10) (with [reg. 18](https://www.legislation.gov.uk/wsi/2020/163/regulation/18))
+[^c-7f90cd67511442ae5b44192f37dfdffe]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/wsi/2005/1313/part/4) substituted (1.4.2020) by [The Adoption Agencies (Wales) (Amendment) Regulations 2020 (S.I. 2020/163)](https://www.legislation.gov.uk/wsi/2020/163), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/163/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2020/163/regulation/10) (with [reg. 18](https://www.legislation.gov.uk/wsi/2020/163/regulation/18))

@@ -41,11 +41,11 @@ Coming into operation
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 5(1)(a) to (c) and (q) and 165(1), (4) and (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and Articles 11(3) and (6) and 74(1) and (3) of the Social Security (Northern Ireland) Order 1998[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-aa8ae19aca59fad76ed93f17b6bd1f11]
+## 1. Citation and commencement[^c-aa8ae19aca59fad76ed93f17b6bd1f11]
 
 These Regulations may be cited as the Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2006 and shall come into operation on 2nd October 2006.
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-64e54c0ac07dce23dd33136641e67e6d]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-64e54c0ac07dce23dd33136641e67e6d]
 
 (1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00004] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -62,7 +62,7 @@ These Regulations may be cited as the Social Security (Miscellaneous Amendments 
   > - (b) at the date the original award was terminated the claimant’s claim for a qualifying benefit had not been decided.
 
   ; and
-- (c)[^key-69005f7d9297cad3f0e8ffd98d57988c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-69005f7d9297cad3f0e8ffd98d57988c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In regulation 19(7)[^f00009] (time for claiming benefit) after sub-paragraph (i) add—
 
@@ -96,11 +96,11 @@ These Regulations may be cited as the Social Security (Miscellaneous Amendments 
 
   .
 
-## 3. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-1004b18008f76e027630496f91045133]
+## 3. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^c-1004b18008f76e027630496f91045133]
 
 (1) The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00015] shall be amended in accordance with paragraphs (2) and (3).
 
-(2)[^key-d39b299700302e10581b6a5b26e9f01d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d39b299700302e10581b6a5b26e9f01d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In paragraph 3 of Schedule 2A[^f00017] (date from which superseding decision takes effect where a claimant is in receipt of income support or jobseeker’s allowance) after sub-paragraph (g) add—
 
@@ -108,7 +108,7 @@ These Regulations may be cited as the Social Security (Miscellaneous Amendments 
 
 .
 
-## 4. Revocations[^key-6102d65bc7085200e60e410712248ea6]
+## 4. Revocations[^c-6102d65bc7085200e60e410712248ea6]
 
 The Regulations specified in column (1) of the Schedule are revoked to the extent mentioned in column (3).
 
@@ -118,7 +118,7 @@ John O’Neill
 
 A senior officer of the Department for Social Development
 
-## SCHEDULE — Revocations[^key-d94d50bbd8646bfc88deaee473a3f044]
+## SCHEDULE — Revocations[^c-d94d50bbd8646bfc88deaee473a3f044]
 
 Regulation 4
 
@@ -166,9 +166,9 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00003]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-aa8ae19aca59fad76ed93f17b6bd1f11]: Commencement: Reg. 1 in operation at 2.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/365/regulation/1)
+[^c-aa8ae19aca59fad76ed93f17b6bd1f11]: Commencement: Reg. 1 in operation at 2.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/365/regulation/1)
 
-[^key-64e54c0ac07dce23dd33136641e67e6d]: Commencement: Reg. 2 in operation at 2.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/365/regulation/1)
+[^c-64e54c0ac07dce23dd33136641e67e6d]: Commencement: Reg. 2 in operation at 2.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/365/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Rules are [S.R. 1988 No. 67](https://www.legislation.gov.uk/nisr/1988/67), [S.R. 1990 No. 398](https://www.legislation.gov.uk/nisr/1990/398), [S.R. 1991 No. 488](https://www.legislation.gov.uk/nisr/1991/488), [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156), [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472), [S.R. 2000 Nos. 215](https://www.legislation.gov.uk/nisr/2000/215) and [365](https://www.legislation.gov.uk/nisr/2000/365), [S.R. 2002 No. 67](https://www.legislation.gov.uk/nisr/2002/67), [S.R. 2003 Nos. 191](https://www.legislation.gov.uk/nisr/2003/191) and [317](https://www.legislation.gov.uk/nisr/2003/317) and [S.R. 2005 No. 46](https://www.legislation.gov.uk/nisr/2005/46)
 
@@ -178,7 +178,7 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00007]: Footnote: Paragraph (20) was substituted by regulation 3(2)(a) of [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215) and amended by regulation 5(4)(a) of [S.R. 2005 No. 46](https://www.legislation.gov.uk/nisr/2005/46)
 
-[^key-69005f7d9297cad3f0e8ffd98d57988c]: Textual amendment: [Reg. 2(3)(c)](https://www.legislation.gov.uk/nisr/2006/365/regulation/2/3/c) revoked (24.9.2007) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2007 (S.R. 2007/392)](https://www.legislation.gov.uk/nisr/2007/392), [regs. 1](https://www.legislation.gov.uk/nisr/2007/392/regulation/1), [6](https://www.legislation.gov.uk/nisr/2007/392/regulation/6)
+[^c-69005f7d9297cad3f0e8ffd98d57988c]: Textual amendment: [Reg. 2(3)(c)](https://www.legislation.gov.uk/nisr/2006/365/regulation/2/3/c) revoked (24.9.2007) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2007 (S.R. 2007/392)](https://www.legislation.gov.uk/nisr/2007/392), [regs. 1](https://www.legislation.gov.uk/nisr/2007/392/regulation/1), [6](https://www.legislation.gov.uk/nisr/2007/392/regulation/6)
 
 [^f00009]: Footnote: Regulation 19 was substituted by regulation 3(7) of [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156) and paragraph (7)(i) was added by regulation 2(5) of [S.R. 2000 No. 365](https://www.legislation.gov.uk/nisr/2000/365)
 
@@ -192,16 +192,16 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00014]: Footnote: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21)
 
-[^key-1004b18008f76e027630496f91045133]: Commencement: Reg. 3 in operation at 2.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/365/regulation/1)
+[^c-1004b18008f76e027630496f91045133]: Commencement: Reg. 3 in operation at 2.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/365/regulation/1)
 
 [^f00015]: Footnote: [S.I. 1999 No. 162](https://www.legislation.gov.uk/uksi/1999/162); relevant amending Regulations are [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215), [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108), [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132) and [S.R. 2005 No. 46](https://www.legislation.gov.uk/nisr/2005/46)
 
-[^key-d39b299700302e10581b6a5b26e9f01d]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2006/365/regulation/3/2) revoked (30.10.2008) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2008 (S.R. 2008/417)](https://www.legislation.gov.uk/nisr/2008/417), [reg. 1](https://www.legislation.gov.uk/nisr/2008/417/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/417/schedule)
+[^c-d39b299700302e10581b6a5b26e9f01d]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2006/365/regulation/3/2) revoked (30.10.2008) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2008 (S.R. 2008/417)](https://www.legislation.gov.uk/nisr/2008/417), [reg. 1](https://www.legislation.gov.uk/nisr/2008/417/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/417/schedule)
 
 [^f00017]: Footnote: Schedule 2A was inserted by regulation 6(22) of SR. [2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215) and paragraph 3 was amended by regulation 12(3) of [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108), regulation 6(a) of [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132) and regulation 7(20)(b) of [S.R. 2005 No.46](https://www.legislation.gov.uk/nisr/2005/46)
 
 [^f00018]: Footnote: [S.R. 1992 No. 32](https://www.legislation.gov.uk/nisr/1992/32); regulation 9 was amended by regulation 3(3)(b) of [S.R. 1992 No. 481](https://www.legislation.gov.uk/nisr/1992/481), regulation 4(2) of [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149), regulation 3(2) of [S.R. 1993 No. 165](https://www.legislation.gov.uk/nisr/1993/165), paragraph 1 of Schedule 17 to [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65), regulation 3(2) of [S.R. 1994 No. 263](https://www.legislation.gov.uk/nisr/1994/263), regulation 3 of [S.R. 2002 No. 31](https://www.legislation.gov.uk/nisr/2002/31), regulation 5(2) of [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132), regulation 3(2) of [S.R. 2003 No. 397](https://www.legislation.gov.uk/nisr/2003/397) and regulation 8 of [S.R. 2005 No. 458](https://www.legislation.gov.uk/nisr/2005/458)
 
-[^key-6102d65bc7085200e60e410712248ea6]: Commencement: Reg. 4 in operation at 2.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/365/regulation/1)
+[^c-6102d65bc7085200e60e410712248ea6]: Commencement: Reg. 4 in operation at 2.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/365/regulation/1)
 
-[^key-d94d50bbd8646bfc88deaee473a3f044]: Commencement: Sch. in operation at 2.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/365/regulation/1)
+[^c-d94d50bbd8646bfc88deaee473a3f044]: Commencement: Sch. in operation at 2.10.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/365/regulation/1)

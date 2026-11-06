@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119.[^key-de071ffaaa723f13ed3ab76b8f27ccbe]
+## 119.[^c-de071ffaaa723f13ed3ab76b8f27ccbe]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For the heading to Article 5, substitute “ Register ”.
 
 ## Annotations
 
-[^key-de071ffaaa723f13ed3ab76b8f27ccbe]: Commencement: Reg. 119 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-de071ffaaa723f13ed3ab76b8f27ccbe]: Commencement: Reg. 119 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

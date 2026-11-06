@@ -46,7 +46,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-4951e2b0f079ab5b264fbf93500375b6]
+### 1. Citation and commencement[^c-4951e2b0f079ab5b264fbf93500375b6]
 
 (1) These Regulations may be cited as the Council Tax Reduction (Scotland) Amendment Regulations 2016.
 
@@ -56,9 +56,9 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (4) Regulations 6 and 19 come into force on 6th April 2016.
 
-### 2. Transitional provision[^key-12d9958ed148b7a9bbdda5a9e48b25b5]
+### 2. Transitional provision[^c-12d9958ed148b7a9bbdda5a9e48b25b5]
 
-(1) Until the date determined in accordance with paragraph (2), the amendments made by regulation 18[^key-01d33e9c170ce17d1ab9b7dbb0ddcbf4] do not apply to a person who, on 30th April 2016, is entitled to a council tax reduction and who is—
+(1) Until the date determined in accordance with paragraph (2), the amendments made by regulation 18[^c-01d33e9c170ce17d1ab9b7dbb0ddcbf4] do not apply to a person who, on 30th April 2016, is entitled to a council tax reduction and who is—
 
 - (a) a member of a family which includes at least one child or young person; or
 - (b) a partner in a polygamous marriage, where that person or another partner of the polygamous marriage is responsible for a child or young person who is a member of the same household.
@@ -68,57 +68,57 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - (a) the date on which sub-paragraph (a) or (b) ceases to apply to the applicant; or
 - (b) the date on which the person makes a new application for a council tax reduction (but for the purposes of this regulation any application that relates to re-assessment of an existing award is not to be regarded as a new application).
 
-(3) For the purposes of this regulation “application”, “child”, “council tax reduction”, “family”, “polygamous marriage” and “young person” have the same meaning as in [^key-a84987e639f700569cba71e8b7767331]... the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^f00003].
+(3) For the purposes of this regulation “application”, “child”, “council tax reduction”, “family”, “polygamous marriage” and “young person” have the same meaning as in [^c-a84987e639f700569cba71e8b7767331]... the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^f00003].
 
-## PART 2 — Amendment of the Council Tax Reduction (Scotland) Regulations 2012[^key-685d7bac0fb1ee17539cb1dcc47bbccf]
+## PART 2 — Amendment of the Council Tax Reduction (Scotland) Regulations 2012[^c-685d7bac0fb1ee17539cb1dcc47bbccf]
 
-**3.**[^key-1f52bc0d39c86ca37d5919a1e0ab6f29] The Council Tax Reduction (Scotland) Regulations 2012 are amended in accordance with regulations 4 to 15.
+**3.**[^c-1f52bc0d39c86ca37d5919a1e0ab6f29] The Council Tax Reduction (Scotland) Regulations 2012 are amended in accordance with regulations 4 to 15.
 
-### 4. Amendment of references to the Independent Living Fund (2006) and the Scottish Welfare Fund[^key-685d7bac0fb1ee17539cb1dcc47bbccf]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 5. Removal of family premium[^key-685d7bac0fb1ee17539cb1dcc47bbccf]
+### 4. Amendment of references to the Independent Living Fund (2006) and the Scottish Welfare Fund[^c-685d7bac0fb1ee17539cb1dcc47bbccf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Social Services and Well-being (Wales) Act 2014: consequential amendments[^key-685d7bac0fb1ee17539cb1dcc47bbccf]
+### 5. Removal of family premium[^c-685d7bac0fb1ee17539cb1dcc47bbccf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Backdating of claims[^key-685d7bac0fb1ee17539cb1dcc47bbccf]
+### 6. Social Services and Well-being (Wales) Act 2014: consequential amendments[^c-685d7bac0fb1ee17539cb1dcc47bbccf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Kinship care[^key-685d7bac0fb1ee17539cb1dcc47bbccf]
+### 7. Backdating of claims[^c-685d7bac0fb1ee17539cb1dcc47bbccf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Uprating and miscellaneous amendments[^key-685d7bac0fb1ee17539cb1dcc47bbccf]
+### 8. Kinship care[^c-685d7bac0fb1ee17539cb1dcc47bbccf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-685d7bac0fb1ee17539cb1dcc47bbccf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 9. Uprating and miscellaneous amendments[^c-685d7bac0fb1ee17539cb1dcc47bbccf]
 
-**11.**[^key-096d0c13303327c943c0946374fc733d] In regulation 38(2)(a) (calculation of deduction of tax and contributions of self-employed earners)—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^c-685d7bac0fb1ee17539cb1dcc47bbccf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^c-096d0c13303327c943c0946374fc733d] In regulation 38(2)(a) (calculation of deduction of tax and contributions of self-employed earners)—
 
 - (a) for “11(1)” substitute “11(2)”;
 - (b) for “11(3) substitute “11(8)”; and
 - (c) for “(small earnings exception)” substitute “(small profits threshold)”.
 
-**12.**[^key-685d7bac0fb1ee17539cb1dcc47bbccf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-685d7bac0fb1ee17539cb1dcc47bbccf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-685d7bac0fb1ee17539cb1dcc47bbccf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-685d7bac0fb1ee17539cb1dcc47bbccf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-685d7bac0fb1ee17539cb1dcc47bbccf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-685d7bac0fb1ee17539cb1dcc47bbccf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-685d7bac0fb1ee17539cb1dcc47bbccf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-685d7bac0fb1ee17539cb1dcc47bbccf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Amendment of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012
 
-**16.**[^key-07bd518bbf384cdd9010d34c75c11534] The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012 are amended in accordance with regulations 17 to 27.
+**16.**[^c-07bd518bbf384cdd9010d34c75c11534] The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012 are amended in accordance with regulations 17 to 27.
 
-### 17. Amendment of references to the Independent Living Fund (2006) and the Scottish Welfare Fund[^key-1d5fc1f026f228ff5f00da3178dee28b]
+### 17. Amendment of references to the Independent Living Fund (2006) and the Scottish Welfare Fund[^c-1d5fc1f026f228ff5f00da3178dee28b]
 
 (1) In regulation 2(1) (interpretation)[^f00016]—
 
@@ -154,7 +154,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (5) For “under the Independent Living Fund (2006)” in each of regulation 66(3)(b) and (c) (payments that need not be evidenced) substitute “by ILF Scotland”.
 
-### 18. Removal of family premium[^key-dc5b9ccbfe273f65216e201223fa4f94]
+### 18. Removal of family premium[^c-dc5b9ccbfe273f65216e201223fa4f94]
 
 (1) In regulation 20 (applicable amount), omit paragraph (c).
 
@@ -168,7 +168,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (4) In Schedule 3, in paragraph 19(1) (sums to be disregarded in the calculation of income other than earnings) for “applicable amount includes an amount by way of family premium under paragraph 4 of Schedule 1” substitute “family includes at least one child or young person”.
 
-### 19. Social Services and Well-being (Wales) Act 2014: consequential amendments[^key-0d87452ae1fcc4fd91301a26dbc67f82]
+### 19. Social Services and Well-being (Wales) Act 2014: consequential amendments[^c-0d87452ae1fcc4fd91301a26dbc67f82]
 
 (1) In regulation 29(14)(b) (child care charges: disabled persons)[^f00017], at the end insert “, or is registered as severely sight impaired in a register kept by a local authority in Wales under section 18(1)(a) of the Social Services and Well-being (Wales) Act 2014[^f00018]”.
 
@@ -184,7 +184,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (5) In paragraph 29 of Schedule 4 (capital disregards)[^f00022], at the end insert “or under sections 50 to 53 of the Social Services and Well-being (Wales) Act 2014 (direct payments)”.
 
-### 20. Kinship care[^key-38eb018b4016ff6f32fe9b7da6a13c4b]
+### 20. Kinship care[^c-38eb018b4016ff6f32fe9b7da6a13c4b]
 
 In regulation 35 (earnings of self-employed earners), after paragraph (2)(b)(i) insert—
 
@@ -192,17 +192,17 @@ In regulation 35 (earnings of self-employed earners), after paragraph (2)(b)(i) 
 
 .
 
-### 21. Uprating and miscellaneous amendments[^key-ccfe084ae46614b42a417a67410ca084]
+### 21. Uprating and miscellaneous amendments[^c-ccfe084ae46614b42a417a67410ca084]
 
 In regulation 2(1) (interpretation), in the definition of “the benefit Acts”[^f00023] after “Act 2012,” insert “the Pensions Act 2014,”.
 
-**22.**[^key-7f6e49c01611aff05040fe5c9f12a9db] In regulation 37(2)(a) (calculation of deduction of tax and contributions of self-employed earners)—
+**22.**[^c-7f6e49c01611aff05040fe5c9f12a9db] In regulation 37(2)(a) (calculation of deduction of tax and contributions of self-employed earners)—
 
 - (a) for “11(1)” substitute “11(2)”;
 - (b) for “11(3) substitute “11(8)”; and
 - (c) for “(small earnings exception)” substitute “(small profits threshold)”.
 
-**23.**[^key-f000200a798f443682be2d23b57db6e3] In regulation 48 (non-dependant deductions)[^f00024]—
+**23.**[^c-f000200a798f443682be2d23b57db6e3] In regulation 48 (non-dependant deductions)[^f00024]—
 
 - (a) in paragraph (1)—
   - (i) in sub-paragraph (a) for “£11.70” substitute “£11.80”; and
@@ -227,7 +227,7 @@ In regulation 2(1) (interpretation), in the definition of “the benefit Acts”
 
     .
 
-**24.**[^key-922c8822d244eabbac62236f931b079d] In Schedule 1 (applicable amount)[^f00025]—
+**24.**[^c-922c8822d244eabbac62236f931b079d] In Schedule 1 (applicable amount)[^f00025]—
 
 - (a) in the table in paragraph 2 (personal allowances)—
   - (i) in entry (1)(a) for “£151.20” substitute “£155.60”;
@@ -253,7 +253,7 @@ In regulation 2(1) (interpretation), in the definition of “the benefit Acts”
   - (i) after “carer’s allowance” where it first appears insert “, or who has an award of universal credit which includes the carer element under regulation 29 of the Universal Credit Regulations 2013,”; and
   - (ii) after “carer’s allowance” where it second appears insert “or an award of universal credit which includes the carer element”.
 
-**25.**[^key-c282c1a2bcc987ba550fa188fd637053] In Schedule 3 (sums to be disregarded in the calculation of income other than earnings), after paragraph 18 insert—
+**25.**[^c-c282c1a2bcc987ba550fa188fd637053] In Schedule 3 (sums to be disregarded in the calculation of income other than earnings), after paragraph 18 insert—
 
 > **18A.** (1) Any payment made in respect of a person who is a member of the applicant’s family—
 >
@@ -268,7 +268,7 @@ In regulation 2(1) (interpretation), in the definition of “the benefit Acts”
 
 .
 
-**26.**[^key-c205f51f1cc95e7ed3e8453b64971b8e] In Part 1 of Schedule 4 (capital to be disregarded)—
+**26.**[^c-c205f51f1cc95e7ed3e8453b64971b8e] In Part 1 of Schedule 4 (capital to be disregarded)—
 
 - (a) in paragraph 21[^f00035]—
   - (i) omit “or” following sub-paragraph (2)(n); and
@@ -290,7 +290,7 @@ In regulation 2(1) (interpretation), in the definition of “the benefit Acts”
 
   .
 
-**27.**[^key-946ae6bcf47f248e1d9eab7dc81936a1] In Schedule 5 (amount of alternative maximum council tax reduction), in the table in paragraph 1[^f00036]—
+**27.**[^c-946ae6bcf47f248e1d9eab7dc81936a1] In Schedule 5 (amount of alternative maximum council tax reduction), in the table in paragraph 1[^f00036]—
 
 - (a) in entry (b)(i) for “£186.00” substitute “£191.00”; and
 - (b) in entry (b)(ii)—
@@ -339,31 +339,31 @@ Regulations 17 to 27 make amendments with similar effect, where appropriate, to 
 
 [^f00001]: Footnote: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14). Section 80 was amended by paragraph 176 of Schedule 13 to the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39). There are other amendments to section 80 and section 113(1) that are not relevant to these Regulations. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-4951e2b0f079ab5b264fbf93500375b6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/81/regulation/1) in force at 1.4.2016 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2)
+[^c-4951e2b0f079ab5b264fbf93500375b6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/81/regulation/1) in force at 1.4.2016 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2)
 
-[^key-12d9958ed148b7a9bbdda5a9e48b25b5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/81/regulation/2) in force at 1.4.2016 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2)
+[^c-12d9958ed148b7a9bbdda5a9e48b25b5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/81/regulation/2) in force at 1.4.2016 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2)
 
-[^key-01d33e9c170ce17d1ab9b7dbb0ddcbf4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/81/regulation/2/1) substituted (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 5 para. 8(2)(a)](https://www.legislation.gov.uk/ssi/2021/249/schedule/5/paragraph/8/2/a) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [3](https://www.legislation.gov.uk/ssi/2021/249/regulation/3), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
+[^c-01d33e9c170ce17d1ab9b7dbb0ddcbf4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/81/regulation/2/1) substituted (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 5 para. 8(2)(a)](https://www.legislation.gov.uk/ssi/2021/249/schedule/5/paragraph/8/2/a) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [3](https://www.legislation.gov.uk/ssi/2021/249/regulation/3), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
 
-[^key-a84987e639f700569cba71e8b7767331]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/81/regulation/2/3) omitted (1.4.2022) by virtue of [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 5 para. 8(2)(b)](https://www.legislation.gov.uk/ssi/2021/249/schedule/5/paragraph/8/2/b) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [3](https://www.legislation.gov.uk/ssi/2021/249/regulation/3), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
+[^c-a84987e639f700569cba71e8b7767331]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/81/regulation/2/3) omitted (1.4.2022) by virtue of [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 5 para. 8(2)(b)](https://www.legislation.gov.uk/ssi/2021/249/schedule/5/paragraph/8/2/b) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [3](https://www.legislation.gov.uk/ssi/2021/249/regulation/3), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
 
 [^f00003]: Footnote: [S.S.I. 2012/319](https://www.legislation.gov.uk/ssi/2012/319), amended by [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49), [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142), [S.S.I. 2013/218](https://www.legislation.gov.uk/ssi/2013/218), [S.S.I. 2013/287](https://www.legislation.gov.uk/ssi/2013/287), [S.S.I. 2014/35](https://www.legislation.gov.uk/ssi/2014/35), [S.S.I. 2014/90](https://www.legislation.gov.uk/ssi/2014/90) and [S.S.I. 2015/46](https://www.legislation.gov.uk/ssi/2015/46), and by [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255) and [S.I. 2015/971](https://www.legislation.gov.uk/uksi/2015/971).
 
-[^key-685d7bac0fb1ee17539cb1dcc47bbccf]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/ssi/2016/81/part/2) revoked (except for regs. 3, 11) (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
+[^c-685d7bac0fb1ee17539cb1dcc47bbccf]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/ssi/2016/81/part/2) revoked (except for regs. 3, 11) (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
 
-[^key-1f52bc0d39c86ca37d5919a1e0ab6f29]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/81/regulation/3) in force at 1.4.2016 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2)
+[^c-1f52bc0d39c86ca37d5919a1e0ab6f29]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/81/regulation/3) in force at 1.4.2016 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2)
 
-[^key-096d0c13303327c943c0946374fc733d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2016/81/regulation/11) in force at 1.4.2016 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2)
+[^c-096d0c13303327c943c0946374fc733d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2016/81/regulation/11) in force at 1.4.2016 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2)
 
-[^key-07bd518bbf384cdd9010d34c75c11534]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2016/81/regulation/16) in force at 1.4.2016 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2)
+[^c-07bd518bbf384cdd9010d34c75c11534]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2016/81/regulation/16) in force at 1.4.2016 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2)
 
-[^key-1d5fc1f026f228ff5f00da3178dee28b]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2016/81/regulation/17) in force at 1.4.2016 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2)
+[^c-1d5fc1f026f228ff5f00da3178dee28b]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2016/81/regulation/17) in force at 1.4.2016 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2)
 
 [^f00016]: Footnote: There are amendments to regulation 2 that are not relevant to these Regulations.
 
-[^key-dc5b9ccbfe273f65216e201223fa4f94]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2016/81/regulation/18) in force at 1.5.2016 in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/3)
+[^c-dc5b9ccbfe273f65216e201223fa4f94]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2016/81/regulation/18) in force at 1.5.2016 in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/3)
 
-[^key-0d87452ae1fcc4fd91301a26dbc67f82]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2016/81/regulation/19) in force at 6.4.2016 in accordance with, see [reg. 1(4)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/4)
+[^c-0d87452ae1fcc4fd91301a26dbc67f82]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2016/81/regulation/19) in force at 6.4.2016 in accordance with, see [reg. 1(4)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/4)
 
 [^f00017]: Footnote: There are amendments to regulation 29 that are not relevant to these Regulations.
 
@@ -377,23 +377,23 @@ Regulations 17 to 27 make amendments with similar effect, where appropriate, to 
 
 [^f00022]: Footnote: Paragraph 29 of Schedule 4 is amended by [S.S.I. 2014/90](https://www.legislation.gov.uk/ssi/2014/90) and [S.S.I. 2015/46](https://www.legislation.gov.uk/ssi/2015/46). There are other amendments to the Schedule, including amendment by these Regulations, that are not relevant to this regulation.
 
-[^key-38eb018b4016ff6f32fe9b7da6a13c4b]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2016/81/regulation/20) in force at 1.4.2016 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2)
+[^c-38eb018b4016ff6f32fe9b7da6a13c4b]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2016/81/regulation/20) in force at 1.4.2016 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2)
 
-[^key-ccfe084ae46614b42a417a67410ca084]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2016/81/regulation/21) in force at 1.4.2016 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2)
+[^c-ccfe084ae46614b42a417a67410ca084]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2016/81/regulation/21) in force at 1.4.2016 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2)
 
 [^f00023]: Footnote: The definition of “the benefit Acts” was amended by [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142).
 
-[^key-7f6e49c01611aff05040fe5c9f12a9db]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2016/81/regulation/22) in force at 1.4.2016 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2)
+[^c-7f6e49c01611aff05040fe5c9f12a9db]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2016/81/regulation/22) in force at 1.4.2016 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2)
 
-[^key-f000200a798f443682be2d23b57db6e3]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2016/81/regulation/23) in force at 1.4.2016 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2)
+[^c-f000200a798f443682be2d23b57db6e3]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2016/81/regulation/23) in force at 1.4.2016 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2)
 
 [^f00024]: Footnote: Regulation 48 is amended by [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49), [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142), [S.S.I. 2014/35](https://www.legislation.gov.uk/ssi/2014/35) and [S.S.I. 2015/46](https://www.legislation.gov.uk/ssi/2015/46).
 
-[^key-922c8822d244eabbac62236f931b079d]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2016/81/regulation/24) in force at 1.4.2016 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2)
+[^c-922c8822d244eabbac62236f931b079d]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2016/81/regulation/24) in force at 1.4.2016 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2)
 
 [^f00025]: Footnote: Schedule 1 is relevantly amended by [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49) and [S.S.I. 2014/35](https://www.legislation.gov.uk/ssi/2014/35).
 
-[^key-c282c1a2bcc987ba550fa188fd637053]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2016/81/regulation/25) in force at 1.4.2016 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2)
+[^c-c282c1a2bcc987ba550fa188fd637053]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2016/81/regulation/25) in force at 1.4.2016 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2)
 
 [^f00026]: Footnote: [2007 asp 4](https://www.legislation.gov.uk/asp/2007/4).
 
@@ -413,10 +413,10 @@ Regulations 17 to 27 make amendments with similar effect, where appropriate, to 
 
 [^f00034]: Footnote: Section 17 was amended by paragraph 108 of Schedule 2 to the Social Security (Consequential Provisions) Act [1992 (c.6)](https://www.legislation.gov.uk/ukpga/1992/6), section 7 of the Children (Leaving Care) Act [2000 (c.35)](https://www.legislation.gov.uk/ukpga/2000/35), paragraph 16 of Schedule 3 to the Tax Credits Act 2002, section 116 of the Adoption and Children Act [2002 (c.38)](https://www.legislation.gov.uk/ukpga/2002/38), section 53 of the Children Act 2004, paragraph 6 of Schedule 3 to the Welfare Reform Act 2007, and Schedule 1, paragraph 2 of Schedule 3 and Schedule 4 to the Children and Young Persons Act [2008 (c.23)](https://www.legislation.gov.uk/ukpga/2008/23).
 
-[^key-c205f51f1cc95e7ed3e8453b64971b8e]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2016/81/regulation/26) in force at 1.4.2016 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2)
+[^c-c205f51f1cc95e7ed3e8453b64971b8e]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2016/81/regulation/26) in force at 1.4.2016 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2)
 
 [^f00035]: Footnote: Paragraph 21 of Schedule 4 is amended by [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142) and [S.S.I. 2015/46](https://www.legislation.gov.uk/ssi/2015/46).
 
-[^key-946ae6bcf47f248e1d9eab7dc81936a1]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2016/81/regulation/27) in force at 1.4.2016 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2)
+[^c-946ae6bcf47f248e1d9eab7dc81936a1]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2016/81/regulation/27) in force at 1.4.2016 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2)
 
 [^f00036]: Footnote: Paragraph 1 of Schedule 5 is amended by [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49), [S.S.I. 2013/287](https://www.legislation.gov.uk/ssi/2013/287) and [S.S.I. 2014/35](https://www.legislation.gov.uk/ssi/2014/35).

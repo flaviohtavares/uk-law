@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Duty to participate in education or training: commencement[^key-f9fe6d80bef42fd910044ce5fd1837e9]
+## 74. Duty to participate in education or training: commencement[^c-f9fe6d80bef42fd910044ce5fd1837e9]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ In section 173 of ESA 2008 (commencement), for subsections (9) and (10) substitu
 
 ## Annotations
 
-[^key-f9fe6d80bef42fd910044ce5fd1837e9]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2011/21/section/74) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
+[^c-f9fe6d80bef42fd910044ce5fd1837e9]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2011/21/section/74) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)

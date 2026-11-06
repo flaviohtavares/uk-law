@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32.1. Power of court to control evidence[^key-85d6412459e70561c3e0e04acecf82f3]
+## 32.1. Power of court to control evidence[^c-85d6412459e70561c3e0e04acecf82f3]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85d6412459e70561c3e0e04acecf82f3]: Commencement: [Rule 32.1](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.1) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-85d6412459e70561c3e0e04acecf82f3]: Commencement: [Rule 32.1](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.1) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Penalty and prosecution for offence under section 69[^key-a8a5ce026b07aee817b065770959f469]
+## 70. Penalty and prosecution for offence under section 69[^c-a8a5ce026b07aee817b065770959f469]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) on summary conviction, to imprisonment for a term not exceeding 12 months or to a fine not exceeding the statutory maximum or to both;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine or to both.
 
-(2) A prosecution for an offence under section 69 may be begun in England and Wales only by or with the consent of the Director of Public Prosecutions[^key-f0fc04209e8b3f78b7e402c43e74ef8d]
+(2) A prosecution for an offence under section 69 may be begun in England and Wales only by or with the consent of the Director of Public Prosecutions[^c-f0fc04209e8b3f78b7e402c43e74ef8d]
 
 (3) A prosecution for an offence under section 69 may be begun in Northern Ireland only—
 
@@ -43,7 +43,7 @@ he (as well as the body corporate or partnership) is guilty of the offence and l
 
 (5) In the application of subsection (1)(a) in Northern Ireland, the reference to 12 months is to be read as a reference to 6 months.
 
-(5A)[^key-e341dcbbcb25700f96845cd63ee5fd48] In the application of subsection (1)(a) in England and Wales, the reference to 12 months is to be read as a reference to the general limit in a magistrates’ court subject to paragraph 8 of Schedule 13.
+(5A)[^c-e341dcbbcb25700f96845cd63ee5fd48] In the application of subsection (1)(a) in England and Wales, the reference to 12 months is to be read as a reference to the general limit in a magistrates’ court subject to paragraph 8 of Schedule 13.
 
 (6) In this section—
 
@@ -55,8 +55,8 @@ he (as well as the body corporate or partnership) is guilty of the offence and l
 
 ## Annotations
 
-[^key-a8a5ce026b07aee817b065770959f469]: Commencement: S. 70 in force at 1.10.2008 by [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/c)
+[^c-a8a5ce026b07aee817b065770959f469]: Commencement: S. 70 in force at 1.10.2008 by [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/c)
 
-[^key-f0fc04209e8b3f78b7e402c43e74ef8d]: Textual amendment: Words in [s. 70(2)](https://www.legislation.gov.uk/ukpga/2007/27/section/70/2) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 50](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/50)
+[^c-f0fc04209e8b3f78b7e402c43e74ef8d]: Textual amendment: Words in [s. 70(2)](https://www.legislation.gov.uk/ukpga/2007/27/section/70/2) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 50](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/50)
 
-[^key-e341dcbbcb25700f96845cd63ee5fd48]: Textual amendment: [S. 70(5A)](https://www.legislation.gov.uk/ukpga/2007/27/section/70/5A) inserted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2023/149/regulation/14/3)
+[^c-e341dcbbcb25700f96845cd63ee5fd48]: Textual amendment: [S. 70(5A)](https://www.legislation.gov.uk/ukpga/2007/27/section/70/5A) inserted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2023/149/regulation/14/3)

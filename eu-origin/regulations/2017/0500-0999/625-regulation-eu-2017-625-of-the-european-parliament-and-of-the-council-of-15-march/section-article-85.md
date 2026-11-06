@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. Competent authorities[^key-040a8a58ed427aef2713963ec23f93f9] shall ensure a high level of transparency on:
+1. Competent authorities[^c-040a8a58ed427aef2713963ec23f93f9] shall ensure a high level of transparency on:
 
 - (a) the fees or charges provided for in point (a) of Article 79(1), Article 79(2) and Article 80, namely on:
   - ((i)) the method and data used to establish these fees or charges;
@@ -28,14 +28,14 @@ summary: ''
   - ((iii)) the breakdown of the costs, as referred to in Article 81;
 - (b) the identity of the authorities or bodies responsible for the collection of the fees or charges.
 
-2. Each competent authority shall make available to the public, including by publication online,[^key-a7e9dd88fe1deb6978b6c69234afb3c1] the information referred to in paragraph 1 of this Article for each reference period and the costs to the competent authority for which a fee or charge is due in accordance with point (a) of Article 79(1), Article 79(2) and Article 80.
+2. Each competent authority shall make available to the public, including by publication online,[^c-a7e9dd88fe1deb6978b6c69234afb3c1] the information referred to in paragraph 1 of this Article for each reference period and the costs to the competent authority for which a fee or charge is due in accordance with point (a) of Article 79(1), Article 79(2) and Article 80.
 
-3. Competent authorities[^key-e0b59eab18e7ac653882e4baea8e0a53] shall consult relevant stakeholders on the general methods used to calculate the fees or charges provided for in point (a) of Article 79(1), Article 79(2) and Article 80.
+3. Competent authorities[^c-e0b59eab18e7ac653882e4baea8e0a53] shall consult relevant stakeholders on the general methods used to calculate the fees or charges provided for in point (a) of Article 79(1), Article 79(2) and Article 80.
 
 ## Annotations
 
-[^key-040a8a58ed427aef2713963ec23f93f9]: Textual amendment: Words in Art. 85(1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [16(5)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/16/5) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-040a8a58ed427aef2713963ec23f93f9]: Textual amendment: Words in Art. 85(1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [16(5)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/16/5) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-a7e9dd88fe1deb6978b6c69234afb3c1]: Textual amendment: Words in Art. 85(2) substituted (30.4.2024) by [The Official Controls (Fees and Charges) (Amendment) Regulations 2024 (S.I. 2024/547)](https://www.legislation.gov.uk/uksi/2024/547), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2024/547/regulation/1/1/b), [2(6)](https://www.legislation.gov.uk/uksi/2024/547/regulation/2/6)
+[^c-a7e9dd88fe1deb6978b6c69234afb3c1]: Textual amendment: Words in Art. 85(2) substituted (30.4.2024) by [The Official Controls (Fees and Charges) (Amendment) Regulations 2024 (S.I. 2024/547)](https://www.legislation.gov.uk/uksi/2024/547), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2024/547/regulation/1/1/b), [2(6)](https://www.legislation.gov.uk/uksi/2024/547/regulation/2/6)
 
-[^key-e0b59eab18e7ac653882e4baea8e0a53]: Textual amendment: Words in Art. 85(3) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [16(5)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/16/5) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-e0b59eab18e7ac653882e4baea8e0a53]: Textual amendment: Words in Art. 85(3) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [16(5)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/16/5) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

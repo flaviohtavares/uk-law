@@ -41,41 +41,41 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by sections 122(1)(a) and (d), 131(1) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Articles 6(5) and 36(2) of the Jobseekers (Northern Ireland) Order 1995[^f00002] and now vested in it[^f00003], and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel[^f00004] in so far as regulation 2 is concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of that regulation should not be referred to it[^f00005], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-0f2c7a5bbb4c7e7a24a3323e7e537312]
+## 1. Citation, commencement and interpretation[^c-0f2c7a5bbb4c7e7a24a3323e7e537312]
 
 (1) These Regulations may be cited as the Social Security (Carer Premium Amendment) Regulations (Northern Ireland) 2002 and shall come into operation on 28th October 2002.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Income support and housing benefit: carer premium run-on[^key-6bdf74e30d870939130535b996301c38]
+## 2. Income support and housing benefit: carer premium run-on[^c-6bdf74e30d870939130535b996301c38]
 
-In paragraph 14ZA (carer premium) of Schedule 2 (applicable amounts) to the Income Support (General) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^key-36d1173fc91e9848b0edebe56f91d5bc][^f00007] and paragraph 14ZA (Carer Premium) of Schedule 2 (applicable amounts) to the Housing Benefit (General) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^key-36d1173fc91e9848b0edebe56f91d5bc][^f00008] –
+In paragraph 14ZA (carer premium) of Schedule 2 (applicable amounts) to the Income Support (General) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^c-36d1173fc91e9848b0edebe56f91d5bc][^f00007] and paragraph 14ZA (Carer Premium) of Schedule 2 (applicable amounts) to the Housing Benefit (General) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^c-36d1173fc91e9848b0edebe56f91d5bc][^f00008] –
 
-- (a) for sub-paragraph (3) there shall be substituted the following sub-paragraphs – *(affected by repeal, see note)*[^key-36d1173fc91e9848b0edebe56f91d5bc]
+- (a) for sub-paragraph (3) there shall be substituted the following sub-paragraphs – *(affected by repeal, see note)*[^c-36d1173fc91e9848b0edebe56f91d5bc]
 
-  > (3) Where a carer premium is awarded but – *(affected by repeal, see note)*[^key-36d1173fc91e9848b0edebe56f91d5bc]
+  > (3) Where a carer premium is awarded but – *(affected by repeal, see note)*[^c-36d1173fc91e9848b0edebe56f91d5bc]
   >
-  > - (a) the person in respect of whose care the invalid care allowance has been awarded dies, or *(affected by repeal, see note)*[^key-36d1173fc91e9848b0edebe56f91d5bc]
-  > - (b) in any other case the person in respect of whom a carer premium has been awarded ceases to be entitled or ceases to be treated as entitled to an invalid care allowance, *(affected by repeal, see note)*[^key-36d1173fc91e9848b0edebe56f91d5bc]
+  > - (a) the person in respect of whose care the invalid care allowance has been awarded dies, or *(affected by repeal, see note)*[^c-36d1173fc91e9848b0edebe56f91d5bc]
+  > - (b) in any other case the person in respect of whom a carer premium has been awarded ceases to be entitled or ceases to be treated as entitled to an invalid care allowance, *(affected by repeal, see note)*[^c-36d1173fc91e9848b0edebe56f91d5bc]
   >
-  > the condition for the award of the premium shall be treated as satisfied for a period of eight weeks from the relevant date specified in sub-paragraph (3A). *(affected by repeal, see note)*[^key-36d1173fc91e9848b0edebe56f91d5bc]
+  > the condition for the award of the premium shall be treated as satisfied for a period of eight weeks from the relevant date specified in sub-paragraph (3A). *(affected by repeal, see note)*[^c-36d1173fc91e9848b0edebe56f91d5bc]
   >
-  > (3A) The relevant date for the purposes of sub-paragraph (3) shall be – *(affected by repeal, see note)*[^key-36d1173fc91e9848b0edebe56f91d5bc]
+  > (3A) The relevant date for the purposes of sub-paragraph (3) shall be – *(affected by repeal, see note)*[^c-36d1173fc91e9848b0edebe56f91d5bc]
   >
-  > - (a) the Sunday following the death of the person in respect of whose care an invalid care allowance has been awarded or the date of death if the death occurred on a Sunday; *(affected by repeal, see note)*[^key-36d1173fc91e9848b0edebe56f91d5bc]
-  > - (b) where sub-paragraph (2) applies, the date on which the person in respect of whose care the invalid care allowance has been awarded ceased to be in receipt of the allowances referred to in head (b) of that sub-paragraph; *(affected by repeal, see note)*[^key-36d1173fc91e9848b0edebe56f91d5bc]
-  > - (c) in any other case, the date on which the person who has been entitled to an invalid care allowance ceases to be entitled to that allowance. *(affected by repeal, see note)*[^key-36d1173fc91e9848b0edebe56f91d5bc]
+  > - (a) the Sunday following the death of the person in respect of whose care an invalid care allowance has been awarded or the date of death if the death occurred on a Sunday; *(affected by repeal, see note)*[^c-36d1173fc91e9848b0edebe56f91d5bc]
+  > - (b) where sub-paragraph (2) applies, the date on which the person in respect of whose care the invalid care allowance has been awarded ceased to be in receipt of the allowances referred to in head (b) of that sub-paragraph; *(affected by repeal, see note)*[^c-36d1173fc91e9848b0edebe56f91d5bc]
+  > - (c) in any other case, the date on which the person who has been entitled to an invalid care allowance ceases to be entitled to that allowance. *(affected by repeal, see note)*[^c-36d1173fc91e9848b0edebe56f91d5bc]
 
   ;
-- (b) in sub-paragraph (4) for heads (a) and (b) there shall be substituted the following heads – *(affected by repeal, see note)*[^key-36d1173fc91e9848b0edebe56f91d5bc]
+- (b) in sub-paragraph (4) for heads (a) and (b) there shall be substituted the following heads – *(affected by repeal, see note)*[^c-36d1173fc91e9848b0edebe56f91d5bc]
 
-  > - (a) the person in respect of whose care the invalid care allowance has been awarded dies; *(affected by repeal, see note)*[^key-36d1173fc91e9848b0edebe56f91d5bc]
-  > - (b) where sub-paragraph (2) applies, the person in respect of whose care the invalid care allowance has been awarded ceased to be in receipt of the allowances referred to in head (b) of that sub-paragraph; *(affected by repeal, see note)*[^key-36d1173fc91e9848b0edebe56f91d5bc]
-  > - (c) in any other case, that person was last entitled to invalid care allowance. *(affected by repeal, see note)*[^key-36d1173fc91e9848b0edebe56f91d5bc]
+  > - (a) the person in respect of whose care the invalid care allowance has been awarded dies; *(affected by repeal, see note)*[^c-36d1173fc91e9848b0edebe56f91d5bc]
+  > - (b) where sub-paragraph (2) applies, the person in respect of whose care the invalid care allowance has been awarded ceased to be in receipt of the allowances referred to in head (b) of that sub-paragraph; *(affected by repeal, see note)*[^c-36d1173fc91e9848b0edebe56f91d5bc]
+  > - (c) in any other case, that person was last entitled to invalid care allowance. *(affected by repeal, see note)*[^c-36d1173fc91e9848b0edebe56f91d5bc]
 
   .
 
-## 3. Jobseeker’s allowance: carer premium run-on[^key-f9ccd87d2a3ada5ee42c05f8ae8349fb]
+## 3. Jobseeker’s allowance: carer premium run-on[^c-f9ccd87d2a3ada5ee42c05f8ae8349fb]
 
 In Schedule 1 (applicable amounts) to the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00009] –
 
@@ -166,19 +166,19 @@ These Regulations do not impose any charge on business.
 
 [^f00005]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-0f2c7a5bbb4c7e7a24a3323e7e537312]: Commencement: Reg. 1 in operation at 28.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/322/regulation/1/1)
+[^c-0f2c7a5bbb4c7e7a24a3323e7e537312]: Commencement: Reg. 1 in operation at 28.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/322/regulation/1/1)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-6bdf74e30d870939130535b996301c38]: Commencement: Reg. 2 in operation at 28.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/322/regulation/1/1)
+[^c-6bdf74e30d870939130535b996301c38]: Commencement: Reg. 2 in operation at 28.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/322/regulation/1/1)
 
-[^key-36d1173fc91e9848b0edebe56f91d5bc]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2002/322/regulation/2) revoked in part (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-36d1173fc91e9848b0edebe56f91d5bc]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2002/322/regulation/2) revoked in part (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00007]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); paragraph 14ZA was inserted by regulation 6(d) of [S.R. 1990 No. 346](https://www.legislation.gov.uk/nisr/1990/346) and sub-paragraphs (3) and (4) were substituted by regulation 4(2)(b)(iii) of [S.R. 2000 No. 74](https://www.legislation.gov.uk/nisr/2000/74)
 
 [^f00008]: Footnote: [S.R. 1987 No. 461](https://www.legislation.gov.uk/nisr/1987/461); paragraph 14ZA was inserted by regulation 9(d) of [S.R. 1990 No. 345](https://www.legislation.gov.uk/nisr/1990/345) and sub-paragraphs (3) and (4) were substituted by regulation 4(4)(b)(iii) of [S.R. 2000 No. 74](https://www.legislation.gov.uk/nisr/2000/74)
 
-[^key-f9ccd87d2a3ada5ee42c05f8ae8349fb]: Commencement: Reg. 3 in operation at 28.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/322/regulation/1/1)
+[^c-f9ccd87d2a3ada5ee42c05f8ae8349fb]: Commencement: Reg. 3 in operation at 28.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/322/regulation/1/1)
 
 [^f00009]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 2000 Nos. 74](https://www.legislation.gov.uk/nisr/2000/74) and [350](https://www.legislation.gov.uk/nisr/2000/350)
 

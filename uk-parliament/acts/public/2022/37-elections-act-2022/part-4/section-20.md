@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Notional expenditure: use of property etc on behalf of candidates and others[^key-8ae7d2934a336ffb858bac22860e4aab][^key-008b3b93a54ba91f4e1c9413bf042259]
+## 20. Notional expenditure: use of property etc on behalf of candidates and others[^c-8ae7d2934a336ffb858bac22860e4aab][^c-008b3b93a54ba91f4e1c9413bf042259]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8ae7d2934a336ffb858bac22860e4aab]: Commencement: S. 20 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-8ae7d2934a336ffb858bac22860e4aab]: Commencement: S. 20 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-008b3b93a54ba91f4e1c9413bf042259]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2022/37/section/20) in force at 24.11.2022 by [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/3/1))
+[^c-008b3b93a54ba91f4e1c9413bf042259]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2022/37/section/20) in force at 24.11.2022 by [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/3/1))

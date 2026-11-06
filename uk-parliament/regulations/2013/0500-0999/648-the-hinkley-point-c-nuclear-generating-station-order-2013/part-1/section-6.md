@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Authorisation of use[^key-87fc7d1930f2f54096374b2dd42b4774]
+## 6. Authorisation of use[^c-87fc7d1930f2f54096374b2dd42b4774]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Subject to the provisions of this Order and to the requirements the undertaker m
 
 ## Annotations
 
-[^key-87fc7d1930f2f54096374b2dd42b4774]: Commencement: Art. 6 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-87fc7d1930f2f54096374b2dd42b4774]: Commencement: Art. 6 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

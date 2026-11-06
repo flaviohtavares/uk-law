@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## SCHEDULE 3 — ADDITIONAL REQUIREMENTS FOR KILLING ANIMALS IN ACCORDANCE WITH RELIGIOUS RITES[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+## SCHEDULE 3 — ADDITIONAL REQUIREMENTS FOR KILLING ANIMALS IN ACCORDANCE WITH RELIGIOUS RITES[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 *Extent: E+W+S+NI*
 
@@ -24,54 +24,54 @@ summary: ''
 
 Regulation 27
 
-### PART 1 — Introductory[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+### PART 1 — Introductory[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
-#### 1. Interpretation[^key-eaeb0b05bdec91f07b9245f3afc817bd]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. General prohibition[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+#### 1. Interpretation[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Sheep, goats and bovine animals[^key-eaeb0b05bdec91f07b9245f3afc817bd]
-
-#### 3. Restraint of adult bovine animals[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+#### 2. General prohibition[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Use and maintenance of restraining pens[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+### PART 2 — Sheep, goats and bovine animals[^c-eaeb0b05bdec91f07b9245f3afc817bd]
+
+#### 3. Restraint of adult bovine animals[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Method of killing[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+#### 4. Use and maintenance of restraining pens[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Handling of sheep, goats and bovine animals during killing[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+#### 5. Method of killing[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — Birds[^key-eaeb0b05bdec91f07b9245f3afc817bd]
-
-#### 7. Method of killing[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+#### 6. Handling of sheep, goats and bovine animals during killing[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Handling birds during killing[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+### PART 3 — Birds[^c-eaeb0b05bdec91f07b9245f3afc817bd]
+
+#### 7. Method of killing[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4 — Rabbinical Commission[^key-eaeb0b05bdec91f07b9245f3afc817bd]
-
-#### 9. Membership[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+#### 8. Handling birds during killing[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Supplementary[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+### PART 4 — Rabbinical Commission[^c-eaeb0b05bdec91f07b9245f3afc817bd]
+
+#### 9. Membership[^c-eaeb0b05bdec91f07b9245f3afc817bd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 10. Supplementary[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eaeb0b05bdec91f07b9245f3afc817bd]: Textual amendment: Regulations revoked (19.5.2014) by [The Welfare of Animals at the Time of Killing (Revocation) Regulations 2014 (S.I. 2014/1258)](https://www.legislation.gov.uk/uksi/2014/1258), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1258/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2014/1258/regulation/2)
+[^c-eaeb0b05bdec91f07b9245f3afc817bd]: Textual amendment: Regulations revoked (19.5.2014) by [The Welfare of Animals at the Time of Killing (Revocation) Regulations 2014 (S.I. 2014/1258)](https://www.legislation.gov.uk/uksi/2014/1258), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1258/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2014/1258/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Closed schemes: further assessment periods[^key-b14b560b57eee78041a5bbad2748a795]
+## 159. Closed schemes: further assessment periods[^c-b14b560b57eee78041a5bbad2748a795]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b14b560b57eee78041a5bbad2748a795]: Commencement: S. 159 in force at 6.4.2007 by [S.I. 2006/2272](https://www.legislation.gov.uk/uksi/2006/2272), [art. 2(7)](https://www.legislation.gov.uk/uksi/2006/2272/article/2/7), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2006/2272/schedule/part/2)
+[^c-b14b560b57eee78041a5bbad2748a795]: Commencement: S. 159 in force at 6.4.2007 by [S.I. 2006/2272](https://www.legislation.gov.uk/uksi/2006/2272), [art. 2(7)](https://www.legislation.gov.uk/uksi/2006/2272/article/2/7), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2006/2272/schedule/part/2)

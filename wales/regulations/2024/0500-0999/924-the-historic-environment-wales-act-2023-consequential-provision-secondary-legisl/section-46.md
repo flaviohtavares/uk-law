@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. The Corporation Tax (Land Remediation Relief) Order 2009[^key-146d6deabf2aabd420b01f680c4f5ed2]
+## 46. The Corporation Tax (Land Remediation Relief) Order 2009[^c-146d6deabf2aabd420b01f680c4f5ed2]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ In the table in article 5 of the Corporation Tax (Land Remediation Relief) Order
 
 ## Annotations
 
-[^key-146d6deabf2aabd420b01f680c4f5ed2]: Commencement: [Reg. 46](https://www.legislation.gov.uk/wsi/2024/924/regulation/46) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-146d6deabf2aabd420b01f680c4f5ed2]: Commencement: [Reg. 46](https://www.legislation.gov.uk/wsi/2024/924/regulation/46) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00030]: Footnote: [S.I. 2009/2037](https://www.legislation.gov.uk/uksi/2009/2037), to which there are amendments not relevant to these Regulations.

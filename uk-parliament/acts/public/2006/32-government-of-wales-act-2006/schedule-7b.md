@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7B — General restrictions[^key-98f420133139b36acfae8a377ed1b38f]
+## SCHEDULE 7B — General restrictions[^c-98f420133139b36acfae8a377ed1b38f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ Section 108A
 
 #### The law on reserved matters
 
-**1.** (1) A provision of an Act of the Senedd[^key-60edd79c70d763519861630d1afb7962] cannot make modifications of, or confer power by subordinate legislation to make modifications of, the law on reserved matters.
+**1.** (1) A provision of an Act of the Senedd[^c-60edd79c70d763519861630d1afb7962] cannot make modifications of, or confer power by subordinate legislation to make modifications of, the law on reserved matters.
 
 (2) “**"The law on reserved matters”**” means—
 
@@ -85,15 +85,15 @@ and in this sub-paragraph “**"Act of Parliament”**” does not include this 
 
 | *Enactment* | *Provisions protected from modification* |
 | --- | --- |
-| [^key-cc0e8ffdce3129864894e0f16a6bc7be]. . . | [^key-cc0e8ffdce3129864894e0f16a6bc7be]. . . |
+| [^c-cc0e8ffdce3129864894e0f16a6bc7be]. . . | [^c-cc0e8ffdce3129864894e0f16a6bc7be]. . . |
 | Government of Wales Act 1998 | Section 144(7). |
 | Human Rights Act 1998 | The whole Act. |
 | Civil Contingencies Act 2004 | The whole Act. |
 | Energy Act 2008 | Section 100 and regulations under that section. |
-| The European Union (Withdrawal) Act 2018[^key-de6c87d7bf623ab9bfac63064d814913] | The whole Act other than any excluded provision[^key-9d164e0b57641622561f1c6a5f5674b8]. |
-| The United Kingdom Internal Market Act 2020[^key-b3318fac352f6ccd16b30c1f6b58d7f0] | The whole Act |
+| The European Union (Withdrawal) Act 2018[^c-de6c87d7bf623ab9bfac63064d814913] | The whole Act other than any excluded provision[^c-9d164e0b57641622561f1c6a5f5674b8]. |
+| The United Kingdom Internal Market Act 2020[^c-b3318fac352f6ccd16b30c1f6b58d7f0] | The whole Act |
 
-(1A)[^key-713cd8f5fa74e514c11d133b9d2ec860] For the purposes of the entry in the table in sub-paragraph (1) for the European Union (Withdrawal) Act 2018, the following are excluded provisions of that Act—
+(1A)[^c-713cd8f5fa74e514c11d133b9d2ec860] For the purposes of the entry in the table in sub-paragraph (1) for the European Union (Withdrawal) Act 2018, the following are excluded provisions of that Act—
 
 - (a) section 1B(3) and (4),
 - (b) sections 8A to 8C,
@@ -123,7 +123,7 @@ or confer power by subordinate legislation to do so.
 (5) A ““non-governmental committee provision”” is a provision conferring functions on a committee of the Senedd that—
 
 - (a) does not consist of or include members of the Welsh Government, and
-- (b) is not chaired by a Member of the Senedd[^key-9348d22b2d042136af6e1508e7843105] who is a member of a political group with an executive role,
+- (b) is not chaired by a Member of the Senedd[^c-9348d22b2d042136af6e1508e7843105] who is a member of a political group with an executive role,
 
 or a provision conferring power by subordinate legislation to do so.
 
@@ -138,7 +138,7 @@ or a provision conferring power by subordinate legislation to do so.
 (2) Sub-paragraph (1) does not apply to—
 
 - (a) the following provisions in Part 1 (the Senedd)—
-  - (i) in section 1(1), the words from “Senedd Cymru”[^key-ac1ffdd1715c36b31af7a26a6aec3918] to the end;
+  - (i) in section 1(1), the words from “Senedd Cymru”[^c-ac1ffdd1715c36b31af7a26a6aec3918] to the end;
   - (ii) section 1(2) to (5);
   - (iii) section 2;
   - (iv) section 3(1), (1B) and (2) to (4);
@@ -148,23 +148,23 @@ or a provision conferring power by subordinate legislation to do so.
   - (viii) section 24;
   - (ix) section 25(1)(b) and (2) to (15);
   - (x) section 26(2) to (4);
-  - (xi) in section 27(1), the words from “the Senedd Commission”[^key-6b0849fb271b1ac20efb1899350b1357] to the end;
+  - (xi) in section 27(1), the words from “the Senedd Commission”[^c-6b0849fb271b1ac20efb1899350b1357] to the end;
   - (xii) section 27(2) to (4), (6) and (7);
   - (xiii) section 28;
   - (xiv) section 30;
   - (xv) section 34(1) and (2);
   - (xvi) sections 35 and 36;
   - (xvii) sections 38 to 43;
-  - (xviii)[^key-55b392625fc2745737b0d32bdb622b8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (xviii)[^c-55b392625fc2745737b0d32bdb622b8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (xix) paragraphs 1, 2, 3(1), (2) and (4) to (7), 4 and 7 to 11 of Schedule 2;
 - (b) the following provisions in Part 2 (the Welsh Government)—
-  - (i) sections 51,[^key-8ba1d2ea3647e46d885a8851f424e61a] 53 and 54;
+  - (i) sections 51,[^c-8ba1d2ea3647e46d885a8851f424e61a] 53 and 54;
   - (ii) sections 60 and 61;
   - (iii) sections 72 to 75;
   - (iv) sections 77 to 79;
   - (v) section 91;
 - (c) the following provisions in Part 4 (Acts of the Senedd)—
-  - (i) in section 107(1), the words from “Acts of Senedd Cymru”[^key-7b5572da721893b76c3aae00cde34982] to the end;
+  - (i) in section 107(1), the words from “Acts of Senedd Cymru”[^c-7b5572da721893b76c3aae00cde34982] to the end;
   - (ii) section 110;
   - (iii) section 111(1)(a) and (b), (2), (3) and (5);
 - (d) the following provisions in Part 5 (finance)—
@@ -175,7 +175,7 @@ or a provision conferring power by subordinate legislation to do so.
   - (v) any provision of Schedule 8;
 - (e) the following provisions in Part 6 (miscellaneous and supplementary)—
   - (i) sections 146 to 148;
-  - (ii)[^key-aed35d871fc308d6fa891c801a128455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-aed35d871fc308d6fa891c801a128455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Sub-paragraph (1) does not apply to any provision—
 
@@ -245,7 +245,7 @@ unless the appropriate Minister consents to the provision.
 - (e) the Human Tissue Authority;
 - (f) the NHS Business Services Authority or Awdurdod Gwasanaethau Busnes y GIG;
 - (g) NHS Blood and Transplant or Gwaed a Thrawsblaniadau'r GIG;
-- (h) the Open University ;[^key-e05bf4fccc4e3caf75911e889b08f95f]
+- (h) the Open University ;[^c-e05bf4fccc4e3caf75911e889b08f95f]
 - (i) the Controller of Plant Variety Rights.
 
 (3) Paragraph 8(1)(a) does not apply to the conferral or imposition on the traffic commissioners of a function relating to—
@@ -255,10 +255,10 @@ unless the appropriate Minister consents to the provision.
 
 (4) Paragraph 8(1)(a) does not apply to—
 
-- (a) the conferral or imposition on a court of a devolved function [^key-298a6389363d8c23cd8ea522fe888c64]...;
+- (a) the conferral or imposition on a court of a devolved function [^c-298a6389363d8c23cd8ea522fe888c64]...;
 - (b) the conferral or imposition on a tribunal of a function involving, or connected with, making a decision in relation to a matter that is not a reserved matter.
 
-(4A)[^key-54b2785621fa46ac426bfb6dbe316cd1] In sub-paragraph (4)(a), a “devolved function” is a function involving deciding an application or an appeal in relation to a matter that is not a reserved matter, but this does not include the function of deciding an appeal from a court or from a tribunal to which paragraph 9 of Schedule 7A applies (tribunals other than devolved tribunals).
+(4A)[^c-54b2785621fa46ac426bfb6dbe316cd1] In sub-paragraph (4)(a), a “devolved function” is a function involving deciding an application or an appeal in relation to a matter that is not a reserved matter, but this does not include the function of deciding an appeal from a court or from a tribunal to which paragraph 9 of Schedule 7A applies (tribunals other than devolved tribunals).
 
 (5) Paragraph 8(1)(c) does not apply to a provision to which paragraph 8(1)(a) applies or would apply but for sub-paragraph (2) of this paragraph.
 
@@ -267,11 +267,11 @@ unless the appropriate Minister consents to the provision.
 - (a) a water or sewerage undertaker;
 - (b) the Consumer Council for Water;
 - (c) the Chief Inspector of Drinking Water for Wales or any other person appointed by the Welsh Ministers under section 86 of the Water Industry Act 1991 (assessors for the enforcement of water quality);
-- (d)[^key-1e69b94e9bd519561aaf7ad35437f219] an electoral registration officer (within the meaning of section 8 of the Representation of the People Act 1983).
+- (d)[^c-1e69b94e9bd519561aaf7ad35437f219] an electoral registration officer (within the meaning of section 8 of the Representation of the People Act 1983).
 
 (7) Paragraph 8(1) does not apply in relation to the funding of police and crime commissioners through council tax precepts.
 
-(8)[^key-58865cd4b8c4d1da3bdd6c37c41ac8b3] Paragraph 8(1)(c) does not apply to a provision of an Act of the Senedd which removes, or confers power by subordinate legislation to remove, a function specifically exercisable in relation to a Minister of the Crown where that function is the giving of consent by the Welsh Ministers and that function—
+(8)[^c-58865cd4b8c4d1da3bdd6c37c41ac8b3] Paragraph 8(1)(c) does not apply to a provision of an Act of the Senedd which removes, or confers power by subordinate legislation to remove, a function specifically exercisable in relation to a Minister of the Crown where that function is the giving of consent by the Welsh Ministers and that function—
 
 - (a) exists to any extent by virtue of regulations made under sections 8 to 8C of the European Union (Withdrawal) Act 2018; or
 - (b) is conferred by, or by regulations made under—
@@ -279,20 +279,20 @@ unless the appropriate Minister consents to the provision.
   - (ii) the Direct Payments to Farmers (Legislative Continuity) Act 2020;
   - (iii) the Coronavirus Act 2020;
   - (iv) the Agriculture Act 2020;
-  - (v) the Fisheries Act 2020; [^key-c6502583de39554968c33d07b0464c59]...
-  - (vi) an Act of Parliament resulting from the Trade Bill that was introduced into the House of Commons on 19th March 2020 ;[^key-36e6ee9438560403b3ea95e1e7d8c526] [^key-04a9444d91751bb4ce5226ebcb3f8f8e]...
-  - (vii) the Environment Act 2021; [^key-a05a736d2a732089d6e101f2b6f8be0f]...
-  - (viii)[^key-b7c41ef54f4ab8314de78f07dcba8a53] the Procurement Act 2023. [^key-0712aa5cb961636248b5363bbd0ce28b]...
-  - (viii)[^key-24238fc90e16dd54c098d270bbd4a64f] Chapter 1 of Part 3 or Part 6 of the Levelling-up and Regeneration Act 2023 ;[^key-4613c6a4b3f409e1d58cbe592c32352d]
-  - (ix) the Animal Welfare (Livestock Exports) Act 2024 ; or[^key-acb682e2f44975804f8a4f5950c78b94]
+  - (v) the Fisheries Act 2020; [^c-c6502583de39554968c33d07b0464c59]...
+  - (vi) an Act of Parliament resulting from the Trade Bill that was introduced into the House of Commons on 19th March 2020 ;[^c-36e6ee9438560403b3ea95e1e7d8c526] [^c-04a9444d91751bb4ce5226ebcb3f8f8e]...
+  - (vii) the Environment Act 2021; [^c-a05a736d2a732089d6e101f2b6f8be0f]...
+  - (viii)[^c-b7c41ef54f4ab8314de78f07dcba8a53] the Procurement Act 2023. [^c-0712aa5cb961636248b5363bbd0ce28b]...
+  - (viii)[^c-24238fc90e16dd54c098d270bbd4a64f] Chapter 1 of Part 3 or Part 6 of the Levelling-up and Regeneration Act 2023 ;[^c-4613c6a4b3f409e1d58cbe592c32352d]
+  - (ix) the Animal Welfare (Livestock Exports) Act 2024 ; or[^c-acb682e2f44975804f8a4f5950c78b94]
   - (x) the Product Regulation and Metrology Act 2025.
 
 (9) Paragraph 8(1)(c) does not apply to a provision of an Act of the Senedd which removes, or confers power by subordinate legislation to remove, a function specifically exercisable in relation to a Minister of the Crown where that function is the seeking of consent, or consultation, by the Welsh Ministers, in relation to the exercise by the Welsh Ministers of a function that is to any extent exercisable concurrently with a Minister of the Crown, and is conferred by, or by regulations made under—
 
 - (a) the European Union (Withdrawal Agreement) Act 2020;
-- (b) the Fisheries Act 2020; [^key-23e133d1147dbd178549c513cadc20f4]...
-- (c) an Act of Parliament resulting from the Trade Bill that was introduced into the House of Commons on 19th March 2020 ; or[^key-3440e7e9436c0f157c159f6010e0474c]
-- (d)[^key-755ae5ed9c020d2b9e2291a7fe6131d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the Fisheries Act 2020; [^c-23e133d1147dbd178549c513cadc20f4]...
+- (c) an Act of Parliament resulting from the Trade Bill that was introduced into the House of Commons on 19th March 2020 ; or[^c-3440e7e9436c0f157c159f6010e0474c]
+- (d)[^c-755ae5ed9c020d2b9e2291a7fe6131d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **10.** (1) A provision of an Act of the Senedd cannot remove or modify, or confer power by subordinate legislation to remove or modify, any function of a public authority other than a devolved Welsh authority, unless the appropriate Minister consents to the provision.
 
@@ -310,8 +310,8 @@ unless the appropriate Minister consents to the provision.
 - (j) the NHS Business Services Authority or Awdurdod Gwasanaethau Busnes y GIG;
 - (k) NHS Blood and Transplant or Gwaed a Thrawsblaniadau'r GIG;
 - (l) the Open University;
-- (m)[^key-6248b407c77d226dec3e947b76de1a83] an electoral registration officer (within the meaning of section 8 of the Representation of the People Act 1983);
-- (n)[^key-9158f405225f342e5bde87ee894248eb] the Controller of Plant Variety Rights.
+- (m)[^c-6248b407c77d226dec3e947b76de1a83] an electoral registration officer (within the meaning of section 8 of the Representation of the People Act 1983);
+- (n)[^c-9158f405225f342e5bde87ee894248eb] the Controller of Plant Variety Rights.
 
 (3) This paragraph does not apply to the removal or modification of a function of the traffic commissioners relating to—
 
@@ -320,14 +320,14 @@ unless the appropriate Minister consents to the provision.
 
 (4) This paragraph does not apply to—
 
-- (a) the removal or modification of a devolved function [^key-ad7c25b3af7f78a9912a2d5f078e47f4]... of a court;
+- (a) the removal or modification of a devolved function [^c-ad7c25b3af7f78a9912a2d5f078e47f4]... of a court;
 - (b) the removal or modification of a function of a tribunal involving, or connected with, making a decision in relation to a matter that is not a reserved matter.
 
 (5) This paragraph does not apply in relation to the funding of police and crime commissioners through council tax precepts.
 
 (6) In this paragraph “**"public authority”**” and “**"appropriate Minister”**” have the same meaning as in paragraph 8.
 
-(7)[^key-e8832a22b1fe4fd6c22bf0a984fe0c11] In this paragraph “devolved function” has the same meaning as in paragraph 9(4A).
+(7)[^c-e8832a22b1fe4fd6c22bf0a984fe0c11] In this paragraph “devolved function” has the same meaning as in paragraph 9(4A).
 
 **11.** (1) A provision of an Act of the Senedd cannot remove or modify, or confer power by subordinate legislation to remove or modify—
 
@@ -342,7 +342,7 @@ unless the appropriate Minister consents to the provision.
 
 (2) A provision of an Act of the Senedd cannot remove or modify, or confer power by subordinate legislation to remove or modify, any function of a Minister of the Crown not falling within sub-paragraph (1) unless the Welsh Ministers have consulted the appropriate Minister about the provision.
 
-(2A)[^key-95a2e7a14283f4954af37855b378a87e] Where sub-paragraph (1)(a) does not apply by virtue of sub-paragraph (6) or (7), a provision of an Act of the Senedd cannot remove, or confer power by subordinate legislation to remove, any function unless the Welsh Ministers have consulted the appropriate Minister about the provision.
+(2A)[^c-95a2e7a14283f4954af37855b378a87e] Where sub-paragraph (1)(a) does not apply by virtue of sub-paragraph (6) or (7), a provision of an Act of the Senedd cannot remove, or confer power by subordinate legislation to remove, any function unless the Welsh Ministers have consulted the appropriate Minister about the provision.
 
 (3) In this paragraph “**"qualified devolved function”**” means a function that—
 
@@ -358,24 +358,24 @@ unless the appropriate Minister consents to the provision.
 
 (5) In this paragraph “**"appropriate Minister”**” has the same meaning as in paragraph 8.
 
-(6)[^key-a19dd4b8cfc2b7e6b4377cc3fcdc3a42] Sub-paragraph (1)(a) does not apply to a provision of an Act of the Senedd which removes, or confers power by subordinate legislation to remove, any function of a Minister of the Crown that is to any extent exercisable concurrently where that function—
+(6)[^c-a19dd4b8cfc2b7e6b4377cc3fcdc3a42] Sub-paragraph (1)(a) does not apply to a provision of an Act of the Senedd which removes, or confers power by subordinate legislation to remove, any function of a Minister of the Crown that is to any extent exercisable concurrently where that function—
 
 - (a) exists to any extent by virtue of regulations made under sections 8 to 8C of the European Union (Withdrawal) Act 2018; or
 - (b) is conferred by, or by regulations made under—
-  - (ai)[^key-b549aabab04dacb1b4d421ddd581375c] section 79 of the New Roads and Street Works Act 1991;
+  - (ai)[^c-b549aabab04dacb1b4d421ddd581375c] section 79 of the New Roads and Street Works Act 1991;
   - (i) the European Union (Withdrawal Agreement) Act 2020;
   - (ii) the Direct Payments to Farmers (Legislative Continuity) Act 2020;
   - (iii) the Coronavirus Act 2020;
   - (iv) the Agriculture Act 2020;
-  - (v) the Fisheries Act 2020; [^key-0316044fc738c3dc8c6e2c959d538ab0]...
-  - (vi) an Act of Parliament resulting from the Trade Bill that was introduced into the House of Commons on 19th March 2020 ;[^key-f151ddb4641c7303877607eb88c0842c] [^key-6645e1993df275bdf988a8511eb94820]...
-  - (vii) the Environment Act 2021 ;[^key-d5c5ec96339a5be3359ca3353d948d48] [^key-55fbf553f302473a2e28be809ac7a2a3]...
-  - (viii) section 28 of the Commercial Rent (Coronavirus) Act 2022 ;[^key-c7f2946fb22f18dd9d68acc1d24341bf] [^key-456e4f16f45dcee1b10265fb36386196]...
-  - (ix) the Professional Qualifications Act 2022 ;[^key-8fb086842b5079ce1f559f99247c55e9] [^key-f75a0750a0081618d1173f97a6adea0c]...
-  - (x)[^key-fffb4e1fc1bfc4a073803a41d1dd9138][^key-b9b8dd8f20a63e3ad95d525cff71c172] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^key-7799c6d1be99d30c259fef517d2a05ed]...
-  - (xi) Chapter 1 of Part 3 or Part 6 of the Levelling-up and Regeneration Act 2023 ,[^key-015fb8c95fdbb3f9d3091b3692c5b527] [^key-2f45ac7556d1ace6e6d5b03d05d6d3a1]...
-  - (xii) the Procurement Act 2023 ;[^M_F_94950843-19e9-4b30-b704-ba06910576a0] [^key-c1dc2562c31748e27ca1bda37c878d5b]...
-  - (xiii) the Animal Welfare (Livestock Exports) Act 2024 ; or[^key-844673cb7fa6933b10e22a11c95a47bb]
+  - (v) the Fisheries Act 2020; [^c-0316044fc738c3dc8c6e2c959d538ab0]...
+  - (vi) an Act of Parliament resulting from the Trade Bill that was introduced into the House of Commons on 19th March 2020 ;[^c-f151ddb4641c7303877607eb88c0842c] [^c-6645e1993df275bdf988a8511eb94820]...
+  - (vii) the Environment Act 2021 ;[^c-d5c5ec96339a5be3359ca3353d948d48] [^c-55fbf553f302473a2e28be809ac7a2a3]...
+  - (viii) section 28 of the Commercial Rent (Coronavirus) Act 2022 ;[^c-c7f2946fb22f18dd9d68acc1d24341bf] [^c-456e4f16f45dcee1b10265fb36386196]...
+  - (ix) the Professional Qualifications Act 2022 ;[^c-8fb086842b5079ce1f559f99247c55e9] [^c-f75a0750a0081618d1173f97a6adea0c]...
+  - (x)[^c-fffb4e1fc1bfc4a073803a41d1dd9138][^c-b9b8dd8f20a63e3ad95d525cff71c172] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c-7799c6d1be99d30c259fef517d2a05ed]...
+  - (xi) Chapter 1 of Part 3 or Part 6 of the Levelling-up and Regeneration Act 2023 ,[^c-015fb8c95fdbb3f9d3091b3692c5b527] [^c-2f45ac7556d1ace6e6d5b03d05d6d3a1]...
+  - (xii) the Procurement Act 2023 ;[^M_F_94950843-19e9-4b30-b704-ba06910576a0] [^c-c1dc2562c31748e27ca1bda37c878d5b]...
+  - (xiii) the Animal Welfare (Livestock Exports) Act 2024 ; or[^c-844673cb7fa6933b10e22a11c95a47bb]
   - (xiv) section 243 of the Crime and Policing Act 2026.
 
 (7) Sub-paragraph (1)(a) does not apply to a provision of an Act of the Senedd which removes, or confers power by subordinate legislation to remove, any function of a Minister of the Crown, where that function concerns consent or agreement to, or consultation about, the exercise of a function that is to any extent exercisable concurrently with a Minister of the Crown and is conferred by, or by regulations made under—
@@ -418,112 +418,112 @@ or conferring power by subordinate legislation to do so.
 
 ## Annotations
 
-[^key-98f420133139b36acfae8a377ed1b38f]: Textual amendment: Schs. 7A, 7B substituted for Sch. 7 (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/3), [Sch. 2](https://www.legislation.gov.uk/ukpga/2017/4/schedule/2) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/2), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1179/regulation/2)
+[^c-98f420133139b36acfae8a377ed1b38f]: Textual amendment: Schs. 7A, 7B substituted for Sch. 7 (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/3), [Sch. 2](https://www.legislation.gov.uk/ukpga/2017/4/schedule/2) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/2), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1179/regulation/2)
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
 
-[^key-cc0e8ffdce3129864894e0f16a6bc7be]: Textual amendment: Sch. 7B para. 5(1) table entry omitted (31.12.2020) by virtue of [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 3 para. 48(a)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/3/paragraph/48/a) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/l) (with [regs. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10), [22](https://www.legislation.gov.uk/uksi/2020/1622/regulation/22))
+[^c-cc0e8ffdce3129864894e0f16a6bc7be]: Textual amendment: Sch. 7B para. 5(1) table entry omitted (31.12.2020) by virtue of [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 3 para. 48(a)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/3/paragraph/48/a) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/l) (with [regs. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10), [22](https://www.legislation.gov.uk/uksi/2020/1622/regulation/22))
 
-[^key-de6c87d7bf623ab9bfac63064d814913]: Textual amendment: Sch. 7B para. 5(1) table entry inserted (26.6.2018) by [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(1)(b)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/1/b), [Sch. 3 para. 48(b)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/3/paragraph/48/b) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37))
+[^c-de6c87d7bf623ab9bfac63064d814913]: Textual amendment: Sch. 7B para. 5(1) table entry inserted (26.6.2018) by [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(1)(b)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/1/b), [Sch. 3 para. 48(b)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/3/paragraph/48/b) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37))
 
-[^key-9d164e0b57641622561f1c6a5f5674b8]: Textual amendment: Words in Sch. 7B para. 5(1) table inserted (23.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(6)(e)(vi)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/e/vi), [Sch. 5 para. 31(2)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/31/2) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3))
+[^c-9d164e0b57641622561f1c6a5f5674b8]: Textual amendment: Words in Sch. 7B para. 5(1) table inserted (23.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(6)(e)(vi)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/e/vi), [Sch. 5 para. 31(2)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/31/2) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3))
 
-[^key-b3318fac352f6ccd16b30c1f6b58d7f0]: Textual amendment: Sch. 7B para. 5(1) table entry inserted (31.12.2020) by [United Kingdom Internal Market Act 2020 (c. 27)](https://www.legislation.gov.uk/ukpga/2020/27), [ss. 54(2)](https://www.legislation.gov.uk/ukpga/2020/27/section/54/2), [59(3)](https://www.legislation.gov.uk/ukpga/2020/27/section/59/3) (with [s. 55(2)](https://www.legislation.gov.uk/ukpga/2020/27/section/55/2)); [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/k)
+[^c-b3318fac352f6ccd16b30c1f6b58d7f0]: Textual amendment: Sch. 7B para. 5(1) table entry inserted (31.12.2020) by [United Kingdom Internal Market Act 2020 (c. 27)](https://www.legislation.gov.uk/ukpga/2020/27), [ss. 54(2)](https://www.legislation.gov.uk/ukpga/2020/27/section/54/2), [59(3)](https://www.legislation.gov.uk/ukpga/2020/27/section/59/3) (with [s. 55(2)](https://www.legislation.gov.uk/ukpga/2020/27/section/55/2)); [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/k)
 
-[^key-713cd8f5fa74e514c11d133b9d2ec860]: Textual amendment: Sch. 7B para. 5(1A) inserted (23.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(6)(e)(vi)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/e/vi), [Sch. 5 para. 31(3)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/31/3) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3))
+[^c-713cd8f5fa74e514c11d133b9d2ec860]: Textual amendment: Sch. 7B para. 5(1A) inserted (23.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(6)(e)(vi)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/e/vi), [Sch. 5 para. 31(3)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/31/3) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3))
 
-[^key-9348d22b2d042136af6e1508e7843105]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(15)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/15) (with [Sch. 1 para. 2(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11)[(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/12)[(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/14))
+[^c-9348d22b2d042136af6e1508e7843105]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(15)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/15) (with [Sch. 1 para. 2(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11)[(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/12)[(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/14))
 
-[^key-ac1ffdd1715c36b31af7a26a6aec3918]: Textual amendment: Words in Sch. 7B para. 7(2)(a)(i) substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(9)(a)(i)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/9/a/i)
+[^c-ac1ffdd1715c36b31af7a26a6aec3918]: Textual amendment: Words in Sch. 7B para. 7(2)(a)(i) substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(9)(a)(i)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/9/a/i)
 
-[^key-6b0849fb271b1ac20efb1899350b1357]: Textual amendment: Words in Sch. 7B para. 7(2)(a)(xi) substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(9)(a)(ii)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/9/a/ii)
+[^c-6b0849fb271b1ac20efb1899350b1357]: Textual amendment: Words in Sch. 7B para. 7(2)(a)(xi) substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(9)(a)(ii)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/9/a/ii)
 
-[^key-55b392625fc2745737b0d32bdb622b8c]: Textual amendment: [Sch. 7B para. 7(2)(a)(xviii)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7B/paragraph/7/2/a/xviii) omitted (11.3.2021) by virtue of [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2021/290/article/3/2/a)
+[^c-55b392625fc2745737b0d32bdb622b8c]: Textual amendment: [Sch. 7B para. 7(2)(a)(xviii)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7B/paragraph/7/2/a/xviii) omitted (11.3.2021) by virtue of [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2021/290/article/3/2/a)
 
-[^key-8ba1d2ea3647e46d885a8851f424e61a]: Textual amendment: Word in [Sch. 7B para. 7(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7B/paragraph/7/2/b/i) inserted (11.3.2021) by [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2021/290/article/3/2/b)
+[^c-8ba1d2ea3647e46d885a8851f424e61a]: Textual amendment: Word in [Sch. 7B para. 7(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7B/paragraph/7/2/b/i) inserted (11.3.2021) by [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2021/290/article/3/2/b)
 
-[^key-7b5572da721893b76c3aae00cde34982]: Textual amendment: Words in Sch. 7B para. 7(2)(c)(i) substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(9)(b)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/9/b)
+[^c-7b5572da721893b76c3aae00cde34982]: Textual amendment: Words in Sch. 7B para. 7(2)(c)(i) substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(9)(b)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/9/b)
 
-[^key-aed35d871fc308d6fa891c801a128455]: Textual amendment: Sch. 7B para. 7(2)(e)(ii) omitted (11.9.2019) by virtue of [Legislation (Wales) Act 2019 (anaw 4)](https://www.legislation.gov.uk/anaw/2019/4), [s. 44(1)(e)](https://www.legislation.gov.uk/anaw/2019/4/section/44/1/e), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/anaw/2019/4/schedule/2/paragraph/2/3)
+[^c-aed35d871fc308d6fa891c801a128455]: Textual amendment: Sch. 7B para. 7(2)(e)(ii) omitted (11.9.2019) by virtue of [Legislation (Wales) Act 2019 (anaw 4)](https://www.legislation.gov.uk/anaw/2019/4), [s. 44(1)(e)](https://www.legislation.gov.uk/anaw/2019/4/section/44/1/e), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/anaw/2019/4/schedule/2/paragraph/2/3)
 
-[^key-e05bf4fccc4e3caf75911e889b08f95f]: Textual amendment: Sch. 7B para. 9(2)(i) inserted (11.3.2021) by [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2021/290/article/4/2)
+[^c-e05bf4fccc4e3caf75911e889b08f95f]: Textual amendment: Sch. 7B para. 9(2)(i) inserted (11.3.2021) by [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2021/290/article/4/2)
 
-[^key-298a6389363d8c23cd8ea522fe888c64]: Textual amendment: Words in Sch. 7B para. 9(4)(a) omitted (11.3.2021) by virtue of [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2021/290/article/4/3)
+[^c-298a6389363d8c23cd8ea522fe888c64]: Textual amendment: Words in Sch. 7B para. 9(4)(a) omitted (11.3.2021) by virtue of [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2021/290/article/4/3)
 
-[^key-54b2785621fa46ac426bfb6dbe316cd1]: Textual amendment: Sch. 7B para. 9(4A) inserted (11.3.2021) by [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2021/290/article/4/4)
+[^c-54b2785621fa46ac426bfb6dbe316cd1]: Textual amendment: Sch. 7B para. 9(4A) inserted (11.3.2021) by [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2021/290/article/4/4)
 
-[^key-1e69b94e9bd519561aaf7ad35437f219]: Textual amendment: Sch. 7B para. 9(6)(d) inserted (18.12.2019) by [The Government of Wales Act 2006 (Amendment) Order 2019 (S.I. 2019/1506)](https://www.legislation.gov.uk/uksi/2019/1506), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/1506/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2019/1506/article/2/2)
+[^c-1e69b94e9bd519561aaf7ad35437f219]: Textual amendment: Sch. 7B para. 9(6)(d) inserted (18.12.2019) by [The Government of Wales Act 2006 (Amendment) Order 2019 (S.I. 2019/1506)](https://www.legislation.gov.uk/uksi/2019/1506), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/1506/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2019/1506/article/2/2)
 
-[^key-58865cd4b8c4d1da3bdd6c37c41ac8b3]: Textual amendment: Sch. 7B para. 9(8)(9) inserted (11.3.2021) by [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2021/290/article/4/5)
+[^c-58865cd4b8c4d1da3bdd6c37c41ac8b3]: Textual amendment: Sch. 7B para. 9(8)(9) inserted (11.3.2021) by [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2021/290/article/4/5)
 
-[^key-c6502583de39554968c33d07b0464c59]: Textual amendment: Word in [Sch. 7B para. 9(8)(b)(v)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7B/paragraph/9/8/b/v) omitted (9.11.2021) by virtue of [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 141(2)(a)](https://www.legislation.gov.uk/ukpga/2021/30/section/141/2/a), [147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
+[^c-c6502583de39554968c33d07b0464c59]: Textual amendment: Word in [Sch. 7B para. 9(8)(b)(v)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7B/paragraph/9/8/b/v) omitted (9.11.2021) by virtue of [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 141(2)(a)](https://www.legislation.gov.uk/ukpga/2021/30/section/141/2/a), [147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
 
-[^key-36e6ee9438560403b3ea95e1e7d8c526]: Textual amendment: [Sch. 7B para. 9(8)(b)(vii)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7B/paragraph/9/8/b/vii) and word inserted (9.11.2021) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 141(2)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/141/2/b), [147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
+[^c-36e6ee9438560403b3ea95e1e7d8c526]: Textual amendment: [Sch. 7B para. 9(8)(b)(vii)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7B/paragraph/9/8/b/vii) and word inserted (9.11.2021) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 141(2)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/141/2/b), [147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
 
-[^key-04a9444d91751bb4ce5226ebcb3f8f8e]: Textual amendment: Word in [Sch. 7B para. 9(8)(b)(vi)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7B/paragraph/9/8/b/vi) omitted (26.12.2023) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 239(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/239/2/a), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-04a9444d91751bb4ce5226ebcb3f8f8e]: Textual amendment: Word in [Sch. 7B para. 9(8)(b)(vi)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7B/paragraph/9/8/b/vi) omitted (26.12.2023) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 239(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/239/2/a), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-a05a736d2a732089d6e101f2b6f8be0f]: Textual amendment: Word in [Sch. 7B para. 9(8)(b)(viii)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7B/paragraph/9/8/b/viii) omitted (21.7.2025) by virtue of [Product Regulation and Metrology Act 2025 (c. 20)](https://www.legislation.gov.uk/ukpga/2025/20), [ss. 10(6)(a)](https://www.legislation.gov.uk/ukpga/2025/20/section/10/6/a), [15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
+[^c-a05a736d2a732089d6e101f2b6f8be0f]: Textual amendment: Word in [Sch. 7B para. 9(8)(b)(viii)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7B/paragraph/9/8/b/viii) omitted (21.7.2025) by virtue of [Product Regulation and Metrology Act 2025 (c. 20)](https://www.legislation.gov.uk/ukpga/2025/20), [ss. 10(6)(a)](https://www.legislation.gov.uk/ukpga/2025/20/section/10/6/a), [15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
 
-[^key-b7c41ef54f4ab8314de78f07dcba8a53]: Textual amendment: [Sch. 7B para. 9(8)(b)(viii)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7B/paragraph/9/8/b/viii) and word inserted (24.2.2025) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [ss. 118(b)](https://www.legislation.gov.uk/ukpga/2023/54/section/118/b), [127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-b7c41ef54f4ab8314de78f07dcba8a53]: Textual amendment: [Sch. 7B para. 9(8)(b)(viii)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7B/paragraph/9/8/b/viii) and word inserted (24.2.2025) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [ss. 118(b)](https://www.legislation.gov.uk/ukpga/2023/54/section/118/b), [127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-0712aa5cb961636248b5363bbd0ce28b]: Textual amendment: Word in [Sch. 7B para. 9(8)(b)(vii)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7B/paragraph/9/8/b/vii) omitted (20.5.2024) by virtue of [Animal Welfare (Livestock Exports) Act 2024 (c. 11)](https://www.legislation.gov.uk/ukpga/2024/11), [ss. 6(2)(a)](https://www.legislation.gov.uk/ukpga/2024/11/section/6/2/a), [7(3)](https://www.legislation.gov.uk/ukpga/2024/11/section/7/3)
+[^c-0712aa5cb961636248b5363bbd0ce28b]: Textual amendment: Word in [Sch. 7B para. 9(8)(b)(vii)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7B/paragraph/9/8/b/vii) omitted (20.5.2024) by virtue of [Animal Welfare (Livestock Exports) Act 2024 (c. 11)](https://www.legislation.gov.uk/ukpga/2024/11), [ss. 6(2)(a)](https://www.legislation.gov.uk/ukpga/2024/11/section/6/2/a), [7(3)](https://www.legislation.gov.uk/ukpga/2024/11/section/7/3)
 
-[^key-24238fc90e16dd54c098d270bbd4a64f]: Textual amendment: [Sch. 7B para. 9(8)(b)(viii)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7B/paragraph/9/8/b/viii) and word inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 239(2)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/239/2/b), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-24238fc90e16dd54c098d270bbd4a64f]: Textual amendment: [Sch. 7B para. 9(8)(b)(viii)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7B/paragraph/9/8/b/viii) and word inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 239(2)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/239/2/b), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-4613c6a4b3f409e1d58cbe592c32352d]: Textual amendment: [Sch. 7B para. 9(8)(b)(ix)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7B/paragraph/9/8/b/ix) and semicolon inserted (20.5.2024) by [Animal Welfare (Livestock Exports) Act 2024 (c. 11)](https://www.legislation.gov.uk/ukpga/2024/11), [ss. 6(2)(b)](https://www.legislation.gov.uk/ukpga/2024/11/section/6/2/b), [7(3)](https://www.legislation.gov.uk/ukpga/2024/11/section/7/3)
+[^c-4613c6a4b3f409e1d58cbe592c32352d]: Textual amendment: [Sch. 7B para. 9(8)(b)(ix)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7B/paragraph/9/8/b/ix) and semicolon inserted (20.5.2024) by [Animal Welfare (Livestock Exports) Act 2024 (c. 11)](https://www.legislation.gov.uk/ukpga/2024/11), [ss. 6(2)(b)](https://www.legislation.gov.uk/ukpga/2024/11/section/6/2/b), [7(3)](https://www.legislation.gov.uk/ukpga/2024/11/section/7/3)
 
-[^key-acb682e2f44975804f8a4f5950c78b94]: Textual amendment: [Sch. 7B para. 9(8)(b)(x)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7B/paragraph/9/8/b/x) and word inserted (21.7.2025) by [Product Regulation and Metrology Act 2025 (c. 20)](https://www.legislation.gov.uk/ukpga/2025/20), [ss. 10(6)(b)](https://www.legislation.gov.uk/ukpga/2025/20/section/10/6/b), [15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
+[^c-acb682e2f44975804f8a4f5950c78b94]: Textual amendment: [Sch. 7B para. 9(8)(b)(x)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7B/paragraph/9/8/b/x) and word inserted (21.7.2025) by [Product Regulation and Metrology Act 2025 (c. 20)](https://www.legislation.gov.uk/ukpga/2025/20), [ss. 10(6)(b)](https://www.legislation.gov.uk/ukpga/2025/20/section/10/6/b), [15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
 
-[^key-23e133d1147dbd178549c513cadc20f4]: Textual amendment: Word in [Sch. 7B para. 9(9)(b)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7B/paragraph/9/9/b) omitted (23.3.2023) by virtue of [Trade (Australia and New Zealand) Act 2023 (c. 9)](https://www.legislation.gov.uk/ukpga/2023/9), [s. 4(2)](https://www.legislation.gov.uk/ukpga/2023/9/section/4/2), [Sch. 1 para. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2023/9/schedule/1/paragraph/9/2/a)
+[^c-23e133d1147dbd178549c513cadc20f4]: Textual amendment: Word in [Sch. 7B para. 9(9)(b)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7B/paragraph/9/9/b) omitted (23.3.2023) by virtue of [Trade (Australia and New Zealand) Act 2023 (c. 9)](https://www.legislation.gov.uk/ukpga/2023/9), [s. 4(2)](https://www.legislation.gov.uk/ukpga/2023/9/section/4/2), [Sch. 1 para. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2023/9/schedule/1/paragraph/9/2/a)
 
-[^key-3440e7e9436c0f157c159f6010e0474c]: Textual amendment: [Sch. 7B para. 9(9)(d)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7B/paragraph/9/9/d) and word inserted (23.3.2023) by [Trade (Australia and New Zealand) Act 2023 (c. 9)](https://www.legislation.gov.uk/ukpga/2023/9), [s. 4(2)](https://www.legislation.gov.uk/ukpga/2023/9/section/4/2), [Sch. 1 para. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2023/9/schedule/1/paragraph/9/2/b)
+[^c-3440e7e9436c0f157c159f6010e0474c]: Textual amendment: [Sch. 7B para. 9(9)(d)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7B/paragraph/9/9/d) and word inserted (23.3.2023) by [Trade (Australia and New Zealand) Act 2023 (c. 9)](https://www.legislation.gov.uk/ukpga/2023/9), [s. 4(2)](https://www.legislation.gov.uk/ukpga/2023/9/section/4/2), [Sch. 1 para. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2023/9/schedule/1/paragraph/9/2/b)
 
-[^key-755ae5ed9c020d2b9e2291a7fe6131d8]: Textual amendment: [Sch. 7B para. 9(9)(d)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7B/paragraph/9/9/d) repealed (24.2.2025) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2), [Sch. 11 para. 1(a)](https://www.legislation.gov.uk/ukpga/2023/54/schedule/11/paragraph/1/a) (as substituted by [2023 c. 55](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 239(4)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/239/4/b), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-755ae5ed9c020d2b9e2291a7fe6131d8]: Textual amendment: [Sch. 7B para. 9(9)(d)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7B/paragraph/9/9/d) repealed (24.2.2025) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2), [Sch. 11 para. 1(a)](https://www.legislation.gov.uk/ukpga/2023/54/schedule/11/paragraph/1/a) (as substituted by [2023 c. 55](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 239(4)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/239/4/b), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-6248b407c77d226dec3e947b76de1a83]: Textual amendment: Sch. 7B para. 10(2)(m) inserted (18.12.2019) by [The Government of Wales Act 2006 (Amendment) Order 2019 (S.I. 2019/1506)](https://www.legislation.gov.uk/uksi/2019/1506), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/1506/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2019/1506/article/2/3)
+[^c-6248b407c77d226dec3e947b76de1a83]: Textual amendment: Sch. 7B para. 10(2)(m) inserted (18.12.2019) by [The Government of Wales Act 2006 (Amendment) Order 2019 (S.I. 2019/1506)](https://www.legislation.gov.uk/uksi/2019/1506), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/1506/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2019/1506/article/2/3)
 
-[^key-9158f405225f342e5bde87ee894248eb]: Textual amendment: Sch. 7B para. 10(2)(n) inserted (11.3.2021) by [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2021/290/article/5/2)
+[^c-9158f405225f342e5bde87ee894248eb]: Textual amendment: Sch. 7B para. 10(2)(n) inserted (11.3.2021) by [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2021/290/article/5/2)
 
-[^key-ad7c25b3af7f78a9912a2d5f078e47f4]: Textual amendment: Words in Sch. 7B para. 10(4)(a) omitted (11.3.2021) by virtue of [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2021/290/article/5/3)
+[^c-ad7c25b3af7f78a9912a2d5f078e47f4]: Textual amendment: Words in Sch. 7B para. 10(4)(a) omitted (11.3.2021) by virtue of [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2021/290/article/5/3)
 
-[^key-e8832a22b1fe4fd6c22bf0a984fe0c11]: Textual amendment: Sch. 7B para. 10(7) inserted (11.3.2021) by [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2021/290/article/5/4)
+[^c-e8832a22b1fe4fd6c22bf0a984fe0c11]: Textual amendment: Sch. 7B para. 10(7) inserted (11.3.2021) by [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2021/290/article/5/4)
 
-[^key-95a2e7a14283f4954af37855b378a87e]: Textual amendment: Sch. 7B para. 11(2A) inserted (11.3.2021) by [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2021/290/article/6/2)
+[^c-95a2e7a14283f4954af37855b378a87e]: Textual amendment: Sch. 7B para. 11(2A) inserted (11.3.2021) by [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2021/290/article/6/2)
 
-[^key-a19dd4b8cfc2b7e6b4377cc3fcdc3a42]: Textual amendment: Sch. 7B para. 11(6)-(9) inserted (11.3.2021) by [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2021/290/article/6/3)
+[^c-a19dd4b8cfc2b7e6b4377cc3fcdc3a42]: Textual amendment: Sch. 7B para. 11(6)-(9) inserted (11.3.2021) by [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2021/290/article/6/3)
 
-[^key-b549aabab04dacb1b4d421ddd581375c]: Textual amendment: Sch. 7B para. 11(6)(b)(ai) inserted (19.6.2025 for specified purposes) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 57(8)](https://www.legislation.gov.uk/ukpga/2025/18/section/57/8), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h) (with [s. 60(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/60/1))
+[^c-b549aabab04dacb1b4d421ddd581375c]: Textual amendment: Sch. 7B para. 11(6)(b)(ai) inserted (19.6.2025 for specified purposes) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 57(8)](https://www.legislation.gov.uk/ukpga/2025/18/section/57/8), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h) (with [s. 60(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/60/1))
 
-[^key-0316044fc738c3dc8c6e2c959d538ab0]: Textual amendment: Word in Sch. 7B para. 11(6)(b)(v) omitted (9.11.2021) by virtue of [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 141(3)(a)](https://www.legislation.gov.uk/ukpga/2021/30/section/141/3/a), [147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
+[^c-0316044fc738c3dc8c6e2c959d538ab0]: Textual amendment: Word in Sch. 7B para. 11(6)(b)(v) omitted (9.11.2021) by virtue of [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 141(3)(a)](https://www.legislation.gov.uk/ukpga/2021/30/section/141/3/a), [147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
 
-[^key-f151ddb4641c7303877607eb88c0842c]: Textual amendment: Sch. 7B para. 11(6)(b)(vii) and word inserted (9.11.2021) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 141(3)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/141/3/b), [147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
+[^c-f151ddb4641c7303877607eb88c0842c]: Textual amendment: Sch. 7B para. 11(6)(b)(vii) and word inserted (9.11.2021) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 141(3)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/141/3/b), [147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
 
-[^key-6645e1993df275bdf988a8511eb94820]: Textual amendment: Word in Sch. 7B para. 11(6)(b)(vi) omitted (24.3.2022) by virtue of [Commercial Rent (Coronavirus) Act 2022 (c. 12)](https://www.legislation.gov.uk/ukpga/2022/12), [ss. 29(3)(a)](https://www.legislation.gov.uk/ukpga/2022/12/section/29/3/a), [31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4) (with [s. 30](https://www.legislation.gov.uk/ukpga/2022/12/section/30))
+[^c-6645e1993df275bdf988a8511eb94820]: Textual amendment: Word in Sch. 7B para. 11(6)(b)(vi) omitted (24.3.2022) by virtue of [Commercial Rent (Coronavirus) Act 2022 (c. 12)](https://www.legislation.gov.uk/ukpga/2022/12), [ss. 29(3)(a)](https://www.legislation.gov.uk/ukpga/2022/12/section/29/3/a), [31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4) (with [s. 30](https://www.legislation.gov.uk/ukpga/2022/12/section/30))
 
-[^key-d5c5ec96339a5be3359ca3353d948d48]: Textual amendment: Sch. 7B para. 11(6)(b)(viii) and word inserted (24.3.2022) by [Commercial Rent (Coronavirus) Act 2022 (c. 12)](https://www.legislation.gov.uk/ukpga/2022/12), [ss. 29(3)(b)](https://www.legislation.gov.uk/ukpga/2022/12/section/29/3/b), [31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4) (with [s. 30](https://www.legislation.gov.uk/ukpga/2022/12/section/30))
+[^c-d5c5ec96339a5be3359ca3353d948d48]: Textual amendment: Sch. 7B para. 11(6)(b)(viii) and word inserted (24.3.2022) by [Commercial Rent (Coronavirus) Act 2022 (c. 12)](https://www.legislation.gov.uk/ukpga/2022/12), [ss. 29(3)(b)](https://www.legislation.gov.uk/ukpga/2022/12/section/29/3/b), [31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4) (with [s. 30](https://www.legislation.gov.uk/ukpga/2022/12/section/30))
 
-[^key-55fbf553f302473a2e28be809ac7a2a3]: Textual amendment: Word in Sch. 7B para. 11(6)(b)(vii) omitted (28.4.2022) by virtue of [Professional Qualifications Act 2022 (c. 20)](https://www.legislation.gov.uk/ukpga/2022/20), [ss. 16(7)(a)](https://www.legislation.gov.uk/ukpga/2022/20/section/16/7/a), [21(1)(f)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/f) (with [s. 12](https://www.legislation.gov.uk/ukpga/2022/20/section/12))
+[^c-55fbf553f302473a2e28be809ac7a2a3]: Textual amendment: Word in Sch. 7B para. 11(6)(b)(vii) omitted (28.4.2022) by virtue of [Professional Qualifications Act 2022 (c. 20)](https://www.legislation.gov.uk/ukpga/2022/20), [ss. 16(7)(a)](https://www.legislation.gov.uk/ukpga/2022/20/section/16/7/a), [21(1)(f)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/f) (with [s. 12](https://www.legislation.gov.uk/ukpga/2022/20/section/12))
 
-[^key-c7f2946fb22f18dd9d68acc1d24341bf]: Textual amendment: Sch. 7B para. 11(6)(b)(ix) and word inserted (28.4.2022) by [Professional Qualifications Act 2022 (c. 20)](https://www.legislation.gov.uk/ukpga/2022/20), [ss. 16(7)(b)](https://www.legislation.gov.uk/ukpga/2022/20/section/16/7/b), [21(1)(f)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/f) (with [s. 12](https://www.legislation.gov.uk/ukpga/2022/20/section/12))
+[^c-c7f2946fb22f18dd9d68acc1d24341bf]: Textual amendment: Sch. 7B para. 11(6)(b)(ix) and word inserted (28.4.2022) by [Professional Qualifications Act 2022 (c. 20)](https://www.legislation.gov.uk/ukpga/2022/20), [ss. 16(7)(b)](https://www.legislation.gov.uk/ukpga/2022/20/section/16/7/b), [21(1)(f)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/f) (with [s. 12](https://www.legislation.gov.uk/ukpga/2022/20/section/12))
 
-[^key-456e4f16f45dcee1b10265fb36386196]: Textual amendment: Word in Sch. 7B para. 11(6)(b)(viii) omitted (23.3.2023) by virtue of [Trade (Australia and New Zealand) Act 2023 (c. 9)](https://www.legislation.gov.uk/ukpga/2023/9), [s. 4(2)](https://www.legislation.gov.uk/ukpga/2023/9/section/4/2), [Sch. 1 para. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2023/9/schedule/1/paragraph/9/3/a)
+[^c-456e4f16f45dcee1b10265fb36386196]: Textual amendment: Word in Sch. 7B para. 11(6)(b)(viii) omitted (23.3.2023) by virtue of [Trade (Australia and New Zealand) Act 2023 (c. 9)](https://www.legislation.gov.uk/ukpga/2023/9), [s. 4(2)](https://www.legislation.gov.uk/ukpga/2023/9/section/4/2), [Sch. 1 para. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2023/9/schedule/1/paragraph/9/3/a)
 
-[^key-8fb086842b5079ce1f559f99247c55e9]: Textual amendment: Sch. 7B para. 11(6)(b)(ix) and word inserted (23.3.2023) by virtue of [Trade (Australia and New Zealand) Act 2023 (c. 9)](https://www.legislation.gov.uk/ukpga/2023/9), [s. 4(2)](https://www.legislation.gov.uk/ukpga/2023/9/section/4/2), [Sch. 1 para. 9(3)(b)](https://www.legislation.gov.uk/ukpga/2023/9/schedule/1/paragraph/9/3/b)
+[^c-8fb086842b5079ce1f559f99247c55e9]: Textual amendment: Sch. 7B para. 11(6)(b)(ix) and word inserted (23.3.2023) by virtue of [Trade (Australia and New Zealand) Act 2023 (c. 9)](https://www.legislation.gov.uk/ukpga/2023/9), [s. 4(2)](https://www.legislation.gov.uk/ukpga/2023/9/section/4/2), [Sch. 1 para. 9(3)(b)](https://www.legislation.gov.uk/ukpga/2023/9/schedule/1/paragraph/9/3/b)
 
-[^key-f75a0750a0081618d1173f97a6adea0c]: Textual amendment: Word in Sch. 7B para. 11(6)(b)(ix) omitted (26.12.2023) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 239(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/239/3/a), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-f75a0750a0081618d1173f97a6adea0c]: Textual amendment: Word in Sch. 7B para. 11(6)(b)(ix) omitted (26.12.2023) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 239(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/239/3/a), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-fffb4e1fc1bfc4a073803a41d1dd9138]: Textual amendment: Sch. 7B para. 11(6)(b)(x) repealed (24.2.2025) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2), [Sch. 11 para. 1(b)](https://www.legislation.gov.uk/ukpga/2023/54/schedule/11/paragraph/1/b) (as substituted by [2023 c. 55](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 239(4)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/239/4/b), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-fffb4e1fc1bfc4a073803a41d1dd9138]: Textual amendment: Sch. 7B para. 11(6)(b)(x) repealed (24.2.2025) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2), [Sch. 11 para. 1(b)](https://www.legislation.gov.uk/ukpga/2023/54/schedule/11/paragraph/1/b) (as substituted by [2023 c. 55](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 239(4)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/239/4/b), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-b9b8dd8f20a63e3ad95d525cff71c172]: Textual amendment: Sch. 7B para. 11(6)(b)(x)(xi) substituted for (ix) (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 239(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/239/3/b), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-b9b8dd8f20a63e3ad95d525cff71c172]: Textual amendment: Sch. 7B para. 11(6)(b)(x)(xi) substituted for (ix) (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 239(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/239/3/b), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-7799c6d1be99d30c259fef517d2a05ed]: Textual amendment: Word in Sch. 7B para. 11(6)(b)(x) omitted (24.2.2025) by virtue of [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [ss. 118(c)](https://www.legislation.gov.uk/ukpga/2023/54/section/118/c), [127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2) (as substituted by [2023 c. 55](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 239(4)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/239/4/a), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-7799c6d1be99d30c259fef517d2a05ed]: Textual amendment: Word in Sch. 7B para. 11(6)(b)(x) omitted (24.2.2025) by virtue of [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [ss. 118(c)](https://www.legislation.gov.uk/ukpga/2023/54/section/118/c), [127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2) (as substituted by [2023 c. 55](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 239(4)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/239/4/a), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-015fb8c95fdbb3f9d3091b3692c5b527]: Textual amendment: Sch. 7B para. 11(6)(b)(xii) and word inserted (24.2.2025) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [ss. 118(d)](https://www.legislation.gov.uk/ukpga/2023/54/section/118/d), [127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2) (as substituted by [2023 c. 55](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 239(4)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/239/4/a), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-015fb8c95fdbb3f9d3091b3692c5b527]: Textual amendment: Sch. 7B para. 11(6)(b)(xii) and word inserted (24.2.2025) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [ss. 118(d)](https://www.legislation.gov.uk/ukpga/2023/54/section/118/d), [127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2) (as substituted by [2023 c. 55](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 239(4)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/239/4/a), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-2f45ac7556d1ace6e6d5b03d05d6d3a1]: Textual amendment: Word in Sch. 7B para. 11(6)(b)(xi) omitted (20.5.2024) by virtue of [Animal Welfare (Livestock Exports) Act 2024 (c. 11)](https://www.legislation.gov.uk/ukpga/2024/11), [ss. 6(3)(a)](https://www.legislation.gov.uk/ukpga/2024/11/section/6/3/a), [7(3)](https://www.legislation.gov.uk/ukpga/2024/11/section/7/3)
+[^c-2f45ac7556d1ace6e6d5b03d05d6d3a1]: Textual amendment: Word in Sch. 7B para. 11(6)(b)(xi) omitted (20.5.2024) by virtue of [Animal Welfare (Livestock Exports) Act 2024 (c. 11)](https://www.legislation.gov.uk/ukpga/2024/11), [ss. 6(3)(a)](https://www.legislation.gov.uk/ukpga/2024/11/section/6/3/a), [7(3)](https://www.legislation.gov.uk/ukpga/2024/11/section/7/3)
 
 [^M_F_94950843-19e9-4b30-b704-ba06910576a0]: Textual amendment: Sch. 7B para. 11(6)(b)(xiii) and word inserted (20.5.2024) by [Animal Welfare (Livestock Exports) Act 2024 (c. 11)](https://www.legislation.gov.uk/ukpga/2024/11), [ss. 6(3)(b)](https://www.legislation.gov.uk/ukpga/2024/11/section/6/3/b), [7(3)](https://www.legislation.gov.uk/ukpga/2024/11/section/7/3)
 
-[^key-c1dc2562c31748e27ca1bda37c878d5b]: Textual amendment: Word in Sch. 7B para. 11(6)(b)(xii) omitted (29.4.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 244(6)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/244/6/a), [255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)
+[^c-c1dc2562c31748e27ca1bda37c878d5b]: Textual amendment: Word in Sch. 7B para. 11(6)(b)(xii) omitted (29.4.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 244(6)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/244/6/a), [255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)
 
-[^key-844673cb7fa6933b10e22a11c95a47bb]: Textual amendment: Sch. 7B para. 11(6)(b)(xiv) and word inserted (29.4.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 244(6)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/244/6/b), [255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)
+[^c-844673cb7fa6933b10e22a11c95a47bb]: Textual amendment: Sch. 7B para. 11(6)(b)(xiv) and word inserted (29.4.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 244(6)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/244/6/b), [255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)

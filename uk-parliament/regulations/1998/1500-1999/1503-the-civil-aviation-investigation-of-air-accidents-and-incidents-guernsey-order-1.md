@@ -48,11 +48,11 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, in exercise of the powers conferred on Her by sections 75 and 102 of, and paragraph 4 of Part III of Schedule 13 to, the Civil Aviation Act 1982[^f00001], as that Act has effect in the Bailiwick of Guernsey by virtue of the Civil Aviation Act 1982 (Guernsey) Order 1992[^f00002], is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—
 
-**1.**[^key-834cb612015af5804096e6846ad83c97] This Order may be cited as the Civil Aviation (Investigation of Air Accidents and Incidents) (Guernsey) Order 1998 and shall come into force on 24th August 1998.
+**1.**[^c-834cb612015af5804096e6846ad83c97] This Order may be cited as the Civil Aviation (Investigation of Air Accidents and Incidents) (Guernsey) Order 1998 and shall come into force on 24th August 1998.
 
-**2.**[^key-5db0e08bc700257b021d3f72cce202a8] The provisions of the Civil Aviation (Investigation of Air Accidents and Incidents) Regulations 1996[^f00003] shall, subject to the modifications specified in the Schedule to this Order, have effect in the Bailiwick of Guernsey and shall form part of the law of the Bailiwick of Guernsey.
+**2.**[^c-5db0e08bc700257b021d3f72cce202a8] The provisions of the Civil Aviation (Investigation of Air Accidents and Incidents) Regulations 1996[^f00003] shall, subject to the modifications specified in the Schedule to this Order, have effect in the Bailiwick of Guernsey and shall form part of the law of the Bailiwick of Guernsey.
 
-**3.**[^key-3121e9ab76dd3ced55a9d9302822bcc8] (1) Subject to paragraphs (3) and (4) below, the Civil Aviation (Investigation of Accidents) (Guernsey) Order 1972[^f00004] (hereinafter referred to as “the 1972 Order”) is hereby revoked.
+**3.**[^c-3121e9ab76dd3ced55a9d9302822bcc8] (1) Subject to paragraphs (3) and (4) below, the Civil Aviation (Investigation of Accidents) (Guernsey) Order 1972[^f00004] (hereinafter referred to as “the 1972 Order”) is hereby revoked.
 
 (2) Subject to paragraph (4) below, any investigation commenced under the 1972 Order which has not, prior to the coming into force of this Order, been the subject of a report submitted to the Bailiff, shall continue as if it had been commenced under this Order.
 
@@ -68,9 +68,9 @@ Clerk of the Privy Council
 
 Article 2
 
-**1.**[^key-c12398b57dd519431b61cd19cd08afe7] In regulation 1, omit “and shall come into force on 21st November 1996”.
+**1.**[^c-c12398b57dd519431b61cd19cd08afe7] In regulation 1, omit “and shall come into force on 21st November 1996”.
 
-**2.**[^key-7e299682cc89d29ff57dbd9da60bc510] In regulation 2—
+**2.**[^c-7e299682cc89d29ff57dbd9da60bc510] In regulation 2—
 
 (1) In paragraph (1)—
 
@@ -104,9 +104,9 @@ Article 2
 
 (2) In paragraph (2)(b), for “United Kingdom” substitute “Bailiwick”.
 
-**3.**[^key-9c9ca80fbd5b89a190029b082fabae38] In regulation 3, after “incidents” insert “occurring in or over the Bailiwick”.
+**3.**[^c-9c9ca80fbd5b89a190029b082fabae38] In regulation 3, after “incidents” insert “occurring in or over the Bailiwick”.
 
-**4.**[^key-8f5411abf8f1876097bd8299b2d17190] In regulation 5—
+**4.**[^c-8f5411abf8f1876097bd8299b2d17190] In regulation 5—
 
 (1) In paragraph (1)—
 
@@ -134,9 +134,9 @@ Article 2
 
 .
 
-**5.**[^key-4df516eed77dfe29305251219b7e10b2] In regulation 6, after “the Chief Inspector may” insert “, after consultation with the Bailiff,”.
+**5.**[^c-4df516eed77dfe29305251219b7e10b2] In regulation 6, after “the Chief Inspector may” insert “, after consultation with the Bailiff,”.
 
-**6.**[^key-2193f73e190e5134da7d40ec9c4292e3] In regulation 7—
+**6.**[^c-2193f73e190e5134da7d40ec9c4292e3] In regulation 7—
 
 (1) In paragraph (1)—
 
@@ -157,7 +157,7 @@ Article 2
 - (a) in sub-paragraph (a), after “Secretary of State” insert “, the Bailiff or Her Majesty’s Procureur”; and
 - (b) in sub-paragraph (b), for “constable” substitute “police officer”.
 
-**7.**[^key-3d8822770d5d43dd39483b6c2ce93ef7] In regulation 8—
+**7.**[^c-3d8822770d5d43dd39483b6c2ce93ef7] In regulation 8—
 
 (1) Omit paragraphs (1) and (2).
 
@@ -182,19 +182,19 @@ Article 2
 
 (6) In paragraph (8), for “Secretary of State” substitute “Bailiff”.
 
-**8.**[^key-90c4775366de34229d013964adce6d8f] In regulation 9—
+**8.**[^c-90c4775366de34229d013964adce6d8f] In regulation 9—
 
 (1) In paragraph (3), for “Secretary of State” substitute “Board”.
 
 (2) Omit paragraph (4).
 
-**9.**[^key-f5b2196ee5a00003f391c17404d5751a] In regulation 11—
+**9.**[^c-f5b2196ee5a00003f391c17404d5751a] In regulation 11—
 
 (1) Omit paragraph (2) (b).
 
 (2) In paragraph (6), after “Secretary of State” insert “and to the Bailiff”.
 
-**10.**[^key-6532a542dc9e3367daa8a56b0e55e929] In regulation 12—
+**10.**[^c-6532a542dc9e3367daa8a56b0e55e929] In regulation 12—
 
 (1) In paragraph (1), after “opinion” insert “or the Bailiff’s opinion”.
 
@@ -202,17 +202,17 @@ Article 2
 
 (3) In paragraph (5), after “Chief Inspector” insert “or the Bailiff”.
 
-**11.**[^key-5bd79f29debe991387d23ecb4f13b608] In regulation 13, omit “, other than an incident the investigation of which has been delegated to the United Kingdom by another member State,”.
+**11.**[^c-5bd79f29debe991387d23ecb4f13b608] In regulation 13, omit “, other than an incident the investigation of which has been delegated to the United Kingdom by another member State,”.
 
-**12.**[^key-06875e124da436142a07f8f5db5052ce] In regulation 14—
+**12.**[^c-06875e124da436142a07f8f5db5052ce] In regulation 14—
 
 (1) In paragraph (1), omit “including those not required to be published and” and “and copies thereof to be forwarded to the Commission”.
 
 (2) In sub-paragraphs (b) and (c) of paragraph (2), for “Secretary of State”, wherever it appears, substitute “Bailiff”.
 
-**13.**[^key-ef2175681e5545b44c793ce654caceb7] In regulation 17(1), for “Secretary of State” substitute “Bailiff”.
+**13.**[^c-ef2175681e5545b44c793ce654caceb7] In regulation 17(1), for “Secretary of State” substitute “Bailiff”.
 
-**14.**[^key-f542f14aac906dd629be9d7ca0bc00d4] In regulation 18—
+**14.**[^c-f542f14aac906dd629be9d7ca0bc00d4] In regulation 18—
 
 (1) In paragraphs (1) and (2), after “Secretary of State” insert “, the Bailiff or the Board”.
 
@@ -232,7 +232,7 @@ Article 2
 
 (3) In paragraph (4), for “United Kingdom” substitute “Bailiwick”.
 
-**15.**[^key-c2b7a01e2190ac19a494d29f191e0d7a] Omit regulation 19.
+**15.**[^c-c2b7a01e2190ac19a494d29f191e0d7a] Omit regulation 19.
 
 (This note is not part of the Order)
 
@@ -244,46 +244,46 @@ This Order makes provision for the investigation of air accidents and incidents 
 
 [^f00002]: Footnote: S.I. [1992/230](https://www.legislation.gov.uk/uksi/1992/230) as amended by S.I. [1992/806](https://www.legislation.gov.uk/uksi/1992/806).
 
-[^key-834cb612015af5804096e6846ad83c97]: Commencement: Art. 1 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
+[^c-834cb612015af5804096e6846ad83c97]: Commencement: Art. 1 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
 
-[^key-5db0e08bc700257b021d3f72cce202a8]: Commencement: Art. 2 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
+[^c-5db0e08bc700257b021d3f72cce202a8]: Commencement: Art. 2 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
 
 [^f00003]: Footnote: S.I. [1996/2798](https://www.legislation.gov.uk/uksi/1996/2798).
 
-[^key-3121e9ab76dd3ced55a9d9302822bcc8]: Commencement: Art. 3 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
+[^c-3121e9ab76dd3ced55a9d9302822bcc8]: Commencement: Art. 3 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
 
 [^f00004]: Footnote: S.I. [1972/962](https://www.legislation.gov.uk/uksi/1972/962).
 
-[^key-c12398b57dd519431b61cd19cd08afe7]: Commencement: Sch. para. 1 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
+[^c-c12398b57dd519431b61cd19cd08afe7]: Commencement: Sch. para. 1 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
 
-[^key-7e299682cc89d29ff57dbd9da60bc510]: Commencement: Sch. para. 2 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
+[^c-7e299682cc89d29ff57dbd9da60bc510]: Commencement: Sch. para. 2 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
 
 [^f00005]: Footnote: The Law was amended by the European Communities (Bailiwick of Guernsey) Law, 1973 and by the Customs and Excise (General Provisions) (Bailiwick of Guernsey) (Amendment) Law, 1991.
 
 [^f00006]: Footnote: The Law was amended by the Magistrate’s Court (Criminal Appeals) Law, 1988; the Bills of Exchange (Amendment) (Bailiwick of Guernsey) Law, 1993; the Government of Alderney (Amendment) (No. 1) Law, 1995; and the Government of Alderney (Amendment) Law, 1996.
 
-[^key-9c9ca80fbd5b89a190029b082fabae38]: Commencement: Sch. para. 3 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
+[^c-9c9ca80fbd5b89a190029b082fabae38]: Commencement: Sch. para. 3 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
 
-[^key-8f5411abf8f1876097bd8299b2d17190]: Commencement: Sch. para. 4 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
+[^c-8f5411abf8f1876097bd8299b2d17190]: Commencement: Sch. para. 4 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
 
-[^key-4df516eed77dfe29305251219b7e10b2]: Commencement: Sch. para. 5 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
+[^c-4df516eed77dfe29305251219b7e10b2]: Commencement: Sch. para. 5 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
 
-[^key-2193f73e190e5134da7d40ec9c4292e3]: Commencement: Sch. para. 6 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
+[^c-2193f73e190e5134da7d40ec9c4292e3]: Commencement: Sch. para. 6 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
 
-[^key-3d8822770d5d43dd39483b6c2ce93ef7]: Commencement: Sch. para. 7 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
+[^c-3d8822770d5d43dd39483b6c2ce93ef7]: Commencement: Sch. para. 7 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
 
-[^key-90c4775366de34229d013964adce6d8f]: Commencement: Sch. para. 8 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
+[^c-90c4775366de34229d013964adce6d8f]: Commencement: Sch. para. 8 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
 
-[^key-f5b2196ee5a00003f391c17404d5751a]: Commencement: Sch. para. 9 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
+[^c-f5b2196ee5a00003f391c17404d5751a]: Commencement: Sch. para. 9 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
 
-[^key-6532a542dc9e3367daa8a56b0e55e929]: Commencement: Sch. para. 10 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
+[^c-6532a542dc9e3367daa8a56b0e55e929]: Commencement: Sch. para. 10 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
 
-[^key-5bd79f29debe991387d23ecb4f13b608]: Commencement: Sch. para. 11 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
+[^c-5bd79f29debe991387d23ecb4f13b608]: Commencement: Sch. para. 11 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
 
-[^key-06875e124da436142a07f8f5db5052ce]: Commencement: Sch. para. 12 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
+[^c-06875e124da436142a07f8f5db5052ce]: Commencement: Sch. para. 12 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
 
-[^key-ef2175681e5545b44c793ce654caceb7]: Commencement: Sch. para. 13 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
+[^c-ef2175681e5545b44c793ce654caceb7]: Commencement: Sch. para. 13 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
 
-[^key-f542f14aac906dd629be9d7ca0bc00d4]: Commencement: Sch. para. 14 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
+[^c-f542f14aac906dd629be9d7ca0bc00d4]: Commencement: Sch. para. 14 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
 
-[^key-c2b7a01e2190ac19a494d29f191e0d7a]: Commencement: Sch. para. 15 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)
+[^c-c2b7a01e2190ac19a494d29f191e0d7a]: Commencement: Sch. para. 15 in force at 24.8.1998, see [art. 1](https://www.legislation.gov.uk/uksi/1998/1503/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 8. Transfer to DBF[^key-721e9da2663d7bfc12a39237c38070ed]
+## 8. Transfer to DBF[^c-721e9da2663d7bfc12a39237c38070ed]
 
 *Extent: E*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-721e9da2663d7bfc12a39237c38070ed]: Commencement: [S. 8](https://www.legislation.gov.uk/ukcm/2018/8/section/8) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-721e9da2663d7bfc12a39237c38070ed]: Commencement: [S. 8](https://www.legislation.gov.uk/ukcm/2018/8/section/8) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

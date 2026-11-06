@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. The chair at meetings[^key-6f3a81d9aa4a8aec4944b61755b54af7]
+## 43. The chair at meetings[^c-6f3a81d9aa4a8aec4944b61755b54af7]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f3a81d9aa4a8aec4944b61755b54af7]: Commencement: Rule 43 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-6f3a81d9aa4a8aec4944b61755b54af7]: Commencement: Rule 43 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

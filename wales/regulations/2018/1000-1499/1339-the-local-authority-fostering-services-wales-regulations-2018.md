@@ -82,7 +82,7 @@ In these Regulations—
 - “**placement**” (“***lleoliad***”) means the placement of a child with foster parents under section 81(5), (6)(a) and (b) of the 2014 Act;
 - “**reasonable adjustments**” (“***addasiadau rhesymol***”) means such reasonable adjustments as would be required under the Equality Act 2010 [^c23480471];
 - “**Social Care Wales**” (“***Gofal Cymdeithasol Cymru***”) has the meaning given in section 67(3) of the 2016 Act;
-- “**social worker**” (“***gweithiwr cymdeithasol***”) means a person who is registered as a social worker in the register maintained by Social Care Wales under section 80 of the 2016 Act, in the register of social workers in England maintained under section 39(1) of the Children and Social Work Act 2017[^key-50797c1c8f8cce60899d43f872c577c9] or in a corresponding register maintained under the law of Scotland or Northern Ireland;
+- “**social worker**” (“***gweithiwr cymdeithasol***”) means a person who is registered as a social worker in the register maintained by Social Care Wales under section 80 of the 2016 Act, in the register of social workers in England maintained under section 39(1) of the Children and Social Work Act 2017[^c-50797c1c8f8cce60899d43f872c577c9] or in a corresponding register maintained under the law of Scotland or Northern Ireland;
 - “**staff**” (“***staff***”) includes—
   - (a) persons employed by the local authority provider to work at the service as an employee or a worker, and
   - (b) persons engaged by the local authority provider under a contract for services,
@@ -140,7 +140,7 @@ on the quality of the service.
 
 ### 7. Requirement to appoint a local authority manager
 
-(1) The local authority provider must appoint an officer[^key-6bec28eb9a89c03442d900ce1959b7f4] to be responsible for the management of the service.
+(1) The local authority provider must appoint an officer[^c-6bec28eb9a89c03442d900ce1959b7f4] to be responsible for the management of the service.
 
 (2) The local authority provider must immediately give notice in writing to the Welsh Ministers—
 
@@ -201,8 +201,8 @@ The local authority provider must act in an open and honest way with—
 - (a) any child placed by it,
 - (b) the parents of any such child,
 - (c) foster parents and prospective foster parents,
-- (d)[^key-e65c77f78cf84b64e04f4c7d6c1f3f02] in the case of a child who is placed with an area authority, that area authority.
-- (e)[^key-1d2de946841ccbbdef785e64f325b37a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-e65c77f78cf84b64e04f4c7d6c1f3f02] in the case of a child who is placed with an area authority, that area authority.
+- (e)[^c-1d2de946841ccbbdef785e64f325b37a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Requirements on local authority providers as to the information to be provided to individuals on commencement of the provision of care and support
 
@@ -338,7 +338,7 @@ The local authority provider must ensure that there is a procedure to be followe
 
 ### 26. Access to health services
 
-(1) The local authority provider must ensure that foster parents promote the physical, mental and emotional health and development[^key-3d75e55cdeacf1d9c381bbabf5aaa4b4] of children placed with them.
+(1) The local authority provider must ensure that foster parents promote the physical, mental and emotional health and development[^c-3d75e55cdeacf1d9c381bbabf5aaa4b4] of children placed with them.
 
 (2) In particular, the local authority provider must ensure that foster parents—
 
@@ -389,7 +389,7 @@ The local authority provider must ensure that at all times a sufficient number o
 - (b) the person has the qualifications, skills, competence and experience necessary for the work they are to perform,
 - (c) the person is able by reason of their health, after reasonable adjustments are made, of properly performing the tasks which are intrinsic to their role,
 - (d) the person has provided full and satisfactory information or documentation, as the case may be, in respect of each of the matters required under paragraphs 1 to 9 of Schedule 3, and this information or documentation is available at the service for inspection by the Welsh Ministers, and
-- (e) where the person is employed by the local authority provider to manage the service, from 1 April 2022[^key-ec209f2de429ae79f95108d32a3b32bf], the person is registered as a social care manager [^c23480551] with Social Care Wales.
+- (e) where the person is employed by the local authority provider to manage the service, from 1 April 2022[^c-ec209f2de429ae79f95108d32a3b32bf], the person is registered as a social care manager [^c23480551] with Social Care Wales.
 
 (3) An appropriate DBS certificate must be applied for by, or on behalf of, the local authority provider, for the purpose of assessing the suitability of a person for a post referred to in paragraph (1). But this requirement does not apply if the person working at the service is registered with the Disclosure and Barring Service update service (referred to in this regulation as the DBS update service).
 
@@ -790,15 +790,15 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23480471]: Marginal citation: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
 
-[^key-50797c1c8f8cce60899d43f872c577c9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2018/1339/regulation/2) substituted (coming into force in accordance with reg. 1 of the amending S.I.) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [Sch. 3 para. 47(2)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/47/2)
+[^c-50797c1c8f8cce60899d43f872c577c9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2018/1339/regulation/2) substituted (coming into force in accordance with reg. 1 of the amending S.I.) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [Sch. 3 para. 47(2)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/47/2)
 
 [^c23480491]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-6bec28eb9a89c03442d900ce1959b7f4]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/wsi/2018/1339/regulation/7/1) substituted (29.4.2019) by [The Local Authority Fostering Services (Wales) (Amendment) Regulations 2019 (S.I. 2019/545)](https://www.legislation.gov.uk/wsi/2019/545), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/545/regulation/1/2), [2(a)](https://www.legislation.gov.uk/wsi/2019/545/regulation/2/a)
+[^c-6bec28eb9a89c03442d900ce1959b7f4]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/wsi/2018/1339/regulation/7/1) substituted (29.4.2019) by [The Local Authority Fostering Services (Wales) (Amendment) Regulations 2019 (S.I. 2019/545)](https://www.legislation.gov.uk/wsi/2019/545), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/545/regulation/1/2), [2(a)](https://www.legislation.gov.uk/wsi/2019/545/regulation/2/a)
 
-[^key-e65c77f78cf84b64e04f4c7d6c1f3f02]: Textual amendment: [Reg. 11(d)](https://www.legislation.gov.uk/wsi/2018/1339/regulation/11/d) substituted (29.4.2019) by [The Local Authority Fostering Services (Wales) (Amendment) Regulations 2019 (S.I. 2019/545)](https://www.legislation.gov.uk/wsi/2019/545), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/545/regulation/1/2), [2(c)(i)](https://www.legislation.gov.uk/wsi/2019/545/regulation/2/c/i)
+[^c-e65c77f78cf84b64e04f4c7d6c1f3f02]: Textual amendment: [Reg. 11(d)](https://www.legislation.gov.uk/wsi/2018/1339/regulation/11/d) substituted (29.4.2019) by [The Local Authority Fostering Services (Wales) (Amendment) Regulations 2019 (S.I. 2019/545)](https://www.legislation.gov.uk/wsi/2019/545), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/545/regulation/1/2), [2(c)(i)](https://www.legislation.gov.uk/wsi/2019/545/regulation/2/c/i)
 
-[^key-1d2de946841ccbbdef785e64f325b37a]: Textual amendment: [Reg. 11(e)](https://www.legislation.gov.uk/wsi/2018/1339/regulation/11/e) omitted (29.4.2019) by virtue of [The Local Authority Fostering Services (Wales) (Amendment) Regulations 2019 (S.I. 2019/545)](https://www.legislation.gov.uk/wsi/2019/545), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/545/regulation/1/2), [2(c)(ii)](https://www.legislation.gov.uk/wsi/2019/545/regulation/2/c/ii)
+[^c-1d2de946841ccbbdef785e64f325b37a]: Textual amendment: [Reg. 11(e)](https://www.legislation.gov.uk/wsi/2018/1339/regulation/11/e) omitted (29.4.2019) by virtue of [The Local Authority Fostering Services (Wales) (Amendment) Regulations 2019 (S.I. 2019/545)](https://www.legislation.gov.uk/wsi/2019/545), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/545/regulation/1/2), [2(c)(ii)](https://www.legislation.gov.uk/wsi/2019/545/regulation/2/c/ii)
 
 [^c23480501]: Marginal citation: The office of the Children's Commissioner for Wales was created by section 72 of the [Care Standards Act 2000 (c. 14)](https://www.legislation.gov.uk/ukpga/2000/14).
 
@@ -808,11 +808,11 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23480531]: Marginal citation: *See* section 197(1) of the 2014 Act for the definition of “neglect”.
 
-[^key-3d75e55cdeacf1d9c381bbabf5aaa4b4]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/wsi/2018/1339/regulation/26/1) substituted (29.4.2019) by [The Local Authority Fostering Services (Wales) (Amendment) Regulations 2019 (S.I. 2019/545)](https://www.legislation.gov.uk/wsi/2019/545), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/545/regulation/1/2), [2(d)](https://www.legislation.gov.uk/wsi/2019/545/regulation/2/d)
+[^c-3d75e55cdeacf1d9c381bbabf5aaa4b4]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/wsi/2018/1339/regulation/26/1) substituted (29.4.2019) by [The Local Authority Fostering Services (Wales) (Amendment) Regulations 2019 (S.I. 2019/545)](https://www.legislation.gov.uk/wsi/2019/545), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/545/regulation/1/2), [2(d)](https://www.legislation.gov.uk/wsi/2019/545/regulation/2/d)
 
 [^c23480541]: Marginal citation: [Section 1](https://www.legislation.gov.uk/wsi/2018/1339/section/1) of the Rights of Children and Young Persons (Wales) Measure 2011 (nawm 2) requires the Welsh Ministers, when exercising any of their functions, to have due regard to the requirements of Part 1 of the United Nations Convention on the Rights of the Child adopted and opened for signature, ratification and accession by General Assembly resolution 44/25 of 20 November 1989 (“**the Convention**”). Article 31 of Part 1 of the Convention recognises a child's right to play.
 
-[^key-ec209f2de429ae79f95108d32a3b32bf]: Textual amendment: Words in [reg. 29(2)(e)](https://www.legislation.gov.uk/wsi/2018/1339/regulation/29/2/e) substituted (29.4.2019) by [The Local Authority Fostering Services (Wales) (Amendment) Regulations 2019 (S.I. 2019/545)](https://www.legislation.gov.uk/wsi/2019/545), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/545/regulation/1/2), [2(e)](https://www.legislation.gov.uk/wsi/2019/545/regulation/2/e)
+[^c-ec209f2de429ae79f95108d32a3b32bf]: Textual amendment: Words in [reg. 29(2)(e)](https://www.legislation.gov.uk/wsi/2018/1339/regulation/29/2/e) substituted (29.4.2019) by [The Local Authority Fostering Services (Wales) (Amendment) Regulations 2019 (S.I. 2019/545)](https://www.legislation.gov.uk/wsi/2019/545), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/545/regulation/1/2), [2(e)](https://www.legislation.gov.uk/wsi/2019/545/regulation/2/e)
 
 [^c23480551]: Marginal citation: *See* section 79(1)(b) of the 2016 Act for the definition of a “social care manager”.
 

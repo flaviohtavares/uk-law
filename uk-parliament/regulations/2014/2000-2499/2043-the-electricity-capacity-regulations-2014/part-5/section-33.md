@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Termination of capacity agreements: Secretary of State's discretion[^key-9022aec58b8e9d0e7c5f1f670fd0df8e][^key-037bc4ce9d5c918bd0d79bd67cb75d7b]
+## 33. Termination of capacity agreements: Secretary of State's discretion[^c-9022aec58b8e9d0e7c5f1f670fd0df8e][^c-037bc4ce9d5c918bd0d79bd67cb75d7b]
 
 *Extent: E+W+S*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9022aec58b8e9d0e7c5f1f670fd0df8e]: Modification: [Reg. 33](https://www.legislation.gov.uk/uksi/2014/2043/regulation/33) applied (with modifications) (10.4.2019) by [The Electricity Capacity (No. 1) Regulations 2019 (S.I. 2019/862)](https://www.legislation.gov.uk/uksi/2019/862), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/862/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2019/862/regulation/26)
+[^c-9022aec58b8e9d0e7c5f1f670fd0df8e]: Modification: [Reg. 33](https://www.legislation.gov.uk/uksi/2014/2043/regulation/33) applied (with modifications) (10.4.2019) by [The Electricity Capacity (No. 1) Regulations 2019 (S.I. 2019/862)](https://www.legislation.gov.uk/uksi/2019/862), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/862/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2019/862/regulation/26)
 
-[^key-037bc4ce9d5c918bd0d79bd67cb75d7b]: Modification: [Reg. 33](https://www.legislation.gov.uk/uksi/2014/2043/regulation/33) modified (4.7.2020) by [The Electricity Capacity (Amendment etc.) (Coronavirus) Regulations 2020 (S.I. 2020/697)](https://www.legislation.gov.uk/uksi/2020/697), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2020/697/schedule/2/paragraph/2)
+[^c-037bc4ce9d5c918bd0d79bd67cb75d7b]: Modification: [Reg. 33](https://www.legislation.gov.uk/uksi/2014/2043/regulation/33) modified (4.7.2020) by [The Electricity Capacity (Amendment etc.) (Coronavirus) Regulations 2020 (S.I. 2020/697)](https://www.legislation.gov.uk/uksi/2020/697), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2020/697/schedule/2/paragraph/2)

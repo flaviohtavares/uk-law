@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Local authorities to appoint democratic services committees[^key-7eb500ce8e8c78b627042ced5f1fa60d]
+## 11. Local authorities to appoint democratic services committees[^c-7eb500ce8e8c78b627042ced5f1fa60d]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7eb500ce8e8c78b627042ced5f1fa60d]: Commencement: S. 11 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/b)
+[^c-7eb500ce8e8c78b627042ced5f1fa60d]: Commencement: S. 11 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/b)

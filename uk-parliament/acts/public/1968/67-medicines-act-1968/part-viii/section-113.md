@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Application of sampling procedure to substance or article seized under s. 112.[^c998838][^c998839][^c998840][^c998841][^key-d0f6b32fcdfff9508255289a1886b424][^key-7ae7306747216e278141f49bdc869aa9][^key-d49a0efdb69789d6194b1cd5b87047d8][^c998837]
+## 113. Application of sampling procedure to substance or article seized under s. 112.[^c998838][^c998839][^c998840][^c998841][^c-d0f6b32fcdfff9508255289a1886b424][^c-7ae7306747216e278141f49bdc869aa9][^c-d49a0efdb69789d6194b1cd5b87047d8][^c998837]
 
 *Extent: E+W+S+N.I.*
 
-(1) The provisions of this section shall have effect where a person (in this section referred to as an “authorised officer") seizes a substance or article (other than a document) in the exercise of such a right as is specified in subsection (4) of section 112 of this Act [^key-d0771feb6ec173eea02dc16cffab06b4]....
+(1) The provisions of this section shall have effect where a person (in this section referred to as an “authorised officer") seizes a substance or article (other than a document) in the exercise of such a right as is specified in subsection (4) of section 112 of this Act [^c-d0771feb6ec173eea02dc16cffab06b4]....
 
 (2) If any person who in accordance with subsection (6) of that section is entitled to be informed of the seizure so requests, either at the time of the seizure or at any subsequent time, not being later than twenty-one days after he is informed of the seizure, then, subject to the next following subsection, the authorised officer shall either—
 
@@ -62,12 +62,12 @@ and as if in paragraph 24(1) of that Schedule the reference to a substance or ar
 
     Ss. 108-115 applied (3.10.1994) by [S.I. 1994/2328](https://www.legislation.gov.uk/uksi/1994/2328), [reg. 11(c)](https://www.legislation.gov.uk/uksi/1994/2328/regulation/11/c)
 
-[^key-d0f6b32fcdfff9508255289a1886b424]: Modification: Ss. 107-116 applied (with modifications) (1.5.2004) by [Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031)](https://www.legislation.gov.uk/uksi/2004/1031), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1031/regulation/1), [47](https://www.legislation.gov.uk/uksi/2004/1031/regulation/47), [Schs. 9](https://www.legislation.gov.uk/uksi/2004/1031/schedule/9)
+[^c-d0f6b32fcdfff9508255289a1886b424]: Modification: Ss. 107-116 applied (with modifications) (1.5.2004) by [Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031)](https://www.legislation.gov.uk/uksi/2004/1031), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1031/regulation/1), [47](https://www.legislation.gov.uk/uksi/2004/1031/regulation/47), [Schs. 9](https://www.legislation.gov.uk/uksi/2004/1031/schedule/9)
 
-[^key-7ae7306747216e278141f49bdc869aa9]: Modification: Ss. 111-116 applied (with modifications) (30.10.2005) by [Medicines (Traditional Herbal Medicinal Products for Human Use) Regulations 2005 (S.I. 2005/2750)](https://www.legislation.gov.uk/uksi/2005/2750) , [regs. 1(a)](https://www.legislation.gov.uk/uksi/2005/2750/regulation/1/a) , [11](https://www.legislation.gov.uk/uksi/2005/2750/regulation/11) , [Schs. 4](https://www.legislation.gov.uk/uksi/2005/2750/schedule/4) (with [Sch. 6](https://www.legislation.gov.uk/uksi/2005/2750/schedule/6) )
+[^c-7ae7306747216e278141f49bdc869aa9]: Modification: Ss. 111-116 applied (with modifications) (30.10.2005) by [Medicines (Traditional Herbal Medicinal Products for Human Use) Regulations 2005 (S.I. 2005/2750)](https://www.legislation.gov.uk/uksi/2005/2750) , [regs. 1(a)](https://www.legislation.gov.uk/uksi/2005/2750/regulation/1/a) , [11](https://www.legislation.gov.uk/uksi/2005/2750/regulation/11) , [Schs. 4](https://www.legislation.gov.uk/uksi/2005/2750/schedule/4) (with [Sch. 6](https://www.legislation.gov.uk/uksi/2005/2750/schedule/6) )
 
-[^key-d49a0efdb69789d6194b1cd5b87047d8]: Modification: Ss. 107-116 amendment to earlier affecting provision SI 2004/1031 reg. 47 Sch. 9 (29.8.2006) by [Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2006/1928/regulation/32)
+[^c-d49a0efdb69789d6194b1cd5b87047d8]: Modification: Ss. 107-116 amendment to earlier affecting provision SI 2004/1031 reg. 47 Sch. 9 (29.8.2006) by [Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2006/1928/regulation/32)
 
 [^c998837]: Modification: Pt. VIII (ss. 104–136) extended by S.I.s 1982/425, art. 3, 1984/187 art. 2; and extended with modifications by [S.I. 1985/403](https://www.legislation.gov.uk/uksi/1985/403), [art. 3(1)](https://www.legislation.gov.uk/uksi/1985/403/article/3/1)
 
-[^key-d0771feb6ec173eea02dc16cffab06b4]: Textual amendment: Words in s. 113(1) omitted (14.8.2012) by virtue of [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 22](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/22) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-d0771feb6ec173eea02dc16cffab06b4]: Textual amendment: Words in s. 113(1) omitted (14.8.2012) by virtue of [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 22](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/22) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))

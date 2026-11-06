@@ -30,8 +30,8 @@ summary: ''
 
 (3) In section 52 (complaints: receipt and initial classification), in subsections (1)(b), (6) and (7), after “Board” insert “ , the Director ”.
 
-(4)[^key-68b7031ba5f083aa90ad77c0aa66a35b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-68b7031ba5f083aa90ad77c0aa66a35b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-68b7031ba5f083aa90ad77c0aa66a35b]: Textual amendment: [S. 34(4)](https://www.legislation.gov.uk/ukpga/2002/26/section/34/4) repealed (12.4.2010) by [Justice (Northern Ireland) Act 2004 (c. 4)](https://www.legislation.gov.uk/ukpga/2004/4), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2004/4/section/19/1), [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/4/schedule/4); [S.R. 2010/114](https://www.legislation.gov.uk/nisr/2010/114), [art. 2(c)](https://www.legislation.gov.uk/nisr/2010/114/article/2/c)
+[^c-68b7031ba5f083aa90ad77c0aa66a35b]: Textual amendment: [S. 34(4)](https://www.legislation.gov.uk/ukpga/2002/26/section/34/4) repealed (12.4.2010) by [Justice (Northern Ireland) Act 2004 (c. 4)](https://www.legislation.gov.uk/ukpga/2004/4), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2004/4/section/19/1), [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/4/schedule/4); [S.R. 2010/114](https://www.legislation.gov.uk/nisr/2010/114), [art. 2(c)](https://www.legislation.gov.uk/nisr/2010/114/article/2/c)

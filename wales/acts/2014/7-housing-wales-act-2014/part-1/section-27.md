@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Licensing appeals[^key-23757e4045a800b7ffc7c6ce3be5dc84]
+## 27. Licensing appeals[^c-23757e4045a800b7ffc7c6ce3be5dc84]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23757e4045a800b7ffc7c6ce3be5dc84]: Commencement: [S. 27](https://www.legislation.gov.uk/anaw/2014/7/section/27) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(q)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/q)
+[^c-23757e4045a800b7ffc7c6ce3be5dc84]: Commencement: [S. 27](https://www.legislation.gov.uk/anaw/2014/7/section/27) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(q)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/q)

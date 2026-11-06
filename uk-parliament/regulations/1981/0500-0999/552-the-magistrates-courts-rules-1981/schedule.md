@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE — REVOCATIONS[^key-fda0864550e2eef6fb5e375ca7f6e37d]
+## SCHEDULE — REVOCATIONS[^c-fda0864550e2eef6fb5e375ca7f6e37d]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ Rule 1(2).
 
 ## Annotations
 
-[^key-fda0864550e2eef6fb5e375ca7f6e37d]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/1981/552/schedule) in force at 6.7.1981, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1981/552/rule/1/1)
+[^c-fda0864550e2eef6fb5e375ca7f6e37d]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/1981/552/schedule) in force at 6.7.1981, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1981/552/rule/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Revenue Scotland[^key-515bf45503836ad8f532fe240a31d89f]
+## 2. Revenue Scotland[^c-515bf45503836ad8f532fe240a31d89f]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-515bf45503836ad8f532fe240a31d89f]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2014/16/section/2) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-515bf45503836ad8f532fe240a31d89f]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2014/16/section/2) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)

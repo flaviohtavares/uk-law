@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 115. Transfer of sums from the pension fund to compensate for former member’s misconduct[^key-a000e3c13ecf0d60fce8b19a0ff735ec]
+## 115. Transfer of sums from the pension fund to compensate for former member’s misconduct[^c-a000e3c13ecf0d60fce8b19a0ff735ec]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ whichever is the less.
 
 ## Annotations
 
-[^key-a000e3c13ecf0d60fce8b19a0ff735ec]: Commencement: Reg. 115 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-a000e3c13ecf0d60fce8b19a0ff735ec]: Commencement: Reg. 115 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

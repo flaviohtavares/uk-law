@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) An application under paragraph 15 of Schedule 10 to the Sentencing Code[^key-3b287795341d241886b2ffb25a67c266] must be made in writing to the court administration officer, specifying—
+(1) An application under paragraph 15 of Schedule 10 to the Sentencing Code[^c-3b287795341d241886b2ffb25a67c266] must be made in writing to the court administration officer, specifying—
 
 - (a) whether the applicant wants the court—
   - (i) to revoke the order; or
@@ -38,11 +38,11 @@ summary: ''
 (4) If the application is made by the responsible officer, the Judge Advocate General may—
 
 - (a) dismiss the application; or
-- (b) direct a hearing of the application, and issue a summons under paragraph 15(3) of Schedule 10 to the Sentencing Code[^key-eccd848f706eb81b0f741d8936ac9a74] requiring the offender to appear at the hearing.
+- (b) direct a hearing of the application, and issue a summons under paragraph 15(3) of Schedule 10 to the Sentencing Code[^c-eccd848f706eb81b0f741d8936ac9a74] requiring the offender to appear at the hearing.
 
 (5) If the Judge Advocate General directs a hearing of the application, the court administration officer shall notify the responsible officer (and, if he is the applicant, the offender) of the time and place appointed for the hearing.
 
-(6) A warrant for the offender's arrest, issued under paragraph 15(3) of Schedule 10 to the Sentencing Code[^key-9f3a28ae53872b0ff14d4778aaaaf067]—
+(6) A warrant for the offender's arrest, issued under paragraph 15(3) of Schedule 10 to the Sentencing Code[^c-9f3a28ae53872b0ff14d4778aaaaf067]—
 
 - (a) shall be addressed to—
   - (i) one or more service policemen; or
@@ -66,8 +66,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3b287795341d241886b2ffb25a67c266]: Textual amendment: Words in rule 142(1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 392(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/392/2) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-3b287795341d241886b2ffb25a67c266]: Textual amendment: Words in rule 142(1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 392(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/392/2) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-eccd848f706eb81b0f741d8936ac9a74]: Textual amendment: Words in rule 142(4)(b) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 392(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/392/3) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-eccd848f706eb81b0f741d8936ac9a74]: Textual amendment: Words in rule 142(4)(b) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 392(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/392/3) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-9f3a28ae53872b0ff14d4778aaaaf067]: Textual amendment: Words in rule 142(6) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), s. 416(1), Sch. 24 para. 392(4) (with Sch. 24 para. 447, Sch. 27); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-9f3a28ae53872b0ff14d4778aaaaf067]: Textual amendment: Words in rule 142(6) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), s. 416(1), Sch. 24 para. 392(4) (with Sch. 24 para. 447, Sch. 27); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

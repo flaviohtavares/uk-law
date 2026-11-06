@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Transfers of conditioned waste[^key-9a429b48e13f0bc2643a3675f00b0ffd]
+## 30. Transfers of conditioned waste[^c-9a429b48e13f0bc2643a3675f00b0ffd]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-6b9dbbd8bbc89e6b76b4c654b75b8b11] An operator of a qualifying nuclear facility that is used to treat or store conditioned waste must declare to the ONR—
+(1)[^c-6b9dbbd8bbc89e6b76b4c654b75b8b11] An operator of a qualifying nuclear facility that is used to treat or store conditioned waste must declare to the ONR—
 
 - (a) shipments or exports of conditioned waste from the qualifying nuclear facility, using the form set out in Part 9 of Schedule 1;
 - (b) receipts or imports of conditioned waste to the qualifying nuclear facility, using the form set out in Part 10 of Schedule 1.
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9a429b48e13f0bc2643a3675f00b0ffd]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-9a429b48e13f0bc2643a3675f00b0ffd]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-6b9dbbd8bbc89e6b76b4c654b75b8b11]: Textual amendment: [Reg. 30(1)](https://www.legislation.gov.uk/uksi/2019/196/regulation/30/1) substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2026/835/regulation/22)
+[^c-6b9dbbd8bbc89e6b76b4c654b75b8b11]: Textual amendment: [Reg. 30(1)](https://www.legislation.gov.uk/uksi/2019/196/regulation/30/1) substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2026/835/regulation/22)

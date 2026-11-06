@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Information to be given by institutions or other providers[^key-6dc0dd185a8183e5f24242d6168cefce][^key-e975b58e0e88fbbe0d8a58bd08101bb0]
+## 46. Information to be given by institutions or other providers[^c-6dc0dd185a8183e5f24242d6168cefce][^c-e975b58e0e88fbbe0d8a58bd08101bb0]
 
 *Extent: E+W+S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6dc0dd185a8183e5f24242d6168cefce]: Commencement: Art. 46 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-6dc0dd185a8183e5f24242d6168cefce]: Commencement: Art. 46 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-e975b58e0e88fbbe0d8a58bd08101bb0]: Commencement: [Art. 46](https://www.legislation.gov.uk/uksi/2010/231/article/46) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-e975b58e0e88fbbe0d8a58bd08101bb0]: Commencement: [Art. 46](https://www.legislation.gov.uk/uksi/2010/231/article/46) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)

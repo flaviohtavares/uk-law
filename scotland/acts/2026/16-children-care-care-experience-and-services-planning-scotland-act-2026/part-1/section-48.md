@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Timescale for determination of application to sheriff[^key-0da0d64a2d57d404a100e90ff74453a0]
+## 48. Timescale for determination of application to sheriff[^c-0da0d64a2d57d404a100e90ff74453a0]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0da0d64a2d57d404a100e90ff74453a0]: Commencement: S. 48 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-0da0d64a2d57d404a100e90ff74453a0]: Commencement: S. 48 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Control of sanitary appliances on vessels.[^key-a0df59fa14e0b213badcfb1bc34c5cdd]
+## 33. Control of sanitary appliances on vessels.[^c-a0df59fa14e0b213badcfb1bc34c5cdd]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0df59fa14e0b213badcfb1bc34c5cdd]: Textual amendment: Ss. 33-40 repealed (1.4.2006) by [The Water Environment (Consequential and Savings Provisions) (Scotland) Order 2006 (S.S.I. 2006/181)](https://www.legislation.gov.uk/ssi/2006/181), [art. 1](https://www.legislation.gov.uk/ssi/2006/181/article/1), [Sch. Pt. I](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/I) (with [sch. Pt. III](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/III))
+[^c-a0df59fa14e0b213badcfb1bc34c5cdd]: Textual amendment: Ss. 33-40 repealed (1.4.2006) by [The Water Environment (Consequential and Savings Provisions) (Scotland) Order 2006 (S.S.I. 2006/181)](https://www.legislation.gov.uk/ssi/2006/181), [art. 1](https://www.legislation.gov.uk/ssi/2006/181/article/1), [Sch. Pt. I](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/I) (with [sch. Pt. III](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/III))

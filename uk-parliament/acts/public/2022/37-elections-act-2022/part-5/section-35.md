@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Election etc of a person to the House of Commons who is subject to a disqualification order[^key-bb89a1cc9989816233ca8d005593c5b2][^key-b1186f6eea2787bdde1f982d5eeaf744]
+## 35. Election etc of a person to the House of Commons who is subject to a disqualification order[^c-bb89a1cc9989816233ca8d005593c5b2][^c-b1186f6eea2787bdde1f982d5eeaf744]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bb89a1cc9989816233ca8d005593c5b2]: Commencement: S. 35 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-bb89a1cc9989816233ca8d005593c5b2]: Commencement: S. 35 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-b1186f6eea2787bdde1f982d5eeaf744]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2022/37/section/35) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/e)
+[^c-b1186f6eea2787bdde1f982d5eeaf744]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2022/37/section/35) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/e)

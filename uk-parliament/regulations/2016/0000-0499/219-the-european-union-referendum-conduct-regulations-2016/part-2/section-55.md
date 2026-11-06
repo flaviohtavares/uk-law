@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Sealing up of ballot papers[^key-c262c3bc1814186285400b9889aaf5b4]
+## 55. Sealing up of ballot papers[^c-c262c3bc1814186285400b9889aaf5b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c262c3bc1814186285400b9889aaf5b4]: Commencement: Reg. 55 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-c262c3bc1814186285400b9889aaf5b4]: Commencement: Reg. 55 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

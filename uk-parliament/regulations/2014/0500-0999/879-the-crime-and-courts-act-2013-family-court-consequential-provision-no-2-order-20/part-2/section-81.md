@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81. Amendment to the Litigants in Person (Costs and Expenses) (Magistrates’ Courts) Order 2001[^key-3cfa3767661e7b0262709d5fbf61d8a6]
+## 81. Amendment to the Litigants in Person (Costs and Expenses) (Magistrates’ Courts) Order 2001[^c-3cfa3767661e7b0262709d5fbf61d8a6]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In article 3 of the Litigants in Person (Costs and Expenses) (Magistrates’ Cou
 
 ## Annotations
 
-[^key-3cfa3767661e7b0262709d5fbf61d8a6]: Commencement: Art. 81 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-3cfa3767661e7b0262709d5fbf61d8a6]: Commencement: Art. 81 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
 
 [^f00023]: Footnote: [S.I. 2001/3438](https://www.legislation.gov.uk/uksi/2001/3438). [S.I 2011/1045](https://www.legislation.gov.uk/uksi/2011/1045) makes relevant amendments.

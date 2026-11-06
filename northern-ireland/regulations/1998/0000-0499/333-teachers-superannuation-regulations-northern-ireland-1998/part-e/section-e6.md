@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E6. Amount of retirement lump sum[^key-925c12c357c4143948347beb9cc9ce39]
+## E6. Amount of retirement lump sum[^c-925c12c357c4143948347beb9cc9ce39]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ where—
 
 ## Annotations
 
-[^key-925c12c357c4143948347beb9cc9ce39]: Commencement: Reg. E6 in operation at 2.11.1998, see reg. A1
+[^c-925c12c357c4143948347beb9cc9ce39]: Commencement: Reg. E6 in operation at 2.11.1998, see reg. A1

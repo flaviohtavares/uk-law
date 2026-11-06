@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 120. Power to refer points of law for the opinion of the High Court[^key-9b39aff8fe41db9244c3ea8d5f95f509]
+## 120. Power to refer points of law for the opinion of the High Court[^c-9b39aff8fe41db9244c3ea8d5f95f509]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ In the Criminal Procedure (Scotland) Act 1995, after section 175, insert—
 
 ## Annotations
 
-[^key-9b39aff8fe41db9244c3ea8d5f95f509]: Commencement: [S. 120](https://www.legislation.gov.uk/asp/2014/18/section/120) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-9b39aff8fe41db9244c3ea8d5f95f509]: Commencement: [S. 120](https://www.legislation.gov.uk/asp/2014/18/section/120) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)

@@ -29,7 +29,7 @@ summary: ''
 - (a) in subsection (1), for “section 155” substitute “ provision by virtue of section 156B(4) ”;
 - (b) in subsection (4), for “of section 154 or 155” substitute “ as mentioned in subsection (1) ”.
 
-(4)[^key-2bb1ec85b7b5d461adfb45714a0650af] Before section 157 (and after the preceding cross-heading) insert—
+(4)[^c-2bb1ec85b7b5d461adfb45714a0650af] Before section 157 (and after the preceding cross-heading) insert—
 
 > **156A. Each director to be a natural person**
 >
@@ -106,4 +106,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bb1ec85b7b5d461adfb45714a0650af]: Commencement: [S. 87(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/87/4) in force at 4.3.2024 for specified purposes by [S.I. 2024/270](https://www.legislation.gov.uk/uksi/2024/270), [reg. 2](https://www.legislation.gov.uk/uksi/2024/270/regulation/2)
+[^c-2bb1ec85b7b5d461adfb45714a0650af]: Commencement: [S. 87(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/87/4) in force at 4.3.2024 for specified purposes by [S.I. 2024/270](https://www.legislation.gov.uk/uksi/2024/270), [reg. 2](https://www.legislation.gov.uk/uksi/2024/270/regulation/2)

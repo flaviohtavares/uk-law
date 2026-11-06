@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91ZB. Effect of endorsement on Northern Ireland licence holders[^key-063a56374028a94d6068fa982aee54c0]
+## 91ZB. Effect of endorsement on Northern Ireland licence holders[^c-063a56374028a94d6068fa982aee54c0]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-063a56374028a94d6068fa982aee54c0]: Textual amendment: [S. 91ZB](https://www.legislation.gov.uk/ukpga/1988/53/section/91ZB) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 3 para. 58](https://www.legislation.gov.uk/ukpga/2006/49/schedule/3/paragraph/58), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3](https://www.legislation.gov.uk/uksi/2015/560/article/3) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
+[^c-063a56374028a94d6068fa982aee54c0]: Textual amendment: [S. 91ZB](https://www.legislation.gov.uk/ukpga/1988/53/section/91ZB) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 3 para. 58](https://www.legislation.gov.uk/ukpga/2006/49/schedule/3/paragraph/58), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3](https://www.legislation.gov.uk/uksi/2015/560/article/3) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))

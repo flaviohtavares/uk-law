@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357PF. Additional deduction under section 1087 of CTA 2009[^key-b6ec87028bcb6d72935e3b6ef925f7da][^key-daff5b22d7ee6f395950067d2a1daa9d]
+## 357PF. Additional deduction under section 1087 of CTA 2009[^c-b6ec87028bcb6d72935e3b6ef925f7da][^c-daff5b22d7ee6f395950067d2a1daa9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b6ec87028bcb6d72935e3b6ef925f7da]: Textual amendment: S. 357PF omitted (with effect in accordance with s. 47(15) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 47(12)](https://www.legislation.gov.uk/ukpga/2016/24/section/47/12)
+[^c-b6ec87028bcb6d72935e3b6ef925f7da]: Textual amendment: S. 357PF omitted (with effect in accordance with s. 47(15) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 47(12)](https://www.legislation.gov.uk/ukpga/2016/24/section/47/12)
 
-[^key-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
+[^c-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)

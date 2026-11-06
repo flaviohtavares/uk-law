@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 399B. Property partnerships: tax reduction for non-deductible loan interest[^key-3cc000833a30f07932c49d78f6e320da]
+## 399B. Property partnerships: tax reduction for non-deductible loan interest[^c-3cc000833a30f07932c49d78f6e320da]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,14 +28,14 @@ summary: ''
 
 [formula: see source](https://www.legislation.gov.uk/ukpga/2007/3)
 
-where PBR[^key-81852b3d8b020beaf031050dabc92a7a] is the property basic rate[^key-b1647b29c292a1c2efe2749fc9544275] of income tax for the year.
+where PBR[^c-81852b3d8b020beaf031050dabc92a7a] is the property basic rate[^c-b1647b29c292a1c2efe2749fc9544275] of income tax for the year.
 
 ## Annotations
 
-[^key-3cc000833a30f07932c49d78f6e320da]: Textual amendment: Ss. 399A, 399B inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 24(7)](https://www.legislation.gov.uk/ukpga/2015/33/section/24/7)
+[^c-3cc000833a30f07932c49d78f6e320da]: Textual amendment: Ss. 399A, 399B inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 24(7)](https://www.legislation.gov.uk/ukpga/2015/33/section/24/7)
 
 [^M_F_a785c3a4-b006-4fb6-b7d3-6adeb16959a8]: Textual amendment: S. 399B(3) formula: “PBR” substituted for “BR” (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 21(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/21/a)
 
-[^key-81852b3d8b020beaf031050dabc92a7a]: Textual amendment: Word in s. 399B(3) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 21(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/21/a)
+[^c-81852b3d8b020beaf031050dabc92a7a]: Textual amendment: Word in s. 399B(3) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 21(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/21/a)
 
-[^key-b1647b29c292a1c2efe2749fc9544275]: Textual amendment: Words in s. 399B(3) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 21(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/21/b)
+[^c-b1647b29c292a1c2efe2749fc9544275]: Textual amendment: Words in s. 399B(3) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 21(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/21/b)

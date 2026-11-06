@@ -26,7 +26,7 @@ summary: ''
 
 (3) The Department may, after consultation with the Government Actuary's Department, issue actuarial guidance to the Committee.
 
-(3A)[^key-36003108237fd22137f4f557db5f99dc] The Department may issue guidance to the Committee on the administration and management of the Scheme.
+(3A)[^c-36003108237fd22137f4f557db5f99dc] The Department may issue guidance to the Committee on the administration and management of the Scheme.
 
 (3B) Before preparing or revising guidance under paragraph (3A), the Department must consult such persons as appear appropriate to it.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36003108237fd22137f4f557db5f99dc]: Textual amendment: [Reg. 2(3A)](https://www.legislation.gov.uk/nisr/2014/188/regulation/2/3A)[(3B)](https://www.legislation.gov.uk/nisr/2014/188/regulation/2/3B) inserted (with effect in accordance with reg. 1(1) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/163)](https://www.legislation.gov.uk/nisr/2022/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/163/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2022/163/regulation/3)
+[^c-36003108237fd22137f4f557db5f99dc]: Textual amendment: [Reg. 2(3A)](https://www.legislation.gov.uk/nisr/2014/188/regulation/2/3A)[(3B)](https://www.legislation.gov.uk/nisr/2014/188/regulation/2/3B) inserted (with effect in accordance with reg. 1(1) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/163)](https://www.legislation.gov.uk/nisr/2022/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/163/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2022/163/regulation/3)

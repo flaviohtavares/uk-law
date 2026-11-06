@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Statements indicating benefits for charitable institutions and collectors[^key-bef39b41a36d7ee672351cb04aa11817][^key-a378582815a8a417e64c77300064c84c]
+## 68. Statements indicating benefits for charitable institutions and collectors[^c-bef39b41a36d7ee672351cb04aa11817][^c-a378582815a8a417e64c77300064c84c]
 
 *Extent: E+W*
 
@@ -108,6 +108,6 @@ After section 60 of the 1992 Act insert—
 
 ## Annotations
 
-[^key-bef39b41a36d7ee672351cb04aa11817]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2006/50/section/68) in force at 27.2.2007 for specified purposes by [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-bef39b41a36d7ee672351cb04aa11817]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2006/50/section/68) in force at 27.2.2007 for specified purposes by [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
 
-[^key-a378582815a8a417e64c77300064c84c]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2006/50/section/68) in force at 1.4.2008 for specified purposes by [S.I. 2007/3286](https://www.legislation.gov.uk/uksi/2007/3286), [art. 3](https://www.legislation.gov.uk/uksi/2007/3286/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/3286/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/3286/article/4))
+[^c-a378582815a8a417e64c77300064c84c]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2006/50/section/68) in force at 1.4.2008 for specified purposes by [S.I. 2007/3286](https://www.legislation.gov.uk/uksi/2007/3286), [art. 3](https://www.legislation.gov.uk/uksi/2007/3286/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/3286/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/3286/article/4))

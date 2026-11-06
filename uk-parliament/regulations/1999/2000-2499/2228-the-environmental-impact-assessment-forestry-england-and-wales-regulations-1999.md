@@ -42,84 +42,84 @@ Coming into force
 
 6th September 1999
 
-The Minister of Agriculture, Fisheries and Food and the Secretary of State for Wales, being Ministers designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the requirement for an assessment of the impact on the environment of projects likely to have significant effects on the environment, acting jointly in exercise of the powers conferred on them by the said section 2(2) and of all other powers enabling them in that behalf, and having taken into account the selection criteria in Annex III to Council Directive [85/337/EEC](https://www.legislation.gov.uk/european/directive/1985/0337)[^f00003] as amended by Council Directive [97/11/EC](https://www.legislation.gov.uk/european/directive/1997/0011)[^f00004], hereby make the following Regulations:[^key-88378ab262294ca7ebe76fcc1fa26004]
+The Minister of Agriculture, Fisheries and Food and the Secretary of State for Wales, being Ministers designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the requirement for an assessment of the impact on the environment of projects likely to have significant effects on the environment, acting jointly in exercise of the powers conferred on them by the said section 2(2) and of all other powers enabling them in that behalf, and having taken into account the selection criteria in Annex III to Council Directive [85/337/EEC](https://www.legislation.gov.uk/european/directive/1985/0337)[^f00003] as amended by Council Directive [97/11/EC](https://www.legislation.gov.uk/european/directive/1997/0011)[^f00004], hereby make the following Regulations:[^c-88378ab262294ca7ebe76fcc1fa26004]
 
-## 1. Title, commencement and extent[^key-e08536391fc2cd548356304150df5720]
+## 1. Title, commencement and extent[^c-e08536391fc2cd548356304150df5720]
 
 (1) These Regulations may be cited as the Environmental Impact Assessment (Forestry) (England and Wales) Regulations 1999 and shall come into force on 6th September 1999.
 
-(2) These Regulations apply to England and Wales , subject to paragraphs (3) and (4)[^key-719de04011a9fe3730954a913b60c97a].
+(2) These Regulations apply to England and Wales , subject to paragraphs (3) and (4)[^c-719de04011a9fe3730954a913b60c97a].
 
-(3)[^key-f202d132b8d2afc27d5a1b8dc42fe268] Regulations 3(4) and (5), 3A, 3B, 24(1)(za) and 26 and paragraph 1A of Schedule 2 apply in relation to projects in England only.
+(3)[^c-f202d132b8d2afc27d5a1b8dc42fe268] Regulations 3(4) and (5), 3A, 3B, 24(1)(za) and 26 and paragraph 1A of Schedule 2 apply in relation to projects in England only.
 
 (4) Paragraph 2 of Schedule 2 applies in relation to projects in Wales only.
 
-## 2. Interpretation[^key-68ee8773d726e278c10acd75505462dc]
+## 2. Interpretation[^c-68ee8773d726e278c10acd75505462dc]
 
 (1) In these Regulations—
 
 - “afforestation” means initial afforestation (which has the same meaning as in paragraph 1(d) of Annex II to the Directive);
-- “the appropriate Authority” means—[^key-91bfc843aeabf4ed68240fcd6296b11b]
+- “the appropriate Authority” means—[^c-91bfc843aeabf4ed68240fcd6296b11b]
   - (a) in relation to England, the Secretary of State; and
   - (b) in relation to Wales, the Welsh Ministers;
-- “[^key-4adf92c34ded400dc8041e6c01d554d2]**the appropriate forestry body**” means, in relation to England, the Commissioners and, in relation to Wales, the Natural Resources Body for Wales;
+- “[^c-4adf92c34ded400dc8041e6c01d554d2]**the appropriate forestry body**” means, in relation to England, the Commissioners and, in relation to Wales, the Natural Resources Body for Wales;
 - “the Commissioners” means the Forestry Commissioners;
-- “[^key-3ad8bddd0cb67e5dd277c71806d9f2b8]**countryside bodies**” means—
-  - where any part of the land is situated in England, the Environment Agency, Natural England and any other body designated by statutory provision as having specific environmental responsibilities or local or regional competences[^key-cfa04e196850dbcab65cff13935cabc5] in relation to England; and
+- “[^c-3ad8bddd0cb67e5dd277c71806d9f2b8]**countryside bodies**” means—
+  - where any part of the land is situated in England, the Environment Agency, Natural England and any other body designated by statutory provision as having specific environmental responsibilities or local or regional competences[^c-cfa04e196850dbcab65cff13935cabc5] in relation to England; and
   - where any part of the land is situated in Wales, any body designated by statutory provision as having specific environmental responsibilities or local or regional competences in relation to Wales;
 - “deforestation” means deforestation for the purposes of conversion to another type of land use (which terms have the same meaning as in paragraph 1(d) of Annex II to the Directive);
 - “development” means development within the meaning of section 55 of the Town and Country Planning Act 1990[^f00009];
-- “Directive 92/43” means Council Directive 92/43/EEC on the conservation of natural habitats and of wild fauna and flora as last amended by Council Directive 2013/17/EU;[^key-8214209214febdfc12fce680b68b02c3]
+- “Directive 92/43” means Council Directive 92/43/EEC on the conservation of natural habitats and of wild fauna and flora as last amended by Council Directive 2013/17/EU;[^c-8214209214febdfc12fce680b68b02c3]
 - “Directive 2009/147” means Directive 2009/147/EC of the European Parliament and of the Council on the conservation of wild birds, as amended by Council Directive 2013/17/EU;
-- “the Directive” means Directive 2011/92/EU of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment, as amended by Directive 2014/52/EU of the European Parliament and of the Council;[^key-14e8580da97ad80ec2413ddd690b9dc7]
-- [^key-bcc3e2eb64f8f50ee242010471f900c0]...
-- “environmental impact assessment” means—[^key-3617b7f37635206a97a96be73836455c]
+- “the Directive” means Directive 2011/92/EU of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment, as amended by Directive 2014/52/EU of the European Parliament and of the Council;[^c-14e8580da97ad80ec2413ddd690b9dc7]
+- [^c-bcc3e2eb64f8f50ee242010471f900c0]...
+- “environmental impact assessment” means—[^c-3617b7f37635206a97a96be73836455c]
   - (a) the preparation of an environmental statement;
   - (b) the carrying out of consultations under regulation 9 and, where relevant, regulation 14;
   - (c) the consideration of the environmental statement and other information under regulation 15;
   - (d) reaching a conclusion about the likely significant effects of the project under regulation 15; and
   - (e) the consideration of that conclusion under regulation 15, before the decision whether or not to grant consent;
 - “environmental information” means information in the environmental statement and any other information provided in accordance with these Regulations in relation to an application for consent or an appeal under regulation 17 or 21 relating to the likely environmental effects of the project which is the subject of the application or, as the case may be, appeal;
-- “environmental statement” means a statement that—[^key-7e8ff13299bae0f7c2c4a1029c7358ac]
+- “environmental statement” means a statement that—[^c-7e8ff13299bae0f7c2c4a1029c7358ac]
   - (a) includes such of the information referred to in Part 1 of Schedule 1 as is relevant to the specific characteristics of a particular project or type of project and to the environmental features likely to be affected;
   - (b) includes at least the information referred to in Part 2 of Schedule 1;
   - (c) takes into account the results of any relevant UK environmental assessment reasonably available to the proposer;
   - (d) is based on any opinion issued pursuant to regulation 6 and, where such an opinion is issued, includes the information that may reasonably be required for reaching a conclusion on the significant effects of the project on the environment, taking into account current knowledge and methods of assessment;
   - (e) is prepared by competent persons; and
   - (f) is accompanied by a statement from the proposer outlining the relevant experience or qualifications of such persons;
-- “[^key-5b29d8a6dc6e9328b35f36f150e40464]**EU environmental assessment**” means an assessment of the effect of anything on the environment carried out under assimilated[^key-44573532ce3ca5e8d7db2edd7bd2b344] law other than any law of any part of the United Kingdom that implemented the Directive;
+- “[^c-5b29d8a6dc6e9328b35f36f150e40464]**EU environmental assessment**” means an assessment of the effect of anything on the environment carried out under assimilated[^c-44573532ce3ca5e8d7db2edd7bd2b344] law other than any law of any part of the United Kingdom that implemented the Directive;
 - “forest quarry works” means operations on land used or to be used for the purposes of forestry, or on land held or occupied with that land, to obtain the materials required for forest road works;
 - “forest road works” means the formation, alteration or maintenance of private ways on land used or to be used for the purposes of forestry;
 - “project” means the execution of construction works or of other installations or schemes or other intervention in the natural surroundings or landscape including those involving the extraction of mineral resources;
 - “proposer” means person who proposes to carry out a project;
 - “relevant project” shall be construed in accordance with regulation 3 below;
-- “UK environmental assessment” means an assessment carried out in accordance with an obligation under the law of any part of the United Kingdom of the effect of anything done on the environment.[^key-bc329f36d93e5289389c9920ef725301]
+- “UK environmental assessment” means an assessment carried out in accordance with an obligation under the law of any part of the United Kingdom of the effect of anything done on the environment.[^c-bc329f36d93e5289389c9920ef725301]
 
-(1A)[^key-59bac28821479998b3522d01513ddae4] In these Regulations, any reference to the likely significant effects, or the likely significant adverse effects, of projects on the environment includes a reference to the effects of the projects on the environment once the projects are completed and in operation.
+(1A)[^c-59bac28821479998b3522d01513ddae4] In these Regulations, any reference to the likely significant effects, or the likely significant adverse effects, of projects on the environment includes a reference to the effects of the projects on the environment once the projects are completed and in operation.
 
 (1B) In paragraph (1A), the reference to the environment includes a reference to the matters referred to in Schedule 4.
 
 (2) In these regulations, any reference to an enforcement notice shall be construed as including, as the context requires, a reference to a notice of variation under regulation 20(6)(a) or to an enforcement notice as so varied.
 
-(3) Any reference in these Regulations (other than regulation 22) to consent is a reference to the consent of the appropriate forestry body[^key-b5aa762a2adab34419d10dc075c0866f] required by regulation 4, and—
+(3) Any reference in these Regulations (other than regulation 22) to consent is a reference to the consent of the appropriate forestry body[^c-b5aa762a2adab34419d10dc075c0866f] required by regulation 4, and—
 
 - (a) (where the context permits) includes consent by the appropriate Authority on an appeal under regulation 17; and
 - (b) in regulations 4 and 20 to 23 includes (in accordance with regulation 25(9)) consent granted under the Environmental Assessment (Forestry) Regulations 1998[^f00012].
 
 (4) Unless the context otherwise requires, any reference in these Regulations to a numbered regulation or Schedule shall be construed as a reference to the regulation or Schedule bearing that number in these Regulations.
 
-## 3. Interpretation of “relevant project”[^key-4ccf3dafab5fc7c9d3e3d3bc6d402b25]
+## 3. Interpretation of “relevant project”[^c-4ccf3dafab5fc7c9d3e3d3bc6d402b25]
 
 (1) For the purposes of these Regulations, a project is a relevant project if—
 
 - (a) it is a project of a type specified in paragraph (2) of this regulation;
 - (b) subject to paragraph (3) of this regulation, it is likely, by virtue of factors such as its nature, size or location, to have significant effects on the environment; and
 - (c) the carrying out of the project—
-  - (i) does not involve development, [^key-cd095fb69af909949405d1c0726d2133]...
-  - (ii) involves development in England [^key-8e2f900fcdd953d280853ed85b200914]... which is not mentioned in Schedule 1 to or in column 1 of the table in Schedule 2 to the Town and Country Planning (Environmental Impact Assessment) *(Extent: E)*[^key-5d98cc2fb634d5b793799d2fafc129dc] Regulations 2017; or[^key-0b027e311540ed759cfec329697a424b]
-  - (iia)[^key-3533d9fbae344fb1ce9c153abf19c030] involves development in Wales which is not mentioned in Schedule 1, or in column 1 of the table in Schedule 2, to the Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017;
-  - (iii)[^key-bf4c52dbb1284092d8b7c21c677adfcf] involves development in England for which planning permission is granted by Part 6 of Schedule 2 to the Town and Country Planning (General Permitted Development) (England) Order 2015; or
-  - (iv)[^key-e36c4069291cbcd03551f0907603c5e1] involves development in Wales for which planning permission is granted by Part 7 of Schedule 2 to the Town and Country Planning (General Permitted Development) Order 1995.
+  - (i) does not involve development, [^c-cd095fb69af909949405d1c0726d2133]...
+  - (ii) involves development in England [^c-8e2f900fcdd953d280853ed85b200914]... which is not mentioned in Schedule 1 to or in column 1 of the table in Schedule 2 to the Town and Country Planning (Environmental Impact Assessment) *(Extent: E)*[^c-5d98cc2fb634d5b793799d2fafc129dc] Regulations 2017; or[^c-0b027e311540ed759cfec329697a424b]
+  - (iia)[^c-3533d9fbae344fb1ce9c153abf19c030] involves development in Wales which is not mentioned in Schedule 1, or in column 1 of the table in Schedule 2, to the Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017;
+  - (iii)[^c-bf4c52dbb1284092d8b7c21c677adfcf] involves development in England for which planning permission is granted by Part 6 of Schedule 2 to the Town and Country Planning (General Permitted Development) (England) Order 2015; or
+  - (iv)[^c-e36c4069291cbcd03551f0907603c5e1] involves development in Wales for which planning permission is granted by Part 7 of Schedule 2 to the Town and Country Planning (General Permitted Development) Order 1995.
 
 (2) The types of project referred to in paragraph (1)(a) of this regulation are—
 
@@ -128,16 +128,16 @@ The Minister of Agriculture, Fisheries and Food and the Secretary of State for W
 - (c) forest road works;
 - (d) forest quarry works.
 
-(3)[^key-d7e336c1957fbd89ec7f2941786ebfb4] For the purposes of paragraph (1)(b), and subject to [^key-28af1be6e7d9a14fe3780ae2c5b0d5a1]... regulations 6(3) and 7(6), a project is to be treated as being not likely to have[^key-32dceb458173431c91872a2365efe7bf] significant effects on the environment in accordance with—
+(3)[^c-d7e336c1957fbd89ec7f2941786ebfb4] For the purposes of paragraph (1)(b), and subject to [^c-28af1be6e7d9a14fe3780ae2c5b0d5a1]... regulations 6(3) and 7(6), a project is to be treated as being not likely to have[^c-32dceb458173431c91872a2365efe7bf] significant effects on the environment in accordance with—
 
 - (a) paragraph 1A of Schedule 2, in relation to projects in England; and
 - (b) paragraph 2 of Schedule 2, in relation to projects in Wales.
 
-(4)[^key-6784773e465861a4794d8921f1037ca2] For the purposes of paragraph (1)(b), where the project is an afforestation project in England of the kind to which regulation 3A applies, the project is to be treated as being likely to have, or not to have, significant effects on the environment in accordance with that regulation.
+(4)[^c-6784773e465861a4794d8921f1037ca2] For the purposes of paragraph (1)(b), where the project is an afforestation project in England of the kind to which regulation 3A applies, the project is to be treated as being likely to have, or not to have, significant effects on the environment in accordance with that regulation.
 
 (5) For the purposes of paragraph (1)(b), where the project is an afforestation project in England of the kind to which regulation 3B applies, the project is to be treated as being likely to have, or not to have, significant effects on the environment in accordance with that regulation.
 
-## 3A. Prior basic notification to the appropriate forestry body[^key-5ef6e8dc43855da0354ae0c9f94aa3b1]
+## 3A. Prior basic notification to the appropriate forestry body[^c-5ef6e8dc43855da0354ae0c9f94aa3b1]
 
 (1) This regulation applies to a proposed afforestation project in England covering an area of land—
 
@@ -205,7 +205,7 @@ they must assess whether the project is likely to have significant effects on th
 
 (6) Where the appropriate forestry body do not, within the relevant period, notify the proposer in writing that, according to their assessment, the project is likely to have significant effects on the environment, the proposer may conclude that the project is to be treated as being unlikely to have significant effects on the environment for the purposes of regulation 3(1)(b).
 
-(6A)[^key-11b5e602601fd018e1a602826aadd67a] Where a proposer applies for a grant from the appropriate forestry body or from the National Forest Company for the purposes of a proposed project of the kind described in paragraph (1)—
+(6A)[^c-11b5e602601fd018e1a602826aadd67a] Where a proposer applies for a grant from the appropriate forestry body or from the National Forest Company for the purposes of a proposed project of the kind described in paragraph (1)—
 
 - (a) the proposer is not required to send prior full notification to the appropriate forestry body in respect of the project to which the grant relates, and
 - (b) where the appropriate forestry body or the National Forest Company offers a grant to the proposer, the proposer may conclude that the project to which the grant relates is to be treated as being unlikely to have significant effects on the environment.
@@ -215,10 +215,10 @@ they must assess whether the project is likely to have significant effects on th
 - (a) in a sensitive area;
 - (b) land where the level of peat in the ground is equal to or greater than 50 centimetres in depth;
 - (c) identified as an Important Bird Area by the Royal Society for the Protection of Birds, in its role as a BirdLife Partner to BirdLife International;
-- (d) identified as affecting water bodies failing, or at risk of failing, the environmental objectives set for them under the WFD Regulations due to acidification;[^key-028853c9f572580346713bd59193dce2]
+- (d) identified as affecting water bodies failing, or at risk of failing, the environmental objectives set for them under the WFD Regulations due to acidification;[^c-028853c9f572580346713bd59193dce2]
 - (e) a nature reserve established by a local authority under section 21(1) of the National Parks and Access to the Countryside Act 1949;
 - (f) common land;
-- (g) the subject of a commitment under Article 28 of Regulation (EU) 1305/2013 of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) , as last amended by Commission Delegated Regulation (EU) 2018/162[^key-6b0639aed89e5ceaaeb7913a6f6fc77f];
+- (g) the subject of a commitment under Article 28 of Regulation (EU) 1305/2013 of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) , as last amended by Commission Delegated Regulation (EU) 2018/162[^c-6b0639aed89e5ceaaeb7913a6f6fc77f];
 - (h) land classified as “the best and most versatile agricultural land” according to the Agricultural Land Classification;
 - (i) a habitat of the type in the list published by the Secretary of State under section 41 of the Natural Environment and Rural Communities Act 2006, as being, in the opinion of the Secretary of State, of principal importance for the purpose of conserving biodiversity;
 - (j) registered as a battlefield in the Register of Historic Battlefields held by the Historic Buildings and Monuments Commission for England;
@@ -231,12 +231,12 @@ they must assess whether the project is likely to have significant effects on th
 - (a) the day on which the appropriate forestry body receive prior full notification in respect of the project; or
 - (b) where the appropriate forestry body have requested further information under paragraph (4), the day on which that information is received pursuant to that paragraph.
 
-(10)[^key-2436318862324b50b7d883cf2cf08836] In paragraph (7)—
+(10)[^c-2436318862324b50b7d883cf2cf08836] In paragraph (7)—
 
 - (a) “common land” means—
   - (i) land registered as common land in a register of common land kept under Part 1 of the Commons Act 2006; and
   - (ii) land to which Part 1 of that Act does not apply and which is subject to rights of common within the meaning of that Act;
-- (b)[^key-d8bfcbc5786d324b1411d5879ce60ec8] “**environmental objectives**” means—
+- (b)[^c-d8bfcbc5786d324b1411d5879ce60ec8] “**environmental objectives**” means—
   - (i) in relation to the Solway Tweed River Basin District, the objectives as defined in regulation 2 of the Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004 ;
   - (ii) in relation to the Northumbria River Basin District, the objectives referred to in the WFD Regulations as applied and modified by regulation 5 of the Water Environment (Water Framework Directive) (Northumbria River Basin District) Regulations 2003 ;
   - (iii) in relation to any other river basin district, as defined in WFD Regulations, the same as in those regulations;
@@ -244,24 +244,24 @@ they must assess whether the project is likely to have significant effects on th
 - (d) “water features” includes boreholes, wells, adits, springs, seepage and wetland areas, ponds, lakes and watercourses;
 - (e) “watercourses” includes all rivers, streams, ditches, drains, canals, cuts, culverts, dykes, sluices, sewers and passages through which water flows except a public sewer or drain.
 
-(11)[^key-27bfe4362ad54e8a2905b7d3343e9d9e] In paragraphs (7) and (10), “**the WFD Regulations**” means the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017.
+(11)[^c-27bfe4362ad54e8a2905b7d3343e9d9e] In paragraphs (7) and (10), “**the WFD Regulations**” means the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017.
 
-## 4. Restriction on relevant projects[^key-6a180b4e985b6c4bc226680e04323202]
+## 4. Restriction on relevant projects[^c-6a180b4e985b6c4bc226680e04323202]
 
-(1) Subject to regulations 4A and 4B[^key-143eb44fa11692f006800781ec83bf41], no person shall carry out, on any land, work or operations relating to a relevant project unless—
+(1) Subject to regulations 4A and 4B[^c-143eb44fa11692f006800781ec83bf41], no person shall carry out, on any land, work or operations relating to a relevant project unless—
 
-- (a) consent has been granted for that project by the appropriate forestry body[^key-185c8fee78c9ff6476cec7b0e4b317a3] or by the appropriate Authority, and
+- (a) consent has been granted for that project by the appropriate forestry body[^c-185c8fee78c9ff6476cec7b0e4b317a3] or by the appropriate Authority, and
 - (b) the project is carried out in accordance with the consent (including the conditions to which the consent is subject).
 
-(2)[^key-7d755730ae89b8dcc9b82babf315eaaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7d755730ae89b8dcc9b82babf315eaaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-7d755730ae89b8dcc9b82babf315eaaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7d755730ae89b8dcc9b82babf315eaaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-7d755730ae89b8dcc9b82babf315eaaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7d755730ae89b8dcc9b82babf315eaaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-7d755730ae89b8dcc9b82babf315eaaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-7d755730ae89b8dcc9b82babf315eaaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4A. National defence and civil emergencies[^key-6600d8e53018191de50e83ac2befb8a7]
+## 4A. National defence and civil emergencies[^c-6600d8e53018191de50e83ac2befb8a7]
 
 (1) The appropriate forestry body may determine that a project, or a part of a project, is exempt if—
 
@@ -284,7 +284,7 @@ they must assess whether the project is likely to have significant effects on th
 - (a) it is appropriate to do so by reason of exceptional circumstances;
 - (b) an environmental impact assessment in respect of the project would have an adverse effect on the fulfilment of the project’s purpose;
 - (c) the objectives of the Directive will be met even though such an assessment is not carried out; and
-- (d) the project is unlikely to have significant effects on the environment in an[^key-3803a332e29699d43fecfc72aa1349b1] EEA State.
+- (d) the project is unlikely to have significant effects on the environment in an[^c-3803a332e29699d43fecfc72aa1349b1] EEA State.
 
 (2) The effect of a determination that a project is exempt under paragraph (1) is that these Regulations, except for paragraphs (3) and (4), do not apply in respect of the project.
 
@@ -295,37 +295,37 @@ they must assess whether the project is likely to have significant effects on th
 - (a) the determination, including an explanation of the reasons for it; and
 - (b) the information obtained under any other assessment considered appropriate in accordance with paragraph (3).
 
-## 5. Application for an opinion whether a project is a relevant project[^key-a9ca03268327768b7ae264545eafd990]
+## 5. Application for an opinion whether a project is a relevant project[^c-a9ca03268327768b7ae264545eafd990]
 
-(1) The proposer may apply in writing to the appropriate forestry body[^key-99723d60d047be4ac541d0dc03a6a31d] for their opinion whether a project is a relevant project.
+(1) The proposer may apply in writing to the appropriate forestry body[^c-99723d60d047be4ac541d0dc03a6a31d] for their opinion whether a project is a relevant project.
 
 (2) An application under paragraph (1) above shall include or be accompanied by—
 
 - (a) a map or plan sufficient to identify the land that is the subject of the proposed project and the extent of the proposed project,
-- (b)[^key-4f53bba75a0a2e7de17bded00f57b14e] the information on the characteristics of the project and its likely significant effects on the environment specified in Schedule 2A; and
+- (b)[^c-4f53bba75a0a2e7de17bded00f57b14e] the information on the characteristics of the project and its likely significant effects on the environment specified in Schedule 2A; and
 - (c) such further information or representations as the proposer may wish to provide or make, including a description of any features of the project or measures envisaged to avoid or prevent what might otherwise have been significant adverse effects on the environment.
 
-(2A)[^key-baac2f61b2cb21b704282e941859c231] When compiling the information referred to in paragraph (2)(b), the proposer shall take into account—
+(2A)[^c-baac2f61b2cb21b704282e941859c231] When compiling the information referred to in paragraph (2)(b), the proposer shall take into account—
 
 - (a) any criteria in Schedule 3 which are relevant to the project; and
 - (b) the results of any relevant EU environmental assessment which are reasonably available to the proposer.
 
 (3) The appropriate forestry body shall, if they consider that they have not been provided with sufficient information to enable them to give an opinion under paragraph (1) above, notify the proposer in writing of the matters on which they require further information and the proposer shall supply that further information to the appropriate forestry body within such period as the appropriate forestry body reasonably may require or such other period as may be agreed in writing between the appropriate forestry body and the proposer.
 
-## 6. Opinions of the appropriate forestry body[^key-fff05b0a9db91e3a9119408dd7aa1788][^key-efa44f490e5c904f671e0b70fffbf9ba]
+## 6. Opinions of the appropriate forestry body[^c-fff05b0a9db91e3a9119408dd7aa1788][^c-efa44f490e5c904f671e0b70fffbf9ba]
 
-(1)[^key-c7139ca5bd8784f9f729906f08625d3b] Where the proposer applies to the appropriate forestry body under regulation 5, they shall give to the proposer written notice of their opinion within 28 days beginning with—
+(1)[^c-c7139ca5bd8784f9f729906f08625d3b] Where the proposer applies to the appropriate forestry body under regulation 5, they shall give to the proposer written notice of their opinion within 28 days beginning with—
 
 - (a) the date of their receipt of the application; or
 - (b) where they notify the proposer under regulation 5(3) that they require further information, the date of their receipt of that information.
 
-(1A)[^key-a40adda8d27620bc0d7da3c1f9a800b6] In exceptional cases, where the nature, complexity, location or size of the project demands a longer period to reach an opinion, the appropriate forestry body may extend the deadline in paragraph (1), informing the proposer in writing of the reasons justifying the extension and of the date on which their opinion is expected.
+(1A)[^c-a40adda8d27620bc0d7da3c1f9a800b6] In exceptional cases, where the nature, complexity, location or size of the project demands a longer period to reach an opinion, the appropriate forestry body may extend the deadline in paragraph (1), informing the proposer in writing of the reasons justifying the extension and of the date on which their opinion is expected.
 
-(1B)[^key-0838be96deaaf49b8357204a4f596a19] Where a proposer applies for a grant from the appropriate forestry body or the National Forest Company for the purposes of the project and the application is accompanied by the information referred to in regulation 5(2), the appropriate forestry body may treat that grant application as an application for an opinion under regulation 5 and as an exceptional case for the purposes of paragraph (1A).
+(1B)[^c-0838be96deaaf49b8357204a4f596a19] Where a proposer applies for a grant from the appropriate forestry body or the National Forest Company for the purposes of the project and the application is accompanied by the information referred to in regulation 5(2), the appropriate forestry body may treat that grant application as an application for an opinion under regulation 5 and as an exceptional case for the purposes of paragraph (1A).
 
-(2) Subject to paragraph (3), in considering, for the purpose of forming their opinion, whether the project is likely to have significant effects on the environment, the appropriate forestry body[^key-81fe4e4376e9c87f981e29ccf6cff7e3] shall take into account the selection criteria in Schedule 3 and the results of any relevant EU environmental assessment which are reasonably available to the appropriate forestry body[^key-05ac0a84af52e0efac70c76dee846088].
+(2) Subject to paragraph (3), in considering, for the purpose of forming their opinion, whether the project is likely to have significant effects on the environment, the appropriate forestry body[^c-81fe4e4376e9c87f981e29ccf6cff7e3] shall take into account the selection criteria in Schedule 3 and the results of any relevant EU environmental assessment which are reasonably available to the appropriate forestry body[^c-05ac0a84af52e0efac70c76dee846088].
 
-(3)[^key-4df80631bf7f2358f41da819491d959c] In a case where, in accordance with—
+(3)[^c-4df80631bf7f2358f41da819491d959c] In a case where, in accordance with—
 
 - (a) regulation 3A, 3B or paragraph 1A of Schedule 2, in relation to England, or
 - (b) paragraph 2 of Schedule 2, in relation to Wales,
@@ -334,7 +334,7 @@ the project is to be treated as being unlikely to have significant effects on th
 
 (4) Where the opinion of the appropriate forestry body is that the project is a relevant project, the appropriate forestry body shall include in or provide with their opinion a written statement of their reasons for being of that opinion.
 
-(4A)[^key-79391129551cbcae40d9d8abfdd02451] Where the opinion of the appropriate forestry body is that a project is not a relevant project, the appropriate forestry body shall state—
+(4A)[^c-79391129551cbcae40d9d8abfdd02451] Where the opinion of the appropriate forestry body is that a project is not a relevant project, the appropriate forestry body shall state—
 
 - (a) the main reasons for being of that opinion, with reference to the relevant selection criteria in Schedule 3; and
 - (b) where proposed by the proposer, any features of the project or measures envisaged to avoid or prevent what might otherwise have been significant adverse effects of the project on the environment.
@@ -346,11 +346,11 @@ the project is to be treated as being unlikely to have significant effects on th
 
 (6) In paragraph (3), the reference to circumstances which are, in the opinion of the appropriate forestry body, exceptional shall be construed in accordance with paragraph 4 of Schedule 2.
 
-## 7. Directions by the appropriate Authority[^key-a810bdf0ada29339e1505a475ced0f67]
+## 7. Directions by the appropriate Authority[^c-a810bdf0ada29339e1505a475ced0f67]
 
 (1) The proposer may apply in writing to the appropriate Authority for a direction whether a project is a relevant project where—
 
-- (a) the appropriate forestry body[^key-3ea65a51d5746f9dfcd61a87e1d73712] give notice of their opinion under regulation 6(1) or regulation 6(5) that the project is or would be a relevant project; or
+- (a) the appropriate forestry body[^c-3ea65a51d5746f9dfcd61a87e1d73712] give notice of their opinion under regulation 6(1) or regulation 6(5) that the project is or would be a relevant project; or
 - (b) the appropriate forestry body fail to give notice of their opinion within the period of time required by regulation 6(1).
 
 (2) An application under paragraph (1) above shall be accompanied by, or by copies of—
@@ -372,7 +372,7 @@ and may include such further information or representations as the proposer may 
 
 (5) Subject to paragraph (6), in considering, for the purpose of deciding on a direction, whether the project is likely to have significant effects on the environment, the appropriate Authority shall take into account the selection criteria in Schedule 3.
 
-(6)[^key-cc2387d0e634644877e7b0e7d785b86c] In a case where, in accordance with—
+(6)[^c-cc2387d0e634644877e7b0e7d785b86c] In a case where, in accordance with—
 
 - (a) regulations 3A and 3B and paragraph 1A of Schedule 2, in relation to England, or
 - (b) paragraph 2 of Schedule 2, in relation to Wales,
@@ -388,7 +388,7 @@ the project is to be treated as being unlikely to have significant effects on th
 
 (9) In paragraph (6), the reference to circumstances which are, in the opinion of the appropriate Authority, exceptional shall be construed in accordance with paragraph 4 of Schedule 2.
 
-## 8. Effect of directions and opinions[^key-007425d6e9c33410d8a1445261f10f15]
+## 8. Effect of directions and opinions[^c-007425d6e9c33410d8a1445261f10f15]
 
 (1) This paragraph applies to a direction given under regulation 7 that a project is not or would not be a relevant project or, in the absence of a direction under that regulation, to an opinion given under regulation 6 to that effect.
 
@@ -405,11 +405,11 @@ the project is to be treated as being unlikely to have significant effects on th
 
 (4) A direction or opinion to which paragraph (3) applies shall have the effect of determining for the purposes of these Regulations that the project specified in the direction or opinion is or would be a relevant project.
 
-## 9. Request as to the information to be included in an environmental statement[^key-bbcd74cde5d60623c6fda7cdb090acef]
+## 9. Request as to the information to be included in an environmental statement[^c-bbcd74cde5d60623c6fda7cdb090acef]
 
-(1) Before applying for consent to carry out work in relation to a project, a proposer may request the appropriate forestry body[^key-fc0e0adae3c1ec86bb254580531587fd] to give their opinion as to the scope and level of detail of[^key-6efebd2a014ae81300ec5d7713f97207] the information to be contained in the environmental statement required for that project.
+(1) Before applying for consent to carry out work in relation to a project, a proposer may request the appropriate forestry body[^c-fc0e0adae3c1ec86bb254580531587fd] to give their opinion as to the scope and level of detail of[^c-6efebd2a014ae81300ec5d7713f97207] the information to be contained in the environmental statement required for that project.
 
-(2) [^key-c983c9c1748e432776cead7b59c81518]... Before a determination has been made whether the project is or would be a relevant project, the appropriate forestry body shall deal with the request on the assumption that the project is a relevant project.
+(2) [^c-c983c9c1748e432776cead7b59c81518]... Before a determination has been made whether the project is or would be a relevant project, the appropriate forestry body shall deal with the request on the assumption that the project is a relevant project.
 
 (3) Before giving an opinion under paragraph (1) above, the appropriate forestry body shall consult the proposer, the countryside bodies and any relevant local authority.
 
@@ -423,24 +423,24 @@ the project is to be treated as being unlikely to have significant effects on th
 
 (8) In paragraphs (3) and (6), “relevant local authority” means a local authority for the area in which it is proposed to carry out the project which appears to the appropriate forestry body or, as the case may be, the appropriate Authority to have an interest in the issue of what information the environmental statement should contain.
 
-## 9A. Co-ordination[^key-e40a22493d030970814cabaf996b277f]
+## 9A. Co-ordination[^c-e40a22493d030970814cabaf996b277f]
 
 (1) Where, in respect of a relevant project, there is a requirement to carry out a Habitats Regulation Assessment, the appropriate forestry body must where appropriate ensure that environmental impact assessments carried out under these Regulations and the Habitats Regulation Assessment are co-ordinated or carried out jointly.
 
-(2) In this regulation, a “Habitats Regulation Assessment” means an assessment under regulation 63 of the Conservation of Habitats and Species Regulations 2017[^key-1b873fea0a399f4854d4907d4bb04e82].
+(2) In this regulation, a “Habitats Regulation Assessment” means an assessment under regulation 63 of the Conservation of Habitats and Species Regulations 2017[^c-1b873fea0a399f4854d4907d4bb04e82].
 
-## 10. Applications for consent[^key-bf18e794f849de4f0e827cc60c1eb29c]
+## 10. Applications for consent[^c-bf18e794f849de4f0e827cc60c1eb29c]
 
 (1) An application for consent shall be made in writing to the appropriate forestry body and shall be accompanied by—
 
 - (a) a map or plan sufficient to identify the land on which the relevant project would be carried out and the extent of any planting, regeneration, construction, works or operations;
 - (b) a description of the nature of the relevant project;
 - (c) an environmental statement in respect of the relevant project; and
-- (d) a copy of the notice to be published in accordance with regulation 13(1) and (1A)[^key-d4645af4a17a48c9a031360d21ef5141].
+- (d) a copy of the notice to be published in accordance with regulation 13(1) and (1A)[^c-d4645af4a17a48c9a031360d21ef5141].
 
 (2) An applicant for consent shall supply to the appropriate forestry body such number of copies of the application and the documents accompanying it as the appropriate forestry body reasonably may require.
 
-## 11. Provision of further information[^key-58a86326398655b78ffb42d92a9dd1ab]
+## 11. Provision of further information[^c-58a86326398655b78ffb42d92a9dd1ab]
 
 Where in the opinion of the appropriate forestry body—
 
@@ -449,25 +449,25 @@ Where in the opinion of the appropriate forestry body—
 
 the appropriate forestry body shall notify the applicant in writing of the matter on which they require further information and the applicant shall provide that further information.
 
-## 12. Assistance in preparation of environmental statements[^key-c587ab48fe0cf206a542c341e0eee240]
+## 12. Assistance in preparation of environmental statements[^c-c587ab48fe0cf206a542c341e0eee240]
 
 (1) Subject to paragraphs (2) and (3) below, the appropriate forestry body, each of the countryside bodies or any local authority for the area in which it is proposed to carry out the project shall, if requested by an applicant for consent, and may without such a request, enter into consultation with an applicant for consent to determine whether the appropriate forestry body, the countryside body or the local authority have in their possession any information which may be relevant to the preparation of the environmental statement and if the appropriate forestry body, the countryside body or local authority have such information, they shall make it available to the applicant.
 
-(2)[^key-c8840be9b450fc36939e531d554cae82] Paragraph (1) shall not require the appropriate forestry body, countryside bodies or local authorities to disclose information which they—
+(2)[^c-c8840be9b450fc36939e531d554cae82] Paragraph (1) shall not require the appropriate forestry body, countryside bodies or local authorities to disclose information which they—
 
 - (a) may refuse to disclose under regulation 12(1) of the Environmental Information Regulations 2004; or
 - (b) are prevented from disclosing by regulation 13(1) of those Regulations.
 
 (3) Paragraph (1) above shall not prevent the appropriate forestry body or a countryside body imposing a charge reflecting the cost of making the information available (including for the identification, preparation and copying of any information) or making the payment of such a charge a condition of providing the information.
 
-## 13. Publicity[^key-74a18c2d536598ae6bc29d5069629e37]
+## 13. Publicity[^c-74a18c2d536598ae6bc29d5069629e37]
 
-(1)[^key-b46c0d7726b770979cb82d17b63f6f8f] A person who makes an application for consent under regulation 10 or who provides further information in relation to that application, whether under regulation 11 or otherwise, shall publish a notice, in accordance with paragraphs (1A) and (2), for the purposes of ensuring—
+(1)[^c-b46c0d7726b770979cb82d17b63f6f8f] A person who makes an application for consent under regulation 10 or who provides further information in relation to that application, whether under regulation 11 or otherwise, shall publish a notice, in accordance with paragraphs (1A) and (2), for the purposes of ensuring—
 
 - (a) the application for consent or, as the case may be, the further information, is made available to the public; and
 - (b) the public concerned is given an opportunity to express an opinion before the application for consent is determined.
 
-(1A)[^key-64d9504e52d23b218c3d7bd6b348b3c3] A notice required by paragraph (1) shall be published—
+(1A)[^c-64d9504e52d23b218c3d7bd6b348b3c3] A notice required by paragraph (1) shall be published—
 
 - (a) in such newspapers as the appropriate forestry body reasonably may require;
 - (b) electronically; and
@@ -476,25 +476,25 @@ the appropriate forestry body shall notify the applicant in writing of the matte
 (2) A notice required by paragraph (1) above shall—
 
 - (a) state that the application has been made or, as the case may be, that the further information has been furnished to the appropriate forestry body;
-- (b) specify an office of the appropriate forestry body or other place nominated by them at which copies of the application or the further information may be inspected free of charge at all reasonable hours within 30 days[^key-b1b2eaa3f23ed3a999eca0c9b7b65c9d] beginning with the date of publication of the notice;
-- (c)[^key-81b1a5c66bcee3dfb4c5b221b68140e9] specify an address at which copies of the application or the further information may be obtained from the applicant and if a charge is to be made for a copy, the amount (not exceeding a reasonable charge for copying) of the charge;
-- (d) state that any person wishing to make representations regarding the application or the further information should make them in writing to the appropriate forestry body, at an address nominated by them and specified in the notice, within 30 days[^key-29baa843a753d02f9d0ebaf3045ba088] beginning with the date of publication of the notice; and
+- (b) specify an office of the appropriate forestry body or other place nominated by them at which copies of the application or the further information may be inspected free of charge at all reasonable hours within 30 days[^c-b1b2eaa3f23ed3a999eca0c9b7b65c9d] beginning with the date of publication of the notice;
+- (c)[^c-81b1a5c66bcee3dfb4c5b221b68140e9] specify an address at which copies of the application or the further information may be obtained from the applicant and if a charge is to be made for a copy, the amount (not exceeding a reasonable charge for copying) of the charge;
+- (d) state that any person wishing to make representations regarding the application or the further information should make them in writing to the appropriate forestry body, at an address nominated by them and specified in the notice, within 30 days[^c-29baa843a753d02f9d0ebaf3045ba088] beginning with the date of publication of the notice; and
 - (e) state, in relation to an application, that the appropriate forestry body may decide either—
   - (i) to grant consent either subject only to the conditions required by regulation 18 or also subject to such further conditions as they see fit; or
   - (ii) to refuse consent.
 
-(3) On receipt of an application for consent under regulation 10, or of further information [^key-49ff9db5bed6ee7d4acce9057334cdc5]..., the appropriate forestry body shall provide copies of the application or, as the case may be, the further information, together with a notice stating that any representations regarding the application or the further information should be made in writing to the appropriate forestry body within 30 days[^key-d9dc6f842221f4bfc19e916665daf670] beginning with the date of the notice, to—
+(3) On receipt of an application for consent under regulation 10, or of further information [^c-49ff9db5bed6ee7d4acce9057334cdc5]..., the appropriate forestry body shall provide copies of the application or, as the case may be, the further information, together with a notice stating that any representations regarding the application or the further information should be made in writing to the appropriate forestry body within 30 days[^c-d9dc6f842221f4bfc19e916665daf670] beginning with the date of the notice, to—
 
 - (a) the countryside bodies, and
 - (b) any local authority or other public authority which appears to the appropriate forestry body to have an interest in the application.
 
 (4) In this regulation, reference to an application includes a reference to the documents accompanying that application.
 
-## 14. Information for an EEA State[^key-473f16e48b32e9dca9a4d60933457b16][^key-5a52a95bf7fa1bb82ba9d9c7a05dd50b]
+## 14. Information for an EEA State[^c-473f16e48b32e9dca9a4d60933457b16][^c-5a52a95bf7fa1bb82ba9d9c7a05dd50b]
 
-(1) Where it appears to the appropriate forestry body that a project in relation to which they have received an application for consent would be likely to have significant effects on the environment of an[^key-822a347716c102dacd640e92b624c121] EEA State or where an EEA State likely to be significantly affected so requests, the appropriate forestry body shall provide a copy of the environmental statement relating to the project to the appropriate Authority.
+(1) Where it appears to the appropriate forestry body that a project in relation to which they have received an application for consent would be likely to have significant effects on the environment of an[^c-822a347716c102dacd640e92b624c121] EEA State or where an EEA State likely to be significantly affected so requests, the appropriate forestry body shall provide a copy of the environmental statement relating to the project to the appropriate Authority.
 
-(2) Where it appears to the appropriate Authority that a project would be likely to have significant effects on the environment of an[^key-97def54b1d2cfa4309b1fa99785ffa52] EEA State or where an EEA State likely to be significantly affected so requests, the appropriate Authority shall—
+(2) Where it appears to the appropriate Authority that a project would be likely to have significant effects on the environment of an[^c-97def54b1d2cfa4309b1fa99785ffa52] EEA State or where an EEA State likely to be significantly affected so requests, the appropriate Authority shall—
 
 - (a) send to the EEA State as soon as possible, and no later than the date of its publication as required by sub-paragraph (b) of this paragraph, the information mentioned in paragraph (3) of this regulation and, if the appropriate Authority thinks fit, the information mentioned in paragraph (4) of this regulation;
 - (b) publish the information referred to in sub-paragraph (a) above in a notice placed in the London Gazette with an indication of where further information is available;
@@ -503,7 +503,7 @@ the appropriate forestry body shall notify the applicant in writing of the matte
 
 (3) The information referred to in paragraph (2)(a) of this regulation is—
 
-- (a) a description of the project, together with any available information on its possible significant effects on the environment in an[^key-89cda4513234748d4b6ca717f6af606c] EEA State; and
+- (a) a description of the project, together with any available information on its possible significant effects on the environment in an[^c-89cda4513234748d4b6ca717f6af606c] EEA State; and
 - (b) information on the nature of the decision which may be taken.
 
 (4) Where an EEA State indicates, in accordance with paragraph (2)(c), that it wishes to participate in the procedure for which these Regulations provide, the appropriate Authority shall as soon as possible send to that EEA State the following information—
@@ -514,13 +514,13 @@ the appropriate forestry body shall notify the applicant in writing of the matte
 
 (5) The appropriate Authority, insofar as concerned, shall also—
 
-- (a) arrange for the information referred to in paragraphs (3) and (4) of this regulation and any further information provided by the applicant in relation to the application for consent[^key-de6d5898bb87ea4f544f46f6e6e5e6bc] to be made available, within a reasonable time, to the authorities which the EEA State designated to be consulted about the project[^key-16956eeba8afdc3021cb5faf13a3ebe0] and the public concerned in the territory of the EEA State likely to be significantly affected; and
-- (b) ensure that those authorities and the public concerned are given an opportunity, before the determination of the application for consent, to forward to the appropriate Authority, within a reasonable time, their opinion on the information supplied under sub-paragraph (a)[^key-12418434fa0af5e06cb8a6245a625564].
+- (a) arrange for the information referred to in paragraphs (3) and (4) of this regulation and any further information provided by the applicant in relation to the application for consent[^c-de6d5898bb87ea4f544f46f6e6e5e6bc] to be made available, within a reasonable time, to the authorities which the EEA State designated to be consulted about the project[^c-16956eeba8afdc3021cb5faf13a3ebe0] and the public concerned in the territory of the EEA State likely to be significantly affected; and
+- (b) ensure that those authorities and the public concerned are given an opportunity, before the determination of the application for consent, to forward to the appropriate Authority, within a reasonable time, their opinion on the information supplied under sub-paragraph (a)[^c-12418434fa0af5e06cb8a6245a625564].
 
-(6) The appropriate Authority shall [^key-4f4d424ed060a46ed01cbf0ca82ed62b]...—
+(6) The appropriate Authority shall [^c-4f4d424ed060a46ed01cbf0ca82ed62b]...—
 
 - (a) enter into consultations with the EEA State concerned regarding, inter alia, the potential significant effects of the project on the environment of that EEA State and the measures envisaged to reduce or eliminate such effects, and
-- (b) determine in agreement with the [^key-03e23467794794d547f7f4e3f273f797]... EEA State a reasonable period of time for the duration of the consultation period.
+- (b) determine in agreement with the [^c-03e23467794794d547f7f4e3f273f797]... EEA State a reasonable period of time for the duration of the consultation period.
 
 (7) Where an EEA State has been consulted in accordance with paragraph (6), on the determination of the application concerned the appropriate Authority shall inform the EEA State of the decision and shall forward to it a statement of—
 
@@ -528,7 +528,7 @@ the appropriate forestry body shall notify the applicant in writing of the matte
 - (b) the main reasons and considerations on which the decision is based; and
 - (c) a description, where necessary, of the main measures to avoid, reduce and, if possible, offset the major adverse effects of the project.
 
-## 15. Determination of applications[^key-aab775725e40f06c8ae5cab7c9b24255]
+## 15. Determination of applications[^c-aab775725e40f06c8ae5cab7c9b24255]
 
 (1) Where an application is made to the appropriate forestry body for consent, they may, subject to the following provisions of this regulation—
 
@@ -539,7 +539,7 @@ the appropriate forestry body shall notify the applicant in writing of the matte
 
 (3) In determining an application, the appropriate forestry body shall take into consideration the environmental information, any representations received by them in relation to the application and any other material consideration, including in particular their assessment of the direct and indirect effects of the relevant project on the environmental factors specified in Schedule 4.
 
-(4)[^key-8c682a15a82b5d867f8276c0c08eb2cd] The appropriate forestry body shall—
+(4)[^c-8c682a15a82b5d867f8276c0c08eb2cd] The appropriate forestry body shall—
 
 - (a) determine the application, and
 - (b) grant or refuse consent in respect of that application,
@@ -550,7 +550,7 @@ within a period of time which is reasonable, taking into account the nature and 
 
 (6) For the purposes of determining the application, the appropriate forestry body shall ensure that they have, or have access as necessary to, sufficient expertise to examine the environmental statement.
 
-## 16. Notification of decisions[^key-a426a5c5f0535d6bc8a4bf828813af3f]
+## 16. Notification of decisions[^c-a426a5c5f0535d6bc8a4bf828813af3f]
 
 (1) Where an application for consent has been determined by the appropriate forestry body, they must give notice in writing of their decision to—
 
@@ -583,15 +583,15 @@ within a period of time which is reasonable, taking into account the nature and 
 
 (7) In paragraph (1)(c), “relevant local authority” means the local authority for the area in which it is proposed to carry out the project.
 
-## 17. Appeals against decisions of the appropriate forestry body[^key-ce4506508634c7cf2cce9a4753ae4795][^key-fcd571d6d838707653319ac574da90a8]
+## 17. Appeals against decisions of the appropriate forestry body[^c-ce4506508634c7cf2cce9a4753ae4795][^c-fcd571d6d838707653319ac574da90a8]
 
-(1) An applicant for consent may appeal to the appropriate Authority where the appropriate forestry body[^key-b763b3a1d5f3685b32f78053e719ca3c]—
+(1) An applicant for consent may appeal to the appropriate Authority where the appropriate forestry body[^c-b763b3a1d5f3685b32f78053e719ca3c]—
 
 - (a) have refused the application;
 - (b) have granted consent subject to conditions in addition to those required by regulation 18; or
 - (c) have granted consent subject only to the conditions required by regulation 18 but have specified a period for the purposes of one or both of those conditions less than the maximum period permitted by that regulation.
 
-(2) An appeal under this regulation shall be made within 28 days, or such longer period as the appropriate Authority may allow, beginning with the date on which the applicant receives notification of the appropriate forestry body's[^key-9ff6b8965c750f57ce0b050fd6926d10] decision under regulation 16.
+(2) An appeal under this regulation shall be made within 28 days, or such longer period as the appropriate Authority may allow, beginning with the date on which the applicant receives notification of the appropriate forestry body's[^c-9ff6b8965c750f57ce0b050fd6926d10] decision under regulation 16.
 
 (3) An appeal shall be made by notice in writing to the appropriate Authority accompanied by, or by copies of—
 
@@ -601,7 +601,7 @@ within a period of time which is reasonable, taking into account the nature and 
 
 (4) On receipt of a notice of appeal duly made, the appropriate Authority shall send a copy of it to the appropriate forestry body who shall, within 28 days beginning with the date of receipt by them of the notice of appeal, supply to the appropriate Authority copies of any representation or information provided to them in relation to the application.
 
-(5) On an appeal under this regulation, the appropriate Authority may allow or dismiss the appeal or vary any part of the appropriate forestry body's[^key-ac30fb4265b2795cb01079138b13e997] decision; and, where its decision is that consent should be granted, may accordingly grant consent either subject only to the conditions required by regulation 18 or also subject to such further conditions as it may determine.
+(5) On an appeal under this regulation, the appropriate Authority may allow or dismiss the appeal or vary any part of the appropriate forestry body's[^c-ac30fb4265b2795cb01079138b13e997] decision; and, where its decision is that consent should be granted, may accordingly grant consent either subject only to the conditions required by regulation 18 or also subject to such further conditions as it may determine.
 
 (6) The appropriate Authority shall determine an appeal within 28 days (or such longer period as it reasonably may require) beginning with the date of receipt of the representations or information supplied in accordance with paragraph (4) above.
 
@@ -613,34 +613,34 @@ within a period of time which is reasonable, taking into account the nature and 
   - (i) the appellant,
   - (ii) the appropriate forestry body, and
   - (iii) any person from whom the appropriate forestry body received representations in relation to the application to which the appeal relates; and
-- (b) publish a notice of the decision in the newspapers in which the decision of the appropriate forestry body to which the appeal relates was published in accordance with regulation 16(5)[^key-942f5d293251660b2d23245810100dfc] which gives details of the place and times at which the public may inspect a statement of—
+- (b) publish a notice of the decision in the newspapers in which the decision of the appropriate forestry body to which the appeal relates was published in accordance with regulation 16(5)[^c-942f5d293251660b2d23245810100dfc] which gives details of the place and times at which the public may inspect a statement of—
   - (i) the content of the appropriate Authority’s decision and any conditions attached thereto;
   - (ii) the main reasons and considerations on which the decision is based; and
   - (iii) a description, where necessary, of the main measures to avoid, reduce and, if possible, offset the major adverse effects of the project.
 
-## 18. Conditions to be included in every consent[^key-a999f88d068b4139322e8d38de595a9e]
+## 18. Conditions to be included in every consent[^c-a999f88d068b4139322e8d38de595a9e]
 
-(1)[^key-b1d1382cc4ae47bcde41865e94bdb39d] Every consent shall include conditions to the effect that—
+(1)[^c-b1d1382cc4ae47bcde41865e94bdb39d] Every consent shall include conditions to the effect that—
 
-- (a) work in relation to the relevant project shall be commenced within such period (not being more than 5 years beginning with the date consent is granted) as is specified in the consent; [^key-65565485b5b21045d11ccfffa6c64811]...
-- (b) no work shall be carried out in relation to the relevant project after the expiration of such period (not being more than 10 years beginning with the date consent is granted) as is specified in the consent ; and[^key-b01e8be59a63abfcde4059a04ef180d8]
-- (c)[^key-6991196d21c690e4e0f391ffb5142a6f] the applicant shall implement procedures to monitor significant adverse effects on the environment.
+- (a) work in relation to the relevant project shall be commenced within such period (not being more than 5 years beginning with the date consent is granted) as is specified in the consent; [^c-65565485b5b21045d11ccfffa6c64811]...
+- (b) no work shall be carried out in relation to the relevant project after the expiration of such period (not being more than 10 years beginning with the date consent is granted) as is specified in the consent ; and[^c-b01e8be59a63abfcde4059a04ef180d8]
+- (c)[^c-6991196d21c690e4e0f391ffb5142a6f] the applicant shall implement procedures to monitor significant adverse effects on the environment.
 
-(2)[^key-ec51659cb0177d896c16cbf8930eab4b] In paragraph (1)(c), the types of parameters to be monitored and the duration of monitoring shall be proportionate to the nature, location and size of the project and the significance of its effects on the environment.
+(2)[^c-ec51659cb0177d896c16cbf8930eab4b] In paragraph (1)(c), the types of parameters to be monitored and the duration of monitoring shall be proportionate to the nature, location and size of the project and the significance of its effects on the environment.
 
-## 19. Application to the court by person aggrieved[^key-f98e31e24ec4ea89ff6e9d6528277bd9]
+## 19. Application to the court by person aggrieved[^c-f98e31e24ec4ea89ff6e9d6528277bd9]
 
 (1) On the application of any person aggrieved by the grant of consent, the court may make an order quashing the consent where it is satisfied that the consent was given contrary to whichever of regulation 15(3) or 17(7) applies in the case or that the interests of the applicant have been substantially prejudiced by a failure to comply with any other requirement of these Regulations.
 
-(2) An application to the court under this regulation shall be made within 6 weeks from the date of publication of the decision in accordance with regulation 16(5)[^key-ccb7da6fa1f16dd625ff7543e9846a21] or 17(8)(b).
+(2) An application to the court under this regulation shall be made within 6 weeks from the date of publication of the decision in accordance with regulation 16(5)[^c-ccb7da6fa1f16dd625ff7543e9846a21] or 17(8)(b).
 
 (3) The court may by interim order, pending the determination of an application under this regulation, stay the operation of the consent of such terms as it may think fit.
 
 (4) In this regulation “the court” means the High Court.
 
-## 20. Enforcement notices[^key-07a3f18e586af896743b7f2f6ac163dc]
+## 20. Enforcement notices[^c-07a3f18e586af896743b7f2f6ac163dc]
 
-(1) Where it appears to the appropriate forestry body[^key-38d976f7aa4d98143032ade8c0385505] that a person is carrying out or has carried out work in relation to a relevant project—
+(1) Where it appears to the appropriate forestry body[^c-38d976f7aa4d98143032ade8c0385505] that a person is carrying out or has carried out work in relation to a relevant project—
 
 - (a) without consent, where consent is required by regulation 4, or
 - (b) in breach of a condition subject to which consent has been granted in relation to that relevant project,
@@ -658,7 +658,7 @@ the appropriate forestry body may serve an enforcement notice on that person.
 
 (4) Either—
 
-- (a) an enforcement notice served by virtue of paragraph (1)(a) above shall include or be accompanied by a written statement of the appropriate forestry body's[^key-251068b9025e69dbc1a40d46ca0711b3] reasons for being of the opinion that the project is a relevant project; or
+- (a) an enforcement notice served by virtue of paragraph (1)(a) above shall include or be accompanied by a written statement of the appropriate forestry body's[^c-251068b9025e69dbc1a40d46ca0711b3] reasons for being of the opinion that the project is a relevant project; or
 - (b) the appropriate forestry body shall serve such a written statement on the person on whom the enforcement notice was served as soon as practicable after serving the enforcement notice.
 
 (5) Either—
@@ -682,7 +682,7 @@ the appropriate forestry body may serve an enforcement notice on that person.
 - (a) in the case of a body corporate, be served on the secretary or clerk of that body at the address of the registered or principal office of that body;
 - (b) in the case of a partnership, be served on a partner or person having the control or management of the partnership business.
 
-## 21. Appeals against enforcement notices[^key-a4cb21224a32ac95af6f86ea89b4dbee]
+## 21. Appeals against enforcement notices[^c-a4cb21224a32ac95af6f86ea89b4dbee]
 
 (1) Any person on whom an enforcement notice has been served in accordance with regulation 20 may appeal to the appropriate Authority.
 
@@ -694,7 +694,7 @@ the appropriate forestry body may serve an enforcement notice on that person.
 - (b) any relevant consent; and
 - (c) any other information or representations which the appellant wishes to provide or make.
 
-(4) On receipt of a notice of appeal duly made, the appropriate Authority shall send a copy of it to the appropriate forestry body[^key-71446865e1d53993e16166e59ba736a7] who shall, within 28 days beginning with the date of receipt by them of the notice of appeal, supply to the appropriate Authority copies of any representation or information provided to them in relation to any relevant consent or application for consent.
+(4) On receipt of a notice of appeal duly made, the appropriate Authority shall send a copy of it to the appropriate forestry body[^c-71446865e1d53993e16166e59ba736a7] who shall, within 28 days beginning with the date of receipt by them of the notice of appeal, supply to the appropriate Authority copies of any representation or information provided to them in relation to any relevant consent or application for consent.
 
 (5) On an appeal under this regulation, the appropriate Authority may, subject to paragraph (9) below, allow or dismiss the appeal or vary any part of the enforcement notice.
 
@@ -711,7 +711,7 @@ the appropriate forestry body may serve an enforcement notice on that person.
 
 (10) The making of an appeal under this regulation shall have the effect of suspending the operation of any requirement in the enforcement notice to which it relates to take measures described in paragraphs (a), (c) or (d) of regulation 20(2) until the appeal is determined by the appropriate Authority or, where the appeal is withdrawn, until withdrawal of the appeal.
 
-## 22. Penalties for non-compliance with enforcement notices[^key-752b4a0d465773e3ca02d4845b85046e]
+## 22. Penalties for non-compliance with enforcement notices[^c-752b4a0d465773e3ca02d4845b85046e]
 
 (1) Any person who carries out work in relation to a relevant project in contravention of a requirement to discontinue that work in an enforcement notice served on him in accordance with regulation 20 shall be guilty of an offence and liable—
 
@@ -727,9 +727,9 @@ the appropriate forestry body may serve an enforcement notice on that person.
 
 he as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
-## 23. Power of entry and default powers[^key-83bfd08dfc9ee918ed0534d50726e387]
+## 23. Power of entry and default powers[^c-83bfd08dfc9ee918ed0534d50726e387]
 
-(1) Subject to paragraph (2) below, any person duly authorised in writing by the appropriate forestry body[^key-53b33fdca652528e64f6e9740b538380] may at any reasonable time enter any land on which he or the Commisioners reasonably suspects [^key-030d4d10e18ac9984b95a1e370df6d3d]... that work in relation to a relevant project is being or has been carried out—
+(1) Subject to paragraph (2) below, any person duly authorised in writing by the appropriate forestry body[^c-53b33fdca652528e64f6e9740b538380] may at any reasonable time enter any land on which he or the Commisioners reasonably suspects [^c-030d4d10e18ac9984b95a1e370df6d3d]... that work in relation to a relevant project is being or has been carried out—
 
 - (a) without consent, where such consent is required under regulation 4, or
 - (b) in breach of a condition subject to which consent has been granted.
@@ -741,14 +741,14 @@ he as well as the body corporate shall be guilty of the offence and shall be lia
 
 (3) A person authorised under paragraphs (1) or (2) above to enter any land shall, if so requested, produce evidence of his authority before so entering.
 
-## 24. Registers of opinions, directions, determinations etc. for public inspection[^key-7cc6f602334ce3d0cb82c76687a59330]
+## 24. Registers of opinions, directions, determinations etc. for public inspection[^c-7cc6f602334ce3d0cb82c76687a59330]
 
-(1) At each of their Conservancy offices in England or Wales[^key-3d28bea5b0544f68c654d44764fac52a], the appropriate forestry body[^key-8d881540f4fcb8e79831cec56817c538] shall keep a register of the following, so far as relating to the area of that Conservancy—
+(1) At each of their Conservancy offices in England or Wales[^c-3d28bea5b0544f68c654d44764fac52a], the appropriate forestry body[^c-8d881540f4fcb8e79831cec56817c538] shall keep a register of the following, so far as relating to the area of that Conservancy—
 
-- (za)[^key-9205eac1fa81ef313afcd5475b2718c0] each assessment under regulation 3A or 3B;
-- (a)[^key-93de35a1ac2a3987a2c138e29ecf3a3f] each determination under regulation 4A or 4B;
+- (za)[^c-9205eac1fa81ef313afcd5475b2718c0] each assessment under regulation 3A or 3B;
+- (a)[^c-93de35a1ac2a3987a2c138e29ecf3a3f] each determination under regulation 4A or 4B;
 - (b) each opinion under regulation 6(1) or (5);
-- (c) each direction received under regulation 7(7) or (8)(a)[^key-119ecb931619fc9fb8f1aba4558a2802];
+- (c) each direction received under regulation 7(7) or (8)(a)[^c-119ecb931619fc9fb8f1aba4558a2802];
 - (d) each opinion under regulation 9(1);
 - (e) each direction received under regulation 9(7);
 - (f) each determination under regulation 15(1);
@@ -758,7 +758,7 @@ he as well as the body corporate shall be guilty of the offence and shall be lia
 
 (2) Each register kept under this regulation shall be available for inspection by the public at all reasonable hours.
 
-## 25. Revocation and transitional provisions[^key-42d5f25a341161c3fdf89d60731b41fe]
+## 25. Revocation and transitional provisions[^c-42d5f25a341161c3fdf89d60731b41fe]
 
 (1) The Environmental Assessment (Forestry) Regulations 1998[^f00016] (in this regulation called “the 1998 Regulations”) are hereby revoked with respect to England and Wales, subject to paragraph (2).
 
@@ -772,7 +772,7 @@ and these Regulations shall not apply to such a matter.
 (3) Where, before the date of coming into force of these Regulations, an application under regulation 4(1) of the 1998 Regulations has been received by the Commissioners in relation to land in England and Wales but the Commissioners have not given their opinion in relation to that application—
 
 - (a) the application shall be treated as an application under regulation 5(1) of these Regulations; and
-- (b) any notification by the Commissioners under regulation 4(3) of the 1998 Regulations shall be treated as a notification under regulation 5(3) of these Regulations (but without prejudice to the appropriate forestry body's[^key-b9e1beb2153607e21a830ed5479b48cc] power to make a further notification under the latter regulation).
+- (b) any notification by the Commissioners under regulation 4(3) of the 1998 Regulations shall be treated as a notification under regulation 5(3) of these Regulations (but without prejudice to the appropriate forestry body's[^c-b9e1beb2153607e21a830ed5479b48cc] power to make a further notification under the latter regulation).
 
 (4) Where, before the date of coming into force of these Regulations, an application under regulation 6(1) of the 1998 Regulations has been received by the Minister[^f00017] in relation to land in England and Wales but a direction has not been given in relation to that application—
 
@@ -782,7 +782,7 @@ and these Regulations shall not apply to such a matter.
 (5) Where, before the date of coming into force of these Regulations, an application under regulation 7 of the 1998 Regulations has been received by the Commissioners in relation to land in England and Wales but the Commissioners have not determined that application—
 
 - (a) the application shall be treated as an application under regulation 10 of these Regulations;
-- (b) any notification by the Commissioners under regulation 8 of the 1998 Regulations shall be treated as a notification under regulation 11 of these Regulations (but without prejudice to the appropriate forestry body's[^key-30125cb72923058eab56d9e66b28d550] power to make a further notification under the latter regulation).
+- (b) any notification by the Commissioners under regulation 8 of the 1998 Regulations shall be treated as a notification under regulation 11 of these Regulations (but without prejudice to the appropriate forestry body's[^c-30125cb72923058eab56d9e66b28d550] power to make a further notification under the latter regulation).
 
 (6) Where, before the date of coming into force of these Regulations, an appeal under regulation 13 of the 1998 Regulations has been received by the Minister in relation to land in England and Wales but that appeal has not been determined, the appeal shall be treated as an appeal under regulation 17 of these Regulations.
 
@@ -800,7 +800,7 @@ the whole of the specified period shall be taken into account for the purposes o
 
 (9) Regulations 4 and 20 to 23 of these Regulations apply in relation to any consent given under the 1998 Regulations (including any conditions to which that consent is subject) as they apply to a consent (including such conditions) given under these Regulations.
 
-## 26. Review: England[^key-7c28ff3b739eb2b3e382df95f860469e]
+## 26. Review: England[^c-7c28ff3b739eb2b3e382df95f860469e]
 
 (1) The Secretary of State, in relation to England, must from time to time—
 
@@ -834,7 +834,7 @@ Parliamentary Under Secretary of State, Welsh Office
 
 9th August 1999
 
-## SCHEDULE 1 — INFORMATION FOR INCLUSION IN ENVIRONMENTAL STATEMENTS[^key-831e9eab90c14529d91f61042b3a6a9e]
+## SCHEDULE 1 — INFORMATION FOR INCLUSION IN ENVIRONMENTAL STATEMENTS[^c-831e9eab90c14529d91f61042b3a6a9e]
 
 Regulation 2(1)
 
@@ -863,13 +863,13 @@ Regulation 2(1)
 - (f) the impact of the project on climate (for example, the nature and magnitude of greenhouse gas emissions) and the vulnerability of the project to climate change;
 - (g) the technologies used.
 
-**6.** The description of the likely significant effects on the factors specified in paragraph 1 of Schedule 4 must cover the direct effects and any indirect, secondary, cumulative, transboundary, short-term, medium-term and long-term, permanent or temporary, positive and negative effects of the project. This description must take into account the environmental protection objectives in[^key-b2c7164c941d46d52048b790bce1cdc5] assimilated[^key-12a77b6ade7f593c7a82f9391569ca71] law or under the law of any part of the United Kingdom which are relevant to the project.
+**6.** The description of the likely significant effects on the factors specified in paragraph 1 of Schedule 4 must cover the direct effects and any indirect, secondary, cumulative, transboundary, short-term, medium-term and long-term, permanent or temporary, positive and negative effects of the project. This description must take into account the environmental protection objectives in[^c-b2c7164c941d46d52048b790bce1cdc5] assimilated[^c-12a77b6ade7f593c7a82f9391569ca71] law or under the law of any part of the United Kingdom which are relevant to the project.
 
 **7.** A description of the forecasting methods or evidence used to identify and assess the significant effects on the environment, including details of difficulties (for example technical deficiencies or lack of knowledge) encountered compiling the required information and the main uncertainties involved.
 
 **8.** A description of the measures envisaged to avoid, prevent, reduce or, if possible, offset any identified significant adverse effects on the environment and, where appropriate, of any proposed monitoring arrangements (for example, the preparation of a post-project analysis). That description must explain the extent to which significant adverse effects on the environment are avoided, prevented, reduced or offset, and must cover both the construction and operational phases.
 
-**9.** A description of the expected significant adverse effects of the project on the environment deriving from the vulnerability of the project to risks of major accidents or disasters which are relevant to the project concerned. Relevant information available and obtained through risk assessments pursuant to assimilated[^key-5bd064013a9a9a8a41e39cec7b15d142][^key-1904fbfc228a148f2f4456770c957bff] law such as any law that implemented Directive 2012/18/EU of the European Parliament and of the Council on the control of major accident hazards involving dangerous substances, amending and subsequently repealing Council Directive 96/82/EC or Council Directive 2009/71/Euratom establishing a Community framework for the nuclear safety of nuclear installations or UK environmental assessments may be used for this purpose provided that the requirements of any law that implemented[^key-0efe678c3e12077794eb0fbda49e4023] the Directive are met. Where appropriate, this description must include measures envisaged to prevent or mitigate the significant adverse effects of such events on the environment and details of the preparedness for and proposed response to such emergencies.
+**9.** A description of the expected significant adverse effects of the project on the environment deriving from the vulnerability of the project to risks of major accidents or disasters which are relevant to the project concerned. Relevant information available and obtained through risk assessments pursuant to assimilated[^c-5bd064013a9a9a8a41e39cec7b15d142][^c-1904fbfc228a148f2f4456770c957bff] law such as any law that implemented Directive 2012/18/EU of the European Parliament and of the Council on the control of major accident hazards involving dangerous substances, amending and subsequently repealing Council Directive 96/82/EC or Council Directive 2009/71/Euratom establishing a Community framework for the nuclear safety of nuclear installations or UK environmental assessments may be used for this purpose provided that the requirements of any law that implemented[^c-0efe678c3e12077794eb0fbda49e4023] the Directive are met. Where appropriate, this description must include measures envisaged to prevent or mitigate the significant adverse effects of such events on the environment and details of the preparedness for and proposed response to such emergencies.
 
 **10.** A non-technical summary of the information provided under paragraphs 1 to 9.
 
@@ -887,37 +887,37 @@ Regulation 2(1)
 
 **5.** A non-technical summary of the information provided under paragraphs 1 to 4.
 
-## SCHEDULE 2 — DESCRIPTIONS OF PROJECTS NOT LIKELY TO HAVE SIGNIFICANT EFFECTS ON THE ENVIRONMENT[^key-41c5ba66a96f43341912320e8c2db2ed][^key-1be75c9d12b073b6eb443683bda39b5b]
+## SCHEDULE 2 — DESCRIPTIONS OF PROJECTS NOT LIKELY TO HAVE SIGNIFICANT EFFECTS ON THE ENVIRONMENT[^c-41c5ba66a96f43341912320e8c2db2ed][^c-1be75c9d12b073b6eb443683bda39b5b]
 
 Regulation 3(3)
 
-### 1. Interpretation[^key-f24679c7062b37f79acc156197b980c1]
+### 1. Interpretation[^c-f24679c7062b37f79acc156197b980c1]
 
 For the purposes of this Schedule,
 
-- “low-risk area” has the meaning given in regulation 3B(7);[^key-d7c617980341d605ddc940e7f3543868]
-- “National Park” and “Area of Outstanding Natural Beauty” have the meanings in paragraphs (c) and (g) respectively in the definition of “sensitive area”[^key-461c5f411b34db476a83ed59fbe988f8];
-- “Ramsar Convention” has the meaning given in section 37A(4) and (5) of the Wildlife and Countryside Act 1981;[^key-9ccdbc7693d9cfb1085b73f4ec4a1582]
+- “low-risk area” has the meaning given in regulation 3B(7);[^c-d7c617980341d605ddc940e7f3543868]
+- “National Park” and “Area of Outstanding Natural Beauty” have the meanings in paragraphs (c) and (g) respectively in the definition of “sensitive area”[^c-461c5f411b34db476a83ed59fbe988f8];
+- “Ramsar Convention” has the meaning given in section 37A(4) and (5) of the Wildlife and Countryside Act 1981;[^c-9ccdbc7693d9cfb1085b73f4ec4a1582]
 - “sensitive area” means—
   - (a) land notified under subsection (1) of section 28 (areas of special scientific interest) of the Wildlife and Countryside Act 1981[^f00018];
-  - (b) [^key-911dc14f722bfbd0c8048f248d6a59f4]...
+  - (b) [^c-911dc14f722bfbd0c8048f248d6a59f4]...
   - (c) a National Park within the meaning of the National Parks and Access to the Countryside Act 1949[^f00019];
   - (d) the Broads[^f00020];
   - (e) a property appearing on the World Heritage List kept under article 11(2) of the 1972 UNESCO Convention for the Protection of the World Cultural and Natural Heritage[^f00021];
-  - (f) a scheduled monument within the meaning of the Ancient Monuments and Archaeological Areas Act 1979[^f00022] or the Historic Environment (Wales) Act 2023 *(Extent: W)*[^key-57c12313743fd301bdf35d13fddeed2c];
-  - (g) an area of outstanding natural beauty designated as such by an order made by the Countryside Agency, as respects England, [^key-d8c541072588d1c4a2679994d9524438]... and duly confirmed, under section 87 (designation of areas of outstanding natural beauty) of the National Parks and Access to Countryside Act 1949[^f00023];
-  - (ga) an area of outstanding natural beauty in Wales designated as such by an order made—[^key-eda5348d53ba47ed8b1a75c51e0255c5]
+  - (f) a scheduled monument within the meaning of the Ancient Monuments and Archaeological Areas Act 1979[^f00022] or the Historic Environment (Wales) Act 2023 *(Extent: W)*[^c-57c12313743fd301bdf35d13fddeed2c];
+  - (g) an area of outstanding natural beauty designated as such by an order made by the Countryside Agency, as respects England, [^c-d8c541072588d1c4a2679994d9524438]... and duly confirmed, under section 87 (designation of areas of outstanding natural beauty) of the National Parks and Access to Countryside Act 1949[^f00023];
+  - (ga) an area of outstanding natural beauty in Wales designated as such by an order made—[^c-eda5348d53ba47ed8b1a75c51e0255c5]
     - under section 87 (designation of areas of outstanding natural beauty) of the National Parks and Access to the Countryside Act 1949; or
     - under section 82 (designation of areas) of the Countryside and Rights of Way Act 2000;
-  - (h) a European site within the meaning of regulation 8 of[^key-fea3a69f773f305fa3927de81068ebe4] the Conservation of Habitats and Species Regulations 2017[^key-ac2b95fe4720b100df300b385d80fa22];
-  - ((i)) any land in Great Britain designated under paragraph 1 of Article 2 of the Ramsar Convention for inclusion in the list of wetlands of international importance referred to in that Article;[^key-bb363991fb78c32ade61890e45de25b3]
+  - (h) a European site within the meaning of regulation 8 of[^c-fea3a69f773f305fa3927de81068ebe4] the Conservation of Habitats and Species Regulations 2017[^c-ac2b95fe4720b100df300b385d80fa22];
+  - ((i)) any land in Great Britain designated under paragraph 1 of Article 2 of the Ramsar Convention for inclusion in the list of wetlands of international importance referred to in that Article;[^c-bb363991fb78c32ade61890e45de25b3]
   - ((j)) land declared to be a national nature reserve under section 35(1) of the Wildlife and Countryside Act 1981;
   - ((k)) any land which is a nature reserve within the meaning given in section 15 of the National Parks and Access to the Countryside Act 1949.
-- [^key-11edf7ffa984f074085eaa56513b119a]...
+- [^c-11edf7ffa984f074085eaa56513b119a]...
 
-### 1A. Descriptions of projects in England not likely to have significant effects on the environment[^key-1f8fd313f2c3c4a71b451f66eacca413][^key-5f796313c8fd55652f1bc17985f7aaff]
+### 1A. Descriptions of projects in England not likely to have significant effects on the environment[^c-1f8fd313f2c3c4a71b451f66eacca413][^c-5f796313c8fd55652f1bc17985f7aaff]
 
-(1) For the purposes of regulation 3(3), and subject to regulations 6(3) and 7(6),[^key-2747a9d87a311ca6c2ab1f9622ea7051] a project in England of a type, description and size specified in columns 1, 2 and 3 of each entry in the Table below, is to be treated as being not likely to have[^key-aa3c589d2e0f6de35b62d25a3fd1a9f6] significant effects on the environment in accordance with column 4 of the appropriate entry.
+(1) For the purposes of regulation 3(3), and subject to regulations 6(3) and 7(6),[^c-2747a9d87a311ca6c2ab1f9622ea7051] a project in England of a type, description and size specified in columns 1, 2 and 3 of each entry in the Table below, is to be treated as being not likely to have[^c-aa3c589d2e0f6de35b62d25a3fd1a9f6] significant effects on the environment in accordance with column 4 of the appropriate entry.
 
 (2) This paragraph applies subject to paragraph 3 of this Schedule.
 
@@ -926,28 +926,28 @@ Table
 | Row | *Column 1*<br>*Type of project* | *Column 2*<br>*Description of land covered, or proposed to be covered, by the project* | *Column 3*<br>*Size of area of land covered, or proposed to be covered, by the project* | *Column 4*<br>*Likelihood of the project having significant effects on the environment* |
 | --- | --- | --- | --- | --- |
 | 1 | Afforestation | The land, or part of the land, is in a sensitive area which is a National Park or an Area of Outstanding Natural Beauty | 2 hectares or less | Unlikely to have significant effects |
-| [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . |
-| [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . |
+| [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . |
+| [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . |
 | 4 | Afforestation | No part of the land is in a sensitive area | 2 hectares or less | Unlikely to have significant effects |
 | 5 | Afforestation | No part of the land is in a sensitive area | More than 2, but no more than 5, hectares | Unlikely to have significant effects, unless written notification is given by the appropriate forestry body pursuant to regulation 3A |
 | 6 | Afforestation | No part of the land is in a sensitive area and the area is a low-risk area | More than 5, but no more than 50, hectares | Unlikely to have significant effects, unless written notification is given by the appropriate forestry body pursuant to regulation 3B |
-| [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . |
-| [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . |
+| [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . |
+| [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . |
 | 9 | Deforestation | The land, or part of the land, is in a sensitive area which is a National Park or an Area of Outstanding Natural Beauty | 0.5 hectares or less | Unlikely to have significant effects |
-| [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . |
-| [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . |
+| [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . |
+| [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . |
 | 12 | Deforestation | No part of the land is in a sensitive area | 1 hectare or less | Unlikely to have significant effects |
-| [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . |
-| [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . |
+| [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . |
+| [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . |
 | 15 | Forest road works | No part of the land is in a sensitive area | 1 hectare or less | Unlikely to have significant effects |
-| [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . |
-| [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . |
+| [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . |
+| [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . |
 | 18 | Forest quarry works | No part of the land is in a sensitive area | 1 hectare or less | Unlikely to have significant effects |
-| [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^key-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . |
+| [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . | [^c-d0dda7f2fb5506c0b0339cb6860c3a9c]. . . |
 
-### 2. Thresholds for identification of projects in Wales not likely to have significant effects on the environment[^key-ff1d16ebd6d506e9ec7c765b8174d306][^key-3f0aef00861306dfe57d8dcdbb6d70b5][^key-85beba8e2d84e4bc3563594fd70ab4b2]
+### 2. Thresholds for identification of projects in Wales not likely to have significant effects on the environment[^c-ff1d16ebd6d506e9ec7c765b8174d306][^c-3f0aef00861306dfe57d8dcdbb6d70b5][^c-85beba8e2d84e4bc3563594fd70ab4b2]
 
-(1)[^key-8c01f43001e581df70a5dec52207e6cb] For the purposes of regulation 3(3), and subject to regulations 6(3) and 7(6), a project in Wales of a type specified in an entry in Column 1 in the Table that is below the threshold (if any) specified in Column 2 or 3 of the Table, whichever is appropriate to the land covered, or proposed to be covered, by that project is to be treated as being not likely to have a significant effect on the environment.
+(1)[^c-8c01f43001e581df70a5dec52207e6cb] For the purposes of regulation 3(3), and subject to regulations 6(3) and 7(6), a project in Wales of a type specified in an entry in Column 1 in the Table that is below the threshold (if any) specified in Column 2 or 3 of the Table, whichever is appropriate to the land covered, or proposed to be covered, by that project is to be treated as being not likely to have a significant effect on the environment.
 
 (2) This paragraph applies subject to paragraph 3 of this Schedule.
 
@@ -968,9 +968,9 @@ Table
 </tbody>
 </table>
 
-### 3. Thresholds for extending projects[^key-75ff3717fd3460150715485ee4d6f072]
+### 3. Thresholds for extending projects[^c-75ff3717fd3460150715485ee4d6f072]
 
-(1)[^key-41a130073d0ed222ef1300a86e5b3ecc] Where the project under consideration is an extending project—
+(1)[^c-41a130073d0ed222ef1300a86e5b3ecc] Where the project under consideration is an extending project—
 
 - (a) the areas specified in Column 3 of the Table in paragraph 1A, and
 - (b) the thresholds specified in Columns 2 and 3 of the Table in paragraph 2,
@@ -992,11 +992,11 @@ shall not apply, and the threshold or areas applicable for that project for the 
     - (A) whose area adjoins the material past project, or one of them; and
     - (B) which satisfies conditions (i) to (iii) in sub-paragraph (b) above.
 
-### 4. Consideration of thresholds in other cases where project adjoins or is near another project[^key-ecb126a0bb4da7e03d8f3b88680ff6cc]
+### 4. Consideration of thresholds in other cases where project adjoins or is near another project[^c-ecb126a0bb4da7e03d8f3b88680ff6cc]
 
 (1) The facts—
 
-- (a) that a project is or would be adjoining or, in the opinion of the appropriate forestry body[^key-c23397fad06859ec174c81ebfa8e099e] or (as the case may be) the appropriate Authority, near another project of any type specified in regulation 3(2), and
+- (a) that a project is or would be adjoining or, in the opinion of the appropriate forestry body[^c-c23397fad06859ec174c81ebfa8e099e] or (as the case may be) the appropriate Authority, near another project of any type specified in regulation 3(2), and
 - (b) that, for any reason, the case in question does not fall within paragraph 3 above,
 
 may be regarded by the appropriate forestry body or Authority as rendering the circumstances of that project exceptional for the purposes of regulation 6(3) or (as the case may be) 7(6).
@@ -1006,7 +1006,7 @@ may be regarded by the appropriate forestry body or Authority as rendering the c
 - (a) shall not affect the application of those regulations in a case which does fall within paragraph 3, and
 - (b) shall not be interpreted as limiting the generality of the references in those regulations to circumstances which are, in the opinion of the appropriate forestry body or (as the case may be) the appropriate Authority, exceptional.
 
-## SCHEDULE 2A — Information to be provided by the proposer for an application for an opinion whether a project is a relevant project[^key-67ee0c39e0123d74e490cf61bb44326c]
+## SCHEDULE 2A — Information to be provided by the proposer for an application for an opinion whether a project is a relevant project[^c-67ee0c39e0123d74e490cf61bb44326c]
 
 Regulation 5(2)(b)
 
@@ -1022,7 +1022,7 @@ Regulation 5(2)(b)
 - (a) the expected residues and emission and the production of waste, where relevant; and
 - (b) the use of natural resources, in particular soil land, water and biodiversity.
 
-## SCHEDULE 3 — Projects having significant effects on the environment: selection criteria[^key-fe341a20f147fb0bae10d6f8179701b4]
+## SCHEDULE 3 — Projects having significant effects on the environment: selection criteria[^c-fe341a20f147fb0bae10d6f8179701b4]
 
 Regulations 5(2A), 6(2), 6(3),6(4A), 7(5) and 7(6)
 
@@ -1067,14 +1067,14 @@ The likely significant effects of the project on the environment must be conside
 - (g) the cumulation of the impact with the impact of other existing or approved projects;
 - (h) the possibility of effectively reducing the impact.
 
-## SCHEDULE 4 — Environmental factors[^key-7dc97ac1481784cee24d1d23b3f3d0b5]
+## SCHEDULE 4 — Environmental factors[^c-7dc97ac1481784cee24d1d23b3f3d0b5]
 
 Regulations 2(1B), 15(3), 17(7)and 21(7) and Schedules 1 and 3
 
 The factors specified are—
 
 - (a) population and human health;
-- (b) biodiversity, with particular attention to species and habitats protected under any law of any part of the United Kingdom that implemented[^key-c860b42c044326c956e609c26f6a21ef] Directive 92/43 and Directive 2009/147;
+- (b) biodiversity, with particular attention to species and habitats protected under any law of any part of the United Kingdom that implemented[^c-c860b42c044326c956e609c26f6a21ef] Directive 92/43 and Directive 2009/147;
 - (c) land, soil, water, air and climate;
 - (d) material assets, cultural heritage and the landscape;
 - (e) the interaction between the factors mentioned in paragraphs (a) to (d); and
@@ -1116,293 +1116,293 @@ A Regulatory Impact Appraisal has been prepared in relation to these Regulations
 
 [^f00004]: Footnote: OJ No. L73, 14.3.97, p.5.
 
-[^key-88378ab262294ca7ebe76fcc1fa26004]: Modification: Regulations: power to amend or revoke conferred (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-88378ab262294ca7ebe76fcc1fa26004]: Modification: Regulations: power to amend or revoke conferred (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-e08536391fc2cd548356304150df5720]: Commencement: Reg. 1 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
+[^c-e08536391fc2cd548356304150df5720]: Commencement: Reg. 1 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
 
-[^key-719de04011a9fe3730954a913b60c97a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/2) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2017/592/regulation/3/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-719de04011a9fe3730954a913b60c97a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/2) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2017/592/regulation/3/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-f202d132b8d2afc27d5a1b8dc42fe268]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/4) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2017/592/regulation/3/3) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-f202d132b8d2afc27d5a1b8dc42fe268]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/4) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2017/592/regulation/3/3) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-68ee8773d726e278c10acd75505462dc]: Commencement: Reg. 2 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
+[^c-68ee8773d726e278c10acd75505462dc]: Commencement: Reg. 2 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
 
-[^key-91bfc843aeabf4ed68240fcd6296b11b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2017/592/regulation/4/2/a) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-91bfc843aeabf4ed68240fcd6296b11b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2017/592/regulation/4/2/a) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-4adf92c34ded400dc8041e6c01d554d2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 99(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/99/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-4adf92c34ded400dc8041e6c01d554d2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 99(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/99/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-3ad8bddd0cb67e5dd277c71806d9f2b8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 99(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/99/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-3ad8bddd0cb67e5dd277c71806d9f2b8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 99(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/99/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-cfa04e196850dbcab65cff13935cabc5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/1) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2017/592/regulation/4/2/b) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-cfa04e196850dbcab65cff13935cabc5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/1) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2017/592/regulation/4/2/b) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
 [^f00009]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
-[^key-8214209214febdfc12fce680b68b02c3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/1) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2017/592/regulation/4/2/c) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-8214209214febdfc12fce680b68b02c3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/1) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2017/592/regulation/4/2/c) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-14e8580da97ad80ec2413ddd690b9dc7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [4(2)(d)](https://www.legislation.gov.uk/uksi/2017/592/regulation/4/2/d) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-14e8580da97ad80ec2413ddd690b9dc7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [4(2)(d)](https://www.legislation.gov.uk/uksi/2017/592/regulation/4/2/d) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-bcc3e2eb64f8f50ee242010471f900c0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/1) omitted (17.9.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/8/2)
+[^c-bcc3e2eb64f8f50ee242010471f900c0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/1) omitted (17.9.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/8/2)
 
-[^key-3617b7f37635206a97a96be73836455c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/1) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [4(2)(e)](https://www.legislation.gov.uk/uksi/2017/592/regulation/4/2/e) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-3617b7f37635206a97a96be73836455c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/1) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [4(2)(e)](https://www.legislation.gov.uk/uksi/2017/592/regulation/4/2/e) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-7e8ff13299bae0f7c2c4a1029c7358ac]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [4(2)(f)](https://www.legislation.gov.uk/uksi/2017/592/regulation/4/2/f) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-7e8ff13299bae0f7c2c4a1029c7358ac]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [4(2)(f)](https://www.legislation.gov.uk/uksi/2017/592/regulation/4/2/f) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-5b29d8a6dc6e9328b35f36f150e40464]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/1) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5b29d8a6dc6e9328b35f36f150e40464]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/1) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-44573532ce3ca5e8d7db2edd7bd2b344]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 3(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/3/a)
+[^c-44573532ce3ca5e8d7db2edd7bd2b344]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 3(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/3/a)
 
-[^key-bc329f36d93e5289389c9920ef725301]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/1) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [4(2)(h)](https://www.legislation.gov.uk/uksi/2017/592/regulation/4/2/h) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-bc329f36d93e5289389c9920ef725301]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/1) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [4(2)(h)](https://www.legislation.gov.uk/uksi/2017/592/regulation/4/2/h) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-59bac28821479998b3522d01513ddae4]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/1A)[(1B)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/1B) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2017/592/regulation/4/3) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-59bac28821479998b3522d01513ddae4]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/1A)[(1B)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/1B) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2017/592/regulation/4/3) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-b5aa762a2adab34419d10dc075c0866f]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 100](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/100) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-b5aa762a2adab34419d10dc075c0866f]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/2/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 100](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/100) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^f00012]: Footnote: [S.I. 1998/1731](https://www.legislation.gov.uk/uksi/1998/1731).
 
-[^key-4ccf3dafab5fc7c9d3e3d3bc6d402b25]: Commencement: Reg. 3 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
+[^c-4ccf3dafab5fc7c9d3e3d3bc6d402b25]: Commencement: Reg. 3 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
 
-[^key-cd095fb69af909949405d1c0726d2133]: Textual amendment: Word in reg. 3(1)(c) omitted (16.5.2017) by virtue of [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2017/592/regulation/5/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-cd095fb69af909949405d1c0726d2133]: Textual amendment: Word in reg. 3(1)(c) omitted (16.5.2017) by virtue of [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2017/592/regulation/5/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-8e2f900fcdd953d280853ed85b200914]: Textual amendment: Words in reg. 3(1)(c)(ii) omitted (16.5.2017) by virtue of [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2017/592/regulation/5/3/a) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-8e2f900fcdd953d280853ed85b200914]: Textual amendment: Words in reg. 3(1)(c)(ii) omitted (16.5.2017) by virtue of [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2017/592/regulation/5/3/a) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-5d98cc2fb634d5b793799d2fafc129dc]: Textual amendment: Words in reg. 3(1)(c)(ii) substituted (E.) (24.8.2011) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2011 (S.I. 2011/1824)](https://www.legislation.gov.uk/uksi/2011/1824), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1824/regulation/1/1), [Sch. 6 para. 8](https://www.legislation.gov.uk/uksi/2011/1824/schedule/6/paragraph/8)
+[^c-5d98cc2fb634d5b793799d2fafc129dc]: Textual amendment: Words in reg. 3(1)(c)(ii) substituted (E.) (24.8.2011) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2011 (S.I. 2011/1824)](https://www.legislation.gov.uk/uksi/2011/1824), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1824/regulation/1/1), [Sch. 6 para. 8](https://www.legislation.gov.uk/uksi/2011/1824/schedule/6/paragraph/8)
 
-[^key-0b027e311540ed759cfec329697a424b]: Textual amendment: Words in reg. 3(1)(c)(ii) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2017/592/regulation/5/3/b) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-0b027e311540ed759cfec329697a424b]: Textual amendment: Words in reg. 3(1)(c)(ii) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2017/592/regulation/5/3/b) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-3533d9fbae344fb1ce9c153abf19c030]: Textual amendment: Reg. 3(1)(c)(iia) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2017/592/regulation/5/4) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-3533d9fbae344fb1ce9c153abf19c030]: Textual amendment: Reg. 3(1)(c)(iia) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2017/592/regulation/5/4) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-bf4c52dbb1284092d8b7c21c677adfcf]: Textual amendment: Reg. 3(1)(c)(iii) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2017/592/regulation/5/5) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-bf4c52dbb1284092d8b7c21c677adfcf]: Textual amendment: Reg. 3(1)(c)(iii) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2017/592/regulation/5/5) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-e36c4069291cbcd03551f0907603c5e1]: Textual amendment: Reg. 3(1)(c)(iv) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2017/592/regulation/5/6) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-e36c4069291cbcd03551f0907603c5e1]: Textual amendment: Reg. 3(1)(c)(iv) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2017/592/regulation/5/6) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-d7e336c1957fbd89ec7f2941786ebfb4]: Textual amendment: Reg. 3(3) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [5(7)](https://www.legislation.gov.uk/uksi/2017/592/regulation/5/7) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-d7e336c1957fbd89ec7f2941786ebfb4]: Textual amendment: Reg. 3(3) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [5(7)](https://www.legislation.gov.uk/uksi/2017/592/regulation/5/7) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-28af1be6e7d9a14fe3780ae2c5b0d5a1]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/3/3) omitted (17.9.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [8(3)(a)](https://www.legislation.gov.uk/uksi/2018/942/regulation/8/3/a)
+[^c-28af1be6e7d9a14fe3780ae2c5b0d5a1]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/3/3) omitted (17.9.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [8(3)(a)](https://www.legislation.gov.uk/uksi/2018/942/regulation/8/3/a)
 
-[^key-32dceb458173431c91872a2365efe7bf]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/3/3) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2018/942/regulation/8/3/b)
+[^c-32dceb458173431c91872a2365efe7bf]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/3/3) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2018/942/regulation/8/3/b)
 
-[^key-6784773e465861a4794d8921f1037ca2]: Textual amendment: Reg. 3(4)(5) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [5(8)](https://www.legislation.gov.uk/uksi/2017/592/regulation/5/8) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-6784773e465861a4794d8921f1037ca2]: Textual amendment: Reg. 3(4)(5) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [5(8)](https://www.legislation.gov.uk/uksi/2017/592/regulation/5/8) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-5ef6e8dc43855da0354ae0c9f94aa3b1]: Textual amendment: [Regs. 3A](https://www.legislation.gov.uk/uksi/1999/2228/regulation/3A), [3B](https://www.legislation.gov.uk/uksi/1999/2228/regulation/3B) inserted (E.) (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2017/592/regulation/6) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/3), [28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-5ef6e8dc43855da0354ae0c9f94aa3b1]: Textual amendment: [Regs. 3A](https://www.legislation.gov.uk/uksi/1999/2228/regulation/3A), [3B](https://www.legislation.gov.uk/uksi/1999/2228/regulation/3B) inserted (E.) (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2017/592/regulation/6) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/3), [28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-11b5e602601fd018e1a602826aadd67a]: Textual amendment: [Reg. 3B(6A)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/3B/6A) inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [8(4)(a)](https://www.legislation.gov.uk/uksi/2018/942/regulation/8/4/a)
+[^c-11b5e602601fd018e1a602826aadd67a]: Textual amendment: [Reg. 3B(6A)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/3B/6A) inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [8(4)(a)](https://www.legislation.gov.uk/uksi/2018/942/regulation/8/4/a)
 
-[^key-028853c9f572580346713bd59193dce2]: Textual amendment: Words in [reg. 3B(7)(d)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/3B/7/d) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-028853c9f572580346713bd59193dce2]: Textual amendment: Words in [reg. 3B(7)(d)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/3B/7/d) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6b0639aed89e5ceaaeb7913a6f6fc77f]: Textual amendment: Words in [reg. 3B(7)(g)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/3B/7/g) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [8(4)(b)](https://www.legislation.gov.uk/uksi/2018/942/regulation/8/4/b)
+[^c-6b0639aed89e5ceaaeb7913a6f6fc77f]: Textual amendment: Words in [reg. 3B(7)(g)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/3B/7/g) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [8(4)(b)](https://www.legislation.gov.uk/uksi/2018/942/regulation/8/4/b)
 
-[^key-2436318862324b50b7d883cf2cf08836]: Textual amendment: Second reg. 3B(9) renumbered as reg. 3B(10) (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2436318862324b50b7d883cf2cf08836]: Textual amendment: Second reg. 3B(9) renumbered as reg. 3B(10) (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d8bfcbc5786d324b1411d5879ce60ec8]: Textual amendment: [Reg. 3B(10)(b)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/3B/10/b) inserted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d8bfcbc5786d324b1411d5879ce60ec8]: Textual amendment: [Reg. 3B(10)(b)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/3B/10/b) inserted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-27bfe4362ad54e8a2905b7d3343e9d9e]: Textual amendment: [Reg. 3B(11)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/3B/11) inserted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(3)(d)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-27bfe4362ad54e8a2905b7d3343e9d9e]: Textual amendment: [Reg. 3B(11)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/3B/11) inserted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(3)(d)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6a180b4e985b6c4bc226680e04323202]: Commencement: Reg. 4 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
+[^c-6a180b4e985b6c4bc226680e04323202]: Commencement: Reg. 4 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
 
-[^key-143eb44fa11692f006800781ec83bf41]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/4/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2017/592/regulation/7/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-143eb44fa11692f006800781ec83bf41]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/4/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2017/592/regulation/7/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-185c8fee78c9ff6476cec7b0e4b317a3]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1999/2228/regulation/4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 101(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/101/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-185c8fee78c9ff6476cec7b0e4b317a3]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1999/2228/regulation/4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 101(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/101/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-7d755730ae89b8dcc9b82babf315eaaa]: Textual amendment: [Reg. 4(2)-(5)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/4/2) omitted (16.5.2017) by virtue of [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2017/592/regulation/7/3) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-7d755730ae89b8dcc9b82babf315eaaa]: Textual amendment: [Reg. 4(2)-(5)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/4/2) omitted (16.5.2017) by virtue of [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2017/592/regulation/7/3) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-6600d8e53018191de50e83ac2befb8a7]: Textual amendment: [Regs. 4A](https://www.legislation.gov.uk/uksi/1999/2228/regulation/4A), [4B](https://www.legislation.gov.uk/uksi/1999/2228/regulation/4B) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2017/592/regulation/8) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-6600d8e53018191de50e83ac2befb8a7]: Textual amendment: [Regs. 4A](https://www.legislation.gov.uk/uksi/1999/2228/regulation/4A), [4B](https://www.legislation.gov.uk/uksi/1999/2228/regulation/4B) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2017/592/regulation/8) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-3803a332e29699d43fecfc72aa1349b1]: Textual amendment: Word in [reg. 4B(1)(d)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/4B/1/d) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3803a332e29699d43fecfc72aa1349b1]: Textual amendment: Word in [reg. 4B(1)(d)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/4B/1/d) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a9ca03268327768b7ae264545eafd990]: Commencement: Reg. 5 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
+[^c-a9ca03268327768b7ae264545eafd990]: Commencement: Reg. 5 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
 
-[^key-99723d60d047be4ac541d0dc03a6a31d]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/1999/2228/regulation/5) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 102(1)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/102/1) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-99723d60d047be4ac541d0dc03a6a31d]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/1999/2228/regulation/5) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 102(1)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/102/1) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-4f53bba75a0a2e7de17bded00f57b14e]: Textual amendment: [Reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/5/2/b)[(c)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/5/2/c) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2017/592/regulation/9/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-4f53bba75a0a2e7de17bded00f57b14e]: Textual amendment: [Reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/5/2/b)[(c)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/5/2/c) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2017/592/regulation/9/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-baac2f61b2cb21b704282e941859c231]: Textual amendment: [Reg. 5(2A)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/5/2A) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2017/592/regulation/9/3) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-baac2f61b2cb21b704282e941859c231]: Textual amendment: [Reg. 5(2A)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/5/2A) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2017/592/regulation/9/3) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-fff05b0a9db91e3a9119408dd7aa1788]: Commencement: Reg. 6 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
+[^c-fff05b0a9db91e3a9119408dd7aa1788]: Commencement: Reg. 6 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
 
-[^key-efa44f490e5c904f671e0b70fffbf9ba]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/1999/2228/regulation/6) heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/uksi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/755/article/1/2), [Sch. 4 para. 102(2)](https://www.legislation.gov.uk/uksi/2013/755/schedule/4/paragraph/102/2) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2013/755/schedule/7))
+[^c-efa44f490e5c904f671e0b70fffbf9ba]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/1999/2228/regulation/6) heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/uksi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/755/article/1/2), [Sch. 4 para. 102(2)](https://www.legislation.gov.uk/uksi/2013/755/schedule/4/paragraph/102/2) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2013/755/schedule/7))
 
-[^key-c7139ca5bd8784f9f729906f08625d3b]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/6/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2017/592/regulation/10/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-c7139ca5bd8784f9f729906f08625d3b]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/6/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2017/592/regulation/10/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-a40adda8d27620bc0d7da3c1f9a800b6]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/6/1A) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2017/592/regulation/10/3) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-a40adda8d27620bc0d7da3c1f9a800b6]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/6/1A) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2017/592/regulation/10/3) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-0838be96deaaf49b8357204a4f596a19]: Textual amendment: [Reg. 6(1B)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/6/1B) inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2018/942/regulation/8/5)
+[^c-0838be96deaaf49b8357204a4f596a19]: Textual amendment: [Reg. 6(1B)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/6/1B) inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2018/942/regulation/8/5)
 
-[^key-81fe4e4376e9c87f981e29ccf6cff7e3]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/1999/2228/regulation/6) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 102(1)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/102/1) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-81fe4e4376e9c87f981e29ccf6cff7e3]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/1999/2228/regulation/6) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 102(1)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/102/1) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-05ac0a84af52e0efac70c76dee846088]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/6/2) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2017/592/regulation/10/4) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-05ac0a84af52e0efac70c76dee846088]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/6/2) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2017/592/regulation/10/4) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-4df80631bf7f2358f41da819491d959c]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/6/3) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [10(5)](https://www.legislation.gov.uk/uksi/2017/592/regulation/10/5) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-4df80631bf7f2358f41da819491d959c]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/6/3) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [10(5)](https://www.legislation.gov.uk/uksi/2017/592/regulation/10/5) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-79391129551cbcae40d9d8abfdd02451]: Textual amendment: [Reg. 6(4A)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/6/4A) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [10(6)](https://www.legislation.gov.uk/uksi/2017/592/regulation/10/6) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-79391129551cbcae40d9d8abfdd02451]: Textual amendment: [Reg. 6(4A)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/6/4A) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [10(6)](https://www.legislation.gov.uk/uksi/2017/592/regulation/10/6) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-a810bdf0ada29339e1505a475ced0f67]: Commencement: Reg. 7 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
+[^c-a810bdf0ada29339e1505a475ced0f67]: Commencement: Reg. 7 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
 
-[^key-3ea65a51d5746f9dfcd61a87e1d73712]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/1999/2228/regulation/7) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 103](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/103) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-3ea65a51d5746f9dfcd61a87e1d73712]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/1999/2228/regulation/7) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 103](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/103) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-cc2387d0e634644877e7b0e7d785b86c]: Textual amendment: [Reg. 7(6)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/7/6) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2017/592/regulation/11) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-cc2387d0e634644877e7b0e7d785b86c]: Textual amendment: [Reg. 7(6)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/7/6) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2017/592/regulation/11) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-007425d6e9c33410d8a1445261f10f15]: Commencement: Reg. 8 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
+[^c-007425d6e9c33410d8a1445261f10f15]: Commencement: Reg. 8 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
 
-[^key-bbcd74cde5d60623c6fda7cdb090acef]: Commencement: Reg. 9 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
+[^c-bbcd74cde5d60623c6fda7cdb090acef]: Commencement: Reg. 9 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
 
-[^key-fc0e0adae3c1ec86bb254580531587fd]: Textual amendment: Words in [regs. 9-15](https://www.legislation.gov.uk/uksi/1999/2228/regulation/9) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 103](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/103) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-fc0e0adae3c1ec86bb254580531587fd]: Textual amendment: Words in [regs. 9-15](https://www.legislation.gov.uk/uksi/1999/2228/regulation/9) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 103](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/103) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-6efebd2a014ae81300ec5d7713f97207]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/9/1) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2017/592/regulation/12/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-6efebd2a014ae81300ec5d7713f97207]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/9/1) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2017/592/regulation/12/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-c983c9c1748e432776cead7b59c81518]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/9/2) omitted (16.5.2017) by virtue of [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [12(3)](https://www.legislation.gov.uk/uksi/2017/592/regulation/12/3) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-c983c9c1748e432776cead7b59c81518]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/9/2) omitted (16.5.2017) by virtue of [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [12(3)](https://www.legislation.gov.uk/uksi/2017/592/regulation/12/3) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-e40a22493d030970814cabaf996b277f]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/1999/2228/regulation/9A) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2017/592/regulation/13) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-e40a22493d030970814cabaf996b277f]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/1999/2228/regulation/9A) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2017/592/regulation/13) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-1b873fea0a399f4854d4907d4bb04e82]: Textual amendment: Words in [reg. 9A(2)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/9A/2) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 11(2)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/11/2)
+[^c-1b873fea0a399f4854d4907d4bb04e82]: Textual amendment: Words in [reg. 9A(2)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/9A/2) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 11(2)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/11/2)
 
-[^key-bf18e794f849de4f0e827cc60c1eb29c]: Commencement: Reg. 10 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
+[^c-bf18e794f849de4f0e827cc60c1eb29c]: Commencement: Reg. 10 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
 
-[^key-d4645af4a17a48c9a031360d21ef5141]: Textual amendment: Words in [reg. 10(1)(d)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/10/1/d) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2017/592/regulation/14) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-d4645af4a17a48c9a031360d21ef5141]: Textual amendment: Words in [reg. 10(1)(d)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/10/1/d) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2017/592/regulation/14) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-58a86326398655b78ffb42d92a9dd1ab]: Commencement: Reg. 11 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
+[^c-58a86326398655b78ffb42d92a9dd1ab]: Commencement: Reg. 11 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
 
-[^key-c587ab48fe0cf206a542c341e0eee240]: Commencement: Reg. 12 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
+[^c-c587ab48fe0cf206a542c341e0eee240]: Commencement: Reg. 12 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
 
-[^key-c8840be9b450fc36939e531d554cae82]: Textual amendment: [Reg. 12(2)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/12/2) substituted (31.12.2006) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2006 (S.I. 2006/3106)](https://www.legislation.gov.uk/uksi/2006/3106), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3106/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2006/3106/regulation/2/4)
+[^c-c8840be9b450fc36939e531d554cae82]: Textual amendment: [Reg. 12(2)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/12/2) substituted (31.12.2006) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2006 (S.I. 2006/3106)](https://www.legislation.gov.uk/uksi/2006/3106), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3106/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2006/3106/regulation/2/4)
 
-[^key-74a18c2d536598ae6bc29d5069629e37]: Commencement: Reg. 13 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
+[^c-74a18c2d536598ae6bc29d5069629e37]: Commencement: Reg. 13 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
 
-[^key-b46c0d7726b770979cb82d17b63f6f8f]: Textual amendment: [Reg. 13(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/13/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [15(2)](https://www.legislation.gov.uk/uksi/2017/592/regulation/15/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-b46c0d7726b770979cb82d17b63f6f8f]: Textual amendment: [Reg. 13(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/13/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [15(2)](https://www.legislation.gov.uk/uksi/2017/592/regulation/15/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-64d9504e52d23b218c3d7bd6b348b3c3]: Textual amendment: [Reg. 13(1A)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/13/1A) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [15(3)](https://www.legislation.gov.uk/uksi/2017/592/regulation/15/3) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-64d9504e52d23b218c3d7bd6b348b3c3]: Textual amendment: [Reg. 13(1A)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/13/1A) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [15(3)](https://www.legislation.gov.uk/uksi/2017/592/regulation/15/3) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-b1b2eaa3f23ed3a999eca0c9b7b65c9d]: Textual amendment: Words in [reg. 13(2)(b)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/13/2/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [15(4)](https://www.legislation.gov.uk/uksi/2017/592/regulation/15/4) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-b1b2eaa3f23ed3a999eca0c9b7b65c9d]: Textual amendment: Words in [reg. 13(2)(b)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/13/2/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [15(4)](https://www.legislation.gov.uk/uksi/2017/592/regulation/15/4) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-81b1a5c66bcee3dfb4c5b221b68140e9]: Textual amendment: [Reg. 13(2)(c)-(e)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/13/2/c) substituted for reg. 13(2)(c)(d) (31.12.2006) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2006 (S.I. 2006/3106)](https://www.legislation.gov.uk/uksi/2006/3106), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3106/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2006/3106/regulation/2/5/c)
+[^c-81b1a5c66bcee3dfb4c5b221b68140e9]: Textual amendment: [Reg. 13(2)(c)-(e)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/13/2/c) substituted for reg. 13(2)(c)(d) (31.12.2006) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2006 (S.I. 2006/3106)](https://www.legislation.gov.uk/uksi/2006/3106), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3106/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2006/3106/regulation/2/5/c)
 
-[^key-29baa843a753d02f9d0ebaf3045ba088]: Textual amendment: Words in [reg. 13(2)(d)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/13/2/d) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [15(4)](https://www.legislation.gov.uk/uksi/2017/592/regulation/15/4) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-29baa843a753d02f9d0ebaf3045ba088]: Textual amendment: Words in [reg. 13(2)(d)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/13/2/d) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [15(4)](https://www.legislation.gov.uk/uksi/2017/592/regulation/15/4) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-49ff9db5bed6ee7d4acce9057334cdc5]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/13/3) omitted (31.12.2006) by virtue of [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2006 (S.I. 2006/3106)](https://www.legislation.gov.uk/uksi/2006/3106), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3106/regulation/1), [2(5)(d)](https://www.legislation.gov.uk/uksi/2006/3106/regulation/2/5/d)
+[^c-49ff9db5bed6ee7d4acce9057334cdc5]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/13/3) omitted (31.12.2006) by virtue of [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2006 (S.I. 2006/3106)](https://www.legislation.gov.uk/uksi/2006/3106), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3106/regulation/1), [2(5)(d)](https://www.legislation.gov.uk/uksi/2006/3106/regulation/2/5/d)
 
-[^key-d9dc6f842221f4bfc19e916665daf670]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/13/3) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [15(4)](https://www.legislation.gov.uk/uksi/2017/592/regulation/15/4) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-d9dc6f842221f4bfc19e916665daf670]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/13/3) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [15(4)](https://www.legislation.gov.uk/uksi/2017/592/regulation/15/4) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-473f16e48b32e9dca9a4d60933457b16]: Commencement: Reg. 14 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
+[^c-473f16e48b32e9dca9a4d60933457b16]: Commencement: Reg. 14 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
 
-[^key-5a52a95bf7fa1bb82ba9d9c7a05dd50b]: Textual amendment: Word in [reg. 14](https://www.legislation.gov.uk/uksi/1999/2228/regulation/14) heading substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5a52a95bf7fa1bb82ba9d9c7a05dd50b]: Textual amendment: Word in [reg. 14](https://www.legislation.gov.uk/uksi/1999/2228/regulation/14) heading substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-822a347716c102dacd640e92b624c121]: Textual amendment: Word in [reg. 14(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/14/1) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-822a347716c102dacd640e92b624c121]: Textual amendment: Word in [reg. 14(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/14/1) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-97def54b1d2cfa4309b1fa99785ffa52]: Textual amendment: Word in [reg. 14(2)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/14/2) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(5)(c)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-97def54b1d2cfa4309b1fa99785ffa52]: Textual amendment: Word in [reg. 14(2)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/14/2) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(5)(c)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-89cda4513234748d4b6ca717f6af606c]: Textual amendment: Word in [reg. 14(3)(a)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/14/3/a) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(5)(d)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/5/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-89cda4513234748d4b6ca717f6af606c]: Textual amendment: Word in [reg. 14(3)(a)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/14/3/a) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(5)(d)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/5/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-de6d5898bb87ea4f544f46f6e6e5e6bc]: Textual amendment: Words in [reg. 14(5)(a)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/14/5/a) inserted (31.12.2006) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2006 (S.I. 2006/3106)](https://www.legislation.gov.uk/uksi/2006/3106), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3106/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2006/3106/regulation/2/6/a)
+[^c-de6d5898bb87ea4f544f46f6e6e5e6bc]: Textual amendment: Words in [reg. 14(5)(a)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/14/5/a) inserted (31.12.2006) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2006 (S.I. 2006/3106)](https://www.legislation.gov.uk/uksi/2006/3106), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3106/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2006/3106/regulation/2/6/a)
 
-[^key-16956eeba8afdc3021cb5faf13a3ebe0]: Textual amendment: Words in [reg. 14(5)(a)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/14/5/a) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(5)(e)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/5/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-16956eeba8afdc3021cb5faf13a3ebe0]: Textual amendment: Words in [reg. 14(5)(a)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/14/5/a) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(5)(e)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/5/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-12418434fa0af5e06cb8a6245a625564]: Textual amendment: Words in [reg. 14(5)(b)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/14/5/b) inserted (31.12.2006) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2006 (S.I. 2006/3106)](https://www.legislation.gov.uk/uksi/2006/3106), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3106/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2006/3106/regulation/2/6/b)
+[^c-12418434fa0af5e06cb8a6245a625564]: Textual amendment: Words in [reg. 14(5)(b)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/14/5/b) inserted (31.12.2006) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2006 (S.I. 2006/3106)](https://www.legislation.gov.uk/uksi/2006/3106), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3106/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2006/3106/regulation/2/6/b)
 
-[^key-4f4d424ed060a46ed01cbf0ca82ed62b]: Textual amendment: Words in [reg. 14(6)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/14/6) omitted (31.12.2020) by virtue of [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(5)(f)(i)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/5/f/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4f4d424ed060a46ed01cbf0ca82ed62b]: Textual amendment: Words in [reg. 14(6)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/14/6) omitted (31.12.2020) by virtue of [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(5)(f)(i)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/5/f/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-03e23467794794d547f7f4e3f273f797]: Textual amendment: Word in [reg. 14(6)(b)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/14/6/b) omitted (31.12.2020) by virtue of [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(5)(f)(ii)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/5/f/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-03e23467794794d547f7f4e3f273f797]: Textual amendment: Word in [reg. 14(6)(b)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/14/6/b) omitted (31.12.2020) by virtue of [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(5)(f)(ii)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/5/f/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-aab775725e40f06c8ae5cab7c9b24255]: Commencement: Reg. 15 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
+[^c-aab775725e40f06c8ae5cab7c9b24255]: Commencement: Reg. 15 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
 
-[^key-8c682a15a82b5d867f8276c0c08eb2cd]: Textual amendment: [Reg. 15(4)-(6)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/15/4) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [16(2)](https://www.legislation.gov.uk/uksi/2017/592/regulation/16/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-8c682a15a82b5d867f8276c0c08eb2cd]: Textual amendment: [Reg. 15(4)-(6)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/15/4) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [16(2)](https://www.legislation.gov.uk/uksi/2017/592/regulation/16/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-a426a5c5f0535d6bc8a4bf828813af3f]: Textual amendment: Reg. 16 substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2017/592/regulation/17) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-a426a5c5f0535d6bc8a4bf828813af3f]: Textual amendment: Reg. 16 substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2017/592/regulation/17) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-ce4506508634c7cf2cce9a4753ae4795]: Commencement: Reg. 17 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
+[^c-ce4506508634c7cf2cce9a4753ae4795]: Commencement: Reg. 17 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
 
-[^key-fcd571d6d838707653319ac574da90a8]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/1999/2228/regulation/17) heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/uksi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/755/article/1/2), [Sch. 4 para. 105(5)](https://www.legislation.gov.uk/uksi/2013/755/schedule/4/paragraph/105/5) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2013/755/schedule/7))
+[^c-fcd571d6d838707653319ac574da90a8]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/1999/2228/regulation/17) heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/uksi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/755/article/1/2), [Sch. 4 para. 105(5)](https://www.legislation.gov.uk/uksi/2013/755/schedule/4/paragraph/105/5) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2013/755/schedule/7))
 
-[^key-b763b3a1d5f3685b32f78053e719ca3c]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/1999/2228/regulation/17) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 105(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/105/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-b763b3a1d5f3685b32f78053e719ca3c]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/1999/2228/regulation/17) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 105(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/105/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-9ff6b8965c750f57ce0b050fd6926d10]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/17/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 105(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/105/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-9ff6b8965c750f57ce0b050fd6926d10]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/17/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 105(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/105/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-ac30fb4265b2795cb01079138b13e997]: Textual amendment: Words in [reg. 17(5)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/17/5) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 105(4)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/105/4) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-ac30fb4265b2795cb01079138b13e997]: Textual amendment: Words in [reg. 17(5)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/17/5) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 105(4)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/105/4) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-942f5d293251660b2d23245810100dfc]: Textual amendment: Words in [reg. 17(8)(b)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/17/8/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2017/592/regulation/18) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-942f5d293251660b2d23245810100dfc]: Textual amendment: Words in [reg. 17(8)(b)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/17/8/b) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2017/592/regulation/18) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-a999f88d068b4139322e8d38de595a9e]: Commencement: Reg. 18 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
+[^c-a999f88d068b4139322e8d38de595a9e]: Commencement: Reg. 18 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
 
-[^key-b1d1382cc4ae47bcde41865e94bdb39d]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/1999/2228/regulation/18) renumbered as reg. 18(1) (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2017/592/regulation/19/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-b1d1382cc4ae47bcde41865e94bdb39d]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/1999/2228/regulation/18) renumbered as reg. 18(1) (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2017/592/regulation/19/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-65565485b5b21045d11ccfffa6c64811]: Textual amendment: Word in [reg. 18(1)(a)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/18/1/a) omitted (16.5.2017) by virtue of [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [19(3)(a)](https://www.legislation.gov.uk/uksi/2017/592/regulation/19/3/a) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-65565485b5b21045d11ccfffa6c64811]: Textual amendment: Word in [reg. 18(1)(a)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/18/1/a) omitted (16.5.2017) by virtue of [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [19(3)(a)](https://www.legislation.gov.uk/uksi/2017/592/regulation/19/3/a) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-b01e8be59a63abfcde4059a04ef180d8]: Textual amendment: Word in [reg. 18(1)(b)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/18/1/b) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [19(3)(b)](https://www.legislation.gov.uk/uksi/2017/592/regulation/19/3/b) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-b01e8be59a63abfcde4059a04ef180d8]: Textual amendment: Word in [reg. 18(1)(b)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/18/1/b) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [19(3)(b)](https://www.legislation.gov.uk/uksi/2017/592/regulation/19/3/b) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-6991196d21c690e4e0f391ffb5142a6f]: Textual amendment: [Reg. 18(1)(c)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/18/1/c) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [19(3)(c)](https://www.legislation.gov.uk/uksi/2017/592/regulation/19/3/c) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-6991196d21c690e4e0f391ffb5142a6f]: Textual amendment: [Reg. 18(1)(c)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/18/1/c) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [19(3)(c)](https://www.legislation.gov.uk/uksi/2017/592/regulation/19/3/c) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-ec51659cb0177d896c16cbf8930eab4b]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/18/2) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [19(4)](https://www.legislation.gov.uk/uksi/2017/592/regulation/19/4) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-ec51659cb0177d896c16cbf8930eab4b]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/18/2) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [19(4)](https://www.legislation.gov.uk/uksi/2017/592/regulation/19/4) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-f98e31e24ec4ea89ff6e9d6528277bd9]: Commencement: Reg. 19 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
+[^c-f98e31e24ec4ea89ff6e9d6528277bd9]: Commencement: Reg. 19 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
 
-[^key-ccb7da6fa1f16dd625ff7543e9846a21]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/19/2) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2017/592/regulation/20) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-ccb7da6fa1f16dd625ff7543e9846a21]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/19/2) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2017/592/regulation/20) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-07a3f18e586af896743b7f2f6ac163dc]: Commencement: Reg. 20 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
+[^c-07a3f18e586af896743b7f2f6ac163dc]: Commencement: Reg. 20 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
 
-[^key-38d976f7aa4d98143032ade8c0385505]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/uksi/1999/2228/regulation/20) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 106(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/106/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-38d976f7aa4d98143032ade8c0385505]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/uksi/1999/2228/regulation/20) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 106(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/106/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-251068b9025e69dbc1a40d46ca0711b3]: Textual amendment: Words in [reg. 20(4)(a)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/20/4/a) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 106(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/106/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-251068b9025e69dbc1a40d46ca0711b3]: Textual amendment: Words in [reg. 20(4)(a)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/20/4/a) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 106(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/106/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-a4cb21224a32ac95af6f86ea89b4dbee]: Commencement: Reg. 21 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
+[^c-a4cb21224a32ac95af6f86ea89b4dbee]: Commencement: Reg. 21 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
 
-[^key-71446865e1d53993e16166e59ba736a7]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/uksi/1999/2228/regulation/21) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 107](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/107) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-71446865e1d53993e16166e59ba736a7]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/uksi/1999/2228/regulation/21) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 107](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/107) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-752b4a0d465773e3ca02d4845b85046e]: Commencement: Reg. 22 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
+[^c-752b4a0d465773e3ca02d4845b85046e]: Commencement: Reg. 22 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
 
-[^key-83bfd08dfc9ee918ed0534d50726e387]: Commencement: Reg. 23 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
+[^c-83bfd08dfc9ee918ed0534d50726e387]: Commencement: Reg. 23 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
 
-[^key-53b33fdca652528e64f6e9740b538380]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/1999/2228/regulation/23) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 107](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/107) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-53b33fdca652528e64f6e9740b538380]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/1999/2228/regulation/23) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 107](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/107) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-030d4d10e18ac9984b95a1e370df6d3d]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/23/1) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 108](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/108) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-030d4d10e18ac9984b95a1e370df6d3d]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/23/1) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 108](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/108) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-7cc6f602334ce3d0cb82c76687a59330]: Commencement: Reg. 24 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
+[^c-7cc6f602334ce3d0cb82c76687a59330]: Commencement: Reg. 24 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
 
-[^key-3d28bea5b0544f68c654d44764fac52a]: Textual amendment: Words in [reg. 24(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/24/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 109(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/109/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-3d28bea5b0544f68c654d44764fac52a]: Textual amendment: Words in [reg. 24(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/24/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 109(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/109/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-8d881540f4fcb8e79831cec56817c538]: Textual amendment: Words in [reg. 24(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/24/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 109(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/109/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-8d881540f4fcb8e79831cec56817c538]: Textual amendment: Words in [reg. 24(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/24/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 109(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/109/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-9205eac1fa81ef313afcd5475b2718c0]: Textual amendment: [Reg. 24(1)(za)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/24/1/za) inserted (E.) (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [21(a)](https://www.legislation.gov.uk/uksi/2017/592/regulation/21/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/3), [28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-9205eac1fa81ef313afcd5475b2718c0]: Textual amendment: [Reg. 24(1)(za)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/24/1/za) inserted (E.) (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [21(a)](https://www.legislation.gov.uk/uksi/2017/592/regulation/21/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/3), [28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-93de35a1ac2a3987a2c138e29ecf3a3f]: Textual amendment: [Reg. 24(1)(a)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/24/1/a) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [21(b)](https://www.legislation.gov.uk/uksi/2017/592/regulation/21/b) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-93de35a1ac2a3987a2c138e29ecf3a3f]: Textual amendment: [Reg. 24(1)(a)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/24/1/a) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [21(b)](https://www.legislation.gov.uk/uksi/2017/592/regulation/21/b) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-119ecb931619fc9fb8f1aba4558a2802]: Textual amendment: Words in [reg. 24(1)(c)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/24/1/c) inserted (31.12.2006) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2006 (S.I. 2006/3106)](https://www.legislation.gov.uk/uksi/2006/3106), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3106/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2006/3106/regulation/2/7)
+[^c-119ecb931619fc9fb8f1aba4558a2802]: Textual amendment: Words in [reg. 24(1)(c)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/24/1/c) inserted (31.12.2006) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2006 (S.I. 2006/3106)](https://www.legislation.gov.uk/uksi/2006/3106), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3106/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2006/3106/regulation/2/7)
 
-[^key-42d5f25a341161c3fdf89d60731b41fe]: Commencement: Reg. 25 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
+[^c-42d5f25a341161c3fdf89d60731b41fe]: Commencement: Reg. 25 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
 
 [^f00016]: Footnote: [S.I. 1998/1731](https://www.legislation.gov.uk/uksi/1998/1731).
 
-[^key-b9e1beb2153607e21a830ed5479b48cc]: Textual amendment: Words in [reg. 25(3)(b)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/25/3/b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 110](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/110) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-b9e1beb2153607e21a830ed5479b48cc]: Textual amendment: Words in [reg. 25(3)(b)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/25/3/b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 110](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/110) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^f00017]: Footnote: Defined by regulation 2(1) of the 1998 Regulations (so far as relevant) as, in relation to England, the Minister of Agriculture, Fisheries and Food and, in relation to Wales, the Secretary of State.
 
-[^key-30125cb72923058eab56d9e66b28d550]: Textual amendment: Words in [reg. 25(5)(b)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/25/5/b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 110](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/110) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-30125cb72923058eab56d9e66b28d550]: Textual amendment: Words in [reg. 25(5)(b)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/25/5/b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 110](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/110) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-7c28ff3b739eb2b3e382df95f860469e]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/uksi/1999/2228/regulation/26) inserted (E.) (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2017/592/regulation/22) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/3), [28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-7c28ff3b739eb2b3e382df95f860469e]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/uksi/1999/2228/regulation/26) inserted (E.) (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2017/592/regulation/22) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/3), [28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-831e9eab90c14529d91f61042b3a6a9e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2228/schedule/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2017/592/regulation/23) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-831e9eab90c14529d91f61042b3a6a9e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2228/schedule/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2017/592/regulation/23) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-b2c7164c941d46d52048b790bce1cdc5]: Textual amendment: Words in [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1999/2228/schedule/1/paragraph/6) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b2c7164c941d46d52048b790bce1cdc5]: Textual amendment: Words in [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1999/2228/schedule/1/paragraph/6) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-12a77b6ade7f593c7a82f9391569ca71]: Textual amendment: Word in [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1999/2228/schedule/1/paragraph/6) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 3(b)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/3/b/i)
+[^c-12a77b6ade7f593c7a82f9391569ca71]: Textual amendment: Word in [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1999/2228/schedule/1/paragraph/6) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 3(b)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/3/b/i)
 
-[^key-5bd064013a9a9a8a41e39cec7b15d142]: Textual amendment: Word in [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1999/2228/schedule/1/paragraph/9) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/3/b/ii)
+[^c-5bd064013a9a9a8a41e39cec7b15d142]: Textual amendment: Word in [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1999/2228/schedule/1/paragraph/9) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/3/b/ii)
 
-[^key-1904fbfc228a148f2f4456770c957bff]: Textual amendment: Words in [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1999/2228/schedule/1/paragraph/9) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(6)(b)(i)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/6/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1904fbfc228a148f2f4456770c957bff]: Textual amendment: Words in [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1999/2228/schedule/1/paragraph/9) substituted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(6)(b)(i)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/6/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0efe678c3e12077794eb0fbda49e4023]: Textual amendment: Words in [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1999/2228/schedule/1/paragraph/9) inserted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/6/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0efe678c3e12077794eb0fbda49e4023]: Textual amendment: Words in [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1999/2228/schedule/1/paragraph/9) inserted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/6/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-41c5ba66a96f43341912320e8c2db2ed]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2) heading substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [24(2)](https://www.legislation.gov.uk/uksi/2017/592/regulation/24/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-41c5ba66a96f43341912320e8c2db2ed]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2) heading substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [24(2)](https://www.legislation.gov.uk/uksi/2017/592/regulation/24/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-1be75c9d12b073b6eb443683bda39b5b]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2) heading substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [8(7)](https://www.legislation.gov.uk/uksi/2018/942/regulation/8/7)
+[^c-1be75c9d12b073b6eb443683bda39b5b]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2) heading substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [8(7)](https://www.legislation.gov.uk/uksi/2018/942/regulation/8/7)
 
-[^key-f24679c7062b37f79acc156197b980c1]: Commencement: Sch. 2 para. 1 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
+[^c-f24679c7062b37f79acc156197b980c1]: Commencement: Sch. 2 para. 1 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
 
-[^key-d7c617980341d605ddc940e7f3543868]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [24(3)(a)](https://www.legislation.gov.uk/uksi/2017/592/regulation/24/3/a) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-d7c617980341d605ddc940e7f3543868]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [24(3)(a)](https://www.legislation.gov.uk/uksi/2017/592/regulation/24/3/a) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-461c5f411b34db476a83ed59fbe988f8]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [24(3)(b)](https://www.legislation.gov.uk/uksi/2017/592/regulation/24/3/b) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-461c5f411b34db476a83ed59fbe988f8]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [24(3)(b)](https://www.legislation.gov.uk/uksi/2017/592/regulation/24/3/b) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-9ccdbc7693d9cfb1085b73f4ec4a1582]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [24(3)(c)](https://www.legislation.gov.uk/uksi/2017/592/regulation/24/3/c) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-9ccdbc7693d9cfb1085b73f4ec4a1582]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [24(3)(c)](https://www.legislation.gov.uk/uksi/2017/592/regulation/24/3/c) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
 [^f00018]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69), amended by the Wildlife and Countryside (Amendment) Act [1985 (c. 31)](https://www.legislation.gov.uk/ukpga/1985/31), the Wildlife and Countryside (Service of Notices) Act [1985 (c. 59)](https://www.legislation.gov.uk/ukpga/1985/59), the Norfolk and Suffolk Broads Act [1988 (c. 4)](https://www.legislation.gov.uk/ukpga/1988/4) and the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11).
 
-[^key-911dc14f722bfbd0c8048f248d6a59f4]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1) omitted (16.5.2017) by virtue of [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [24(3)(d)(i)](https://www.legislation.gov.uk/uksi/2017/592/regulation/24/3/d/i) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-911dc14f722bfbd0c8048f248d6a59f4]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1) omitted (16.5.2017) by virtue of [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [24(3)(d)(i)](https://www.legislation.gov.uk/uksi/2017/592/regulation/24/3/d/i) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
 [^f00019]: Footnote: [1949 c. 97](https://www.legislation.gov.uk/ukpga/1949/97). Relevant amendments were made by the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), Schedule 10, paragraph 2.
 
@@ -1412,52 +1412,52 @@ A Regulatory Impact Appraisal has been prepared in relation to these Regulations
 
 [^f00022]: Footnote: [1979 c. 46](https://www.legislation.gov.uk/ukpga/1979/46). See the definition in section 1(11).
 
-[^key-57c12313743fd301bdf35d13fddeed2c]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1) inserted (W.) (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [24](https://www.legislation.gov.uk/wsi/2024/924/regulation/24)
+[^c-57c12313743fd301bdf35d13fddeed2c]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1) inserted (W.) (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [24](https://www.legislation.gov.uk/wsi/2024/924/regulation/24)
 
-[^key-d8c541072588d1c4a2679994d9524438]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/uksi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/755/article/1/2), [Sch. 4 para. 111(2)(a)](https://www.legislation.gov.uk/uksi/2013/755/schedule/4/paragraph/111/2/a) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2013/755/schedule/7))
+[^c-d8c541072588d1c4a2679994d9524438]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/uksi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/755/article/1/2), [Sch. 4 para. 111(2)(a)](https://www.legislation.gov.uk/uksi/2013/755/schedule/4/paragraph/111/2/a) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2013/755/schedule/7))
 
 [^f00023]: Footnote: [1949 c. 97](https://www.legislation.gov.uk/ukpga/1949/97). Section 87 was amended by paragraph 1(12) of Schedule 8 to the Environmental Protection Act [1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43).
 
-[^key-eda5348d53ba47ed8b1a75c51e0255c5]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/uksi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/755/article/1/2), [Sch. 4 para. 111(2)(b)](https://www.legislation.gov.uk/uksi/2013/755/schedule/4/paragraph/111/2/b) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2013/755/schedule/7))
+[^c-eda5348d53ba47ed8b1a75c51e0255c5]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/uksi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/755/article/1/2), [Sch. 4 para. 111(2)(b)](https://www.legislation.gov.uk/uksi/2013/755/schedule/4/paragraph/111/2/b) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2013/755/schedule/7))
 
-[^key-fea3a69f773f305fa3927de81068ebe4]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [24(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2017/592/regulation/24/3/d/ii) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-fea3a69f773f305fa3927de81068ebe4]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [24(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2017/592/regulation/24/3/d/ii) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-ac2b95fe4720b100df300b385d80fa22]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 11(3)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/11/3)
+[^c-ac2b95fe4720b100df300b385d80fa22]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 11(3)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/11/3)
 
-[^key-bb363991fb78c32ade61890e45de25b3]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [24(3)(d)(iii)](https://www.legislation.gov.uk/uksi/2017/592/regulation/24/3/d/iii) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-bb363991fb78c32ade61890e45de25b3]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [24(3)(d)(iii)](https://www.legislation.gov.uk/uksi/2017/592/regulation/24/3/d/iii) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-11edf7ffa984f074085eaa56513b119a]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1) omitted (16.5.2017) by virtue of [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [24(3)(e)](https://www.legislation.gov.uk/uksi/2017/592/regulation/24/3/e) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-11edf7ffa984f074085eaa56513b119a]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1) omitted (16.5.2017) by virtue of [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [24(3)(e)](https://www.legislation.gov.uk/uksi/2017/592/regulation/24/3/e) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-1f8fd313f2c3c4a71b451f66eacca413]: Textual amendment: [Sch. 2 para. 1A](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1A) inserted (E.) (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [24(4)](https://www.legislation.gov.uk/uksi/2017/592/regulation/24/4) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/3), [28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-1f8fd313f2c3c4a71b451f66eacca413]: Textual amendment: [Sch. 2 para. 1A](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1A) inserted (E.) (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [24(4)](https://www.legislation.gov.uk/uksi/2017/592/regulation/24/4) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/3), [28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-5f796313c8fd55652f1bc17985f7aaff]: Textual amendment: Words in [Sch. 2 para. 1A](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1A) heading substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [8(8)(a)](https://www.legislation.gov.uk/uksi/2018/942/regulation/8/8/a)
+[^c-5f796313c8fd55652f1bc17985f7aaff]: Textual amendment: Words in [Sch. 2 para. 1A](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1A) heading substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [8(8)(a)](https://www.legislation.gov.uk/uksi/2018/942/regulation/8/8/a)
 
-[^key-2747a9d87a311ca6c2ab1f9622ea7051]: Textual amendment: Words in [Sch. 2 para. 1A(1)](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1A/1) inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [8(8)(b)(i)](https://www.legislation.gov.uk/uksi/2018/942/regulation/8/8/b/i)
+[^c-2747a9d87a311ca6c2ab1f9622ea7051]: Textual amendment: Words in [Sch. 2 para. 1A(1)](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1A/1) inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [8(8)(b)(i)](https://www.legislation.gov.uk/uksi/2018/942/regulation/8/8/b/i)
 
-[^key-aa3c589d2e0f6de35b62d25a3fd1a9f6]: Textual amendment: Words in [Sch. 2 para. 1A(1)](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1A/1) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [8(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/942/regulation/8/8/b/ii)
+[^c-aa3c589d2e0f6de35b62d25a3fd1a9f6]: Textual amendment: Words in [Sch. 2 para. 1A(1)](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1A/1) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [8(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/942/regulation/8/8/b/ii)
 
-[^key-d0dda7f2fb5506c0b0339cb6860c3a9c]: Textual amendment: Words in [Sch. 2 para. 1A](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1A) table omitted (17.9.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [8(8)(c)](https://www.legislation.gov.uk/uksi/2018/942/regulation/8/8/c)
+[^c-d0dda7f2fb5506c0b0339cb6860c3a9c]: Textual amendment: Words in [Sch. 2 para. 1A](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/1A) table omitted (17.9.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [8(8)(c)](https://www.legislation.gov.uk/uksi/2018/942/regulation/8/8/c)
 
-[^key-ff1d16ebd6d506e9ec7c765b8174d306]: Commencement: Sch. 2 para. 2 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
+[^c-ff1d16ebd6d506e9ec7c765b8174d306]: Commencement: Sch. 2 para. 2 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
 
-[^key-3f0aef00861306dfe57d8dcdbb6d70b5]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/2) heading inserted (W.) (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [24(5)(a)](https://www.legislation.gov.uk/uksi/2017/592/regulation/24/5/a) (with [regs. 1(4)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/4), [28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-3f0aef00861306dfe57d8dcdbb6d70b5]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/2) heading inserted (W.) (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [24(5)(a)](https://www.legislation.gov.uk/uksi/2017/592/regulation/24/5/a) (with [regs. 1(4)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/4), [28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-85beba8e2d84e4bc3563594fd70ab4b2]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/2) heading substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [8(9)](https://www.legislation.gov.uk/uksi/2018/942/regulation/8/9)
+[^c-85beba8e2d84e4bc3563594fd70ab4b2]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/2) heading substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [8(9)](https://www.legislation.gov.uk/uksi/2018/942/regulation/8/9)
 
-[^key-8c01f43001e581df70a5dec52207e6cb]: Textual amendment: [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/2/1) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [8(10)](https://www.legislation.gov.uk/uksi/2018/942/regulation/8/10)
+[^c-8c01f43001e581df70a5dec52207e6cb]: Textual amendment: [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/2/1) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [8(10)](https://www.legislation.gov.uk/uksi/2018/942/regulation/8/10)
 
-[^key-75ff3717fd3460150715485ee4d6f072]: Commencement: Sch. 2 para. 3 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
+[^c-75ff3717fd3460150715485ee4d6f072]: Commencement: Sch. 2 para. 3 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
 
-[^key-41a130073d0ed222ef1300a86e5b3ecc]: Textual amendment: [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/3/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [24(6)](https://www.legislation.gov.uk/uksi/2017/592/regulation/24/6) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-41a130073d0ed222ef1300a86e5b3ecc]: Textual amendment: [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/3/1) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [24(6)](https://www.legislation.gov.uk/uksi/2017/592/regulation/24/6) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-ecb126a0bb4da7e03d8f3b88680ff6cc]: Commencement: Sch. 2 para. 4 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
+[^c-ecb126a0bb4da7e03d8f3b88680ff6cc]: Commencement: Sch. 2 para. 4 in force at 6.9.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2228/regulation/1/1)
 
-[^key-c23397fad06859ec174c81ebfa8e099e]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 111(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/111/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-c23397fad06859ec174c81ebfa8e099e]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2/paragraph/4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 111(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/111/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-67ee0c39e0123d74e490cf61bb44326c]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2A) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [25](https://www.legislation.gov.uk/uksi/2017/592/regulation/25) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-67ee0c39e0123d74e490cf61bb44326c]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/uksi/1999/2228/schedule/2A) inserted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [25](https://www.legislation.gov.uk/uksi/2017/592/regulation/25) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-fe341a20f147fb0bae10d6f8179701b4]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/1999/2228/schedule/3) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2017/592/regulation/26) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-fe341a20f147fb0bae10d6f8179701b4]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/1999/2228/schedule/3) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2017/592/regulation/26) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-7dc97ac1481784cee24d1d23b3f3d0b5]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/1999/2228/schedule/4) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [27](https://www.legislation.gov.uk/uksi/2017/592/regulation/27) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
+[^c-7dc97ac1481784cee24d1d23b3f3d0b5]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/1999/2228/schedule/4) substituted (16.5.2017) by [The Environmental Impact Assessment (Forestry) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/592)](https://www.legislation.gov.uk/uksi/2017/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/592/regulation/1/1), [27](https://www.legislation.gov.uk/uksi/2017/592/regulation/27) (with [reg. 28](https://www.legislation.gov.uk/uksi/2017/592/regulation/28))
 
-[^key-c860b42c044326c956e609c26f6a21ef]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/1999/2228/schedule/4) inserted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(6)(c)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c860b42c044326c956e609c26f6a21ef]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/1999/2228/schedule/4) inserted (31.12.2020) by [The Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/25)](https://www.legislation.gov.uk/uksi/2019/25), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/25/regulation/1/1), [3(6)(c)](https://www.legislation.gov.uk/uksi/2019/25/regulation/3/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

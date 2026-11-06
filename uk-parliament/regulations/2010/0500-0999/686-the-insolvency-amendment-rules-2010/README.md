@@ -32,7 +32,7 @@ summary: ''
 
 Insolvency
 
-The Insolvency (Amendment) Rules 2010 (revoked)[^key-4c2bb4c4256d9df56ca057c50e13085a]
+The Insolvency (Amendment) Rules 2010 (revoked)[^c-4c2bb4c4256d9df56ca057c50e13085a]
 
 Made
 
@@ -46,7 +46,7 @@ Coming into force
 
 6th April 2010
 
-[^key-4c2bb4c4256d9df56ca057c50e13085a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c2bb4c4256d9df56ca057c50e13085a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
@@ -69,14 +69,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-4c2bb4c4256d9df56ca057c50e13085a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c2bb4c4256d9df56ca057c50e13085a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-4c2bb4c4256d9df56ca057c50e13085a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c2bb4c4256d9df56ca057c50e13085a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4c2bb4c4256d9df56ca057c50e13085a]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2010/686) revoked (6.4.2017) by [The Insolvency (England and Wales) Rules 2016 (S.I. 2016/1024)](https://www.legislation.gov.uk/uksi/2016/1024), [rule 1](https://www.legislation.gov.uk/uksi/2016/1024/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/1024/schedule/1) (with [rule 3(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2))
+[^c-4c2bb4c4256d9df56ca057c50e13085a]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2010/686) revoked (6.4.2017) by [The Insolvency (England and Wales) Rules 2016 (S.I. 2016/1024)](https://www.legislation.gov.uk/uksi/2016/1024), [rule 1](https://www.legislation.gov.uk/uksi/2016/1024/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/1024/schedule/1) (with [rule 3(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2))

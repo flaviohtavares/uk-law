@@ -32,7 +32,7 @@ summary: ''
 
 Property Factors
 
-The Property Factors (Registration) (Scotland) Regulations 2012 (revoked)[^key-c5446f4aefc5d6e14aee207e3ac4b686]
+The Property Factors (Registration) (Scotland) Regulations 2012 (revoked)[^c-c5446f4aefc5d6e14aee207e3ac4b686]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 1st July 2012
 
-[^key-c5446f4aefc5d6e14aee207e3ac4b686]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5446f4aefc5d6e14aee207e3ac4b686]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c5446f4aefc5d6e14aee207e3ac4b686]
+## 1. Citation and commencement[^c-c5446f4aefc5d6e14aee207e3ac4b686]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-c5446f4aefc5d6e14aee207e3ac4b686]
+## 2. Interpretation[^c-c5446f4aefc5d6e14aee207e3ac4b686]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Information to be specified in an application for registration as a property factor[^key-c5446f4aefc5d6e14aee207e3ac4b686]
+## 3. Information to be specified in an application for registration as a property factor[^c-c5446f4aefc5d6e14aee207e3ac4b686]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Application for registration: criminal conviction certificate[^key-c5446f4aefc5d6e14aee207e3ac4b686]
+## 4. Application for registration: criminal conviction certificate[^c-c5446f4aefc5d6e14aee207e3ac4b686]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Fees payable on application for registration as a property factor[^key-c5446f4aefc5d6e14aee207e3ac4b686]
+## 5. Fees payable on application for registration as a property factor[^c-c5446f4aefc5d6e14aee207e3ac4b686]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c5446f4aefc5d6e14aee207e3ac4b686]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5446f4aefc5d6e14aee207e3ac4b686]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c5446f4aefc5d6e14aee207e3ac4b686]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5446f4aefc5d6e14aee207e3ac4b686]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c5446f4aefc5d6e14aee207e3ac4b686]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2012/181) revoked (29.11.2024) by [The Property Factors (Registration) (Scotland) Regulations 2024 (S.S.I. 2024/274)](https://www.legislation.gov.uk/ssi/2024/274), [regs. 1](https://www.legislation.gov.uk/ssi/2024/274/regulation/1), [6(a)](https://www.legislation.gov.uk/ssi/2024/274/regulation/6/a)
+[^c-c5446f4aefc5d6e14aee207e3ac4b686]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2012/181) revoked (29.11.2024) by [The Property Factors (Registration) (Scotland) Regulations 2024 (S.S.I. 2024/274)](https://www.legislation.gov.uk/ssi/2024/274), [regs. 1](https://www.legislation.gov.uk/ssi/2024/274/regulation/1), [6(a)](https://www.legislation.gov.uk/ssi/2024/274/regulation/6/a)

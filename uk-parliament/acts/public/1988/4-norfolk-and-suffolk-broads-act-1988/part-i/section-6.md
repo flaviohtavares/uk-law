@@ -38,7 +38,7 @@ summary: ''
 - (c) regulate or prohibit the lighting of fires; and
 - (d) make provision as to the conditions of use of parking places provided by the Authority and prohibit or restrict persons from plying for hire with vehicles at any such parking places.
 
-(4) Before making, varying or revoking any byelaws under this section, the Authority shall consult Natural England[^key-36b51806a5159f8e870fb1aae379fcb3] .
+(4) Before making, varying or revoking any byelaws under this section, the Authority shall consult Natural England[^c-36b51806a5159f8e870fb1aae379fcb3] .
 
 (5) Subsections (3) to (8) and (11) of section 236, and section 238, of the [^c10506041]Local Government Act 1972 (procedure for making byelaws) shall apply in relation to byelaws made by the Authority under this section as they apply in relation to byelaws made by a local authority; but the Secretary of State may confirm the byelaws with such modifications as he thinks fit.
 
@@ -59,7 +59,7 @@ summary: ''
 
 ## Annotations
 
-[^key-36b51806a5159f8e870fb1aae379fcb3]: Textual amendment: Words in [s. 6(4)](https://www.legislation.gov.uk/ukpga/1988/4/section/6/4) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 112(a)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/112/a); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-36b51806a5159f8e870fb1aae379fcb3]: Textual amendment: Words in [s. 6(4)](https://www.legislation.gov.uk/ukpga/1988/4/section/6/4) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 112(a)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/112/a); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
 [^c10506041]: Marginal citation: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
 

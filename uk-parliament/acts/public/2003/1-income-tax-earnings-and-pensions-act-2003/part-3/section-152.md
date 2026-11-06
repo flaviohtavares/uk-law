@@ -24,10 +24,10 @@ summary: ''
 
 (2) The cash equivalent of the benefit of the fuel is also to be proportionately reduced if ...—
 
-- (a) for any part of the tax year in question,[^key-4f6559dfaae1309d7f56e50ce183d61d] the facility for the provision of fuel as mentioned in section 149(1) is not available,
-- (b) for any part of the tax year in question,[^key-1f4f2ab30dc9ec4edae120b4062e2add] the fuel is made available only for business travel (see section 171(1)), or
-- (c) the employee—[^key-13c2c7f69577db07b56f011f6cc43f84]
-  - (i) for any part of the tax year in question, is required to make good to the person providing the fuel the whole of the expense incurred by that person in connection with the provision of the fuel for the employee’s private use , and[^key-98a3ba033bf09bbdc0f6082d058e532d]
+- (a) for any part of the tax year in question,[^c-4f6559dfaae1309d7f56e50ce183d61d] the facility for the provision of fuel as mentioned in section 149(1) is not available,
+- (b) for any part of the tax year in question,[^c-1f4f2ab30dc9ec4edae120b4062e2add] the fuel is made available only for business travel (see section 171(1)), or
+- (c) the employee—[^c-13c2c7f69577db07b56f011f6cc43f84]
+  - (i) for any part of the tax year in question, is required to make good to the person providing the fuel the whole of the expense incurred by that person in connection with the provision of the fuel for the employee’s private use , and[^c-98a3ba033bf09bbdc0f6082d058e532d]
   - (ii) the employee does make good that expense on or before 6 July following that tax year
 
 (3) The fact that any of the conditions specified in subsection (2) is met for part of a tax year is to be disregarded if there is a time later in that year when none of those conditions is met.
@@ -46,10 +46,10 @@ D is the total number of days in that year on which either the car is unavailabl
 
 ## Annotations
 
-[^key-4f6559dfaae1309d7f56e50ce183d61d]: Textual amendment: Words in [s. 152(2)(a)](https://www.legislation.gov.uk/ukpga/2003/1/section/152/2/a) inserted (with effect in accordance with s. 1(14) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 1(9)(b)](https://www.legislation.gov.uk/ukpga/2017/32/section/1/9/b)
+[^c-4f6559dfaae1309d7f56e50ce183d61d]: Textual amendment: Words in [s. 152(2)(a)](https://www.legislation.gov.uk/ukpga/2003/1/section/152/2/a) inserted (with effect in accordance with s. 1(14) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 1(9)(b)](https://www.legislation.gov.uk/ukpga/2017/32/section/1/9/b)
 
-[^key-1f4f2ab30dc9ec4edae120b4062e2add]: Textual amendment: Words in [s. 152(2)(b)](https://www.legislation.gov.uk/ukpga/2003/1/section/152/2/b) inserted (with effect in accordance with s. 1(14) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 1(9)(c)](https://www.legislation.gov.uk/ukpga/2017/32/section/1/9/c)
+[^c-1f4f2ab30dc9ec4edae120b4062e2add]: Textual amendment: Words in [s. 152(2)(b)](https://www.legislation.gov.uk/ukpga/2003/1/section/152/2/b) inserted (with effect in accordance with s. 1(14) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 1(9)(c)](https://www.legislation.gov.uk/ukpga/2017/32/section/1/9/c)
 
-[^key-13c2c7f69577db07b56f011f6cc43f84]: Textual amendment: [S. 152(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2003/1/section/152/2/c/i) inserted (with effect in accordance with s. 1(14) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 1(9)(d)(i)](https://www.legislation.gov.uk/ukpga/2017/32/section/1/9/d/i)
+[^c-13c2c7f69577db07b56f011f6cc43f84]: Textual amendment: [S. 152(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2003/1/section/152/2/c/i) inserted (with effect in accordance with s. 1(14) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 1(9)(d)(i)](https://www.legislation.gov.uk/ukpga/2017/32/section/1/9/d/i)
 
-[^key-98a3ba033bf09bbdc0f6082d058e532d]: Textual amendment: Words in [s. 152(2)(c)](https://www.legislation.gov.uk/ukpga/2003/1/section/152/2/c) substituted (with effect in accordance with s. 1(14) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 1(9)(d)(ii)](https://www.legislation.gov.uk/ukpga/2017/32/section/1/9/d/ii)
+[^c-98a3ba033bf09bbdc0f6082d058e532d]: Textual amendment: Words in [s. 152(2)(c)](https://www.legislation.gov.uk/ukpga/2003/1/section/152/2/c) substituted (with effect in accordance with s. 1(14) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 1(9)(d)(ii)](https://www.legislation.gov.uk/ukpga/2017/32/section/1/9/d/ii)

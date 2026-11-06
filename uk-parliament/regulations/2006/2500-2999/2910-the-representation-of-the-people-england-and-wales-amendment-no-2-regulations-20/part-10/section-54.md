@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Supply and disclosure of absent voter lists[^key-b151bfc447a7fae4538b5378a788ee21]
+## 54. Supply and disclosure of absent voter lists[^c-b151bfc447a7fae4538b5378a788ee21]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ In regulation 7 after paragraph (5) insert—
 
 ## Annotations
 
-[^key-b151bfc447a7fae4538b5378a788ee21]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2006/2910/regulation/54) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-b151bfc447a7fae4538b5378a788ee21]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2006/2910/regulation/54) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00073]: Footnote: Regulation 118 is inserted by regulation 59 of these Regulations.

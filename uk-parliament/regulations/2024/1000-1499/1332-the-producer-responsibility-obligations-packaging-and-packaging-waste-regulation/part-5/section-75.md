@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Assessment of disposal costs: scheme administrator public information services[^key-0c0e9e898f2a0b942818b66c96396f8d]
+## 75. Assessment of disposal costs: scheme administrator public information services[^c-0c0e9e898f2a0b942818b66c96396f8d]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c0e9e898f2a0b942818b66c96396f8d]: Commencement: Reg. 75 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-0c0e9e898f2a0b942818b66c96396f8d]: Commencement: Reg. 75 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

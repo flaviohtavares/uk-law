@@ -40,25 +40,25 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 109A(2)(*b*) and 165(1), (3) and (5) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and of all other powers enabling it in that behalf, by this statutory rule which contains only regulations made consequential upon Article 14 of the Social Security Administration (Fraud) (Northern Ireland) Order 1997[^f00002], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-9f1421b9f2031e7a53c77b6f4bc3ebe5]
+## 1. Citation, commencement and interpretation[^c-9f1421b9f2031e7a53c77b6f4bc3ebe5]
 
 (1) These Regulations may be cited as the Social Security (Penalty Notice) Regulations (Northern Ireland) 1997 and shall come into operation on 18th December 1997.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
-## 2. Notice[^key-25e4a8bb1f74c0c08d82626091f4500e]
+## 2. Notice[^c-25e4a8bb1f74c0c08d82626091f4500e]
 
-(1) Where the Department[^f00004] or the Housing Executive gives to a person a written notice under section 109A(2) of the Social Security Administration (Northern Ireland) Act 1992 (“the 1992 Act”) in a case to which section 109A(1) of that Act applies[^key-edcccbd50d07816b12733a56276bd0be], the notice shall contain the information that—
+(1) Where the Department[^f00004] or the Housing Executive gives to a person a written notice under section 109A(2) of the Social Security Administration (Northern Ireland) Act 1992 (“the 1992 Act”) in a case to which section 109A(1) of that Act applies[^c-edcccbd50d07816b12733a56276bd0be], the notice shall contain the information that—
 
-- (a) the penalty [^key-8e1ce77423638226084c6d0023ec782f]... applies to an overpayment which is recoverable under section 69, 69ZB, 69A or 73 of the 1992 Act;[^key-16f475ac56bdeed7837e619d724e4a55]
-- (b) the penalty [^key-f34722ea147f6b034c33e994f94f0433]... applies where it appears to the Department or the Housing Executive that the making of the overpayment was attributable to an act or omission by the person and that there are grounds for instituting proceedings for an offence relating to the overpayment;
-- (c) the penalty is 50 per cent. of the amount of the overpayment (subject to the maximum and minimum amounts in section 109A(3) of the 1992 Act)[^key-c89482957e30b7f6ebfb4e195e543c69], is payable in addition to repayment of the overpayment and is recoverable by the same methods as those by which the overpayment is recoverable;
+- (a) the penalty [^c-8e1ce77423638226084c6d0023ec782f]... applies to an overpayment which is recoverable under section 69, 69ZB, 69A or 73 of the 1992 Act;[^c-16f475ac56bdeed7837e619d724e4a55]
+- (b) the penalty [^c-f34722ea147f6b034c33e994f94f0433]... applies where it appears to the Department or the Housing Executive that the making of the overpayment was attributable to an act or omission by the person and that there are grounds for instituting proceedings for an offence relating to the overpayment;
+- (c) the penalty is 50 per cent. of the amount of the overpayment (subject to the maximum and minimum amounts in section 109A(3) of the 1992 Act)[^c-c89482957e30b7f6ebfb4e195e543c69], is payable in addition to repayment of the overpayment and is recoverable by the same methods as those by which the overpayment is recoverable;
 - (d) a person who agrees to pay a penalty may withdraw the agreement within 28 days (including the date of the agreement) by notifying the Department or the Housing Executive in the manner specified by the Department or the Housing Executive; if the person withdraws the agreement, so much of the penalty as has already been recovered shall be repaid and the person will no longer be immune from proceedings for an offence;
 - (e) if it is decided on review or appeal (or in accordance with regulations) that the overpayment is not recoverable or due, so much of the penalty as has already been recovered shall be repaid;
 - (f) if the amount of the overpayment is revised on review or appeal, except as covered by a new agreement to pay the revised penalty, so much of the penalty as has already been recovered shall be repaid and the person will no longer be immune from proceedings for an offence;
 - (g) the payment of a penalty does not give the person immunity from prosecution in relation to any other overpayment or any offence not relating to an overpayment.
 
-(1A)[^key-cedbb456131f8e7eb7d4a580764c2acf] Where the Department or Housing Executive gives to a person written notice under section 109A(2) of the 1992 Act in a case to which section 109A(1A) of that Act applies the notice shall contain the information that—
+(1A)[^c-cedbb456131f8e7eb7d4a580764c2acf] Where the Department or Housing Executive gives to a person written notice under section 109A(2) of the 1992 Act in a case to which section 109A(1A) of that Act applies the notice shall contain the information that—
 
 - (a) the penalty applies where it appears to the Department or the Housing Executive that there are grounds for instituting proceedings against the person for an offence relating to an act or omission on the part of the person in relation to any benefit;
 - (b) if an overpayment attributable to the act or omission had been made, the overpayment would have been recoverable under section 69, 69ZB, 69A or 73 of the 1992 Act;
@@ -67,7 +67,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 - (e) if it is decided on review or appeal (or in accordance with regulations) that any overpayment attributable to the act or omission would not have been recoverable or due, so much of the penalty as has already been recovered shall be repaid;
 - (f) the payment of a penalty does not give the person immunity from prosecution in relation to any overpayment or any other offence not relating to an overpayment.
 
-(2) The notice , in either case,[^key-485efc2d657473da797c1f6310cd6cd7] shall set out—
+(2) The notice , in either case,[^c-485efc2d657473da797c1f6310cd6cd7] shall set out—
 
 - (a) the manner specified by the Department or the Housing Executive by which the person may agree to pay a penalty;
 - (b) the manner specified by the Department or the Housing Executive by which the person may notify the withdrawal of his agreement to pay a penalty.
@@ -92,24 +92,24 @@ These Regulations are made in consequence of Article 14 of the Social Security A
 
 [^f00002]: Footnote: [S.I. 1997/1182 (N.I. 11)](https://www.legislation.gov.uk/nisi/1997/1182)
 
-[^key-9f1421b9f2031e7a53c77b6f4bc3ebe5]: Commencement: Reg. 1 in operation at 18.12.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/514/regulation/1/1)
+[^c-9f1421b9f2031e7a53c77b6f4bc3ebe5]: Commencement: Reg. 1 in operation at 18.12.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/514/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-25e4a8bb1f74c0c08d82626091f4500e]: Commencement: Reg. 2 in operation at 18.12.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/514/regulation/1/1)
+[^c-25e4a8bb1f74c0c08d82626091f4500e]: Commencement: Reg. 2 in operation at 18.12.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/514/regulation/1/1)
 
 [^f00004]: Footnote: “Department” includes Department of the Environment for Northern Ireland *see* paragraph 7 of Schedule 1 to the Social Security Administration (Fraud) (Northern Ireland) Order 1997
 
-[^key-edcccbd50d07816b12733a56276bd0be]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/1997/514/regulation/2/1) inserted (4.4.2016) by [The Social Security (Penalty Notice) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/63)](https://www.legislation.gov.uk/nisr/2016/63), [regs. 1](https://www.legislation.gov.uk/nisr/2016/63/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2016/63/regulation/3/2/a) (with [reg. 2](https://www.legislation.gov.uk/nisr/2016/63/regulation/2))
+[^c-edcccbd50d07816b12733a56276bd0be]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/1997/514/regulation/2/1) inserted (4.4.2016) by [The Social Security (Penalty Notice) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/63)](https://www.legislation.gov.uk/nisr/2016/63), [regs. 1](https://www.legislation.gov.uk/nisr/2016/63/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2016/63/regulation/3/2/a) (with [reg. 2](https://www.legislation.gov.uk/nisr/2016/63/regulation/2))
 
-[^key-8e1ce77423638226084c6d0023ec782f]: Textual amendment: Word in [reg. 2(1)(a)](https://www.legislation.gov.uk/nisr/1997/514/regulation/2/1/a) omitted (4.4.2016) by virtue of [The Social Security (Penalty Notice) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/63)](https://www.legislation.gov.uk/nisr/2016/63), [regs. 1](https://www.legislation.gov.uk/nisr/2016/63/regulation/1), [3(2)(b)(i)](https://www.legislation.gov.uk/nisr/2016/63/regulation/3/2/b/i) (with [reg. 2](https://www.legislation.gov.uk/nisr/2016/63/regulation/2))
+[^c-8e1ce77423638226084c6d0023ec782f]: Textual amendment: Word in [reg. 2(1)(a)](https://www.legislation.gov.uk/nisr/1997/514/regulation/2/1/a) omitted (4.4.2016) by virtue of [The Social Security (Penalty Notice) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/63)](https://www.legislation.gov.uk/nisr/2016/63), [regs. 1](https://www.legislation.gov.uk/nisr/2016/63/regulation/1), [3(2)(b)(i)](https://www.legislation.gov.uk/nisr/2016/63/regulation/3/2/b/i) (with [reg. 2](https://www.legislation.gov.uk/nisr/2016/63/regulation/2))
 
-[^key-16f475ac56bdeed7837e619d724e4a55]: Textual amendment: Words in [reg. 2(1)(a)](https://www.legislation.gov.uk/nisr/1997/514/regulation/2/1/a) substituted (4.4.2016) by [The Social Security (Penalty Notice) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/63)](https://www.legislation.gov.uk/nisr/2016/63), [regs. 1](https://www.legislation.gov.uk/nisr/2016/63/regulation/1), [3(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2016/63/regulation/3/2/b/ii) (with [reg. 2](https://www.legislation.gov.uk/nisr/2016/63/regulation/2))
+[^c-16f475ac56bdeed7837e619d724e4a55]: Textual amendment: Words in [reg. 2(1)(a)](https://www.legislation.gov.uk/nisr/1997/514/regulation/2/1/a) substituted (4.4.2016) by [The Social Security (Penalty Notice) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/63)](https://www.legislation.gov.uk/nisr/2016/63), [regs. 1](https://www.legislation.gov.uk/nisr/2016/63/regulation/1), [3(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2016/63/regulation/3/2/b/ii) (with [reg. 2](https://www.legislation.gov.uk/nisr/2016/63/regulation/2))
 
-[^key-f34722ea147f6b034c33e994f94f0433]: Textual amendment: Word in [reg. 2(1)(b)](https://www.legislation.gov.uk/nisr/1997/514/regulation/2/1/b) omitted (4.4.2016) by virtue of [The Social Security (Penalty Notice) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/63)](https://www.legislation.gov.uk/nisr/2016/63), [regs. 1](https://www.legislation.gov.uk/nisr/2016/63/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/nisr/2016/63/regulation/3/2/c) (with [reg. 2](https://www.legislation.gov.uk/nisr/2016/63/regulation/2))
+[^c-f34722ea147f6b034c33e994f94f0433]: Textual amendment: Word in [reg. 2(1)(b)](https://www.legislation.gov.uk/nisr/1997/514/regulation/2/1/b) omitted (4.4.2016) by virtue of [The Social Security (Penalty Notice) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/63)](https://www.legislation.gov.uk/nisr/2016/63), [regs. 1](https://www.legislation.gov.uk/nisr/2016/63/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/nisr/2016/63/regulation/3/2/c) (with [reg. 2](https://www.legislation.gov.uk/nisr/2016/63/regulation/2))
 
-[^key-c89482957e30b7f6ebfb4e195e543c69]: Textual amendment: Words in [reg. 2(1)(c)](https://www.legislation.gov.uk/nisr/1997/514/regulation/2/1/c) substituted (4.4.2016) by [The Social Security (Penalty Notice) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/63)](https://www.legislation.gov.uk/nisr/2016/63), [regs. 1](https://www.legislation.gov.uk/nisr/2016/63/regulation/1), [3(2)(d)](https://www.legislation.gov.uk/nisr/2016/63/regulation/3/2/d) (with [reg. 2](https://www.legislation.gov.uk/nisr/2016/63/regulation/2))
+[^c-c89482957e30b7f6ebfb4e195e543c69]: Textual amendment: Words in [reg. 2(1)(c)](https://www.legislation.gov.uk/nisr/1997/514/regulation/2/1/c) substituted (4.4.2016) by [The Social Security (Penalty Notice) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/63)](https://www.legislation.gov.uk/nisr/2016/63), [regs. 1](https://www.legislation.gov.uk/nisr/2016/63/regulation/1), [3(2)(d)](https://www.legislation.gov.uk/nisr/2016/63/regulation/3/2/d) (with [reg. 2](https://www.legislation.gov.uk/nisr/2016/63/regulation/2))
 
-[^key-cedbb456131f8e7eb7d4a580764c2acf]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/nisr/1997/514/regulation/2/1A) inserted (4.4.2016) by [The Social Security (Penalty Notice) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/63)](https://www.legislation.gov.uk/nisr/2016/63), [regs. 1](https://www.legislation.gov.uk/nisr/2016/63/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2016/63/regulation/3/3) (with [reg. 2](https://www.legislation.gov.uk/nisr/2016/63/regulation/2))
+[^c-cedbb456131f8e7eb7d4a580764c2acf]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/nisr/1997/514/regulation/2/1A) inserted (4.4.2016) by [The Social Security (Penalty Notice) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/63)](https://www.legislation.gov.uk/nisr/2016/63), [regs. 1](https://www.legislation.gov.uk/nisr/2016/63/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2016/63/regulation/3/3) (with [reg. 2](https://www.legislation.gov.uk/nisr/2016/63/regulation/2))
 
-[^key-485efc2d657473da797c1f6310cd6cd7]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/1997/514/regulation/2/2) inserted (4.4.2016) by [The Social Security (Penalty Notice) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/63)](https://www.legislation.gov.uk/nisr/2016/63), [regs. 1](https://www.legislation.gov.uk/nisr/2016/63/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2016/63/regulation/3/4) (with [reg. 2](https://www.legislation.gov.uk/nisr/2016/63/regulation/2))
+[^c-485efc2d657473da797c1f6310cd6cd7]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/1997/514/regulation/2/2) inserted (4.4.2016) by [The Social Security (Penalty Notice) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/63)](https://www.legislation.gov.uk/nisr/2016/63), [regs. 1](https://www.legislation.gov.uk/nisr/2016/63/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2016/63/regulation/3/4) (with [reg. 2](https://www.legislation.gov.uk/nisr/2016/63/regulation/2))

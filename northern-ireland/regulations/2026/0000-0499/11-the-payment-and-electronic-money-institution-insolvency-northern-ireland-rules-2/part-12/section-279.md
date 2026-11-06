@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 279. Confidentiality of documents — grounds for refusing inspection[^key-88e16eddf716327589c5b30ece262331]
+## 279. Confidentiality of documents — grounds for refusing inspection[^c-88e16eddf716327589c5b30ece262331]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88e16eddf716327589c5b30ece262331]: Commencement: [Rule 279](https://www.legislation.gov.uk/nisr/2026/11/rule/279) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-88e16eddf716327589c5b30ece262331]: Commencement: [Rule 279](https://www.legislation.gov.uk/nisr/2026/11/rule/279) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

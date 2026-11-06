@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Effect of sales information request[^key-dd603e3a371bacf5d7dc21cb66045fac]
+## 95. Effect of sales information request[^c-dd603e3a371bacf5d7dc21cb66045fac]
 
 *Extent: E+W*
 
@@ -74,4 +74,4 @@ must give the person making the request a negative response confirmation.
 
 ## Annotations
 
-[^key-dd603e3a371bacf5d7dc21cb66045fac]: Commencement: S. 95 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-dd603e3a371bacf5d7dc21cb66045fac]: Commencement: S. 95 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

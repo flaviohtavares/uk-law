@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Making funds available to designated persons[^key-f1500eea835e47d4919b3e5cfe0071d1]
+## 13. Making funds available to designated persons[^c-f1500eea835e47d4919b3e5cfe0071d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1500eea835e47d4919b3e5cfe0071d1]: Commencement: Reg. 13 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
+[^c-f1500eea835e47d4919b3e5cfe0071d1]: Commencement: Reg. 13 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 99. Standstill period[^key-2035533c805a6effef130214251e8300]
+## 99. Standstill period[^c-2035533c805a6effef130214251e8300]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2035533c805a6effef130214251e8300]: Commencement: [Reg. 99](https://www.legislation.gov.uk/ssi/2016/49/regulation/99) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-2035533c805a6effef130214251e8300]: Commencement: [Reg. 99](https://www.legislation.gov.uk/ssi/2016/49/regulation/99) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

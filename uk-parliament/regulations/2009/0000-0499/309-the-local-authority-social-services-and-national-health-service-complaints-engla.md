@@ -44,26 +44,26 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2) and (3)
 
-The Secretary of State, in exercise of the powers conferred by sections 113(1), (3) and (4), 114(1), (2) and (5), 115(1), (2), (4) and (5) and 195(1) and (2) of the Health and Social Care (Community Health and Standards) Act 2003[^f00001], makes the following Regulations:[^key-0f22a381129a8a0b75479e534c8c8ef8]
+The Secretary of State, in exercise of the powers conferred by sections 113(1), (3) and (4), 114(1), (2) and (5), 115(1), (2), (4) and (5) and 195(1) and (2) of the Health and Social Care (Community Health and Standards) Act 2003[^f00001], makes the following Regulations:[^c-0f22a381129a8a0b75479e534c8c8ef8]
 
-## 1. Citation, commencement, effect and application[^key-487dff2274915be18209a8f66805ed97]
+## 1. Citation, commencement, effect and application[^c-487dff2274915be18209a8f66805ed97]
 
 (1) These Regulations may be cited as the Local Authority Social Services and National Health Service Complaints (England) Regulations 2009.
 
 (2) These Regulations, except for regulations 2(3) and 11, come into force on 1st April 2009.
 
-(3) Regulations 2(3) and 11 come into force on 1st October 2010[^key-7fd196f1c8d831c4f010bb12d2d3637a].
+(3) Regulations 2(3) and 11 come into force on 1st October 2010[^c-7fd196f1c8d831c4f010bb12d2d3637a].
 
-(4) The following provisions shall cease to have effect on 1st October 2010[^key-949147db59c42f483543a16b3c1d18d1]—
+(4) The following provisions shall cease to have effect on 1st October 2010[^c-949147db59c42f483543a16b3c1d18d1]—
 
 - (a) regulation 2(2); and
 - (b) regulation 10.
 
 (5) These Regulations apply in relation to England.
 
-## 2. Interpretation[^key-b41d05c6db297bd20b9b2562d025185e][^key-332bd1b9484fb4251dae96fe375f0376]
+## 2. Interpretation[^c-b41d05c6db297bd20b9b2562d025185e][^c-332bd1b9484fb4251dae96fe375f0376]
 
-(1)[^key-b41d05c6db297bd20b9b2562d025185e] In these Regulations—
+(1)[^c-b41d05c6db297bd20b9b2562d025185e] In these Regulations—
 
 - “the 1993 Act” means the Health Service Commissioners Act 1993[^f00002];
 - “the 2004 Regulations” means the National Health Service (Complaints) Regulations 2004[^f00003];
@@ -74,7 +74,7 @@ The Secretary of State, in exercise of the powers conferred by sections 113(1), 
 - “adult social care provider” means a person or body who carries on an activity which—
   - (a) involves, or is connected with, the provision of adult social care; and
   - (b) is a regulated activity within the meaning of Part 1 of the Health and Social Care Act 2008;
-- “adult social care services” has the meaning given in paragraph 3(7) of Schedule 3A to the General Medical Services Contracts Regulations;[^key-77cbc0efb915808516274d61afbeb8b4]
+- “adult social care services” has the meaning given in paragraph 3(7) of Schedule 3A to the General Medical Services Contracts Regulations;[^c-77cbc0efb915808516274d61afbeb8b4]
 - “child” means an individual who has not attained the age of 18;
 - “complaints manager” means the person designated in accordance with regulation 4(1)(b);
 - “local authority” means—
@@ -84,30 +84,30 @@ The Secretary of State, in exercise of the powers conferred by sections 113(1), 
   - (d) a London borough council;
   - (e) the Common Council of the City of London; or
   - (f) the Council of the Isles of Scilly;
-- “general dental services contractor” means a person or body who has entered into a general dental services contract with NHS England[^key-75cb347b615a5bf2a6b6e7bda7d011d6] in accordance with section 100 of the 2006 Act;
+- “general dental services contractor” means a person or body who has entered into a general dental services contract with NHS England[^c-75cb347b615a5bf2a6b6e7bda7d011d6] in accordance with section 100 of the 2006 Act;
 - “general medical services contractor” means a person or body who has entered into a general medical services contract with NHS England in accordance with section 84 of the 2006 Act;
 - “the General Medical Services Contracts Regulations” means the National Health Service (General Medical Services Contracts) Regulations 2015;
 - “general ophthalmic services contractor” means a person or body who has entered into a general ophthalmic services contract with NHS England in accordance with section 117 of the 2006 Act;
 - “Health Service Commissioner” means the person appointed Health Service Commissioner for England in accordance with section 1 of, and Schedule 1 to, the 1993 Act;
 - “independent provider” means a person or body who—
   - (a) provides health care in England under arrangements made with an NHS body; and
-  - (b) is not an NHS body , a primary care provider or an integrated care provider[^key-a72ed7e10ff660b303fbd83e9349186e];
+  - (b) is not an NHS body , a primary care provider or an integrated care provider[^c-a72ed7e10ff660b303fbd83e9349186e];
 - “independent sub-contractor” means a person or body, not being an NHS body, who has entered into arrangements with an independent provider for the provision of health care in England on behalf of that provider pursuant to arrangements between that provider and an NHS body;
-- “integrated care provider” means a person or body, other than a person specified in paragraph 3(3) of Schedule 3A to the General Medical Services Contracts Regulations, who is party to an integrated care provider contract with one or more integrated care boards[^key-2141d7f245f764ab189cdba1af64df0a] or NHS England;
+- “integrated care provider” means a person or body, other than a person specified in paragraph 3(3) of Schedule 3A to the General Medical Services Contracts Regulations, who is party to an integrated care provider contract with one or more integrated care boards[^c-2141d7f245f764ab189cdba1af64df0a] or NHS England;
 - “integrated care provider contract” has the meaning given in Schedule 3A to the General Medical Services Contracts Regulations;
 - “integrated care sub-contractor” means a person or body, not being an NHS body, who has entered into arrangements with an integrated care provider for the provision of health care in England on behalf of that provider in performance of an integrated care provider contract with one or more integrated care boards or NHS England;
 - “NHS body”, except in regulation 6(1)(a)(ii), means—
-  - (a) [^key-bc42ece8bbef77a630fae2e799cefda3]...
+  - (a) [^c-bc42ece8bbef77a630fae2e799cefda3]...
   - (b) a Special Health Authority which does not exercise functions only or mainly in Wales and to which section 2 of the 1993 Act applies;
-  - (ba) an integrated care board[^key-d89dd30c9e4a9ebd870b2d77f57b1f0d];
+  - (ba) an integrated care board[^c-d89dd30c9e4a9ebd870b2d77f57b1f0d];
   - (bb) NHS England;
-  - (c) [^key-f6cf4417f57c61959390220a66f9365b]...
+  - (c) [^c-f6cf4417f57c61959390220a66f9365b]...
   - (d) an NHS trust managing a hospital, or other establishment or facility, in England;
   - (e) NHS Direct National Health Service Trust; or
   - (f) an NHS foundation trust;
 - “primary care provider” means a person or body who—
   - (a) is a general medical services contractor;
-  - (b) provides primary medical services in accordance with arrangements made under section 83(2)[^key-66e1708a7def3b2b686f40558749d01a] or 92 of the 2006 Act;
+  - (b) provides primary medical services in accordance with arrangements made under section 83(2)[^c-66e1708a7def3b2b686f40558749d01a] or 92 of the 2006 Act;
   - (c) is a general dental services contractor;
   - (d) provides primary dental services in accordance with arrangements made under section 107 of the 2006 Act;
   - (e) is a general ophthalmic services contractor;
@@ -117,35 +117,35 @@ The Secretary of State, in exercise of the powers conferred by sections 113(1), 
 - “registered person” has the meaning given in regulation 10;
 - “relevant complaints procedure” means—
   - (a) any arrangements for the handling and consideration of complaints that may at any time be or have been required respectively by any of the following provisions—
-    - (i) paragraph 34 of Schedule 4 to the National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013;[^key-41ef794bd20319fd42c6f04303c74ed7]
+    - (i) paragraph 34 of Schedule 4 to the National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013;[^c-41ef794bd20319fd42c6f04303c74ed7]
     - (ia) paragraph 24 of Schedule 5 to the National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013;
     - (iii) paragraph 8 of Schedule 6 to the National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013; or
     - (iv) paragraph 25 of Schedule 7 to the National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013; or
   - (b) any complaints procedure that may at any time be or have been required respectively by any of the following provisions—
-    - (i) regulation 79 of the National Health Service (General Medical Services Contracts) Regulations 2015;[^key-1cec2f21e9bd2522baccf8457a36a950]
+    - (i) regulation 79 of the National Health Service (General Medical Services Contracts) Regulations 2015;[^c-1cec2f21e9bd2522baccf8457a36a950]
     - (ii) regulation 76 of the National Health Service (Personal Medical Services Agreements) Regulations 2015;[^M_F_7736c308-5b93-4ddb-93b7-b6ae772d9da5]
     - (iii) paragraph 47 of Schedule 3 to the National Health Service (General Dental Services Contracts) Regulations 2005[^f00012];
     - (iv) paragraph 47 of Schedule 3 to the National Health Service (Personal Dental Services Agreements) Regulations 2005[^f00013]; or
     - (v) paragraph 22 of Schedule 1 to the General Ophthalmic Services Contracts Regulations 2008[^f00014];
-- “responsible body” means a local authority, NHS body, primary care provider , independent provider, independent sub-contractor, integrated care provider or integrated care sub-contractor[^key-331e144fa53b65b22929c5b6e4a63fc5];
+- “responsible body” means a local authority, NHS body, primary care provider , independent provider, independent sub-contractor, integrated care provider or integrated care sub-contractor[^c-331e144fa53b65b22929c5b6e4a63fc5];
 - “responsible person” means the person designated in accordance with regulation 4(1)(a);
 - “working day” means any day except a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday in England under section 1 of the Banking and Financial Dealings Act 1971[^f00015].
 
-(2)[^key-b41d05c6db297bd20b9b2562d025185e] “Care standards complaint” means a complaint which—
+(2)[^c-b41d05c6db297bd20b9b2562d025185e] “Care standards complaint” means a complaint which—
 
 - (a) relates to services provided by an establishment or agency in respect of which a person is required to be registered under section 11 of the Care Standards Act 2000[^f00016]; and
 - (b) does not relate to the exercise by a local authority of—
   - (i) its social services functions (as defined in section 148 of the Health and Social Care (Community Health and Standards) Act 2003[^f00017]; or
   - (ii) any function discharged by it under arrangements made under section 75 of the 2006 Act.
 
-(3)[^key-332bd1b9484fb4251dae96fe375f0376] “Social care provider complaint” means a complaint which—
+(3)[^c-332bd1b9484fb4251dae96fe375f0376] “Social care provider complaint” means a complaint which—
 
 - (a) relates to action taken by an adult social care provider in connection with the provision of adult social care; and
 - (b) does not relate to the exercise by a local authority of—
   - (i) its social services functions; or
   - (ii) any function discharged by it under arrangements made under section 75 of the 2006 Act.
 
-## 3. Arrangements for the handling and consideration of complaints[^key-de4886c7a518f864870dd508ba773cef]
+## 3. Arrangements for the handling and consideration of complaints[^c-de4886c7a518f864870dd508ba773cef]
 
 (1) Each responsible body must make arrangements (“arrangements for dealing with complaints”) in accordance with these Regulations for the handling and consideration of complaints.
 
@@ -161,7 +161,7 @@ The Secretary of State, in exercise of the powers conferred by sections 113(1), 
 - (f) complainants are told the outcome of the investigation of their complaint; and
 - (g) action is taken if necessary in the light of the outcome of a complaint.
 
-## 4. Responsibility for complaints arrangements[^key-e57df77ed227315ee896ea847b25f13c]
+## 4. Responsibility for complaints arrangements[^c-e57df77ed227315ee896ea847b25f13c]
 
 (1) Each responsible body must designate—
 
@@ -186,7 +186,7 @@ The Secretary of State, in exercise of the powers conferred by sections 113(1), 
 - (b) the same person as the responsible person;
 - (c) a complaints manager designated by another responsible body under paragraph (1)(b).
 
-## 5. Persons who may make complaints[^key-a2ddb2b24b9e6432a6957d0a8e462658]
+## 5. Persons who may make complaints[^c-a2ddb2b24b9e6432a6957d0a8e462658]
 
 (1) A complaint may be made by—
 
@@ -221,7 +221,7 @@ The Secretary of State, in exercise of the powers conferred by sections 113(1), 
 
 (6) In these Regulations any reference to a complainant includes a reference to a representative.
 
-## 6. Duty to handle complaints[^key-0d8f6bb9b7d8cb5f7eed2fb13fe51e54]
+## 6. Duty to handle complaints[^c-0d8f6bb9b7d8cb5f7eed2fb13fe51e54]
 
 (1) This regulation applies to a complaint made on or after 1st April 2009 in accordance with these Regulations to—
 
@@ -231,13 +231,13 @@ The Secretary of State, in exercise of the powers conferred by sections 113(1), 
 - (b) an NHS body about—
   - (i) the exercise of its functions; or
   - (ii) the exercise of any function discharged or to be discharged by it under arrangements made between it and a local authority under section 75 of the 2006 Act in relation to the exercise of the health-related functions of a local authority;
-- (ba)[^key-99ecf520139d841f10d9baf13ef45077] an integrated care board or NHS England about the exercise by it of any functions in accordance with—[^key-fd280e1c7c58af354c7909793609fb8b]
+- (ba)[^c-99ecf520139d841f10d9baf13ef45077] an integrated care board or NHS England about the exercise by it of any functions in accordance with—[^c-fd280e1c7c58af354c7909793609fb8b]
   - (i) arrangements made under section 7A of the 2006 Act;
   - (ii) directions given to it under section 7B of the 2006 Act;
 - (c) a primary care provider about the provision of services by it under arrangements with an NHS body; or
 - (d) an independent provider about the provision of services by it under arrangements with an NHS body.
 
-(1ZA)[^key-325289101b8c065d7c784765f09b3aa2] This regulation also applies, subject to paragraph (1ZB), to a complaint made on or after 1st April 2019 in accordance with these Regulations to—
+(1ZA)[^c-325289101b8c065d7c784765f09b3aa2] This regulation also applies, subject to paragraph (1ZB), to a complaint made on or after 1st April 2019 in accordance with these Regulations to—
 
 - (a) an independent sub-contractor about the provision of services by it on behalf of an independent provider pursuant to arrangements between the provider and an NHS body;
 - (b) an integrated care provider about the provision of services by it under an integrated care provider contract with one or more integrated care boards or NHS England; or
@@ -245,10 +245,10 @@ The Secretary of State, in exercise of the powers conferred by sections 113(1), 
 
 (1ZB) Sub-paragraphs (b) and (c) of paragraph (1ZA) do not apply to a complaint about the provision of adult social care services.
 
-(1A)[^key-c663389d78c19eff9e216cf5c5ba99ea] This regulation also applies to a complaint made on or after 1st September 2009 in accordance with these Regulations to a local authority where—
+(1A)[^c-c663389d78c19eff9e216cf5c5ba99ea] This regulation also applies to a complaint made on or after 1st September 2009 in accordance with these Regulations to a local authority where—
 
 - (a) the local authority has made arrangements with a person for the discharge of a relevant function; and
-- (b)[^key-8e75877daca38c6a78194e6561409173] the complaint relates to the provision of services pursuant to those arrangements.
+- (b)[^c-8e75877daca38c6a78194e6561409173] the complaint relates to the provision of services pursuant to those arrangements.
 
 (1B) In paragraph (1A), “relevant function” means—
 
@@ -269,49 +269,49 @@ The Secretary of State, in exercise of the powers conferred by sections 113(1), 
 
 (6) Where paragraph (5) applies, the complainant is deemed to have made the complaint to the second body under these Regulations.
 
-## 7. Complaints about the provision of health services[^key-b09e964fe5f2f63dca068d197bea7f39]
+## 7. Complaints about the provision of health services[^c-b09e964fe5f2f63dca068d197bea7f39]
 
 (1) This regulation applies to a complaint which is—
 
-- (a) made to an integrated care board[^key-9c0d09b0a93474f79f77637bf012ec50] or NHS England in accordance with these Regulations on or after 1st April 2013[^key-32ec805ecce092b59b50fcea46f7f9be];
-- (b) about the services provided by a provider under arrangements with the integrated care board[^key-d5031b114d8b0ecc442b3604dbe9926c][^key-3e3c06d424eb2182254cd29cfdcf48ef] or NHS England[^key-b119f655489136da44f94cf5b6f37d0e]; and
+- (a) made to an integrated care board[^c-9c0d09b0a93474f79f77637bf012ec50] or NHS England in accordance with these Regulations on or after 1st April 2013[^c-32ec805ecce092b59b50fcea46f7f9be];
+- (b) about the services provided by a provider under arrangements with the integrated care board[^c-d5031b114d8b0ecc442b3604dbe9926c][^c-3e3c06d424eb2182254cd29cfdcf48ef] or NHS England[^c-b119f655489136da44f94cf5b6f37d0e]; and
 - (c) not specified in regulation 8(1).
 
-(1A)[^key-f2a3db2f05550c215199b466068f3330] This regulation also applies to a complaint which is—
+(1A)[^c-f2a3db2f05550c215199b466068f3330] This regulation also applies to a complaint which is—
 
 - (a) made to an integrated care board or NHS England in accordance with these Regulations on or after 1st April 2019;
 - (b) subject to paragraph (1B), about the services provided by—
-  - (i) an independent sub-contractor on behalf of an independent provider pursuant to arrangements between that provider and the integrated care board[^key-320bfb8c37e6713169b49a63302cbdc7] or NHS England[^key-e78d295d40d6822e6d17650c0126f210];
-  - (ii) an integrated care provider under an integrated care provider contract with the integrated care board[^key-114f1eb807ca41119d203247f793c18b] or NHS England; or
-  - (iii) an integrated care sub-contractor on behalf of an integrated care provider in so far as those services are provided in performance of an integrated care provider contract with the integrated care board[^key-9f475598e4e1a94d52c9e0b01daa5ecc] or NHS England; and
+  - (i) an independent sub-contractor on behalf of an independent provider pursuant to arrangements between that provider and the integrated care board[^c-320bfb8c37e6713169b49a63302cbdc7] or NHS England[^c-e78d295d40d6822e6d17650c0126f210];
+  - (ii) an integrated care provider under an integrated care provider contract with the integrated care board[^c-114f1eb807ca41119d203247f793c18b] or NHS England; or
+  - (iii) an integrated care sub-contractor on behalf of an integrated care provider in so far as those services are provided in performance of an integrated care provider contract with the integrated care board[^c-9f475598e4e1a94d52c9e0b01daa5ecc] or NHS England; and
 - (c) not specified in regulation 8(1).
 
 (1B) paragraphs (ii) and (iii) of sub-paragraph (b) of paragraph (1A) do not apply to a complaint about adult social care services.
 
-(2) In this regulation , except in paragraph (1A)[^key-4acfa056d88e9cb7dbb593dfae3ac855], “provider” means an NHS body, primary care provider or independent provider.
+(2) In this regulation , except in paragraph (1A)[^c-4acfa056d88e9cb7dbb593dfae3ac855], “provider” means an NHS body, primary care provider or independent provider.
 
-(3) Where an integrated care board[^key-78696afe6747b95429bf56bc710db84e] or NHS England receives a complaint to which this regulation applies—
+(3) Where an integrated care board[^c-78696afe6747b95429bf56bc710db84e] or NHS England receives a complaint to which this regulation applies—
 
-- (a) the integrated care board[^key-b1f62688491ffee7655cae8c96096dc3][^key-e8884c030780dee1ca5b5970c831537c] or NHS England[^key-fd94a4955bf11c11df95eff928b4110c] must ask the complainant whether the complainant consents to details of the complaint being sent to the provider or other responsible body to which the complaint relates[^key-2a74fd36ff5da14a41f8e51da7d71daa]; and
-- (b) if the complainant so consents, the integrated care board[^key-0332244db2779f55c170adfd0b9658ef][^key-95563e5166d245aab06b17663d2fd780] or NHS England[^key-96da152a65e5a6153897ab90ae4d20d2] must as soon as reasonably practicable send details of the complaint to the provider or other responsible body to which the complaint relates.
+- (a) the integrated care board[^c-b1f62688491ffee7655cae8c96096dc3][^c-e8884c030780dee1ca5b5970c831537c] or NHS England[^c-fd94a4955bf11c11df95eff928b4110c] must ask the complainant whether the complainant consents to details of the complaint being sent to the provider or other responsible body to which the complaint relates[^c-2a74fd36ff5da14a41f8e51da7d71daa]; and
+- (b) if the complainant so consents, the integrated care board[^c-0332244db2779f55c170adfd0b9658ef][^c-95563e5166d245aab06b17663d2fd780] or NHS England[^c-96da152a65e5a6153897ab90ae4d20d2] must as soon as reasonably practicable send details of the complaint to the provider or other responsible body to which the complaint relates.
 
-(4) If the integrated care board[^key-8676dc90ba663036620517c2c6392aba] or NHS England considers that it is appropriate for the integrated care board[^key-e94b384b834f964fc3abb9e4c086543f] or[^key-73783a7c9c1c750c2823c90be813a5e6] NHS England[^key-3a44da0f0c7e6c252485f523c3020eef] to deal with the complaint—
+(4) If the integrated care board[^c-8676dc90ba663036620517c2c6392aba] or NHS England considers that it is appropriate for the integrated care board[^c-e94b384b834f964fc3abb9e4c086543f] or[^c-73783a7c9c1c750c2823c90be813a5e6] NHS England[^c-3a44da0f0c7e6c252485f523c3020eef] to deal with the complaint—
 
 - (a) it must so notify the complainant and the provider or other responsible body to which the complaint relates; and
 - (b) it must continue to handle the complaint in accordance with these Regulations.
 
-(5) If the integrated care board[^key-636d3fa286a521f501b5c85faf7f6856] or NHS England considers that it is more appropriate for the complaint to be dealt with by the provider or other responsible body to which the complaint relates, and the complainant consents—
+(5) If the integrated care board[^c-636d3fa286a521f501b5c85faf7f6856] or NHS England considers that it is more appropriate for the complaint to be dealt with by the provider or other responsible body to which the complaint relates, and the complainant consents—
 
-- (a) the integrated care board[^key-34beb3e4a702d99b861db1f46b64bf80][^key-9ff77a76945a6331ebf03fb3f67b5909] or NHS England[^key-92b9fd82afebbc76ec0839aa5c40e1ae] must so notify the complainant and the provider or other responsible body to which the complaint relates;
+- (a) the integrated care board[^c-34beb3e4a702d99b861db1f46b64bf80][^c-9ff77a76945a6331ebf03fb3f67b5909] or NHS England[^c-92b9fd82afebbc76ec0839aa5c40e1ae] must so notify the complainant and the provider or other responsible body to which the complaint relates;
 - (b) when the provider or other responsible body to which the complaint relates receives the notification given to it under sub-paragraph (a)—
   - (i) the provider or other responsible body to which the complaint relates must handle the complaint in accordance with these Regulations; and
   - (ii) the complainant is deemed to have made the complaint to the provider or other responsible body to which the complaint relates under these Regulations.
 
-(6)[^key-9a72f4e7f881257a1c87f4bd26c8e110] For the purposes of paragraphs (3) to (5), a complaint relates to a responsible body if it relates to the provision of services by that body as referred to in paragraph (1A)(b).
+(6)[^c-9a72f4e7f881257a1c87f4bd26c8e110] For the purposes of paragraphs (3) to (5), a complaint relates to a responsible body if it relates to the provision of services by that body as referred to in paragraph (1A)(b).
 
-## 8. Complaints not required to be dealt with[^key-7ab580b4f316436f6c3bfe754f6008dc]
+## 8. Complaints not required to be dealt with[^c-7ab580b4f316436f6c3bfe754f6008dc]
 
-(1) [^key-1146ca3718a77201c4caebc4a7d5f4e6]... The following complaints are not required to be dealt with in accordance with these Regulations—
+(1) [^c-1146ca3718a77201c4caebc4a7d5f4e6]... The following complaints are not required to be dealt with in accordance with these Regulations—
 
 - (a) a complaint by a responsible body;
 - (b) a complaint by an employee of a local authority or NHS body about any matter relating to that employment;
@@ -330,13 +330,13 @@ The Secretary of State, in exercise of the powers conferred by sections 113(1), 
 - (g) a complaint arising out of the alleged failure by a responsible body to comply with a request for information under the Freedom of Information Act 2000[^f00020]; and
 - (h) a complaint which relates to any scheme established under section 10 (superannuation of persons engaged in health services, etc.) or section 24 (compensation for loss of office, etc.) of the Superannuation Act 1972[^f00021], or to the administration of those schemes.
 
-(2)[^key-a9b938b35009a3e9ef78dfd3c4ab850a] Subject to paragraph (2A), where a complaint is a complaint specified in paragraph (1), and a responsible body makes a decision to that effect, the responsible body must as soon as reasonably practicable notify the complainant in writing of its decision and the reason for its decision.
+(2)[^c-a9b938b35009a3e9ef78dfd3c4ab850a] Subject to paragraph (2A), where a complaint is a complaint specified in paragraph (1), and a responsible body makes a decision to that effect, the responsible body must as soon as reasonably practicable notify the complainant in writing of its decision and the reason for its decision.
 
 (2A) Paragraph (2) does not apply to a complaint specified in sub-paragraph (c) of paragraph (1).
 
 (3) Where a complaint specified in paragraph (1) is part of, or is connected with, another complaint which is not so specified, nothing in this regulation prevents that other complaint being handled in accordance with these Regulations.
 
-## 9. Duty to co-operate[^key-daaac7f65412da317368e43d4a029b86]
+## 9. Duty to co-operate[^c-daaac7f65412da317368e43d4a029b86]
 
 (1) This regulation applies where—
 
@@ -356,7 +356,7 @@ The Secretary of State, in exercise of the powers conferred by sections 113(1), 
 - (b) to provide to the other body information relevant to the consideration of the complaint which is reasonably requested by the other body; and
 - (c) to attend, or ensure it is represented at, any meeting reasonably required in connection with the consideration of the complaint.
 
-## 10. Care standards complaints[^key-6949639082a21a204fec50cfb0cf594a]
+## 10. Care standards complaints[^c-6949639082a21a204fec50cfb0cf594a]
 
 (1) This regulation applies where it appears to a local authority considering a complaint that the complaint is wholly or in part a care standards complaint.
 
@@ -372,7 +372,7 @@ The Secretary of State, in exercise of the powers conferred by sections 113(1), 
 
 (4) In this regulation, “registered person” means the person registered under section 11 of the Care Standards Act 2000 in respect of the establishment or agency complained about.
 
-## 11. Social care provider complaints[^key-32b2fd921e088b6524aa949d6095aeff]
+## 11. Social care provider complaints[^c-32b2fd921e088b6524aa949d6095aeff]
 
 (1) This regulation applies where it appears to a local authority considering a complaint that the complaint is wholly or in part a social care provider complaint.
 
@@ -388,7 +388,7 @@ The Secretary of State, in exercise of the powers conferred by sections 113(1), 
 
 (4) In this regulation, “relevant adult social care provider” means the adult social care provider in relation to whom the social care provider complaint was made.
 
-## 12. Time limit for making a complaint[^key-67ef6a1616b66da9c446b7a96736f2df]
+## 12. Time limit for making a complaint[^c-67ef6a1616b66da9c446b7a96736f2df]
 
 (1) Except as mentioned in paragraph (2), a complaint must be made not later than 12 months after—
 
@@ -400,7 +400,7 @@ The Secretary of State, in exercise of the powers conferred by sections 113(1), 
 - (a) the complainant had good reasons for not making the complaint within that time limit; and
 - (b) notwithstanding the delay, it is still possible to investigate the complaint effectively and fairly.
 
-## 13. Procedure before investigation[^key-9744b341ae3fbda0895e0045a2fe4ef2]
+## 13. Procedure before investigation[^c-9744b341ae3fbda0895e0045a2fe4ef2]
 
 (1) A complaint may be made orally, in writing or electronically.
 
@@ -415,7 +415,7 @@ The Secretary of State, in exercise of the powers conferred by sections 113(1), 
 
 (5) Where regulation 7(1) applies to a complaint—
 
-- (a) the integrated care board or[^key-af558179d68e464a74bdca6fe0ba7e28] NHS England which receives the complaint must acknowledge the complaint not later than 3 working days after the day on which it receives it; and
+- (a) the integrated care board or[^c-af558179d68e464a74bdca6fe0ba7e28] NHS England which receives the complaint must acknowledge the complaint not later than 3 working days after the day on which it receives it; and
 - (b) where a responsible body receives notification given to it under regulation 7(5)(a), it must acknowledge the complaint not later than 3 working days after the day on which it receives the notification.
 
 (6) The acknowledgement may be made orally or in writing.
@@ -432,7 +432,7 @@ The Secretary of State, in exercise of the powers conferred by sections 113(1), 
 - (a) determine the response period specified in paragraph (7)(b); and
 - (b) notify the complainant in writing of that period.
 
-## 14. Investigation and response[^key-1543b8b2053f921d7d80f410f5faaa6e]
+## 14. Investigation and response[^c-1543b8b2053f921d7d80f410f5faaa6e]
 
 (1) A responsible body to which a complaint is made must—
 
@@ -455,7 +455,7 @@ The Secretary of State, in exercise of the powers conferred by sections 113(1), 
 - (a) notify the complainant in writing accordingly and explain the reason why; and
 - (b) send the complainant in writing a response in accordance with paragraph (2) as soon as reasonably practicable after the relevant period.
 
-## 15. Form of communications[^key-4bc964aaa3ef8aba7d60f2a25cff1056]
+## 15. Form of communications[^c-4bc964aaa3ef8aba7d60f2a25cff1056]
 
 (1) Any communication which is required by these Regulations to be made to a complainant may be sent to the complainant electronically where the complainant—
 
@@ -464,14 +464,14 @@ The Secretary of State, in exercise of the powers conferred by sections 113(1), 
 
 (2) Any requirement in these Regulations for a document to be signed by a person is satisfied, in the case of a document which is sent electronically in accordance with these Regulations, by the individual who is authorised to sign the document typing their name or producing their name using a computer or other electronic means.
 
-## 16. Publicity[^key-b78c5cd6e6d9a5248d4a0d0cd61f8eb9]
+## 16. Publicity[^c-b78c5cd6e6d9a5248d4a0d0cd61f8eb9]
 
 Each responsible body must make information available to the public as to—
 
 - (a) its arrangements for dealing with complaints; and
 - (b) how further information about those arrangements may be obtained.
 
-## 17. Monitoring[^key-98b423b638a4a75fb85cd081d4face6d]
+## 17. Monitoring[^c-98b423b638a4a75fb85cd081d4face6d]
 
 For the purpose of monitoring the arrangements under these Regulations each responsible body must maintain a record of the following matters—
 
@@ -483,7 +483,7 @@ For the purpose of monitoring the arrangements under these Regulations each resp
 
   whether a report of the outcome of the investigation was sent to the complainant within that period or any amended period.
 
-## 18. Annual reports[^key-f5ec85f879bda1c77146a173cb297810]
+## 18. Annual reports[^c-f5ec85f879bda1c77146a173cb297810]
 
 (1) Each responsible body must prepare an annual report for each year which must—
 
@@ -503,12 +503,12 @@ For the purpose of monitoring the arrangements under these Regulations each resp
 
 (4) This paragraph applies to a responsible body which is—
 
-- (a) an NHS body other than an integrated care board[^key-f5592adc6eaa257377a0726c2858ae71] or NHS England; or
-- (b) a primary care provider , an independent provider, an independent sub-contractor, an integrated care provider or an integrated care sub-contractor[^key-dac07524e7c556853b5407161c09ad9a],
+- (a) an NHS body other than an integrated care board[^c-f5592adc6eaa257377a0726c2858ae71] or NHS England; or
+- (b) a primary care provider , an independent provider, an independent sub-contractor, an integrated care provider or an integrated care sub-contractor[^c-dac07524e7c556853b5407161c09ad9a],
 
-and which in any year provides, or agrees to provide, services , other than adult social care services,[^key-02711b341bcb0b2dca2db0ae4249d001] under arrangements with an integrated care board ,[^key-7494bd592ac0bed488b1d6771e7dc79b] NHS England, an independent provider or an integrated care provider.
+and which in any year provides, or agrees to provide, services , other than adult social care services,[^c-02711b341bcb0b2dca2db0ae4249d001] under arrangements with an integrated care board ,[^c-7494bd592ac0bed488b1d6771e7dc79b] NHS England, an independent provider or an integrated care provider.
 
-(5) Where paragraph (4) applies to a responsible body, the responsible body must send a copy of its annual report to —[^key-5002f9488c31aaa7a458febff4e26c26]
+(5) Where paragraph (4) applies to a responsible body, the responsible body must send a copy of its annual report to —[^c-5002f9488c31aaa7a458febff4e26c26]
 
 - (a) the integrated care board;
 - (b) NHS England;
@@ -517,11 +517,11 @@ and which in any year provides, or agrees to provide, services , other than adul
 
 which arranged for the provision of the services by the responsible body.
 
-(6)[^key-a2d5252ecb8353a88549977fe68635d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-a2d5252ecb8353a88549977fe68635d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7) The copy of the annual report required to be sent in accordance with paragraph (5) [^key-a1c4f052f263558598d3025ac994054c]... must be sent as soon as reasonably practicable after the end of the year to which the report relates.
+(7) The copy of the annual report required to be sent in accordance with paragraph (5) [^c-a1c4f052f263558598d3025ac994054c]... must be sent as soon as reasonably practicable after the end of the year to which the report relates.
 
-## 19. Transitional provision: complaints to local authorities[^key-fa69c45b90b2197b6827c454c1862e23]
+## 19. Transitional provision: complaints to local authorities[^c-fa69c45b90b2197b6827c454c1862e23]
 
 (1) This paragraph applies to a complaint where, immediately before 1st April 2009—
 
@@ -535,7 +535,7 @@ which arranged for the provision of the services by the responsible body.
 - (a) any investigation of the complaint which has been requested under regulation 8 of the 2006 Regulations; and
 - (b) any complaint in respect of which a review panel has been established, or has been requested to be established, in accordance with those Regulations.
 
-## 20. Transitional provision: complaints to NHS bodies, primary care providers and independent providers, and investigation by Health Service Commissioner[^key-36f0fc9236177cad7c3aee79289fe14b]
+## 20. Transitional provision: complaints to NHS bodies, primary care providers and independent providers, and investigation by Health Service Commissioner[^c-36f0fc9236177cad7c3aee79289fe14b]
 
 (1) This paragraph applies to—
 
@@ -550,7 +550,7 @@ which arranged for the provision of the services by the responsible body.
 - (b) regulation 13 of those Regulations shall have effect in relation to the complaint as if, in paragraph (4), the words “Health Service Commissioner under the Health Service Commissioners Act 1993” were substituted for the words “Healthcare Commission in accordance with regulation 14”; and
 - (c) any request made under regulation 14 before 1st April 2009 for the Healthcare Commission to consider the complaint shall have effect as a request to the Health Service Commissioner to consider the complaint under the 1993 Act.
 
-## 21. Transitional provision: investigation by Health Service Commissioner in relation to complaints about NHS foundation trusts[^key-8c87e698914e38dbb94d7697a62064a0]
+## 21. Transitional provision: investigation by Health Service Commissioner in relation to complaints about NHS foundation trusts[^c-8c87e698914e38dbb94d7697a62064a0]
 
 (1) This paragraph applies where a person has made a complaint before 1st April 2009 to an NHS foundation trust and either—
 
@@ -559,13 +559,13 @@ which arranged for the provision of the services by the responsible body.
 
 (2) Where paragraph (1) applies, any request made under regulation 15 of the 2004 Regulations before 1st April 2009 for the Healthcare Commission to consider the complaint shall have effect as a request to the Health Service Commissioner to consider the complaint under the 1993 Act.
 
-## 22. Revocations[^key-035f742962893f4d11c0cedb1efe867a]
+## 22. Revocations[^c-035f742962893f4d11c0cedb1efe867a]
 
 (1) Subject to regulations 20 and 21, the 2004 Regulations are revoked.
 
 (2) Subject to regulation 19, the 2006 Regulations are revoked.
 
-## 23. Consequential and transitional provisions[^key-4a9bd399dfc1776595dbce5dabbbdf6e]
+## 23. Consequential and transitional provisions[^c-4a9bd399dfc1776595dbce5dabbbdf6e]
 
 The Schedule (consequential and transitional provisions) has effect.
 
@@ -581,23 +581,23 @@ Department of Health
 
 ## SCHEDULE — CONSEQUENTIAL AND TRANSITIONAL PROVISIONS
 
-### 1. Amendment of the National Health Service (Pharmaceutical Services) Regulations 2005[^key-a28e151773045c4416fe92f2e33ebbfa]
+### 1. Amendment of the National Health Service (Pharmaceutical Services) Regulations 2005[^c-a28e151773045c4416fe92f2e33ebbfa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Amendment of the National Health Service (Local Pharmaceutical Services etc.) Regulations 2006[^key-2b025e50cb41bdcbe8ce9793ce1070f4]
+### 2. Amendment of the National Health Service (Local Pharmaceutical Services etc.) Regulations 2006[^c-2b025e50cb41bdcbe8ce9793ce1070f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment of the National Health Service (General Medical Services Contracts) Regulations 2004[^key-d0107bccfa6911d9274d6edb6200e83d]
+### 3. Amendment of the National Health Service (General Medical Services Contracts) Regulations 2004[^c-d0107bccfa6911d9274d6edb6200e83d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Amendment of the National Health Service (Personal Medical Services Agreements) Regulations 2004[^key-70bde6df990263294da32debde8ea8a4]
+### 4. Amendment of the National Health Service (Personal Medical Services Agreements) Regulations 2004[^c-70bde6df990263294da32debde8ea8a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amendment of the National Health Service (General Dental Services Contracts) Regulations 2005[^key-56503d067ba9ab46d612762797cf545b]
+### 5. Amendment of the National Health Service (General Dental Services Contracts) Regulations 2005[^c-56503d067ba9ab46d612762797cf545b]
 
 (1) Schedule 3 to the National Health Service (General Dental Services Contracts) Regulations 2005[^f00035] (other contractual terms), is amended as follows.
 
@@ -624,7 +624,7 @@ Department of Health
 
     .
 
-### 6. Amendment of the National Health Service (Personal Dental Services Agreements) Regulations 2005[^key-715a5ab9d231045099255d8464caacf4]
+### 6. Amendment of the National Health Service (Personal Dental Services Agreements) Regulations 2005[^c-715a5ab9d231045099255d8464caacf4]
 
 (1) Schedule 3 to the National Health Service (Personal Dental Services Agreements) Regulations 2005[^f00038] (other contractual terms) is amended as follows.
 
@@ -651,7 +651,7 @@ Department of Health
 
     .
 
-### 7. Amendment to the General Ophthalmic Services Contracts Regulations 2008[^key-bf9cc032a1ace4a7faf7a9004befa7fc]
+### 7. Amendment to the General Ophthalmic Services Contracts Regulations 2008[^c-bf9cc032a1ace4a7faf7a9004befa7fc]
 
 (1) Schedule 1 to the General Ophthalmic Services Contracts Regulations 2008[^f00041] (other contractual terms) is amended as follows.
 
@@ -678,7 +678,7 @@ Department of Health
 
     .
 
-### 8. Transitional provision: the Primary Ophthalmic Services Amendment, Transitional and Consequential Provisions Regulations 2008, and the General Dental Services, Personal Dental Services and Abolition of the Dental Practice Board Transitional and Consequential Provisions Order 2006[^key-6662d928fa3e5ad1ba69fcad211b3980]
+### 8. Transitional provision: the Primary Ophthalmic Services Amendment, Transitional and Consequential Provisions Regulations 2008, and the General Dental Services, Personal Dental Services and Abolition of the Dental Practice Board Transitional and Consequential Provisions Order 2006[^c-6662d928fa3e5ad1ba69fcad211b3980]
 
 (1) This sub-paragraph applies to a complaint which—
 
@@ -721,17 +721,17 @@ An impact assessment has been prepared in relation to these Regulations and is a
 
 [^f00001]: Footnote: [2003 c. 43](https://www.legislation.gov.uk/ukpga/2003/43).
 
-[^key-0f22a381129a8a0b75479e534c8c8ef8]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2009/309) modified (1.7.2022) by [The Health and Care Act 2022 (Commencement No. 2 and Transitional and Saving Provision) Regulations 2022 (S.I. 2022/734)](https://www.legislation.gov.uk/uksi/2022/734), [reg. 31(3)](https://www.legislation.gov.uk/uksi/2022/734/regulation/31/3) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-0f22a381129a8a0b75479e534c8c8ef8]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2009/309) modified (1.7.2022) by [The Health and Care Act 2022 (Commencement No. 2 and Transitional and Saving Provision) Regulations 2022 (S.I. 2022/734)](https://www.legislation.gov.uk/uksi/2022/734), [reg. 31(3)](https://www.legislation.gov.uk/uksi/2022/734/regulation/31/3) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-487dff2274915be18209a8f66805ed97]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/309/regulation/1) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
+[^c-487dff2274915be18209a8f66805ed97]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/309/regulation/1) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
 
-[^key-7fd196f1c8d831c4f010bb12d2d3637a]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/3) substituted (1.9.2009) by [The Local Authority Social Services and National Health Service Complaints (England) (Amendment) Regulations 2009 (S.I. 2009/1768)](https://www.legislation.gov.uk/uksi/2009/1768), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1768/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2009/1768/regulation/2)
+[^c-7fd196f1c8d831c4f010bb12d2d3637a]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/3) substituted (1.9.2009) by [The Local Authority Social Services and National Health Service Complaints (England) (Amendment) Regulations 2009 (S.I. 2009/1768)](https://www.legislation.gov.uk/uksi/2009/1768), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1768/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2009/1768/regulation/2)
 
-[^key-949147db59c42f483543a16b3c1d18d1]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/4) substituted (1.9.2009) by [The Local Authority Social Services and National Health Service Complaints (England) (Amendment) Regulations 2009 (S.I. 2009/1768)](https://www.legislation.gov.uk/uksi/2009/1768), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1768/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2009/1768/regulation/2)
+[^c-949147db59c42f483543a16b3c1d18d1]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/4) substituted (1.9.2009) by [The Local Authority Social Services and National Health Service Complaints (England) (Amendment) Regulations 2009 (S.I. 2009/1768)](https://www.legislation.gov.uk/uksi/2009/1768), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1768/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2009/1768/regulation/2)
 
-[^key-b41d05c6db297bd20b9b2562d025185e]: Commencement: Reg. 2(1)(2) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
+[^c-b41d05c6db297bd20b9b2562d025185e]: Commencement: Reg. 2(1)(2) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
 
-[^key-332bd1b9484fb4251dae96fe375f0376]: Commencement: Reg. 2(3) in force at 1.10.2010, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/3) (as amended by [S.I. 2009/1768](https://www.legislation.gov.uk/uksi/2009/1768), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1768/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2009/1768/regulation/2))
+[^c-332bd1b9484fb4251dae96fe375f0376]: Commencement: Reg. 2(3) in force at 1.10.2010, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/3) (as amended by [S.I. 2009/1768](https://www.legislation.gov.uk/uksi/2009/1768), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1768/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2009/1768/regulation/2))
 
 [^f00002]: Footnote: [1993 c. 46](https://www.legislation.gov.uk/ukpga/1993/46).
 
@@ -743,25 +743,25 @@ An impact assessment has been prepared in relation to these Regulations and is a
 
 [^f00006]: Footnote: [2008 c.14](https://www.legislation.gov.uk/ukpga/2008/14).
 
-[^key-77cbc0efb915808516274d61afbeb8b4]: Textual amendment: Words in reg. 2(1) inserted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2019/248/regulation/9/2)
+[^c-77cbc0efb915808516274d61afbeb8b4]: Textual amendment: Words in reg. 2(1) inserted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2019/248/regulation/9/2)
 
-[^key-75cb347b615a5bf2a6b6e7bda7d011d6]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-75cb347b615a5bf2a6b6e7bda7d011d6]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-a72ed7e10ff660b303fbd83e9349186e]: Textual amendment: Words in reg. 2(1) substituted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2019/248/regulation/9/3)
+[^c-a72ed7e10ff660b303fbd83e9349186e]: Textual amendment: Words in reg. 2(1) substituted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2019/248/regulation/9/3)
 
-[^key-2141d7f245f764ab189cdba1af64df0a]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-2141d7f245f764ab189cdba1af64df0a]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
-[^key-bc42ece8bbef77a630fae2e799cefda3]: Textual amendment: Words in reg. 2(1) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(2)(d)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/2/d/i) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
+[^c-bc42ece8bbef77a630fae2e799cefda3]: Textual amendment: Words in reg. 2(1) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(2)(d)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/2/d/i) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
 
-[^key-d89dd30c9e4a9ebd870b2d77f57b1f0d]: Textual amendment: Words in reg. 2(1) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/2/d/ii) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
+[^c-d89dd30c9e4a9ebd870b2d77f57b1f0d]: Textual amendment: Words in reg. 2(1) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/2/d/ii) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
 
-[^key-f6cf4417f57c61959390220a66f9365b]: Textual amendment: Words in reg. 2(1) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(2)(d)(iii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/2/d/iii) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
+[^c-f6cf4417f57c61959390220a66f9365b]: Textual amendment: Words in reg. 2(1) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(2)(d)(iii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/2/d/iii) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
 
-[^key-66e1708a7def3b2b686f40558749d01a]: Textual amendment: Words in reg. 2(1) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(2)(e)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/2/e) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
+[^c-66e1708a7def3b2b686f40558749d01a]: Textual amendment: Words in reg. 2(1) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(2)(e)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/2/e) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
 
-[^key-41ef794bd20319fd42c6f04303c74ed7]: Textual amendment: Words in reg. 2 substituted (1.4.2013) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013 (S.I. 2013/349)](https://www.legislation.gov.uk/uksi/2013/349), [reg. 1](https://www.legislation.gov.uk/uksi/2013/349/regulation/1), [Sch. 10 para. 7(a)](https://www.legislation.gov.uk/uksi/2013/349/schedule/10/paragraph/7/a)
+[^c-41ef794bd20319fd42c6f04303c74ed7]: Textual amendment: Words in reg. 2 substituted (1.4.2013) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013 (S.I. 2013/349)](https://www.legislation.gov.uk/uksi/2013/349), [reg. 1](https://www.legislation.gov.uk/uksi/2013/349/regulation/1), [Sch. 10 para. 7(a)](https://www.legislation.gov.uk/uksi/2013/349/schedule/10/paragraph/7/a)
 
-[^key-1cec2f21e9bd2522baccf8457a36a950]: Textual amendment: Words in reg. 2(1) substituted (7.12.2015) by [The National Health Service (General Medical Services Contracts) Regulations 2015 (S.I. 2015/1862)](https://www.legislation.gov.uk/uksi/2015/1862), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/1/2), [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2015/1862/schedule/4/paragraph/4) (with [reg. 2](https://www.legislation.gov.uk/uksi/2015/1862/regulation/2))
+[^c-1cec2f21e9bd2522baccf8457a36a950]: Textual amendment: Words in reg. 2(1) substituted (7.12.2015) by [The National Health Service (General Medical Services Contracts) Regulations 2015 (S.I. 2015/1862)](https://www.legislation.gov.uk/uksi/2015/1862), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/1/2), [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2015/1862/schedule/4/paragraph/4) (with [reg. 2](https://www.legislation.gov.uk/uksi/2015/1862/regulation/2))
 
 [^M_F_7736c308-5b93-4ddb-93b7-b6ae772d9da5]: Textual amendment: Words in reg. 2(1) substituted (7.12.2015) by [The National Health Service (Personal Medical Services Agreements) Regulations 2015 (S.I. 2015/1879)](https://www.legislation.gov.uk/uksi/2015/1879), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/1/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2015/1879/schedule/3/paragraph/2) (with [reg. 2](https://www.legislation.gov.uk/uksi/2015/1879/regulation/2))
 
@@ -771,7 +771,7 @@ An impact assessment has been prepared in relation to these Regulations and is a
 
 [^f00014]: Footnote: [S.I. 2008/1185](https://www.legislation.gov.uk/uksi/2008/1185), amended by paragraph 7 of the Schedule to these Regulations. Paragraph 22 of Schedule 1 is amended with effect from 1st April 2009 by paragraph 7(3) of the Schedule to these Regulations.
 
-[^key-331e144fa53b65b22929c5b6e4a63fc5]: Textual amendment: Words in reg. 2(1) substituted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2019/248/regulation/9/4)
+[^c-331e144fa53b65b22929c5b6e4a63fc5]: Textual amendment: Words in reg. 2(1) substituted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2019/248/regulation/9/4)
 
 [^f00015]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
@@ -779,87 +779,87 @@ An impact assessment has been prepared in relation to these Regulations and is a
 
 [^f00017]: Footnote: [2003 c.43](https://www.legislation.gov.uk/ukpga/2003/43).
 
-[^key-de4886c7a518f864870dd508ba773cef]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/309/regulation/3) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
+[^c-de4886c7a518f864870dd508ba773cef]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/309/regulation/3) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
 
-[^key-e57df77ed227315ee896ea847b25f13c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/309/regulation/4) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
+[^c-e57df77ed227315ee896ea847b25f13c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/309/regulation/4) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
 
-[^key-a2ddb2b24b9e6432a6957d0a8e462658]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/309/regulation/5) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
+[^c-a2ddb2b24b9e6432a6957d0a8e462658]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/309/regulation/5) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
 
 [^f00018]: Footnote: [2005 c.9](https://www.legislation.gov.uk/ukpga/2005/9).
 
-[^key-0d8f6bb9b7d8cb5f7eed2fb13fe51e54]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/309/regulation/6) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
+[^c-0d8f6bb9b7d8cb5f7eed2fb13fe51e54]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/309/regulation/6) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
 
-[^key-99ecf520139d841f10d9baf13ef45077]: Textual amendment: [Reg. 6(1)(ba)](https://www.legislation.gov.uk/uksi/2009/309/regulation/6/1/ba) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(3)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/3) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
+[^c-99ecf520139d841f10d9baf13ef45077]: Textual amendment: [Reg. 6(1)(ba)](https://www.legislation.gov.uk/uksi/2009/309/regulation/6/1/ba) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(3)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/3) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
 
-[^key-fd280e1c7c58af354c7909793609fb8b]: Textual amendment: Words in [reg. 6(1)(ba)](https://www.legislation.gov.uk/uksi/2009/309/regulation/6/1/ba) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [187(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/187/2)
+[^c-fd280e1c7c58af354c7909793609fb8b]: Textual amendment: Words in [reg. 6(1)(ba)](https://www.legislation.gov.uk/uksi/2009/309/regulation/6/1/ba) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [187(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/187/2)
 
-[^key-325289101b8c065d7c784765f09b3aa2]: Textual amendment: [Reg. 6(1ZA)](https://www.legislation.gov.uk/uksi/2009/309/regulation/6/1ZA)[(1ZB)](https://www.legislation.gov.uk/uksi/2009/309/regulation/6/1ZB) inserted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2019/248/regulation/10/2)
+[^c-325289101b8c065d7c784765f09b3aa2]: Textual amendment: [Reg. 6(1ZA)](https://www.legislation.gov.uk/uksi/2009/309/regulation/6/1ZA)[(1ZB)](https://www.legislation.gov.uk/uksi/2009/309/regulation/6/1ZB) inserted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2019/248/regulation/10/2)
 
-[^key-c663389d78c19eff9e216cf5c5ba99ea]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/2009/309/regulation/6/1A)[(1B)](https://www.legislation.gov.uk/uksi/2009/309/regulation/6/1B) inserted (1.9.2009) by [The Local Authority Social Services and National Health Service Complaints (England) (Amendment) Regulations 2009 (S.I. 2009/1768)](https://www.legislation.gov.uk/uksi/2009/1768), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1768/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2009/1768/regulation/3)
+[^c-c663389d78c19eff9e216cf5c5ba99ea]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/2009/309/regulation/6/1A)[(1B)](https://www.legislation.gov.uk/uksi/2009/309/regulation/6/1B) inserted (1.9.2009) by [The Local Authority Social Services and National Health Service Complaints (England) (Amendment) Regulations 2009 (S.I. 2009/1768)](https://www.legislation.gov.uk/uksi/2009/1768), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1768/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2009/1768/regulation/3)
 
-[^key-8e75877daca38c6a78194e6561409173]: Textual amendment: [Reg. 6(1A)(b)](https://www.legislation.gov.uk/uksi/2009/309/regulation/6/1A/b) substituted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2019/248/regulation/10/3) (with [reg. 34(3)](https://www.legislation.gov.uk/uksi/2019/248/regulation/34/3))
+[^c-8e75877daca38c6a78194e6561409173]: Textual amendment: [Reg. 6(1A)(b)](https://www.legislation.gov.uk/uksi/2009/309/regulation/6/1A/b) substituted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2019/248/regulation/10/3) (with [reg. 34(3)](https://www.legislation.gov.uk/uksi/2019/248/regulation/34/3))
 
-[^key-b09e964fe5f2f63dca068d197bea7f39]: Commencement: Reg. 7 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
+[^c-b09e964fe5f2f63dca068d197bea7f39]: Commencement: Reg. 7 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
 
-[^key-9c0d09b0a93474f79f77637bf012ec50]: Textual amendment: Words in reg. 7(1)(a) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(4)(a)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/4/a/i) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
+[^c-9c0d09b0a93474f79f77637bf012ec50]: Textual amendment: Words in reg. 7(1)(a) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(4)(a)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/4/a/i) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
 
-[^key-32ec805ecce092b59b50fcea46f7f9be]: Textual amendment: Words in reg. 7(1)(a) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/4/a/ii) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
+[^c-32ec805ecce092b59b50fcea46f7f9be]: Textual amendment: Words in reg. 7(1)(a) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/4/a/ii) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
 
-[^key-d5031b114d8b0ecc442b3604dbe9926c]: Textual amendment: Words in reg. 7(1)(b) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [37(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/37/2/a)
+[^c-d5031b114d8b0ecc442b3604dbe9926c]: Textual amendment: Words in reg. 7(1)(b) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [37(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/37/2/a)
 
-[^key-3e3c06d424eb2182254cd29cfdcf48ef]: Textual amendment: Words in reg. 7(1)(b) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(4)(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/4/b) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
+[^c-3e3c06d424eb2182254cd29cfdcf48ef]: Textual amendment: Words in reg. 7(1)(b) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(4)(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/4/b) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
 
-[^key-b119f655489136da44f94cf5b6f37d0e]: Textual amendment: Words in [reg. 7(1)(b)](https://www.legislation.gov.uk/uksi/2009/309/regulation/7/1/b) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [34(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/34/2/a)
+[^c-b119f655489136da44f94cf5b6f37d0e]: Textual amendment: Words in [reg. 7(1)(b)](https://www.legislation.gov.uk/uksi/2009/309/regulation/7/1/b) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [34(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/34/2/a)
 
-[^key-f2a3db2f05550c215199b466068f3330]: Textual amendment: Reg. 7(1A)(1B) inserted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2019/248/regulation/11/2)
+[^c-f2a3db2f05550c215199b466068f3330]: Textual amendment: Reg. 7(1A)(1B) inserted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2019/248/regulation/11/2)
 
-[^key-320bfb8c37e6713169b49a63302cbdc7]: Textual amendment: Words in reg. 7(1A)(b)(i) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [37(2)(b)(i)](https://www.legislation.gov.uk/uksi/2022/634/regulation/37/2/b/i)
+[^c-320bfb8c37e6713169b49a63302cbdc7]: Textual amendment: Words in reg. 7(1A)(b)(i) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [37(2)(b)(i)](https://www.legislation.gov.uk/uksi/2022/634/regulation/37/2/b/i)
 
-[^key-e78d295d40d6822e6d17650c0126f210]: Textual amendment: Words in [reg. 7(1A)(b)](https://www.legislation.gov.uk/uksi/2009/309/regulation/7/1A/b) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [34(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/34/2/b)
+[^c-e78d295d40d6822e6d17650c0126f210]: Textual amendment: Words in [reg. 7(1A)(b)](https://www.legislation.gov.uk/uksi/2009/309/regulation/7/1A/b) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [34(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/34/2/b)
 
-[^key-114f1eb807ca41119d203247f793c18b]: Textual amendment: Words in reg. 7(1A)(b)(ii) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [37(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/634/regulation/37/2/b/ii)
+[^c-114f1eb807ca41119d203247f793c18b]: Textual amendment: Words in reg. 7(1A)(b)(ii) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [37(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/634/regulation/37/2/b/ii)
 
-[^key-9f475598e4e1a94d52c9e0b01daa5ecc]: Textual amendment: Words in reg. 7(1A)(b)(iii) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [37(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2022/634/regulation/37/2/b/iii)
+[^c-9f475598e4e1a94d52c9e0b01daa5ecc]: Textual amendment: Words in reg. 7(1A)(b)(iii) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [37(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2022/634/regulation/37/2/b/iii)
 
-[^key-4acfa056d88e9cb7dbb593dfae3ac855]: Textual amendment: Words in reg. 7(2) inserted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2019/248/regulation/11/3)
+[^c-4acfa056d88e9cb7dbb593dfae3ac855]: Textual amendment: Words in reg. 7(2) inserted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2019/248/regulation/11/3)
 
-[^key-78696afe6747b95429bf56bc710db84e]: Textual amendment: Words in reg. 7(3) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(4)(c)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/4/c/i) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
+[^c-78696afe6747b95429bf56bc710db84e]: Textual amendment: Words in reg. 7(3) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(4)(c)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/4/c/i) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
 
-[^key-b1f62688491ffee7655cae8c96096dc3]: Textual amendment: Words in reg. 7(3)(a) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [37(2)(c)(i)](https://www.legislation.gov.uk/uksi/2022/634/regulation/37/2/c/i)
+[^c-b1f62688491ffee7655cae8c96096dc3]: Textual amendment: Words in reg. 7(3)(a) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [37(2)(c)(i)](https://www.legislation.gov.uk/uksi/2022/634/regulation/37/2/c/i)
 
-[^key-e8884c030780dee1ca5b5970c831537c]: Textual amendment: Words in reg. 7(3)(a) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/4/c/ii) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
+[^c-e8884c030780dee1ca5b5970c831537c]: Textual amendment: Words in reg. 7(3)(a) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/4/c/ii) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
 
-[^key-fd94a4955bf11c11df95eff928b4110c]: Textual amendment: Words in [reg. 7(3)(a)](https://www.legislation.gov.uk/uksi/2009/309/regulation/7/3/a) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [34(2)(c)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/34/2/c)
+[^c-fd94a4955bf11c11df95eff928b4110c]: Textual amendment: Words in [reg. 7(3)(a)](https://www.legislation.gov.uk/uksi/2009/309/regulation/7/3/a) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [34(2)(c)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/34/2/c)
 
-[^key-2a74fd36ff5da14a41f8e51da7d71daa]: Textual amendment: Words in reg. 7(3)-(5) inserted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [11(4)](https://www.legislation.gov.uk/uksi/2019/248/regulation/11/4)
+[^c-2a74fd36ff5da14a41f8e51da7d71daa]: Textual amendment: Words in reg. 7(3)-(5) inserted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [11(4)](https://www.legislation.gov.uk/uksi/2019/248/regulation/11/4)
 
-[^key-0332244db2779f55c170adfd0b9658ef]: Textual amendment: Words in reg. 7(3)(b) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [37(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/634/regulation/37/2/c/ii)
+[^c-0332244db2779f55c170adfd0b9658ef]: Textual amendment: Words in reg. 7(3)(b) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [37(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/634/regulation/37/2/c/ii)
 
-[^key-95563e5166d245aab06b17663d2fd780]: Textual amendment: Words in reg. 7(3)(b) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(4)(c)(iii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/4/c/iii) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
+[^c-95563e5166d245aab06b17663d2fd780]: Textual amendment: Words in reg. 7(3)(b) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(4)(c)(iii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/4/c/iii) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
 
-[^key-96da152a65e5a6153897ab90ae4d20d2]: Textual amendment: Words in [reg. 7(3)(b)](https://www.legislation.gov.uk/uksi/2009/309/regulation/7/3/b) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [34(2)(d)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/34/2/d)
+[^c-96da152a65e5a6153897ab90ae4d20d2]: Textual amendment: Words in [reg. 7(3)(b)](https://www.legislation.gov.uk/uksi/2009/309/regulation/7/3/b) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [34(2)(d)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/34/2/d)
 
-[^key-8676dc90ba663036620517c2c6392aba]: Textual amendment: Words in reg. 7(4) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(4)(d)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/4/d/i) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
+[^c-8676dc90ba663036620517c2c6392aba]: Textual amendment: Words in reg. 7(4) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(4)(d)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/4/d/i) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
 
-[^key-e94b384b834f964fc3abb9e4c086543f]: Textual amendment: Words in reg. 7(4) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [37(2)(d)](https://www.legislation.gov.uk/uksi/2022/634/regulation/37/2/d)
+[^c-e94b384b834f964fc3abb9e4c086543f]: Textual amendment: Words in reg. 7(4) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [37(2)(d)](https://www.legislation.gov.uk/uksi/2022/634/regulation/37/2/d)
 
-[^key-73783a7c9c1c750c2823c90be813a5e6]: Textual amendment: Words in reg. 7(4) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/4/d/ii) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
+[^c-73783a7c9c1c750c2823c90be813a5e6]: Textual amendment: Words in reg. 7(4) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/4/d/ii) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
 
-[^key-3a44da0f0c7e6c252485f523c3020eef]: Textual amendment: Words in [reg. 7(4)](https://www.legislation.gov.uk/uksi/2009/309/regulation/7/4) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [34(2)(e)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/34/2/e)
+[^c-3a44da0f0c7e6c252485f523c3020eef]: Textual amendment: Words in [reg. 7(4)](https://www.legislation.gov.uk/uksi/2009/309/regulation/7/4) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [34(2)(e)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/34/2/e)
 
-[^key-636d3fa286a521f501b5c85faf7f6856]: Textual amendment: Words in reg. 7(5) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(4)(e)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/4/e/i) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
+[^c-636d3fa286a521f501b5c85faf7f6856]: Textual amendment: Words in reg. 7(5) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(4)(e)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/4/e/i) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
 
-[^key-34beb3e4a702d99b861db1f46b64bf80]: Textual amendment: Words in reg. 7(5)(a) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [37(2)(e)](https://www.legislation.gov.uk/uksi/2022/634/regulation/37/2/e)
+[^c-34beb3e4a702d99b861db1f46b64bf80]: Textual amendment: Words in reg. 7(5)(a) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [37(2)(e)](https://www.legislation.gov.uk/uksi/2022/634/regulation/37/2/e)
 
-[^key-9ff77a76945a6331ebf03fb3f67b5909]: Textual amendment: Words in reg. 7(5)(a) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(4)(e)(ii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/4/e/ii) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
+[^c-9ff77a76945a6331ebf03fb3f67b5909]: Textual amendment: Words in reg. 7(5)(a) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(4)(e)(ii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/4/e/ii) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
 
-[^key-92b9fd82afebbc76ec0839aa5c40e1ae]: Textual amendment: Words in [reg. 7(5)(a)](https://www.legislation.gov.uk/uksi/2009/309/regulation/7/5/a) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [34(2)(f)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/34/2/f)
+[^c-92b9fd82afebbc76ec0839aa5c40e1ae]: Textual amendment: Words in [reg. 7(5)(a)](https://www.legislation.gov.uk/uksi/2009/309/regulation/7/5/a) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [34(2)(f)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/34/2/f)
 
-[^key-9a72f4e7f881257a1c87f4bd26c8e110]: Textual amendment: Reg. 7(6) inserted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [11(5)](https://www.legislation.gov.uk/uksi/2019/248/regulation/11/5)
+[^c-9a72f4e7f881257a1c87f4bd26c8e110]: Textual amendment: Reg. 7(6) inserted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [11(5)](https://www.legislation.gov.uk/uksi/2019/248/regulation/11/5)
 
-[^key-7ab580b4f316436f6c3bfe754f6008dc]: Commencement: Reg. 8 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
+[^c-7ab580b4f316436f6c3bfe754f6008dc]: Commencement: Reg. 8 in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
 
-[^key-1146ca3718a77201c4caebc4a7d5f4e6]: Textual amendment: Words in reg. 8(1) omitted (1.9.2009) by virtue of [The Local Authority Social Services and National Health Service Complaints (England) (Amendment) Regulations 2009 (S.I. 2009/1768)](https://www.legislation.gov.uk/uksi/2009/1768), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1768/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2009/1768/regulation/4/2)
+[^c-1146ca3718a77201c4caebc4a7d5f4e6]: Textual amendment: Words in reg. 8(1) omitted (1.9.2009) by virtue of [The Local Authority Social Services and National Health Service Complaints (England) (Amendment) Regulations 2009 (S.I. 2009/1768)](https://www.legislation.gov.uk/uksi/2009/1768), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1768/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2009/1768/regulation/4/2)
 
 [^f00019]: Footnote: [1974 c. 7](https://www.legislation.gov.uk/ukpga/1974/7).
 
@@ -867,65 +867,65 @@ An impact assessment has been prepared in relation to these Regulations and is a
 
 [^f00021]: Footnote: [1972 c.11](https://www.legislation.gov.uk/ukpga/1972/11).
 
-[^key-a9b938b35009a3e9ef78dfd3c4ab850a]: Textual amendment: Reg. 8(2)(2A) substituted for reg. 8(2) (1.9.2009) by [The Local Authority Social Services and National Health Service Complaints (England) (Amendment) Regulations 2009 (S.I. 2009/1768)](https://www.legislation.gov.uk/uksi/2009/1768), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1768/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2009/1768/regulation/4/3)
+[^c-a9b938b35009a3e9ef78dfd3c4ab850a]: Textual amendment: Reg. 8(2)(2A) substituted for reg. 8(2) (1.9.2009) by [The Local Authority Social Services and National Health Service Complaints (England) (Amendment) Regulations 2009 (S.I. 2009/1768)](https://www.legislation.gov.uk/uksi/2009/1768), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1768/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2009/1768/regulation/4/3)
 
-[^key-daaac7f65412da317368e43d4a029b86]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/309/regulation/9) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
+[^c-daaac7f65412da317368e43d4a029b86]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/309/regulation/9) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
 
-[^key-6949639082a21a204fec50cfb0cf594a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2009/309/regulation/10) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
+[^c-6949639082a21a204fec50cfb0cf594a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2009/309/regulation/10) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
 
-[^key-32b2fd921e088b6524aa949d6095aeff]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/309/regulation/11) in force at 1.10.2010, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/3) (as amended by [S.I. 2009/1768](https://www.legislation.gov.uk/uksi/2009/1768), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1768/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2009/1768/regulation/2))
+[^c-32b2fd921e088b6524aa949d6095aeff]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/309/regulation/11) in force at 1.10.2010, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/3) (as amended by [S.I. 2009/1768](https://www.legislation.gov.uk/uksi/2009/1768), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1768/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2009/1768/regulation/2))
 
-[^key-67ef6a1616b66da9c446b7a96736f2df]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2009/309/regulation/12) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
+[^c-67ef6a1616b66da9c446b7a96736f2df]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2009/309/regulation/12) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
 
-[^key-9744b341ae3fbda0895e0045a2fe4ef2]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2009/309/regulation/13) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
+[^c-9744b341ae3fbda0895e0045a2fe4ef2]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2009/309/regulation/13) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
 
-[^key-af558179d68e464a74bdca6fe0ba7e28]: Textual amendment: Words in [reg. 13(5)(a)](https://www.legislation.gov.uk/uksi/2009/309/regulation/13/5/a) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(5)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/5) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
+[^c-af558179d68e464a74bdca6fe0ba7e28]: Textual amendment: Words in [reg. 13(5)(a)](https://www.legislation.gov.uk/uksi/2009/309/regulation/13/5/a) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(5)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/5) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
 
-[^key-1543b8b2053f921d7d80f410f5faaa6e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2009/309/regulation/14) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
+[^c-1543b8b2053f921d7d80f410f5faaa6e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2009/309/regulation/14) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
 
 [^f00022]: Footnote: [1974 c.7](https://www.legislation.gov.uk/ukpga/1974/7).
 
-[^key-4bc964aaa3ef8aba7d60f2a25cff1056]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2009/309/regulation/15) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
+[^c-4bc964aaa3ef8aba7d60f2a25cff1056]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2009/309/regulation/15) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
 
-[^key-b78c5cd6e6d9a5248d4a0d0cd61f8eb9]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2009/309/regulation/16) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
+[^c-b78c5cd6e6d9a5248d4a0d0cd61f8eb9]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2009/309/regulation/16) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
 
-[^key-98b423b638a4a75fb85cd081d4face6d]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2009/309/regulation/17) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
+[^c-98b423b638a4a75fb85cd081d4face6d]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2009/309/regulation/17) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
 
-[^key-f5ec85f879bda1c77146a173cb297810]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2009/309/regulation/18) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
+[^c-f5ec85f879bda1c77146a173cb297810]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2009/309/regulation/18) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
 
-[^key-f5592adc6eaa257377a0726c2858ae71]: Textual amendment: Words in [reg. 18(4)(a)](https://www.legislation.gov.uk/uksi/2009/309/regulation/18/4/a) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(6)(a)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/6/a/i) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
+[^c-f5592adc6eaa257377a0726c2858ae71]: Textual amendment: Words in [reg. 18(4)(a)](https://www.legislation.gov.uk/uksi/2009/309/regulation/18/4/a) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(6)(a)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/6/a/i) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
 
-[^key-dac07524e7c556853b5407161c09ad9a]: Textual amendment: Words in [reg. 18(4)(b)](https://www.legislation.gov.uk/uksi/2009/309/regulation/18/4/b) substituted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2019/248/regulation/12/2/a)
+[^c-dac07524e7c556853b5407161c09ad9a]: Textual amendment: Words in [reg. 18(4)(b)](https://www.legislation.gov.uk/uksi/2009/309/regulation/18/4/b) substituted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2019/248/regulation/12/2/a)
 
-[^key-02711b341bcb0b2dca2db0ae4249d001]: Textual amendment: Words in [reg. 18(4)](https://www.legislation.gov.uk/uksi/2009/309/regulation/18/4) inserted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2019/248/regulation/12/2/b)
+[^c-02711b341bcb0b2dca2db0ae4249d001]: Textual amendment: Words in [reg. 18(4)](https://www.legislation.gov.uk/uksi/2009/309/regulation/18/4) inserted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2019/248/regulation/12/2/b)
 
-[^key-7494bd592ac0bed488b1d6771e7dc79b]: Textual amendment: Words in [reg. 18(4)](https://www.legislation.gov.uk/uksi/2009/309/regulation/18/4) substituted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [12(2)(c)](https://www.legislation.gov.uk/uksi/2019/248/regulation/12/2/c)
+[^c-7494bd592ac0bed488b1d6771e7dc79b]: Textual amendment: Words in [reg. 18(4)](https://www.legislation.gov.uk/uksi/2009/309/regulation/18/4) substituted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [12(2)(c)](https://www.legislation.gov.uk/uksi/2019/248/regulation/12/2/c)
 
-[^key-5002f9488c31aaa7a458febff4e26c26]: Textual amendment: Words in [reg. 18(5)](https://www.legislation.gov.uk/uksi/2009/309/regulation/18/5) substituted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [12(3)](https://www.legislation.gov.uk/uksi/2019/248/regulation/12/3)
+[^c-5002f9488c31aaa7a458febff4e26c26]: Textual amendment: Words in [reg. 18(5)](https://www.legislation.gov.uk/uksi/2009/309/regulation/18/5) substituted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [12(3)](https://www.legislation.gov.uk/uksi/2019/248/regulation/12/3)
 
-[^key-a2d5252ecb8353a88549977fe68635d4]: Textual amendment: [Reg. 18(6)](https://www.legislation.gov.uk/uksi/2009/309/regulation/18/6) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(6)(c)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/6/c) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
+[^c-a2d5252ecb8353a88549977fe68635d4]: Textual amendment: [Reg. 18(6)](https://www.legislation.gov.uk/uksi/2009/309/regulation/18/6) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(6)(c)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/6/c) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
 
-[^key-a1c4f052f263558598d3025ac994054c]: Textual amendment: Words in [reg. 18(7)](https://www.legislation.gov.uk/uksi/2009/309/regulation/18/7) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(6)(d)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/6/d) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
+[^c-a1c4f052f263558598d3025ac994054c]: Textual amendment: Words in [reg. 18(7)](https://www.legislation.gov.uk/uksi/2009/309/regulation/18/7) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 123(6)(d)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/123/6/d) (with [Sch. 3 paras. 18](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/20))
 
-[^key-fa69c45b90b2197b6827c454c1862e23]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2009/309/regulation/19) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
+[^c-fa69c45b90b2197b6827c454c1862e23]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2009/309/regulation/19) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
 
-[^key-36f0fc9236177cad7c3aee79289fe14b]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2009/309/regulation/20) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
+[^c-36f0fc9236177cad7c3aee79289fe14b]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2009/309/regulation/20) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
 
-[^key-8c87e698914e38dbb94d7697a62064a0]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2009/309/regulation/21) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
+[^c-8c87e698914e38dbb94d7697a62064a0]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2009/309/regulation/21) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
 
-[^key-035f742962893f4d11c0cedb1efe867a]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2009/309/regulation/22) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
+[^c-035f742962893f4d11c0cedb1efe867a]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2009/309/regulation/22) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
 
-[^key-4a9bd399dfc1776595dbce5dabbbdf6e]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2009/309/regulation/23) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
+[^c-4a9bd399dfc1776595dbce5dabbbdf6e]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2009/309/regulation/23) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
 
-[^key-a28e151773045c4416fe92f2e33ebbfa]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/309/schedule/paragraph/1) revoked (1.9.2012) by [The National Health Service (Pharmaceutical Services) Regulations 2012 (S.I. 2012/1909)](https://www.legislation.gov.uk/uksi/2012/1909), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1909/regulation/1), [Sch. 8 para. 9(2)(l)](https://www.legislation.gov.uk/uksi/2012/1909/schedule/8/paragraph/9/2/l)
+[^c-a28e151773045c4416fe92f2e33ebbfa]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/309/schedule/paragraph/1) revoked (1.9.2012) by [The National Health Service (Pharmaceutical Services) Regulations 2012 (S.I. 2012/1909)](https://www.legislation.gov.uk/uksi/2012/1909), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1909/regulation/1), [Sch. 8 para. 9(2)(l)](https://www.legislation.gov.uk/uksi/2012/1909/schedule/8/paragraph/9/2/l)
 
-[^key-2b025e50cb41bdcbe8ce9793ce1070f4]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/309/schedule/paragraph/2) revoked (1.4.2013) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013 (S.I. 2013/349)](https://www.legislation.gov.uk/uksi/2013/349), [reg. 1](https://www.legislation.gov.uk/uksi/2013/349/regulation/1), [Sch. 10 para. 7(b)](https://www.legislation.gov.uk/uksi/2013/349/schedule/10/paragraph/7/b)
+[^c-2b025e50cb41bdcbe8ce9793ce1070f4]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/309/schedule/paragraph/2) revoked (1.4.2013) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013 (S.I. 2013/349)](https://www.legislation.gov.uk/uksi/2013/349), [reg. 1](https://www.legislation.gov.uk/uksi/2013/349/regulation/1), [Sch. 10 para. 7(b)](https://www.legislation.gov.uk/uksi/2013/349/schedule/10/paragraph/7/b)
 
-[^key-d0107bccfa6911d9274d6edb6200e83d]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/309/schedule/paragraph/3) revoked (7.12.2015) by [The National Health Service (General Medical Services Contracts) Regulations 2015 (S.I. 2015/1862)](https://www.legislation.gov.uk/uksi/2015/1862), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/1862/schedule/5) Table (with [reg. 2](https://www.legislation.gov.uk/uksi/2015/1862/regulation/2))
+[^c-d0107bccfa6911d9274d6edb6200e83d]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/309/schedule/paragraph/3) revoked (7.12.2015) by [The National Health Service (General Medical Services Contracts) Regulations 2015 (S.I. 2015/1862)](https://www.legislation.gov.uk/uksi/2015/1862), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/1862/schedule/5) Table (with [reg. 2](https://www.legislation.gov.uk/uksi/2015/1862/regulation/2))
 
-[^key-70bde6df990263294da32debde8ea8a4]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/309/schedule/paragraph/4) revoked (7.12.2015) by [The National Health Service (Personal Medical Services Agreements) Regulations 2015 (S.I. 2015/1879)](https://www.legislation.gov.uk/uksi/2015/1879), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/1879/schedule/4) (with [regs. 2](https://www.legislation.gov.uk/uksi/2015/1879/regulation/2), [88](https://www.legislation.gov.uk/uksi/2015/1879/regulation/88))
+[^c-70bde6df990263294da32debde8ea8a4]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/309/schedule/paragraph/4) revoked (7.12.2015) by [The National Health Service (Personal Medical Services Agreements) Regulations 2015 (S.I. 2015/1879)](https://www.legislation.gov.uk/uksi/2015/1879), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/1879/schedule/4) (with [regs. 2](https://www.legislation.gov.uk/uksi/2015/1879/regulation/2), [88](https://www.legislation.gov.uk/uksi/2015/1879/regulation/88))
 
-[^key-56503d067ba9ab46d612762797cf545b]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/309/schedule/paragraph/5) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
+[^c-56503d067ba9ab46d612762797cf545b]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/309/schedule/paragraph/5) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
 
 [^f00035]: Footnote: [S.I. 2005/3361](https://www.legislation.gov.uk/uksi/2005/3361).
 
@@ -933,7 +933,7 @@ An impact assessment has been prepared in relation to these Regulations and is a
 
 [^f00037]: Footnote: [1993 c. 46](https://www.legislation.gov.uk/ukpga/1993/46).
 
-[^key-715a5ab9d231045099255d8464caacf4]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2009/309/schedule/paragraph/6) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
+[^c-715a5ab9d231045099255d8464caacf4]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2009/309/schedule/paragraph/6) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
 
 [^f00038]: Footnote: [S.I. 2005/3373](https://www.legislation.gov.uk/uksi/2005/3373).
 
@@ -941,7 +941,7 @@ An impact assessment has been prepared in relation to these Regulations and is a
 
 [^f00040]: Footnote: [1993 c. 46](https://www.legislation.gov.uk/ukpga/1993/46).
 
-[^key-bf9cc032a1ace4a7faf7a9004befa7fc]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2009/309/schedule/paragraph/7) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
+[^c-bf9cc032a1ace4a7faf7a9004befa7fc]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2009/309/schedule/paragraph/7) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
 
 [^f00041]: Footnote: [S.I. 2008/1185](https://www.legislation.gov.uk/uksi/2008/1185).
 
@@ -949,7 +949,7 @@ An impact assessment has been prepared in relation to these Regulations and is a
 
 [^f00043]: Footnote: [1993 c. 46](https://www.legislation.gov.uk/ukpga/1993/46).
 
-[^key-6662d928fa3e5ad1ba69fcad211b3980]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/309/schedule/paragraph/8) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
+[^c-6662d928fa3e5ad1ba69fcad211b3980]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/309/schedule/paragraph/8) in force at 1.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/309/regulation/1/2)
 
 [^f00044]: Footnote: [S.I. 2008/1700](https://www.legislation.gov.uk/uksi/2008/1700).
 

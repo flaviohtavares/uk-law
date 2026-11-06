@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 211. Repeal of Part 4B of the Communications Act: transitional provision etc[^key-21138012e7719fee3306233a3dcd0cb7][^key-99da31974f0afb48e8098ec85505f5b6]
+## 211. Repeal of Part 4B of the Communications Act: transitional provision etc[^c-21138012e7719fee3306233a3dcd0cb7][^c-99da31974f0afb48e8098ec85505f5b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-21138012e7719fee3306233a3dcd0cb7]: Commencement: S. 211 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240)
+[^c-21138012e7719fee3306233a3dcd0cb7]: Commencement: S. 211 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240)
 
-[^key-99da31974f0afb48e8098ec85505f5b6]: Commencement: [S. 211](https://www.legislation.gov.uk/ukpga/2023/50/section/211) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z29)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z29)
+[^c-99da31974f0afb48e8098ec85505f5b6]: Commencement: [S. 211](https://www.legislation.gov.uk/ukpga/2023/50/section/211) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z29)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z29)

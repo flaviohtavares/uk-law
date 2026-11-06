@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Remote attendance at meetings of creditors’ committee[^key-1d566d504ef6ec12e0843bab664ee806]
+## 78. Remote attendance at meetings of creditors’ committee[^c-1d566d504ef6ec12e0843bab664ee806]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d566d504ef6ec12e0843bab664ee806]: Commencement: Rule 78 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-1d566d504ef6ec12e0843bab664ee806]: Commencement: Rule 78 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

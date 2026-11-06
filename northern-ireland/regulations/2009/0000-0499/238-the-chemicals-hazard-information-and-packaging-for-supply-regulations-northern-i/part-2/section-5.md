@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Safety data sheets for substances and preparations[^key-8bf8d74ebe4bd732a238f7566a7fc8d1]
+## 5. Safety data sheets for substances and preparations[^c-8bf8d74ebe4bd732a238f7566a7fc8d1]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bf8d74ebe4bd732a238f7566a7fc8d1]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/238/regulation/5) revoked (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013 (S.R. 2013/206)](https://www.legislation.gov.uk/nisr/2013/206), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/2/1), [24(a)](https://www.legislation.gov.uk/nisr/2013/206/regulation/24/a) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/206/regulation/3), [19](https://www.legislation.gov.uk/nisr/2013/206/regulation/19))
+[^c-8bf8d74ebe4bd732a238f7566a7fc8d1]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/238/regulation/5) revoked (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013 (S.R. 2013/206)](https://www.legislation.gov.uk/nisr/2013/206), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/2/1), [24(a)](https://www.legislation.gov.uk/nisr/2013/206/regulation/24/a) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/206/regulation/3), [19](https://www.legislation.gov.uk/nisr/2013/206/regulation/19))

@@ -30,11 +30,11 @@ the court may grant an injunction restraining the contravention or, in Scotland,
 
 (2) In subsection (1) “**the court**” means the High Court or, in Scotland, the Court of Session.
 
-(3)[^key-b1410bafc39a3d9b94795afaaa932ff8] Where a sum is due to be paid to the National Lottery Distribution Fund by virtue of section 5(6)—
+(3)[^c-b1410bafc39a3d9b94795afaaa932ff8] Where a sum is due to be paid to the National Lottery Distribution Fund by virtue of section 5(6)—
 
 - (a) the sum shall be recoverable by the Secretary of State as a debt due to the Fund, and
 - (b) the licensee’s liability to pay shall not be affected by his licence ceasing to have effect.
 
 ## Annotations
 
-[^key-b1410bafc39a3d9b94795afaaa932ff8]: Textual amendment: S. 9(3) substituted (8.4.2005) by [Horserace Betting and Olympic Lottery Act 2004 (c. 25)](https://www.legislation.gov.uk/ukpga/2004/25), [ss. 34(5)](https://www.legislation.gov.uk/ukpga/2004/25/section/34/5), [40](https://www.legislation.gov.uk/ukpga/2004/25/section/40); [S.I. 2005/1134](https://www.legislation.gov.uk/uksi/2005/1134), [art. 2](https://www.legislation.gov.uk/uksi/2005/1134/article/2)
+[^c-b1410bafc39a3d9b94795afaaa932ff8]: Textual amendment: S. 9(3) substituted (8.4.2005) by [Horserace Betting and Olympic Lottery Act 2004 (c. 25)](https://www.legislation.gov.uk/ukpga/2004/25), [ss. 34(5)](https://www.legislation.gov.uk/ukpga/2004/25/section/34/5), [40](https://www.legislation.gov.uk/ukpga/2004/25/section/40); [S.I. 2005/1134](https://www.legislation.gov.uk/uksi/2005/1134), [art. 2](https://www.legislation.gov.uk/uksi/2005/1134/article/2)

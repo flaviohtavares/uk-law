@@ -45,13 +45,13 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by sections 6(4), 16(1)(e) and (f), 17(2), 26(1) and (3) and 48(1) of the Food Safety Act 1990[^f00001] and all other powers enabling them in that behalf, after having had regard, in accordance with section 48(4A)[^f00002] of that Act, to relevant advice given by the Food Standards Agency, hereby make the following Regulations:
 
-## 1. Citation, commencement and extent[^key-cb107414335673d00d4f02ce8ef90182]
+## 1. Citation, commencement and extent[^c-cb107414335673d00d4f02ce8ef90182]
 
 (1) These Regulations may be cited as the Food Labelling (Added Phytosterols or Phytostanols) (Scotland) Regulations 2005 and shall come into force on 1st February 2005.
 
 (2) The Regulations extend to Scotland only.
 
-## 2. Interpretation[^key-5a39ac71b560047606b0302c70462bb0]
+## 2. Interpretation[^c-5a39ac71b560047606b0302c70462bb0]
 
 (1) In these Regulations–
 
@@ -83,7 +83,7 @@ The Scottish Ministers, in exercise of the powers conferred by sections 6(4), 16
 
 (3) Other expressions used both in these Regulations and in Directive 2000/13 have the same meaning in these Regulations as they have in that Directive.
 
-## 3. Offences and penalties[^key-00a3e21e4e09ee6c0c337b3b57bab46d]
+## 3. Offences and penalties[^c-00a3e21e4e09ee6c0c337b3b57bab46d]
 
 Subject to regulation 4, any person who–
 
@@ -92,7 +92,7 @@ Subject to regulation 4, any person who–
 
 shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 4. Exemption[^key-198cd61345952b1fe71576b10ebe8d50]
+## 4. Exemption[^c-198cd61345952b1fe71576b10ebe8d50]
 
 In the case of–
 
@@ -102,7 +102,7 @@ In the case of–
 
 such food need not be labelled with any of the specified particulars other than the key particulars.
 
-## 5. Manner of labelling: general requirement[^key-ed62c21f940990b4e3d264cc04c1b015]
+## 5. Manner of labelling: general requirement[^c-ed62c21f940990b4e3d264cc04c1b015]
 
 When any food other than food to which regulation 6 applies is sold, any particulars with which it is required to be labelled by the Commission Regulation shall appear–
 
@@ -112,7 +112,7 @@ When any food other than food to which regulation 6 applies is sold, any particu
 
 save that, where the sale is otherwise than to the ultimate consumer, such particulars may, alternatively, appear only on the commercial documents relating to the food where it can be guaranteed that such documents, containing all such particulars, either accompany the food to which they relate or were sent before, or at the same time as, delivery of the food.
 
-## 6. Manner of labelling: special rules[^key-40121e25581d1076868253125bcb4776]
+## 6. Manner of labelling: special rules[^c-40121e25581d1076868253125bcb4776]
 
 (1) This regulation applies to–
 
@@ -131,7 +131,7 @@ save that, where the sale is otherwise than to the ultimate consumer, such parti
 - (b) on a ticket or notice which is readily discernible by the intending purchaser at the place where the purchaser chooses that food; or
 - (c) in commercial documents relating to the food where it can be guaranteed that such documents either accompany the food to which they relate or were sent before, or at the same time as, delivery of the food.
 
-## 7. Intelligibility of marking or labelling[^key-bff5411f9ba069eef9e75869dc819f2a]
+## 7. Intelligibility of marking or labelling[^c-bff5411f9ba069eef9e75869dc819f2a]
 
 (1) The particulars with which a food is required to be labelled by regulations 5 and 6, or which appear on a menu, notice, ticket or label pursuant to regulation 6, shall be easy to understand, clearly legible and indelible and, when a food is sold to the ultimate consumer, such particulars shall be marked in a conspicuous place in such a way as to be easily visible.
 
@@ -139,18 +139,18 @@ save that, where the sale is otherwise than to the ultimate consumer, such parti
 
 (3) Paragraph (1) shall not be taken to preclude the giving of such particulars at mass caterers, in respect of foods the variety and type of which are changed regularly, by means of temporary media (including the use of chalk on a blackboard).
 
-## 8. Enforcement[^key-7980985d2eb3ed3e9f8dc50f48ec546a]
+## 8. Enforcement[^c-7980985d2eb3ed3e9f8dc50f48ec546a]
 
 Each local authority shall enforce and execute these Regulations and the Commission Regulation in its area.
 
-## 9. Defence in relation to exports[^key-9104a45a36e72b1d31ad2bc7f85cd660]
+## 9. Defence in relation to exports[^c-9104a45a36e72b1d31ad2bc7f85cd660]
 
 In any proceedings for an offence under these Regulations, it shall be a defence for the person charged to prove that the food in respect of which the offence is alleged to have been committed–
 
 - (a) was intended for export to a country (other than a Member State) which has legislation analogous to the Commission Regulation and that the food complies with that legislation; or
 - (b) was intended for export to a Member State, is food to which the Commission Regulation applies, and that the food complies with the provisions of the Commission Regulation as read with Directive 2000/13 as applied in that Member State.
 
-## 10. Application of various provisions of the Act[^key-ecc8790358fd847525a17b26fc936ec4]
+## 10. Application of various provisions of the Act[^c-ecc8790358fd847525a17b26fc936ec4]
 
 (1) The following provisions of the Act shall apply for the purposes of these Regulations with the modification that any reference in those provisions to the Act or Part thereof shall be construed as a reference to these Regulations–
 
@@ -202,9 +202,9 @@ A full Regulatory Impact Assessment of the effect that these Regulations will ha
 
 [^f00002]: Footnote: Section 48(4A) was inserted by paragraph 21 of Schedule 5 to the 1999 Act.
 
-[^key-cb107414335673d00d4f02ce8ef90182]: Commencement: Reg. 1 in force at 1.2.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/1/regulation/1/1)
+[^c-cb107414335673d00d4f02ce8ef90182]: Commencement: Reg. 1 in force at 1.2.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/1/regulation/1/1)
 
-[^key-5a39ac71b560047606b0302c70462bb0]: Commencement: Reg. 2 in force at 1.2.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/1/regulation/1/1)
+[^c-5a39ac71b560047606b0302c70462bb0]: Commencement: Reg. 2 in force at 1.2.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/1/regulation/1/1)
 
 [^f00003]: Footnote: O.J. No. L 97, 1.4.04, p.44.
 
@@ -222,18 +222,18 @@ A full Regulatory Impact Assessment of the effect that these Regulations will ha
 
 [^f00010]: Footnote: [c.39](https://www.legislation.gov.uk/ukpga/1994/39). Section 2 was amended by the Environment Act 1995 Schedule 22, paragraph 232.
 
-[^key-00a3e21e4e09ee6c0c337b3b57bab46d]: Commencement: Reg. 3 in force at 1.2.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/1/regulation/1/1)
+[^c-00a3e21e4e09ee6c0c337b3b57bab46d]: Commencement: Reg. 3 in force at 1.2.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/1/regulation/1/1)
 
-[^key-198cd61345952b1fe71576b10ebe8d50]: Commencement: Reg. 4 in force at 1.2.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/1/regulation/1/1)
+[^c-198cd61345952b1fe71576b10ebe8d50]: Commencement: Reg. 4 in force at 1.2.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/1/regulation/1/1)
 
-[^key-ed62c21f940990b4e3d264cc04c1b015]: Commencement: Reg. 5 in force at 1.2.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/1/regulation/1/1)
+[^c-ed62c21f940990b4e3d264cc04c1b015]: Commencement: Reg. 5 in force at 1.2.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/1/regulation/1/1)
 
-[^key-40121e25581d1076868253125bcb4776]: Commencement: Reg. 6 in force at 1.2.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/1/regulation/1/1)
+[^c-40121e25581d1076868253125bcb4776]: Commencement: Reg. 6 in force at 1.2.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/1/regulation/1/1)
 
-[^key-bff5411f9ba069eef9e75869dc819f2a]: Commencement: Reg. 7 in force at 1.2.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/1/regulation/1/1)
+[^c-bff5411f9ba069eef9e75869dc819f2a]: Commencement: Reg. 7 in force at 1.2.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/1/regulation/1/1)
 
-[^key-7980985d2eb3ed3e9f8dc50f48ec546a]: Commencement: Reg. 8 in force at 1.2.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/1/regulation/1/1)
+[^c-7980985d2eb3ed3e9f8dc50f48ec546a]: Commencement: Reg. 8 in force at 1.2.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/1/regulation/1/1)
 
-[^key-9104a45a36e72b1d31ad2bc7f85cd660]: Commencement: Reg. 9 in force at 1.2.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/1/regulation/1/1)
+[^c-9104a45a36e72b1d31ad2bc7f85cd660]: Commencement: Reg. 9 in force at 1.2.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/1/regulation/1/1)
 
-[^key-ecc8790358fd847525a17b26fc936ec4]: Commencement: Reg. 10 in force at 1.2.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/1/regulation/1/1)
+[^c-ecc8790358fd847525a17b26fc936ec4]: Commencement: Reg. 10 in force at 1.2.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/1/regulation/1/1)

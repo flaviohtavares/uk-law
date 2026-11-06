@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43C. Power to search terrorist offenders released on licence[^key-71225f378f9b8ac895b4fd25e5a50e9a]
+## 43C. Power to search terrorist offenders released on licence[^c-71225f378f9b8ac895b4fd25e5a50e9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71225f378f9b8ac895b4fd25e5a50e9a]: Textual amendment: [S. 43C](https://www.legislation.gov.uk/ukpga/2000/11/section/43C) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 185](https://www.legislation.gov.uk/ukpga/2022/32/section/185), [208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w)
+[^c-71225f378f9b8ac895b4fd25e5a50e9a]: Textual amendment: [S. 43C](https://www.legislation.gov.uk/ukpga/2000/11/section/43C) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 185](https://www.legislation.gov.uk/ukpga/2022/32/section/185), [208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w)

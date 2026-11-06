@@ -56,7 +56,7 @@ may, on granting decree or within such period as the court may specify on granti
 - “**cottar**” has the same meaning as in section 12(5) of the Crofters (Scotland) Act 1993 (c. 44),
 - “**croft**” has the same meaning as in that Act of 1993,
 - “**holding**”, in relation to a landholder and a statutory small tenant, “**landholder**” and “**statutory small tenant**” have the same meanings respectively as in sections 2(1), 2(2) and 32(1) of the Small Landholders (Scotland) Act 1911 (c. 49),
-- “**long lease**” has the same meaning as in section 9(2) of the Land Registration[^key-f63b4513f1d722aa0eb6bdf4086c71e0] etc. (Scotland) Act 2012 (asp 5), and
+- “**long lease**” has the same meaning as in section 9(2) of the Land Registration[^c-f63b4513f1d722aa0eb6bdf4086c71e0] etc. (Scotland) Act 2012 (asp 5), and
 - “**tenant-at-will**” has the same meaning as in section 20(8) of that Act of 1979.
 
 (10) Where both civil partners are joint or common tenants of a family home, the court may, on the application of one of the civil partners, make an order vesting the tenancy in that civil partner solely and providing, subject to subsection (12), for the payment by the applicant to the other partner of such compensation as seems just and reasonable in the circumstances of the case.
@@ -80,4 +80,4 @@ may, on granting decree or within such period as the court may specify on granti
 
 ## Annotations
 
-[^key-f63b4513f1d722aa0eb6bdf4086c71e0]: Textual amendment: Words in s. 112(9) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 44](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/44) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-f63b4513f1d722aa0eb6bdf4086c71e0]: Textual amendment: Words in s. 112(9) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 44](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/44) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

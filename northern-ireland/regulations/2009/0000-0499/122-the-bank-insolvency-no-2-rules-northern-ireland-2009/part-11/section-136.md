@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 136. General duties of bank liquidator[^key-6fcd6dbe461a7e6189b72ea0df106cae]
+## 136. General duties of bank liquidator[^c-6fcd6dbe461a7e6189b72ea0df106cae]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.188 of the 1991 Rules.
 
 ## Annotations
 
-[^key-6fcd6dbe461a7e6189b72ea0df106cae]: Commencement: Rule 136 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-6fcd6dbe461a7e6189b72ea0df106cae]: Commencement: Rule 136 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

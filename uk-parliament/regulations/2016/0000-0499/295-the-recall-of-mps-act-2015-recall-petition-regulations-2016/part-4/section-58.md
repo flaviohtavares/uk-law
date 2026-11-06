@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Signing the petition as a proxy[^key-88c63dc049cc89a01711717caf21a90e]
+## 58. Signing the petition as a proxy[^c-88c63dc049cc89a01711717caf21a90e]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,14 +44,14 @@ summary: ''
 - (c) the officer is satisfied that the proxy has not signed the petition at the petition signing place allotted to the appointer under regulation 16; and
 - (d) that the application contains the applicant’s signature and date of birth and meets the requirements of Chapter 2 of this Part.
 
-(6A)[^key-4d235fbefb3cd002988646115e07ab99] Any grant of an application under paragraph (5) to sign by post as proxy at recall petitions in England, Wales or Scotland is to be for—
+(6A)[^c-4d235fbefb3cd002988646115e07ab99] Any grant of an application under paragraph (5) to sign by post as proxy at recall petitions in England, Wales or Scotland is to be for—
 
 - (a) the period ending with the third 31st January following the date on which the application is granted, or
 - (b) any shorter period specified in the application.
 
 (7) The registration officer must keep a record of those whose applications under paragraph (5) have been granted showing—
 
-- (a)[^key-33a9f1f1b315e460a8665ded8a2e4943] the period for which the applicant may sign recall petitions by post as proxy; and
+- (a)[^c-33a9f1f1b315e460a8665ded8a2e4943] the period for which the applicant may sign recall petitions by post as proxy; and
 - (b) the addresses provided by them in their applications as the addresses to which their signing sheets are to be sent.
 
 (8) Where, in the case of a particular petition, a person included in the record kept under paragraph (7) applies to the registration officer for their signing sheet to be sent to a different address to the one shown in the record, the registration officer must grant the application if it meets the requirements of Chapter 2 of this Part.
@@ -89,8 +89,8 @@ summary: ''
 
 ## Annotations
 
-[^key-88c63dc049cc89a01711717caf21a90e]: Commencement: Reg. 58 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-88c63dc049cc89a01711717caf21a90e]: Commencement: Reg. 58 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-4d235fbefb3cd002988646115e07ab99]: Textual amendment: Reg. 58(6A) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [19(8)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/8/a) (with [Sch. 2 paras. 33](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/33), [35](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/35), [36](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/36), [39](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/39))
+[^c-4d235fbefb3cd002988646115e07ab99]: Textual amendment: Reg. 58(6A) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [19(8)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/8/a) (with [Sch. 2 paras. 33](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/33), [35](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/35), [36](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/36), [39](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/39))
 
-[^key-33a9f1f1b315e460a8665ded8a2e4943]: Textual amendment: Reg. 58(7)(a) substituted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [19(8)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/8/b) (with [Sch. 2 paras. 33](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/33), [35](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/35), [36](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/36), [39](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/39))
+[^c-33a9f1f1b315e460a8665ded8a2e4943]: Textual amendment: Reg. 58(7)(a) substituted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [19(8)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/8/b) (with [Sch. 2 paras. 33](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/33), [35](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/35), [36](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/36), [39](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/39))

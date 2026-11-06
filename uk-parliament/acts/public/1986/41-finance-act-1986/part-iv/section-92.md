@@ -24,14 +24,14 @@ summary: ''
 
 (1A)[^c22550701] The first condition is that an instrument is (or instruments are) executed in pursuance of the agreement and the instrument transfers (or the instruments between them transfer) to B or, as the case may be, to his nominee all the chargeable securities to which the agreement relates.
 
-(1B)[^key-f34fe9a68993e5164576611bc215f3aa] The second condition is that the instrument (or each instrument) transferring the chargeable securities to which the agreement relates—
+(1B)[^c-f34fe9a68993e5164576611bc215f3aa] The second condition is that the instrument (or each instrument) transferring the chargeable securities to which the agreement relates—
 
 - (a) so far as those securities are stock or marketable securities within the meaning of section 125 of the Finance Act 2003 (abolition of stamp duty except on instruments relating to stock or marketable securities)—
   - (i) is duly stamped in accordance with the enactments relating to stamp duty, or
   - (ii) is not chargeable with stamp duty or otherwise required to be stamped under those enactments; or
 - (b) so far as those securities are not stock or marketable securities within the meaning of that section, is an instrument that, disregarding that section, would not be chargeable with any *ad valorem* stamp duty under those enactments.
 
-(1C)[^key-8f26944c80536d638338ac92eb565b65] If, as regards an agreement to transfer shares in a company to that company (“**the own-shares agreement**”)—
+(1C)[^c-8f26944c80536d638338ac92eb565b65] If, as regards an agreement to transfer shares in a company to that company (“**the own-shares agreement**”)—
 
 - (a) tax is charged under section 87 above, and
 - (b) it is proved to the Board’s satisfaction that at a time in the period of six years beginning on the relevant day (as defined in section 87(3)) the conditions mentioned in subsection (1D) have been fulfilled in respect of those shares,
@@ -40,10 +40,10 @@ subsections (2) to (4A) apply.
 
 (1D) The conditions referred to in subsection (1C) are—
 
-- (a) that, in relation to the transfer made in pursuance of the own-shares agreement, a return has been made in respect of each of those shares in accordance with section 707[^key-6128e0967bca754cafdff1109529eddc] of the Companies Act 2006 (disclosure by company of purchase of own shares), and
+- (a) that, in relation to the transfer made in pursuance of the own-shares agreement, a return has been made in respect of each of those shares in accordance with section 707[^c-6128e0967bca754cafdff1109529eddc] of the Companies Act 2006 (disclosure by company of purchase of own shares), and
 - (b) that any such return has been duly stamped in accordance with section 66.
 
-(2) If any of the tax charged has been paid, and a claim for repayment is made within the period of six years mentioned in subsection (1) or, as the case may be, (1C)[^key-5cdddf9c7045e23d3d6f7dbb7e85abf5] above, the tax paid shall be repaid; and where the tax paid is not less than £25 it shall be repaid with interest on it at the rate applicable under section 178 of the Finance Act 1989[^c22524941] from the time it was paid.
+(2) If any of the tax charged has been paid, and a claim for repayment is made within the period of six years mentioned in subsection (1) or, as the case may be, (1C)[^c-5cdddf9c7045e23d3d6f7dbb7e85abf5] above, the tax paid shall be repaid; and where the tax paid is not less than £25 it shall be repaid with interest on it at the rate applicable under section 178 of the Finance Act 1989[^c22524941] from the time it was paid.
 
 (3) To the extent that the tax charged has not been paid, the charge shall be cancelled by virtue of this subsection.
 
@@ -71,13 +71,13 @@ subsections (2) to (4A) apply.
 
 [^c22550701]: Textual amendment: S. 92(1A)(1B) inserted (with effect as mentioned in [s. 192(6)](https://www.legislation.gov.uk/ukpga/1996/8/section/192/6) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [s. 192(4)](https://www.legislation.gov.uk/ukpga/1996/8/section/192/4)
 
-[^key-f34fe9a68993e5164576611bc215f3aa]: Textual amendment: S. 92(1B) substituted (1.12.2003) by [The Stamp Duty and Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2868)](https://www.legislation.gov.uk/uksi/2003/2868), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2868/regulation/1), [4](https://www.legislation.gov.uk/uksi/2003/2868/regulation/4)
+[^c-f34fe9a68993e5164576611bc215f3aa]: Textual amendment: S. 92(1B) substituted (1.12.2003) by [The Stamp Duty and Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2868)](https://www.legislation.gov.uk/uksi/2003/2868), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2868/regulation/1), [4](https://www.legislation.gov.uk/uksi/2003/2868/regulation/4)
 
-[^key-8f26944c80536d638338ac92eb565b65]: Textual amendment: S. 92(1C)(1D) inserted (with effect in accordance with s. 195(12) of the amending Act and with effect 1.12.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 40 para. 4(2)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/40/paragraph/4/2); [S.I. 2003/3077](https://www.legislation.gov.uk/uksi/2003/3077), [art. 2](https://www.legislation.gov.uk/uksi/2003/3077/article/2)
+[^c-8f26944c80536d638338ac92eb565b65]: Textual amendment: S. 92(1C)(1D) inserted (with effect in accordance with s. 195(12) of the amending Act and with effect 1.12.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 40 para. 4(2)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/40/paragraph/4/2); [S.I. 2003/3077](https://www.legislation.gov.uk/uksi/2003/3077), [art. 2](https://www.legislation.gov.uk/uksi/2003/3077/article/2)
 
-[^key-6128e0967bca754cafdff1109529eddc]: Textual amendment: Word in [s. 92(1D)(a)](https://www.legislation.gov.uk/ukpga/1986/41/section/92/1D/a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2009 (S.I. 2009/1890)](https://www.legislation.gov.uk/uksi/2009/1890), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1890/article/1/1), [7(e)](https://www.legislation.gov.uk/uksi/2009/1890/article/7/e)
+[^c-6128e0967bca754cafdff1109529eddc]: Textual amendment: Word in [s. 92(1D)(a)](https://www.legislation.gov.uk/ukpga/1986/41/section/92/1D/a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2009 (S.I. 2009/1890)](https://www.legislation.gov.uk/uksi/2009/1890), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1890/article/1/1), [7(e)](https://www.legislation.gov.uk/uksi/2009/1890/article/7/e)
 
-[^key-5cdddf9c7045e23d3d6f7dbb7e85abf5]: Textual amendment: Words in s. 92(2) inserted (with effect in accordance with s. 195(12) of the amending Act and with effect 1.12.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 40 para. 4(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/40/paragraph/4/3); [S.I. 2003/3077](https://www.legislation.gov.uk/uksi/2003/3077), [art. 2](https://www.legislation.gov.uk/uksi/2003/3077/article/2)
+[^c-5cdddf9c7045e23d3d6f7dbb7e85abf5]: Textual amendment: Words in s. 92(2) inserted (with effect in accordance with s. 195(12) of the amending Act and with effect 1.12.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 40 para. 4(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/40/paragraph/4/3); [S.I. 2003/3077](https://www.legislation.gov.uk/uksi/2003/3077), [art. 2](https://www.legislation.gov.uk/uksi/2003/3077/article/2)
 
 [^c22524941]: Textual amendment: Words in s. 92(2) substituted (with effect as mentioned in [s. 179(4)](https://www.legislation.gov.uk/ukpga/1989/26/section/179/4) of the amending Act) by [Finance Act 1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), [s. 179(1)(f)](https://www.legislation.gov.uk/ukpga/1989/26/section/179/1/f)
 

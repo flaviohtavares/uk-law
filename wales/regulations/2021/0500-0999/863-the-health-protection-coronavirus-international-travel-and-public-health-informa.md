@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-The Health Protection (Coronavirus, International Travel and Public Health Information to Travellers) (Wales) (Miscellaneous Amendments) (No. 2) Regulations 2021 (revoked)[^key-f0ddfac1c65e94a621887e4601faf30f]
+The Health Protection (Coronavirus, International Travel and Public Health Information to Travellers) (Wales) (Miscellaneous Amendments) (No. 2) Regulations 2021 (revoked)[^c-f0ddfac1c65e94a621887e4601faf30f]
 
 Made
 
@@ -45,83 +45,83 @@ Coming into force
 
 at 4.00 a.m. on 19 July 2021
 
-[^key-f0ddfac1c65e94a621887e4601faf30f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0ddfac1c65e94a621887e4601faf30f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and coming into force[^key-f0ddfac1c65e94a621887e4601faf30f]
+## 1. Title and coming into force[^c-f0ddfac1c65e94a621887e4601faf30f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Health Protection (Coronavirus, International Travel) (Wales) Regulations 2020[^key-f0ddfac1c65e94a621887e4601faf30f]
+## 2. Amendments to the Health Protection (Coronavirus, International Travel) (Wales) Regulations 2020[^c-f0ddfac1c65e94a621887e4601faf30f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to regulation 2[^key-f0ddfac1c65e94a621887e4601faf30f]
+## 3. Amendments to regulation 2[^c-f0ddfac1c65e94a621887e4601faf30f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. New regulation 2A[^key-f0ddfac1c65e94a621887e4601faf30f]
+## 4. New regulation 2A[^c-f0ddfac1c65e94a621887e4601faf30f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to regulation 6AB[^key-f0ddfac1c65e94a621887e4601faf30f]
+## 5. Amendments to regulation 6AB[^c-f0ddfac1c65e94a621887e4601faf30f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendments to regulation 6DB[^key-f0ddfac1c65e94a621887e4601faf30f]
+## 6. Amendments to regulation 6DB[^c-f0ddfac1c65e94a621887e4601faf30f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendments to regulation 6HB[^key-f0ddfac1c65e94a621887e4601faf30f]
+## 7. Amendments to regulation 6HB[^c-f0ddfac1c65e94a621887e4601faf30f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendments to regulation 6K[^key-f0ddfac1c65e94a621887e4601faf30f]
+## 8. Amendments to regulation 6K[^c-f0ddfac1c65e94a621887e4601faf30f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. New regulation 6L[^key-f0ddfac1c65e94a621887e4601faf30f]
+## 9. New regulation 6L[^c-f0ddfac1c65e94a621887e4601faf30f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendments to regulation 9[^key-f0ddfac1c65e94a621887e4601faf30f]
+## 10. Amendments to regulation 9[^c-f0ddfac1c65e94a621887e4601faf30f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendments to regulation 14[^key-f0ddfac1c65e94a621887e4601faf30f]
+## 11. Amendments to regulation 14[^c-f0ddfac1c65e94a621887e4601faf30f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment to regulation 16[^key-f0ddfac1c65e94a621887e4601faf30f]
+## 12. Amendment to regulation 16[^c-f0ddfac1c65e94a621887e4601faf30f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Amendment to Schedule 1[^key-f0ddfac1c65e94a621887e4601faf30f]
+## 13. Amendment to Schedule 1[^c-f0ddfac1c65e94a621887e4601faf30f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. New Schedule 1E[^key-f0ddfac1c65e94a621887e4601faf30f]
+## 14. New Schedule 1E[^c-f0ddfac1c65e94a621887e4601faf30f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Amendments to Schedule 3[^key-f0ddfac1c65e94a621887e4601faf30f]
+## 15. Amendments to Schedule 3[^c-f0ddfac1c65e94a621887e4601faf30f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Amendments to Schedule 3A[^key-f0ddfac1c65e94a621887e4601faf30f]
+## 16. Amendments to Schedule 3A[^c-f0ddfac1c65e94a621887e4601faf30f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Amendments to the Health Protection (Coronavirus, Public Health Information for Persons Travelling to Wales etc.) Regulations 2020[^key-f0ddfac1c65e94a621887e4601faf30f]
+## 17. Amendments to the Health Protection (Coronavirus, Public Health Information for Persons Travelling to Wales etc.) Regulations 2020[^c-f0ddfac1c65e94a621887e4601faf30f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0ddfac1c65e94a621887e4601faf30f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0ddfac1c65e94a621887e4601faf30f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-f0ddfac1c65e94a621887e4601faf30f]EXPLANATORY NOTE
+[^c-f0ddfac1c65e94a621887e4601faf30f]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -151,4 +151,4 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 ## Annotations
 
-[^key-f0ddfac1c65e94a621887e4601faf30f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/863) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 44](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/44)
+[^c-f0ddfac1c65e94a621887e4601faf30f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/863) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 44](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/44)

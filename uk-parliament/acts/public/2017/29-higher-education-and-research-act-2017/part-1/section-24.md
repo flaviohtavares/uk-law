@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Quality Assessment Committee[^key-99de982b7fd725563cf79279bf36e4f6]
+## 24. Quality Assessment Committee[^c-99de982b7fd725563cf79279bf36e4f6]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99de982b7fd725563cf79279bf36e4f6]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2017/29/section/24) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/c)
+[^c-99de982b7fd725563cf79279bf36e4f6]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2017/29/section/24) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/c)

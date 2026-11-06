@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.5. Costs of proving[^key-29f046f0a60698919e2a928cade8608c]
+## 5.5. Costs of proving[^c-29f046f0a60698919e2a928cade8608c]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Unless the court otherwise orders—
 
 ## Annotations
 
-[^key-29f046f0a60698919e2a928cade8608c]: Commencement: Rule 5.5 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-29f046f0a60698919e2a928cade8608c]: Commencement: Rule 5.5 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

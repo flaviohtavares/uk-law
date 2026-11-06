@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Service of notices[^key-cabf09504263c091ccf70b54e428f8c6]
+## 54. Service of notices[^c-cabf09504263c091ccf70b54e428f8c6]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cabf09504263c091ccf70b54e428f8c6]: Commencement: [Reg. 54](https://www.legislation.gov.uk/wsi/2015/140/regulation/54) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-cabf09504263c091ccf70b54e428f8c6]: Commencement: [Reg. 54](https://www.legislation.gov.uk/wsi/2015/140/regulation/54) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)

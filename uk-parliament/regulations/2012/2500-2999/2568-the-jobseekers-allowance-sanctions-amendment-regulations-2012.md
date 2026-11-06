@@ -44,9 +44,9 @@ In accordance with section 37(1)(ab) of the Jobseekers Act 1995[^f00001] a draft
 
 The Secretary of State for Work and Pensions makes the following Regulations in exercise of the powers conferred by sections 8[^f00002], 19(2)(e), (3), (4), (5) and (6), 19A(4), (5) and (9), 19B(1), (2), (3), (4), (6) and (7)[^f00003], 35[^f00004] and 36(2) and (4) of, and paragraph 14AA[^f00005] of Schedule 1 to, the Jobseekers Act 1995.
 
-This instrument contains only regulations made by virtue of, or consequential on, sections 45 and 46 of, and Schedule 7 to, the Welfare Reform Act 2012[^f00006] and is made before the end of the period of 6 months beginning with the coming into force of those provisions[^f00007].[^key-af5b15b4e699e8a8d6fe476a3c0e9cb9]
+This instrument contains only regulations made by virtue of, or consequential on, sections 45 and 46 of, and Schedule 7 to, the Welfare Reform Act 2012[^f00006] and is made before the end of the period of 6 months beginning with the coming into force of those provisions[^f00007].[^c-af5b15b4e699e8a8d6fe476a3c0e9cb9]
 
-## 1. Citation, commencement and interpretation[^key-123b47be09cb81547d2121551cb97fe4]
+## 1. Citation, commencement and interpretation[^c-123b47be09cb81547d2121551cb97fe4]
 
 (1) These Regulations may be cited as the Jobseeker’s Allowance (Sanctions) (Amendment) Regulations 2012 and shall come into force on 22nd October 2012.
 
@@ -55,7 +55,7 @@ This instrument contains only regulations made by virtue of, or consequential on
 - “the Act” means the Jobseekers Act 1995;
 - “the JSA Regulations” means the Jobseeker’s Allowance Regulations 1996[^f00008].
 
-## 2. Amendment of Part V of the JSA Regulations (Sanctions)[^key-36bee5ac1f611099c508fdc25d1cd675]
+## 2. Amendment of Part V of the JSA Regulations (Sanctions)[^c-36bee5ac1f611099c508fdc25d1cd675]
 
 (1) Part V of the JSA Regulations (sanctions) is amended as follows.
 
@@ -297,7 +297,7 @@ This instrument contains only regulations made by virtue of, or consequential on
 
     .
 
-## 3. Amendment of Part IX of the JSA Regulations (Hardship)[^key-dc26242b1135c3e6de769b6c87c7ea23]
+## 3. Amendment of Part IX of the JSA Regulations (Hardship)[^c-dc26242b1135c3e6de769b6c87c7ea23]
 
 (1) Part IX of the JSA Regulations (hardship) is amended as follows.
 
@@ -316,7 +316,7 @@ This instrument contains only regulations made by virtue of, or consequential on
 - (a) for the words from “section 19” to “to him”, substitute “his award of jobseeker’s allowance has been reduced in accordance with section 19 or 19A or regulation 69B”; and
 - (b) in sub-paragraph (a), for “section 19” substitute “the reduction”.
 
-## 4. Amendment of Part IXA of the JSA Regulations (Hardship for joint-claim couples)[^key-c25dc24798ca007c8c0f4dedbc9a0cc9]
+## 4. Amendment of Part IXA of the JSA Regulations (Hardship for joint-claim couples)[^c-c25dc24798ca007c8c0f4dedbc9a0cc9]
 
 (1) Part IXA of the JSA Regulations (hardship for joint-claim couples)[^f00021] is amended as follows.
 
@@ -335,7 +335,7 @@ This instrument contains only regulations made by virtue of, or consequential on
 - (a) for the words from “section 20A(5)(a)” to “payable to them”, substitute “the award of joint-claim jobseeker’s allowance has been reduced in accordance with section 19 or 19A or regulation 69B”; and
 - (b) in sub-paragraph (a), for “section 20A”, substitute “the reduction”.
 
-## 5. Further consequential amendments of the JSA Regulations[^key-c526ebe2657b8f7777d4408e4e37e026]
+## 5. Further consequential amendments of the JSA Regulations[^c-c526ebe2657b8f7777d4408e4e37e026]
 
 (1) The JSA Regulations are further amended as follows.
 
@@ -424,7 +424,7 @@ This instrument contains only regulations made by virtue of, or consequential on
 
 (21) In regulation 161 (additional conditions for payment of a jobseeker’s allowance)[^f00045] in paragraph (3)(d), for “ good cause” substitute “a good reason”.
 
-## 6. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations 1999[^key-d259f95ea72d3024aa2f869857ae47d4]
+## 6. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations 1999[^c-d259f95ea72d3024aa2f869857ae47d4]
 
 (1) The Social Security and Child Support (Decisions and Appeals) Regulations 1999[^f00046] are amended as follows.
 
@@ -455,18 +455,18 @@ This instrument contains only regulations made by virtue of, or consequential on
   ;
 - (c) omit paragraph (8ZB).
 
-## 7. Amendment of the Jobseeker’s Allowance (Employment, Skills and Enterprise Scheme) Regulations 2011[^key-54b3bf9b11f23f0ac0a1b7a86284e5d9]
+## 7. Amendment of the Jobseeker’s Allowance (Employment, Skills and Enterprise Scheme) Regulations 2011[^c-54b3bf9b11f23f0ac0a1b7a86284e5d9]
 
 The following provisions of the Jobseeker’s Allowance (Employment, Skills and Enterprise Scheme) Regulations 2011[^f00050] are revoked—
 
 - (a) regulations 7 (good cause), 8 (consequences of failure to participate in the scheme), 9 (hardship), 10 (hardship for joint-claim couples) and 17 (consequential amendments relating to decisions and appeals);
 - (b) sub-paragraph (c) of regulation 18(2) (contracting out certain functions of the scheme) and the “and” which precedes it.
 
-## 8. Amendment of the Jobseeker’s Allowance (Mandatory Work Activity Scheme) Regulations 2011[^key-091058d54dae3d90821e398194b5699e]
+## 8. Amendment of the Jobseeker’s Allowance (Mandatory Work Activity Scheme) Regulations 2011[^c-091058d54dae3d90821e398194b5699e]
 
 Regulations 7 (good cause) and 8 (consequences of failure to participate in the scheme) of the Jobseeker’s Allowance (Mandatory Work Activity Scheme) Regulations 2011[^f00051] are revoked.
 
-## 9. Amendment of the Social Security (Credits) Regulations 1975[^key-70c2d57dfd776669f0fa92a77d2398a8]
+## 9. Amendment of the Social Security (Credits) Regulations 1975[^c-70c2d57dfd776669f0fa92a77d2398a8]
 
 In paragraph (5) of regulation 8A of the Social Security (Credits) Regulations 1975[^f00052] for sub-paragraphs (ba), (c) and (cc) substitute—
 
@@ -549,13 +549,13 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^f00007]: Footnote: See section 173(5) of the Social Security Administration Act 1992. The requirement to refer regulations to the Social Security Advisory Committee does not apply where regulations are contained in a statutory instrument made before the end of the period of six months beginning with the coming into force of the enactment by virtue of which the regulations were made.
 
-[^key-af5b15b4e699e8a8d6fe476a3c0e9cb9]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2012/2568) excluded (26.3.2013) by [Jobseekers (Back to Work Schemes) Act 2013 (c. 17)](https://www.legislation.gov.uk/ukpga/2013/17), [ss. 1(10)](https://www.legislation.gov.uk/ukpga/2013/17/section/1/10), [3(2)](https://www.legislation.gov.uk/ukpga/2013/17/section/3/2)
+[^c-af5b15b4e699e8a8d6fe476a3c0e9cb9]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2012/2568) excluded (26.3.2013) by [Jobseekers (Back to Work Schemes) Act 2013 (c. 17)](https://www.legislation.gov.uk/ukpga/2013/17), [ss. 1(10)](https://www.legislation.gov.uk/ukpga/2013/17/section/1/10), [3(2)](https://www.legislation.gov.uk/ukpga/2013/17/section/3/2)
 
-[^key-123b47be09cb81547d2121551cb97fe4]: Commencement: Reg. 1 in force at 22.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1)
+[^c-123b47be09cb81547d2121551cb97fe4]: Commencement: Reg. 1 in force at 22.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1)
 
 [^f00008]: Footnote: [S.I.1996/207](https://www.legislation.gov.uk/uksi/1996/207).
 
-[^key-36bee5ac1f611099c508fdc25d1cd675]: Commencement: Reg. 2 in force at 22.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1)
+[^c-36bee5ac1f611099c508fdc25d1cd675]: Commencement: Reg. 2 in force at 22.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1)
 
 [^f00009]: Footnote: Regulation 14 has been amended but not in ways material to these Regulations.
 
@@ -575,7 +575,7 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^f00017]: Footnote: Regulation 75 has been amended but not in ways material to these Regulations.
 
-[^key-dc26242b1135c3e6de769b6c87c7ea23]: Commencement: Reg. 3 in force at 22.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1)
+[^c-dc26242b1135c3e6de769b6c87c7ea23]: Commencement: Reg. 3 in force at 22.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1)
 
 [^f00018]: Footnote: Regulation 140(1)(f)(i) was amended by [S.I. 2011/688](https://www.legislation.gov.uk/uksi/2011/688). Paragraph 4 was amended by [S.I. 2005/2687](https://www.legislation.gov.uk/uksi/2005/2687). Paragraph 4A was inserted by [S.I. 1997/2863](https://www.legislation.gov.uk/uksi/1997/2863) and amended in ways not material to these regulations. Paragraph 4B was inserted by [S.I. 2009/480](https://www.legislation.gov.uk/uksi/2009/480).
 
@@ -583,7 +583,7 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^f00020]: Footnote: Paragraph (6) of regulation 141 was amended by [S.I. 2010/509](https://www.legislation.gov.uk/uksi/2010/509), [2010//1222](https://www.legislation.gov.uk/uksi/2010/1222), and [2011/688](https://www.legislation.gov.uk/uksi/2011/688).
 
-[^key-c25dc24798ca007c8c0f4dedbc9a0cc9]: Commencement: Reg. 4 in force at 22.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1)
+[^c-c25dc24798ca007c8c0f4dedbc9a0cc9]: Commencement: Reg. 4 in force at 22.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1)
 
 [^f00021]: Footnote: Part IXA was inserted by [S.I. 2000/1978](https://www.legislation.gov.uk/uksi/2000/1978).
 
@@ -595,7 +595,7 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^f00025]: Footnote: Paragraph (5) of regulation 146D was inserted by [S.I. 2000/1978](https://www.legislation.gov.uk/uksi/2000/1978).
 
-[^key-c526ebe2657b8f7777d4408e4e37e026]: Commencement: Reg. 5 in force at 22.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1)
+[^c-c526ebe2657b8f7777d4408e4e37e026]: Commencement: Reg. 5 in force at 22.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1)
 
 [^f00026]: Footnote: The definition of “employment officer” in regulation 4 was amended by [S.I. 2010/509](https://www.legislation.gov.uk/uksi/2010/509).
 
@@ -637,7 +637,7 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^f00045]: Footnote: Regulation 161 has been amended in ways not material to these Regulations.
 
-[^key-d259f95ea72d3024aa2f869857ae47d4]: Commencement: Reg. 6 in force at 22.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1)
+[^c-d259f95ea72d3024aa2f869857ae47d4]: Commencement: Reg. 6 in force at 22.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1)
 
 [^f00046]: Footnote: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991).
 
@@ -647,14 +647,14 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^f00049]: Footnote: Paragraph (8ZA) was inserted by [S.I. 2011/688](https://www.legislation.gov.uk/uksi/2011/688)**.**
 
-[^key-54b3bf9b11f23f0ac0a1b7a86284e5d9]: Commencement: Reg. 7 in force at 22.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1)
+[^c-54b3bf9b11f23f0ac0a1b7a86284e5d9]: Commencement: Reg. 7 in force at 22.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1)
 
 [^f00050]: Footnote: [S.I. 2011/917](https://www.legislation.gov.uk/uksi/2011/917).
 
-[^key-091058d54dae3d90821e398194b5699e]: Commencement: Reg. 8 in force at 22.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1)
+[^c-091058d54dae3d90821e398194b5699e]: Commencement: Reg. 8 in force at 22.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1)
 
 [^f00051]: Footnote: [S.I. 2011/688](https://www.legislation.gov.uk/uksi/2011/688).
 
-[^key-70c2d57dfd776669f0fa92a77d2398a8]: Commencement: Reg. 9 in force at 22.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1)
+[^c-70c2d57dfd776669f0fa92a77d2398a8]: Commencement: Reg. 9 in force at 22.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1)
 
 [^f00052]: Footnote: [S.I.1975/556](https://www.legislation.gov.uk/uksi/1975/556). Regulation 8A was inserted by [S.I 1996/2367](https://www.legislation.gov.uk/uksi/1996/2367). In paragraph (5) sub-paragraph (ba) was inserted by [S.I 2011/688](https://www.legislation.gov.uk/uksi/2011/688): sub-paragraph (c) was amended by [S.I 2010/509](https://www.legislation.gov.uk/uksi/2010/509) and sub-paragraph (cc) was inserted by [S.I 2001/516](https://www.legislation.gov.uk/uksi/2001/516) and amended by [S.I 2010/509](https://www.legislation.gov.uk/uksi/2010/509).

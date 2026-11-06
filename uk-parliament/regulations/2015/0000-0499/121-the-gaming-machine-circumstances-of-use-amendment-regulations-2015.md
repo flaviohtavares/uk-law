@@ -32,7 +32,7 @@ summary: ''
 
 Betting, Gaming And Lotteries
 
-The Gaming Machine (Circumstances of Use) (Amendment) Regulations 2015 (revoked)[^key-1e12471d12b2597a0970f23b92a2f725]
+The Gaming Machine (Circumstances of Use) (Amendment) Regulations 2015 (revoked)[^c-1e12471d12b2597a0970f23b92a2f725]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 6th April 2015
 
-[^key-1e12471d12b2597a0970f23b92a2f725]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e12471d12b2597a0970f23b92a2f725]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-1e12471d12b2597a0970f23b92a2f725]
+## 1. Title and commencement[^c-1e12471d12b2597a0970f23b92a2f725]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Gaming Machine (Circumstances of Use) Regulations 2007[^key-1e12471d12b2597a0970f23b92a2f725]
+## 2. Amendment of the Gaming Machine (Circumstances of Use) Regulations 2007[^c-1e12471d12b2597a0970f23b92a2f725]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e12471d12b2597a0970f23b92a2f725]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e12471d12b2597a0970f23b92a2f725]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1e12471d12b2597a0970f23b92a2f725]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e12471d12b2597a0970f23b92a2f725]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1e12471d12b2597a0970f23b92a2f725]: Textual amendment: Regulations revoked (1.4.2019) by [The Gaming Machine (Miscellaneous Amendments and Revocation) Regulations 2018 (S.I. 2018/1402)](https://www.legislation.gov.uk/uksi/2018/1402), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1402/regulation/1), [4](https://www.legislation.gov.uk/uksi/2018/1402/regulation/4)
+[^c-1e12471d12b2597a0970f23b92a2f725]: Textual amendment: Regulations revoked (1.4.2019) by [The Gaming Machine (Miscellaneous Amendments and Revocation) Regulations 2018 (S.I. 2018/1402)](https://www.legislation.gov.uk/uksi/2018/1402), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1402/regulation/1), [4](https://www.legislation.gov.uk/uksi/2018/1402/regulation/4)

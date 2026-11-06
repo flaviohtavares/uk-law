@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Further provision about remand[^M_I_accc33bd-a093-4232-f729-eb142c7f6691][^M_I_bc6d582a-a1d7-40f3-f147-ee9e97ade4f2][^key-95bc46b4238cddd172ddfe2a0ce1b3af][^key-15eab99c1726f5b0e34e73663f912b65]
+## 30. Further provision about remand[^M_I_accc33bd-a093-4232-f729-eb142c7f6691][^M_I_bc6d582a-a1d7-40f3-f147-ee9e97ade4f2][^c-95bc46b4238cddd172ddfe2a0ce1b3af][^c-15eab99c1726f5b0e34e73663f912b65]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 [^M_I_bc6d582a-a1d7-40f3-f147-ee9e97ade4f2]: Commencement: S. 30 coming into force (temp.) (7.10.2011 for specified police areas and policing divisions for a period ending on 29.6.2012 so that the Secretary of State may assess the effectiveness of this provision) by [The Crime and Security Act 2010 (Domestic Violence: Pilot Schemes) Order (No. 2) 2011 (S.I. 2011/2279)](https://www.legislation.gov.uk/uksi/2011/2279), [arts. 2](https://www.legislation.gov.uk/uksi/2011/2279/article/2), [3](https://www.legislation.gov.uk/uksi/2011/2279/article/3)
 
-[^key-95bc46b4238cddd172ddfe2a0ce1b3af]: Commencement: S. 30 in force at 30.6.2012 for specified purposes by [S.I. 2012/1615](https://www.legislation.gov.uk/uksi/2012/1615), [arts. 2](https://www.legislation.gov.uk/uksi/2012/1615/article/2), [3](https://www.legislation.gov.uk/uksi/2012/1615/article/3)
+[^c-95bc46b4238cddd172ddfe2a0ce1b3af]: Commencement: S. 30 in force at 30.6.2012 for specified purposes by [S.I. 2012/1615](https://www.legislation.gov.uk/uksi/2012/1615), [arts. 2](https://www.legislation.gov.uk/uksi/2012/1615/article/2), [3](https://www.legislation.gov.uk/uksi/2012/1615/article/3)
 
-[^key-15eab99c1726f5b0e34e73663f912b65]: Commencement: S. 30 in force at 8.3.2014 in so far as not already in force by [S.I. 2014/478](https://www.legislation.gov.uk/uksi/2014/478), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/478/article/2/a)
+[^c-15eab99c1726f5b0e34e73663f912b65]: Commencement: S. 30 in force at 8.3.2014 in so far as not already in force by [S.I. 2014/478](https://www.legislation.gov.uk/uksi/2014/478), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/478/article/2/a)

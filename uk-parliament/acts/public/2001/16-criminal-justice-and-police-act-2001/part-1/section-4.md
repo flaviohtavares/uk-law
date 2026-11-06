@@ -31,14 +31,14 @@ summary: ''
 
 (4) A request which is made in accordance with subsection (3) is referred to in this Chapter as a “**request to be tried**”.
 
-(5) In the case of a penalty notice that is not a penalty notice with an education option, if[^key-dbd32ec96f89f9b6d92f3837cc987856], by the end of the suspended enforcement period—
+(5) In the case of a penalty notice that is not a penalty notice with an education option, if[^c-dbd32ec96f89f9b6d92f3837cc987856], by the end of the suspended enforcement period—
 
 - (a) the penalty has not been paid in accordance with this Chapter, and
 - (b) A has not made a request to be tried,
 
 a sum equal to one and a half times the amount of the penalty may be registered under section 8 for enforcement against A as a fine.
 
-(6)[^key-8a1a5100759ff7dbec4afe2d23c8f00e] In the case of a penalty notice with an education option, a sum equal to one and a half times the amount of the penalty may be registered under section 8 for enforcement against A as a fine if subsection (7) or (8) applies.
+(6)[^c-8a1a5100759ff7dbec4afe2d23c8f00e] In the case of a penalty notice with an education option, a sum equal to one and a half times the amount of the penalty may be registered under section 8 for enforcement against A as a fine if subsection (7) or (8) applies.
 
 (7) This subsection applies if, by the end of the suspended enforcement period, A does not—
 
@@ -67,6 +67,6 @@ a sum equal to one and a half times the amount of the penalty may be registered 
 
 ## Annotations
 
-[^key-dbd32ec96f89f9b6d92f3837cc987856]: Textual amendment: Words in s. 4(5) substituted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 23 para. 6(2)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/23/paragraph/6/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(e)](https://www.legislation.gov.uk/uksi/2013/453/article/4/e)
+[^c-dbd32ec96f89f9b6d92f3837cc987856]: Textual amendment: Words in s. 4(5) substituted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 23 para. 6(2)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/23/paragraph/6/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(e)](https://www.legislation.gov.uk/uksi/2013/453/article/4/e)
 
-[^key-8a1a5100759ff7dbec4afe2d23c8f00e]: Textual amendment: S. 4(6)-(10) inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 23 para. 6(3)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/23/paragraph/6/3); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(e)](https://www.legislation.gov.uk/uksi/2013/453/article/4/e)
+[^c-8a1a5100759ff7dbec4afe2d23c8f00e]: Textual amendment: S. 4(6)-(10) inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 23 para. 6(3)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/23/paragraph/6/3); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(e)](https://www.legislation.gov.uk/uksi/2013/453/article/4/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 201. Monmouth — community ward electoral arrangements[^key-48717ae130b0d56275e97fc6e773a228][^key-6b05201ebb85ee83115894353ff6339e]
+## 201. Monmouth — community ward electoral arrangements[^c-48717ae130b0d56275e97fc6e773a228][^c-6b05201ebb85ee83115894353ff6339e]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ In the community of Monmouth the number of councillors to be elected for the—
 
 ## Annotations
 
-[^key-48717ae130b0d56275e97fc6e773a228]: Commencement: Art. 201 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-48717ae130b0d56275e97fc6e773a228]: Commencement: Art. 201 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-6b05201ebb85ee83115894353ff6339e]: Commencement: [Art. 201](https://www.legislation.gov.uk/wsi/2021/1227/article/201) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-6b05201ebb85ee83115894353ff6339e]: Commencement: [Art. 201](https://www.legislation.gov.uk/wsi/2021/1227/article/201) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

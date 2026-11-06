@@ -31,42 +31,42 @@ Teaching Council (Scotland) Act 1971 (repealed)
 
 1971 c.2
 
-[^key-e80a101c3aa625742ff62300b5c5ee6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e80a101c3aa625742ff62300b5c5ee6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[17th February 1971\]
 
 **No longer in force.**
 
-## 1. Regulations for the deduction of fees for renewal of registration from salaries of certain persons, and the remittance of those fees to the General Teaching Council for Scotland.[^key-e80a101c3aa625742ff62300b5c5ee6d][^key-e80a101c3aa625742ff62300b5c5ee6d]
+## 1. Regulations for the deduction of fees for renewal of registration from salaries of certain persons, and the remittance of those fees to the General Teaching Council for Scotland.[^c-e80a101c3aa625742ff62300b5c5ee6d][^c-e80a101c3aa625742ff62300b5c5ee6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Regulations.[^key-e80a101c3aa625742ff62300b5c5ee6d][^key-e80a101c3aa625742ff62300b5c5ee6d]
+## 2. Regulations.[^c-e80a101c3aa625742ff62300b5c5ee6d][^c-e80a101c3aa625742ff62300b5c5ee6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation.[^key-e80a101c3aa625742ff62300b5c5ee6d][^key-e80a101c3aa625742ff62300b5c5ee6d]
+## 3. Interpretation.[^c-e80a101c3aa625742ff62300b5c5ee6d][^c-e80a101c3aa625742ff62300b5c5ee6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments of 1965 c. 19.[^key-e80a101c3aa625742ff62300b5c5ee6d][^key-e80a101c3aa625742ff62300b5c5ee6d]
+## 4. Amendments of 1965 c. 19.[^c-e80a101c3aa625742ff62300b5c5ee6d][^c-e80a101c3aa625742ff62300b5c5ee6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Short title, commencement and extent.[^key-e80a101c3aa625742ff62300b5c5ee6d][^key-e80a101c3aa625742ff62300b5c5ee6d]
+## 5. Short title, commencement and extent.[^c-e80a101c3aa625742ff62300b5c5ee6d][^c-e80a101c3aa625742ff62300b5c5ee6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — AMENDMENTS OF THE TEACHING COUNCIL (SCOTLAND) ACT 1965[^key-e80a101c3aa625742ff62300b5c5ee6d]
+## SCHEDULE — AMENDMENTS OF THE TEACHING COUNCIL (SCOTLAND) ACT 1965[^c-e80a101c3aa625742ff62300b5c5ee6d]
 
 Section 4.
 
-**1.**[^key-e80a101c3aa625742ff62300b5c5ee6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e80a101c3aa625742ff62300b5c5ee6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e80a101c3aa625742ff62300b5c5ee6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e80a101c3aa625742ff62300b5c5ee6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e80a101c3aa625742ff62300b5c5ee6d]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1971/2) repealed (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [Sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)
+[^c-e80a101c3aa625742ff62300b5c5ee6d]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1971/2) repealed (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [Sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)

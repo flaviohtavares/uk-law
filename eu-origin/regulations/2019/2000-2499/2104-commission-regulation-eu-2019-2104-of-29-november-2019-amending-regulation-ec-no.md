@@ -35,33 +35,33 @@ amending Regulation (EC) No 1126/2008 adopting certain international accounting 
 
 (Text with EEA relevance) (revoked)
 
-[^key-1ed7149b39d00c508386685dfe6259cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1ed7149b39d00c508386685dfe6259cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-1ed7149b39d00c508386685dfe6259cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-1ed7149b39d00c508386685dfe6259cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-1ed7149b39d00c508386685dfe6259cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-1ed7149b39d00c508386685dfe6259cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-1ed7149b39d00c508386685dfe6259cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-1ed7149b39d00c508386685dfe6259cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ed7149b39d00c508386685dfe6259cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1ed7149b39d00c508386685dfe6259cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Definition of Material — Amendments to IAS 1 and IAS 8[^key-1ed7149b39d00c508386685dfe6259cf]
+## ANNEX — Definition of Material — Amendments to IAS 1 and IAS 8[^c-1ed7149b39d00c508386685dfe6259cf]
 
-[^key-1ed7149b39d00c508386685dfe6259cf]**Amendments to IAS 1 *Presentation of Financial Statements***
+[^c-1ed7149b39d00c508386685dfe6259cf]**Amendments to IAS 1 *Presentation of Financial Statements***
 
 Paragraph 7 is amended for an entity that has adopted the 2018 *Amendments to References to the Conceptual Framework in IFRS Standards*, and paragraph 139T is added.
 
-[^key-1ed7149b39d00c508386685dfe6259cf]DEFINITIONS
+[^c-1ed7149b39d00c508386685dfe6259cf]DEFINITIONS
 
-[^key-1ed7149b39d00c508386685dfe6259cf]7.
+[^c-1ed7149b39d00c508386685dfe6259cf]7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ed7149b39d00c508386685dfe6259cf] ***Material*:**
+[^c-1ed7149b39d00c508386685dfe6259cf] ***Material*:**
 
 **Information is material if omitting, misstating or obscuring it could reasonably be expected to influence decisions that the primary users of general purpose financial statements make on the basis of those financial statements, which provide financial information about a specific reporting entity.**
 
@@ -81,62 +81,62 @@ Many existing and potential investors, lenders and other creditors cannot requir
 
 ...
 
-[^key-1ed7149b39d00c508386685dfe6259cf]EFFECTIVE DATE
+[^c-1ed7149b39d00c508386685dfe6259cf]EFFECTIVE DATE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ed7149b39d00c508386685dfe6259cf]**Amendments to IAS 8 *Accounting Policies, Changes in Accounting Estimates and Errors***
+[^c-1ed7149b39d00c508386685dfe6259cf]**Amendments to IAS 8 *Accounting Policies, Changes in Accounting Estimates and Errors***
 
 Paragraph 5 is amended for an entity that has adopted the 2018 *Amendments to References to the Conceptual Framework in IFRS Standards*. Paragraph 6 is deleted and paragraph 54H is added.
 
-[^key-1ed7149b39d00c508386685dfe6259cf]DEFINITIONS
+[^c-1ed7149b39d00c508386685dfe6259cf]DEFINITIONS
 
-[^key-1ed7149b39d00c508386685dfe6259cf]5.
+[^c-1ed7149b39d00c508386685dfe6259cf]5.
 
 ...
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ed7149b39d00c508386685dfe6259cf]6.
+[^c-1ed7149b39d00c508386685dfe6259cf]6.
 
 \[Deleted\]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ed7149b39d00c508386685dfe6259cf]EFFECTIVE DATE
+[^c-1ed7149b39d00c508386685dfe6259cf]EFFECTIVE DATE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ed7149b39d00c508386685dfe6259cf]**Amendments to other IFRS Standards and publications**
+[^c-1ed7149b39d00c508386685dfe6259cf]**Amendments to other IFRS Standards and publications**
 
 **Amendments to IAS 10 *Events after the Reporting Period***
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ed7149b39d00c508386685dfe6259cf]**Amendments to IAS 34 *Interim Financial Reporting***
+[^c-1ed7149b39d00c508386685dfe6259cf]**Amendments to IAS 34 *Interim Financial Reporting***
 
 Paragraph 24 is amended and paragraph 58 is added.
 
-[^key-1ed7149b39d00c508386685dfe6259cf]**Materiality**
+[^c-1ed7149b39d00c508386685dfe6259cf]**Materiality**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ed7149b39d00c508386685dfe6259cf]EFFECTIVE DATE
+[^c-1ed7149b39d00c508386685dfe6259cf]EFFECTIVE DATE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ed7149b39d00c508386685dfe6259cf]**Amendments to IAS 37 *Provisions, Contingent Liabilities and Contingent Assets***
+[^c-1ed7149b39d00c508386685dfe6259cf]**Amendments to IAS 37 *Provisions, Contingent Liabilities and Contingent Assets***
 
 Paragraph 75 is amended and paragraph 104 is added.
 
-[^key-1ed7149b39d00c508386685dfe6259cf]**Restructuring**
+[^c-1ed7149b39d00c508386685dfe6259cf]**Restructuring**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ed7149b39d00c508386685dfe6259cf]EFFECTIVE DATE
+[^c-1ed7149b39d00c508386685dfe6259cf]EFFECTIVE DATE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1ed7149b39d00c508386685dfe6259cf]: Textual amendment: Regulation revoked (8.3.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [reg. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [Sch. Table 2](https://www.legislation.gov.uk/uksi/2021/153/schedule) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2021/153/regulation/2/3))
+[^c-1ed7149b39d00c508386685dfe6259cf]: Textual amendment: Regulation revoked (8.3.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [reg. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [Sch. Table 2](https://www.legislation.gov.uk/uksi/2021/153/schedule) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2021/153/regulation/2/3))

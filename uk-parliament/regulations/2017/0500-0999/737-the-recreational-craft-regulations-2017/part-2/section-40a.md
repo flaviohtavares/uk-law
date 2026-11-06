@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40A. Obligations that are met by complying with obligations in the Directive[^key-3908ce78672e8a9efb5b81ef0e475678]
+## 40A. Obligations that are met by complying with obligations in the Directive[^c-3908ce78672e8a9efb5b81ef0e475678]
 
 *Extent: E+W+S*
 
@@ -61,7 +61,7 @@ summary: ''
 - (a) the requirements of regulation 19(1)(a), (b) and (c)(i) are to be treated as being satisfied;
 - (b) regulations 18, 19(2), 20, 23 and 25 apply subject to the modifications set out in paragraph (15).
 
-(8) This paragraph applies where there is no designated standard or part of a designated standard that corresponds exactly to a harmonised standard or part of a harmonised standard referred to in Article 20 or 22[^key-bc8e3826bae48d7746ea16a30eca1b26].
+(8) This paragraph applies where there is no designated standard or part of a designated standard that corresponds exactly to a harmonised standard or part of a harmonised standard referred to in Article 20 or 22[^c-bc8e3826bae48d7746ea16a30eca1b26].
 
 (9) Where paragraph (8) applies, paragraphs (4)(c) and (6)(a) of this regulation are to be read as requiring—
 
@@ -99,6 +99,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3908ce78672e8a9efb5b81ef0e475678]: Textual amendment: [Regs. 40A-40D](https://www.legislation.gov.uk/uksi/2017/737/regulation/40A) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 28 para. 23](https://www.legislation.gov.uk/uksi/2019/696/schedule/28/paragraph/23) (with [Sch. 28 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/28/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2); [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 20(5)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/20/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3908ce78672e8a9efb5b81ef0e475678]: Textual amendment: [Regs. 40A-40D](https://www.legislation.gov.uk/uksi/2017/737/regulation/40A) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 28 para. 23](https://www.legislation.gov.uk/uksi/2019/696/schedule/28/paragraph/23) (with [Sch. 28 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/28/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2); [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 20(5)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/20/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bc8e3826bae48d7746ea16a30eca1b26]: Textual amendment: Words in [reg. 40A(8)](https://www.legislation.gov.uk/uksi/2017/737/regulation/40A/8) substituted (1.10.2024) by [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [19(3)](https://www.legislation.gov.uk/uksi/2024/696/regulation/19/3) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))
+[^c-bc8e3826bae48d7746ea16a30eca1b26]: Textual amendment: Words in [reg. 40A(8)](https://www.legislation.gov.uk/uksi/2017/737/regulation/40A/8) substituted (1.10.2024) by [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [19(3)](https://www.legislation.gov.uk/uksi/2024/696/regulation/19/3) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809ZC. Section 809ZA: lease of plant and machinery and other property[^key-17838e00376afcb80c763bcd20c8ddd3]
+## 809ZC. Section 809ZA: lease of plant and machinery and other property[^c-17838e00376afcb80c763bcd20c8ddd3]
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies if section 809ZA applies in relation to a lease of plant or machinery and other property (see section 809ZF(3)[^key-11ed0dc514e598e221f3f6bb0efeb027]).
+(1) This section applies if section 809ZA applies in relation to a lease of plant or machinery and other property (see section 809ZF(3)[^c-11ed0dc514e598e221f3f6bb0efeb027]).
 
 (2) The relevant capital payment is to be apportioned, on a just and reasonable basis, between—
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-17838e00376afcb80c763bcd20c8ddd3]: Textual amendment: Pt. 13 Ch. 6 inserted (21.7.2008 with effect in accordance with Sch. 20 para. 2(2) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 2(1)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/2/1) (with [Sch. 20 para. 2(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/2/3))
+[^c-17838e00376afcb80c763bcd20c8ddd3]: Textual amendment: Pt. 13 Ch. 6 inserted (21.7.2008 with effect in accordance with Sch. 20 para. 2(2) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 2(1)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/2/1) (with [Sch. 20 para. 2(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/2/3))
 
-[^key-11ed0dc514e598e221f3f6bb0efeb027]: Textual amendment: Words in s. 809ZC(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 550](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/550) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-11ed0dc514e598e221f3f6bb0efeb027]: Textual amendment: Words in s. 809ZC(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 550](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/550) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

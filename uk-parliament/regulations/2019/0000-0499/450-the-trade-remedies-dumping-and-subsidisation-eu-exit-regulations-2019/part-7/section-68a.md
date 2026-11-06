@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68A. Early review[^key-9cdc78f4fce676c6ed171a9063eac4ff]
+## 68A. Early review[^c-9cdc78f4fce676c6ed171a9063eac4ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ the TRA must take into account any notice published or public notice issued unde
 
 ## Annotations
 
-[^key-9cdc78f4fce676c6ed171a9063eac4ff]: Textual amendment: [Reg. 68A](https://www.legislation.gov.uk/uksi/2019/450/regulation/68A) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2024/545/regulation/10) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-9cdc78f4fce676c6ed171a9063eac4ff]: Textual amendment: [Reg. 68A](https://www.legislation.gov.uk/uksi/2019/450/regulation/68A) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2024/545/regulation/10) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))

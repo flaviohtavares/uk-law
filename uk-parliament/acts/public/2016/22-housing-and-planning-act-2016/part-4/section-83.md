@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. HMRC information[^key-e44e0398a46885a9c83d5c3e39aab7ba]
+## 83. HMRC information[^c-e44e0398a46885a9c83d5c3e39aab7ba]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ section 19 of the Commissioners for Revenue and Customs Act 2005 (wrongful discl
 
 ## Annotations
 
-[^key-e44e0398a46885a9c83d5c3e39aab7ba]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2016/22/section/83) in force at 1.10.2016 by [S.I. 2016/956](https://www.legislation.gov.uk/uksi/2016/956), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/956/regulation/2/a)
+[^c-e44e0398a46885a9c83d5c3e39aab7ba]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2016/22/section/83) in force at 1.10.2016 by [S.I. 2016/956](https://www.legislation.gov.uk/uksi/2016/956), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/956/regulation/2/a)

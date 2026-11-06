@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92B. Advertising[^key-28ef7d7feb9276422308882af850a06d]
+## 92B. Advertising[^c-28ef7d7feb9276422308882af850a06d]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28ef7d7feb9276422308882af850a06d]: Textual amendment: S. 92B inserted (1.10.2004) by [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), [ss. 39](https://www.legislation.gov.uk/ukpga/2004/19/section/39), [48(3)](https://www.legislation.gov.uk/ukpga/2004/19/section/48/3); [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)
+[^c-28ef7d7feb9276422308882af850a06d]: Textual amendment: S. 92B inserted (1.10.2004) by [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), [ss. 39](https://www.legislation.gov.uk/ukpga/2004/19/section/39), [48(3)](https://www.legislation.gov.uk/ukpga/2004/19/section/48/3); [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)

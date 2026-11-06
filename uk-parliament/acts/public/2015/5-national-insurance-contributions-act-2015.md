@@ -855,11 +855,11 @@ whenever the regulations are made.
 
 #### Recovery of penalties under Part 4 of FA 2014
 
-**20.** (1) A penalty under section 208 , 208A[^key-0995d60280ca61e0410166faafb31db5] or 226 imposed by virtue of this Part of this Schedule may be recovered as if it were an amount of relevant contributions which is due and payable.
+**20.** (1) A penalty under section 208 , 208A[^c-0995d60280ca61e0410166faafb31db5] or 226 imposed by virtue of this Part of this Schedule may be recovered as if it were an amount of relevant contributions which is due and payable.
 
 (2) Section 117A of SSAA 1992 or (as the case may be) section 111A of SSA(NI)A 1992 (issues arising in proceedings: contributions etc) has effect in relation to proceedings before a court for recovery of the penalty as if the assessment of the penalty were a NICs decision as to whether the person is liable for the penalty.
 
-(3) Accordingly, section 211(4)(b) (assessment of penalty to be enforced as if it were an assessment to tax) does not apply in relation to a penalty under section 208 or 208A[^key-eb5ba9c32c3fc38c9dd2141cafd210ff] imposed by virtue of this Part of this Schedule.
+(3) Accordingly, section 211(4)(b) (assessment of penalty to be enforced as if it were an assessment to tax) does not apply in relation to a penalty under section 208 or 208A[^c-eb5ba9c32c3fc38c9dd2141cafd210ff] imposed by virtue of this Part of this Schedule.
 
 #### Withdrawal, modification or suspension of accelerated payment notice
 
@@ -929,7 +929,7 @@ whenever the regulations are made.
 
 **30.**[^c2238892] The definition of “tax” in section 283(1) (interpretation) has effect as if relevant contributions were listed in it.
 
-##### 30A. Threshold conditions[^key-2764a6406125a9d74e01e7c3299754f4]
+##### 30A. Threshold conditions[^c-2764a6406125a9d74e01e7c3299754f4]
 
 (1) In paragraph 5 of Schedule 34 (non-compliance with Part 7 of FA 2004 ), in sub-paragraph (4)—
 
@@ -959,13 +959,13 @@ whenever the regulations are made.
 
 **31.**[^c2238893] In this Part of this Schedule—
 
-- (za)[^key-d440a1bda2c50157c13d2d40e4404379] “NICs decision” means a decision under section 8 of SSC(TF)A 1999 or Article 7 of the Social Security Contributions (Transfer of Functions, etc) (Northern Ireland) Order 1999 ([SI 1999/671](https://www.legislation.gov.uk/uksi/1999/671));
+- (za)[^c-d440a1bda2c50157c13d2d40e4404379] “NICs decision” means a decision under section 8 of SSC(TF)A 1999 or Article 7 of the Social Security Contributions (Transfer of Functions, etc) (Northern Ireland) Order 1999 ([SI 1999/671](https://www.legislation.gov.uk/uksi/1999/671));
 - (a) “**relevant contributions**” means the following contributions under Part 1 of SSCBA 1992 or Part 1 of SSCB(NI)A 1992—
   - (i) Class 1 contributions;
   - (ii) Class 1A contributions;
   - (iii) Class 1B contributions;
   - (iv) Class 2 contributions which must be paid but in relation to which section 11A of the Act in question (application of certain provisions of the Income Tax Acts in relation to Class 2 contributions under section 11(2) of that Act) does not apply;
-- (b) references to sections or Schedules are to sections of, or Schedules to[^key-5d59f307c5b6f0e93d5d0d2c537acabd] FA 2014, unless otherwise indicated.
+- (b) references to sections or Schedules are to sections of, or Schedules to[^c-5d59f307c5b6f0e93d5d0d2c537acabd] FA 2014, unless otherwise indicated.
 
 ### PART 3 — Application of Parts 4 and 5 of FA 2014: Class 4
 
@@ -992,9 +992,9 @@ whenever the regulations are made.
 
 ## Annotations
 
-[^key-0995d60280ca61e0410166faafb31db5]: Textual amendment: Word in Sch. 2 para. 20(1) inserted (with effect in accordance with [Sch. 28 para. 15](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/15) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 13(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/13/2)
+[^c-0995d60280ca61e0410166faafb31db5]: Textual amendment: Word in Sch. 2 para. 20(1) inserted (with effect in accordance with [Sch. 28 para. 15](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/15) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 13(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/13/2)
 
-[^key-eb5ba9c32c3fc38c9dd2141cafd210ff]: Textual amendment: Words in Sch. 2 para. 20(3) inserted (with effect in accordance with [Sch. 28 para. 15](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/15) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 13(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/13/3)
+[^c-eb5ba9c32c3fc38c9dd2141cafd210ff]: Textual amendment: Words in Sch. 2 para. 20(3) inserted (with effect in accordance with [Sch. 28 para. 15](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/15) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 13(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/13/3)
 
 [^c2238885]: Commencement: Sch. 2 para. 23 partly in force; Sch. 2 para. 23 in force for specified purposes at Royal Assent and otherwise in force at 12.4.2015, see Sch. 2 para. 33(2)
 
@@ -1012,10 +1012,10 @@ whenever the regulations are made.
 
 [^c2238892]: Commencement: Sch. 2 para. 30 partly in force; Sch. 2 para. 30 in force for specified purposes at Royal Assent and otherwise in force at 12.4.2015, see Sch. 2 para. 33(2)
 
-[^key-2764a6406125a9d74e01e7c3299754f4]: Textual amendment: Sch. 2 paras. 30A-30B and headings inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(18)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/18)
+[^c-2764a6406125a9d74e01e7c3299754f4]: Textual amendment: Sch. 2 paras. 30A-30B and headings inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(18)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/18)
 
 [^c2238893]: Commencement: Sch. 2 para. 31 partly in force; Sch. 2 para. 31 in force for specified purposes at Royal Assent and otherwise in force at 12.4.2015, see Sch. 2 para. 33(2)
 
-[^key-d440a1bda2c50157c13d2d40e4404379]: Textual amendment: Sch. 2 para. 31(za) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(19)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/19/a)
+[^c-d440a1bda2c50157c13d2d40e4404379]: Textual amendment: Sch. 2 para. 31(za) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(19)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/19/a)
 
-[^key-5d59f307c5b6f0e93d5d0d2c537acabd]: Textual amendment: Words in Sch. 2 para. 31(b) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(19)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/19/b)
+[^c-5d59f307c5b6f0e93d5d0d2c537acabd]: Textual amendment: Words in Sch. 2 para. 31(b) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(19)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/19/b)

@@ -42,13 +42,13 @@ Coming into operation
 
 The Department for Communities[^f00001] makes the following Regulations in exercise of the powers conferred by sections 70(4), 71(6) and 171(1) and (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00002], and now vested in it[^f00003], and Article 82(3) of the Welfare Reform (Northern Ireland) Order 2015[^f00004].
 
-## 1. Citation, commencement and interpretation[^key-36e35e55cf06d6522b38dc9b0b9280d7]
+## 1. Citation, commencement and interpretation[^c-36e35e55cf06d6522b38dc9b0b9280d7]
 
 (1) These Regulations may be cited as the Social Security (Residence in an EEA State or Switzerland) (Amendment) Regulations (Northern Ireland) 2025 and shall come into operation on 10th December 2025.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Social Security (Invalid Care Allowance) Regulations[^key-04c17158a6fe39e661e4276d5746c7e9]
+## 2. Amendment of the Social Security (Invalid Care Allowance) Regulations[^c-04c17158a6fe39e661e4276d5746c7e9]
 
 In regulation 9B of the Social Security (Invalid Care Allowance) Regulations (Northern Ireland) 1976[^f00006] (persons residing in an EEA state or in Switzerland to whom a relevant EU Regulation applies[^f00007]) for paragraph (b) substitute—
 
@@ -58,7 +58,7 @@ In regulation 9B of the Social Security (Invalid Care Allowance) Regulations (No
 
 .
 
-## 3. Amendment of the Social Security (Disability Living Allowance) Regulations[^key-fb57749466ab61a80a0ccb4ccd88b80e]
+## 3. Amendment of the Social Security (Disability Living Allowance) Regulations[^c-fb57749466ab61a80a0ccb4ccd88b80e]
 
 In regulation 2B of the Social Security (Disability Living Allowance) Regulations (Northern Ireland) 1992[^f00008] (persons residing in an EEA state or in Switzerland to whom a relevant EU Regulation applies[^f00009]) for paragraph (b) substitute—
 
@@ -68,7 +68,7 @@ In regulation 2B of the Social Security (Disability Living Allowance) Regulation
 
 .
 
-## 4. Amendment of the Personal Independence Payment Regulations[^key-5422c0d226a5429b86a139df170744be]
+## 4. Amendment of the Personal Independence Payment Regulations[^c-5422c0d226a5429b86a139df170744be]
 
 In regulation 23 of the Personal Independence Payment Regulations (Northern Ireland) 2016[^f00010] (persons residing in an EEA state or in Switzerland to whom a relevant EU Regulation applies[^f00011]) for paragraph (b) substitute—
 
@@ -106,23 +106,23 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00004]: Footnote: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006); *see* Article 2 of the Welfare Reform (Northern Ireland) Order 2015 (Cessation of Transitory Provision) Order 2020 ([S.I. 2020/927](https://www.legislation.gov.uk/uksi/2020/927))
 
-[^key-36e35e55cf06d6522b38dc9b0b9280d7]: Commencement: Reg. 1 in operation at 10.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/183/regulation/1/1)
+[^c-36e35e55cf06d6522b38dc9b0b9280d7]: Commencement: Reg. 1 in operation at 10.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/183/regulation/1/1)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-04c17158a6fe39e661e4276d5746c7e9]: Commencement: Reg. 2 in operation at 10.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/183/regulation/1/1)
+[^c-04c17158a6fe39e661e4276d5746c7e9]: Commencement: Reg. 2 in operation at 10.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/183/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1976 No. 99](https://www.legislation.gov.uk/nisr/1976/99); regulations 9A and 9B were inserted by regulation 2(3) of [S.R. 2016 No. 229](https://www.legislation.gov.uk/nisr/2016/229); relevant amending Regulations are [S.I. 2019/129](https://www.legislation.gov.uk/uksi/2019/129) and [S.R. 2024 No. 163](https://www.legislation.gov.uk/nisr/2024/163)
 
 [^f00007]: Footnote: The heading to regulation 9B was amended by paragraph 1(2)(a) of the Schedule to [S.I. 2019/129](https://www.legislation.gov.uk/uksi/2019/129)
 
-[^key-fb57749466ab61a80a0ccb4ccd88b80e]: Commencement: Reg. 3 in operation at 10.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/183/regulation/1/1)
+[^c-fb57749466ab61a80a0ccb4ccd88b80e]: Commencement: Reg. 3 in operation at 10.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/183/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. 1992 No. 32](https://www.legislation.gov.uk/nisr/1992/32); regulations 2A and 2B were inserted by regulation 4(4) of [S.R. 2016 No. 229](https://www.legislation.gov.uk/nisr/2016/229); relevant amending Regulations are [S.I. 2019/129](https://www.legislation.gov.uk/uksi/2019/129) and [S.R. 2024 No. 163](https://www.legislation.gov.uk/nisr/2024/163)
 
 [^f00009]: Footnote: The heading to regulation 2B was amended by paragraph 7(2)(a) of the Schedule to [S.I. 2019/129](https://www.legislation.gov.uk/uksi/2019/129)
 
-[^key-5422c0d226a5429b86a139df170744be]: Commencement: Reg. 4 in operation at 10.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/183/regulation/1/1)
+[^c-5422c0d226a5429b86a139df170744be]: Commencement: Reg. 4 in operation at 10.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/183/regulation/1/1)
 
 [^f00010]: Footnote: [S.R. 2016 No. 217](https://www.legislation.gov.uk/nisr/2016/217); relevant amending Regulations are [S.I. 2019/129](https://www.legislation.gov.uk/uksi/2019/129) and [S.R. 2024 No. 163](https://www.legislation.gov.uk/nisr/2024/163)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 6 — Annex III - METHODS TO MEASURE AIRBORNE NOISE EMITTED BY EQUIPMENT FOR USE OUTDOORS[^M_E_33e163e9-79c2-4fa7-e38e-c369b391402a][^key-bbce44ca441eb605e231cdb50d66784a]
+## Schedule 6 — Annex III - METHODS TO MEASURE AIRBORNE NOISE EMITTED BY EQUIPMENT FOR USE OUTDOORS[^M_E_33e163e9-79c2-4fa7-e38e-c369b391402a][^c-bbce44ca441eb605e231cdb50d66784a]
 
 *Extent: N.I.*
 
@@ -871,4 +871,4 @@ The measurement method of this standard based on EN ISO 3744:2010 shall be appli
 
 [^M_E_33e163e9-79c2-4fa7-e38e-c369b391402a]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-bbce44ca441eb605e231cdb50d66784a]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/2001/1701/schedule/6) substituted (N.I.) (22.5.2025) by [The Noise Emission in the Environment by Equipment for use Outdoors (Amendment) (Northern Ireland) Regulations 2025 (S.I. 2025/407)](https://www.legislation.gov.uk/uksi/2025/407), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/407/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/407/schedule) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/407/regulation/3))
+[^c-bbce44ca441eb605e231cdb50d66784a]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/2001/1701/schedule/6) substituted (N.I.) (22.5.2025) by [The Noise Emission in the Environment by Equipment for use Outdoors (Amendment) (Northern Ireland) Regulations 2025 (S.I. 2025/407)](https://www.legislation.gov.uk/uksi/2025/407), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/407/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/407/schedule) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/407/regulation/3))

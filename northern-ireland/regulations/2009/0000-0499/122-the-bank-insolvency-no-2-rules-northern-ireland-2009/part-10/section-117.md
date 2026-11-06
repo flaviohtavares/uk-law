@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 117. Committee established by contributories[^key-9811b609700951f9131c1a96a637f62e]
+## 117. Committee established by contributories[^c-9811b609700951f9131c1a96a637f62e]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9811b609700951f9131c1a96a637f62e]: Commencement: Rule 117 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-9811b609700951f9131c1a96a637f62e]: Commencement: Rule 117 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

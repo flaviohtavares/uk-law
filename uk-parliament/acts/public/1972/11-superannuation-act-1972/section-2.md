@@ -27,9 +27,9 @@ summary: ''
 - (a) to whom that section applies; and
 - (b) who suffer loss of office or employment, or loss or diminution of emoluments, in such circumstances, or by reason of the happening of such an event, as may be prescribed by the scheme.
 
-(3)[^c8518461] Subject to subsection (3A) below,[^key-bc80918b52ac5635ccb49ba91fa733af] no scheme under the said section 1 shall make any provision which would have the effect of reducing the amount of any pension, allowance or gratuity, in so far as that amount is directly or indirectly referable to rights which have accrued (whether by virtue of service rendered, contributions paid or any other thing done) before the coming into operation of the scheme, unless the persons consulted in accordance with section 1(3) of this Act have agreed to the inclusion of that provision.
+(3)[^c8518461] Subject to subsection (3A) below,[^c-bc80918b52ac5635ccb49ba91fa733af] no scheme under the said section 1 shall make any provision which would have the effect of reducing the amount of any pension, allowance or gratuity, in so far as that amount is directly or indirectly referable to rights which have accrued (whether by virtue of service rendered, contributions paid or any other thing done) before the coming into operation of the scheme, unless the persons consulted in accordance with section 1(3) of this Act have agreed to the inclusion of that provision.
 
-(3A)[^key-7be7eaf77368f1454aa501dcb16b0532] Subsection (3) above does not apply to a provision which would have the effect of reducing the amount of a compensation benefit except in so far as the compensation benefit is one provided in respect of a loss of office or employment which is the consequence of—
+(3A)[^c-7be7eaf77368f1454aa501dcb16b0532] Subsection (3) above does not apply to a provision which would have the effect of reducing the amount of a compensation benefit except in so far as the compensation benefit is one provided in respect of a loss of office or employment which is the consequence of—
 
 - (a) a notice of dismissal given before the coming into operation of the scheme which would have that effect, or
 - (b) an agreement made before the coming into operation of that scheme.
@@ -41,7 +41,7 @@ summary: ''
 
 (3C) In subsection (3B) above a reference to suffering loss of office or employment includes a reference to suffering loss or diminution of emoluments as a consequence of suffering loss of office or employment.
 
-(3D)[^key-4944631b684cc0833843a8672cfeeee1] So far as it relates to a provision of a scheme under the said section 1 which would have the effect of reducing the amount of a compensation benefit, the duty to consult in section 1(3) of this Act is a duty to consult with a view to reaching agreement with the persons consulted.
+(3D)[^c-4944631b684cc0833843a8672cfeeee1] So far as it relates to a provision of a scheme under the said section 1 which would have the effect of reducing the amount of a compensation benefit, the duty to consult in section 1(3) of this Act is a duty to consult with a view to reaching agreement with the persons consulted.
 
 (4) Subject to subsection (3) above, any scheme under the said section 1, or any provision thereof, may be framed—
 
@@ -59,11 +59,11 @@ summary: ''
 
 (9) Any scheme under the said section 1 may amend or revoke any previous scheme made thereunder.
 
-(10) Different schemes may be made under the said section 1 in relation to different classes of persons to whom that section applies, and in this section “**the principal civil service pension scheme**” means the principal scheme so made relating to persons serving in employment in the civil service of the State[^key-e87ef8e16d2158e8cf8eea225334a7f6].
+(10) Different schemes may be made under the said section 1 in relation to different classes of persons to whom that section applies, and in this section “**the principal civil service pension scheme**” means the principal scheme so made relating to persons serving in employment in the civil service of the State[^c-e87ef8e16d2158e8cf8eea225334a7f6].
 
 (11) Before a scheme made under the said section 1, being the principal civil service pension scheme or a scheme amending or revoking that scheme, comes into operation the Minister shall lay a copy of the scheme before Parliament.
 
-(11A)[^key-a1229f68e3cc6d99783f329e0ce8fc47] Subsection (11B) below applies if a scheme made under the said section 1 makes any provision which would have the effect of reducing the amount of a compensation benefit.
+(11A)[^c-a1229f68e3cc6d99783f329e0ce8fc47] Subsection (11B) below applies if a scheme made under the said section 1 makes any provision which would have the effect of reducing the amount of a compensation benefit.
 
 (11B) Before the scheme comes into operation, the Minister must have laid before Parliament a report providing information about—
 
@@ -83,12 +83,12 @@ summary: ''
 
 [^c8518461]: Textual amendment: S. 2(3) substituted by [Pensions (Miscellaneous Provisions) Act 1990 (c. 7, SIF 101A:3)](https://www.legislation.gov.uk/ukpga/1990/7), [s. 9](https://www.legislation.gov.uk/ukpga/1990/7/section/9)
 
-[^key-bc80918b52ac5635ccb49ba91fa733af]: Textual amendment: Words in s. 2(3) inserted (16.12.2010 with application in accordance with s. 1(4)-(6) of the amending Act) by [Superannuation Act 2010 (c. 37)](https://www.legislation.gov.uk/ukpga/2010/37), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2010/37/section/1/2), [4(2)](https://www.legislation.gov.uk/ukpga/2010/37/section/4/2)
+[^c-bc80918b52ac5635ccb49ba91fa733af]: Textual amendment: Words in s. 2(3) inserted (16.12.2010 with application in accordance with s. 1(4)-(6) of the amending Act) by [Superannuation Act 2010 (c. 37)](https://www.legislation.gov.uk/ukpga/2010/37), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2010/37/section/1/2), [4(2)](https://www.legislation.gov.uk/ukpga/2010/37/section/4/2)
 
-[^key-7be7eaf77368f1454aa501dcb16b0532]: Textual amendment: S. 2(3A)-(3C) inserted (16.12.2010 with application in accordance with s. 1(4)-(6) of the amending Act) by [Superannuation Act 2010 (c. 37)](https://www.legislation.gov.uk/ukpga/2010/37), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2010/37/section/1/3), [4(2)](https://www.legislation.gov.uk/ukpga/2010/37/section/4/2)
+[^c-7be7eaf77368f1454aa501dcb16b0532]: Textual amendment: S. 2(3A)-(3C) inserted (16.12.2010 with application in accordance with s. 1(4)-(6) of the amending Act) by [Superannuation Act 2010 (c. 37)](https://www.legislation.gov.uk/ukpga/2010/37), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2010/37/section/1/3), [4(2)](https://www.legislation.gov.uk/ukpga/2010/37/section/4/2)
 
-[^key-4944631b684cc0833843a8672cfeeee1]: Textual amendment: S. 2(3D) inserted (16.2.2011 with application in accordance with s. 2(4) of the amending Act) by [Superannuation Act 2010 (c. 37)](https://www.legislation.gov.uk/ukpga/2010/37), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2010/37/section/2/2), [4(3)](https://www.legislation.gov.uk/ukpga/2010/37/section/4/3)
+[^c-4944631b684cc0833843a8672cfeeee1]: Textual amendment: S. 2(3D) inserted (16.2.2011 with application in accordance with s. 2(4) of the amending Act) by [Superannuation Act 2010 (c. 37)](https://www.legislation.gov.uk/ukpga/2010/37), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2010/37/section/2/2), [4(3)](https://www.legislation.gov.uk/ukpga/2010/37/section/4/3)
 
-[^key-e87ef8e16d2158e8cf8eea225334a7f6]: Textual amendment: Words in s. 2(10) substituted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2010/25/schedule/2/paragraph/2); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+[^c-e87ef8e16d2158e8cf8eea225334a7f6]: Textual amendment: Words in s. 2(10) substituted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2010/25/schedule/2/paragraph/2); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
 
-[^key-a1229f68e3cc6d99783f329e0ce8fc47]: Textual amendment: S. 2(11A)-(11B) inserted (16.2.2011 with application in accordance with s. 2(4) of the amending Act) by [Superannuation Act 2010 (c. 37)](https://www.legislation.gov.uk/ukpga/2010/37), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2010/37/section/2/3), [4(3)](https://www.legislation.gov.uk/ukpga/2010/37/section/4/3)
+[^c-a1229f68e3cc6d99783f329e0ce8fc47]: Textual amendment: S. 2(11A)-(11B) inserted (16.2.2011 with application in accordance with s. 2(4) of the amending Act) by [Superannuation Act 2010 (c. 37)](https://www.legislation.gov.uk/ukpga/2010/37), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2010/37/section/2/3), [4(3)](https://www.legislation.gov.uk/ukpga/2010/37/section/4/3)

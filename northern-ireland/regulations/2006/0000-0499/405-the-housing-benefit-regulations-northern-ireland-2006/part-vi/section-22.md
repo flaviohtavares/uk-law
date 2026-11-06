@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Calculation of income and capital of members of claimant’s family and of a polygamous marriage[^key-f43d097fe1139368c949eec2afdf5f83]
+## 22. Calculation of income and capital of members of claimant’s family and of a polygamous marriage[^c-f43d097fe1139368c949eec2afdf5f83]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f43d097fe1139368c949eec2afdf5f83]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2006/405/regulation/22) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-f43d097fe1139368c949eec2afdf5f83]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2006/405/regulation/22) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

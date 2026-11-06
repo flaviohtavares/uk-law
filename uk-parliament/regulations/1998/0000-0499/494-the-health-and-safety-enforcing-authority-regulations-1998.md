@@ -42,17 +42,17 @@ Coming into force
 
 1st April 1998
 
-The Secretary of State, in exercise of the powers conferred on him by sections 15(1) and (3)(a) and (c), 18(2) and 82(3)(a) of the Health and Safety at Work etc. Act 1974[^f00001] (“the 1974 Act”) and of all other powers enabling him in that behalf and for the purpose of giving effect without modifications to proposals submitted to him by the Health and Safety Commission under section 11(2)(d) of the 1974 Act after the carrying out by the said Commission of consultations in accordance with section 50(3) of that Act, hereby makes the following Regulations:[^key-1d91ff48f6fd47bfbe251926853b8209][^key-345fef4d481311de6c02b1d5181f7f01][^key-12572d4ac7bfbee741fb3b582f6a3a86][^key-9bf28909fbb95181fc6d7af58c706413][^key-3723e1a8f3a49b0a0f750889c9b71d51][^key-3e0c64bd2b3473a757290dda275c4f04][^key-8934e22f32a33ca3a330bf0956c3d003][^key-1882aaf98bdcc813cbb5c20f5a1f0505][^key-9fa0c155af3c17e6ee025a98a34ea72d][^key-4fa5db99508ed55b2c13b68d978090dc][^key-4f906a8cc9e678943d8b069612c420be][^key-e6e9e0e21a558fb3c79185329942b8cc][^key-a68b0f8805032629c2cf8966fb1553b5][^key-33d17ddd52dfeca672dd4358d95c1e95]
+The Secretary of State, in exercise of the powers conferred on him by sections 15(1) and (3)(a) and (c), 18(2) and 82(3)(a) of the Health and Safety at Work etc. Act 1974[^f00001] (“the 1974 Act”) and of all other powers enabling him in that behalf and for the purpose of giving effect without modifications to proposals submitted to him by the Health and Safety Commission under section 11(2)(d) of the 1974 Act after the carrying out by the said Commission of consultations in accordance with section 50(3) of that Act, hereby makes the following Regulations:[^c-1d91ff48f6fd47bfbe251926853b8209][^c-345fef4d481311de6c02b1d5181f7f01][^c-12572d4ac7bfbee741fb3b582f6a3a86][^c-9bf28909fbb95181fc6d7af58c706413][^c-3723e1a8f3a49b0a0f750889c9b71d51][^c-3e0c64bd2b3473a757290dda275c4f04][^c-8934e22f32a33ca3a330bf0956c3d003][^c-1882aaf98bdcc813cbb5c20f5a1f0505][^c-9fa0c155af3c17e6ee025a98a34ea72d][^c-4fa5db99508ed55b2c13b68d978090dc][^c-4f906a8cc9e678943d8b069612c420be][^c-e6e9e0e21a558fb3c79185329942b8cc][^c-a68b0f8805032629c2cf8966fb1553b5][^c-33d17ddd52dfeca672dd4358d95c1e95]
 
-## 1. Citation and commencement[^key-b15dd838113652f18c1ce536596566e9]
+## 1. Citation and commencement[^c-b15dd838113652f18c1ce536596566e9]
 
 These Regulations may be cited as the Health and Safety (Enforcing Authority) Regulations 1998 and shall come into force on 1st April 1998.
 
-## 1A. Application[^key-640ae0fe98679191b2d4c6dfc287befd]
+## 1A. Application[^c-640ae0fe98679191b2d4c6dfc287befd]
 
 Nothing in these Regulations applies to the enforcement of the relevant statutory provisions as they apply in relation a GB nuclear site (within the meaning given in section 68 of the Energy Act 2013).
 
-## 2. Interpretation[^key-096c23705e15b6ef1bc9932530ad18f9]
+## 2. Interpretation[^c-096c23705e15b6ef1bc9932530ad18f9]
 
 (1) In these Regulations, unless the context otherwise requires—
 
@@ -62,14 +62,14 @@ Nothing in these Regulations applies to the enforcement of the relevant statutor
   - (b) does not include such activities at a garden centre or other shop,
 
   and for this purpose “livestock breeding and keeping” does not include activities the main purpose of which is entertainment;
-- “[^key-d5543787af0b4f4ca91af8ed9c52d64b]**authorised defence site**” means a site in England and Wales or Scotland—
+- “[^c-d5543787af0b4f4ca91af8ed9c52d64b]**authorised defence site**” means a site in England and Wales or Scotland—
   - (a) that is used for any purpose which, if section 1 of the Nuclear Installations Act 1965 applied to the Crown, would require the authority of a nuclear site licence in respect of that site; and
   - (b) for which there is in force an authorisation granted by or on behalf of the Secretary of State having responsibility for defence authorising it to be used for that purpose;
-- “bus” means a motor vehicle which is designed or adapted to travel along roads and to carry more than eight passengers but which is not a tramcar;[^key-58580601e09dfff1d648b107e3e0c6ca]
-- “the CLP Regulation” means Regulation[^key-b3d0b196e75b9f7fefcfd882592edf48] [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) and [1999/45/EC](https://www.legislation.gov.uk/european/directive/1999/0045) and amending Regulation [(EC) No. 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907), of which Articles 6(5), 11(3), 12, 14, 18(3)(b), 23, 25 to 29, 35(2) second and third sub-paragraphs and Annexes I to VII are to be read as amended from time to time;
-- [^key-8b21cc778b0512272e0abd5675424af6] ...
+- “bus” means a motor vehicle which is designed or adapted to travel along roads and to carry more than eight passengers but which is not a tramcar;[^c-58580601e09dfff1d648b107e3e0c6ca]
+- “the CLP Regulation” means Regulation[^c-b3d0b196e75b9f7fefcfd882592edf48] [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) and [1999/45/EC](https://www.legislation.gov.uk/european/directive/1999/0045) and amending Regulation [(EC) No. 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907), of which Articles 6(5), 11(3), 12, 14, 18(3)(b), 23, 25 to 29, 35(2) second and third sub-paragraphs and Annexes I to VII are to be read as amended from time to time;
+- [^c-8b21cc778b0512272e0abd5675424af6] ...
 - “common parts” means those parts of premises used in common by, or for providing common services to or common facilities for, the occupiers of the premises;
-- “construction work” and “contractor” have the meanings assigned to them by regulation 2(1) of the Construction (Design and Management) Regulations 2015[^key-e026b0e179730035354e64efcfb47798];
+- “construction work” and “contractor” have the meanings assigned to them by regulation 2(1) of the Construction (Design and Management) Regulations 2015[^c-e026b0e179730035354e64efcfb47798];
 - “dangerous preparation” has the meaning assigned to it by regulation 2(1) of the Chemicals (Hazard Information and Packaging for Supply) Regulations 2009;[^M_F_57a85bb9-6629-4d5e-b633-06f83d529f64]
 - “dangerous substance” has the meaning assigned to it by regulation 2(1) of the Chemicals (Hazard Information and Packaging for Supply) Regulations 2009;
 - “dock premises” has the meaning assigned to it by regulation 2(1) of the Docks Regulations 1988[^f00003];
@@ -79,7 +79,7 @@ Nothing in these Regulations applies to the enforcement of the relevant statutor
 - “gas” has the meaning assigned to it by section 48 of the Gas Act 1986[^f00005];
 - “gas fitting” has the meaning assigned to it by section 48 of the Gas Act 1986;
 - “gas system” does not include a portable or mobile appliance supplied with gas from a cylinder, or the cylinder, pipes and other fittings used for supplying gas to that appliance;
-- “guided bus system” means a system of transport, used wholly or mainly for the carriage of passengers, that employs buses which for some or all of the time when they are in operation—[^key-66c311ab68ae8b0304e869b091f2c75e]
+- “guided bus system” means a system of transport, used wholly or mainly for the carriage of passengers, that employs buses which for some or all of the time when they are in operation—[^c-66c311ab68ae8b0304e869b091f2c75e]
   - (a) travel along roads; and
   - (b) are guided (whether while on the road or at other times) by means of—
     - (i) apparatus, a structure or other device which is fixed and not part of the bus; or
@@ -89,28 +89,28 @@ Nothing in these Regulations applies to the enforcement of the relevant statutor
   - (b) a guidance system which is automatic;
 
   and for this purpose “vehicle” includes a mobile traction unit;
-- “hazardous substance or mixture” means a substance or mixture which meets the criteria for classification within any health hazard or physical hazard class[^key-b55126b025d9ccb071a6c10e8c1dd6cf] as provided for[^key-e209d8fdc7288e7292ed4f9e59d5fe60] in the CLP Regulation;
-- “ionising radiation” has the meaning assigned to it by regulation 2(1) of the Ionising Radiations Regulations 2017 \[SI 2017/1075\][^key-f0520d3fc7809f8292f655d1ac14f228];
+- “hazardous substance or mixture” means a substance or mixture which meets the criteria for classification within any health hazard or physical hazard class[^c-b55126b025d9ccb071a6c10e8c1dd6cf] as provided for[^c-e209d8fdc7288e7292ed4f9e59d5fe60] in the CLP Regulation;
+- “ionising radiation” has the meaning assigned to it by regulation 2(1) of the Ionising Radiations Regulations 2017 \[SI 2017/1075\][^c-f0520d3fc7809f8292f655d1ac14f228];
 - “livestock” means any creature kept for the production of food, wool, skins or fur or for the purpose of any agricultural activity;
 - “local authority” means—
   - (a) in relation to England, a county council so far as they are the council for an area for which there are no district councils, a district council, a London borough council, the Common Council of the City of London, the Sub-Treasurer of the Inner Temple, the Under-Treasurer of the Middle Temple or the Council of the Isles of Scilly;
   - (b) in relation to Scotland, the council for a local government area; and
   - (c) in relation to Wales, a county council or a county borough council;
-- “mine” has the meaning assigned to it by section 180 of the Mines and Quarries Act 1954[^f00007] but, notwithstanding[^key-a08314bebd3db5071444c04a4a074d3a] subsection (7)[^key-d3c83c38ce88abbdc5ae43b45f96f53d] of that section, does not include any railway serving the mine unless and to the extent that the railway is located within the curtilage of the mine;
-- “[^key-1e30f3f85f1bdcaf9272a44470f355f5]**the ONR**” means the Office for Nuclear Regulation;
+- “mine” has the meaning assigned to it by section 180 of the Mines and Quarries Act 1954[^f00007] but, notwithstanding[^c-a08314bebd3db5071444c04a4a074d3a] subsection (7)[^c-d3c83c38ce88abbdc5ae43b45f96f53d] of that section, does not include any railway serving the mine unless and to the extent that the railway is located within the curtilage of the mine;
+- “[^c-1e30f3f85f1bdcaf9272a44470f355f5]**the ONR**” means the Office for Nuclear Regulation;
 - “**new nuclear build site**” has the meaning given in regulation 2A;
 - “**nuclear warship site**” has the meaning given in regulation 2B;
 - “office activities” includes any activity for the purposes of administration, clerical work, handling money, telephone and telegraph operating and the production of computer software by the use of computers; and for this purpose “clerical work” includes writing, book-keeping, sorting papers, filing, typing, duplicating, machine calculating, drawing and the editorial preparation of matter for publication except where that preparation is on the premises where newspapers, magazines, periodicals or books are printed;
 - “pleasure craft” has the meaning assigned to it by regulation 2(1) of the Docks Regulations 1988;
 - [^M_F_de8ecbbb-676e-4aae-c6af-fec0626c6c8a]...
-- [^key-2acf9ddba5487751c13e2f257b549839]...
-- “quarry” has the meaning assigned to it by regulation 3 of the Quarries Regulations 1999;[^key-81e9f4251fbd4a53a2acd359c30c4cbb]
-- “railway” means any system of transport the operation of which is specified in regulation 3(2) of the Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006;[^key-92ab4ec7d101a28a42b8a7e95c272d4c]
-- “road”—[^key-21d10587de42f91675c59af4cddc9184]
+- [^c-2acf9ddba5487751c13e2f257b549839]...
+- “quarry” has the meaning assigned to it by regulation 3 of the Quarries Regulations 1999;[^c-81e9f4251fbd4a53a2acd359c30c4cbb]
+- “railway” means any system of transport the operation of which is specified in regulation 3(2) of the Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006;[^c-92ab4ec7d101a28a42b8a7e95c272d4c]
+- “road”—[^c-21d10587de42f91675c59af4cddc9184]
   - (a) in England and Wales, means any length of highway or of any other road to which the public has access, and includes bridges over which a road passes; and
   - (b) in Scotland, has the same meaning as in the Roads (Scotland) Act 1984;
 - [^M_F_b663c07f-16e4-4e18-e2ff-65957290ff3c]...
-- “trolley vehicle system” means a system of transport by vehicles constructed or adapted for use on roads without rails under electric power transmitted to them by overhead wires (whether or not there is in addition a source of power on board the vehicles);[^key-a0119fa9f28ee0ad24994d0ca1cf7957]
+- “trolley vehicle system” means a system of transport by vehicles constructed or adapted for use on roads without rails under electric power transmitted to them by overhead wires (whether or not there is in addition a source of power on board the vehicles);[^c-a0119fa9f28ee0ad24994d0ca1cf7957]
 - “veterinary surgery” has the meaning assigned to it by section 27 of the Veterinary Surgeons Act 1966[^f00010];
 - “work” in relation to a gas fitting has the meaning assigned to it by regulation 2(1) of the Gas Safety (Installation and Use) Regulations 1994[^f00011];
 - “zoo” has the meaning assigned to it by section 1(2) of the Zoo Licensing Act 1981[^f00012].
@@ -122,7 +122,7 @@ Nothing in these Regulations applies to the enforcement of the relevant statutor
 - (a) a numbered regulation or Schedule is a reference to the regulation of or Schedule to these Regulations so numbered; and
 - (b) a numbered paragraph is a reference to the paragraph so numbered in the regulation or Schedule in which that reference appears.
 
-## 2A. New nuclear build sites[^key-4408720b3ffb108df1c06a70843a13b4]
+## 2A. New nuclear build sites[^c-4408720b3ffb108df1c06a70843a13b4]
 
 (1) Subject to paragraphs (3) and (4), “**new nuclear build site**” means a site which—
 
@@ -137,7 +137,7 @@ Nothing in these Regulations applies to the enforcement of the relevant statutor
 
 (5) In this regulation—
 
-- (a) “construction site” and “construction work” have the meanings given in regulation 2(1) of the Construction and Design Management Regulations 2015[^key-44c90a2b526f0009391ea2f1f2560ae9];
+- (a) “construction site” and “construction work” have the meanings given in regulation 2(1) of the Construction and Design Management Regulations 2015[^c-44c90a2b526f0009391ea2f1f2560ae9];
 - (b) “**GB nuclear site**” has the meaning given in section 68 of the Energy Act 2013;
 - (c) “nuclear site licence” and “nuclear installation” have the meanings given in section 26 of the Nuclear Installations Act 1965.
 
@@ -159,7 +159,7 @@ Nothing in these Regulations applies to the enforcement of the relevant statutor
 - (a) made between the Secretary of State and the owner or occupier in any case where the Secretary of State is not the owner or occupier of the site which is, or contains, the berth or anchorage,
 - (b) otherwise, made by the Secretary of State.
 
-## 3. Local authorities to be enforcing authorities in certain cases[^key-3e6f7dba85f1d492f6b44fcae37b2d5a][^key-2d28077399a44e43c7ea0efb1f9966e6]
+## 3. Local authorities to be enforcing authorities in certain cases[^c-3e6f7dba85f1d492f6b44fcae37b2d5a][^c-2d28077399a44e43c7ea0efb1f9966e6]
 
 (1) Where the main activity carried on in non-domestic premises is specified in Schedule 1, the local authority for the area in which those premises are situated shall be the enforcing authority for them, and the Executive shall be the enforcing authority in any other case including the common parts of domestic premises.
 
@@ -186,11 +186,11 @@ Nothing in these Regulations applies to the enforcement of the relevant statutor
 
 and the Executive shall be the enforcing authority for the whole of any such premises.
 
-(6) Notwithstanding paragraph (4), the Office of Rail and Road[^key-7eda75573350b7cdfcc1abced77362f0] shall be the enforcing authority for the common parts in a railway station or terminal or in a goods yard which is served by a railway.
+(6) Notwithstanding paragraph (4), the Office of Rail and Road[^c-7eda75573350b7cdfcc1abced77362f0] shall be the enforcing authority for the common parts in a railway station or terminal or in a goods yard which is served by a railway.
 
-(7) This regulation shall have effect subject to regulations 4 to 6A[^key-1f6e708c07b387b6826f68854880dd59].
+(7) This regulation shall have effect subject to regulations 4 to 6A[^c-1f6e708c07b387b6826f68854880dd59].
 
-## 4. Exceptions[^key-d7abe1561ccf27ca3c6d62c8077e803b]
+## 4. Exceptions[^c-d7abe1561ccf27ca3c6d62c8077e803b]
 
 (1) The Executive shall be the enforcing authority for—
 
@@ -204,8 +204,8 @@ and the Executive shall be the enforcing authority for the whole of any such pre
 - (a) a county council;
 - (b) any other local authority as defined in regulation 2;
 - (c) a parish council in England or a community council in Wales or Scotland;
-- (d)[^key-fc091a54a12348d9fd16223d4be5565b][^key-811b15e951bab618642403133e61be03] a police authority , a local policing body[^key-d11feae874636e21767c874b70156f39] or the Receiver for the Metropolitan Police District;
-- (e)[^key-bf466209a1cd6b945f6b4c17eeb866c8] the Scottish Fire and Rescue Service[^key-4f3eef651081b5894f482bdcbd6c8cf3] *(affected by repeal, see note)*[^key-bf466209a1cd6b945f6b4c17eeb866c8];
+- (d)[^c-fc091a54a12348d9fd16223d4be5565b][^c-811b15e951bab618642403133e61be03] a police authority , a local policing body[^c-d11feae874636e21767c874b70156f39] or the Receiver for the Metropolitan Police District;
+- (e)[^c-bf466209a1cd6b945f6b4c17eeb866c8] the Scottish Fire and Rescue Service[^c-4f3eef651081b5894f482bdcbd6c8cf3] *(affected by repeal, see note)*[^c-bf466209a1cd6b945f6b4c17eeb866c8];
 - (e) a fire and rescue authority under the Fire and Rescue Services Act 2004;
 - (f) a headquarters or an organisation designated for the purposes of the International Headquarters and Defence Organisation Act 1964[^f00016]; or a service authority of a visiting force within the meaning of section 12 of the Visiting Forces Act 1952[^f00017];
 - (g) the United Kingdom Atomic Energy Authority;
@@ -218,25 +218,25 @@ and the Executive shall be the enforcing authority for the whole of any such pre
 
 (5) Regulation 3 and the preceding provisions of this regulation shall have effect subject to any provisions made for enforcement responsibility by other regulations made under the 1974 Act or by any of the existing statutory provisions.
 
-(6) The preceding provisions of this regulation shall have effect subject to regulations 4A to 6A[^key-a1e59f4904d67769bc3d5142992e403b].
+(6) The preceding provisions of this regulation shall have effect subject to regulations 4A to 6A[^c-a1e59f4904d67769bc3d5142992e403b].
 
-(7)[^key-10d72b31d3186e22455aa76520fd6116] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-10d72b31d3186e22455aa76520fd6116] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-10d72b31d3186e22455aa76520fd6116] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-10d72b31d3186e22455aa76520fd6116] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-10d72b31d3186e22455aa76520fd6116] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-10d72b31d3186e22455aa76520fd6116] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9A)[^key-10d72b31d3186e22455aa76520fd6116] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9A)[^c-10d72b31d3186e22455aa76520fd6116] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9B)[^key-10d72b31d3186e22455aa76520fd6116] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9B)[^c-10d72b31d3186e22455aa76520fd6116] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-10d72b31d3186e22455aa76520fd6116] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-10d72b31d3186e22455aa76520fd6116] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-10d72b31d3186e22455aa76520fd6116] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-10d72b31d3186e22455aa76520fd6116] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-10d72b31d3186e22455aa76520fd6116] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-10d72b31d3186e22455aa76520fd6116] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4A. The Office for Nuclear Regulation[^key-1a383ffb38b54f8573528d7655c7eb74]
+## 4A. The Office for Nuclear Regulation[^c-1a383ffb38b54f8573528d7655c7eb74]
 
 (1) The ONR shall be the enforcing authority for premises which are or are on—
 
@@ -245,10 +245,10 @@ and the Executive shall be the enforcing authority for the whole of any such pre
 
 (2) The ONR shall also be the enforcing authority for—
 
-- (a)[^key-de7fc101628477116c606c75f2719fbc] the provisions of the Ionising Radiations Regulations 2017 in so far as they apply—
+- (a)[^c-de7fc101628477116c606c75f2719fbc] the provisions of the Ionising Radiations Regulations 2017 in so far as they apply—
   - (i) in relation to the civil transport of radioactive material by road, railway or inland waterway; and
   - (ii) to premises which are or are on a nuclear warship site;
-- (aa) the provisions of the Radiation (Emergency Preparedness and Public Information) Regulations 2019[^key-05639c9a6debb0688ad947e99f3d175a] in so far as they apply to premises which are or are on a nuclear warship site;
+- (aa) the provisions of the Radiation (Emergency Preparedness and Public Information) Regulations 2019[^c-05639c9a6debb0688ad947e99f3d175a] in so far as they apply to premises which are or are on a nuclear warship site;
 - (b) subsections (1), (2), (4) and (5) of section 6 of the 1974 Act (general duties of manufacturers etc. as regards articles and substances for use at work) but only in so far as those requirements relate to—
   - (i) articles for use at work which are designed, manufactured, imported or supplied; or
   - (ii) substances which are manufactured, imported or supplied,
@@ -256,7 +256,7 @@ and the Executive shall be the enforcing authority for the whole of any such pre
   to be used exclusively or primarily in the installation, operation or decommissioning of a GB nuclear site or an authorised defence site;
 - (c) subsection (3) of section 6 of the 1974 Act in so far as the requirements of that provision relate to the erection or installation of any article for use at work in any premises which are or are on an authorised defence site or a new nuclear build site.
 
-(3)[^key-b48eb7994663d7ac4de1345dc7826450] For the purposes of—
+(3)[^c-b48eb7994663d7ac4de1345dc7826450] For the purposes of—
 
 - (a) paragraph (2)(a)—
   - (i) “**civil transport**” means transport otherwise than for the purposes of the department of the Secretary of State with responsibility for defence;
@@ -269,21 +269,21 @@ and the Executive shall be the enforcing authority for the whole of any such pre
 - (a) regulation 6A; and
 - (b) any provisions made for enforcement responsibility by other regulations made under the 1974 Act or any of the existing statutory provisions.
 
-## 5. Arrangements enabling responsibility for enforcement to be transferred[^key-06e483cd9bcd8304445774dd2618bad8]
+## 5. Arrangements enabling responsibility for enforcement to be transferred[^c-06e483cd9bcd8304445774dd2618bad8]
 
-(A1)[^key-2b7c9be87e808f17d363b52d0089c267] This regulation applies in relation to any relevant statutory provision to the extent that either the Executive or the local authority is the enforcing authority for the provision.
+(A1)[^c-2b7c9be87e808f17d363b52d0089c267] This regulation applies in relation to any relevant statutory provision to the extent that either the Executive or the local authority is the enforcing authority for the provision.
 
 (1) The responsibility for enforcing any of the relevant statutory provisions in respect of any particular premises, part of premises, or any activity carried on there may be transferred from the Executive to the local authority or from the local authority to the Executive.
 
-(2) A transfer may be made only by agreement between the enforcing authority which has the current responsibility and the authority to which it proposed to transfer it, [^key-d88e3ff24a82596cd3f897927d751554]....
+(2) A transfer may be made only by agreement between the enforcing authority which has the current responsibility and the authority to which it proposed to transfer it, [^c-d88e3ff24a82596cd3f897927d751554]....
 
-(3) Where a transfer has been made, the authority to which responsibility has been transferred shall cause notice of the transfer to be given to persons affected by it [^key-d88e3ff24a82596cd3f897927d751554]....
+(3) Where a transfer has been made, the authority to which responsibility has been transferred shall cause notice of the transfer to be given to persons affected by it [^c-d88e3ff24a82596cd3f897927d751554]....
 
 (4) The preceding provisions of this regulation shall not apply to any part of premises occupied by the Crown or to any activity carried on there but responsibility for enforcing any of the relevant statutory provisions in respect of office activities and the premises used for them may be transferred by an agreement between the Executive, the local authority concerned and the Government Department or other public body concerned.
 
-## 6. Assignment of responsibility for enforcement in cases of uncertainty: the Executive and the local authority[^key-3f282c67ac84a181df387c47a11fb33d][^key-cbb4dd0316dd425c14da59079e588385]
+## 6. Assignment of responsibility for enforcement in cases of uncertainty: the Executive and the local authority[^c-3f282c67ac84a181df387c47a11fb33d][^c-cbb4dd0316dd425c14da59079e588385]
 
-(1A)[^key-999e1d7fd0f594404e9af184fa8a0bf1] This regulation applies where there is uncertainty as to what are the respective responsibilities of the Executive and the local authority by virtue of regulations made under section 18(2) of the 1974 Act for the enforcement of any of the relevant statutory provisions in respect of any particular premises, part of premises or any activity carried on there.
+(1A)[^c-999e1d7fd0f594404e9af184fa8a0bf1] This regulation applies where there is uncertainty as to what are the respective responsibilities of the Executive and the local authority by virtue of regulations made under section 18(2) of the 1974 Act for the enforcement of any of the relevant statutory provisions in respect of any particular premises, part of premises or any activity carried on there.
 
 (1B) The responsibility for enforcing the relevant statutory provision in question in the respect in question may be assigned by the Executive and the local authority (acting jointly) to the Executive or to the local authority.
 
@@ -294,9 +294,9 @@ and the Executive shall be the enforcing authority for the whole of any such pre
 
 (1D) Where an assignment is made under paragraph (1B) the authority to which responsibility is assigned must give notice of the assignment to any person affected by it.
 
-(2) For the purpose of removing uncertainty in any particular case as to what are their respective responsibilities by virtue of regulations made under section 18(2) of the 1974 Act either the Executive or the local authority may apply to the Secretary of State[^key-2e46bcf493d355555d206b8cc444a955] and where the Secretary of State considers that there is uncertainty it shall, after considering the circumstances and any views which may have been expressed to them by either enforcing authority or by persons affected, assign responsibility to whichever authority it considers appropriate; and where such an assignment is made the Secretary of State shall cause notice of the assignment to be given to both enforcing authorities concerned and to persons affected by it.
+(2) For the purpose of removing uncertainty in any particular case as to what are their respective responsibilities by virtue of regulations made under section 18(2) of the 1974 Act either the Executive or the local authority may apply to the Secretary of State[^c-2e46bcf493d355555d206b8cc444a955] and where the Secretary of State considers that there is uncertainty it shall, after considering the circumstances and any views which may have been expressed to them by either enforcing authority or by persons affected, assign responsibility to whichever authority it considers appropriate; and where such an assignment is made the Secretary of State shall cause notice of the assignment to be given to both enforcing authorities concerned and to persons affected by it.
 
-## 6A. Assignment of responsibility for enforcement in cases of uncertainty: the Executive and the ONR[^key-d11b856a11bf973481edbfb52e5e4b4c]
+## 6A. Assignment of responsibility for enforcement in cases of uncertainty: the Executive and the ONR[^c-d11b856a11bf973481edbfb52e5e4b4c]
 
 (1) This regulation applies where there is uncertainty as to what are the respective responsibilities of the Executive and the ONR by virtue of regulations made under section 15 or 18(2) of the 1974 Act for the enforcement of—
 
@@ -325,7 +325,7 @@ and the Executive shall be the enforcing authority for the whole of any such pre
 
 (4) Where an assignment is made under paragraph (2), the authority to which responsibility is assigned must give notice of the assignment to any person affected by it.
 
-## 7. Revocation of instruments[^key-36d7b381bbf22f1db1b3dd29efc4ef0e]
+## 7. Revocation of instruments[^c-36d7b381bbf22f1db1b3dd29efc4ef0e]
 
 The instruments specified in column 1 of Schedule 3 are revoked to the extent specified in column 3 of that Schedule.
 
@@ -341,91 +341,91 @@ Department of the Environment, Transport and the Regions
 
 Regulation 3(1)
 
-**1.**[^key-8e7861472bac59755e6acd88a7b7198c] The sale of goods, or the storage of goods for retail or wholesale distribution, except—
+**1.**[^c-8e7861472bac59755e6acd88a7b7198c] The sale of goods, or the storage of goods for retail or wholesale distribution, except—
 
 - (a) at container depots where the main activity is the storage of goods in the course of transit to or from dock premises, an airport or a railway;
 - (b) where the main activity is the sale or storage for wholesale distribution of any dangerous substance or dangerous preparation[^M_F_ef1f8cc5-8fc4-4249-94ae-980e3451212b];
-- (ba)[^key-ba1385abf42a3c2069c544baf93889b9] where the main activity is the sale or storage for wholesale distribution of any hazardous substance or mixture;
+- (ba)[^c-ba1385abf42a3c2069c544baf93889b9] where the main activity is the sale or storage for wholesale distribution of any hazardous substance or mixture;
 - (c) where the main activity is the sale or storage of water or sewage or their by-products or natural or town gas;
 
 and for the purposes of this paragraph where the main activity carried on in premises is the sale and fitting of motor car tyres, exhausts, windscreens or sunroofs the main activity shall be deemed to be the sale of goods.
 
-**2.**[^key-e0f4a0d73337e9250c4107094fe86792] The display or demonstration of goods at an exhibition for the purposes of offer or advertisement for sale.
+**2.**[^c-e0f4a0d73337e9250c4107094fe86792] The display or demonstration of goods at an exhibition for the purposes of offer or advertisement for sale.
 
-**3.**[^key-994649d7cd39493ae061362c4b1b4464] Office activities.
+**3.**[^c-994649d7cd39493ae061362c4b1b4464] Office activities.
 
-**4.**[^key-8abc4562a093eb687b0a4b7b2397b664] Catering services.
+**4.**[^c-8abc4562a093eb687b0a4b7b2397b664] Catering services.
 
-**5.**[^key-1e3c2d87306ca0a679a71b5a59f73f88] The provision of permanent or temporary residential accommodation including the provision of a site for caravans or campers.
+**5.**[^c-1e3c2d87306ca0a679a71b5a59f73f88] The provision of permanent or temporary residential accommodation including the provision of a site for caravans or campers.
 
-**6.**[^key-dfb90297390a0a4c6347793f2fbb1b8f] Consumer services provided in a shop except dry cleaning or radio and television repairs, and in this paragraph “consumer services” means services of a type ordinarily supplied to persons who receive them otherwise than in the course of a trade, business or other undertaking carried on by them (whether for profit or not).
+**6.**[^c-dfb90297390a0a4c6347793f2fbb1b8f] Consumer services provided in a shop except dry cleaning or radio and television repairs, and in this paragraph “consumer services” means services of a type ordinarily supplied to persons who receive them otherwise than in the course of a trade, business or other undertaking carried on by them (whether for profit or not).
 
-**7.**[^key-67726ebf0b32a36109a48fbd834f65cb] Cleaning (wet or dry) in coin operated units in launderettes and similar premises.
+**7.**[^c-67726ebf0b32a36109a48fbd834f65cb] Cleaning (wet or dry) in coin operated units in launderettes and similar premises.
 
-**8.**[^key-f883ef0ed8b4acec7b0286bddd9fe4d4] The use of a bath, sauna or solarium, massaging, hair transplanting, skin piercing, manicuring or other cosmetic services and therapeutic treatments, except where they are carried out under the supervision or control of a registered medical practitioner, a dentist registered under the Dentists Act 1984[^f00019], a physiotherapist, an osteopath or a chiropractor.
+**8.**[^c-f883ef0ed8b4acec7b0286bddd9fe4d4] The use of a bath, sauna or solarium, massaging, hair transplanting, skin piercing, manicuring or other cosmetic services and therapeutic treatments, except where they are carried out under the supervision or control of a registered medical practitioner, a dentist registered under the Dentists Act 1984[^f00019], a physiotherapist, an osteopath or a chiropractor.
 
-**9.**[^key-08fcaa83a8ab433a66ceb96251a33070] The practice or presentation of the arts, sports, games, entertainment or other cultural or recreational activities except where the main activity is the exhibition of a cave to the public.
+**9.**[^c-08fcaa83a8ab433a66ceb96251a33070] The practice or presentation of the arts, sports, games, entertainment or other cultural or recreational activities except where the main activity is the exhibition of a cave to the public.
 
-**10.**[^key-f838236e14612a42a76d911e98cc71f5] The hiring out of pleasure craft for use on inland waters.
+**10.**[^c-f838236e14612a42a76d911e98cc71f5] The hiring out of pleasure craft for use on inland waters.
 
-**11.**[^key-d8fc64743136a0d7257fdc3766e3e4ec] The care, treatment, accommodation or exhibition of animals, birds or other creatures, except where the main activity is horse breeding or horse training at a stable, or is an agricultural activity or veterinary surgery.
+**11.**[^c-d8fc64743136a0d7257fdc3766e3e4ec] The care, treatment, accommodation or exhibition of animals, birds or other creatures, except where the main activity is horse breeding or horse training at a stable, or is an agricultural activity or veterinary surgery.
 
-**12.**[^key-410ab9d4f364c4a17cc044cc3b06aa54] The activities of an undertaker, except where the main activity is embalming or the making of coffins.
+**12.**[^c-410ab9d4f364c4a17cc044cc3b06aa54] The activities of an undertaker, except where the main activity is embalming or the making of coffins.
 
-**13.**[^key-912e9b42e4165dccba0fc8c6dbbf5aaa] Church worship or religious meetings.
+**13.**[^c-912e9b42e4165dccba0fc8c6dbbf5aaa] Church worship or religious meetings.
 
-**14.**[^key-77db1a94e85f0b1c3c91da945fd26d9e] The provision of car parking facilities within the perimeter of an airport.
+**14.**[^c-77db1a94e85f0b1c3c91da945fd26d9e] The provision of car parking facilities within the perimeter of an airport.
 
-**15.**[^key-33bd1f9f8565c823eff805302d476a9b] The provision of child care, or playgroup or nursery facilities.
+**15.**[^c-33bd1f9f8565c823eff805302d476a9b] The provision of child care, or playgroup or nursery facilities.
 
 ## SCHEDULE 2 — ACTIVITIES IN RESPECT OF WHICH THE HEALTH AND SAFETY EXECUTIVE IS THE ENFORCING AUTHORITY
 
 Regulation 4(4)(b)
 
-**1.**[^key-e6ae556e6bd48d9d647783c992f5954e] Any activity in a mine or quarry other than a quarry in respect of which notice of abandonment has been given under regulation 45(1) of the Quarries Regulations 1999[^key-50bd36372d591ec0d0fd268a85c72576].
+**1.**[^c-e6ae556e6bd48d9d647783c992f5954e] Any activity in a mine or quarry other than a quarry in respect of which notice of abandonment has been given under regulation 45(1) of the Quarries Regulations 1999[^c-50bd36372d591ec0d0fd268a85c72576].
 
-**2.**[^key-ee8f1b529faae4bb0a7e908228259120] Any activity in a fairground.
+**2.**[^c-ee8f1b529faae4bb0a7e908228259120] Any activity in a fairground.
 
-**3.**[^key-4ccfe5465ba8b5c0c2cc0a4d5d538b10] Any activity in premises occupied by a radio, television or film undertaking in which the activity of broadcasting, recording or filming is carried on, and the activity of broadcasting, recording or filming wherever carried on, and for this purpose “film” includes video.
+**3.**[^c-4ccfe5465ba8b5c0c2cc0a4d5d538b10] Any activity in premises occupied by a radio, television or film undertaking in which the activity of broadcasting, recording or filming is carried on, and the activity of broadcasting, recording or filming wherever carried on, and for this purpose “film” includes video.
 
-**4.**[^key-1207d1b3a5cb69592cf5601885f8940f] The following activities carried on at any premises by persons who do not normally work in the premises—
+**4.**[^c-1207d1b3a5cb69592cf5601885f8940f] The following activities carried on at any premises by persons who do not normally work in the premises—
 
 - (a) construction work if—
-  - (i)[^key-6afa0c105dc8a5c818d9417aeda82b72] the project which includes the work is notifiable within the meaning of regulation 2(3) of the Construction (Design and Management) Regulations 2015[^key-f61fdca2925b27671afd16096a33781a]; or
+  - (i)[^c-6afa0c105dc8a5c818d9417aeda82b72] the project which includes the work is notifiable within the meaning of regulation 2(3) of the Construction (Design and Management) Regulations 2015[^c-f61fdca2925b27671afd16096a33781a]; or
   - (ii) the whole or part of the work contracted to be undertaken by the contractor at the premises is to the external fabric or other external part of a building or structure; or
   - (iii) it is carried out in a physically segregated area of the premises, the activities normally carried out in that area have been suspended for the purpose of enabling the construction work to be carried out, the contractor has authority to exclude from that area persons who are not attending in connection with the carrying out of the work and the work is not the maintenance of insulation on pipes, boilers or other parts of heating or water systems or its removal from them;
 - (b) the installation, maintenance or repair of any gas system, or any work in relation to a gas fitting;
 - (c) the installation, maintenance or repair of electricity systems;
-- (d) work with ionising radiations except work in one or more of the categories set out in Schedule 1 to the Ionising Radiations Regulations 2017 \[SI 2017/1075\][^key-45cd98167c55f2eeda4a017abab19b17].
+- (d) work with ionising radiations except work in one or more of the categories set out in Schedule 1 to the Ionising Radiations Regulations 2017 \[SI 2017/1075\][^c-45cd98167c55f2eeda4a017abab19b17].
 
-### 4A.[^key-df382f9a46aa8a630bd5cb80ce1536dc]
+### 4A.[^c-df382f9a46aa8a630bd5cb80ce1536dc]
 
-The reference in paragraph 4(a)(iii) to a physically segregated area does not include an area segregated only in order to prevent the escape of asbestos; and in this paragraph “[^key-1ca53ead8c346bf97298707690657a11]**asbestos**” has the meaning assigned to it by regulation 2(1) of the Control of Asbestos Regulations 2012.
+The reference in paragraph 4(a)(iii) to a physically segregated area does not include an area segregated only in order to prevent the escape of asbestos; and in this paragraph “[^c-1ca53ead8c346bf97298707690657a11]**asbestos**” has the meaning assigned to it by regulation 2(1) of the Control of Asbestos Regulations 2012.
 
-**5.**[^key-12187ce3653fcbfd1e3061f8df1fc5ac] The use of ionising radiations for medical exposure (within the meaning of regulation 2(1) of the Ionising Radiations Regulations 2017 \[SI 2017/1075\][^key-6e22721aa24b58b42142b796f6e75d12]).
+**5.**[^c-12187ce3653fcbfd1e3061f8df1fc5ac] The use of ionising radiations for medical exposure (within the meaning of regulation 2(1) of the Ionising Radiations Regulations 2017 \[SI 2017/1075\][^c-6e22721aa24b58b42142b796f6e75d12]).
 
-**6.**[^key-3874a004486a906b48a8626b8ecc377f] Any activity in premises occupied by a radiography undertaking in which there is carried on any work with ionising radiations.
+**6.**[^c-3874a004486a906b48a8626b8ecc377f] Any activity in premises occupied by a radiography undertaking in which there is carried on any work with ionising radiations.
 
-**7.**[^key-651045ad0b00f5a9bd5ede48f439bdfa] Agricultural activities, and any activity at an agricultural show which involves the handling of livestock or the working of agricultural equipment.
+**7.**[^c-651045ad0b00f5a9bd5ede48f439bdfa] Agricultural activities, and any activity at an agricultural show which involves the handling of livestock or the working of agricultural equipment.
 
-**8.**[^key-c007497a8c4e3cb01824a967a8a2be81] Any activity on board a sea-going ship.
+**8.**[^c-c007497a8c4e3cb01824a967a8a2be81] Any activity on board a sea-going ship.
 
-**9.**[^key-5ceb375f056458a23e181d0f2557b62b] Any activity in relation to a ski slope, ski lift, ski tow or cable car.
+**9.**[^c-5ceb375f056458a23e181d0f2557b62b] Any activity in relation to a ski slope, ski lift, ski tow or cable car.
 
-**10.**[^key-e36f0f3a0205263ee2f35b94f6b73109] Fish, maggot and game breeding except in a zoo.
+**10.**[^c-e36f0f3a0205263ee2f35b94f6b73109] Fish, maggot and game breeding except in a zoo.
 
-**11.**[^key-92a8b4dd587c59f2ea8ffe6cae962409] Any activity in relation to a pipeline within the meaning of regulation 3 of the Pipelines Safety Regulations 1996[^f00020].
+**11.**[^c-92a8b4dd587c59f2ea8ffe6cae962409] Any activity in relation to a pipeline within the meaning of regulation 3 of the Pipelines Safety Regulations 1996[^f00020].
 
-**12.**[^key-d3e7003146b30272ad544edef990e7de] The operation of—
+**12.**[^c-d3e7003146b30272ad544edef990e7de] The operation of—
 
 - (a) a guided bus system; or
 - (b) any other system of guided transport, other than a railway, that employs vehicles which for some or all of the time when they are in operation travel along roads.
 
-**13.**[^key-edabeacd759cfe1d9be26ac0e205d303] The operation of a trolley vehicle system.
+**13.**[^c-edabeacd759cfe1d9be26ac0e205d303] The operation of a trolley vehicle system.
 
-**14.**[^key-b4bc39e7ad05aa4e515bf6002db493bc] Any activity regulated by the Acetylene Safety (England and Wales and Scotland) Regulations 2014.
+**14.**[^c-b4bc39e7ad05aa4e515bf6002db493bc] Any activity regulated by the Acetylene Safety (England and Wales and Scotland) Regulations 2014.
 
-## SCHEDULE 3 — REVOCATION OF INSTRUMENTS[^key-15a32b2c4cbc8cf24861fb2342270055]
+## SCHEDULE 3 — REVOCATION OF INSTRUMENTS[^c-15a32b2c4cbc8cf24861fb2342270055]
 
 Regulation 7
 
@@ -443,7 +443,7 @@ Regulation 7
 </tbody>
 </table>
 
-[^key-f6f0e6bdd691b4a777911e3a780dfccf][^key-f6f0e6bdd691b4a777911e3a780dfccf][^key-f6f0e6bdd691b4a777911e3a780dfccf][^key-f6f0e6bdd691b4a777911e3a780dfccf][^key-f6f0e6bdd691b4a777911e3a780dfccf][^key-f6f0e6bdd691b4a777911e3a780dfccf]
+[^c-f6f0e6bdd691b4a777911e3a780dfccf][^c-f6f0e6bdd691b4a777911e3a780dfccf][^c-f6f0e6bdd691b4a777911e3a780dfccf][^c-f6f0e6bdd691b4a777911e3a780dfccf][^c-f6f0e6bdd691b4a777911e3a780dfccf][^c-f6f0e6bdd691b4a777911e3a780dfccf]
 
 (This note is not part of the Regulations)
 
@@ -481,49 +481,49 @@ Regulation 7
 
 [^f00001]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37); sections 15 and 50 were amended by the Employment Protection Act [1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), Schedule 15, paragraphs 6 and 16 respectively.
 
-[^key-1d91ff48f6fd47bfbe251926853b8209]: Modification: Regulations excluded (1.4.1999) by [The Control of Major Accident Hazards Regulations 1999 (S.I. 1999/743)](https://www.legislation.gov.uk/uksi/1999/743), [regs. 1](https://www.legislation.gov.uk/uksi/1999/743/regulation/1), [20(6)](https://www.legislation.gov.uk/uksi/1999/743/regulation/20/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/1999/743/regulation/3))
+[^c-1d91ff48f6fd47bfbe251926853b8209]: Modification: Regulations excluded (1.4.1999) by [The Control of Major Accident Hazards Regulations 1999 (S.I. 1999/743)](https://www.legislation.gov.uk/uksi/1999/743), [regs. 1](https://www.legislation.gov.uk/uksi/1999/743/regulation/1), [20(6)](https://www.legislation.gov.uk/uksi/1999/743/regulation/20/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/1999/743/regulation/3))
 
-[^key-345fef4d481311de6c02b1d5181f7f01]: Modification: Regulations excluded in part (19.11.1999) by [Nuclear Reactors (Environmental Impact Assessment for Decommissioning) Regulations 1999 (S.I. 1999/2892)](https://www.legislation.gov.uk/uksi/1999/2892), [regs. 1](https://www.legislation.gov.uk/uksi/1999/2892/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/16/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/1999/2892/regulation/3), [14](https://www.legislation.gov.uk/uksi/1999/2892/regulation/14))
+[^c-345fef4d481311de6c02b1d5181f7f01]: Modification: Regulations excluded in part (19.11.1999) by [Nuclear Reactors (Environmental Impact Assessment for Decommissioning) Regulations 1999 (S.I. 1999/2892)](https://www.legislation.gov.uk/uksi/1999/2892), [regs. 1](https://www.legislation.gov.uk/uksi/1999/2892/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/1999/2892/regulation/16/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/1999/2892/regulation/3), [14](https://www.legislation.gov.uk/uksi/1999/2892/regulation/14))
 
-[^key-12572d4ac7bfbee741fb3b582f6a3a86]: Modification: Regulations excluded (15.11.2000) by [The Genetically Modified Organisms (Contained Use) Regulations 2000 (S.I. 2000/2831)](https://www.legislation.gov.uk/uksi/2000/2831), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2831/regulation/1), [26(3)](https://www.legislation.gov.uk/uksi/2000/2831/regulation/26/3)
+[^c-12572d4ac7bfbee741fb3b582f6a3a86]: Modification: Regulations excluded (15.11.2000) by [The Genetically Modified Organisms (Contained Use) Regulations 2000 (S.I. 2000/2831)](https://www.legislation.gov.uk/uksi/2000/2831), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2831/regulation/1), [26(3)](https://www.legislation.gov.uk/uksi/2000/2831/regulation/26/3)
 
-[^key-9bf28909fbb95181fc6d7af58c706413]: Modification: Regulations applied (6.4.2001) by [The Biocidal Products Regulations 2001 (S.I. 2001/880)](https://www.legislation.gov.uk/uksi/2001/880), [reg. 1](https://www.legislation.gov.uk/uksi/2001/880/regulation/1), [Sch. 11 para. 5(6)](https://www.legislation.gov.uk/uksi/2001/880/schedule/11/paragraph/5/6)
+[^c-9bf28909fbb95181fc6d7af58c706413]: Modification: Regulations applied (6.4.2001) by [The Biocidal Products Regulations 2001 (S.I. 2001/880)](https://www.legislation.gov.uk/uksi/2001/880), [reg. 1](https://www.legislation.gov.uk/uksi/2001/880/regulation/1), [Sch. 11 para. 5(6)](https://www.legislation.gov.uk/uksi/2001/880/schedule/11/paragraph/5/6)
 
-[^key-3723e1a8f3a49b0a0f750889c9b71d51]: Modification: Regulations applied (9.6.2004) by [The Adventure Activities (Enforcing Authority) Regulations 2004 (S.I. 2004/1359)](https://www.legislation.gov.uk/uksi/2004/1359), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1359/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2004/1359/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2004/1359/regulation/2/2))
+[^c-3723e1a8f3a49b0a0f750889c9b71d51]: Modification: Regulations applied (9.6.2004) by [The Adventure Activities (Enforcing Authority) Regulations 2004 (S.I. 2004/1359)](https://www.legislation.gov.uk/uksi/2004/1359), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1359/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2004/1359/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2004/1359/regulation/2/2))
 
-[^key-3e0c64bd2b3473a757290dda275c4f04]: Modification: Regulations excluded (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1506/regulation/1), [9(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/9/1) (with [regs. 3(4)(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
+[^c-3e0c64bd2b3473a757290dda275c4f04]: Modification: Regulations excluded (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1506/regulation/1), [9(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/9/1) (with [regs. 3(4)(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
 
-[^key-8934e22f32a33ca3a330bf0956c3d003]: Modification: Regulations applied (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1506/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/9/5) (with [regs. 3(4)(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4/5), [9(6)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/9/6), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
+[^c-8934e22f32a33ca3a330bf0956c3d003]: Modification: Regulations applied (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1506/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/9/5) (with [regs. 3(4)(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4/5), [9(6)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/9/6), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
 
-[^key-1882aaf98bdcc813cbb5c20f5a1f0505]: Modification: Regulations excluded (1.4.2014) by [S.I. 1996/341](https://www.legislation.gov.uk/uksi/1996/341), [reg. 7(1)](https://www.legislation.gov.uk/uksi/1996/341/regulation/7/1) (as substituted by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 64](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/64) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4)))
+[^c-1882aaf98bdcc813cbb5c20f5a1f0505]: Modification: Regulations excluded (1.4.2014) by [S.I. 1996/341](https://www.legislation.gov.uk/uksi/1996/341), [reg. 7(1)](https://www.legislation.gov.uk/uksi/1996/341/regulation/7/1) (as substituted by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 64](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/64) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4)))
 
-[^key-9fa0c155af3c17e6ee025a98a34ea72d]: Modification: Regulations excluded (1.4.2014) by [S.I. 1996/890](https://www.legislation.gov.uk/uksi/1996/890), [reg. 6](https://www.legislation.gov.uk/uksi/1996/890/regulation/6) (as substituted by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 65](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/65) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4)))
+[^c-9fa0c155af3c17e6ee025a98a34ea72d]: Modification: Regulations excluded (1.4.2014) by [S.I. 1996/890](https://www.legislation.gov.uk/uksi/1996/890), [reg. 6](https://www.legislation.gov.uk/uksi/1996/890/regulation/6) (as substituted by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 65](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/65) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4)))
 
-[^key-4fa5db99508ed55b2c13b68d978090dc]: Modification: Regulations excluded (1.4.2014) by [S.I. 1993/2714](https://www.legislation.gov.uk/uksi/1993/2714), [reg. 9(1)](https://www.legislation.gov.uk/uksi/1993/2714/regulation/9/1) (as substituted by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 55(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/55/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4)))
+[^c-4fa5db99508ed55b2c13b68d978090dc]: Modification: Regulations excluded (1.4.2014) by [S.I. 1993/2714](https://www.legislation.gov.uk/uksi/1993/2714), [reg. 9(1)](https://www.legislation.gov.uk/uksi/1993/2714/regulation/9/1) (as substituted by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 55(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/55/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4)))
 
-[^key-4f906a8cc9e678943d8b069612c420be]: Modification: Regulations excluded (1.6.2015) by [The Control of Major Accident Hazards Regulations 2015 (S.I. 2015/483)](https://www.legislation.gov.uk/uksi/2015/483), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/483/regulation/1/1), [27(5)](https://www.legislation.gov.uk/uksi/2015/483/regulation/27/5) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/483/regulation/3/2))
+[^c-4f906a8cc9e678943d8b069612c420be]: Modification: Regulations excluded (1.6.2015) by [The Control of Major Accident Hazards Regulations 2015 (S.I. 2015/483)](https://www.legislation.gov.uk/uksi/2015/483), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/483/regulation/1/1), [27(5)](https://www.legislation.gov.uk/uksi/2015/483/regulation/27/5) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/483/regulation/3/2))
 
-[^key-e6e9e0e21a558fb3c79185329942b8cc]: Modification: Regulations excluded (1.6.2015) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/1/1), [18(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/18/1) (with [regs. 3(4)(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
+[^c-e6e9e0e21a558fb3c79185329942b8cc]: Modification: Regulations excluded (1.6.2015) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/1/1), [18(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/18/1) (with [regs. 3(4)(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
 
-[^key-a68b0f8805032629c2cf8966fb1553b5]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1998/494) applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 42](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/42)
+[^c-a68b0f8805032629c2cf8966fb1553b5]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1998/494) applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 42](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/42)
 
-[^key-33d17ddd52dfeca672dd4358d95c1e95]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1998/494) applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 42](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/42)
+[^c-33d17ddd52dfeca672dd4358d95c1e95]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1998/494) applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 42](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/42)
 
-[^key-b15dd838113652f18c1ce536596566e9]: Commencement: Reg. 1 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-b15dd838113652f18c1ce536596566e9]: Commencement: Reg. 1 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-640ae0fe98679191b2d4c6dfc287befd]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/uksi/1998/494/regulation/1A) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 71](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/71) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-640ae0fe98679191b2d4c6dfc287befd]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/uksi/1998/494/regulation/1A) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 71](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/71) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-096c23705e15b6ef1bc9932530ad18f9]: Commencement: Reg. 2 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-096c23705e15b6ef1bc9932530ad18f9]: Commencement: Reg. 2 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-d5543787af0b4f4ca91af8ed9c52d64b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 72(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/72/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-d5543787af0b4f4ca91af8ed9c52d64b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 72(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/72/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-58580601e09dfff1d648b107e3e0c6ca]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) inserted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 6(2)(a)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/6/2/a)
+[^c-58580601e09dfff1d648b107e3e0c6ca]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) inserted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 6(2)(a)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/6/2/a)
 
-[^key-b3d0b196e75b9f7fefcfd882592edf48]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) inserted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [6(2)(a)](https://www.legislation.gov.uk/uksi/2015/21/regulation/6/2/a)
+[^c-b3d0b196e75b9f7fefcfd882592edf48]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) inserted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [6(2)(a)](https://www.legislation.gov.uk/uksi/2015/21/regulation/6/2/a)
 
-[^key-8b21cc778b0512272e0abd5675424af6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) omitted (1.4.2008) by virtue of [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
+[^c-8b21cc778b0512272e0abd5675424af6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) omitted (1.4.2008) by virtue of [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
 
-[^key-e026b0e179730035354e64efcfb47798]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) substituted (6.4.2015) by [The Construction (Design and Management) Regulations 2015 (S.I. 2015/51)](https://www.legislation.gov.uk/uksi/2015/51), [reg. 1](https://www.legislation.gov.uk/uksi/2015/51/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/51/schedule/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/51/regulation/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/51/schedule/4))
+[^c-e026b0e179730035354e64efcfb47798]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) substituted (6.4.2015) by [The Construction (Design and Management) Regulations 2015 (S.I. 2015/51)](https://www.legislation.gov.uk/uksi/2015/51), [reg. 1](https://www.legislation.gov.uk/uksi/2015/51/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/51/schedule/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/51/regulation/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/51/schedule/4))
 
 [^M_F_57a85bb9-6629-4d5e-b633-06f83d529f64]: Textual amendment: Words in reg. 2(1) inserted (6.4.2009) by [The Chemicals (Hazard Information and Packaging for Supply) Regulations 2009 (S.I. 2009/716)](https://www.legislation.gov.uk/uksi/2009/716), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/716/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2009/716/schedule/6) (with [regs. 3](https://www.legislation.gov.uk/uksi/2009/716/regulation/3), [16](https://www.legislation.gov.uk/uksi/2009/716/regulation/16))
 
@@ -533,35 +533,35 @@ Regulation 7
 
 [^f00005]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44).
 
-[^key-66c311ab68ae8b0304e869b091f2c75e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) inserted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 6(2)(b)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/6/2/b)
+[^c-66c311ab68ae8b0304e869b091f2c75e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) inserted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 6(2)(b)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/6/2/b)
 
-[^key-b55126b025d9ccb071a6c10e8c1dd6cf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) inserted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [6(2)(b)](https://www.legislation.gov.uk/uksi/2015/21/regulation/6/2/b)
+[^c-b55126b025d9ccb071a6c10e8c1dd6cf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) inserted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [6(2)(b)](https://www.legislation.gov.uk/uksi/2015/21/regulation/6/2/b)
 
-[^key-e209d8fdc7288e7292ed4f9e59d5fe60]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) substituted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/schedule/1/paragraph/1/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e209d8fdc7288e7292ed4f9e59d5fe60]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) substituted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/schedule/1/paragraph/1/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f0520d3fc7809f8292f655d1ac14f228]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) substituted (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [Sch. 9 para. 4(2)](https://www.legislation.gov.uk/uksi/2017/1075/schedule/9/paragraph/4/2) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
+[^c-f0520d3fc7809f8292f655d1ac14f228]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) substituted (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [Sch. 9 para. 4(2)](https://www.legislation.gov.uk/uksi/2017/1075/schedule/9/paragraph/4/2) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
 
 [^f00007]: Footnote: [1954 c. 70](https://www.legislation.gov.uk/ukpga/1954/70).
 
-[^key-a08314bebd3db5071444c04a4a074d3a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) inserted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 6(2)(c)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/6/2/c)
+[^c-a08314bebd3db5071444c04a4a074d3a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) inserted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 6(2)(c)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/6/2/c)
 
-[^key-d3c83c38ce88abbdc5ae43b45f96f53d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/8) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-d3c83c38ce88abbdc5ae43b45f96f53d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/8) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
 
-[^key-1e30f3f85f1bdcaf9272a44470f355f5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 72(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/72/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-1e30f3f85f1bdcaf9272a44470f355f5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 72(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/72/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
 [^M_F_de8ecbbb-676e-4aae-c6af-fec0626c6c8a]: Textual amendment: Words in reg. 2(1) omitted (6.4.2009) by virtue of [The Chemicals (Hazard Information and Packaging for Supply) Regulations 2009 (S.I. 2009/716)](https://www.legislation.gov.uk/uksi/2009/716), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/716/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2009/716/schedule/6) (with [regs. 3](https://www.legislation.gov.uk/uksi/2009/716/regulation/3), [16](https://www.legislation.gov.uk/uksi/2009/716/regulation/16))
 
-[^key-2acf9ddba5487751c13e2f257b549839]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) omitted (1.4.2006) by virtue of [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 6(2)(d)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/6/2/d)
+[^c-2acf9ddba5487751c13e2f257b549839]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) omitted (1.4.2006) by virtue of [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 6(2)(d)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/6/2/d)
 
-[^key-81e9f4251fbd4a53a2acd359c30c4cbb]: Textual amendment: Words in reg. 2(1) substituted (1.1.2000) by [The Quarries Regulations 1999 (S.I. 1999/2024)](https://www.legislation.gov.uk/uksi/1999/2024), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/2)
+[^c-81e9f4251fbd4a53a2acd359c30c4cbb]: Textual amendment: Words in reg. 2(1) substituted (1.1.2000) by [The Quarries Regulations 1999 (S.I. 1999/2024)](https://www.legislation.gov.uk/uksi/1999/2024), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/2)
 
-[^key-92ab4ec7d101a28a42b8a7e95c272d4c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) substituted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 6(2)(e)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/6/2/e)
+[^c-92ab4ec7d101a28a42b8a7e95c272d4c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) substituted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 6(2)(e)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/6/2/e)
 
-[^key-21d10587de42f91675c59af4cddc9184]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) inserted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 6(2)(f)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/6/2/f)
+[^c-21d10587de42f91675c59af4cddc9184]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) inserted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 6(2)(f)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/6/2/f)
 
 [^M_F_b663c07f-16e4-4e18-e2ff-65957290ff3c]: Textual amendment: Words in reg. 2(1) omitted (6.4.2009) by virtue of [The Chemicals (Hazard Information and Packaging for Supply) Regulations 2009 (S.I. 2009/716)](https://www.legislation.gov.uk/uksi/2009/716), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/716/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2009/716/schedule/6) (with [regs. 3](https://www.legislation.gov.uk/uksi/2009/716/regulation/3), [16](https://www.legislation.gov.uk/uksi/2009/716/regulation/16))
 
-[^key-a0119fa9f28ee0ad24994d0ca1cf7957]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) inserted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 6(2)(g)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/6/2/g)
+[^c-a0119fa9f28ee0ad24994d0ca1cf7957]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2/1) inserted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 6(2)(g)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/6/2/g)
 
 [^f00010]: Footnote: [1966 c. 36](https://www.legislation.gov.uk/ukpga/1966/36).
 
@@ -569,148 +569,148 @@ Regulation 7
 
 [^f00012]: Footnote: [1981 c. 37](https://www.legislation.gov.uk/ukpga/1981/37).
 
-[^key-4408720b3ffb108df1c06a70843a13b4]: Textual amendment: [Regs. 2A](https://www.legislation.gov.uk/uksi/1998/494/regulation/2A), [2B](https://www.legislation.gov.uk/uksi/1998/494/regulation/2B) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 73](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/73) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-4408720b3ffb108df1c06a70843a13b4]: Textual amendment: [Regs. 2A](https://www.legislation.gov.uk/uksi/1998/494/regulation/2A), [2B](https://www.legislation.gov.uk/uksi/1998/494/regulation/2B) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 73](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/73) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-44c90a2b526f0009391ea2f1f2560ae9]: Textual amendment: Word in [reg. 2A(5)(a)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2A/5/a) substituted (6.4.2015) by [The Construction (Design and Management) Regulations 2015 (S.I. 2015/51)](https://www.legislation.gov.uk/uksi/2015/51), [reg. 1](https://www.legislation.gov.uk/uksi/2015/51/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/51/schedule/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/51/regulation/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/51/schedule/4))
+[^c-44c90a2b526f0009391ea2f1f2560ae9]: Textual amendment: Word in [reg. 2A(5)(a)](https://www.legislation.gov.uk/uksi/1998/494/regulation/2A/5/a) substituted (6.4.2015) by [The Construction (Design and Management) Regulations 2015 (S.I. 2015/51)](https://www.legislation.gov.uk/uksi/2015/51), [reg. 1](https://www.legislation.gov.uk/uksi/2015/51/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/51/schedule/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/51/regulation/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/51/schedule/4))
 
-[^key-3e6f7dba85f1d492f6b44fcae37b2d5a]: Commencement: Reg. 3 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-3e6f7dba85f1d492f6b44fcae37b2d5a]: Commencement: Reg. 3 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-2d28077399a44e43c7ea0efb1f9966e6]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/1998/494/regulation/3) excluded (1.10.2014) by [The Genetically Modified Organisms (Contained Use) Regulations 2014 (S.I. 2014/1663)](https://www.legislation.gov.uk/uksi/2014/1663), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1663/regulation/1), [30(5)](https://www.legislation.gov.uk/uksi/2014/1663/regulation/30/5) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1663/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2014/1663/regulation/3/2))
+[^c-2d28077399a44e43c7ea0efb1f9966e6]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/1998/494/regulation/3) excluded (1.10.2014) by [The Genetically Modified Organisms (Contained Use) Regulations 2014 (S.I. 2014/1663)](https://www.legislation.gov.uk/uksi/2014/1663), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1663/regulation/1), [30(5)](https://www.legislation.gov.uk/uksi/2014/1663/regulation/30/5) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1663/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2014/1663/regulation/3/2))
 
 [^f00013]: Footnote: [1987 c. 53](https://www.legislation.gov.uk/ukpga/1987/53).
 
 [^f00014]: Footnote: S.I. [1995/738](https://www.legislation.gov.uk/uksi/1995/738).
 
-[^key-7eda75573350b7cdfcc1abced77362f0]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1998/494/regulation/3) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(c)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/c)
+[^c-7eda75573350b7cdfcc1abced77362f0]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1998/494/regulation/3) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(c)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/c)
 
-[^key-1f6e708c07b387b6826f68854880dd59]: Textual amendment: Words in [reg. 3(7)](https://www.legislation.gov.uk/uksi/1998/494/regulation/3/7) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 74](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/74) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-1f6e708c07b387b6826f68854880dd59]: Textual amendment: Words in [reg. 3(7)](https://www.legislation.gov.uk/uksi/1998/494/regulation/3/7) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 74](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/74) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-d7abe1561ccf27ca3c6d62c8077e803b]: Commencement: Reg. 4 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-d7abe1561ccf27ca3c6d62c8077e803b]: Commencement: Reg. 4 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-fc091a54a12348d9fd16223d4be5565b]: Modification: [Reg. 4(3)(d)](https://www.legislation.gov.uk/uksi/1998/494/regulation/4/3/d) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 42(2)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/42/2)
+[^c-fc091a54a12348d9fd16223d4be5565b]: Modification: [Reg. 4(3)(d)](https://www.legislation.gov.uk/uksi/1998/494/regulation/4/3/d) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 42(2)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/42/2)
 
-[^key-811b15e951bab618642403133e61be03]: Modification: [Reg. 4(3)(d)](https://www.legislation.gov.uk/uksi/1998/494/regulation/4/3/d) modified (E.) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 42(2)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/42/2)
+[^c-811b15e951bab618642403133e61be03]: Modification: [Reg. 4(3)(d)](https://www.legislation.gov.uk/uksi/1998/494/regulation/4/3/d) modified (E.) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 42(2)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/42/2)
 
-[^key-d11feae874636e21767c874b70156f39]: Textual amendment: Words in [reg. 4(3)(d)](https://www.legislation.gov.uk/uksi/1998/494/regulation/4/3/d) inserted (16.1.2012) by [The Local Policing Bodies (Consequential Amendments) Regulations 2011 (S.I. 2011/3058)](https://www.legislation.gov.uk/uksi/2011/3058), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/15/2)
+[^c-d11feae874636e21767c874b70156f39]: Textual amendment: Words in [reg. 4(3)(d)](https://www.legislation.gov.uk/uksi/1998/494/regulation/4/3/d) inserted (16.1.2012) by [The Local Policing Bodies (Consequential Amendments) Regulations 2011 (S.I. 2011/3058)](https://www.legislation.gov.uk/uksi/2011/3058), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/15/2)
 
-[^key-bf466209a1cd6b945f6b4c17eeb866c8]: Textual amendment: Reg. 4(3)(e) substituted (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2005/1541/schedule/3/paragraph/5) (with [arts. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49), [51](https://www.legislation.gov.uk/uksi/2005/1541/article/51)) (as amended by [S.I. 2006/484](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))
+[^c-bf466209a1cd6b945f6b4c17eeb866c8]: Textual amendment: Reg. 4(3)(e) substituted (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2005/1541/schedule/3/paragraph/5) (with [arts. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49), [51](https://www.legislation.gov.uk/uksi/2005/1541/article/51)) (as amended by [S.I. 2006/484](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))
 
-[^key-4f3eef651081b5894f482bdcbd6c8cf3]: Textual amendment: Words in [reg. 4(3)(e)](https://www.legislation.gov.uk/uksi/1998/494/regulation/4/3/e) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 76](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/76)
+[^c-4f3eef651081b5894f482bdcbd6c8cf3]: Textual amendment: Words in [reg. 4(3)(e)](https://www.legislation.gov.uk/uksi/1998/494/regulation/4/3/e) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 76](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/76)
 
 [^f00016]: Footnote: [1964 c. 5](https://www.legislation.gov.uk/ukpga/1964/5).
 
 [^f00017]: Footnote: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67).
 
-[^key-a1e59f4904d67769bc3d5142992e403b]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/uksi/1998/494/regulation/4/6) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 75(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/75/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-a1e59f4904d67769bc3d5142992e403b]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/uksi/1998/494/regulation/4/6) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 75(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/75/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-10d72b31d3186e22455aa76520fd6116]: Textual amendment: [Reg. 4(7)-(12)](https://www.legislation.gov.uk/uksi/1998/494/regulation/4/7) revoked (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 17](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/17), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
+[^c-10d72b31d3186e22455aa76520fd6116]: Textual amendment: [Reg. 4(7)-(12)](https://www.legislation.gov.uk/uksi/1998/494/regulation/4/7) revoked (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 17](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/17), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
 
-[^key-1a383ffb38b54f8573528d7655c7eb74]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/1998/494/regulation/4A) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 76](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/76) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-1a383ffb38b54f8573528d7655c7eb74]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/1998/494/regulation/4A) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 76](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/76) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-de7fc101628477116c606c75f2719fbc]: Textual amendment: [Reg. 4A(2)(a)](https://www.legislation.gov.uk/uksi/1998/494/regulation/4A/2/a)[(aa)](https://www.legislation.gov.uk/uksi/1998/494/regulation/4A/2/aa) substituted for [reg. 4A(2)(a)](https://www.legislation.gov.uk/uksi/1998/494/regulation/4A/2/a) (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [Sch. 9 para. 4(3)(a)](https://www.legislation.gov.uk/uksi/2017/1075/schedule/9/paragraph/4/3/a) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
+[^c-de7fc101628477116c606c75f2719fbc]: Textual amendment: [Reg. 4A(2)(a)](https://www.legislation.gov.uk/uksi/1998/494/regulation/4A/2/a)[(aa)](https://www.legislation.gov.uk/uksi/1998/494/regulation/4A/2/aa) substituted for [reg. 4A(2)(a)](https://www.legislation.gov.uk/uksi/1998/494/regulation/4A/2/a) (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [Sch. 9 para. 4(3)(a)](https://www.legislation.gov.uk/uksi/2017/1075/schedule/9/paragraph/4/3/a) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
 
-[^key-05639c9a6debb0688ad947e99f3d175a]: Textual amendment: Words in [reg. 4A(2)(aa)](https://www.legislation.gov.uk/uksi/1998/494/regulation/4A/2/aa) substituted (22.5.2019) by [The Radiation (Emergency Preparedness and Public Information) Regulations 2019 (S.I. 2019/703)](https://www.legislation.gov.uk/uksi/2019/703), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1), [Sch. 10 para. 3](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/703/regulation/3))
+[^c-05639c9a6debb0688ad947e99f3d175a]: Textual amendment: Words in [reg. 4A(2)(aa)](https://www.legislation.gov.uk/uksi/1998/494/regulation/4A/2/aa) substituted (22.5.2019) by [The Radiation (Emergency Preparedness and Public Information) Regulations 2019 (S.I. 2019/703)](https://www.legislation.gov.uk/uksi/2019/703), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1), [Sch. 10 para. 3](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/703/regulation/3))
 
-[^key-b48eb7994663d7ac4de1345dc7826450]: Textual amendment: [Reg. 4A(3)](https://www.legislation.gov.uk/uksi/1998/494/regulation/4A/3) substituted (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [Sch. 9 para. 4(3)(b)](https://www.legislation.gov.uk/uksi/2017/1075/schedule/9/paragraph/4/3/b) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
+[^c-b48eb7994663d7ac4de1345dc7826450]: Textual amendment: [Reg. 4A(3)](https://www.legislation.gov.uk/uksi/1998/494/regulation/4A/3) substituted (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [Sch. 9 para. 4(3)(b)](https://www.legislation.gov.uk/uksi/2017/1075/schedule/9/paragraph/4/3/b) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
 
-[^key-06e483cd9bcd8304445774dd2618bad8]: Commencement: Reg. 5 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-06e483cd9bcd8304445774dd2618bad8]: Commencement: Reg. 5 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-2b7c9be87e808f17d363b52d0089c267]: Textual amendment: [Reg. 5(A1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/5/A1) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 77](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/77) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-2b7c9be87e808f17d363b52d0089c267]: Textual amendment: [Reg. 5(A1)](https://www.legislation.gov.uk/uksi/1998/494/regulation/5/A1) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 77](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/77) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-d88e3ff24a82596cd3f897927d751554]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/1998/494/regulation/5/2)[(3)](https://www.legislation.gov.uk/uksi/1998/494/regulation/5/3) omitted (1.4.2008) by virtue of [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
+[^c-d88e3ff24a82596cd3f897927d751554]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/1998/494/regulation/5/2)[(3)](https://www.legislation.gov.uk/uksi/1998/494/regulation/5/3) omitted (1.4.2008) by virtue of [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
 
-[^key-3f282c67ac84a181df387c47a11fb33d]: Commencement: Reg. 6 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-3f282c67ac84a181df387c47a11fb33d]: Commencement: Reg. 6 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-cbb4dd0316dd425c14da59079e588385]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/1998/494/regulation/6) heading substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 78(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/78/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-cbb4dd0316dd425c14da59079e588385]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/1998/494/regulation/6) heading substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 78(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/78/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-999e1d7fd0f594404e9af184fa8a0bf1]: Textual amendment: Reg. 6(1A)-(1D) substituted for reg. 6(1) (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 78(3)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/78/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-999e1d7fd0f594404e9af184fa8a0bf1]: Textual amendment: Reg. 6(1A)-(1D) substituted for reg. 6(1) (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 78(3)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/78/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-2e46bcf493d355555d206b8cc444a955]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/1998/494/regulation/6/2) substituted (1.4.2008) by [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
+[^c-2e46bcf493d355555d206b8cc444a955]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/1998/494/regulation/6/2) substituted (1.4.2008) by [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
 
-[^key-d11b856a11bf973481edbfb52e5e4b4c]: Textual amendment: [Regs. 6A](https://www.legislation.gov.uk/uksi/1998/494/regulation/6A), [6B](https://www.legislation.gov.uk/uksi/1998/494/regulation/6B) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 79](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/79) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-d11b856a11bf973481edbfb52e5e4b4c]: Textual amendment: [Regs. 6A](https://www.legislation.gov.uk/uksi/1998/494/regulation/6A), [6B](https://www.legislation.gov.uk/uksi/1998/494/regulation/6B) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 79](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/79) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-36d7b381bbf22f1db1b3dd29efc4ef0e]: Commencement: Reg. 7 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-36d7b381bbf22f1db1b3dd29efc4ef0e]: Commencement: Reg. 7 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-8e7861472bac59755e6acd88a7b7198c]: Commencement: Sch. 1 para. 1 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-8e7861472bac59755e6acd88a7b7198c]: Commencement: Sch. 1 para. 1 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
 [^M_F_ef1f8cc5-8fc4-4249-94ae-980e3451212b]: Textual amendment: Words in Sch. 1 para. 1(b) substituted (6.4.2009) by [The Chemicals (Hazard Information and Packaging for Supply) Regulations 2009 (S.I. 2009/716)](https://www.legislation.gov.uk/uksi/2009/716), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/716/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2009/716/schedule/6) (with [regs. 3](https://www.legislation.gov.uk/uksi/2009/716/regulation/3), [16](https://www.legislation.gov.uk/uksi/2009/716/regulation/16))
 
-[^key-ba1385abf42a3c2069c544baf93889b9]: Textual amendment: [Sch. 1 para. 1(ba)](https://www.legislation.gov.uk/uksi/1998/494/schedule/1/paragraph/1/ba) inserted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [6(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/6/3)
+[^c-ba1385abf42a3c2069c544baf93889b9]: Textual amendment: [Sch. 1 para. 1(ba)](https://www.legislation.gov.uk/uksi/1998/494/schedule/1/paragraph/1/ba) inserted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [6(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/6/3)
 
-[^key-e0f4a0d73337e9250c4107094fe86792]: Commencement: Sch. 1 para. 2 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-e0f4a0d73337e9250c4107094fe86792]: Commencement: Sch. 1 para. 2 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-994649d7cd39493ae061362c4b1b4464]: Commencement: Sch. 1 para. 3 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-994649d7cd39493ae061362c4b1b4464]: Commencement: Sch. 1 para. 3 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-8abc4562a093eb687b0a4b7b2397b664]: Commencement: Sch. 1 para. 4 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-8abc4562a093eb687b0a4b7b2397b664]: Commencement: Sch. 1 para. 4 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-1e3c2d87306ca0a679a71b5a59f73f88]: Commencement: Sch. 1 para. 5 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-1e3c2d87306ca0a679a71b5a59f73f88]: Commencement: Sch. 1 para. 5 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-dfb90297390a0a4c6347793f2fbb1b8f]: Commencement: Sch. 1 para. 6 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-dfb90297390a0a4c6347793f2fbb1b8f]: Commencement: Sch. 1 para. 6 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-67726ebf0b32a36109a48fbd834f65cb]: Commencement: Sch. 1 para. 7 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-67726ebf0b32a36109a48fbd834f65cb]: Commencement: Sch. 1 para. 7 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-f883ef0ed8b4acec7b0286bddd9fe4d4]: Commencement: Sch. 1 para. 8 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-f883ef0ed8b4acec7b0286bddd9fe4d4]: Commencement: Sch. 1 para. 8 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
 [^f00019]: Footnote: [1984 c. 23](https://www.legislation.gov.uk/ukpga/1984/23).
 
-[^key-08fcaa83a8ab433a66ceb96251a33070]: Commencement: Sch. 1 para. 9 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-08fcaa83a8ab433a66ceb96251a33070]: Commencement: Sch. 1 para. 9 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-f838236e14612a42a76d911e98cc71f5]: Commencement: Sch. 1 para. 10 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-f838236e14612a42a76d911e98cc71f5]: Commencement: Sch. 1 para. 10 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-d8fc64743136a0d7257fdc3766e3e4ec]: Commencement: Sch. 1 para. 11 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-d8fc64743136a0d7257fdc3766e3e4ec]: Commencement: Sch. 1 para. 11 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-410ab9d4f364c4a17cc044cc3b06aa54]: Commencement: Sch. 1 para. 12 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-410ab9d4f364c4a17cc044cc3b06aa54]: Commencement: Sch. 1 para. 12 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-912e9b42e4165dccba0fc8c6dbbf5aaa]: Commencement: Sch. 1 para. 13 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-912e9b42e4165dccba0fc8c6dbbf5aaa]: Commencement: Sch. 1 para. 13 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-77db1a94e85f0b1c3c91da945fd26d9e]: Commencement: Sch. 1 para. 14 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-77db1a94e85f0b1c3c91da945fd26d9e]: Commencement: Sch. 1 para. 14 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-33bd1f9f8565c823eff805302d476a9b]: Commencement: Sch. 1 para. 15 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-33bd1f9f8565c823eff805302d476a9b]: Commencement: Sch. 1 para. 15 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-e6ae556e6bd48d9d647783c992f5954e]: Commencement: Sch. 2 para. 1 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-e6ae556e6bd48d9d647783c992f5954e]: Commencement: Sch. 2 para. 1 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-50bd36372d591ec0d0fd268a85c72576]: Textual amendment: Words in Sch. 2 para. 1 substituted (1.1.2000) by [The Quarries Regulations 1999 (S.I. 1999/2024)](https://www.legislation.gov.uk/uksi/1999/2024), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/2)
+[^c-50bd36372d591ec0d0fd268a85c72576]: Textual amendment: Words in Sch. 2 para. 1 substituted (1.1.2000) by [The Quarries Regulations 1999 (S.I. 1999/2024)](https://www.legislation.gov.uk/uksi/1999/2024), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/2)
 
-[^key-ee8f1b529faae4bb0a7e908228259120]: Commencement: Sch. 2 para. 2 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-ee8f1b529faae4bb0a7e908228259120]: Commencement: Sch. 2 para. 2 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-4ccfe5465ba8b5c0c2cc0a4d5d538b10]: Commencement: Sch. 2 para. 3 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-4ccfe5465ba8b5c0c2cc0a4d5d538b10]: Commencement: Sch. 2 para. 3 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-1207d1b3a5cb69592cf5601885f8940f]: Commencement: Sch. 2 para. 4 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-1207d1b3a5cb69592cf5601885f8940f]: Commencement: Sch. 2 para. 4 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-6afa0c105dc8a5c818d9417aeda82b72]: Textual amendment: Words in [Sch. 2 para. 4(a)(i)](https://www.legislation.gov.uk/uksi/1998/494/schedule/2/paragraph/4/a/i) substituted (6.4.2007) by [The Construction (Design and Management) Regulations 2007 (S.I. 2007/320)](https://www.legislation.gov.uk/uksi/2007/320), [reg. 1](https://www.legislation.gov.uk/uksi/2007/320/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2007/320/schedule/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/320/regulation/3))
+[^c-6afa0c105dc8a5c818d9417aeda82b72]: Textual amendment: Words in [Sch. 2 para. 4(a)(i)](https://www.legislation.gov.uk/uksi/1998/494/schedule/2/paragraph/4/a/i) substituted (6.4.2007) by [The Construction (Design and Management) Regulations 2007 (S.I. 2007/320)](https://www.legislation.gov.uk/uksi/2007/320), [reg. 1](https://www.legislation.gov.uk/uksi/2007/320/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2007/320/schedule/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/320/regulation/3))
 
-[^key-f61fdca2925b27671afd16096a33781a]: Textual amendment: Word in [Sch. 2 para. 4(a)(i)](https://www.legislation.gov.uk/uksi/1998/494/schedule/2/paragraph/4/a/i) substituted (6.4.2015) by [The Construction (Design and Management) Regulations 2015 (S.I. 2015/51)](https://www.legislation.gov.uk/uksi/2015/51), [reg. 1](https://www.legislation.gov.uk/uksi/2015/51/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/51/schedule/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/51/regulation/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/51/schedule/4))
+[^c-f61fdca2925b27671afd16096a33781a]: Textual amendment: Word in [Sch. 2 para. 4(a)(i)](https://www.legislation.gov.uk/uksi/1998/494/schedule/2/paragraph/4/a/i) substituted (6.4.2015) by [The Construction (Design and Management) Regulations 2015 (S.I. 2015/51)](https://www.legislation.gov.uk/uksi/2015/51), [reg. 1](https://www.legislation.gov.uk/uksi/2015/51/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/51/schedule/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/51/regulation/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/51/schedule/4))
 
-[^key-45cd98167c55f2eeda4a017abab19b17]: Textual amendment: Words in [Sch. 2 para. 4(d)](https://www.legislation.gov.uk/uksi/1998/494/schedule/2/paragraph/4/d) substituted (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [Sch. 9 para. 4(4)(a)](https://www.legislation.gov.uk/uksi/2017/1075/schedule/9/paragraph/4/4/a) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
+[^c-45cd98167c55f2eeda4a017abab19b17]: Textual amendment: Words in [Sch. 2 para. 4(d)](https://www.legislation.gov.uk/uksi/1998/494/schedule/2/paragraph/4/d) substituted (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [Sch. 9 para. 4(4)(a)](https://www.legislation.gov.uk/uksi/2017/1075/schedule/9/paragraph/4/4/a) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
 
-[^key-df382f9a46aa8a630bd5cb80ce1536dc]: Textual amendment: [Sch. 2 para. 4A](https://www.legislation.gov.uk/uksi/1998/494/schedule/2/paragraph/4A) inserted (21.11.2002) by [Control of Asbestos at Work Regulations 2002 (S.I. 2002/2675)](https://www.legislation.gov.uk/uksi/2002/2675), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2675/regulation/1), [27(2)](https://www.legislation.gov.uk/uksi/2002/2675/regulation/27/2)
+[^c-df382f9a46aa8a630bd5cb80ce1536dc]: Textual amendment: [Sch. 2 para. 4A](https://www.legislation.gov.uk/uksi/1998/494/schedule/2/paragraph/4A) inserted (21.11.2002) by [Control of Asbestos at Work Regulations 2002 (S.I. 2002/2675)](https://www.legislation.gov.uk/uksi/2002/2675), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2675/regulation/1), [27(2)](https://www.legislation.gov.uk/uksi/2002/2675/regulation/27/2)
 
-[^key-1ca53ead8c346bf97298707690657a11]: Textual amendment: Words in [Sch. 2 para. 4A](https://www.legislation.gov.uk/uksi/1998/494/schedule/2/paragraph/4A) substituted (6.4.2012) by [The Control of Asbestos Regulations 2012 (S.I. 2012/632)](https://www.legislation.gov.uk/uksi/2012/632), [reg. 1](https://www.legislation.gov.uk/uksi/2012/632/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2012/632/schedule/3)
+[^c-1ca53ead8c346bf97298707690657a11]: Textual amendment: Words in [Sch. 2 para. 4A](https://www.legislation.gov.uk/uksi/1998/494/schedule/2/paragraph/4A) substituted (6.4.2012) by [The Control of Asbestos Regulations 2012 (S.I. 2012/632)](https://www.legislation.gov.uk/uksi/2012/632), [reg. 1](https://www.legislation.gov.uk/uksi/2012/632/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2012/632/schedule/3)
 
-[^key-12187ce3653fcbfd1e3061f8df1fc5ac]: Commencement: Sch. 2 para. 5 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-12187ce3653fcbfd1e3061f8df1fc5ac]: Commencement: Sch. 2 para. 5 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-6e22721aa24b58b42142b796f6e75d12]: Textual amendment: Words in [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/1998/494/schedule/2/paragraph/5) substituted (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [Sch. 9 para. 4(4)(b)](https://www.legislation.gov.uk/uksi/2017/1075/schedule/9/paragraph/4/4/b) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
+[^c-6e22721aa24b58b42142b796f6e75d12]: Textual amendment: Words in [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/1998/494/schedule/2/paragraph/5) substituted (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [Sch. 9 para. 4(4)(b)](https://www.legislation.gov.uk/uksi/2017/1075/schedule/9/paragraph/4/4/b) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
 
-[^key-3874a004486a906b48a8626b8ecc377f]: Commencement: Sch. 2 para. 6 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-3874a004486a906b48a8626b8ecc377f]: Commencement: Sch. 2 para. 6 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-651045ad0b00f5a9bd5ede48f439bdfa]: Commencement: Sch. 2 para. 7 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-651045ad0b00f5a9bd5ede48f439bdfa]: Commencement: Sch. 2 para. 7 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-c007497a8c4e3cb01824a967a8a2be81]: Commencement: Sch. 2 para. 8 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-c007497a8c4e3cb01824a967a8a2be81]: Commencement: Sch. 2 para. 8 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-5ceb375f056458a23e181d0f2557b62b]: Commencement: Sch. 2 para. 9 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-5ceb375f056458a23e181d0f2557b62b]: Commencement: Sch. 2 para. 9 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-e36f0f3a0205263ee2f35b94f6b73109]: Commencement: Sch. 2 para. 10 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-e36f0f3a0205263ee2f35b94f6b73109]: Commencement: Sch. 2 para. 10 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-92a8b4dd587c59f2ea8ffe6cae962409]: Commencement: Sch. 2 para. 11 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-92a8b4dd587c59f2ea8ffe6cae962409]: Commencement: Sch. 2 para. 11 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
 [^f00020]: Footnote: S.I. [1996/825](https://www.legislation.gov.uk/uksi/1996/825).
 
-[^key-d3e7003146b30272ad544edef990e7de]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/1998/494/schedule/2/paragraph/12) substituted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 6(4)(a)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/6/4/a)
+[^c-d3e7003146b30272ad544edef990e7de]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/1998/494/schedule/2/paragraph/12) substituted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 6(4)(a)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/6/4/a)
 
-[^key-edabeacd759cfe1d9be26ac0e205d303]: Textual amendment: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/1998/494/schedule/2/paragraph/13) inserted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 6(4)(b)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/6/4/b)
+[^c-edabeacd759cfe1d9be26ac0e205d303]: Textual amendment: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/1998/494/schedule/2/paragraph/13) inserted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 6(4)(b)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/6/4/b)
 
-[^key-b4bc39e7ad05aa4e515bf6002db493bc]: Textual amendment: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/1998/494/schedule/2/paragraph/14) inserted (1.10.2014) by [The Acetylene Safety (England and Wales and Scotland) Regulations 2014 (S.I. 2014/1639)](https://www.legislation.gov.uk/uksi/2014/1639), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1639/regulation/1/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2014/1639/schedule/2/paragraph/1)
+[^c-b4bc39e7ad05aa4e515bf6002db493bc]: Textual amendment: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/1998/494/schedule/2/paragraph/14) inserted (1.10.2014) by [The Acetylene Safety (England and Wales and Scotland) Regulations 2014 (S.I. 2014/1639)](https://www.legislation.gov.uk/uksi/2014/1639), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1639/regulation/1/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2014/1639/schedule/2/paragraph/1)
 
-[^key-15a32b2c4cbc8cf24861fb2342270055]: Commencement: Sch. 3 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
+[^c-15a32b2c4cbc8cf24861fb2342270055]: Commencement: Sch. 3 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/494/regulation/1)
 
-[^key-f6f0e6bdd691b4a777911e3a780dfccf]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/1998/494/schedule/3) revoked (6.4.2007) by [The Construction (Design and Management) Regulations 2007 (S.I. 2007/320)](https://www.legislation.gov.uk/uksi/2007/320), [reg. 1](https://www.legislation.gov.uk/uksi/2007/320/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2007/320/schedule/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/320/regulation/3))
+[^c-f6f0e6bdd691b4a777911e3a780dfccf]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/1998/494/schedule/3) revoked (6.4.2007) by [The Construction (Design and Management) Regulations 2007 (S.I. 2007/320)](https://www.legislation.gov.uk/uksi/2007/320), [reg. 1](https://www.legislation.gov.uk/uksi/2007/320/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2007/320/schedule/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/320/regulation/3))

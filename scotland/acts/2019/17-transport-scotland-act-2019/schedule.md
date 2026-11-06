@@ -26,7 +26,7 @@ summary: ''
 
 #### Road Traffic Regulation Act 1984
 
-**1.**[^key-fbc19709c377f94c4a97bf3c3c3f834c] (1) The Road Traffic Regulation Act 1984 is amended as follows.
+**1.**[^c-fbc19709c377f94c4a97bf3c3c3f834c] (1) The Road Traffic Regulation Act 1984 is amended as follows.
 
 (2) In section 1 (traffic regulation orders), for subsection (3A) substitute—
 
@@ -41,11 +41,11 @@ summary: ''
 
 #### Transport Act 1985
 
-**2.** (1)[^key-d9bed61ad6c68ef35276f2153cd419a8] The Transport Act 1985 is amended as follows.
+**2.** (1)[^c-d9bed61ad6c68ef35276f2153cd419a8] The Transport Act 1985 is amended as follows.
 
-(2)[^key-fd0cdd88b641e5d28c2f269b1d8f8e12] In section 63(5) (power of local authority to enter into agreement for service subsidies), in paragraph (aa)(ii), for “to the standard specified in a quality partnership scheme made under section 6” substitute “ in compliance with a service standard imposed in a bus services improvement partnership scheme made under section 3B ”.
+(2)[^c-fd0cdd88b641e5d28c2f269b1d8f8e12] In section 63(5) (power of local authority to enter into agreement for service subsidies), in paragraph (aa)(ii), for “to the standard specified in a quality partnership scheme made under section 6” substitute “ in compliance with a service standard imposed in a bus services improvement partnership scheme made under section 3B ”.
 
-(3)[^key-d9bed61ad6c68ef35276f2153cd419a8] In section 135 (procedure for making regulations etc.)—
+(3)[^c-d9bed61ad6c68ef35276f2153cd419a8] In section 135 (procedure for making regulations etc.)—
 
 - (a) after subsection (1) insert—
 
@@ -61,27 +61,27 @@ summary: ''
 
 #### Transport (Scotland) Act 2001
 
-**3.** (1)[^key-0466293662d666868ccf5ebf22d7b620] The Transport (Scotland) Act 2001 is amended as follows.
+**3.** (1)[^c-0466293662d666868ccf5ebf22d7b620] The Transport (Scotland) Act 2001 is amended as follows.
 
 (2) After section 32B (as inserted by section 46 of this Act), insert— “ CHAPTER 4 Other matters ”.
 
-(3)[^key-f433f27eecc37224849294cc49906027] In section 37 (competition test)—
+(3)[^c-f433f27eecc37224849294cc49906027] In section 37 (competition test)—
 
 - (a) in subsection (1)(a), for “quality partnership schemes” substitute “ partnership schemes ”,
 - (b) in subsection (2)(a)—
   - (i) for “quality partnership scheme” substitute “ partnership scheme ”,
   - (ii) for “section 5(1)” substitute “ paragraph 6(2) or, as the case may be, 14(1) of schedule A1 ”.
 
-(4)[^key-f433f27eecc37224849294cc49906027] In section 39 (penalties)—
+(4)[^c-f433f27eecc37224849294cc49906027] In section 39 (penalties)—
 
 - (a) in subsection (1)(b), for “8(4) or 22(1)(b) or (2)” substitute “ 3F(1) or 13B(1)(b) or (3) ”
 - (b) after subsection (1)(b) insert—
 
-  > - (bb)[^key-cac1aa29145cfc6ea136910678002a36] failed to comply with a requirement to provide information (including a requirement to provide it within a specified time or in a specified form) under section 3K(2) or 13R(2)[^key-76a371757aa02d2b14765909366752c1],
+  > - (bb)[^c-cac1aa29145cfc6ea136910678002a36] failed to comply with a requirement to provide information (including a requirement to provide it within a specified time or in a specified form) under section 3K(2) or 13R(2)[^c-76a371757aa02d2b14765909366752c1],
 
   .
 
-(5)[^key-f433f27eecc37224849294cc49906027] In section 47 (co-operation)—
+(5)[^c-f433f27eecc37224849294cc49906027] In section 47 (co-operation)—
 
 - (a) in subsection (1)—
   - (i) for “quality partnership scheme,” substitute “ partnership scheme ”,
@@ -91,7 +91,7 @@ summary: ''
   - (i) for “quality partnership schemes,” substitute “ partnership schemes ”,
   - (ii) for “quality contract schemes” substitute “ and franchising frameworks ”.
 
-(6)[^key-55940faffc430723464fb18ba116f59b] In section 48 (interpretation of Part 2)—
+(6)[^c-55940faffc430723464fb18ba116f59b] In section 48 (interpretation of Part 2)—
 
 - (a) in subsection (1)—
   - (i) at the beginning insert “ Subject to subsection (1A) ”
@@ -102,7 +102,7 @@ summary: ''
 
     ,
   - (iv) the definition of “quality contract” is repealed
-  - (v)[^key-0466293662d666868ccf5ebf22d7b620] in the definition of “relevant general policies”, in paragraph (a)(ii)—
+  - (v)[^c-0466293662d666868ccf5ebf22d7b620] in the definition of “relevant general policies”, in paragraph (a)(ii)—
     - (A) after “relate to” insert “ providing services of the kind mentioned in section 2A(1) of this Act or ”,
     - (B) for “a quality partnership scheme or a quality contract scheme” substitute “ a partnership scheme or a franchising framework ”,
   - (vi) at the appropriate place insert—
@@ -122,24 +122,24 @@ summary: ''
 
   .
 
-(7)[^key-f433f27eecc37224849294cc49906027] In section 79 (guidance)—
+(7)[^c-f433f27eecc37224849294cc49906027] In section 79 (guidance)—
 
 - (a) in subsection (1)(c)—
   - (i) for “quality partnership schemes” substitute “ partnership schemes ”,
   - (ii) for “quality contract schemes” substitute “ franchising frameworks ”,
 - (b) in subsection (2), after “section” where it first occurs insert “ or any other section ”.
 
-(8)[^key-f433f27eecc37224849294cc49906027] In section 81 (regulations and orders)—
+(8)[^c-f433f27eecc37224849294cc49906027] In section 81 (regulations and orders)—
 
 - (a) in subsection (4)(a), the words “14(6), 18(2)(b)” are repealed,
-- (b) in subsection (4)(b), for “41(1) of this Act” substitute “ 3G(4), 3H(7), 13M(5), 13Q(4) 27A(5), 35A(1)[^key-b1b2090701586dbce1de47186a91654b] or 41(1) or paragraph 26 of schedule A1 ”,
+- (b) in subsection (4)(b), for “41(1) of this Act” substitute “ 3G(4), 3H(7), 13M(5), 13Q(4) 27A(5), 35A(1)[^c-b1b2090701586dbce1de47186a91654b] or 41(1) or paragraph 26 of schedule A1 ”,
 - (c) after subsection (4)(b) insert—
 
-  > - (c) regulations under section 3M(2)(c)[^key-82ceb98bfcf4591d6d75a1bf5be2375f] which make provision about what may constitute a facility or measure,
+  > - (c) regulations under section 3M(2)(c)[^c-82ceb98bfcf4591d6d75a1bf5be2375f] which make provision about what may constitute a facility or measure,
 
   .
 
-(9)[^key-f433f27eecc37224849294cc49906027] In section 82 (interpretation of Act)—
+(9)[^c-f433f27eecc37224849294cc49906027] In section 82 (interpretation of Act)—
 
 - (a) in subsection (1)—
   - (i) at the appropriate place insert—
@@ -180,27 +180,27 @@ summary: ''
 
 #### Transport (Scotland) Act 2005
 
-**4.** (1)[^key-32498954b5e42dbffee2a33ee207c9bf] The Transport (Scotland) Act 2005 is amended as follows.
+**4.** (1)[^c-32498954b5e42dbffee2a33ee207c9bf] The Transport (Scotland) Act 2005 is amended as follows.
 
 (2) In section 10(5)—
 
-- (a)[^key-32498954b5e42dbffee2a33ee207c9bf] before paragraph (a) insert—
+- (a)[^c-32498954b5e42dbffee2a33ee207c9bf] before paragraph (a) insert—
 
   > - (za) providing services for the carriage of passengers by road using vehicles that require a PSV operator's licence to do so,
 
   ,
-- (b)[^key-ffb836c4969af87a2eadabb313878898] for paragraph (a) substitute—
+- (b)[^c-ffb836c4969af87a2eadabb313878898] for paragraph (a) substitute—
 
   > - (a) making and implementing bus services improvement partnership plans,
 
   ,
-- (c)[^key-ffb836c4969af87a2eadabb313878898] in paragraph (b), for “quality contract schemes” substitute “ franchising frameworks ”.
+- (c)[^c-ffb836c4969af87a2eadabb313878898] in paragraph (b), for “quality contract schemes” substitute “ franchising frameworks ”.
 
 ### PART 2 — Road works
 
 #### Roads (Scotland) Act 1984
 
-**5.**[^key-cabbfcacb0cd84264fd069fb84e7a677] (1) The Roads (Scotland) Act 1984 is amended as follows.
+**5.**[^c-cabbfcacb0cd84264fd069fb84e7a677] (1) The Roads (Scotland) Act 1984 is amended as follows.
 
 (2) In section 56(1) (control of works and excavations)—
 
@@ -217,28 +217,28 @@ summary: ''
 
 #### New Roads and Street Works Act 1991
 
-**6.** (1)[^key-a2ef5e74579ea4e361c2981ceff4e7c0] The New Roads and Street Works Act 1991 is amended as follows.
+**6.** (1)[^c-a2ef5e74579ea4e361c2981ceff4e7c0] The New Roads and Street Works Act 1991 is amended as follows.
 
-(2)[^key-a2ef5e74579ea4e361c2981ceff4e7c0] In section 112B (duty to enter certain information in the Scottish Road Works Register), in subsection (7), paragraph (d) is repealed.
+(2)[^c-a2ef5e74579ea4e361c2981ceff4e7c0] In section 112B (duty to enter certain information in the Scottish Road Works Register), in subsection (7), paragraph (d) is repealed.
 
-(3)[^key-74847edac916e6cb56112628575e893d] In section 117 (restrictions on works following substantial road works), in subsection (1), for the words from “during” to the end of the first sentence, substitute “ for such period following the completion of those works as may be prescribed. ”.
+(3)[^c-74847edac916e6cb56112628575e893d] In section 117 (restrictions on works following substantial road works), in subsection (1), for the words from “during” to the end of the first sentence, substitute “ for such period following the completion of those works as may be prescribed. ”.
 
-(4)[^key-d1f3e8069c8856cd683e6dea5dcc0b4b] In section 118 (general duty of road works authority to co-ordinate works), subsection (5) is repealed.
+(4)[^c-d1f3e8069c8856cd683e6dea5dcc0b4b] In section 118 (general duty of road works authority to co-ordinate works), subsection (5) is repealed.
 
-(5)[^key-d1f3e8069c8856cd683e6dea5dcc0b4b] In section 119 (general duty of undertakers to co-operate), in subsection (2A)—
+(5)[^c-d1f3e8069c8856cd683e6dea5dcc0b4b] In section 119 (general duty of undertakers to co-operate), in subsection (2A)—
 
 - (a) paragraph (a), together with the “and” immediately following it, is repealed, and
 - (b) the closing words are repealed.
 
-(6)[^key-a2ef5e74579ea4e361c2981ceff4e7c0] In section 120 (protected roads), in subsection (2)(b), the words “or section 61 of the Roads (Scotland) Act 1984 (permission to place and maintain apparatus under a road)” are repealed.
+(6)[^c-a2ef5e74579ea4e361c2981ceff4e7c0] In section 120 (protected roads), in subsection (2)(b), the words “or section 61 of the Roads (Scotland) Act 1984 (permission to place and maintain apparatus under a road)” are repealed.
 
-(7)[^key-a2ef5e74579ea4e361c2981ceff4e7c0] Sections 132A to 132E and section 137A are repealed.
+(7)[^c-a2ef5e74579ea4e361c2981ceff4e7c0] Sections 132A to 132E and section 137A are repealed.
 
-(8)[^key-a2ef5e74579ea4e361c2981ceff4e7c0] In section 155 (recovery of costs or expenses), in subsection (3), the words “or 137A (contributions to costs of resurfacing by undertakers)” are repealed.
+(8)[^c-a2ef5e74579ea4e361c2981ceff4e7c0] In section 155 (recovery of costs or expenses), in subsection (3), the words “or 137A (contributions to costs of resurfacing by undertakers)” are repealed.
 
-(9)[^key-d1f3e8069c8856cd683e6dea5dcc0b4b] In section 161(6) (effect of Part IV on other enactments or instruments), the words “Except as mentioned in section 138(6),” are repealed.
+(9)[^c-d1f3e8069c8856cd683e6dea5dcc0b4b] In section 161(6) (effect of Part IV on other enactments or instruments), the words “Except as mentioned in section 138(6),” are repealed.
 
-(10)[^key-d1f3e8069c8856cd683e6dea5dcc0b4b] In section 165 (index of defined expressions), after the entry for “the Commissioner”, insert—
+(10)[^c-d1f3e8069c8856cd683e6dea5dcc0b4b] In section 165 (index of defined expressions), after the entry for “the Commissioner”, insert—
 
 > |  |  |
 > | --- | --- |
@@ -249,13 +249,13 @@ summary: ''
 
 #### Transport (Scotland) Act 2005
 
-**7.** (1)[^key-6705114ea7f4510e4a7bd73640547978] The Transport (Scotland) Act 2005 is amended as follows.
+**7.** (1)[^c-6705114ea7f4510e4a7bd73640547978] The Transport (Scotland) Act 2005 is amended as follows.
 
-(2)[^key-62097e97e0acb92d0d857d1cde37eb42] In section 22(1), paragraph (a) is repealed.
+(2)[^c-62097e97e0acb92d0d857d1cde37eb42] In section 22(1), paragraph (a) is repealed.
 
-(3)[^key-6705114ea7f4510e4a7bd73640547978] Sections 30, 31 and 32 are repealed.
+(3)[^c-6705114ea7f4510e4a7bd73640547978] Sections 30, 31 and 32 are repealed.
 
-(4)[^key-149c45e3bb90e1e33a5a3d6ec446b109] In section 53 (interpretation), in subsection (2)—
+(4)[^c-149c45e3bb90e1e33a5a3d6ec446b109] In section 53 (interpretation), in subsection (2)—
 
 - (a) before the definition of “the Commissioner”, insert—
 
@@ -270,40 +270,40 @@ summary: ''
 
 ## Annotations
 
-[^key-fbc19709c377f94c4a97bf3c3c3f834c]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/1) in force at 4.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-fbc19709c377f94c4a97bf3c3c3f834c]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/1) in force at 4.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
 
-[^key-d9bed61ad6c68ef35276f2153cd419a8]: Commencement: [Sch. para. 2(1)(3)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/2/1/3) in force at 28.11.2022 by [S.S.I. 2022/332](https://www.legislation.gov.uk/ssi/2022/332), [reg. 2](https://www.legislation.gov.uk/ssi/2022/332/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/332/schedule)
+[^c-d9bed61ad6c68ef35276f2153cd419a8]: Commencement: [Sch. para. 2(1)(3)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/2/1/3) in force at 28.11.2022 by [S.S.I. 2022/332](https://www.legislation.gov.uk/ssi/2022/332), [reg. 2](https://www.legislation.gov.uk/ssi/2022/332/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/332/schedule)
 
-[^key-fd0cdd88b641e5d28c2f269b1d8f8e12]: Commencement: [Sch. para. 2(2)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/2/2) in force at 4.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-fd0cdd88b641e5d28c2f269b1d8f8e12]: Commencement: [Sch. para. 2(2)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/2/2) in force at 4.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
 
-[^key-0466293662d666868ccf5ebf22d7b620]: Commencement: Sch. para. 3(6)(a)(v)(A) in force at 24.6.2022 by [S.S.I. 2022/204](https://www.legislation.gov.uk/ssi/2022/204), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2022/204/regulation/2/b)
+[^c-0466293662d666868ccf5ebf22d7b620]: Commencement: Sch. para. 3(6)(a)(v)(A) in force at 24.6.2022 by [S.S.I. 2022/204](https://www.legislation.gov.uk/ssi/2022/204), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2022/204/regulation/2/b)
 
-[^key-f433f27eecc37224849294cc49906027]: Commencement: [Sch. para. 3(3)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/3)[(4)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/4)[(5)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/5)[(7)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/7)[(8)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/8)[(9)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/9) in force at 4.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-f433f27eecc37224849294cc49906027]: Commencement: [Sch. para. 3(3)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/3)[(4)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/4)[(5)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/5)[(7)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/7)[(8)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/8)[(9)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/9) in force at 4.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
 
-[^key-cac1aa29145cfc6ea136910678002a36]: Textual amendment: Word in [sch. para. 3(4)(b)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/4/b) substituted (27.11.2023) by [The Transport (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/347)](https://www.legislation.gov.uk/ssi/2023/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/347/regulation/1/1), [2(7)(a)(i)](https://www.legislation.gov.uk/ssi/2023/347/regulation/2/7/a/i)
+[^c-cac1aa29145cfc6ea136910678002a36]: Textual amendment: Word in [sch. para. 3(4)(b)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/4/b) substituted (27.11.2023) by [The Transport (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/347)](https://www.legislation.gov.uk/ssi/2023/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/347/regulation/1/1), [2(7)(a)(i)](https://www.legislation.gov.uk/ssi/2023/347/regulation/2/7/a/i)
 
-[^key-76a371757aa02d2b14765909366752c1]: Textual amendment: Words in [sch. para. 3(4)(b)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/4/b) substituted (27.11.2023) by [The Transport (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/347)](https://www.legislation.gov.uk/ssi/2023/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/347/regulation/1/1), [2(7)(a)(ii)](https://www.legislation.gov.uk/ssi/2023/347/regulation/2/7/a/ii)
+[^c-76a371757aa02d2b14765909366752c1]: Textual amendment: Words in [sch. para. 3(4)(b)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/4/b) substituted (27.11.2023) by [The Transport (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/347)](https://www.legislation.gov.uk/ssi/2023/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/347/regulation/1/1), [2(7)(a)(ii)](https://www.legislation.gov.uk/ssi/2023/347/regulation/2/7/a/ii)
 
-[^key-55940faffc430723464fb18ba116f59b]: Commencement: [Sch. para. 3(6)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/6) in force at 4.12.2023 in so far as not already in force by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-55940faffc430723464fb18ba116f59b]: Commencement: [Sch. para. 3(6)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/6) in force at 4.12.2023 in so far as not already in force by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
 
-[^key-b1b2090701586dbce1de47186a91654b]: Textual amendment: Words in [sch. para. 3(8)(b)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/8/b) inserted (27.11.2023) by [The Transport (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/347)](https://www.legislation.gov.uk/ssi/2023/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/347/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/ssi/2023/347/regulation/2/7/b)
+[^c-b1b2090701586dbce1de47186a91654b]: Textual amendment: Words in [sch. para. 3(8)(b)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/8/b) inserted (27.11.2023) by [The Transport (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/347)](https://www.legislation.gov.uk/ssi/2023/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/347/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/ssi/2023/347/regulation/2/7/b)
 
-[^key-82ceb98bfcf4591d6d75a1bf5be2375f]: Textual amendment: Word in [sch. para. 3(8)(c)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/8/c) substituted (27.11.2023) by [The Transport (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/347)](https://www.legislation.gov.uk/ssi/2023/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/347/regulation/1/1), [2(7)(c)](https://www.legislation.gov.uk/ssi/2023/347/regulation/2/7/c)
+[^c-82ceb98bfcf4591d6d75a1bf5be2375f]: Textual amendment: Word in [sch. para. 3(8)(c)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/8/c) substituted (27.11.2023) by [The Transport (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/347)](https://www.legislation.gov.uk/ssi/2023/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/347/regulation/1/1), [2(7)(c)](https://www.legislation.gov.uk/ssi/2023/347/regulation/2/7/c)
 
-[^key-32498954b5e42dbffee2a33ee207c9bf]: Commencement: Sch. paras 4(1)(2)(a) in force at 24.6.2022 by [S.S.I. 2022/204](https://www.legislation.gov.uk/ssi/2022/204), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2022/204/regulation/2/b)
+[^c-32498954b5e42dbffee2a33ee207c9bf]: Commencement: Sch. paras 4(1)(2)(a) in force at 24.6.2022 by [S.S.I. 2022/204](https://www.legislation.gov.uk/ssi/2022/204), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2022/204/regulation/2/b)
 
-[^key-ffb836c4969af87a2eadabb313878898]: Commencement: [Sch. paras. 4(2)(b)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/4/2/b)[(c)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/4/2/c) in force at 4.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-ffb836c4969af87a2eadabb313878898]: Commencement: [Sch. paras. 4(2)(b)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/4/2/b)[(c)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/4/2/c) in force at 4.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
 
-[^key-cabbfcacb0cd84264fd069fb84e7a677]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/5) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-cabbfcacb0cd84264fd069fb84e7a677]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/5) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
 
-[^key-a2ef5e74579ea4e361c2981ceff4e7c0]: Commencement: [Sch. para. 6(1)(2)(6)(7)(8)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/6/1/2/6/7/8) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-a2ef5e74579ea4e361c2981ceff4e7c0]: Commencement: [Sch. para. 6(1)(2)(6)(7)(8)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/6/1/2/6/7/8) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
 
-[^key-74847edac916e6cb56112628575e893d]: Commencement: [Sch. para. 6(3)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/6/3) in force at 25.1.2023 by [S.S.I. 2022/332](https://www.legislation.gov.uk/ssi/2022/332), [reg. 2](https://www.legislation.gov.uk/ssi/2022/332/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/332/schedule)
+[^c-74847edac916e6cb56112628575e893d]: Commencement: [Sch. para. 6(3)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/6/3) in force at 25.1.2023 by [S.S.I. 2022/332](https://www.legislation.gov.uk/ssi/2022/332), [reg. 2](https://www.legislation.gov.uk/ssi/2022/332/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/332/schedule)
 
-[^key-d1f3e8069c8856cd683e6dea5dcc0b4b]: Commencement: [Sch. paras. 6(4)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/6/4)[(5)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/6/5)[(9)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/6/9)[(10)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/6/10) in force at 1.4.2024 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-d1f3e8069c8856cd683e6dea5dcc0b4b]: Commencement: [Sch. paras. 6(4)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/6/4)[(5)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/6/5)[(9)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/6/9)[(10)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/6/10) in force at 1.4.2024 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
 
-[^key-6705114ea7f4510e4a7bd73640547978]: Commencement: [Sch. paras. 7(1)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/7/1)[(3)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/7/3) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-6705114ea7f4510e4a7bd73640547978]: Commencement: [Sch. paras. 7(1)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/7/1)[(3)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/7/3) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
 
-[^key-62097e97e0acb92d0d857d1cde37eb42]: Commencement: [Sch. para. 7(2)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/7/2) in force at 22.9.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-62097e97e0acb92d0d857d1cde37eb42]: Commencement: [Sch. para. 7(2)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/7/2) in force at 22.9.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
 
-[^key-149c45e3bb90e1e33a5a3d6ec446b109]: Commencement: [Sch. para. 7(4)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/7/4) in force at 1.4.2024 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-149c45e3bb90e1e33a5a3d6ec446b109]: Commencement: [Sch. para. 7(4)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/7/4) in force at 1.4.2024 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)

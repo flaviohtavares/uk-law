@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 59. Other provision by pastoral church buildings scheme for church to be closed for regular public worship[^key-511b2ba83809ae234080a278d1eae884]
+## 59. Other provision by pastoral church buildings scheme for church to be closed for regular public worship[^c-511b2ba83809ae234080a278d1eae884]
 
 *Extent: E*
 
@@ -35,4 +35,4 @@ the scheme may provide for its care and maintenance by the Trust.
 
 ## Annotations
 
-[^key-511b2ba83809ae234080a278d1eae884]: Commencement: S. 59 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-511b2ba83809ae234080a278d1eae884]: Commencement: S. 59 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

@@ -43,15 +43,15 @@ Coming into force
 
 The Secretary of State for Transport, in exercise of the powers under Article 136 of the Air Navigation Order 2005[^f00001] and with the concurrence of the Commissioners of Revenue and Customs, makes the following Order:
 
-## 1. Citation and commencement[^key-f51703da73b667877b2348440aa75708]
+## 1. Citation and commencement[^c-f51703da73b667877b2348440aa75708]
 
 This Order may be cited as the Civil Aviation (Customs and Excise Airports) (Amendment) Order 2009 and comes into force on 1st August 2009.
 
-## 2. Amendment of the Civil Aviation (Customs and Excise Airports) Order 2001[^key-695befd7c62b038e4672675755c40ce9]
+## 2. Amendment of the Civil Aviation (Customs and Excise Airports) Order 2001[^c-695befd7c62b038e4672675755c40ce9]
 
 The Civil Aviation (Customs and Excise Airports) Order 2001[^f00002] is amended as follows.
 
-**3.**[^key-87e59a96ed48e681b02632f24c9211e0] In Article 2, omit the words “Sheffield City Airport”
+**3.**[^c-87e59a96ed48e681b02632f24c9211e0] In Article 2, omit the words “Sheffield City Airport”
 
 Signed by authority of the Secretary of State
 
@@ -71,10 +71,10 @@ This Order amends the Civil Aviation (Customs and Excise Airports) Order 2001 so
 
 [^f00001]: Footnote: [SI 2005/1970](https://www.legislation.gov.uk/uksi/2005/1970)
 
-[^key-f51703da73b667877b2348440aa75708]: Commencement: Art. 1 in force at 1.8.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1605/article/1)
+[^c-f51703da73b667877b2348440aa75708]: Commencement: Art. 1 in force at 1.8.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1605/article/1)
 
-[^key-695befd7c62b038e4672675755c40ce9]: Commencement: Art. 2 in force at 1.8.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1605/article/1)
+[^c-695befd7c62b038e4672675755c40ce9]: Commencement: Art. 2 in force at 1.8.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1605/article/1)
 
 [^f00002]: Footnote: Made 22nd September 2001
 
-[^key-87e59a96ed48e681b02632f24c9211e0]: Commencement: Art. 3 in force at 1.8.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1605/article/1)
+[^c-87e59a96ed48e681b02632f24c9211e0]: Commencement: Art. 3 in force at 1.8.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1605/article/1)

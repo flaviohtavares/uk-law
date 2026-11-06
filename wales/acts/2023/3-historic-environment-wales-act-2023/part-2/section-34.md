@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Compensation for loss or damage caused by temporary stop notice[^key-2801ab17af360475cf4b2597177c5e56][^key-1954d4b0de4df0dc24217fa615e679e9]
+## 34. Compensation for loss or damage caused by temporary stop notice[^c-2801ab17af360475cf4b2597177c5e56][^c-1954d4b0de4df0dc24217fa615e679e9]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2801ab17af360475cf4b2597177c5e56]: Commencement: S. 34 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-2801ab17af360475cf4b2597177c5e56]: Commencement: S. 34 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-1954d4b0de4df0dc24217fa615e679e9]: Commencement: [S. 34](https://www.legislation.gov.uk/asc/2023/3/section/34) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-1954d4b0de4df0dc24217fa615e679e9]: Commencement: [S. 34](https://www.legislation.gov.uk/asc/2023/3/section/34) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

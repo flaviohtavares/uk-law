@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Control of disposals and contracts.[^key-3bfee2b1b62b136034574eee4090fd06]
+## 51. Control of disposals and contracts.[^c-3bfee2b1b62b136034574eee4090fd06]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3bfee2b1b62b136034574eee4090fd06]: Textual amendment: [S. 51](https://www.legislation.gov.uk/ukpga/1994/19/section/51) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 38(c)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/38/c)
+[^c-3bfee2b1b62b136034574eee4090fd06]: Textual amendment: [S. 51](https://www.legislation.gov.uk/ukpga/1994/19/section/51) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 38(c)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/38/c)

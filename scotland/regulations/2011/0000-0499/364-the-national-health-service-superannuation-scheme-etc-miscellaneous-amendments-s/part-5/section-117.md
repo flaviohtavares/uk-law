@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 117. Amendment of regulation 15[^key-fc6e789113ad3a116334c6b78fb06d6f]
+## 117. Amendment of regulation 15[^c-fc6e789113ad3a116334c6b78fb06d6f]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In regulation 15 (payments by Secretary of State)—
 
 ## Annotations
 
-[^key-fc6e789113ad3a116334c6b78fb06d6f]: Commencement: [Reg. 117](https://www.legislation.gov.uk/ssi/2011/364/regulation/117) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-fc6e789113ad3a116334c6b78fb06d6f]: Commencement: [Reg. 117](https://www.legislation.gov.uk/ssi/2011/364/regulation/117) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

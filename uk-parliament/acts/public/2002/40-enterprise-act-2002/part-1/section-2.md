@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. The Director General of Fair Trading[^key-4dadc6a4d8a0c68bf32a13623eacba3c]
+## 2. The Director General of Fair Trading[^c-4dadc6a4d8a0c68bf32a13623eacba3c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4dadc6a4d8a0c68bf32a13623eacba3c]: Textual amendment: Ss. 1-4 omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 229](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/229) (with savings in [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28) and S.I. 2014/892, art. 3(7)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-4dadc6a4d8a0c68bf32a13623eacba3c]: Textual amendment: Ss. 1-4 omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 229](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/229) (with savings in [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28) and S.I. 2014/892, art. 3(7)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

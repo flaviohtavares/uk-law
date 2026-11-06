@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Interim measures: financial penalties: mergers[^c2181317][^key-4afa41d21fc0db3baeb891cbcf3218f6]
+## 31. Interim measures: financial penalties: mergers[^c2181317][^c-4afa41d21fc0db3baeb891cbcf3218f6]
 
 *Extent: E+W+S+N.I.*
 
@@ -81,4 +81,4 @@ summary: ''
 
 [^c2181317]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2013/24/section/31) partly in force; [s. 31](https://www.legislation.gov.uk/ukpga/2013/24/section/31) in force for specified purposes at Royal Assent, see [s. 103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)
 
-[^key-4afa41d21fc0db3baeb891cbcf3218f6]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2013/24/section/31) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-4afa41d21fc0db3baeb891cbcf3218f6]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2013/24/section/31) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

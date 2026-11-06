@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Inspector's powers to require provision of documents or information: supplemental[^key-749f33a8998855d36d20417df07767a6]
+## 47. Inspector's powers to require provision of documents or information: supplemental[^c-749f33a8998855d36d20417df07767a6]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ After paragraph 19E of Schedule 1 to the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-749f33a8998855d36d20417df07767a6]: Commencement: [S. 47](https://www.legislation.gov.uk/mwa/2011/5/section/47) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(g)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/g)
+[^c-749f33a8998855d36d20417df07767a6]: Commencement: [S. 47](https://www.legislation.gov.uk/mwa/2011/5/section/47) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(g)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/g)

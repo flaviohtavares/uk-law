@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Interaction with the 1968 Act[^key-dba41f4d8fefde7369d351f9e31cbd11]
+## 8. Interaction with the 1968 Act[^c-dba41f4d8fefde7369d351f9e31cbd11]
 
 *Extent: E+W*
 
@@ -110,10 +110,10 @@ section 69 of the 1968 Act (appeal to board of trade) does not apply to that ref
 - (b) to undertake works or dredging consented by the PLA under the 1968 Act; or
 - (c) for navigational safety or emergency reasons.
 
-(20) In this article “**BPSJ[^key-7e9eff1ece0a3c9c3ef307a57cf672c9] licence**” means the licence referred to by paragraph (1).
+(20) In this article “**BPSJ[^c-7e9eff1ece0a3c9c3ef307a57cf672c9] licence**” means the licence referred to by paragraph (1).
 
 ## Annotations
 
-[^key-dba41f4d8fefde7369d351f9e31cbd11]: Commencement: Art. 8 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-dba41f4d8fefde7369d351f9e31cbd11]: Commencement: Art. 8 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-7e9eff1ece0a3c9c3ef307a57cf672c9]: Textual amendment: Word in [art. 8(20)](https://www.legislation.gov.uk/uksi/2025/1227/article/8/20) substituted (8.6.2026) by [The Cory Decarbonisation Project (Correction) Order 2026 (S.I. 2026/606)](https://www.legislation.gov.uk/uksi/2026/606), [art. 1](https://www.legislation.gov.uk/uksi/2026/606/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/606/schedule)
+[^c-7e9eff1ece0a3c9c3ef307a57cf672c9]: Textual amendment: Word in [art. 8(20)](https://www.legislation.gov.uk/uksi/2025/1227/article/8/20) substituted (8.6.2026) by [The Cory Decarbonisation Project (Correction) Order 2026 (S.I. 2026/606)](https://www.legislation.gov.uk/uksi/2026/606), [art. 1](https://www.legislation.gov.uk/uksi/2026/606/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/606/schedule)

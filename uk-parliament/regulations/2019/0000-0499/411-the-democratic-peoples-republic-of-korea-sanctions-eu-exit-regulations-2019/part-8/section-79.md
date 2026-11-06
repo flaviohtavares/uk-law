@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Defences[^key-169e4eedf0256a8d57faabd9f4788efc][^key-5a446919b42eec7c63b4078fc8cc941b]
+## 79. Defences[^c-169e4eedf0256a8d57faabd9f4788efc][^c-5a446919b42eec7c63b4078fc8cc941b]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-169e4eedf0256a8d57faabd9f4788efc]: Commencement: Reg. 79 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-169e4eedf0256a8d57faabd9f4788efc]: Commencement: Reg. 79 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-5a446919b42eec7c63b4078fc8cc941b]: Commencement: [Reg. 79](https://www.legislation.gov.uk/uksi/2019/411/regulation/79) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5a446919b42eec7c63b4078fc8cc941b]: Commencement: [Reg. 79](https://www.legislation.gov.uk/uksi/2019/411/regulation/79) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

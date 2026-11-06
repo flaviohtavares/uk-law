@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124E. Contents of initial obligations code[^key-b01b3c4b29876f512ed2a31fa9810540]
+## 124E. Contents of initial obligations code[^c-b01b3c4b29876f512ed2a31fa9810540]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b01b3c4b29876f512ed2a31fa9810540]: Textual amendment: S. 124E inserted (8.4.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 7](https://www.legislation.gov.uk/ukpga/2010/24/section/7), [47(2)(a)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/2/a)
+[^c-b01b3c4b29876f512ed2a31fa9810540]: Textual amendment: S. 124E inserted (8.4.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 7](https://www.legislation.gov.uk/ukpga/2010/24/section/7), [47(2)(a)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/2/a)

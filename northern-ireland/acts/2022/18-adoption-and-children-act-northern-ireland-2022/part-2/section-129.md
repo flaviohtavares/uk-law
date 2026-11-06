@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 129. Local offer for care leavers[^key-f127e921f85e5aff03501d3646a5fe5c]
+## 129. Local offer for care leavers[^c-f127e921f85e5aff03501d3646a5fe5c]
 
 *Extent: N.I.*
 
@@ -61,4 +61,4 @@ After Article 34F of the Children Order (Pathway Plans) insert—
 
 ## Annotations
 
-[^key-f127e921f85e5aff03501d3646a5fe5c]: Commencement: S. 129 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-f127e921f85e5aff03501d3646a5fe5c]: Commencement: S. 129 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

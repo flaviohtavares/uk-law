@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Notice of works affecting water supply and fire hydrants[^key-130f3b0312ce3d317970771b2233ced9][^key-76e0ca0b998f8f467f8e4176d8636754]
+## 43. Notice of works affecting water supply and fire hydrants[^c-130f3b0312ce3d317970771b2233ced9][^c-76e0ca0b998f8f467f8e4176d8636754]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-130f3b0312ce3d317970771b2233ced9]: Commencement: S. 43 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
+[^c-130f3b0312ce3d317970771b2233ced9]: Commencement: S. 43 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
 
-[^key-76e0ca0b998f8f467f8e4176d8636754]: Commencement: S. 43 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-76e0ca0b998f8f467f8e4176d8636754]: Commencement: S. 43 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)

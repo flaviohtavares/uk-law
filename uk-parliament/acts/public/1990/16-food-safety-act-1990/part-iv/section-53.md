@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. General interpretation.[^key-5e74a371e57603a936a591531cb3c46b][^key-f908884a088425fe82d5dc63969bc918]
+## 53. General interpretation.[^c-5e74a371e57603a936a591531cb3c46b][^c-f908884a088425fe82d5dc63969bc918]
 
 *Extent: E+W+S*
 
@@ -62,13 +62,13 @@ summary: ''
 | emergency prohibition order | section 12(2) |
 | enforcement authority | section 6(1) |
 | examination and examine | section 28(2) |
-| food[^key-d3448a6a47d6e07d7b296faeace84ba9] | section 1(1) |
+| food[^c-d3448a6a47d6e07d7b296faeace84ba9] | section 1(1) |
 | food authority | section 5 |
 | food business | section 1(3) |
-| food information *(Extent: S)*[^key-74ecbfcf8cd6b3fe8df8e9a4eddba1a6] | section 15A *(Extent: S)* |
+| food information *(Extent: S)*[^c-74ecbfcf8cd6b3fe8df8e9a4eddba1a6] | section 15A *(Extent: S)* |
 | food information law *(Extent: S)* | section 15A *(Extent: S)* |
 | food premises | section 1(3) |
-| food safety requirements[^key-4c4aa31ae6aa0b62aa1aea846223654e] | section 8 |
+| food safety requirements[^c-4c4aa31ae6aa0b62aa1aea846223654e] | section 8 |
 | food source | section 1(3) |
 | improvement notice | section 10(1) |
 | [^M_F_f1b4d55c-a599-42cf-b502-5be39882a326]. . . | [^M_F_f1b4d55c-a599-42cf-b502-5be39882a326]. . . |
@@ -94,9 +94,9 @@ that day shall be excluded from that period.
 
 ## Annotations
 
-[^key-5e74a371e57603a936a591531cb3c46b]: Modification: S. 53 applied (with modifications) (W.) (22.2.2020 for all purposes except in respect of infant formula and follow-on formula manufactured from protein hydrolysates and 22.2.2021 in so far as not already in force) by [The Infant Formula and Follow-on Formula (Wales) Regulations 2020 (S.I. 2020/89)](https://www.legislation.gov.uk/uksi/2020/89), [regs. 1(1)(2)](https://www.legislation.gov.uk/uksi/2020/89/regulation/1), [4(7)(k)](https://www.legislation.gov.uk/uksi/2020/89/regulation/4/7/k), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2020/89/schedule/2/paragraph/16) (with savings in [reg. 5(4)(5)](https://www.legislation.gov.uk/uksi/2020/89/regulation/5/4), [Sch. 4 para. 26(1)(2)](https://www.legislation.gov.uk/uksi/2020/89/schedule/4/paragraph/26) (as inserted (16.9.2021) by [S.I. 2021/955](https://www.legislation.gov.uk/uksi/2021/955), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2021/955/regulation/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/955/schedule)))
+[^c-5e74a371e57603a936a591531cb3c46b]: Modification: S. 53 applied (with modifications) (W.) (22.2.2020 for all purposes except in respect of infant formula and follow-on formula manufactured from protein hydrolysates and 22.2.2021 in so far as not already in force) by [The Infant Formula and Follow-on Formula (Wales) Regulations 2020 (S.I. 2020/89)](https://www.legislation.gov.uk/uksi/2020/89), [regs. 1(1)(2)](https://www.legislation.gov.uk/uksi/2020/89/regulation/1), [4(7)(k)](https://www.legislation.gov.uk/uksi/2020/89/regulation/4/7/k), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2020/89/schedule/2/paragraph/16) (with savings in [reg. 5(4)(5)](https://www.legislation.gov.uk/uksi/2020/89/regulation/5/4), [Sch. 4 para. 26(1)(2)](https://www.legislation.gov.uk/uksi/2020/89/schedule/4/paragraph/26) (as inserted (16.9.2021) by [S.I. 2021/955](https://www.legislation.gov.uk/uksi/2021/955), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2021/955/regulation/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/955/schedule)))
 
-[^key-f908884a088425fe82d5dc63969bc918]: Modification: S. 53 applied (with modifications) (E.) (22.2.2020 for all purposes except in respect of infant formula and follow-on formula manufactured from protein hydrolysates and 22.2.2022 in so far as not already in force) by [The Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment etc.) (England) Regulations 2020 (S.I. 2020/43)](https://www.legislation.gov.uk/uksi/2020/43), [regs. 1(1)(2)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1/2), [4(6)(7)(k)](https://www.legislation.gov.uk/uksi/2020/43/regulation/4/6/7/k), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2020/43/schedule/2/paragraph/16) (as amended by [S.I. 2021/168](https://www.legislation.gov.uk/uksi/2021/168), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2021/168/regulation/2/2))
+[^c-f908884a088425fe82d5dc63969bc918]: Modification: S. 53 applied (with modifications) (E.) (22.2.2020 for all purposes except in respect of infant formula and follow-on formula manufactured from protein hydrolysates and 22.2.2022 in so far as not already in force) by [The Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment etc.) (England) Regulations 2020 (S.I. 2020/43)](https://www.legislation.gov.uk/uksi/2020/43), [regs. 1(1)(2)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1/2), [4(6)(7)(k)](https://www.legislation.gov.uk/uksi/2020/43/regulation/4/6/7/k), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2020/43/schedule/2/paragraph/16) (as amended by [S.I. 2021/168](https://www.legislation.gov.uk/uksi/2021/168), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2021/168/regulation/2/2))
 
 [^c10205581]: Marginal citation: [1956 c. 30](https://www.legislation.gov.uk/ukpga/1956/30) .
 
@@ -106,11 +106,11 @@ that day shall be excluded from that period.
 
 [^c10205611]: Textual amendment: S. 53(2): entry inserted (3.1.1995) by [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40), [ss. 76](https://www.legislation.gov.uk/ukpga/1994/40/section/76), [82(2)(f)](https://www.legislation.gov.uk/ukpga/1994/40/section/82/2/f), [Sch. 16 para. 19](https://www.legislation.gov.uk/ukpga/1994/40/schedule/16/paragraph/19)
 
-[^key-d3448a6a47d6e07d7b296faeace84ba9]: Textual amendment: S. 53(2): entry substituted (7.12.2004) by [Food Safety Act 1990 (Amendment) Regulations 2004 (S.I. 2004/2990)](https://www.legislation.gov.uk/uksi/2004/2990), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2990/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2004/2990/regulation/6/a)
+[^c-d3448a6a47d6e07d7b296faeace84ba9]: Textual amendment: S. 53(2): entry substituted (7.12.2004) by [Food Safety Act 1990 (Amendment) Regulations 2004 (S.I. 2004/2990)](https://www.legislation.gov.uk/uksi/2004/2990), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2990/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2004/2990/regulation/6/a)
 
-[^key-74ecbfcf8cd6b3fe8df8e9a4eddba1a6]: Textual amendment: Words in s. 53(2) inserted (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [s. 63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2), [sch. para. 3(12)](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/3/12) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-74ecbfcf8cd6b3fe8df8e9a4eddba1a6]: Textual amendment: Words in s. 53(2) inserted (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [s. 63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2), [sch. para. 3(12)](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/3/12) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-4c4aa31ae6aa0b62aa1aea846223654e]: Textual amendment: S. 53(2): entry substituted (1.1.2005) by [General Food Regulations 2004 (S.I. 2004/3279)](https://www.legislation.gov.uk/uksi/2004/3279), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3279/regulation/1), [15(a)](https://www.legislation.gov.uk/uksi/2004/3279/regulation/15)
+[^c-4c4aa31ae6aa0b62aa1aea846223654e]: Textual amendment: S. 53(2): entry substituted (1.1.2005) by [General Food Regulations 2004 (S.I. 2004/3279)](https://www.legislation.gov.uk/uksi/2004/3279), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3279/regulation/1), [15(a)](https://www.legislation.gov.uk/uksi/2004/3279/regulation/15)
 
 [^M_F_f1b4d55c-a599-42cf-b502-5be39882a326]: Textual amendment: S. 53(2) entry omitted (1.1.2005) by [General Food Regulations 2004 (S.I. 2004/3279)](https://www.legislation.gov.uk/uksi/2004/3279), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3279/regulation/1), [15(b)](https://www.legislation.gov.uk/uksi/2004/3279/regulation/15)
 

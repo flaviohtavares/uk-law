@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 277. Particulars of secretaries to be registered: individuals[^key-7be107f375569961c22ca4b81c6b78c7]
+## 277. Particulars of secretaries to be registered: individuals[^c-7be107f375569961c22ca4b81c6b78c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7be107f375569961c22ca4b81c6b78c7]: Textual amendment: [S. 274A-279F and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/12/crossheading/option-to-keep-information-on-the-central-register) omitted (26.10.2023 for specified purposes, 18.11.2025 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/5); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-7be107f375569961c22ca4b81c6b78c7]: Textual amendment: [S. 274A-279F and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/12/crossheading/option-to-keep-information-on-the-central-register) omitted (26.10.2023 for specified purposes, 18.11.2025 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/5); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)

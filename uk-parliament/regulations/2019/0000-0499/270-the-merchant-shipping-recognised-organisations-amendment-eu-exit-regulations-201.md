@@ -48,20 +48,20 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with paragraph 1(1) and 2(a) and (d) of Schedule 7 to the European Union (Withdrawal) Act 2018, a draft of this instrument has been laid before Parliament and approved by resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-308b4d039eb04f270fe9d6697ae8e60c]
+## 1. Citation and commencement[^c-308b4d039eb04f270fe9d6697ae8e60c]
 
 (1) These Regulations may be cited as the Merchant Shipping (Recognised Organisations) (Amendment) (EU Exit) Regulations 2019.
 
 (2) These Regulations come into force on exit day.
 
-## 2. Transitional provision and savings[^key-52f9f8c99739eb0d8538c4bac34de985]
+## 2. Transitional provision and savings[^c-52f9f8c99739eb0d8538c4bac34de985]
 
 (1) Any organisation which was—
 
 - (a) recognised under Regulation [(EC) 391/2009](https://www.legislation.gov.uk/eur/2009/391) on common rules and standards for ship inspection and survey organisations [^c23588081], and
 - (b) authorised to act on behalf of the Secretary of State,
 
-immediately before IP completion day[^key-bf158e1c79b94b8a9a11974e8775ea97], continues to be recognised under Regulation [(EC) 391/2009](https://www.legislation.gov.uk/eur/2009/391).
+immediately before IP completion day[^c-bf158e1c79b94b8a9a11974e8775ea97], continues to be recognised under Regulation [(EC) 391/2009](https://www.legislation.gov.uk/eur/2009/391).
 
 (2) For the purposes of the first paragraph of Article 5 of Regulation [(EC) 391/2009](https://www.legislation.gov.uk/eur/2009/391) (requirement for preventive and remedial action), the Secretary of State may take into account matters which occurred before IP completion day and, in the Secretary of State's opinion, amount to a failure to fulfil the minimum criteria set out in Annex 1.
 
@@ -71,7 +71,7 @@ immediately before IP completion day[^key-bf158e1c79b94b8a9a11974e8775ea97], con
 
 (5) For the purposes of Article 5 (assessment of the seriousness of an infringement) and Article 6 (assessment of the effects of an infringement) of Commission Regulation (EU) 788/2014, the Secretary of State may take into account matters mentioned in those Articles which occurred before IP completion day.
 
-## 3. Amendment of Regulation [(EC) 391/2009](https://www.legislation.gov.uk/eur/2009/391)[^key-273d88273979cbcc2f41f0f221d09354]
+## 3. Amendment of Regulation [(EC) 391/2009](https://www.legislation.gov.uk/eur/2009/391)[^c-273d88273979cbcc2f41f0f221d09354]
 
 (1) Regulation [(EC) 391/2009](https://www.legislation.gov.uk/eur/2009/391) on common rules and standards for ship inspection and survey organisations is amended as follows.
 
@@ -290,7 +290,7 @@ immediately before IP completion day[^key-bf158e1c79b94b8a9a11974e8775ea97], con
 - (c) in paragraph 5, for “Member States and the Commission” substitute “ the Secretary of State ”;
 - (d) in paragraph 11, for “administration” substitute “ Secretary of State ”.
 
-## 4. Amendment of Commission Regulation (EU) 788/2014[^key-0b32398c6731ec1b9a77f5c173474e70]
+## 4. Amendment of Commission Regulation (EU) 788/2014[^c-0b32398c6731ec1b9a77f5c173474e70]
 
 (1) Commission Regulation (EU) 788/2014 laying down detailed rules for the imposition of fines and periodic penalty payments and the withdrawal of recognition of ship inspection and survey organisations pursuant to Articles 6 and 7 of Regulation [(EC) 391/2009](https://www.legislation.gov.uk/eur/2009/391) is amended as follows.
 
@@ -409,7 +409,7 @@ immediately before IP completion day[^key-bf158e1c79b94b8a9a11974e8775ea97], con
 
 (25) In the Annex, in the second column of the entry relating to Article 10(5) of Regulation [(EC) No 391/2009](https://www.legislation.gov.uk/eur/2009/391), for “flag State” substitute “ Secretary of State ”.
 
-## 5. Amendment of Commission Decision [2009/491/EC](https://www.legislation.gov.uk/eud/2009/491)[^key-12e99df5d915244f5c6357f51d0cd263]
+## 5. Amendment of Commission Decision [2009/491/EC](https://www.legislation.gov.uk/eud/2009/491)[^c-12e99df5d915244f5c6357f51d0cd263]
 
 (1) Commission Decision [2009/491/EC](https://www.legislation.gov.uk/eud/2009/491) on criteria to be followed in order to decide when the performance of an organisation acting on behalf of a flag State can be considered an unacceptable threat to safety and the environment, is amended as follows.
 
@@ -447,7 +447,7 @@ immediately before IP completion day[^key-bf158e1c79b94b8a9a11974e8775ea97], con
 
 (6) Omit Articles 5 (form of reports to the Commission) and 6 (application) and Annex II.
 
-## 6. Amendment of Commission Implementing Regulation (EU) 1355/2014[^key-a9c8a7f0dff5790efcdc46eaa76dc78a]
+## 6. Amendment of Commission Implementing Regulation (EU) 1355/2014[^c-a9c8a7f0dff5790efcdc46eaa76dc78a]
 
 Commission Implementing Regulation (EU) 1355/2014 amending Regulation [(EC) 391/2009](https://www.legislation.gov.uk/eur/2009/391) with regard to the adoption by the International Maritime Organization (IMO) of certain Codes and related amendments to certain conventions and protocols is revoked.
 
@@ -475,15 +475,15 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^c23588071]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-308b4d039eb04f270fe9d6697ae8e60c]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-308b4d039eb04f270fe9d6697ae8e60c]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-52f9f8c99739eb0d8538c4bac34de985]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-52f9f8c99739eb0d8538c4bac34de985]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23588081]: Marginal citation: No L 131, 28.5.2009, p 11.
 
-[^key-bf158e1c79b94b8a9a11974e8775ea97]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2019/270/regulation/2) substituted (31.12.2020 immediately before IP completion day) by [The Merchant Shipping (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1000)](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1000/regulation/4)
+[^c-bf158e1c79b94b8a9a11974e8775ea97]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2019/270/regulation/2) substituted (31.12.2020 immediately before IP completion day) by [The Merchant Shipping (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1000)](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1000/regulation/4)
 
-[^key-273d88273979cbcc2f41f0f221d09354]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-273d88273979cbcc2f41f0f221d09354]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23588091]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
@@ -491,8 +491,8 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^c23588111]: Marginal citation: [S.I. 2016/1025](https://www.legislation.gov.uk/uksi/2016/1025).
 
-[^key-0b32398c6731ec1b9a77f5c173474e70]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-0b32398c6731ec1b9a77f5c173474e70]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-12e99df5d915244f5c6357f51d0cd263]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-12e99df5d915244f5c6357f51d0cd263]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-a9c8a7f0dff5790efcdc46eaa76dc78a]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-a9c8a7f0dff5790efcdc46eaa76dc78a]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

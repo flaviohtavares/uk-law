@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Forms and documents: variations and translations[^key-047e89832998f4c3bcda008f491bc80a]
+## 86. Forms and documents: variations and translations[^c-047e89832998f4c3bcda008f491bc80a]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-047e89832998f4c3bcda008f491bc80a]: Commencement: Art. 86 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-047e89832998f4c3bcda008f491bc80a]: Commencement: Art. 86 in force at 16.12.2015 in accordance with art. 1(1)

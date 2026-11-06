@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Power to modify scheme to allow for payment of surplus to employer[^key-6fe2b282c451d9f8670305bc4c89d6e4]
+## 9. Power to modify scheme to allow for payment of surplus to employer[^c-6fe2b282c451d9f8670305bc4c89d6e4]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6fe2b282c451d9f8670305bc4c89d6e4]: Commencement: S. 9 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-6fe2b282c451d9f8670305bc4c89d6e4]: Commencement: S. 9 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

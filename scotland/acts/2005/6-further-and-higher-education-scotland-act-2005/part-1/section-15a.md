@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15A. Monitoring of financial sustainability of post-16 education bodies[^key-6a1e87278fe0ed6fc4a91c914b85c447]
+## 15A. Monitoring of financial sustainability of post-16 education bodies[^c-6a1e87278fe0ed6fc4a91c914b85c447]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ as the person may reasonably require for the purposes of the examination.
 
 ## Annotations
 
-[^key-6a1e87278fe0ed6fc4a91c914b85c447]: Textual amendment: [S. 15A](https://www.legislation.gov.uk/asp/2005/6/section/15A) inserted (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 18(2)](https://www.legislation.gov.uk/asp/2026/5/section/18/2), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-6a1e87278fe0ed6fc4a91c914b85c447]: Textual amendment: [S. 15A](https://www.legislation.gov.uk/asp/2005/6/section/15A) inserted (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 18(2)](https://www.legislation.gov.uk/asp/2026/5/section/18/2), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)

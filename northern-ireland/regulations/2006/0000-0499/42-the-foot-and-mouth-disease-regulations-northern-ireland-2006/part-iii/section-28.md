@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Slaughter; cleansing and disinfection of slaughterhouses[^key-930972da2215aa98aedb4d2d052e5d0d]
+## 28. Slaughter; cleansing and disinfection of slaughterhouses[^c-930972da2215aa98aedb4d2d052e5d0d]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-930972da2215aa98aedb4d2d052e5d0d]: Commencement: Reg. 28 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-930972da2215aa98aedb4d2d052e5d0d]: Commencement: Reg. 28 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

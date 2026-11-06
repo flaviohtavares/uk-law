@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 8 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^key-d9eb9fa1158a18c95a3275301f331d40]
+## SCHEDULE 8 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^c-d9eb9fa1158a18c95a3275301f331d40]
 
 *Extent: E+W+S*
 
@@ -184,4 +184,4 @@ Table 9
 
 ## Annotations
 
-[^key-d9eb9fa1158a18c95a3275301f331d40]: Commencement: Sch. 8 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-d9eb9fa1158a18c95a3275301f331d40]: Commencement: Sch. 8 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)

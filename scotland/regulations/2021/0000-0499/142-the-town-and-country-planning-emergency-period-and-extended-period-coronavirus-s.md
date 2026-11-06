@@ -32,7 +32,7 @@ summary: ''
 
 Town And Country Planning
 
-The Town and Country Planning (Emergency Period and Extended Period) (Coronavirus) (Scotland) Amendment Regulations 2021 (revoked)[^key-52ca02c9be44bd2cbbb6393d3af3bbd9]
+The Town and Country Planning (Emergency Period and Extended Period) (Coronavirus) (Scotland) Amendment Regulations 2021 (revoked)[^c-52ca02c9be44bd2cbbb6393d3af3bbd9]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 29th March 2021
 
-[^key-52ca02c9be44bd2cbbb6393d3af3bbd9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52ca02c9be44bd2cbbb6393d3af3bbd9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-52ca02c9be44bd2cbbb6393d3af3bbd9]
+## 1. Citation, commencement and interpretation[^c-52ca02c9be44bd2cbbb6393d3af3bbd9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Town and Country Planning (Emergency Period and Extended Period) (Coronavirus) (Scotland) Regulations 2021[^key-52ca02c9be44bd2cbbb6393d3af3bbd9]
+## 2. Amendment of the Town and Country Planning (Emergency Period and Extended Period) (Coronavirus) (Scotland) Regulations 2021[^c-52ca02c9be44bd2cbbb6393d3af3bbd9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-52ca02c9be44bd2cbbb6393d3af3bbd9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52ca02c9be44bd2cbbb6393d3af3bbd9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-52ca02c9be44bd2cbbb6393d3af3bbd9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52ca02c9be44bd2cbbb6393d3af3bbd9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-52ca02c9be44bd2cbbb6393d3af3bbd9]: Textual amendment: [Instrument](https://www.legislation.gov.uk/ssi/2021/142) revoked (29.9.2021) by [The Town and Country Planning (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2021 (S.S.I. 2021/292)](https://www.legislation.gov.uk/ssi/2021/292), [reg. 6(2)(b)](https://www.legislation.gov.uk/ssi/2021/292/regulation/6/2/b)
+[^c-52ca02c9be44bd2cbbb6393d3af3bbd9]: Textual amendment: [Instrument](https://www.legislation.gov.uk/ssi/2021/142) revoked (29.9.2021) by [The Town and Country Planning (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2021 (S.S.I. 2021/292)](https://www.legislation.gov.uk/ssi/2021/292), [reg. 6(2)(b)](https://www.legislation.gov.uk/ssi/2021/292/regulation/6/2/b)

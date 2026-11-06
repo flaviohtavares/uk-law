@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Breach of other construction and use requirements.[^key-d5e0dfad10854675e47eddcea56ac0b2][^c13973001]
+## 42. Breach of other construction and use requirements.[^c-d5e0dfad10854675e47eddcea56ac0b2][^c13973001]
 
 *Extent: E+W+S*
 
@@ -29,7 +29,7 @@ is guilty of an offence.
 
 ## Annotations
 
-[^key-d5e0dfad10854675e47eddcea56ac0b2]: Modification: S. 42 excluded (17.4.2019) by [The Motor Sport on Public Roads (Scotland) Regulations 2019 (S.S.I. 2019/138)](https://www.legislation.gov.uk/ssi/2019/138), [regs. 1](https://www.legislation.gov.uk/ssi/2019/138/regulation/1), [6](https://www.legislation.gov.uk/ssi/2019/138/regulation/6), [sch. 2](https://www.legislation.gov.uk/ssi/2019/138/schedule/2)
+[^c-d5e0dfad10854675e47eddcea56ac0b2]: Modification: S. 42 excluded (17.4.2019) by [The Motor Sport on Public Roads (Scotland) Regulations 2019 (S.S.I. 2019/138)](https://www.legislation.gov.uk/ssi/2019/138), [regs. 1](https://www.legislation.gov.uk/ssi/2019/138/regulation/1), [6](https://www.legislation.gov.uk/ssi/2019/138/regulation/6), [sch. 2](https://www.legislation.gov.uk/ssi/2019/138/schedule/2)
 
 [^c13973001]: Textual amendment: Ss. 41A, 41B, 42 substituted (1.7.1992) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 8](https://www.legislation.gov.uk/ukpga/1991/40/section/8); [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1992/1286/schedule)
 

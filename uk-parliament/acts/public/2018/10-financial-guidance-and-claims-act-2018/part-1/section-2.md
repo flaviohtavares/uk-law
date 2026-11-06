@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Objectives[^key-1c7c9a26a21071b6f1e425f7c98a0b46]
+## 2. Objectives[^c-1c7c9a26a21071b6f1e425f7c98a0b46]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c7c9a26a21071b6f1e425f7c98a0b46]: Commencement: S. 2 in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/b)
+[^c-1c7c9a26a21071b6f1e425f7c98a0b46]: Commencement: S. 2 in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/b)

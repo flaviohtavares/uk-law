@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Reduction of adverse impacts of storm overflows[^key-df5c86f3e2ea45b8cf3fddb99a359c72]
+## 83. Reduction of adverse impacts of storm overflows[^c-df5c86f3e2ea45b8cf3fddb99a359c72]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ In Chapter 4 of Part 4 of the Water Industry Act 1991, after section 141DB inser
 
 ## Annotations
 
-[^key-df5c86f3e2ea45b8cf3fddb99a359c72]: Commencement: S. 83 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-df5c86f3e2ea45b8cf3fddb99a359c72]: Commencement: S. 83 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)

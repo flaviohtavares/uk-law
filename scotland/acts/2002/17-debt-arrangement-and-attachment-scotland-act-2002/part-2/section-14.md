@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: S*
 
-Sections 15 to 19A[^key-e7ca4312a47246dcabbc250af3275a27] below apply only in relation to the attachment of articles which are—
+Sections 15 to 19A[^c-e7ca4312a47246dcabbc250af3275a27] below apply only in relation to the attachment of articles which are—
 
 - (a) kept outwith a dwellinghouse; or
 - (b) mobile homes which are not the only or principal residence of the debtor.
 
 ## Annotations
 
-[^key-e7ca4312a47246dcabbc250af3275a27]: Textual amendment: Word in s. 14 substituted (31.3.2007 for specified purposes) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [s. 227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3), [Sch. 5 para. 30(5)](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/30/5) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(e)(i)](https://www.legislation.gov.uk/ssi/2007/82/article/4/e/i)
+[^c-e7ca4312a47246dcabbc250af3275a27]: Textual amendment: Word in s. 14 substituted (31.3.2007 for specified purposes) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [s. 227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3), [Sch. 5 para. 30(5)](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/30/5) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(e)(i)](https://www.legislation.gov.uk/ssi/2007/82/article/4/e/i)

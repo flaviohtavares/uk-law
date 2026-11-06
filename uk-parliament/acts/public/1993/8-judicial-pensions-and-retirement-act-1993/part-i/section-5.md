@@ -57,12 +57,12 @@ the Treasury may, on or at any time after the marriage or the formation of the c
 
 *Extent: N.I.*
 
-(7)[^key-367fa98cde5a080e98c781b10e7fd314] In a case within subsection (6)(c), section 2(7)(c) (deemed increase in period of service) is to be disregarded in determining the rate that would have been the appropriate annual rate of the deceased’s pension if, at the date of death—
+(7)[^c-367fa98cde5a080e98c781b10e7fd314] In a case within subsection (6)(c), section 2(7)(c) (deemed increase in period of service) is to be disregarded in determining the rate that would have been the appropriate annual rate of the deceased’s pension if, at the date of death—
 
 - (a) the deceased was a member of a scheme under section 1 of the Public Service Pensions Act (Northern Ireland) 2014, and
 - (b) under that scheme, benefits are payable on the deceased’s death to a widow, widower or surviving civil partner of the deceased.
 
-(7)[^key-b0b45b591db1d3d865bca47eb3baf9c1] In a case within subsection (6)(c), section 2(7)(c) (deemed increase in period of service) is to be disregarded in determining the rate that would have been the appropriate annual rate of the deceased’s pension if, at the date of death—
+(7)[^c-b0b45b591db1d3d865bca47eb3baf9c1] In a case within subsection (6)(c), section 2(7)(c) (deemed increase in period of service) is to be disregarded in determining the rate that would have been the appropriate annual rate of the deceased’s pension if, at the date of death—
 
 - (a) the deceased was a member of a scheme under section 1 of the Public Service Pensions Act 2013, and
 - (b) under that scheme, benefits are payable on the deceased’s death to a widow, widower or surviving civil partner of the deceased.
@@ -87,6 +87,6 @@ the Treasury may, on or at any time after the marriage or the formation of the c
 
 [^c20857111]: Textual amendment: S. 5(5A) inserted (5.12.2005) by [The Civil Partnership (Judicial Pensions and Church Pensions, etc.) Order 2005 (S.I. 2005/3325)](https://www.legislation.gov.uk/uksi/2005/3325), [art. 70(6)](https://www.legislation.gov.uk/uksi/2005/3325/article/70/6)
 
-[^key-367fa98cde5a080e98c781b10e7fd314]: Textual amendment: [S. 5(7)](https://www.legislation.gov.uk/ukpga/1993/8/section/5/7) inserted (N.I.) (1.4.2015) by [The Judicial Pensions Regulations (Northern Ireland) 2015 (S.R. 2015/76)](https://www.legislation.gov.uk/nisr/2015/76), [reg. 1(3)](https://www.legislation.gov.uk/nisr/2015/76/regulation/1/3), [Sch. 3 para. 11(4)](https://www.legislation.gov.uk/nisr/2015/76/schedule/3/paragraph/11/4)
+[^c-367fa98cde5a080e98c781b10e7fd314]: Textual amendment: [S. 5(7)](https://www.legislation.gov.uk/ukpga/1993/8/section/5/7) inserted (N.I.) (1.4.2015) by [The Judicial Pensions Regulations (Northern Ireland) 2015 (S.R. 2015/76)](https://www.legislation.gov.uk/nisr/2015/76), [reg. 1(3)](https://www.legislation.gov.uk/nisr/2015/76/regulation/1/3), [Sch. 3 para. 11(4)](https://www.legislation.gov.uk/nisr/2015/76/schedule/3/paragraph/11/4)
 
-[^key-b0b45b591db1d3d865bca47eb3baf9c1]: Textual amendment: [S. 5(7)](https://www.legislation.gov.uk/ukpga/1993/8/section/5/7) inserted (1.4.2015) by [The Judicial Pensions Regulations 2015 (S.I. 2015/182)](https://www.legislation.gov.uk/uksi/2015/182), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4), [Sch. 3 para. 12(4)](https://www.legislation.gov.uk/uksi/2015/182/schedule/3/paragraph/12/4) (with [regs. 148](https://www.legislation.gov.uk/uksi/2015/182/regulation/148), [160](https://www.legislation.gov.uk/uksi/2015/182/regulation/160))
+[^c-b0b45b591db1d3d865bca47eb3baf9c1]: Textual amendment: [S. 5(7)](https://www.legislation.gov.uk/ukpga/1993/8/section/5/7) inserted (1.4.2015) by [The Judicial Pensions Regulations 2015 (S.I. 2015/182)](https://www.legislation.gov.uk/uksi/2015/182), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4), [Sch. 3 para. 12(4)](https://www.legislation.gov.uk/uksi/2015/182/schedule/3/paragraph/12/4) (with [regs. 148](https://www.legislation.gov.uk/uksi/2015/182/regulation/148), [160](https://www.legislation.gov.uk/uksi/2015/182/regulation/160))

@@ -33,61 +33,61 @@ A Measure passed by the General Synod of the Church of England to amend the Care
 
 \[12th February 2015\]
 
-## 1. Guidance as to the planting etc. of trees in churchyards[^key-3cbdfb6a2480aa44ceda04111d0a9ebe]
+## 1. Guidance as to the planting etc. of trees in churchyards[^c-3cbdfb6a2480aa44ceda04111d0a9ebe]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Powers of archdeacons[^key-3cbdfb6a2480aa44ceda04111d0a9ebe]
+## 2. Powers of archdeacons[^c-3cbdfb6a2480aa44ceda04111d0a9ebe]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consultation with diocesan advisory committee[^key-3cbdfb6a2480aa44ceda04111d0a9ebe]
+## 3. Consultation with diocesan advisory committee[^c-3cbdfb6a2480aa44ceda04111d0a9ebe]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Disused burial grounds[^key-3cbdfb6a2480aa44ceda04111d0a9ebe]
+## 4. Disused burial grounds[^c-3cbdfb6a2480aa44ceda04111d0a9ebe]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Powers to prescribe matters not requiring a faculty[^key-3cbdfb6a2480aa44ceda04111d0a9ebe]
+## 5. Powers to prescribe matters not requiring a faculty[^c-3cbdfb6a2480aa44ceda04111d0a9ebe]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Membership of Rule Committee for matters relating to faculty jurisdiction etc.[^key-3cbdfb6a2480aa44ceda04111d0a9ebe]
+## 6. Membership of Rule Committee for matters relating to faculty jurisdiction etc.[^c-3cbdfb6a2480aa44ceda04111d0a9ebe]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Allocation of appeals[^key-3cbdfb6a2480aa44ceda04111d0a9ebe]
+## 7. Allocation of appeals[^c-3cbdfb6a2480aa44ceda04111d0a9ebe]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Power for appellate court to intervene in proceedings in cases of delay[^key-3cbdfb6a2480aa44ceda04111d0a9ebe]
+## 8. Power for appellate court to intervene in proceedings in cases of delay[^c-3cbdfb6a2480aa44ceda04111d0a9ebe]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Duration of office of chancellor[^key-3cbdfb6a2480aa44ceda04111d0a9ebe]
+## 9. Duration of office of chancellor[^c-3cbdfb6a2480aa44ceda04111d0a9ebe]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Interlocutory orders in the appellate courts[^key-47cdebddb077c524c5de3576d7e3e9b0]
+## 10. Interlocutory orders in the appellate courts[^c-47cdebddb077c524c5de3576d7e3e9b0]
 
 In section 47 of the 1963 Measure (proceedings in Arches and Chancery Court), after subsection (1) insert—
 
@@ -116,6 +116,6 @@ In section 47 of the 1963 Measure (proceedings in Arches and Chancery Court), af
 
 ## Annotations
 
-[^key-3cbdfb6a2480aa44ceda04111d0a9ebe]: Textual amendment: [Ss. 1-9](https://www.legislation.gov.uk/ukcm/2015/1/section/1) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-3cbdfb6a2480aa44ceda04111d0a9ebe]: Textual amendment: [Ss. 1-9](https://www.legislation.gov.uk/ukcm/2015/1/section/1) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-47cdebddb077c524c5de3576d7e3e9b0]: Commencement: [S. 10](https://www.legislation.gov.uk/ukcm/2015/1/section/10) in force at 1.4.2015 by [S.I. 2015/593](https://www.legislation.gov.uk/uksi/2015/593), [art. 2](https://www.legislation.gov.uk/uksi/2015/593/article/2)
+[^c-47cdebddb077c524c5de3576d7e3e9b0]: Commencement: [S. 10](https://www.legislation.gov.uk/ukcm/2015/1/section/10) in force at 1.4.2015 by [S.I. 2015/593](https://www.legislation.gov.uk/uksi/2015/593), [art. 2](https://www.legislation.gov.uk/uksi/2015/593/article/2)

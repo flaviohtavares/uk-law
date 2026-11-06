@@ -39,18 +39,18 @@ granting derogations to certain Member States with respect to the transmission o
 
 (Text with EEA relevance) (revoked)
 
-[^key-13fbe9db0d25ea07e58b2af09a7fbd75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-13fbe9db0d25ea07e58b2af09a7fbd75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-13fbe9db0d25ea07e58b2af09a7fbd75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-13fbe9db0d25ea07e58b2af09a7fbd75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-13fbe9db0d25ea07e58b2af09a7fbd75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-13fbe9db0d25ea07e58b2af09a7fbd75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-13fbe9db0d25ea07e58b2af09a7fbd75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-13fbe9db0d25ea07e58b2af09a7fbd75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — Derogations from Regulation (EC) No 1338/2008, as implemented by the Commission, concerning statistics based on the European Health Interview Survey (EHIS)[^key-13fbe9db0d25ea07e58b2af09a7fbd75]
+## ANNEX — Derogations from Regulation (EC) No 1338/2008, as implemented by the Commission, concerning statistics based on the European Health Interview Survey (EHIS)[^c-13fbe9db0d25ea07e58b2af09a7fbd75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-13fbe9db0d25ea07e58b2af09a7fbd75]: Textual amendment: Decision revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 288](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/288); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-13fbe9db0d25ea07e58b2af09a7fbd75]: Textual amendment: Decision revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 288](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/288); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

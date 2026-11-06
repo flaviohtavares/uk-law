@@ -32,7 +32,7 @@ summary: ''
 
 Pensions
 
-The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order (Northern Ireland) 2023 (revoked)[^key-6f3b80387ee94928e50835a2e180aa0a]
+The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order (Northern Ireland) 2023 (revoked)[^c-6f3b80387ee94928e50835a2e180aa0a]
 
 Made
 
@@ -42,26 +42,26 @@ Coming into operation
 
 31st March 2023
 
-[^key-6f3b80387ee94928e50835a2e180aa0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f3b80387ee94928e50835a2e180aa0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6f3b80387ee94928e50835a2e180aa0a]
+## 1. Citation and commencement[^c-6f3b80387ee94928e50835a2e180aa0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The levy ceiling[^key-6f3b80387ee94928e50835a2e180aa0a]
+## 2. The levy ceiling[^c-6f3b80387ee94928e50835a2e180aa0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-6f3b80387ee94928e50835a2e180aa0a]
+## 3. Revocation[^c-6f3b80387ee94928e50835a2e180aa0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6f3b80387ee94928e50835a2e180aa0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f3b80387ee94928e50835a2e180aa0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6f3b80387ee94928e50835a2e180aa0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f3b80387ee94928e50835a2e180aa0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6f3b80387ee94928e50835a2e180aa0a]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2023/22) revoked (31.3.2024) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order (Northern Ireland) 2024 (S.R. 2024/20)](https://www.legislation.gov.uk/nisr/2024/20), [arts. 1](https://www.legislation.gov.uk/nisr/2024/20/article/1), [3](https://www.legislation.gov.uk/nisr/2024/20/article/3)
+[^c-6f3b80387ee94928e50835a2e180aa0a]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2023/22) revoked (31.3.2024) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order (Northern Ireland) 2024 (S.R. 2024/20)](https://www.legislation.gov.uk/nisr/2024/20), [arts. 1](https://www.legislation.gov.uk/nisr/2024/20/article/1), [3](https://www.legislation.gov.uk/nisr/2024/20/article/3)

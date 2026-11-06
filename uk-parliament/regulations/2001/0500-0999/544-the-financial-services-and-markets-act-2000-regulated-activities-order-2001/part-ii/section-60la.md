@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60LA. Meaning of consumer etc.[^key-16b85443a2b34be1420a314fb75ce53f][^key-715a373f306ef1d29d9e1397179a518c]
+## 60LA. Meaning of consumer etc.[^c-16b85443a2b34be1420a314fb75ce53f][^c-715a373f306ef1d29d9e1397179a518c]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,15 +34,15 @@ a person who is treated by A as a person who is or has been the borrower under a
 
 a person who is treated by A as a person who is or has been the borrower under a regulated credit agreement is to be treated as a “client”.
 
-(3) In this article, “borrower” includes (in addition to those persons included in the definition in article 60L or, where the credit agreement is a green deal plan, article 60LB *(Extent: E+W+S)*[^key-3ce342f05b5efd2a8a998ccfaebdfbcf])—
+(3) In this article, “borrower” includes (in addition to those persons included in the definition in article 60L or, where the credit agreement is a green deal plan, article 60LB *(Extent: E+W+S)*[^c-3ce342f05b5efd2a8a998ccfaebdfbcf])—
 
 - (a) any person providing a guarantee or indemnity under a regulated credit agreement, and
 - (b) a person to whom the rights and duties of a person falling within sub-paragraph (a) have passed by assignment or operation of law.
 
 ## Annotations
 
-[^key-16b85443a2b34be1420a314fb75ce53f]: Textual amendment: Art. 60LA inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [2(33)](https://www.legislation.gov.uk/uksi/2014/366/article/2/33)
+[^c-16b85443a2b34be1420a314fb75ce53f]: Textual amendment: Art. 60LA inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [2(33)](https://www.legislation.gov.uk/uksi/2014/366/article/2/33)
 
-[^key-715a373f306ef1d29d9e1397179a518c]: Textual amendment: Pt. II Ch. 14A, 14B inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [6](https://www.legislation.gov.uk/uksi/2013/1881/article/6)
+[^c-715a373f306ef1d29d9e1397179a518c]: Textual amendment: Pt. II Ch. 14A, 14B inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [6](https://www.legislation.gov.uk/uksi/2013/1881/article/6)
 
-[^key-3ce342f05b5efd2a8a998ccfaebdfbcf]: Textual amendment: Words in art. 60LA(3) inserted (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [9](https://www.legislation.gov.uk/uksi/2014/1850/article/9) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
+[^c-3ce342f05b5efd2a8a998ccfaebdfbcf]: Textual amendment: Words in art. 60LA(3) inserted (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [9](https://www.legislation.gov.uk/uksi/2014/1850/article/9) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))

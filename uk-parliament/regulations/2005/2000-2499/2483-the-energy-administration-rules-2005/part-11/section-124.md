@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 124. Appointment of another person to act[^key-471f8ba0f1365594c739198d53ee6a71]
+## 124. Appointment of another person to act[^c-471f8ba0f1365594c739198d53ee6a71]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-471f8ba0f1365594c739198d53ee6a71]: Commencement: Rule 124 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-471f8ba0f1365594c739198d53ee6a71]: Commencement: Rule 124 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

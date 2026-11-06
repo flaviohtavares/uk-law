@@ -3363,7 +3363,7 @@ Section 180
 
 **37.** CTA 2010 is amended as follows.
 
-**38.**[^key-eb54de6443937c45ae0a29aabc36140a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-eb54de6443937c45ae0a29aabc36140a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **39.** (1) Section 938M (group mismatch schemes: controlled foreign companies) is amended as follows.
 
@@ -3411,11 +3411,11 @@ Section 180
 >
 > (5) For the purposes of subsections (1)(c) and (d) and (3)(a) assume that any claims made under Chapter 9 of Part 9A for the accounting period were not made.
 
-**43.**[^key-9d5c16b90f5d951099c1423b39e39813] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-9d5c16b90f5d951099c1423b39e39813] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**44.**[^key-9d5c16b90f5d951099c1423b39e39813] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-9d5c16b90f5d951099c1423b39e39813] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**45.**[^key-9d5c16b90f5d951099c1423b39e39813] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**45.**[^c-9d5c16b90f5d951099c1423b39e39813] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Insurance Companies (Reserve) (Tax) Regulations 1996 (S.I. 1996/2991)
 
@@ -3534,6 +3534,6 @@ Section 180
 
 ## Annotations
 
-[^key-eb54de6443937c45ae0a29aabc36140a]: Textual amendment: [Sch. 20 para. 38](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/38) omitted (with effect in accordance with s. 36(3)-(5) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 36(2)(b)](https://www.legislation.gov.uk/ukpga/2015/33/section/36/2/b)
+[^c-eb54de6443937c45ae0a29aabc36140a]: Textual amendment: [Sch. 20 para. 38](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/38) omitted (with effect in accordance with s. 36(3)-(5) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 36(2)(b)](https://www.legislation.gov.uk/ukpga/2015/33/section/36/2/b)
 
-[^key-9d5c16b90f5d951099c1423b39e39813]: Textual amendment: [Sch. 20 paras. 43-45](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/43) repealed (with effect in accordance with Sch. 5 para. 26(1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 11(2)(c)(iii)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/11/2/c/iii)
+[^c-9d5c16b90f5d951099c1423b39e39813]: Textual amendment: [Sch. 20 paras. 43-45](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/43) repealed (with effect in accordance with Sch. 5 para. 26(1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 11(2)(c)(iii)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/11/2/c/iii)

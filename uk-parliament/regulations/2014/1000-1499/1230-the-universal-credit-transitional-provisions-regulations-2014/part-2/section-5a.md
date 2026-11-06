@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5A. Entitlement to universal credit and housing benefit: universal credit work allowance[^key-894279e0a4d8b9532bcbef448a3da3d0]
+## 5A. Entitlement to universal credit and housing benefit: universal credit work allowance[^c-894279e0a4d8b9532bcbef448a3da3d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where a claimant has an award of universal credit and, in any assessment period,
 
 ## Annotations
 
-[^key-894279e0a4d8b9532bcbef448a3da3d0]: Textual amendment: Reg. 5A inserted (11.4.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/4), [6(5)](https://www.legislation.gov.uk/uksi/2018/65/regulation/6/5) (with [reg. 8(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/8/2)[(3)](https://www.legislation.gov.uk/uksi/2018/65/regulation/8/3))
+[^c-894279e0a4d8b9532bcbef448a3da3d0]: Textual amendment: Reg. 5A inserted (11.4.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/4), [6(5)](https://www.legislation.gov.uk/uksi/2018/65/regulation/6/5) (with [reg. 8(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/8/2)[(3)](https://www.legislation.gov.uk/uksi/2018/65/regulation/8/3))

@@ -45,17 +45,17 @@ In exercise of the powers conferred on the Secretary of State by sections 87(3)(
 
 (1) This Order may be cited as the Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) Order 2003 and shall come into force on 1st May 2003.
 
-(2)[^key-fe3e630498e23d2651c7c5d6c6cad208] In this Order subject to paragraphs (4) and (5)[^key-cad15f271d5f68e1ab5b1c5fdd397408]—
+(2)[^c-fe3e630498e23d2651c7c5d6c6cad208] In this Order subject to paragraphs (4) and (5)[^c-cad15f271d5f68e1ab5b1c5fdd397408]—
 
-- (a) articles 4, 5, 5B, 6, 6B, 7, 8 and 9 apply for the purpose of ascertaining the achievements in the core subjects of pupils who have completed the programme of study for the second key stage; [^key-b990fee716e35d10e5237cffbeb6857d]...
-- (b) article 4A applies for the purpose of determining the suitability of test materials for use in NC tests; and[^key-3927b275ee22363b7e6e57215bbe1aec]
-- (c)[^key-d666e2793d58c804778139fe3a8ae0e8] articles 5ZA, 6ZA and 7A apply in respect of the multiplication tables check (and none of the articles mentioned in sub-paragraph (a) or (b) so apply).
+- (a) articles 4, 5, 5B, 6, 6B, 7, 8 and 9 apply for the purpose of ascertaining the achievements in the core subjects of pupils who have completed the programme of study for the second key stage; [^c-b990fee716e35d10e5237cffbeb6857d]...
+- (b) article 4A applies for the purpose of determining the suitability of test materials for use in NC tests; and[^c-3927b275ee22363b7e6e57215bbe1aec]
+- (c)[^c-d666e2793d58c804778139fe3a8ae0e8] articles 5ZA, 6ZA and 7A apply in respect of the multiplication tables check (and none of the articles mentioned in sub-paragraph (a) or (b) so apply).
 
 (3) This Order applies to maintained schools (other than those established in hospitals) in England.
 
-(4)[^key-f4efce0eee55fd782acd71fed07e3e62] Articles 4 to 6 of this order do not apply in relation to the 2019-20 or 2020-21[^key-3fdc667b426bbacc2e4a78f1ac6f2e9c] school year.
+(4)[^c-f4efce0eee55fd782acd71fed07e3e62] Articles 4 to 6 of this order do not apply in relation to the 2019-20 or 2020-21[^c-3fdc667b426bbacc2e4a78f1ac6f2e9c] school year.
 
-(5) In calculating the period of four years referred to in article 5B(3), the 2019-20 and 2020-21 school years are[^key-d715611dbed88d1983b9386b4cbf90df] to be disregarded.
+(5) In calculating the period of four years referred to in article 5B(3), the 2019-20 and 2020-21 school years are[^c-d715611dbed88d1983b9386b4cbf90df] to be disregarded.
 
 ## 2. Revocation
 
@@ -65,40 +65,40 @@ The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (Engla
 
 (1) In this Order—
 
-- [^key-ed4e620470d25ffd8e5f9366fbff6b0b]...
+- [^c-ed4e620470d25ffd8e5f9366fbff6b0b]...
 - “**AT**” means attainment target;
-- [^key-6bd6cc2dd1bb4e3de1c67554ebd355f7]...
+- [^c-6bd6cc2dd1bb4e3de1c67554ebd355f7]...
 - “**the core subjects**” means English, mathematics and science;
-- “the engagement model” means the document published by the Department for Education on[^key-d85c14c866922a79b85c3cebf3826606] 15th April 2024[^key-4477d3424ffd26c0f4f437b37ac91007] entitled “The engagement model”;
-- “[^key-549c2f53aa57e39fa195fe7393e42f47]**external administrator**” means a person with whom the Secretary of State has made arrangements in connection with the implementation of the science NC test;
-- [^key-886ce9e108694d2a88808832cdb93a14]“**external marking agency**” means a body ... approved by the Secretary of State to mark NC tests;
-- “[^key-2f12c89c2c81af9a5801f29d5f4476f6]**multiplication tables check**” has the meaning given in article 5ZA;
-- “**NC tests**” means National Curriculum tests administered to pupils for the purpose of assessing the scores[^key-4e49071cb9a0f90f45799dfbd6dbfdd4] which they have achieved in any of the core subjects;
-- [^key-068ab9b8d3c5ac0afd571346383d3741]“**NC assessment timetable**” means a timetable for the administration of NC tests, being respectively tests and a timetable laid down in provisions made by the Secretary of State under article 11 ... ;
-- “[^key-063f503dbc94ef128e303f0ea90573d3]**the pre-key stage standards document for key stage 1**” means the document published by the Department for Education on 15th April 2024[^key-49c5baaa7b775bab3aea8318651b2d4f] entitled “Pre-key stage 1: pupils working below the national curriculum assessment standard”;
+- “the engagement model” means the document published by the Department for Education on[^c-d85c14c866922a79b85c3cebf3826606] 15th April 2024[^c-4477d3424ffd26c0f4f437b37ac91007] entitled “The engagement model”;
+- “[^c-549c2f53aa57e39fa195fe7393e42f47]**external administrator**” means a person with whom the Secretary of State has made arrangements in connection with the implementation of the science NC test;
+- [^c-886ce9e108694d2a88808832cdb93a14]“**external marking agency**” means a body ... approved by the Secretary of State to mark NC tests;
+- “[^c-2f12c89c2c81af9a5801f29d5f4476f6]**multiplication tables check**” has the meaning given in article 5ZA;
+- “**NC tests**” means National Curriculum tests administered to pupils for the purpose of assessing the scores[^c-4e49071cb9a0f90f45799dfbd6dbfdd4] which they have achieved in any of the core subjects;
+- [^c-068ab9b8d3c5ac0afd571346383d3741]“**NC assessment timetable**” means a timetable for the administration of NC tests, being respectively tests and a timetable laid down in provisions made by the Secretary of State under article 11 ... ;
+- “[^c-063f503dbc94ef128e303f0ea90573d3]**the pre-key stage standards document for key stage 1**” means the document published by the Department for Education on 15th April 2024[^c-49c5baaa7b775bab3aea8318651b2d4f] entitled “Pre-key stage 1: pupils working below the national curriculum assessment standard”;
 - “**the pre-key stage standards document for key stage 2**” means the document published by the Department for Education on 23rd July 2020 entitled “Pre-key stage 2: pupils working below the national curriculum assessment standard”;
-- [^key-7e16b8ab49afc67b8f4115d5989343bf] ...
-- “record of results” or (as the case may be) “record of the result”—[^key-b4edc08c6aeba22a2adcacc565b892e2]
-  - (a) [^key-b84d98afa7111cb3c90a118169ebf7d1] for the purposes of article 5, means a record of the results of a pupil in respect of the NC tests administered to the pupil under article 5(3), consisting of the scores achieved by the pupil; ...
-  - (b) for the purposes of article 7, means a record of the results of a pupil in respect of the NC tests administered to the pupil under article 5; and[^key-5d9ac0c71a0fa772d7af6dd5f6e564f0]
-  - (c) for the purposes of article 7A, means a record of the results of a pupil in respect of the multiplication tables check;[^key-0ca5ec43c8f831bbdb9cae7acf9c3f99]
+- [^c-7e16b8ab49afc67b8f4115d5989343bf] ...
+- “record of results” or (as the case may be) “record of the result”—[^c-b4edc08c6aeba22a2adcacc565b892e2]
+  - (a) [^c-b84d98afa7111cb3c90a118169ebf7d1] for the purposes of article 5, means a record of the results of a pupil in respect of the NC tests administered to the pupil under article 5(3), consisting of the scores achieved by the pupil; ...
+  - (b) for the purposes of article 7, means a record of the results of a pupil in respect of the NC tests administered to the pupil under article 5; and[^c-5d9ac0c71a0fa772d7af6dd5f6e564f0]
+  - (c) for the purposes of article 7A, means a record of the results of a pupil in respect of the multiplication tables check;[^c-0ca5ec43c8f831bbdb9cae7acf9c3f99]
 - “**section 87(3)(a) and (b) orders**” means orders made or which have effect as if they were made under section 87(3)(a) or (b) of the Education Act 2002 specifying attainment targets and programmes of study;
-- [^key-f4502702fa89a77efcdbb0275064d082] ...
+- [^c-f4502702fa89a77efcdbb0275064d082] ...
 - “**specified**” means specified in relation to the second key stage by a section 87(3)(a) and (b) order;
 - “**summer term**” means the final term in the school year;
-- “[^key-9d11ba17b40f5c4d88dfb6fc1cf91666]**trial**” means an assessment for the purpose of determining the suitability of test materials for use in NC tests;
+- “[^c-9d11ba17b40f5c4d88dfb6fc1cf91666]**trial**” means an assessment for the purpose of determining the suitability of test materials for use in NC tests;
 - “**trialling agency**” means a body approved by the Secretary of State to administer trials in respect of materials for use in NC tests.
-- [^key-f4502702fa89a77efcdbb0275064d082] ...
+- [^c-f4502702fa89a77efcdbb0275064d082] ...
 
 (2) References to the second key stage are, subject to the operation of section 82(2) to (5) of the Education Act 2002, references to the period set out in paragraph (b) of section 82(1) of that Act.
 
-(3)[^key-40d73a64f8997185080bd5e03a4569e4] References to attainment targets and programmes of study are references to the targets and programmes set out in any document (other than the pre-key stage standards document for key stage 1, the pre-key stage standards document for key stage 2 and the engagement model)[^key-2d92c3c340a3fdc37bba7d79865adc26] published by the Department for Education under a section 87(3)(a) and (b) order for the foundation subjects.
+(3)[^c-40d73a64f8997185080bd5e03a4569e4] References to attainment targets and programmes of study are references to the targets and programmes set out in any document (other than the pre-key stage standards document for key stage 1, the pre-key stage standards document for key stage 2 and the engagement model)[^c-2d92c3c340a3fdc37bba7d79865adc26] published by the Department for Education under a section 87(3)(a) and (b) order for the foundation subjects.
 
-(3A)[^key-e05a1d5c8fa51a2e8b7b55e1094c78c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-e05a1d5c8fa51a2e8b7b55e1094c78c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Where any average number required to be determined by this Order is not a whole number, it shall be rounded to the nearest whole number, the fraction one half being rounded upwards to the next whole number.
 
-## 4. Teacher Assessment[^key-eecf49239a022d40328d517d011211d6]
+## 4. Teacher Assessment[^c-eecf49239a022d40328d517d011211d6]
 
 (1) It shall be the duty of the head teacher to make arrangements —
 
@@ -112,7 +112,7 @@ The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (Engla
 (2) In this article “a pupil’s appropriate subjects” are—
 
 - (a) English reading, for a pupil who, in the opinion of the head teacher, does not have the ability to meet the standard of the NC test in that subject;
-- (b) mathematics, for a pupil who, in the opinion of the head teacher, does not have the ability to meet the standard of the NC test arranged under article 5[^key-690e2cbe654dea21de71f15dfb44d1ba] in that subject; and
+- (b) mathematics, for a pupil who, in the opinion of the head teacher, does not have the ability to meet the standard of the NC test arranged under article 5[^c-690e2cbe654dea21de71f15dfb44d1ba] in that subject; and
 - (c) science, for a pupil who, in the opinion of the head teacher, has the ability to meet the standard which applies to that pupil in that subject as calculated in accordance with any delegated supplementary provisions.
 
 (3) The purpose of the assessment of each pupil is to determine the standard of attainment which—
@@ -124,7 +124,7 @@ The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (Engla
 
 (5) In making an assessment of a pupil pursuant to this article, a teacher may take into account the results of any previous assessment of the pupil, whether or not made by that teacher.
 
-## 4A. Determining the suitability of test materials for key stage 2 National Curriculum tests[^key-97c3faf95d1e002cdf2271349ebdbc85]
+## 4A. Determining the suitability of test materials for key stage 2 National Curriculum tests[^c-97c3faf95d1e002cdf2271349ebdbc85]
 
 (1) If this article applies the head teacher must make arrangements for each pupil to be assessed by a trialling agency in respect of test materials for use in NC tests.
 
@@ -143,35 +143,35 @@ The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (Engla
 
 (7) Where this article applies to a pupil in respect of any test materials for use in NC tests a trialling agency must administer the trial to the pupil, in respect of the test materials, in accordance with any arrangements for such test materials made under article 11(1)(b).
 
-## 5. NC test assessment other than the multiplication tables check[^key-ce4544bda40d3a430003d0e010a2e0b6]
+## 5. NC test assessment other than the multiplication tables check[^c-ce4544bda40d3a430003d0e010a2e0b6]
 
-(1) It shall be the duty of the head teacher to make arrangements for each pupil to whom this article applies in respect of any core subject to be assessed in that subject in accordance with the provisions of this article[^key-db7290e535124d93199148bd4513df15].
+(1) It shall be the duty of the head teacher to make arrangements for each pupil to whom this article applies in respect of any core subject to be assessed in that subject in accordance with the provisions of this article[^c-db7290e535124d93199148bd4513df15].
 
-(2)[^key-f279919ae90b51064db650bc8d51d60b] Subject to paragraph (2B), this article applies to a pupil in respect of a core subject if the head teacher is of the opinion that the pupil’s ability in that subject is at the standard of the NC test.
+(2)[^c-f279919ae90b51064db650bc8d51d60b] Subject to paragraph (2B), this article applies to a pupil in respect of a core subject if the head teacher is of the opinion that the pupil’s ability in that subject is at the standard of the NC test.
 
-(2A)[^key-76e67f0b0b91b1cd22e36cd1676e49b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-76e67f0b0b91b1cd22e36cd1676e49b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2B)[^key-f7a0fa0e119e6c82e6f5432f10b351b6] This articles applies to a pupil in respect of science only—
+(2B)[^c-f7a0fa0e119e6c82e6f5432f10b351b6] This articles applies to a pupil in respect of science only—
 
 - (a) in the 2013-14 school year and every second school year after that;
 - (b) if the pupil’s school has been designated for the purposes of this article; and
 - (c) if the pupil has been selected by the Secretary of State to be assessed in science.
 
-(2ZB)[^key-4a352da4d67a5952c9dfd2acba297fac] For the purposes of paragraph (2), the NC test in mathematics is the NC test in that subject as mentioned in paragraph (3).
+(2ZB)[^c-4a352da4d67a5952c9dfd2acba297fac] For the purposes of paragraph (2), the NC test in mathematics is the NC test in that subject as mentioned in paragraph (3).
 
-(3) Where this article applies to a pupil in respect of English or mathematics[^key-a6ba7e03767cbf7dababcce67719e353] NC tests shall be administered to him in accordance with the provisions of the document in which they are published at the times specified in the relevant NC assessment timetable. As soon as reasonably practicable thereafter the pupil’s responses to the NC tests shall be provided to the external marking agency which is to mark the NC tests.[^key-2662d3ad5db8f839f16a19172d53aa07]
+(3) Where this article applies to a pupil in respect of English or mathematics[^c-a6ba7e03767cbf7dababcce67719e353] NC tests shall be administered to him in accordance with the provisions of the document in which they are published at the times specified in the relevant NC assessment timetable. As soon as reasonably practicable thereafter the pupil’s responses to the NC tests shall be provided to the external marking agency which is to mark the NC tests.[^c-2662d3ad5db8f839f16a19172d53aa07]
 
-(4) As soon as reasonably practicable after the pupil’s responses to the NC tests [^key-36073245dbfe070304a134a3278be79a]... have been provided by the head teacher to the external marking agency pursuant to paragraph (3), the head teacher shall provide that agency with a statement, signed by himself, confirming that those NC tests were administered in accordance with the provisions of the document in which they are published at the times specified in the relevant NC assessment timetable.
+(4) As soon as reasonably practicable after the pupil’s responses to the NC tests [^c-36073245dbfe070304a134a3278be79a]... have been provided by the head teacher to the external marking agency pursuant to paragraph (3), the head teacher shall provide that agency with a statement, signed by himself, confirming that those NC tests were administered in accordance with the provisions of the document in which they are published at the times specified in the relevant NC assessment timetable.
 
-(4ZA)[^key-b86ff4aa8a41dda235e494f2e7f69f8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4ZA)[^c-b86ff4aa8a41dda235e494f2e7f69f8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4A)[^key-29919c09aa8c9f86339e38240426ce4e] Where this article applies to a pupil in respect of science an external administrator must make arrangements for a NC test to be administered to the pupil in accordance with any arrangements for such a test made under article 11(1)(a) or (b).
+(4A)[^c-29919c09aa8c9f86339e38240426ce4e] Where this article applies to a pupil in respect of science an external administrator must make arrangements for a NC test to be administered to the pupil in accordance with any arrangements for such a test made under article 11(1)(a) or (b).
 
-(5) Following the marking of NC tests administered under paragraph (3)[^key-4e61ef1558d3c747561acfd5b49e0573] the external marking agency shall provide to the head teacher a record of the results.
+(5) Following the marking of NC tests administered under paragraph (3)[^c-4e61ef1558d3c747561acfd5b49e0573] the external marking agency shall provide to the head teacher a record of the results.
 
-(6)[^key-5e00ffb1f14ae519d721838b783cf6d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-5e00ffb1f14ae519d721838b783cf6d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5ZA. NC test assessment: the multiplication tables check[^key-ad8617b63b50b41a8504525448f32a73]
+## 5ZA. NC test assessment: the multiplication tables check[^c-ad8617b63b50b41a8504525448f32a73]
 
 (1) The head teacher must—
 
@@ -184,11 +184,11 @@ The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (Engla
 
 (4) In this article “the multiplication tables check” means an NC test in mathematics administered under this article for the purpose of assessing proficiency in relation to multiplication tables.
 
-## 5A. Single level tests in mathematics[^key-db1ce873c7a4e9a10f7e7b745216e6ab]
+## 5A. Single level tests in mathematics[^c-db1ce873c7a4e9a10f7e7b745216e6ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5B. Moderation of teacher assessment in writing[^key-3a96e0381ac32d6602f5e351b74f41ff]
+## 5B. Moderation of teacher assessment in writing[^c-3a96e0381ac32d6602f5e351b74f41ff]
 
 (1) This article makes provision for the moderation of teacher assessment under article 4 by a local authority.
 
@@ -204,7 +204,7 @@ The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (Engla
 (4) To enable a local authority to moderate teacher assessments, the head teacher must—
 
 - (a) provide the local authority with the following information—
-  - (i) in relation to each pupil in the final year of the second key stage; the standard[^key-8fb6eebe46b5731fd07def4bbf1e2aa5] of attainment achieved by the pupil in the AT of writing as determined by teacher assessment; and
+  - (i) in relation to each pupil in the final year of the second key stage; the standard[^c-8fb6eebe46b5731fd07def4bbf1e2aa5] of attainment achieved by the pupil in the AT of writing as determined by teacher assessment; and
   - (ii) in relation to the pupils whose assessments the local authority has selected for moderation, and such number of additional pupils as the local authority requests (if any),—
     - (aa) examples of the written work produced by those pupils in the course of the school year; and
     - (bb) such further material as the local authority may reasonably request or which the school considers may be relevant; and
@@ -232,9 +232,9 @@ The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (Engla
 
 (3) For the purposes of paragraphs (2) and (4), “**relevant schools**” are all schools maintained by the monitoring authority at which in any school year NC tests are administered to pupils under article 5.
 
-(3ZA)[^key-5dfa99a68804f1e35079a7068d03bc75] The functions conferred on the monitoring authority by this article do not apply in respect of the NC test in science.
+(3ZA)[^c-5dfa99a68804f1e35079a7068d03bc75] The functions conferred on the monitoring authority by this article do not apply in respect of the NC test in science.
 
-(3A)[^key-6427e7a22110a2cca3bed8f8bfb16ef4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-6427e7a22110a2cca3bed8f8bfb16ef4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Each school year, the monitoring authority shall visit the relevant schools during any of the following periods—
 
@@ -251,7 +251,7 @@ and such a visit may be during any of these periods in respect of any of those s
 (7) Where, as a result of a visit, it appears to the monitoring authority that any of the assessment arrangements in connection with administering the NC tests under article 5 are not in accordance with the document in which those NC tests are published or the relevant NC assessment timetable or that any pupil’s written response to the NC tests does not represent his own work, they shall—
 
 - (a) bring the matter to the attention of the head teacher; and
-- (b) report the matter to the Secretary of State[^key-aec79190dd6bef4484370361cfcde5b3].
+- (b) report the matter to the Secretary of State[^c-aec79190dd6bef4484370361cfcde5b3].
 
 (8) It shall be the duty of the head teacher and the governing body—
 
@@ -261,45 +261,45 @@ and such a visit may be during any of these periods in respect of any of those s
 
 (9) For the purpose of exercising their functions under this article, the monitoring authority shall appoint such competent persons as they think fit.
 
-## 6ZA. Monitoring of assessment arrangements in respect of the multiplication tables check[^key-846508a3b87fe3765c11cc72bc14690b]
+## 6ZA. Monitoring of assessment arrangements in respect of the multiplication tables check[^c-846508a3b87fe3765c11cc72bc14690b]
 
 The Secretary of State must monitor the administration of the multiplication tables check in order to ascertain that it has been administered in accordance with any delegated supplementary provisions made in relation to that check under article 11.
 
-## 6A. Monitoring of assessment arrangements in relation to single level tests[^key-2564405fbf204f3f61cd14eb4de12aee]
+## 6A. Monitoring of assessment arrangements in relation to single level tests[^c-2564405fbf204f3f61cd14eb4de12aee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6B. Investigation by the Secretary of State and determination of teacher assessment[^key-367a22c3b088090f2d7f87a815ef6fc8]
+## 6B. Investigation by the Secretary of State and determination of teacher assessment[^c-367a22c3b088090f2d7f87a815ef6fc8]
 
-Where a matter is referred to the Secretary of State under article 5B(9) or is otherwise brought to the Secretary of State’s attention which, in the Secretary of State’s opinion, relates to the accuracy or correctness of the standard[^key-34c619d772243cdce1203b21743b8f73] of attainment of any pupil in respect of the assessment administered under article 4, the Secretary of State must—
+Where a matter is referred to the Secretary of State under article 5B(9) or is otherwise brought to the Secretary of State’s attention which, in the Secretary of State’s opinion, relates to the accuracy or correctness of the standard[^c-34c619d772243cdce1203b21743b8f73] of attainment of any pupil in respect of the assessment administered under article 4, the Secretary of State must—
 
 - (a) determine the standard of attainment achieved by each pupil whose teacher assessment is disputed; and
 - (b) notify the head teacher of the standard of attainment determined by the Secretary of State, which shall be the standard of attainment achieved by that pupil.
 
-## 7. Investigation by the Secretary of State and correction of record of results other than in respect of the multiplication tables check[^key-edcad77b0abddcb602dee1096cd4b7db][^key-b80ba067329927b5fdec0e4981bb1e28]
+## 7. Investigation by the Secretary of State and correction of record of results other than in respect of the multiplication tables check[^c-edcad77b0abddcb602dee1096cd4b7db][^c-b80ba067329927b5fdec0e4981bb1e28]
 
-(1) The Secretary of State shall investigate any matter referred to the Secretary of State[^key-88e8e768f161d812f7a803dc6453deb0] under article 6(7) [^key-9b395528cb1193d563d41394814f3923]... or otherwise brought to the Secretary of State’s[^key-601b83f5787aeb172490a4641f450b48] attention which, in the Secretary of State’s opinion, relates to the accuracy or correctness of any results of any pupil in respect of the NC tests administered under article 5 [^key-710209b2fb6473636687531db32d78af]... .
+(1) The Secretary of State shall investigate any matter referred to the Secretary of State[^c-88e8e768f161d812f7a803dc6453deb0] under article 6(7) [^c-9b395528cb1193d563d41394814f3923]... or otherwise brought to the Secretary of State’s[^c-601b83f5787aeb172490a4641f450b48] attention which, in the Secretary of State’s opinion, relates to the accuracy or correctness of any results of any pupil in respect of the NC tests administered under article 5 [^c-710209b2fb6473636687531db32d78af]... .
 
-(1A)[^key-d917f9e17fe579dff31b7a06e0a2aaef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-d917f9e17fe579dff31b7a06e0a2aaef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) Where, following an investigation[^key-11d815ec8d8bca306546af76e6d5beac] under paragraph (1) and before the record of the results has been provided to the head teacher under article 5(5)[^key-23c5015df7477175a0a84cb3e884782f] [^key-a1ddae935a5bcc607d65cfadbe635250]... , the Secretary of State determines that the accuracy or correctness of a pupil’s results in respect of the NC tests administered under article 5 [^key-a1ddae935a5bcc607d65cfadbe635250]... is in doubt, the record of the results to be provided [^key-79fcac943f8ac0c166ae81beb53cac3b]... to the head teacher shall be the record of the results determined by the Secretary of State.
+(2) Where, following an investigation[^c-11d815ec8d8bca306546af76e6d5beac] under paragraph (1) and before the record of the results has been provided to the head teacher under article 5(5)[^c-23c5015df7477175a0a84cb3e884782f] [^c-a1ddae935a5bcc607d65cfadbe635250]... , the Secretary of State determines that the accuracy or correctness of a pupil’s results in respect of the NC tests administered under article 5 [^c-a1ddae935a5bcc607d65cfadbe635250]... is in doubt, the record of the results to be provided [^c-79fcac943f8ac0c166ae81beb53cac3b]... to the head teacher shall be the record of the results determined by the Secretary of State.
 
-(2A)[^key-6f16796abe0b79ae9f57c97394142461] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-6f16796abe0b79ae9f57c97394142461] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Where, following an investigation under paragraph (1) about the record of results of any pupil in respect of NC tests administered under article 5(3) and after[^key-b401e19e543ba743056fecba0d0a4718] the external marking agency have provided the record of the results to the head teacher under article 5(5), the Secretary of State determines that the accuracy or correctness of that record of results is in doubt[^key-dd3f2f4a78b9452248a2a702505e4e76], the Secretary of State shall provide to the head teacher a record of the results determined by the Secretary of State and that record of the results shall be the record of the results for the pupil.
+(3) Where, following an investigation under paragraph (1) about the record of results of any pupil in respect of NC tests administered under article 5(3) and after[^c-b401e19e543ba743056fecba0d0a4718] the external marking agency have provided the record of the results to the head teacher under article 5(5), the Secretary of State determines that the accuracy or correctness of that record of results is in doubt[^c-dd3f2f4a78b9452248a2a702505e4e76], the Secretary of State shall provide to the head teacher a record of the results determined by the Secretary of State and that record of the results shall be the record of the results for the pupil.
 
-(4)[^key-291acea959207bfe31d1606bb7e0309a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-291acea959207bfe31d1606bb7e0309a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-291acea959207bfe31d1606bb7e0309a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-291acea959207bfe31d1606bb7e0309a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) Where—[^key-e6faa3c13185d643bab074e5891790db]
+(6) Where—[^c-e6faa3c13185d643bab074e5891790db]
 
 - (a) an investigation under paragraph (1) concerns the record of the result of a pupil who has taken NC tests administered under article 5(4A), and
-- (b)[^key-8b53695b55eb382c4494a51f11255745] the Secretary of State determines that the accuracy or correctness of the record of the result is in doubt,
+- (b)[^c-8b53695b55eb382c4494a51f11255745] the Secretary of State determines that the accuracy or correctness of the record of the result is in doubt,
 
 the Secretary of State must revise the record of the result accordingly.
 
-## 7A. Investigation by the Secretary of State and correction of record of results in respect of the multiplication tables check[^key-12b7ed8cebbebeae0c46f5510747ce73]
+## 7A. Investigation by the Secretary of State and correction of record of results in respect of the multiplication tables check[^c-12b7ed8cebbebeae0c46f5510747ce73]
 
 (1) Where as a consequence of monitoring under article 6ZA the Secretary of State considers, in respect of assessment arrangements in relation to the multiplication tables check, that those arrangements may not have been carried out in compliance with the provisions of article 5ZA, the Secretary of State must conduct an investigation.
 
@@ -307,35 +307,35 @@ the Secretary of State must revise the record of the result accordingly.
 
 (3) Where, following an investigation under paragraph (1) or (2), the Secretary of State determines that the accuracy or correctness of the record of the result in respect of a pupil is in doubt, the Secretary of State must provide the head teacher with a record of the result determined by the Secretary of State and that record is to be the record of the result for the pupil.
 
-## 8. Determination of attainment by subject: teacher assessment[^key-bba5911b0c145c47b84feb6e84577f23]
+## 8. Determination of attainment by subject: teacher assessment[^c-bba5911b0c145c47b84feb6e84577f23]
 
 In each core subject, a pupil’s attainment is the standard achieved by the pupil in each subject and the record of the results must consist of that standard.
 
-## 9. Pupils not subject to provisions of the National Curriculum[^key-213fb117bc115ae49789b55e45fef269]
+## 9. Pupils not subject to provisions of the National Curriculum[^c-213fb117bc115ae49789b55e45fef269]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Evaluation of Assessment Arrangements[^key-9cda2e7e69318b76d05ec4c9076ec93a]
+## 10. Evaluation of Assessment Arrangements[^c-9cda2e7e69318b76d05ec4c9076ec93a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 11. Supplementary powers of the Secretary of State
 
-(1)[^key-83f320aaa3953a6850e71cd086be55ab] The Secretary of State may make such provisions giving full effect to or otherwise supplementing the provisions made by this Order (other than provisions conferring or imposing functions as mentioned in section 87(7) of the Education Act 2002) as appear to him to be expedient, including in particular —[^key-36d5b31f867b974d0137da014b5aaea9]
+(1)[^c-83f320aaa3953a6850e71cd086be55ab] The Secretary of State may make such provisions giving full effect to or otherwise supplementing the provisions made by this Order (other than provisions conferring or imposing functions as mentioned in section 87(7) of the Education Act 2002) as appear to him to be expedient, including in particular —[^c-36d5b31f867b974d0137da014b5aaea9]
 
 - (a) provisions as to NC tests for the purpose mentioned in the definition of such tests in article 3(1);
-- (b)[^key-9e981772fb2527c42b3737efbb0e5714] provisions as to a trial under article 4A and the time when, and manner in which, such a trial is to be administered;
+- (b)[^c-9e981772fb2527c42b3737efbb0e5714] provisions as to a trial under article 4A and the time when, and manner in which, such a trial is to be administered;
 - (c) the circumstances in which the head teacher may decide a pupil should not be assessed under article 4A;
 - (d) provisions as to the time when, and manner in which, NC tests are to be administered; and
 - (e) provisions designating schools for the purposes of article 4A and 5.
-- (f)[^key-eacfd2812795fda869d96b7eb4d8ebda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-eacfd2812795fda869d96b7eb4d8ebda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-b39031036caca43df9a2c1594520eb45] Before making, amending or revoking any provision under this article, the Secretary of State—
+(1A)[^c-b39031036caca43df9a2c1594520eb45] Before making, amending or revoking any provision under this article, the Secretary of State—
 
 - (a) must consult the Office of Qualifications and Examinations Regulation; and
 - (b) may consult such other persons as the Secretary of State considers appropriate.
 
-(2)[^key-3a10fa4cf2e19d76ff205730719ef7a4] Any provisions made under this article are to be published by the Secretary of State[^key-abc023ec5ef0d6766c6f3d805a3babe9] on a website maintained by the Secretary of State[^key-1d0038deeab7a950e8a75b47cf3a60f3].
+(2)[^c-3a10fa4cf2e19d76ff205730719ef7a4] Any provisions made under this article are to be published by the Secretary of State[^c-abc023ec5ef0d6766c6f3d805a3babe9] on a website maintained by the Secretary of State[^c-1d0038deeab7a950e8a75b47cf3a60f3].
 
 Stephen Twigg
 
@@ -353,176 +353,176 @@ The main change from the 1999 Order is to extend the application of the provisio
 
 [^c5027761]: Marginal citation: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32).
 
-[^key-fe3e630498e23d2651c7c5d6c6cad208]: Textual amendment: Art. 1(2) substituted (1.9.2015) by [The Education (National Curriculum) (Miscellaneous Amendments) (England) Order 2015 (S.I. 2015/900)](https://www.legislation.gov.uk/uksi/2015/900), [arts. 1](https://www.legislation.gov.uk/uksi/2015/900/article/1), [12](https://www.legislation.gov.uk/uksi/2015/900/article/12)
+[^c-fe3e630498e23d2651c7c5d6c6cad208]: Textual amendment: Art. 1(2) substituted (1.9.2015) by [The Education (National Curriculum) (Miscellaneous Amendments) (England) Order 2015 (S.I. 2015/900)](https://www.legislation.gov.uk/uksi/2015/900), [arts. 1](https://www.legislation.gov.uk/uksi/2015/900/article/1), [12](https://www.legislation.gov.uk/uksi/2015/900/article/12)
 
-[^key-cad15f271d5f68e1ab5b1c5fdd397408]: Textual amendment: Words in art. 1(2) inserted (20.4.2020) by [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Coronavirus) (Amendment) Order 2020 (S.I. 2020/436)](https://www.legislation.gov.uk/uksi/2020/436), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/436/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/436/article/2/2)
+[^c-cad15f271d5f68e1ab5b1c5fdd397408]: Textual amendment: Words in art. 1(2) inserted (20.4.2020) by [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Coronavirus) (Amendment) Order 2020 (S.I. 2020/436)](https://www.legislation.gov.uk/uksi/2020/436), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/436/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/436/article/2/2)
 
-[^key-b990fee716e35d10e5237cffbeb6857d]: Textual amendment: Word in art. 1(2)(a) omitted (1.9.2019) by virtue of [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/854/article/1/3), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/854/article/2/2/a)
+[^c-b990fee716e35d10e5237cffbeb6857d]: Textual amendment: Word in art. 1(2)(a) omitted (1.9.2019) by virtue of [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/854/article/1/3), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/854/article/2/2/a)
 
-[^key-3927b275ee22363b7e6e57215bbe1aec]: Textual amendment: Word in art. 1(2)(b) inserted (1.9.2019) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/854/article/1/3), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/854/article/2/2/b)
+[^c-3927b275ee22363b7e6e57215bbe1aec]: Textual amendment: Word in art. 1(2)(b) inserted (1.9.2019) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/854/article/1/3), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/854/article/2/2/b)
 
-[^key-d666e2793d58c804778139fe3a8ae0e8]: Textual amendment: Art. 1(2)(c) inserted (1.9.2019) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/854/article/1/3), [2(2)(c)](https://www.legislation.gov.uk/uksi/2019/854/article/2/2/c)
+[^c-d666e2793d58c804778139fe3a8ae0e8]: Textual amendment: Art. 1(2)(c) inserted (1.9.2019) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/854/article/1/3), [2(2)(c)](https://www.legislation.gov.uk/uksi/2019/854/article/2/2/c)
 
-[^key-f4efce0eee55fd782acd71fed07e3e62]: Textual amendment: Art. 1(4)(5) inserted (20.4.2020) by [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Coronavirus) (Amendment) Order 2020 (S.I. 2020/436)](https://www.legislation.gov.uk/uksi/2020/436), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/436/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/436/article/2/3)
+[^c-f4efce0eee55fd782acd71fed07e3e62]: Textual amendment: Art. 1(4)(5) inserted (20.4.2020) by [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Coronavirus) (Amendment) Order 2020 (S.I. 2020/436)](https://www.legislation.gov.uk/uksi/2020/436), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/436/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/436/article/2/3)
 
-[^key-3fdc667b426bbacc2e4a78f1ac6f2e9c]: Textual amendment: Words in [art. 1(4)](https://www.legislation.gov.uk/uksi/2003/1038/article/1/4) inserted (20.4.2021) by [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Coronavirus) (Amendment) Order 2021 (S.I. 2021/479)](https://www.legislation.gov.uk/uksi/2021/479), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/479/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/479/article/2/2)
+[^c-3fdc667b426bbacc2e4a78f1ac6f2e9c]: Textual amendment: Words in [art. 1(4)](https://www.legislation.gov.uk/uksi/2003/1038/article/1/4) inserted (20.4.2021) by [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Coronavirus) (Amendment) Order 2021 (S.I. 2021/479)](https://www.legislation.gov.uk/uksi/2021/479), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/479/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/479/article/2/2)
 
-[^key-d715611dbed88d1983b9386b4cbf90df]: Textual amendment: Words in [art. 1(5)](https://www.legislation.gov.uk/uksi/2003/1038/article/1/5) substituted (20.4.2021) by [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Coronavirus) (Amendment) Order 2021 (S.I. 2021/479)](https://www.legislation.gov.uk/uksi/2021/479), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/479/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2021/479/article/2/3)
+[^c-d715611dbed88d1983b9386b4cbf90df]: Textual amendment: Words in [art. 1(5)](https://www.legislation.gov.uk/uksi/2003/1038/article/1/5) substituted (20.4.2021) by [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Coronavirus) (Amendment) Order 2021 (S.I. 2021/479)](https://www.legislation.gov.uk/uksi/2021/479), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/479/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2021/479/article/2/3)
 
 [^c5027771]: Marginal citation: [S.I. 1999/2188](https://www.legislation.gov.uk/uksi/1999/2188).
 
 [^c5027781]: Marginal citation: [S.I. 2001/1286](https://www.legislation.gov.uk/uksi/2001/1286).
 
-[^key-ed4e620470d25ffd8e5f9366fbff6b0b]: Textual amendment: Words in art. 3(1) omitted (1.9.2015) by virtue of [The Education (National Curriculum) (Miscellaneous Amendments) (England) Order 2015 (S.I. 2015/900)](https://www.legislation.gov.uk/uksi/2015/900), [arts. 1](https://www.legislation.gov.uk/uksi/2015/900/article/1), [13(a)](https://www.legislation.gov.uk/uksi/2015/900/article/13/a)
+[^c-ed4e620470d25ffd8e5f9366fbff6b0b]: Textual amendment: Words in art. 3(1) omitted (1.9.2015) by virtue of [The Education (National Curriculum) (Miscellaneous Amendments) (England) Order 2015 (S.I. 2015/900)](https://www.legislation.gov.uk/uksi/2015/900), [arts. 1](https://www.legislation.gov.uk/uksi/2015/900/article/1), [13(a)](https://www.legislation.gov.uk/uksi/2015/900/article/13/a)
 
-[^key-6bd6cc2dd1bb4e3de1c67554ebd355f7]: Textual amendment: Words in art. 3(1) omitted (1.4.2010) by virtue of [The Apprenticeships, Skills, Children and Learning Act 2009, Parts 7 and 8 (Consequential Amendments) Order 2010 (S.I. 2010/677)](https://www.legislation.gov.uk/uksi/2010/677), [arts. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2010/677/article/8/2/a)
+[^c-6bd6cc2dd1bb4e3de1c67554ebd355f7]: Textual amendment: Words in art. 3(1) omitted (1.4.2010) by virtue of [The Apprenticeships, Skills, Children and Learning Act 2009, Parts 7 and 8 (Consequential Amendments) Order 2010 (S.I. 2010/677)](https://www.legislation.gov.uk/uksi/2010/677), [arts. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2010/677/article/8/2/a)
 
-[^key-d85c14c866922a79b85c3cebf3826606]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/1038/article/3/1) inserted (1.9.2021) by [The Education (National Curriculum Assessment Arrangements, Attainment Targets and Programmes of Study) and (Pupil Information and School Performance Information) (Amendment) (England) Regulations 2020 (S.I. 2020/844)](https://www.legislation.gov.uk/uksi/2020/844), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/844/regulation/1/3), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/844/regulation/2/2/a/i), [Sch.](https://www.legislation.gov.uk/uksi/2020/844/schedule)
+[^c-d85c14c866922a79b85c3cebf3826606]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/1038/article/3/1) inserted (1.9.2021) by [The Education (National Curriculum Assessment Arrangements, Attainment Targets and Programmes of Study) and (Pupil Information and School Performance Information) (Amendment) (England) Regulations 2020 (S.I. 2020/844)](https://www.legislation.gov.uk/uksi/2020/844), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/844/regulation/1/3), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/844/regulation/2/2/a/i), [Sch.](https://www.legislation.gov.uk/uksi/2020/844/schedule)
 
-[^key-4477d3424ffd26c0f4f437b37ac91007]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/1038/article/3/1) substituted (1.6.2024) by [The Education (National Curriculum) (Key Stages 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2024 (S.I. 2024/578)](https://www.legislation.gov.uk/uksi/2024/578), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/578/article/1/2), [2(2)(i)](https://www.legislation.gov.uk/uksi/2024/578/article/2/2/i)
+[^c-4477d3424ffd26c0f4f437b37ac91007]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/1038/article/3/1) substituted (1.6.2024) by [The Education (National Curriculum) (Key Stages 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2024 (S.I. 2024/578)](https://www.legislation.gov.uk/uksi/2024/578), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/578/article/1/2), [2(2)(i)](https://www.legislation.gov.uk/uksi/2024/578/article/2/2/i)
 
-[^key-549c2f53aa57e39fa195fe7393e42f47]: Textual amendment: Words in art. 3(1) inserted (20.6.2013) by [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/2/a)
+[^c-549c2f53aa57e39fa195fe7393e42f47]: Textual amendment: Words in art. 3(1) inserted (20.6.2013) by [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/2/a)
 
-[^key-886ce9e108694d2a88808832cdb93a14]: Textual amendment: Words in art. 3(1) omitted (1.10.2011) by virtue of [The Education (National Curriculum) (Key Stages 1, 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2011 (S.I. 2011/2392)](https://www.legislation.gov.uk/uksi/2011/2392), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2392/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2011/2392/article/2/2/a)
+[^c-886ce9e108694d2a88808832cdb93a14]: Textual amendment: Words in art. 3(1) omitted (1.10.2011) by virtue of [The Education (National Curriculum) (Key Stages 1, 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2011 (S.I. 2011/2392)](https://www.legislation.gov.uk/uksi/2011/2392), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2392/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2011/2392/article/2/2/a)
 
-[^key-2f12c89c2c81af9a5801f29d5f4476f6]: Textual amendment: Words in art. 3(1) inserted (1.9.2019) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/854/article/1/3), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/854/article/2/3/a)
+[^c-2f12c89c2c81af9a5801f29d5f4476f6]: Textual amendment: Words in art. 3(1) inserted (1.9.2019) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/854/article/1/3), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/854/article/2/3/a)
 
-[^key-4e49071cb9a0f90f45799dfbd6dbfdd4]: Textual amendment: Word in art. 3(1) substituted (1.9.2015) by [The Education (National Curriculum) (Miscellaneous Amendments) (England) Order 2015 (S.I. 2015/900)](https://www.legislation.gov.uk/uksi/2015/900), [arts. 1](https://www.legislation.gov.uk/uksi/2015/900/article/1), [13(b)](https://www.legislation.gov.uk/uksi/2015/900/article/13/b)
+[^c-4e49071cb9a0f90f45799dfbd6dbfdd4]: Textual amendment: Word in art. 3(1) substituted (1.9.2015) by [The Education (National Curriculum) (Miscellaneous Amendments) (England) Order 2015 (S.I. 2015/900)](https://www.legislation.gov.uk/uksi/2015/900), [arts. 1](https://www.legislation.gov.uk/uksi/2015/900/article/1), [13(b)](https://www.legislation.gov.uk/uksi/2015/900/article/13/b)
 
-[^key-068ab9b8d3c5ac0afd571346383d3741]: Textual amendment: Words in art. 3(1) omitted (1.10.2011) by virtue of [The Education (National Curriculum) (Key Stages 1, 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2011 (S.I. 2011/2392)](https://www.legislation.gov.uk/uksi/2011/2392), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2392/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2011/2392/article/2/2/b)
+[^c-068ab9b8d3c5ac0afd571346383d3741]: Textual amendment: Words in art. 3(1) omitted (1.10.2011) by virtue of [The Education (National Curriculum) (Key Stages 1, 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2011 (S.I. 2011/2392)](https://www.legislation.gov.uk/uksi/2011/2392), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2392/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2011/2392/article/2/2/b)
 
-[^key-063f503dbc94ef128e303f0ea90573d3]: Textual amendment: Words in art. 3(1) inserted (1.9.2020) by [The Education (National Curriculum Assessment Arrangements, Attainment Targets and Programmes of Study) and (Pupil Information and School Performance Information) (Amendment) (England) Regulations 2020 (S.I. 2020/844)](https://www.legislation.gov.uk/uksi/2020/844), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/844/regulation/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/844/regulation/2/2/a/ii)
+[^c-063f503dbc94ef128e303f0ea90573d3]: Textual amendment: Words in art. 3(1) inserted (1.9.2020) by [The Education (National Curriculum Assessment Arrangements, Attainment Targets and Programmes of Study) and (Pupil Information and School Performance Information) (Amendment) (England) Regulations 2020 (S.I. 2020/844)](https://www.legislation.gov.uk/uksi/2020/844), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/844/regulation/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/844/regulation/2/2/a/ii)
 
-[^key-49c5baaa7b775bab3aea8318651b2d4f]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/1038/article/3/1) substituted (1.6.2024) by [The Education (National Curriculum) (Key Stages 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2024 (S.I. 2024/578)](https://www.legislation.gov.uk/uksi/2024/578), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/578/article/1/2), [2(2)(ii)](https://www.legislation.gov.uk/uksi/2024/578/article/2/2/ii)
+[^c-49c5baaa7b775bab3aea8318651b2d4f]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/1038/article/3/1) substituted (1.6.2024) by [The Education (National Curriculum) (Key Stages 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2024 (S.I. 2024/578)](https://www.legislation.gov.uk/uksi/2024/578), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/578/article/1/2), [2(2)(ii)](https://www.legislation.gov.uk/uksi/2024/578/article/2/2/ii)
 
-[^key-7e16b8ab49afc67b8f4115d5989343bf]: Textual amendment: Words in art. 3(1) omitted (1.10.2011) by virtue of [The Education (National Curriculum) (Key Stages 1, 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2011 (S.I. 2011/2392)](https://www.legislation.gov.uk/uksi/2011/2392), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2392/article/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2011/2392/article/2/2/c)
+[^c-7e16b8ab49afc67b8f4115d5989343bf]: Textual amendment: Words in art. 3(1) omitted (1.10.2011) by virtue of [The Education (National Curriculum) (Key Stages 1, 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2011 (S.I. 2011/2392)](https://www.legislation.gov.uk/uksi/2011/2392), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2392/article/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2011/2392/article/2/2/c)
 
-[^key-b4edc08c6aeba22a2adcacc565b892e2]: Textual amendment: Words in art. 3(1) substituted (1.9.2015) by [The Education (National Curriculum) (Miscellaneous Amendments) (England) Order 2015 (S.I. 2015/900)](https://www.legislation.gov.uk/uksi/2015/900), [arts. 1](https://www.legislation.gov.uk/uksi/2015/900/article/1), [13(c)](https://www.legislation.gov.uk/uksi/2015/900/article/13/c)
+[^c-b4edc08c6aeba22a2adcacc565b892e2]: Textual amendment: Words in art. 3(1) substituted (1.9.2015) by [The Education (National Curriculum) (Miscellaneous Amendments) (England) Order 2015 (S.I. 2015/900)](https://www.legislation.gov.uk/uksi/2015/900), [arts. 1](https://www.legislation.gov.uk/uksi/2015/900/article/1), [13(c)](https://www.legislation.gov.uk/uksi/2015/900/article/13/c)
 
-[^key-b84d98afa7111cb3c90a118169ebf7d1]: Textual amendment: Word in art. 3(1) omitted (1.9.2019) by virtue of [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/854/article/1/3), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2019/854/article/2/3/b/i)
+[^c-b84d98afa7111cb3c90a118169ebf7d1]: Textual amendment: Word in art. 3(1) omitted (1.9.2019) by virtue of [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/854/article/1/3), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2019/854/article/2/3/b/i)
 
-[^key-5d9ac0c71a0fa772d7af6dd5f6e564f0]: Textual amendment: Word in art. 3(1) inserted (1.9.2019) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/854/article/1/3), [2(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/854/article/2/3/b/ii)
+[^c-5d9ac0c71a0fa772d7af6dd5f6e564f0]: Textual amendment: Word in art. 3(1) inserted (1.9.2019) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/854/article/1/3), [2(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/854/article/2/3/b/ii)
 
-[^key-0ca5ec43c8f831bbdb9cae7acf9c3f99]: Textual amendment: Words in art. 3(1) inserted (1.9.2019) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/854/article/1/3), [2(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/854/article/2/3/b/iii)
+[^c-0ca5ec43c8f831bbdb9cae7acf9c3f99]: Textual amendment: Words in art. 3(1) inserted (1.9.2019) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/854/article/1/3), [2(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/854/article/2/3/b/iii)
 
-[^key-f4502702fa89a77efcdbb0275064d082]: Textual amendment: Words in art. 3(1) omitted (20.6.2013) by virtue of [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/2/c)
+[^c-f4502702fa89a77efcdbb0275064d082]: Textual amendment: Words in art. 3(1) omitted (20.6.2013) by virtue of [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/2/c)
 
-[^key-9d11ba17b40f5c4d88dfb6fc1cf91666]: Textual amendment: Words in art. 3(1) inserted (1.9.2015) by [The Education (National Curriculum) (Miscellaneous Amendments) (England) Order 2015 (S.I. 2015/900)](https://www.legislation.gov.uk/uksi/2015/900), [arts. 1](https://www.legislation.gov.uk/uksi/2015/900/article/1), [13(d)](https://www.legislation.gov.uk/uksi/2015/900/article/13/d)
+[^c-9d11ba17b40f5c4d88dfb6fc1cf91666]: Textual amendment: Words in art. 3(1) inserted (1.9.2015) by [The Education (National Curriculum) (Miscellaneous Amendments) (England) Order 2015 (S.I. 2015/900)](https://www.legislation.gov.uk/uksi/2015/900), [arts. 1](https://www.legislation.gov.uk/uksi/2015/900/article/1), [13(d)](https://www.legislation.gov.uk/uksi/2015/900/article/13/d)
 
-[^key-40d73a64f8997185080bd5e03a4569e4]: Textual amendment: Art. 3(3) substituted (1.9.2015) by [The Education (National Curriculum) (Miscellaneous Amendments) (England) Order 2015 (S.I. 2015/900)](https://www.legislation.gov.uk/uksi/2015/900), [arts. 1](https://www.legislation.gov.uk/uksi/2015/900/article/1), [13(e)](https://www.legislation.gov.uk/uksi/2015/900/article/13/e)
+[^c-40d73a64f8997185080bd5e03a4569e4]: Textual amendment: Art. 3(3) substituted (1.9.2015) by [The Education (National Curriculum) (Miscellaneous Amendments) (England) Order 2015 (S.I. 2015/900)](https://www.legislation.gov.uk/uksi/2015/900), [arts. 1](https://www.legislation.gov.uk/uksi/2015/900/article/1), [13(e)](https://www.legislation.gov.uk/uksi/2015/900/article/13/e)
 
-[^key-2d92c3c340a3fdc37bba7d79865adc26]: Textual amendment: Words in art. 3(3) substituted (1.9.2020 for specified purposes, 1.9.2021 in so far as not already in force) by [The Education (National Curriculum Assessment Arrangements, Attainment Targets and Programmes of Study) and (Pupil Information and School Performance Information) (Amendment) (England) Regulations 2020 (S.I. 2020/844)](https://www.legislation.gov.uk/uksi/2020/844), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/844/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/844/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/844/regulation/2/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2020/844/schedule)
+[^c-2d92c3c340a3fdc37bba7d79865adc26]: Textual amendment: Words in art. 3(3) substituted (1.9.2020 for specified purposes, 1.9.2021 in so far as not already in force) by [The Education (National Curriculum Assessment Arrangements, Attainment Targets and Programmes of Study) and (Pupil Information and School Performance Information) (Amendment) (England) Regulations 2020 (S.I. 2020/844)](https://www.legislation.gov.uk/uksi/2020/844), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/844/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/844/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/844/regulation/2/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2020/844/schedule)
 
-[^key-e05a1d5c8fa51a2e8b7b55e1094c78c9]: Textual amendment: Art. 3(3A) omitted (20.6.2013) by virtue of [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/2/d)
+[^c-e05a1d5c8fa51a2e8b7b55e1094c78c9]: Textual amendment: Art. 3(3A) omitted (20.6.2013) by virtue of [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/2/d)
 
-[^key-eecf49239a022d40328d517d011211d6]: Textual amendment: Art. 4 substituted (1.9.2018) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2018 (S.I. 2018/452)](https://www.legislation.gov.uk/uksi/2018/452), [arts. 1](https://www.legislation.gov.uk/uksi/2018/452/article/1), [2](https://www.legislation.gov.uk/uksi/2018/452/article/2)
+[^c-eecf49239a022d40328d517d011211d6]: Textual amendment: Art. 4 substituted (1.9.2018) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2018 (S.I. 2018/452)](https://www.legislation.gov.uk/uksi/2018/452), [arts. 1](https://www.legislation.gov.uk/uksi/2018/452/article/1), [2](https://www.legislation.gov.uk/uksi/2018/452/article/2)
 
-[^key-690e2cbe654dea21de71f15dfb44d1ba]: Textual amendment: Words in art. 4(2)(b) inserted (1.9.2019) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/854/article/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2019/854/article/2/4)
+[^c-690e2cbe654dea21de71f15dfb44d1ba]: Textual amendment: Words in art. 4(2)(b) inserted (1.9.2019) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/854/article/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2019/854/article/2/4)
 
-[^key-97c3faf95d1e002cdf2271349ebdbc85]: Textual amendment: Art. 4A inserted (1.9.2015) by [The Education (National Curriculum) (Miscellaneous Amendments) (England) Order 2015 (S.I. 2015/900)](https://www.legislation.gov.uk/uksi/2015/900), [arts. 1](https://www.legislation.gov.uk/uksi/2015/900/article/1), [15](https://www.legislation.gov.uk/uksi/2015/900/article/15)
+[^c-97c3faf95d1e002cdf2271349ebdbc85]: Textual amendment: Art. 4A inserted (1.9.2015) by [The Education (National Curriculum) (Miscellaneous Amendments) (England) Order 2015 (S.I. 2015/900)](https://www.legislation.gov.uk/uksi/2015/900), [arts. 1](https://www.legislation.gov.uk/uksi/2015/900/article/1), [15](https://www.legislation.gov.uk/uksi/2015/900/article/15)
 
-[^key-ce4544bda40d3a430003d0e010a2e0b6]: Textual amendment: Words in art. 5 heading inserted (1.9.2019) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/854/article/1/3), [2(5)](https://www.legislation.gov.uk/uksi/2019/854/article/2/5)
+[^c-ce4544bda40d3a430003d0e010a2e0b6]: Textual amendment: Words in art. 5 heading inserted (1.9.2019) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/854/article/1/3), [2(5)](https://www.legislation.gov.uk/uksi/2019/854/article/2/5)
 
-[^key-db7290e535124d93199148bd4513df15]: Textual amendment: Words in art. 5(1) substituted (10.2.2010) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2010 (S.I. 2010/290)](https://www.legislation.gov.uk/uksi/2010/290), [arts. 1](https://www.legislation.gov.uk/uksi/2010/290/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2010/290/article/4/a)
+[^c-db7290e535124d93199148bd4513df15]: Textual amendment: Words in art. 5(1) substituted (10.2.2010) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2010 (S.I. 2010/290)](https://www.legislation.gov.uk/uksi/2010/290), [arts. 1](https://www.legislation.gov.uk/uksi/2010/290/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2010/290/article/4/a)
 
-[^key-f279919ae90b51064db650bc8d51d60b]: Textual amendment: Art. 5(2) substituted (1.9.2015) by [The Education (National Curriculum) (Miscellaneous Amendments) (England) Order 2015 (S.I. 2015/900)](https://www.legislation.gov.uk/uksi/2015/900), [arts. 1](https://www.legislation.gov.uk/uksi/2015/900/article/1), [16](https://www.legislation.gov.uk/uksi/2015/900/article/16)
+[^c-f279919ae90b51064db650bc8d51d60b]: Textual amendment: Art. 5(2) substituted (1.9.2015) by [The Education (National Curriculum) (Miscellaneous Amendments) (England) Order 2015 (S.I. 2015/900)](https://www.legislation.gov.uk/uksi/2015/900), [arts. 1](https://www.legislation.gov.uk/uksi/2015/900/article/1), [16](https://www.legislation.gov.uk/uksi/2015/900/article/16)
 
-[^key-76e67f0b0b91b1cd22e36cd1676e49b7]: Textual amendment: Art. 5(2A) omitted (20.6.2013) by virtue of [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/4/b)
+[^c-76e67f0b0b91b1cd22e36cd1676e49b7]: Textual amendment: Art. 5(2A) omitted (20.6.2013) by virtue of [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/4/b)
 
-[^key-f7a0fa0e119e6c82e6f5432f10b351b6]: Textual amendment: Art. 5(2B) substituted (20.6.2013) by [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/4/c)
+[^c-f7a0fa0e119e6c82e6f5432f10b351b6]: Textual amendment: Art. 5(2B) substituted (20.6.2013) by [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/4/c)
 
-[^key-4a352da4d67a5952c9dfd2acba297fac]: Textual amendment: Art. 5(2ZB) inserted (1.9.2019) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/854/article/1/3), [2(6)](https://www.legislation.gov.uk/uksi/2019/854/article/2/6)
+[^c-4a352da4d67a5952c9dfd2acba297fac]: Textual amendment: Art. 5(2ZB) inserted (1.9.2019) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/854/article/1/3), [2(6)](https://www.legislation.gov.uk/uksi/2019/854/article/2/6)
 
-[^key-a6ba7e03767cbf7dababcce67719e353]: Textual amendment: Words in art. 5(3) substituted (10.2.2010) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2010 (S.I. 2010/290)](https://www.legislation.gov.uk/uksi/2010/290), [arts. 1](https://www.legislation.gov.uk/uksi/2010/290/article/1), [4(d)](https://www.legislation.gov.uk/uksi/2010/290/article/4/d)
+[^c-a6ba7e03767cbf7dababcce67719e353]: Textual amendment: Words in art. 5(3) substituted (10.2.2010) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2010 (S.I. 2010/290)](https://www.legislation.gov.uk/uksi/2010/290), [arts. 1](https://www.legislation.gov.uk/uksi/2010/290/article/1), [4(d)](https://www.legislation.gov.uk/uksi/2010/290/article/4/d)
 
-[^key-2662d3ad5db8f839f16a19172d53aa07]: Textual amendment: Words in art. 5(3) substituted (1.10.2011) by [The Education (National Curriculum) (Key Stages 1, 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2011 (S.I. 2011/2392)](https://www.legislation.gov.uk/uksi/2011/2392), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2392/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2011/2392/article/2/3/a)
+[^c-2662d3ad5db8f839f16a19172d53aa07]: Textual amendment: Words in art. 5(3) substituted (1.10.2011) by [The Education (National Curriculum) (Key Stages 1, 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2011 (S.I. 2011/2392)](https://www.legislation.gov.uk/uksi/2011/2392), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2392/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2011/2392/article/2/3/a)
 
-[^key-36073245dbfe070304a134a3278be79a]: Textual amendment: Words in art. 5(4) omitted (1.9.2009) by virtue of [The Education (National Curriculum) (Key Stages 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2009 (S.I. 2009/1585)](https://www.legislation.gov.uk/uksi/2009/1585), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1585/article/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2009/1585/article/2/2/c)
+[^c-36073245dbfe070304a134a3278be79a]: Textual amendment: Words in art. 5(4) omitted (1.9.2009) by virtue of [The Education (National Curriculum) (Key Stages 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2009 (S.I. 2009/1585)](https://www.legislation.gov.uk/uksi/2009/1585), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1585/article/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2009/1585/article/2/2/c)
 
-[^key-b86ff4aa8a41dda235e494f2e7f69f8a]: Textual amendment: Art. 5(4ZA) omitted (20.6.2013) by virtue of [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/4/d)
+[^c-b86ff4aa8a41dda235e494f2e7f69f8a]: Textual amendment: Art. 5(4ZA) omitted (20.6.2013) by virtue of [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/4/d)
 
-[^key-29919c09aa8c9f86339e38240426ce4e]: Textual amendment: Art. 5(4A) substituted (20.6.2013) by [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(4)(e)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/4/e)
+[^c-29919c09aa8c9f86339e38240426ce4e]: Textual amendment: Art. 5(4A) substituted (20.6.2013) by [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(4)(e)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/4/e)
 
-[^key-4e61ef1558d3c747561acfd5b49e0573]: Textual amendment: Words in art. 5(5) inserted (10.2.2010) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2010 (S.I. 2010/290)](https://www.legislation.gov.uk/uksi/2010/290), [arts. 1](https://www.legislation.gov.uk/uksi/2010/290/article/1), [4(f)](https://www.legislation.gov.uk/uksi/2010/290/article/4/f)
+[^c-4e61ef1558d3c747561acfd5b49e0573]: Textual amendment: Words in art. 5(5) inserted (10.2.2010) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2010 (S.I. 2010/290)](https://www.legislation.gov.uk/uksi/2010/290), [arts. 1](https://www.legislation.gov.uk/uksi/2010/290/article/1), [4(f)](https://www.legislation.gov.uk/uksi/2010/290/article/4/f)
 
-[^key-5e00ffb1f14ae519d721838b783cf6d5]: Textual amendment: Art. 5(6) omitted (10.2.2010) by virtue of [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2010 (S.I. 2010/290)](https://www.legislation.gov.uk/uksi/2010/290), [arts. 1](https://www.legislation.gov.uk/uksi/2010/290/article/1), [4(g)](https://www.legislation.gov.uk/uksi/2010/290/article/4/g)
+[^c-5e00ffb1f14ae519d721838b783cf6d5]: Textual amendment: Art. 5(6) omitted (10.2.2010) by virtue of [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2010 (S.I. 2010/290)](https://www.legislation.gov.uk/uksi/2010/290), [arts. 1](https://www.legislation.gov.uk/uksi/2010/290/article/1), [4(g)](https://www.legislation.gov.uk/uksi/2010/290/article/4/g)
 
-[^key-ad8617b63b50b41a8504525448f32a73]: Textual amendment: Art. 5ZA inserted (1.9.2019) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/854/article/1/3), [2(7)](https://www.legislation.gov.uk/uksi/2019/854/article/2/7)
+[^c-ad8617b63b50b41a8504525448f32a73]: Textual amendment: Art. 5ZA inserted (1.9.2019) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/854/article/1/3), [2(7)](https://www.legislation.gov.uk/uksi/2019/854/article/2/7)
 
-[^key-db1ce873c7a4e9a10f7e7b745216e6ab]: Textual amendment: Art. 5A omitted (20.6.2013) by virtue of [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/5)
+[^c-db1ce873c7a4e9a10f7e7b745216e6ab]: Textual amendment: Art. 5A omitted (20.6.2013) by virtue of [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/5)
 
-[^key-3a96e0381ac32d6602f5e351b74f41ff]: Textual amendment: Art. 5B inserted (20.6.2013) by [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(6)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/6)
+[^c-3a96e0381ac32d6602f5e351b74f41ff]: Textual amendment: Art. 5B inserted (20.6.2013) by [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(6)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/6)
 
-[^key-8fb6eebe46b5731fd07def4bbf1e2aa5]: Textual amendment: Word in art. 5B substituted (1.9.2015) by [The Education (National Curriculum) (Miscellaneous Amendments) (England) Order 2015 (S.I. 2015/900)](https://www.legislation.gov.uk/uksi/2015/900), [arts. 1](https://www.legislation.gov.uk/uksi/2015/900/article/1), [17](https://www.legislation.gov.uk/uksi/2015/900/article/17)
+[^c-8fb6eebe46b5731fd07def4bbf1e2aa5]: Textual amendment: Word in art. 5B substituted (1.9.2015) by [The Education (National Curriculum) (Miscellaneous Amendments) (England) Order 2015 (S.I. 2015/900)](https://www.legislation.gov.uk/uksi/2015/900), [arts. 1](https://www.legislation.gov.uk/uksi/2015/900/article/1), [17](https://www.legislation.gov.uk/uksi/2015/900/article/17)
 
-[^key-5dfa99a68804f1e35079a7068d03bc75]: Textual amendment: Art. 6(3ZA) inserted (20.6.2013) by [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/7/b)
+[^c-5dfa99a68804f1e35079a7068d03bc75]: Textual amendment: Art. 6(3ZA) inserted (20.6.2013) by [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/7/b)
 
-[^key-6427e7a22110a2cca3bed8f8bfb16ef4]: Textual amendment: Art. 6(3A) omitted (20.6.2013) by virtue of [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/7/a)
+[^c-6427e7a22110a2cca3bed8f8bfb16ef4]: Textual amendment: Art. 6(3A) omitted (20.6.2013) by virtue of [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/7/a)
 
-[^key-aec79190dd6bef4484370361cfcde5b3]: Textual amendment: Words in art. 6(7)(b) substituted (1.10.2011) by [The Education (National Curriculum) (Key Stages 1, 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2011 (S.I. 2011/2392)](https://www.legislation.gov.uk/uksi/2011/2392), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2392/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2011/2392/article/2/5)
+[^c-aec79190dd6bef4484370361cfcde5b3]: Textual amendment: Words in art. 6(7)(b) substituted (1.10.2011) by [The Education (National Curriculum) (Key Stages 1, 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2011 (S.I. 2011/2392)](https://www.legislation.gov.uk/uksi/2011/2392), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2392/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2011/2392/article/2/5)
 
-[^key-846508a3b87fe3765c11cc72bc14690b]: Textual amendment: Art. 6ZA inserted (1.9.2019) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/854/article/1/3), [2(8)](https://www.legislation.gov.uk/uksi/2019/854/article/2/8)
+[^c-846508a3b87fe3765c11cc72bc14690b]: Textual amendment: Art. 6ZA inserted (1.9.2019) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/854/article/1/3), [2(8)](https://www.legislation.gov.uk/uksi/2019/854/article/2/8)
 
-[^key-2564405fbf204f3f61cd14eb4de12aee]: Textual amendment: Art. 6A omitted (20.6.2013) by virtue of [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(8)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/8)
+[^c-2564405fbf204f3f61cd14eb4de12aee]: Textual amendment: Art. 6A omitted (20.6.2013) by virtue of [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(8)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/8)
 
-[^key-367a22c3b088090f2d7f87a815ef6fc8]: Textual amendment: Art. 6B inserted (20.6.2013) by [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(9)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/9)
+[^c-367a22c3b088090f2d7f87a815ef6fc8]: Textual amendment: Art. 6B inserted (20.6.2013) by [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(9)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/9)
 
-[^key-34c619d772243cdce1203b21743b8f73]: Textual amendment: Word in art. 6B substituted (1.9.2015) by [The Education (National Curriculum) (Miscellaneous Amendments) (England) Order 2015 (S.I. 2015/900)](https://www.legislation.gov.uk/uksi/2015/900), [arts. 1](https://www.legislation.gov.uk/uksi/2015/900/article/1), [18](https://www.legislation.gov.uk/uksi/2015/900/article/18)
+[^c-34c619d772243cdce1203b21743b8f73]: Textual amendment: Word in art. 6B substituted (1.9.2015) by [The Education (National Curriculum) (Miscellaneous Amendments) (England) Order 2015 (S.I. 2015/900)](https://www.legislation.gov.uk/uksi/2015/900), [arts. 1](https://www.legislation.gov.uk/uksi/2015/900/article/1), [18](https://www.legislation.gov.uk/uksi/2015/900/article/18)
 
-[^key-edcad77b0abddcb602dee1096cd4b7db]: Textual amendment: Words in art. 7 substituted (1.10.2011) by [The Education (National Curriculum) (Key Stages 1, 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2011 (S.I. 2011/2392)](https://www.legislation.gov.uk/uksi/2011/2392), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2392/article/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2011/2392/article/2/7/a)
+[^c-edcad77b0abddcb602dee1096cd4b7db]: Textual amendment: Words in art. 7 substituted (1.10.2011) by [The Education (National Curriculum) (Key Stages 1, 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2011 (S.I. 2011/2392)](https://www.legislation.gov.uk/uksi/2011/2392), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2392/article/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2011/2392/article/2/7/a)
 
-[^key-b80ba067329927b5fdec0e4981bb1e28]: Textual amendment: Words in art. 7 heading inserted (1.9.2019) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/854/article/1/3), [2(9)](https://www.legislation.gov.uk/uksi/2019/854/article/2/9)
+[^c-b80ba067329927b5fdec0e4981bb1e28]: Textual amendment: Words in art. 7 heading inserted (1.9.2019) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/854/article/1/3), [2(9)](https://www.legislation.gov.uk/uksi/2019/854/article/2/9)
 
-[^key-88e8e768f161d812f7a803dc6453deb0]: Textual amendment: Words in art. 7(1) substituted (1.10.2011) by [The Education (National Curriculum) (Key Stages 1, 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2011 (S.I. 2011/2392)](https://www.legislation.gov.uk/uksi/2011/2392), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2392/article/1), [2(7)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2392/article/2/7/b/i)
+[^c-88e8e768f161d812f7a803dc6453deb0]: Textual amendment: Words in art. 7(1) substituted (1.10.2011) by [The Education (National Curriculum) (Key Stages 1, 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2011 (S.I. 2011/2392)](https://www.legislation.gov.uk/uksi/2011/2392), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2392/article/1), [2(7)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2392/article/2/7/b/i)
 
-[^key-9b395528cb1193d563d41394814f3923]: Textual amendment: Words in art. 7(1) omitted (20.6.2013) by virtue of [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(10)(a)(i)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/10/a/i)
+[^c-9b395528cb1193d563d41394814f3923]: Textual amendment: Words in art. 7(1) omitted (20.6.2013) by virtue of [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(10)(a)(i)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/10/a/i)
 
-[^key-601b83f5787aeb172490a4641f450b48]: Textual amendment: Words in art. 7(1) substituted (1.10.2011) by [The Education (National Curriculum) (Key Stages 1, 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2011 (S.I. 2011/2392)](https://www.legislation.gov.uk/uksi/2011/2392), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2392/article/1), [2(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2392/article/2/7/b/ii)
+[^c-601b83f5787aeb172490a4641f450b48]: Textual amendment: Words in art. 7(1) substituted (1.10.2011) by [The Education (National Curriculum) (Key Stages 1, 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2011 (S.I. 2011/2392)](https://www.legislation.gov.uk/uksi/2011/2392), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2392/article/1), [2(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2392/article/2/7/b/ii)
 
-[^key-710209b2fb6473636687531db32d78af]: Textual amendment: Words in art. 7(1) omitted (20.6.2013) by virtue of [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(10)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/10/a/ii)
+[^c-710209b2fb6473636687531db32d78af]: Textual amendment: Words in art. 7(1) omitted (20.6.2013) by virtue of [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(10)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/10/a/ii)
 
-[^key-d917f9e17fe579dff31b7a06e0a2aaef]: Textual amendment: Art. 7(1A) omitted (20.6.2013) by virtue of [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(10)(b)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/10/b)
+[^c-d917f9e17fe579dff31b7a06e0a2aaef]: Textual amendment: Art. 7(1A) omitted (20.6.2013) by virtue of [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(10)(b)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/10/b)
 
-[^key-11d815ec8d8bca306546af76e6d5beac]: Textual amendment: Words in art. 7(2) substituted (20.6.2013) by [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(10)(c)(i)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/10/c/i)
+[^c-11d815ec8d8bca306546af76e6d5beac]: Textual amendment: Words in art. 7(2) substituted (20.6.2013) by [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(10)(c)(i)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/10/c/i)
 
-[^key-23c5015df7477175a0a84cb3e884782f]: Textual amendment: Words in art. 7(2) substituted (10.2.2010) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2010 (S.I. 2010/290)](https://www.legislation.gov.uk/uksi/2010/290), [arts. 1](https://www.legislation.gov.uk/uksi/2010/290/article/1), [7(b)(ii)](https://www.legislation.gov.uk/uksi/2010/290/article/7/b/ii)
+[^c-23c5015df7477175a0a84cb3e884782f]: Textual amendment: Words in art. 7(2) substituted (10.2.2010) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2010 (S.I. 2010/290)](https://www.legislation.gov.uk/uksi/2010/290), [arts. 1](https://www.legislation.gov.uk/uksi/2010/290/article/1), [7(b)(ii)](https://www.legislation.gov.uk/uksi/2010/290/article/7/b/ii)
 
-[^key-a1ddae935a5bcc607d65cfadbe635250]: Textual amendment: Words in art. 7(2) omitted (20.6.2013) by virtue of [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(10)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/10/c/ii)
+[^c-a1ddae935a5bcc607d65cfadbe635250]: Textual amendment: Words in art. 7(2) omitted (20.6.2013) by virtue of [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(10)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/10/c/ii)
 
-[^key-79fcac943f8ac0c166ae81beb53cac3b]: Textual amendment: Words in art. 7(2) omitted (10.2.2010) by virtue of [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2010 (S.I. 2010/290)](https://www.legislation.gov.uk/uksi/2010/290), [arts. 1](https://www.legislation.gov.uk/uksi/2010/290/article/1), [7(b)(iv)](https://www.legislation.gov.uk/uksi/2010/290/article/7/b/iv)
+[^c-79fcac943f8ac0c166ae81beb53cac3b]: Textual amendment: Words in art. 7(2) omitted (10.2.2010) by virtue of [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2010 (S.I. 2010/290)](https://www.legislation.gov.uk/uksi/2010/290), [arts. 1](https://www.legislation.gov.uk/uksi/2010/290/article/1), [7(b)(iv)](https://www.legislation.gov.uk/uksi/2010/290/article/7/b/iv)
 
-[^key-6f16796abe0b79ae9f57c97394142461]: Textual amendment: Art. 7(2A) omitted (20.6.2013) by virtue of [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(10)(d)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/10/d)
+[^c-6f16796abe0b79ae9f57c97394142461]: Textual amendment: Art. 7(2A) omitted (20.6.2013) by virtue of [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(10)(d)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/10/d)
 
-[^key-b401e19e543ba743056fecba0d0a4718]: Textual amendment: Words in art. 7(3) inserted (10.2.2010) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2010 (S.I. 2010/290)](https://www.legislation.gov.uk/uksi/2010/290), [arts. 1](https://www.legislation.gov.uk/uksi/2010/290/article/1), [7(d)](https://www.legislation.gov.uk/uksi/2010/290/article/7/d)
+[^c-b401e19e543ba743056fecba0d0a4718]: Textual amendment: Words in art. 7(3) inserted (10.2.2010) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2010 (S.I. 2010/290)](https://www.legislation.gov.uk/uksi/2010/290), [arts. 1](https://www.legislation.gov.uk/uksi/2010/290/article/1), [7(d)](https://www.legislation.gov.uk/uksi/2010/290/article/7/d)
 
-[^key-dd3f2f4a78b9452248a2a702505e4e76]: Textual amendment: Words in art. 7(3) substituted (27.1.2017) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2017 (S.I. 2017/64)](https://www.legislation.gov.uk/uksi/2017/64), [arts. 1](https://www.legislation.gov.uk/uksi/2017/64/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2017/64/article/2/a)
+[^c-dd3f2f4a78b9452248a2a702505e4e76]: Textual amendment: Words in art. 7(3) substituted (27.1.2017) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2017 (S.I. 2017/64)](https://www.legislation.gov.uk/uksi/2017/64), [arts. 1](https://www.legislation.gov.uk/uksi/2017/64/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2017/64/article/2/a)
 
-[^key-291acea959207bfe31d1606bb7e0309a]: Textual amendment: Art. 7(4)(5) omitted (20.6.2013) by virtue of [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(10)(e)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/10/e)
+[^c-291acea959207bfe31d1606bb7e0309a]: Textual amendment: Art. 7(4)(5) omitted (20.6.2013) by virtue of [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(10)(e)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/10/e)
 
-[^key-e6faa3c13185d643bab074e5891790db]: Textual amendment: Art. 7(4)-(6) inserted (10.2.2010) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2010 (S.I. 2010/290)](https://www.legislation.gov.uk/uksi/2010/290), [arts. 1](https://www.legislation.gov.uk/uksi/2010/290/article/1), [7(e)](https://www.legislation.gov.uk/uksi/2010/290/article/7/e)
+[^c-e6faa3c13185d643bab074e5891790db]: Textual amendment: Art. 7(4)-(6) inserted (10.2.2010) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2010 (S.I. 2010/290)](https://www.legislation.gov.uk/uksi/2010/290), [arts. 1](https://www.legislation.gov.uk/uksi/2010/290/article/1), [7(e)](https://www.legislation.gov.uk/uksi/2010/290/article/7/e)
 
-[^key-8b53695b55eb382c4494a51f11255745]: Textual amendment: Art. 7(6)(b) substituted (27.1.2017) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2017 (S.I. 2017/64)](https://www.legislation.gov.uk/uksi/2017/64), [arts. 1](https://www.legislation.gov.uk/uksi/2017/64/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2017/64/article/2/b)
+[^c-8b53695b55eb382c4494a51f11255745]: Textual amendment: Art. 7(6)(b) substituted (27.1.2017) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2017 (S.I. 2017/64)](https://www.legislation.gov.uk/uksi/2017/64), [arts. 1](https://www.legislation.gov.uk/uksi/2017/64/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2017/64/article/2/b)
 
-[^key-12b7ed8cebbebeae0c46f5510747ce73]: Textual amendment: Art. 7A inserted (1.9.2019) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/854/article/1/3), [2(10)](https://www.legislation.gov.uk/uksi/2019/854/article/2/10)
+[^c-12b7ed8cebbebeae0c46f5510747ce73]: Textual amendment: Art. 7A inserted (1.9.2019) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/854/article/1/3), [2(10)](https://www.legislation.gov.uk/uksi/2019/854/article/2/10)
 
-[^key-bba5911b0c145c47b84feb6e84577f23]: Textual amendment: Art. 8 substituted (1.9.2015) by [The Education (National Curriculum) (Miscellaneous Amendments) (England) Order 2015 (S.I. 2015/900)](https://www.legislation.gov.uk/uksi/2015/900), [arts. 1](https://www.legislation.gov.uk/uksi/2015/900/article/1), [19](https://www.legislation.gov.uk/uksi/2015/900/article/19)
+[^c-bba5911b0c145c47b84feb6e84577f23]: Textual amendment: Art. 8 substituted (1.9.2015) by [The Education (National Curriculum) (Miscellaneous Amendments) (England) Order 2015 (S.I. 2015/900)](https://www.legislation.gov.uk/uksi/2015/900), [arts. 1](https://www.legislation.gov.uk/uksi/2015/900/article/1), [19](https://www.legislation.gov.uk/uksi/2015/900/article/19)
 
-[^key-213fb117bc115ae49789b55e45fef269]: Textual amendment: Art. 9 omitted (1.9.2015) by virtue of [The Education (National Curriculum) (Miscellaneous Amendments) (England) Order 2015 (S.I. 2015/900)](https://www.legislation.gov.uk/uksi/2015/900), [arts. 1](https://www.legislation.gov.uk/uksi/2015/900/article/1), [20](https://www.legislation.gov.uk/uksi/2015/900/article/20)
+[^c-213fb117bc115ae49789b55e45fef269]: Textual amendment: Art. 9 omitted (1.9.2015) by virtue of [The Education (National Curriculum) (Miscellaneous Amendments) (England) Order 2015 (S.I. 2015/900)](https://www.legislation.gov.uk/uksi/2015/900), [arts. 1](https://www.legislation.gov.uk/uksi/2015/900/article/1), [20](https://www.legislation.gov.uk/uksi/2015/900/article/20)
 
-[^key-9cda2e7e69318b76d05ec4c9076ec93a]: Textual amendment: Art. 10 omitted (1.4.2012) by virtue of [The Education Act 2011 (Consequential Amendments to Subordinate Legislation) Order 2012 (S.I. 2012/765)](https://www.legislation.gov.uk/uksi/2012/765), [arts. 1](https://www.legislation.gov.uk/uksi/2012/765/article/1), [4](https://www.legislation.gov.uk/uksi/2012/765/article/4)
+[^c-9cda2e7e69318b76d05ec4c9076ec93a]: Textual amendment: Art. 10 omitted (1.4.2012) by virtue of [The Education Act 2011 (Consequential Amendments to Subordinate Legislation) Order 2012 (S.I. 2012/765)](https://www.legislation.gov.uk/uksi/2012/765), [arts. 1](https://www.legislation.gov.uk/uksi/2012/765/article/1), [4](https://www.legislation.gov.uk/uksi/2012/765/article/4)
 
-[^key-83f320aaa3953a6850e71cd086be55ab]: Textual amendment: Art. 11(1): art. 11 renumbered as art. 11(1) (1.9.2009) by [The Education (National Curriculum) (Key Stages 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2009 (S.I. 2009/1585)](https://www.legislation.gov.uk/uksi/2009/1585), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1585/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2009/1585/article/2/3)
+[^c-83f320aaa3953a6850e71cd086be55ab]: Textual amendment: Art. 11(1): art. 11 renumbered as art. 11(1) (1.9.2009) by [The Education (National Curriculum) (Key Stages 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2009 (S.I. 2009/1585)](https://www.legislation.gov.uk/uksi/2009/1585), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1585/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2009/1585/article/2/3)
 
-[^key-36d5b31f867b974d0137da014b5aaea9]: Textual amendment: Art. 11(1)(a)-(c) substituted for words in art. 11 (1.9.2009) by [The Education (National Curriculum) (Key Stages 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2009 (S.I. 2009/1585)](https://www.legislation.gov.uk/uksi/2009/1585), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1585/article/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2009/1585/article/2/4/a)
+[^c-36d5b31f867b974d0137da014b5aaea9]: Textual amendment: Art. 11(1)(a)-(c) substituted for words in art. 11 (1.9.2009) by [The Education (National Curriculum) (Key Stages 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2009 (S.I. 2009/1585)](https://www.legislation.gov.uk/uksi/2009/1585), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1585/article/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2009/1585/article/2/4/a)
 
-[^key-9e981772fb2527c42b3737efbb0e5714]: Textual amendment: Art. 11(1)(b)-(e) substituted for art. 11(1)(b)(c) (1.9.2015) by [The Education (National Curriculum) (Miscellaneous Amendments) (England) Order 2015 (S.I. 2015/900)](https://www.legislation.gov.uk/uksi/2015/900), [arts. 1](https://www.legislation.gov.uk/uksi/2015/900/article/1), [21](https://www.legislation.gov.uk/uksi/2015/900/article/21)
+[^c-9e981772fb2527c42b3737efbb0e5714]: Textual amendment: Art. 11(1)(b)-(e) substituted for art. 11(1)(b)(c) (1.9.2015) by [The Education (National Curriculum) (Miscellaneous Amendments) (England) Order 2015 (S.I. 2015/900)](https://www.legislation.gov.uk/uksi/2015/900), [arts. 1](https://www.legislation.gov.uk/uksi/2015/900/article/1), [21](https://www.legislation.gov.uk/uksi/2015/900/article/21)
 
-[^key-eacfd2812795fda869d96b7eb4d8ebda]: Textual amendment: Art. 11(1)(d)-(f) omitted (20.6.2013) by virtue of [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(11)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/11)
+[^c-eacfd2812795fda869d96b7eb4d8ebda]: Textual amendment: Art. 11(1)(d)-(f) omitted (20.6.2013) by virtue of [The Education (National Curriculum) (Key Stages 1 and 2 Assessment Arrangements) (England) (Amendment) Order 2013 (S.I. 2013/1513)](https://www.legislation.gov.uk/uksi/2013/1513), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1513/article/1), [2(11)](https://www.legislation.gov.uk/uksi/2013/1513/article/2/11)
 
-[^key-b39031036caca43df9a2c1594520eb45]: Textual amendment: Art. 11(1A) inserted (1.5.2019) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/854/article/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2019/854/article/2/11)
+[^c-b39031036caca43df9a2c1594520eb45]: Textual amendment: Art. 11(1A) inserted (1.5.2019) by [The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) (Amendment) Order 2019 (S.I. 2019/854)](https://www.legislation.gov.uk/uksi/2019/854), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/854/article/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2019/854/article/2/11)
 
-[^key-3a10fa4cf2e19d76ff205730719ef7a4]: Textual amendment: Art. 11(2) inserted (1.9.2009) by [The Education (National Curriculum) (Key Stages 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2009 (S.I. 2009/1585)](https://www.legislation.gov.uk/uksi/2009/1585), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1585/article/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2009/1585/article/2/4/b)
+[^c-3a10fa4cf2e19d76ff205730719ef7a4]: Textual amendment: Art. 11(2) inserted (1.9.2009) by [The Education (National Curriculum) (Key Stages 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2009 (S.I. 2009/1585)](https://www.legislation.gov.uk/uksi/2009/1585), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1585/article/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2009/1585/article/2/4/b)
 
-[^key-abc023ec5ef0d6766c6f3d805a3babe9]: Textual amendment: Words in art. 11(2) substituted (1.10.2011) by [The Education (National Curriculum) (Key Stages 1, 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2011 (S.I. 2011/2392)](https://www.legislation.gov.uk/uksi/2011/2392), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2392/article/1), [2(8)](https://www.legislation.gov.uk/uksi/2011/2392/article/2/8)
+[^c-abc023ec5ef0d6766c6f3d805a3babe9]: Textual amendment: Words in art. 11(2) substituted (1.10.2011) by [The Education (National Curriculum) (Key Stages 1, 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2011 (S.I. 2011/2392)](https://www.legislation.gov.uk/uksi/2011/2392), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2392/article/1), [2(8)](https://www.legislation.gov.uk/uksi/2011/2392/article/2/8)
 
-[^key-1d0038deeab7a950e8a75b47cf3a60f3]: Textual amendment: Words in [art. 11(2)](https://www.legislation.gov.uk/uksi/2003/1038/article/11/2) inserted (1.6.2024) by [The Education (National Curriculum) (Key Stages 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2024 (S.I. 2024/578)](https://www.legislation.gov.uk/uksi/2024/578), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/578/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/578/article/2/3)
+[^c-1d0038deeab7a950e8a75b47cf3a60f3]: Textual amendment: Words in [art. 11(2)](https://www.legislation.gov.uk/uksi/2003/1038/article/11/2) inserted (1.6.2024) by [The Education (National Curriculum) (Key Stages 2 and 3 Assessment Arrangements) (England) (Amendment) Order 2024 (S.I. 2024/578)](https://www.legislation.gov.uk/uksi/2024/578), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/578/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/578/article/2/3)

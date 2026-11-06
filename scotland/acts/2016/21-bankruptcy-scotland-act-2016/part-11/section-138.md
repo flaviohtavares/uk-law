@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 138. Discharge of debtor where Accountant in Bankruptcy trustee[^key-fcb44dbc6aac8cc59468ab36dccfb9a8]
+## 138. Discharge of debtor where Accountant in Bankruptcy trustee[^c-fcb44dbc6aac8cc59468ab36dccfb9a8]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fcb44dbc6aac8cc59468ab36dccfb9a8]: Commencement: [S. 138](https://www.legislation.gov.uk/asp/2016/21/section/138) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-fcb44dbc6aac8cc59468ab36dccfb9a8]: Commencement: [S. 138](https://www.legislation.gov.uk/asp/2016/21/section/138) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

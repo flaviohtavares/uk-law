@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Chief executive and other staff[^key-7e86f049bcf4d8f34cddcdcc731fb80a]
+## 9. Chief executive and other staff[^c-7e86f049bcf4d8f34cddcdcc731fb80a]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e86f049bcf4d8f34cddcdcc731fb80a]: Commencement: S. 9 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)
+[^c-7e86f049bcf4d8f34cddcdcc731fb80a]: Commencement: S. 9 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)

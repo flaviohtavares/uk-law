@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. New regulation 71A (grounds relating to identification: England and Wales and Scotland)[^key-b7a074134f1b381dacf9f3f6bee7daee]
+## 90. New regulation 71A (grounds relating to identification: England and Wales and Scotland)[^c-b7a074134f1b381dacf9f3f6bee7daee]
 
 *Extent: E+W+S*
 
@@ -67,4 +67,4 @@ After regulation 71 insert—
 
 ## Annotations
 
-[^key-b7a074134f1b381dacf9f3f6bee7daee]: Commencement: Reg. 90 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-b7a074134f1b381dacf9f3f6bee7daee]: Commencement: Reg. 90 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

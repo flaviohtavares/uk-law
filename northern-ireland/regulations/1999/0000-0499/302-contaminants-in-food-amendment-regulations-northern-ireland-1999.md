@@ -30,7 +30,7 @@ summary: ''
 
 FOOD
 
-Contaminants in Food (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^key-d95213787a1ffa7eb3b39967e3b0c3aa]
+Contaminants in Food (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^c-d95213787a1ffa7eb3b39967e3b0c3aa]
 
 Made
 
@@ -40,42 +40,42 @@ Coming into operation
 
 16th August 1999
 
-[^key-d95213787a1ffa7eb3b39967e3b0c3aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d95213787a1ffa7eb3b39967e3b0c3aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-d95213787a1ffa7eb3b39967e3b0c3aa]
+## 1. Citation, commencement and interpretation[^c-d95213787a1ffa7eb3b39967e3b0c3aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-d95213787a1ffa7eb3b39967e3b0c3aa]
+## 2. Amendment of the principal Regulations[^c-d95213787a1ffa7eb3b39967e3b0c3aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d95213787a1ffa7eb3b39967e3b0c3aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d95213787a1ffa7eb3b39967e3b0c3aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d95213787a1ffa7eb3b39967e3b0c3aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d95213787a1ffa7eb3b39967e3b0c3aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d95213787a1ffa7eb3b39967e3b0c3aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d95213787a1ffa7eb3b39967e3b0c3aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-d95213787a1ffa7eb3b39967e3b0c3aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-d95213787a1ffa7eb3b39967e3b0c3aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-d95213787a1ffa7eb3b39967e3b0c3aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-d95213787a1ffa7eb3b39967e3b0c3aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of other Regulations[^key-d95213787a1ffa7eb3b39967e3b0c3aa]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 9. Revocation[^key-d95213787a1ffa7eb3b39967e3b0c3aa]
+## 8. Amendment of other Regulations[^c-d95213787a1ffa7eb3b39967e3b0c3aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d95213787a1ffa7eb3b39967e3b0c3aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 9. Revocation[^c-d95213787a1ffa7eb3b39967e3b0c3aa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-d95213787a1ffa7eb3b39967e3b0c3aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d95213787a1ffa7eb3b39967e3b0c3aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d95213787a1ffa7eb3b39967e3b0c3aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d95213787a1ffa7eb3b39967e3b0c3aa]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/302) revoked (29.7.2002) by [Contaminants in Food Regulations (Northern Ireland) 2002 (S.R. 2002/219)](https://www.legislation.gov.uk/nisr/2002/219), [regs. 1](https://www.legislation.gov.uk/nisr/2002/219/regulation/1), [10](https://www.legislation.gov.uk/nisr/2002/219/regulation/10), [Sch.](https://www.legislation.gov.uk/nisr/2002/219/schedule)
+[^c-d95213787a1ffa7eb3b39967e3b0c3aa]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/302) revoked (29.7.2002) by [Contaminants in Food Regulations (Northern Ireland) 2002 (S.R. 2002/219)](https://www.legislation.gov.uk/nisr/2002/219), [regs. 1](https://www.legislation.gov.uk/nisr/2002/219/regulation/1), [10](https://www.legislation.gov.uk/nisr/2002/219/regulation/10), [Sch.](https://www.legislation.gov.uk/nisr/2002/219/schedule)

@@ -44,19 +44,19 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with section 217(5)(i) of the Economic Crime and Corporate Transparency Act 2023, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and extent[^key-a9fe3243267a031768c3ea8f3323af80]
+## 1. Citation, commencement and extent[^c-a9fe3243267a031768c3ea8f3323af80]
 
 (1) These Regulations may be cited as the Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024.
 
-(2) These Regulations come into force on 21st March 2024[^key-4922770392b7125615bd392eb3511af5].
+(2) These Regulations come into force on 21st March 2024[^c-4922770392b7125615bd392eb3511af5].
 
 (3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Amendments to primary legislation[^key-6105f08c02b6a5b72f30ffcab95fa4d7]
+## 2. Amendments to primary legislation[^c-6105f08c02b6a5b72f30ffcab95fa4d7]
 
 Schedule 1 has effect.
 
-## 3. Amendments to subordinate legislation[^key-8e73b06803b147aec95b01cb25683c88]
+## 3. Amendments to subordinate legislation[^c-8e73b06803b147aec95b01cb25683c88]
 
 Schedule 2 has effect.
 
@@ -72,7 +72,7 @@ Department for Business and Trade
 
 Regulation 2
 
-### 1. Companies Act 2006[^key-ce43cd05dfb7437aec65f7dcf02a4aee]
+### 1. Companies Act 2006[^c-ce43cd05dfb7437aec65f7dcf02a4aee]
 
 In section 1087(1)(gd) of the Companies Act 2006[^f00002] at the appropriate places insert—
 
@@ -84,7 +84,7 @@ In section 1087(1)(gd) of the Companies Act 2006[^f00002] at the appropriate pla
 
 .
 
-### 2. Economic Crime (Transparency and Enforcement) Act 2022[^key-54f7d04a74fe73b704415d1dc7fc9356]
+### 2. Economic Crime (Transparency and Enforcement) Act 2022[^c-54f7d04a74fe73b704415d1dc7fc9356]
 
 In paragraph 6(3) of Schedule 1 (applications: required information) to the Economic Crime (Transparency and Enforcement) Act 2022[^f00003], after “sub-paragraph (1)(a)” insert “and (g)”.
 
@@ -92,7 +92,7 @@ In paragraph 6(3) of Schedule 1 (applications: required information) to the Econ
 
 Regulation 3
 
-### 1. European Economic Interest Grouping Regulations 1989[^key-73c44d73d3ed9fec20fb8a4f812e31fe]
+### 1. European Economic Interest Grouping Regulations 1989[^c-73c44d73d3ed9fec20fb8a4f812e31fe]
 
 Schedule 4 (provisions of Companies Acts applying to UKEIGs and EEIG establishments) to the European Economic Interest Grouping Regulations 1989[^f00004] is amended as follows—
 
@@ -176,7 +176,7 @@ Schedule 4 (provisions of Companies Acts applying to UKEIGs and EEIG establishme
 
   .
 
-### 2. European Public Limited-Liability Company Regulations 2004[^key-f84679838cf645147b2ae3ffb6ac282b]
+### 2. European Public Limited-Liability Company Regulations 2004[^c-f84679838cf645147b2ae3ffb6ac282b]
 
 (1) The European Public Limited-Liability Company Regulations 2004[^f00016] are amended as follows.
 
@@ -208,7 +208,7 @@ Schedule 4 (provisions of Companies Acts applying to UKEIGs and EEIG establishme
 
 .
 
-### 3. Companies (Disclosure of Address) Regulations 2009[^key-dc16df3e8d2dc6bba244bcedf452ec32]
+### 3. Companies (Disclosure of Address) Regulations 2009[^c-dc16df3e8d2dc6bba244bcedf452ec32]
 
 (1) The Companies (Disclosure of Address) Regulations 2009[^f00018] are amended as follows.
 
@@ -236,7 +236,7 @@ Schedule 4 (provisions of Companies Acts applying to UKEIGs and EEIG establishme
 
   .
 
-### 4. Overseas Companies Regulations 2009[^key-ef6a68bc0236656aabdb45876c9ab0a2]
+### 4. Overseas Companies Regulations 2009[^c-ef6a68bc0236656aabdb45876c9ab0a2]
 
 (1) The Overseas Companies Regulations 2009[^f00019] are amended as follows.
 
@@ -278,7 +278,7 @@ Schedule 4 (provisions of Companies Acts applying to UKEIGs and EEIG establishme
   - (i) in sub-paragraph (1) omit the definition of a “public function” and “and” preceding it;
   - (ii) omit sub-paragraph (2) and “and” preceding it.
 
-### 5. Unregistered Companies Regulations 2009[^key-853359991547017fff54b3482b49ad08]
+### 5. Unregistered Companies Regulations 2009[^c-853359991547017fff54b3482b49ad08]
 
 Schedule 1 (provisions of the Companies Acts applying to unregistered companies) to the Unregistered Companies Regulations 2009[^f00020] is amended as follows—
 
@@ -336,7 +336,7 @@ Schedule 1 (provisions of the Companies Acts applying to unregistered companies)
     ;
 - (e) in paragraph 20(2A) for “section 1087B for sub-paragraph (3)” substitute “section 1087C for sub-paragraph (4)”.
 
-### 6. Companies (Disclosure of Date of Birth Information) Regulations 2015[^key-8a0acfacae90f5af86f717de26ba1edb]
+### 6. Companies (Disclosure of Date of Birth Information) Regulations 2015[^c-8a0acfacae90f5af86f717de26ba1edb]
 
 (1) The Companies (Disclosure of Date of Birth Information) Regulations 2015[^f00021] are amended as follows.
 
@@ -364,7 +364,7 @@ Schedule 1 (provisions of the Companies Acts applying to unregistered companies)
 - (e) in paragraph 9 for “restricted DOB information” substitute “relevant date of birth information”;
 - (f) in paragraph 11(2)(a) for “restricted DOB information” substitute “relevant date of birth information”.
 
-### 7. Register of People with Significant Control Regulations 2016[^key-c5114879d69ed4be2a2120cec4413ce9]
+### 7. Register of People with Significant Control Regulations 2016[^c-c5114879d69ed4be2a2120cec4413ce9]
 
 (1) The Register of People with Significant Control Regulations 2016[^f00023] are amended as follows.
 
@@ -388,7 +388,7 @@ Schedule 1 (provisions of the Companies Acts applying to unregistered companies)
 
   .
 
-### 8. Scottish Partnerships (Register of People with Significant Control) Regulations 2017[^key-43b078f479327d4501c6a8a41e93ec05]
+### 8. Scottish Partnerships (Register of People with Significant Control) Regulations 2017[^c-43b078f479327d4501c6a8a41e93ec05]
 
 (1) The Scottish Partnerships (Register of People with Significant Control) Regulations 2017[^f00024] are amended as follows.
 
@@ -480,23 +480,23 @@ A full Impact Assessment has not been prepared for this instrument.
 
 [^f00001]: Footnote: [2023 c. 56](https://www.legislation.gov.uk/ukpga/2023/56).
 
-[^key-a9fe3243267a031768c3ea8f3323af80]: Commencement: Reg. 1 in force at 21.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2/b)
+[^c-a9fe3243267a031768c3ea8f3323af80]: Commencement: Reg. 1 in force at 21.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2/b)
 
-[^key-4922770392b7125615bd392eb3511af5]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2) substituted (13.3.2025) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 4) Regulations 2025 (S.I. 2025/349)](https://www.legislation.gov.uk/uksi/2025/349), [reg. 5(7)](https://www.legislation.gov.uk/uksi/2025/349/regulation/5/7)
+[^c-4922770392b7125615bd392eb3511af5]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2) substituted (13.3.2025) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 4) Regulations 2025 (S.I. 2025/349)](https://www.legislation.gov.uk/uksi/2025/349), [reg. 5(7)](https://www.legislation.gov.uk/uksi/2025/349/regulation/5/7)
 
-[^key-6105f08c02b6a5b72f30ffcab95fa4d7]: Commencement: Reg. 2 in force at 21.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2/b)
+[^c-6105f08c02b6a5b72f30ffcab95fa4d7]: Commencement: Reg. 2 in force at 21.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2/b)
 
-[^key-8e73b06803b147aec95b01cb25683c88]: Commencement: Reg. 3 in force at 21.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2/b)
+[^c-8e73b06803b147aec95b01cb25683c88]: Commencement: Reg. 3 in force at 21.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2/b)
 
-[^key-ce43cd05dfb7437aec65f7dcf02a4aee]: Commencement: Sch. 1 para. 1 in force at 21.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2/b)
+[^c-ce43cd05dfb7437aec65f7dcf02a4aee]: Commencement: Sch. 1 para. 1 in force at 21.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2/b)
 
 [^f00002]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46). Section 1087(1)(gd) was inserted by section 69 of the Economic Crime and Corporate Transparency Act 2023.
 
-[^key-54f7d04a74fe73b704415d1dc7fc9356]: Commencement: Sch. 1 para. 2 in force at 21.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2/b)
+[^c-54f7d04a74fe73b704415d1dc7fc9356]: Commencement: Sch. 1 para. 2 in force at 21.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2/b)
 
 [^f00003]: Footnote: [2022 c. 10](https://www.legislation.gov.uk/ukpga/2022/10). Paragraph 6(1) was amended by sections 157 and 160 of the Economic Crime and Corporate Transparency Act 2023.
 
-[^key-73c44d73d3ed9fec20fb8a4f812e31fe]: Commencement: Sch. 2 para. 1 in force at 21.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2/b)
+[^c-73c44d73d3ed9fec20fb8a4f812e31fe]: Commencement: Sch. 2 para. 1 in force at 21.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2/b)
 
 [^f00004]: Footnote: [S.I. 1989/638](https://www.legislation.gov.uk/uksi/1989/638). Schedule 4 was amended by [S.I. 2008/948](https://www.legislation.gov.uk/uksi/2008/948), [2009/2399](https://www.legislation.gov.uk/uksi/2009/2399), [2015/1695](https://www.legislation.gov.uk/uksi/2015/1695) and [2018/1299](https://www.legislation.gov.uk/uksi/2018/1299).
 
@@ -522,35 +522,35 @@ A full Impact Assessment has not been prepared for this instrument.
 
 [^f00015]: Footnote: Sections 1112 and 1112A were, respectively, substituted and inserted by section 102(3) of the Economic Crime and Corporate Transparency Act 2023.
 
-[^key-f84679838cf645147b2ae3ffb6ac282b]: Commencement: Sch. 2 para. 2 in force at 21.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2/b)
+[^c-f84679838cf645147b2ae3ffb6ac282b]: Commencement: Sch. 2 para. 2 in force at 21.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2/b)
 
 [^f00016]: Footnote: [S.I. 2004/2326](https://www.legislation.gov.uk/uksi/2004/2326).
 
 [^f00017]: Footnote: Schedule 1A was inserted by regulation 37 of [S.I. 2009/2400](https://www.legislation.gov.uk/uksi/2009/2400) and amended by regulation 45 of [S.I. 2018/1298](https://www.legislation.gov.uk/uksi/2018/1298).
 
-[^key-dc16df3e8d2dc6bba244bcedf452ec32]: Commencement: Sch. 2 para. 3 in force at 21.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2/b)
+[^c-dc16df3e8d2dc6bba244bcedf452ec32]: Commencement: Sch. 2 para. 3 in force at 21.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2/b)
 
 [^f00018]: Footnote: [S.I. 2009/214](https://www.legislation.gov.uk/uksi/2009/214).
 
-[^key-ef6a68bc0236656aabdb45876c9ab0a2]: Commencement: Sch. 2 para. 4 in force at 21.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2/b)
+[^c-ef6a68bc0236656aabdb45876c9ab0a2]: Commencement: Sch. 2 para. 4 in force at 21.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2/b)
 
 [^f00019]: Footnote: [S.I. 2009/1801](https://www.legislation.gov.uk/uksi/2009/1801).
 
-[^key-853359991547017fff54b3482b49ad08]: Commencement: Sch. 2 para. 5 in force at 21.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2/b)
+[^c-853359991547017fff54b3482b49ad08]: Commencement: Sch. 2 para. 5 in force at 21.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2/b)
 
 [^f00020]: Footnote: [S.I. 2009/2436](https://www.legislation.gov.uk/uksi/2009/2436).
 
-[^key-8a0acfacae90f5af86f717de26ba1edb]: Commencement: Sch. 2 para. 6 in force at 21.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2/b)
+[^c-8a0acfacae90f5af86f717de26ba1edb]: Commencement: Sch. 2 para. 6 in force at 21.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2/b)
 
 [^f00021]: Footnote: [S.I. 2015/1694](https://www.legislation.gov.uk/uksi/2015/1694).
 
 [^f00022]: Footnote: The “**relevant date of birth information**” has the meaning given by section 1087A(5) of the Companies Act 2006, as inserted by section 52 of the Economic Crime and Corporate Transparency Act 2023.
 
-[^key-c5114879d69ed4be2a2120cec4413ce9]: Commencement: Sch. 2 para. 7 in force at 21.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2/b)
+[^c-c5114879d69ed4be2a2120cec4413ce9]: Commencement: Sch. 2 para. 7 in force at 21.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2/b)
 
 [^f00023]: Footnote: [S.I. 2016/339](https://www.legislation.gov.uk/uksi/2016/339).
 
-[^key-43b078f479327d4501c6a8a41e93ec05]: Commencement: Sch. 2 para. 8 in force at 21.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2/b)
+[^c-43b078f479327d4501c6a8a41e93ec05]: Commencement: Sch. 2 para. 8 in force at 21.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2/b)
 
 [^f00024]: Footnote: [S.I. 2017/694](https://www.legislation.gov.uk/uksi/2017/694).
 

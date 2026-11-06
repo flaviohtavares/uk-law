@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 228A. Temporary Judicial Commissioners[^key-44a89bbdb2b108a19dd557a0206901c3]
+## 228A. Temporary Judicial Commissioners[^c-44a89bbdb2b108a19dd557a0206901c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44a89bbdb2b108a19dd557a0206901c3]: Textual amendment: [S. 228A](https://www.legislation.gov.uk/ukpga/2016/25/section/228A) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 9](https://www.legislation.gov.uk/ukpga/2024/9/section/9), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/i)
+[^c-44a89bbdb2b108a19dd557a0206901c3]: Textual amendment: [S. 228A](https://www.legislation.gov.uk/ukpga/2016/25/section/228A) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 9](https://www.legislation.gov.uk/ukpga/2024/9/section/9), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/i)

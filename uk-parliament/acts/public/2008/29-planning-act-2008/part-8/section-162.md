@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Time limits[^key-d21beab3b40c7da247c48cb62d97fd58]
+## 162. Time limits[^c-d21beab3b40c7da247c48cb62d97fd58]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d21beab3b40c7da247c48cb62d97fd58]: Commencement: S. 162 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(j)](https://www.legislation.gov.uk/uksi/2010/101/article/3/j) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-d21beab3b40c7da247c48cb62d97fd58]: Commencement: S. 162 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(j)](https://www.legislation.gov.uk/uksi/2010/101/article/3/j) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

@@ -26,8 +26,8 @@ summary: ''
 - (b) product B is the subject of a UK marketing authorisation; and
 - (c) the holder of the marketing authorisation for product B has allowed use to be made of the pharmaceutical, pre-clinical and clinical documentation contained in the file on product B with a view to examining subsequent applications relating to other medicinal products possessing the same qualitative and quantitative composition in terms of active substances and the same pharmaceutical form.
 
-(2) The documentation referred to in paragraph (1)(c) in relation to product B may be used in relation to the application in relation to product A [^key-1c4ead76c24f5a27175d1d8e23c7518b]...
+(2) The documentation referred to in paragraph (1)(c) in relation to product B may be used in relation to the application in relation to product A [^c-1c4ead76c24f5a27175d1d8e23c7518b]...
 
 ## Annotations
 
-[^key-1c4ead76c24f5a27175d1d8e23c7518b]: Textual amendment: Words in [reg. 56(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/56/2) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [61](https://www.legislation.gov.uk/uksi/2019/775/regulation/61); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1c4ead76c24f5a27175d1d8e23c7518b]: Textual amendment: Words in [reg. 56(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/56/2) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [61](https://www.legislation.gov.uk/uksi/2019/775/regulation/61); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.210. The hearing[^key-3c609c319e2a6aaf44b4b94c27e28bb0]
+## 6.210. The hearing[^c-3c609c319e2a6aaf44b4b94c27e28bb0]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3c609c319e2a6aaf44b4b94c27e28bb0]: Commencement: [Rule 6.210](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.210) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-3c609c319e2a6aaf44b4b94c27e28bb0]: Commencement: [Rule 6.210](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.210) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00193]: Marginal citation: \[FORM 6.71\]

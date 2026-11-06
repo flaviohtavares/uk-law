@@ -35,18 +35,18 @@ concerning the authorisation of the preparation of citric acid, sorbic acid, thy
 
 (Text with EEA relevance) (revoked)
 
-[^key-28ff4835b9c47b841ce355162caf96cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28ff4835b9c47b841ce355162caf96cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-28ff4835b9c47b841ce355162caf96cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-28ff4835b9c47b841ce355162caf96cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-28ff4835b9c47b841ce355162caf96cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-28ff4835b9c47b841ce355162caf96cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28ff4835b9c47b841ce355162caf96cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28ff4835b9c47b841ce355162caf96cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-28ff4835b9c47b841ce355162caf96cf]
+## ANNEX[^c-28ff4835b9c47b841ce355162caf96cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-28ff4835b9c47b841ce355162caf96cf]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 387](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/387) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-28ff4835b9c47b841ce355162caf96cf]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 387](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/387) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

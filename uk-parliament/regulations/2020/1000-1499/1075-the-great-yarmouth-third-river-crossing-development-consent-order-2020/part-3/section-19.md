@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Disapplication of obligations where undertaker is the street authority[^key-5f7ebb34c2599ba7fbe267597c2351f7]
+## 19. Disapplication of obligations where undertaker is the street authority[^c-5f7ebb34c2599ba7fbe267597c2351f7]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ does not apply where, in relation to the relevant street or part of a street, th
 
 ## Annotations
 
-[^key-5f7ebb34c2599ba7fbe267597c2351f7]: Commencement: Art. 19 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-5f7ebb34c2599ba7fbe267597c2351f7]: Commencement: Art. 19 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Transfer of staff, property etc.[^key-206ba4b01c6eed766d2908e7062f79d9]
+## 24. Transfer of staff, property etc.[^c-206ba4b01c6eed766d2908e7062f79d9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 4 makes provision about the transfer of staff, property, rights, liabil
 
 ## Annotations
 
-[^key-206ba4b01c6eed766d2908e7062f79d9]: Commencement: S. 24 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-206ba4b01c6eed766d2908e7062f79d9]: Commencement: S. 24 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

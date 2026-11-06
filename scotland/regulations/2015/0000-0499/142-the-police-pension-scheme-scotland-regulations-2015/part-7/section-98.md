@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 98. Refusal to be medically examined[^key-863c3a476a22d3078b52d29cb384af7c]
+## 98. Refusal to be medically examined[^c-863c3a476a22d3078b52d29cb384af7c]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The employer may make a decision under this Chapter on such evidence and medical
 
 ## Annotations
 
-[^key-863c3a476a22d3078b52d29cb384af7c]: Commencement: Reg. 98 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-863c3a476a22d3078b52d29cb384af7c]: Commencement: Reg. 98 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

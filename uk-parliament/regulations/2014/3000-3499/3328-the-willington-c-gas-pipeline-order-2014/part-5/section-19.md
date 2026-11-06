@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Power to override easements and other rights[^key-57e044797043f0f33c428636f9a41ff7]
+## 19. Power to override easements and other rights[^c-57e044797043f0f33c428636f9a41ff7]
 
 *Extent: E+W+S*
 
@@ -38,7 +38,7 @@ any rule or principle applied to the construction of section 10 of the 1965 Act 
 
 ## Annotations
 
-[^key-57e044797043f0f33c428636f9a41ff7]: Commencement: Art. 19 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
+[^c-57e044797043f0f33c428636f9a41ff7]: Commencement: Art. 19 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
 
 [^f00031]: Footnote: Section 152 was amended by paragraph 293 of Schedule 1 to [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

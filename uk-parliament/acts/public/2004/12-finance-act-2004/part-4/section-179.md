@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 179. Authorised employer loan[^key-d995ced0d9f3aaeee0676c42ebd35557][^key-8a7b6ca9a3fcc82c6b924c617b9cfdf2]
+## 179. Authorised employer loan[^c-d995ced0d9f3aaeee0676c42ebd35557][^c-8a7b6ca9a3fcc82c6b924c617b9cfdf2]
 
 *Extent: E+W+S+N.I.*
 
-(1) A loan made to or in respect of a person who is or has been a[^key-224120dbf229ee048b42d2c48cc7a3eb] sponsoring employer is an authorised employer loan if—
+(1) A loan made to or in respect of a person who is or has been a[^c-224120dbf229ee048b42d2c48cc7a3eb] sponsoring employer is an authorised employer loan if—
 
 - (a) the amount loaned does not exceed an amount equal to 50% of the aggregate of the amount of the sums, and the market value of the assets, held for the purposes of the pension scheme immediately before the loan is made,
 - (b) the loan is secured by a charge which is of adequate value, and
@@ -36,9 +36,9 @@ summary: ''
 
 (4) The loan repayment date may be postponed under subsection (3) only once.
 
-(5) If the amount of a loan to or in respect of a person who is or has been a[^key-ea62829ff3e8d7a3af3a4234acfe4f7f] sponsoring employer is increased, the amount of the increase is to be treated as a loan made on the date of the increase.
+(5) If the amount of a loan to or in respect of a person who is or has been a[^c-ea62829ff3e8d7a3af3a4234acfe4f7f] sponsoring employer is increased, the amount of the increase is to be treated as a loan made on the date of the increase.
 
-(6) Schedule 30 gives the meaning of expressions used in this section and explains how to calculate the amount of the unauthorised payment when a loan to or in respect of a person who is or has been a[^key-9d81f06baeb03692ddf05f8052d94d59] sponsoring employer does not comply with subsection (1).
+(6) Schedule 30 gives the meaning of expressions used in this section and explains how to calculate the amount of the unauthorised payment when a loan to or in respect of a person who is or has been a[^c-9d81f06baeb03692ddf05f8052d94d59] sponsoring employer does not comply with subsection (1).
 
 (7) In this section and that Schedule “**charge**” includes a right in security or an agreement to create a right in security; and any reference to assets subject to a charge or assets charged includes a reference to the property over which such a right is granted.
 
@@ -46,12 +46,12 @@ summary: ''
 
 ## Annotations
 
-[^key-d995ced0d9f3aaeee0676c42ebd35557]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-d995ced0d9f3aaeee0676c42ebd35557]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-8a7b6ca9a3fcc82c6b924c617b9cfdf2]: Modification: Ss. 175-181 excluded (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [15](https://www.legislation.gov.uk/uksi/2006/575/regulation/15)
+[^c-8a7b6ca9a3fcc82c6b924c617b9cfdf2]: Modification: Ss. 175-181 excluded (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [15](https://www.legislation.gov.uk/uksi/2006/575/regulation/15)
 
-[^key-224120dbf229ee048b42d2c48cc7a3eb]: Textual amendment: Words in s. 179(1) inserted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 161(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/161/2), [Sch. 23 para. 11](https://www.legislation.gov.uk/ukpga/2006/25/schedule/23/paragraph/11)
+[^c-224120dbf229ee048b42d2c48cc7a3eb]: Textual amendment: Words in s. 179(1) inserted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 161(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/161/2), [Sch. 23 para. 11](https://www.legislation.gov.uk/ukpga/2006/25/schedule/23/paragraph/11)
 
-[^key-ea62829ff3e8d7a3af3a4234acfe4f7f]: Textual amendment: Words in s. 179(5) inserted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 161(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/161/2), [Sch. 23 para. 11](https://www.legislation.gov.uk/ukpga/2006/25/schedule/23/paragraph/11)
+[^c-ea62829ff3e8d7a3af3a4234acfe4f7f]: Textual amendment: Words in s. 179(5) inserted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 161(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/161/2), [Sch. 23 para. 11](https://www.legislation.gov.uk/ukpga/2006/25/schedule/23/paragraph/11)
 
-[^key-9d81f06baeb03692ddf05f8052d94d59]: Textual amendment: Words in s. 179(6) inserted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 161(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/161/2), [Sch. 23 para. 11](https://www.legislation.gov.uk/ukpga/2006/25/schedule/23/paragraph/11)
+[^c-9d81f06baeb03692ddf05f8052d94d59]: Textual amendment: Words in s. 179(6) inserted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 161(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/161/2), [Sch. 23 para. 11](https://www.legislation.gov.uk/ukpga/2006/25/schedule/23/paragraph/11)

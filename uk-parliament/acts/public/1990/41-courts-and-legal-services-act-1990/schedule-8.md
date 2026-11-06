@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Licensed Conveyancers and Licensed CLC Practitioners[^key-a37682250a33cd967a328fd38ab8f749]
+## SCHEDULE 8 — Licensed Conveyancers and Licensed CLC Practitioners[^c-a37682250a33cd967a328fd38ab8f749]
 
 *Extent: E+W*
 
@@ -29,11 +29,11 @@ Section 53.
 **1.**[^c12481121] In this Schedule—
 
 - “**the [^c12481131]Act of 1985**” means the Administration of Justice Act 1985;
-- “advocacy licence”, “litigation licence” and “probate licence” have the meaning given by section 53;[^key-47af7fa06669d1ace2f40c4f101659bd]
+- “advocacy licence”, “litigation licence” and “probate licence” have the meaning given by section 53;[^c-47af7fa06669d1ace2f40c4f101659bd]
 - “**the Council**” means the Council for Licensed Conveyancers;
 - “**the Discipline and Appeals Committee**” means the committee established under section 25 of the Act of 1985;
-- [^key-e4d155fee777040246a5233252f8e5d2]...
-- [^key-a877b436773646c3071b13f2a1f23782]...
+- [^c-e4d155fee777040246a5233252f8e5d2]...
+- [^c-a877b436773646c3071b13f2a1f23782]...
 - “**relevant licence**” means a licence under Part II of the Act of 1985 or an advocacy, litigation or probate licence.
 - “[^c19974741]**reserved legal activity**” has the same meaning as in the Legal Services Act 2007 (see section 12 of and Schedule 2 to that Act).
 
@@ -66,7 +66,7 @@ the Council may issue the applicant either with a licence free of conditions or 
 
 (2) If the Council is for any reason not so satisfied, or for any other reason refuses the application, it shall notify the applicant of its refusal and of the grounds on which the application has been refused.
 
-(3) Subsections (3) to (6) of section 15 of the Act of 1985 (issue of licences under section 14 of that Act) shall apply, with the necessary modifications, with respect to—[^key-d1b9082f4d307955509d766440b23c00]
+(3) Subsections (3) to (6) of section 15 of the Act of 1985 (issue of licences under section 14 of that Act) shall apply, with the necessary modifications, with respect to—[^c-d1b9082f4d307955509d766440b23c00]
 
 - (a) any application under paragraph 3 for an advocacy licence and any advocacy licence in force under section 53;
 - (b) any application under paragraph 3 for a litigation licence and any litigation licence in force under section 53; and
@@ -79,10 +79,10 @@ the Council may issue the applicant either with a licence free of conditions or 
 **5.**[^c12481171] (1) This paragraph has effect in any case where a person applies for an advocacy, litigation or probate licence—
 
 - (a) for the first time;
-- (b)[^key-12c33cde8a47dc1a80d5feea0c138f6f] when conditions under this paragraph have been imposed on an advocacy, litigation or probate licence previously issued to him;
+- (b)[^c-12c33cde8a47dc1a80d5feea0c138f6f] when conditions under this paragraph have been imposed on an advocacy, litigation or probate licence previously issued to him;
 - (ba) when conditions under section 16 of the Act of 1985 have been imposed on a licence under Part 2 of the Act of 1985 previously issued to him;
-- (c) when, on the first day of the period to which the licence applied for would (if granted) relate, a period of twelve months or more will have elapsed since he held an advocacy, litigation or probate licence or a licence under Part 2 of the Act of 1985[^key-29e1e5af0197b0842c8ffb1110862536] ;
-- (d)[^c19975271] after the Investigating Committee have made any order in his case under section 24A(1) of the Act of 1985 (including section 24A(1) as applied by section 53)[^key-48bde1d849ad5168b5f2b3c4d4d914b0] or the Discipline and Appeals Committee have made any order in his case under section 26(1) of that Act (including section 26(1) as applied by section 53)[^key-dbbd8f30d6cb0320854a3b69734504e8] .
+- (c) when, on the first day of the period to which the licence applied for would (if granted) relate, a period of twelve months or more will have elapsed since he held an advocacy, litigation or probate licence or a licence under Part 2 of the Act of 1985[^c-29e1e5af0197b0842c8ffb1110862536] ;
+- (d)[^c19975271] after the Investigating Committee have made any order in his case under section 24A(1) of the Act of 1985 (including section 24A(1) as applied by section 53)[^c-48bde1d849ad5168b5f2b3c4d4d914b0] or the Discipline and Appeals Committee have made any order in his case under section 26(1) of that Act (including section 26(1) as applied by section 53)[^c-dbbd8f30d6cb0320854a3b69734504e8] .
 
 (2) This paragraph also has effect in any case where a person applies for such a licence and any of the circumstances mentioned in paragraphs (e) to (j) of section 16 of the Act of 1985 (conditional licences) apply in his case.
 
@@ -94,11 +94,11 @@ the Council may issue the applicant either with a licence free of conditions or 
 
 (6) Without prejudice to the generality of sub-paragraph (4), conditions may be imposed under that sub-paragraph—
 
-- (a) for restricting the kinds of activities that may be carried on[^c19975311] by the applicant by virtue of his having the advocacy, litigation or probate licence in question; [^key-400d6ce8f40357a0751308ea2c8b12ec]...
-- (b) in the case of an applicant who is a licensed conveyancer,[^key-a7fa5e9323469103dd39464ad610e2fd] for requiring the applicant to take any specified steps that will, in the opinion of the Council, be conducive to his carrying on an efficient practice as a licensed conveyancer who carries on the additional activities[^c19975351] authorised by that licence; or[^key-67ad74c995d3971d1ffc280f89ab4649]
+- (a) for restricting the kinds of activities that may be carried on[^c19975311] by the applicant by virtue of his having the advocacy, litigation or probate licence in question; [^c-400d6ce8f40357a0751308ea2c8b12ec]...
+- (b) in the case of an applicant who is a licensed conveyancer,[^c-a7fa5e9323469103dd39464ad610e2fd] for requiring the applicant to take any specified steps that will, in the opinion of the Council, be conducive to his carrying on an efficient practice as a licensed conveyancer who carries on the additional activities[^c19975351] authorised by that licence; or[^c-67ad74c995d3971d1ffc280f89ab4649]
 - (c) for requiring the applicant to take any specified steps that will, in the opinion of the Council, be conducive to his carrying on an efficient practice as a licensed CLC practitioner,
 
-and conditions may be imposed under that sub-paragraph (whether for the purposes mentioned in paragraph (b) or (c)[^key-ff14cd7115987ecffad0add34bb57e7c] or otherwise) as they may be under Part II of the Act of 1985.
+and conditions may be imposed under that sub-paragraph (whether for the purposes mentioned in paragraph (b) or (c)[^c-ff14cd7115987ecffad0add34bb57e7c] or otherwise) as they may be under Part II of the Act of 1985.
 
 (7) Subsections (4) and (5) of section 16 of the Act of 1985 shall have effect, with the necessary modifications, with respect to an advocacy, litigation or probate licence as they have effect with respect to a licence issued under Part II of that Act.
 
@@ -112,7 +112,7 @@ and conditions may be imposed under that sub-paragraph (whether for the purposes
 
 (3) Where any such licence is for the time being suspended, the Council shall cause that fact to be noted in the register against the name of the licensed conveyancer concerned.
 
-#### Register of licensed CLC practitioners[^key-ad431d2807b7e48b5b68ba8c3ef9fca7]
+#### Register of licensed CLC practitioners[^c-ad431d2807b7e48b5b68ba8c3ef9fca7]
 
 **6A.** (1) The Council must establish and maintain, in such form as the Council may determine, a register containing the names and places of business of all persons who for the time being hold an advocacy, litigation or probate licence and are not licensed conveyancers.
 
@@ -135,7 +135,7 @@ is, unless the contrary is proved, evidence of the facts stated in the certifica
 
 **7.** [^c19975481]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Effect of suspension or revocation[^key-7cbd475ab6ac991a997c0ceb37b08d71]
+#### Effect of suspension or revocation[^c-7cbd475ab6ac991a997c0ceb37b08d71]
 
 **8.** Where a relevant licence ceases to be in force because of—
 
@@ -146,11 +146,11 @@ any other relevant licence in force with respect to that person at the time shal
 
 #### Removal of disqualification from holding a licence
 
-**9.**[^key-6888b4b1f2c4edf427956ffbd9a0270f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-6888b4b1f2c4edf427956ffbd9a0270f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Revocation on grounds of error or fraud
 
-**10.**[^key-e9c302cfbdf68acaed05e949c94f0c9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-e9c302cfbdf68acaed05e949c94f0c9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Recognised bodies
 
@@ -244,16 +244,16 @@ any other relevant licence in force with respect to that person at the time shal
 
 **21.**[^c12481351] (1) Where the Council is satisfied that it is necessary to do so for the purpose of investigating any complaint made to it—
 
-- (a) alleging professional misconduct by a licensed conveyancer or licensed CLC practitioner[^key-df020d44c245ef373cc731d2688c5bc2] ; or
+- (a) alleging professional misconduct by a licensed conveyancer or licensed CLC practitioner[^c-df020d44c245ef373cc731d2688c5bc2] ; or
 - (b) [^c20029751]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-the Council may give notice to the person complained of[^key-550c34651f8debadfc653c32c24fea7c] or his firm requiring the production or delivery to any person appointed by the Council, at a time and place to be fixed by the Council, of all documents in the possession of the person complained of or his firm in connection with the matters to which the complaint relates (whether or not they relate also to other matters).
+the Council may give notice to the person complained of[^c-550c34651f8debadfc653c32c24fea7c] or his firm requiring the production or delivery to any person appointed by the Council, at a time and place to be fixed by the Council, of all documents in the possession of the person complained of or his firm in connection with the matters to which the complaint relates (whether or not they relate also to other matters).
 
 (2) The provisions of paragraphs 9(2) to (12), 11 and 12 of Schedule 5 to the Act of 1985 shall apply in relation to the powers conferred by sub-paragraph (1) as they apply in relation to the powers conferred by paragraph 9(1) of that Schedule.
 
 #### Interest on clients’ money
 
-**22.**[^c12481361] Where a licensed conveyancer or licensed CLC practitioner[^key-e38214e3700958c53277af28f1315691] —
+**22.**[^c12481361] Where a licensed conveyancer or licensed CLC practitioner[^c-e38214e3700958c53277af28f1315691] —
 
 - (a) is required by rules made under section 23 of the Act of 1985 to place any sum of money in a separate deposit account; but
 - (b) fails to do so as soon as is reasonably practicable,
@@ -275,17 +275,17 @@ the Council may give a direction requiring him to account to the client in quest
 
 ## Annotations
 
-[^key-a37682250a33cd967a328fd38ab8f749]: Textual amendment: Words in Sch. 8 heading inserted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/2); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-a37682250a33cd967a328fd38ab8f749]: Textual amendment: Words in Sch. 8 heading inserted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/2); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
 [^c12481121]: Commencement: Sch. 8 Pt. 1 para. 1 wholly in force at 7.12.2004; Sch. 8 Pt. 1 para. 1 in force at 1.4.1991 (except in so far as it relates to certain exemptions under section 55) see s. 124(3) and [S.I. 1991/608](https://www.legislation.gov.uk/uksi/1991/608), [art. 2](https://www.legislation.gov.uk/uksi/1991/608/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1991/608/schedule); Sch. 8 Pt. 1 para. 1 otherwise in force at 7.12.2004 by [S.I. 2004/2950](https://www.legislation.gov.uk/uksi/2004/2950), [art. 2](https://www.legislation.gov.uk/uksi/2004/2950/article/2)
 
 [^c12481131]: Marginal citation: [1985 c. 61](https://www.legislation.gov.uk/ukpga/1985/61).
 
-[^key-47af7fa06669d1ace2f40c4f101659bd]: Textual amendment: Words in Sch. 8 para. 1 substituted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(3)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/3/a); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-47af7fa06669d1ace2f40c4f101659bd]: Textual amendment: Words in Sch. 8 para. 1 substituted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(3)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/3/a); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
-[^key-e4d155fee777040246a5233252f8e5d2]: Textual amendment: Words in Sch. 8 para. 1 omitted (29.6.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/3/b/i); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-e4d155fee777040246a5233252f8e5d2]: Textual amendment: Words in Sch. 8 para. 1 omitted (29.6.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/3/b/i); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
-[^key-a877b436773646c3071b13f2a1f23782]: Textual amendment: Words in Sch. 8 para. 1 omitted (29.6.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/3/b/ii); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-a877b436773646c3071b13f2a1f23782]: Textual amendment: Words in Sch. 8 para. 1 omitted (29.6.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/3/b/ii); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
 [^c19974741]: Textual amendment: Sch. 8 para. 1: definition of "reserved legal activity" inserted (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 182](https://www.legislation.gov.uk/ukpga/2007/29/section/182), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 17 para. 35(2)(d)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/17/paragraph/35/2/d) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(f)(iii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/f/iii) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 
@@ -303,45 +303,45 @@ the Council may give a direction requiring him to account to the client in quest
 
 [^c19974781]: Textual amendment: Words in Sch. 8 para. 4(1)(c) substituted (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 182](https://www.legislation.gov.uk/ukpga/2007/29/section/182), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 17 para. 35(4)(b)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/17/paragraph/35/4/b) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(f)(iii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/f/iii) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 
-[^key-d1b9082f4d307955509d766440b23c00]: Textual amendment: Words in Sch. 8 para. 4(3) substituted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(4)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/4); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-d1b9082f4d307955509d766440b23c00]: Textual amendment: Words in Sch. 8 para. 4(3) substituted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(4)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/4); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
 [^c12481171]: Commencement: Sch. 8 Pt. 1 para. 5 wholly in force at 7.12.2004; Sch. 8 Pt. 1 para. 5 in force at 1.4.1991 (except in so far as it relates to certain exemptions under section 55) see s. 124(3) and [S.I. 1991/608](https://www.legislation.gov.uk/uksi/1991/608), [art. 2](https://www.legislation.gov.uk/uksi/1991/608/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1991/608/schedule); Sch. 8 Pt. 1 para. 5 otherwise in force at 7.12.2004 by [S.I. 2004/2950](https://www.legislation.gov.uk/uksi/2004/2950), [art. 2](https://www.legislation.gov.uk/uksi/2004/2950/article/2)
 
-[^key-12c33cde8a47dc1a80d5feea0c138f6f]: Textual amendment: Sch. 8 para. 5(1)(b) (ba) substituted for para. 5(1)(b) (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(5)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/5/a); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-12c33cde8a47dc1a80d5feea0c138f6f]: Textual amendment: Sch. 8 para. 5(1)(b) (ba) substituted for para. 5(1)(b) (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(5)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/5/a); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
-[^key-29e1e5af0197b0842c8ffb1110862536]: Textual amendment: Words in Sch. 8 para. 5(1)(c) substituted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(5)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/5/b); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-29e1e5af0197b0842c8ffb1110862536]: Textual amendment: Words in Sch. 8 para. 5(1)(c) substituted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(5)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/5/b); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
 [^c19975271]: Textual amendment: Sch. 8 para. 5(1)(d) substituted (31.3.2009) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 182](https://www.legislation.gov.uk/ukpga/2007/29/section/182), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 17 para. 35(5)(a)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/17/paragraph/35/5/a) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/503/article/2/c/ii)
 
-[^key-48bde1d849ad5168b5f2b3c4d4d914b0]: Textual amendment: Words in Sch. 8 para. 5(1)(d) inserted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(5)(c)(i)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/5/c/i); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-48bde1d849ad5168b5f2b3c4d4d914b0]: Textual amendment: Words in Sch. 8 para. 5(1)(d) inserted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(5)(c)(i)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/5/c/i); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
-[^key-dbbd8f30d6cb0320854a3b69734504e8]: Textual amendment: Words in Sch. 8 para. 5(1)(d) inserted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(5)(c)(ii)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/5/c/ii); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-dbbd8f30d6cb0320854a3b69734504e8]: Textual amendment: Words in Sch. 8 para. 5(1)(d) inserted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(5)(c)(ii)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/5/c/ii); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
 [^c19975311]: Textual amendment: Words in Sch. 8 para. 5(6)(a) substituted (31.3.2009) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 182](https://www.legislation.gov.uk/ukpga/2007/29/section/182), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 17 para. 35(5)(b)(i)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/17/paragraph/35/5/b/i) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/503/article/2/c/ii)
 
-[^key-400d6ce8f40357a0751308ea2c8b12ec]: Textual amendment: Word in Sch. 8 para. 5(6) omitted (29.6.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(5)(d)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/5/d); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-400d6ce8f40357a0751308ea2c8b12ec]: Textual amendment: Word in Sch. 8 para. 5(6) omitted (29.6.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(5)(d)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/5/d); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
-[^key-a7fa5e9323469103dd39464ad610e2fd]: Textual amendment: Words in Sch. 8 para. 5(6)(b) inserted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(5)(e)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/5/e); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-a7fa5e9323469103dd39464ad610e2fd]: Textual amendment: Words in Sch. 8 para. 5(6)(b) inserted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(5)(e)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/5/e); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
 [^c19975351]: Textual amendment: Words in Sch. 8 para. 5(6)(b) substituted (31.3.2009) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 182](https://www.legislation.gov.uk/ukpga/2007/29/section/182), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 17 para. 35(5)(b)(ii)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/17/paragraph/35/5/b/ii) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/503/article/2/c/ii)
 
-[^key-67ad74c995d3971d1ffc280f89ab4649]: Textual amendment: Sch. 8 para. 5(6)(c) and word inserted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(5)(f)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/5/f); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-67ad74c995d3971d1ffc280f89ab4649]: Textual amendment: Sch. 8 para. 5(6)(c) and word inserted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(5)(f)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/5/f); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
-[^key-ff14cd7115987ecffad0add34bb57e7c]: Textual amendment: Words in Sch. 8 para. 5(6) inserted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(5)(g)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/5/g); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-ff14cd7115987ecffad0add34bb57e7c]: Textual amendment: Words in Sch. 8 para. 5(6) inserted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(5)(g)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/5/g); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
 [^c19975371]: Textual amendment: Sch. 8 para. 5(8) inserted (31.3.2009) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 182](https://www.legislation.gov.uk/ukpga/2007/29/section/182), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 17 para. 35(5)(c)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/17/paragraph/35/5/c) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/503/article/2/c/ii)
 
 [^c12481181]: Commencement: Sch. 8 Pt. 1 para. 6 wholly in force at 7.12.2004; Sch. 8 Pt. 1 para. 6 in force at 1.4.1991 (except in so far as it relates to certain exemptions under section 55) see s. 124(3) and [S.I. 1991/608](https://www.legislation.gov.uk/uksi/1991/608), [art. 2](https://www.legislation.gov.uk/uksi/1991/608/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1991/608/schedule); Sch. 8 Pt. 1 para. 6 otherwise in force at 7.12.2004 by [S.I. 2004/2950](https://www.legislation.gov.uk/uksi/2004/2950), [art. 2](https://www.legislation.gov.uk/uksi/2004/2950/article/2)
 
-[^key-ad431d2807b7e48b5b68ba8c3ef9fca7]: Textual amendment: Sch. 8 para. 6A and cross-heading inserted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(6)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/6); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-ad431d2807b7e48b5b68ba8c3ef9fca7]: Textual amendment: Sch. 8 para. 6A and cross-heading inserted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(6)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/6); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
 [^c19975481]: Textual amendment: Sch. 8 para. 7 repealed (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 182](https://www.legislation.gov.uk/ukpga/2007/29/section/182), [210](https://www.legislation.gov.uk/ukpga/2007/29/section/210), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 17 para. 35(6)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/17/paragraph/35/6), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(f)(iii)(i)(viii)(oo)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/f/iii/i/viii/oo) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 
-[^key-7cbd475ab6ac991a997c0ceb37b08d71]: Textual amendment: Sch. 8 para. 8 and cross-heading substituted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(7)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/7); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-7cbd475ab6ac991a997c0ceb37b08d71]: Textual amendment: Sch. 8 para. 8 and cross-heading substituted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(7)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/7); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
-[^key-6888b4b1f2c4edf427956ffbd9a0270f]: Textual amendment: Sch. 8 para. 9 omitted (29.6.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(8)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/8); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-6888b4b1f2c4edf427956ffbd9a0270f]: Textual amendment: Sch. 8 para. 9 omitted (29.6.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(8)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/8); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
-[^key-e9c302cfbdf68acaed05e949c94f0c9a]: Textual amendment: Sch. 8 para. 10 omitted (29.6.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(9)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/9); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-e9c302cfbdf68acaed05e949c94f0c9a]: Textual amendment: Sch. 8 para. 10 omitted (29.6.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(9)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/9); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
 [^c19975691]: Textual amendment: Sch. 8 para. 11 repealed (31.3.2009) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 182](https://www.legislation.gov.uk/ukpga/2007/29/section/182), [210](https://www.legislation.gov.uk/ukpga/2007/29/section/210), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 17 para. 35(9)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/17/paragraph/35/9), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(c)(ii)(f)(i)(vi)(cc)](https://www.legislation.gov.uk/uksi/2009/503/article/2/c/ii/f/i/vi/cc)
 
@@ -377,15 +377,15 @@ the Council may give a direction requiring him to account to the client in quest
 
 [^c12481351]: Commencement: Sch. 8 para. 21 in force 1.4.1991 (except in so far as it relates to certain exemptions under section 55) see s. 124(3) and [S.I. 1991/608](https://www.legislation.gov.uk/uksi/1991/608), [art. 2](https://www.legislation.gov.uk/uksi/1991/608/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1991/608/schedule)
 
-[^key-df020d44c245ef373cc731d2688c5bc2]: Textual amendment: Words in Sch. 8 para. 21(1)(a) inserted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(10)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/10/a); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-df020d44c245ef373cc731d2688c5bc2]: Textual amendment: Words in Sch. 8 para. 21(1)(a) inserted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(10)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/10/a); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
 [^c20029751]: Textual amendment: Sch. 8 para. 21(1)(b) repealed (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 208](https://www.legislation.gov.uk/ukpga/2007/29/section/208), [210](https://www.legislation.gov.uk/ukpga/2007/29/section/210), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 21 para. 100(e)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/100/e), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/h) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 
-[^key-550c34651f8debadfc653c32c24fea7c]: Textual amendment: Words in Sch. 8 para. 21(1) substituted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(10)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/10/b); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-550c34651f8debadfc653c32c24fea7c]: Textual amendment: Words in Sch. 8 para. 21(1) substituted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(10)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/10/b); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
 [^c12481361]: Commencement: Sch. 8 para. 22 in force 1.4.1991 (except in so far as it relates to certain exemptions under section 55) see s. 124(3) and [S.I. 1991/608](https://www.legislation.gov.uk/uksi/1991/608), [art. 2](https://www.legislation.gov.uk/uksi/1991/608/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1991/608/schedule)
 
-[^key-e38214e3700958c53277af28f1315691]: Textual amendment: Words in Sch. 8 para. 22 inserted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(11)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/11); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-e38214e3700958c53277af28f1315691]: Textual amendment: Words in Sch. 8 para. 22 inserted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 13(11)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13/11); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
 [^c22730351]: Textual amendment: Sch. 8 para. 23 repealed (31.3.2009) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [Sch. 23](https://www.legislation.gov.uk/ukpga/2008/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2008/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2008/29/section/192), [194](https://www.legislation.gov.uk/ukpga/2008/29/section/194)); [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(f)(vi)(cc)](https://www.legislation.gov.uk/uksi/2009/503/article/2/f/vi/cc) (with [art. 5](https://www.legislation.gov.uk/uksi/2009/503/article/5))
 

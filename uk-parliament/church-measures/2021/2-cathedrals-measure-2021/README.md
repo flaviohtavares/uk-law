@@ -31,7 +31,7 @@ Cathedrals Measure 2021
 
 A Measure passed by the General Synod of the Church of England to make provision about the governance, management, property and financial affairs of cathedrals.
 
-\[29th April 2021\][^key-5188d5f322756085664f1d4635411ae1]
+\[29th April 2021\][^c-5188d5f322756085664f1d4635411ae1]
 
 ## Contents
 
@@ -162,4 +162,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-5188d5f322756085664f1d4635411ae1]: Modification: [Measure](https://www.legislation.gov.uk/ukcm/2021/2) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Cathedrals Measure 2021 (Saving Provision) Order 2022 (S.I. 2022/308)](https://www.legislation.gov.uk/uksi/2022/308), [art. 2](https://www.legislation.gov.uk/uksi/2022/308/article/2)
+[^c-5188d5f322756085664f1d4635411ae1]: Modification: [Measure](https://www.legislation.gov.uk/ukcm/2021/2) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Cathedrals Measure 2021 (Saving Provision) Order 2022 (S.I. 2022/308)](https://www.legislation.gov.uk/uksi/2022/308), [art. 2](https://www.legislation.gov.uk/uksi/2022/308/article/2)

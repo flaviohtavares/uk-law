@@ -34,10 +34,10 @@ summary: ''
 
 (4) For the purposes of paragraph (3), it does not matter whether, apart from the application of the limit, the member’s remuneration in any tax year would have exceeded the amount of the limit.
 
-(5)[^key-4734356d58391b9a61727ffb8f9d64bf] In the case of a 2008 Section Optant, this regulation is subject to regulation 2.K.13.
+(5)[^c-4734356d58391b9a61727ffb8f9d64bf] In the case of a 2008 Section Optant, this regulation is subject to regulation 2.K.13.
 
 ## Annotations
 
 [^f00057]: Footnote: [1988 c.1](https://www.legislation.gov.uk/ukpga/1988/1).
 
-[^key-4734356d58391b9a61727ffb8f9d64bf]: Textual amendment: [Reg. 2.F.12(5)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.F.12/5) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [50](https://www.legislation.gov.uk/uksi/2009/2446/regulation/50)
+[^c-4734356d58391b9a61727ffb8f9d64bf]: Textual amendment: [Reg. 2.F.12(5)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.F.12/5) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [50](https://www.legislation.gov.uk/uksi/2009/2446/regulation/50)

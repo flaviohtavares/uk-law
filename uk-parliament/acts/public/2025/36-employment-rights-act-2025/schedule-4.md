@@ -24,7 +24,7 @@ summary: ''
 
 Section 38
 
-### 1. The School Support Staff Negotiating Body[^key-9b2cc90ac7832af25b67fe410c9e9aec]
+### 1. The School Support Staff Negotiating Body[^c-9b2cc90ac7832af25b67fe410c9e9aec]
 
 In the Education Act 2002, after Part 8 insert—
 
@@ -371,7 +371,7 @@ In the Education Act 2002, after Part 8 insert—
 >
 > (3) Any reference in this Part to an agreement that has been ratified is, in a case where the agreement is ratified in part, a reference to so much of the agreement as has been ratified.
 
-**2.**[^key-974d8e3a32fd0ad2b67991f2ac52e48b] In the Education Act 2002, after Schedule 12 insert—
+**2.**[^c-974d8e3a32fd0ad2b67991f2ac52e48b] In the Education Act 2002, after Schedule 12 insert—
 
 > **Schedule 12A — The School Support Staff Negotiating Body**
 >
@@ -448,13 +448,13 @@ In the Education Act 2002, after Part 8 insert—
 > - “**school support staff organisation**” means an organisation that, in the opinion of the Secretary of State, represents the interests of school support staff;
 > - “**school support staff employer organisation**” means an organisation that, in the opinion of the Secretary of State, represents the interests of employers of school support staff.
 
-### 3. Consequential amendments[^key-1e059044cf6f4bfcdeeb4b41ffbff2ee]
+### 3. Consequential amendments[^c-1e059044cf6f4bfcdeeb4b41ffbff2ee]
 
 In the House of Commons Disqualification Act 1975, in Part 3 of Schedule 1 (other disqualifying offices), at the appropriate place insert—
 
 > - Person appointed to chair the School Support Staff Negotiating Body.
 
-**4.**[^key-fe352057bd550482d6594d2619360c70] In Schedule 2 to the Education Act 2002 (effect on staffing of suspension of delegated budget)—
+**4.**[^c-fe352057bd550482d6594d2619360c70] In Schedule 2 to the Education Act 2002 (effect on staffing of suspension of delegated budget)—
 
 - (a) after paragraph 10 insert—
 
@@ -466,18 +466,18 @@ In the House of Commons Disqualification Act 1975, in Part 3 of Schedule 1 (othe
   ;
 - (b) omit paragraph 11.
 
-### 5. Pre-commencement consultation[^key-628bf7b1e36c1a1cc1d9ddb40120a48b]
+### 5. Pre-commencement consultation[^c-628bf7b1e36c1a1cc1d9ddb40120a48b]
 
 If, before the coming into force of paragraph 2 (which inserts Schedule 12A to the Education Act 2002), any consultation takes place which would have satisfied the requirement for consultation under paragraph 1(5) of that Schedule to any extent if it had been in force, that requirement is to be taken as having been satisfied to that extent.
 
 ## Annotations
 
-[^key-9b2cc90ac7832af25b67fe410c9e9aec]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-9b2cc90ac7832af25b67fe410c9e9aec]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-974d8e3a32fd0ad2b67991f2ac52e48b]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-974d8e3a32fd0ad2b67991f2ac52e48b]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-1e059044cf6f4bfcdeeb4b41ffbff2ee]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-1e059044cf6f4bfcdeeb4b41ffbff2ee]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-fe352057bd550482d6594d2619360c70]: Commencement: Sch. 4 para. 4 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-fe352057bd550482d6594d2619360c70]: Commencement: Sch. 4 para. 4 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-628bf7b1e36c1a1cc1d9ddb40120a48b]: Commencement: Sch. 4 para. 5 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-628bf7b1e36c1a1cc1d9ddb40120a48b]: Commencement: Sch. 4 para. 5 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)

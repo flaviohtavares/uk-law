@@ -32,7 +32,7 @@ summary: ''
 
 Clean Air, England
 
-The Smoke Control Areas (Authorised Fuels) (England) (Amendment) Regulations 2009 (revoked)[^key-586992b46342149403f57c5815e70e2a]
+The Smoke Control Areas (Authorised Fuels) (England) (Amendment) Regulations 2009 (revoked)[^c-586992b46342149403f57c5815e70e2a]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st October 2009
 
-[^key-586992b46342149403f57c5815e70e2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-586992b46342149403f57c5815e70e2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-586992b46342149403f57c5815e70e2a]
+## 1. Citation and commencement[^c-586992b46342149403f57c5815e70e2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-586992b46342149403f57c5815e70e2a]
+## 2. Amendments[^c-586992b46342149403f57c5815e70e2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-586992b46342149403f57c5815e70e2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-586992b46342149403f57c5815e70e2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-586992b46342149403f57c5815e70e2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-586992b46342149403f57c5815e70e2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-586992b46342149403f57c5815e70e2a]: Textual amendment: Regulations revoked (6.4.2012) by [The Smoke Control Areas (Authorised Fuels) (England) Regulations 2012 (S.I. 2012/814)](https://www.legislation.gov.uk/uksi/2012/814), [reg. 1](https://www.legislation.gov.uk/uksi/2012/814/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/814/schedule/2)
+[^c-586992b46342149403f57c5815e70e2a]: Textual amendment: Regulations revoked (6.4.2012) by [The Smoke Control Areas (Authorised Fuels) (England) Regulations 2012 (S.I. 2012/814)](https://www.legislation.gov.uk/uksi/2012/814), [reg. 1](https://www.legislation.gov.uk/uksi/2012/814/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/814/schedule/2)

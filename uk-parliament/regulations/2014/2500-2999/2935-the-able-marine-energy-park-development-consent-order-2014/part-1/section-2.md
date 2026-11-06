@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-bb86a57e6878752fc5a385f1fc59817a]
+## 2. Interpretation[^c-bb86a57e6878752fc5a385f1fc59817a]
 
 *Extent: E+W+S*
 
@@ -36,7 +36,7 @@ summary: ''
 - “area of jurisdiction” means the area within the limits of the harbour;
 - “area of seaward construction activity” means the area of the sea within the Order limits;
 - “authorised development” means the nationally significant infrastructure project and associated development described in Schedule 1 (authorised development) and any other development authorised by this Order, which is development within the meaning of section 32 of the 2008 Act;
-- “the berthing pocket” means the area bounded by co-ordinates (53°39.492’N, 00°13.466’W), (53°39.476’N, 00°13.511’W), (53°39.488’N, 00°13.546’W), (53°39.528’N, 00°13.421’W) (53°39.397’N, 00°13.249’W), (53°39.415’N, 00°13.211’W), (53°38.974’N, 00°12.631’W), (53°38.947’N, 00°12.676’W), (53°38.928’N, 00°12.724’W), (53°38.945’N, 00°12.746’W), (53°38.965’N, 00°12.702’W), (53°39.389’N, 00°13.260’W) and (53°39.369’N, 00°13.304’W)[^key-d8476ee359efc579a0164e9d6b51aae8] and shown on sheets 4, 8 and 9 of the works plans;
+- “the berthing pocket” means the area bounded by co-ordinates (53°39.492’N, 00°13.466’W), (53°39.476’N, 00°13.511’W), (53°39.488’N, 00°13.546’W), (53°39.528’N, 00°13.421’W) (53°39.397’N, 00°13.249’W), (53°39.415’N, 00°13.211’W), (53°38.974’N, 00°12.631’W), (53°38.947’N, 00°12.676’W), (53°38.928’N, 00°12.724’W), (53°38.945’N, 00°12.746’W), (53°38.965’N, 00°12.702’W), (53°39.389’N, 00°13.260’W) and (53°39.369’N, 00°13.304’W)[^c-d8476ee359efc579a0164e9d6b51aae8] and shown on sheets 4, 8 and 9 of the works plans;
 - “the book of reference” means the book of reference certified by the Secretary of State as the book of reference for the purposes of this Order;
 - “building” includes any structure or erection or any part of a building, structure or erection;
 - “carriageway” has the same meaning as in the 1980 Act;
@@ -53,12 +53,12 @@ summary: ''
 - “the ecology plans” means the plans certified as the ecology plans by the Secretary of State for the purposes of this Order;
 - “environmental management and monitoring plan” means all or any of the compensation environmental management and monitoring plan, the marine environmental management and monitoring plan and the terrestrial environmental management and monitoring plan;
 - “E.ON” means E.ON UK Plc whose registered office is at Westwood Way, Westwood Business Park, Coventry, West Midlands CV4 8LG (company registration number 02366970);
-- “former Mitigation Area A” means the area bounded by co-ordinates (53°38.543’N, 00°14.155’W), (53°38.793’N, 00°13.413’W), (53°38.543’N, 00°13.138’W), (53°38.473’N, 00°13.341W), (53°38.461’N, 00°13.346’W) and (53°38.270’N, 00°13.886’W)[^key-00417fe657c12db936ad24b373da4a56];
+- “former Mitigation Area A” means the area bounded by co-ordinates (53°38.543’N, 00°14.155’W), (53°38.793’N, 00°13.413’W), (53°38.543’N, 00°13.138’W), (53°38.473’N, 00°13.341W), (53°38.461’N, 00°13.346’W) and (53°38.270’N, 00°13.886’W)[^c-00417fe657c12db936ad24b373da4a56];
 - “harbour” means the authorised development within the limits of the harbour, and includes any works, land, buildings, ancillary works, plant, property and conveniences connected with it, as from time to time existing within the limits of the harbour;
 - “the Harbour Authority” means the Company in its capacity as harbour authority established by article 8 (jurisdiction of the Harbour Authority), or to the extent of any transfer under article 13(1)(a) (consent to transfer benefit of order), any transferee;
 - “the harbour master” means the harbour master appointed by the Conservancy Authority for the purposes of the Humber Conservancy Acts 1852 to 1951[^f00012] and the Humber Harbour Reorganisation Scheme 1966 Confirmation Order 1967[^f00013] to be a harbour master for an area that includes the area of jurisdiction and includes the harbour master’s deputies and assistants;
 - “highway” and “highway authority” have the same meaning as in the 1980 Act;
-- “[^key-0dda2aa3b89984f42cad7746918a56e1]**the inset berth**” means the area bounded by co-ordinates (53°39.492’N, 00°13.466’W), (53°39.511’N, 00°13.409’W), (53°39.392’N, 00°13.253’W) and (53°39.369’N, 00°13.304’W) and shown on sheets 8 and 9 of the works plans;
+- “[^c-0dda2aa3b89984f42cad7746918a56e1]**the inset berth**” means the area bounded by co-ordinates (53°39.492’N, 00°13.466’W), (53°39.511’N, 00°13.409’W), (53°39.392’N, 00°13.253’W) and (53°39.369’N, 00°13.304’W) and shown on sheets 8 and 9 of the works plans;
 - “the land plans” means the plans certified as the land plans by the Secretary of State for the purposes of this Order;
 - “level of high water” means the level of mean high-water springs;
 - “limits of deviation” means the limits of deviation shown on the works plans;
@@ -68,7 +68,7 @@ summary: ''
 - “MMO” means the Marine Management Organisation;
 - “Network Rail” means Network Rail Infrastructure Limited, company number 02904587 registered at Kings Place, 90 York Way, London N1 9AG;
 - “Order land” means the land shown on the land plans as within the boundary of land required for or affected by the proposed development, and described in the book of reference;
-- “the Order limits” means the limits shown as the limits within which the authorised development and works may be carried out on the works plans , save for former Mitigation Area A[^key-27656b08ad130bb2de2506177a711d4b];
+- “the Order limits” means the limits shown as the limits within which the authorised development and works may be carried out on the works plans , save for former Mitigation Area A[^c-27656b08ad130bb2de2506177a711d4b];
 - “owner”, in relation to land, has the same meaning as in section 7 of the Acquisition of Land Act 1981[^f00014];
 - “the planning application drawings” means the drawings referred to in paragraph 6(a) of Schedule 11;
 - “plans” include sections, elevations, drawings, specifications, programmes, method statements and hydraulic information;
@@ -99,7 +99,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bb86a57e6878752fc5a385f1fc59817a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2014/2935/article/2) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-bb86a57e6878752fc5a385f1fc59817a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2014/2935/article/2) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
 
 [^f00005]: Footnote: [1847 (10 & 11 Vict) c. 27](https://www.legislation.gov.uk/ukpga/1847/27). Sections 12 and 13 were amended by [SR & O 1924/1370](https://www.legislation.gov.uk/uksi/1924/1370), section 1 of the Crown Estates Act [1956 (c. 53)](https://www.legislation.gov.uk/ukpga/1956/53), and section 1 of the Crown Estate Act [1961 (c. 55)](https://www.legislation.gov.uk/ukpga/1961/55). Sections 5, 24, 94 and 95 were repealed by the Statute Law (Repeals) Act [1993 (c. 50)](https://www.legislation.gov.uk/ukpga/1993/50); section 26 was repealed by section 56(4) of, and Schedule 11 to, the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23); section 28 was amended by section 141 of, and Schedule 11 to, the Post Office Act [1969 (c. 48)](https://www.legislation.gov.uk/ukpga/1969/48); sections 28, 54, 67 and 98 were amended by sections 37 and 46 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48); section 71 was amended by [S.I.1987/37](https://www.legislation.gov.uk/uksi/1987/37); section 91 was repealed by the Statute Law Revision Act [1894 (c.56)](https://www.legislation.gov.uk/ukpga/1894/56); section 93 was repealed by the Statute Law Revision Act [1875 (c.66)](https://www.legislation.gov.uk/ukpga/1875/66); and section 96 was repealed by the Perjury Act [1911 (c. 6)](https://www.legislation.gov.uk/ukpga/1911/6), section 17. There are other amendments to the 1847 Act which are not relevant to this Order.
 
@@ -115,16 +115,16 @@ summary: ''
 
 [^f00011]: Footnote: [1991 c. 22](https://www.legislation.gov.uk/ukpga/1991/22). Section 48(3A) was inserted by section 124 of the Local Transport Act [2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26). Sections 79(4), 80(4) and 83(4) were amended by section 40 of, and Schedule 1 to, the Traffic Management Act [2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18).
 
-[^key-d8476ee359efc579a0164e9d6b51aae8]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2014/2935/article/2) substituted (6.8.2022) by [The Able Marine Energy Park Development Consent (Amendment) Order 2022 (S.I. 2022/881)](https://www.legislation.gov.uk/uksi/2022/881), [arts. 1](https://www.legislation.gov.uk/uksi/2022/881/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/881/article/2/2/a)
+[^c-d8476ee359efc579a0164e9d6b51aae8]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2014/2935/article/2) substituted (6.8.2022) by [The Able Marine Energy Park Development Consent (Amendment) Order 2022 (S.I. 2022/881)](https://www.legislation.gov.uk/uksi/2022/881), [arts. 1](https://www.legislation.gov.uk/uksi/2022/881/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/881/article/2/2/a)
 
-[^key-00417fe657c12db936ad24b373da4a56]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2014/2935/article/2) inserted (14.5.2021) by [The Able Marine Energy Park Development Consent (Amendment) Order 2021 (S.I. 2021/606)](https://www.legislation.gov.uk/uksi/2021/606), [arts. 1](https://www.legislation.gov.uk/uksi/2021/606/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/606/article/2/2/a)
+[^c-00417fe657c12db936ad24b373da4a56]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2014/2935/article/2) inserted (14.5.2021) by [The Able Marine Energy Park Development Consent (Amendment) Order 2021 (S.I. 2021/606)](https://www.legislation.gov.uk/uksi/2021/606), [arts. 1](https://www.legislation.gov.uk/uksi/2021/606/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/606/article/2/2/a)
 
 [^f00012]: Footnote: [1852 c. cv](https://www.legislation.gov.uk/ukla/1852/105); [1868 c. lviii](https://www.legislation.gov.uk/ukla/1868/58); [1871 c. civ](https://www.legislation.gov.uk/ukla/1871/104); [1876 c. cxxix](https://www.legislation.gov.uk/ukla/1876/129); [1899 c. cci](https://www.legislation.gov.uk/ukla/1899/201); [1905 c. clxxix](https://www.legislation.gov.uk/ukla/1905/179); [1907 c. xcvii](https://www.legislation.gov.uk/ukla/1907/97); [1951 c. xv](https://www.legislation.gov.uk/ukla/1951/15).
 
 [^f00013]: Footnote: [S.I. 1968/237](https://www.legislation.gov.uk/uksi/1968/237).
 
-[^key-0dda2aa3b89984f42cad7746918a56e1]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2014/2935/article/2) inserted (6.8.2022) by [The Able Marine Energy Park Development Consent (Amendment) Order 2022 (S.I. 2022/881)](https://www.legislation.gov.uk/uksi/2022/881), [arts. 1](https://www.legislation.gov.uk/uksi/2022/881/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/881/article/2/2/b)
+[^c-0dda2aa3b89984f42cad7746918a56e1]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2014/2935/article/2) inserted (6.8.2022) by [The Able Marine Energy Park Development Consent (Amendment) Order 2022 (S.I. 2022/881)](https://www.legislation.gov.uk/uksi/2022/881), [arts. 1](https://www.legislation.gov.uk/uksi/2022/881/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/881/article/2/2/b)
 
-[^key-27656b08ad130bb2de2506177a711d4b]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2014/2935/article/2) inserted (14.5.2021) by [The Able Marine Energy Park Development Consent (Amendment) Order 2021 (S.I. 2021/606)](https://www.legislation.gov.uk/uksi/2021/606), [arts. 1](https://www.legislation.gov.uk/uksi/2021/606/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/606/article/2/2/b)
+[^c-27656b08ad130bb2de2506177a711d4b]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2014/2935/article/2) inserted (14.5.2021) by [The Able Marine Energy Park Development Consent (Amendment) Order 2021 (S.I. 2021/606)](https://www.legislation.gov.uk/uksi/2021/606), [arts. 1](https://www.legislation.gov.uk/uksi/2021/606/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/606/article/2/2/b)
 
 [^f00014]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67). Section 7 was amended by section 70 of, and paragraph 9 of Schedule 15 to, the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34). There are other amendments to the 1981 Act which are not relevant to this Order.

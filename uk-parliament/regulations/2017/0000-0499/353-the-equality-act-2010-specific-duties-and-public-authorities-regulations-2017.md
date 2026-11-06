@@ -123,7 +123,7 @@ Schedule 1 to these Regulations (which imposes obligations on public authorities
 
 (2) A public authority may comply with the requirements to publish information in regulation 4 or 5 by publishing the information within another published document.
 
-## 7. Monitor and the NHS Trust Development Authority[^key-4f0b4ab7d251ee60acc3808ea6c7b84b]
+## 7. Monitor and the NHS Trust Development Authority[^c-4f0b4ab7d251ee60acc3808ea6c7b84b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -456,7 +456,7 @@ The Welsh Authority (as defined by section 56(1) of the Broadcasting Act 1990 [^
 ### Civil liberties
 
 - The Commission for Equality and Human Rights.
-- The Information Commission.[^key-10c38b706fa94238e6e01bd3cbea9f66]
+- The Information Commission.[^c-10c38b706fa94238e6e01bd3cbea9f66]
 
 ### Court services and legal services
 
@@ -480,7 +480,7 @@ The Welsh Authority (as defined by section 56(1) of the Broadcasting Act 1990 [^
 - The governing body of an educational establishment maintained by an English local authority (within the meaning of section 162 of the Education and Inspections Act 2006 [^c22997731]).
 - The governing body of an institution in England within the further education sector (within the meaning of section 91(3) of the Further and Higher Education Act 1992 [^c22997741]).
 - The governing body of an institution in England within the higher education sector (within the meaning of section 91(5) of that Act) [^c22997751].
-- The Office for Students[^key-cbf1bfd207e13d7f17461a16e9319074].
+- The Office for Students[^c-cbf1bfd207e13d7f17461a16e9319074].
 - A local authority in England with respect to the pupil referral units it establishes and maintains by virtue of section 19 of the Education Act 1996 [^c22997761].
 - The proprietor of a City Technology College, City College for Technology of the Arts, or an Academy.
 - The Student Loans Company Limited.
@@ -494,14 +494,14 @@ The Welsh Authority (as defined by section 56(1) of the Broadcasting Act 1990 [^
 ### Health, social care and social security
 
 - The Care Quality Commission.
-- An integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006[^key-64cfd89c3146cf363036a77328e51c13].
-- [^key-830b6baf415552a0c87448d567b1c51f]...
+- An integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006[^c-64cfd89c3146cf363036a77328e51c13].
+- [^c-830b6baf415552a0c87448d567b1c51f]...
 - The Health Research Authority.
-- [^key-abcf2e6f49080a1629c99f94ce3b7af8]...
-- [^key-5d462ba14f6964d998dd8b86041ea886]...
+- [^c-abcf2e6f49080a1629c99f94ce3b7af8]...
+- [^c-5d462ba14f6964d998dd8b86041ea886]...
 - An NHS foundation trust within the meaning given by section 30 of the National Health Service Act 2006 [^c22997781].
 - An NHS trust established under section 25 of that Act.
-- NHS England[^key-7f2ea15e69479a9dbf15eb83642bee82].
+- NHS England[^c-7f2ea15e69479a9dbf15eb83642bee82].
 - The National Institute for Health and Care Excellence.
 - A Special Health Authority established under section 28 of the National Health Service Act 2006 [^c22997791].
 
@@ -514,7 +514,7 @@ The Welsh Authority (as defined by section 56(1) of the Broadcasting Act 1990 [^
 - The Coal Authority.
 - The Construction Industry Training Board.
 - The Engineering Construction Industry Training Board.
-- The Independent System Operator and Planner designated in accordance with section 162 of the Energy Act 2023.[^key-0a0c4f8da42c760c71fbde77cd5c1db9]
+- The Independent System Operator and Planner designated in accordance with section 162 of the Energy Act 2023.[^c-0a0c4f8da42c760c71fbde77cd5c1db9]
 - The Financial Conduct Authority.
 - The National Audit Office.
 - The Nuclear Decommissioning Authority.
@@ -532,11 +532,11 @@ The Welsh Authority (as defined by section 56(1) of the Broadcasting Act 1990 [^
 - A county council or district council in England.
 - An economic prosperity board established by an order made under section 88(1) of the Local Democracy, Economic Development and Construction Act 2009 [^c22997821].
 - A fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004, or a scheme to which section 4 of that Act applies, for an area in England.
-- A fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004. *(Extent: E)*[^key-eca9941301fb7d77becd3557767a7b73]
+- A fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004. *(Extent: E)*[^c-eca9941301fb7d77becd3557767a7b73]
 - The Greater London Authority.
 - A joint committee constituted in accordance with section 102(1)(b) of the Local Government Act 1972 [^c22997831] for an area in England.
 - A London borough council.
-- The London Fire Commissioner[^key-8e5a9cd7bb3ad78806a19cfe9aa989cb].
+- The London Fire Commissioner[^c-8e5a9cd7bb3ad78806a19cfe9aa989cb].
 - A National Park authority established by an order under section 63 of the Environment Act 1995 [^c22997841] for an area in England.
 - A Passenger Transport Executive for an integrated transport area in England (within the meaning of Part 2 of the Transport Act 1968 [^c22997851]).
 - Transport for London.
@@ -567,23 +567,23 @@ The Welsh Authority (as defined by section 56(1) of the Broadcasting Act 1990 [^
 
 ### Regulators
 
-- The Building Safety Regulator.[^key-ca7bfc589b03f2ae59d9e10658f87d1d]
+- The Building Safety Regulator.[^c-ca7bfc589b03f2ae59d9e10658f87d1d]
 - The Disclosure and Barring Service.
 - The Gambling Commission.
-- [^key-eb50ba6bf911ed50e9be65c9f9e54928]...
+- [^c-eb50ba6bf911ed50e9be65c9f9e54928]...
 - The General Council of the Bar, in respect of its public functions.
 - The Health and Safety Executive.
 - The Law Society of England and Wales, in respect of its public functions.
 - The Office for Nuclear Regulation.
 - The Pensions Regulator.
-- The Regulator of Social Housing.[^key-19b4e628491ff9bfb87e6b35dc0e340d]
+- The Regulator of Social Housing.[^c-19b4e628491ff9bfb87e6b35dc0e340d]
 - The Security Industry Authority.
-- Social Work England. *(Extent: E+W)*[^key-2cfce665d4149d74582d7405d437ef28]
+- Social Work England. *(Extent: E+W)*[^c-2cfce665d4149d74582d7405d437ef28]
 
 ### Transport
 
 - High Speed Two (HS2) Limited [^c22997871].
-- A strategic highways company appointed under section 1 of the Infrastructure Act 2015[^key-70e307fd70308c8577cbf9f1fb7bd196].
+- A strategic highways company appointed under section 1 of the Infrastructure Act 2015[^c-70e307fd70308c8577cbf9f1fb7bd196].
 - Network Rail Limited [^c22997891].
 
 ## SCHEDULE 3 — Amendments to Schedule 19 of the Act
@@ -708,7 +708,7 @@ This instrument has no impact on the costs of business, charities or voluntary b
 
 [^c22997611]: Marginal citation: [Section 191(4)](https://www.legislation.gov.uk/uksi/2017/353/section/191/4) was amended by paragraph 34(2) and (3) of Schedule 1, and paragraph 1 of Schedule 2, to the [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24).
 
-[^key-4f0b4ab7d251ee60acc3808ea6c7b84b]: Textual amendment: Reg. 7 omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [121(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/121/2), [125(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/125/2)
+[^c-4f0b4ab7d251ee60acc3808ea6c7b84b]: Textual amendment: Reg. 7 omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [121(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/121/2), [125(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/125/2)
 
 [^c22997641]: Marginal citation: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1).
 
@@ -726,7 +726,7 @@ This instrument has no impact on the costs of business, charities or voluntary b
 
 [^c22997711]: Marginal citation: [1990 c. 42](https://www.legislation.gov.uk/ukpga/1990/42). Section 56(1) was amended by Schedule 19(1) of the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-10c38b706fa94238e6e01bd3cbea9f66]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2017/353/schedule/2) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 22](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/22); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-10c38b706fa94238e6e01bd3cbea9f66]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2017/353/schedule/2) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 22](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/22); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
 [^c22997721]: Marginal citation: [2007 c. 21](https://www.legislation.gov.uk/ukpga/2007/21).
 
@@ -736,25 +736,25 @@ This instrument has no impact on the costs of business, charities or voluntary b
 
 [^c22997751]: Marginal citation: Section 91(5) was amended, in relation to Wales, by paragraph 4 of the Schedule to the Higher Education (Wales) Act 2015 (anaw. 1.), which is not yet commenced.
 
-[^key-cbf1bfd207e13d7f17461a16e9319074]: Textual amendment: Words in Sch. 2 substituted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [42](https://www.legislation.gov.uk/uksi/2019/1027/regulation/42)
+[^c-cbf1bfd207e13d7f17461a16e9319074]: Textual amendment: Words in Sch. 2 substituted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [42](https://www.legislation.gov.uk/uksi/2019/1027/regulation/42)
 
 [^c22997761]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 19 was amended by section 3 of the [Children, Schools and Families Act 2010 (c. 26)](https://www.legislation.gov.uk/ukpga/2010/26). There are further, uncommenced, amendments to section 19 in paragraph 1 of Schedule 3, and paragraph 1 of Schedule 4 to that Act. Section 19 was also amended by section 101 of the Education and Inspections Act 2006; by section 47 of the [Education Act 1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44); and by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158) and 2007/1507.
 
-[^key-64cfd89c3146cf363036a77328e51c13]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-64cfd89c3146cf363036a77328e51c13]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
-[^key-830b6baf415552a0c87448d567b1c51f]: Textual amendment: Words in Sch. 2 omitted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/23) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+[^c-830b6baf415552a0c87448d567b1c51f]: Textual amendment: Words in Sch. 2 omitted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/23) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
 
-[^key-abcf2e6f49080a1629c99f94ce3b7af8]: Textual amendment: Words in Sch. 2 omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 56](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/56) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-abcf2e6f49080a1629c99f94ce3b7af8]: Textual amendment: Words in Sch. 2 omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 56](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/56) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-5d462ba14f6964d998dd8b86041ea886]: Textual amendment: Word in Sch. 2 omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [121(3)](https://www.legislation.gov.uk/uksi/2022/634/regulation/121/3)
+[^c-5d462ba14f6964d998dd8b86041ea886]: Textual amendment: Word in Sch. 2 omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [121(3)](https://www.legislation.gov.uk/uksi/2022/634/regulation/121/3)
 
 [^c22997781]: Marginal citation: Section 30 was amended by section 159(1) of the Health and Social Care Act 2012.
 
-[^key-7f2ea15e69479a9dbf15eb83642bee82]: Textual amendment: Words in Sch. 2 substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [91(2)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/91/2)
+[^c-7f2ea15e69479a9dbf15eb83642bee82]: Textual amendment: Words in Sch. 2 substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [91(2)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/91/2)
 
 [^c22997791]: Marginal citation: Section 28 was amended by paragraph 13 of Schedule 4 to the Health and Social Care Act 2012.
 
-[^key-0a0c4f8da42c760c71fbde77cd5c1db9]: Textual amendment: Words in Sch. 2 inserted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2024/706/regulation/32); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-0a0c4f8da42c760c71fbde77cd5c1db9]: Textual amendment: Words in Sch. 2 inserted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2024/706/regulation/32); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
 
 [^c22997801]: Marginal citation: [1985 c. 51](https://www.legislation.gov.uk/ukpga/1985/51).
 
@@ -762,11 +762,11 @@ This instrument has no impact on the costs of business, charities or voluntary b
 
 [^c22997821]: Marginal citation: Section 88 was amended by section 11(2) of the Cities, Local Government and Devolution Act 2016.
 
-[^key-eca9941301fb7d77becd3557767a7b73]: Textual amendment: Words in Sch. 2 inserted (E.) (1.10.2017) by [The Fire and Rescue Authority (Police and Crime Commissioner) (Application of Local Policing Provisions, Inspection, Powers to Trade and Consequential Amendments) Order 2017 (S.I. 2017/863)](https://www.legislation.gov.uk/uksi/2017/863), [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2017/863/schedule/2/paragraph/11/2)
+[^c-eca9941301fb7d77becd3557767a7b73]: Textual amendment: Words in Sch. 2 inserted (E.) (1.10.2017) by [The Fire and Rescue Authority (Police and Crime Commissioner) (Application of Local Policing Provisions, Inspection, Powers to Trade and Consequential Amendments) Order 2017 (S.I. 2017/863)](https://www.legislation.gov.uk/uksi/2017/863), [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2017/863/schedule/2/paragraph/11/2)
 
 [^c22997831]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70). There are amendments to the section, not relevant here.
 
-[^key-8e5a9cd7bb3ad78806a19cfe9aa989cb]: Textual amendment: Words in Sch. 2 substituted (E.) (1.4.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 20(2)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/20/2)
+[^c-8e5a9cd7bb3ad78806a19cfe9aa989cb]: Textual amendment: Words in Sch. 2 substituted (E.) (1.4.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 20(2)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/20/2)
 
 [^c22997841]: Marginal citation: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
 
@@ -774,17 +774,17 @@ This instrument has no impact on the costs of business, charities or voluntary b
 
 [^c22997861]: Marginal citation: [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13).
 
-[^key-ca7bfc589b03f2ae59d9e10658f87d1d]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2017/353/schedule/2) inserted (27.1.2026) by [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2026/20/schedule/1/paragraph/24) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))
+[^c-ca7bfc589b03f2ae59d9e10658f87d1d]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2017/353/schedule/2) inserted (27.1.2026) by [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2026/20/schedule/1/paragraph/24) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))
 
-[^key-eb50ba6bf911ed50e9be65c9f9e54928]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2017/353/schedule/2) omitted (7.4.2026) by virtue of [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2026/302/regulation/12)
+[^c-eb50ba6bf911ed50e9be65c9f9e54928]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2017/353/schedule/2) omitted (7.4.2026) by virtue of [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2026/302/regulation/12)
 
-[^key-19b4e628491ff9bfb87e6b35dc0e340d]: Textual amendment: Words in Sch. 2 inserted (1.10.2018) by [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 44](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/44) (with [Sch. paras. 48](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/48), [49](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/49))
+[^c-19b4e628491ff9bfb87e6b35dc0e340d]: Textual amendment: Words in Sch. 2 inserted (1.10.2018) by [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 44](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/44) (with [Sch. paras. 48](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/48), [49](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/49))
 
-[^key-2cfce665d4149d74582d7405d437ef28]: Textual amendment: Words in Sch. 2 inserted (E.) (2.12.2019) by [The Social Workers Regulations 2018 (S.I. 2018/893)](https://www.legislation.gov.uk/uksi/2018/893), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/893/regulation/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2018/893/regulation/46/2); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-2cfce665d4149d74582d7405d437ef28]: Textual amendment: Words in Sch. 2 inserted (E.) (2.12.2019) by [The Social Workers Regulations 2018 (S.I. 2018/893)](https://www.legislation.gov.uk/uksi/2018/893), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/893/regulation/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2018/893/regulation/46/2); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
 [^c22997871]: Marginal citation: A company formed and registered under the Companies Acts with the registration number 06791686.
 
-[^key-70e307fd70308c8577cbf9f1fb7bd196]: Textual amendment: Words in Sch. 2 substituted (12.7.2023) by [The Strategic Highways Company (Name Change and Consequential Amendments) Regulations 2023 (S.I. 2023/677)](https://www.legislation.gov.uk/uksi/2023/677), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/677/regulation/1/1), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2023/677/schedule/paragraph/4/2)
+[^c-70e307fd70308c8577cbf9f1fb7bd196]: Textual amendment: Words in Sch. 2 substituted (12.7.2023) by [The Strategic Highways Company (Name Change and Consequential Amendments) Regulations 2023 (S.I. 2023/677)](https://www.legislation.gov.uk/uksi/2023/677), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/677/regulation/1/1), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2023/677/schedule/paragraph/4/2)
 
 [^c22997891]: Marginal citation: A company formed and registered under the Companies Acts with the registration number 04402220.
 

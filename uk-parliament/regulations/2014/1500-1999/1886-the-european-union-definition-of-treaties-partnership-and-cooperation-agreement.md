@@ -32,7 +32,7 @@ summary: ''
 
 European Union
 
-The European Union (Definition of Treaties) (Partnership and Cooperation Agreement) (Vietnam) Order 2014 (revoked)[^key-d2c75d35c88333ddbc99754f966ba7d0]
+The European Union (Definition of Treaties) (Partnership and Cooperation Agreement) (Vietnam) Order 2014 (revoked)[^c-d2c75d35c88333ddbc99754f966ba7d0]
 
 Made
 
@@ -46,20 +46,20 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-d2c75d35c88333ddbc99754f966ba7d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d2c75d35c88333ddbc99754f966ba7d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-d2c75d35c88333ddbc99754f966ba7d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d2c75d35c88333ddbc99754f966ba7d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d2c75d35c88333ddbc99754f966ba7d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d2c75d35c88333ddbc99754f966ba7d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d2c75d35c88333ddbc99754f966ba7d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d2c75d35c88333ddbc99754f966ba7d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d2c75d35c88333ddbc99754f966ba7d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d2c75d35c88333ddbc99754f966ba7d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d2c75d35c88333ddbc99754f966ba7d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d2c75d35c88333ddbc99754f966ba7d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d2c75d35c88333ddbc99754f966ba7d0]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/1886) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d2c75d35c88333ddbc99754f966ba7d0]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/1886) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

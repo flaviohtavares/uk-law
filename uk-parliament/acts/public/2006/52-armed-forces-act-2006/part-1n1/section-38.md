@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Other prize offences[^key-4c15ce618a4eba5a06ec9025cb7d8311][^key-fc66dffd7d1279d5b2f1f5f43cce571a]
+## 38. Other prize offences[^c-4c15ce618a4eba5a06ec9025cb7d8311][^c-fc66dffd7d1279d5b2f1f5f43cce571a]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4c15ce618a4eba5a06ec9025cb7d8311]: Commencement: S. 38 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-4c15ce618a4eba5a06ec9025cb7d8311]: Commencement: S. 38 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-fc66dffd7d1279d5b2f1f5f43cce571a]: Commencement: S. 38 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-fc66dffd7d1279d5b2f1f5f43cce571a]: Commencement: S. 38 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

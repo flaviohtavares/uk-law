@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Special utility schemes[^key-3c6b8f1bffc0dcdc5cf7854f87888793]
+## 54. Special utility schemes[^c-3c6b8f1bffc0dcdc5cf7854f87888793]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c6b8f1bffc0dcdc5cf7854f87888793]: Commencement: Reg. 54 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-3c6b8f1bffc0dcdc5cf7854f87888793]: Commencement: Reg. 54 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)

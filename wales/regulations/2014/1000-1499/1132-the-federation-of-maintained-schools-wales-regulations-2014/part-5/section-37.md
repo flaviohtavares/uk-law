@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Resignation[^key-e28df7da40f28d0761ca7a819d059882]
+## 37. Resignation[^c-e28df7da40f28d0761ca7a819d059882]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e28df7da40f28d0761ca7a819d059882]: Commencement: Reg. 37 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-e28df7da40f28d0761ca7a819d059882]: Commencement: Reg. 37 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Performance of functions of Scottish Ministers by constables in Scotland[^key-6f980c285aaa541c029fb61d1c2505d7]
+## 70. Performance of functions of Scottish Ministers by constables in Scotland[^c-6f980c285aaa541c029fb61d1c2505d7]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f980c285aaa541c029fb61d1c2505d7]: Commencement: [Art. 70](https://www.legislation.gov.uk/uksi/2013/2605/article/70) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-6f980c285aaa541c029fb61d1c2505d7]: Commencement: [Art. 70](https://www.legislation.gov.uk/uksi/2013/2605/article/70) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)

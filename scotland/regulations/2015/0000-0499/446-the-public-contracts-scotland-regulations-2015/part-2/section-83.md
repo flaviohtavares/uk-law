@@ -41,11 +41,11 @@ summary: ''
 
 (3) To the extent that the contract award notice drawn up in accordance with regulation 51 (contract award notices) or 75(3) (publication of notices) contains the information required in this paragraph, a contracting authority may refer to that notice.
 
-(4)[^key-06f480d4db58d1e6d76c2898574233de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-06f480d4db58d1e6d76c2898574233de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) Where the Scottish Ministers so request, the report, or its main elements, must be communicated to the Scottish Ministers [^key-c10f1b52acbda0e981e8741dfbeb3450]....
+(5) Where the Scottish Ministers so request, the report, or its main elements, must be communicated to the Scottish Ministers [^c-c10f1b52acbda0e981e8741dfbeb3450]....
 
-(6)[^key-d8189c04b7fa7ded655064aa425adafa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-d8189c04b7fa7ded655064aa425adafa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) A contracting authority must document the progress of all procurement procedures, whether or not those are conducted by electronic means.
 
@@ -60,8 +60,8 @@ summary: ''
 
 ## Annotations
 
-[^key-06f480d4db58d1e6d76c2898574233de]: Textual amendment: [Reg. 83(4)](https://www.legislation.gov.uk/ssi/2015/446/regulation/83/4) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(56)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/56/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-06f480d4db58d1e6d76c2898574233de]: Textual amendment: [Reg. 83(4)](https://www.legislation.gov.uk/ssi/2015/446/regulation/83/4) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(56)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/56/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
-[^key-c10f1b52acbda0e981e8741dfbeb3450]: Textual amendment: Words in [reg. 83(5)](https://www.legislation.gov.uk/ssi/2015/446/regulation/83/5) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(56)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/56/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-c10f1b52acbda0e981e8741dfbeb3450]: Textual amendment: Words in [reg. 83(5)](https://www.legislation.gov.uk/ssi/2015/446/regulation/83/5) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(56)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/56/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
-[^key-d8189c04b7fa7ded655064aa425adafa]: Textual amendment: [Reg. 83(6)](https://www.legislation.gov.uk/ssi/2015/446/regulation/83/6) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(56)(c)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/56/c) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-d8189c04b7fa7ded655064aa425adafa]: Textual amendment: [Reg. 83(6)](https://www.legislation.gov.uk/ssi/2015/446/regulation/83/6) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(56)(c)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/56/c) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

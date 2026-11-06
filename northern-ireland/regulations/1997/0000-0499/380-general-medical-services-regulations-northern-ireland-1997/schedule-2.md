@@ -142,7 +142,7 @@ Annual reports
 
 Incorporation of provisions of Regulations etc
 
-### 1. Interpretation[^key-3139733e3819e66ad61b086538a284b2]
+### 1. Interpretation[^c-3139733e3819e66ad61b086538a284b2]
 
 In this Schedule—
 
@@ -159,14 +159,14 @@ In this Schedule—
 - “Scheduled drug” means a drug or other substance specified in Schedule 10 or, except where the conditions in paragraph 45(2) are satisfied, in Schedule 11;
 - “single-handed practice” means a practice in which only one doctor is engaged.
 
-### 2. General[^key-4410022a7b7df6a8beb47072c3d0a195]
+### 2. General[^c-4410022a7b7df6a8beb47072c3d0a195]
 
 Where a decision whether any, and if so what, action is to be taken under these terms of service requires the exercise of professional judgement, a doctor shall not, in reaching that decision, be expected to exercise a higher degree of skill, knowledge and care than—
 
 - (a) in the case of a doctor providing child health surveillance services under regulation 27, maternity medical services under regulation 34 or minor surgery services under regulation 36, that which any general practitioner whose name is included in the child health surveillance list, the obstetric list or, as the case may be, the minor surgery list may reasonably be expected to exercise; and
 - (b) in any other case, that which general practitioners as a class may reasonably be expected to exercise.
 
-### 3. A doctor’s patients[^key-b573c6162e716893b95df30b0c27a08b]
+### 3. A doctor’s patients[^c-b573c6162e716893b95df30b0c27a08b]
 
 (1) Subject to sub-paragraph (2) and to paragraphs 9, 10, 11 and 12, a doctor’s patients are—
 
@@ -217,13 +217,13 @@ he shall on request give that person any immediately necessary treatment until t
   - (ii) in the case of a doctor whose name is included in the obstetric list, maternity medical services; or
 - (b) the hospital concerned, or part of that hospital, is one in which patients are entitled to secure treatment by their own doctor, whether or not such doctor is a member of staff of that hospital.
 
-**4.**[^key-e7d5f64a87e48b5bbaf2dabe5ca3fc8f] A doctor who is elderly or infirm or who has been exempted by the Agency under regulation 20(5) from the liability to have persons assigned to him may be relieved by the Board of any liability to give treatment which is immediately required owing to an accident or other emergency between 7 pm on weekdays and 8 am on the following morning and between 1 pm on Saturday and 8 am on the following Monday to persons who are neither—
+**4.**[^c-e7d5f64a87e48b5bbaf2dabe5ca3fc8f] A doctor who is elderly or infirm or who has been exempted by the Agency under regulation 20(5) from the liability to have persons assigned to him may be relieved by the Board of any liability to give treatment which is immediately required owing to an accident or other emergency between 7 pm on weekdays and 8 am on the following morning and between 1 pm on Saturday and 8 am on the following Monday to persons who are neither—
 
 - (a) on his list; nor
 - (b) temporary residents for whom he is responsible; nor
 - (c) accepted for inclusion in his list for the provision of maternity medical services.
 
-### 5. Acceptance of patients[^key-7dbe50759033684ec4eb0da81baa632f]
+### 5. Acceptance of patients[^c-7dbe50759033684ec4eb0da81baa632f]
 
 (1) Subject to sub-paragraph (2), a doctor may agree to accept a person for inclusion in his list if the person is eligible to be so accepted by him.
 
@@ -236,20 +236,20 @@ he shall on request give that person any immediately necessary treatment until t
 
 (4) Where, for the purposes of sub-paragraph (3), any person signs a medical card or form of application on behalf of a doctor he shall, in addition to his own signature, specify the name of the doctor on whose behalf he is signing.
 
-**6.**[^key-3365f3cde89a2b5e38748c18b9933dbd] A doctor may—
+**6.**[^c-3365f3cde89a2b5e38748c18b9933dbd] A doctor may—
 
 - (a) undertake to provide contraceptive services to a woman who has applied to him in accordance with regulation 28;
 - (b) accept for inclusion in his list as a temporary resident a person who has applied to him in accordance with regulation 25(1);
 - (c) if his name is on the obstetric list, undertake to provide maternity medical services to a woman who has made an arrangement with him in accordance with regulation 34(2) or (3).
 
-**7.**[^key-227620ddd3e66afe093b8c7356823bc0] Notwithstanding that the person concerned is not on his list, a doctor may—
+**7.**[^c-227620ddd3e66afe093b8c7356823bc0] Notwithstanding that the person concerned is not on his list, a doctor may—
 
 - (a) take a cervical smear from a woman who would be eligible for acceptance by him for inclusion in his list as a temporary resident or for whom he has undertaken to provide maternity medical services or contraceptive services; and
 - (b) vaccinate or immunise a person who would be eligible for acceptance by him for inclusion in his list as a temporary resident.
 
-**8.**[^key-91d486f013b89b63f8251c0e7f7b9271] Where a doctor whose name is included in the obstetric list undertakes to provide maternity medical services required by a woman who applies to him in accordance with regulation 34(2) or (3), he shall advise the Board of the arrangement in such a form as it may require.
+**8.**[^c-91d486f013b89b63f8251c0e7f7b9271] Where a doctor whose name is included in the obstetric list undertakes to provide maternity medical services required by a woman who applies to him in accordance with regulation 34(2) or (3), he shall advise the Board of the arrangement in such a form as it may require.
 
-### 9. Termination of responsibility for patients[^key-e3671fdfe33bd4fe5594b8a8cc0adba1]
+### 9. Termination of responsibility for patients[^c-e3671fdfe33bd4fe5594b8a8cc0adba1]
 
 (1) Subject to paragraph 10, a doctor may have any person removed from his list and shall notify the Agency in writing that he wishes to have a person removed from his list and, subject to sub-paragraph (2), the removal shall take effect—
 
@@ -265,7 +265,7 @@ he shall on request give that person any immediately necessary treatment until t
 
 whichever is the sooner.
 
-**10.**[^key-d0d0e202ce4374265ffd2deecb1a619b] (1) Where—
+**10.**[^c-d0d0e202ce4374265ffd2deecb1a619b] (1) Where—
 
 - (a) a person on a doctor’s list has committed an act of violence against that doctor or has behaved in such a way that that doctor has feared for his safety; and
 - (b) that doctor has reported the incident to the police,
@@ -278,15 +278,15 @@ that doctor may notify the Agency that he wishes to have that person removed fro
 
 (4) Where, pursuant to this paragraph, a doctor has notified the Agency that he wishes to have a person’s name removed from his list with immediate effect, he shall take all reasonable steps to inform the person concerned.
 
-**11.**[^key-c1af2d3bca092154065866de642330d9] Where a doctor informs the Agency, in writing, that he wishes to terminate his responsibility for a temporary resident, his responsibility for that person shall cease in accordance with paragraph 9, as if the temporary resident were a person on his list.
+**11.**[^c-c1af2d3bca092154065866de642330d9] Where a doctor informs the Agency, in writing, that he wishes to terminate his responsibility for a temporary resident, his responsibility for that person shall cease in accordance with paragraph 9, as if the temporary resident were a person on his list.
 
-**12.**[^key-70453a78cad97bfe86664e10f11af255] (1) A doctor with whom an arrangement has been made for the provision of any or all of the maternity medical services mentioned in regulation 34(1)(*a*) may agree with the woman concerned to terminate the arrangement and, in default of agreement, the doctor may apply to the Board for permission to terminate the arrangement.
+**12.**[^c-70453a78cad97bfe86664e10f11af255] (1) A doctor with whom an arrangement has been made for the provision of any or all of the maternity medical services mentioned in regulation 34(1)(*a*) may agree with the woman concerned to terminate the arrangement and, in default of agreement, the doctor may apply to the Board for permission to terminate the arrangement.
 
 (2) On an application under sub-paragraph (1), the Board, after considering any representations made by either party and after consulting the Local Medical Committee, may terminate the arrangement.
 
 (3) Where a doctor ceases to provide any or all of the maternity medical services mentioned in regulation 34(1)(*a*), he shall inform any woman for whom he has arranged to provide such services that he is ceasing to provide them and that she may make a fresh arrangement to receive those services from another doctor.
 
-### 13. Services to patients[^key-4b20036889165cae4010ca9ebb422823]
+### 13. Services to patients[^c-4b20036889165cae4010ca9ebb422823]
 
 (1) Subject to paragraphs 2, 16 and 49, a doctor shall render to his patients all necessary and appropriate personal medical services of the type usually provided by general practitioners.
 
@@ -309,7 +309,7 @@ that doctor may notify the Agency that he wishes to have that person removed fro
 
 (6) The treatment referred to in sub-paragraph (4) shall be given whether or not the woman is able to produce evidence of her entitlement to maternity medical services.
 
-### 14. Provision of services to patients during and outside normal hours[^key-7c554839013832750a06a8a82d287660]
+### 14. Provision of services to patients during and outside normal hours[^c-7c554839013832750a06a8a82d287660]
 
 (1) In this paragraph, the services referred to in paragraph 13 are called the “relevant services”.
 
@@ -337,7 +337,7 @@ that doctor may notify the Agency that he wishes to have that person removed fro
 - (a) arranging for the referral of a patient pursuant to paragraph 13(2)(*d*) without first seeing the patient, in a case where the medical condition of the patient makes that course of action appropriate; or
 - (b) visiting the patient in circumstances where this paragraph does not place him under an obligation to do so.
 
-**15.**[^key-56af0085642289d752b71aea5c81633a] (1) Subject to sub-paragraph (2), unless prevented by an emergency, a doctor shall attend and treat any patient who attends for the purpose at any place, and during the hours, for the time being approved by the Board under paragraph 36.
+**15.**[^c-56af0085642289d752b71aea5c81633a] (1) Subject to sub-paragraph (2), unless prevented by an emergency, a doctor shall attend and treat any patient who attends for the purpose at any place, and during the hours, for the time being approved by the Board under paragraph 36.
 
 (2) Sub-paragraph (1) shall not apply to a patient who attends when an appointment system is in operation and who has not previously made, and is not then given, an appointment to see the doctor.
 
@@ -348,7 +348,7 @@ that doctor may notify the Agency that he wishes to have that person removed fro
 
 (4) A doctor shall take reasonable steps to ensure that no refusal is made pursuant to sub-paragraph (3) without his knowledge.
 
-### 16. Newly registered patients[^key-626ad6fdf751942981fe257e86c79e3d]
+### 16. Newly registered patients[^c-626ad6fdf751942981fe257e86c79e3d]
 
 (1) Subject to sub-paragraphs (4) to (10), where a patient has been accepted for inclusion in a doctor’s list under paragraph 5 or assigned to a doctor’s list under regulation 20, the doctor shall, in addition to and without prejudice to his other obligations in respect of that patient under these terms of service, within 28 days of the date of such acceptance or assignment, invite the patient to participate in a consultation either at his practice premises or, if the condition of the patient so warrants, at such other place as the doctor is obliged under paragraph 14(2)(*b*) to render personal medical services to that patient.
 
@@ -403,7 +403,7 @@ it shall send the doctor a statement in writing of the reasons for its determina
 
 (11) In this paragraph and paragraph 17, “body mass” means the figure produced by dividing the number of kilograms in the patient’s weight by the square of the number of metres in his height.
 
-### 17. Patients not seen within 3 years[^key-d7a814950de1816e5d9e3bd212c0fe06]
+### 17. Patients not seen within 3 years[^c-d7a814950de1816e5d9e3bd212c0fe06]
 
 (1) Subject to sub-paragraph (2), where a patient who—
 
@@ -429,7 +429,7 @@ requests a consultation for the purposes of assessing whether he needs personal 
 - (d) assess whether and, if so, in what manner and to what extent he should render personal medical services to the patient;
 - (e) in so far as it would not, in the opinion of the doctor, be likely to cause serious damage to the physical or mental health of the patient to do so, offer to discuss with the patient the conclusions the doctor has drawn as a result of the consultation as to the state of the patient’s health.
 
-### 18. Patients aged 75 years and over[^key-4ffebd608962da98b84aef37841cc88e]
+### 18. Patients aged 75 years and over[^c-4ffebd608962da98b84aef37841cc88e]
 
 (1) Subject to sub-paragraph (2), a doctor shall, in addition to and without prejudice to any other obligations under these terms of service, in each period of 12 months beginning on 1st April in each year—
 
@@ -459,13 +459,13 @@ for the purpose of assessing whether he needs to render personal medical service
 
 (8) Where a patient has participated in a consultation pursuant to sub-paragraph (1), the doctor shall offer to discuss with him the conclusions he has drawn, as a result of the consultation, as to the state of the patient’s health, unless to do so would, in the opinion of the doctor, be likely to cause serious harm to the physical or mental health of the patient.
 
-### 19. Transfer of responsibility, absences, deputies, assistants and partners[^key-b94715f6ac0ae87bac73e61398d3e3c4]
+### 19. Transfer of responsibility, absences, deputies, assistants and partners[^c-b94715f6ac0ae87bac73e61398d3e3c4]
 
 Subject to paragraph 20 a doctor is responsible for ensuring the provision for his patients of the services referred to in paragraph 13 throughout each day during which his name is included in the medical list.
 
 *Out of hours arrangements*
 
-**20.**[^key-65176d0572b12ef3050294c092c453d1] (1) In this paragraph and in paragraph 21—
+**20.**[^c-65176d0572b12ef3050294c092c453d1] (1) In this paragraph and in paragraph 21—
 
 - (a) “out of hours period” means—
   - (i) the period beginning at 7 pm on a weekday other than a Saturday and ending at 8 am on the following day;
@@ -523,7 +523,7 @@ and shall not refuse to grant approval without first consulting the Local Medica
 - (a) the transferee doctor may himself employ or engage an assistant or deputy in respect of part or all of the period covered by the out of hours arrangement; and if he does so, paragraph 23 shall apply as if he were the doctor for the purposes of that paragraph; and
 - (b) a transferee doctor shall not enter into any other out of hours arrangement in respect of the patients for whom he has accepted responsibility under this paragraph.
 
-**21.**[^key-ed026d1d8d362ffd38a58c8eb8868e44] (1) Subject to paragraph 22, where it appears to the Board that it may no longer be satisfied as to any of the matters referred to in heads (*a*) to (*d*) of paragraph 20(9), it may give notice in writing to the doctor that it proposes to review the approval.
+**21.**[^c-ed026d1d8d362ffd38a58c8eb8868e44] (1) Subject to paragraph 22, where it appears to the Board that it may no longer be satisfied as to any of the matters referred to in heads (*a*) to (*d*) of paragraph 20(9), it may give notice in writing to the doctor that it proposes to review the approval.
 
 (2) On any review under sub-paragraph (1), the Board shall allow the doctor a period of 30 days, beginning with and including the day on which it sent the notice, within which to make representations in writing to the Board.
 
@@ -537,7 +537,7 @@ and shall not refuse to grant approval without first consulting the Local Medica
 
 (7) Subject to paragraph 22(1), where the Board withdraws approval, the withdrawal shall not take effect until the end of the period of 2 months beginning with and including the date on which the notice referred to in sub-paragraph (4) was sent or where there is an appeal under sub-paragraph (6) and the appeal is dismissed, the date on which the doctor receives notice of the dismissal of the appeal, whichever is the later.
 
-**22.**[^key-1a1056e93bf57c7dfeabf2207c5c23f5] (1) Where it appears to the Board, whether after a review under paragraph 21 or not, that it is necessary in the interests of the doctor’s patients to withdraw its approval immediately, it may withdraw its approval.
+**22.**[^c-1a1056e93bf57c7dfeabf2207c5c23f5] (1) Where it appears to the Board, whether after a review under paragraph 21 or not, that it is necessary in the interests of the doctor’s patients to withdraw its approval immediately, it may withdraw its approval.
 
 (2) The Board shall give notice to the doctor of a determination under sub-paragraph (1) and shall include with the notice a statement of the reasons for its determination and of the doctor’s right of appeal under sub-paragraph (4).
 
@@ -545,7 +545,7 @@ and shall not refuse to grant approval without first consulting the Local Medica
 
 (4) A doctor may, within the period of 30 days beginning with and including the day on which the notice referred to in sub-paragraph (2) was received by him, appeal in writing to the Department against the withdrawal of approval and sub-paragraphs (12) and (13) of paragraph 20 shall apply to any such appeal.
 
-**23.**[^key-7bbe91170b2640f1d64bf7ec8ded159e] (1) Subject to sub-paragraphs (2) to (7), a doctor shall give treatment personally.
+**23.**[^c-7bbe91170b2640f1d64bf7ec8ded159e] (1) Subject to sub-paragraphs (2) to (7), a doctor shall give treatment personally.
 
 (2) Subject to sub-paragraphs (3), (5) and (6), and to any out of hours arrangements made under paragraph 20(2), a doctor (in this sub-paragraph referred to as “the patient’s doctor”) shall be under no obligation to give treatment personally to a patient provided that reasonable steps are taken to ensure the continuity of the patient’s treatment, and in those circumstances the treatment may be given—
 
@@ -568,7 +568,7 @@ and shall not refuse to grant approval without first consulting the Local Medica
 
 (7) In this paragraph “a summons to an obstetric emergency” means a summons to the doctor by a midwife or by or on behalf of the patient to attend when medical attention is required urgently by a woman or her baby during pregnancy, labour or the post-natal period.
 
-**24.**[^key-0c1204d54e549c9de20533316ea7172e] (1) In relation to his obligations under these terms of service, a doctor is responsible for all acts and omissions of—
+**24.**[^c-0c1204d54e549c9de20533316ea7172e] (1) In relation to his obligations under these terms of service, a doctor is responsible for all acts and omissions of—
 
 - (a) any doctor acting as his deputy;
 - (b) any organisation providing deputy doctors as mentioned in paragraph 26 with which he has entered into an arrangement in accordance with that paragraph while acting on his behalf; and
@@ -583,14 +583,14 @@ except where the act or omission is one for which a deputy is responsible under 
 
 (3) A deputy, including a partner acting as a deputy, or an assistant whose name is included in the obstetric list shall be responsible for his own acts and omissions.
 
-**25.**[^key-d62763f370f89ed958406ae6a077c0b9] (1) A doctor shall inform the Board of the arrangements for the engagement of a deputy on a regular basis unless the deputy—
+**25.**[^c-d62763f370f89ed958406ae6a077c0b9] (1) A doctor shall inform the Board of the arrangements for the engagement of a deputy on a regular basis unless the deputy—
 
 - (a) is an assistant of the doctor, or is a doctor whose name is included in the medical list; and
 - (b) is to carry out the arrangements at the doctor’s premises.
 
 (2) Where the doctor proposes to be absent from his practice for more than 14 days, he shall inform the Board of the name of any doctor responsible for his practice during his absence.
 
-**26.**[^key-ffb4953ab9bfb4219ff04d000288a4a8] (1) In this paragraph, “organisation providing deputy doctors” means a person who provides deputies to doctors and includes a body which—
+**26.**[^c-ffb4953ab9bfb4219ff04d000288a4a8] (1) In this paragraph, “organisation providing deputy doctors” means a person who provides deputies to doctors and includes a body which—
 
 - (a) consists only of doctors whose names are included in the medical list and who arrange to act as deputies to each other; and
 - (b) keeps separate accounts in relation to such arrangements.
@@ -639,18 +639,18 @@ except where the act or omission is one for which a deputy is responsible under 
 
 it may give notice to the doctor requiring him to bring his arrangement with that organisation to an end either immediately or before such date as is stated in the notice.
 
-**27.**[^key-de54b6712c7e288df552da4f3ebf2ad8] A doctor shall not engage another doctor as a deputy, or employ one as an assistant, unless the other doctor—
+**27.**[^c-de54b6712c7e288df552da4f3ebf2ad8] A doctor shall not engage another doctor as a deputy, or employ one as an assistant, unless the other doctor—
 
 - (a) is suitably experienced within the meaning of Article 8 of the Health and Personal Social Services (Northern Ireland) Order 1978 (other than by virtue of being a restricted services principal); or
 - (b) has the acquired right specified in regulation 5(1)(*d*) of the Vocational Training for General Medical Practice (European Requirements) Regulations 1994; or
 - (c) is a trainee general practitioner acting in the place of and under the supervision of the doctor responsible for his training.
 
-**28.**[^key-050906e055ae32894171f6184e811706] A doctor shall not engage as a deputy or employ as an assistant any doctor—
+**28.**[^c-050906e055ae32894171f6184e811706] A doctor shall not engage as a deputy or employ as an assistant any doctor—
 
 - (a) who, having been disqualified under paragraph 3(*b*) of Schedule 11 to the Order (or under any corresponding provision in operation in England and Wales or Scotland) from inclusion of his name in the medical list (or, in England and Wales, the medical list of a Health Authority or, in Scotland, the medical list of a Health Board), is also the subject of a declaration under paragraph 3(*c*) of Schedule 11 to the Order (or any corresponding provision in operation in England and Wales or Scotland) that he is not fit to be engaged in any capacity in the provision of general medical services; or
 - (b) who is suspended by direction of the Tribunal, other than in a case falling within paragraph 8B(3) of Schedule 11 to the Order.
 
-**29.**[^key-24d4135a23d38e14129c0f9c1cd75cdf] (1) A doctor shall—
+**29.**[^c-24d4135a23d38e14129c0f9c1cd75cdf] (1) A doctor shall—
 
 - (a) inform the Board of the name of any assistant he employs and of the termination of such employment;
 - (b) on request, furnish on a form supplied by the Board any information in connection with the employment notified to the Board in head (*a*) which may be required by the Agency for the purposes of the Health and Personal Social Services (Superannuation) Regulations (Northern Ireland) 1995[^f00042];
@@ -662,17 +662,17 @@ it may give notice to the doctor requiring him to bring his arrangement with tha
 
 (4) Any withdrawal of consent under this paragraph shall not have any effect until the expiration of a period of one month after the date of notification of the withdrawal, but if the doctor appeals to the Department against the withdrawal and the Department dismisses the appeal, the withdrawal shall not take effect until after such date as the Department determines being a date falling not less than one month after the date of the dismissal of the appeal.
 
-**30.**[^key-0e9d6f047d9d1c097db0ff843f614c5b] (1) A doctor acting as a deputy shall be entitled to treat patients at places and at times other than those arranged by the doctor for whom he is acting, due regard being had to the convenience of the patients.
+**30.**[^c-0e9d6f047d9d1c097db0ff843f614c5b] (1) A doctor acting as a deputy shall be entitled to treat patients at places and at times other than those arranged by the doctor for whom he is acting, due regard being had to the convenience of the patients.
 
 (2) A doctor acting as a deputy for another doctor may not treat the other doctor’s patients at any place approved under paragraph 36 unless it is so approved for the availability of that other doctor.
 
-**31.**[^key-0aebb0de0073eaef35e1e4012fb26e66] When issuing any document under these terms of service, a deputy or assistant (other than a partner or assistant whose name is included in the medical list) shall, as well as signing the document himself, enter on it the name of the doctor for whom he is acting, if it does not already appear.
+**31.**[^c-0aebb0de0073eaef35e1e4012fb26e66] When issuing any document under these terms of service, a deputy or assistant (other than a partner or assistant whose name is included in the medical list) shall, as well as signing the document himself, enter on it the name of the doctor for whom he is acting, if it does not already appear.
 
-### 32. Practice Premises[^key-8908785cd324ef322b598d5227a90746]
+### 32. Practice Premises[^c-8908785cd324ef322b598d5227a90746]
 
 A doctor shall not, except with the approval of the Board, provide general medical services in premises occupied by a chemist.
 
-### 33. Arrangements at practice premises[^key-e051cb16b8d7dbecf63b5979706030b0]
+### 33. Arrangements at practice premises[^c-e051cb16b8d7dbecf63b5979706030b0]
 
 A doctor shall—
 
@@ -681,7 +681,7 @@ A doctor shall—
   - (ii) at any other premises at which the Board, in accordance with paragraph 36, has agreed he may treat his patients; and
 - (b) on receipt of a written request from the Board, allow inspection of those premises at a reasonable time by a member or officer of the Board or Local Medical Committee or both, authorised by the Board for the purpose.
 
-**34.**[^key-788124307f037e7902fbe591199980c5] A doctor who—
+**34.**[^c-788124307f037e7902fbe591199980c5] A doctor who—
 
 - (a) intends to operate an appointments system;
 - (b) succeeds to a practice where such a system is in operation; or
@@ -689,7 +689,7 @@ A doctor shall—
 
 shall notify the Board of any appointments system which he proposes to operate or, as the case may be, of any proposal to discontinue such a system.
 
-### 35. Employees[^key-8cd96383ad9f3dce322bc2ceba437f51]
+### 35. Employees[^c-8cd96383ad9f3dce322bc2ceba437f51]
 
 (1) A doctor shall, before employing any person to assist him in the provision of general medical services, take reasonable care to satisfy himself that the person in question is both suitably qualified and competent to discharge the duties for which he is to be employed.
 
@@ -703,7 +703,7 @@ shall notify the Board of any appointments system which he proposes to operate o
 
 (4) A doctor shall afford to each employee reasonable opportunities to undertake appropriate training with a view to maintaining that employee’s competence.
 
-### 36. Doctors' availability to patients[^key-b2fffcc5ed6f6b7603fd5c9ea2eb94b4]
+### 36. Doctors' availability to patients[^c-b2fffcc5ed6f6b7603fd5c9ea2eb94b4]
 
 (1) Any doctor whose name is included in the medical list shall—
 
@@ -807,7 +807,7 @@ and the allocation of hours as so revised shall be regarded as having been appro
 
 (26) A Board shall not undertake a review under sub-paragraph (19) on more than one occasion in any period of 2 years.
 
-### 37. Availability to patients outside normal hours[^key-52b7381da5451acbd2510852ef147a3d]
+### 37. Availability to patients outside normal hours[^c-52b7381da5451acbd2510852ef147a3d]
 
 (1) Subject to the provisions of this paragraph, a doctor may apply to the Board for approval to treat patients at premises other than his practice premises outside the hours for which he is normally available pursuant to paragraph 36 (in this paragraph referred to as “normal hours”).
 
@@ -840,7 +840,7 @@ the premises to which the application relates are likely to be reasonably conven
 
 (11) A doctor may, within the period of 30 days beginning with and including the date on which he receives the notice referred to in sub-paragraph (10), appeal in writing to the Department against the withdrawal of approval or against any condition imposed pursuant to sub-paragraph (9); and sub-paragraphs (14) and (15) of paragraph 36 shall apply to any such appeal as they apply to an appeal under that paragraph.
 
-### 38. Doctors available for only 4 days a week[^key-d4226795e7c00a2db35dc87a874fe078]
+### 38. Doctors available for only 4 days a week[^c-d4226795e7c00a2db35dc87a874fe078]
 
 (1) Subject to sub-paragraph (3), where the Board is satisfied that, by reason of a doctor’s participation in health-related activities (other than the provision of general medical services to his patients), he would be likely to suffer an unreasonable degree of inconvenience if paragraph 36(2)(*a*)(iii) applied in his case, it may give its approval for the doctor normally to be available on only 4 days in any week referred to in sub-paragraph (2)(*a*) of that paragraph.
 
@@ -860,7 +860,7 @@ and, in determining whether any activity is a health-related activity, the Board
 
 by reason of the doctor having been relieved from the requirements of paragraph 36(2)(*a*)(iii).
 
-### 39. Practice area[^key-55f401fc8c396ed9e6ed1839163d17fc]
+### 39. Practice area[^c-55f401fc8c396ed9e6ed1839163d17fc]
 
 (1) Subject to sub-paragraph (3), a doctor may at any time with the consent of the Board alter the extent of his practice area.
 
@@ -872,11 +872,11 @@ by reason of the doctor having been relieved from the requirements of paragraph 
 
 (5) A doctor shall not open practice premises in any area or part of an area where, at the time of his application to open such premises, the Board is of the opinion that the number of medical practitioners undertaking to provide general medical services in that area or part of that area is already adequate.
 
-### 40. Notification of change of place of residence[^key-bca3c7baa100fbf5381a062e7a3ba2ce]
+### 40. Notification of change of place of residence[^c-bca3c7baa100fbf5381a062e7a3ba2ce]
 
 Where a doctor whose name is included in the medical list changes his place of residence, he shall notify the Board in writing of the change not later than 28 days after such change.
 
-### 41. Records[^key-0ab6173f22066edf6f461f5e6b63bc22]
+### 41. Records[^c-0ab6173f22066edf6f461f5e6b63bc22]
 
 A doctor shall—
 
@@ -886,7 +886,7 @@ A doctor shall—
 - (d) upon the termination in accordance with regulation 34(6) or (7) of arrangements between him and a woman for the provision of maternity medical services, forward to the relevant Board the medical records of the patient concerned; and
 - (e) within 14 days of being informed by the Agency of the death of a person on his list and, in any other case of the death of such a person, not later than one month of learning of such a death, forward the records relating to that person to the Agency.
 
-### 42. Certification[^key-9a55e15299c63fa0d25a163a523a8952]
+### 42. Certification[^c-9a55e15299c63fa0d25a163a523a8952]
 
 (1) A doctor shall issue free of charge to a patient or his personal representatives, any medical certificate of a description mentioned in column 1 of Schedule 9, which is reasonably required under or for the purposes of the statutory provisions specified in column 2 of that Schedule, except where, for the condition to which the certificate relates, the patient—
 
@@ -897,7 +897,7 @@ A doctor shall—
 
 (3) Any certificate under sub-paragraph (1) for the purposes of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00045] or the Social Security Administration (Northern Ireland) Act 1992[^f00046] shall be issued in accordance with any Regulations made under either of those Acts.
 
-### 43. Fees[^key-1930508c48091afafd93b6d6397329f7]
+### 43. Fees[^c-1930508c48091afafd93b6d6397329f7]
 
 A doctor shall not, otherwise than under or by virtue of these Regulations, demand or accept a fee or other remuneration for any treatment, including child health surveillance services, contraceptive services, maternity medical services and minor surgery services, whether under these terms of service or not, which he gives to a person for whose treatment he is responsible under paragraph 3, except—
 
@@ -921,17 +921,17 @@ A doctor shall not, otherwise than under or by virtue of these Regulations, dema
 - (n) for prescribing or providing drugs for malaria chemoprophylaxis;
 - (o) from a partner or assistant in respect of the provision of an anaesthetic to a patient of the partner or assistant.
 
-**44.**[^key-a2f0514846f1531bc29118fb31be5a8f] (1) Where a person from whom a doctor received a fee under paragraph 43(*e*) applies to the Agency for a refund within 14 days of payment of the fee (or such longer period, not exceeding one month, as the Agency may allow if it is satisfied that the failure to apply within 14 days was reasonable) and the Agency is satisfied that the person was on the doctor’s list when the treatment was given, the Agency may recover the amount of the fee from the doctor, by deduction from his remuneration or otherwise, and shall pay that amount to the person who paid the fee.
+**44.**[^c-a2f0514846f1531bc29118fb31be5a8f] (1) Where a person from whom a doctor received a fee under paragraph 43(*e*) applies to the Agency for a refund within 14 days of payment of the fee (or such longer period, not exceeding one month, as the Agency may allow if it is satisfied that the failure to apply within 14 days was reasonable) and the Agency is satisfied that the person was on the doctor’s list when the treatment was given, the Agency may recover the amount of the fee from the doctor, by deduction from his remuneration or otherwise, and shall pay that amount to the person who paid the fee.
 
 (2) Where a doctor has supplied any drug or appliance in respect of which, in the case of a person on his list, he would have been entitled to payment, the Agency shall credit him with the appropriate amount.
 
-**45.**[^key-13329b93b172f4c397d21991404fc59e] Subject to sub-paragraphs (*f*), (*j*) and (*o*) of paragraph 43, a doctor shall not demand or accept a fee or other remuneration from a patient of his for any prescription for any drug or appliance.
+**45.**[^c-13329b93b172f4c397d21991404fc59e] Subject to sub-paragraphs (*f*), (*j*) and (*o*) of paragraph 43, a doctor shall not demand or accept a fee or other remuneration from a patient of his for any prescription for any drug or appliance.
 
-**46.**[^key-e13b481ad8e6ff5ad744a9a21465b35b] A doctor shall not, without reasonable excuse, demand or accept from a Board or the Agency any fee or other remuneration to which he is not entitled under these Regulations, the Statement published under regulation 37 or the Drug Tariff.
+**46.**[^c-e13b481ad8e6ff5ad744a9a21465b35b] A doctor shall not, without reasonable excuse, demand or accept from a Board or the Agency any fee or other remuneration to which he is not entitled under these Regulations, the Statement published under regulation 37 or the Drug Tariff.
 
-**47.**[^key-e66c77562e4a56d6306fb3a59e32ba2c] A doctor shall take all practicable steps to ensure that any partner, deputy or assistant of his, whether or not the partner, deputy or assistant is providing general medical services, shall not demand or accept any fee or other remuneration for treatment given to the doctor’s patients, or for any prescription for any supply of any drug or appliance for the doctor’s patients, unless the partner, deputy or assistant would have been entitled to demand or accept such fee or other remuneration if the patient had been on his own list.
+**47.**[^c-e66c77562e4a56d6306fb3a59e32ba2c] A doctor shall take all practicable steps to ensure that any partner, deputy or assistant of his, whether or not the partner, deputy or assistant is providing general medical services, shall not demand or accept any fee or other remuneration for treatment given to the doctor’s patients, or for any prescription for any supply of any drug or appliance for the doctor’s patients, unless the partner, deputy or assistant would have been entitled to demand or accept such fee or other remuneration if the patient had been on his own list.
 
-### 48. Prescribing[^key-ea824a7efbadb3ef195fa06506891f5a]
+### 48. Prescribing[^c-ea824a7efbadb3ef195fa06506891f5a]
 
 (1) Subject to paragraph 49, a doctor shall order any drugs or appliances which are needed for the treatment of any patient to whom he is providing treatment under these terms of service by issuing to that patient a prescription form, and such a form shall not be used in any other circumstances.
 
@@ -954,7 +954,7 @@ A doctor shall not, otherwise than under or by virtue of these Regulations, dema
 - (b) that drug is not a controlled drug within the meaning of the Misuse of Drugs Act 1971[^f00053] other than a drug which is for the time being specified in Schedule 5 to the Misuse of Drugs Regulations (Northern Ireland) 1986; and
 - (c) the doctor undertakes to furnish the chemist, within 72 hours, with a prescription form completed in accordance with sub-paragraph (2).
 
-**49.**[^key-6e895b14771b98ecb295dc61484fcc2d] (1) In the course of treating a patient to whom he is providing treatment under these terms of service, a doctor shall not order on a prescription form a drug or other substance specified in Schedule 10 but may otherwise prescribe such a drug or other substance for that patient in the course of treatment.
+**49.**[^c-6e895b14771b98ecb295dc61484fcc2d] (1) In the course of treating a patient to whom he is providing treatment under these terms of service, a doctor shall not order on a prescription form a drug or other substance specified in Schedule 10 but may otherwise prescribe such a drug or other substance for that patient in the course of treatment.
 
 (2) In the course of treating such a patient a doctor shall not order on a prescription form a drug specified in an entry in column 1 of Schedule 11 unless—
 
@@ -964,9 +964,9 @@ A doctor shall not, otherwise than under or by virtue of these Regulations, dema
 
 but may otherwise prescribe such a drug for that patient in the course of that treatment.
 
-**50.**[^key-23927a05469bcf2304c259bfa7f7a058] For the purposes of paragraphs 48 and 49 in their application to a doctor who has undertaken to provide contraceptive services, “drugs” includes contraceptive substances and “appliances” includes contraceptive appliances.
+**50.**[^c-23927a05469bcf2304c259bfa7f7a058] For the purposes of paragraphs 48 and 49 in their application to a doctor who has undertaken to provide contraceptive services, “drugs” includes contraceptive substances and “appliances” includes contraceptive appliances.
 
-### 51. Practice leaflet[^key-80b21bf92571a5738395c3661e6c2fc9]
+### 51. Practice leaflet[^c-80b21bf92571a5738395c3661e6c2fc9]
 
 (1) Subject to paragraph (2), a doctor whose name is included in the medical list shall compile, in relation to his practice, a document (in this paragraph called a “practice leaflet”) which shall include the information specified in Schedule 12.
 
@@ -978,7 +978,7 @@ but may otherwise prescribe such a drug for that patient in the course of that t
 
 (5) A doctor who practises in partnership with other doctors whose names are included in the medical list, shall satisfy the requirements of this paragraph if he makes available a practice leaflet, compiled in accordance with sub-paragraph (1) and, where appropriate, amended in accordance with sub-paragraph (3), which relates to the partnership as a whole; and in such a case a doctor may, if he so wishes, also produce a practice leaflet relating to his own activities.
 
-### 52. Complaints[^key-35efd2d05cdeda8a4b7872626adf3a35]
+### 52. Complaints[^c-35efd2d05cdeda8a4b7872626adf3a35]
 
 (1) Subject to sub-paragraph (2), a doctor shall establish, and operate in accordance with this paragraph, a procedure (in this paragraph and in paragraph 53 referred to as a “practice based complaints procedure”) to deal with any complaints made by or on behalf of his patients and former patients.
 
@@ -1017,7 +1017,7 @@ and in this paragraph and paragraph 53, references to complaints are to complain
 
 (7) A doctor shall inform his patients about the practice based complaints procedure which he operates and the name (or title) of the person specified under sub-paragraph (6)(*a*).
 
-**53.**[^key-c1eccfd20d0c207995cb73ef6c59c0df] (1) A doctor shall co-operate with any investigation of a complaint by the Board in accordance with the procedures which it operates in accordance with directions given under Article 17(1) of the Order, whether the investigation follows a complaint under the practice based complaints procedure or not.
+**53.**[^c-c1eccfd20d0c207995cb73ef6c59c0df] (1) A doctor shall co-operate with any investigation of a complaint by the Board in accordance with the procedures which it operates in accordance with directions given under Article 17(1) of the Order, whether the investigation follows a complaint under the practice based complaints procedure or not.
 
 (2) The co-operation required by sub-paragraph (1) includes—
 
@@ -1025,14 +1025,14 @@ and in this paragraph and paragraph 53, references to complaints are to complain
 - (b) providing any information relating to the complaint reasonably required by the Board; and
 - (c) attending any meeting to consider the complaint (if held at a reasonably accessible place and at a reasonable hour, and of which due notice has been given), if the doctor’s presence at the meeting is reasonably required by the Board.
 
-### 54. Reports to medical officer of the Department[^key-77653e44d1fcd99ba2224cf8a0d4b88c]
+### 54. Reports to medical officer of the Department[^c-77653e44d1fcd99ba2224cf8a0d4b88c]
 
 A doctor shall—
 
 - (a) supply in writing to a medical officer of the Department within such reasonable period as that officer may specify, any relevant clinical information which he requests about a patient to whom the doctor under these terms of service has issued or has refused to issue a medical certificate;
 - (b) answer any inquiries by a medical officer of the Department about a medical certificate issued by the doctor under these terms of service or about any statement which the doctor has made in a report under these terms of service.
 
-### 55. Inquiries about prescriptions and referrals[^key-ce3499804fd3d50bf2882e61435246c0]
+### 55. Inquiries about prescriptions and referrals[^c-ce3499804fd3d50bf2882e61435246c0]
 
 (1) A doctor whose name is included in the medical list shall, subject to sub-paragraphs (2) and (3), sufficiently answer any inquiries, whether oral or in writing, from the Board concerning—
 
@@ -1045,7 +1045,7 @@ A doctor shall—
 
 (3) A doctor shall not be obliged to answer any inquiry referred to in sub-paragraph (1) unless it is made by a doctor appointed under regulation 42 who produces, on request, written evidence that he is authorised by the Board to make such an inquiry on behalf of the Board.
 
-### 56. Annual reports[^key-e1aeb97f487ed2b82b17e93e0d499b03]
+### 56. Annual reports[^c-e1aeb97f487ed2b82b17e93e0d499b03]
 
 (1) A doctor whose name is included in the medical list shall provide annually to the Board a report, in accordance with this paragraph, relating to the provision by him of personal medical services (in this paragraph called an “annual report”).
 
@@ -1063,7 +1063,7 @@ A doctor shall—
 
 (6) The Board shall not disclose any annual report to any person, unless otherwise lawfully empowered to do so.
 
-### 57. Incorporation of provisions of regulations etc.[^key-b03d36894d34972c94e260bbfcca359e]
+### 57. Incorporation of provisions of regulations etc.[^c-b03d36894d34972c94e260bbfcca359e]
 
 (1) Any provision of the following affecting the rights and obligations of doctors shall be deemed to form part of the terms of service—
 
@@ -1082,101 +1082,101 @@ A doctor shall—
 
 ## Annotations
 
-[^key-3139733e3819e66ad61b086538a284b2]: Commencement: Sch. 2 para. 1 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-3139733e3819e66ad61b086538a284b2]: Commencement: Sch. 2 para. 1 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
 [^f00038]: Footnote: Article 63 was amended by Article 14 of [S.I. 1978/1907 (N.I. 26)](https://www.legislation.gov.uk/nisi/1978/1907), Article 5(1) of [S.I. 1986/2023 (N.I. 20)](https://www.legislation.gov.uk/nisi/1986/2023), Article 31 of [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194) and Article 3 of [S.I. 1992/2671 (N.I. 18)](https://www.legislation.gov.uk/nisi/1992/2671)
 
-[^key-4410022a7b7df6a8beb47072c3d0a195]: Commencement: Sch. 2 para. 2 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-4410022a7b7df6a8beb47072c3d0a195]: Commencement: Sch. 2 para. 2 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-b573c6162e716893b95df30b0c27a08b]: Commencement: Sch. 2 para. 3 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-b573c6162e716893b95df30b0c27a08b]: Commencement: Sch. 2 para. 3 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-e7d5f64a87e48b5bbaf2dabe5ca3fc8f]: Commencement: Sch. 2 para. 4 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-e7d5f64a87e48b5bbaf2dabe5ca3fc8f]: Commencement: Sch. 2 para. 4 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-7dbe50759033684ec4eb0da81baa632f]: Commencement: Sch. 2 para. 5 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-7dbe50759033684ec4eb0da81baa632f]: Commencement: Sch. 2 para. 5 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-3365f3cde89a2b5e38748c18b9933dbd]: Commencement: Sch. 2 para. 6 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-3365f3cde89a2b5e38748c18b9933dbd]: Commencement: Sch. 2 para. 6 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-227620ddd3e66afe093b8c7356823bc0]: Commencement: Sch. 2 para. 7 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-227620ddd3e66afe093b8c7356823bc0]: Commencement: Sch. 2 para. 7 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-91d486f013b89b63f8251c0e7f7b9271]: Commencement: Sch. 2 para. 8 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-91d486f013b89b63f8251c0e7f7b9271]: Commencement: Sch. 2 para. 8 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-e3671fdfe33bd4fe5594b8a8cc0adba1]: Commencement: Sch. 2 para. 9 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-e3671fdfe33bd4fe5594b8a8cc0adba1]: Commencement: Sch. 2 para. 9 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-d0d0e202ce4374265ffd2deecb1a619b]: Commencement: Sch. 2 para. 10 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-d0d0e202ce4374265ffd2deecb1a619b]: Commencement: Sch. 2 para. 10 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-c1af2d3bca092154065866de642330d9]: Commencement: Sch. 2 para. 11 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-c1af2d3bca092154065866de642330d9]: Commencement: Sch. 2 para. 11 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-70453a78cad97bfe86664e10f11af255]: Commencement: Sch. 2 para. 12 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-70453a78cad97bfe86664e10f11af255]: Commencement: Sch. 2 para. 12 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-4b20036889165cae4010ca9ebb422823]: Commencement: Sch. 2 para. 13 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-4b20036889165cae4010ca9ebb422823]: Commencement: Sch. 2 para. 13 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-7c554839013832750a06a8a82d287660]: Commencement: Sch. 2 para. 14 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-7c554839013832750a06a8a82d287660]: Commencement: Sch. 2 para. 14 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-56af0085642289d752b71aea5c81633a]: Commencement: Sch. 2 para. 15 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-56af0085642289d752b71aea5c81633a]: Commencement: Sch. 2 para. 15 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-626ad6fdf751942981fe257e86c79e3d]: Commencement: Sch. 2 para. 16 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-626ad6fdf751942981fe257e86c79e3d]: Commencement: Sch. 2 para. 16 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-d7a814950de1816e5d9e3bd212c0fe06]: Commencement: Sch. 2 para. 17 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-d7a814950de1816e5d9e3bd212c0fe06]: Commencement: Sch. 2 para. 17 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-4ffebd608962da98b84aef37841cc88e]: Commencement: Sch. 2 para. 18 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-4ffebd608962da98b84aef37841cc88e]: Commencement: Sch. 2 para. 18 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-b94715f6ac0ae87bac73e61398d3e3c4]: Commencement: Sch. 2 para. 19 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-b94715f6ac0ae87bac73e61398d3e3c4]: Commencement: Sch. 2 para. 19 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-65176d0572b12ef3050294c092c453d1]: Commencement: Sch. 2 para. 20 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-65176d0572b12ef3050294c092c453d1]: Commencement: Sch. 2 para. 20 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
 [^f00039]: Footnote: [S.R. 1995 No. 493](https://www.legislation.gov.uk/nisr/1995/493)
 
 [^f00040]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54)
 
-[^key-ed026d1d8d362ffd38a58c8eb8868e44]: Commencement: Sch. 2 para. 21 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-ed026d1d8d362ffd38a58c8eb8868e44]: Commencement: Sch. 2 para. 21 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-1a1056e93bf57c7dfeabf2207c5c23f5]: Commencement: Sch. 2 para. 22 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-1a1056e93bf57c7dfeabf2207c5c23f5]: Commencement: Sch. 2 para. 22 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-7bbe91170b2640f1d64bf7ec8ded159e]: Commencement: Sch. 2 para. 23 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-7bbe91170b2640f1d64bf7ec8ded159e]: Commencement: Sch. 2 para. 23 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-0c1204d54e549c9de20533316ea7172e]: Commencement: Sch. 2 para. 24 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-0c1204d54e549c9de20533316ea7172e]: Commencement: Sch. 2 para. 24 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-d62763f370f89ed958406ae6a077c0b9]: Commencement: Sch. 2 para. 25 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-d62763f370f89ed958406ae6a077c0b9]: Commencement: Sch. 2 para. 25 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-ffb4953ab9bfb4219ff04d000288a4a8]: Commencement: Sch. 2 para. 26 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-ffb4953ab9bfb4219ff04d000288a4a8]: Commencement: Sch. 2 para. 26 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
 [^f00041]: Footnote: [S.I. 1994/3130](https://www.legislation.gov.uk/uksi/1994/3130)
 
-[^key-de54b6712c7e288df552da4f3ebf2ad8]: Commencement: Sch. 2 para. 27 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-de54b6712c7e288df552da4f3ebf2ad8]: Commencement: Sch. 2 para. 27 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-050906e055ae32894171f6184e811706]: Commencement: Sch. 2 para. 28 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-050906e055ae32894171f6184e811706]: Commencement: Sch. 2 para. 28 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-24d4135a23d38e14129c0f9c1cd75cdf]: Commencement: Sch. 2 para. 29 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-24d4135a23d38e14129c0f9c1cd75cdf]: Commencement: Sch. 2 para. 29 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
 [^f00042]: Footnote: [S.R. 1995 No. 95](https://www.legislation.gov.uk/nisr/1995/95)
 
-[^key-0e9d6f047d9d1c097db0ff843f614c5b]: Commencement: Sch. 2 para. 30 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-0e9d6f047d9d1c097db0ff843f614c5b]: Commencement: Sch. 2 para. 30 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-0aebb0de0073eaef35e1e4012fb26e66]: Commencement: Sch. 2 para. 31 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-0aebb0de0073eaef35e1e4012fb26e66]: Commencement: Sch. 2 para. 31 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-8908785cd324ef322b598d5227a90746]: Commencement: Sch. 2 para. 32 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-8908785cd324ef322b598d5227a90746]: Commencement: Sch. 2 para. 32 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-e051cb16b8d7dbecf63b5979706030b0]: Commencement: Sch. 2 para. 33 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-e051cb16b8d7dbecf63b5979706030b0]: Commencement: Sch. 2 para. 33 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-788124307f037e7902fbe591199980c5]: Commencement: Sch. 2 para. 34 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-788124307f037e7902fbe591199980c5]: Commencement: Sch. 2 para. 34 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-8cd96383ad9f3dce322bc2ceba437f51]: Commencement: Sch. 2 para. 35 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-8cd96383ad9f3dce322bc2ceba437f51]: Commencement: Sch. 2 para. 35 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-b2fffcc5ed6f6b7603fd5c9ea2eb94b4]: Commencement: Sch. 2 para. 36 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-b2fffcc5ed6f6b7603fd5c9ea2eb94b4]: Commencement: Sch. 2 para. 36 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-52b7381da5451acbd2510852ef147a3d]: Commencement: Sch. 2 para. 37 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-52b7381da5451acbd2510852ef147a3d]: Commencement: Sch. 2 para. 37 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-d4226795e7c00a2db35dc87a874fe078]: Commencement: Sch. 2 para. 38 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-d4226795e7c00a2db35dc87a874fe078]: Commencement: Sch. 2 para. 38 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
 [^f00043]: Footnote: Article 56 was amended by Article 12 of [S.I. 1978/1907 (N.I. 26)](https://www.legislation.gov.uk/nisi/1978/1907), Article 5 of [S.I. 1981/432](https://www.legislation.gov.uk/uksi/1981/432), Article 7 of [S.I. 1986/2229 (N.I. 24)](https://www.legislation.gov.uk/nisi/1986/2229) and Article 29 of [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)
 
-[^key-55f401fc8c396ed9e6ed1839163d17fc]: Commencement: Sch. 2 para. 39 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-55f401fc8c396ed9e6ed1839163d17fc]: Commencement: Sch. 2 para. 39 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-bca3c7baa100fbf5381a062e7a3ba2ce]: Commencement: Sch. 2 para. 40 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-bca3c7baa100fbf5381a062e7a3ba2ce]: Commencement: Sch. 2 para. 40 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-0ab6173f22066edf6f461f5e6b63bc22]: Commencement: Sch. 2 para. 41 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-0ab6173f22066edf6f461f5e6b63bc22]: Commencement: Sch. 2 para. 41 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-9a55e15299c63fa0d25a163a523a8952]: Commencement: Sch. 2 para. 42 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-9a55e15299c63fa0d25a163a523a8952]: Commencement: Sch. 2 para. 42 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
 [^f00044]: Footnote: [S.R. 1976 No. 175](https://www.legislation.gov.uk/nisr/1976/175); regulation 2 is amended by [S.R. 1982 No. 153](https://www.legislation.gov.uk/nisr/1982/153), [S.R. 1987 No. 117](https://www.legislation.gov.uk/nisr/1987/117), [S.R. 1992 No. 83](https://www.legislation.gov.uk/nisr/1992/83), [S.R. 1994 No. 468](https://www.legislation.gov.uk/nisr/1994/468) and [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149)
 
@@ -1184,7 +1184,7 @@ A doctor shall—
 
 [^f00046]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-1930508c48091afafd93b6d6397329f7]: Commencement: Sch. 2 para. 43 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-1930508c48091afafd93b6d6397329f7]: Commencement: Sch. 2 para. 43 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
 [^f00047]: Footnote: Article 31 was substituted by Article 3(9) of [S.I. 1966/2249 (N.I. 24)](https://www.legislation.gov.uk/nisi/1966/2249)
 
@@ -1196,38 +1196,38 @@ A doctor shall—
 
 [^f00051]: Footnote: [S.R. 1993 No. 142](https://www.legislation.gov.uk/nisr/1993/142) as amended by [S.R. 1996 No. 131](https://www.legislation.gov.uk/nisr/1996/131) and [S.R. 1997 No. 184](https://www.legislation.gov.uk/nisr/1997/184)
 
-[^key-a2f0514846f1531bc29118fb31be5a8f]: Commencement: Sch. 2 para. 44 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-a2f0514846f1531bc29118fb31be5a8f]: Commencement: Sch. 2 para. 44 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-13329b93b172f4c397d21991404fc59e]: Commencement: Sch. 2 para. 45 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-13329b93b172f4c397d21991404fc59e]: Commencement: Sch. 2 para. 45 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-e13b481ad8e6ff5ad744a9a21465b35b]: Commencement: Sch. 2 para. 46 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-e13b481ad8e6ff5ad744a9a21465b35b]: Commencement: Sch. 2 para. 46 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-e66c77562e4a56d6306fb3a59e32ba2c]: Commencement: Sch. 2 para. 47 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-e66c77562e4a56d6306fb3a59e32ba2c]: Commencement: Sch. 2 para. 47 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-ea824a7efbadb3ef195fa06506891f5a]: Commencement: Sch. 2 para. 48 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-ea824a7efbadb3ef195fa06506891f5a]: Commencement: Sch. 2 para. 48 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
 [^f00052]: Footnote: [S.R. 1986 No. 52](https://www.legislation.gov.uk/nisr/1986/52); the relevant amending Regulations are [S.R. 1987 No. 68](https://www.legislation.gov.uk/nisr/1987/68) and [S.R. 1988 No. 206](https://www.legislation.gov.uk/nisr/1988/206)
 
 [^f00053]: Footnote: [1971 c. 38](https://www.legislation.gov.uk/ukpga/1971/38)
 
-[^key-6e895b14771b98ecb295dc61484fcc2d]: Commencement: Sch. 2 para. 49 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-6e895b14771b98ecb295dc61484fcc2d]: Commencement: Sch. 2 para. 49 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-23927a05469bcf2304c259bfa7f7a058]: Commencement: Sch. 2 para. 50 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-23927a05469bcf2304c259bfa7f7a058]: Commencement: Sch. 2 para. 50 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-80b21bf92571a5738395c3661e6c2fc9]: Commencement: Sch. 2 para. 51 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-80b21bf92571a5738395c3661e6c2fc9]: Commencement: Sch. 2 para. 51 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-35efd2d05cdeda8a4b7872626adf3a35]: Commencement: Sch. 2 para. 52 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-35efd2d05cdeda8a4b7872626adf3a35]: Commencement: Sch. 2 para. 52 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
 [^f00054]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
 
-[^key-c1eccfd20d0c207995cb73ef6c59c0df]: Commencement: Sch. 2 para. 53 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-c1eccfd20d0c207995cb73ef6c59c0df]: Commencement: Sch. 2 para. 53 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-77653e44d1fcd99ba2224cf8a0d4b88c]: Commencement: Sch. 2 para. 54 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-77653e44d1fcd99ba2224cf8a0d4b88c]: Commencement: Sch. 2 para. 54 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-ce3499804fd3d50bf2882e61435246c0]: Commencement: Sch. 2 para. 55 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-ce3499804fd3d50bf2882e61435246c0]: Commencement: Sch. 2 para. 55 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-e1aeb97f487ed2b82b17e93e0d499b03]: Commencement: Sch. 2 para. 56 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-e1aeb97f487ed2b82b17e93e0d499b03]: Commencement: Sch. 2 para. 56 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
-[^key-b03d36894d34972c94e260bbfcca359e]: Commencement: Sch. 2 para. 57 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-b03d36894d34972c94e260bbfcca359e]: Commencement: Sch. 2 para. 57 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
 [^f00055]: Footnote: [S.R. 1997 No. 382](https://www.legislation.gov.uk/nisr/1997/382)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Manner and timing of publication[^key-5c4dc33d7e0cf07ff6b54fd28d47049e]
+## 30. Manner and timing of publication[^c-5c4dc33d7e0cf07ff6b54fd28d47049e]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c4dc33d7e0cf07ff6b54fd28d47049e]: Commencement: Reg. 30 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-5c4dc33d7e0cf07ff6b54fd28d47049e]: Commencement: Reg. 30 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

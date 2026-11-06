@@ -46,17 +46,17 @@ Coming into force
 
 The Civil Procedure Rule Committee, having power under section 2 of the Civil Procedure Act 1997[^f00001] to make rules of court under section 1, of that Act, after consulting in accordance with section 2(6)(a) of that Act, makes the following rules:
 
-## 1. Citation, commencement and interpretation[^key-fb5c9f9c03ffc23f7a71caaf988a01f7]
+## 1. Citation, commencement and interpretation[^c-fb5c9f9c03ffc23f7a71caaf988a01f7]
 
 These Rules may be cited as the Civil Procedure (Amendment No. 4) Rules 2014 and shall come into force on 22nd April 2014.
 
-**2.**[^key-e9ade82df31151312462ec0c7555d837] In these Rules—
+**2.**[^c-e9ade82df31151312462ec0c7555d837] In these Rules—
 
 - (a) a reference to a Part or rule by number alone means the Part or rule so numbered in the Civil Procedure Rules 1998[^f00002];
 - (b) a reference to an Order by number and prefixed by “**RSC**” means the RSC Order so numbered in Schedule 1 to those Rules; and
 - (c) a reference to an Order by number and prefixed by “**CCR**” means the CCR Order so numbered in Schedule 2 to those Rules.
 
-## 3. Amendments to the Civil Procedure Rules 1998[^key-81ab989d4cd4f89c4fc1518e63659987]
+## 3. Amendments to the Civil Procedure Rules 1998[^c-81ab989d4cd4f89c4fc1518e63659987]
 
 In CCR Orders 1, 28, 39, 44 and 49—
 
@@ -66,7 +66,7 @@ In CCR Orders 1, 28, 39, 44 and 49—
   - (iii) for “county courts”, in each place, substitute “the County Court”; and
   - (iv) for “district judge”, in each place, substitute “District Judge”.
 
-**4.**[^key-0e0fb3cf24264b60c592164c0ce7df6d] In rule 3.12—
+**4.**[^c-0e0fb3cf24264b60c592164c0ce7df6d] In rule 3.12—
 
 - (a) for paragraph (1) substitute—
 
@@ -80,13 +80,13 @@ In CCR Orders 1, 28, 39, 44 and 49—
 
   .
 
-**5.**[^key-26fa3f9e98f0fd54224e0402a357e58f] In rule 3.15(2), for “By such order the court will—” substitute “Where costs budgets have been filed and exchanged the court will make a costs management order unless it is satisfied that the litigation can be conducted justly and at proportionate cost in accordance with the overriding objective without such an order being made. By a costs management order the court will—”.
+**5.**[^c-26fa3f9e98f0fd54224e0402a357e58f] In rule 3.15(2), for “By such order the court will—” substitute “Where costs budgets have been filed and exchanged the court will make a costs management order unless it is satisfied that the litigation can be conducted justly and at proportionate cost in accordance with the overriding objective without such an order being made. By a costs management order the court will—”.
 
-**6.**[^key-3a26e99491f71a51ed1634eb7a70fd78] Omit rule 5.2(1)(b)(ii).
+**6.**[^c-3a26e99491f71a51ed1634eb7a70fd78] Omit rule 5.2(1)(b)(ii).
 
-**7.**[^key-aa98d094b47ab41bfd49ae8cc7c53365] In rule 26.2A(6)(c)(ii), for “execution” substitute “control”.
+**7.**[^c-aa98d094b47ab41bfd49ae8cc7c53365] In rule 26.2A(6)(c)(ii), for “execution” substitute “control”.
 
-**8.**[^key-d22835de1996bcd71d6bc8755f56e025] In rule 45.8, in Table 5—
+**8.**[^c-d22835de1996bcd71d6bc8755f56e025] In rule 45.8, in Table 5—
 
 - (a) in the entry for RSC Order 45 rule 3, for “RSC Order 45, rule 3” substitute “rule 83.13”;
 - (b) before the entry for RSC Order 46 rule 1, insert the following entry—
@@ -106,25 +106,25 @@ In CCR Orders 1, 28, 39, 44 and 49—
 
   .
 
-**9.**[^key-29ca68e83661d238455119673f433f33] In rule 55.26(3), for “CCR Order 26, rule 17 does” substitute “Rules 83.2, 83.3 and 83.26(1) to (9) do”.
+**9.**[^c-29ca68e83661d238455119673f433f33] In rule 55.26(3), for “CCR Order 26, rule 17 does” substitute “Rules 83.2, 83.3 and 83.26(1) to (9) do”.
 
-**10.**[^key-cf5636610d1b279d7524b55ce323b362] In rule 55.27(5), for “CCR Order 24, rule 6” substitute “Rule 83.26(10) to (12)”.
+**10.**[^c-cf5636610d1b279d7524b55ce323b362] In rule 55.27(5), for “CCR Order 24, rule 6” substitute “Rule 83.26(10) to (12)”.
 
-**11.**[^key-da69475a3275d1e8e07f83ed2b0f6277] In rule 66.6(1)—
+**11.**[^c-da69475a3275d1e8e07f83ed2b0f6277] In rule 66.6(1)—
 
 - (a) for subparagraph (a), substitute “Rules 40.8A and 70.2A and Parts 69 to 73, 81, 83 and 84; and”;
 - (b) omit subparagraph (b); and
 - (c) in subparagraph (c), for “25 to 29” substitute “27 and 28”.
 
-**12.**[^key-cbdf5ea0506d6785cde46b0b981dd4da] In rule 81.13(1)(d), for “Queen’s Bench Division” substitute “High Court”.
+**12.**[^c-cbdf5ea0506d6785cde46b0b981dd4da] In rule 81.13(1)(d), for “Queen’s Bench Division” substitute “High Court”.
 
-**13.**[^key-4c50b19ece4d8bbf66d70ce3ee4d071b] In rule 81.18(3)(a), for “Queen’s Bench Division” substitute “High Court”.
+**13.**[^c-4c50b19ece4d8bbf66d70ce3ee4d071b] In rule 81.18(3)(a), for “Queen’s Bench Division” substitute “High Court”.
 
-**14.**[^key-388e5c4115fa868f4ad7fff624d7ecc8] In rule 81.35, for “an officer of the court” substitute “a person”.
+**14.**[^c-388e5c4115fa868f4ad7fff624d7ecc8] In rule 81.35, for “an officer of the court” substitute “a person”.
 
-**15.**[^key-16224bc90e210ff9f6407a6fcd6a3368] In rule 81.37(3), for “execution” substitute “control”.
+**15.**[^c-16224bc90e210ff9f6407a6fcd6a3368] In rule 81.37(3), for “execution” substitute “control”.
 
-**16.**[^key-0d5cbcae7d1cce42fd42694bce796b28] In Part 83, in the table of contents of the Part, after the entry for rule 83.2, insert the following entry—
+**16.**[^c-0d5cbcae7d1cce42fd42694bce796b28] In Part 83, in the table of contents of the Part, after the entry for rule 83.2, insert the following entry—
 
 > |  |  |
 > | --- | --- |
@@ -132,7 +132,7 @@ In CCR Orders 1, 28, 39, 44 and 49—
 
 .
 
-**17.**[^key-88fae34cd42b7d9b07076c8b87596645] In rule 83.2, after paragraph (7), insert—
+**17.**[^c-88fae34cd42b7d9b07076c8b87596645] In rule 83.2, after paragraph (7), insert—
 
 > (7A) Where—
 >
@@ -145,7 +145,7 @@ In CCR Orders 1, 28, 39, 44 and 49—
 
 .
 
-**18.**[^key-c9fc6e5b5bc7102cbb0b0bf968402cc7] After rule 83.2, insert—
+**18.**[^c-c9fc6e5b5bc7102cbb0b0bf968402cc7] After rule 83.2, insert—
 
 > **83.2A. Application for permission to issue a writ of sequestration**
 >
@@ -153,16 +153,16 @@ In CCR Orders 1, 28, 39, 44 and 49—
 
 .
 
-**19.**[^key-0cd521376509892f7b0816caa4373df3] In CCR Order 1, rule 6—
+**19.**[^c-0cd521376509892f7b0816caa4373df3] In CCR Order 1, rule 6—
 
 - (a) in paragraph (b)—
   - (i) for “taxing officer” substitute “Taxing Officer”; and
   - (ii) for “registrar” substitute “Registrar”;
 - (b) in paragraph (d), for “County Court office” substitute “office of a County Court hearing centre”.
 
-**20.**[^key-db314c221dce1dcdf16697511ce6f960] Omit CCR Order 16.
+**20.**[^c-db314c221dce1dcdf16697511ce6f960] Omit CCR Order 16.
 
-**21.**[^key-9f7cfea7c64d8545856170503ec35786] In CCR Order 28—
+**21.**[^c-9f7cfea7c64d8545856170503ec35786] In CCR Order 28—
 
 - (a) in the table of contents to the Order, omit the entry for rule 12;
 - (b) in rule 1—
@@ -199,7 +199,7 @@ In CCR Orders 1, 28, 39, 44 and 49—
     - (bb) for “he”, in each place, substitute “the debtor”; and
   - (iii) in paragraph (3), for “judge” substitute “court”.
 
-**22.**[^key-f7feb8f3f77d7a972d4414c95187a9f9] In CCR Order 39—
+**22.**[^c-f7feb8f3f77d7a972d4414c95187a9f9] In CCR Order 39—
 
 - (a) in the table of contents to the Order, in the entry for rule 1, omit “by district judge”;
 - (b) in rule 1—
@@ -273,19 +273,19 @@ In CCR Orders 1, 28, 39, 44 and 49—
   - (i) omit “his” in the first place it appears; and
   - (ii) for “his”, in the second place it appears, substitute “their”.
 
-**23.**[^key-ed71955c267c0dba0716bed205df7a1c] In CCR Order 44, rule 4(2)—
+**23.**[^c-ed71955c267c0dba0716bed205df7a1c] In CCR Order 44, rule 4(2)—
 
 - (a) for “execution” substitute “control”; and
 - (b) for “any court in the district of which” substitute “the County Court hearing centre serving the address where”.
 
-**24.**[^key-84eb51a846d2584740f601764c8426fc] In CCR Order 49, rule 19(1)—
+**24.**[^c-84eb51a846d2584740f601764c8426fc] In CCR Order 49, rule 19(1)—
 
 - (a) for “he”, in the first place it appears, substitute “the complainant”; and
 - (b) for “court for the district in which he” substitute “County Court hearing centre which serves the address where the complainant”.
 
-## 25. Transitional provisions[^key-40ac3bbb7c3faf7e5bf8d2d8399df983]
+## 25. Transitional provisions[^c-40ac3bbb7c3faf7e5bf8d2d8399df983]
 
-(1) Rule 3.12(1) shall continue to have effect as if it had not been amended by these Rules in respect of any proceedings [^key-fe609852bef63bba7d691b460c5fcb4d]... which were commenced before the date on which these Rules come into force.
+(1) Rule 3.12(1) shall continue to have effect as if it had not been amended by these Rules in respect of any proceedings [^c-fe609852bef63bba7d691b460c5fcb4d]... which were commenced before the date on which these Rules come into force.
 
 (2) In this rule—
 
@@ -392,56 +392,56 @@ The consequential amendments—
 
 [^f00001]: Footnote: [1997 c.12](https://www.legislation.gov.uk/ukpga/1997/12). Section 2(1) was substituted by the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4), section 15 and Schedule 4 Part 1. Section 1(3) was substituted by section 82(1) of the Courts Act [2003 (c.39)](https://www.legislation.gov.uk/ukpga/2003/39) and further amended by the Constitutional Reform Act 2005 section 15, 146, Schedule 4 Part 1 paragraphs 261 and 262 and Schedule 18 paragraph 2. Section 1(1) has been amended by the Crime and Courts Act [2014 (c.22)](https://www.legislation.gov.uk/ukpga/2014/22), section 17(5) and Schedule 9, Part 3, paragraph 67(a).
 
-[^key-fb5c9f9c03ffc23f7a71caaf988a01f7]: Commencement: Rule 1 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
+[^c-fb5c9f9c03ffc23f7a71caaf988a01f7]: Commencement: Rule 1 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
 
-[^key-e9ade82df31151312462ec0c7555d837]: Commencement: Rule 2 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
+[^c-e9ade82df31151312462ec0c7555d837]: Commencement: Rule 2 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
 
 [^f00002]: Footnote: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132). There are relevant amendments in [S.I. 2001/2792](https://www.legislation.gov.uk/uksi/2001/2792), [2002/2058](https://www.legislation.gov.uk/uksi/2002/2058), [2003/3361](https://www.legislation.gov.uk/uksi/2003/3361), [2005/2292](https://www.legislation.gov.uk/uksi/2005/2292), [2011/3103](https://www.legislation.gov.uk/uksi/2011/3103), [2012/2208](https://www.legislation.gov.uk/uksi/2012/2208), [2013/262](https://www.legislation.gov.uk/uksi/2013/262), [2013/515](https://www.legislation.gov.uk/uksi/2013/515) and [2014/407](https://www.legislation.gov.uk/uksi/2014/407).
 
-[^key-81ab989d4cd4f89c4fc1518e63659987]: Commencement: Rule 3 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
+[^c-81ab989d4cd4f89c4fc1518e63659987]: Commencement: Rule 3 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
 
-[^key-0e0fb3cf24264b60c592164c0ce7df6d]: Commencement: Rule 4 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
+[^c-0e0fb3cf24264b60c592164c0ce7df6d]: Commencement: Rule 4 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
 
-[^key-26fa3f9e98f0fd54224e0402a357e58f]: Commencement: Rule 5 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
+[^c-26fa3f9e98f0fd54224e0402a357e58f]: Commencement: Rule 5 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
 
-[^key-3a26e99491f71a51ed1634eb7a70fd78]: Commencement: Rule 6 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
+[^c-3a26e99491f71a51ed1634eb7a70fd78]: Commencement: Rule 6 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
 
-[^key-aa98d094b47ab41bfd49ae8cc7c53365]: Commencement: Rule 7 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
+[^c-aa98d094b47ab41bfd49ae8cc7c53365]: Commencement: Rule 7 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
 
-[^key-d22835de1996bcd71d6bc8755f56e025]: Commencement: Rule 8 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
+[^c-d22835de1996bcd71d6bc8755f56e025]: Commencement: Rule 8 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
 
-[^key-29ca68e83661d238455119673f433f33]: Commencement: Rule 9 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
+[^c-29ca68e83661d238455119673f433f33]: Commencement: Rule 9 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
 
-[^key-cf5636610d1b279d7524b55ce323b362]: Commencement: Rule 10 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
+[^c-cf5636610d1b279d7524b55ce323b362]: Commencement: Rule 10 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
 
-[^key-da69475a3275d1e8e07f83ed2b0f6277]: Commencement: Rule 11 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
+[^c-da69475a3275d1e8e07f83ed2b0f6277]: Commencement: Rule 11 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
 
-[^key-cbdf5ea0506d6785cde46b0b981dd4da]: Commencement: Rule 12 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
+[^c-cbdf5ea0506d6785cde46b0b981dd4da]: Commencement: Rule 12 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
 
-[^key-4c50b19ece4d8bbf66d70ce3ee4d071b]: Commencement: Rule 13 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
+[^c-4c50b19ece4d8bbf66d70ce3ee4d071b]: Commencement: Rule 13 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
 
-[^key-388e5c4115fa868f4ad7fff624d7ecc8]: Commencement: Rule 14 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
+[^c-388e5c4115fa868f4ad7fff624d7ecc8]: Commencement: Rule 14 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
 
-[^key-16224bc90e210ff9f6407a6fcd6a3368]: Commencement: Rule 15 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
+[^c-16224bc90e210ff9f6407a6fcd6a3368]: Commencement: Rule 15 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
 
-[^key-0d5cbcae7d1cce42fd42694bce796b28]: Commencement: Rule 16 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
+[^c-0d5cbcae7d1cce42fd42694bce796b28]: Commencement: Rule 16 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
 
-[^key-88fae34cd42b7d9b07076c8b87596645]: Commencement: Rule 17 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
+[^c-88fae34cd42b7d9b07076c8b87596645]: Commencement: Rule 17 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
 
-[^key-c9fc6e5b5bc7102cbb0b0bf968402cc7]: Commencement: Rule 18 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
+[^c-c9fc6e5b5bc7102cbb0b0bf968402cc7]: Commencement: Rule 18 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
 
-[^key-0cd521376509892f7b0816caa4373df3]: Commencement: Rule 19 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
+[^c-0cd521376509892f7b0816caa4373df3]: Commencement: Rule 19 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
 
-[^key-db314c221dce1dcdf16697511ce6f960]: Commencement: Rule 20 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
+[^c-db314c221dce1dcdf16697511ce6f960]: Commencement: Rule 20 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
 
-[^key-9f7cfea7c64d8545856170503ec35786]: Commencement: Rule 21 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
+[^c-9f7cfea7c64d8545856170503ec35786]: Commencement: Rule 21 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
 
-[^key-f7feb8f3f77d7a972d4414c95187a9f9]: Commencement: Rule 22 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
+[^c-f7feb8f3f77d7a972d4414c95187a9f9]: Commencement: Rule 22 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
 
-[^key-ed71955c267c0dba0716bed205df7a1c]: Commencement: Rule 23 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
+[^c-ed71955c267c0dba0716bed205df7a1c]: Commencement: Rule 23 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
 
-[^key-84eb51a846d2584740f601764c8426fc]: Commencement: Rule 24 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
+[^c-84eb51a846d2584740f601764c8426fc]: Commencement: Rule 24 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
 
-[^key-40ac3bbb7c3faf7e5bf8d2d8399df983]: Commencement: Rule 25 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
+[^c-40ac3bbb7c3faf7e5bf8d2d8399df983]: Commencement: Rule 25 in force at 22.4.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2014/867/rule/1)
 
-[^key-fe609852bef63bba7d691b460c5fcb4d]: Textual amendment: Words in [art. 25(1)](https://www.legislation.gov.uk/uksi/2014/867/article/25/1) omitted (5.6.2014) by virtue of [The Civil Procedure (Amendment No. 5) Rules 2014 (S.I. 2014/1233)](https://www.legislation.gov.uk/uksi/2014/1233), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1233/article/1), [6](https://www.legislation.gov.uk/uksi/2014/1233/article/6)
+[^c-fe609852bef63bba7d691b460c5fcb4d]: Textual amendment: Words in [art. 25(1)](https://www.legislation.gov.uk/uksi/2014/867/article/25/1) omitted (5.6.2014) by virtue of [The Civil Procedure (Amendment No. 5) Rules 2014 (S.I. 2014/1233)](https://www.legislation.gov.uk/uksi/2014/1233), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1233/article/1), [6](https://www.legislation.gov.uk/uksi/2014/1233/article/6)

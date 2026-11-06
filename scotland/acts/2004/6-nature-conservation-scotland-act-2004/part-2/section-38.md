@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Ramsar sites[^key-be4e12e8499b21893e1f025e03a0709f]
+## 38. Ramsar sites[^c-be4e12e8499b21893e1f025e03a0709f]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ and the reference in subsection (1) to paragraph 1 of article 2 is, if necessary
 
 ## Annotations
 
-[^key-be4e12e8499b21893e1f025e03a0709f]: Commencement: S. 38 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-be4e12e8499b21893e1f025e03a0709f]: Commencement: S. 38 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)

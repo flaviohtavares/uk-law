@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7 — LAND IN WHICH ONLY NEW RIGHTS ETC. MAY BE ACQUIRED[^key-dc09b7be84b229f21e5c784b0b2d4dbb]
+## SCHEDULE 7 — LAND IN WHICH ONLY NEW RIGHTS ETC. MAY BE ACQUIRED[^c-dc09b7be84b229f21e5c784b0b2d4dbb]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ Article 28
 
 ## Annotations
 
-[^key-dc09b7be84b229f21e5c784b0b2d4dbb]: Commencement: Sch. 7 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-dc09b7be84b229f21e5c784b0b2d4dbb]: Commencement: Sch. 7 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)

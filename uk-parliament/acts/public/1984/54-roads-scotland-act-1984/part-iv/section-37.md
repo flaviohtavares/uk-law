@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where a roads authority propose to construct a road hump under section 36 of this Act, they shall consult with—
 
-- (a) the chief constable of the Police Service of Scotland[^key-4367868836494fedcc9792ee7a6ce94d] ; and
+- (a) the chief constable of the Police Service of Scotland[^c-4367868836494fedcc9792ee7a6ce94d] ; and
 - (b) such other persons or bodies as may be prescribed by regulations made by the Secretary of State.
 
 (2) The roads authority shall also—
@@ -42,6 +42,6 @@ notice of the proposal stating the nature, dimensions and location of the propos
 
 ## Annotations
 
-[^key-4367868836494fedcc9792ee7a6ce94d]: Textual amendment: Words in s. 37(1)(a) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 7(3)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/7/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-4367868836494fedcc9792ee7a6ce94d]: Textual amendment: Words in s. 37(1)(a) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 7(3)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/7/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
 [^c1610683]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).

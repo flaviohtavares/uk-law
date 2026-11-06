@@ -68,21 +68,21 @@ In these Regulations—
 - “**controlled building**” means a building or part of a building in a port that has been—
   - (a) described as a controlled building in a port facility security plan that has been integrated into a port security plan, or
   - (b) designated as a controlled building;
-- “**designated**” means designated by the Secretary of State in an Order under section 2(2) of the 1972 Act or in regulations made under this definition[^key-6d9588750de76fe3e8e0dec12bfa6e1d];
+- “**designated**” means designated by the Secretary of State in an Order under section 2(2) of the 1972 Act or in regulations made under this definition[^c-6d9588750de76fe3e8e0dec12bfa6e1d];
 - “**directed party**” means a person who has been served with a direction of the Secretary of State under Part III of AMSA, in relation to an AMSA facility, while that direction remains in force;
-- “**EC Regulation**” means Regulation [(EC) No. 725/2004](https://www.legislation.gov.uk/european/regulation/2004/0725) of the European Parliament and of the Council of 31 March 2004 on enhancing ship and port facility security , as amended by the Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019[^key-e86c48c3632275eabdbbbac4c224c288];
-- “**ISPS Code**” means the International Ship and Port Facility Security Code as amended from time to time, (disregarding for this purpose any amendment so far as it is excluded by Article 10(1) or (2) of the EC Regulation);[^key-e7d385fc8d547013822b05d74c1d2c7b]
+- “**EC Regulation**” means Regulation [(EC) No. 725/2004](https://www.legislation.gov.uk/european/regulation/2004/0725) of the European Parliament and of the Council of 31 March 2004 on enhancing ship and port facility security , as amended by the Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019[^c-e86c48c3632275eabdbbbac4c224c288];
+- “**ISPS Code**” means the International Ship and Port Facility Security Code as amended from time to time, (disregarding for this purpose any amendment so far as it is excluded by Article 10(1) or (2) of the EC Regulation);[^c-e7d385fc8d547013822b05d74c1d2c7b]
 - “**owner of the port facility security plan**” means the person who submits the port facility security plan (or the person on whose behalf that plan is submitted) to the Secretary of State for approval in accordance with section 16.2 of Part A of the ISPS Code;
-- “**port**” means any specified area of land and water at a port facility locality in the United Kingdom within boundaries that are defined by the Secretary of State in an Order made under section 2(2) of the 1972 Act[^key-085272ade5313d5edd10ad898ed44ae2] or in regulations made under this definition[^key-771fa785b5444c6950651fc83c7bf92f], and in the case of a port for which a port related area is designated, every reference to the port includes that port related area;
+- “**port**” means any specified area of land and water at a port facility locality in the United Kingdom within boundaries that are defined by the Secretary of State in an Order made under section 2(2) of the 1972 Act[^c-085272ade5313d5edd10ad898ed44ae2] or in regulations made under this definition[^c-771fa785b5444c6950651fc83c7bf92f], and in the case of a port for which a port related area is designated, every reference to the port includes that port related area;
 - “**port facility**” means a location where the ship/port interface takes place, and this includes areas such as anchorages, waiting berths and approaches from seaward, as appropriate and for this purpose “**ship/port interface**” means the interactions that occur when a ship is directly and immediately affected by actions involving the movement of persons or goods or the provision of port services to or from the ship;
-- “port facility locality” means a locality in the United Kingdom in which one or more port facilities covered by an approved port facility security plan is or are situated;[^key-58105f37875f27a10a322e0837126e02]
+- “port facility locality” means a locality in the United Kingdom in which one or more port facilities covered by an approved port facility security plan is or are situated;[^c-58105f37875f27a10a322e0837126e02]
 - “**port facility security officer**” means a person identified as responsible for the development, implementation, revision and maintenance of a port facility security plan and for liaison with the ship security officers and company security officers in accordance with section 17.1 of Part A of the ISPS Code;
 - “**port facility security plan**” means a plan developed under the EC Regulation in accordance with the provisions of section 16 of Part A of the ISPS Code, and “**approved port facility security plan**” means a plan that has been approved by the Secretary of State in accordance with the requirements of section 16.2 of Part A of the ISPS Code;
 - “**port related area**” means an area of land or property that is affecting or is likely to affect the security of a port and has been designated as a port related area in relation to that port;
 - “**port related area security plan**” means a plan developed in accordance with Schedule 1;
-- “**port security assessment**” means an assessment carried out under regulation 3A[^key-5f56c15a8b3a3421c6ccbe6a17f06a92];
+- “**port security assessment**” means an assessment carried out under regulation 3A[^c-5f56c15a8b3a3421c6ccbe6a17f06a92];
 - “**Port Security Authority**” means a body that has been designated as a Port Security Authority for a port;
-- “the Port Security Directive” means[^key-5d28c3a45e7e33e21618956aeb3f716e] [Directive 2005/65/EC](https://www.legislation.gov.uk/european/directive/2005/0065) of the European Parliament and of the Council of 26th October 2005 on enhancing port security;
+- “the Port Security Directive” means[^c-5d28c3a45e7e33e21618956aeb3f716e] [Directive 2005/65/EC](https://www.legislation.gov.uk/european/directive/2005/0065) of the European Parliament and of the Council of 26th October 2005 on enhancing port security;
 - “**port security officer**” means a person appointed under regulation 12;
 - “**port security plan**” means a plan prepared and maintained by a Port Security Authority under regulation 15;
 - “**prohibited article**” means—
@@ -107,7 +107,7 @@ In these Regulations—
   - (e) the Department for Environment Food and Rural Affairs, and
   - (f) any police service that has an interest in the port concerned.
 
-### 2A.[^key-78b61ec53eab31f0b1ea4e3ce0c5ff23]
+### 2A.[^c-78b61ec53eab31f0b1ea4e3ce0c5ff23]
 
 (1) Regulations under regulation 2 are to be made by statutory instrument.
 
@@ -120,7 +120,7 @@ In these Regulations—
 
 (4) Regulations under regulation 2 may amend or revoke an Order under section 2(2) of the 1972 Act so far as the Order makes provision which could have been made by regulations under regulation 2.
 
-### 3. Application of the Regulations[^key-5a230b0e8f491d75a4a7b3c3a1e06d39]
+### 3. Application of the Regulations[^c-5a230b0e8f491d75a4a7b3c3a1e06d39]
 
 (1) These Regulations apply to port facility localities in the United Kingdom.
 
@@ -138,7 +138,7 @@ In these Regulations—
 - (b) “armed forces” includes the navy and air force;
 - (c) “visiting force” means any body, contingent or detachment of the forces of a country for the time being present in the United Kingdom on the invitation of Her Majesty’s Government in the United Kingdom.
 
-### 3A. Port security assessment[^key-335ae3c145145b9694239a0b17eddd2e]
+### 3A. Port security assessment[^c-335ae3c145145b9694239a0b17eddd2e]
 
 (1) The Secretary of State must ensure that a port security assessment is carried out for every port facility locality.
 
@@ -152,9 +152,9 @@ In these Regulations—
 
 (3) Port security assessments may be carried out by a recognised security organisation.
 
-(4) Each port security assessment (including the identification of the boundaries to be defined, for the purposes of the definition in these Regulations of “port”, by the Secretary of State in regulations made under regulation 2[^key-502ee7eb4c31559ee267187168fbe177] ) must be approved by the Secretary of State.
+(4) Each port security assessment (including the identification of the boundaries to be defined, for the purposes of the definition in these Regulations of “port”, by the Secretary of State in regulations made under regulation 2[^c-502ee7eb4c31559ee267187168fbe177] ) must be approved by the Secretary of State.
 
-(5)[^key-296ed11c429327016f311a8b3dea4a2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-296ed11c429327016f311a8b3dea4a2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) As soon as reasonably practicable after a Port Security Authority has been designated for a port, the Secretary of State must supply to the Port Security Authority designated for that port the port security assessment carried out under this regulation for the port facility locality in which that port is located.
 
@@ -281,7 +281,7 @@ A Port Security Authority must ensure that there is adequate liaison and coopera
 
 ## PART 4 — General Requirements
 
-### 14. Port security assessment[^key-4ea9a87fb14e6153c2e7cdfe9ff9e8df]
+### 14. Port security assessment[^c-4ea9a87fb14e6153c2e7cdfe9ff9e8df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -310,7 +310,7 @@ A Port Security Authority must ensure that there is adequate liaison and coopera
 
 (4) The Port Security Authority may appoint a recognised security organisation to develop the port security plan on its behalf.
 
-(5) The Port Security Authority must ensure that, if a recognised security organisation has carried out a port security assessment or review of a port security assessment [^key-1b3ff9784af68ff789c958793d01dc20]..., that recognised security organisation does not develop or review the port security plan for the port to which that assessment relates[^key-10b75f6b88fc2812d9be392212f8076e].
+(5) The Port Security Authority must ensure that, if a recognised security organisation has carried out a port security assessment or review of a port security assessment [^c-1b3ff9784af68ff789c958793d01dc20]..., that recognised security organisation does not develop or review the port security plan for the port to which that assessment relates[^c-10b75f6b88fc2812d9be392212f8076e].
 
 (6) In this regulation “**AMSA facility contingency plan**” means a contingency plan created by a directed party pursuant to an AMSA direction.
 
@@ -370,7 +370,7 @@ an amendment to a port security plan.
 
 (2) A review of a port security assessment under paragraph (1)(a) must consist of a review of the security risks highlighted in the port security assessment, the likelihood of the security risks occurring, the impact such an occurrence would have and the actions to be taken to address those security risks.
 
-(3) A review of a port security assessment under paragraph (1)(b), (c), (d), (e) or (f) must consist of a review of the matters that are required by regulation 3A(2) to be taken into account[^key-fb2f1b7cba71f7a65bd3a09b37c52243].
+(3) A review of a port security assessment under paragraph (1)(b), (c), (d), (e) or (f) must consist of a review of the matters that are required by regulation 3A(2) to be taken into account[^c-fb2f1b7cba71f7a65bd3a09b37c52243].
 
 (4) A review of a port security plan under paragraph (1) must consist of a review of the matters that the Port Security Authority is required to comply with under regulation 15(2).
 
@@ -378,7 +378,7 @@ an amendment to a port security plan.
 
 (6) Where a port security plan or a port security assessment has been reviewed under paragraph (1)(b), (c), (d), (e) or (f), the Port Security Authority must request approval from the Secretary of State for the port security plan or port security assessment (as amended if appropriate under paragraph (5)) no later than 30 days after the deadline for undertaking the review specified in that provision.
 
-(7)[^key-ff7c5c7030f4fdd4e105cb595d4a8e3e] A request for approval under paragraph (6) must be made in writing and be accompanied by information demonstrating that the review has been carried out in accordance with paragraph (3).
+(7)[^c-ff7c5c7030f4fdd4e105cb595d4a8e3e] A request for approval under paragraph (6) must be made in writing and be accompanied by information demonstrating that the review has been carried out in accordance with paragraph (3).
 
 (7A) After receiving a request for approval under paragraph (6), the Secretary of State may—
 
@@ -748,11 +748,11 @@ that person, as well as the body corporate, is guilty of the offence and liable 
 
 (3) Where an offence under these Regulations is committed in Scotland by a Scottish partnership and is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, that partner as well as the partnership shall be guilty of the offence and be liable to be proceeded against and punished accordingly.
 
-### 38. Designation of Secretary of State as focal point for port security[^key-69f8356a0306bf6d9bd7626a678505fb]
+### 38. Designation of Secretary of State as focal point for port security[^c-69f8356a0306bf6d9bd7626a678505fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 39. Review[^key-f5f6ac3033282a140bacc18888504ac5]
+### 39. Review[^c-f5f6ac3033282a140bacc18888504ac5]
 
 (1) The Secretary of State must from time to time—
 
@@ -869,7 +869,7 @@ Each member of a Port Security Authority and, where a member of a Port Security 
 
 ## SCHEDULE 3 — Port Security Assessment
 
-Regulation 3A[^key-df85fce52fdec9e1447ed08e5c5d3cfa]
+Regulation 3A[^c-df85fce52fdec9e1447ed08e5c5d3cfa]
 
 ### 1. General
 
@@ -886,19 +886,19 @@ Regulation 3A[^key-df85fce52fdec9e1447ed08e5c5d3cfa]
 
 For this purpose the assessment must at least—
 
-- (a) identify all areas which are relevant to port security, thus also identifying the boundaries to be defined, for the purposes of the definition in these Regulations of “port”, by the Secretary of State in[^key-c661a272f49ac0944cc7e74a693859e3] regulations made under regulation 2[^key-981f8976e4943fe270461e8286bb84b8]. This includes port facilities which are already covered by the EC Regulation and whose risk assessment will serve as a basis;
+- (a) identify all areas which are relevant to port security, thus also identifying the boundaries to be defined, for the purposes of the definition in these Regulations of “port”, by the Secretary of State in[^c-c661a272f49ac0944cc7e74a693859e3] regulations made under regulation 2[^c-981f8976e4943fe270461e8286bb84b8]. This includes port facilities which are already covered by the EC Regulation and whose risk assessment will serve as a basis;
 - (b) identify security issues deriving from the interface between port facility and other port security measures;
-- (c) identify which port facility locality personnel[^key-57f4c241ec5849adc7424d4da941a8a6] will be subject to background checks and/or security vetting because of their involvement in high-risk areas;
-- (d) subdivide, if useful, the port facility locality[^key-4b531eca86fe42b9e396833c0dc1b7d4] according to the likelihood of security incidents. Areas are to be judged not only upon their direct profile as a potential target, but also upon their potential role of passage when neighbouring areas are targeted;
+- (c) identify which port facility locality personnel[^c-57f4c241ec5849adc7424d4da941a8a6] will be subject to background checks and/or security vetting because of their involvement in high-risk areas;
+- (d) subdivide, if useful, the port facility locality[^c-4b531eca86fe42b9e396833c0dc1b7d4] according to the likelihood of security incidents. Areas are to be judged not only upon their direct profile as a potential target, but also upon their potential role of passage when neighbouring areas are targeted;
 - (e) identifying risk variations, e.g. those based on seasonality;
 - (f) identify the specific characteristics of each sub-area, such as location, accesses, power supply, communication system, ownership and users and other elements considered security-relevant;
-- (g) identify potential threat scenarios for the port facility locality[^key-38cae14aaadc3f06c95eaa3a5dc42843]. The entire port facility locality or specific parts of its infrastructure, cargo, baggage, people or transport equipment within the port facility locality can be a direct target of an identified threat;
+- (g) identify potential threat scenarios for the port facility locality[^c-38cae14aaadc3f06c95eaa3a5dc42843]. The entire port facility locality or specific parts of its infrastructure, cargo, baggage, people or transport equipment within the port facility locality can be a direct target of an identified threat;
 - (h) identify the specific consequences of a threat scenario. Consequences can impact on one or more sub-areas. Both direct and indirect consequences must be identified. Special attention must be given to the risk of human casualties;
 - (i) identify the possibility of cluster effects of security incidents;
 - (j) identify the vulnerabilities of each sub-area;
-- (k) identify all organisational aspects relevant to overall security of the port facility locality[^key-ec3f67e3f6c0c9b387396589a0e5bd32], including the division of all security-related authorities, existing rules and procedures;
-- (l) identify vulnerabilities of the overarching security of the port facility locality[^key-b5b2c28e9b6225113d22ec928b4d2c92] related to organisational, legislative and procedural aspects;
-- (m) identify measures, procedures and actions aimed at reducing critical vulnerabilities. Specific attention must be paid to the need for, and the means of, access control or restrictions to the entire port facility locality or to specific parts of the port facility locality[^key-2d00c01a5c419cc7e33889c017583b31], including identification of passengers, port employees or other workers, visitors and ship crews, area or activity monitoring requirements, cargo and luggage control. Measures, procedures and actions must be consistent with the perceived risk, which may vary between port facility locality areas[^key-9d22e77038c0c964faa79e8b81c95b02];
+- (k) identify all organisational aspects relevant to overall security of the port facility locality[^c-ec3f67e3f6c0c9b387396589a0e5bd32], including the division of all security-related authorities, existing rules and procedures;
+- (l) identify vulnerabilities of the overarching security of the port facility locality[^c-b5b2c28e9b6225113d22ec928b4d2c92] related to organisational, legislative and procedural aspects;
+- (m) identify measures, procedures and actions aimed at reducing critical vulnerabilities. Specific attention must be paid to the need for, and the means of, access control or restrictions to the entire port facility locality or to specific parts of the port facility locality[^c-2d00c01a5c419cc7e33889c017583b31], including identification of passengers, port employees or other workers, visitors and ship crews, area or activity monitoring requirements, cargo and luggage control. Measures, procedures and actions must be consistent with the perceived risk, which may vary between port facility locality areas[^c-9d22e77038c0c964faa79e8b81c95b02];
 - (n) identify how measures, procedures and actions will be reinforced in the event of an increase of security level;
 - (o) identify specific requirements for dealing with established security concerns, such as ‘suspect’ cargo, luggage, bunker, provisions or persons, unknown parcels and known dangers (e.g. bomb). These requirements must analyse desirability conditions for clearing the risk either where it is encountered or after moving it to a secure area;
 - (p) identify measures, procedures and actions aimed at limiting and mitigating consequences;
@@ -1043,21 +1043,21 @@ Copies of the ISPS Code and the International Safety Management (ISM) Code may b
 
 [^c19798351]: Marginal citation: [1990 c. 31](https://www.legislation.gov.uk/ukpga/1990/31).
 
-[^key-6d9588750de76fe3e8e0dec12bfa6e1d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2009/2048/regulation/2) inserted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [19(2)(a)](https://www.legislation.gov.uk/uksi/2019/308/regulation/19/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6d9588750de76fe3e8e0dec12bfa6e1d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2009/2048/regulation/2) inserted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [19(2)(a)](https://www.legislation.gov.uk/uksi/2019/308/regulation/19/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e86c48c3632275eabdbbbac4c224c288]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2009/2048/regulation/2) inserted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [19(2)(b)](https://www.legislation.gov.uk/uksi/2019/308/regulation/19/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e86c48c3632275eabdbbbac4c224c288]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2009/2048/regulation/2) inserted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [19(2)(b)](https://www.legislation.gov.uk/uksi/2019/308/regulation/19/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e7d385fc8d547013822b05d74c1d2c7b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2009/2048/regulation/2) substituted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [19(2)(c)](https://www.legislation.gov.uk/uksi/2019/308/regulation/19/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e7d385fc8d547013822b05d74c1d2c7b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2009/2048/regulation/2) substituted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [19(2)(c)](https://www.legislation.gov.uk/uksi/2019/308/regulation/19/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-085272ade5313d5edd10ad898ed44ae2]: Textual amendment: Words in reg. 2 substituted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/3/a)
+[^c-085272ade5313d5edd10ad898ed44ae2]: Textual amendment: Words in reg. 2 substituted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/3/a)
 
-[^key-771fa785b5444c6950651fc83c7bf92f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2009/2048/regulation/2) inserted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [19(2)(d)](https://www.legislation.gov.uk/uksi/2019/308/regulation/19/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-771fa785b5444c6950651fc83c7bf92f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2009/2048/regulation/2) inserted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [19(2)(d)](https://www.legislation.gov.uk/uksi/2019/308/regulation/19/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-58105f37875f27a10a322e0837126e02]: Textual amendment: Words in reg. 2 inserted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/3/b)
+[^c-58105f37875f27a10a322e0837126e02]: Textual amendment: Words in reg. 2 inserted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/3/b)
 
-[^key-5f56c15a8b3a3421c6ccbe6a17f06a92]: Textual amendment: Words in reg. 2 substituted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/3/c)
+[^c-5f56c15a8b3a3421c6ccbe6a17f06a92]: Textual amendment: Words in reg. 2 substituted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/3/c)
 
-[^key-5d28c3a45e7e33e21618956aeb3f716e]: Textual amendment: Words in reg. 2 inserted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/3/d)
+[^c-5d28c3a45e7e33e21618956aeb3f716e]: Textual amendment: Words in reg. 2 inserted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/3/d)
 
 [^c19798361]: Marginal citation: [S.I. 1994/570](https://www.legislation.gov.uk/uksi/1994/570).
 
@@ -1067,48 +1067,48 @@ Copies of the ISPS Code and the International Safety Management (ISM) Code may b
 
 [^c19798391]: Marginal citation: Established by the [Serious Crime and Police Act 2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15) section 1.
 
-[^key-78b61ec53eab31f0b1ea4e3ce0c5ff23]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2009/2048/regulation/2A) inserted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [19(3)](https://www.legislation.gov.uk/uksi/2019/308/regulation/19/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-78b61ec53eab31f0b1ea4e3ce0c5ff23]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2009/2048/regulation/2A) inserted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [19(3)](https://www.legislation.gov.uk/uksi/2019/308/regulation/19/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5a230b0e8f491d75a4a7b3c3a1e06d39]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/2048/regulation/3) substituted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/2815/regulation/4)
+[^c-5a230b0e8f491d75a4a7b3c3a1e06d39]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/2048/regulation/3) substituted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/2815/regulation/4)
 
-[^key-335ae3c145145b9694239a0b17eddd2e]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/2009/2048/regulation/3A) inserted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [5](https://www.legislation.gov.uk/uksi/2013/2815/regulation/5)
+[^c-335ae3c145145b9694239a0b17eddd2e]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/2009/2048/regulation/3A) inserted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [5](https://www.legislation.gov.uk/uksi/2013/2815/regulation/5)
 
-[^key-502ee7eb4c31559ee267187168fbe177]: Textual amendment: Words in [reg. 3A(4)](https://www.legislation.gov.uk/uksi/2009/2048/regulation/3A/4) substituted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [19(4)(a)](https://www.legislation.gov.uk/uksi/2019/308/regulation/19/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-502ee7eb4c31559ee267187168fbe177]: Textual amendment: Words in [reg. 3A(4)](https://www.legislation.gov.uk/uksi/2009/2048/regulation/3A/4) substituted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [19(4)(a)](https://www.legislation.gov.uk/uksi/2019/308/regulation/19/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-296ed11c429327016f311a8b3dea4a2b]: Textual amendment: [Reg. 3A(5)](https://www.legislation.gov.uk/uksi/2009/2048/regulation/3A/5) omitted (31.12.2020) by virtue of [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [19(4)(b)](https://www.legislation.gov.uk/uksi/2019/308/regulation/19/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-296ed11c429327016f311a8b3dea4a2b]: Textual amendment: [Reg. 3A(5)](https://www.legislation.gov.uk/uksi/2009/2048/regulation/3A/5) omitted (31.12.2020) by virtue of [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [19(4)(b)](https://www.legislation.gov.uk/uksi/2019/308/regulation/19/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4ea9a87fb14e6153c2e7cdfe9ff9e8df]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2009/2048/regulation/14) revoked (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/2815/regulation/6)
+[^c-4ea9a87fb14e6153c2e7cdfe9ff9e8df]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2009/2048/regulation/14) revoked (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/2815/regulation/6)
 
-[^key-1b3ff9784af68ff789c958793d01dc20]: Textual amendment: Words in [reg. 15(5)](https://www.legislation.gov.uk/uksi/2009/2048/regulation/15/5) omitted (29.11.2013) by virtue of [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/7/a)
+[^c-1b3ff9784af68ff789c958793d01dc20]: Textual amendment: Words in [reg. 15(5)](https://www.legislation.gov.uk/uksi/2009/2048/regulation/15/5) omitted (29.11.2013) by virtue of [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/7/a)
 
-[^key-10b75f6b88fc2812d9be392212f8076e]: Textual amendment: Words in [reg. 15(5)](https://www.legislation.gov.uk/uksi/2009/2048/regulation/15/5) substituted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/7/b)
+[^c-10b75f6b88fc2812d9be392212f8076e]: Textual amendment: Words in [reg. 15(5)](https://www.legislation.gov.uk/uksi/2009/2048/regulation/15/5) substituted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/7/b)
 
-[^key-fb2f1b7cba71f7a65bd3a09b37c52243]: Textual amendment: Words in reg. 18(3) substituted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/8/2)
+[^c-fb2f1b7cba71f7a65bd3a09b37c52243]: Textual amendment: Words in reg. 18(3) substituted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/8/2)
 
-[^key-ff7c5c7030f4fdd4e105cb595d4a8e3e]: Textual amendment: Reg. 18(7)-(7C) substituted for reg. 18(7) (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/8/3)
+[^c-ff7c5c7030f4fdd4e105cb595d4a8e3e]: Textual amendment: Reg. 18(7)-(7C) substituted for reg. 18(7) (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/8/3)
 
-[^key-69f8356a0306bf6d9bd7626a678505fb]: Textual amendment: [Reg. 38](https://www.legislation.gov.uk/uksi/2009/2048/regulation/38) omitted (31.12.2020) by virtue of [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [19(5)](https://www.legislation.gov.uk/uksi/2019/308/regulation/19/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-69f8356a0306bf6d9bd7626a678505fb]: Textual amendment: [Reg. 38](https://www.legislation.gov.uk/uksi/2009/2048/regulation/38) omitted (31.12.2020) by virtue of [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [19(5)](https://www.legislation.gov.uk/uksi/2019/308/regulation/19/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f5f6ac3033282a140bacc18888504ac5]: Textual amendment: [Reg. 39](https://www.legislation.gov.uk/uksi/2009/2048/regulation/39) inserted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [10](https://www.legislation.gov.uk/uksi/2013/2815/regulation/10)
+[^c-f5f6ac3033282a140bacc18888504ac5]: Textual amendment: [Reg. 39](https://www.legislation.gov.uk/uksi/2009/2048/regulation/39) inserted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [10](https://www.legislation.gov.uk/uksi/2013/2815/regulation/10)
 
-[^key-df85fce52fdec9e1447ed08e5c5d3cfa]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2009/2048/schedule/3) substituted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/11/2)
+[^c-df85fce52fdec9e1447ed08e5c5d3cfa]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2009/2048/schedule/3) substituted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/11/2)
 
-[^key-c661a272f49ac0944cc7e74a693859e3]: Textual amendment: Words in Sch. 3 para. 2(a) substituted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [11(3)(a)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/11/3/a)
+[^c-c661a272f49ac0944cc7e74a693859e3]: Textual amendment: Words in Sch. 3 para. 2(a) substituted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [11(3)(a)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/11/3/a)
 
-[^key-981f8976e4943fe270461e8286bb84b8]: Textual amendment: Words in [Sch. 3 para. 2(a)](https://www.legislation.gov.uk/uksi/2009/2048/schedule/3/paragraph/2/a) substituted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [19(6)](https://www.legislation.gov.uk/uksi/2019/308/regulation/19/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-981f8976e4943fe270461e8286bb84b8]: Textual amendment: Words in [Sch. 3 para. 2(a)](https://www.legislation.gov.uk/uksi/2009/2048/schedule/3/paragraph/2/a) substituted (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [19(6)](https://www.legislation.gov.uk/uksi/2019/308/regulation/19/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-57f4c241ec5849adc7424d4da941a8a6]: Textual amendment: Words in Sch. 3 para. 2(c) substituted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [11(3)(b)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/11/3/b)
+[^c-57f4c241ec5849adc7424d4da941a8a6]: Textual amendment: Words in Sch. 3 para. 2(c) substituted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [11(3)(b)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/11/3/b)
 
-[^key-4b531eca86fe42b9e396833c0dc1b7d4]: Textual amendment: Words in Sch. 3 para. 2(d) substituted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [11(3)(c)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/11/3/c)
+[^c-4b531eca86fe42b9e396833c0dc1b7d4]: Textual amendment: Words in Sch. 3 para. 2(d) substituted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [11(3)(c)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/11/3/c)
 
-[^key-38cae14aaadc3f06c95eaa3a5dc42843]: Textual amendment: Words in Sch. 3 para. 2(g) substituted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [11(3)(d)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/11/3/d)
+[^c-38cae14aaadc3f06c95eaa3a5dc42843]: Textual amendment: Words in Sch. 3 para. 2(g) substituted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [11(3)(d)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/11/3/d)
 
-[^key-ec3f67e3f6c0c9b387396589a0e5bd32]: Textual amendment: Words in Sch. 3 para. 2(k) substituted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [11(3)(e)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/11/3/e)
+[^c-ec3f67e3f6c0c9b387396589a0e5bd32]: Textual amendment: Words in Sch. 3 para. 2(k) substituted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [11(3)(e)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/11/3/e)
 
-[^key-b5b2c28e9b6225113d22ec928b4d2c92]: Textual amendment: Words in Sch. 3 para. 2(l) substituted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [11(3)(f)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/11/3/f)
+[^c-b5b2c28e9b6225113d22ec928b4d2c92]: Textual amendment: Words in Sch. 3 para. 2(l) substituted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [11(3)(f)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/11/3/f)
 
-[^key-2d00c01a5c419cc7e33889c017583b31]: Textual amendment: Words in Sch. 3 para. 2(m) substituted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [11(3)(g)(i)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/11/3/g/i)
+[^c-2d00c01a5c419cc7e33889c017583b31]: Textual amendment: Words in Sch. 3 para. 2(m) substituted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [11(3)(g)(i)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/11/3/g/i)
 
-[^key-9d22e77038c0c964faa79e8b81c95b02]: Textual amendment: Words in Sch. 3 para. 2(m) substituted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [11(3)(g)(ii)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/11/3/g/ii)
+[^c-9d22e77038c0c964faa79e8b81c95b02]: Textual amendment: Words in Sch. 3 para. 2(m) substituted (29.11.2013) by [The Port Security (Amendment) Regulations 2013 (S.I. 2013/2815)](https://www.legislation.gov.uk/uksi/2013/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1), [11(3)(g)(ii)](https://www.legislation.gov.uk/uksi/2013/2815/regulation/11/3/g/ii)
 
 [^c19798411]: Marginal citation: Published by the International Maritime Organisation Publishing Service (London, 2002, ISBN 9789280151237)

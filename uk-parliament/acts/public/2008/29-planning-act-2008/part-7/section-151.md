@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Liability under existing regimes[^key-ec86f2d66d7c54f16fc13513b2a3d828]
+## 151. Liability under existing regimes[^c-ec86f2d66d7c54f16fc13513b2a3d828]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ An order granting development consent may not include provision the effect of wh
 
 ## Annotations
 
-[^key-ec86f2d66d7c54f16fc13513b2a3d828]: Commencement: S. 151 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(h)](https://www.legislation.gov.uk/uksi/2010/101/article/3/h) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-ec86f2d66d7c54f16fc13513b2a3d828]: Commencement: S. 151 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(h)](https://www.legislation.gov.uk/uksi/2010/101/article/3/h) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

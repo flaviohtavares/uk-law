@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Considering whether a supplier is excluded or excludable[^key-668d3c83cd3377488703e50a196e430f][^key-d3b0fcb73bbcde119e3094d46b8b9707][^key-f8803323de81c8ca4f24b31dcc6051a5]
+## 58. Considering whether a supplier is excluded or excludable[^c-668d3c83cd3377488703e50a196e430f][^c-d3b0fcb73bbcde119e3094d46b8b9707][^c-f8803323de81c8ca4f24b31dcc6051a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,8 +40,8 @@ summary: ''
 
 ## Annotations
 
-[^key-668d3c83cd3377488703e50a196e430f]: Commencement: S. 58 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-668d3c83cd3377488703e50a196e430f]: Commencement: S. 58 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-d3b0fcb73bbcde119e3094d46b8b9707]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2023/54/section/58) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-d3b0fcb73bbcde119e3094d46b8b9707]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2023/54/section/58) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-f8803323de81c8ca4f24b31dcc6051a5]: Modification: [S. 58](https://www.legislation.gov.uk/ukpga/2023/54/section/58) applied (24.2.2025) by [S.I. 2013/1582](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/6/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1582/schedule/2/part/1) (as amended by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2025/163/regulation/17) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33)))
+[^c-f8803323de81c8ca4f24b31dcc6051a5]: Modification: [S. 58](https://www.legislation.gov.uk/ukpga/2023/54/section/58) applied (24.2.2025) by [S.I. 2013/1582](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/6/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1582/schedule/2/part/1) (as amended by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2025/163/regulation/17) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33)))

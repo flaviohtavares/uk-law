@@ -30,7 +30,7 @@ summary: ''
 
 EDUCATION
 
-Further Education Teachers' (Eligibility) Regulations (Northern Ireland) 1997 (revoked)[^key-058d0fa9667dcebf0139952522f4e2b6]
+Further Education Teachers' (Eligibility) Regulations (Northern Ireland) 1997 (revoked)[^c-058d0fa9667dcebf0139952522f4e2b6]
 
 Made
 
@@ -40,56 +40,56 @@ Coming into operation
 
 1st October 1997
 
-[^key-058d0fa9667dcebf0139952522f4e2b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-058d0fa9667dcebf0139952522f4e2b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-058d0fa9667dcebf0139952522f4e2b6]
+## 1. Citation and commencement[^c-058d0fa9667dcebf0139952522f4e2b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocations[^key-058d0fa9667dcebf0139952522f4e2b6]
+## 2. Revocations[^c-058d0fa9667dcebf0139952522f4e2b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-058d0fa9667dcebf0139952522f4e2b6]
+## 3. Interpretation[^c-058d0fa9667dcebf0139952522f4e2b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Application[^key-058d0fa9667dcebf0139952522f4e2b6]
+## 4. Application[^c-058d0fa9667dcebf0139952522f4e2b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Qualifications[^key-058d0fa9667dcebf0139952522f4e2b6]
+## 5. Qualifications[^c-058d0fa9667dcebf0139952522f4e2b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Age requirements[^key-058d0fa9667dcebf0139952522f4e2b6]
+## 6. Age requirements[^c-058d0fa9667dcebf0139952522f4e2b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Health requirements[^key-058d0fa9667dcebf0139952522f4e2b6]
+## 7. Health requirements[^c-058d0fa9667dcebf0139952522f4e2b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Employment of unqualified teachers[^key-058d0fa9667dcebf0139952522f4e2b6]
+## 8. Employment of unqualified teachers[^c-058d0fa9667dcebf0139952522f4e2b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Prohibition or restriction on a person’s employment as a teacher[^key-058d0fa9667dcebf0139952522f4e2b6]
+## 9. Prohibition or restriction on a person’s employment as a teacher[^c-058d0fa9667dcebf0139952522f4e2b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Misconduct reports[^key-058d0fa9667dcebf0139952522f4e2b6]
+## 10. Misconduct reports[^c-058d0fa9667dcebf0139952522f4e2b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-058d0fa9667dcebf0139952522f4e2b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-058d0fa9667dcebf0139952522f4e2b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-058d0fa9667dcebf0139952522f4e2b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-058d0fa9667dcebf0139952522f4e2b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-058d0fa9667dcebf0139952522f4e2b6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/388) revoked (30.4.2007) by [The Further Education Teachers’ (Eligibility) Regulations (Northern Ireland) 2007 (S.R. 2007/127)](https://www.legislation.gov.uk/nisr/2007/127), [regs. 1](https://www.legislation.gov.uk/nisr/2007/127/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2007/127/regulation/2/a)
+[^c-058d0fa9667dcebf0139952522f4e2b6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/388) revoked (30.4.2007) by [The Further Education Teachers’ (Eligibility) Regulations (Northern Ireland) 2007 (S.R. 2007/127)](https://www.legislation.gov.uk/nisr/2007/127), [regs. 1](https://www.legislation.gov.uk/nisr/2007/127/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2007/127/regulation/2/a)

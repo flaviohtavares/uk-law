@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 182. Transfer of functions to housing ombudsman: supplementary[^key-5e8c9c98fae6d526ecdceb546380462a]
+## 182. Transfer of functions to housing ombudsman: supplementary[^c-5e8c9c98fae6d526ecdceb546380462a]
 
 *Extent: E+W*
 
@@ -76,4 +76,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e8c9c98fae6d526ecdceb546380462a]: Commencement: [S. 182](https://www.legislation.gov.uk/ukpga/2011/20/section/182) in force at 1.4.2013 for E. by [S.I. 2013/722](https://www.legislation.gov.uk/uksi/2013/722), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/722/article/2/d)
+[^c-5e8c9c98fae6d526ecdceb546380462a]: Commencement: [S. 182](https://www.legislation.gov.uk/ukpga/2011/20/section/182) in force at 1.4.2013 for E. by [S.I. 2013/722](https://www.legislation.gov.uk/uksi/2013/722), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/722/article/2/d)

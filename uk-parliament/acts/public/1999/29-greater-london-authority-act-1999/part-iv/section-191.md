@@ -30,7 +30,7 @@ summary: ''
 - (a) each London authority,
 - (b) the local authority for any other area which the Mayor considers will be affected by the contents of the guidance document or the revisions, as the case may be,
 - (c) the Commissioner of Police of the Metropolis and the Commissioner of Police of the City of London,
-- (d)[^key-71b60a3cfb9c44a4319534488f3bf96b] a traffic commissioner;
+- (d)[^c-71b60a3cfb9c44a4319534488f3bf96b] a traffic commissioner;
 - (f) the London Transport Users’ Committee, and
 - (g) any other person whom the Mayor considers it appropriate to consult.
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c12803171]: Modification: S. 191 excluded (28.6.2000) by [S.I. 2000/1462](https://www.legislation.gov.uk/uksi/2000/1462), [art. 7(5)](https://www.legislation.gov.uk/uksi/2000/1462/article/7/5) (with [art. 7(9)](https://www.legislation.gov.uk/uksi/2000/1462/article/7/9))
 
-[^key-71b60a3cfb9c44a4319534488f3bf96b]: Textual amendment: S. 191(2)(d) substituted for s. 191(2)(d)(e) (E.W.) (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1644/schedule/3) (with [art. 7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-71b60a3cfb9c44a4319534488f3bf96b]: Textual amendment: S. 191(2)(d) substituted for s. 191(2)(d)(e) (E.W.) (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1644/schedule/3) (with [art. 7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))

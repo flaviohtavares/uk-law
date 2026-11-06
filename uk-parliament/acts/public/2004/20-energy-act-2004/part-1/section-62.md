@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Inspection[^key-0e175faa7811ba19303c5fc96cda4205]
+## 62. Inspection[^c-0e175faa7811ba19303c5fc96cda4205]
 
 *Extent: E+W+S*
 
@@ -55,10 +55,10 @@ summary: ''
 
 (10) The Secretary of State must pay sums received by him under subsection (9) into the Consolidated Fund.
 
-(11) In this section “**the Scottish inspectors**” means the inspectors of constabulary appointed under section 71(2) of the Police and Fire Reform (Scotland) Act 2012[^key-38e7f2c44a619ea6057857764d108dad].
+(11) In this section “**the Scottish inspectors**” means the inspectors of constabulary appointed under section 71(2) of the Police and Fire Reform (Scotland) Act 2012[^c-38e7f2c44a619ea6057857764d108dad].
 
 ## Annotations
 
-[^key-0e175faa7811ba19303c5fc96cda4205]: Commencement: S. 62 in force at 1.4.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+[^c-0e175faa7811ba19303c5fc96cda4205]: Commencement: S. 62 in force at 1.4.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
 
-[^key-38e7f2c44a619ea6057857764d108dad]: Textual amendment: Words in [s. 62(11)](https://www.legislation.gov.uk/ukpga/2004/20/section/62/11) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 44(3)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/44/3)
+[^c-38e7f2c44a619ea6057857764d108dad]: Textual amendment: Words in [s. 62(11)](https://www.legislation.gov.uk/ukpga/2004/20/section/62/11) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 44(3)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/44/3)

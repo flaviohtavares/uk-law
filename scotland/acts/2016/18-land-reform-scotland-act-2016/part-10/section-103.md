@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 103. Assignation of 1991 Act tenancies[^key-41829d94e3dd88b0ecf92f3206fe2aa9]
+## 103. Assignation of 1991 Act tenancies[^c-41829d94e3dd88b0ecf92f3206fe2aa9]
 
 *Extent: S*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41829d94e3dd88b0ecf92f3206fe2aa9]: Commencement: [S. 103](https://www.legislation.gov.uk/asp/2016/18/section/103) in force at 23.12.2016 by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))
+[^c-41829d94e3dd88b0ecf92f3206fe2aa9]: Commencement: [S. 103](https://www.legislation.gov.uk/asp/2016/18/section/103) in force at 23.12.2016 by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))

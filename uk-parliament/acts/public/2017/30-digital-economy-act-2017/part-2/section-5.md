@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Power to make transitional provision in connection with the code[^key-1a68f7b9a027f0b6afa063a62d269be2]
+## 5. Power to make transitional provision in connection with the code[^c-1a68f7b9a027f0b6afa063a62d269be2]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a68f7b9a027f0b6afa063a62d269be2]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/30/section/5) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/a)
+[^c-1a68f7b9a027f0b6afa063a62d269be2]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/30/section/5) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/a)

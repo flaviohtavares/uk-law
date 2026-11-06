@@ -85,7 +85,7 @@ HAS ADOPTED THIS DECISION:
 
 **Article 3.** Products shall be considered in relation to their end-use application, where relevant.
 
-**Article 4.**[^key-90bfda013b5993911a20011b9c2e1d86] This Decision is addressed to the Member States.
+**Article 4.**[^c-90bfda013b5993911a20011b9c2e1d86] This Decision is addressed to the Member States.
 
 Done at Brussels, 9 February 2010.
 
@@ -130,7 +130,7 @@ The table set out in this Annex lists construction products and/or materials whi
 
 [^f00003]: Footnote: [OJ L 50, 23.2.2000, p. 14](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.050.01.0014.01.ENG).
 
-[^key-90bfda013b5993911a20011b9c2e1d86]: Modification: [Art. 4](https://www.legislation.gov.uk/eudn/2010/82/article/4) excluded (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/5) (as amended by S.I. 2020/1359, [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(h)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/h)); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-90bfda013b5993911a20011b9c2e1d86]: Modification: [Art. 4](https://www.legislation.gov.uk/eudn/2010/82/article/4) excluded (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/5) (as amended by S.I. 2020/1359, [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(h)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/h)); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: Products in accordance with EN 15102 mounted on a substrate of at least class A2-s1,d0 with a minimum thickness 12 mm and with minimum density 800 kg/m<sup>3</sup> using starch, or starch/PVA, or cellulose/PVA adhesive applied at a maximum 200 g/m<sup>2</sup>.
 

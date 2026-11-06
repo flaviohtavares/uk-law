@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 218. Obstruction etc of the PPF Ombudsman[^key-93d504d5beed491504772ca1d203a992][^key-152b0d5d615702169173aeb99c290b4e]
+## 218. Obstruction etc of the PPF Ombudsman[^c-93d504d5beed491504772ca1d203a992][^c-152b0d5d615702169173aeb99c290b4e]
 
 *Extent: E+W+S*
 
@@ -37,13 +37,13 @@ summary: ''
 
 (5) In this section “**the court**” means—
 
-- (a) in England and Wales, the county court[^key-6bc6c51770596c8c2c812d97d6c93084];
+- (a) in England and Wales, the county court[^c-6bc6c51770596c8c2c812d97d6c93084];
 - (b) in Scotland, the sheriff.
 
 ## Annotations
 
-[^key-93d504d5beed491504772ca1d203a992]: Commencement: S. 218 in force at 21.7.2005 by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(6)(a)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/6/a)
+[^c-93d504d5beed491504772ca1d203a992]: Commencement: S. 218 in force at 21.7.2005 by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(6)(a)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/6/a)
 
-[^key-152b0d5d615702169173aeb99c290b4e]: Modification: S. 218 applied (with modifications) (24.11.2005) by [The Financial Assistance Scheme (Modifications and Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3256)](https://www.legislation.gov.uk/uksi/2005/3256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3256/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2005/3256/regulation/2), [3(8)](https://www.legislation.gov.uk/uksi/2005/3256/regulation/3/8)
+[^c-152b0d5d615702169173aeb99c290b4e]: Modification: S. 218 applied (with modifications) (24.11.2005) by [The Financial Assistance Scheme (Modifications and Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3256)](https://www.legislation.gov.uk/uksi/2005/3256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3256/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2005/3256/regulation/2), [3(8)](https://www.legislation.gov.uk/uksi/2005/3256/regulation/3/8)
 
-[^key-6bc6c51770596c8c2c812d97d6c93084]: Textual amendment: Words in s. 218(5)(a) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-6bc6c51770596c8c2c812d97d6c93084]: Textual amendment: Words in s. 218(5)(a) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

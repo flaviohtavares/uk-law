@@ -28,7 +28,7 @@ summary: ''
   - (i) any attached articles which have been sold;
   - (ii) the amount for which they have been sold;
   - (iii) any attached articles which remain unsold;
-  - (iiia)[^key-d5579d23d9d390fd8ca194cb8428b2ef] any sums paid by the debtor to account of the sum recoverable;
+  - (iiia)[^c-d5579d23d9d390fd8ca194cb8428b2ef] any sums paid by the debtor to account of the sum recoverable;
   - (iv) any chargeable expenses;
   - (v) any surplus paid to the debtor; and
   - (vi) any balance due by or to the debtor;
@@ -49,4 +49,4 @@ the sheriff may make an order providing that the officer is liable for the charg
 
 ## Annotations
 
-[^key-d5579d23d9d390fd8ca194cb8428b2ef]: Textual amendment: S. 32(2)(a)(iiia) inserted (31.3.2007 for specified purposes) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [s. 227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3), [Sch. 5 para. 30(8)(a)](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/30/8/a) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(e)(i)](https://www.legislation.gov.uk/ssi/2007/82/article/4/e/i)
+[^c-d5579d23d9d390fd8ca194cb8428b2ef]: Textual amendment: S. 32(2)(a)(iiia) inserted (31.3.2007 for specified purposes) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [s. 227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3), [Sch. 5 para. 30(8)(a)](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/30/8/a) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(e)(i)](https://www.legislation.gov.uk/ssi/2007/82/article/4/e/i)

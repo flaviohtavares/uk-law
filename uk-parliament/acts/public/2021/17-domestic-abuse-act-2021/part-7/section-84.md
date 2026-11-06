@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Power of Secretary of State to issue guidance about domestic abuse, etc[^key-57b0ffda1f82105e632c37baedd5c040]
+## 84. Power of Secretary of State to issue guidance about domestic abuse, etc[^c-57b0ffda1f82105e632c37baedd5c040]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ But nothing in this section permits the Secretary of State to issue guidance to 
 
 ## Annotations
 
-[^key-57b0ffda1f82105e632c37baedd5c040]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2021/17/section/84) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/d)
+[^c-57b0ffda1f82105e632c37baedd5c040]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2021/17/section/84) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/d)

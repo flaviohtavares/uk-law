@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 114. Evidence and information required by rent officers[^key-4acd82230271b75da90613d08f958b1e]
+## 114. Evidence and information required by rent officers[^c-4acd82230271b75da90613d08f958b1e]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4acd82230271b75da90613d08f958b1e]: Textual amendment: Reg. 114 omitted (7.4.2008) by virtue of [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/3/3)
+[^c-4acd82230271b75da90613d08f958b1e]: Textual amendment: Reg. 114 omitted (7.4.2008) by virtue of [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/3/3)

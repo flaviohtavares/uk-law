@@ -31,7 +31,7 @@ summary: ''
 
 Town And Country Planning, Wales
 
-The Listed Buildings (Heritage Partnership Agreements) (Wales) Regulations 2021 (revoked)[^key-668ca682376e6185d60c110fef2bbe75]
+The Listed Buildings (Heritage Partnership Agreements) (Wales) Regulations 2021 (revoked)[^c-668ca682376e6185d60c110fef2bbe75]
 
 Made
 
@@ -41,67 +41,67 @@ Coming into force
 
 1 January 2022
 
-[^key-668ca682376e6185d60c110fef2bbe75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-668ca682376e6185d60c110fef2bbe75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-668ca682376e6185d60c110fef2bbe75]
+## 1. Title and commencement[^c-668ca682376e6185d60c110fef2bbe75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-668ca682376e6185d60c110fef2bbe75]
+## 2. Interpretation[^c-668ca682376e6185d60c110fef2bbe75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Matters which must be included in heritage partnership agreement[^key-668ca682376e6185d60c110fef2bbe75]
+## 3. Matters which must be included in heritage partnership agreement[^c-668ca682376e6185d60c110fef2bbe75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Consultation and publicity on draft heritage partnership agreement and draft variation: general[^key-668ca682376e6185d60c110fef2bbe75]
+## 4. Consultation and publicity on draft heritage partnership agreement and draft variation: general[^c-668ca682376e6185d60c110fef2bbe75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Consultation with the Welsh Ministers on draft heritage partnership agreement or draft variation[^key-668ca682376e6185d60c110fef2bbe75]
+## 5. Consultation with the Welsh Ministers on draft heritage partnership agreement or draft variation[^c-668ca682376e6185d60c110fef2bbe75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Publicity requirements: draft heritage partnership agreement or draft variation[^key-668ca682376e6185d60c110fef2bbe75]
+## 6. Publicity requirements: draft heritage partnership agreement or draft variation[^c-668ca682376e6185d60c110fef2bbe75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Consideration of whether to make or vary agreement[^key-668ca682376e6185d60c110fef2bbe75]
+## 7. Consideration of whether to make or vary agreement[^c-668ca682376e6185d60c110fef2bbe75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Publicity requirement: list and copies of heritage partnership agreements and variations[^key-668ca682376e6185d60c110fef2bbe75]
+## 8. Publicity requirement: list and copies of heritage partnership agreements and variations[^c-668ca682376e6185d60c110fef2bbe75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Termination of heritage partnership agreement by the local planning authority[^key-668ca682376e6185d60c110fef2bbe75]
+## 9. Termination of heritage partnership agreement by the local planning authority[^c-668ca682376e6185d60c110fef2bbe75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Termination of heritage partnership agreement by the Welsh Ministers[^key-668ca682376e6185d60c110fef2bbe75]
+## 10. Termination of heritage partnership agreement by the Welsh Ministers[^c-668ca682376e6185d60c110fef2bbe75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Procedure for termination of heritage partnership agreement[^key-668ca682376e6185d60c110fef2bbe75]
+## 11. Procedure for termination of heritage partnership agreement[^c-668ca682376e6185d60c110fef2bbe75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Compensation where heritage partnership agreement terminated in whole or part[^key-668ca682376e6185d60c110fef2bbe75]
+## 12. Compensation where heritage partnership agreement terminated in whole or part[^c-668ca682376e6185d60c110fef2bbe75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Disapplication and modification of the 1990 Act[^key-668ca682376e6185d60c110fef2bbe75]
+## 13. Disapplication and modification of the 1990 Act[^c-668ca682376e6185d60c110fef2bbe75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-668ca682376e6185d60c110fef2bbe75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-668ca682376e6185d60c110fef2bbe75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-668ca682376e6185d60c110fef2bbe75]
+## SCHEDULE[^c-668ca682376e6185d60c110fef2bbe75]
 
 Regulation 13
 
@@ -109,8 +109,8 @@ Regulation 13
 
 **May not be in force at this date. Check the source.**
 
-[^key-668ca682376e6185d60c110fef2bbe75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-668ca682376e6185d60c110fef2bbe75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-668ca682376e6185d60c110fef2bbe75]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/1177) revoked (4.11.2024) by [The Listed Buildings (Partnership Agreements) (Wales) Regulations 2024 (S.I. 2024/926)](https://www.legislation.gov.uk/wsi/2024/926), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/926/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2024/926/regulation/7)
+[^c-668ca682376e6185d60c110fef2bbe75]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/1177) revoked (4.11.2024) by [The Listed Buildings (Partnership Agreements) (Wales) Regulations 2024 (S.I. 2024/926)](https://www.legislation.gov.uk/wsi/2024/926), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/926/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2024/926/regulation/7)

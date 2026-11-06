@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) Where it appears to an authorised officer of an enforcement authority that in respect of an establishment [^key-c13c5034d50a5cd3d8d8766eda5d13d2]...–
+(1) Where it appears to an authorised officer of an enforcement authority that in respect of an establishment [^c-c13c5034d50a5cd3d8d8766eda5d13d2]...–
 
 - (a) any of the requirements of the Hygiene Regulations is being breached; or
 - (b) inspection under the Hygiene Regulations is being hampered,
@@ -45,4 +45,4 @@ the authorised officer may, by a notice served on the relevant food business ope
 
 ## Annotations
 
-[^key-c13c5034d50a5cd3d8d8766eda5d13d2]: Textual amendment: Words in reg. 9(1) omitted (1.4.2012) by virtue of [The Food Hygiene (Scotland) Amendment Regulations 2012 (S.S.I. 2012/75)](https://www.legislation.gov.uk/ssi/2012/75), [regs. 1](https://www.legislation.gov.uk/ssi/2012/75/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2012/75/regulation/2/4)
+[^c-c13c5034d50a5cd3d8d8766eda5d13d2]: Textual amendment: Words in reg. 9(1) omitted (1.4.2012) by virtue of [The Food Hygiene (Scotland) Amendment Regulations 2012 (S.S.I. 2012/75)](https://www.legislation.gov.uk/ssi/2012/75), [regs. 1](https://www.legislation.gov.uk/ssi/2012/75/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2012/75/regulation/2/4)

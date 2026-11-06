@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — SPECIFIED BENCHMARKS[^key-d88ec0c7a84d1674b9b1f0fe7f8e695f]
+## SCHEDULE 5 — SPECIFIED BENCHMARKS[^c-d88ec0c7a84d1674b9b1f0fe7f8e695f]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Article 63R
 
 ## Annotations
 
-[^key-d88ec0c7a84d1674b9b1f0fe7f8e695f]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2001/544/schedule/5) revoked (1.5.2020) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2/b), [53(e)](https://www.legislation.gov.uk/uksi/2018/135/regulation/53/e) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2018/135/part/7))
+[^c-d88ec0c7a84d1674b9b1f0fe7f8e695f]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2001/544/schedule/5) revoked (1.5.2020) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2/b), [53(e)](https://www.legislation.gov.uk/uksi/2018/135/regulation/53/e) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2018/135/part/7))

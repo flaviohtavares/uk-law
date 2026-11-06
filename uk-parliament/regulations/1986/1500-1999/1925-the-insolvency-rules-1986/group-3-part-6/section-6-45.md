@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.45. Settlement and content of bankruptcy order[^key-99ba731b286d9886cb3958b41d80676a]
+## 6.45. Settlement and content of bankruptcy order[^c-99ba731b286d9886cb3958b41d80676a]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-99ba731b286d9886cb3958b41d80676a]: Commencement: Rule 6.45 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-99ba731b286d9886cb3958b41d80676a]: Commencement: Rule 6.45 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00146]: Marginal citation: \[FORM 6.30\]

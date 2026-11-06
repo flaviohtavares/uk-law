@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Closure and adjustment of pension accounts on transfer out or repayment of balance of contributions[^key-f06bde30b28796c095206314ee380770]
+## 38. Closure and adjustment of pension accounts on transfer out or repayment of balance of contributions[^c-f06bde30b28796c095206314ee380770]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f06bde30b28796c095206314ee380770]: Commencement: Reg. 38 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-f06bde30b28796c095206314ee380770]: Commencement: Reg. 38 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00051]: Footnote: Regulation 125 provides for extinguishment of rights following the refund of all member contributions and payments for added pension made by the member. Regulation 147 (effect of transfers-out) provides for extinguishment of rights following the making of a transfer payment.

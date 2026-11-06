@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38.[^key-15dfe1f7ca80b0a6876b22c70dcefa0d]
+## 38.[^c-15dfe1f7ca80b0a6876b22c70dcefa0d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 34ZA [^c23883011], omit subsection (5).
 
 ## Annotations
 
-[^key-15dfe1f7ca80b0a6876b22c70dcefa0d]: Commencement: Reg. 38 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-15dfe1f7ca80b0a6876b22c70dcefa0d]: Commencement: Reg. 38 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23883011]: Marginal citation: Sections 34ZA to 34ZC were inserted by paragraphs 1 and 4 of Schedule 8 to the Enterprise and Regulatory Reform Act 2013.

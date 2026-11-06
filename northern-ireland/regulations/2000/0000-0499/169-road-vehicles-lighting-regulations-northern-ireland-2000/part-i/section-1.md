@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-5c1b0242f712ababe2c273605347d354]
+## 1. Citation and commencement[^c-5c1b0242f712ababe2c273605347d354]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Road Vehicles Lighting Regulations (Northe
 
 ## Annotations
 
-[^key-5c1b0242f712ababe2c273605347d354]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-5c1b0242f712ababe2c273605347d354]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

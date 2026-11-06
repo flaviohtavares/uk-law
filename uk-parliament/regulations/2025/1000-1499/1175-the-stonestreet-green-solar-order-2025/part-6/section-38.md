@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Use of subsoil and airspace within the Order limits[^key-9c98cf1d63f8df964e34102eba9a7c50]
+## 38. Use of subsoil and airspace within the Order limits[^c-9c98cf1d63f8df964e34102eba9a7c50]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c98cf1d63f8df964e34102eba9a7c50]: Commencement: Art. 38 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-9c98cf1d63f8df964e34102eba9a7c50]: Commencement: Art. 38 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)

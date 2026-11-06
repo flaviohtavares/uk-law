@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 110. Interpretation[^key-d81c86fc29a7c8a862c08733e36e1f2a]
+## 110. Interpretation[^c-d81c86fc29a7c8a862c08733e36e1f2a]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ In this Part—
 
 ## Annotations
 
-[^key-d81c86fc29a7c8a862c08733e36e1f2a]: Commencement: [S. 110](https://www.legislation.gov.uk/mwa/2011/1/section/110) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)
+[^c-d81c86fc29a7c8a862c08733e36e1f2a]: Commencement: [S. 110](https://www.legislation.gov.uk/mwa/2011/1/section/110) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)

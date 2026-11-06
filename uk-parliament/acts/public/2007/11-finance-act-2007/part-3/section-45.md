@@ -36,14 +36,14 @@ summary: ''
 
 (3) In subsection (2), for “under section 460(1) for profits arising from any part of a life or endowment” substitute “ in relation to profits arising from any part of a ”.
 
-(4)[^key-cefd228ec961643da9522b693e65338e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-cefd228ec961643da9522b693e65338e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-e2e5bf679a5be99a907ec19a3c319ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e2e5bf679a5be99a907ec19a3c319ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) The amendments made by this section are deemed to have come into force on 1st January 2007.
 
 ## Annotations
 
-[^key-cefd228ec961643da9522b693e65338e]: Textual amendment: S. 45(4) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 18 para. 5(3)(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/18/paragraph/5/3/c)
+[^c-cefd228ec961643da9522b693e65338e]: Textual amendment: S. 45(4) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 18 para. 5(3)(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/18/paragraph/5/3/c)
 
-[^key-e2e5bf679a5be99a907ec19a3c319ea7]: Textual amendment: S. 45(5) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 18 para. 5(3)(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/18/paragraph/5/3/c)
+[^c-e2e5bf679a5be99a907ec19a3c319ea7]: Textual amendment: S. 45(5) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 18 para. 5(3)(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/18/paragraph/5/3/c)

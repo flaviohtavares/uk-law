@@ -52,17 +52,17 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.
 
-## 1. Citation, commencement and extent.[^key-51992eec7a368951567b933a242e0355]
+## 1. Citation, commencement and extent.[^c-51992eec7a368951567b933a242e0355]
 
-These Regulations may be cited as the Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 and come into force on IP completion day[^key-3509c9ed22d675576c21cc2510c2da07].
+These Regulations may be cited as the Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 and come into force on IP completion day[^c-3509c9ed22d675576c21cc2510c2da07].
 
-## 2.[^key-bac751ff621bdd859bf3557f956112cb]
+## 2.[^c-bac751ff621bdd859bf3557f956112cb]
 
 These Regulations extend to Northern Ireland only.
 
 ## PART 1 — Amendment of the Waste Provisions
 
-### 3.[^key-9ab34e11ce1f9998bbdfcdd0abf2ba2e]
+### 3.[^c-9ab34e11ce1f9998bbdfcdd0abf2ba2e]
 
 (1) Schedule 1 amends the Waste Provisions.
 
@@ -79,7 +79,7 @@ These Regulations extend to Northern Ireland only.
 
 ## PART 2 — Amendment of the Air and Environmental Quality Provisions.
 
-### 4.[^key-0ef644441911487c73d3ad908f35967c]
+### 4.[^c-0ef644441911487c73d3ad908f35967c]
 
 (1) Schedule 2 amends the Air and Environmental Quality Provisions.
 
@@ -90,7 +90,7 @@ These Regulations extend to Northern Ireland only.
 
 ## PART 3
 
-### 5.[^key-326fe638a7cd26153d91ac54a5263484][^key-311315c41edf172533965fa64be42f5f]
+### 5.[^c-326fe638a7cd26153d91ac54a5263484][^c-311315c41edf172533965fa64be42f5f]
 
 Schedule 3 modifies specified EU Directives for the purposes of these Regulations; and for the purpose of––
 
@@ -119,11 +119,11 @@ Department for Environment, Food and Rural Affairs
 
 Regulation 3
 
-### 1. Amendment of the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations (Northern Ireland) 1999[^key-a8bc4ddcb7c152c45e0026d5c300d8d7]
+### 1. Amendment of the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations (Northern Ireland) 1999[^c-a8bc4ddcb7c152c45e0026d5c300d8d7]
 
 In the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations (Northern Ireland) 1999, in regulation 2(2) (Exemption from registration) in the definition of “animal-by-products” for “Article 2” substitute “ Article 3 ”.
 
-### 2. Amendment of the Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) Regulations (Northern Ireland) 2000[^key-e7f87108c391bb19353e32e85cad87c9]
+### 2. Amendment of the Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) Regulations (Northern Ireland) 2000[^c-e7f87108c391bb19353e32e85cad87c9]
 
 (1) The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) Regulations (Northern Ireland) 2000 are amended as follows.
 
@@ -142,7 +142,7 @@ In the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regul
 
   .
 
-### 3. Amendment of the Waste Management Licensing Regulations (Northern Ireland) 2003[^key-bafd7aed7c127ab1bf18724a0d8ba665]
+### 3. Amendment of the Waste Management Licensing Regulations (Northern Ireland) 2003[^c-bafd7aed7c127ab1bf18724a0d8ba665]
 
 (1) The Waste Management Licensing Regulations (Northern Ireland) 2003 are amended as follows.
 
@@ -286,7 +286,7 @@ In the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regul
 - (a) in the N.B. for “In accordance with Article 13 of the Directive” substitute “ All ”; and
 - (b) in column 2 opposite the entry in Column 1 row D11 for “EU legislation” substitute “ retained EU law ”.
 
-(14)[^key-0ca863e257e461abb1d415dd714d8bc2] In Schedule 3 Part III, in the N.B. for “In accordance with Articles 4 and 13 of the Directive” substitute “All”.
+(14)[^c-0ca863e257e461abb1d415dd714d8bc2] In Schedule 3 Part III, in the N.B. for “In accordance with Articles 4 and 13 of the Directive” substitute “All”.
 
 (15) In Schedule 3 Part IV—
 
@@ -368,20 +368,20 @@ In the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regul
 >     - (iv) radioactive waste;
 >     - (v) decommissioned explosives;
 >     - (vi) faecal matter, if not covered by sub-paragraph (c)(ii), straw or other natural non-hazardous agricultural or forestry material used in farming, forestry or for the production of energy from biomass through processes or methods which do not harm the environment or endanger human health;
->   - (c) the following shall be excluded from the scope of paragraph (a) to the extent that they are covered by other retained EU law or EU law which applies by virtue of the Northern Ireland Protocol[^key-1e58dca4cf4388ede5b75e770e319b19]—
+>   - (c) the following shall be excluded from the scope of paragraph (a) to the extent that they are covered by other retained EU law or EU law which applies by virtue of the Northern Ireland Protocol[^c-1e58dca4cf4388ede5b75e770e319b19]—
 >     - (i) waste waters;
->     - (ii) animal by-products including processed products covered by Regulation 1069/2009[^key-9997139028cdec403de56d00cc7350d8], except those which are destined for incineration, landfilling or use in a biogas or composting plant;
->     - (iii) carcasses of animals that have died otherwise than by being slaughtered, including animals killed to eradicate epizootic diseases and that are disposed in accordance with 1069/2009[^key-fc774762c7f4a971a907e991bb4958fe];
+>     - (ii) animal by-products including processed products covered by Regulation 1069/2009[^c-9997139028cdec403de56d00cc7350d8], except those which are destined for incineration, landfilling or use in a biogas or composting plant;
+>     - (iii) carcasses of animals that have died otherwise than by being slaughtered, including animals killed to eradicate epizootic diseases and that are disposed in accordance with 1069/2009[^c-fc774762c7f4a971a907e991bb4958fe];
 >     - (iv) waste resulting from prospecting, extraction, treatment and storage of mineral resources and the working of quarries;
->     - (v) substances that are destined for use as feed materials as defined in point (g) of Article 3(2) of Regulation[^key-15aae99ab8a15160a7f8dc0253630589] [(EC) No 767/2009](https://www.legislation.gov.uk/eur/2009/0767) of the European Parliament and of the Council and that do not consist of or contain animal by-products;
+>     - (v) substances that are destined for use as feed materials as defined in point (g) of Article 3(2) of Regulation[^c-15aae99ab8a15160a7f8dc0253630589] [(EC) No 767/2009](https://www.legislation.gov.uk/eur/2009/0767) of the European Parliament and of the Council and that do not consist of or contain animal by-products;
 >   - (d) without prejudice to obligations under other relevant retained EU law, sediments located inside surface waters for the purpose of managing waters and waterways or of preventing flood or mitigating the effects of floods, drought or land reclamation shall be excluded from the scope of paragraph (a) if it is proved that the sediments are non-hazardous;
 >   - (e) a substance or object resulting from a production process, the primary aim of which is not the production of that item, may be regarded as not being waste referred to in paragraph (a) but as being a by-product only if the following conditions are met—
 >     - (i) further use of the substance or object is certain;
 >     - (ii) the substance or object can be used directly without any further processing other than normal industrial practice;
 >     - (iii) the substance or object is produce as an integral part of the process; and
 >     - (iv) further use is unlawful i.e. the substance or object fulfils all relevant product, environmental and health protection requirements for the specific use and will not lead to overall adverse environmental or human health impacts;
->   - (f) certain specified waste shall cease to be within the scope of paragraph (a) when it has undergone a recycling or other recovery operation if it complies with the following conditions[^key-54565e89efa0203a9f46fa98e93f249d]—
->     - (i) the substance or object is to be used for specific purposes;[^key-6ca0b6a54a38d234088963025cdf1b84]
+>   - (f) certain specified waste shall cease to be within the scope of paragraph (a) when it has undergone a recycling or other recovery operation if it complies with the following conditions[^c-54565e89efa0203a9f46fa98e93f249d]—
+>     - (i) the substance or object is to be used for specific purposes;[^c-6ca0b6a54a38d234088963025cdf1b84]
 >     - (ii) a market or demand exists for such a substance or object;
 >     - (iii) the substance or object fulfils the technical requirements for the specific purposes and meets the existing legislation and standards applicable to products;
 >     - (iv) the use of the substance or object will not lead to overall adverse environmental or human health impacts; and
@@ -391,7 +391,7 @@ In the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regul
 
 .
 
-### 4. Amendment of the Landfill Regulations (Northern Ireland) 2003[^key-ee3806a105a58044988e9a0bd1688ea0]
+### 4. Amendment of the Landfill Regulations (Northern Ireland) 2003[^c-ee3806a105a58044988e9a0bd1688ea0]
 
 (1) The Landfill Regulations (Northern Ireland) 2003 [^c23598291] are amended as follows.
 
@@ -403,7 +403,7 @@ In the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regul
 
 (3) In Schedule 1 (CRITERIA AND PROCEDURES FOR THE ACCEPTANCE OF WASTE AT LANDFILLS) in paragraph 5(1)(g) omit “according to Annex III of the Hazardous Waste Directive”.
 
-### 5. Amendment of the Landfill Allowances Scheme (Northern Ireland) Regulations 2004[^key-0654a47445d55ee8167bd15b64a6f44e]
+### 5. Amendment of the Landfill Allowances Scheme (Northern Ireland) Regulations 2004[^c-0654a47445d55ee8167bd15b64a6f44e]
 
 (1) The Landfill Allowances Scheme (Northern Ireland) Regulations 2004 [^c23598301] are amended as follows.
 
@@ -420,7 +420,7 @@ In the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regul
 
   .
 
-### 6. Amendment of the Hazardous Waste Regulations (Northern Ireland) 2005[^key-207cc8cdf20be3c6ffa7375de6dd1ef9]
+### 6. Amendment of the Hazardous Waste Regulations (Northern Ireland) 2005[^c-207cc8cdf20be3c6ffa7375de6dd1ef9]
 
 (1) The Hazardous Waste Regulations (Northern Ireland) 2005 [^c23598321] are amended as follows.
 
@@ -447,9 +447,9 @@ In the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regul
 
 .
 
-(5)[^key-41106eee98625ae15b79e78a6bf71529] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-41106eee98625ae15b79e78a6bf71529] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-41106eee98625ae15b79e78a6bf71529] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-41106eee98625ae15b79e78a6bf71529] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In regulation 19 (Prohibition on mixing hazardous waste without a permit)—
 
@@ -465,13 +465,13 @@ In the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regul
 
 (9) In regulation 47(2) (Responsibilities of the Department) omit “, and in accordance with Article 28 of the Waste Directive and”.
 
-### 7. Amendment of the Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2007[^key-dc1ddebdc01264e8e60d763c977465d1]
+### 7. Amendment of the Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2007[^c-dc1ddebdc01264e8e60d763c977465d1]
 
 (1) The Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2007 [^c23598331] are amended as follows.
 
-(2)[^key-671987629c9b74ee17bb4baba0bbaa79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-671987629c9b74ee17bb4baba0bbaa79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-671987629c9b74ee17bb4baba0bbaa79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-671987629c9b74ee17bb4baba0bbaa79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In Schedule 1 (PRODUCERS) in paragraph 4(2)(b)(i) omit “as defined in paragraph 1(a) of Article 3 of the Packaging Waste Directive”.
 
@@ -480,7 +480,7 @@ In the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regul
 - (a) in sub-paragraph (b) omit “provided for in Annex II of the Waste Directive”; and
 - (b) in sub-paragraph (c) omit “under Annex I or Annex II of the Waste Directive”.
 
-### 8. Amendment of the Controlled Waste and Duty of Care Regulations (Northern Ireland) 2013[^key-d988556b886013da7f4cf23d0237b78c]
+### 8. Amendment of the Controlled Waste and Duty of Care Regulations (Northern Ireland) 2013[^c-d988556b886013da7f4cf23d0237b78c]
 
 In the Controlled Waste and Duty of Care Regulations (Northern Ireland) 2013 [^c23598341], in regulation 1(2) for the definition of “Directive Waste” substitute—
 
@@ -492,7 +492,7 @@ In the Controlled Waste and Duty of Care Regulations (Northern Ireland) 2013 [^c
 
 Regulation 4
 
-### 1. Amendment of the Air Quality Standards Regulations (Northern Ireland) 2010[^key-7ae1f539c28457cdaba2ea9268b1148e]
+### 1. Amendment of the Air Quality Standards Regulations (Northern Ireland) 2010[^c-7ae1f539c28457cdaba2ea9268b1148e]
 
 (1) The Air Quality Standards Regulations (Northern Ireland) 2010 [^c23598351] are amended as follows.
 
@@ -521,7 +521,7 @@ Regulation 4
 - (a) after “comprehensible manner” insert “ , including the applicable methodology, ”; and
 - (b) after “the European Community” insert “ in so far as it has been transposed and it forms part of retained EU law ”.
 
-### 2. Amendment of the Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013[^key-d5f8bdef7eca307ab8e17bff0c90edf6]
+### 2. Amendment of the Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013[^c-d5f8bdef7eca307ab8e17bff0c90edf6]
 
 (1) The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013 are amended as follows.
 
@@ -562,7 +562,7 @@ Regulation 4
 
 Regulation 5
 
-**1.**[^key-b80c6b9b08f8fbf19b262f5ff479978d] (1) In this Schedule—
+**1.**[^c-b80c6b9b08f8fbf19b262f5ff479978d] (1) In this Schedule—
 
 - “**the Air Quality Fourth Daughter Directive**” means Directive [2004/107/EC](https://www.legislation.gov.uk/eudr/2004/107) of the European Parliament and of the Council relating to arsenic, cadmium, mercury, nickel and polycyclic aromatic hydrocarbons in ambient air [^c23598421];
 - “**the Ambient Air Quality Directive**” means Directive [2008/50/EC](https://www.legislation.gov.uk/eudr/2008/50) of the European Parliament and of the Council on ambient air quality and cleaner air for Europe [^c23598431];
@@ -576,7 +576,7 @@ Regulation 5
 - “**the Waste Framework Directive**” means Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council on waste [^c23598511];
 - “**the WEEE Directive**” means Directive [2012/19/EC](https://www.legislation.gov.uk/eudr/2012/19) of the European Parliament and of the Council on waste electrical and electronic equipment (WEEE) [^c23598521].
 
-### 2. Modifications of the Air Quality Fourth Daughter Directive[^key-dcfc2dd02b92bfb2fb7ea8e820fb2577]
+### 2. Modifications of the Air Quality Fourth Daughter Directive[^c-dcfc2dd02b92bfb2fb7ea8e820fb2577]
 
 (1) For the purposes of the Air Quality Standards Regulations (Northern Ireland) 2010, the Air Quality Fourth Daughter Directive is to be read in accordance with this paragraph.
 
@@ -598,7 +598,7 @@ Regulation 5
 - (c) in section 3, in the second paragraph for “A Member State” there were substituted “ The Department ”; and
 - (d) section 5 were omitted.
 
-### 3. Modifications of the Ambient Air Quality Directive[^key-add8fdce0d97b2e86674b42c4267af29]
+### 3. Modifications of the Ambient Air Quality Directive[^c-add8fdce0d97b2e86674b42c4267af29]
 
 (1) For the purposes of the Air Quality Standards Regulations (Northern Ireland) 2010, the Ambient Air Quality Directive is to be read in accordance with this paragraph.
 
@@ -637,11 +637,11 @@ Regulation 5
   - (ii) for “the Member State” there were substituted “ the Department ”;
 - (b) paragraphs 2, 3 and 4 were omitted.
 
-(9) Annex 8 is to be read as if, in section A, in the paragraph following the table, after the words “in the Community” there were inserted “ insofar as it forms part of assimilated[^key-e3536f0a49ba7f03d6d480942cb14677] law ”.
+(9) Annex 8 is to be read as if, in section A, in the paragraph following the table, after the words “in the Community” there were inserted “ insofar as it forms part of assimilated[^c-e3536f0a49ba7f03d6d480942cb14677] law ”.
 
-### 4. Modification of the Asbestos Directive[^key-37959313d070eec75abd416caf030fca]
+### 4. Modification of the Asbestos Directive[^c-37959313d070eec75abd416caf030fca]
 
-(1) For the purposes of these Regulations and the legislation specified in regulation 5[^key-86ce3a8eeb882e430862c82880dd61d8], the Asbestos Directive is to be read in accordance with this paragraph.
+(1) For the purposes of these Regulations and the legislation specified in regulation 5[^c-86ce3a8eeb882e430862c82880dd61d8], the Asbestos Directive is to be read in accordance with this paragraph.
 
 (2) When interpreting the Asbestos Directive for the purposes of these Regulations—
 
@@ -678,9 +678,9 @@ Regulation 5
     - (aa) in point 1, for “controlling authority” there were substituted “ Department ”; and
     - (bb) in point 8, for the words from “conform” to the end there were substituted “ be conducted in accordance with Article 7(6) of Directive [2009/148/EC](https://www.legislation.gov.uk/eudr/2009/148) ”.
 
-### 5. Modifications of the Basic Safety Standards Directive[^key-26b65ebd5e72844f1ab3c3db0df27a39]
+### 5. Modifications of the Basic Safety Standards Directive[^c-26b65ebd5e72844f1ab3c3db0df27a39]
 
-(1) For the purposes of these Regulations and the legislation specified in regulation 5[^key-b3ae514f62fa4db9cac3ac01f9edd4dd], the Basic Safety Standards Directive is to be read in accordance with this paragraph.
+(1) For the purposes of these Regulations and the legislation specified in regulation 5[^c-b3ae514f62fa4db9cac3ac01f9edd4dd], the Basic Safety Standards Directive is to be read in accordance with this paragraph.
 
 (2) Article 4 is to be read as if—
 
@@ -782,20 +782,20 @@ Regulation 5
 - (a) in point (b), for “Member States” there were substituted “ the Department ”; and
 - (b) in points (d), (e) and (g) for “competent authority” where it occurs there were substituted “ the Department ”.
 
-### 6. Modification of the Batteries Directive[^key-c98dcd01c3bd59b70273e97bd7477de5]
+### 6. Modification of the Batteries Directive[^c-c98dcd01c3bd59b70273e97bd7477de5]
 
-(1) For the purposes of these Regulations and the legislation specified in regulation 5[^key-c2801ea6faa74722e0c0a19564a5388f], the Batteries Directive is to be read in accordance with this paragraph.
+(1) For the purposes of these Regulations and the legislation specified in regulation 5[^c-c2801ea6faa74722e0c0a19564a5388f], the Batteries Directive is to be read in accordance with this paragraph.
 
-(2)[^key-c92d745094c9d348d77841dfe2db58f3] Article 2(2)(a) is to be read as for the words “Member States’ essential security interests” there were substituted “the essential security interests of the United Kingdom and Member States”.
+(2)[^c-c92d745094c9d348d77841dfe2db58f3] Article 2(2)(a) is to be read as for the words “Member States’ essential security interests” there were substituted “the essential security interests of the United Kingdom and Member States”.
 
 (3) Article 3 is to be read as if—
 
 - (a) in point (7), for “Article 1(1)(a) of Directive [2006/12/EC](https://www.legislation.gov.uk/eudr/2006/12) [^c23598581]” there were substituted “ Article 3(1) of the Waste Framework Directive, as read with Articles 5 and 6 of that Directive ”; and
 - (b) in point (9), for “Annex IIA to Directive [2006/12/EC](https://www.legislation.gov.uk/eudr/2006/12)” there were substituted “ Annex 1 to the Waste Framework Directive ”.
 
-### 7. Modification of the End-of-Life Vehicles Directive[^key-b2c7053cf76a6634bcfce1f16b183c3f]
+### 7. Modification of the End-of-Life Vehicles Directive[^c-b2c7053cf76a6634bcfce1f16b183c3f]
 
-(1) For the purposes of these Regulations and the legislation specified in regulation 5[^key-622f252c187b869337f41cad4a0022d1], the End-of-Life Vehicles Directive is to be read in accordance with this paragraph.
+(1) For the purposes of these Regulations and the legislation specified in regulation 5[^c-622f252c187b869337f41cad4a0022d1], the End-of-Life Vehicles Directive is to be read in accordance with this paragraph.
 
 (2) When interpreting the End-of-Life Vehicles Directive for the purposes of these Regulations—
 
@@ -830,7 +830,7 @@ Regulation 5
 (5) Article 6 is to be read as if—
 
 - (a) in paragraph 1—
-  - (i)[^key-e7a7d5a9a0e30b962dd1b548bf1e6973] for “[Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098) of the European Parliament and of the Council” there were substituted “the Waste Framework Directive”;
+  - (i)[^c-e7a7d5a9a0e30b962dd1b548bf1e6973] for “[Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098) of the European Parliament and of the Council” there were substituted “the Waste Framework Directive”;
   - (ii) “, without prejudice to national regulations on health and environment” were omitted;
 - (b) in paragraph 3, in the words before point (a), for “establishment or undertaking” there were substituted “ operator ”.
 
@@ -838,9 +838,9 @@ Regulation 5
 
 (7) In sub-paragraph (2)(b), “local authority” in Northern Ireland means a district council within the meaning of section 1 of the Local Government Act (Northern Ireland) 1972 [^c23598641].
 
-### 8. Modification of the Industrial Emissions Directive[^key-dad2615cfe292053892df7885243cbd2]
+### 8. Modification of the Industrial Emissions Directive[^c-dad2615cfe292053892df7885243cbd2]
 
-(1) For the purposes of these Regulations and the legislation specified in regulation 5[^key-62bec7904ce85f93e65c2c5d00175668], the Industrial Emissions Directive is to be read in accordance with this paragraph.
+(1) For the purposes of these Regulations and the legislation specified in regulation 5[^c-62bec7904ce85f93e65c2c5d00175668], the Industrial Emissions Directive is to be read in accordance with this paragraph.
 
 (2) When interpreting the Industrial Emissions Directive for the purposes of these Regulations—
 
@@ -864,7 +864,7 @@ Regulation 5
   > (4) “**emission**” has the meaning given in regulation 2(1) of the Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013;
 
   ;
-- (c) in point (6), for “Union law” there were substituted “assimilated[^key-8554be7a38267995109e50f05bba8c8c] law”;
+- (c) in point (6), for “Union law” there were substituted “assimilated[^c-8554be7a38267995109e50f05bba8c8c] law”;
 - (d) for points (7) and (8) there were substituted—
 
   > (7) ‘permit’ has the same meaning as in the Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013.
@@ -876,7 +876,7 @@ Regulation 5
 
   ;
 - (e) in point (10)(b), for “Member State in question” there were substituted “ United Kingdom ”;
-- (f) in point (12), for “means a document” there were substituted “ except where Article 13(7) applies, means a document annexed to assimilated direct[^key-667f6fd053a81b01eaef38c5b41fc6c7] legislation made under Article 13(5) as that Article had effect immediately before IP completion day”;
+- (f) in point (12), for “means a document” there were substituted “ except where Article 13(7) applies, means a document annexed to assimilated direct[^c-667f6fd053a81b01eaef38c5b41fc6c7] legislation made under Article 13(5) as that Article had effect immediately before IP completion day”;
 - (g) for point (18) there were substituted—
 
   > (18) ‘hazardous substances’ has the meaning given by regulation 2(1) of the Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013;
@@ -912,7 +912,7 @@ Regulation 5
 (4) Article 5 is to be read as if—
 
 - (a) in paragraph 1, the words from “Without prejudice” to “Union law,” were omitted; and
-- (b) in paragraph 3, a reference to a numbered Article of Directive [85/337/EEC](https://www.legislation.gov.uk/eudr/1985/337) [^c23598671] were a reference to the assimilated[^key-323f7363c468b9106870fd46f76891e3] law which transposed the same numbered Article of Directive 2011/92/EU of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment [^c23598681] in respect of Northern Ireland.
+- (b) in paragraph 3, a reference to a numbered Article of Directive [85/337/EEC](https://www.legislation.gov.uk/eudr/1985/337) [^c23598671] were a reference to the assimilated[^c-323f7363c468b9106870fd46f76891e3] law which transposed the same numbered Article of Directive 2011/92/EU of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment [^c23598681] in respect of Northern Ireland.
 
 (5) Article 7 is to be read as if, in the words before point (a)—
 
@@ -936,8 +936,8 @@ Regulation 5
 
 - (a) in paragraph 1, in the words before point (a), for “Member States” there were substituted “ The Department ”;
 - (b) in paragraph 2—
-  - (i) for “Directive [85/337/EEC](https://www.legislation.gov.uk/eudr/1985/337) [^c23598711]” there were substituted “ the assimilated[^key-a51b4765960a34fa8c500b6a4db7aec6] law which transposed Directive 2011/92/EU [^c23598721] in respect of Northern Ireland ”;
-  - (ii) for “Directive [96/82/EC](https://www.legislation.gov.uk/eudr/1996/82) [^c23598731]” there were substituted “ the assimilated[^key-988e822822d9b6f8bb5c30d3fac9ff71] law which transposed Directive 2012/18/EU of the European Parliament and of the Council [^c23598741] in respect of Northern Ireland ”.
+  - (i) for “Directive [85/337/EEC](https://www.legislation.gov.uk/eudr/1985/337) [^c23598711]” there were substituted “ the assimilated[^c-a51b4765960a34fa8c500b6a4db7aec6] law which transposed Directive 2011/92/EU [^c23598721] in respect of Northern Ireland ”;
+  - (ii) for “Directive [96/82/EC](https://www.legislation.gov.uk/eudr/1996/82) [^c23598731]” there were substituted “ the assimilated[^c-988e822822d9b6f8bb5c30d3fac9ff71] law which transposed Directive 2012/18/EU of the European Parliament and of the Council [^c23598741] in respect of Northern Ireland ”.
 
 (10) Article 13 is to be read as if—
 
@@ -948,7 +948,7 @@ Regulation 5
 
 - (a) in paragraph 1, for “Member States” there were substituted “ The Department ”;
 - (b) in paragraph 4, the second sentence were omitted; and
-- (c) in paragraph 7, for “the legislation” there were substituted “assimilated[^key-a11a7bf637aaf8bf382a53da8849f8b6] law ”.
+- (c) in paragraph 7, for “the legislation” there were substituted “assimilated[^c-a11a7bf637aaf8bf382a53da8849f8b6] law ”.
 
 (12) Article 15(4) is to be read as if the fifth subparagraph were omitted.
 
@@ -965,7 +965,7 @@ Regulation 5
 
 - (a) in paragraph 1, the words from “Without prejudice” to “soil protection” were omitted; and
 - (b) in paragraph 2—
-  - (i) in the third subparagraph, for “Union” there were substituted “assimilated[^key-980b9abb672cb31d99256ac360fc7c86]”; and
+  - (i) in the third subparagraph, for “Union” there were substituted “assimilated[^c-980b9abb672cb31d99256ac360fc7c86]”; and
   - (ii) the fourth subparagraph were omitted.
 
 (17) Article 23 is to be read as if—
@@ -1077,7 +1077,7 @@ Regulation 5
 (41) Annex 6 is to be read as if—
 
 - (a) in Part 4—
-  - (i) in point 1, in the definition of “V<sub>proc</sub>”, for “Union” there were substituted “assimilated[^key-6b0b2e7a66e9a5768eca5896162677a5] law”; and
+  - (i) in point 1, in the definition of “V<sub>proc</sub>”, for “Union” there were substituted “assimilated[^c-6b0b2e7a66e9a5768eca5896162677a5] law”; and
   - (ii) point 3.1 were omitted;
 - (b) in Part 5, in entry 1 of the table, in the second column, after “defined in” there were inserted “ the third entry of Table 1 in ”;
 - (c) in Part 6, in point 2.1(c), after “furans” there were inserted “ and dioxin-like polychlorinated biphenyls and polycyclic aromatic hydrocarbons ”, but only in the case of particular plants where the regulator can demonstrate that emissions of those additional substances are, or are likely to be, significant; and
@@ -1087,9 +1087,9 @@ Regulation 5
 
 (42) Annex 7 is to be read as if, in Part 6, in point 2, for “Member States” there were substituted “ the Department ”.
 
-### 9. Modification of the Landfill Directive[^key-a05c214eb23ce9ee2024ad716aafcd99]
+### 9. Modification of the Landfill Directive[^c-a05c214eb23ce9ee2024ad716aafcd99]
 
-(1) For the purposes of these Regulations and the legislation specified in regulation 5[^key-fa32f35246334922ada0a598630bc28d], the Landfill Directive is to be read in accordance with this paragraph.
+(1) For the purposes of these Regulations and the legislation specified in regulation 5[^c-fa32f35246334922ada0a598630bc28d], the Landfill Directive is to be read in accordance with this paragraph.
 
 (2) When interpreting the Landfill Directive for the purposes of these Regulations—
 
@@ -1108,13 +1108,13 @@ Regulation 5
 
 (4) Article 2 is to be read as if—
 
-- (a)[^key-e20c51d0486eb1512be7e19a0f5a645a] in point (a)—
+- (a)[^c-e20c51d0486eb1512be7e19a0f5a645a] in point (a)—
 
   > - (i) “‘waste’, ‘hazardous waste’, ‘non-hazardous waste’” were omitted; and
   > - (ii) for the words “[Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098)” there were substituted “the Waste Framework Directive”;
 
   ;
-- (b)[^key-f621d70aae3099e26d2b105cbbaef49e] after point (a) there were inserted—
+- (b)[^c-f621d70aae3099e26d2b105cbbaef49e] after point (a) there were inserted—
 
   > - (aa) ‘waste’ has the meaning given by regulation 1(3) of the Waste Management Licensing Regulations (Northern Ireland) 2003;
   > - (bb) ‘hazardous waste’ and ‘non-hazardous waste’ have the meaning given in regulation 2(1) of the Hazardous Waste Regulations (Northern Ireland) 2005;
@@ -1134,22 +1134,22 @@ Regulation 5
 - (b) in point (c), for the words from “(property H9” to the end there were substituted “ by Annex III to the Waste Framework Directive ”;
 - (c) in point (d)—
   - (i) for “two years from the date laid down in Article 18(1)” there were substituted “ 16 July 2001 ”; and
-  - (ii) for “five years from the date laid down in Article 18(1)” there were substituted “ from 16 July 2004 ” ; and[^key-2a91867d5f6abbf66e9322b89b8590f9]
-- (d)[^key-d93c7975d195d74ad0b38c9073876f35] in point (f)––
+  - (ii) for “five years from the date laid down in Article 18(1)” there were substituted “ from 16 July 2004 ” ; and[^c-2a91867d5f6abbf66e9322b89b8590f9]
+- (d)[^c-d93c7975d195d74ad0b38c9073876f35] in point (f)––
   - (i) after “waste”, in the first place it occurs, there were inserted “paper, metal, plastic and glass”;
   - (ii) the words from “pursuant” to “Article 22 of that Directive” were omitted; and;
   - (iii) for the words “Article 4 of that Directive” there were substituted “Article 4 of the Waste Framework Directive”.
 
-(7)[^key-db9527ef60e138cd3bdb30da5f3530d0] In Article 6, point (a) is to be read as if—
+(7)[^c-db9527ef60e138cd3bdb30da5f3530d0] In Article 6, point (a) is to be read as if—
 
 - (a) in the first paragraph, in the second sentence, for “may” there were substituted “does”;
-- (b) in the second paragraph, for the words from “of [Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098)” to the end, there were substituted “set out in Part 1, Schedule 3 of the Waste and Contaminated Land (Northern Ireland) Order 1997, or any objectives in assimilated[^key-831f4fe540d127ee9a3e96c57a04878c] law relating to the increase of preparing for re-use and recycling;”.
+- (b) in the second paragraph, for the words from “of [Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098)” to the end, there were substituted “set out in Part 1, Schedule 3 of the Waste and Contaminated Land (Northern Ireland) Order 1997, or any objectives in assimilated[^c-831f4fe540d127ee9a3e96c57a04878c] law relating to the increase of preparing for re-use and recycling;”.
 
 (8) Article 7 is to be read as if—
 
 - (a) in the first subparagraph, in point (h)—
-  - (i) the reference to Council Directive [85/337/EEC](https://www.legislation.gov.uk/eudr/1985/337) [^c23598891] of 27 June 1985 on the assessment of the effects of certain public and private projects on the environment were a reference to the assimilated[^key-5866cbc8fb5c98ad4cf3e38f584accbe] law which transposed Directive 2011/92/EU in respect of Northern Ireland; and
-  - (ii) the reference to Article 5 of Directive [85/337/EEC](https://www.legislation.gov.uk/eudr/1985/337) were a reference to the assimilated[^key-9f6ee6fb3b1ab06d5a07e6a0ec72e358] law which transposed Article 5 of Directive 2011/92/EU in respect of Northern Ireland;
+  - (i) the reference to Council Directive [85/337/EEC](https://www.legislation.gov.uk/eudr/1985/337) [^c23598891] of 27 June 1985 on the assessment of the effects of certain public and private projects on the environment were a reference to the assimilated[^c-5866cbc8fb5c98ad4cf3e38f584accbe] law which transposed Directive 2011/92/EU in respect of Northern Ireland; and
+  - (ii) the reference to Article 5 of Directive [85/337/EEC](https://www.legislation.gov.uk/eudr/1985/337) were a reference to the assimilated[^c-9f6ee6fb3b1ab06d5a07e6a0ec72e358] law which transposed Article 5 of Directive 2011/92/EU in respect of Northern Ireland;
 - (b) in the second subparagraph, “and Community” was omitted.
 
 (9) Article 8 is to be read as if—
@@ -1190,25 +1190,25 @@ Regulation 5
 - (a) in Section 2, for the final sentence there were substituted “ The above provisions do not apply to inert landfills. ”;
 - (b) in Section 3.3, omit the second paragraph;
 - (c) in Section 3.4, for from “Directive [80/68/EEC](https://www.legislation.gov.uk/eudr/1980/68)” to “competent authority” there were substituted “ the Water Framework Directive, as transposed by the Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 [^c23598931], the Department ”; and
-- (d)[^key-c91208961a13e707857df27072b3e359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-c91208961a13e707857df27072b3e359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (16) Annex 2 is to be read as if—
 
 - (a) Section 1 were omitted;
 - (b) in Section 2, in the second paragraph, the third sentence were omitted;
 - (c) in Section 4, in the fourth and fifth paragraphs, for “covered by Directive [91/689/EEC](https://www.legislation.gov.uk/eudr/1991/689)” there were substituted “ classified as hazardous waste ”; and
-- (d)[^key-6907a22d8b286bd5479c3d32dcab59b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-6907a22d8b286bd5479c3d32dcab59b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(17)[^key-8c53342883931eaeb665bdcee70e68ba] Annex 3 is to be read as if––
+(17)[^c-8c53342883931eaeb665bdcee70e68ba] Annex 3 is to be read as if––
 
 - (a) in Section 2, in the second paragraph, in the table, in the first column, for the words “14.00 h CET” in both places it occurs there were substituted “1 p.m.”;
 - (b) in Section 3, in the fourth paragraph, in the table, in table note 7, the words from “, and will report” to the end were omitted.
 
 (18) In sub-paragraph (2)(d) “local authority” in Northern Ireland means a district council within the meaning of section 1 of the Local Government Act (Northern Ireland) 1972 [^c23598941].
 
-### 10. Modification of the Medium Combustion Plant Directive[^key-3ce73bc01b1ab0328b0b244512a54921]
+### 10. Modification of the Medium Combustion Plant Directive[^c-3ce73bc01b1ab0328b0b244512a54921]
 
-(1) For the purposes of these Regulations and the legislation specified in regulation 5[^key-939bba2b6058421181fde66f55c3a3e6], the Medium Combustion Plant Directive is to be read in accordance with this paragraph.
+(1) For the purposes of these Regulations and the legislation specified in regulation 5[^c-939bba2b6058421181fde66f55c3a3e6], the Medium Combustion Plant Directive is to be read in accordance with this paragraph.
 
 (2) When interpreting the Medium Combustion Plant Directive for the purposes of these Regulations—
 
@@ -1278,11 +1278,11 @@ Regulation 5
   - (ii) in point 6, for “Member States” there were substituted “ the Department ”.
 - (b) in Part 2, in point 3, for “Article 6(11) and Article 6(12)” there were substituted “ paragraph 11(2) and (4) of Schedule 9A to the Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013 ”.
 
-### 11. Modification of the Waste Framework Directive[^key-dc3fa5a12108bca9cde9d2a460a551a7]
+### 11. Modification of the Waste Framework Directive[^c-dc3fa5a12108bca9cde9d2a460a551a7]
 
 (1) For the purposes of these Regulations, the Waste Framework Directive is to be read in accordance with this paragraph.
 
-(2)[^key-5981cf598aef5468225ecde175776c42] When interpreting the Waste Framework Directive for the purposes of these Regulations and the legislation specified in regulation 5—
+(2)[^c-5981cf598aef5468225ecde175776c42] When interpreting the Waste Framework Directive for the purposes of these Regulations and the legislation specified in regulation 5—
 
 - (a) a “permit” or exemption from waste management licensing means a waste management licence under Article 6 of the Waste and Contaminated Land (Northern Ireland) Order 1997, a licence or exemption from waste management licensing under the Waste Management Licensing Regulations (Northern Ireland) 2003, a resolution or a licence under Part II of the Food and Environment Protection Act 1985, a licence under Part 4 of the Marine and Coastal Access Act 2009, a consent under Schedule 1 to the Water (Northern Ireland) Order 1999 or a permit under Part 2 of the Pollution, Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013;
 - (b) a reference to one or more Member States in a provision imposing an obligation or conferring a discretion on a Member State or Member States is to be read as a reference to the appropriate authority, or local authority which, immediately before IP completion day, was responsible for Northern Ireland’s compliance with that obligation or able to exercise that discretion so far as it related to Northern Ireland;
@@ -1292,7 +1292,7 @@ Regulation 5
 (3) Article 2 is to be read as if—
 
 - (a) in paragraph 2—
-  - (i) in the words before point (a), for “other Community legislation” there were substituted “ assimilated[^key-bd2dd0e7b913b6ceb2ed43d9ab7cfab3] law ”; and
+  - (i) in the words before point (a), for “other Community legislation” there were substituted “ assimilated[^c-bd2dd0e7b913b6ceb2ed43d9ab7cfab3] law ”; and
   - (ii) in point (d), for the words from “Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21) [^c23598971]” to the end there were substituted “ the Mining Waste Directive ”;
 - (b) in paragraph 3, the words from “Without prejudice” to “Community legislation,” were omitted.
 
@@ -1300,7 +1300,7 @@ Regulation 5
 
 (5) Article 4(2) is to be read as if the second subparagraph were omitted.
 
-(6)[^key-bee1435327a058f1539a7df587cbfe78] Article 5 is to be read as if––
+(6)[^c-bee1435327a058f1539a7df587cbfe78] Article 5 is to be read as if––
 
 - (a) in paragraph 1, the words “Member States shall take appropriate measures to ensure that” were omitted;
 - (b) after paragraph 1 there were inserted—
@@ -1320,7 +1320,7 @@ Regulation 5
 
   > **1A.** Any decision as to whether a substance or object has ceased to be waste must be made—
   >
-  > - (a) in accordance with any regulations or assimilated direct[^key-a3c63883a829d691b2c5dee9bc8d5d93] legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+  > - (a) in accordance with any regulations or assimilated direct[^c-a3c63883a829d691b2c5dee9bc8d5d93] legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
   > - (b) having regard to any guidance published by the appropriate authority for the purposes of this Article.
 
   ;
@@ -1337,7 +1337,7 @@ Regulation 5
     - (aa) for “Member States” there were substituted “The appropriate authority”;
     - (bb) “by competent authorities” were omitted.
 
-(8)[^key-8528d964bc09fbdcf1f96a3b2fc4195c] Article 7 is to be read as if––
+(8)[^c-8528d964bc09fbdcf1f96a3b2fc4195c] Article 7 is to be read as if––
 
 - (a) before paragraph 1 there were inserted—
 
@@ -1351,7 +1351,7 @@ Regulation 5
 
 (9) Article 11(5) were omitted.
 
-(10)[^key-f67dbd3630125799fd311aeeddb170d8] Article 16 is to be read as if—
+(10)[^c-f67dbd3630125799fd311aeeddb170d8] Article 16 is to be read as if—
 
 - (a) for paragraph 1 there were substituted—
 
@@ -1367,17 +1367,17 @@ Regulation 5
 - (a) paragraph 1 is to be read as if, for “a Member State” there were substituted “ the United Kingdom ”; and
 - (b) paragraph 2 is to be read as if, for “a Member State” there were substituted “ the United Kingdom ”.
 
-(11A)[^key-dc7b994c13e645ec8b52e310205fd90d] Article 35(1) is to be read as if, for the second paragraph, there were substituted—
+(11A)[^c-dc7b994c13e645ec8b52e310205fd90d] Article 35(1) is to be read as if, for the second paragraph, there were substituted—
 
 > They shall make that data available to the appropriate authority through any electronic registry established for the reporting of such data or, if no such registry is in operation, in such form and manner as the appropriate authority may specify.
 
 (12) Annex III is to be read as if, in entry HP 9, in the second sentence, “in the Member States” were omitted.
 
-(13)[^key-285777dbaa6439d08ad8cde3ae694270] Annex 4a is to be read as if, in point 6, “including through Union funds” were omitted.
+(13)[^c-285777dbaa6439d08ad8cde3ae694270] Annex 4a is to be read as if, in point 6, “including through Union funds” were omitted.
 
-### 12. Modification of the WEEE Directive[^key-131fd65f494ec375bc5e64d4e237ed4e]
+### 12. Modification of the WEEE Directive[^c-131fd65f494ec375bc5e64d4e237ed4e]
 
-(1) For the purposes of these Regulations and the legislation specified in regulation 5[^key-bccdc112d9447337550592a657716737], the WEEE Directive is to be read in accordance with this paragraph.
+(1) For the purposes of these Regulations and the legislation specified in regulation 5[^c-bccdc112d9447337550592a657716737], the WEEE Directive is to be read in accordance with this paragraph.
 
 (2) Any reference to one or more Member States in a provision imposing an obligation or conferring a discretion on a Member State or Member States is to be read as a reference to the appropriate authority, appropriate agency or local authority which, immediately before IP completion day, was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion so far as it related to Northern Ireland.
 
@@ -1459,13 +1459,13 @@ An impact assessment has not been produced for this instrument as little, or no,
 
 [^c23598151]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16)
 
-[^key-51992eec7a368951567b933a242e0355]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
+[^c-51992eec7a368951567b933a242e0355]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
 
-[^key-3509c9ed22d675576c21cc2510c2da07]: Textual amendment: Words in Regulations substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/2)
+[^c-3509c9ed22d675576c21cc2510c2da07]: Textual amendment: Words in Regulations substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/2)
 
-[^key-bac751ff621bdd859bf3557f956112cb]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
+[^c-bac751ff621bdd859bf3557f956112cb]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
 
-[^key-9ab34e11ce1f9998bbdfcdd0abf2ba2e]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
+[^c-9ab34e11ce1f9998bbdfcdd0abf2ba2e]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
 
 [^c23598161]: Marginal citation: S.R. [1999 No. 362](https://www.legislation.gov.uk/ukcm/1999/362) as amended by S.R. [2003 No. 493](https://www.legislation.gov.uk/ukcm/2003/493), S.R. [2006 No. 280](https://www.legislation.gov.uk/ukcm/2006/280), S.R. [2011 No. 127](https://www.legislation.gov.uk/ukcm/2011/127) and S.R. [2011 No. 124](https://www.legislation.gov.uk/ukcm/2011/124)
 
@@ -1483,67 +1483,67 @@ An impact assessment has not been produced for this instrument as little, or no,
 
 [^c23598231]: Marginal citation: S.R. [2013 No. 255](https://www.legislation.gov.uk/ukcm/2013/255) as relevantly amended by [S.I. 2014/117](https://www.legislation.gov.uk/uksi/2014/117)
 
-[^key-0ef644441911487c73d3ad908f35967c]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
+[^c-0ef644441911487c73d3ad908f35967c]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
 
 [^c23598241]: Marginal citation: S.R. [2010 No. 188](https://www.legislation.gov.uk/ukcm/2010/188) as relevantly amended by S.R. 2017, No. 2 and S.R. [2018 No. 133](https://www.legislation.gov.uk/ukcm/2018/133)
 
 [^c23598251]: Marginal citation: S.R. [2013 No. 160](https://www.legislation.gov.uk/ukcm/2013/160) as relevantly amended by S.R. [2014 No. 304](https://www.legislation.gov.uk/ukcm/2014/304), S.R. [2015 No. 14](https://www.legislation.gov.uk/ukcm/2015/14), [S.I](https://www.legislation.gov.uk/ukcm/2015/14/section/I). 2015/1973, S.R. [2015 No. 325](https://www.legislation.gov.uk/ukcm/2015/325), S.R. [2016 No. 95](https://www.legislation.gov.uk/ukcm/2016/95), S.R. [2016 No. 309](https://www.legislation.gov.uk/ukcm/2016/309) and S.R. [2018 No. 33](https://www.legislation.gov.uk/ukcm/2018/33)
 
-[^key-326fe638a7cd26153d91ac54a5263484]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
+[^c-326fe638a7cd26153d91ac54a5263484]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
 
-[^key-311315c41edf172533965fa64be42f5f]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/289/regulation/5) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/3)
+[^c-311315c41edf172533965fa64be42f5f]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/289/regulation/5) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/3)
 
-[^key-a8bc4ddcb7c152c45e0026d5c300d8d7]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
+[^c-a8bc4ddcb7c152c45e0026d5c300d8d7]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
 
-[^key-e7f87108c391bb19353e32e85cad87c9]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
+[^c-e7f87108c391bb19353e32e85cad87c9]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
 
 [^c23598261]: Marginal citation: OJ L 312, 22.1.2008, p. 3-30
 
-[^key-bafd7aed7c127ab1bf18724a0d8ba665]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
+[^c-bafd7aed7c127ab1bf18724a0d8ba665]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
 
-[^key-0ca863e257e461abb1d415dd714d8bc2]: Textual amendment: Sch. 1 para. 3(14) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/4/a)
+[^c-0ca863e257e461abb1d415dd714d8bc2]: Textual amendment: Sch. 1 para. 3(14) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/4/a)
 
 [^c23598271]: Marginal citation: OJ L 102, 11.4.2006, p. 15-34
 
-[^key-1e58dca4cf4388ede5b75e770e319b19]: Textual amendment: Words in Sch. 1 para. 3(10) inserted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(4)(b)(i)(aa)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/4/b/i/aa)
+[^c-1e58dca4cf4388ede5b75e770e319b19]: Textual amendment: Words in Sch. 1 para. 3(10) inserted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(4)(b)(i)(aa)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/4/b/i/aa)
 
-[^key-9997139028cdec403de56d00cc7350d8]: Textual amendment: Word in Sch. 1 para. 3(10) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(4)(b)(i)(bb)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/4/b/i/bb)
+[^c-9997139028cdec403de56d00cc7350d8]: Textual amendment: Word in Sch. 1 para. 3(10) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(4)(b)(i)(bb)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/4/b/i/bb)
 
-[^key-fc774762c7f4a971a907e991bb4958fe]: Textual amendment: Word in Sch. 1 para. 3(10) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(4)(b)(i)(cc)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/4/b/i/cc)
+[^c-fc774762c7f4a971a907e991bb4958fe]: Textual amendment: Word in Sch. 1 para. 3(10) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(4)(b)(i)(cc)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/4/b/i/cc)
 
-[^key-15aae99ab8a15160a7f8dc0253630589]: Textual amendment: Words in Sch. 1 para. 3(10) inserted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(4)(b)(i)(dd)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/4/b/i/dd)
+[^c-15aae99ab8a15160a7f8dc0253630589]: Textual amendment: Words in Sch. 1 para. 3(10) inserted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(4)(b)(i)(dd)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/4/b/i/dd)
 
-[^key-54565e89efa0203a9f46fa98e93f249d]: Textual amendment: Words in Sch. 1 para. 3(10) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(4)(b)(ii)(aa)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/4/b/ii/aa)
+[^c-54565e89efa0203a9f46fa98e93f249d]: Textual amendment: Words in Sch. 1 para. 3(10) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(4)(b)(ii)(aa)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/4/b/ii/aa)
 
-[^key-6ca0b6a54a38d234088963025cdf1b84]: Textual amendment: Words in Sch. 1 para. 3(10) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(4)(b)(ii)(bb)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/4/b/ii/bb)
+[^c-6ca0b6a54a38d234088963025cdf1b84]: Textual amendment: Words in Sch. 1 para. 3(10) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(4)(b)(ii)(bb)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/4/b/ii/bb)
 
-[^key-ee3806a105a58044988e9a0bd1688ea0]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
+[^c-ee3806a105a58044988e9a0bd1688ea0]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
 
 [^c23598291]: Marginal citation: S.R. [2003 No. 496](https://www.legislation.gov.uk/ukcm/2003/496) as amended by S.R. [2004 No. 297](https://www.legislation.gov.uk/ukcm/2004/297), S.R. [2005 No. 300](https://www.legislation.gov.uk/ukcm/2005/300) and S.R. [2011 No. 127](https://www.legislation.gov.uk/ukcm/2011/127)
 
-[^key-0654a47445d55ee8167bd15b64a6f44e]: Commencement: Sch. 1 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
+[^c-0654a47445d55ee8167bd15b64a6f44e]: Commencement: Sch. 1 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
 
 [^c23598301]: Marginal citation: S.R. [2004 No. 416](https://www.legislation.gov.uk/ukcm/2004/416) as relevantly amended by S.R. [2011 No. 127](https://www.legislation.gov.uk/ukcm/2011/127) and S.R. [2011 No. 373](https://www.legislation.gov.uk/ukcm/2011/373)
 
 [^c23598311]: Marginal citation: S.R. [2003 No. 493](https://www.legislation.gov.uk/ukcm/2003/493) as relevantly amended by S.R. [2003 No. 496](https://www.legislation.gov.uk/ukcm/2003/496), S.R. [2005 No. 300](https://www.legislation.gov.uk/ukcm/2005/300), S.R. [2006 No. 280](https://www.legislation.gov.uk/ukcm/2006/280), S.R. [2006 No. 489](https://www.legislation.gov.uk/ukcm/2006/489), S.R. [2006 No. 519](https://www.legislation.gov.uk/ukcm/2006/519), S.R. [2008 No. 18](https://www.legislation.gov.uk/ukcm/2008/18), S.R. [2009 No. 76](https://www.legislation.gov.uk/ukcm/2009/76), S.R. [2009 No. 159](https://www.legislation.gov.uk/ukcm/2009/159), S.R. [2010 No. 411](https://www.legislation.gov.uk/ukcm/2010/411), S.R. [2011 No. 124](https://www.legislation.gov.uk/ukcm/2011/124), S.R. [2011 No. 127](https://www.legislation.gov.uk/ukcm/2011/127), S.R. [2011 No. 403](https://www.legislation.gov.uk/ukcm/2011/403), S.R. [2013 No. 241](https://www.legislation.gov.uk/ukcm/2013/241), S.R. [2014 No. 137](https://www.legislation.gov.uk/ukcm/2014/137), S.R. [2014 No. 307](https://www.legislation.gov.uk/ukcm/2014/307), S.R. 2014. No. 252, S.R. [2015 No. 14](https://www.legislation.gov.uk/ukcm/2015/14), S.R. [2015 No. 288](https://www.legislation.gov.uk/ukcm/2015/288), S.R. [2016 No. 95](https://www.legislation.gov.uk/ukcm/2016/95) and S.R. [2016 No. 96](https://www.legislation.gov.uk/ukcm/2016/96)
 
-[^key-207cc8cdf20be3c6ffa7375de6dd1ef9]: Commencement: Sch. 1 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
+[^c-207cc8cdf20be3c6ffa7375de6dd1ef9]: Commencement: Sch. 1 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
 
 [^c23598321]: Marginal citation: S.R. [2005 No. 300](https://www.legislation.gov.uk/ukcm/2005/300) as relevantly amended by S.R. [2011 No. 127](https://www.legislation.gov.uk/ukcm/2011/127), S.R. [2015 No. 288](https://www.legislation.gov.uk/ukcm/2015/288) and S.R. [2016 No. 95](https://www.legislation.gov.uk/ukcm/2016/95)
 
-[^key-41106eee98625ae15b79e78a6bf71529]: Textual amendment: [Sch. 1 para. 6(5)](https://www.legislation.gov.uk/uksi/2019/289/schedule/1/paragraph/6/5)[(6)](https://www.legislation.gov.uk/uksi/2019/289/schedule/1/paragraph/6/6) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(4)(c)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/4/c)
+[^c-41106eee98625ae15b79e78a6bf71529]: Textual amendment: [Sch. 1 para. 6(5)](https://www.legislation.gov.uk/uksi/2019/289/schedule/1/paragraph/6/5)[(6)](https://www.legislation.gov.uk/uksi/2019/289/schedule/1/paragraph/6/6) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(4)(c)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/4/c)
 
-[^key-dc1ddebdc01264e8e60d763c977465d1]: Commencement: Sch. 1 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
+[^c-dc1ddebdc01264e8e60d763c977465d1]: Commencement: Sch. 1 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
 
 [^c23598331]: Marginal citation: S.R. [2007 No. 198](https://www.legislation.gov.uk/ukcm/2007/198) as relevantly amended by S.R. [2008 No. 373](https://www.legislation.gov.uk/ukcm/2008/373) and S.R. [2010 No. 396](https://www.legislation.gov.uk/ukcm/2010/396)
 
-[^key-671987629c9b74ee17bb4baba0bbaa79]: Textual amendment: [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/uksi/2019/289/schedule/1/paragraph/7/2)[(3)](https://www.legislation.gov.uk/uksi/2019/289/schedule/1/paragraph/7/3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(4)(d)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/4/d)
+[^c-671987629c9b74ee17bb4baba0bbaa79]: Textual amendment: [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/uksi/2019/289/schedule/1/paragraph/7/2)[(3)](https://www.legislation.gov.uk/uksi/2019/289/schedule/1/paragraph/7/3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(4)(d)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/4/d)
 
-[^key-d988556b886013da7f4cf23d0237b78c]: Commencement: Sch. 1 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
+[^c-d988556b886013da7f4cf23d0237b78c]: Commencement: Sch. 1 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
 
 [^c23598341]: Marginal citation: S.R. [2013 No. 255](https://www.legislation.gov.uk/ukcm/2013/255) as relevantly amended by [S.I. 2014/117](https://www.legislation.gov.uk/uksi/2014/117)
 
-[^key-7ae1f539c28457cdaba2ea9268b1148e]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
+[^c-7ae1f539c28457cdaba2ea9268b1148e]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
 
 [^c23598351]: Marginal citation: S.R. [2010 No. 188](https://www.legislation.gov.uk/ukcm/2010/188) as relevantly amended by S.R. [2017 No. 2](https://www.legislation.gov.uk/ukcm/2017/2) and S.R. [2018 No. 33](https://www.legislation.gov.uk/ukcm/2018/33)
 
@@ -1559,9 +1559,9 @@ An impact assessment has not been produced for this instrument as little, or no,
 
 [^c23598411]: Marginal citation: S.R. [2006 No. 387](https://www.legislation.gov.uk/ukcm/2006/387), as amended by S.R. [2018 No. 190](https://www.legislation.gov.uk/ukcm/2018/190)
 
-[^key-d5f8bdef7eca307ab8e17bff0c90edf6]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
+[^c-d5f8bdef7eca307ab8e17bff0c90edf6]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
 
-[^key-b80c6b9b08f8fbf19b262f5ff479978d]: Commencement: Sch. 3 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
+[^c-b80c6b9b08f8fbf19b262f5ff479978d]: Commencement: Sch. 3 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
 
 [^c23598421]: Marginal citation: OJ L 23, 26.1.2005, p. 3-16
 
@@ -1585,17 +1585,17 @@ An impact assessment has not been produced for this instrument as little, or no,
 
 [^c23598521]: Marginal citation: OJ L 197, 24.7.2012, p. 38-71
 
-[^key-dcfc2dd02b92bfb2fb7ea8e820fb2577]: Commencement: Sch. 3 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
+[^c-dcfc2dd02b92bfb2fb7ea8e820fb2577]: Commencement: Sch. 3 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
 
 [^c23598531]: Marginal citation: OJ L 257, 10.10.1996, p. 26-40
 
-[^key-add8fdce0d97b2e86674b42c4267af29]: Commencement: Sch. 3 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
+[^c-add8fdce0d97b2e86674b42c4267af29]: Commencement: Sch. 3 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
 
-[^key-e3536f0a49ba7f03d6d480942cb14677]: Textual amendment: Word in [Sch. 3 para. 3(9)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/3/9) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 33(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/33/a)
+[^c-e3536f0a49ba7f03d6d480942cb14677]: Textual amendment: Word in [Sch. 3 para. 3(9)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/3/9) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 33(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/33/a)
 
-[^key-37959313d070eec75abd416caf030fca]: Commencement: Sch. 3 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
+[^c-37959313d070eec75abd416caf030fca]: Commencement: Sch. 3 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
 
-[^key-86ce3a8eeb882e430862c82880dd61d8]: Textual amendment: Words in [Sch. 3 para. 4(1)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/4/1) inserted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(a)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/a)
+[^c-86ce3a8eeb882e430862c82880dd61d8]: Textual amendment: Words in [Sch. 3 para. 4(1)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/4/1) inserted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(a)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/a)
 
 [^c23598541]: Marginal citation: OJ L 194, 25.7.1975, p. 39-41
 
@@ -1605,21 +1605,21 @@ An impact assessment has not been produced for this instrument as little, or no,
 
 [^c23598571]: Marginal citation: OJ L 330, 16.12.2009, p. 28-36
 
-[^key-26b65ebd5e72844f1ab3c3db0df27a39]: Commencement: Sch. 3 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
+[^c-26b65ebd5e72844f1ab3c3db0df27a39]: Commencement: Sch. 3 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
 
-[^key-b3ae514f62fa4db9cac3ac01f9edd4dd]: Textual amendment: Words in [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/5/1) inserted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(b)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/b)
+[^c-b3ae514f62fa4db9cac3ac01f9edd4dd]: Textual amendment: Words in [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/5/1) inserted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(b)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/b)
 
-[^key-c98dcd01c3bd59b70273e97bd7477de5]: Commencement: Sch. 3 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
+[^c-c98dcd01c3bd59b70273e97bd7477de5]: Commencement: Sch. 3 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
 
-[^key-c2801ea6faa74722e0c0a19564a5388f]: Textual amendment: Words in [Sch. 3 para. 6(1)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/6/1) inserted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(c)(i)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/c/i)
+[^c-c2801ea6faa74722e0c0a19564a5388f]: Textual amendment: Words in [Sch. 3 para. 6(1)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/6/1) inserted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(c)(i)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/c/i)
 
-[^key-c92d745094c9d348d77841dfe2db58f3]: Textual amendment: [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/6/2) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(c)(ii)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/c/ii)
+[^c-c92d745094c9d348d77841dfe2db58f3]: Textual amendment: [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/6/2) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(c)(ii)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/c/ii)
 
 [^c23598581]: Marginal citation: OJ L 114, 27.4.2006, p. 9-21
 
-[^key-b2c7053cf76a6634bcfce1f16b183c3f]: Commencement: Sch. 3 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
+[^c-b2c7053cf76a6634bcfce1f16b183c3f]: Commencement: Sch. 3 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
 
-[^key-622f252c187b869337f41cad4a0022d1]: Textual amendment: Words in [Sch. 3 para. 7(1)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/7/1) inserted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(d)(i)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/d/i)
+[^c-622f252c187b869337f41cad4a0022d1]: Textual amendment: Words in [Sch. 3 para. 7(1)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/7/1) inserted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(d)(i)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/d/i)
 
 [^c23598591]: Marginal citation: OJ L 194, 25.7.1975, p. 39-41
 
@@ -1627,7 +1627,7 @@ An impact assessment has not been produced for this instrument as little, or no,
 
 [^c23598611]: Marginal citation: S.R. [2005 No. 300](https://www.legislation.gov.uk/ukcm/2005/300) as relevantly amended by S.R. [2011 No. 127](https://www.legislation.gov.uk/ukcm/2011/127), S.R. [2015 No. 288](https://www.legislation.gov.uk/ukcm/2015/288) and S.R. [2016 No. 95](https://www.legislation.gov.uk/ukcm/2016/95)
 
-[^key-e7a7d5a9a0e30b962dd1b548bf1e6973]: Textual amendment: [Sch. 3 para. 7(5)(a)(i)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/7/5/a/i) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(d)(ii)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/d/ii)
+[^c-e7a7d5a9a0e30b962dd1b548bf1e6973]: Textual amendment: [Sch. 3 para. 7(5)(a)(i)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/7/5/a/i) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(d)(ii)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/d/ii)
 
 [^c23598621]: Marginal citation: OJ L 374, 27.12.2006, p. 10-19
 
@@ -1635,13 +1635,13 @@ An impact assessment has not been produced for this instrument as little, or no,
 
 [^c23598641]: Marginal citation: [1972 c.9 (N.I.)](https://www.legislation.gov.uk/apni/1972/9)
 
-[^key-dad2615cfe292053892df7885243cbd2]: Commencement: Sch. 3 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
+[^c-dad2615cfe292053892df7885243cbd2]: Commencement: Sch. 3 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
 
-[^key-62bec7904ce85f93e65c2c5d00175668]: Textual amendment: Words in [Sch. 3 para. 8(1)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/8/1) inserted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(e)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/e)
+[^c-62bec7904ce85f93e65c2c5d00175668]: Textual amendment: Words in [Sch. 3 para. 8(1)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/8/1) inserted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(e)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/e)
 
-[^key-8554be7a38267995109e50f05bba8c8c]: Textual amendment: Word in [Sch. 3 para. 8(3)(c)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/8/3/c) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 33(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/33/b)
+[^c-8554be7a38267995109e50f05bba8c8c]: Textual amendment: Word in [Sch. 3 para. 8(3)(c)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/8/3/c) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 33(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/33/b)
 
-[^key-667f6fd053a81b01eaef38c5b41fc6c7]: Textual amendment: Words in [Sch. 3 para. 8(3)(f)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/8/3/f) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 33(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/33/c)
+[^c-667f6fd053a81b01eaef38c5b41fc6c7]: Textual amendment: Words in [Sch. 3 para. 8(3)(f)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/8/3/f) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 33(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/33/c)
 
 [^c23598651]: Marginal citation: OJ L 343, 22.12.2009, p. 74-113
 
@@ -1649,7 +1649,7 @@ An impact assessment has not been produced for this instrument as little, or no,
 
 [^c23598671]: Marginal citation: OJ L 175, 5.7.1985, p. 40-48
 
-[^key-323f7363c468b9106870fd46f76891e3]: Textual amendment: Word in [Sch. 3 para. 8(4)(b)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/8/4/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 33(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/33/d)
+[^c-323f7363c468b9106870fd46f76891e3]: Textual amendment: Word in [Sch. 3 para. 8(4)(b)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/8/4/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 33(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/33/d)
 
 [^c23598681]: Marginal citation: OJ L 26, 28.1.2012, p. 1-21
 
@@ -1659,19 +1659,19 @@ An impact assessment has not been produced for this instrument as little, or no,
 
 [^c23598711]: Marginal citation: OJ L 175, 5.7.1985, p. 40-48
 
-[^key-a51b4765960a34fa8c500b6a4db7aec6]: Textual amendment: Word in [Sch. 3 para. 8(9)(b)(i)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/8/9/b/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 33(e)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/33/e)
+[^c-a51b4765960a34fa8c500b6a4db7aec6]: Textual amendment: Word in [Sch. 3 para. 8(9)(b)(i)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/8/9/b/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 33(e)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/33/e)
 
 [^c23598721]: Marginal citation: OJ L 26, 28.1.2012, p. 1-21
 
 [^c23598731]: Marginal citation: OJ L 10, 14.1.1997, p. 13-33
 
-[^key-988e822822d9b6f8bb5c30d3fac9ff71]: Textual amendment: Word in [Sch. 3 para. 8(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/8/9/b/ii) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 33(e)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/33/e)
+[^c-988e822822d9b6f8bb5c30d3fac9ff71]: Textual amendment: Word in [Sch. 3 para. 8(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/8/9/b/ii) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 33(e)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/33/e)
 
 [^c23598741]: Marginal citation: OJ L 197, 24.7.2012, p. 1-37
 
-[^key-a11a7bf637aaf8bf382a53da8849f8b6]: Textual amendment: Word in [Sch. 3 para. 8(11)(c)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/8/11/c) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 33(f)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/33/f)
+[^c-a11a7bf637aaf8bf382a53da8849f8b6]: Textual amendment: Word in [Sch. 3 para. 8(11)(c)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/8/11/c) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 33(f)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/33/f)
 
-[^key-980b9abb672cb31d99256ac360fc7c86]: Textual amendment: Word in [Sch. 3 para. 8(16)(b)(i)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/8/16/b/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 33(g)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/33/g)
+[^c-980b9abb672cb31d99256ac360fc7c86]: Textual amendment: Word in [Sch. 3 para. 8(16)(b)(i)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/8/16/b/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 33(g)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/33/g)
 
 [^c23598751]: Marginal citation: [S.I. 2004/3391](https://www.legislation.gov.uk/uksi/2004/3391), as amended by paragraph 305 and 307 of Schedule 19 to the [Data Protection Act 2018 (c.12)](https://www.legislation.gov.uk/ukpga/2018/12)
 
@@ -1691,11 +1691,11 @@ An impact assessment has not been produced for this instrument as little, or no,
 
 [^c23598831]: Marginal citation: OJ L 327, 22.12.2000, p. 1-73
 
-[^key-6b0b2e7a66e9a5768eca5896162677a5]: Textual amendment: Word in [Sch. 3 para. 8(41)(a)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/8/41/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 33(h)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/33/h)
+[^c-6b0b2e7a66e9a5768eca5896162677a5]: Textual amendment: Word in [Sch. 3 para. 8(41)(a)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/8/41/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 33(h)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/33/h)
 
-[^key-a05c214eb23ce9ee2024ad716aafcd99]: Commencement: Sch. 3 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
+[^c-a05c214eb23ce9ee2024ad716aafcd99]: Commencement: Sch. 3 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
 
-[^key-fa32f35246334922ada0a598630bc28d]: Textual amendment: Words in [Sch. 3 para. 9(1)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/9/1) inserted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(f)(i)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/f/i)
+[^c-fa32f35246334922ada0a598630bc28d]: Textual amendment: Words in [Sch. 3 para. 9(1)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/9/1) inserted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(f)(i)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/f/i)
 
 [^c23598841]: Marginal citation: S.R. [2013 No. 160](https://www.legislation.gov.uk/ukcm/2013/160) as relevantly amended by S.R. No. 304, S.R. [2015 No. 14](https://www.legislation.gov.uk/ukcm/2015/14), [S.I](https://www.legislation.gov.uk/ukcm/2015/14/section/I). 2015/1973, S.R. [2015 No. 325](https://www.legislation.gov.uk/ukcm/2015/325), S.R. [2016 No. 95](https://www.legislation.gov.uk/ukcm/2016/95), S.R. [2016 No. 309](https://www.legislation.gov.uk/ukcm/2016/309) and S.R. [2018 No. 33](https://www.legislation.gov.uk/ukcm/2018/33)
 
@@ -1705,25 +1705,25 @@ An impact assessment has not been produced for this instrument as little, or no,
 
 [^c23598871]: Marginal citation: OJ L 257, 10.10.1996, p. 26
 
-[^key-e20c51d0486eb1512be7e19a0f5a645a]: Textual amendment: [Sch. 3 para. 9(4)(a)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/9/4/a) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(f)(ii)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/f/ii)
+[^c-e20c51d0486eb1512be7e19a0f5a645a]: Textual amendment: [Sch. 3 para. 9(4)(a)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/9/4/a) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(f)(ii)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/f/ii)
 
-[^key-f621d70aae3099e26d2b105cbbaef49e]: Textual amendment: [Sch. 3 para. 9(4)(b)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/9/4/b) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(f)(iii)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/f/iii)
+[^c-f621d70aae3099e26d2b105cbbaef49e]: Textual amendment: [Sch. 3 para. 9(4)(b)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/9/4/b) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(f)(iii)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/f/iii)
 
 [^c23598881]: Marginal citation: OJ L 377, 31.12.1991, p. 20
 
-[^key-2a91867d5f6abbf66e9322b89b8590f9]: Textual amendment: Word in [Sch. 3 para. 9(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/9/6/c/ii) substituted for full stop (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(f)(iv)(aa)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/f/iv/aa)
+[^c-2a91867d5f6abbf66e9322b89b8590f9]: Textual amendment: Word in [Sch. 3 para. 9(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/9/6/c/ii) substituted for full stop (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(f)(iv)(aa)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/f/iv/aa)
 
-[^key-d93c7975d195d74ad0b38c9073876f35]: Textual amendment: [Sch. 3 para. 9(6)(d)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/9/6/d) inserted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(f)(iv)(bb)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/f/iv/bb)
+[^c-d93c7975d195d74ad0b38c9073876f35]: Textual amendment: [Sch. 3 para. 9(6)(d)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/9/6/d) inserted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(f)(iv)(bb)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/f/iv/bb)
 
-[^key-db9527ef60e138cd3bdb30da5f3530d0]: Textual amendment: [Sch. 3 para. 9(7)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/9/7) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(f)(v)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/f/v)
+[^c-db9527ef60e138cd3bdb30da5f3530d0]: Textual amendment: [Sch. 3 para. 9(7)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/9/7) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(f)(v)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/f/v)
 
-[^key-831f4fe540d127ee9a3e96c57a04878c]: Textual amendment: Word in [Sch. 3 para. 9(7)(b)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/9/7/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 33(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/33/i)
+[^c-831f4fe540d127ee9a3e96c57a04878c]: Textual amendment: Word in [Sch. 3 para. 9(7)(b)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/9/7/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 33(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/33/i)
 
 [^c23598891]: Marginal citation: OJ L 175, 5.7.1985, p. 40-48
 
-[^key-5866cbc8fb5c98ad4cf3e38f584accbe]: Textual amendment: Word in [Sch. 3 para. 9(8)(a)(i)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/9/8/a/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 33(j)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/33/j)
+[^c-5866cbc8fb5c98ad4cf3e38f584accbe]: Textual amendment: Word in [Sch. 3 para. 9(8)(a)(i)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/9/8/a/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 33(j)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/33/j)
 
-[^key-9f6ee6fb3b1ab06d5a07e6a0ec72e358]: Textual amendment: Word in [Sch. 3 para. 9(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/9/8/a/ii) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 33(j)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/33/j)
+[^c-9f6ee6fb3b1ab06d5a07e6a0ec72e358]: Textual amendment: Word in [Sch. 3 para. 9(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/9/8/a/ii) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 33(j)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/33/j)
 
 [^c23598901]: Marginal citation: OJ L 158, 23.6.1990, p. 56
 
@@ -1733,47 +1733,47 @@ An impact assessment has not been produced for this instrument as little, or no,
 
 [^c23598931]: Marginal citation: S.R. [2017 No. 81](https://www.legislation.gov.uk/ukcm/2017/81)
 
-[^key-c91208961a13e707857df27072b3e359]: Textual amendment: [Sch. 3 para. 9(15)(d)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/9/15/d) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(f)(vi)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/f/vi)
+[^c-c91208961a13e707857df27072b3e359]: Textual amendment: [Sch. 3 para. 9(15)(d)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/9/15/d) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(f)(vi)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/f/vi)
 
-[^key-6907a22d8b286bd5479c3d32dcab59b7]: Textual amendment: [Sch. 3 para. 9(16)(d)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/9/16/d) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(f)(vii)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/f/vii)
+[^c-6907a22d8b286bd5479c3d32dcab59b7]: Textual amendment: [Sch. 3 para. 9(16)(d)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/9/16/d) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(f)(vii)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/f/vii)
 
-[^key-8c53342883931eaeb665bdcee70e68ba]: Textual amendment: [Sch. 3 para. 9(17)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/9/17) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(f)(viii)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/f/viii)
+[^c-8c53342883931eaeb665bdcee70e68ba]: Textual amendment: [Sch. 3 para. 9(17)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/9/17) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(f)(viii)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/f/viii)
 
 [^c23598941]: Marginal citation: [1972 c.9(N.I.)](https://www.legislation.gov.uk/apni/1972/9)
 
-[^key-3ce73bc01b1ab0328b0b244512a54921]: Commencement: Sch. 3 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
+[^c-3ce73bc01b1ab0328b0b244512a54921]: Commencement: Sch. 3 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
 
-[^key-939bba2b6058421181fde66f55c3a3e6]: Textual amendment: Words in [Sch. 3 para. 10(1)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/10/1) inserted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(g)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/g)
+[^c-939bba2b6058421181fde66f55c3a3e6]: Textual amendment: Words in [Sch. 3 para. 10(1)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/10/1) inserted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(g)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/g)
 
 [^c23598951]: Marginal citation: OJ L 59, 27.2.98, p. 1-86
 
 [^c23598961]: Marginal citation: OJ L 252, 16.9.2016, p. 53-117
 
-[^key-dc3fa5a12108bca9cde9d2a460a551a7]: Commencement: Sch. 3 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
+[^c-dc3fa5a12108bca9cde9d2a460a551a7]: Commencement: Sch. 3 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
 
-[^key-5981cf598aef5468225ecde175776c42]: Textual amendment: [Sch. 3 para. 11(2)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/11/2) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(h)(i)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/h/i)
+[^c-5981cf598aef5468225ecde175776c42]: Textual amendment: [Sch. 3 para. 11(2)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/11/2) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(h)(i)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/h/i)
 
-[^key-bd2dd0e7b913b6ceb2ed43d9ab7cfab3]: Textual amendment: Word in [Sch. 3 para. 11(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/11/3/a/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 33(k)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/33/k)
+[^c-bd2dd0e7b913b6ceb2ed43d9ab7cfab3]: Textual amendment: Word in [Sch. 3 para. 11(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/11/3/a/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 33(k)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/33/k)
 
 [^c23598971]: Marginal citation: OJ L 102, 11.4.2006 p. 15-34
 
 [^c23598981]: Marginal citation: OJ L 257, 10.10.1996 p. 26-40
 
-[^key-bee1435327a058f1539a7df587cbfe78]: Textual amendment: [Sch. 3 para. 11(6)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/11/6)[(7)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/11/7) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(h)(ii)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/h/ii)
+[^c-bee1435327a058f1539a7df587cbfe78]: Textual amendment: [Sch. 3 para. 11(6)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/11/6)[(7)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/11/7) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(h)(ii)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/h/ii)
 
-[^key-a3c63883a829d691b2c5dee9bc8d5d93]: Textual amendment: Words in [Sch. 3 para. 11(7)(b)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/11/7/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 33(l)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/33/l)
+[^c-a3c63883a829d691b2c5dee9bc8d5d93]: Textual amendment: Words in [Sch. 3 para. 11(7)(b)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/11/7/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 33(l)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/33/l)
 
-[^key-8528d964bc09fbdcf1f96a3b2fc4195c]: Textual amendment: [Sch. 3 para. 11(8)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/11/8) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(h)(iii)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/h/iii)
+[^c-8528d964bc09fbdcf1f96a3b2fc4195c]: Textual amendment: [Sch. 3 para. 11(8)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/11/8) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(h)(iii)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/h/iii)
 
-[^key-f67dbd3630125799fd311aeeddb170d8]: Textual amendment: [Sch. 3 para. 11(10)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/11/10) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1443)](https://www.legislation.gov.uk/uksi/2019/1443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1443/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2019/1443/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f67dbd3630125799fd311aeeddb170d8]: Textual amendment: [Sch. 3 para. 11(10)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/11/10) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1443)](https://www.legislation.gov.uk/uksi/2019/1443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1443/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2019/1443/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dc7b994c13e645ec8b52e310205fd90d]: Textual amendment: [Sch. 3 para. 11(11A)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/11/11A) inserted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(h)(iv)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/h/iv)
+[^c-dc7b994c13e645ec8b52e310205fd90d]: Textual amendment: [Sch. 3 para. 11(11A)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/11/11A) inserted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(h)(iv)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/h/iv)
 
-[^key-285777dbaa6439d08ad8cde3ae694270]: Textual amendment: [Sch. 3 para. 11(13)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/11/13) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(h)(v)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/h/v)
+[^c-285777dbaa6439d08ad8cde3ae694270]: Textual amendment: [Sch. 3 para. 11(13)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/11/13) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(h)(v)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/h/v)
 
-[^key-131fd65f494ec375bc5e64d4e237ed4e]: Commencement: Sch. 3 para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
+[^c-131fd65f494ec375bc5e64d4e237ed4e]: Commencement: Sch. 3 para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1)
 
-[^key-bccdc112d9447337550592a657716737]: Textual amendment: Words in [Sch. 3 para. 12(1)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/12/1) inserted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(i)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/i)
+[^c-bccdc112d9447337550592a657716737]: Textual amendment: Words in [Sch. 3 para. 12(1)](https://www.legislation.gov.uk/uksi/2019/289/schedule/3/paragraph/12/1) inserted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(5)(i)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5/i)
 
 [^c23599011]: Marginal citation: [S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618)
 

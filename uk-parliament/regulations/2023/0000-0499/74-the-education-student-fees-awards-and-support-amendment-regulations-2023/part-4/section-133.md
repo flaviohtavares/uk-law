@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 133. Amendment of regulation 9 of the Education (Student Support) (European University Institute) Regulations 2010[^key-d4cf969b1354b952323ac385685d8c0f]
+## 133. Amendment of regulation 9 of the Education (Student Support) (European University Institute) Regulations 2010[^c-d4cf969b1354b952323ac385685d8c0f]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In regulation 9 (eligible students) of the Education (Student Support) (European
 
 ## Annotations
 
-[^key-d4cf969b1354b952323ac385685d8c0f]: Commencement: Reg. 133 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-d4cf969b1354b952323ac385685d8c0f]: Commencement: Reg. 133 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)

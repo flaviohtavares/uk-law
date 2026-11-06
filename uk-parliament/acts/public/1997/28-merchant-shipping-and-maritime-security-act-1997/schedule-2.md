@@ -56,7 +56,7 @@ Section 13.
 >
 > **3.** (1) If—
 >
-> - (a) any EU[^key-29c44680263013dede438a9978ca7c5d] obligation, or
+> - (a) any EU[^c-29c44680263013dede438a9978ca7c5d] obligation, or
 > - (b) any international agreement made between any three or more countries including the Republic of Ireland and ratified by the United Kingdom,
 >
 > requires the United Kingdom to provide for any of the costs incurred by general lighthouse authorities in respect of lighthouses, buoys and beacons to be recovered otherwise than by means of the levying of general light dues in accordance with section 205 (as it has effect on the commencement of this Schedule), regulations under this Schedule may make provision imposing charges for the purposes of recovering all or any part of the costs required to be so recovered.
@@ -194,7 +194,7 @@ Section 13.
 
 ## Annotations
 
-[^key-29c44680263013dede438a9978ca7c5d]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-29c44680263013dede438a9978ca7c5d]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
 [^c8633911]: Marginal citation: [1971 c. 61](https://www.legislation.gov.uk/ukpga/1971/61).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Disclosure of information[^key-e14e37d247bb30261baa07de922e37d8][^key-0ad3e89ea7e6ae29e98bb2a72646ea58]
+## 135. Disclosure of information[^c-e14e37d247bb30261baa07de922e37d8][^c-0ad3e89ea7e6ae29e98bb2a72646ea58]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,16 +39,16 @@ summary: ''
 
 (5) The Secretary of State may disclose to a person specified in Schedule 9 information obtained in connection with the exercise of an enforcement function or a civil proceedings function if the disclosure is made for the purposes of the exercise of a function of the person.
 
-(6)[^key-b220806d01524f8cc6a850e842ef08a7] The Secretary of State may by regulations amend Schedule 9.
+(6)[^c-b220806d01524f8cc6a850e842ef08a7] The Secretary of State may by regulations amend Schedule 9.
 
-(7)[^key-b220806d01524f8cc6a850e842ef08a7] Regulations under subsection (6) are subject to the affirmative resolution procedure.
+(7)[^c-b220806d01524f8cc6a850e842ef08a7] Regulations under subsection (6) are subject to the affirmative resolution procedure.
 
 (8) Sections 136 to 138 contain further provision about disclosure of information under this section.
 
 ## Annotations
 
-[^key-e14e37d247bb30261baa07de922e37d8]: Commencement: S. 135 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-e14e37d247bb30261baa07de922e37d8]: Commencement: S. 135 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-0ad3e89ea7e6ae29e98bb2a72646ea58]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2025/36/section/135) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(36)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/36)
+[^c-0ad3e89ea7e6ae29e98bb2a72646ea58]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2025/36/section/135) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(36)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/36)
 
-[^key-b220806d01524f8cc6a850e842ef08a7]: Commencement: [S. 135(6)](https://www.legislation.gov.uk/ukpga/2025/36/section/135/6)[(7)](https://www.legislation.gov.uk/ukpga/2025/36/section/135/7) in force at 6.1.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(31)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/31)
+[^c-b220806d01524f8cc6a850e842ef08a7]: Commencement: [S. 135(6)](https://www.legislation.gov.uk/ukpga/2025/36/section/135/6)[(7)](https://www.legislation.gov.uk/ukpga/2025/36/section/135/7) in force at 6.1.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(31)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/31)

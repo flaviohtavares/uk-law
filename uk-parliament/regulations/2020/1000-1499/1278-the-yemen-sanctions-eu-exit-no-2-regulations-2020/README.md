@@ -44,7 +44,7 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2)
 
-The Secretary of State [^c24334501], in exercise of the powers conferred by sections 1(1)(a), (c) and (3), 3(1)(a), (b)(i), (d)(i), 4, 5, 9(2), 10(2) to (4), 11, 13, 15(2)(a) and (b), (3), (4)(b), (5) and (6), 16, 17, 19, 20, 21(1), 54(1), (2), 56(1) and 62(4) and (5) of, and paragraphs 2(a)(i), 4(a)(i), 5(a)(i), 6(a)(i), 10(a)(i), 11(a)(i), 13(a), (g), (k), (m) and (w), 14(a), 17(a), 20, 21 and 27 of Schedule 1 to, the Sanctions and Anti-Money Laundering Act 2018 [^c24334511], and having decided, upon consideration of the matters set out in section 2(2) and 56(1) of that Act, that it is appropriate to do so, makes the following Regulations:[^key-0306a06915516851edc8c5bbf496d22f]
+The Secretary of State [^c24334501], in exercise of the powers conferred by sections 1(1)(a), (c) and (3), 3(1)(a), (b)(i), (d)(i), 4, 5, 9(2), 10(2) to (4), 11, 13, 15(2)(a) and (b), (3), (4)(b), (5) and (6), 16, 17, 19, 20, 21(1), 54(1), (2), 56(1) and 62(4) and (5) of, and paragraphs 2(a)(i), 4(a)(i), 5(a)(i), 6(a)(i), 10(a)(i), 11(a)(i), 13(a), (g), (k), (m) and (w), 14(a), 17(a), 20, 21 and 27 of Schedule 1 to, the Sanctions and Anti-Money Laundering Act 2018 [^c24334511], and having decided, upon consideration of the matters set out in section 2(2) and 56(1) of that Act, that it is appropriate to do so, makes the following Regulations:[^c-0306a06915516851edc8c5bbf496d22f]
 
 ## Contents
 
@@ -81,7 +81,7 @@ The Secretary of State [^c24334501], in exercise of the powers conferred by sect
 - [Section 16 — Making economic resources available for benefit of designated persons](part-3/section-16.md)
 - [Section 17 — Circumventing etc. prohibitions](part-3/section-17.md)
 
-### PART 3A — Director disqualification sanctions[^key-becea0f27175aa56cef1edf62b2b3b0c]
+### PART 3A — Director disqualification sanctions[^c-becea0f27175aa56cef1edf62b2b3b0c]
 
 - [Section 17A — Director disqualification sanctions](part-3a/section-17a.md)
 
@@ -228,6 +228,6 @@ An Impact Assessment has not been produced for these Regulations, as they are in
 
 [^c24334511]: Marginal citation: [2018 c.13](https://www.legislation.gov.uk/ukpga/2018/13).
 
-[^key-0306a06915516851edc8c5bbf496d22f]: Modification: Regulations extended (British overseas territories) (with modifications) (31.12.2020 immediately after IP completion day) by [The Yemen (Sanctions) (Overseas Territories) Order 2020 (S.I. 2020/1589)](https://www.legislation.gov.uk/uksi/2020/1589), [art. 2](https://www.legislation.gov.uk/uksi/2020/1589/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1589/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1589/schedule/2) (as amended by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/regulation/1/1), [Sch. 28](https://www.legislation.gov.uk/uksi/2025/1307/schedule/28))
+[^c-0306a06915516851edc8c5bbf496d22f]: Modification: Regulations extended (British overseas territories) (with modifications) (31.12.2020 immediately after IP completion day) by [The Yemen (Sanctions) (Overseas Territories) Order 2020 (S.I. 2020/1589)](https://www.legislation.gov.uk/uksi/2020/1589), [art. 2](https://www.legislation.gov.uk/uksi/2020/1589/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1589/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1589/schedule/2) (as amended by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/regulation/1/1), [Sch. 28](https://www.legislation.gov.uk/uksi/2025/1307/schedule/28))
 
-[^key-becea0f27175aa56cef1edf62b2b3b0c]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2020/1278/part/3A) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [16(4)](https://www.legislation.gov.uk/uksi/2024/644/regulation/16/4)
+[^c-becea0f27175aa56cef1edf62b2b3b0c]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2020/1278/part/3A) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [16(4)](https://www.legislation.gov.uk/uksi/2024/644/regulation/16/4)

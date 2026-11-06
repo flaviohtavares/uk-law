@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Reduction in sentence for assistance to prosecution[^key-2a6cde73ee836b1e7a77ef43d2acdf6e]
+## 74. Reduction in sentence for assistance to prosecution[^c-2a6cde73ee836b1e7a77ef43d2acdf6e]
 
 *Extent: E+W*
 
@@ -47,7 +47,7 @@ This is subject to subsection (4).
   - (ii) the offender, and
 - (c) sections 52(2) and 322(4) (requirement to explain reasons for sentence or other order) do not apply to the extent that the explanation will disclose that a sentence has been discounted by virtue of this section.
 
-(4A)[^key-1bab0ae45a37a0e9fcc3f3604d26fe98] Nothing in section 268C(2) or 282C(2) (minimum appropriate custodial term for serious terrorism sentences) affects the court's power under subsection (2) so far it relates to determining the appropriate custodial term.
+(4A)[^c-1bab0ae45a37a0e9fcc3f3604d26fe98] Nothing in section 268C(2) or 282C(2) (minimum appropriate custodial term for serious terrorism sentences) affects the court's power under subsection (2) so far it relates to determining the appropriate custodial term.
 
 (5) Nothing in—
 
@@ -58,6 +58,6 @@ affects the court's power under subsection (2).
 
 ## Annotations
 
-[^key-2a6cde73ee836b1e7a77ef43d2acdf6e]: Commencement: S. 74 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-2a6cde73ee836b1e7a77ef43d2acdf6e]: Commencement: S. 74 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-1bab0ae45a37a0e9fcc3f3604d26fe98]: Textual amendment: [S. 74(4A)](https://www.legislation.gov.uk/ukpga/2020/17/section/74/4A) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 10](https://www.legislation.gov.uk/ukpga/2021/11/section/10), [50(2)(e)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/e)
+[^c-1bab0ae45a37a0e9fcc3f3604d26fe98]: Textual amendment: [S. 74(4A)](https://www.legislation.gov.uk/ukpga/2020/17/section/74/4A) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 10](https://www.legislation.gov.uk/ukpga/2021/11/section/10), [50(2)(e)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/e)

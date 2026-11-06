@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Amendments to and revocations of other legislation[^key-6d4461fc836822eccb3ef8625ba9a83d]
+## 4. Amendments to and revocations of other legislation[^c-6d4461fc836822eccb3ef8625ba9a83d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d4461fc836822eccb3ef8625ba9a83d]: Commencement: Art. 4 comes into force in accordance with art. 1(3)-(9)
+[^c-6d4461fc836822eccb3ef8625ba9a83d]: Commencement: Art. 4 comes into force in accordance with art. 1(3)-(9)

@@ -28,7 +28,7 @@ summary: ''
 
 - (a)[^c8119501] not being in partnership with a solicitor or other solicitors causes or permits his name to be associated with the name of that solicitor or those solicitors or their firm’s name,
 - (b)[^c8119511] not being a director of an incorporated practice, causes or permits his name to be associated with that incorporated practice,
-- (c)[^key-699a76e33ef3661c824c5e01c4895118] not being an owner, member or director of another form of authorised legal business, causes or permits their name to be associated with that business,
+- (c)[^c-699a76e33ef3661c824c5e01c4895118] not being an owner, member or director of another form of authorised legal business, causes or permits their name to be associated with that business,
 
 whether he is described as a consultant or adviser or in any other way.
 
@@ -38,4 +38,4 @@ whether he is described as a consultant or adviser or in any other way.
 
 [^c8119511]: Textual amendment: [S. 21(3)](https://www.legislation.gov.uk/ukpga/1980/46/section/21/3)(*b*) inserted by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 76:2)](https://www.legislation.gov.uk/ukpga/1985/73), [s. 56](https://www.legislation.gov.uk/ukpga/1985/73/section/56), [Sch. 1 Pt. I para. 3](https://www.legislation.gov.uk/ukpga/1985/73/schedule/1/part/I/paragraph/3)(*b*)
 
-[^key-699a76e33ef3661c824c5e01c4895118]: Textual amendment: [S. 21(3)(c)](https://www.legislation.gov.uk/ukpga/1980/46/section/21/3/c) inserted (1.7.2026 for specified purposes) by [Regulation of Legal Services (Scotland) Act 2025 (asp 8)](https://www.legislation.gov.uk/asp/2025/8), [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3), [sch. 1 para. 11(2)](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/11/2); [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-699a76e33ef3661c824c5e01c4895118]: Textual amendment: [S. 21(3)(c)](https://www.legislation.gov.uk/ukpga/1980/46/section/21/3/c) inserted (1.7.2026 for specified purposes) by [Regulation of Legal Services (Scotland) Act 2025 (asp 8)](https://www.legislation.gov.uk/asp/2025/8), [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3), [sch. 1 para. 11(2)](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/11/2); [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)

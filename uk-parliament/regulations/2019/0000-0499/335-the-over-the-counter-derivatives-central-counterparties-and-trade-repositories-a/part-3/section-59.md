@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Transitional and final provisions[^key-17a002e32ae723720b3c3b5c5ff7272e]
+## 59. Transitional and final provisions[^c-17a002e32ae723720b3c3b5c5ff7272e]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,7 +58,7 @@ summary: ''
 
   > **5A.**
   >
-  > Until 15 December 2021[^key-3f956cda0682b4a28c147c53d726e596] or until a decision is made under Article 25 on the recognition of a CCP, whichever is earlier, that CCP shall apply the treatment specified in the second sub-paragraph of this paragraph.
+  > Until 15 December 2021[^c-3f956cda0682b4a28c147c53d726e596] or until a decision is made under Article 25 on the recognition of a CCP, whichever is earlier, that CCP shall apply the treatment specified in the second sub-paragraph of this paragraph.
   >
   > Until the deadline defined in the first sub-paragraph of this paragraph, and subject to the third sub-paragraph of this paragraph, where the CCP neither has a default fund nor has in place a binding arrangement with its clearing members that allows it to use all or part of the initial margin received from its clearing members as if they were pre-funded contributions, the information it is to report in accordance with paragraph 1 of Article 50c shall include the total amount of initial margin it has received from its clearing members.
   >
@@ -98,6 +98,6 @@ summary: ''
 
 ## Annotations
 
-[^key-17a002e32ae723720b3c3b5c5ff7272e]: Commencement: Reg. 59 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-17a002e32ae723720b3c3b5c5ff7272e]: Commencement: Reg. 59 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-3f956cda0682b4a28c147c53d726e596]: Textual amendment: Word in reg. 59(4)(b) substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [52(5)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/52/5)
+[^c-3f956cda0682b4a28c147c53d726e596]: Textual amendment: Word in reg. 59(4)(b) substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [52(5)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/52/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54. Certification of plans etc.[^key-2c25a89a43bb4c604565d2f59c002df6]
+## 54. Certification of plans etc.[^c-2c25a89a43bb4c604565d2f59c002df6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Company must, as soon as practicable after the making of this Order, submit 
 
 ## Annotations
 
-[^key-2c25a89a43bb4c604565d2f59c002df6]: Commencement: Art. 54 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-2c25a89a43bb4c604565d2f59c002df6]: Commencement: Art. 54 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

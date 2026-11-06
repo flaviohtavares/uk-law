@@ -48,7 +48,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (2) In this section—
 
-- “**British Energy company**” means British Energy p.l.c. or a company which either is or immediately before the passing of this Act was a subsidiary of British Energy p.l.c. (within the meaning of the Companies Acts (see section 1159 of the Companies Act 2006)[^key-0471c3483801a86b3e2e517598fc9ea1]);
+- “**British Energy company**” means British Energy p.l.c. or a company which either is or immediately before the passing of this Act was a subsidiary of British Energy p.l.c. (within the meaning of the Companies Acts (see section 1159 of the Companies Act 2006)[^c-0471c3483801a86b3e2e517598fc9ea1]);
 - “**Crown company**” means a company which is wholly owned by the Crown;
 - “**financial assistance**” includes assistance by way of grant or loan, by entering into a guarantee or by any other means (whether the assistance is given in pursuance of an agreement or otherwise); and
 - “**securities**” includes shares or stock, debentures or debenture stock, bonds and other securities of a company (whether or not constituting a charge on the assets of the company).
@@ -116,4 +116,4 @@ No such order shall be made unless a draft of it has been laid before and approv
 
 ## Annotations
 
-[^key-0471c3483801a86b3e2e517598fc9ea1]: Textual amendment: Words in s. 1(2) substituted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 216](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/216) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-0471c3483801a86b3e2e517598fc9ea1]: Textual amendment: Words in s. 1(2) substituted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 216](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/216) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

@@ -34,7 +34,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Fund Winter Fuel Payment Regulations 2000 (revoked)[^key-3c8fc266cbf47b08565b9b799a873920]
+The Social Fund Winter Fuel Payment Regulations 2000 (revoked)[^c-3c8fc266cbf47b08565b9b799a873920]
 
 Made
 
@@ -48,42 +48,42 @@ Coming into force
 
 3rd April 2000
 
-[^key-3c8fc266cbf47b08565b9b799a873920]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c8fc266cbf47b08565b9b799a873920]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-3c8fc266cbf47b08565b9b799a873920]
+## 1. Citation, commencement and interpretation[^c-3c8fc266cbf47b08565b9b799a873920]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Social fund winter fuel payments[^key-3c8fc266cbf47b08565b9b799a873920]
+## 2. Social fund winter fuel payments[^c-3c8fc266cbf47b08565b9b799a873920]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Persons not entitled to a social fund winter fuel payment[^key-3c8fc266cbf47b08565b9b799a873920]
+## 3. Persons not entitled to a social fund winter fuel payment[^c-3c8fc266cbf47b08565b9b799a873920]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Making a winter fuel payment without a claim[^key-3c8fc266cbf47b08565b9b799a873920]
+## 4. Making a winter fuel payment without a claim[^c-3c8fc266cbf47b08565b9b799a873920]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocations[^key-3c8fc266cbf47b08565b9b799a873920]
+## 5. Revocations[^c-3c8fc266cbf47b08565b9b799a873920]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3c8fc266cbf47b08565b9b799a873920]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c8fc266cbf47b08565b9b799a873920]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-3c8fc266cbf47b08565b9b799a873920]
+## SCHEDULE[^c-3c8fc266cbf47b08565b9b799a873920]
 
 Regulation 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3c8fc266cbf47b08565b9b799a873920]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c8fc266cbf47b08565b9b799a873920]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3c8fc266cbf47b08565b9b799a873920]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2000/729) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2)
+[^c-3c8fc266cbf47b08565b9b799a873920]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2000/729) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2)

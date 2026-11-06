@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Procedure applicable to search warrants[^key-811f5893a66fd9d975c48ef207b7111c][^key-1c981c90f8b006ffeff7e30cc7f83dbc]
+## 68. Procedure applicable to search warrants[^c-811f5893a66fd9d975c48ef207b7111c][^c-1c981c90f8b006ffeff7e30cc7f83dbc]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In Part 1 of Schedule 1 to the Criminal Justice and Police Act 2001 (c. 16) (pow
 
 ## Annotations
 
-[^key-811f5893a66fd9d975c48ef207b7111c]: Commencement: S. 68 in force at 1.4.2006 for S. by [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2006/166/article/2/1/a)
+[^c-811f5893a66fd9d975c48ef207b7111c]: Commencement: S. 68 in force at 1.4.2006 for S. by [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2006/166/article/2/1/a)
 
-[^key-1c981c90f8b006ffeff7e30cc7f83dbc]: Commencement: S. 68 in force at 1.4.2006 except to the extent that it extends to S. by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/1521/article/5/1)
+[^c-1c981c90f8b006ffeff7e30cc7f83dbc]: Commencement: S. 68 in force at 1.4.2006 except to the extent that it extends to S. by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/1521/article/5/1)

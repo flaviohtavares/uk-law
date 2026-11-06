@@ -32,7 +32,7 @@ as he considers necessary or expedient for the purposes of, in consequence of, o
 - (a) amending or repealing any enactment, instrument or document (including in particular any instrument appointing a company to be a water or sewerage undertaker),
 - (b) conferring functions, powers or duties on any person.
 
-(3) The provision which may be made under subsection (1) also includes, in particular, provision for or in relation to the payment by the appropriate agency[^key-9d13ca085ac9aafc9ec64fbabe816e5f] of compensation to any person who—
+(3) The provision which may be made under subsection (1) also includes, in particular, provision for or in relation to the payment by the appropriate agency[^c-9d13ca085ac9aafc9ec64fbabe816e5f] of compensation to any person who—
 
 - (a) before the coming into force of any provision of this Act was not required by or by virtue of the WRA to have a licence under Chapter 2 of Part 2 of the WRA in respect of any abstraction,
 - (b) following the coming into force of any provision of this Act does require such a licence in respect of that abstraction, and
@@ -73,4 +73,4 @@ and he applies for compensation before any deadline provided for in the regulati
 
 ## Annotations
 
-[^key-9d13ca085ac9aafc9ec64fbabe816e5f]: Textual amendment: Words in [s. 103](https://www.legislation.gov.uk/ukpga/2003/37/section/103) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 423](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/423) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-9d13ca085ac9aafc9ec64fbabe816e5f]: Textual amendment: Words in [s. 103](https://www.legislation.gov.uk/ukpga/2003/37/section/103) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 423](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/423) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

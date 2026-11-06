@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186. Effect of undertakings under section 185[^key-7584c1124a8be70e386a983d2070b565][^key-1f39131000f46ce1b86666bc274013c3]
+## 186. Effect of undertakings under section 185[^c-7584c1124a8be70e386a983d2070b565][^c-1f39131000f46ce1b86666bc274013c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7584c1124a8be70e386a983d2070b565]: Commencement: S. 186 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-7584c1124a8be70e386a983d2070b565]: Commencement: S. 186 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-1f39131000f46ce1b86666bc274013c3]: Commencement: [S. 186](https://www.legislation.gov.uk/ukpga/2024/13/section/186) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-1f39131000f46ce1b86666bc274013c3]: Commencement: [S. 186](https://www.legislation.gov.uk/ukpga/2024/13/section/186) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Transfer of military technology[^key-0394f4d9063de6a7a79e5adbab45ddca]
+## 31. Transfer of military technology[^c-0394f4d9063de6a7a79e5adbab45ddca]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0394f4d9063de6a7a79e5adbab45ddca]: Commencement: Reg. 31 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
+[^c-0394f4d9063de6a7a79e5adbab45ddca]: Commencement: Reg. 31 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)

@@ -47,7 +47,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ## PART 1 — Title and coming into force
 
-### 1. Title and coming into force[^key-0696fe55179dc146001090a0166cedb0]
+### 1. Title and coming into force[^c-0696fe55179dc146001090a0166cedb0]
 
 (1) The title of these Regulations is the Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2024.
 
@@ -57,11 +57,11 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 1 — Introduction
 
-**2.**[^key-68615a2bb064bc1d8197d8a9cc137f56] The Education (Fees and Awards) (Wales) Regulations 2007[^f00005] are amended in accordance with this Part.
+**2.**[^c-68615a2bb064bc1d8197d8a9cc137f56] The Education (Fees and Awards) (Wales) Regulations 2007[^f00005] are amended in accordance with this Part.
 
 ### CHAPTER 2 — Person granted leave to remain as a protected partner
 
-**3.**[^key-06a55cf415f3cc7d9e86058b20b65e11] In the Schedule—
+**3.**[^c-06a55cf415f3cc7d9e86058b20b65e11] In the Schedule—
 
 - (a) in paragraph 1, in the definition of “person granted leave to remain as a protected partner”—
   - (i) for “leave to remain”, in both places it occurs, substitute “leave to enter or remain”;
@@ -87,31 +87,31 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
   - (v) in sub-paragraph (2)(c), for “leave to remain” substitute “leave to enter or remain ”;
   - (vi) in sub-paragraph (3), for “leave to remain” in both places it occurs, substitute “leave to enter or remain”.
 
-## PART 3 — Amendments to the Education (European University Institute) (Wales) Regulations 2014[^key-717e9f445c1f54bade25b08870619be1]
+## PART 3 — Amendments to the Education (European University Institute) (Wales) Regulations 2014[^c-717e9f445c1f54bade25b08870619be1]
 
 **No longer in force.**
 
-### CHAPTER 1 — Introduction[^key-717e9f445c1f54bade25b08870619be1]
+### CHAPTER 1 — Introduction[^c-717e9f445c1f54bade25b08870619be1]
 
-**4.**[^key-717e9f445c1f54bade25b08870619be1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-717e9f445c1f54bade25b08870619be1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### CHAPTER 2 — Person granted leave to remain as a protected partner[^key-717e9f445c1f54bade25b08870619be1]
+### CHAPTER 2 — Person granted leave to remain as a protected partner[^c-717e9f445c1f54bade25b08870619be1]
 
-**5.**[^key-717e9f445c1f54bade25b08870619be1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-717e9f445c1f54bade25b08870619be1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-717e9f445c1f54bade25b08870619be1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-717e9f445c1f54bade25b08870619be1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-717e9f445c1f54bade25b08870619be1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-717e9f445c1f54bade25b08870619be1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Amendments to the Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015
 
 ### CHAPTER 1 — Introduction
 
-**8.**[^key-1b3a8d56d3fc0fdee301619c9d4eb7ea] The Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015[^f00009] are amended in accordance with this Part.
+**8.**[^c-1b3a8d56d3fc0fdee301619c9d4eb7ea] The Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015[^f00009] are amended in accordance with this Part.
 
 ### CHAPTER 2 — Person granted leave to remain as a protected partner
 
-**9.**[^key-931f559e5dafcf9ba33d5b99b7646c23] In the Schedule—
+**9.**[^c-931f559e5dafcf9ba33d5b99b7646c23] In the Schedule—
 
 - (a) in paragraph 1(1), in the definition of “person granted leave to remain as a protected partner”—
   - (i) for “leave to remain”, in both places it occurs, substitute “leave to enter or remain”;
@@ -141,11 +141,11 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 1 — Introduction
 
-**10.**[^key-6c41c98914f9744a29791a651b4a8c91] The Education (Student Support) (Wales) Regulations 2017[^f00010] are amended in accordance with this Part.
+**10.**[^c-6c41c98914f9744a29791a651b4a8c91] The Education (Student Support) (Wales) Regulations 2017[^f00010] are amended in accordance with this Part.
 
 ### CHAPTER 2 — Person granted leave to remain as a protected partner
 
-**11.**[^key-28adbd1f4e4f55871badfa085d4222c3] In regulation 2(1), in the definition of “person granted leave to remain as a protected partner”—
+**11.**[^c-28adbd1f4e4f55871badfa085d4222c3] In regulation 2(1), in the definition of “person granted leave to remain as a protected partner”—
 
 - (a) for “leave to remain”, in both it occurs places, substitute “leave to enter or remain”;
 - (b) for “*caniatâd iddo aros*” substitute “*caniatâd iddo ddod i mewn neu aros*”;
@@ -161,32 +161,32 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
   > - (a) paragraph VDA 9.1 of the Appendix Victim of Domestic Abuse, or
   > - (b) paragraph BP 11.1 of Appendix Bereaved Partner.
 
-**12.**[^key-6bde5a8524acf36980478ebb0ccd9301] In regulation 4(10C)—
+**12.**[^c-6bde5a8524acf36980478ebb0ccd9301] In regulation 4(10C)—
 
 - (a) in sub-paragraph (a), for “leave to remain” substitute “leave to enter or remain”;
 - (b) in sub-paragraph (b), for “leave to remain”, in both places it occurs, substitute “leave to enter or remain”.
 
-**13.**[^key-5d4323f1271dc63d818af85a8c52b642] In regulation 15(ba), for “granted leave to remain” substitute “granted leave to enter or remain”.
+**13.**[^c-5d4323f1271dc63d818af85a8c52b642] In regulation 15(ba), for “granted leave to remain” substitute “granted leave to enter or remain”.
 
-**14.**[^key-40c2d0e4ef635b0c1e6b0b9d018fa537] In regulation 23(12)(ba), for “granted leave to remain” substitute “granted leave to enter or remain”.
+**14.**[^c-40c2d0e4ef635b0c1e6b0b9d018fa537] In regulation 23(12)(ba), for “granted leave to remain” substitute “granted leave to enter or remain”.
 
-**15.**[^key-59e7e2d313d10185d920301436332623] In regulation 49(2)(ba), for “granted leave to remain” substitute “granted leave to enter or remain”.
+**15.**[^c-59e7e2d313d10185d920301436332623] In regulation 49(2)(ba), for “granted leave to remain” substitute “granted leave to enter or remain”.
 
-**16.**[^key-8f5c8700cabc904cd94f9c080a4621ac] In regulation 81(10C)—
-
-- (a) in sub-paragraph (a), for “leave to remain” substitute “leave to enter or remain”;
-- (b) in sub-paragraph (b), for “leave to remain”, in both places it occurs, substitute “leave to enter or remain”.
-
-**17.**[^key-54effc0353b4987bda2ae5d41608243a] In regulation 82(4)(ba), for “granted leave to remain” substitute “granted leave to enter or remain”.
-
-**18.**[^key-43053de9ce683f21b7cd5dea32af650d] In regulation 110(12C)—
+**16.**[^c-8f5c8700cabc904cd94f9c080a4621ac] In regulation 81(10C)—
 
 - (a) in sub-paragraph (a), for “leave to remain” substitute “leave to enter or remain”;
 - (b) in sub-paragraph (b), for “leave to remain”, in both places it occurs, substitute “leave to enter or remain”.
 
-**19.**[^key-3ded4b7c1ec69e83e1980bc16e072bdf] In regulation 111(2)(ba), for “granted leave to remain” substitute “granted leave to enter or remain”.
+**17.**[^c-54effc0353b4987bda2ae5d41608243a] In regulation 82(4)(ba), for “granted leave to remain” substitute “granted leave to enter or remain”.
 
-**20.**[^key-96b616f6cbf01a10db9edbf10f56e918] In Schedule 1, in paragraph 4ZB (persons granted leave to remain as a protected partner and their children)—
+**18.**[^c-43053de9ce683f21b7cd5dea32af650d] In regulation 110(12C)—
+
+- (a) in sub-paragraph (a), for “leave to remain” substitute “leave to enter or remain”;
+- (b) in sub-paragraph (b), for “leave to remain”, in both places it occurs, substitute “leave to enter or remain”.
+
+**19.**[^c-3ded4b7c1ec69e83e1980bc16e072bdf] In regulation 111(2)(ba), for “granted leave to remain” substitute “granted leave to enter or remain”.
+
+**20.**[^c-96b616f6cbf01a10db9edbf10f56e918] In Schedule 1, in paragraph 4ZB (persons granted leave to remain as a protected partner and their children)—
 
 - (a) in the heading, for “leave to remain” substitute “leave to enter or remain”;
 - (b) in sub-paragraph (1)(a), for “leave to remain” substitute “leave to enter or remain”;
@@ -195,31 +195,31 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 - (e) in sub-paragraph (2)(c), for “leave to remain” substitute “leave to enter or remain”;
 - (f) in sub-paragraph (3), for “leave to remain” substitute “leave to enter or remain”.
 
-**21.**[^key-119371dad182bb4df2f321287cd88169] In Schedule 4, in paragraph 6(aa), for “granted leave to remain” substitute “granted leave to enter or remain”.
+**21.**[^c-119371dad182bb4df2f321287cd88169] In Schedule 4, in paragraph 6(aa), for “granted leave to remain” substitute “granted leave to enter or remain”.
 
 ## PART 6 — Amendments to the Education (Student Support) (Wales) Regulations 2018
 
 ### CHAPTER 1 — Introduction
 
-**22.**[^key-628b20161caee3c48af9b917e9dc5b2d] The Education (Student Support) (Wales) Regulations 2018[^f00011] are amended in accordance with this Part.
+**22.**[^c-628b20161caee3c48af9b917e9dc5b2d] The Education (Student Support) (Wales) Regulations 2018[^f00011] are amended in accordance with this Part.
 
 ### CHAPTER 2 — Person granted leave to remain as a protected partner
 
-**23.**[^key-37c772c1ed31f1038ec81225fd95059e] In regulation 23C (persons who cease to have leave to remain as a protected partner)—
+**23.**[^c-37c772c1ed31f1038ec81225fd95059e] In regulation 23C (persons who cease to have leave to remain as a protected partner)—
 
 - (a) in the heading, for “leave to remain” substitute “leave to enter or remain”;
 - (b) in paragraph (1)(a), for “leave to remain” substitute “leave to enter or remain”;
 - (c) in paragraph (1)(b)(ii), for “leave to remain” substitute “leave to enter or remain”;
 - (d) in the words after paragraph (1)(b)(ii), for “further leave to remain” substitute “further leave to enter or remain”.
 
-**24.**[^key-345a03b6717da1c1b8463efe466fc64e] In regulation 80—
+**24.**[^c-345a03b6717da1c1b8463efe466fc64e] In regulation 80—
 
 - (a) in paragraph (2)(b)(ia), for “granted leave to remain” substitute “granted leave to enter or remain”;
 - (b) in paragraph (3), for the term “person granted leave to remain as a protected partner” substitute ““**person granted leave to enter or remain as a protected partner**” (“***person y rhoddwyd caniatâd iddo ddod i mewn neu aros fel partner a ddiogelir***”);”.
 
-**25.**[^key-987b4dfd3c7e49584208ba3830f17218] In regulation 81(3)(b)(ia), for “with leave to remain” substitute “with leave to enter or remain”.
+**25.**[^c-987b4dfd3c7e49584208ba3830f17218] In regulation 81(3)(b)(ia), for “with leave to remain” substitute “with leave to enter or remain”.
 
-**26.**[^key-0eda59567e25abb8845a24c4df055854] In Schedule 2, in paragraph 2ZB (category 2ZB - persons granted leave to remain as a protected partner and their children)—
+**26.**[^c-0eda59567e25abb8845a24c4df055854] In Schedule 2, in paragraph 2ZB (category 2ZB - persons granted leave to remain as a protected partner and their children)—
 
 - (a) in the heading, for “leave to remain” substitute “leave to enter or remain”;
 - (b) in sub-paragraph (1)(a), for “leave to remain” substitute “leave to enter or remain”;
@@ -245,7 +245,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
     >   - (i) paragraph VDA 9.1 of the Appendix Victim of Domestic Abuse, or
     >   - (ii) paragraph BP 11.1 of Appendix Bereaved Partner.
 
-**27.**[^key-00925fa8899800824bba0da78660012d] In Schedule 4—
+**27.**[^c-00925fa8899800824bba0da78660012d] In Schedule 4—
 
 - (a) in paragraph 13C—
   - (i) in sub-paragraph (1)(a), for “leave to remain” substitute “leave to enter or remain”;
@@ -255,22 +255,22 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
   - (i) in sub-paragraph (3)(b)(ia), for “person with leave to remain” substitute “person with leave to enter or remain”;
   - (ii) in sub-paragraph (4), for the term “person granted leave to remain as a protected partner” substitute ““**person granted leave to enter or remain as a protected partner**” (“***person y rhoddwyd caniatâd iddo ddod i mewn neu aros fel partner a ddiogelir***”);”.
 
-**28.**[^key-6c7d27277ff7e7eda0e5cff6c6a3f801] In Schedule 5, in paragraph 4—
+**28.**[^c-6c7d27277ff7e7eda0e5cff6c6a3f801] In Schedule 5, in paragraph 4—
 
 - (a) in sub-paragraph (2)(aa), for “person with leave to remain” substitute “person with leave to enter or remain”;
 - (b) in sub-paragraph (3), for the term “person granted leave to remain as a protected partner” substitute ““**person granted leave to enter or remain as a protected partner**” (“***person y rhoddwyd caniatâd iddo ddod i mewn neu aros fel partner a ddiogelir***”);”.
 
-**29.**[^key-0c700054e29cba702702ac625e5f0e5a] In Schedule 7, paragraph 1, in Table 16, for the definition of “leave to remain as a protected partner” substitute “leave to enter or remain as a protected partner”.
+**29.**[^c-0c700054e29cba702702ac625e5f0e5a] In Schedule 7, paragraph 1, in Table 16, for the definition of “leave to remain as a protected partner” substitute “leave to enter or remain as a protected partner”.
 
 ## PART 7 — Amendments to the Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018
 
 ### CHAPTER 1 — Introduction
 
-**30.**[^key-f5dc175a25c0b377dbacaa92ac549719] The Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018[^f00012] are amended in accordance with this Part.
+**30.**[^c-f5dc175a25c0b377dbacaa92ac549719] The Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018[^f00012] are amended in accordance with this Part.
 
 ### CHAPTER 2 — Person granted leave to remain as a protected partner
 
-**31.**[^key-e7f0151eb5717f5fed92cc51aceafa1b] In regulation 2 (interpretation), in paragraph (1), in the definition of “person granted leave to remain as a protected partner”—
+**31.**[^c-e7f0151eb5717f5fed92cc51aceafa1b] In regulation 2 (interpretation), in paragraph (1), in the definition of “person granted leave to remain as a protected partner”—
 
 - (a) for “leave to remain”, in both places it occurs, substitute “leave to enter or remain”;
 - (b) for “*caniatâd iddo aros*”, substitute “*caniatâd iddo ddod i mewn neu aros*”;
@@ -286,9 +286,9 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
   > - (a) paragraph VDA 9.1 of the Appendix Victim of Domestic Abuse, or
   > - (b) paragraph BP 11.1 of Appendix Bereaved Partner.
 
-**32.**[^key-b8de8fc78d875726eda4e2c6058c7a05] In regulation 8(ba), for “granted leave to remain” substitute “granted leave to enter or remain”.
+**32.**[^c-b8de8fc78d875726eda4e2c6058c7a05] In regulation 8(ba), for “granted leave to remain” substitute “granted leave to enter or remain”.
 
-**33.**[^key-0389a404e3c27c48239b620fc46598f9] In Schedule 1, in paragraph 4B (persons granted leave to remain as a protected partner and their children)—
+**33.**[^c-0389a404e3c27c48239b620fc46598f9] In Schedule 1, in paragraph 4B (persons granted leave to remain as a protected partner and their children)—
 
 - (a) in the heading, for “leave to remain” substitute “leave to enter or remain”;
 - (b) in sub-paragraph (1)(a), for “leave to remain” substitute “leave to enter or remain”;
@@ -301,16 +301,16 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 1 — Introduction
 
-**34.**[^key-e3c2d250f675e53ccb6714c222967952] The Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019[^f00013] are amended in accordance with this Part.
+**34.**[^c-e3c2d250f675e53ccb6714c222967952] The Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019[^f00013] are amended in accordance with this Part.
 
 ### CHAPTER 2 — Person granted leave to remain as a protected partner
 
-**35.**[^key-de68e7eebbaa8ca6bbf88e83030fdc28] In regulation 16—
+**35.**[^c-de68e7eebbaa8ca6bbf88e83030fdc28] In regulation 16—
 
 - (a) in paragraph (1)(b)(viii) for “granted leave to remain” substitute “granted leave to enter or remain”;
 - (b) in paragraph (2), for the term “person granted leave to remain as a protected partner” substitute ““**person granted leave to enter or remain as a protected partner**” (“***person y rhoddwyd caniatâd iddo ddod i mewn neu aros fel partner a ddiogelir***”);”.
 
-**36.**[^key-7defb181be9feeee3fe0076cee893b73] In Schedule 2, in paragraph 2B (category 2B - persons granted leave to remain as a protected partner and their children)—
+**36.**[^c-7defb181be9feeee3fe0076cee893b73] In Schedule 2, in paragraph 2B (category 2B - persons granted leave to remain as a protected partner and their children)—
 
 - (a) in the heading, for “leave to remain” substitute “leave to enter or remain”;
 - (b) in sub-paragraph (1)(a), for “leave to remain” substitute “leave to enter or remain”;
@@ -336,7 +336,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
     >   - (i) paragraph VDA 9.1 of the Appendix Victim of Domestic Abuse, or
     >   - (ii) paragraph BP 11.1 of Appendix Bereaved Partner.
 
-**37.**[^key-390db317cc3ea0abafdd9e5c05fd0de3] In Schedule 4, in paragraph 1, in Table 3, for the definition of “person granted leave to remain as a protected partner” substitute “person granted leave to enter or remain as a protected partner”.
+**37.**[^c-390db317cc3ea0abafdd9e5c05fd0de3] In Schedule 4, in paragraph 1, in Table 3, for the definition of “person granted leave to remain as a protected partner” substitute “person granted leave to enter or remain as a protected partner”.
 
 Lynne Neagle
 
@@ -374,86 +374,86 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00004]: Footnote: [2015 anaw 1](https://www.legislation.gov.uk/anaw/2015/1). See section 57(1) for the definitions of “prescribed” and “regulations”.
 
-[^key-0696fe55179dc146001090a0166cedb0]: Commencement: Reg. 1 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-0696fe55179dc146001090a0166cedb0]: Commencement: Reg. 1 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
-[^key-68615a2bb064bc1d8197d8a9cc137f56]: Commencement: Reg. 2 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-68615a2bb064bc1d8197d8a9cc137f56]: Commencement: Reg. 2 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2007/2310 (W. 181)](https://www.legislation.gov.uk/wsi/2007/2310), relevant amendments are [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [S.I. 2022/79 (W. 28)](https://www.legislation.gov.uk/wsi/2022/79), [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764), [S.I. 2023/633 (W. 97)](https://www.legislation.gov.uk/wsi/2023/633) and [S.I. 2023/1349 (W. 243)](https://www.legislation.gov.uk/wsi/2023/1349). There are other amending instruments but none are relevant.
 
-[^key-06a55cf415f3cc7d9e86058b20b65e11]: Commencement: Reg. 3 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-06a55cf415f3cc7d9e86058b20b65e11]: Commencement: Reg. 3 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
 [^f00006]: Footnote: The Appendix was added to the immigration rules by Statement of Changes to the Immigration Rules laid before Parliament on 7 December 2023 (HC 246). An electronic copy of HC 246 is available at https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-246-7-december-2023, and a hard copy is available by written request to Home Office, 2 Marsham Street, London, SW1P 4DF.
 
 [^f00007]: Footnote: The Appendix was added to the immigration rules by Statement of Changes to the Immigration Rules laid before Parliament on 7 December 2023 (HC 246). An electronic copy of HC 246 is available at https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-246-7-december-2023, and a hard copy is available by written request to Home Office, 2 Marsham Street, London, SW1P 4DF.
 
-[^key-717e9f445c1f54bade25b08870619be1]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/wsi/2024/810/part/3) omitted (with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [10(l)](https://www.legislation.gov.uk/wsi/2026/3/regulation/10/l)
+[^c-717e9f445c1f54bade25b08870619be1]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/wsi/2024/810/part/3) omitted (with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [10(l)](https://www.legislation.gov.uk/wsi/2026/3/regulation/10/l)
 
-[^key-1b3a8d56d3fc0fdee301619c9d4eb7ea]: Commencement: Reg. 8 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-1b3a8d56d3fc0fdee301619c9d4eb7ea]: Commencement: Reg. 8 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 2015/1484 (W. 163)](https://www.legislation.gov.uk/wsi/2015/1484), relevant amendments are [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [S.I. 2022/79 (W. 28)](https://www.legislation.gov.uk/wsi/2022/79), [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764), [S.I. 2023/633 (W. 97)](https://www.legislation.gov.uk/wsi/2023/633) and [S.I. 2023/1349 (W. 243)](https://www.legislation.gov.uk/wsi/2023/1349). There are other amending instruments but none are relevant.
 
-[^key-931f559e5dafcf9ba33d5b99b7646c23]: Commencement: Reg. 9 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-931f559e5dafcf9ba33d5b99b7646c23]: Commencement: Reg. 9 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
-[^key-6c41c98914f9744a29791a651b4a8c91]: Commencement: Reg. 10 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-6c41c98914f9744a29791a651b4a8c91]: Commencement: Reg. 10 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
 [^f00010]: Footnote: [S.I. 2017/47 (W. 21)](https://www.legislation.gov.uk/wsi/2017/47), amended by [S.I. 2022/79 (W. 28)](https://www.legislation.gov.uk/wsi/2022/79), [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764) and [S.I. 2023/87 (W. 17)](https://www.legislation.gov.uk/wsi/2023/87). There are other amending instruments but none are relevant.
 
-[^key-28adbd1f4e4f55871badfa085d4222c3]: Commencement: Reg. 11 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-28adbd1f4e4f55871badfa085d4222c3]: Commencement: Reg. 11 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
-[^key-6bde5a8524acf36980478ebb0ccd9301]: Commencement: Reg. 12 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-6bde5a8524acf36980478ebb0ccd9301]: Commencement: Reg. 12 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
-[^key-5d4323f1271dc63d818af85a8c52b642]: Commencement: Reg. 13 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-5d4323f1271dc63d818af85a8c52b642]: Commencement: Reg. 13 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
-[^key-40c2d0e4ef635b0c1e6b0b9d018fa537]: Commencement: Reg. 14 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-40c2d0e4ef635b0c1e6b0b9d018fa537]: Commencement: Reg. 14 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
-[^key-59e7e2d313d10185d920301436332623]: Commencement: Reg. 15 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-59e7e2d313d10185d920301436332623]: Commencement: Reg. 15 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
-[^key-8f5c8700cabc904cd94f9c080a4621ac]: Commencement: Reg. 16 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-8f5c8700cabc904cd94f9c080a4621ac]: Commencement: Reg. 16 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
-[^key-54effc0353b4987bda2ae5d41608243a]: Commencement: Reg. 17 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-54effc0353b4987bda2ae5d41608243a]: Commencement: Reg. 17 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
-[^key-43053de9ce683f21b7cd5dea32af650d]: Commencement: Reg. 18 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-43053de9ce683f21b7cd5dea32af650d]: Commencement: Reg. 18 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
-[^key-3ded4b7c1ec69e83e1980bc16e072bdf]: Commencement: Reg. 19 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-3ded4b7c1ec69e83e1980bc16e072bdf]: Commencement: Reg. 19 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
-[^key-96b616f6cbf01a10db9edbf10f56e918]: Commencement: Reg. 20 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-96b616f6cbf01a10db9edbf10f56e918]: Commencement: Reg. 20 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
-[^key-119371dad182bb4df2f321287cd88169]: Commencement: Reg. 21 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-119371dad182bb4df2f321287cd88169]: Commencement: Reg. 21 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
-[^key-628b20161caee3c48af9b917e9dc5b2d]: Commencement: Reg. 22 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-628b20161caee3c48af9b917e9dc5b2d]: Commencement: Reg. 22 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
 [^f00011]: Footnote: [S.I. 2018/191 (W. 42)](https://www.legislation.gov.uk/wsi/2018/191), relevant amendments are [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [S.I. 2022/79 (W. 28)](https://www.legislation.gov.uk/wsi/2022/79), [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764), [S.I. 2023/633 (W. 97)](https://www.legislation.gov.uk/wsi/2023/633) and [S.I. 2023/1349 (W. 243)](https://www.legislation.gov.uk/wsi/2023/1349). There are other amending instruments but none are relevant.
 
-[^key-37c772c1ed31f1038ec81225fd95059e]: Commencement: Reg. 23 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-37c772c1ed31f1038ec81225fd95059e]: Commencement: Reg. 23 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
-[^key-345a03b6717da1c1b8463efe466fc64e]: Commencement: Reg. 24 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-345a03b6717da1c1b8463efe466fc64e]: Commencement: Reg. 24 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
-[^key-987b4dfd3c7e49584208ba3830f17218]: Commencement: Reg. 25 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-987b4dfd3c7e49584208ba3830f17218]: Commencement: Reg. 25 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
-[^key-0eda59567e25abb8845a24c4df055854]: Commencement: Reg. 26 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-0eda59567e25abb8845a24c4df055854]: Commencement: Reg. 26 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
-[^key-00925fa8899800824bba0da78660012d]: Commencement: Reg. 27 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-00925fa8899800824bba0da78660012d]: Commencement: Reg. 27 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
-[^key-6c7d27277ff7e7eda0e5cff6c6a3f801]: Commencement: Reg. 28 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-6c7d27277ff7e7eda0e5cff6c6a3f801]: Commencement: Reg. 28 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
-[^key-0c700054e29cba702702ac625e5f0e5a]: Commencement: Reg. 29 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-0c700054e29cba702702ac625e5f0e5a]: Commencement: Reg. 29 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
-[^key-f5dc175a25c0b377dbacaa92ac549719]: Commencement: Reg. 30 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-f5dc175a25c0b377dbacaa92ac549719]: Commencement: Reg. 30 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
 [^f00012]: Footnote: [S.I. 2018/656 (W. 124)](https://www.legislation.gov.uk/wsi/2018/656), relevant amendments are [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [S.I. 2022/403 (W. 100)](https://www.legislation.gov.uk/wsi/2022/403), [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764), [S.I. 2023/633 (W. 97)](https://www.legislation.gov.uk/wsi/2023/633) and [S.I. 2023/1349 (W. 243)](https://www.legislation.gov.uk/wsi/2023/1349). There are other amending instruments but none are relevant.
 
-[^key-e7f0151eb5717f5fed92cc51aceafa1b]: Commencement: Reg. 31 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-e7f0151eb5717f5fed92cc51aceafa1b]: Commencement: Reg. 31 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
-[^key-b8de8fc78d875726eda4e2c6058c7a05]: Commencement: Reg. 32 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-b8de8fc78d875726eda4e2c6058c7a05]: Commencement: Reg. 32 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
-[^key-0389a404e3c27c48239b620fc46598f9]: Commencement: Reg. 33 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-0389a404e3c27c48239b620fc46598f9]: Commencement: Reg. 33 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
-[^key-e3c2d250f675e53ccb6714c222967952]: Commencement: Reg. 34 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-e3c2d250f675e53ccb6714c222967952]: Commencement: Reg. 34 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
 [^f00013]: Footnote: [S.I. 2019/895 (W. 161)](https://www.legislation.gov.uk/wsi/2019/895), relevant amendments are [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [S.I. 2022/403 (W. 100)](https://www.legislation.gov.uk/wsi/2022/403), [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764), [S.I. 2023/633 (W. 97)](https://www.legislation.gov.uk/wsi/2023/633) and [S.I. 2023/1349 (W. 243)](https://www.legislation.gov.uk/wsi/2023/1349). There are other amending instruments but none are relevant.
 
-[^key-de68e7eebbaa8ca6bbf88e83030fdc28]: Commencement: Reg. 35 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-de68e7eebbaa8ca6bbf88e83030fdc28]: Commencement: Reg. 35 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
-[^key-7defb181be9feeee3fe0076cee893b73]: Commencement: Reg. 36 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-7defb181be9feeee3fe0076cee893b73]: Commencement: Reg. 36 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
 
-[^key-390db317cc3ea0abafdd9e5c05fd0de3]: Commencement: Reg. 37 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)
+[^c-390db317cc3ea0abafdd9e5c05fd0de3]: Commencement: Reg. 37 in force at 9.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/810/regulation/1/2)

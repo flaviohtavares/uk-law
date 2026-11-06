@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of the Environment, in exercise of the powers conferred on it by Articles 61(6), 62, 75(8), 81(8) and (9) and 110(2) of the Road Traffic (Northern Ireland) Order 1995[^f00001] and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-54a4af7f873438d84846b1796805d1dd]
+## 1. Citation and commencement[^c-54a4af7f873438d84846b1796805d1dd]
 
 These Regulations may be cited as the Motor Vehicle Testing (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 3rd June 1996.
 
-## 2. Amendment of the Motor Vehicle Testing Regulations (Northern Ireland) 1995[^key-84977c591e0eb7838e02607b442545ca]
+## 2. Amendment of the Motor Vehicle Testing Regulations (Northern Ireland) 1995[^c-84977c591e0eb7838e02607b442545ca]
 
 The Motor Vehicle Testing Regulations (Northern Ireland) 1995[^f00002] shall be amended as follows—
 
@@ -148,8 +148,8 @@ These Regulations also amend the 1995 Regulations by amending regulation 22 ther
 
 [^f00001]: Footnote: [S.I. 1995/2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994)
 
-[^key-54a4af7f873438d84846b1796805d1dd]: Commencement: Reg. 1 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/140/regulation/1)
+[^c-54a4af7f873438d84846b1796805d1dd]: Commencement: Reg. 1 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/140/regulation/1)
 
-[^key-84977c591e0eb7838e02607b442545ca]: Commencement: Reg. 2 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/140/regulation/1)
+[^c-84977c591e0eb7838e02607b442545ca]: Commencement: Reg. 2 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/140/regulation/1)
 
 [^f00002]: Footnote: [S.R. 1995 No. 448](https://www.legislation.gov.uk/nisr/1995/448)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72J. Disclosures relating to directors, other officers and employees of society required in notes to accounts[^key-16b844ef22502b0819f75ba29a858a8b]
+## 72J. Disclosures relating to directors, other officers and employees of society required in notes to accounts[^c-16b844ef22502b0819f75ba29a858a8b]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16b844ef22502b0819f75ba29a858a8b]: Textual amendment: Ss. 72J, 72K inserted (22.12.2004) (with effect in accordance with art. 1(2) of the amending S.I.) by [The Building Societies Act 1986 (International Accounting Standards and Other Accounting Amendments) Order 2004 (S.I. 2004/3380)](https://www.legislation.gov.uk/uksi/2004/3380), [art. 1](https://www.legislation.gov.uk/uksi/2004/3380/article/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2004/3380/schedule/paragraph/5)
+[^c-16b844ef22502b0819f75ba29a858a8b]: Textual amendment: Ss. 72J, 72K inserted (22.12.2004) (with effect in accordance with art. 1(2) of the amending S.I.) by [The Building Societies Act 1986 (International Accounting Standards and Other Accounting Amendments) Order 2004 (S.I. 2004/3380)](https://www.legislation.gov.uk/uksi/2004/3380), [art. 1](https://www.legislation.gov.uk/uksi/2004/3380/article/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2004/3380/schedule/paragraph/5)

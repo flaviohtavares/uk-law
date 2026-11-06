@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Interpretation[^key-e594e6b6c2f2d1296b4933e790d97637]
+## 54. Interpretation[^c-e594e6b6c2f2d1296b4933e790d97637]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ For the purposes of this Chapter—
 
 ## Annotations
 
-[^key-e594e6b6c2f2d1296b4933e790d97637]: Commencement: Reg. 54 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-e594e6b6c2f2d1296b4933e790d97637]: Commencement: Reg. 54 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Senior managers’ liability: information offences[^key-b2da0f03c8c7fa9e9d64719dbb89aed8][^key-a6e5aa0cd905189b0cbb1041a10014fb]
+## 110. Senior managers’ liability: information offences[^c-b2da0f03c8c7fa9e9d64719dbb89aed8][^c-a6e5aa0cd905189b0cbb1041a10014fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,12 +44,12 @@ summary: ''
 - (a) the entity commits an offence under section 109(5) (destruction etc of information), and
 - (b) the individual has failed to take all reasonable steps to prevent that offence being committed.
 
-(6A)[^key-4d07903ee3582e550893ff8f83fefc6e] An individual named as a senior manager of an entity commits an offence if—
+(6A)[^c-4d07903ee3582e550893ff8f83fefc6e] An individual named as a senior manager of an entity commits an offence if—
 
 - (a) the entity commits an offence under section 109(6A) (deletion etc of information), and
 - (b) the individual has failed to take all reasonable steps to prevent that offence being committed.
 
-(7) It is a defence for an individual charged with an offence under subsection (4), (5) , (6) or (6A)[^key-6b82e4533424f61476ced1354de5884b] to show that the individual was not a senior manager within the meaning of section 103 at the time at which the act constituting the offence occurred.
+(7) It is a defence for an individual charged with an offence under subsection (4), (5) , (6) or (6A)[^c-6b82e4533424f61476ced1354de5884b] to show that the individual was not a senior manager within the meaning of section 103 at the time at which the act constituting the offence occurred.
 
 (8) It is a defence for an individual charged with an offence under this section to show that the individual had no knowledge of being named as a senior manager in a response to the information notice in question.
 
@@ -57,10 +57,10 @@ summary: ''
 
 ## Annotations
 
-[^key-b2da0f03c8c7fa9e9d64719dbb89aed8]: Commencement: S. 110 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-b2da0f03c8c7fa9e9d64719dbb89aed8]: Commencement: S. 110 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-a6e5aa0cd905189b0cbb1041a10014fb]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2023/50/section/110) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z11)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z11)
+[^c-a6e5aa0cd905189b0cbb1041a10014fb]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2023/50/section/110) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z11)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z11)
 
-[^key-4d07903ee3582e550893ff8f83fefc6e]: Textual amendment: [S. 110(6A)](https://www.legislation.gov.uk/ukpga/2023/50/section/110/6A) inserted (30.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(6)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/6/a), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)
+[^c-4d07903ee3582e550893ff8f83fefc6e]: Textual amendment: [S. 110(6A)](https://www.legislation.gov.uk/ukpga/2023/50/section/110/6A) inserted (30.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(6)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/6/a), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)
 
-[^key-6b82e4533424f61476ced1354de5884b]: Textual amendment: Words in [s. 110(7)](https://www.legislation.gov.uk/ukpga/2023/50/section/110/7) substituted (30.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(6)(b)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/6/b), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)
+[^c-6b82e4533424f61476ced1354de5884b]: Textual amendment: Words in [s. 110(7)](https://www.legislation.gov.uk/ukpga/2023/50/section/110/7) substituted (30.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(6)(b)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/6/b), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)

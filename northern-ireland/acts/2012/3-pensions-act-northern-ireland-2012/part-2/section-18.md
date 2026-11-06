@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. No indemnification for civil penalties[^key-fc10d371863b813a0a2ef44e906defa8]
+## 18. No indemnification for civil penalties[^c-fc10d371863b813a0a2ef44e906defa8]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ In Article 233 of the Pensions (Northern Ireland) Order 2005 (no indemnification
 
 ## Annotations
 
-[^key-fc10d371863b813a0a2ef44e906defa8]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2012/3/section/18) in operation at 30.6.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(2)(c)](https://www.legislation.gov.uk/nisr/2012/265/article/2/2/c)
+[^c-fc10d371863b813a0a2ef44e906defa8]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2012/3/section/18) in operation at 30.6.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(2)(c)](https://www.legislation.gov.uk/nisr/2012/265/article/2/2/c)

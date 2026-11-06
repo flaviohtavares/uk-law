@@ -50,18 +50,18 @@ A draft of these Regulations has been laid before, and approved by a resolution 
 
 ## PART 1 — Preliminary provisions
 
-### 1. Citation and commencement[^key-0dc083873a1e103fab6aa39dcd0b136b]
+### 1. Citation and commencement[^c-0dc083873a1e103fab6aa39dcd0b136b]
 
 These Regulations—
 
 - (a) may be cited as the Goods Vehicles (International Road Transport Permits and Haulage Within the EU) Regulations 2024, and
 - (b) come into force on the 21st day after the day on which they are made.
 
-### 2. Extent[^key-b565a6d7d29b0103b01e639e26616d25]
+### 2. Extent[^c-b565a6d7d29b0103b01e639e26616d25]
 
 These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 3. Interpretation[^key-366d3d7f9921503f861a401f1b4ade21]
+### 3. Interpretation[^c-366d3d7f9921503f861a401f1b4ade21]
 
 (1) In these Regulations—
 
@@ -108,7 +108,7 @@ These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
 ## PART 2 — Permits
 
-### 4. Permit requirement for commercial journey to, in or through listed country[^key-3b2f2f799ad2382379470afc5d6c4dca]
+### 4. Permit requirement for commercial journey to, in or through listed country[^c-3b2f2f799ad2382379470afc5d6c4dca]
 
 (1) The operator of a goods vehicle is prohibited from using it on a journey for the carriage of goods to, in or through a listed country unless the use of that vehicle in that country is authorised by, and takes place in accordance with, a permit—
 
@@ -131,7 +131,7 @@ These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
 (4) For the avoidance of doubt, the fact that paragraph (1) does not apply to the use of a vehicle by virtue of paragraph (2)(d) does not constitute authorisation for the vehicle to be so used on a journey for the carriage of goods to, in or through a listed country.
 
-### 5. Types of permit[^key-4d11f76733e4e238543eae7168b58ab3]
+### 5. Types of permit[^c-4d11f76733e4e238543eae7168b58ab3]
 
 (1) The types of permit that may be granted by the Secretary of State under these Regulations are—
 
@@ -145,17 +145,17 @@ These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
 (2) In this regulation “**specified listed country**” means a listed country in relation to which there is an agreement, in addition to, or other than, the ECMT agreements, which provides for the issuing of permits.
 
-### 6. Number of permits[^key-85422d0a451e933e693b40eadfdb0701]
+### 6. Number of permits[^c-85422d0a451e933e693b40eadfdb0701]
 
 The number of permits available for the use of a goods vehicle on a journey to, in or through a listed country is to be determined in accordance with the agreement relating to that country.
 
-### 7. Fees payable for permits[^key-a269dd89ddeaeba8de168aed6c0e11f2]
+### 7. Fees payable for permits[^c-a269dd89ddeaeba8de168aed6c0e11f2]
 
 (1) The fee payable in respect of an application for a type of permit specified in the first column of the table in Part 1 of Schedule 3 is the amount specified in the corresponding entry in the second column of that table (the “application fee”).
 
 (2) The fee payable in respect of the grant of a type of permit specified in the first column of the table in Part 2 of Schedule 3 is the amount specified in the corresponding entry in the second column of that table (the “grant fee”).
 
-### 8. Application for permit[^key-e64600f315677f460ff8c658ef1d73ad]
+### 8. Application for permit[^c-e64600f315677f460ff8c658ef1d73ad]
 
 (1) To obtain a permit, an operator must—
 
@@ -176,13 +176,13 @@ The number of permits available for the use of a goods vehicle on a journey to, 
 - (g) if the operator is required to hold an operator’s licence for any journey to which the application relates[^f00017], the number of that licence;
 - (h) if the application is for a type of permit under which the operator may make more than one journey, an estimate of the number and frequency of the journeys.
 
-### 9. Withdrawal of application for permit[^key-24e187644e569dfb040eda12131540ff]
+### 9. Withdrawal of application for permit[^c-24e187644e569dfb040eda12131540ff]
 
 (1) An operator may, by notifying the Secretary of State, withdraw their application at any time before the day on which the Secretary of State makes a decision on the application.
 
 (2) The operator is not entitled to the return of the application fee.
 
-### 10. Grant of permit[^key-4cefeddc799bca01ae1e7657c3e3652b]
+### 10. Grant of permit[^c-4cefeddc799bca01ae1e7657c3e3652b]
 
 The Secretary of State may only decide whether to grant a permit to an operator after considering the following—
 
@@ -191,7 +191,7 @@ The Secretary of State may only decide whether to grant a permit to an operator 
 - (c) the attachment of conditions;
 - (d) the obligations of the United Kingdom as a party to the agreement that relates to the listed country to, in or through which the operator proposes to use a goods vehicle on a journey.
 
-### 11. Conditions[^key-23d997ac96131f11afb0e199b18d9934]
+### 11. Conditions[^c-23d997ac96131f11afb0e199b18d9934]
 
 (1) The Secretary of State may grant a permit subject to—
 
@@ -204,7 +204,7 @@ The Secretary of State may only decide whether to grant a permit to an operator 
 
 (2) A condition may be attached to a permit at any time before the permit has effect.
 
-### 12. Duration of permit[^key-87610686327fb350928224903e2d9ceb]
+### 12. Duration of permit[^c-87610686327fb350928224903e2d9ceb]
 
 A permit has effect for the duration specified in the right-hand column of the table in relation to that type of permit.
 
@@ -213,15 +213,15 @@ A permit has effect for the duration specified in the right-hand column of the t
 | ECMT annual permit | The period:<br>- beginning with:<br>  - the day the permit is granted, or<br>  - the day requested in the application (if any), if that day is within the period of 60 days beginning with the day the permit is granted, and<br>- ending with 31st December of the year in which the period begins. |
 | ECMT international removal permit | The period of one year beginning with:<br>- the day the permit is granted, or<br>- the day requested in the application (if any), if that day is within the period of 60 days beginning with the day the permit is granted. |
 | ECMT short-term permit | The period of 30 days beginning with<br>- the day the permit is granted, or<br>- the day requested in the application (if any), if that day is within the period of 60 days beginning with the day the permit is granted. |
-| multiple-use permit; single-use permit | The period:<br>- beginning with:<br>  - the day the permit is granted, or<br>  - the day requested in the application (if any), if that day is within the period of 60 days beginning with the day the permit is granted, and<br>- ending with:<br>  - for a permit relating to Azerbaijan , Belarus or Norway[^key-dadae741aabdad157bd51403062a0364], 31st January of the year following the year in which the period begins, or<br>  - for a permit relating to any other listed country, 31st December of the year in which the period begins. |
+| multiple-use permit; single-use permit | The period:<br>- beginning with:<br>  - the day the permit is granted, or<br>  - the day requested in the application (if any), if that day is within the period of 60 days beginning with the day the permit is granted, and<br>- ending with:<br>  - for a permit relating to Azerbaijan , Belarus or Norway[^c-dadae741aabdad157bd51403062a0364], 31st January of the year following the year in which the period begins, or<br>  - for a permit relating to any other listed country, 31st December of the year in which the period begins. |
 
-### 13. Refusal of permit[^key-f82924cfdb547627a555b9d1188ab14c]
+### 13. Refusal of permit[^c-f82924cfdb547627a555b9d1188ab14c]
 
 (1) If the Secretary of State decides not to grant a permit, the Secretary of State must notify the operator who applied for it, within the period of 28 days beginning with the day after the day the decision is made, of the reasons for the decision.
 
 (2) The operator is not entitled to the return of the application fee.
 
-### 14. Temporary exemption to deal with emergency or other special need[^key-1b2e106fed07711ac3430e7d8ff30343]
+### 14. Temporary exemption to deal with emergency or other special need[^c-1b2e106fed07711ac3430e7d8ff30343]
 
 (1) The Secretary of State may grant a temporary exemption from the prohibition imposed by regulation 4 for the purpose of enabling an emergency or some other special need to be dealt with.
 
@@ -232,7 +232,7 @@ A permit has effect for the duration specified in the right-hand column of the t
 
 ## PART 3 — Enforcement of permit requirement
 
-### 15. Direction to comply with permit condition[^key-fe1033e814d0bd5a22577abe4bacc06d]
+### 15. Direction to comply with permit condition[^c-fe1033e814d0bd5a22577abe4bacc06d]
 
 (1) This regulation applies if an operator—
 
@@ -244,7 +244,7 @@ A permit has effect for the duration specified in the right-hand column of the t
 - (a) notify the operator of the breach of the condition, and
 - (b) direct the operator to remedy the breach within the period of 28 days beginning with the day after the day the operator is so notified.
 
-### 16. Cancellation of permit[^key-d6891adba80b354ec7b810386abd92d5]
+### 16. Cancellation of permit[^c-d6891adba80b354ec7b810386abd92d5]
 
 (1) The Secretary of State may cancel a permit if the operator who holds it—
 
@@ -267,7 +267,7 @@ A permit has effect for the duration specified in the right-hand column of the t
 
 (4) Unless the Secretary of State withdraws a cancellation notification, or there is a decision under regulation 18(2)(b) that the cancellation should be suspended pending an appeal, a permit ceases to have effect on the date specified in the notification.
 
-### 17. Appeal against cancellation[^key-2be439848cfdfee7a6d91e76d201deb8]
+### 17. Appeal against cancellation[^c-2be439848cfdfee7a6d91e76d201deb8]
 
 (1) An operator who has a permit cancelled under regulation 16(1) may appeal against the decision to cancel the permit on the ground that the Secretary of State made an error of fact or law in making that decision.
 
@@ -285,7 +285,7 @@ A permit has effect for the duration specified in the right-hand column of the t
 - (a) confirm the Secretary of State’s decision to cancel the permit, or
 - (b) quash the decision.
 
-### 18. Appeal to traffic commissioner[^key-d8696c1336f883a83a9aa3b84c519c3d]
+### 18. Appeal to traffic commissioner[^c-d8696c1336f883a83a9aa3b84c519c3d]
 
 (1) An appeal to a traffic commissioner against the cancellation of a permit must be brought within the period of 28 days beginning with the day after day the operator is notified of the cancellation.
 
@@ -302,7 +302,7 @@ A permit has effect for the duration specified in the right-hand column of the t
 
 ## PART 4 — Haulage between two points in the EU
 
-### 19. Part 4 – Interpretation[^key-0c1cfd11fe574a4d2c4979a4df0bcd37]
+### 19. Part 4 – Interpretation[^c-0c1cfd11fe574a4d2c4979a4df0bcd37]
 
 In this Part—
 
@@ -318,7 +318,7 @@ In this Part—
 - “**posting declaration**” has the meaning given in regulation 22(2);
 - “**within a member State**” means, in relation to a journey, the journey from a location in a member State to a location in the same member State regardless of whether the journey is through any other country.
 
-### 20. Requirements for commercial journey within or between EU member States[^key-003ee6fe5fb509e3b1c2d70237a531ec]
+### 20. Requirements for commercial journey within or between EU member States[^c-003ee6fe5fb509e3b1c2d70237a531ec]
 
 (1) The operator of a goods vehicle is prohibited from using it on a commercial journey for the carriage of goods between member States or within a member State unless the operator complies with the limit on journeys set out in regulation 21.
 
@@ -331,7 +331,7 @@ In this Part—
 - (a) the journey is conducted under a contract concluded between the operator of the vehicle and another party for the carriage of goods, and
 - (b) there is a relevant contract between the person driving the vehicle on that journey and the operator of the vehicle for the duration of the journey.
 
-### 21. Limit on number of journeys within the EU[^key-2e86e19779e1aaa6224d1c1984ac952c]
+### 21. Limit on number of journeys within the EU[^c-2e86e19779e1aaa6224d1c1984ac952c]
 
 (1) The operator of a goods vehicle must not use it to make any laden journey between or within member States (“member State journey”) unless—
 
@@ -357,7 +357,7 @@ In this Part—
   - (b) no such licence, but has in Northern Ireland their principal place of business;
 - “**within Ireland**” means, in relation to a journey, the journey from a location in Ireland to another location in Ireland regardless of whether the journey is through Northern Ireland.
 
-### 22. Posting requirements for journeys within the EU[^key-2ac10007fb49b6ef4ac8ae9a70d6f11d]
+### 22. Posting requirements for journeys within the EU[^c-2ac10007fb49b6ef4ac8ae9a70d6f11d]
 
 (1) The conditions specified for the purposes of regulation 20(2) are that—
 
@@ -375,7 +375,7 @@ In this Part—
   - (v) the registration plate of the vehicle;
   - (vi) the start date of, and the law applicable to, the driver’s relevant contract with the operator.
 
-### 23. Requirement to comply with posting enquiries[^key-d3c1f2c3f3744be6cab4cec47029be25]
+### 23. Requirement to comply with posting enquiries[^c-d3c1f2c3f3744be6cab4cec47029be25]
 
 (1) In this regulation—
 
@@ -387,7 +387,7 @@ In this Part—
 
 (3) The operator must comply with a relevant enquiry within the period of 56 days beginning with the day after the day the enquiry is made.
 
-### 24. Power to stop[^key-154c63d8440e1227d98832794799ecbd]
+### 24. Power to stop[^c-154c63d8440e1227d98832794799ecbd]
 
 (1) Paragraph (2) applies if it appears to—
 
@@ -400,7 +400,7 @@ that a goods vehicle is being used on a journey between member States or within 
 
 (3) In this regulation “**stopping officer**” means an officer appointed under section 66B of the Road Traffic Act 1988[^f00027].
 
-### 25. Production of posting declaration and inspection of vehicles[^key-2c763a3602082deb63c0bd80a2b4bab0]
+### 25. Production of posting declaration and inspection of vehicles[^c-2c763a3602082deb63c0bd80a2b4bab0]
 
 (1) An examiner may exercise the powers under this regulation in relation to a goods vehicle if it appears to the examiner that—
 
@@ -422,7 +422,7 @@ that a goods vehicle is being used on a journey between member States or within 
 
 (5) In this regulation “**relevant journey**” means a journey to which regulation 20(1) applies.
 
-### 26. Prohibition notices[^key-086a725f8a02ef0fcedbda2ec2fef0e6]
+### 26. Prohibition notices[^c-086a725f8a02ef0fcedbda2ec2fef0e6]
 
 (1) An examiner may prohibit a goods vehicle in the United Kingdom from being taken to a member State if it appears to the examiner that—
 
@@ -450,7 +450,7 @@ that a goods vehicle is being used on a journey between member States or within 
 
 (7) An examiner who gives a notice under this regulation to a driver of a vehicle must, as soon as practicable after the notice is given, take steps to bring the contents of the notice to the attention of the operator of the vehicle unless the driver is the operator.
 
-### 27. Offences: breach of regulations etc.[^key-e0ef03afe0b7a4323fb04cb9b5a37ef8]
+### 27. Offences: breach of regulations etc.[^c-e0ef03afe0b7a4323fb04cb9b5a37ef8]
 
 (1) The operator of a goods vehicle commits an offence if, without reasonable excuse—
 
@@ -474,7 +474,7 @@ that a goods vehicle is being used on a journey between member States or within 
 
 ## PART 5 — Miscellaneous provisions
 
-### 28. Periodic review of regulatory provision[^key-144d5513fa50badc7c999992e0dd2f3e]
+### 28. Periodic review of regulatory provision[^c-144d5513fa50badc7c999992e0dd2f3e]
 
 (1) The Secretary of State must from time to time—
 
@@ -496,11 +496,11 @@ that a goods vehicle is being used on a journey between member States or within 
 
 (6) In this regulation, “**regulatory provision**” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015[^f00028] (see section 32 of that Act).
 
-### 29. Revocation of the International Road Transport Permits (EU Exit) Regulations 2018[^key-00c93f2cd0c0f2f61116c8727da8f324]
+### 29. Revocation of the International Road Transport Permits (EU Exit) Regulations 2018[^c-00c93f2cd0c0f2f61116c8727da8f324]
 
 The International Road Transport Permits (EU Exit) Regulations 2018[^f00029] are revoked.
 
-### 30. Amendment of the Drivers’ Hours and Tachographs (Amendment) (EU Exit) (No. 2) Regulations 2019[^key-aed243d9a3c34e17ca37045ccafd97dc]
+### 30. Amendment of the Drivers’ Hours and Tachographs (Amendment) (EU Exit) (No. 2) Regulations 2019[^c-aed243d9a3c34e17ca37045ccafd97dc]
 
 (1) The Drivers’ Hours and Tachographs (Amendment) (EU Exit) (No. 2) Regulations 2019[^f00030] are amended in accordance with paragraphs (2) and (3).
 
@@ -522,87 +522,87 @@ Department for Transport
 
 Regulation 3
 
-**1.**[^key-331f7c90a30d91a54b685d195aff29c9] Armenia
+**1.**[^c-331f7c90a30d91a54b685d195aff29c9] Armenia
 
-**2.**[^key-96f3123e9570e5fcc294c92daa2f44d2] Austria
+**2.**[^c-96f3123e9570e5fcc294c92daa2f44d2] Austria
 
-**3.**[^key-e065b58846f92fab5155e6d69a5952f6] Azerbaijan
+**3.**[^c-e065b58846f92fab5155e6d69a5952f6] Azerbaijan
 
-**4.**[^key-b309773307960e5d3f277a725b9f9826] Belarus
+**4.**[^c-b309773307960e5d3f277a725b9f9826] Belarus
 
-**5.**[^key-6d1c568ae89bdcaa994421df8d6a27a5] Belgium
+**5.**[^c-6d1c568ae89bdcaa994421df8d6a27a5] Belgium
 
-**6.**[^key-516e0bbc6503f81a03636961bf24511d] Bulgaria
+**6.**[^c-516e0bbc6503f81a03636961bf24511d] Bulgaria
 
-**7.**[^key-20a589d0e5706a013a8911c2e3e11b0e] Croatia
+**7.**[^c-20a589d0e5706a013a8911c2e3e11b0e] Croatia
 
-**8.**[^key-c9ca4e4dcd51806423ec3813be5bd970] Czech Republic
+**8.**[^c-c9ca4e4dcd51806423ec3813be5bd970] Czech Republic
 
-**9.**[^key-d680d66e4c1d062870705c3a76d4381a] Denmark
+**9.**[^c-d680d66e4c1d062870705c3a76d4381a] Denmark
 
-**10.**[^key-62cb173eed87e3622a01ae59aa8cca35] Estonia
+**10.**[^c-62cb173eed87e3622a01ae59aa8cca35] Estonia
 
-**11.**[^key-a019cd181675fafb619119775384a5e9] Finland
+**11.**[^c-a019cd181675fafb619119775384a5e9] Finland
 
-**12.**[^key-f4ab7f7296513bba7c68b02eaf6e8d93] France
+**12.**[^c-f4ab7f7296513bba7c68b02eaf6e8d93] France
 
-**13.**[^key-cb332fe90305371d03b8d1c847afac8e] Georgia
+**13.**[^c-cb332fe90305371d03b8d1c847afac8e] Georgia
 
-**14.**[^key-955d01f2885874ff2b27f4cde3da4a17] Germany
+**14.**[^c-955d01f2885874ff2b27f4cde3da4a17] Germany
 
-**15.**[^key-b41cb6af299a093653b2910d3b8b993a] Greece
+**15.**[^c-b41cb6af299a093653b2910d3b8b993a] Greece
 
-**16.**[^key-8b0de3ba6d4f612dced7aff0648f3cd6] Hungary
+**16.**[^c-8b0de3ba6d4f612dced7aff0648f3cd6] Hungary
 
-**17.**[^key-e6820bcefc34cf558d0ba32558e68db9] Ireland
+**17.**[^c-e6820bcefc34cf558d0ba32558e68db9] Ireland
 
-**18.**[^key-83567918048461e6485b8156752f6cce] Italy
+**18.**[^c-83567918048461e6485b8156752f6cce] Italy
 
-**19.**[^key-143650783e0b5ddea0ee95d3131d55c9] Kazakhstan
+**19.**[^c-143650783e0b5ddea0ee95d3131d55c9] Kazakhstan
 
-**20.**[^key-7280b9cf9abc72ef862cc211627bb0a3] Kyrgyzstan
+**20.**[^c-7280b9cf9abc72ef862cc211627bb0a3] Kyrgyzstan
 
-**21.**[^key-08748e75531b9ed21a967f4d489f9186] Latvia
+**21.**[^c-08748e75531b9ed21a967f4d489f9186] Latvia
 
-**22.**[^key-bcdd3e26c31647418515af7bc62bcba7] Lithuania
+**22.**[^c-bcdd3e26c31647418515af7bc62bcba7] Lithuania
 
-**23.**[^key-7d8b2bd051c477568d4f809a0b129474] Luxembourg
+**23.**[^c-7d8b2bd051c477568d4f809a0b129474] Luxembourg
 
-**24.**[^key-2705d9963ac2eedeaa8e71e30a97843d] Malta
+**24.**[^c-2705d9963ac2eedeaa8e71e30a97843d] Malta
 
-**25.**[^key-f2e331118e208d9d3b077cf156858aae] Morocco
+**25.**[^c-f2e331118e208d9d3b077cf156858aae] Morocco
 
-**26.**[^key-b9c4d5696bb844d02013363e8cec2ecd] Netherlands
+**26.**[^c-b9c4d5696bb844d02013363e8cec2ecd] Netherlands
 
-**26A.**[^key-c1b62713e88ffce216f961bbb73a932b] Norway
+**26A.**[^c-c1b62713e88ffce216f961bbb73a932b] Norway
 
-**27.**[^key-02665f73a66c3e2a28f30287d4907490] Poland
+**27.**[^c-02665f73a66c3e2a28f30287d4907490] Poland
 
-**28.**[^key-407580db9a05ddcd9ce7e821ae184f98] Portugal
+**28.**[^c-407580db9a05ddcd9ce7e821ae184f98] Portugal
 
-**29.**[^key-6da0bf92c4643f0b2db665f906ac4677] Romania
+**29.**[^c-6da0bf92c4643f0b2db665f906ac4677] Romania
 
-**30.**[^key-b8b26703900c42d17dfeb3d4c4fd4ecd] Russia
+**30.**[^c-b8b26703900c42d17dfeb3d4c4fd4ecd] Russia
 
-**31.**[^key-51b7490d69e9703b2e305850d9341022] Slovakia
+**31.**[^c-51b7490d69e9703b2e305850d9341022] Slovakia
 
-**32.**[^key-d40edf50bca4216180df73b2b18704b8] Slovenia
+**32.**[^c-d40edf50bca4216180df73b2b18704b8] Slovenia
 
-**33.**[^key-ef0664839baf8a60e92a661f62846e92] Spain
+**33.**[^c-ef0664839baf8a60e92a661f62846e92] Spain
 
-**34.**[^key-092fbc42a7e81618863c011d21a7f06b] Sweden
+**34.**[^c-092fbc42a7e81618863c011d21a7f06b] Sweden
 
-**35.**[^key-7a477b17b2e7641be77f36763b60f708] Tajikistan
+**35.**[^c-7a477b17b2e7641be77f36763b60f708] Tajikistan
 
-**36.**[^key-d8121805f9312490924d13177c32be0a] Tunisia
+**36.**[^c-d8121805f9312490924d13177c32be0a] Tunisia
 
-**37.**[^key-5fd5278fdd9c633e560f778de1e1841f] Turkey
+**37.**[^c-5fd5278fdd9c633e560f778de1e1841f] Turkey
 
-**38.**[^key-6815172bca487125ca42d80f879183fd] Turkmenistan
+**38.**[^c-6815172bca487125ca42d80f879183fd] Turkmenistan
 
-**39.**[^key-78d32344e259ac1bd16bc024267c0ebf] Ukraine
+**39.**[^c-78d32344e259ac1bd16bc024267c0ebf] Ukraine
 
-**40.**[^key-0caee69b7519222c5fcdf8b6b61c59d7] Uzbekistan
+**40.**[^c-0caee69b7519222c5fcdf8b6b61c59d7] Uzbekistan
 
 ## SCHEDULE 2 — Descriptions of uses which do not require permits
 
@@ -610,7 +610,7 @@ Regulation 4(2)(b)
 
 ### PART 1 — Preliminary provisions
 
-#### 1. Additional definitions for Schedule 2[^key-6ad0674db00938a357c4dfeb99ae0573]
+#### 1. Additional definitions for Schedule 2[^c-6ad0674db00938a357c4dfeb99ae0573]
 
 In this Schedule—
 
@@ -628,7 +628,7 @@ In this Schedule—
 - “**postal packet**” means a letter, parcel, packet or other article transmissible by post;
 - “**recovery vehicle**” means a goods vehicle on a journey to remove, repair, replace, return or support a goods vehicle that has broken-down on a journey made in accordance with these Regulations.
 
-#### 2. Meaning of “livestock vehicle”[^key-1b5f684641e941839cbe2c4e6ab96698]
+#### 2. Meaning of “livestock vehicle”[^c-1b5f684641e941839cbe2c4e6ab96698]
 
 (1) A “livestock vehicle” is a goods vehicle—
 
@@ -648,7 +648,7 @@ In this Schedule—
   - (e) fowl, which includes chickens, ducks, geese, pheasants and turkeys;
   - (f) pigs.
 
-#### 3. Meaning of “medium-weight vehicle”[^key-b9d7477d3274e9bb1040581028a961e4]
+#### 3. Meaning of “medium-weight vehicle”[^c-b9d7477d3274e9bb1040581028a961e4]
 
 (1) A “medium-weight vehicle” is a goods vehicle with either or both—
 
@@ -663,7 +663,7 @@ In this Schedule—
   - (c) any loose tools and equipment with which it is normally equipped;
 - “**maximum payload weight**” means, in relation to a goods vehicle, the difference in mass between the kerbside weight of the vehicle and the maximum laden weight of the vehicle.
 
-#### 4. Meaning of “non-commercial basis”[^key-7153529b65d1864a8a2eb81383cd27aa]
+#### 4. Meaning of “non-commercial basis”[^c-7153529b65d1864a8a2eb81383cd27aa]
 
 The operator of a goods vehicle uses it for the carriage of goods on a “non-commercial basis” if—
 
@@ -672,7 +672,7 @@ The operator of a goods vehicle uses it for the carriage of goods on a “non-co
   - (i) exhausted in the destination country, or
   - (ii) used temporarily before being returned to the country of origin without alteration.
 
-#### 5. Meaning of “own account”[^key-4eb380ac9bf01895a633c9783452cd98]
+#### 5. Meaning of “own account”[^c-4eb380ac9bf01895a633c9783452cd98]
 
 The operator of a goods vehicle uses it for the carriage of goods on “own account” if—
 
@@ -689,7 +689,7 @@ The operator of a goods vehicle uses it for the carriage of goods on “own acco
 
 ### PART 2 — Descriptions of uses pursuant to bilateral agreements
 
-#### 6. Armenia[^key-8c70ba7e9fcbe4d6580b66bae6eacf93]
+#### 6. Armenia[^c-8c70ba7e9fcbe4d6580b66bae6eacf93]
 
 (1) The use of a goods vehicle by its operator on a journey to, in or through Armenia if—
 
@@ -725,7 +725,7 @@ The operator of a goods vehicle uses it for the carriage of goods on “own acco
 - “**passenger vehicle**” means a motor vehicle[^f00037] designed for the transport of eight or more persons, not including the driver, with or without a trailer for carrying baggage;
 - “**the UK-USSR Agreement**” means the Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Union of Soviet Socialist Republics concerning International Road Transport with Administrative Memorandum done at London on 22nd January 1988.
 
-#### 7. Azerbaijan[^key-7205c21049a2b580b5b78afb48cc5a74]
+#### 7. Azerbaijan[^c-7205c21049a2b580b5b78afb48cc5a74]
 
 (1) The use of a goods vehicle by its operator on a journey to, in or through Azerbaijan if the vehicle is any of the following—
 
@@ -751,7 +751,7 @@ The operator of a goods vehicle uses it for the carriage of goods on “own acco
 - (h) the remains of a deceased individual;
 - (i) spare parts to repair an aircraft or ocean-going ship.
 
-#### 8. Belarus[^key-24fa7e0fbd0f639d6838520696940a92]
+#### 8. Belarus[^c-24fa7e0fbd0f639d6838520696940a92]
 
 (1) The use of a goods vehicle by its operator on a journey to, in or through Belarus if the vehicle is any of the following—
 
@@ -769,7 +769,7 @@ The operator of a goods vehicle uses it for the carriage of goods on “own acco
 - (d) postal packets;
 - (e) the remains of a deceased individual.
 
-#### 9. Georgia[^key-be836a2f83b53477c4f74a38d07acef6]
+#### 9. Georgia[^c-be836a2f83b53477c4f74a38d07acef6]
 
 (1) The use of a goods vehicle by its operator on a journey to, in or through Georgia if the vehicle is on a journey for the carriage of only—
 
@@ -790,7 +790,7 @@ The operator of a goods vehicle uses it for the carriage of goods on “own acco
   - (i) occasional, and
   - (ii) exclusively for information or publicity purposes.
 
-#### 10. Kazakhstan[^key-b4ad5ff139fe3cfecaff9a9abe89fa39]
+#### 10. Kazakhstan[^c-b4ad5ff139fe3cfecaff9a9abe89fa39]
 
 (1) The use of a goods vehicle by its operator on a journey to, in or through Kazakhstan if the vehicle is—
 
@@ -809,11 +809,11 @@ The operator of a goods vehicle uses it for the carriage of goods on “own acco
 - (e) postal packets;
 - (f) the remains of a deceased individual.
 
-#### 11. Kyrgyzstan[^key-603e70ccde264be4492fba2095f864b4]
+#### 11. Kyrgyzstan[^c-603e70ccde264be4492fba2095f864b4]
 
 Paragraph 6 (Armenia) applies in relation to the use of a goods vehicle on a journey to, in or through Kyrgyzstan as if its references to Armenia were references to Kyrgyzstan.
 
-#### 12. Morocco[^key-279129902d1f7b9750b4fefa8e05be22]
+#### 12. Morocco[^c-279129902d1f7b9750b4fefa8e05be22]
 
 (1) The use of a goods vehicle by its operator on a journey to, in or through Morocco if—
 
@@ -838,7 +838,7 @@ Paragraph 6 (Armenia) applies in relation to the use of a goods vehicle on a jou
 
 (4) In this paragraph “**the UK-Morocco Agreement**” means the Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Kingdom of Morocco on the International Carriage of Goods by Road with Administrative Memorandum done at Marrakesh on 15th April 1994.
 
-#### 12A. Norway[^key-9e1c2701154bdb2d2793fe79d0fe3512]
+#### 12A. Norway[^c-9e1c2701154bdb2d2793fe79d0fe3512]
 
 (1) The use of a goods vehicle by its operator on a journey to, in or through Norway if—
 
@@ -868,15 +868,15 @@ Paragraph 6 (Armenia) applies in relation to the use of a goods vehicle on a jou
 - (g) provisions, and spare parts, for an aircraft or ocean-going ship;
 - (h) the remains of a deceased individual.
 
-#### 13. Russia[^key-13b9845c0cad2049fbae25350be62f26]
+#### 13. Russia[^c-13b9845c0cad2049fbae25350be62f26]
 
 Paragraph 6 (Armenia) applies in relation to the use of a goods vehicle on a journey to, in or through Russia as if its references to Armenia were references to Russia.
 
-#### 14. Tajikistan[^key-9959d8f1f9793d7ebb8a739559e775d4]
+#### 14. Tajikistan[^c-9959d8f1f9793d7ebb8a739559e775d4]
 
 Paragraph 6 (Armenia) applies in relation to the use of a goods vehicle on a journey to, in or through Tajikistan as if its references to Armenia were references to Tajikistan.
 
-#### 15. Tunisia[^key-1ae7e2442e8c346970b761ba2f726480]
+#### 15. Tunisia[^c-1ae7e2442e8c346970b761ba2f726480]
 
 (1) The use of a goods vehicle by its operator on a journey to, in or through Tunisia if—
 
@@ -916,18 +916,18 @@ Paragraph 6 (Armenia) applies in relation to the use of a goods vehicle on a jou
 
 (4) In this paragraph “**the UK-Tunisia agreement**” means the Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Tunisian Republic on the International Carriage of Goods by Road done at London on 10th March 1982.
 
-#### 16. Turkey[^key-2c8aa3dc76383d0adc47793d011df15e]
+#### 16. Turkey[^c-2c8aa3dc76383d0adc47793d011df15e]
 
 The use of a goods vehicle by its operator on a journey—
 
 - (a) to or in Turkey if the origin or destination of the journey is the United Kingdom, or
 - (b) through Turkey.
 
-#### 17. Turkmenistan[^key-e27ff7a7b8fcbec912664a4a692f6336]
+#### 17. Turkmenistan[^c-e27ff7a7b8fcbec912664a4a692f6336]
 
 Paragraph 6 (Armenia) applies in relation to the use of a goods vehicle on a journey to, in or through Turkmenistan as if its references to Armenia were references to Turkmenistan.
 
-#### 18. Ukraine[^key-a18b4babed959ae4b8d39068c305860a]
+#### 18. Ukraine[^c-a18b4babed959ae4b8d39068c305860a]
 
 (1) The use of a goods vehicle by its operator on a journey to, in or through Ukraine if the vehicle is mentioned in sub-paragraph (2).
 
@@ -961,13 +961,13 @@ Paragraph 6 (Armenia) applies in relation to the use of a goods vehicle on a jou
 - “**Euro VI standards-compliant vehicle**” means a vehicle where the engine satisfies the emissions limit values set out in Annex 1 to Regulation 595/2009 of the European Parliament and Council of 18 June 2009[^f00039], as that law had effect immediately before IP completion day;
 - “**zero-emission vehicle**” means a goods vehicle without an internal combustion engine, or with an internal combustion engine that emits less than 1g CO<sub>2</sub>/kWh as determined in accordance with Regulation [(EC) No 595/2009](https://www.legislation.gov.uk/european/regulation/2009/0595) of the European Parliament and of the Council of 18 June 2009 and its implementing measures[^f00040], as that law had effect immediately before IP completion day, or that emits less than 1g CO<sub>2</sub>/km as determined in accordance with Regulation [(EC) No 715/2007](https://www.legislation.gov.uk/european/regulation/2007/0715) of the European Parliament and of the Council of 20 June 2007[^f00041] and its implementing measures[^f00042], as that law had effect immediately before IP completion day.
 
-#### 19. Uzbekistan[^key-b544163a25367abd55a9a16a07b5f582]
+#### 19. Uzbekistan[^c-b544163a25367abd55a9a16a07b5f582]
 
 Paragraph 6 (Armenia) applies in relation to the use of a goods vehicle on a journey to, in or through Uzbekistan as if its references to Armenia were references to Uzbekistan.
 
 ### PART 3 — Descriptions of uses pursuant to multilateral agreements
 
-#### 20. ECMT countries[^key-859748e024e6fde589e95f2359626560]
+#### 20. ECMT countries[^c-859748e024e6fde589e95f2359626560]
 
 (1) Subject to sub-paragraph (3), the use of a goods vehicle by its operator on a journey to, in, or through an ECMT country if—
 
@@ -1005,7 +1005,7 @@ Paragraph 6 (Armenia) applies in relation to the use of a goods vehicle on a jou
 - (f) Austria or Italy under sub-paragraph (1)(c)(v) where the goods are described in sub-paragraph (2)(f);
 - (g) Czech Republic, Germany or Russia under sub-paragraph (1)(c)(v) where the goods are described in sub-paragraph (2)(g).
 
-#### 21. EU member States[^key-4d07cb05ac92d30538194609c2d6f49b]
+#### 21. EU member States[^c-4d07cb05ac92d30538194609c2d6f49b]
 
 (1) The use of a goods vehicle on a journey to, in or through a member State other than—
 
@@ -1022,7 +1022,7 @@ Paragraph 6 (Armenia) applies in relation to the use of a goods vehicle on a jou
 
 Regulation 7
 
-### PART 1 — Application fees[^key-d512a4815e8fda59e2f22a5663a43770]
+### PART 1 — Application fees[^c-d512a4815e8fda59e2f22a5663a43770]
 
 | Type of permit | Application fee |
 | --- | --- |
@@ -1031,7 +1031,7 @@ Regulation 7
 | multiple-use permit | £5 |
 | single-use permit | £2 |
 
-### PART 2 — Grant fees[^key-6af6a288146971a3ebe9d506d6b62320]
+### PART 2 — Grant fees[^c-6af6a288146971a3ebe9d506d6b62320]
 
 | Type of permit | Grant fee |
 | --- | --- |
@@ -1179,11 +1179,11 @@ An Explanatory Memorandum is published alongside this instrument at www.legislat
 
 [^f00002]: Footnote: [2020 c. 29](https://www.legislation.gov.uk/ukpga/2020/29). See section 37 for a definition of “relevant national authority”.
 
-[^key-0dc083873a1e103fab6aa39dcd0b136b]: Commencement: Reg. 1 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-0dc083873a1e103fab6aa39dcd0b136b]: Commencement: Reg. 1 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-b565a6d7d29b0103b01e639e26616d25]: Commencement: Reg. 2 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-b565a6d7d29b0103b01e639e26616d25]: Commencement: Reg. 2 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-366d3d7f9921503f861a401f1b4ade21]: Commencement: Reg. 3 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-366d3d7f9921503f861a401f1b4ade21]: Commencement: Reg. 3 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
 [^f00003]: Footnote: [2018 c. 19](https://www.legislation.gov.uk/ukpga/2018/19) (“**the 2018 Act**”).
 
@@ -1209,41 +1209,41 @@ An Explanatory Memorandum is published alongside this instrument at www.legislat
 
 [^f00014]: Footnote: [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14). Section 4 was substituted by section 3(2) of the Transport Act [1985 (c. 67)](https://www.legislation.gov.uk/ukpga/1985/67) and amended by section 2 of the Local Transport Act [2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26).
 
-[^key-3b2f2f799ad2382379470afc5d6c4dca]: Commencement: Reg. 4 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-3b2f2f799ad2382379470afc5d6c4dca]: Commencement: Reg. 4 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
 [^f00015]: Footnote: Certain bilateral agreements to which the United Kingdom is a party contain provisions excluding vehicles owned or operated by an operator from the territory of one of the parties where there has been an infringement of the agreement. The exclusion may be temporary or permanent.
 
-[^key-4d11f76733e4e238543eae7168b58ab3]: Commencement: Reg. 5 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-4d11f76733e4e238543eae7168b58ab3]: Commencement: Reg. 5 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
 [^f00016]: Footnote: The ECMT Multilateral Quota User Guide is available at: https://www.itf-oecd.org/sites/default/files/docs/guide\_2022\_0.pdf. A hard copy can be obtained on request from the International Road Haulage Permit Office: email irhp@dvsa.gov.uk or telephone 020 8158 0250.
 
-[^key-85422d0a451e933e693b40eadfdb0701]: Commencement: Reg. 6 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-85422d0a451e933e693b40eadfdb0701]: Commencement: Reg. 6 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-a269dd89ddeaeba8de168aed6c0e11f2]: Commencement: Reg. 7 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-a269dd89ddeaeba8de168aed6c0e11f2]: Commencement: Reg. 7 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-e64600f315677f460ff8c658ef1d73ad]: Commencement: Reg. 8 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-e64600f315677f460ff8c658ef1d73ad]: Commencement: Reg. 8 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
 [^f00017]: Footnote: The operator of a goods vehicle may be obligated to hold an operator’s licence, in Great Britain, under section 2 of the Goods Vehicles (Licensing of Operators) Act 1995 or, in Northern Ireland, under section 1 of the Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010.
 
-[^key-24e187644e569dfb040eda12131540ff]: Commencement: Reg. 9 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-24e187644e569dfb040eda12131540ff]: Commencement: Reg. 9 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-4cefeddc799bca01ae1e7657c3e3652b]: Commencement: Reg. 10 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-4cefeddc799bca01ae1e7657c3e3652b]: Commencement: Reg. 10 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-23d997ac96131f11afb0e199b18d9934]: Commencement: Reg. 11 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-23d997ac96131f11afb0e199b18d9934]: Commencement: Reg. 11 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-87610686327fb350928224903e2d9ceb]: Commencement: Reg. 12 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-87610686327fb350928224903e2d9ceb]: Commencement: Reg. 12 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-dadae741aabdad157bd51403062a0364]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2024/679/regulation/12) table substituted (19.8.2024) by [The Goods Vehicles (Licensing of Operators and International Road Transport Permits) (Amendment) Regulations 2024 (S.I. 2024/830)](https://www.legislation.gov.uk/uksi/2024/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/830/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2024/830/regulation/3/2)
+[^c-dadae741aabdad157bd51403062a0364]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2024/679/regulation/12) table substituted (19.8.2024) by [The Goods Vehicles (Licensing of Operators and International Road Transport Permits) (Amendment) Regulations 2024 (S.I. 2024/830)](https://www.legislation.gov.uk/uksi/2024/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/830/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2024/830/regulation/3/2)
 
-[^key-f82924cfdb547627a555b9d1188ab14c]: Commencement: Reg. 13 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-f82924cfdb547627a555b9d1188ab14c]: Commencement: Reg. 13 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-1b2e106fed07711ac3430e7d8ff30343]: Commencement: Reg. 14 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-1b2e106fed07711ac3430e7d8ff30343]: Commencement: Reg. 14 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
 [^f00018]: Footnote: Section 3(3) of the 2018 Act requires a notice under paragraph (2) to specify the vehicle or class of vehicles to which it relates and the journeys to which it relates.
 
-[^key-fe1033e814d0bd5a22577abe4bacc06d]: Commencement: Reg. 15 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-fe1033e814d0bd5a22577abe4bacc06d]: Commencement: Reg. 15 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-d6891adba80b354ec7b810386abd92d5]: Commencement: Reg. 16 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-d6891adba80b354ec7b810386abd92d5]: Commencement: Reg. 16 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
 [^f00019]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52). Section 173(2)(l) has the effect that the offence in section 173(1) applies to any international road haulage permit and section 192(1), as amended by paragraph 3 of the Schedule to the 2018 Act, has the effect that “**international road haulage permit**” includes an international road transport permit within the meaning given by section 1(2) of the 2018 Act.
 
@@ -1251,13 +1251,13 @@ An Explanatory Memorandum is published alongside this instrument at www.legislat
 
 [^f00021]: Footnote: Section 36(2)(e) has the effect that the offence in section 36(1) applies to any international road haulage permit and section 58(1), as amended by paragraph 4 of the Schedule to the 2018 Act has the effect that “**international road haulage permit**” includes an international road transport permit within the meaning given by section 1(2) of the 2018 Act.
 
-[^key-2be439848cfdfee7a6d91e76d201deb8]: Commencement: Reg. 17 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-2be439848cfdfee7a6d91e76d201deb8]: Commencement: Reg. 17 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
 [^f00022]: Footnote: The Upper Tribunal was established by section 3(2) of the Tribunal, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15). Information on appealing to the Upper Tribunal is available at www.gov.uk/administrative-appeals-tribunal. The procedure for the Upper Tribunal is enacted in the Tribunal Procedure (Upper Tribunal) Rules 2008 ([S.I. 2008/2698](https://www.legislation.gov.uk/uksi/2008/2698)).
 
-[^key-d8696c1336f883a83a9aa3b84c519c3d]: Commencement: Reg. 18 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-d8696c1336f883a83a9aa3b84c519c3d]: Commencement: Reg. 18 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-0c1cfd11fe574a4d2c4979a4df0bcd37]: Commencement: Reg. 19 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-0c1cfd11fe574a4d2c4979a4df0bcd37]: Commencement: Reg. 19 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
 [^f00023]: Footnote: OJ No. L 316, 14.11.2012, p. 1, amended by OJ No. L 295, 21.11.2018, p. 1 and OJ No. L 249, 31.7.2020, p. 9; other amendments are not relevant. The Internal Market Information System may be accessed via https://ec.europa.eu/internal\_market/imi-net/about/index\_en.htm.
 
@@ -1267,123 +1267,123 @@ An Explanatory Memorandum is published alongside this instrument at www.legislat
 
 [^f00026]: Footnote: Part 4 is made under the European Union (Future Relationship) Act [2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29) so terms defined in the 2018 Act do automatically attract the meaning from that Act.
 
-[^key-003ee6fe5fb509e3b1c2d70237a531ec]: Commencement: Reg. 20 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-003ee6fe5fb509e3b1c2d70237a531ec]: Commencement: Reg. 20 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-2e86e19779e1aaa6224d1c1984ac952c]: Commencement: Reg. 21 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-2e86e19779e1aaa6224d1c1984ac952c]: Commencement: Reg. 21 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-2ac10007fb49b6ef4ac8ae9a70d6f11d]: Commencement: Reg. 22 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-2ac10007fb49b6ef4ac8ae9a70d6f11d]: Commencement: Reg. 22 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-d3c1f2c3f3744be6cab4cec47029be25]: Commencement: Reg. 23 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-d3c1f2c3f3744be6cab4cec47029be25]: Commencement: Reg. 23 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-154c63d8440e1227d98832794799ecbd]: Commencement: Reg. 24 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-154c63d8440e1227d98832794799ecbd]: Commencement: Reg. 24 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
 [^f00027]: Footnote: Section 66B was inserted by [S.I. 2011/996](https://www.legislation.gov.uk/uksi/2011/996).
 
-[^key-2c763a3602082deb63c0bd80a2b4bab0]: Commencement: Reg. 25 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-2c763a3602082deb63c0bd80a2b4bab0]: Commencement: Reg. 25 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-086a725f8a02ef0fcedbda2ec2fef0e6]: Commencement: Reg. 26 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-086a725f8a02ef0fcedbda2ec2fef0e6]: Commencement: Reg. 26 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-e0ef03afe0b7a4323fb04cb9b5a37ef8]: Commencement: Reg. 27 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-e0ef03afe0b7a4323fb04cb9b5a37ef8]: Commencement: Reg. 27 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-144d5513fa50badc7c999992e0dd2f3e]: Commencement: Reg. 28 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-144d5513fa50badc7c999992e0dd2f3e]: Commencement: Reg. 28 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
 [^f00028]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by section 19 of the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12) and paragraph 36 of Schedule 8 to the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-00c93f2cd0c0f2f61116c8727da8f324]: Commencement: Reg. 29 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-00c93f2cd0c0f2f61116c8727da8f324]: Commencement: Reg. 29 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
 [^f00029]: Footnote: [S.I. 2018/1204](https://www.legislation.gov.uk/uksi/2018/1204).
 
-[^key-aed243d9a3c34e17ca37045ccafd97dc]: Commencement: Reg. 30 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-aed243d9a3c34e17ca37045ccafd97dc]: Commencement: Reg. 30 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
 [^f00030]: Footnote: [S.I. 2019/596](https://www.legislation.gov.uk/uksi/2019/596).
 
-[^key-331f7c90a30d91a54b685d195aff29c9]: Commencement: Sch. 1 para. 1 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-331f7c90a30d91a54b685d195aff29c9]: Commencement: Sch. 1 para. 1 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-96f3123e9570e5fcc294c92daa2f44d2]: Commencement: Sch. 1 para. 2 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-96f3123e9570e5fcc294c92daa2f44d2]: Commencement: Sch. 1 para. 2 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-e065b58846f92fab5155e6d69a5952f6]: Commencement: Sch. 1 para. 3 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-e065b58846f92fab5155e6d69a5952f6]: Commencement: Sch. 1 para. 3 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-b309773307960e5d3f277a725b9f9826]: Commencement: Sch. 1 para. 4 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-b309773307960e5d3f277a725b9f9826]: Commencement: Sch. 1 para. 4 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-6d1c568ae89bdcaa994421df8d6a27a5]: Commencement: Sch. 1 para. 5 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-6d1c568ae89bdcaa994421df8d6a27a5]: Commencement: Sch. 1 para. 5 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-516e0bbc6503f81a03636961bf24511d]: Commencement: Sch. 1 para. 6 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-516e0bbc6503f81a03636961bf24511d]: Commencement: Sch. 1 para. 6 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-20a589d0e5706a013a8911c2e3e11b0e]: Commencement: Sch. 1 para. 7 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-20a589d0e5706a013a8911c2e3e11b0e]: Commencement: Sch. 1 para. 7 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-c9ca4e4dcd51806423ec3813be5bd970]: Commencement: Sch. 1 para. 8 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-c9ca4e4dcd51806423ec3813be5bd970]: Commencement: Sch. 1 para. 8 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-d680d66e4c1d062870705c3a76d4381a]: Commencement: Sch. 1 para. 9 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-d680d66e4c1d062870705c3a76d4381a]: Commencement: Sch. 1 para. 9 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-62cb173eed87e3622a01ae59aa8cca35]: Commencement: Sch. 1 para. 10 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-62cb173eed87e3622a01ae59aa8cca35]: Commencement: Sch. 1 para. 10 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-a019cd181675fafb619119775384a5e9]: Commencement: Sch. 1 para. 11 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-a019cd181675fafb619119775384a5e9]: Commencement: Sch. 1 para. 11 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-f4ab7f7296513bba7c68b02eaf6e8d93]: Commencement: Sch. 1 para. 12 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-f4ab7f7296513bba7c68b02eaf6e8d93]: Commencement: Sch. 1 para. 12 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-cb332fe90305371d03b8d1c847afac8e]: Commencement: Sch. 1 para. 13 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-cb332fe90305371d03b8d1c847afac8e]: Commencement: Sch. 1 para. 13 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-955d01f2885874ff2b27f4cde3da4a17]: Commencement: Sch. 1 para. 14 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-955d01f2885874ff2b27f4cde3da4a17]: Commencement: Sch. 1 para. 14 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-b41cb6af299a093653b2910d3b8b993a]: Commencement: Sch. 1 para. 15 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-b41cb6af299a093653b2910d3b8b993a]: Commencement: Sch. 1 para. 15 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-8b0de3ba6d4f612dced7aff0648f3cd6]: Commencement: Sch. 1 para. 16 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-8b0de3ba6d4f612dced7aff0648f3cd6]: Commencement: Sch. 1 para. 16 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-e6820bcefc34cf558d0ba32558e68db9]: Commencement: Sch. 1 para. 17 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-e6820bcefc34cf558d0ba32558e68db9]: Commencement: Sch. 1 para. 17 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-83567918048461e6485b8156752f6cce]: Commencement: Sch. 1 para. 18 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-83567918048461e6485b8156752f6cce]: Commencement: Sch. 1 para. 18 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-143650783e0b5ddea0ee95d3131d55c9]: Commencement: Sch. 1 para. 19 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-143650783e0b5ddea0ee95d3131d55c9]: Commencement: Sch. 1 para. 19 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-7280b9cf9abc72ef862cc211627bb0a3]: Commencement: Sch. 1 para. 20 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-7280b9cf9abc72ef862cc211627bb0a3]: Commencement: Sch. 1 para. 20 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-08748e75531b9ed21a967f4d489f9186]: Commencement: Sch. 1 para. 21 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-08748e75531b9ed21a967f4d489f9186]: Commencement: Sch. 1 para. 21 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-bcdd3e26c31647418515af7bc62bcba7]: Commencement: Sch. 1 para. 22 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-bcdd3e26c31647418515af7bc62bcba7]: Commencement: Sch. 1 para. 22 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-7d8b2bd051c477568d4f809a0b129474]: Commencement: Sch. 1 para. 23 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-7d8b2bd051c477568d4f809a0b129474]: Commencement: Sch. 1 para. 23 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-2705d9963ac2eedeaa8e71e30a97843d]: Commencement: Sch. 1 para. 24 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-2705d9963ac2eedeaa8e71e30a97843d]: Commencement: Sch. 1 para. 24 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-f2e331118e208d9d3b077cf156858aae]: Commencement: Sch. 1 para. 25 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-f2e331118e208d9d3b077cf156858aae]: Commencement: Sch. 1 para. 25 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-b9c4d5696bb844d02013363e8cec2ecd]: Commencement: Sch. 1 para. 26 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-b9c4d5696bb844d02013363e8cec2ecd]: Commencement: Sch. 1 para. 26 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-c1b62713e88ffce216f961bbb73a932b]: Textual amendment: [Sch. 1 para. 26A](https://www.legislation.gov.uk/uksi/2024/679/schedule/1/paragraph/26A) inserted (19.8.2024) by [The Goods Vehicles (Licensing of Operators and International Road Transport Permits) (Amendment) Regulations 2024 (S.I. 2024/830)](https://www.legislation.gov.uk/uksi/2024/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/830/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2024/830/regulation/3/3)
+[^c-c1b62713e88ffce216f961bbb73a932b]: Textual amendment: [Sch. 1 para. 26A](https://www.legislation.gov.uk/uksi/2024/679/schedule/1/paragraph/26A) inserted (19.8.2024) by [The Goods Vehicles (Licensing of Operators and International Road Transport Permits) (Amendment) Regulations 2024 (S.I. 2024/830)](https://www.legislation.gov.uk/uksi/2024/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/830/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2024/830/regulation/3/3)
 
-[^key-02665f73a66c3e2a28f30287d4907490]: Commencement: Sch. 1 para. 27 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-02665f73a66c3e2a28f30287d4907490]: Commencement: Sch. 1 para. 27 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-407580db9a05ddcd9ce7e821ae184f98]: Commencement: Sch. 1 para. 28 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-407580db9a05ddcd9ce7e821ae184f98]: Commencement: Sch. 1 para. 28 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-6da0bf92c4643f0b2db665f906ac4677]: Commencement: Sch. 1 para. 29 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-6da0bf92c4643f0b2db665f906ac4677]: Commencement: Sch. 1 para. 29 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-b8b26703900c42d17dfeb3d4c4fd4ecd]: Commencement: Sch. 1 para. 30 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-b8b26703900c42d17dfeb3d4c4fd4ecd]: Commencement: Sch. 1 para. 30 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-51b7490d69e9703b2e305850d9341022]: Commencement: Sch. 1 para. 31 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-51b7490d69e9703b2e305850d9341022]: Commencement: Sch. 1 para. 31 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-d40edf50bca4216180df73b2b18704b8]: Commencement: Sch. 1 para. 32 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-d40edf50bca4216180df73b2b18704b8]: Commencement: Sch. 1 para. 32 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-ef0664839baf8a60e92a661f62846e92]: Commencement: Sch. 1 para. 33 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-ef0664839baf8a60e92a661f62846e92]: Commencement: Sch. 1 para. 33 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-092fbc42a7e81618863c011d21a7f06b]: Commencement: Sch. 1 para. 34 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-092fbc42a7e81618863c011d21a7f06b]: Commencement: Sch. 1 para. 34 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-7a477b17b2e7641be77f36763b60f708]: Commencement: Sch. 1 para. 35 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-7a477b17b2e7641be77f36763b60f708]: Commencement: Sch. 1 para. 35 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-d8121805f9312490924d13177c32be0a]: Commencement: Sch. 1 para. 36 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-d8121805f9312490924d13177c32be0a]: Commencement: Sch. 1 para. 36 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-5fd5278fdd9c633e560f778de1e1841f]: Commencement: Sch. 1 para. 37 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-5fd5278fdd9c633e560f778de1e1841f]: Commencement: Sch. 1 para. 37 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-6815172bca487125ca42d80f879183fd]: Commencement: Sch. 1 para. 38 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-6815172bca487125ca42d80f879183fd]: Commencement: Sch. 1 para. 38 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-78d32344e259ac1bd16bc024267c0ebf]: Commencement: Sch. 1 para. 39 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-78d32344e259ac1bd16bc024267c0ebf]: Commencement: Sch. 1 para. 39 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-0caee69b7519222c5fcdf8b6b61c59d7]: Commencement: Sch. 1 para. 40 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-0caee69b7519222c5fcdf8b6b61c59d7]: Commencement: Sch. 1 para. 40 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-6ad0674db00938a357c4dfeb99ae0573]: Commencement: Sch. 2 para. 1 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-6ad0674db00938a357c4dfeb99ae0573]: Commencement: Sch. 2 para. 1 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
 [^f00031]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).
 
-[^key-1b5f684641e941839cbe2c4e6ab96698]: Commencement: Sch. 2 para. 2 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-1b5f684641e941839cbe2c4e6ab96698]: Commencement: Sch. 2 para. 2 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
 [^f00032]: Footnote: EUR 2005/1, amended by [S.I. 2019/58](https://www.legislation.gov.uk/uksi/2019/58) and [802](https://www.legislation.gov.uk/uksi/2019/802), [2020/1590](https://www.legislation.gov.uk/uksi/2020/1590), [2022/846](https://www.legislation.gov.uk/uksi/2022/846), [1090](https://www.legislation.gov.uk/uksi/2022/1090) and [1315](https://www.legislation.gov.uk/uksi/2022/1315) and [2023/287](https://www.legislation.gov.uk/uksi/2023/287) and [261](https://www.legislation.gov.uk/uksi/2023/261).
 
@@ -1391,13 +1391,13 @@ An Explanatory Memorandum is published alongside this instrument at www.legislat
 
 [^f00034]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). Section 7A was inserted by section 5 of the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1) and gives legal effect to Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) in accordance with Article 5(4) of, and paragraph 40 of Annex 2 to, the Protocol on Ireland/Northern Ireland (which is part of the withdrawal agreement as defined in section 39(1) of the European Union (Withdrawal Agreement) Act 2020).
 
-[^key-b9d7477d3274e9bb1040581028a961e4]: Commencement: Sch. 2 para. 3 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-b9d7477d3274e9bb1040581028a961e4]: Commencement: Sch. 2 para. 3 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-7153529b65d1864a8a2eb81383cd27aa]: Commencement: Sch. 2 para. 4 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-7153529b65d1864a8a2eb81383cd27aa]: Commencement: Sch. 2 para. 4 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-4eb380ac9bf01895a633c9783452cd98]: Commencement: Sch. 2 para. 5 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-4eb380ac9bf01895a633c9783452cd98]: Commencement: Sch. 2 para. 5 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-8c70ba7e9fcbe4d6580b66bae6eacf93]: Commencement: Sch. 2 para. 6 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-8c70ba7e9fcbe4d6580b66bae6eacf93]: Commencement: Sch. 2 para. 6 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
 [^f00035]: Footnote: [S.I. 2003/1998](https://www.legislation.gov.uk/uksi/2003/1998).
 
@@ -1405,31 +1405,31 @@ An Explanatory Memorandum is published alongside this instrument at www.legislat
 
 [^f00037]: Footnote: Section 1(5) of the 2018 Act defines “motor vehicle” as “a mechanically-propelled vehicle which is intended or adapted for use on roads”.
 
-[^key-7205c21049a2b580b5b78afb48cc5a74]: Commencement: Sch. 2 para. 7 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-7205c21049a2b580b5b78afb48cc5a74]: Commencement: Sch. 2 para. 7 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-24fa7e0fbd0f639d6838520696940a92]: Commencement: Sch. 2 para. 8 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-24fa7e0fbd0f639d6838520696940a92]: Commencement: Sch. 2 para. 8 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-be836a2f83b53477c4f74a38d07acef6]: Commencement: Sch. 2 para. 9 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-be836a2f83b53477c4f74a38d07acef6]: Commencement: Sch. 2 para. 9 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-b4ad5ff139fe3cfecaff9a9abe89fa39]: Commencement: Sch. 2 para. 10 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-b4ad5ff139fe3cfecaff9a9abe89fa39]: Commencement: Sch. 2 para. 10 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-603e70ccde264be4492fba2095f864b4]: Commencement: Sch. 2 para. 11 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-603e70ccde264be4492fba2095f864b4]: Commencement: Sch. 2 para. 11 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-279129902d1f7b9750b4fefa8e05be22]: Commencement: Sch. 2 para. 12 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-279129902d1f7b9750b4fefa8e05be22]: Commencement: Sch. 2 para. 12 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-9e1c2701154bdb2d2793fe79d0fe3512]: Textual amendment: [Sch. 2 para. 12A](https://www.legislation.gov.uk/uksi/2024/679/schedule/2/paragraph/12A) and cross-heading inserted (19.8.2024) by [The Goods Vehicles (Licensing of Operators and International Road Transport Permits) (Amendment) Regulations 2024 (S.I. 2024/830)](https://www.legislation.gov.uk/uksi/2024/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/830/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2024/830/regulation/3/4)
+[^c-9e1c2701154bdb2d2793fe79d0fe3512]: Textual amendment: [Sch. 2 para. 12A](https://www.legislation.gov.uk/uksi/2024/679/schedule/2/paragraph/12A) and cross-heading inserted (19.8.2024) by [The Goods Vehicles (Licensing of Operators and International Road Transport Permits) (Amendment) Regulations 2024 (S.I. 2024/830)](https://www.legislation.gov.uk/uksi/2024/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/830/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2024/830/regulation/3/4)
 
-[^key-13b9845c0cad2049fbae25350be62f26]: Commencement: Sch. 2 para. 13 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-13b9845c0cad2049fbae25350be62f26]: Commencement: Sch. 2 para. 13 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-9959d8f1f9793d7ebb8a739559e775d4]: Commencement: Sch. 2 para. 14 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-9959d8f1f9793d7ebb8a739559e775d4]: Commencement: Sch. 2 para. 14 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-1ae7e2442e8c346970b761ba2f726480]: Commencement: Sch. 2 para. 15 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-1ae7e2442e8c346970b761ba2f726480]: Commencement: Sch. 2 para. 15 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-2c8aa3dc76383d0adc47793d011df15e]: Commencement: Sch. 2 para. 16 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-2c8aa3dc76383d0adc47793d011df15e]: Commencement: Sch. 2 para. 16 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-e27ff7a7b8fcbec912664a4a692f6336]: Commencement: Sch. 2 para. 17 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-e27ff7a7b8fcbec912664a4a692f6336]: Commencement: Sch. 2 para. 17 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-a18b4babed959ae4b8d39068c305860a]: Commencement: Sch. 2 para. 18 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-a18b4babed959ae4b8d39068c305860a]: Commencement: Sch. 2 para. 18 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
 [^f00038]: Footnote: OJ No. L 275, 20.10.2005, p. 1, amended by OJ No. L 313, 29.11.2005, p. 1, OJ No. L 152, 7.6.2006, p. 11 and OJ No. L 192, 19.7.2008, p. 51. The full title of the Directive is [Directive 2005/55/EC](https://www.legislation.gov.uk/european/directive/2005/0055) of the European Parliament and of the Council of 28 September 2005 on the approximation of the laws of the Member States relating to the measures to be taken against the emission of gaseous and particulate pollutants from compression-ignition engines for use in vehicles, and the emission of gaseous pollutants from positive-ignition engines fuelled with natural gas or liquefied petroleum gas for use in vehicles. The Directive was repealed with effect from 31 December 2013 by Regulation [(EC) No 595/2009](https://www.legislation.gov.uk/european/regulation/2009/0595) of the European Parliament and of the Council of 18 June 2009.
 
@@ -1441,17 +1441,17 @@ An Explanatory Memorandum is published alongside this instrument at www.legislat
 
 [^f00042]: Footnote: EUR 2017/1151.
 
-[^key-b544163a25367abd55a9a16a07b5f582]: Commencement: Sch. 2 para. 19 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-b544163a25367abd55a9a16a07b5f582]: Commencement: Sch. 2 para. 19 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-859748e024e6fde589e95f2359626560]: Commencement: Sch. 2 para. 20 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-859748e024e6fde589e95f2359626560]: Commencement: Sch. 2 para. 20 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-4d07cb05ac92d30538194609c2d6f49b]: Commencement: Sch. 2 para. 21 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-4d07cb05ac92d30538194609c2d6f49b]: Commencement: Sch. 2 para. 21 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
 [^f00043]: Footnote: Cyprus is excluded as it is not party to an international agreement under which permits may be issued.
 
-[^key-d512a4815e8fda59e2f22a5663a43770]: Commencement: Sch. 3 Pt. 1 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-d512a4815e8fda59e2f22a5663a43770]: Commencement: Sch. 3 Pt. 1 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
-[^key-6af6a288146971a3ebe9d506d6b62320]: Commencement: Sch. 3 Pt. 2 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
+[^c-6af6a288146971a3ebe9d506d6b62320]: Commencement: Sch. 3 Pt. 2 in force at 11.6.2024, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2024/679/regulation/1/b)
 
 [^f00044]: Footnote: Treaty Series No. 4 (1989).
 

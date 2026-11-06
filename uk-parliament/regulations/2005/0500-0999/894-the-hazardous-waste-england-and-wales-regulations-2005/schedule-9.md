@@ -24,7 +24,7 @@ Regulation 59
 
 **1.** The following paragraphs have effect in relation to the charges payable to the Agency under these Regulations.
 
-**2.**[^key-57120ea2d1cc0c1acdb1209953fea004] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-57120ea2d1cc0c1acdb1209953fea004] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.** The charge to be paid by a consignee in respect of any consignee quarterly return made pursuant to regulation 53 shall be—
 
@@ -49,4 +49,4 @@ Regulation 59
 
 ## Annotations
 
-[^key-57120ea2d1cc0c1acdb1209953fea004]: Textual amendment: [Sch. 9 para. 2](https://www.legislation.gov.uk/uksi/2005/894/schedule/9/paragraph/2) omitted (1.4.2016) by virtue of [The Hazardous Waste (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/336)](https://www.legislation.gov.uk/uksi/2016/336), [regs. 1](https://www.legislation.gov.uk/uksi/2016/336/regulation/1), [2(11)](https://www.legislation.gov.uk/uksi/2016/336/regulation/2/11)
+[^c-57120ea2d1cc0c1acdb1209953fea004]: Textual amendment: [Sch. 9 para. 2](https://www.legislation.gov.uk/uksi/2005/894/schedule/9/paragraph/2) omitted (1.4.2016) by virtue of [The Hazardous Waste (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/336)](https://www.legislation.gov.uk/uksi/2016/336), [regs. 1](https://www.legislation.gov.uk/uksi/2016/336/regulation/1), [2(11)](https://www.legislation.gov.uk/uksi/2016/336/regulation/2/11)

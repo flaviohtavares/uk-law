@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1011. References to married persons, or civil partners, living together[^key-625712fbf1fe627c94da18805d2f04d7][^key-2a86067cb69660a24dd5ec1b1872b2a1]
+## 1011. References to married persons, or civil partners, living together[^c-625712fbf1fe627c94da18805d2f04d7][^c-2a86067cb69660a24dd5ec1b1872b2a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ Individuals who are married to, or are civil partners of, each other are treated
 
 ## Annotations
 
-[^key-625712fbf1fe627c94da18805d2f04d7]: Modification: S. 1011 applied (with effect in accordance with [Sch. 16 para. 6](https://www.legislation.gov.uk/ukpga/2003/14/schedule/16/paragraph/6) of the amending Act) by [2003 c. 14](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 9A para. 6(5)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/9A/paragraph/6/5) (as inserted by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 16 para. 5](https://www.legislation.gov.uk/ukpga/2021/26/schedule/16/paragraph/5))
+[^c-625712fbf1fe627c94da18805d2f04d7]: Modification: S. 1011 applied (with effect in accordance with [Sch. 16 para. 6](https://www.legislation.gov.uk/ukpga/2003/14/schedule/16/paragraph/6) of the amending Act) by [2003 c. 14](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 9A para. 6(5)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/9A/paragraph/6/5) (as inserted by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 16 para. 5](https://www.legislation.gov.uk/ukpga/2021/26/schedule/16/paragraph/5))
 
-[^key-2a86067cb69660a24dd5ec1b1872b2a1]: Modification: S. 1011 applied (with effect in accordance with [Sch. 16 para. 6](https://www.legislation.gov.uk/ukpga/2003/14/schedule/16/paragraph/6) of the amending Act) by [2003 c. 14](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 9A para. 12(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/9A/paragraph/12/4) (as inserted by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 16 para. 5](https://www.legislation.gov.uk/ukpga/2021/26/schedule/16/paragraph/5))
+[^c-2a86067cb69660a24dd5ec1b1872b2a1]: Modification: S. 1011 applied (with effect in accordance with [Sch. 16 para. 6](https://www.legislation.gov.uk/ukpga/2003/14/schedule/16/paragraph/6) of the amending Act) by [2003 c. 14](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 9A para. 12(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/9A/paragraph/12/4) (as inserted by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 16 para. 5](https://www.legislation.gov.uk/ukpga/2021/26/schedule/16/paragraph/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Fees[^key-a515aa4a4dc322c28f126b3686d01d3b][^key-b36144228fbf32a6115987670841ffe2][^key-15aee2fe3b775d5c762f5ee547f2f557][^M_C_d9cb5311-d83b-4f48-d6c2-888f56e95d46]
+## 68. Fees[^c-a515aa4a4dc322c28f126b3686d01d3b][^c-b36144228fbf32a6115987670841ffe2][^c-15aee2fe3b775d5c762f5ee547f2f557][^M_C_d9cb5311-d83b-4f48-d6c2-888f56e95d46]
 
 *Extent: E+W+S+N.I.*
 
@@ -101,10 +101,10 @@ and, for this purpose, “**arrangements**” includes arrangements for the conv
 
 ## Annotations
 
-[^key-a515aa4a4dc322c28f126b3686d01d3b]: Commencement: S. 68 in force at 15.12.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 8(a)](https://www.legislation.gov.uk/uksi/2014/2771/article/8/a)
+[^c-a515aa4a4dc322c28f126b3686d01d3b]: Commencement: S. 68 in force at 15.12.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 8(a)](https://www.legislation.gov.uk/uksi/2014/2771/article/8/a)
 
-[^key-b36144228fbf32a6115987670841ffe2]: Modification: Ss. 68-70 extended (with modifications) to Jersey (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Jersey) Order 2016 (S.I. 2016/994)](https://www.legislation.gov.uk/uksi/2016/994), [arts. 1](https://www.legislation.gov.uk/uksi/2016/994/article/1)(1), [3](https://www.legislation.gov.uk/uksi/2016/994/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2016/994/schedule)
+[^c-b36144228fbf32a6115987670841ffe2]: Modification: Ss. 68-70 extended (with modifications) to Jersey (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Jersey) Order 2016 (S.I. 2016/994)](https://www.legislation.gov.uk/uksi/2016/994), [arts. 1](https://www.legislation.gov.uk/uksi/2016/994/article/1)(1), [3](https://www.legislation.gov.uk/uksi/2016/994/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2016/994/schedule)
 
-[^key-15aee2fe3b775d5c762f5ee547f2f557]: Modification: Ss. 68-70 extended (with modifications) to Guernsey (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2016 (S.I. 2016/996)](https://www.legislation.gov.uk/uksi/2016/996), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/996/article/1/1), [4](https://www.legislation.gov.uk/uksi/2016/996/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2016/996/schedule)
+[^c-15aee2fe3b775d5c762f5ee547f2f557]: Modification: Ss. 68-70 extended (with modifications) to Guernsey (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2016 (S.I. 2016/996)](https://www.legislation.gov.uk/uksi/2016/996), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/996/article/1/1), [4](https://www.legislation.gov.uk/uksi/2016/996/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2016/996/schedule)
 
 [^M_C_d9cb5311-d83b-4f48-d6c2-888f56e95d46]: Modification: S. 68 extended (with modifications) to the Isle of Man by [S.I. 2008/680](https://www.legislation.gov.uk/uksi/2008/680), [art. 22](https://www.legislation.gov.uk/uksi/2008/680/article/22), [Sch. 9A](https://www.legislation.gov.uk/uksi/2008/680/schedule/9A) (as inserted (9.10.2015 for specified purposes and 6.4.2016 in so far as not already in force) by [The Immigration (Isle of Man) (Amendment) Order 2015 (S.I. 2015/1765)](https://www.legislation.gov.uk/uksi/2015/1765), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1765/article/1/2), [5](https://www.legislation.gov.uk/uksi/2015/1765/article/5), [7](https://www.legislation.gov.uk/uksi/2015/1765/article/7)) (as amended: (14.3.2019) by [S.I. 2019/562](https://www.legislation.gov.uk/uksi/2019/562), [arts. 1](https://www.legislation.gov.uk/uksi/2019/562/article/1), [5](https://www.legislation.gov.uk/uksi/2019/562/article/5), [9](https://www.legislation.gov.uk/uksi/2019/562/article/9), [18](https://www.legislation.gov.uk/uksi/2019/562/article/18); (31.12.2020) by [S.I. 2020/1214](https://www.legislation.gov.uk/uksi/2020/1214), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1214/article/1), [5](https://www.legislation.gov.uk/uksi/2020/1214/article/5), [12](https://www.legislation.gov.uk/uksi/2020/1214/article/12); (11.11.2021) by [S.I. 2021/1277](https://www.legislation.gov.uk/uksi/2021/1277), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1277/article/1/2), [6](https://www.legislation.gov.uk/uksi/2021/1277/article/6))

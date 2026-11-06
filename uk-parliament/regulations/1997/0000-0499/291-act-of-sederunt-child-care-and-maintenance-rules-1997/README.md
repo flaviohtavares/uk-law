@@ -66,7 +66,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 2.3 — Intimation to Principal Reporter](part-2/section-2-3.md)
 - [Section 2.4 — Timetables under section 25A of the Act](part-2/section-2-4.md)
 
-#### PART II — APPLICATION FOR AN ORDER DECLARING A CHILD FREE FOR ADOPTION[^key-223575fc003d674ed411688bc09cdae0]
+#### PART II — APPLICATION FOR AN ORDER DECLARING A CHILD FREE FOR ADOPTION[^c-223575fc003d674ed411688bc09cdae0]
 
 *Extent: S*
 
@@ -83,7 +83,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 2.13 — Adoption Register](part-2/section-2-13.md)
 - [Section 2.14 — Final procedure](part-2/section-2-14.md)
 
-#### PART III — REVOCATION ORDERS, ETC.[^key-223575fc003d674ed411688bc09cdae0]
+#### PART III — REVOCATION ORDERS, ETC.[^c-223575fc003d674ed411688bc09cdae0]
 
 *Extent: S*
 
@@ -96,7 +96,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 2.19 — Application to place a child](part-2/section-2-19.md)
 - [Section 2.20 — Further application with leave of the court](part-2/section-2-20.md)
 
-#### PART IV — ADOPTION ORDERS[^key-223575fc003d674ed411688bc09cdae0]
+#### PART IV — ADOPTION ORDERS[^c-223575fc003d674ed411688bc09cdae0]
 
 *Extent: S*
 
@@ -119,7 +119,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 2.35 — Revocation of adoption order](part-2/section-2-35.md)
 - [Section 2.36 — Application for removal of child pending adoption](part-2/section-2-36.md)
 
-#### PART IVA — CONVENTION ADOPTION ORDERS[^key-223575fc003d674ed411688bc09cdae0]
+#### PART IVA — CONVENTION ADOPTION ORDERS[^c-223575fc003d674ed411688bc09cdae0]
 
 **No longer in force.**
 
@@ -131,7 +131,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 2.36F — Hearing](part-2/section-2-36f.md)
 - [Section 2.36G — Communications to the Registrar General](part-2/section-2-36g.md)
 
-#### PART V — PARENTAL RESPONSIBILITIES ORDERS[^key-223575fc003d674ed411688bc09cdae0]
+#### PART V — PARENTAL RESPONSIBILITIES ORDERS[^c-223575fc003d674ed411688bc09cdae0]
 
 *Extent: S*
 
@@ -146,7 +146,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 2.43 — Orders](part-2/section-2-43.md)
 - [Section 2.44 — Variation and discharge of order](part-2/section-2-44.md)
 
-#### PART VI — HUMAN FERTILISATION AND EMBRYOLOGY[^key-db309ec78891d8cad21964f55de5220e]
+#### PART VI — HUMAN FERTILISATION AND EMBRYOLOGY[^c-db309ec78891d8cad21964f55de5220e]
 
 *Extent: S*
 
@@ -167,7 +167,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 2.59 — Final procedure](part-2/section-2-59.md)
 - [Section 2.60 — Appeals](part-2/section-2-60.md)
 
-### CHAPTER 3 — Children’s hearings, secure accommodation, etc.: application to the sheriff[^key-367106343bd772c880ef4ba72c9699cb]
+### CHAPTER 3 — Children’s hearings, secure accommodation, etc.: application to the sheriff[^c-367106343bd772c880ef4ba72c9699cb]
 
 *Extent: S*
 
@@ -262,7 +262,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.39 — Power to make child protection order in an application for an exclusion order](part-3/section-3-39.md)
 - [Section 3.40 — Variation or recall of an exclusion order](part-3/section-3-40.md)
 
-#### PART VI — WARRANT FOR FURTHER DETENTION OF A CHILD[^key-976f131c8605b7925ea292e50a2b9c01]
+#### PART VI — WARRANT FOR FURTHER DETENTION OF A CHILD[^c-976f131c8605b7925ea292e50a2b9c01]
 
 *Extent: S*
 
@@ -272,7 +272,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.42 — Form of application](part-3/section-3-42.md)
 - [Section 3.43 — Orders](part-3/section-3-43.md)
 
-#### PART VII — PROCEDURE IN APPLICATIONS UNDER SECTION 93(2)(a) OR 94(2)(a) OF THE 2011 ACT[^key-8230d061b70c3e9037cdaafe6a947ee6]
+#### PART VII — PROCEDURE IN APPLICATIONS UNDER SECTION 93(2)(a) OR 94(2)(a) OF THE 2011 ACT[^c-8230d061b70c3e9037cdaafe6a947ee6]
 
 *Extent: S*
 
@@ -287,7 +287,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.51 — Decision of sheriff](part-3/section-3-51.md)
 - [Section 3.52 — Signature of warrants](part-3/section-3-52.md)
 
-#### PART VIII — PROCEDURE IN APPEALS TO THE SHERIFF AGAINST DECISIONS OF CHILDREN’S HEARINGS[^key-f065e7f3e67868668d404d264279bb17]
+#### PART VIII — PROCEDURE IN APPEALS TO THE SHERIFF AGAINST DECISIONS OF CHILDREN’S HEARINGS[^c-f065e7f3e67868668d404d264279bb17]
 
 *Extent: S*
 
@@ -298,12 +298,12 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.57 — Adjournment or continuation of appeals](part-3/section-3-57.md)
 - [Section 3.58 — Decision of sheriff in appeals](part-3/section-3-58.md)
 
-#### PART VIIIA — APPLICATIONS FOR REVIEW BY LOCAL AUTHORITY[^key-184101d6d3653005695ebf52ff564005]
+#### PART VIIIA — APPLICATIONS FOR REVIEW BY LOCAL AUTHORITY[^c-184101d6d3653005695ebf52ff564005]
 
 - [Section 3.58A — Review applications by local authority](part-3/section-3-58a.md)
 - [Section 3.58B — Hearing on application](part-3/section-3-58b.md)
 
-#### PART VIIIB — PROCEDURE IN APPEALS TO THE SHERIFF UNDER SECTION 44A OF THE CPSA 1995[^key-2b6e59d348895334c299bd0669dfa968]
+#### PART VIIIB — PROCEDURE IN APPEALS TO THE SHERIFF UNDER SECTION 44A OF THE CPSA 1995[^c-2b6e59d348895334c299bd0669dfa968]
 
 - [Section 3.58C — Form of appeal](part-3/section-3-58c.md)
 - [Section 3.58D — Appointment and intimation of appeal hearing](part-3/section-3-58d.md)
@@ -311,7 +311,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.58F — Adjournment or continuation of appeals](part-3/section-3-58f.md)
 - [Section 3.58G — Decision of sheriff in appeals](part-3/section-3-58g.md)
 
-#### PART IX — PROCEDURE IN APPEALS BY STATED CASE UNDER PART 15 OF THE 2011 ACT[^key-1f02d5fa0ae931412eeb72710c94e132]
+#### PART IX — PROCEDURE IN APPEALS BY STATED CASE UNDER PART 15 OF THE 2011 ACT[^c-1f02d5fa0ae931412eeb72710c94e132]
 
 *Extent: S*
 
@@ -320,7 +320,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.61 — Hearing](part-3/section-3-61.md)
 - [Section 3.61A — Leave of the sheriff principal to appeal to the Court of Session](part-3/section-3-61a.md)
 
-#### PART X — APPLICATIONS FOR REVIEW OF GROUNDS DETERMINATION[^key-ad7b7db6a06b0c93462530df18a4a441]
+#### PART X — APPLICATIONS FOR REVIEW OF GROUNDS DETERMINATION[^c-ad7b7db6a06b0c93462530df18a4a441]
 
 *Extent: S*
 
@@ -328,13 +328,13 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.63 — Hearing on application](part-3/section-3-63.md)
 - [Section 3.64 — Hearing to consider the evidence](part-3/section-3-64.md)
 
-#### PART XA — ORDERS UNDER THE CHILDREN’S HEARINGS (SCOTLAND) ACT 2011[^key-e0c8092fe838c3821a8b597d4479f2e3]
+#### PART XA — ORDERS UNDER THE CHILDREN’S HEARINGS (SCOTLAND) ACT 2011[^c-e0c8092fe838c3821a8b597d4479f2e3]
 
 - [Section 3.64A — Interim compulsory supervision order](part-3/section-3-64a.md)
 - [Section 3.64B — Compulsory supervision order](part-3/section-3-64b.md)
 - [Section 3.64C — Medical examination order](part-3/section-3-64c.md)
 
-#### PART XI — VULNERABLE WITNESSES (SCOTLAND) ACT 2004[^key-f3a34936d71d830ba99d7ba2732e222a]
+#### PART XI — VULNERABLE WITNESSES (SCOTLAND) ACT 2004[^c-f3a34936d71d830ba99d7ba2732e222a]
 
 - [Section 3.65 — Interpretation](part-3/section-3-65.md)
 - [Section 3.66 — Extent of application of this Part](part-3/section-3-66.md)
@@ -352,7 +352,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.75 — Lodging audio and audio-visual recordings and documents](part-3/section-3-75.md)
 - [Section 3.76 — Custody of audio or audio-visual recordings and documents](part-3/section-3-76.md)
 
-#### PART XIA — CASES INVOLVING SEXUAL BEHAVIOUR[^key-79ef32e36646679c5a3187c43d8edae8]
+#### PART XIA — CASES INVOLVING SEXUAL BEHAVIOUR[^c-79ef32e36646679c5a3187c43d8edae8]
 
 - [Section 3.76A — Interpretation and application of this Part](part-3/section-3-76a.md)
 - [Section 3.77 — Application for admission of restricted evidence](part-3/section-3-77.md)
@@ -454,19 +454,19 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 5.42 — Appeal by applicant](part-5/section-5-42.md)
 - [Section 5.43 — Enforcement of registered order](part-5/section-5-43.md)
 
-#### PART VII — MAINTENANCE DECISIONS UNDER THE MAINTENANCE REGULATION[^key-3318a4f770642e0ec94a74ba2d7015a0]
+#### PART VII — MAINTENANCE DECISIONS UNDER THE MAINTENANCE REGULATION[^c-3318a4f770642e0ec94a74ba2d7015a0]
 
 - [Section 5.44 — Application for transmission of a Maintenance Decision to another Maintenance Regulation State](part-5/section-5-44.md)
 - [Section 5.45 — Enforcement of a Maintenance Decision made by a court in a Maintenance Regulation State other than Denmark](part-5/section-5-45.md)
 
-#### PART VIII — RECOGNITION AND ENFORCEMENT OF MAINTENANCE DECISIONS MADE BY COURTS IN DENMARK ETC.[^key-3318a4f770642e0ec94a74ba2d7015a0]
+#### PART VIII — RECOGNITION AND ENFORCEMENT OF MAINTENANCE DECISIONS MADE BY COURTS IN DENMARK ETC.[^c-3318a4f770642e0ec94a74ba2d7015a0]
 
 - [Section 5.46 — Recognition and enforcement of a Maintenance Decision made in Denmark etc.](part-5/section-5-46.md)
 - [Section 5.47 — Intimation of registration of, or refusal to register, a Maintenance Decision made in Denmark etc.](part-5/section-5-47.md)
 - [Section 5.48 — Application to set aside registration of, or to set aside decision not to register, a Maintenance Decision made in Denmark etc.](part-5/section-5-48.md)
 - [Section 5.49 — Sist of proceedings](part-5/section-5-49.md)
 
-### PART IX — RECOGNITION AND ENFORCEMENT OF CONVENTION MAINTENANCE DECISIONS[^key-23e3ad055c4271ab275c45748fc5093e]
+### PART IX — RECOGNITION AND ENFORCEMENT OF CONVENTION MAINTENANCE DECISIONS[^c-23e3ad055c4271ab275c45748fc5093e]
 
 - [Section 5.50 — Application for transmission of Convention Maintenance Decision to a Contracting State](part-ix/section-5-50.md)
 - [Section 5.51 — Intimation of registration of, or refusal to register, a Convention Maintenance Decision](part-ix/section-5-51.md)
@@ -530,32 +530,32 @@ The consolidated rules revoke the Acts of Sederunt formerly applicable to these 
 
 [^f00009]: Footnote: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36).
 
-[^key-223575fc003d674ed411688bc09cdae0]: Textual amendment: Ch. 2 Pts. 2-5 revoked (28.9.2009) by [Act of Sederunt (Sheriff Court Rules Amendment) (Adoption and Children (Scotland) Act 2007) 2009 (S.S.I. 2009/284)](https://www.legislation.gov.uk/ssi/2009/284), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/284/paragraph/1/1), [4(1)(b)](https://www.legislation.gov.uk/ssi/2009/284/paragraph/4/1/b) (with [para. 4(2)-(6)](https://www.legislation.gov.uk/ssi/2009/284/paragraph/4/2))
+[^c-223575fc003d674ed411688bc09cdae0]: Textual amendment: Ch. 2 Pts. 2-5 revoked (28.9.2009) by [Act of Sederunt (Sheriff Court Rules Amendment) (Adoption and Children (Scotland) Act 2007) 2009 (S.S.I. 2009/284)](https://www.legislation.gov.uk/ssi/2009/284), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/284/paragraph/1/1), [4(1)(b)](https://www.legislation.gov.uk/ssi/2009/284/paragraph/4/1/b) (with [para. 4(2)-(6)](https://www.legislation.gov.uk/ssi/2009/284/paragraph/4/2))
 
-[^key-db309ec78891d8cad21964f55de5220e]: Textual amendment: Ch. 2 Pt. 6 substituted (6.4.2010) by [Act of Sederunt (Child Care and Maintenance Rules) Amendment (Human Fertilisation and Embryology Act 2008) 2010 (S.S.I. 2010/137)](https://www.legislation.gov.uk/ssi/2010/137), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/137/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2010/137/paragraph/2/2) (with [para. 3](https://www.legislation.gov.uk/ssi/2010/137/paragraph/3))
+[^c-db309ec78891d8cad21964f55de5220e]: Textual amendment: Ch. 2 Pt. 6 substituted (6.4.2010) by [Act of Sederunt (Child Care and Maintenance Rules) Amendment (Human Fertilisation and Embryology Act 2008) 2010 (S.S.I. 2010/137)](https://www.legislation.gov.uk/ssi/2010/137), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/137/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2010/137/paragraph/2/2) (with [para. 3](https://www.legislation.gov.uk/ssi/2010/137/paragraph/3))
 
-[^key-367106343bd772c880ef4ba72c9699cb]: Textual amendment: Ch. 3 heading substituted (1.2.2016) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2015 (S.S.I. 2015/424)](https://www.legislation.gov.uk/ssi/2015/424), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/424/paragraph/1/2), [3(9)](https://www.legislation.gov.uk/ssi/2015/424/paragraph/3/9)
+[^c-367106343bd772c880ef4ba72c9699cb]: Textual amendment: Ch. 3 heading substituted (1.2.2016) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2015 (S.S.I. 2015/424)](https://www.legislation.gov.uk/ssi/2015/424), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/424/paragraph/1/2), [3(9)](https://www.legislation.gov.uk/ssi/2015/424/paragraph/3/9)
 
-[^key-976f131c8605b7925ea292e50a2b9c01]: Textual amendment: Ch. 3 Pt. 6 omitted (24.6.2013) by virtue of [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(29)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/29) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-976f131c8605b7925ea292e50a2b9c01]: Textual amendment: Ch. 3 Pt. 6 omitted (24.6.2013) by virtue of [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(29)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/29) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
 
-[^key-8230d061b70c3e9037cdaafe6a947ee6]: Textual amendment: Ch. 3 Pt. 7 heading substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(30)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/30) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-8230d061b70c3e9037cdaafe6a947ee6]: Textual amendment: Ch. 3 Pt. 7 heading substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(30)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/30) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
 
-[^key-f065e7f3e67868668d404d264279bb17]: Textual amendment: Ch. 3 Pt. 8 heading substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(41)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/41) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-f065e7f3e67868668d404d264279bb17]: Textual amendment: Ch. 3 Pt. 8 heading substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(41)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/41) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
 
-[^key-184101d6d3653005695ebf52ff564005]: Textual amendment: Ch. 3 Pt. 8A inserted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(48)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/48) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-184101d6d3653005695ebf52ff564005]: Textual amendment: Ch. 3 Pt. 8A inserted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(48)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/48) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
 
-[^key-2b6e59d348895334c299bd0669dfa968]: Textual amendment: Ch. 3 Pt. 8B inserted (1.2.2016) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2015 (S.S.I. 2015/424)](https://www.legislation.gov.uk/ssi/2015/424), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/424/paragraph/1/2), [3(7)](https://www.legislation.gov.uk/ssi/2015/424/paragraph/3/7)
+[^c-2b6e59d348895334c299bd0669dfa968]: Textual amendment: Ch. 3 Pt. 8B inserted (1.2.2016) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2015 (S.S.I. 2015/424)](https://www.legislation.gov.uk/ssi/2015/424), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/424/paragraph/1/2), [3(7)](https://www.legislation.gov.uk/ssi/2015/424/paragraph/3/7)
 
-[^key-1f02d5fa0ae931412eeb72710c94e132]: Textual amendment: Ch. 3 Pt. 9 heading substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(49)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/49) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-1f02d5fa0ae931412eeb72710c94e132]: Textual amendment: Ch. 3 Pt. 9 heading substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(49)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/49) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
 
-[^key-ad7b7db6a06b0c93462530df18a4a441]: Textual amendment: Ch. 3 Pt. 10 heading substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(53)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/53) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-ad7b7db6a06b0c93462530df18a4a441]: Textual amendment: Ch. 3 Pt. 10 heading substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(53)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/53) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
 
-[^key-e0c8092fe838c3821a8b597d4479f2e3]: Textual amendment: Ch. 3 Pt. 10A inserted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(57)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/57) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-e0c8092fe838c3821a8b597d4479f2e3]: Textual amendment: Ch. 3 Pt. 10A inserted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(57)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/57) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
 
-[^key-f3a34936d71d830ba99d7ba2732e222a]: Textual amendment: Ch. 3 Pt. 11 inserted (1.4.2005) by [Act of Sederunt (Child Care and Maintenance Rules) Amendment (Vulnerable Witnesses (Scotland) Act 2004) 2005 (S.S.I. 2005/190)](https://www.legislation.gov.uk/ssi/2005/190), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2005/190/rule/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2005/190/rule/1/1)
+[^c-f3a34936d71d830ba99d7ba2732e222a]: Textual amendment: Ch. 3 Pt. 11 inserted (1.4.2005) by [Act of Sederunt (Child Care and Maintenance Rules) Amendment (Vulnerable Witnesses (Scotland) Act 2004) 2005 (S.S.I. 2005/190)](https://www.legislation.gov.uk/ssi/2005/190), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2005/190/rule/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2005/190/rule/1/1)
 
-[^key-79ef32e36646679c5a3187c43d8edae8]: Textual amendment: Ch. 3 Pt. 11A inserted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(62)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/62) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-79ef32e36646679c5a3187c43d8edae8]: Textual amendment: Ch. 3 Pt. 11A inserted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(62)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/62) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
 
-[^key-3318a4f770642e0ec94a74ba2d7015a0]: Textual amendment: Ch. 5 Pts. 7, 8 inserted (28.11.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [9(8)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/9/8) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))
+[^c-3318a4f770642e0ec94a74ba2d7015a0]: Textual amendment: Ch. 5 Pts. 7, 8 inserted (28.11.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [9(8)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/9/8) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))
 
-[^key-23e3ad055c4271ab275c45748fc5093e]: Textual amendment: Ch. 5 Pt. 9 inserted (1.8.2014) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment) (Miscellaneous) 2014 (S.S.I. 2014/201)](https://www.legislation.gov.uk/ssi/2014/201), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/201/paragraph/1/2), [4(5)](https://www.legislation.gov.uk/ssi/2014/201/paragraph/4/5)
+[^c-23e3ad055c4271ab275c45748fc5093e]: Textual amendment: Ch. 5 Pt. 9 inserted (1.8.2014) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment) (Miscellaneous) 2014 (S.S.I. 2014/201)](https://www.legislation.gov.uk/ssi/2014/201), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/201/paragraph/1/2), [4(5)](https://www.legislation.gov.uk/ssi/2014/201/paragraph/4/5)

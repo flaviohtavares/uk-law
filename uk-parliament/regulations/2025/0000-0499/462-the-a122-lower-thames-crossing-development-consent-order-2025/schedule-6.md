@@ -22,7 +22,7 @@ summary: ''
 
 Article 16
 
-### PART 1 — SPEED LIMITS[^key-69ae31193830c8cfe907f4fd4315107b]
+### PART 1 — SPEED LIMITS[^c-69ae31193830c8cfe907f4fd4315107b]
 
 Note 1: Where roads are to become subject to the national speed limit as indicated in the column headed “speed limit” in this Part of this Schedule and as shown on the plans relating to this Schedule (the traffic regulation measures plans), speed limits are to apply in accordance with the applicable speed limit for such roads in accordance with the provisions of the 1984 Act and which are indicated in parenthesis for information only and such speed limits are not effected by article 16 (clearways, speed limits and prohibitions) of this Order.
 
@@ -115,7 +115,7 @@ Note 2: Where existing speed limits (to be retained) are shown in this Part of t
 | M25 northbound to A127 westbound dedicated off-slip between points 37/21 and 37/16 shown as dashed red line on sheet 45 of the traffic regulation measures plans. | National Speed Limit (70 miles per hour) |
 | A127 westbound to M25 southbound dedicated on-slip between points 37/22 and 37/23 shown as dot and dash red line on sheet 45 of the traffic regulation measures plans. | Variable Mandatory Speed Limit |
 
-### PART 2 — CLEARWAYS AND OTHER RESTRICTIONS[^key-38b342d97f455c88b9ce432dfec3a5d8]
+### PART 2 — CLEARWAYS AND OTHER RESTRICTIONS[^c-38b342d97f455c88b9ce432dfec3a5d8]
 
 | *(1)*<br>*Road name, number and length* | *(2)*<br>*Measure* |
 | --- | --- |
@@ -180,7 +180,7 @@ Note 2: Where existing speed limits (to be retained) are shown in this Part of t
 | A122 Lower Thames Crossing northbound to Orsett Cock roundabout between points 29/5 and 1/20 shown on sheet 32 of the traffic regulation measures plans. | Prohibition of pedestrians, bicycles, motorcycles with engines less than 50 cubic centimetres, mopeds, invalid carriages, agricultural vehicles, horses ridden or accompanied, animals and vehicles drawn by animals |
 | A122 Lower Thames Crossing northbound to M25 Junction 29 link road between points 1/9 and 37/6 shown on sheet 43 of the traffic regulation measures plans. | Prohibition of pedestrians, bicycles, motorcycles with engines less than 50 cubic centimetres, mopeds, invalid carriages, agricultural vehicles, horses ridden or accompanied, animals and vehicles drawn by animals |
 
-### PART 3 — VARIATIONS OF EXISTING TRAFFIC REGULATION ORDERS[^key-bc7623b6d1ca1c78f818e1939835fcc3]
+### PART 3 — VARIATIONS OF EXISTING TRAFFIC REGULATION ORDERS[^c-bc7623b6d1ca1c78f818e1939835fcc3]
 
 | *(1)*<br>*Road name, number and length* | *(2)*<br>*Title of Order* | *(3)*<br>*Variations* |
 | --- | --- | --- |
@@ -190,8 +190,8 @@ Note 2: Where existing speed limits (to be retained) are shown in this Part of t
 
 ## Annotations
 
-[^key-69ae31193830c8cfe907f4fd4315107b]: Commencement: Sch. 6 Pt. 1 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-69ae31193830c8cfe907f4fd4315107b]: Commencement: Sch. 6 Pt. 1 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-38b342d97f455c88b9ce432dfec3a5d8]: Commencement: Sch. 6 Pt. 2 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-38b342d97f455c88b9ce432dfec3a5d8]: Commencement: Sch. 6 Pt. 2 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-bc7623b6d1ca1c78f818e1939835fcc3]: Commencement: Sch. 6 Pt. 3 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-bc7623b6d1ca1c78f818e1939835fcc3]: Commencement: Sch. 6 Pt. 3 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)

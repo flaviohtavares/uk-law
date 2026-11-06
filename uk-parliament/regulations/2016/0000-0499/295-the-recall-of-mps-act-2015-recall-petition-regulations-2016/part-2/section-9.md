@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Supply of register[^key-c787e3042618a47c47167697990b5073]
+## 9. Supply of register[^c-c787e3042618a47c47167697990b5073]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 1 (supply of register) is to have effect.
 
 ## Annotations
 
-[^key-c787e3042618a47c47167697990b5073]: Commencement: Reg. 9 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-c787e3042618a47c47167697990b5073]: Commencement: Reg. 9 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

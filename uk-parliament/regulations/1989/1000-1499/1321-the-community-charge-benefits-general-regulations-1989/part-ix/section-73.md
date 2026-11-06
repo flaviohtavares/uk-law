@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 73. Correction of accidental errors in determinations and decisions[^key-20d9325985429c96d77bc1473a190d3d]
+## 73. Correction of accidental errors in determinations and decisions[^c-20d9325985429c96d77bc1473a190d3d]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20d9325985429c96d77bc1473a190d3d]: Commencement: [Reg. 73](https://www.legislation.gov.uk/uksi/1989/1321/regulation/73) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-20d9325985429c96d77bc1473a190d3d]: Commencement: [Reg. 73](https://www.legislation.gov.uk/uksi/1989/1321/regulation/73) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)

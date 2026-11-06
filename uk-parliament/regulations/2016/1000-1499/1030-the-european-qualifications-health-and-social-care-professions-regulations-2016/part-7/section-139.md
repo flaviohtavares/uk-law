@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Amendment of section 105 (Welsh text)[^key-48b9ce38f010e6c6f5a292f768f57332]
+## 139. Amendment of section 105 (Welsh text)[^c-48b9ce38f010e6c6f5a292f768f57332]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48b9ce38f010e6c6f5a292f768f57332]: Commencement: Reg. 139 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-48b9ce38f010e6c6f5a292f768f57332]: Commencement: Reg. 139 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

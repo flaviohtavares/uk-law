@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Mutual societies: power to transfer functions[^key-e8edb53b793af416af94f1b098800504]
+## 50. Mutual societies: power to transfer functions[^c-e8edb53b793af416af94f1b098800504]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8edb53b793af416af94f1b098800504]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2012/21/section/50) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
+[^c-e8edb53b793af416af94f1b098800504]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2012/21/section/50) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)

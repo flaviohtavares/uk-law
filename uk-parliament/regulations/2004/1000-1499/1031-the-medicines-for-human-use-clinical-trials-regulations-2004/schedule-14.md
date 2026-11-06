@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 14 — Transitional provisions relating to the Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025[^key-a6fe621cc7baba961d5e4a6e31849657]
+## Schedule 14 — Transitional provisions relating to the Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025[^c-a6fe621cc7baba961d5e4a6e31849657]
 
 *Extent: E+W+S+N.I.*
 
@@ -123,4 +123,4 @@ may continue to be used in a clinical trial for which they are for use, subject 
 
 ## Annotations
 
-[^key-a6fe621cc7baba961d5e4a6e31849657]: Textual amendment: Sch. 14 inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [45](https://www.legislation.gov.uk/uksi/2025/538/regulation/45)
+[^c-a6fe621cc7baba961d5e4a6e31849657]: Textual amendment: Sch. 14 inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [45](https://www.legislation.gov.uk/uksi/2025/538/regulation/45)

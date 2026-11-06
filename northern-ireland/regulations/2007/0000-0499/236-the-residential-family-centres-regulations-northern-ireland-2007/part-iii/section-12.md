@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Health and welfare of residents[^key-d19d2a6bdc678c4e2abaa21252cded94]
+## 12. Health and welfare of residents[^c-d19d2a6bdc678c4e2abaa21252cded94]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d19d2a6bdc678c4e2abaa21252cded94]: Commencement: Reg. 12 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
+[^c-d19d2a6bdc678c4e2abaa21252cded94]: Commencement: Reg. 12 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY STOPPED UP AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-8499299c42b3d758ed766305be47fe9f]
+## SCHEDULE 5 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY STOPPED UP AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-8499299c42b3d758ed766305be47fe9f]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ Article 15
 
 ## Annotations
 
-[^key-8499299c42b3d758ed766305be47fe9f]: Commencement: Sch. 5 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)
+[^c-8499299c42b3d758ed766305be47fe9f]: Commencement: Sch. 5 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)

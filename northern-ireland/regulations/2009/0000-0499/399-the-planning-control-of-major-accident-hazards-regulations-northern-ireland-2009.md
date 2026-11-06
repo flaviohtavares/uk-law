@@ -40,15 +40,15 @@ Coming into operation
 
 31st December 2009
 
-[^key-e31a92bf29abe3e74eb4c29928f50439]The Department of the Environment makes the following Regulations in exercise of the powers conferred on it by Articles 10, 53(3) and (4), 54(1), 60(3) and 129(1) of the Planning (Northern Ireland) Order 1991[^f00001].
+[^c-e31a92bf29abe3e74eb4c29928f50439]The Department of the Environment makes the following Regulations in exercise of the powers conferred on it by Articles 10, 53(3) and (4), 54(1), 60(3) and 129(1) of the Planning (Northern Ireland) Order 1991[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-e31a92bf29abe3e74eb4c29928f50439]
+## 1. Citation, commencement and interpretation[^c-e31a92bf29abe3e74eb4c29928f50439]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Planning (Development Plans) Regulations (Northern Ireland) 1991[^key-ab60dffeba157520722a3c6a3813423d]
+## 2. Amendment of the Planning (Development Plans) Regulations (Northern Ireland) 1991[^c-ab60dffeba157520722a3c6a3813423d]
 
 (1) The Planning (Development Plans) Regulations (Northern Ireland) 1991[^f00003] are amended in accordance with paragraphs (2) and (3).
 
@@ -62,19 +62,19 @@ Coming into operation
 
 .
 
-## 3. Amendment of the Hazardous Substances Regulations[^key-e31a92bf29abe3e74eb4c29928f50439]
+## 3. Amendment of the Hazardous Substances Regulations[^c-e31a92bf29abe3e74eb4c29928f50439]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provision: existing consents[^key-e31a92bf29abe3e74eb4c29928f50439]
+## 4. Transitional provision: existing consents[^c-e31a92bf29abe3e74eb4c29928f50439]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Transitional exemptions[^key-e31a92bf29abe3e74eb4c29928f50439]
+## 5. Transitional exemptions[^c-e31a92bf29abe3e74eb4c29928f50439]
 
 **No longer in force.**
 
@@ -88,7 +88,7 @@ A senior officer of the
 
 Department of the Environment
 
-## SCHEDULE — Substitution of Schedule 3 to The Planning (Hazardous Substances) Regulations (Northern Ireland) 1993[^key-e31a92bf29abe3e74eb4c29928f50439]
+## SCHEDULE — Substitution of Schedule 3 to The Planning (Hazardous Substances) Regulations (Northern Ireland) 1993[^c-e31a92bf29abe3e74eb4c29928f50439]
 
 **No longer in force.**
 
@@ -118,11 +118,11 @@ A Regulatory Impact Assessment has been prepared in relation to these Regulation
 
 ## Annotations
 
-[^key-e31a92bf29abe3e74eb4c29928f50439]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/399) revoked (except for reg. 2) (1.4.2015) by [The Planning (2011 Act) (Commencement No.3) and (Transitional Provisions) Order (Northern Ireland) 2015 (S.R. 2015/49)](https://www.legislation.gov.uk/nisr/2015/49), [art. 5(d)](https://www.legislation.gov.uk/nisr/2015/49/article/5/d)
+[^c-e31a92bf29abe3e74eb4c29928f50439]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/399) revoked (except for reg. 2) (1.4.2015) by [The Planning (2011 Act) (Commencement No.3) and (Transitional Provisions) Order (Northern Ireland) 2015 (S.R. 2015/49)](https://www.legislation.gov.uk/nisr/2015/49), [art. 5(d)](https://www.legislation.gov.uk/nisr/2015/49/article/5/d)
 
 [^f00001]: Footnote: [S.I. 1991/1220 (N.I. 11)](https://www.legislation.gov.uk/nisi/1991/1220) as amended by [S.I. 2003/430 (N.I.8)](https://www.legislation.gov.uk/nisi/2003/430) and [S.I. 2006/1252 (N.I.7)](https://www.legislation.gov.uk/nisi/2006/1252)
 
-[^key-ab60dffeba157520722a3c6a3813423d]: Commencement: Reg. 2 in operation at 31.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/399/regulation/1/1)
+[^c-ab60dffeba157520722a3c6a3813423d]: Commencement: Reg. 2 in operation at 31.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/399/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1991 No. 119](https://www.legislation.gov.uk/nisr/1991/119), the relevant amendment is [S.R. 2000 No. 101](https://www.legislation.gov.uk/nisr/2000/101)
 

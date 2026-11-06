@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Rights under or over streets[^key-1045feeeee64ea4251184d691ea66604]
+## 27. Rights under or over streets[^c-1045feeeee64ea4251184d691ea66604]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1045feeeee64ea4251184d691ea66604]: Commencement: Art. 27 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)
+[^c-1045feeeee64ea4251184d691ea66604]: Commencement: Art. 27 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)

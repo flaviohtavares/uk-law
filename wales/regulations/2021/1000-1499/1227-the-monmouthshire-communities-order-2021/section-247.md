@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**247.**[^key-c40dbafb2756bab553aba94e6002af1c][^key-6b7d465a8405952e7d06ea44f861cca0] The community of Whitecastle consists of six wards—
+**247.**[^c-c40dbafb2756bab553aba94e6002af1c][^c-6b7d465a8405952e7d06ea44f861cca0] The community of Whitecastle consists of six wards—
 
 - (a) Llangattock Vibon Avel;
 - (b) Llanvihangel-Ystern-Llewern;
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c40dbafb2756bab553aba94e6002af1c]: Commencement: Art. 247 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-c40dbafb2756bab553aba94e6002af1c]: Commencement: Art. 247 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-6b7d465a8405952e7d06ea44f861cca0]: Commencement: [Art. 247](https://www.legislation.gov.uk/wsi/2021/1227/article/247) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-6b7d465a8405952e7d06ea44f861cca0]: Commencement: [Art. 247](https://www.legislation.gov.uk/wsi/2021/1227/article/247) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

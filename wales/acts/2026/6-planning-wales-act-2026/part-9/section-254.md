@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 254. Right to appeal against tree replacement notice[^key-ad0766d17aaa9cfdb6fe4da502188882]
+## 254. Right to appeal against tree replacement notice[^c-ad0766d17aaa9cfdb6fe4da502188882]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad0766d17aaa9cfdb6fe4da502188882]: Commencement: S. 254 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-ad0766d17aaa9cfdb6fe4da502188882]: Commencement: S. 254 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Content removal notices: review[^key-772e4ae15034ff0ca3f2470affadece6]
+## 22. Content removal notices: review[^c-772e4ae15034ff0ca3f2470affadece6]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ The individual carrying out the review is referred to in this section as “**th
 
 ## Annotations
 
-[^key-772e4ae15034ff0ca3f2470affadece6]: Commencement: S. 22 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-772e4ae15034ff0ca3f2470affadece6]: Commencement: S. 22 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

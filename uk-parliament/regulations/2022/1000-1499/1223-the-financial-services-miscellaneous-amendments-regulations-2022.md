@@ -30,7 +30,7 @@ summary: ''
 
 Financial Services
 
-[^key-29bc4609420e8be652aff80a8d7d9942]The Financial Services (Miscellaneous Amendments) Regulations 2022
+[^c-29bc4609420e8be652aff80a8d7d9942]The Financial Services (Miscellaneous Amendments) Regulations 2022
 
 Made
 
@@ -44,7 +44,7 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 A draft of these Regulations has been approved by a resolution of each House of Parliament in accordance with paragraph 1(1) of Schedule 7 to that Act.
 
-## 1. Citation, commencement and extent[^key-2a3555520691b494733ae71184401343]
+## 1. Citation, commencement and extent[^c-2a3555520691b494733ae71184401343]
 
 (1) These Regulations may be cited as the Financial Services (Miscellaneous Amendments) Regulations 2022.
 
@@ -52,7 +52,7 @@ A draft of these Regulations has been approved by a resolution of each House of 
 
 (3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Amendment of the Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019[^key-60aeb7af2aa9b479c0e09c667f5437cf]
+## 2. Amendment of the Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019[^c-60aeb7af2aa9b479c0e09c667f5437cf]
 
 Regulation 11(5) (saving for certain financial services legislation relating to Gibraltar) of the Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019[^f00002] is amended as follows—
 
@@ -60,13 +60,13 @@ Regulation 11(5) (saving for certain financial services legislation relating to 
 - (b) in sub-paragraph (f)[^f00004], for “28(10)” substitute “28(7), (8)(a) and (c), and (10),”;
 - (c) in sub-paragraph (w)[^f00005], at the end insert “(except for regulations 7(2) and (3), and 8)”.
 
-## 3. Amendment of Regulation (EU) No 648/2012[^key-14e86758e8947f42601e02acc1569be2]
+## 3. Amendment of Regulation (EU) No 648/2012[^c-14e86758e8947f42601e02acc1569be2]
 
 (1) Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories[^f00006] is amended as follows.
 
 (2) In Article 4(5A)(a) (clearing obligation), for “two years” substitute “four years”.
 
-## 4. Amendment of Regulation (EU) 2017/2402[^key-29bc4609420e8be652aff80a8d7d9942]
+## 4. Amendment of Regulation (EU) 2017/2402[^c-29bc4609420e8be652aff80a8d7d9942]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -94,13 +94,13 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 ## Annotations
 
-[^key-29bc4609420e8be652aff80a8d7d9942]: Textual amendment: Regulations revoked (1.11.2024 for the revocation of reg. 4) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/891](https://www.legislation.gov.uk/uksi/2024/891), [reg. 2(e)(ii)](https://www.legislation.gov.uk/uksi/2024/891/regulation/2/e/ii)
+[^c-29bc4609420e8be652aff80a8d7d9942]: Textual amendment: Regulations revoked (1.11.2024 for the revocation of reg. 4) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/891](https://www.legislation.gov.uk/uksi/2024/891), [reg. 2(e)(ii)](https://www.legislation.gov.uk/uksi/2024/891/regulation/2/e/ii)
 
 [^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). Section 8 was amended by section 27 of the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1) (“**the 2020 Act**”). Paragraph 21 of Schedule 7 was amended by paragraph 53 of Schedule 5 to the 2020 Act.
 
-[^key-2a3555520691b494733ae71184401343]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/1223/regulation/1) in force at 31.12.2022 at 11.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1223/regulation/1/2)
+[^c-2a3555520691b494733ae71184401343]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/1223/regulation/1) in force at 31.12.2022 at 11.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1223/regulation/1/2)
 
-[^key-60aeb7af2aa9b479c0e09c667f5437cf]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/1223/regulation/2) in force at 31.12.2022 at 11.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1223/regulation/1/2)
+[^c-60aeb7af2aa9b479c0e09c667f5437cf]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/1223/regulation/2) in force at 31.12.2022 at 11.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1223/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [2019/1234](https://www.legislation.gov.uk/uksi/2019/1234), [2020/628](https://www.legislation.gov.uk/uksi/2020/628), [2020/646](https://www.legislation.gov.uk/uksi/2020/646), [2020/1301](https://www.legislation.gov.uk/uksi/2020/1301); there are other amending instruments but none is relevant.
 
@@ -110,6 +110,6 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00005]: Footnote: See [S.I. 2019/403](https://www.legislation.gov.uk/uksi/2019/403) for the provisions saved by regulation 11(5)(w). [S.I. 2019/403](https://www.legislation.gov.uk/uksi/2019/403) was subsequently amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301); there are other amending instruments but none is relevant.
 
-[^key-14e86758e8947f42601e02acc1569be2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/1223/regulation/3) in force at 31.12.2022 at 11.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1223/regulation/1/2)
+[^c-14e86758e8947f42601e02acc1569be2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/1223/regulation/3) in force at 31.12.2022 at 11.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1223/regulation/1/2)
 
 [^f00006]: Footnote: EUR 2012/648. Article 4(5A) was inserted by [S.I. 2019/660](https://www.legislation.gov.uk/uksi/2019/660) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301)); there are other amending instruments but none is relevant.

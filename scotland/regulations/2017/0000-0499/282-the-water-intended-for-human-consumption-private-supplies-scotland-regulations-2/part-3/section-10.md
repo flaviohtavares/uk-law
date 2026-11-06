@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Risk assessment of water supplies[^key-25cba096727086597f11942f688b0312]
+## 10. Risk assessment of water supplies[^c-25cba096727086597f11942f688b0312]
 
 *Extent: S*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-25cba096727086597f11942f688b0312]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2017/282/regulation/10) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-25cba096727086597f11942f688b0312]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2017/282/regulation/10) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
 [^f00019]: Footnote: This standard was approved by the European Committee for Standardization (CEN) on 5th July 2013. Under reference BS EN 15975-2:2013, it is published as a UK standard by the British Standards Institution (ISBN 978 0 580 84737 0).

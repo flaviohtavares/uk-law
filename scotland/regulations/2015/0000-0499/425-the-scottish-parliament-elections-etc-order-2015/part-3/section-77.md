@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Undue influence[^key-eef540f0088e7cff33e85a1515851979]
+## 77. Undue influence[^c-eef540f0088e7cff33e85a1515851979]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eef540f0088e7cff33e85a1515851979]: Textual amendment: [Art. 77](https://www.legislation.gov.uk/ssi/2015/425/article/77) substituted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2025 (S.S.I. 2025/313)](https://www.legislation.gov.uk/ssi/2025/313), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/313/article/1/1), [8](https://www.legislation.gov.uk/ssi/2025/313/article/8)
+[^c-eef540f0088e7cff33e85a1515851979]: Textual amendment: [Art. 77](https://www.legislation.gov.uk/ssi/2015/425/article/77) substituted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2025 (S.S.I. 2025/313)](https://www.legislation.gov.uk/ssi/2025/313), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/313/article/1/1), [8](https://www.legislation.gov.uk/ssi/2025/313/article/8)

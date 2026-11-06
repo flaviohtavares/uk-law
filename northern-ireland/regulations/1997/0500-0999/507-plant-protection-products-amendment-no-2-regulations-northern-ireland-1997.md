@@ -30,7 +30,7 @@ summary: ''
 
 PESTICIDES
 
-Plant Protection Products (Amendment) (No. 2) Regulations (Northern Ireland) 1997 (revoked)[^key-ab45d12cba35f08379e0ef02b4532146]
+Plant Protection Products (Amendment) (No. 2) Regulations (Northern Ireland) 1997 (revoked)[^c-ab45d12cba35f08379e0ef02b4532146]
 
 Made
 
@@ -40,30 +40,30 @@ Coming into operation
 
 23rd December 1997
 
-[^key-ab45d12cba35f08379e0ef02b4532146]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab45d12cba35f08379e0ef02b4532146]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-ab45d12cba35f08379e0ef02b4532146]
+## 1. Citation, commencement and interpretation[^c-ab45d12cba35f08379e0ef02b4532146]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Protection Products Regulations (Northern Ireland) 1995[^key-ab45d12cba35f08379e0ef02b4532146]
+## 2. Amendment of the Plant Protection Products Regulations (Northern Ireland) 1995[^c-ab45d12cba35f08379e0ef02b4532146]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ab45d12cba35f08379e0ef02b4532146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ab45d12cba35f08379e0ef02b4532146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ab45d12cba35f08379e0ef02b4532146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ab45d12cba35f08379e0ef02b4532146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-ab45d12cba35f08379e0ef02b4532146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ab45d12cba35f08379e0ef02b4532146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ab45d12cba35f08379e0ef02b4532146]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab45d12cba35f08379e0ef02b4532146]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ab45d12cba35f08379e0ef02b4532146]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab45d12cba35f08379e0ef02b4532146]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ab45d12cba35f08379e0ef02b4532146]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/507) revoked (5.5.2004) by [Plant Protection Products Regulations (Northern Ireland) 2004 (revoked) 2004 (S.R. 2004/126)](https://www.legislation.gov.uk/nisr/2004/126), [regs. 1](https://www.legislation.gov.uk/nisr/2004/126/regulation/1), [28](https://www.legislation.gov.uk/nisr/2004/126/regulation/28)
+[^c-ab45d12cba35f08379e0ef02b4532146]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/507) revoked (5.5.2004) by [Plant Protection Products Regulations (Northern Ireland) 2004 (revoked) 2004 (S.R. 2004/126)](https://www.legislation.gov.uk/nisr/2004/126), [regs. 1](https://www.legislation.gov.uk/nisr/2004/126/regulation/1), [28](https://www.legislation.gov.uk/nisr/2004/126/regulation/28)

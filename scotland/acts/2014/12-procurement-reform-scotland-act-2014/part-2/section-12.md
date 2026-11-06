@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Contracts for health or social care services[^key-355afb8c7ca6cbefd39fbcc21ae9f446]
+## 12. Contracts for health or social care services[^c-355afb8c7ca6cbefd39fbcc21ae9f446]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-355afb8c7ca6cbefd39fbcc21ae9f446]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2014/12/section/12) in force at 18.4.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 3](https://www.legislation.gov.uk/ssi/2016/30/article/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))
+[^c-355afb8c7ca6cbefd39fbcc21ae9f446]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2014/12/section/12) in force at 18.4.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 3](https://www.legislation.gov.uk/ssi/2016/30/article/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))

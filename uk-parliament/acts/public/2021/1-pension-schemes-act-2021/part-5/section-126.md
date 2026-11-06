@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Modification of provisions relating to pensionable service[^key-f3e6192361461d69e40f1ed0744014df]
+## 126. Modification of provisions relating to pensionable service[^c-f3e6192361461d69e40f1ed0744014df]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3e6192361461d69e40f1ed0744014df]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2021/1/section/126) in force at 31.5.2021 for E.W.S. by [S.I. 2021/620](https://www.legislation.gov.uk/uksi/2021/620), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2021/620/regulation/2/2/c)
+[^c-f3e6192361461d69e40f1ed0744014df]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2021/1/section/126) in force at 31.5.2021 for E.W.S. by [S.I. 2021/620](https://www.legislation.gov.uk/uksi/2021/620), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2021/620/regulation/2/2/c)

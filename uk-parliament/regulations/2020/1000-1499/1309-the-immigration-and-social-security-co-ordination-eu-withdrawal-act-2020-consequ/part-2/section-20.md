@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Amendment and saving of the Immigration Act 2014[^key-991e1cc03f2a6f3bdfc15507111ec505][^M_I_151c8294-54e8-44d3-ed2e-2b64be8cdbf4][^key-147a679fded63f414d832e22c7ee9800][^key-db4530c7a6a1a7e1deb1cb65b58d9dd2]
+## 20. Amendment and saving of the Immigration Act 2014[^c-991e1cc03f2a6f3bdfc15507111ec505][^M_I_151c8294-54e8-44d3-ed2e-2b64be8cdbf4][^c-147a679fded63f414d832e22c7ee9800][^c-db4530c7a6a1a7e1deb1cb65b58d9dd2]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,9 +45,9 @@ summary: ''
 
   .
 
-(5)[^key-147a679fded63f414d832e22c7ee9800] In section 49 (meaning of “**exempt person**” in relation to investigations into sham marriages) [^c24398751], omit subsection (2)(a).
+(5)[^c-147a679fded63f414d832e22c7ee9800] In section 49 (meaning of “**exempt person**” in relation to investigations into sham marriages) [^c24398751], omit subsection (2)(a).
 
-(6)[^key-147a679fded63f414d832e22c7ee9800] In section 62 (interpretation of Part 4, relating to marriage and civil partnership) [^c24398761], in subsection (1), in the definition of “relevant national”—
+(6)[^c-147a679fded63f414d832e22c7ee9800] In section 62 (interpretation of Part 4, relating to marriage and civil partnership) [^c24398761], in subsection (1), in the definition of “relevant national”—
 
 - (a) after paragraph (a) insert—
 
@@ -59,7 +59,7 @@ summary: ''
   ;
 - (b) omit paragraphs (b) and (c).
 
-(7)[^key-db4530c7a6a1a7e1deb1cb65b58d9dd2] In section 70A (power to impose a charge on sponsors who make immigration skills arrangements) [^c24398771]—
+(7)[^c-db4530c7a6a1a7e1deb1cb65b58d9dd2] In section 70A (power to impose a charge on sponsors who make immigration skills arrangements) [^c24398771]—
 
 - (a) in subsection (6)—
   - (i) after paragraph (a) insert—
@@ -75,17 +75,17 @@ summary: ''
   - (iii) omit paragraphs (c) and (d);
 - (b) in subsection (7) after “1971” insert “ and “**residence scheme immigration rules**” has the meaning given by section 17 of the European Union (Withdrawal Agreement) Act 2020. ”.
 
-(8)[^key-db4530c7a6a1a7e1deb1cb65b58d9dd2] The amendments made by paragraph (7) do not affect the operation of any regulations which were made under section 70A of the Immigration Act 2014 before 1st December 2020.
+(8)[^c-db4530c7a6a1a7e1deb1cb65b58d9dd2] The amendments made by paragraph (7) do not affect the operation of any regulations which were made under section 70A of the Immigration Act 2014 before 1st December 2020.
 
 ## Annotations
 
-[^key-991e1cc03f2a6f3bdfc15507111ec505]: Commencement: Reg. 20(1)-(4) not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-991e1cc03f2a6f3bdfc15507111ec505]: Commencement: Reg. 20(1)-(4) not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_151c8294-54e8-44d3-ed2e-2b64be8cdbf4]: Commencement: Reg. 20(1)-(4) in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 
-[^key-147a679fded63f414d832e22c7ee9800]: Commencement: Reg. 20(5)(6) in force at 1.7.2021, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c)
+[^c-147a679fded63f414d832e22c7ee9800]: Commencement: Reg. 20(5)(6) in force at 1.7.2021, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c)
 
-[^key-db4530c7a6a1a7e1deb1cb65b58d9dd2]: Commencement: Reg. 20(7)(8) in force at 1.12.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/b)
+[^c-db4530c7a6a1a7e1deb1cb65b58d9dd2]: Commencement: Reg. 20(7)(8) in force at 1.12.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/b)
 
 [^c24398731]: Marginal citation: [2014 c. 22](https://www.legislation.gov.uk/ukpga/2014/22).
 

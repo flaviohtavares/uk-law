@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 31(3)(a), 31(3)(b)
 
-### 1. Charges for the provision of dental services[^key-f1dbe89f49ea9d4fad47c9e0e18bae2b]
+### 1. Charges for the provision of dental services[^c-f1dbe89f49ea9d4fad47c9e0e18bae2b]
 
 (1) Subject to sub-paragraph (2) and paragraphs 2 and 3, a charge of the amount provided for in the table in paragraph 4 may be made and recovered in respect of the provision of the relevant mandatory dental services as described in regulation 14 and Schedule 1.
 
@@ -30,7 +30,7 @@ Regulations 31(3)(a), 31(3)(b)
 
 (3) In this paragraph “**at the same time**” means as part of a course of treatment which may be delivered over a number of appointments.
 
-### 2. Exemptions[^key-d0ebbf3ea0b8b11636577528fecb4ad2]
+### 2. Exemptions[^c-d0ebbf3ea0b8b11636577528fecb4ad2]
 
 (1) Subject to sub-paragraphs (2) no charge may be made and recovered under paragraph 1 in respect of—
 
@@ -52,7 +52,7 @@ Regulations 31(3)(a), 31(3)(b)
 
 (3) In this paragraph “**evidence of entitlement**” means an official record (for example a birth certificate, student ID card or Personal Child Health Record) which confirms the age or status or both, of the patient as the case may be.
 
-**3.**[^key-2a00b720db39ad24e2af7a5e13fc8da7] (1) Subject to sub-paragraph (2) no charge may be made and recovered under paragraph 1 in respect of—
+**3.**[^c-2a00b720db39ad24e2af7a5e13fc8da7] (1) Subject to sub-paragraph (2) no charge may be made and recovered under paragraph 1 in respect of—
 
 - (a) the clinical examination, any report on that examination and the provision of an assessment and advice where, on the day upon which the examination is being performed or the assessment is made, the patient—
   - (i) is under the age of 25 years, or
@@ -70,11 +70,11 @@ Regulations 31(3)(a), 31(3)(b)
 
 (3) In this paragraph “**evidence of entitlement**” means the patient’s birth certificate or another means prescribed by the Local Health Board of establishing the age of the patient.
 
-### 4. Charges[^key-89847d048ec6e28f07a945f3a67ded7d]
+### 4. Charges[^c-89847d048ec6e28f07a945f3a67ded7d]
 
 The charges which may be made and recovered under paragraph 1 are as set out in table 1 below—
 
-Table 1[^key-46292a7178cdf34738f22040ac280bed]
+Table 1[^c-46292a7178cdf34738f22040ac280bed]
 
 | Title | Charge | Description |
 | --- | --- | --- |
@@ -95,7 +95,7 @@ Table 1[^key-46292a7178cdf34738f22040ac280bed]
 | Prevention |  |  |
 | Recall | £25.00 per visit | Patients having a recall examination are to be put on a recall package aligned to NICE guidance. Requirement to declare on the FP17 which recall interval the patient is currently on. A robust clinical monitoring process must take place to confirm that the patient is on the appropriate risk assessed recall package. |
 
-### 5. Referral[^key-8ba1750abc54acb4cdfe631a14e5c19a]
+### 5. Referral[^c-8ba1750abc54acb4cdfe631a14e5c19a]
 
 (1) Only one charge for the course of treatment or urgent course of treatment under paragraph 1 may be made and recovered from the patient where the patient has started a course of treatment under a care package or an urgent course of treatment with one contractor but is referred to—
 
@@ -104,7 +104,7 @@ Table 1[^key-46292a7178cdf34738f22040ac280bed]
 
 (2) The charge where paragraph (1) applies may only be made and recovered by the original contractor.
 
-### 6. Making and recovery of charges[^key-2601691363fad41ab59bd827595250fc]
+### 6. Making and recovery of charges[^c-2601691363fad41ab59bd827595250fc]
 
 (1) Where a charge may be made and recovered under this Schedule the contractor, upon arranging a course of treatment, must—
 
@@ -119,7 +119,7 @@ Table 1[^key-46292a7178cdf34738f22040ac280bed]
 - (a) a paper form provided for that purpose by the relevant Local Health Board, or
 - (b) an electronic form which identifies the person who provided the service, the name of the contractor, the services provided, and the amount of the charge paid and the date on which it is paid.
 
-### 7. Repayment of charges[^key-91eca69480bec4ea534a6f6e39d79580]
+### 7. Repayment of charges[^c-91eca69480bec4ea534a6f6e39d79580]
 
 (1) This paragraph applies to any person who—
 
@@ -145,11 +145,11 @@ Table 1[^key-46292a7178cdf34738f22040ac280bed]
 
 (6) If upon considering a claim under sub-paragraph (3) the Welsh Ministers are satisfied that the person is entitled to repayment under this paragraph the Welsh Ministers must provide that a repayment is made to that person in such a way as appears to be appropriate in the circumstances.
 
-### 8. Accounting for charges in relation to payments[^key-dac25de974ff483eae8c7f01c5101517]
+### 8. Accounting for charges in relation to payments[^c-dac25de974ff483eae8c7f01c5101517]
 
 Where a contractor has provided dental services for which a charge is payable under this Schedule the payment which would otherwise be payable by the Local Health Board to that contractor must be reduced by the amount of that charge, irrespective of whether or not that charge has been recovered by the contractor.
 
-### 9. Central collection and electronic processes[^key-7eb00f6e52ef455a5c6dc9cbbeef7e7d]
+### 9. Central collection and electronic processes[^c-7eb00f6e52ef455a5c6dc9cbbeef7e7d]
 
 (1) Where the Welsh Ministers give directions under section 60 of the 2006 Act requiring central collection of charges the Local Health Board must ensure the contract requires charges to be collected in accordance with those directions.
 
@@ -165,22 +165,22 @@ Where a contractor has provided dental services for which a charge is payable un
 
 ## Annotations
 
-[^key-f1dbe89f49ea9d4fad47c9e0e18bae2b]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/wsi/2026/37/schedule/5/paragraph/1) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-f1dbe89f49ea9d4fad47c9e0e18bae2b]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/wsi/2026/37/schedule/5/paragraph/1) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-d0ebbf3ea0b8b11636577528fecb4ad2]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/wsi/2026/37/schedule/5/paragraph/2) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-d0ebbf3ea0b8b11636577528fecb4ad2]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/wsi/2026/37/schedule/5/paragraph/2) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-2a00b720db39ad24e2af7a5e13fc8da7]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/wsi/2026/37/schedule/5/paragraph/3) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-2a00b720db39ad24e2af7a5e13fc8da7]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/wsi/2026/37/schedule/5/paragraph/3) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-89847d048ec6e28f07a945f3a67ded7d]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/wsi/2026/37/schedule/5/paragraph/4) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-89847d048ec6e28f07a945f3a67ded7d]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/wsi/2026/37/schedule/5/paragraph/4) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-46292a7178cdf34738f22040ac280bed]: Textual amendment: [Sch. 5 para. 4](https://www.legislation.gov.uk/wsi/2026/37/schedule/5/paragraph/4) Table 1 substituted (1.3.2026) by [The National Health Service (General Dental Services Contracts and Patient Charges) (Amendment) (Wales) Regulations 2026 (W.S.I. 2026/49)](https://www.legislation.gov.uk/wsi/2026/49), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/49/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2026/49/regulation/4)
+[^c-46292a7178cdf34738f22040ac280bed]: Textual amendment: [Sch. 5 para. 4](https://www.legislation.gov.uk/wsi/2026/37/schedule/5/paragraph/4) Table 1 substituted (1.3.2026) by [The National Health Service (General Dental Services Contracts and Patient Charges) (Amendment) (Wales) Regulations 2026 (W.S.I. 2026/49)](https://www.legislation.gov.uk/wsi/2026/49), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/49/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2026/49/regulation/4)
 
-[^key-8ba1750abc54acb4cdfe631a14e5c19a]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/wsi/2026/37/schedule/5/paragraph/5) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-8ba1750abc54acb4cdfe631a14e5c19a]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/wsi/2026/37/schedule/5/paragraph/5) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-2601691363fad41ab59bd827595250fc]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/wsi/2026/37/schedule/5/paragraph/6) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-2601691363fad41ab59bd827595250fc]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/wsi/2026/37/schedule/5/paragraph/6) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-91eca69480bec4ea534a6f6e39d79580]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/wsi/2026/37/schedule/5/paragraph/7) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-91eca69480bec4ea534a6f6e39d79580]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/wsi/2026/37/schedule/5/paragraph/7) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-dac25de974ff483eae8c7f01c5101517]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/wsi/2026/37/schedule/5/paragraph/8) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-dac25de974ff483eae8c7f01c5101517]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/wsi/2026/37/schedule/5/paragraph/8) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-7eb00f6e52ef455a5c6dc9cbbeef7e7d]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/wsi/2026/37/schedule/5/paragraph/9) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-7eb00f6e52ef455a5c6dc9cbbeef7e7d]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/wsi/2026/37/schedule/5/paragraph/9) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

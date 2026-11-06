@@ -24,9 +24,9 @@ Article 25
 
 ### Compensation enactments
 
-**1.**[^key-c461bd166c8f6b94b1fb87447f04444e] The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications set out in this Schedule as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right as they apply as respects compensation on the compulsory purchase of land and interests in land.
+**1.**[^c-c461bd166c8f6b94b1fb87447f04444e] The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications set out in this Schedule as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right as they apply as respects compensation on the compulsory purchase of land and interests in land.
 
-**2.**[^key-4cd78298baa05f2917998bd535513b9f] (1) Without limitation on paragraph 1, the 1961 Act has effect subject to the modification set out in sub-paragraph (2).
+**2.**[^c-4cd78298baa05f2917998bd535513b9f] (1) Without limitation on paragraph 1, the 1961 Act has effect subject to the modification set out in sub-paragraph (2).
 
 (2) For section 5A(5A) (relevant valuation date) of the 1961 Act substitute—
 
@@ -38,21 +38,21 @@ Article 25
 >
 > the authority is deemed for the purposes of subsection (3)(a) to have entered on that land when it entered on that land for the purposes of excising that right.
 
-**3.**[^key-d030901e1b2e8dffea837b2ba1da1b71] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973[^f00081] has effect subject to the modifications set out in sub-paragraph (2).
+**3.**[^c-d030901e1b2e8dffea837b2ba1da1b71] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973[^f00081] has effect subject to the modifications set out in sub-paragraph (2).
 
 (2) In section 44(1) (compensation for injurious affection), as it applies to compensation for injurious affection under section 7 (measure of compensation in case of severance) of the 1965 Act as substituted by paragraph 5(3)—
 
 - (a) for “land is acquired or taken” substitute “a right over land is purchased”; and
 - (b) for “acquired or taken from him” substitute “over which the right is exercisable”.
 
-#### 4. Application of Part 1 of the 1965 Act[^key-f072a5f84b2a7255175c90f4822f5121]
+#### 4. Application of Part 1 of the 1965 Act[^c-f072a5f84b2a7255175c90f4822f5121]
 
 Part 1 of the 1965 Act as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act, and modified by article 30 (modification of Part 1 of the 1965 Act) to the compulsory acquisition of land under article 24 (compulsory acquisition of land) applies to the compulsory acquisition of a right by the creation of a new right under article 25 (compulsory acquisition of rights)—
 
 - (a) with the modifications specified in paragraph 5; and
 - (b) with other modifications as may be necessary.
 
-**5.**[^key-18d4c48c2c308b7ef60ee4af11b60b7b] (1) The modifications referred to in paragraph 4(a) are as follows.
+**5.**[^c-18d4c48c2c308b7ef60ee4af11b60b7b] (1) The modifications referred to in paragraph 4(a) are as follows.
 
 (2) References in the 1965 Act to land are read (according to the requirements of the particular context) as referring to, or as including references to—
 
@@ -137,17 +137,17 @@ are modified so as to secure that, as against persons with interests in the land
 
 ## Annotations
 
-[^key-c461bd166c8f6b94b1fb87447f04444e]: Commencement: Sch. 12 para. 1 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-c461bd166c8f6b94b1fb87447f04444e]: Commencement: Sch. 12 para. 1 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-4cd78298baa05f2917998bd535513b9f]: Commencement: Sch. 12 para. 2 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-4cd78298baa05f2917998bd535513b9f]: Commencement: Sch. 12 para. 2 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-d030901e1b2e8dffea837b2ba1da1b71]: Commencement: Sch. 12 para. 3 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-d030901e1b2e8dffea837b2ba1da1b71]: Commencement: Sch. 12 para. 3 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
 [^f00081]: Footnote: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26).
 
-[^key-f072a5f84b2a7255175c90f4822f5121]: Commencement: Sch. 12 para. 4 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-f072a5f84b2a7255175c90f4822f5121]: Commencement: Sch. 12 para. 4 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-18d4c48c2c308b7ef60ee4af11b60b7b]: Commencement: Sch. 12 para. 5 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-18d4c48c2c308b7ef60ee4af11b60b7b]: Commencement: Sch. 12 para. 5 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
 [^f00082]: Footnote: Section 11 was amended by section 34(1) of, and Schedule 4 to, the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), sections 186(2), 187(2) and 188 of, and paragraph 6 of Schedule 14 and paragraph 3 of Schedule 16 to, the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), section 14 of, and paragraph 12(1) of Schedule 5 to, the Church of England (Miscellaneous Provisions) Measure [2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

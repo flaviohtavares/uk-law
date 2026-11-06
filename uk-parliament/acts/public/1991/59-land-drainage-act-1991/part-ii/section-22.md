@@ -37,7 +37,7 @@ and the applicants shall give such security for expenses as may be required by t
 (3) Notice of any application for an order under this section, of the place where it can be inspected and of the period within which objections to the proposed works may be made to the appropriate Minister shall be given in the prescribed manner—
 
 - (a) to all persons not parties to the application whose lands are proposed to be entered upon, cut through or interfered with;
-- (b) to the appropriate agency[^key-4b1175689fc1423a61dd81e3ddab7043]; and
+- (b) to the appropriate agency[^c-4b1175689fc1423a61dd81e3ddab7043]; and
 - (c) to any internal drainage board for any district within which all or any of the proposed works are to be carried out.
 
 (4) If, where an application for an order under this section has been made—
@@ -56,7 +56,7 @@ shall, in his discretion, either refuse to authorise the carrying out of the pro
 
 (6) Subject to subsection (7) below, the persons authorised by an order under this section to carry out works shall have full power to carry out the works and to maintain them for ever thereafter.
 
-(7) Where an order under this section is made, every person interested in the land affected by the order (other than any person who is one of those authorised to carry out the works) shall be entitled to compensation for any injury suffered by him in respect of that interest by reason of the works; and, in case of a dispute as to the amount of the compensation payable, the amount shall be determined by the Upper Tribunal[^key-b3936613532388deede8361573d9935f].
+(7) Where an order under this section is made, every person interested in the land affected by the order (other than any person who is one of those authorised to carry out the works) shall be entitled to compensation for any injury suffered by him in respect of that interest by reason of the works; and, in case of a dispute as to the amount of the compensation payable, the amount shall be determined by the Upper Tribunal[^c-b3936613532388deede8361573d9935f].
 
 (8) No order of the appropriate Minister under this section shall authorise any work whereby the streams, reservoirs or feeders supplying any ornamental waters will be cut through, diverted or interfered with otherwise than by agreement and with the consent of the persons to whom such ornamental waters belong.
 
@@ -67,6 +67,6 @@ shall, in his discretion, either refuse to authorise the carrying out of the pro
 
 ## Annotations
 
-[^key-4b1175689fc1423a61dd81e3ddab7043]: Textual amendment: Words in [s. 22(3)(b)](https://www.legislation.gov.uk/ukpga/1991/59/section/22/3/b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 321](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/321) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-4b1175689fc1423a61dd81e3ddab7043]: Textual amendment: Words in [s. 22(3)(b)](https://www.legislation.gov.uk/ukpga/1991/59/section/22/3/b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 321](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/321) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-b3936613532388deede8361573d9935f]: Textual amendment: Words in s. 22(7) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 239](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/239) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-b3936613532388deede8361573d9935f]: Textual amendment: Words in s. 22(7) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 239](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/239) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))

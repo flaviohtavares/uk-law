@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16.1. Application and interpretation[^key-c83fd94e1fd9a0930b2607dcd4f442e6]
+## 16.1. Application and interpretation[^c-c83fd94e1fd9a0930b2607dcd4f442e6]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) References in this Part to “the chair” are to the chair of the meeting for which a specific proxy is given or at which a continuing proxy is exercised.
 
-## 16.2. Specific and continuing proxies[^key-c83fd94e1fd9a0930b2607dcd4f442e6]
+## 16.2. Specific and continuing proxies[^c-c83fd94e1fd9a0930b2607dcd4f442e6]
 
 *Extent: E+W*
 
@@ -54,7 +54,7 @@ summary: ''
 
 (8) The proxy-holder must be an individual.
 
-## 16.3. Blank proxy[^key-c83fd94e1fd9a0930b2607dcd4f442e6]
+## 16.3. Blank proxy[^c-c83fd94e1fd9a0930b2607dcd4f442e6]
 
 *Extent: E+W*
 
@@ -63,22 +63,22 @@ summary: ''
 - (a) complies with the requirements in this rule; and
 - (b) when completed with the details specified in paragraph (3) will be a proxy as described in rule 16.2.
 
-(2)[^key-b84b8a820da1a9771795bf1800f1045c] A blank proxy must state that the creditor, member or contributory named in the document (when completed) appoints a person who is named or identified as the proxy-holder of the creditor, member or contributory.
+(2)[^c-b84b8a820da1a9771795bf1800f1045c] A blank proxy must state that the creditor, member or contributory named in the document (when completed) appoints a person who is named or identified as the proxy-holder of the creditor, member or contributory.
 
 (3) The specified details are—
 
 - (a) the name and address of the creditor, member or contributory;
-- (b) either the name of the proxy-holder or the identification of the proxy-holder (e.g. the chair of the meeting or the official receiver); [^key-2e3050e6f0403ccc754fc92ba4b7db21]...
-- (c)[^key-56ea81667a9f9873ca08d275833e4f67] a statement that the proxy is either—
+- (b) either the name of the proxy-holder or the identification of the proxy-holder (e.g. the chair of the meeting or the official receiver); [^c-2e3050e6f0403ccc754fc92ba4b7db21]...
+- (c)[^c-56ea81667a9f9873ca08d275833e4f67] a statement that the proxy is either—
   - (i) for a specific meeting, which is identified in the proxy, or
   - (ii) a continuing proxy for the proceedings; and
 - (d) if the proxy is for a specific meeting, instructions as to the extent to which the proxy holder is directed to vote in a particular way, to abstain or to propose any resolution.
 
-(4)[^key-418d7b7d24cf39a0f23e29f0f994c1ad] When it is delivered, a blank proxy must not have inserted into it the name or description of any person as proxy-holder or as a nominee for the office-holder, or instructions as to how a person appointed as proxy-holder is to act.
+(4)[^c-418d7b7d24cf39a0f23e29f0f994c1ad] When it is delivered, a blank proxy must not have inserted into it the name or description of any person as proxy-holder or as a nominee for the office-holder, or instructions as to how a person appointed as proxy-holder is to act.
 
 (5) A blank proxy must have a note to the effect that the proxy may be completed with the name of the person or the chair of the meeting who is to be proxy-holder.
 
-## 16.4. Use of proxies[^key-c83fd94e1fd9a0930b2607dcd4f442e6]
+## 16.4. Use of proxies[^c-c83fd94e1fd9a0930b2607dcd4f442e6]
 
 *Extent: E+W*
 
@@ -96,7 +96,7 @@ summary: ''
 
 (7) The chair may require a proxy used at a meeting to be the same as or substantially similar to the blank proxy delivered for that meeting or to a blank proxy previously delivered which has been completed as a continuing proxy.
 
-## 16.5. Use of proxies by the chair[^key-c83fd94e1fd9a0930b2607dcd4f442e6]
+## 16.5. Use of proxies by the chair[^c-c83fd94e1fd9a0930b2607dcd4f442e6]
 
 *Extent: E+W*
 
@@ -108,7 +108,7 @@ summary: ''
 
 (4) If the chair does not propose such a resolution, the chair must as soon as reasonably practicable after the meeting deliver a notice of the reason why that was not done to the creditor, member or contributory.
 
-## 16.6. Right of inspection and retention of proxies[^key-c83fd94e1fd9a0930b2607dcd4f442e6]
+## 16.6. Right of inspection and retention of proxies[^c-c83fd94e1fd9a0930b2607dcd4f442e6]
 
 *Extent: E+W*
 
@@ -130,7 +130,7 @@ summary: ''
 
 (5) However the right of inspection is subject to rule 1.58 (confidentiality of documents – grounds for refusing inspection).
 
-## 16.7. Proxy-holder with financial interest[^key-c83fd94e1fd9a0930b2607dcd4f442e6]
+## 16.7. Proxy-holder with financial interest[^c-c83fd94e1fd9a0930b2607dcd4f442e6]
 
 *Extent: E+W*
 
@@ -158,7 +158,7 @@ summary: ''
 - (a) if they purport to exercise the power in the same way, the power is treated as exercised in that way; but
 - (b) if they do not purport to exercise the power in the same way, the power is treated as not exercised.
 
-## 16.9. Instrument conferring authorisation to represent corporation[^key-3c525cc0c98b7ab4ab858cf1ba788be7]
+## 16.9. Instrument conferring authorisation to represent corporation[^c-3c525cc0c98b7ab4ab858cf1ba788be7]
 
 *Extent: E+W*
 
@@ -174,16 +174,16 @@ summary: ''
 
 ## Annotations
 
-[^key-c83fd94e1fd9a0930b2607dcd4f442e6]: Modification: [Rules 16](https://www.legislation.gov.uk/uksi/2016/1024/rule/16).1-16.7 applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [138](https://www.legislation.gov.uk/uksi/2024/229/rule/138), [139](https://www.legislation.gov.uk/uksi/2024/229/rule/139), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-c83fd94e1fd9a0930b2607dcd4f442e6]: Modification: [Rules 16](https://www.legislation.gov.uk/uksi/2016/1024/rule/16).1-16.7 applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [138](https://www.legislation.gov.uk/uksi/2024/229/rule/138), [139](https://www.legislation.gov.uk/uksi/2024/229/rule/139), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
-[^key-b84b8a820da1a9771795bf1800f1045c]: Textual amendment: Rule 16.3(2) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [40(a)](https://www.legislation.gov.uk/uksi/2017/366/rule/40/a)
+[^c-b84b8a820da1a9771795bf1800f1045c]: Textual amendment: Rule 16.3(2) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [40(a)](https://www.legislation.gov.uk/uksi/2017/366/rule/40/a)
 
-[^key-2e3050e6f0403ccc754fc92ba4b7db21]: Textual amendment: Word in rule 16.3(3)(b) omitted (6.4.2017) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [40(b)](https://www.legislation.gov.uk/uksi/2017/366/rule/40/b)
+[^c-2e3050e6f0403ccc754fc92ba4b7db21]: Textual amendment: Word in rule 16.3(3)(b) omitted (6.4.2017) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [40(b)](https://www.legislation.gov.uk/uksi/2017/366/rule/40/b)
 
-[^key-56ea81667a9f9873ca08d275833e4f67]: Textual amendment: Rule 16.3(c)(d) substituted for rule 16.3(c) (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [40(c)](https://www.legislation.gov.uk/uksi/2017/366/rule/40/c)
+[^c-56ea81667a9f9873ca08d275833e4f67]: Textual amendment: Rule 16.3(c)(d) substituted for rule 16.3(c) (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [40(c)](https://www.legislation.gov.uk/uksi/2017/366/rule/40/c)
 
-[^key-418d7b7d24cf39a0f23e29f0f994c1ad]: Textual amendment: [Rule 16.3(4)](https://www.legislation.gov.uk/uksi/2016/1024/rule/16.3/4) substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [10](https://www.legislation.gov.uk/uksi/2017/1115/rule/10)
+[^c-418d7b7d24cf39a0f23e29f0f994c1ad]: Textual amendment: [Rule 16.3(4)](https://www.legislation.gov.uk/uksi/2016/1024/rule/16.3/4) substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [10](https://www.legislation.gov.uk/uksi/2017/1115/rule/10)
 
-[^key-3c525cc0c98b7ab4ab858cf1ba788be7]: Modification: [Rule 16](https://www.legislation.gov.uk/uksi/2016/1024/rule/16).9 applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [140](https://www.legislation.gov.uk/uksi/2024/229/rule/140), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-3c525cc0c98b7ab4ab858cf1ba788be7]: Modification: [Rule 16](https://www.legislation.gov.uk/uksi/2016/1024/rule/16).9 applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [140](https://www.legislation.gov.uk/uksi/2024/229/rule/140), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
 [^c23177571]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).

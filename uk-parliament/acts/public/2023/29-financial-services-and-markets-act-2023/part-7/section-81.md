@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Pre-commencement consultation[^key-c57d4ad05249a247f37d505a8ae14f5c]
+## 81. Pre-commencement consultation[^c-c57d4ad05249a247f37d505a8ae14f5c]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ means the date on which the modification or making of that provision comes into 
 
 ## Annotations
 
-[^key-c57d4ad05249a247f37d505a8ae14f5c]: Commencement: S. 81 in force at Royal Assent, see [s. 86(1)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/a)
+[^c-c57d4ad05249a247f37d505a8ae14f5c]: Commencement: S. 81 in force at Royal Assent, see [s. 86(1)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/a)

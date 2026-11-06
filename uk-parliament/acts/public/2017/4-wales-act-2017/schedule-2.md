@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — New Schedule 7B to the Government of Wales Act 2006[^key-93215d614eb167a1ba1bc41d5d24b3c8]
+## SCHEDULE 2 — New Schedule 7B to the Government of Wales Act 2006[^c-93215d614eb167a1ba1bc41d5d24b3c8]
 
 *Extent: E+W+S+N.I.*
 
 Section 3
 
-[^key-93215d614eb167a1ba1bc41d5d24b3c8]
+[^c-93215d614eb167a1ba1bc41d5d24b3c8]
 
 This Schedule sets out the new Schedule 7B to the Government of Wales Act 2006, to be substituted (with the new Schedule 7A) for Schedule 7 to that Act—
 
@@ -351,4 +351,4 @@ This Schedule sets out the new Schedule 7B to the Government of Wales Act 2006, 
 
 ## Annotations
 
-[^key-93215d614eb167a1ba1bc41d5d24b3c8]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2017/4/schedule/2) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1179/regulation/2)
+[^c-93215d614eb167a1ba1bc41d5d24b3c8]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2017/4/schedule/2) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1179/regulation/2)

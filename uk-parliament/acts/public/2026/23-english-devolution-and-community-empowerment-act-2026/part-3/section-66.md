@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Power to pay grant to joint committees of London councils[^key-833d8b91591a3bddf377a60689b6af01]
+## 66. Power to pay grant to joint committees of London councils[^c-833d8b91591a3bddf377a60689b6af01]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ After section 32 of the Local Government Act 2003 insert—
 
 ## Annotations
 
-[^key-833d8b91591a3bddf377a60689b6af01]: Commencement: S. 66 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-833d8b91591a3bddf377a60689b6af01]: Commencement: S. 66 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)

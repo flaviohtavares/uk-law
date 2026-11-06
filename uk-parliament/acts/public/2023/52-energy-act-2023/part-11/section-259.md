@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259. Action to achieve energy savings or emissions reductions[^key-ddbe34a04183dd46ffe9bd348f5d96e6]
+## 259. Action to achieve energy savings or emissions reductions[^c-ddbe34a04183dd46ffe9bd348f5d96e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ddbe34a04183dd46ffe9bd348f5d96e6]: Commencement: S. 259 in force at Royal Assent, see [s. 334(2)(m)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/m)
+[^c-ddbe34a04183dd46ffe9bd348f5d96e6]: Commencement: S. 259 in force at Royal Assent, see [s. 334(2)(m)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/m)

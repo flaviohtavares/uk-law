@@ -24,13 +24,13 @@ Section 47
 
 **1.** The Financial Services and Markets Act 2000 is amended as follows.
 
-**2.**[^key-ab114f65cd1240bb561c1f8342298b62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ab114f65cd1240bb561c1f8342298b62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ab114f65cd1240bb561c1f8342298b62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ab114f65cd1240bb561c1f8342298b62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ab114f65cd1240bb561c1f8342298b62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ab114f65cd1240bb561c1f8342298b62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-ab114f65cd1240bb561c1f8342298b62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ab114f65cd1240bb561c1f8342298b62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** After section 137FA insert—
 
@@ -70,7 +70,7 @@ Section 47
   > - (aa) section 137FB;
 
   ;
-- (b)[^key-96d5a3897e7201da4cde3bbe58129a0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-96d5a3897e7201da4cde3bbe58129a0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in subsection (10) (rules to which requirement to consult the PRA does not apply), after “apply to” insert
 
   > —
@@ -80,19 +80,19 @@ Section 47
 
   .
 
-**9.**[^key-fe56a4eee3b1027370b5cc78f764019c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-fe56a4eee3b1027370b5cc78f764019c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-fe56a4eee3b1027370b5cc78f764019c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-fe56a4eee3b1027370b5cc78f764019c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-fe56a4eee3b1027370b5cc78f764019c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-fe56a4eee3b1027370b5cc78f764019c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **12.** In section 429 (Parliamentary control of statutory instruments), in subsection (2) (regulations subject to the affirmative resolution procedure), for “or 262” substitute “ , 262, 333C or 333R ”.
 
-**13.**[^key-bfb7dc084f3d4167ca019bc3e71fd192] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-bfb7dc084f3d4167ca019bc3e71fd192] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-bfb7dc084f3d4167ca019bc3e71fd192] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-bfb7dc084f3d4167ca019bc3e71fd192] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-bfb7dc084f3d4167ca019bc3e71fd192] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-bfb7dc084f3d4167ca019bc3e71fd192] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **16.** In that Schedule, in paragraph 23 (fees)—
 
@@ -106,7 +106,7 @@ Section 47
   > - (a) its functions under sections 333E to 333Q, and
   > - (b) its functions under section 333R so far as relating to the collection of payments.
 
-**17.**[^key-ed57e69652c5e56b5850c0355e5e9621] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-ed57e69652c5e56b5850c0355e5e9621] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **18.** (1) For the purpose of the exercise of a function conferred by a provision listed in the first column of the table, a consultation requirement listed in the corresponding entry in the second column may be satisfied by things done before the day on which this Act is passed.
 
@@ -144,12 +144,12 @@ Section 47
 
 ## Annotations
 
-[^key-ab114f65cd1240bb561c1f8342298b62]: Textual amendment: [Sch. 3 paras. 2-5](https://www.legislation.gov.uk/ukpga/2015/8/schedule/3/paragraph/2) omitted (1.1.2019) by virtue of [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [s. 37(5)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/5), [Sch. 3 para. 31](https://www.legislation.gov.uk/ukpga/2018/10/schedule/3/paragraph/31); [S.I. 2018/1330](https://www.legislation.gov.uk/uksi/2018/1330), [reg. 2(g)(vii)](https://www.legislation.gov.uk/uksi/2018/1330/regulation/2/g/vii)
+[^c-ab114f65cd1240bb561c1f8342298b62]: Textual amendment: [Sch. 3 paras. 2-5](https://www.legislation.gov.uk/ukpga/2015/8/schedule/3/paragraph/2) omitted (1.1.2019) by virtue of [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [s. 37(5)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/5), [Sch. 3 para. 31](https://www.legislation.gov.uk/ukpga/2018/10/schedule/3/paragraph/31); [S.I. 2018/1330](https://www.legislation.gov.uk/uksi/2018/1330), [reg. 2(g)(vii)](https://www.legislation.gov.uk/uksi/2018/1330/regulation/2/g/vii)
 
-[^key-96d5a3897e7201da4cde3bbe58129a0b]: Textual amendment: [Sch. 3 para. 8(b)](https://www.legislation.gov.uk/ukpga/2015/8/schedule/3/paragraph/8/b) omitted (1.1.2019) by virtue of [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [s. 37(5)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/5), [Sch. 3 para. 31](https://www.legislation.gov.uk/ukpga/2018/10/schedule/3/paragraph/31); [S.I. 2018/1330](https://www.legislation.gov.uk/uksi/2018/1330), [reg. 2(g)(vii)](https://www.legislation.gov.uk/uksi/2018/1330/regulation/2/g/vii)
+[^c-96d5a3897e7201da4cde3bbe58129a0b]: Textual amendment: [Sch. 3 para. 8(b)](https://www.legislation.gov.uk/ukpga/2015/8/schedule/3/paragraph/8/b) omitted (1.1.2019) by virtue of [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [s. 37(5)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/5), [Sch. 3 para. 31](https://www.legislation.gov.uk/ukpga/2018/10/schedule/3/paragraph/31); [S.I. 2018/1330](https://www.legislation.gov.uk/uksi/2018/1330), [reg. 2(g)(vii)](https://www.legislation.gov.uk/uksi/2018/1330/regulation/2/g/vii)
 
-[^key-fe56a4eee3b1027370b5cc78f764019c]: Textual amendment: [Sch. 3 paras. 9-11](https://www.legislation.gov.uk/ukpga/2015/8/schedule/3/paragraph/9) omitted (1.1.2019) by virtue of [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [s. 37(5)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/5), [Sch. 3 para. 31](https://www.legislation.gov.uk/ukpga/2018/10/schedule/3/paragraph/31); [S.I. 2018/1330](https://www.legislation.gov.uk/uksi/2018/1330), [reg. 2(g)(vii)](https://www.legislation.gov.uk/uksi/2018/1330/regulation/2/g/vii)
+[^c-fe56a4eee3b1027370b5cc78f764019c]: Textual amendment: [Sch. 3 paras. 9-11](https://www.legislation.gov.uk/ukpga/2015/8/schedule/3/paragraph/9) omitted (1.1.2019) by virtue of [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [s. 37(5)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/5), [Sch. 3 para. 31](https://www.legislation.gov.uk/ukpga/2018/10/schedule/3/paragraph/31); [S.I. 2018/1330](https://www.legislation.gov.uk/uksi/2018/1330), [reg. 2(g)(vii)](https://www.legislation.gov.uk/uksi/2018/1330/regulation/2/g/vii)
 
-[^key-bfb7dc084f3d4167ca019bc3e71fd192]: Textual amendment: [Sch. 3 paras. 13-15](https://www.legislation.gov.uk/ukpga/2015/8/schedule/3/paragraph/13) omitted (1.1.2019) by virtue of [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [s. 37(5)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/5), [Sch. 3 para. 31](https://www.legislation.gov.uk/ukpga/2018/10/schedule/3/paragraph/31); [S.I. 2018/1330](https://www.legislation.gov.uk/uksi/2018/1330), [reg. 2(g)(vii)](https://www.legislation.gov.uk/uksi/2018/1330/regulation/2/g/vii)
+[^c-bfb7dc084f3d4167ca019bc3e71fd192]: Textual amendment: [Sch. 3 paras. 13-15](https://www.legislation.gov.uk/ukpga/2015/8/schedule/3/paragraph/13) omitted (1.1.2019) by virtue of [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [s. 37(5)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/5), [Sch. 3 para. 31](https://www.legislation.gov.uk/ukpga/2018/10/schedule/3/paragraph/31); [S.I. 2018/1330](https://www.legislation.gov.uk/uksi/2018/1330), [reg. 2(g)(vii)](https://www.legislation.gov.uk/uksi/2018/1330/regulation/2/g/vii)
 
-[^key-ed57e69652c5e56b5850c0355e5e9621]: Textual amendment: [Sch. 3 para. 17](https://www.legislation.gov.uk/ukpga/2015/8/schedule/3/paragraph/17) omitted (1.1.2019) by virtue of [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [s. 37(5)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/5), [Sch. 3 para. 31](https://www.legislation.gov.uk/ukpga/2018/10/schedule/3/paragraph/31); [S.I. 2018/1330](https://www.legislation.gov.uk/uksi/2018/1330), [reg. 2(g)(vii)](https://www.legislation.gov.uk/uksi/2018/1330/regulation/2/g/vii)
+[^c-ed57e69652c5e56b5850c0355e5e9621]: Textual amendment: [Sch. 3 para. 17](https://www.legislation.gov.uk/ukpga/2015/8/schedule/3/paragraph/17) omitted (1.1.2019) by virtue of [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [s. 37(5)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/5), [Sch. 3 para. 31](https://www.legislation.gov.uk/ukpga/2018/10/schedule/3/paragraph/31); [S.I. 2018/1330](https://www.legislation.gov.uk/uksi/2018/1330), [reg. 2(g)(vii)](https://www.legislation.gov.uk/uksi/2018/1330/regulation/2/g/vii)

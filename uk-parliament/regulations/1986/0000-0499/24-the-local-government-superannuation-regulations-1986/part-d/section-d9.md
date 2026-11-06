@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## D9. Previous service of certain whole-time manual workers[^key-c5c2cc9691d6aa8e66a3c21cdee76ae6]
+## D9. Previous service of certain whole-time manual workers[^c-c5c2cc9691d6aa8e66a3c21cdee76ae6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ A pensionable employee who has made a payment in accordance with regulation C7 i
 
 ## Annotations
 
-[^key-c5c2cc9691d6aa8e66a3c21cdee76ae6]: Commencement: [Reg. D9](https://www.legislation.gov.uk/uksi/1986/24/regulation/D9) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-c5c2cc9691d6aa8e66a3c21cdee76ae6]: Commencement: [Reg. D9](https://www.legislation.gov.uk/uksi/1986/24/regulation/D9) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

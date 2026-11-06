@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Children's hearing to provide advice to sheriff in relation to application[^key-61b194e260ba9e6b6e15678a592364a9]
+## 50. Children's hearing to provide advice to sheriff in relation to application[^c-61b194e260ba9e6b6e15678a592364a9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Principal Reporter may arrange a children's hearing for the purpose of provi
 
 ## Annotations
 
-[^key-61b194e260ba9e6b6e15678a592364a9]: Commencement: S. 50 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-61b194e260ba9e6b6e15678a592364a9]: Commencement: S. 50 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

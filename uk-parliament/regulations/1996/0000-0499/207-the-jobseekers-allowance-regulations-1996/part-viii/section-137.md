@@ -16,8 +16,8 @@ summary: ''
 
 ## 137. Disregard of contribution
 
-Where the claimant or his partner is a student and, for the purposes of assessing a contribution to the student’s grant or student loan[^key-2e4a2f5291a639c47b50d500e4237ee0], the other partner’s income has been taken into account, an amount equal to that contribution shall be disregarded for the purposes of assessing that other partner’s income.
+Where the claimant or his partner is a student and, for the purposes of assessing a contribution to the student’s grant or student loan[^c-2e4a2f5291a639c47b50d500e4237ee0], the other partner’s income has been taken into account, an amount equal to that contribution shall be disregarded for the purposes of assessing that other partner’s income.
 
 ## Annotations
 
-[^key-2e4a2f5291a639c47b50d500e4237ee0]: Textual amendment: Words in reg. 137 inserted (with effect in accordance with reg. 1(1)(b) of the amending S.I.) by [The Social Security Amendment (Students) Regulations 1999 (S.I. 1999/1935)](https://www.legislation.gov.uk/uksi/1999/1935), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1999/1935/regulation/1/1/b), [2(6)](https://www.legislation.gov.uk/uksi/1999/1935/regulation/2/6)
+[^c-2e4a2f5291a639c47b50d500e4237ee0]: Textual amendment: Words in reg. 137 inserted (with effect in accordance with reg. 1(1)(b) of the amending S.I.) by [The Social Security Amendment (Students) Regulations 1999 (S.I. 1999/1935)](https://www.legislation.gov.uk/uksi/1999/1935), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1999/1935/regulation/1/1/b), [2(6)](https://www.legislation.gov.uk/uksi/1999/1935/regulation/2/6)

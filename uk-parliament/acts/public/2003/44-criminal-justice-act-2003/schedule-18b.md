@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 18B — Offences relevant to public protection decisions[^key-a3ae31e49e49c17bafcd4ab958e8239f]
+## SCHEDULE 18B — Offences relevant to public protection decisions[^c-a3ae31e49e49c17bafcd4ab958e8239f]
 
 *Extent: E+W*
 
@@ -333,4 +333,4 @@ An offence under any of the following paragraphs of Schedule 4 to the Space Indu
 
 ## Annotations
 
-[^key-a3ae31e49e49c17bafcd4ab958e8239f]: Textual amendment: [Sch. 18B](https://www.legislation.gov.uk/ukpga/2003/44/schedule/18B) inserted (3.4.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/2024/21/schedule/2); [S.I. 2025/441](https://www.legislation.gov.uk/uksi/2025/441), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/441/regulation/2/b)
+[^c-a3ae31e49e49c17bafcd4ab958e8239f]: Textual amendment: [Sch. 18B](https://www.legislation.gov.uk/ukpga/2003/44/schedule/18B) inserted (3.4.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/2024/21/schedule/2); [S.I. 2025/441](https://www.legislation.gov.uk/uksi/2025/441), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/441/regulation/2/b)

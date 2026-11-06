@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Appeals from reviews under section 86[^key-c5c0a301900c823977480d517532e57e]
+## 88. Appeals from reviews under section 86[^c-c5c0a301900c823977480d517532e57e]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5c0a301900c823977480d517532e57e]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2015/6/section/88) in force at 23.1.2017 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 3(b)](https://www.legislation.gov.uk/ssi/2016/363/article/3/b)
+[^c-c5c0a301900c823977480d517532e57e]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2015/6/section/88) in force at 23.1.2017 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 3(b)](https://www.legislation.gov.uk/ssi/2016/363/article/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Requirements for recreational shooting facilities[^key-aa873877463167c925901c7ee99e78c2]
+## 23. Requirements for recreational shooting facilities[^c-aa873877463167c925901c7ee99e78c2]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ which is operated with a view to making a profit.
 
 ## Annotations
 
-[^key-aa873877463167c925901c7ee99e78c2]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2015/10/section/23) in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-aa873877463167c925901c7ee99e78c2]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2015/10/section/23) in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))

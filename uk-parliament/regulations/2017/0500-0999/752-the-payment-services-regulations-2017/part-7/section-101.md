@@ -24,7 +24,7 @@ summary: ''
 
 (2) A payment service provider must put in place and apply adequate and effective complaint resolution procedures for the settlement of complaints from payment service users about the rights and obligations arising under Parts 6 and 7.
 
-(3)[^key-652a08ed0d1b21cb5b9e34023f5074a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-652a08ed0d1b21cb5b9e34023f5074a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) When a payment service provider receives a complaint from a payment service user, the payment service provider must make every possible effort to address all points raised in a reply to the complaint on paper or, if agreed between payment service provider and payment service user, in another durable medium.
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-652a08ed0d1b21cb5b9e34023f5074a6]: Textual amendment: [Reg. 101(3)](https://www.legislation.gov.uk/uksi/2017/752/regulation/101/3) omitted (31.12.2020) by virtue of [The Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1201)](https://www.legislation.gov.uk/uksi/2018/1201), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1201/regulation/1/3), [Sch. 2 para. 49](https://www.legislation.gov.uk/uksi/2018/1201/schedule/2/paragraph/49) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1201/regulation/4), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1201/schedule/3/part/2)) (as amended by [S.I. 2020/56](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/56/regulation/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-652a08ed0d1b21cb5b9e34023f5074a6]: Textual amendment: [Reg. 101(3)](https://www.legislation.gov.uk/uksi/2017/752/regulation/101/3) omitted (31.12.2020) by virtue of [The Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1201)](https://www.legislation.gov.uk/uksi/2018/1201), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1201/regulation/1/3), [Sch. 2 para. 49](https://www.legislation.gov.uk/uksi/2018/1201/schedule/2/paragraph/49) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1201/regulation/4), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1201/schedule/3/part/2)) (as amended by [S.I. 2020/56](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/56/regulation/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3 — Reply by respondent[^key-58807c8c04ac8ece86f294addd91d5d0]
+## SCHEDULE 3 — Reply by respondent[^c-58807c8c04ac8ece86f294addd91d5d0]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Regulation 46(1)
 
 ## Annotations
 
-[^key-58807c8c04ac8ece86f294addd91d5d0]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2006/261/schedule/3) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-58807c8c04ac8ece86f294addd91d5d0]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2006/261/schedule/3) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)

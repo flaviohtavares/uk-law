@@ -60,8 +60,8 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
     - (i) any part of the scheme;
     - (ii) any benefits payable under the scheme rules; or
     - (iii) any members of the scheme; or
-  - (b) made any other arrangements for the purposes of securing that the assets of the scheme are sufficient to meet any part of its liabilities; [^key-0c4521670f9cb09807fdcbad2aa93238]...
-- “secured part” means any part of a partially guaranteed scheme which is not an unsecured part;[^key-69491495b69af395949c0586b2831e07]
+  - (b) made any other arrangements for the purposes of securing that the assets of the scheme are sufficient to meet any part of its liabilities; [^c-0c4521670f9cb09807fdcbad2aa93238]...
+- “secured part” means any part of a partially guaranteed scheme which is not an unsecured part;[^c-69491495b69af395949c0586b2831e07]
 - “the Treaty” means the Treaty on the Functioning of the European Union; and
 - “**unsecured part**” means any part of a partially guaranteed scheme—
   - (a) in respect of which no guarantee has been given by a relevant public authority; and
@@ -71,16 +71,16 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 ## 2. Modification of Part 2 of the Act
 
-(1)[^key-05fdb37b4552756631854aafff68d0ac] In relation to a partially guaranteed scheme, Part 2 of the Act (the Board of the Pension Protection Fund) applies with the modifications prescribed in regulations 3 to 11.[^key-890d43ec34772624622b660a17917dee]
+(1)[^c-05fdb37b4552756631854aafff68d0ac] In relation to a partially guaranteed scheme, Part 2 of the Act (the Board of the Pension Protection Fund) applies with the modifications prescribed in regulations 3 to 11.[^c-890d43ec34772624622b660a17917dee]
 
-(2)[^key-2d1b8039d24f65a1b8920b368f2b075e] Paragraph (1) shall not apply in relation to a partially guaranteed scheme where—
+(2)[^c-2d1b8039d24f65a1b8920b368f2b075e] Paragraph (1) shall not apply in relation to a partially guaranteed scheme where—
 
 - (a) the scheme was in existence immediately prior to IP completion day; and
 - (b) the application of paragraph (1) immediately prior to IP completion day would have given rise to State aid that was incompatible with the internal market within the meaning of Article 107 of the Treaty as it had effect in the United Kingdom immediately prior to IP completion day.
 
-(3)[^key-5a60ed0d4c13af28eebaf4ebb6d135b5] Regulations 2A (schemes to which paragraph (1) of regulation 2 does not apply) and 11 (general interpretation) shall apply where paragraph (1) does not apply to a partially guaranteed scheme by virtue of paragraph (2).
+(3)[^c-5a60ed0d4c13af28eebaf4ebb6d135b5] Regulations 2A (schemes to which paragraph (1) of regulation 2 does not apply) and 11 (general interpretation) shall apply where paragraph (1) does not apply to a partially guaranteed scheme by virtue of paragraph (2).
 
-## 2A. Schemes to which paragraph (1) of regulation 2 does not apply[^key-b24d7193411d1dbd9ecf43cf49759b6d]
+## 2A. Schemes to which paragraph (1) of regulation 2 does not apply[^c-b24d7193411d1dbd9ecf43cf49759b6d]
 
 (1) This regulation applies to a partially guaranteed scheme to which paragraph (1) of regulation 2 does not apply by virtue of paragraph (2) of that regulation.
 
@@ -95,9 +95,9 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 - (a) section 127(2)(a) and (4)(a) (duty to assume responsibility for schemes following insolvency event);
 - (b) section 128(2)(a) and (3)(a) (duty to assume responsibility for schemes following application or notification);
 - (c) section 136(5) (power to validate contraventions of section 135);
-- (ca)[^key-d85c725879e3ffb8ac11febf9fcde57a] section 143(5B)(b) and (c) (Board’s obligation to obtain valuation of assets and protected liabilities);
+- (ca)[^c-d85c725879e3ffb8ac11febf9fcde57a] section 143(5B)(b) and (c) (Board’s obligation to obtain valuation of assets and protected liabilities);
 - (d) section 151(9)(a) (application for reconsideration);
-- (e) section 152(2B), (9)(a), (10A)[^key-309adb86a8321cb17c4ecc89bbab68d0] and (11) (duty to assume responsibility following reconsideration); and
+- (e) section 152(2B), (9)(a), (10A)[^c-309adb86a8321cb17c4ecc89bbab68d0] and (11) (duty to assume responsibility following reconsideration); and
 - (f) section 158(2) (duty to assume responsibility for closed schemes).
 
 (2) The following sections of the Act apply as if, for the words “an eligible scheme” each time they occur, there were substituted the words “ the unsecured part of an eligible scheme ”
@@ -130,14 +130,14 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 - (c) section 140(2)(a) (reviewable ill health pensions);
 - (d) section 141(2), (3)(a), (4) and (5)(a) (effect of a review);
 - (e) section 142(1) and (4) (sections 140 and 141: interpretation);
-- (f) section 143(2) ,(2A)(a), (5A)(a) and (b)[^key-9dd749c7849be49edf46df8e8a6cd76f] and (11)(a) and (b) (Board's obligation to obtain valuation of assets and protected liabilities);
-- (fa)[^key-2889b5e1776d3bb005f4ac287ce5e11d] section 143A(1)(b) (determinations under section 143);
+- (f) section 143(2) ,(2A)(a), (5A)(a) and (b)[^c-9dd749c7849be49edf46df8e8a6cd76f] and (11)(a) and (b) (Board's obligation to obtain valuation of assets and protected liabilities);
+- (fa)[^c-2889b5e1776d3bb005f4ac287ce5e11d] section 143A(1)(b) (determinations under section 143);
 - (g) section 146(1) (schemes which become eligible schemes);
 - (h) section 151(1), (2)(b) and (c) and (3)(b) and (c) (application for reconsideration);
-- (i) section 152(2), (2A), (2B), (5) and (10A)[^key-adcbd63af37569b57dccdb69efa59fcc] (duty to assume responsibility following reconsideration);
+- (i) section 152(2), (2A), (2B), (5) and (10A)[^c-adcbd63af37569b57dccdb69efa59fcc] (duty to assume responsibility following reconsideration);
 - (j) section 154(2)(c) and (5)(b) and (c) (requirement to wind up schemes with sufficient assets to meet protected liabilities);
 - (k) section 157(1) and (3) (applications and notifications where closed schemes have insufficient assets);
-- (l) section 158(1), (3) and (3A)[^key-0c71c8f0aabdfc1f4e83b7f82aa3665b] (duty to assume responsibility for closed schemes);
+- (l) section 158(1), (3) and (3A)[^c-0c71c8f0aabdfc1f4e83b7f82aa3665b] (duty to assume responsibility for closed schemes);
 - (m) section 159(3)(b)(ii) (closed schemes: further assessment periods)
 - (n) section 161(1), (2)(a), (3) and (7)(b) (effect of Board assuming responsibility for a scheme);
 - (o) section 163(3)(a) (adjustments to be made where the Board assumes responsibility for a scheme);
@@ -145,7 +145,7 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 - (q) section 166(5)(a) and (6) (duty to pay scheme benefits unpaid at assessment date etc); and
 - (r) section 172(4) and (6) (relationship with fraud compensation regime).
 
-(5)[^key-b3086097363401a1ab11cb1893005d27] Section 175(2)(a)(i) of the Act (pension protection levies) applies as if, for “a scheme’s assets” there were substituted “the assets of the unsecured part of a scheme”.
+(5)[^c-b3086097363401a1ab11cb1893005d27] Section 175(2)(a)(i) of the Act (pension protection levies) applies as if, for “a scheme’s assets” there were substituted “the assets of the unsecured part of a scheme”.
 
 ## 4. Circumstances in which Board assumes responsibility for eligible schemes[^c2195339]
 
@@ -192,7 +192,7 @@ Section 147 of the Act (new schemes created to replace existing schemes) applies
   - (ii) for the words “member of the scheme” there were substituted the words “ member of the unsecured part ”; and
   - (iii) in paragraph (a) of that definition, for the words “responsibility for the scheme” there were substituted the words “ responsibility for the unsecured part ”.
 
-(2)[^key-61efa7dbdd964e8aeeaa29ad38f61d87] Section 152 of the Act (duty to assume responsibility following reconsideration) applies as if—
+(2)[^c-61efa7dbdd964e8aeeaa29ad38f61d87] Section 152 of the Act (duty to assume responsibility following reconsideration) applies as if—
 
 - (a) in subsection (2B), for the words “protected liabilities” there were substituted the words “protected liabilities of the unsecured part”; and
 - (b) in subsection (9)(b), for the words “liabilities of the scheme” there were substituted the words “liabilities of the unsecured part
@@ -238,20 +238,20 @@ Section 147 of the Act (new schemes created to replace existing schemes) applies
 
 (1) Section 160 of the Act (transfer notice) applies as if—
 
-- (za)[^key-1efb4e39455f6809c3aea54946664260] in subsection (3) for “determination made or valuation obtained under section 143(2)” substitute “valuation obtained under section 143”;
+- (za)[^c-1efb4e39455f6809c3aea54946664260] in subsection (3) for “determination made or valuation obtained under section 143(2)” substitute “valuation obtained under section 143”;
 - (zb) in subsection (4) the words “determination made or” were omitted;
 - (a) after subsection (4), there were inserted the following subsection—
 
   > (4A) The Board shall, as soon as reasonably practicable after it is required to assume responsibility for an unsecured part, obtain a further actuarial valuation of the assets and protected liabilities of that part as at the date on which it is required to assume responsibility for that part; and a transfer notice may not be given in relation to the unsecured part until that valuation has been approved by the Board and become binding.
 - (b) after subsection (7), there were added the following subsections—
 
-  > (8) Subject to subsection (9), the following provisions apply in relation to a valuation obtained under subsection (4A) as they apply in relation to a valuation and not a determination[^key-ef8b70c216db4c5051c967a335949b1a] obtained under section 143 (Board's obligation to obtain valuation of assets and protected liabilities)—
+  > (8) Subject to subsection (9), the following provisions apply in relation to a valuation obtained under subsection (4A) as they apply in relation to a valuation and not a determination[^c-ef8b70c216db4c5051c967a335949b1a] obtained under section 143 (Board's obligation to obtain valuation of assets and protected liabilities)—
   >
   > - (a) subsections (4) to (7) and (11)(a), (b) and (d) of that section;
   > - (b) section 144 (approval of valuation); and
   > - (c) section 145 (binding valuations), other than subsection (2).
   >
-  > (9) In the application of section 143 by virtue of subsection (8), subsections subsections (5), (5A)(b), (5B)(b) and (11)(b)[^key-66512cbea16b4765b0358dc09f70ad46] of that section apply as if the references to the “**relevant time**” were to the date on which the Board is required to assume responsibility for the unsecured part.
+  > (9) In the application of section 143 by virtue of subsection (8), subsections subsections (5), (5A)(b), (5B)(b) and (11)(b)[^c-66512cbea16b4765b0358dc09f70ad46] of that section apply as if the references to the “**relevant time**” were to the date on which the Board is required to assume responsibility for the unsecured part.
 
 (2) Section 161 of the Act (effect of Board assuming responsibility for a scheme) applies as if in subsection (2)—
 
@@ -335,35 +335,35 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c999924]: Marginal citation: *See* section 307(4) of the Act for the meaning of “relevant public authority”.
 
-[^key-0c4521670f9cb09807fdcbad2aa93238]: Textual amendment: Word in reg. 1(2) omitted (8.3.2010) by virtue of [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2010/196/regulation/2/2/a)
+[^c-0c4521670f9cb09807fdcbad2aa93238]: Textual amendment: Word in reg. 1(2) omitted (8.3.2010) by virtue of [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2010/196/regulation/2/2/a)
 
-[^key-69491495b69af395949c0586b2831e07]: Textual amendment: Words in reg. 1(2) inserted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2010/196/regulation/2/2/b)
+[^c-69491495b69af395949c0586b2831e07]: Textual amendment: Words in reg. 1(2) inserted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2010/196/regulation/2/2/b)
 
-[^key-05fdb37b4552756631854aafff68d0ac]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/277/regulation/2/1): reg. 2 renumbered as reg. 2(1) (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2010/196/regulation/2/3/a)
+[^c-05fdb37b4552756631854aafff68d0ac]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/277/regulation/2/1): reg. 2 renumbered as reg. 2(1) (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2010/196/regulation/2/3/a)
 
-[^key-890d43ec34772624622b660a17917dee]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/277/regulation/2/1) substituted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2010/196/regulation/2/3/b)
+[^c-890d43ec34772624622b660a17917dee]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/277/regulation/2/1) substituted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2010/196/regulation/2/3/b)
 
-[^key-2d1b8039d24f65a1b8920b368f2b075e]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2005/277/regulation/2/2) substituted (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2020/1470/schedule/2/paragraph/7/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-2d1b8039d24f65a1b8920b368f2b075e]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2005/277/regulation/2/2) substituted (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2020/1470/schedule/2/paragraph/7/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
 
-[^key-5a60ed0d4c13af28eebaf4ebb6d135b5]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2005/277/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2005/277/regulation/2/3) inserted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2010/196/regulation/2/3/c)
+[^c-5a60ed0d4c13af28eebaf4ebb6d135b5]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2005/277/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2005/277/regulation/2/3) inserted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2010/196/regulation/2/3/c)
 
-[^key-b24d7193411d1dbd9ecf43cf49759b6d]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2005/277/regulation/2A) inserted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2010/196/regulation/2/4)
+[^c-b24d7193411d1dbd9ecf43cf49759b6d]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2005/277/regulation/2A) inserted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2010/196/regulation/2/4)
 
 [^c2195338]: Commencement: Reg. 3 partly in force; reg. 3 not in force at made date; reg. 3(4)(d)(g) in force at 8.3.2005 for certain purposes and reg. 3 in force at 6.4.2005 in so far as not already in force see reg. 1(1)
 
-[^key-d85c725879e3ffb8ac11febf9fcde57a]: Textual amendment: Reg. 3(1)(ca) inserted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2013/627/regulation/8/2/a)
+[^c-d85c725879e3ffb8ac11febf9fcde57a]: Textual amendment: Reg. 3(1)(ca) inserted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2013/627/regulation/8/2/a)
 
-[^key-309adb86a8321cb17c4ecc89bbab68d0]: Textual amendment: Words in reg. 3(1)(e) substituted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2013/627/regulation/8/2/b)
+[^c-309adb86a8321cb17c4ecc89bbab68d0]: Textual amendment: Words in reg. 3(1)(e) substituted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2013/627/regulation/8/2/b)
 
-[^key-9dd749c7849be49edf46df8e8a6cd76f]: Textual amendment: Words in reg. 3(4)(f) inserted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2013/627/regulation/8/3/a)
+[^c-9dd749c7849be49edf46df8e8a6cd76f]: Textual amendment: Words in reg. 3(4)(f) inserted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2013/627/regulation/8/3/a)
 
-[^key-2889b5e1776d3bb005f4ac287ce5e11d]: Textual amendment: Reg. 3(4)(fa) inserted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2013/627/regulation/8/3/b)
+[^c-2889b5e1776d3bb005f4ac287ce5e11d]: Textual amendment: Reg. 3(4)(fa) inserted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2013/627/regulation/8/3/b)
 
-[^key-adcbd63af37569b57dccdb69efa59fcc]: Textual amendment: Words in reg. 3(4)(i) substituted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [8(3)(c)](https://www.legislation.gov.uk/uksi/2013/627/regulation/8/3/c)
+[^c-adcbd63af37569b57dccdb69efa59fcc]: Textual amendment: Words in reg. 3(4)(i) substituted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [8(3)(c)](https://www.legislation.gov.uk/uksi/2013/627/regulation/8/3/c)
 
-[^key-0c71c8f0aabdfc1f4e83b7f82aa3665b]: Textual amendment: Words in reg. 3(4)(l) substituted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [8(3)(d)](https://www.legislation.gov.uk/uksi/2013/627/regulation/8/3/d)
+[^c-0c71c8f0aabdfc1f4e83b7f82aa3665b]: Textual amendment: Words in reg. 3(4)(l) substituted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [8(3)(d)](https://www.legislation.gov.uk/uksi/2013/627/regulation/8/3/d)
 
-[^key-b3086097363401a1ab11cb1893005d27]: Textual amendment: Reg. 3(5) inserted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2010/196/regulation/2/5)
+[^c-b3086097363401a1ab11cb1893005d27]: Textual amendment: Reg. 3(5) inserted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2010/196/regulation/2/5)
 
 [^c2195339]: Commencement: Reg. 4 partly in force; reg. 4 not in force at made date; reg. 4(2) in force at 8.3.2005 for certain purposes and reg. 4 in force at 6.4.2005 in so far as not already in force see reg. 1(1)
 
@@ -373,12 +373,12 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c2195342]: Commencement: Reg. 8 partly in force; reg. 8 not in force at made date; reg. 8(1)(a) in force at 8.3.2005 for certain purposes and reg. in force at 6.4.2005 in so far as not already in force see reg. 1(1)
 
-[^key-61efa7dbdd964e8aeeaa29ad38f61d87]: Textual amendment: [Reg. 8(2)](https://www.legislation.gov.uk/uksi/2005/277/regulation/8/2) substituted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2013/627/regulation/8/4)
+[^c-61efa7dbdd964e8aeeaa29ad38f61d87]: Textual amendment: [Reg. 8(2)](https://www.legislation.gov.uk/uksi/2005/277/regulation/8/2) substituted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2013/627/regulation/8/4)
 
 [^c2195343]: Commencement: Reg. 10 partly in force; reg. 10 not in force at made date; reg. 10(5) in force at 8.3.2005 for certain purposes and reg. 10 in force at 6.4.2005 in so far as not already in force see reg. 1(1)
 
-[^key-1efb4e39455f6809c3aea54946664260]: Textual amendment: Reg. 10(1)(za)(zb) inserted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [8(5)(a)](https://www.legislation.gov.uk/uksi/2013/627/regulation/8/5/a)
+[^c-1efb4e39455f6809c3aea54946664260]: Textual amendment: Reg. 10(1)(za)(zb) inserted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [8(5)(a)](https://www.legislation.gov.uk/uksi/2013/627/regulation/8/5/a)
 
-[^key-ef8b70c216db4c5051c967a335949b1a]: Textual amendment: Words in reg. 10(1)(b) inserted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [8(5)(b)(i)](https://www.legislation.gov.uk/uksi/2013/627/regulation/8/5/b/i)
+[^c-ef8b70c216db4c5051c967a335949b1a]: Textual amendment: Words in reg. 10(1)(b) inserted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [8(5)(b)(i)](https://www.legislation.gov.uk/uksi/2013/627/regulation/8/5/b/i)
 
-[^key-66512cbea16b4765b0358dc09f70ad46]: Textual amendment: Words in reg. 10(1)(b) substituted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [8(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/627/regulation/8/5/b/ii)
+[^c-66512cbea16b4765b0358dc09f70ad46]: Textual amendment: Words in reg. 10(1)(b) substituted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [8(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/627/regulation/8/5/b/ii)

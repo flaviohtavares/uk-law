@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 86. Applicable amounts for persons in residential care and nursing homes[^key-bf37003c3e9ea20a8c11837541c77262]
+## 86. Applicable amounts for persons in residential care and nursing homes[^c-bf37003c3e9ea20a8c11837541c77262]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ the applicable amount of a person resident in those premises shall be determined
 
 ## Annotations
 
-[^key-bf37003c3e9ea20a8c11837541c77262]: Commencement: Reg. 86 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-bf37003c3e9ea20a8c11837541c77262]: Commencement: Reg. 86 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

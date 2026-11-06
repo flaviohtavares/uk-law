@@ -26,7 +26,7 @@ summary: ''
 
 #### Overview
 
-**1.**[^key-1d530a25c127af0b6d71a5508e1df96b] (1) This schedule makes provision about the application of this Act in relation to leases.
+**1.**[^c-1d530a25c127af0b6d71a5508e1df96b] (1) This schedule makes provision about the application of this Act in relation to leases.
 
 (2) It is arranged as follows—
 
@@ -38,7 +38,7 @@ summary: ''
 
 #### Calculation of tax chargeable where chargeable consideration includes rent
 
-**2.**[^key-363f08b9337a39df2c44044e6cb17fc8] Where the chargeable consideration for a chargeable transaction to which this schedule applies consists of rent (or includes rent and chargeable consideration other than rent), the tax chargeable is the sum of—
+**2.**[^c-363f08b9337a39df2c44044e6cb17fc8] Where the chargeable consideration for a chargeable transaction to which this schedule applies consists of rent (or includes rent and chargeable consideration other than rent), the tax chargeable is the sum of—
 
 - (a) any tax chargeable on so much of the chargeable consideration as consists of rent, and
 - (b) any tax chargeable on so much of the chargeable consideration other than rent.
@@ -47,7 +47,7 @@ summary: ''
 
 #### Tax rates and tax bands
 
-**3.**[^key-8fa536f35340ff254eeae4a4bafba44d] (1) The Scottish Ministers must, by order, specify the tax bands and the percentage tax rates for each band applicable to chargeable consideration which consists of rent.
+**3.**[^c-8fa536f35340ff254eeae4a4bafba44d] (1) The Scottish Ministers must, by order, specify the tax bands and the percentage tax rates for each band applicable to chargeable consideration which consists of rent.
 
 (2) An order under sub-paragraph (1) must specify—
 
@@ -57,7 +57,7 @@ summary: ''
 
 #### Amount of tax chargeable in respect of rent
 
-**4.**[^key-656754c7f5c9c991a4ad9ba6199c9705] The amount of tax chargeable on so much of the chargeable consideration as consists of rent is to be determined as follows.
+**4.**[^c-656754c7f5c9c991a4ad9ba6199c9705] The amount of tax chargeable on so much of the chargeable consideration as consists of rent is to be determined as follows.
 
 - *Step 1* Calculate the net present value (NPV) of the rent payable over the term of the lease (see paragraph 6).
 - *Step 2* For each tax band, multiply so much of the NPV as falls within the band by the tax rate for that band.
@@ -65,7 +65,7 @@ summary: ''
 
 #### Amount of tax chargeable in respect of rent: linked transactions
 
-**5.**[^key-7adeeb105c3030774c48ae250bfcd85f] Where a chargeable transaction to which this schedule applies is one of a number of linked transactions for which the chargeable consideration consists of or includes rent, the amount of tax chargeable in respect of the rent is to be determined as follows.
+**5.**[^c-7adeeb105c3030774c48ae250bfcd85f] Where a chargeable transaction to which this schedule applies is one of a number of linked transactions for which the chargeable consideration consists of or includes rent, the amount of tax chargeable in respect of the rent is to be determined as follows.
 
 - *Step 1* Calculate the total of the net present values (TNPV) of the rent payable over the terms of all the leases (see paragraph 6).
 - *Step 2* For each tax band, multiply so much of the TNPV as falls within the band by the tax rate for that band.
@@ -75,7 +75,7 @@ summary: ''
 
 #### Net present value
 
-**6.**[^key-3ca0fceb3e75c104cafb2dc93c33e8cc] The net present value (NPV) of the rent payable over the term of a lease is calculated by applying the following formula—
+**6.**[^c-3ca0fceb3e75c104cafb2dc93c33e8cc] The net present value (NPV) of the rent payable over the term of a lease is calculated by applying the following formula—
 
 [formula: see source](https://www.legislation.gov.uk/asp/2013/11)
 
@@ -91,7 +91,7 @@ T is the temporal discount rate (see paragraph 7).
 
 #### Temporal discount rate
 
-**7.**[^key-9fae073a2e9c6441e29612067fbf791f] (1) For the purposes of this schedule the “temporal discount rate” is 3.5% or such other rate as may be specified by the Scottish Ministers by order.
+**7.**[^c-9fae073a2e9c6441e29612067fbf791f] (1) For the purposes of this schedule the “temporal discount rate” is 3.5% or such other rate as may be specified by the Scottish Ministers by order.
 
 (2) An order under this paragraph may—
 
@@ -104,13 +104,13 @@ T is the temporal discount rate (see paragraph 7).
 
 #### Amount of tax chargeable in respect of consideration other than rent: general
 
-**8.**[^key-7aca298c901e933c3b107b573bf990c9] (1) Where in the case of a transaction to which this schedule applies there is chargeable consideration other than rent, the provisions of this Act apply in relation to that consideration as in relation to other chargeable consideration (but see paragraph 9).
+**8.**[^c-7aca298c901e933c3b107b573bf990c9] (1) Where in the case of a transaction to which this schedule applies there is chargeable consideration other than rent, the provisions of this Act apply in relation to that consideration as in relation to other chargeable consideration (but see paragraph 9).
 
 (2) Where a transaction to which this schedule applies falls to be taken into account as a linked transaction for the purposes of section 26, no account is to be taken of rent in determining the relevant consideration.
 
 #### Amount of tax chargeable in respect of consideration other than rent: nil rate tax band
 
-**9.**[^key-3942dbd24652d2f9ca8f17930e0fe615] (1) This paragraph applies in the case of a transaction to which this schedule applies where—
+**9.**[^c-3942dbd24652d2f9ca8f17930e0fe615] (1) This paragraph applies in the case of a transaction to which this schedule applies where—
 
 - (a) there is chargeable consideration other than rent, and
 - (b) section 25 or 26 applies to the transaction.
@@ -153,7 +153,7 @@ T is the temporal discount rate (see paragraph 7).
 
 #### Regular review of tax chargeable
 
-**10.**[^key-578f7ceaa1a611e37a5e151c18ee0488] (1) This paragraph applies where, in relation to a chargeable transaction to which this schedule applies—
+**10.**[^c-578f7ceaa1a611e37a5e151c18ee0488] (1) This paragraph applies where, in relation to a chargeable transaction to which this schedule applies—
 
 - (a) the buyer made a land transaction return, or
 - (b) where such a return was not made, the buyer made—
@@ -185,7 +185,7 @@ T is the temporal discount rate (see paragraph 7).
 
 #### Review of tax chargeable on certain events
 
-**11.**[^key-f319e6f06b797f6fc2495a42d88e4145] (1) This paragraph applies where, in relation to a chargeable transaction to which this schedule applies—
+**11.**[^c-f319e6f06b797f6fc2495a42d88e4145] (1) This paragraph applies where, in relation to a chargeable transaction to which this schedule applies—
 
 - (a) paragraph 10 applies, and
 - (b) the lease—
@@ -206,13 +206,13 @@ T is the temporal discount rate (see paragraph 7).
 
 #### Rent
 
-**12.**[^key-130c0a7568867ab1bdf197492ddb26dc] (1) For the purposes of this Act, a single sum expressed to be payable in respect of rent, or expressed to be payable in respect of rent and other matters but not apportioned, is to be treated as entirely rent.
+**12.**[^c-130c0a7568867ab1bdf197492ddb26dc] (1) For the purposes of this Act, a single sum expressed to be payable in respect of rent, or expressed to be payable in respect of rent and other matters but not apportioned, is to be treated as entirely rent.
 
 (2) Sub-paragraph (1) is without prejudice to the application of paragraph 4 of schedule 2 (chargeable consideration: just and reasonable apportionment) where separate sums are expressed to be payable in respect of rent and other matters.
 
 #### Variable or uncertain rent
 
-**13.**[^key-9088492a653762f7f33af0067923e1e4] (1) This paragraph applies to determine the amount of rent payable under a lease where that amount—
+**13.**[^c-9088492a653762f7f33af0067923e1e4] (1) This paragraph applies to determine the amount of rent payable under a lease where that amount—
 
 - (a) varies in accordance with provision in the lease, or
 - (b) is contingent, uncertain or unascertained.
@@ -230,7 +230,7 @@ T is the temporal discount rate (see paragraph 7).
 
 #### Reverse premium
 
-**14.**[^key-fe3f54a33178d8e713f977113f35c76f] (1) In the case of the grant, assignation or renunciation of a lease a reverse premium does not count as chargeable consideration.
+**14.**[^c-fe3f54a33178d8e713f977113f35c76f] (1) In the case of the grant, assignation or renunciation of a lease a reverse premium does not count as chargeable consideration.
 
 (2) A “ **reverse premium** ” means—
 
@@ -240,7 +240,7 @@ T is the temporal discount rate (see paragraph 7).
 
 #### Tenant's obligations etc. that do not count as chargeable consideration
 
-**15.**[^key-e6a8b04eba1b39a11c4b4b2864f7066c] (1) In the case of the grant of a lease none of the following counts as chargeable consideration—
+**15.**[^c-e6a8b04eba1b39a11c4b4b2864f7066c] (1) In the case of the grant of a lease none of the following counts as chargeable consideration—
 
 - (a) any undertaking by the tenant to repair, maintain or insure the leased premises,
 - (b) any undertaking by the tenant to pay any amount in respect of services, repairs, maintenance or insurance or the landlord's costs of management,
@@ -256,7 +256,7 @@ T is the temporal discount rate (see paragraph 7).
 
 #### Assignation of lease: assumption of obligations by assignee
 
-**16.**[^key-cf98ad110fa2ab8b81c2bc2bab967507] In the case of an assignation of a lease the assumption by the assignee of the obligation—
+**16.**[^c-cf98ad110fa2ab8b81c2bc2bab967507] In the case of an assignation of a lease the assumption by the assignee of the obligation—
 
 - (a) to pay rent, or
 - (b) to perform or observe any other undertaking of the tenant under the lease,
@@ -265,7 +265,7 @@ does not count as chargeable consideration for the assignation.
 
 #### Loan or deposit in connection with grant or assignation of lease
 
-**17.**[^key-8424963de2e6f0f7a50c2858eae8b69b] (1) Where, under arrangements made in connection with the grant of a lease—
+**17.**[^c-8424963de2e6f0f7a50c2858eae8b69b] (1) Where, under arrangements made in connection with the grant of a lease—
 
 - (a) a tenant, or any person connected with or acting on behalf of the tenant, pays a deposit, or makes a loan, to any person, and
 - (b) the repayment of all or part of the deposit or loan is contingent on anything done or omitted to be done by the tenant or on the death of the tenant,
@@ -292,7 +292,7 @@ the amount of the deposit or loan (disregarding any repayment) is to be taken fo
 
 #### Renunciation of existing lease in return for new lease
 
-**18.**[^key-50501835c0439fe44c0d8da76309772e] (1) Where a lease is granted in consideration of the renunciation of an existing lease between the same parties—
+**18.**[^c-50501835c0439fe44c0d8da76309772e] (1) Where a lease is granted in consideration of the renunciation of an existing lease between the same parties—
 
 - (a) the grant of the new lease does not count as chargeable consideration for the renunciation, and
 - (b) the renunciation does not count as chargeable consideration for the grant of the new lease.
@@ -303,14 +303,14 @@ the amount of the deposit or loan (disregarding any repayment) is to be taken fo
 
 #### Meaning of lease for a fixed term
 
-**19.**[^key-8631a338cb9e87b58bd46a839a4af58f] In the application of this schedule to a lease for a fixed term, no account is to be taken of—
+**19.**[^c-8631a338cb9e87b58bd46a839a4af58f] In the application of this schedule to a lease for a fixed term, no account is to be taken of—
 
 - (a) any contingency as a result of which the lease may terminate before the end of the fixed term, or
 - (b) any right of either party to terminate the lease or renew it.
 
 #### Leases that continue after a fixed term
 
-**20.**[^key-5ee4dbe9c1fa82da9b1abdee228b5a12] (1) This paragraph applies to—
+**20.**[^c-5ee4dbe9c1fa82da9b1abdee228b5a12] (1) This paragraph applies to—
 
 - (a) a lease for a fixed term and thereafter until terminated, or
 - (b) a lease for a fixed term that may continue beyond the fixed term by operation of law.
@@ -342,7 +342,7 @@ the lease is to be treated as continuing under sub-paragraph (2) only until that
 
 #### Leases that continue after a fixed term: grant of new lease
 
-**21.**[^key-2462fd19e9590fa70b60268ec58478f5] (1) This paragraph applies where—
+**21.**[^c-2462fd19e9590fa70b60268ec58478f5] (1) This paragraph applies where—
 
 - (a) (ignoring this paragraph) paragraph 20 would apply to treat a lease (“the original lease”) as if it were a lease for a fixed term 1 year longer than the original term,
 - (b) during that 1 year period the tenant under that lease is granted a new lease of the same or substantially the same premises, and
@@ -358,7 +358,7 @@ the lease is to be treated as continuing under sub-paragraph (2) only until that
 
 #### Treatment of leases for indefinite term
 
-**22.**[^key-0775e79e923e112128352762e50bba5c] (1) For the purposes of this Act (except section 30 (notifiable transactions))—
+**22.**[^c-0775e79e923e112128352762e50bba5c] (1) For the purposes of this Act (except section 30 (notifiable transactions))—
 
 - (a) a lease for an indefinite term is treated in the first instance as if it were a lease for a fixed term of 1 year,
 - (b) if the lease continues after the end of the term resulting from the application of paragraph (a), it is treated as if it were a lease for a fixed term of 2 years,
@@ -378,7 +378,7 @@ and so on.
 
 #### Treatment of successive linked leases
 
-**23.**[^key-c99c7d0523719544c2730b62f6099991] (1) This paragraph applies where—
+**23.**[^c-c99c7d0523719544c2730b62f6099991] (1) This paragraph applies where—
 
 - (a) successive leases are granted or treated as granted (whether at the same time or at different times) of the same or substantially the same premises, and
 - (b) those grants are linked transactions.
@@ -393,23 +393,23 @@ and so on.
 
 #### Rent for overlap period in case of grant of further lease
 
-**24.**[^key-9ce3478a8d04cab734f1dca4b5d5f896] (1) This paragraph applies where—
+**24.**[^c-9ce3478a8d04cab734f1dca4b5d5f896] (1) This paragraph applies where—
 
-- (a)[^key-b1f49d5d9abdffe2ddb88a253ea4568a] A renounces an existing lease to B (“the old lease”) and in consideration of that renunciation B grants a lease to A of the same or substantially the same premises (“ **the new lease** ”),
-- (b)[^key-b1f49d5d9abdffe2ddb88a253ea4568a] on termination of a lease (“the head lease”) a sub-tenant is granted a lease (“ **the new lease** ”) of the same or substantially the same premises as those comprised in the tenant's original lease (“the old lease”) in pursuance of a contractual entitlement arising in the event of the head lease being terminated, or
-- (c)[^key-b1f49d5d9abdffe2ddb88a253ea4568a] a person who has guaranteed the obligations of a tenant under a lease that has been terminated (“the old lease”) is granted a lease of the same or substantially the same premises (“ **the new lease** ”) in pursuance of the guarantee.
+- (a)[^c-b1f49d5d9abdffe2ddb88a253ea4568a] A renounces an existing lease to B (“the old lease”) and in consideration of that renunciation B grants a lease to A of the same or substantially the same premises (“ **the new lease** ”),
+- (b)[^c-b1f49d5d9abdffe2ddb88a253ea4568a] on termination of a lease (“the head lease”) a sub-tenant is granted a lease (“ **the new lease** ”) of the same or substantially the same premises as those comprised in the tenant's original lease (“the old lease”) in pursuance of a contractual entitlement arising in the event of the head lease being terminated, or
+- (c)[^c-b1f49d5d9abdffe2ddb88a253ea4568a] a person who has guaranteed the obligations of a tenant under a lease that has been terminated (“the old lease”) is granted a lease of the same or substantially the same premises (“ **the new lease** ”) in pursuance of the guarantee.
 
 (2) For the purposes of this Act the rent payable under the new lease in respect of any period falling within the overlap period is treated as reduced by the amount of the rent that would have been payable in respect of that period under the old lease.
 
 (3) The overlap period is the period between the date of grant of the new lease and what would have been the end of the term of the old lease had it not been terminated.
 
-(4)[^key-be5d932ae73b9dcb7391219e2dd8b953] The rent that would have been payable under the old lease is to be taken to be the amount taken into account in determining the tax chargeable in respect of the acquisition of the old lease.
+(4)[^c-be5d932ae73b9dcb7391219e2dd8b953] The rent that would have been payable under the old lease is to be taken to be the amount taken into account in determining the tax chargeable in respect of the acquisition of the old lease.
 
 (5) This paragraph does not have effect so as to require the rent payable under the new lease to be treated as a negative amount.
 
 #### Agreement for lease substantially performed etc.
 
-**25.**[^key-ccd58dc084fa6bfe53132cbf9c424fa5] (1) Where—
+**25.**[^c-ccd58dc084fa6bfe53132cbf9c424fa5] (1) Where—
 
 - (a) there is an agreement (including missives not constituting a lease) under which a lease is to be executed, and
 - (b) the agreement is substantially performed without a lease having been executed,
@@ -436,13 +436,13 @@ the agreement is treated as if it were the grant of a lease in accordance with t
 
 (7) That repayment must be claimed by amendment of the return made in respect of the agreement.
 
-(7A)[^key-fccd92013a5e562625a43cf58ac32948] For the period allowed for amendment of returns, see section 83 of the Revenue Scotland and Tax Powers Act 2014 (asp 16).
+(7A)[^c-fccd92013a5e562625a43cf58ac32948] For the period allowed for amendment of returns, see section 83 of the Revenue Scotland and Tax Powers Act 2014 (asp 16).
 
 (8) In this paragraph, references to the execution of a lease are to the execution of a lease that either is in conformity with, or relates to substantially the same premises and term as, the agreement.
 
 #### Missives of let followed by execution of formal lease
 
-**26.**[^key-46101bee1c89d2f151ef1386958ff882] (1) Where a lease is constituted by concluded missives of let (“the first lease”) and at some later time a lease is executed (“the second lease”), the first lease is treated as if it were a lease granted—
+**26.**[^c-46101bee1c89d2f151ef1386958ff882] (1) Where a lease is constituted by concluded missives of let (“the first lease”) and at some later time a lease is executed (“the second lease”), the first lease is treated as if it were a lease granted—
 
 - (a) on the date the missives of let were concluded,
 - (b) for a term which begins with that date and ends at the end of the term of the second lease, and
@@ -462,9 +462,9 @@ the agreement is treated as if it were the grant of a lease in accordance with t
 
 #### Cases where assignation of lease treated as grant of lease
 
-**27.**[^key-4d9d6ae5c39eaf160ede0ab5a812b263][^key-621ec68c32e6795253f03b41df08a761] (1)[^key-beebdc5fc8df404384119cbf1f8fef9d] This paragraph applies where the grant of a lease is exempt from charge by virtue of any of the provisions specified in sub-paragraph (3).
+**27.**[^c-4d9d6ae5c39eaf160ede0ab5a812b263][^c-621ec68c32e6795253f03b41df08a761] (1)[^c-beebdc5fc8df404384119cbf1f8fef9d] This paragraph applies where the grant of a lease is exempt from charge by virtue of any of the provisions specified in sub-paragraph (3).
 
-(2)[^key-3b3c05cb9b25af9564239a380b13f65d] The first assignation of the lease that is not exempt from charge by virtue of any of the provisions specified in sub-paragraph (3), and in relation to which the assignee does not acquire the lease as a bare trustee of the assignor, is treated for the purposes of this Act as if it were the grant of a lease by the assignor—
+(2)[^c-3b3c05cb9b25af9564239a380b13f65d] The first assignation of the lease that is not exempt from charge by virtue of any of the provisions specified in sub-paragraph (3), and in relation to which the assignee does not acquire the lease as a bare trustee of the assignor, is treated for the purposes of this Act as if it were the grant of a lease by the assignor—
 
 - (a) for a term equal to the unexpired term of the lease referred to in sub-paragraph (1), and
 - (b) on the same terms as those on which the assignee holds that lease after the assignation.
@@ -477,8 +477,8 @@ the agreement is treated as if it were the grant of a lease in accordance with t
 - (d) schedule 11 (reconstruction relief and acquisition relief),
 - (e) schedule 13 (charities relief),
 - (f) schedule 16 (public bodies relief),
-- (g)[^key-9d8a60d19975930e0c50493b186a2fc3] schedule 16D (green freeports relief),
-- (h)[^key-8029a4259ec369f8ca74dc19bc7d3405] schedule 16E (investment zones relief).
+- (g)[^c-9d8a60d19975930e0c50493b186a2fc3] schedule 16D (green freeports relief),
+- (h)[^c-8029a4259ec369f8ca74dc19bc7d3405] schedule 16E (investment zones relief).
 
 (4) This paragraph does not apply where the relief in question is group relief, reconstruction relief, acquisition relief or charities relief and is withdrawn as a result of a disqualifying event occurring before the effective date of the assignation.
 
@@ -490,7 +490,7 @@ the agreement is treated as if it were the grant of a lease in accordance with t
 
 #### Assignation of lease: responsibility of assignee for returns etc.
 
-**28.**[^key-5a36a86ec5efb6cff4f506bf0edda819] (1) Where a lease is assigned, anything that but for the assignation would be required or authorised to be done by or in relation to the assignor under or by virtue of any provision mentioned in sub-paragraph (2) must, if the event giving rise to the adjustment or return occurs after the effective date of the assignation, be done instead by or in relation to the assignee.
+**28.**[^c-5a36a86ec5efb6cff4f506bf0edda819] (1) Where a lease is assigned, anything that but for the assignation would be required or authorised to be done by or in relation to the assignor under or by virtue of any provision mentioned in sub-paragraph (2) must, if the event giving rise to the adjustment or return occurs after the effective date of the assignation, be done instead by or in relation to the assignee.
 
 (2) The provisions are—
 
@@ -508,7 +508,7 @@ the agreement is treated as if it were the grant of a lease in accordance with t
 
 #### Reduction of rent or term or other variation of lease
 
-**29.**[^key-9a7764dd1722ba3964d95ee8c7ba911d] (1) Where a lease is varied so as to reduce the amount of the rent, the variation is treated for the purposes of this Act as an acquisition of a chargeable interest by the tenant.
+**29.**[^c-9a7764dd1722ba3964d95ee8c7ba911d] (1) Where a lease is varied so as to reduce the amount of the rent, the variation is treated for the purposes of this Act as an acquisition of a chargeable interest by the tenant.
 
 (2) Where any consideration in money or money's worth (other than an increase in rent) is given by the tenant for any variation of a lease, other than a variation of the amount of the rent or of the term of the lease, the variation is treated for the purposes of this Act as an acquisition of a chargeable interest by the tenant.
 
@@ -516,7 +516,7 @@ the agreement is treated as if it were the grant of a lease in accordance with t
 
 #### Increase of rent or term: notification
 
-**30.**[^key-7d709e12df5494d56a7db4909ce71291] (1) This paragraph applies where, in relation to a land transaction in respect of a lease which was not notifiable under section 30 (notifiable transactions)—
+**30.**[^c-7d709e12df5494d56a7db4909ce71291] (1) This paragraph applies where, in relation to a land transaction in respect of a lease which was not notifiable under section 30 (notifiable transactions)—
 
 - (a) the lease is varied so as to—
   - (i) extend its term, or
@@ -538,78 +538,78 @@ the agreement is treated as if it were the grant of a lease in accordance with t
 
 ## Annotations
 
-[^key-1d530a25c127af0b6d71a5508e1df96b]: Commencement: Sch. 19 para. 1 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-1d530a25c127af0b6d71a5508e1df96b]: Commencement: Sch. 19 para. 1 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-363f08b9337a39df2c44044e6cb17fc8]: Commencement: Sch. 19 para. 2 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-363f08b9337a39df2c44044e6cb17fc8]: Commencement: Sch. 19 para. 2 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-8fa536f35340ff254eeae4a4bafba44d]: Commencement: Sch. 19 para. 3 in force at 7.11.2014 by [S.S.I. 2014/279](https://www.legislation.gov.uk/ssi/2014/279) , [art. 2](https://www.legislation.gov.uk/ssi/2014/279/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2014/279/schedule)
+[^c-8fa536f35340ff254eeae4a4bafba44d]: Commencement: Sch. 19 para. 3 in force at 7.11.2014 by [S.S.I. 2014/279](https://www.legislation.gov.uk/ssi/2014/279) , [art. 2](https://www.legislation.gov.uk/ssi/2014/279/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2014/279/schedule)
 
-[^key-656754c7f5c9c991a4ad9ba6199c9705]: Commencement: Sch. 19 para. 4 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-656754c7f5c9c991a4ad9ba6199c9705]: Commencement: Sch. 19 para. 4 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-7adeeb105c3030774c48ae250bfcd85f]: Commencement: Sch. 19 para. 5 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-7adeeb105c3030774c48ae250bfcd85f]: Commencement: Sch. 19 para. 5 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-3ca0fceb3e75c104cafb2dc93c33e8cc]: Commencement: Sch. 19 para. 6 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-3ca0fceb3e75c104cafb2dc93c33e8cc]: Commencement: Sch. 19 para. 6 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-9fae073a2e9c6441e29612067fbf791f]: Commencement: Sch. 19 para. 7 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-9fae073a2e9c6441e29612067fbf791f]: Commencement: Sch. 19 para. 7 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-7aca298c901e933c3b107b573bf990c9]: Commencement: Sch. 19 para. 8 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-7aca298c901e933c3b107b573bf990c9]: Commencement: Sch. 19 para. 8 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-3942dbd24652d2f9ca8f17930e0fe615]: Commencement: Sch. 19 para. 9 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-3942dbd24652d2f9ca8f17930e0fe615]: Commencement: Sch. 19 para. 9 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-578f7ceaa1a611e37a5e151c18ee0488]: Commencement: Sch. 19 para. 10 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-578f7ceaa1a611e37a5e151c18ee0488]: Commencement: Sch. 19 para. 10 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-f319e6f06b797f6fc2495a42d88e4145]: Commencement: Sch. 19 para. 11 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-f319e6f06b797f6fc2495a42d88e4145]: Commencement: Sch. 19 para. 11 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-130c0a7568867ab1bdf197492ddb26dc]: Commencement: Sch. 19 para. 12 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-130c0a7568867ab1bdf197492ddb26dc]: Commencement: Sch. 19 para. 12 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-9088492a653762f7f33af0067923e1e4]: Commencement: Sch. 19 para. 13 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-9088492a653762f7f33af0067923e1e4]: Commencement: Sch. 19 para. 13 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-fe3f54a33178d8e713f977113f35c76f]: Commencement: Sch. 19 para. 14 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-fe3f54a33178d8e713f977113f35c76f]: Commencement: Sch. 19 para. 14 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-e6a8b04eba1b39a11c4b4b2864f7066c]: Commencement: Sch. 19 para. 15 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-e6a8b04eba1b39a11c4b4b2864f7066c]: Commencement: Sch. 19 para. 15 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-cf98ad110fa2ab8b81c2bc2bab967507]: Commencement: Sch. 19 para. 16 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-cf98ad110fa2ab8b81c2bc2bab967507]: Commencement: Sch. 19 para. 16 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-8424963de2e6f0f7a50c2858eae8b69b]: Commencement: Sch. 19 para. 17 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-8424963de2e6f0f7a50c2858eae8b69b]: Commencement: Sch. 19 para. 17 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-50501835c0439fe44c0d8da76309772e]: Commencement: Sch. 19 para. 18 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-50501835c0439fe44c0d8da76309772e]: Commencement: Sch. 19 para. 18 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-8631a338cb9e87b58bd46a839a4af58f]: Commencement: Sch. 19 para. 19 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-8631a338cb9e87b58bd46a839a4af58f]: Commencement: Sch. 19 para. 19 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-5ee4dbe9c1fa82da9b1abdee228b5a12]: Commencement: Sch. 19 para. 20 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-5ee4dbe9c1fa82da9b1abdee228b5a12]: Commencement: Sch. 19 para. 20 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-2462fd19e9590fa70b60268ec58478f5]: Commencement: Sch. 19 para. 21 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-2462fd19e9590fa70b60268ec58478f5]: Commencement: Sch. 19 para. 21 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-0775e79e923e112128352762e50bba5c]: Commencement: Sch. 19 para. 22 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-0775e79e923e112128352762e50bba5c]: Commencement: Sch. 19 para. 22 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-c99c7d0523719544c2730b62f6099991]: Commencement: Sch. 19 para. 23 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-c99c7d0523719544c2730b62f6099991]: Commencement: Sch. 19 para. 23 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-9ce3478a8d04cab734f1dca4b5d5f896]: Commencement: Sch. 19 para. 24 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-9ce3478a8d04cab734f1dca4b5d5f896]: Commencement: Sch. 19 para. 24 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-b1f49d5d9abdffe2ddb88a253ea4568a]: Modification: Sch. 19 para. 24(1)(a)-(c) applied (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Order 2014 (S.S.I. 2014/377)](https://www.legislation.gov.uk/ssi/2014/377) , [arts. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1) , [10(1)](https://www.legislation.gov.uk/ssi/2014/377/article/10/1)
+[^c-b1f49d5d9abdffe2ddb88a253ea4568a]: Modification: Sch. 19 para. 24(1)(a)-(c) applied (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Order 2014 (S.S.I. 2014/377)](https://www.legislation.gov.uk/ssi/2014/377) , [arts. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1) , [10(1)](https://www.legislation.gov.uk/ssi/2014/377/article/10/1)
 
-[^key-be5d932ae73b9dcb7391219e2dd8b953]: Modification: Sch. 19 para. 24(4) modified (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Order 2014 (S.S.I. 2014/377)](https://www.legislation.gov.uk/ssi/2014/377) , [arts. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1) , [10(2)](https://www.legislation.gov.uk/ssi/2014/377/article/10/2)
+[^c-be5d932ae73b9dcb7391219e2dd8b953]: Modification: Sch. 19 para. 24(4) modified (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Order 2014 (S.S.I. 2014/377)](https://www.legislation.gov.uk/ssi/2014/377) , [arts. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1) , [10(2)](https://www.legislation.gov.uk/ssi/2014/377/article/10/2)
 
-[^key-ccd58dc084fa6bfe53132cbf9c424fa5]: Commencement: Sch. 19 para. 25 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-ccd58dc084fa6bfe53132cbf9c424fa5]: Commencement: Sch. 19 para. 25 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-fccd92013a5e562625a43cf58ac32948]: Textual amendment: Sch. 19 para. 25(7A) inserted (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(23)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/23) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-fccd92013a5e562625a43cf58ac32948]: Textual amendment: Sch. 19 para. 25(7A) inserted (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(23)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/23) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
-[^key-46101bee1c89d2f151ef1386958ff882]: Commencement: Sch. 19 para. 26 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-46101bee1c89d2f151ef1386958ff882]: Commencement: Sch. 19 para. 26 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-4d9d6ae5c39eaf160ede0ab5a812b263]: Commencement: Sch. 19 para. 27 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-4d9d6ae5c39eaf160ede0ab5a812b263]: Commencement: Sch. 19 para. 27 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-621ec68c32e6795253f03b41df08a761]: Modification: Sch. 19 para. 27 modified (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Order 2014 (S.S.I. 2014/377)](https://www.legislation.gov.uk/ssi/2014/377) , [arts. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1) , [11(2)(c)](https://www.legislation.gov.uk/ssi/2014/377/article/11/2/c)
+[^c-621ec68c32e6795253f03b41df08a761]: Modification: Sch. 19 para. 27 modified (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Order 2014 (S.S.I. 2014/377)](https://www.legislation.gov.uk/ssi/2014/377) , [arts. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1) , [11(2)(c)](https://www.legislation.gov.uk/ssi/2014/377/article/11/2/c)
 
-[^key-beebdc5fc8df404384119cbf1f8fef9d]: Modification: Sch. 19 para. 27(1) applied (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Order 2014 (S.S.I. 2014/377)](https://www.legislation.gov.uk/ssi/2014/377) , [arts. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1) , [11(2)(a)](https://www.legislation.gov.uk/ssi/2014/377/article/11/2/a)
+[^c-beebdc5fc8df404384119cbf1f8fef9d]: Modification: Sch. 19 para. 27(1) applied (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Order 2014 (S.S.I. 2014/377)](https://www.legislation.gov.uk/ssi/2014/377) , [arts. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1) , [11(2)(a)](https://www.legislation.gov.uk/ssi/2014/377/article/11/2/a)
 
-[^key-3b3c05cb9b25af9564239a380b13f65d]: Modification: Sch. 19 para. 27(2) applied (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Order 2014 (S.S.I. 2014/377)](https://www.legislation.gov.uk/ssi/2014/377) , [arts. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1) , [11(2)(b)](https://www.legislation.gov.uk/ssi/2014/377/article/11/2/b)
+[^c-3b3c05cb9b25af9564239a380b13f65d]: Modification: Sch. 19 para. 27(2) applied (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Order 2014 (S.S.I. 2014/377)](https://www.legislation.gov.uk/ssi/2014/377) , [arts. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1) , [11(2)(b)](https://www.legislation.gov.uk/ssi/2014/377/article/11/2/b)
 
-[^key-9d8a60d19975930e0c50493b186a2fc3]: Textual amendment: [Sch. 19 para. 27(3)(g)](https://www.legislation.gov.uk/asp/2013/11/schedule/19/paragraph/27/3/g) inserted (1.10.2023) by [The Land and Buildings Transaction Tax (Green Freeports Relief) (Scotland) Order 2023 (S.S.I. 2023/280)](https://www.legislation.gov.uk/ssi/2023/280), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/280/article/1/1), [2(6)](https://www.legislation.gov.uk/ssi/2023/280/article/2/6)
+[^c-9d8a60d19975930e0c50493b186a2fc3]: Textual amendment: [Sch. 19 para. 27(3)(g)](https://www.legislation.gov.uk/asp/2013/11/schedule/19/paragraph/27/3/g) inserted (1.10.2023) by [The Land and Buildings Transaction Tax (Green Freeports Relief) (Scotland) Order 2023 (S.S.I. 2023/280)](https://www.legislation.gov.uk/ssi/2023/280), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/280/article/1/1), [2(6)](https://www.legislation.gov.uk/ssi/2023/280/article/2/6)
 
-[^key-8029a4259ec369f8ca74dc19bc7d3405]: Textual amendment: [Sch. 19 para. 27(3)(h)](https://www.legislation.gov.uk/asp/2013/11/schedule/19/paragraph/27/3/h) inserted (26.2.2026) by [The Land and Buildings Transaction Tax (Investment Zones Relief) (Scotland) Order 2026 (S.S.I. 2026/110)](https://www.legislation.gov.uk/ssi/2026/110), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/110/article/1/1), [2(6)](https://www.legislation.gov.uk/ssi/2026/110/article/2/6)
+[^c-8029a4259ec369f8ca74dc19bc7d3405]: Textual amendment: [Sch. 19 para. 27(3)(h)](https://www.legislation.gov.uk/asp/2013/11/schedule/19/paragraph/27/3/h) inserted (26.2.2026) by [The Land and Buildings Transaction Tax (Investment Zones Relief) (Scotland) Order 2026 (S.S.I. 2026/110)](https://www.legislation.gov.uk/ssi/2026/110), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/110/article/1/1), [2(6)](https://www.legislation.gov.uk/ssi/2026/110/article/2/6)
 
-[^key-5a36a86ec5efb6cff4f506bf0edda819]: Commencement: Sch. 19 para. 28 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-5a36a86ec5efb6cff4f506bf0edda819]: Commencement: Sch. 19 para. 28 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-9a7764dd1722ba3964d95ee8c7ba911d]: Commencement: Sch. 19 para. 29 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-9a7764dd1722ba3964d95ee8c7ba911d]: Commencement: Sch. 19 para. 29 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-7d709e12df5494d56a7db4909ce71291]: Commencement: Sch. 19 para. 30 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-7d709e12df5494d56a7db4909ce71291]: Commencement: Sch. 19 para. 30 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

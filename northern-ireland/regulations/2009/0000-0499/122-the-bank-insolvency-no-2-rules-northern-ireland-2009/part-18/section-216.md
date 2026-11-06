@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 216. Award of costs against responsible insolvency practitioner[^key-413376f088cbc6eace96f244eff555a5]
+## 216. Award of costs against responsible insolvency practitioner[^c-413376f088cbc6eace96f244eff555a5]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-413376f088cbc6eace96f244eff555a5]: Commencement: Rule 216 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-413376f088cbc6eace96f244eff555a5]: Commencement: Rule 216 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

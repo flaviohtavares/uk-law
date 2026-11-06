@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198. Repayment of payment to mortgagee if land not acquired[^key-bbd8f9992abf0972839d229301b83f64]
+## 198. Repayment of payment to mortgagee if land not acquired[^c-bbd8f9992abf0972839d229301b83f64]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ In the Land Compensation Act 1973, after section 52ZD (inserted by section 194 a
 
 ## Annotations
 
-[^key-bbd8f9992abf0972839d229301b83f64]: Commencement: [S. 198](https://www.legislation.gov.uk/ukpga/2016/22/section/198) in force at 6.4.2018 by [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(i)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/251/regulation/6))
+[^c-bbd8f9992abf0972839d229301b83f64]: Commencement: [S. 198](https://www.legislation.gov.uk/ukpga/2016/22/section/198) in force at 6.4.2018 by [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(i)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/251/regulation/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Equivalence Decisions[^key-cd34842461cf6541d5f7c375fe0188e1]
+## SCHEDULE 2 — Equivalence Decisions[^c-cd34842461cf6541d5f7c375fe0188e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,14 +24,14 @@ summary: ''
 
 Regulation 8(3)(c)
 
-**1.**[^key-cd34842461cf6541d5f7c375fe0188e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-cd34842461cf6541d5f7c375fe0188e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-cd34842461cf6541d5f7c375fe0188e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-cd34842461cf6541d5f7c375fe0188e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-cd34842461cf6541d5f7c375fe0188e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cd34842461cf6541d5f7c375fe0188e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-cd34842461cf6541d5f7c375fe0188e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-cd34842461cf6541d5f7c375fe0188e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cd34842461cf6541d5f7c375fe0188e1]: Textual amendment: Regulations revoked (3.11.2004) by [The Products of Animal Origin (Third Country Imports) (England) (No. 3) Regulations 2004 (S.I. 2004/2640)](https://www.legislation.gov.uk/uksi/2004/2640), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2640/regulation/1), [68](https://www.legislation.gov.uk/uksi/2004/2640/regulation/68) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2004/2640/regulation/3/1))
+[^c-cd34842461cf6541d5f7c375fe0188e1]: Textual amendment: Regulations revoked (3.11.2004) by [The Products of Animal Origin (Third Country Imports) (England) (No. 3) Regulations 2004 (S.I. 2004/2640)](https://www.legislation.gov.uk/uksi/2004/2640), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2640/regulation/1), [68](https://www.legislation.gov.uk/uksi/2004/2640/regulation/68) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2004/2640/regulation/3/1))

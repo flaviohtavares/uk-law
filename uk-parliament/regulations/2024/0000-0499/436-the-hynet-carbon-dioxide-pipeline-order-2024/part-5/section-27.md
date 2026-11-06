@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Statutory authority to override easements and other rights[^key-5cec71556538d3abe6e11defde93b629]
+## 27. Statutory authority to override easements and other rights[^c-5cec71556538d3abe6e11defde93b629]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cec71556538d3abe6e11defde93b629]: Commencement: Art. 27 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-5cec71556538d3abe6e11defde93b629]: Commencement: Art. 27 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)

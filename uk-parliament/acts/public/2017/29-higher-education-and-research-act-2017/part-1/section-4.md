@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Registration procedure[^key-c88c6624d50263a482622fed98680e71]
+## 4. Registration procedure[^c-c88c6624d50263a482622fed98680e71]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c88c6624d50263a482622fed98680e71]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/29/section/4) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/a)
+[^c-c88c6624d50263a482622fed98680e71]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/29/section/4) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/a)

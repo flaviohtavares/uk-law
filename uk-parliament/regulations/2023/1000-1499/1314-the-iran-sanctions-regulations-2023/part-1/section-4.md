@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Purposes[^key-d6b3d6400850c9ec3d16098cb2bdb04e]
+## 4. Purposes[^c-d6b3d6400850c9ec3d16098cb2bdb04e]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6b3d6400850c9ec3d16098cb2bdb04e]: Commencement: Reg. 4 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-d6b3d6400850c9ec3d16098cb2bdb04e]: Commencement: Reg. 4 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

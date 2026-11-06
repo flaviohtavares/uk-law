@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Section 326 (designation of professional bodies)[^key-6216c2fcb3f53df44ad35d2111645a36]
+## 63. Section 326 (designation of professional bodies)[^c-6216c2fcb3f53df44ad35d2111645a36]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 326 (designation of professional bodies), omit subsection (5)(d).
 
 ## Annotations
 
-[^key-6216c2fcb3f53df44ad35d2111645a36]: Commencement: Reg. 63 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-6216c2fcb3f53df44ad35d2111645a36]: Commencement: Reg. 63 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Requests for exercise of powers under section 36 and appeals[^key-2880cd12a0c655c7042991049844bcac]
+## 37. Requests for exercise of powers under section 36 and appeals[^c-2880cd12a0c655c7042991049844bcac]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2880cd12a0c655c7042991049844bcac]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2016/22/section/37) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)
+[^c-2880cd12a0c655c7042991049844bcac]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2016/22/section/37) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Return of contributions on or after death of member.[^key-3cbd834478c131acfe917fcb20469bc5]
+## 172. Return of contributions on or after death of member.[^c-3cbd834478c131acfe917fcb20469bc5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3cbd834478c131acfe917fcb20469bc5]: Textual amendment: [S. 172](https://www.legislation.gov.uk/ukpga/1996/8/section/172) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-3cbd834478c131acfe917fcb20469bc5]: Textual amendment: [S. 172](https://www.legislation.gov.uk/ukpga/1996/8/section/172) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))

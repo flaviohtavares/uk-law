@@ -35,7 +35,7 @@ An Act to make provision changing the law about the offence of livestock worryin
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Livestock worrying: scope and consequences of offence[^key-66a81edf9a3e4bf09dc3c40052a3927e]
+## 1. Livestock worrying: scope and consequences of offence[^c-66a81edf9a3e4bf09dc3c40052a3927e]
 
 The Schedule contains amendments to the Dogs (Protection of Livestock) Act 1953 that—
 
@@ -46,7 +46,7 @@ The Schedule contains amendments to the Dogs (Protection of Livestock) Act 1953 
 - (e) allow for a court to order an offender to pay expenses associated with seizing and detaining a dog;
 - (f) update the terminology used in that Act so that attacking livestock is dealt with separately from worrying livestock.
 
-## 2. Seizure and detention of dogs[^key-99decf57460dd45b6756c7c503c2e4c3]
+## 2. Seizure and detention of dogs[^c-99decf57460dd45b6756c7c503c2e4c3]
 
 (1) For section 2 of the Dogs (Protection of Livestock) Act 1953 substitute—
 
@@ -94,7 +94,7 @@ The Schedule contains amendments to the Dogs (Protection of Livestock) Act 1953 
 
 (2) Section 3 of the Dogs Act 1906 (seizure of stray dogs), so far as still in force by virtue of [section 68](https://www.legislation.gov.uk/ukpga/2005/16/section/68)[(2)](https://www.legislation.gov.uk/ukpga/2005/16/section/68) of the [Clean Neighbourhoods and Environment Act 2005](https://www.legislation.gov.uk/ukpga/2005/16/contents), is repealed.
 
-## 3. Collection of samples and impressions[^key-fab7511e875be234ee65b687d87459af]
+## 3. Collection of samples and impressions[^c-fab7511e875be234ee65b687d87459af]
 
 After section 2 of the Dogs (Protection of Livestock) Act 1953 insert—
 
@@ -127,7 +127,7 @@ After section 2 of the Dogs (Protection of Livestock) Act 1953 insert—
 > - “**veterinary surgeon**” means a person registered in the register of veterinary surgeons, or the supplementary veterinary register, kept under the [Veterinary Surgeons Act 1966](https://www.legislation.gov.uk/ukpga/1966/36/contents);
 > - “**veterinary surgery**” has the same meaning as in [that Act](https://www.legislation.gov.uk/ukpga/1966/36/contents).
 
-## 4. Powers of entry[^key-bbfca405b7d707735d34f0cafaca6d0a]
+## 4. Powers of entry[^c-bbfca405b7d707735d34f0cafaca6d0a]
 
 For section 2A of the Dogs (Protection of Livestock) Act 1953 substitute—
 
@@ -153,7 +153,7 @@ For section 2A of the Dogs (Protection of Livestock) Act 1953 substitute—
 >
 > (5) A warrant under this section may authorise the constable executing it to use reasonable force if necessary.
 
-## 5. Extent, commencement, transitional provision and short title[^key-77a213227bac44f7a65ad9354560086b]
+## 5. Extent, commencement, transitional provision and short title[^c-77a213227bac44f7a65ad9354560086b]
 
 (1) This Act extends to England and Wales only.
 
@@ -167,7 +167,7 @@ For section 2A of the Dogs (Protection of Livestock) Act 1953 substitute—
 
 Section 1
 
-**1.**[^key-b9fb47fcdf0e72777ee051046ab59772] (1) Section 1 of the Dogs (Protection of Livestock) Act 1953 (offence) is amended as follows.
+**1.**[^c-b9fb47fcdf0e72777ee051046ab59772] (1) Section 1 of the Dogs (Protection of Livestock) Act 1953 (offence) is amended as follows.
 
 (2) In subsection (1) (creation of offence)—
 
@@ -211,20 +211,20 @@ Section 1
 
 (8) For the heading substitute “Offence where dog attacks or worries livestock”.
 
-**2.**[^key-38e0b91a9b7f0fd708b6d798e02b89e5] In section 3 of the Dogs (Protection of Livestock) Act 1953 (interpretation), in subsection (1), in the definition of “livestock”, after “horses,” insert “camelids”.
+**2.**[^c-38e0b91a9b7f0fd708b6d798e02b89e5] In section 3 of the Dogs (Protection of Livestock) Act 1953 (interpretation), in subsection (1), in the definition of “livestock”, after “horses,” insert “camelids”.
 
 ## Annotations
 
-[^key-66a81edf9a3e4bf09dc3c40052a3927e]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2025/32/section/1) in force at 18.3.2026, see [s. 5(2)](https://www.legislation.gov.uk/ukpga/2025/32/section/5/2)
+[^c-66a81edf9a3e4bf09dc3c40052a3927e]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2025/32/section/1) in force at 18.3.2026, see [s. 5(2)](https://www.legislation.gov.uk/ukpga/2025/32/section/5/2)
 
-[^key-99decf57460dd45b6756c7c503c2e4c3]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2025/32/section/2) in force at 18.3.2026, see [s. 5(2)](https://www.legislation.gov.uk/ukpga/2025/32/section/5/2)
+[^c-99decf57460dd45b6756c7c503c2e4c3]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2025/32/section/2) in force at 18.3.2026, see [s. 5(2)](https://www.legislation.gov.uk/ukpga/2025/32/section/5/2)
 
-[^key-fab7511e875be234ee65b687d87459af]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2025/32/section/3) in force at 18.3.2026, see [s. 5(2)](https://www.legislation.gov.uk/ukpga/2025/32/section/5/2)
+[^c-fab7511e875be234ee65b687d87459af]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2025/32/section/3) in force at 18.3.2026, see [s. 5(2)](https://www.legislation.gov.uk/ukpga/2025/32/section/5/2)
 
-[^key-bbfca405b7d707735d34f0cafaca6d0a]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2025/32/section/4) in force at 18.3.2026, see [s. 5(2)](https://www.legislation.gov.uk/ukpga/2025/32/section/5/2)
+[^c-bbfca405b7d707735d34f0cafaca6d0a]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2025/32/section/4) in force at 18.3.2026, see [s. 5(2)](https://www.legislation.gov.uk/ukpga/2025/32/section/5/2)
 
-[^key-77a213227bac44f7a65ad9354560086b]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2025/32/section/5) in force at 18.3.2026, see [s. 5(2)](https://www.legislation.gov.uk/ukpga/2025/32/section/5/2)
+[^c-77a213227bac44f7a65ad9354560086b]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2025/32/section/5) in force at 18.3.2026, see [s. 5(2)](https://www.legislation.gov.uk/ukpga/2025/32/section/5/2)
 
-[^key-b9fb47fcdf0e72777ee051046ab59772]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2025/32/schedule/paragraph/1) in force at 18.3.2026, see [s. 5(2)](https://www.legislation.gov.uk/ukpga/2025/32/section/5/2)
+[^c-b9fb47fcdf0e72777ee051046ab59772]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2025/32/schedule/paragraph/1) in force at 18.3.2026, see [s. 5(2)](https://www.legislation.gov.uk/ukpga/2025/32/section/5/2)
 
-[^key-38e0b91a9b7f0fd708b6d798e02b89e5]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2025/32/schedule/paragraph/2) in force at 18.3.2026, see [s. 5(2)](https://www.legislation.gov.uk/ukpga/2025/32/section/5/2)
+[^c-38e0b91a9b7f0fd708b6d798e02b89e5]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2025/32/schedule/paragraph/2) in force at 18.3.2026, see [s. 5(2)](https://www.legislation.gov.uk/ukpga/2025/32/section/5/2)

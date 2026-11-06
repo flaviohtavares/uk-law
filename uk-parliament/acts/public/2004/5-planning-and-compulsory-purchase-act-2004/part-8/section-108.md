@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 108. Loss payments: exclusions[^key-f95efbc145ae34bc12cf189b134de3ad]
+## 108. Loss payments: exclusions[^c-f95efbc145ae34bc12cf189b134de3ad]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f95efbc145ae34bc12cf189b134de3ad]: Commencement: S. 108 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)
+[^c-f95efbc145ae34bc12cf189b134de3ad]: Commencement: S. 108 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)

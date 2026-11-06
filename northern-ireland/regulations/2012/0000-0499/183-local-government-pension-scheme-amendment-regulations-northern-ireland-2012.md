@@ -44,75 +44,75 @@ Coming into operation
 
 In accordance with Article 9 of that Order the Department has consulted with the Northern Ireland Local Government Association, the Northern Ireland Local Government Officers' Superannuation Committee and such representatives of other persons likely to be affected by the Regulations as appeared to it to be appropriate.
 
-## 1. Citation, commencement and retrospection[^key-eac8884edf97b3a65fa0a1edffdc2fc3]
+## 1. Citation, commencement and retrospection[^c-eac8884edf97b3a65fa0a1edffdc2fc3]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Local Government Pension Scheme (Benefits, Membership and Contributions) Regulations (Northern Ireland) 2009[^key-eac8884edf97b3a65fa0a1edffdc2fc3]
+## 2. Amendment of the Local Government Pension Scheme (Benefits, Membership and Contributions) Regulations (Northern Ireland) 2009[^c-eac8884edf97b3a65fa0a1edffdc2fc3]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-eac8884edf97b3a65fa0a1edffdc2fc3]
+## 3.[^c-eac8884edf97b3a65fa0a1edffdc2fc3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-eac8884edf97b3a65fa0a1edffdc2fc3]
+## 4.[^c-eac8884edf97b3a65fa0a1edffdc2fc3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-eac8884edf97b3a65fa0a1edffdc2fc3]
+## 5.[^c-eac8884edf97b3a65fa0a1edffdc2fc3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-eac8884edf97b3a65fa0a1edffdc2fc3]
+## 6.[^c-eac8884edf97b3a65fa0a1edffdc2fc3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-eac8884edf97b3a65fa0a1edffdc2fc3]
+## 7.[^c-eac8884edf97b3a65fa0a1edffdc2fc3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-eac8884edf97b3a65fa0a1edffdc2fc3]
+## 8.[^c-eac8884edf97b3a65fa0a1edffdc2fc3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-eac8884edf97b3a65fa0a1edffdc2fc3]
+## 9.[^c-eac8884edf97b3a65fa0a1edffdc2fc3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-eac8884edf97b3a65fa0a1edffdc2fc3]
+## 10.[^c-eac8884edf97b3a65fa0a1edffdc2fc3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-eac8884edf97b3a65fa0a1edffdc2fc3]
+## 11.[^c-eac8884edf97b3a65fa0a1edffdc2fc3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-eac8884edf97b3a65fa0a1edffdc2fc3]
+## 12.[^c-eac8884edf97b3a65fa0a1edffdc2fc3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13.[^key-eac8884edf97b3a65fa0a1edffdc2fc3]
+## 13.[^c-eac8884edf97b3a65fa0a1edffdc2fc3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14.[^key-eac8884edf97b3a65fa0a1edffdc2fc3]
+## 14.[^c-eac8884edf97b3a65fa0a1edffdc2fc3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15.[^key-eac8884edf97b3a65fa0a1edffdc2fc3]
+## 15.[^c-eac8884edf97b3a65fa0a1edffdc2fc3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16.[^key-eac8884edf97b3a65fa0a1edffdc2fc3]
+## 16.[^c-eac8884edf97b3a65fa0a1edffdc2fc3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Amendments to the Local Government Pension Scheme (Administration) Regulations (Northern Ireland) 2009[^key-eac8884edf97b3a65fa0a1edffdc2fc3]
+## 17. Amendments to the Local Government Pension Scheme (Administration) Regulations (Northern Ireland) 2009[^c-eac8884edf97b3a65fa0a1edffdc2fc3]
 
 **No longer in force.**
 
@@ -120,32 +120,32 @@ In accordance with Article 9 of that Order the Department has consulted with the
 
 ## 18.
 
-After regulation 11(5) (periods of membership) insert— *(affected by repeal, see note)*[^key-eac8884edf97b3a65fa0a1edffdc2fc3]
+After regulation 11(5) (periods of membership) insert— *(affected by repeal, see note)*[^c-eac8884edf97b3a65fa0a1edffdc2fc3]
 
-> (6) A period of membership as a— *(affected by repeal, see note)*[^key-eac8884edf97b3a65fa0a1edffdc2fc3]
+> (6) A period of membership as a— *(affected by repeal, see note)*[^c-eac8884edf97b3a65fa0a1edffdc2fc3]
 >
-> - (a) qualifying member between 1st January 1995 and 30th November 2007; and *(affected by repeal, see note)*[^key-eac8884edf97b3a65fa0a1edffdc2fc3]
-> - (b) newly qualifying member between 1st January 1995 and 6th February 2009, *(affected by repeal, see note)*[^key-eac8884edf97b3a65fa0a1edffdc2fc3]
+> - (a) qualifying member between 1st January 1995 and 30th November 2007; and *(affected by repeal, see note)*[^c-eac8884edf97b3a65fa0a1edffdc2fc3]
+> - (b) newly qualifying member between 1st January 1995 and 6th February 2009, *(affected by repeal, see note)*[^c-eac8884edf97b3a65fa0a1edffdc2fc3]
 >
-> shall be calculated for the purposes of these Regulations and the Benefits Regulations, in accordance with regulations 10 (length of period of membership: calculation of benefit) and 19 (calculations) of the 2002 Regulations *(affected by repeal, see note)*[^key-eac8884edf97b3a65fa0a1edffdc2fc3] [^c21251711].
+> shall be calculated for the purposes of these Regulations and the Benefits Regulations, in accordance with regulations 10 (length of period of membership: calculation of benefit) and 19 (calculations) of the 2002 Regulations *(affected by repeal, see note)*[^c-eac8884edf97b3a65fa0a1edffdc2fc3] [^c21251711].
 >
-> (7) In this regulation— *(affected by repeal, see note)*[^key-eac8884edf97b3a65fa0a1edffdc2fc3]
+> (7) In this regulation— *(affected by repeal, see note)*[^c-eac8884edf97b3a65fa0a1edffdc2fc3]
 >
-> - “**qualifying member *(affected by repeal, see note)*[^key-eac8884edf97b3a65fa0a1edffdc2fc3]**” means a member who is party to the Agreement; *(affected by repeal, see note)*[^key-eac8884edf97b3a65fa0a1edffdc2fc3]
-> - “**newly qualifying member *(affected by repeal, see note)*[^key-eac8884edf97b3a65fa0a1edffdc2fc3]**” means a member who is employed as a classroom assistant by a voluntary grammar school or a grant maintained integrated school within the meaning of the Education Reform (Northern Ireland) Order 1989; and *(affected by repeal, see note)*[^key-eac8884edf97b3a65fa0a1edffdc2fc3]
-> - “**the Agreement *(affected by repeal, see note)*[^key-eac8884edf97b3a65fa0a1edffdc2fc3]**” means the Collective Agreement for the Joint Negotiating Council of the Education and Library Boards dated 30th November 2007. *(affected by repeal, see note)*[^key-eac8884edf97b3a65fa0a1edffdc2fc3]
+> - “**qualifying member *(affected by repeal, see note)*[^c-eac8884edf97b3a65fa0a1edffdc2fc3]**” means a member who is party to the Agreement; *(affected by repeal, see note)*[^c-eac8884edf97b3a65fa0a1edffdc2fc3]
+> - “**newly qualifying member *(affected by repeal, see note)*[^c-eac8884edf97b3a65fa0a1edffdc2fc3]**” means a member who is employed as a classroom assistant by a voluntary grammar school or a grant maintained integrated school within the meaning of the Education Reform (Northern Ireland) Order 1989; and *(affected by repeal, see note)*[^c-eac8884edf97b3a65fa0a1edffdc2fc3]
+> - “**the Agreement *(affected by repeal, see note)*[^c-eac8884edf97b3a65fa0a1edffdc2fc3]**” means the Collective Agreement for the Joint Negotiating Council of the Education and Library Boards dated 30th November 2007. *(affected by repeal, see note)*[^c-eac8884edf97b3a65fa0a1edffdc2fc3]
 
 .
 
-## 19.[^key-eac8884edf97b3a65fa0a1edffdc2fc3]
+## 19.[^c-eac8884edf97b3a65fa0a1edffdc2fc3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20.[^key-eac8884edf97b3a65fa0a1edffdc2fc3]
+## 20.[^c-eac8884edf97b3a65fa0a1edffdc2fc3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21.[^key-eac8884edf97b3a65fa0a1edffdc2fc3]
+## 21.[^c-eac8884edf97b3a65fa0a1edffdc2fc3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -215,6 +215,6 @@ A regulatory impact assessment has not been produced for these Regulations as it
 
 [^c21251681]: Marginal citation: S.R. & O (N.I.) [1973 No. 504](https://www.legislation.gov.uk/ukcm/1973/504) Article 7(1); [S.I. 1976/424 (N.I. 6)](https://www.legislation.gov.uk/nisi/1976/424).
 
-[^key-eac8884edf97b3a65fa0a1edffdc2fc3]: Textual amendment: Regulations revoked except for reg. 18 for certain purposes (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2014/189/regulation/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/189/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/nisr/2014/189/regulation/3))
+[^c-eac8884edf97b3a65fa0a1edffdc2fc3]: Textual amendment: Regulations revoked except for reg. 18 for certain purposes (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2014/189/regulation/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/189/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/nisr/2014/189/regulation/3))
 
 [^c21251711]: Marginal citation: S.R. [2002 No. 352](https://www.legislation.gov.uk/ukcm/2002/352); the relevant amending Regulations are S.R. [2010 No. 164](https://www.legislation.gov.uk/ukcm/2010/164).

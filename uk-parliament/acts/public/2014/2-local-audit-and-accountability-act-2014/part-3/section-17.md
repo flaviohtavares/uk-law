@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Appointment of auditor by specified person[^key-a86b1b33cf3960ed41b5c54d10163f1f]
+## 17. Appointment of auditor by specified person[^c-a86b1b33cf3960ed41b5c54d10163f1f]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a86b1b33cf3960ed41b5c54d10163f1f]: Commencement: S. 17 in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/d)
+[^c-a86b1b33cf3960ed41b5c54d10163f1f]: Commencement: S. 17 in force at 16.12.2014 in so far as not already in force by [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/d)

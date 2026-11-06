@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Failure to comply with order[^key-8f3ea2f30c7721f0bf0b820ecd6b4402]
+## 17. Failure to comply with order[^c-8f3ea2f30c7721f0bf0b820ecd6b4402]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ fails to comply with Rule 12(4), the judge or district judge, as the case may be
 
 ## Annotations
 
-[^key-8f3ea2f30c7721f0bf0b820ecd6b4402]: Textual amendment: Order 15 rule 17 substituted (13.2.2017) by [The County Court (Amendment) Rules (Northern Ireland) 2017 (S.R. 2017/19)](https://www.legislation.gov.uk/nisr/2017/19), [rules 1](https://www.legislation.gov.uk/nisr/2017/19/rule/1), [3(1)](https://www.legislation.gov.uk/nisr/2017/19/article/3/1)
+[^c-8f3ea2f30c7721f0bf0b820ecd6b4402]: Textual amendment: Order 15 rule 17 substituted (13.2.2017) by [The County Court (Amendment) Rules (Northern Ireland) 2017 (S.R. 2017/19)](https://www.legislation.gov.uk/nisr/2017/19), [rules 1](https://www.legislation.gov.uk/nisr/2017/19/rule/1), [3(1)](https://www.legislation.gov.uk/nisr/2017/19/article/3/1)

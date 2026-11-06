@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Investment and resources of schemes.[^key-02c5f87d81fa77b04f16d7c2fbd07421]
+## 31. Investment and resources of schemes.[^c-02c5f87d81fa77b04f16d7c2fbd07421]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02c5f87d81fa77b04f16d7c2fbd07421]: Textual amendment: [S. 31](https://www.legislation.gov.uk/ukpga/1993/48/section/31) repealed (6.4.2015) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 27(7)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/7), [30(2)(b)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/2/b), [Sch. 4 para. 49](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/49), [Sch. 7 Pt. 7](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/7); [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(a)(iv)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/a/iv)[(b)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/b) (as amended (20.3.2012) by [S.I. 2012/911](https://www.legislation.gov.uk/uksi/2012/911), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/911/article/2/d))
+[^c-02c5f87d81fa77b04f16d7c2fbd07421]: Textual amendment: [S. 31](https://www.legislation.gov.uk/ukpga/1993/48/section/31) repealed (6.4.2015) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 27(7)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/7), [30(2)(b)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/2/b), [Sch. 4 para. 49](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/49), [Sch. 7 Pt. 7](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/7); [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(a)(iv)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/a/iv)[(b)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/b) (as amended (20.3.2012) by [S.I. 2012/911](https://www.legislation.gov.uk/uksi/2012/911), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/911/article/2/d))

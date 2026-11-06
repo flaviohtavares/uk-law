@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Notification of misuse of networks and services[^M_C_d553bb45-c0ce-4699-9aa0-b9fdccf5b376][^key-13a07dce088b67a8bc588ce809d5c5fc][^key-6d6427f0def9828798d8b311ce03058d]
+## 128. Notification of misuse of networks and services[^M_C_d553bb45-c0ce-4699-9aa0-b9fdccf5b376][^c-13a07dce088b67a8bc588ce809d5c5fc][^c-6d6427f0def9828798d8b311ce03058d]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ summary: ''
 
 [^M_C_d553bb45-c0ce-4699-9aa0-b9fdccf5b376]: Modification: Ss. 128-131 modified (31.12.2020) by [The Communications Act (e-Commerce) (EU Exit) Regulations 2020 (S.I. 2020/1420)](https://www.legislation.gov.uk/uksi/2020/1420), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1420/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1420/regulation/2)
 
-[^key-13a07dce088b67a8bc588ce809d5c5fc]: Commencement: S. 128 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-13a07dce088b67a8bc588ce809d5c5fc]: Commencement: S. 128 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-6d6427f0def9828798d8b311ce03058d]: Commencement: S. 128 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-6d6427f0def9828798d8b311ce03058d]: Commencement: S. 128 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

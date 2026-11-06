@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 116A. Breaches of discipline committed in another prison or during transfer – coronavirus[^key-2492faf3b9c5791c9cb5719fff3ba204]
+## 116A. Breaches of discipline committed in another prison or during transfer – coronavirus[^c-2492faf3b9c5791c9cb5719fff3ba204]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2492faf3b9c5791c9cb5719fff3ba204]: Textual amendment: [Rule 116A](https://www.legislation.gov.uk/ssi/2011/331/rule/116A) omitted (29.9.2021) by virtue of [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment (No. 2) Rules 2021 (S.S.I. 2021/289)](https://www.legislation.gov.uk/ssi/2021/289), [rules 1](https://www.legislation.gov.uk/ssi/2021/289/rule/1), [4(h)](https://www.legislation.gov.uk/ssi/2021/289/rule/4/h)
+[^c-2492faf3b9c5791c9cb5719fff3ba204]: Textual amendment: [Rule 116A](https://www.legislation.gov.uk/ssi/2011/331/rule/116A) omitted (29.9.2021) by virtue of [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment (No. 2) Rules 2021 (S.S.I. 2021/289)](https://www.legislation.gov.uk/ssi/2021/289), [rules 1](https://www.legislation.gov.uk/ssi/2021/289/rule/1), [4(h)](https://www.legislation.gov.uk/ssi/2021/289/rule/4/h)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Partnership governors[^key-fb26d49d81b7f76e5b50f0836c3517e9]
+## 18. Partnership governors[^c-fb26d49d81b7f76e5b50f0836c3517e9]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb26d49d81b7f76e5b50f0836c3517e9]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2012/1035/regulation/18) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-fb26d49d81b7f76e5b50f0836c3517e9]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2012/1035/regulation/18) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)

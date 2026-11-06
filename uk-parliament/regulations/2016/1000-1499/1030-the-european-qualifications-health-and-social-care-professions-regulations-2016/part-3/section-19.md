@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Amendment of article 8[^key-c0febbb484082cbb128f692fc3f2f66d]
+## 19. Amendment of article 8[^c-c0febbb484082cbb128f692fc3f2f66d]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c0febbb484082cbb128f692fc3f2f66d]: Commencement: Reg. 19 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-c0febbb484082cbb128f692fc3f2f66d]: Commencement: Reg. 19 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00018]: Footnote: Article 8(2)(c) was substituted by [S.R. (N.I.) 2008 No. 192](https://www.legislation.gov.uk/nisr/2008/192).

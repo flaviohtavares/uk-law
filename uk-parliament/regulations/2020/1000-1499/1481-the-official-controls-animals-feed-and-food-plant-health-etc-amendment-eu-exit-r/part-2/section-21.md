@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Amendments to Title 6, Chapter 1[^key-f023bcd9c1b99f23a1fb68f54f8695a0]
+## 21. Amendments to Title 6, Chapter 1[^c-f023bcd9c1b99f23a1fb68f54f8695a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f023bcd9c1b99f23a1fb68f54f8695a0]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
+[^c-f023bcd9c1b99f23a1fb68f54f8695a0]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 423. Assets of Serbia and Montenegro: definition of “investments”[^key-8859986cebe82816b9623e2028ba2764]
+## 423. Assets of Serbia and Montenegro: definition of “investments”[^c-8859986cebe82816b9623e2028ba2764]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In paragraph 4 of article 10 of the Serbia and Montenegro (United Nations Sancti
 
 ## Annotations
 
-[^key-8859986cebe82816b9623e2028ba2764]: Commencement: Art. 423 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-8859986cebe82816b9623e2028ba2764]: Commencement: Art. 423 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

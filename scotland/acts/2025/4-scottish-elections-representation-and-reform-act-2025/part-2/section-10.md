@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Registration officers[^key-3256d762ac2d46edb249359b16dc163d][^key-d8ae925ba2666946f003dd7c5f98d1fc]
+## 10. Registration officers[^c-3256d762ac2d46edb249359b16dc163d][^c-d8ae925ba2666946f003dd7c5f98d1fc]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3256d762ac2d46edb249359b16dc163d]: Commencement: S. 10 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-3256d762ac2d46edb249359b16dc163d]: Commencement: S. 10 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-d8ae925ba2666946f003dd7c5f98d1fc]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2025/4/section/10) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)
+[^c-d8ae925ba2666946f003dd7c5f98d1fc]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2025/4/section/10) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)

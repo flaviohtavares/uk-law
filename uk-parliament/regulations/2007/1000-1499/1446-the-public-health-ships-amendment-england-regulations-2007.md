@@ -48,7 +48,7 @@ Coming into force
 
 The Secretary of State for Health, with the consent of the Commissioners for Her Majesty’s Revenue and Customs[^f00001], makes the following Regulations in exercise of the powers conferred by section 13 of the Public Health (Control of Disease) Act 1984[^f00002]:
 
-## 1. Citation, commencement, application and interpretation[^key-7fdf6c9e577a207853ee84c553e33490]
+## 1. Citation, commencement, application and interpretation[^c-7fdf6c9e577a207853ee84c553e33490]
 
 (1) These Regulations may be cited as the Public Health (Ships) (Amendment) (England) Regulations 2007 and shall come into force on 15th June 2007.
 
@@ -56,7 +56,7 @@ The Secretary of State for Health, with the consent of the Commissioners for Her
 
 (3) In these Regulations “the principal Regulations” means the Public Health (Ships) Regulations 1979[^f00003].
 
-## 2. Amendment of regulation 2 of the principal Regulations[^key-a105b4bdb1c34e939247066da5a84b58]
+## 2. Amendment of regulation 2 of the principal Regulations[^c-a105b4bdb1c34e939247066da5a84b58]
 
 (1) In regulation 2(1) of the principal Regulations (interpretation)—
 
@@ -137,7 +137,7 @@ The Secretary of State for Health, with the consent of the Commissioners for Her
 
 (2) Omit regulation 2(2) and (3).
 
-## 3. Substitution of regulation 3 of the principal Regulations[^key-8231313829d45bbd781202d1cb1c2274]
+## 3. Substitution of regulation 3 of the principal Regulations[^c-8231313829d45bbd781202d1cb1c2274]
 
 For regulation 3 of the principal Regulations (regulations not to apply to ships of the armed forces), substitute—
 
@@ -149,7 +149,7 @@ For regulation 3 of the principal Regulations (regulations not to apply to ships
 
 .
 
-## 4. Amendment of regulation 4 of the principal Regulations[^key-73a2d4b421382f1460575feef5315810]
+## 4. Amendment of regulation 4 of the principal Regulations[^c-73a2d4b421382f1460575feef5315810]
 
 (1) In regulation 4(1) of the principal Regulations (enforcement and execution of regulations), for “health authority” substitute—
 
@@ -171,7 +171,7 @@ For regulation 3 of the principal Regulations (regulations not to apply to ships
 
 .
 
-## 5. Substitution of regulation 5 of the principal Regulations[^key-9d84679d86bc532d2bb3548bbf297d77]
+## 5. Substitution of regulation 5 of the principal Regulations[^c-9d84679d86bc532d2bb3548bbf297d77]
 
 For regulation 5 of the principal Regulations (appointment and duties of authorised officers and provision of services by health authorities) substitute—
 
@@ -191,11 +191,11 @@ For regulation 5 of the principal Regulations (appointment and duties of authori
 
 .
 
-## 6. Omission of regulation 6 of the principal Regulations[^key-6575a118d4bf9ad981b28956d929815b]
+## 6. Omission of regulation 6 of the principal Regulations[^c-6575a118d4bf9ad981b28956d929815b]
 
 Omit regulation 6 of the principal Regulations (list of infected areas).
 
-## 7. Amendment of regulation 7 of the principal Regulations[^key-5ebc2311979fe9a9aeb0088af8d42a70]
+## 7. Amendment of regulation 7 of the principal Regulations[^c-5ebc2311979fe9a9aeb0088af8d42a70]
 
 (1) In regulation 7(2)(a) of the principal Regulations (inspection of ships), for “health authority” substitute—
 
@@ -212,7 +212,7 @@ Omit regulation 6 of the principal Regulations (list of infected areas).
 
 .
 
-## 8. Amendment of regulation 9 of the principal Regulations[^key-741b42d4a6536700129cf86eb5cf7e6b]
+## 8. Amendment of regulation 9 of the principal Regulations[^c-741b42d4a6536700129cf86eb5cf7e6b]
 
 (1) In regulation 9 of the principal Regulations (examination, etc., of persons on ships)—
 
@@ -221,7 +221,7 @@ Omit regulation 6 of the principal Regulations (list of infected areas).
 
 - “local authority”.
 
-## 9. Amendment of regulation 10 of the principal Regulations[^key-0bc44964113cb13904276b3479a14bf3]
+## 9. Amendment of regulation 10 of the principal Regulations[^c-0bc44964113cb13904276b3479a14bf3]
 
 For regulation 10(1)(a) of the principal Regulations (powers in respect of certain persons on ships), substitute—
 
@@ -232,7 +232,7 @@ For regulation 10(1)(a) of the principal Regulations (powers in respect of certa
 
 .
 
-## 10. Amendment of regulation 11 of the principal Regulations[^key-047c96bbc4a7209d354323666c203131]
+## 10. Amendment of regulation 11 of the principal Regulations[^c-047c96bbc4a7209d354323666c203131]
 
 In regulation 11(1)(b), after “infectious disease” insert—
 
@@ -240,7 +240,7 @@ In regulation 11(1)(b), after “infectious disease” insert—
 
 .
 
-## 11. Substitution of regulation 12 of the principal Regulations[^key-5cb92a9da71afa9a4985010e95a93849]
+## 11. Substitution of regulation 12 of the principal Regulations[^c-5cb92a9da71afa9a4985010e95a93849]
 
 For regulation 12 of the principal Regulations (radio permission to enter district), substitute—
 
@@ -250,7 +250,7 @@ For regulation 12 of the principal Regulations (radio permission to enter distri
 >
 > (2) The ship shall transmit to the authorised officer from a foreign port before arrival in his district by radio, fax, email or other appropriate means, any information relevant under paragraph (1).
 
-## 12. Amendment of regulation 13 of the principal Regulations[^key-4389b18cde33516ecbb6ef7469dbe7cc]
+## 12. Amendment of regulation 13 of the principal Regulations[^c-4389b18cde33516ecbb6ef7469dbe7cc]
 
 (1) Regulation 13 of the principal Regulations (notification of infectious disease, etc., on board) is amended in accordance with this regulation.
 
@@ -282,11 +282,11 @@ For regulation 12 of the principal Regulations (radio permission to enter distri
 
 .
 
-## 13. Omission of regulation 14 of the principal Regulations[^key-5b8c06d6dfddcfde6b56a31fe2bbdba5]
+## 13. Omission of regulation 14 of the principal Regulations[^c-5b8c06d6dfddcfde6b56a31fe2bbdba5]
 
 Omit regulation 14 (signals) of the principal Regulations.
 
-## 14. Amendment of regulation 15 of the principal Regulations[^key-8b4ba53b2a2f55e236e237e4ce982e52]
+## 14. Amendment of regulation 15 of the principal Regulations[^c-8b4ba53b2a2f55e236e237e4ce982e52]
 
 (1) In regulation 15(1) of the principal Regulations (Maritime Declaration of Health), omit from “Provided that” to the end of the paragraph.
 
@@ -294,17 +294,17 @@ Omit regulation 14 (signals) of the principal Regulations.
 
 - “local authority”.
 
-## 15. Amendment of regulation 16 of the principal Regulations[^key-fd837d4248150007f07c869b02b05dc3]
+## 15. Amendment of regulation 16 of the principal Regulations[^c-fd837d4248150007f07c869b02b05dc3]
 
 In regulation 16 (Maritime Declaration of Health), after “infectious disease” insert—
 
 - “or tuberculosis”.
 
-## 16. Omission of regulations 18, 19 and 20 of the principal Regulations[^key-4d85c383dab2dbab168c5bd7dd1f66ac]
+## 16. Omission of regulations 18, 19 and 20 of the principal Regulations[^c-4d85c383dab2dbab168c5bd7dd1f66ac]
 
 Omit regulations 18, 19 and 20 of the principal Regulations (Deratting Certificates and Deratting Exemption Certificates).
 
-## 17. Insertion of new regulations 18A to 18D of the principal Regulations[^key-64ef5ded2093237602d28dc6f9210dea]
+## 17. Insertion of new regulations 18A to 18D of the principal Regulations[^c-64ef5ded2093237602d28dc6f9210dea]
 
 Insert new regulations 18A to 18D before regulation 21 of the principal Regulations (detention of ships, and ships to be taken to mooring stations), as follows—
 
@@ -403,7 +403,7 @@ Insert new regulations 18A to 18D before regulation 21 of the principal Regulati
 
 .
 
-## 18. Amendment of regulation 21 of the principal Regulations[^key-f37374c19127615910a0fc7b2f6aceaa]
+## 18. Amendment of regulation 21 of the principal Regulations[^c-f37374c19127615910a0fc7b2f6aceaa]
 
 In regulation 21(1) of the principal Regulations (detention of ships, and ships to be taken to mooring stations), for “a disease subject to the International Health Regulations” substitute—
 
@@ -411,11 +411,11 @@ In regulation 21(1) of the principal Regulations (detention of ships, and ships 
 
 .
 
-## 19. Amendment of regulation 23 of the principal Regulations[^key-2bea963bd96bac20b6f8e158c4c8b08e]
+## 19. Amendment of regulation 23 of the principal Regulations[^c-2bea963bd96bac20b6f8e158c4c8b08e]
 
 In regulation 23 of the principal Regulations (detention of ships, and ships to be taken to mooring stations), omit paragraph (a).
 
-## 20. Substitution of regulation 24 of the principal Regulations[^key-49738af2e41255b7cf367abeb73b0957]
+## 20. Substitution of regulation 24 of the principal Regulations[^c-49738af2e41255b7cf367abeb73b0957]
 
 For regulation 24 of the principal Regulations (detention of ships, and ships to be taken to mooring stations), substitute—
 
@@ -423,7 +423,7 @@ For regulation 24 of the principal Regulations (detention of ships, and ships to
 
 .
 
-## 21. Amendment of regulation 30 of the principal Regulations[^key-0d7f1e8152672ce28be62f524221b0d5]
+## 21. Amendment of regulation 30 of the principal Regulations[^c-0d7f1e8152672ce28be62f524221b0d5]
 
 For regulation 30(a) of the principal Regulations (persons from infected areas), substitute—
 
@@ -431,7 +431,7 @@ For regulation 30(a) of the principal Regulations (persons from infected areas),
 
 .
 
-## 22. Amendment of regulation 33 of the principal Regulations[^key-8b9e257036c4b33694bd5ae5b26e73fe]
+## 22. Amendment of regulation 33 of the principal Regulations[^c-8b9e257036c4b33694bd5ae5b26e73fe]
 
 In regulation 33 of the principal Regulations (examination, etc., of persons proposing to embark)—
 
@@ -450,7 +450,7 @@ In regulation 33 of the principal Regulations (examination, etc., of persons pro
 
   .
 
-## 23. Amendment of regulation 34 of the principal Regulations[^key-c289462ae1afe5c1909d470b438838e9]
+## 23. Amendment of regulation 34 of the principal Regulations[^c-c289462ae1afe5c1909d470b438838e9]
 
 In regulation 34 of the principal Regulations (infected places in England and Wales), omit—
 
@@ -458,7 +458,7 @@ In regulation 34 of the principal Regulations (infected places in England and Wa
 
 .
 
-## 24. Amendment of regulation 36 of the principal Regulations[^key-1f9bb4e973eaa1ad6b77be7396acc397]
+## 24. Amendment of regulation 36 of the principal Regulations[^c-1f9bb4e973eaa1ad6b77be7396acc397]
 
 For regulation 36(2) of the principal Regulations (surveillance) substitute—
 
@@ -466,7 +466,7 @@ For regulation 36(2) of the principal Regulations (surveillance) substitute—
 
 .
 
-## 25. Substitution of regulation 38 of the principal Regulations[^key-89dbaeac5f14b2fa3c2ada1c2f5d624a]
+## 25. Substitution of regulation 38 of the principal Regulations[^c-89dbaeac5f14b2fa3c2ada1c2f5d624a]
 
 (1) For regulation 38 of the principal Regulations (charges for services) substitute—
 
@@ -506,7 +506,7 @@ For regulation 36(2) of the principal Regulations (surveillance) substitute—
 
 .
 
-## 26. Substitution of regulation 40 of the principal Regulations[^key-a1c6306acf5ba05e1c6c271f0931a166]
+## 26. Substitution of regulation 40 of the principal Regulations[^c-a1c6306acf5ba05e1c6c271f0931a166]
 
 For regulation 40 of the principal Regulations (expenses of health authorities) substitute—
 
@@ -516,15 +516,15 @@ For regulation 40 of the principal Regulations (expenses of health authorities) 
 
 .
 
-## 27. Omission of regulation 41 of the principal Regulations[^key-6805b771006bfa878e4715db85e59da5]
+## 27. Omission of regulation 41 of the principal Regulations[^c-6805b771006bfa878e4715db85e59da5]
 
 Omit regulation 41 of the principal Regulations (saving for mails).
 
-## 28. Omission of Schedule 1 to the principal Regulations[^key-9a59565e08ef607bb79caafab7a79f33]
+## 28. Omission of Schedule 1 to the principal Regulations[^c-9a59565e08ef607bb79caafab7a79f33]
 
 Omit Schedule 1 to the principal Regulations (International Code of Signals).
 
-## 29. Substitution of Schedule 2 to the principal Regulations[^key-f5f44a51d69b6d974d633fa5b923a6b1]
+## 29. Substitution of Schedule 2 to the principal Regulations[^c-f5f44a51d69b6d974d633fa5b923a6b1]
 
 For Schedule 2 to the principal Regulations (Maritime Declaration of Health) substitute—
 
@@ -534,7 +534,7 @@ For Schedule 2 to the principal Regulations (Maritime Declaration of Health) sub
 >
 > [image: see source](https://www.legislation.gov.uk/uksi/2007/1446/images/uksi_20071446_en_001) [image: see source](https://www.legislation.gov.uk/uksi/2007/1446/images/uksi_20071446_en_002)
 
-## 30. Substitution of Schedule 3 to the principal Regulations[^key-12a3224a7a5e541bb898ed38bf035c05]
+## 30. Substitution of Schedule 3 to the principal Regulations[^c-12a3224a7a5e541bb898ed38bf035c05]
 
 For Schedule 3 to the principal Regulations (Deratting Certificate and Deratting Exemption Certificate) substitute—
 
@@ -544,7 +544,7 @@ For Schedule 3 to the principal Regulations (Deratting Certificate and Deratting
 >
 > [image: see source](https://www.legislation.gov.uk/uksi/2007/1446/images/uksi_20071446_en_003) [image: see source](https://www.legislation.gov.uk/uksi/2007/1446/images/uksi_20071446_en_004)
 
-## 31. Amendment of Schedule 4 to the principal Regulations[^key-6782d8bedb31a3ebb71ca37876ea148d]
+## 31. Amendment of Schedule 4 to the principal Regulations[^c-6782d8bedb31a3ebb71ca37876ea148d]
 
 (1) Schedule 4 to the principal Regulations (Additional Measures with Respect to the Diseases Subject to the International Health Regulations) is amended as follows.
 
@@ -583,11 +583,11 @@ For Schedule 3 to the principal Regulations (Deratting Certificate and Deratting
 
 .
 
-## 32. Omission of Schedule 5 to the principal Regulations[^key-3b7595d1dc6332233e903c2284ddb8ad]
+## 32. Omission of Schedule 5 to the principal Regulations[^c-3b7595d1dc6332233e903c2284ddb8ad]
 
 Omit Schedule 5 to the principal Regulations (International Certificate of Vaccination or Revaccination Against Smallpox).
 
-## 33. Transitional arrangements[^key-25a9377be17f4889a8df5ecb611cb8fd]
+## 33. Transitional arrangements[^c-25a9377be17f4889a8df5ecb611cb8fd]
 
 A local authority or authorised officer must treat—
 
@@ -632,11 +632,11 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00002]: Footnote: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22). Functions of the Secretary of State, so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999, [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), article 2 and Schedule 1.
 
-[^key-7fdf6c9e577a207853ee84c553e33490]: Commencement: Reg. 1 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-7fdf6c9e577a207853ee84c553e33490]: Commencement: Reg. 1 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 1979/1435](https://www.legislation.gov.uk/uksi/1979/1435).
 
-[^key-a105b4bdb1c34e939247066da5a84b58]: Commencement: Reg. 2 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-a105b4bdb1c34e939247066da5a84b58]: Commencement: Reg. 2 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
 [^f00004]: Footnote: [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17).
 
@@ -646,68 +646,68 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00007]: Footnote: See the IHR reproduced at document A58/55 of the fifty-eighth World Health Assembly on the WHO website at www.who.int/est/ihr/IHRWHA58\_3-en.pdf.
 
-[^key-8231313829d45bbd781202d1cb1c2274]: Commencement: Reg. 3 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-8231313829d45bbd781202d1cb1c2274]: Commencement: Reg. 3 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
 [^f00008]: Footnote: [1952 c. 21](https://www.legislation.gov.uk/ukpga/1952/21).
 
-[^key-73a2d4b421382f1460575feef5315810]: Commencement: Reg. 4 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-73a2d4b421382f1460575feef5315810]: Commencement: Reg. 4 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-9d84679d86bc532d2bb3548bbf297d77]: Commencement: Reg. 5 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-9d84679d86bc532d2bb3548bbf297d77]: Commencement: Reg. 5 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-6575a118d4bf9ad981b28956d929815b]: Commencement: Reg. 6 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-6575a118d4bf9ad981b28956d929815b]: Commencement: Reg. 6 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-5ebc2311979fe9a9aeb0088af8d42a70]: Commencement: Reg. 7 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-5ebc2311979fe9a9aeb0088af8d42a70]: Commencement: Reg. 7 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-741b42d4a6536700129cf86eb5cf7e6b]: Commencement: Reg. 8 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-741b42d4a6536700129cf86eb5cf7e6b]: Commencement: Reg. 8 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-0bc44964113cb13904276b3479a14bf3]: Commencement: Reg. 9 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-0bc44964113cb13904276b3479a14bf3]: Commencement: Reg. 9 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-047c96bbc4a7209d354323666c203131]: Commencement: Reg. 10 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-047c96bbc4a7209d354323666c203131]: Commencement: Reg. 10 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-5cb92a9da71afa9a4985010e95a93849]: Commencement: Reg. 11 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-5cb92a9da71afa9a4985010e95a93849]: Commencement: Reg. 11 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-4389b18cde33516ecbb6ef7469dbe7cc]: Commencement: Reg. 12 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-4389b18cde33516ecbb6ef7469dbe7cc]: Commencement: Reg. 12 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-5b8c06d6dfddcfde6b56a31fe2bbdba5]: Commencement: Reg. 13 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-5b8c06d6dfddcfde6b56a31fe2bbdba5]: Commencement: Reg. 13 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-8b4ba53b2a2f55e236e237e4ce982e52]: Commencement: Reg. 14 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-8b4ba53b2a2f55e236e237e4ce982e52]: Commencement: Reg. 14 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-fd837d4248150007f07c869b02b05dc3]: Commencement: Reg. 15 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-fd837d4248150007f07c869b02b05dc3]: Commencement: Reg. 15 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-4d85c383dab2dbab168c5bd7dd1f66ac]: Commencement: Reg. 16 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-4d85c383dab2dbab168c5bd7dd1f66ac]: Commencement: Reg. 16 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-64ef5ded2093237602d28dc6f9210dea]: Commencement: Reg. 17 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-64ef5ded2093237602d28dc6f9210dea]: Commencement: Reg. 17 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-f37374c19127615910a0fc7b2f6aceaa]: Commencement: Reg. 18 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-f37374c19127615910a0fc7b2f6aceaa]: Commencement: Reg. 18 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-2bea963bd96bac20b6f8e158c4c8b08e]: Commencement: Reg. 19 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-2bea963bd96bac20b6f8e158c4c8b08e]: Commencement: Reg. 19 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-49738af2e41255b7cf367abeb73b0957]: Commencement: Reg. 20 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-49738af2e41255b7cf367abeb73b0957]: Commencement: Reg. 20 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-0d7f1e8152672ce28be62f524221b0d5]: Commencement: Reg. 21 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-0d7f1e8152672ce28be62f524221b0d5]: Commencement: Reg. 21 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-8b9e257036c4b33694bd5ae5b26e73fe]: Commencement: Reg. 22 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-8b9e257036c4b33694bd5ae5b26e73fe]: Commencement: Reg. 22 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-c289462ae1afe5c1909d470b438838e9]: Commencement: Reg. 23 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-c289462ae1afe5c1909d470b438838e9]: Commencement: Reg. 23 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-1f9bb4e973eaa1ad6b77be7396acc397]: Commencement: Reg. 24 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-1f9bb4e973eaa1ad6b77be7396acc397]: Commencement: Reg. 24 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-89dbaeac5f14b2fa3c2ada1c2f5d624a]: Commencement: Reg. 25 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-89dbaeac5f14b2fa3c2ada1c2f5d624a]: Commencement: Reg. 25 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-a1c6306acf5ba05e1c6c271f0931a166]: Commencement: Reg. 26 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-a1c6306acf5ba05e1c6c271f0931a166]: Commencement: Reg. 26 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-6805b771006bfa878e4715db85e59da5]: Commencement: Reg. 27 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-6805b771006bfa878e4715db85e59da5]: Commencement: Reg. 27 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-9a59565e08ef607bb79caafab7a79f33]: Commencement: Reg. 28 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-9a59565e08ef607bb79caafab7a79f33]: Commencement: Reg. 28 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-f5f44a51d69b6d974d633fa5b923a6b1]: Commencement: Reg. 29 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-f5f44a51d69b6d974d633fa5b923a6b1]: Commencement: Reg. 29 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-12a3224a7a5e541bb898ed38bf035c05]: Commencement: Reg. 30 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-12a3224a7a5e541bb898ed38bf035c05]: Commencement: Reg. 30 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-6782d8bedb31a3ebb71ca37876ea148d]: Commencement: Reg. 31 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-6782d8bedb31a3ebb71ca37876ea148d]: Commencement: Reg. 31 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-3b7595d1dc6332233e903c2284ddb8ad]: Commencement: Reg. 32 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-3b7595d1dc6332233e903c2284ddb8ad]: Commencement: Reg. 32 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
-[^key-25a9377be17f4889a8df5ecb611cb8fd]: Commencement: Reg. 33 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
+[^c-25a9377be17f4889a8df5ecb611cb8fd]: Commencement: Reg. 33 in force at 15.6.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1446/regulation/1/1)
 
 [^f00009]: Footnote: [S.I. 1979/1435](https://www.legislation.gov.uk/uksi/1979/1435).

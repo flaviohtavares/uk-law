@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Claims under warranty: quantification of compensation[^key-7f702fe342c9faa6ea5efb397596cef1]
+## 79. Claims under warranty: quantification of compensation[^c-7f702fe342c9faa6ea5efb397596cef1]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f702fe342c9faa6ea5efb397596cef1]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2012/5/section/79) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-7f702fe342c9faa6ea5efb397596cef1]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2012/5/section/79) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

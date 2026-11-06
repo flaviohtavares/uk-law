@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. General functions[^key-e83b2879aa642903bbcde62a40029af0]
+## 5. General functions[^c-e83b2879aa642903bbcde62a40029af0]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e83b2879aa642903bbcde62a40029af0]: Commencement: Art. 5 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-e83b2879aa642903bbcde62a40029af0]: Commencement: Art. 5 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
 
 [^f00015]: Footnote: The Harbours Business Plan may be inspected during working hours at the principal office of Cornwall Council, New County Hall, Treyew Road, Truro TR1 3AY and via the Council’s harbours website at www.cornwallharbours.co.uk.

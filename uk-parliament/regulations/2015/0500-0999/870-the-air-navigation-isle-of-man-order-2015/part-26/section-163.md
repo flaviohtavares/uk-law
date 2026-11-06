@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163. Application of the Order to visiting forces[^key-ddc6f6c8d32afb5a44ebdee213bfac48]
+## 163. Application of the Order to visiting forces[^c-ddc6f6c8d32afb5a44ebdee213bfac48]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ddc6f6c8d32afb5a44ebdee213bfac48]: Commencement: [Art. 163](https://www.legislation.gov.uk/uksi/2015/870/article/163) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-ddc6f6c8d32afb5a44ebdee213bfac48]: Commencement: [Art. 163](https://www.legislation.gov.uk/uksi/2015/870/article/163) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

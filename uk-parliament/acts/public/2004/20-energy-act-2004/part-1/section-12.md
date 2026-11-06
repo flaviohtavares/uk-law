@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Contents of strategy[^key-8ba5219a3e4ab3a7d5e14dc1c92a0900]
+## 12. Contents of strategy[^c-8ba5219a3e4ab3a7d5e14dc1c92a0900]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ba5219a3e4ab3a7d5e14dc1c92a0900]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2004/20/section/12) in force at 31.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/442/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/442/schedule/2)
+[^c-8ba5219a3e4ab3a7d5e14dc1c92a0900]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2004/20/section/12) in force at 31.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/442/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/442/schedule/2)

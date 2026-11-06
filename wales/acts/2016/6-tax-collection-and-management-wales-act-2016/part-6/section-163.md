@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 163. Rates of late payment interest and repayment interest[^key-aea1b99c9f6abe0ef5e7a59608962171]
+## 163. Rates of late payment interest and repayment interest[^c-aea1b99c9f6abe0ef5e7a59608962171]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aea1b99c9f6abe0ef5e7a59608962171]: Commencement: S. 163 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)
+[^c-aea1b99c9f6abe0ef5e7a59608962171]: Commencement: S. 163 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)

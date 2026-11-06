@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Restrictions on impounding[^key-675d29de59f72cb3588731e76feab409]
+## 2. Restrictions on impounding[^c-675d29de59f72cb3588731e76feab409]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ is to be taken to satisfy the condition referred to in section 25(1A)(a) of that
 
 ## Annotations
 
-[^key-675d29de59f72cb3588731e76feab409]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2003/37/section/2) in force at 1.4.2006 by [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/984/article/2/b) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/2))
+[^c-675d29de59f72cb3588731e76feab409]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2003/37/section/2) in force at 1.4.2006 by [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/984/article/2/b) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/2))

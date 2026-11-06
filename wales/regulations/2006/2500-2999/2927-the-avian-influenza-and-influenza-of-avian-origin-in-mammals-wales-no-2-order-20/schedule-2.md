@@ -28,7 +28,7 @@ The occupier must give all reasonable assistance to any person exercising a duty
 
 ### 2. Measures to minimise the risk of spread of avian influenza to wild birds
 
-The occupier must take such action as a veterinary inspector reasonably requires to reduce the risk of the spread of avian influenza virus[^key-2793eca158f76aafe69689a2b853740d] to wild birds.
+The occupier must take such action as a veterinary inspector reasonably requires to reduce the risk of the spread of avian influenza virus[^c-2793eca158f76aafe69689a2b853740d] to wild birds.
 
 ### 3. Disposal of carcases and eggs
 
@@ -36,7 +36,7 @@ The occupier must ensure that all carcases and eggs not seized or disposed of by
 
 ### 4. Tracing
 
-The occupier must give all reasonable assistance to a veterinary inspector in the tracing of any thing liable to transmit avian influenza virus[^key-1cbc0da02a185d94581f699f78d77047] to or from the premises.
+The occupier must give all reasonable assistance to a veterinary inspector in the tracing of any thing liable to transmit avian influenza virus[^c-1cbc0da02a185d94581f699f78d77047] to or from the premises.
 
 ### 5. Cleansing and disinfection
 
@@ -46,7 +46,7 @@ The occupier must cleanse and disinfect the infected premises in accordance with
 
 The occupier must not restock the premises except in accordance with article 67.
 
-### 7. Primary outbreak[^key-3e289ed67c1339267a14bfd7d8e31e5b]
+### 7. Primary outbreak[^c-3e289ed67c1339267a14bfd7d8e31e5b]
 
 In the case of a primary outbreak—
 
@@ -57,8 +57,8 @@ In the case of a primary outbreak—
 
 [^c17275771]: Marginal citation: [S.I. 1993/1685](https://www.legislation.gov.uk/uksi/1993/1685).
 
-[^key-2793eca158f76aafe69689a2b853740d]: Textual amendment: Word in [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2006/2927/schedule/2/paragraph/2) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [44(a)](https://www.legislation.gov.uk/wsi/2025/1357/article/44/a)
+[^c-2793eca158f76aafe69689a2b853740d]: Textual amendment: Word in [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2006/2927/schedule/2/paragraph/2) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [44(a)](https://www.legislation.gov.uk/wsi/2025/1357/article/44/a)
 
-[^key-1cbc0da02a185d94581f699f78d77047]: Textual amendment: Word in [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2006/2927/schedule/2/paragraph/4) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [44(b)](https://www.legislation.gov.uk/wsi/2025/1357/article/44/b)
+[^c-1cbc0da02a185d94581f699f78d77047]: Textual amendment: Word in [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2006/2927/schedule/2/paragraph/4) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [44(b)](https://www.legislation.gov.uk/wsi/2025/1357/article/44/b)
 
-[^key-3e289ed67c1339267a14bfd7d8e31e5b]: Textual amendment: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2006/2927/schedule/2/paragraph/7) inserted (10.3.2022 at 8.47 p.m.) by [The Avian Influenza (Wales) (Amendment and Revocation) Order 2022 (S.I. 2022/280)](https://www.legislation.gov.uk/wsi/2022/280), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/280/article/1/2), [19](https://www.legislation.gov.uk/wsi/2022/280/article/19)
+[^c-3e289ed67c1339267a14bfd7d8e31e5b]: Textual amendment: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2006/2927/schedule/2/paragraph/7) inserted (10.3.2022 at 8.47 p.m.) by [The Avian Influenza (Wales) (Amendment and Revocation) Order 2022 (S.I. 2022/280)](https://www.legislation.gov.uk/wsi/2022/280), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/280/article/1/2), [19](https://www.legislation.gov.uk/wsi/2022/280/article/19)

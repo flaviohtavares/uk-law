@@ -22,7 +22,7 @@ summary: ''
 
 Article ‎9 and Article ‎10
 
-### PART 1 — PERMANENT ALTERATION OF LAYOUT[^key-b3016e79680cc063a495f3710bb2d492]
+### PART 1 — PERMANENT ALTERATION OF LAYOUT[^c-b3016e79680cc063a495f3710bb2d492]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street* | *(3)*<br>*Description of alteration* |
 | --- | --- | --- |
@@ -56,7 +56,7 @@ Article ‎9 and Article ‎10
 | District of Bassetlaw | Access Track Headstead Bank Southbound | Permanent alteration of layout at the point marked 14/03 on sheet 14 of the streets, rights of way and access plans. |
 | District of Bassetlaw | Proposed Access off Headstead Bank Northbound | Permanent alteration of layout at the point marked 14/20 on sheet 14 of the streets, rights of way and access plans. |
 | District of Bassetlaw | Existing access off Cow Pasture Lane | Permanent alteration of layout at the point marked 15/09 on sheet 15 of the streets, rights of way and access plans. |
-| District of Bassetlaw | Proposed Access off Cottam[^key-97f20fc7661407f52ce417d2e713c495] Road Eastbound | Permanent alteration of layout at the point marked 15/10 on sheet 15 of the streets, rights of way and access plans. |
+| District of Bassetlaw | Proposed Access off Cottam[^c-97f20fc7661407f52ce417d2e713c495] Road Eastbound | Permanent alteration of layout at the point marked 15/10 on sheet 15 of the streets, rights of way and access plans. |
 | District of Bassetlaw | Existing Field access off Cottam Road Westbound | Permanent alteration of layout at the point marked 15/01 on sheet 15 of the streets, rights of way and access plans. |
 | District of Bassetlaw | Proposed Access off Cow Pasture Lane | Permanent alteration of layout at the point marked 15/15 on sheet 15 of the streets, rights of way and access plans. |
 | District of Bassetlaw | Field Access Torksey Ferry Road Eastbound | Permanent alteration of layout at the point marked 17/02 on sheet 17 of the streets, rights of way and access plans. |
@@ -64,7 +64,7 @@ Article ‎9 and Article ‎10
 | District of Bassetlaw | Field Access Shortleys Lane Northbound | Permanent alteration of layout at the point marked 17/18 on sheet 17 of the streets, rights of way and access plans. |
 | District of Bassetlaw | Field Access Shortleys Lane Southbound | Permanent alteration of layout at the point marked 17/19 on sheet 17 of the streets, rights of way and access plans. |
 
-### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^key-28b1f0b1b10261e8d68b3b833c800466]
+### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^c-28b1f0b1b10261e8d68b3b833c800466]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street* | *(3)*<br>*Description of alteration* |
 | --- | --- | --- |
@@ -72,8 +72,8 @@ Article ‎9 and Article ‎10
 
 ## Annotations
 
-[^key-b3016e79680cc063a495f3710bb2d492]: Commencement: Sch. 5 Pt. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-b3016e79680cc063a495f3710bb2d492]: Commencement: Sch. 5 Pt. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
 
-[^key-97f20fc7661407f52ce417d2e713c495]: Textual amendment: Word in [Sch. 5 Pt. 1](https://www.legislation.gov.uk/uksi/2024/807/schedule/5/part/1) substituted (28.11.2024) by [The Gate Burton Energy Park (Correction) Order 2024 (S.I. 2024/1249)](https://www.legislation.gov.uk/uksi/2024/1249), [art. 1](https://www.legislation.gov.uk/uksi/2024/1249/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1249/schedule)
+[^c-97f20fc7661407f52ce417d2e713c495]: Textual amendment: Word in [Sch. 5 Pt. 1](https://www.legislation.gov.uk/uksi/2024/807/schedule/5/part/1) substituted (28.11.2024) by [The Gate Burton Energy Park (Correction) Order 2024 (S.I. 2024/1249)](https://www.legislation.gov.uk/uksi/2024/1249), [art. 1](https://www.legislation.gov.uk/uksi/2024/1249/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1249/schedule)
 
-[^key-28b1f0b1b10261e8d68b3b833c800466]: Commencement: Sch. 5 Pt. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-28b1f0b1b10261e8d68b3b833c800466]: Commencement: Sch. 5 Pt. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)

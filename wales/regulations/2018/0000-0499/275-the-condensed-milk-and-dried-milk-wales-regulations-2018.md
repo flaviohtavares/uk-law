@@ -47,11 +47,11 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Welsh Ministers that it is expedient for references to the European instruments, and the Annex to the European instrument, listed in regulation 2(4) to be construed as references to those instruments and that Annex as amended from time to time.
 
-So far as these Regulations are made in exercise of powers under the Food Safety Act 1990, the Welsh Ministers have had regard to relevant advice given by the Food Standards Agency in accordance with section 48(4A)[^f00003] of that Act.[^key-d139ec73d26cdd6828735d0379e5f7dc]
+So far as these Regulations are made in exercise of powers under the Food Safety Act 1990, the Welsh Ministers have had regard to relevant advice given by the Food Standards Agency in accordance with section 48(4A)[^f00003] of that Act.[^c-d139ec73d26cdd6828735d0379e5f7dc]
 
-There has been open and transparent public consultation during the preparation and evaluation of these Regulations as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00004].[^key-d139ec73d26cdd6828735d0379e5f7dc]
+There has been open and transparent public consultation during the preparation and evaluation of these Regulations as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00004].[^c-d139ec73d26cdd6828735d0379e5f7dc]
 
-## 1. Title, application and commencement[^key-1f46203fd647ec43e0739d8d1168f6a3]
+## 1. Title, application and commencement[^c-1f46203fd647ec43e0739d8d1168f6a3]
 
 (1) The title of these Regulations is the Condensed Milk and Dried Milk (Wales) Regulations 2018.
 
@@ -59,7 +59,7 @@ There has been open and transparent public consultation during the preparation a
 
 (3) These Regulations come into force on 26 March 2018.
 
-## 2. Interpretation[^key-c603862f38d38a954a67c381f26dd40c]
+## 2. Interpretation[^c-c603862f38d38a954a67c381f26dd40c]
 
 (1) In these Regulations—
 
@@ -87,7 +87,7 @@ There has been open and transparent public consultation during the preparation a
 - (c) First Commission [Directive 79/1067/EEC](https://www.legislation.gov.uk/european/directive/1979/1067) laying down Community methods of analysis for testing certain partly or wholly dehydrated preserved milk for human consumption[^f00007];
 - (d) the Annex to First Commission [Directive 87/524/EEC](https://www.legislation.gov.uk/european/directive/1987/0524) laying down Community methods of sampling for chemical analysis for the monitoring of preserved milk products[^f00008].
 
-## 3. Reserved descriptions[^key-b398b25812a673be853951e66d966b16]
+## 3. Reserved descriptions[^c-b398b25812a673be853951e66d966b16]
 
 No person may sell any food with a label, whether or not attached to or printed on the wrapper or container, which bears, comprises or includes any reserved description or Welsh equivalent reserved description, or an equivalent description in any other language, a derivative of such description, or a substantially similar word or description unless—
 
@@ -95,7 +95,7 @@ No person may sell any food with a label, whether or not attached to or printed 
 - (b) such description, derivative or word is used in such a context as to indicate explicitly or by clear implication that the substance to which it relates is only an ingredient of that food; or
 - (c) such description, derivative or word is used in such a context as to indicate explicitly or by clear implication that such food is not and does not contain a designated product.
 
-## 4. Labelling and description[^key-0213d336e20db5e29c7880debbf2b8cb]
+## 4. Labelling and description[^c-0213d336e20db5e29c7880debbf2b8cb]
 
 (1) No person may sell any designated product unless it is marked or labelled with the following particulars—
 
@@ -110,13 +110,13 @@ No person may sell any food with a label, whether or not attached to or printed 
 
 (3) Nothing in paragraph (1)(d)(ii) prevents the use of the words “nid yw wedi ei fwriadu yn fwyd i fabanod o dan 12 mis oed”, or equivalent words in any other language, in addition to “not intended as a food for infants under 12 months”.
 
-## 5. Manner of marking or labelling[^key-ff3dc0bf99e9345eb43fda5f46a24f23]
+## 5. Manner of marking or labelling[^c-ff3dc0bf99e9345eb43fda5f46a24f23]
 
 (1) The particulars with which a designated product is required to be marked or labelled by virtue of regulation 4(1)(b) or (c) (or both) must appear near the trade name of the product.
 
 (2) Where designated products weighing less than 20 grams per unit are packed in an outer packaging, the particulars required by regulation 4(1)(b) to (d) may appear on the label or the outer packaging.
 
-## 6. Application and modification of provisions of the Act[^key-8e65b04a0d474fb02e9d713821b0720c]
+## 6. Application and modification of provisions of the Act[^c-8e65b04a0d474fb02e9d713821b0720c]
 
 (1) Section 10(1) and (2) of the Act (improvement notices) applies for the purposes of these Regulations with the modification (in the case of section 10(1)) set out in Part 1 of Schedule 3 for the purposes of—
 
@@ -127,11 +127,11 @@ No person may sell any food with a label, whether or not attached to or printed 
 
 (3) Paragraphs (1) and (2) are without prejudice to the application of the Act to these Regulations for purposes other than those specified in paragraph (1).
 
-## 7. Enforcement[^key-825b13575cfb74817d323b4b3f1e6bdb]
+## 7. Enforcement[^c-825b13575cfb74817d323b4b3f1e6bdb]
 
 It is the duty of each food authority to enforce these Regulations in its area.
 
-## 8. Revocations[^key-c61d03d7c3fb6bbc34ffa01ff118fea0]
+## 8. Revocations[^c-c61d03d7c3fb6bbc34ffa01ff118fea0]
 
 The following Regulations are revoked to the extent specified—
 
@@ -169,22 +169,22 @@ Regulation 2(1)
 | (c) Dried partly skimmed milk or partly skimmed milk powder | Llaeth rhannol sgim sych neu laeth powdr rhannol sgim | Totally dehydrated milk containing, by weight, more than 1.5% and less than 26% fat |
 | (d) Dried skimmed milk or skimmed milk powder | Llaeth sgim sych neu laeth powdr sgim | Totally dehydrated milk containing, by weight, not more than 1.5% fat |
 
-### 1. Notes[^key-921eedfe5afe681026cbd6201273ad99]
+### 1. Notes[^c-921eedfe5afe681026cbd6201273ad99]
 
 Any designated product may contain—
 
 - (a) any substance permitted pursuant to Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council[^f00012]; and
 - (b) vitamins and minerals in accordance with the requirements of Regulation [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925)[^f00013].
 
-**2.**[^key-3e40d0f31254bee8646d5c622d5617f9] An additional quantity of lactose, not greater than 0.03% by weight of the finished product, may be added in the manufacture of any designated product referred to in paragraph 1(e), (f) or (g) in the table in this Schedule.
+**2.**[^c-3e40d0f31254bee8646d5c622d5617f9] An additional quantity of lactose, not greater than 0.03% by weight of the finished product, may be added in the manufacture of any designated product referred to in paragraph 1(e), (f) or (g) in the table in this Schedule.
 
-**3.**[^key-a1ca1210afc2ee4b4e7a3e0f0d20c1a1] Without prejudice to Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin[^f00014], the preservation of the designated products must be achieved—
+**3.**[^c-a1ca1210afc2ee4b4e7a3e0f0d20c1a1] Without prejudice to Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin[^f00014], the preservation of the designated products must be achieved—
 
 - (a) by heat treatment for the products referred to in paragraph 1(a) to (d) in the table in this Schedule;
 - (b) by the addition of sucrose for the products referred to in paragraph 1(e) to (g) in the table in this Schedule; and
 - (c) by dehydration for the products referred to in paragraph 2(a) to (d) in the table in this Schedule.
 
-**4.**[^key-d6c909f45854fba53ec5d379acc88012] (1) Without prejudice to the compositional requirements set out in the table in this Schedule, the protein content of milk may be adjusted to a minimum content of 34% by weight (expressed on fat-free dry matter) by the addition or withdrawal (or both) of milk constituents in such a way as not to alter the ratio of whey protein to casein in the milk being adjusted.
+**4.**[^c-d6c909f45854fba53ec5d379acc88012] (1) Without prejudice to the compositional requirements set out in the table in this Schedule, the protein content of milk may be adjusted to a minimum content of 34% by weight (expressed on fat-free dry matter) by the addition or withdrawal (or both) of milk constituents in such a way as not to alter the ratio of whey protein to casein in the milk being adjusted.
 
 (2) Authorised raw materials for protein adjustment purposes referred to in paragraph (1) are as follows—
 
@@ -192,21 +192,21 @@ Any designated product may contain—
 - (b) milk permeate, which is the product obtained by removing milk proteins and milk fat from milk, partly skimmed milk or skimmed milk by ultrafiltration; and
 - (c) lactose, which is a natural constituent of milk normally obtained from whey with an anhydrous lactose content of not less than 99.0% m/m (mass over mass) on a dry basis, and which may be anhydrous or contain one molecule of water of crystallisation or be a mixture of both forms.
 
-**5.**[^key-bf42888cf74b70319bce8959b816b0f4] The levels of dry matter, moisture content, fat, sucrose, lactic acid and lactates and phosphatase activity in the designated products must be determined in accordance with the methods set out in First Commission [Directive 79/1067/EEC](https://www.legislation.gov.uk/european/directive/1979/1067)[^f00015].
+**5.**[^c-bf42888cf74b70319bce8959b816b0f4] The levels of dry matter, moisture content, fat, sucrose, lactic acid and lactates and phosphatase activity in the designated products must be determined in accordance with the methods set out in First Commission [Directive 79/1067/EEC](https://www.legislation.gov.uk/european/directive/1979/1067)[^f00015].
 
 ## SCHEDULE 2 — Permitted alternative descriptions to the reserved descriptions specified in Schedule 1
 
 Regulation 2(1)
 
-**1.**[^key-a3dff9807ad459691042031d30de8342] (1) The term “evaporated milk” may be used instead of the term “condensed milk” in the case of partly dehydrated milk containing, by weight, at least 9% fat and 31% total milk solids.
+**1.**[^c-a3dff9807ad459691042031d30de8342] (1) The term “evaporated milk” may be used instead of the term “condensed milk” in the case of partly dehydrated milk containing, by weight, at least 9% fat and 31% total milk solids.
 
 (2) The Welsh equivalent of “evaporated milk” is “llaeth anwedd”.
 
-**2.**[^key-e2b63e3e43193c90a1ec7095b182427f] (1) The term “evaporated semi-skimmed milk” may be used instead of the term “condensed partly skimmed milk” in the case of partly dehydrated milk containing, by weight, between 4% and 4.5% fat and not less than 24% total milk solids.
+**2.**[^c-e2b63e3e43193c90a1ec7095b182427f] (1) The term “evaporated semi-skimmed milk” may be used instead of the term “condensed partly skimmed milk” in the case of partly dehydrated milk containing, by weight, between 4% and 4.5% fat and not less than 24% total milk solids.
 
 (2) The Welsh equivalent of “evaporated semi-skimmed milk” is “llaeth anwedd hanner sgim”.
 
-**3.**[^key-5c5a540450038cf743dd236cdb968ff7] (1) The term “semi-skimmed milk powder” or “dried semi-skimmed milk” may be used instead of the term “dried partly skimmed milk” or “partly skimmed milk powder” in the case of totally dehydrated milk with a fat content of between 14% and 16%.
+**3.**[^c-5c5a540450038cf743dd236cdb968ff7] (1) The term “semi-skimmed milk powder” or “dried semi-skimmed milk” may be used instead of the term “dried partly skimmed milk” or “partly skimmed milk powder” in the case of totally dehydrated milk with a fat content of between 14% and 16%.
 
 (2) The Welsh equivalent of—
 
@@ -219,7 +219,7 @@ Regulation 6
 
 ### PART 1 — Modification of section 10(1)
 
-**1.**[^key-1ef439fa5a5cc42cd1c11e399dfd5771] For section 10(1) of the Act (improvement notices) substitute—
+**1.**[^c-1ef439fa5a5cc42cd1c11e399dfd5771] For section 10(1) of the Act (improvement notices) substitute—
 
 > - If an authorised officer has reasonable grounds for believing that a person is failing to comply with any of regulations 3, 4 or 5 of the Condensed Milk and Dried Milk (Wales) Regulations 2018, the authorised officer may, by a notice served on that person (in this Act referred to as an “improvement notice”)—
 >   - (a) state the officer’s grounds for believing that the person is failing to comply with the relevant provisions;
@@ -227,7 +227,7 @@ Regulation 6
 >   - (c) specify the measures which, in the officer’s opinion, the person must take in order to secure compliance; and
 >   - (d) require the person to take measures, or measures that are at least equivalent to them, within such period (not being less than 14 days) as may be specified in the notice.
 
-### PART 2 — Application and modification of other provisions of the Act[^key-af560880c9d3bf2b7465364087b92dc1]
+### PART 2 — Application and modification of other provisions of the Act[^c-af560880c9d3bf2b7465364087b92dc1]
 
 | *Column 1*<br>*Provision of the Act* | *Column 2*<br>*Modifications* |
 | --- | --- |
@@ -275,13 +275,13 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00003]: Footnote: Section 48(4A) was inserted by paragraph 21 of Schedule 5 to the 1999 Act.
 
-[^key-d139ec73d26cdd6828735d0379e5f7dc]: Modification: Regulations applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-d139ec73d26cdd6828735d0379e5f7dc]: Modification: Regulations applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
 [^f00004]: Footnote: OJ No L 31, 1.2.2002, p 1, last amended by Regulation (EU) No 652/2014 of the European Parliament and of the Council (OJ No L 189, 27.6.2014, p 1).
 
-[^key-1f46203fd647ec43e0739d8d1168f6a3]: Commencement: Reg. 1 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
+[^c-1f46203fd647ec43e0739d8d1168f6a3]: Commencement: Reg. 1 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
 
-[^key-c603862f38d38a954a67c381f26dd40c]: Commencement: Reg. 2 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
+[^c-c603862f38d38a954a67c381f26dd40c]: Commencement: Reg. 2 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
 
 [^f00005]: Footnote: OJ No L 354, 31.12.08, p 16, last amended by Commission Regulation (EU) 2017/874 (OJ No L 134, 23.5.17, p 18).
 
@@ -291,17 +291,17 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00008]: Footnote: OJ No L 306, 28.10.87, p 24.
 
-[^key-b398b25812a673be853951e66d966b16]: Commencement: Reg. 3 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
+[^c-b398b25812a673be853951e66d966b16]: Commencement: Reg. 3 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
 
-[^key-0213d336e20db5e29c7880debbf2b8cb]: Commencement: Reg. 4 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
+[^c-0213d336e20db5e29c7880debbf2b8cb]: Commencement: Reg. 4 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
 
-[^key-ff3dc0bf99e9345eb43fda5f46a24f23]: Commencement: Reg. 5 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
+[^c-ff3dc0bf99e9345eb43fda5f46a24f23]: Commencement: Reg. 5 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
 
-[^key-8e65b04a0d474fb02e9d713821b0720c]: Commencement: Reg. 6 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
+[^c-8e65b04a0d474fb02e9d713821b0720c]: Commencement: Reg. 6 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
 
-[^key-825b13575cfb74817d323b4b3f1e6bdb]: Commencement: Reg. 7 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
+[^c-825b13575cfb74817d323b4b3f1e6bdb]: Commencement: Reg. 7 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
 
-[^key-c61d03d7c3fb6bbc34ffa01ff118fea0]: Commencement: Reg. 8 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
+[^c-c61d03d7c3fb6bbc34ffa01ff118fea0]: Commencement: Reg. 8 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
 
 [^f00009]: Footnote: [S.I. 2003/3053 (W. 291)](https://www.legislation.gov.uk/wsi/2003/3053).
 
@@ -309,33 +309,33 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00011]: Footnote: [S.I. 2008/137 (W. 19)](https://www.legislation.gov.uk/wsi/2008/137).
 
-[^key-921eedfe5afe681026cbd6201273ad99]: Commencement: Sch. 1 para. 1 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
+[^c-921eedfe5afe681026cbd6201273ad99]: Commencement: Sch. 1 para. 1 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
 
 [^f00012]: Footnote: OJ No L 354, 31.12.08, p 16, last amended by Commission Regulation (EU) 2017/874 (OJ No L 134, 23.5.17, p 18).
 
 [^f00013]: Footnote: OJ No L 404, 30.12.06, p 26, last amended by Commission Regulation (EU) 2017/1203 (OJ No L 173, 6.7.17, p 9).
 
-[^key-3e40d0f31254bee8646d5c622d5617f9]: Commencement: Sch. 1 para. 2 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
+[^c-3e40d0f31254bee8646d5c622d5617f9]: Commencement: Sch. 1 para. 2 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
 
-[^key-a1ca1210afc2ee4b4e7a3e0f0d20c1a1]: Commencement: Sch. 1 para. 3 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
+[^c-a1ca1210afc2ee4b4e7a3e0f0d20c1a1]: Commencement: Sch. 1 para. 3 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
 
 [^f00014]: Footnote: OJ No L 139, 30.4.04, p 55, last amended by Commission Regulation (EU) 2016/355 (OJ No L 67, 12.3.16, p 22).
 
-[^key-d6c909f45854fba53ec5d379acc88012]: Commencement: Sch. 1 para. 4 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
+[^c-d6c909f45854fba53ec5d379acc88012]: Commencement: Sch. 1 para. 4 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
 
-[^key-bf42888cf74b70319bce8959b816b0f4]: Commencement: Sch. 1 para. 5 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
+[^c-bf42888cf74b70319bce8959b816b0f4]: Commencement: Sch. 1 para. 5 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
 
 [^f00015]: Footnote: OJ No L 327, 24.12.79, p 29.
 
-[^key-a3dff9807ad459691042031d30de8342]: Commencement: Sch. 2 para. 1 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
+[^c-a3dff9807ad459691042031d30de8342]: Commencement: Sch. 2 para. 1 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
 
-[^key-e2b63e3e43193c90a1ec7095b182427f]: Commencement: Sch. 2 para. 2 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
+[^c-e2b63e3e43193c90a1ec7095b182427f]: Commencement: Sch. 2 para. 2 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
 
-[^key-5c5a540450038cf743dd236cdb968ff7]: Commencement: Sch. 2 para. 3 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
+[^c-5c5a540450038cf743dd236cdb968ff7]: Commencement: Sch. 2 para. 3 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
 
-[^key-1ef439fa5a5cc42cd1c11e399dfd5771]: Commencement: Sch. 3 para. 1 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
+[^c-1ef439fa5a5cc42cd1c11e399dfd5771]: Commencement: Sch. 3 para. 1 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
 
-[^key-af560880c9d3bf2b7465364087b92dc1]: Commencement: Sch. 3 Pt. 2 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
+[^c-af560880c9d3bf2b7465364087b92dc1]: Commencement: Sch. 3 Pt. 2 in force at 26.3.2018, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3)
 
 [^f00016]: Footnote: OJ No L 306, 28.10.87, p 24.
 

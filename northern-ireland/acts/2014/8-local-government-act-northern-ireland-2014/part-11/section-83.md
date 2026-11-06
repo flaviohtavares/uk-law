@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 83. Limits on power conferred by section 82(1)[^key-b4c79cfa5739f52a925ae655ce0d18b4]
+## 83. Limits on power conferred by section 82(1)[^c-b4c79cfa5739f52a925ae655ce0d18b4]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4c79cfa5739f52a925ae655ce0d18b4]: Commencement: [S. 83](https://www.legislation.gov.uk/nia/2014/8/section/83) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-b4c79cfa5739f52a925ae655ce0d18b4]: Commencement: [S. 83](https://www.legislation.gov.uk/nia/2014/8/section/83) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-Farm Nutrient Management Scheme (Northern Ireland) 2004 (revoked)[^key-69493a538fc6e68bf7500d0b5d57d186]
+Farm Nutrient Management Scheme (Northern Ireland) 2004 (revoked)[^c-69493a538fc6e68bf7500d0b5d57d186]
 
 Made
 
@@ -41,39 +41,39 @@ Coming into operation
 
 17th January 2005
 
-[^key-69493a538fc6e68bf7500d0b5d57d186]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-69493a538fc6e68bf7500d0b5d57d186]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-69493a538fc6e68bf7500d0b5d57d186]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Interpretation[^key-69493a538fc6e68bf7500d0b5d57d186]
+## 1. Citation and commencement[^c-69493a538fc6e68bf7500d0b5d57d186]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Payment and amount of grants[^key-69493a538fc6e68bf7500d0b5d57d186]
+## 2. Interpretation[^c-69493a538fc6e68bf7500d0b5d57d186]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Financial limits[^key-69493a538fc6e68bf7500d0b5d57d186]
+## 3. Payment and amount of grants[^c-69493a538fc6e68bf7500d0b5d57d186]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Restrictions on the making of grants[^key-69493a538fc6e68bf7500d0b5d57d186]
+## 4. Financial limits[^c-69493a538fc6e68bf7500d0b5d57d186]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Applications for grant[^key-69493a538fc6e68bf7500d0b5d57d186]
+## 5. Restrictions on the making of grants[^c-69493a538fc6e68bf7500d0b5d57d186]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Applications for grant[^c-69493a538fc6e68bf7500d0b5d57d186]
 
 **Not yet in force.**
 
@@ -81,28 +81,28 @@ Coming into operation
 
 **May not be in force at this date. Check the source.**
 
-[^key-69493a538fc6e68bf7500d0b5d57d186]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-69493a538fc6e68bf7500d0b5d57d186]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE — CONDITIONS UNDER WHICH GRANT IS PAYABLE[^key-69493a538fc6e68bf7500d0b5d57d186]
+## SCHEDULE — CONDITIONS UNDER WHICH GRANT IS PAYABLE[^c-69493a538fc6e68bf7500d0b5d57d186]
 
-**1.**[^key-69493a538fc6e68bf7500d0b5d57d186][^key-e3123dd8d34d4d5aba8db29120b82b2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-69493a538fc6e68bf7500d0b5d57d186][^c-e3123dd8d34d4d5aba8db29120b82b2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-69493a538fc6e68bf7500d0b5d57d186][^key-7bec6673fe18a32829aa63c4da59994d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-69493a538fc6e68bf7500d0b5d57d186][^c-7bec6673fe18a32829aa63c4da59994d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-69493a538fc6e68bf7500d0b5d57d186][^key-e8b8714a6c269c7a5449ad0b4653b4eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-69493a538fc6e68bf7500d0b5d57d186][^c-e8b8714a6c269c7a5449ad0b4653b4eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-69493a538fc6e68bf7500d0b5d57d186][^key-f97a97dd46b0f7f69d0ed04864f17608] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-69493a538fc6e68bf7500d0b5d57d186][^c-f97a97dd46b0f7f69d0ed04864f17608] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-69493a538fc6e68bf7500d0b5d57d186]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-69493a538fc6e68bf7500d0b5d57d186]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-69493a538fc6e68bf7500d0b5d57d186]: Textual amendment: [Sch](https://www.legislation.gov.uk/nisr/2004/498/schedule)eme revoked (16.1.2005) by [Farm Nutrient Management Scheme (Northern Ireland) 2005 (S.R. 2005/5)](https://www.legislation.gov.uk/nisr/2005/5), [arts. 1](https://www.legislation.gov.uk/nisr/2005/5/article/1), [7](https://www.legislation.gov.uk/nisr/2005/5/article/7)
+[^c-69493a538fc6e68bf7500d0b5d57d186]: Textual amendment: [Sch](https://www.legislation.gov.uk/nisr/2004/498/schedule)eme revoked (16.1.2005) by [Farm Nutrient Management Scheme (Northern Ireland) 2005 (S.R. 2005/5)](https://www.legislation.gov.uk/nisr/2005/5), [arts. 1](https://www.legislation.gov.uk/nisr/2005/5/article/1), [7](https://www.legislation.gov.uk/nisr/2005/5/article/7)
 
-[^key-e3123dd8d34d4d5aba8db29120b82b2e]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2004/498/schedule/paragraph/1) in operation at 17.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/498/article/1)
+[^c-e3123dd8d34d4d5aba8db29120b82b2e]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2004/498/schedule/paragraph/1) in operation at 17.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/498/article/1)
 
-[^key-7bec6673fe18a32829aa63c4da59994d]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2004/498/schedule/paragraph/2) in operation at 17.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/498/article/1)
+[^c-7bec6673fe18a32829aa63c4da59994d]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2004/498/schedule/paragraph/2) in operation at 17.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/498/article/1)
 
-[^key-e8b8714a6c269c7a5449ad0b4653b4eb]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2004/498/schedule/paragraph/3) in operation at 17.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/498/article/1)
+[^c-e8b8714a6c269c7a5449ad0b4653b4eb]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2004/498/schedule/paragraph/3) in operation at 17.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/498/article/1)
 
-[^key-f97a97dd46b0f7f69d0ed04864f17608]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2004/498/schedule/paragraph/4) in operation at 17.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/498/article/1)
+[^c-f97a97dd46b0f7f69d0ed04864f17608]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2004/498/schedule/paragraph/4) in operation at 17.1.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2004/498/article/1)

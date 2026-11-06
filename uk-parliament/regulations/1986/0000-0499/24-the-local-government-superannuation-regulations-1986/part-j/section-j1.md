@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## J1. Interpretation[^key-9b7b39f3054162f8264dee5d7d91b274]
+## J1. Interpretation[^c-9b7b39f3054162f8264dee5d7d91b274]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ In this Part, unless the context otherwise requires—
 
 ## Annotations
 
-[^key-9b7b39f3054162f8264dee5d7d91b274]: Commencement: [Reg. J1](https://www.legislation.gov.uk/uksi/1986/24/regulation/J1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-9b7b39f3054162f8264dee5d7d91b274]: Commencement: [Reg. J1](https://www.legislation.gov.uk/uksi/1986/24/regulation/J1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

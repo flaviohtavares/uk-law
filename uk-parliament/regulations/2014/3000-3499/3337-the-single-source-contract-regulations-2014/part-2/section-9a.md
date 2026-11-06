@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9A. Components of qualifying defence contracts[^key-6d6718f1504290904fedd3b8a71481f4]
+## 9A. Components of qualifying defence contracts[^c-6d6718f1504290904fedd3b8a71481f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d6718f1504290904fedd3b8a71481f4]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2014/3337/regulation/9A) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2024/420/regulation/11)
+[^c-6d6718f1504290904fedd3b8a71481f4]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2014/3337/regulation/9A) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2024/420/regulation/11)

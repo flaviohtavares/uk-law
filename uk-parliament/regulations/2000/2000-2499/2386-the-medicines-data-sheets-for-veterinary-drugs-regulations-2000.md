@@ -31,7 +31,7 @@ summary: ''
 
 MEDICINES
 
-The Medicines (Data Sheets for Veterinary Drugs) Regulations 2000 (revoked)[^key-5b5a468cadb9ec333a8a4c00d32f2474]
+The Medicines (Data Sheets for Veterinary Drugs) Regulations 2000 (revoked)[^c-5b5a468cadb9ec333a8a4c00d32f2474]
 
 Made
 
@@ -45,43 +45,43 @@ Coming into force
 
 1st October 2000
 
-[^key-5b5a468cadb9ec333a8a4c00d32f2474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5b5a468cadb9ec333a8a4c00d32f2474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and interpretation[^key-5b5a468cadb9ec333a8a4c00d32f2474]
+## 1. Title, commencement and interpretation[^c-5b5a468cadb9ec333a8a4c00d32f2474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Form of data sheets[^key-5b5a468cadb9ec333a8a4c00d32f2474]
+## 2. Form of data sheets[^c-5b5a468cadb9ec333a8a4c00d32f2474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Particulars in data sheets—general[^key-5b5a468cadb9ec333a8a4c00d32f2474]
+## 3. Particulars in data sheets—general[^c-5b5a468cadb9ec333a8a4c00d32f2474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Particulars in data sheets—additional provisions for loose sheets[^key-5b5a468cadb9ec333a8a4c00d32f2474]
+## 4. Particulars in data sheets—additional provisions for loose sheets[^c-5b5a468cadb9ec333a8a4c00d32f2474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Particulars in data sheets—special provisions for compendia[^key-5b5a468cadb9ec333a8a4c00d32f2474]
+## 5. Particulars in data sheets—special provisions for compendia[^c-5b5a468cadb9ec333a8a4c00d32f2474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Additional requirements for data sheets which are not SPCs[^key-5b5a468cadb9ec333a8a4c00d32f2474]
+## 6. Additional requirements for data sheets which are not SPCs[^c-5b5a468cadb9ec333a8a4c00d32f2474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Cessation of application of previous Regulations[^key-5b5a468cadb9ec333a8a4c00d32f2474]
+## 7. Cessation of application of previous Regulations[^c-5b5a468cadb9ec333a8a4c00d32f2474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5b5a468cadb9ec333a8a4c00d32f2474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5b5a468cadb9ec333a8a4c00d32f2474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — PARTICULARS REQUIRED IN DATA SHEETS WHICH ARE NOT SPCS[^key-5b5a468cadb9ec333a8a4c00d32f2474]
+## SCHEDULE — PARTICULARS REQUIRED IN DATA SHEETS WHICH ARE NOT SPCS[^c-5b5a468cadb9ec333a8a4c00d32f2474]
 
 Regulation 3(1) and (2)
 
@@ -89,8 +89,8 @@ Regulation 3(1) and (2)
 
 **May not be in force at this date. Check the source.**
 
-[^key-5b5a468cadb9ec333a8a4c00d32f2474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5b5a468cadb9ec333a8a4c00d32f2474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5b5a468cadb9ec333a8a4c00d32f2474]: Textual amendment: Regulations revoked (30.10.2005) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2005/2745/regulation/1/a), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/1) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))
+[^c-5b5a468cadb9ec333a8a4c00d32f2474]: Textual amendment: Regulations revoked (30.10.2005) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2005/2745/regulation/1/a), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/1) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))

@@ -35,35 +35,35 @@ renewing the approval of the active substance alpha-cypermethrin, as a candidate
 
 (Text with EEA relevance) (revoked)
 
-[^key-dd60fd5132872793c41205dcecfb7688]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd60fd5132872793c41205dcecfb7688]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Renewal of the approval of the active substance as a candidate for substitution[^key-dd60fd5132872793c41205dcecfb7688]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Amendments to Implementing Regulation (EU) No 540/2011[^key-dd60fd5132872793c41205dcecfb7688]
+## Article 1. Renewal of the approval of the active substance as a candidate for substitution[^c-dd60fd5132872793c41205dcecfb7688]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force and date of application[^key-dd60fd5132872793c41205dcecfb7688]
+## Article 2. Amendments to Implementing Regulation (EU) No 540/2011[^c-dd60fd5132872793c41205dcecfb7688]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd60fd5132872793c41205dcecfb7688]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I[^key-dd60fd5132872793c41205dcecfb7688]
+## Article 3. Entry into force and date of application[^c-dd60fd5132872793c41205dcecfb7688]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-dd60fd5132872793c41205dcecfb7688]
+[^c-dd60fd5132872793c41205dcecfb7688]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I[^c-dd60fd5132872793c41205dcecfb7688]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd60fd5132872793c41205dcecfb7688](1)
+## ANNEX II[^c-dd60fd5132872793c41205dcecfb7688]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd60fd5132872793c41205dcecfb7688](2)
+[^c-dd60fd5132872793c41205dcecfb7688](1)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-dd60fd5132872793c41205dcecfb7688](2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -71,4 +71,4 @@ renewing the approval of the active substance alpha-cypermethrin, as a candidate
 
 ## Annotations
 
-[^key-dd60fd5132872793c41205dcecfb7688]: Textual amendment: Regulation revoked (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2020/1376/schedule/paragraph/19)
+[^c-dd60fd5132872793c41205dcecfb7688]: Textual amendment: Regulation revoked (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2020/1376/schedule/paragraph/19)

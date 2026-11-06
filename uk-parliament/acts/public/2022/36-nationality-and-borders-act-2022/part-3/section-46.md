@@ -16,33 +16,33 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Removals: notice requirements[^key-5d88951bedf0bd992d8f746665744c94]
+## 46. Removals: notice requirements[^c-5d88951bedf0bd992d8f746665744c94]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-af406e296abc2cba3e6af0448464ff60] Section 10 of the Immigration and Asylum Act 1999 (removal of persons unlawfully in the United Kingdom) is amended as set out in subsections (2) to (6).
+(1)[^c-af406e296abc2cba3e6af0448464ff60] Section 10 of the Immigration and Asylum Act 1999 (removal of persons unlawfully in the United Kingdom) is amended as set out in subsections (2) to (6).
 
-(2)[^key-af406e296abc2cba3e6af0448464ff60] In subsection (1)—
+(2)[^c-af406e296abc2cba3e6af0448464ff60] In subsection (1)—
 
 - (a) for “may be removed” substitute “is liable to removal”;
 - (b) omit “under the authority of the Secretary of State or an immigration officer”.
 
-(3)[^key-af406e296abc2cba3e6af0448464ff60] For subsection (2) substitute—
+(3)[^c-af406e296abc2cba3e6af0448464ff60] For subsection (2) substitute—
 
 > (2) Where a person (“**P**”) is liable to removal, or has been removed, from the United Kingdom under this section, a member of P’s family who meets the following three conditions is also liable to removal from the United Kingdom, provided that the Secretary of State or an immigration officer has given the family member written notice of the fact that they are liable to removal.
 
-(4)[^key-af406e296abc2cba3e6af0448464ff60] After subsection (6) insert—
+(4)[^c-af406e296abc2cba3e6af0448464ff60] After subsection (6) insert—
 
 > (6A) A person who is liable to removal from the United Kingdom under this section may be removed only under the authority of the Secretary of State or an immigration officer and in accordance with sections 10A to 10E.
 
-(5)[^key-af406e296abc2cba3e6af0448464ff60] In subsection (7), for “subsection (1) or (2)” substitute “this section”.
+(5)[^c-af406e296abc2cba3e6af0448464ff60] In subsection (7), for “subsection (1) or (2)” substitute “this section”.
 
-(6)[^key-bed1d8dba9b05d7f682514022b7d7e3d] In subsection (10)—
+(6)[^c-bed1d8dba9b05d7f682514022b7d7e3d] In subsection (10)—
 
 - (a) in paragraph (a), for “subsection (2)” substitute “this section”;
 - (b) in paragraph (b), at the end insert “or sections 10A to 10E”.
 
-(7)[^key-73e1dcfd2350e9d5c92b6ae7c88d611a] After that section insert—
+(7)[^c-73e1dcfd2350e9d5c92b6ae7c88d611a] After that section insert—
 
 > **10A. Removal: general notice requirements**
 >
@@ -194,16 +194,16 @@ summary: ''
 >
 > (6) At any time before the person is removed, the Secretary of State or an immigration officer may replace a notice of departure details under this section.
 
-(8)[^key-84f0626c2ebcd064cd4ff91170b11cd2] In Schedule 10 to the Immigration Act 2016 (immigration bail), in paragraph 3(4) (bail not to be granted to person subject to removal directions without consent of Secretary of State), in paragraph (b) for “14” substitute “21”.
+(8)[^c-84f0626c2ebcd064cd4ff91170b11cd2] In Schedule 10 to the Immigration Act 2016 (immigration bail), in paragraph 3(4) (bail not to be granted to person subject to removal directions without consent of Secretary of State), in paragraph (b) for “14” substitute “21”.
 
 ## Annotations
 
-[^key-5d88951bedf0bd992d8f746665744c94]: Commencement: S. 46 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-5d88951bedf0bd992d8f746665744c94]: Commencement: S. 46 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-af406e296abc2cba3e6af0448464ff60]: Commencement: [S. 46(1)-(5)](https://www.legislation.gov.uk/ukpga/2022/36/section/46/1) in force at 20.11.2023 by [S.I. 2023/1130](https://www.legislation.gov.uk/uksi/2023/1130), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1130/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1130/regulation/3))
+[^c-af406e296abc2cba3e6af0448464ff60]: Commencement: [S. 46(1)-(5)](https://www.legislation.gov.uk/ukpga/2022/36/section/46/1) in force at 20.11.2023 by [S.I. 2023/1130](https://www.legislation.gov.uk/uksi/2023/1130), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1130/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1130/regulation/3))
 
-[^key-bed1d8dba9b05d7f682514022b7d7e3d]: Commencement: [S. 46(6)](https://www.legislation.gov.uk/ukpga/2022/36/section/46/6) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/23)
+[^c-bed1d8dba9b05d7f682514022b7d7e3d]: Commencement: [S. 46(6)](https://www.legislation.gov.uk/ukpga/2022/36/section/46/6) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/23)
 
-[^key-73e1dcfd2350e9d5c92b6ae7c88d611a]: Commencement: [S. 46(7)](https://www.legislation.gov.uk/ukpga/2022/36/section/46/7) in force at 20.11.2023 for specified purposes by [S.I. 2023/1130](https://www.legislation.gov.uk/uksi/2023/1130), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1130/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1130/regulation/3))
+[^c-73e1dcfd2350e9d5c92b6ae7c88d611a]: Commencement: [S. 46(7)](https://www.legislation.gov.uk/ukpga/2022/36/section/46/7) in force at 20.11.2023 for specified purposes by [S.I. 2023/1130](https://www.legislation.gov.uk/uksi/2023/1130), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1130/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1130/regulation/3))
 
-[^key-84f0626c2ebcd064cd4ff91170b11cd2]: Commencement: [S. 46(8)](https://www.legislation.gov.uk/ukpga/2022/36/section/46/8) in force at 20.11.2023 by [S.I. 2023/1222](https://www.legislation.gov.uk/uksi/2023/1222), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1222/regulation/2)
+[^c-84f0626c2ebcd064cd4ff91170b11cd2]: Commencement: [S. 46(8)](https://www.legislation.gov.uk/ukpga/2022/36/section/46/8) in force at 20.11.2023 by [S.I. 2023/1222](https://www.legislation.gov.uk/uksi/2023/1222), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1222/regulation/2)

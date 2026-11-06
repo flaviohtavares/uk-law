@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. English issuing authority[^key-2f7fada59bfdb5207d198a0807895c6d][^key-86e3546cc5697f54eb7036d249310bac]
+## 13. English issuing authority[^c-2f7fada59bfdb5207d198a0807895c6d][^c-86e3546cc5697f54eb7036d249310bac]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2f7fada59bfdb5207d198a0807895c6d]: Textual amendment: Ss. 13-17 and preceding crossheading omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/11); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-2f7fada59bfdb5207d198a0807895c6d]: Textual amendment: Ss. 13-17 and preceding crossheading omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/11); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
 
-[^key-86e3546cc5697f54eb7036d249310bac]: Textual amendment: Ss. A9, A10 inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/24/1), [44(2)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/c)
+[^c-86e3546cc5697f54eb7036d249310bac]: Textual amendment: Ss. A9, A10 inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/24/1), [44(2)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/c)

@@ -27,8 +27,8 @@ summary: ''
 - (a) full particulars of the enforcement order which has not been complied with or of the order made under the said Article 30; and
 - (b) the amount or instalment (or instalments) in the payment of which default has been made;
 
-and shall require the debtor to appear personally on the date and before the court therein specified[^key-1416046d426d4e5099a988ef236776bc], to show cause why he should not be committed to prison for his default in complying with that order. An order made under this Rule is in this Order referred to as a “committal order”.
+and shall require the debtor to appear personally on the date and before the court therein specified[^c-1416046d426d4e5099a988ef236776bc], to show cause why he should not be committed to prison for his default in complying with that order. An order made under this Rule is in this Order referred to as a “committal order”.
 
 ## Annotations
 
-[^key-1416046d426d4e5099a988ef236776bc]: Textual amendment: Words in Order 40 rule 5(2) substituted (31.10.2016) by [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(14)(a)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/14/a); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-1416046d426d4e5099a988ef236776bc]: Textual amendment: Words in Order 40 rule 5(2) substituted (31.10.2016) by [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(14)(a)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/14/a); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)

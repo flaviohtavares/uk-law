@@ -40,55 +40,55 @@ authorising the placing on the market of products containing, consisting of, or 
 
 (Text with EEA relevance) (revoked)
 
-[^key-29328f252bab4aaba8baf74ae5af7508]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-29328f252bab4aaba8baf74ae5af7508]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Genetically modified organism and unique identifier[^key-29328f252bab4aaba8baf74ae5af7508]
+## Article 1. Genetically modified organism and unique identifier[^c-29328f252bab4aaba8baf74ae5af7508]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Authorisation[^key-29328f252bab4aaba8baf74ae5af7508]
+## Article 2. Authorisation[^c-29328f252bab4aaba8baf74ae5af7508]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Labelling[^key-29328f252bab4aaba8baf74ae5af7508]
+## Article 3. Labelling[^c-29328f252bab4aaba8baf74ae5af7508]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Monitoring for environmental effects[^key-29328f252bab4aaba8baf74ae5af7508]
+## Article 4. Monitoring for environmental effects[^c-29328f252bab4aaba8baf74ae5af7508]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Method for detection[^key-29328f252bab4aaba8baf74ae5af7508]
+## Article 5. Method for detection[^c-29328f252bab4aaba8baf74ae5af7508]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Register[^key-29328f252bab4aaba8baf74ae5af7508]
+## Article 6. Register[^c-29328f252bab4aaba8baf74ae5af7508]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Authorisation holder[^key-29328f252bab4aaba8baf74ae5af7508]
+## Article 7. Authorisation holder[^c-29328f252bab4aaba8baf74ae5af7508]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Repeal[^key-29328f252bab4aaba8baf74ae5af7508]
+## Article 8. Repeal[^c-29328f252bab4aaba8baf74ae5af7508]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Validity[^key-29328f252bab4aaba8baf74ae5af7508]
+## Article 9. Validity[^c-29328f252bab4aaba8baf74ae5af7508]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Addressee[^key-29328f252bab4aaba8baf74ae5af7508]
+## Article 10. Addressee[^c-29328f252bab4aaba8baf74ae5af7508]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-29328f252bab4aaba8baf74ae5af7508]
+## ANNEX[^c-29328f252bab4aaba8baf74ae5af7508]
 
-[^key-29328f252bab4aaba8baf74ae5af7508]
+[^c-29328f252bab4aaba8baf74ae5af7508]
 
 - ((a)) **Applicant and authorisation holder:**
 
@@ -144,4 +144,4 @@ authorising the placing on the market of products containing, consisting of, or 
 
 ## Annotations
 
-[^key-29328f252bab4aaba8baf74ae5af7508]: Textual amendment: Decision revoked: (E.) (20.5.2022) by [The Genetically Modified Food and Feed (Authorisations) (England) Regulations 2022 (S.I. 2022/486)](https://www.legislation.gov.uk/uksi/2022/486), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/486/regulation/1/b), [4(e)](https://www.legislation.gov.uk/uksi/2022/486/regulation/4/e); (W.) (20.5.2022) by [The Genetically Modified Food and Feed (Authorisations) (Wales) Regulations 2022 (S.I. 2022/472)](https://www.legislation.gov.uk/uksi/2022/472), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2022/472/regulation/1/2/c), [4(e)](https://www.legislation.gov.uk/uksi/2022/472/regulation/4/e); and (S.) (31.5.2022) by [The Genetically Modified Food and Feed (Authorisations) (Scotland) Regulations 2022 (S.S.I. 2022/137)](https://www.legislation.gov.uk/ssi/2022/137), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/137/regulation/1/1), [4(e)](https://www.legislation.gov.uk/ssi/2022/137/regulation/4/e)
+[^c-29328f252bab4aaba8baf74ae5af7508]: Textual amendment: Decision revoked: (E.) (20.5.2022) by [The Genetically Modified Food and Feed (Authorisations) (England) Regulations 2022 (S.I. 2022/486)](https://www.legislation.gov.uk/uksi/2022/486), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/486/regulation/1/b), [4(e)](https://www.legislation.gov.uk/uksi/2022/486/regulation/4/e); (W.) (20.5.2022) by [The Genetically Modified Food and Feed (Authorisations) (Wales) Regulations 2022 (S.I. 2022/472)](https://www.legislation.gov.uk/uksi/2022/472), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2022/472/regulation/1/2/c), [4(e)](https://www.legislation.gov.uk/uksi/2022/472/regulation/4/e); and (S.) (31.5.2022) by [The Genetically Modified Food and Feed (Authorisations) (Scotland) Regulations 2022 (S.S.I. 2022/137)](https://www.legislation.gov.uk/ssi/2022/137), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/137/regulation/1/1), [4(e)](https://www.legislation.gov.uk/ssi/2022/137/regulation/4/e)

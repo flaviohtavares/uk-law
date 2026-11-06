@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Soundproofing of buildings affected by public works.[^c776179][^key-d05d8b921fdd45ae8d01329758ffaa2c]
+## 20. Soundproofing of buildings affected by public works.[^c776179][^c-d05d8b921fdd45ae8d01329758ffaa2c]
 
 *Extent: E+W*
 
@@ -55,7 +55,7 @@ summary: ''
 
 [^c776179]: Modification: [S. 20](https://www.legislation.gov.uk/ukpga/1973/26/section/20) modified (18.12.1996) by [1996 c. 61](https://www.legislation.gov.uk/ukpga/1996/61), [s. 49](https://www.legislation.gov.uk/ukpga/1996/61/section/49)
 
-[^key-d05d8b921fdd45ae8d01329758ffaa2c]: Modification: [S. 20](https://www.legislation.gov.uk/ukpga/1973/26/section/20) applied (26.9.2012) by [The Network Rail (Ipswich Chord) Order 2012 (S.I. 2012/2284)](https://www.legislation.gov.uk/uksi/2012/2284), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1), [31(1)](https://www.legislation.gov.uk/uksi/2012/2284/article/31/1) (with [art. 26(2)](https://www.legislation.gov.uk/uksi/2012/2284/article/26/2))
+[^c-d05d8b921fdd45ae8d01329758ffaa2c]: Modification: [S. 20](https://www.legislation.gov.uk/ukpga/1973/26/section/20) applied (26.9.2012) by [The Network Rail (Ipswich Chord) Order 2012 (S.I. 2012/2284)](https://www.legislation.gov.uk/uksi/2012/2284), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1), [31(1)](https://www.legislation.gov.uk/uksi/2012/2284/article/31/1) (with [art. 26(2)](https://www.legislation.gov.uk/uksi/2012/2284/article/26/2))
 
 [^c776180]: Marginal citation: [1967 c. 76](https://www.legislation.gov.uk/ukpga/1967/76).
 

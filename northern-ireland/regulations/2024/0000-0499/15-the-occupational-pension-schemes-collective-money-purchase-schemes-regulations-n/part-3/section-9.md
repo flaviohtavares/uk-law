@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Scheme design requirement[^key-aa90ea739318f742145d66da9aa7fbb3]
+## 9. Scheme design requirement[^c-aa90ea739318f742145d66da9aa7fbb3]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Part 1 of Schedule 2 sets out the matters that the Regulator must take into acco
 
 ## Annotations
 
-[^key-aa90ea739318f742145d66da9aa7fbb3]: Commencement: Reg. 9 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-aa90ea739318f742145d66da9aa7fbb3]: Commencement: Reg. 9 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 180. Sharing of information: panel members[^key-9e94e2c82ec9edd085b32c3b6064beb1]
+## 180. Sharing of information: panel members[^c-9e94e2c82ec9edd085b32c3b6064beb1]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e94e2c82ec9edd085b32c3b6064beb1]: Commencement: S. 180 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-9e94e2c82ec9edd085b32c3b6064beb1]: Commencement: S. 180 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

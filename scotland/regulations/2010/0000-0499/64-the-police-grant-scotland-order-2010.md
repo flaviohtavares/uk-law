@@ -46,7 +46,7 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 32(3) and (5) of the Police (Scotland) Act 1967[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation[^key-3621c6e36d9ad9c8b168d500029408c5]
+## 1. Citation, commencement and interpretation[^c-3621c6e36d9ad9c8b168d500029408c5]
 
 (1) This Order may be cited as the Police Grant (Scotland) Order 2010 and comes into force on 1st April 2010.
 
@@ -56,17 +56,17 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 - “financial year 2010-2011” means the period of 12 months commencing on 1st April 2010; and
 - “police grant” means the grant made under section 32(1) of the Police (Scotland) Act 1967.
 
-## 2. Aggregate amounts of grants for financial year 2010-2011[^key-0330f90ec9ba3c7c178862076b61b97e]
+## 2. Aggregate amounts of grants for financial year 2010-2011[^c-0330f90ec9ba3c7c178862076b61b97e]
 
-The aggregate amount of police grant to be made for the financial year 2010-2011 shall be £690,390,000[^key-4bf4129dff27c210134a551e610768ae].
+The aggregate amount of police grant to be made for the financial year 2010-2011 shall be £690,390,000[^c-4bf4129dff27c210134a551e610768ae].
 
-## 3. Amount of grant to an authority for financial year 2010-2011[^key-b069638bdb00115b6580438a49631705]
+## 3. Amount of grant to an authority for financial year 2010-2011[^c-b069638bdb00115b6580438a49631705]
 
 The amount of police grant to be made for the financial year 2010-2011 to each authority specified in column 1 of the Table below shall be the amount determined in relation to that authority which is set out in column 2 of that Table opposite to the name of the authority.
 
 | *(1)*<br>*Authority* | *(2)*<br>*Amount of Grant* |
 | --- | --- |
-| Central Scotland Joint Police Board[^key-7b63a5848a00d737992b2e0fab677dd8] | £33,678,000 |
+| Central Scotland Joint Police Board[^c-7b63a5848a00d737992b2e0fab677dd8] | £33,678,000 |
 | The Dumfries and Galloway Council | £18,648,000 |
 | The Fife Council | £41,487,000 |
 | Grampian Joint Police Board | £61,940,000 |
@@ -75,7 +75,7 @@ The amount of police grant to be made for the financial year 2010-2011 to each a
 | Strathclyde Joint Police Board | £329,001,000 |
 | Tayside Joint Police Board | £50,077,000 |
 
-## 4. Payment of grant[^key-e1da03386f9ee378761465b387a3cd84]
+## 4. Payment of grant[^c-e1da03386f9ee378761465b387a3cd84]
 
 The police grant payable to an authority by virtue of this Order for the financial year 2010‑2011 shall be paid to that authority in monthly instalments on the fifteenth day of each month during that year.
 
@@ -104,14 +104,14 @@ The Order also sets out how and when the grant is payable (article 4).
 
 [^f00001]: Footnote: [1967 c.77](https://www.legislation.gov.uk/ukpga/1967/77). Section 32 was substituted by the Crime and Punishment (Scotland) Act [1997 (c.48)](https://www.legislation.gov.uk/ukpga/1997/48), section 45(1) and amended by the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 ([S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)), Schedule 2, paragraph 41(2). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-3621c6e36d9ad9c8b168d500029408c5]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2010/64/article/1) in force at 1.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2010/64/article/1/1)
+[^c-3621c6e36d9ad9c8b168d500029408c5]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2010/64/article/1) in force at 1.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2010/64/article/1/1)
 
-[^key-0330f90ec9ba3c7c178862076b61b97e]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2010/64/article/2) in force at 1.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2010/64/article/1/1)
+[^c-0330f90ec9ba3c7c178862076b61b97e]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2010/64/article/2) in force at 1.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2010/64/article/1/1)
 
-[^key-4bf4129dff27c210134a551e610768ae]: Textual amendment: Sum in art. 2 substituted (with effect from 1.4.2010) by [The Police Grant and Variation (Scotland) Order 2012 (S.S.I. 2012/49)](https://www.legislation.gov.uk/ssi/2012/49), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/49/article/1/1), [5(a)](https://www.legislation.gov.uk/ssi/2012/49/article/5/a)
+[^c-4bf4129dff27c210134a551e610768ae]: Textual amendment: Sum in art. 2 substituted (with effect from 1.4.2010) by [The Police Grant and Variation (Scotland) Order 2012 (S.S.I. 2012/49)](https://www.legislation.gov.uk/ssi/2012/49), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/49/article/1/1), [5(a)](https://www.legislation.gov.uk/ssi/2012/49/article/5/a)
 
-[^key-b069638bdb00115b6580438a49631705]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2010/64/article/3) in force at 1.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2010/64/article/1/1)
+[^c-b069638bdb00115b6580438a49631705]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2010/64/article/3) in force at 1.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2010/64/article/1/1)
 
-[^key-7b63a5848a00d737992b2e0fab677dd8]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/ssi/2010/64/article/3) Table substituted (with effect from 1.4.2010) by [The Police Grant and Variation (Scotland) Order 2012 (S.S.I. 2012/49)](https://www.legislation.gov.uk/ssi/2012/49), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/49/article/1/1), [5(b)](https://www.legislation.gov.uk/ssi/2012/49/article/5/b)
+[^c-7b63a5848a00d737992b2e0fab677dd8]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/ssi/2010/64/article/3) Table substituted (with effect from 1.4.2010) by [The Police Grant and Variation (Scotland) Order 2012 (S.S.I. 2012/49)](https://www.legislation.gov.uk/ssi/2012/49), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/49/article/1/1), [5(b)](https://www.legislation.gov.uk/ssi/2012/49/article/5/b)
 
-[^key-e1da03386f9ee378761465b387a3cd84]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2010/64/article/4) in force at 1.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2010/64/article/1/1)
+[^c-e1da03386f9ee378761465b387a3cd84]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2010/64/article/4) in force at 1.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2010/64/article/1/1)

@@ -41,29 +41,29 @@ Coming into operation
 
 The Lord Chancellor, in exercise of the powers conferred on him by Articles 1(2) and 48(1) of the Access to Justice (Northern Ireland) Order 2003[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Order:
 
-## 1. Citation and interpretation[^key-8668cda856112e6e6476e25b576e6276]
+## 1. Citation and interpretation[^c-8668cda856112e6e6476e25b576e6276]
 
 This Order may be cited as the Access to Justice (Northern Ireland) Order 2003 (Commencement No. 3, Transitional Provisions and Savings) Order (Northern Ireland) 2005.
 
-**2.**[^key-f8911b08f62a087aff3268fc20efc7fd] In this Order:
+**2.**[^c-f8911b08f62a087aff3268fc20efc7fd] In this Order:
 
 - “the appointed day” means the day appointed by the Lord Chancellor, under Article 1(2) of the 2003 Order and all other powers enabling him in that behalf, for the revocation of Article 4 of this Order;
 - “the 1981 Order” means the Legal Aid, Advice and Assistance (Northern Ireland) Order 1981[^f00002];
 - “the 2003 Order” means the Access to Justice (Northern Ireland) Order 2003.
 
-## 3. Commencement[^key-28e837dfd7ab5f6f308d9fa0988323df]
+## 3. Commencement[^c-28e837dfd7ab5f6f308d9fa0988323df]
 
 Subject to Articles 4 and 5 of this Order, paragraph 6(3) of Schedule 4 to the 2003 Order shall come into operation on 9th March 2005.
 
-## 4. Transitional provisions and savings[^key-c446927780c6d293bcc1caa3999d124d]
+## 4. Transitional provisions and savings[^c-c446927780c6d293bcc1caa3999d124d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-62195b3795a4ad27ee5562a14445eef9] (1) Subject to paragraph (2), nothing in the provision commenced by this Order or in the transitional provisions of this Order shall have effect in relation to any work carried out under a criminal aid certificate granted under Article 29 of the 1981 Order before 4th April 2005.
+**5.**[^c-62195b3795a4ad27ee5562a14445eef9] (1) Subject to paragraph (2), nothing in the provision commenced by this Order or in the transitional provisions of this Order shall have effect in relation to any work carried out under a criminal aid certificate granted under Article 29 of the 1981 Order before 4th April 2005.
 
 (2) Where counsel or a solicitor has claimed payment under rules made under Article 36(3) of the 1981 Order after the coming into operation of this Order (“the new rules”) in relation to any work carried out under a criminal aid certificate granted under Article 29 of the 1981 Order before 4th April 2005, his claim shall be determined and paid in accordance with the new rules.
 
-**6.**[^key-b3f0baf2421465038e36b932c42004c2] Until the appointed day, for the avoidance of doubt, any rules made under Article 36(3) of the 1981 Order before the coming into operation of this Order shall remain in force notwithstanding the making of this Order.
+**6.**[^c-b3f0baf2421465038e36b932c42004c2] Until the appointed day, for the avoidance of doubt, any rules made under Article 36(3) of the 1981 Order before the coming into operation of this Order shall remain in force notwithstanding the making of this Order.
 
 Signed by authority of the Lord Chancellor
 
@@ -109,16 +109,16 @@ The effect of the amendment is that Article 37 (remuneration of solicitors and c
 
 [^f00001]: Footnote: S.I. [2003/435 (N.I. 10)](https://www.legislation.gov.uk/nisi/2003/435)
 
-[^key-8668cda856112e6e6476e25b576e6276]: Commencement: Art. 1 in operation at made date
+[^c-8668cda856112e6e6476e25b576e6276]: Commencement: Art. 1 in operation at made date
 
-[^key-f8911b08f62a087aff3268fc20efc7fd]: Commencement: Art. 2 in operation at made date
+[^c-f8911b08f62a087aff3268fc20efc7fd]: Commencement: Art. 2 in operation at made date
 
 [^f00002]: Footnote: S.I. [1981/228 (N.I. 8)](https://www.legislation.gov.uk/nisi/1981/228)
 
-[^key-28e837dfd7ab5f6f308d9fa0988323df]: Commencement: Art. 3 in operation at made date
+[^c-28e837dfd7ab5f6f308d9fa0988323df]: Commencement: Art. 3 in operation at made date
 
-[^key-c446927780c6d293bcc1caa3999d124d]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/nisr/2005/111/article/4) revoked (29.8.2009) by [The Access to Justice (Northern Ireland) Order 2003 (Commencement No. 6) Order (Northern Ireland) 2009 (S.R. 2009/312)](https://www.legislation.gov.uk/nisr/2009/312), [arts. 1](https://www.legislation.gov.uk/nisr/2009/312/article/1), [3](https://www.legislation.gov.uk/nisr/2009/312/article/3) (with [arts. 4](https://www.legislation.gov.uk/nisr/2009/312/article/4), [5](https://www.legislation.gov.uk/nisr/2009/312/article/5))
+[^c-c446927780c6d293bcc1caa3999d124d]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/nisr/2005/111/article/4) revoked (29.8.2009) by [The Access to Justice (Northern Ireland) Order 2003 (Commencement No. 6) Order (Northern Ireland) 2009 (S.R. 2009/312)](https://www.legislation.gov.uk/nisr/2009/312), [arts. 1](https://www.legislation.gov.uk/nisr/2009/312/article/1), [3](https://www.legislation.gov.uk/nisr/2009/312/article/3) (with [arts. 4](https://www.legislation.gov.uk/nisr/2009/312/article/4), [5](https://www.legislation.gov.uk/nisr/2009/312/article/5))
 
-[^key-62195b3795a4ad27ee5562a14445eef9]: Commencement: Art. 5 in operation at made date
+[^c-62195b3795a4ad27ee5562a14445eef9]: Commencement: Art. 5 in operation at made date
 
-[^key-b3f0baf2421465038e36b932c42004c2]: Commencement: Art. 6 in operation at made date
+[^c-b3f0baf2421465038e36b932c42004c2]: Commencement: Art. 6 in operation at made date

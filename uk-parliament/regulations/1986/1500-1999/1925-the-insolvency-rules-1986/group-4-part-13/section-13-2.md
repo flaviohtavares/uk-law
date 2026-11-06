@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13.2. “The court”; “the registrar”[^key-8d7f5e968aa087c79e779733c651c299]
+## 13.2. “The court”; “the registrar”[^c-8d7f5e968aa087c79e779733c651c299]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d7f5e968aa087c79e779733c651c299]: Commencement: Rule 13.2 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-8d7f5e968aa087c79e779733c651c299]: Commencement: Rule 13.2 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

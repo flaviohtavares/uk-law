@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Staff.[^key-8a0b5cd32936d1bc1e1faee3d2085d3c]
+## 26. Staff.[^c-8a0b5cd32936d1bc1e1faee3d2085d3c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a0b5cd32936d1bc1e1faee3d2085d3c]: Textual amendment: S. 26 repealed (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/1); [S.I. 2008/2696](https://www.legislation.gov.uk/uksi/2008/2696), [art. 5(i)](https://www.legislation.gov.uk/uksi/2008/2696/article/5/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/2696/article/3))
+[^c-8a0b5cd32936d1bc1e1faee3d2085d3c]: Textual amendment: S. 26 repealed (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/1); [S.I. 2008/2696](https://www.legislation.gov.uk/uksi/2008/2696), [art. 5(i)](https://www.legislation.gov.uk/uksi/2008/2696/article/5/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/2696/article/3))

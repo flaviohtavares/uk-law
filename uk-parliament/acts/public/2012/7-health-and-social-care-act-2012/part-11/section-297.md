@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 297. Relationships between the health services[^key-49fd7e15e8dac5d54457d50f03ea7f7b][^key-3a807450bfacbffd1085b96907800aff]
+## 297. Relationships between the health services[^c-49fd7e15e8dac5d54457d50f03ea7f7b][^c-3a807450bfacbffd1085b96907800aff]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 21 (which amends enactments relating to the relationships between the h
 
 ## Annotations
 
-[^key-49fd7e15e8dac5d54457d50f03ea7f7b]: Commencement: [S. 297](https://www.legislation.gov.uk/ukpga/2012/7/section/297) in force at 1.2.2013 for specified purposes by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
+[^c-49fd7e15e8dac5d54457d50f03ea7f7b]: Commencement: [S. 297](https://www.legislation.gov.uk/ukpga/2012/7/section/297) in force at 1.2.2013 for specified purposes by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
 
-[^key-3a807450bfacbffd1085b96907800aff]: Commencement: [S. 297](https://www.legislation.gov.uk/ukpga/2012/7/section/297) in force at 1.4.2013 for specified purposes by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-3a807450bfacbffd1085b96907800aff]: Commencement: [S. 297](https://www.legislation.gov.uk/ukpga/2012/7/section/297) in force at 1.4.2013 for specified purposes by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

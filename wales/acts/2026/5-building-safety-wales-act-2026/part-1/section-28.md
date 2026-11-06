@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Meaning of “building safety risk”[^key-127e2c7795c6af4fe2bca402b314b2b0]
+## 28. Meaning of “building safety risk”[^c-127e2c7795c6af4fe2bca402b314b2b0]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-127e2c7795c6af4fe2bca402b314b2b0]: Commencement: S. 28 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-127e2c7795c6af4fe2bca402b314b2b0]: Commencement: S. 28 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Prohibition on consultant lobbying unless registered[^key-a853e55741549ea4b0afea37fadf6c93]
+## 1. Prohibition on consultant lobbying unless registered[^c-a853e55741549ea4b0afea37fadf6c93]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a853e55741549ea4b0afea37fadf6c93]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/4/section/1) in force at 1.4.2015 by [S.I. 2015/954](https://www.legislation.gov.uk/uksi/2015/954), [art. 2](https://www.legislation.gov.uk/uksi/2015/954/article/2)
+[^c-a853e55741549ea4b0afea37fadf6c93]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/4/section/1) in force at 1.4.2015 by [S.I. 2015/954](https://www.legislation.gov.uk/uksi/2015/954), [art. 2](https://www.legislation.gov.uk/uksi/2015/954/article/2)

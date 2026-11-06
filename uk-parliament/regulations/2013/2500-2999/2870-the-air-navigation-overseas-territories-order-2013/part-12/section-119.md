@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Provision of information to passengers[^key-c08804fed49681b1cc6e2ed52f55d8af]
+## 119. Provision of information to passengers[^c-c08804fed49681b1cc6e2ed52f55d8af]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c08804fed49681b1cc6e2ed52f55d8af]: Commencement: [Art. 119](https://www.legislation.gov.uk/uksi/2013/2870/article/119) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-c08804fed49681b1cc6e2ed52f55d8af]: Commencement: [Art. 119](https://www.legislation.gov.uk/uksi/2013/2870/article/119) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

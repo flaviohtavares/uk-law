@@ -24,7 +24,7 @@ Section 36
 
 ### PART 1 — Amendments of CTA 2009
 
-**1.**[^key-d9c8c710f135edc889dbbc146bdd3795] After Part 15A of CTA 2009 (inserted by Schedule 16 above) insert—
+**1.**[^c-d9c8c710f135edc889dbbc146bdd3795] After Part 15A of CTA 2009 (inserted by Schedule 16 above) insert—
 
 > **PART 15B — Video games development**
 >
@@ -698,7 +698,7 @@ Section 36
 - (b) may provide for those amendments to be treated as having come into force on a day earlier than the day on which the order is made or this Act is passed;
 - (c) may make such adaptations of Part 15B of CTA 2009 as appear to be necessary or expedient in consequence of other provisions of this Act not yet having come into force.
 
-**3.** (1)[^key-4ea462cfdef582fd2b786ad4d213ce40] The amendments made by this Schedule have effect in relation to accounting periods beginning on or after the day specified for the purposes of this paragraph in an order made by the Treasury (“the specified day”).
+**3.** (1)[^c-4ea462cfdef582fd2b786ad4d213ce40] The amendments made by this Schedule have effect in relation to accounting periods beginning on or after the day specified for the purposes of this paragraph in an order made by the Treasury (“the specified day”).
 
 (2) An order under sub-paragraph (1) may specify a day earlier than the day on which the order is made or this Act is passed.
 
@@ -722,6 +722,6 @@ Section 36
 
 ## Annotations
 
-[^key-d9c8c710f135edc889dbbc146bdd3795]: Commencement: Sch. 17 para. 1 in force at 1.4.2014 for the purposes of the amendment made by that paragraph, so far as it is not already in force by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/2)
+[^c-d9c8c710f135edc889dbbc146bdd3795]: Commencement: Sch. 17 para. 1 in force at 1.4.2014 for the purposes of the amendment made by that paragraph, so far as it is not already in force by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/2)
 
-[^key-4ea462cfdef582fd2b786ad4d213ce40]: Modification: Sch. 17 para. 3(1): 1.4.2014 appointed as "the specified day" by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), art. 2(2)
+[^c-4ea462cfdef582fd2b786ad4d213ce40]: Modification: Sch. 17 para. 3(1): 1.4.2014 appointed as "the specified day" by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), art. 2(2)

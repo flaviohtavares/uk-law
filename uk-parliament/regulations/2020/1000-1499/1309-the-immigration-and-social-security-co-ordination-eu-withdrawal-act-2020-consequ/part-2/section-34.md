@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Amendment and saving of the Immigration (Biometric Registration) Regulations 2008[^key-b336813c34302d3b4b2e2ac43329fd31][^M_I_87f44330-e940-4997-e627-fea053546629]
+## 34. Amendment and saving of the Immigration (Biometric Registration) Regulations 2008[^c-b336813c34302d3b4b2e2ac43329fd31][^M_I_87f44330-e940-4997-e627-fea053546629]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,7 +53,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b336813c34302d3b4b2e2ac43329fd31]: Commencement: Reg. 34 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-b336813c34302d3b4b2e2ac43329fd31]: Commencement: Reg. 34 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_87f44330-e940-4997-e627-fea053546629]: Commencement: Reg. 34 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

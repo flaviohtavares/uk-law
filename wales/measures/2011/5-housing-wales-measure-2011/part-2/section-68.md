@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Warning[^key-2e767a180d0545c5fac9c3650d1e7a59]
+## 68. Warning[^c-2e767a180d0545c5fac9c3650d1e7a59]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ After section 50R of the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-2e767a180d0545c5fac9c3650d1e7a59]: Commencement: [S. 68](https://www.legislation.gov.uk/mwa/2011/5/section/68) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(n)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/n)
+[^c-2e767a180d0545c5fac9c3650d1e7a59]: Commencement: [S. 68](https://www.legislation.gov.uk/mwa/2011/5/section/68) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(n)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/n)

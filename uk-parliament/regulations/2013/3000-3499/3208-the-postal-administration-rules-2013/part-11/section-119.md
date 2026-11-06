@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 119. Costs paid otherwise than out of the assets of the company[^key-5482dfae94e2531024e3ca7ce356897a]
+## 119. Costs paid otherwise than out of the assets of the company[^c-5482dfae94e2531024e3ca7ce356897a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where the amount of costs is decided by detailed assessment under an order of th
 
 ## Annotations
 
-[^key-5482dfae94e2531024e3ca7ce356897a]: Commencement: [Rule 119](https://www.legislation.gov.uk/uksi/2013/3208/rule/119) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-5482dfae94e2531024e3ca7ce356897a]: Commencement: [Rule 119](https://www.legislation.gov.uk/uksi/2013/3208/rule/119) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

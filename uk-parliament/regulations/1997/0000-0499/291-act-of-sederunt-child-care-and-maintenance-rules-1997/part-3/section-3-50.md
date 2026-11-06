@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.50. Power of sheriff in making findings as to offences[^key-9a1fed52b2b1e11320ed54ef88933ba3]
+## 3.50. Power of sheriff in making findings as to offences[^c-9a1fed52b2b1e11320ed54ef88933ba3]
 
 *Extent: S*
 
-Where in a statement of grounds[^key-d62906cd38774d1a12fa3eae1ba5d679] it is alleged that an offence has been committed by or against any child, the sheriff may determine[^key-0cabae95b4c8ab966d6bca4cc7683d97] that any other offence established by the facts has been committed.
+Where in a statement of grounds[^c-d62906cd38774d1a12fa3eae1ba5d679] it is alleged that an offence has been committed by or against any child, the sheriff may determine[^c-0cabae95b4c8ab966d6bca4cc7683d97] that any other offence established by the facts has been committed.
 
 ## Annotations
 
-[^key-9a1fed52b2b1e11320ed54ef88933ba3]: Commencement: Rule 3.50 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-9a1fed52b2b1e11320ed54ef88933ba3]: Commencement: Rule 3.50 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
 
-[^key-d62906cd38774d1a12fa3eae1ba5d679]: Textual amendment: Words in rule 3.50 substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(38)(a)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/38/a) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-d62906cd38774d1a12fa3eae1ba5d679]: Textual amendment: Words in rule 3.50 substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(38)(a)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/38/a) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
 
-[^key-0cabae95b4c8ab966d6bca4cc7683d97]: Textual amendment: Word in rule 3.50 substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(38)(b)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/38/b) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-0cabae95b4c8ab966d6bca4cc7683d97]: Textual amendment: Word in rule 3.50 substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(38)(b)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/38/b) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))

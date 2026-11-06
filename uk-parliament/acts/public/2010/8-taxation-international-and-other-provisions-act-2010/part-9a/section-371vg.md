@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 371VG. Finance profits[^key-629ada2c8a18d82affe2c0e203fa8e18]
+## 371VG. Finance profits[^c-629ada2c8a18d82affe2c0e203fa8e18]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) which are included in the CFC's assumed total profits for the accounting period in question on the basis that they would be chargeable to corporation tax under—
   - (i) section 299 of CTA 2009 (charge to tax on non-trading profits from loan relationships), or
   - (ii) Part 9A of that Act (company distributions), or
-- (b)[^key-20751a29bafff9c9c7e2163a8c1d143f] which are included in the CFC's assumed total profits for the accounting period in question and which—
+- (b)[^c-20751a29bafff9c9c7e2163a8c1d143f] which are included in the CFC's assumed total profits for the accounting period in question and which—
   - (i) arise from a relevant finance lease, but
   - (ii) are not trading profits.
 
@@ -36,14 +36,14 @@ summary: ''
 (4) In this Part “**trading finance profits**”, in relation to a CFC, means any amounts included in the CFC's assumed total profits for the accounting period in question—
 
 - (a) which are trading profits by virtue of section 297, 573 or 931W of CTA 2009, or
-- (b) which are trading profits arising from [^key-79412a38cd715ff6d2152f8e8e2c23d1]... a relevant finance lease.
+- (b) which are trading profits arising from [^c-79412a38cd715ff6d2152f8e8e2c23d1]... a relevant finance lease.
 
 (5) Subsection (4) is subject to section 371CE(2).
 
 ## Annotations
 
-[^key-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
+[^c-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
 
-[^key-20751a29bafff9c9c7e2163a8c1d143f]: Textual amendment: S. 371VG(1)(b) substituted (retrospective to 1.1.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 47 paras. 7(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/7/2), [21](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/21)
+[^c-20751a29bafff9c9c7e2163a8c1d143f]: Textual amendment: S. 371VG(1)(b) substituted (retrospective to 1.1.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 47 paras. 7(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/7/2), [21](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/21)
 
-[^key-79412a38cd715ff6d2152f8e8e2c23d1]: Textual amendment: Words in s. 371VG(4)(b) omitted (retrospective to 1.1.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 47 paras. 7(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/7/3), [21](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/21)
+[^c-79412a38cd715ff6d2152f8e8e2c23d1]: Textual amendment: Words in s. 371VG(4)(b) omitted (retrospective to 1.1.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 47 paras. 7(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/7/3), [21](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/21)

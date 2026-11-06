@@ -41,9 +41,9 @@ as it has effect in relation to expenditure incurred in the acquisition of, or o
 - (a) sections 3 and 4 of this Act, and
 - (b) sections 3 and 4 of and Schedule 1 to the [^c10748641]Oil Taxation Act 1983,
 
-as having incurred that expenditure only to the extent that it does not exceed the lowest of the amounts described in sub-paragraph (1ZA) below which is applicable in the particular case.[^key-c0d2b97db7faf1611e821de247907196]
+as having incurred that expenditure only to the extent that it does not exceed the lowest of the amounts described in sub-paragraph (1ZA) below which is applicable in the particular case.[^c-c0d2b97db7faf1611e821de247907196]
 
-(1ZA)[^key-7b8b86e96bb14e8032633bba3fafac6e] Those amounts are—
+(1ZA)[^c-7b8b86e96bb14e8032633bba3fafac6e] Those amounts are—
 
 - (a) the amount of expenditure (other than loan expenditure) incurred up to the time mentioned in sub-paragraph (1) above in a transaction to which this paragraph does not apply (or, if there has been more than one such transaction, the later or latest of them) in acquiring, bringing into existence, or enhancing the value of, the asset;
 - (b) the amount of the open market consideration for the acquisition, bringing into existence, or enhancement of the value, of the asset;
@@ -62,11 +62,11 @@ as having incurred that expenditure only to the extent that it does not exceed t
 
 (1A) Subsections (1) to (3) of section 191 of the Finance Act 1993 apply to determine for the purposes of this paragraph what expenditure has at any time been incurred under a transaction to which this paragraph does not apply, as they apply in relation to expenditure for the allowance of which a claim is received by the Board after 16th March 1993.
 
-(1B) In sub-paragraph (1ZA)(a)[^key-78fe532dae269126834422b1c2840701] above “**loan expenditure**” means expenditure in respect of interest or any other pecuniary obligation incurred in obtaining a loan or any other form of credit.
+(1B) In sub-paragraph (1ZA)(a)[^c-78fe532dae269126834422b1c2840701] above “**loan expenditure**” means expenditure in respect of interest or any other pecuniary obligation incurred in obtaining a loan or any other form of credit.
 
-(1C)[^key-1a10c9aebcf87c6d071c8656808596c5] The reference in sub-paragraph (1ZA)(b) above to the open market consideration for the acquisition, bringing into existence, or enhancement of the value, of an asset is a reference to the consideration which might reasonably have been given for the acquisition, bringing into existence, or enhancement of the value, of the asset (whatever the nature of the acquisition, bringing into existence or enhancement of the value) had it been made in a transaction to which this paragraph does not apply.
+(1C)[^c-1a10c9aebcf87c6d071c8656808596c5] The reference in sub-paragraph (1ZA)(b) above to the open market consideration for the acquisition, bringing into existence, or enhancement of the value, of an asset is a reference to the consideration which might reasonably have been given for the acquisition, bringing into existence, or enhancement of the value, of the asset (whatever the nature of the acquisition, bringing into existence or enhancement of the value) had it been made in a transaction to which this paragraph does not apply.
 
-(2) This paragraph applies to any transaction between connected persons and to any transaction made otherwise than at arm’s length; and for the purposes of this paragraph a person is connected with another person if they are connected within the meaning of[^c10748651] section 1122 of CTA 2010[^key-b838b13ce62e49663518e5f9e5324597].
+(2) This paragraph applies to any transaction between connected persons and to any transaction made otherwise than at arm’s length; and for the purposes of this paragraph a person is connected with another person if they are connected within the meaning of[^c10748651] section 1122 of CTA 2010[^c-b838b13ce62e49663518e5f9e5324597].
 
 (3)[^c10748671] The preceding provisions of this section shall, with any necessary modification, apply in relation to expenditure incurred by any person in acquiring an interest in an asset or in bringing into existence an asset in which he is to have an interest, or in enhancing the value of an asset in which he has an interest, as those provisions apply in relation to expenditure incurred by a person in acquiring, bringing into existence, or enhancing the value of an asset, as the case may be.
 
@@ -77,7 +77,7 @@ as having incurred that expenditure only to the extent that it does not exceed t
 
 as they have effect in relation to expenditure incurred in the acquisition of, or of an interest in, an asset.
 
-**3.**[^key-ba5e7b17ed788f66f8fa2e7705438178] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ba5e7b17ed788f66f8fa2e7705438178] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Disposal of long-term asset formerly used in connection with an oil field
 
@@ -108,7 +108,7 @@ sub-paragraphs (2) to (4) below shall have effect.
 
 (7) Section 4(13) of this Act applies to the preceding provisions of this paragraph; and those provisions shall, with any necessary modifications, apply in relation to a disposal of an interest in an asset as they apply in relation to a disposal of an asset.
 
-(8) Section 1122 of CTA 2010[^key-62d63807cb9433d8d7f20d67de228a19] (connected persons) shall apply for the purposes of this paragraph.
+(8) Section 1122 of CTA 2010[^c-62d63807cb9433d8d7f20d67de228a19] (connected persons) shall apply for the purposes of this paragraph.
 
 **5.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c10748721]
 
@@ -127,7 +127,7 @@ that further amount shall be apportioned between the participators in proportion
 
 **7.** (1) Where, in consequence of the loss or destruction at any time within the period mentioned in sub-paragraph (1) of paragraph 4 above of such an asset as is mentioned in that sub-paragraph, any insurance or compensation in respect of the loss or destruction is receivable by a participator in the field or a person connected with a participator, paragraphs 4 and 6 above shall apply as if at that time the person by whom the insurance or compensation is receivable had disposed of the asset or his interest in it for an amount equal to the insurance or compensation.
 
-(2) Section 1122 of CTA 2010[^key-1c60983f78b6091dd28456e210d850f8] (connected persons) shall apply for the purposes of this paragraph.
+(2) Section 1122 of CTA 2010[^c-1c60983f78b6091dd28456e210d850f8] (connected persons) shall apply for the purposes of this paragraph.
 
 ### Assets acquired jointly by participators in different oil fields
 
@@ -147,32 +147,32 @@ that further amount shall be apportioned between the participators in proportion
 
 [^c10748641]: Marginal citation: [1983 c. 56](https://www.legislation.gov.uk/ukpga/1983/56).
 
-[^key-c0d2b97db7faf1611e821de247907196]: Textual amendment: Words in Sch. 4 para. 2(1) substituted (with effect in accordance with s. 287(6) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 287(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/287/2)
+[^c-c0d2b97db7faf1611e821de247907196]: Textual amendment: Words in Sch. 4 para. 2(1) substituted (with effect in accordance with s. 287(6) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 287(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/287/2)
 
-[^key-7b8b86e96bb14e8032633bba3fafac6e]: Textual amendment: Sch. 4 para. 2(1ZA) inserted (with effect in accordance with s. 287(6) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 287(3)](https://www.legislation.gov.uk/ukpga/2004/12/section/287/3)
+[^c-7b8b86e96bb14e8032633bba3fafac6e]: Textual amendment: Sch. 4 para. 2(1ZA) inserted (with effect in accordance with s. 287(6) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 287(3)](https://www.legislation.gov.uk/ukpga/2004/12/section/287/3)
 
-[^key-78fe532dae269126834422b1c2840701]: Textual amendment: Word in Sch. 4 para. 2(1B) substituted (with effect in accordance with s. 287(6) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 287(4)](https://www.legislation.gov.uk/ukpga/2004/12/section/287/4)
+[^c-78fe532dae269126834422b1c2840701]: Textual amendment: Word in Sch. 4 para. 2(1B) substituted (with effect in accordance with s. 287(6) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 287(4)](https://www.legislation.gov.uk/ukpga/2004/12/section/287/4)
 
-[^key-1a10c9aebcf87c6d071c8656808596c5]: Textual amendment: Sch. 4 para. 2(1C) inserted (with effect in accordance with s. 287(6) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 287(5)](https://www.legislation.gov.uk/ukpga/2004/12/section/287/5)
+[^c-1a10c9aebcf87c6d071c8656808596c5]: Textual amendment: Sch. 4 para. 2(1C) inserted (with effect in accordance with s. 287(6) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 287(5)](https://www.legislation.gov.uk/ukpga/2004/12/section/287/5)
 
 [^c10748651]: Textual amendment: Words substituted for Sch. 4 para. 2(2)(*a*)–(*c*) by [Finance (No. 2) Act 1979 (c. 47)](https://www.legislation.gov.uk/ukpga/1979/47), [s. 20(2)](https://www.legislation.gov.uk/ukpga/1979/47/section/20/2) in relation to expenditure claimed after 31 December 1978
 
-[^key-b838b13ce62e49663518e5f9e5324597]: Textual amendment: Words in Sch. 4 para. 2(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 166(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/166/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-b838b13ce62e49663518e5f9e5324597]: Textual amendment: Words in Sch. 4 para. 2(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 166(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/166/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c10748671]: Textual amendment: Sch. 4 para. 2(3)(4) substituted for Sch. 4 para. 2(3) (27.7.1993 with effect as mentioned in s. 191(6)) by virtue of [1993 c. 34](https://www.legislation.gov.uk/ukpga/1993/34), [ss. 191(5)(6)](https://www.legislation.gov.uk/ukpga/1993/34/section/191/5/6)
 
-[^key-ba5e7b17ed788f66f8fa2e7705438178]: Textual amendment: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/1975/22/schedule/4/paragraph/3) omitted (with effect in accordance with Sch. 45 para. 1(5) of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 1(4)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/1/4)
+[^c-ba5e7b17ed788f66f8fa2e7705438178]: Textual amendment: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/1975/22/schedule/4/paragraph/3) omitted (with effect in accordance with Sch. 45 para. 1(5) of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 1(4)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/1/4)
 
 [^c10748691]: Modification: [See Oil Taxation Act 1983 (c. 56)](https://www.legislation.gov.uk/ukpga/1983/56), [s. 1(4)](https://www.legislation.gov.uk/ukpga/1983/56/section/1/4)
 
 [^c10748701]: Modification: [See Oil Taxation Act 1983 (c. 56)](https://www.legislation.gov.uk/ukpga/1983/56), [s. 5(7)](https://www.legislation.gov.uk/ukpga/1983/56/section/5/7)
 
-[^key-62d63807cb9433d8d7f20d67de228a19]: Textual amendment: Words in [Sch. 4 para. 4(8)](https://www.legislation.gov.uk/ukpga/1975/22/schedule/4/paragraph/4/8) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 166(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/166/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-62d63807cb9433d8d7f20d67de228a19]: Textual amendment: Words in [Sch. 4 para. 4(8)](https://www.legislation.gov.uk/ukpga/1975/22/schedule/4/paragraph/4/8) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 166(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/166/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c10748721]: Textual amendment: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/1975/22/schedule/4/paragraph/5) repealed by [Oil Taxation Act 1983 (c. 56)](https://www.legislation.gov.uk/ukpga/1983/56), [s. 15(6)](https://www.legislation.gov.uk/ukpga/1983/56/section/15/6) and Sch. 6
 
 [^c10748731]: Modification: [See Oil Taxation Act 1983 (c. 56)](https://www.legislation.gov.uk/ukpga/1983/56), [s. 3(6)](https://www.legislation.gov.uk/ukpga/1983/56/section/3/6)
 
-[^key-1c60983f78b6091dd28456e210d850f8]: Textual amendment: Words in [Sch. 4 para. 7(2)](https://www.legislation.gov.uk/ukpga/1975/22/schedule/4/paragraph/7/2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 166(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/166/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-1c60983f78b6091dd28456e210d850f8]: Textual amendment: Words in [Sch. 4 para. 7(2)](https://www.legislation.gov.uk/ukpga/1975/22/schedule/4/paragraph/7/2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 166(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/166/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c10748751]: Modification: [See Oil Taxation Act 1983 (c. 56)](https://www.legislation.gov.uk/ukpga/1983/56), [s. 3(6)](https://www.legislation.gov.uk/ukpga/1983/56/section/3/6)

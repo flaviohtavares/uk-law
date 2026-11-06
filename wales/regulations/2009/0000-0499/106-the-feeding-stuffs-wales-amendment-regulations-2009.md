@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, WALES
 
-The Feeding Stuffs (Wales) (Amendment) Regulations 2009 (revoked)[^key-0bf5445d6f4146fdb4093b527464942b]
+The Feeding Stuffs (Wales) (Amendment) Regulations 2009 (revoked)[^c-0bf5445d6f4146fdb4093b527464942b]
 
 Made
 
@@ -45,23 +45,23 @@ Coming into force
 
 20 February 2009
 
-[^key-0bf5445d6f4146fdb4093b527464942b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0bf5445d6f4146fdb4093b527464942b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-0bf5445d6f4146fdb4093b527464942b]
+## 1. Title, commencement and application[^c-0bf5445d6f4146fdb4093b527464942b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Feeding Stuffs (Wales) Regulations 2006[^key-0bf5445d6f4146fdb4093b527464942b]
+## 2. Amendment of the Feeding Stuffs (Wales) Regulations 2006[^c-0bf5445d6f4146fdb4093b527464942b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0bf5445d6f4146fdb4093b527464942b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0bf5445d6f4146fdb4093b527464942b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Entries to be substituted for the entries relating to the support of renal function in the case of chronic renal insufficiency in Schedule 7 to the Feeding Stuffs (Wales) Regulations 2006[^key-0bf5445d6f4146fdb4093b527464942b]
+## SCHEDULE — Entries to be substituted for the entries relating to the support of renal function in the case of chronic renal insufficiency in Schedule 7 to the Feeding Stuffs (Wales) Regulations 2006[^c-0bf5445d6f4146fdb4093b527464942b]
 
 Regulation 2(3)
 
@@ -69,8 +69,8 @@ Regulation 2(3)
 
 **May not be in force at this date. Check the source.**
 
-[^key-0bf5445d6f4146fdb4093b527464942b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0bf5445d6f4146fdb4093b527464942b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0bf5445d6f4146fdb4093b527464942b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2009/106) revoked (23.11.2010) by [The Animal Feed (Wales) Regulations 2010 (S.I. 2010/2652)](https://www.legislation.gov.uk/wsi/2010/2652), [reg. 1](https://www.legislation.gov.uk/wsi/2010/2652/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2010/2652/schedule/2)
+[^c-0bf5445d6f4146fdb4093b527464942b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2009/106) revoked (23.11.2010) by [The Animal Feed (Wales) Regulations 2010 (S.I. 2010/2652)](https://www.legislation.gov.uk/wsi/2010/2652), [reg. 1](https://www.legislation.gov.uk/wsi/2010/2652/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2010/2652/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Members under age of 18[^key-7150afed735c055a76662b739196a271]
+## 19. Members under age of 18[^c-7150afed735c055a76662b739196a271]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ This is subject to the society's registered rules and to the provisions of this 
 
 ## Annotations
 
-[^key-7150afed735c055a76662b739196a271]: Textual amendment: S. 19 substituted (with application in accordance with Sch. 2 para. 4 of the amending Act) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [ss. 9](https://www.legislation.gov.uk/nia/2016/16/section/9), [17(3)](https://www.legislation.gov.uk/nia/2016/16/section/17/3) (with [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2016/16/schedule/2/paragraph/4))
+[^c-7150afed735c055a76662b739196a271]: Textual amendment: S. 19 substituted (with application in accordance with Sch. 2 para. 4 of the amending Act) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [ss. 9](https://www.legislation.gov.uk/nia/2016/16/section/9), [17(3)](https://www.legislation.gov.uk/nia/2016/16/section/17/3) (with [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2016/16/schedule/2/paragraph/4))

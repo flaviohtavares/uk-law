@@ -31,7 +31,7 @@ summary: ''
 
 Rating And Valuation, Wales
 
-The Non-Domestic Rating (Chargeable Amounts) (Wales) Regulations 2016 (revoked)[^key-6517726c599a85c02e44c04de51b84a3]
+The Non-Domestic Rating (Chargeable Amounts) (Wales) Regulations 2016 (revoked)[^c-6517726c599a85c02e44c04de51b84a3]
 
 Made
 
@@ -41,86 +41,86 @@ Coming into force
 
 31 December 2016
 
-[^key-6517726c599a85c02e44c04de51b84a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6517726c599a85c02e44c04de51b84a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Preliminary: general[^key-6517726c599a85c02e44c04de51b84a3]
+## PART 1 — Preliminary: general[^c-6517726c599a85c02e44c04de51b84a3]
 
-### 1. Title, commencement and application[^key-6517726c599a85c02e44c04de51b84a3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-6517726c599a85c02e44c04de51b84a3]
+### 1. Title, commencement and application[^c-6517726c599a85c02e44c04de51b84a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Defined hereditament[^key-6517726c599a85c02e44c04de51b84a3]
+### 2. Interpretation[^c-6517726c599a85c02e44c04de51b84a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Preliminary: calculations[^key-6517726c599a85c02e44c04de51b84a3]
-
-### 4. Base liability[^key-6517726c599a85c02e44c04de51b84a3]
+### 3. Defined hereditament[^c-6517726c599a85c02e44c04de51b84a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Notional chargeable amount[^key-6517726c599a85c02e44c04de51b84a3]
+## PART 2 — Preliminary: calculations[^c-6517726c599a85c02e44c04de51b84a3]
+
+### 4. Base liability[^c-6517726c599a85c02e44c04de51b84a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-6517726c599a85c02e44c04de51b84a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-6517726c599a85c02e44c04de51b84a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 3 — Cases to which the prescribed rules apply[^key-6517726c599a85c02e44c04de51b84a3]
-
-**8.**[^key-6517726c599a85c02e44c04de51b84a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 9. Prescribed descriptions[^key-6517726c599a85c02e44c04de51b84a3]
+### 5. Notional chargeable amount[^c-6517726c599a85c02e44c04de51b84a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Exceptions[^key-6517726c599a85c02e44c04de51b84a3]
+**6.**[^c-6517726c599a85c02e44c04de51b84a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^c-6517726c599a85c02e44c04de51b84a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — Cases to which the prescribed rules apply[^c-6517726c599a85c02e44c04de51b84a3]
+
+**8.**[^c-6517726c599a85c02e44c04de51b84a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Prescribed descriptions[^c-6517726c599a85c02e44c04de51b84a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Prescribed rules[^key-6517726c599a85c02e44c04de51b84a3]
-
-### 11. Rules for finding the chargeable amount[^key-6517726c599a85c02e44c04de51b84a3]
+### 10. Exceptions[^c-6517726c599a85c02e44c04de51b84a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-6517726c599a85c02e44c04de51b84a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 4 — Prescribed rules[^c-6517726c599a85c02e44c04de51b84a3]
 
-**13.**[^key-6517726c599a85c02e44c04de51b84a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 14. Financial year commencing on 1 April 2017[^key-6517726c599a85c02e44c04de51b84a3]
+### 11. Rules for finding the chargeable amount[^c-6517726c599a85c02e44c04de51b84a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Financial year commencing on 1 April 2018[^key-6517726c599a85c02e44c04de51b84a3]
+**12.**[^c-6517726c599a85c02e44c04de51b84a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^c-6517726c599a85c02e44c04de51b84a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Financial year commencing on 1 April 2017[^c-6517726c599a85c02e44c04de51b84a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Financial year commencing on 1 April 2019[^key-6517726c599a85c02e44c04de51b84a3]
+### 15. Financial year commencing on 1 April 2018[^c-6517726c599a85c02e44c04de51b84a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Financial years commencing on 1 April 2020 and 1 April 2021[^key-6517726c599a85c02e44c04de51b84a3]
+### 16. Financial year commencing on 1 April 2019[^c-6517726c599a85c02e44c04de51b84a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — Revocations[^key-6517726c599a85c02e44c04de51b84a3]
+### 17. Financial years commencing on 1 April 2020 and 1 April 2021[^c-6517726c599a85c02e44c04de51b84a3]
 
-**18.**[^key-6517726c599a85c02e44c04de51b84a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6517726c599a85c02e44c04de51b84a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 5 — Revocations[^c-6517726c599a85c02e44c04de51b84a3]
+
+**18.**[^c-6517726c599a85c02e44c04de51b84a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-6517726c599a85c02e44c04de51b84a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6517726c599a85c02e44c04de51b84a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6517726c599a85c02e44c04de51b84a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6517726c599a85c02e44c04de51b84a3]: Textual amendment: Regulations revoked (31.12.2022) by The Non-[Domestic Rating (Chargeable Amounts) (Wales) Regulations 2022 (S.I. 2022/1350)](https://www.legislation.gov.uk/uksi/2022/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1350/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2022/1350/regulation/17)
+[^c-6517726c599a85c02e44c04de51b84a3]: Textual amendment: Regulations revoked (31.12.2022) by The Non-[Domestic Rating (Chargeable Amounts) (Wales) Regulations 2022 (S.I. 2022/1350)](https://www.legislation.gov.uk/uksi/2022/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1350/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2022/1350/regulation/17)

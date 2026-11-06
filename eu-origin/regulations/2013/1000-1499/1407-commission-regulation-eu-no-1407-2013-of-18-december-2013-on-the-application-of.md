@@ -36,42 +36,42 @@ on the application of Articles 107 and 108 of the Treaty on the Functioning of t
 
 (Text with EEA relevance) (revoked)
 
-[^key-63768b95bd107c3fc1ab6bd3bbf18b6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-63768b95bd107c3fc1ab6bd3bbf18b6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Scope[^key-63768b95bd107c3fc1ab6bd3bbf18b6d]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-63768b95bd107c3fc1ab6bd3bbf18b6d]
+## Article 1. Scope[^c-63768b95bd107c3fc1ab6bd3bbf18b6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. De minimis aid[^key-63768b95bd107c3fc1ab6bd3bbf18b6d]
+## Article 2. Definitions[^c-63768b95bd107c3fc1ab6bd3bbf18b6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Calculation of gross grant equivalent[^key-63768b95bd107c3fc1ab6bd3bbf18b6d]
+## Article 3. De minimis aid[^c-63768b95bd107c3fc1ab6bd3bbf18b6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Cumulation[^key-63768b95bd107c3fc1ab6bd3bbf18b6d]
+## Article 4. Calculation of gross grant equivalent[^c-63768b95bd107c3fc1ab6bd3bbf18b6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Monitoring[^key-63768b95bd107c3fc1ab6bd3bbf18b6d]
+## Article 5. Cumulation[^c-63768b95bd107c3fc1ab6bd3bbf18b6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Transitional provisions[^key-63768b95bd107c3fc1ab6bd3bbf18b6d]
+## Article 6. Monitoring[^c-63768b95bd107c3fc1ab6bd3bbf18b6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force and period of application[^key-63768b95bd107c3fc1ab6bd3bbf18b6d]
+## Article 7. Transitional provisions[^c-63768b95bd107c3fc1ab6bd3bbf18b6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-63768b95bd107c3fc1ab6bd3bbf18b6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 8. Entry into force and period of application[^c-63768b95bd107c3fc1ab6bd3bbf18b6d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-63768b95bd107c3fc1ab6bd3bbf18b6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-63768b95bd107c3fc1ab6bd3bbf18b6d]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(i)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/i) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-63768b95bd107c3fc1ab6bd3bbf18b6d]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(i)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/i) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))

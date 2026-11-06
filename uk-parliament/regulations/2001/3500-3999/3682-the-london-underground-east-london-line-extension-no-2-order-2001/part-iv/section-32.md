@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Control of construction sites: appeals[^key-0ed1b5e6a9180cc1a405c8a90b1ea729]
+## 32. Control of construction sites: appeals[^c-0ed1b5e6a9180cc1a405c8a90b1ea729]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Sections 60 (control of noise on construction sites) and 61 (prior consent for w
 
 ## Annotations
 
-[^key-0ed1b5e6a9180cc1a405c8a90b1ea729]: Commencement: Art. 32 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-0ed1b5e6a9180cc1a405c8a90b1ea729]: Commencement: Art. 32 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)

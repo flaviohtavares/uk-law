@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Extension of cross-border powers of arrest: urgent cases[^c22719551][^key-a156e3f465f01dc65bd2f774d25cf0f1]
+## 116. Extension of cross-border powers of arrest: urgent cases[^c22719551][^c-a156e3f465f01dc65bd2f774d25cf0f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -222,4 +222,4 @@ summary: ''
 
 [^c22719551]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2017/3/section/116) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-a156e3f465f01dc65bd2f774d25cf0f1]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2017/3/section/116) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/227/article/2/f)
+[^c-a156e3f465f01dc65bd2f774d25cf0f1]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2017/3/section/116) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/227/article/2/f)

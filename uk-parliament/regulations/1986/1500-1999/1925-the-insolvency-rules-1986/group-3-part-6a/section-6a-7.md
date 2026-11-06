@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6A.7. Deletion of information from the bankruptcy restrictions register—bankruptcy restrictions orders and undertakings[^key-d1919e44dc131030ccb9fcb0de2ece83]
+## 6A.7. Deletion of information from the bankruptcy restrictions register—bankruptcy restrictions orders and undertakings[^c-d1919e44dc131030ccb9fcb0de2ece83]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In any case where an interim bankruptcy restrictions order or a bankruptcy restr
 
 ## Annotations
 
-[^key-d1919e44dc131030ccb9fcb0de2ece83]: Textual amendment: Pt. 6A inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 53](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/53)
+[^c-d1919e44dc131030ccb9fcb0de2ece83]: Textual amendment: Pt. 6A inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 53](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/53)

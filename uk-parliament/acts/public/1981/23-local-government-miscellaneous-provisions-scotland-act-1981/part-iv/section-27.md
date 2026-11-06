@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Consent to certain local authority borrowing.[^key-522bef81cc0874ac5bbfc5691ed090c8]
+## 27. Consent to certain local authority borrowing.[^c-522bef81cc0874ac5bbfc5691ed090c8]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-522bef81cc0874ac5bbfc5691ed090c8]: Textual amendment: [S. 27](https://www.legislation.gov.uk/ukpga/1981/23/section/27) repealed (1.4.2016) by [Local Government etc. (Scotland) Act 1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), [ss. 180(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/2), [184(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/184/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1994/39/schedule/14); [S.S.I. 2016/31](https://www.legislation.gov.uk/ssi/2016/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2016/31/article/2/b)
+[^c-522bef81cc0874ac5bbfc5691ed090c8]: Textual amendment: [S. 27](https://www.legislation.gov.uk/ukpga/1981/23/section/27) repealed (1.4.2016) by [Local Government etc. (Scotland) Act 1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), [ss. 180(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/2), [184(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/184/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1994/39/schedule/14); [S.S.I. 2016/31](https://www.legislation.gov.uk/ssi/2016/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2016/31/article/2/b)

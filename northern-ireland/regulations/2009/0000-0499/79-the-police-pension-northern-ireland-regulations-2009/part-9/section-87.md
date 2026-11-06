@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 87. Servicemen who do not resume service in the police service[^key-c09b44d65716ab62d0f97a3adaac57cb]
+## 87. Servicemen who do not resume service in the police service[^c-c09b44d65716ab62d0f97a3adaac57cb]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where a serviceman who ceased to serve as a police officer in order to undertake
 
 ## Annotations
 
-[^key-c09b44d65716ab62d0f97a3adaac57cb]: Commencement: Reg. 87 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-c09b44d65716ab62d0f97a3adaac57cb]: Commencement: Reg. 87 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

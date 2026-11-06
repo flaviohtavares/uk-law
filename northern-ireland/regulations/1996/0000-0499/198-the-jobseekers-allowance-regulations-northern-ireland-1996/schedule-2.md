@@ -24,7 +24,7 @@ summary: ''
 
 Regulations 83(f) and 84(1)(g)
 
-### 1. Housing Costs[^key-219ca1b1a619c43c05e19879c10bf03f]
+### 1. Housing Costs[^c-219ca1b1a619c43c05e19879c10bf03f]
 
 (1) Subject to paragraphs 2 to 19, the housing costs applicable to a claimant are those costs—
 
@@ -49,7 +49,7 @@ Regulations 83(f) and 84(1)(g)
 
 (4) For the purposes of sub-paragraph (3), a person shall not cease to be a disabled person on account of his being disqualified for receiving benefit or treated as capable of work by virtue of the operation of section 167E of the Benefits Act[^f00141] (incapacity for work, disqualification etc.).
 
-### 2. Circumstances in which a person is liable to meet housing costs[^key-039ab729f14dc130f82e33d88161d88c]
+### 2. Circumstances in which a person is liable to meet housing costs[^c-039ab729f14dc130f82e33d88161d88c]
 
 (1) A person is liable to meet housing costs where—
 
@@ -61,7 +61,7 @@ Regulations 83(f) and 84(1)(g)
 
 (2) Where any one or more, but not all, members of the claimant’s family are affected by a trade dispute, the housing costs shall be treated as wholly the responsibility of those members of the family not so affected.
 
-### 3. Circumstances in which a person is to be treated as occupying a dwelling as his home[^key-d4c7c7984e83fe8217afae7c0856f075]
+### 3. Circumstances in which a person is to be treated as occupying a dwelling as his home[^c-d4c7c7984e83fe8217afae7c0856f075]
 
 (1) Subject to sub-paragraphs (2) to (13), a person shall be treated as occupying as his home the dwelling normally occupied as his home by himself or, if he is a member of a family, by himself and his family and he shall not be treated as occupying any other dwelling as his home.
 
@@ -134,7 +134,7 @@ and while in the accommodation, the part of the dwelling which he normally occup
   - (iii) which is a nursing home;
 - (d) “training course” means such a course of training or instruction provided wholly or partly by, or on behalf of, or in pursuance of arrangements made with, or approved by or, on behalf of, a government department.
 
-### 4. Housing costs not met[^key-9feda8a15e7b103fbeafee6d820c0ac4]
+### 4. Housing costs not met[^c-9feda8a15e7b103fbeafee6d820c0ac4]
 
 (1) No amount may be met under the provisions of this Schedule—
 
@@ -203,13 +203,13 @@ so however that the amount to be met by way of housing costs shall initially not
 
 (12) Paragraphs 5 to 19 shall have effect subject to the provisions of this paragraph.
 
-### 5. Apportionment of housing costs[^key-1fdee6d933bbaa26333b883b0fe28a8c]
+### 5. Apportionment of housing costs[^c-1fdee6d933bbaa26333b883b0fe28a8c]
 
 (1) Where for the purposes of Article 4 of, and Schedule 5 to, the Rates (Northern Ireland) Order 1977[^f00144], it appears to the Department of the Environment, or it is deemed in pursuance of paragraphs 2 to 4 of that Schedule that the hereditament includes the home and that only a proportion of the rateable value of the hereditament is attributable to use for the purpose of a private dwelling, the amounts applicable under this Schedule shall be such proportion of the amounts applicable in respect of the hereditament or premises as a whole as is equal to the proportion of the rateable value of the hereditament attributable to the part of the hereditament used for the purposes of a private tenancy.
 
 (2) Where responsibility for expenditure which relates to housing costs met under this Schedule is shared, the amounts applicable shall be calculated by reference to the appropriate proportion of that expenditure for which the claimant is responsible.
 
-### 6. Existing housing costs[^key-dd18ac50234bd06c73d1b61968cbdd86]
+### 6. Existing housing costs[^c-dd18ac50234bd06c73d1b61968cbdd86]
 
 (1) Subject to the provisions of this Schedule, the existing housing costs to be met in any particular case are—
 
@@ -221,7 +221,7 @@ so however that the amount to be met by way of housing costs shall initially not
 
 (2) For the purposes of sub-paragraph (1), the eligible capital for the time being owing shall be determined on the date the existing housing costs are first met and thereafter on each anniversary of that date.
 
-### 7. New housing costs[^key-de8e866f25a493e6e58010c431c8afe1]
+### 7. New housing costs[^c-de8e866f25a493e6e58010c431c8afe1]
 
 (1) Subject to the provisions of this Schedule, the new housing costs to be met in any particular case are—
 
@@ -252,7 +252,7 @@ and where the person’s family includes a child.
 
 (7) Sub-paragraph (4) shall cease to apply to a person who subsequently becomes one of a couple.
 
-### 8. General exclusions from paragraphs 6 and 7[^key-1f5fdd2ef8705c235c009d68d7972687]
+### 8. General exclusions from paragraphs 6 and 7[^c-1f5fdd2ef8705c235c009d68d7972687]
 
 (1) Paragraphs 6 and 7 shall not apply where—
 
@@ -266,7 +266,7 @@ and where the person’s family includes a child.
   - (ii) equal to the payments which qualify under paragraph 16 (other housing costs);
 - (b) where head (b) applies, an amount equal to the payments which qualify under paragraph 16(1)(d).
 
-### 9. The calculation for loans[^key-44234f5c6a6cf3f471a4e1668029578f]
+### 9. The calculation for loans[^c-44234f5c6a6cf3f471a4e1668029578f]
 
 (1) The weekly amount of existing housing costs or, as the case may be, new housing costs to be met under this Schedule in respect of a loan which qualifies under paragraph 14 or 15 shall be calculated by applying the formula—
 
@@ -280,7 +280,7 @@ where—
 
 (2) Where section 369 of the Income and Corporation Taxes Act 1988 does not apply to the interest on a loan or a part of a loan, the formula applied in sub-paragraph (1) shall have effect as if C had a value of 1.
 
-### 10. General provisions applying to new and existing housing costs[^key-fd004b5e3fe7e8167f70610b2ceb2e7e]
+### 10. General provisions applying to new and existing housing costs[^c-fd004b5e3fe7e8167f70610b2ceb2e7e]
 
 (1) Where a person enters into a new agreement in respect of a dwelling and an agreement entered into before 2nd October 1995 (“the earlier agreement”) continues in operation independently of the new agreement, then—
 
@@ -330,7 +330,7 @@ where—
 - S = the amount of the outstanding loan to be taken into account;
 - T = the aggregate of all outstanding loans to be taken into account under paragraphs 14 and 15.
 
-### 11. The standard rate[^key-8e5b878d4f4ae859cdaa0620f2f9ce0c]
+### 11. The standard rate[^c-8e5b878d4f4ae859cdaa0620f2f9ce0c]
 
 (1) The standard rate is the rate of interest applicable to a loan which qualifies under this Schedule and—
 
@@ -341,7 +341,7 @@ where—
 
 (3) Where in a case to which sub-paragraph (2) applies, the actual rate of interest on the loan rises to 5 per cent. per annum or higher, the standard rate applicable on that loan shall be determined in accordance with sub-paragraph (1)(a).
 
-### 12. Excessive Housing Costs[^key-c1adefe288d7080e08b3caf8f2698bcc]
+### 12. Excessive Housing Costs[^c-c1adefe288d7080e08b3caf8f2698bcc]
 
 (1) Housing costs which, apart from this paragraph, fall to be met under this Schedule shall be met only to the extent specified in sub-paragraph (3) where—
 
@@ -373,7 +373,7 @@ shall be treated for the purposes of sub-paragraph (7) as a period in respect of
 
 (9) Paragraph 13(1)(c) to (f) (linking rule) shall apply to sub-paragraph (7) as it applies to paragraphs 6 and 7 (existing and new housing costs) but with the modification that the words “Subject to sub-paragraph (2)” are omitted and as if references to “the claimant” were references to the person mentioned in sub-paragraph (7).
 
-### 13. Linking rule[^key-5466b991d7d4f604c8d593bcab6bf6ed]
+### 13. Linking rule[^c-5466b991d7d4f604c8d593bcab6bf6ed]
 
 (1) Subject to sub-paragraph (2) for the purposes of this Schedule—
 
@@ -448,7 +448,7 @@ sub-paragraphs (6) and (7) shall have effect as if for “throughout any period 
 
 any week falling between the date of the termination of the previous award and the date of the new claim shall be ignored.
 
-### 14. Loans on residential property[^key-9764f0cbee6a5e2ded0939de4785e239]
+### 14. Loans on residential property[^c-9764f0cbee6a5e2ded0939de4785e239]
 
 (1) A loan qualifies under this paragraph where the loan was taken out to defray monies applied for any of the following purposes—
 
@@ -459,7 +459,7 @@ any week falling between the date of the termination of the previous award and t
 
 (3) Where a loan is applied only in part for the purposes specified in sub-paragraph (1), only that portion of the loan which is applied for that purpose shall qualify under this paragraph.
 
-### 15. Loans for repairs and improvements to the dwelling occupied as the home[^key-f762a2db0066efd8fa808b5449651a4c]
+### 15. Loans for repairs and improvements to the dwelling occupied as the home[^c-f762a2db0066efd8fa808b5449651a4c]
 
 (1) A loan qualifies under this paragraph where the loan was taken out, with or without security, for the purpose of—
 
@@ -486,7 +486,7 @@ and the loan was used for that purpose, or is used for that purpose within 6 mon
 
 (3) Where a loan is applied only in part for the purposes specified in sub-paragraph (1), only that portion of the loan which is applied for that purpose shall qualify under this paragraph.
 
-### 16. Other housing costs[^key-83126bbc8651d2976ecd3572e0405ef7]
+### 16. Other housing costs[^c-83126bbc8651d2976ecd3572e0405ef7]
 
 (1) Subject to the deduction specified in sub-paragraph (2), there shall be met under this paragraph the amounts, calculated on a weekly basis, in respect of the following housing costs—
 
@@ -511,7 +511,7 @@ and the loan was used for that purpose, or is used for that purpose within 6 mon
 
 then those costs shall, for a period not exceeding 8 weeks, be treated as payable.
 
-### 17. Non-dependant deductions[^key-43f3209e15113143f9fcb803a6d7440a]
+### 17. Non-dependant deductions[^c-43f3209e15113143f9fcb803a6d7440a]
 
 (1) Subject to sub-paragraphs (2) to (8), the following deductions from the amount to be met under paragraphs 1 to 16 in respect of housing costs shall be made—
 
@@ -555,7 +555,7 @@ then those costs shall, for a period not exceeding 8 weeks, be treated as payabl
 - (b) any payment made under the Macfarlane Trust, the Macfarlane (Special Payments) Trust, the Macfarlane (Special Payments) (No. 2) Trust, the Fund, the Eileen Trust or the Independent Living Funds which, had his income fallen to be calculated under regulation 103 (calculation of income other than earnings), would have been disregarded under paragraph 22 of Schedule 6 (income in kind), and
 - (c) any payment which, had his income fallen to be calculated under regulation 103 would have been disregarded under paragraph 41 of Schedule 6 (payments made under certain trusts and certain other payments).
 
-### 18. Continuity with Income Support[^key-0dc470793784bc5a704a5655fbff37d8]
+### 18. Continuity with Income Support[^c-0dc470793784bc5a704a5655fbff37d8]
 
 (1) For the purpose of providing continuity between income support and a jobseeker’s allowance—
 
@@ -565,68 +565,68 @@ then those costs shall, for a period not exceeding 8 weeks, be treated as payabl
 
 (2) Any loan which, had the claimant been entitled to income support and not a jobseeker’s allowance, would have been a qualifying loan for the purposes of Schedule 3 to the Income Support Regulations by virtue of regulation 4 to the Income Support (General) (Amendment and Transitional) Regulations (Northern Ireland) 1995[^f00150] shall be treated also as a qualifying loan for the purposes of paragraph 14 or 15, as the case may be; and for the purpose of determining whether a claimant would satisfy the provision of regulation 4(2) of those regulations, a person in receipt of an income-based jobseeker’s allowance shall be treated as being in receipt of income support.
 
-### 19. Rounding of Fractions[^key-61757660540856b44657150021fa9ea2]
+### 19. Rounding of Fractions[^c-61757660540856b44657150021fa9ea2]
 
 Where any calculation made under this Schedule results in a fraction of a penny, that fraction shall be treated as a penny.
 
 ## Annotations
 
-[^key-219ca1b1a619c43c05e19879c10bf03f]: Commencement: Sch. 2 para. 1 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-219ca1b1a619c43c05e19879c10bf03f]: Commencement: Sch. 2 para. 1 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00140]: Footnote: Paragraph 9A was substituted by regulation 5(a) of [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139)
 
 [^f00141]: Footnote: Section 167E was inserted by Article 8(1) of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 ([S.I. 1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898))
 
-[^key-039ab729f14dc130f82e33d88161d88c]: Commencement: Sch. 2 para. 2 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-039ab729f14dc130f82e33d88161d88c]: Commencement: Sch. 2 para. 2 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-d4c7c7984e83fe8217afae7c0856f075]: Commencement: Sch. 2 para. 3 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-d4c7c7984e83fe8217afae7c0856f075]: Commencement: Sch. 2 para. 3 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00142]: Footnote: Article 15 was extended by sections 1 and 2 of the Chronically Sick and Disabled Persons (Northern Ireland) Act [1978 (c. 53)](https://www.legislation.gov.uk/ukpga/1978/53) and amended by Schedule 5 to the Health and Personal Social Services (Northern Ireland) Order 1991 ([S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)) and paragraph 2(2) of Schedule 1 to the Registered Homes (Northern Ireland) Order 1992 ([S.I. 1992/3204 (N.I. 20)](https://www.legislation.gov.uk/nisi/1992/3204)). Article 36 was substituted by Article 25 of the Health and Personal Social Services (Northern Ireland) Order 1991 and amended by paragraph 2(3) to (5) of Schedule 1 to the Registered Homes (Northern Ireland) Order 1992
 
-[^key-9feda8a15e7b103fbeafee6d820c0ac4]: Commencement: Sch. 2 para. 4 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-9feda8a15e7b103fbeafee6d820c0ac4]: Commencement: Sch. 2 para. 4 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00143]: Footnote: Paragraph 5A was inserted by regulation 2 of [S.R. 1994 No. 138](https://www.legislation.gov.uk/nisr/1994/138) and revoked by Schedule 4 to [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301)
 
-[^key-1fdee6d933bbaa26333b883b0fe28a8c]: Commencement: Sch. 2 para. 5 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-1fdee6d933bbaa26333b883b0fe28a8c]: Commencement: Sch. 2 para. 5 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00144]: Footnote: [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157)
 
-[^key-dd18ac50234bd06c73d1b61968cbdd86]: Commencement: Sch. 2 para. 6 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-dd18ac50234bd06c73d1b61968cbdd86]: Commencement: Sch. 2 para. 6 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-de8e866f25a493e6e58010c431c8afe1]: Commencement: Sch. 2 para. 7 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-de8e866f25a493e6e58010c431c8afe1]: Commencement: Sch. 2 para. 7 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-1f5fdd2ef8705c235c009d68d7972687]: Commencement: Sch. 2 para. 8 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-1f5fdd2ef8705c235c009d68d7972687]: Commencement: Sch. 2 para. 8 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-44234f5c6a6cf3f471a4e1668029578f]: Commencement: Sch. 2 para. 9 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-44234f5c6a6cf3f471a4e1668029578f]: Commencement: Sch. 2 para. 9 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00145]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); section 369(1A) was inserted by section 81(3) of the Finance Act [1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9)
 
-[^key-fd004b5e3fe7e8167f70610b2ceb2e7e]: Commencement: Sch. 2 para. 10 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-fd004b5e3fe7e8167f70610b2ceb2e7e]: Commencement: Sch. 2 para. 10 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-8e5b878d4f4ae859cdaa0620f2f9ce0c]: Commencement: Sch. 2 para. 11 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-8e5b878d4f4ae859cdaa0620f2f9ce0c]: Commencement: Sch. 2 para. 11 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-c1adefe288d7080e08b3caf8f2698bcc]: Commencement: Sch. 2 para. 12 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-c1adefe288d7080e08b3caf8f2698bcc]: Commencement: Sch. 2 para. 12 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-5466b991d7d4f604c8d593bcab6bf6ed]: Commencement: Sch. 2 para. 13 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-5466b991d7d4f604c8d593bcab6bf6ed]: Commencement: Sch. 2 para. 13 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00146]: Footnote: [1945 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1945/6); sections 2 and 3 were amended by section 1 of the Disabled Persons (Employment) Act (Northern Ireland) [1960 (c. 4 (N.I.))](https://www.legislation.gov.uk/apni/1960/4) and Schedule 18 to the Education and Libraries (Northern Ireland) Order 1986 ([S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594))
 
 [^f00147]: Footnote: [S.R. 1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113); regulation 9 was amended by [S.R. 1976 No. 321](https://www.legislation.gov.uk/nisr/1976/321), [S.R. 1977 No. 132](https://www.legislation.gov.uk/nisr/1977/132), [S.R. 1978 No. 77](https://www.legislation.gov.uk/nisr/1978/77), [S.R. 1982 No. 42](https://www.legislation.gov.uk/nisr/1982/42), [S.R. 1987 Nos. 153](https://www.legislation.gov.uk/nisr/1987/153) and [220](https://www.legislation.gov.uk/nisr/1987/220), [S.R. 1988 Nos. 105](https://www.legislation.gov.uk/nisr/1988/105) and [326](https://www.legislation.gov.uk/nisr/1988/326), [S.R. 1989 No. 368](https://www.legislation.gov.uk/nisr/1989/368), [S.R. 1992 No. 135](https://www.legislation.gov.uk/nisr/1992/135), [S.R. 1994 Nos. 65](https://www.legislation.gov.uk/nisr/1994/65) and [265](https://www.legislation.gov.uk/nisr/1994/265) and [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
 
-[^key-9764f0cbee6a5e2ded0939de4785e239]: Commencement: Sch. 2 para. 14 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-9764f0cbee6a5e2ded0939de4785e239]: Commencement: Sch. 2 para. 14 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-f762a2db0066efd8fa808b5449651a4c]: Commencement: Sch. 2 para. 15 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-f762a2db0066efd8fa808b5449651a4c]: Commencement: Sch. 2 para. 15 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-83126bbc8651d2976ecd3572e0405ef7]: Commencement: Sch. 2 para. 16 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-83126bbc8651d2976ecd3572e0405ef7]: Commencement: Sch. 2 para. 16 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00148]: Footnote: [S.R. 1987 No. 461](https://www.legislation.gov.uk/nisr/1987/461)
 
-[^key-43f3209e15113143f9fcb803a6d7440a]: Commencement: Sch. 2 para. 17 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-43f3209e15113143f9fcb803a6d7440a]: Commencement: Sch. 2 para. 17 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00149]: Footnote: Regulation 63 was amended by [S.R. 1989 No. 125](https://www.legislation.gov.uk/nisr/1989/125), [S.R. 1990 Nos. 125](https://www.legislation.gov.uk/nisr/1990/125), [136](https://www.legislation.gov.uk/nisr/1990/136) and [345](https://www.legislation.gov.uk/nisr/1990/345), [S.R. 1992 Nos. 85](https://www.legislation.gov.uk/nisr/1992/85) and [549](https://www.legislation.gov.uk/nisr/1992/549), [S.R. 1993 Nos. 145](https://www.legislation.gov.uk/nisr/1993/145), [195](https://www.legislation.gov.uk/nisr/1993/195) and [233](https://www.legislation.gov.uk/nisr/1993/233), [S.R. 1994 No. 81](https://www.legislation.gov.uk/nisr/1994/81) and [S.R. 1995 Nos. 71](https://www.legislation.gov.uk/nisr/1995/71) and [84](https://www.legislation.gov.uk/nisr/1995/84)
 
-[^key-0dc470793784bc5a704a5655fbff37d8]: Commencement: Sch. 2 para. 18 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-0dc470793784bc5a704a5655fbff37d8]: Commencement: Sch. 2 para. 18 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00150]: Footnote: [S.R. 1995 No. 350](https://www.legislation.gov.uk/nisr/1995/350)
 
-[^key-61757660540856b44657150021fa9ea2]: Commencement: Sch. 2 para. 19 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-61757660540856b44657150021fa9ea2]: Commencement: Sch. 2 para. 19 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

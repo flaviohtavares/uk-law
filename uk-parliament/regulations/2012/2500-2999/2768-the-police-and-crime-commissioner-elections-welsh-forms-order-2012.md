@@ -44,15 +44,15 @@ The Secretary of State has consulted the Electoral Commission about this Order i
 
 In accordance with section 154(2)(b) of the Police Reform and Social Responsibility Act 2011, a draft of this Order has been approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-064668ce5e64591282e0b2104922e55f]
+## 1. Citation and commencement[^c-064668ce5e64591282e0b2104922e55f]
 
 (1) This Order may be cited as the Police and Crime Commissioner Elections (Welsh Forms) Order 2012.
 
 (2) This Order comes into force on the day after the day on which it is made.
 
-## 2. Welsh and English versions of forms[^key-c44de4b570c0444e4e2afb36229f86cf]
+## 2. Welsh and English versions of forms[^c-c44de4b570c0444e4e2afb36229f86cf]
 
-(1)[^key-b547bdc66c13c36c7f08e8bad951ea46] The form set out in the Schedule is prescribed as the form of the ballot paper which must be used at a PCC election in Wales in place of the form specified by rule 19(1) of the PCC elections rules (the ballot papers).
+(1)[^c-b547bdc66c13c36c7f08e8bad951ea46] The form set out in the Schedule is prescribed as the form of the ballot paper which must be used at a PCC election in Wales in place of the form specified by rule 19(1) of the PCC elections rules (the ballot papers).
 
 (2) In paragraph (1)—
 
@@ -67,11 +67,11 @@ Home Office
 
 30th October 2012
 
-## SCHEDULE — Welsh and English versions of forms[^key-eeb6fdae14bd99f429c234c274ca1d10]
+## SCHEDULE — Welsh and English versions of forms[^c-eeb6fdae14bd99f429c234c274ca1d10]
 
 Article 2
 
-Ballot paper[^key-b68f0f904f36c96e45238ae5bd84605a]
+Ballot paper[^c-b68f0f904f36c96e45238ae5bd84605a]
 
 Form of front of ballot paper [image: see source](https://www.legislation.gov.uk/uksi/2012/2768/images/uksi_20122768_en_epp_001.gif)Form of back of ballot paper [image: see source](https://www.legislation.gov.uk/uksi/2012/2768/images/uksi_20122768_en_epp_002.gif)
 
@@ -91,14 +91,14 @@ The English versions of the ballot paper are contained in the Police and Crime C
 
 [^f00003]: Footnote: [2000 c.41](https://www.legislation.gov.uk/ukpga/2000/41). Section 7(2)(hc) was inserted by paragraphs 8 and 11 of Schedule 10 to the Police Reform and Social Responsibility Act 2011.
 
-[^key-064668ce5e64591282e0b2104922e55f]: Commencement: Art. 1 in force at 31.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2768/article/1/2)
+[^c-064668ce5e64591282e0b2104922e55f]: Commencement: Art. 1 in force at 31.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2768/article/1/2)
 
-[^key-c44de4b570c0444e4e2afb36229f86cf]: Commencement: Art. 2 in force at 31.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2768/article/1/2)
+[^c-c44de4b570c0444e4e2afb36229f86cf]: Commencement: Art. 2 in force at 31.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2768/article/1/2)
 
-[^key-b547bdc66c13c36c7f08e8bad951ea46]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/uksi/2012/2768/article/2/1) substituted (with application in accordance with art. 1(2) of the amending S.I.) by [The Police and Crime Commissioner Elections and Welsh Forms (Amendment) Order 2022 (S.I. 2022/1354)](https://www.legislation.gov.uk/uksi/2022/1354), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1354/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2022/1354/article/7/2)
+[^c-b547bdc66c13c36c7f08e8bad951ea46]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/uksi/2012/2768/article/2/1) substituted (with application in accordance with art. 1(2) of the amending S.I.) by [The Police and Crime Commissioner Elections and Welsh Forms (Amendment) Order 2022 (S.I. 2022/1354)](https://www.legislation.gov.uk/uksi/2022/1354), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1354/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2022/1354/article/7/2)
 
 [^f00004]: Footnote: [S.I. 2012/1917](https://www.legislation.gov.uk/uksi/2012/1917).
 
-[^key-eeb6fdae14bd99f429c234c274ca1d10]: Commencement: Sch. in force at 31.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2768/article/1/2)
+[^c-eeb6fdae14bd99f429c234c274ca1d10]: Commencement: Sch. in force at 31.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2768/article/1/2)
 
-[^key-b68f0f904f36c96e45238ae5bd84605a]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2012/2768/schedule) Form substituted for Sch. Forms A, B (with application in accordance with art. 1(2) of the amending S.I.) by [The Police and Crime Commissioner Elections and Welsh Forms (Amendment) Order 2022 (S.I. 2022/1354)](https://www.legislation.gov.uk/uksi/2022/1354), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1354/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2022/1354/schedule/4)
+[^c-b68f0f904f36c96e45238ae5bd84605a]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2012/2768/schedule) Form substituted for Sch. Forms A, B (with application in accordance with art. 1(2) of the amending S.I.) by [The Police and Crime Commissioner Elections and Welsh Forms (Amendment) Order 2022 (S.I. 2022/1354)](https://www.legislation.gov.uk/uksi/2022/1354), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1354/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2022/1354/schedule/4)

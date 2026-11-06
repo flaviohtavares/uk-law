@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Joint arrangements[^key-9984e614d749b4ecd5b632c590b3d4b9][^key-bbc96e440b42316831276047bcbf9794]
+## 34. Joint arrangements[^c-9984e614d749b4ecd5b632c590b3d4b9][^c-bbc96e440b42316831276047bcbf9794]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9984e614d749b4ecd5b632c590b3d4b9]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2006/17/section/34) in force at 6.2.2007 for specified purposes by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)
+[^c-9984e614d749b4ecd5b632c590b3d4b9]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2006/17/section/34) in force at 6.2.2007 for specified purposes by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)
 
-[^key-bbc96e440b42316831276047bcbf9794]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2006/17/section/34) in force at 1.4.2007 in so far as not already in force by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-bbc96e440b42316831276047bcbf9794]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2006/17/section/34) in force at 1.4.2007 in so far as not already in force by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)

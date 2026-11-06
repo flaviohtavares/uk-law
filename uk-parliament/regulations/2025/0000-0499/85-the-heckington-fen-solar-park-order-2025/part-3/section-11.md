@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Temporary closure of public rights of way[^key-16f084a10d46a7d73344f34e1f97553b]
+## 11. Temporary closure of public rights of way[^c-16f084a10d46a7d73344f34e1f97553b]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16f084a10d46a7d73344f34e1f97553b]: Commencement: Art. 11 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-16f084a10d46a7d73344f34e1f97553b]: Commencement: Art. 11 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)

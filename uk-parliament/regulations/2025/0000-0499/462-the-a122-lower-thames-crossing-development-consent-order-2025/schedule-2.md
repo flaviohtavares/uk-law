@@ -24,7 +24,7 @@ Articles 3 and 36
 
 ### PART 1 — REQUIREMENTS
 
-#### 1. Interpretation[^key-fe4d4a87bbfc61ba0e4fdced7b123904]
+#### 1. Interpretation[^c-fe4d4a87bbfc61ba0e4fdced7b123904]
 
 (1) In this Schedule—
 
@@ -56,11 +56,11 @@ Articles 3 and 36
 
 (3) References to details or schemes approved under this Schedule are to be construed as references to details or schemes approved in relation to a specified part of the authorised development, as the case may be.
 
-#### 2. Time limits[^key-2cd75238d06dc56dcf1b9fe3a65d7e98]
+#### 2. Time limits[^c-2cd75238d06dc56dcf1b9fe3a65d7e98]
 
 The authorised development must begin no later than the expiration of 5 years beginning with the date that this Order comes into force.
 
-#### 3. Detailed design[^key-2165fc8fa4addd8195f41987a58fe58b]
+#### 3. Detailed design[^c-2165fc8fa4addd8195f41987a58fe58b]
 
 (1) The authorised development must be designed in detail and carried out in accordance with—
 
@@ -76,7 +76,7 @@ unless otherwise agreed in writing by the Secretary of State following consultat
 
 (4) In this paragraph, “**general arrangement drawings**” means the general arrangement document listed in Schedule 16 (documents to be certified) and certified by the Secretary of State.
 
-#### 4. Construction and handover environmental management plans[^key-8f2f4441b0518010fdaea417dd11b541]
+#### 4. Construction and handover environmental management plans[^c-8f2f4441b0518010fdaea417dd11b541]
 
 (1) The preliminary works must be carried out in accordance with the preliminary works EMP.
 
@@ -120,7 +120,7 @@ unless otherwise agreed in writing by the Secretary of State following consultat
 - “**outline materials handling plan**” means the outline materials handling plan appended to the Code of Construction Practice; and
 - “**outline site waste management plan**” means the outline site waste management plan appended to the Code of Construction Practice.
 
-#### 5. Landscaping and ecology[^key-d82355d822c5e8c54407cbc92fb4aaff]
+#### 5. Landscaping and ecology[^c-d82355d822c5e8c54407cbc92fb4aaff]
 
 (1) Each part of the authorised development must be landscaped in accordance with a LEMP which sets out details of all proposed hard and soft landscaping works for that part and which has been submitted to and approved in writing by the Secretary of State prior to the opening of that part, following consultation by the undertaker with the bodies listed in Table 2.1 of the outline LEMP on matters related to their respective functions.
 
@@ -141,7 +141,7 @@ unless otherwise agreed in writing by the Secretary of State following consultat
 
 (4) All landscaping works must be carried out to a reasonable standard in accordance with the relevant recommendations of appropriate British Standards or other recognised codes of good practice.
 
-#### 6. Contaminated land and groundwater[^key-b31f4fcd774b3e2230f5391876d4d4b5]
+#### 6. Contaminated land and groundwater[^c-b31f4fcd774b3e2230f5391876d4d4b5]
 
 (1) In the event that contaminated land, including groundwater, is found at any time when carrying out the authorised development which was not previously identified in the environmental statement, it must be reported as soon as reasonably practicable to the Secretary of State, the relevant planning authority, the relevant highway authority, and the Environment Agency, and the undertaker must complete a risk assessment of the contamination in consultation with the relevant planning authority and the Environment Agency on matters related to their respective functions.
 
@@ -149,7 +149,7 @@ unless otherwise agreed in writing by the Secretary of State following consultat
 
 (3) Remediation must be carried out in accordance with the scheme approved under sub-paragraph (2).
 
-#### 7. Protected species[^key-29c883519770f2c674992b44f485eabc]
+#### 7. Protected species[^c-29c883519770f2c674992b44f485eabc]
 
 (1) No part of the authorised development is to begin (except environmental surveys and monitoring) until for that part final pre-construction survey work has been carried out to establish whether European or nationally protected species are present on any of the land affected or likely to be affected by that part of the authorised development, or in any of the trees and shrubs to be lopped or felled as part of the relevant works.
 
@@ -170,13 +170,13 @@ the relevant parts of the relevant works must cease until a scheme of protection
 - “**European protected species**” has the same meaning as in regulations 42 (European protected species of animals) and 46 (European protected species of plants) of the Conservation of Habitats and Species Regulations 2017[^f00154]; and
 - “**nationally protected species**” means any species protected under the Wildlife and Countryside Act 1981[^f00155].
 
-#### 8. Surface and foul water drainage[^key-81496d97580c7801e6dd600e7e558999]
+#### 8. Surface and foul water drainage[^c-81496d97580c7801e6dd600e7e558999]
 
 (1) No part of the authorised development is to commence until for that part written details of the surface and foul water drainage system, reflecting the mitigation measures set out in the REAC including means of pollution control, have been submitted and approved in writing by the Secretary of State following consultation by the undertaker with the Environment Agency, the lead local flood authority, the relevant planning authority and the relevant local highway authority on matters related to their respective functions.
 
 (2) The surface and foul water drainage system must be constructed in accordance with the details approved under paragraph (1), unless otherwise agreed in writing by the Secretary of State following consultation by the undertaker with the Environment Agency, the lead local flood authority, the relevant planning authority, the relevant local highway authority on matters related to their respective functions, provided that the Secretary of State is satisfied that any amendments to the approved details would not give rise to any materially new or materially different environmental effects in comparison with those reported in the environmental statement.
 
-#### 9. Historic environment[^key-646383e87f9a52693f1a20852709d940]
+#### 9. Historic environment[^c-646383e87f9a52693f1a20852709d940]
 
 (1) No part of the authorised development is to commence until for that part a site-specific written scheme for the investigation of areas of archaeological interest, reflecting the relevant mitigation measures set out in the AMS-OWSI, has been submitted to and approved in writing by the Secretary of State, following consultation by the undertaker with the relevant planning authority and Historic England on matters related to their respective functions.
 
@@ -192,12 +192,12 @@ the relevant parts of the relevant works must cease until a scheme of protection
 
 (7) No part of any building listed under section 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990 is to be demolished until—
 
-- (a) that part of the authorised development which requires the demolition of the building[^key-0bd5a3867bfe1dcbf9601133addf3b8d] has commenced; and
+- (a) that part of the authorised development which requires the demolition of the building[^c-0bd5a3867bfe1dcbf9601133addf3b8d] has commenced; and
 - (b) a historic building record relating to that building has been submitted to and approved in writing by the Secretary of State, following consultation by the undertaker with the relevant planning authority and Historic England on matters related to their respective functions.
 
 (8) In this paragraph, “**a historic building record**” means a Level 4 record as described in the Historic England publication ‘Understanding Historic Buildings: A Guide to Good recording Practice” (2016)[^f00156] or a successor document.
 
-#### 10. Traffic management[^key-918872f046a29949afdccf272b36a2df]
+#### 10. Traffic management[^c-918872f046a29949afdccf272b36a2df]
 
 (1) The preliminary works must be carried out in accordance with section 6 of the outline traffic management plan for construction.
 
@@ -205,7 +205,7 @@ the relevant parts of the relevant works must cease until a scheme of protection
 
 (3) The authorised development must be carried out in accordance with the traffic management plan referred to in sub-paragraph (2).
 
-#### 11. Construction travel plans[^key-0d33ebdbb5772ea7f92b09118192b47b]
+#### 11. Construction travel plans[^c-0d33ebdbb5772ea7f92b09118192b47b]
 
 (1) No part of the authorised development is to commence until a travel plan for the construction of that part which is substantially in accordance with the framework construction travel plan has been submitted to and approved in writing by the Secretary of State, following consultation by the undertaker with the relevant local highway authority and where different, the relevant planning authority on matters related to its function.
 
@@ -213,7 +213,7 @@ the relevant parts of the relevant works must cease until a scheme of protection
 
 (3) In this paragraph, “**framework construction travel plan**” means the document of that description listed in Schedule 16 (documents to be certified) and certified by the Secretary of State.
 
-#### 12. Fencing[^key-13dcd3865f4c55f5803f3def266b5716]
+#### 12. Fencing[^c-13dcd3865f4c55f5803f3def266b5716]
 
 (1) Any permanent and temporary fencing and other means of enclosure for the highway works comprising the authorised development must be constructed and installed in accordance with Volume 1, Series 0300 of the Manual of Contract Documents for Highway Works unless—
 
@@ -224,7 +224,7 @@ the relevant parts of the relevant works must cease until a scheme of protection
 
 (2) In this paragraph, “**highway works**” includes the highway works comprised in Works Nos. 1A to 4B, 4D to 5W, 6A to 7Q, 7S to 9Z and excludes Works Nos. 4C, 5X, 7R, OH1 to OH8, OHT1 to OHT8, G1a to G10, TFGP1, MU1 to MU92, MUT1 to MUT32, E1 to E52, ET1, OSC1 to OSC12, FCA1 to FCA7, CA1 to CA16 and ULH01 to ULH16.
 
-#### 13. Travellers’ site in Thurrock[^key-dcaa4e0e2c2625ad536a0e79c5034925]
+#### 13. Travellers’ site in Thurrock[^c-dcaa4e0e2c2625ad536a0e79c5034925]
 
 (1) The replacement of the Gammon Field travellers’ site in Thurrock (Work No. 7R) must not commence until details of its layout and design have been submitted and approved in writing by the local planning authority, such approval not to be unreasonably withheld or delayed, following consultation by the undertaker with the local planning authority and the occupiers of the existing Gammon Field travellers’ site and any dispute as to failure to approve or over conditions is to be subject to the arbitration provisions in article 64 (arbitration).
 
@@ -256,7 +256,7 @@ the relevant parts of the relevant works must cease until a scheme of protection
 - “**caravans**” means caravans within the meaning of section 29(1)(a) of the Caravan Sites and Control of Development Act 1968[^f00158]; and
 - “**Gammon Field travellers’ site**” means the travellers’ site located at Long Lane, Grays, Thurrock, RM16 2QH.
 
-#### 14. Traffic monitoring[^key-b5f2842d74f5ea66633029b0c896a4be]
+#### 14. Traffic monitoring[^c-b5f2842d74f5ea66633029b0c896a4be]
 
 (1) Before the tunnel area is open for traffic, the undertaker must submit written details of an operational traffic impact monitoring scheme substantially in accordance with the wider network impacts management and monitoring plan for approval by the Secretary of State following consultation by the undertaker with the relevant local highway authority and where different, the relevant planning authority and other bodies identified in Table 2.1 of the wider network impacts management and monitoring plan on matters related to their respective functions.
 
@@ -273,7 +273,7 @@ the relevant parts of the relevant works must cease until a scheme of protection
 
 (4) In this paragraph, “**wider network impacts management and monitoring plan**” means the document of that description listed in Schedule 16 (documents to be certified) and certified by the Secretary of State.
 
-#### 15. Interaction with Thurrock Flexible Generation Plant[^key-d075611f6985c191d2666fcf1d5063b1]
+#### 15. Interaction with Thurrock Flexible Generation Plant[^c-d075611f6985c191d2666fcf1d5063b1]
 
 (1) The undertaker must not carry out Work No. TFGP1 unless the Thurrock Flexible Generation Plant Development Consent Order 2022 is commenced.
 
@@ -282,7 +282,7 @@ the relevant parts of the relevant works must cease until a scheme of protection
 - “**commenced**” has the meaning given by article 2(1) of the Thurrock Flexible Generation Plant Development Consent Order 2022[^f00159]; and
 - “**Thurrock Power Ltd**” means the limited company with the company number 10917470, whose registered office is at 1st Floor, 145 Kensington Church Street, London, England, W8 7LP.
 
-#### 16. Carbon and energy management plan[^key-340da8bdf8a89f26e2b539ed4c24b50c]
+#### 16. Carbon and energy management plan[^c-340da8bdf8a89f26e2b539ed4c24b50c]
 
 (1) No part of the authorised development is to commence until a CEP (Second Iteration) for that part has been submitted to and approved in writing by the Secretary of State.
 
@@ -305,7 +305,7 @@ the relevant parts of the relevant works must cease until a scheme of protection
 - “**CEP (Second Iteration)**” means the second iteration of the carbon and energy management plan to be submitted and approved under paragraph 16(1) of this Schedule; and
 - “**CEP (Third Iteration)**” means the third iteration of the carbon and energy plan which is a handover carbon and energy management plan.
 
-#### 17. Passive provision for Tilbury link road[^key-b7157cf08235c28a6855b002fcf1b6d7]
+#### 17. Passive provision for Tilbury link road[^c-b7157cf08235c28a6855b002fcf1b6d7]
 
 (1) The undertaker must undertake the detailed design of Works Nos. 5D, 5E and 5F in a manner that reasonably facilitates and accommodates a connection to the proposed Tilbury link road to the extent the route and design of proposed Tilbury link road is available prior to and up to the date of the submission of the final iteration of the detailed design of the tunnel area north of the river Thames to the design review panel pursuant to clause PRO.01 of the design principles.
 
@@ -318,7 +318,7 @@ the relevant parts of the relevant works must cease until a scheme of protection
 - (c) included in a local plan adopted by the relevant planning authority under regulation 26 of The Town and Country Planning (Local Planning) (England) Regulations 2012[^f00163]; or
 - (d) in the absence of (a) to (c), such other proposal as is reasonably considered by the undertaker to constitute the likely route and function of that link road.
 
-#### 18. Operation of the Orsett Cock roundabout[^key-8a625dad461b68bfc8b8f46b63e7fceb]
+#### 18. Operation of the Orsett Cock roundabout[^c-8a625dad461b68bfc8b8f46b63e7fceb]
 
 (1) No part of Work No. 7F is to commence until a scheme for the Orsett Cock roundabout has been submitted to and approved in writing by the Secretary of State, following consultation with the relevant highway authority, the Port of Tilbury London Limited DP World London Gateway, and Thames Enterprise Park.
 
@@ -351,22 +351,22 @@ the relevant parts of the relevant works must cease until a scheme of protection
 
 (7) In this paragraph, “**ensure and optimise the performance**” is to be construed to include improving reliable and efficient traffic journeys through the Orsett Cock roundabout having due regard to avoiding impacts on Orsett Village, journeys from the Port of Tilbury and London Gateway port to the strategic road network and the importance of the Orsett Cock roundabout for port operations.
 
-#### 19. Amendments to approved details[^key-c5f9114e42464b41d0c231d39f1831e5]
+#### 19. Amendments to approved details[^c-c5f9114e42464b41d0c231d39f1831e5]
 
 With respect to any requirement which requires the authorised development to be carried out in accordance with the details, plans or schemes approved under this Schedule, the approved details, plans or schemes are taken to include any amendments that may subsequently be approved in writing by the Secretary of State, or in the case of any approval under paragraph 13 (travellers’ site in Thurrock), the local planning authority.
 
-#### 20. Amendments to the control documents[^key-df85aee16a5f4dfd84bf54b5f155406f]
+#### 20. Amendments to the control documents[^c-df85aee16a5f4dfd84bf54b5f155406f]
 
 No part of the authorised development may commence until the Undertaker has made the amendments to the control documents as set out in in Part 3 (amendments to be made to the control documents) of this Schedule.
 
 ### PART 2 — PROCEDURE FOR DISCHARGE OF REQUIREMENTS
 
-#### 21. Applications made to the Secretary of State under Part 1[^key-ba1cf1b7185324c0ff4c99b126c32c29]
+#### 21. Applications made to the Secretary of State under Part 1[^c-ba1cf1b7185324c0ff4c99b126c32c29]
 
 (1) Where an application has been made to the Secretary of State for any consent, agreement or approval required by a requirement (including consent, agreement or approval in respect of part of a requirement) included in this Order the Secretary of State must give notice to the undertaker of the decision on the application within a period of 8 weeks beginning with—
 
 - (a) the day immediately following that on which the application is received by the Secretary of State;
-- (b) the day immediately following that on which further information has been supplied by the undertaker under paragraph 22[^key-0691ad029851dd7cc335bfc6a9234562] (further information); or
+- (b) the day immediately following that on which further information has been supplied by the undertaker under paragraph 22[^c-0691ad029851dd7cc335bfc6a9234562] (further information); or
 - (c) such longer period as may be agreed between the parties.
 
 (2) Subject to sub-paragraph (3), in the event that the Secretary of State does not determine an application within the period set out in sub-paragraph (1), the Secretary of State is taken to have granted all parts of the application (without any condition or qualification at the end of that period).
@@ -379,7 +379,7 @@ No part of the authorised development may commence until the Undertaker has made
 
 the application is taken to have been refused by the Secretary of State at the end of that period.
 
-#### 22. Further information[^key-2dfa4adfeeb018b5c1ed7138d6c64fc1]
+#### 22. Further information[^c-2dfa4adfeeb018b5c1ed7138d6c64fc1]
 
 (1) In relation to any part of an application made under this Schedule, the Secretary of State has the right to request such further information from the undertaker as is necessary to enable the Secretary of State to consider the application.
 
@@ -387,13 +387,13 @@ the application is taken to have been refused by the Secretary of State at the e
 
 (3) In the event that the Secretary of State does not give such notification within the 21 business day period referred to in sub-paragraph (2) the Secretary of State is deemed to have sufficient information to consider the application and is not subsequently entitled to request further information without the prior agreement of the undertaker.
 
-(4) Where further information is requested under this paragraph in relation to part only of an application, that part is treated as separate from the remainder of the application for the purposes of calculating the time periods referred to in paragraph 21[^key-8d4138bb5fb485e069f1812aeeb05dfa] (applications made to the Secretary of State under Part 1) and in this paragraph.
+(4) Where further information is requested under this paragraph in relation to part only of an application, that part is treated as separate from the remainder of the application for the purposes of calculating the time periods referred to in paragraph 21[^c-8d4138bb5fb485e069f1812aeeb05dfa] (applications made to the Secretary of State under Part 1) and in this paragraph.
 
-#### 23. Details of consultation[^key-1565cea7800176625d30ca2d9f2b4241]
+#### 23. Details of consultation[^c-1565cea7800176625d30ca2d9f2b4241]
 
 (1) Where any paragraph in this Schedule requires the undertaker to consult with any person or body, the undertaker must—
 
-- (a) notify the person or body of the effect of paragraph 21(3)[^key-b555cab288a75e7da7abd7f2e0541348] (applications made to the Secretary of State under Part 1) of this Schedule;
+- (a) notify the person or body of the effect of paragraph 21(3)[^c-b555cab288a75e7da7abd7f2e0541348] (applications made to the Secretary of State under Part 1) of this Schedule;
 - (b) subject to sub-paragraph (2), provide that person or body with not less than 28 days from the provision of any documents being consulted upon for any response to the consultation;
 - (c) give due consideration to any representations made by that person or body about the proposed application; and
 - (d) include with its application to the Secretary of State copies of any representations made by that person or body about the proposed application, and a written account of how any such representations have been taken into account in the submitted application.
@@ -402,7 +402,7 @@ the application is taken to have been refused by the Secretary of State at the e
 
 (3) Where sub-paragraph (2) applies a person or body must provide a response to the consultation as soon as reasonably practicable.
 
-#### 24. Register of requirements[^key-250028554aa9def14af5920a74697659]
+#### 24. Register of requirements[^c-250028554aa9def14af5920a74697659]
 
 (1) The undertaker must, as soon as practicable following the making of this Order, establish and maintain in an electronic form suitable for inspection by members of the public a register of those requirements contained in Part 1 of this Schedule that provide for further approvals to be given by the Secretary of State.
 
@@ -410,13 +410,13 @@ the application is taken to have been refused by the Secretary of State at the e
 
 (3) The register must be maintained by the undertaker for a period of 3 years following completion of the authorised development.
 
-#### 25. Anticipatory steps towards compliance with any requirement[^key-72b775adb83efb702ce7be2d07f858e3]
+#### 25. Anticipatory steps towards compliance with any requirement[^c-72b775adb83efb702ce7be2d07f858e3]
 
 If before the coming into force of this Order the undertaker or any other person has taken any steps that were intended to be steps towards compliance with any provision of Part 1 of this Schedule, those steps may be taken into account for the purpose of determining compliance with that provision if they would have been valid steps for that purpose had they been taken after this Order came into force.
 
 ### PART 3 — AMENDMENTS TO BE MADE TO THE CONTROL DOCUMENTS
 
-#### 26. Amendments to be made to the Code of Construction Practice and the REAC[^key-2e055db3f01943ff20ae71af994a5444]
+#### 26. Amendments to be made to the Code of Construction Practice and the REAC[^c-2e055db3f01943ff20ae71af994a5444]
 
 (1) The Code of Construction Practice (document ref: TR010032/App/6.3) is to be amended as follows.
 
@@ -448,9 +448,9 @@ Table 2
 
 | Topic | REAC ref. no. | Name | Origin | Commitment | Achievement criteria | Party responsible | Stage | Securing mechanism in DCO |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| HRA | HR013 | Mitigation of in-combination air quality effects on Epping Forest SAC along part of the M25 | ExA Recommendation Report | Appropriate technology and infrastructure would be employed to enable, if required, the enforcement authority to enforce a 60mph speed limit in a westbound direction between junctions 26 and 27 of the M25 to ensure that there is no Adverse Effect on Integrity (“AEoI”) on Epping Forest SAC as a consequence of traffic emissions leading to increases in nitrogen deposition, NOx and/or NH3. Reasonable and appropriate funding would be provided to the highway and enforcement authority to set a 60mph limit and to undertake enforcement activities. Monitoring should commence no later than 6 months after commencement of construction of the A122 Lower Thames Crossing and remain in place for a minimum period of 4 years following commencement of operation to monitor levels of NOx, NO2 and NH3 (which can be used to determine the vehicle emission related nitrogen deposition) compared to pre-operational values. Annual reporting should be undertaken and include a review of relevant evidence, such as monitoring, traffic data and regional pollution in consultation with Natural England. The 60pmh speed limit measures are to be put in place from the commencement of operation. The Secretary of State may determine, upon receipt of a written request from National Highways that has been informed and agreed through consultation with Natural England, that such measures no longer remain required at or after the point of commencement of operation to prevent an AEoI (on the basis of pre-operation monitoring and any additional assessment undertaken by National Highways). If the outcome from monitoring and updated modelling shows relevant increases in nitrogen deposition, and/or NOx and/or NH3 which would lead to an AEoI then that speed limit control and enforcement must be in place, unless otherwise agreed with Natural England.[^key-a9c2560d308aad2e6d0e0754e7b912d3] | Establishment of annual monitoring measure and air quality threshold required to avoid AEoI in agreement with Natural England. Provision of speed enforcement technology and infrastructure as agreed with the enforcement authority. | National Highways | Operation | EMP3 Requirement 4 |
-| Road Drainage and Water Environment | RDWE 060 | Water Framework Directive Compliance – non-main watercourse | ExA Recommendation Report | No culvert or equivalent covered passage affecting a non-main watercourse is to be constructed until a Structure Water Framework Directive Compliance Plan (SWFDCP) has been prepared for that structure in consultation with the Lead Local Flood Authority and the Internal Drainage Board (if relevant) or any other relevant drainage authority with responsibility for the watercourse, and agreed by the Environment Agency prior to approval by the Secretary of State. A SWFDCP must contain a detailed design for the structure(s) to which it relates to show the dimensions and internal treatments for the structure and must demonstrate either:<br>(a) that the proposed detailed design provides full compliance with the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (WFD Regulations), as amended by the Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (collectively the WFD Regulations); or (b) if full WFD Regulations compliance cannot be achieved, that the proposed detailed design is accompanied by information to explain:<br>(i) why compliance cannot be achieved;<br>(ii) demonstrating that a derogation under Regulation 19 of the WFD Regulations can be obtained; and<br>(iii) demonstrating how the conditions in Regulations 19(3), (4) and (5) are met by the proposed detailed design. | Agreement by the Environment Agency that structures are WFD compliant or that a derogation can be obtained | National Highways | Construction | Requirement 8[^key-5645c6139800ab2c08dd43964789c2f9] |
-| Road Drainage and Water Environment | RDWE061 | Drainage Authority consultation | ExA Recommendation Report | When consents and new discharges are sought under Art 19(3) [^key-b191e29ad7e937956e700b08c494d8dc]... of the dDCO the undertaker will seek the views of the drainage authority. | Drainage authorities are consulted on Art 19(3) [^key-b191e29ad7e937956e700b08c494d8dc]... proposals | National Highways | Construction | EMP2 Requirement 4 and Requirement 8[^key-1405e3151ea505c8c2af73e11d5d6588] |
+| HRA | HR013 | Mitigation of in-combination air quality effects on Epping Forest SAC along part of the M25 | ExA Recommendation Report | Appropriate technology and infrastructure would be employed to enable, if required, the enforcement authority to enforce a 60mph speed limit in a westbound direction between junctions 26 and 27 of the M25 to ensure that there is no Adverse Effect on Integrity (“AEoI”) on Epping Forest SAC as a consequence of traffic emissions leading to increases in nitrogen deposition, NOx and/or NH3. Reasonable and appropriate funding would be provided to the highway and enforcement authority to set a 60mph limit and to undertake enforcement activities. Monitoring should commence no later than 6 months after commencement of construction of the A122 Lower Thames Crossing and remain in place for a minimum period of 4 years following commencement of operation to monitor levels of NOx, NO2 and NH3 (which can be used to determine the vehicle emission related nitrogen deposition) compared to pre-operational values. Annual reporting should be undertaken and include a review of relevant evidence, such as monitoring, traffic data and regional pollution in consultation with Natural England. The 60pmh speed limit measures are to be put in place from the commencement of operation. The Secretary of State may determine, upon receipt of a written request from National Highways that has been informed and agreed through consultation with Natural England, that such measures no longer remain required at or after the point of commencement of operation to prevent an AEoI (on the basis of pre-operation monitoring and any additional assessment undertaken by National Highways). If the outcome from monitoring and updated modelling shows relevant increases in nitrogen deposition, and/or NOx and/or NH3 which would lead to an AEoI then that speed limit control and enforcement must be in place, unless otherwise agreed with Natural England.[^c-a9c2560d308aad2e6d0e0754e7b912d3] | Establishment of annual monitoring measure and air quality threshold required to avoid AEoI in agreement with Natural England. Provision of speed enforcement technology and infrastructure as agreed with the enforcement authority. | National Highways | Operation | EMP3 Requirement 4 |
+| Road Drainage and Water Environment | RDWE 060 | Water Framework Directive Compliance – non-main watercourse | ExA Recommendation Report | No culvert or equivalent covered passage affecting a non-main watercourse is to be constructed until a Structure Water Framework Directive Compliance Plan (SWFDCP) has been prepared for that structure in consultation with the Lead Local Flood Authority and the Internal Drainage Board (if relevant) or any other relevant drainage authority with responsibility for the watercourse, and agreed by the Environment Agency prior to approval by the Secretary of State. A SWFDCP must contain a detailed design for the structure(s) to which it relates to show the dimensions and internal treatments for the structure and must demonstrate either:<br>(a) that the proposed detailed design provides full compliance with the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (WFD Regulations), as amended by the Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (collectively the WFD Regulations); or (b) if full WFD Regulations compliance cannot be achieved, that the proposed detailed design is accompanied by information to explain:<br>(i) why compliance cannot be achieved;<br>(ii) demonstrating that a derogation under Regulation 19 of the WFD Regulations can be obtained; and<br>(iii) demonstrating how the conditions in Regulations 19(3), (4) and (5) are met by the proposed detailed design. | Agreement by the Environment Agency that structures are WFD compliant or that a derogation can be obtained | National Highways | Construction | Requirement 8[^c-5645c6139800ab2c08dd43964789c2f9] |
+| Road Drainage and Water Environment | RDWE061 | Drainage Authority consultation | ExA Recommendation Report | When consents and new discharges are sought under Art 19(3) [^c-b191e29ad7e937956e700b08c494d8dc]... of the dDCO the undertaker will seek the views of the drainage authority. | Drainage authorities are consulted on Art 19(3) [^c-b191e29ad7e937956e700b08c494d8dc]... proposals | National Highways | Construction | EMP2 Requirement 4 and Requirement 8[^c-1405e3151ea505c8c2af73e11d5d6588] |
 | Geology and Soils | GS032 | Minerals and waste consents on land subject to compulsory acquisition or temporary possession | ExA Recommendation Report | Where land that is subject to a remediation or restoration condition or agreement pursuant to a minerals or waste consent is taken as a consequence of compulsory acquisition and or temporary possession, the undertaker indemnifies the former operator or beneficiary of the consent against any liability arising due to enforcement by the local planning authority , where that liability arises during and as a result of the undertaker’s possession of the land. In the case of land possessed temporarily, the indemnity ceases to have effect after the land is returned to the owner. | No outstanding minerals or waste non-compliance or enforcement action on land subject to compulsory acquisition or temporary possession. | National; Highways | Construction and Operation | EMP2 and 3 Requirement 4 |
 
 (5) After row 28 (REAC ref. no. TB020) of Table 2.1 in Annex C (Preliminary Works Environmental Management Plan), insert the text from table 3—
@@ -461,7 +461,7 @@ Table 3
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Terrestrial Biodiversity | TB032 | Agreements to deliver both the offsite mitigation for reintroduction of water voles and the installation and monitoring of barn owl nest boxes | Secretary of State and ES 8.5.46 and 8.5.47 | The undertaker is to enter into agreements with the Essex Wildlife Trust for the provision of—<br>(a) an offsite project reintroducing water voles to catchments within Essex that have suffered from localised extinctions; and<br>(b) a minimum of 12 artificial nest boxes for barn owls to be installed in land managed by the Essex Wildlife Trust >1.5km away from the project boundary and other major roads. | Agreements signed by National Highways and the Essex Wildlife Trust | National Highways | Requirement 4(1) | Terrestrial Biodiversity |
 
-#### 27. Amendments to be made to the Outline LEMP[^key-5e285395b39363aa170b56646bf0696d]
+#### 27. Amendments to be made to the Outline LEMP[^c-5e285395b39363aa170b56646bf0696d]
 
 In the Outline Landscape and Ecology Management Plan (document ref. TR010032/App/6.7), in paragraph 4.1.14, after point (h), insert—
 
@@ -469,7 +469,7 @@ In the Outline Landscape and Ecology Management Plan (document ref. TR010032/App
 
 .
 
-**28.**[^key-cc78b48a3a175feb5df0a334d3f0a6b3] (1) Appendix 1 (LEMP Terms of Reference) of the Outline Landscape and Ecology Management Plan (document ref. TR010032/APP/6.7, version 3) is to be amended as follows.
+**28.**[^c-cc78b48a3a175feb5df0a334d3f0a6b3] (1) Appendix 1 (LEMP Terms of Reference) of the Outline Landscape and Ecology Management Plan (document ref. TR010032/APP/6.7, version 3) is to be amended as follows.
 
 (2) In paragraph 1.4.4, after point (i), insert—
 
@@ -479,7 +479,7 @@ In the Outline Landscape and Ecology Management Plan (document ref. TR010032/App
 
 (3) In paragraph 1.6.1, for “However, should conflicts arise these will be resolved by escalating within the primary organisations.”, substitute “However disputes arise these will be deferred to an independent expert agreed by all parties in line with DCO Article 64 (Arbitration).”.
 
-#### 29. Amendments to be made to the Design Principles Document[^key-1a30a2882d305522ccb847a6ae76ba50]
+#### 29. Amendments to be made to the Design Principles Document[^c-1a30a2882d305522ccb847a6ae76ba50]
 
 The Design Principles Document (document ref. TR010032/APP/7.5, version 7) is to be amended as set out in table 4, where—
 
@@ -505,11 +505,11 @@ The Design Principles Document (document ref. TR010032/APP/7.5, version 7) is to
   | Appendix D: Detailed Design Multi-disciplinary Workshop Terms of Reference | After paragraph D.1.4.a(iv), insert | “(v) Publish and share how National Highways has taken into account stakeholder feedback, providing a detailed narrative in circumstances where this was not possible, in the spirit of collaborative, open and transparent stakeholder engagement.” |
   | Appendix D: Detailed Design Multi-disciplinary Workshop Terms of Reference | After paragraph D.1.5, insert | “D.1.6 Every attempt will be made to resolve disputes within the MDW’s membership. Wherever possible, decisions shall be made by consensus within the MDW meetings. However, should disputes arise these will be deferred to \[the SoST or\] an independent expert agreed by all parties in line with DCO Article 64 (Arbitration).” |
 
-#### 30. Amendments to be made to the Consents and Agreements Position Statement[^key-c421bdef2768ad0c013ff4b9c4a3e63d]
+#### 30. Amendments to be made to the Consents and Agreements Position Statement[^c-c421bdef2768ad0c013ff4b9c4a3e63d]
 
 In the Consents and Agreements Position Statement (document ref. TR010032/APP/8.3, version 8), after paragraph 4.1.2(a), omit sub-paragraph (b) (Consent to carry out works in a site of Special Scientific interest).
 
-#### 31. Amendments to be made to the SACR[^key-ded6c9487e49d41252ea49832935cd4a]
+#### 31. Amendments to be made to the SACR[^c-ded6c9487e49d41252ea49832935cd4a]
 
 (1) In the SACR (document ref. TR010032/APP/7.21, version 8) Table A.1 is to be amended as follows.
 
@@ -524,61 +524,61 @@ In the Consents and Agreements Position Statement (document ref. TR010032/APP/8.
 
   |  |  |  |  |  |  |  |
   | --- | --- | --- | --- | --- | --- | --- |
-  | Countryside and Rights of Way Act 2000, Section 85 | SACR-034 | Kent Downs National Landscape | Having regard to the duty of Section 85 of the Countryside and Rights of Way Act 2000 (as amended), to seek to further the purpose of conserving and enhancing the natural beauty of the area of outstanding natural beauty, National Highways will make funding available for appropriate projects to be undertaken within the Kent Downs National Landscape. A total of \[£ \] will therefore be made available to the Kent Downs National Landscape team to fund measures and projects that meet a funding criterion that primarily conserves and enhances the natural beauty of the Kent Downs National Landscape. Projects to be funded will be in accordance with the principles of the Kent Downs AONB Management Plan or any superseding document, and will be agreed with the Kent Downs National Landscape team. The fund shall be administered by adopting a process to be agreed between the parties, including timescales for the provision of funds, which shall be substantially in accordance with the process set out[^key-b83f74a835b71aab638c96de8f1dc521] in paragraphs 1.1 to 8.2 of Schedule 3 to the unilateral undertaking entered into by National Highways dated 12 December 2023 in relation to the Kent Downs AONB Compensatory Enhancement Fund \[REP9-268\], subject to the following modifications:<br>(a) in paragraph 1.1, for “£4,240,000 for an AONB Compensatory Enhancement Fund to fund measures and projects that meet the funding criteria set out in paragraph 4.2 of this Schedule (the “Fund”) which includes £600,000 to manage and administer the Fund (together being “the AONB Contribution”)” substitute “\[£\] (“the AONB Enhancement Contribution”) for an AONB Enhancement Fund to fund measures and projects that meet the funding criteria set out in paragraph 4.2 of this Schedule (the “Fund”)”;<br>(b) in paragraph 3.1, for “AONB Compensatory Enhancement Fund Awards Panel”<br>substitute “AONB Enhancement Fund Awards Panel”; (c) in paragraph 4.1 for “During the Construction Period and for three years thereafter” substitute “From Commencement and for up to three years following the opening of the Authorised Development”. | National Highways | Kent Downs National Landscape | From commencement and up to three years following opening |
+  | Countryside and Rights of Way Act 2000, Section 85 | SACR-034 | Kent Downs National Landscape | Having regard to the duty of Section 85 of the Countryside and Rights of Way Act 2000 (as amended), to seek to further the purpose of conserving and enhancing the natural beauty of the area of outstanding natural beauty, National Highways will make funding available for appropriate projects to be undertaken within the Kent Downs National Landscape. A total of \[£ \] will therefore be made available to the Kent Downs National Landscape team to fund measures and projects that meet a funding criterion that primarily conserves and enhances the natural beauty of the Kent Downs National Landscape. Projects to be funded will be in accordance with the principles of the Kent Downs AONB Management Plan or any superseding document, and will be agreed with the Kent Downs National Landscape team. The fund shall be administered by adopting a process to be agreed between the parties, including timescales for the provision of funds, which shall be substantially in accordance with the process set out[^c-b83f74a835b71aab638c96de8f1dc521] in paragraphs 1.1 to 8.2 of Schedule 3 to the unilateral undertaking entered into by National Highways dated 12 December 2023 in relation to the Kent Downs AONB Compensatory Enhancement Fund \[REP9-268\], subject to the following modifications:<br>(a) in paragraph 1.1, for “£4,240,000 for an AONB Compensatory Enhancement Fund to fund measures and projects that meet the funding criteria set out in paragraph 4.2 of this Schedule (the “Fund”) which includes £600,000 to manage and administer the Fund (together being “the AONB Contribution”)” substitute “\[£\] (“the AONB Enhancement Contribution”) for an AONB Enhancement Fund to fund measures and projects that meet the funding criteria set out in paragraph 4.2 of this Schedule (the “Fund”)”;<br>(b) in paragraph 3.1, for “AONB Compensatory Enhancement Fund Awards Panel”<br>substitute “AONB Enhancement Fund Awards Panel”; (c) in paragraph 4.1 for “During the Construction Period and for three years thereafter” substitute “From Commencement and for up to three years following the opening of the Authorised Development”. | National Highways | Kent Downs National Landscape | From commencement and up to three years following opening |
 
 ## Annotations
 
-[^key-fe4d4a87bbfc61ba0e4fdced7b123904]: Commencement: Sch. 2 para. 1 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-fe4d4a87bbfc61ba0e4fdced7b123904]: Commencement: Sch. 2 para. 1 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
 [^f00152]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Section 78A was inserted by section 57 of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25) and amended by section 86(2) of the Water Act [2003 c. 37](https://www.legislation.gov.uk/ukpga/2003/37).
 
-[^key-2cd75238d06dc56dcf1b9fe3a65d7e98]: Commencement: Sch. 2 para. 2 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-2cd75238d06dc56dcf1b9fe3a65d7e98]: Commencement: Sch. 2 para. 2 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-2165fc8fa4addd8195f41987a58fe58b]: Commencement: Sch. 2 para. 3 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-2165fc8fa4addd8195f41987a58fe58b]: Commencement: Sch. 2 para. 3 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
 [^f00153]: Footnote: [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37). Section 85 is amended by paragraph 165 of Schedule 11 to the National Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16) and section 246(6) of the Levelling-up and Regeneration Bill [2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55). There are further amendments to section 85 that are not relevant to this Order.
 
-[^key-8f2f4441b0518010fdaea417dd11b541]: Commencement: Sch. 2 para. 4 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-8f2f4441b0518010fdaea417dd11b541]: Commencement: Sch. 2 para. 4 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-d82355d822c5e8c54407cbc92fb4aaff]: Commencement: Sch. 2 para. 5 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-d82355d822c5e8c54407cbc92fb4aaff]: Commencement: Sch. 2 para. 5 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-b31f4fcd774b3e2230f5391876d4d4b5]: Commencement: Sch. 2 para. 6 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-b31f4fcd774b3e2230f5391876d4d4b5]: Commencement: Sch. 2 para. 6 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-29c883519770f2c674992b44f485eabc]: Commencement: Sch. 2 para. 7 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-29c883519770f2c674992b44f485eabc]: Commencement: Sch. 2 para. 7 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
 [^f00154]: Footnote: [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012).
 
 [^f00155]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 
-[^key-81496d97580c7801e6dd600e7e558999]: Commencement: Sch. 2 para. 8 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-81496d97580c7801e6dd600e7e558999]: Commencement: Sch. 2 para. 8 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-646383e87f9a52693f1a20852709d940]: Commencement: Sch. 2 para. 9 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-646383e87f9a52693f1a20852709d940]: Commencement: Sch. 2 para. 9 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-0bd5a3867bfe1dcbf9601133addf3b8d]: Textual amendment: Words in [Sch. 2 para. 9(7)(a)](https://www.legislation.gov.uk/uksi/2025/462/schedule/2/paragraph/9/7/a) inserted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
+[^c-0bd5a3867bfe1dcbf9601133addf3b8d]: Textual amendment: Words in [Sch. 2 para. 9(7)(a)](https://www.legislation.gov.uk/uksi/2025/462/schedule/2/paragraph/9/7/a) inserted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
 
 [^f00156]: Footnote: https://historicengland.org.uk/images-books/publications/understanding-historic-buildings/heag099-understanding-historic-buildings/
 
-[^key-918872f046a29949afdccf272b36a2df]: Commencement: Sch. 2 para. 10 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-918872f046a29949afdccf272b36a2df]: Commencement: Sch. 2 para. 10 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-0d33ebdbb5772ea7f92b09118192b47b]: Commencement: Sch. 2 para. 11 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-0d33ebdbb5772ea7f92b09118192b47b]: Commencement: Sch. 2 para. 11 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-13dcd3865f4c55f5803f3def266b5716]: Commencement: Sch. 2 para. 12 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-13dcd3865f4c55f5803f3def266b5716]: Commencement: Sch. 2 para. 12 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-dcaa4e0e2c2625ad536a0e79c5034925]: Commencement: Sch. 2 para. 13 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-dcaa4e0e2c2625ad536a0e79c5034925]: Commencement: Sch. 2 para. 13 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
 [^f00157]: Footnote: [S.I. 2015/596](https://www.legislation.gov.uk/uksi/2015/596)
 
 [^f00158]: Footnote: [1968 c. 52](https://www.legislation.gov.uk/ukpga/1968/52).
 
-[^key-b5f2842d74f5ea66633029b0c896a4be]: Commencement: Sch. 2 para. 14 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-b5f2842d74f5ea66633029b0c896a4be]: Commencement: Sch. 2 para. 14 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-d075611f6985c191d2666fcf1d5063b1]: Commencement: Sch. 2 para. 15 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-d075611f6985c191d2666fcf1d5063b1]: Commencement: Sch. 2 para. 15 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
 [^f00159]: Footnote: [S.I. 2022/157](https://www.legislation.gov.uk/uksi/2022/157), amended by [S.I. 2023/289](https://www.legislation.gov.uk/uksi/2023/289) and [S.I. 2024/955](https://www.legislation.gov.uk/uksi/2024/955).
 
-[^key-340da8bdf8a89f26e2b539ed4c24b50c]: Commencement: Sch. 2 para. 16 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-340da8bdf8a89f26e2b539ed4c24b50c]: Commencement: Sch. 2 para. 16 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-b7157cf08235c28a6855b002fcf1b6d7]: Commencement: Sch. 2 para. 17 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-b7157cf08235c28a6855b002fcf1b6d7]: Commencement: Sch. 2 para. 17 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
 [^f00160]: Footnote: [2023 c. 55](https://www.legislation.gov.uk/ukpga/2023/55).
 
@@ -588,46 +588,46 @@ In the Consents and Agreements Position Statement (document ref. TR010032/APP/8.
 
 [^f00163]: Footnote: [S.I. 2012/767](https://www.legislation.gov.uk/uksi/2012/767).
 
-[^key-8a625dad461b68bfc8b8f46b63e7fceb]: Commencement: Sch. 2 para. 18 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-8a625dad461b68bfc8b8f46b63e7fceb]: Commencement: Sch. 2 para. 18 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-c5f9114e42464b41d0c231d39f1831e5]: Commencement: Sch. 2 para. 19 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-c5f9114e42464b41d0c231d39f1831e5]: Commencement: Sch. 2 para. 19 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-df85aee16a5f4dfd84bf54b5f155406f]: Commencement: Sch. 2 para. 20 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-df85aee16a5f4dfd84bf54b5f155406f]: Commencement: Sch. 2 para. 20 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-ba1cf1b7185324c0ff4c99b126c32c29]: Commencement: Sch. 2 para. 21 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-ba1cf1b7185324c0ff4c99b126c32c29]: Commencement: Sch. 2 para. 21 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-0691ad029851dd7cc335bfc6a9234562]: Textual amendment: Words in [Sch. 2 para. 21(1)(b)](https://www.legislation.gov.uk/uksi/2025/462/schedule/2/paragraph/21/1/b) substituted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
+[^c-0691ad029851dd7cc335bfc6a9234562]: Textual amendment: Words in [Sch. 2 para. 21(1)(b)](https://www.legislation.gov.uk/uksi/2025/462/schedule/2/paragraph/21/1/b) substituted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
 
-[^key-2dfa4adfeeb018b5c1ed7138d6c64fc1]: Commencement: Sch. 2 para. 22 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-2dfa4adfeeb018b5c1ed7138d6c64fc1]: Commencement: Sch. 2 para. 22 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-8d4138bb5fb485e069f1812aeeb05dfa]: Textual amendment: Words in [Sch. 2 para. 22(4)](https://www.legislation.gov.uk/uksi/2025/462/schedule/2/paragraph/22/4) substituted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
+[^c-8d4138bb5fb485e069f1812aeeb05dfa]: Textual amendment: Words in [Sch. 2 para. 22(4)](https://www.legislation.gov.uk/uksi/2025/462/schedule/2/paragraph/22/4) substituted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
 
-[^key-1565cea7800176625d30ca2d9f2b4241]: Commencement: Sch. 2 para. 23 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-1565cea7800176625d30ca2d9f2b4241]: Commencement: Sch. 2 para. 23 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-b555cab288a75e7da7abd7f2e0541348]: Textual amendment: Words in [Sch. 2 para. 23(1)(a)](https://www.legislation.gov.uk/uksi/2025/462/schedule/2/paragraph/23/1/a) substituted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
+[^c-b555cab288a75e7da7abd7f2e0541348]: Textual amendment: Words in [Sch. 2 para. 23(1)(a)](https://www.legislation.gov.uk/uksi/2025/462/schedule/2/paragraph/23/1/a) substituted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
 
-[^key-250028554aa9def14af5920a74697659]: Commencement: Sch. 2 para. 24 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-250028554aa9def14af5920a74697659]: Commencement: Sch. 2 para. 24 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-72b775adb83efb702ce7be2d07f858e3]: Commencement: Sch. 2 para. 25 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-72b775adb83efb702ce7be2d07f858e3]: Commencement: Sch. 2 para. 25 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-2e055db3f01943ff20ae71af994a5444]: Commencement: Sch. 2 para. 26 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-2e055db3f01943ff20ae71af994a5444]: Commencement: Sch. 2 para. 26 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-a9c2560d308aad2e6d0e0754e7b912d3]: Textual amendment: Words in Sch. 2 para. 26(4) Table 2 substituted (5.11.2025) by [The A122 (Lower Thames Crossing) Development Consent (Amendment) Order 2025 (S.I. 2025/1161)](https://www.legislation.gov.uk/uksi/2025/1161), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1161/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/1161/article/2/2)
+[^c-a9c2560d308aad2e6d0e0754e7b912d3]: Textual amendment: Words in Sch. 2 para. 26(4) Table 2 substituted (5.11.2025) by [The A122 (Lower Thames Crossing) Development Consent (Amendment) Order 2025 (S.I. 2025/1161)](https://www.legislation.gov.uk/uksi/2025/1161), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1161/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/1161/article/2/2)
 
-[^key-5645c6139800ab2c08dd43964789c2f9]: Textual amendment: Words in Sch. 2 para. 26(4) Table 2 substituted (12.9.2025) by virtue of [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
+[^c-5645c6139800ab2c08dd43964789c2f9]: Textual amendment: Words in Sch. 2 para. 26(4) Table 2 substituted (12.9.2025) by virtue of [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
 
-[^key-b191e29ad7e937956e700b08c494d8dc]: Textual amendment: Words in Sch. 2 para. 26(4) Table 2 omitted (12.9.2025) by virtue of [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
+[^c-b191e29ad7e937956e700b08c494d8dc]: Textual amendment: Words in Sch. 2 para. 26(4) Table 2 omitted (12.9.2025) by virtue of [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
 
-[^key-1405e3151ea505c8c2af73e11d5d6588]: Textual amendment: Words in Sch. 2 para. 26(4) Table 2 inserted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
+[^c-1405e3151ea505c8c2af73e11d5d6588]: Textual amendment: Words in Sch. 2 para. 26(4) Table 2 inserted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
 
-[^key-5e285395b39363aa170b56646bf0696d]: Commencement: Sch. 2 para. 27 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-5e285395b39363aa170b56646bf0696d]: Commencement: Sch. 2 para. 27 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-cc78b48a3a175feb5df0a334d3f0a6b3]: Commencement: Sch. 2 para. 28 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-cc78b48a3a175feb5df0a334d3f0a6b3]: Commencement: Sch. 2 para. 28 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-1a30a2882d305522ccb847a6ae76ba50]: Commencement: Sch. 2 para. 29 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-1a30a2882d305522ccb847a6ae76ba50]: Commencement: Sch. 2 para. 29 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-c421bdef2768ad0c013ff4b9c4a3e63d]: Commencement: Sch. 2 para. 30 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-c421bdef2768ad0c013ff4b9c4a3e63d]: Commencement: Sch. 2 para. 30 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-ded6c9487e49d41252ea49832935cd4a]: Commencement: Sch. 2 para. 31 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-ded6c9487e49d41252ea49832935cd4a]: Commencement: Sch. 2 para. 31 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-b83f74a835b71aab638c96de8f1dc521]: Textual amendment: Words in [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2025/462/schedule/2/paragraph/31) table 5 substituted (12.9.2025) by virtue of [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
+[^c-b83f74a835b71aab638c96de8f1dc521]: Textual amendment: Words in [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2025/462/schedule/2/paragraph/31) table 5 substituted (12.9.2025) by virtue of [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)

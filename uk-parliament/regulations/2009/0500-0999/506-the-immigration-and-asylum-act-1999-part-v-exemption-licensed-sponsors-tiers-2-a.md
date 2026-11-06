@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 84(4)(d) and 166 of the Immigration and Asylum Act 1999[^f00001], hereby makes the following Order:
 
-## 1. Citation and Commencement[^key-9fde600e5b2e111e85731ba38c1c4fe7]
+## 1. Citation and Commencement[^c-9fde600e5b2e111e85731ba38c1c4fe7]
 
 This Order may be cited as the Immigration and Asylum Act 1999 (Part V Exemption: Licensed Sponsors Tiers 2 and 4) Order 2009 and shall come into force on 31 March 2009.
 
-## 2. Interpretation[^key-f72a66e6459bf255e9b47b425b78989d]
+## 2. Interpretation[^c-f72a66e6459bf255e9b47b425b78989d]
 
 In this Order—
 
@@ -64,7 +64,7 @@ In this Order—
 - “Tier 2 migrant” means a migrant who (i) makes an application of a kind identified in the immigration rules as requiring to be considered under “Tier 2” of the immigration rules’ Points-based system or (ii) has been granted leave under the relevant paragraphs of the immigration rules;
 - “Tier 4 migrant” means a migrant who (i) makes an application of a kind identified in the immigration rules as requiring to be considered under “Tier 4” of the immigration rules’ Points-based system or (ii) has been granted leave under the relevant paragraphs of the immigration rules;
 
-## 3. Exemption of licensed sponsors[^key-8232daa0c74c2bfca00b2bce87ee2ef6]
+## 3. Exemption of licensed sponsors[^c-8232daa0c74c2bfca00b2bce87ee2ef6]
 
 (1) Subject to paragraphs (2) and (3) and for the purposes of section 84(4)(d) of the Act the following persons shall be specified, namely persons who are licensed sponsors of Tier 2 and Tier 4 migrants and who provide immigration advice or immigration services free of charge to those migrants or their immediate family.
 
@@ -92,10 +92,10 @@ Licensed sponsors have to comply with the Office of the Immigration Services Com
 
 [^f00001]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
 
-[^key-9fde600e5b2e111e85731ba38c1c4fe7]: Commencement: Art. 1 in force at 31.3.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/506/article/1)
+[^c-9fde600e5b2e111e85731ba38c1c4fe7]: Commencement: Art. 1 in force at 31.3.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/506/article/1)
 
-[^key-f72a66e6459bf255e9b47b425b78989d]: Commencement: Art. 2 in force at 31.3.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/506/article/1)
+[^c-f72a66e6459bf255e9b47b425b78989d]: Commencement: Art. 2 in force at 31.3.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/506/article/1)
 
 [^f00002]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
-[^key-8232daa0c74c2bfca00b2bce87ee2ef6]: Commencement: Art. 3 in force at 31.3.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/506/article/1)
+[^c-8232daa0c74c2bfca00b2bce87ee2ef6]: Commencement: Art. 3 in force at 31.3.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/506/article/1)

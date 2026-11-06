@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Repayments of student loans ... by persons required to submit a tax return[^key-859c5e795bfc5ff298021102ac4cbcc4][^key-8e4790b2125171b6eab00ae5f0007744]
+## 28. Repayments of student loans ... by persons required to submit a tax return[^c-859c5e795bfc5ff298021102ac4cbcc4][^c-8e4790b2125171b6eab00ae5f0007744]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Repayments by a borrower who in respect of any tax year is required to make and 
 
 ## Annotations
 
-[^key-859c5e795bfc5ff298021102ac4cbcc4]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2009/470/regulation/28) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-859c5e795bfc5ff298021102ac4cbcc4]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2009/470/regulation/28) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
 
-[^key-8e4790b2125171b6eab00ae5f0007744]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/uksi/2009/470/regulation/28) heading omitted (6.4.2023) by virtue of [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [32](https://www.legislation.gov.uk/uksi/2022/1335/regulation/32)
+[^c-8e4790b2125171b6eab00ae5f0007744]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/uksi/2009/470/regulation/28) heading omitted (6.4.2023) by virtue of [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [32](https://www.legislation.gov.uk/uksi/2022/1335/regulation/32)

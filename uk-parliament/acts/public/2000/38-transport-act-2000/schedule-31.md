@@ -144,7 +144,7 @@ The repeal of section 3(2) of the Civil Aviation (Eurocontrol) Act 1983 does not
 |  |  | paragraph 7(3)(e), and |
 |  |  | in paragraph 39, the words “, exercisable in the same manner, and subject to the same conditions and limitations,”. |
 
-### Part IV — Railways[^c14891441][^key-9eda0a506a58816b4e4590c80d715290]
+### Part IV — Railways[^c14891441][^c-9eda0a506a58816b4e4590c80d715290]
 
 *Extent: E+W+S*
 
@@ -354,7 +354,7 @@ The repeal of section 3(2) of the Civil Aviation (Eurocontrol) Act 1983 does not
 |  |  | Article 14. |
 | S.I. 1994/1649. | Railways Act 1993 (Consequential Modifications) (No.2) Order 1994. | The whole order. |
 | 1996 c. 18. | Employment Rights Act 1996. | In Schedule 1, paragraph 60(2). |
-| [^key-c30dded27897d28eecac78acbf7ef95a]. . . | [^key-c30dded27897d28eecac78acbf7ef95a]. . . | [^key-c30dded27897d28eecac78acbf7ef95a]. . . |
+| [^c-c30dded27897d28eecac78acbf7ef95a]. . . | [^c-c30dded27897d28eecac78acbf7ef95a]. . . | [^c-c30dded27897d28eecac78acbf7ef95a]. . . |
 | 1998 c. 41. | Competition Act 1998. | In Schedule 10, paragraph 15(7)(a). |
 | 1999 c. 29. | Greater London Authority Act 1999. | Section 175(4). |
 |  |  | In section 199(1), the words “, notwithstanding anything in subsection (10) of that section” and the words “, notwithstanding anything in subsection (9) of that section”. |
@@ -426,8 +426,8 @@ The repeal of section 3(2) of the Civil Aviation (Eurocontrol) Act 1983 does not
 
 [^c14891441]: Commencement: Sch. 31 not in force at Royal Assent see. S. 275(1)(2); Sch. 31 Pt. IV in force (15.1.2001 for specified purposes) by [S.I. 2000/3376](https://www.legislation.gov.uk/uksi/2000/3376), [art. 2](https://www.legislation.gov.uk/uksi/2000/3376/article/2); Sch. 31 Pt. IV in force at 1.2.2001 for specified purposes by [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-9eda0a506a58816b4e4590c80d715290]: Commencement: Sch. 31 Pt. IV in force at 15.10.2005 for specified purposes by [S.I. 2005/2862](https://www.legislation.gov.uk/uksi/2005/2862), [art. 3](https://www.legislation.gov.uk/ukpga/2003/21/article/3)
+[^c-9eda0a506a58816b4e4590c80d715290]: Commencement: Sch. 31 Pt. IV in force at 15.10.2005 for specified purposes by [S.I. 2005/2862](https://www.legislation.gov.uk/uksi/2005/2862), [art. 3](https://www.legislation.gov.uk/ukpga/2003/21/article/3)
 
-[^key-c30dded27897d28eecac78acbf7ef95a]: Textual amendment: Sch. 31 entry repealed (21.11.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2812/schedule/2)
+[^c-c30dded27897d28eecac78acbf7ef95a]: Textual amendment: Sch. 31 entry repealed (21.11.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2812/schedule/2)
 
 [^c14891451]: Commencement: Sch. 31 Pt. V partly in force; Sch. 31 Pt. V not in force at Royal Assent see s. 275; Sch. 31 Pt. V in force for certain purposes at 1.4.2002 by [S.I. 2002/658](https://www.legislation.gov.uk/uksi/2002/658), [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/658/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2002/658/schedule/part/2) (with transitional provision in [art. 3](https://www.legislation.gov.uk/uksi/2002/658/article/3)) (as substituted by [S.I. 2002/846](https://www.legislation.gov.uk/uksi/2002/846), [art. 2](https://www.legislation.gov.uk/uksi/2002/846/article/2))

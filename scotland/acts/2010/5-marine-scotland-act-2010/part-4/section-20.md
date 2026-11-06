@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Requirement for licence[^key-69d04aecfae54b054b857573fdca9a26][^key-67f3a78f0e33fc43adda0ce3187d7ab2]
+## 20. Requirement for licence[^c-69d04aecfae54b054b857573fdca9a26][^c-67f3a78f0e33fc43adda0ce3187d7ab2]
 
 *Extent: S*
 
@@ -31,6 +31,6 @@ except in accordance with a marine licence granted by the Scottish Ministers.
 
 ## Annotations
 
-[^key-69d04aecfae54b054b857573fdca9a26]: Commencement: S. 20 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-69d04aecfae54b054b857573fdca9a26]: Commencement: S. 20 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
 
-[^key-67f3a78f0e33fc43adda0ce3187d7ab2]: Modification: S. 20 excluded (6.4.2011) by [The Marine (Scotland) Act 2010 (Transitional and Consequential Provisions) Order 2011 (S.S.I. 2011/202)](https://www.legislation.gov.uk/ssi/2011/202), [art. 8](https://www.legislation.gov.uk/ssi/2011/202/article/8)
+[^c-67f3a78f0e33fc43adda0ce3187d7ab2]: Modification: S. 20 excluded (6.4.2011) by [The Marine (Scotland) Act 2010 (Transitional and Consequential Provisions) Order 2011 (S.S.I. 2011/202)](https://www.legislation.gov.uk/ssi/2011/202), [art. 8](https://www.legislation.gov.uk/ssi/2011/202/article/8)

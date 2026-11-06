@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 324. Section 323: definitions[^key-08c34e0c1447fd4130e5d746b5198dc3][^key-5a1fc84f8174fc27f0e9aa55a9f332cb]
+## 324. Section 323: definitions[^c-08c34e0c1447fd4130e5d746b5198dc3][^c-5a1fc84f8174fc27f0e9aa55a9f332cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-08c34e0c1447fd4130e5d746b5198dc3]: Commencement: S. 324 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-08c34e0c1447fd4130e5d746b5198dc3]: Commencement: S. 324 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-5a1fc84f8174fc27f0e9aa55a9f332cb]: Commencement: S. 324 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-5a1fc84f8174fc27f0e9aa55a9f332cb]: Commencement: S. 324 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

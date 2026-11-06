@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Stations[^key-38ab43be0c0131eae3bfea18f87e3c93]
+## 6. Stations[^c-38ab43be0c0131eae3bfea18f87e3c93]
 
 *Extent: E+W+S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-38ab43be0c0131eae3bfea18f87e3c93]: Commencement: Art. 6 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-38ab43be0c0131eae3bfea18f87e3c93]: Commencement: Art. 6 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
 
 [^f00024]: Footnote: [1966 c. i](https://www.legislation.gov.uk/ukla/1966/1).

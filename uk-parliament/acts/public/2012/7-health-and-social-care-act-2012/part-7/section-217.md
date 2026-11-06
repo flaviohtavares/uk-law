@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 217. Approval of courses for approved mental health professionals[^key-f7cfc2620d3348e92a31141578fbc966]
+## 217. Approval of courses for approved mental health professionals[^c-f7cfc2620d3348e92a31141578fbc966]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7cfc2620d3348e92a31141578fbc966]: Commencement: [S. 217](https://www.legislation.gov.uk/ukpga/2012/7/section/217) in force at 1.8.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)
+[^c-f7cfc2620d3348e92a31141578fbc966]: Commencement: [S. 217](https://www.legislation.gov.uk/ukpga/2012/7/section/217) in force at 1.8.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)

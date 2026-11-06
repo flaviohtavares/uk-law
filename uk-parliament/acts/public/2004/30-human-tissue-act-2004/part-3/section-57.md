@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Repeals and revocations[^key-f1bb1c320e65fb23a2e920d14c33a4b4][^key-cfd40312e9b2b7c7e59b2a883ad6c100]
+## 57. Repeals and revocations[^c-f1bb1c320e65fb23a2e920d14c33a4b4][^c-cfd40312e9b2b7c7e59b2a883ad6c100]
 
 *Extent: E+W+N.I.*
 
@@ -24,6 +24,6 @@ The enactments and instruments specified in Schedule 7 are hereby repealed or re
 
 ## Annotations
 
-[^key-f1bb1c320e65fb23a2e920d14c33a4b4]: Commencement: S. 57 in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(f)(g)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/f)
+[^c-f1bb1c320e65fb23a2e920d14c33a4b4]: Commencement: S. 57 in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(f)(g)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/f)
 
-[^key-cfd40312e9b2b7c7e59b2a883ad6c100]: Commencement: S. 57 in force at 1.9.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))
+[^c-cfd40312e9b2b7c7e59b2a883ad6c100]: Commencement: S. 57 in force at 1.9.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))

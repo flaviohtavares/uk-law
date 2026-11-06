@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 210. Application of section 209 to specified law enforcement employer[^key-ba4905841592ba607da2c63afbe1b7e0][^key-253e3c6b2f207b80f8837df90195fe94]
+## 210. Application of section 209 to specified law enforcement employer[^c-ba4905841592ba607da2c63afbe1b7e0][^c-253e3c6b2f207b80f8837df90195fe94]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ba4905841592ba607da2c63afbe1b7e0]: Commencement: S. 210 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-ba4905841592ba607da2c63afbe1b7e0]: Commencement: S. 210 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-253e3c6b2f207b80f8837df90195fe94]: Commencement: [S. 210](https://www.legislation.gov.uk/ukpga/2026/20/section/210) in force at 21.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/f)
+[^c-253e3c6b2f207b80f8837df90195fe94]: Commencement: [S. 210](https://www.legislation.gov.uk/ukpga/2026/20/section/210) in force at 21.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/f)

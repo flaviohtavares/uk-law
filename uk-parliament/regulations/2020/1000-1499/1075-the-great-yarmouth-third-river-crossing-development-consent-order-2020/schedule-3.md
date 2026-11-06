@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3 — STREETS SUBJECT TO PERMANENT LAYOUT AND OTHER ALTERATIONS[^key-0facb4676aeb1df6ce535eac75f0bad6]
+## SCHEDULE 3 — STREETS SUBJECT TO PERMANENT LAYOUT AND OTHER ALTERATIONS[^c-0facb4676aeb1df6ce535eac75f0bad6]
 
 *Extent: E+W+S*
 
 Article 9(1)
 
-[^key-0facb4676aeb1df6ce535eac75f0bad6]
+[^c-0facb4676aeb1df6ce535eac75f0bad6]
 
 The lengths of street subject to layout and other alterations in column (2) of this Schedule are shown by blue cross-hatching on the street plans and given a reference (“Ref”) number, preceded by “C” commencing with “1”
 
@@ -49,4 +49,4 @@ The lengths of street subject to layout and other alterations in column (2) of t
 
 ## Annotations
 
-[^key-0facb4676aeb1df6ce535eac75f0bad6]: Commencement: Sch. 3 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-0facb4676aeb1df6ce535eac75f0bad6]: Commencement: Sch. 3 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

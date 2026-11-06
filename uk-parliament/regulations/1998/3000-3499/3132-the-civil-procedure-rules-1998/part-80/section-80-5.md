@@ -16,23 +16,23 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80.5. Reference of measures imposed without permission[^key-b0028ea3ea761f9d3071a1825db0843b]
+## 80.5. Reference of measures imposed without permission[^c-b0028ea3ea761f9d3071a1825db0843b]
 
 *Extent: E+W*
 
-A reference under paragraph 3(1) of Schedule 2 to the TPIM Act or of Schedule 8 to the National Security Act[^key-0c4965c1f08c4f4039bd5cbcc950b71e] of the imposition of measures imposed without permission is made by the Secretary of State filing with the court—
+A reference under paragraph 3(1) of Schedule 2 to the TPIM Act or of Schedule 8 to the National Security Act[^c-0c4965c1f08c4f4039bd5cbcc950b71e] of the imposition of measures imposed without permission is made by the Secretary of State filing with the court—
 
-- (a) a statement of reasons for imposing measures and for imposing the measures specified in the TPIM notice or Part 2 notice[^key-69c974cf1ae3b8c00e74e2fbf139eb4e];
+- (a) a statement of reasons for imposing measures and for imposing the measures specified in the TPIM notice or Part 2 notice[^c-69c974cf1ae3b8c00e74e2fbf139eb4e];
 - (b) any relevant material of which the Secretary of State is aware at that stage;
 - (c) any written submissions; and
-- (d) the TPIM notice or Part 2 notice[^key-648148103f6b37ef20fbe4fc52b874dc].
+- (d) the TPIM notice or Part 2 notice[^c-648148103f6b37ef20fbe4fc52b874dc].
 
 ## Annotations
 
-[^key-b0028ea3ea761f9d3071a1825db0843b]: Textual amendment: Pt. 80 inserted (15.12.2011) by [The Civil Procedure (Amendment No. 3) Rules 2011 (S.I. 2011/2970)](https://www.legislation.gov.uk/uksi/2011/2970), [rule 1](https://www.legislation.gov.uk/uksi/2011/2970/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2011/2970/schedule)
+[^c-b0028ea3ea761f9d3071a1825db0843b]: Textual amendment: Pt. 80 inserted (15.12.2011) by [The Civil Procedure (Amendment No. 3) Rules 2011 (S.I. 2011/2970)](https://www.legislation.gov.uk/uksi/2011/2970), [rule 1](https://www.legislation.gov.uk/uksi/2011/2970/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2011/2970/schedule)
 
-[^key-0c4965c1f08c4f4039bd5cbcc950b71e]: Textual amendment: Words in rule 80.5 substituted (20.12.2023) by [The Civil Procedure (Amendment No. 4) Rules 2023 (S.I. 2023/1397)](https://www.legislation.gov.uk/uksi/2023/1397), [rules 1](https://www.legislation.gov.uk/uksi/2023/1397/rule/1), [10(a)](https://www.legislation.gov.uk/uksi/2023/1397/rule/10/a)
+[^c-0c4965c1f08c4f4039bd5cbcc950b71e]: Textual amendment: Words in rule 80.5 substituted (20.12.2023) by [The Civil Procedure (Amendment No. 4) Rules 2023 (S.I. 2023/1397)](https://www.legislation.gov.uk/uksi/2023/1397), [rules 1](https://www.legislation.gov.uk/uksi/2023/1397/rule/1), [10(a)](https://www.legislation.gov.uk/uksi/2023/1397/rule/10/a)
 
-[^key-69c974cf1ae3b8c00e74e2fbf139eb4e]: Textual amendment: Words in rule 80.5(a) inserted (20.12.2023) by [The Civil Procedure (Amendment No. 4) Rules 2023 (S.I. 2023/1397)](https://www.legislation.gov.uk/uksi/2023/1397), [rules 1](https://www.legislation.gov.uk/uksi/2023/1397/rule/1), [10(b)](https://www.legislation.gov.uk/uksi/2023/1397/rule/10/b)
+[^c-69c974cf1ae3b8c00e74e2fbf139eb4e]: Textual amendment: Words in rule 80.5(a) inserted (20.12.2023) by [The Civil Procedure (Amendment No. 4) Rules 2023 (S.I. 2023/1397)](https://www.legislation.gov.uk/uksi/2023/1397), [rules 1](https://www.legislation.gov.uk/uksi/2023/1397/rule/1), [10(b)](https://www.legislation.gov.uk/uksi/2023/1397/rule/10/b)
 
-[^key-648148103f6b37ef20fbe4fc52b874dc]: Textual amendment: Words in rule 80.5(d) inserted (20.12.2023) by [The Civil Procedure (Amendment No. 4) Rules 2023 (S.I. 2023/1397)](https://www.legislation.gov.uk/uksi/2023/1397), [rules 1](https://www.legislation.gov.uk/uksi/2023/1397/rule/1), [10(c)](https://www.legislation.gov.uk/uksi/2023/1397/rule/10/c)
+[^c-648148103f6b37ef20fbe4fc52b874dc]: Textual amendment: Words in rule 80.5(d) inserted (20.12.2023) by [The Civil Procedure (Amendment No. 4) Rules 2023 (S.I. 2023/1397)](https://www.legislation.gov.uk/uksi/2023/1397), [rules 1](https://www.legislation.gov.uk/uksi/2023/1397/rule/1), [10(c)](https://www.legislation.gov.uk/uksi/2023/1397/rule/10/c)

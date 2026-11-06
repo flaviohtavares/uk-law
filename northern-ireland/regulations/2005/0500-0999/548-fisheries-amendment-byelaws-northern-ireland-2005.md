@@ -31,7 +31,7 @@ summary: ''
 
 FISHERIES
 
-Fisheries (Amendment) Byelaws (Northern Ireland) 2005 (revoked)[^key-5fe9ed24119bc7bedcf4fc1b57fe9951]
+Fisheries (Amendment) Byelaws (Northern Ireland) 2005 (revoked)[^c-5fe9ed24119bc7bedcf4fc1b57fe9951]
 
 Made
 
@@ -41,34 +41,34 @@ Coming into operation
 
 1st January 2006
 
-[^key-5fe9ed24119bc7bedcf4fc1b57fe9951]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5fe9ed24119bc7bedcf4fc1b57fe9951]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5fe9ed24119bc7bedcf4fc1b57fe9951]
+## 1. Citation and commencement[^c-5fe9ed24119bc7bedcf4fc1b57fe9951]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Fisheries Byelaws (Northern Ireland) 2003[^key-5fe9ed24119bc7bedcf4fc1b57fe9951]
+## 2. Amendment of the Fisheries Byelaws (Northern Ireland) 2003[^c-5fe9ed24119bc7bedcf4fc1b57fe9951]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Licence duties and fees[^key-5fe9ed24119bc7bedcf4fc1b57fe9951]
+## 3. Licence duties and fees[^c-5fe9ed24119bc7bedcf4fc1b57fe9951]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. List of waters where there is no close season for rainbow trout[^key-5fe9ed24119bc7bedcf4fc1b57fe9951]
+## 4. List of waters where there is no close season for rainbow trout[^c-5fe9ed24119bc7bedcf4fc1b57fe9951]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Annual close seasons and close times for commercial fishing[^key-5fe9ed24119bc7bedcf4fc1b57fe9951]
+## 5. Annual close seasons and close times for commercial fishing[^c-5fe9ed24119bc7bedcf4fc1b57fe9951]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5fe9ed24119bc7bedcf4fc1b57fe9951]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5fe9ed24119bc7bedcf4fc1b57fe9951]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5fe9ed24119bc7bedcf4fc1b57fe9951]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5fe9ed24119bc7bedcf4fc1b57fe9951]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5fe9ed24119bc7bedcf4fc1b57fe9951]: Textual amendment: [Rules](https://www.legislation.gov.uk/nisr/2005/548) revoked (1.3.2014) by [Fisheries Regulations (Northern Ireland) 2014 (S.R. 2014/17)](https://www.legislation.gov.uk/nisr/2014/17), [regs. 1](https://www.legislation.gov.uk/nisr/2014/17/regulation/1), [3](https://www.legislation.gov.uk/nisr/2014/17/regulation/3), [Sch. 8](https://www.legislation.gov.uk/nisr/2014/17/schedule/8)
+[^c-5fe9ed24119bc7bedcf4fc1b57fe9951]: Textual amendment: [Rules](https://www.legislation.gov.uk/nisr/2005/548) revoked (1.3.2014) by [Fisheries Regulations (Northern Ireland) 2014 (S.R. 2014/17)](https://www.legislation.gov.uk/nisr/2014/17), [regs. 1](https://www.legislation.gov.uk/nisr/2014/17/regulation/1), [3](https://www.legislation.gov.uk/nisr/2014/17/regulation/3), [Sch. 8](https://www.legislation.gov.uk/nisr/2014/17/schedule/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Restriction on detention of children for default in paying fines, etc.[^key-65cb439e9b94c2ce0583fffc656e1499]
+## 30. Restriction on detention of children for default in paying fines, etc.[^c-65cb439e9b94c2ce0583fffc656e1499]
 
 *Extent: N.I.*
 
@@ -93,4 +93,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65cb439e9b94c2ce0583fffc656e1499]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2016/21/section/30) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)
+[^c-65cb439e9b94c2ce0583fffc656e1499]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2016/21/section/30) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)

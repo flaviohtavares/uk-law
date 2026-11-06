@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Supply and delivery of restricted goods[^key-d7f802db12648d3db0b44ffa61cb576c][^key-0e67cee080d6bf4db6373fe51c765b56]
+## 22. Supply and delivery of restricted goods[^c-d7f802db12648d3db0b44ffa61cb576c][^c-0e67cee080d6bf4db6373fe51c765b56]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d7f802db12648d3db0b44ffa61cb576c]: Commencement: Reg. 22 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
+[^c-d7f802db12648d3db0b44ffa61cb576c]: Commencement: Reg. 22 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
 
-[^key-0e67cee080d6bf4db6373fe51c765b56]: Commencement: Reg. 22 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0e67cee080d6bf4db6373fe51c765b56]: Commencement: Reg. 22 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

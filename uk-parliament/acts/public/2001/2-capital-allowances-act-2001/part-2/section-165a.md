@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165A. Decommissioning services supplied by connected person[^key-5b9c04d740709b8d2c8a3afc906c1042]
+## 165A. Decommissioning services supplied by connected person[^c-5b9c04d740709b8d2c8a3afc906c1042]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b9c04d740709b8d2c8a3afc906c1042]: Textual amendment: [Ss. 165A-165E](https://www.legislation.gov.uk/ukpga/2001/2/section/165A) and cross-heading inserted (with effect in accordance with Sch. 32 para. 8 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 32 para. 2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/32/paragraph/2)
+[^c-5b9c04d740709b8d2c8a3afc906c1042]: Textual amendment: [Ss. 165A-165E](https://www.legislation.gov.uk/ukpga/2001/2/section/165A) and cross-heading inserted (with effect in accordance with Sch. 32 para. 8 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 32 para. 2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/32/paragraph/2)

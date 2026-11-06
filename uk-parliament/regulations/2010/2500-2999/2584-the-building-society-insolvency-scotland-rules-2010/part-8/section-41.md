@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Advertisement of removal[^key-41a1ce4baf916ef4600e5c187bc22eb2]
+## 41. Advertisement of removal[^c-41a1ce4baf916ef4600e5c187bc22eb2]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 4.27 of the 1986 Rules.
 
 ## Annotations
 
-[^key-41a1ce4baf916ef4600e5c187bc22eb2]: Commencement: Rule 41 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-41a1ce4baf916ef4600e5c187bc22eb2]: Commencement: Rule 41 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

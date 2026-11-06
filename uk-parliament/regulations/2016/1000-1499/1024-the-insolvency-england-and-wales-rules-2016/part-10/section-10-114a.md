@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10.114A. Interpretation[^key-8c3b327e75547f381a27f980123df814]
+## 10.114A. Interpretation[^c-8c3b327e75547f381a27f980123df814]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In this Chapter, the “permitted fee” means the amount which is prescribed fo
 
 ## Annotations
 
-[^key-8c3b327e75547f381a27f980123df814]: Textual amendment: [Rule 10.114A](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.114A) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [29](https://www.legislation.gov.uk/uksi/2017/366/rule/29)
+[^c-8c3b327e75547f381a27f980123df814]: Textual amendment: [Rule 10.114A](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.114A) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [29](https://www.legislation.gov.uk/uksi/2017/366/rule/29)

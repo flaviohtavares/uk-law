@@ -38,7 +38,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## PART 1 — International trade agreements
 
-### 1. Implementation of the Agreement on Government Procurement[^key-2d1d71e0712a4a639223ab581fa8c933]
+### 1. Implementation of the Agreement on Government Procurement[^c-2d1d71e0712a4a639223ab581fa8c933]
 
 (1) An appropriate authority may by regulations make such provision as the authority considers appropriate—
 
@@ -55,11 +55,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (b) in the case of regulations under subsection (1)(b)(i), the day the other party accedes to or, as the case may be, withdraws from, the GPA;
 - (c) in the case of regulations under subsection (1)(b)(iii) or (iv), the day the modification becomes effective.
 
-(3) Regulations under subsection (1) may make provision modifying assimilated direct principal[^key-f43d7c6f4310a45e9fcb4699b7ea6d1f] legislation.
+(3) Regulations under subsection (1) may make provision modifying assimilated direct principal[^c-f43d7c6f4310a45e9fcb4699b7ea6d1f] legislation.
 
 (4) In this section, a “**dispute**” means a matter in respect of which the United Kingdom or another party is entitled to have recourse to the Understanding on Rules and Procedures Governing the Settlement of Disputes under Article XX of the GPA.
 
-### 2. Implementation of international trade agreements[^key-9e0e6ff05f74a7776a0b0981133a6f10]
+### 2. Implementation of international trade agreements[^c-9e0e6ff05f74a7776a0b0981133a6f10]
 
 (1) An appropriate authority may by regulations make such provision as the authority considers appropriate for the purpose of implementing an international trade agreement to which the United Kingdom is a signatory.
 
@@ -89,7 +89,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (9) Regulations under subsection (1) may, among other things, make provision—
 
-- (a) modifying assimilated direct principal[^key-2dad02ce5467f5285869042a9dac3958] legislation or primary legislation that is assimilated[^key-5214376980fbd04936b3e6cf8923a61b] law;
+- (a) modifying assimilated direct principal[^c-2dad02ce5467f5285869042a9dac3958] legislation or primary legislation that is assimilated[^c-5214376980fbd04936b3e6cf8923a61b] law;
 - (b) conferring functions on the Secretary of State or any other person, including conferring a discretion but not including a power to make subordinate legislation;
 - (c) for the delegation of functions;
 - (d) for civil penalties for failing to comply with the regulations.
@@ -107,11 +107,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - “**UK levels of statutory protection**” means levels of protection provided by or under—
   - (a) primary legislation,
   - (b) subordinate legislation, or
-  - (c) assimilated direct[^key-4560b5524c48182b4f7dd20c6e7a3cb3] legislation,
+  - (c) assimilated direct[^c-4560b5524c48182b4f7dd20c6e7a3cb3] legislation,
 
   which has effect in the United Kingdom, or in the part of the United Kingdom in which the regulations have effect, on the date on which a draft of the regulations is laid.
 
-### 3. Free trade agreements and genocide[^key-716b948e7af100bb64bf6a40fe70b589]
+### 3. Free trade agreements and genocide[^c-716b948e7af100bb64bf6a40fe70b589]
 
 (1) Subsection (2) applies if the responsible committee of the House of Commons publishes a report which—
 
@@ -150,7 +150,7 @@ subsection (6) applies.
 - “**the responsible committee of the House of Commons**” means the select committee of the House of Commons charged with responsibility for this section;
 - “**the responsible committee of the House of Lords**” means the select committee of the House of Lords charged with responsibility for this section.
 
-### 4. Regulations: devolved authorities and general provision[^key-9b43137a51793eb14f17572160cc1241]
+### 4. Regulations: devolved authorities and general provision[^c-9b43137a51793eb14f17572160cc1241]
 
 (1) Regulations under section 1(1) or 2(1) may—
 
@@ -165,7 +165,7 @@ subsection (6) applies.
 
 (4) Schedule 3 contains exceptions to restrictions in the devolution settlements for regulations made under section 1(1) or 2(1).
 
-### 5. Interpretation of Part 1[^key-ada854a38455f87eac45e65f1a1f58b2]
+### 5. Interpretation of Part 1[^c-ada854a38455f87eac45e65f1a1f58b2]
 
 (1) In this Part—
 
@@ -201,7 +201,7 @@ subsection (6) applies.
 - (c) Senedd Cymru, in the case of regulations to which paragraph 4(3) of Schedule 2 applies;
 - (d) the Northern Ireland Assembly, in the case of regulations to which paragraph 4(4) of Schedule 2 applies.
 
-(4)[^key-a9160bf37524e0610112debad82f38f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a9160bf37524e0610112debad82f38f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In this section, “**domestic law**” means the law of England and Wales, Scotland or Northern Ireland.
 
@@ -209,13 +209,13 @@ subsection (6) applies.
 
 ### 6. The Trade Remedies Authority
 
-(1)[^key-f3feb8cc8c668e382c79443282abf8ea] A body corporate called the Trade Remedies Authority (“the TRA”) is established.
+(1)[^c-f3feb8cc8c668e382c79443282abf8ea] A body corporate called the Trade Remedies Authority (“the TRA”) is established.
 
-(2)[^key-f3feb8cc8c668e382c79443282abf8ea] Schedule 4 contains further provision about the TRA.
+(2)[^c-f3feb8cc8c668e382c79443282abf8ea] Schedule 4 contains further provision about the TRA.
 
-(3)[^key-b2c70a5f41b77d7e5ea504704a5a3e36] Schedule 5 contains provision about schemes for the transfer of staff in connection with the establishment of the TRA.
+(3)[^c-b2c70a5f41b77d7e5ea504704a5a3e36] Schedule 5 contains provision about schemes for the transfer of staff in connection with the establishment of the TRA.
 
-### 7. Provision of advice, support and assistance by the TRA[^key-64f5213003a9b07871bb317f79007a73]
+### 7. Provision of advice, support and assistance by the TRA[^c-64f5213003a9b07871bb317f79007a73]
 
 (1) The TRA must provide the Secretary of State with such advice, support and assistance as the Secretary of State requests in connection with—
 
@@ -308,7 +308,7 @@ subsection (6) applies.
 
 ## PART 4 — Trade information
 
-### 12. Collection of exporter information by HMRC[^key-5542993abc11a305ee1adaab351bd3ef]
+### 12. Collection of exporter information by HMRC[^c-5542993abc11a305ee1adaab351bd3ef]
 
 (1) Her Majesty's Revenue and Customs may request any person to provide information for the purpose of assisting the Secretary of State to establish the number and identity of persons exporting goods and services from the United Kingdom in the course of a trade, business or profession.
 
@@ -325,7 +325,7 @@ subsection (6) applies.
 
 (6) Any other statutory instrument containing regulations under subsection (3) is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 13. Disclosure of information by HMRC[^key-45ca7cea99e03250b1b2e5d3bb17db32]
+### 13. Disclosure of information by HMRC[^c-45ca7cea99e03250b1b2e5d3bb17db32]
 
 (1) Her Majesty's Revenue and Customs (or anyone acting on their behalf) may disclose information for the purpose of—
 
@@ -362,7 +362,7 @@ section 19 of the Commissioners for Revenue and Customs Act 2005 (offence of wro
 
 (7) In this section “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
 
-### 14. Disclosure of information by other authorities[^key-76a0265e71f3f4921f7a3f8f40af82b3]
+### 14. Disclosure of information by other authorities[^c-76a0265e71f3f4921f7a3f8f40af82b3]
 
 (1) A public authority specified in subsection (3) may disclose information for the purpose of facilitating the exercise by a Minister of the Crown of the Minister's functions relating to trade.
 
@@ -404,7 +404,7 @@ section 19 of the Commissioners for Revenue and Customs Act 2005 (offence of wro
 - “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
 - “**public authority**” means an authority exercising functions of a public nature.
 
-### 15. Offence relating to disclosure under section 14[^key-fd70bb20d9a0d27fb8912d98bfeb5d9a]
+### 15. Offence relating to disclosure under section 14[^c-fd70bb20d9a0d27fb8912d98bfeb5d9a]
 
 (1) If a person discloses information in contravention of section 14 which relates to a person whose identity—
 
@@ -427,11 +427,11 @@ the person who disclosed the information commits an offence.
 
 - (a) on conviction on indictment, to imprisonment for a term not exceeding two years, to a fine or to both, or
 - (b) on summary conviction—
-  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-44bfbc4a30b870171db7c7e6d1016540], to a fine or to both;
+  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-44bfbc4a30b870171db7c7e6d1016540], to a fine or to both;
   - (ii) in Scotland, to imprisonment for a term not exceeding 12 months, to a fine not exceeding the statutory maximum or to both;
   - (iii) in Northern Ireland, to imprisonment for a term not exceeding 6 months, to a fine not exceeding the statutory maximum or to both.
 
-(5) In relation to an offence committed before 2 May 2022[^key-925455e753bd830ea7c098946dfb8413], the reference in subsection (4)(b)(i) to the general limit in a magistrates’ court[^key-b36515184bed90913ddcbbef7e082bfa] is to be read as a reference to 6 months.
+(5) In relation to an offence committed before 2 May 2022[^c-925455e753bd830ea7c098946dfb8413], the reference in subsection (4)(b)(i) to the general limit in a magistrates’ court[^c-b36515184bed90913ddcbbef7e082bfa] is to be read as a reference to 6 months.
 
 ## PART 5 — General
 
@@ -471,13 +471,13 @@ Section 4(2)
 
 ### No power to make provision outside devolved competence
 
-**1.**[^key-01b2a08c45556a72e70f1d46111f5b26] (1) No provision may be made by a devolved authority under section 1(1) or 2(1) unless the provision is within the devolved competence of the devolved authority.
+**1.**[^c-01b2a08c45556a72e70f1d46111f5b26] (1) No provision may be made by a devolved authority under section 1(1) or 2(1) unless the provision is within the devolved competence of the devolved authority.
 
 (2) See paragraphs 6 to 8 for the meaning of “devolved competence”.
 
 ### Requirement for consultation in certain circumstances
 
-**2.**[^key-5e4488c504f02ca9e713d97cc27b6a62] (1) No regulations may be made by a devolved authority acting alone under section 2(1) so far as the regulations are to come into force before IP completion day, unless the regulations are, to that extent, made after consulting with a Minister of the Crown.
+**2.**[^c-5e4488c504f02ca9e713d97cc27b6a62] (1) No regulations may be made by a devolved authority acting alone under section 2(1) so far as the regulations are to come into force before IP completion day, unless the regulations are, to that extent, made after consulting with a Minister of the Crown.
 
 (2) No regulations may be made by a devolved authority acting alone under section 2(1) so far as the regulations make provision about any quota arrangements or are incompatible with any such arrangements, unless the regulations are, to that extent, made after consulting with a Minister of the Crown.
 
@@ -490,7 +490,7 @@ where the obligation is to achieve a result defined by reference to a quantity (
 
 ### Requirement for consent where it would otherwise be required
 
-**3.**[^key-611bf500f909cdc8e372353af507df21] (1) The consent of a Minister of the Crown is required before any provision is made by the Welsh Ministers acting alone in regulations under section 1(1) or 2(1) so far as that provision, if contained in an Act of Senedd Cymru, would require the consent of a Minister of the Crown.
+**3.**[^c-611bf500f909cdc8e372353af507df21] (1) The consent of a Minister of the Crown is required before any provision is made by the Welsh Ministers acting alone in regulations under section 1(1) or 2(1) so far as that provision, if contained in an Act of Senedd Cymru, would require the consent of a Minister of the Crown.
 
 (2) The consent of the Secretary of State is required before any provision is made by a Northern Ireland department acting alone in regulations under section 1(1) or 2(1) so far as that provision, if contained in an Act of the Northern Ireland Assembly, would require the consent of the Secretary of State.
 
@@ -515,7 +515,7 @@ would require the consent of a Minister of the Crown.
 
 ### Requirement for joint exercise where it would otherwise be required
 
-**4.**[^key-dcc42bc1dffa7e159d5db6411aa2c751] (1) No regulations may be made under section 1(1) or 2(1) by the Scottish Ministers, so far as they contain provision which relates to a matter in respect of which a power to make subordinate legislation otherwise than under this Act is exercisable by—
+**4.**[^c-dcc42bc1dffa7e159d5db6411aa2c751] (1) No regulations may be made under section 1(1) or 2(1) by the Scottish Ministers, so far as they contain provision which relates to a matter in respect of which a power to make subordinate legislation otherwise than under this Act is exercisable by—
 
 - (a) the Scottish Ministers acting jointly with a Minister of the Crown, or
 - (b) the First Minister or Lord Advocate acting jointly with a Minister of the Crown,
@@ -541,7 +541,7 @@ unless the regulations are, to that extent, made jointly with the Minister of th
 
 ### Requirement for consultation where it would otherwise be required
 
-**5.**[^key-c977eb38e7d3946a85aeeca2be475104] (1) No regulations may be made under section 1(1) or 2(1) by the Welsh Ministers acting alone, so far as they contain provision which, if contained in an Act of Senedd Cymru, would require consultation with a Minister of the Crown, unless the regulations are, to that extent, made after consulting with the Minister of the Crown.
+**5.**[^c-c977eb38e7d3946a85aeeca2be475104] (1) No regulations may be made under section 1(1) or 2(1) by the Welsh Ministers acting alone, so far as they contain provision which, if contained in an Act of Senedd Cymru, would require consultation with a Minister of the Crown, unless the regulations are, to that extent, made after consulting with the Minister of the Crown.
 
 (2) No regulations may be made under section 1(1) or 2(1) by the Scottish Ministers acting alone, so far as they contain provision which relates to a matter in respect of which a power to make subordinate legislation otherwise than under this Act is exercisable by the Scottish Ministers, the First Minister or the Lord Advocate after consulting with a Minister of the Crown, unless the regulations are, to that extent, made after consulting with the Minister of the Crown.
 
@@ -564,29 +564,29 @@ unless the regulations are, to that extent, made jointly with the Minister of th
 
 ### Meaning of devolved competence
 
-**6.**[^key-afab1ef9fa622f21e2c9b69396832e9f] A provision is within the devolved competence of the Scottish Ministers if—
+**6.**[^c-afab1ef9fa622f21e2c9b69396832e9f] A provision is within the devolved competence of the Scottish Ministers if—
 
-- (a) it would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament [^key-b0d48565d12a3380e336ee2a23fd0d79]..., or
-- (b) it is provision which could be made in other subordinate legislation by the Scottish Ministers, the First Minister or the Lord Advocate [^key-1b6e9071cb5c9b290beb662c156a75b4]....
+- (a) it would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament [^c-b0d48565d12a3380e336ee2a23fd0d79]..., or
+- (b) it is provision which could be made in other subordinate legislation by the Scottish Ministers, the First Minister or the Lord Advocate [^c-1b6e9071cb5c9b290beb662c156a75b4]....
 
-**7.**[^key-18e78b8dd5d20d54592176b2bf375510] A provision is within the devolved competence of the Welsh Ministers if—
+**7.**[^c-18e78b8dd5d20d54592176b2bf375510] A provision is within the devolved competence of the Welsh Ministers if—
 
-- (a) it would be within the legislative competence of Senedd Cymru if it were contained in an Act of the Senedd ([^key-a25604c5c0510fca35dcbb38628000ea]... including any provision that could be made only with the consent of a Minister of the Crown), or
-- (b) it is provision which could be made in other subordinate legislation by the Welsh Ministers [^key-2532ec58fb91bb19a0221a450773cef4]....
+- (a) it would be within the legislative competence of Senedd Cymru if it were contained in an Act of the Senedd ([^c-a25604c5c0510fca35dcbb38628000ea]... including any provision that could be made only with the consent of a Minister of the Crown), or
+- (b) it is provision which could be made in other subordinate legislation by the Welsh Ministers [^c-2532ec58fb91bb19a0221a450773cef4]....
 
-**8.**[^key-a1792c6d563e030921c6053f4f6e39ab] A provision is within the devolved competence of a Northern Ireland department if—
+**8.**[^c-a1792c6d563e030921c6053f4f6e39ab] A provision is within the devolved competence of a Northern Ireland department if—
 
 - (a) the provision, if it were contained in an Act of the Northern Ireland Assembly—
-  - (i) would be within the legislative competence of the Assembly [^key-3a609ddf5d6e990b36480cbca6051b81]..., and
+  - (i) would be within the legislative competence of the Assembly [^c-3a609ddf5d6e990b36480cbca6051b81]..., and
   - (ii) would not require the consent of the Secretary of State,
 - (b) the provision—
   - (i) amends or repeals Northern Ireland legislation, and
-  - (ii) would, if it were contained in an Act of the Northern Ireland Assembly, be within the legislative competence of the Assembly [^key-fdb0b383cadbbbe87a156af8a0cdcc5c]... and require the consent of the Secretary of State, or
-- (c) the provision is provision which could be made in other subordinate legislation by any Northern Ireland devolved authority [^key-f552001242c6f0795f91c5b5b7c2a7b9]....
+  - (ii) would, if it were contained in an Act of the Northern Ireland Assembly, be within the legislative competence of the Assembly [^c-fdb0b383cadbbbe87a156af8a0cdcc5c]... and require the consent of the Secretary of State, or
+- (c) the provision is provision which could be made in other subordinate legislation by any Northern Ireland devolved authority [^c-f552001242c6f0795f91c5b5b7c2a7b9]....
 
 ### Meaning of “Northern Ireland devolved authority”
 
-**9.**[^key-acfdee26f21ea5e0a8dfd15f305f6033] In this Schedule, a “**Northern Ireland devolved authority**” means the First Minister and deputy First Minister in Northern Ireland acting jointly, a Northern Ireland Minister or a Northern Ireland department.
+**9.**[^c-acfdee26f21ea5e0a8dfd15f305f6033] In this Schedule, a “**Northern Ireland devolved authority**” means the First Minister and deputy First Minister in Northern Ireland acting jointly, a Northern Ireland Minister or a Northern Ireland department.
 
 ## SCHEDULE 2 — Regulations under Part 1
 
@@ -594,7 +594,7 @@ Section 4(3)
 
 ### PART 1 — Statutory instruments and statutory rules
 
-**1.**[^key-f5ba7b65ecdd827739253948ccf69388] (1) Any power to make regulations under Part 1 of this Act—
+**1.**[^c-f5ba7b65ecdd827739253948ccf69388] (1) Any power to make regulations under Part 1 of this Act—
 
 - (a) so far as exercisable by a Minister of the Crown acting alone or by a Minister of the Crown acting jointly with a devolved authority, is exercisable by statutory instrument,
 - (b) so far as exercisable by the Welsh Ministers acting alone, is exercisable by statutory instrument, and
@@ -606,7 +606,7 @@ Section 4(3)
 
 #### Scrutiny of regulations made by Minister of the Crown or devolved authority acting alone
 
-**2.**[^key-ba28ca8e706c23cd5ef43920025a1e52] (1) A statutory instrument containing regulations of a Minister of the Crown acting alone under section 1(1) is subject to annulment in pursuance of a resolution of either House of Parliament.
+**2.**[^c-ba28ca8e706c23cd5ef43920025a1e52] (1) A statutory instrument containing regulations of a Minister of the Crown acting alone under section 1(1) is subject to annulment in pursuance of a resolution of either House of Parliament.
 
 (2) Regulations of the Scottish Ministers acting alone under section 1(1) are subject to the negative procedure (see section 28 of the Interpretation and Legislative Reform (Scotland) Act 2010).
 
@@ -616,7 +616,7 @@ Section 4(3)
 
 #### Scrutiny of regulations made by Minister of the Crown and devolved authority acting jointly
 
-**3.**[^key-cd8b2f284ca1b78548d46b5d827c17a1] (1) This paragraph applies to regulations of a Minister of the Crown acting jointly with a devolved authority under section 1(1).
+**3.**[^c-cd8b2f284ca1b78548d46b5d827c17a1] (1) This paragraph applies to regulations of a Minister of the Crown acting jointly with a devolved authority under section 1(1).
 
 (2) The procedure provided for by sub-paragraph (3) applies in relation to regulations to which this paragraph applies as well as any other procedure provided for by this paragraph which is applicable in relation to the regulations concerned.
 
@@ -659,7 +659,7 @@ nothing further is to be done under the instrument after the date of the resolut
 
 #### Scrutiny of regulations made by Minister of the Crown or devolved authority acting alone
 
-**4.**[^key-5744a52df2774bf40ec081b1cd98099c] (1) A statutory instrument containing regulations of a Minister of the Crown acting alone under section 2(1) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+**4.**[^c-5744a52df2774bf40ec081b1cd98099c] (1) A statutory instrument containing regulations of a Minister of the Crown acting alone under section 2(1) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
 (2) Regulations of the Scottish Ministers acting alone under section 2(1) are subject to the affirmative procedure (see section 29 of the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)).
 
@@ -669,7 +669,7 @@ nothing further is to be done under the instrument after the date of the resolut
 
 #### Scrutiny of regulations made by Minister of the Crown and devolved authority acting jointly
 
-**5.**[^key-fabfdbc58cd5a58b2c967ebb54bb6d71] (1) This paragraph applies to regulations of a Minister of the Crown acting jointly with a devolved authority under section 2(1).
+**5.**[^c-fabfdbc58cd5a58b2c967ebb54bb6d71] (1) This paragraph applies to regulations of a Minister of the Crown acting jointly with a devolved authority under section 2(1).
 
 (2) The procedure provided for by sub-paragraph (3) applies in relation to regulations to which this paragraph applies as well as any other procedure provided for by this paragraph which is applicable in relation to the regulations concerned.
 
@@ -687,27 +687,27 @@ nothing further is to be done under the instrument after the date of the resolut
 
 ### PART 4 — Scrutiny of regulations under section 2(10)(b)
 
-**6.**[^key-4c17e6262b45e78b1ed2cd66745c5fcb] A statutory instrument containing regulations of the Secretary of State under section 2(10)(b) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+**6.**[^c-4c17e6262b45e78b1ed2cd66745c5fcb] A statutory instrument containing regulations of the Secretary of State under section 2(10)(b) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
 ## SCHEDULE 3 — Exceptions to restrictions in the devolution settlements
 
 Section 4(4)
 
-### ...[^key-08e22d7534cf12772e83053cb66079ed]
+### ...[^c-08e22d7534cf12772e83053cb66079ed]
 
-[^key-08e22d7534cf12772e83053cb66079ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08e22d7534cf12772e83053cb66079ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-08e22d7534cf12772e83053cb66079ed]
+### ...[^c-08e22d7534cf12772e83053cb66079ed]
 
-[^key-08e22d7534cf12772e83053cb66079ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08e22d7534cf12772e83053cb66079ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-08e22d7534cf12772e83053cb66079ed]
+### ...[^c-08e22d7534cf12772e83053cb66079ed]
 
-[^key-08e22d7534cf12772e83053cb66079ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08e22d7534cf12772e83053cb66079ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Transitional exception
 
-**4.**[^key-2b0ea76dffb910c6e23f493ba9dceb88] Section 57(2) of the Scotland Act 1998, section 80(8) of the Government of Wales Act 2006 and section 24(1)(b) of the Northern Ireland Act 1998, so far as relating to EU law, do not apply to the making of regulations under section 1(1) or 2(1).
+**4.**[^c-2b0ea76dffb910c6e23f493ba9dceb88] Section 57(2) of the Scotland Act 1998, section 80(8) of the Government of Wales Act 2006 and section 24(1)(b) of the Northern Ireland Act 1998, so far as relating to EU law, do not apply to the making of regulations under section 1(1) or 2(1).
 
 ## SCHEDULE 4 — The Trade Remedies Authority
 
@@ -715,7 +715,7 @@ Section 6(2)
 
 ### Status
 
-**1.**[^key-b41bf1d9c17e971aec411f5596bb48b4] (1) The TRA is not to be regarded—
+**1.**[^c-b41bf1d9c17e971aec411f5596bb48b4] (1) The TRA is not to be regarded—
 
 - (a) as the servant or agent of the Crown, or
 - (b) as enjoying any status, immunity or privilege of the Crown.
@@ -727,7 +727,7 @@ Section 6(2)
 
 ### Membership
 
-**2.**[^key-4f13a7114146e87b0c3994c2ddd36534] (1) The TRA is to consist of—
+**2.**[^c-4f13a7114146e87b0c3994c2ddd36534] (1) The TRA is to consist of—
 
 - (a) a Chair appointed by the Secretary of State,
 - (b) other non-executive members appointed by the Secretary of State,
@@ -742,68 +742,68 @@ Section 6(2)
 
 ### Terms of appointment and tenure of members
 
-**3.**[^key-75d1b892e027e9d49af0afde3a1ef6e4] A person holds and vacates office as a member of the TRA in accordance with the terms and conditions of the person's appointment.
+**3.**[^c-75d1b892e027e9d49af0afde3a1ef6e4] A person holds and vacates office as a member of the TRA in accordance with the terms and conditions of the person's appointment.
 
-**4.**[^key-c98cdc1c6ba9cb3ea1f7d1d45af379ba] The terms and conditions of a person's appointment as a non-executive member of the TRA are to be determined by the Secretary of State; but that is subject to the following provisions of this Schedule.
+**4.**[^c-c98cdc1c6ba9cb3ea1f7d1d45af379ba] The terms and conditions of a person's appointment as a non-executive member of the TRA are to be determined by the Secretary of State; but that is subject to the following provisions of this Schedule.
 
-**5.**[^key-51c6df727fee34794413841ab631233a] The terms and conditions of a person's appointment as an executive member of the TRA are to be determined by the Chair with the approval of the Secretary of State; but that is subject to the following provisions of this Schedule.
+**5.**[^c-51c6df727fee34794413841ab631233a] The terms and conditions of a person's appointment as an executive member of the TRA are to be determined by the Chair with the approval of the Secretary of State; but that is subject to the following provisions of this Schedule.
 
-**6.**[^key-4c386b8bcc7f11ba9aaed2f18a269b29] The terms and conditions of a person's appointment may cover, among other things—
+**6.**[^c-4c386b8bcc7f11ba9aaed2f18a269b29] The terms and conditions of a person's appointment may cover, among other things—
 
 - (a) the period for which the person is to hold office;
 - (b) the person's eligibility for re-appointment;
 - (c) circumstances in which a person's membership may be suspended.
 
-**7.**[^key-78a4efd12ccbdd59c4bda3921cad0b6c] A person may resign from office as a non-executive member of the TRA by notifying the Secretary of State.
+**7.**[^c-78a4efd12ccbdd59c4bda3921cad0b6c] A person may resign from office as a non-executive member of the TRA by notifying the Secretary of State.
 
-**8.**[^key-49869cc98029833b796962d8684aea67] A person may resign from office as an executive member of the TRA by notifying the Chair.
+**8.**[^c-49869cc98029833b796962d8684aea67] A person may resign from office as an executive member of the TRA by notifying the Chair.
 
-**9.**[^key-c4c5c4e18267ca655c84f4d87f92559b] The Secretary of State may remove a person from office as a non-executive member of the TRA if, in the opinion of the Secretary of State, the person is unable or unfit to carry out the functions of the office.
+**9.**[^c-c4c5c4e18267ca655c84f4d87f92559b] The Secretary of State may remove a person from office as a non-executive member of the TRA if, in the opinion of the Secretary of State, the person is unable or unfit to carry out the functions of the office.
 
-**10.**[^key-f5b1da1ef01edfd0effc19c345008b18] The Chair may remove a person from office as an executive member of the TRA if, in the opinion of the Chair, the person is unable or unfit to carry out the functions of the office.
+**10.**[^c-f5b1da1ef01edfd0effc19c345008b18] The Chair may remove a person from office as an executive member of the TRA if, in the opinion of the Chair, the person is unable or unfit to carry out the functions of the office.
 
 ### Remuneration of members
 
-**11.**[^key-d4f3db42c16da614e78cf36e19f3ce0d] The TRA must pay to non-executive members of the TRA such remuneration as the Secretary of State may determine.
+**11.**[^c-d4f3db42c16da614e78cf36e19f3ce0d] The TRA must pay to non-executive members of the TRA such remuneration as the Secretary of State may determine.
 
-**12.**[^key-24311ee7325961730e2393e3e9cf3917] The TRA must pay to executive members of the TRA such remuneration as the Chair may determine with the approval of the Secretary of State.
+**12.**[^c-24311ee7325961730e2393e3e9cf3917] The TRA must pay to executive members of the TRA such remuneration as the Chair may determine with the approval of the Secretary of State.
 
-**13.**[^key-47b79b15c9dc1fb79d3e5d51d92dc6ff] The TRA must pay, or make provision for paying, to or in respect of any person who is or has been a non-executive member of the TRA, such sums as the Secretary of State may determine in respect of allowances, expenses and gratuities.
+**13.**[^c-47b79b15c9dc1fb79d3e5d51d92dc6ff] The TRA must pay, or make provision for paying, to or in respect of any person who is or has been a non-executive member of the TRA, such sums as the Secretary of State may determine in respect of allowances, expenses and gratuities.
 
-**14.**[^key-1c314694cf216e5eebdbe59979e50410] The TRA must pay, or make provision for paying, to or in respect of any person who is or has been an executive member of the TRA, such sums as the Chair may determine with the approval of the Secretary of State in respect of pension, allowances, expenses and gratuities.
+**14.**[^c-1c314694cf216e5eebdbe59979e50410] The TRA must pay, or make provision for paying, to or in respect of any person who is or has been an executive member of the TRA, such sums as the Chair may determine with the approval of the Secretary of State in respect of pension, allowances, expenses and gratuities.
 
-**15.**[^key-1c5788dd10730e0c411b37411157799d] If a person ceases to be a non-executive member of the TRA and the Secretary of State determines that the person should be compensated because of special circumstances, the TRA must pay compensation of such amount as the Secretary of State may determine.
+**15.**[^c-1c5788dd10730e0c411b37411157799d] If a person ceases to be a non-executive member of the TRA and the Secretary of State determines that the person should be compensated because of special circumstances, the TRA must pay compensation of such amount as the Secretary of State may determine.
 
-**16.**[^key-7f82831477cd1107b679bb068d8fefe7] If a person ceases to be an executive member of the TRA and the Chair determines with the approval of the Secretary of State that the person should be compensated because of special circumstances, the TRA must pay compensation of such amount as the Chair may, with the approval of the Secretary of State, determine.
+**16.**[^c-7f82831477cd1107b679bb068d8fefe7] If a person ceases to be an executive member of the TRA and the Chair determines with the approval of the Secretary of State that the person should be compensated because of special circumstances, the TRA must pay compensation of such amount as the Chair may, with the approval of the Secretary of State, determine.
 
 ### A chief executive appointed by the Secretary of State
 
-**17.**[^key-6d9cdbfbf988645caeb4c49df47d2b77] Paragraphs 18 to 23 apply in respect of a person who is appointed as chief executive by the Secretary of State under paragraph 2(1)(c).
+**17.**[^c-6d9cdbfbf988645caeb4c49df47d2b77] Paragraphs 18 to 23 apply in respect of a person who is appointed as chief executive by the Secretary of State under paragraph 2(1)(c).
 
-**18.**[^key-db222c2bd04398d3a448120b66fbbf52] The terms and conditions of a person's appointment as chief executive are to be determined by the Secretary of State; but that is subject to the other provisions of this Schedule.
+**18.**[^c-db222c2bd04398d3a448120b66fbbf52] The terms and conditions of a person's appointment as chief executive are to be determined by the Secretary of State; but that is subject to the other provisions of this Schedule.
 
-**19.**[^key-3d3dde3e187b3b24c4b13ebc0d90b9f2] If the first Chair has not been appointed, a person appointed as chief executive may resign from office by notifying the Secretary of State.
+**19.**[^c-3d3dde3e187b3b24c4b13ebc0d90b9f2] If the first Chair has not been appointed, a person appointed as chief executive may resign from office by notifying the Secretary of State.
 
-**20.**[^key-4c83fc527bba83eb8af6407db0b5f4d1] The Secretary of State may remove a person from office as the chief executive if—
+**20.**[^c-4c83fc527bba83eb8af6407db0b5f4d1] The Secretary of State may remove a person from office as the chief executive if—
 
 - (a) the first Chair has not been appointed, and
 - (b) in the opinion of the Secretary of State, the person is unable or unfit to carry out the functions of the office.
 
-**21.**[^key-5958b2ad807f9fd0b1b3b17f74466bfe] The TRA must pay to a person appointed as chief executive—
+**21.**[^c-5958b2ad807f9fd0b1b3b17f74466bfe] The TRA must pay to a person appointed as chief executive—
 
 - (a) such remuneration as the Secretary of State may determine, or
 - (b) following the appointment of the first Chair, such remuneration as the Chair may determine with the approval of the Secretary of State.
 
-**22.**[^key-179e7200ca13e57be3f5e43352a53c36] The TRA must pay, or make provision for paying, to or in respect of a person who is or has been the chief executive—
+**22.**[^c-179e7200ca13e57be3f5e43352a53c36] The TRA must pay, or make provision for paying, to or in respect of a person who is or has been the chief executive—
 
 - (a) such sums in respect of pension, allowances, expenses and gratuities as the Secretary of State may determine, or
 - (b) following appointment of the first Chair, such sums in respect of pension, allowances, expenses and gratuities as the Chair may determine with the approval of the Secretary of State.
 
-**23.**[^key-e29b2823dfc1899d03d44b78beec5184] If a person ceases to be the chief executive of the TRA at a time when the first Chair has not been appointed and the Secretary of State determines that the person should be compensated because of special circumstances, the TRA must pay compensation of such amount as the Secretary of State may determine.
+**23.**[^c-e29b2823dfc1899d03d44b78beec5184] If a person ceases to be the chief executive of the TRA at a time when the first Chair has not been appointed and the Secretary of State determines that the person should be compensated because of special circumstances, the TRA must pay compensation of such amount as the Secretary of State may determine.
 
 ### Staffing of the TRA
 
-**24.**[^key-c1b03f04e479d210eb64c5182ffcc000] (1) The TRA may—
+**24.**[^c-c1b03f04e479d210eb64c5182ffcc000] (1) The TRA may—
 
 - (a) appoint employees, and
 - (b) make such other arrangements for the staffing of the TRA as it considers appropriate.
@@ -822,7 +822,7 @@ Section 6(2)
 
 ### Committees
 
-**25.**[^key-3d177666754961359f80d5f1f70a331e] (1) The TRA may establish committees, and any committee so established may establish sub-committees.
+**25.**[^c-3d177666754961359f80d5f1f70a331e] (1) The TRA may establish committees, and any committee so established may establish sub-committees.
 
 (2) A committee or sub-committee so established is referred to in this Schedule as a “**TRA committee**”.
 
@@ -840,13 +840,13 @@ Section 6(2)
 
 ### Procedure
 
-**26.**[^key-2cee11cb463ffa97c129ef8138dca900] The TRA may determine its own procedure and the procedure of any TRA committee (including quorum).
+**26.**[^c-2cee11cb463ffa97c129ef8138dca900] The TRA may determine its own procedure and the procedure of any TRA committee (including quorum).
 
-**27.**[^key-0c1d76e5fe07fde0b01c4d532116c155] The validity of any proceedings of the TRA is not affected by a vacancy or defective appointment.
+**27.**[^c-0c1d76e5fe07fde0b01c4d532116c155] The validity of any proceedings of the TRA is not affected by a vacancy or defective appointment.
 
 ### Delegation of functions
 
-**28.**[^key-25cb5b9dc7b75ebbd7b7829f2c09b511] (1) The TRA may delegate any of its functions to—
+**28.**[^c-25cb5b9dc7b75ebbd7b7829f2c09b511] (1) The TRA may delegate any of its functions to—
 
 - (a) a member of the TRA,
 - (b) an employee, or other member of staff, authorised for that purpose, or
@@ -860,11 +860,11 @@ Section 6(2)
 
 ### Funding
 
-**29.**[^key-bb6949e84d408fc158cf8eaa1161715a] The Secretary of State must pay to the TRA such sums as the Secretary of State considers appropriate for the purpose of enabling the TRA to perform its functions.
+**29.**[^c-bb6949e84d408fc158cf8eaa1161715a] The Secretary of State must pay to the TRA such sums as the Secretary of State considers appropriate for the purpose of enabling the TRA to perform its functions.
 
 ### Accounts and audit
 
-**30.**[^key-a476a71e915d57ca980d1330e1a0dccb] (1) The TRA must—
+**30.**[^c-a476a71e915d57ca980d1330e1a0dccb] (1) The TRA must—
 
 - (a) keep proper accounts and proper records in relation to them, and
 - (b) prepare a statement of accounts in respect of each financial year.
@@ -893,7 +893,7 @@ Section 6(2)
 
 ### Annual report
 
-**31.**[^key-aa72055186fccd6031e32d8f80f863ac] (1) The TRA must prepare a report on the performance of its functions during each financial year.
+**31.**[^c-aa72055186fccd6031e32d8f80f863ac] (1) The TRA must prepare a report on the performance of its functions during each financial year.
 
 (2) The report must include the statement of accounts in respect of that year.
 
@@ -905,7 +905,7 @@ Section 6(2)
 
 ### Seal and evidence
 
-**32.**[^key-3491b1168c254cf2bcfe15d9fc4f8893] (1) The application of the TRA's seal must be authenticated by the signature of—
+**32.**[^c-3491b1168c254cf2bcfe15d9fc4f8893] (1) The application of the TRA's seal must be authenticated by the signature of—
 
 - (a) a member of the TRA, or
 - (b) an employee of the TRA authorised for that purpose.
@@ -919,7 +919,7 @@ Section 6(2)
 
 ### Supplementary powers
 
-**33.**[^key-5abcd11836f3ac0765b69d0d38fcd97c] (1) The TRA may do anything which appears to it to be necessary or expedient for the purpose of, or in connection with, the performance of its functions.
+**33.**[^c-5abcd11836f3ac0765b69d0d38fcd97c] (1) The TRA may do anything which appears to it to be necessary or expedient for the purpose of, or in connection with, the performance of its functions.
 
 (2) Under sub-paragraph (1), the TRA may among other things—
 
@@ -929,7 +929,7 @@ Section 6(2)
 
 ### Guidance
 
-**34.**[^key-8f32ef9fa230481fc4bd28d8e769c3ce] (1) In performing its functions, the TRA must have regard to guidance published by the Secretary of State.
+**34.**[^c-8f32ef9fa230481fc4bd28d8e769c3ce] (1) In performing its functions, the TRA must have regard to guidance published by the Secretary of State.
 
 (2) Sub-paragraph (1) does not apply in respect of an ongoing trade remedies investigation if the guidance is published during that investigation.
 
@@ -944,37 +944,37 @@ Section 6(2)
 
 ### Public records
 
-**35.**[^key-f525ef831e568bd8490a4fc7d8bdc0ff] In Part 2 of the Table in paragraph 3 of Schedule 1 to the Public Records Act 1958 (definition of public records), at the appropriate place insert— “ Trade Remedies Authority. ”
+**35.**[^c-f525ef831e568bd8490a4fc7d8bdc0ff] In Part 2 of the Table in paragraph 3 of Schedule 1 to the Public Records Act 1958 (definition of public records), at the appropriate place insert— “ Trade Remedies Authority. ”
 
 ### Investigation by the Parliamentary Commissioner
 
-**36.**[^key-6b84069c7d5509e2572cba8b5122c266] In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments subject to investigation), at the appropriate place insert— “ Trade Remedies Authority. ”
+**36.**[^c-6b84069c7d5509e2572cba8b5122c266] In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments subject to investigation), at the appropriate place insert— “ Trade Remedies Authority. ”
 
 ### House of Commons disqualification
 
-**37.**[^key-5cd31dd0800aae30e40ccde01704ae1d] In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (bodies of which members are disqualified), at the appropriate place insert— “ The Trade Remedies Authority. ”
+**37.**[^c-5cd31dd0800aae30e40ccde01704ae1d] In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (bodies of which members are disqualified), at the appropriate place insert— “ The Trade Remedies Authority. ”
 
 ### Northern Ireland Assembly disqualification
 
-**38.**[^key-c822a6f524909cb280831245fa0da6aa] In Part 2 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (bodies of which members are disqualified), at the appropriate place insert— “ The Trade Remedies Authority. ”
+**38.**[^c-c822a6f524909cb280831245fa0da6aa] In Part 2 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (bodies of which members are disqualified), at the appropriate place insert— “ The Trade Remedies Authority. ”
 
 ### Freedom of information
 
-**39.**[^key-799c136fa060c2525e920be80b898a1f] In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (public authorities to which this Act applies), at the appropriate place insert— “ The Trade Remedies Authority. ”
+**39.**[^c-799c136fa060c2525e920be80b898a1f] In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (public authorities to which this Act applies), at the appropriate place insert— “ The Trade Remedies Authority. ”
 
 ### Public sector equality duty
 
-**40.**[^key-1d98f88fc5ed22bbff01b0d9bc12ebb0] In Part 1 of Schedule 19 to the Equality Act 2010 (authorities subject to the public sector equality duty), in the group of entries under the heading “Industry, Business, Finance etc”, at the appropriate place insert— “ The Trade Remedies Authority. ”
+**40.**[^c-1d98f88fc5ed22bbff01b0d9bc12ebb0] In Part 1 of Schedule 19 to the Equality Act 2010 (authorities subject to the public sector equality duty), in the group of entries under the heading “Industry, Business, Finance etc”, at the appropriate place insert— “ The Trade Remedies Authority. ”
 
 ## SCHEDULE 5 — Transfer schemes
 
 Section 6(3)
 
-**1.**[^key-9bd38b9ecc11e1d86b9d9b9bc0840fbb] (1) The Secretary of State may make one or more staff transfer schemes in connection with the establishment of the TRA by this Act.
+**1.**[^c-9bd38b9ecc11e1d86b9d9b9bc0840fbb] (1) The Secretary of State may make one or more staff transfer schemes in connection with the establishment of the TRA by this Act.
 
 (2) A “staff transfer scheme” is a scheme providing for the transfer from the Secretary of State to the TRA of any rights or liabilities under or in connection with a contract of employment.
 
-**2.**[^key-29d7fcb9fb0fb0977179c99791176d2b] (1) A staff transfer scheme may, among other things, make provision—
+**2.**[^c-29d7fcb9fb0fb0977179c99791176d2b] (1) A staff transfer scheme may, among other things, make provision—
 
 - (a) for the transfer of rights and liabilities that could not otherwise be transferred;
 - (b) for the transfer of rights and liabilities arising after the making of the scheme;
@@ -990,7 +990,7 @@ Section 6(3)
 - (a) for the scheme to be modified by agreement after it comes into effect, and
 - (b) for any such modifications to have effect from the date when the original scheme comes into effect.
 
-**3.**[^key-282267edd9e736b3cad020b3fa51453f] For the purposes of this Schedule—
+**3.**[^c-282267edd9e736b3cad020b3fa51453f] For the purposes of this Schedule—
 
 - (a) an individual who holds employment in the civil service of the State is to be treated as employed by virtue of a contract of employment, and
 - (b) the terms of the individual's employment in the civil service of the State are to be regarded as constituting the terms of the contract of employment.
@@ -1051,176 +1051,176 @@ Section 10(4)
 
 ## Annotations
 
-[^key-2d1d71e0712a4a639223ab581fa8c933]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/10/section/1) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/a)
+[^c-2d1d71e0712a4a639223ab581fa8c933]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/10/section/1) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/a)
 
-[^key-f43d7c6f4310a45e9fcb4699b7ea6d1f]: Textual amendment: Words in [s. 1(3)](https://www.legislation.gov.uk/ukpga/2021/10/section/1/3) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 98(2)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/98/2)
+[^c-f43d7c6f4310a45e9fcb4699b7ea6d1f]: Textual amendment: Words in [s. 1(3)](https://www.legislation.gov.uk/ukpga/2021/10/section/1/3) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 98(2)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/98/2)
 
-[^key-9e0e6ff05f74a7776a0b0981133a6f10]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/10/section/2) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/b)
+[^c-9e0e6ff05f74a7776a0b0981133a6f10]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/10/section/2) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/b)
 
-[^key-2dad02ce5467f5285869042a9dac3958]: Textual amendment: Words in [s. 2(9)](https://www.legislation.gov.uk/ukpga/2021/10/section/2/9) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 98(3)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/98/3/a)
+[^c-2dad02ce5467f5285869042a9dac3958]: Textual amendment: Words in [s. 2(9)](https://www.legislation.gov.uk/ukpga/2021/10/section/2/9) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 98(3)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/98/3/a)
 
-[^key-5214376980fbd04936b3e6cf8923a61b]: Textual amendment: Word in [s. 2(9)](https://www.legislation.gov.uk/ukpga/2021/10/section/2/9) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 98(3)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/98/3/b)
+[^c-5214376980fbd04936b3e6cf8923a61b]: Textual amendment: Word in [s. 2(9)](https://www.legislation.gov.uk/ukpga/2021/10/section/2/9) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 98(3)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/98/3/b)
 
-[^key-4560b5524c48182b4f7dd20c6e7a3cb3]: Textual amendment: Words in [s. 2(12)](https://www.legislation.gov.uk/ukpga/2021/10/section/2/12) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 98(3)(c)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/98/3/c)
+[^c-4560b5524c48182b4f7dd20c6e7a3cb3]: Textual amendment: Words in [s. 2(12)](https://www.legislation.gov.uk/ukpga/2021/10/section/2/12) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 98(3)(c)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/98/3/c)
 
-[^key-716b948e7af100bb64bf6a40fe70b589]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/10/section/3) in force at 30.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2021/550/regulation/4/a)
+[^c-716b948e7af100bb64bf6a40fe70b589]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/10/section/3) in force at 30.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2021/550/regulation/4/a)
 
-[^key-9b43137a51793eb14f17572160cc1241]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/10/section/4) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/c)
+[^c-9b43137a51793eb14f17572160cc1241]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/10/section/4) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/c)
 
-[^key-ada854a38455f87eac45e65f1a1f58b2]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2021/10/section/5) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/d)
+[^c-ada854a38455f87eac45e65f1a1f58b2]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2021/10/section/5) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/d)
 
-[^key-a9160bf37524e0610112debad82f38f9]: Textual amendment: Words in [s. 5(4)](https://www.legislation.gov.uk/ukpga/2021/10/section/5/4) omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 98(4)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/98/4)
+[^c-a9160bf37524e0610112debad82f38f9]: Textual amendment: Words in [s. 5(4)](https://www.legislation.gov.uk/ukpga/2021/10/section/5/4) omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 98(4)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/98/4)
 
-[^key-f3feb8cc8c668e382c79443282abf8ea]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/ukpga/2021/10/section/6/1)[(2)](https://www.legislation.gov.uk/ukpga/2021/10/section/6/2) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/a)
+[^c-f3feb8cc8c668e382c79443282abf8ea]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/ukpga/2021/10/section/6/1)[(2)](https://www.legislation.gov.uk/ukpga/2021/10/section/6/2) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/a)
 
-[^key-b2c70a5f41b77d7e5ea504704a5a3e36]: Commencement: [S. 6(3)](https://www.legislation.gov.uk/ukpga/2021/10/section/6/3) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/e)
+[^c-b2c70a5f41b77d7e5ea504704a5a3e36]: Commencement: [S. 6(3)](https://www.legislation.gov.uk/ukpga/2021/10/section/6/3) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/e)
 
-[^key-64f5213003a9b07871bb317f79007a73]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2021/10/section/7) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/b)
+[^c-64f5213003a9b07871bb317f79007a73]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2021/10/section/7) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/b)
 
-[^key-5542993abc11a305ee1adaab351bd3ef]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2021/10/section/12) in force at 30.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2021/550/regulation/4/b)
+[^c-5542993abc11a305ee1adaab351bd3ef]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2021/10/section/12) in force at 30.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2021/550/regulation/4/b)
 
-[^key-45ca7cea99e03250b1b2e5d3bb17db32]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2021/10/section/13) in force at 30.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/4/c)
+[^c-45ca7cea99e03250b1b2e5d3bb17db32]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2021/10/section/13) in force at 30.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/4/c)
 
-[^key-76a0265e71f3f4921f7a3f8f40af82b3]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2021/10/section/14) in force at 30.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2021/550/regulation/4/d)
+[^c-76a0265e71f3f4921f7a3f8f40af82b3]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2021/10/section/14) in force at 30.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2021/550/regulation/4/d)
 
-[^key-fd70bb20d9a0d27fb8912d98bfeb5d9a]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2021/10/section/15) in force at 30.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2021/550/regulation/4/e)
+[^c-fd70bb20d9a0d27fb8912d98bfeb5d9a]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2021/10/section/15) in force at 30.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2021/550/regulation/4/e)
 
-[^key-44bfbc4a30b870171db7c7e6d1016540]: Textual amendment: Words in [s. 15(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2021/10/section/15/4/b/i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-44bfbc4a30b870171db7c7e6d1016540]: Textual amendment: Words in [s. 15(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2021/10/section/15/4/b/i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-925455e753bd830ea7c098946dfb8413]: Textual amendment: Words in [s. 15(5)](https://www.legislation.gov.uk/ukpga/2021/10/section/15/5) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-925455e753bd830ea7c098946dfb8413]: Textual amendment: Words in [s. 15(5)](https://www.legislation.gov.uk/ukpga/2021/10/section/15/5) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-b36515184bed90913ddcbbef7e082bfa]: Textual amendment: Words in [s. 15(5)](https://www.legislation.gov.uk/ukpga/2021/10/section/15/5) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-b36515184bed90913ddcbbef7e082bfa]: Textual amendment: Words in [s. 15(5)](https://www.legislation.gov.uk/ukpga/2021/10/section/15/5) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-01b2a08c45556a72e70f1d46111f5b26]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/1) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/f)
+[^c-01b2a08c45556a72e70f1d46111f5b26]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/1) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/f)
 
-[^key-5e4488c504f02ca9e713d97cc27b6a62]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/2) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/f)
+[^c-5e4488c504f02ca9e713d97cc27b6a62]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/2) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/f)
 
-[^key-611bf500f909cdc8e372353af507df21]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/3) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/f)
+[^c-611bf500f909cdc8e372353af507df21]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/3) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/f)
 
-[^key-dcc42bc1dffa7e159d5db6411aa2c751]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/4) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/f)
+[^c-dcc42bc1dffa7e159d5db6411aa2c751]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/4) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/f)
 
-[^key-c977eb38e7d3946a85aeeca2be475104]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/5) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/f)
+[^c-c977eb38e7d3946a85aeeca2be475104]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/5) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/f)
 
-[^key-afab1ef9fa622f21e2c9b69396832e9f]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/6) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/f)
+[^c-afab1ef9fa622f21e2c9b69396832e9f]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/6) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/f)
 
-[^key-b0d48565d12a3380e336ee2a23fd0d79]: Textual amendment: Words in [Sch. 1 para. 6(a)](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/6/a) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [9(2)(a)(i)](https://www.legislation.gov.uk/uksi/2022/357/regulation/9/2/a/i)
+[^c-b0d48565d12a3380e336ee2a23fd0d79]: Textual amendment: Words in [Sch. 1 para. 6(a)](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/6/a) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [9(2)(a)(i)](https://www.legislation.gov.uk/uksi/2022/357/regulation/9/2/a/i)
 
-[^key-1b6e9071cb5c9b290beb662c156a75b4]: Textual amendment: Words in [Sch. 1 para. 6(b)](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/6/b) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [9(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/357/regulation/9/2/a/ii)
+[^c-1b6e9071cb5c9b290beb662c156a75b4]: Textual amendment: Words in [Sch. 1 para. 6(b)](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/6/b) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [9(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/357/regulation/9/2/a/ii)
 
-[^key-18e78b8dd5d20d54592176b2bf375510]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/7) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/f)
+[^c-18e78b8dd5d20d54592176b2bf375510]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/7) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/f)
 
-[^key-a25604c5c0510fca35dcbb38628000ea]: Textual amendment: Words in [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/7/a) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [9(2)(b)(i)](https://www.legislation.gov.uk/uksi/2022/357/regulation/9/2/b/i)
+[^c-a25604c5c0510fca35dcbb38628000ea]: Textual amendment: Words in [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/7/a) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [9(2)(b)(i)](https://www.legislation.gov.uk/uksi/2022/357/regulation/9/2/b/i)
 
-[^key-2532ec58fb91bb19a0221a450773cef4]: Textual amendment: Words in [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/7/b) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [9(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/357/regulation/9/2/b/ii)
+[^c-2532ec58fb91bb19a0221a450773cef4]: Textual amendment: Words in [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/7/b) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [9(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/357/regulation/9/2/b/ii)
 
-[^key-a1792c6d563e030921c6053f4f6e39ab]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/8) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/f)
+[^c-a1792c6d563e030921c6053f4f6e39ab]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/8) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/f)
 
-[^key-3a609ddf5d6e990b36480cbca6051b81]: Textual amendment: Words in [Sch. 1 para. 8(a)(i)](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/8/a/i) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [9(2)(c)](https://www.legislation.gov.uk/uksi/2022/357/regulation/9/2/c)
+[^c-3a609ddf5d6e990b36480cbca6051b81]: Textual amendment: Words in [Sch. 1 para. 8(a)(i)](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/8/a/i) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [9(2)(c)](https://www.legislation.gov.uk/uksi/2022/357/regulation/9/2/c)
 
-[^key-fdb0b383cadbbbe87a156af8a0cdcc5c]: Textual amendment: Words in [Sch. 1 para. 8(b)(ii)](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/8/b/ii) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [9(2)(c)](https://www.legislation.gov.uk/uksi/2022/357/regulation/9/2/c)
+[^c-fdb0b383cadbbbe87a156af8a0cdcc5c]: Textual amendment: Words in [Sch. 1 para. 8(b)(ii)](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/8/b/ii) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [9(2)(c)](https://www.legislation.gov.uk/uksi/2022/357/regulation/9/2/c)
 
-[^key-f552001242c6f0795f91c5b5b7c2a7b9]: Textual amendment: Words in [Sch. 1 para. 8(c)](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/8/c) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [9(2)(c)](https://www.legislation.gov.uk/uksi/2022/357/regulation/9/2/c)
+[^c-f552001242c6f0795f91c5b5b7c2a7b9]: Textual amendment: Words in [Sch. 1 para. 8(c)](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/8/c) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [9(2)(c)](https://www.legislation.gov.uk/uksi/2022/357/regulation/9/2/c)
 
-[^key-acfdee26f21ea5e0a8dfd15f305f6033]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/9) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/f)
+[^c-acfdee26f21ea5e0a8dfd15f305f6033]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2021/10/schedule/1/paragraph/9) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/f)
 
-[^key-f5ba7b65ecdd827739253948ccf69388]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2021/10/schedule/2/paragraph/1) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/g)
+[^c-f5ba7b65ecdd827739253948ccf69388]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2021/10/schedule/2/paragraph/1) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/g)
 
-[^key-ba28ca8e706c23cd5ef43920025a1e52]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2021/10/schedule/2/paragraph/2) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/g)
+[^c-ba28ca8e706c23cd5ef43920025a1e52]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2021/10/schedule/2/paragraph/2) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/g)
 
-[^key-cd8b2f284ca1b78548d46b5d827c17a1]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2021/10/schedule/2/paragraph/3) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/g)
+[^c-cd8b2f284ca1b78548d46b5d827c17a1]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2021/10/schedule/2/paragraph/3) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/g)
 
-[^key-5744a52df2774bf40ec081b1cd98099c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2021/10/schedule/2/paragraph/4) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/g)
+[^c-5744a52df2774bf40ec081b1cd98099c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2021/10/schedule/2/paragraph/4) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/g)
 
-[^key-fabfdbc58cd5a58b2c967ebb54bb6d71]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2021/10/schedule/2/paragraph/5) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/g)
+[^c-fabfdbc58cd5a58b2c967ebb54bb6d71]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2021/10/schedule/2/paragraph/5) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/g)
 
-[^key-4c17e6262b45e78b1ed2cd66745c5fcb]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2021/10/schedule/2/paragraph/6) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/g)
+[^c-4c17e6262b45e78b1ed2cd66745c5fcb]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2021/10/schedule/2/paragraph/6) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/g)
 
-[^key-08e22d7534cf12772e83053cb66079ed]: Textual amendment: [Sch. 3 paras. 1-3 and cross-headings](https://www.legislation.gov.uk/ukpga/2021/10/schedule/3/crossheading/northern-ireland-act-1998) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2022/357/regulation/9/3)
+[^c-08e22d7534cf12772e83053cb66079ed]: Textual amendment: [Sch. 3 paras. 1-3 and cross-headings](https://www.legislation.gov.uk/ukpga/2021/10/schedule/3/crossheading/northern-ireland-act-1998) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2022/357/regulation/9/3)
 
-[^key-2b0ea76dffb910c6e23f493ba9dceb88]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2021/10/schedule/3/paragraph/4) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/h)
+[^c-2b0ea76dffb910c6e23f493ba9dceb88]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2021/10/schedule/3/paragraph/4) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/h)
 
-[^key-b41bf1d9c17e971aec411f5596bb48b4]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/1) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-b41bf1d9c17e971aec411f5596bb48b4]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/1) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-4f13a7114146e87b0c3994c2ddd36534]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/2) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-4f13a7114146e87b0c3994c2ddd36534]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/2) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-75d1b892e027e9d49af0afde3a1ef6e4]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/3) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-75d1b892e027e9d49af0afde3a1ef6e4]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/3) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-c98cdc1c6ba9cb3ea1f7d1d45af379ba]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/4) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-c98cdc1c6ba9cb3ea1f7d1d45af379ba]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/4) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-51c6df727fee34794413841ab631233a]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/5) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-51c6df727fee34794413841ab631233a]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/5) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-4c386b8bcc7f11ba9aaed2f18a269b29]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/6) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-4c386b8bcc7f11ba9aaed2f18a269b29]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/6) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-78a4efd12ccbdd59c4bda3921cad0b6c]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/7) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-78a4efd12ccbdd59c4bda3921cad0b6c]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/7) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-49869cc98029833b796962d8684aea67]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/8) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-49869cc98029833b796962d8684aea67]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/8) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-c4c5c4e18267ca655c84f4d87f92559b]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/9) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-c4c5c4e18267ca655c84f4d87f92559b]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/9) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-f5b1da1ef01edfd0effc19c345008b18]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/10) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-f5b1da1ef01edfd0effc19c345008b18]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/10) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-d4f3db42c16da614e78cf36e19f3ce0d]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/11) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-d4f3db42c16da614e78cf36e19f3ce0d]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/11) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-24311ee7325961730e2393e3e9cf3917]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/12) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-24311ee7325961730e2393e3e9cf3917]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/12) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-47b79b15c9dc1fb79d3e5d51d92dc6ff]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/13) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-47b79b15c9dc1fb79d3e5d51d92dc6ff]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/13) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-1c314694cf216e5eebdbe59979e50410]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/14) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-1c314694cf216e5eebdbe59979e50410]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/14) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-1c5788dd10730e0c411b37411157799d]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/15) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-1c5788dd10730e0c411b37411157799d]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/15) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-7f82831477cd1107b679bb068d8fefe7]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/16) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-7f82831477cd1107b679bb068d8fefe7]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/16) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-6d9cdbfbf988645caeb4c49df47d2b77]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/17) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-6d9cdbfbf988645caeb4c49df47d2b77]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/17) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-db222c2bd04398d3a448120b66fbbf52]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/18) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-db222c2bd04398d3a448120b66fbbf52]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/18) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-3d3dde3e187b3b24c4b13ebc0d90b9f2]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/19) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-3d3dde3e187b3b24c4b13ebc0d90b9f2]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/19) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-4c83fc527bba83eb8af6407db0b5f4d1]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/20) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-4c83fc527bba83eb8af6407db0b5f4d1]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/20) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-5958b2ad807f9fd0b1b3b17f74466bfe]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/21) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-5958b2ad807f9fd0b1b3b17f74466bfe]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/21) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-179e7200ca13e57be3f5e43352a53c36]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/22) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-179e7200ca13e57be3f5e43352a53c36]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/22) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-e29b2823dfc1899d03d44b78beec5184]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/23) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-e29b2823dfc1899d03d44b78beec5184]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/23) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-c1b03f04e479d210eb64c5182ffcc000]: Commencement: [Sch. 4 para. 24](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/24) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-c1b03f04e479d210eb64c5182ffcc000]: Commencement: [Sch. 4 para. 24](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/24) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-3d177666754961359f80d5f1f70a331e]: Commencement: [Sch. 4 para. 25](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/25) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-3d177666754961359f80d5f1f70a331e]: Commencement: [Sch. 4 para. 25](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/25) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-2cee11cb463ffa97c129ef8138dca900]: Commencement: [Sch. 4 para. 26](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/26) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-2cee11cb463ffa97c129ef8138dca900]: Commencement: [Sch. 4 para. 26](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/26) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-0c1d76e5fe07fde0b01c4d532116c155]: Commencement: [Sch. 4 para. 27](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/27) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-0c1d76e5fe07fde0b01c4d532116c155]: Commencement: [Sch. 4 para. 27](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/27) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-25cb5b9dc7b75ebbd7b7829f2c09b511]: Commencement: [Sch. 4 para. 28](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/28) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-25cb5b9dc7b75ebbd7b7829f2c09b511]: Commencement: [Sch. 4 para. 28](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/28) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-bb6949e84d408fc158cf8eaa1161715a]: Commencement: [Sch. 4 para. 29](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/29) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-bb6949e84d408fc158cf8eaa1161715a]: Commencement: [Sch. 4 para. 29](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/29) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-a476a71e915d57ca980d1330e1a0dccb]: Commencement: [Sch. 4 para. 30](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/30) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-a476a71e915d57ca980d1330e1a0dccb]: Commencement: [Sch. 4 para. 30](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/30) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-aa72055186fccd6031e32d8f80f863ac]: Commencement: [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/31) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-aa72055186fccd6031e32d8f80f863ac]: Commencement: [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/31) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-3491b1168c254cf2bcfe15d9fc4f8893]: Commencement: [Sch. 4 para. 32](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/32) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-3491b1168c254cf2bcfe15d9fc4f8893]: Commencement: [Sch. 4 para. 32](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/32) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-5abcd11836f3ac0765b69d0d38fcd97c]: Commencement: [Sch. 4 para. 33](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/33) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-5abcd11836f3ac0765b69d0d38fcd97c]: Commencement: [Sch. 4 para. 33](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/33) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-8f32ef9fa230481fc4bd28d8e769c3ce]: Commencement: [Sch. 4 para. 34](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/34) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-8f32ef9fa230481fc4bd28d8e769c3ce]: Commencement: [Sch. 4 para. 34](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/34) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-f525ef831e568bd8490a4fc7d8bdc0ff]: Commencement: [Sch. 4 para. 35](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/35) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-f525ef831e568bd8490a4fc7d8bdc0ff]: Commencement: [Sch. 4 para. 35](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/35) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-6b84069c7d5509e2572cba8b5122c266]: Commencement: [Sch. 4 para. 36](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/36) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-6b84069c7d5509e2572cba8b5122c266]: Commencement: [Sch. 4 para. 36](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/36) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-5cd31dd0800aae30e40ccde01704ae1d]: Commencement: [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/37) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-5cd31dd0800aae30e40ccde01704ae1d]: Commencement: [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/37) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-c822a6f524909cb280831245fa0da6aa]: Commencement: [Sch. 4 para. 38](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/38) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-c822a6f524909cb280831245fa0da6aa]: Commencement: [Sch. 4 para. 38](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/38) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-799c136fa060c2525e920be80b898a1f]: Commencement: [Sch. 4 para. 39](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/39) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-799c136fa060c2525e920be80b898a1f]: Commencement: [Sch. 4 para. 39](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/39) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-1d98f88fc5ed22bbff01b0d9bc12ebb0]: Commencement: [Sch. 4 para. 40](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/40) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
+[^c-1d98f88fc5ed22bbff01b0d9bc12ebb0]: Commencement: [Sch. 4 para. 40](https://www.legislation.gov.uk/ukpga/2021/10/schedule/4/paragraph/40) in force at 1.6.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/550/regulation/3/c)
 
-[^key-9bd38b9ecc11e1d86b9d9b9bc0840fbb]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2021/10/schedule/5/paragraph/1) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/i)
+[^c-9bd38b9ecc11e1d86b9d9b9bc0840fbb]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2021/10/schedule/5/paragraph/1) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/i)
 
-[^key-29d7fcb9fb0fb0977179c99791176d2b]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2021/10/schedule/5/paragraph/2) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/i)
+[^c-29d7fcb9fb0fb0977179c99791176d2b]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2021/10/schedule/5/paragraph/2) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/i)
 
-[^key-282267edd9e736b3cad020b3fa51453f]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2021/10/schedule/5/paragraph/3) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/i)
+[^c-282267edd9e736b3cad020b3fa51453f]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2021/10/schedule/5/paragraph/3) in force at 6.5.2021 by [S.I. 2021/550](https://www.legislation.gov.uk/uksi/2021/550), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/550/regulation/2/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Accounting for activity in the VCTS[^key-880c540d85d55986e46de61031861659]
+## 70. Accounting for activity in the VCTS[^c-880c540d85d55986e46de61031861659]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-880c540d85d55986e46de61031861659]: Commencement: Art. 70 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-880c540d85d55986e46de61031861659]: Commencement: Art. 70 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

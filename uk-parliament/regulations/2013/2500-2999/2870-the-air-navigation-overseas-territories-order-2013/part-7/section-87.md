@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Exits – commercial air transport aircraft[^key-44a5462e624227174569a6ee8fc45dcb]
+## 87. Exits – commercial air transport aircraft[^c-44a5462e624227174569a6ee8fc45dcb]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44a5462e624227174569a6ee8fc45dcb]: Commencement: [Art. 87](https://www.legislation.gov.uk/uksi/2013/2870/article/87) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-44a5462e624227174569a6ee8fc45dcb]: Commencement: [Art. 87](https://www.legislation.gov.uk/uksi/2013/2870/article/87) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

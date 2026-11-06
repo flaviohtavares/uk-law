@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2B. Meaning of “UK-connected cryptoasset service provider”[^key-525c18b101d8e281b6839e5619023780]
+## 2B. Meaning of “UK-connected cryptoasset service provider”[^c-525c18b101d8e281b6839e5619023780]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-525c18b101d8e281b6839e5619023780]: Textual amendment: [Arts. 2A](https://www.legislation.gov.uk/uksi/2005/3181/article/2A), [2B](https://www.legislation.gov.uk/uksi/2005/3181/article/2B) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/1127/article/5)
+[^c-525c18b101d8e281b6839e5619023780]: Textual amendment: [Arts. 2A](https://www.legislation.gov.uk/uksi/2005/3181/article/2A), [2B](https://www.legislation.gov.uk/uksi/2005/3181/article/2B) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/1127/article/5)

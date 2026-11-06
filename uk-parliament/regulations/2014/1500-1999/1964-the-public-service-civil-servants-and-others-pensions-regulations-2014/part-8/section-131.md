@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Amount payable on death of deferred member or pensioner member (death out of service)[^key-96042529f0aa3079519c8c5af4411bbf]
+## 131. Amount payable on death of deferred member or pensioner member (death out of service)[^c-96042529f0aa3079519c8c5af4411bbf]
 
 *Extent: E+W+S+N.I.*
 
 (1) This regulation applies in relation to a continuous period of pensionable service under this scheme (“period of service”).
 
-(2)[^key-7cfff389fe76ec388e555f154a8d6147] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7cfff389fe76ec388e555f154a8d6147] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For the purpose of this regulation, a person dies out of service if the person—
 
@@ -47,9 +47,9 @@ summary: ''
 
 ## Annotations
 
-[^key-96042529f0aa3079519c8c5af4411bbf]: Commencement: [Reg. 131](https://www.legislation.gov.uk/uksi/2014/1964/regulation/131) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-96042529f0aa3079519c8c5af4411bbf]: Commencement: [Reg. 131](https://www.legislation.gov.uk/uksi/2014/1964/regulation/131) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
-[^key-7cfff389fe76ec388e555f154a8d6147]: Textual amendment: [Reg. 131(2)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/131/2) omitted (with effect from 1.4.2015) by virtue of [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2018 (S.I. 2018/537)](https://www.legislation.gov.uk/uksi/2018/537), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/537/regulation/1/2/b), [23](https://www.legislation.gov.uk/uksi/2018/537/regulation/23)
+[^c-7cfff389fe76ec388e555f154a8d6147]: Textual amendment: [Reg. 131(2)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/131/2) omitted (with effect from 1.4.2015) by virtue of [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2018 (S.I. 2018/537)](https://www.legislation.gov.uk/uksi/2018/537), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/537/regulation/1/2/b), [23](https://www.legislation.gov.uk/uksi/2018/537/regulation/23)
 
 [^f00069]: Footnote: Note: if P is a partial retiree, a lump sum death benefit is payable only under regulation 130 (death in service).
 

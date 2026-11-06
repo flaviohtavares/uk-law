@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Restrictions as to animals on which medicinal tests have been carried out.[^key-058fd8f84f33eb371f641a17640fc911]
+## 34. Restrictions as to animals on which medicinal tests have been carried out.[^c-058fd8f84f33eb371f641a17640fc911]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-058fd8f84f33eb371f641a17640fc911]: Textual amendment: Ss. 32-36 omitted (1.10.2006) by virtue of [The Veterinary Medicines Regulations 2006 (S.I. 2006/2407)](https://www.legislation.gov.uk/uksi/2006/2407), [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1), [Sch. 8 para. 15](https://www.legislation.gov.uk/uksi/2006/2407/schedule/8/paragraph/15) (with [regs. 2(4)](https://www.legislation.gov.uk/uksi/2006/2407/regulation/2/4), [3](https://www.legislation.gov.uk/uksi/2006/2407/regulation/3))
+[^c-058fd8f84f33eb371f641a17640fc911]: Textual amendment: Ss. 32-36 omitted (1.10.2006) by virtue of [The Veterinary Medicines Regulations 2006 (S.I. 2006/2407)](https://www.legislation.gov.uk/uksi/2006/2407), [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1), [Sch. 8 para. 15](https://www.legislation.gov.uk/uksi/2006/2407/schedule/8/paragraph/15) (with [regs. 2(4)](https://www.legislation.gov.uk/uksi/2006/2407/regulation/2/4), [3](https://www.legislation.gov.uk/uksi/2006/2407/regulation/3))

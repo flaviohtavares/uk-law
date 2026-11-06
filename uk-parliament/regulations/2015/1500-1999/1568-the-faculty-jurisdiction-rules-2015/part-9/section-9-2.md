@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 9.2. Publication of notice in newspaper etc.[^key-cb78a398b742b5f27ba719ae9e4d1fee]
+## 9.2. Publication of notice in newspaper etc.[^c-cb78a398b742b5f27ba719ae9e4d1fee]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ The chancellor may give directions for the publication of details relating to a 
 
 ## Annotations
 
-[^key-cb78a398b742b5f27ba719ae9e4d1fee]: Commencement: [Rule 9.2](https://www.legislation.gov.uk/uksi/2015/1568/article/9.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-cb78a398b742b5f27ba719ae9e4d1fee]: Commencement: [Rule 9.2](https://www.legislation.gov.uk/uksi/2015/1568/article/9.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

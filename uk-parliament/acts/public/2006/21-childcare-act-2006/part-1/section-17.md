@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Charges for early years provision at maintained school[^key-0480fb87e001a12f50803b090ce26e7a]
+## 17. Charges for early years provision at maintained school[^c-0480fb87e001a12f50803b090ce26e7a]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0480fb87e001a12f50803b090ce26e7a]: Commencement: S. 17 in force at 1.10.2007 by [S.I. 2007/2717](https://www.legislation.gov.uk/uksi/2007/2717), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/2717/article/2/a)
+[^c-0480fb87e001a12f50803b090ce26e7a]: Commencement: S. 17 in force at 1.10.2007 by [S.I. 2007/2717](https://www.legislation.gov.uk/uksi/2007/2717), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/2717/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.22. Applications for time to pay directions or time orders[^key-dea184e17e07116f4d5b2ba2933bc445][^M_F_d145eced-c9d4-4d57-f223-e7996a31b291]
+## 2.22. Applications for time to pay directions or time orders[^c-dea184e17e07116f4d5b2ba2933bc445][^M_F_d145eced-c9d4-4d57-f223-e7996a31b291]
 
 *Extent: S*
 
@@ -28,10 +28,10 @@ summary: ''
 (2) A defender may apply for a time to pay direction or time order[^M_F_ab16f7b3-0bea-48c3-83f3-d07473a0a455] and, where appropriate, for recall or restriction of an arrestment–
 
 - (a) by appearing and making the appropriate motion at a diet fixed for hearing of the summary application;
-- (b) except where the warrant of citation contains a shorter period of notice than the period of notice to be given to a defender under rule 3.6(1)(a) or (b), as the case may be, of the Ordinary Cause Rules, by completing and returning the appropriate portion of Form 5 to the sheriff clerk at least 14[^key-742022f540a3c9193713d4ecccf9a81a] days before the first diet fixed for hearing of the summary application or the expiry of the period of notice or otherwise, as the case may be in the warrant of citation; or
+- (b) except where the warrant of citation contains a shorter period of notice than the period of notice to be given to a defender under rule 3.6(1)(a) or (b), as the case may be, of the Ordinary Cause Rules, by completing and returning the appropriate portion of Form 5 to the sheriff clerk at least 14[^c-742022f540a3c9193713d4ecccf9a81a] days before the first diet fixed for hearing of the summary application or the expiry of the period of notice or otherwise, as the case may be in the warrant of citation; or
 - (c) by application to the court at any stage before final decree.
 
-(3)[^key-eafcc5aacfaeb1b130600641a48ab049] On lodging an application under paragraph (2)(b), the defender shall send a copy of it to the pursuer by first class ordinary post.
+(3)[^c-eafcc5aacfaeb1b130600641a48ab049] On lodging an application under paragraph (2)(b), the defender shall send a copy of it to the pursuer by first class ordinary post.
 
 (4) Where the pursuer objects to the application of the defender lodged under paragraph (2)(b) he shall—
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-dea184e17e07116f4d5b2ba2933bc445]: Commencement: Rule 2.22 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-dea184e17e07116f4d5b2ba2933bc445]: Commencement: Rule 2.22 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
 
 [^M_F_d145eced-c9d4-4d57-f223-e7996a31b291]: Textual amendment: Words in rule 2.22 heading inserted (26.2.2007) by [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2007 (S.S.I. 2007/6)](https://www.legislation.gov.uk/ssi/2007/6), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/1/2), [3(4)(a)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/3/4/a)
 
@@ -54,6 +54,6 @@ summary: ''
 
 [^M_F_ab16f7b3-0bea-48c3-83f3-d07473a0a455]: Textual amendment: Words in rule 2.22(2) inserted (26.2.2007) by [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2007 (S.S.I. 2007/6)](https://www.legislation.gov.uk/ssi/2007/6), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/1/2), [3(4)(d)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/3/4/d)
 
-[^key-742022f540a3c9193713d4ecccf9a81a]: Textual amendment: Word in rule 2.22(2)(b) substituted (1.12.2009) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2009 (S.S.I. 2009/294)](https://www.legislation.gov.uk/ssi/2009/294), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2009/294/paragraph/1/2), [3(3)(a)](https://www.legislation.gov.uk/ssi/2009/294/paragraph/3/3/a) (with [para. 6](https://www.legislation.gov.uk/ssi/2009/294/paragraph/6))
+[^c-742022f540a3c9193713d4ecccf9a81a]: Textual amendment: Word in rule 2.22(2)(b) substituted (1.12.2009) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2009 (S.S.I. 2009/294)](https://www.legislation.gov.uk/ssi/2009/294), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2009/294/paragraph/1/2), [3(3)(a)](https://www.legislation.gov.uk/ssi/2009/294/paragraph/3/3/a) (with [para. 6](https://www.legislation.gov.uk/ssi/2009/294/paragraph/6))
 
-[^key-eafcc5aacfaeb1b130600641a48ab049]: Textual amendment: Rule 2.22(3)-(6) substituted for rule 2.22(3) (1.12.2009) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2009 (S.S.I. 2009/294)](https://www.legislation.gov.uk/ssi/2009/294), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2009/294/paragraph/1/2), [3(3)(b)](https://www.legislation.gov.uk/ssi/2009/294/paragraph/3/3/b) (with [para. 6](https://www.legislation.gov.uk/ssi/2009/294/paragraph/6))
+[^c-eafcc5aacfaeb1b130600641a48ab049]: Textual amendment: Rule 2.22(3)-(6) substituted for rule 2.22(3) (1.12.2009) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2009 (S.S.I. 2009/294)](https://www.legislation.gov.uk/ssi/2009/294), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2009/294/paragraph/1/2), [3(3)(b)](https://www.legislation.gov.uk/ssi/2009/294/paragraph/3/3/b) (with [para. 6](https://www.legislation.gov.uk/ssi/2009/294/paragraph/6))

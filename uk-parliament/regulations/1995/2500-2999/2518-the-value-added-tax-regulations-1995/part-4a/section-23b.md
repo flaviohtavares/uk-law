@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23B. Notification of first relevant supply[^key-497ba01606b8d609bbd74a70efea9ac8]
+## 23B. Notification of first relevant supply[^c-497ba01606b8d609bbd74a70efea9ac8]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-497ba01606b8d609bbd74a70efea9ac8]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/1995/2518/part/4A) revoked (1.7.2022) by [The Value Added Tax (Reverse Charge Sales Statements) (Revocation, Saving and Transitional Provision) Regulations 2022 (S.I. 2022/548)](https://www.legislation.gov.uk/uksi/2022/548), [regs. 1](https://www.legislation.gov.uk/uksi/2022/548/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/548/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/548/regulation/4))
+[^c-497ba01606b8d609bbd74a70efea9ac8]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/1995/2518/part/4A) revoked (1.7.2022) by [The Value Added Tax (Reverse Charge Sales Statements) (Revocation, Saving and Transitional Provision) Regulations 2022 (S.I. 2022/548)](https://www.legislation.gov.uk/uksi/2022/548), [regs. 1](https://www.legislation.gov.uk/uksi/2022/548/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/548/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/548/regulation/4))

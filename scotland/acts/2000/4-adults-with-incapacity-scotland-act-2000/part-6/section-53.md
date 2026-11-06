@@ -32,7 +32,7 @@ summary: ''
 
 they shall apply under this section for an order.
 
-(4) Subsections (3), (3A), (3B) and (4) of section 57[^key-12e52b185ac9a8e1b8f0659a9c515c68] shall apply to an application under this section and, for this purpose, for the reference to the individual or office holder nominated for appointment as guardian there shall be substituted a reference to a person nominated in such application.
+(4) Subsections (3), (3A), (3B) and (4) of section 57[^c-12e52b185ac9a8e1b8f0659a9c515c68] shall apply to an application under this section and, for this purpose, for the reference to the individual or office holder nominated for appointment as guardian there shall be substituted a reference to a person nominated in such application.
 
 (5) An intervention order may—
 
@@ -41,12 +41,12 @@ they shall apply under this section for an order.
 
 (6) Where an intervention order directs the acquisition of accommodation for, or the disposal of any accommodation used for the time being as a dwelling house by, the adult, the consent of the Public Guardian as respects the consideration shall be required before the accommodation is acquired or, as the case may be, disposed of.
 
-(7) In making or varying an intervention order the sheriff may, [^key-2ed08696b60bdcbb33e2f4242813caa4]... in the case of an intervention order relating to property or financial affairs [^key-2ed08696b60bdcbb33e2f4242813caa4]...
+(7) In making or varying an intervention order the sheriff may, [^c-2ed08696b60bdcbb33e2f4242813caa4]... in the case of an intervention order relating to property or financial affairs [^c-2ed08696b60bdcbb33e2f4242813caa4]...
 
-- (a) [^key-2ed08696b60bdcbb33e2f4242813caa4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) [^key-2ed08696b60bdcbb33e2f4242813caa4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) [^c-2ed08696b60bdcbb33e2f4242813caa4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) [^c-2ed08696b60bdcbb33e2f4242813caa4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-require the person authorised under the order to find caution or to give such other security as the sheriff thinks fit[^key-28136fb5f714ca2d94d47d71528c0e5a].
+require the person authorised under the order to find caution or to give such other security as the sheriff thinks fit[^c-28136fb5f714ca2d94d47d71528c0e5a].
 
 (8) The sheriff may, on an application by—
 
@@ -60,9 +60,9 @@ make an order varying the terms of, or recalling, the intervention order or any 
 
 (10) Where an intervention order is made, the sheriff clerk shall forthwith send a copy of the interlocutor containing the order to the Public Guardian who shall—
 
-- (a) enter in the register maintained by him under section 6(2)(b)(v) such particulars of the order as may be prescribed; [^key-5f640d940f47d0abce72f8ca754939c9]...
-- (aa)[^key-c3d6982f51d221b5d3bda8574efb1afc] when satisfied that the person authorised under the order has found caution or given other security if so required, issue a certificate of appointment to the person; and
-- (b) notify the adult, the local authority and (in a case where the adult’s incapacity is by reason of, or reasons which include, mental disorder and the intervention order relates to the adult’s personal welfare or factors which include it) the Mental Welfare Commission of the terms of the interlocutor[^key-1583d5cbdd1e62e12fc4b15c6de424d4].
+- (a) enter in the register maintained by him under section 6(2)(b)(v) such particulars of the order as may be prescribed; [^c-5f640d940f47d0abce72f8ca754939c9]...
+- (aa)[^c-c3d6982f51d221b5d3bda8574efb1afc] when satisfied that the person authorised under the order has found caution or given other security if so required, issue a certificate of appointment to the person; and
+- (b) notify the adult, the local authority and (in a case where the adult’s incapacity is by reason of, or reasons which include, mental disorder and the intervention order relates to the adult’s personal welfare or factors which include it) the Mental Welfare Commission of the terms of the interlocutor[^c-1583d5cbdd1e62e12fc4b15c6de424d4].
 
 (11) A transaction for value between a person authorised under an intervention order, purporting to act as such, and a third party acting in good faith shall not be invalid on the ground only that—
 
@@ -81,14 +81,14 @@ make an order varying the terms of, or recalling, the intervention order or any 
 
 ## Annotations
 
-[^key-12e52b185ac9a8e1b8f0659a9c515c68]: Textual amendment: Words in s. 53(4) substituted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 59(1)(a)](https://www.legislation.gov.uk/asp/2007/10/section/59/1/a), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
+[^c-12e52b185ac9a8e1b8f0659a9c515c68]: Textual amendment: Words in s. 53(4) substituted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 59(1)(a)](https://www.legislation.gov.uk/asp/2007/10/section/59/1/a), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
 
-[^key-2ed08696b60bdcbb33e2f4242813caa4]: Textual amendment: Words in s. 53(7) repealed (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 59(1)(b)(i)](https://www.legislation.gov.uk/asp/2007/10/section/59/1/b/i), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
+[^c-2ed08696b60bdcbb33e2f4242813caa4]: Textual amendment: Words in s. 53(7) repealed (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 59(1)(b)(i)](https://www.legislation.gov.uk/asp/2007/10/section/59/1/b/i), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
 
-[^key-28136fb5f714ca2d94d47d71528c0e5a]: Textual amendment: Words in s. 53(7) inserted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 59(1)(b)(ii)](https://www.legislation.gov.uk/asp/2007/10/section/59/1/b/ii), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
+[^c-28136fb5f714ca2d94d47d71528c0e5a]: Textual amendment: Words in s. 53(7) inserted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 59(1)(b)(ii)](https://www.legislation.gov.uk/asp/2007/10/section/59/1/b/ii), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
 
-[^key-5f640d940f47d0abce72f8ca754939c9]: Textual amendment: Word in s. 53(10) repealed (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 59(1)(c)(i)](https://www.legislation.gov.uk/asp/2007/10/section/59/1/c/i), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
+[^c-5f640d940f47d0abce72f8ca754939c9]: Textual amendment: Word in s. 53(10) repealed (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 59(1)(c)(i)](https://www.legislation.gov.uk/asp/2007/10/section/59/1/c/i), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
 
-[^key-c3d6982f51d221b5d3bda8574efb1afc]: Textual amendment: S. 53(10)(aa) inserted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 59(1)(c)(ii)](https://www.legislation.gov.uk/asp/2007/10/section/59/1/c/ii), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
+[^c-c3d6982f51d221b5d3bda8574efb1afc]: Textual amendment: S. 53(10)(aa) inserted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 59(1)(c)(ii)](https://www.legislation.gov.uk/asp/2007/10/section/59/1/c/ii), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
 
-[^key-1583d5cbdd1e62e12fc4b15c6de424d4]: Textual amendment: Words in s. 53(10)(b) inserted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 59(1)(c)(iii)](https://www.legislation.gov.uk/asp/2007/10/section/59/1/c/iii), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
+[^c-1583d5cbdd1e62e12fc4b15c6de424d4]: Textual amendment: Words in s. 53(10)(b) inserted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 59(1)(c)(iii)](https://www.legislation.gov.uk/asp/2007/10/section/59/1/c/iii), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65A. Annual report by the Assembly[^key-e7cd5393b1ab369635b8fffd017add66]
+## 65A. Annual report by the Assembly[^c-e7cd5393b1ab369635b8fffd017add66]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7cd5393b1ab369635b8fffd017add66]: Textual amendment: S. 65A and cross-heading inserted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 6](https://www.legislation.gov.uk/ukpga/2007/24/section/6), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)
+[^c-e7cd5393b1ab369635b8fffd017add66]: Textual amendment: S. 65A and cross-heading inserted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 6](https://www.legislation.gov.uk/ukpga/2007/24/section/6), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)

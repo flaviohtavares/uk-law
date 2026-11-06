@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Amendment of Schedule 4[^key-d70048fbfb6656a2a1ae941ffae5e6f1]
+## 20. Amendment of Schedule 4[^c-d70048fbfb6656a2a1ae941ffae5e6f1]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ Schedule 4 (patient information leaflet) is amended as follows—
 
 ## Annotations
 
-[^key-d70048fbfb6656a2a1ae941ffae5e6f1]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2013/364/regulation/20) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-d70048fbfb6656a2a1ae941ffae5e6f1]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2013/364/regulation/20) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

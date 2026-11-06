@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 109. Enforcement by county councils: duty to notify[^key-164969f67ff77bfd3ab833cbb06e0e50][^key-cefbbd5547b892d5228160f95fb7e722]
+## 109. Enforcement by county councils: duty to notify[^c-164969f67ff77bfd3ab833cbb06e0e50][^c-cefbbd5547b892d5228160f95fb7e722]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ must as soon as reasonably practicable notify any local housing authority in who
 
 ## Annotations
 
-[^key-164969f67ff77bfd3ab833cbb06e0e50]: Commencement: S. 109 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-164969f67ff77bfd3ab833cbb06e0e50]: Commencement: S. 109 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-cefbbd5547b892d5228160f95fb7e722]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2025/26/section/109) in force at 1.5.2026 by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/p)
+[^c-cefbbd5547b892d5228160f95fb7e722]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2025/26/section/109) in force at 1.5.2026 by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/p)

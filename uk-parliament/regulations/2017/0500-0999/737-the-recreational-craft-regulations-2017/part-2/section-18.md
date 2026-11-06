@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Prohibition on placing products on the market[^key-43cf37ef41963814f266a69fb7ff7ccd]
+## 18. Prohibition on placing products on the market[^c-43cf37ef41963814f266a69fb7ff7ccd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ An importer must not place a product on the market unless it complies with the e
 
 ## Annotations
 
-[^key-43cf37ef41963814f266a69fb7ff7ccd]: Commencement: Reg. 18 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-43cf37ef41963814f266a69fb7ff7ccd]: Commencement: Reg. 18 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

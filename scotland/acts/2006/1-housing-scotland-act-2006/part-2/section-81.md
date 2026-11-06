@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Notification of decisions[^key-43c7a6403e8d079e34df2c13fb54f8a5]
+## 81. Notification of decisions[^c-43c7a6403e8d079e34df2c13fb54f8a5]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ it must notify the applicant of the reasons for its decision.
 
 ## Annotations
 
-[^key-43c7a6403e8d079e34df2c13fb54f8a5]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2006/1/section/81) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-43c7a6403e8d079e34df2c13fb54f8a5]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2006/1/section/81) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

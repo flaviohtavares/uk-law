@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Transitional provision etc[^key-3e4f86d090ca3cee5bb090f899dae572]
+## 109. Transitional provision etc[^c-3e4f86d090ca3cee5bb090f899dae572]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e4f86d090ca3cee5bb090f899dae572]: Commencement: S. 109 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(e)(vii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/e/vii)
+[^c-3e4f86d090ca3cee5bb090f899dae572]: Commencement: S. 109 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(e)(vii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/e/vii)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 227D. Pension input amounts in respect of certain hybrid arrangements[^key-537d03a67bd5d346f54e3df8660b9aeb]
+## 227D. Pension input amounts in respect of certain hybrid arrangements[^c-537d03a67bd5d346f54e3df8660b9aeb]
 
 *Extent: E+W+S+N.I.*
 
-[^key-7055643fff30dd4e1a4ed50a34b655c1]
+[^c-7055643fff30dd4e1a4ed50a34b655c1]
 
 (1) In this section “**relevant hybrid arrangement**” means a hybrid arrangement—
 
@@ -30,7 +30,7 @@ summary: ''
 
 (2) As respects each relevant hybrid arrangement in the maximising set of relevant hybrid arrangements—
 
-- (a) the pension input amount in respect of the arrangement is for the purposes of sections 227B(3)(b) and 227C(1)(b) treated as being not input amount C mentioned in section 237 but, instead, the greater or greatest[^key-57c27f2e4a4e72373749316c8538c000] of such of input amounts A , AA[^key-04b49d9fc0e21cc325761fd987b2477c] and B mentioned in section 237 as are, for the purposes of section 237, relevant input amounts in the case of the arrangement, and
+- (a) the pension input amount in respect of the arrangement is for the purposes of sections 227B(3)(b) and 227C(1)(b) treated as being not input amount C mentioned in section 237 but, instead, the greater or greatest[^c-57c27f2e4a4e72373749316c8538c000] of such of input amounts A , AA[^c-04b49d9fc0e21cc325761fd987b2477c] and B mentioned in section 237 as are, for the purposes of section 237, relevant input amounts in the case of the arrangement, and
 - (b) accordingly, the arrangement—
   - (i) is not to be included among the arrangements mentioned in section 227B(3)(b) whose pension input amounts are totalled under section 227B(3), but
   - (ii) is to be included among the arrangements mentioned in section 227C(1)(b) whose pension input amounts are totalled under section 227C(1).
@@ -56,18 +56,18 @@ if the alternative chargeable amount with the maximising set so made up is not l
 
 (5) Subsection (1)(c) is to be read with section 227B(5) (hybrid arrangements where input amount C is highest-equal input amount).
 
-(6)[^key-9e0f2729a0c72a0c340c5a3d842d0591] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-9e0f2729a0c72a0c340c5a3d842d0591] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-537d03a67bd5d346f54e3df8660b9aeb]: Textual amendment: Ss. 227B-227G inserted (17.12.2014) (with effect in accordance with Sch. 1 para. 65(2) of the amending Act) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 65(1)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/65/1)
+[^c-537d03a67bd5d346f54e3df8660b9aeb]: Textual amendment: Ss. 227B-227G inserted (17.12.2014) (with effect in accordance with Sch. 1 para. 65(2) of the amending Act) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 65(1)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/65/1)
 
-[^key-7055643fff30dd4e1a4ed50a34b655c1]: Modification: Pt. 4 modified (with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/52/regulation/6)
+[^c-7055643fff30dd4e1a4ed50a34b655c1]: Modification: Pt. 4 modified (with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/52/regulation/6)
 
-[^key-57c27f2e4a4e72373749316c8538c000]: Textual amendment: Words in [s. 227D(2)(a)](https://www.legislation.gov.uk/ukpga/2004/12/section/227D/2/a) inserted (1.8.2022) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 5 paras. 15(2)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/15/2/a), [25(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/25/1); [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-57c27f2e4a4e72373749316c8538c000]: Textual amendment: Words in [s. 227D(2)(a)](https://www.legislation.gov.uk/ukpga/2004/12/section/227D/2/a) inserted (1.8.2022) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 5 paras. 15(2)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/15/2/a), [25(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/25/1); [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
 
-[^key-04b49d9fc0e21cc325761fd987b2477c]: Textual amendment: Word in [s. 227D(2)(a)](https://www.legislation.gov.uk/ukpga/2004/12/section/227D/2/a) inserted (1.8.2022) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 5 paras. 15(2)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/15/2/b), [25(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/25/1); [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-04b49d9fc0e21cc325761fd987b2477c]: Textual amendment: Word in [s. 227D(2)(a)](https://www.legislation.gov.uk/ukpga/2004/12/section/227D/2/a) inserted (1.8.2022) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 5 paras. 15(2)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/15/2/b), [25(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/25/1); [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
 
 [^M_F_95719c66-259f-4145-ef88-f2b008ae57b1]: Textual amendment: Sum in s. 227D(4) substituted (for the tax year 2023-24 and subsequent tax years) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 21(2)(c)(4)](https://www.legislation.gov.uk/ukpga/2023/30/section/21/2/c/4)
 
-[^key-9e0f2729a0c72a0c340c5a3d842d0591]: Textual amendment: S. 227D(6) omitted (with effect in accordance with Sch. 4 para. 4(3) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 4 para. 4(2)(d)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/4/paragraph/4/2/d)
+[^c-9e0f2729a0c72a0c340c5a3d842d0591]: Textual amendment: S. 227D(6) omitted (with effect in accordance with Sch. 4 para. 4(3) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 4 para. 4(2)(d)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/4/paragraph/4/2/d)

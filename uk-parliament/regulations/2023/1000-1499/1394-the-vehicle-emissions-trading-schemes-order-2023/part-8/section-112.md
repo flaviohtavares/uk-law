@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Amendment of [Regulation (EU) 427/2014](https://www.legislation.gov.uk/european/regulation/2014/0427) (eco-innovations for light commercial vehicles)[^key-270a7bfb811a24b070f964d542544023]
+## 112. Amendment of [Regulation (EU) 427/2014](https://www.legislation.gov.uk/european/regulation/2014/0427) (eco-innovations for light commercial vehicles)[^c-270a7bfb811a24b070f964d542544023]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-270a7bfb811a24b070f964d542544023]: Commencement: Art. 112 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-270a7bfb811a24b070f964d542544023]: Commencement: Art. 112 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

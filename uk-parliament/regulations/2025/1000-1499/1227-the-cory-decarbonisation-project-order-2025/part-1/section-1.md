@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-511e34dc64ba21340e0acff6731c4a12]
+## 1. Citation and commencement[^c-511e34dc64ba21340e0acff6731c4a12]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Cory Decarbonisation Project Order 2025 and comes
 
 ## Annotations
 
-[^key-511e34dc64ba21340e0acff6731c4a12]: Commencement: Art. 1 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-511e34dc64ba21340e0acff6731c4a12]: Commencement: Art. 1 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

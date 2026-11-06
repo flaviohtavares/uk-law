@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Revocation and savings[^key-edfdd17a53cdfe21cdf3e8cef5e62ed5]
+## 6. Revocation and savings[^c-edfdd17a53cdfe21cdf3e8cef5e62ed5]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-edfdd17a53cdfe21cdf3e8cef5e62ed5]: Commencement: Reg. 6 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-edfdd17a53cdfe21cdf3e8cef5e62ed5]: Commencement: Reg. 6 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 2010/985](https://www.legislation.gov.uk/uksi/2010/985).
 

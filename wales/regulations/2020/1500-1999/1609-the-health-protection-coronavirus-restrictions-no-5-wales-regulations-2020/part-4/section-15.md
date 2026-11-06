@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Regulated premises ...[^key-d10aad2381a02aa24f0dcc6903aacb56][^key-86d894b1b0ee5090a421c1d515403bc0]
+## 15. Regulated premises ...[^c-d10aad2381a02aa24f0dcc6903aacb56][^c-86d894b1b0ee5090a421c1d515403bc0]
 
 *Extent: E+W*
 
@@ -26,12 +26,12 @@ summary: ''
 - (b) a vehicle used to provide a public transport service;
 - (c) other premises where work is being carried out.
 
-(2)[^key-baf33217926a2e9096fe86f4af867856] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-baf33217926a2e9096fe86f4af867856] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d10aad2381a02aa24f0dcc6903aacb56]: Commencement: Reg. 15 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)
+[^c-d10aad2381a02aa24f0dcc6903aacb56]: Commencement: Reg. 15 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)
 
-[^key-86d894b1b0ee5090a421c1d515403bc0]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/wsi/2020/1609/regulation/15) heading omitted (18.4.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 9) Regulations 2022 (S.I. 2022/450)](https://www.legislation.gov.uk/wsi/2022/450), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/450/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2022/450/regulation/2/4)
+[^c-86d894b1b0ee5090a421c1d515403bc0]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/wsi/2020/1609/regulation/15) heading omitted (18.4.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 9) Regulations 2022 (S.I. 2022/450)](https://www.legislation.gov.uk/wsi/2022/450), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/450/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2022/450/regulation/2/4)
 
-[^key-baf33217926a2e9096fe86f4af867856]: Textual amendment: Pt. 4 omitted (except reg 15(1)) (18.4.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 9) Regulations 2022 (S.I. 2022/450)](https://www.legislation.gov.uk/uksi/2022/450), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/450/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/450/regulation/2/3)
+[^c-baf33217926a2e9096fe86f4af867856]: Textual amendment: Pt. 4 omitted (except reg 15(1)) (18.4.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 9) Regulations 2022 (S.I. 2022/450)](https://www.legislation.gov.uk/uksi/2022/450), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/450/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/450/regulation/2/3)

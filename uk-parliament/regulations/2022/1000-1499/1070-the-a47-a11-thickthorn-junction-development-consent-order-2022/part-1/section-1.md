@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-aa04691a57f05674f2e1bd44296a8ec8]
+## 1. Citation and commencement[^c-aa04691a57f05674f2e1bd44296a8ec8]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the A47/A11 Thickthorn Junction Development Consent O
 
 ## Annotations
 
-[^key-aa04691a57f05674f2e1bd44296a8ec8]: Commencement: Art. 1 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-aa04691a57f05674f2e1bd44296a8ec8]: Commencement: Art. 1 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)

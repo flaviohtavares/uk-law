@@ -39,433 +39,433 @@ on implementing Council Regulation (EC) No 530/1999 concerning structural statis
 
 (Text with EEA relevance) (revoked)
 
-[^key-5524ecc8379634082eb9bd955d00b134]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5524ecc8379634082eb9bd955d00b134]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Definition and breakdown of the information[^key-5524ecc8379634082eb9bd955d00b134]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Technical format for the transmission of the results[^key-5524ecc8379634082eb9bd955d00b134]
+## Article 1. Definition and breakdown of the information[^c-5524ecc8379634082eb9bd955d00b134]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-5524ecc8379634082eb9bd955d00b134]
+## Article 2. Technical format for the transmission of the results[^c-5524ecc8379634082eb9bd955d00b134]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 3. Entry into force[^c-5524ecc8379634082eb9bd955d00b134]
 
-## ANNEX I — LIST OF VARIABLES[^key-5524ecc8379634082eb9bd955d00b134]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 1.
+[^c-5524ecc8379634082eb9bd955d00b134]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I — LIST OF VARIABLES[^c-5524ecc8379634082eb9bd955d00b134]
+
+[^c-5524ecc8379634082eb9bd955d00b134] 1.
 
 **Information about the local unit to which the sampled employees are attached**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 1.1.
+[^c-5524ecc8379634082eb9bd955d00b134] 1.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 1.2.
+[^c-5524ecc8379634082eb9bd955d00b134] 1.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 1.3.
+[^c-5524ecc8379634082eb9bd955d00b134] 1.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 1.4.
+[^c-5524ecc8379634082eb9bd955d00b134] 1.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 1.5.
+[^c-5524ecc8379634082eb9bd955d00b134] 1.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 1.6.
+[^c-5524ecc8379634082eb9bd955d00b134] 1.6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 1.7.
+[^c-5524ecc8379634082eb9bd955d00b134] 1.7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 2.
+[^c-5524ecc8379634082eb9bd955d00b134] 2.
 
 **Information on individual characteristics of each employee in the sample relating to the reference month**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 2.1.
+[^c-5524ecc8379634082eb9bd955d00b134] 2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 2.2.
+[^c-5524ecc8379634082eb9bd955d00b134] 2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 2.3.
+[^c-5524ecc8379634082eb9bd955d00b134] 2.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 2.4.
+[^c-5524ecc8379634082eb9bd955d00b134] 2.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 2.5.
+[^c-5524ecc8379634082eb9bd955d00b134] 2.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 2.6.
+[^c-5524ecc8379634082eb9bd955d00b134] 2.6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 2.7.
+[^c-5524ecc8379634082eb9bd955d00b134] 2.7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 2.7.1.
+[^c-5524ecc8379634082eb9bd955d00b134] 2.7.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 2.8.
+[^c-5524ecc8379634082eb9bd955d00b134] 2.8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 2.9.
+[^c-5524ecc8379634082eb9bd955d00b134] 2.9.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 3.
+[^c-5524ecc8379634082eb9bd955d00b134] 3.
 
 **Information on working periods for each employee in the sample**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 3.1.
+[^c-5524ecc8379634082eb9bd955d00b134] 3.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 3.2.
+[^c-5524ecc8379634082eb9bd955d00b134] 3.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 3.2.1.
+[^c-5524ecc8379634082eb9bd955d00b134] 3.2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 3.3.
+[^c-5524ecc8379634082eb9bd955d00b134] 3.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 3.4.
+[^c-5524ecc8379634082eb9bd955d00b134] 3.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 4.
+[^c-5524ecc8379634082eb9bd955d00b134] 4.
 
 **Information on earnings for each employee in the sample** (see also the figure below)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 4.1.
+[^c-5524ecc8379634082eb9bd955d00b134] 4.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 4.1.1.
+[^c-5524ecc8379634082eb9bd955d00b134] 4.1.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 4.1.2.
+[^c-5524ecc8379634082eb9bd955d00b134] 4.1.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 4.2.
+[^c-5524ecc8379634082eb9bd955d00b134] 4.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 4.2.1.
+[^c-5524ecc8379634082eb9bd955d00b134] 4.2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 4.2.2.
+[^c-5524ecc8379634082eb9bd955d00b134] 4.2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 4.2.3.
+[^c-5524ecc8379634082eb9bd955d00b134] 4.2.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 4.2.3.1.
+[^c-5524ecc8379634082eb9bd955d00b134] 4.2.3.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 4.2.3.2.
+[^c-5524ecc8379634082eb9bd955d00b134] 4.2.3.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 4.3.
+[^c-5524ecc8379634082eb9bd955d00b134] 4.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 5.
+[^c-5524ecc8379634082eb9bd955d00b134] 5.
 
 **Grossing-up factors**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 5.1.
+[^c-5524ecc8379634082eb9bd955d00b134] 5.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 5.2.
+[^c-5524ecc8379634082eb9bd955d00b134] 5.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] Earnings variables of the SES
+[^c-5524ecc8379634082eb9bd955d00b134] Earnings variables of the SES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — DEFINITION OF VARIABLES[^key-5524ecc8379634082eb9bd955d00b134]
+## ANNEX II — DEFINITION OF VARIABLES[^c-5524ecc8379634082eb9bd955d00b134]
 
-[^key-5524ecc8379634082eb9bd955d00b134] 1.
+[^c-5524ecc8379634082eb9bd955d00b134] 1.
 
 **Information about the local unit to which the sampled employees are attached**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 1.1.
+[^c-5524ecc8379634082eb9bd955d00b134] 1.1.
 
 *Geographical location of the statistical unit (NUTS-1)*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 1.2.
+[^c-5524ecc8379634082eb9bd955d00b134] 1.2.
 
 *Size of the enterprise to which the local unit belongs*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 1.3.
+[^c-5524ecc8379634082eb9bd955d00b134] 1.3.
 
 *Principal economic activity of the local unit (* NACE Rev. 2 *)*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 1.4.
+[^c-5524ecc8379634082eb9bd955d00b134] 1.4.
 
 *Form of economic and financial control of the enterprise*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 1.5.
+[^c-5524ecc8379634082eb9bd955d00b134] 1.5.
 
 *Collective pay agreement*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 1.6.
+[^c-5524ecc8379634082eb9bd955d00b134] 1.6.
 
 *Number of employees in the local unit (optional)*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 1.7.
+[^c-5524ecc8379634082eb9bd955d00b134] 1.7.
 
 *Affiliation of the local unit to a group of enterprises (optional)*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 2.
+[^c-5524ecc8379634082eb9bd955d00b134] 2.
 
 **Information on the individual characteristics of each employee in the sample relating to the reference month**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 2.1.
+[^c-5524ecc8379634082eb9bd955d00b134] 2.1.
 
 *Sex*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 2.2.
+[^c-5524ecc8379634082eb9bd955d00b134] 2.2.
 
 *Age*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 2.3.
+[^c-5524ecc8379634082eb9bd955d00b134] 2.3.
 
 *Occupation in the reference month (* ISCO-08 *)*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 2.4.
+[^c-5524ecc8379634082eb9bd955d00b134] 2.4.
 
 *Managerial or supervisory position (optional)*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 2.5.
+[^c-5524ecc8379634082eb9bd955d00b134] 2.5.
 
 *Educational attainment level (ISCED 2011)*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 2.6.
+[^c-5524ecc8379634082eb9bd955d00b134] 2.6.
 
 *Length of service in the enterprise*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 2.7.
+[^c-5524ecc8379634082eb9bd955d00b134] 2.7.
 
 *Contractual working time (full-time or part-time)*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 2.7.1.
+[^c-5524ecc8379634082eb9bd955d00b134] 2.7.1.
 
 Share of a full-timer’s normal hours
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 2.8.
+[^c-5524ecc8379634082eb9bd955d00b134] 2.8.
 
 *Type of employment contract*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 2.9.
+[^c-5524ecc8379634082eb9bd955d00b134] 2.9.
 
 *Citizenship (optional)*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 3.
+[^c-5524ecc8379634082eb9bd955d00b134] 3.
 
 **Information on working periods for each employee in the sample**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 3.1.
+[^c-5524ecc8379634082eb9bd955d00b134] 3.1.
 
 *Number of weeks to which the gross annual earnings relate*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 3.2.
+[^c-5524ecc8379634082eb9bd955d00b134] 3.2.
 
 *Number of hours actually paid during the reference month*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 3.2.1.
+[^c-5524ecc8379634082eb9bd955d00b134] 3.2.1.
 
 Number of overtime hours paid in the reference month
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 3.3.
+[^c-5524ecc8379634082eb9bd955d00b134] 3.3.
 
 *Annual days of holiday leave*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 3.4.
+[^c-5524ecc8379634082eb9bd955d00b134] 3.4.
 
 *Other annual days of paid absence (optional)*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 4.
+[^c-5524ecc8379634082eb9bd955d00b134] 4.
 
 **Information on earnings for each employee in the sample**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 4.1.
+[^c-5524ecc8379634082eb9bd955d00b134] 4.1.
 
 *Gross annual earnings in the reference year*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 4.1.1.
+[^c-5524ecc8379634082eb9bd955d00b134] 4.1.1.
 
 Annual bonuses and allowances not paid at each pay period
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 4.1.2.
+[^c-5524ecc8379634082eb9bd955d00b134] 4.1.2.
 
 Annual payments in kind ( *optional* )
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 4.2.
+[^c-5524ecc8379634082eb9bd955d00b134] 4.2.
 
 *Gross earnings for the reference month*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 4.2.1.
+[^c-5524ecc8379634082eb9bd955d00b134] 4.2.1.
 
 Earnings related to overtime
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 4.2.2.
+[^c-5524ecc8379634082eb9bd955d00b134] 4.2.2.
 
 Special payments for shift work
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 4.2.3.
+[^c-5524ecc8379634082eb9bd955d00b134] 4.2.3.
 
 Compulsory social contributions and taxes paid by the employer on behalf of the employee ( *optional* )
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 4.2.3.1.
+[^c-5524ecc8379634082eb9bd955d00b134] 4.2.3.1.
 
 *Compulsory social-security contributions (optional)*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 4.2.3.2.
+[^c-5524ecc8379634082eb9bd955d00b134] 4.2.3.2.
 
 *Taxes (optional)*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 4.3.
+[^c-5524ecc8379634082eb9bd955d00b134] 4.3.
 
 *Average gross hourly earnings in the reference month*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 5.
+[^c-5524ecc8379634082eb9bd955d00b134] 5.
 
 **Grossing-up factors**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 5.1.
+[^c-5524ecc8379634082eb9bd955d00b134] 5.1.
 
 *Grossing-up factor for the local unit*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] 5.2.
+[^c-5524ecc8379634082eb9bd955d00b134] 5.2.
 
 *Grossing-up factor for the employees*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — TRANSMISSION OF RESULTS[^key-5524ecc8379634082eb9bd955d00b134]
+## ANNEX III — TRANSMISSION OF RESULTS[^c-5524ecc8379634082eb9bd955d00b134]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -473,34 +473,34 @@ Compulsory social contributions and taxes paid by the employer on behalf of the 
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] Variables
+[^c-5524ecc8379634082eb9bd955d00b134] Variables
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] Mandatory variables
+[^c-5524ecc8379634082eb9bd955d00b134] Mandatory variables
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] Optional variables
+[^c-5524ecc8379634082eb9bd955d00b134] Optional variables
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] Zero values
+[^c-5524ecc8379634082eb9bd955d00b134] Zero values
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] Categories for SES variables
+[^c-5524ecc8379634082eb9bd955d00b134] Categories for SES variables
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] Content of records A and B
+[^c-5524ecc8379634082eb9bd955d00b134] Content of records A and B
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5524ecc8379634082eb9bd955d00b134] Transmission
+[^c-5524ecc8379634082eb9bd955d00b134] Transmission
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5524ecc8379634082eb9bd955d00b134]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/21); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5524ecc8379634082eb9bd955d00b134]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/21); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

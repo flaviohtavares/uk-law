@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Notice requiring secondary cleansing and disinfection[^key-b08ce7b255faad9ba01b8cea79ef0459]
+## 14. Notice requiring secondary cleansing and disinfection[^c-b08ce7b255faad9ba01b8cea79ef0459]
 
 *Extent: E+W+S*
 
 (1) Irrespective of whether or not pigs are to be reintroduced on infected or contact premises, an inspector may serve a notice on the occupier requiring secondary cleansing and disinfection as specified in the notice.
 
-(2) Secondary cleansing and disinfection must be carried out in such a way as to minimise the risk of the spread of disease or survival of any virus and, in England, in accordance with Schedule 4A. *(Extent: E+W)*[^key-ae8073fac066339a1f4cf929ccc2b66c]
+(2) Secondary cleansing and disinfection must be carried out in such a way as to minimise the risk of the spread of disease or survival of any virus and, in England, in accordance with Schedule 4A. *(Extent: E+W)*[^c-ae8073fac066339a1f4cf929ccc2b66c]
 
 (3) If the occupier does not comply with the notice, an inspector may arrange for secondary cleansing and disinfection to be carried out by another person at the expense of the occupier.
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b08ce7b255faad9ba01b8cea79ef0459]: Commencement: Reg. 14 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
+[^c-b08ce7b255faad9ba01b8cea79ef0459]: Commencement: Reg. 14 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
 
-[^key-ae8073fac066339a1f4cf929ccc2b66c]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/14/2) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(9)](https://www.legislation.gov.uk/uksi/2026/475/article/3/9)
+[^c-ae8073fac066339a1f4cf929ccc2b66c]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/14/2) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(9)](https://www.legislation.gov.uk/uksi/2026/475/article/3/9)

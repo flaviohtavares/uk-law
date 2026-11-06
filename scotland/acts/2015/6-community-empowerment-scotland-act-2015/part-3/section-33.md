@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Ministerial report[^key-e5a7c693c817b16aed9028aaf5aa3e3d]
+## 33. Ministerial report[^c-e5a7c693c817b16aed9028aaf5aa3e3d]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5a7c693c817b16aed9028aaf5aa3e3d]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2015/6/section/33) in force at 1.4.2017 by [S.S.I. 2017/40](https://www.legislation.gov.uk/ssi/2017/40), [art. 2](https://www.legislation.gov.uk/ssi/2017/40/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/40/schedule)
+[^c-e5a7c693c817b16aed9028aaf5aa3e3d]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2015/6/section/33) in force at 1.4.2017 by [S.S.I. 2017/40](https://www.legislation.gov.uk/ssi/2017/40), [art. 2](https://www.legislation.gov.uk/ssi/2017/40/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/40/schedule)

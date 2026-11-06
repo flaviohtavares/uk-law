@@ -26,7 +26,7 @@ summary: ''
 
 (3) In this section—
 
-- (a) “**miscellaneous income**” means profits or other income of the company charged to corporation tax under or by virtue of a provision to which section 1173 of CTA 2010[^key-07fde3d15c5d768291017b923b9d3ac8] applies, and
+- (a) “**miscellaneous income**” means profits or other income of the company charged to corporation tax under or by virtue of a provision to which section 1173 of CTA 2010[^c-07fde3d15c5d768291017b923b9d3ac8] applies, and
 - (b) “**miscellaneous losses**” means losses in transactions in respect of which the company is within the charge to corporation tax under or by virtue of such a provision.
 
 (4) Provision corresponding to that made by this section is made by—
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07fde3d15c5d768291017b923b9d3ac8]: Textual amendment: Words in s. 1306(3)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 693](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/693) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-07fde3d15c5d768291017b923b9d3ac8]: Textual amendment: Words in s. 1306(3)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 693](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/693) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

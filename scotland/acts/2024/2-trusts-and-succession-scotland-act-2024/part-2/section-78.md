@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Application to court by survivor for provision on intestacy[^key-636942fa250cb1d6f5b8d2c357dfdd96]
+## 78. Application to court by survivor for provision on intestacy[^c-636942fa250cb1d6f5b8d2c357dfdd96]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ In section 29(6) of the Family Law (Scotland) Act 2006 (application to court by 
 
 ## Annotations
 
-[^key-636942fa250cb1d6f5b8d2c357dfdd96]: Commencement: S. 78 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-636942fa250cb1d6f5b8d2c357dfdd96]: Commencement: S. 78 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

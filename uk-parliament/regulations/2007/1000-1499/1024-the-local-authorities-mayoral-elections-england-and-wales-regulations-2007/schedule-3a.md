@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3A — Modifications to Schedule 3 where a mayoral election is taken together with a police and crime commissioner election[^key-a19867f918615ffe499cd23c0dea040b]
+## SCHEDULE 3A — Modifications to Schedule 3 where a mayoral election is taken together with a police and crime commissioner election[^c-a19867f918615ffe499cd23c0dea040b]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ In the Appendix of Forms in Schedule 3—
 
 ## Annotations
 
-[^key-a19867f918615ffe499cd23c0dea040b]: Textual amendment: Sch. 3A inserted (7.8.2012) by [The Local Authorities (Mayoral Elections) (England and Wales) (Amendment) Regulations 2012 (S.I. 2012/2059)](https://www.legislation.gov.uk/uksi/2012/2059), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2059/regulation/1), [2(9)](https://www.legislation.gov.uk/uksi/2012/2059/regulation/2/9), [Sch. 3](https://www.legislation.gov.uk/uksi/2012/2059/schedule/3) (which amending S.I. together with its amendments to the 2007 Regulations are revoked (6.4.2014 with effect in accordance with reg. 1(2) of the revoking S.I.) by [S.I. 2014/370](https://www.legislation.gov.uk/uksi/2014/370), [reg. 2](https://www.legislation.gov.uk/uksi/2014/370/regulation/2))
+[^c-a19867f918615ffe499cd23c0dea040b]: Textual amendment: Sch. 3A inserted (7.8.2012) by [The Local Authorities (Mayoral Elections) (England and Wales) (Amendment) Regulations 2012 (S.I. 2012/2059)](https://www.legislation.gov.uk/uksi/2012/2059), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2059/regulation/1), [2(9)](https://www.legislation.gov.uk/uksi/2012/2059/regulation/2/9), [Sch. 3](https://www.legislation.gov.uk/uksi/2012/2059/schedule/3) (which amending S.I. together with its amendments to the 2007 Regulations are revoked (6.4.2014 with effect in accordance with reg. 1(2) of the revoking S.I.) by [S.I. 2014/370](https://www.legislation.gov.uk/uksi/2014/370), [reg. 2](https://www.legislation.gov.uk/uksi/2014/370/regulation/2))

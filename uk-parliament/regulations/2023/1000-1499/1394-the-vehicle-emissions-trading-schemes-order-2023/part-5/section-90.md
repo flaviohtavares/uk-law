@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Warrant[^key-9bab0d0cdbc2674e58139bd27905aee8]
+## 90. Warrant[^c-9bab0d0cdbc2674e58139bd27905aee8]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,13 +38,13 @@ summary: ''
 (4) In paragraph (1), “**justice**” means—
 
 - (a) in England or Wales, a justice of the peace;
-- (b) in Scotland, a justice of the peace or sheriff;[^key-6dd6736b0f9b2a17582a563091c5a243]
-- (c)[^key-b2aeef541d08b107e04451ace8a6742f] in Northern Ireland, a lay magistrate.
+- (b) in Scotland, a justice of the peace or sheriff;[^c-6dd6736b0f9b2a17582a563091c5a243]
+- (c)[^c-b2aeef541d08b107e04451ace8a6742f] in Northern Ireland, a lay magistrate.
 
 ## Annotations
 
-[^key-9bab0d0cdbc2674e58139bd27905aee8]: Commencement: Art. 90 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-9bab0d0cdbc2674e58139bd27905aee8]: Commencement: Art. 90 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-6dd6736b0f9b2a17582a563091c5a243]: Textual amendment: [Art. 90(4)(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/90/4/b): semicolon substituted for full stop (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [17(1)](https://www.legislation.gov.uk/uksi/2024/1130/article/17/1)
+[^c-6dd6736b0f9b2a17582a563091c5a243]: Textual amendment: [Art. 90(4)(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/90/4/b): semicolon substituted for full stop (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [17(1)](https://www.legislation.gov.uk/uksi/2024/1130/article/17/1)
 
-[^key-b2aeef541d08b107e04451ace8a6742f]: Textual amendment: [Art. 90(4)(c)](https://www.legislation.gov.uk/uksi/2023/1394/article/90/4/c) inserted (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [17(2)](https://www.legislation.gov.uk/uksi/2024/1130/article/17/2)
+[^c-b2aeef541d08b107e04451ace8a6742f]: Textual amendment: [Art. 90(4)(c)](https://www.legislation.gov.uk/uksi/2023/1394/article/90/4/c) inserted (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [17(2)](https://www.legislation.gov.uk/uksi/2024/1130/article/17/2)

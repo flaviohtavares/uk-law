@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The National Health Service (Charges to Overseas Visitors) (Amendment) Regulations 2014 (revoked)[^key-97116c15decd2d1c6cbc8bca2df11c64]
+The National Health Service (Charges to Overseas Visitors) (Amendment) Regulations 2014 (revoked)[^c-97116c15decd2d1c6cbc8bca2df11c64]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 7th July 2014
 
-[^key-97116c15decd2d1c6cbc8bca2df11c64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-97116c15decd2d1c6cbc8bca2df11c64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-97116c15decd2d1c6cbc8bca2df11c64]
+## 1. Citation and commencement[^c-97116c15decd2d1c6cbc8bca2df11c64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the National Health Service (Charges to Overseas Visitors) Regulations 2011[^key-97116c15decd2d1c6cbc8bca2df11c64]
+## 2. Amendments to the National Health Service (Charges to Overseas Visitors) Regulations 2011[^c-97116c15decd2d1c6cbc8bca2df11c64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-97116c15decd2d1c6cbc8bca2df11c64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-97116c15decd2d1c6cbc8bca2df11c64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-97116c15decd2d1c6cbc8bca2df11c64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-97116c15decd2d1c6cbc8bca2df11c64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-97116c15decd2d1c6cbc8bca2df11c64]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/1534) revoked (6.4.2015) by [The National Health Service (Charges to Overseas Visitors) Regulations 2015 (S.I. 2015/238)](https://www.legislation.gov.uk/uksi/2015/238), [reg. 1](https://www.legislation.gov.uk/uksi/2015/238/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/238/schedule/4) (with [reg. 27](https://www.legislation.gov.uk/uksi/2015/238/regulation/27))
+[^c-97116c15decd2d1c6cbc8bca2df11c64]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/1534) revoked (6.4.2015) by [The National Health Service (Charges to Overseas Visitors) Regulations 2015 (S.I. 2015/238)](https://www.legislation.gov.uk/uksi/2015/238), [reg. 1](https://www.legislation.gov.uk/uksi/2015/238/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/238/schedule/4) (with [reg. 27](https://www.legislation.gov.uk/uksi/2015/238/regulation/27))

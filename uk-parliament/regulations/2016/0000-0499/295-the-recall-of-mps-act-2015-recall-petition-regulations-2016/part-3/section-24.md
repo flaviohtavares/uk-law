@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Sealing of ballot boxes[^key-c003c55cff93f79dc60dab186f799619]
+## 24. Sealing of ballot boxes[^c-c003c55cff93f79dc60dab186f799619]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ On each day the petition is available for signing, immediately before the time t
 
 ## Annotations
 
-[^key-c003c55cff93f79dc60dab186f799619]: Commencement: Reg. 24 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-c003c55cff93f79dc60dab186f799619]: Commencement: Reg. 24 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 120. Tenancy deposits: preliminary[^key-0ee84d02d255fe1aaaf5c96d89bfec29]
+## 120. Tenancy deposits: preliminary[^c-0ee84d02d255fe1aaaf5c96d89bfec29]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ee84d02d255fe1aaaf5c96d89bfec29]: Commencement: [S. 120](https://www.legislation.gov.uk/asp/2006/1/section/120) in force at 21.12.2010 by [S.S.I. 2010/436](https://www.legislation.gov.uk/ssi/2010/436), [art. 2](https://www.legislation.gov.uk/ssi/2010/436/article/2)
+[^c-0ee84d02d255fe1aaaf5c96d89bfec29]: Commencement: [S. 120](https://www.legislation.gov.uk/asp/2006/1/section/120) in force at 21.12.2010 by [S.S.I. 2010/436](https://www.legislation.gov.uk/ssi/2010/436), [art. 2](https://www.legislation.gov.uk/ssi/2010/436/article/2)

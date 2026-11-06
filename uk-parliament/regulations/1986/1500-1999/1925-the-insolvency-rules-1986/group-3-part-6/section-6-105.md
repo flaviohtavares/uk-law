@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.105. Appeal against decision on proof[^key-7eae21a4cbf24ad789d271a4e3374490]
+## 6.105. Appeal against decision on proof[^c-7eae21a4cbf24ad789d271a4e3374490]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ The application must be made within 21 days of his receiving the statement sent 
 
 ## Annotations
 
-[^key-7eae21a4cbf24ad789d271a4e3374490]: Commencement: [Rule 6.105](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.105) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-7eae21a4cbf24ad789d271a4e3374490]: Commencement: [Rule 6.105](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.105) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

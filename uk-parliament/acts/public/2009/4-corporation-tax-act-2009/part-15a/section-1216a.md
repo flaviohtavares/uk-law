@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1216A. Overview of Part[^key-d270a9585cd06681b6121dd8d870fc26]
+## 1216A. Overview of Part[^c-d270a9585cd06681b6121dd8d870fc26]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) Chapter 2 is about the taxation of the activities of a television production company and includes—
 
-- (a) provision for the company's activities in relation to each qualifying[^key-7c702a6930e63ba744e396b728fc6f3d] relevant programme to be treated as a separate trade, and
+- (a) provision for the company's activities in relation to each qualifying[^c-7c702a6930e63ba744e396b728fc6f3d] relevant programme to be treated as a separate trade, and
 - (b) provision about the calculation of the profits and losses of that trade.
 
 (4) Chapter 3 is about relief (called “television tax relief”) which can be given to a television production company—
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d270a9585cd06681b6121dd8d870fc26]: Textual amendment: Pt. 15A inserted (17.7.2013 for specified purposes, 19.7.2013 in so far as not already in force, and with effect in accordance with Sch. 16 para. 3 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 16 paras. 1](https://www.legislation.gov.uk/ukpga/2013/29/schedule/16/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/16/paragraph/2); [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/1)
+[^c-d270a9585cd06681b6121dd8d870fc26]: Textual amendment: Pt. 15A inserted (17.7.2013 for specified purposes, 19.7.2013 in so far as not already in force, and with effect in accordance with Sch. 16 para. 3 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 16 paras. 1](https://www.legislation.gov.uk/ukpga/2013/29/schedule/16/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/16/paragraph/2); [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/1)
 
-[^key-7c702a6930e63ba744e396b728fc6f3d]: Textual amendment: Words in s. 1216A(3)(a) substituted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/33/2)
+[^c-7c702a6930e63ba744e396b728fc6f3d]: Textual amendment: Words in s. 1216A(3)(a) substituted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/33/2)

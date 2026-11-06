@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 355. Article 2 of Commission Implementing Regulation (EU) 2017/373[^key-7b7c9cda2a228653df609e528e32772f]
+## 355. Article 2 of Commission Implementing Regulation (EU) 2017/373[^c-7b7c9cda2a228653df609e528e32772f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 2 (definitions), omit points (3) and (4).
 
 ## Annotations
 
-[^key-7b7c9cda2a228653df609e528e32772f]: Commencement: Reg. 355 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-7b7c9cda2a228653df609e528e32772f]: Commencement: Reg. 355 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

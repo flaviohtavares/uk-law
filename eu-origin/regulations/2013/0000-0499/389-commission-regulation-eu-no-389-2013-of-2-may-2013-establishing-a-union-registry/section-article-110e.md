@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 110e. Notices[^key-1be34edf1124b85c8923e65c21b22981]
+## Article 110e. Notices[^c-1be34edf1124b85c8923e65c21b22981]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Annex 8a (notices) has effect.
 
 ## Annotations
 
-[^key-1be34edf1124b85c8923e65c21b22981]: Textual amendment: [Arts. 110a-110e](https://www.legislation.gov.uk/eur/2013/389/article/110a) inserted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(17)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/17)
+[^c-1be34edf1124b85c8923e65c21b22981]: Textual amendment: [Arts. 110a-110e](https://www.legislation.gov.uk/eur/2013/389/article/110a) inserted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(17)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/17)

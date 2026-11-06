@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78A. Post authorisation requirements in relation to UK marketing authorisations to which paediatric specific provisions apply[^key-60cd777e35dfb7257b5af94fcf067d78]
+## 78A. Post authorisation requirements in relation to UK marketing authorisations to which paediatric specific provisions apply[^c-60cd777e35dfb7257b5af94fcf067d78]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60cd777e35dfb7257b5af94fcf067d78]: Textual amendment: Regs. 78A, 78B inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [87](https://www.legislation.gov.uk/uksi/2019/775/regulation/87) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 64](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/64)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-60cd777e35dfb7257b5af94fcf067d78]: Textual amendment: Regs. 78A, 78B inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [87](https://www.legislation.gov.uk/uksi/2019/775/regulation/87) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 64](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/64)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

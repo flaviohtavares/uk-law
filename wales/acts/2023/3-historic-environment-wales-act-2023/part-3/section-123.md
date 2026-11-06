@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 123. Power of planning authority to issue enforcement notice[^key-8c7dd72199657e648caac9b483917df5][^key-896f448519deb333324b0cbf5ebf03f2]
+## 123. Power of planning authority to issue enforcement notice[^c-8c7dd72199657e648caac9b483917df5][^c-896f448519deb333324b0cbf5ebf03f2]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8c7dd72199657e648caac9b483917df5]: Commencement: S. 123 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-8c7dd72199657e648caac9b483917df5]: Commencement: S. 123 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-896f448519deb333324b0cbf5ebf03f2]: Commencement: [S. 123](https://www.legislation.gov.uk/asc/2023/3/section/123) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-896f448519deb333324b0cbf5ebf03f2]: Commencement: [S. 123](https://www.legislation.gov.uk/asc/2023/3/section/123) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

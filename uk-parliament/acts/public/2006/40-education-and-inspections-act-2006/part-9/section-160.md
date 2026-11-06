@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Power of Chief Inspector to investigate complaints by parents about schools[^key-f5bf8c19156100ac3da56a6643e845c7]
+## 160. Power of Chief Inspector to investigate complaints by parents about schools[^c-f5bf8c19156100ac3da56a6643e845c7]
 
 *Extent: E+W*
 
@@ -111,4 +111,4 @@ After section 11 of EA 2005 insert—
 
 ## Annotations
 
-[^key-f5bf8c19156100ac3da56a6643e845c7]: Commencement: S. 160 in force at 28.3.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 3](https://www.legislation.gov.uk/uksi/2007/935/article/3)
+[^c-f5bf8c19156100ac3da56a6643e845c7]: Commencement: S. 160 in force at 28.3.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 3](https://www.legislation.gov.uk/uksi/2007/935/article/3)

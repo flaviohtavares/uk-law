@@ -27,9 +27,9 @@ summary: ''
 - (c) section 28(4) or (5) of the 1978 Act and for the purposes of appeals under the 1978 Act references in this Order and in Forms 373 to 386 to section 63(3) of the 1991 Act shall be construed as references to section 28(4) of the 1978 Act and references to section 63(4) of the 1991 Act shall be construed as references to section 28(5) of the 1978 Act;
 - (d) section 63(3) or (4) of the 1991 Act.
 
-(2) Subject to any directions under Article 4 of the Order, an appeal shall be heard at the ordinary sittings of the county courts [^key-0df51ff84db223789c7276d08f20b942]... at such times as the Lord Chancellor may appoint in accordance with Article 6 of the Order.
+(2) Subject to any directions under Article 4 of the Order, an appeal shall be heard at the ordinary sittings of the county courts [^c-0df51ff84db223789c7276d08f20b942]... at such times as the Lord Chancellor may appoint in accordance with Article 6 of the Order.
 
-(3)[^key-69e2f987dc5896f963e0db07f2854fef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-69e2f987dc5896f963e0db07f2854fef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) An appeal shall be by notice in one of Forms 324 to 327, 347 or 373 to 375 as appropriate and the appellant shall serve a copy on the Secretary of State at the address of the department dealing with the application for compensation.
 
@@ -54,9 +54,9 @@ summary: ''
 
 ## Annotations
 
-[^key-0df51ff84db223789c7276d08f20b942]: Textual amendment: Words in Order 54 rule 2(2) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(22)(a)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/22/a); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-0df51ff84db223789c7276d08f20b942]: Textual amendment: Words in Order 54 rule 2(2) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(22)(a)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/22/a); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
 
-[^key-69e2f987dc5896f963e0db07f2854fef]: Textual amendment: Order 54 rule 2(3) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(22)(b)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/22/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-69e2f987dc5896f963e0db07f2854fef]: Textual amendment: Order 54 rule 2(3) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(22)(b)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/22/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
 
 [^f00474]: Footnote: Words deleted by [S.R. 1995 No. 151](https://www.legislation.gov.uk/nisr/1995/151) with effect from 1.9.95
 

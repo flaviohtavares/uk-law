@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Reduction of certain Class 1A contributions in respect of cars made available to disabled employed earners[^key-42b36c5a515352ae61a2cd3a014b480e]
+## 37. Reduction of certain Class 1A contributions in respect of cars made available to disabled employed earners[^c-42b36c5a515352ae61a2cd3a014b480e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42b36c5a515352ae61a2cd3a014b480e]: Textual amendment: Reg. 37 omitted (6.4.2004) by virtue of [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2004/770/regulation/8)
+[^c-42b36c5a515352ae61a2cd3a014b480e]: Textual amendment: Reg. 37 omitted (6.4.2004) by virtue of [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2004/770/regulation/8)

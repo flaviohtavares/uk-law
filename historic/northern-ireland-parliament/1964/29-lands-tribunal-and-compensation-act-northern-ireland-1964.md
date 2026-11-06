@@ -50,7 +50,7 @@ An Act to establish a Lands Tribunal to determine certain questions relating to 
 
 *Para. (a) rep. by SI 1973/2163*
 
-- (b)[^c16952021] shall vacate his office on the day on which he attains the age of 75[^key-c7621116f0a2e7a26ed29ac03ce3a807] ; and
+- (b)[^c16952021] shall vacate his office on the day on which he attains the age of 75[^c-c7621116f0a2e7a26ed29ac03ce3a807] ; and
 - (c)[^c22509661] \[[^c16952041] in\] his appointment shall be subject to such other conditions as may be determined by the Ministry before his appointment or as may, after his appointment, be agreed to in writing by him with the Ministry.
 
 (2) A member of the Lands Tribunal shall not practise at the bar or as a solicitor or engage, whether directly or indirectly, or be a partner of any other person who engages, in any gainful profession, occupation or business which involves or may involve the valuation of or dealing in land but nothing in this subsection shall affect the operation of any rule of law disqualifying a person for acting in any matter on the ground of interest or bias.
@@ -61,7 +61,7 @@ An Act to establish a Lands Tribunal to determine certain questions relating to 
 
 (4A) [^c20029401]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^c22509671][^key-99ade3c2758c8b4c59664311e328c70f] There shall be paid to the members of the Lands Tribunal appointed under section 1(2) such remuneration as the Department of Justice may determine.
+(5)[^c22509671][^c-99ade3c2758c8b4c59664311e328c70f] There shall be paid to the members of the Lands Tribunal appointed under section 1(2) such remuneration as the Department of Justice may determine.
 
 (6) All sums payable under this section shall be charged on and issued out of the Consolidated Fund.
 
@@ -73,7 +73,7 @@ An Act to establish a Lands Tribunal to determine certain questions relating to 
 
 - “election” means an election made under subsection (3);
 - “judicial office” means office as the President or other member of the Lands Tribunal appointed under section 1;
-- “judicial pension scheme” means an occupational pension scheme constituted by an order made under subsection (5) of section 2 to provide a personal pension, lump sum or any widow's , widower’s, surviving civil partner’s[^key-9c9bbfa320b5d545723419b3392772f4] or children's pension to a person in judicial office and his widow , or widower or surviving civil partner,[^key-cd024fdcf742250c21cd3c4d6ab7b193] and children; and “relevant judical pension scheme” has a corresponding meaning;
+- “judicial pension scheme” means an occupational pension scheme constituted by an order made under subsection (5) of section 2 to provide a personal pension, lump sum or any widow's , widower’s, surviving civil partner’s[^c-9c9bbfa320b5d545723419b3392772f4] or children's pension to a person in judicial office and his widow , or widower or surviving civil partner,[^c-cd024fdcf742250c21cd3c4d6ab7b193] and children; and “relevant judical pension scheme” has a corresponding meaning;
 - *Definition rep. by SR 2003/483*
 
 (3) A person who is elegible for a pension in judicial office shall while in that office—
@@ -98,7 +98,7 @@ An Act to establish a Lands Tribunal to determine certain questions relating to 
 (9) While an election remains in force in respect of a person—
 
 - (a) his service shall not be counted for the purpose of determining the allowances and gratuities payable to or in respect of him; and
-- (b) no contribution shall be made by him towards the cost of a widow's , or widower’s or surviving civil partner’s,[^key-915a15024c762e6ae8a24c2af2d684af] and children's pension,
+- (b) no contribution shall be made by him towards the cost of a widow's , or widower’s or surviving civil partner’s,[^c-915a15024c762e6ae8a24c2af2d684af] and children's pension,
 
 under or by virtue of the judicial pension scheme.
 
@@ -122,9 +122,9 @@ under or by virtue of the judicial pension scheme.
 
 (2) There shall be paid to persons appointed under this section such remuneration and to, or in respect of the service of, persons so appointed such allowances and gratuities by way of superannuation, as the Ministry may determine.
 
-### 5. ... Allowances and other financial provisions.[^c22509701][^c16952211][^key-77cefc83661378914465fd2c92a968b5][^key-77cefc83661378914465fd2c92a968b5]
+### 5. ... Allowances and other financial provisions.[^c22509701][^c16952211][^c-77cefc83661378914465fd2c92a968b5][^c-77cefc83661378914465fd2c92a968b5]
 
-(1) There may be paid to members of the Lands Tribunal such allowances[^key-a273482d8951b9560ff5f7cf993af502] as the Ministry may determine and to officers and servants appointed under section 4 travelling and subsistence allowances at the rates for the time being applicable to travelling and subsistence allowances payable to persons employed in the civil service of Northern Ireland.
+(1) There may be paid to members of the Lands Tribunal such allowances[^c-a273482d8951b9560ff5f7cf993af502] as the Ministry may determine and to officers and servants appointed under section 4 travelling and subsistence allowances at the rates for the time being applicable to travelling and subsistence allowances payable to persons employed in the civil service of Northern Ireland.
 
 (2) All sums payable under sections 3 and 4 and this section and such other expenses of the Lands Tribunal as the Ministry may determine shall be defrayed out of moneys provided by Parliament.
 
@@ -277,7 +277,7 @@ For the removal of doubt it is hereby declared that nothing in this Act shall ap
 
 [^c16952021]: Textual amendment: [1993 c.8](https://www.legislation.gov.uk/ukpga/1993/8)
 
-[^key-c7621116f0a2e7a26ed29ac03ce3a807]: Textual amendment: Word in [s. 2(1)(b)](https://www.legislation.gov.uk/apni/1964/29/section/2/1/b) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/10) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-c7621116f0a2e7a26ed29ac03ce3a807]: Textual amendment: Word in [s. 2(1)(b)](https://www.legislation.gov.uk/apni/1964/29/section/2/1/b) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/10) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
 [^c22509661]: Modification: S. 2(1)(c) functions transferred from Department of Finance and Personnel to Department of Justice (1.4.2011) by [Departments (Transfer of Functions) Order (Northern Ireland) 2011 (S.R. 2011/44)](https://www.legislation.gov.uk/nisr/2011/44), [art. 5](https://www.legislation.gov.uk/nisr/2011/44/article/5) (with [art. 8(2)](https://www.legislation.gov.uk/nisr/2011/44/article/8/2))
 
@@ -289,17 +289,17 @@ For the removal of doubt it is hereby declared that nothing in this Act shall ap
 
 [^c22509671]: Modification: S. 2(5) functions transferred from Department of Finance and Personnel to Department of Justice (1.4.2011) by [Departments (Transfer of Functions) Order (Northern Ireland) 2011 (S.R. 2011/44)](https://www.legislation.gov.uk/nisr/2011/44), [art. 5](https://www.legislation.gov.uk/nisr/2011/44/article/5) (with [art. 8(2)](https://www.legislation.gov.uk/nisr/2011/44/article/8/2))
 
-[^key-99ade3c2758c8b4c59664311e328c70f]: Textual amendment: [S. 2(5)](https://www.legislation.gov.uk/apni/1964/29/section/2/5) substituted (25.7.2015) for s. 2(5)(5A) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 100](https://www.legislation.gov.uk/nia/2015/9/section/100), [106(1)(c)](https://www.legislation.gov.uk/nia/2015/9/section/106/1/c)
+[^c-99ade3c2758c8b4c59664311e328c70f]: Textual amendment: [S. 2(5)](https://www.legislation.gov.uk/apni/1964/29/section/2/5) substituted (25.7.2015) for s. 2(5)(5A) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 100](https://www.legislation.gov.uk/nia/2015/9/section/100), [106(1)(c)](https://www.legislation.gov.uk/nia/2015/9/section/106/1/c)
 
 [^c16951941]: Textual amendment: SR 1989/124
 
-[^key-9c9bbfa320b5d545723419b3392772f4]: Textual amendment: Words in [s. 2A(2)](https://www.legislation.gov.uk/apni/1964/29/section/2A/2) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [57(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/57/2/a/i) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-9c9bbfa320b5d545723419b3392772f4]: Textual amendment: Words in [s. 2A(2)](https://www.legislation.gov.uk/apni/1964/29/section/2A/2) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [57(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/57/2/a/i) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-cd024fdcf742250c21cd3c4d6ab7b193]: Textual amendment: Words in [s. 2A(2)](https://www.legislation.gov.uk/apni/1964/29/section/2A/2) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [57(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/57/2/a/ii) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-cd024fdcf742250c21cd3c4d6ab7b193]: Textual amendment: Words in [s. 2A(2)](https://www.legislation.gov.uk/apni/1964/29/section/2A/2) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [57(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/57/2/a/ii) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c16952141]: Textual amendment: SR 2003/483
 
-[^key-915a15024c762e6ae8a24c2af2d684af]: Textual amendment: Words in [s. 2A(9)(b)](https://www.legislation.gov.uk/apni/1964/29/section/2A/9/b) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [57(2)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/57/2/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-915a15024c762e6ae8a24c2af2d684af]: Textual amendment: Words in [s. 2A(9)(b)](https://www.legislation.gov.uk/apni/1964/29/section/2A/9/b) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [57(2)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/57/2/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c21935441]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/apni/1964/29/section/3/1) substituted (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2009/3/section/2/3), [5(7)(a)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7/a), [Sch. 4 para. 7(2)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/4/paragraph/7/2) (with [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/16)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
@@ -321,9 +321,9 @@ For the removal of doubt it is hereby declared that nothing in this Act shall ap
 
 [^c16952211]: Textual amendment: Functions of D/Fin. exercisable with approval of D/CS, SR 1976/281
 
-[^key-77cefc83661378914465fd2c92a968b5]: Textual amendment: Words in [s. 5](https://www.legislation.gov.uk/apni/1964/29/section/5) heading omitted (10.3.2022 for specified purposes, 10.5.2022 in so far as not already in force) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/b/ii), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/2/paragraph/6/2)
+[^c-77cefc83661378914465fd2c92a968b5]: Textual amendment: Words in [s. 5](https://www.legislation.gov.uk/apni/1964/29/section/5) heading omitted (10.3.2022 for specified purposes, 10.5.2022 in so far as not already in force) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/b/ii), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/2/paragraph/6/2)
 
-[^key-a273482d8951b9560ff5f7cf993af502]: Textual amendment: Words in [s. 5(1)](https://www.legislation.gov.uk/apni/1964/29/section/5/1) substituted (10.3.2022 for specified purposes, 10.5.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/b/ii), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/2/paragraph/6/3)
+[^c-a273482d8951b9560ff5f7cf993af502]: Textual amendment: Words in [s. 5(1)](https://www.legislation.gov.uk/apni/1964/29/section/5/1) substituted (10.3.2022 for specified purposes, 10.5.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/b/ii), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/2/paragraph/6/3)
 
 [^m00001]: Marginal citation: 1910 c.8
 

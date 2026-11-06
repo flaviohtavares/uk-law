@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Reducing the burden: premises licences[^key-ebe034d9bfbb4ed89029ecd4e39019f2]
+## 109. Reducing the burden: premises licences[^c-ebe034d9bfbb4ed89029ecd4e39019f2]
 
 *Extent: E+W*
 
@@ -42,9 +42,9 @@ summary: ''
 
 (8) In section 41D(5) (variation of premises licence: supply of alcohol from community premises), for “necessary” substitute “ appropriate ”.
 
-(9)[^key-14fa56eb39a0591fa2045cb801a9a475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-14fa56eb39a0591fa2045cb801a9a475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-49ce6825ae368f151719f0a12de3e6dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-49ce6825ae368f151719f0a12de3e6dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) In section 52(3) (determination of application for review of premises licence), for “necessary” substitute “ appropriate ”.
 
@@ -60,8 +60,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ebe034d9bfbb4ed89029ecd4e39019f2]: Commencement: S. 109 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-ebe034d9bfbb4ed89029ecd4e39019f2]: Commencement: S. 109 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
 
-[^key-14fa56eb39a0591fa2045cb801a9a475]: Textual amendment: [S. 109(9)](https://www.legislation.gov.uk/ukpga/2011/13/section/109/9) omitted (6.4.2017) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 4 para. 32](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/32); [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-14fa56eb39a0591fa2045cb801a9a475]: Textual amendment: [S. 109(9)](https://www.legislation.gov.uk/ukpga/2011/13/section/109/9) omitted (6.4.2017) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 4 para. 32](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/32); [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-49ce6825ae368f151719f0a12de3e6dc]: Textual amendment: [S. 109(10)](https://www.legislation.gov.uk/ukpga/2011/13/section/109/10) omitted (6.4.2017) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 4 para. 32](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/32); [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-49ce6825ae368f151719f0a12de3e6dc]: Textual amendment: [S. 109(10)](https://www.legislation.gov.uk/ukpga/2011/13/section/109/10) omitted (6.4.2017) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 4 para. 32](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/32); [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)

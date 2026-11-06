@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Directions to pause payments or transfers of liabilities: supplementary provision[^key-b7919e9c600d51942aa23d4ac44c3675]
+## 91. Directions to pause payments or transfers of liabilities: supplementary provision[^c-b7919e9c600d51942aa23d4ac44c3675]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7919e9c600d51942aa23d4ac44c3675]: Commencement: S. 91 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-b7919e9c600d51942aa23d4ac44c3675]: Commencement: S. 91 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

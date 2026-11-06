@@ -57,7 +57,7 @@ Coming into force
 
 [^c1540959]These Regulations are made for the purpose only of consolidating other regulations revoked in the Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 .
 
-In accordance with section 176(1) of the Social Security Administration Act 1992, the Secretary of State has consulted with organisations appearing to him to be representative of the authorities concerned.[^key-c4c24aef2e36c6d788d88f6d92194ef6][^key-49bbedbff3933221957c329d717bcad7]
+In accordance with section 176(1) of the Social Security Administration Act 1992, the Secretary of State has consulted with organisations appearing to him to be representative of the authorities concerned.[^c-c4c24aef2e36c6d788d88f6d92194ef6][^c-49bbedbff3933221957c329d717bcad7]
 
 ## Contents
 
@@ -319,6 +319,6 @@ Part 14 provides for the housing benefit scheme to be modified in the area of Pa
 
 [^c1540959]: Textual amendment: *See* section 172 of, and paragraph 10 of Part I of Schedule 7 to, the Social Security Administration Act 1992.
 
-[^key-c4c24aef2e36c6d788d88f6d92194ef6]: Modification: Instrument applied (5.10.2009) by [The Flexible New Deal (Miscellaneous Provisions) Order 2009 (S.I. 2009/1562)](https://www.legislation.gov.uk/uksi/2009/1562), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2009/1562/regulation/2/1/c), [Sch.](https://www.legislation.gov.uk/uksi/2009/1562/schedule)
+[^c-c4c24aef2e36c6d788d88f6d92194ef6]: Modification: Instrument applied (5.10.2009) by [The Flexible New Deal (Miscellaneous Provisions) Order 2009 (S.I. 2009/1562)](https://www.legislation.gov.uk/uksi/2009/1562), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2009/1562/regulation/2/1/c), [Sch.](https://www.legislation.gov.uk/uksi/2009/1562/schedule)
 
-[^key-49bbedbff3933221957c329d717bcad7]: Modification: Instrument excluded (29.4.2013) by [The Universal Credit (Transitional Provisions) Regulations 2013 (S.I. 2013/386)](https://www.legislation.gov.uk/uksi/2013/386), [reg. 13(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/386/regulation/13/2/c/ii)
+[^c-49bbedbff3933221957c329d717bcad7]: Modification: Instrument excluded (29.4.2013) by [The Universal Credit (Transitional Provisions) Regulations 2013 (S.I. 2013/386)](https://www.legislation.gov.uk/uksi/2013/386), [reg. 13(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/386/regulation/13/2/c/ii)

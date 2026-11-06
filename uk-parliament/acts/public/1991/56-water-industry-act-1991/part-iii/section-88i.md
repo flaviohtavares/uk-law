@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88I. Variation or termination of arrangements under section 87(1)[^key-f3fe403db7e38c8c26ae698b98c48b7c]
+## 88I. Variation or termination of arrangements under section 87(1)[^c-f3fe403db7e38c8c26ae698b98c48b7c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3fe403db7e38c8c26ae698b98c48b7c]: Textual amendment: [Ss. 88B-88O](https://www.legislation.gov.uk/ukpga/1991/56/section/88B) omitted (1.11.2022 for E.) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 175(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/175/4), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/1003](https://www.legislation.gov.uk/uksi/2022/1003), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/1003/regulation/3/a)
+[^c-f3fe403db7e38c8c26ae698b98c48b7c]: Textual amendment: [Ss. 88B-88O](https://www.legislation.gov.uk/ukpga/1991/56/section/88B) omitted (1.11.2022 for E.) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 175(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/175/4), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/1003](https://www.legislation.gov.uk/uksi/2022/1003), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/1003/regulation/3/a)

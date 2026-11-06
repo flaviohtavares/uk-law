@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30A. The register: emergency powers doctors list[^key-949608a8f4a299577af887a226a2efb1]
+## 30A. The register: emergency powers doctors list[^c-949608a8f4a299577af887a226a2efb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-949608a8f4a299577af887a226a2efb1]: Textual amendment: S. 30A inserted (9.7.2008) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/2/b), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2008/1774/schedule/1/paragraph/12)
+[^c-949608a8f4a299577af887a226a2efb1]: Textual amendment: S. 30A inserted (9.7.2008) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/2/b), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2008/1774/schedule/1/paragraph/12)

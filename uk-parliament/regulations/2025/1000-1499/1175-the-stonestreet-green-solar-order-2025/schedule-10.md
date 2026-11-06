@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 10 — LAND IN RESPECT OF WHICH ONLY RIGHTS ETC MAY BE ACQUIRED[^key-0e5bbe206cd638e16c926c3e6baa809c]
+## SCHEDULE 10 — LAND IN RESPECT OF WHICH ONLY RIGHTS ETC MAY BE ACQUIRED[^c-0e5bbe206cd638e16c926c3e6baa809c]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ Article 25
 
 ## Annotations
 
-[^key-0e5bbe206cd638e16c926c3e6baa809c]: Commencement: Sch. 10 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-0e5bbe206cd638e16c926c3e6baa809c]: Commencement: Sch. 10 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)

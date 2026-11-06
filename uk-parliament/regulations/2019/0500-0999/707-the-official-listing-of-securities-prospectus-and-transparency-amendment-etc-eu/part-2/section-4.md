@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Part 6 rules[^key-d19f7acda000886e2dbb401b43083fab]
+## 4. Part 6 rules[^c-d19f7acda000886e2dbb401b43083fab]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d19f7acda000886e2dbb401b43083fab]: Textual amendment: Reg. 4 omitted (6.9.2019) by virtue of [The Prospectus (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1234)](https://www.legislation.gov.uk/uksi/2019/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2019/1234/regulation/11) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1234](https://www.legislation.gov.uk/uksi/2019/1234), [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/29/2)))
+[^c-d19f7acda000886e2dbb401b43083fab]: Textual amendment: Reg. 4 omitted (6.9.2019) by virtue of [The Prospectus (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1234)](https://www.legislation.gov.uk/uksi/2019/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2019/1234/regulation/11) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1234](https://www.legislation.gov.uk/uksi/2019/1234), [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/29/2)))

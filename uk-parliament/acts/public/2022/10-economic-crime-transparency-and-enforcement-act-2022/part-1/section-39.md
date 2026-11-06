@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Financial penalties[^key-5cbea07c2719bbbc7fcfd3ccf145b817][^key-7e6fb02b7fc974403b835205de9dcc3c][^key-1439115c4a13b206c6518d9e56165160]
+## 39. Financial penalties[^c-5cbea07c2719bbbc7fcfd3ccf145b817][^c-7e6fb02b7fc974403b835205de9dcc3c][^c-1439115c4a13b206c6518d9e56165160]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,10 +37,10 @@ summary: ''
 
 (4) The regulations must provide that—
 
-- (a)[^key-8050e400605cc199fff01db06aee9814] no financial penalty may be imposed under the regulations on a person in respect of conduct amounting to an offence if—
+- (a)[^c-8050e400605cc199fff01db06aee9814] no financial penalty may be imposed under the regulations on a person in respect of conduct amounting to an offence if—
   - (i) proceedings have been brought against the person for that offence in respect of that conduct and the proceedings are ongoing, or
   - (ii) the person has been convicted of that offence in respect of that conduct, and
-- (b) no proceedings may be brought [^key-40e419a99251d5ed79ae7daca46ac7ef]... against a person in respect of conduct amounting to an offence if the person has been given a financial penalty under the regulations in respect of that conduct.
+- (b) no proceedings may be brought [^c-40e419a99251d5ed79ae7daca46ac7ef]... against a person in respect of conduct amounting to an offence if the person has been given a financial penalty under the regulations in respect of that conduct.
 
 (5) Amounts recovered by the registrar under the regulations are to be paid into the Consolidated Fund.
 
@@ -56,12 +56,12 @@ summary: ''
 
 ## Annotations
 
-[^key-5cbea07c2719bbbc7fcfd3ccf145b817]: Commencement: S. 39 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-5cbea07c2719bbbc7fcfd3ccf145b817]: Commencement: S. 39 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-7e6fb02b7fc974403b835205de9dcc3c]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2022/10/section/39) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/k)
+[^c-7e6fb02b7fc974403b835205de9dcc3c]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2022/10/section/39) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/k)
 
-[^key-1439115c4a13b206c6518d9e56165160]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2022/10/section/39) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)
+[^c-1439115c4a13b206c6518d9e56165160]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2022/10/section/39) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)
 
-[^key-8050e400605cc199fff01db06aee9814]: Textual amendment: [S. 39(4)(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/39/4/a) substituted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 175(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/175/a), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z58)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z58)
+[^c-8050e400605cc199fff01db06aee9814]: Textual amendment: [S. 39(4)(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/39/4/a) substituted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 175(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/175/a), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z58)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z58)
 
-[^key-40e419a99251d5ed79ae7daca46ac7ef]: Textual amendment: Words in [s. 39(4)(b)](https://www.legislation.gov.uk/ukpga/2022/10/section/39/4/b) omitted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 175(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/175/b), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z58)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z58)
+[^c-40e419a99251d5ed79ae7daca46ac7ef]: Textual amendment: Words in [s. 39(4)(b)](https://www.legislation.gov.uk/ukpga/2022/10/section/39/4/b) omitted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 175(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/175/b), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z58)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z58)

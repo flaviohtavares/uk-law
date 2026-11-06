@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Not exhibiting licence.[^key-2c3386b48610674bb8e2e82df2ea84b0]
+## 33. Not exhibiting licence.[^c-2c3386b48610674bb8e2e82df2ea84b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c3386b48610674bb8e2e82df2ea84b0]: Textual amendment: S. 33 omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 13](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/13), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
+[^c-2c3386b48610674bb8e2e82df2ea84b0]: Textual amendment: S. 33 omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 13](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/13), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)

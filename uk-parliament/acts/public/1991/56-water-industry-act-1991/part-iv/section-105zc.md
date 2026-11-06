@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105ZC. Codes in respect of section 104 agreements[^key-e46bef2e29e12852d08a23296c51c244]
+## 105ZC. Codes in respect of section 104 agreements[^c-e46bef2e29e12852d08a23296c51c244]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e46bef2e29e12852d08a23296c51c244]: Textual amendment: [Ss. 105ZA-105ZI](https://www.legislation.gov.uk/ukpga/1991/56/section/105ZA) inserted (18.12.2015 for the insertion of ss. 105ZF-105ZI, 1.4.2017 for E. for the insertion of s. 105ZD, 1.10.2017 for E. in so far as not already in force, 1.4.2019 for W. in so far as not already in force) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 11(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/11/3), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/c/ii); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [arts. 3(e)(ii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/e/ii), [4(b)](https://www.legislation.gov.uk/uksi/2017/462/article/4/b); [S.I. 2017/1288](https://www.legislation.gov.uk/wsi/2017/1288), [art. 3(d)](https://www.legislation.gov.uk/wsi/2017/1288/article/3/d)
+[^c-e46bef2e29e12852d08a23296c51c244]: Textual amendment: [Ss. 105ZA-105ZI](https://www.legislation.gov.uk/ukpga/1991/56/section/105ZA) inserted (18.12.2015 for the insertion of ss. 105ZF-105ZI, 1.4.2017 for E. for the insertion of s. 105ZD, 1.10.2017 for E. in so far as not already in force, 1.4.2019 for W. in so far as not already in force) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 11(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/11/3), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/c/ii); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [arts. 3(e)(ii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/e/ii), [4(b)](https://www.legislation.gov.uk/uksi/2017/462/article/4/b); [S.I. 2017/1288](https://www.legislation.gov.uk/wsi/2017/1288), [art. 3(d)](https://www.legislation.gov.uk/wsi/2017/1288/article/3/d)

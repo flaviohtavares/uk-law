@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Other exception[^key-df39433be666c789726b4f2a590e9698]
+## 44. Other exception[^c-df39433be666c789726b4f2a590e9698]
 
 *Extent: E+W+S+N.I.*
 
-(1) Where the TRA determines that the conditions in paragraph (2) are satisfied, the TRA may[^key-40c5411bdb41b2b03d4898189dfffdad] except goods originating from a foreign country or territory—
+(1) Where the TRA determines that the conditions in paragraph (2) are satisfied, the TRA may[^c-40c5411bdb41b2b03d4898189dfffdad] except goods originating from a foreign country or territory—
 
 - (a) from the scope of a recommendation by the TRA to apply a provisional safeguarding remedy or definitive safeguarding remedy; and
 - (b) from—
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-df39433be666c789726b4f2a590e9698]: Commencement: Reg. 44 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-df39433be666c789726b4f2a590e9698]: Commencement: Reg. 44 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
 
-[^key-40c5411bdb41b2b03d4898189dfffdad]: Textual amendment: Word in reg. 44(1) substituted (5.8.2020) by [The Trade Remedies (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/730)](https://www.legislation.gov.uk/uksi/2020/730), [regs. 1](https://www.legislation.gov.uk/uksi/2020/730/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/730/regulation/5)
+[^c-40c5411bdb41b2b03d4898189dfffdad]: Textual amendment: Word in reg. 44(1) substituted (5.8.2020) by [The Trade Remedies (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/730)](https://www.legislation.gov.uk/uksi/2020/730), [regs. 1](https://www.legislation.gov.uk/uksi/2020/730/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/730/regulation/5)
 
 [^c23757651]: Marginal citation: Available from: https://www.wto.org/english/docs\_e/legal\_e/legal\_e.htm

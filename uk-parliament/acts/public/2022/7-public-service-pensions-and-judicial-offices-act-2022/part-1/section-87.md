@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Interpretation of Chapter[^key-5e863df045d24009b9f3a3a161b7843e][^key-7fcc0a2db21321fc94e83a641bbfa1d0]
+## 87. Interpretation of Chapter[^c-5e863df045d24009b9f3a3a161b7843e][^c-7fcc0a2db21321fc94e83a641bbfa1d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ the service is treated for the purposes of this Chapter as service in a single e
 
 ## Annotations
 
-[^key-5e863df045d24009b9f3a3a161b7843e]: Commencement: S. 87 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-5e863df045d24009b9f3a3a161b7843e]: Commencement: S. 87 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-7fcc0a2db21321fc94e83a641bbfa1d0]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2022/7/section/87) in force at 1.10.2023 in force in so far as not already in force (or on such earlier day as may be appointed), see [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/d)[(e)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/e)
+[^c-7fcc0a2db21321fc94e83a641bbfa1d0]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2022/7/section/87) in force at 1.10.2023 in force in so far as not already in force (or on such earlier day as may be appointed), see [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/d)[(e)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/e)

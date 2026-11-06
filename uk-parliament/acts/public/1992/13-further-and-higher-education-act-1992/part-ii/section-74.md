@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) After section 122 of the [^c11066151]Education Reform Act 1988 (orders incorporating higher education institutions maintained by local authorities[^key-5ca14e1c5c9fb4ff32ae914fdd63af76]) there is inserted—
+(1) After section 122 of the [^c11066151]Education Reform Act 1988 (orders incorporating higher education institutions maintained by local authorities[^c-5ca14e1c5c9fb4ff32ae914fdd63af76]) there is inserted—
 
 > **122A. Orders transferring further education corporations to higher education sector.**
 >
@@ -43,6 +43,6 @@ summary: ''
 
 [^c11066151]: Marginal citation: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40).
 
-[^key-5ca14e1c5c9fb4ff32ae914fdd63af76]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/5/2)
+[^c-5ca14e1c5c9fb4ff32ae914fdd63af76]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/5/2)
 
 [^c11066161]: Marginal citation: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40).

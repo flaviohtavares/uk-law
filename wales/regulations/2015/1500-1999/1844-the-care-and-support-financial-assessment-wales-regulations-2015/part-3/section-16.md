@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Capital treated as income[^key-886089734b0fab6748509ab8d5e92445]
+## 16. Capital treated as income[^c-886089734b0fab6748509ab8d5e92445]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-886089734b0fab6748509ab8d5e92445]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2015/1844/regulation/16) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)
+[^c-886089734b0fab6748509ab8d5e92445]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2015/1844/regulation/16) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)

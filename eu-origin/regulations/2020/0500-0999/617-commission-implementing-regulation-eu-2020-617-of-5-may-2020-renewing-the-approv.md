@@ -35,38 +35,38 @@ renewing the approval of the active substance metalaxyl-M, and restricting the u
 
 (Text with EEA relevance) (revoked)
 
-[^key-756d9fe271856d16b316c2b2f107303b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-756d9fe271856d16b316c2b2f107303b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Renewal of the approval of the active substance[^key-756d9fe271856d16b316c2b2f107303b]
+## Article 1. Renewal of the approval of the active substance[^c-756d9fe271856d16b316c2b2f107303b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Amendments to Implementing Regulation (EU) No 540/2011[^key-756d9fe271856d16b316c2b2f107303b]
+## Article 2. Amendments to Implementing Regulation (EU) No 540/2011[^c-756d9fe271856d16b316c2b2f107303b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Restriction to the use of treated seeds[^key-756d9fe271856d16b316c2b2f107303b]
+## Article 3. Restriction to the use of treated seeds[^c-756d9fe271856d16b316c2b2f107303b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Entry into force and date of application[^key-756d9fe271856d16b316c2b2f107303b]
+## Article 4. Entry into force and date of application[^c-756d9fe271856d16b316c2b2f107303b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-756d9fe271856d16b316c2b2f107303b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-756d9fe271856d16b316c2b2f107303b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-756d9fe271856d16b316c2b2f107303b]
+## ANNEX I[^c-756d9fe271856d16b316c2b2f107303b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-756d9fe271856d16b316c2b2f107303b]
+## ANNEX II[^c-756d9fe271856d16b316c2b2f107303b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-756d9fe271856d16b316c2b2f107303b]: Textual amendment: Regulation revoked (E.W.S.) (4.4.2022) by [The Pesticides (Revocation) (EU Exit) Regulations 2022 (S.I. 2022/144)](https://www.legislation.gov.uk/uksi/2022/144), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/144/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/144/schedule)
+[^c-756d9fe271856d16b316c2b2f107303b]: Textual amendment: Regulation revoked (E.W.S.) (4.4.2022) by [The Pesticides (Revocation) (EU Exit) Regulations 2022 (S.I. 2022/144)](https://www.legislation.gov.uk/uksi/2022/144), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/144/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/144/schedule)

@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A death grant may be paid[^key-069629ff2f0e535374aa8a1df011653e] under this regulation if a member (D) dies out of service (“death out of service grant”).
+(1) A death grant may be paid[^c-069629ff2f0e535374aa8a1df011653e] under this regulation if a member (D) dies out of service (“death out of service grant”).
 
 (2) A death out of service grant is not payable if—
 
 - (a) D dies following a period of pensionable service that is not post-benefit service and a retirement pension other than a phased retirement pension becomes payable before D's death; or
 - (b) D dies following a period of post-benefit service and a retirement pension other than a phased retirement pension in respect of that period becomes payable before D's death
 
-(2A)[^key-c1e0aee171580e4990b4582e38184d17] For the purposes of paragraph (2), an ill-health pension and, if applicable, a total incapacity pension are taken to become payable if—
+(2A)[^c-c1e0aee171580e4990b4582e38184d17] For the purposes of paragraph (2), an ill-health pension and, if applicable, a total incapacity pension are taken to become payable if—
 
 - (a) before D’s death D made an ill-health application;
 - (b) at the same time as D made the ill-health application, D made an application under regulation 171 for commutation of the ill-health pension and, if applicable, a total incapacity pension; and
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-069629ff2f0e535374aa8a1df011653e]: Textual amendment: Words in reg. 140(1) substituted (retrospective to 1.4.2015) by [The Teachers Pensions Schemes (Amendment) Regulations 2018 (S.I. 2018/218)](https://www.legislation.gov.uk/uksi/2018/218), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/218/regulation/1/2/b), [3(4)](https://www.legislation.gov.uk/uksi/2018/218/regulation/3/4)
+[^c-069629ff2f0e535374aa8a1df011653e]: Textual amendment: Words in reg. 140(1) substituted (retrospective to 1.4.2015) by [The Teachers Pensions Schemes (Amendment) Regulations 2018 (S.I. 2018/218)](https://www.legislation.gov.uk/uksi/2018/218), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/218/regulation/1/2/b), [3(4)](https://www.legislation.gov.uk/uksi/2018/218/regulation/3/4)
 
-[^key-c1e0aee171580e4990b4582e38184d17]: Textual amendment: Reg. 140(2A) inserted (30.11.2017) by [The Teachers Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [18](https://www.legislation.gov.uk/uksi/2017/1084/regulation/18)
+[^c-c1e0aee171580e4990b4582e38184d17]: Textual amendment: Reg. 140(2A) inserted (30.11.2017) by [The Teachers Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [18](https://www.legislation.gov.uk/uksi/2017/1084/regulation/18)

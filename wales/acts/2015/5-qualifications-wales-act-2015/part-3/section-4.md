@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Recognition of awarding bodies[^key-947b15258eac7b6aff3f5e5cf34282c6]
+## 4. Recognition of awarding bodies[^c-947b15258eac7b6aff3f5e5cf34282c6]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-947b15258eac7b6aff3f5e5cf34282c6]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2015/5/section/4) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-947b15258eac7b6aff3f5e5cf34282c6]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2015/5/section/4) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

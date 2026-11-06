@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: S*
 
-An authorisation under regulation 24(1) or 25(5) [^key-33c29cd6ecf263e6ee6f77e64810de94]... may be limited to water supplied—
+An authorisation under regulation 24(1) or 25(5) [^c-33c29cd6ecf263e6ee6f77e64810de94]... may be limited to water supplied—
 
 - (a) from particular sources or classes of source; and
 - (b) to particular water supply zones or to zones of particular descriptions.
 
 ## Annotations
 
-[^key-33c29cd6ecf263e6ee6f77e64810de94]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/ssi/2014/364/regulation/26) omitted (1.1.2023) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [11](https://www.legislation.gov.uk/ssi/2022/387/regulation/11)
+[^c-33c29cd6ecf263e6ee6f77e64810de94]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/ssi/2014/364/regulation/26) omitted (1.1.2023) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [11](https://www.legislation.gov.uk/ssi/2022/387/regulation/11)

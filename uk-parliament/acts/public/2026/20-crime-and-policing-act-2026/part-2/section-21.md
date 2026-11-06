@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Content removal notices[^key-e9bced7e9f32ccef91e19384509fd983]
+## 21. Content removal notices[^c-e9bced7e9f32ccef91e19384509fd983]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ is unlawful weapons content in a relevant part of the United Kingdom.
 
 ## Annotations
 
-[^key-e9bced7e9f32ccef91e19384509fd983]: Commencement: S. 21 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-e9bced7e9f32ccef91e19384509fd983]: Commencement: S. 21 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

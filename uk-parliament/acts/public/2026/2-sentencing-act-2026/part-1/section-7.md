@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Special custodial sentence for certain offenders of particular concern: England and Wales[^key-f56b757662eb892c14c988e4f385b1bb]
+## 7. Special custodial sentence for certain offenders of particular concern: England and Wales[^c-f56b757662eb892c14c988e4f385b1bb]
 
 *Extent: E+W*
 
@@ -161,4 +161,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f56b757662eb892c14c988e4f385b1bb]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2026/2/section/7) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-f56b757662eb892c14c988e4f385b1bb]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2026/2/section/7) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)

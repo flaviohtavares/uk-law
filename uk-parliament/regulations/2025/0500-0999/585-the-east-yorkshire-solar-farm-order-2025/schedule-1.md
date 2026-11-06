@@ -22,7 +22,7 @@ summary: ''
 
 Article 3
 
-### 1. Interpretation[^key-3a28ee87ce9c754936554b8703d79f74]
+### 1. Interpretation[^c-3a28ee87ce9c754936554b8703d79f74]
 
 In this Schedule—
 
@@ -42,7 +42,7 @@ In this Schedule—
 - “**switchgear**” means a combination of electrical disconnect switches, fuses or circuit breakers used to control, protect and isolate electrical equipment; and
 - “**transformer**” means a structure containing an electrical device to transform electricity to a different voltage.
 
-**2.**[^key-dea3ca9a0d5f4ca87880a5fc49d130f4] In the Unitary authority areas of East Riding of Yorkshire and North Yorkshire a nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act and associated development under section 115(1)(b) of the 2008 Act.
+**2.**[^c-dea3ca9a0d5f4ca87880a5fc49d130f4] In the Unitary authority areas of East Riding of Yorkshire and North Yorkshire a nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act and associated development under section 115(1)(b) of the 2008 Act.
 
 The nationally significant infrastructure project comprises one generating station with a gross electrical output capacity of over 50 megawatts comprising all or any of the work numbers in this Schedule or any part of any work number in this Schedule—
 
@@ -120,7 +120,7 @@ In connection with and in addition to Work Nos. 1 to 8 further associated develo
 - (e) boundary treatments, including means of enclosure;
 - (f) habitat creation and management including earthworks, landscaping, means of enclosure and the laying and construction of drainage infrastructure;
 - (g) landscaping and other works to mitigate any adverse effects of construction, maintenance or operation of the authorised development;
-- (h) electrical, gas, water, foul water drainage and telecommunications infrastructure connections, diversions [^key-3f44256d956f6a8112e7abd90c57fc40]..., and works to alter the position of, such services and utilities connections;
+- (h) electrical, gas, water, foul water drainage and telecommunications infrastructure connections, diversions [^c-3f44256d956f6a8112e7abd90c57fc40]..., and works to alter the position of, such services and utilities connections;
 - (i) works to alter the course of, or otherwise interfere with, non-navigable rivers, streams or watercourses;
 - (j) works to the existing irrigation system and works to alter the position and extent of such irrigation system;
 - (k) surface water drainage systems, storm water attenuation systems including storage basins, oil water separators, including channelling and culverting and works to existing drainage systems;
@@ -133,8 +133,8 @@ and further associated development comprising such other works or operations as 
 
 ## Annotations
 
-[^key-3a28ee87ce9c754936554b8703d79f74]: Commencement: Sch. 1 para. 1 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-3a28ee87ce9c754936554b8703d79f74]: Commencement: Sch. 1 para. 1 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
 
-[^key-dea3ca9a0d5f4ca87880a5fc49d130f4]: Commencement: Sch. 1 para. 2 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-dea3ca9a0d5f4ca87880a5fc49d130f4]: Commencement: Sch. 1 para. 2 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
 
-[^key-3f44256d956f6a8112e7abd90c57fc40]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2025/585/schedule/1) omitted (20.9.2025) by virtue of [The East Yorkshire Solar Farm (Correction) Order 2025 (S.I. 2025/1059)](https://www.legislation.gov.uk/uksi/2025/1059), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1059/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/1059/schedule)
+[^c-3f44256d956f6a8112e7abd90c57fc40]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2025/585/schedule/1) omitted (20.9.2025) by virtue of [The East Yorkshire Solar Farm (Correction) Order 2025 (S.I. 2025/1059)](https://www.legislation.gov.uk/uksi/2025/1059), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1059/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/1059/schedule)

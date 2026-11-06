@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809FZA. Overview[^key-1e6b7e8cdae7990c9b3f9b0fd57bb3a1]
+## 809FZA. Overview[^c-1e6b7e8cdae7990c9b3f9b0fd57bb3a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e6b7e8cdae7990c9b3f9b0fd57bb3a1]: Textual amendment: Pt. 13 Ch. 5F omitted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 3(9)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/3/9)
+[^c-1e6b7e8cdae7990c9b3f9b0fd57bb3a1]: Textual amendment: Pt. 13 Ch. 5F omitted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 3(9)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/3/9)

@@ -160,12 +160,12 @@ In Schedule 1 to the Social Security (Claims and Payments) Regulations 1979[^f00
 
 (4) In regulation 17(1), for the words “section 60 (increase of disablement pension for special hardship)” there shall be substituted the words “section 59A (reduced earnings allowance)”.
 
-(5) Subject to paragraph (6), regulation 18 and Schedule 4 shall continue to apply to a beneficiary who immediately before 1st October 1986 was entitled to benefit under that regulation, as though section 60(7) of the 1975 Act had not been repealed and as if references to an increase of disablement pension under section 60 of that Act were references to reduced earnings allowance payable under section 59A of that Act, or in a case to which section 59B of the 1975 Act applies (ending of entitlement to reduced earnings allowance) to retirement allowance payable under that section; and for the purposes of this provision the reference to retirement allowance includes a reference to a retirement allowance which would have been payable but for any failure to satisfy the requirement in subsection (2) of section 59B as to the weekly rate or aggregate weekly rate of reduced earnings allowance payable.[^key-82b164f410ee8d96742c2cc38784d220]
+(5) Subject to paragraph (6), regulation 18 and Schedule 4 shall continue to apply to a beneficiary who immediately before 1st October 1986 was entitled to benefit under that regulation, as though section 60(7) of the 1975 Act had not been repealed and as if references to an increase of disablement pension under section 60 of that Act were references to reduced earnings allowance payable under section 59A of that Act, or in a case to which section 59B of the 1975 Act applies (ending of entitlement to reduced earnings allowance) to retirement allowance payable under that section; and for the purposes of this provision the reference to retirement allowance includes a reference to a retirement allowance which would have been payable but for any failure to satisfy the requirement in subsection (2) of section 59B as to the weekly rate or aggregate weekly rate of reduced earnings allowance payable.[^c-82b164f410ee8d96742c2cc38784d220]
 
 (6) Regulation 18 and Schedule 4 shall apply in accordance with paragraph (5) until—
 
 - (a) the period of the assessment has expired or the assessment is reviewed, or
-- (b) benefit under section 59A or, as the case may be, section 59B[^key-39ed5bdfaebf9a4cd375dde0679df2b7] of the 1975 Act has ceased to be payable,
+- (b) benefit under section 59A or, as the case may be, section 59B[^c-39ed5bdfaebf9a4cd375dde0679df2b7] of the 1975 Act has ceased to be payable,
 
 whichever is the earlier, so however that where an award of a disablement pension in lieu of a gratuity is revised on review and a further award made, regulation 18(2) shall not apply to that award.
 
@@ -227,7 +227,7 @@ then the application for review shall be determined as though paragraph 3(1) of 
 
 (3) In a case to which paragraph (2)(b) refers, where on a subsequent assessment the extent of the beneficiary's disablement is assessed at 1 per cent. or more but less than 14 per cent., that assessment shall be determined as though section 57(5) of the 1975 Act had not been repealed, but no entitlement to a further pension in lieu of a gratuity shall arise.
 
-### 13. Delayed claims[^key-2b108532c1f89149ed215828be18f609]
+### 13. Delayed claims[^c-2b108532c1f89149ed215828be18f609]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -302,12 +302,12 @@ Regulation 14 enables awards of disablement benefit to be made where the disable
 
 [^f00004]: Footnote: The relevant amending instrument is S.I. 1986/903.
 
-[^key-82b164f410ee8d96742c2cc38784d220]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/uksi/1986/1561/regulation/7/5) substituted (1.11.1989) by [The Social Security (Industrial Injuries and Diseases) Miscellaneous Provisions (Amendment) Regulations 1989 (S.I. 1989/1824)](https://www.legislation.gov.uk/uksi/1989/1824), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1824/regulation/1/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/1989/1824/regulation/2/1/a)
+[^c-82b164f410ee8d96742c2cc38784d220]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/uksi/1986/1561/regulation/7/5) substituted (1.11.1989) by [The Social Security (Industrial Injuries and Diseases) Miscellaneous Provisions (Amendment) Regulations 1989 (S.I. 1989/1824)](https://www.legislation.gov.uk/uksi/1989/1824), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1824/regulation/1/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/1989/1824/regulation/2/1/a)
 
-[^key-39ed5bdfaebf9a4cd375dde0679df2b7]: Textual amendment: Words in [reg. 7(6)(b)](https://www.legislation.gov.uk/uksi/1986/1561/regulation/7/6/b) inserted (1.11.1989) by [The Social Security (Industrial Injuries and Diseases) Miscellaneous Provisions (Amendment) Regulations 1989 (S.I. 1989/1824)](https://www.legislation.gov.uk/uksi/1989/1824), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1824/regulation/1/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/1989/1824/regulation/2/1/b)
+[^c-39ed5bdfaebf9a4cd375dde0679df2b7]: Textual amendment: Words in [reg. 7(6)(b)](https://www.legislation.gov.uk/uksi/1986/1561/regulation/7/6/b) inserted (1.11.1989) by [The Social Security (Industrial Injuries and Diseases) Miscellaneous Provisions (Amendment) Regulations 1989 (S.I. 1989/1824)](https://www.legislation.gov.uk/uksi/1989/1824), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1824/regulation/1/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/1989/1824/regulation/2/1/b)
 
 [^f00005]: Footnote: *See* paragraph 3 of Schedule 3 to the Social Security Act 1986.
 
 [^f00006]: Footnote: The relevant amending instrument is S.I. 1983/186.
 
-[^key-2b108532c1f89149ed215828be18f609]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/1986/1561/regulation/13) ceases to have effect (1.11.1989) by virtue of [The Social Security (Industrial Injuries and Diseases) Miscellaneous Provisions (Amendment) Regulations 1989 (S.I. 1989/1824)](https://www.legislation.gov.uk/uksi/1989/1824), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1824/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/1989/1824/regulation/2/2)
+[^c-2b108532c1f89149ed215828be18f609]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/1986/1561/regulation/13) ceases to have effect (1.11.1989) by virtue of [The Social Security (Industrial Injuries and Diseases) Miscellaneous Provisions (Amendment) Regulations 1989 (S.I. 1989/1824)](https://www.legislation.gov.uk/uksi/1989/1824), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/1824/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/1989/1824/regulation/2/2)

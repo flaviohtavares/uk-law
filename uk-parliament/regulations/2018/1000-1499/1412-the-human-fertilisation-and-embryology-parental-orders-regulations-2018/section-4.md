@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Application of certain provisions of the 1987 Order subject to modifications[^key-29f887c8d43e251048084ca24e985775]
+## 4. Application of certain provisions of the 1987 Order subject to modifications[^c-29f887c8d43e251048084ca24e985775]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3 provides for certain provisions of the 1987 Order to have effect in r
 
 ## Annotations
 
-[^key-29f887c8d43e251048084ca24e985775]: Commencement: Reg. 4 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-29f887c8d43e251048084ca24e985775]: Commencement: Reg. 4 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Joint exercise of general functions[^key-a500d42732e428a8cb09048ac6424ef9]
+## 32. Joint exercise of general functions[^c-a500d42732e428a8cb09048ac6424ef9]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a500d42732e428a8cb09048ac6424ef9]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2023/55/section/32) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-a500d42732e428a8cb09048ac6424ef9]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2023/55/section/32) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)

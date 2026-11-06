@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Withdrawal of notice under section 173 and under a landlord's break clause[^key-d8c653663398cca84e5bc7d4aa8b5ee1]
+## 8. Withdrawal of notice under section 173 and under a landlord's break clause[^c-d8c653663398cca84e5bc7d4aa8b5ee1]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8c653663398cca84e5bc7d4aa8b5ee1]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2021/3/section/8) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)
+[^c-d8c653663398cca84e5bc7d4aa8b5ee1]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2021/3/section/8) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)

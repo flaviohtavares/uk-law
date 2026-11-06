@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Convention rights and EU law: criminal appeals to the Supreme Court[^key-782894a15e1bfda07a36b4d3a5362f68]
+## 36. Convention rights and EU law: criminal appeals to the Supreme Court[^c-782894a15e1bfda07a36b4d3a5362f68]
 
 *Extent: E+W+S+N.I.*
 
@@ -97,4 +97,4 @@ summary: ''
 
 ## Annotations
 
-[^key-782894a15e1bfda07a36b4d3a5362f68]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2012/11/section/36) in force at 22.4.2013 by [S.I. 2013/6](https://www.legislation.gov.uk/uksi/2013/6), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/6/article/2/c)
+[^c-782894a15e1bfda07a36b4d3a5362f68]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2012/11/section/36) in force at 22.4.2013 by [S.I. 2013/6](https://www.legislation.gov.uk/uksi/2013/6), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/6/article/2/c)

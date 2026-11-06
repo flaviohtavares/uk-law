@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Approval of implementation strategy[^c24459171][^key-4e4deb829f8831da96cf552d6b46c3cf]
+## 40. Approval of implementation strategy[^c24459171][^c-4e4deb829f8831da96cf552d6b46c3cf]
 
 *Extent: E+W+S*
 
@@ -42,7 +42,7 @@ summary: ''
   - (i) the way in which, the extent to which and the time by which it is proposed to close the scheme;
   - (ii) how the scheme will continue to meet the authorisation criteria;
   - (iii) any revisions that will be needed to the viability report and the continuity strategy (see sections 13 and 17).
-  - (iv)[^key-1f225d59a91262be084ed1737ae9d5ad] where the scheme is an unconnected multiple employer scheme, any revisions that will be needed to the business plan (see section 14A).
+  - (iv)[^c-1f225d59a91262be084ed1737ae9d5ad] where the scheme is an unconnected multiple employer scheme, any revisions that will be needed to the business plan (see section 14A).
 
 (6) An implementation strategy must—
 
@@ -55,6 +55,6 @@ summary: ''
 
 [^c24459171]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2021/1/section/40) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-4e4deb829f8831da96cf552d6b46c3cf]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2021/1/section/40) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-4e4deb829f8831da96cf552d6b46c3cf]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2021/1/section/40) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
 
-[^key-1f225d59a91262be084ed1737ae9d5ad]: Textual amendment: [S. 40(5)(d)(iv)](https://www.legislation.gov.uk/ukpga/2021/1/section/40/5/d/iv) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [19](https://www.legislation.gov.uk/uksi/2025/1313/regulation/19)
+[^c-1f225d59a91262be084ed1737ae9d5ad]: Textual amendment: [S. 40(5)(d)(iv)](https://www.legislation.gov.uk/ukpga/2021/1/section/40/5/d/iv) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [19](https://www.legislation.gov.uk/uksi/2025/1313/regulation/19)

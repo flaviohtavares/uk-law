@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 552. Interpretation of the 1997 Regulations[^key-abe8ee5cfe6fe803e0da1a13128d2aa7]
+## 552. Interpretation of the 1997 Regulations[^c-abe8ee5cfe6fe803e0da1a13128d2aa7]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-abe8ee5cfe6fe803e0da1a13128d2aa7]: Commencement: Art. 552 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-abe8ee5cfe6fe803e0da1a13128d2aa7]: Commencement: Art. 552 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00349]: Footnote: The definition of “reference banks” in regulation 1(2) was amended by [S.I. 1998/1129](https://www.legislation.gov.uk/uksi/1998/1129).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.172. Order for public examination[^key-74e4304ec94d7a17f46185654924eefa]
+## 6.172. Order for public examination[^c-74e4304ec94d7a17f46185654924eefa]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-74e4304ec94d7a17f46185654924eefa]: Commencement: [Rule 6.172](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.172) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-74e4304ec94d7a17f46185654924eefa]: Commencement: [Rule 6.172](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.172) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00179]: Marginal citation: \[FORM 6.55\]

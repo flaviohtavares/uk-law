@@ -39,17 +39,17 @@ Coming into force
 
 1st April 2000
 
-The National Assembly for Wales makes the following Order in exercise of the powers conferred on the Secretary of State, by sections 143(1) and (2) of, and paragraph 3(1) and (2) of Schedule 6, to the Local Government Finance Act 1988[^f00001] and now vested in it[^f00002] in so far as exercisable in Wales.[^key-e84303a05e9d1b16a4b7eb639de52f27]
+The National Assembly for Wales makes the following Order in exercise of the powers conferred on the Secretary of State, by sections 143(1) and (2) of, and paragraph 3(1) and (2) of Schedule 6, to the Local Government Finance Act 1988[^f00001] and now vested in it[^f00002] in so far as exercisable in Wales.[^c-e84303a05e9d1b16a4b7eb639de52f27]
 
 ## PART I — PRELIMINARY
 
-### 1. Citation, commencement and application[^key-77dd6c54af31128352ca1202bb8187f1]
+### 1. Citation, commencement and application[^c-77dd6c54af31128352ca1202bb8187f1]
 
 (1) This Order may be cited as the Electricity Supply Industry (Rateable Values)(Wales) Order 2000 and shall come into force on 1st April 2000.
 
 (2) This Order applies only to Wales.
 
-### 2. Interpretation[^key-9201df85dcd70ae9500e916cb5a41d46]
+### 2. Interpretation[^c-9201df85dcd70ae9500e916cb5a41d46]
 
 In this Order —
 
@@ -61,14 +61,14 @@ In this Order —
 - “generating plant” (“*peiriannau cynhyrchu*” ), in relation to a hereditament, means plant in or on the hereditament which is used or available for use for the purposes of generating electricity; and
 - “year” (“*blwyddyn*”) means a chargeable financial year.
 
-### 3. Rounding of Numbers[^key-d593ed487b91253576c8e3343dd733da]
+### 3. Rounding of Numbers[^c-d593ed487b91253576c8e3343dd733da]
 
 Where (apart from this article) any rateable value determined under this Order would include a fraction of a pound —
 
 - (a) the fraction shall be made up to one pound if it would exceed 50p, and
 - (b) the fraction shall be ignored if it would be 50p or less.
 
-### 4. Revocations and Savings[^key-44e528014afa1ec4764ebfba011f5e18]
+### 4. Revocations and Savings[^c-44e528014afa1ec4764ebfba011f5e18]
 
 (1) Subject to paragraph (2) the following are hereby revoked with effect from 1st April 2000 in so far as they are applicable to Wales:
 
@@ -83,7 +83,7 @@ Where (apart from this article) any rateable value determined under this Order w
 
 ## PART II — ELECTRICITY GENERATION
 
-### 5. Rateable Value[^key-fba1d8b0fa4fe282197001cafd6ddaa8]
+### 5. Rateable Value[^c-fba1d8b0fa4fe282197001cafd6ddaa8]
 
 (1) Article 6 applies to the class of hereditaments in relation to which the conditions in paragraph (2) are fulfilled.
 
@@ -96,7 +96,7 @@ Where (apart from this article) any rateable value determined under this Order w
 
 (3) In determining whether the primary function of a hereditament is for the purpose of generating electricity, no account shall be taken of so much of any heat produced in or on the hereditament as is produced other than for the purposes of the generation of electricity.
 
-### 6.[^key-115334de7c2ef54276c0b525a05216e2]
+### 6.[^c-115334de7c2ef54276c0b525a05216e2]
 
 (1) In the case of a hereditament falling within the class prescribed in article 5, paragraphs 2 to 2B of Schedule 6 to the Act[^f00007] shall not apply, and its rateable value, in any year, during which the relevant list has effect, shall be an amount equal to the applicable amount.
 
@@ -129,7 +129,7 @@ TABLE
 
 ## PART III — ELECTRICITY GENERATION, TRANSMISSION AND SUPPLY: CENTRAL LISTS
 
-### 7. Interpretation[^key-3dea1d2bc52733c38149fd66f5aa47d4]
+### 7. Interpretation[^c-3dea1d2bc52733c38149fd66f5aa47d4]
 
 (1) In this Part —
 
@@ -152,14 +152,14 @@ TABLE
 
 (3) Any reference in this Part or in the Schedule to a designated person by name is to the company bearing that name at the date that name is entered in the central list.
 
-### 8. Rateable Values[^key-c137e0ad14182fd9510b49e8d0b255df]
+### 8. Rateable Values[^c-c137e0ad14182fd9510b49e8d0b255df]
 
 In the case of each class of hereditaments, paragraphs 2 to 2B of Schedule 6 to the Act shall not apply in any year in which the central list is in force and its rateable value shall be —
 
 - (a) in the year beginning on 1st April 2000 the amount specified in relation to it in the Schedule; and
 - (b) in any other year beginning on or before1st April 2004 shall be the amount produced by applying the standard formula in relation to that class.
 
-### 9. Transmission Hereditaments: Recalculation Factor[^key-12dddf46ea70dd8c0722f99b5c9b7a69]
+### 9. Transmission Hereditaments: Recalculation Factor[^c-12dddf46ea70dd8c0722f99b5c9b7a69]
 
 In relation to each class of hereditaments listed in Part A of the Schedule the recalculation factor in respect of a relevant year shall be the figure produced for that class by applying the formula —
 
@@ -171,7 +171,7 @@ where —
 - k is the estimated number of circuit kilometres of main transmission line occupied by the designated person as respects that class on 31st March in the relevant preceding year; and
 - K is the estimated number of circuit kilometres of main transmission line occupied by that person on 31st March 2000.
 
-### 10. Distribution Hereditaments: Recalculation Factor[^key-4aa829094821be7335bb37e546b6eb1b]
+### 10. Distribution Hereditaments: Recalculation Factor[^c-4aa829094821be7335bb37e546b6eb1b]
 
 In relation to each class of hereditaments listed in Part B of the Schedule, the recalculation factor in respect of a relevant year shall be the figure produced for that class by applying the formula —
 
@@ -191,7 +191,7 @@ The Presiding Officer of the National Assembly
 
 30th March 2000
 
-## SCHEDULE[^key-cf647a0c11c63f19fbae365b638a653a]
+## SCHEDULE[^c-cf647a0c11c63f19fbae365b638a653a]
 
 Articles 7 to 10
 
@@ -224,15 +224,15 @@ Article 8 prescribes, in pursuance of paragraph 3(2) of Schedule 6, the rateable
 
 [^f00002]: Footnote: See the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
 
-[^key-e84303a05e9d1b16a4b7eb639de52f27]: Modification: [Order](https://www.legislation.gov.uk/wsi/2000/1163): power to modify conferred (16.5.2001) by [Utilities Act 2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2000/27/section/110/2), [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2000/27/schedule/7/paragraph/10); [S.I. 2001/1781](https://www.legislation.gov.uk/uksi/2001/1781), [art. 2](https://www.legislation.gov.uk/uksi/2001/1781/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/1781/schedule) (subject to [arts. 3-10](https://www.legislation.gov.uk/uksi/2001/1781/article/3))
+[^c-e84303a05e9d1b16a4b7eb639de52f27]: Modification: [Order](https://www.legislation.gov.uk/wsi/2000/1163): power to modify conferred (16.5.2001) by [Utilities Act 2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2000/27/section/110/2), [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2000/27/schedule/7/paragraph/10); [S.I. 2001/1781](https://www.legislation.gov.uk/uksi/2001/1781), [art. 2](https://www.legislation.gov.uk/uksi/2001/1781/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/1781/schedule) (subject to [arts. 3-10](https://www.legislation.gov.uk/uksi/2001/1781/article/3))
 
-[^key-77dd6c54af31128352ca1202bb8187f1]: Commencement: Art. 1 in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1163/article/1/1)
+[^c-77dd6c54af31128352ca1202bb8187f1]: Commencement: Art. 1 in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1163/article/1/1)
 
-[^key-9201df85dcd70ae9500e916cb5a41d46]: Commencement: Art. 2 in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1163/article/1/1)
+[^c-9201df85dcd70ae9500e916cb5a41d46]: Commencement: Art. 2 in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1163/article/1/1)
 
-[^key-d593ed487b91253576c8e3343dd733da]: Commencement: Art. 3 in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1163/article/1/1)
+[^c-d593ed487b91253576c8e3343dd733da]: Commencement: Art. 3 in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1163/article/1/1)
 
-[^key-44e528014afa1ec4764ebfba011f5e18]: Commencement: Art. 4 in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1163/article/1/1)
+[^c-44e528014afa1ec4764ebfba011f5e18]: Commencement: Art. 4 in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1163/article/1/1)
 
 [^f00003]: Footnote: S.I. [1994/3282](https://www.legislation.gov.uk/uksi/1994/3282) amended by S.I. [1995/962](https://www.legislation.gov.uk/uksi/1995/962) and S.I. [1996/912](https://www.legislation.gov.uk/uksi/1996/912). This Order continues in effect the Electricity Supply Industry (Rateable Values) Order 1989 (S.I. [1989/2474](https://www.legislation.gov.uk/uksi/1989/2474)) and the Electricity Generators (Rateable Values) Order 1989 (S.I. [1989/2475](https://www.legislation.gov.uk/uksi/1989/2475)) in relation to non-domestic rating lists in force before 1st April 1995.
 
@@ -242,22 +242,22 @@ Article 8 prescribes, in pursuance of paragraph 3(2) of Schedule 6, the rateable
 
 [^f00006]: Footnote: Section 58 is amended by paragraph 68 of Schedule 13 to the Local Government Finance Act [1989 (c. 14)](https://www.legislation.gov.uk/ukpga/1989/14), section 2 of the Non-Domestic rating Act 1994 and section 1 of the Local government and Rating Act [1997 (c. 29)](https://www.legislation.gov.uk/ukpga/1997/29).
 
-[^key-fba1d8b0fa4fe282197001cafd6ddaa8]: Commencement: Art. 5 in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1163/article/1/1)
+[^c-fba1d8b0fa4fe282197001cafd6ddaa8]: Commencement: Art. 5 in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1163/article/1/1)
 
-[^key-115334de7c2ef54276c0b525a05216e2]: Commencement: Art. 6 in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1163/article/1/1)
+[^c-115334de7c2ef54276c0b525a05216e2]: Commencement: Art. 6 in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1163/article/1/1)
 
 [^f00007]: Footnote: Paragraph 2 is amended and paragraphs 2A and 2B inserted by paragraph 38(3) to (11) of Schedule 5 to the Local Government and Housing Act 1989.
 
-[^key-3dea1d2bc52733c38149fd66f5aa47d4]: Commencement: Art. 7 in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1163/article/1/1)
+[^c-3dea1d2bc52733c38149fd66f5aa47d4]: Commencement: Art. 7 in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1163/article/1/1)
 
 [^f00008]: Footnote: S.I. [1999/3453 (W.50)](https://www.legislation.gov.uk/wsi/1999/3453).
 
-[^key-c137e0ad14182fd9510b49e8d0b255df]: Commencement: Art. 8 in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1163/article/1/1)
+[^c-c137e0ad14182fd9510b49e8d0b255df]: Commencement: Art. 8 in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1163/article/1/1)
 
-[^key-12dddf46ea70dd8c0722f99b5c9b7a69]: Commencement: Art. 9 in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1163/article/1/1)
+[^c-12dddf46ea70dd8c0722f99b5c9b7a69]: Commencement: Art. 9 in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1163/article/1/1)
 
-[^key-4aa829094821be7335bb37e546b6eb1b]: Commencement: Art. 10 in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1163/article/1/1)
+[^c-4aa829094821be7335bb37e546b6eb1b]: Commencement: Art. 10 in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1163/article/1/1)
 
 [^f00009]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-cf647a0c11c63f19fbae365b638a653a]: Commencement: Sch. in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1163/article/1/1)
+[^c-cf647a0c11c63f19fbae365b638a653a]: Commencement: Sch. in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1163/article/1/1)

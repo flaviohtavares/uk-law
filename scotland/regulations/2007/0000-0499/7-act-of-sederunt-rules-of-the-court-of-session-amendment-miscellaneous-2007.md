@@ -39,7 +39,7 @@ Coming into force in accordance with paragraph 1(1) and (2)
 
 The Lords of Council and Session, under and by virtue of the powers conferred upon them by section 5 of the Court of Session Act 1988[^f00001] and of all other powers enabling them in that behalf, do hereby enact and declare:
 
-## 1. Citation and commencement[^key-b2b64a6e3a9996aa9c412a1dae257334]
+## 1. Citation and commencement[^c-b2b64a6e3a9996aa9c412a1dae257334]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Rules of the Court of Session Amendment) (Miscellaneous) 2007 and, subject to sub-paragraph (2), shall come into force on 29th January 2007.
 
@@ -47,7 +47,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred up
 
 (3) This Act of Sederunt shall be inserted in the Books of Sederunt.
 
-## 2. Amendment of the Rules of the Court of Session[^key-49cee3dad5303375bf3bac4d91bc452e][^key-eb6505272887bbe9909ab329ef724aad]
+## 2. Amendment of the Rules of the Court of Session[^c-49cee3dad5303375bf3bac4d91bc452e][^c-eb6505272887bbe9909ab329ef724aad]
 
 (1) The Rules of the Court of Session 1994[^f00002] shall be amended in accordance with the following sub-paragraphs.
 
@@ -422,7 +422,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred up
 
     .
 
-## 3. Revocation[^key-e11e60176df8f561bf8533f07bddf6d6]
+## 3. Revocation[^c-e11e60176df8f561bf8533f07bddf6d6]
 
 Paragraph 3 of and Schedule 2 to the Act of Sederunt (Rules of the Court of Session Amendment) (Fees of Solicitors Shorthand Writers and Witnesses) 2002[^f00032] are revoked.
 
@@ -466,11 +466,11 @@ Paragraph 2(20) makes miscellaneous amendments to the forms set out in the Appen
 
 [^f00001]: Footnote: [1988 c. 36](https://www.legislation.gov.uk/ukpga/1988/36); section 5 was amended by the Civil Evidence (Scotland) Act [1988 c. 32](https://www.legislation.gov.uk/ukpga/1988/32), section 2(3) and by the Children (Scotland) Act [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), Schedule 4, paragraph 45.
 
-[^key-b2b64a6e3a9996aa9c412a1dae257334]: Commencement: Para. 1 in force at 29.1.2007, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2007/7/paragraph/1/1)
+[^c-b2b64a6e3a9996aa9c412a1dae257334]: Commencement: Para. 1 in force at 29.1.2007, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2007/7/paragraph/1/1)
 
-[^key-49cee3dad5303375bf3bac4d91bc452e]: Commencement: Para. 2(1)-(8) in force at 29.1.2007, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2007/7/paragraph/1/1)
+[^c-49cee3dad5303375bf3bac4d91bc452e]: Commencement: Para. 2(1)-(8) in force at 29.1.2007, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2007/7/paragraph/1/1)
 
-[^key-eb6505272887bbe9909ab329ef724aad]: Commencement: Para. 2(9)(10)(20)(a)-(f) in force at 26.2.2007, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2007/7/paragraph/1/2)
+[^c-eb6505272887bbe9909ab329ef724aad]: Commencement: Para. 2(9)(10)(20)(a)-(f) in force at 26.2.2007, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2007/7/paragraph/1/2)
 
 [^f00002]: Footnote: S.I. [1994/1443](https://www.legislation.gov.uk/uksi/1994/1443), last amended by [S.S.I. 2006/294](https://www.legislation.gov.uk/ssi/2006/294).
 
@@ -532,6 +532,6 @@ Paragraph 2(20) makes miscellaneous amendments to the forms set out in the Appen
 
 [^f00031]: Footnote: Form 49.80B-C was inserted by [S.S.I. 2005/632](https://www.legislation.gov.uk/ssi/2005/632) and amended by [S.S.I. 2006/206](https://www.legislation.gov.uk/ssi/2006/206).
 
-[^key-e11e60176df8f561bf8533f07bddf6d6]: Commencement: Para. 3 in force at 29.1.2007, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2007/7/paragraph/1/1)
+[^c-e11e60176df8f561bf8533f07bddf6d6]: Commencement: Para. 3 in force at 29.1.2007, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2007/7/paragraph/1/1)
 
 [^f00032]: Footnote: [S.S.I. 2002/301](https://www.legislation.gov.uk/ssi/2002/301).

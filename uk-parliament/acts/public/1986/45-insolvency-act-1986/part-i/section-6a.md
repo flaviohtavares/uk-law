@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6A. False representations, etc.[^key-9700d312d985436a858eae9798d49154][^c15569291]
+## 6A. False representations, etc.[^c-9700d312d985436a858eae9798d49154][^c15569291]
 
 *Extent: E+W+S*
 
@@ -35,6 +35,6 @@ he commits an offence.
 
 ## Annotations
 
-[^key-9700d312d985436a858eae9798d49154]: Modification: [Ss. 1-7B](https://www.legislation.gov.uk/ukpga/1986/45/section/1) applied (with modifications) (E.W.) (15.3.2024) by [The Water Industry (Special Administration) Regulations 2024 (S.I. 2024/205)](https://www.legislation.gov.uk/uksi/2024/205), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2024/205/regulation/2/2), [5(1)](https://www.legislation.gov.uk/uksi/2024/205/regulation/5/1), [43-45](https://www.legislation.gov.uk/uksi/2024/205/regulation/43) (with [reg. 64](https://www.legislation.gov.uk/uksi/2024/205/regulation/64))
+[^c-9700d312d985436a858eae9798d49154]: Modification: [Ss. 1-7B](https://www.legislation.gov.uk/ukpga/1986/45/section/1) applied (with modifications) (E.W.) (15.3.2024) by [The Water Industry (Special Administration) Regulations 2024 (S.I. 2024/205)](https://www.legislation.gov.uk/uksi/2024/205), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2024/205/regulation/2/2), [5(1)](https://www.legislation.gov.uk/uksi/2024/205/regulation/5/1), [43-45](https://www.legislation.gov.uk/uksi/2024/205/regulation/43) (with [reg. 64](https://www.legislation.gov.uk/uksi/2024/205/regulation/64))
 
 [^c15569291]: Textual amendment: S. 6A inserted (1.1.2003) by [2000 c. 39](https://www.legislation.gov.uk/ukpga/2000/39), [s. 2](https://www.legislation.gov.uk/ukpga/2000/39/section/2), [Sch. 2 Pt. I para. 8](https://www.legislation.gov.uk/ukpga/2000/39/schedule/2/part/I/paragraph/8); [S.I. 2002/2711](https://www.legislation.gov.uk/uksi/2002/2711), [art. 2](https://www.legislation.gov.uk/uksi/2002/2711/article/2) (subject to transitional provisions in [arts. 3-5](https://www.legislation.gov.uk/uksi/2002/2711/article/3))

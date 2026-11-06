@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Interpretation[^key-3a934fc8da82a8e232be2b9f7ee1e3ed]
+## 44. Interpretation[^c-3a934fc8da82a8e232be2b9f7ee1e3ed]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ In this Act—
 
 ## Annotations
 
-[^key-3a934fc8da82a8e232be2b9f7ee1e3ed]: Commencement: S. 44 in operation at 27.8.2021, see [s. 47(1)(a)](https://www.legislation.gov.uk/nia/2021/7/section/47/1/a)
+[^c-3a934fc8da82a8e232be2b9f7ee1e3ed]: Commencement: S. 44 in operation at 27.8.2021, see [s. 47(1)(a)](https://www.legislation.gov.uk/nia/2021/7/section/47/1/a)

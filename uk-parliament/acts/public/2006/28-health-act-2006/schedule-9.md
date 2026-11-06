@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 9 — Repeals and revocations[^key-f5d581a269d6b98f172c367a05d1fb64][^key-4c62a0c4a2d3ee159217b7ab0391157f][^key-da6e835304cd6220db1641c3d684510c][^key-1c4192944873be6e3c34dbcc1ffd66d1][^key-1df58b085a4a681b8b8c1ed439e76bbf]
+## SCHEDULE 9 — Repeals and revocations[^c-f5d581a269d6b98f172c367a05d1fb64][^c-4c62a0c4a2d3ee159217b7ab0391157f][^c-da6e835304cd6220db1641c3d684510c][^c-1c4192944873be6e3c34dbcc1ffd66d1][^c-1df58b085a4a681b8b8c1ed439e76bbf]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,12 +55,12 @@ Section 80
 
 ## Annotations
 
-[^key-f5d581a269d6b98f172c367a05d1fb64]: Commencement: Sch. 9 in force at 1.10.2006 for specified purposes except so far as relating to Welsh NHS bodies by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 5(c)](https://www.legislation.gov.uk/uksi/2006/2603/article/5/c)
+[^c-f5d581a269d6b98f172c367a05d1fb64]: Commencement: Sch. 9 in force at 1.10.2006 for specified purposes except so far as relating to Welsh NHS bodies by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 5(c)](https://www.legislation.gov.uk/uksi/2006/2603/article/5/c)
 
-[^key-4c62a0c4a2d3ee159217b7ab0391157f]: Commencement: Sch. 9 in force at 1.10.2006 for specified purposes by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(5)(e)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/5/e), [Sch.](https://www.legislation.gov.uk/uksi/2006/2603/schedule)
+[^c-4c62a0c4a2d3ee159217b7ab0391157f]: Commencement: Sch. 9 in force at 1.10.2006 for specified purposes by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(5)(e)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/5/e), [Sch.](https://www.legislation.gov.uk/uksi/2006/2603/schedule)
 
-[^key-da6e835304cd6220db1641c3d684510c]: Commencement: [Sch. 9](https://www.legislation.gov.uk/ukpga/2006/28/schedule/9) in force at 1.2.2007 for specified purposes for W. by [S.I. 2007/204](https://www.legislation.gov.uk/wsi/2007/204), [art. 4(c)](https://www.legislation.gov.uk/wsi/2007/204/article/4/c)
+[^c-da6e835304cd6220db1641c3d684510c]: Commencement: [Sch. 9](https://www.legislation.gov.uk/ukpga/2006/28/schedule/9) in force at 1.2.2007 for specified purposes for W. by [S.I. 2007/204](https://www.legislation.gov.uk/wsi/2007/204), [art. 4(c)](https://www.legislation.gov.uk/wsi/2007/204/article/4/c)
 
-[^key-1c4192944873be6e3c34dbcc1ffd66d1]: Commencement: [Sch. 9](https://www.legislation.gov.uk/ukpga/2006/28/schedule/9) in force at 1.8.2008 for specified purposes by [S.I. 2008/1972](https://www.legislation.gov.uk/uksi/2008/1972), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/1972/article/2/c)
+[^c-1c4192944873be6e3c34dbcc1ffd66d1]: Commencement: [Sch. 9](https://www.legislation.gov.uk/ukpga/2006/28/schedule/9) in force at 1.8.2008 for specified purposes by [S.I. 2008/1972](https://www.legislation.gov.uk/uksi/2008/1972), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/1972/article/2/c)
 
-[^key-1df58b085a4a681b8b8c1ed439e76bbf]: Commencement: [Sch. 9](https://www.legislation.gov.uk/ukpga/2006/28/schedule/9) in force at 1.10.2009 for specified purposes by [S.I. 2008/2714](https://www.legislation.gov.uk/uksi/2008/2714), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/2714/article/2/c)
+[^c-1df58b085a4a681b8b8c1ed439e76bbf]: Commencement: [Sch. 9](https://www.legislation.gov.uk/ukpga/2006/28/schedule/9) in force at 1.10.2009 for specified purposes by [S.I. 2008/2714](https://www.legislation.gov.uk/uksi/2008/2714), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/2714/article/2/c)

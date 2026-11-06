@@ -188,11 +188,11 @@ Section 17
 
 #### Audit Commission Act 1998 (c. 18)
 
-**41.**[^key-99b95195683f658abe6650ca308892bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41.**[^c-99b95195683f658abe6650ca308892bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Data Protection Act 1998 (c. 29)
 
-**42.**[^key-8e96d5bbe6954d4bae7430c2357b5b33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**42.**[^c-8e96d5bbe6954d4bae7430c2357b5b33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Police (Northern Ireland) Act 1998 (c. 32)
 
@@ -212,7 +212,7 @@ Section 17
 
 #### Access to Justice Act 1999 (c. 22)
 
-**47.**[^key-feacfccaabb392d457f39b24bf5d1ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**47.**[^c-feacfccaabb392d457f39b24bf5d1ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Nuclear Safeguards Act 2000 (c. 5)
 
@@ -228,7 +228,7 @@ Section 17
 
 #### Postal Services Act 2000 (c. 26)
 
-**51.**[^key-51a58178da8165a2d9412f0d3441b4ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**51.**[^c-51a58178da8165a2d9412f0d3441b4ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Utilities Act 2000 (c. 27)
 
@@ -248,13 +248,13 @@ Section 17
 
 **53C.**[^c19541931] Paragraph 5 of Schedule 22 to the National Health Service Act 2006
 
-**53D.**[^key-3c0968eb46b32899f93f2079924e7726] Section 56(2) of the Postal Services Act 2011.
+**53D.**[^c-3c0968eb46b32899f93f2079924e7726] Section 56(2) of the Postal Services Act 2011.
 
-**53E.**[^key-fe9287d4c30d969937ba7f8440554909] Sections 34(2) and 35 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012.
+**53E.**[^c-fe9287d4c30d969937ba7f8440554909] Sections 34(2) and 35 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012.
 
-**53F.**[^M_C_ac1ef067-c8f3-4ea9-9e3a-3b5daa36040d][^M_C_463fdc7e-7a06-48e0-94d7-7bd4d76ea474][^key-afd54070111f1676e8f5b2ab8d0275b3] Paragraph 2 of Schedule 11 to the Local Audit and Accountability Act 2014.
+**53F.**[^M_C_ac1ef067-c8f3-4ea9-9e3a-3b5daa36040d][^M_C_463fdc7e-7a06-48e0-94d7-7bd4d76ea474][^c-afd54070111f1676e8f5b2ab8d0275b3] Paragraph 2 of Schedule 11 to the Local Audit and Accountability Act 2014.
 
-**53G.**[^key-b2793097f7eec17fb640cfd6b73b652d] Section 132(1) of the Data Protection Act 2018.
+**53G.**[^c-b2793097f7eec17fb640cfd6b73b652d] Section 132(1) of the Data Protection Act 2018.
 
 ### PART 2 — Northern Ireland legislation to which section 17 applies
 
@@ -270,7 +270,7 @@ Section 17
 
 **56.** Article 30(6) of the Health and Safety at Work (Northern Ireland) Order 1978.
 
-#### Access to Justice (Northern Ireland) Order 2003[^key-8835ee9133e70aa90c0fc4ef8897c057]
+#### Access to Justice (Northern Ireland) Order 2003[^c-8835ee9133e70aa90c0fc4ef8897c057]
 
 **57.** Article 32(1) of the Access to Justice (Northern Ireland) Order 2003.
 
@@ -280,7 +280,7 @@ Section 17
 
 #### Companies (Northern Ireland) Order 1986 (S.I. 1986/1032 (N.I. 6))
 
-**59.**[^key-6d08fea8ee41e88ff96b92cd4f303243] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**59.**[^c-6d08fea8ee41e88ff96b92cd4f303243] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Consumer Protection (Northern Ireland) Order 1987 (S.I. 1987 (N.I. 20))
 
@@ -342,17 +342,17 @@ Section 17
 
 [^c19534341]: Textual amendment: Sch. 4 para. 37 repealed (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 320](https://www.legislation.gov.uk/ukpga/2004/35/section/320), [322](https://www.legislation.gov.uk/ukpga/2004/35/section/322), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/695/article/2/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/695/schedule/1) (with [art. 5](https://www.legislation.gov.uk/uksi/2005/695/article/5))
 
-[^key-99b95195683f658abe6650ca308892bc]: Textual amendment: Sch. 4 para. 41 omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 48(a)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/48/a); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-99b95195683f658abe6650ca308892bc]: Textual amendment: Sch. 4 para. 41 omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 48(a)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/48/a); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
 
-[^key-8e96d5bbe6954d4bae7430c2357b5b33]: Textual amendment: [Sch. 4 para. 42](https://www.legislation.gov.uk/ukpga/2001/24/schedule/4/paragraph/42) omitted (29.3.2019) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/3), [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/schedule/4/paragraph/1/2)
+[^c-8e96d5bbe6954d4bae7430c2357b5b33]: Textual amendment: [Sch. 4 para. 42](https://www.legislation.gov.uk/ukpga/2001/24/schedule/4/paragraph/42) omitted (29.3.2019) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/3), [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/schedule/4/paragraph/1/2)
 
 [^c19541711]: Textual amendment: Sch. 4 para. 45 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [ss. 2](https://www.legislation.gov.uk/ukpga/2006/43/section/2), [6](https://www.legislation.gov.uk/ukpga/2006/43/section/6), [8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 220](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/220), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
 
 [^c19541721]: Textual amendment: Sch. 4 para. 46 repealed (1.10.2007) by [Equality Act 2006 (c. 3)](https://www.legislation.gov.uk/ukpga/2006/3), [ss. 40](https://www.legislation.gov.uk/ukpga/2006/3/section/40), [91](https://www.legislation.gov.uk/ukpga/2006/3/section/91), [93](https://www.legislation.gov.uk/ukpga/2006/3/section/93), [Sch. 3 para. 61(a)](https://www.legislation.gov.uk/ukpga/2006/3/schedule/3/paragraph/61/a), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/3/schedule/4) (with [s. 92](https://www.legislation.gov.uk/ukpga/2006/3/section/92)); [S.I. 2007/2603](https://www.legislation.gov.uk/uksi/2007/2603), [art. 2(c)(d)](https://www.legislation.gov.uk/uksi/2007/2603/article/2/c/d) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2007/2603/article/3))
 
-[^key-feacfccaabb392d457f39b24bf5d1ae6]: Textual amendment: Sch. 4 para. 47 omitted (1.4.2013) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 57(a)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/57/a); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+[^c-feacfccaabb392d457f39b24bf5d1ae6]: Textual amendment: Sch. 4 para. 47 omitted (1.4.2013) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 57(a)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/57/a); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
 
-[^key-51a58178da8165a2d9412f0d3441b4ec]: Textual amendment: Sch. 4 para. 51 omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 162(a)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/162/a); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-51a58178da8165a2d9412f0d3441b4ec]: Textual amendment: Sch. 4 para. 51 omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 162(a)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/162/a); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
 [^c19527461]: Textual amendment: Sch. 4 para. 53A inserted (1.4.2004 for E.W.) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [ss. 34](https://www.legislation.gov.uk/ukpga/2003/43/section/34), [199(1)(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1/4), [Sch. 4 para. 120](https://www.legislation.gov.uk/ukpga/2003/43/schedule/4/paragraph/120); [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 2](https://www.legislation.gov.uk/uksi/2004/759/article/2)
 
@@ -362,18 +362,18 @@ Section 17
 
 [^c19541931]: Textual amendment: Sch. 4 para. 53C inserted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [ss. 2](https://www.legislation.gov.uk/ukpga/2006/43/section/2), [8](https://www.legislation.gov.uk/ukpga/2006/43/section/8), [Sch. 1 para. 222](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/222) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
 
-[^key-3c0968eb46b32899f93f2079924e7726]: Textual amendment: Sch. 4 para. 53D inserted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 162(b)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/162/b); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-3c0968eb46b32899f93f2079924e7726]: Textual amendment: Sch. 4 para. 53D inserted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 162(b)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/162/b); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-fe9287d4c30d969937ba7f8440554909]: Textual amendment: Sch. 4 para. 53E inserted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 57(b)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/57/b); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+[^c-fe9287d4c30d969937ba7f8440554909]: Textual amendment: Sch. 4 para. 53E inserted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 57(b)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/57/b); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
 
 [^M_C_ac1ef067-c8f3-4ea9-9e3a-3b5daa36040d]: Modification: Sch. 4 para. 53F applied (with modifications) (E.W.) (10.2.2015) by [The Local Audit (Appointing Person) Regulations 2015 (S.I. 2015/192)](https://www.legislation.gov.uk/uksi/2015/192), reg. 1(1), Sch. para. 17 (with reg. 1(2))
 
 [^M_C_463fdc7e-7a06-48e0-94d7-7bd4d76ea474]: Modification: Sch. 4 para. 53F applied (with modifications) (E.W.) (10.2.2015) by [The Local Audit (Smaller Authorities) Regulations 2015 (S.I. 2015/184)](https://www.legislation.gov.uk/uksi/2015/184), reg. 1, Sch. para. 34
 
-[^key-afd54070111f1676e8f5b2ab8d0275b3]: Textual amendment: Sch. 4 para. 53F inserted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 48(b)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/48/b); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-afd54070111f1676e8f5b2ab8d0275b3]: Textual amendment: Sch. 4 para. 53F inserted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 48(b)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/48/b); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
 
-[^key-b2793097f7eec17fb640cfd6b73b652d]: Textual amendment: [Sch. 4 para. 53G](https://www.legislation.gov.uk/ukpga/2001/24/schedule/4/paragraph/53G) inserted (29.3.2019) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/3), [Sch. 4 para. 1(3)](https://www.legislation.gov.uk/uksi/2019/419/schedule/4/paragraph/1/3)
+[^c-b2793097f7eec17fb640cfd6b73b652d]: Textual amendment: [Sch. 4 para. 53G](https://www.legislation.gov.uk/ukpga/2001/24/schedule/4/paragraph/53G) inserted (29.3.2019) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/3), [Sch. 4 para. 1(3)](https://www.legislation.gov.uk/uksi/2019/419/schedule/4/paragraph/1/3)
 
-[^key-8835ee9133e70aa90c0fc4ef8897c057]: Textual amendment: Sch. 4 Pt. 2 para. 57 and cross-heading substituted (N.I.) (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 4 para. 18](https://www.legislation.gov.uk/nisi/2003/435/schedule/4/paragraph/18) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
+[^c-8835ee9133e70aa90c0fc4ef8897c057]: Textual amendment: Sch. 4 Pt. 2 para. 57 and cross-heading substituted (N.I.) (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 4 para. 18](https://www.legislation.gov.uk/nisi/2003/435/schedule/4/paragraph/18) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
 
-[^key-6d08fea8ee41e88ff96b92cd4f303243]: Textual amendment: Sch. 4 para. 59 repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 190](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/190), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-6d08fea8ee41e88ff96b92cd4f303243]: Textual amendment: Sch. 4 para. 59 repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 190](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/190), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

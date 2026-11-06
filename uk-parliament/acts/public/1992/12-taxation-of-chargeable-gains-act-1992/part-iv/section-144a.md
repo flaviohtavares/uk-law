@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144A. Cash-settled options.[^key-b1895d4f3cb9c833affccd4e4cba7f0e][^key-6460033ea01950bb9ebb01b6802ceb1c]
+## 144A. Cash-settled options.[^c-b1895d4f3cb9c833affccd4e4cba7f0e][^c-6460033ea01950bb9ebb01b6802ceb1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ subsections (2) and (3) below shall apply in place of subsections (2) and (3) of
 (2) As regards the grantor of the option—
 
 - (a) he shall be treated as having disposed of an asset (namely, his liability to make the payment) and the payment made by him shall be treated as incidental costs to him of making the disposal; and
-- (b)[^key-34f790f5b5c9294946e490fc6f846f03] the grant of the option and the disposal shall be treated as a single transaction and the consideration for the option shall be treated as the consideration for the disposal.
+- (b)[^c-34f790f5b5c9294946e490fc6f846f03] the grant of the option and the disposal shall be treated as a single transaction and the consideration for the option shall be treated as the consideration for the disposal.
 
 (3) As regards the person exercising the option—
 
@@ -47,8 +47,8 @@ subsections (2) and (3) below shall apply in place of subsections (2) and (3) of
 
 ## Annotations
 
-[^key-b1895d4f3cb9c833affccd4e4cba7f0e]: Modification: S. 144A applied (with effect in accordance with s. 883(1) of the amending Act) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [ss. 562(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/562/1), [883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1) (with [s. 563](https://www.legislation.gov.uk/ukpga/2005/5/section/563), [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-b1895d4f3cb9c833affccd4e4cba7f0e]: Modification: S. 144A applied (with effect in accordance with s. 883(1) of the amending Act) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [ss. 562(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/562/1), [883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1) (with [s. 563](https://www.legislation.gov.uk/ukpga/2005/5/section/563), [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-6460033ea01950bb9ebb01b6802ceb1c]: Textual amendment: S. 144A inserted (with effect in accordance with s. 96(2) of the amending Act) by [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), [s. 96(1)](https://www.legislation.gov.uk/ukpga/1994/9/section/96/1)
+[^c-6460033ea01950bb9ebb01b6802ceb1c]: Textual amendment: S. 144A inserted (with effect in accordance with s. 96(2) of the amending Act) by [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), [s. 96(1)](https://www.legislation.gov.uk/ukpga/1994/9/section/96/1)
 
-[^key-34f790f5b5c9294946e490fc6f846f03]: Modification: [S. 144A(2)(b)](https://www.legislation.gov.uk/ukpga/1992/12/section/144A/2/b) excluded (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/2/paragraph/13/2)
+[^c-34f790f5b5c9294946e490fc6f846f03]: Modification: [S. 144A(2)(b)](https://www.legislation.gov.uk/ukpga/1992/12/section/144A/2/b) excluded (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/2/paragraph/13/2)

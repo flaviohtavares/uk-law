@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Interpretation of Chapter 3[^key-fd2fe8f98f2a4ca337ff1fd8ff15b3f9]
+## 41. Interpretation of Chapter 3[^c-fd2fe8f98f2a4ca337ff1fd8ff15b3f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-fd2fe8f98f2a4ca337ff1fd8ff15b3f9]: Commencement: Art. 41 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-fd2fe8f98f2a4ca337ff1fd8ff15b3f9]: Commencement: Art. 41 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Powers of coroners[^key-ea7254342d47d15835475d128d9787a2]
+## 32. Powers of coroners[^c-ea7254342d47d15835475d128d9787a2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 5 makes provision about powers of senior coroners and the Coroner for T
 
 ## Annotations
 
-[^key-ea7254342d47d15835475d128d9787a2]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2009/25/section/32) in force at 25.7.2013 for specified purposes by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/c)
+[^c-ea7254342d47d15835475d128d9787a2]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2009/25/section/32) in force at 25.7.2013 for specified purposes by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/c)

@@ -31,24 +31,24 @@ Breeding of Dogs Act 1991 (repealed)
 
 1991 c. 64
 
-[^key-0e2aad2c31ffd333e07ba966ef6aaca4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0e2aad2c31ffd333e07ba966ef6aaca4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Power to inspect premises not covered by licence under Breeding of Dogs Act 1973.[^key-0e2aad2c31ffd333e07ba966ef6aaca4]
+## 1. Power to inspect premises not covered by licence under Breeding of Dogs Act 1973.[^c-0e2aad2c31ffd333e07ba966ef6aaca4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Offence and disqualification.[^key-0e2aad2c31ffd333e07ba966ef6aaca4]
+## 2. Offence and disqualification.[^c-0e2aad2c31ffd333e07ba966ef6aaca4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Short title, commencement and extent.[^key-0e2aad2c31ffd333e07ba966ef6aaca4]
+## 3. Short title, commencement and extent.[^c-0e2aad2c31ffd333e07ba966ef6aaca4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0e2aad2c31ffd333e07ba966ef6aaca4]: Textual amendment: Act repealed (E.W.) (1.10.2018) by [The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486)](https://www.legislation.gov.uk/uksi/2018/486), [Sch. 9 para. 10](https://www.legislation.gov.uk/uksi/2018/486/schedule/9/paragraph/10) (with [reg. 27](https://www.legislation.gov.uk/uksi/2018/486/regulation/27))
+[^c-0e2aad2c31ffd333e07ba966ef6aaca4]: Textual amendment: Act repealed (E.W.) (1.10.2018) by [The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486)](https://www.legislation.gov.uk/uksi/2018/486), [Sch. 9 para. 10](https://www.legislation.gov.uk/uksi/2018/486/schedule/9/paragraph/10) (with [reg. 27](https://www.legislation.gov.uk/uksi/2018/486/regulation/27))
 
     Act repealed (1.9.2021) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [s. 55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1), [sch. 2 para. 9(n)](https://www.legislation.gov.uk/asp/2006/11/schedule/2/paragraph/9/n) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2020/464](https://www.legislation.gov.uk/ssi/2020/464), [art. 2](https://www.legislation.gov.uk/ssi/2020/464/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/464/article/3))

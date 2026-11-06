@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. The Board's expenditure: transfer of powers and other provisions[^key-6152bf3a729834b9085d7b770f203d9a]
+## 47. The Board's expenditure: transfer of powers and other provisions[^c-6152bf3a729834b9085d7b770f203d9a]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6152bf3a729834b9085d7b770f203d9a]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2007/24/section/47) in force at 6.4.2008 by [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/582/article/2/c)
+[^c-6152bf3a729834b9085d7b770f203d9a]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2007/24/section/47) in force at 6.4.2008 by [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/582/article/2/c)

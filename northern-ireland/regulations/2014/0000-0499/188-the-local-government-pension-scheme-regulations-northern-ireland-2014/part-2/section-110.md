@@ -49,8 +49,8 @@ that a payment should be made under this regulation; and
 
 (7) Paragraph (6) overrides anything to the contrary in these Regulations, the Transitional Regulations or the former regulations.
 
-(8)[^key-0e4494a6fbf7736980dbb9eed3456b20] This regulation is subject to regulation 10(6) (transfer payments out of the fund before 1st October 2023) of the Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023.
+(8)[^c-0e4494a6fbf7736980dbb9eed3456b20] This regulation is subject to regulation 10(6) (transfer payments out of the fund before 1st October 2023) of the Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023.
 
 ## Annotations
 
-[^key-0e4494a6fbf7736980dbb9eed3456b20]: Textual amendment: [Reg. 110(8)](https://www.legislation.gov.uk/nisr/2014/188/regulation/110/8) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [3(15)](https://www.legislation.gov.uk/nisr/2023/149/regulation/3/15)
+[^c-0e4494a6fbf7736980dbb9eed3456b20]: Textual amendment: [Reg. 110(8)](https://www.legislation.gov.uk/nisr/2014/188/regulation/110/8) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [3(15)](https://www.legislation.gov.uk/nisr/2023/149/regulation/3/15)

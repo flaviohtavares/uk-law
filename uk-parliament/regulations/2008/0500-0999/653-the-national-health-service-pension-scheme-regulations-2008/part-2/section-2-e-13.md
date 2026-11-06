@@ -26,7 +26,7 @@ summary: ''
 
 (3) In this regulation—
 
-- (a)[^key-d5b7b9cfd6cb5a402a36c03d1ce3249f] “the basic death pension” means 75% of the pension to which the deceased would have been entitled if the deceased had become entitled to—
+- (a)[^c-d5b7b9cfd6cb5a402a36c03d1ce3249f] “the basic death pension” means 75% of the pension to which the deceased would have been entitled if the deceased had become entitled to—
   - (i) a pension under regulation 2.D.8(5) on the date of death, or
   - (ii) if greater, the amount that the member’s pension would have been if it had been based on 10 years’ pensionable service (disregarding any additional pension), and
 - (b) “the appropriate fraction” means—
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5b7b9cfd6cb5a402a36c03d1ce3249f]: Textual amendment: [Reg. 2.E.13(3)(a)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.E.13/a) substituted (1.4.2009 with effect from 1.4.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(4)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/4), [43](https://www.legislation.gov.uk/uksi/2009/381/regulation/43) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-d5b7b9cfd6cb5a402a36c03d1ce3249f]: Textual amendment: [Reg. 2.E.13(3)(a)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.E.13/a) substituted (1.4.2009 with effect from 1.4.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(4)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/4), [43](https://www.legislation.gov.uk/uksi/2009/381/regulation/43) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))

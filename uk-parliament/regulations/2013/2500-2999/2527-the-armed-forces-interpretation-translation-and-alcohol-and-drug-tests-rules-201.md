@@ -52,17 +52,17 @@ Remainder
 
 The Secretary of State makes the following Rules in exercise of the powers conferred by sections 112, 151, 153, 163 and 288 of the Armed Forces Act 2006[^f00001]:
 
-## 1. Citation and commencement[^key-4e6b423915eff6852a98e73104d445f5]
+## 1. Citation and commencement[^c-4e6b423915eff6852a98e73104d445f5]
 
 (1) These Rules may be cited as the Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013.
 
 (2) Rules 1 to 7, 9, 10, 12 to 17 and 19 to 21 of these Rules shall come into force on 27th October 2013, and the remainder on 1st November 2013.
 
-## 2. Custody proceedings rules[^key-5d755093bbac7a2cf15caaa83c97d280]
+## 2. Custody proceedings rules[^c-5d755093bbac7a2cf15caaa83c97d280]
 
 The Armed Forces (Custody Proceedings) Rules 2009[^f00002] are amended as follows.
 
-**3.**[^key-8ed9c86ca7f3b61fbbb612210f37380e] For rule 20 (interpreters) substitute—
+**3.**[^c-8ed9c86ca7f3b61fbbb612210f37380e] For rule 20 (interpreters) substitute—
 
 > **20. Interpretation, translation and communication through an intermediary**
 >
@@ -98,7 +98,7 @@ The Armed Forces (Custody Proceedings) Rules 2009[^f00002] are amended as follow
 
 .
 
-**4.**[^key-bee2bf7d8dca72dd206b9beeebefc1ec] In rule 22(2) (matters to be included in record of proceedings)—
+**4.**[^c-bee2bf7d8dca72dd206b9beeebefc1ec] In rule 22(2) (matters to be included in record of proceedings)—
 
 - (a) at the end of sub-paragraph (a), omit “and”;
 - (b) at the end of sub-paragraph (b)—
@@ -112,11 +112,11 @@ The Armed Forces (Custody Proceedings) Rules 2009[^f00002] are amended as follow
 
     .
 
-## 5. Summary Appeal Court rules[^key-263c0068594f1900cb481120fe195ad9]
+## 5. Summary Appeal Court rules[^c-263c0068594f1900cb481120fe195ad9]
 
 The Armed Forces (Summary Appeal Court) Rules 2009[^f00003] are amended as follows.
 
-**6.**[^key-33cc593e71c534e2e712603bd0744b97] For rule 29 (interpreters) substitute—
+**6.**[^c-33cc593e71c534e2e712603bd0744b97] For rule 29 (interpreters) substitute—
 
 > **29. Interpretation, translation and communication through an intermediary**
 >
@@ -152,7 +152,7 @@ The Armed Forces (Summary Appeal Court) Rules 2009[^f00003] are amended as follo
 
 .
 
-**7.**[^key-6a1f529c4349185c9050ba119b7613ba] At the end of rule 30(2) (matters to be included in record of proceedings)—
+**7.**[^c-6a1f529c4349185c9050ba119b7613ba] At the end of rule 30(2) (matters to be included in record of proceedings)—
 
 - (a) substitute a semi-colon for the full stop;
 - (b) after that semi-colon, insert—
@@ -164,7 +164,7 @@ The Armed Forces (Summary Appeal Court) Rules 2009[^f00003] are amended as follo
 
   .
 
-**8.**[^key-4a9fed3f5558fbf0956a7d8ac07f4e4a] After rule 74 insert—
+**8.**[^c-4a9fed3f5558fbf0956a7d8ac07f4e4a] After rule 74 insert—
 
 > **CHAPTER 6 — Use of specimens in relation to offences under sections 20(1)(a) and 20A of the Armed Forces Act 2006**
 >
@@ -228,11 +228,11 @@ The Armed Forces (Summary Appeal Court) Rules 2009[^f00003] are amended as follo
 
 .
 
-## 9. Summary hearings etc rules[^key-354729c0fbb39f83a4eeb10446e3d3e6]
+## 9. Summary hearings etc rules[^c-354729c0fbb39f83a4eeb10446e3d3e6]
 
 The Armed Forces (Summary Hearing and Activation of Suspended Sentences of Service Detention) Rules 2009[^f00008] are amended as follows.
 
-**10.**[^key-7b2f914fab24f8b60e1aad5ce7475d17] After rule 11 insert—
+**10.**[^c-7b2f914fab24f8b60e1aad5ce7475d17] After rule 11 insert—
 
 > **11A. Interpretation, translation and communication through an intermediary**
 >
@@ -262,7 +262,7 @@ The Armed Forces (Summary Hearing and Activation of Suspended Sentences of Servi
 
 .
 
-**11.**[^key-1575146f5839a4b95ad43497b4979516] After rule 15 insert—
+**11.**[^c-1575146f5839a4b95ad43497b4979516] After rule 15 insert—
 
 > **15A. Offences under sections 20(1)(a) and 20A of the Act: use of specimens**
 >
@@ -320,7 +320,7 @@ The Armed Forces (Summary Hearing and Activation of Suspended Sentences of Servi
 
 .
 
-**12.**[^key-3d81e8230e0e5d8697aee83f7713dd9b] In rule 27(1) (matters to be included in written record of summary hearing), after sub-paragraph (k) insert—
+**12.**[^c-3d81e8230e0e5d8697aee83f7713dd9b] In rule 27(1) (matters to be included in written record of summary hearing), after sub-paragraph (k) insert—
 
 > - (ka) the identity of any interpreter;
 > - (kb) any decision on an application under rule 11A(3);
@@ -329,7 +329,7 @@ The Armed Forces (Summary Hearing and Activation of Suspended Sentences of Servi
 
 .
 
-**13.**[^key-117ed6223b8680bd5eab566c812a42d6] After rule 33 insert—
+**13.**[^c-117ed6223b8680bd5eab566c812a42d6] After rule 33 insert—
 
 > **33A. Interpretation, translation and communication through an intermediary**
 >
@@ -359,7 +359,7 @@ The Armed Forces (Summary Hearing and Activation of Suspended Sentences of Servi
 
 .
 
-**14.**[^key-3fed266855d673449461593234b82465] In rule 36(1) (matters to be included in written record of hearing as regards making of activation order)—
+**14.**[^c-3fed266855d673449461593234b82465] In rule 36(1) (matters to be included in written record of hearing as regards making of activation order)—
 
 - (a) at the end of sub-paragraph (d), omit “and”;
 - (b) at the end of sub-paragraph (e)—
@@ -373,11 +373,11 @@ The Armed Forces (Summary Hearing and Activation of Suspended Sentences of Servi
 
     .
 
-## 15. Court Martial rules[^key-53edce0a1c58ed3e7d74702931a17eac]
+## 15. Court Martial rules[^c-53edce0a1c58ed3e7d74702931a17eac]
 
 The Armed Forces (Court Martial) Rules 2009[^f00009] are amended as follows.
 
-**16.**[^key-49175ba02e41f29f8aebf062eaa5002c] For rule 22 (interpreters) substitute—
+**16.**[^c-49175ba02e41f29f8aebf062eaa5002c] For rule 22 (interpreters) substitute—
 
 > **22. Interpretation, translation and communication through an intermediary**
 >
@@ -415,7 +415,7 @@ The Armed Forces (Court Martial) Rules 2009[^f00009] are amended as follows.
 
 .
 
-**17.**[^key-bae31af4bc7030a6516944c7ca8d2e77] At the end of rule 23(2) (matters to be included in record of proceedings)—
+**17.**[^c-bae31af4bc7030a6516944c7ca8d2e77] At the end of rule 23(2) (matters to be included in record of proceedings)—
 
 - (a) substitute a semi-colon for the full stop;
 - (b) after that semi-colon, insert—
@@ -427,7 +427,7 @@ The Armed Forces (Court Martial) Rules 2009[^f00009] are amended as follows.
 
   .
 
-**18.**[^key-53b6bfc0837876dcf46950055d10608b] After rule 100 insert—
+**18.**[^c-53b6bfc0837876dcf46950055d10608b] After rule 100 insert—
 
 > **CHAPTER 7 — Use of specimens in proceedings for offences relating to alcohol and drugs**
 >
@@ -493,11 +493,11 @@ The Armed Forces (Court Martial) Rules 2009[^f00009] are amended as follows.
 
 .
 
-## 19. Service Civilian Court rules[^key-85186d7eceb7912e48b3ca682eb376e0]
+## 19. Service Civilian Court rules[^c-85186d7eceb7912e48b3ca682eb376e0]
 
 The Armed Forces (Service Civilian Court) Rules 2009[^f00011] are amended as follows.
 
-**20.**[^key-c923107cffa0bb760b2913a7361675f4] For rule 21 (interpreters) substitute—
+**20.**[^c-c923107cffa0bb760b2913a7361675f4] For rule 21 (interpreters) substitute—
 
 > **21. Interpretation, translation and communication through an intermediary**
 >
@@ -535,7 +535,7 @@ The Armed Forces (Service Civilian Court) Rules 2009[^f00011] are amended as fol
 
 .
 
-**21.**[^key-1196f3e052c8c59df8b048832b69f78d] At the end of rule 22(2) (matters to be included in record of proceedings)—
+**21.**[^c-1196f3e052c8c59df8b048832b69f78d] At the end of rule 22(2) (matters to be included in record of proceedings)—
 
 - (a) substitute a semi-colon for the full stop;
 - (b) after that semi-colon, insert—
@@ -547,7 +547,7 @@ The Armed Forces (Service Civilian Court) Rules 2009[^f00011] are amended as fol
 
   .
 
-**22.**[^key-701c1a21432d17adf3a666d42b7d33bf] After rule 84 insert—
+**22.**[^c-701c1a21432d17adf3a666d42b7d33bf] After rule 84 insert—
 
 > **CHAPTER 7 — Use of specimens in proceedings for offences relating to alcohol and drugs**
 >
@@ -628,25 +628,25 @@ Section 11 of the Armed Forces Act [2011 (c. 18)](https://www.legislation.gov.uk
 
 [^f00001]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-4e6b423915eff6852a98e73104d445f5]: Commencement: Rule 1 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
+[^c-4e6b423915eff6852a98e73104d445f5]: Commencement: Rule 1 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
 
-[^key-5d755093bbac7a2cf15caaa83c97d280]: Commencement: Rule 2 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
+[^c-5d755093bbac7a2cf15caaa83c97d280]: Commencement: Rule 2 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
 
 [^f00002]: Footnote: [S.I. 2009/1098](https://www.legislation.gov.uk/uksi/2009/1098).
 
-[^key-8ed9c86ca7f3b61fbbb612210f37380e]: Commencement: Rule 3 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
+[^c-8ed9c86ca7f3b61fbbb612210f37380e]: Commencement: Rule 3 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
 
-[^key-bee2bf7d8dca72dd206b9beeebefc1ec]: Commencement: Rule 4 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
+[^c-bee2bf7d8dca72dd206b9beeebefc1ec]: Commencement: Rule 4 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
 
-[^key-263c0068594f1900cb481120fe195ad9]: Commencement: Rule 5 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
+[^c-263c0068594f1900cb481120fe195ad9]: Commencement: Rule 5 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
 
 [^f00003]: Footnote: [S.I. 2009/1211](https://www.legislation.gov.uk/uksi/2009/1211).
 
-[^key-33cc593e71c534e2e712603bd0744b97]: Commencement: Rule 6 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
+[^c-33cc593e71c534e2e712603bd0744b97]: Commencement: Rule 6 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
 
-[^key-6a1f529c4349185c9050ba119b7613ba]: Commencement: Rule 7 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
+[^c-6a1f529c4349185c9050ba119b7613ba]: Commencement: Rule 7 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
 
-[^key-4a9fed3f5558fbf0956a7d8ac07f4e4a]: Commencement: Rule 8 in force at 1.11.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
+[^c-4a9fed3f5558fbf0956a7d8ac07f4e4a]: Commencement: Rule 8 in force at 1.11.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
 
 [^f00004]: Footnote: Section 20A of the Armed Forces Act 2006 is inserted by section 10 of the Armed Forces Act [2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18).
 
@@ -656,38 +656,38 @@ Section 11 of the Armed Forces Act [2011 (c. 18)](https://www.legislation.gov.uk
 
 [^f00007]: Footnote: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53).
 
-[^key-354729c0fbb39f83a4eeb10446e3d3e6]: Commencement: Rule 9 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
+[^c-354729c0fbb39f83a4eeb10446e3d3e6]: Commencement: Rule 9 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
 
 [^f00008]: Footnote: [S.I. 2009/1216](https://www.legislation.gov.uk/uksi/2009/1216).
 
-[^key-7b2f914fab24f8b60e1aad5ce7475d17]: Commencement: Rule 10 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
+[^c-7b2f914fab24f8b60e1aad5ce7475d17]: Commencement: Rule 10 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
 
-[^key-1575146f5839a4b95ad43497b4979516]: Commencement: Rule 11 in force at 1.11.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
+[^c-1575146f5839a4b95ad43497b4979516]: Commencement: Rule 11 in force at 1.11.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
 
-[^key-3d81e8230e0e5d8697aee83f7713dd9b]: Commencement: Rule 12 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
+[^c-3d81e8230e0e5d8697aee83f7713dd9b]: Commencement: Rule 12 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
 
-[^key-117ed6223b8680bd5eab566c812a42d6]: Commencement: Rule 13 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
+[^c-117ed6223b8680bd5eab566c812a42d6]: Commencement: Rule 13 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
 
-[^key-3fed266855d673449461593234b82465]: Commencement: Rule 14 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
+[^c-3fed266855d673449461593234b82465]: Commencement: Rule 14 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
 
-[^key-53edce0a1c58ed3e7d74702931a17eac]: Commencement: Rule 15 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
+[^c-53edce0a1c58ed3e7d74702931a17eac]: Commencement: Rule 15 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
 
 [^f00009]: Footnote: [S.I. 2009/2041](https://www.legislation.gov.uk/uksi/2009/2041), to which there are amendments not relevant to these Rules.
 
-[^key-49175ba02e41f29f8aebf062eaa5002c]: Commencement: Rule 16 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
+[^c-49175ba02e41f29f8aebf062eaa5002c]: Commencement: Rule 16 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
 
-[^key-bae31af4bc7030a6516944c7ca8d2e77]: Commencement: Rule 17 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
+[^c-bae31af4bc7030a6516944c7ca8d2e77]: Commencement: Rule 17 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
 
-[^key-53b6bfc0837876dcf46950055d10608b]: Commencement: Rule 18 in force at 1.11.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
+[^c-53b6bfc0837876dcf46950055d10608b]: Commencement: Rule 18 in force at 1.11.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
 
 [^f00010]: Footnote: [2003 c. 20](https://www.legislation.gov.uk/ukpga/2003/20).
 
-[^key-85186d7eceb7912e48b3ca682eb376e0]: Commencement: Rule 19 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
+[^c-85186d7eceb7912e48b3ca682eb376e0]: Commencement: Rule 19 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
 
 [^f00011]: Footnote: [S.I. 2009/1209](https://www.legislation.gov.uk/uksi/2009/1209).
 
-[^key-c923107cffa0bb760b2913a7361675f4]: Commencement: Rule 20 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
+[^c-c923107cffa0bb760b2913a7361675f4]: Commencement: Rule 20 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
 
-[^key-1196f3e052c8c59df8b048832b69f78d]: Commencement: Rule 21 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
+[^c-1196f3e052c8c59df8b048832b69f78d]: Commencement: Rule 21 in force at 27.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
 
-[^key-701c1a21432d17adf3a666d42b7d33bf]: Commencement: Rule 22 in force at 1.11.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)
+[^c-701c1a21432d17adf3a666d42b7d33bf]: Commencement: Rule 22 in force at 1.11.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/rule/1/2)

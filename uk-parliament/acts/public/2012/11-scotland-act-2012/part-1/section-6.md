@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Bills: statements as to legislative competence[^key-5349f148ce6a3ca9fdb2d344421995a2]
+## 6. Bills: statements as to legislative competence[^c-5349f148ce6a3ca9fdb2d344421995a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 31(1) of the 1998 Act (statement by member of the Parliament in charg
 
 ## Annotations
 
-[^key-5349f148ce6a3ca9fdb2d344421995a2]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2012/11/section/6) in force at 15.10.2012 by [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 3](https://www.legislation.gov.uk/uksi/2012/1710/article/3)
+[^c-5349f148ce6a3ca9fdb2d344421995a2]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2012/11/section/6) in force at 15.10.2012 by [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 3](https://www.legislation.gov.uk/uksi/2012/1710/article/3)

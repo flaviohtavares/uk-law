@@ -44,11 +44,11 @@ Coming into operation
 
 The Department of the Environment, in exercise of the powers conferred on it by section 4B of the Water Act (Northern Ireland) 1972[^f00001] and now vested in it[^f00002], section 56B of the Water and Sewerage Services (Northern Ireland) Order 1973[^f00003] and, being a department designated[^f00004] for the purposes of section 2(2) of the European Communities Act 1972[^f00005] in relation to measures relating to the prevention, reduction and elimination of pollution of water, in exercise of the powers conferred on it by that section and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-a377bc30323adbe531e4e00b089bf4c8]
+## 1. Citation and commencement[^c-a377bc30323adbe531e4e00b089bf4c8]
 
 This Order may be cited as the The Surface Waters (Fishlife) (Classification) Regulations (Northern Ireland) 1997 and shall come into operation on 5th January 1998.
 
-## 2. Interpretation[^key-f3c743b548f9c0f76d60272a42b406ca]
+## 2. Interpretation[^c-f3c743b548f9c0f76d60272a42b406ca]
 
 (1) In these Regulations—
 
@@ -62,11 +62,11 @@ This Order may be cited as the The Surface Waters (Fishlife) (Classification) Re
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00007] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 3. Classification of waters[^key-b51c3b7f47236361b696a47ffc342785]
+## 3. Classification of waters[^c-b51c3b7f47236361b696a47ffc342785]
 
 The classifications SW (“salmonid waters”) and CW (“cyprinid waters”), and the criteria for those classifications, set out in Schedule 1 shall apply for classifying fresh waters which need protection or improvement in order to support fish life.
 
-## 4. Compliance with relevant requirements[^key-298e3c08abb416241642eff48705174e]
+## 4. Compliance with relevant requirements[^c-298e3c08abb416241642eff48705174e]
 
 (1) Subject to paragraphs (2) and (3), any waters classified under these Regulations shall be treated in relation to any period of 12 months as complying with the requirements specified in Schedule 1 for waters of the relevant class for any parameter if in that period in relation to those waters—
 
@@ -77,14 +77,14 @@ The classifications SW (“salmonid waters”) and CW (“cyprinid waters”), a
 
 (3) Non-compliant samples shall be ignored for the purposes of paragraph (1) if they are the result of a flood or any other natural disaster.
 
-## 5. Guideline values and no deterioration principle[^key-b1d31076b46bdd61cb3f5b25a82e3b02]
+## 5. Guideline values and no deterioration principle[^c-b1d31076b46bdd61cb3f5b25a82e3b02]
 
 In discharging its pollution control functions in relation to any waters classified under these Regulations, the Department shall—
 
 - (a) endeavour to respect the guideline values and comments specified in Schedule 2 for waters of the relevant class; and
 - (b) take into account the principle that implementation of measures taken pursuant to Directive [78/659/EEC](https://www.legislation.gov.uk/european/directive/1978/0659) may on no account lead, either directly or indirectly, to increased pollution of fresh water.
 
-## 6. Compliance with standards[^key-bb44787ced188768dbae3093de9ee574]
+## 6. Compliance with standards[^c-bb44787ced188768dbae3093de9ee574]
 
 (1) Subject to paragraphs (2) and (3), any waters classified under these Regulations shall be treated in relation to any period of 12 months as complying with any standard for any parameter adopted by the Department for those waters as a result of regulation 5 if in that period in relation to those waters—
 
@@ -96,7 +96,7 @@ In discharging its pollution control functions in relation to any waters classif
 
 (3) Non-compliant samples shall be ignored for the purposes of paragraph (1) if they are the result of a flood or any other natural disaster.
 
-## 7. Sampling and Analysis[^key-0c5e2a24b5c0201782909b8b474b0578]
+## 7. Sampling and Analysis[^c-0c5e2a24b5c0201782909b8b474b0578]
 
 (1) The Department shall ensure that waters classified under these Regulations are sampled and samples are analysed in accordance with the following provisions of this regulation.
 
@@ -115,7 +115,7 @@ In discharging its pollution control functions in relation to any waters classif
 
 (7) Samples for any parameter shall be analysed using the reference methods of analysis specified in the Schedules in relation to that parameter or methods which are at least as reliable as the reference methods.
 
-## 8. Derogations[^key-ef8d550e078b032c8c6892f8eb0cd0a8]
+## 8. Derogations[^c-ef8d550e078b032c8c6892f8eb0cd0a8]
 
 (1) The Department may derogate from the requirements of these regulations—
 
@@ -124,18 +124,18 @@ In discharging its pollution control functions in relation to any waters classif
 
 (2) In this regulation, “natural enrichment” means a process whereby without human intervention a given body of water receives from the soil certain substances contained therein.
 
-## 9. Modification of section 4C of the Water Act (Northern Ireland) 1972[^key-8dc2c86eaa32d39512a2d79e7abfc252]
+## 9. Modification of section 4C of the Water Act (Northern Ireland) 1972[^c-8dc2c86eaa32d39512a2d79e7abfc252]
 
 Section 4C of the Water Act (Northern Ireland) 1972 shall have effect—
 
 - (a) as if it imposed a duty on the Department to exercise the powers conferred on it by that section to classify these Regulations such waters as are appropriate for the purpose of giving effect to Directive [78/659/EEC](https://www.legislation.gov.uk/european/directive/1978/0659); and
 - (b) in relation to the performance of that duty, as if subsections (4), (5) and (7) of that section were omitted.
 
-## 10. Programmes[^key-b9f9a31b470e454237b7655606b92b67]
+## 10. Programmes[^c-b9f9a31b470e454237b7655606b92b67]
 
 The Department shall establish programmes in order to reduce pollution and to ensure that waters classified under these Regulations conform, within 5 years following classification, to the criteria set out in Schedule 1 and to the values adopted as a result of regulation 5.
 
-## 11. Transfrontier Consultation[^key-acc59db1d4a18038ccf258574c6d0727]
+## 11. Transfrontier Consultation[^c-acc59db1d4a18038ccf258574c6d0727]
 
 (1) Where the Department considers classifying for the purposes of these Regulations any fresh waters which cross or form part of the national frontier between Northern Ireland and the Republic of Ireland it shall consult with the competent authorities in the Republic of Ireland in order to determine the stretches of such waters which might be classified and the consequences to be drawn from common quality objectives.
 
@@ -153,7 +153,7 @@ Assistant Secretary
 
 regulations 3, 4 and 7
 
-### Part I — Criteria for classification of water as salmonid and cyprinid waters[^key-da388ed328aa673bf37985bb02919d85]
+### Part I — Criteria for classification of water as salmonid and cyprinid waters[^c-da388ed328aa673bf37985bb02919d85]
 
 <table>
 <thead>
@@ -172,7 +172,7 @@ regulations 3, 4 and 7
 </tbody>
 </table>
 
-### Part II — Zinc concentrations (mg/1 Zn) for different water hardness value between 10 and 500 mg/l CaCO<sub>3</sub>[^key-8cdaf06340e0d2fa90ffcff180bb96ac]
+### Part II — Zinc concentrations (mg/1 Zn) for different water hardness value between 10 and 500 mg/l CaCO<sub>3</sub>[^c-8cdaf06340e0d2fa90ffcff180bb96ac]
 
 <table>
 <thead>
@@ -189,7 +189,7 @@ regulations 3, 4 and 7
 
 regulations 5, 6 and 7
 
-### Part I — Guideline values in relation to the quality of salmonid and cyprinid waters[^key-f01077574d3cbac544c18584f787d9e5]
+### Part I — Guideline values in relation to the quality of salmonid and cyprinid waters[^c-f01077574d3cbac544c18584f787d9e5]
 
 <table>
 <thead>
@@ -206,7 +206,7 @@ regulations 5, 6 and 7
 </tbody>
 </table>
 
-### Part II — Copper concentrations (mg/1 Cu) for different water hardness values between 10 and 500 mg/l CaCO<sub>3</sub>[^key-d0482f0904d21e6f84014387bc8227bc]
+### Part II — Copper concentrations (mg/1 Cu) for different water hardness values between 10 and 500 mg/l CaCO<sub>3</sub>[^c-d0482f0904d21e6f84014387bc8227bc]
 
 <table>
 <thead>
@@ -253,39 +253,39 @@ These Regulations transpose in part the requirements of Directive [78/659/EEC](h
 
 [^f00005]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-a377bc30323adbe531e4e00b089bf4c8]: Commencement: Reg. 1 in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
+[^c-a377bc30323adbe531e4e00b089bf4c8]: Commencement: Reg. 1 in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
 
-[^key-f3c743b548f9c0f76d60272a42b406ca]: Commencement: Reg. 2 in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
+[^c-f3c743b548f9c0f76d60272a42b406ca]: Commencement: Reg. 2 in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
 
 [^f00006]: Footnote: O.J. No. L. 222, 14. 8. 1978, p. 1
 
 [^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-b51c3b7f47236361b696a47ffc342785]: Commencement: Reg. 3 in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
+[^c-b51c3b7f47236361b696a47ffc342785]: Commencement: Reg. 3 in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
 
-[^key-298e3c08abb416241642eff48705174e]: Commencement: Reg. 4 in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
+[^c-298e3c08abb416241642eff48705174e]: Commencement: Reg. 4 in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
 
-[^key-b1d31076b46bdd61cb3f5b25a82e3b02]: Commencement: Reg. 5 in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
+[^c-b1d31076b46bdd61cb3f5b25a82e3b02]: Commencement: Reg. 5 in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
 
-[^key-bb44787ced188768dbae3093de9ee574]: Commencement: Reg. 6 in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
+[^c-bb44787ced188768dbae3093de9ee574]: Commencement: Reg. 6 in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
 
-[^key-0c5e2a24b5c0201782909b8b474b0578]: Commencement: Reg. 7 in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
+[^c-0c5e2a24b5c0201782909b8b474b0578]: Commencement: Reg. 7 in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
 
-[^key-ef8d550e078b032c8c6892f8eb0cd0a8]: Commencement: Reg. 8 in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
+[^c-ef8d550e078b032c8c6892f8eb0cd0a8]: Commencement: Reg. 8 in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
 
-[^key-8dc2c86eaa32d39512a2d79e7abfc252]: Commencement: Reg. 9 in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
+[^c-8dc2c86eaa32d39512a2d79e7abfc252]: Commencement: Reg. 9 in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
 
-[^key-b9f9a31b470e454237b7655606b92b67]: Commencement: Reg. 10 in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
+[^c-b9f9a31b470e454237b7655606b92b67]: Commencement: Reg. 10 in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
 
-[^key-acc59db1d4a18038ccf258574c6d0727]: Commencement: Reg. 11 in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
+[^c-acc59db1d4a18038ccf258574c6d0727]: Commencement: Reg. 11 in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
 
-[^key-da388ed328aa673bf37985bb02919d85]: Commencement: Sch. 1 Pt. I in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
+[^c-da388ed328aa673bf37985bb02919d85]: Commencement: Sch. 1 Pt. I in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
 
-[^key-8cdaf06340e0d2fa90ffcff180bb96ac]: Commencement: Sch. 1 Pt. II in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
+[^c-8cdaf06340e0d2fa90ffcff180bb96ac]: Commencement: Sch. 1 Pt. II in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
 
-[^key-f01077574d3cbac544c18584f787d9e5]: Commencement: Sch. 2 Pt. I in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
+[^c-f01077574d3cbac544c18584f787d9e5]: Commencement: Sch. 2 Pt. I in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
 
-[^key-d0482f0904d21e6f84014387bc8227bc]: Commencement: Sch. 2 Pt. II in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
+[^c-d0482f0904d21e6f84014387bc8227bc]: Commencement: Sch. 2 Pt. II in operation at 5.1.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/488/regulation/1)
 
 [^f01000]: Footnote: (1)
 

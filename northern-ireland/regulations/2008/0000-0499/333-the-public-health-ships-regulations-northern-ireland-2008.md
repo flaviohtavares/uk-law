@@ -43,11 +43,11 @@ The Department of Health, Social Services and Public Safety[^f00001], with the c
 
 ## PART I — PRELIMINARY
 
-### 1. Citation and commencement[^key-05811e3e531fd224294bcd87330fd84b]
+### 1. Citation and commencement[^c-05811e3e531fd224294bcd87330fd84b]
 
 These Regulations may be cited as the Public Health (Ships) Regulations (Northern Ireland) 2008 and shall come into operation on 21st August 2008.
 
-### 2. Interpretation[^key-3e32c8bcf9b86dc3b239b2ec4616acca]
+### 2. Interpretation[^c-3e32c8bcf9b86dc3b239b2ec4616acca]
 
 (1) In these Regulations;—
 
@@ -114,7 +114,7 @@ These Regulations may be cited as the Public Health (Ships) Regulations (Norther
 
 (2) For the purposes of these Regulations, a ship shall not be regarded as having met another ship or offshore installation unless in the course of the encounter a person has boarded one ship or installation from the other.
 
-### 3. Application of Regulations to ships of Her Majesty’s armed forces[^key-9bf5f4f8205ab15c5e08dccad518493a]
+### 3. Application of Regulations to ships of Her Majesty’s armed forces[^c-9bf5f4f8205ab15c5e08dccad518493a]
 
 (1) Without prejudice to any statutory provision or rule of law which applies in relation to Her Majesty’s armed forces, these Regulations shall not apply to any ship forming part of Her Majesty’s armed forces or of the armed forces of any country within the Commonwealth or of the armed forces of any other country for the time being designated for the purposes of all the provisions of the Visiting Forces Act 1952[^f00009] under section 1(2) of that Act, or to the officers and crew of any such ship.
 
@@ -122,7 +122,7 @@ These Regulations may be cited as the Public Health (Ships) Regulations (Norther
 
 ## PART II — GENERAL
 
-### 4. Enforcement[^key-82cc746210d506abec181ff29a0d965f]
+### 4. Enforcement[^c-82cc746210d506abec181ff29a0d965f]
 
 (1) Subject to paragraph (2) every Board shall enforce and execute these Regulations and shall exercise its functions through the medical officer and such other officers as it may authorise in that behalf, and shall make such inquiries and take such other steps as seem to it to be necessary for securing the proper exercise of those functions.
 
@@ -138,7 +138,7 @@ These Regulations may be cited as the Public Health (Ships) Regulations (Norther
 - (b) ensure that no ship sanitation certificate is issued without prior inspection by an authorised officer with appropriate expertise;
 - (c) ensure that any control measures required under regulations 15(1)(a)(ii)(aa), 16(3)(a)(i) and (4)(a)(i) are carried out by or under the supervision of an authorised officer with appropriate expertise.
 
-### 5. Appointment and duties of medical officers and provisions of services by Boards[^key-59269cc3659537f8cfc3fe4fd9d0ee44]
+### 5. Appointment and duties of medical officers and provisions of services by Boards[^c-59269cc3659537f8cfc3fe4fd9d0ee44]
 
 For the purposes of these Regulations, a Board may, and if so required by the Department shall—
 
@@ -154,7 +154,7 @@ For the purposes of these Regulations, a Board may, and if so required by the De
 
 ## PART III — INCOMING SHIPS
 
-### 6. Inspection of Ships[^key-9c3c7b4bc5640e30a5a9b0b57ced078a]
+### 6. Inspection of Ships[^c-9c3c7b4bc5640e30a5a9b0b57ced078a]
 
 (1) The authorised officer may, for the purposes of these Regulations, inspect any ship on arrival or already present in the Board area.
 
@@ -170,11 +170,11 @@ For the purposes of these Regulations, a Board may, and if so required by the De
 - (a) with a view to the treatment of persons affected with any infectious disease and for preventing the spread of such a disease; or
 - (b) for preventing other danger to public health.
 
-### 7. Direction of ships[^key-6f9a75ec84c752430414430276b1a0d2]
+### 7. Direction of ships[^c-6f9a75ec84c752430414430276b1a0d2]
 
 Any authorised officer may require a ship on arrival or being already in the area to be brought to, and if necessary moored or anchored at, some safe and convenient place for the purpose of inspection under these Regulations.
 
-### 8. Examination, etc, of persons on ships[^key-031435d67028e9bf97af95ed41f294f8][^key-b96ebe802aa8c182097392382cc8e786]
+### 8. Examination, etc, of persons on ships[^c-031435d67028e9bf97af95ed41f294f8][^c-b96ebe802aa8c182097392382cc8e786]
 
 (1) The medical officer may, and if so requested by the master or required by the Department shall, examine any person on board a ship on arrival or already in the Board area, where there are reasonable grounds for suspecting that the person
 
@@ -192,7 +192,7 @@ Any authorised officer may require a ship on arrival or being already in the are
 
 (3) Nothing in this Regulation shall be deemed to authorise the use of a ship for the isolation of such a person who is suffering from, or had been exposed to an infectious disease unless such isolation can be effected without delaying or unduly interfering with the movements of that ship.
 
-### 9. Powers in respect of certain persons on ships[^key-031435d67028e9bf97af95ed41f294f8][^key-8064c16bb16ccd66dc5cc39d98213092]
+### 9. Powers in respect of certain persons on ships[^c-031435d67028e9bf97af95ed41f294f8][^c-8064c16bb16ccd66dc5cc39d98213092]
 
 (1) Where there is, or the medical officer suspects that there is, on board a ship on arrival or being already in the Board area a person suffering from an infectious disease, the medical officer may—
 
@@ -202,7 +202,7 @@ Any authorised officer may require a ship on arrival or being already in the are
 
 (2) Where the Department is satisfied that a grave danger to public health exists by reason of infectious disease and notifies medical officers accordingly, the medical officer, if the Department so directs, shall require a person disembarking from a ship to state in writing his name and intended destination and address.
 
-### 10. Supply of information etc, by masters[^key-831fceed681b942fc3a499cd3cce61ee]
+### 10. Supply of information etc, by masters[^c-831fceed681b942fc3a499cd3cce61ee]
 
 The master of a ship on arrival or being already in a Board area shall—
 
@@ -210,13 +210,13 @@ The master of a ship on arrival or being already in a Board area shall—
 - (b) notify the authorised officer immediately of any circumstances on board which are likely to cause the spread of infectious disease, including particulars as to the sanitary condition of the ship and the presence of animals or captive birds of any species, or mortality or sickness among such animals or birds, on the ship;
 - (c) comply with these Regulations, and with any directions or requirements of an authorised officer or customs officer given or made for the purposes of these Regulations.
 
-### 11. Permission to enter Board Area[^key-a20a6955cb742bc280553a5dcd24badf]
+### 11. Permission to enter Board Area[^c-a20a6955cb742bc280553a5dcd24badf]
 
 (1) An authorised officer may, transmit free pratique to the master by an appropriate means when he is satisfied that the arrival of the ship will not result in or contribute towards the spread of infectious disease.
 
 (2) Before arriving in a Board area from a foreign port, the master of a ship shall transmit to the authorised officer in that Board area by radio, fax, email or other appropriate means, any information relevant under paragraph (1).
 
-### 12. Notification of infectious disease, etc, on board[^key-be61339f243c7e06d5a1c6aa311424ce]
+### 12. Notification of infectious disease, etc, on board[^c-be61339f243c7e06d5a1c6aa311424ce]
 
 (1) The master of a ship shall before arrival, in accordance with paragraph (2), report the occurrence on board ship of—
 
@@ -234,7 +234,7 @@ The master of a ship on arrival or being already in a Board area shall—
 
 (3) Any radio message, fax, email or other communication sent for the purpose of this regulation shall be sent so as to reach the Board not more than twelve hours, and whenever practicable not less than four hours, before the expected arrival of the ship.
 
-### 13. Maritime Declaration of Health[^key-b9af0f5ac1ef4821036f81d4234993c6]
+### 13. Maritime Declaration of Health[^c-b9af0f5ac1ef4821036f81d4234993c6]
 
 (1) Subject to paragraph (3), where on the arrival of a ship, the master—
 
@@ -247,7 +247,7 @@ The master of a ship on arrival or being already in a Board area shall—
 
 (4) If, within four weeks after the master of a ship has delivered a Maritime Declaration of Health under paragraph (1) or a corresponding provision in force in England and Wales or Scotland, the ship arrives in a Board area or calls at another Board area, as the case may be, the master shall report to the authorised officer any case or suspected case of infectious disease which has occurred on board since the Declaration was delivered and which has not already been reported.
 
-### 14. Restriction on boarding or leaving ships[^key-aff92f384aacf978500b02b8fb41dec8]
+### 14. Restriction on boarding or leaving ships[^c-aff92f384aacf978500b02b8fb41dec8]
 
 (1) Where the authorised officer so directs, or where the master is required to make a report in accordance with regulation 12(1) a person, other than the pilot, a customs officer or an immigration officer, shall not, without the permission of the authorised officer, board or leave a ship until free pratique has been granted, and the master shall take all reasonable steps to secure compliance with this regulation.
 
@@ -255,7 +255,7 @@ The master of a ship on arrival or being already in a Board area shall—
 
 (3) If such a person cannot state his intended destination and address or arrives, within a period, not exceeding fourteen days after landing, to be specified to him by the authorised officer, at an address other than that which he has so stated, he shall immediately after his arrival at that address send particulars thereof to the authorised officer of the port where he left the ship.
 
-### 15. Application for a Ship Sanitation Control Exemption Certificate or Ship Sanitation Control Certificate[^key-83a338db7953177f6c56f0acab509e2b]
+### 15. Application for a Ship Sanitation Control Exemption Certificate or Ship Sanitation Control Certificate[^c-83a338db7953177f6c56f0acab509e2b]
 
 (1) Upon receipt of an application in writing from the owner of a ship or from the master acting for or on behalf of the owner for a ship sanitation certificate in respect of the ship—
 
@@ -280,7 +280,7 @@ The master of a ship on arrival or being already in a Board area shall—
 - (a) were empty; or
 - (b) contained only ballast or other material of such a nature or so disposed as to make a thorough inspection of the holds possible.
 
-### 16. Production of a ship sanitation certificate[^key-bfdf035f1fa00820aaeee3cf3406918f]
+### 16. Production of a ship sanitation certificate[^c-bfdf035f1fa00820aaeee3cf3406918f]
 
 (1) If the master of a ship which during its voyage has been in a foreign port cannot produce to an authorised officer for the Board area in which the ship arrives or for any Board area at which the ship calls a valid ship sanitation certificate in respect of the ship—
 
@@ -330,7 +330,7 @@ The master of a ship on arrival or being already in a Board area shall—
 - (a) issue or cause to be issued a Ship Sanitation Control Certificate; and
 - (b) note or cause to be noted on the certificate the evidence found and the control measures taken.
 
-### 17. Ship Sanitation certificates: supplementary[^key-2c64b8c0d232535dfe2f0243e4f4165f]
+### 17. Ship Sanitation certificates: supplementary[^c-2c64b8c0d232535dfe2f0243e4f4165f]
 
 (1) An authorised officer must ensure that a control measure he requires under regulation 15(1)(a)(ii) or 16(3)(a) or (4)(a) consists of methods or materials advised by WHO for these procedures, unless the authorised officer determines that other measures are as safe and reliable.
 
@@ -340,7 +340,7 @@ The master of a ship on arrival or being already in a Board area shall—
 
 (4) An authorised officer of a port where control measures are applied must note or cause to be noted on the ship sanitation certificate in relation to any case where he is of the view that the conditions under which the measures were carried out, were such that a satisfactory result could not be obtained.
 
-### 18. Ship sanitation certificates: form; period of validity and retention[^key-ca9c2eaf0f14e62b384a110408d4bfad]
+### 18. Ship sanitation certificates: form; period of validity and retention[^c-ca9c2eaf0f14e62b384a110408d4bfad]
 
 (1) A Ship Sanitation Control Exemption Certificate or Ship Sanitation Control Certificate must conform to the model in Annex 3 to the IHR which is reproduced at Schedule 2.
 
@@ -348,42 +348,42 @@ The master of a ship on arrival or being already in a Board area shall—
 
 (3) The Board must retain a copy of any ship sanitation certificate issued by it for a period of one year beginning with the date of issue.
 
-### 19. Detention of ships, and ships to be taken to mooring stations[^key-d42f9100927e58351114cf8dfdd1d32e]
+### 19. Detention of ships, and ships to be taken to mooring stations[^c-d42f9100927e58351114cf8dfdd1d32e]
 
 (1) On the arrival of an infected ship or a suspected ship, or any other ship on which there has been, during its current voyage and within the last four weeks before arrival, a case of plague, cholera, yellow fever or smallpox in respect of which the ship has not, outside the United Kingdom, been subjected to appropriate measures equivalent to those provided for in these Regulations, the master shall take it to a mooring station unless an authorised officer otherwise allows or directs.
 
 (2) When the authorised officer has reason to believe that a ship on arrival may be one to which paragraph (1) applies, he may direct the master to take it to a mooring station.
 
-**20.**[^key-c31a02aa3ef94d86874c1d82179d26a4] The authorised officer may for the purposes of these Regulations direct that any ship from a foreign port shall on arrival be taken to a mooring station for inspection, and he may, if a customs officer is to be the first officer to board the ship, give a notice in writing of such direction to the customs officer, who shall deliver the notice to the master.
+**20.**[^c-c31a02aa3ef94d86874c1d82179d26a4] The authorised officer may for the purposes of these Regulations direct that any ship from a foreign port shall on arrival be taken to a mooring station for inspection, and he may, if a customs officer is to be the first officer to board the ship, give a notice in writing of such direction to the customs officer, who shall deliver the notice to the master.
 
-**21.**[^key-870f45e7746038a7511f664ef5ec904e] Where on the arrival of a ship from a foreign port it appears to a customs officer, from information in the Maritime Declaration of Health or otherwise, that the ship is one to which regulation 19(1) applies, he shall direct the master to take it to a mooring station for detention there unless an authorised officer otherwise allows or directs.
+**21.**[^c-870f45e7746038a7511f664ef5ec904e] Where on the arrival of a ship from a foreign port it appears to a customs officer, from information in the Maritime Declaration of Health or otherwise, that the ship is one to which regulation 19(1) applies, he shall direct the master to take it to a mooring station for detention there unless an authorised officer otherwise allows or directs.
 
-**22.**[^key-02242ec616ccf6c09b9ab3a98c65e9d9] If after the arrival of a ship a case of plague, cholera, yellow fever, smallpox, rabies, or viral haemorrhagic fever occurs on board, or an animal infected with any such disease is discovered or suspected of being on board, the authorised officer may direct the master to take the ship to a mooring station.
+**22.**[^c-02242ec616ccf6c09b9ab3a98c65e9d9] If after the arrival of a ship a case of plague, cholera, yellow fever, smallpox, rabies, or viral haemorrhagic fever occurs on board, or an animal infected with any such disease is discovered or suspected of being on board, the authorised officer may direct the master to take the ship to a mooring station.
 
-**23.**[^key-bab3602cd38db19188464968d0293399] A ship which has been taken to a mooring station or directed there by an authorised officer shall remain there until it has been inspected by the medical officer.
+**23.**[^c-bab3602cd38db19188464968d0293399] A ship which has been taken to a mooring station or directed there by an authorised officer shall remain there until it has been inspected by the medical officer.
 
-**24.**[^key-4f0d441b9e11bbd87b068e9ec9b6d703] An authorised officer may detain, or give notice in writing to a customs officer to detain, any ship for inspection at its place of mooring (not being a mooring station) or at its place of discharge or loading.
+**24.**[^c-4f0d441b9e11bbd87b068e9ec9b6d703] An authorised officer may detain, or give notice in writing to a customs officer to detain, any ship for inspection at its place of mooring (not being a mooring station) or at its place of discharge or loading.
 
-**25.**[^key-cdb10e4ace8bb93919c0985b7215e3cf] The detention of a ship by a customs officer under these Regulations shall cease as soon as the ship has been inspected by the medical officer or, if such inspection has not commenced within twelve hours after the ship has been so detained, on the expiration of that period provided that nothing in this regulation shall affect the power of the authorised officer to continue the detention of a ship under regulation 21 to 24.
+**25.**[^c-cdb10e4ace8bb93919c0985b7215e3cf] The detention of a ship by a customs officer under these Regulations shall cease as soon as the ship has been inspected by the medical officer or, if such inspection has not commenced within twelve hours after the ship has been so detained, on the expiration of that period provided that nothing in this regulation shall affect the power of the authorised officer to continue the detention of a ship under regulation 21 to 24.
 
-**26.**[^key-addaeb110321f9f41eae9944cc544519] (1) The medical officer shall inspect any ship and the persons on board as soon as possible after it has been taken or directed to a mooring station or after it has been detained under these Regulations.
+**26.**[^c-addaeb110321f9f41eae9944cc544519] (1) The medical officer shall inspect any ship and the persons on board as soon as possible after it has been taken or directed to a mooring station or after it has been detained under these Regulations.
 
 (2) If the ship is one to which the authorised officer is required to apply any further measures under these Regulations or additional measures in Schedule 3, or if after such inspection he considers it necessary to apply any such further or additional measures he may detain the ship at the mooring station, or continue the detention, as the case may be, if such detention or continued detention is necessary for the application of such further or additional measures.
 
-**27.**[^key-2ca2e25cf61150a41c5ed40581be0734] The authorised officer may require the master of a ship which has been taken or directed to a mooring station or detained because rodents have been discovered or there are reasonable grounds for suspecting that rodents are on board to take all practicable measures to prevent the escape of rodents from the ship.
+**27.**[^c-2ca2e25cf61150a41c5ed40581be0734] The authorised officer may require the master of a ship which has been taken or directed to a mooring station or detained because rodents have been discovered or there are reasonable grounds for suspecting that rodents are on board to take all practicable measures to prevent the escape of rodents from the ship.
 
-### 28. Persons from infected areas[^key-c8e4eb5ba4854dddd2fec4c11e4afe01]
+### 28. Persons from infected areas[^c-c8e4eb5ba4854dddd2fec4c11e4afe01]
 
 On the arrival of a ship the medical officer may place under surveillance for the appropriate period specified in regulation 34(1)—
 
 - (a) any person disembarking from the ship who has come from an area infected with cholera, smallpox or viral haemorrhagic fever; and
 - (b) any suspected person disembarking from the ship who has come from an area infected with yellow fever, plague, lassa fever, viral haemorrhagic fever or marburg disease.
 
-### 29. Removal of infected persons from ships when required by master[^key-0cf3db156da65d257677fb797203a5b7]
+### 29. Removal of infected persons from ships when required by master[^c-0cf3db156da65d257677fb797203a5b7]
 
 The medical officer shall, if so required by the master of a ship on arrival, cause any infected person to be removed from the ship.
 
-### 30. Additional Measures[^key-11f7d84913318a2d3657eef882a1811b]
+### 30. Additional Measures[^c-11f7d84913318a2d3657eef882a1811b]
 
 Without prejudice to any other provision in these Regulations, the additional measures in Schedule 3 shall be applicable on the arrival of—
 
@@ -394,7 +394,7 @@ Without prejudice to any other provision in these Regulations, the additional me
 
 ## PART IV — OUTGOING SHIPS
 
-### 31. Examination, etc, of persons proposing to embark[^key-df06d603e401139467974cdd5a190831]
+### 31. Examination, etc, of persons proposing to embark[^c-df06d603e401139467974cdd5a190831]
 
 (1) Where a ship is due to depart for a destination, whether final or intermediate, outside the United Kingdom, the medical officer —
 
@@ -409,7 +409,7 @@ Without prejudice to any other provision in these Regulations, the additional me
 
 (2) The medical officer shall notify by the most expeditious means the competent authority for the place to which the person is proceeding that such a person should, in the opinion of the medical officer, be placed under surveillance.
 
-### 32. Infected places in Northern Ireland[^key-066d1b28de4b75e3aa2aba8ed2a51912]
+### 32. Infected places in Northern Ireland[^c-066d1b28de4b75e3aa2aba8ed2a51912]
 
 Where the Department has by notice published in the Belfast Gazette, declared any place to be infected with a disease which in its opinion constitutes a menace to other countries by reason of its spread or potential spread, then, until the notice is revoked by a subsequent notice published in the Belfast Gazette, every medical officer shall comply with any requirement which may be made by the Department for preventing the spread of the disease, and in particular (but without prejudice to the generality of the foregoing provision) the following provisions of this regulation shall operate in relation to any ship departing from any Board area specified by the Department for a destination, whether final or intermediate, outside the United Kingdom:—
 
@@ -422,7 +422,7 @@ Where the Department has by notice published in the Belfast Gazette, declared an
 
 ## PART V — MISCELLANEOUS
 
-### 33. Compliance with directions, etc, under these Regulations[^key-fb0e4668e457e7a83cc13ebba858649e]
+### 33. Compliance with directions, etc, under these Regulations[^c-fb0e4668e457e7a83cc13ebba858649e]
 
 (1) Every person to whom these Regulations apply shall—
 
@@ -434,7 +434,7 @@ Where the Department has by notice published in the Belfast Gazette, declared an
 - (a) comply with any direction, requirement, or condition so given, made or imposed, under paragraph (1); and
 - (b) furnish all such information in respect of that child or other person as may be reasonably required under that paragraph.
 
-### 34. Surveillance[^key-949a8f51ea85c6945bf7c531537a0258]
+### 34. Surveillance[^c-949a8f51ea85c6945bf7c531537a0258]
 
 (1) Where these Regulations permit a medical officer to place a person under surveillance, the period of such surveillance shall not exceed such of the following periods as may be appropriate:—
 
@@ -457,7 +457,7 @@ Where the Department has by notice published in the Belfast Gazette, declared an
 
 - Provided that an instruction shall not be given under this regulation unless the Department has by direction (whether general or special) authorised the giving of instructions thereunder.
 
-### 35. Charges for services[^key-541a7c7896057a210e707b4dd9275d20]
+### 35. Charges for services[^c-541a7c7896057a210e707b4dd9275d20]
 
 (1) A Board may charge the owner or master of a ship for a service described in paragraph (2) in so far as the service is for preventing—
 
@@ -491,15 +491,15 @@ Where the Department has by notice published in the Belfast Gazette, declared an
 
 (7) Particulars under paragraph (6) shall include the date on which the measures were taken.
 
-### 36. Expenses of Boards[^key-1a6969094c4225025d6422ec8c75ad73]
+### 36. Expenses of Boards[^c-1a6969094c4225025d6422ec8c75ad73]
 
 Subject to regulation 35, any expenses incurred by a Board in the enforcement and execution of these Regulations shall be defrayed in the same manner as the expenses incurred by it in the execution and discharge of its other powers and duties.
 
-### 37. Recovery of Charges[^key-860fcadf5ed32cabeeb29cad3e296386]
+### 37. Recovery of Charges[^c-860fcadf5ed32cabeeb29cad3e296386]
 
 Every charge authorised by regulation 35 shall be recoverable either summarily as a civil debt, or as a simple contract debt in any court of competent jurisdiction.
 
-### 38. Saving for masters of ships unwilling to comply with these Regulations[^key-4052a10a029ccccb8f8842a61252f83f]
+### 38. Saving for masters of ships unwilling to comply with these Regulations[^c-4052a10a029ccccb8f8842a61252f83f]
 
 (1) The master of a ship on arrival, or being already in a Board area, who is unwilling to comply with, any provision of, or requirement made under these Regulations shall notify the authorised officer, and the authorised officer may then require the master to remove the ship immediately from the Board area.
 
@@ -507,11 +507,11 @@ Every charge authorised by regulation 35 shall be recoverable either summarily a
 
 (3) When the authorised officer has required the removal of a ship from the Board area, it shall not, during its voyage, call at any other Board area.
 
-### 39. Saving for existing enactments[^key-26b53c242889e92394c5d80b9ad69090]
+### 39. Saving for existing enactments[^c-26b53c242889e92394c5d80b9ad69090]
 
 Nothing in these Regulations shall affect the Immigration Act 1971.
 
-### 40. Revocation[^key-682e94cc65cc6fd4914e4f31b3e44adf]
+### 40. Revocation[^c-682e94cc65cc6fd4914e4f31b3e44adf]
 
 The Public Health (Ships) Regulations (Northern Ireland) 1971[^f00010] are revoked.
 
@@ -535,7 +535,7 @@ A senior officer of the Department
 
 Regulation 15
 
-### ANNEX 8 — MODEL OF MARITIME DECLARATION OF HEALTH[^key-b98c44aa1bf54825d2eb14d4f94a60e6]
+### ANNEX 8 — MODEL OF MARITIME DECLARATION OF HEALTH[^c-b98c44aa1bf54825d2eb14d4f94a60e6]
 
 [image: see source](https://www.legislation.gov.uk/nisr/2008/333/images/nisr_20080333_en_001)
 
@@ -547,7 +547,7 @@ Regulation 15
 
 Regulations 2(1) and 18 (1)
 
-### Annex 3 — MODEL SHIP SANITATION CONTROL EXEMPTION CERTIFICATE/SHIP SANITATION CONTROL CERTIFICATE[^key-18f87f50f2ac77857048433e48ed433c]
+### Annex 3 — MODEL SHIP SANITATION CONTROL EXEMPTION CERTIFICATE/SHIP SANITATION CONTROL CERTIFICATE[^c-18f87f50f2ac77857048433e48ed433c]
 
 [image: see source](https://www.legislation.gov.uk/nisr/2008/333/images/nisr_20080333_en_004)
 
@@ -559,26 +559,26 @@ Regulations 26, 30 and 34(3)
 
 ### PART 1 — PLAGUE
 
-#### 1. A. Infected ships and suspected ships[^key-574677b3e541e78702e6a9d03db32cc7]
+#### 1. A. Infected ships and suspected ships[^c-574677b3e541e78702e6a9d03db32cc7]
 
 The medical officer may—
 
 - (a) require any suspected person on board to be disinsected and place him under surveillance, the period of surveillance being reckoned from the date of arrival of the ship;
 - (b) require the disinsecting and, if necessary, disinfection of the baggage of any infected or suspected person, and of any other article on board and any part of the ship which the medical officer considers to be contaminated.
 
-**2.**[^key-6ec46c50c40c1d056b2de2dac7e76bf5] If there is any rodent infected with plague on board, the medical officer or other authorised officer shall require the ship to be deratted in a manner to be determined by him, but without prejudice to the generality of this requirement the following special provisions shall apply to any such deratting:—
+**2.**[^c-6ec46c50c40c1d056b2de2dac7e76bf5] If there is any rodent infected with plague on board, the medical officer or other authorised officer shall require the ship to be deratted in a manner to be determined by him, but without prejudice to the generality of this requirement the following special provisions shall apply to any such deratting:—
 
 - (a) the deratting shall be carried out as soon as the holds have been emptied or when they contain only ballast or other material, unattractive to rodents, of such a nature or so disposed as to make a thorough inspection of the holds possible;
 - (b) one or more preliminary derattings of a ship with the cargo in situ, or during its unloading, may be carried out to prevent the escape of infected rodents;
 - (c) if the complete destruction of rodents cannot be secured because only part of the cargo is due to be unloaded, a ship shall not be prevented from unloading that part, but the medical officer or other authorised officer may apply any measure which he considers necessary to prevent the escape of infected rodents, including placing the ship in quarantine;
 - (d) notwithstanding sub-paragraphs (a) a Ship Sanitation Control Exemption Certificate may be issued for an oil tanker with full holds.
 
-**3.**[^key-04d4a88a5e0ca55926f6cf291ecaa9a8] On arrival of a ship having on board a person suffering from pulmonary plague, or if there has been a case of pulmonary plague on board a ship within the six days before its arrival, the medical officer may—
+**3.**[^c-04d4a88a5e0ca55926f6cf291ecaa9a8] On arrival of a ship having on board a person suffering from pulmonary plague, or if there has been a case of pulmonary plague on board a ship within the six days before its arrival, the medical officer may—
 
 - (a) carry out the measures set out in paragraph 1;
 - (b) require any person on board to be placed in isolation for six days reckoned from the date of the last exposure to infection.
 
-#### 4. B. Ships which have been in areas infected with plague[^key-6ad7de679bd82893914ccf320caf4d1c]
+#### 4. B. Ships which have been in areas infected with plague[^c-6ad7de679bd82893914ccf320caf4d1c]
 
 The medical officer may—
 
@@ -588,16 +588,16 @@ The medical officer may—
 
 ### PART II — CHOLERA
 
-#### 1. Infected ships and suspected ships[^key-13f0280e56849c1356141444360ae249]
+#### 1. Infected ships and suspected ships[^c-13f0280e56849c1356141444360ae249]
 
 The medical officer—
 
 - (a) may place under surveillance any person who disembarks from a ship, the period of surveillance being reckoned from the date of disembarkation from the ship;
 - (b) shall be responsible for the supervision of the removal and safe disposal of any water, food (excluding cargo), human dejecta, waste water, including bilge water, waste matter and any other matter which is considered to be contaminated, and shall be responsible for the disinfection of water tanks and food handling equipment.
 
-**2.**[^key-9c4a81db079fd7a3a613c801cc513ca7] Foodstuffs carried as cargo on board ships in which a case of cholera has occurred during the journey may not be subjected to bacteriological examination except by the health authorities of the country of final destination.
+**2.**[^c-9c4a81db079fd7a3a613c801cc513ca7] Foodstuffs carried as cargo on board ships in which a case of cholera has occurred during the journey may not be subjected to bacteriological examination except by the health authorities of the country of final destination.
 
-### PART III — YELLOW FEVER[^key-2431e71e15c288380c2865ce0fa318b2]
+### PART III — YELLOW FEVER[^c-2431e71e15c288380c2865ce0fa318b2]
 
 #### Infected ships, suspected ships, and ships which have been in infected areas
 
@@ -605,31 +605,31 @@ The medical officer may require the ship to be disinsected for the destruction o
 
 ### PART IV — SMALLPOX
 
-#### 1. A. Infected ships[^key-4438dd902cd6300125d9b00e62c3088b]
+#### 1. A. Infected ships[^c-4438dd902cd6300125d9b00e62c3088b]
 
 The medical officer shall offer vaccination to any person on board or disembarking from the ship who does not show sufficient evidence of protection by previously having had smallpox.
 
-**2.**[^key-020284d8a2be43545bc4076966699a20] The medical officer may either—
+**2.**[^c-020284d8a2be43545bc4076966699a20] The medical officer may either—
 
 - (a) place under surveillance any person who disembarks, the period of surveillance being reckoned from the date on which the medical officer considers the person was last exposed to infection; or
 - (b) if he considers any such person is not sufficiently protected against smallpox, isolate him for a similar period.
 
-**3.**[^key-ef133ed1535172958f26bf4a86d95012] The medical officer shall require the disinfection of the baggage of any infected person, and of any other article on board and any part of the ship which the medical officer considers to be contaminated.
+**3.**[^c-ef133ed1535172958f26bf4a86d95012] The medical officer shall require the disinfection of the baggage of any infected person, and of any other article on board and any part of the ship which the medical officer considers to be contaminated.
 
-#### 4. B. Suspected persons on other ships[^key-a39bc79739a3f825ec247c7b218f08af]
+#### 4. B. Suspected persons on other ships[^c-a39bc79739a3f825ec247c7b218f08af]
 
 The medical officer may also apply the provisions of paragraphs 1 and 2 of this Part to any suspected person who disembarks from a ship which is not an infected ship.
 
 ### PART V — RABIES OR VIRAL HAEMORRHAGIC FEVER
 
-#### 1. Infected ships and suspected ships[^key-2b079bf02461d18b45784ab9afe630f1]
+#### 1. Infected ships and suspected ships[^c-2b079bf02461d18b45784ab9afe630f1]
 
 The medical officer may—
 
 - (a) place any suspected person on board under surveillance, the period of surveillance being reckoned from the date of arrival of the ship;
 - (b) require the disinfection of the baggage of any infected or suspected person, and of any other article on board and any part of the ship which the medical officer considers to be contaminated.
 
-**2.**[^key-09e181aba35e4c0c40c8e887ba7c53e4] If there is any rodent on board the authorised officer may require the ship to be deratted in a manner to be determined by him, but without prejudice to the generality of this requirement the following special provisions shall apply to any such deratting:
+**2.**[^c-09e181aba35e4c0c40c8e887ba7c53e4] If there is any rodent on board the authorised officer may require the ship to be deratted in a manner to be determined by him, but without prejudice to the generality of this requirement the following special provisions shall apply to any such deratting:
 
 - (a) the deratting shall be carried out as soon as the holds have been emptied or when they contain only ballast or other material, unattractive to rodents, of such a nature or so disposed as to make a thorough inspection of the holds possible;
 - (b) one or more preliminary derattings of a ship with the cargo in situ, or during its unloading, may be carried out to prevent the escape of infected rodents;
@@ -660,9 +660,9 @@ Part V contains miscellaneous provisions concerning periods of surveillance, cha
 
 [^f00003]: Footnote: [1967 c. 36 (Northern Ireland)](https://www.legislation.gov.uk/apni/1967/36) Section 2A was inserted by Article 17 of the Health and Personal Social Services and Public Health (Northern Ireland) Order 1986 ([S.I. 1986/2229) (N.I. 24)](https://www.legislation.gov.uk/nisi/1986/2229) and amended by section 2 of the Public Health (Amendment) Act (Northern Ireland) [2008 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2008/5)
 
-[^key-05811e3e531fd224294bcd87330fd84b]: Commencement: Reg. 1 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-05811e3e531fd224294bcd87330fd84b]: Commencement: Reg. 1 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-3e32c8bcf9b86dc3b239b2ec4616acca]: Commencement: Reg. 2 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-3e32c8bcf9b86dc3b239b2ec4616acca]: Commencement: Reg. 2 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
 [^f00004]: Footnote: [S.I. 1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115)
 
@@ -674,114 +674,114 @@ Part V contains miscellaneous provisions concerning periods of surveillance, cha
 
 [^f00008]: Footnote: [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17)
 
-[^key-9bf5f4f8205ab15c5e08dccad518493a]: Commencement: Reg. 3 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-9bf5f4f8205ab15c5e08dccad518493a]: Commencement: Reg. 3 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
 [^f00009]: Footnote: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67)
 
-[^key-82cc746210d506abec181ff29a0d965f]: Commencement: Reg. 4 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-82cc746210d506abec181ff29a0d965f]: Commencement: Reg. 4 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-59269cc3659537f8cfc3fe4fd9d0ee44]: Commencement: Reg. 5 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-59269cc3659537f8cfc3fe4fd9d0ee44]: Commencement: Reg. 5 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-9c3c7b4bc5640e30a5a9b0b57ced078a]: Commencement: Reg. 6 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-9c3c7b4bc5640e30a5a9b0b57ced078a]: Commencement: Reg. 6 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-6f9a75ec84c752430414430276b1a0d2]: Commencement: Reg. 7 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-6f9a75ec84c752430414430276b1a0d2]: Commencement: Reg. 7 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-031435d67028e9bf97af95ed41f294f8]: Textual amendment: [Regs. 8](https://www.legislation.gov.uk/nisr/2008/333/regulation/8), [9](https://www.legislation.gov.uk/nisr/2008/333/regulation/9) applied as inserted by 2013 SR246 reg. 11(7)(e) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(7)(e)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/7/e))
+[^c-031435d67028e9bf97af95ed41f294f8]: Textual amendment: [Regs. 8](https://www.legislation.gov.uk/nisr/2008/333/regulation/8), [9](https://www.legislation.gov.uk/nisr/2008/333/regulation/9) applied as inserted by 2013 SR246 reg. 11(7)(e) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(7)(e)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/7/e))
 
-[^key-b96ebe802aa8c182097392382cc8e786]: Commencement: Reg. 8 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-b96ebe802aa8c182097392382cc8e786]: Commencement: Reg. 8 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-8064c16bb16ccd66dc5cc39d98213092]: Commencement: Reg. 9 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-8064c16bb16ccd66dc5cc39d98213092]: Commencement: Reg. 9 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-831fceed681b942fc3a499cd3cce61ee]: Commencement: Reg. 10 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-831fceed681b942fc3a499cd3cce61ee]: Commencement: Reg. 10 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-a20a6955cb742bc280553a5dcd24badf]: Commencement: Reg. 11 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-a20a6955cb742bc280553a5dcd24badf]: Commencement: Reg. 11 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-be61339f243c7e06d5a1c6aa311424ce]: Commencement: Reg. 12 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-be61339f243c7e06d5a1c6aa311424ce]: Commencement: Reg. 12 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-b9af0f5ac1ef4821036f81d4234993c6]: Commencement: Reg. 13 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-b9af0f5ac1ef4821036f81d4234993c6]: Commencement: Reg. 13 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-aff92f384aacf978500b02b8fb41dec8]: Commencement: Reg. 14 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-aff92f384aacf978500b02b8fb41dec8]: Commencement: Reg. 14 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-83a338db7953177f6c56f0acab509e2b]: Commencement: Reg. 15 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-83a338db7953177f6c56f0acab509e2b]: Commencement: Reg. 15 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-bfdf035f1fa00820aaeee3cf3406918f]: Commencement: Reg. 16 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-bfdf035f1fa00820aaeee3cf3406918f]: Commencement: Reg. 16 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-2c64b8c0d232535dfe2f0243e4f4165f]: Commencement: Reg. 17 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-2c64b8c0d232535dfe2f0243e4f4165f]: Commencement: Reg. 17 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-ca9c2eaf0f14e62b384a110408d4bfad]: Commencement: Reg. 18 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-ca9c2eaf0f14e62b384a110408d4bfad]: Commencement: Reg. 18 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-d42f9100927e58351114cf8dfdd1d32e]: Commencement: Reg. 19 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-d42f9100927e58351114cf8dfdd1d32e]: Commencement: Reg. 19 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-c31a02aa3ef94d86874c1d82179d26a4]: Commencement: Reg. 20 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-c31a02aa3ef94d86874c1d82179d26a4]: Commencement: Reg. 20 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-870f45e7746038a7511f664ef5ec904e]: Commencement: Reg. 21 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-870f45e7746038a7511f664ef5ec904e]: Commencement: Reg. 21 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-02242ec616ccf6c09b9ab3a98c65e9d9]: Commencement: Reg. 22 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-02242ec616ccf6c09b9ab3a98c65e9d9]: Commencement: Reg. 22 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-bab3602cd38db19188464968d0293399]: Commencement: Reg. 23 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-bab3602cd38db19188464968d0293399]: Commencement: Reg. 23 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-4f0d441b9e11bbd87b068e9ec9b6d703]: Commencement: Reg. 24 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-4f0d441b9e11bbd87b068e9ec9b6d703]: Commencement: Reg. 24 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-cdb10e4ace8bb93919c0985b7215e3cf]: Commencement: Reg. 25 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-cdb10e4ace8bb93919c0985b7215e3cf]: Commencement: Reg. 25 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-addaeb110321f9f41eae9944cc544519]: Commencement: Reg. 26 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-addaeb110321f9f41eae9944cc544519]: Commencement: Reg. 26 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-2ca2e25cf61150a41c5ed40581be0734]: Commencement: Reg. 27 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-2ca2e25cf61150a41c5ed40581be0734]: Commencement: Reg. 27 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-c8e4eb5ba4854dddd2fec4c11e4afe01]: Commencement: Reg. 28 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-c8e4eb5ba4854dddd2fec4c11e4afe01]: Commencement: Reg. 28 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-0cf3db156da65d257677fb797203a5b7]: Commencement: Reg. 29 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-0cf3db156da65d257677fb797203a5b7]: Commencement: Reg. 29 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-11f7d84913318a2d3657eef882a1811b]: Commencement: Reg. 30 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-11f7d84913318a2d3657eef882a1811b]: Commencement: Reg. 30 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-df06d603e401139467974cdd5a190831]: Commencement: Reg. 31 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-df06d603e401139467974cdd5a190831]: Commencement: Reg. 31 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-066d1b28de4b75e3aa2aba8ed2a51912]: Commencement: Reg. 32 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-066d1b28de4b75e3aa2aba8ed2a51912]: Commencement: Reg. 32 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-fb0e4668e457e7a83cc13ebba858649e]: Commencement: Reg. 33 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-fb0e4668e457e7a83cc13ebba858649e]: Commencement: Reg. 33 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-949a8f51ea85c6945bf7c531537a0258]: Commencement: Reg. 34 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-949a8f51ea85c6945bf7c531537a0258]: Commencement: Reg. 34 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-541a7c7896057a210e707b4dd9275d20]: Commencement: Reg. 35 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-541a7c7896057a210e707b4dd9275d20]: Commencement: Reg. 35 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-1a6969094c4225025d6422ec8c75ad73]: Commencement: Reg. 36 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-1a6969094c4225025d6422ec8c75ad73]: Commencement: Reg. 36 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-860fcadf5ed32cabeeb29cad3e296386]: Commencement: Reg. 37 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-860fcadf5ed32cabeeb29cad3e296386]: Commencement: Reg. 37 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-4052a10a029ccccb8f8842a61252f83f]: Commencement: Reg. 38 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-4052a10a029ccccb8f8842a61252f83f]: Commencement: Reg. 38 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-26b53c242889e92394c5d80b9ad69090]: Commencement: Reg. 39 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-26b53c242889e92394c5d80b9ad69090]: Commencement: Reg. 39 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-682e94cc65cc6fd4914e4f31b3e44adf]: Commencement: Reg. 40 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-682e94cc65cc6fd4914e4f31b3e44adf]: Commencement: Reg. 40 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
 [^f00010]: Footnote: [S.R. & O. (N.I) 1971 No. 183](https://www.legislation.gov.uk/nisro/1971/183)
 
-[^key-b98c44aa1bf54825d2eb14d4f94a60e6]: Commencement: Sch. 1 Pt. 1 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-b98c44aa1bf54825d2eb14d4f94a60e6]: Commencement: Sch. 1 Pt. 1 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-18f87f50f2ac77857048433e48ed433c]: Commencement: Sch. 2 Pt. 1 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-18f87f50f2ac77857048433e48ed433c]: Commencement: Sch. 2 Pt. 1 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-574677b3e541e78702e6a9d03db32cc7]: Commencement: Sch. 3 Pt. 1 para. 1 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-574677b3e541e78702e6a9d03db32cc7]: Commencement: Sch. 3 Pt. 1 para. 1 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-6ec46c50c40c1d056b2de2dac7e76bf5]: Commencement: Sch. 3 Pt. 1 para. 2 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-6ec46c50c40c1d056b2de2dac7e76bf5]: Commencement: Sch. 3 Pt. 1 para. 2 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-04d4a88a5e0ca55926f6cf291ecaa9a8]: Commencement: Sch. 3 Pt. 1 para. 3 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-04d4a88a5e0ca55926f6cf291ecaa9a8]: Commencement: Sch. 3 Pt. 1 para. 3 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-6ad7de679bd82893914ccf320caf4d1c]: Commencement: Sch. 3 Pt. 1 para. 4 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-6ad7de679bd82893914ccf320caf4d1c]: Commencement: Sch. 3 Pt. 1 para. 4 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-13f0280e56849c1356141444360ae249]: Commencement: Sch. 3 Pt. II para. 1 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-13f0280e56849c1356141444360ae249]: Commencement: Sch. 3 Pt. II para. 1 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-9c4a81db079fd7a3a613c801cc513ca7]: Commencement: Sch. 3 Pt. II para. 2 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-9c4a81db079fd7a3a613c801cc513ca7]: Commencement: Sch. 3 Pt. II para. 2 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-2431e71e15c288380c2865ce0fa318b2]: Commencement: Sch. 3 Pt. III in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-2431e71e15c288380c2865ce0fa318b2]: Commencement: Sch. 3 Pt. III in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-4438dd902cd6300125d9b00e62c3088b]: Commencement: Sch. 3 Pt. IV para. 1 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-4438dd902cd6300125d9b00e62c3088b]: Commencement: Sch. 3 Pt. IV para. 1 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-020284d8a2be43545bc4076966699a20]: Commencement: Sch. 3 Pt. IV para. 2 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-020284d8a2be43545bc4076966699a20]: Commencement: Sch. 3 Pt. IV para. 2 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-ef133ed1535172958f26bf4a86d95012]: Commencement: Sch. 3 Pt. IV para. 3 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-ef133ed1535172958f26bf4a86d95012]: Commencement: Sch. 3 Pt. IV para. 3 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-a39bc79739a3f825ec247c7b218f08af]: Commencement: Sch. 3 Pt. IV para. 4 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-a39bc79739a3f825ec247c7b218f08af]: Commencement: Sch. 3 Pt. IV para. 4 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-2b079bf02461d18b45784ab9afe630f1]: Commencement: Sch. 3 Pt. V para. 1 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-2b079bf02461d18b45784ab9afe630f1]: Commencement: Sch. 3 Pt. V para. 1 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
 
-[^key-09e181aba35e4c0c40c8e887ba7c53e4]: Commencement: Sch. 3 Pt. V para. 2 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)
+[^c-09e181aba35e4c0c40c8e887ba7c53e4]: Commencement: Sch. 3 Pt. V para. 2 in operation at 21.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/333/regulation/1)

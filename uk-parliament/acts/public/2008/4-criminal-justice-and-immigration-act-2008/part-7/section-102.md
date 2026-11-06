@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Provisions that orders may contain[^key-7a97de11013783c994ba31e6727400df]
+## 102. Provisions that orders may contain[^c-7a97de11013783c994ba31e6727400df]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a97de11013783c994ba31e6727400df]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2008/4/section/102) in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(e)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/e)
+[^c-7a97de11013783c994ba31e6727400df]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2008/4/section/102) in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(e)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/e)

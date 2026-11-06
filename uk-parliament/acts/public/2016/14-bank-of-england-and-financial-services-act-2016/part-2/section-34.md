@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Independent advice on conversions and transfers of pension benefits: appointed representatives[^key-4ed3477b7e442f150195c6d24d23a21f]
+## 34. Independent advice on conversions and transfers of pension benefits: appointed representatives[^c-4ed3477b7e442f150195c6d24d23a21f]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ed3477b7e442f150195c6d24d23a21f]: Commencement: S. 34 in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(y)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/y)
+[^c-4ed3477b7e442f150195c6d24d23a21f]: Commencement: S. 34 in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(y)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/y)

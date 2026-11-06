@@ -34,7 +34,7 @@ Where appropriate, the description and measures provided for in the first subpar
 - (a) to perform the operations in accordance with the organic production rules;
 - (b) to accept, in the event of infringement or irregularities, the enforcement of the measures of the organic production rules;
 - (c) to undertake to inform in writing the buyers of the product in order to ensure that the indications referring to the organic production method are removed from this production;[^c000009]
-- (d)[^c000008] to accept, in cases where the operator and/or the subcontractors of that operator are checked by different control authorities or control bodies [^key-2f56fb118153fd79607d2350bba4d678]..., the exchange of information between those authorities or bodies;
+- (d)[^c000008] to accept, in cases where the operator and/or the subcontractors of that operator are checked by different control authorities or control bodies [^c-2f56fb118153fd79607d2350bba4d678]..., the exchange of information between those authorities or bodies;
 - (e) to accept, in cases where the operator and/or the subcontractors of that operator change their control authority or control body, the transmission of their control files to the subsequent control authority or control body;
 - (f) to accept, in cases where the operator withdraws from the control system, to inform without delay the relevant competent authority and control authority or control body;
 - (g) to accept, in cases where the operator withdraws from the control system, that the control file is kept for a period of at least five years;
@@ -49,7 +49,7 @@ The declaration provided for in the first subparagraph shall be verified by the 
 - (c) Nature of operations and products;
 - (d) Undertaking by the operator to carry out the operation in accordance with the provision laid down in Regulation (EC) No 834/2007 and this Regulation;
 - (e) In the case of an agricultural holding, the date on which the producer ceased to apply products not authorised for organic production on the parcels concerned;
-- (f) The name of the approved body to which the operator entrusted control of his undertaking, where that body is approved in accordance with the control system[^key-0d7db502164749697384c2eac9d80c3b].
+- (f) The name of the approved body to which the operator entrusted control of his undertaking, where that body is approved in accordance with the control system[^c-0d7db502164749697384c2eac9d80c3b].
 
 ## Annotations
 
@@ -61,6 +61,6 @@ The declaration provided for in the first subparagraph shall be verified by the 
 
 [^c000008]: Textual amendment: Inserted by [Commission Implementing Regulation (EU) No 392/2013 of 29 April 2013 amending Regulation (EC) No 889/2008 as regards the control system for organic production](https://www.legislation.gov.uk/eur/2013/392).
 
-[^key-2f56fb118153fd79607d2350bba4d678]: Textual amendment: Words in [Art. 63(2)(d)](https://www.legislation.gov.uk/eur/2008/889/article/63/2/d) omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(39)(a)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/39/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2f56fb118153fd79607d2350bba4d678]: Textual amendment: Words in [Art. 63(2)(d)](https://www.legislation.gov.uk/eur/2008/889/article/63/2/d) omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(39)(a)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/39/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0d7db502164749697384c2eac9d80c3b]: Textual amendment: Words in [Art. 63(3)(f)](https://www.legislation.gov.uk/eur/2008/889/article/63/3/f) substituted (31.12.2020) by [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(39)(b)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/39/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0d7db502164749697384c2eac9d80c3b]: Textual amendment: Words in [Art. 63(3)(f)](https://www.legislation.gov.uk/eur/2008/889/article/63/3/f) substituted (31.12.2020) by [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(39)(b)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/39/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

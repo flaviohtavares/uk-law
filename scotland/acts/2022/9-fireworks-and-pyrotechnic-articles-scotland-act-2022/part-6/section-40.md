@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Power of entry etc. with warrant[^key-ac938f52023b83bde5ebf70f9f0b3011][^key-e758bc29b4f0a24d4239ecd72a2b6b5d]
+## 40. Power of entry etc. with warrant[^c-ac938f52023b83bde5ebf70f9f0b3011][^c-e758bc29b4f0a24d4239ecd72a2b6b5d]
 
 *Extent: S*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ac938f52023b83bde5ebf70f9f0b3011]: Commencement: S. 40 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-ac938f52023b83bde5ebf70f9f0b3011]: Commencement: S. 40 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-e758bc29b4f0a24d4239ecd72a2b6b5d]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2022/9/section/40) in force at 10.10.2022 by [S.S.I. 2022/280](https://www.legislation.gov.uk/ssi/2022/280), [reg. 2](https://www.legislation.gov.uk/ssi/2022/280/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/280/schedule)
+[^c-e758bc29b4f0a24d4239ecd72a2b6b5d]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2022/9/section/40) in force at 10.10.2022 by [S.S.I. 2022/280](https://www.legislation.gov.uk/ssi/2022/280), [reg. 2](https://www.legislation.gov.uk/ssi/2022/280/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/280/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Revocation[^key-3a739cd4fdd3c1bd65ac7a234e706932]
+## 13. Revocation[^c-3a739cd4fdd3c1bd65ac7a234e706932]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ The Building Societies (Accounts and Related Provisions) Regulations 1992, the B
 
 ## Annotations
 
-[^key-3a739cd4fdd3c1bd65ac7a234e706932]: Commencement: Reg. 13 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-3a739cd4fdd3c1bd65ac7a234e706932]: Commencement: Reg. 13 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
 [^f00008]: Footnote: S.I. [1994/2459](https://www.legislation.gov.uk/uksi/1994/2459).
 

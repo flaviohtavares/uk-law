@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Joint buyers: returns and declarations[^key-e21f8bedc7b7838049fbdbde5a8f6895]
+## 38. Joint buyers: returns and declarations[^c-e21f8bedc7b7838049fbdbde5a8f6895]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e21f8bedc7b7838049fbdbde5a8f6895]: Commencement: [S. 38](https://www.legislation.gov.uk/anaw/2017/1/section/38) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-e21f8bedc7b7838049fbdbde5a8f6895]: Commencement: [S. 38](https://www.legislation.gov.uk/anaw/2017/1/section/38) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

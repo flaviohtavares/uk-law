@@ -22,7 +22,7 @@ summary: ''
 
 Article 15
 
-### PART 1 — NEW HIGHWAYS[^key-fb1391a62e9975dd1fb9ae4a41ecd645]
+### PART 1 — NEW HIGHWAYS[^c-fb1391a62e9975dd1fb9ae4a41ecd645]
 
 <table>
 <thead>
@@ -45,7 +45,7 @@ Article 15
 </tbody>
 </table>
 
-### PART 2 — EXISTING HIGHWAYS[^key-f60b58c52a4fd253ebe7b95e8b885384]
+### PART 2 — EXISTING HIGHWAYS[^c-f60b58c52a4fd253ebe7b95e8b885384]
 
 <table>
 <thead>
@@ -61,6 +61,6 @@ Article 15
 
 ## Annotations
 
-[^key-fb1391a62e9975dd1fb9ae4a41ecd645]: Commencement: Sch. 7 Pt. 1 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-fb1391a62e9975dd1fb9ae4a41ecd645]: Commencement: Sch. 7 Pt. 1 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-f60b58c52a4fd253ebe7b95e8b885384]: Commencement: Sch. 7 Pt. 2 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-f60b58c52a4fd253ebe7b95e8b885384]: Commencement: Sch. 7 Pt. 2 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)

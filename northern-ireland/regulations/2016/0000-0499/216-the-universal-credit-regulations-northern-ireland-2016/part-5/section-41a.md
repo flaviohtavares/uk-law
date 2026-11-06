@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41A. Severe conditions criteria claimant[^key-cc47fa7f1441f17d2222836d1b357059]
+## 41A. Severe conditions criteria claimant[^c-cc47fa7f1441f17d2222836d1b357059]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc47fa7f1441f17d2222836d1b357059]: Textual amendment: [Reg. 41A](https://www.legislation.gov.uk/nisr/2016/216/regulation/41A) inserted (6.4.2026 with effect as in relation to assessment periods commencing on or after that date) by [Universal Credit Act 2025 (c. 22)](https://www.legislation.gov.uk/ukpga/2025/22), [Sch. 2 para. 2(6)](https://www.legislation.gov.uk/ukpga/2025/22/schedule/2/paragraph/2/6)[(10)](https://www.legislation.gov.uk/ukpga/2025/22/schedule/2/paragraph/2/10)
+[^c-cc47fa7f1441f17d2222836d1b357059]: Textual amendment: [Reg. 41A](https://www.legislation.gov.uk/nisr/2016/216/regulation/41A) inserted (6.4.2026 with effect as in relation to assessment periods commencing on or after that date) by [Universal Credit Act 2025 (c. 22)](https://www.legislation.gov.uk/ukpga/2025/22), [Sch. 2 para. 2(6)](https://www.legislation.gov.uk/ukpga/2025/22/schedule/2/paragraph/2/6)[(10)](https://www.legislation.gov.uk/ukpga/2025/22/schedule/2/paragraph/2/10)

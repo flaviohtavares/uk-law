@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Contents of application and witness statement[^key-19f69fd12602ee6906423130e1dd1ac4]
+## 6. Contents of application and witness statement[^c-19f69fd12602ee6906423130e1dd1ac4]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-19f69fd12602ee6906423130e1dd1ac4]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2013/3208/rule/6) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-19f69fd12602ee6906423130e1dd1ac4]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2013/3208/rule/6) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
 
 [^f00009]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45); section 124A was inserted by the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40), section 60(3) and was amended by S.I.
 

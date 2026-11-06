@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33A. Audit committees[^key-571ca40f69bc3713a473b5a45656601b]
+## 33A. Audit committees[^c-571ca40f69bc3713a473b5a45656601b]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-571ca40f69bc3713a473b5a45656601b]: Textual amendment: [S. 33A](https://www.legislation.gov.uk/ukpga/2014/2/section/33A) inserted (29.4.2026 for specified purposes, 15.7.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 94](https://www.legislation.gov.uk/ukpga/2026/23/section/94), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6); [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/1/c)
+[^c-571ca40f69bc3713a473b5a45656601b]: Textual amendment: [S. 33A](https://www.legislation.gov.uk/ukpga/2014/2/section/33A) inserted (29.4.2026 for specified purposes, 15.7.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 94](https://www.legislation.gov.uk/ukpga/2026/23/section/94), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6); [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/1/c)

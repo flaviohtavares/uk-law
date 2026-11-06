@@ -103,7 +103,7 @@ HAVE ADOPTED THIS REGULATION:
 
 **Article 2.** This Regulation shall enter into force on the day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-48b41d3dd5c897ad9047edd69c2db7f7]...
+[^c-48b41d3dd5c897ad9047edd69c2db7f7]...
 
 Done at Strasbourg, 14 December 2016.
 
@@ -125,4 +125,4 @@ I. Korčok
 
 [^f00002]: Footnote: Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code ([OJ L 269, 10.10.2013, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.269.01.0001.01.ENG)).
 
-[^key-48b41d3dd5c897ad9047edd69c2db7f7]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2016/2339/signature) omitted (31.12.2020) by virtue of [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [7(1)(b)](https://www.legislation.gov.uk/uksi/2019/715/regulation/7/1/b) (as amended by [S.I. 2020/1624](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2020/1624/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-48b41d3dd5c897ad9047edd69c2db7f7]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2016/2339/signature) omitted (31.12.2020) by virtue of [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [7(1)(b)](https://www.legislation.gov.uk/uksi/2019/715/regulation/7/1/b) (as amended by [S.I. 2020/1624](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2020/1624/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Calculating the amount of levy that is payable[^key-489e0c4833cb809abc0012a3d5452678]
+## 31. Calculating the amount of levy that is payable[^c-489e0c4833cb809abc0012a3d5452678]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ and adding together the amounts resulting from both calculations.
 
 ## Annotations
 
-[^key-489e0c4833cb809abc0012a3d5452678]: Commencement: S. 31 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-489e0c4833cb809abc0012a3d5452678]: Commencement: S. 31 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

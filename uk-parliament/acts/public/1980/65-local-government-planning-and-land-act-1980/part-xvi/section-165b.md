@@ -27,8 +27,8 @@ summary: ''
 
 (2) An order under this section may terminate—
 
-- (a) any appointment of the corporation under subsection (1) of section 42 of the Housing and Regeneration Act 2008 (agency arrangements with urban development corporations)[^key-a1444569133855c1fa16d7328a2c30b8]; and
-- (b) any arrangements made by the corporation under subsections (5) and (6)[^key-9d8123fe567e7fb41f44a5acabc826ae] of that section.
+- (a) any appointment of the corporation under subsection (1) of section 42 of the Housing and Regeneration Act 2008 (agency arrangements with urban development corporations)[^c-a1444569133855c1fa16d7328a2c30b8]; and
+- (b) any arrangements made by the corporation under subsections (5) and (6)[^c-9d8123fe567e7fb41f44a5acabc826ae] of that section.
 
 (3) An order under this section may—
 
@@ -51,6 +51,6 @@ summary: ''
 
 [^c13880531]: Textual amendment: S. 165B inserted (24.9.1996) by [1996 c. 53](https://www.legislation.gov.uk/ukpga/1996/53), [ss. 143(1)](https://www.legislation.gov.uk/ukpga/1996/53/section/143/1), [150(2)](https://www.legislation.gov.uk/ukpga/1996/53/section/150/2)
 
-[^key-a1444569133855c1fa16d7328a2c30b8]: Textual amendment: Words in s. 165B(2)(a) substituted (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 30(a)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/30/a); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w)[(3)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/3) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-a1444569133855c1fa16d7328a2c30b8]: Textual amendment: Words in s. 165B(2)(a) substituted (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 30(a)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/30/a); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w)[(3)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/3) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-9d8123fe567e7fb41f44a5acabc826ae]: Textual amendment: Words in s. 165B(2)(b) substituted (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 30(b)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/30/b); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w)[(3)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/3) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-9d8123fe567e7fb41f44a5acabc826ae]: Textual amendment: Words in s. 165B(2)(b) substituted (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 30(b)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/30/b); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w)[(3)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/3) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

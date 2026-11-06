@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 71. Application of this Part to Crown[^key-42fb508473f0b8000c661f83ac5f4491]
+## 71. Application of this Part to Crown[^c-42fb508473f0b8000c661f83ac5f4491]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42fb508473f0b8000c661f83ac5f4491]: Commencement: [S. 71](https://www.legislation.gov.uk/nia/2011/23/section/71) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-42fb508473f0b8000c661f83ac5f4491]: Commencement: [S. 71](https://www.legislation.gov.uk/nia/2011/23/section/71) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

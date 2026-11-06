@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Road Traffic Offenders Act 1988[^key-9f7380dfed1bdf8671debad56db30ffb]
+## 20. Road Traffic Offenders Act 1988[^c-9f7380dfed1bdf8671debad56db30ffb]
 
 *Extent: E+W+S*
 
@@ -28,6 +28,6 @@ In Schedule 3 to the Road Traffic Offenders Act 1988 [^c23620751], after the ent
 
 ## Annotations
 
-[^key-9f7380dfed1bdf8671debad56db30ffb]: Commencement: Reg. 20 in force at 26.3.2019, see reg. 1(2)
+[^c-9f7380dfed1bdf8671debad56db30ffb]: Commencement: Reg. 20 in force at 26.3.2019, see reg. 1(2)
 
 [^c23620751]: Marginal citation: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53). Schedule 3 was amended by [S.I. 2009/483](https://www.legislation.gov.uk/uksi/2009/483) and 2016/248; there are other amendments which are not relevant to these Regulations.

@@ -44,11 +44,11 @@ Coming into force
 
 The Secretary of State for the Environment, as respects England, and the Secretary of State for Wales, as respects Wales, in exercise of the powers conferred on them by section 55(2) and (6) of the Local Government Finance Act 1988[^f00001], and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation and commencement[^key-21718ef19ae567a3db0ed57b1afae127]
+## 1. Citation and commencement[^c-21718ef19ae567a3db0ed57b1afae127]
 
 These Regulations may be cited as the Non-Domestic Rating (Alteration of Lists and Appeals) (Amendment) Regulations 1994 and shall come into force on 9th July 1994.
 
-## 2. Amendments to regulation 13[^key-6063a6c6a5cdc97cb593c863b0409043]
+## 2. Amendments to regulation 13[^c-6063a6c6a5cdc97cb593c863b0409043]
 
 (1) Regulation 13 of the Non-Domestic Rating (Alteration of Lists and Appeals) Regulations 1993[^f00002] shall be amended in accordance with the following paragraphs.
 
@@ -90,7 +90,7 @@ These Regulations may be cited as the Non-Domestic Rating (Alteration of Lists a
 
 .
 
-## 3. Amendments to regulation 15[^key-a22138b0732ed8f9d85918cd825fc79d]
+## 3. Amendments to regulation 15[^c-a22138b0732ed8f9d85918cd825fc79d]
 
 (1) Regulation 15 of the Non-Domestic Rating (Alteration of Lists and Appeals) Regulations 1993 shall be amended in accordance with the following paragraphs.
 
@@ -175,10 +175,10 @@ New paragraphs (3B) and (3C) of regulation 15 provide that, if the effective dat
 
 [^f00001]: Footnote: [1988 (c. 41)](https://www.legislation.gov.uk/ukpga/1988/41).
 
-[^key-21718ef19ae567a3db0ed57b1afae127]: Commencement: Reg. 1 in force at 9.7.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1809/regulation/1)
+[^c-21718ef19ae567a3db0ed57b1afae127]: Commencement: Reg. 1 in force at 9.7.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1809/regulation/1)
 
-[^key-6063a6c6a5cdc97cb593c863b0409043]: Commencement: Reg. 2 in force at 9.7.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1809/regulation/1)
+[^c-6063a6c6a5cdc97cb593c863b0409043]: Commencement: Reg. 2 in force at 9.7.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1809/regulation/1)
 
 [^f00002]: Footnote: S.I. [1993/291](https://www.legislation.gov.uk/uksi/1993/291).
 
-[^key-a22138b0732ed8f9d85918cd825fc79d]: Commencement: Reg. 3 in force at 9.7.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1809/regulation/1)
+[^c-a22138b0732ed8f9d85918cd825fc79d]: Commencement: Reg. 3 in force at 9.7.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1809/regulation/1)

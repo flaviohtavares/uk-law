@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 93. Information to be supplied by an appropriate authority to the Secretary of State[^key-3d5c6b33046564b79f3025ef361a7737]
+## 93. Information to be supplied by an appropriate authority to the Secretary of State[^c-3d5c6b33046564b79f3025ef361a7737]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ For the purposes of section 128(2) of the Administration Act 1992 (information w
 
 ## Annotations
 
-[^key-3d5c6b33046564b79f3025ef361a7737]: Commencement: Reg. 93 in force at 17.8.1992, see [reg. 1(a)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/a)
+[^c-3d5c6b33046564b79f3025ef361a7737]: Commencement: Reg. 93 in force at 17.8.1992, see [reg. 1(a)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/a)

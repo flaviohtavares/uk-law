@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Procedure on application to county court[^key-b343ce0f1c2e956ffd4f43ffb5d87988][^key-c015a3d0b36f6f2b4c48c1f40dafe9c0]
+## 38. Procedure on application to county court[^c-b343ce0f1c2e956ffd4f43ffb5d87988][^c-c015a3d0b36f6f2b4c48c1f40dafe9c0]
 
 *Extent: N.I.*
 
@@ -28,6 +28,6 @@ County court rules which relate to applications authorised by this Part to be ma
 
 ## Annotations
 
-[^key-b343ce0f1c2e956ffd4f43ffb5d87988]: Modification: [Art. 38](https://www.legislation.gov.uk/nisi/1986/595/article/38) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(y)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/y), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
+[^c-b343ce0f1c2e956ffd4f43ffb5d87988]: Modification: [Art. 38](https://www.legislation.gov.uk/nisi/1986/595/article/38) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(y)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/y), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
 
-[^key-c015a3d0b36f6f2b4c48c1f40dafe9c0]: Modification: [Art. 38](https://www.legislation.gov.uk/nisi/1986/595/article/38) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(3)(hh)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/hh), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
+[^c-c015a3d0b36f6f2b4c48c1f40dafe9c0]: Modification: [Art. 38](https://www.legislation.gov.uk/nisi/1986/595/article/38) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(3)(hh)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/hh), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)

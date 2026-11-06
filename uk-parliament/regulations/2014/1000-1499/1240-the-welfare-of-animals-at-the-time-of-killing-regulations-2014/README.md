@@ -35,7 +35,7 @@ Animals
 
 Prevention Of Cruelty
 
-The Welfare of Animals at the Time of Killing Regulations 2014 (revoked)[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+The Welfare of Animals at the Time of Killing Regulations 2014 (revoked)[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 Made
 
@@ -49,11 +49,11 @@ Coming into force
 
 20th May 2014
 
-[^key-eaeb0b05bdec91f07b9245f3afc817bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eaeb0b05bdec91f07b9245f3afc817bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — General[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+### PART 1 — General[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 *Extent: E+W+S+NI*
 
@@ -64,13 +64,13 @@ Coming into force
 - [Section 3 — Interpretation](part-1/section-3.md)
 - [Section 4 — The competent authority](part-1/section-4.md)
 
-### PART 2 — Certificates, temporary certificates and licences[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+### PART 2 — Certificates, temporary certificates and licences[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 *Extent: E+W+S+NI*
 
 **No longer in force.**
 
-#### CHAPTER 1 — Certificates and temporary certificates[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+#### CHAPTER 1 — Certificates and temporary certificates[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 *Extent: E+W+S+NI*
 
@@ -84,7 +84,7 @@ Coming into force
 - [Section 10 — Conditions for a temporary certificate](part-2/section-10.md)
 - [Section 11 — Grant of certificates and temporary certificates](part-2/section-11.md)
 
-#### CHAPTER 2 — Licences[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+#### CHAPTER 2 — Licences[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 *Extent: E+W+S+NI*
 
@@ -97,7 +97,7 @@ Coming into force
 - [Section 16 — Conditions for a licence](part-2/section-16.md)
 - [Section 17 — Grant of licences](part-2/section-17.md)
 
-#### CHAPTER 3 — Administrative provisions[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+#### CHAPTER 3 — Administrative provisions[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 *Extent: E+W+S+NI*
 
@@ -111,7 +111,7 @@ Coming into force
 - [Section 23 — WASK licences](part-2/section-23.md)
 - [Section 24 — Fees](part-2/section-24.md)
 
-### PART 3 — National rules[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+### PART 3 — National rules[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 *Extent: E+W+S+NI*
 
@@ -122,7 +122,7 @@ Coming into force
 - [Section 27 — Additional requirements for killing animals in accordance with religious rites](part-3/section-27.md)
 - [Section 28 — Killing animals other than those to which the EU Regulation applies](part-3/section-28.md)
 
-### PART 4 — Derogation[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+### PART 4 — Derogation[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 *Extent: E+W+S+NI*
 
@@ -130,7 +130,7 @@ Coming into force
 
 - [Section 29 — Depopulation operations](part-4/section-29.md)
 
-### PART 5 — Offences and penalties[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+### PART 5 — Offences and penalties[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 *Extent: E+W+S+NI*
 
@@ -141,7 +141,7 @@ Coming into force
 - [Section 32 — Offences by bodies corporate](part-5/section-32.md)
 - [Section 33 — Penalties](part-5/section-33.md)
 
-### PART 6 — Enforcement[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+### PART 6 — Enforcement[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 *Extent: E+W+S+NI*
 
@@ -156,7 +156,7 @@ Coming into force
 - [Section 40 — Power of local authority to prosecute](part-6/section-40.md)
 - [Section 41 — Time limit for prosecutions](part-6/section-41.md)
 
-### PART 7 — Miscellaneous provisions[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+### PART 7 — Miscellaneous provisions[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 *Extent: E+W+S+NI*
 
@@ -182,12 +182,12 @@ Coming into force
 
 **No longer in force.**
 
-[^key-eaeb0b05bdec91f07b9245f3afc817bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eaeb0b05bdec91f07b9245f3afc817bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+NI*
 
-[^key-eaeb0b05bdec91f07b9245f3afc817bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eaeb0b05bdec91f07b9245f3afc817bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eaeb0b05bdec91f07b9245f3afc817bd]: Textual amendment: Regulations revoked (19.5.2014) by [The Welfare of Animals at the Time of Killing (Revocation) Regulations 2014 (S.I. 2014/1258)](https://www.legislation.gov.uk/uksi/2014/1258), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1258/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2014/1258/regulation/2)
+[^c-eaeb0b05bdec91f07b9245f3afc817bd]: Textual amendment: Regulations revoked (19.5.2014) by [The Welfare of Animals at the Time of Killing (Revocation) Regulations 2014 (S.I. 2014/1258)](https://www.legislation.gov.uk/uksi/2014/1258), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1258/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2014/1258/regulation/2)

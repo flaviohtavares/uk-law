@@ -31,30 +31,30 @@ summary: ''
 
 INCOME TAX
 
-The Finance (No. 2) Act 2017, Sections 60 and 61 and Schedule 14 (Digital Reporting and Record-Keeping) (Appointed Day) (Amendment) Regulations 2024 (revoked)[^key-2fa7d8406fd44bf73686e4ed7e9914d1]
+The Finance (No. 2) Act 2017, Sections 60 and 61 and Schedule 14 (Digital Reporting and Record-Keeping) (Appointed Day) (Amendment) Regulations 2024 (revoked)[^c-2fa7d8406fd44bf73686e4ed7e9914d1]
 
 Made
 
 25th March 2024
 
-[^key-2fa7d8406fd44bf73686e4ed7e9914d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2fa7d8406fd44bf73686e4ed7e9914d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-2fa7d8406fd44bf73686e4ed7e9914d1]
+## 1. Citation[^c-2fa7d8406fd44bf73686e4ed7e9914d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Finance (No. 2) Act 2017, Sections 60 and 61 and Schedule 14 (Digital Reporting and Record-Keeping) (Appointed Day) Regulations 2021[^key-2fa7d8406fd44bf73686e4ed7e9914d1]
+## 2. Amendment of the Finance (No. 2) Act 2017, Sections 60 and 61 and Schedule 14 (Digital Reporting and Record-Keeping) (Appointed Day) Regulations 2021[^c-2fa7d8406fd44bf73686e4ed7e9914d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2fa7d8406fd44bf73686e4ed7e9914d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2fa7d8406fd44bf73686e4ed7e9914d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2fa7d8406fd44bf73686e4ed7e9914d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2fa7d8406fd44bf73686e4ed7e9914d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2fa7d8406fd44bf73686e4ed7e9914d1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/422) revoked (24.3.2026) by [The Finance (No. 2) Act 2017, Sections 60 and 61 (Digital Reporting and Record-Keeping) (Appointed Day and Revocations) Regulations 2026 (S.I. 2026/356)](https://www.legislation.gov.uk/uksi/2026/356), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/356/regulation/3/b)
+[^c-2fa7d8406fd44bf73686e4ed7e9914d1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/422) revoked (24.3.2026) by [The Finance (No. 2) Act 2017, Sections 60 and 61 (Digital Reporting and Record-Keeping) (Appointed Day and Revocations) Regulations 2026 (S.I. 2026/356)](https://www.legislation.gov.uk/uksi/2026/356), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/356/regulation/3/b)

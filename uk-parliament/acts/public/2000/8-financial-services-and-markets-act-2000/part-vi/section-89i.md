@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The FCA[^key-9927ca5530fa26b483ba2aa61ac1396f] may require any information provided under section 89H to be provided in such form as it may reasonably require.
+(1) The FCA[^c-9927ca5530fa26b483ba2aa61ac1396f] may require any information provided under section 89H to be provided in such form as it may reasonably require.
 
 (2) The FCA may require—
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c2076386]: Textual amendment: Ss. 89H-89J and cross-heading inserted (8.11.2006) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1267](https://www.legislation.gov.uk/ukpga/2006/46/section/1267), [1300(1)(a)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/1/a)
 
-[^key-9927ca5530fa26b483ba2aa61ac1396f]: Textual amendment: Words in ss. 89A-97 substituted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss.](https://www.legislation.gov.uk/ukpga/2012/21/section) [16(2)(3)(g)](https://www.legislation.gov.uk/ukpga/2012/21/section/16/3/g), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-9927ca5530fa26b483ba2aa61ac1396f]: Textual amendment: Words in ss. 89A-97 substituted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss.](https://www.legislation.gov.uk/ukpga/2012/21/section) [16(2)(3)(g)](https://www.legislation.gov.uk/ukpga/2012/21/section/16/3/g), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

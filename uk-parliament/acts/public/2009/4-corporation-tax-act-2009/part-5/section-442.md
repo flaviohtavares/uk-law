@@ -27,7 +27,7 @@ summary: ''
 
 include a purpose (“the unallowable purpose”) which is not amongst the business or other commercial purposes of the company.
 
-(1A)[^key-f81ec0d32fbb5bbb5400f0971241a7e0] In subsection (1)(b) “**related transaction**”, in relation to a loan relationship, includes anything which equates in substance to a disposal or acquisition of the kind mentioned in section 304(1) (as read with section 304(2)).
+(1A)[^c-f81ec0d32fbb5bbb5400f0971241a7e0] In subsection (1)(b) “**related transaction**”, in relation to a loan relationship, includes anything which equates in substance to a disposal or acquisition of the kind mentioned in section 304(1) (as read with section 304(2)).
 
 (2) If a company is not within the charge to corporation tax in respect of a part of its activities, for the purposes of this section the business and other commercial purposes of the company do not include the purposes of that part.
 
@@ -45,4 +45,4 @@ include a purpose (“the unallowable purpose”) which is not amongst the busin
 
 ## Annotations
 
-[^key-f81ec0d32fbb5bbb5400f0971241a7e0]: Textual amendment: S. 442(1A) inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 47](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/47)
+[^c-f81ec0d32fbb5bbb5400f0971241a7e0]: Textual amendment: S. 442(1A) inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 47](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/47)

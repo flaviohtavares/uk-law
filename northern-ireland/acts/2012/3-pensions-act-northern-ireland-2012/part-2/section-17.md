@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Power of managers to modify by resolution[^key-ed8821c0483db197c050f44481dd01f3]
+## 17. Power of managers to modify by resolution[^c-ed8821c0483db197c050f44481dd01f3]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In section 32 of the Pensions (No. 2) Act (Northern Ireland) 2008 (power of trus
 
 ## Annotations
 
-[^key-ed8821c0483db197c050f44481dd01f3]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2012/3/section/17) in operation at 30.6.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2012/265/article/2/2/b)
+[^c-ed8821c0483db197c050f44481dd01f3]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2012/3/section/17) in operation at 30.6.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2012/265/article/2/2/b)

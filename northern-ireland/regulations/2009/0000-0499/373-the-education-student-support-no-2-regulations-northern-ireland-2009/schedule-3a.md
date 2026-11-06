@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3A — DESIGNATED POSTGRADUATE COURSES (FOR THE PURPOSES OF DISABLED POSTGRADUATE STUDENTS’ ALLOWANCE PAYABLE UNDER PART 12)[^key-52f72160479bf16b91c2f3c3308f073d]
+## SCHEDULE 3A — DESIGNATED POSTGRADUATE COURSES (FOR THE PURPOSES OF DISABLED POSTGRADUATE STUDENTS’ ALLOWANCE PAYABLE UNDER PART 12)[^c-52f72160479bf16b91c2f3c3308f073d]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ Regulation 141(1)(b)
 
 ## Annotations
 
-[^key-52f72160479bf16b91c2f3c3308f073d]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/nisr/2009/373/schedule/3A) inserted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [45](https://www.legislation.gov.uk/nisr/2017/7/regulation/45), [Sch. 2](https://www.legislation.gov.uk/nisr/2017/7/schedule/2)
+[^c-52f72160479bf16b91c2f3c3308f073d]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/nisr/2009/373/schedule/3A) inserted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [45](https://www.legislation.gov.uk/nisr/2017/7/regulation/45), [Sch. 2](https://www.legislation.gov.uk/nisr/2017/7/schedule/2)

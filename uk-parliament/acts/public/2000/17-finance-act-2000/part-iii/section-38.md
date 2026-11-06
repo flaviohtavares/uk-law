@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Payroll deduction scheme.[^key-5de2841b87389f3bbd786729bec7afef]
+## 38. Payroll deduction scheme.[^c-5de2841b87389f3bbd786729bec7afef]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5de2841b87389f3bbd786729bec7afef]: Textual amendment: [S. 38](https://www.legislation.gov.uk/ukpga/2000/17/section/38) repealed (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 26 para. 3(1)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/26/paragraph/3/1)
+[^c-5de2841b87389f3bbd786729bec7afef]: Textual amendment: [S. 38](https://www.legislation.gov.uk/ukpga/2000/17/section/38) repealed (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 26 para. 3(1)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/26/paragraph/3/1)

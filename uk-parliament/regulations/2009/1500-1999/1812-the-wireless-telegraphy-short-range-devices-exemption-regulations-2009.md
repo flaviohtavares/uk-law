@@ -31,7 +31,7 @@ summary: ''
 
 Electronic Communications
 
-The Wireless Telegraphy (Short Range Devices) (Exemption) Regulations 2009 (revoked)[^key-c5aab296c8e001a971c53142f14ada13]
+The Wireless Telegraphy (Short Range Devices) (Exemption) Regulations 2009 (revoked)[^c-c5aab296c8e001a971c53142f14ada13]
 
 Made
 
@@ -41,39 +41,39 @@ Coming into force
 
 17th July 2009
 
-[^key-c5aab296c8e001a971c53142f14ada13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5aab296c8e001a971c53142f14ada13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c5aab296c8e001a971c53142f14ada13]
+## 1. Citation and commencement[^c-c5aab296c8e001a971c53142f14ada13]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-c5aab296c8e001a971c53142f14ada13]
+## 2. Interpretation[^c-c5aab296c8e001a971c53142f14ada13]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exemption for wide band data transmission systems equipment[^key-c5aab296c8e001a971c53142f14ada13]
+## 3. Exemption for wide band data transmission systems equipment[^c-c5aab296c8e001a971c53142f14ada13]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exemption for radio determination equipment[^key-c5aab296c8e001a971c53142f14ada13]
+## 4. Exemption for radio determination equipment[^c-c5aab296c8e001a971c53142f14ada13]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Exemption for tank level probing radar equipment[^key-c5aab296c8e001a971c53142f14ada13]
+## 5. Exemption for tank level probing radar equipment[^c-c5aab296c8e001a971c53142f14ada13]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Exemption for airborne use[^key-c5aab296c8e001a971c53142f14ada13]
+## 6. Exemption for airborne use[^c-c5aab296c8e001a971c53142f14ada13]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c5aab296c8e001a971c53142f14ada13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5aab296c8e001a971c53142f14ada13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-c5aab296c8e001a971c53142f14ada13]
+## SCHEDULE[^c-c5aab296c8e001a971c53142f14ada13]
 
 Regulation 5
 
@@ -81,8 +81,8 @@ Regulation 5
 
 **May not be in force at this date. Check the source.**
 
-[^key-c5aab296c8e001a971c53142f14ada13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5aab296c8e001a971c53142f14ada13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c5aab296c8e001a971c53142f14ada13]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/1812) revoked (1.11.2010) by [The Wireless Telegraphy (Exemption and Amendment) Regulations 2010 (S.I. 2010/2512)](https://www.legislation.gov.uk/uksi/2010/2512), [reg. 1](https://www.legislation.gov.uk/uksi/2010/2512/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/2512/schedule)
+[^c-c5aab296c8e001a971c53142f14ada13]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/1812) revoked (1.11.2010) by [The Wireless Telegraphy (Exemption and Amendment) Regulations 2010 (S.I. 2010/2512)](https://www.legislation.gov.uk/uksi/2010/2512), [reg. 1](https://www.legislation.gov.uk/uksi/2010/2512/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/2512/schedule)

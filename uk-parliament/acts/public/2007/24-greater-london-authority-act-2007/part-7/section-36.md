@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Planning contribution under section 46 of PCPA 2004[^key-2e15568ebe72ab09406f8b02b5bb06fb]
+## 36. Planning contribution under section 46 of PCPA 2004[^c-2e15568ebe72ab09406f8b02b5bb06fb]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In section 46 of PCPA 2004 (planning contribution), after subsection (7) insertâ
 
 ## Annotations
 
-[^key-2e15568ebe72ab09406f8b02b5bb06fb]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2007/24/section/36) in force at 6.4.2008 by [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/582/article/2/a)
+[^c-2e15568ebe72ab09406f8b02b5bb06fb]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2007/24/section/36) in force at 6.4.2008 by [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/582/article/2/a)

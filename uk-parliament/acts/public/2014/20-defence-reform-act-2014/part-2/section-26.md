@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Duty to report relevant events, circumstances and information[^key-3c6906dafd28b1d8de1524c8370f1b12]
+## 26. Duty to report relevant events, circumstances and information[^c-3c6906dafd28b1d8de1524c8370f1b12]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c6906dafd28b1d8de1524c8370f1b12]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2014/20/section/26) in force at 5.12.2014 by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/c)
+[^c-3c6906dafd28b1d8de1524c8370f1b12]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2014/20/section/26) in force at 5.12.2014 by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/c)

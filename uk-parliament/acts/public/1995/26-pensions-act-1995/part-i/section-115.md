@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Offences by bodies corporate and partnerships.[^key-6f50bd76cdf0c20aff67fed5b0297c7e][^key-c1792b5e72b80b82093385ed1ea126e3]
+## 115. Offences by bodies corporate and partnerships.[^c-6f50bd76cdf0c20aff67fed5b0297c7e][^c-c1792b5e72b80b82093385ed1ea126e3]
 
 *Extent: E+W+S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6f50bd76cdf0c20aff67fed5b0297c7e]: Commencement: S. 115 in force at 6.4.1997 by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
+[^c-6f50bd76cdf0c20aff67fed5b0297c7e]: Commencement: S. 115 in force at 6.4.1997 by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
 
-[^key-c1792b5e72b80b82093385ed1ea126e3]: Modification: S. 115 applied (11.11.1999 for specified purposes, 1.10.2000 in so far as not already in force) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [ss. 2(6)](https://www.legislation.gov.uk/ukpga/1999/30/section/2/6), [89(5)(a)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/5/a) (with [s. 8(6)](https://www.legislation.gov.uk/ukpga/1999/30/section/8/6)); [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), art. 2(2)(c), Sch. Pt. 3
+[^c-c1792b5e72b80b82093385ed1ea126e3]: Modification: S. 115 applied (11.11.1999 for specified purposes, 1.10.2000 in so far as not already in force) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [ss. 2(6)](https://www.legislation.gov.uk/ukpga/1999/30/section/2/6), [89(5)(a)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/5/a) (with [s. 8(6)](https://www.legislation.gov.uk/ukpga/1999/30/section/8/6)); [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), art. 2(2)(c), Sch. Pt. 3

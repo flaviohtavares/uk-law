@@ -32,9 +32,9 @@ summary: ''
 
   Add together the amounts determined at steps 1 and 2.
 
-(2)[^key-ea8bbd54d6d992fef6ee33f51c9af9bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ea8bbd54d6d992fef6ee33f51c9af9bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-207e71224b01fe51d09738cb6988408f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-207e71224b01fe51d09738cb6988408f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The payroll carve-out amount for a member is 5% of the eligible payroll costs incurred by the member in the period.
 
@@ -44,18 +44,18 @@ summary: ''
 
 (7) Section 197 sets out how to calculate the eligible tangible asset amount of a member.
 
-(7A)[^key-8920a3251c30e2983152f69911df7cce] Section 197A sets out the treatment of operating leases.
+(7A)[^c-8920a3251c30e2983152f69911df7cce] Section 197A sets out the treatment of operating leases.
 
-(8)[^key-d411be6f2ccde5e70be7b015eec6ba08] Section 198 supplements the rules in sections 196 and 197 in relation to a member that is a permanent establishment.
+(8)[^c-d411be6f2ccde5e70be7b015eec6ba08] Section 198 supplements the rules in sections 196 and 197 in relation to a member that is a permanent establishment.
 
 (9) Section 198ZA supplements the rules in sections 196 and 197 in relation to a member that is a flow-through entity.
 
 ## Annotations
 
-[^key-ea8bbd54d6d992fef6ee33f51c9af9bd]: Textual amendment: S. 195(2) omitted (in relation to accounting periods commencing on or after 31.12.2023) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 48(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/48/1), [72(1)(c)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/1/c)
+[^c-ea8bbd54d6d992fef6ee33f51c9af9bd]: Textual amendment: S. 195(2) omitted (in relation to accounting periods commencing on or after 31.12.2023) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 48(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/48/1), [72(1)(c)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/1/c)
 
-[^key-207e71224b01fe51d09738cb6988408f]: Textual amendment: S. 195(3) omitted (in relation to accounting periods commencing on or after 31.12.2023) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 48(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/48/1), [72(1)(c)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/1/c)
+[^c-207e71224b01fe51d09738cb6988408f]: Textual amendment: S. 195(3) omitted (in relation to accounting periods commencing on or after 31.12.2023) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 48(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/48/1), [72(1)(c)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/1/c)
 
-[^key-8920a3251c30e2983152f69911df7cce]: Textual amendment: S. 195(7A) inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 25(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/25/1)
+[^c-8920a3251c30e2983152f69911df7cce]: Textual amendment: S. 195(7A) inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 25(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/25/1)
 
-[^key-d411be6f2ccde5e70be7b015eec6ba08]: Textual amendment: S. 195(8)(9) substituted for s. 195(8) (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 32](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/32), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-d411be6f2ccde5e70be7b015eec6ba08]: Textual amendment: S. 195(8)(9) substituted for s. 195(8) (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 32](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/32), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)

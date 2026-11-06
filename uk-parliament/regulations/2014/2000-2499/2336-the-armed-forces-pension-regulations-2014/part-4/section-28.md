@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Closure and adjustment of pension accounts on transfer out[^key-1d2516441255978ea58e7c686be9b1e3]
+## 28. Closure and adjustment of pension accounts on transfer out[^c-1d2516441255978ea58e7c686be9b1e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d2516441255978ea58e7c686be9b1e3]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2014/2336/regulation/28) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-1d2516441255978ea58e7c686be9b1e3]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2014/2336/regulation/28) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

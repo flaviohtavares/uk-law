@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41ZA. Exception for legal expenses in respect of offence with which confiscation proceedings concerned[^key-21ba061bb960dc5d0982552a23457761]
+## 41ZA. Exception for legal expenses in respect of offence with which confiscation proceedings concerned[^c-21ba061bb960dc5d0982552a23457761]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21ba061bb960dc5d0982552a23457761]: Textual amendment: S. 41ZA inserted (29.6.2026 for specified purposes) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 26(3)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/26/3); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/2)
+[^c-21ba061bb960dc5d0982552a23457761]: Textual amendment: S. 41ZA inserted (29.6.2026 for specified purposes) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 26(3)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/26/3); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/2)

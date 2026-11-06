@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) The regulation-making power conferred by section 54 ceases to be exercisable if no regulations have been made under it within the period of 7 years beginning with 25 July 2019[^key-a15093d0ebb43d2c520e9daa74662be0].
+(1) The regulation-making power conferred by section 54 ceases to be exercisable if no regulations have been made under it within the period of 7 years beginning with 25 July 2019[^c-a15093d0ebb43d2c520e9daa74662be0].
 
 (2) If, by virtue of subsection (1), the regulation-making power conferred by section 54 ceases to be exercisable, the Scottish Ministers may by regulations repeal—
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a15093d0ebb43d2c520e9daa74662be0]: Textual amendment: Words in [s. 58(1)](https://www.legislation.gov.uk/asp/2019/13/section/58/1) substituted (18.12.2019) by [The Planning (Scotland) Act (Actual Dates) Regulations 2019 (S.S.I. 2019/410)](https://www.legislation.gov.uk/ssi/2019/410), [regs. 1](https://www.legislation.gov.uk/ssi/2019/410/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2019/410/regulation/3/2)
+[^c-a15093d0ebb43d2c520e9daa74662be0]: Textual amendment: Words in [s. 58(1)](https://www.legislation.gov.uk/asp/2019/13/section/58/1) substituted (18.12.2019) by [The Planning (Scotland) Act (Actual Dates) Regulations 2019 (S.S.I. 2019/410)](https://www.legislation.gov.uk/ssi/2019/410), [regs. 1](https://www.legislation.gov.uk/ssi/2019/410/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2019/410/regulation/3/2)

@@ -63,20 +63,20 @@ which secure that the conditions in subsection (6) below are met.
 - (b) that, for so long as B is living and under the age of 25, if any of the settled property is applied for the benefit of a beneficiary, it is applied for the benefit of B, and
 - (c) that, for so long as B is living and under the age of 25, either—
   - (i) B is entitled to all of the income (if there is any) arising from any of the settled property, or
-  - (ii)[^key-b38c61ca3d2f364cf41c0dead98005a5] if any of the income arising from any of the settled property is applied for the benefit of a beneficiary, it is applied for the benefit of B.
+  - (ii)[^c-b38c61ca3d2f364cf41c0dead98005a5] if any of the income arising from any of the settled property is applied for the benefit of a beneficiary, it is applied for the benefit of B.
 
-(6A)[^key-40fedfaf7b841c0b2f607f8dba141268] Where the income arising from the settled property is held on trusts of the kind described in section 33 of the Trustee Act 1925 (protective trusts), paragraphs (b) and (c) of subsection (6) have effect as if for “living and under the age of 25,” there were substituted “under the age of 25 and the income arising from the settled property is held on trust for B,
+(6A)[^c-40fedfaf7b841c0b2f607f8dba141268] Where the income arising from the settled property is held on trusts of the kind described in section 33 of the Trustee Act 1925 (protective trusts), paragraphs (b) and (c) of subsection (6) have effect as if for “living and under the age of 25,” there were substituted “under the age of 25 and the income arising from the settled property is held on trust for B,
 
 (7) For the purposes of this section, trusts are not to be treated as failing to secure that the conditions in subsection (6) above are met by reason only of—
 
-- (za)[^key-d26565d8b088937ec45acbd650e47d50] the trustees' having powers that enable them to apply otherwise than for the benefit of B amounts (whether consisting of income or capital, or both) not exceeding the annual limit,
+- (za)[^c-d26565d8b088937ec45acbd650e47d50] the trustees' having powers that enable them to apply otherwise than for the benefit of B amounts (whether consisting of income or capital, or both) not exceeding the annual limit,
 - (a) the trustees' having the powers conferred by section 32 of the Trustee Act 1925 (powers of advancement),
 - (b) the trustees' having those powers but free from, or subject to a less restrictive limitation than, the limitation imposed by proviso (a) of subsection (1) of that section,
 - (c) the trustees' having the powers conferred by section 33 of the Trustee Act (Northern Ireland) 1958 (corresponding provision for Northern Ireland),
 - (d) the trustees' having those powers but free from, or subject to a less restrictive limitation than, the limitation imposed by subsection (1)(a) of that section, or
 - (e) the trustees' having powers to the like effect as the powers mentioned in any of paragraphs (a) to (d) above.
 
-(7A)[^key-509ae52843b9853f9c4ae829340fdb67] For the purposes of this section and section 71E, the “annual limit” is whichever is the lower of the following amounts—
+(7A)[^c-509ae52843b9853f9c4ae829340fdb67] For the purposes of this section and section 71E, the “annual limit” is whichever is the lower of the following amounts—
 
 - (a) £3,000, and
 - (b) 3% of the amount that is the maximum value of the settled property during the period in question.
@@ -112,10 +112,10 @@ which secure that the conditions in subsection (6) below are met.
 
 [^c21428441]: Textual amendment: S. 71D(2)(c) and preceding word inserted (8.4.2010) by Crime and Security Act 2010, ss. 48(4), 59(2)(b), {Sch. 2 para. 2(3)}
 
-[^key-b38c61ca3d2f364cf41c0dead98005a5]: Textual amendment: S. 71D(6)(c)(ii) substituted (with effect in accordance with Sch. 44 para. 9(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 4(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/4/2)
+[^c-b38c61ca3d2f364cf41c0dead98005a5]: Textual amendment: S. 71D(6)(c)(ii) substituted (with effect in accordance with Sch. 44 para. 9(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 4(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/4/2)
 
-[^key-40fedfaf7b841c0b2f607f8dba141268]: Textual amendment: S. 71D(6A) inserted (with effect in accordance with Sch. 44 para. 9(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 4(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/4/3)
+[^c-40fedfaf7b841c0b2f607f8dba141268]: Textual amendment: S. 71D(6A) inserted (with effect in accordance with Sch. 44 para. 9(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 4(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/4/3)
 
-[^key-d26565d8b088937ec45acbd650e47d50]: Textual amendment: S. 71D(7)(za) inserted (with effect in accordance with Sch. 44 para. 9(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 4(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/4/4)
+[^c-d26565d8b088937ec45acbd650e47d50]: Textual amendment: S. 71D(7)(za) inserted (with effect in accordance with Sch. 44 para. 9(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 4(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/4/4)
 
-[^key-509ae52843b9853f9c4ae829340fdb67]: Textual amendment: Ss. 71D(7A)-(7E) inserted (with effect in accordance with Sch. 44 para. 9(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 4(5)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/4/5)
+[^c-509ae52843b9853f9c4ae829340fdb67]: Textual amendment: Ss. 71D(7A)-(7E) inserted (with effect in accordance with Sch. 44 para. 9(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 4(5)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/4/5)

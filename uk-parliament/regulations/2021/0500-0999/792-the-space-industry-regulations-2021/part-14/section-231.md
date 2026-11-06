@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 231. Penalty for failing to comply with information notice[^key-94f269e63d052ae3cf783da9a6e4929d]
+## 231. Penalty for failing to comply with information notice[^c-94f269e63d052ae3cf783da9a6e4929d]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ A person guilty of an offence under regulation 230 is liable, on summary convict
 
 ## Annotations
 
-[^key-94f269e63d052ae3cf783da9a6e4929d]: Commencement: Reg. 231 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-94f269e63d052ae3cf783da9a6e4929d]: Commencement: Reg. 231 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

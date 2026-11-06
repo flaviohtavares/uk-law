@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177. Power to appoint special manager.[^c15573621][^c20431981][^key-fa4aae0fe247836ed7d74fcb08175579]
+## 177. Power to appoint special manager.[^c15573621][^c20431981][^c-fa4aae0fe247836ed7d74fcb08175579]
 
 *Extent: E+W+S*
 
@@ -40,7 +40,7 @@ summary: ''
 
 [^c20431981]: Modification: S. 177 applied (with modifications) (17.2.2009 for certain purposes, otherwise 21.2.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 103](https://www.legislation.gov.uk/ukpga/2009/1/section/103), [263(1)(2)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
 
-[^key-fa4aae0fe247836ed7d74fcb08175579]: Modification: S. 177 applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1 para. 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20))
+[^c-fa4aae0fe247836ed7d74fcb08175579]: Modification: S. 177 applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1 para. 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20))
 
 [^c15573631]: Modification: S. 177(5) applied (1.2.1993) by [Friendly Societies Act 1992 (c. 40)](https://www.legislation.gov.uk/ukpga/1992/40), [s. 24(4)](https://www.legislation.gov.uk/ukpga/1992/40/section/24/4) (with [ss. 7(5)](https://www.legislation.gov.uk/ukpga/1992/40/section/7/5), [93(4)](https://www.legislation.gov.uk/ukpga/1992/40/section/93/4)); [S.I. 1993/16](https://www.legislation.gov.uk/uksi/1993/16), [art. 2](https://www.legislation.gov.uk/uksi/1993/16/article/2), [Sch.3](https://www.legislation.gov.uk/uksi/1993/16/schedule/3)
 

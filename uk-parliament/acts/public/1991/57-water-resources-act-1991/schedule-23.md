@@ -26,7 +26,7 @@ Section 182.
 
 **1.** (1) This paragraph applies in each of the following cases, that is to say—
 
-- (a) where the appropriate agency[^key-7e7a8bc51541d5769f59c269f12a9de3] acquires any land (whether compulsorily in exercise of any power conferred by or under this Act or otherwise); and
+- (a) where the appropriate agency[^c-7e7a8bc51541d5769f59c269f12a9de3] acquires any land (whether compulsorily in exercise of any power conferred by or under this Act or otherwise); and
 - (b) where the appropriate agency carries out any works in relation to any land for the purposes of, or in connection with, the carrying out of any of its functions.
 
 (2) Subject to sub-paragraph (3) below, the appropriate agency shall not, by virtue only of its acquisition of the land or the carrying out of the works, become entitled to any mines or minerals lying under the land; and, accordingly, any such mines or minerals shall be deemed to be excepted from any instrument by virtue of which the land vests in the appropriate agency unless express provision to the contrary is contained—
@@ -50,7 +50,7 @@ Section 182.
 
 the owner shall not work the mines or minerals except to such extent as may be determined by the appropriate agency, and the appropriate agency shall so compensate the owner.
 
-(4) Any dispute as to the amount of any compensation payable by virtue of sub-paragraph (3) above shall be referred to and determined by the Upper Tribunal[^key-0b135066b99e6d57a1d61ce49e4183ac].
+(4) Any dispute as to the amount of any compensation payable by virtue of sub-paragraph (3) above shall be referred to and determined by the Upper Tribunal[^c-0b135066b99e6d57a1d61ce49e4183ac].
 
 (5) If before the end of the period of thirty days mentioned in sub-paragraph (1) above, no notice has been served under sub-paragraph (3)(c) above by the appropriate agency, the entitlement of the owner of the mines and minerals to work them shall be an entitlement to work them by proper methods and in the usual manner of working such mines or minerals in the district in question.
 
@@ -129,7 +129,7 @@ and shall pay for any minerals not purchased by the appropriate agency which can
 (2) For the purposes of this Schedule the appropriate agency's undertaking shall be taken to consist of so much of any of the following as is for the time being vested in or held by the appropriate agency for the purposes of, or in connection with, the carrying out of any of its functions, that is to say—
 
 - (a) any buildings, reservoirs, wells, boreholes or other structures; and
-- (b)[^key-24059ae3d0327ea486048f807577ce0c] any resource mains, discharge pipes or other underground works which are for the time being vested in the appropriate agency.
+- (b)[^c-24059ae3d0327ea486048f807577ce0c] any resource mains, discharge pipes or other underground works which are for the time being vested in the appropriate agency.
 
 (3) References in this Schedule to the working of any mines or minerals include references to the draining of mines and to the winning or getting of minerals.
 
@@ -149,12 +149,12 @@ then for the purposes of this Schedule that distance (instead of the distance sp
 
 ## Annotations
 
-[^key-7e7a8bc51541d5769f59c269f12a9de3]: Textual amendment: Words in Sch. 23 paras. 1-7 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 315(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/315/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-7e7a8bc51541d5769f59c269f12a9de3]: Textual amendment: Words in Sch. 23 paras. 1-7 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 315(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/315/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-0b135066b99e6d57a1d61ce49e4183ac]: Textual amendment: Words in Sch. 23 para. 2(4) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 236](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/236) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-0b135066b99e6d57a1d61ce49e4183ac]: Textual amendment: Words in Sch. 23 para. 2(4) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 236](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/236) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
 [^c18748691]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
-[^key-24059ae3d0327ea486048f807577ce0c]: Textual amendment: [Sch. 23 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/1991/57/schedule/23/paragraph/7/2/b) substituted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 60(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/60/2), [94(2)(n)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/n)
+[^c-24059ae3d0327ea486048f807577ce0c]: Textual amendment: [Sch. 23 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/1991/57/schedule/23/paragraph/7/2/b) substituted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 60(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/60/2), [94(2)(n)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/n)
 
 [^c18748761]: Marginal citation: [1989 c. 15](https://www.legislation.gov.uk/ukpga/1989/15).

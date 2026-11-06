@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. General enforcement provisions not to apply in relation to protection orders[^key-1a023662fa414b53d52ac64e7193842b]
+## 56. General enforcement provisions not to apply in relation to protection orders[^c-1a023662fa414b53d52ac64e7193842b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Without prejudice to any other enactment or rule of law, sections 52, 53, 54, 55
 
 ## Annotations
 
-[^key-1a023662fa414b53d52ac64e7193842b]: Commencement: S. 56 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-1a023662fa414b53d52ac64e7193842b]: Commencement: S. 56 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

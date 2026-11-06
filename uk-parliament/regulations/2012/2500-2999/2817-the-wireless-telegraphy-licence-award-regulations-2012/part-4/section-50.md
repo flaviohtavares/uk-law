@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Notification that opt-in bid not valid[^key-59c4df0ab6d626043e1b7bd37a461595]
+## 50. Notification that opt-in bid not valid[^c-59c4df0ab6d626043e1b7bd37a461595]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where a bidder submits an opt-in bid that is not a valid opt-in bid, OFCOM shall
 
 ## Annotations
 
-[^key-59c4df0ab6d626043e1b7bd37a461595]: Commencement: Reg. 50 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-59c4df0ab6d626043e1b7bd37a461595]: Commencement: Reg. 50 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

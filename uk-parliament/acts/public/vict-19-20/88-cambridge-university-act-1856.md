@@ -39,7 +39,7 @@ Cambridge University Act 1856
 
 ### 5. Establishment of Council of the Senate.
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c5617131] [^key-3774ba78ecec1b86438beff6405503c1]... The Council of the Senate[^key-3774ba78ecec1b86438beff6405503c1]... shall consider and prepare all graces to be offered to the Senate, whether proceeding from individual members of the Senate or from syndicates; and no grace shall be offered to the Senate without the sanction of the major part of those voting upon it in the Council.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c5617131] [^c-3774ba78ecec1b86438beff6405503c1]... The Council of the Senate[^c-3774ba78ecec1b86438beff6405503c1]... shall consider and prepare all graces to be offered to the Senate, whether proceeding from individual members of the Senate or from syndicates; and no grace shall be offered to the Senate without the sanction of the major part of those voting upon it in the Council.
 
 ### 6. Composition of Council.
 
@@ -83,7 +83,7 @@ No professor shall be ineligible for the Council by reason of anything contained
 
 ### 17. Power to Council to make rules for regulation of its own proceedings.[^c5617161]
 
-Subject to the provisions of this Act, and without prejudice to the rights of the Senate in the making of statutes, regulations, and ordinances for the University of Cambridge, the Council shall have power from time to time to make rules for the regulation of its own proceedings, [^key-ca9b10afecfd4b1173e8c6c87318ebe2]... and also to appoint committees for the purpose of examining all questions referred to them by the said Council.
+Subject to the provisions of this Act, and without prejudice to the rights of the Senate in the making of statutes, regulations, and ordinances for the University of Cambridge, the Council shall have power from time to time to make rules for the regulation of its own proceedings, [^c-ca9b10afecfd4b1173e8c6c87318ebe2]... and also to appoint committees for the purpose of examining all questions referred to them by the said Council.
 
 ### 18. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c5617171]
 
@@ -185,7 +185,7 @@ The [^c5617291]Lands Clauses Consolidation Act 1845, except the parts and enactm
 
 [^c5617131]: Textual amendment: Words repealed by [Statute Law Revision Act 1892 (c. 19)](https://www.legislation.gov.uk/ukpga/1892/19)
 
-[^key-3774ba78ecec1b86438beff6405503c1]: Textual amendment: Words in s. 5 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
+[^c-3774ba78ecec1b86438beff6405503c1]: Textual amendment: Words in s. 5 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
 
 [^c5617141]: Textual amendment: [Ss. 1–4](https://www.legislation.gov.uk/ukpga/Vict/19-20/88/section/1), [9](https://www.legislation.gov.uk/ukpga/Vict/19-20/88/section/9), [16](https://www.legislation.gov.uk/ukpga/Vict/19-20/88/section/16), [18](https://www.legislation.gov.uk/ukpga/Vict/19-20/88/section/18), [25–31](https://www.legislation.gov.uk/ukpga/Vict/19-20/88/section/25), [33–35](https://www.legislation.gov.uk/ukpga/Vict/19-20/88/section/33), [37–41](https://www.legislation.gov.uk/ukpga/Vict/19-20/88/section/37), [44](https://www.legislation.gov.uk/ukpga/Vict/19-20/88/section/44), [47](https://www.legislation.gov.uk/ukpga/Vict/19-20/88/section/47) repealed by [Statute Law Revision Act 1875 (c. 66)](https://www.legislation.gov.uk/ukpga/1875/66)
 
@@ -193,7 +193,7 @@ The [^c5617291]Lands Clauses Consolidation Act 1845, except the parts and enactm
 
 [^c5617161]: Modification: “The Commissioners” means the Commissioners appointed for the purposes of this Act under s. 1
 
-[^key-ca9b10afecfd4b1173e8c6c87318ebe2]: Textual amendment: Words in [s. 17](https://www.legislation.gov.uk/ukpga/Vict/19-20/88/section/17) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
+[^c-ca9b10afecfd4b1173e8c6c87318ebe2]: Textual amendment: Words in [s. 17](https://www.legislation.gov.uk/ukpga/Vict/19-20/88/section/17) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
 
 [^c5617171]: Textual amendment: [Ss. 1–4](https://www.legislation.gov.uk/ukpga/Vict/19-20/88/section/1), [9](https://www.legislation.gov.uk/ukpga/Vict/19-20/88/section/9), [16](https://www.legislation.gov.uk/ukpga/Vict/19-20/88/section/16), [18](https://www.legislation.gov.uk/ukpga/Vict/19-20/88/section/18), [25–31](https://www.legislation.gov.uk/ukpga/Vict/19-20/88/section/25), [33–35](https://www.legislation.gov.uk/ukpga/Vict/19-20/88/section/33), [37–41](https://www.legislation.gov.uk/ukpga/Vict/19-20/88/section/37), [44](https://www.legislation.gov.uk/ukpga/Vict/19-20/88/section/44), [47](https://www.legislation.gov.uk/ukpga/Vict/19-20/88/section/47) repealed by [Statute Law Revision Act 1875 (c. 66)](https://www.legislation.gov.uk/ukpga/1875/66)
 

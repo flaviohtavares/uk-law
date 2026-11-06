@@ -39,74 +39,74 @@ on monitoring and reporting of data on the registration of new light commercial 
 
 (Text with EEA relevance) (revoked)
 
-[^key-7463a18b4454ed4e948cdcecb354e562]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7463a18b4454ed4e948cdcecb354e562]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-7463a18b4454ed4e948cdcecb354e562]
+## Article 1. Subject matter[^c-7463a18b4454ed4e948cdcecb354e562]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-7463a18b4454ed4e948cdcecb354e562]
+## Article 2. Definitions[^c-7463a18b4454ed4e948cdcecb354e562]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Data transmission[^key-7463a18b4454ed4e948cdcecb354e562]
+## Article 3. Data transmission[^c-7463a18b4454ed4e948cdcecb354e562]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Data sources[^key-7463a18b4454ed4e948cdcecb354e562]
+## Article 4. Data sources[^c-7463a18b4454ed4e948cdcecb354e562]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Data maintenance and control[^key-7463a18b4454ed4e948cdcecb354e562]
+## Article 5. Data maintenance and control[^c-7463a18b4454ed4e948cdcecb354e562]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Preparation of data by the Secretary of State[^key-7463a18b4454ed4e948cdcecb354e562]
+## Article 6. Preparation of data by the Secretary of State[^c-7463a18b4454ed4e948cdcecb354e562]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Reporting of filling stations supplying ethanol (E85) fuel[^key-7463a18b4454ed4e948cdcecb354e562]
+## Article 7. Reporting of filling stations supplying ethanol (E85) fuel[^c-7463a18b4454ed4e948cdcecb354e562]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Vehicles not covered by ... UK (NI) or EU type-approval[^key-7463a18b4454ed4e948cdcecb354e562]
+## Article 8. Vehicles not covered by ... UK (NI) or EU type-approval[^c-7463a18b4454ed4e948cdcecb354e562]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. List of manufacturers[^key-7463a18b4454ed4e948cdcecb354e562]
+## Article 9. List of manufacturers[^c-7463a18b4454ed4e948cdcecb354e562]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Additional information to be provided by manufacturers[^key-7463a18b4454ed4e948cdcecb354e562]
+## Article 10. Additional information to be provided by manufacturers[^c-7463a18b4454ed4e948cdcecb354e562]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10a. Notification of errors by manufacturers[^key-7463a18b4454ed4e948cdcecb354e562]
+## Article 10a. Notification of errors by manufacturers[^c-7463a18b4454ed4e948cdcecb354e562]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10b. Preparation of the provisional dataset[^key-7463a18b4454ed4e948cdcecb354e562]
+## Article 10b. Preparation of the provisional dataset[^c-7463a18b4454ed4e948cdcecb354e562]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Entry into force[^key-7463a18b4454ed4e948cdcecb354e562]
+## Article 11. Entry into force[^c-7463a18b4454ed4e948cdcecb354e562]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7463a18b4454ed4e948cdcecb354e562]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7463a18b4454ed4e948cdcecb354e562]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — DATA SOURCES[^key-7463a18b4454ed4e948cdcecb354e562]
+## ANNEX I — DATA SOURCES[^c-7463a18b4454ed4e948cdcecb354e562]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-7463a18b4454ed4e948cdcecb354e562]
+## ANNEX II[^c-7463a18b4454ed4e948cdcecb354e562]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7463a18b4454ed4e948cdcecb354e562]: Textual amendment: Regulation revoked (E.W.S) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [113(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/113/1) (with [art. 116](https://www.legislation.gov.uk/uksi/2023/1394/article/116)); and revoked (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [20](https://www.legislation.gov.uk/uksi/2024/1130/article/20) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
+[^c-7463a18b4454ed4e948cdcecb354e562]: Textual amendment: Regulation revoked (E.W.S) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [113(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/113/1) (with [art. 116](https://www.legislation.gov.uk/uksi/2023/1394/article/116)); and revoked (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [20](https://www.legislation.gov.uk/uksi/2024/1130/article/20) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))

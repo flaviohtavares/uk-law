@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.34. Publication etc. of statement of affairs and statement of proposals[^key-84d52218d2ffb62b9bc00653bb38d7fe]
+## 3.34. Publication etc. of statement of affairs and statement of proposals[^c-84d52218d2ffb62b9bc00653bb38d7fe]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84d52218d2ffb62b9bc00653bb38d7fe]: Commencement: Rule 3.34 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-84d52218d2ffb62b9bc00653bb38d7fe]: Commencement: Rule 3.34 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

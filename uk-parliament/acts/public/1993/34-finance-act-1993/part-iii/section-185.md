@@ -20,26 +20,26 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-13a7f1b587e3bcdb5239b6a8ec1f2519] In this Part of this Act—
+(A1)[^c-13a7f1b587e3bcdb5239b6a8ec1f2519] In this Part of this Act—
 
 - “**non-taxable field**” means an oil field which meets the conditions in subsection (1), (1ZA) or (1A), and
 - “**taxable field**” means an oil field which is not a non-taxable field.
 
-(1) An oil field meets the conditions in this subsection if it is an oil field—[^key-ad165daa45fef31f292cd53802f7d306]
+(1) An oil field meets the conditions in this subsection if it is an oil field—[^c-ad165daa45fef31f292cd53802f7d306]
 
 - (a) for no part of which consent for development was granted to a licensee by the Secretary of State before 16th March 1993; and
 - (b) for no part of which a programme of development was served on a licensee or approved by the Secretary of State before that date;
 
-[^key-b3f1dcd8124b96aa33124602287ad9a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3f1dcd8124b96aa33124602287ad9a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1ZA)[^key-67a185c570d8f0a9d07627edf62e5ca1] An oil field meets the conditions in this subsection if—
+(1ZA)[^c-67a185c570d8f0a9d07627edf62e5ca1] An oil field meets the conditions in this subsection if—
 
 - (a) the field does not meet the conditions in subsection (1), and
-- (b) an election under Schedule 20B[^key-01ee2a6fcd747d862e1fb2df2d9424bf] that the field is to be non-taxable is in effect.
+- (b) an election under Schedule 20B[^c-01ee2a6fcd747d862e1fb2df2d9424bf] that the field is to be non-taxable is in effect.
 
-(1A)[^key-6a7899752608c9bed5c18c8abc5fc628] An oil field meets the conditions in this subsection if—
+(1A)[^c-6a7899752608c9bed5c18c8abc5fc628] An oil field meets the conditions in this subsection if—
 
-- (za)[^key-6de2136750a19abccd6864314c0c957d] the field does not meet the conditions in subsection (1),
+- (za)[^c-6de2136750a19abccd6864314c0c957d] the field does not meet the conditions in subsection (1),
 - (a) the Secretary of State has at any time approved one or more abandonment programmes under Part 4 of the Petroleum Act 1998 (or Part 1 of the Petroleum Act 1987) in relation to all assets of the field which are relevant assets;
 - (b) those programmes have been carried out to the satisfaction of the Secretary of State;
 - (c) a development decision is made in relation to the field; and
@@ -52,17 +52,17 @@ summary: ''
 
 (1C) For the purposes of subsection (1A)(c) and (d) above, a development decision is made in relation to an oil field when—
 
-- (a) consent for development is granted to a licensee by the appropriate authority[^key-11f5b0b6588f50adda9b0b97a6544aaa] in respect of the whole or part of the field; or
-- (b) a programme of development is served on a licensee or approved by the appropriate authority[^key-de864c3064cd79d5d22858383bb4ef41] for the whole or part of the field.
+- (a) consent for development is granted to a licensee by the appropriate authority[^c-11f5b0b6588f50adda9b0b97a6544aaa] in respect of the whole or part of the field; or
+- (b) a programme of development is served on a licensee or approved by the appropriate authority[^c-de864c3064cd79d5d22858383bb4ef41] for the whole or part of the field.
 
 (2) For the purposes of subsection (1) above, no account shall be taken, in relation to an oil field, of a consent for development granted before 16th March 1993 or a programme of development served on a licensee or approved by the Secretary of State before that date if—
 
 - (a) in whole or in part that consent or programme related to another oil field for which a determination under Schedule 1 to the principal Act was made before the determination under that Schedule for the field in question; and
-- (b) on or after 16th March 1993, a consent for development is or was granted or a programme of development is or was served on a licensee or approved by the appropriate authority[^key-f5edb78fb73b6df8d3f2b4017ea9d57e] and that consent or programme relates, in whole or in part, to the field in question.
+- (b) on or after 16th March 1993, a consent for development is or was granted or a programme of development is or was served on a licensee or approved by the appropriate authority[^c-f5edb78fb73b6df8d3f2b4017ea9d57e] and that consent or programme relates, in whole or in part, to the field in question.
 
-(2A)[^key-e532ee4c8b3f4ea3d1e15646be4a88a7] In subsections (1C) and (2), “**"the appropriate authority”**” means—
+(2A)[^c-e532ee4c8b3f4ea3d1e15646be4a88a7] In subsections (1C) and (2), “**"the appropriate authority”**” means—
 
-- (za)[^key-0f9a6e76b09bcd066d81bc1bd60bec65] in relation to a field that is wholly within the Scottish onshore area, as defined in section 8A of the Petroleum Act 1998, the Scottish Ministers;
+- (za)[^c-0f9a6e76b09bcd066d81bc1bd60bec65] in relation to a field that is wholly within the Scottish onshore area, as defined in section 8A of the Petroleum Act 1998, the Scottish Ministers;
 - (a) in relation to a field that is wholly within the Welsh onshore area (as defined in section 8A of the Petroleum Act 1998), the Welsh Ministers;
 - (b) otherwise, the OGA.
 
@@ -83,7 +83,7 @@ summary: ''
 
 (6) Subject to paragraphs (b) and (c) of subsection (4) above, where, apart from this section, expenditure incurred on or after 16th March 1993 would fall to be apportioned (as being allowable expenditure) between two or more oil fields, at least one of which is a non-taxable field, the apportionment shall be made as if all the fields were taxable fields, but subsection (4)(e) above shall then apply to any amount of expenditure apportioned to a non-taxable field.
 
-(7) In this section[^key-f106cb55b400ab0d5a4235a0217880e5] above “**development**”, in relation to an oil field, means—
+(7) In this section[^c-f106cb55b400ab0d5a4235a0217880e5] above “**development**”, in relation to an oil field, means—
 
 - (a) the erection or carrying out of permanent works for the purpose of getting oil from the field or for the purpose of conveying oil won from the field to a place on land; or
 - (b) winning oil from the field otherwise than in the course of searching for oil or drilling wells;
@@ -94,28 +94,28 @@ and consent for development does not include consent which is limited to the pur
 
 ## Annotations
 
-[^key-13a7f1b587e3bcdb5239b6a8ec1f2519]: Textual amendment: S. 185(A1) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 107(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/107/2)
+[^c-13a7f1b587e3bcdb5239b6a8ec1f2519]: Textual amendment: S. 185(A1) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 107(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/107/2)
 
-[^key-ad165daa45fef31f292cd53802f7d306]: Textual amendment: Words in s. 185(1) substituted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 107(3)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/107/3/a)
+[^c-ad165daa45fef31f292cd53802f7d306]: Textual amendment: Words in s. 185(1) substituted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 107(3)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/107/3/a)
 
-[^key-b3f1dcd8124b96aa33124602287ad9a9]: Textual amendment: Words in s. 185(1) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 107(3)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/107/3/b)
+[^c-b3f1dcd8124b96aa33124602287ad9a9]: Textual amendment: Words in s. 185(1) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 107(3)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/107/3/b)
 
-[^key-67a185c570d8f0a9d07627edf62e5ca1]: Textual amendment: S. 185(1ZA) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 107(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/107/4)
+[^c-67a185c570d8f0a9d07627edf62e5ca1]: Textual amendment: S. 185(1ZA) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 107(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/107/4)
 
-[^key-01ee2a6fcd747d862e1fb2df2d9424bf]: Textual amendment: Words in s. 185(1ZA)(b) substituted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 3(2)(c)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/3/2/c)
+[^c-01ee2a6fcd747d862e1fb2df2d9424bf]: Textual amendment: Words in s. 185(1ZA)(b) substituted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 3(2)(c)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/3/2/c)
 
-[^key-6a7899752608c9bed5c18c8abc5fc628]: Textual amendment: S. 185(1A)-(1C) inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 102(3)](https://www.legislation.gov.uk/ukpga/2007/11/section/102/3) (with [s. 102(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/102/5))
+[^c-6a7899752608c9bed5c18c8abc5fc628]: Textual amendment: S. 185(1A)-(1C) inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 102(3)](https://www.legislation.gov.uk/ukpga/2007/11/section/102/3) (with [s. 102(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/102/5))
 
-[^key-6de2136750a19abccd6864314c0c957d]: Textual amendment: S. 185(1A)(za) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 107(5)](https://www.legislation.gov.uk/ukpga/2008/9/section/107/5)
+[^c-6de2136750a19abccd6864314c0c957d]: Textual amendment: S. 185(1A)(za) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 107(5)](https://www.legislation.gov.uk/ukpga/2008/9/section/107/5)
 
-[^key-11f5b0b6588f50adda9b0b97a6544aaa]: Textual amendment: Words in s. 185(1C)(a) substituted (1.10.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 22(2)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/22/2) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/4/b)
+[^c-11f5b0b6588f50adda9b0b97a6544aaa]: Textual amendment: Words in s. 185(1C)(a) substituted (1.10.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 22(2)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/22/2) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/4/b)
 
-[^key-de864c3064cd79d5d22858383bb4ef41]: Textual amendment: Words in s. 185(1C)(b) substituted (1.10.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 22(2)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/22/2) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/4/b)
+[^c-de864c3064cd79d5d22858383bb4ef41]: Textual amendment: Words in s. 185(1C)(b) substituted (1.10.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 22(2)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/22/2) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/4/b)
 
-[^key-f5edb78fb73b6df8d3f2b4017ea9d57e]: Textual amendment: Words in s. 185(2)(b) substituted (1.10.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 22(3)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/22/3) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/4/b)
+[^c-f5edb78fb73b6df8d3f2b4017ea9d57e]: Textual amendment: Words in s. 185(2)(b) substituted (1.10.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 22(3)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/22/3) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/4/b)
 
-[^key-e532ee4c8b3f4ea3d1e15646be4a88a7]: Textual amendment: S. 185(2A) inserted (1.10.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 22(4)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/22/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/4/b)
+[^c-e532ee4c8b3f4ea3d1e15646be4a88a7]: Textual amendment: S. 185(2A) inserted (1.10.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 22(4)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/22/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/4/b)
 
-[^key-0f9a6e76b09bcd066d81bc1bd60bec65]: Textual amendment: S. 185(2A)(za) inserted (1.10.2018 immediately after 2017 c. 4, Sch. 6 Pt. 2 comes into force) by [The Scotland Act 2016 (Onshore Petroleum) (Consequential Amendments) Regulations 2018 (S.I. 2018/79)](https://www.legislation.gov.uk/uksi/2018/79), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/79/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2018/79/regulation/10)
+[^c-0f9a6e76b09bcd066d81bc1bd60bec65]: Textual amendment: S. 185(2A)(za) inserted (1.10.2018 immediately after 2017 c. 4, Sch. 6 Pt. 2 comes into force) by [The Scotland Act 2016 (Onshore Petroleum) (Consequential Amendments) Regulations 2018 (S.I. 2018/79)](https://www.legislation.gov.uk/uksi/2018/79), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/79/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2018/79/regulation/10)
 
-[^key-f106cb55b400ab0d5a4235a0217880e5]: Textual amendment: Words in s. 185(7) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 102(4)](https://www.legislation.gov.uk/ukpga/2007/11/section/102/4)
+[^c-f106cb55b400ab0d5a4235a0217880e5]: Textual amendment: Words in s. 185(7) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 102(4)](https://www.legislation.gov.uk/ukpga/2007/11/section/102/4)

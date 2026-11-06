@@ -26,7 +26,7 @@ Article 3(1) to (3).
 
 - (a) ten shall be appointed in accordance with paragraph 2 and shall represent district councils;
 - (b) one shall be an officer of the Ministry, who shall represent drainage and navigational interests;
-- (c)[^c17525601][^key-12566c0a07be39e47dbef45c110a94f8] one shall be an officer of the Ministry of Finance nominated by the Minister of Finance;
+- (c)[^c17525601][^c-12566c0a07be39e47dbef45c110a94f8] one shall be an officer of the Ministry of Finance nominated by the Minister of Finance;
 - (d) one shall represent agricultural interests;
 - (e) one shall represent fishery interests;
 - (f) two shall be appointed after consultation with the Minister of Commerce, one to represent industrial interests and one to represent tourist interests;
@@ -35,7 +35,7 @@ Article 3(1) to (3).
 
 **2.** Where a body which the Minister is satisfied represents the interests of district councils comes into being, the persons to be appointed under paragraph 1( *a*) shall be appointed after consultation with that body and, until then, those persons shall be appointed after consultation with persons who, in his opinion, are representative of district councils.
 
-**3.** (1)[^key-1d9b1dfa0766fd3be9ef749cee16cffe] The members of the Council shall be appointed in the year 2011[^c21339921] and in every fourth year thereafter and shall be appointed as soon as possible after the date on which a local general election is held in that year under section 11(2) of the Electoral Law Act [^m00005] (Northern Ireland) 1962, and—
+**3.** (1)[^c-1d9b1dfa0766fd3be9ef749cee16cffe] The members of the Council shall be appointed in the year 2011[^c21339921] and in every fourth year thereafter and shall be appointed as soon as possible after the date on which a local general election is held in that year under section 11(2) of the Electoral Law Act [^m00005] (Northern Ireland) 1962, and—
 
 - (a) persons appointed to the Council shall become members of the Council from such date as shall be specified in their appointment;
 - (b) subject to sub-paragraph (2), the appointments shall cease to have effect after the day preceding that from which the next subsequent appointments made under this paragraph are effective.
@@ -58,11 +58,11 @@ Article 3(1) to (3).
 
 [^c17525601]: Textual amendment: functions transf. by [1982 NI 6](https://www.legislation.gov.uk/nisi/1982)
 
-[^key-12566c0a07be39e47dbef45c110a94f8]: Modification: Sch. 1 para. 1(c): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-12566c0a07be39e47dbef45c110a94f8]: Modification: Sch. 1 para. 1(c): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c17525611]: Textual amendment: Now Head of D/Env., SRO (NI) 1973/504; [1976 NI 6](https://www.legislation.gov.uk/nisi/1976)
 
-[^key-1d9b1dfa0766fd3be9ef749cee16cffe]: Modification: Sch. 1 para. 3(1) applied (with modifications) (12.12.2013) by [The Local Elections (Northern Ireland) Order 2013 (S.I. 2013/3156)](https://www.legislation.gov.uk/uksi/2013/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3156/article/1/1), [7](https://www.legislation.gov.uk/uksi/2013/3156/article/7)
+[^c-1d9b1dfa0766fd3be9ef749cee16cffe]: Modification: Sch. 1 para. 3(1) applied (with modifications) (12.12.2013) by [The Local Elections (Northern Ireland) Order 2013 (S.I. 2013/3156)](https://www.legislation.gov.uk/uksi/2013/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3156/article/1/1), [7](https://www.legislation.gov.uk/uksi/2013/3156/article/7)
 
 [^c21339921]: Textual amendment: Words in Sch. 1 para. 3(1) substituted (12.2.2009) by [Postponement of Local Elections (Northern Ireland) Order 2009 (S.I. 2009/225)](https://www.legislation.gov.uk/uksi/2009/225), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/225/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2009/225/article/4/2)
 

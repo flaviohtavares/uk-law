@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Continuity option 2: resolving triggering event[^c24459141][^key-80c6a38042a60953226cd9a69abf932d]
+## 37. Continuity option 2: resolving triggering event[^c24459141][^c-80c6a38042a60953226cd9a69abf932d]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 [^c24459141]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2021/1/section/37) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-80c6a38042a60953226cd9a69abf932d]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2021/1/section/37) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-80c6a38042a60953226cd9a69abf932d]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2021/1/section/37) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)

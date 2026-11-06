@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. No restrictions on pay after 6 months[^key-072ff5376eebaf4722f07218cd26910e]
+## 9. No restrictions on pay after 6 months[^c-072ff5376eebaf4722f07218cd26910e]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ After the expiry of the 6 month period beginning with and including the date of 
 
 ## Annotations
 
-[^key-072ff5376eebaf4722f07218cd26910e]: Commencement: Reg. 9 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-072ff5376eebaf4722f07218cd26910e]: Commencement: Reg. 9 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

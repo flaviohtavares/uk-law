@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Power of ITAs to make charging schemes[^key-a305b9ea68b18cb0ded169759812a37c][^key-58185185a3ef8076135d2284f8f82a02]
+## 103. Power of ITAs to make charging schemes[^c-a305b9ea68b18cb0ded169759812a37c][^c-58185185a3ef8076135d2284f8f82a02]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a305b9ea68b18cb0ded169759812a37c]: Commencement: S. 103 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-a305b9ea68b18cb0ded169759812a37c]: Commencement: S. 103 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-58185185a3ef8076135d2284f8f82a02]: Commencement: S. 103 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(j)](https://www.legislation.gov.uk/uksi/2009/579/article/2/j)
+[^c-58185185a3ef8076135d2284f8f82a02]: Commencement: S. 103 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(j)](https://www.legislation.gov.uk/uksi/2009/579/article/2/j)

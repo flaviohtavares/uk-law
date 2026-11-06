@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. National Underground Asset Register: Northern Ireland[^key-427960d74b39f13a4370c39050aa55e5]
+## 58. National Underground Asset Register: Northern Ireland[^c-427960d74b39f13a4370c39050aa55e5]
 
 *Extent: N.I.*
 
@@ -261,4 +261,4 @@ insert—
 
 ## Annotations
 
-[^key-427960d74b39f13a4370c39050aa55e5]: Commencement: S. 58 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-427960d74b39f13a4370c39050aa55e5]: Commencement: S. 58 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)

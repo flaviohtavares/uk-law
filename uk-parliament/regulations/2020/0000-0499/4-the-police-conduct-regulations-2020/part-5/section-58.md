@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Participation of Director General and investigator at accelerated misconduct hearing[^key-b1eef83389babe083cae95ff32516dea]
+## 58. Participation of Director General and investigator at accelerated misconduct hearing[^c-b1eef83389babe083cae95ff32516dea]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ has sufficient knowledge of the investigation of the case to be able to assist t
 
 ## Annotations
 
-[^key-b1eef83389babe083cae95ff32516dea]: Commencement: Reg. 58 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-b1eef83389babe083cae95ff32516dea]: Commencement: Reg. 58 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

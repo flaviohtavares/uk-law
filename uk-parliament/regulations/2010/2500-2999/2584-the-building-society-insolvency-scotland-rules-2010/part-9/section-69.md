@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Removal[^key-64814d0237594fcd2fe84cd3cacbfe39]
+## 69. Removal[^c-64814d0237594fcd2fe84cd3cacbfe39]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 4.51 of the 1986 Rules.
 
 ## Annotations
 
-[^key-64814d0237594fcd2fe84cd3cacbfe39]: Commencement: Rule 69 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-64814d0237594fcd2fe84cd3cacbfe39]: Commencement: Rule 69 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

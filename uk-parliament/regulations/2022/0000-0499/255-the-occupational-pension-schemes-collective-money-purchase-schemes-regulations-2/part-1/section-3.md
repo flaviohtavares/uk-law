@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Connected employers[^key-95d3f4be4f5d9da6c0e6e24b43255c35]
+## 3. Connected employers[^c-95d3f4be4f5d9da6c0e6e24b43255c35]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95d3f4be4f5d9da6c0e6e24b43255c35]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/255/regulation/3) omitted (31.7.2026) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [61](https://www.legislation.gov.uk/uksi/2025/1313/regulation/61)
+[^c-95d3f4be4f5d9da6c0e6e24b43255c35]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/255/regulation/3) omitted (31.7.2026) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [61](https://www.legislation.gov.uk/uksi/2025/1313/regulation/61)

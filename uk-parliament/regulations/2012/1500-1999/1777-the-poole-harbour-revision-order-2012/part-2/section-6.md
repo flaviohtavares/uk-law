@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Declaration of draught, etc., of vessel[^key-db3ce9aae79a605107070079c9c021c4]
+## 6. Declaration of draught, etc., of vessel[^c-db3ce9aae79a605107070079c9c021c4]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db3ce9aae79a605107070079c9c021c4]: Commencement: Art. 6 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-db3ce9aae79a605107070079c9c021c4]: Commencement: Art. 6 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

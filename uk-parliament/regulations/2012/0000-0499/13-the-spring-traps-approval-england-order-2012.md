@@ -33,7 +33,7 @@ Animals, England
 
 Prevention Of Cruelty
 
-The Spring Traps Approval (England) Order 2012 (revoked)[^key-745299f8c971e7776b96e3c485b9bed7]
+The Spring Traps Approval (England) Order 2012 (revoked)[^c-745299f8c971e7776b96e3c485b9bed7]
 
 Made
 
@@ -43,27 +43,27 @@ Coming into force
 
 15th February 2012
 
-[^key-745299f8c971e7776b96e3c485b9bed7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-745299f8c971e7776b96e3c485b9bed7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-745299f8c971e7776b96e3c485b9bed7]
+## 1. Citation, commencement and application[^c-745299f8c971e7776b96e3c485b9bed7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Approval of Spring Traps[^key-745299f8c971e7776b96e3c485b9bed7]
+## 2. Approval of Spring Traps[^c-745299f8c971e7776b96e3c485b9bed7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-745299f8c971e7776b96e3c485b9bed7]
+## 3. Revocations[^c-745299f8c971e7776b96e3c485b9bed7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-745299f8c971e7776b96e3c485b9bed7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-745299f8c971e7776b96e3c485b9bed7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## THE SCHEDULE[^key-745299f8c971e7776b96e3c485b9bed7]
+## THE SCHEDULE[^c-745299f8c971e7776b96e3c485b9bed7]
 
 article 2
 
@@ -71,8 +71,8 @@ article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-745299f8c971e7776b96e3c485b9bed7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-745299f8c971e7776b96e3c485b9bed7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-745299f8c971e7776b96e3c485b9bed7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/13) revoked (1.1.2019) by [The Spring Traps Approval (England) Order 2018 (S.I. 2018/1190)](https://www.legislation.gov.uk/uksi/2018/1190), [art. 3(a)](https://www.legislation.gov.uk/uksi/2018/1190/article/3/a)
+[^c-745299f8c971e7776b96e3c485b9bed7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/13) revoked (1.1.2019) by [The Spring Traps Approval (England) Order 2018 (S.I. 2018/1190)](https://www.legislation.gov.uk/uksi/2018/1190), [art. 3(a)](https://www.legislation.gov.uk/uksi/2018/1190/article/3/a)

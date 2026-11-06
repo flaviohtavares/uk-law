@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Remuneration[^key-ed5b816aa40d61100c4c53bba9c7f4d6]
+## 35. Remuneration[^c-ed5b816aa40d61100c4c53bba9c7f4d6]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed5b816aa40d61100c4c53bba9c7f4d6]: Commencement: [Rule 35](https://www.legislation.gov.uk/uksi/2011/1301/rule/35) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-ed5b816aa40d61100c4c53bba9c7f4d6]: Commencement: [Rule 35](https://www.legislation.gov.uk/uksi/2011/1301/rule/35) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

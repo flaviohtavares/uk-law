@@ -37,16 +37,16 @@ Made
 
 The Secretary of State makes the following Order in exercise of the powers conferred by section 336(3) and (4) of the Criminal Justice Act 2003[^f00001]:
 
-**1.**[^key-caefb92e88f26f4e9b4607c8bc726df1] (1) This Order may be cited as the Criminal Justice Act 2003 (Commencement No. 26) Order 2011.
+**1.**[^c-caefb92e88f26f4e9b4607c8bc726df1] (1) This Order may be cited as the Criminal Justice Act 2003 (Commencement No. 26) Order 2011.
 
 (2) In this Order “the 2003 Act” means the Criminal Justice Act 2003.
 
-**2.**[^key-f6181a6c69484100e450ecbc0771d818] Section 29(1) to (3), (5) and (6) (new method of instituting proceedings) and section 30 (further provision about the new method) of the 2003 Act come into force on the day following the day on which this Order is made but only for the purposes of criminal proceedings instituted by a public prosecutor specified in an Order made by the Secretary of State under section 29(5)(h) of the 2003 Act or a person authorised by such a person (specification of a person as a public prosecutor or a person authorised by such a person for the purposes of issuing a written charge and requisition).
+**2.**[^c-f6181a6c69484100e450ecbc0771d818] Section 29(1) to (3), (5) and (6) (new method of instituting proceedings) and section 30 (further provision about the new method) of the 2003 Act come into force on the day following the day on which this Order is made but only for the purposes of criminal proceedings instituted by a public prosecutor specified in an Order made by the Secretary of State under section 29(5)(h) of the 2003 Act or a person authorised by such a person (specification of a person as a public prosecutor or a person authorised by such a person for the purposes of issuing a written charge and requisition).
 
-**3.**[^key-82b8566279157be98765e2e7ea32b030] Section 29(1) to (3), (5) and (6) (new method of instituting proceedings) and section 30 (further provision about the new method) of the 2003 Act come into force on 3rd October 2011, but only for the purposes of criminal proceedings instituted by a public prosecutor within the meaning of —
+**3.**[^c-82b8566279157be98765e2e7ea32b030] Section 29(1) to (3), (5) and (6) (new method of instituting proceedings) and section 30 (further provision about the new method) of the 2003 Act come into force on 3rd October 2011, but only for the purposes of criminal proceedings instituted by a public prosecutor within the meaning of —
 
 - (a) section 29(5)(a) of the 2003 Act (a police force or a person authorised by a police force to institute criminal proceedings), so far as not already in force[^f00002]; and
-- (b) section 29(5)(e) of the 2003 Act (a Secretary of State or a person authorised by a Secretary of State to institute criminal proceedings) where criminal proceedings are instituted by the Secretary of State for Business and Trade[^key-51e0d4c84502e0bf8eae1b0e1d2da981] or a person authorised by that Secretary of State.
+- (b) section 29(5)(e) of the 2003 Act (a Secretary of State or a person authorised by a Secretary of State to institute criminal proceedings) where criminal proceedings are instituted by the Secretary of State for Business and Trade[^c-51e0d4c84502e0bf8eae1b0e1d2da981] or a person authorised by that Secretary of State.
 
 Signed by the authority of the Secretary of State
 
@@ -273,12 +273,12 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44).
 
-[^key-caefb92e88f26f4e9b4607c8bc726df1]: Commencement: Art. 1 in force at made date
+[^c-caefb92e88f26f4e9b4607c8bc726df1]: Commencement: Art. 1 in force at made date
 
-[^key-f6181a6c69484100e450ecbc0771d818]: Commencement: Art. 2 in force at made date
+[^c-f6181a6c69484100e450ecbc0771d818]: Commencement: Art. 2 in force at made date
 
-[^key-82b8566279157be98765e2e7ea32b030]: Commencement: Art. 3 in force at made date
+[^c-82b8566279157be98765e2e7ea32b030]: Commencement: Art. 3 in force at made date
 
 [^f00002]: Footnote: [S.I. 2007/1999](https://www.legislation.gov.uk/uksi/2007/1999), [S.I. 2008/1424](https://www.legislation.gov.uk/uksi/2008/1424), [S.I. 2009/2879](https://www.legislation.gov.uk/uksi/2009/2879), and [S.I. 2010/3005](https://www.legislation.gov.uk/uksi/2010/3005) commenced the same provisions in the 2003 Act in respect of a public prosecutor within the meaning of section 29(5)(a) of the 2003 Act in specified locations in England and Wales.
 
-[^key-51e0d4c84502e0bf8eae1b0e1d2da981]: Textual amendment: Words in art. 3(b) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 55](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/55) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-51e0d4c84502e0bf8eae1b0e1d2da981]: Textual amendment: Words in art. 3(b) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 55](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/55) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))

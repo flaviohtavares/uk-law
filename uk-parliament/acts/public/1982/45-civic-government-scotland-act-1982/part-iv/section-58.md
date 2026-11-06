@@ -33,11 +33,11 @@ shall be guilty of an offence and liable, on summary conviction, to a fine not e
 - (b) the issue of a warrant for his arrest for that offence; or
 - (c) if earlier, the service upon him of the first complaint alleging that he has committed that offence.
 
-(3) Where a court convicts a person of an offence under this section or discharges him absolutely [^key-35f11ea38c09d55d4c75e523fd3bda18]... in respect of such an offence it may order the forfeiture of any tool or other object in respect of the possession of which he was convicted or , as the case may be, discharged absolutely.[^key-fd0057223e6c9938ea975bc22b0d686a].
+(3) Where a court convicts a person of an offence under this section or discharges him absolutely [^c-35f11ea38c09d55d4c75e523fd3bda18]... in respect of such an offence it may order the forfeiture of any tool or other object in respect of the possession of which he was convicted or , as the case may be, discharged absolutely.[^c-fd0057223e6c9938ea975bc22b0d686a].
 
 (4) This section applies to a person who has two or more convictions for theft which are not, for the purposes of the [^c13374631]Rehabilitation of Offenders Act 1974, spent convictions.
 
-(4A)[^key-77de51ee59a85838b781a7ef76521667] In subsection (4), the reference to a conviction for theft includes—
+(4A)[^c-77de51ee59a85838b781a7ef76521667] In subsection (4), the reference to a conviction for theft includes—
 
 - (a) a reference to a conviction by a court in England and Wales or Northern Ireland, and
 - (b) if the court considers appropriate, a reference to a conviction by a court in a member State of the European Union
@@ -52,10 +52,10 @@ of an offence that is equivalent to theft.
 
 [^c13374621]: Textual amendment: Words substituted by virtue of [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)
 
-[^key-35f11ea38c09d55d4c75e523fd3bda18]: Textual amendment: Words in s. 58(3) repealed (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 2 para. 35(3)(a)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/35/3/a); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))
+[^c-35f11ea38c09d55d4c75e523fd3bda18]: Textual amendment: Words in s. 58(3) repealed (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 2 para. 35(3)(a)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/35/3/a); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))
 
-[^key-fd0057223e6c9938ea975bc22b0d686a]: Textual amendment: Words in s. 58(3) substituted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 24(3)(b)](https://www.legislation.gov.uk/asp/2010/13/section/24/3/b), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-fd0057223e6c9938ea975bc22b0d686a]: Textual amendment: Words in s. 58(3) substituted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 24(3)(b)](https://www.legislation.gov.uk/asp/2010/13/section/24/3/b), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
 
 [^c13374631]: Marginal citation: [1974 c. 53](https://www.legislation.gov.uk/ukpga/1974/53).
 
-[^key-77de51ee59a85838b781a7ef76521667]: Textual amendment: [S. 58(4A)](https://www.legislation.gov.uk/ukpga/1982/45/section/58/4A) substituted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [10](https://www.legislation.gov.uk/ssi/2020/339/regulation/10) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
+[^c-77de51ee59a85838b781a7ef76521667]: Textual amendment: [S. 58(4A)](https://www.legislation.gov.uk/ukpga/1982/45/section/58/4A) substituted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [10](https://www.legislation.gov.uk/ssi/2020/339/regulation/10) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))

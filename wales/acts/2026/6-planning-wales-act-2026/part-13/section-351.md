@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 351. Partnerships: special provision[^key-ce01ea39ebe152aa402c9833a6208848]
+## 351. Partnerships: special provision[^c-ce01ea39ebe152aa402c9833a6208848]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce01ea39ebe152aa402c9833a6208848]: Commencement: S. 351 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-ce01ea39ebe152aa402c9833a6208848]: Commencement: S. 351 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

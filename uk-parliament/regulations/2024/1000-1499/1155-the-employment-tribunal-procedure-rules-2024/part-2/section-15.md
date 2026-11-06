@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Protected disclosure claims[^key-853f688bf36c5d7842729ecbd1cbcf7c]
+## 15. Protected disclosure claims[^c-853f688bf36c5d7842729ecbd1cbcf7c]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-853f688bf36c5d7842729ecbd1cbcf7c]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2024/1155/rule/15) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-853f688bf36c5d7842729ecbd1cbcf7c]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2024/1155/rule/15) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
 [^f00031]: Footnote: Sections 43A and 43F were inserted by the Public Interest Disclosure Act [1998 (c. 23)](https://www.legislation.gov.uk/ukpga/1998/23), section 1. Section 43F was also amended by the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), section 18(1)(c).

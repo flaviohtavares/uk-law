@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Provision over 105%[^key-a647751d456a445e8ab3b5fa68e788cc]
+## 28. Provision over 105%[^c-a647751d456a445e8ab3b5fa68e788cc]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In a case where the percentage reported under regulation 24 is over 105% the Loc
 
 ## Annotations
 
-[^key-a647751d456a445e8ab3b5fa68e788cc]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2026/37/regulation/28) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-a647751d456a445e8ab3b5fa68e788cc]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2026/37/regulation/28) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

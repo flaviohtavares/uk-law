@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Enforcement powers: warrants[^key-2ddd92c012756c7dafd75a1f5d1a09d5]
+## 86. Enforcement powers: warrants[^c-2ddd92c012756c7dafd75a1f5d1a09d5]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ddd92c012756c7dafd75a1f5d1a09d5]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2019/17/section/86) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-2ddd92c012756c7dafd75a1f5d1a09d5]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2019/17/section/86) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)

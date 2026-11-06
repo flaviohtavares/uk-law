@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Information requirements relating to loans[^key-6f49ef2af73da69cc7dddfa8a2575b2f]
+## 42. Information requirements relating to loans[^c-6f49ef2af73da69cc7dddfa8a2575b2f]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f49ef2af73da69cc7dddfa8a2575b2f]: Commencement: Reg. 42 in force at 27.5.2019, see reg. 1(2)
+[^c-6f49ef2af73da69cc7dddfa8a2575b2f]: Commencement: Reg. 42 in force at 27.5.2019, see reg. 1(2)

@@ -38,84 +38,84 @@ implementing Directive 2005/32/EC of the European Parliament and of the Council 
 
 (Text with EEA relevance) (revoked)
 
-[^key-480e4d753fc1f8703ec13fa3ebe99c34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-480e4d753fc1f8703ec13fa3ebe99c34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter and scope[^key-480e4d753fc1f8703ec13fa3ebe99c34]
+## Article 1. Subject matter and scope[^c-480e4d753fc1f8703ec13fa3ebe99c34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-480e4d753fc1f8703ec13fa3ebe99c34]
+## Article 2. Definitions[^c-480e4d753fc1f8703ec13fa3ebe99c34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Ecodesign requirements[^key-480e4d753fc1f8703ec13fa3ebe99c34]
+## Article 3. Ecodesign requirements[^c-480e4d753fc1f8703ec13fa3ebe99c34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Conformity assessment[^key-480e4d753fc1f8703ec13fa3ebe99c34]
+## Article 4. Conformity assessment[^c-480e4d753fc1f8703ec13fa3ebe99c34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Verification procedure for market surveillance purposes[^key-480e4d753fc1f8703ec13fa3ebe99c34]
+## Article 5. Verification procedure for market surveillance purposes[^c-480e4d753fc1f8703ec13fa3ebe99c34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Indicative Benchmarks[^key-480e4d753fc1f8703ec13fa3ebe99c34]
+## Article 6. Indicative Benchmarks[^c-480e4d753fc1f8703ec13fa3ebe99c34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Revision[^key-480e4d753fc1f8703ec13fa3ebe99c34]
+## Article 7. Revision[^c-480e4d753fc1f8703ec13fa3ebe99c34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force[^key-480e4d753fc1f8703ec13fa3ebe99c34]
+## Article 8. Entry into force[^c-480e4d753fc1f8703ec13fa3ebe99c34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-480e4d753fc1f8703ec13fa3ebe99c34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-480e4d753fc1f8703ec13fa3ebe99c34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — ECODESIGN REQUIREMENTS FOR MOTORS[^key-480e4d753fc1f8703ec13fa3ebe99c34]
+## ANNEX I — ECODESIGN REQUIREMENTS FOR MOTORS[^c-480e4d753fc1f8703ec13fa3ebe99c34]
 
-[^key-480e4d753fc1f8703ec13fa3ebe99c34]1.
+[^c-480e4d753fc1f8703ec13fa3ebe99c34]1.
 
 MOTOR EFFICIENCY REQUIREMENTS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-480e4d753fc1f8703ec13fa3ebe99c34]2.
+[^c-480e4d753fc1f8703ec13fa3ebe99c34]2.
 
 PRODUCT INFORMATION REQUIREMENTS ON MOTORS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-480e4d753fc1f8703ec13fa3ebe99c34]3.
+[^c-480e4d753fc1f8703ec13fa3ebe99c34]3.
 
 DEFINITIONS FOR THE PURPOSES OF ANNEX I
 
-[^key-480e4d753fc1f8703ec13fa3ebe99c34]1.
+[^c-480e4d753fc1f8703ec13fa3ebe99c34]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-480e4d753fc1f8703ec13fa3ebe99c34]2.
+[^c-480e4d753fc1f8703ec13fa3ebe99c34]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — MEASUREMENTS AND CALCULATIONS[^key-480e4d753fc1f8703ec13fa3ebe99c34]
+## ANNEX II — MEASUREMENTS AND CALCULATIONS[^c-480e4d753fc1f8703ec13fa3ebe99c34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — Product compliance verification by market surveillance authorities[^key-480e4d753fc1f8703ec13fa3ebe99c34]
+## ANNEX III — Product compliance verification by market surveillance authorities[^c-480e4d753fc1f8703ec13fa3ebe99c34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV — INDICATIVE BENCHMARKS REFERRED TO IN ARTICLE 6[^key-480e4d753fc1f8703ec13fa3ebe99c34]
+## ANNEX IV — INDICATIVE BENCHMARKS REFERRED TO IN ARTICLE 6[^c-480e4d753fc1f8703ec13fa3ebe99c34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-480e4d753fc1f8703ec13fa3ebe99c34]: Textual amendment: Regulation revoked (1.7.2021) by [The Ecodesign for Energy Related Products and Energy Information Regulations 2021 (S.I. 2021/745)](https://www.legislation.gov.uk/uksi/2021/745), [reg. 1(2)(h)](https://www.legislation.gov.uk/uksi/2021/745/regulation/1/2/h), [Sch. 29 para. 1](https://www.legislation.gov.uk/uksi/2021/745/schedule/29/paragraph/1) (with [reg. 52](https://www.legislation.gov.uk/uksi/2021/745/regulation/52))
+[^c-480e4d753fc1f8703ec13fa3ebe99c34]: Textual amendment: Regulation revoked (1.7.2021) by [The Ecodesign for Energy Related Products and Energy Information Regulations 2021 (S.I. 2021/745)](https://www.legislation.gov.uk/uksi/2021/745), [reg. 1(2)(h)](https://www.legislation.gov.uk/uksi/2021/745/regulation/1/2/h), [Sch. 29 para. 1](https://www.legislation.gov.uk/uksi/2021/745/schedule/29/paragraph/1) (with [reg. 52](https://www.legislation.gov.uk/uksi/2021/745/regulation/52))

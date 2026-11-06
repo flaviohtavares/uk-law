@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 61. Who may claim[^key-ec9782148d7643bcb47f4d9abaaf2c35]
+## 61. Who may claim[^c-ec9782148d7643bcb47f4d9abaaf2c35]
 
 *Extent: E+W+S*
 
@@ -38,16 +38,16 @@ that receiver, curator, other guardian or attorney, as the case may be, may make
 - (b) the person appointed may resign his office after having given 4 weeks notice in writing to the appropriate authority of his intention to do so;
 - (c) any such appointment shall terminate when the appropriate authority is notified of the appointment of a person mentioned in paragraph (2).
 
-(5) Where a person who is liable to pay council tax in respect of a dwelling is for the time being unable to act and the Secretary of State has appointed a person to act on his behalf under regulation 33 of the Social Security (Claims and Payments) Regulations 1987 (persons unable to act)[^key-027f6e785e9d2a20366558e0d8d4b297], the appropriate authority may if that person so requests in writing, treat him as if he had been appointed by them under paragraph (3).
+(5) Where a person who is liable to pay council tax in respect of a dwelling is for the time being unable to act and the Secretary of State has appointed a person to act on his behalf under regulation 33 of the Social Security (Claims and Payments) Regulations 1987 (persons unable to act)[^c-027f6e785e9d2a20366558e0d8d4b297], the appropriate authority may if that person so requests in writing, treat him as if he had been appointed by them under paragraph (3).
 
 (6) Anything required by these Regulations to be done by or to any person who is for the time being unable to act may be done by or to the person mentioned in paragraph (2) above or by or to the person appointed or treated as appointed under this regulation and the receipt of any such person so appointed shall be a good discharge to the appropriate authority for any sum paid.
 
 ## Annotations
 
-[^key-ec9782148d7643bcb47f4d9abaaf2c35]: Commencement: Reg. 61 in force at 17.8.1992, see [reg. 1(a)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/a)
+[^c-ec9782148d7643bcb47f4d9abaaf2c35]: Commencement: Reg. 61 in force at 17.8.1992, see [reg. 1(a)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/a)
 
 [^f00070]: Footnote: [1971 c. 27](https://www.legislation.gov.uk/ukpga/1971/27).
 
 [^f00071]: Footnote: [1985 c. 29](https://www.legislation.gov.uk/ukpga/1985/29).
 
-[^key-027f6e785e9d2a20366558e0d8d4b297]: Textual amendment: Words in [reg. 61(5)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/61/5) substituted (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/1993/688/regulation/17)
+[^c-027f6e785e9d2a20366558e0d8d4b297]: Textual amendment: Words in [reg. 61(5)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/61/5) substituted (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/1993/688/regulation/17)

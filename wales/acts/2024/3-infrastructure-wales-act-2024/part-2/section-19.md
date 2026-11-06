@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Requirement for infrastructure consent[^key-01a2e8163ef24823790708972d8130a6][^key-c66d5e146ca961eabf1e11b0cea3ac71]
+## 19. Requirement for infrastructure consent[^c-01a2e8163ef24823790708972d8130a6][^c-c66d5e146ca961eabf1e11b0cea3ac71]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The consent of the Welsh Ministers (“infrastructure consent”) is required fo
 
 ## Annotations
 
-[^key-01a2e8163ef24823790708972d8130a6]: Commencement: S. 19 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-01a2e8163ef24823790708972d8130a6]: Commencement: S. 19 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-c66d5e146ca961eabf1e11b0cea3ac71]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2024/3/section/19) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)
+[^c-c66d5e146ca961eabf1e11b0cea3ac71]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2024/3/section/19) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)

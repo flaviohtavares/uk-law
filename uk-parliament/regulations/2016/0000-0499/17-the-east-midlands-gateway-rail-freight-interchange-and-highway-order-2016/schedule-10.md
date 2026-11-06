@@ -22,7 +22,7 @@ summary: ''
 
 Article 19
 
-### PART 1 — CLEARWAYS[^key-17fd03f79972631d4aef63f856079435]
+### PART 1 — CLEARWAYS[^c-17fd03f79972631d4aef63f856079435]
 
 | *(1)*<br>*Location* | *(2)*<br>*Description* | *(3)*<br>*Prohibition of waiting on verges* | *(4)*<br>*Event* |
 | --- | --- | --- | --- |
@@ -33,7 +33,7 @@ Article 19
 | A6 Kegworth Bypass | Between points ix and x along the centreline shown light blue on the traffic regulation plans (Document 2.6B). | No | Opening to traffic of the length of road described in columns (1) and (2). |
 | The roundabout between the A6 London Road and A6 Kegworth Bypass | From point xii returning to point xii along the centreline shown light blue on the traffic regulation plans (Document 2.6B). | No | Opening to traffic of the length of road described in columns (1) and (2). |
 
-### PART 2 — NO WAITING AT ANY TIME[^key-48a0d8ebd7faf6c1a30337a0be666654]
+### PART 2 — NO WAITING AT ANY TIME[^c-48a0d8ebd7faf6c1a30337a0be666654]
 
 | *(1)*<br>*Location* | *(2)*<br>*Length* | *(3)*<br>*Event* |
 | --- | --- | --- |
@@ -43,6 +43,6 @@ Article 19
 
 ## Annotations
 
-[^key-17fd03f79972631d4aef63f856079435]: Commencement: Sch. 10 Pt. 1 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-17fd03f79972631d4aef63f856079435]: Commencement: Sch. 10 Pt. 1 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-48a0d8ebd7faf6c1a30337a0be666654]: Commencement: Sch. 10 Pt. 2 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-48a0d8ebd7faf6c1a30337a0be666654]: Commencement: Sch. 10 Pt. 2 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)

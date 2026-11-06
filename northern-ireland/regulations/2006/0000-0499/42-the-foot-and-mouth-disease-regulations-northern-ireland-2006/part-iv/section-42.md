@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Cleansing and disinfection of vehicles transporting susceptible animals[^key-b1d1fede2e0d9610f8ee1343ee09bb95]
+## 42. Cleansing and disinfection of vehicles transporting susceptible animals[^c-b1d1fede2e0d9610f8ee1343ee09bb95]
 
 *Extent: N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b1d1fede2e0d9610f8ee1343ee09bb95]: Commencement: Reg. 42 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-b1d1fede2e0d9610f8ee1343ee09bb95]: Commencement: Reg. 42 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
 [^f00019]: Footnote: [S.R. 2000 No. 293](https://www.legislation.gov.uk/nisr/2000/293)

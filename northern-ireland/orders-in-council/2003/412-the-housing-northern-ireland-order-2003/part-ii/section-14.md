@@ -34,7 +34,7 @@ summary: ''
 - (c) Part II of Schedule 2 to the Family Homes and Domestic Violence (Northern Ireland) Order 1998 (NI 6) (orders transferring certain tenancies on divorce, etc. or on separation of cohabitees),
 - (d)[^c17101611] Part 2 of Schedule 15, or paragraph 9(2) or (3) of Schedule 17, to the Civil Partnership Act 2004 (property adjustment orders in connection with civil partnership proceedings or after overseas dissolution of civil partnership, etc.),
 
-is a successor only if the other party to the marriage or civil partnership[^key-01be7cef3c30a21f7bbd3eb8be9b152d] was a successor.
+is a successor only if the other party to the marriage or civil partnership[^c-01be7cef3c30a21f7bbd3eb8be9b152d] was a successor.
 
 (3) Where within 6 months of the coming to an end of an introductory tenancy ( “the former tenancy”) the tenant becomes a tenant under another introductory tenancy, and—
 
@@ -47,4 +47,4 @@ the tenant is also a successor in relation to the other tenancy unless the agree
 
 [^c17101611]: Textual amendment: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 
-[^key-01be7cef3c30a21f7bbd3eb8be9b152d]: Textual amendment: Words in [art. 14(2)](https://www.legislation.gov.uk/nisi/2003/412/article/14/2) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [145(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/145/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-01be7cef3c30a21f7bbd3eb8be9b152d]: Textual amendment: Words in [art. 14(2)](https://www.legislation.gov.uk/nisi/2003/412/article/14/2) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [145(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/145/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))

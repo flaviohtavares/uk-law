@@ -32,7 +32,7 @@ summary: ''
 
 AGRICULTURE
 
-The Rural Development Contracts (Rural Priorities) (Scotland) Amendment Regulations 2008 (revoked)[^key-9ee6e76b28b5991f6008a191c0f0d864]
+The Rural Development Contracts (Rural Priorities) (Scotland) Amendment Regulations 2008 (revoked)[^c-9ee6e76b28b5991f6008a191c0f0d864]
 
 Made
 
@@ -46,43 +46,43 @@ Coming into force
 
 28th June 2008
 
-[^key-9ee6e76b28b5991f6008a191c0f0d864]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9ee6e76b28b5991f6008a191c0f0d864]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-9ee6e76b28b5991f6008a191c0f0d864]
+## 1. Citation, commencement and extent[^c-9ee6e76b28b5991f6008a191c0f0d864]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Rural Development Contracts (Rural Priorities) (Scotland) Regulations 2008[^key-9ee6e76b28b5991f6008a191c0f0d864]
+## 2. Amendment of the Rural Development Contracts (Rural Priorities) (Scotland) Regulations 2008[^c-9ee6e76b28b5991f6008a191c0f0d864]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to regulation 2[^key-9ee6e76b28b5991f6008a191c0f0d864]
+## 3. Amendment to regulation 2[^c-9ee6e76b28b5991f6008a191c0f0d864]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment to regulation 9[^key-9ee6e76b28b5991f6008a191c0f0d864]
+## 4. Amendment to regulation 9[^c-9ee6e76b28b5991f6008a191c0f0d864]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment to regulation 12[^key-9ee6e76b28b5991f6008a191c0f0d864]
+## 5. Amendment to regulation 12[^c-9ee6e76b28b5991f6008a191c0f0d864]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment to Schedule 1[^key-9ee6e76b28b5991f6008a191c0f0d864]
+## 6. Amendment to Schedule 1[^c-9ee6e76b28b5991f6008a191c0f0d864]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment to Schedule 2[^key-9ee6e76b28b5991f6008a191c0f0d864]
+## 7. Amendment to Schedule 2[^c-9ee6e76b28b5991f6008a191c0f0d864]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9ee6e76b28b5991f6008a191c0f0d864]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9ee6e76b28b5991f6008a191c0f0d864]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-9ee6e76b28b5991f6008a191c0f0d864]
+## SCHEDULE[^c-9ee6e76b28b5991f6008a191c0f0d864]
 
 Regulation 7
 
@@ -90,8 +90,8 @@ Regulation 7
 
 **May not be in force at this date. Check the source.**
 
-[^key-9ee6e76b28b5991f6008a191c0f0d864]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9ee6e76b28b5991f6008a191c0f0d864]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9ee6e76b28b5991f6008a191c0f0d864]: Textual amendment: Regulations revoked (12.6.2015) by [The Rural Development (Scotland) Regulations 2015 (S.S.I. 2015/192)](https://www.legislation.gov.uk/ssi/2015/192), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2015/192/schedule) (with [reg. 22(2)](https://www.legislation.gov.uk/ssi/2015/192/regulation/22/2))
+[^c-9ee6e76b28b5991f6008a191c0f0d864]: Textual amendment: Regulations revoked (12.6.2015) by [The Rural Development (Scotland) Regulations 2015 (S.S.I. 2015/192)](https://www.legislation.gov.uk/ssi/2015/192), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2015/192/schedule) (with [reg. 22(2)](https://www.legislation.gov.uk/ssi/2015/192/regulation/22/2))

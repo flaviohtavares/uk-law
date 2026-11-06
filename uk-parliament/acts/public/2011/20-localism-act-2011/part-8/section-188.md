@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188. The London housing strategy[^key-a06d21f286c77bf4e87286fe5a7f8446]
+## 188. The London housing strategy[^c-a06d21f286c77bf4e87286fe5a7f8446]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a06d21f286c77bf4e87286fe5a7f8446]: Commencement: [S. 188](https://www.legislation.gov.uk/ukpga/2011/20/section/188) in force at 3.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/a) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))
+[^c-a06d21f286c77bf4e87286fe5a7f8446]: Commencement: [S. 188](https://www.legislation.gov.uk/ukpga/2011/20/section/188) in force at 3.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/a) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))

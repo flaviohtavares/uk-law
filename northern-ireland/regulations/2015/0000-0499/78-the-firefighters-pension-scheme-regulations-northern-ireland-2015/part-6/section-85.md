@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: N.I.*
 
-For the purposes of these Regulations[^key-50569a3efce79b539c5dee941f100ba6] , the “initial period” is the period of 13 weeks commencing on the day after the death of the member during which a bereavement pension may be payable to any surviving partner or eligible child.
+For the purposes of these Regulations[^c-50569a3efce79b539c5dee941f100ba6] , the “initial period” is the period of 13 weeks commencing on the day after the death of the member during which a bereavement pension may be payable to any surviving partner or eligible child.
 
 ## Annotations
 
-[^key-50569a3efce79b539c5dee941f100ba6]: Textual amendment: Words in [reg. 85](https://www.legislation.gov.uk/nisr/2015/78/regulation/85) substituted (retrospective to 1.4.2015) by [The Firefighters Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/nisr/2015/420/schedule/1/paragraph/5/a)
+[^c-50569a3efce79b539c5dee941f100ba6]: Textual amendment: Words in [reg. 85](https://www.legislation.gov.uk/nisr/2015/78/regulation/85) substituted (retrospective to 1.4.2015) by [The Firefighters Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/nisr/2015/420/schedule/1/paragraph/5/a)

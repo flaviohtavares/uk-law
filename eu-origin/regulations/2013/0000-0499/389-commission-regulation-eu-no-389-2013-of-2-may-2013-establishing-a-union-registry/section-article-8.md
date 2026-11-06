@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 8. National administrator[^key-a153d65d09dfc6c1e75f4b38eb3e6d23]
+## Article 8. National administrator[^c-a153d65d09dfc6c1e75f4b38eb3e6d23]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The national administrator must administer the Registry in accordance with this 
 
 ## Annotations
 
-[^key-a153d65d09dfc6c1e75f4b38eb3e6d23]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/2013/389/article/8) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2021/511/regulation/4/4)
+[^c-a153d65d09dfc6c1e75f4b38eb3e6d23]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/2013/389/article/8) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2021/511/regulation/4/4)

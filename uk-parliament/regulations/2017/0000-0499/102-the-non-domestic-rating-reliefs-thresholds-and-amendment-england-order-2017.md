@@ -46,23 +46,23 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 43(4B)(a), 44(9)(a), 45(l)(d), (9) and (10), 143(l) and (2), 146(6) of, and paragraph 2A(2)(a) of Schedule 6 to, the Local Government Finance Act 1988[^f00001], makes the following Order:
 
-## 1. Citation, application and commencement[^key-d7036df34886d81f873e615e00e7cd56]
+## 1. Citation, application and commencement[^c-d7036df34886d81f873e615e00e7cd56]
 
 (1) This Order, which applies in relation to England only, may be cited as the Non-Domestic Rating (Reliefs, Thresholds and Amendment) (England) Order 2017 and comes into force on 3rd March 2017.
 
-(2)[^key-f6f6633cd74d61473fc6bb0e45553c4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f6f6633cd74d61473fc6bb0e45553c4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-d4663f455770e845ab744eebea6c164a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d4663f455770e845ab744eebea6c164a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Conditions for relief[^key-38bf393db8f00445d88317952f105978]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 3. Amount of E[^key-733105fae1c5d7483c93ab86888f3adf]
+## 2. Conditions for relief[^c-38bf393db8f00445d88317952f105978]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Non-Domestic Rating (Unoccupied Property) (England) Regulations 2008[^key-73ae25038323642ffd3fc9dd13294bbe]
+## 3. Amount of E[^c-733105fae1c5d7483c93ab86888f3adf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of the Non-Domestic Rating (Unoccupied Property) (England) Regulations 2008[^c-73ae25038323642ffd3fc9dd13294bbe]
 
 (1) The Non-Domestic Rating (Unoccupied Property) (England) Regulations 2008[^f00002] are amended in accordance with paragraph (2).
 
@@ -75,7 +75,7 @@ The Secretary of State, in exercise of the powers conferred by sections 43(4B)(a
 >   - (iv) in relation to the financial years beginning on 1st April 2011, 1st April 2012, 1st April 2013, 1st April 2014, 1st April 2015 and 1st April 2016, £2,600;
 >   - (v) in relation to financial years beginning on or after 1st April 2017, £2,900.
 
-## 5. Amendment of the Non-Domestic Rating (Stud Farms) (England) Order 2009[^key-d483dede69de64cabbf72a0d05345819]
+## 5. Amendment of the Non-Domestic Rating (Stud Farms) (England) Order 2009[^c-d483dede69de64cabbf72a0d05345819]
 
 (1) The Non-Domestic Rating (Stud Farms) (England) Order 2009[^f00003] is amended in accordance with paragraph (2).
 
@@ -86,7 +86,7 @@ The Secretary of State, in exercise of the powers conferred by sections 43(4B)(a
 > - (a) in respect of the rateable value of any hereditament shown in a non-domestic rating list compiled on 1st April 2010, £4,200;
 > - (b) in respect of the rateable value of any hereditament shown in a non-domestic rating list compiled on or after 1st April 2017, £4,700.
 
-## 6. Revocations[^key-f0c33045c6446e1e5f943b28d7671dce]
+## 6. Revocations[^c-f0c33045c6446e1e5f943b28d7671dce]
 
 (1) Subject to paragraph (2), the Non-Domestic Rating (Small Business Rate Relief) (England) Order 2012[^f00004] is revoked.
 
@@ -124,24 +124,24 @@ An impact assessment has not been produced for this instrument because it amends
 
 [^f00001]: Footnote: [1988, c.41](https://www.legislation.gov.uk/ukpga/1988/41). Sections 43(4A) to (4D) and 44(7) to (9) were inserted by section 61 of the Local Government Act [2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26). Subsections (4B) to (4D) of section 43 were amended by section 70 of the Localism Act [2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20). Section 44 has been amended by sections 139 and 194 of, and Schedule 5 to, the Local Government and Housing Act [1989 (c.42)](https://www.legislation.gov.uk/ukpga/1989/42) and section 117 of, and Schedule 13 to, the Local Government Finance Act [1992 (c.14)](https://www.legislation.gov.uk/ukpga/1992/14).
 
-[^key-d7036df34886d81f873e615e00e7cd56]: Commencement: Art. 1 in force at 3.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/102/article/1/1)
+[^c-d7036df34886d81f873e615e00e7cd56]: Commencement: Art. 1 in force at 3.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/102/article/1/1)
 
-[^key-f6f6633cd74d61473fc6bb0e45553c4f]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/uksi/2017/102/article/1/2) omitted (1.4.2024) by virtue of [The Non-Domestic Rating (Small Business Rate Relief) (England) Regulations 2023 (S.I. 2023/1250)](https://www.legislation.gov.uk/uksi/2023/1250), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1250/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2023/1250/regulation/4/2)
+[^c-f6f6633cd74d61473fc6bb0e45553c4f]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/uksi/2017/102/article/1/2) omitted (1.4.2024) by virtue of [The Non-Domestic Rating (Small Business Rate Relief) (England) Regulations 2023 (S.I. 2023/1250)](https://www.legislation.gov.uk/uksi/2023/1250), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1250/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2023/1250/regulation/4/2)
 
-[^key-d4663f455770e845ab744eebea6c164a]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/uksi/2017/102/article/1/3) omitted (1.4.2024) by virtue of [The Non-Domestic Rating (Small Business Rate Relief) (England) Regulations 2023 (S.I. 2023/1250)](https://www.legislation.gov.uk/uksi/2023/1250), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1250/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2023/1250/regulation/4/2)
+[^c-d4663f455770e845ab744eebea6c164a]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/uksi/2017/102/article/1/3) omitted (1.4.2024) by virtue of [The Non-Domestic Rating (Small Business Rate Relief) (England) Regulations 2023 (S.I. 2023/1250)](https://www.legislation.gov.uk/uksi/2023/1250), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1250/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2023/1250/regulation/4/2)
 
-[^key-38bf393db8f00445d88317952f105978]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2017/102/article/2) omitted (1.4.2024) by virtue of [The Non-Domestic Rating (Small Business Rate Relief) (England) Regulations 2023 (S.I. 2023/1250)](https://www.legislation.gov.uk/uksi/2023/1250), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1250/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2023/1250/regulation/4/3)
+[^c-38bf393db8f00445d88317952f105978]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2017/102/article/2) omitted (1.4.2024) by virtue of [The Non-Domestic Rating (Small Business Rate Relief) (England) Regulations 2023 (S.I. 2023/1250)](https://www.legislation.gov.uk/uksi/2023/1250), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1250/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2023/1250/regulation/4/3)
 
-[^key-733105fae1c5d7483c93ab86888f3adf]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2017/102/article/3) omitted (1.4.2024) by virtue of [The Non-Domestic Rating (Small Business Rate Relief) (England) Regulations 2023 (S.I. 2023/1250)](https://www.legislation.gov.uk/uksi/2023/1250), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1250/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2023/1250/regulation/4/3)
+[^c-733105fae1c5d7483c93ab86888f3adf]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2017/102/article/3) omitted (1.4.2024) by virtue of [The Non-Domestic Rating (Small Business Rate Relief) (England) Regulations 2023 (S.I. 2023/1250)](https://www.legislation.gov.uk/uksi/2023/1250), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1250/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2023/1250/regulation/4/3)
 
-[^key-73ae25038323642ffd3fc9dd13294bbe]: Commencement: Art. 4 in force at 3.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/102/article/1/1)
+[^c-73ae25038323642ffd3fc9dd13294bbe]: Commencement: Art. 4 in force at 3.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/102/article/1/1)
 
 [^f00002]: Footnote: [S.I. 2008/386](https://www.legislation.gov.uk/uksi/2008/386), amended by [S.I. 2009/353](https://www.legislation.gov.uk/uksi/2009/353), [S.I. 2010/408](https://www.legislation.gov.uk/uksi/2010/408) and [S.I. 2015/1641](https://www.legislation.gov.uk/uksi/2015/1641).
 
-[^key-d483dede69de64cabbf72a0d05345819]: Commencement: Art. 5 in force at 3.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/102/article/1/1)
+[^c-d483dede69de64cabbf72a0d05345819]: Commencement: Art. 5 in force at 3.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/102/article/1/1)
 
 [^f00003]: Footnote: [S.I. 2009/3177](https://www.legislation.gov.uk/uksi/2009/3177)
 
-[^key-f0c33045c6446e1e5f943b28d7671dce]: Commencement: Art. 6 in force at 3.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/102/article/1/1)
+[^c-f0c33045c6446e1e5f943b28d7671dce]: Commencement: Art. 6 in force at 3.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/102/article/1/1)
 
 [^f00004]: Footnote: [S.I. 2012/148](https://www.legislation.gov.uk/uksi/2012/148), amended by [S.I. 2013/15](https://www.legislation.gov.uk/uksi/2013/15), [S.I. 2014/43](https://www.legislation.gov.uk/uksi/2014/43), [S.I. 2015/106](https://www.legislation.gov.uk/uksi/2015/106) and [S.I. 2016/143](https://www.legislation.gov.uk/uksi/2016/143).

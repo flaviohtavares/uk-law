@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 227G. When pension rights are first flexibly accessed[^key-537d03a67bd5d346f54e3df8660b9aeb]
+## 227G. When pension rights are first flexibly accessed[^c-537d03a67bd5d346f54e3df8660b9aeb]
 
 *Extent: E+W+S+N.I.*
 
-[^key-7055643fff30dd4e1a4ed50a34b655c1]
+[^c-7055643fff30dd4e1a4ed50a34b655c1]
 
 (1) References in sections 227B to 227F to when the individual first flexibly accesses pension rights are to the time, or the earlier or earliest of the times, given for that by the following subsections.
 
@@ -60,7 +60,7 @@ the individual first flexibly accesses pension rights immediately before the fir
 
 (9) If—
 
-- (a) the individual is entitled to payment of a scheme pension under a relevant[^key-16d3e0cf8b24cff91fa826747d0ff731] arrangement under a registered pension scheme,
+- (a) the individual is entitled to payment of a scheme pension under a relevant[^c-16d3e0cf8b24cff91fa826747d0ff731] arrangement under a registered pension scheme,
 - (b) the individual became entitled to the scheme pension—
   - (i) on or after 6 April 2015, and
   - (ii) at a time when fewer than 11 other individuals were entitled to the present payment of a scheme pension, or dependants' scheme pension, under the registered pension scheme, and
@@ -68,7 +68,7 @@ the individual first flexibly accesses pension rights immediately before the fir
 
 the individual first flexibly accesses pension rights immediately before the first payment of the scheme pension is made.
 
-(9A)[^key-2038d11f3648dc384b7456e1a10530a0] In subsection (9), “**relevant arrangement**” means a money purchase arrangement that is not a collective money purchase arrangement.
+(9A)[^c-2038d11f3648dc384b7456e1a10530a0] In subsection (9), “**relevant arrangement**” means a money purchase arrangement that is not a collective money purchase arrangement.
 
 (10) In subsections (2), (4) and (5), a reference to a qualifying payment from a fund is a reference to—
 
@@ -77,16 +77,16 @@ the individual first flexibly accesses pension rights immediately before the fir
 
 but does not include payment at a time when the whole of the fund represents rights attributable to a disqualifying pension credit.
 
-(11)[^key-270cf8146d853f79dd49029cba9cff96] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-270cf8146d853f79dd49029cba9cff96] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-537d03a67bd5d346f54e3df8660b9aeb]: Textual amendment: Ss. 227B-227G inserted (17.12.2014) (with effect in accordance with Sch. 1 para. 65(2) of the amending Act) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 65(1)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/65/1)
+[^c-537d03a67bd5d346f54e3df8660b9aeb]: Textual amendment: Ss. 227B-227G inserted (17.12.2014) (with effect in accordance with Sch. 1 para. 65(2) of the amending Act) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 65(1)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/65/1)
 
-[^key-7055643fff30dd4e1a4ed50a34b655c1]: Modification: Pt. 4 modified (with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/52/regulation/6)
+[^c-7055643fff30dd4e1a4ed50a34b655c1]: Modification: Pt. 4 modified (with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/52/regulation/6)
 
-[^key-16d3e0cf8b24cff91fa826747d0ff731]: Textual amendment: Word in [s. 227G(9)(a)](https://www.legislation.gov.uk/ukpga/2004/12/section/227G/9/a) substituted (1.8.2022) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 5 paras. 17(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/17/2), [25(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/25/1); [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-16d3e0cf8b24cff91fa826747d0ff731]: Textual amendment: Word in [s. 227G(9)(a)](https://www.legislation.gov.uk/ukpga/2004/12/section/227G/9/a) substituted (1.8.2022) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 5 paras. 17(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/17/2), [25(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/25/1); [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
 
-[^key-2038d11f3648dc384b7456e1a10530a0]: Textual amendment: [S. 227G(9A)](https://www.legislation.gov.uk/ukpga/2004/12/section/227G/9A) inserted (1.8.2022) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 5 paras. 17(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/17/3), [25(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/25/1); [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-2038d11f3648dc384b7456e1a10530a0]: Textual amendment: [S. 227G(9A)](https://www.legislation.gov.uk/ukpga/2004/12/section/227G/9A) inserted (1.8.2022) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 5 paras. 17(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/17/3), [25(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/25/1); [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
 
-[^key-270cf8146d853f79dd49029cba9cff96]: Textual amendment: [S. 227G(11)](https://www.legislation.gov.uk/ukpga/2004/12/section/227G/11) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 19](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/19), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4); and (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [S.I. 2024/1012](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17))
+[^c-270cf8146d853f79dd49029cba9cff96]: Textual amendment: [S. 227G(11)](https://www.legislation.gov.uk/ukpga/2004/12/section/227G/11) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 19](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/19), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4); and (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [S.I. 2024/1012](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17))

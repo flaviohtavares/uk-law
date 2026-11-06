@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-d1aa074ee8a4469703ab99843177ff04] Where an eligible student’s period of eligibility has ended or has been terminated, any amount of grant or maintenance loan payable in respect of an academic year is reduced by the number of days in the academic year when eligibility has ended or terminated.
+(1)[^c-d1aa074ee8a4469703ab99843177ff04] Where an eligible student’s period of eligibility has ended or has been terminated, any amount of grant or maintenance loan payable in respect of an academic year is reduced by the number of days in the academic year when eligibility has ended or terminated.
 
 (2) The Welsh Ministers may not make any payment of an amount of grant or maintenance loan in respect of any payment period beginning after an eligible student's period of eligibility has ended or has been terminated.
 
@@ -63,4 +63,4 @@ the amount of grant payable is the partial amount unless paragraph (8) applies.
 
 ## Annotations
 
-[^key-d1aa074ee8a4469703ab99843177ff04]: Textual amendment: [Reg. 95(1)](https://www.legislation.gov.uk/wsi/2018/191/regulation/95/1) substituted (1.8.2018) by [The Education (Student Support) (Wales) (Amendment) Regulations 2018 (S.I. 2018/813)](https://www.legislation.gov.uk/wsi/2018/813), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/813/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2018/813/regulation/10)
+[^c-d1aa074ee8a4469703ab99843177ff04]: Textual amendment: [Reg. 95(1)](https://www.legislation.gov.uk/wsi/2018/191/regulation/95/1) substituted (1.8.2018) by [The Education (Student Support) (Wales) (Amendment) Regulations 2018 (S.I. 2018/813)](https://www.legislation.gov.uk/wsi/2018/813), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/813/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2018/813/regulation/10)

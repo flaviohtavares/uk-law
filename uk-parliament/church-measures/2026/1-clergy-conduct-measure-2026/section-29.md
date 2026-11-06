@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 29. Bishop’s disciplinary tribunal[^key-adfccbd46783e1dc69a27705c747bd6d]
+## 29. Bishop’s disciplinary tribunal[^c-adfccbd46783e1dc69a27705c747bd6d]
 
 *Extent: E*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-adfccbd46783e1dc69a27705c747bd6d]: Commencement: S. 29 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-adfccbd46783e1dc69a27705c747bd6d]: Commencement: S. 29 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

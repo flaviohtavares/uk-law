@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Protective works[^key-09f27de476df800c3128384aa6fdeb4b]
+## 20. Protective works[^c-09f27de476df800c3128384aa6fdeb4b]
 
 *Extent: E+W+S*
 
@@ -77,7 +77,7 @@ the undertaker must compensate the owners and occupiers of the land, building, s
 
 ## Annotations
 
-[^key-09f27de476df800c3128384aa6fdeb4b]: Commencement: Art. 20 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-09f27de476df800c3128384aa6fdeb4b]: Commencement: Art. 20 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
 
 [^f00064]: Footnote: Section 152 was amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

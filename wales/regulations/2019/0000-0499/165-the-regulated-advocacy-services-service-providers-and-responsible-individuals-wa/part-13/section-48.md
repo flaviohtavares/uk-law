@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Duty to ensure there are systems in place for keeping of records[^key-c3f7c3fd74c7fdc96e83b8f017b9c8ab]
+## 48. Duty to ensure there are systems in place for keeping of records[^c-c3f7c3fd74c7fdc96e83b8f017b9c8ab]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The responsible individual must ensure that there are effective systems in place
 
 ## Annotations
 
-[^key-c3f7c3fd74c7fdc96e83b8f017b9c8ab]: Commencement: [Reg. 48](https://www.legislation.gov.uk/wsi/2019/165/regulation/48) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-c3f7c3fd74c7fdc96e83b8f017b9c8ab]: Commencement: [Reg. 48](https://www.legislation.gov.uk/wsi/2019/165/regulation/48) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)

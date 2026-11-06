@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**15.**[^key-bd494febb47730abda367c58622e75f5] In section 63(8) (provision of instruction in certain activities connected with health or welfare), in the definition of “the relevant enactments”—
+**15.**[^c-bd494febb47730abda367c58622e75f5] In section 63(8) (provision of instruction in certain activities connected with health or welfare), in the definition of “the relevant enactments”—
 
 - (a) in paragraph (a)[^f00013] after “2006” insert “or for the purposes of the Social Services and Well-being (Wales) Act 2014”;
 - (b) in paragraph (b)[^f00014]—
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bd494febb47730abda367c58622e75f5]: Commencement: Reg. 15 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-bd494febb47730abda367c58622e75f5]: Commencement: Reg. 15 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00013]: Footnote: Paragraph (a) was amended by the Health and Medicines Act [1988 (c. 49)](https://www.legislation.gov.uk/ukpga/1988/49), section 20, by the Children Act [2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), section 55(3), by the National Health Service Act [1977 (c. 49)](https://www.legislation.gov.uk/ukpga/1977/49), section 129, Schedule 15, paragraph 45 and by the National Health Service (Consequential Provisions) Act [2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), section 2, Schedule 1, paragraphs 33 and 38(e)(ii).
 

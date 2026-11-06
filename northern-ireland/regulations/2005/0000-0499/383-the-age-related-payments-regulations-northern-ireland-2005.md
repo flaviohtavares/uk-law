@@ -39,11 +39,11 @@ Coming into operation
 
 1st September 2005
 
-The Department for Social Development, in exercise of the powers conferred by Article 9 of the Age-Related Payments (Northern Ireland) Order 2004[^f00001], and of all other powers enabling it in that behalf, hereby makes the following Regulations:[^key-21c95cc0ffdfb7cb92365de245f3b867]
+The Department for Social Development, in exercise of the powers conferred by Article 9 of the Age-Related Payments (Northern Ireland) Order 2004[^f00001], and of all other powers enabling it in that behalf, hereby makes the following Regulations:[^c-21c95cc0ffdfb7cb92365de245f3b867]
 
 ## PART I — General
 
-### 1. Citation, commencement and interpretation[^key-8c1b863eee46cead55dd48d316f89788]
+### 1. Citation, commencement and interpretation[^c-8c1b863eee46cead55dd48d316f89788]
 
 (1) These regulations may be cited as the Age-Related Payments Regulations (Northern Ireland) 2005 and shall come into operation on 1st September 2005.
 
@@ -74,7 +74,7 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
 ## PART II — Payments to Persons over the age of 65
 
-### 2. Entitlement: basic cases[^key-1f22df743c1823003bcf6e97697145a3]
+### 2. Entitlement: basic cases[^c-1f22df743c1823003bcf6e97697145a3]
 
 (1) A qualifying individual shall be entitled to a payment of £200 if at any time in the relevant week—
 
@@ -97,7 +97,7 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
 (5) This regulation is subject to regulation 3.
 
-### 3. Entitlement: special cases[^key-708841d00cbee555baa6f2501bc7e593]
+### 3. Entitlement: special cases[^c-708841d00cbee555baa6f2501bc7e593]
 
 (1) Where—
 
@@ -144,7 +144,7 @@ then—
 
 ## PART III — Payments to Persons over the age of 70
 
-### 4. Entitlement: guarantee credit basic cases[^key-6673e16bed2528b6a6497f487149dff5]
+### 4. Entitlement: guarantee credit basic cases[^c-6673e16bed2528b6a6497f487149dff5]
 
 (1) A qualifying individual shall be entitled to a payment of £50 if at any time in the relevant week he is single.
 
@@ -157,7 +157,7 @@ then—
 
 (4) This regulation is subject to regulation 5.
 
-### 5. Entitlement: guarantee credit special cases[^key-2af4b19cc2811d185f65f8771652490c]
+### 5. Entitlement: guarantee credit special cases[^c-2af4b19cc2811d185f65f8771652490c]
 
 (1) Where—
 
@@ -180,7 +180,7 @@ then—
 
 ## PART IV — Disqualifications, Procedure Etc.
 
-### 6. Disqualifications[^key-94c6d0e0d2faa266f3e7085e7f938cfc]
+### 6. Disqualifications[^c-94c6d0e0d2faa266f3e7085e7f938cfc]
 
 (1) A person who would (but for this regulation) be entitled to a payment under any of regulations 2 to 5 shall not be entitled to the payment if—
 
@@ -196,7 +196,7 @@ then—
 
 (3) Where a person to whom this regulation applies is part of a couple, in the application of these Regulations to the other member of the couple, the person to whom this regulation applies shall be treated as a non-qualifying individual.
 
-### 7. Procedure[^key-5d8245b525f5f753a2f4b9c76d25511a]
+### 7. Procedure[^c-5d8245b525f5f753a2f4b9c76d25511a]
 
 (1) Where before 31st December 2005 the Department thinks that a person is entitled to a payment under any of regulations 2 to 5, the Department shall make the payment before that date without a claim being required.
 
@@ -217,11 +217,11 @@ then—
 
 (6) The provisions of Chapter II of Part II of the Social Security (Northern Ireland) Order 1998[^f00009] (Social Security Decisions and Appeals) shall apply to a decision of the Department about a person’s entitlement to a payment under regulations 2 to 5 (whether or not following a claim) as they apply to a decision of the Department under Article 9 of that Order.
 
-### 8. Payment to be disregarded for social security[^key-329650063bb605f6bab1db8966805d38]
+### 8. Payment to be disregarded for social security[^c-329650063bb605f6bab1db8966805d38]
 
 No account shall be taken of entitlement to a payment under any of regulations 2 to 5 in considering a person’s entitlement to benefit under a statutory provision relating to social security (irrespective of the name or nature of the benefit).
 
-### 9. Application of section 69 of the Social Security Administration Act[^key-79adc18358ad02c997e959c1b7a90526]
+### 9. Application of section 69 of the Social Security Administration Act[^c-79adc18358ad02c997e959c1b7a90526]
 
 Section 69 of the Social Security Administration (Northern Ireland) Act 1992[^f00010] (overpayments – general) and regulations made under it shall apply in respect of any payment made under these Regulations as they apply to the benefits specified in subsection (11) of that section.
 
@@ -259,9 +259,9 @@ A regulatory impact assessment has not been produced for this rule as it has no 
 
 [^f00001]: Footnote: S.I. [2004/1987 (N.I. 11)](https://www.legislation.gov.uk/nisi/2004/1987)
 
-[^key-21c95cc0ffdfb7cb92365de245f3b867]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2005/383) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010 (S.R. 2010/312)](https://www.legislation.gov.uk/nisr/2010/312), [regs. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1), [16(2)(g)](https://www.legislation.gov.uk/nisr/2010/312/regulation/16/2/g), [Sch. 3](https://www.legislation.gov.uk/nisr/2010/312/schedule/3)
+[^c-21c95cc0ffdfb7cb92365de245f3b867]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2005/383) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010 (S.R. 2010/312)](https://www.legislation.gov.uk/nisr/2010/312), [regs. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1), [16(2)(g)](https://www.legislation.gov.uk/nisr/2010/312/regulation/16/2/g), [Sch. 3](https://www.legislation.gov.uk/nisr/2010/312/schedule/3)
 
-[^key-8c1b863eee46cead55dd48d316f89788]: Commencement: Reg. 1 in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/383/regulation/1/1)
+[^c-8c1b863eee46cead55dd48d316f89788]: Commencement: Reg. 1 in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/383/regulation/1/1)
 
 [^f00002]: Footnote: [2002 c. 14 (N.I.)](https://www.legislation.gov.uk/nia/2002/14)
 
@@ -271,28 +271,28 @@ A regulatory impact assessment has not been produced for this rule as it has no 
 
 [^f00005]: Footnote: S.I. [2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431); Articles 10 and 11 came into operation on 1st April 2005 under the provisions of the Health and Personal Social Services (Quality, Improvement and Regulation)(2003 Order) (Commencement No. 3 & Transitional Provisions) Order (Northern Ireland) 2005 [S.R. 2005 No. 44 (C. 4)](https://www.legislation.gov.uk/nisr/2005/44)
 
-[^key-1f22df743c1823003bcf6e97697145a3]: Commencement: Reg. 2 in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/383/regulation/1/1)
+[^c-1f22df743c1823003bcf6e97697145a3]: Commencement: Reg. 2 in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/383/regulation/1/1)
 
-[^key-708841d00cbee555baa6f2501bc7e593]: Commencement: Reg. 3 in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/383/regulation/1/1)
+[^c-708841d00cbee555baa6f2501bc7e593]: Commencement: Reg. 3 in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/383/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 2000 No. 91](https://www.legislation.gov.uk/nisr/2000/91)
 
-[^key-6673e16bed2528b6a6497f487149dff5]: Commencement: Reg. 4 in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/383/regulation/1/1)
+[^c-6673e16bed2528b6a6497f487149dff5]: Commencement: Reg. 4 in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/383/regulation/1/1)
 
-[^key-2af4b19cc2811d185f65f8771652490c]: Commencement: Reg. 5 in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/383/regulation/1/1)
+[^c-2af4b19cc2811d185f65f8771652490c]: Commencement: Reg. 5 in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/383/regulation/1/1)
 
-[^key-94c6d0e0d2faa266f3e7085e7f938cfc]: Commencement: Reg. 6 in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/383/regulation/1/1)
+[^c-94c6d0e0d2faa266f3e7085e7f938cfc]: Commencement: Reg. 6 in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/383/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1975 No. 109](https://www.legislation.gov.uk/nisr/1975/109); paragraph (2) was substituted by regulation 2 of [S.R. 1992 No. 453](https://www.legislation.gov.uk/nisr/1992/453) and paragraph (2A) was inserted by regulation 2 of [S.R. 1999 No. 221](https://www.legislation.gov.uk/nisr/1999/221)
 
 [^f00008]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33); section 115 was amended by section 4(2) of the State Pension Credit Act (Northern Ireland) 2002, section 4(2) of the State Pension Credit Act [2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), paragraph 21 of Schedule 4, and Schedule 6 to the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21) and paragraph 3 of the Schedule to S.I. [2002/1457](https://www.legislation.gov.uk/uksi/2002/1457)
 
-[^key-5d8245b525f5f753a2f4b9c76d25511a]: Commencement: Reg. 7 in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/383/regulation/1/1)
+[^c-5d8245b525f5f753a2f4b9c76d25511a]: Commencement: Reg. 7 in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/383/regulation/1/1)
 
 [^f00009]: Footnote: S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 
-[^key-329650063bb605f6bab1db8966805d38]: Commencement: Reg. 8 in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/383/regulation/1/1)
+[^c-329650063bb605f6bab1db8966805d38]: Commencement: Reg. 8 in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/383/regulation/1/1)
 
-[^key-79adc18358ad02c997e959c1b7a90526]: Commencement: Reg. 9 in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/383/regulation/1/1)
+[^c-79adc18358ad02c997e959c1b7a90526]: Commencement: Reg. 9 in operation at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/383/regulation/1/1)
 
 [^f00010]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 69 was amended by Article 33(1) of, and paragraph 31 of Schedule 2 and Schedule 3 to the Jobseekers (Northern Ireland) Order 1995, section 2 of the Social Security (Overpayments) Act [1996 (c. 51)](https://www.legislation.gov.uk/ukpga/1996/51), paragraph 62 of Schedule 6 to the Social Security (Northern Ireland) Order 1998, paragraph 8 of Schedule 4 and Schedule 6 to the Tax Credits Act 2002 and paragraph 10 of Schedule 2 to the State Pension Credit Act (Northern Ireland) 2002

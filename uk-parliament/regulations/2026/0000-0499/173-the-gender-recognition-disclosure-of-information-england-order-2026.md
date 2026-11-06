@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes this Order in exercise of the powers conferred by sections 22(5) and (7) and 24(1) of the Gender Recognition Act 2004[^f00001].
 
-## 1. Citation, commencement, expiry, extent and application[^key-e6b1f742eae875ab9ed305240c6416d6]
+## 1. Citation, commencement, expiry, extent and application[^c-e6b1f742eae875ab9ed305240c6416d6]
 
 (1) This Order may be cited as the Gender Recognition (Disclosure of Information) (England) Order 2026 and shall come into force on 20th March 2026.
 
@@ -57,7 +57,7 @@ The Secretary of State makes this Order in exercise of the powers conferred by s
 - (a) extends to England and Wales, and
 - (b) applies in relation to England only.
 
-## 2. Disclosure for the purposes of the data linkage study[^key-b63d804a237c750e02c6a192ea077ee5]
+## 2. Disclosure for the purposes of the data linkage study[^c-b63d804a237c750e02c6a192ea077ee5]
 
 (1) It is not an offence under section 22(1) of the Gender Recognition Act 2004 for an authorised person to disclose protected information to another authorised person where the disclosure is—
 
@@ -72,7 +72,7 @@ The Secretary of State makes this Order in exercise of the powers conferred by s
   - (i) referred to the GIDS, and
   - (ii) below the age of 18 at the time of their referral.
 
-## 3. Revocation and savings[^key-a7943703d10b1b0fa17036723e6f770a]
+## 3. Revocation and savings[^c-a7943703d10b1b0fa17036723e6f770a]
 
 (1) The Gender Recognition (Disclosure of Information) (England) Order 2022 (“**the 2022 Order**”)[^f00004] is revoked.
 
@@ -86,67 +86,67 @@ Department of Health and Social Care
 
 25th February 2026
 
-## Schedule — Authorised persons[^key-f7d0528c18a5db48c55d14fc50f5aa80]
+## Schedule — Authorised persons[^c-f7d0528c18a5db48c55d14fc50f5aa80]
 
 Article 2(2)
 
-[^key-f7d0528c18a5db48c55d14fc50f5aa80]
+[^c-f7d0528c18a5db48c55d14fc50f5aa80]
 
 Chelsea and Westminster Hospital National Health Service Foundation Trust[^f00005]
 
-[^key-f7d0528c18a5db48c55d14fc50f5aa80]
+[^c-f7d0528c18a5db48c55d14fc50f5aa80]
 
 Cumbria, Northumberland, Tyne and Wear National Health Service Foundation Trust[^f00006]
 
-[^key-f7d0528c18a5db48c55d14fc50f5aa80]
+[^c-f7d0528c18a5db48c55d14fc50f5aa80]
 
 Devon Partnership National Health Service Trust[^f00007]
 
-[^key-f7d0528c18a5db48c55d14fc50f5aa80]
+[^c-f7d0528c18a5db48c55d14fc50f5aa80]
 
 GTD Healthcare Limited[^f00008]
 
-[^key-f7d0528c18a5db48c55d14fc50f5aa80]
+[^c-f7d0528c18a5db48c55d14fc50f5aa80]
 
 LGBT Foundation Ltd[^f00009]
 
-[^key-f7d0528c18a5db48c55d14fc50f5aa80]
+[^c-f7d0528c18a5db48c55d14fc50f5aa80]
 
 NHS England[^f00010]
 
-[^key-f7d0528c18a5db48c55d14fc50f5aa80]
+[^c-f7d0528c18a5db48c55d14fc50f5aa80]
 
 Leeds and York Partnership National Health Service Foundation Trust[^f00011]
 
-[^key-f7d0528c18a5db48c55d14fc50f5aa80]
+[^c-f7d0528c18a5db48c55d14fc50f5aa80]
 
 Leeds Teaching Hospitals National Health Service Trust[^f00012]
 
-[^key-f7d0528c18a5db48c55d14fc50f5aa80]
+[^c-f7d0528c18a5db48c55d14fc50f5aa80]
 
 Mersey Care National Health Service Foundation Trust[^f00013]
 
-[^key-f7d0528c18a5db48c55d14fc50f5aa80]
+[^c-f7d0528c18a5db48c55d14fc50f5aa80]
 
 Northamptonshire Healthcare National Health Service Foundation Trust[^f00014]
 
-[^key-f7d0528c18a5db48c55d14fc50f5aa80]
+[^c-f7d0528c18a5db48c55d14fc50f5aa80]
 
 Nottinghamshire Healthcare National Health Service Foundation Trust[^f00015]
 
-[^key-f7d0528c18a5db48c55d14fc50f5aa80]
+[^c-f7d0528c18a5db48c55d14fc50f5aa80]
 
 Sheffield Health Partnership University National Health Service Foundation Trust[^f00016]
 
-[^key-f7d0528c18a5db48c55d14fc50f5aa80]
+[^c-f7d0528c18a5db48c55d14fc50f5aa80]
 
 Tavistock and Portman National Health Service Foundation Trust[^f00017]
 
-[^key-f7d0528c18a5db48c55d14fc50f5aa80]
+[^c-f7d0528c18a5db48c55d14fc50f5aa80]
 
 University College London Hospitals National Health Service Foundation Trust[^f00018]
 
-[^key-f7d0528c18a5db48c55d14fc50f5aa80]
+[^c-f7d0528c18a5db48c55d14fc50f5aa80]
 
 The Department of Health and Social Care
 
@@ -170,19 +170,19 @@ An Explanatory Memorandum for this instrument has been published alongside this 
 
 [^f00001]: Footnote: [2004 c. 7](https://www.legislation.gov.uk/ukpga/2004/7); section 22(2)(a) was amended by the Marriage (Same Sex Couples) Act [2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), Schedule 5, paragraph 13, and the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), section 250(5)(c).
 
-[^key-e6b1f742eae875ab9ed305240c6416d6]: Commencement: Reg. 1 in force at 20.3.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/173/regulation/1/1)
+[^c-e6b1f742eae875ab9ed305240c6416d6]: Commencement: Reg. 1 in force at 20.3.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/173/regulation/1/1)
 
-[^key-b63d804a237c750e02c6a192ea077ee5]: Commencement: Reg. 2 in force at 20.3.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/173/regulation/1/1)
+[^c-b63d804a237c750e02c6a192ea077ee5]: Commencement: Reg. 2 in force at 20.3.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/173/regulation/1/1)
 
 [^f00002]: Footnote: Authorised as an NHS Foundation Trust on 1st November 2006 pursuant to section 35 of the National Health Service Act [2006 (c. 41)](https://www.legislation.gov.uk/ukpga/2006/41) (“**the 2006 Act**”). The NHS provider directory showing details of Foundation Trusts can be found at https://www.england.nhs.uk/publication/nhs-provider-directory.
 
 [^f00003]: Footnote: The final report is available at the following web-link: https://webarchive.nationalarchives.gov.uk/ukgwa/20250310143933/https://cass.independent-review.uk/home/publications/final-report. A copy can be obtained by writing to NHS England, PO Box 16738, Redditch, B97 9PT.
 
-[^key-a7943703d10b1b0fa17036723e6f770a]: Commencement: Reg. 3 in force at 20.3.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/173/regulation/1/1)
+[^c-a7943703d10b1b0fa17036723e6f770a]: Commencement: Reg. 3 in force at 20.3.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/173/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2022/742](https://www.legislation.gov.uk/uksi/2022/742).
 
-[^key-f7d0528c18a5db48c55d14fc50f5aa80]: Commencement: Sch. in force at 20.3.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/173/regulation/1/1)
+[^c-f7d0528c18a5db48c55d14fc50f5aa80]: Commencement: Sch. in force at 20.3.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/173/regulation/1/1)
 
 [^f00005]: Footnote: Authorised as an NHS Foundation Trust on 1st May 2007 pursuant to section 35 of the 2006 Act.
 

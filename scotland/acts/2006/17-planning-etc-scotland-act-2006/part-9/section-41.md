@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Approval in ballot – alternative conditions[^key-c1514998b6fb1cf4849e2d78a627f5b3][^key-ea21b56f4fbf73c732d7c597ba673c1f]
+## 41. Approval in ballot – alternative conditions[^c-c1514998b6fb1cf4849e2d78a627f5b3][^c-ea21b56f4fbf73c732d7c597ba673c1f]
 
 *Extent: S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c1514998b6fb1cf4849e2d78a627f5b3]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2006/17/section/41) in force at 6.2.2007 for specified purposes by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)
+[^c-c1514998b6fb1cf4849e2d78a627f5b3]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2006/17/section/41) in force at 6.2.2007 for specified purposes by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)
 
-[^key-ea21b56f4fbf73c732d7c597ba673c1f]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2006/17/section/41) in force at 1.4.2007 in so far as not already in force by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-ea21b56f4fbf73c732d7c597ba673c1f]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2006/17/section/41) in force at 1.4.2007 in so far as not already in force by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)

@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 1(2) and 10(2), (3) and (4) of the Armed Forces (Pensions and Compensation) Act 2004[^f00001], makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-913972774f569786024affaa4cbd7b02]
+## 1. Citation, commencement and interpretation[^c-913972774f569786024affaa4cbd7b02]
 
 This Order may be cited as the Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013.
 
-**2.**[^key-c3ad7bb4650b52cd6796d49de30b15d0] This Order comes into force as follows—
+**2.**[^c-c3ad7bb4650b52cd6796d49de30b15d0] This Order comes into force as follows—
 
 (1) Articles 1 to 7 come into force on 8th April 2013.
 
@@ -64,17 +64,17 @@ This Order may be cited as the Armed Forces and Reserve Forces Compensation Sche
 - (d) paragraph 36 (amendment of the National Assembly for Wales (Representation of the People) Order 2007); and
 - (e) paragraph 46 (amendment of the Police and Crime Commissioner Elections Order 2012).
 
-## 3. Extent and application[^key-54f3ede8b28a5fbc2be761b6094b6d61]
+## 3. Extent and application[^c-54f3ede8b28a5fbc2be761b6094b6d61]
 
 Subject to articles 4, 5 and 6, this Order extends and applies to the United Kingdom.
 
-**4.**[^key-48ba8de008e546adcedc7dd99d6e201f] The amendments made by paragraphs 1 to 4, 7, 9, 10, 12, 13 and 15 to 54 of the Schedule have the same extent and application as the provisions amended by those paragraphs.
+**4.**[^c-48ba8de008e546adcedc7dd99d6e201f] The amendments made by paragraphs 1 to 4, 7, 9, 10, 12, 13 and 15 to 54 of the Schedule have the same extent and application as the provisions amended by those paragraphs.
 
-**5.**[^key-f2c2e7c9e6f21c7c7452f526daac1f70] Paragraph 5 (amendment of the Council Tax (Discount Disregards) Order 1992), paragraph 6 (amendment of the Council Tax (Additional Provisions for Discount Disregards) Regulations 1992), paragraph 8 (amendment of the National Assistance (Assessment of Resources) Regulations 1992) and paragraph 11 (amendment of the Housing Renewal Grants Regulations 1996) of the Schedule extend to England and Wales, but apply in relation to England only.
+**5.**[^c-f2c2e7c9e6f21c7c7452f526daac1f70] Paragraph 5 (amendment of the Council Tax (Discount Disregards) Order 1992), paragraph 6 (amendment of the Council Tax (Additional Provisions for Discount Disregards) Regulations 1992), paragraph 8 (amendment of the National Assistance (Assessment of Resources) Regulations 1992) and paragraph 11 (amendment of the Housing Renewal Grants Regulations 1996) of the Schedule extend to England and Wales, but apply in relation to England only.
 
-**6.**[^key-6543511db1d671da403dc0f835dfbbcf] Paragraph 14 (amendment of the Education (Student Loans) Regulations 1998) of the Schedule extends and applies to England and Wales only.
+**6.**[^c-6543511db1d671da403dc0f835dfbbcf] Paragraph 14 (amendment of the Education (Student Loans) Regulations 1998) of the Schedule extends and applies to England and Wales only.
 
-## 7. Consequential amendments and supplementary provisions[^key-a139ea69a9703a133450b71a916d07e5]
+## 7. Consequential amendments and supplementary provisions[^c-a139ea69a9703a133450b71a916d07e5]
 
 The Schedule has effect.
 
@@ -90,13 +90,13 @@ Ministry of Defence
 
 Article 7
 
-### 1. Amendment of the Social Security Benefit (Persons Abroad) Regulations 1975[^key-dbbad67865ede0e5c6a892f57acb633d]
+### 1. Amendment of the Social Security Benefit (Persons Abroad) Regulations 1975[^c-dbbad67865ede0e5c6a892f57acb633d]
 
 (1) The Social Security Benefit (Persons Abroad) Regulations 1975[^f00002] are amended as follows.
 
 (2) In regulation 2(1A) (modification of the Act in relation to incapacity benefit, severe disablement allowance, unemployability supplement and maternity allowance)[^f00003], after “disability living allowance” insert “, armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011”.
 
-### 2. Amendment of the Social Security (Invalid Care Allowance) Regulations 1976[^key-164001392d3a2841982174247964db65]
+### 2. Amendment of the Social Security (Invalid Care Allowance) Regulations 1976[^c-164001392d3a2841982174247964db65]
 
 (1) The Social Security (Invalid Care Allowance) Regulations 1976[^f00004] are amended as follows.
 
@@ -109,7 +109,7 @@ Article 7
 
   .
 
-### 3. Amendment of the Social Security (Overlapping Benefits) Regulations 1979[^key-3f80bb16a18d5bedf3c0fb2fe7487619]
+### 3. Amendment of the Social Security (Overlapping Benefits) Regulations 1979[^c-3f80bb16a18d5bedf3c0fb2fe7487619]
 
 (1) The Social Security (Overlapping Benefits) Regulations 1979[^f00006] are amended as follows.
 
@@ -154,7 +154,7 @@ Article 7
 
   .
 
-### 4. Amendment of the Income Support (General) Regulations 1987[^key-4da77dd5bd873e02df3c070dbc9fe8f3]
+### 4. Amendment of the Income Support (General) Regulations 1987[^c-4da77dd5bd873e02df3c070dbc9fe8f3]
 
 (1) The Income Support (General) Regulations 1987[^f00010] are amended as follows.
 
@@ -221,7 +221,7 @@ Article 7
 
 .
 
-### 5. Amendment of the Council Tax (Discount Disregards) Order 1992[^key-a0a036ab148fd00d6b86beacac3b8583]
+### 5. Amendment of the Council Tax (Discount Disregards) Order 1992[^c-a0a036ab148fd00d6b86beacac3b8583]
 
 *Extent: E+W*
 
@@ -233,7 +233,7 @@ Article 7
 
 .
 
-### 6. Amendment of the Council Tax (Additional Provisions for Discount Disregards) Regulations 1992[^key-dda86e30e375aeb4ed47b3717252d4fa]
+### 6. Amendment of the Council Tax (Additional Provisions for Discount Disregards) Regulations 1992[^c-dda86e30e375aeb4ed47b3717252d4fa]
 
 *Extent: E+W*
 
@@ -250,7 +250,7 @@ Article 7
 
   .
 
-### 7. Amendment of the Child Support (Maintenance Assessments and Special Cases) Regulations 1992[^key-e5ad41ed9d864ecbbeb8fb8a4396bd63]
+### 7. Amendment of the Child Support (Maintenance Assessments and Special Cases) Regulations 1992[^c-e5ad41ed9d864ecbbeb8fb8a4396bd63]
 
 (1) The Child Support (Maintenance Assessments and Special Cases) Regulations 1992[^f00026] are amended as follows.
 
@@ -270,7 +270,7 @@ Article 7
 
   .
 
-### 8. Amendment of the National Assistance (Assessment of Resources) Regulations 1992[^key-bf95feca1c05cb6286525089fc3aef6b]
+### 8. Amendment of the National Assistance (Assessment of Resources) Regulations 1992[^c-bf95feca1c05cb6286525089fc3aef6b]
 
 *Extent: E+W*
 
@@ -288,13 +288,13 @@ Article 7
 
 .
 
-### 9. Amendment of the Social Security (Incapacity Benefit) Regulations 1994[^key-736de964084b9ba7a89f15a1107e0d4b]
+### 9. Amendment of the Social Security (Incapacity Benefit) Regulations 1994[^c-736de964084b9ba7a89f15a1107e0d4b]
 
 (1) The Social Security (Incapacity Benefit) Regulations 1994[^f00029] are amended as follows.
 
 (2) In regulation 26 (person whose benefit is not to be reduced under section 30DD(1))[^f00030], after “Contributions and Benefits Act” where it appears for the second time insert “, armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011”.
 
-### 10. Amendment of the Jobseeker’s Allowance Regulations 1996[^key-6f85e35116edf6eada00ab4019ce3dd5]
+### 10. Amendment of the Jobseeker’s Allowance Regulations 1996[^c-6f85e35116edf6eada00ab4019ce3dd5]
 
 (1) The Jobseeker’s Allowance Regulations 1996[^f00031] are amended as follows.
 
@@ -408,7 +408,7 @@ Article 7
 
 .
 
-### 11. Amendment of the Housing Renewal Grants Regulations 1996[^key-3b5ea00c8d8b318d1340a299c6abcf26]
+### 11. Amendment of the Housing Renewal Grants Regulations 1996[^c-3b5ea00c8d8b318d1340a299c6abcf26]
 
 *Extent: E+W*
 
@@ -492,7 +492,7 @@ Article 7
 
 (6) In Schedule 3 (sums to be disregarded in the determination of income other than earnings), in paragraph 5, after “disability living allowance” insert “, armed forces independence payment”.
 
-### 12. Amendment of the Social Security Benefit (Computation of Earnings) Regulations 1996[^key-5399a58d0efd283aa9cae521c7fcb484]
+### 12. Amendment of the Social Security Benefit (Computation of Earnings) Regulations 1996[^c-5399a58d0efd283aa9cae521c7fcb484]
 
 (1) The Social Security Benefit (Computation of Earnings) Regulations 1996[^f00051] are amended as follows.
 
@@ -502,13 +502,13 @@ Article 7
 
 .
 
-### 13. Amendment of the Child Support Departure Direction and Consequential Amendments Regulations 1996[^key-769f2a758ea7ce062a42378a205d462b]
+### 13. Amendment of the Child Support Departure Direction and Consequential Amendments Regulations 1996[^c-769f2a758ea7ce062a42378a205d462b]
 
 (1) The Child Support Departure Direction and Consequential Amendments Regulations 1996[^f00052] are amended as follows.
 
 (2) In paragraph 6(d) of regulation 15 (illness or disability), after “Welfare Reform Act 2012” insert “, armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011”.
 
-### 14. Amendment of the Education (Student Loans) Regulations 1998[^key-9cc6e5fe738727c1cfe2a09f977327cc]
+### 14. Amendment of the Education (Student Loans) Regulations 1998[^c-9cc6e5fe738727c1cfe2a09f977327cc]
 
 *Extent: E+W*
 
@@ -516,7 +516,7 @@ Article 7
 
 (2) In Schedule 2 (terms of loans), in paragraph 1, in the definition of “disability related benefits”, after “Welfare Reform Act 2012,” insert “armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011,”.
 
-### 15. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations 1999[^key-92aad7d19d37a18b51f9d22b6bd7d553]
+### 15. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations 1999[^c-92aad7d19d37a18b51f9d22b6bd7d553]
 
 (1) The Social Security and Child Support (Decisions and Appeals) Regulations 1999[^f00054] are amended as follows.
 
@@ -529,7 +529,7 @@ Article 7
 
   .
 
-### 16. Amendment of the Maternity and Parental Leave etc. Regulations 1999[^key-a81544c69054bbadeeba3306bcc1e921]
+### 16. Amendment of the Maternity and Parental Leave etc. Regulations 1999[^c-a81544c69054bbadeeba3306bcc1e921]
 
 (1) The Maternity and Parental Leave etc. Regulations 1999[^f00055] are amended as follows.
 
@@ -548,7 +548,7 @@ Article 7
 - (a) in paragraph 2(c) after “disability living allowance” insert “, armed forces independence payment”; and
 - (b) in paragraph 7 after “disability living allowance” insert “, armed forces independence payment”.
 
-### 17. Amendment of the Child Support (Variations) Regulations 2000[^key-4277e2621542148481df888fbcfc2d39]
+### 17. Amendment of the Child Support (Variations) Regulations 2000[^c-4277e2621542148481df888fbcfc2d39]
 
 (1) The Child Support (Variations) Regulations 2000[^f00059] are amended as follows.
 
@@ -557,7 +557,7 @@ Article 7
 - (a) in paragraph (2)(a)(i) for “or a mobility supplement” substitute “, a mobility supplement or armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011”;
 - (b) in paragraph (3)(b)[^f00060], after “disability living allowance” insert “or armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011”.
 
-### 18. Amendment of the Community Legal Service (Financial) Regulations 2000[^key-597b3f16c8815d9e1054de59547f249f]
+### 18. Amendment of the Community Legal Service (Financial) Regulations 2000[^c-597b3f16c8815d9e1054de59547f249f]
 
 (1) The Community Legal Service (Financial) Regulations 2000[^f00061] are amended as follows.
 
@@ -567,7 +567,7 @@ Article 7
 
 .
 
-### 19. Amendment of the Criminal Defence Service (General) (No.2) Regulations 2001[^key-39c90efea8bcd32b32479300d1b5d729]
+### 19. Amendment of the Criminal Defence Service (General) (No.2) Regulations 2001[^c-39c90efea8bcd32b32479300d1b5d729]
 
 (1) The Criminal Defence Service (General) (No.2) Regulations 2001[^f00062] are amended as follows.
 
@@ -582,19 +582,19 @@ Article 7
 
   .
 
-### 20. Amendment of the Representation of the People (England and Wales) Regulations 2001[^key-665e5ff5fbba8c7b35a90ac225a5510e]
+### 20. Amendment of the Representation of the People (England and Wales) Regulations 2001[^c-665e5ff5fbba8c7b35a90ac225a5510e]
 
 (1) The Representation of the People (England and Wales) Regulations 2001[^f00063] are amended as follows.
 
 (2) In regulation 53(5)(b) (additional requirements for applications for a proxy vote for a definite or indefinite period on grounds of blindness or any other disability)[^f00064], after “Benefits Act 1992)” insert “, armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011”.
 
-### 21. Amendment of the Representation of the People (Scotland) Regulations 2001[^key-363661d091a48b6ca1f29f0e871438c7]
+### 21. Amendment of the Representation of the People (Scotland) Regulations 2001[^c-363661d091a48b6ca1f29f0e871438c7]
 
 (1) The Representation of the People (Scotland) Regulations 2001[^f00065] are amended as follows.
 
 (2) In regulation 53(5)(b) (additional requirements for applications for a proxy vote for a definite or indefinite period on grounds of blindness or any other disability)[^f00066], after “Benefits Act 1992)” insert “, armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011”.
 
-### 22. Amendment of the Social Security (Loss of Benefit) Regulations 2001[^key-97e57265f50c2eed94fd95bb65225bc7]
+### 22. Amendment of the Social Security (Loss of Benefit) Regulations 2001[^c-97e57265f50c2eed94fd95bb65225bc7]
 
 (1) The Social Security (Loss of Benefit) Regulations 2001[^f00067] are amended as follows.
 
@@ -630,7 +630,7 @@ Article 7
 
   .
 
-### 23. Amendment of the State Pension Credit Regulations 2002[^key-bfb12ba2093f4e9e24258e49116ba744]
+### 23. Amendment of the State Pension Credit Regulations 2002[^c-bfb12ba2093f4e9e24258e49116ba744]
 
 (1) The State Pension Credit Regulations 2002[^f00068] are amended as follows.
 
@@ -681,7 +681,7 @@ Article 7
 
   .
 
-### 24. Amendment of the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^key-26e958927f6d0f5750601d3f6fb9f9a8]
+### 24. Amendment of the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^c-26e958927f6d0f5750601d3f6fb9f9a8]
 
 (1) The Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f00071] are amended as follows.
 
@@ -723,7 +723,7 @@ Article 7
 
   .
 
-### 25. Amendment of the Tax Credits (Definition and Calculation of Income) Regulations 2002[^key-f4f2b9a46e99efd8f3c14dfcaeee01c8]
+### 25. Amendment of the Tax Credits (Definition and Calculation of Income) Regulations 2002[^c-f4f2b9a46e99efd8f3c14dfcaeee01c8]
 
 (1) The Tax Credits (Definition and Calculation of Income) Regulations 2002[^f00075] are amended as follows.
 
@@ -733,7 +733,7 @@ Article 7
 
 .
 
-### 26. Amendment of the Child Tax Credit Regulations 2002[^key-d351fbf776f60ab2b7bf34fb79b8f8b8]
+### 26. Amendment of the Child Tax Credit Regulations 2002[^c-d351fbf776f60ab2b7bf34fb79b8f8b8]
 
 (1) The Child Tax Credit Regulations 2002[^f00077] are amended as follows.
 
@@ -752,7 +752,7 @@ Article 7
 
   .
 
-### 27. Amendment of the Tax Credits (Claims and Notifications) Regulations 2002[^key-8221101e39bc42435c5e0df6c485d5d8]
+### 27. Amendment of the Tax Credits (Claims and Notifications) Regulations 2002[^c-8221101e39bc42435c5e0df6c485d5d8]
 
 (1) The Tax Credits (Claims and Notifications) Regulations 2002[^f00079] are amended as follows.
 
@@ -764,13 +764,13 @@ Article 7
 
 (3) In regulation 26A (date of notification – disability element and severe disability element of child tax credit)[^f00081] after each “or personal independence payment” insert “or armed forces independence payment”.”
 
-### 28. Amendment of the Flexible Working (Eligibility, Complaints and Remedies) Regulations 2002[^key-73e77ae65e62c8276e4115ab76201499]
+### 28. Amendment of the Flexible Working (Eligibility, Complaints and Remedies) Regulations 2002[^c-73e77ae65e62c8276e4115ab76201499]
 
 (1) The Flexible Working (Eligibility, Complaints and Remedies) Regulations 2002[^f00082] are amended as follows.
 
 (2) In the definition of “disabled” in regulation 2(1) (interpretation)[^f00083], after “Benefits Act 1992” insert “or armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011”.
 
-### 29. Amendment of the Government Resources and Accounts Act 2000 (Rights of Access of Comptroller and Auditor General) Order 2003[^key-5267e2a5737db1b888bc2082fadccab4]
+### 29. Amendment of the Government Resources and Accounts Act 2000 (Rights of Access of Comptroller and Auditor General) Order 2003[^c-5267e2a5737db1b888bc2082fadccab4]
 
 In article 2 (grant payments) of the Government Resources and Accounts Act 2000 (Rights of Access of Comptroller and Auditor General) Order 2003[^f00084], in paragraph (2)—
 
@@ -783,7 +783,7 @@ In article 2 (grant payments) of the Government Resources and Accounts Act 2000 
 
   .
 
-### 30. Amendment of the European Parliamentary Elections Regulations 2004[^key-f37db847027a2a2a344d27b1c9640ef2]
+### 30. Amendment of the European Parliamentary Elections Regulations 2004[^c-f37db847027a2a2a344d27b1c9640ef2]
 
 (1) The European Parliamentary Elections Regulations 2004[^f00085] are amended as follows.
 
@@ -798,7 +798,7 @@ In article 2 (grant payments) of the Government Resources and Accounts Act 2000 
 
   .
 
-### 31. Amendment of the Non-Contentious Probate Fees Order 2004[^key-a7168f3a4b7895657164acbe07f37ff9]
+### 31. Amendment of the Non-Contentious Probate Fees Order 2004[^c-a7168f3a4b7895657164acbe07f37ff9]
 
 (1) The Non-Contentious Probate Fees Order 2004[^f00086] is amended as follows.
 
@@ -813,7 +813,7 @@ In article 2 (grant payments) of the Government Resources and Accounts Act 2000 
 
   .
 
-### 32. Amendment of the Social Fund Maternity and Funeral Expenses (General) Regulations 2005[^key-e2523350c27e2829abe169daf9d58c6f]
+### 32. Amendment of the Social Fund Maternity and Funeral Expenses (General) Regulations 2005[^c-e2523350c27e2829abe169daf9d58c6f]
 
 (1) The Social Fund Maternity and Funeral Expenses (General) Regulations 2005[^f00088] are amended as follows.
 
@@ -825,7 +825,7 @@ In article 2 (grant payments) of the Government Resources and Accounts Act 2000 
 
 .
 
-### 33. Amendment of the Criminal Defence Service (Financial Eligibility) Regulations 2006[^key-25c7b6fec222a0d8dd684883adee22be]
+### 33. Amendment of the Criminal Defence Service (Financial Eligibility) Regulations 2006[^c-25c7b6fec222a0d8dd684883adee22be]
 
 (1) The Criminal Defence Service (Financial Eligibility) Regulations 2006[^f00090] are amended as follows.
 
@@ -835,7 +835,7 @@ In article 2 (grant payments) of the Government Resources and Accounts Act 2000 
 
 .
 
-### 34. Amendment of the Housing Benefit Regulations 2006[^key-4c0a7ce1f4c56558acaf4dedb0500b61]
+### 34. Amendment of the Housing Benefit Regulations 2006[^c-4c0a7ce1f4c56558acaf4dedb0500b61]
 
 (1) The Housing Benefit Regulations 2006[^f00091] are amended as follows.
 
@@ -917,7 +917,7 @@ In article 2 (grant payments) of the Government Resources and Accounts Act 2000 
 
 (7) In Schedule 5 (sums to be disregarded in the calculation of income), in paragraph 6, after “disability living allowance” insert “, armed forces independence payment”.
 
-### 35. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^key-97a2d4e8d5c1605acdf3cbaa274202cc]
+### 35. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^c-97a2d4e8d5c1605acdf3cbaa274202cc]
 
 (1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^f00096] are amended as follows.
 
@@ -1018,7 +1018,7 @@ In article 2 (grant payments) of the Government Resources and Accounts Act 2000 
 
 .
 
-### 36. Amendment of the National Assembly for Wales (Representation of the People) Order 2007[^key-fdda44e5ac8a6105b96f144c47a3ca57]
+### 36. Amendment of the National Assembly for Wales (Representation of the People) Order 2007[^c-fdda44e5ac8a6105b96f144c47a3ca57]
 
 (1) The National Assembly for Wales (Representation of the People) Order 2007[^f00099] is amended as follows.
 
@@ -1033,7 +1033,7 @@ In article 2 (grant payments) of the Government Resources and Accounts Act 2000 
 
   .
 
-### 37. Amendment of the Employment and Support Allowance Regulations 2008[^key-9a1ea91966748bcd187ee8a916333389]
+### 37. Amendment of the Employment and Support Allowance Regulations 2008[^c-9a1ea91966748bcd187ee8a916333389]
 
 (1) The Employment and Support Allowance Regulations 2008[^f00100] are amended as follows.
 
@@ -1100,7 +1100,7 @@ In article 2 (grant payments) of the Government Resources and Accounts Act 2000 
 
 .
 
-### 38. Amendment of the Magistrates’ Courts Fees Order 2008[^key-a6cd8137f1aa9ee4ed50f44e608b7ce7]
+### 38. Amendment of the Magistrates’ Courts Fees Order 2008[^c-a6cd8137f1aa9ee4ed50f44e608b7ce7]
 
 (1) The Magistrates’ Courts Fees Order 2008[^f00105] is amended as follows.
 
@@ -1115,7 +1115,7 @@ In article 2 (grant payments) of the Government Resources and Accounts Act 2000 
 
   .
 
-### 39. Amendment of the Civil Proceedings Fees Order 2008[^key-00c7f67e0a59279fa03891daf3660e47]
+### 39. Amendment of the Civil Proceedings Fees Order 2008[^c-00c7f67e0a59279fa03891daf3660e47]
 
 (1) The Civil Proceedings Fees Order 2008[^f00107] is amended as follows.
 
@@ -1130,7 +1130,7 @@ In article 2 (grant payments) of the Government Resources and Accounts Act 2000 
 
   .
 
-### 40. Amendment of the Family Proceedings Fees Order 2008[^key-4e91e8b3ab2f423432402c164f2c5fdb]
+### 40. Amendment of the Family Proceedings Fees Order 2008[^c-4e91e8b3ab2f423432402c164f2c5fdb]
 
 (1) The Family Proceedings Fees Order 2008[^f00109] is amended as follows.
 
@@ -1145,7 +1145,7 @@ In article 2 (grant payments) of the Government Resources and Accounts Act 2000 
 
   .
 
-### 41. Amendment of the Criminal Defence Service (Contribution Orders) Regulations 2009[^key-a2fabf0336475caf35945d48384fb7e8]
+### 41. Amendment of the Criminal Defence Service (Contribution Orders) Regulations 2009[^c-a2fabf0336475caf35945d48384fb7e8]
 
 (1) The Criminal Defence Service (Contribution Orders) Regulations 2009[^f00111] are amended as follows.
 
@@ -1155,17 +1155,17 @@ In article 2 (grant payments) of the Government Resources and Accounts Act 2000 
 
 .
 
-### 42. Amendment of the Education (Student Loans) (Repayment) Regulations 2009[^key-782e034a5fdd2996b575f0532e1bd3a3]
+### 42. Amendment of the Education (Student Loans) (Repayment) Regulations 2009[^c-782e034a5fdd2996b575f0532e1bd3a3]
 
 (1) The Education (Student Loans) (Repayment) Regulations 2009[^f00112] is amended as follows.
 
 (2) In regulation 9 (interpretation), in the definition of “disability-related benefit” in sub-paragraph (1), after “Welfare Reform Act 2012” insert “armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011,”.
 
-### 43. Amendment of the Supreme Court Fees Order 2009[^key-ce6ddfae057fd98270d88ad39cc75ddf]
+### 43. Amendment of the Supreme Court Fees Order 2009[^c-ce6ddfae057fd98270d88ad39cc75ddf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 44. Amendment of the Social Security (Contributions Credits for Parents and Carers) Regulations 2010[^key-b4c619e0a2a287e3bfb6ca317a4632f3]
+### 44. Amendment of the Social Security (Contributions Credits for Parents and Carers) Regulations 2010[^c-b4c619e0a2a287e3bfb6ca317a4632f3]
 
 (1) The Social Security (Contributions Credits for Parents and Carers) Regulations 2010[^f00114] are amended as follows.
 
@@ -1175,7 +1175,7 @@ In article 2 (grant payments) of the Government Resources and Accounts Act 2000 
 
 .
 
-### 45. Amendment of the Upper Tribunal (Immigration and Asylum Chamber) (Judicial Review) (England and Wales) Fees Order 2011[^key-43b955415f1e3052e39989a9a013af2f]
+### 45. Amendment of the Upper Tribunal (Immigration and Asylum Chamber) (Judicial Review) (England and Wales) Fees Order 2011[^c-43b955415f1e3052e39989a9a013af2f]
 
 (1) The Upper Tribunal (Immigration and Asylum Chamber) (Judicial Review) (England and Wales) Fees Order 2011[^f00115] is amended as follows.
 
@@ -1190,7 +1190,7 @@ In article 2 (grant payments) of the Government Resources and Accounts Act 2000 
 
   .
 
-### 46. Amendment of the Police and Crime Commissioner Elections Order 2012[^key-9ae6a23f3cb97ae671ba502c8bb4667c]
+### 46. Amendment of the Police and Crime Commissioner Elections Order 2012[^c-9ae6a23f3cb97ae671ba502c8bb4667c]
 
 (1) The Police and Crime Commissioner Elections Order 2012[^f00116] is amended as follows.
 
@@ -1205,7 +1205,7 @@ In article 2 (grant payments) of the Government Resources and Accounts Act 2000 
 
   .
 
-### 47. Amendment of the Child Support Maintenance Calculation Regulations 2012[^key-06611f4b0c4578e0ab1319383710e7d3]
+### 47. Amendment of the Child Support Maintenance Calculation Regulations 2012[^c-06611f4b0c4578e0ab1319383710e7d3]
 
 (1) The Child Support Maintenance Calculation Regulations 2012[^f00117] are amended as follows.
 
@@ -1219,13 +1219,13 @@ In article 2 (grant payments) of the Government Resources and Accounts Act 2000 
   ; and
 - (c) in paragraph (3)(b) after “disability living allowance” insert “, armed forces independence payment”.
 
-### 48. Amendment of the Benefit Cap (Housing Benefit) Regulations 2012[^key-39112ff0c20de1a529ae8d7795959982]
+### 48. Amendment of the Benefit Cap (Housing Benefit) Regulations 2012[^c-39112ff0c20de1a529ae8d7795959982]
 
 (1) The Benefit Cap (Housing Benefit) Regulations 2012[^f00118] are amended as follows.
 
 (2) In regulation 2(5)(amendment of the Housing Benefit Regulations 2006), in sub-paragraph (ea) of the inserted regulation 75F, after “personal independence payment” insert “or an armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011”.
 
-### 49. Amendment of the Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2013[^key-865d9974aa9e6e36bd18e853fb7efada]
+### 49. Amendment of the Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2013[^c-865d9974aa9e6e36bd18e853fb7efada]
 
 (1) The Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2013[^f00119] are amended as follows.
 
@@ -1240,7 +1240,7 @@ In article 2 (grant payments) of the Government Resources and Accounts Act 2000 
 
   .
 
-### 50. Amendment of the Criminal Legal Aid (Financial Resources) Regulations 2013[^key-d2dbad9531944b4e066bad2f7a57eec6]
+### 50. Amendment of the Criminal Legal Aid (Financial Resources) Regulations 2013[^c-d2dbad9531944b4e066bad2f7a57eec6]
 
 (1) The Criminal Legal Aid (Financial Resources) Regulations 2013[^f00120] are amended as follows.
 
@@ -1266,7 +1266,7 @@ In article 2 (grant payments) of the Government Resources and Accounts Act 2000 
 
   .
 
-### 51. Amendment of the Employment and Support Allowance Regulations 2013[^key-55062a13e6ee8796645b7db98d66b33c]
+### 51. Amendment of the Employment and Support Allowance Regulations 2013[^c-55062a13e6ee8796645b7db98d66b33c]
 
 (1) The Employment and Support Allowance Regulations 2013[^f00121] are amended as follows.
 
@@ -1282,7 +1282,7 @@ In article 2 (grant payments) of the Government Resources and Accounts Act 2000 
 
   .
 
-### 52. Amendment of the Jobseeker’s Allowance Regulations 2013[^key-29a068a4a5036268f7311bbcebf48fd1]
+### 52. Amendment of the Jobseeker’s Allowance Regulations 2013[^c-29a068a4a5036268f7311bbcebf48fd1]
 
 (1) The Jobseeker’s Allowance Regulations 2013[^f00122] are amended as follows.
 
@@ -1300,7 +1300,7 @@ In article 2 (grant payments) of the Government Resources and Accounts Act 2000 
 
   .
 
-### 53. Amendment of the Universal Credit (Transitional Provisions) Regulations 2013[^key-d137d0be2340d3c717fc288c39043f8c]
+### 53. Amendment of the Universal Credit (Transitional Provisions) Regulations 2013[^c-d137d0be2340d3c717fc288c39043f8c]
 
 (1) The Universal Credit (Transitional Provisions) Regulations 2013[^f00123] are amended as follows.
 
@@ -1315,7 +1315,7 @@ In article 2 (grant payments) of the Government Resources and Accounts Act 2000 
 
   .
 
-### 54. Amendment of the Universal Credit Regulations 2013[^key-e7bd00aecd208559f9b51f9190a59b97]
+### 54. Amendment of the Universal Credit Regulations 2013[^c-e7bd00aecd208559f9b51f9190a59b97]
 
 (1) The Universal Credit Regulations 2013[^f00124] are amended as follows.
 
@@ -1443,33 +1443,33 @@ Paragraph 54 of the Schedule amends the Universal Credit Regulations 2013 to pro
 
 [^f00001]: Footnote: [2004 c.32](https://www.legislation.gov.uk/ukpga/2004/32).
 
-[^key-913972774f569786024affaa4cbd7b02]: Commencement: Art. 1 in force at 8.4.2013, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/591/article/2/1)
+[^c-913972774f569786024affaa4cbd7b02]: Commencement: Art. 1 in force at 8.4.2013, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/591/article/2/1)
 
-[^key-c3ad7bb4650b52cd6796d49de30b15d0]: Commencement: Art. 2 in force at 8.4.2013, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/591/article/2/1)
+[^c-c3ad7bb4650b52cd6796d49de30b15d0]: Commencement: Art. 2 in force at 8.4.2013, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/591/article/2/1)
 
-[^key-54f3ede8b28a5fbc2be761b6094b6d61]: Commencement: Art. 3 in force at 8.4.2013, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/591/article/2/1)
+[^c-54f3ede8b28a5fbc2be761b6094b6d61]: Commencement: Art. 3 in force at 8.4.2013, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/591/article/2/1)
 
-[^key-48ba8de008e546adcedc7dd99d6e201f]: Commencement: Art. 4 in force at 8.4.2013, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/591/article/2/1)
+[^c-48ba8de008e546adcedc7dd99d6e201f]: Commencement: Art. 4 in force at 8.4.2013, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/591/article/2/1)
 
-[^key-f2c2e7c9e6f21c7c7452f526daac1f70]: Commencement: Art. 5 in force at 8.4.2013, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/591/article/2/1)
+[^c-f2c2e7c9e6f21c7c7452f526daac1f70]: Commencement: Art. 5 in force at 8.4.2013, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/591/article/2/1)
 
-[^key-6543511db1d671da403dc0f835dfbbcf]: Commencement: Art. 6 in force at 8.4.2013, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/591/article/2/1)
+[^c-6543511db1d671da403dc0f835dfbbcf]: Commencement: Art. 6 in force at 8.4.2013, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/591/article/2/1)
 
-[^key-a139ea69a9703a133450b71a916d07e5]: Commencement: Art. 7 in force at 8.4.2013, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/591/article/2/1)
+[^c-a139ea69a9703a133450b71a916d07e5]: Commencement: Art. 7 in force at 8.4.2013, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/591/article/2/1)
 
-[^key-dbbad67865ede0e5c6a892f57acb633d]: Commencement: Sch. para. 1 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-dbbad67865ede0e5c6a892f57acb633d]: Commencement: Sch. para. 1 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00002]: Footnote: [S.I. 1975/563](https://www.legislation.gov.uk/uksi/1975/563) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
 [^f00003]: Footnote: Regulation 2(1A) was inserted by [S.I. 1994/268](https://www.legislation.gov.uk/uksi/1994/268).
 
-[^key-164001392d3a2841982174247964db65]: Commencement: Sch. para. 2 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-164001392d3a2841982174247964db65]: Commencement: Sch. para. 2 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00004]: Footnote: [S.I. 1976/409](https://www.legislation.gov.uk/uksi/1976/409) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
 [^f00005]: Footnote: Regulation 9(2)(b) was amended by [S.I. 1991/2742](https://www.legislation.gov.uk/uksi/1991/2742), [1996/2744](https://www.legislation.gov.uk/uksi/1996/2744) and [2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
-[^key-3f80bb16a18d5bedf3c0fb2fe7487619]: Commencement: Sch. para. 3 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-3f80bb16a18d5bedf3c0fb2fe7487619]: Commencement: Sch. para. 3 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00006]: Footnote: [S.I. 1979/597](https://www.legislation.gov.uk/uksi/1979/597) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
@@ -1479,7 +1479,7 @@ Paragraph 54 of the Schedule amends the Universal Credit Regulations 2013 to pro
 
 [^f00009]: Footnote: Paragraph 5 of column 1 of Schedule 1 was amended by [S.I. 1991/2742](https://www.legislation.gov.uk/uksi/1991/2742) and [2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
-[^key-4da77dd5bd873e02df3c070dbc9fe8f3]: Commencement: Sch. para. 4 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-4da77dd5bd873e02df3c070dbc9fe8f3]: Commencement: Sch. para. 4 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00010]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
@@ -1505,35 +1505,35 @@ Paragraph 54 of the Schedule amends the Universal Credit Regulations 2013 to pro
 
 [^f00021]: Footnote: Paragraph 18 was amended by [S.I. 1995/2927](https://www.legislation.gov.uk/uksi/1995/2927), [1996/2518](https://www.legislation.gov.uk/uksi/1996/2518), [1997/827](https://www.legislation.gov.uk/uksi/1997/827), [1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [2000/440](https://www.legislation.gov.uk/uksi/2000/440), [2003/1195](https://www.legislation.gov.uk/uksi/2003/1195), [2004/2327](https://www.legislation.gov.uk/uksi/2004/2327), [2005/3360](https://www.legislation.gov.uk/uksi/2005/3360), [2006/217](https://www.legislation.gov.uk/uksi/2006/217), [2008/2428](https://www.legislation.gov.uk/uksi/2008/2428), [2008/2767](https://www.legislation.gov.uk/uksi/2008/2767), [2009/497](https://www.legislation.gov.uk/uksi/2009/497), [2010/641](https://www.legislation.gov.uk/uksi/2010/641), [2010/793](https://www.legislation.gov.uk/uksi/2010/793) and [2011/2425](https://www.legislation.gov.uk/uksi/2011/2425).
 
-[^key-a0a036ab148fd00d6b86beacac3b8583]: Commencement: Sch. para. 5 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-a0a036ab148fd00d6b86beacac3b8583]: Commencement: Sch. para. 5 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00022]: Footnote: [S.I. 1992/548](https://www.legislation.gov.uk/uksi/1992/548) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
 [^f00023]: Footnote: Paragraph (2)(l) was inserted by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
-[^key-dda86e30e375aeb4ed47b3717252d4fa]: Commencement: Sch. para. 6 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-dda86e30e375aeb4ed47b3717252d4fa]: Commencement: Sch. para. 6 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00024]: Footnote: [S.I. 1992/552](https://www.legislation.gov.uk/uksi/1992/552) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
 [^f00025]: Footnote: Paragraph 3(a) was amended by [S.I. 1994/540](https://www.legislation.gov.uk/uksi/1994/540) and [1996/637](https://www.legislation.gov.uk/uksi/1996/637).
 
-[^key-e5ad41ed9d864ecbbeb8fb8a4396bd63]: Commencement: Sch. para. 7 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-e5ad41ed9d864ecbbeb8fb8a4396bd63]: Commencement: Sch. para. 7 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00026]: Footnote: [S.I. 1992/1815](https://www.legislation.gov.uk/uksi/1992/1815) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
-[^key-bf95feca1c05cb6286525089fc3aef6b]: Commencement: Sch. para. 8 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-bf95feca1c05cb6286525089fc3aef6b]: Commencement: Sch. para. 8 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00027]: Footnote: [S.I. 1992/2977](https://www.legislation.gov.uk/uksi/1992/2977) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
 [^f00028]: Footnote: Regulation 2(1) was amended in relation to England by [S.I. 1993/964](https://www.legislation.gov.uk/uksi/1993/964), [1993/2230](https://www.legislation.gov.uk/uksi/1993/2230), [1995/858](https://www.legislation.gov.uk/uksi/1995/858), [1996/602](https://www.legislation.gov.uk/uksi/1996/602), [1997/485](https://www.legislation.gov.uk/uksi/1997/485), [1998/1730](https://www.legislation.gov.uk/uksi/1998/1730), [2001/1066](https://www.legislation.gov.uk/uksi/2001/1066), [2003/627](https://www.legislation.gov.uk/uksi/2003/627), [2003/2343](https://www.legislation.gov.uk/uksi/2003/2343), [2004/2328](https://www.legislation.gov.uk/uksi/2004/2328), [2005/3277](https://www.legislation.gov.uk/uksi/2005/3277) and [2010/211](https://www.legislation.gov.uk/uksi/2010/211).
 
-[^key-736de964084b9ba7a89f15a1107e0d4b]: Commencement: Sch. para. 9 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-736de964084b9ba7a89f15a1107e0d4b]: Commencement: Sch. para. 9 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00029]: Footnote: [S.I. 1994/2946](https://www.legislation.gov.uk/uksi/1994/2946) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
 [^f00030]: Footnote: Regulation 26 was inserted by [S.I. 2000/3120](https://www.legislation.gov.uk/uksi/2000/3120).
 
-[^key-6f85e35116edf6eada00ab4019ce3dd5]: Commencement: Sch. para. 10 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-6f85e35116edf6eada00ab4019ce3dd5]: Commencement: Sch. para. 10 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00031]: Footnote: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
@@ -1563,7 +1563,7 @@ Paragraph 54 of the Schedule amends the Universal Credit Regulations 2013 to pro
 
 [^f00044]: Footnote: Paragraph 20IA was inserted by [S.I. 2000/2629](https://www.legislation.gov.uk/uksi/2000/2629). There are amendments to paragraph 20IA which are not relevant to this Order.
 
-[^key-3b5ea00c8d8b318d1340a299c6abcf26]: Commencement: Sch. para. 11 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-3b5ea00c8d8b318d1340a299c6abcf26]: Commencement: Sch. para. 11 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00045]: Footnote: [S.I. 1996/2890](https://www.legislation.gov.uk/uksi/1996/2890) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
@@ -1577,23 +1577,23 @@ Paragraph 54 of the Schedule amends the Universal Credit Regulations 2013 to pro
 
 [^f00050]: Footnote: Schedule 1A was amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388), having been inserted in relation to England by [S.I. 2005/3323](https://www.legislation.gov.uk/uksi/2005/3323).
 
-[^key-5399a58d0efd283aa9cae521c7fcb484]: Commencement: Sch. para. 12 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-5399a58d0efd283aa9cae521c7fcb484]: Commencement: Sch. para. 12 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00051]: Footnote: [S.I. 1996/2745](https://www.legislation.gov.uk/uksi/1996/2745) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
-[^key-769f2a758ea7ce062a42378a205d462b]: Commencement: Sch. para. 13 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-769f2a758ea7ce062a42378a205d462b]: Commencement: Sch. para. 13 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00052]: Footnote: [S.I. 1996/2907](https://www.legislation.gov.uk/uksi/1996/2907) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
-[^key-9cc6e5fe738727c1cfe2a09f977327cc]: Commencement: Sch. para. 14 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-9cc6e5fe738727c1cfe2a09f977327cc]: Commencement: Sch. para. 14 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00053]: Footnote: [S.I. 1998/211](https://www.legislation.gov.uk/uksi/1998/211) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
-[^key-92aad7d19d37a18b51f9d22b6bd7d553]: Commencement: Sch. para. 15 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-92aad7d19d37a18b51f9d22b6bd7d553]: Commencement: Sch. para. 15 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00054]: Footnote: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388) and [2013/443](https://www.legislation.gov.uk/uksi/2013/443).
 
-[^key-a81544c69054bbadeeba3306bcc1e921]: Commencement: Sch. para. 16 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-a81544c69054bbadeeba3306bcc1e921]: Commencement: Sch. para. 16 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00055]: Footnote: [S.I. 1999/3312](https://www.legislation.gov.uk/uksi/1999/3312) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
@@ -1603,37 +1603,37 @@ Paragraph 54 of the Schedule amends the Universal Credit Regulations 2013 to pro
 
 [^f00058]: Footnote: Regulation 15 was substituted by [S.I. 2001/4010](https://www.legislation.gov.uk/uksi/2001/4010).
 
-[^key-4277e2621542148481df888fbcfc2d39]: Commencement: Sch. para. 17 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-4277e2621542148481df888fbcfc2d39]: Commencement: Sch. para. 17 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00059]: Footnote: [S.I. 2001/156](https://www.legislation.gov.uk/uksi/2001/156) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
 [^f00060]: Footnote: Regulation 11(3) was amended by [S.I. 2005/785](https://www.legislation.gov.uk/uksi/2005/785) and [2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
-[^key-597b3f16c8815d9e1054de59547f249f]: Commencement: Sch. para. 18 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-597b3f16c8815d9e1054de59547f249f]: Commencement: Sch. para. 18 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00061]: Footnote: [S.I. 2000/516](https://www.legislation.gov.uk/uksi/2000/516).
 
-[^key-39c90efea8bcd32b32479300d1b5d729]: Commencement: Sch. para. 19 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-39c90efea8bcd32b32479300d1b5d729]: Commencement: Sch. para. 19 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00062]: Footnote: [S.I. 2001/1437](https://www.legislation.gov.uk/uksi/2001/1437).
 
-[^key-665e5ff5fbba8c7b35a90ac225a5510e]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/20) in force at 6.5.2013, see [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2013/591/article/2/3/a)
+[^c-665e5ff5fbba8c7b35a90ac225a5510e]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/20) in force at 6.5.2013, see [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2013/591/article/2/3/a)
 
 [^f00063]: Footnote: [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
 [^f00064]: Footnote: Regulation 53(5)(b) was amended by [S.I. 2006/2910](https://www.legislation.gov.uk/uksi/2006/2910).
 
-[^key-363661d091a48b6ca1f29f0e871438c7]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/21) in force at 6.5.2013, see [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2013/591/article/2/3/b)
+[^c-363661d091a48b6ca1f29f0e871438c7]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/21) in force at 6.5.2013, see [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2013/591/article/2/3/b)
 
 [^f00065]: Footnote: [S.I. 2001/497](https://www.legislation.gov.uk/uksi/2001/497) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
 [^f00066]: Footnote: Regulation 53(5)(b) was amended by [S.I. 2007/925](https://www.legislation.gov.uk/uksi/2007/925).
 
-[^key-97e57265f50c2eed94fd95bb65225bc7]: Commencement: Sch. para. 22 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-97e57265f50c2eed94fd95bb65225bc7]: Commencement: Sch. para. 22 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00067]: Footnote: [S.I. 2001/4022](https://www.legislation.gov.uk/uksi/2001/4022) as amended by [S.I. 2013/385](https://www.legislation.gov.uk/uksi/2013/385).
 
-[^key-bfb12ba2093f4e9e24258e49116ba744]: Commencement: Sch. para. 23 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-bfb12ba2093f4e9e24258e49116ba744]: Commencement: Sch. para. 23 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00068]: Footnote: [S.I. 2002/1792](https://www.legislation.gov.uk/uksi/2002/1792) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
@@ -1641,7 +1641,7 @@ Paragraph 54 of the Schedule amends the Universal Credit Regulations 2013 to pro
 
 [^f00070]: Footnote: Paragraph 1(1) was amended by [S.I. 2002/3197](https://www.legislation.gov.uk/uksi/2002/3197), [2003/2274](https://www.legislation.gov.uk/uksi/2003/2274) and [2007/719](https://www.legislation.gov.uk/uksi/2007/719).
 
-[^key-26e958927f6d0f5750601d3f6fb9f9a8]: Commencement: Sch. para. 24 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-26e958927f6d0f5750601d3f6fb9f9a8]: Commencement: Sch. para. 24 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00071]: Footnote: [S.I. 2002/2005](https://www.legislation.gov.uk/uksi/2002/2005) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
@@ -1651,19 +1651,19 @@ Paragraph 54 of the Schedule amends the Universal Credit Regulations 2013 to pro
 
 [^f00074]: Footnote: Regulation 14(4) was amended by [S.I. 2010/751](https://www.legislation.gov.uk/uksi/2010/751).
 
-[^key-f4f2b9a46e99efd8f3c14dfcaeee01c8]: Commencement: Sch. para. 25 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-f4f2b9a46e99efd8f3c14dfcaeee01c8]: Commencement: Sch. para. 25 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00075]: Footnote: [S.I. 2002/2006](https://www.legislation.gov.uk/uksi/2002/2006) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
 [^f00076]: Footnote: Table 6 was amended by [S.I. 2003/732](https://www.legislation.gov.uk/uksi/2003/732), [2003/2815](https://www.legislation.gov.uk/uksi/2003/2815), [2004/762](https://www.legislation.gov.uk/uksi/2004/762), [2004/1748](https://www.legislation.gov.uk/uksi/2004/1748), [2006/766](https://www.legislation.gov.uk/uksi/2006/766), [2009/2887](https://www.legislation.gov.uk/uksi/2009/2887), [2010/751](https://www.legislation.gov.uk/uksi/2010/751), [2010/2914](https://www.legislation.gov.uk/uksi/2010/2914) and [2011/721](https://www.legislation.gov.uk/uksi/2011/721).
 
-[^key-d351fbf776f60ab2b7bf34fb79b8f8b8]: Commencement: Sch. para. 26 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-d351fbf776f60ab2b7bf34fb79b8f8b8]: Commencement: Sch. para. 26 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00077]: Footnote: [S.I. 2002/2007](https://www.legislation.gov.uk/uksi/2002/2007) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
 [^f00078]: Footnote: There are amendments to regulation 2(1) which are not relevant to this Order.
 
-[^key-8221101e39bc42435c5e0df6c485d5d8]: Commencement: Sch. para. 27 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-8221101e39bc42435c5e0df6c485d5d8]: Commencement: Sch. para. 27 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00079]: Footnote: [S.I. 2002/2014](https://www.legislation.gov.uk/uksi/2002/2014) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
@@ -1671,37 +1671,37 @@ Paragraph 54 of the Schedule amends the Universal Credit Regulations 2013 to pro
 
 [^f00081]: Footnote: Regulation 26A was substituted by [S.I. 2009/697](https://www.legislation.gov.uk/uksi/2009/697). There are other amendments which are not relevant to this Order.
 
-[^key-73e77ae65e62c8276e4115ab76201499]: Commencement: Sch. para. 28 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-73e77ae65e62c8276e4115ab76201499]: Commencement: Sch. para. 28 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00082]: Footnote: [S.I. 2002/3236](https://www.legislation.gov.uk/uksi/2002/3236) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
 [^f00083]: Footnote: The definition of “disabled” was inserted by [S.I. 2006/3314](https://www.legislation.gov.uk/uksi/2006/3314). There are other amendments to regulation 2 which are not relevant to this Order.
 
-[^key-5267e2a5737db1b888bc2082fadccab4]: Commencement: Sch. para. 29 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-5267e2a5737db1b888bc2082fadccab4]: Commencement: Sch. para. 29 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00084]: Footnote: [S.I. 2003/1325](https://www.legislation.gov.uk/uksi/2003/1325) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
-[^key-f37db847027a2a2a344d27b1c9640ef2]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/30) in force at 6.5.2013, see [art. 2(3)(c)](https://www.legislation.gov.uk/uksi/2013/591/article/2/3/c)
+[^c-f37db847027a2a2a344d27b1c9640ef2]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/30) in force at 6.5.2013, see [art. 2(3)(c)](https://www.legislation.gov.uk/uksi/2013/591/article/2/3/c)
 
 [^f00085]: Footnote: [S.I. 2004/293](https://www.legislation.gov.uk/uksi/2004/293) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
-[^key-a7168f3a4b7895657164acbe07f37ff9]: Commencement: Sch. para. 31 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-a7168f3a4b7895657164acbe07f37ff9]: Commencement: Sch. para. 31 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00086]: Footnote: [S.I. 2004/3120](https://www.legislation.gov.uk/uksi/2004/3120) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
 [^f00087]: Footnote: Schedule 1A was substituted by [S.I. 2009/1497](https://www.legislation.gov.uk/uksi/2009/1497).
 
-[^key-e2523350c27e2829abe169daf9d58c6f]: Commencement: Sch. para. 32 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-e2523350c27e2829abe169daf9d58c6f]: Commencement: Sch. para. 32 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00088]: Footnote: [S.I. 2005/3061](https://www.legislation.gov.uk/uksi/2005/3061).
 
 [^f00089]: Footnote: Regulation 10(1A) was inserted by [S.I.2013/247](https://www.legislation.gov.uk/uksi/2013/247).
 
-[^key-25c7b6fec222a0d8dd684883adee22be]: Commencement: Sch. para. 33 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-25c7b6fec222a0d8dd684883adee22be]: Commencement: Sch. para. 33 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00090]: Footnote: [S.I. 2006/2492](https://www.legislation.gov.uk/uksi/2006/2492).
 
-[^key-4c0a7ce1f4c56558acaf4dedb0500b61]: Commencement: Sch. para. 34 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-4c0a7ce1f4c56558acaf4dedb0500b61]: Commencement: Sch. para. 34 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00091]: Footnote: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
@@ -1713,7 +1713,7 @@ Paragraph 54 of the Schedule amends the Universal Credit Regulations 2013 to pro
 
 [^f00095]: Footnote: Paragraph 14 was amended by [S.I. 2007/719](https://www.legislation.gov.uk/uksi/2007/719), [2009/583](https://www.legislation.gov.uk/uksi/2009/583) and [2010/1160](https://www.legislation.gov.uk/uksi/2010/1160).
 
-[^key-97a2d4e8d5c1605acdf3cbaa274202cc]: Commencement: Sch. para. 35 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-97a2d4e8d5c1605acdf3cbaa274202cc]: Commencement: Sch. para. 35 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00096]: Footnote: [S.I. 2006/214](https://www.legislation.gov.uk/uksi/2006/214) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
@@ -1721,11 +1721,11 @@ Paragraph 54 of the Schedule amends the Universal Credit Regulations 2013 to pro
 
 [^f00098]: Footnote: Schedule 6, paragraph 21 was amended by [S.I. 2013/443](https://www.legislation.gov.uk/uksi/2013/443).
 
-[^key-fdda44e5ac8a6105b96f144c47a3ca57]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/36) in force at 6.5.2013, see [art. 2(3)(d)](https://www.legislation.gov.uk/uksi/2013/591/article/2/3/d)
+[^c-fdda44e5ac8a6105b96f144c47a3ca57]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/36) in force at 6.5.2013, see [art. 2(3)(d)](https://www.legislation.gov.uk/uksi/2013/591/article/2/3/d)
 
 [^f00099]: Footnote: [S.I. 2007/236](https://www.legislation.gov.uk/uksi/2007/236) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
-[^key-9a1ea91966748bcd187ee8a916333389]: Commencement: Sch. para. 37 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-9a1ea91966748bcd187ee8a916333389]: Commencement: Sch. para. 37 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00100]: Footnote: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
@@ -1737,74 +1737,74 @@ Paragraph 54 of the Schedule amends the Universal Credit Regulations 2013 to pro
 
 [^f00104]: Footnote: Paragraph 15(11)(b) was substituted by [S.I. 2011/2428](https://www.legislation.gov.uk/uksi/2011/2428).
 
-[^key-a6cd8137f1aa9ee4ed50f44e608b7ce7]: Commencement: Sch. para. 38 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-a6cd8137f1aa9ee4ed50f44e608b7ce7]: Commencement: Sch. para. 38 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00105]: Footnote: [S.I. 2008/1052](https://www.legislation.gov.uk/uksi/2008/1052) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
 [^f00106]: Footnote: Paragraph 1(1) of Schedule 2 was amended by section 59(5) and Schedule 11, paragraph 1(2) of the Constitutional Reform Act 2005, [S.I. 2008/2855](https://www.legislation.gov.uk/uksi/2008/2855) and [2009/1496](https://www.legislation.gov.uk/uksi/2009/1496).
 
-[^key-00c7f67e0a59279fa03891daf3660e47]: Commencement: Sch. para. 39 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-00c7f67e0a59279fa03891daf3660e47]: Commencement: Sch. para. 39 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00107]: Footnote: [S.I. 2008/1053](https://www.legislation.gov.uk/uksi/2008/1053) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
 [^f00108]: Footnote: There are amendments to paragraph 1(1) which are not relevant to this Order.
 
-[^key-4e91e8b3ab2f423432402c164f2c5fdb]: Commencement: Sch. para. 40 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-4e91e8b3ab2f423432402c164f2c5fdb]: Commencement: Sch. para. 40 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00109]: Footnote: [S.I. 2008/1054](https://www.legislation.gov.uk/uksi/2008/1054) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
 [^f00110]: Footnote: There are amendments to paragraph 1(1) which are not relevant to this Order.
 
-[^key-a2fabf0336475caf35945d48384fb7e8]: Commencement: Sch. para. 41 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-a2fabf0336475caf35945d48384fb7e8]: Commencement: Sch. para. 41 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00111]: Footnote: [S.I. 2009/3328](https://www.legislation.gov.uk/uksi/2009/3328).
 
-[^key-782e034a5fdd2996b575f0532e1bd3a3]: Commencement: Sch. para. 42 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-782e034a5fdd2996b575f0532e1bd3a3]: Commencement: Sch. para. 42 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00112]: Footnote: [S.I. 2009/470](https://www.legislation.gov.uk/uksi/2009/470) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
-[^key-ce6ddfae057fd98270d88ad39cc75ddf]: Textual amendment: [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/43) revoked (1.4.2024) by [The Supreme Court Fees Order 2024 (S.I. 2024/148)](https://www.legislation.gov.uk/uksi/2024/148), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/148/schedule/3)
+[^c-ce6ddfae057fd98270d88ad39cc75ddf]: Textual amendment: [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/43) revoked (1.4.2024) by [The Supreme Court Fees Order 2024 (S.I. 2024/148)](https://www.legislation.gov.uk/uksi/2024/148), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/148/schedule/3)
 
-[^key-b4c619e0a2a287e3bfb6ca317a4632f3]: Commencement: Sch. para. 44 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-b4c619e0a2a287e3bfb6ca317a4632f3]: Commencement: Sch. para. 44 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00114]: Footnote: [S.I. 2010/19](https://www.legislation.gov.uk/uksi/2010/19) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
-[^key-43b955415f1e3052e39989a9a013af2f]: Commencement: Sch. para. 45 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-43b955415f1e3052e39989a9a013af2f]: Commencement: Sch. para. 45 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00115]: Footnote: [S.I. 2011/2344](https://www.legislation.gov.uk/uksi/2011/2344) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
-[^key-9ae6a23f3cb97ae671ba502c8bb4667c]: Commencement: [Sch. para. 46](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/46) in force at 6.5.2013, see [art. 2(3)(e)](https://www.legislation.gov.uk/uksi/2013/591/article/2/3/e)
+[^c-9ae6a23f3cb97ae671ba502c8bb4667c]: Commencement: [Sch. para. 46](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/46) in force at 6.5.2013, see [art. 2(3)(e)](https://www.legislation.gov.uk/uksi/2013/591/article/2/3/e)
 
 [^f00116]: Footnote: [S.I. 2012/1917](https://www.legislation.gov.uk/uksi/2012/1917) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
-[^key-06611f4b0c4578e0ab1319383710e7d3]: Commencement: Sch. para. 47 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-06611f4b0c4578e0ab1319383710e7d3]: Commencement: Sch. para. 47 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00117]: Footnote: [S.I. 2012/2677](https://www.legislation.gov.uk/uksi/2012/2677) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
-[^key-39112ff0c20de1a529ae8d7795959982]: Commencement: Sch. para. 48 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-39112ff0c20de1a529ae8d7795959982]: Commencement: Sch. para. 48 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00118]: Footnote: [S.I. 2012/2994](https://www.legislation.gov.uk/uksi/2012/2994) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
-[^key-865d9974aa9e6e36bd18e853fb7efada]: Commencement: Sch. para. 49 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-865d9974aa9e6e36bd18e853fb7efada]: Commencement: Sch. para. 49 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00119]: Footnote: [S.I. 2013/480](https://www.legislation.gov.uk/uksi/2013/480).
 
-[^key-d2dbad9531944b4e066bad2f7a57eec6]: Commencement: Sch. para. 50 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-d2dbad9531944b4e066bad2f7a57eec6]: Commencement: Sch. para. 50 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00120]: Footnote: [S.I. 2013/471](https://www.legislation.gov.uk/uksi/2013/471).
 
-[^key-55062a13e6ee8796645b7db98d66b33c]: Commencement: Sch. para. 51 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-55062a13e6ee8796645b7db98d66b33c]: Commencement: Sch. para. 51 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00121]: Footnote: [S.I. 2013/379](https://www.legislation.gov.uk/uksi/2013/379).
 
-[^key-29a068a4a5036268f7311bbcebf48fd1]: Commencement: Sch. para. 52 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-29a068a4a5036268f7311bbcebf48fd1]: Commencement: Sch. para. 52 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00122]: Footnote: [S.I. 2013/378](https://www.legislation.gov.uk/uksi/2013/378).
 
-[^key-d137d0be2340d3c717fc288c39043f8c]: Commencement: Sch. para. 53 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-d137d0be2340d3c717fc288c39043f8c]: Commencement: Sch. para. 53 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00123]: Footnote: [S.I. 2013/386](https://www.legislation.gov.uk/uksi/2013/386).
 
-[^key-e7bd00aecd208559f9b51f9190a59b97]: Commencement: Sch. para. 54 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
+[^c-e7bd00aecd208559f9b51f9190a59b97]: Commencement: Sch. para. 54 in force at 8.4.2013, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2)
 
 [^f00124]: Footnote: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376).

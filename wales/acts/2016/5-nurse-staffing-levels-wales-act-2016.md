@@ -40,7 +40,7 @@ An Act of the National Assembly for Wales to make provision about Local Health B
 
 **Having been passed by the National Assembly for Wales and having received the assent of Her Majesty, it is enacted as follows:**
 
-## 1. Nurse staffing levels[^key-fb7bc86f3280a3cfdc7abe0b931f43c0][^key-6fe419566a72f6176573b77fd87abfac][^key-0a4cecb23e59e4db5d1864d30cae78e1]
+## 1. Nurse staffing levels[^c-fb7bc86f3280a3cfdc7abe0b931f43c0][^c-6fe419566a72f6176573b77fd87abfac][^c-0a4cecb23e59e4db5d1864d30cae78e1]
 
 (1) In Part 2 of the National Health Service (Wales) Act 2006 (c.42) (health service bodies), in Chapter 4 (miscellaneous), before section 26 insert—
 
@@ -164,9 +164,9 @@ An Act of the National Assembly for Wales to make provision about Local Health B
 > - (a) section 113 of the Health and Social Care (Community Health and Standards) Act 2003 (c.43);
 > - (b) the NHS Redress (Wales) Measure 2008 (nawm 1)﻿.
 
-(2)[^key-e81a0b650184f737a5a0a745ab5b93b2] In section 203(6) of the National Health Service (Wales) Act 2006 (c.42) (subordinate legislation: affirmative resolution) after “containing” insert “ regulations under section 25B(3)(c) or ”.
+(2)[^c-e81a0b650184f737a5a0a745ab5b93b2] In section 203(6) of the National Health Service (Wales) Act 2006 (c.42) (subordinate legislation: affirmative resolution) after “containing” insert “ regulations under section 25B(3)(c) or ”.
 
-(3)[^key-e81a0b650184f737a5a0a745ab5b93b2] In section 207 of the National Health Service (Wales) Act 2006 (c.42) (index of defined expressions) after the entry in the table for “NHS trust order” insert “ nurse staffing level ” in the first column and insert “ section 25B(1)(a) ” next to it in the second column.
+(3)[^c-e81a0b650184f737a5a0a745ab5b93b2] In section 207 of the National Health Service (Wales) Act 2006 (c.42) (index of defined expressions) after the entry in the table for “NHS trust order” insert “ nurse staffing level ” in the first column and insert “ section 25B(1)(a) ” next to it in the second column.
 
 ## 2. Commencement
 
@@ -183,10 +183,10 @@ The short title of this Act is the Nurse Staffing Levels (Wales) Act 2016.
 
 ## Annotations
 
-[^key-fb7bc86f3280a3cfdc7abe0b931f43c0]: Commencement: S. 1(1) in force at 3.8.2016 for specified purposes by [S.I. 2016/829](https://www.legislation.gov.uk/wsi/2016/829), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/829/article/2/a)
+[^c-fb7bc86f3280a3cfdc7abe0b931f43c0]: Commencement: S. 1(1) in force at 3.8.2016 for specified purposes by [S.I. 2016/829](https://www.legislation.gov.uk/wsi/2016/829), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/829/article/2/a)
 
-[^key-6fe419566a72f6176573b77fd87abfac]: Commencement: S. 1(1) in force at 6.4.2017 for specified purposes by [S.I. 2016/829](https://www.legislation.gov.uk/wsi/2016/829), [art. 2(b)](https://www.legislation.gov.uk/wsi/2016/829/article/2/b)
+[^c-6fe419566a72f6176573b77fd87abfac]: Commencement: S. 1(1) in force at 6.4.2017 for specified purposes by [S.I. 2016/829](https://www.legislation.gov.uk/wsi/2016/829), [art. 2(b)](https://www.legislation.gov.uk/wsi/2016/829/article/2/b)
 
-[^key-0a4cecb23e59e4db5d1864d30cae78e1]: Commencement: S. 1(1) in force at 6.4.2018 in so far as not already in force by [S.I. 2016/829](https://www.legislation.gov.uk/wsi/2016/829), [art. 2(c)](https://www.legislation.gov.uk/wsi/2016/829/article/2/c)
+[^c-0a4cecb23e59e4db5d1864d30cae78e1]: Commencement: S. 1(1) in force at 6.4.2018 in so far as not already in force by [S.I. 2016/829](https://www.legislation.gov.uk/wsi/2016/829), [art. 2(c)](https://www.legislation.gov.uk/wsi/2016/829/article/2/c)
 
-[^key-e81a0b650184f737a5a0a745ab5b93b2]: Commencement: [S. 1(2)](https://www.legislation.gov.uk/anaw/2016/5/section/1/2)[(3)](https://www.legislation.gov.uk/anaw/2016/5/section/1/3) in force at 21.1.2021 by [S.I. 2021/61](https://www.legislation.gov.uk/wsi/2021/61), [art. 2](https://www.legislation.gov.uk/wsi/2021/61/article/2)
+[^c-e81a0b650184f737a5a0a745ab5b93b2]: Commencement: [S. 1(2)](https://www.legislation.gov.uk/anaw/2016/5/section/1/2)[(3)](https://www.legislation.gov.uk/anaw/2016/5/section/1/3) in force at 21.1.2021 by [S.I. 2021/61](https://www.legislation.gov.uk/wsi/2021/61), [art. 2](https://www.legislation.gov.uk/wsi/2021/61/article/2)

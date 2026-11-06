@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-9acd7b6494c0375efe836b2310a0c6b4] The Financial Services and Markets Act 2000 is amended as follows.
+(1)[^c-9acd7b6494c0375efe836b2310a0c6b4] The Financial Services and Markets Act 2000 is amended as follows.
 
-(2)[^key-9acd7b6494c0375efe836b2310a0c6b4] In section 1H (interpretation provisions for FCA's objectives)—
+(2)[^c-9acd7b6494c0375efe836b2310a0c6b4] In section 1H (interpretation provisions for FCA's objectives)—
 
 - (a) in subsection (2), at the end of paragraph (c) insert “ or to engage in claims management activity ”, and
 - (b) in subsection (8), at the appropriate place insert—
@@ -31,7 +31,7 @@ summary: ''
 
   .
 
-(3)[^key-9acd7b6494c0375efe836b2310a0c6b4] In section 21 (restrictions on financial promotion)—
+(3)[^c-9acd7b6494c0375efe836b2310a0c6b4] In section 21 (restrictions on financial promotion)—
 
 - (a) in subsection (1)—
   - (i) the words from “to engage” to the end become paragraph (a), and
@@ -57,7 +57,7 @@ summary: ''
 
   > (12A) Paragraph 25 of Schedule 2 applies for the purposes of subsection (10B) with the references to section 22 in sub-paragraph (3) of that paragraph being read as references to subsection (10B).
 
-(4)[^key-9acd7b6494c0375efe836b2310a0c6b4] In section 22 (regulated activities)—
+(4)[^c-9acd7b6494c0375efe836b2310a0c6b4] In section 22 (regulated activities)—
 
 - (a) after subsection (1A) insert—
 
@@ -69,7 +69,7 @@ summary: ''
   , and
 - (b) in subsection (3) for “subsection (1) or (1A)” substitute “ subsections (1) to (1B) ”.
 
-(5)[^key-9acd7b6494c0375efe836b2310a0c6b4] In section 137R (financial promotion rules)—
+(5)[^c-9acd7b6494c0375efe836b2310a0c6b4] In section 137R (financial promotion rules)—
 
 - (a) in subsection (1), omit the “or” at the end of paragraph (a) and after that paragraph insert—
 
@@ -78,29 +78,29 @@ summary: ''
   , and
 - (b) in subsection (6), for “has” substitute “ and “engage in claims management activity” have ”.
 
-(6)[^key-9acd7b6494c0375efe836b2310a0c6b4] In section 234C (complaints to the FCA by consumer bodies)—
+(6)[^c-9acd7b6494c0375efe836b2310a0c6b4] In section 234C (complaints to the FCA by consumer bodies)—
 
 - (a) in subsection (1), after “financial services” insert “ or of a market in Great Britain for claims management services ”, and
 - (b) in subsection (5)—
   - (i) in paragraph (a), at the end insert “ (and “**market in Great Britain**” is to be construed accordingly) ”, and
   - (ii) in paragraph (b), after “financial services” insert “ , or of a market in Great Britain for claims management services, ”.
 
-(7)[^key-9acd7b6494c0375efe836b2310a0c6b4] In section 234I (FCA's functions under Part 4 of the Enterprise Act 2002)—
+(7)[^c-9acd7b6494c0375efe836b2310a0c6b4] In section 234I (FCA's functions under Part 4 of the Enterprise Act 2002)—
 
 - (a) in subsection (2)(b), after “services” insert “ or to the provision of claims management services in Great Britain ”, and
 - (b) in subsection (6)(a), after “financial services” insert “ or in Great Britain of claims management services ”.
 
-(8)[^key-9acd7b6494c0375efe836b2310a0c6b4] In section 234J(2) (FCA's functions under the Competition Act 1998), after “financial services” insert “ or relate to the provision of claims management services in Great Britain ”.
+(8)[^c-9acd7b6494c0375efe836b2310a0c6b4] In section 234J(2) (FCA's functions under the Competition Act 1998), after “financial services” insert “ or relate to the provision of claims management services in Great Britain ”.
 
-(9)[^key-9acd7b6494c0375efe836b2310a0c6b4] In section 234M(1) (function of keeping market under review), after “services” insert “ and the market in Great Britain for claims management services ”.
+(9)[^c-9acd7b6494c0375efe836b2310a0c6b4] In section 234M(1) (function of keeping market under review), after “services” insert “ and the market in Great Britain for claims management services ”.
 
-(10)[^key-9acd7b6494c0375efe836b2310a0c6b4] In section 417(1) (definitions), at the appropriate place insert—
+(10)[^c-9acd7b6494c0375efe836b2310a0c6b4] In section 417(1) (definitions), at the appropriate place insert—
 
 > “**regulated claims management activity**” means activity of a kind specified in an order under section 22(1B) (regulated activities: claims management services);
 
 .
 
-(11)[^key-9acd7b6494c0375efe836b2310a0c6b4] After section 419 insert—
+(11)[^c-9acd7b6494c0375efe836b2310a0c6b4] After section 419 insert—
 
 > **419A. Claims management services**
 >
@@ -136,7 +136,7 @@ summary: ''
 >
 > (2) Subsections (2) to (5) of section 419 apply in relation to an order under subsection (1) as they apply in relation to an order under subsection (1) of that section, but as if the references to regulated activities in subsection (2) of that section were references to regulated claims management activities or, as the case may be, to activities of a kind specified in an order under section 21(10B).
 
-(12)[^key-9acd7b6494c0375efe836b2310a0c6b4] In section 429 (parliamentary control of statutory instruments)—
+(12)[^c-9acd7b6494c0375efe836b2310a0c6b4] In section 429 (parliamentary control of statutory instruments)—
 
 - (a) in subsection (1)(a) (orders subject to affirmative procedure), for “or 419” substitute “ , 419 or 419B ”,
 - (b) in subsection (4)—
@@ -158,14 +158,14 @@ summary: ''
   > - (a) it is the first order to be made, or to contain provisions made, under that subsection; or
   > - (b) it adds one or more benefits to those that are specified benefits for the purposes of section 419A.
 
-(13)[^key-9acd7b6494c0375efe836b2310a0c6b4] In Schedule 2 (regulated activities)—
+(13)[^c-9acd7b6494c0375efe836b2310a0c6b4] In Schedule 2 (regulated activities)—
 
 - (a) in paragraph 25 (order making power), in sub-paragraph (1)—
   - (i) in the opening words for “or (1A)” substitute “ to (1B) ”;
   - (ii) in paragraph (f) at the end insert “ , including provision which applies (with or without modification) provision in this Act or other primary or subordinate legislation that relates to investment activity or financial services to a regulated activity that does not relate to investment activity or financial services. ”, and
 - (b) in paragraph 26 (parliamentary control), in sub-paragraph (1) for “or (1A)” substitute “ to (1B) ”.
 
-(14)[^key-9acd7b6494c0375efe836b2310a0c6b4] Schedule 4 contains provision about transfer schemes where an order is made under section 22(1B) of the Financial Services and Markets Act 2000 (inserted by subsection (4)(a)).
+(14)[^c-9acd7b6494c0375efe836b2310a0c6b4] Schedule 4 contains provision about transfer schemes where an order is made under section 22(1B) of the Financial Services and Markets Act 2000 (inserted by subsection (4)(a)).
 
 (15) Schedule 5 contains transitional provision relating to this section.
 
@@ -173,4 +173,4 @@ summary: ''
 
 [^c23272071]: Commencement: S. 27 partly in force; s. 27(15) in force at Royal Assent, see s. 37(1)(f)
 
-[^key-9acd7b6494c0375efe836b2310a0c6b4]: Commencement: S. 27(1)-(14) in force at 6.10.2018 by [S.I. 2018/1045](https://www.legislation.gov.uk/uksi/2018/1045), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1045/regulation/2/a)
+[^c-9acd7b6494c0375efe836b2310a0c6b4]: Commencement: S. 27(1)-(14) in force at 6.10.2018 by [S.I. 2018/1045](https://www.legislation.gov.uk/uksi/2018/1045), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1045/regulation/2/a)

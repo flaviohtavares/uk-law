@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Mixed procurement: above and below threshold[^key-e15a14890e62e695189e745a133f813c][^key-ca8629197afa74f524da3e1e650e23dc]
+## 5. Mixed procurement: above and below threshold[^c-e15a14890e62e695189e745a133f813c][^c-ca8629197afa74f524da3e1e650e23dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ that has an estimated value of less than the threshold amount for the type of co
 
 ## Annotations
 
-[^key-e15a14890e62e695189e745a133f813c]: Commencement: S. 5 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-e15a14890e62e695189e745a133f813c]: Commencement: S. 5 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-ca8629197afa74f524da3e1e650e23dc]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/54/section/5) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-ca8629197afa74f524da3e1e650e23dc]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/54/section/5) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

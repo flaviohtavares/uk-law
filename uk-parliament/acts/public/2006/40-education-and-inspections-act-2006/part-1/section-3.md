@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Duty to consider parental representations[^key-5288cd42df552d95fa3f830838b1f1c9]
+## 3. Duty to consider parental representations[^c-5288cd42df552d95fa3f830838b1f1c9]
 
 *Extent: E+W*
 
 After section 14 of EA 1996 insert—
 
-> **14A. Duty of local authority to consider parental representations[^key-0ea7acc4831332590d0c9da4689eca3c]**
+> **14A. Duty of local authority to consider parental representations[^c-0ea7acc4831332590d0c9da4689eca3c]**
 >
 > (1) Where a local authority in England receive any representation from a parent of a qualifying child as to the exercise by the authority of their functions under section 14, the authority shall—
 >
@@ -42,6 +42,6 @@ After section 14 of EA 1996 insert—
 
 ## Annotations
 
-[^key-5288cd42df552d95fa3f830838b1f1c9]: Commencement: S. 3 in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(a)](https://www.legislation.gov.uk/uksi/2007/935/article/7/a)
+[^c-5288cd42df552d95fa3f830838b1f1c9]: Commencement: S. 3 in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(a)](https://www.legislation.gov.uk/uksi/2007/935/article/7/a)
 
-[^key-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)
+[^c-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)

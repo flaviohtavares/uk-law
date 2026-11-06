@@ -35,13 +35,13 @@ summary: ''
 
 (5) Except as provided in paragraph (6), no reference to any covenant implied by virtue of Part I of the 1994 Act, or by section 76 of the LPA 1925 as applied by section 11(1) of the 1994 Act, shall be made in the register.
 
-(6) A reference may be made in the register where a registrable disposition of leasehold land limits or extends a covenant implied under section 4(1)(b)[^key-64bc7e0a96674ee8f280fa46b1b63b7a] of the 1994 Act.
+(6) A reference may be made in the register where a registrable disposition of leasehold land limits or extends a covenant implied under section 4(1)(b)[^c-64bc7e0a96674ee8f280fa46b1b63b7a] of the 1994 Act.
 
 (7) In this rule “**the LPA 1925**” means the Law of Property Act 1925 [^c10312111] and “**the 1994 Act**” means the Law of Property (Miscellaneous Provisions) Act 1994 [^c10312121].
 
 ## Annotations
 
-[^key-64bc7e0a96674ee8f280fa46b1b63b7a]: Textual amendment: Words in rule 67(6) substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/18) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-64bc7e0a96674ee8f280fa46b1b63b7a]: Textual amendment: Words in rule 67(6) substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/18) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
 
 [^c10312111]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 

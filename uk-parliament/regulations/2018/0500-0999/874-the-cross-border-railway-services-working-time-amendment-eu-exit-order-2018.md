@@ -52,7 +52,7 @@ The Secretary of State makes this Order in exercise of the powers conferred by s
 
 (2) This Order extends to Great Britain only.
 
-(3)[^key-e8c985d11423272eb906c34771c398cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e8c985d11423272eb906c34771c398cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 2. Amendment of the Cross-border Railway Services (Working Time) Regulations 2008[^c23359551]
 
@@ -88,7 +88,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23359541]: Commencement: Art. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1) Sch. 5 para. 1(1)), see [art. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/article/1/1)
 
-[^key-e8c985d11423272eb906c34771c398cf]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/uksi/2018/874/article/1/3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [3](https://www.legislation.gov.uk/uksi/2020/786/regulation/3)
+[^c-e8c985d11423272eb906c34771c398cf]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/uksi/2018/874/article/1/3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [3](https://www.legislation.gov.uk/uksi/2020/786/regulation/3)
 
 [^c23359551]: Commencement: Art. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1) Sch. 5 para. 1(1)), see [art. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/article/1/1)
 

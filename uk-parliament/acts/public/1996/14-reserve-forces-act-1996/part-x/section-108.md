@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1A)[^key-c05e6d7326a4d53423aad3a39981c3cd] The Secretary of State may by regulations make provision with respect to evidence, including the admissibility of evidence, in proceedings before a civil court for an offence under this Act.
+(1A)[^c-c05e6d7326a4d53423aad3a39981c3cd] The Secretary of State may by regulations make provision with respect to evidence, including the admissibility of evidence, in proceedings before a civil court for an offence under this Act.
 
 (1B) Regulations under subsection (1A) shall be made by statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c05e6d7326a4d53423aad3a39981c3cd]: Textual amendment: S. 108(1A)(1B) substituted for s. 108(1)(2) (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 50](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/50); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-c05e6d7326a4d53423aad3a39981c3cd]: Textual amendment: S. 108(1A)(1B) substituted for s. 108(1)(2) (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 50](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/50); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

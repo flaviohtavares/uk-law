@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Optional lamps, reflectors, rear markings and devices[^key-2f8b7c1350adafca4c66e5f2ea27ce9f]
+## 20. Optional lamps, reflectors, rear markings and devices[^c-2f8b7c1350adafca4c66e5f2ea27ce9f]
 
 *Extent: E+W+S*
 
-Subject to regulation 20A(9), every optional lamp[^key-ce5fa8b4012836822d54f368525d26ab], reflector, rear marking or device fitted to a vehicle, being of a type specified in an item in column 2 of the Table below, shall comply with the provisions shown in column 3 of that Table.
+Subject to regulation 20A(9), every optional lamp[^c-ce5fa8b4012836822d54f368525d26ab], reflector, rear marking or device fitted to a vehicle, being of a type specified in an item in column 2 of the Table below, shall comply with the provisions shown in column 3 of that Table.
 
 **TABLE**
 
@@ -53,14 +53,14 @@ Subject to regulation 20A(9), every optional lamp[^key-ce5fa8b4012836822d54f3685
 </tbody>
 </table>
 
-[^key-74e9c608c401ad5d902eb0523dceb86d][^key-8c4df2e87bd4e7b7cd54aabaa6f724cf]
+[^c-74e9c608c401ad5d902eb0523dceb86d][^c-8c4df2e87bd4e7b7cd54aabaa6f724cf]
 
 ## Annotations
 
-[^key-2f8b7c1350adafca4c66e5f2ea27ce9f]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1989/1796/regulation/20) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-2f8b7c1350adafca4c66e5f2ea27ce9f]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1989/1796/regulation/20) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-ce5fa8b4012836822d54f368525d26ab]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/uksi/1989/1796/regulation/20) substituted (4.1.2010) by [The Road Vehicles Lighting and Goods Vehicles (Plating and Testing) (Amendment) Regulations 2009 (S.I. 2009/3220)](https://www.legislation.gov.uk/uksi/2009/3220), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3220/regulation/1), [7](https://www.legislation.gov.uk/uksi/2009/3220/regulation/7)
+[^c-ce5fa8b4012836822d54f368525d26ab]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/uksi/1989/1796/regulation/20) substituted (4.1.2010) by [The Road Vehicles Lighting and Goods Vehicles (Plating and Testing) (Amendment) Regulations 2009 (S.I. 2009/3220)](https://www.legislation.gov.uk/uksi/2009/3220), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3220/regulation/1), [7](https://www.legislation.gov.uk/uksi/2009/3220/regulation/7)
 
-[^key-74e9c608c401ad5d902eb0523dceb86d]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/uksi/1989/1796/regulation/20) inserted (20.5.2018) by [The Road Vehicles Lighting (Amendment) Regulations 2017 (S.I. 2017/852)](https://www.legislation.gov.uk/uksi/2017/852), [regs. 1](https://www.legislation.gov.uk/uksi/2017/852/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2017/852/regulation/5/a)
+[^c-74e9c608c401ad5d902eb0523dceb86d]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/uksi/1989/1796/regulation/20) inserted (20.5.2018) by [The Road Vehicles Lighting (Amendment) Regulations 2017 (S.I. 2017/852)](https://www.legislation.gov.uk/uksi/2017/852), [regs. 1](https://www.legislation.gov.uk/uksi/2017/852/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2017/852/regulation/5/a)
 
-[^key-8c4df2e87bd4e7b7cd54aabaa6f724cf]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/uksi/1989/1796/regulation/20) inserted (20.5.2018) by [The Road Vehicles Lighting (Amendment) Regulations 2017 (S.I. 2017/852)](https://www.legislation.gov.uk/uksi/2017/852), [regs. 1](https://www.legislation.gov.uk/uksi/2017/852/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2017/852/regulation/5/b)
+[^c-8c4df2e87bd4e7b7cd54aabaa6f724cf]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/uksi/1989/1796/regulation/20) inserted (20.5.2018) by [The Road Vehicles Lighting (Amendment) Regulations 2017 (S.I. 2017/852)](https://www.legislation.gov.uk/uksi/2017/852), [regs. 1](https://www.legislation.gov.uk/uksi/2017/852/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2017/852/regulation/5/b)

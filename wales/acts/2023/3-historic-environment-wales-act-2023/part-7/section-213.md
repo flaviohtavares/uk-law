@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 213. Short title[^key-0298595b9f048fe7e21b8eb3d24b6a15]
+## 213. Short title[^c-0298595b9f048fe7e21b8eb3d24b6a15]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The short title of this Act is the Historic Environment (Wales) Act 2023.
 
 ## Annotations
 
-[^key-0298595b9f048fe7e21b8eb3d24b6a15]: Commencement: S. 213 in force at 15.6.2023, see [s. 212(1)(f)](https://www.legislation.gov.uk/asc/2023/3/section/212/1/f)
+[^c-0298595b9f048fe7e21b8eb3d24b6a15]: Commencement: S. 213 in force at 15.6.2023, see [s. 212(1)(f)](https://www.legislation.gov.uk/asc/2023/3/section/212/1/f)

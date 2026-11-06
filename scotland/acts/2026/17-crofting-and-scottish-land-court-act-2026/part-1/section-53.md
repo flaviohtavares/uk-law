@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Chairing of Commission meetings and committees[^key-e6be2537db3cbc175a401b5b7fcc3068]
+## 53. Chairing of Commission meetings and committees[^c-e6be2537db3cbc175a401b5b7fcc3068]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6be2537db3cbc175a401b5b7fcc3068]: Commencement: S. 53 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-e6be2537db3cbc175a401b5b7fcc3068]: Commencement: S. 53 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

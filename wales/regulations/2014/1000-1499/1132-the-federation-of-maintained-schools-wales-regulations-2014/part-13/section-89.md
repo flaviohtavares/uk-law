@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Availability of amounts representing budget share[^key-f6cf9f1655af01961dc21efc6a4f7fdc]
+## 89. Availability of amounts representing budget share[^c-f6cf9f1655af01961dc21efc6a4f7fdc]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Subject to any provision made by or under a scheme made under section 48(1) of t
 
 ## Annotations
 
-[^key-f6cf9f1655af01961dc21efc6a4f7fdc]: Commencement: Reg. 89 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-f6cf9f1655af01961dc21efc6a4f7fdc]: Commencement: Reg. 89 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
 
 [^f00042]: Footnote: As modified by regulation 78 of these Regulations.

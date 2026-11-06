@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Code of practice: regulatory intervention[^key-3ca664ebacb3b74d50b0a0eb2f09e6f4][^key-bbc195aa5d745c22982c4b96a72bd377]
+## 54. Code of practice: regulatory intervention[^c-3ca664ebacb3b74d50b0a0eb2f09e6f4][^c-bbc195aa5d745c22982c4b96a72bd377]
 
 *Extent: S*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3ca664ebacb3b74d50b0a0eb2f09e6f4]: Commencement: S. 54 in force at 1.4.2011 for specified purposes by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-3ca664ebacb3b74d50b0a0eb2f09e6f4]: Commencement: S. 54 in force at 1.4.2011 for specified purposes by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
 
-[^key-bbc195aa5d745c22982c4b96a72bd377]: Commencement: S. 54 in force at 1.4.2012 in so far as not already in force by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-bbc195aa5d745c22982c4b96a72bd377]: Commencement: S. 54 in force at 1.4.2012 in so far as not already in force by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))

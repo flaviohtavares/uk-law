@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50A. Application of Chapter 4A[^key-018cf7b3de5328cdabcef5d3344ad6ab]
+## 50A. Application of Chapter 4A[^c-018cf7b3de5328cdabcef5d3344ad6ab]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Chapter does not apply in relation to a registered social landlord's provis
 
 ## Annotations
 
-[^key-018cf7b3de5328cdabcef5d3344ad6ab]: Textual amendment: Pt. I Ch. 4A and s. 50A and cross-heading inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 50](https://www.legislation.gov.uk/mwa/2011/5/section/50), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(h)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/h)
+[^c-018cf7b3de5328cdabcef5d3344ad6ab]: Textual amendment: Pt. I Ch. 4A and s. 50A and cross-heading inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 50](https://www.legislation.gov.uk/mwa/2011/5/section/50), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(h)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/h)

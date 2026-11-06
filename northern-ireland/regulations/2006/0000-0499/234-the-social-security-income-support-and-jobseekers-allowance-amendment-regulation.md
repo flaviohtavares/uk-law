@@ -41,17 +41,17 @@ Coming into operation
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 122(1)(a), 123(1)(e) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Articles 8(2) and (4), 9(4), 10, 36(2) of, and paragraphs 8 and 8A(1) of Schedule 1 to, the Jobseekers (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003].
 
-## 1. Citation, commencement and interpretation[^key-63028ea1a153358b2e59c9efd73d7b01]
+## 1. Citation, commencement and interpretation[^c-63028ea1a153358b2e59c9efd73d7b01]
 
 (1) These Regulations may be cited as the Social Security (Income Support and Jobseeker’s Allowance) (Amendment) Regulations (Northern Ireland) 2006 and shall come into operation on 30th May 2006.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Income Support (General) Regulations[^key-b86440d3c74188ee70cc218a6a0e833f]
+## 2. Amendment of the Income Support (General) Regulations[^c-b86440d3c74188ee70cc218a6a0e833f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Jobseeker’s Allowance Regulations[^key-2cd99fca206ce069783b1a08f7cedda1]
+## 3. Amendment of the Jobseeker’s Allowance Regulations[^c-2cd99fca206ce069783b1a08f7cedda1]
 
 (1) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00008] shall be amended in accordance with paragraphs (2) to (6).
 
@@ -80,7 +80,7 @@ The Department for Social Development makes the following Regulations in exercis
   > - (c) where he is a prisoner as defined by regulation 85(4)[^f00014] (special cases).
 
   , and
-- (d)[^key-b6061ee57120336847b761749e24bcdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-b6061ee57120336847b761749e24bcdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In regulation 19 (circumstances in which a person is to be treated as actively seeking employment)—
 
@@ -100,14 +100,14 @@ The Department for Social Development makes the following Regulations in exercis
   > - (c) where he is a prisoner as defined by regulation 85(4) (special cases).
 
   , and
-- (d)[^key-012327963c153e913d84733a2471e0e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-012327963c153e913d84733a2471e0e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In regulation 30 (circumstances in which a claimant is to be regarded as having good cause for failing to comply with a notification under regulation 23)—
 
 - (a) in paragraph (a)[^f00016], “(a) or” shall be omitted, and
-- (b)[^key-863d3443c2dc19751e15d7ce5e5999e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-863d3443c2dc19751e15d7ce5e5999e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-9ba019354b32db1d790a9aa1b41854ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-9ba019354b32db1d790a9aa1b41854ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Sealed with the Official Seal of the Department for Social Development on 25th May 2006.
 
@@ -141,13 +141,13 @@ These Regulations do not impose a charge on business.
 
 [^f00003]: Footnote: See Article 8(b) and Part II of Schedule 6 to, [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-63028ea1a153358b2e59c9efd73d7b01]: Commencement: Reg. 1 in operation at 30.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/234/regulation/1/1)
+[^c-63028ea1a153358b2e59c9efd73d7b01]: Commencement: Reg. 1 in operation at 30.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/234/regulation/1/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-b86440d3c74188ee70cc218a6a0e833f]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/234/regulation/2) revoked (9.10.2006) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2006 (S.R. 2006/359)](https://www.legislation.gov.uk/nisr/2006/359), [regs. 1(5)](https://www.legislation.gov.uk/nisr/2006/359/regulation/1/5), [15](https://www.legislation.gov.uk/nisr/2006/359/regulation/15), [Sch.](https://www.legislation.gov.uk/nisr/2006/359/schedule)
+[^c-b86440d3c74188ee70cc218a6a0e833f]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/234/regulation/2) revoked (9.10.2006) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2006 (S.R. 2006/359)](https://www.legislation.gov.uk/nisr/2006/359), [regs. 1(5)](https://www.legislation.gov.uk/nisr/2006/359/regulation/1/5), [15](https://www.legislation.gov.uk/nisr/2006/359/regulation/15), [Sch.](https://www.legislation.gov.uk/nisr/2006/359/schedule)
 
-[^key-2cd99fca206ce069783b1a08f7cedda1]: Commencement: Reg. 3 in operation at 30.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/234/regulation/1/1)
+[^c-2cd99fca206ce069783b1a08f7cedda1]: Commencement: Reg. 3 in operation at 30.5.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/234/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 1997 No. 138](https://www.legislation.gov.uk/nisr/1997/138), [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81), [S.R. 1999 No. 107](https://www.legislation.gov.uk/nisr/1999/107), [S.R. 2001 No. 56](https://www.legislation.gov.uk/nisr/2001/56), [S.R. 2002 No. 388](https://www.legislation.gov.uk/nisr/2002/388) and [S.R. 2004 No. 308](https://www.legislation.gov.uk/nisr/2004/308)
 
@@ -163,14 +163,14 @@ These Regulations do not impose a charge on business.
 
 [^f00014]: Footnote: The definition of “prisoner” was amended by regulation 5(2)(c) of [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81)
 
-[^key-b6061ee57120336847b761749e24bcdf]: Textual amendment: [Reg. 3(3)(d)](https://www.legislation.gov.uk/nisr/2006/234/regulation/3/3/d) revoked (9.10.2006) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2006 (S.R. 2006/359)](https://www.legislation.gov.uk/nisr/2006/359), [regs. 1(5)](https://www.legislation.gov.uk/nisr/2006/359/regulation/1/5), [15](https://www.legislation.gov.uk/nisr/2006/359/regulation/15), [Sch.](https://www.legislation.gov.uk/nisr/2006/359/schedule)
+[^c-b6061ee57120336847b761749e24bcdf]: Textual amendment: [Reg. 3(3)(d)](https://www.legislation.gov.uk/nisr/2006/234/regulation/3/3/d) revoked (9.10.2006) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2006 (S.R. 2006/359)](https://www.legislation.gov.uk/nisr/2006/359), [regs. 1(5)](https://www.legislation.gov.uk/nisr/2006/359/regulation/1/5), [15](https://www.legislation.gov.uk/nisr/2006/359/regulation/15), [Sch.](https://www.legislation.gov.uk/nisr/2006/359/schedule)
 
 [^f00015]: Footnote: Sub-paragraph (t) was added by regulation 3(3)(b) of [S.R. 2004 No. 308](https://www.legislation.gov.uk/nisr/2004/308)
 
-[^key-012327963c153e913d84733a2471e0e9]: Textual amendment: [Reg. 3(4)(d)](https://www.legislation.gov.uk/nisr/2006/234/regulation/3/4/d) revoked (9.10.2006) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2006 (S.R. 2006/359)](https://www.legislation.gov.uk/nisr/2006/359), [regs. 1(5)](https://www.legislation.gov.uk/nisr/2006/359/regulation/1/5), [15](https://www.legislation.gov.uk/nisr/2006/359/regulation/15), [Sch.](https://www.legislation.gov.uk/nisr/2006/359/schedule)
+[^c-012327963c153e913d84733a2471e0e9]: Textual amendment: [Reg. 3(4)(d)](https://www.legislation.gov.uk/nisr/2006/234/regulation/3/4/d) revoked (9.10.2006) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2006 (S.R. 2006/359)](https://www.legislation.gov.uk/nisr/2006/359), [regs. 1(5)](https://www.legislation.gov.uk/nisr/2006/359/regulation/1/5), [15](https://www.legislation.gov.uk/nisr/2006/359/regulation/15), [Sch.](https://www.legislation.gov.uk/nisr/2006/359/schedule)
 
 [^f00016]: Footnote: Paragraph (a) was amended by regulation 2(5) of [S.R. 2000 No. 255](https://www.legislation.gov.uk/nisr/2000/255) and regulation 2(5) of [S.R. 2002 No. 388](https://www.legislation.gov.uk/nisr/2002/388)
 
-[^key-863d3443c2dc19751e15d7ce5e5999e0]: Textual amendment: [Reg. 3(5)(b)](https://www.legislation.gov.uk/nisr/2006/234/regulation/3/5/b) revoked (2.12.2008) by [The Social Security (Lone Parents and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/478)](https://www.legislation.gov.uk/nisr/2008/478), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1), [14(b)](https://www.legislation.gov.uk/nisr/2008/478/regulation/14/b)
+[^c-863d3443c2dc19751e15d7ce5e5999e0]: Textual amendment: [Reg. 3(5)(b)](https://www.legislation.gov.uk/nisr/2006/234/regulation/3/5/b) revoked (2.12.2008) by [The Social Security (Lone Parents and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/478)](https://www.legislation.gov.uk/nisr/2008/478), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1), [14(b)](https://www.legislation.gov.uk/nisr/2008/478/regulation/14/b)
 
-[^key-9ba019354b32db1d790a9aa1b41854ca]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/nisr/2006/234/regulation/3/6) revoked (9.10.2006) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2006 (S.R. 2006/359)](https://www.legislation.gov.uk/nisr/2006/359), [regs. 1(5)](https://www.legislation.gov.uk/nisr/2006/359/regulation/1/5), [15](https://www.legislation.gov.uk/nisr/2006/359/regulation/15), [Sch.](https://www.legislation.gov.uk/nisr/2006/359/schedule)
+[^c-9ba019354b32db1d790a9aa1b41854ca]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/nisr/2006/234/regulation/3/6) revoked (9.10.2006) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2006 (S.R. 2006/359)](https://www.legislation.gov.uk/nisr/2006/359), [regs. 1(5)](https://www.legislation.gov.uk/nisr/2006/359/regulation/1/5), [15](https://www.legislation.gov.uk/nisr/2006/359/regulation/15), [Sch.](https://www.legislation.gov.uk/nisr/2006/359/schedule)

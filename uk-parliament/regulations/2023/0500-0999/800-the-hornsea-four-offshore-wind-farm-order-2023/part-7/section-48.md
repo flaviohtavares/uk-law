@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Modification of Section 106 agreements relating to land[^key-4181fd51f66236abac828169e6c4f994]
+## 48. Modification of Section 106 agreements relating to land[^c-4181fd51f66236abac828169e6c4f994]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The undertaker will not be bound by any obligation which would fall on any owner
 
 ## Annotations
 
-[^key-4181fd51f66236abac828169e6c4f994]: Commencement: Art. 48 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-4181fd51f66236abac828169e6c4f994]: Commencement: Art. 48 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)

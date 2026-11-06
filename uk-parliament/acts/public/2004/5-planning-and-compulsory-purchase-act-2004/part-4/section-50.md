@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Appeal made: functions of local planning authority[^key-3726a5f3bd5cf0513f7d309bcf9f3a5d][^key-0053708d3c70205c51d916a3d7efc55a]
+## 50. Appeal made: functions of local planning authority[^c-3726a5f3bd5cf0513f7d309bcf9f3a5d][^c-0053708d3c70205c51d916a3d7efc55a]
 
 *Extent: E+W*
 
@@ -78,6 +78,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3726a5f3bd5cf0513f7d309bcf9f3a5d]: Commencement: S. 50 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-3726a5f3bd5cf0513f7d309bcf9f3a5d]: Commencement: S. 50 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-0053708d3c70205c51d916a3d7efc55a]: Commencement: S. 50 in force at 22.6.2015 for W. so far as not already in force by [S.I. 2015/340](https://www.legislation.gov.uk/uksi/2015/340), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/340/article/2/b)
+[^c-0053708d3c70205c51d916a3d7efc55a]: Commencement: S. 50 in force at 22.6.2015 for W. so far as not already in force by [S.I. 2015/340](https://www.legislation.gov.uk/uksi/2015/340), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/340/article/2/b)

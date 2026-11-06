@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Cancellation of registration of reprocessors and exporters[^key-60d651d91dff79a238a8e1e17c024571]
+## 90. Cancellation of registration of reprocessors and exporters[^c-60d651d91dff79a238a8e1e17c024571]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60d651d91dff79a238a8e1e17c024571]: Commencement: Reg. 90 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-60d651d91dff79a238a8e1e17c024571]: Commencement: Reg. 90 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

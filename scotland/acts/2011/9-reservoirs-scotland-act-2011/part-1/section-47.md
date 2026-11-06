@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Inspections: duties of inspecting engineers etc.[^key-75f51440642a37f0a176011c32093024]
+## 47. Inspections: duties of inspecting engineers etc.[^c-75f51440642a37f0a176011c32093024]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75f51440642a37f0a176011c32093024]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2011/9/section/47) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
+[^c-75f51440642a37f0a176011c32093024]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2011/9/section/47) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 266. Order under section 265: further provision[^key-846d7fabc428476165b0703ed75878d5]
+## 266. Order under section 265: further provision[^c-846d7fabc428476165b0703ed75878d5]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-846d7fabc428476165b0703ed75878d5]: Textual amendment: S. 266 repealed (16.11.2015) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 15(2)](https://www.legislation.gov.uk/asp/2015/9/section/15/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2015/361](https://www.legislation.gov.uk/ssi/2015/361), [art. 2](https://www.legislation.gov.uk/ssi/2015/361/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2015/361/article/4))
+[^c-846d7fabc428476165b0703ed75878d5]: Textual amendment: S. 266 repealed (16.11.2015) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 15(2)](https://www.legislation.gov.uk/asp/2015/9/section/15/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2015/361](https://www.legislation.gov.uk/ssi/2015/361), [art. 2](https://www.legislation.gov.uk/ssi/2015/361/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2015/361/article/4))

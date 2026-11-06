@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 123. Debts depending on contingency[^key-cf210797679b94391f81947c1d2da96e]
+## 123. Debts depending on contingency[^c-cf210797679b94391f81947c1d2da96e]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ the administrator or court must put a value on the debt in so far as it is conti
 
 ## Annotations
 
-[^key-cf210797679b94391f81947c1d2da96e]: Commencement: Rule 123 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-cf210797679b94391f81947c1d2da96e]: Commencement: Rule 123 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

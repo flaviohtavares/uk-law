@@ -16,42 +16,42 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — PRESCRIBED DESCRIPTIONS OF MATERIAL, MEANINGS OF NAMES, PARTICULARS AND INFORMATION TO BE CONTAINED IN THE STATUTORY STATEMENT AND LIMITS OF VARIATION[^key-1a39817369478f6fe2d60bd8bc7818d5]
+## SCHEDULE 1 — PRESCRIBED DESCRIPTIONS OF MATERIAL, MEANINGS OF NAMES, PARTICULARS AND INFORMATION TO BE CONTAINED IN THE STATUTORY STATEMENT AND LIMITS OF VARIATION[^c-1a39817369478f6fe2d60bd8bc7818d5]
 
 *Extent: E+W+S*
 
 Regulations 1(2), 2, 3, 4, 5, 6, 7, 9 and 10(1)
 
-### 1. Limits of variation[^key-cf241d28c9cff748c98659ac7c591ebc]
+### 1. Limits of variation[^c-cf241d28c9cff748c98659ac7c591ebc]
 
 The limits of variation prescribed in this Schedule shall be the permitted deviations of the measured from the declared content of a nutrient, secondary nutrient or trace element, or of the measured from the declared neutralising value, or of the measured from the declared amount of material passing through a specified sieve.
 
-**2.**[^key-cbf1cd7b1eaf552a146b3c6c43c18e79] Save as prescribed in paragraphs 6, 7 and 8, the limits of variation shall be those set out in the fifth column of the following table.
+**2.**[^c-cbf1cd7b1eaf552a146b3c6c43c18e79] Save as prescribed in paragraphs 6, 7 and 8, the limits of variation shall be those set out in the fifth column of the following table.
 
-**3.**[^key-f20a8d26526f7bd968f92e1f84f0fba1] In Section B and Group 2 of Section C of the following table the negative limits of variation specified individually for N, P<sub>2</sub>O<sub>5</sub> and K<sub>2</sub>O are those permitted for each nutrient taken separately and the limits of variation for the total nutrient content of a fertiliser shall be the sum of the negative deviations from the declared content.
+**3.**[^c-f20a8d26526f7bd968f92e1f84f0fba1] In Section B and Group 2 of Section C of the following table the negative limits of variation specified individually for N, P<sub>2</sub>O<sub>5</sub> and K<sub>2</sub>O are those permitted for each nutrient taken separately and the limits of variation for the total nutrient content of a fertiliser shall be the sum of the negative deviations from the declared content.
 
-**4.**[^key-6a9e4ff204d55d829091b26db260036c] No limits of variation shall be permitted in respect of the minimum and maximum contents specified in the third column of the following table, save those prescribed in paragraph 6.
+**4.**[^c-6a9e4ff204d55d829091b26db260036c] No limits of variation shall be permitted in respect of the minimum and maximum contents specified in the third column of the following table, save those prescribed in paragraph 6.
 
-**5.**[^key-94ffcc14a01194a523a22d21fbce7992] Where no maximum limit is specified in the third column of the following table, no limits of variation are prescribed as respects an excess of nutrient, neutralising value or amount of material passing through a specified sieve above the declared value or amount, save those prescribed in paragraph 7(b).
+**5.**[^c-94ffcc14a01194a523a22d21fbce7992] Where no maximum limit is specified in the third column of the following table, no limits of variation are prescribed as respects an excess of nutrient, neutralising value or amount of material passing through a specified sieve above the declared value or amount, save those prescribed in paragraph 7(b).
 
-**6.**[^key-e61b8ed6966cb3f1caaed186ad5b1b11] In the case of materials in Groups 1 to 4 of Section B and Group 2 of Section C of the following table which [^key-8627a09e5ba5058c7487c7007b35140e]... are sold or offered for sale, and where the declared content of one or more of the nutrients falls below the following levels:
+**6.**[^c-e61b8ed6966cb3f1caaed186ad5b1b11] In the case of materials in Groups 1 to 4 of Section B and Group 2 of Section C of the following table which [^c-8627a09e5ba5058c7487c7007b35140e]... are sold or offered for sale, and where the declared content of one or more of the nutrients falls below the following levels:
 
 - (i) in the case of nitrogen (N) — 2.5% in an NPK fluid fertiliser solution and 3.5% for all other fertilisers and
 - (ii) in the case of phosphorus pentoxide (P<sub>2</sub>O<sub>5</sub>) and potassium oxide (K<sub>2</sub>O) — 3.5% in a fluid fertiliser solution, 4.5% in an NPK fluid fertiliser suspension and 5.5% for all other fertilisers,
 
 the limit of variation for the declared nutrient in such cases shall be that specified in the sixth column of the following table.
 
-**7.**[^key-c802c13eec7e26ac76e0a5550779a755] The limits of variation permitted in respect of the declared content for the forms of nitrogen or the declared solubilities of phosphorus pentoxide shall be as follows:
+**7.**[^c-c802c13eec7e26ac76e0a5550779a755] The limits of variation permitted in respect of the declared content for the forms of nitrogen or the declared solubilities of phosphorus pentoxide shall be as follows:
 
 - (a) except as provided in sub-paragraph (b) of this paragraph, the limit of variation shall be one-tenth of the overall content of the nutrient concerned, with a maximum of 2 % by weight:
 
 Provided that the overall content of that nutrient remains within:
 
-- (i) the levels specified in the third column of the following table save as respects the materials in Groups 1 to 4 of Section B and Group 2 of Section C of the said table which [^key-66978c686a494699ebffb39664fa0de0]... are sold or offered for sale;
+- (i) the levels specified in the third column of the following table save as respects the materials in Groups 1 to 4 of Section B and Group 2 of Section C of the said table which [^c-66978c686a494699ebffb39664fa0de0]... are sold or offered for sale;
 - (ii) the limits of variation specified in the fifth or, where appropriate, the sixth column of the said table.
-- (b) in the case of materials in Group 1(c) of Section A and Groups 1, 2, 3, 5 and 6 of Section B and Groups 1(d), 2, 3 and 4 of Section C of the following table which [^key-24f284a6f168b0f7b47153f9dec9b6df]... are sold or offered for sale, the limits of variation of ureic nitrogen when declared at 10 % and above shall be plus or minus 1.5 % by weight and when declared below 10% shall be plus or minus 1.0% by weight.
+- (b) in the case of materials in Group 1(c) of Section A and Groups 1, 2, 3, 5 and 6 of Section B and Groups 1(d), 2, 3 and 4 of Section C of the following table which [^c-24f284a6f168b0f7b47153f9dec9b6df]... are sold or offered for sale, the limits of variation of ureic nitrogen when declared at 10 % and above shall be plus or minus 1.5 % by weight and when declared below 10% shall be plus or minus 1.0% by weight.
 
-**8.**[^key-56f66b146609ae918577e03110107372] The limits of variation for trace elements and secondary nutrients other than where prescribed in Sections D and E of the following table shall be:
+**8.**[^c-56f66b146609ae918577e03110107372] The limits of variation for trace elements and secondary nutrients other than where prescribed in Sections D and E of the following table shall be:
 
 - (i) trace elements — up to one-fifth of the declared value for a trace element content not exceeding 2% and 0.4% in absolute terms for a content of more than 2%;
 - (ii) secondary nutrients in the oxide form — up to a quarter of the declared value for a secondary nutrient content not exceeding 3.6% and 0.9% in absolute terms for a content of more than 3.6%. This is equivalent to the following maxima for the elemental forms—
@@ -62,7 +62,7 @@ Provided that the overall content of that nutrient remains within:
 
 ### SECTION A: — STRAIGHT FERTILISERS
 
-[^key-1a39817369478f6fe2d60bd8bc7818d5]
+[^c-1a39817369478f6fe2d60bd8bc7818d5]
 
 <table>
 <thead>
@@ -173,11 +173,11 @@ Provided that the overall content of that nutrient remains within:
 </tbody>
 </table>
 
-[^key-96eee9332d0dd27527e41c36a48a2427][^key-5902fe58cca91a80168572afd90f966f][^key-5d150dc223eb7fea57b1969f71fd90c9][^f01001][^f01001][^key-64fde14588a39766063317cc9b753229][^f01000][^f01000][^f01000][^f01000]
+[^c-96eee9332d0dd27527e41c36a48a2427][^c-5902fe58cca91a80168572afd90f966f][^c-5d150dc223eb7fea57b1969f71fd90c9][^f01001][^f01001][^c-64fde14588a39766063317cc9b753229][^f01000][^f01000][^f01000][^f01000]
 
 ### SECTION B: — COMPOUND FERTILISERS
 
-[^key-1a39817369478f6fe2d60bd8bc7818d5]
+[^c-1a39817369478f6fe2d60bd8bc7818d5]
 
 <table>
 <thead>
@@ -286,11 +286,11 @@ Provided that the overall content of that nutrient remains within:
 </tbody>
 </table>
 
-[^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-2cd937884eb9cd7518bb878d7b443c02][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^f01001][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-2975d221adb0b086568e53752243a72e][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^f01001][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-c362429984342bfd3931fd0cef95f24d][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-6992ebc38e7519b0d618ae2dc340cc0a][^key-f245268871e4dc123d3eb05d65e2449e][^f01001][^f01002]
+[^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-2cd937884eb9cd7518bb878d7b443c02][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^f01001][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-2975d221adb0b086568e53752243a72e][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^f01001][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-c362429984342bfd3931fd0cef95f24d][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-6992ebc38e7519b0d618ae2dc340cc0a][^c-f245268871e4dc123d3eb05d65e2449e][^f01001][^f01002]
 
 ### SECTION C: — FLUID FERTILISERS
 
-[^key-1a39817369478f6fe2d60bd8bc7818d5]
+[^c-1a39817369478f6fe2d60bd8bc7818d5]
 
 <table>
 <thead>
@@ -376,11 +376,11 @@ Provided that the overall content of that nutrient remains within:
 </tbody>
 </table>
 
-[^key-6c8f558c12314bffb22a650b87c4640d][^key-b697383f8a740c6d1c402514a367e0a0][^f01003][^f01003][^f01003][^key-c494508064dfecc9720ce2701b977a3c][^key-0955e3cee8f1ab17b763cceac1812200][^key-c6b945c37a570a18783b4f308f2a3e44][^key-0955e3cee8f1ab17b763cceac1812200][^key-c6b945c37a570a18783b4f308f2a3e44][^key-0955e3cee8f1ab17b763cceac1812200][^key-c6b945c37a570a18783b4f308f2a3e44][^key-0955e3cee8f1ab17b763cceac1812200][^key-c6b945c37a570a18783b4f308f2a3e44][^key-0955e3cee8f1ab17b763cceac1812200][^key-c6b945c37a570a18783b4f308f2a3e44][^key-0955e3cee8f1ab17b763cceac1812200][^key-c6b945c37a570a18783b4f308f2a3e44][^f01003]
+[^c-6c8f558c12314bffb22a650b87c4640d][^c-b697383f8a740c6d1c402514a367e0a0][^f01003][^f01003][^f01003][^c-c494508064dfecc9720ce2701b977a3c][^c-0955e3cee8f1ab17b763cceac1812200][^c-c6b945c37a570a18783b4f308f2a3e44][^c-0955e3cee8f1ab17b763cceac1812200][^c-c6b945c37a570a18783b4f308f2a3e44][^c-0955e3cee8f1ab17b763cceac1812200][^c-c6b945c37a570a18783b4f308f2a3e44][^c-0955e3cee8f1ab17b763cceac1812200][^c-c6b945c37a570a18783b4f308f2a3e44][^c-0955e3cee8f1ab17b763cceac1812200][^c-c6b945c37a570a18783b4f308f2a3e44][^c-0955e3cee8f1ab17b763cceac1812200][^c-c6b945c37a570a18783b4f308f2a3e44][^f01003]
 
-### SECTION D: — TRACE ELEMENT FERTILISERS[^key-ddd2fefc9cace4a948b2b6016e697fff]
+### SECTION D: — TRACE ELEMENT FERTILISERS[^c-ddd2fefc9cace4a948b2b6016e697fff]
 
-[^key-1a39817369478f6fe2d60bd8bc7818d5]
+[^c-1a39817369478f6fe2d60bd8bc7818d5]
 
 Explanatory note: The following notes are applicable to the whoe of Section D[^M_F_8859f932-7e89-437c-bbff-8e0a05b72de6]
 
@@ -445,11 +445,11 @@ Note 3: Where a trace element is present in a chelated form, the pH range guaran
 </tbody>
 </table>
 
-[^key-7d0ddab1e29d56bc28f03139fa18dee9][^key-4622a2711532dbbd7dcc6d8b3434d508][^key-254c9f4963390eb27bc0d3eeed7c63ce]
+[^c-7d0ddab1e29d56bc28f03139fa18dee9][^c-4622a2711532dbbd7dcc6d8b3434d508][^c-254c9f4963390eb27bc0d3eeed7c63ce]
 
-### SECTION E: — SECONDARY NUTRIENTS FERTILISERS[^key-0be4093d242070cbbb0d981deb593681]
+### SECTION E: — SECONDARY NUTRIENTS FERTILISERS[^c-0be4093d242070cbbb0d981deb593681]
 
-[^key-1a39817369478f6fe2d60bd8bc7818d5]
+[^c-1a39817369478f6fe2d60bd8bc7818d5]
 
 <table>
 <thead>
@@ -469,92 +469,92 @@ Note 3: Where a trace element is present in a chelated form, the pH range guaran
 </tbody>
 </table>
 
-[^key-09b7438d6a454c4809b0c010c82ca102][^key-8e25ddf374ebc10e7e86dc71e312b8fd]
+[^c-09b7438d6a454c4809b0c010c82ca102][^c-8e25ddf374ebc10e7e86dc71e312b8fd]
 
 ## Annotations
 
-[^key-1a39817369478f6fe2d60bd8bc7818d5]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) modified (21.6.1996) by [The Fertilisers (Sampling and Analysis) Regulations 1996 (S.I. 1996/1342)](https://www.legislation.gov.uk/uksi/1996/1342), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/1342/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/1996/1342/regulation/6/2)[(3)](https://www.legislation.gov.uk/uksi/1996/1342/regulation/6/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/1996/1342/schedule/2/part/I)
+[^c-1a39817369478f6fe2d60bd8bc7818d5]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) modified (21.6.1996) by [The Fertilisers (Sampling and Analysis) Regulations 1996 (S.I. 1996/1342)](https://www.legislation.gov.uk/uksi/1996/1342), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/1342/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/1996/1342/regulation/6/2)[(3)](https://www.legislation.gov.uk/uksi/1996/1342/regulation/6/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/1996/1342/schedule/2/part/I)
 
-[^key-cf241d28c9cff748c98659ac7c591ebc]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1/paragraph/1) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)
+[^c-cf241d28c9cff748c98659ac7c591ebc]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1/paragraph/1) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)
 
-[^key-cbf1cd7b1eaf552a146b3c6c43c18e79]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1/paragraph/2) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)
+[^c-cbf1cd7b1eaf552a146b3c6c43c18e79]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1/paragraph/2) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)
 
-[^key-f20a8d26526f7bd968f92e1f84f0fba1]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1/paragraph/3) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)
+[^c-f20a8d26526f7bd968f92e1f84f0fba1]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1/paragraph/3) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)
 
-[^key-6a9e4ff204d55d829091b26db260036c]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1/paragraph/4) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)
+[^c-6a9e4ff204d55d829091b26db260036c]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1/paragraph/4) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)
 
-[^key-94ffcc14a01194a523a22d21fbce7992]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1/paragraph/5) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)
+[^c-94ffcc14a01194a523a22d21fbce7992]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1/paragraph/5) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)
 
-[^key-e61b8ed6966cb3f1caaed186ad5b1b11]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1/paragraph/6) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)
+[^c-e61b8ed6966cb3f1caaed186ad5b1b11]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1/paragraph/6) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)
 
-[^key-8627a09e5ba5058c7487c7007b35140e]: Textual amendment: Words in [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1/paragraph/6) omitted (15.3.2019) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [2(11)(a)](https://www.legislation.gov.uk/uksi/2019/601/regulation/2/11/a)
+[^c-8627a09e5ba5058c7487c7007b35140e]: Textual amendment: Words in [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1/paragraph/6) omitted (15.3.2019) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [2(11)(a)](https://www.legislation.gov.uk/uksi/2019/601/regulation/2/11/a)
 
-[^key-c802c13eec7e26ac76e0a5550779a755]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1/paragraph/7) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)
+[^c-c802c13eec7e26ac76e0a5550779a755]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1/paragraph/7) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)
 
-[^key-66978c686a494699ebffb39664fa0de0]: Textual amendment: Words in [Sch. 1 para. 7(a)(i)](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1/paragraph/7/a) omitted (15.3.2019) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [2(11)(b)](https://www.legislation.gov.uk/uksi/2019/601/regulation/2/11/b)
+[^c-66978c686a494699ebffb39664fa0de0]: Textual amendment: Words in [Sch. 1 para. 7(a)(i)](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1/paragraph/7/a) omitted (15.3.2019) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [2(11)(b)](https://www.legislation.gov.uk/uksi/2019/601/regulation/2/11/b)
 
-[^key-24f284a6f168b0f7b47153f9dec9b6df]: Textual amendment: Words in [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1/paragraph/7/b) omitted (15.3.2019) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [2(11)(b)](https://www.legislation.gov.uk/uksi/2019/601/regulation/2/11/b)
+[^c-24f284a6f168b0f7b47153f9dec9b6df]: Textual amendment: Words in [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1/paragraph/7/b) omitted (15.3.2019) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [2(11)(b)](https://www.legislation.gov.uk/uksi/2019/601/regulation/2/11/b)
 
-[^key-56f66b146609ae918577e03110107372]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1/paragraph/8) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)
+[^c-56f66b146609ae918577e03110107372]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1/paragraph/8) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)
 
-[^key-96eee9332d0dd27527e41c36a48a2427]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) revoked (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/a/i)
+[^c-96eee9332d0dd27527e41c36a48a2427]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) revoked (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/a/i)
 
-[^key-5902fe58cca91a80168572afd90f966f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) inserted (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/a/ii)
+[^c-5902fe58cca91a80168572afd90f966f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) inserted (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/a/ii)
 
-[^key-5d150dc223eb7fea57b1969f71fd90c9]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) inserted (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(a)(iii)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/a/iii), [Sch. 1](https://www.legislation.gov.uk/uksi/1995/16/schedule/1)
+[^c-5d150dc223eb7fea57b1969f71fd90c9]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) inserted (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(a)(iii)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/a/iii), [Sch. 1](https://www.legislation.gov.uk/uksi/1995/16/schedule/1)
 
 [^f01001]: Footnote: (1)
 
     Technical information as complete as possible must be provided with each package or bulk consignment by the person responsible for marketing. This information must in particular enable the user to determine the rates and timing of application in relation to the crop being grown.
 
-[^key-64fde14588a39766063317cc9b753229]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) inserted (14.7.1997) by [The Fertilisers (Amendment) Regulations 1997 (S.I. 1997/1543)](https://www.legislation.gov.uk/uksi/1997/1543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/1543/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/1997/1543/regulation/3/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1997/1543/schedule/1)
+[^c-64fde14588a39766063317cc9b753229]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) inserted (14.7.1997) by [The Fertilisers (Amendment) Regulations 1997 (S.I. 1997/1543)](https://www.legislation.gov.uk/uksi/1997/1543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/1543/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/1997/1543/regulation/3/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1997/1543/schedule/1)
 
 [^f01000]: Footnote: \*
 
     This is only an indication of how the material should be named and accordingly this form of words should not be used in the statutory statement.
 
-[^key-6992ebc38e7519b0d618ae2dc340cc0a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) omitted (15.3.2019) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [2(12)(a)](https://www.legislation.gov.uk/uksi/2019/601/regulation/2/12/a)
+[^c-6992ebc38e7519b0d618ae2dc340cc0a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) omitted (15.3.2019) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [2(12)(a)](https://www.legislation.gov.uk/uksi/2019/601/regulation/2/12/a)
 
-[^key-2cd937884eb9cd7518bb878d7b443c02]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) substituted (15.3.2019) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [2(12)(b)](https://www.legislation.gov.uk/uksi/2019/601/regulation/2/12/b)
+[^c-2cd937884eb9cd7518bb878d7b443c02]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) substituted (15.3.2019) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [2(12)(b)](https://www.legislation.gov.uk/uksi/2019/601/regulation/2/12/b)
 
-[^key-2975d221adb0b086568e53752243a72e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) added (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(b)(i)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/b/i), [Sch. 2](https://www.legislation.gov.uk/uksi/1995/16/schedule/2)
+[^c-2975d221adb0b086568e53752243a72e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) added (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(b)(i)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/b/i), [Sch. 2](https://www.legislation.gov.uk/uksi/1995/16/schedule/2)
 
-[^key-c362429984342bfd3931fd0cef95f24d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) added (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(b)(ii)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/b/ii), [Sch. 3](https://www.legislation.gov.uk/uksi/1995/16/schedule/3)
+[^c-c362429984342bfd3931fd0cef95f24d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) added (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(b)(ii)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/b/ii), [Sch. 3](https://www.legislation.gov.uk/uksi/1995/16/schedule/3)
 
-[^key-f245268871e4dc123d3eb05d65e2449e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) added (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(b)(iii)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/b/iii), [Sch. 4](https://www.legislation.gov.uk/uksi/1995/16/schedule/4)
+[^c-f245268871e4dc123d3eb05d65e2449e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) added (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(b)(iii)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/b/iii), [Sch. 4](https://www.legislation.gov.uk/uksi/1995/16/schedule/4)
 
 [^f01002]: Footnote: \*
 
     This is only an indication of how the material should be named and accordingly this form of words should not be used in the statutory statement.
 
-[^key-6c8f558c12314bffb22a650b87c4640d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) inserted (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(c)(i)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/c/i)
+[^c-6c8f558c12314bffb22a650b87c4640d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) inserted (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(c)(i)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/c/i)
 
-[^key-b697383f8a740c6d1c402514a367e0a0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) inserted (1.1.1999) by [The Fertilisers (Amendment) Regulations 1998 (S.I. 1998/2024)](https://www.legislation.gov.uk/uksi/1998/2024), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1998/2024/regulation/1/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1998/2024/schedule/2)
+[^c-b697383f8a740c6d1c402514a367e0a0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) inserted (1.1.1999) by [The Fertilisers (Amendment) Regulations 1998 (S.I. 1998/2024)](https://www.legislation.gov.uk/uksi/1998/2024), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1998/2024/regulation/1/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1998/2024/schedule/2)
 
 [^f01003]: Footnote: \*
 
     This is only an indication of how the material should be named and accordingly this form of words should not be used in the statutory statement.
 
-[^key-c494508064dfecc9720ce2701b977a3c]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) substituted (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(c)(ii)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/c/ii), [Sch. 5](https://www.legislation.gov.uk/uksi/1995/16/schedule/5)
+[^c-c494508064dfecc9720ce2701b977a3c]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) substituted (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(c)(ii)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/c/ii), [Sch. 5](https://www.legislation.gov.uk/uksi/1995/16/schedule/5)
 
-[^key-0955e3cee8f1ab17b763cceac1812200]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) omitted (15.3.2019) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [2(13)(a)](https://www.legislation.gov.uk/uksi/2019/601/regulation/2/13/a)
+[^c-0955e3cee8f1ab17b763cceac1812200]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) omitted (15.3.2019) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [2(13)(a)](https://www.legislation.gov.uk/uksi/2019/601/regulation/2/13/a)
 
-[^key-c6b945c37a570a18783b4f308f2a3e44]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) omitted (15.3.2019) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [2(13)(b)](https://www.legislation.gov.uk/uksi/2019/601/regulation/2/13/b)
+[^c-c6b945c37a570a18783b4f308f2a3e44]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) omitted (15.3.2019) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [2(13)(b)](https://www.legislation.gov.uk/uksi/2019/601/regulation/2/13/b)
 
-[^key-ddd2fefc9cace4a948b2b6016e697fff]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) heading substituted (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(d)(i)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/d/i), [Sch. 6](https://www.legislation.gov.uk/uksi/1995/16/schedule/6)
+[^c-ddd2fefc9cace4a948b2b6016e697fff]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) heading substituted (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(d)(i)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/d/i), [Sch. 6](https://www.legislation.gov.uk/uksi/1995/16/schedule/6)
 
 [^M_F_8859f932-7e89-437c-bbff-8e0a05b72de6]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) substituted (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(d)(i)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/d/i), [Sch. 6](https://www.legislation.gov.uk/uksi/1995/16/schedule/6)
 
 [^M_F_4a412479-ad40-43ff-a004-5c9abcce376f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) substituted (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(d)(i)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/d/i), [Sch. 6](https://www.legislation.gov.uk/uksi/1995/16/schedule/6)
 
-[^key-7d0ddab1e29d56bc28f03139fa18dee9]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) added (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(d)(ii)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/d/ii)
+[^c-7d0ddab1e29d56bc28f03139fa18dee9]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) added (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(d)(ii)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/d/ii)
 
-[^key-4622a2711532dbbd7dcc6d8b3434d508]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) substituted (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(d)(iii)(A)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/d/iii/A)
+[^c-4622a2711532dbbd7dcc6d8b3434d508]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) substituted (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(d)(iii)(A)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/d/iii/A)
 
-[^key-254c9f4963390eb27bc0d3eeed7c63ce]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) substituted (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(d)(iii)(B)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/d/iii/B)
+[^c-254c9f4963390eb27bc0d3eeed7c63ce]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) substituted (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(d)(iii)(B)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/d/iii/B)
 
-[^key-0be4093d242070cbbb0d981deb593681]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) heading substituted (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(e)(i)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/e/i)
+[^c-0be4093d242070cbbb0d981deb593681]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) heading substituted (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(e)(i)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/e/i)
 
-[^key-09b7438d6a454c4809b0c010c82ca102]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) inserted (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(e)(ii)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/e/ii)
+[^c-09b7438d6a454c4809b0c010c82ca102]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) inserted (30.1.1995) by [The Fertilisers (Amendment) Regulations 1995 (S.I. 1995/16)](https://www.legislation.gov.uk/uksi/1995/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/16/regulation/1/1), [4(e)(ii)](https://www.legislation.gov.uk/uksi/1995/16/regulation/4/e/ii)
 
-[^key-8e25ddf374ebc10e7e86dc71e312b8fd]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) inserted (14.7.1997) by [The Fertilisers (Amendment) Regulations 1997 (S.I. 1997/1543)](https://www.legislation.gov.uk/uksi/1997/1543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/1543/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/1997/1543/regulation/3/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1997/1543/schedule/2)
+[^c-8e25ddf374ebc10e7e86dc71e312b8fd]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2197/schedule/1) inserted (14.7.1997) by [The Fertilisers (Amendment) Regulations 1997 (S.I. 1997/1543)](https://www.legislation.gov.uk/uksi/1997/1543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/1543/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/1997/1543/regulation/3/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1997/1543/schedule/2)

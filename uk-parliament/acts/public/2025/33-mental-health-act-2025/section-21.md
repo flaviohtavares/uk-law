@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Care and treatment plans[^key-098347cd431b8ffa892ef6a36c85f3db]
+## 21. Care and treatment plans[^c-098347cd431b8ffa892ef6a36c85f3db]
 
 *Extent: E+W+S+N.I.*
 
@@ -118,4 +118,4 @@ In the Mental Health Act 1983, in Part 10, before section 130A insert—
 
 ## Annotations
 
-[^key-098347cd431b8ffa892ef6a36c85f3db]: Commencement: S. 21 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-098347cd431b8ffa892ef6a36c85f3db]: Commencement: S. 21 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

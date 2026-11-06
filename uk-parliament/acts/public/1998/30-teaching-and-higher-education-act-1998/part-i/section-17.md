@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Representation of special educational needs teachers on General Teaching Council for Scotland.[^key-524636ca4bbfb8363b14efd210788e6b]
+## 17. Representation of special educational needs teachers on General Teaching Council for Scotland.[^c-524636ca4bbfb8363b14efd210788e6b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-524636ca4bbfb8363b14efd210788e6b]: Textual amendment: S. 17 repealed (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)
+[^c-524636ca4bbfb8363b14efd210788e6b]: Textual amendment: S. 17 repealed (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 65. Orders of Commissioners determining or varying payments to Churches Conservation Trust[^key-226ab2eeec8ed9856bfedade3f310d39]
+## 65. Orders of Commissioners determining or varying payments to Churches Conservation Trust[^c-226ab2eeec8ed9856bfedade3f310d39]
 
 *Extent: E*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-226ab2eeec8ed9856bfedade3f310d39]: Commencement: S. 65 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-226ab2eeec8ed9856bfedade3f310d39]: Commencement: S. 65 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

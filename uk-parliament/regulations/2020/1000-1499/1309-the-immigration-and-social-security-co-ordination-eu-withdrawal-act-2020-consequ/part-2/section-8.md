@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Amendment of the Housing Act 1988[^key-baef738a94aa1549db6c3ef6dc1bde19][^M_I_34aa2407-1d21-44d7-d810-3a89e611bbfe]
+## 8. Amendment of the Housing Act 1988[^c-baef738a94aa1549db6c3ef6dc1bde19][^M_I_34aa2407-1d21-44d7-d810-3a89e611bbfe]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-baef738a94aa1549db6c3ef6dc1bde19]: Commencement: Reg. 8 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-baef738a94aa1549db6c3ef6dc1bde19]: Commencement: Reg. 8 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_34aa2407-1d21-44d7-d810-3a89e611bbfe]: Commencement: Reg. 8 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

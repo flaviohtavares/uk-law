@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 18
 
-### PART 1 — Article 3: new definitions[^key-a216b1f7cf10167b6757e290fd30e73e]
+### PART 1 — Article 3: new definitions[^c-a216b1f7cf10167b6757e290fd30e73e]
 
 > (9) ‘the EUWA’ means the European Union (Withdrawal) Act 2018;
 >
@@ -66,7 +66,7 @@ Regulation 18
 >
 > (27) ‘retained EU law’ has the meaning given in section 6(7) of the EUWA but does not include any legislation so far as it extends to Northern Ireland;
 >
-> (28)[^key-8bbaa5ab354d8a0e97ada411d3a38707] ‘third country’ means—
+> (28)[^c-8bbaa5ab354d8a0e97ada411d3a38707] ‘third country’ means—
 >
 > - (a) for the purposes of the definition of ‘EUIA’ in point (21), Article 14c and Annex 1A (other than the reference in paragraph (b)), any country other than—
 >   - (i) any part of the British Islands, or
@@ -81,7 +81,7 @@ Regulation 18
 >
 > (30) ‘the Types Table’ means the table in Part 3 of Annex 1A.
 
-### PART 2 — New Article 3a[^key-1f7a8c9b05b55552920a3fc0c2c20511]
+### PART 2 — New Article 3a[^c-1f7a8c9b05b55552920a3fc0c2c20511]
 
 > **Article 3a — Definitions: types of designation of origin and geographical indication**
 >
@@ -99,7 +99,7 @@ Regulation 18
 > - (j) ‘a type 6A designation of origin or geographical indication’ means a designation of origin or geographical indication of the type described in column 2 of row 6 of the Types Table to which paragraph 1 or 2 of column 3 of row 4 of that table applies;
 > - (k) ‘a type 6B designation of origin or geographical indication’ means a designation of origin or geographical indication of the type described in column 2 of row 6 of the Types Table to which the provisions in column 4 of row 4 of that table apply.
 
-### PART 3 — New Articles 14a and 14b[^key-5fa5982ed9f19c93c674c6f8be47dbb0]
+### PART 3 — New Articles 14a and 14b[^c-5fa5982ed9f19c93c674c6f8be47dbb0]
 
 > **Article 14a — Transitional provisions: relations between trade marks, designations of origin and geographical indications**
 >
@@ -110,8 +110,8 @@ Regulation 18
 > - (a) if the trade mark is registered, the use of the trade mark will contravene Article 13(1) in relation to a category B designation of origin or geographical indication, and
 > - (b) after the application for the trade mark is accepted but before the trade mark is registered:
 >   - (i) in the case of a type 3B designation of origin or geographical indication:
->     - (aa) the international agreement referred to in paragraph (c) of column 2 of row 3 of the Types Table enters into force or the bridging arrangements referred to in that column are made[^key-53100a84fbe8753c70d46e5b9fc2f4d7], and
->     - (bb) the entry into force of the international agreement or the making of the bridging arrangements[^key-81a4454304dd0ed3ddc2d96b875ef538] is brought to the attention of the registrar before the trade mark is registered;
+>     - (aa) the international agreement referred to in paragraph (c) of column 2 of row 3 of the Types Table enters into force or the bridging arrangements referred to in that column are made[^c-53100a84fbe8753c70d46e5b9fc2f4d7], and
+>     - (bb) the entry into force of the international agreement or the making of the bridging arrangements[^c-81a4454304dd0ed3ddc2d96b875ef538] is brought to the attention of the registrar before the trade mark is registered;
 >   - (ii) in the case of any other category B designation of origin or geographical indication:
 >     - (aa) the Secretary of State publishes an Article 52(4) approval notice relating to the designation of origin or geographical indication, and
 >     - (bb) the Article 52(4) approval notice is brought to the attention of the registrar before the trade mark is registered.
@@ -144,13 +144,13 @@ Regulation 18
 >
 > **11.** Where paragraph 9 or 10 applies to the use or renewal of a trade mark, this does not affect the use of:
 >
-> - (a) a designation of origin or geographical indication entered on Great Britain's PDOs and PGIs Register by the Secretary of State under Article 11(2) or 14c(1)[^key-9866bd0df40556adc3d4d7d316f86174];
+> - (a) a designation of origin or geographical indication entered on Great Britain's PDOs and PGIs Register by the Secretary of State under Article 11(2) or 14c(1)[^c-9866bd0df40556adc3d4d7d316f86174];
 > - (b) an established protected designation of origin or an established protected geographical indication entered on Great Britain's PDOs and PGIs Register pursuant to Article 16;
 > - (c) a designation of origin or geographical indication entered on Great Britain's PDOs and PGIs Register following a decision by the Secretary of State to approve an application to register the designation of origin or geographical indication following an application submitted under Article 49.
 >
 > **12.** In this Article:
 >
-> - (a)[^key-1199cbb045e25b9e8448056109a84eed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (a)[^c-1199cbb045e25b9e8448056109a84eed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 > - (b) ‘a category A designation of origin or geographical indication’ means a type 1, 2A, 3A, 4A, 5A or 6A designation of origin or geographical indication;
 > - (c) ‘a category B designation of origin or geographical indication’ means a type 2B, 3B, 4B, 5B or 6B designation of origin or geographical indication;
 > - (d) ‘column 5 date’, in relation to a designation of origin or geographical indication that is a category A or B designation of origin or geographical indication, means the date described in column 5 of the Types Table in the row relating to the relevant type of designation of origin or geographical indication;
@@ -206,7 +206,7 @@ Regulation 18
 > - (a) an application to invalidate a trade mark referred to in Article 14a(3);
 > - (b) an appeal to an appointed person from a decision of the registrar in relation to an application referred to in paragraph (a).
 
-### PART 4 — New Article 52a[^key-43e8a90e304026e773ba17d5de604599]
+### PART 4 — New Article 52a[^c-43e8a90e304026e773ba17d5de604599]
 
 > **Article 52a — Applications pending on IP completion day**
 >
@@ -228,7 +228,7 @@ Regulation 18
 >   - (iii) a name as a traditional speciality guaranteed, and
 > - (b) for which the European Commission has not adopted an implementing act under Article 52 of EU Regulation 1151/2012 before IP completion day.
 
-### PART 5 — New Title 5A[^key-9bba1b1dea2f25723da0fc597a72515f]
+### PART 5 — New Title 5A[^c-9bba1b1dea2f25723da0fc597a72515f]
 
 > **TITLE 5A — APPEALS**
 >
@@ -279,7 +279,7 @@ Regulation 18
 >
 > **5.** If the Secretary of State makes a different decision, the appeal to the FTT ceases unless the FTT directs otherwise.
 
-### PART 6 — New Article 56[^key-032b074c66f04615a3875df895453537]
+### PART 6 — New Article 56[^c-032b074c66f04615a3875df895453537]
 
 > **Article 56 — Regulations**
 >
@@ -292,7 +292,7 @@ Regulation 18
 >
 > **3.** Except as specified in paragraph 4, a statutory instrument containing regulations under this Regulation is subject to annulment in pursuance of a resolution of either House of Parliament.
 >
-> **4.** A statutory instrument containing regulations made under the second subparagraph of Article 2(1) or Article 14d(4),[^key-ce45e74edf698a2ff733c9cb7d506a87] 18(5), 30(1) or 41(3) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+> **4.** A statutory instrument containing regulations made under the second subparagraph of Article 2(1) or Article 14d(4),[^c-ce45e74edf698a2ff733c9cb7d506a87] 18(5), 30(1) or 41(3) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 >
 > **5.** Before making any regulations under this Regulation, the Secretary of State must consult:
 >
@@ -305,7 +305,7 @@ Regulation 18
 > - (b) regulations made under retained direct principal EU legislation, except so far as they extend to Northern Ireland;
 > - (c) retained direct minor EU legislation, except so far as it extends to Northern Ireland.
 
-### PART 7 — New Annexes 1A and 1B[^key-8d7fe2a830cd85055e3d74be1ef12903]
+### PART 7 — New Annexes 1A and 1B[^c-8d7fe2a830cd85055e3d74be1ef12903]
 
 > **ANNEX 1A — TYPES OF DESIGNATION OF ORIGIN AND GEOGRAPHICAL INDICATION TO WHICH ARTICLE 14A APPLIES**
 >
@@ -318,9 +318,9 @@ Regulation 18
 > - (c) ‘the paragraph 1 trade mark application’ means the application to register a trade mark referred to in Article 14a(1);
 > - (d) ‘the relevant EUIA-based date’ means the date determined in accordance with Part 2;
 > - (e) ‘the relevant pre-IP completion day legislation’ means:
->   - (i) in the case of an application to register a designation of origin or geographical indication[^key-8506ff7facabcf9f96f9a3b8973cdf4e] submitted to the European Commission under Council Regulation [(EEC) No 2081/92](https://www.legislation.gov.uk/eur/1992/2081) on the protection of geographical indications and designations of origin for agricultural products and foodstuffs [^c24414691], Article 5 or 12a of that Regulation;
->   - (ii) in the case of an application to register a designation of origin or geographical indication[^key-4bea45b0e88f39551588226453a1c572] submitted to the European Commission under Council Regulation [(EC) No 510/2006](https://www.legislation.gov.uk/eur/2006/510) on the protection of geographical indications and designations of origin for agricultural products and foodstuffs, Article 5 of that Regulation;
->   - (iii) in the case of an application to register a designation of origin or geographical indication[^key-fd38f268791ce1e83d43b295bec92b12] submitted to the European Commission under EU Regulation 1151/2012, Article 49(2) or (5) of that Regulation;
+>   - (i) in the case of an application to register a designation of origin or geographical indication[^c-8506ff7facabcf9f96f9a3b8973cdf4e] submitted to the European Commission under Council Regulation [(EEC) No 2081/92](https://www.legislation.gov.uk/eur/1992/2081) on the protection of geographical indications and designations of origin for agricultural products and foodstuffs [^c24414691], Article 5 or 12a of that Regulation;
+>   - (ii) in the case of an application to register a designation of origin or geographical indication[^c-4bea45b0e88f39551588226453a1c572] submitted to the European Commission under Council Regulation [(EC) No 510/2006](https://www.legislation.gov.uk/eur/2006/510) on the protection of geographical indications and designations of origin for agricultural products and foodstuffs, Article 5 of that Regulation;
+>   - (iii) in the case of an application to register a designation of origin or geographical indication[^c-fd38f268791ce1e83d43b295bec92b12] submitted to the European Commission under EU Regulation 1151/2012, Article 49(2) or (5) of that Regulation;
 > - (f) ‘the relevant trade mark application’ means the application to register a trade mark referred to in Article 14a(2) or (3)(a), as relevant.
 >
 > **PART 2 — The relevant EUIA-based date**
@@ -361,7 +361,7 @@ Regulation 18
 > | --- | --- | --- | --- | --- |
 > | 1\. | An established protected designation of origin or established protected geographical indication. | Not applicable. | Not applicable. | The date on which the application that resulted in the first registration of the designation of origin or geographical indication was submitted to the European Commission under the relevant pre-IP completion day legislation. |
 > | 2\. | A designation of origin or geographical indication:<br>(a) that relates to a geographical area in the United Kingdom, and<br>(b) for which an application to register the designation of origin or geographical indication was submitted to the European Commission under Article 49(4) of EU Regulation 1151/2012 before IP completion day. | 1\. A designation of origin or geographical indication that is on Great Britain's PDOs and PGIs Register before the day on which the paragraph 1 trade mark application is accepted or refused and is entered on that register following the approval of an application to which Article 52a(1) (pending United Kingdom applications) applies.<br>2\. A designation of origin or geographical indication:<br>(a) that is not on Great Britain's PDOs and PGIs Register before the day on which the paragraph 1 trade mark application is accepted or refused,<br>(b) to which Article 52a(1) applies, and<br>(c) for which an Article 52(4) approval notice relating to the application to register the designation of origin or geographical indication is published before the day on which the paragraph 1 trade mark application is accepted or refused. | A designation of origin or geographical indication to which Article 52a(1) applies: (a) that is not treated as having been withdrawn under Article 52a(5), and<br>(b) for which an Article 52(4) notice relating to the application to register the designation of origin or geographical indication is not published before the relevant trade mark application is accepted. | The date on which the application to register the designation of origin or geographical indication referred to in point (b) of column 2 was submitted to the European Commission under Article 49(4) of EU Regulation 1151/2012. |
-> | 3\. | A designation of origin or geographical indication that:<br>(a) relates to a geographical area in a third country,<br>(b) was protected in the European Union immediately before IP completion day pursuant to an EUIA to which the European Union and the third country were contracting parties, and<br>(c) be protected in Great Britain pursuant to—[^key-29e30e2f28a5597d240a4a86d55d0425]<br>(i) an international agreement to which the United Kingdom and the third country are contracting parties that enters into force, or<br>(ii) bridging arrangements between the United Kingdom and the third country made,<br>during the relevant period. | 1\. A designation of origin or geographical indication that is on Great Britain's PDOs and PGIs Register before the day on which the paragraph 1 trade mark application is accepted or refused and is entered on that register pursuant to Article 11(2) or Article 14c(1)[^key-06a833927404a71f71175d3d230b49ae].<br>2\. A designation of origin or geographical indication that is not on Great Britain’s PDOs and PGIs Register before the day on which the paragraph 1 trade mark application is accepted or refused but must be protected in Great Britain pursuant to—[^key-762e0e080e5b263c7cc16ea98acae542]<br>(a) an international agreement to which the United Kingdom and the third country are contracting parties that enters into force, or<br>(b) bridging arrangements between the United Kingdom and the third country made,<br>before the day on which the paragraph 1 trade mark application is accepted or refused. | A designation of origin or geographical indication that is not on Great Britain’s PDOs and PGIs Register when the relevant trade mark application is accepted but must be protected in Great Britain pursuant to—[^key-61e57f91730a80fbea1fb8743b6c15d8]<br>(a) an international agreement to which the United Kingdom and the third country are contracting parties that enters into force, or<br>(b) bridging arrangements between the United Kingdom and the third country made,<br>on or after the day on which the relevant trade mark application is accepted. | The relevant EUIA-based date that applies to the designation of origin or geographical indication in relation to the EUIA referred to in point (b) of column 2. |
+> | 3\. | A designation of origin or geographical indication that:<br>(a) relates to a geographical area in a third country,<br>(b) was protected in the European Union immediately before IP completion day pursuant to an EUIA to which the European Union and the third country were contracting parties, and<br>(c) be protected in Great Britain pursuant to—[^c-29e30e2f28a5597d240a4a86d55d0425]<br>(i) an international agreement to which the United Kingdom and the third country are contracting parties that enters into force, or<br>(ii) bridging arrangements between the United Kingdom and the third country made,<br>during the relevant period. | 1\. A designation of origin or geographical indication that is on Great Britain's PDOs and PGIs Register before the day on which the paragraph 1 trade mark application is accepted or refused and is entered on that register pursuant to Article 11(2) or Article 14c(1)[^c-06a833927404a71f71175d3d230b49ae].<br>2\. A designation of origin or geographical indication that is not on Great Britain’s PDOs and PGIs Register before the day on which the paragraph 1 trade mark application is accepted or refused but must be protected in Great Britain pursuant to—[^c-762e0e080e5b263c7cc16ea98acae542]<br>(a) an international agreement to which the United Kingdom and the third country are contracting parties that enters into force, or<br>(b) bridging arrangements between the United Kingdom and the third country made,<br>before the day on which the paragraph 1 trade mark application is accepted or refused. | A designation of origin or geographical indication that is not on Great Britain’s PDOs and PGIs Register when the relevant trade mark application is accepted but must be protected in Great Britain pursuant to—[^c-61e57f91730a80fbea1fb8743b6c15d8]<br>(a) an international agreement to which the United Kingdom and the third country are contracting parties that enters into force, or<br>(b) bridging arrangements between the United Kingdom and the third country made,<br>on or after the day on which the relevant trade mark application is accepted. | The relevant EUIA-based date that applies to the designation of origin or geographical indication in relation to the EUIA referred to in point (b) of column 2. |
 > | 4\. | A designation of origin or geographical indication that:<br>(a) relates to a geographical area in a third country, and<br>(b) was protected in the European Union immediately before IP completion day pursuant to an EUIA to which the European Union and the third country were contracting parties. | 1\. A designation of origin or geographical indication that is on Great Britain's PDOs and PGIs Register before the day on which the paragraph 1 trade mark application is accepted or refused and is entered on that register following the approval of an application to register the designation of origin or geographical indication submitted to the Secretary of State under Article 49 during the relevant period.<br>2\. A designation of origin or geographical indication:<br>(a) that is not on Great Britain's PDOs and PGIs Register before the day on which the paragraph 1 trade mark application is accepted or refused,<br>(b) for which an application to register the designation of origin or geographical indication is submitted to the Secretary of State under Article 49 during the relevant period, and<br>(c) for which an Article 52(4) approval notice relating to the application is published before the day on which the paragraph 1 trade mark application is accepted or refused. | A designation of origin or geographical indication:<br>(a) that is not on Great Britain's PDOs and PGIs Register when the relevant trade mark application is accepted, and<br>(b) for which an application to register the designation of origin or geographical indication is submitted to the Secretary of State under Article 49 during the relevant period and that application:<br>(i) is not submitted before the relevant trade mark application is accepted, or<br>(ii) is submitted before the relevant trade mark application is accepted but for which an Article 52(4) notice relating to the application to register the designation of origin or geographical indication is not published before the relevant trade mark application is accepted. | The relevant EUIA-based date that applies to the designation of origin or geographical indication in relation to the EUIA referred to in point (b) of column 2. |
 > | 5\. | A designation of origin or geographical indication:<br>(a) that relates to a geographical area in a third country,<br>(b) for which an assessment relating to the protection of the designation of origin or geographical indication was being carried out, or a request for protection, or an application for assessment for protection, was submitted, before IP completion day in respect of the designation of origin or geographical indication under an EUIA, and<br>(c) for which no decision was made pursuant to the EUIA before IP completion day as to whether the designation of origin or geographical indication should be protected in the European Union. | See the entry in row 4 of this column. | See the entry in row 4 of this column. | The relevant EUIA-based date that applies to the designation of origin or geographical indication in relation to the EUIA referred to in point (b) of column 2. |
 > | 6\. | A designation of origin or geographical indication:<br>(a) that relates to a geographical area in a third country, and<br>(b) for which an application to register the designation of origin or geographical indication was submitted to the European Commission under Article 49(4) or (5) of EU Regulation 1151/2012 before IP completion day that was neither refused nor resulted in the registration of the designation of origin or geographical indication on the European Commission's PDOs and PGIs Register [^c24414701] before IP completion day. | See the entry in row 4 of this column. | See the entry in row 4 of this column. | The date on which the application to register the designation of origin or geographical indication referred to in point (b) of column 2 was submitted to the European Commission under Article 49(4) or (5) of EU Regulation 1151/2012. |
@@ -386,47 +386,47 @@ Regulation 18
 
 ## Annotations
 
-[^key-a216b1f7cf10167b6757e290fd30e73e]: Commencement: Sch. 2 Pt. 1 in force at 31.12.2020, see reg. 1(7)
+[^c-a216b1f7cf10167b6757e290fd30e73e]: Commencement: Sch. 2 Pt. 1 in force at 31.12.2020, see reg. 1(7)
 
-[^key-8bbaa5ab354d8a0e97ada411d3a38707]: Textual amendment: Words in Sch. 2 Pt. 1 substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(7)(a)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/7/a)
+[^c-8bbaa5ab354d8a0e97ada411d3a38707]: Textual amendment: Words in Sch. 2 Pt. 1 substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(7)(a)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/7/a)
 
-[^key-1f7a8c9b05b55552920a3fc0c2c20511]: Commencement: Sch. 2 Pt. 2 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
+[^c-1f7a8c9b05b55552920a3fc0c2c20511]: Commencement: Sch. 2 Pt. 2 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
 
-[^key-5fa5982ed9f19c93c674c6f8be47dbb0]: Commencement: Sch. 2 Pt. 3 in force at 31.12.2020, see reg. 1(7)
+[^c-5fa5982ed9f19c93c674c6f8be47dbb0]: Commencement: Sch. 2 Pt. 3 in force at 31.12.2020, see reg. 1(7)
 
-[^key-53100a84fbe8753c70d46e5b9fc2f4d7]: Textual amendment: Words in Sch. 2 Pt. 3 inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(7)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/7/b/i/aa)
+[^c-53100a84fbe8753c70d46e5b9fc2f4d7]: Textual amendment: Words in Sch. 2 Pt. 3 inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(7)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/7/b/i/aa)
 
-[^key-81a4454304dd0ed3ddc2d96b875ef538]: Textual amendment: Words in Sch. 2 Pt. 3 inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(7)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/7/b/i/bb)
+[^c-81a4454304dd0ed3ddc2d96b875ef538]: Textual amendment: Words in Sch. 2 Pt. 3 inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(7)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/7/b/i/bb)
 
-[^key-9866bd0df40556adc3d4d7d316f86174]: Textual amendment: Words in Sch. 2 Pt. 3 inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/7/b/ii)
+[^c-9866bd0df40556adc3d4d7d316f86174]: Textual amendment: Words in Sch. 2 Pt. 3 inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/7/b/ii)
 
-[^key-1199cbb045e25b9e8448056109a84eed]: Textual amendment: Words in Sch. 2 Pt. 3 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(7)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/7/b/iii)
+[^c-1199cbb045e25b9e8448056109a84eed]: Textual amendment: Words in Sch. 2 Pt. 3 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(7)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/7/b/iii)
 
-[^key-43e8a90e304026e773ba17d5de604599]: Commencement: Sch. 2 Pt. 4 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
+[^c-43e8a90e304026e773ba17d5de604599]: Commencement: Sch. 2 Pt. 4 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
 
-[^key-9bba1b1dea2f25723da0fc597a72515f]: Commencement: Sch. 2 Pt. 5 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
+[^c-9bba1b1dea2f25723da0fc597a72515f]: Commencement: Sch. 2 Pt. 5 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
 
-[^key-032b074c66f04615a3875df895453537]: Commencement: Sch. 2 Pt. 6 in force at 31.12.2020, see reg. 1(7)
+[^c-032b074c66f04615a3875df895453537]: Commencement: Sch. 2 Pt. 6 in force at 31.12.2020, see reg. 1(7)
 
-[^key-ce45e74edf698a2ff733c9cb7d506a87]: Textual amendment: Word in Sch. 2 Pt. 6 inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(7)(c)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/7/c)
+[^c-ce45e74edf698a2ff733c9cb7d506a87]: Textual amendment: Word in Sch. 2 Pt. 6 inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(7)(c)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/7/c)
 
-[^key-8d7fe2a830cd85055e3d74be1ef12903]: Commencement: Sch. 2 Pt. 7 in force at 31.12.2020, see reg. 1(7)
+[^c-8d7fe2a830cd85055e3d74be1ef12903]: Commencement: Sch. 2 Pt. 7 in force at 31.12.2020, see reg. 1(7)
 
-[^key-8506ff7facabcf9f96f9a3b8973cdf4e]: Textual amendment: Word in Sch. 2 Pt. 7 inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(7)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/7/d/i)
+[^c-8506ff7facabcf9f96f9a3b8973cdf4e]: Textual amendment: Word in Sch. 2 Pt. 7 inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(7)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/7/d/i)
 
 [^c24414691]: Marginal citation: OJ No. L 208, 24.7.1992, p. 1, repealed by Council Regulation (EC) No 510/2006 (OJ No. L 93, 31.3.2006, p. 12).
 
-[^key-4bea45b0e88f39551588226453a1c572]: Textual amendment: Word in Sch. 2 Pt. 7 inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(7)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/7/d/ii)
+[^c-4bea45b0e88f39551588226453a1c572]: Textual amendment: Word in Sch. 2 Pt. 7 inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(7)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/7/d/ii)
 
-[^key-fd38f268791ce1e83d43b295bec92b12]: Textual amendment: Word in Sch. 2 Pt. 7 inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(7)(d)(iii)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/7/d/iii)
+[^c-fd38f268791ce1e83d43b295bec92b12]: Textual amendment: Word in Sch. 2 Pt. 7 inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(7)(d)(iii)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/7/d/iii)
 
-[^key-29e30e2f28a5597d240a4a86d55d0425]: Textual amendment: Words in Sch. 2 Pt. 7 substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(7)(e)(i)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/7/e/i)
+[^c-29e30e2f28a5597d240a4a86d55d0425]: Textual amendment: Words in Sch. 2 Pt. 7 substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(7)(e)(i)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/7/e/i)
 
-[^key-06a833927404a71f71175d3d230b49ae]: Textual amendment: Words in Sch. 2 Pt. 7 inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(7)(e)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/7/e/ii/aa)
+[^c-06a833927404a71f71175d3d230b49ae]: Textual amendment: Words in Sch. 2 Pt. 7 inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(7)(e)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/7/e/ii/aa)
 
-[^key-762e0e080e5b263c7cc16ea98acae542]: Textual amendment: Words in Sch. 2 Pt. 7 substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(7)(e)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/7/e/ii/bb)
+[^c-762e0e080e5b263c7cc16ea98acae542]: Textual amendment: Words in Sch. 2 Pt. 7 substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(7)(e)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/7/e/ii/bb)
 
-[^key-61e57f91730a80fbea1fb8743b6c15d8]: Textual amendment: Words in Sch. 2 Pt. 7 substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(7)(e)(ii)(cc)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/7/e/ii/cc)
+[^c-61e57f91730a80fbea1fb8743b6c15d8]: Textual amendment: Words in Sch. 2 Pt. 7 substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(7)(e)(ii)(cc)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/7/e/ii/cc)
 
 [^c24414701]: Marginal citation: The European Commission's register relating to designations of origin and geographical indications for agricultural products and foodstuffs can be accessed electronically from
 

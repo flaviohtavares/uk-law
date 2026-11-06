@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89A. Premiums: regulations[^key-023ab4b1d9c103b6735f3176a94da814][^key-07f838079ee5704551a92a63e23012c8]
+## 89A. Premiums: regulations[^c-023ab4b1d9c103b6735f3176a94da814][^c-07f838079ee5704551a92a63e23012c8]
 
 *Extent: S*
 
@@ -42,7 +42,7 @@ summary: ''
 - (a) must be exercised by statutory instrument;
 - (b) may be exercised so as to make different provision for different purposes.
 
-(4A)[^key-860a0120bfa09f03f278dc2e6b388c49] Regulations under subsection (1) may—
+(4A)[^c-860a0120bfa09f03f278dc2e6b388c49] Regulations under subsection (1) may—
 
 - (a) include incidental, supplementary, consequential, transitional, transitory or saving provision,
 - (b) modify any enactment (including this Act).
@@ -51,8 +51,8 @@ summary: ''
 
 ## Annotations
 
-[^key-023ab4b1d9c103b6735f3176a94da814]: Modification: [Ss. 86-90](https://www.legislation.gov.uk/ukpga/1984/58/section/86) applied (1.12.2017) by [Private Housing (Tenancies) (Scotland) Act 2016 (asp 19)](https://www.legislation.gov.uk/asp/2016/19), [ss. 20(1)](https://www.legislation.gov.uk/asp/2016/19/section/20/1), [79(2)](https://www.legislation.gov.uk/asp/2016/19/section/79/2); [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-023ab4b1d9c103b6735f3176a94da814]: Modification: [Ss. 86-90](https://www.legislation.gov.uk/ukpga/1984/58/section/86) applied (1.12.2017) by [Private Housing (Tenancies) (Scotland) Act 2016 (asp 19)](https://www.legislation.gov.uk/asp/2016/19), [ss. 20(1)](https://www.legislation.gov.uk/asp/2016/19/section/20/1), [79(2)](https://www.legislation.gov.uk/asp/2016/19/section/79/2); [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
 
-[^key-07f838079ee5704551a92a63e23012c8]: Textual amendment: [S. 89A](https://www.legislation.gov.uk/ukpga/1984/58/section/89A) inserted (31.1.2012 for specified purposes, 30.11.2012 in so far as not already in force) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 32(2)](https://www.legislation.gov.uk/asp/2011/14/section/32/2), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2012/2](https://www.legislation.gov.uk/ssi/2012/2), [art. 2](https://www.legislation.gov.uk/ssi/2012/2/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/2/schedule); [S.S.I. 2012/267](https://www.legislation.gov.uk/ssi/2012/267), [art. 2](https://www.legislation.gov.uk/ssi/2012/267/article/2)
+[^c-07f838079ee5704551a92a63e23012c8]: Textual amendment: [S. 89A](https://www.legislation.gov.uk/ukpga/1984/58/section/89A) inserted (31.1.2012 for specified purposes, 30.11.2012 in so far as not already in force) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 32(2)](https://www.legislation.gov.uk/asp/2011/14/section/32/2), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2012/2](https://www.legislation.gov.uk/ssi/2012/2), [art. 2](https://www.legislation.gov.uk/ssi/2012/2/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/2/schedule); [S.S.I. 2012/267](https://www.legislation.gov.uk/ssi/2012/267), [art. 2](https://www.legislation.gov.uk/ssi/2012/267/article/2)
 
-[^key-860a0120bfa09f03f278dc2e6b388c49]: Textual amendment: [S. 89A(4A)](https://www.legislation.gov.uk/ukpga/1984/58/section/89A/4A) inserted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2), [sch. para. 1(2)](https://www.legislation.gov.uk/asp/2025/13/schedule/paragraph/1/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-860a0120bfa09f03f278dc2e6b388c49]: Textual amendment: [S. 89A(4A)](https://www.legislation.gov.uk/ukpga/1984/58/section/89A/4A) inserted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2), [sch. para. 1(2)](https://www.legislation.gov.uk/asp/2025/13/schedule/paragraph/1/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

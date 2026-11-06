@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 10 — Transitional provisions[^key-ce90f9f23a274decf0ece7bf29345c8d]
+## SCHEDULE 10 — Transitional provisions[^c-ce90f9f23a274decf0ece7bf29345c8d]
 
 *Extent: S*
 
@@ -24,52 +24,52 @@ summary: ''
 
 Regulation 52
 
-### 1. Interpretation[^key-ce90f9f23a274decf0ece7bf29345c8d]
+### 1. Interpretation[^c-ce90f9f23a274decf0ece7bf29345c8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Part 2 (requirement to provide information)[^key-ce90f9f23a274decf0ece7bf29345c8d]
+### 2. Part 2 (requirement to provide information)[^c-ce90f9f23a274decf0ece7bf29345c8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Part 2A (testing following arrival in Scotland)[^key-ce90f9f23a274decf0ece7bf29345c8d]
+### 3. Part 2A (testing following arrival in Scotland)[^c-ce90f9f23a274decf0ece7bf29345c8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ce90f9f23a274decf0ece7bf29345c8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ce90f9f23a274decf0ece7bf29345c8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Part 3 (managed self-isolation package)[^key-ce90f9f23a274decf0ece7bf29345c8d]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**6.**[^key-ce90f9f23a274decf0ece7bf29345c8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-ce90f9f23a274decf0ece7bf29345c8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-ce90f9f23a274decf0ece7bf29345c8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 9. Part 4 (enforcement)[^key-ce90f9f23a274decf0ece7bf29345c8d]
+### 5. Part 3 (managed self-isolation package)[^c-ce90f9f23a274decf0ece7bf29345c8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Schedule 2 (persons not required to comply with regulations 3, 5A or 5D to 6B)[^key-ce90f9f23a274decf0ece7bf29345c8d]
+**6.**[^c-ce90f9f23a274decf0ece7bf29345c8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^c-ce90f9f23a274decf0ece7bf29345c8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^c-ce90f9f23a274decf0ece7bf29345c8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Part 4 (enforcement)[^c-ce90f9f23a274decf0ece7bf29345c8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-ce90f9f23a274decf0ece7bf29345c8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**12.**[^key-ce90f9f23a274decf0ece7bf29345c8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**13.**[^key-ce90f9f23a274decf0ece7bf29345c8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**14.**[^key-ce90f9f23a274decf0ece7bf29345c8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 15. Schedule 2A (testing before arrival in Scotland)[^key-ce90f9f23a274decf0ece7bf29345c8d]
+### 10. Schedule 2 (persons not required to comply with regulations 3, 5A or 5D to 6B)[^c-ce90f9f23a274decf0ece7bf29345c8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-ce90f9f23a274decf0ece7bf29345c8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-ce90f9f23a274decf0ece7bf29345c8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^c-ce90f9f23a274decf0ece7bf29345c8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^c-ce90f9f23a274decf0ece7bf29345c8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^c-ce90f9f23a274decf0ece7bf29345c8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15. Schedule 2A (testing before arrival in Scotland)[^c-ce90f9f23a274decf0ece7bf29345c8d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.**[^c-ce90f9f23a274decf0ece7bf29345c8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ce90f9f23a274decf0ece7bf29345c8d]: Textual amendment: Regulations revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Revocation Regulations 2022 (S.S.I. 2022/99)](https://www.legislation.gov.uk/ssi/2022/99), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/99/regulation/1/2), [sch.](https://www.legislation.gov.uk/ssi/2022/99/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/99/regulation/3))
+[^c-ce90f9f23a274decf0ece7bf29345c8d]: Textual amendment: Regulations revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Revocation Regulations 2022 (S.S.I. 2022/99)](https://www.legislation.gov.uk/ssi/2022/99), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/99/regulation/1/2), [sch.](https://www.legislation.gov.uk/ssi/2022/99/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/99/regulation/3))

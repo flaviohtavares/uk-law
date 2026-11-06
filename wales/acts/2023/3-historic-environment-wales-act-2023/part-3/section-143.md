@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 143. Management, use and disposal of building acquired under this Chapter[^key-50016c7cda78fb819abab3efb5df9321][^key-2b4a5a0e89071d6fdd2586e1d9af374e]
+## 143. Management, use and disposal of building acquired under this Chapter[^c-50016c7cda78fb819abab3efb5df9321][^c-2b4a5a0e89071d6fdd2586e1d9af374e]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-50016c7cda78fb819abab3efb5df9321]: Commencement: S. 143 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-50016c7cda78fb819abab3efb5df9321]: Commencement: S. 143 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-2b4a5a0e89071d6fdd2586e1d9af374e]: Commencement: [S. 143](https://www.legislation.gov.uk/asc/2023/3/section/143) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-2b4a5a0e89071d6fdd2586e1d9af374e]: Commencement: [S. 143](https://www.legislation.gov.uk/asc/2023/3/section/143) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

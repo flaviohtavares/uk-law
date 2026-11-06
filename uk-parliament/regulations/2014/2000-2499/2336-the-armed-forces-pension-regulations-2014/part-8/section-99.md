@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Right to require payment of a transfer value[^key-d62150e6eb3a6b4c581830c25304865c]
+## 99. Right to require payment of a transfer value[^c-d62150e6eb3a6b4c581830c25304865c]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d62150e6eb3a6b4c581830c25304865c]: Commencement: [Reg. 99](https://www.legislation.gov.uk/uksi/2014/2336/regulation/99) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-d62150e6eb3a6b4c581830c25304865c]: Commencement: [Reg. 99](https://www.legislation.gov.uk/uksi/2014/2336/regulation/99) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

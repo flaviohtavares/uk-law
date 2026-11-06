@@ -49,7 +49,7 @@ summary: ''
 (8) This section and sections 18 and 19 apply to—
 
 - (a) the Department;
-- (b)[^key-c605bd75071a21a7f4034d34d5e597df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-c605bd75071a21a7f4034d34d5e597df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the Regional Agency;
 - (d) HSC trusts; and
 - (e) special agencies.
@@ -68,4 +68,4 @@ and references to the provision of care include references to the provision of c
 
 [^c19578641]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2009/1/section/17) wholly in operation at 1.4.2009; [s. 17](https://www.legislation.gov.uk/nia/2009/1/section/17) in operation for certain purposes at Royal Assent see [s. 34(2)(f)](https://www.legislation.gov.uk/nia/2009/1/section/34/2/f); [s. 17](https://www.legislation.gov.uk/nia/2009/1/section/17) in operation at 1.4.2009 insofar as not already in operation by [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-c605bd75071a21a7f4034d34d5e597df]: Textual amendment: [S. 17(8)(b)](https://www.legislation.gov.uk/nia/2009/1/section/17/8/b) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 236](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/236); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-c605bd75071a21a7f4034d34d5e597df]: Textual amendment: [S. 17(8)(b)](https://www.legislation.gov.uk/nia/2009/1/section/17/8/b) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 236](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/236); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 117. Resolutions of creditors’ committees by post[^key-b532c58bf0c233d98a356a57663aff7d]
+## 117. Resolutions of creditors’ committees by post[^c-b532c58bf0c233d98a356a57663aff7d]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Where the administrator makes use of this procedure, the administrator shall notify each member or their representative of each proposed resolution on which a decision is sought.
 
-(3) The FCA and, where the investment bank concerned is a PRA-authorised person, the PRA[^key-f4461df11cbac8a3f73691f4d6dbeb19] shall also be notified of each proposed resolution under this rule.
+(3) The FCA and, where the investment bank concerned is a PRA-authorised person, the PRA[^c-f4461df11cbac8a3f73691f4d6dbeb19] shall also be notified of each proposed resolution under this rule.
 
 (4) In a special administration (bank administration), if the notification in paragraph (2) happens before the Bank of England has given the Objective A Achievement Notice, the Bank of England shall be notified of each proposed resolution under this rule.
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b532c58bf0c233d98a356a57663aff7d]: Commencement: [Rule 117](https://www.legislation.gov.uk/uksi/2011/1301/rule/117) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-b532c58bf0c233d98a356a57663aff7d]: Commencement: [Rule 117](https://www.legislation.gov.uk/uksi/2011/1301/rule/117) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-f4461df11cbac8a3f73691f4d6dbeb19]: Textual amendment: Words in [art. 117(3)](https://www.legislation.gov.uk/uksi/2011/1301/article/117/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(x)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/x) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-f4461df11cbac8a3f73691f4d6dbeb19]: Textual amendment: Words in [art. 117(3)](https://www.legislation.gov.uk/uksi/2011/1301/article/117/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(x)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/x) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

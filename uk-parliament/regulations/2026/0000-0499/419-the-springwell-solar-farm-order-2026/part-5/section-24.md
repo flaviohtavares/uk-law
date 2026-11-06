@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Private rights[^key-a08f502820e2bf93887cc1bdf1fd9f26]
+## 24. Private rights[^c-a08f502820e2bf93887cc1bdf1fd9f26]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a08f502820e2bf93887cc1bdf1fd9f26]: Commencement: Art. 24 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-a08f502820e2bf93887cc1bdf1fd9f26]: Commencement: Art. 24 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)

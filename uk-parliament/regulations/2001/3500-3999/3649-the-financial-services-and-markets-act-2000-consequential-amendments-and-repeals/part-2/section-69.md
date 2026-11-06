@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Disclosure of information: emoluments and other benefits of directors and others[^key-458ddde89e816e02f9b29db0948ad6aa]
+## 69. Disclosure of information: emoluments and other benefits of directors and others[^c-458ddde89e816e02f9b29db0948ad6aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-458ddde89e816e02f9b29db0948ad6aa]: Commencement: Art. 69 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-458ddde89e816e02f9b29db0948ad6aa]: Commencement: Art. 69 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00072]: Footnote: Part I of Schedule 6 was inserted by the [Companies (NI) Order 1990 (NI 5)](https://www.legislation.gov.uk/nisi/1990/593) Articles 3(b), 8(4) and Schedule 4 and paragraph 1 was substituted by [SR (NI) 1997/545](https://www.legislation.gov.uk/nisr/1997/545).

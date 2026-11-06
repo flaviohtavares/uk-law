@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 94. Funeral directors' businesses: licensing[^key-aaaf14c156db85dca1f330bda6dbbe9b]
+## 94. Funeral directors' businesses: licensing[^c-aaaf14c156db85dca1f330bda6dbbe9b]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aaaf14c156db85dca1f330bda6dbbe9b]: Commencement: [S. 94](https://www.legislation.gov.uk/asp/2016/20/section/94) in force at 2.6.2023 for specified purposes by [S.S.I. 2023/145](https://www.legislation.gov.uk/ssi/2023/145), [reg. 2](https://www.legislation.gov.uk/ssi/2023/145/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/145/schedule)
+[^c-aaaf14c156db85dca1f330bda6dbbe9b]: Commencement: [S. 94](https://www.legislation.gov.uk/asp/2016/20/section/94) in force at 2.6.2023 for specified purposes by [S.S.I. 2023/145](https://www.legislation.gov.uk/ssi/2023/145), [reg. 2](https://www.legislation.gov.uk/ssi/2023/145/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/145/schedule)

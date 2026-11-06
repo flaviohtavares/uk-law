@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 213. Procedure where detailed assessment required[^key-13907d8a94850b9a9846b2b79055a889]
+## 213. Procedure where detailed assessment required[^c-13907d8a94850b9a9846b2b79055a889]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 7.32 of the 1991 Rules.
 
 ## Annotations
 
-[^key-13907d8a94850b9a9846b2b79055a889]: Commencement: Rule 213 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-13907d8a94850b9a9846b2b79055a889]: Commencement: Rule 213 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

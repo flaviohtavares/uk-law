@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Minimum payments to be made by employers to trustees.[^key-1e01f4e9fc5a321c7d7cd270b40c98f5]
+## 32. Minimum payments to be made by employers to trustees.[^c-1e01f4e9fc5a321c7d7cd270b40c98f5]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e01f4e9fc5a321c7d7cd270b40c98f5]: Textual amendment: Reg. 32 omitted (E.W.S.) (6.4.2015) by virtue of [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2011/1245/regulation/18)
+[^c-1e01f4e9fc5a321c7d7cd270b40c98f5]: Textual amendment: Reg. 32 omitted (E.W.S.) (6.4.2015) by virtue of [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2011/1245/regulation/18)

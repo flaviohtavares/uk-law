@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 264. Documents issuing from the Department[^key-8bab2dd13114e0b75c07a17f16722439]
+## 264. Documents issuing from the Department[^c-8bab2dd13114e0b75c07a17f16722439]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 12.07 of the 1991 Rules.
 
 ## Annotations
 
-[^key-8bab2dd13114e0b75c07a17f16722439]: Commencement: Rule 264 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-8bab2dd13114e0b75c07a17f16722439]: Commencement: Rule 264 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

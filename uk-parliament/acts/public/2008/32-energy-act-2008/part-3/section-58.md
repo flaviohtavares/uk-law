@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Secretary of State's power of direction[^key-f6b3f31c0076c3855810db02d6bba0b2]
+## 58. Secretary of State's power of direction[^c-f6b3f31c0076c3855810db02d6bba0b2]
 
 *Extent: E+W+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6b3f31c0076c3855810db02d6bba0b2]: Commencement: S. 58 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)
+[^c-f6b3f31c0076c3855810db02d6bba0b2]: Commencement: S. 58 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)

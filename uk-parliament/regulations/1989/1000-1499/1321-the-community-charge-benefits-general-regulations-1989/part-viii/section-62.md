@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 62. Amendment and withdrawal of claim[^key-af2a3ab9c664e0cc5a03ce76de71a431]
+## 62. Amendment and withdrawal of claim[^c-af2a3ab9c664e0cc5a03ce76de71a431]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af2a3ab9c664e0cc5a03ce76de71a431]: Commencement: Reg. 62 in force at 11.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-af2a3ab9c664e0cc5a03ce76de71a431]: Commencement: Reg. 62 in force at 11.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)

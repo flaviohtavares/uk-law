@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 110. Application of abatement policy in individual cases[^key-c88e58653ad6386c232781b74035e12c]
+## 110. Application of abatement policy in individual cases[^c-c88e58653ad6386c232781b74035e12c]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c88e58653ad6386c232781b74035e12c]: Commencement: Reg. 110 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-c88e58653ad6386c232781b74035e12c]: Commencement: Reg. 110 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

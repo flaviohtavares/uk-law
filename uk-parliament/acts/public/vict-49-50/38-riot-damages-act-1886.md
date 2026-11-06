@@ -31,60 +31,60 @@ Riot (Damages) Act 1886 (repealed)
 
 1886 c.38
 
-[^key-2a1f9c01eef7402f1ed2711506124d05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2a1f9c01eef7402f1ed2711506124d05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Short title.[^key-2a1f9c01eef7402f1ed2711506124d05]
+## 1. Short title.[^c-2a1f9c01eef7402f1ed2711506124d05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Compensation to persons for damage by riot.[^key-2a1f9c01eef7402f1ed2711506124d05]
+## 2. Compensation to persons for damage by riot.[^c-2a1f9c01eef7402f1ed2711506124d05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Mode of awarding compensation.[^key-2a1f9c01eef7402f1ed2711506124d05]
+## 3. Mode of awarding compensation.[^c-2a1f9c01eef7402f1ed2711506124d05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Right of action to person aggrieved.[^key-2a1f9c01eef7402f1ed2711506124d05]
+## 4. Right of action to person aggrieved.[^c-2a1f9c01eef7402f1ed2711506124d05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Payment of compensation and expenses, and raising of money.[^key-2a1f9c01eef7402f1ed2711506124d05]
+## 5. Payment of compensation and expenses, and raising of money.[^c-2a1f9c01eef7402f1ed2711506124d05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Application of Act to wreck and machinery.[^key-2a1f9c01eef7402f1ed2711506124d05]
+## 6. Application of Act to wreck and machinery.[^c-2a1f9c01eef7402f1ed2711506124d05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. As to claimants in the case of churches, public institutions, &c.[^key-2a1f9c01eef7402f1ed2711506124d05]
+## 7. As to claimants in the case of churches, public institutions, &c.[^c-2a1f9c01eef7402f1ed2711506124d05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-2a1f9c01eef7402f1ed2711506124d05]
+## 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-2a1f9c01eef7402f1ed2711506124d05]
 
-## 9. Definitions.[^key-2a1f9c01eef7402f1ed2711506124d05]
+## 9. Definitions.[^c-2a1f9c01eef7402f1ed2711506124d05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-2a1f9c01eef7402f1ed2711506124d05]
+## 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-2a1f9c01eef7402f1ed2711506124d05]
 
-## 11. Extent of Act.[^key-2a1f9c01eef7402f1ed2711506124d05]
+## 11. Extent of Act.[^c-2a1f9c01eef7402f1ed2711506124d05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-2a1f9c01eef7402f1ed2711506124d05]
+## SCHEDULE 1[^c-2a1f9c01eef7402f1ed2711506124d05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-2a1f9c01eef7402f1ed2711506124d05]
+## SCHEDULE 2[^c-2a1f9c01eef7402f1ed2711506124d05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2a1f9c01eef7402f1ed2711506124d05]: Textual amendment: Act repealed (6.4.2017) by [Riot Compensation Act 2016 (c. 8)](https://www.legislation.gov.uk/ukpga/2016/8), [ss. 10(1)](https://www.legislation.gov.uk/ukpga/2016/8/section/10/1), [12(1)](https://www.legislation.gov.uk/ukpga/2016/8/section/12/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/8/section/12/2); [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
+[^c-2a1f9c01eef7402f1ed2711506124d05]: Textual amendment: Act repealed (6.4.2017) by [Riot Compensation Act 2016 (c. 8)](https://www.legislation.gov.uk/ukpga/2016/8), [ss. 10(1)](https://www.legislation.gov.uk/ukpga/2016/8/section/10/1), [12(1)](https://www.legislation.gov.uk/ukpga/2016/8/section/12/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/8/section/12/2); [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)

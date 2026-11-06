@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Retirement amount of deferred pension[^key-28aeebf451676dd535f52336a3634cf6]
+## 46. Retirement amount of deferred pension[^c-28aeebf451676dd535f52336a3634cf6]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28aeebf451676dd535f52336a3634cf6]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2014/2848/regulation/46) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-28aeebf451676dd535f52336a3634cf6]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2014/2848/regulation/46) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

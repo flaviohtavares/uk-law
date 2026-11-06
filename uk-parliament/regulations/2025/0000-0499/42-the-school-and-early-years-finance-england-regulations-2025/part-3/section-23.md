@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Energy scheme factor[^key-57b98867015c00e2a591b8739e2ddaaa]
+## 23. Energy scheme factor[^c-57b98867015c00e2a591b8739e2ddaaa]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57b98867015c00e2a591b8739e2ddaaa]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2025/42/regulation/23) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-57b98867015c00e2a591b8739e2ddaaa]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2025/42/regulation/23) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)

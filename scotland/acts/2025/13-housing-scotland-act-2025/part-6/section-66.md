@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Removal from register following application[^key-11abcb130a32c15ca918b69706596e8c][^key-0825181a79ca59805c1dc1df9dec011b]
+## 66. Removal from register following application[^c-11abcb130a32c15ca918b69706596e8c][^c-0825181a79ca59805c1dc1df9dec011b]
 
 *Extent: S*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-11abcb130a32c15ca918b69706596e8c]: Commencement: S. 66 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-11abcb130a32c15ca918b69706596e8c]: Commencement: S. 66 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-0825181a79ca59805c1dc1df9dec011b]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2025/13/section/66) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-0825181a79ca59805c1dc1df9dec011b]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2025/13/section/66) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

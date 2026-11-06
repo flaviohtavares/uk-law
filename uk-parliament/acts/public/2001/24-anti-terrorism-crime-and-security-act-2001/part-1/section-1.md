@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Forfeiture of terrorist property[^key-e55c593a29e09d950b27986905a74681]
+## 1. Forfeiture of terrorist property[^c-e55c593a29e09d950b27986905a74681]
 
 *Extent: E+W+S+N.I.*
 
-(1) Schedule 1 (which makes provision for enabling property[^key-712990bdc28a7b85d320e282c9e2f2f4] which—
+(1) Schedule 1 (which makes provision for enabling property[^c-712990bdc28a7b85d320e282c9e2f2f4] which—
 
 - (a) is intended to be used for the purposes of terrorism,
 - (b) consists of resources of an organisation which is a proscribed organisation, or
@@ -28,7 +28,7 @@ summary: ''
 
 to be forfeited in civil proceedings before a magistrates’ court or (in Scotland) the sheriff) is to have effect.
 
-(2) The powers conferred by Schedule 1 are exercisable in relation to property[^key-588189056e4407f5e2e06a18628e6594] whether or not any proceedings have been brought for an offence in connection with the property[^key-0d15a63d6c5f24231815f78391fbe2bc].
+(2) The powers conferred by Schedule 1 are exercisable in relation to property[^c-588189056e4407f5e2e06a18628e6594] whether or not any proceedings have been brought for an offence in connection with the property[^c-0d15a63d6c5f24231815f78391fbe2bc].
 
 (3) Expressions used in this section have the same meaning as in Schedule 1.
 
@@ -38,10 +38,10 @@ to be forfeited in civil proceedings before a magistrates’ court or (in Scotla
 
 ## Annotations
 
-[^key-e55c593a29e09d950b27986905a74681]: Textual amendment: Word in s. 1 heading substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 15(2)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/15/2); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
+[^c-e55c593a29e09d950b27986905a74681]: Textual amendment: Word in s. 1 heading substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 15(2)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/15/2); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
 
-[^key-712990bdc28a7b85d320e282c9e2f2f4]: Textual amendment: Word in s. 1(1) substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 15(3)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/15/3); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
+[^c-712990bdc28a7b85d320e282c9e2f2f4]: Textual amendment: Word in s. 1(1) substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 15(3)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/15/3); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
 
-[^key-588189056e4407f5e2e06a18628e6594]: Textual amendment: Word in s. 1(2) substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 15(4)(a)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/15/4/a); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
+[^c-588189056e4407f5e2e06a18628e6594]: Textual amendment: Word in s. 1(2) substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 15(4)(a)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/15/4/a); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
 
-[^key-0d15a63d6c5f24231815f78391fbe2bc]: Textual amendment: Words in s. 1(2) substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 15(4)(b)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/15/4/b); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
+[^c-0d15a63d6c5f24231815f78391fbe2bc]: Textual amendment: Words in s. 1(2) substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 15(4)(b)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/15/4/b); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)

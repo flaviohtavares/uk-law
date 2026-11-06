@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**280.**[^key-a22761cfeefec59b5dac2f1735c624c9] The Mental Health (Wales) Measure 2010 is amended as follows.
+**280.**[^c-a22761cfeefec59b5dac2f1735c624c9] The Mental Health (Wales) Measure 2010 is amended as follows.
 
 ## Annotations
 
-[^key-a22761cfeefec59b5dac2f1735c624c9]: Commencement: Reg. 280 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-a22761cfeefec59b5dac2f1735c624c9]: Commencement: Reg. 280 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Hospital in-patients[^key-636a2f36e3bc15294662e829db97533e]
+## 86. Hospital in-patients[^c-636a2f36e3bc15294662e829db97533e]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-636a2f36e3bc15294662e829db97533e]: Commencement: S. 86 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/30)
+[^c-636a2f36e3bc15294662e829db97533e]: Commencement: S. 86 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/30)

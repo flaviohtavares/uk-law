@@ -27,8 +27,8 @@ summary: ''
 
 (2) The references in subsection (1) to the work that B does are not restricted to work done contemporaneously with the work done by A.
 
-(3)[^key-d4b117256eeefa44b2cd56fbce0972a4] Sections 66 to 68 and 70 apply where a person (A) is or has been in pensionable service under an occupational pension scheme (regardless of whether those sections also apply in A’s case by virtue of subsection (1)).
+(3)[^c-d4b117256eeefa44b2cd56fbce0972a4] Sections 66 to 68 and 70 apply where a person (A) is or has been in pensionable service under an occupational pension scheme (regardless of whether those sections also apply in A’s case by virtue of subsection (1)).
 
 ## Annotations
 
-[^key-d4b117256eeefa44b2cd56fbce0972a4]: Textual amendment: [S. 64(3)](https://www.legislation.gov.uk/ukpga/2010/15/section/64/3) inserted (coming into force in accordance with reg. 1(b) of the amending S.I.) by [The Pensions Act 2004 and the Equality Act 2010 (Amendment) (Equal Treatment by Occupational Pension Schemes) Regulations 2023 (S.I. 2023/1308)](https://www.legislation.gov.uk/uksi/2023/1308), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2023/1308/regulation/3/2)
+[^c-d4b117256eeefa44b2cd56fbce0972a4]: Textual amendment: [S. 64(3)](https://www.legislation.gov.uk/ukpga/2010/15/section/64/3) inserted (coming into force in accordance with reg. 1(b) of the amending S.I.) by [The Pensions Act 2004 and the Equality Act 2010 (Amendment) (Equal Treatment by Occupational Pension Schemes) Regulations 2023 (S.I. 2023/1308)](https://www.legislation.gov.uk/uksi/2023/1308), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2023/1308/regulation/3/2)

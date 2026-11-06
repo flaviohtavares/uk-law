@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-Plastic Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^key-7bd7ced48ceb0a55aafbae6702ee4a42]
+Plastic Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^c-7bd7ced48ceb0a55aafbae6702ee4a42]
 
 Made
 
@@ -41,89 +41,89 @@ Coming into operation
 
 5th February 2001
 
-[^key-7bd7ced48ceb0a55aafbae6702ee4a42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7bd7ced48ceb0a55aafbae6702ee4a42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7bd7ced48ceb0a55aafbae6702ee4a42]
+## 1. Citation and commencement[^c-7bd7ced48ceb0a55aafbae6702ee4a42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Regulations[^key-7bd7ced48ceb0a55aafbae6702ee4a42]
+## 2. Amendment of Regulations[^c-7bd7ced48ceb0a55aafbae6702ee4a42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7bd7ced48ceb0a55aafbae6702ee4a42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7bd7ced48ceb0a55aafbae6702ee4a42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-7bd7ced48ceb0a55aafbae6702ee4a42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7bd7ced48ceb0a55aafbae6702ee4a42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-7bd7ced48ceb0a55aafbae6702ee4a42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7bd7ced48ceb0a55aafbae6702ee4a42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-7bd7ced48ceb0a55aafbae6702ee4a42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7bd7ced48ceb0a55aafbae6702ee4a42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-7bd7ced48ceb0a55aafbae6702ee4a42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-7bd7ced48ceb0a55aafbae6702ee4a42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-7bd7ced48ceb0a55aafbae6702ee4a42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-7bd7ced48ceb0a55aafbae6702ee4a42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-7bd7ced48ceb0a55aafbae6702ee4a42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-7bd7ced48ceb0a55aafbae6702ee4a42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-7bd7ced48ceb0a55aafbae6702ee4a42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-7bd7ced48ceb0a55aafbae6702ee4a42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-7bd7ced48ceb0a55aafbae6702ee4a42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-7bd7ced48ceb0a55aafbae6702ee4a42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-7bd7ced48ceb0a55aafbae6702ee4a42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-7bd7ced48ceb0a55aafbae6702ee4a42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-7bd7ced48ceb0a55aafbae6702ee4a42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-7bd7ced48ceb0a55aafbae6702ee4a42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7bd7ced48ceb0a55aafbae6702ee4a42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7bd7ced48ceb0a55aafbae6702ee4a42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-7bd7ced48ceb0a55aafbae6702ee4a42]
+## SCHEDULE 1[^c-7bd7ced48ceb0a55aafbae6702ee4a42]
 
 Regulation 10
 
-### Part I — List of Monomers to be added to Section A of Part I of Schedule 1 to the Principal Regulations[^key-7bd7ced48ceb0a55aafbae6702ee4a42]
+### Part I — List of Monomers to be added to Section A of Part I of Schedule 1 to the Principal Regulations[^c-7bd7ced48ceb0a55aafbae6702ee4a42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part II — List of Monomers in Section A of Part I of Schedule 1 to the Principal Regulations for which the content of the column “Restrictions and Specifications” is modified[^key-7bd7ced48ceb0a55aafbae6702ee4a42]
+### Part II — List of Monomers in Section A of Part I of Schedule 1 to the Principal Regulations for which the content of the column “Restrictions and Specifications” is modified[^c-7bd7ced48ceb0a55aafbae6702ee4a42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part III — List of Monomers in Section B of Part I of Schedule 1 to the Principal Regulations for which the content of the column “Restrictions and Specifications” is modified[^key-7bd7ced48ceb0a55aafbae6702ee4a42]
+### Part III — List of Monomers in Section B of Part I of Schedule 1 to the Principal Regulations for which the content of the column “Restrictions and Specifications” is modified[^c-7bd7ced48ceb0a55aafbae6702ee4a42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part IV — Monomer to be added to Section B of Part I of Schedule 1 to the Principal Regulations[^key-7bd7ced48ceb0a55aafbae6702ee4a42]
+### Part IV — Monomer to be added to Section B of Part I of Schedule 1 to the Principal Regulations[^c-7bd7ced48ceb0a55aafbae6702ee4a42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part V — List of Monomers transferred from Section B to Section A of Part I of Schedule 1 to the Principal Regulations[^key-7bd7ced48ceb0a55aafbae6702ee4a42]
+### Part V — List of Monomers transferred from Section B to Section A of Part I of Schedule 1 to the Principal Regulations[^c-7bd7ced48ceb0a55aafbae6702ee4a42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — List of additives to be inserted in Part I of Schedule 2 to the Principal Regulations[^key-7bd7ced48ceb0a55aafbae6702ee4a42]
+## SCHEDULE 2 — List of additives to be inserted in Part I of Schedule 2 to the Principal Regulations[^c-7bd7ced48ceb0a55aafbae6702ee4a42]
 
 Regulation 11
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3[^key-7bd7ced48ceb0a55aafbae6702ee4a42]
+## SCHEDULE 3[^c-7bd7ced48ceb0a55aafbae6702ee4a42]
 
 Regulation 12
 
-> **SCHEDULE 2A — Products obtained by bacterial fermentation[^key-7bd7ced48ceb0a55aafbae6702ee4a42]**
+> **SCHEDULE 2A — Products obtained by bacterial fermentation[^c-7bd7ced48ceb0a55aafbae6702ee4a42]**
 >
 > Regulation 5A
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4[^key-7bd7ced48ceb0a55aafbae6702ee4a42]
+## SCHEDULE 4[^c-7bd7ced48ceb0a55aafbae6702ee4a42]
 
 Regulations 8 and 12
 
-> **SCHEDULE 2B — Specifications[^key-7bd7ced48ceb0a55aafbae6702ee4a42]**
+> **SCHEDULE 2B — Specifications[^c-7bd7ced48ceb0a55aafbae6702ee4a42]**
 >
 > Regulation 7A
 >
@@ -131,8 +131,8 @@ Regulations 8 and 12
 
 **May not be in force at this date. Check the source.**
 
-[^key-7bd7ced48ceb0a55aafbae6702ee4a42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7bd7ced48ceb0a55aafbae6702ee4a42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7bd7ced48ceb0a55aafbae6702ee4a42]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/402) revoked (30.6.2006) by [The Plastic Materials and Articles in Contact with Food Regulations (Northern Ireland) 2006 (revoked) 2006 (S.R. 2006/251)](https://www.legislation.gov.uk/nisr/2006/251), [regs. 1](https://www.legislation.gov.uk/nisr/2006/251/regulation/1), [24(b)](https://www.legislation.gov.uk/nisr/2006/251/regulation/24/b)
+[^c-7bd7ced48ceb0a55aafbae6702ee4a42]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/402) revoked (30.6.2006) by [The Plastic Materials and Articles in Contact with Food Regulations (Northern Ireland) 2006 (revoked) 2006 (S.R. 2006/251)](https://www.legislation.gov.uk/nisr/2006/251), [regs. 1](https://www.legislation.gov.uk/nisr/2006/251/regulation/1), [24(b)](https://www.legislation.gov.uk/nisr/2006/251/regulation/24/b)

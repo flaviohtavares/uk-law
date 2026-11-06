@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**106.**[^key-fdec554678277242633724915bc6246a] In paragraph 3, in the substituted section 5 of the 1972 Act, omit subsection (3A).
+**106.**[^c-fdec554678277242633724915bc6246a] In paragraph 3, in the substituted section 5 of the 1972 Act, omit subsection (3A).
 
 ## Annotations
 
-[^key-fdec554678277242633724915bc6246a]: Commencement: Art. 106 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-fdec554678277242633724915bc6246a]: Commencement: Art. 106 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

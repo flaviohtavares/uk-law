@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36.31. Deduction of benefits[^M_F_cef712d6-cc8c-40af-fea8-7b01e51792d6][^key-e9908447b00f164a4af1faf75a60688f]
+## 36.31. Deduction of benefits[^M_F_cef712d6-cc8c-40af-fea8-7b01e51792d6][^c-e9908447b00f164a4af1faf75a60688f]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ For the purposes of rule 36.30[^M_F_a6f1e1b1-0343-43fa-aa80-7ce1a9ac2fc3](1)(a) 
 
 [^M_F_cef712d6-cc8c-40af-fea8-7b01e51792d6]: Textual amendment: Rule 36.30 renumbered as rule 36.31 by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [12(17)(a)](https://www.legislation.gov.uk/uksi/2023/572/rule/12/17/a) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
 
-[^key-e9908447b00f164a4af1faf75a60688f]: Textual amendment: Pt. 36 substituted (6.4.2015) by [The Civil Procedure (Amendment No. 8) Rules 2014 (S.I. 2014/3299)](https://www.legislation.gov.uk/uksi/2014/3299), [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3299/schedule/1) (with [rule 18](https://www.legislation.gov.uk/uksi/2014/3299/rule/18))
+[^c-e9908447b00f164a4af1faf75a60688f]: Textual amendment: Pt. 36 substituted (6.4.2015) by [The Civil Procedure (Amendment No. 8) Rules 2014 (S.I. 2014/3299)](https://www.legislation.gov.uk/uksi/2014/3299), [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3299/schedule/1) (with [rule 18](https://www.legislation.gov.uk/uksi/2014/3299/rule/18))
 
 [^M_F_a6f1e1b1-0343-43fa-aa80-7ce1a9ac2fc3]: Textual amendment: Word in rule 36.31 substituted by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [12(17)(b)](https://www.legislation.gov.uk/uksi/2023/572/rule/12/17/b) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 146. Communication of disclaimer to persons interested[^key-8e3e8eda49d8d19d49ffb31f82328248]
+## 146. Communication of disclaimer to persons interested[^c-8e3e8eda49d8d19d49ffb31f82328248]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.188 of the 1986 Rules.
 
 ## Annotations
 
-[^key-8e3e8eda49d8d19d49ffb31f82328248]: Commencement: Rule 146 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-8e3e8eda49d8d19d49ffb31f82328248]: Commencement: Rule 146 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

@@ -30,8 +30,8 @@ summary: ''
 
 (5) An active member's election under paragraph (1) is cancelled from the beginning of the first pay period after—
 
-- (a) the member's automatic re-enrolment date; or[^key-99527623da7979429d64fede2f5a6608]
-- (b) going on to no pay as a result of sickness, injury, or child-related leave[^key-16df3c0c9d206f193a7fbbf29a885afe] provided that the member is still on no pay at the beginning of that pay period,
+- (a) the member's automatic re-enrolment date; or[^c-99527623da7979429d64fede2f5a6608]
+- (b) going on to no pay as a result of sickness, injury, or child-related leave[^c-16df3c0c9d206f193a7fbbf29a885afe] provided that the member is still on no pay at the beginning of that pay period,
 
 and the contribution rate payable on the member's pensionable pay in relation to that employment is as provided by regulation 9 from that date.
 
@@ -41,6 +41,6 @@ and the contribution rate payable on the member's pensionable pay in relation to
 
 ## Annotations
 
-[^key-99527623da7979429d64fede2f5a6608]: Textual amendment: Word in [reg. 10(5)(a)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/10/5/a) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2018/493/regulation/5)
+[^c-99527623da7979429d64fede2f5a6608]: Textual amendment: Word in [reg. 10(5)(a)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/10/5/a) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2018/493/regulation/5)
 
-[^key-16df3c0c9d206f193a7fbbf29a885afe]: Textual amendment: Words in reg. 10(5) substituted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2015/755/regulation/5)
+[^c-16df3c0c9d206f193a7fbbf29a885afe]: Textual amendment: Words in reg. 10(5) substituted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2015/755/regulation/5)

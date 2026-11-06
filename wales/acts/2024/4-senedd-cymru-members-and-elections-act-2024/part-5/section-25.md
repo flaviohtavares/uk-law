@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Coming into force[^key-bf1a02624a95df36e1896d08af45465f]
+## 25. Coming into force[^c-bf1a02624a95df36e1896d08af45465f]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf1a02624a95df36e1896d08af45465f]: Commencement: S. 25 in force at 25.6.2024, see [s. 25(1)(c)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/c)
+[^c-bf1a02624a95df36e1896d08af45465f]: Commencement: S. 25 in force at 25.6.2024, see [s. 25(1)(c)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/c)

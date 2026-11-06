@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Termination on special grounds of tenancies to which Part II applies.[^key-2b6f3df8c75f447b31aa81f6e057c562][^c318975]
+## 58. Termination on special grounds of tenancies to which Part II applies.[^c-2b6f3df8c75f447b31aa81f6e057c562][^c318975]
 
 *Extent: E+W*
 
 (1) Where the landlord’s interest in the property comprised in any tenancy belongs to or is held for the purposes of a Government department, and the Minister or Board in charge of any Government department certifies that for reasons of national security it is necessary that the use or occupation of the property should be discontinued or changed, then—
 
-- (a) if the landlord gives a notice under subsection (1) of section twenty-five of this Act containing a copy of the certificate, subsection[^key-b673f2b99edcf71d7dd462dc4fb4234f] (6) of that section shall not apply to the notice and no application for a new tenancy shall be made by the tenant under subsection (1) of[^key-7adfb752757ef17e1175f1a8710b9186] section twenty-four of this Act;
+- (a) if the landlord gives a notice under subsection (1) of section twenty-five of this Act containing a copy of the certificate, subsection[^c-b673f2b99edcf71d7dd462dc4fb4234f] (6) of that section shall not apply to the notice and no application for a new tenancy shall be made by the tenant under subsection (1) of[^c-7adfb752757ef17e1175f1a8710b9186] section twenty-four of this Act;
 - (b) if (whether before or after the giving of the certificate) the tenant makes a request for a new tenancy under section twenty-six of this Act, and within two months after the making of the request the landlord gives notice to the tenant that the certificate has been given and the notice contains a copy of the certificate,—
   - (i) the tenant shall not make an application under section twenty-four of this Act for the grant of a new tenancy, and
   - (ii) if the notice specifies as the date on which the tenancy is to terminate a date earlier than that specified in the tenant’s request as the date on which the new tenancy is to begin but neither earlier than six months from the giving of the notice nor earlier than the earliest date at which apart from this Act the tenancy would come to an end or could be brought to an end, the tenancy shall terminate on the date specified in the notice instead of that specified in the request.
@@ -44,10 +44,10 @@ summary: ''
 
 ## Annotations
 
-[^key-2b6f3df8c75f447b31aa81f6e057c562]: Modification: S. 58 functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-2b6f3df8c75f447b31aa81f6e057c562]: Modification: S. 58 functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
 [^c318975]: Modification: S. 58 extended by [S.I. 1965/1536](https://www.legislation.gov.uk/uksi/1965/1536), [art. 12(2)](https://www.legislation.gov.uk/uksi/1965/1536/article/12/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1965/1536/schedule/3)
 
-[^key-b673f2b99edcf71d7dd462dc4fb4234f]: Textual amendment: Word in s. 58(1)(a) substituted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2003/3096/schedule/5/paragraph/7)
+[^c-b673f2b99edcf71d7dd462dc4fb4234f]: Textual amendment: Word in s. 58(1)(a) substituted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2003/3096/schedule/5/paragraph/7)
 
-[^key-7adfb752757ef17e1175f1a8710b9186]: Textual amendment: Words in s. 58(1)(a) inserted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2003/3096/schedule/5/paragraph/7)
+[^c-7adfb752757ef17e1175f1a8710b9186]: Textual amendment: Words in s. 58(1)(a) inserted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2003/3096/schedule/5/paragraph/7)

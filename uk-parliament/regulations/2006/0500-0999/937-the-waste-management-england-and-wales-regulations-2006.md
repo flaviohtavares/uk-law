@@ -124,31 +124,31 @@ She makes the following Regulations in exercise of the powers conferred upon her
 
   .
 
-## 3. Amendment of the Environment Act 1995[^key-5349dba836ad7ebd055a7803652b0f87]
+## 3. Amendment of the Environment Act 1995[^c-5349dba836ad7ebd055a7803652b0f87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations 1991[^key-e0b47d3a53940abe54f5dda2f6688e46]
+## 4. Amendment of the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations 1991[^c-e0b47d3a53940abe54f5dda2f6688e46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Controlled Waste Regulations 1992[^key-82356c88c0f38f9f5c7d4891d78202f1]
+## 5. Amendment of the Controlled Waste Regulations 1992[^c-82356c88c0f38f9f5c7d4891d78202f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Waste Management Licensing Regulations 1994[^key-59f5a84cb993f7708c0d441eed813ff0]
+## 6. Amendment of the Waste Management Licensing Regulations 1994[^c-59f5a84cb993f7708c0d441eed813ff0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of the Waste Management Regulations 1996[^key-27b097465d1d3460a44e54e04be8c6a8]
+## 7. Amendment of the Waste Management Regulations 1996[^c-27b097465d1d3460a44e54e04be8c6a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of the Groundwater Regulations 1998[^key-c0b0217b922a94be1be9e19fc4b4b5b0]
+## 8. Amendment of the Groundwater Regulations 1998[^c-c0b0217b922a94be1be9e19fc4b4b5b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of the Landfill (England and Wales) Regulations 2002[^key-70845fbb942b5ca6c49f339b28d8b8fa]
+## 9. Amendment of the Landfill (England and Wales) Regulations 2002[^c-70845fbb942b5ca6c49f339b28d8b8fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -174,7 +174,7 @@ She makes the following Regulations in exercise of the powers conferred upon her
 - (a) in the English text, for “1 September 2006”, substitute “15 May 2007”; and
 - (b) in the Welsh text, for “1 Medi 2006”, substitute “15 Mai 2007”.
 
-## 12. Amendment of the Waste Management Licensing (England and Wales) (Amendment and Related Provisions) (No. 3) Regulations 2005[^key-b42a99fab3cff7a002bb6ab5f424e4b9]
+## 12. Amendment of the Waste Management Licensing (England and Wales) (Amendment and Related Provisions) (No. 3) Regulations 2005[^c-b42a99fab3cff7a002bb6ab5f424e4b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -252,25 +252,25 @@ Copies of the transposition note and the regulatory impact assessment are availa
 
 [^f00012]: Footnote: Regulation [(EC) No. 1882/2003](https://www.legislation.gov.uk/european/regulation/2003/1882) (O.J. No. L284, 31.10.2003, p. 1).
 
-[^key-5349dba836ad7ebd055a7803652b0f87]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2006/937/regulation/3) omitted (6.4.2010) by virtue of [Environmental Permitting (England and Wales) (Amendment) (No.2) Regulations 2009 (S.I. 2009/3381)](https://www.legislation.gov.uk/uksi/2009/3381), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/3381/regulation/1/1/b), [14](https://www.legislation.gov.uk/uksi/2009/3381/regulation/14) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/3381/regulation/1/2))
+[^c-5349dba836ad7ebd055a7803652b0f87]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2006/937/regulation/3) omitted (6.4.2010) by virtue of [Environmental Permitting (England and Wales) (Amendment) (No.2) Regulations 2009 (S.I. 2009/3381)](https://www.legislation.gov.uk/uksi/2009/3381), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/3381/regulation/1/1/b), [14](https://www.legislation.gov.uk/uksi/2009/3381/regulation/14) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/3381/regulation/1/2))
 
-[^key-e0b47d3a53940abe54f5dda2f6688e46]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2006/937/regulation/4) omitted (29.3.2011) by virtue of [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 4 para. 21](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/21) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-e0b47d3a53940abe54f5dda2f6688e46]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2006/937/regulation/4) omitted (29.3.2011) by virtue of [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 4 para. 21](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/21) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
 
-[^key-82356c88c0f38f9f5c7d4891d78202f1]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2006/937/regulation/5) omitted (6.4.2012) by virtue of [The Controlled Waste (England and Wales) Regulations 2012 (S.I. 2012/811)](https://www.legislation.gov.uk/uksi/2012/811), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/811/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2012/811/regulation/6), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2012/811/schedule/2/paragraph/3)
+[^c-82356c88c0f38f9f5c7d4891d78202f1]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2006/937/regulation/5) omitted (6.4.2012) by virtue of [The Controlled Waste (England and Wales) Regulations 2012 (S.I. 2012/811)](https://www.legislation.gov.uk/uksi/2012/811), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/811/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2012/811/regulation/6), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2012/811/schedule/2/paragraph/3)
 
-[^key-59f5a84cb993f7708c0d441eed813ff0]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2006/937/regulation/6) omitted (6.4.2010 immediately after S.I. 2009/3381 comes into force) by virtue of [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1), [Sch. 26 para. 28(a)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/28/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2))
+[^c-59f5a84cb993f7708c0d441eed813ff0]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2006/937/regulation/6) omitted (6.4.2010 immediately after S.I. 2009/3381 comes into force) by virtue of [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1), [Sch. 26 para. 28(a)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/28/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2))
 
-[^key-27b097465d1d3460a44e54e04be8c6a8]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/937/regulation/7) omitted (6.4.2010 immediately after S.I. 2009/3381 comes into force) by virtue of [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1), [Sch. 26 para. 28(b)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/28/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2))
+[^c-27b097465d1d3460a44e54e04be8c6a8]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/937/regulation/7) omitted (6.4.2010 immediately after S.I. 2009/3381 comes into force) by virtue of [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1), [Sch. 26 para. 28(b)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/28/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2))
 
-[^key-c0b0217b922a94be1be9e19fc4b4b5b0]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2006/937/regulation/8) omitted (6.4.2010 immediately after S.I. 2009/3381 comes into force) by virtue of [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1), [Sch. 26 para. 28(c)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/28/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2))
+[^c-c0b0217b922a94be1be9e19fc4b4b5b0]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2006/937/regulation/8) omitted (6.4.2010 immediately after S.I. 2009/3381 comes into force) by virtue of [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1), [Sch. 26 para. 28(c)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/28/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2))
 
-[^key-70845fbb942b5ca6c49f339b28d8b8fa]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2006/937/regulation/9) omitted (6.4.2010 immediately after S.I. 2009/3381 comes into force) by virtue of [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1), [Sch. 26 para. 28(d)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/28/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2))
+[^c-70845fbb942b5ca6c49f339b28d8b8fa]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2006/937/regulation/9) omitted (6.4.2010 immediately after S.I. 2009/3381 comes into force) by virtue of [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1), [Sch. 26 para. 28(d)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/28/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2))
 
 [^f00031]: Footnote: S.I. [2005/894](https://www.legislation.gov.uk/uksi/2005/894).
 
 [^f00032]: Footnote: S.I. [2005/1806 (W.138)](https://www.legislation.gov.uk/wsi/2005/1806).
 
-[^key-b42a99fab3cff7a002bb6ab5f424e4b9]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2006/937/regulation/12) omitted (29.3.2011) by virtue of [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 4 para. 21](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/21) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-b42a99fab3cff7a002bb6ab5f424e4b9]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2006/937/regulation/12) omitted (29.3.2011) by virtue of [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 4 para. 21](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/21) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
 
 [^f00034]: Footnote: O.J. No. L194, 25.7.1975, p. 39 (as amended by Council Directives [91/156/EEC](https://www.legislation.gov.uk/european/directive/1991/0156) (O.J. No. L78, 26.3.1991, p. 32), [91/692/EEC](https://www.legislation.gov.uk/european/directive/1991/0692) (O.J. No. L377, 31.12.1991, p. 48 (as corrected by Corrigendum, O.J. No. L146, 13.6.2003, p. 52)), Commission Decision [96/350/EC](https://www.legislation.gov.uk/european/decision/1996/0350) (O.J. No. L135, 6.6.1996, p. 32) and Regulation [(EC) No. 1882/2003](https://www.legislation.gov.uk/european/regulation/2003/1882) (O.J. No. L284, 31.10.2003, p. 1)).
 

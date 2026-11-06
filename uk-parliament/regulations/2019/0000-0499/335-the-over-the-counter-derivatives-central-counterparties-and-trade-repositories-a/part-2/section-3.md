@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Interpretation[^key-3b5987d73c7286d7e6207f368af25b75]
+## 3. Interpretation[^c-3b5987d73c7286d7e6207f368af25b75]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In regulation 2, in paragraph (1), for the definition of â€œthe EMIR regulationâ
 
 ## Annotations
 
-[^key-3b5987d73c7286d7e6207f368af25b75]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-3b5987d73c7286d7e6207f368af25b75]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)

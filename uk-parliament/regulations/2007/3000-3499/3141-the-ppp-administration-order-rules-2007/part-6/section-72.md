@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Principal court rules and practice to apply[^key-77dc491e77fcb3163f03569214ed1ebb]
+## 72. Principal court rules and practice to apply[^c-77dc491e77fcb3163f03569214ed1ebb]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77dc491e77fcb3163f03569214ed1ebb]: Commencement: [Rule 72](https://www.legislation.gov.uk/uksi/2007/3141/rule/72) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-77dc491e77fcb3163f03569214ed1ebb]: Commencement: [Rule 72](https://www.legislation.gov.uk/uksi/2007/3141/rule/72) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

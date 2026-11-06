@@ -70,7 +70,7 @@ The measures provided for in this Regulation are in accordance with the opinion 
 
 HAS ADOPTED THIS REGULATION:
 
-## Article 1. Scope[^key-8d72eb7239e8d21b558999321969c0ee]
+## Article 1. Scope[^c-8d72eb7239e8d21b558999321969c0ee]
 
 (1.) This Regulation lays down common additional airworthiness specifications related to the continuing airworthiness and safety improvements of aircraft.
 
@@ -82,7 +82,7 @@ HAS ADOPTED THIS REGULATION:
 - (b) holders of a type-certificate, restricted type-certificate, supplemental type-certificate or a change and repair design approval approved by the CAA in accordance with [Commission Regulation (EU) No 748/2012](https://www.legislation.gov.uk/european/regulation/2012/0748) or deemed to have been issued in accordance with Article 3 of that Regulation;
 - (c) the applicants for a type-certificate or a restricted type-certificate for a turbine-powered large aeroplane, for which the application was submitted before 1 January 2019 and who are issued with the certificate after 26 August 2020 when specified in Annex I (Part-26).
 
-## Article 2. Definitions[^key-8b1e5d5b21734243463097f0b3054de6]
+## Article 2. Definitions[^c-8b1e5d5b21734243463097f0b3054de6]
 
 For the purposes of this Regulation,
 
@@ -108,7 +108,7 @@ For the purposes of this Regulation,
 
 ## Article 3. Additional airworthiness specifications for a given type of operation
 
-Operators for which the United Kingdom[^key-0ca2a7f2c3f49d617a1bc72f2723fc26] ensures oversight shall, when operating the aircraft referred to in Article 1, comply with the provisions of Annex I.
+Operators for which the United Kingdom[^c-0ca2a7f2c3f49d617a1bc72f2723fc26] ensures oversight shall, when operating the aircraft referred to in Article 1, comply with the provisions of Annex I.
 
 ## Article 4. Amendment to Regulation (EU) No 965/2012
 
@@ -116,7 +116,7 @@ Annex III to Regulation (EU) No 965/2012 is amended in accordance with Annex II 
 
 ## Article 5. Transitional provisions
 
-Aircraft for which operators demonstrated to the Civil Aviation Authority[^key-a0f00d4af1e9612dc2f1389b6496d66d] compliance with JAR-26 ‘Additional Airworthiness Requirements for Operations’ (hereinafter ‘JAR-26 requirements’), issued by the Joint Aviation Authorities on 13 July 1998, as amended by the Amendment 3 of 1 December 2005, before the dates of application referred to in Article 6 shall be deemed to comply with the equivalent specifications set out in Annex I to this Regulation.
+Aircraft for which operators demonstrated to the Civil Aviation Authority[^c-a0f00d4af1e9612dc2f1389b6496d66d] compliance with JAR-26 ‘Additional Airworthiness Requirements for Operations’ (hereinafter ‘JAR-26 requirements’), issued by the Joint Aviation Authorities on 13 July 1998, as amended by the Amendment 3 of 1 December 2005, before the dates of application referred to in Article 6 shall be deemed to comply with the equivalent specifications set out in Annex I to this Regulation.
 
 Aircraft for which compliance with the JAR-26 requirements equivalent to the specifications set out in points 26.50, 26.105, 26.110, 26.120, 26.150, 26.155, 26.160, 26.200, 26.250 of Annex I to this Regulation has been demonstrated in accordance with the first subparagraph shall subsequently not be modified in a way that would affect its compliance with the JAR-26 requirements concerned.
 
@@ -128,15 +128,15 @@ It shall apply from 14 May 2015.
 
 However, points 26.50, 26.105, 26.110, 26.120, 26.150, 26.155, 26.160, 26.200 and 26.250 of Annex I shall apply from 14 May 2017.
 
-[^key-473c4bb0169686b9ac2099813efccdc0]...
+[^c-473c4bb0169686b9ac2099813efccdc0]...
 
 ## ANNEX I — PART-26 — ADDITIONAL AIRWORTHINESS SPECIFICATIONS FOR OPERATIONS
 
-CONTENTS[^c000001][^key-3ad7e716fdd8a06a2f668012350c6b3a]
+CONTENTS[^c000001][^c-3ad7e716fdd8a06a2f668012350c6b3a]
 
 SUBPART A — GENERAL PROVISIONS
 
-[^key-3c79a16da8b506933298cb0833bf3699]...
+[^c-3c79a16da8b506933298cb0833bf3699]...
 
 26.20 Temporary inoperative equipment
 
@@ -146,7 +146,7 @@ SUBPART A
 
 ***GENERAL PROVISIONS***
 
-[^key-eb8e8577f1522fe91cff02c24b1803cd]**26.10**
+[^c-eb8e8577f1522fe91cff02c24b1803cd]**26.10**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -154,17 +154,17 @@ SUBPART A
 
 **Temporary inoperative equipment**
 
-A flight shall not be commenced when any of the aircraft's instruments, items of equipment, or functions required by this Part are inoperative or missing unless waived by the operator's Minimum Equipment List as defined in Part-ORO.MLR.105 and approved by the CAA[^key-0423942e35d2663a885494d1f9953908].
+A flight shall not be commenced when any of the aircraft's instruments, items of equipment, or functions required by this Part are inoperative or missing unless waived by the operator's Minimum Equipment List as defined in Part-ORO.MLR.105 and approved by the CAA[^c-0423942e35d2663a885494d1f9953908].
 
 **26.30**
 
 **Demonstration of compliance**
 
-- ((a)) The CAA shall issue, in accordance with Article 76(3) of Regulation (EU) 2018/1139, certification specifications as standard means to demonstrate compliance with this Annex. The certification specifications shall be sufficiently detailed and specific to indicate the conditions under which compliance with the requirements of this Annex may be demonstrated.[^key-d9ef4efa14c7fd8f6dd46b15117b0982]
-- ((b)) Operators and holders of a type certificate, restricted type certificate, supplemental type certificate or a change and repair design approval may demonstrate compliance with the requirements of this Annex by complying with either of the following:[^key-6d0de583ccfacd4916320a8092b1c02f]
+- ((a)) The CAA shall issue, in accordance with Article 76(3) of Regulation (EU) 2018/1139, certification specifications as standard means to demonstrate compliance with this Annex. The certification specifications shall be sufficiently detailed and specific to indicate the conditions under which compliance with the requirements of this Annex may be demonstrated.[^c-d9ef4efa14c7fd8f6dd46b15117b0982]
+- ((b)) Operators and holders of a type certificate, restricted type certificate, supplemental type certificate or a change and repair design approval may demonstrate compliance with the requirements of this Annex by complying with either of the following:[^c-6d0de583ccfacd4916320a8092b1c02f]
   - ((i)) the specifications issued by the CAA under point (a) of this point or the equivalent certification specifications issued by the CAA under point 21.B.70 of Annex I to [Regulation (EU) No 748/2012](https://www.legislation.gov.uk/european/regulation/2012/0748);
   - ((ii)) technical standards offering an equivalent level of safety to those included in those certification specifications.
-- ((c)) Holders of a type certificate, restricted type certificate, supplemental type certificate or a change and repair design approval shall make available to each known operator of the aeroplanes any changes to the “[^key-61bac5eaf5af4c6d1b77896c1ada98fa]**Instructions for Continued Airworthiness**” (ICA) required to demonstrate compliance with this Annex. For the purposes of this Regulation, the ICA also include damage tolerance inspections (DTIs), repair evaluation guidelines (REGs), a baseline corrosion prevention and control programme (CPCP) and a list of fatigue-critical structures (FCSs) and airworthiness limitation sections (ALSs).
+- ((c)) Holders of a type certificate, restricted type certificate, supplemental type certificate or a change and repair design approval shall make available to each known operator of the aeroplanes any changes to the “[^c-61bac5eaf5af4c6d1b77896c1ada98fa]**Instructions for Continued Airworthiness**” (ICA) required to demonstrate compliance with this Annex. For the purposes of this Regulation, the ICA also include damage tolerance inspections (DTIs), repair evaluation guidelines (REGs), a baseline corrosion prevention and control programme (CPCP) and a list of fatigue-critical structures (FCSs) and airworthiness limitation sections (ALSs).
 
 SUBPART B
 
@@ -180,7 +180,7 @@ Operators of large aeroplanes used in commercial air transport, type certified o
 
 **Emergency landing — dynamic conditions**
 
-Operators of large aeroplanes used in commercial air transport of passengers, type-certified on or after 1 January 1958, and for which the individual certificate of airworthiness is first issued on or after 26 February 2021 shall demonstrate for each seat type design approved for occupancy during taxiing, take-off or landing that the occupant is protected when exposed to loads resulting from emergency landing conditions. The demonstration shall be made by one of the following means:[^key-58eb5ce6722606a55b1c3e6eca44b45f]
+Operators of large aeroplanes used in commercial air transport of passengers, type-certified on or after 1 January 1958, and for which the individual certificate of airworthiness is first issued on or after 26 February 2021 shall demonstrate for each seat type design approved for occupancy during taxiing, take-off or landing that the occupant is protected when exposed to loads resulting from emergency landing conditions. The demonstration shall be made by one of the following means:[^c-58eb5ce6722606a55b1c3e6eca44b45f]
 
 - ((a)) successfully completed dynamic tests;
 - ((b)) rational analysis providing equivalent safety, based on dynamic tests of a similar seat type design.
@@ -244,7 +244,7 @@ Operators of large aeroplanes used in commercial air transport, type certified o
 - ((b)) for aeroplanes for which the first individual certificate of airworthiness is issued on or after 18 February 2021 , thermal and acoustic insulation materials have flame propagation resistance characteristics which prevent or reduce the risk of flame propagation in the aeroplane;
 - ((c)) for aeroplanes for which the first individual certificate of airworthiness is issued on or after 18 February 2021 and with a passenger capacity of 20 or more, thermal and acoustic insulation materials (including the means of fastening the materials to the fuselage) installed in the lower half of the aeroplane have flame penetration resistance characteristics which prevent or reduce the risk of flame penetration into the aeroplane after an accident and which ensure survivable conditions in the cabin for a time needed to evacuate the aeroplane.
 
-**26.157[^key-3817ffba1517220c4242fa25ee689826]**
+**26.157[^c-3817ffba1517220c4242fa25ee689826]**
 
 **Conversion of Class D compartments**
 
@@ -284,7 +284,7 @@ Operators of large aeroplanes used in commercial air transport shall ensure that
 **Runway overrun awareness and alerting systems**
 
 - Operators of large aeroplanes used in commercial air transport shall ensure that every aeroplane for which the first individual certificate of airworthiness was issued on or after 1 January 2026, is equipped with a runway overrun awareness and alerting system.
-- This system shall be designed in a manner allowing to reduce the risk of a longitudinal runway excursion during landing by providing an alert, in-flight and on the ground, to the flight crew when the aeroplane is at risk of not being able to stop within the available distance to the end of the runway.[^key-be34523a4063c81404888cdd2953da2b]
+- This system shall be designed in a manner allowing to reduce the risk of a longitudinal runway excursion during landing by providing an alert, in-flight and on the ground, to the flight crew when the aeroplane is at risk of not being able to stop within the available distance to the end of the runway.[^c-be34523a4063c81404888cdd2953da2b]
 
 **26.250**
 
@@ -292,7 +292,7 @@ Operators of large aeroplanes used in commercial air transport shall ensure that
 
 Operators of large aeroplanes used in commercial air transport shall ensure that flight crew compartment door operating systems, where installed, be provided with alternate opening means in order to facilitate access by cabin crew members into the flight crew compartment in the case of a single flight crew member incapacitation.
 
-**26.300[^key-23448372f2e4c9dc4e79e9e5c2c6cffa]**
+**26.300[^c-23448372f2e4c9dc4e79e9e5c2c6cffa]**
 
 **Continuing structural integrity programme for ageing aeroplanes structures – general requirements**
 
@@ -493,7 +493,7 @@ Operators of large helicopters shall ensure that the following extinguishers do 
 - ((a)) built-in fire extinguishers for each lavatory waste receptacle for towels, paper or waste in large helicopters for which the individual certificate of airworthiness is first issued on or after 18 February 2020 ;
 - ((b)) portable fire extinguishers in large helicopters for which the individual certificate of airworthiness is first issued on or after 18 May 2019 .
 
-**Appendix 1[^key-0725651391c2171514a5fb979691b001]**
+**Appendix 1[^c-0725651391c2171514a5fb979691b001]**
 
 **List of aeroplane models not subject to certain provisions of Annex I (Part-26)**
 
@@ -543,42 +543,42 @@ In Annex III (Part-ORO) to Regulation (EU) No 965/2012, point ORO.AOC.100. subpa
 
 [^f00002]: Footnote: Commission Regulation (EU) No 965/2012 of 5 October 2012 laying down requirements and administrative procedures related to air operations pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council ([OJ L 296, 25.10.2012, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.296.01.0001.01.ENG)).
 
-[^key-8d72eb7239e8d21b558999321969c0ee]: Textual amendment: Art. 1 substituted (20.11.2021) by [The Aviation Safety (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1203)](https://www.legislation.gov.uk/uksi/2021/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2021/1203/regulation/19)
+[^c-8d72eb7239e8d21b558999321969c0ee]: Textual amendment: Art. 1 substituted (20.11.2021) by [The Aviation Safety (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1203)](https://www.legislation.gov.uk/uksi/2021/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2021/1203/regulation/19)
 
-[^key-8b1e5d5b21734243463097f0b3054de6]: Textual amendment: Art. 2 substituted (20.11.2021) by [The Aviation Safety (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1203)](https://www.legislation.gov.uk/uksi/2021/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2021/1203/regulation/20)
+[^c-8b1e5d5b21734243463097f0b3054de6]: Textual amendment: Art. 2 substituted (20.11.2021) by [The Aviation Safety (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1203)](https://www.legislation.gov.uk/uksi/2021/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2021/1203/regulation/20)
 
-[^key-0ca2a7f2c3f49d617a1bc72f2723fc26]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2015/640/article/3) substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [287](https://www.legislation.gov.uk/uksi/2019/645/regulation/287) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0ca2a7f2c3f49d617a1bc72f2723fc26]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2015/640/article/3) substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [287](https://www.legislation.gov.uk/uksi/2019/645/regulation/287) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a0f00d4af1e9612dc2f1389b6496d66d]: Textual amendment: Words in [Art. 5](https://www.legislation.gov.uk/eur/2015/640/article/5) substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [288](https://www.legislation.gov.uk/uksi/2019/645/regulation/288) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a0f00d4af1e9612dc2f1389b6496d66d]: Textual amendment: Words in [Art. 5](https://www.legislation.gov.uk/eur/2015/640/article/5) substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [288](https://www.legislation.gov.uk/uksi/2019/645/regulation/288) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-473c4bb0169686b9ac2099813efccdc0]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2015/640/signature) omitted (31.12.2020) by virtue of [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [289](https://www.legislation.gov.uk/uksi/2019/645/regulation/289) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-473c4bb0169686b9ac2099813efccdc0]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2015/640/signature) omitted (31.12.2020) by virtue of [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [289](https://www.legislation.gov.uk/uksi/2019/645/regulation/289) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) 2019/133 of 28 January 2019 amending Regulation (EU) 2015/640 as regards the introduction of new additional airworthiness specifications](https://www.legislation.gov.uk/eur/2019/133).
 
-[^key-3ad7e716fdd8a06a2f668012350c6b3a]: Textual amendment: Annex 1 Table of Contents substituted (20.11.2021) by [The Aviation Safety (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1203)](https://www.legislation.gov.uk/uksi/2021/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/21/2)
+[^c-3ad7e716fdd8a06a2f668012350c6b3a]: Textual amendment: Annex 1 Table of Contents substituted (20.11.2021) by [The Aviation Safety (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1203)](https://www.legislation.gov.uk/uksi/2021/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/21/2)
 
-[^key-3c79a16da8b506933298cb0833bf3699]: Textual amendment: Words in Annex 1 Table of Contents omitted (31.12.2020) by virtue of [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [290(2)](https://www.legislation.gov.uk/uksi/2019/645/regulation/290/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3c79a16da8b506933298cb0833bf3699]: Textual amendment: Words in Annex 1 Table of Contents omitted (31.12.2020) by virtue of [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [290(2)](https://www.legislation.gov.uk/uksi/2019/645/regulation/290/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eb8e8577f1522fe91cff02c24b1803cd]: Textual amendment: Annex 1 point 26.10 omitted (31.12.2020) by virtue of [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [290(3)(a)](https://www.legislation.gov.uk/uksi/2019/645/regulation/290/3/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eb8e8577f1522fe91cff02c24b1803cd]: Textual amendment: Annex 1 point 26.10 omitted (31.12.2020) by virtue of [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [290(3)(a)](https://www.legislation.gov.uk/uksi/2019/645/regulation/290/3/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0423942e35d2663a885494d1f9953908]: Textual amendment: Word in Annex 1 point 26.20 substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [290(3)(b)](https://www.legislation.gov.uk/uksi/2019/645/regulation/290/3/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0423942e35d2663a885494d1f9953908]: Textual amendment: Word in Annex 1 point 26.20 substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [290(3)(b)](https://www.legislation.gov.uk/uksi/2019/645/regulation/290/3/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d9ef4efa14c7fd8f6dd46b15117b0982]: Textual amendment: Annex 1 point 26.30(a) substituted (20.11.2021) by [The Aviation Safety (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1203)](https://www.legislation.gov.uk/uksi/2021/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/1/2), [21(3)(a)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/21/3/a)
+[^c-d9ef4efa14c7fd8f6dd46b15117b0982]: Textual amendment: Annex 1 point 26.30(a) substituted (20.11.2021) by [The Aviation Safety (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1203)](https://www.legislation.gov.uk/uksi/2021/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/1/2), [21(3)(a)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/21/3/a)
 
-[^key-6d0de583ccfacd4916320a8092b1c02f]: Textual amendment: Annex 1 point 26.30(b) substituted (20.11.2021) by [The Aviation Safety (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1203)](https://www.legislation.gov.uk/uksi/2021/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/1/2), [21(3)(b)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/21/3/b)
+[^c-6d0de583ccfacd4916320a8092b1c02f]: Textual amendment: Annex 1 point 26.30(b) substituted (20.11.2021) by [The Aviation Safety (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1203)](https://www.legislation.gov.uk/uksi/2021/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/1/2), [21(3)(b)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/21/3/b)
 
-[^key-61bac5eaf5af4c6d1b77896c1ada98fa]: Textual amendment: Annex 1 point 26.30(c) inserted (20.11.2021) by [The Aviation Safety (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1203)](https://www.legislation.gov.uk/uksi/2021/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/1/2), [21(3)(c)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/21/3/c)
+[^c-61bac5eaf5af4c6d1b77896c1ada98fa]: Textual amendment: Annex 1 point 26.30(c) inserted (20.11.2021) by [The Aviation Safety (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1203)](https://www.legislation.gov.uk/uksi/2021/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/1/2), [21(3)(c)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/21/3/c)
 
 [^c000002]: Textual amendment: Inserted by [Commission Implementing Regulation (EU) 2019/133 of 28 January 2019 amending Regulation (EU) 2015/640 as regards the introduction of new additional airworthiness specifications](https://www.legislation.gov.uk/eur/2019/133).
 
-[^key-58eb5ce6722606a55b1c3e6eca44b45f]: Textual amendment: Words in Annex 1 point 26.60 substituted (20.11.2021) by [The Aviation Safety (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1203)](https://www.legislation.gov.uk/uksi/2021/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/1/2), [21(4)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/21/4)
+[^c-58eb5ce6722606a55b1c3e6eca44b45f]: Textual amendment: Words in Annex 1 point 26.60 substituted (20.11.2021) by [The Aviation Safety (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1203)](https://www.legislation.gov.uk/uksi/2021/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/1/2), [21(4)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/21/4)
 
-[^key-3817ffba1517220c4242fa25ee689826]: Textual amendment: [Annex 1](https://www.legislation.gov.uk/eur/2015/640/annex/I) point 26.157 inserted (26.8.2023) by [The Aviation Safety (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1203)](https://www.legislation.gov.uk/uksi/2021/1203), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/1/5), [21(5)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/21/5)
+[^c-3817ffba1517220c4242fa25ee689826]: Textual amendment: [Annex 1](https://www.legislation.gov.uk/eur/2015/640/annex/I) point 26.157 inserted (26.8.2023) by [The Aviation Safety (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1203)](https://www.legislation.gov.uk/uksi/2021/1203), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/1/5), [21(5)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/21/5)
 
-[^key-be34523a4063c81404888cdd2953da2b]: Textual amendment: Annex 1 point 26.205 inserted (20.11.2021) by [The Aviation Safety (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1203)](https://www.legislation.gov.uk/uksi/2021/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/1/2), [21(6)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/21/6)
+[^c-be34523a4063c81404888cdd2953da2b]: Textual amendment: Annex 1 point 26.205 inserted (20.11.2021) by [The Aviation Safety (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1203)](https://www.legislation.gov.uk/uksi/2021/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/1/2), [21(6)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/21/6)
 
-[^key-23448372f2e4c9dc4e79e9e5c2c6cffa]: Textual amendment: Annex 1 points 26.300-26.370 inserted (20.11.2021) by [The Aviation Safety (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1203)](https://www.legislation.gov.uk/uksi/2021/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/1/2), [21(7)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/21/7)
+[^c-23448372f2e4c9dc4e79e9e5c2c6cffa]: Textual amendment: Annex 1 points 26.300-26.370 inserted (20.11.2021) by [The Aviation Safety (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1203)](https://www.legislation.gov.uk/uksi/2021/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/1/2), [21(7)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/21/7)
 
-[^key-0725651391c2171514a5fb979691b001]: Textual amendment: Annex 1 Appendix 1 inserted (20.11.2021) by [The Aviation Safety (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1203)](https://www.legislation.gov.uk/uksi/2021/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/1/2), [21(8)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/21/8)
+[^c-0725651391c2171514a5fb979691b001]: Textual amendment: Annex 1 Appendix 1 inserted (20.11.2021) by [The Aviation Safety (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1203)](https://www.legislation.gov.uk/uksi/2021/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/1/2), [21(8)](https://www.legislation.gov.uk/uksi/2021/1203/regulation/21/8)
 
 [^f00003]: Footnote: Commission Regulation (EU) 2015/640 of 23 April 2015 on additional airworthiness specifications for a given type of operations and amending Regulation (EU) No 965/2012 ([OJ L 106, 24.4.2015, p. 18](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2015.106.01.0018.01.ENG)).’

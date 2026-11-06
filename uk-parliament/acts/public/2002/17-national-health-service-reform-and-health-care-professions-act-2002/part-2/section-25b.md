@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25B. Power of the Authority to advise regulatory bodies etc.[^key-89e8e60133956ff281aab76c94556376]
+## 25B. Power of the Authority to advise regulatory bodies etc.[^c-89e8e60133956ff281aab76c94556376]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89e8e60133956ff281aab76c94556376]: Textual amendment: S. 25B inserted (16.3.2015) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 225(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/225/1), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2015/409](https://www.legislation.gov.uk/uksi/2015/409), [art. 2](https://www.legislation.gov.uk/uksi/2015/409/article/2)
+[^c-89e8e60133956ff281aab76c94556376]: Textual amendment: S. 25B inserted (16.3.2015) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 225(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/225/1), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2015/409](https://www.legislation.gov.uk/uksi/2015/409), [art. 2](https://www.legislation.gov.uk/uksi/2015/409/article/2)

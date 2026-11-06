@@ -26,9 +26,9 @@ summary: ''
 
 - (a) eligible for an award under article 12(1)(a);
 - (b) in receipt of any personal benefit under Part 2 or Part 3 of the Social Security Contributions and Benefits Act 1992[^c2154833] or the corresponding provisions of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^c2154834];
-- (ba)[^key-534187ed71a75dac8f67b69fbdeb1349] in receipt of a state pension under Part 1 of the Pensions Act 2014;
-- (c) in receipt of employment and support contributory allowance [^c2203584] ...; [^key-6755c5d2c73e243c2f711d77d08d6280]...
-- (ca)[^key-9f5b5c36ad09f2667d271e7e0411e402] in receipt of carer support payment under the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023; or
+- (ba)[^c-534187ed71a75dac8f67b69fbdeb1349] in receipt of a state pension under Part 1 of the Pensions Act 2014;
+- (c) in receipt of employment and support contributory allowance [^c2203584] ...; [^c-6755c5d2c73e243c2f711d77d08d6280]...
+- (ca)[^c-9f5b5c36ad09f2667d271e7e0411e402] in receipt of carer support payment under the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023; or
 - (d) in receipt of any benefits similar to a personal benefit under the law of any place outside the United Kingdom which in the opinion of the Secretary of State is analogous to a personal benefit.
 
 (3) In this article, “**personal benefit**” means—
@@ -43,7 +43,7 @@ summary: ''
 (4)[^c2203586] In this article, “**employment and support contributory allowance**” means—
 
 - (a) an allowance under Part 1 of the Welfare Reform Act 2007 (“ **the 2007 Act** ”) as amended by the provisions of Schedule 3, and Part 1 of Schedule 14, to the Welfare Reform Act 2012 that remove references to an income-related allowance, and a contributory allowance under Part 1 of the 2007 Act as that Part has effect apart from those provisions; or
-- (b)[^key-5cd999ef5d19916f52afb58aff2f04d8] an allowance under Part 1 of the Welfare Reform Act (Northern Ireland) 2007 as amended by the provisions of Schedule 3, and Part 1 of Schedule 12, to the Welfare Reform (Northern Ireland) Order 2015 that remove references to an income-related allowance, and a contributory allowance under Part 1 of the Welfare Reform Act (Northern Ireland) 2007 as that Part has effect apart from those provisions.
+- (b)[^c-5cd999ef5d19916f52afb58aff2f04d8] an allowance under Part 1 of the Welfare Reform Act (Northern Ireland) 2007 as amended by the provisions of Schedule 3, and Part 1 of Schedule 12, to the Welfare Reform (Northern Ireland) Order 2015 that remove references to an income-related allowance, and a contributory allowance under Part 1 of the Welfare Reform Act (Northern Ireland) 2007 as that Part has effect apart from those provisions.
 
 ## Annotations
 
@@ -53,13 +53,13 @@ summary: ''
 
 [^c2154834]: Marginal citation: [1992 c.7 (N.I.)](https://www.legislation.gov.uk/nia/1992/7).
 
-[^key-534187ed71a75dac8f67b69fbdeb1349]: Textual amendment: Art. 10(2)(ba) inserted (11.4.2016) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2016 (S.I. 2016/374)](https://www.legislation.gov.uk/uksi/2016/374), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/374/article/1/1), [2](https://www.legislation.gov.uk/uksi/2016/374/article/2)
+[^c-534187ed71a75dac8f67b69fbdeb1349]: Textual amendment: Art. 10(2)(ba) inserted (11.4.2016) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2016 (S.I. 2016/374)](https://www.legislation.gov.uk/uksi/2016/374), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/374/article/1/1), [2](https://www.legislation.gov.uk/uksi/2016/374/article/2)
 
 [^c2203584]: Textual amendment: Words in art. 10(2)(c) omitted (29.4.2013) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [49(2)(a)](https://www.legislation.gov.uk/uksi/2013/630/regulation/49/2/a)
 
-[^key-6755c5d2c73e243c2f711d77d08d6280]: Textual amendment: Word in [art. 10(2)(c)](https://www.legislation.gov.uk/uksi/2006/606/article/10/2/c) omitted (16.11.2023) by virtue of [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 11(2)(a)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/11/2/a)
+[^c-6755c5d2c73e243c2f711d77d08d6280]: Textual amendment: Word in [art. 10(2)(c)](https://www.legislation.gov.uk/uksi/2006/606/article/10/2/c) omitted (16.11.2023) by virtue of [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 11(2)(a)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/11/2/a)
 
-[^key-9f5b5c36ad09f2667d271e7e0411e402]: Textual amendment: [Art. 10(2)(ca)](https://www.legislation.gov.uk/uksi/2006/606/article/10/2/ca) inserted (16.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 11(2)(b)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/11/2/b)
+[^c-9f5b5c36ad09f2667d271e7e0411e402]: Textual amendment: [Art. 10(2)(ca)](https://www.legislation.gov.uk/uksi/2006/606/article/10/2/ca) inserted (16.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 11(2)(b)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/11/2/b)
 
 [^c1543921]: Marginal citation: [S.I.1979/643](https://www.legislation.gov.uk/uksi/1979/643).
 
@@ -67,4 +67,4 @@ summary: ''
 
 [^c2203586]: Textual amendment: Art. 10(4) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [49(2)(b)](https://www.legislation.gov.uk/uksi/2013/630/regulation/49/2/b)
 
-[^key-5cd999ef5d19916f52afb58aff2f04d8]: Textual amendment: [Art. 10(4)(b)](https://www.legislation.gov.uk/uksi/2006/606/article/10/4/b) substituted (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [16(2)](https://www.legislation.gov.uk/nisr/2016/236/regulation/16/2)
+[^c-5cd999ef5d19916f52afb58aff2f04d8]: Textual amendment: [Art. 10(4)(b)](https://www.legislation.gov.uk/uksi/2006/606/article/10/4/b) substituted (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [16(2)](https://www.legislation.gov.uk/nisr/2016/236/regulation/16/2)

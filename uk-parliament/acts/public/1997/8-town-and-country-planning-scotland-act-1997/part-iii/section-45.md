@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Duty to draw attention to certain provisions for benefit of disabled.[^key-433abf46645386b8f9e370bbd4d691bd]
+## 45. Duty to draw attention to certain provisions for benefit of disabled.[^c-433abf46645386b8f9e370bbd4d691bd]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-433abf46645386b8f9e370bbd4d691bd]: Textual amendment: S. 45 repealed (3.8.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [sch.](https://www.legislation.gov.uk/asp/2006/17/schedule); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-433abf46645386b8f9e370bbd4d691bd]: Textual amendment: S. 45 repealed (3.8.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [sch.](https://www.legislation.gov.uk/asp/2006/17/schedule); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)

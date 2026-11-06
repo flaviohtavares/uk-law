@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Exercise of own initiative powers[^key-084a2fdb3394db6251f8db9d1f3515b3]
+## 72. Exercise of own initiative powers[^c-084a2fdb3394db6251f8db9d1f3515b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-084a2fdb3394db6251f8db9d1f3515b3]: Commencement: Art. 72 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-084a2fdb3394db6251f8db9d1f3515b3]: Commencement: Art. 72 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

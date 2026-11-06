@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71B. Reduction of foreign tax paid on profits of overseas PE[^key-5b2637831196dc44e9c9dc36e1a52731]
+## 71B. Reduction of foreign tax paid on profits of overseas PE[^c-5b2637831196dc44e9c9dc36e1a52731]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b2637831196dc44e9c9dc36e1a52731]: Textual amendment: Ss. 71A, 71B and cross-heading inserted (with effect in accordance with s. 30(5)(7) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 30(2)](https://www.legislation.gov.uk/ukpga/2018/3/section/30/2)
+[^c-5b2637831196dc44e9c9dc36e1a52731]: Textual amendment: Ss. 71A, 71B and cross-heading inserted (with effect in accordance with s. 30(5)(7) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 30(2)](https://www.legislation.gov.uk/ukpga/2018/3/section/30/2)

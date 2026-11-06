@@ -39,10 +39,10 @@ summary: ''
 - (e) that individual is registered as a social care manager with Social Care Wales; and
 - (f) the service regulator agrees to that individual managing the service.
 
-(4) For the purposes of paragraph (2)(c), the service provider is not fit to manage the service unless the requirements of regulation 35(2)[^key-71d9f337d893ab82dfb89765e82f8643] (fitness of staff) are met in respect of the service provider.
+(4) For the purposes of paragraph (2)(c), the service provider is not fit to manage the service unless the requirements of regulation 35(2)[^c-71d9f337d893ab82dfb89765e82f8643] (fitness of staff) are met in respect of the service provider.
 
 (5) The duty in paragraph (1) is not discharged if the person appointed to manage the service is absent for a period of more than three months.
 
 ## Annotations
 
-[^key-71d9f337d893ab82dfb89765e82f8643]: Textual amendment: Words in reg. 67(4) substituted (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [13](https://www.legislation.gov.uk/wsi/2019/757/regulation/13)
+[^c-71d9f337d893ab82dfb89765e82f8643]: Textual amendment: Words in reg. 67(4) substituted (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [13](https://www.legislation.gov.uk/wsi/2019/757/regulation/13)

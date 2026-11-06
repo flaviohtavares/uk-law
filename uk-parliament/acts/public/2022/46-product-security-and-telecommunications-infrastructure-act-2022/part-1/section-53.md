@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Guidance[^key-fe12400c91e4abfc11bb2ec6285bf9fb][^key-972ccf353e2378876cd7ca5188755c85]
+## 53. Guidance[^c-fe12400c91e4abfc11bb2ec6285bf9fb][^c-972ccf353e2378876cd7ca5188755c85]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fe12400c91e4abfc11bb2ec6285bf9fb]: Commencement: S. 53 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-fe12400c91e4abfc11bb2ec6285bf9fb]: Commencement: S. 53 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-972ccf353e2378876cd7ca5188755c85]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2022/46/section/53) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-972ccf353e2378876cd7ca5188755c85]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2022/46/section/53) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

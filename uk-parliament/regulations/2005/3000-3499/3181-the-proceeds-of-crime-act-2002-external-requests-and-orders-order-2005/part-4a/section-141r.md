@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141R. Interpretation[^key-60d328b1519329044b0e7f9eeb27db3e]
+## 141R. Interpretation[^c-60d328b1519329044b0e7f9eeb27db3e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - “dealing” with property includes disposing of it, taking possession of it or removing it from the jurisdiction,
 - “enforcement authority”—
-  - (a) in relation to England and Wales, means the National Crime Agency, the Director of Public Prosecutions [^key-e9e09a44c43bbe2ffa876add2567ccac]... or the Director of the Serious Fraud Office,
+  - (a) in relation to England and Wales, means the National Crime Agency, the Director of Public Prosecutions [^c-e9e09a44c43bbe2ffa876add2567ccac]... or the Director of the Serious Fraud Office,
   - (b) in relation to Northern Ireland, means the National Crime Agency, the Director of the Serious Fraud Office or the Director of Public Prosecutions for Northern Ireland,
 - “interest”, in relation to land means any legal estate and any equitable interest or power,
 - “interest”, in relation to property other than land, includes any right (including a right to possession of the property),
@@ -52,8 +52,8 @@ summary: ''
 
 ## Annotations
 
-[^key-60d328b1519329044b0e7f9eeb27db3e]: Textual amendment: [Pts. 4A](https://www.legislation.gov.uk/uksi/2005/3181/part/4A), [4B](https://www.legislation.gov.uk/uksi/2005/3181/part/4B) inserted (11.11.2013) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2013 (S.I. 2013/2604)](https://www.legislation.gov.uk/uksi/2013/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2604/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2604/article/3)
+[^c-60d328b1519329044b0e7f9eeb27db3e]: Textual amendment: [Pts. 4A](https://www.legislation.gov.uk/uksi/2005/3181/part/4A), [4B](https://www.legislation.gov.uk/uksi/2005/3181/part/4B) inserted (11.11.2013) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2013 (S.I. 2013/2604)](https://www.legislation.gov.uk/uksi/2013/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2604/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2604/article/3)
 
-[^key-e9e09a44c43bbe2ffa876add2567ccac]: Textual amendment: Words in [art. 141R(1)](https://www.legislation.gov.uk/uksi/2005/3181/article/141R/1) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 18](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/18)
+[^c-e9e09a44c43bbe2ffa876add2567ccac]: Textual amendment: Words in [art. 141R(1)](https://www.legislation.gov.uk/uksi/2005/3181/article/141R/1) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 18](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/18)
 
 [^f00017]: Footnote: [1988 c. 33](https://www.legislation.gov.uk/ukpga/1988/33).

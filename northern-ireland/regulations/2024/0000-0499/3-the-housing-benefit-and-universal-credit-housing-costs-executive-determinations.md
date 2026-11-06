@@ -44,13 +44,13 @@ The Department for Communities[^f00001], makes the following Regulations in exer
 
 Proposals in respect of these Regulations were not referred to the Social Security Advisory Committee since it appeared to the Department for Communities that by reason of the urgency of the matter it was expedient not to do so[^f00005].
 
-## 1. Citation, commencement and interpretation[^key-21267d6187b983fde2c5924640672d84]
+## 1. Citation, commencement and interpretation[^c-21267d6187b983fde2c5924640672d84]
 
 (1) These Regulations may be cited as the Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2024 and shall come into operation on 31st January 2024.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment to the Housing Benefit (Executive Determinations) Regulations 2008[^key-5e61fba8e10b02e9b128ff79e745ce2d]
+## 2. Amendment to the Housing Benefit (Executive Determinations) Regulations 2008[^c-5e61fba8e10b02e9b128ff79e745ce2d]
 
 (1) The Schedule (Broad rental market area determinations and local housing allowance determinations) to the Housing Benefit (Executive Determinations) Regulations (Northern Ireland) 2008[^f00007] is amended as follows.
 
@@ -84,7 +84,7 @@ Proposals in respect of these Regulations were not referred to the Social Securi
 
 .
 
-## 3. Amendment to the Universal Credit Housing Costs (Executive Determinations) Regulations 2016[^key-592ee7d3ace1f7c64c544650cc23df7f]
+## 3. Amendment to the Universal Credit Housing Costs (Executive Determinations) Regulations 2016[^c-592ee7d3ace1f7c64c544650cc23df7f]
 
 (1) Schedule 1 (Local Housing Allowance Determinations) to the Universal Credit Housing Costs (Executive Determinations) Regulations (Northern Ireland) 2016[^f00008] is amended as follows.
 
@@ -145,14 +145,14 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^f00005]: Footnote: *See* sections 149(2) and 150(1)(a) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-21267d6187b983fde2c5924640672d84]: Commencement: Reg. 1 in operation at 31.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/3/regulation/1/1)
+[^c-21267d6187b983fde2c5924640672d84]: Commencement: Reg. 1 in operation at 31.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/3/regulation/1/1)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-5e61fba8e10b02e9b128ff79e745ce2d]: Commencement: Reg. 2 in operation at 31.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/3/regulation/1/1)
+[^c-5e61fba8e10b02e9b128ff79e745ce2d]: Commencement: Reg. 2 in operation at 31.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/3/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 2008 No. 100](https://www.legislation.gov.uk/nisr/2008/100); relevant amending Regulations are [S.R. 2020 No. 53](https://www.legislation.gov.uk/nisr/2020/53) and [S.R. 2023 No. 4](https://www.legislation.gov.uk/nisr/2023/4)
 
-[^key-592ee7d3ace1f7c64c544650cc23df7f]: Commencement: Reg. 3 in operation at 31.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/3/regulation/1/1)
+[^c-592ee7d3ace1f7c64c544650cc23df7f]: Commencement: Reg. 3 in operation at 31.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/3/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. 2016 No. 222](https://www.legislation.gov.uk/nisr/2016/222); relevant amending Regulations are [S.R. 2020 No. 53](https://www.legislation.gov.uk/nisr/2020/53) and [S.R. 2023 No. 4](https://www.legislation.gov.uk/nisr/2023/4)

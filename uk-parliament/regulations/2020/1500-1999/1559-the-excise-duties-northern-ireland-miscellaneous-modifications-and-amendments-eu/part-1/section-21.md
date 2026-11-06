@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**21.**[^key-1021c3ed67b604aea21ec08c093e8d1d] In the heading “PART 3 UK Registered Consignees” for “UK” substitute “NI”.
+**21.**[^c-1021c3ed67b604aea21ec08c093e8d1d] In the heading “PART 3 UK Registered Consignees” for “UK” substitute “NI”.
 
 ## Annotations
 
-[^key-1021c3ed67b604aea21ec08c093e8d1d]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-1021c3ed67b604aea21ec08c093e8d1d]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)

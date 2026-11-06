@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 198. Service of orders staying proceedings[^key-85ed536dff3494f7e543bcc9f56c2d31]
+## 198. Service of orders staying proceedings[^c-85ed536dff3494f7e543bcc9f56c2d31]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where the court makes an order staying any action, execution or other legal proc
 
 ## Annotations
 
-[^key-85ed536dff3494f7e543bcc9f56c2d31]: Commencement: [Rule 198](https://www.legislation.gov.uk/nisr/2026/11/rule/198) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-85ed536dff3494f7e543bcc9f56c2d31]: Commencement: [Rule 198](https://www.legislation.gov.uk/nisr/2026/11/rule/198) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

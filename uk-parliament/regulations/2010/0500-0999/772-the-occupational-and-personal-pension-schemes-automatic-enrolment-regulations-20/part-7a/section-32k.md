@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32K. Definitions[^key-021bf0aea326ae513867e96a32ed0baf]
+## 32K. Definitions[^c-021bf0aea326ae513867e96a32ed0baf]
 
 *Extent: E+W+S*
 
 (1) In this Part—
 
-- “[^key-bf740e89da7154abe9960dde94d0ad9e]**actuary**” means an actuary appointed by the scheme or the employer;
-- “alternative requirement” means an alternative requirement prescribed by regulation 32E, 32EA,[^key-f553d789e70f99758984c369e2302cb8] 32F or 32G, including regulations 32E and 32F as modified by regulation 32I;
+- “[^c-bf740e89da7154abe9960dde94d0ad9e]**actuary**” means an actuary appointed by the scheme or the employer;
+- “alternative requirement” means an alternative requirement prescribed by regulation 32E, 32EA,[^c-f553d789e70f99758984c369e2302cb8] 32F or 32G, including regulations 32E and 32F as modified by regulation 32I;
 - “basic pay” means the gross earnings of the jobholder from their employment by the employer, disregarding the gross amount of —
   - (a) any commission, bonuses, overtime or similar payments;
   - (b) any shift premium pay; and
@@ -43,8 +43,8 @@ summary: ''
 
 ## Annotations
 
-[^key-021bf0aea326ae513867e96a32ed0baf]: Textual amendment: Pt. 7A inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2012 (S.I. 2012/1257)](https://www.legislation.gov.uk/uksi/2012/1257), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/1/2/a), [4](https://www.legislation.gov.uk/uksi/2012/1257/regulation/4)
+[^c-021bf0aea326ae513867e96a32ed0baf]: Textual amendment: Pt. 7A inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2012 (S.I. 2012/1257)](https://www.legislation.gov.uk/uksi/2012/1257), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/1/2/a), [4](https://www.legislation.gov.uk/uksi/2012/1257/regulation/4)
 
-[^key-bf740e89da7154abe9960dde94d0ad9e]: Textual amendment: Words in [reg. 32K](https://www.legislation.gov.uk/uksi/2010/772/regulation/32K) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 2(6)(a)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/2/6/a)
+[^c-bf740e89da7154abe9960dde94d0ad9e]: Textual amendment: Words in [reg. 32K](https://www.legislation.gov.uk/uksi/2010/772/regulation/32K) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 2(6)(a)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/2/6/a)
 
-[^key-f553d789e70f99758984c369e2302cb8]: Textual amendment: Word in [reg. 32K](https://www.legislation.gov.uk/uksi/2010/772/regulation/32K) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 2(6)(b)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/2/6/b)
+[^c-f553d789e70f99758984c369e2302cb8]: Textual amendment: Word in [reg. 32K](https://www.legislation.gov.uk/uksi/2010/772/regulation/32K) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 2(6)(b)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/2/6/b)

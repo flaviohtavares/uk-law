@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 106. Entitlement day for ill-health pension[^key-d7b1d3e897ecb9ad42a6a5b0a89da2d6]
+## 106. Entitlement day for ill-health pension[^c-d7b1d3e897ecb9ad42a6a5b0a89da2d6]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7b1d3e897ecb9ad42a6a5b0a89da2d6]: Commencement: [Reg. 106](https://www.legislation.gov.uk/ssi/2014/292/regulation/106) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-d7b1d3e897ecb9ad42a6a5b0a89da2d6]: Commencement: [Reg. 106](https://www.legislation.gov.uk/ssi/2014/292/regulation/106) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

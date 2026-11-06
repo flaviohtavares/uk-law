@@ -46,24 +46,24 @@ Coming into force
 
 The Secretary of State for Education, in exercise of the powers conferred by sections 94(5) and (5A), 95(3) and (3A) and 138(7) of the School Standards and Framework Act 1998 [^c24054181], makes the following Regulations.
 
-## 1. Citation, commencement and application[^key-839a05204d6efc66bb7286ed58463fa6]
+## 1. Citation, commencement and application[^c-839a05204d6efc66bb7286ed58463fa6]
 
 These Regulations may be cited as the School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2020 and come into force on 24th April 2020.
 
-## 2.[^key-2f975f5260b526e6b64510198207b73c]
+## 2.[^c-2f975f5260b526e6b64510198207b73c]
 
 These Regulations apply to appeals to which the School Admissions (Appeals Arrangements) (England) Regulations 2012 [^c24054191] apply which are lodged—
 
-- (a) on or after 24th April 2020 but on or before 30th September 2022[^key-3d972eeeacbad924be8922fad69782c0];
+- (a) on or after 24th April 2020 but on or before 30th September 2022[^c-3d972eeeacbad924be8922fad69782c0];
 - (b) before 24th April 2020 but where the appeal has not been fully determined on or before 24th April 2020.
 
-## 3. Review and expiry of regulations 6 to 11[^key-fdab20af80f773ca2b3e9204f147370d]
+## 3. Review and expiry of regulations 6 to 11[^c-fdab20af80f773ca2b3e9204f147370d]
 
 (1) The Secretary of State must review the effectiveness of regulations 6 to 11 during the period for which they have effect.
 
-(2) Subject to regulation 4, regulations 6 to 11 cease to have effect at the end of[^key-15db6782c7bf60d1ff06c3a2658c16cf] 30th September 2022[^key-2fd464f3c152a946380ffe7af3463e3c].
+(2) Subject to regulation 4, regulations 6 to 11 cease to have effect at the end of[^c-15db6782c7bf60d1ff06c3a2658c16cf] 30th September 2022[^c-2fd464f3c152a946380ffe7af3463e3c].
 
-## 4. Saving provisions[^key-9cb35c159fa114192aa0a0ba02886fdf]
+## 4. Saving provisions[^c-9cb35c159fa114192aa0a0ba02886fdf]
 
 (1) Regulations 6 to 11 continue to have effect for appeals to which these regulations apply which have not been decided before these Regulations cease to have effect in the following ways—
 
@@ -73,18 +73,18 @@ These Regulations apply to appeals to which the School Admissions (Appeals Arran
 
 (2) The expiry of these Regulations under regulation 3(2) does not affect the validity of anything done in accordance with these Regulations before the expiry date.
 
-## 5.[^key-28b3a0e9faf2e7b1e12d01fee72b0502]
+## 5.[^c-28b3a0e9faf2e7b1e12d01fee72b0502]
 
 Subject to regulation 4, once regulations 6 to 11 cease to have effect in accordance with regulation 3(2), the School Admissions (Appeals Arrangements) (England) Regulations 2012 continue to apply as though these amendments had not been made to appeals lodged—
 
-- (a) on or after 1st October 2022[^key-13c7f7adebf889e9573168cba14ff64a];
-- (b) on or before 30th September 2022[^key-1555cbccd027fc854e3a82b024cba5f9] and which have not been decided.
+- (a) on or after 1st October 2022[^c-13c7f7adebf889e9573168cba14ff64a];
+- (b) on or before 30th September 2022[^c-1555cbccd027fc854e3a82b024cba5f9] and which have not been decided.
 
-## 6. Amendment of the School Admissions (Appeals Arrangements) (England) Regulations 2012[^key-7ebdfea4ece91f67fbc451fa1928dc6e]
+## 6. Amendment of the School Admissions (Appeals Arrangements) (England) Regulations 2012[^c-7ebdfea4ece91f67fbc451fa1928dc6e]
 
 The School Admissions (Appeals Arrangements) (England) Regulations 2012 are amended as follows.
 
-## 7.[^key-cf0da496c81b8b411d8db2f429865824]
+## 7.[^c-cf0da496c81b8b411d8db2f429865824]
 
 In regulation 3 (interpretation) at the appropriate place insert—
 
@@ -97,11 +97,11 @@ In regulation 3 (interpretation) at the appropriate place insert—
 - “**remote access**” means access to an appeal hearing to enable those who are not all present together at the same place to attend or participate simultaneously in the hearing by electronic means, including by live audio and live video link;
 - “**the SAAC**” means the School Admission Appeals Code which is the code for school admission appeals issued and published by the Secretary of State in February 2012 [^c24054201] under section 84(1) and (4) of SSFA 1998;”.
 
-## 8.[^key-b5b5a570f4bec4b0d608064cf5de2e54]
+## 8.[^c-b5b5a570f4bec4b0d608064cf5de2e54]
 
 In regulation 5 (constitution of appeal panels) for “the Schedule” substitute “ Schedule 1 or, where the constitution reason of the coronavirus exception applies, the relevant paragraphs of Schedule 1, subject to paragraph 1 of Schedule 2 ”.
 
-## 9.[^key-83382073c58a976619769c4e9ce20bef]
+## 9.[^c-83382073c58a976619769c4e9ce20bef]
 
 After regulation 6 (payment of allowances) insert—
 
@@ -117,7 +117,7 @@ After regulation 6 (payment of allowances) insert—
 
 .
 
-## 10.[^key-09e589da3386f68549a9a454a73d28ff]
+## 10.[^c-09e589da3386f68549a9a454a73d28ff]
 
 In the Schedule—
 
@@ -128,7 +128,7 @@ In the Schedule—
 
   .
 
-## 11.[^key-0455bceae0e7df641704f818b7daf171]
+## 11.[^c-0455bceae0e7df641704f818b7daf171]
 
 After Schedule 1 (constitution of appeal panels), insert—
 
@@ -235,38 +235,38 @@ An Explanatory Memorandum is published alongside the Regulations on www.legislat
 
 [^c24054181]: Marginal citation: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31); section 94(5) and (5A) were substituted by the [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [section 50](https://www.legislation.gov.uk/ukpga/2002/32/section/50) and subsection (5A) was amended by the [Education and Skills Act 2008 (c.25)](https://www.legislation.gov.uk/ukpga/2008/25), [section 152](https://www.legislation.gov.uk/ukpga/2008/25/section/152) and [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 95(3) and (3A) were substituted by the Education Act 2002, section 51 and Schedule 4, paragraph 9. Subsection (3A) was amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 138(7) was amended by the [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [section 175](https://www.legislation.gov.uk/ukpga/2006/40/section/175) and Schedule 17, paragraph 3(1) and (4).
 
-[^key-839a05204d6efc66bb7286ed58463fa6]: Commencement: Reg. 1 in force at 24.4.2020, see reg. 1
+[^c-839a05204d6efc66bb7286ed58463fa6]: Commencement: Reg. 1 in force at 24.4.2020, see reg. 1
 
-[^key-2f975f5260b526e6b64510198207b73c]: Commencement: Reg. 2 in force at 24.4.2020, see reg. 1
+[^c-2f975f5260b526e6b64510198207b73c]: Commencement: Reg. 2 in force at 24.4.2020, see reg. 1
 
 [^c24054191]: Marginal citation: [S.I. 2012/9](https://www.legislation.gov.uk/uksi/2012/9).
 
-[^key-3d972eeeacbad924be8922fad69782c0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2020/446/regulation/2) substituted (30.9.2021) by [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/992)](https://www.legislation.gov.uk/uksi/2021/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/992/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/992/regulation/2/2)
+[^c-3d972eeeacbad924be8922fad69782c0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2020/446/regulation/2) substituted (30.9.2021) by [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/992)](https://www.legislation.gov.uk/uksi/2021/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/992/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/992/regulation/2/2)
 
-[^key-fdab20af80f773ca2b3e9204f147370d]: Commencement: Reg. 3 in force at 24.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/446/regulation/1)
+[^c-fdab20af80f773ca2b3e9204f147370d]: Commencement: Reg. 3 in force at 24.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/446/regulation/1)
 
-[^key-15db6782c7bf60d1ff06c3a2658c16cf]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2020/446/regulation/3/2) substituted (7.7.2022) by [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2022 (S.I. 2022/662)](https://www.legislation.gov.uk/uksi/2022/662), [regs. 1](https://www.legislation.gov.uk/uksi/2022/662/regulation/1), [2](https://www.legislation.gov.uk/uksi/2022/662/regulation/2)
+[^c-15db6782c7bf60d1ff06c3a2658c16cf]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2020/446/regulation/3/2) substituted (7.7.2022) by [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2022 (S.I. 2022/662)](https://www.legislation.gov.uk/uksi/2022/662), [regs. 1](https://www.legislation.gov.uk/uksi/2022/662/regulation/1), [2](https://www.legislation.gov.uk/uksi/2022/662/regulation/2)
 
-[^key-2fd464f3c152a946380ffe7af3463e3c]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2020/446/regulation/3/2) substituted (30.9.2021) by [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/992)](https://www.legislation.gov.uk/uksi/2021/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/992/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/992/regulation/2/2)
+[^c-2fd464f3c152a946380ffe7af3463e3c]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2020/446/regulation/3/2) substituted (30.9.2021) by [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/992)](https://www.legislation.gov.uk/uksi/2021/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/992/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/992/regulation/2/2)
 
-[^key-9cb35c159fa114192aa0a0ba02886fdf]: Commencement: Reg. 4 in force at 24.4.2020, see reg. 1
+[^c-9cb35c159fa114192aa0a0ba02886fdf]: Commencement: Reg. 4 in force at 24.4.2020, see reg. 1
 
-[^key-28b3a0e9faf2e7b1e12d01fee72b0502]: Commencement: Reg. 5 in force at 24.4.2020, see reg. 1
+[^c-28b3a0e9faf2e7b1e12d01fee72b0502]: Commencement: Reg. 5 in force at 24.4.2020, see reg. 1
 
-[^key-13c7f7adebf889e9573168cba14ff64a]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2020/446/regulation/5) substituted (30.9.2021) by [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/992)](https://www.legislation.gov.uk/uksi/2021/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/992/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/992/regulation/2/3)
+[^c-13c7f7adebf889e9573168cba14ff64a]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2020/446/regulation/5) substituted (30.9.2021) by [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/992)](https://www.legislation.gov.uk/uksi/2021/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/992/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/992/regulation/2/3)
 
-[^key-1555cbccd027fc854e3a82b024cba5f9]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2020/446/regulation/5) substituted (30.9.2021) by [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/992)](https://www.legislation.gov.uk/uksi/2021/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/992/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/992/regulation/2/2)
+[^c-1555cbccd027fc854e3a82b024cba5f9]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2020/446/regulation/5) substituted (30.9.2021) by [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/992)](https://www.legislation.gov.uk/uksi/2021/992), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/992/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/992/regulation/2/2)
 
-[^key-7ebdfea4ece91f67fbc451fa1928dc6e]: Commencement: Reg. 6 in force at 24.4.2020, see reg. 1
+[^c-7ebdfea4ece91f67fbc451fa1928dc6e]: Commencement: Reg. 6 in force at 24.4.2020, see reg. 1
 
-[^key-cf0da496c81b8b411d8db2f429865824]: Commencement: Reg. 7 in force at 24.4.2020, see reg. 1
+[^c-cf0da496c81b8b411d8db2f429865824]: Commencement: Reg. 7 in force at 24.4.2020, see reg. 1
 
 [^c24054201]: Marginal citation: The SAAC was published on 1st February 2012, and is available at: https://www.gov.uk/government/publications/school-admissions-appeals-code. Hard copies can also be provided by writing to: the Admissions, Academies Portfolio and School Organisation Team, Department for Education, Sanctuary Buildings, 20 Great Smith Street, London SW1P 3BT.
 
-[^key-b5b5a570f4bec4b0d608064cf5de2e54]: Commencement: Reg. 8 in force at 24.4.2020, see reg. 1
+[^c-b5b5a570f4bec4b0d608064cf5de2e54]: Commencement: Reg. 8 in force at 24.4.2020, see reg. 1
 
-[^key-83382073c58a976619769c4e9ce20bef]: Commencement: Reg. 9 in force at 24.4.2020, see reg. 1
+[^c-83382073c58a976619769c4e9ce20bef]: Commencement: Reg. 9 in force at 24.4.2020, see reg. 1
 
-[^key-09e589da3386f68549a9a454a73d28ff]: Commencement: Reg. 10 in force at 24.4.2020, see reg. 1
+[^c-09e589da3386f68549a9a454a73d28ff]: Commencement: Reg. 10 in force at 24.4.2020, see reg. 1
 
-[^key-0455bceae0e7df641704f818b7daf171]: Commencement: Reg. 11 in force at 24.4.2020, see reg. 1
+[^c-0455bceae0e7df641704f818b7daf171]: Commencement: Reg. 11 in force at 24.4.2020, see reg. 1

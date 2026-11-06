@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Statutory sick pay: funding of employers' liabilities[^key-48bb2690de35925556d8403a5c3eb4f7]
+## 39. Statutory sick pay: funding of employers' liabilities[^c-48bb2690de35925556d8403a5c3eb4f7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48bb2690de35925556d8403a5c3eb4f7]: Textual amendment: [S. 39](https://www.legislation.gov.uk/ukpga/2020/7/section/39) expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-48bb2690de35925556d8403a5c3eb4f7]: Textual amendment: [S. 39](https://www.legislation.gov.uk/ukpga/2020/7/section/39) expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

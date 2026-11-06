@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Printing advertisements[^key-22814cf8ba490b967fa86904ba799016]
+## 120. Printing advertisements[^c-22814cf8ba490b967fa86904ba799016]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22814cf8ba490b967fa86904ba799016]: Commencement: S. 120 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
+[^c-22814cf8ba490b967fa86904ba799016]: Commencement: S. 120 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)

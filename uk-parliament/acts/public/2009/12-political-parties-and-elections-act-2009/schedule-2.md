@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Civil sanctions: Schedule to be inserted into the 2000 Act[^key-bd856f24c63fabf073cfbfe9da370e17]
+## SCHEDULE 2 — Civil sanctions: Schedule to be inserted into the 2000 Act[^c-bd856f24c63fabf073cfbfe9da370e17]
 
 *Extent: E+W+S+N.I.*
 
@@ -556,4 +556,4 @@ Section 3
 
 ## Annotations
 
-[^key-bd856f24c63fabf073cfbfe9da370e17]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2009/12/schedule/2) in force at 1.12.2010 by [S.I. 2010/2866](https://www.legislation.gov.uk/uksi/2010/2866), [art. 3(f)](https://www.legislation.gov.uk/uksi/2010/2866/article/3/f) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/2866/article/6))
+[^c-bd856f24c63fabf073cfbfe9da370e17]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2009/12/schedule/2) in force at 1.12.2010 by [S.I. 2010/2866](https://www.legislation.gov.uk/uksi/2010/2866), [art. 3(f)](https://www.legislation.gov.uk/uksi/2010/2866/article/3/f) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/2866/article/6))

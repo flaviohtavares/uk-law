@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Sections 53 and 54: consequential amendments[^key-9f74ad9e1b43474b27cb7e6473744ed4]
+## 55. Sections 53 and 54: consequential amendments[^c-9f74ad9e1b43474b27cb7e6473744ed4]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f74ad9e1b43474b27cb7e6473744ed4]: Commencement: S. 55 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-9f74ad9e1b43474b27cb7e6473744ed4]: Commencement: S. 55 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

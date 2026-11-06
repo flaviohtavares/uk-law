@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Deductions from the grant for travel[^key-a1e01edd4213f78e50a008c450484e9f]
+## 53. Deductions from the grant for travel[^c-a1e01edd4213f78e50a008c450484e9f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ A deduction may be made from any grant under this Chapter in accordance with Par
 
 ## Annotations
 
-[^key-a1e01edd4213f78e50a008c450484e9f]: Commencement: Reg. 53 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-a1e01edd4213f78e50a008c450484e9f]: Commencement: Reg. 53 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

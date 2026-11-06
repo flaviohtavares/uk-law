@@ -35,7 +35,7 @@ An Act to amend an Act of the ninth year of His late Majesty King George the Fou
 
 ## 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c555266]
 
-## 2. When sentence of capital punishment is passed, a day to be named for carrying it into execution.[^key-e09c2375b173cddfc6f0200ca2ee295b]
+## 2. When sentence of capital punishment is passed, a day to be named for carrying it into execution.[^c-e09c2375b173cddfc6f0200ca2ee295b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -43,7 +43,7 @@ An Act to amend an Act of the ninth year of His late Majesty King George the Fou
 
 ## 4, 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c555268]
 
-## 6. Transmission of prisoners.[^key-ce61d6a054332648502c30eb6184c4fd]
+## 6. Transmission of prisoners.[^c-ce61d6a054332648502c30eb6184c4fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -81,13 +81,13 @@ The [^c555275]Circuit Courts (Scotland) Act 1828 in so far as it provides for re
 
 [^c555266]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/Geo4and1Will4/11/37/section/1) repealed by [Statute Law Revision Act 1873 (c. 91)](https://www.legislation.gov.uk/ukpga/1873/91)
 
-[^key-e09c2375b173cddfc6f0200ca2ee295b]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/Geo4and1Will4/11/37/section/2) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/2) Group 1
+[^c-e09c2375b173cddfc6f0200ca2ee295b]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/Geo4and1Will4/11/37/section/2) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/2) Group 1
 
 [^c555267]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/Geo4and1Will4/11/37/section/3) repealed by [Circuit Courts and Criminal Procedure Scotland Act 1925 (c. 81)](https://www.legislation.gov.uk/ukpga/1925/81), [Sch.](https://www.legislation.gov.uk/ukpga/1925/81/schedule)
 
 [^c555268]: Textual amendment: [Ss. 4](https://www.legislation.gov.uk/ukpga/Geo4and1Will4/11/37/section/4), [5](https://www.legislation.gov.uk/ukpga/Geo4and1Will4/11/37/section/5) repealed by [Summary Jurisdiction (Scotland) Act 1908 (c. 65)](https://www.legislation.gov.uk/ukpga/1908/65), [Sch.](https://www.legislation.gov.uk/ukpga/1908/65/schedule) A.
 
-[^key-ce61d6a054332648502c30eb6184c4fd]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/Geo4and1Will4/11/37/section/6) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/2) Group 1
+[^c-ce61d6a054332648502c30eb6184c4fd]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/Geo4and1Will4/11/37/section/6) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/2) Group 1
 
 [^c555269]: Textual amendment: Words substituted by [Criminal Procedure (Scotland) Act 1975 (c.21)](https://www.legislation.gov.uk/ukpga/1975/21), [Sch.9 para.5](https://www.legislation.gov.uk/ukpga/1975/21/schedule/9/paragraph/5).
 

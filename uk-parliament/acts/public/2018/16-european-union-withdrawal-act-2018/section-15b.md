@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15B. Ministerial co-chairs of the Joint Committee[^key-eab00a4c1b6cef61d965686453020e86]
+## 15B. Ministerial co-chairs of the Joint Committee[^c-eab00a4c1b6cef61d965686453020e86]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The functions of the United Kingdom’s co-chair of the Joint Committee, under A
 
 ## Annotations
 
-[^key-eab00a4c1b6cef61d965686453020e86]: Textual amendment: S. 15B inserted (23.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 34](https://www.legislation.gov.uk/ukpga/2020/1/section/34), [42(6)(c)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/c) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66))
+[^c-eab00a4c1b6cef61d965686453020e86]: Textual amendment: S. 15B inserted (23.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 34](https://www.legislation.gov.uk/ukpga/2020/1/section/34), [42(6)(c)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/c) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66))

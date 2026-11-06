@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 309. Exclusion of offences under section 397 of the Financial Services and Markets Act 2000[^key-3e6b12ae7e5de62abe09a9dd8c8d9aa8]
+## 309. Exclusion of offences under section 397 of the Financial Services and Markets Act 2000[^c-3e6b12ae7e5de62abe09a9dd8c8d9aa8]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ After subsection (5) of section 20 of the Consumer Protection Act 1987 (offence 
 
 ## Annotations
 
-[^key-3e6b12ae7e5de62abe09a9dd8c8d9aa8]: Commencement: Art. 309 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-3e6b12ae7e5de62abe09a9dd8c8d9aa8]: Commencement: Art. 309 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

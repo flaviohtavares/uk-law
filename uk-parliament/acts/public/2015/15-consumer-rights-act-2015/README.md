@@ -205,7 +205,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 81 — Private actions in competition law](part-3/section-81.md)
 - [Section 82 — Appointment of judges to the Competition Appeal Tribunal](part-3/section-82.md)
 
-#### CHAPTER 3 — Duty of letting agents to publicise fees etc[^key-168bb450fd48065004ceb04d47aa3087]
+#### CHAPTER 3 — Duty of letting agents to publicise fees etc[^c-168bb450fd48065004ceb04d47aa3087]
 
 *Extent: E+W*
 
@@ -253,4 +253,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-168bb450fd48065004ceb04d47aa3087]: Modification: [Pt. 3 Ch. 3](https://www.legislation.gov.uk/ukpga/2015/15/part/3/chapter/3): power to amend conferred (1.9.2019) by [Renting Homes (Fees etc.) (Wales) Act 2019 (anaw 2)](https://www.legislation.gov.uk/anaw/2019/2), [ss. 23](https://www.legislation.gov.uk/anaw/2019/2/section/23), [30(2)](https://www.legislation.gov.uk/anaw/2019/2/section/30/2) (with [s. 29](https://www.legislation.gov.uk/anaw/2019/2/section/29)); [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(b)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/b)
+[^c-168bb450fd48065004ceb04d47aa3087]: Modification: [Pt. 3 Ch. 3](https://www.legislation.gov.uk/ukpga/2015/15/part/3/chapter/3): power to amend conferred (1.9.2019) by [Renting Homes (Fees etc.) (Wales) Act 2019 (anaw 2)](https://www.legislation.gov.uk/anaw/2019/2), [ss. 23](https://www.legislation.gov.uk/anaw/2019/2/section/23), [30(2)](https://www.legislation.gov.uk/anaw/2019/2/section/30/2) (with [s. 29](https://www.legislation.gov.uk/anaw/2019/2/section/29)); [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(b)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/b)

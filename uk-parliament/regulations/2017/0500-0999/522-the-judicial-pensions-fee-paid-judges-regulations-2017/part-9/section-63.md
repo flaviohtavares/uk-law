@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Contribution rates for fee years[^key-65d54ba3726942c0091b09b3d4ecd7ac]
+## 63. Contribution rates for fee years[^c-65d54ba3726942c0091b09b3d4ecd7ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65d54ba3726942c0091b09b3d4ecd7ac]: Textual amendment: [Reg. 63](https://www.legislation.gov.uk/uksi/2017/522/regulation/63) omitted (1.4.2023) by virtue of [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [42](https://www.legislation.gov.uk/uksi/2023/403/regulation/42)
+[^c-65d54ba3726942c0091b09b3d4ecd7ac]: Textual amendment: [Reg. 63](https://www.legislation.gov.uk/uksi/2017/522/regulation/63) omitted (1.4.2023) by virtue of [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [42](https://www.legislation.gov.uk/uksi/2023/403/regulation/42)

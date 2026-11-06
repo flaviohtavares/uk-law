@@ -22,21 +22,21 @@ summary: ''
 
 Regulation 14(4)
 
-**1.**[^key-6889bb6576d92be30217bc71af6024c0] Part 1 of Schedule 9 to the 1985 Act (form and content of accounts of banking companies and groups) is amended as follows.
+**1.**[^c-6889bb6576d92be30217bc71af6024c0] Part 1 of Schedule 9 to the 1985 Act (form and content of accounts of banking companies and groups) is amended as follows.
 
-**2.**[^key-883097d63680455b243acd1f92f8f5bc] Omit paragraph 8 (dividends in profit and loss account to be shown as separate items)[^f00057].
+**2.**[^c-883097d63680455b243acd1f92f8f5bc] Omit paragraph 8 (dividends in profit and loss account to be shown as separate items)[^f00057].
 
-**3.**[^key-427afa707f709e0ad96708d51383bd93] After paragraph 8 insert–
+**3.**[^c-427afa707f709e0ad96708d51383bd93] After paragraph 8 insert–
 
 > **8A.** The directors of a company must, in determining how amounts are presented within items in the profit and loss account and balance sheet, have regard to the substance of the reported transaction or arrangement, in accordance with generally accepted accounting principles or practice.
 
-**4.**[^key-c5dd94bf18c60ef2fcafd47ca45bb761] In the Balance Sheet Format, under the heading “LIABILITIES”, for “Provisions for liabilities and charges” substitute “Provisions for liabilities”.
+**4.**[^c-c5dd94bf18c60ef2fcafd47ca45bb761] In the Balance Sheet Format, under the heading “LIABILITIES”, for “Provisions for liabilities and charges” substitute “Provisions for liabilities”.
 
-**5.**[^key-b61abff6a606c1555bf39d52d8d115e3] In paragraph 19(b) (extent to which liabilities and losses to be taken into account) omit “and losses” and “or are likely to arise”.
+**5.**[^c-b61abff6a606c1555bf39d52d8d115e3] In paragraph 19(b) (extent to which liabilities and losses to be taken into account) omit “and losses” and “or are likely to arise”.
 
-**6.**[^key-8d9812a9b36918a44b858dcfa27e8191] In paragraph 23 (preliminary paragraph on historical cost accounting rules) for “paragraphs 39 to 44” substitute “paragraphs 39 to 44F”.
+**6.**[^c-8d9812a9b36918a44b858dcfa27e8191] In paragraph 23 (preliminary paragraph on historical cost accounting rules) for “paragraphs 39 to 44” substitute “paragraphs 39 to 44F”.
 
-**7.**[^key-4800dadd629a5edee9171d769bf137d8] After paragraph 44 insert–
+**7.**[^c-4800dadd629a5edee9171d769bf137d8] After paragraph 44 insert–
 
 > **FAIR VALUE ACCOUNTING**
 >
@@ -120,7 +120,7 @@ Regulation 14(4)
 >
 > (2) The treatment for taxation purposes of amounts credited or debited to the fair value reserve shall be disclosed in a note to the accounts.
 
-**8.**[^key-258ef340736cad1d9629e1f2956849be] (1) Chapter 3 (notes to the accounts) is amended as follows.
+**8.**[^c-258ef340736cad1d9629e1f2956849be] (1) Chapter 3 (notes to the accounts) is amended as follows.
 
 (2) After paragraph 50 insert–
 
@@ -188,16 +188,16 @@ Regulation 14(4)
 > - (a) the aggregate amount which would be required to be shown in respect of that item if the amounts to be included in respect of all the assets covered by that item were determined according to the historical cost accounting rules; and
 > - (b) the aggregate amount of the cumulative provisions for depreciation or diminution in value which would be permitted or required in determining those amounts according to those rules.
 
-**9.**[^key-5bd3fbe96617a4fa3d31717fec621f01] In paragraph 59(1) (transfers to and from reserves and provisions)–
+**9.**[^c-5bd3fbe96617a4fa3d31717fec621f01] In paragraph 59(1) (transfers to and from reserves and provisions)–
 
 - (a) in paragraph (b), for “provisions for liabilities and charges” substitute “provisions for liabilities”, and
 - (b) in paragraph (c), for “provision for liabilities and charges” substitute “provision for liabilities”
 
-**10.**[^key-4ab26b8b008824c90ec7849eb8102f48] In paragraph 82 (general interpretation), at the appropriate place, insert–
+**10.**[^c-4ab26b8b008824c90ec7849eb8102f48] In paragraph 82 (general interpretation), at the appropriate place, insert–
 
 > - “Investment property” means land held to earn rent or for capital appreciation.
 
-**11.**[^key-6e8c4fc293ab870f5eb716d5d520dbfb] After paragraph 82 (general interpretation) insert–
+**11.**[^c-6e8c4fc293ab870f5eb716d5d520dbfb] After paragraph 82 (general interpretation) insert–
 
 > **82A. Financial instruments**
 >
@@ -211,37 +211,37 @@ Regulation 14(4)
 >
 > (2) Those expressions are “available for sale financial asset”, “business combination”, “commodity-based contracts”, “derivative”, “equity instrument”, “exchange difference”, “fair value hedge accounting system”, “financial fixed asset”, “financial instrument”, “foreign entity”, “hedge accounting”, “hedge accounting system”, “hedged items”, “hedging instrument”, “held for trading purposes”, “held to maturity”, “monetary item”, “receivables”, “reliable market” and “trading portfolio”.
 
-**12.**[^key-e35878f6bec969bdb3274eadc017dc46] In paragraph 85(c) (interpretation of references to provisions for liabilities or charges)–
+**12.**[^c-e35878f6bec969bdb3274eadc017dc46] In paragraph 85(c) (interpretation of references to provisions for liabilities or charges)–
 
 - (a) for “provisions for liabilities or charges” substitute “provisions for liabilities”, and
 - (b) for “or loss” substitute “the nature of which is clearly defined and”.
 
 ## Annotations
 
-[^key-6889bb6576d92be30217bc71af6024c0]: Commencement: Sch. 5 para. 1 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-6889bb6576d92be30217bc71af6024c0]: Commencement: Sch. 5 para. 1 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
-[^key-883097d63680455b243acd1f92f8f5bc]: Commencement: Sch. 5 para. 2 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-883097d63680455b243acd1f92f8f5bc]: Commencement: Sch. 5 para. 2 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
 [^f00057]: Footnote: Paragraph 8 was amended by regulation 14(6) of, and paragraphs 1 and 2 of Schedule 4 to, S.I. [1996/189](https://www.legislation.gov.uk/uksi/1996/189).
 
-[^key-427afa707f709e0ad96708d51383bd93]: Commencement: Sch. 5 para. 3 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-427afa707f709e0ad96708d51383bd93]: Commencement: Sch. 5 para. 3 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
-[^key-c5dd94bf18c60ef2fcafd47ca45bb761]: Commencement: Sch. 5 para. 4 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-c5dd94bf18c60ef2fcafd47ca45bb761]: Commencement: Sch. 5 para. 4 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
-[^key-b61abff6a606c1555bf39d52d8d115e3]: Commencement: Sch. 5 para. 5 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-b61abff6a606c1555bf39d52d8d115e3]: Commencement: Sch. 5 para. 5 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
-[^key-8d9812a9b36918a44b858dcfa27e8191]: Commencement: Sch. 5 para. 6 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-8d9812a9b36918a44b858dcfa27e8191]: Commencement: Sch. 5 para. 6 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
-[^key-4800dadd629a5edee9171d769bf137d8]: Commencement: Sch. 5 para. 7 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-4800dadd629a5edee9171d769bf137d8]: Commencement: Sch. 5 para. 7 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
-[^key-258ef340736cad1d9629e1f2956849be]: Commencement: Sch. 5 para. 8 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-258ef340736cad1d9629e1f2956849be]: Commencement: Sch. 5 para. 8 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
-[^key-5bd3fbe96617a4fa3d31717fec621f01]: Commencement: Sch. 5 para. 9 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-5bd3fbe96617a4fa3d31717fec621f01]: Commencement: Sch. 5 para. 9 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
-[^key-4ab26b8b008824c90ec7849eb8102f48]: Commencement: Sch. 5 para. 10 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-4ab26b8b008824c90ec7849eb8102f48]: Commencement: Sch. 5 para. 10 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
-[^key-6e8c4fc293ab870f5eb716d5d520dbfb]: Commencement: Sch. 5 para. 11 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-6e8c4fc293ab870f5eb716d5d520dbfb]: Commencement: Sch. 5 para. 11 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
 [^f00058]: Footnote: O.J. L222 of 14.8.1978, page 11, and O.J. L372 of 31.12.1986, page 1, as amended in particular by Directive [2001/65/EEC](https://www.legislation.gov.uk/european/directive/2001/0065) (O.J. L238 of 27.12.2001, page 28).
 
-[^key-e35878f6bec969bdb3274eadc017dc46]: Commencement: Sch. 5 para. 12 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-e35878f6bec969bdb3274eadc017dc46]: Commencement: Sch. 5 para. 12 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)

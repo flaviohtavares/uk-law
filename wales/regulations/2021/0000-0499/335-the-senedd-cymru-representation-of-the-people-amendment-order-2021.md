@@ -33,7 +33,7 @@ Constitutional Law
 
 Representation Of The People, Wales
 
-The Senedd Cymru (Representation of the People) (Amendment) Order 2021 (revoked)[^key-09661b5ad9784c3f212ef9c6478f9d56]
+The Senedd Cymru (Representation of the People) (Amendment) Order 2021 (revoked)[^c-09661b5ad9784c3f212ef9c6478f9d56]
 
 Approved by Senedd Cymru
 
@@ -49,38 +49,38 @@ Coming into force
 
 18th March 2021
 
-[^key-09661b5ad9784c3f212ef9c6478f9d56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-09661b5ad9784c3f212ef9c6478f9d56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General[^key-09661b5ad9784c3f212ef9c6478f9d56]
+## PART 1 — General[^c-09661b5ad9784c3f212ef9c6478f9d56]
 
-### 1. Title, commencement, interpretation and application[^key-09661b5ad9784c3f212ef9c6478f9d56]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Amendment of the 2007 Order[^key-09661b5ad9784c3f212ef9c6478f9d56]
+### 1. Title, commencement, interpretation and application[^c-09661b5ad9784c3f212ef9c6478f9d56]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Delivery of nomination papers[^key-09661b5ad9784c3f212ef9c6478f9d56]
+### 2. Amendment of the 2007 Order[^c-09661b5ad9784c3f212ef9c6478f9d56]
 
-**3.**[^key-09661b5ad9784c3f212ef9c6478f9d56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Home address form[^key-09661b5ad9784c3f212ef9c6478f9d56]
+## PART 2 — Delivery of nomination papers[^c-09661b5ad9784c3f212ef9c6478f9d56]
 
-**4.**[^key-09661b5ad9784c3f212ef9c6478f9d56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-09661b5ad9784c3f212ef9c6478f9d56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-09661b5ad9784c3f212ef9c6478f9d56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 3 — Home address form[^c-09661b5ad9784c3f212ef9c6478f9d56]
 
-**6.**[^key-09661b5ad9784c3f212ef9c6478f9d56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-09661b5ad9784c3f212ef9c6478f9d56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-09661b5ad9784c3f212ef9c6478f9d56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-09661b5ad9784c3f212ef9c6478f9d56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^c-09661b5ad9784c3f212ef9c6478f9d56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-09661b5ad9784c3f212ef9c6478f9d56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-09661b5ad9784c3f212ef9c6478f9d56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-09661b5ad9784c3f212ef9c6478f9d56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-09661b5ad9784c3f212ef9c6478f9d56]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2021/335) revoked (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 12 para. 12](https://www.legislation.gov.uk/wsi/2025/864/schedule/12/paragraph/12) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4))
+[^c-09661b5ad9784c3f212ef9c6478f9d56]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2021/335) revoked (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 12 para. 12](https://www.legislation.gov.uk/wsi/2025/864/schedule/12/paragraph/12) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4))

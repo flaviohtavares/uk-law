@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Spoilt postal signing sheets: Northern Ireland[^key-782f422a6327df0d7d25586ecd6aaaa5]
+## 95. Spoilt postal signing sheets: Northern Ireland[^c-782f422a6327df0d7d25586ecd6aaaa5]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-782f422a6327df0d7d25586ecd6aaaa5]: Commencement: Reg. 95 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-782f422a6327df0d7d25586ecd6aaaa5]: Commencement: Reg. 95 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

@@ -35,7 +35,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-Restriction on Pithing Regulations (Northern Ireland) 2001 (revoked)[^key-f9096248f1e5344efefa3424d8f20c9c]
+Restriction on Pithing Regulations (Northern Ireland) 2001 (revoked)[^c-f9096248f1e5344efefa3424d8f20c9c]
 
 Made
 
@@ -51,48 +51,48 @@ Coming into operation—
 
 10th September 2001
 
-[^key-f9096248f1e5344efefa3424d8f20c9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9096248f1e5344efefa3424d8f20c9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-f9096248f1e5344efefa3424d8f20c9c]
+## 1. Citation, commencement and interpretation[^c-f9096248f1e5344efefa3424d8f20c9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Restriction on pithing[^key-f9096248f1e5344efefa3424d8f20c9c]
+## 2. Restriction on pithing[^c-f9096248f1e5344efefa3424d8f20c9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Disposal of illegally pithed animals[^key-f9096248f1e5344efefa3424d8f20c9c]
+## 3. Disposal of illegally pithed animals[^c-f9096248f1e5344efefa3424d8f20c9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment to the Welfare of Animals (Slaughter or Killing) Regulations (Northern Ireland) 1996[^key-f9096248f1e5344efefa3424d8f20c9c]
+## 4. Amendment to the Welfare of Animals (Slaughter or Killing) Regulations (Northern Ireland) 1996[^c-f9096248f1e5344efefa3424d8f20c9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Powers of inspectors[^key-f9096248f1e5344efefa3424d8f20c9c]
+## 5. Powers of inspectors[^c-f9096248f1e5344efefa3424d8f20c9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Obstruction[^key-f9096248f1e5344efefa3424d8f20c9c]
+## 6. Obstruction[^c-f9096248f1e5344efefa3424d8f20c9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Penalties[^key-f9096248f1e5344efefa3424d8f20c9c]
+## 7. Penalties[^c-f9096248f1e5344efefa3424d8f20c9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Enforcement[^key-f9096248f1e5344efefa3424d8f20c9c]
+## 8. Enforcement[^c-f9096248f1e5344efefa3424d8f20c9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9096248f1e5344efefa3424d8f20c9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9096248f1e5344efefa3424d8f20c9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f9096248f1e5344efefa3424d8f20c9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9096248f1e5344efefa3424d8f20c9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f9096248f1e5344efefa3424d8f20c9c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/186) revoked (3.5.2006) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2006 (S.R. 2006/202)](https://www.legislation.gov.uk/nisr/2006/202), [regs. 1](https://www.legislation.gov.uk/nisr/2006/202/regulation/1), [20](https://www.legislation.gov.uk/nisr/2006/202/regulation/20), [Sch. 8](https://www.legislation.gov.uk/nisr/2006/202/schedule/8)
+[^c-f9096248f1e5344efefa3424d8f20c9c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/186) revoked (3.5.2006) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2006 (S.R. 2006/202)](https://www.legislation.gov.uk/nisr/2006/202), [regs. 1](https://www.legislation.gov.uk/nisr/2006/202/regulation/1), [20](https://www.legislation.gov.uk/nisr/2006/202/regulation/20), [Sch. 8](https://www.legislation.gov.uk/nisr/2006/202/schedule/8)

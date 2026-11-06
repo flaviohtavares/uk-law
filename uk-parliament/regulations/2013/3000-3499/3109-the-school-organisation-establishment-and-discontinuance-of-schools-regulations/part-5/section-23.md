@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. References to the adjudicator at the request of a relevant person after determination under paragraph 21(4) of Schedule 2 to the Act[^key-d9a7bc9528c7bad0bf8d0132d9a059cf]
+## 23. References to the adjudicator at the request of a relevant person after determination under paragraph 21(4) of Schedule 2 to the Act[^c-d9a7bc9528c7bad0bf8d0132d9a059cf]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Where a reference is made under paragraph 14 of Schedule 2 to the Act as modifie
 
 ## Annotations
 
-[^key-d9a7bc9528c7bad0bf8d0132d9a059cf]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2013/3109/regulation/23) in force at 28.1.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/3109/regulation/1)
+[^c-d9a7bc9528c7bad0bf8d0132d9a059cf]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2013/3109/regulation/23) in force at 28.1.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/3109/regulation/1)

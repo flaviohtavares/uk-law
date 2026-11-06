@@ -45,32 +45,32 @@ These Regulations make provision for a purpose mentioned in that section and it 
 
 The Department of Agriculture and Rural Development makes the following Regulations in exercise of the powers conferred on it by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972[^f00003].
 
-## 1. Citation and commencement[^key-5f014d3efdf58a8ddc37d2dbc49dd980]
+## 1. Citation and commencement[^c-5f014d3efdf58a8ddc37d2dbc49dd980]
 
 These Regulations may be cited as the Reporting of Prices of Milk Products Regulations (Northern Ireland) 2008 and shall come into operation on 1<sup>st</sup> July 2008.
 
-## 2. Interpretation[^key-1774f94d8a808c7bc58097130546b6a7]
+## 2. Interpretation[^c-1774f94d8a808c7bc58097130546b6a7]
 
 (1) In these Regulations—
 
-- [^key-0cf61602c8e229c4fc0287c14e76107d]...
+- [^c-0cf61602c8e229c4fc0287c14e76107d]...
 - “the Department” means the Department of Agriculture and Rural Development;
 - “milk processor” means a person operating an establishment which manufactures milk products;
-- “[^key-7e787e8af4e94c9f6183a7079ec129eb]**milk products**” means whey powder, skimmed milk powder, whole milk powder, butter, cheeses (including commodity cheeses) and raw milk.
+- “[^c-7e787e8af4e94c9f6183a7079ec129eb]**milk products**” means whey powder, skimmed milk powder, whole milk powder, butter, cheeses (including commodity cheeses) and raw milk.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 3. Provision of information on prices of milk products[^key-a864f692335322beb74f39e54a65bc31]
+## 3. Provision of information on prices of milk products[^c-a864f692335322beb74f39e54a65bc31]
 
-(1) A milk processor shall provide to the Department such information relating to the prices of milk products as the Department may by notice require [^key-593961ccdbd4a524ba10f62863761ae8]....
+(1) A milk processor shall provide to the Department such information relating to the prices of milk products as the Department may by notice require [^c-593961ccdbd4a524ba10f62863761ae8]....
 
 (2) The notice referred to in paragraph (1) may require the milk processor to provide the information on a regular basis, and may specify when, and in what format, the information shall be provided.
 
-## 4. Offences[^key-5e882ce4cf38f0a17de335188d8aefa7]
+## 4. Offences[^c-5e882ce4cf38f0a17de335188d8aefa7]
 
 A person who fails to comply with a notice referred to in regulation 3(1) shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 5. Revocation[^key-97b20fc5b7e16e196903187112a68c00]
+## 5. Revocation[^c-97b20fc5b7e16e196903187112a68c00]
 
 The Reporting of Prices of Milk Products Regulations (Northern Ireland) 2005[^f00006] are revoked.
 
@@ -100,22 +100,22 @@ Regulation 3 requires milk processors to provide the Department of Agriculture a
 
 [^f00003]: Footnote: Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-5f014d3efdf58a8ddc37d2dbc49dd980]: Commencement: Reg. 1 in operation at 1.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/240/regulation/1)
+[^c-5f014d3efdf58a8ddc37d2dbc49dd980]: Commencement: Reg. 1 in operation at 1.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/240/regulation/1)
 
-[^key-1774f94d8a808c7bc58097130546b6a7]: Commencement: Reg. 2 in operation at 1.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/240/regulation/1)
+[^c-1774f94d8a808c7bc58097130546b6a7]: Commencement: Reg. 2 in operation at 1.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/240/regulation/1)
 
-[^key-0cf61602c8e229c4fc0287c14e76107d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/240/regulation/2/1) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2019/824/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0cf61602c8e229c4fc0287c14e76107d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/240/regulation/2/1) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2019/824/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7e787e8af4e94c9f6183a7079ec129eb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/240/regulation/2/1) substituted (31.12.2020) by [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2019/824/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7e787e8af4e94c9f6183a7079ec129eb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/240/regulation/2/1) substituted (31.12.2020) by [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2019/824/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00005]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-a864f692335322beb74f39e54a65bc31]: Commencement: Reg. 3 in operation at 1.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/240/regulation/1)
+[^c-a864f692335322beb74f39e54a65bc31]: Commencement: Reg. 3 in operation at 1.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/240/regulation/1)
 
-[^key-593961ccdbd4a524ba10f62863761ae8]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2008/240/regulation/3/1) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/824/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-593961ccdbd4a524ba10f62863761ae8]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2008/240/regulation/3/1) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/824/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5e882ce4cf38f0a17de335188d8aefa7]: Commencement: Reg. 4 in operation at 1.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/240/regulation/1)
+[^c-5e882ce4cf38f0a17de335188d8aefa7]: Commencement: Reg. 4 in operation at 1.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/240/regulation/1)
 
-[^key-97b20fc5b7e16e196903187112a68c00]: Commencement: Reg. 5 in operation at 1.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/240/regulation/1)
+[^c-97b20fc5b7e16e196903187112a68c00]: Commencement: Reg. 5 in operation at 1.7.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/240/regulation/1)
 
 [^f00006]: Footnote: [S.R. 2005 No. 286](https://www.legislation.gov.uk/nisr/2005/286)

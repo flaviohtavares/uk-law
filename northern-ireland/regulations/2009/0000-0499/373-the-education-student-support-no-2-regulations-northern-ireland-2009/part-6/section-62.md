@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62. Interpretation of Part 6[^key-266abd4ba96edf0a274ce40cbba00504]
+## 62. Interpretation of Part 6[^c-266abd4ba96edf0a274ce40cbba00504]
 
 *Extent: N.I.*
 
 In this Part—
 
 - (a) a “current system student with full entitlement” is a current system student other than a student with reduced entitlement;
-- (b)[^key-db95a813b7f14cd0e6daa2e524fef5f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-db95a813b7f14cd0e6daa2e524fef5f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the “relevant date” means the first day of the first academic year of the specified designated course;
 - (d) a “student with reduced entitlement” is an eligible student who—
   - (i) does not qualify for a grant for living and other costs in respect of the academic year because of regulation 39(3)(a) or (b) or 39(5); or
@@ -32,6 +32,6 @@ In this Part—
 
 ## Annotations
 
-[^key-266abd4ba96edf0a274ce40cbba00504]: Commencement: Reg. 62 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-266abd4ba96edf0a274ce40cbba00504]: Commencement: Reg. 62 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
 
-[^key-db95a813b7f14cd0e6daa2e524fef5f6]: Textual amendment: [Reg. 62(b)](https://www.legislation.gov.uk/nisr/2009/373/regulation/62/b) omitted (24.3.2022) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [8(a)](https://www.legislation.gov.uk/nisr/2022/75/regulation/8/a)
+[^c-db95a813b7f14cd0e6daa2e524fef5f6]: Textual amendment: [Reg. 62(b)](https://www.legislation.gov.uk/nisr/2009/373/regulation/62/b) omitted (24.3.2022) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [8(a)](https://www.legislation.gov.uk/nisr/2022/75/regulation/8/a)

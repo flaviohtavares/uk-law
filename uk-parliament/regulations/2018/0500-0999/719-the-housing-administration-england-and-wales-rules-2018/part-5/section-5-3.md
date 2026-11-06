@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.3. Proving a debt[^key-2bdad3971c60c2e99d9dd6fca5e6526f]
+## 5.3. Proving a debt[^c-2bdad3971c60c2e99d9dd6fca5e6526f]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bdad3971c60c2e99d9dd6fca5e6526f]: Commencement: Rule 5.3 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-2bdad3971c60c2e99d9dd6fca5e6526f]: Commencement: Rule 5.3 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

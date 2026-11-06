@@ -24,7 +24,7 @@ summary: ''
 
 (2) This does not apply if the company has issued a share warrant in respect of the shares (see section 779).
 
-(2A)[^key-ae490adb11fd5f1e996f305f97c4fb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-ae490adb11fd5f1e996f305f97c4fb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) If a company fails to comply with this section, an offence is committed by—
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae490adb11fd5f1e996f305f97c4fb75]: Textual amendment: S. 554(2A) omitted (26.10.2023 for specified purposes, 26.1.2026 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2023/56/schedule/1/paragraph/8); [S.I. 2026/57](https://www.legislation.gov.uk/uksi/2026/57), [reg. 2](https://www.legislation.gov.uk/uksi/2026/57/regulation/2)
+[^c-ae490adb11fd5f1e996f305f97c4fb75]: Textual amendment: S. 554(2A) omitted (26.10.2023 for specified purposes, 26.1.2026 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2023/56/schedule/1/paragraph/8); [S.I. 2026/57](https://www.legislation.gov.uk/uksi/2026/57), [reg. 2](https://www.legislation.gov.uk/uksi/2026/57/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Review of operation of Act[^key-0b523b3dc3c86ec5538cdd26930e2af5]
+## 62. Review of operation of Act[^c-0b523b3dc3c86ec5538cdd26930e2af5]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b523b3dc3c86ec5538cdd26930e2af5]: Commencement: S. 62 in force at Royal Assent, see [s. 67(3)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/3)
+[^c-0b523b3dc3c86ec5538cdd26930e2af5]: Commencement: S. 62 in force at Royal Assent, see [s. 67(3)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/3)

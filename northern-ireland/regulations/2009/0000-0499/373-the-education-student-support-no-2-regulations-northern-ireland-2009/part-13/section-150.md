@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 150. Students becoming eligible during the course of an academic year[^key-6243cc473d9040d6e25c0d4fe04cdccd][^key-b18dabf49e521af0022cc55757f7307f]
+## 150. Students becoming eligible during the course of an academic year[^c-6243cc473d9040d6e25c0d4fe04cdccd][^c-b18dabf49e521af0022cc55757f7307f]
 
 *Extent: N.I.*
 
@@ -34,6 +34,6 @@ the student may qualify for a master’s, etc. fee loan in accordance with this 
 
 ## Annotations
 
-[^key-6243cc473d9040d6e25c0d4fe04cdccd]: Textual amendment: [Reg. 150](https://www.legislation.gov.uk/nisr/2009/373/regulation/150) substituted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [56](https://www.legislation.gov.uk/nisr/2024/19/regulation/56)
+[^c-6243cc473d9040d6e25c0d4fe04cdccd]: Textual amendment: [Reg. 150](https://www.legislation.gov.uk/nisr/2009/373/regulation/150) substituted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [56](https://www.legislation.gov.uk/nisr/2024/19/regulation/56)
 
-[^key-b18dabf49e521af0022cc55757f7307f]: Textual amendment: [Pt. 13](https://www.legislation.gov.uk/nisr/2009/373/regulation/149) inserted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [43](https://www.legislation.gov.uk/nisr/2017/7/regulation/43), [Sch. 1](https://www.legislation.gov.uk/nisr/2017/7/schedule/1)
+[^c-b18dabf49e521af0022cc55757f7307f]: Textual amendment: [Pt. 13](https://www.legislation.gov.uk/nisr/2009/373/regulation/149) inserted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [43](https://www.legislation.gov.uk/nisr/2017/7/regulation/43), [Sch. 1](https://www.legislation.gov.uk/nisr/2017/7/schedule/1)

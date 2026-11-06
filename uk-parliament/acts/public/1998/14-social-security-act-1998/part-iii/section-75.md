@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2024-02-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/14
 
-## 75. Overpayments out of social fund[^key-600f914839f1066bda9c8b66fc33c2c7]
+## 75. Overpayments out of social fund[^c-600f914839f1066bda9c8b66fc33c2c7]
 
 (1) After section 71 of the Administration Act there shall be inserted the following section—
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-600f914839f1066bda9c8b66fc33c2c7]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/1998/14/section/75) in force at 5.10.1998 by [S.I. 1998/2209](https://www.legislation.gov.uk/uksi/1998/2209), [art. 2(e)](https://www.legislation.gov.uk/uksi/1998/2209/article/2/e)
+[^c-600f914839f1066bda9c8b66fc33c2c7]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/1998/14/section/75) in force at 5.10.1998 by [S.I. 1998/2209](https://www.legislation.gov.uk/uksi/1998/2209), [art. 2(e)](https://www.legislation.gov.uk/uksi/1998/2209/article/2/e)

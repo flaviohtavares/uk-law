@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 139. Content of claim for client assets[^key-54f75bf0715d9817ff27d53fe67fd61d]
+## 139. Content of claim for client assets[^c-54f75bf0715d9817ff27d53fe67fd61d]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54f75bf0715d9817ff27d53fe67fd61d]: Commencement: [Rule 139](https://www.legislation.gov.uk/uksi/2011/1301/rule/139) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-54f75bf0715d9817ff27d53fe67fd61d]: Commencement: [Rule 139](https://www.legislation.gov.uk/uksi/2011/1301/rule/139) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

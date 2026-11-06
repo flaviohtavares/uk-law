@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Service of notices[^key-c851f33730affddacc4f2485170dcba5]
+## 46. Service of notices[^c-c851f33730affddacc4f2485170dcba5]
 
 *Extent: E+W*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c851f33730affddacc4f2485170dcba5]: Commencement: Art. 46 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
+[^c-c851f33730affddacc4f2485170dcba5]: Commencement: Art. 46 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
 
 [^f00085]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

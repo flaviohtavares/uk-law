@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Causing death by careless, or inconsiderate, driving[^key-bd84cf7bd68f5f2d789d56641edd06de]
+## 20. Causing death by careless, or inconsiderate, driving[^c-bd84cf7bd68f5f2d789d56641edd06de]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd84cf7bd68f5f2d789d56641edd06de]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2006/49/section/20) in force at 18.8.2008 by [S.I. 2008/1918](https://www.legislation.gov.uk/uksi/2008/1918), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/1918/article/2/a)
+[^c-bd84cf7bd68f5f2d789d56641edd06de]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2006/49/section/20) in force at 18.8.2008 by [S.I. 2008/1918](https://www.legislation.gov.uk/uksi/2008/1918), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/1918/article/2/a)

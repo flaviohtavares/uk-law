@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**101.**[^key-060e089ac0ec5a4a18237ee101da935e] In regulation 13 omit “, section 88E of the Listed Buildings Act”.
+**101.**[^c-060e089ac0ec5a4a18237ee101da935e] In regulation 13 omit “, section 88E of the Listed Buildings Act”.
 
 ## Annotations
 
-[^key-060e089ac0ec5a4a18237ee101da935e]: Commencement: [Reg. 101](https://www.legislation.gov.uk/wsi/2024/924/regulation/101) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-060e089ac0ec5a4a18237ee101da935e]: Commencement: [Reg. 101](https://www.legislation.gov.uk/wsi/2024/924/regulation/101) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

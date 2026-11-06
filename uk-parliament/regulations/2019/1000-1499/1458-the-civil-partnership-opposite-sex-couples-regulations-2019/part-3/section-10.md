@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-**10.**[^key-1736328cdc030dff5c41d8f3d974f166] (1) The Equality Act 2010[^f00014] is amended as follows.
+**10.**[^c-1736328cdc030dff5c41d8f3d974f166] (1) The Equality Act 2010[^f00014] is amended as follows.
 
 (2) In section 110[^f00015], after subsection (5B) insert—
 
@@ -65,7 +65,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1736328cdc030dff5c41d8f3d974f166]: Commencement: Reg. 10 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-1736328cdc030dff5c41d8f3d974f166]: Commencement: Reg. 10 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00014]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
 

@@ -22,10 +22,10 @@ summary: ''
 
 (1) Any power of the Treasury or the Board to make regulations under this Part is exercisable by statutory instrument.
 
-(2) Regulations made by the Treasury or the Board under this Part may make different provision for different cases and may[^key-ba96eb42738540371346e94f4283fe92] contain transitional provisions and savings.
+(2) Regulations made by the Treasury or the Board under this Part may make different provision for different cases and may[^c-ba96eb42738540371346e94f4283fe92] contain transitional provisions and savings.
 
 (3) A statutory instrument containing regulations made by the Treasury or the Board under any provision of this Part is subject to annulment in pursuance of a resolution of the House of Commons.
 
 ## Annotations
 
-[^key-ba96eb42738540371346e94f4283fe92]: Textual amendment: Words in s. 317(2) inserted (1.1.2011) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 17 para. 8](https://www.legislation.gov.uk/ukpga/2010/13/schedule/17/paragraph/8); [S.I. 2010/3019](https://www.legislation.gov.uk/uksi/2010/3019), [art. 2](https://www.legislation.gov.uk/uksi/2010/3019/article/2)
+[^c-ba96eb42738540371346e94f4283fe92]: Textual amendment: Words in s. 317(2) inserted (1.1.2011) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 17 para. 8](https://www.legislation.gov.uk/ukpga/2010/13/schedule/17/paragraph/8); [S.I. 2010/3019](https://www.legislation.gov.uk/uksi/2010/3019), [art. 2](https://www.legislation.gov.uk/uksi/2010/3019/article/2)

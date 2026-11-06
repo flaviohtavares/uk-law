@@ -31,7 +31,7 @@ summary: ''
 
 CONSUMER PROTECTION
 
-Price Marking Order (Northern Ireland) 2000 (revoked)[^key-9e987037f9e93da9efef1e3179abf667]
+Price Marking Order (Northern Ireland) 2000 (revoked)[^c-9e987037f9e93da9efef1e3179abf667]
 
 Made
 
@@ -41,63 +41,63 @@ Coming into operation
 
 7th April 2000
 
-[^key-9e987037f9e93da9efef1e3179abf667]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9e987037f9e93da9efef1e3179abf667]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and revocation[^key-9e987037f9e93da9efef1e3179abf667]
+## 1. Citation, commencement and revocation[^c-9e987037f9e93da9efef1e3179abf667]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-9e987037f9e93da9efef1e3179abf667]
+## 2. Interpretation[^c-9e987037f9e93da9efef1e3179abf667]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exclusion from application of the Order[^key-9e987037f9e93da9efef1e3179abf667]
+## 3. Exclusion from application of the Order[^c-9e987037f9e93da9efef1e3179abf667]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Obligation to indicate selling price[^key-9e987037f9e93da9efef1e3179abf667]
+## 4. Obligation to indicate selling price[^c-9e987037f9e93da9efef1e3179abf667]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Obligation to indicate unit price[^key-9e987037f9e93da9efef1e3179abf667]
+## 5. Obligation to indicate unit price[^c-9e987037f9e93da9efef1e3179abf667]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Manner of indication of selling price and unit price[^key-9e987037f9e93da9efef1e3179abf667]
+## 6. Manner of indication of selling price and unit price[^c-9e987037f9e93da9efef1e3179abf667]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-9e987037f9e93da9efef1e3179abf667] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-9e987037f9e93da9efef1e3179abf667] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-9e987037f9e93da9efef1e3179abf667] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-9e987037f9e93da9efef1e3179abf667] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Change in Value Added Tax[^key-9e987037f9e93da9efef1e3179abf667]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 10. Decimal places and roundings of unit prices[^key-9e987037f9e93da9efef1e3179abf667]
+## 9. Change in Value Added Tax[^c-9e987037f9e93da9efef1e3179abf667]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-9e987037f9e93da9efef1e3179abf667] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 12. Enforcement[^key-9e987037f9e93da9efef1e3179abf667]
+## 10. Decimal places and roundings of unit prices[^c-9e987037f9e93da9efef1e3179abf667]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9e987037f9e93da9efef1e3179abf667]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-9e987037f9e93da9efef1e3179abf667] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 12. Enforcement[^c-9e987037f9e93da9efef1e3179abf667]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-9e987037f9e93da9efef1e3179abf667]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Relevant unit of quantity for specific products for the purpose of the definition of “unit price”[^key-9e987037f9e93da9efef1e3179abf667]
+## SCHEDULE 1 — Relevant unit of quantity for specific products for the purpose of the definition of “unit price”[^c-9e987037f9e93da9efef1e3179abf667]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Products in respect of which a trader is exempt from the requirement to unit price[^key-9e987037f9e93da9efef1e3179abf667]
+## SCHEDULE 2 — Products in respect of which a trader is exempt from the requirement to unit price[^c-9e987037f9e93da9efef1e3179abf667]
 
 Article 5
 
@@ -105,8 +105,8 @@ Article 5
 
 **May not be in force at this date. Check the source.**
 
-[^key-9e987037f9e93da9efef1e3179abf667]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9e987037f9e93da9efef1e3179abf667]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9e987037f9e93da9efef1e3179abf667]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2000/63) revoked (1.3.2005) by [Price Marking Order (Northern Ireland) 2004 (S.R. 2004/368)](https://www.legislation.gov.uk/nisr/2004/368), [arts. 1](https://www.legislation.gov.uk/nisr/2004/368/article/1), [3](https://www.legislation.gov.uk/nisr/2004/368/article/3)
+[^c-9e987037f9e93da9efef1e3179abf667]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2000/63) revoked (1.3.2005) by [Price Marking Order (Northern Ireland) 2004 (S.R. 2004/368)](https://www.legislation.gov.uk/nisr/2004/368), [arts. 1](https://www.legislation.gov.uk/nisr/2004/368/article/1), [3](https://www.legislation.gov.uk/nisr/2004/368/article/3)

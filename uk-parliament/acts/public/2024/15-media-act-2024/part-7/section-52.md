@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Power to make consequential provision[^key-f780e26d47f2bc5e8c9cf677e31154c4]
+## 52. Power to make consequential provision[^c-f780e26d47f2bc5e8c9cf677e31154c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f780e26d47f2bc5e8c9cf677e31154c4]: Commencement: S. 52 in force at Royal Assent, see [s. 55(1)(b)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/1/b)
+[^c-f780e26d47f2bc5e8c9cf677e31154c4]: Commencement: S. 52 in force at Royal Assent, see [s. 55(1)(b)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/1/b)

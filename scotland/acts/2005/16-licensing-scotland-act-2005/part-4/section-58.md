@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Objections and representations[^key-c83aae3aee2a1fc73ed67d3e4e828394]
+## 58. Objections and representations[^c-c83aae3aee2a1fc73ed67d3e4e828394]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ is sufficient evidence of the rejection and of the establishment of the ground f
 
 ## Annotations
 
-[^key-c83aae3aee2a1fc73ed67d3e4e828394]: Commencement: S. 58 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-c83aae3aee2a1fc73ed67d3e4e828394]: Commencement: S. 58 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)

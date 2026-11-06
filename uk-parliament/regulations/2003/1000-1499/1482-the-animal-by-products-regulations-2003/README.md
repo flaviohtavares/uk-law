@@ -33,7 +33,7 @@ ANIMALS, ENGLAND
 
 ANIMAL HEALTH
 
-The Animal By-Products Regulations 2003 (revoked)[^key-36ce52ac1085340c298f3353a5d46034]
+The Animal By-Products Regulations 2003 (revoked)[^c-36ce52ac1085340c298f3353a5d46034]
 
 Made
 
@@ -47,11 +47,11 @@ Coming into force
 
 1st July 2003
 
-[^key-36ce52ac1085340c298f3353a5d46034]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-36ce52ac1085340c298f3353a5d46034]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introduction[^key-36ce52ac1085340c298f3353a5d46034]
+### PART 1 — Introduction[^c-36ce52ac1085340c298f3353a5d46034]
 
 **No longer in force.**
 
@@ -59,7 +59,7 @@ Coming into force
 - [Section 2 — Interpretation](part-1/section-2.md)
 - [Section 3 — Approvals, etc.](part-1/section-3.md)
 
-### PART 2 — Collection, transportation, storage, handling, processing and disposal of animal by-products[^key-36ce52ac1085340c298f3353a5d46034]
+### PART 2 — Collection, transportation, storage, handling, processing and disposal of animal by-products[^c-36ce52ac1085340c298f3353a5d46034]
 
 **No longer in force.**
 
@@ -69,7 +69,7 @@ Coming into force
 - [Section 7 — Mixing mammalian and non-mammalian by-products](part-2/section-7.md)
 - [Section 8 — Collection, transportation and storage](part-2/section-8.md)
 
-### PART 3 — Restrictions on access to animal by-products and their use[^key-36ce52ac1085340c298f3353a5d46034]
+### PART 3 — Restrictions on access to animal by-products and their use[^c-36ce52ac1085340c298f3353a5d46034]
 
 **No longer in force.**
 
@@ -78,7 +78,7 @@ Coming into force
 - [Section 11 — Pasture land](part-3/section-11.md)
 - [Section 12 — Intra-species recycling of fish](part-3/section-12.md)
 
-### PART 4 — Approved premises and competent authorities[^key-36ce52ac1085340c298f3353a5d46034]
+### PART 4 — Approved premises and competent authorities[^c-36ce52ac1085340c298f3353a5d46034]
 
 **No longer in force.**
 
@@ -92,7 +92,7 @@ Coming into force
 - [Section 20 — Samples sent to laboratories](part-4/section-20.md)
 - [Section 21 — Laboratories](part-4/section-21.md)
 
-### PART 5 — Placing animal by-products and processed products on the market[^key-36ce52ac1085340c298f3353a5d46034]
+### PART 5 — Placing animal by-products and processed products on the market[^c-36ce52ac1085340c298f3353a5d46034]
 
 **No longer in force.**
 
@@ -100,7 +100,7 @@ Coming into force
 - [Section 23 — Placing on the market of petfood, dogchews and technical products](part-5/section-23.md)
 - [Section 24 — Placing on the market of compost or digestion residues for use on agricultural land](part-5/section-24.md)
 
-### PART 6 — Derogations[^key-36ce52ac1085340c298f3353a5d46034]
+### PART 6 — Derogations[^c-36ce52ac1085340c298f3353a5d46034]
 
 **No longer in force.**
 
@@ -112,7 +112,7 @@ Coming into force
 - [Section 30 — Burial in the event of a disease outbreak](part-6/section-30.md)
 - [Section 31 — Burning and burial of bees and apiculture products](part-6/section-31.md)
 
-### PART 7 — Records[^key-36ce52ac1085340c298f3353a5d46034]
+### PART 7 — Records[^c-36ce52ac1085340c298f3353a5d46034]
 
 **No longer in force.**
 
@@ -125,7 +125,7 @@ Coming into force
 - [Section 38 — Records for approved laboratories](part-7/section-38.md)
 - [Section 39 — Records to be kept for consignments of compost or digestion residue](part-7/section-39.md)
 
-### PART 8 — Administration and enforcement[^key-36ce52ac1085340c298f3353a5d46034]
+### PART 8 — Administration and enforcement[^c-36ce52ac1085340c298f3353a5d46034]
 
 **No longer in force.**
 
@@ -151,12 +151,12 @@ Coming into force
 
 **No longer in force.**
 
-[^key-36ce52ac1085340c298f3353a5d46034]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-36ce52ac1085340c298f3353a5d46034]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-[^key-36ce52ac1085340c298f3353a5d46034]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-36ce52ac1085340c298f3353a5d46034]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-36ce52ac1085340c298f3353a5d46034]: Textual amendment: Regulations revoked (28.9.2005) by [The Animal By-Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(2)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/2)
+[^c-36ce52ac1085340c298f3353a5d46034]: Textual amendment: Regulations revoked (28.9.2005) by [The Animal By-Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(2)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/2)

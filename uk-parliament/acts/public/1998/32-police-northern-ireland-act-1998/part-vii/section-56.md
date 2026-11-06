@@ -22,9 +22,9 @@ summary: ''
 
 (1) Where a complaint or matter is to be formally investigated by the Ombudsman under section 54(2) or (3)(a) or 55(3), (5) or (6), he shall appoint an officer of the Ombudsman to conduct the investigation.
 
-(1A)[^key-291ec82d006ea7bc03d67308dd543372] Where an investigation is authorised by virtue of section 85 (read with section 86A) of the Criminal Justice Act 2003 (investigation of the commission of certain offences by persons acquitted), the Ombudsman shall appoint an officer of the Ombudsman to conduct the investigation.
+(1A)[^c-291ec82d006ea7bc03d67308dd543372] Where an investigation is authorised by virtue of section 85 (read with section 86A) of the Criminal Justice Act 2003 (investigation of the commission of certain offences by persons acquitted), the Ombudsman shall appoint an officer of the Ombudsman to conduct the investigation.
 
-(2) The Department of Justice[^key-81888035e284c22d55f825249a4fc6c7] may by order provide that any provision of the [^c1371901]Police and Criminal Evidence (Northern Ireland) Order 1989 which relates to investigation of offences conducted by police officers (within the meaning of that Order) shall apply, subject to such modifications as the order may specify, to investigations under this section conducted by persons who are not police officers (within the meaning of that Order).
+(2) The Department of Justice[^c-81888035e284c22d55f825249a4fc6c7] may by order provide that any provision of the [^c1371901]Police and Criminal Evidence (Northern Ireland) Order 1989 which relates to investigation of offences conducted by police officers (within the meaning of that Order) shall apply, subject to such modifications as the order may specify, to investigations under this section conducted by persons who are not police officers (within the meaning of that Order).
 
 (3) A person employed by the Ombudsman under paragraph 3(1) of Schedule 3 shall for the purpose of conducting, or assisting in the conduct of, an investigation under this section have all the powers and privileges of a constable throughout Northern Ireland and the adjacent United Kingdom territorial waters; and subsection (3) of section 32 of the Police (Northern Ireland) Act 2000[^c1371902] applies for the purposes of this subsection as it applies for the purposes of subsection (2) of that section.
 
@@ -39,9 +39,9 @@ summary: ''
 
 ## Annotations
 
-[^key-291ec82d006ea7bc03d67308dd543372]: Textual amendment: S. 56(1A) inserted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912)](https://www.legislation.gov.uk/nisi/2007/912), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [11(2)](https://www.legislation.gov.uk/nisi/2007/912/article/11/2)
+[^c-291ec82d006ea7bc03d67308dd543372]: Textual amendment: S. 56(1A) inserted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912)](https://www.legislation.gov.uk/nisi/2007/912), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [11(2)](https://www.legislation.gov.uk/nisi/2007/912/article/11/2)
 
-[^key-81888035e284c22d55f825249a4fc6c7]: Textual amendment: Words in s. 56(2) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 29](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/29) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-81888035e284c22d55f825249a4fc6c7]: Textual amendment: Words in s. 56(2) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 29](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/29) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
 [^c1371901]: Marginal citation: [1989 NI 12](https://www.legislation.gov.uk/nisi/1989).
 

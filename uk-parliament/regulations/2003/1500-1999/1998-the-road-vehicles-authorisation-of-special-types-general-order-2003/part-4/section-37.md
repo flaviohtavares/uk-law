@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Vehicles for tests, trials or non-UK use etc: authorisation requirements[^key-ff85043e074455675f584cd988cb3c9e]
+## 37. Vehicles for tests, trials or non-UK use etc: authorisation requirements[^c-ff85043e074455675f584cd988cb3c9e]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ The authorisation requirements applicable to vehicles falling within any of the 
 
 ## Annotations
 
-[^key-ff85043e074455675f584cd988cb3c9e]: Commencement: Art. 37 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-ff85043e074455675f584cd988cb3c9e]: Commencement: Art. 37 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

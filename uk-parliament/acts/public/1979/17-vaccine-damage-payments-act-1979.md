@@ -67,13 +67,13 @@ he shall in accordance with this Act make a payment of the relevant statutory su
 
 ## 2. Conditions of entitlement.
 
-(1)[^M_C_312648a2-f259-419b-f145-b9dec360c92e][^key-532fee3900c255661cd96a6be81c1ef8] Subject to the provisions of this section, the conditions of entitlement referred to in section 1(1)(b) above are—
+(1)[^M_C_312648a2-f259-419b-f145-b9dec360c92e][^c-532fee3900c255661cd96a6be81c1ef8] Subject to the provisions of this section, the conditions of entitlement referred to in section 1(1)(b) above are—
 
 - (a) that the vaccination in question was carried out—
   - (i) in the United Kingdom or the Isle of Man, and
   - (ii) on or after 5th July 1948, and
   - (iii) in the case of vaccination against smallpox, before 1st August 1971;
-- (b)[^c249265][^key-4528b4df3d0443aad05be8ab866533e1] except in the case of vaccination against poliomyelitis or rubella, that the vaccination was carried out either at a time when the person to whom it was given was under the age of eighteen or at the time of an outbreak within the United Kingdom or the Isle of Man of the disease against which the vaccination was given; and
+- (b)[^c249265][^c-4528b4df3d0443aad05be8ab866533e1] except in the case of vaccination against poliomyelitis or rubella, that the vaccination was carried out either at a time when the person to whom it was given was under the age of eighteen or at the time of an outbreak within the United Kingdom or the Isle of Man of the disease against which the vaccination was given; and
 - (c) that the disabled person was over the age of two on the date when the claim was made or, if he died before that date, that he died after 9th May 1978 and was over the age of two when he died.
 
 (2) An order under section 1(2)(i) above specifying a disease for the purposes of this Act may provide that, in relation to vaccination against that disease, the conditions of entitlement specified in subsection (1) above shall have effect subject to such modifications as may be specified in the order.
@@ -135,9 +135,9 @@ the notice in writing under subsection (2) above shall inform the claimant of th
 
 (1) The claimant may appeal to the First-tier Tribunal[^c2155631] against any decision of the Secretary of State under section 3 or 3A above.
 
-(1B)[^key-83598579c7fe9ea8d05ac88a7a1ad52d] If the claimant's address is not in Northern Ireland, regulations may provide that, in such cases or circumstances as may be prescribed, there is a right of appeal only if the Secretary of State has considered whether to reverse the decision under section 3A.
+(1B)[^c-83598579c7fe9ea8d05ac88a7a1ad52d] If the claimant's address is not in Northern Ireland, regulations may provide that, in such cases or circumstances as may be prescribed, there is a right of appeal only if the Secretary of State has considered whether to reverse the decision under section 3A.
 
-(1C)[^key-83598579c7fe9ea8d05ac88a7a1ad52d] The regulations may in particular provide that that condition is met only where—
+(1C)[^c-83598579c7fe9ea8d05ac88a7a1ad52d] The regulations may in particular provide that that condition is met only where—
 
 - (a) the consideration by the Secretary of State was on an application,
 - (b) the Secretary of State considered issues of a specified description, or
@@ -147,7 +147,7 @@ the notice in writing under subsection (2) above shall inform the claimant of th
 
 - (a) provision as to the manner in which, and the time within which, appeals are to be brought; [^c2155633]. . .
 - (b) [^c2155633]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-5602a4e1ab2c02ba7b1b9f92445c94b6] provision that, where in accordance with regulations under subsection (1B) there is no right of appeal against a decision, any purported appeal may be treated as an application to reverse the decision under section 3A.
+- (c)[^c-5602a4e1ab2c02ba7b1b9f92445c94b6] provision that, where in accordance with regulations under subsection (1B) there is no right of appeal against a decision, any purported appeal may be treated as an application to reverse the decision under section 3A.
 
 (3) The regulations may in particular make any provision of a kind mentioned in Schedule 5 to the Social Security Act 1998.
 
@@ -226,10 +226,10 @@ and the Secretary of State may, on the ground set out in paragraph (b) above, re
 
 (2) Any power of the Secretary of State under this Act to make regulations—
 
-- (a)[^key-3920352c20046f3f9a808b15101b6345] shall be exercisable by statutory instrument [^key-3920352c20046f3f9a808b15101b6345]...; and
+- (a)[^c-3920352c20046f3f9a808b15101b6345] shall be exercisable by statutory instrument [^c-3920352c20046f3f9a808b15101b6345]...; and
 - (b) includes power to make such incidental or supplementary provision as appears to the Secretary of State to be appropriate.
 
-(2A)[^key-1c5b3cd6765f7e14af24e4b428ca813d] A statutory instrument containing regulations made by the Secretary of State under this Act—
+(2A)[^c-1c5b3cd6765f7e14af24e4b428ca813d] A statutory instrument containing regulations made by the Secretary of State under this Act—
 
 - (a) except in the case of an instrument containing regulations under section 4(1B), is subject to annulment in pursuance of a resolution of either House of Parliament;
 - (b) in the case of an instrument containing regulations under section 4(1B), may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
@@ -304,11 +304,11 @@ shall be liable on summary conviction to a fine not exceeding level 5 on the sta
 
 [^M_C_312648a2-f259-419b-f145-b9dec360c92e]: Modification: S. 2(1) modified (28.2.2015) by [The Vaccine Damage Payments (Specified Disease) Order 2015 (S.I. 2015/47)](https://www.legislation.gov.uk/uksi/2015/47), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/47/article/1/1), [3](https://www.legislation.gov.uk/uksi/2015/47/article/3) (as amended (25.5.2021) by [The Vaccine Damage Payments (Specified Disease) (Amendment) Order 2021 (S.I. 2021/508)](https://www.legislation.gov.uk/uksi/2021/508), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/508/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/508/article/2))
 
-[^key-532fee3900c255661cd96a6be81c1ef8]: Modification: S. 2(1) modified (29.4.2016) by [The Vaccine Damage Payments (Specified Disease) Order 2016 (S.I. 2016/454)](https://www.legislation.gov.uk/uksi/2016/454), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/454/article/1/1), [3](https://www.legislation.gov.uk/uksi/2016/454/article/3)
+[^c-532fee3900c255661cd96a6be81c1ef8]: Modification: S. 2(1) modified (29.4.2016) by [The Vaccine Damage Payments (Specified Disease) Order 2016 (S.I. 2016/454)](https://www.legislation.gov.uk/uksi/2016/454), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/454/article/1/1), [3](https://www.legislation.gov.uk/uksi/2016/454/article/3)
 
 [^c249265]: Modification: S. 2(1)(b) modified (30.5.2001) by [S.I. 2001/1652](https://www.legislation.gov.uk/uksi/2001/1652), [art. 3](https://www.legislation.gov.uk/uksi/2001/1652/article/3)
 
-[^key-4528b4df3d0443aad05be8ab866533e1]: Modification: S. 2(1)(b) modified (31.12.2020) by [The Vaccine Damage Payments (Specified Disease) Order 2020 (S.I. 2020/1411)](https://www.legislation.gov.uk/uksi/2020/1411), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1411/article/1/1), [3](https://www.legislation.gov.uk/uksi/2020/1411/article/3)
+[^c-4528b4df3d0443aad05be8ab866533e1]: Modification: S. 2(1)(b) modified (31.12.2020) by [The Vaccine Damage Payments (Specified Disease) Order 2020 (S.I. 2020/1411)](https://www.legislation.gov.uk/uksi/2020/1411), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1411/article/1/1), [3](https://www.legislation.gov.uk/uksi/2020/1411/article/3)
 
 [^c249266]: Modification: S. 2(5) explained by [S.I. 1979/432](https://www.legislation.gov.uk/uksi/1979/432), [reg. 5(2)](https://www.legislation.gov.uk/uksi/1979/432/regulation/5/2)
 
@@ -324,11 +324,11 @@ shall be liable on summary conviction to a fine not exceeding level 5 on the sta
 
 [^c2155631]: Textual amendment: Words in s. 4(1) substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 9(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/9/1), [Sch. 3 para. 32(a)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/32/a)
 
-[^key-83598579c7fe9ea8d05ac88a7a1ad52d]: Textual amendment: S. 4(1B)(1C) inserted (25.2.2013 for specified purposes) by virtue of [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 11 para. 2(2)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/11/paragraph/2/2) (with [s. 102(7)-(9)](https://www.legislation.gov.uk/ukpga/2012/5/section/102/7)); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/18), [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/24)
+[^c-83598579c7fe9ea8d05ac88a7a1ad52d]: Textual amendment: S. 4(1B)(1C) inserted (25.2.2013 for specified purposes) by virtue of [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 11 para. 2(2)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/11/paragraph/2/2) (with [s. 102(7)-(9)](https://www.legislation.gov.uk/ukpga/2012/5/section/102/7)); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/18), [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/24)
 
 [^c2155633]: Textual amendment: S. 4(2)(b) and preceding word omitted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 9(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/9/1), [Sch. 3 para. 32(b)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/32/b)
 
-[^key-5602a4e1ab2c02ba7b1b9f92445c94b6]: Textual amendment: S. 4(2)(c) inserted (25.2.2013 for specified purposes) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 11 para. 2(3)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/11/paragraph/2/3); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/18), [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/24)
+[^c-5602a4e1ab2c02ba7b1b9f92445c94b6]: Textual amendment: S. 4(2)(c) inserted (25.2.2013 for specified purposes) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 11 para. 2(3)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/11/paragraph/2/3); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/18), [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/24)
 
 [^c2155635]: Textual amendment: Words in s. 4(4) substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 9(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/9/1), [Sch. 3 para. 32(c)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/32/c)
 
@@ -356,9 +356,9 @@ shall be liable on summary conviction to a fine not exceeding level 5 on the sta
 
 [^c249275]: Marginal citation: [1991 c.48](https://www.legislation.gov.uk/ukpga/1991/48).
 
-[^key-3920352c20046f3f9a808b15101b6345]: Textual amendment: Words in s. 8(2)(a) repealed (25.2.2013 for specified purposes) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) , [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3) , [Sch. 11 para. 3(2)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/11/paragraph/3/2) ; [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358) , [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1) , [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/18) [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/24)
+[^c-3920352c20046f3f9a808b15101b6345]: Textual amendment: Words in s. 8(2)(a) repealed (25.2.2013 for specified purposes) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) , [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3) , [Sch. 11 para. 3(2)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/11/paragraph/3/2) ; [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358) , [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1) , [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/18) [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/24)
 
-[^key-1c5b3cd6765f7e14af24e4b428ca813d]: Textual amendment: S. 8(2A) inserted (25.2.2013 for specified purposes) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) , [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3) , [Sch. 11 para. 3(3)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/11/paragraph/3/3) ; [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358) , [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1) , [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/18) [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/24)
+[^c-1c5b3cd6765f7e14af24e4b428ca813d]: Textual amendment: S. 8(2A) inserted (25.2.2013 for specified purposes) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) , [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3) , [Sch. 11 para. 3(3)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/11/paragraph/3/3) ; [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358) , [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1) , [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/18) [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/24)
 
 [^c249277]: Textual amendment: Words in s. 8(3)(b)(c) substituted (4.3.1999 for certain purposes, 18.10.1999 insofar as not already in force for certain purposes and otherwise *prosp.* ) by [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14) , [s. 86(1)](https://www.legislation.gov.uk/ukpga/1998/14/section/86/1) , [Sch. 7 para. 9(a)](https://www.legislation.gov.uk/ukpga/1998/14/schedule/7/paragraph/9/a) ; [S.I. 1999/528](https://www.legislation.gov.uk/uksi/1999/528) , [art. 2](https://www.legislation.gov.uk/uksi/1999/528/article/2) , [Sch](https://www.legislation.gov.uk/uksi/1999/528/schedule) ; [S.I. 1999/2860](https://www.legislation.gov.uk/uksi/1999/2860) , [art. 2](https://www.legislation.gov.uk/uksi/1999/2860/article/2) , [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2860/schedule/1) (subject to transitional provisions in [Schs. 16-18](https://www.legislation.gov.uk/uksi/1999/2860/schedule/16) )
 

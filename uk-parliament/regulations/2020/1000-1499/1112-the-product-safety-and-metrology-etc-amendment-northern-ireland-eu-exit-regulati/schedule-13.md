@@ -22,9 +22,9 @@ summary: ''
 
 Regulation 14
 
-**1.**[^key-d0df791266eb5d3516b5c317ada15131] The Non-automatic Weighing Instruments Regulations 2016 are amended in accordance with paragraphs 2 to 8.
+**1.**[^c-d0df791266eb5d3516b5c317ada15131] The Non-automatic Weighing Instruments Regulations 2016 are amended in accordance with paragraphs 2 to 8.
 
-### 2. Amendment to Part 1[^key-0d2ae7bc8b7e4144d0d629d4c564a6a2]
+### 2. Amendment to Part 1[^c-0d2ae7bc8b7e4144d0d629d4c564a6a2]
 
 (1) In regulation 2(1)—
 
@@ -56,11 +56,11 @@ Regulation 14
   > - (b) any EEA state;
 
   ;
-- (h)[^key-d89a5efbbaa0bd9d83b6c564e092483a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-d89a5efbbaa0bd9d83b6c564e092483a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In regulation 2(2) for “EEA” substitute “ relevant ”.
 
-### 3. Amendment to Part 2[^key-e903fd76a25cdb9cfa241a14f721fb84]
+### 3. Amendment to Part 2[^c-e903fd76a25cdb9cfa241a14f721fb84]
 
 (1) In regulations 10(3), 11(2), 15, 18(3). 19(2), and 27(3) for “the United Kingdom” substitute “ Northern Ireland ”.
 
@@ -68,7 +68,7 @@ Regulation 14
 
 (3) In regulation 15 for “European Economic Area” substitute “ relevant market ”.
 
-### 4. Amendment to Part 3[^key-d4b327159f8d88173f3183db7745c44a]
+### 4. Amendment to Part 3[^c-d4b327159f8d88173f3183db7745c44a]
 
 (1) In regulation 40(2) for “the United Kingdom” substitute “ Northern Ireland ”.
 
@@ -77,7 +77,7 @@ Regulation 14
 - (a) in paragraph (1) for “a requirement of European Union legislation” substitute “ an NI Protocol obligation ”;
 - (b) in paragraph (2) before “Union” insert “ relevant ”.
 
-### 5. Amendment to Part 5[^key-92c9a97f5a422683fde163ce6472dd81]
+### 5. Amendment to Part 5[^c-92c9a97f5a422683fde163ce6472dd81]
 
 (1) In regulation 47—
 
@@ -100,7 +100,7 @@ Regulation 14
 
 (3) In regulation 54(5) for “EEA” substitute “ relevant ”.
 
-### 6. Amendment to Part 8[^key-a1f55db7a3cbcfca75e75be91d83b43d]
+### 6. Amendment to Part 8[^c-a1f55db7a3cbcfca75e75be91d83b43d]
 
 (1) In regulation 58—
 
@@ -138,11 +138,11 @@ Regulation 14
 - (a) in paragraph (3)(a) after “market” insert “ in Northern Ireland ”;
 - (b) omit paragraph (6).
 
-### 7. Amendment to Part 10[^key-b728c186ae8491cf7f2cb8b525742274]
+### 7. Amendment to Part 10[^c-b728c186ae8491cf7f2cb8b525742274]
 
 In regulation 77(2) for “EEA” substitute “ relevant ”.
 
-### 8. Amendment to Schedules[^key-c09ebe2c0a1d5516d75c795dec247320]
+### 8. Amendment to Schedules[^c-c09ebe2c0a1d5516d75c795dec247320]
 
 In Schedule 3—
 
@@ -154,20 +154,20 @@ In Schedule 3—
 
 ## Annotations
 
-[^key-d0df791266eb5d3516b5c317ada15131]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/uksi/2020/1112/schedule/13/paragraph/1) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-d0df791266eb5d3516b5c317ada15131]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/uksi/2020/1112/schedule/13/paragraph/1) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-0d2ae7bc8b7e4144d0d629d4c564a6a2]: Commencement: Sch. 13 para. 2 in force at 31.12.2020, see reg. 1(b)
+[^c-0d2ae7bc8b7e4144d0d629d4c564a6a2]: Commencement: Sch. 13 para. 2 in force at 31.12.2020, see reg. 1(b)
 
-[^key-d89a5efbbaa0bd9d83b6c564e092483a]: Textual amendment: [Sch. 13 para. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/13/paragraph/2/1/h) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Product Safety (Toys and Cosmetics) and Metrology (Measuring and Non-automatic Weighing Instruments) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1486)](https://www.legislation.gov.uk/uksi/2020/1486), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1486/regulation/1/3), [3(b)](https://www.legislation.gov.uk/uksi/2020/1486/regulation/3/b)
+[^c-d89a5efbbaa0bd9d83b6c564e092483a]: Textual amendment: [Sch. 13 para. 2(1)(h)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/13/paragraph/2/1/h) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Product Safety (Toys and Cosmetics) and Metrology (Measuring and Non-automatic Weighing Instruments) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1486)](https://www.legislation.gov.uk/uksi/2020/1486), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1486/regulation/1/3), [3(b)](https://www.legislation.gov.uk/uksi/2020/1486/regulation/3/b)
 
-[^key-e903fd76a25cdb9cfa241a14f721fb84]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/uksi/2020/1112/schedule/13/paragraph/3) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-e903fd76a25cdb9cfa241a14f721fb84]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/uksi/2020/1112/schedule/13/paragraph/3) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-d4b327159f8d88173f3183db7745c44a]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/uksi/2020/1112/schedule/13/paragraph/4) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-d4b327159f8d88173f3183db7745c44a]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/uksi/2020/1112/schedule/13/paragraph/4) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-92c9a97f5a422683fde163ce6472dd81]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/uksi/2020/1112/schedule/13/paragraph/5) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-92c9a97f5a422683fde163ce6472dd81]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/uksi/2020/1112/schedule/13/paragraph/5) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-a1f55db7a3cbcfca75e75be91d83b43d]: Commencement: [Sch. 13 para. 6](https://www.legislation.gov.uk/uksi/2020/1112/schedule/13/paragraph/6) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-a1f55db7a3cbcfca75e75be91d83b43d]: Commencement: [Sch. 13 para. 6](https://www.legislation.gov.uk/uksi/2020/1112/schedule/13/paragraph/6) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-b728c186ae8491cf7f2cb8b525742274]: Commencement: [Sch. 13 para. 7](https://www.legislation.gov.uk/uksi/2020/1112/schedule/13/paragraph/7) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-b728c186ae8491cf7f2cb8b525742274]: Commencement: [Sch. 13 para. 7](https://www.legislation.gov.uk/uksi/2020/1112/schedule/13/paragraph/7) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-c09ebe2c0a1d5516d75c795dec247320]: Commencement: [Sch. 13 para. 8](https://www.legislation.gov.uk/uksi/2020/1112/schedule/13/paragraph/8) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-c09ebe2c0a1d5516d75c795dec247320]: Commencement: [Sch. 13 para. 8](https://www.legislation.gov.uk/uksi/2020/1112/schedule/13/paragraph/8) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)

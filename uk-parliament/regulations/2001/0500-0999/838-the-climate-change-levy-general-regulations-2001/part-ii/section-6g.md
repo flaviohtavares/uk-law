@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**6G.**[^key-a847c1b9d28d10c955d2fdace582a5df] The Commissioners may vary any one of the amounts specified in regulations 6C(1)(b), 6D(2)(a) and 6E(1)(d) and (e) and (2) by prescribing a new amount in a published notice.
+**6G.**[^c-a847c1b9d28d10c955d2fdace582a5df] The Commissioners may vary any one of the amounts specified in regulations 6C(1)(b), 6D(2)(a) and 6E(1)(d) and (e) and (2) by prescribing a new amount in a published notice.
 
 ## Annotations
 
-[^key-a847c1b9d28d10c955d2fdace582a5df]: Textual amendment: [Regs. 6A-6G](https://www.legislation.gov.uk/uksi/2001/838/regulation/6A) inserted (1.6.2002) by [The Climate Change Levy (General) (Amendment) Regulations 2002 (S.I. 2002/1152)](https://www.legislation.gov.uk/uksi/2002/1152), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1152/regulation/1), [2](https://www.legislation.gov.uk/uksi/2002/1152/regulation/2)
+[^c-a847c1b9d28d10c955d2fdace582a5df]: Textual amendment: [Regs. 6A-6G](https://www.legislation.gov.uk/uksi/2001/838/regulation/6A) inserted (1.6.2002) by [The Climate Change Levy (General) (Amendment) Regulations 2002 (S.I. 2002/1152)](https://www.legislation.gov.uk/uksi/2002/1152), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1152/regulation/1), [2](https://www.legislation.gov.uk/uksi/2002/1152/regulation/2)

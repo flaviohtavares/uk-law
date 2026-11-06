@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## 58B. Registration of additional capacity[^key-f59efa4afb0582df0176dcb211f07367]
+## 58B. Registration of additional capacity[^c-f59efa4afb0582df0176dcb211f07367]
 
 (1) This article applies to generating capacity which—
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f59efa4afb0582df0176dcb211f07367]: Textual amendment: Art. 58B inserted (1.4.2014) by [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [23](https://www.legislation.gov.uk/ssi/2014/94/article/23) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))
+[^c-f59efa4afb0582df0176dcb211f07367]: Textual amendment: Art. 58B inserted (1.4.2014) by [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [23](https://www.legislation.gov.uk/ssi/2014/94/article/23) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))

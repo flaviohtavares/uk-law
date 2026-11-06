@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175. Proceedings before panels[^key-323fff35722232cc52116493655678b8]
+## 175. Proceedings before panels[^c-323fff35722232cc52116493655678b8]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-323fff35722232cc52116493655678b8]: Commencement: [S. 175](https://www.legislation.gov.uk/anaw/2016/2/section/175) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(g)](https://www.legislation.gov.uk/wsi/2017/309/article/2/g) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-323fff35722232cc52116493655678b8]: Commencement: [S. 175](https://www.legislation.gov.uk/anaw/2016/2/section/175) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(g)](https://www.legislation.gov.uk/wsi/2017/309/article/2/g) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

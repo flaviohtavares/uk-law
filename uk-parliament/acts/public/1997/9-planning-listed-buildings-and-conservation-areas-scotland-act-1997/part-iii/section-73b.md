@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73B. Urgent works relating to Crown land: application[^key-d4faa1b603b7979836fb516850495472]
+## 73B. Urgent works relating to Crown land: application[^c-d4faa1b603b7979836fb516850495472]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ about the application.
 
 ## Annotations
 
-[^key-d4faa1b603b7979836fb516850495472]: Textual amendment: S. 73B inserted (20.3.2006 for specified purposes, 11.5.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [ss. 93(1)](https://www.legislation.gov.uk/ukpga/2004/5/section/93/1), [121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/101](https://www.legislation.gov.uk/ssi/2006/101), [art. 2](https://www.legislation.gov.uk/ssi/2006/101/article/2), [sch.](https://www.legislation.gov.uk/ssi/2006/101/schedule); [S.S.I. 2006/243](https://www.legislation.gov.uk/ssi/2006/243), [art. 3](https://www.legislation.gov.uk/ssi/2006/243/article/3)
+[^c-d4faa1b603b7979836fb516850495472]: Textual amendment: S. 73B inserted (20.3.2006 for specified purposes, 11.5.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [ss. 93(1)](https://www.legislation.gov.uk/ukpga/2004/5/section/93/1), [121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/101](https://www.legislation.gov.uk/ssi/2006/101), [art. 2](https://www.legislation.gov.uk/ssi/2006/101/article/2), [sch.](https://www.legislation.gov.uk/ssi/2006/101/schedule); [S.S.I. 2006/243](https://www.legislation.gov.uk/ssi/2006/243), [art. 3](https://www.legislation.gov.uk/ssi/2006/243/article/3)

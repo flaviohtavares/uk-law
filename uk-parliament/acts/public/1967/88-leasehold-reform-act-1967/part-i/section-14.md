@@ -28,7 +28,7 @@ summary: ''
 - (b) any lease granting the new tenancy;
 - (c) any valuation of the house and premises obtained by the landlord before the grant of the new tenancy for the purpose of fixing the rent payable under it in accordance with section 15 below.
 
-(2A)[^key-f5c9e0c28a6ee9901789f1883459fc97] Subsection (2) above does not require a person to bear the costs of another person in connection with an application to the appropriate tribunal[^key-93a2f211cae6a11697406b6bb7ab129c].
+(2A)[^c-f5c9e0c28a6ee9901789f1883459fc97] Subsection (2) above does not require a person to bear the costs of another person in connection with an application to the appropriate tribunal[^c-93a2f211cae6a11697406b6bb7ab129c].
 
 (3) A tenant shall not be entitled to require the execution of a lease granting a new tenancy under this section otherwise than on tender of the amount, so far as ascertained,—
 
@@ -50,6 +50,6 @@ Provided that, where the existing tenancy is granted after the commencement of t
 
 ## Annotations
 
-[^key-f5c9e0c28a6ee9901789f1883459fc97]: Textual amendment: S. 14(2A) inserted (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2002/15/schedule/13/paragraph/3); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2004/669/article/2/c/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/2))
+[^c-f5c9e0c28a6ee9901789f1883459fc97]: Textual amendment: S. 14(2A) inserted (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2002/15/schedule/13/paragraph/3); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2004/669/article/2/c/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/2))
 
-[^key-93a2f211cae6a11697406b6bb7ab129c]: Textual amendment: Words in s. 14(2A) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/5) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-93a2f211cae6a11697406b6bb7ab129c]: Textual amendment: Words in s. 14(2A) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/5) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

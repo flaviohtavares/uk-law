@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Notification of rejected postal vote[^key-7ec7305a236cfb3fea0568c17106368c]
+## 22. Notification of rejected postal vote[^c-7ec7305a236cfb3fea0568c17106368c]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ec7305a236cfb3fea0568c17106368c]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2013/6/section/22) in force at 2.4.2013 by [S.I. 2013/702](https://www.legislation.gov.uk/uksi/2013/702), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/702/article/3/d)
+[^c-7ec7305a236cfb3fea0568c17106368c]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2013/6/section/22) in force at 2.4.2013 by [S.I. 2013/702](https://www.legislation.gov.uk/uksi/2013/702), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/702/article/3/d)

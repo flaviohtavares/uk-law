@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Assistance to others[^key-483cee24500abffad08a23c521cf3a01]
+## 5. Assistance to others[^c-483cee24500abffad08a23c521cf3a01]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The Chief Inspector of Rail Accidents may arrange for the Rail Accident Investig
 
 ## Annotations
 
-[^key-483cee24500abffad08a23c521cf3a01]: Commencement: S. 5 in force at 17.10.2005 by [S.I. 2005/1991](https://www.legislation.gov.uk/uksi/2005/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/1)[(2)(v)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/2/v)
+[^c-483cee24500abffad08a23c521cf3a01]: Commencement: S. 5 in force at 17.10.2005 by [S.I. 2005/1991](https://www.legislation.gov.uk/uksi/2005/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/1)[(2)(v)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/2/v)

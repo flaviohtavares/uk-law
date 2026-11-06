@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Amendments to Section B of Part 1 of Schedule 1 (required formats for accounts: non-IAS individual accounts of small LLPs other than micro-entities)[^key-42a403053d026a8682e0a43471438b24]
+## 35. Amendments to Section B of Part 1 of Schedule 1 (required formats for accounts: non-IAS individual accounts of small LLPs other than micro-entities)[^c-42a403053d026a8682e0a43471438b24]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ In Section B of Part 1 of Schedule 1 (required formats for balance sheets: non-I
 
 ## Annotations
 
-[^key-42a403053d026a8682e0a43471438b24]: Commencement: Reg. 35 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-42a403053d026a8682e0a43471438b24]: Commencement: Reg. 35 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

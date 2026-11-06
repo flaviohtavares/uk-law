@@ -223,14 +223,14 @@ Paragraph 12 of Schedule 2 to the Income Support Regulations shall also be amend
 
 (4) Where on 12th April 1995 paragraph 5 of Schedule 1 to the Income Support Regulations (persons incapable of work) as in force on that date applied to a claimant, but the disability premium was not applicable to him, that claimant shall be treated for the purposes of paragraph 12(1) of Schedule 2 to the Income Support Regulations as if, throughout the period that paragraph 5 of Schedule 1 had applied to him, paragraph 12(1)(b)(i) of Schedule 2 applied to him.
 
-(5) Where it is determined on or after 13th April 1995[^key-6cd6244bf953306b1f863b36fa97fd73] that a claimant fails to satisfy the incapacity for work test, in accordance with regulations made under section 171C of the Contributions and Benefits Act [^c1788089] (the all work test), on its first application to the claimant concerned, and the claimant, immediately prior to 13th April 1995[^key-7df5ab4852aec3b7356157a8f85a1d06], was either—
+(5) Where it is determined on or after 13th April 1995[^c-6cd6244bf953306b1f863b36fa97fd73] that a claimant fails to satisfy the incapacity for work test, in accordance with regulations made under section 171C of the Contributions and Benefits Act [^c1788089] (the all work test), on its first application to the claimant concerned, and the claimant, immediately prior to 13th April 1995[^c-7df5ab4852aec3b7356157a8f85a1d06], was either—
 
 - (a) incapable of work and had been so for a continuous period of 28 weeks in circumstances to which paragraph 5 of Schedule 1 of the Income Support Regulations refers (persons incapable of work not required to be available for employment); or
 - (b) in receipt of invalidity benefit or severe disablement allowance,
 
 then, in a case in which either regulations 8(2A) or 11(2A) of the Income Support Regulations applies (persons not required to be available for employment and registration for employment), notwithstanding regulation 22(1A) and (5A) of the Income Support Regulations (reductions in applicable amounts), the amount of any income support to which the claimant is entitled shall be calculated in accordance with regulation 17 of those Regulations.
 
-(6)[^key-db748b0b63fcd3807f4e30c4f8f85ba5] Where—
+(6)[^c-db748b0b63fcd3807f4e30c4f8f85ba5] Where—
 
 - (a) a determination of the amount of a person’s benefit has been made in a case to which paragraph (5) of this regulation, as originally made, had effect; and
 - (b) an appeal to which regulation 8(2A) or 11(2A) of the Income Support Regulations (persons not required to be available or registered for employment) refers, remains outstanding on 2nd October 1995;
@@ -345,10 +345,10 @@ An assessment of the cost to business of applying these Regulations in so far as
 
 [^c1788088]: Marginal citation: Subsection (2A) is inserted by section 10(3) of the [Social Security (Incapacity for Work) Act 1994 (c.18)](https://www.legislation.gov.uk/ukpga/1994/18).
 
-[^key-6cd6244bf953306b1f863b36fa97fd73]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/1995/482/regulation/19/2) substituted (6.9.1999) by [The Social Security Act 1998 (Commencement No. 9, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/2422)](https://www.legislation.gov.uk/uksi/1999/2422), [Sch. 11](https://www.legislation.gov.uk/uksi/1999/2422/schedule/11)
+[^c-6cd6244bf953306b1f863b36fa97fd73]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/1995/482/regulation/19/2) substituted (6.9.1999) by [The Social Security Act 1998 (Commencement No. 9, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/2422)](https://www.legislation.gov.uk/uksi/1999/2422), [Sch. 11](https://www.legislation.gov.uk/uksi/1999/2422/schedule/11)
 
 [^c1788089]: Marginal citation: Section 171C was inserted in the Contributions and Benefits Act by section 5 of the Social Security (Incapacity for Work) Act 1994 (c.18.).
 
-[^key-7df5ab4852aec3b7356157a8f85a1d06]: Textual amendment: Words in reg. 19(5) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/a), [8(2)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/8/2/a)
+[^c-7df5ab4852aec3b7356157a8f85a1d06]: Textual amendment: Words in reg. 19(5) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/a), [8(2)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/8/2/a)
 
-[^key-db748b0b63fcd3807f4e30c4f8f85ba5]: Textual amendment: Reg. 19(6) added (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/a), [8(2)(b)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/8/2/b)
+[^c-db748b0b63fcd3807f4e30c4f8f85ba5]: Textual amendment: Reg. 19(6) added (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/a), [8(2)(b)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/8/2/b)

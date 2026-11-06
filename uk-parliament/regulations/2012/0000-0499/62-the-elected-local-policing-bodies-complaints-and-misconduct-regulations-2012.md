@@ -42,28 +42,28 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 31 and 154(5) of, and Schedule 7 to, the Police Reform and Social Responsibility Act 2011[^f00001].
 
-In accordance with section 154(2) of that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.[^key-0682b7f7ad20c77a7126c3deb4e26cfa][^key-b02b9df39ce56ae4ba2bc0ea17f413f0][^key-ca5abd1cb4218a3da64f0c56d845e97c]
+In accordance with section 154(2) of that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.[^c-0682b7f7ad20c77a7126c3deb4e26cfa][^c-b02b9df39ce56ae4ba2bc0ea17f413f0][^c-ca5abd1cb4218a3da64f0c56d845e97c]
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-5c18d1bdd6a15fd68973bc55e6a17b00]
+### 1. Citation and commencement[^c-5c18d1bdd6a15fd68973bc55e6a17b00]
 
 These Regulations may be cited as the Elected Local Policing Bodies (Complaints and Misconduct) Regulations 2012 and shall come into force on 16th January 2012.
 
-### 2. Interpretation[^key-f47d2143cfbe3d7ab9c3361f7e093308][^key-87460da3a216839ae30ac2c3a40ba457][^key-66068ac800df7c767daace095e24c9fb]
+### 2. Interpretation[^c-f47d2143cfbe3d7ab9c3361f7e093308][^c-87460da3a216839ae30ac2c3a40ba457][^c-66068ac800df7c767daace095e24c9fb]
 
 (1) In these Regulations—
 
 - “2002 Act” means the Police Reform Act 2002[^f00002];
 - “2004 Regulations” means the Police (Complaints and Misconduct) Regulations 2004[^f00003];
 - “2011 Act” means the Police Reform and Social Responsibility Act 2011;
-- [^key-775c186d2eb921153f803821afb436bb]...
+- [^c-775c186d2eb921153f803821afb436bb]...
 - “complainant”, in relation to anything which is or purports to be a complaint, means the person by whom the complaint or purported complaint was made, but where any person is acting on the complainant’s behalf for the purposes of any complaint or purported complaint, anything that is to be or may be done under these Regulations by or in relation to the complainant may be done, instead, by or in relation to that person;
 - “complaint” means a qualifying complaint within the meaning of section 31(1)(a) of the 2011 Act;
 - “conduct” includes acts, omissions, statements and decisions (whether actual, alleged or inferred);
 - “conduct matter” has the same meaning as in section 31(1)(b) of the 2011 Act;
 - “criminal offence” means any offence triable in England and Wales;
-- “Director General” means the Director General of the Independent Office for Police Conduct;[^key-f38427815468b275ab3295b8ecc8118a]
+- “Director General” means the Director General of the Independent Office for Police Conduct;[^c-f38427815468b275ab3295b8ecc8118a]
 - “document” means anything in which information of any description is recorded;
 - “information” includes estimates and projections, and statistical analyses;
 - “IOPC” means the Independent Office for Police Conduct;
@@ -81,11 +81,11 @@ These Regulations may be cited as the Elected Local Policing Bodies (Complaints 
   - (b) holds the relevant office at the time when a complaint or conduct matter comes to the attention of the police and crime panel, but did not hold that office at the time of the conduct;
 - “serious complaint” has the same meaning as in paragraph 2(6) of Schedule 7 to the 2011 Act.
 
-(2) References in these Regulations to the investigation of any serious complaint or conduct matter under the management of the Director General[^key-cb5546ddf52c18c5e868f1f38333096c] or by the Director General [^key-c8b3608f9e25635bad3bbee1ec7107c2]... shall be construed as references to the Director General’s[^key-75218001106d643cfcbdf1a9ca581a1a] investigation in accordance with regulation 19 or 20 as the case may be.
+(2) References in these Regulations to the investigation of any serious complaint or conduct matter under the management of the Director General[^c-cb5546ddf52c18c5e868f1f38333096c] or by the Director General [^c-c8b3608f9e25635bad3bbee1ec7107c2]... shall be construed as references to the Director General’s[^c-75218001106d643cfcbdf1a9ca581a1a] investigation in accordance with regulation 19 or 20 as the case may be.
 
 (3) References in these Regulations to a person serving with the police shall be construed in accordance with sections 12(7) and 29 of the 2002 Act.
 
-### 3. General functions of the Director General[^key-fea62a35179d2dc6d69859197742e10b]
+### 3. General functions of the Director General[^c-fea62a35179d2dc6d69859197742e10b]
 
 (1) Subject to paragraph (6), the functions of the Director General in relation to relevant office holders and police and crime panels shall be—
 
@@ -105,16 +105,16 @@ in accordance with these Regulations.
 
 (3) Subject to paragraph (6), it shall be the duty of the Director General —
 
-- (a) to exercise the powers and perform the duties conferred on the Director General[^key-e9db941702674f97d90210561111510b] by the following provisions of these Regulations in the manner that the Director General considers best calculated for the purposes of securing the proper carrying out of the Director General’s functions under paragraph (1); and
+- (a) to exercise the powers and perform the duties conferred on the Director General[^c-e9db941702674f97d90210561111510b] by the following provisions of these Regulations in the manner that the Director General considers best calculated for the purposes of securing the proper carrying out of the Director General’s functions under paragraph (1); and
 - (b) to secure that arrangements exist which are conducive to, and facilitate, the reporting of misconduct by relevant office holders.
 
 (4) Subject to the other provisions of these Regulations, the Director General may do anything which appears to the Director General to be calculated to facilitate, or is incidental or conducive to, the carrying out of the Director General’s functions.
 
-(4A)[^key-29de3b5ffcfe10cf777e6101ca3f4681] In carrying out functions under these Regulations the Director General shall have regard to any advice provided to the Director General by the IOPC (see regulation 3A(1)(a)).
+(4A)[^c-29de3b5ffcfe10cf777e6101ca3f4681] In carrying out functions under these Regulations the Director General shall have regard to any advice provided to the Director General by the IOPC (see regulation 3A(1)(a)).
 
 (5) Section 10(7) of the 2002 Act shall apply in relation to recommendations or advice given under paragraph (1)(e), modified so that it has effect as follows—
 
-> (7) The IOPC[^key-b9b02e3283c3428cb23ddc0f8211a38b] may, in connection with the making of any recommendation or the giving of any advice to any person for the purposes of carrying out the Director General’s function under regulation 3(1)(e) of the Elected Local Policing Bodies (Complaints and Misconduct) Regulations 2011, impose any such charge on that person for anything done by the Director General for the purposes of, or in connection with, the carrying out of that function as the Director General thinks fit.
+> (7) The IOPC[^c-b9b02e3283c3428cb23ddc0f8211a38b] may, in connection with the making of any recommendation or the giving of any advice to any person for the purposes of carrying out the Director General’s function under regulation 3(1)(e) of the Elected Local Policing Bodies (Complaints and Misconduct) Regulations 2011, impose any such charge on that person for anything done by the Director General for the purposes of, or in connection with, the carrying out of that function as the Director General thinks fit.
 
 .
 
@@ -124,9 +124,9 @@ in accordance with these Regulations.
 - (b) handled by a police and crime panel as permitted by regulation 15(2) (disapplication of requirements of Regulations); or
 - (c) subjected to resolution under Part 4 (resolution of other complaints).
 
-(7) Regulations made under section 27 of the 2002 Act (conduct of the IOPC’s[^key-085759206c7652ce3d0c4c8deb8e8948] staff) shall apply in relation to allegations or indications of misconduct by members of the IOPC’s staff arising in connection with the exercise of functions conferred on the Director General or the IOPC[^key-bdea98099b4609d703d3b2ca37bed3a7] by these Regulations.
+(7) Regulations made under section 27 of the 2002 Act (conduct of the IOPC’s[^c-085759206c7652ce3d0c4c8deb8e8948] staff) shall apply in relation to allegations or indications of misconduct by members of the IOPC’s staff arising in connection with the exercise of functions conferred on the Director General or the IOPC[^c-bdea98099b4609d703d3b2ca37bed3a7] by these Regulations.
 
-### 3A. General Functions of the IOPC[^key-48979e1b89375761ef304b67a5601e97]
+### 3A. General Functions of the IOPC[^c-48979e1b89375761ef304b67a5601e97]
 
 (1) The functions of the IOPC in relation to relevant office holders and police and crime panels are—
 
@@ -143,7 +143,7 @@ in accordance with these Regulations.
 
 The Director General and the IOPC must carry out their functions under these Regulations efficiently and effectively.
 
-### 4. Guidance[^key-0958bd63ab8cdd273b1a44849cff7d5e]
+### 4. Guidance[^c-0958bd63ab8cdd273b1a44849cff7d5e]
 
 Section 22 of the 2002 Act (power of the Director General to issue guidance) shall apply in relation to the exercise or performance of the powers or duties conferred or imposed by these Regulations, modified so that it has effect as follows—
 
@@ -198,15 +198,15 @@ Section 22 of the 2002 Act (power of the Director General to issue guidance) sha
 
 .
 
-### 5. Reports to the Secretary of State[^key-6b7f4bc5e7da2d8bb3cf4e8d3e794260]
+### 5. Reports to the Secretary of State[^c-6b7f4bc5e7da2d8bb3cf4e8d3e794260]
 
-(1)[^key-c2510c4039d4074b33a4eb7978051d40] As soon as practicable after the end of each of the IOPC’s financial years, the Director General and the IOPC shall also jointly make a report to the Secretary of State on the carrying out of its functions under these Regulations during that year.
+(1)[^c-c2510c4039d4074b33a4eb7978051d40] As soon as practicable after the end of each of the IOPC’s financial years, the Director General and the IOPC shall also jointly make a report to the Secretary of State on the carrying out of its functions under these Regulations during that year.
 
 (2) The Director General shall also make such reports to the Secretary of State about matters relating generally to the carrying out of the Director General’s functions under these Regulations as the Secretary of State may, from time to time, require.
 
 (3) The Director General may, from time to time, make such other reports to the Secretary of State as the Director General considers appropriate for drawing the Secretary of State’s attention to matters which—
 
-- (a) have come to the Director General’s[^key-3d16a6635368e94902df668161f588a3] notice, and
+- (a) have come to the Director General’s[^c-3d16a6635368e94902df668161f588a3] notice, and
 - (b) are matters that the Director General considers should be drawn to the Secretary of State’s attention by reason of their gravity or other exceptional circumstances.
 
 (4) The Director General shall prepare such reports containing advice and recommendations as the Director General thinks appropriate for the purpose of carrying out the Director General’s function under regulation 3(1)(e) (general functions of the Director General).
@@ -218,7 +218,7 @@ Section 22 of the 2002 Act (power of the Director General to issue guidance) sha
 
 lay a copy before Parliament and cause the report to be published.
 
-(6) The IOPC[^key-62ec4daf1386396490b8751c993c1bee] shall send a copy of every annual report under paragraph (1) to every police and crime panel.
+(6) The IOPC[^c-62ec4daf1386396490b8751c993c1bee] shall send a copy of every annual report under paragraph (1) to every police and crime panel.
 
 (7) The Director General shall send a copy of every report under paragraph (3) to—
 
@@ -237,7 +237,7 @@ that appears to the Director General to be concerned.
 - (a) are referred to in the report, or
 - (b) appear to the Director General otherwise to have a particular interest in its contents.
 
-### 6. General duties of police and crime panels, relevant office holders and chief officers of police[^key-52c00b9ce5d26c254beee24dc1e1b61e]
+### 6. General duties of police and crime panels, relevant office holders and chief officers of police[^c-52c00b9ce5d26c254beee24dc1e1b61e]
 
 (1) It shall be the duty of every police and crime panel to ensure that it is kept informed, in relation to a relevant office holder for the panel’s police area, about all matters falling within paragraph (2).
 
@@ -249,11 +249,11 @@ that appears to the Director General to be concerned.
 
 (3) Where a chief officer of police of any police force requires the chief officer of any other police force or a local policing body to provide a person serving with the police for appointment under regulation 19 (investigations managed by the Director General), it shall be the duty of the chief officer or body to whom the requirement is addressed to comply with it.
 
-(4) It shall be the duty of every police and crime panel, every relevant office holder and every chief officer of police to provide the Director General and every member of the IOPC’s[^key-bcc2b86f58d275a751f6666667ad2840] staff with all such assistance as the Director General or that member of staff may reasonably require for the purposes of, or in connection with, the carrying out of any investigation by the Director General under regulation 20.
+(4) It shall be the duty of every police and crime panel, every relevant office holder and every chief officer of police to provide the Director General and every member of the IOPC’s[^c-bcc2b86f58d275a751f6666667ad2840] staff with all such assistance as the Director General or that member of staff may reasonably require for the purposes of, or in connection with, the carrying out of any investigation by the Director General under regulation 20.
 
 (5) It shall be the duty of every police and crime panel, every relevant office holder and every chief officer of police to ensure that a person appointed under regulation 19 to conduct an investigation under the management of the Director General is given all such assistance and co-operation in the carrying out of that investigation as that person may reasonably require.
 
-### 7. Delegation of powers and duties by police and crime panels[^key-5ba5dd1999f329aed520b4974f2b843f][^key-0e4bebb3d48dbf118d26edb0371f648b][^key-8a9a294d907eedd0ca706e5962a3c8e8]
+### 7. Delegation of powers and duties by police and crime panels[^c-5ba5dd1999f329aed520b4974f2b843f][^c-0e4bebb3d48dbf118d26edb0371f648b][^c-8a9a294d907eedd0ca706e5962a3c8e8]
 
 (1) Subject to paragraph (2), a police and crime panel may delegate all or any of the powers or duties conferred or imposed on it by these Regulations, with the exception of Part 4 (resolution of other complaints), to—
 
@@ -266,7 +266,7 @@ that appears to the Director General to be concerned.
 
 ## PART 2 — Initial Handling of Complaints and Conduct Matters
 
-### 8. Duties to preserve evidence[^key-6fa4618019985aa06caf4d2a731d08f2]
+### 8. Duties to preserve evidence[^c-6fa4618019985aa06caf4d2a731d08f2]
 
 (1) Where a complaint or conduct matter that relates to the conduct of a relevant office holder comes to the attention of the police and crime panel, it shall be the duty of that panel to secure that all such steps as are appropriate for the purposes of these Regulations are taken, both initially and from time to time after that, for obtaining and preserving evidence relating to the conduct in question.
 
@@ -292,7 +292,7 @@ as the case may be.
 
 (6) It shall be the duty of a relevant office holder to take all such steps for obtaining or preserving evidence as he may be directed to take for the purposes of this regulation by the police and crime panel or by the Director General.
 
-### 9. Notification and recording of complaints[^key-c52a933e994dd30cf5af52d9c21c2b6d]
+### 9. Notification and recording of complaints[^c-c52a933e994dd30cf5af52d9c21c2b6d]
 
 (1) Where a complaint is made to the Director General that relates to the conduct of a relevant office holder, the Director General shall give notification of the complaint to the police and crime panel unless the Director General considers that there are exceptional circumstances that justify notification not being given.
 
@@ -317,7 +317,7 @@ the panel shall record the complaint.
 - (a) that person is satisfied that the subject-matter of the complaint has been, or is already being, dealt with by means of criminal proceedings against the relevant office holder; or
 - (b) the complaint has been withdrawn in accordance with regulation 16.
 
-### 10. Failures to record or notify a complaint[^key-f99b2118db8b6384fff42d1384f3a010]
+### 10. Failures to record or notify a complaint[^c-f99b2118db8b6384fff42d1384f3a010]
 
 (1) This regulation applies where anything which is or purports to be a complaint in relation to which regulation 9 (notification and recording of complaints) has effect is received by a police and crime panel, a relevant office holder or a chief officer of police (whether in consequence of having been made directly or of a notification under that regulation).
 
@@ -326,7 +326,7 @@ the panel shall record the complaint.
 - (a) the decision to take no action and, if that decision relates to only part of what was received, the part in question; and
 - (b) the grounds on which the decision was made.
 
-### 11. Notification and recording of conduct matters arising in civil proceedings[^key-5e386309c11dce40ecc522899f75abb3]
+### 11. Notification and recording of conduct matters arising in civil proceedings[^c-5e386309c11dce40ecc522899f75abb3]
 
 (1) This regulation applies where—
 
@@ -350,7 +350,7 @@ the panel shall record the complaint.
 - (a) they relate to such a matter; or
 - (b) they are proceedings that relate to a matter in relation to which a conduct matter, or evidence of a conduct matter, is or may be relevant.
 
-### 12. Recording of conduct matters in other cases[^key-8479a8a10db277ce8905d16210b3accf]
+### 12. Recording of conduct matters in other cases[^c-8479a8a10db277ce8905d16210b3accf]
 
 (1) Where a conduct matter comes (otherwise than as mentioned in regulation 11) to the attention of the police and crime panel for the relevant office holder concerned, it shall be the duty of the panel to record that matter.
 
@@ -366,7 +366,7 @@ the panel shall record the complaint.
 
 the Director General may direct the panel to record that matter; and it shall be the duty of that panel to comply with the direction.
 
-### 13. Reference of serious complaints and conduct matters to the Director General[^key-19756743464cb2c81421cbe68ffb3497]
+### 13. Reference of serious complaints and conduct matters to the Director General[^c-19756743464cb2c81421cbe68ffb3497]
 
 (1) It shall be the duty of a police and crime panel to refer a complaint to the Director General if—
 
@@ -397,7 +397,7 @@ the Director General may direct the panel to record that matter; and it shall be
 
 (7) A complaint or conduct matter that has already been referred to the Director General under this regulation on a previous occasion shall not be required to be referred again unless the Director General so directs.
 
-### 14. Duties of Director General on a reference[^key-3c386c7e669d3a12e7d97b6328a725e9]
+### 14. Duties of Director General on a reference[^c-3c386c7e669d3a12e7d97b6328a725e9]
 
 (1) It shall be the duty of the Director General in the case of every complaint or conduct matter referred to the Director General by a police and crime panel to determine whether or not it is necessary for the complaint or matter to be investigated.
 
@@ -411,7 +411,7 @@ the Director General may direct the panel to record that matter; and it shall be
 - (a) to the complainant (if there is one), and
 - (b) to the person to whose conduct the complaint or matter relates.
 
-### 15. Disapplication of requirements of Regulations[^key-d72a1a5a1545969be9448271e44f5e4d]
+### 15. Disapplication of requirements of Regulations[^c-d72a1a5a1545969be9448271e44f5e4d]
 
 (1) This regulation applies where a complaint has been recorded by a police and crime panel unless the complaint is one which has been, or must be, referred to the Director General under regulation 13, and is not for the time being referred back to the panel under regulation 14(2).
 
@@ -424,7 +424,7 @@ the panel may handle the complaint in whatever manner (if any) that panel thinks
 
 (3) The descriptions of complaints specified for the purposes of paragraph (2)(b) are those where the police and crime panel considers that—
 
-- (a)[^key-fc31d28aac7db3c690ea439eb66a2aa8][^key-763c601b8bf77aaaedd8a7110f78670b] the complaint is concerned entirely with the conduct of a relevant office holder in relation to a person who was working in his capacity as a member of the office holder’s staff at the time when the conduct is supposed to have taken place.
+- (a)[^c-fc31d28aac7db3c690ea439eb66a2aa8][^c-763c601b8bf77aaaedd8a7110f78670b] the complaint is concerned entirely with the conduct of a relevant office holder in relation to a person who was working in his capacity as a member of the office holder’s staff at the time when the conduct is supposed to have taken place.
 - (b) more than 12 months have elapsed between the incident, or the latest incident, giving rise to the complaint and the making of the complaint and either—
   - (i) no good reason for the delay has been shown, or
   - (ii) injustice would be likely to be caused by the delay;
@@ -446,7 +446,7 @@ the panel may handle the complaint in whatever manner (if any) that panel thinks
 
 (5) The police and crime panel shall notify the complainant that it has decided to handle the complaint as permitted by paragraph (2).
 
-### 16. Withdrawn and discontinued complaints[^key-27223c3716d4356081b24c72e6f194da]
+### 16. Withdrawn and discontinued complaints[^c-27223c3716d4356081b24c72e6f194da]
 
 (1) If a police and crime panel receives from a complainant notification in writing signed by him or by his solicitor or other authorised agent on his behalf to the effect either—
 
@@ -489,7 +489,7 @@ then the panel shall forthwith record the withdrawal or the fact that the compla
 
 (10) But nothing in paragraph (9) shall require the police and crime panel to make a notification if it has previously decided under regulation 31(3) not to notify the person complained against of the complaint because it is of the opinion that that might prejudice any criminal investigation or pending proceedings or would be contrary to the public interest.
 
-### 17. Conduct occurring outside England and Wales[^key-2935af96191532656175527a40b80c4a]
+### 17. Conduct occurring outside England and Wales[^c-2935af96191532656175527a40b80c4a]
 
 (1) It shall be the duty of a relevant office holder to notify the police and crime panel of any allegation, investigation or proceedings in relation to his conduct which does not amount to a conduct matter for the purposes of these Regulations only by reason of the fact that the conduct in question did not occur in England and Wales.
 
@@ -497,7 +497,7 @@ then the panel shall forthwith record the withdrawal or the fact that the compla
 
 ## PART 3 — Investigation of Serious Complaints and Conduct Matters
 
-### 18. Power to determine the form of an investigation[^key-a25df8e5b5241c14074cf00ca08de34d]
+### 18. Power to determine the form of an investigation[^c-a25df8e5b5241c14074cf00ca08de34d]
 
 (1) This regulation applies where—
 
@@ -514,7 +514,7 @@ then the panel shall forthwith record the withdrawal or the fact that the compla
 (4) The only forms which the investigation may take in accordance with a determination made under this regulation are—
 
 - (a) an investigation by a police force selected by the Director General, under the management of the Director General;
-- (b) an investigation by the Director General [^key-f969b26b0115e968b44b060d444cf320]....
+- (b) an investigation by the Director General [^c-f969b26b0115e968b44b060d444cf320]....
 
 (5) The Director General may at any time make a further determination under this regulation to replace an earlier one.
 
@@ -524,7 +524,7 @@ then the panel shall forthwith record the withdrawal or the fact that the compla
 
 (8) The Director General shall notify the police and crime panel of any determination that the Director General makes under this regulation in relation to a particular complaint or conduct matter.
 
-### 19. Investigations managed by the Director General[^key-d3112043811747ee1ced64953f2342db]
+### 19. Investigations managed by the Director General[^c-d3112043811747ee1ced64953f2342db]
 
 (1) This regulation applies where the Director General has determined that the Director General should manage the investigation by a selected police force of any complaint or conduct matter.
 
@@ -546,11 +546,11 @@ then the panel shall forthwith record the withdrawal or the fact that the compla
 
 (7) The person appointed to investigate the complaint or matter shall, in relation to that investigation, be under the direction and control of the Director General.
 
-### 20. Investigations by the Director General ...[^key-fb037f7eb180cf6cf27f061fede3e493][^key-517f8e5ffff9bd43578486585fb9de9f]
+### 20. Investigations by the Director General ...[^c-fb037f7eb180cf6cf27f061fede3e493][^c-517f8e5ffff9bd43578486585fb9de9f]
 
 (1) This regulation applies where the Director General has determined that the Director General should itself carry out the investigation of a complaint or conduct matter.
 
-(2)[^key-ac72940866d3317791d92b16be7b594e] The Director General shall designate both—
+(2)[^c-ac72940866d3317791d92b16be7b594e] The Director General shall designate both—
 
 - (a) a person to take charge of the investigation; and
 - (b) such members of the IOPC’s staff as are required by the Director General to assist the person designated to take charge of the investigation.
@@ -560,11 +560,11 @@ then the panel shall forthwith record the withdrawal or the fact that the compla
 - (a) the Director General acting personally; or
 - (b) a person who is authorised to exercise the function of taking charge of the investigation on behalf of the Director General by virtue of paragraph 6A of Schedule 2 to the 2002 Act (delegation of Director General’s functions).
 
-(3) Paragraph 19(4), (5), (7) and (8) of Schedule 3 to the 2002 Act (powers of constable for IOPC[^key-ff4f0fb2a6e963e477679524086c989f] staff) shall apply in relation to an investigation under this regulation, with the modification that the reference in paragraph 19(4)(a) to a member of the IOPC’s[^key-462c7d880107bf60aab71a5363d9a905] staff designated under paragraph 19(2) shall have effect as a reference to a member of the IOPC’s staff designated under paragraph (2) of this regulation.
+(3) Paragraph 19(4), (5), (7) and (8) of Schedule 3 to the 2002 Act (powers of constable for IOPC[^c-ff4f0fb2a6e963e477679524086c989f] staff) shall apply in relation to an investigation under this regulation, with the modification that the reference in paragraph 19(4)(a) to a member of the IOPC’s[^c-462c7d880107bf60aab71a5363d9a905] staff designated under paragraph 19(2) shall have effect as a reference to a member of the IOPC’s staff designated under paragraph (2) of this regulation.
 
-(4) Any order made under section 19 of, or paragraph 19(6) of Schedule 3 to, the 2002 Act (use of investigatory powers by or on behalf of the Director General; application of provisions of Police and Criminal Evidence Act 1984[^f00006] to investigations conducted by IOPC[^key-b14beda8ec70079a999309d4021750b6] staff) shall apply in relation to an investigation under this regulation, with the modification that any reference in the order to a member of the IOPC’s[^key-d34961fd0adf76659512dac3531673e9] staff designated under paragraph 19(2) of Schedule 3 to the 2002 Act shall have effect as a reference to a member of the IOPC’s staff designated under paragraph (2) of this regulation.
+(4) Any order made under section 19 of, or paragraph 19(6) of Schedule 3 to, the 2002 Act (use of investigatory powers by or on behalf of the Director General; application of provisions of Police and Criminal Evidence Act 1984[^f00006] to investigations conducted by IOPC[^c-b14beda8ec70079a999309d4021750b6] staff) shall apply in relation to an investigation under this regulation, with the modification that any reference in the order to a member of the IOPC’s[^c-d34961fd0adf76659512dac3531673e9] staff designated under paragraph 19(2) of Schedule 3 to the 2002 Act shall have effect as a reference to a member of the IOPC’s staff designated under paragraph (2) of this regulation.
 
-### 21. Combining and splitting investigations[^key-23cdd41af8fecc5a4c5192a746d7e958]
+### 21. Combining and splitting investigations[^c-23cdd41af8fecc5a4c5192a746d7e958]
 
 (1) Subject to paragraph (2), where the Director General is managing or carrying out an investigation the Director General may—
 
@@ -580,7 +580,7 @@ if it considers that it is more efficient and effective, or is otherwise in the 
 - (a) where an investigation is split into two or more separate investigations, those investigations may take different forms;
 - (b) two or more separate investigations which take different forms may be combined into a single investigation.
 
-### 22. Suspension and resumption of an investigation[^key-3fd67cdcf1b4ac06b649255dcf811f4d]
+### 22. Suspension and resumption of an investigation[^c-3fd67cdcf1b4ac06b649255dcf811f4d]
 
 (1) The Director General may suspend any investigation or other procedure under these Regulations which would, if it were to continue, prejudice any criminal proceedings.
 
@@ -600,13 +600,13 @@ if it considers that it is more efficient and effective, or is otherwise in the 
 
 (9) But nothing in paragraph (8) shall require the Director General to make a notification if it is of the opinion that that might prejudice any criminal investigation or pending proceedings or would be contrary to the public interest.
 
-### 23. Restrictions on proceedings pending the conclusion of an investigation[^key-8abaceb92c078c59152f9f6fd81589d1]
+### 23. Restrictions on proceedings pending the conclusion of an investigation[^c-8abaceb92c078c59152f9f6fd81589d1]
 
 Paragraph 20 of Schedule 3 to the 2002 Act shall apply in relation to a matter which is the subject of an investigation under this Part, modified so that it has effect as follows—
 
 > **20. Restrictions on proceedings pending the conclusion of an investigation**
 >
-> (1) No criminal proceedings shall be brought in relation to any matter which is the subject of an investigation in accordance with the provisions of Part 3 of the Elected Local Policing Bodies (Complaints and Misconduct) Regulations 2011 (“the 2011 Regulations) until a report on that investigation has been submitted to the Director General under regulation 25 (final reports on investigations) or, where the Director General has personally carried out the investigation, a report has been completed by the Director General[^key-8d62cdd888a7e4a7a6fbf8fe3569ffdc].
+> (1) No criminal proceedings shall be brought in relation to any matter which is the subject of an investigation in accordance with the provisions of Part 3 of the Elected Local Policing Bodies (Complaints and Misconduct) Regulations 2011 (“the 2011 Regulations) until a report on that investigation has been submitted to the Director General under regulation 25 (final reports on investigations) or, where the Director General has personally carried out the investigation, a report has been completed by the Director General[^c-8d62cdd888a7e4a7a6fbf8fe3569ffdc].
 >
 > (2) Nothing in this paragraph shall prevent the bringing of criminal proceedings in respect of any conduct at any time after the discontinuance, in accordance with the provisions of Part 3 of the 2011 Regulations, of the investigation which relates to that conduct.
 >
@@ -614,7 +614,7 @@ Paragraph 20 of Schedule 3 to the 2002 Act shall apply in relation to a matter w
 
 .
 
-### 24. Power to discontinue an investigation[^key-c8daeb833c1de5b890cf4ce748ca612d]
+### 24. Power to discontinue an investigation[^c-c8daeb833c1de5b890cf4ce748ca612d]
 
 (1) If at any time it appears to the Director General (whether on an application by a chief officer of police made in accordance with paragraph (3) or otherwise) that a complaint or conduct matter that is being investigated under the management of the Director General is of a description specified in paragraph (2), the Director General may by order require the discontinuance of the investigation.
 
@@ -640,7 +640,7 @@ Paragraph 20 of Schedule 3 to the 2002 Act shall apply in relation to a matter w
 
 (6) The Director General shall not discontinue any investigation that is being carried out by the Director General itself except in a case where the complaint or conduct matter under investigation falls within paragraph (2).
 
-(7) Where the Director General makes an order under paragraph (1) or discontinues an investigation being carried out by the Director General [^key-387a07ea111bd74b223089344d9f2c02]..., the Director General shall give notification of the discontinuance—
+(7) Where the Director General makes an order under paragraph (1) or discontinues an investigation being carried out by the Director General [^c-387a07ea111bd74b223089344d9f2c02]..., the Director General shall give notification of the discontinuance—
 
 - (a) to the police and crime panel; and
 - (b) to every person entitled to be kept properly informed in relation to the subject matter of the investigation under regulation 32(3).
@@ -666,27 +666,27 @@ Paragraph 20 of Schedule 3 to the 2002 Act shall apply in relation to a matter w
 
 (11) A chief officer of police or a police and crime panel shall comply with any directions given to him or to it under paragraph (8)(a).
 
-### 25. Reports on investigations[^key-129eb9dad9ab44f2bcd0bee92d71c8ee]
+### 25. Reports on investigations[^c-129eb9dad9ab44f2bcd0bee92d71c8ee]
 
 (1) This regulation applies on the completion of an investigation of a complaint or conduct matter.
 
 (2) A person appointed under regulation 19 (investigations managed by the Director General) shall submit a report on his investigation to the Director General.
 
-(3)[^key-b08e6e3cbac899a3562401103b740478] A person designated under regulation 20 (investigations by the Director General) as the person in charge of an investigation shall—
+(3)[^c-b08e6e3cbac899a3562401103b740478] A person designated under regulation 20 (investigations by the Director General) as the person in charge of an investigation shall—
 
 - (a) submit a report on the investigation to the Director General; or
 - (b) where the person in charge of the investigation is the Director General acting personally, complete a report on the investigation.
 
-(4) A person submitting or, in the case of an investigation under regulation 20 by the Director General acting personally, completing[^key-5f9c03e41f92ca0a4e9820f06db3beea] a report under this regulation shall not be prevented by any obligation of secrecy imposed by any rule of law or otherwise from including all such matters in his report as he thinks fit.
+(4) A person submitting or, in the case of an investigation under regulation 20 by the Director General acting personally, completing[^c-5f9c03e41f92ca0a4e9820f06db3beea] a report under this regulation shall not be prevented by any obligation of secrecy imposed by any rule of law or otherwise from including all such matters in his report as he thinks fit.
 
-### 26. Action in response to an investigation report[^key-9cc59c1ecc82816e53d8f3e823cf4811]
+### 26. Action in response to an investigation report[^c-9cc59c1ecc82816e53d8f3e823cf4811]
 
 (1) This regulation applies where—
 
 - (a) a report on an investigation carried out under the management of the Director General is submitted to the Director General under regulation 25(2); or
-- (b) a report on an investigation carried out by a person designated by the Director General is submitted to the Director General, or is otherwise completed,[^key-367b003108fe4be5d398deeaad0b8130] under regulation 25(3).
+- (b) a report on an investigation carried out by a person designated by the Director General is submitted to the Director General, or is otherwise completed,[^c-367b003108fe4be5d398deeaad0b8130] under regulation 25(3).
 
-(2) On receipt of the report , or on its completion by the Director General,[^key-7f65d74d2fd28586ed7689d66ee30aa1] the Director General—
+(2) On receipt of the report , or on its completion by the Director General,[^c-7f65d74d2fd28586ed7689d66ee30aa1] the Director General—
 
 - (a) shall determine whether the conditions set out in paragraphs (3) and (4) are satisfied in respect of the report;
 - (b) if the Director General determines that those conditions are so satisfied, shall notify the Director of Public Prosecutions of the determination and send him a copy of the report; and
@@ -718,16 +718,16 @@ if criminal proceedings are brought against any person by the Director of Public
 
 ## PART 4 — Resolution of Other Complaints
 
-### 27. Complaints to which this Part applies[^key-be7ea8c9ecf4b83bfc1e7b7552c17404]
+### 27. Complaints to which this Part applies[^c-be7ea8c9ecf4b83bfc1e7b7552c17404]
 
 This Part applies to a complaint which has been recorded by the police and crime panel unless the complaint—
 
 - (a) is one which has been, or must be, referred to the Director General under regulation 13, and is not for the time being referred back to the panel under regulation 14(2); or
 - (b) is one which the panel has decided to handle as permitted by regulation 15(2).
 
-### 28. Informal resolution[^key-8ad8c6bd554174b947d19bde00c31e2a]
+### 28. Informal resolution[^c-8ad8c6bd554174b947d19bde00c31e2a]
 
-(1)[^key-30f6a78496b67cfc99beec787c298cb7][^key-6c6b89a32feb19ddba48282acbd47786] If a complaint to which this Part applies concerns the conduct of—
+(1)[^c-30f6a78496b67cfc99beec787c298cb7][^c-6c6b89a32feb19ddba48282acbd47786] If a complaint to which this Part applies concerns the conduct of—
 
 - (a) a police and crime commissioner;
 - (b) a deputy police and crime commissioner; or
@@ -779,7 +779,7 @@ shall not be regarded as investigation for the purposes of this paragraph.
 
 (14) A statement made by any person for the purposes of the informal resolution of any complaint shall not be admissible in any subsequent criminal or civil proceedings except to the extent that it consists of an admission relating to a matter that has not been subjected to informal resolution.
 
-### 29. Resolution in accordance with Part 3 of the Local Government Act 2000[^key-6573d49d2ef3481dc0c8a94b26f64c4e][^key-ca485321bb6eb268ff122a0002fc93c9][^key-cbf6de2bda9e9196f10bbc6be2775ca4]
+### 29. Resolution in accordance with Part 3 of the Local Government Act 2000[^c-6573d49d2ef3481dc0c8a94b26f64c4e][^c-ca485321bb6eb268ff122a0002fc93c9][^c-cbf6de2bda9e9196f10bbc6be2775ca4]
 
 (1) If a complaint to which this Part applies concerns the conduct of—
 
@@ -794,13 +794,13 @@ the police and crime panel shall pass the complaint to the monitoring officer ap
 
 ## PART 5 — Provision and recording of information
 
-### 30. Address for receipt of complaints[^key-0f7b9ceb2889fa84a6a5e6c89285dd5c]
+### 30. Address for receipt of complaints[^c-0f7b9ceb2889fa84a6a5e6c89285dd5c]
 
 (1) A police and crime panel shall notify the elected local policing body for the panel’s police area of the name and address of the person to whom complaints should be directed.
 
 (2) The elected local policing body shall publish the information notified to it under paragraph (1) by such means as the police and crime panel shall specify.
 
-### 31. Copies of complaints etc[^key-3f5bb6044db7a42e3221943ab33d321c]
+### 31. Copies of complaints etc[^c-3f5bb6044db7a42e3221943ab33d321c]
 
 (1) Where a complaint is recorded under regulation 9(5), the police and crime panel shall—
 
@@ -816,7 +816,7 @@ the police and crime panel shall pass the complaint to the monitoring officer ap
 
 (4) Where a police and crime panel decides not to supply a copy of a complaint, it shall keep that decision under regular review.
 
-### 32. Duty to keep complainant and any interested person informed[^key-1622b683f3089bf9d07cb762a072df5a]
+### 32. Duty to keep complainant and any interested person informed[^c-1622b683f3089bf9d07cb762a072df5a]
 
 (1) This regulation applies—
 
@@ -858,7 +858,7 @@ the police and crime panel shall pass the complaint to the monitoring officer ap
 
 (10) Any notification under this regulation shall be given in writing, except in a case where the Director General gives the notification at a meeting held in consequence of a determination under paragraph (7), or where the Director General gives the notification by means other than writing in accordance with paragraph (9).
 
-### 33. Exceptions to the duty to keep the complainant and any interested person informed[^key-fb00586f10d60e7a044675ebfa61cd54]
+### 33. Exceptions to the duty to keep the complainant and any interested person informed[^c-fb00586f10d60e7a044675ebfa61cd54]
 
 (1) Subject to paragraph (2), the duties mentioned in regulations 26(2)(c) and 32(3) shall not apply in circumstances where in the opinion of the Director General the non-disclosure of information is necessary for the purpose of—
 
@@ -879,7 +879,7 @@ the police and crime panel shall pass the complaint to the monitoring officer ap
 - (a) the disclosure of that information may prejudice the welfare or safety of any third party;
 - (b) the information constitutes criminal intelligence.
 
-### 34. Keeping of records by police and crime panels[^key-0ee467ed2ca171a3b3bfb5125d9d7938]
+### 34. Keeping of records by police and crime panels[^c-0ee467ed2ca171a3b3bfb5125d9d7938]
 
 Every police and crime panel shall keep records, in such form as the Director General shall determine, of—
 
@@ -887,7 +887,7 @@ Every police and crime panel shall keep records, in such form as the Director Ge
 - (b) every conduct matter recorded by it under regulation 11 or 12;
 - (c) every exercise of a power or performance of a duty under these Regulations.
 
-### 35. Provision of information to the Director General[^key-20596312c38dc65857a661ec82aae7fd]
+### 35. Provision of information to the Director General[^c-20596312c38dc65857a661ec82aae7fd]
 
 (1) It shall be the duty of every police and crime panel, every relevant office holder and every chief officer of police—
 
@@ -908,7 +908,7 @@ as appear to the Director General to be required by the Director General for the
 
 (4) A requirement imposed by any notification under this regulation may authorise or require information or documents to which it relates to be provided to the Director General electronically.
 
-### 36. Access to premises on behalf of the Director General[^key-75118d21589c974774c64cba90c91966]
+### 36. Access to premises on behalf of the Director General[^c-75118d21589c974774c64cba90c91966]
 
 (1) Where—
 
@@ -939,13 +939,13 @@ the obligation to secure that the required access is allowed shall have effect a
 (5) The provisions of this regulation are in addition to, and without prejudice to—
 
 - (a) the rights of entry, search and seizure that are or may be conferred on—
-  - (i) a person designated for the purposes of regulation 20 (investigations by the Director General [^key-509cdce8aee934d78d328d39da3bb274]...), or
+  - (i) a person designated for the purposes of regulation 20 (investigations by the Director General [^c-509cdce8aee934d78d328d39da3bb274]...), or
   - (ii) any person who otherwise acts on behalf of the Director General,
 
   in his capacity as a constable or as a person with the powers and privileges of a constable; or
 - (b) the obligations on police and crime panels, relevant office holders and chief officers of police under regulation 6 (general duties of police and crime panels, relevant office holders and chief officers of police) and 35 (provision of information to the Director General).
 
-### 37. Manner and time limits of notifications[^key-455d89200e6049c24fb3ae7ce9ce52f4]
+### 37. Manner and time limits of notifications[^c-455d89200e6049c24fb3ae7ce9ce52f4]
 
 Regulation 27 of the 2004 Regulations shall apply in relation to notifications to be given under these Regulations, modified so that it has effect as follows—
 
@@ -957,7 +957,7 @@ Regulation 27 of the 2004 Regulations shall apply in relation to notifications t
 
 .
 
-### 38. Register to be kept by the Director General[^key-7e18772bb16e6cd65438ea726fa393e3]
+### 38. Register to be kept by the Director General[^c-7e18772bb16e6cd65438ea726fa393e3]
 
 (1) The Director General shall establish and maintain a register of all information supplied to the Director General by a police and crime panel or relevant office holder under these Regulations.
 
@@ -991,174 +991,174 @@ These Regulations are closely based on Part 2 of the Police Reform Act 2002 and 
 
 [^f00001]: Footnote: [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13).
 
-[^key-0682b7f7ad20c77a7126c3deb4e26cfa]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2012/62) applied (with modifications) (1.10.2017) by [The Fire and Rescue Authority (Police and Crime Commissioner) (Application of Local Policing Provisions, Inspection, Powers to Trade and Consequential Amendments) Order 2017 (S.I. 2017/863)](https://www.legislation.gov.uk/uksi/2017/863), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1), [28](https://www.legislation.gov.uk/uksi/2017/863/article/28), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/863/schedule/1)
+[^c-0682b7f7ad20c77a7126c3deb4e26cfa]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2012/62) applied (with modifications) (1.10.2017) by [The Fire and Rescue Authority (Police and Crime Commissioner) (Application of Local Policing Provisions, Inspection, Powers to Trade and Consequential Amendments) Order 2017 (S.I. 2017/863)](https://www.legislation.gov.uk/uksi/2017/863), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1), [28](https://www.legislation.gov.uk/uksi/2017/863/article/28), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/863/schedule/1)
 
-[^key-b02b9df39ce56ae4ba2bc0ea17f413f0]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2012/62) applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 52](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/52)
+[^c-b02b9df39ce56ae4ba2bc0ea17f413f0]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2012/62) applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 52](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/52)
 
-[^key-ca5abd1cb4218a3da64f0c56d845e97c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2012/62) applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/51)
+[^c-ca5abd1cb4218a3da64f0c56d845e97c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2012/62) applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/51)
 
-[^key-5c18d1bdd6a15fd68973bc55e6a17b00]: Commencement: Reg. 1 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-5c18d1bdd6a15fd68973bc55e6a17b00]: Commencement: Reg. 1 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-f47d2143cfbe3d7ab9c3361f7e093308]: Commencement: Reg. 2 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-f47d2143cfbe3d7ab9c3361f7e093308]: Commencement: Reg. 2 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-87460da3a216839ae30ac2c3a40ba457]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/62/regulation/2) modified (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 52(2)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/52/2)
+[^c-87460da3a216839ae30ac2c3a40ba457]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/62/regulation/2) modified (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 52(2)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/52/2)
 
-[^key-66068ac800df7c767daace095e24c9fb]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/62/regulation/2) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 51(2)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/51/2)
+[^c-66068ac800df7c767daace095e24c9fb]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/62/regulation/2) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 51(2)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/51/2)
 
 [^f00002]: Footnote: [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30).
 
 [^f00003]: Footnote: [S.I. 2004/643](https://www.legislation.gov.uk/uksi/2004/643), as amended by [S.I. 2005/3389](https://www.legislation.gov.uk/uksi/2005/3389), [S.I. 2006/1406](https://www.legislation.gov.uk/uksi/2006/1406) and [S.I. 2008/2866](https://www.legislation.gov.uk/uksi/2008/2866).
 
-[^key-775c186d2eb921153f803821afb436bb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/62/regulation/2/1) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(4)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/4/a/i) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-775c186d2eb921153f803821afb436bb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/62/regulation/2/1) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(4)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/4/a/i) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-f38427815468b275ab3295b8ecc8118a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/62/regulation/2/1) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/4/a/ii) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-f38427815468b275ab3295b8ecc8118a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/62/regulation/2/1) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/4/a/ii) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
 [^f00004]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16). Schedule 1 is amended by section 129(a) of the Police Act [1997 (c. 50)](https://www.legislation.gov.uk/ukpga/1997/50) and by [S.I. 1997/1377](https://www.legislation.gov.uk/uksi/1997/1377), [S.I. 1997/1844](https://www.legislation.gov.uk/uksi/1997/1844), [S.I. 1997/1845](https://www.legislation.gov.uk/uksi/1997/1845), [S.I. 1997/1846](https://www.legislation.gov.uk/uksi/1997/1846), [S.I. 1997/1847](https://www.legislation.gov.uk/uksi/1997/1847), [S.I. 1987/1849](https://www.legislation.gov.uk/uksi/1987/1849), [S.I. 1987/1850](https://www.legislation.gov.uk/uksi/1987/1850), [S.I. 1997/1855](https://www.legislation.gov.uk/uksi/1997/1855), [S.I. 1987/1857](https://www.legislation.gov.uk/uksi/1987/1857) and [S.I. 2009/119](https://www.legislation.gov.uk/uksi/2009/119).
 
-[^key-cb5546ddf52c18c5e868f1f38333096c]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/62) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [reg. 21(2)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/2/a) (with [regs. 21(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-cb5546ddf52c18c5e868f1f38333096c]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/62) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [reg. 21(2)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/2/a) (with [regs. 21(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-c8b3608f9e25635bad3bbee1ec7107c2]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2012/62/regulation/2/2) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(4)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/4/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-c8b3608f9e25635bad3bbee1ec7107c2]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2012/62/regulation/2/2) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(4)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/4/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-75218001106d643cfcbdf1a9ca581a1a]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/62) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [reg. 21(2)(d)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/2/d) (with [regs. 21(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-75218001106d643cfcbdf1a9ca581a1a]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/62) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [reg. 21(2)(d)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/2/d) (with [regs. 21(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-fea62a35179d2dc6d69859197742e10b]: Commencement: Reg. 3 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-fea62a35179d2dc6d69859197742e10b]: Commencement: Reg. 3 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-e9db941702674f97d90210561111510b]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/62) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [reg. 21(2)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/2/c) (with [regs. 21(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-e9db941702674f97d90210561111510b]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/62) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [reg. 21(2)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/2/c) (with [regs. 21(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-29de3b5ffcfe10cf777e6101ca3f4681]: Textual amendment: [Reg. 3(4A)](https://www.legislation.gov.uk/uksi/2012/62/regulation/3/4A) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(5)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/5/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-29de3b5ffcfe10cf777e6101ca3f4681]: Textual amendment: [Reg. 3(4A)](https://www.legislation.gov.uk/uksi/2012/62/regulation/3/4A) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(5)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/5/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-b9b02e3283c3428cb23ddc0f8211a38b]: Textual amendment: Word in [reg. 3(5)](https://www.legislation.gov.uk/uksi/2012/62/regulation/3/5) substituted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(5)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/5/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-b9b02e3283c3428cb23ddc0f8211a38b]: Textual amendment: Word in [reg. 3(5)](https://www.legislation.gov.uk/uksi/2012/62/regulation/3/5) substituted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(5)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/5/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-085759206c7652ce3d0c4c8deb8e8948]: Textual amendment: Word in [reg. 3(7)](https://www.legislation.gov.uk/uksi/2012/62/regulation/3/7) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(5)(c)(i)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/5/c/i) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-085759206c7652ce3d0c4c8deb8e8948]: Textual amendment: Word in [reg. 3(7)](https://www.legislation.gov.uk/uksi/2012/62/regulation/3/7) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(5)(c)(i)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/5/c/i) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-bdea98099b4609d703d3b2ca37bed3a7]: Textual amendment: Words in [reg. 3(7)](https://www.legislation.gov.uk/uksi/2012/62/regulation/3/7) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/5/c/ii) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-bdea98099b4609d703d3b2ca37bed3a7]: Textual amendment: Words in [reg. 3(7)](https://www.legislation.gov.uk/uksi/2012/62/regulation/3/7) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/5/c/ii) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-48979e1b89375761ef304b67a5601e97]: Textual amendment: [Regs. 3A](https://www.legislation.gov.uk/uksi/2012/62/regulation/3A), [3B](https://www.legislation.gov.uk/uksi/2012/62/regulation/3B) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(6)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/6) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-48979e1b89375761ef304b67a5601e97]: Textual amendment: [Regs. 3A](https://www.legislation.gov.uk/uksi/2012/62/regulation/3A), [3B](https://www.legislation.gov.uk/uksi/2012/62/regulation/3B) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(6)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/6) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-0958bd63ab8cdd273b1a44849cff7d5e]: Commencement: Reg. 4 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-0958bd63ab8cdd273b1a44849cff7d5e]: Commencement: Reg. 4 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-6b7f4bc5e7da2d8bb3cf4e8d3e794260]: Commencement: Reg. 5 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-6b7f4bc5e7da2d8bb3cf4e8d3e794260]: Commencement: Reg. 5 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-c2510c4039d4074b33a4eb7978051d40]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/2012/62/regulation/5/1) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(7)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/7/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-c2510c4039d4074b33a4eb7978051d40]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/2012/62/regulation/5/1) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(7)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/7/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-3d16a6635368e94902df668161f588a3]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/62) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [reg. 21(2)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/2/b) (with [regs. 21(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-3d16a6635368e94902df668161f588a3]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/62) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [reg. 21(2)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/2/b) (with [regs. 21(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-62ec4daf1386396490b8751c993c1bee]: Textual amendment: Word in [reg. 5(6)](https://www.legislation.gov.uk/uksi/2012/62/regulation/5/6) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(7)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/7/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-62ec4daf1386396490b8751c993c1bee]: Textual amendment: Word in [reg. 5(6)](https://www.legislation.gov.uk/uksi/2012/62/regulation/5/6) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(7)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/7/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-52c00b9ce5d26c254beee24dc1e1b61e]: Commencement: Reg. 6 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-52c00b9ce5d26c254beee24dc1e1b61e]: Commencement: Reg. 6 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-bcc2b86f58d275a751f6666667ad2840]: Textual amendment: Word in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2012/62/regulation/6/4) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(8)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/8) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-bcc2b86f58d275a751f6666667ad2840]: Textual amendment: Word in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2012/62/regulation/6/4) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(8)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/8) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-5ba5dd1999f329aed520b4974f2b843f]: Commencement: Reg. 7 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-5ba5dd1999f329aed520b4974f2b843f]: Commencement: Reg. 7 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-0e4bebb3d48dbf118d26edb0371f648b]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/62/regulation/7) modified (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 52(3)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/52/3)
+[^c-0e4bebb3d48dbf118d26edb0371f648b]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/62/regulation/7) modified (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 52(3)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/52/3)
 
-[^key-8a9a294d907eedd0ca706e5962a3c8e8]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/62/regulation/7) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 51(3)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/51/3)
+[^c-8a9a294d907eedd0ca706e5962a3c8e8]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/62/regulation/7) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 51(3)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/51/3)
 
 [^f00005]: Footnote: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29). Section 73(1) was substituted by section 9 of the Greater London Authority Act [2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24).
 
-[^key-6fa4618019985aa06caf4d2a731d08f2]: Commencement: Reg. 8 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-6fa4618019985aa06caf4d2a731d08f2]: Commencement: Reg. 8 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-c52a933e994dd30cf5af52d9c21c2b6d]: Commencement: Reg. 9 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-c52a933e994dd30cf5af52d9c21c2b6d]: Commencement: Reg. 9 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-f99b2118db8b6384fff42d1384f3a010]: Commencement: Reg. 10 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-f99b2118db8b6384fff42d1384f3a010]: Commencement: Reg. 10 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-5e386309c11dce40ecc522899f75abb3]: Commencement: Reg. 11 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-5e386309c11dce40ecc522899f75abb3]: Commencement: Reg. 11 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-8479a8a10db277ce8905d16210b3accf]: Commencement: Reg. 12 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-8479a8a10db277ce8905d16210b3accf]: Commencement: Reg. 12 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-19756743464cb2c81421cbe68ffb3497]: Commencement: Reg. 13 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-19756743464cb2c81421cbe68ffb3497]: Commencement: Reg. 13 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-3c386c7e669d3a12e7d97b6328a725e9]: Commencement: Reg. 14 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-3c386c7e669d3a12e7d97b6328a725e9]: Commencement: Reg. 14 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-d72a1a5a1545969be9448271e44f5e4d]: Commencement: Reg. 15 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-d72a1a5a1545969be9448271e44f5e4d]: Commencement: Reg. 15 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-fc31d28aac7db3c690ea439eb66a2aa8]: Modification: [Reg. 15(3)(a)](https://www.legislation.gov.uk/uksi/2012/62/regulation/15/3/a) modified (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 52(4)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/52/4)
+[^c-fc31d28aac7db3c690ea439eb66a2aa8]: Modification: [Reg. 15(3)(a)](https://www.legislation.gov.uk/uksi/2012/62/regulation/15/3/a) modified (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 52(4)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/52/4)
 
-[^key-763c601b8bf77aaaedd8a7110f78670b]: Modification: [Reg. 15(3)(a)](https://www.legislation.gov.uk/uksi/2012/62/regulation/15/3/a) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 51(4)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/51/4)
+[^c-763c601b8bf77aaaedd8a7110f78670b]: Modification: [Reg. 15(3)(a)](https://www.legislation.gov.uk/uksi/2012/62/regulation/15/3/a) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 51(4)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/51/4)
 
-[^key-27223c3716d4356081b24c72e6f194da]: Commencement: Reg. 16 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-27223c3716d4356081b24c72e6f194da]: Commencement: Reg. 16 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-2935af96191532656175527a40b80c4a]: Commencement: Reg. 17 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-2935af96191532656175527a40b80c4a]: Commencement: Reg. 17 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-a25df8e5b5241c14074cf00ca08de34d]: Commencement: Reg. 18 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-a25df8e5b5241c14074cf00ca08de34d]: Commencement: Reg. 18 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-f969b26b0115e968b44b060d444cf320]: Textual amendment: Word in [reg. 18(4)(b)](https://www.legislation.gov.uk/uksi/2012/62/regulation/18/4/b) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(9)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/9) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-f969b26b0115e968b44b060d444cf320]: Textual amendment: Word in [reg. 18(4)(b)](https://www.legislation.gov.uk/uksi/2012/62/regulation/18/4/b) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(9)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/9) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-d3112043811747ee1ced64953f2342db]: Commencement: Reg. 19 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-d3112043811747ee1ced64953f2342db]: Commencement: Reg. 19 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-fb037f7eb180cf6cf27f061fede3e493]: Commencement: Reg. 20 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-fb037f7eb180cf6cf27f061fede3e493]: Commencement: Reg. 20 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-517f8e5ffff9bd43578486585fb9de9f]: Textual amendment: Word in [reg. 20](https://www.legislation.gov.uk/uksi/2012/62/regulation/20) heading omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(10)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/10/a) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
+[^c-517f8e5ffff9bd43578486585fb9de9f]: Textual amendment: Word in [reg. 20](https://www.legislation.gov.uk/uksi/2012/62/regulation/20) heading omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(10)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/10/a) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
 
-[^key-ac72940866d3317791d92b16be7b594e]: Textual amendment: [Reg. 20(2)](https://www.legislation.gov.uk/uksi/2012/62/regulation/20/2)[(2A)](https://www.legislation.gov.uk/uksi/2012/62/regulation/20/2A) substituted for [reg. 20(2)](https://www.legislation.gov.uk/uksi/2012/62/regulation/20/2) (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(10)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/10/b) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
+[^c-ac72940866d3317791d92b16be7b594e]: Textual amendment: [Reg. 20(2)](https://www.legislation.gov.uk/uksi/2012/62/regulation/20/2)[(2A)](https://www.legislation.gov.uk/uksi/2012/62/regulation/20/2A) substituted for [reg. 20(2)](https://www.legislation.gov.uk/uksi/2012/62/regulation/20/2) (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(10)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/10/b) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
 
-[^key-ff4f0fb2a6e963e477679524086c989f]: Textual amendment: Word in [reg. 20(3)](https://www.legislation.gov.uk/uksi/2012/62/regulation/20/3) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(10)(c)(i)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/10/c/i) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
+[^c-ff4f0fb2a6e963e477679524086c989f]: Textual amendment: Word in [reg. 20(3)](https://www.legislation.gov.uk/uksi/2012/62/regulation/20/3) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(10)(c)(i)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/10/c/i) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
 
-[^key-462c7d880107bf60aab71a5363d9a905]: Textual amendment: Word in [reg. 20(3)](https://www.legislation.gov.uk/uksi/2012/62/regulation/20/3) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(10)(c)(ii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/10/c/ii) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
+[^c-462c7d880107bf60aab71a5363d9a905]: Textual amendment: Word in [reg. 20(3)](https://www.legislation.gov.uk/uksi/2012/62/regulation/20/3) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(10)(c)(ii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/10/c/ii) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
 
 [^f00006]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
 
-[^key-b14beda8ec70079a999309d4021750b6]: Textual amendment: Word in [reg. 20(4)](https://www.legislation.gov.uk/uksi/2012/62/regulation/20/4) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(10)(d)(i)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/10/d/i) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
+[^c-b14beda8ec70079a999309d4021750b6]: Textual amendment: Word in [reg. 20(4)](https://www.legislation.gov.uk/uksi/2012/62/regulation/20/4) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(10)(d)(i)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/10/d/i) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
 
-[^key-d34961fd0adf76659512dac3531673e9]: Textual amendment: Word in [reg. 20(4)](https://www.legislation.gov.uk/uksi/2012/62/regulation/20/4) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(10)(d)(ii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/10/d/ii) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
+[^c-d34961fd0adf76659512dac3531673e9]: Textual amendment: Word in [reg. 20(4)](https://www.legislation.gov.uk/uksi/2012/62/regulation/20/4) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(10)(d)(ii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/10/d/ii) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
 
-[^key-23cdd41af8fecc5a4c5192a746d7e958]: Commencement: Reg. 21 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-23cdd41af8fecc5a4c5192a746d7e958]: Commencement: Reg. 21 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-3fd67cdcf1b4ac06b649255dcf811f4d]: Commencement: Reg. 22 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-3fd67cdcf1b4ac06b649255dcf811f4d]: Commencement: Reg. 22 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-8abaceb92c078c59152f9f6fd81589d1]: Commencement: Reg. 23 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-8abaceb92c078c59152f9f6fd81589d1]: Commencement: Reg. 23 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-8d62cdd888a7e4a7a6fbf8fe3569ffdc]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/2012/62/regulation/23) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(11)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/11) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-8d62cdd888a7e4a7a6fbf8fe3569ffdc]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/2012/62/regulation/23) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(11)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/11) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-c8daeb833c1de5b890cf4ce748ca612d]: Commencement: Reg. 24 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-c8daeb833c1de5b890cf4ce748ca612d]: Commencement: Reg. 24 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-387a07ea111bd74b223089344d9f2c02]: Textual amendment: Word in [reg. 24(7)](https://www.legislation.gov.uk/uksi/2012/62/regulation/24/7) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(12)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/12) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-387a07ea111bd74b223089344d9f2c02]: Textual amendment: Word in [reg. 24(7)](https://www.legislation.gov.uk/uksi/2012/62/regulation/24/7) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(12)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/12) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-129eb9dad9ab44f2bcd0bee92d71c8ee]: Commencement: Reg. 25 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-129eb9dad9ab44f2bcd0bee92d71c8ee]: Commencement: Reg. 25 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-b08e6e3cbac899a3562401103b740478]: Textual amendment: [Reg. 25(3)](https://www.legislation.gov.uk/uksi/2012/62/regulation/25/3) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(13)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/13/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-b08e6e3cbac899a3562401103b740478]: Textual amendment: [Reg. 25(3)](https://www.legislation.gov.uk/uksi/2012/62/regulation/25/3) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(13)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/13/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-5f9c03e41f92ca0a4e9820f06db3beea]: Textual amendment: Words in [reg. 25(4)](https://www.legislation.gov.uk/uksi/2012/62/regulation/25/4) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(13)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/13/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-5f9c03e41f92ca0a4e9820f06db3beea]: Textual amendment: Words in [reg. 25(4)](https://www.legislation.gov.uk/uksi/2012/62/regulation/25/4) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(13)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/13/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-9cc59c1ecc82816e53d8f3e823cf4811]: Commencement: Reg. 26 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-9cc59c1ecc82816e53d8f3e823cf4811]: Commencement: Reg. 26 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-367b003108fe4be5d398deeaad0b8130]: Textual amendment: Words in [reg. 26(1)(b)](https://www.legislation.gov.uk/uksi/2012/62/regulation/26/1/b) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(14)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/14/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-367b003108fe4be5d398deeaad0b8130]: Textual amendment: Words in [reg. 26(1)(b)](https://www.legislation.gov.uk/uksi/2012/62/regulation/26/1/b) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(14)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/14/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-7f65d74d2fd28586ed7689d66ee30aa1]: Textual amendment: Words in [reg. 26(2)](https://www.legislation.gov.uk/uksi/2012/62/regulation/26/2) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(14)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/14/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-7f65d74d2fd28586ed7689d66ee30aa1]: Textual amendment: Words in [reg. 26(2)](https://www.legislation.gov.uk/uksi/2012/62/regulation/26/2) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(14)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/14/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-be7ea8c9ecf4b83bfc1e7b7552c17404]: Commencement: Reg. 27 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-be7ea8c9ecf4b83bfc1e7b7552c17404]: Commencement: Reg. 27 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-8ad8c6bd554174b947d19bde00c31e2a]: Commencement: Reg. 28 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-8ad8c6bd554174b947d19bde00c31e2a]: Commencement: Reg. 28 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-30f6a78496b67cfc99beec787c298cb7]: Modification: [Reg. 28(1)](https://www.legislation.gov.uk/uksi/2012/62/regulation/28/1) modified (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 52(5)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/52/5)
+[^c-30f6a78496b67cfc99beec787c298cb7]: Modification: [Reg. 28(1)](https://www.legislation.gov.uk/uksi/2012/62/regulation/28/1) modified (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 52(5)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/52/5)
 
-[^key-6c6b89a32feb19ddba48282acbd47786]: Modification: [Reg. 28(1)](https://www.legislation.gov.uk/uksi/2012/62/regulation/28/1) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 51(5)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/51/5)
+[^c-6c6b89a32feb19ddba48282acbd47786]: Modification: [Reg. 28(1)](https://www.legislation.gov.uk/uksi/2012/62/regulation/28/1) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 51(5)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/51/5)
 
-[^key-6573d49d2ef3481dc0c8a94b26f64c4e]: Commencement: Reg. 29 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-6573d49d2ef3481dc0c8a94b26f64c4e]: Commencement: Reg. 29 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-ca485321bb6eb268ff122a0002fc93c9]: Modification: [Reg. 29](https://www.legislation.gov.uk/uksi/2012/62/regulation/29) modified (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 52(6)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/52/6)
+[^c-ca485321bb6eb268ff122a0002fc93c9]: Modification: [Reg. 29](https://www.legislation.gov.uk/uksi/2012/62/regulation/29) modified (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 52(6)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/52/6)
 
-[^key-cbf6de2bda9e9196f10bbc6be2775ca4]: Modification: [Reg. 29](https://www.legislation.gov.uk/uksi/2012/62/regulation/29) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 51(6)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/51/6)
+[^c-cbf6de2bda9e9196f10bbc6be2775ca4]: Modification: [Reg. 29](https://www.legislation.gov.uk/uksi/2012/62/regulation/29) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 51(6)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/51/6)
 
 [^f00007]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22). Section 57A was inserted by the Local Government and Public Involvement in Health Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28).
 
-[^key-0f7b9ceb2889fa84a6a5e6c89285dd5c]: Commencement: Reg. 30 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-0f7b9ceb2889fa84a6a5e6c89285dd5c]: Commencement: Reg. 30 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-3f5bb6044db7a42e3221943ab33d321c]: Commencement: Reg. 31 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-3f5bb6044db7a42e3221943ab33d321c]: Commencement: Reg. 31 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-1622b683f3089bf9d07cb762a072df5a]: Commencement: Reg. 32 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-1622b683f3089bf9d07cb762a072df5a]: Commencement: Reg. 32 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-fb00586f10d60e7a044675ebfa61cd54]: Commencement: Reg. 33 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-fb00586f10d60e7a044675ebfa61cd54]: Commencement: Reg. 33 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-0ee467ed2ca171a3b3bfb5125d9d7938]: Commencement: Reg. 34 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-0ee467ed2ca171a3b3bfb5125d9d7938]: Commencement: Reg. 34 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-20596312c38dc65857a661ec82aae7fd]: Commencement: Reg. 35 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-20596312c38dc65857a661ec82aae7fd]: Commencement: Reg. 35 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-75118d21589c974774c64cba90c91966]: Commencement: Reg. 36 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-75118d21589c974774c64cba90c91966]: Commencement: Reg. 36 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-509cdce8aee934d78d328d39da3bb274]: Textual amendment: Word in [reg. 36(5)(a)(i)](https://www.legislation.gov.uk/uksi/2012/62/regulation/36/5/a/i) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(15)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/15) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-509cdce8aee934d78d328d39da3bb274]: Textual amendment: Word in [reg. 36(5)(a)(i)](https://www.legislation.gov.uk/uksi/2012/62/regulation/36/5/a/i) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(15)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/15) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-455d89200e6049c24fb3ae7ce9ce52f4]: Commencement: Reg. 37 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-455d89200e6049c24fb3ae7ce9ce52f4]: Commencement: Reg. 37 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
 
-[^key-7e18772bb16e6cd65438ea726fa393e3]: Commencement: Reg. 38 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+[^c-7e18772bb16e6cd65438ea726fa393e3]: Commencement: Reg. 38 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)

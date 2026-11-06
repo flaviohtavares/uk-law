@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Designation) (No. 2) Order 2003 (revoked)[^key-60a8e4acd092c38de8650aceab518a8f]
+The European Communities (Designation) (No. 2) Order 2003 (revoked)[^c-60a8e4acd092c38de8650aceab518a8f]
 
 Made
 
@@ -51,40 +51,40 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-60a8e4acd092c38de8650aceab518a8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60a8e4acd092c38de8650aceab518a8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-60a8e4acd092c38de8650aceab518a8f]
+## 1. Citation, commencement and interpretation[^c-60a8e4acd092c38de8650aceab518a8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of the National Assembly for Wales[^key-60a8e4acd092c38de8650aceab518a8f]
+## 2. Designation of the National Assembly for Wales[^c-60a8e4acd092c38de8650aceab518a8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of designation[^key-60a8e4acd092c38de8650aceab518a8f]
+## 3. Revocation of designation[^c-60a8e4acd092c38de8650aceab518a8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-60a8e4acd092c38de8650aceab518a8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60a8e4acd092c38de8650aceab518a8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Matters in relation to which the National Assembly for Wales is designated[^key-60a8e4acd092c38de8650aceab518a8f]
+## SCHEDULE — Matters in relation to which the National Assembly for Wales is designated[^c-60a8e4acd092c38de8650aceab518a8f]
 
 Article 2
 
-[^key-60a8e4acd092c38de8650aceab518a8f]
+[^c-60a8e4acd092c38de8650aceab518a8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-60a8e4acd092c38de8650aceab518a8f]
+[^c-60a8e4acd092c38de8650aceab518a8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-60a8e4acd092c38de8650aceab518a8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60a8e4acd092c38de8650aceab518a8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-60a8e4acd092c38de8650aceab518a8f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2003/1246) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-60a8e4acd092c38de8650aceab518a8f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2003/1246) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

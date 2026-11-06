@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 138. Income treated as capital[^key-6ef4c6ad7551af71aa2bf113355fec1e]
+## 138. Income treated as capital[^c-6ef4c6ad7551af71aa2bf113355fec1e]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Any amount by way of a refund of tax deducted from a student’s income shall be
 
 ## Annotations
 
-[^key-6ef4c6ad7551af71aa2bf113355fec1e]: Commencement: Reg. 138 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-6ef4c6ad7551af71aa2bf113355fec1e]: Commencement: Reg. 138 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

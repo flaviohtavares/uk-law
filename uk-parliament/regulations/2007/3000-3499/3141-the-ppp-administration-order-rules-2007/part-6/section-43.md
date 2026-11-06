@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Hearing of application[^key-78659e747093f97d21fd884d39e3031e]
+## 43. Hearing of application[^c-78659e747093f97d21fd884d39e3031e]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ the jurisdiction of the court to hear and determine the application may be exerc
 
 ## Annotations
 
-[^key-78659e747093f97d21fd884d39e3031e]: Commencement: [Rule 43](https://www.legislation.gov.uk/uksi/2007/3141/rule/43) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-78659e747093f97d21fd884d39e3031e]: Commencement: [Rule 43](https://www.legislation.gov.uk/uksi/2007/3141/rule/43) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

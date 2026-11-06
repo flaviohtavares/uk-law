@@ -271,11 +271,11 @@ The Secretary of State, having been designated [^c1929211] for the purposes of s
 
   .
 
-## 3. ROMP applications: suspension of planning permission for minerals development if screening or scoping information is not provided[^key-c8e95f20a31745128c6b8f821f5f5b65]
+## 3. ROMP applications: suspension of planning permission for minerals development if screening or scoping information is not provided[^c-c8e95f20a31745128c6b8f821f5f5b65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. ROMP applications: duty to make a prohibition order after two years suspension of permission[^key-636da7b4d5db672072147fd4fe78b98d]
+## 4. ROMP applications: duty to make a prohibition order after two years suspension of permission[^c-636da7b4d5db672072147fd4fe78b98d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -323,6 +323,6 @@ An impact assessment has been prepared in relation to these Regulations. It has 
 
 [^c1929216]: Marginal citation: [1995 c.25](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-c8e95f20a31745128c6b8f821f5f5b65]: Textual amendment: Reg. 3 revoked (1.9.2008) by [The Town and Country Planning (Environmental Impact Assessment) (Amendment) (England) Regulations 2008 (S.I. 2008/2093)](https://www.legislation.gov.uk/uksi/2008/2093), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2093/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2008/2093/regulation/13)
+[^c-c8e95f20a31745128c6b8f821f5f5b65]: Textual amendment: Reg. 3 revoked (1.9.2008) by [The Town and Country Planning (Environmental Impact Assessment) (Amendment) (England) Regulations 2008 (S.I. 2008/2093)](https://www.legislation.gov.uk/uksi/2008/2093), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2093/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2008/2093/regulation/13)
 
-[^key-636da7b4d5db672072147fd4fe78b98d]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/1556/regulation/4) revoked (1.9.2008) by [The Town and Country Planning (Environmental Impact Assessment) (Amendment) (England) Regulations 2008 (S.I. 2008/2093)](https://www.legislation.gov.uk/uksi/2008/2093), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2093/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2008/2093/regulation/13)
+[^c-636da7b4d5db672072147fd4fe78b98d]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/1556/regulation/4) revoked (1.9.2008) by [The Town and Country Planning (Environmental Impact Assessment) (Amendment) (England) Regulations 2008 (S.I. 2008/2093)](https://www.legislation.gov.uk/uksi/2008/2093), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2093/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2008/2093/regulation/13)

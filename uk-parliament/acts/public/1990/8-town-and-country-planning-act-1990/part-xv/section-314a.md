@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 314A. Wales: duties relating to listed buildings and features of architectural or historic interest[^key-fc8e9a50f6a734a54a611243290089ee]
+## 314A. Wales: duties relating to listed buildings and features of architectural or historic interest[^c-fc8e9a50f6a734a54a611243290089ee]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc8e9a50f6a734a54a611243290089ee]: Textual amendment: S. 314A inserted (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 90](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/90) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-fc8e9a50f6a734a54a611243290089ee]: Textual amendment: S. 314A inserted (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 90](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/90) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)

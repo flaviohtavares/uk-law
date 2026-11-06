@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Interoperability for car radio receivers[^key-46b13c758df78736a06b2e58cc0baee1]
+## 22. Interoperability for car radio receivers[^c-46b13c758df78736a06b2e58cc0baee1]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-46b13c758df78736a06b2e58cc0baee1]: Commencement: Reg. 22 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
+[^c-46b13c758df78736a06b2e58cc0baee1]: Commencement: Reg. 22 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
 
 [^c24305161]: Marginal citation: [1990 c.42](https://www.legislation.gov.uk/ukpga/1990/42).
 

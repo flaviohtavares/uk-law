@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Authorised excuses for failures as to return and declarations.[^c14495051][^c14495061][^c14495071][^c14495081][^key-a74e98e474fb049a86157667748ff177][^c14479931]
+## 86. Authorised excuses for failures as to return and declarations.[^c14495051][^c14495061][^c14495071][^c14495081][^c-a74e98e474fb049a86157667748ff177][^c14479931]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) the High Court, except in relation to a local government election in Scotland;
 - (b) an election court; or
-- (c) the county court[^key-19c8132a299aac7980702b2b96e43c55].
+- (c) the county court[^c-19c8132a299aac7980702b2b96e43c55].
 
 (1A)[^c14495091] Where a person makes an application under this section he shall notify the Director of Public Prosecutions of the application and the Director or his assistant or any barrister, advocate, solicitor or authorised person[^c19429621] duly appointed as the Director’s representative may attend the hearing of the application and make representations at the hearing in respect of it.
 
@@ -78,11 +78,11 @@ the court shall relieve the candidate from the consequences of the act or omissi
 
 [^c14495081]: Modification: S. 86 applied (with modifications) (N.I.) (4.5.1996) by [S.I. 1996/1220](https://www.legislation.gov.uk/uksi/1996/1220), [art. 3(1)(5)-(8)](https://www.legislation.gov.uk/uksi/1996/1220/article/3/1/5), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/1220/schedule/1)
 
-[^key-a74e98e474fb049a86157667748ff177]: Modification: Ss. 73-90D restricted (W.) (4.12.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) (No. 2) Regulations 2020 (S.I. 2020/1399)](https://www.legislation.gov.uk/wsi/2020/1399), [regs. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2), [7(2)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/2) (with [reg. 7(8)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/8))
+[^c-a74e98e474fb049a86157667748ff177]: Modification: Ss. 73-90D restricted (W.) (4.12.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) (No. 2) Regulations 2020 (S.I. 2020/1399)](https://www.legislation.gov.uk/wsi/2020/1399), [regs. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2), [7(2)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/2) (with [reg. 7(8)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/8))
 
 [^c14479931]: Textual amendment: S. 17(1) substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/10); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))
 
-[^key-19c8132a299aac7980702b2b96e43c55]: Textual amendment: Words in s. 86(1)(c) substituted (22.4.2014 with a view to the inserted references to the county court including (as in other places in this Act) a county court in Northern Ireland) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-19c8132a299aac7980702b2b96e43c55]: Textual amendment: Words in s. 86(1)(c) substituted (22.4.2014 with a view to the inserted references to the county court including (as in other places in this Act) a county court in Northern Ireland) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c14495091]: Textual amendment: S. 86(1A) inserted by [Representation of the People Act 1985 (c. 50, SIF 42)](https://www.legislation.gov.uk/ukpga/1985/50), [s. 24](https://www.legislation.gov.uk/ukpga/1985/50/section/24), [Sch. 4 para. 30](https://www.legislation.gov.uk/ukpga/1985/50/schedule/4/paragraph/30)(*a*)
 

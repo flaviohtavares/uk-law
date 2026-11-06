@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Retention of existing grounds for deportation[^key-8debb6f564f895960dd9f04c706f9b08]
+## 10. Retention of existing grounds for deportation[^c-8debb6f564f895960dd9f04c706f9b08]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,4 +80,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8debb6f564f895960dd9f04c706f9b08]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2020/1/section/10) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/e)
+[^c-8debb6f564f895960dd9f04c706f9b08]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2020/1/section/10) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 115. Amendment of regulation 11[^key-8bae598e1ffaa8d74d414029070e1d45]
+## 115. Amendment of regulation 11[^c-8bae598e1ffaa8d74d414029070e1d45]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In regulation 11 (retirement and dependants’ pensions)—
 
 ## Annotations
 
-[^key-8bae598e1ffaa8d74d414029070e1d45]: Commencement: [Reg. 115](https://www.legislation.gov.uk/ssi/2011/364/regulation/115) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-8bae598e1ffaa8d74d414029070e1d45]: Commencement: [Reg. 115](https://www.legislation.gov.uk/ssi/2011/364/regulation/115) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

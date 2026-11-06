@@ -69,7 +69,7 @@ These Regulations may be cited as the Civil Legal Aid (Statutory Charge) Regulat
     - (aa) a child; or
     - (bb) a vulnerable adult, but only to the extent that the matter arises out of a family relationship;
     - (iii) paragraph 10 (unlawful removal of children);
-    - (iv) paragraph 11 (family homes and domestic abuse[^key-4f135d6e65f40a92e6048cef74f1ddbd]);
+    - (iv) paragraph 11 (family homes and domestic abuse[^c-4f135d6e65f40a92e6048cef74f1ddbd]);
     - (v) paragraph 12 (victims of domestic abuse and family matters);
     - (vi) paragraph 13 (protection of children and family matters);
     - (vii) paragraph 14 (mediation in family disputes);
@@ -85,14 +85,14 @@ These Regulations may be cited as the Civil Legal Aid (Statutory Charge) Regulat
 - “**legal aid only costs**” means those costs described as such under whichever of the following contracts between the Lord Chancellor and the provider governs the provision of the civil legal services in the relevant proceedings or relevant dispute—
   - (a) the 2010 Standard Civil Contract;
   - (b) the 2013 Standard Civil Contract;
-  - (c) the 2013 Individual Case Contract (High Cost Civil); [^key-8824266f40061b1d794dfc98280f41c1]...
+  - (c) the 2013 Individual Case Contract (High Cost Civil); [^c-8824266f40061b1d794dfc98280f41c1]...
   - (d) the 2013 Individual Case Contract (Civil) [^c21685741];
-  - (e) the 2014 Standard Civil Contract;[^key-47e53a2e58126dbd06b6541b561d5090] [^key-b9dda686d6670111aa5e26a83465544f]...
-  - (f) the 2014 Standard Civil Contract (Welfare Benefits); [^key-97bc8b9bf0c4f317d19a98fe3214de9e]...[^key-cce191c7021813da80ce6365b6b80910]
-  - (g) the 2015 Standard Civil Contract; [^key-017cc76547186bb3a538950fe29c2a47]...[^key-9fa08ed22b8d2959cbecd4f9f154d156]
-  - (h) the 2016 Standard Civil Contract (Welfare Benefits); [^key-9d7a3c4b8d5d620963f3ae5d55d829ca]...[^key-b90cbfedc0a2f68fc7091792b2869803]
-  - (i) the 2018 Standard Civil Contract; or[^key-f4ed5745db6bdde93af427aa3a86d63d]
-  - (j) the 2024 Standard Civil Contract,[^key-d12c8877d9c61165f9402b095add69d5]
+  - (e) the 2014 Standard Civil Contract;[^c-47e53a2e58126dbd06b6541b561d5090] [^c-b9dda686d6670111aa5e26a83465544f]...
+  - (f) the 2014 Standard Civil Contract (Welfare Benefits); [^c-97bc8b9bf0c4f317d19a98fe3214de9e]...[^c-cce191c7021813da80ce6365b6b80910]
+  - (g) the 2015 Standard Civil Contract; [^c-017cc76547186bb3a538950fe29c2a47]...[^c-9fa08ed22b8d2959cbecd4f9f154d156]
+  - (h) the 2016 Standard Civil Contract (Welfare Benefits); [^c-9d7a3c4b8d5d620963f3ae5d55d829ca]...[^c-b90cbfedc0a2f68fc7091792b2869803]
+  - (i) the 2018 Standard Civil Contract; or[^c-f4ed5745db6bdde93af427aa3a86d63d]
+  - (j) the 2024 Standard Civil Contract,[^c-d12c8877d9c61165f9402b095add69d5]
 - “**maintenance**” means money or money's worth paid towards the support of a former partner, child or other person for whose support the payer has previously been responsible or has made payments;
 - “**partner**” means—
   - (a) a legally aided party's spouse or civil partner, from whom the party is not separated due to a breakdown in the relationship which is likely to be permanent;
@@ -352,9 +352,9 @@ the provider may bring proceedings under paragraph (3) only with the consent of 
 (4) In this regulation—
 
 - (a) “**business day**” means a day other than a Saturday, a Sunday, Christmas Day, Good Friday or a bank holiday in England and Wales under the Banking and Financial Dealings Act 1971 [^c21685851];
-- (b) “**deposit taker**” means the Bank of England, or a branch of [^key-2641a8db3da72a850b57da192540962f]...—
-  - (i) a person with permission to accept deposits under Part 4A of the Financial Services and Markets Act 2000 [^c21685861] (permission to carry on regulated activities); [^key-96fcb12dae21121281fe9e3b9d57ab5a]...
-  - (ii)[^key-96fcb12dae21121281fe9e3b9d57ab5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and
+- (b) “**deposit taker**” means the Bank of England, or a branch of [^c-2641a8db3da72a850b57da192540962f]...—
+  - (i) a person with permission to accept deposits under Part 4A of the Financial Services and Markets Act 2000 [^c21685861] (permission to carry on regulated activities); [^c-96fcb12dae21121281fe9e3b9d57ab5a]...
+  - (ii)[^c-96fcb12dae21121281fe9e3b9d57ab5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and
 - (c) “**general account**” means an interest bearing account opened in the name of the Lord Chancellor, the title of which does not identify any legally aided party.
 
 (5) The definition of “deposit taker” under paragraph (4)(b) must be read with—
@@ -471,35 +471,35 @@ Part 3 of the Regulations makes provision about the enforcement of the charge, i
 
 [^c21685711]: Marginal citation: The Civil Legal Aid (Family Relationship) Regulations (SI 2012/2684), made under paragraph 12(8)(b) of Part 1 of Schedule 1 to the Act, make provision about when matters arise out of a family relationship for the purpose of paragraph 12.
 
-[^key-4f135d6e65f40a92e6048cef74f1ddbd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/503/regulation/2/1) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [9](https://www.legislation.gov.uk/uksi/2025/611/article/9)
+[^c-4f135d6e65f40a92e6048cef74f1ddbd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/503/regulation/2/1) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [9](https://www.legislation.gov.uk/uksi/2025/611/article/9)
 
 [^c21685721]: Marginal citation: [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47).
 
 [^c21685731]: Marginal citation: Paragraph 7 of Schedule 3 to the Act (legal aid for legal persons) provides that in section 25 references to an individual include a legal person to whom legal services are made available under Part 1 of the Act in accordance with Schedule 3 or regulations made under Schedule 3.
 
-[^key-8824266f40061b1d794dfc98280f41c1]: Textual amendment: Word in reg. 2(1) omitted (1.8.2014) by virtue of [The Civil Legal Aid (Procedure, Remuneration and Statutory Charge) (Amendment) Regulations 2014 (S.I. 2014/1824)](https://www.legislation.gov.uk/uksi/2014/1824), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1824/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2014/1824/regulation/4/a)
+[^c-8824266f40061b1d794dfc98280f41c1]: Textual amendment: Word in reg. 2(1) omitted (1.8.2014) by virtue of [The Civil Legal Aid (Procedure, Remuneration and Statutory Charge) (Amendment) Regulations 2014 (S.I. 2014/1824)](https://www.legislation.gov.uk/uksi/2014/1824), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1824/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2014/1824/regulation/4/a)
 
 [^c21685741]: Marginal citation: The contracts are available at www.justice.gov.uk/legalaid. Copies can be inspected at the Legal Aid Agency (Head Office) at 102 Petty France, London, SW1H 9AJ.
 
-[^key-47e53a2e58126dbd06b6541b561d5090]: Textual amendment: Words in reg. 2(1) inserted (1.8.2014) by [The Civil Legal Aid (Procedure, Remuneration and Statutory Charge) (Amendment) Regulations 2014 (S.I. 2014/1824)](https://www.legislation.gov.uk/uksi/2014/1824), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1824/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2014/1824/regulation/4/b)
+[^c-47e53a2e58126dbd06b6541b561d5090]: Textual amendment: Words in reg. 2(1) inserted (1.8.2014) by [The Civil Legal Aid (Procedure, Remuneration and Statutory Charge) (Amendment) Regulations 2014 (S.I. 2014/1824)](https://www.legislation.gov.uk/uksi/2014/1824), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1824/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2014/1824/regulation/4/b)
 
-[^key-b9dda686d6670111aa5e26a83465544f]: Textual amendment: Word in reg. 2(1) omitted (1.11.2015) by virtue of [The Civil and Criminal Legal Aid (Amendment) (No.2) Regulations 2015 (S.I. 2015/1678)](https://www.legislation.gov.uk/uksi/2015/1678), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/1/2/b), [7(a)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/7/a)
+[^c-b9dda686d6670111aa5e26a83465544f]: Textual amendment: Word in reg. 2(1) omitted (1.11.2015) by virtue of [The Civil and Criminal Legal Aid (Amendment) (No.2) Regulations 2015 (S.I. 2015/1678)](https://www.legislation.gov.uk/uksi/2015/1678), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/1/2/b), [7(a)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/7/a)
 
-[^key-97bc8b9bf0c4f317d19a98fe3214de9e]: Textual amendment: Word in reg. 2(1) omitted (1.11.2016) by virtue of [The Civil Legal Aid (Remuneration and Statutory Charge) (Amendment) Regulations 2016 (S.I. 2016/983)](https://www.legislation.gov.uk/uksi/2016/983), [regs. 1](https://www.legislation.gov.uk/uksi/2016/983/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2016/983/regulation/3/a)
+[^c-97bc8b9bf0c4f317d19a98fe3214de9e]: Textual amendment: Word in reg. 2(1) omitted (1.11.2016) by virtue of [The Civil Legal Aid (Remuneration and Statutory Charge) (Amendment) Regulations 2016 (S.I. 2016/983)](https://www.legislation.gov.uk/uksi/2016/983), [regs. 1](https://www.legislation.gov.uk/uksi/2016/983/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2016/983/regulation/3/a)
 
-[^key-cce191c7021813da80ce6365b6b80910]: Textual amendment: Words in reg. 2(1) inserted (1.11.2015) by [The Civil and Criminal Legal Aid (Amendment) (No.2) Regulations 2015 (S.I. 2015/1678)](https://www.legislation.gov.uk/uksi/2015/1678), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/1/2/b), [7(b)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/7/b)
+[^c-cce191c7021813da80ce6365b6b80910]: Textual amendment: Words in reg. 2(1) inserted (1.11.2015) by [The Civil and Criminal Legal Aid (Amendment) (No.2) Regulations 2015 (S.I. 2015/1678)](https://www.legislation.gov.uk/uksi/2015/1678), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/1/2/b), [7(b)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/7/b)
 
-[^key-017cc76547186bb3a538950fe29c2a47]: Textual amendment: Word in reg. 2(1) omitted (1.9.2018) by virtue of [The Civil Legal Aid (Procedure, Remuneration and Statutory Charge) (Amendment) Regulations 2018 (S.I. 2018/803)](https://www.legislation.gov.uk/uksi/2018/803), [regs. 1](https://www.legislation.gov.uk/uksi/2018/803/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2018/803/regulation/4/a)
+[^c-017cc76547186bb3a538950fe29c2a47]: Textual amendment: Word in reg. 2(1) omitted (1.9.2018) by virtue of [The Civil Legal Aid (Procedure, Remuneration and Statutory Charge) (Amendment) Regulations 2018 (S.I. 2018/803)](https://www.legislation.gov.uk/uksi/2018/803), [regs. 1](https://www.legislation.gov.uk/uksi/2018/803/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2018/803/regulation/4/a)
 
-[^key-9fa08ed22b8d2959cbecd4f9f154d156]: Textual amendment: Words in reg. 2(1) inserted (1.11.2016) by [The Civil Legal Aid (Remuneration and Statutory Charge) (Amendment) Regulations 2016 (S.I. 2016/983)](https://www.legislation.gov.uk/uksi/2016/983), [regs. 1](https://www.legislation.gov.uk/uksi/2016/983/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2016/983/regulation/3/b)
+[^c-9fa08ed22b8d2959cbecd4f9f154d156]: Textual amendment: Words in reg. 2(1) inserted (1.11.2016) by [The Civil Legal Aid (Remuneration and Statutory Charge) (Amendment) Regulations 2016 (S.I. 2016/983)](https://www.legislation.gov.uk/uksi/2016/983), [regs. 1](https://www.legislation.gov.uk/uksi/2016/983/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2016/983/regulation/3/b)
 
-[^key-9d7a3c4b8d5d620963f3ae5d55d829ca]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/503/regulation/2/1) omitted (23.9.2024) by virtue of [The Civil Legal Aid (Standard Civil Contract - Miscellaneous Amendments) Regulations 2024 (S.I. 2024/889)](https://www.legislation.gov.uk/uksi/2024/889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/889/regulation/1/2), [3(1)(a)](https://www.legislation.gov.uk/uksi/2024/889/regulation/3/1/a)
+[^c-9d7a3c4b8d5d620963f3ae5d55d829ca]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/503/regulation/2/1) omitted (23.9.2024) by virtue of [The Civil Legal Aid (Standard Civil Contract - Miscellaneous Amendments) Regulations 2024 (S.I. 2024/889)](https://www.legislation.gov.uk/uksi/2024/889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/889/regulation/1/2), [3(1)(a)](https://www.legislation.gov.uk/uksi/2024/889/regulation/3/1/a)
 
-[^key-b90cbfedc0a2f68fc7091792b2869803]: Textual amendment: Words in reg. 2(1) inserted (1.9.2018) by [The Civil Legal Aid (Procedure, Remuneration and Statutory Charge) (Amendment) Regulations 2018 (S.I. 2018/803)](https://www.legislation.gov.uk/uksi/2018/803), [regs. 1](https://www.legislation.gov.uk/uksi/2018/803/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2018/803/regulation/4/b)
+[^c-b90cbfedc0a2f68fc7091792b2869803]: Textual amendment: Words in reg. 2(1) inserted (1.9.2018) by [The Civil Legal Aid (Procedure, Remuneration and Statutory Charge) (Amendment) Regulations 2018 (S.I. 2018/803)](https://www.legislation.gov.uk/uksi/2018/803), [regs. 1](https://www.legislation.gov.uk/uksi/2018/803/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2018/803/regulation/4/b)
 
-[^key-f4ed5745db6bdde93af427aa3a86d63d]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/503/regulation/2/1) inserted (23.9.2024) by [The Civil Legal Aid (Standard Civil Contract - Miscellaneous Amendments) Regulations 2024 (S.I. 2024/889)](https://www.legislation.gov.uk/uksi/2024/889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/889/regulation/1/2), [3(1)(b)](https://www.legislation.gov.uk/uksi/2024/889/regulation/3/1/b)
+[^c-f4ed5745db6bdde93af427aa3a86d63d]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/503/regulation/2/1) inserted (23.9.2024) by [The Civil Legal Aid (Standard Civil Contract - Miscellaneous Amendments) Regulations 2024 (S.I. 2024/889)](https://www.legislation.gov.uk/uksi/2024/889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/889/regulation/1/2), [3(1)(b)](https://www.legislation.gov.uk/uksi/2024/889/regulation/3/1/b)
 
-[^key-d12c8877d9c61165f9402b095add69d5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/503/regulation/2/1) inserted (23.9.2024) by [The Civil Legal Aid (Standard Civil Contract - Miscellaneous Amendments) Regulations 2024 (S.I. 2024/889)](https://www.legislation.gov.uk/uksi/2024/889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/889/regulation/1/2), [3(1)(c)](https://www.legislation.gov.uk/uksi/2024/889/regulation/3/1/c)
+[^c-d12c8877d9c61165f9402b095add69d5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/503/regulation/2/1) inserted (23.9.2024) by [The Civil Legal Aid (Standard Civil Contract - Miscellaneous Amendments) Regulations 2024 (S.I. 2024/889)](https://www.legislation.gov.uk/uksi/2024/889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/889/regulation/1/2), [3(1)(c)](https://www.legislation.gov.uk/uksi/2024/889/regulation/3/1/c)
 
 [^c21685751]: Marginal citation: SI 2013/104.
 
@@ -523,11 +523,11 @@ Part 3 of the Regulations makes provision about the enforcement of the charge, i
 
 [^c21685851]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-2641a8db3da72a850b57da192540962f]: Textual amendment: Word in [reg. 19(4)(b)](https://www.legislation.gov.uk/uksi/2013/503/regulation/19/4/b) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 75(a)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/75/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2641a8db3da72a850b57da192540962f]: Textual amendment: Word in [reg. 19(4)(b)](https://www.legislation.gov.uk/uksi/2013/503/regulation/19/4/b) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 75(a)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/75/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21685861]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8); [Part 4A](https://www.legislation.gov.uk/uksi/2013/503/part/4A) is inserted into the 2000 Act by section 11 of the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), to be commenced on 1 April 2013.
 
-[^key-96fcb12dae21121281fe9e3b9d57ab5a]: Textual amendment: [Reg. 19(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/503/regulation/19/4/b/ii) and word omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 75(b)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/75/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-96fcb12dae21121281fe9e3b9d57ab5a]: Textual amendment: [Reg. 19(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/503/regulation/19/4/b/ii) and word omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 75(b)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/75/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21685871]: Marginal citation: [2002 c. 9](https://www.legislation.gov.uk/ukpga/2002/9).
 

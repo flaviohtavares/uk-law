@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Repeal of provisions relating to supervision after end of sentence[^key-d627dbbe24f53fc232990225d39f2064][^key-9871cb67eeb69ef946aa8a03c252b85f]
+## 34. Repeal of provisions relating to supervision after end of sentence[^c-d627dbbe24f53fc232990225d39f2064][^c-9871cb67eeb69ef946aa8a03c252b85f]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d627dbbe24f53fc232990225d39f2064]: Commencement: S. 34 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-d627dbbe24f53fc232990225d39f2064]: Commencement: S. 34 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-9871cb67eeb69ef946aa8a03c252b85f]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2026/2/section/34) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
+[^c-9871cb67eeb69ef946aa8a03c252b85f]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2026/2/section/34) in force at 11.5.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)

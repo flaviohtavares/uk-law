@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**51.2.**[^key-1bb087aa838816f7107e379333c9b55c] Practice directions may modify or disapply any provision of these Rules—
+**51.2.**[^c-1bb087aa838816f7107e379333c9b55c] Practice directions may modify or disapply any provision of these Rules—
 
 - (a) for specified periods; and
 - (b) in relation to proceedings in specified courts,
@@ -27,4 +27,4 @@ during the operation of pilot schemes for assessing the use of new practices and
 
 ## Annotations
 
-[^key-1bb087aa838816f7107e379333c9b55c]: Textual amendment: [Rule 51.2](https://www.legislation.gov.uk/uksi/1998/3132/rule/51.2) inserted (15.10.2001) by [The Civil Procedure (Amendment No. 4) Rules 2001 (S.I. 2001/2792)](https://www.legislation.gov.uk/uksi/2001/2792), [rules 1(a)](https://www.legislation.gov.uk/uksi/2001/2792/rule/1/a), [5(c)](https://www.legislation.gov.uk/uksi/2001/2792/rule/5/c) (with [rule 24](https://www.legislation.gov.uk/uksi/2001/2792/rule/24))
+[^c-1bb087aa838816f7107e379333c9b55c]: Textual amendment: [Rule 51.2](https://www.legislation.gov.uk/uksi/1998/3132/rule/51.2) inserted (15.10.2001) by [The Civil Procedure (Amendment No. 4) Rules 2001 (S.I. 2001/2792)](https://www.legislation.gov.uk/uksi/2001/2792), [rules 1(a)](https://www.legislation.gov.uk/uksi/2001/2792/rule/1/a), [5(c)](https://www.legislation.gov.uk/uksi/2001/2792/rule/5/c) (with [rule 24](https://www.legislation.gov.uk/uksi/2001/2792/rule/24))

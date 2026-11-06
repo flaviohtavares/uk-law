@@ -76,25 +76,25 @@ These Regulations may be cited as the Town and Country Planning (Miscellaneous A
 
 ## 5. Amendment of the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2011
 
-(1)[^key-e04c1df38ed93485fa02e54047a515b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-e04c1df38ed93485fa02e54047a515b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-e04c1df38ed93485fa02e54047a515b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e04c1df38ed93485fa02e54047a515b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-e04c1df38ed93485fa02e54047a515b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e04c1df38ed93485fa02e54047a515b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-e04c1df38ed93485fa02e54047a515b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-e04c1df38ed93485fa02e54047a515b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-e04c1df38ed93485fa02e54047a515b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e04c1df38ed93485fa02e54047a515b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-e04c1df38ed93485fa02e54047a515b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-e04c1df38ed93485fa02e54047a515b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-e04c1df38ed93485fa02e54047a515b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-e04c1df38ed93485fa02e54047a515b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-e04c1df38ed93485fa02e54047a515b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-e04c1df38ed93485fa02e54047a515b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-e04c1df38ed93485fa02e54047a515b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-e04c1df38ed93485fa02e54047a515b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-e04c1df38ed93485fa02e54047a515b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-e04c1df38ed93485fa02e54047a515b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) The provisions of regulation 44(1A)(a) and (c) of the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2011 (inserted by paragraph (7)(a)) do not apply in respect of—
 
@@ -240,7 +240,7 @@ Regulation 7 amends the Town and Country Planning (Appeals) (Scotland) Regulatio
 
 [^c22584841]: Marginal citation: [S.S.I. 2010/433](https://www.legislation.gov.uk/ssi/2010/433).
 
-[^key-e04c1df38ed93485fa02e54047a515b9]: Textual amendment: [Reg. 5(1)-(10)](https://www.legislation.gov.uk/ssi/2015/249/regulation/5/1) revoked (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [60(9)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/9), [sch. 6](https://www.legislation.gov.uk/ssi/2017/102/schedule/6) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
+[^c-e04c1df38ed93485fa02e54047a515b9]: Textual amendment: [Reg. 5(1)-(10)](https://www.legislation.gov.uk/ssi/2015/249/regulation/5/1) revoked (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [60(9)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/9), [sch. 6](https://www.legislation.gov.uk/ssi/2017/102/schedule/6) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
 
 [^c22584901]: Marginal citation: [S.S.I. 2013/155](https://www.legislation.gov.uk/ssi/2013/155).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Loading, stowage, unloading and cleaning of vehicles and containers[^key-aedcc5a0bfbdaafc56472f26425349ac]
+## 19. Loading, stowage, unloading and cleaning of vehicles and containers[^c-aedcc5a0bfbdaafc56472f26425349ac]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ shall ensure that no food is carried in that vehicle unless it is effectively se
 
 ## Annotations
 
-[^key-aedcc5a0bfbdaafc56472f26425349ac]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/1997/474/regulation/19) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-aedcc5a0bfbdaafc56472f26425349ac]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/1997/474/regulation/19) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

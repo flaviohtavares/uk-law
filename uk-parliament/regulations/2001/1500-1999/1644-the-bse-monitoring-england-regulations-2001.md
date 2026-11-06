@@ -33,7 +33,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The BSE Monitoring (England) Regulations 2001 (revoked)[^key-12218df89d8d0ee5816e839f2264ccd2]
+The BSE Monitoring (England) Regulations 2001 (revoked)[^c-12218df89d8d0ee5816e839f2264ccd2]
 
 Made
 
@@ -47,58 +47,58 @@ Coming into force
 
 1st July 2001
 
-[^key-12218df89d8d0ee5816e839f2264ccd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12218df89d8d0ee5816e839f2264ccd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, extent and commencement[^key-12218df89d8d0ee5816e839f2264ccd2]
+## 1. Title, extent and commencement[^c-12218df89d8d0ee5816e839f2264ccd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-12218df89d8d0ee5816e839f2264ccd2]
+## 2. Interpretation[^c-12218df89d8d0ee5816e839f2264ccd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Requirements relating to bovine animals over 30 months of age[^key-12218df89d8d0ee5816e839f2264ccd2]
+## 3. Requirements relating to bovine animals over 30 months of age[^c-12218df89d8d0ee5816e839f2264ccd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Powers of entry, examination, search and sampling etc.[^key-12218df89d8d0ee5816e839f2264ccd2]
+## 4. Powers of entry, examination, search and sampling etc.[^c-12218df89d8d0ee5816e839f2264ccd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Obstruction[^key-12218df89d8d0ee5816e839f2264ccd2]
+## 5. Obstruction[^c-12218df89d8d0ee5816e839f2264ccd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Offences and penalties[^key-12218df89d8d0ee5816e839f2264ccd2]
+## 6. Offences and penalties[^c-12218df89d8d0ee5816e839f2264ccd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Offences by bodies corporate[^key-12218df89d8d0ee5816e839f2264ccd2]
+## 7. Offences by bodies corporate[^c-12218df89d8d0ee5816e839f2264ccd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Enforcement[^key-12218df89d8d0ee5816e839f2264ccd2]
+## 8. Enforcement[^c-12218df89d8d0ee5816e839f2264ccd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of the Bovine Spongiform Encephalopathy (No. 2) Order 1996[^key-12218df89d8d0ee5816e839f2264ccd2]
+## 9. Amendment of the Bovine Spongiform Encephalopathy (No. 2) Order 1996[^c-12218df89d8d0ee5816e839f2264ccd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of the Cattle Identification Regulations 1998[^key-12218df89d8d0ee5816e839f2264ccd2]
+## 10. Amendment of the Cattle Identification Regulations 1998[^c-12218df89d8d0ee5816e839f2264ccd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of the Cattle (Identification of Older Animals) Regulations 2000[^key-12218df89d8d0ee5816e839f2264ccd2]
+## 11. Amendment of the Cattle (Identification of Older Animals) Regulations 2000[^c-12218df89d8d0ee5816e839f2264ccd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-12218df89d8d0ee5816e839f2264ccd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12218df89d8d0ee5816e839f2264ccd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-12218df89d8d0ee5816e839f2264ccd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12218df89d8d0ee5816e839f2264ccd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-12218df89d8d0ee5816e839f2264ccd2]: Textual amendment: Regulations revoked (19.4.2002) by [The TSE (England) Regulations 2002 (S.I. 2002/843)](https://www.legislation.gov.uk/uksi/2002/843), [reg. 1](https://www.legislation.gov.uk/uksi/2002/843/regulation/1), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/uksi/2002/843/schedule/9/part/1) (with [Sch. 9 Pt. 8](https://www.legislation.gov.uk/uksi/2002/843/schedule/9/part/8))
+[^c-12218df89d8d0ee5816e839f2264ccd2]: Textual amendment: Regulations revoked (19.4.2002) by [The TSE (England) Regulations 2002 (S.I. 2002/843)](https://www.legislation.gov.uk/uksi/2002/843), [reg. 1](https://www.legislation.gov.uk/uksi/2002/843/regulation/1), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/uksi/2002/843/schedule/9/part/1) (with [Sch. 9 Pt. 8](https://www.legislation.gov.uk/uksi/2002/843/schedule/9/part/8))

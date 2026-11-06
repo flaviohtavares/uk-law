@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Directors' report[^key-6c031dea8ef9c92c083e4d419d85eb98]
+## 8. Directors' report[^c-6c031dea8ef9c92c083e4d419d85eb98]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Each directors' report of a society prepared under section 75 of the Act shall c
 
 ## Annotations
 
-[^key-6c031dea8ef9c92c083e4d419d85eb98]: Commencement: Reg. 8 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-6c031dea8ef9c92c083e4d419d85eb98]: Commencement: Reg. 8 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)

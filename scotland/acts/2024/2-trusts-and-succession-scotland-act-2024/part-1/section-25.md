@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Exercise of power to apportion between or among beneficiaries[^key-306c06f7272daa3511f581a991f41eee]
+## 25. Exercise of power to apportion between or among beneficiaries[^c-306c06f7272daa3511f581a991f41eee]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-306c06f7272daa3511f581a991f41eee]: Commencement: S. 25 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-306c06f7272daa3511f581a991f41eee]: Commencement: S. 25 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

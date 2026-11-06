@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33C. Further use of UK marking[^key-57dbfc056d5cd38e1e3aaf1769af5c35]
+## 33C. Further use of UK marking[^c-57dbfc056d5cd38e1e3aaf1769af5c35]
 
 *Extent: E+W+S*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57dbfc056d5cd38e1e3aaf1769af5c35]: Textual amendment: Reg. 33C substituted (E.W.S.) (1.10.2024) by [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [18(4)](https://www.legislation.gov.uk/uksi/2024/696/regulation/18/4) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))
+[^c-57dbfc056d5cd38e1e3aaf1769af5c35]: Textual amendment: Reg. 33C substituted (E.W.S.) (1.10.2024) by [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [18(4)](https://www.legislation.gov.uk/uksi/2024/696/regulation/18/4) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Interference with notices[^key-891e77c53dd0dbd4b43a596a04a5fa67]
+## 138. Interference with notices[^c-891e77c53dd0dbd4b43a596a04a5fa67]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ is liable on a summary conviction to a fine not exceeding level 3 on the standar
 
 ## Annotations
 
-[^key-891e77c53dd0dbd4b43a596a04a5fa67]: Commencement: Reg. 138 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-891e77c53dd0dbd4b43a596a04a5fa67]: Commencement: Reg. 138 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

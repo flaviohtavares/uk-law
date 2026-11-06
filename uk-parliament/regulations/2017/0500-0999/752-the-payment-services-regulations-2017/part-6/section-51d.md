@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51D. Exceptions to regulation 51B(3) in relation to certain public order offences etc.[^key-49048d42c672215f695b021a2982ac62]
+## 51D. Exceptions to regulation 51B(3) in relation to certain public order offences etc.[^c-49048d42c672215f695b021a2982ac62]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49048d42c672215f695b021a2982ac62]: Textual amendment: Regs. 51-51D substituted for reg. 51 (28.4.2026) by [The Payment Services and Payment Accounts (Contract Termination) (Amendment) Regulations 2025 (S.I. 2025/688)](https://www.legislation.gov.uk/uksi/2025/688), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/688/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2025/688/regulation/3/4)
+[^c-49048d42c672215f695b021a2982ac62]: Textual amendment: Regs. 51-51D substituted for reg. 51 (28.4.2026) by [The Payment Services and Payment Accounts (Contract Termination) (Amendment) Regulations 2025 (S.I. 2025/688)](https://www.legislation.gov.uk/uksi/2025/688), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/688/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2025/688/regulation/3/4)

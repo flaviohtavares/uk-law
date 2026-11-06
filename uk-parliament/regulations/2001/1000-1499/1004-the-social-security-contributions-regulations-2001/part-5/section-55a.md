@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55A. Repayment of Class 1A contributions: certain earnings no longer treated as earnings for income tax purposes[^key-a3394b150d6ac409626b8b7e70f8c287]
+## 55A. Repayment of Class 1A contributions: certain earnings no longer treated as earnings for income tax purposes[^c-a3394b150d6ac409626b8b7e70f8c287]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3394b150d6ac409626b8b7e70f8c287]: Textual amendment: Reg. 55A inserted (6.4.2011) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2011 (S.I. 2011/797)](https://www.legislation.gov.uk/uksi/2011/797), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/797/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2011/797/regulation/3)
+[^c-a3394b150d6ac409626b8b7e70f8c287]: Textual amendment: Reg. 55A inserted (6.4.2011) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2011 (S.I. 2011/797)](https://www.legislation.gov.uk/uksi/2011/797), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/797/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2011/797/regulation/3)

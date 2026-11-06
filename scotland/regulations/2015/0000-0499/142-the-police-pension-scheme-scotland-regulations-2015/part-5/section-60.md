@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Amount of retirement earned pension and retirement added pension[^key-02dbcc4cdbec26cac761349758a28f09]
+## 60. Amount of retirement earned pension and retirement added pension[^c-02dbcc4cdbec26cac761349758a28f09]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02dbcc4cdbec26cac761349758a28f09]: Commencement: Reg. 60 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-02dbcc4cdbec26cac761349758a28f09]: Commencement: Reg. 60 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

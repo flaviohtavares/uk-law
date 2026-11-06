@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Property arrangements schemes[^key-a842427c53e90f10681f96ea84c798ad]
+## 141. Property arrangements schemes[^c-a842427c53e90f10681f96ea84c798ad]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 18 (which makes provision about property arrangements schemes) has effe
 
 ## Annotations
 
-[^key-a842427c53e90f10681f96ea84c798ad]: Commencement: [S. 141](https://www.legislation.gov.uk/ukpga/2004/20/section/141) in force at 1.9.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2184/schedule/2)
+[^c-a842427c53e90f10681f96ea84c798ad]: Commencement: [S. 141](https://www.legislation.gov.uk/ukpga/2004/20/section/141) in force at 1.9.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2184/schedule/2)

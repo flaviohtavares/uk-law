@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Definition of Treaties) (No. 7) (International Wheat Agreement) Order 1978 (revoked)[^key-2f89ee74dfca33885df04ab37cbd5ad5]
+The European Communities (Definition of Treaties) (No. 7) (International Wheat Agreement) Order 1978 (revoked)[^c-2f89ee74dfca33885df04ab37cbd5ad5]
 
 Laid before Parliament in draft
 
@@ -41,28 +41,28 @@ Made
 
 Coming into operation in accordance with Article 1
 
-[^key-2f89ee74dfca33885df04ab37cbd5ad5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2f89ee74dfca33885df04ab37cbd5ad5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-2f89ee74dfca33885df04ab37cbd5ad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2f89ee74dfca33885df04ab37cbd5ad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-2f89ee74dfca33885df04ab37cbd5ad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2f89ee74dfca33885df04ab37cbd5ad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-2f89ee74dfca33885df04ab37cbd5ad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2f89ee74dfca33885df04ab37cbd5ad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f89ee74dfca33885df04ab37cbd5ad5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2f89ee74dfca33885df04ab37cbd5ad5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-2f89ee74dfca33885df04ab37cbd5ad5]
+## SCHEDULE[^c-2f89ee74dfca33885df04ab37cbd5ad5]
 
-**1.**[^key-2f89ee74dfca33885df04ab37cbd5ad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2f89ee74dfca33885df04ab37cbd5ad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-2f89ee74dfca33885df04ab37cbd5ad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2f89ee74dfca33885df04ab37cbd5ad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f89ee74dfca33885df04ab37cbd5ad5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2f89ee74dfca33885df04ab37cbd5ad5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2f89ee74dfca33885df04ab37cbd5ad5]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1978/1104) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2f89ee74dfca33885df04ab37cbd5ad5]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1978/1104) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -46,7 +46,7 @@ Regulation 2, in so far as it relates to the provisions referred to in paragraph
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation, commencement and interpretation[^key-a3dc7f51eec3be5c1338572473cb4045]
+### 1. Citation, commencement and interpretation[^c-a3dc7f51eec3be5c1338572473cb4045]
 
 (1) These Regulations may be cited as the Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations (Northern Ireland) 2025 and shall come into operation on 19th July 2025.
 
@@ -54,7 +54,7 @@ Regulation 2, in so far as it relates to the provisions referred to in paragraph
 
 ## PART 2 — AMENDMENTS TO THE HABITUAL RESIDENCE TEST FOR INCOME-RELATED BENEFITS
 
-### 2. Amendment of the State Pension Credit Regulations, the Housing Benefit Regulations and the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^key-c025cf5936c9981ebc08e3b071e9e1ed]
+### 2. Amendment of the State Pension Credit Regulations, the Housing Benefit Regulations and the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^c-c025cf5936c9981ebc08e3b071e9e1ed]
 
 (1) In the provisions specified in paragraph (2) after sub-paragraph (zze)[^f00010] insert—
 
@@ -90,7 +90,7 @@ Regulation 2, in so far as it relates to the provisions referred to in paragraph
 
 .
 
-### 3. Amendment of the Universal Credit Regulations[^key-47a7ebd0584ed96131279e1a91273fb0]
+### 3. Amendment of the Universal Credit Regulations[^c-47a7ebd0584ed96131279e1a91273fb0]
 
 (1) The Universal Credit Regulations (Northern Ireland) 2016[^f00016] are amended in accordance with paragraphs (2) to (4).
 
@@ -120,7 +120,7 @@ Regulation 2, in so far as it relates to the provisions referred to in paragraph
 
 ## PART 3 — AMENDMENTS TO THE TEMPORARY ABSENCE RULES FOR INCOME-RELATED AND CONTRIBUTORY BENEFITS
 
-### 4. Amendment of the Income Support Regulations 1987[^key-3c286032a76205fe57e0ce736ed19a51]
+### 4. Amendment of the Income Support Regulations 1987[^c-3c286032a76205fe57e0ce736ed19a51]
 
 In regulation 4 of the Income Support (General) Regulations (Northern Ireland) 1987[^f00017] (temporary absence from Northern Ireland)—
 
@@ -146,7 +146,7 @@ In regulation 4 of the Income Support (General) Regulations (Northern Ireland) 1
 
   .
 
-### 5. Amendment of the Jobseeker’s Allowance Regulations 1996[^key-61e00f8b7f7ad53f5d5541c06e8c7daf]
+### 5. Amendment of the Jobseeker’s Allowance Regulations 1996[^c-61e00f8b7f7ad53f5d5541c06e8c7daf]
 
 In regulation 50 of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00018] (persons temporarily absent from Northern Ireland)—
 
@@ -175,7 +175,7 @@ In regulation 50 of the Jobseeker’s Allowance Regulations (Northern Ireland) 1
 
   .
 
-### 6. Amendment of the State Pension Credit Regulations 2003[^key-443ea92c89dcb1eda75bace851da823d]
+### 6. Amendment of the State Pension Credit Regulations 2003[^c-443ea92c89dcb1eda75bace851da823d]
 
 (1) The State Pension Credit Regulations (Northern Ireland) 2003 are amended in accordance with paragraphs (2) and (3).
 
@@ -226,7 +226,7 @@ In regulation 50 of the Jobseeker’s Allowance Regulations (Northern Ireland) 1
 
   .
 
-### 7. Amendment of the Housing Benefit Regulations 2006[^key-75de19ef44ba63ad783c5f292041195c]
+### 7. Amendment of the Housing Benefit Regulations 2006[^c-75de19ef44ba63ad783c5f292041195c]
 
 In regulation 7[^f00022] of the Housing Benefit Regulations (Northern Ireland) 2006 (circumstances in which a person is or is not to be treated as occupying a dwelling as his home)—
 
@@ -246,7 +246,7 @@ In regulation 7[^f00022] of the Housing Benefit Regulations (Northern Ireland) 2
 
   .
 
-### 8. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^key-40c821971324d1f4b99f93576c63c60b]
+### 8. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^c-40c821971324d1f4b99f93576c63c60b]
 
 In regulation 7[^f00023] of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006 (circumstances in which a person is or is not to be treated as occupying a dwelling as his home)—
 
@@ -266,7 +266,7 @@ In regulation 7[^f00023] of the Housing Benefit (Persons who have attained the q
 
   .
 
-### 9. Amendment of the Employment and Support Allowance Regulations 2008[^key-eb5f3f146b0334a8a03f55c60366e92d]
+### 9. Amendment of the Employment and Support Allowance Regulations 2008[^c-eb5f3f146b0334a8a03f55c60366e92d]
 
 (1) The Employment and Support Allowance Regulations (Northern Ireland) 2008[^f00024] are amended in accordance with paragraphs (2) and (3).
 
@@ -291,7 +291,7 @@ In regulation 7[^f00023] of the Housing Benefit (Persons who have attained the q
 
 .
 
-### 10. Amendment of the Universal Credit Regulations 2016[^key-1b93c10af682b1875ce10aabb9d8b3af]
+### 10. Amendment of the Universal Credit Regulations 2016[^c-1b93c10af682b1875ce10aabb9d8b3af]
 
 In regulation 11 of the Universal Credit Regulations (Northern Ireland) 2016 (temporary absence from Northern Ireland)—
 
@@ -315,7 +315,7 @@ In regulation 11 of the Universal Credit Regulations (Northern Ireland) 2016 (te
 
   .
 
-### 11. Amendment of the Jobseeker’s Allowance Regulations 2016[^key-f9ae9e04d9d8aa457cba4b3a4deffbe5]
+### 11. Amendment of the Jobseeker’s Allowance Regulations 2016[^c-f9ae9e04d9d8aa457cba4b3a4deffbe5]
 
 In regulation 40 of the Jobseeker’s Allowance Regulations (Northern Ireland) 2016[^f00026] (persons temporarily absent from Northern Ireland)—
 
@@ -341,7 +341,7 @@ In regulation 40 of the Jobseeker’s Allowance Regulations (Northern Ireland) 2
 
   .
 
-### 12. Amendment of the Employment and Support Allowance Regulations 2016[^key-dbd9d0daf2d09beeb31e73121dd6a6cf]
+### 12. Amendment of the Employment and Support Allowance Regulations 2016[^c-dbd9d0daf2d09beeb31e73121dd6a6cf]
 
 (1) The Employment and Support Allowance Regulations (Northern Ireland) 2016[^f00027] are amended in accordance with paragraphs (2) and (3).
 
@@ -371,7 +371,7 @@ In regulation 40 of the Jobseeker’s Allowance Regulations (Northern Ireland) 2
 
 ## PART 4 — AMENDMENTS TO THE PAST PRESENCE TEST AND HABITUAL RESIDENCE TEST FOR DISABILITY AND CARER BENEFITS
 
-### 13. Amendment of the Social Security (Invalid Care Allowance) Regulations, the Social Security (Attendance Allowance) Regulations and the Social Security (Disability Living Allowance) Regulations[^key-958426ac12556d95b4029a1997bcda3f]
+### 13. Amendment of the Social Security (Invalid Care Allowance) Regulations, the Social Security (Attendance Allowance) Regulations and the Social Security (Disability Living Allowance) Regulations[^c-958426ac12556d95b4029a1997bcda3f]
 
 (1) In the provisions specified in paragraph (4)[^f00028]—
 
@@ -425,7 +425,7 @@ In regulation 40 of the Jobseeker’s Allowance Regulations (Northern Ireland) 2
 - (b) regulation 2C of the Social Security (Attendance Allowance) Regulations (Northern Ireland) 1992[^f00032] (refugees and certain persons with leave to enter or remain in the United Kingdom);
 - (c) regulation 2C of the Social Security (Disability Living Allowance) Regulations (Northern Ireland) 1992[^f00033] (refugees and certain persons with leave to enter or remain in the United Kingdom).
 
-### 14. Amendment of the Personal Independence Payment Regulations[^key-65bc5c6e2eb283a1dd8e4257edce8d03]
+### 14. Amendment of the Personal Independence Payment Regulations[^c-65bc5c6e2eb283a1dd8e4257edce8d03]
 
 (1) In regulation 23A(1) of the Personal Independence Payment Regulations (Northern Ireland) 2016[^f00034] (refugees and certain persons with leave to enter or remain in the United Kingdom)—
 
@@ -467,7 +467,7 @@ In regulation 40 of the Jobseeker’s Allowance Regulations (Northern Ireland) 2
 
 ## PART 5 — AMENDMENTS TO THE TEMPORARY ABSENCE RULES FOR DISABILITY BENEFITS
 
-### 15. Amendment of the Social Security (Attendance Allowance) Regulations[^key-f829ecd1bbe506051364999ee6ca3ff1]
+### 15. Amendment of the Social Security (Attendance Allowance) Regulations[^c-f829ecd1bbe506051364999ee6ca3ff1]
 
 In regulation 2[^f00037] of the Social Security (Attendance Allowance) Regulations (Northern Ireland) 1992 (conditions as to residence and presence in Northern Ireland)—
 
@@ -486,7 +486,7 @@ In regulation 2[^f00037] of the Social Security (Attendance Allowance) Regulatio
 
   .
 
-### 16. Amendment of the Social Security (Disability Living Allowance) Regulations[^key-04211c75bf0a602d886d82547f5c96c9]
+### 16. Amendment of the Social Security (Disability Living Allowance) Regulations[^c-04211c75bf0a602d886d82547f5c96c9]
 
 In regulation 2[^f00038] of the Social Security (Disability Living Allowance) Regulations (Northern Ireland) 1992 (conditions as to residence and presence in Northern Ireland)—
 
@@ -505,7 +505,7 @@ In regulation 2[^f00038] of the Social Security (Disability Living Allowance) Re
 
   .
 
-### 17. Amendment of the Personal Independence Payment Regulations[^key-e052bad8f8b8dd630cb9866272926c76]
+### 17. Amendment of the Personal Independence Payment Regulations[^c-e052bad8f8b8dd630cb9866272926c76]
 
 After regulation 18 of the Personal Independence Payment Regulations (Northern Ireland) 2016 (absence from Northern Ireland to receive medical treatment) insert—
 
@@ -611,11 +611,11 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00008]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8))](https://www.legislation.gov.uk/nisi/1993/1579); *see also* Article 6(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) and section 1(4) of the Departments Act (Northern Ireland) [2016 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-a3dc7f51eec3be5c1338572473cb4045]: Commencement: Reg. 1 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
+[^c-a3dc7f51eec3be5c1338572473cb4045]: Commencement: Reg. 1 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
 
 [^f00009]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-c025cf5936c9981ebc08e3b071e9e1ed]: Commencement: Reg. 2 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
+[^c-c025cf5936c9981ebc08e3b071e9e1ed]: Commencement: Reg. 2 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
 
 [^f00010]: Footnote: Sub-paragraph (zze) was inserted by regulation 2(1) of [S.R. 2023 No. 184](https://www.legislation.gov.uk/nisr/2023/184)
 
@@ -629,51 +629,51 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00015]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406); relevant amending Regulations are [S.R. 2021 No. 269](https://www.legislation.gov.uk/nisr/2021/269), S.R. 2022 Nos. [149](https://www.legislation.gov.uk/nisr/2022/149) and [230](https://www.legislation.gov.uk/nisr/2022/230) and S.R. 2023 Nos. [80](https://www.legislation.gov.uk/nisr/2023/80) and [184](https://www.legislation.gov.uk/nisr/2023/184)
 
-[^key-47a7ebd0584ed96131279e1a91273fb0]: Commencement: Reg. 3 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
+[^c-47a7ebd0584ed96131279e1a91273fb0]: Commencement: Reg. 3 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
 
 [^f00016]: Footnote: [S.R. 2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216); regulation 9(4)(ze) was inserted by regulation 2(3) of [S.R. 2023 No. 184](https://www.legislation.gov.uk/nisr/2023/184); relevant amending Regulations are [S.R. 2021 No. 169](https://www.legislation.gov.uk/nisr/2021/169), S.R. 2022 Nos. [149](https://www.legislation.gov.uk/nisr/2022/149) and [230](https://www.legislation.gov.uk/nisr/2022/230) and S.R. 2023 Nos. [80](https://www.legislation.gov.uk/nisr/2023/80) and [184](https://www.legislation.gov.uk/nisr/2023/184)
 
-[^key-3c286032a76205fe57e0ce736ed19a51]: Commencement: Reg. 4 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
+[^c-3c286032a76205fe57e0ce736ed19a51]: Commencement: Reg. 4 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
 
 [^f00017]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); in regulation 4, paragraph (1)(a) and (b) was substituted by regulation 3(a) of [S.R. 1990 No. 131](https://www.legislation.gov.uk/nisr/1990/131) and paragraph (3A) was inserted by regulation 2 of [S.R. 2004 No. 308](https://www.legislation.gov.uk/nisr/2004/308)
 
-[^key-61e00f8b7f7ad53f5d5541c06e8c7daf]: Commencement: Reg. 5 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
+[^c-61e00f8b7f7ad53f5d5541c06e8c7daf]: Commencement: Reg. 5 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
 
 [^f00018]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198)
 
 [^f00019]: Footnote: Paragraph (6D) was inserted by regulation 3(2) of [S.R. 2012 No. 377](https://www.legislation.gov.uk/nisr/2012/377)
 
-[^key-443ea92c89dcb1eda75bace851da823d]: Commencement: Reg. 6 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
+[^c-443ea92c89dcb1eda75bace851da823d]: Commencement: Reg. 6 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
 
 [^f00020]: Footnote: Regulation 3 was substituted by regulation 4(2) of [S.R. 2017 No. 1](https://www.legislation.gov.uk/nisr/2017/1)
 
 [^f00021]: Footnote: Paragraphs (1A) to (1C) of regulation 5 were substituted for paragraph (1A) by regulation 4(6)(b) of [S.R. 2017 No. 1](https://www.legislation.gov.uk/nisr/2017/1)
 
-[^key-75de19ef44ba63ad783c5f292041195c]: Commencement: Reg. 7 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
+[^c-75de19ef44ba63ad783c5f292041195c]: Commencement: Reg. 7 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
 
 [^f00022]: Footnote: Paragraphs (13A) to (13G) and (17A) to (17D) of regulation 7 were inserted by reg 2(2)(d) and (g), respectively, of [S.R. 2017 No.1](https://www.legislation.gov.uk/nisr/2017/1)
 
-[^key-40c821971324d1f4b99f93576c63c60b]: Commencement: Reg. 8 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
+[^c-40c821971324d1f4b99f93576c63c60b]: Commencement: Reg. 8 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
 
 [^f00023]: Footnote: Paragraphs (13A) to (13G) and (17A) to (17D) of regulation 7 were inserted by reg 3(2)(d) and (g), respectively, of [S.R. 2017 No.1](https://www.legislation.gov.uk/nisr/2017/1)
 
-[^key-eb5f3f146b0334a8a03f55c60366e92d]: Commencement: Reg. 9 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
+[^c-eb5f3f146b0334a8a03f55c60366e92d]: Commencement: Reg. 9 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
 
 [^f00024]: Footnote: [S.R. 2008 No. 280](https://www.legislation.gov.uk/nisr/2008/280)
 
 [^f00025]: Footnote: Regulation 155 was amended by regulation 9(17)(b) of [S.R. 2010 No. 200](https://www.legislation.gov.uk/nisr/2010/200)
 
-[^key-1b93c10af682b1875ce10aabb9d8b3af]: Commencement: Reg. 10 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
+[^c-1b93c10af682b1875ce10aabb9d8b3af]: Commencement: Reg. 10 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
 
-[^key-f9ae9e04d9d8aa457cba4b3a4deffbe5]: Commencement: Reg. 11 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
+[^c-f9ae9e04d9d8aa457cba4b3a4deffbe5]: Commencement: Reg. 11 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
 
 [^f00026]: Footnote: [S.R. 2016 No. 218](https://www.legislation.gov.uk/nisr/2016/218)
 
-[^key-dbd9d0daf2d09beeb31e73121dd6a6cf]: Commencement: Reg. 12 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
+[^c-dbd9d0daf2d09beeb31e73121dd6a6cf]: Commencement: Reg. 12 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
 
 [^f00027]: Footnote: [S.R. 2016 No. 219](https://www.legislation.gov.uk/nisr/2016/219)
 
-[^key-958426ac12556d95b4029a1997bcda3f]: Commencement: Reg. 13 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
+[^c-958426ac12556d95b4029a1997bcda3f]: Commencement: Reg. 13 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
 
 [^f00028]: Footnote: The headings to the provisions specified in paragraph (2) were substituted by regulation 4(2) of [S.R. 2021 No. 269](https://www.legislation.gov.uk/nisr/2021/269)
 
@@ -687,7 +687,7 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00033]: Footnote: [S.R. 1992 No. 32](https://www.legislation.gov.uk/nisr/1992/32); regulation 2C was inserted by regulation 8(3) of [S.R. 2017 No. 218](https://www.legislation.gov.uk/nisr/2017/218); relevant amending Regulations are [S.R. 2021 No. 269](https://www.legislation.gov.uk/nisr/2021/269), S.R. 2022 Nos. [149](https://www.legislation.gov.uk/nisr/2022/149) and [230](https://www.legislation.gov.uk/nisr/2022/230) and S.R. 2023 Nos. [80](https://www.legislation.gov.uk/nisr/2023/80) and [184](https://www.legislation.gov.uk/nisr/2023/184)
 
-[^key-65bc5c6e2eb283a1dd8e4257edce8d03]: Commencement: Reg. 14 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
+[^c-65bc5c6e2eb283a1dd8e4257edce8d03]: Commencement: Reg. 14 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
 
 [^f00034]: Footnote: [S.R. 2016 No. 217](https://www.legislation.gov.uk/nisr/2016/217); regulation 23A was inserted by regulation 15 of [S.R. 2017 No. 218](https://www.legislation.gov.uk/nisr/2017/218) and the heading was substituted by regulation 4(2) of [S.R. 2021 No. 269](https://www.legislation.gov.uk/nisr/2021/269); relevant amending Regulations are [S.R. 2021 No. 269](https://www.legislation.gov.uk/nisr/2021/269), S.R. 2022 Nos. [149](https://www.legislation.gov.uk/nisr/2022/149) and [230](https://www.legislation.gov.uk/nisr/2022/230) and S.R. 2023 Nos. [80](https://www.legislation.gov.uk/nisr/2023/80) and [184](https://www.legislation.gov.uk/nisr/2023/184)
 
@@ -695,12 +695,12 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00036]: Footnote: Sub-paragraph (h) and the preceding “or” were added by regulation 11(b) of [S.R. 2023 No. 184](https://www.legislation.gov.uk/nisr/2023/184)
 
-[^key-f829ecd1bbe506051364999ee6ca3ff1]: Commencement: Reg. 15 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
+[^c-f829ecd1bbe506051364999ee6ca3ff1]: Commencement: Reg. 15 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
 
 [^f00037]: Footnote: Regulation 2(6) was added by regulation 3(2)(g) of [S.R. 2016 No. 229](https://www.legislation.gov.uk/nisr/2016/229)
 
-[^key-04211c75bf0a602d886d82547f5c96c9]: Commencement: Reg. 16 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
+[^c-04211c75bf0a602d886d82547f5c96c9]: Commencement: Reg. 16 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
 
 [^f00038]: Footnote: Regulation 2(2C) was inserted by regulation 4(3)(g) of [S.R. 2016 No. 229](https://www.legislation.gov.uk/nisr/2016/229) and amended by regulation 3(3)(b) of [S.I. 2023/664](https://www.legislation.gov.uk/uksi/2023/664)
 
-[^key-e052bad8f8b8dd630cb9866272926c76]: Commencement: Reg. 17 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)
+[^c-e052bad8f8b8dd630cb9866272926c76]: Commencement: Reg. 17 in operation at 19.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Application of CLA receipts[^key-8838ba052b803c5013bc432fedd9fd38]
+## 143. Application of CLA receipts[^c-8838ba052b803c5013bc432fedd9fd38]
 
 *Extent: E+W*
 
@@ -99,4 +99,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8838ba052b803c5013bc432fedd9fd38]: Commencement: S. 143 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)
+[^c-8838ba052b803c5013bc432fedd9fd38]: Commencement: S. 143 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)

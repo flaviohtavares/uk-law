@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29.2. Application to remove a disqualification from driving[^key-8d254d77591b2692293943c1066d8d29]
+## 29.2. Application to remove a disqualification from driving[^c-8d254d77591b2692293943c1066d8d29]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8d254d77591b2692293943c1066d8d29]: Commencement: [Rule 29.2](https://www.legislation.gov.uk/uksi/2025/909/rule/29.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-8d254d77591b2692293943c1066d8d29]: Commencement: [Rule 29.2](https://www.legislation.gov.uk/uksi/2025/909/rule/29.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00705]: Footnote: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53); section 42 was amended by section 48 of, and paragraph 98 of Schedule 4 to, the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40), sections 9, 10 and 59 of, and paragraphs 2 and 8 of Schedule 2, paragraphs 30 and 40 of Schedule 3 and Schedule 7 to, the Road Safety Act [2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49) and paragraph 90 of Schedule 21 to the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25).

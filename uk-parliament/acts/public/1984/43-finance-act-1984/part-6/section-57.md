@@ -28,8 +28,8 @@ summary: ''
 
   > (5) The Treasury may by Order made by statutory instrument increase the sums specified in subsection (1) above; and any such statutory instrument shall be subject to annulment in pursuance of a resolution of the Commons House of Parliament.
 
-(2)[^key-9364293d42ec38e335a270f40032c916] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9364293d42ec38e335a270f40032c916] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9364293d42ec38e335a270f40032c916]: Textual amendment: [S. 57(2)](https://www.legislation.gov.uk/ukpga/1984/43/section/57/2) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 137(3)](https://www.legislation.gov.uk/ukpga/2008/9/section/137/3) (with [s. 137(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/137/7))
+[^c-9364293d42ec38e335a270f40032c916]: Textual amendment: [S. 57(2)](https://www.legislation.gov.uk/ukpga/1984/43/section/57/2) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 137(3)](https://www.legislation.gov.uk/ukpga/2008/9/section/137/3) (with [s. 137(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/137/7))

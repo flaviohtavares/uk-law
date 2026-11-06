@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Venue and conduct of members’ meeting[^key-1e70c00ec9cc53993c2ac17e42edf06c]
+## 32. Venue and conduct of members’ meeting[^c-1e70c00ec9cc53993c2ac17e42edf06c]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1e70c00ec9cc53993c2ac17e42edf06c]: Commencement: [Rule 32](https://www.legislation.gov.uk/uksi/2007/3141/rule/32) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-1e70c00ec9cc53993c2ac17e42edf06c]: Commencement: [Rule 32](https://www.legislation.gov.uk/uksi/2007/3141/rule/32) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
 
 [^f00015]: Footnote: Schedule 3 to [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194) contains transitional provisions and savings relating to provisions (and repeals) in the 2006 Act which are brought into force by that Order. These include provisions and savings relating to company meetings.

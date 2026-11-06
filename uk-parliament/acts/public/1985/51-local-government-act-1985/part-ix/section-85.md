@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Exercise of functions by new authorities in initial period.[^key-e1c8ecbbd650d866d8f4bf9d52991942]
+## 85. Exercise of functions by new authorities in initial period.[^c-e1c8ecbbd650d866d8f4bf9d52991942]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1c8ecbbd650d866d8f4bf9d52991942]: Textual amendment: [S. 85](https://www.legislation.gov.uk/ukpga/1985/51/section/85) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-e1c8ecbbd650d866d8f4bf9d52991942]: Textual amendment: [S. 85](https://www.legislation.gov.uk/ukpga/1985/51/section/85) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3

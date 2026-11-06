@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Fatigue of air traffic controllers - air traffic controller’s responsibilities[^key-af39ac8c475d672bc409ca9966017423]
+## 149. Fatigue of air traffic controllers - air traffic controller’s responsibilities[^c-af39ac8c475d672bc409ca9966017423]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person must not act as an air traffic controller if he or she knows or suspect
 
 ## Annotations
 
-[^key-af39ac8c475d672bc409ca9966017423]: Commencement: [Art. 149](https://www.legislation.gov.uk/uksi/2013/2870/article/149) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-af39ac8c475d672bc409ca9966017423]: Commencement: [Art. 149](https://www.legislation.gov.uk/uksi/2013/2870/article/149) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

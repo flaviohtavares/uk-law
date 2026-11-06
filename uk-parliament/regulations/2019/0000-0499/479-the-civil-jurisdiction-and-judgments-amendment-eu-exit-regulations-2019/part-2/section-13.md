@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13.[^key-e0745b1559ee673ef66e129991c9819b]
+## 13.[^c-e0745b1559ee673ef66e129991c9819b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit section 5A (recognition and enforcement of maintenance orders under the Lug
 
 ## Annotations
 
-[^key-e0745b1559ee673ef66e129991c9819b]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-e0745b1559ee673ef66e129991c9819b]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)

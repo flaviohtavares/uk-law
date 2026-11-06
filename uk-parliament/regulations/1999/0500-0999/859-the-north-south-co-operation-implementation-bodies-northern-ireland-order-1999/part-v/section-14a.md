@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14A. Implementation of PEACE PLUS[^key-dc876963f7a157625da2a212a9a12400]
+## 14A. Implementation of PEACE PLUS[^c-dc876963f7a157625da2a212a9a12400]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc876963f7a157625da2a212a9a12400]: Textual amendment: [Art. 14A](https://www.legislation.gov.uk/uksi/1999/859/article/14A) inserted (18.5.2023) by [The PEACE PLUS Programme (Northern Ireland) Regulations 2023 (S.I. 2023/477)](https://www.legislation.gov.uk/uksi/2023/477), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/477/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/477/regulation/2/2)
+[^c-dc876963f7a157625da2a212a9a12400]: Textual amendment: [Art. 14A](https://www.legislation.gov.uk/uksi/1999/859/article/14A) inserted (18.5.2023) by [The PEACE PLUS Programme (Northern Ireland) Regulations 2023 (S.I. 2023/477)](https://www.legislation.gov.uk/uksi/2023/477), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/477/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/477/regulation/2/2)

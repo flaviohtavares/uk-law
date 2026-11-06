@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Air weapons[^key-ba7ff41275ac0e330a965598552147f7]
+## 10. Air weapons[^c-ba7ff41275ac0e330a965598552147f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In Part 2 of Schedule 5 to the 1998 Act, in Section B4 (specific reservations: f
 
 ## Annotations
 
-[^key-ba7ff41275ac0e330a965598552147f7]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2012/11/section/10) in force at 3.7.2012 by [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/e)
+[^c-ba7ff41275ac0e330a965598552147f7]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2012/11/section/10) in force at 3.7.2012 by [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/e)

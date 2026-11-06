@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29.10. Appendices to print considered unnecessary[^key-cf733bccd2a153f8823d4f9559963257]
+## 29.10. Appendices to print considered unnecessary[^c-cf733bccd2a153f8823d4f9559963257]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf733bccd2a153f8823d4f9559963257]: Commencement: Para. 29.10 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-cf733bccd2a153f8823d4f9559963257]: Commencement: Para. 29.10 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

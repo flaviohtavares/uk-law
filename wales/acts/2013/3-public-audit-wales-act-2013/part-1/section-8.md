@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. How functions are to be exercised[^key-224c1c310c1f8166f949378c04c6d402][^key-c6863dddc39007e5107f83065c153dd9]
+## 8. How functions are to be exercised[^c-224c1c310c1f8166f949378c04c6d402][^c-c6863dddc39007e5107f83065c153dd9]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-224c1c310c1f8166f949378c04c6d402]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2013/3/section/8) in force at 4.7.2013 for specified purposes by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/b)
+[^c-224c1c310c1f8166f949378c04c6d402]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2013/3/section/8) in force at 4.7.2013 for specified purposes by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/b)
 
-[^key-c6863dddc39007e5107f83065c153dd9]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2013/3/section/8) in force at 1.4.2014 in so far as not already in force by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-c6863dddc39007e5107f83065c153dd9]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2013/3/section/8) in force at 1.4.2014 in so far as not already in force by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)

@@ -63,7 +63,7 @@ HAS ADOPTED THIS DECISION:
 
 **Article 1.** The best available techniques (BAT) conclusions for the non-ferrous metals industries, as set out in the Annex, are adopted.
 
-## Article 2. Application and Interpretation[^key-07e32c9bd7e7f72e79d13114977f67d0]
+## Article 2. Application and Interpretation[^c-07e32c9bd7e7f72e79d13114977f67d0]
 
 1. The BAT conclusions referred to in Article 1 apply in the United Kingdom.
 
@@ -4170,7 +4170,7 @@ The techniques described below are listed according to the main pollutant(s) the
 
 [^f00002]: Footnote: [OJ C 146, 17.5.2011, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2011.146.01.0003.01.ENG).
 
-[^key-07e32c9bd7e7f72e79d13114977f67d0]: Textual amendment: Art. 2 substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [18(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/18/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-07e32c9bd7e7f72e79d13114977f67d0]: Textual amendment: Art. 2 substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [18(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/18/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00003]: Footnote: For batch processes, the average of a representative number of measurements taken over the total batch time or the result of a measurement carried out over the total batch time can be used.
 

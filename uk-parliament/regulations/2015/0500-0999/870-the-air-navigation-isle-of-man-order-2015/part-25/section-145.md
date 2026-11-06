@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Revocation, suspension and variation of permissions, etc. granted under article 139 ...[^key-1406a7f2f162f5169c6e4833b8c3106f][^key-6d80364f484db7c970aec81c94e44115]
+## 145. Revocation, suspension and variation of permissions, etc. granted under article 139 ...[^c-1406a7f2f162f5169c6e4833b8c3106f][^c-6d80364f484db7c970aec81c94e44115]
 
 *Extent: E+W+S+N.I.*
 
-(1) The permits to which this article applies are permissions granted by the Department under article 139 [^key-41c640292f1ad42adab0a00f9fd64087]... and any approvals or authorisations of, or consents to, any matter that the Department has granted, or is to be taken to have granted, in pursuance of a permission that it has so granted.
+(1) The permits to which this article applies are permissions granted by the Department under article 139 [^c-41c640292f1ad42adab0a00f9fd64087]... and any approvals or authorisations of, or consents to, any matter that the Department has granted, or is to be taken to have granted, in pursuance of a permission that it has so granted.
 
 (2) Subject to the provisions of this article, the Department may revoke, suspend or vary a permit to which this article applies.
 
@@ -48,10 +48,10 @@ summary: ''
 
 ## Annotations
 
-[^key-1406a7f2f162f5169c6e4833b8c3106f]: Commencement: [Art. 145](https://www.legislation.gov.uk/uksi/2015/870/article/145) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-1406a7f2f162f5169c6e4833b8c3106f]: Commencement: [Art. 145](https://www.legislation.gov.uk/uksi/2015/870/article/145) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
 
-[^key-6d80364f484db7c970aec81c94e44115]: Textual amendment: Words in [art. 145](https://www.legislation.gov.uk/uksi/2015/870/article/145) heading omitted (coming into force in accordance with amended art. 1(4) of the original Order) by virtue of [S.I. 2022/172](https://www.legislation.gov.uk/uksi/2022/172), [art. 8A(a)](https://www.legislation.gov.uk/uksi/2022/172/article/8A/a) (as inserted by [The Air Navigation (Isle of Man) (Amendment) (No. 2) Order 2022 (S.I. 2022/324)](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [5](https://www.legislation.gov.uk/uksi/2022/324/article/5))
+[^c-6d80364f484db7c970aec81c94e44115]: Textual amendment: Words in [art. 145](https://www.legislation.gov.uk/uksi/2015/870/article/145) heading omitted (coming into force in accordance with amended art. 1(4) of the original Order) by virtue of [S.I. 2022/172](https://www.legislation.gov.uk/uksi/2022/172), [art. 8A(a)](https://www.legislation.gov.uk/uksi/2022/172/article/8A/a) (as inserted by [The Air Navigation (Isle of Man) (Amendment) (No. 2) Order 2022 (S.I. 2022/324)](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [5](https://www.legislation.gov.uk/uksi/2022/324/article/5))
 
-[^key-41c640292f1ad42adab0a00f9fd64087]: Textual amendment: Words in [art. 145(1)](https://www.legislation.gov.uk/uksi/2015/870/article/145/1) omitted (coming into force in accordance with amended art. 1(4) of the original Order) by virtue of [S.I. 2022/172](https://www.legislation.gov.uk/uksi/2022/172), [art. 8A(b)](https://www.legislation.gov.uk/uksi/2022/172/article/8A/b) (as inserted by [The Air Navigation (Isle of Man) (Amendment) (No. 2) Order 2022 (S.I. 2022/324)](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [5](https://www.legislation.gov.uk/uksi/2022/324/article/5))
+[^c-41c640292f1ad42adab0a00f9fd64087]: Textual amendment: Words in [art. 145(1)](https://www.legislation.gov.uk/uksi/2015/870/article/145/1) omitted (coming into force in accordance with amended art. 1(4) of the original Order) by virtue of [S.I. 2022/172](https://www.legislation.gov.uk/uksi/2022/172), [art. 8A(b)](https://www.legislation.gov.uk/uksi/2022/172/article/8A/b) (as inserted by [The Air Navigation (Isle of Man) (Amendment) (No. 2) Order 2022 (S.I. 2022/324)](https://www.legislation.gov.uk/uksi/2022/324), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/324/article/1/2), [5](https://www.legislation.gov.uk/uksi/2022/324/article/5))
 
 [^f00015]: Footnote: [1982 c. 16](https://www.legislation.gov.uk/ukpga/1982/16).

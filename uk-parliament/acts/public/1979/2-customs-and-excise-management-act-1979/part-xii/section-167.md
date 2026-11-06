@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167. Untrue declarations, etc.[^c14781751][^c14781761][^key-33d97a7a7ebe81d71f4a8e6f6b64fcad][^c14781741]
+## 167. Untrue declarations, etc.[^c14781751][^c14781761][^c-33d97a7a7ebe81d71f4a8e6f6b64fcad][^c14781741]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ being a document or statement produced or made for any purpose of any assigned m
 
 (2) Without prejudice to subsection (4) below, a person who commits an offence under subsection (1) above shall be liable—
 
-- (a)[^c14781771] on summary conviction, to a penalty of the prescribed sum *(affected by repeal, see note)*[^key-ff6c7c625f6ee31bc5d5f3e7bd88aec9]£20,000, or to imprisonment for a term not exceeding 6 months, or to both; or
+- (a)[^c14781771] on summary conviction, to a penalty of the prescribed sum *(affected by repeal, see note)*[^c-ff6c7c625f6ee31bc5d5f3e7bd88aec9]£20,000, or to imprisonment for a term not exceeding 6 months, or to both; or
 - (b) on conviction on indictment, to a penalty of any amount, or to imprisonment for a term not exceeding 2 years, or to both.
 
 (3) If any person—
@@ -49,13 +49,13 @@ being a document or statement produced or made for any purpose of any assigned m
 
 [^c14781761]: Modification: S. 167 restricted (1.6.1997) by [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [ss. 12A](https://www.legislation.gov.uk/ukpga/1994/9/section/12A), [12B](https://www.legislation.gov.uk/ukpga/1994/9/section/12B) (as inserted by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 50(2)](https://www.legislation.gov.uk/ukpga/1997/16/section/50/2), [Sch. 6 para. 1(1)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/6/paragraph/1/1)); [S.I. 1997/1305](https://www.legislation.gov.uk/uksi/1997/1305), [art. 2](https://www.legislation.gov.uk/uksi/1997/1305/article/2)
 
-[^key-33d97a7a7ebe81d71f4a8e6f6b64fcad]: Modification: S. 167 excluded (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2005/11/schedule/2/paragraph/6); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/d)
+[^c-33d97a7a7ebe81d71f4a8e6f6b64fcad]: Modification: S. 167 excluded (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2005/11/schedule/2/paragraph/6); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/d)
 
 [^c14781741]: Modification: S. 167 excluded (E.W.S.) by [Film Levy Finance Act 1981 (c. 16, SIF 45A)](https://www.legislation.gov.uk/ukpga/1981/16), [s. 7(5)](https://www.legislation.gov.uk/ukpga/1981/16/section/7/5)
 
 [^c14781771]: Modification: s. 167(2)(a) modified (1.12.1992) by [S.I. 1992/2790](https://www.legislation.gov.uk/uksi/1992/2790), [reg. 12](https://www.legislation.gov.uk/uksi/1992/2790/regulation/12).
 
-[^key-ff6c7c625f6ee31bc5d5f3e7bd88aec9]: Textual amendment: S. 167(2)(a): sum substituted for words (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 1(19)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/1/19) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-ff6c7c625f6ee31bc5d5f3e7bd88aec9]: Textual amendment: S. 167(2)(a): sum substituted for words (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 1(19)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/1/19) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
 [^c14781781]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289F](https://www.legislation.gov.uk/ukpga/1975/21/section/289F), [289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G) and (N.I.) by [S.I. 1984/703](https://www.legislation.gov.uk/uksi/1984/703), (N.I. 3) arts. 5, 6
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Recovery of compensation from new licence-holder[^key-a98ee8e6f4f2f90080a78f465a29ae77]
+## 26. Recovery of compensation from new licence-holder[^c-a98ee8e6f4f2f90080a78f465a29ae77]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ After section 61 of the WRA there is inserted—
 
 ## Annotations
 
-[^key-a98ee8e6f4f2f90080a78f465a29ae77]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2003/37/section/26) in force at 1.10.2004 by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/a) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/1)[8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
+[^c-a98ee8e6f4f2f90080a78f465a29ae77]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2003/37/section/26) in force at 1.10.2004 by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/a) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/1)[8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))

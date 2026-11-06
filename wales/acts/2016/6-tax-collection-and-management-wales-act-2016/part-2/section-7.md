@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Removal of members etc.[^key-040ad34759bd413ef98ec0e7401b6d67]
+## 7. Removal of members etc.[^c-040ad34759bd413ef98ec0e7401b6d67]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-040ad34759bd413ef98ec0e7401b6d67]: Commencement: S. 7 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)
+[^c-040ad34759bd413ef98ec0e7401b6d67]: Commencement: S. 7 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)

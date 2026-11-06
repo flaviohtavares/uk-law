@@ -39,33 +39,33 @@ Coming into operation
 
 24th April 2000
 
-[^key-d302e0251d224aa80424c9050b030440]The Department of the Environment, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the prevention and limitation of the effects of accidents involving dangerous substances, in exercise of the powers conferred upon it by that section and by Articles 53(3) to (5), 54(1), 60(3), 129(1) and paragraph 4(4) of Schedule 4 to the Planning (Northern Ireland) Order 1991[^f00003] and of all other powers enabling it in that behalf, hereby makes the following regulations:
+[^c-d302e0251d224aa80424c9050b030440]The Department of the Environment, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the prevention and limitation of the effects of accidents involving dangerous substances, in exercise of the powers conferred upon it by that section and by Articles 53(3) to (5), 54(1), 60(3), 129(1) and paragraph 4(4) of Schedule 4 to the Planning (Northern Ireland) Order 1991[^f00003] and of all other powers enabling it in that behalf, hereby makes the following regulations:
 
-## 1. Citation, commencement and interpretation[^key-d302e0251d224aa80424c9050b030440]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendments to the 1991 Order[^key-d302e0251d224aa80424c9050b030440]
+## 1. Citation, commencement and interpretation[^c-d302e0251d224aa80424c9050b030440]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the Hazardous Substances Regulations[^key-d302e0251d224aa80424c9050b030440]
+## 2. Amendments to the 1991 Order[^c-d302e0251d224aa80424c9050b030440]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provisions[^key-d302e0251d224aa80424c9050b030440]
+## 3. Amendment to the Hazardous Substances Regulations[^c-d302e0251d224aa80424c9050b030440]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment to the Planning (Development Plans) Regulations (Northern Ireland) 1991[^key-d05d60a7cde5dd196c5cb992f354d3a3]
+## 4. Transitional provisions[^c-d302e0251d224aa80424c9050b030440]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment to the Planning (Development Plans) Regulations (Northern Ireland) 1991[^c-d05d60a7cde5dd196c5cb992f354d3a3]
 
 (1) The Planning (Development Plans) Regulations (Northern Ireland) 1991[^f00009] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -99,7 +99,7 @@ Coming into operation
 
 .
 
-## 6. Amendment to the Planning (General Development) Order (Northern Ireland) 1993[^key-d302e0251d224aa80424c9050b030440]
+## 6. Amendment to the Planning (General Development) Order (Northern Ireland) 1993[^c-d302e0251d224aa80424c9050b030440]
 
 **No longer in force.**
 
@@ -113,7 +113,7 @@ A senior officer of the
 
 Department of the Environment
 
-## SCHEDULE 1[^key-d302e0251d224aa80424c9050b030440]
+## SCHEDULE 1[^c-d302e0251d224aa80424c9050b030440]
 
 **No longer in force.**
 
@@ -121,7 +121,7 @@ Regulation 3(7)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-d302e0251d224aa80424c9050b030440]
+## SCHEDULE 2[^c-d302e0251d224aa80424c9050b030440]
 
 Regulation 3(9)
 
@@ -149,7 +149,7 @@ Regulation 6 amends the Planning (General Development) Order (Northern Ireland) 
 
 ## Annotations
 
-[^key-d302e0251d224aa80424c9050b030440]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/101) revoked (except for reg. 5) (1.4.2015) by [The Planning (2011 Act) (Commencement No.3) and (Transitional Provisions) Order (Northern Ireland) 2015 (S.R. 2015/49)](https://www.legislation.gov.uk/nisr/2015/49), [art. 5(a)](https://www.legislation.gov.uk/nisr/2015/49/article/5/a)
+[^c-d302e0251d224aa80424c9050b030440]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/101) revoked (except for reg. 5) (1.4.2015) by [The Planning (2011 Act) (Commencement No.3) and (Transitional Provisions) Order (Northern Ireland) 2015 (S.R. 2015/49)](https://www.legislation.gov.uk/nisr/2015/49), [art. 5(a)](https://www.legislation.gov.uk/nisr/2015/49/article/5/a)
 
 [^f00001]: Footnote: [S.I. 1998/1750](https://www.legislation.gov.uk/uksi/1998/1750)
 
@@ -157,6 +157,6 @@ Regulation 6 amends the Planning (General Development) Order (Northern Ireland) 
 
 [^f00003]: Footnote: [S.I. 1991/1220 (N.I. 11)](https://www.legislation.gov.uk/nisi/1991/1220)
 
-[^key-d05d60a7cde5dd196c5cb992f354d3a3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2000/101/regulation/5) in operation at 24.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/101/regulation/1/1)
+[^c-d05d60a7cde5dd196c5cb992f354d3a3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2000/101/regulation/5) in operation at 24.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/101/regulation/1/1)
 
 [^f00009]: Footnote: [S.R. 1991 No. 119](https://www.legislation.gov.uk/nisr/1991/119) as amended by [S.R. 1994 No. 394](https://www.legislation.gov.uk/nisr/1994/394)

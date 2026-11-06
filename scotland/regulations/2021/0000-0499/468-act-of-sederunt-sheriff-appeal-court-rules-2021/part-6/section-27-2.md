@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27.2. Application for use of live link[^key-5f42f01c08b7f82023a295b9c8cabfee]
+## 27.2. Application for use of live link[^c-5f42f01c08b7f82023a295b9c8cabfee]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f42f01c08b7f82023a295b9c8cabfee]: Commencement: Para. 27.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-5f42f01c08b7f82023a295b9c8cabfee]: Commencement: Para. 27.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

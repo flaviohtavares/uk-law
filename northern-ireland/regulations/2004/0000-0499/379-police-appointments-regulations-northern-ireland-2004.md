@@ -43,19 +43,19 @@ Coming into operation
 
 The Secretary of State, in pursuance of sections 25 and 26 of the Police (Northern Ireland) Act 1998[^f00001], and after consulting the Northern Ireland Policing Board and the Police Association for Northern Ireland, and after taking into consideration the recommendations of the Police Negotiating Board for the United Kingdom and supplying that Board with a draft of these regulations in accordance with section 62(1) of the Police Act 1996[^f00002], hereby makes the following regulations:
 
-## 1. Citation and commencement[^key-623f8f5ef4d8e9db9578fea80781db0f]
+## 1. Citation and commencement[^c-623f8f5ef4d8e9db9578fea80781db0f]
 
 (1) These regulations may be cited as the Police (Appointments) Regulations (Northern Ireland) 2004.
 
 (2) These regulations shall come into operation on 1st October 2004.
 
-## 2. Qualifications for appointment[^key-a36bbdbc5c1e9a735f2f5dcdcad95b54]
+## 2. Qualifications for appointment[^c-a36bbdbc5c1e9a735f2f5dcdcad95b54]
 
-(1)[^key-8f0cb446ca6093e7cef407839b110824] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-8f0cb446ca6093e7cef407839b110824] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In regulation 2(2)(c) of the Police (Recruitment) (Northern Ireland) Regulations 2001[^f00004] (qualified candidate for appointment as a police trainee or police reserve trainee must be certified as being in good health, of sound constitution and fitted physically and mentally to perform the duties of a police officer) the words “in good health, of sound constitution and” shall be omitted.
 
-## 3. Part-time appointments[^key-278f0cd6725c5fa366c1902cbdba75ff]
+## 3. Part-time appointments[^c-278f0cd6725c5fa366c1902cbdba75ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -81,12 +81,12 @@ Regulation 3 amends the rules on part-time working in the Police Service of Nort
 
 [^f00002]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16)
 
-[^key-623f8f5ef4d8e9db9578fea80781db0f]: Commencement: Reg. 1 in operation at 1.10.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/379/regulation/1/2)
+[^c-623f8f5ef4d8e9db9578fea80781db0f]: Commencement: Reg. 1 in operation at 1.10.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/379/regulation/1/2)
 
-[^key-a36bbdbc5c1e9a735f2f5dcdcad95b54]: Commencement: Reg. 2 in operation at 1.10.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/379/regulation/1/2)
+[^c-a36bbdbc5c1e9a735f2f5dcdcad95b54]: Commencement: Reg. 2 in operation at 1.10.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/379/regulation/1/2)
 
-[^key-8f0cb446ca6093e7cef407839b110824]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2004/379/regulation/2/1) revoked (13.1.2006) by [Police Service of Northern Ireland Regulations 2005 (S.R. 2005/547)](https://www.legislation.gov.uk/nisr/2005/547), [art. 2(h)](https://www.legislation.gov.uk/nisr/2005/547/article/2/h), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-8f0cb446ca6093e7cef407839b110824]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2004/379/regulation/2/1) revoked (13.1.2006) by [Police Service of Northern Ireland Regulations 2005 (S.R. 2005/547)](https://www.legislation.gov.uk/nisr/2005/547), [art. 2(h)](https://www.legislation.gov.uk/nisr/2005/547/article/2/h), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
 [^f00004]: Footnote: [S.R. 2001 No. 140](https://www.legislation.gov.uk/nisr/2001/140), as amended by [S.R. 2002 No. 385](https://www.legislation.gov.uk/nisr/2002/385), [S.R. 2003 No. 372](https://www.legislation.gov.uk/nisr/2003/372) and [S.R. 2004 No. 1](https://www.legislation.gov.uk/nisr/2004/1)
 
-[^key-278f0cd6725c5fa366c1902cbdba75ff]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/379/regulation/3) revoked (13.1.2006) by [Police Service of Northern Ireland Regulations 2005 (S.R. 2005/547)](https://www.legislation.gov.uk/nisr/2005/547), [art. 2(h)](https://www.legislation.gov.uk/nisr/2005/547/article/2/h), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-278f0cd6725c5fa366c1902cbdba75ff]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/379/regulation/3) revoked (13.1.2006) by [Police Service of Northern Ireland Regulations 2005 (S.R. 2005/547)](https://www.legislation.gov.uk/nisr/2005/547), [art. 2(h)](https://www.legislation.gov.uk/nisr/2005/547/article/2/h), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)

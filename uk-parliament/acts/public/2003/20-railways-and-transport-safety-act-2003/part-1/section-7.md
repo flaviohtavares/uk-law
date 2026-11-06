@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Investigations[^key-5376c9d09f9daa1995ad885de411095c]
+## 7. Investigations[^c-5376c9d09f9daa1995ad885de411095c]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5376c9d09f9daa1995ad885de411095c]: Commencement: S. 7 in force at 17.10.2005 by [S.I. 2005/1991](https://www.legislation.gov.uk/uksi/2005/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/1)[(2)(vii)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/2/vii)
+[^c-5376c9d09f9daa1995ad885de411095c]: Commencement: S. 7 in force at 17.10.2005 by [S.I. 2005/1991](https://www.legislation.gov.uk/uksi/2005/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/1)[(2)(vii)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/2/vii)

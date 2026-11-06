@@ -35,7 +35,7 @@ An Act to authorise the use of resources for the year ending with 31 March 2013;
 
 Whereas the Commons of the United Kingdom in Parliament assembled have resolved to authorise the use of resources and the issue of sums out of the Consolidated Fund towards making good the supply which they have granted to Her Majesty in this Session of Parliament:—
 
-Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-fcea561ece4861af68dde58d55fdd9dc]
+Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-fcea561ece4861af68dde58d55fdd9dc]
 
 ## 1. Main authorisation for use of resources for 2012-13
 
@@ -923,4 +923,4 @@ Local Government Boundary Commission for England, 2012-13 Local Government Bound
 
 ## Annotations
 
-[^key-fcea561ece4861af68dde58d55fdd9dc]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2012/13) modified (26.3.2013) by [Supply and Appropriation (Anticipation and Adjustments) Act 2013 (c. 12)](https://www.legislation.gov.uk/ukpga/2013/12), [Sch. 1](https://www.legislation.gov.uk/ukpga/2013/12/schedule/1)
+[^c-fcea561ece4861af68dde58d55fdd9dc]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2012/13) modified (26.3.2013) by [Supply and Appropriation (Anticipation and Adjustments) Act 2013 (c. 12)](https://www.legislation.gov.uk/ukpga/2013/12), [Sch. 1](https://www.legislation.gov.uk/ukpga/2013/12/schedule/1)

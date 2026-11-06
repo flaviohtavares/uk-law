@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29A. Positions of trust: further categories[^key-f2cb69738596935fca527b046e3973f0]
+## 29A. Positions of trust: further categories[^c-f2cb69738596935fca527b046e3973f0]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2cb69738596935fca527b046e3973f0]: Textual amendment: [Art. 29A](https://www.legislation.gov.uk/nisi/2008/1769/article/29A) inserted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [ss. 5(4)](https://www.legislation.gov.uk/nia/2022/19/section/5/4), [30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
+[^c-f2cb69738596935fca527b046e3973f0]: Textual amendment: [Art. 29A](https://www.legislation.gov.uk/nisi/2008/1769/article/29A) inserted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [ss. 5(4)](https://www.legislation.gov.uk/nia/2022/19/section/5/4), [30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)

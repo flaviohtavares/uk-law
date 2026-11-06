@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37.[^key-959b7eaeb3689377a1944e50a8631ccf]
+## 37.[^c-959b7eaeb3689377a1944e50a8631ccf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 16A [^c24395111] (simplified invoices), after “£250 and” inse
 
 ## Annotations
 
-[^key-959b7eaeb3689377a1944e50a8631ccf]: Commencement: Reg. 37 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-959b7eaeb3689377a1944e50a8631ccf]: Commencement: Reg. 37 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395111]: Marginal citation: Relevantly amended by [S.I. 2012/295](https://www.legislation.gov.uk/uksi/2012/295) and 2019/59. The amendment made by the latter instrument has not been commenced and is omitted by this instrument.

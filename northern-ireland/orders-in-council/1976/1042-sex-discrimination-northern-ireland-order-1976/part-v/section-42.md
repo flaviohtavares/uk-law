@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Liability of employers and principals[^c17234051][^key-e5df10ce961c9098e3511dcf4c4dc359]
+## 42. Liability of employers and principals[^c17234051][^c-e5df10ce961c9098e3511dcf4c4dc359]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 [^c17234051]: Textual amendment: mod. SR 1991/127
 
-[^key-e5df10ce961c9098e3511dcf4c4dc359]: Modification: Art. 42 applied (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 4 para. 4(3)(4)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/4/paragraph); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(k)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/k)
+[^c-e5df10ce961c9098e3511dcf4c4dc359]: Modification: Art. 42 applied (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 4 para. 4(3)(4)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/4/paragraph); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(k)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/k)

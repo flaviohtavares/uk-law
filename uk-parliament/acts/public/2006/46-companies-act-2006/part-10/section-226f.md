@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 226F. Relationship with requirements under Chapter 4[^key-f3c4339cb80075dc81295f5c317ae996]
+## 226F. Relationship with requirements under Chapter 4[^c-f3c4339cb80075dc81295f5c317ae996]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3c4339cb80075dc81295f5c317ae996]: Textual amendment: Pt. 10 Ch. 4A inserted (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 80](https://www.legislation.gov.uk/ukpga/2013/24/section/80), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/h)
+[^c-f3c4339cb80075dc81295f5c317ae996]: Textual amendment: Pt. 10 Ch. 4A inserted (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 80](https://www.legislation.gov.uk/ukpga/2013/24/section/80), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/h)

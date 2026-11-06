@@ -33,7 +33,7 @@ PESTICIDES
 
 FEES AND CHARGES
 
-The Plant Protection Products (Fees) Regulations 2003 (revoked)[^key-23fe6b57829c0f368d85930ad09ebeb5]
+The Plant Protection Products (Fees) Regulations 2003 (revoked)[^c-23fe6b57829c0f368d85930ad09ebeb5]
 
 Made
 
@@ -47,33 +47,33 @@ Coming into force
 
 1st April 2003
 
-[^key-23fe6b57829c0f368d85930ad09ebeb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23fe6b57829c0f368d85930ad09ebeb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, extent and interpretation[^key-23fe6b57829c0f368d85930ad09ebeb5]
+## 1. Title, commencement, extent and interpretation[^c-23fe6b57829c0f368d85930ad09ebeb5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees in connection with applications under the Plant Protection Products Regulations 1995[^key-23fe6b57829c0f368d85930ad09ebeb5]
+## 2. Fees in connection with applications under the Plant Protection Products Regulations 1995[^c-23fe6b57829c0f368d85930ad09ebeb5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provisions[^key-23fe6b57829c0f368d85930ad09ebeb5]
+## 3. Transitional provisions[^c-23fe6b57829c0f368d85930ad09ebeb5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3A.**[^key-23fe6b57829c0f368d85930ad09ebeb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3A.**[^c-23fe6b57829c0f368d85930ad09ebeb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation of previous Regulations[^key-23fe6b57829c0f368d85930ad09ebeb5]
+## 4. Revocation of previous Regulations[^c-23fe6b57829c0f368d85930ad09ebeb5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-23fe6b57829c0f368d85930ad09ebeb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23fe6b57829c0f368d85930ad09ebeb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Table of amounts payable for types of examination undertaken[^key-23fe6b57829c0f368d85930ad09ebeb5]
+## SCHEDULE — Table of amounts payable for types of examination undertaken[^c-23fe6b57829c0f368d85930ad09ebeb5]
 
 Regulation 2(5)
 
@@ -81,8 +81,8 @@ Regulation 2(5)
 
 **May not be in force at this date. Check the source.**
 
-[^key-23fe6b57829c0f368d85930ad09ebeb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23fe6b57829c0f368d85930ad09ebeb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-23fe6b57829c0f368d85930ad09ebeb5]: Textual amendment: Regulations revoked (1.3.2007) by [The Plant Protection Products (Fees) Regulations 2007 (S.I. 2007/295)](https://www.legislation.gov.uk/uksi/2007/295), [regs. 1](https://www.legislation.gov.uk/uksi/2007/295/regulation/4/b), [4(b)](https://www.legislation.gov.uk/uksi/2007/295/regulation/4/b)
+[^c-23fe6b57829c0f368d85930ad09ebeb5]: Textual amendment: Regulations revoked (1.3.2007) by [The Plant Protection Products (Fees) Regulations 2007 (S.I. 2007/295)](https://www.legislation.gov.uk/uksi/2007/295), [regs. 1](https://www.legislation.gov.uk/uksi/2007/295/regulation/4/b), [4(b)](https://www.legislation.gov.uk/uksi/2007/295/regulation/4/b)

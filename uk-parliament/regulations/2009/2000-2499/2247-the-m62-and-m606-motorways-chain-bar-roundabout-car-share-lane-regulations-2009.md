@@ -32,7 +32,7 @@ summary: ''
 
 Road Traffic
 
-The M62 and M606 Motorways (Chain Bar Roundabout) (Car Share Lane) Regulations 2009 (revoked)[^key-a9104cfbdf7fe97715047a69093793ca]
+The M62 and M606 Motorways (Chain Bar Roundabout) (Car Share Lane) Regulations 2009 (revoked)[^c-a9104cfbdf7fe97715047a69093793ca]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 15th September 2009
 
-[^key-a9104cfbdf7fe97715047a69093793ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9104cfbdf7fe97715047a69093793ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a9104cfbdf7fe97715047a69093793ca]
+## 1. Citation and commencement[^c-a9104cfbdf7fe97715047a69093793ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-a9104cfbdf7fe97715047a69093793ca]
+## 2. Interpretation[^c-a9104cfbdf7fe97715047a69093793ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Restriction on use of car share lane[^key-a9104cfbdf7fe97715047a69093793ca]
+## 3. Restriction on use of car share lane[^c-a9104cfbdf7fe97715047a69093793ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exceptions to the prohibition on use of the car share lane[^key-a9104cfbdf7fe97715047a69093793ca]
+## 4. Exceptions to the prohibition on use of the car share lane[^c-a9104cfbdf7fe97715047a69093793ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a9104cfbdf7fe97715047a69093793ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9104cfbdf7fe97715047a69093793ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a9104cfbdf7fe97715047a69093793ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9104cfbdf7fe97715047a69093793ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a9104cfbdf7fe97715047a69093793ca]: Textual amendment: Regulations revoked (24.2.2020) by [The M62 and M606 Motorways (Chain Bar Roundabout) (Car Share Lane) (Revocation) Regulations 2020 (S.I. 2020/68)](https://www.legislation.gov.uk/uksi/2020/68), [regs. 1](https://www.legislation.gov.uk/uksi/2020/68/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/68/regulation/2)
+[^c-a9104cfbdf7fe97715047a69093793ca]: Textual amendment: Regulations revoked (24.2.2020) by [The M62 and M606 Motorways (Chain Bar Roundabout) (Car Share Lane) (Revocation) Regulations 2020 (S.I. 2020/68)](https://www.legislation.gov.uk/uksi/2020/68), [regs. 1](https://www.legislation.gov.uk/uksi/2020/68/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/68/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Citation, commencement and effect[^key-40cf35b2befe435ae371350f127589e4]
+## 1. Citation, commencement and effect[^c-40cf35b2befe435ae371350f127589e4]
 
 *Extent: S*
 
@@ -57,7 +57,7 @@ summary: ''
 
 ## Annotations
 
-[^key-40cf35b2befe435ae371350f127589e4]: Commencement: Reg. 1 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
+[^c-40cf35b2befe435ae371350f127589e4]: Commencement: Reg. 1 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
 
 [^f00003]: Footnote: Section 12(1) of the Superannuation Act 1972 provides that Regulations may be framed so as to have effect from a date earlier than that of their making.
 

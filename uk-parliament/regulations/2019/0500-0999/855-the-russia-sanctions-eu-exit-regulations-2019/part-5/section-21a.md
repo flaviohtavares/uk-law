@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21A. Definition of interception and monitoring services[^key-fff547bdc80f7123b843184f67660012]
+## 21A. Definition of interception and monitoring services[^c-fff547bdc80f7123b843184f67660012]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fff547bdc80f7123b843184f67660012]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/uksi/2019/855/regulation/21A) inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/792/regulation/4) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))
+[^c-fff547bdc80f7123b843184f67660012]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/uksi/2019/855/regulation/21A) inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/792/regulation/4) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))

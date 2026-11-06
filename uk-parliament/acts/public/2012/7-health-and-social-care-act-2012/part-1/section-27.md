@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Financial arrangements for clinical commissioning groups[^key-a2632f33dbeb7982a379d8795e7f607f][^key-f5dde99221830d41d0ff9160ff7eb5e5][^c2191282]
+## 27. Financial arrangements for clinical commissioning groups[^c-a2632f33dbeb7982a379d8795e7f607f][^c-f5dde99221830d41d0ff9160ff7eb5e5][^c2191282]
 
 *Extent: E+W*
 
@@ -135,8 +135,8 @@ After section 223F of the National Health Service Act 2006 insert—
 
 ## Annotations
 
-[^key-a2632f33dbeb7982a379d8795e7f607f]: Commencement: S. 27 in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
+[^c-a2632f33dbeb7982a379d8795e7f607f]: Commencement: S. 27 in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
 
-[^key-f5dde99221830d41d0ff9160ff7eb5e5]: Commencement: S. 27 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-f5dde99221830d41d0ff9160ff7eb5e5]: Commencement: S. 27 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c2191282]: Commencement: S. 27 partly in force; s. 27 in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)

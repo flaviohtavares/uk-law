@@ -30,7 +30,7 @@ summary: ''
 (3) Subsection (1)(b) does not apply to the deductions under—
 
 - (a) section 351(2) and (3) (expenses of ministers of religion), and
-- (b) section 355 (deductions for corresponding payments by qualifying new resident[^key-cc4c6bdf53c40f9b73994a96308aaada] employees with foreign employers),
+- (b) section 355 (deductions for corresponding payments by qualifying new resident[^c-cc4c6bdf53c40f9b73994a96308aaada] employees with foreign employers),
 
 and subsection (2) does not apply in the case of those deductions.
 
@@ -41,4 +41,4 @@ and subsection (2) does not apply in the case of those deductions.
 
 ## Annotations
 
-[^key-cc4c6bdf53c40f9b73994a96308aaada]: Textual amendment: Words in s. 333(3)(b) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/38/3), [Sch. 8 para. 1(5)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/paragraph/1/5) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/part/3))
+[^c-cc4c6bdf53c40f9b73994a96308aaada]: Textual amendment: Words in s. 333(3)(b) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/38/3), [Sch. 8 para. 1(5)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/paragraph/1/5) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/part/3))

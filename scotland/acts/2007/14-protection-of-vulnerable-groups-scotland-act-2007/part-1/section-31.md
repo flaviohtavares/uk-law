@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Relevant inquiries[^key-2919ab3968a5d7965c6f2166ab8c928f]
+## 31. Relevant inquiries[^c-2919ab3968a5d7965c6f2166ab8c928f]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2919ab3968a5d7965c6f2166ab8c928f]: Commencement: S. 31 in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
+[^c-2919ab3968a5d7965c6f2166ab8c928f]: Commencement: S. 31 in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)

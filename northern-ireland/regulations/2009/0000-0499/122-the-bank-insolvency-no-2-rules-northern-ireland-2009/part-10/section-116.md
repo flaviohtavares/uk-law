@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 116. Formalities of establishment[^key-2ba25b0660637ab3bbfe69123d80fd03]
+## 116. Formalities of establishment[^c-2ba25b0660637ab3bbfe69123d80fd03]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2ba25b0660637ab3bbfe69123d80fd03]: Commencement: Rule 116 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-2ba25b0660637ab3bbfe69123d80fd03]: Commencement: Rule 116 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
 
 [^f00017]: Footnote: Article 383 is repealed on 1 October 2009

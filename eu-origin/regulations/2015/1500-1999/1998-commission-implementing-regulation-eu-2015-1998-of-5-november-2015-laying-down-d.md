@@ -36,7 +36,7 @@ Commission Implementing Regulation (EU) 2015/1998
 
 of 5 November 2015
 
-laying down detailed measures for the implementation of the [^key-d3ca49093522e41938fe4e9b4e442f85]... basic standards on aviation security
+laying down detailed measures for the implementation of the [^c-d3ca49093522e41938fe4e9b4e442f85]... basic standards on aviation security
 
 (Text with EEA relevance)
 
@@ -70,7 +70,7 @@ The measures provided for in this Regulation are in accordance with the opinion 
 
 HAS ADOPTED THIS REGULATION:
 
-**Article 1.** The detailed measures for the implementation of the [^key-bbe98306f039924cb31ac849a292eda5]... basic standards for safeguarding civil aviation against acts of unlawful interference that jeopardise the security of civil aviation, referred to in Article 4(1) of Regulation (EC) No 300/2008, and the general measures supplementing those [^key-bbe98306f039924cb31ac849a292eda5]... basic standards, referred to in Article 4(2) of that Regulation, are set out in the Annex.
+**Article 1.** The detailed measures for the implementation of the [^c-bbe98306f039924cb31ac849a292eda5]... basic standards for safeguarding civil aviation against acts of unlawful interference that jeopardise the security of civil aviation, referred to in Article 4(1) of Regulation (EC) No 300/2008, and the general measures supplementing those [^c-bbe98306f039924cb31ac849a292eda5]... basic standards, referred to in Article 4(2) of that Regulation, are set out in the Annex.
 
 **Article 2.** Regulation (EU) No 185/2010 is repealed. References to the repealed Regulation shall be construed as a reference to this Regulation.
 
@@ -84,7 +84,7 @@ It shall apply from 1 February 2016.
 
 **No longer in force.**
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.
 
 **AIRPORT SECURITY**
 
@@ -92,377 +92,377 @@ It shall apply from 1 February 2016.
 
 GENERAL PROVISIONS
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.0.1
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.0.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.0.2
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.0.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.0.3
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.0.3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.0.4
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.0.4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.0.5
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.0.5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.1
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.1
 
 AIRPORT PLANNING REQUIREMENTS
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.1.1
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.1.1
 
 **Boundaries**
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.1.1.1
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.1.1.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.1.1.2
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.1.1.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.1.2
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.1.2
 
 **Security restricted areas**
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.1.2.1
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.1.2.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.1.2.2
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.1.2.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.1.2.3
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.1.2.3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.1.3
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.1.3
 
 **Critical parts of security restricted areas**
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.1.3.1
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.1.3.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.1.3.2
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.1.3.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.1.3.3
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.1.3.3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.1.3.4
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.1.3.4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2
 
 ACCESS CONTROL
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.1
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.1
 
 **Access to airside**
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.1.1
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.1.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.1.2
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.1.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.1.3
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.1.3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.1.4
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.1.4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.2
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.2
 
 **Access to security restricted areas**
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.2.1
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.2.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.2.2
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.2.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 1.2.2.3
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d43d85d0903aad58fde824682e5fcb9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.2.4
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.2.5
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.2.4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.2.6
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.2.5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.2.7
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.2.6
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.3
-
-**Requirements for United Kingdom[^key-6f7df97201b7106ea7dd70816af553f6] crew identification cards and airport identification cards**
-
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.3.1
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.2.7
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.3.2
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.3
+
+**Requirements for United Kingdom[^c-6f7df97201b7106ea7dd70816af553f6] crew identification cards and airport identification cards**
+
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.3.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.3.3
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.3.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.3.4
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.3.3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.3.5
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.3.4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.3.6
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.3.5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.3.7
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.3.6
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.3.8
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.3.7
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.4
-
-**Supplementary requirements for United Kingdom[^key-0dd7758580d578cd56daa07b7827507f] crew identification cards**
-
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.4.1
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.3.8
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.5
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.4
+
+**Supplementary requirements for United Kingdom[^c-0dd7758580d578cd56daa07b7827507f] crew identification cards**
+
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.4.1
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.5
 
 **Supplementary requirements for airport identification cards**
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.5.1
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.5.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.5.2
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.5.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.6
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.6
 
 **Requirements for vehicle passes**
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.6.1
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.6.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.6.2
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.6.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 [^c000003]...
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.6.3
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.6.3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.6.4
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.6.4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.6.5
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.6.5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.6.6
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.6.6
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.6.7
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.6.7
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.6.8
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.6.8
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-1[^key-5d43d85d0903aad58fde824682e5fcb9].2.6.9
+1[^c-5d43d85d0903aad58fde824682e5fcb9].2.6.9
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.7
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.7
 
 **Escorted access**
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.7.1
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.7.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.7.2
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.7.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.7.3
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.7.3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.7.4
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.7.4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.7.5
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.7.5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.2.8
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.2.8
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.3
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.4
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.4
 
 EXAMINATION OF VEHICLES
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.4.1
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.4.1
 
 **Vehicles entering critical parts**
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.4.1.1
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.4.1.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.4.1.2
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.4.1.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.4.1.3
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.4.1.3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.4.1.4
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.4.1.4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.4.2
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.4.2
 
 **Vehicles entering security restricted areas other than critical parts**
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.4.2.1
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.4.2.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.4.2.2
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.4.2.2
 
 There shall be defined methodologies to ensure the randomness of selection of both vehicles and the areas to be examined.
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.4.2.3
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.4.2.3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.4.3
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.4.3
 
 **Methods of examination**
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.4.3.1
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.4.3.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.4.3.2
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.4.3.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.4.3.3
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.4.3.3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.4.4
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.4.4
 
 **Exemptions and special examination procedures**
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.4.4.1
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.4.4.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.4.4.2
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.4.4.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.5
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.5
 
 SURVEILLANCE, PATROLS AND OTHER PHYSICAL CONTROLS
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.5.1
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.5.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.5.2
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.5.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.5.3
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.5.3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.5.4
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.5.4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.6
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.6
 
 PROHIBITED ARTICLES
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.6.1
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.6.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.6.2
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.6.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.6.3
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.6.3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.6.4
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.6.4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]1.6.5
+[^c-5d43d85d0903aad58fde824682e5fcb9]1.6.5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]**ATTACHMENT 1-A**
+[^c-5d43d85d0903aad58fde824682e5fcb9]**ATTACHMENT 1-A**
 
 PERSONS OTHER THAN PASSENGERS
 
@@ -480,11 +480,11 @@ No provisions in this Regulation.
 
 **AIRCRAFT SECURITY**
 
-[^key-8e75674a593905d20400da9722951e72]...
+[^c-8e75674a593905d20400da9722951e72]...
 
 **No longer in force.**
 
-[^key-637212fd18039c53d613fc6771bd2820]4.
+[^c-637212fd18039c53d613fc6771bd2820]4.
 
 **PASSENGERS AND CABIN BAGGAGE**
 
@@ -492,23 +492,23 @@ No provisions in this Regulation.
 
 **No longer in force.**
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.
 
 **HOLD BAGGAGE**
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.0
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.0
 
 GENERAL PROVISIONS
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.0.1
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.0.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.0.2
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.0.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.0.3
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.0.3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -516,135 +516,135 @@ GENERAL PROVISIONS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b227713f27d44e200d5f309a065aea25]5.0.5
+[^c-b227713f27d44e200d5f309a065aea25]5.0.5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5eae3bbdf383b4a523e23a2f2a925b84]5.0.6
+[^c-5eae3bbdf383b4a523e23a2f2a925b84]5.0.6
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.1
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.1
 
 SCREENING OF HOLD BAGGAGE
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.1.1
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.1.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.1.2
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.1.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.1.3
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.1.3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.1.4
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.1.4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.1.5
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.1.5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.1.6
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.1.6
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.1.7
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.1.7
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.2
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.2
 
 PROTECTION OF HOLD BAGGAGE
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.2.1
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.2.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.2.2
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.2.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.2.3
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.2.3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.3
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.3
 
 BAGGAGE RECONCILIATION
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.3.1
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.3.1
 
 **Identification of hold baggage**
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.3.1.1
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.3.1.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.3.1.2
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.3.1.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.3.1.3
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.3.1.3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.3.1.4
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.3.1.4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.3.2
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.3.2
 
 **Factors beyond the passenger's control**
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.3.2.1
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.3.2.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.3.2.2
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.3.2.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.3.3
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.3.3
 
 **Appropriate security controls for unaccompanied hold baggage**
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.3.3.1
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.3.3.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.3.3.2
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.3.3.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.3.3.3
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.3.3.3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.4
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.4
 
 PROHIBITED ARTICLES
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.4.1
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.4.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.4.2
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.4.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]5.4.3
+[^c-7cd73d1eb96155ea3581018d739bbdfa]5.4.3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]ATTACHMENT 5-A
+[^c-7cd73d1eb96155ea3581018d739bbdfa]ATTACHMENT 5-A
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]**ATTACHMENT 5-B**
+[^c-7cd73d1eb96155ea3581018d739bbdfa]**ATTACHMENT 5-B**
 
 HOLD BAGGAGE
 
@@ -656,57 +656,57 @@ HOLD BAGGAGE
 
 6\.
 
-[^key-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 6.0
 
-[^key-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 6.1
 
-[^key-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 6.2
 
-[^key-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 6.3
 
-[^key-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 6.4
 
-[^key-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 6.5
 
-[^key-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 6.6
 
-[^key-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 6.7
 
-[^key-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 6.8
 
-[^key-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]**ATTACHMENT 6-A**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**[^key-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]ATTACHMENT 6-B**
+[^c-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]**ATTACHMENT 6-A**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]**ATTACHMENT 6-C**
+**[^c-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]ATTACHMENT 6-B**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**[^key-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]ATTACHMENT 6-C2**
+[^c-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]**ATTACHMENT 6-C**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^c-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]ATTACHMENT 6-C2**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -726,7 +726,7 @@ Providing the name of the entity, the name and the position of the contact perso
 |  |  |  |  |
 |  |  |  |  |
 
-**[^key-0b44e2e5bda2e6c6480463d824c58f4d]ATTACHMENT 6-C3**
+**[^c-0b44e2e5bda2e6c6480463d824c58f4d]ATTACHMENT 6-C3**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -743,7 +743,7 @@ Providing the name of the entity, the name and the position of the contact perso
 |  |  |  |  |
 |  |  |  |  |
 
-**[^key-a52698b0e4437bf60264ac81f6550778]ATTACHMENT 6-C4**
+**[^c-a52698b0e4437bf60264ac81f6550778]ATTACHMENT 6-C4**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -763,7 +763,7 @@ Providing the name of the entity, the name and the position of the contact perso
 |  |  |  |  |
 |  |  |  |  |
 
-**[^key-f55d16a45ebd1b32bd63aa0e03a4ed29]ATTACHMENT 6–D**
+**[^c-f55d16a45ebd1b32bd63aa0e03a4ed29]ATTACHMENT 6–D**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -773,7 +773,7 @@ HAULIER DECLARATION
 
 In accordance with Regulation (EC) No 300/2008 of the European Parliament and of the Council[^f00033] and its implementing acts,
 
-When collecting, carrying, storing and delivering air cargo/mail to which security controls have been applied \[on behalf of *name of regulated agent/air carrier applying security controls for cargo or mail/known consignor [^key-d802dd871f6c1f6d3a2d44dc3b54f9a2]...*\], I confirm that the following security procedures will be adhered to:
+When collecting, carrying, storing and delivering air cargo/mail to which security controls have been applied \[on behalf of *name of regulated agent/air carrier applying security controls for cargo or mail/known consignor [^c-d802dd871f6c1f6d3a2d44dc3b54f9a2]...*\], I confirm that the following security procedures will be adhered to:
 
 - All staff who transport this air cargo/mail will have received general security awareness training in accordance with point 11.2.7 of the Annex to Implementing Regulation (EU) 2015/1998;
 - The integrity of all staff being recruited with access to this air cargo/mail will be verified. This verification shall include at least a check of the identity (if possible by photographic identity card, driving licence or passport) and a check of the curriculum vitae and/or provided references;
@@ -782,7 +782,7 @@ When collecting, carrying, storing and delivering air cargo/mail to which securi
 - Each driver will carry an identity card, passport, driving licence or other document, containing a photograph of the person, which has been issued or recognised by the national authorities;
 - Drivers will not make unscheduled stops between collection and delivery. Where this is unavoidable, the driver will check the security of the load and the integrity of locks and/or seals on his return. If the driver discovers any evidence of interference, he will notify his supervisor and the air cargo/mail will not be delivered without notification at delivery;
 - Transport will not be subcontracted to a third party, unless the third party:
-  - ((a)) has a haulier agreement with the regulated agent or known consignor[^key-02733eefeb30cf3845cf6da754bb82ba] responsible for the transport \[same name as above\]; or
+  - ((a)) has a haulier agreement with the regulated agent or known consignor[^c-02733eefeb30cf3845cf6da754bb82ba] responsible for the transport \[same name as above\]; or
   - ((b)) is approved or certified by the appropriate authority; or
   - ((c)) has a haulier agreement with the undersigned haulier requiring that the third party will not subcontract further and implements the security procedures contained in this declaration. The undersigned haulier retains full responsibility for the entire transport on behalf of the regulated agent or known consignor; and
 - No other services (e.g. storage) will be sub-contracted to any other party other than a regulated agent or an entity that has been certified or approved and listed for the provision of these services by the appropriate authority.
@@ -801,185 +801,185 @@ Signature:
 
 **ATTACHMENT 6-F**
 
-[^key-458bb2f3fd2cd6f7814a171afc081dc3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-458bb2f3fd2cd6f7814a171afc081dc3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-029bfb3768d33cf9dfbebd4de6975a1a]**ATTACHMENT 6-G**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-2070ec616e19ec3be813717dc70aa40b]**ATTACHMENT 6-H1**
+[^c-029bfb3768d33cf9dfbebd4de6975a1a]**ATTACHMENT 6-G**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-770dcdba74c66b156bf89b5b9e0b4632]**ATTACHMENT 6-H2**
+[^c-2070ec616e19ec3be813717dc70aa40b]**ATTACHMENT 6-H1**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0aee1aa896f67afe9990aaf5fc6b75c]**ATTACHMENT 6-H3**
+[^c-770dcdba74c66b156bf89b5b9e0b4632]**ATTACHMENT 6-H2**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bde87b17eb2a68a7fc8e0cb2f8e59d14]**ATTACHMENT 6-I**
+[^c-f0aee1aa896f67afe9990aaf5fc6b75c]**ATTACHMENT 6-H3**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-49a1d778e9fb9d2ee70bc082d4f61c37]**ATTACHMENT 6-J**
+[^c-bde87b17eb2a68a7fc8e0cb2f8e59d14]**ATTACHMENT 6-I**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-49a1d778e9fb9d2ee70bc082d4f61c37]**ATTACHMENT 6-J**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 7\.
 
-**AIR CARRIER MAIL AND AIR CARRIER MATERIALS...**[^key-54fa8a278a82b252d2da53e9e3f9571f]
+**AIR CARRIER MAIL AND AIR CARRIER MATERIALS...**[^c-54fa8a278a82b252d2da53e9e3f9571f]
 
 **No longer in force.**
 
-[^key-fa67f1cbdd45efbe15981bf021b7480e]8.
+[^c-fa67f1cbdd45efbe15981bf021b7480e]8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 8.0
 
-[^key-fa67f1cbdd45efbe15981bf021b7480e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa67f1cbdd45efbe15981bf021b7480e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 8.1
 
-[^key-fa67f1cbdd45efbe15981bf021b7480e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa67f1cbdd45efbe15981bf021b7480e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 8.2
 
-[^key-fa67f1cbdd45efbe15981bf021b7480e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa67f1cbdd45efbe15981bf021b7480e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 8.3
 
-[^key-fa67f1cbdd45efbe15981bf021b7480e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa67f1cbdd45efbe15981bf021b7480e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fa67f1cbdd45efbe15981bf021b7480e]**ATTACHMENT 8-A**
+[^c-fa67f1cbdd45efbe15981bf021b7480e]**ATTACHMENT 8-A**
 
-[^key-fa67f1cbdd45efbe15981bf021b7480e]**ATTACHMENT 8-B**
+[^c-fa67f1cbdd45efbe15981bf021b7480e]**ATTACHMENT 8-B**
 
 **No longer in force.**
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.
 
 **AIRPORT SUPPLIES**
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.0
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.0
 
 GENERAL PROVISIONS
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.0.1
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.0.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.0.2
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.0.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.0.3
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.0.3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.0.4
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.0.4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.1
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.1
 
 SECURITY CONTROLS
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.1.1
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.1.1
 
 **Security controls — general provisions**
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.1.1.1
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.1.1.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.1.1.2
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.1.1.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.1.1.3
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.1.1.3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.1.2
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.1.2
 
 **Screening**
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.1.2.1
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.1.2.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.1.2.2
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.1.2.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.1.2.3
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.1.2.3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.1.3
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.1.3
 
 **Designation of known suppliers**
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.1.3.1
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.1.3.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.1.3.2
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.1.3.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.1.3.3
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.1.3.3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.1.3.4
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.1.3.4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.1.3.5
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.1.3.5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.1.3.6
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.1.3.6
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.1.3.7
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.1.3.7
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.1.4
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.1.4
 
 **Security controls to be applied by a known supplier or airport operator**
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.1.4.1
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.1.4.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.1.4.2
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.1.4.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.2
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.3
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.3
 
 ADDITIONAL SECURITY PROVISIONS FOR SUPPLIES OF LAGS AND STEBS
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.3.1
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.3.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.3.2
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.3.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]9.3.3
+[^c-a29eb67b1c641cd02090b570aea19ae8]9.3.3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -987,7 +987,7 @@ ADDITIONAL SECURITY PROVISIONS FOR SUPPLIES OF LAGS AND STEBS
 
 DECLARATION OF COMMITMENTS
 
-*KNOWN SUPPLIER OF AIRPORT SUPPLIES[^key-a29eb67b1c641cd02090b570aea19ae8]*
+*KNOWN SUPPLIER OF AIRPORT SUPPLIES[^c-a29eb67b1c641cd02090b570aea19ae8]*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1049,7 +1049,7 @@ Persons having completed a pre-employment check shall undergo a background check
 
 11.1.3
 
-In accordance with the applicable rules of [^key-b9db675b76db5f443393132ccdec5384]... national law, a background check shall at least:
+In accordance with the applicable rules of [^c-b9db675b76db5f443393132ccdec5384]... national law, a background check shall at least:
 
 - ((a)) establish the person's identity on the basis of documentary evidence; and
 - ((b)) cover criminal records in all states of residence during at least the preceding 5 years; and
@@ -1057,7 +1057,7 @@ In accordance with the applicable rules of [^key-b9db675b76db5f443393132ccdec538
 
 11.1.4
 
-In accordance with the applicable rules of [^key-ff57ec1f76eb68e16a1528ac1ce903ab]... national law, a pre-employment check shall:
+In accordance with the applicable rules of [^c-ff57ec1f76eb68e16a1528ac1ce903ab]... national law, a pre-employment check shall:
 
 - ((a)) establish the person's identity on the basis of documentary evidence; and
 - ((b)) cover employment, education and any gaps during at least the preceding 5 years; and
@@ -1065,7 +1065,7 @@ In accordance with the applicable rules of [^key-ff57ec1f76eb68e16a1528ac1ce903a
 
 11.1.5
 
-[^key-5e28ffe813b37bfda292f0191bb26a87]... Background checks shall be repeated at regular intervals not exceeding five years.
+[^c-5e28ffe813b37bfda292f0191bb26a87]... Background checks shall be repeated at regular intervals not exceeding five years.
 
 11.1.6
 
@@ -1347,7 +1347,7 @@ In addition, where the designated tasks of the person concerned so require, that
 Specific training of security managers shall result in all of the following competencies:
 
 - ((a)) knowledge of the relevant legal requirements and how they should be met;
-- ((b)) knowledge of internal, national [^key-2cc68844e36096fcef7931fa90ac05a3]... and international quality control;
+- ((b)) knowledge of internal, national [^c-2cc68844e36096fcef7931fa90ac05a3]... and international quality control;
 - ((c)) ability to motivate others;
 - ((d)) knowledge of the capabilities and limitations of security equipment or screening methods used.
 
@@ -1475,7 +1475,7 @@ QUALIFICATION OF INSTRUCTORS
 
 Instructors shall at least fulfil all of the following requirements:
 
-- ((a)) the successful completion of a background check in accordance with point 11.1.3[^key-427ae78852e01b4b638edb32664ec8f3];
+- ((a)) the successful completion of a background check in accordance with point 11.1.3[^c-427ae78852e01b4b638edb32664ec8f3];
 - ((b)) competency in instructional techniques;
 - ((c)) knowledge of the work environment in the relevant aviation security field;
 - ((d)) competency in the security elements to be taught.
@@ -1490,73 +1490,73 @@ Instructors shall receive regular training or information on developments in the
 
 11.5.3
 
-The appropriate authority shall maintain or have access to lists of instructors operating in the United Kingdom[^key-f544ac895e6c10b5574244f4869c0fea].
+The appropriate authority shall maintain or have access to lists of instructors operating in the United Kingdom[^c-f544ac895e6c10b5574244f4869c0fea].
 
 11.5.4
 
 If the appropriate authority is no longer satisfied that training delivered by an instructor is resulting in persons having the relevant competencies, or where the instructor fails the background check, it shall either withdraw approval of the course or ensure that the instructor is suspended or removed from the list of instructors, as appropriate. Where such action is taken, the appropriate authority shall also specify how the instructor may apply to have the suspension lifted, be reinstated on the list of instructors or have the course approval reinstated.
 
-[^key-70b7c4a46ce28690df5645f10ce73fe6]11.5.5
+[^c-70b7c4a46ce28690df5645f10ce73fe6]11.5.5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 11.6
 
-[^key-de0db1bebcf50d2e8dfe6190e57f811a]... AVIATION SECURITY VALIDATION
+[^c-de0db1bebcf50d2e8dfe6190e57f811a]... AVIATION SECURITY VALIDATION
 
 11.6.1
 
-[^key-be1eea54339cc0fee039608153356df7]... Aviation security validation is a standardised, documented, impartial and objective process for obtaining and evaluating evidence to determine the level of compliance of the validated entity with requirements set out in Regulation (EC) No 300/2008 and its implementing acts.
+[^c-be1eea54339cc0fee039608153356df7]... Aviation security validation is a standardised, documented, impartial and objective process for obtaining and evaluating evidence to determine the level of compliance of the validated entity with requirements set out in Regulation (EC) No 300/2008 and its implementing acts.
 
 11.6.2
 
-**[^key-7ac22eaffd5799d75231af8c2ee8fa47]... Aviation security validation**
+**[^c-7ac22eaffd5799d75231af8c2ee8fa47]... Aviation security validation**
 
-[^key-7ac22eaffd5799d75231af8c2ee8fa47]... Aviation security validation:
+[^c-7ac22eaffd5799d75231af8c2ee8fa47]... Aviation security validation:
 
 - ((a)) may be a requirement for obtaining or maintaining a legal status under Regulation (EC) No 300/2008 and its implementing acts;
-- ((b)) may be performed by an appropriate authority or a validator approved as [^key-7ac22eaffd5799d75231af8c2ee8fa47]... aviation security validator or a validator recognised as equivalent to it, in accordance with this Chapter;
+- ((b)) may be performed by an appropriate authority or a validator approved as [^c-7ac22eaffd5799d75231af8c2ee8fa47]... aviation security validator or a validator recognised as equivalent to it, in accordance with this Chapter;
 - ((c)) shall assess security measures applied under the responsibility of the validated entity or parts thereof for which the entity seeks validation. At least, it shall consist of:
   - ((1)) an evaluation of security relevant documentation, including the validated entity's security programme or equivalent; and
   - ((2)) a verification of the implementation of aviation security measures, which shall include an on-site verification of the validated entity's relevant operations, unless otherwise stated;
-- ((d)) [^key-7b89c1865e457cf6e9c65629fd63a66d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ((d)) [^c-7b89c1865e457cf6e9c65629fd63a66d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 11.6.3
 
-**Approval requirements for [^key-1ee008bf9440854f7b82152a2a204743]... aviation security validators**
+**Approval requirements for [^c-1ee008bf9440854f7b82152a2a204743]... aviation security validators**
 
 11.6.3.1
 
-The appropriate authority[^key-cfcd5522091a18ae64c587bb8454b626] shall approve [^key-e985b96bc5c4ea212747bed2732b292b]... aviation security validators based on conformity assessment capacity, which shall comprise:
+The appropriate authority[^c-cfcd5522091a18ae64c587bb8454b626] shall approve [^c-e985b96bc5c4ea212747bed2732b292b]... aviation security validators based on conformity assessment capacity, which shall comprise:
 
 - ((a)) independence from the validated industry, unless otherwise stated; and
 - ((b)) appropriate personnel competence in the security area to be validated as well as methods to maintain such competence at the level referred to in 11.6.3.5; and
 - ((c)) the functionality and appropriateness of validation processes.
 
-[^key-3a346fc049666a7208f674e34b378d4a]11.6.3.2
+[^c-3a346fc049666a7208f674e34b378d4a]11.6.3.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 11.6.3.3
 
-An [^key-0230db78781430de879e625b9fcddffa]... aviation security validator may be any individual or a legal entity.
+An [^c-0230db78781430de879e625b9fcddffa]... aviation security validator may be any individual or a legal entity.
 
-[^key-5f0e5e4a5ac7ee92d054d4abca6dcd3b]11.6.3.4
+[^c-5f0e5e4a5ac7ee92d054d4abca6dcd3b]11.6.3.4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 11.6.3.5
 
-Every individual performing [^key-5dd89051a3f4714743e82a2c28855fa2]... aviation security validation shall have appropriate competence and background, and shall meet all of the following requirements:
+Every individual performing [^c-5dd89051a3f4714743e82a2c28855fa2]... aviation security validation shall have appropriate competence and background, and shall meet all of the following requirements:
 
 - ((a)) have been subject to a background check in accordance with 11.1.3 that shall be recurrent at least every five years;
-- ((b)) perform [^key-5dd89051a3f4714743e82a2c28855fa2]... aviation security validation impartially and objectively, shall understand the meaning of independence and apply methods to avoid situations of conflict of interest in respect of the validated entity;
+- ((b)) perform [^c-5dd89051a3f4714743e82a2c28855fa2]... aviation security validation impartially and objectively, shall understand the meaning of independence and apply methods to avoid situations of conflict of interest in respect of the validated entity;
 - ((c)) have sufficient theoretical knowledge and practical experience in the field of quality control as well as respective skills and personal attributes to collect, record and assess findings based on a checklist, in particular regarding:
   - ((1)) compliance monitoring principles, procedures and techniques;
   - ((2)) factors affecting human performance and supervision;
   - ((3)) the role and powers of the validator, including on conflict of interest;
 - ((d)) provide proof of appropriate competence based on training and/or a minimum work experience in respect of the following areas:
-  - ((1)) general aviation security principles of [^key-2f6de0f4b65d8111cf837b8a5b8b3b1a]... ICAO aviation security standards;
+  - ((1)) general aviation security principles of [^c-2f6de0f4b65d8111cf837b8a5b8b3b1a]... ICAO aviation security standards;
   - ((2)) specific standards related to the activity validated and how they are applied to operations;
   - ((3)) security technologies and techniques relevant for the validation process;
 - ((e)) undergo recurrent training at a frequency sufficient to ensure that existing competencies are maintained and new competencies are acquired to take account of developments in the field of aviation security.
@@ -1565,53 +1565,53 @@ Every individual performing [^key-5dd89051a3f4714743e82a2c28855fa2]... aviation 
 
 The appropriate authority shall either itself provide training for EU aviation security validator or approve and maintain a list of appropriate security training courses.
 
-[^key-dba771477c29da59c08ab0674385629b]11.6.3.7
+[^c-dba771477c29da59c08ab0674385629b]11.6.3.7
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 11.6.3.8
 
-The approval of an [^key-3630529ddd0506e47d13b218b926b347]... aviation security validator shall expire after a maximum period of five years.
+The approval of an [^c-3630529ddd0506e47d13b218b926b347]... aviation security validator shall expire after a maximum period of five years.
 
 11.6.4
 
-**Recognition and discontinuation of [^key-11e9e9fb7fc32cb00c1ac3e0412eb186]... aviation security validators**
+**Recognition and discontinuation of [^c-11e9e9fb7fc32cb00c1ac3e0412eb186]... aviation security validators**
 
 11.6.4.1
 
-An [^key-06be6bdbd5886ca071bba071adfb3f1a]... aviation security validator shall not be considered as approved until its details are recorded by the appropriate authority[^key-aaa2be0ff7c6eceb8432472a7a63ae2b]. Every [^key-06be6bdbd5886ca071bba071adfb3f1a]... aviation security validator shall be provided with proof of its status by or on behalf of the appropriate authority. [^key-1f9f8657dc97f044d17f2843edfd02e4]...
+An [^c-06be6bdbd5886ca071bba071adfb3f1a]... aviation security validator shall not be considered as approved until its details are recorded by the appropriate authority[^c-aaa2be0ff7c6eceb8432472a7a63ae2b]. Every [^c-06be6bdbd5886ca071bba071adfb3f1a]... aviation security validator shall be provided with proof of its status by or on behalf of the appropriate authority. [^c-1f9f8657dc97f044d17f2843edfd02e4]...
 
-[^key-f0ef5083a425728e2f1ea019b9147dc5]11.6.4.2
+[^c-f0ef5083a425728e2f1ea019b9147dc5]11.6.4.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 11.6.4.3
 
-When the appropriate authority[^key-46190533e813bdc087f7ca8eef160fef] is no longer satisfied that an [^key-2dbb95dd653e11de5e3dada120d6f36d]... aviation security validator meets the requirements referred to in points 11.6.3.1 or 11.6.3.5, it shall withdraw the approval and remove the validator from the its record[^key-b4110c5c96b51c906eaf4d748510d0eb].
+When the appropriate authority[^c-46190533e813bdc087f7ca8eef160fef] is no longer satisfied that an [^c-2dbb95dd653e11de5e3dada120d6f36d]... aviation security validator meets the requirements referred to in points 11.6.3.1 or 11.6.3.5, it shall withdraw the approval and remove the validator from the its record[^c-b4110c5c96b51c906eaf4d748510d0eb].
 
 11.6.4.4
 
-Industry associations and entities under their responsibility operating quality assurance programmes may be approved as [^key-c5f13e8e6ee68abd272425e96d5795c0]... aviation security validators provided equivalent measures of those programmes ensure impartial and objective validation. [^key-3ad7e1a9e66a853aae79a923fbf6e3f7]...
+Industry associations and entities under their responsibility operating quality assurance programmes may be approved as [^c-c5f13e8e6ee68abd272425e96d5795c0]... aviation security validators provided equivalent measures of those programmes ensure impartial and objective validation. [^c-3ad7e1a9e66a853aae79a923fbf6e3f7]...
 
-[^key-22dde26266bdf1c354ca5f1bf346d6f1]11.6.4.5
+[^c-22dde26266bdf1c354ca5f1bf346d6f1]11.6.4.5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 11.6.5
 
-**[^key-62a0908d7d1a69d1a9a4e651d771f27a]... Aviation security validation report (‘the validation report’)**
+**[^c-62a0908d7d1a69d1a9a4e651d771f27a]... Aviation security validation report (‘the validation report’)**
 
 11.6.5.1
 
-A validation report, where required,[^key-727938bc4b335473d67303a2442f25e3] shall record the [^key-58c3a77c4adc4f25e3ef169b043b1d23]... aviation security validation and contain at least:
+A validation report, where required,[^c-727938bc4b335473d67303a2442f25e3] shall record the [^c-58c3a77c4adc4f25e3ef169b043b1d23]... aviation security validation and contain at least:
 
-- ((a)) a completed checklist signed by the [^key-58c3a77c4adc4f25e3ef169b043b1d23]... aviation security validator including, where requested, comments by the validated entity in the necessary detail; and
+- ((a)) a completed checklist signed by the [^c-58c3a77c4adc4f25e3ef169b043b1d23]... aviation security validator including, where requested, comments by the validated entity in the necessary detail; and
 - ((b)) a declaration of commitments signed by the validated entity; and
-- ((c)) an independence declaration in respect of the entity validated signed by the individual performing the [^key-58c3a77c4adc4f25e3ef169b043b1d23]... aviation security validation.
+- ((c)) an independence declaration in respect of the entity validated signed by the individual performing the [^c-58c3a77c4adc4f25e3ef169b043b1d23]... aviation security validation.
 
 11.6.5.2
 
-The [^key-4ef203623c93727b9621dffd3de91f41]... aviation security validator shall establish the level of compliance with the objectives contained in the checklist and record these findings in the appropriate part of the checklist.
+The [^c-4ef203623c93727b9621dffd3de91f41]... aviation security validator shall establish the level of compliance with the objectives contained in the checklist and record these findings in the appropriate part of the checklist.
 
 11.6.5.3
 
@@ -1623,40 +1623,40 @@ The validated entity may declare its agreement or disagreement to the validation
 
 11.6.5.5
 
-Page numbering, date of the [^key-22800cfa660c99506e5d1ef14870da9a]... aviation security validation and initialling by the validator and the validated entity on each page shall prove the validation report's integrity. Manual initialling on each page may be replaced by an electronic signature of the entire document.[^c000004]
+Page numbering, date of the [^c-22800cfa660c99506e5d1ef14870da9a]... aviation security validation and initialling by the validator and the validated entity on each page shall prove the validation report's integrity. Manual initialling on each page may be replaced by an electronic signature of the entire document.[^c000004]
 
 11.6.5.6
 
 By default the report shall be in English and delivered to the appropriate authority, where applicable, along with the validated entity within a maximum of one month after the on-site verification.
 
-[^key-3e80c4e03dc3b6604f35ec7ecfee33eb]11.7
+[^c-3e80c4e03dc3b6604f35ec7ecfee33eb]11.7
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a582a9fbdd47d3ddd42c8e6adcdd43dc]11.7.1
+[^c-a582a9fbdd47d3ddd42c8e6adcdd43dc]11.7.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **ATTACHMENT 11-A**
 
-INDEPENDENCE DECLARATION — [^key-9bec2d10ce11734e92164bc75dd8b2b6]... AVIATION SECURITY VALIDATOR
+INDEPENDENCE DECLARATION — [^c-9bec2d10ce11734e92164bc75dd8b2b6]... AVIATION SECURITY VALIDATOR
 
 - ((a)) I confirm that I have established the level of compliance of the validated entity in an impartial and objective way.
 - ((b)) I confirm that I am not, and have not in the preceding two years, been employed by the validated entity.
 - ((c)) I confirm that I have no economic or other direct or indirect interest in the outcome of the validation activity, the validated entity or its affiliates.
 - ((d)) I confirm that I have, and have had in the preceding 12 months no business relations such as training and consultancy beyond the validation process with the validated entity in areas related to aviation security.
-- ((e)) I confirm that the [^key-9bec2d10ce11734e92164bc75dd8b2b6]... aviation security validation report is based on a thorough fact finding evaluation of relevant security documentation, consisting of:
+- ((e)) I confirm that the [^c-9bec2d10ce11734e92164bc75dd8b2b6]... aviation security validation report is based on a thorough fact finding evaluation of relevant security documentation, consisting of:
   - the validated entities' security programme or equivalent, and
   - an on- site verification of the implementation thereof.
-- ((f)) I confirm that the [^key-9bec2d10ce11734e92164bc75dd8b2b6]... aviation security validation report is based on an assessment of all security relevant areas on which the validator is required to give an opinion based on the relevant [^key-9bec2d10ce11734e92164bc75dd8b2b6]... checklist.
-- ((g)) I confirm that I have applied a methodology that allows for separate [^key-9bec2d10ce11734e92164bc75dd8b2b6]... aviation security validation reports in respect of each entity validated and ensures objectivity and impartiality of the fact finding and evaluation, where several entities are being validated in a joint action.
+- ((f)) I confirm that the [^c-9bec2d10ce11734e92164bc75dd8b2b6]... aviation security validation report is based on an assessment of all security relevant areas on which the validator is required to give an opinion based on the relevant [^c-9bec2d10ce11734e92164bc75dd8b2b6]... checklist.
+- ((g)) I confirm that I have applied a methodology that allows for separate [^c-9bec2d10ce11734e92164bc75dd8b2b6]... aviation security validation reports in respect of each entity validated and ensures objectivity and impartiality of the fact finding and evaluation, where several entities are being validated in a joint action.
 - ((h)) I confirm that I accepted no financial or other benefits, other than a reasonable fee for the validation and a compensation of travel and accommodation costs.
 
-I accept full responsibility for the [^key-9bec2d10ce11734e92164bc75dd8b2b6]... aviation security validation report.
+I accept full responsibility for the [^c-9bec2d10ce11734e92164bc75dd8b2b6]... aviation security validation report.
 
 Name of the validated entity:
 
-Name of the [^key-9bec2d10ce11734e92164bc75dd8b2b6]... aviation security validator:
+Name of the [^c-9bec2d10ce11734e92164bc75dd8b2b6]... aviation security validator:
 
 Date:
 
@@ -1664,129 +1664,129 @@ Signature:
 
 **No longer in force.**
 
-[^key-28da6bea56785c23cdca5404432f1214]12.
+[^c-28da6bea56785c23cdca5404432f1214]12.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 12.0.
 
-[^key-28da6bea56785c23cdca5404432f1214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28da6bea56785c23cdca5404432f1214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 12.1
 
-[^key-28da6bea56785c23cdca5404432f1214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28da6bea56785c23cdca5404432f1214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 12.2
 
-[^key-28da6bea56785c23cdca5404432f1214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28da6bea56785c23cdca5404432f1214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 12.3
 
-[^key-28da6bea56785c23cdca5404432f1214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28da6bea56785c23cdca5404432f1214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 12.4
 
-[^key-28da6bea56785c23cdca5404432f1214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28da6bea56785c23cdca5404432f1214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 12.5
 
-[^key-28da6bea56785c23cdca5404432f1214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28da6bea56785c23cdca5404432f1214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 12.6
 
-[^key-28da6bea56785c23cdca5404432f1214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28da6bea56785c23cdca5404432f1214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 12.7
 
-[^key-28da6bea56785c23cdca5404432f1214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28da6bea56785c23cdca5404432f1214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 12.8
 
-[^key-28da6bea56785c23cdca5404432f1214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28da6bea56785c23cdca5404432f1214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 12.10
 
-[^key-28da6bea56785c23cdca5404432f1214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28da6bea56785c23cdca5404432f1214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 12.11
 
-[^key-28da6bea56785c23cdca5404432f1214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28da6bea56785c23cdca5404432f1214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 12.12
 
-[^key-28da6bea56785c23cdca5404432f1214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28da6bea56785c23cdca5404432f1214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 12.13
 
-[^key-28da6bea56785c23cdca5404432f1214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28da6bea56785c23cdca5404432f1214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 12.14
 
-[^key-28da6bea56785c23cdca5404432f1214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28da6bea56785c23cdca5404432f1214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28da6bea56785c23cdca5404432f1214]**ATTACHMENT 12-A**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-28da6bea56785c23cdca5404432f1214]**ATTACHMENT 12-B**
+[^c-28da6bea56785c23cdca5404432f1214]**ATTACHMENT 12-A**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28da6bea56785c23cdca5404432f1214]**ATTACHMENT 12-C**
+[^c-28da6bea56785c23cdca5404432f1214]**ATTACHMENT 12-B**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28da6bea56785c23cdca5404432f1214]**ATTACHMENT 12-D**
+[^c-28da6bea56785c23cdca5404432f1214]**ATTACHMENT 12-C**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28da6bea56785c23cdca5404432f1214]**ATTACHMENT 12-E**
+[^c-28da6bea56785c23cdca5404432f1214]**ATTACHMENT 12-D**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28da6bea56785c23cdca5404432f1214]**ATTACHMENT 12-F**
+[^c-28da6bea56785c23cdca5404432f1214]**ATTACHMENT 12-E**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28da6bea56785c23cdca5404432f1214]**ATTACHMENT 12-G**
+[^c-28da6bea56785c23cdca5404432f1214]**ATTACHMENT 12-F**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28da6bea56785c23cdca5404432f1214]**ATTACHMENT 12-H**
+[^c-28da6bea56785c23cdca5404432f1214]**ATTACHMENT 12-G**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28da6bea56785c23cdca5404432f1214]**ATTACHMENT 12-I**
+[^c-28da6bea56785c23cdca5404432f1214]**ATTACHMENT 12-H**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28da6bea56785c23cdca5404432f1214]**ATTACHMENT 12-J**
+[^c-28da6bea56785c23cdca5404432f1214]**ATTACHMENT 12-I**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28da6bea56785c23cdca5404432f1214]**ATTACHMENT 12-K**
+[^c-28da6bea56785c23cdca5404432f1214]**ATTACHMENT 12-J**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28da6bea56785c23cdca5404432f1214]**ATTACHMENT 12-L**
+[^c-28da6bea56785c23cdca5404432f1214]**ATTACHMENT 12-K**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28da6bea56785c23cdca5404432f1214]**ATTACHMENT 12-M**
+[^c-28da6bea56785c23cdca5404432f1214]**ATTACHMENT 12-L**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28da6bea56785c23cdca5404432f1214] **ATTACHMENT 12-N**
+[^c-28da6bea56785c23cdca5404432f1214]**ATTACHMENT 12-M**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28da6bea56785c23cdca5404432f1214] **ATTACHMENT 12-O**
+[^c-28da6bea56785c23cdca5404432f1214] **ATTACHMENT 12-N**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-28da6bea56785c23cdca5404432f1214] **ATTACHMENT 12-O**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d3ca49093522e41938fe4e9b4e442f85]: Textual amendment: Word in Title omitted (31.12.2020) by [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [52](https://www.legislation.gov.uk/uksi/2019/547/regulation/52); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d3ca49093522e41938fe4e9b4e442f85]: Textual amendment: Word in Title omitted (31.12.2020) by [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [52](https://www.legislation.gov.uk/uksi/2019/547/regulation/52); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00001]: Footnote: [OJ L 97, 9.4.2008, p. 72](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.097.01.0072.01.ENG).
 
@@ -1794,152 +1794,152 @@ Signature:
 
 [^f00003]: Footnote: Commission Regulation (EU) No 185/2010 of 4 March 2010 laying down detailed measures for the implementation of the common basic standards on aviation security ([OJ L 55, 5.3.2010, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.055.01.0001.01.ENG)).
 
-[^key-bbe98306f039924cb31ac849a292eda5]: Textual amendment: Word in Art. 1 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [53](https://www.legislation.gov.uk/uksi/2019/547/regulation/53); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bbe98306f039924cb31ac849a292eda5]: Textual amendment: Word in Art. 1 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [53](https://www.legislation.gov.uk/uksi/2019/547/regulation/53); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_cf317fa8-1c31-48c2-973d-5f1c248e47ee]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [54](https://www.legislation.gov.uk/uksi/2019/547/regulation/54); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5d43d85d0903aad58fde824682e5fcb9]: Textual amendment: Annex Ch. 1 omitted (31.1.2025) by virtue of [The Aviation Security (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1293)](https://www.legislation.gov.uk/uksi/2024/1293), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1293/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/1293/regulation/2/2)
+[^c-5d43d85d0903aad58fde824682e5fcb9]: Textual amendment: Annex Ch. 1 omitted (31.1.2025) by virtue of [The Aviation Security (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1293)](https://www.legislation.gov.uk/uksi/2024/1293), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1293/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/1293/regulation/2/2)
 
-[^key-6f7df97201b7106ea7dd70816af553f6]: Textual amendment: Words in Annex point 1.2.3 substituted (31.12.2020) by [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [55(4)](https://www.legislation.gov.uk/uksi/2019/547/regulation/55/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6f7df97201b7106ea7dd70816af553f6]: Textual amendment: Words in Annex point 1.2.3 substituted (31.12.2020) by [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [55(4)](https://www.legislation.gov.uk/uksi/2019/547/regulation/55/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0dd7758580d578cd56daa07b7827507f]: Textual amendment: Words in Annex point 1.2.4 substituted (31.12.2020) by [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [55(6)](https://www.legislation.gov.uk/uksi/2019/547/regulation/55/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0dd7758580d578cd56daa07b7827507f]: Textual amendment: Words in Annex point 1.2.4 substituted (31.12.2020) by [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [55(6)](https://www.legislation.gov.uk/uksi/2019/547/regulation/55/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000003]: Textual amendment: Deleted by [Commission Implementing Regulation (EU) 2017/815 of 12 May 2017 amending Implementing Regulation (EU) 2015/1998 as regards clarification, harmonisation and simplification of certain specific aviation security measures (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2017/815).
 
-[^key-8e75674a593905d20400da9722951e72]: Textual amendment: [Annex Ch. 3](https://www.legislation.gov.uk/eur/2015/1998/annex/chapter/3) omitted (23.6.2025) by virtue of [The Aviation Security (Amendment) Regulations 2025 (S.I. 2025/529)](https://www.legislation.gov.uk/uksi/2025/529), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/529/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/529/regulation/2/2)
+[^c-8e75674a593905d20400da9722951e72]: Textual amendment: [Annex Ch. 3](https://www.legislation.gov.uk/eur/2015/1998/annex/chapter/3) omitted (23.6.2025) by virtue of [The Aviation Security (Amendment) Regulations 2025 (S.I. 2025/529)](https://www.legislation.gov.uk/uksi/2025/529), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/529/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/529/regulation/2/2)
 
-[^key-637212fd18039c53d613fc6771bd2820]: Textual amendment: Annex Ch. 4 omitted (31.1.2023) by virtue of [The Aviation Security (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1313)](https://www.legislation.gov.uk/uksi/2022/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1313/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/1313/regulation/2/3)
+[^c-637212fd18039c53d613fc6771bd2820]: Textual amendment: Annex Ch. 4 omitted (31.1.2023) by virtue of [The Aviation Security (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1313)](https://www.legislation.gov.uk/uksi/2022/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1313/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/1313/regulation/2/3)
 
-[^key-7cd73d1eb96155ea3581018d739bbdfa]: Textual amendment: Annex Ch. 5 omitted (31.1.2025) by virtue of [The Aviation Security (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1293)](https://www.legislation.gov.uk/uksi/2024/1293), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1293/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/1293/regulation/2/2)
+[^c-7cd73d1eb96155ea3581018d739bbdfa]: Textual amendment: Annex Ch. 5 omitted (31.1.2025) by virtue of [The Aviation Security (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1293)](https://www.legislation.gov.uk/uksi/2024/1293), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1293/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/1293/regulation/2/2)
 
-[^key-b227713f27d44e200d5f309a065aea25]: Textual amendment: Annex point 5.0.5 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [58(2)](https://www.legislation.gov.uk/uksi/2019/547/regulation/58/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b227713f27d44e200d5f309a065aea25]: Textual amendment: Annex point 5.0.5 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [58(2)](https://www.legislation.gov.uk/uksi/2019/547/regulation/58/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5eae3bbdf383b4a523e23a2f2a925b84]: Textual amendment: Annex point 5.0.6 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [58(2)](https://www.legislation.gov.uk/uksi/2019/547/regulation/58/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5eae3bbdf383b4a523e23a2f2a925b84]: Textual amendment: Annex point 5.0.6 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [58(2)](https://www.legislation.gov.uk/uksi/2019/547/regulation/58/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]: Textual amendment: [Annex Ch. 6](https://www.legislation.gov.uk/eur/2015/1998/annex/chapter/6) omitted (1.6.2024) by virtue of [The Aviation Security (Amendment) Regulations 2024 (S.I. 2024/590)](https://www.legislation.gov.uk/uksi/2024/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/590/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/590/regulation/2/2)
+[^c-d3bd6aa6a8fc52dbee1ea3a16fcd2c5e]: Textual amendment: [Annex Ch. 6](https://www.legislation.gov.uk/eur/2015/1998/annex/chapter/6) omitted (1.6.2024) by virtue of [The Aviation Security (Amendment) Regulations 2024 (S.I. 2024/590)](https://www.legislation.gov.uk/uksi/2024/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/590/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/590/regulation/2/2)
 
 [^c000001]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) 2017/815 of 12 May 2017 amending Implementing Regulation (EU) 2015/1998 as regards clarification, harmonisation and simplification of certain specific aviation security measures (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2017/815).
 
-[^key-0b44e2e5bda2e6c6480463d824c58f4d]: Textual amendment: Annex Ch. 6 Attachment 6-C3 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [113](https://www.legislation.gov.uk/uksi/2019/547/regulation/113); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0b44e2e5bda2e6c6480463d824c58f4d]: Textual amendment: Annex Ch. 6 Attachment 6-C3 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [113](https://www.legislation.gov.uk/uksi/2019/547/regulation/113); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a52698b0e4437bf60264ac81f6550778]: Textual amendment: Annex Ch. 6 Attachment 6-C4 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [113](https://www.legislation.gov.uk/uksi/2019/547/regulation/113); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a52698b0e4437bf60264ac81f6550778]: Textual amendment: Annex Ch. 6 Attachment 6-C4 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [113](https://www.legislation.gov.uk/uksi/2019/547/regulation/113); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f55d16a45ebd1b32bd63aa0e03a4ed29]: Textual amendment: Annex Ch. 6 Attachment 6-D omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [114](https://www.legislation.gov.uk/uksi/2019/547/regulation/114); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f55d16a45ebd1b32bd63aa0e03a4ed29]: Textual amendment: Annex Ch. 6 Attachment 6-D omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [114](https://www.legislation.gov.uk/uksi/2019/547/regulation/114); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00033]: Footnote: Regulation (EC) No 300/2008 of the European Parliament and of the Council of 11 March 2008 on common rules in the field of civil aviation security and repealing Regulation (EC) No 2320/2002 ([OJ L 97, 9.4.2008, p. 72](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.097.01.0072.01.ENG)).
 
-[^key-d802dd871f6c1f6d3a2d44dc3b54f9a2]: Textual amendment: Words in Annex Ch. 6 Attachment 6-E omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [116](https://www.legislation.gov.uk/uksi/2019/547/regulation/116); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d802dd871f6c1f6d3a2d44dc3b54f9a2]: Textual amendment: Words in Annex Ch. 6 Attachment 6-E omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [116](https://www.legislation.gov.uk/uksi/2019/547/regulation/116); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-02733eefeb30cf3845cf6da754bb82ba]: Textual amendment: Words in Annex Ch. 6 Attachment 6-E substituted (31.12.2020) by [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [117](https://www.legislation.gov.uk/uksi/2019/547/regulation/117); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-02733eefeb30cf3845cf6da754bb82ba]: Textual amendment: Words in Annex Ch. 6 Attachment 6-E substituted (31.12.2020) by [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [117](https://www.legislation.gov.uk/uksi/2019/547/regulation/117); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-458bb2f3fd2cd6f7814a171afc081dc3]: Textual amendment: Annex Ch. 6 Attachment 6-F omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [118](https://www.legislation.gov.uk/uksi/2019/547/regulation/118); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-458bb2f3fd2cd6f7814a171afc081dc3]: Textual amendment: Annex Ch. 6 Attachment 6-F omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [118](https://www.legislation.gov.uk/uksi/2019/547/regulation/118); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-029bfb3768d33cf9dfbebd4de6975a1a]: Textual amendment: Annex Ch. 6 Attachment 6-G omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [118](https://www.legislation.gov.uk/uksi/2019/547/regulation/118); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-029bfb3768d33cf9dfbebd4de6975a1a]: Textual amendment: Annex Ch. 6 Attachment 6-G omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [118](https://www.legislation.gov.uk/uksi/2019/547/regulation/118); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2070ec616e19ec3be813717dc70aa40b]: Textual amendment: Annex Ch. 6 Attachment 6-H1 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [119](https://www.legislation.gov.uk/uksi/2019/547/regulation/119); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2070ec616e19ec3be813717dc70aa40b]: Textual amendment: Annex Ch. 6 Attachment 6-H1 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [119](https://www.legislation.gov.uk/uksi/2019/547/regulation/119); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-770dcdba74c66b156bf89b5b9e0b4632]: Textual amendment: Annex Ch. 6 Attachment 6-H2 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [119](https://www.legislation.gov.uk/uksi/2019/547/regulation/119); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-770dcdba74c66b156bf89b5b9e0b4632]: Textual amendment: Annex Ch. 6 Attachment 6-H2 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [119](https://www.legislation.gov.uk/uksi/2019/547/regulation/119); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f0aee1aa896f67afe9990aaf5fc6b75c]: Textual amendment: Annex Ch. 6 Attachment 6-H3 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [119](https://www.legislation.gov.uk/uksi/2019/547/regulation/119); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f0aee1aa896f67afe9990aaf5fc6b75c]: Textual amendment: Annex Ch. 6 Attachment 6-H3 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [119](https://www.legislation.gov.uk/uksi/2019/547/regulation/119); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bde87b17eb2a68a7fc8e0cb2f8e59d14]: Textual amendment: Annex Ch. 6 Attachment 6-I omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [120](https://www.legislation.gov.uk/uksi/2019/547/regulation/120); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bde87b17eb2a68a7fc8e0cb2f8e59d14]: Textual amendment: Annex Ch. 6 Attachment 6-I omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [120](https://www.legislation.gov.uk/uksi/2019/547/regulation/120); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-49a1d778e9fb9d2ee70bc082d4f61c37]: Textual amendment: Annex Ch. 6 Attachment 6-J omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [120](https://www.legislation.gov.uk/uksi/2019/547/regulation/120); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-49a1d778e9fb9d2ee70bc082d4f61c37]: Textual amendment: Annex Ch. 6 Attachment 6-J omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [120](https://www.legislation.gov.uk/uksi/2019/547/regulation/120); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-54fa8a278a82b252d2da53e9e3f9571f]: Textual amendment: [Annex Ch. 7](https://www.legislation.gov.uk/eur/2015/1998/annex/chapter/7) omitted (23.6.2025) by virtue of [The Aviation Security (Amendment) Regulations 2025 (S.I. 2025/529)](https://www.legislation.gov.uk/uksi/2025/529), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/529/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/529/regulation/2/2)
+[^c-54fa8a278a82b252d2da53e9e3f9571f]: Textual amendment: [Annex Ch. 7](https://www.legislation.gov.uk/eur/2015/1998/annex/chapter/7) omitted (23.6.2025) by virtue of [The Aviation Security (Amendment) Regulations 2025 (S.I. 2025/529)](https://www.legislation.gov.uk/uksi/2025/529), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/529/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/529/regulation/2/2)
 
-[^key-fa67f1cbdd45efbe15981bf021b7480e]: Textual amendment: [Annex Ch. 8](https://www.legislation.gov.uk/eur/2015/1998/annex/chapter/8) omitted (1.6.2024) by virtue of [The Aviation Security (Amendment) Regulations 2024 (S.I. 2024/590)](https://www.legislation.gov.uk/uksi/2024/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/590/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/590/regulation/2/2)
+[^c-fa67f1cbdd45efbe15981bf021b7480e]: Textual amendment: [Annex Ch. 8](https://www.legislation.gov.uk/eur/2015/1998/annex/chapter/8) omitted (1.6.2024) by virtue of [The Aviation Security (Amendment) Regulations 2024 (S.I. 2024/590)](https://www.legislation.gov.uk/uksi/2024/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/590/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/590/regulation/2/2)
 
-[^key-a29eb67b1c641cd02090b570aea19ae8]: Textual amendment: Annex Ch. 9 omitted (31.10.2025) by virtue of [The Aviation Security (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1008)](https://www.legislation.gov.uk/uksi/2025/1008), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1008/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/1008/regulation/2/2)
+[^c-a29eb67b1c641cd02090b570aea19ae8]: Textual amendment: Annex Ch. 9 omitted (31.10.2025) by virtue of [The Aviation Security (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1008)](https://www.legislation.gov.uk/uksi/2025/1008), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1008/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/1008/regulation/2/2)
 
 [^c000011]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) 2020/910 of 30 June 2020 amending Implementing Regulations (EU) 2015/1998, (EU) 2019/103 and (EU) 2019/1583 as regards the re-designation of airlines, operators and entities providing security controls for cargo and mail arriving from third countries, as well as the postponement of certain regulatory requirements in the area of cybersecurity, background check, explosive detection systems equipment standards, and explosive trace detection equipment, because of the COVID-19 pandemic (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2020/910).
 
-[^key-b9db675b76db5f443393132ccdec5384]: Textual amendment: Words in Annex point 11.1.3 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(2)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b9db675b76db5f443393132ccdec5384]: Textual amendment: Words in Annex point 11.1.3 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(2)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ff57ec1f76eb68e16a1528ac1ce903ab]: Textual amendment: Words in Annex point 11.1.4 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(2)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ff57ec1f76eb68e16a1528ac1ce903ab]: Textual amendment: Words in Annex point 11.1.4 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(2)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5e28ffe813b37bfda292f0191bb26a87]: Textual amendment: Words in Annex point 11.1.5 omitted (30.4.2022) by virtue of [The Aviation Security (Amendment) Regulations 2022 (S.I. 2022/497)](https://www.legislation.gov.uk/uksi/2022/497), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/497/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/497/regulation/2/3)
+[^c-5e28ffe813b37bfda292f0191bb26a87]: Textual amendment: Words in Annex point 11.1.5 omitted (30.4.2022) by virtue of [The Aviation Security (Amendment) Regulations 2022 (S.I. 2022/497)](https://www.legislation.gov.uk/uksi/2022/497), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/497/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/497/regulation/2/3)
 
 [^c000005]: Textual amendment: Inserted by [Commission Implementing Regulation (EU) 2017/815 of 12 May 2017 amending Implementing Regulation (EU) 2015/1998 as regards clarification, harmonisation and simplification of certain specific aviation security measures (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2017/815).
 
-[^key-2cc68844e36096fcef7931fa90ac05a3]: Textual amendment: Word in Annex point 11.2.5(b) omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(3)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2cc68844e36096fcef7931fa90ac05a3]: Textual amendment: Word in Annex point 11.2.5(b) omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(3)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000002]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) 2019/103 of 23 January 2019 amending Implementing Regulation (EU) 2015/1998 as regards clarification, harmonisation and simplification as well as strengthening of certain specific aviation security measures (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/103).
 
 [^c000008]: Textual amendment: Deleted by [Commission Implementing Regulation (EU) 2019/103 of 23 January 2019 amending Implementing Regulation (EU) 2015/1998 as regards clarification, harmonisation and simplification as well as strengthening of certain specific aviation security measures (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/103).
 
-[^key-427ae78852e01b4b638edb32664ec8f3]: Textual amendment: Words in Annex point 11.5.1 substituted (30.4.2022) by [The Aviation Security (Amendment) Regulations 2022 (S.I. 2022/497)](https://www.legislation.gov.uk/uksi/2022/497), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/497/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2022/497/regulation/2/4)
+[^c-427ae78852e01b4b638edb32664ec8f3]: Textual amendment: Words in Annex point 11.5.1 substituted (30.4.2022) by [The Aviation Security (Amendment) Regulations 2022 (S.I. 2022/497)](https://www.legislation.gov.uk/uksi/2022/497), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/497/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2022/497/regulation/2/4)
 
-[^key-f544ac895e6c10b5574244f4869c0fea]: Textual amendment: Words in Annex point 11.5.3 substituted (31.12.2020) by [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(4)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f544ac895e6c10b5574244f4869c0fea]: Textual amendment: Words in Annex point 11.5.3 substituted (31.12.2020) by [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(4)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-70b7c4a46ce28690df5645f10ce73fe6]: Textual amendment: Annex point 11.5.5 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(5)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-70b7c4a46ce28690df5645f10ce73fe6]: Textual amendment: Annex point 11.5.5 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(5)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-de0db1bebcf50d2e8dfe6190e57f811a]: Textual amendment: Word in Annex point 11.6 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(6)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-de0db1bebcf50d2e8dfe6190e57f811a]: Textual amendment: Word in Annex point 11.6 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(6)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-be1eea54339cc0fee039608153356df7]: Textual amendment: Word in Annex point 11.6.1 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(6)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-be1eea54339cc0fee039608153356df7]: Textual amendment: Word in Annex point 11.6.1 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(6)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7ac22eaffd5799d75231af8c2ee8fa47]: Textual amendment: Word in Annex point 11.6.2 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(7)(a)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7ac22eaffd5799d75231af8c2ee8fa47]: Textual amendment: Word in Annex point 11.6.2 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(7)(a)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7b89c1865e457cf6e9c65629fd63a66d]: Textual amendment: Annex point 11.6.2(d) omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(7)(b)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7b89c1865e457cf6e9c65629fd63a66d]: Textual amendment: Annex point 11.6.2(d) omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(7)(b)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1ee008bf9440854f7b82152a2a204743]: Textual amendment: Word in Annex point 11.6.3 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(8)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1ee008bf9440854f7b82152a2a204743]: Textual amendment: Word in Annex point 11.6.3 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(8)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cfcd5522091a18ae64c587bb8454b626]: Textual amendment: Words in Annex point 11.6.3.1 substituted (31.12.2020) by [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(9)(a)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cfcd5522091a18ae64c587bb8454b626]: Textual amendment: Words in Annex point 11.6.3.1 substituted (31.12.2020) by [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(9)(a)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e985b96bc5c4ea212747bed2732b292b]: Textual amendment: Word in Annex point 11.6.3.1 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(9)(b)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e985b96bc5c4ea212747bed2732b292b]: Textual amendment: Word in Annex point 11.6.3.1 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(9)(b)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3a346fc049666a7208f674e34b378d4a]: Textual amendment: Annex point 11.6.3.2 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(10)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3a346fc049666a7208f674e34b378d4a]: Textual amendment: Annex point 11.6.3.2 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(10)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0230db78781430de879e625b9fcddffa]: Textual amendment: Word in Annex point 11.6.3.3 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(11)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0230db78781430de879e625b9fcddffa]: Textual amendment: Word in Annex point 11.6.3.3 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(11)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5f0e5e4a5ac7ee92d054d4abca6dcd3b]: Textual amendment: Annex point 11.6.3.4 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(12)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5f0e5e4a5ac7ee92d054d4abca6dcd3b]: Textual amendment: Annex point 11.6.3.4 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(12)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5dd89051a3f4714743e82a2c28855fa2]: Textual amendment: Word in Annex point 11.6.3.5 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(13)(a)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/13/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5dd89051a3f4714743e82a2c28855fa2]: Textual amendment: Word in Annex point 11.6.3.5 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(13)(a)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/13/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2f6de0f4b65d8111cf837b8a5b8b3b1a]: Textual amendment: Words in Annex point 11.6.3.5(d)(1) omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(13)(b)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/13/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2f6de0f4b65d8111cf837b8a5b8b3b1a]: Textual amendment: Words in Annex point 11.6.3.5(d)(1) omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(13)(b)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/13/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dba771477c29da59c08ab0674385629b]: Textual amendment: Annex point 11.6.3.7 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(14)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dba771477c29da59c08ab0674385629b]: Textual amendment: Annex point 11.6.3.7 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(14)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3630529ddd0506e47d13b218b926b347]: Textual amendment: Word in Annex point 11.6.3.8 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(15)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3630529ddd0506e47d13b218b926b347]: Textual amendment: Word in Annex point 11.6.3.8 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(15)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-11e9e9fb7fc32cb00c1ac3e0412eb186]: Textual amendment: Word in Annex point 11.6.4 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(15)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-11e9e9fb7fc32cb00c1ac3e0412eb186]: Textual amendment: Word in Annex point 11.6.4 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(15)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-06be6bdbd5886ca071bba071adfb3f1a]: Textual amendment: Word in Annex point 11.6.4.1 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(16)(a)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/16/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-06be6bdbd5886ca071bba071adfb3f1a]: Textual amendment: Word in Annex point 11.6.4.1 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(16)(a)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/16/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-aaa2be0ff7c6eceb8432472a7a63ae2b]: Textual amendment: Words in Annex point 11.6.4.1 substituted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(16)(b)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/16/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aaa2be0ff7c6eceb8432472a7a63ae2b]: Textual amendment: Words in Annex point 11.6.4.1 substituted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(16)(b)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/16/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1f9f8657dc97f044d17f2843edfd02e4]: Textual amendment: Words in Annex point 11.6.4.1 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(16)(c)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/16/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1f9f8657dc97f044d17f2843edfd02e4]: Textual amendment: Words in Annex point 11.6.4.1 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(16)(c)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/16/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f0ef5083a425728e2f1ea019b9147dc5]: Textual amendment: Annex point 11.6.4.2 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(17)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f0ef5083a425728e2f1ea019b9147dc5]: Textual amendment: Annex point 11.6.4.2 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(17)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-46190533e813bdc087f7ca8eef160fef]: Textual amendment: Words in Annex point 11.6.4.3 substituted (31.12.2020) by [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(18)(a)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/18/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-46190533e813bdc087f7ca8eef160fef]: Textual amendment: Words in Annex point 11.6.4.3 substituted (31.12.2020) by [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(18)(a)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/18/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2dbb95dd653e11de5e3dada120d6f36d]: Textual amendment: Word in Annex point 11.6.4.3 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(18)(b)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/18/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2dbb95dd653e11de5e3dada120d6f36d]: Textual amendment: Word in Annex point 11.6.4.3 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(18)(b)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/18/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b4110c5c96b51c906eaf4d748510d0eb]: Textual amendment: Words in Annex point 11.6.4.3 substituted (31.12.2020) by [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(18)(c)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/18/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b4110c5c96b51c906eaf4d748510d0eb]: Textual amendment: Words in Annex point 11.6.4.3 substituted (31.12.2020) by [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(18)(c)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/18/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c5f13e8e6ee68abd272425e96d5795c0]: Textual amendment: Word in Annex point 11.6.4.4 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(19)(a)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/19/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c5f13e8e6ee68abd272425e96d5795c0]: Textual amendment: Word in Annex point 11.6.4.4 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(19)(a)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/19/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3ad7e1a9e66a853aae79a923fbf6e3f7]: Textual amendment: Words in Annex point 11.6.4.4 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(19)(b)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/19/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3ad7e1a9e66a853aae79a923fbf6e3f7]: Textual amendment: Words in Annex point 11.6.4.4 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(19)(b)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/19/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-22dde26266bdf1c354ca5f1bf346d6f1]: Textual amendment: Annex point 11.6.4.5 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(20)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-22dde26266bdf1c354ca5f1bf346d6f1]: Textual amendment: Annex point 11.6.4.5 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(20)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-62a0908d7d1a69d1a9a4e651d771f27a]: Textual amendment: Word in Annex point 11.6.5 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(21)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/21); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-62a0908d7d1a69d1a9a4e651d771f27a]: Textual amendment: Word in Annex point 11.6.5 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(21)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/21); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-727938bc4b335473d67303a2442f25e3]: Textual amendment: Words in Annex point 11.6.5.1 substituted (31.12.2020) by [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(22)(a)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/22/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-727938bc4b335473d67303a2442f25e3]: Textual amendment: Words in Annex point 11.6.5.1 substituted (31.12.2020) by [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(22)(a)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/22/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-58c3a77c4adc4f25e3ef169b043b1d23]: Textual amendment: Word in Annex point 11.6.5.1 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(22)(b)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/22/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-58c3a77c4adc4f25e3ef169b043b1d23]: Textual amendment: Word in Annex point 11.6.5.1 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(22)(b)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/22/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4ef203623c93727b9621dffd3de91f41]: Textual amendment: Word in Annex point 11.6.5.2 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(23)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4ef203623c93727b9621dffd3de91f41]: Textual amendment: Word in Annex point 11.6.5.2 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(23)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-22800cfa660c99506e5d1ef14870da9a]: Textual amendment: Word in Annex point 11.6.5.5 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(23)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-22800cfa660c99506e5d1ef14870da9a]: Textual amendment: Word in Annex point 11.6.5.5 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(23)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000004]: Textual amendment: Inserted by [Commission Implementing Regulation (EU) 2019/103 of 23 January 2019 amending Implementing Regulation (EU) 2015/1998 as regards clarification, harmonisation and simplification as well as strengthening of certain specific aviation security measures (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/103).
 
-[^key-3e80c4e03dc3b6604f35ec7ecfee33eb]: Textual amendment: Annex point 11.7 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(24)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3e80c4e03dc3b6604f35ec7ecfee33eb]: Textual amendment: Annex point 11.7 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(24)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a582a9fbdd47d3ddd42c8e6adcdd43dc]: Textual amendment: Annex point 11.7.1 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(24)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a582a9fbdd47d3ddd42c8e6adcdd43dc]: Textual amendment: Annex point 11.7.1 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(24)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9bec2d10ce11734e92164bc75dd8b2b6]: Textual amendment: Word in Annex Ch. 11 Attachment 11-A omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(25)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9bec2d10ce11734e92164bc75dd8b2b6]: Textual amendment: Word in Annex Ch. 11 Attachment 11-A omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [124(25)](https://www.legislation.gov.uk/uksi/2019/547/regulation/124/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-28da6bea56785c23cdca5404432f1214]: Textual amendment: [Annex Ch. 12](https://www.legislation.gov.uk/eur/2015/1998/annex/chapter/12) omitted (1.6.2024) by virtue of [The Aviation Security (Amendment) Regulations 2024 (S.I. 2024/590)](https://www.legislation.gov.uk/uksi/2024/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/590/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/590/regulation/2/2)
+[^c-28da6bea56785c23cdca5404432f1214]: Textual amendment: [Annex Ch. 12](https://www.legislation.gov.uk/eur/2015/1998/annex/chapter/12) omitted (1.6.2024) by virtue of [The Aviation Security (Amendment) Regulations 2024 (S.I. 2024/590)](https://www.legislation.gov.uk/uksi/2024/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/590/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/590/regulation/2/2)

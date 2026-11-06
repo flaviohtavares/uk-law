@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Excessive prescribing (regulation 15 of the Service Committees Regulations)[^key-1953730d3dfb1dba70f1dcc021f15848]
+## 76. Excessive prescribing (regulation 15 of the Service Committees Regulations)[^c-1953730d3dfb1dba70f1dcc021f15848]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ that appeal shall continue to be dealt with as if regulation 15 were still in fo
 
 ## Annotations
 
-[^key-1953730d3dfb1dba70f1dcc021f15848]: Commencement: Art. 76 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-1953730d3dfb1dba70f1dcc021f15848]: Commencement: Art. 76 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00051]: Footnote: Regulation 15 was amended by [S.I. 2003/1937](https://www.legislation.gov.uk/uksi/2003/1937).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Parent governors[^key-2f573fa8222aad3bd55db66c9217afa6]
+## 14. Parent governors[^c-2f573fa8222aad3bd55db66c9217afa6]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f573fa8222aad3bd55db66c9217afa6]: Commencement: Reg. 14 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-2f573fa8222aad3bd55db66c9217afa6]: Commencement: Reg. 14 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

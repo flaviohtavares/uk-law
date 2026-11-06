@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law
 
-The Ukraine (European Union Financial Sanctions) (No.3) Regulations 2014 (revoked)[^key-e3d5d8b894b47b024c29f52554134b14]
+The Ukraine (European Union Financial Sanctions) (No.3) Regulations 2014 (revoked)[^c-e3d5d8b894b47b024c29f52554134b14]
 
 Made
 
@@ -46,106 +46,106 @@ Coming into force
 
 *at 3.00 p.m.* on 1st August 2014
 
-[^key-e3d5d8b894b47b024c29f52554134b14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e3d5d8b894b47b024c29f52554134b14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General[^key-e3d5d8b894b47b024c29f52554134b14]
+## PART 1 — General[^c-e3d5d8b894b47b024c29f52554134b14]
 
-### 1. Citation, commencement and application[^key-e3d5d8b894b47b024c29f52554134b14]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-e3d5d8b894b47b024c29f52554134b14]
+### 1. Citation, commencement and application[^c-e3d5d8b894b47b024c29f52554134b14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Restrictions on Financial Services[^key-e3d5d8b894b47b024c29f52554134b14]
-
-### 3. Dealing with transferable securities and money-market instruments after 1st August 2014 and before 16th September 2014[^key-e3d5d8b894b47b024c29f52554134b14]
+### 2. Interpretation[^c-e3d5d8b894b47b024c29f52554134b14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3A. Dealing with transferable securities and money-market instruments after 15th September 2014[^key-e3d5d8b894b47b024c29f52554134b14]
+## PART 2 — Restrictions on Financial Services[^c-e3d5d8b894b47b024c29f52554134b14]
+
+### 3. Dealing with transferable securities and money-market instruments after 1st August 2014 and before 16th September 2014[^c-e3d5d8b894b47b024c29f52554134b14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3B. Loan or credit arrangements after 15th September 2014[^key-e3d5d8b894b47b024c29f52554134b14]
+### 3A. Dealing with transferable securities and money-market instruments after 15th September 2014[^c-e3d5d8b894b47b024c29f52554134b14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3C. Drawdown or disbursements made under contracts concluded before 15th September 2014[^key-e3d5d8b894b47b024c29f52554134b14]
+### 3B. Loan or credit arrangements after 15th September 2014[^c-e3d5d8b894b47b024c29f52554134b14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Offences[^key-e3d5d8b894b47b024c29f52554134b14]
-
-### 4. Contravention and circumvention of prohibitions[^key-e3d5d8b894b47b024c29f52554134b14]
+### 3C. Drawdown or disbursements made under contracts concluded before 15th September 2014[^c-e3d5d8b894b47b024c29f52554134b14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Officers of a body corporate etc.[^key-e3d5d8b894b47b024c29f52554134b14]
+## PART 3 — Offences[^c-e3d5d8b894b47b024c29f52554134b14]
+
+### 4. Contravention and circumvention of prohibitions[^c-e3d5d8b894b47b024c29f52554134b14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Penalties[^key-e3d5d8b894b47b024c29f52554134b14]
+### 5. Officers of a body corporate etc.[^c-e3d5d8b894b47b024c29f52554134b14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Proceedings[^key-e3d5d8b894b47b024c29f52554134b14]
+### 6. Penalties[^c-e3d5d8b894b47b024c29f52554134b14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Consent to prosecution[^key-e3d5d8b894b47b024c29f52554134b14]
+### 7. Proceedings[^c-e3d5d8b894b47b024c29f52554134b14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Miscellaneous[^key-e3d5d8b894b47b024c29f52554134b14]
-
-### 9. Information provisions[^key-e3d5d8b894b47b024c29f52554134b14]
+### 8. Consent to prosecution[^c-e3d5d8b894b47b024c29f52554134b14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. The Crown[^key-e3d5d8b894b47b024c29f52554134b14]
+## PART 4 — Miscellaneous[^c-e3d5d8b894b47b024c29f52554134b14]
+
+### 9. Information provisions[^c-e3d5d8b894b47b024c29f52554134b14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e3d5d8b894b47b024c29f52554134b14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 10. The Crown[^c-e3d5d8b894b47b024c29f52554134b14]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-e3d5d8b894b47b024c29f52554134b14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Information Provisions[^key-e3d5d8b894b47b024c29f52554134b14]
+## SCHEDULE — Information Provisions[^c-e3d5d8b894b47b024c29f52554134b14]
 
 Regulation 9
 
-### 1. Reporting obligations of relevant institutions and others[^key-e3d5d8b894b47b024c29f52554134b14]
+### 1. Reporting obligations of relevant institutions and others[^c-e3d5d8b894b47b024c29f52554134b14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Powers to request information[^key-e3d5d8b894b47b024c29f52554134b14]
+### 2. Powers to request information[^c-e3d5d8b894b47b024c29f52554134b14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Production of documents[^key-e3d5d8b894b47b024c29f52554134b14]
+### 3. Production of documents[^c-e3d5d8b894b47b024c29f52554134b14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Failure to comply with request for information[^key-e3d5d8b894b47b024c29f52554134b14]
+### 4. Failure to comply with request for information[^c-e3d5d8b894b47b024c29f52554134b14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. General powers to disclose information[^key-e3d5d8b894b47b024c29f52554134b14]
+### 5. General powers to disclose information[^c-e3d5d8b894b47b024c29f52554134b14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Application of provisions[^key-e3d5d8b894b47b024c29f52554134b14]
+### 6. Application of provisions[^c-e3d5d8b894b47b024c29f52554134b14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e3d5d8b894b47b024c29f52554134b14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e3d5d8b894b47b024c29f52554134b14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e3d5d8b894b47b024c29f52554134b14]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/2054) revoked (31.12.2020) by [The Russia (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/855)](https://www.legislation.gov.uk/uksi/2019/855), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/855/regulation/1/2), [99(1)](https://www.legislation.gov.uk/uksi/2019/855/regulation/99/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e3d5d8b894b47b024c29f52554134b14]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/2054) revoked (31.12.2020) by [The Russia (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/855)](https://www.legislation.gov.uk/uksi/2019/855), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/855/regulation/1/2), [99(1)](https://www.legislation.gov.uk/uksi/2019/855/regulation/99/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

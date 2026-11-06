@@ -139,7 +139,7 @@ The Scottish Ministers, in exercise of the powers conferred upon them by section
 
 (4) In section 27(1)(c) (registers etc.), for “or 10" substitute “ , 10 or 10A ”.
 
-## 4. Amendment of the Town and Country Planning (Hazardous Substances) (Scotland) Regulations 1993[^key-8426d4a5363955072eeb0618f1df7c49]
+## 4. Amendment of the Town and Country Planning (Hazardous Substances) (Scotland) Regulations 1993[^c-8426d4a5363955072eeb0618f1df7c49]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -205,7 +205,7 @@ A member of the Scottish Executive
 
 St Andrew’s House, Edinburgh
 
-## SCHEDULE 1 — NEW SCHEDULE 1 TO THE TOWN AND COUNTRY PLANNING (HAZARDOUS SUBSTANCES) (SCOTLAND) REGULATIONS 1993[^key-2d5e396077d7ba84caa97235f5dd7f54]
+## SCHEDULE 1 — NEW SCHEDULE 1 TO THE TOWN AND COUNTRY PLANNING (HAZARDOUS SUBSTANCES) (SCOTLAND) REGULATIONS 1993[^c-2d5e396077d7ba84caa97235f5dd7f54]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -213,15 +213,15 @@ St Andrew’s House, Edinburgh
 
 Regulation 4(10)
 
-### FORM 1[^key-4b0732adf27b4b44099951fa87d1da0a]
+### FORM 1[^c-4b0732adf27b4b44099951fa87d1da0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### FORM 2[^key-2f27b4e21e97689d5c50888fe4aed45a]
+### FORM 2[^c-2f27b4e21e97689d5c50888fe4aed45a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### FORM 12[^key-7284360b46f55bfd1c4090dacf704757]
+### FORM 12[^c-7284360b46f55bfd1c4090dacf704757]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -253,16 +253,16 @@ A Regulatory Impact Appraisal has been prepared in relation to these Regulations
 
 [^c16483521]: Marginal citation: [S.I. 1993/323](https://www.legislation.gov.uk/uksi/1993/323), amended by [S.I. 1994/2567](https://www.legislation.gov.uk/uksi/1994/2567) and 1996/252.
 
-[^key-8426d4a5363955072eeb0618f1df7c49]: Textual amendment: Reg. 4 revoked (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2015/181/schedule/9)
+[^c-8426d4a5363955072eeb0618f1df7c49]: Textual amendment: Reg. 4 revoked (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2015/181/schedule/9)
 
 [^c16483581]: Marginal citation: [S.I. 1983/1590](https://www.legislation.gov.uk/uksi/1983/1590), to which there are amendments not relevant to these Regulations.
 
 [^c16483591]: Marginal citation: [S.I. 1992/224](https://www.legislation.gov.uk/uksi/1992/224); relevant amending instruments are [S.I. 1994/2585](https://www.legislation.gov.uk/uksi/1994/2585) and 3293, 1996/467 and 1997
 
-[^key-2d5e396077d7ba84caa97235f5dd7f54]: Textual amendment: Sch. 1 revoked (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2015/181/schedule/9)
+[^c-2d5e396077d7ba84caa97235f5dd7f54]: Textual amendment: Sch. 1 revoked (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2015/181/schedule/9)
 
-[^key-4b0732adf27b4b44099951fa87d1da0a]: Textual amendment: Sch. 2 Form 1 revoked (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2015/181/schedule/9)
+[^c-4b0732adf27b4b44099951fa87d1da0a]: Textual amendment: Sch. 2 Form 1 revoked (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2015/181/schedule/9)
 
-[^key-2f27b4e21e97689d5c50888fe4aed45a]: Textual amendment: Sch. 2 Form 2 revoked (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2015/181/schedule/9)
+[^c-2f27b4e21e97689d5c50888fe4aed45a]: Textual amendment: Sch. 2 Form 2 revoked (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2015/181/schedule/9)
 
-[^key-7284360b46f55bfd1c4090dacf704757]: Textual amendment: Sch. 2 Form 12 revoked (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2015/181/schedule/9)
+[^c-7284360b46f55bfd1c4090dacf704757]: Textual amendment: Sch. 2 Form 12 revoked (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2015/181/schedule/9)

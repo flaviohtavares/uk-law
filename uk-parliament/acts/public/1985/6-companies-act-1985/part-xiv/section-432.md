@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 432. Other company investigations.[^c17408631][^key-cfad965b6730321c1214cbe7ce57e505]
+## 432. Other company investigations.[^c17408631][^c-cfad965b6730321c1214cbe7ce57e505]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
 
 [^c17408631]: Modification: S. 432 applied (with modifications) (6.4.2001) by [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090), [reg. 4](https://www.legislation.gov.uk/uksi/2001/1090/regulation/4), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/1090/schedule/2/part/I)
 
-[^key-cfad965b6730321c1214cbe7ce57e505]: Modification: S. 432 applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
+[^c-cfad965b6730321c1214cbe7ce57e505]: Modification: S. 432 applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
 
 [^c17408641]: Modification: S. 432(1)(2) extended (with modifications) by [S.I. 1989/638](https://www.legislation.gov.uk/uksi/1989/638), [regs. 18](https://www.legislation.gov.uk/uksi/1989/638/regulation/18), [21](https://www.legislation.gov.uk/uksi/1989/638/regulation/21), [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/1989/638/schedule/4/paragraph/5)
 

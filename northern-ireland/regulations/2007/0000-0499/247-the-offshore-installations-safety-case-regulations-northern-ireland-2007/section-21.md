@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Continuing effect of verification schemes[^key-7e0cebe90f58eaeb7b05e817b6bafac1]
+## 21. Continuing effect of verification schemes[^c-7e0cebe90f58eaeb7b05e817b6bafac1]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The duty holder shall ensure that effect continues to be given to the verificati
 
 ## Annotations
 
-[^key-7e0cebe90f58eaeb7b05e817b6bafac1]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2007/247/regulation/21) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)
+[^c-7e0cebe90f58eaeb7b05e817b6bafac1]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2007/247/regulation/21) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)

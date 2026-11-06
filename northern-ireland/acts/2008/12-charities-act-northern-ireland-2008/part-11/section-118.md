@@ -36,7 +36,7 @@ summary: ''
 - (a) may direct the transferor CIO to give public notice of its resolution in such manner as is specified in the direction, and
 - (b) if it gives such a direction, must take into account any representations made to it by persons appearing to it to be interested in the transferor CIO, where those representations are made to it within the period of 28 days beginning with the date when public notice of the resolution is given by the transferor CIO.
 
-(5) The resolution of the transferor[^key-189e420b5fb9eff6b0f76f6ed90040ba] CIO shall not take effect until confirmed by the Commission.
+(5) The resolution of the transferor[^c-189e420b5fb9eff6b0f76f6ed90040ba] CIO shall not take effect until confirmed by the Commission.
 
 (6) The Commission shall refuse to confirm the resolution if it considers that there is a serious risk that the transferee CIO would be unable properly to pursue the purposes of the transferor CIO.
 
@@ -67,4 +67,4 @@ takes effect as a gift to the transferee CIO.
 
 ## Annotations
 
-[^key-189e420b5fb9eff6b0f76f6ed90040ba]: Textual amendment: Words in [s. 118(5)](https://www.legislation.gov.uk/nia/2008/12/section/118/5) inserted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/21)
+[^c-189e420b5fb9eff6b0f76f6ed90040ba]: Textual amendment: Words in [s. 118(5)](https://www.legislation.gov.uk/nia/2008/12/section/118/5) inserted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/21)

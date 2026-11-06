@@ -20,11 +20,11 @@ summary: ''
 
 **Not yet in force.**
 
-**80.**[^key-937a314273bb1495ef342bf9ef9d29d4] A person shall not, on Lough Neagh—
+**80.**[^c-937a314273bb1495ef342bf9ef9d29d4] A person shall not, on Lough Neagh—
 
 - (a) take any coarse fish except pollen with a fishing engine, other than rod and line or hand line from 1st March to 31st May, both dates inclusive; or
 - (b) take any coarse fish with a fishing engine, other than rod and line or hand line during the period commencing at 6 o'clock am on any Saturday and ending at 6 o'clock am on the next following Monday.
 
 ## Annotations
 
-[^key-937a314273bb1495ef342bf9ef9d29d4]: Commencement: S. 80 in operation at 1.11.1997, see byelaw 1
+[^c-937a314273bb1495ef342bf9ef9d29d4]: Commencement: S. 80 in operation at 1.11.1997, see byelaw 1

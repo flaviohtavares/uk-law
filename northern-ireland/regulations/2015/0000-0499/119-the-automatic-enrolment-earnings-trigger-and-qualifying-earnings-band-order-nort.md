@@ -42,29 +42,29 @@ Coming into operation
 
 6th April 2015
 
-[^key-4eb931cc1d515c56fca1f44fea0567d1]The Department for Social Development makes the following Order in exercise of the powers conferred by sections 14 and 15A(1) of the Pensions (No. 2) Act (Northern Ireland) 2008 .
+[^c-4eb931cc1d515c56fca1f44fea0567d1]The Department for Social Development makes the following Order in exercise of the powers conferred by sections 14 and 15A(1) of the Pensions (No. 2) Act (Northern Ireland) 2008 .
 
 The Secretary of State for Work and Pensions has made an Order under sections 14(2) and 15A(1) of the Pensions Act 2008 .
 
 Accordingly the Department for Social Development makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-4eb931cc1d515c56fca1f44fea0567d1]
+## 1. Citation, commencement and interpretation[^c-4eb931cc1d515c56fca1f44fea0567d1]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Increase of amounts[^key-4eb931cc1d515c56fca1f44fea0567d1]
+## 2. Increase of amounts[^c-4eb931cc1d515c56fca1f44fea0567d1]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Rounding of figures[^key-3a1782961424ea65dfb23bc1a6309c97]
+## 3. Rounding of figures[^c-3a1782961424ea65dfb23bc1a6309c97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-4eb931cc1d515c56fca1f44fea0567d1]
+## 4. Revocation[^c-4eb931cc1d515c56fca1f44fea0567d1]
 
 **No longer in force.**
 
@@ -90,6 +90,6 @@ Article 4 makes a revocation.
 
 ## Annotations
 
-[^key-4eb931cc1d515c56fca1f44fea0567d1]: Textual amendment: Order revoked (6.4.2017) by [The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order (Northern Ireland) 2017 (S.R. 2017/54)](https://www.legislation.gov.uk/nisr/2017/54), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2017/54/article/1/1), [4(c)](https://www.legislation.gov.uk/nisr/2017/54/article/4/c)
+[^c-4eb931cc1d515c56fca1f44fea0567d1]: Textual amendment: Order revoked (6.4.2017) by [The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order (Northern Ireland) 2017 (S.R. 2017/54)](https://www.legislation.gov.uk/nisr/2017/54), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2017/54/article/1/1), [4(c)](https://www.legislation.gov.uk/nisr/2017/54/article/4/c)
 
-[^key-3a1782961424ea65dfb23bc1a6309c97]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisr/2015/119/article/3) revoked (6.4.2016) by [The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order (Northern Ireland) 2016 (S.R. 2016/196)](https://www.legislation.gov.uk/nisr/2016/196), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2016/196/article/1/1), [4](https://www.legislation.gov.uk/nisr/2016/196/article/4)
+[^c-3a1782961424ea65dfb23bc1a6309c97]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisr/2015/119/article/3) revoked (6.4.2016) by [The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order (Northern Ireland) 2016 (S.R. 2016/196)](https://www.legislation.gov.uk/nisr/2016/196), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2016/196/article/1/1), [4](https://www.legislation.gov.uk/nisr/2016/196/article/4)

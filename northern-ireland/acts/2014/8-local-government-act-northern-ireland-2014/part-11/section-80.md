@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 80. Boundaries of the general power[^key-4d6063018c74ed8d86aec392a2f0c93a]
+## 80. Boundaries of the general power[^c-4d6063018c74ed8d86aec392a2f0c93a]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d6063018c74ed8d86aec392a2f0c93a]: Commencement: [S. 80](https://www.legislation.gov.uk/nia/2014/8/section/80) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-4d6063018c74ed8d86aec392a2f0c93a]: Commencement: [S. 80](https://www.legislation.gov.uk/nia/2014/8/section/80) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Meaning of “health and social care services” in Chapter 1[^key-fb2c213b2790bde867bda1681dad4894]
+## 7. Meaning of “health and social care services” in Chapter 1[^c-fb2c213b2790bde867bda1681dad4894]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In this Chapter “**health and social care services**” has the meaning given 
 
 ## Annotations
 
-[^key-fb2c213b2790bde867bda1681dad4894]: Commencement: S. 7 in force at 1.10.2008 by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/2497/article/2/d)
+[^c-fb2c213b2790bde867bda1681dad4894]: Commencement: S. 7 in force at 1.10.2008 by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/2497/article/2/d)

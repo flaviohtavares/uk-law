@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Repeals[^key-902d3eda13bd4c418e76d32d0467cf5b]
+## 146. Repeals[^c-902d3eda13bd4c418e76d32d0467cf5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 23 contains repeals.
 
 ## Annotations
 
-[^key-902d3eda13bd4c418e76d32d0467cf5b]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2007/15/section/146) in force at 19.8.2013 for specified purposes by [S.I. 2013/2043](https://www.legislation.gov.uk/uksi/2013/2043), [art. 2](https://www.legislation.gov.uk/uksi/2013/2043/article/2)
+[^c-902d3eda13bd4c418e76d32d0467cf5b]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2007/15/section/146) in force at 19.8.2013 for specified purposes by [S.I. 2013/2043](https://www.legislation.gov.uk/uksi/2013/2043), [art. 2](https://www.legislation.gov.uk/uksi/2013/2043/article/2)

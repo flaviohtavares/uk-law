@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 86. Interpretation[^key-d4bb1e83c9a9ca3694ab3dfc161669d8]
+## 86. Interpretation[^c-d4bb1e83c9a9ca3694ab3dfc161669d8]
 
 *Extent: N.I.*
 
-In this Section[^key-2cc0b88b9592efe480b23d578e9eab59] —
+In this Section[^c-2cc0b88b9592efe480b23d578e9eab59] —
 
 - “**the notice**” means the notice prescribed in regulation 88(1)(b);
 - “**relevant information**” means such information as is prescribed in regulation 89;
@@ -29,8 +29,8 @@ In this Section[^key-2cc0b88b9592efe480b23d578e9eab59] —
 
 ## Annotations
 
-[^key-d4bb1e83c9a9ca3694ab3dfc161669d8]: Commencement: [Reg. 86](https://www.legislation.gov.uk/nisr/2006/406/regulation/86) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-d4bb1e83c9a9ca3694ab3dfc161669d8]: Commencement: [Reg. 86](https://www.legislation.gov.uk/nisr/2006/406/regulation/86) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
-[^key-2cc0b88b9592efe480b23d578e9eab59]: Textual amendment: Word in [reg. 86](https://www.legislation.gov.uk/nisr/2006/406/regulation/86) substituted (10.12.2007) by [The Social Security (Claims and Information) Regulations (Northern Ireland) 2007 (S.R. 2007/467)](https://www.legislation.gov.uk/nisr/2007/467), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1), [8(3)](https://www.legislation.gov.uk/nisr/2007/467/regulation/8/3)
+[^c-2cc0b88b9592efe480b23d578e9eab59]: Textual amendment: Word in [reg. 86](https://www.legislation.gov.uk/nisr/2006/406/regulation/86) substituted (10.12.2007) by [The Social Security (Claims and Information) Regulations (Northern Ireland) 2007 (S.R. 2007/467)](https://www.legislation.gov.uk/nisr/2007/467), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1), [8(3)](https://www.legislation.gov.uk/nisr/2007/467/regulation/8/3)
 
 [^f00142]: Footnote: Section 119A was inserted by Article 10 of the Social Security Administration (Fraud) (Northern Ireland) Order 1997

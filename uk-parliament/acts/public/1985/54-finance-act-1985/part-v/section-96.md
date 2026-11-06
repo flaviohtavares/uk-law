@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. European Union and Investment Bank: exemptions.[^key-465f3f0003b08ed3860616f904e5cedf]
+## 96. European Union and Investment Bank: exemptions.[^c-465f3f0003b08ed3860616f904e5cedf]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-465f3f0003b08ed3860616f904e5cedf]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3),](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3) [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[, 6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-465f3f0003b08ed3860616f904e5cedf]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3),](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3) [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[, 6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
 [^c10034591]: Editorial: Part of the text of ss. 67(2), 72(6), 90(3)-(5), 91(1) and (3), 92(2)(4), 96(1), Sch. 19 paras. 1(2)(3), 2(2), 3(3), 5(5)( a ), 20(2), Sch. 27 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals that may have been made prior to 1.2.1991
 

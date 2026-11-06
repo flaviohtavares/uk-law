@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19A. Policies, controls and procedures in relation to proliferation financing[^key-da0ae2eaa972f76089dae4d8361108e4]
+## 19A. Policies, controls and procedures in relation to proliferation financing[^c-da0ae2eaa972f76089dae4d8361108e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ summary: ''
 
 - (a) which provide for the identification and scrutiny of—
   - (i) any case where—
-    - (aa) a transaction is unusually complex or unusually large in each case given the nature of the transaction[^key-b908a5cd0dccaaaef0b269146fde83ee], or there is an unusual pattern of transactions; or
+    - (aa) a transaction is unusually complex or unusually large in each case given the nature of the transaction[^c-b908a5cd0dccaaaef0b269146fde83ee], or there is an unusual pattern of transactions; or
     - (bb) the transaction or transactions have no apparent economic or legal purpose, and
   - (ii) any other activity or situation which the relevant person regards as particularly likely by its nature to be related to proliferation financing;
 - (b) which specify the taking of additional measures, where appropriate, to prevent the use for proliferation financing of products and transactions which might favour anonymity;
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-da0ae2eaa972f76089dae4d8361108e4]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2017/692/regulation/19A) inserted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [6(4)](https://www.legislation.gov.uk/uksi/2022/860/regulation/6/4)
+[^c-da0ae2eaa972f76089dae4d8361108e4]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2017/692/regulation/19A) inserted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [6(4)](https://www.legislation.gov.uk/uksi/2022/860/regulation/6/4)
 
-[^key-b908a5cd0dccaaaef0b269146fde83ee]: Textual amendment: Words in [reg. 19A(4)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2017/692/regulation/19A/4/a/i/aa) substituted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2026/621/regulation/12)
+[^c-b908a5cd0dccaaaef0b269146fde83ee]: Textual amendment: Words in [reg. 19A(4)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2017/692/regulation/19A/4/a/i/aa) substituted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2026/621/regulation/12)

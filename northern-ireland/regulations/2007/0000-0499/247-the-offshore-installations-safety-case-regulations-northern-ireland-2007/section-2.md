@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Interpretation[^key-5e6738c9d7310ab970ee50185c58734f]
+## 2. Interpretation[^c-5e6738c9d7310ab970ee50185c58734f]
 
 *Extent: N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 - “field development programme” means the support document for development and production authorisations to be submitted to the Department of Trade and Industry pursuant to the *Guidance Notes on Procedures for Regulating Offshore Oil and Gas Field Developments* as published on the Department of Trade and Industry’s website and revised or reissued from time to time[^f00010];
 - “fixed installation” means an installation which cannot be moved from place to place without major dismantling or modification, whether or not it has its own motive power;
 - “installation” means an offshore installation within the meaning of regulation 3 of the Management Regulations;
-- “internal waters” means tidal waters and parts of the sea in or adjacent to Northern Ireland up to the landward limits of the territorial sea;[^key-19d5d41b4dc626f7a916f96939e31656]
+- “internal waters” means tidal waters and parts of the sea in or adjacent to Northern Ireland up to the landward limits of the territorial sea;[^c-19d5d41b4dc626f7a916f96939e31656]
 - “licensee” means any person to whom a licence to search and bore for and get petroleum in respect of any area within relevant waters is granted pursuant to section 3 of the Petroleum Act 1998[^f00011];
 - “major accident” means—
   - (a) a fire, explosion or the release of a dangerous substance involving death or serious personal injury to persons on the installation or engaged in an activity on or in connection with it;
@@ -62,7 +62,7 @@ summary: ''
 - “the PFEER Regulations” means the Offshore Installations (Prevention of Fire and Explosion, and Emergency Response) Regulations (Northern Ireland) 1995[^f00013];
 - “pipeline” shall be construed in accordance with regulation 3 of the Pipelines Safety Regulations (Northern Ireland) 1997[^f00014];
 - “production installation” means an installation which—
-  - (a) extracts petroleum from beneath the bed of internal waters[^key-d84d7e2903c24ce65f3b303b60adcb11] by means of a well;
+  - (a) extracts petroleum from beneath the bed of internal waters[^c-d84d7e2903c24ce65f3b303b60adcb11] by means of a well;
   - (b) stores gas in or under the shore or bed of relevant waters and recovers gas so stored; or
   - (c) is used for the conveyance of petroleum by means of a pipe,
 
@@ -73,7 +73,7 @@ summary: ''
     - (ii) production installation which has ceased production for so long as it is not converted to a non-production installation;
     - (iii) production installation which has not come into use; and
   - (b) does not include an installation which, for a period of no more than 90 days, extracts petroleum from beneath the bed of internal waters for the purposes of well testing;
-- [^key-e78b6b522699431053cb3bf6337e9ae1]...
+- [^c-e78b6b522699431053cb3bf6337e9ae1]...
 - “safety-critical elements” means such parts of an installation and such of its plant (including computer programmes), or any part thereof—
   - (a) the failure of which could cause or contribute substantially to; or
   - (b) a purpose of which is to prevent, or limit the effect of,
@@ -118,7 +118,7 @@ summary: ''
 (6) The means referred to in paragraph (5) are—
 
 - (a) examination, including testing where appropriate, of the safety-critical elements and the specified plant by independent and competent persons;
-- (b)[^key-d4a002d95160bf7446aef075505c960a] examination of any design, specification, certificate, marking or other document, or standard relating to those elements or that plant by such persons;
+- (b)[^c-d4a002d95160bf7446aef075505c960a] examination of any design, specification, certificate, marking or other document, or standard relating to those elements or that plant by such persons;
 - (c) examination by such persons of work in progress;
 - (d) the taking of appropriate action following reports by such persons;
 - (e) the taking of other such steps as may be properly provided for pursuant to regulation 19 and Schedule 7; and
@@ -142,13 +142,13 @@ summary: ''
 
 ## Annotations
 
-[^key-5e6738c9d7310ab970ee50185c58734f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/247/regulation/2) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)
+[^c-5e6738c9d7310ab970ee50185c58734f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/247/regulation/2) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)
 
 [^f00009]: Footnote: [S.R. 1993 No. 221](https://www.legislation.gov.uk/nisr/1993/221), as amended by [S.R. 1995 No. 340](https://www.legislation.gov.uk/nisr/1995/340), [S.R. 1995 No. 345](https://www.legislation.gov.uk/nisr/1995/345), [S.R. 1996 No. 228](https://www.legislation.gov.uk/nisr/1996/228), [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150) and [S.R. 2005 No. 45](https://www.legislation.gov.uk/nisr/2005/45)
 
 [^f00010]: Footnote: http://www.og.dti.gov.uk/regulation/guidance/reg\_offshore/index.htm
 
-[^key-19d5d41b4dc626f7a916f96939e31656]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/247/regulation/2/1) inserted (19.12.2016) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations (Northern Ireland) 2016 (S.R. 2016/406)](https://www.legislation.gov.uk/nisr/2016/406), [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1), [Sch. 14 para. 37(2)(a)](https://www.legislation.gov.uk/nisr/2016/406/schedule/14/paragraph/37/2/a) (with [reg. 4(2)](https://www.legislation.gov.uk/nisr/2016/406/regulation/4/2), [Sch. 15](https://www.legislation.gov.uk/nisr/2016/406/schedule/15))
+[^c-19d5d41b4dc626f7a916f96939e31656]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/247/regulation/2/1) inserted (19.12.2016) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations (Northern Ireland) 2016 (S.R. 2016/406)](https://www.legislation.gov.uk/nisr/2016/406), [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1), [Sch. 14 para. 37(2)(a)](https://www.legislation.gov.uk/nisr/2016/406/schedule/14/paragraph/37/2/a) (with [reg. 4(2)](https://www.legislation.gov.uk/nisr/2016/406/regulation/4/2), [Sch. 15](https://www.legislation.gov.uk/nisr/2016/406/schedule/15))
 
 [^f00011]: Footnote: [1998 c.17](https://www.legislation.gov.uk/ukpga/1998/17)
 
@@ -158,8 +158,8 @@ summary: ''
 
 [^f00014]: Footnote: [S.R. 1997 No. 193](https://www.legislation.gov.uk/nisr/1997/193), as amended by [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150)
 
-[^key-d84d7e2903c24ce65f3b303b60adcb11]: Textual amendment: Words in [Regulation](https://www.legislation.gov.uk/nisr/2007/247) substituted (19.12.2016) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations (Northern Ireland) 2016 (S.R. 2016/406)](https://www.legislation.gov.uk/nisr/2016/406), [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1), [Sch. 14 para. 36(3)](https://www.legislation.gov.uk/nisr/2016/406/schedule/14/paragraph/36/3) (with [regs. 4(2)](https://www.legislation.gov.uk/nisr/2016/406/regulation/4/2), [36(4)](https://www.legislation.gov.uk/nisr/2016/406/regulation/36/4), [Sch. 16](https://www.legislation.gov.uk/nisr/2016/406/schedule/16))
+[^c-d84d7e2903c24ce65f3b303b60adcb11]: Textual amendment: Words in [Regulation](https://www.legislation.gov.uk/nisr/2007/247) substituted (19.12.2016) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations (Northern Ireland) 2016 (S.R. 2016/406)](https://www.legislation.gov.uk/nisr/2016/406), [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1), [Sch. 14 para. 36(3)](https://www.legislation.gov.uk/nisr/2016/406/schedule/14/paragraph/36/3) (with [regs. 4(2)](https://www.legislation.gov.uk/nisr/2016/406/regulation/4/2), [36(4)](https://www.legislation.gov.uk/nisr/2016/406/regulation/36/4), [Sch. 16](https://www.legislation.gov.uk/nisr/2016/406/schedule/16))
 
-[^key-e78b6b522699431053cb3bf6337e9ae1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/247/regulation/2/1) omitted (19.12.2016) by virtue of [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations (Northern Ireland) 2016 (S.R. 2016/406)](https://www.legislation.gov.uk/nisr/2016/406), [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1), [Sch. 14 para. 37(2)(b)](https://www.legislation.gov.uk/nisr/2016/406/schedule/14/paragraph/37/2/b) (with [reg. 4(2)](https://www.legislation.gov.uk/nisr/2016/406/regulation/4/2), [Sch. 15](https://www.legislation.gov.uk/nisr/2016/406/schedule/15))
+[^c-e78b6b522699431053cb3bf6337e9ae1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/247/regulation/2/1) omitted (19.12.2016) by virtue of [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations (Northern Ireland) 2016 (S.R. 2016/406)](https://www.legislation.gov.uk/nisr/2016/406), [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1), [Sch. 14 para. 37(2)(b)](https://www.legislation.gov.uk/nisr/2016/406/schedule/14/paragraph/37/2/b) (with [reg. 4(2)](https://www.legislation.gov.uk/nisr/2016/406/regulation/4/2), [Sch. 15](https://www.legislation.gov.uk/nisr/2016/406/schedule/15))
 
-[^key-d4a002d95160bf7446aef075505c960a]: Textual amendment: [Reg. 2(6)(b)](https://www.legislation.gov.uk/nisr/2007/247/regulation/2/6/b) substituted (31.12.2020) by [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/uksi/2019/202/schedule/2/paragraph/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d4a002d95160bf7446aef075505c960a]: Textual amendment: [Reg. 2(6)(b)](https://www.legislation.gov.uk/nisr/2007/247/regulation/2/6/b) substituted (31.12.2020) by [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/uksi/2019/202/schedule/2/paragraph/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

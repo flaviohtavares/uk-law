@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 219. Overview[^key-a10210a31dd729ad1b8e6382ae11e867]
+## 219. Overview[^c-a10210a31dd729ad1b8e6382ae11e867]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This group of sections allows the regulator to require a registered provider to 
 
 ## Annotations
 
-[^key-a10210a31dd729ad1b8e6382ae11e867]: Commencement: S. 219 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-a10210a31dd729ad1b8e6382ae11e867]: Commencement: S. 219 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))

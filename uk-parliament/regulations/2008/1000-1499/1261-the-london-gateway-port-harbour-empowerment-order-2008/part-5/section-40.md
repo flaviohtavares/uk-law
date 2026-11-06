@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Disputes concerning rates[^key-d289e01718cbe5dc277e681d5b8de327]
+## 40. Disputes concerning rates[^c-d289e01718cbe5dc277e681d5b8de327]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Section 46 (disputes concerning rates or charges occasioned by distress) of the 
 
 ## Annotations
 
-[^key-d289e01718cbe5dc277e681d5b8de327]: Commencement: Art. 40 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-d289e01718cbe5dc277e681d5b8de327]: Commencement: Art. 40 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

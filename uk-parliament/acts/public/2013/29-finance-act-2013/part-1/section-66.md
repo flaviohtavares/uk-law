@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Currency used in tax calculations: chargeable gains and losses[^key-6cb07aef210c8aea4991c6d90a5619ed]
+## 66. Currency used in tax calculations: chargeable gains and losses[^c-6cb07aef210c8aea4991c6d90a5619ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cb07aef210c8aea4991c6d90a5619ed]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2013/29/section/66) in force at 1.9.2013 for the purposes of the amendments made by that section, with effect in relation to disposals after that date by [S.I. 2013/1815](https://www.legislation.gov.uk/uksi/2013/1815), [art. 2](https://www.legislation.gov.uk/uksi/2013/1815/article/2)
+[^c-6cb07aef210c8aea4991c6d90a5619ed]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2013/29/section/66) in force at 1.9.2013 for the purposes of the amendments made by that section, with effect in relation to disposals after that date by [S.I. 2013/1815](https://www.legislation.gov.uk/uksi/2013/1815), [art. 2](https://www.legislation.gov.uk/uksi/2013/1815/article/2)

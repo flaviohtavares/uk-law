@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Findings of unfitness to stand trial and insanity.[^key-0f60d7cd819a4f692293dbec6e4d9881]
+## 8. Findings of unfitness to stand trial and insanity.[^c-0f60d7cd819a4f692293dbec6e4d9881]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f60d7cd819a4f692293dbec6e4d9881]: Textual amendment: S. 8 repealed (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [s. 60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 11](https://www.legislation.gov.uk/ukpga/2004/28/schedule/11); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(i)](https://www.legislation.gov.uk/uksi/2005/579/article/3/i)
+[^c-0f60d7cd819a4f692293dbec6e4d9881]: Textual amendment: S. 8 repealed (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [s. 60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 11](https://www.legislation.gov.uk/ukpga/2004/28/schedule/11); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(i)](https://www.legislation.gov.uk/uksi/2005/579/article/3/i)

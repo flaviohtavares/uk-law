@@ -26,13 +26,13 @@ summary: ''
 
 - (a) auditors, insolvency practitioners, external accountants and tax advisors;
 - (b) independent legal professionals;
-- (c) estate agents and letting agents[^key-d2b4d906ce1ad025cfeafbdbc2ee41ae];
+- (c) estate agents and letting agents[^c-d2b4d906ce1ad025cfeafbdbc2ee41ae];
 - (d) high value dealers;
-- (e)[^key-8916d5f734992c708a66168b2131c8fb] art market participants.
+- (e)[^c-8916d5f734992c708a66168b2131c8fb] art market participants.
 
 (3) A person does not breach the prohibition in paragraph (1) if that person has before 26th June 2018 applied to the supervisory authority for approval under paragraph (6) and that application has not yet been determined.
 
-(3A)[^key-2729310dfa04252e40a97bf7c8341126] A person does not breach the prohibition in paragraph (1) if—
+(3A)[^c-2729310dfa04252e40a97bf7c8341126] A person does not breach the prohibition in paragraph (1) if—
 
 - (a) that person became a relevant firm or relevant sole practitioner on 10th January 2020 by virtue of an amendment to these Regulations by the Money Laundering and Terrorist Financing (Amendment) Regulations 2019;
 - (b) that person has before 10th January 2021 applied to the supervisory authority for approval under paragraph (6); and
@@ -53,7 +53,7 @@ summary: ''
 (7) The application must—
 
 - (a) be made in such manner as the supervisory authority may direct;
-- (b)[^key-06befd150ea3dfb85d96ce7f055aae74] contain, or be accompanied by—
+- (b)[^c-06befd150ea3dfb85d96ce7f055aae74] contain, or be accompanied by—
   - (i) sufficient information to enable the supervisory authority, if it is a self-regulatory organisation, to determine whether the person concerned has been convicted of a relevant offence; and
   - (ii) such other information as the supervisory authority may reasonably require.
 
@@ -92,10 +92,10 @@ is guilty of a criminal offence.
 
 ## Annotations
 
-[^key-d2b4d906ce1ad025cfeafbdbc2ee41ae]: Textual amendment: Words in reg. 26(2)(c) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [4(13)(a)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/4/13/a)
+[^c-d2b4d906ce1ad025cfeafbdbc2ee41ae]: Textual amendment: Words in reg. 26(2)(c) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [4(13)(a)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/4/13/a)
 
-[^key-8916d5f734992c708a66168b2131c8fb]: Textual amendment: Reg. 26(2)(e) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [4(13)(b)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/4/13/b)
+[^c-8916d5f734992c708a66168b2131c8fb]: Textual amendment: Reg. 26(2)(e) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [4(13)(b)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/4/13/b)
 
-[^key-2729310dfa04252e40a97bf7c8341126]: Textual amendment: Reg. 26(3A) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [4(13)(c)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/4/13/c)
+[^c-2729310dfa04252e40a97bf7c8341126]: Textual amendment: Reg. 26(3A) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [4(13)(c)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/4/13/c)
 
-[^key-06befd150ea3dfb85d96ce7f055aae74]: Textual amendment: Reg. 26(7)(b) substituted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [4(13)(d)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/4/13/d)
+[^c-06befd150ea3dfb85d96ce7f055aae74]: Textual amendment: Reg. 26(7)(b) substituted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [4(13)(d)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/4/13/d)

@@ -35,9 +35,9 @@ summary: ''
 (4) An accounting year is—
 
 - (a) in the case of the CAA, the period of 12 months ending with 31 March in any year;
-- (b) in the case of a company, its financial year within the meaning of the Companies Act 2006[^key-2520e2b082ae221996c6af2d8ce6b1c0].
+- (b) in the case of a company, its financial year within the meaning of the Companies Act 2006[^c-2520e2b082ae221996c6af2d8ce6b1c0].
 
-(5) Statutory accounts are accounts prepared by a company for the purpose of any provision of the Companies Act 2006[^key-b8d3845f979d1cb3c2fe9b037b2da4db] (including group accounts).
+(5) Statutory accounts are accounts prepared by a company for the purpose of any provision of the Companies Act 2006[^c-b8d3845f979d1cb3c2fe9b037b2da4db] (including group accounts).
 
 ## Annotations
 
@@ -47,6 +47,6 @@ summary: ''
 
 [^c14879271]: Marginal citation: [1982 c. 16](https://www.legislation.gov.uk/ukpga/1982/16).
 
-[^key-2520e2b082ae221996c6af2d8ce6b1c0]: Textual amendment: Words in s. 48(4)(b) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 218(2)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/218/2) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-2520e2b082ae221996c6af2d8ce6b1c0]: Textual amendment: Words in s. 48(4)(b) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 218(2)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/218/2) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-b8d3845f979d1cb3c2fe9b037b2da4db]: Textual amendment: Words in s. 48(5) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 218(2)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/218/2) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-b8d3845f979d1cb3c2fe9b037b2da4db]: Textual amendment: Words in s. 48(5) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 218(2)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/218/2) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))

@@ -45,13 +45,13 @@ Coming into Operation
 
 The Secretary of State, in exercise of the powers conferred on him by sections 77(1), 78(1), 79(1), 103(1), 107(1), 108(1), 109(1), 110(1) and 189(1) of the Consumer Credit Act 1974 and of all other powers enabling him in that behalf, hereby makes the following Regulations:—
 
-## 1. Citation, commencement and interpretation[^key-b64df208930bc065b8922adb5f903b27]
+## 1. Citation, commencement and interpretation[^c-b64df208930bc065b8922adb5f903b27]
 
 (1) These Regulations may be cited as the Consumer Credit (Prescribed Periods for Giving Information) Regulations 1983 and shall come into operation on 19th May 1985.
 
 (2) In these Regulations, “**the Act**” means the Consumer Credit Act 1974.
 
-## 2. Prescribed period[^key-25c978d4e130695766ae80eb0a9a7735]
+## 2. Prescribed period[^c-25c978d4e130695766ae80eb0a9a7735]
 
 The period of 12 working days is hereby prescribed for the purposes of each provision of the Act specified in Column 1 of the Schedule to these Regulations relating to the duty indicated in Column 2 in relation to regulated agreements.
 
@@ -63,7 +63,7 @@ Department of Trade and Industry
 
 24th October 1983
 
-## SCHEDULE — SECTIONS OF THE ACT IN RESPECT OF WHICH A PERIOD OF 12 WORKING DAYS IS PRESCRIBED RELATING TO DUTIES IN RELATION TO REGULATED AGREEMENTS[^key-92cf8bcfd2364026143d0ef8ad9e532c]
+## SCHEDULE — SECTIONS OF THE ACT IN RESPECT OF WHICH A PERIOD OF 12 WORKING DAYS IS PRESCRIBED RELATING TO DUTIES IN RELATION TO REGULATED AGREEMENTS[^c-92cf8bcfd2364026143d0ef8ad9e532c]
 
 Regulation 2
 
@@ -92,8 +92,8 @@ By virtue of paragraphs 17(2), 35 and 37(2) of Schedule 3 to the Act, sections 7
 
 ## Annotations
 
-[^key-b64df208930bc065b8922adb5f903b27]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1983/1569/regulation/1) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1569/regulation/1/1)
+[^c-b64df208930bc065b8922adb5f903b27]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1983/1569/regulation/1) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1569/regulation/1/1)
 
-[^key-25c978d4e130695766ae80eb0a9a7735]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1983/1569/regulation/2) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1569/regulation/1/1)
+[^c-25c978d4e130695766ae80eb0a9a7735]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1983/1569/regulation/2) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1569/regulation/1/1)
 
-[^key-92cf8bcfd2364026143d0ef8ad9e532c]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/1983/1569/schedule) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1569/regulation/1/1)
+[^c-92cf8bcfd2364026143d0ef8ad9e532c]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/1983/1569/schedule) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1569/regulation/1/1)

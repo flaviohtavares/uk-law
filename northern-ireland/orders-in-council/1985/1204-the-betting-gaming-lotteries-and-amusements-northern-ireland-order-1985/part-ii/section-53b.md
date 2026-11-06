@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: N.I.*
 
-The Sunday Observance Act (Ireland) 1695 does not apply to any person by reason of his having effected a betting transaction on a non-sporting event at a track which is open on a Sunday and on which betting is taking place or having effected a betting transaction on a non-sporting event at a licensed office which is open on a Sunday.[^key-947efb337da5efa0a2d4f1e909860783]
+The Sunday Observance Act (Ireland) 1695 does not apply to any person by reason of his having effected a betting transaction on a non-sporting event at a track which is open on a Sunday and on which betting is taking place or having effected a betting transaction on a non-sporting event at a licensed office which is open on a Sunday.[^c-947efb337da5efa0a2d4f1e909860783]
 
 ## Annotations
 
-[^key-947efb337da5efa0a2d4f1e909860783]: Textual amendment: Words in [art. 53B](https://www.legislation.gov.uk/nisi/1985/1204/article/53B) inserted (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 3(5)](https://www.legislation.gov.uk/nia/2022/14/section/3/5), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-947efb337da5efa0a2d4f1e909860783]: Textual amendment: Words in [art. 53B](https://www.legislation.gov.uk/nisi/1985/1204/article/53B) inserted (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 3(5)](https://www.legislation.gov.uk/nia/2022/14/section/3/5), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)

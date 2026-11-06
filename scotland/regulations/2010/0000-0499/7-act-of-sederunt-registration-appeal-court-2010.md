@@ -31,7 +31,7 @@ summary: ''
 
 Court Of Session
 
-Act of Sederunt (Registration Appeal Court) 2010 (revoked)[^key-024876291836821cd492879794db835a]
+Act of Sederunt (Registration Appeal Court) 2010 (revoked)[^c-024876291836821cd492879794db835a]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 11th February 2010
 
-[^key-024876291836821cd492879794db835a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-024876291836821cd492879794db835a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-024876291836821cd492879794db835a]
+## 1. Citation and commencement[^c-024876291836821cd492879794db835a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Registration Appeal Court[^key-024876291836821cd492879794db835a]
+## 2. Registration Appeal Court[^c-024876291836821cd492879794db835a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-024876291836821cd492879794db835a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-024876291836821cd492879794db835a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-024876291836821cd492879794db835a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-024876291836821cd492879794db835a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-024876291836821cd492879794db835a]: Textual amendment: [Instrument](https://www.legislation.gov.uk/ssi/2010/7) revoked (1.10.2012) by [Act of Sederunt (Registration Appeal Court) 2012 (S.S.I. 2012/245)](https://www.legislation.gov.uk/ssi/2012/245), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/245/paragraph/1), [2(2)](https://www.legislation.gov.uk/ssi/2012/245/paragraph/2)
+[^c-024876291836821cd492879794db835a]: Textual amendment: [Instrument](https://www.legislation.gov.uk/ssi/2010/7) revoked (1.10.2012) by [Act of Sederunt (Registration Appeal Court) 2012 (S.S.I. 2012/245)](https://www.legislation.gov.uk/ssi/2012/245), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/245/paragraph/1), [2(2)](https://www.legislation.gov.uk/ssi/2012/245/paragraph/2)

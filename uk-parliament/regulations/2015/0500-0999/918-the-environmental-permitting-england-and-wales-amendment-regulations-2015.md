@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection, England And Wales
 
-The Environmental Permitting (England and Wales) (Amendment) Regulations 2015 (revoked)[^key-729e6e52e6c2a3f2af6533908ab14a68]
+The Environmental Permitting (England and Wales) (Amendment) Regulations 2015 (revoked)[^c-729e6e52e6c2a3f2af6533908ab14a68]
 
 Made
 
@@ -40,56 +40,56 @@ Made
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-729e6e52e6c2a3f2af6533908ab14a68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-729e6e52e6c2a3f2af6533908ab14a68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General[^key-729e6e52e6c2a3f2af6533908ab14a68]
+## PART 1 — General[^c-729e6e52e6c2a3f2af6533908ab14a68]
 
-### 1. Citation, commencement and interpretation[^key-729e6e52e6c2a3f2af6533908ab14a68]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — Amendment of the principal Regulations[^key-729e6e52e6c2a3f2af6533908ab14a68]
-
-### 2. Amendment of regulation 3 (interpretation: directives)[^key-729e6e52e6c2a3f2af6533908ab14a68]
+### 1. Citation, commencement and interpretation[^c-729e6e52e6c2a3f2af6533908ab14a68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment of regulation 35 (specific provisions applying to environmental permits)[^key-729e6e52e6c2a3f2af6533908ab14a68]
+## PART 2 — Amendment of the principal Regulations[^c-729e6e52e6c2a3f2af6533908ab14a68]
+
+### 2. Amendment of regulation 3 (interpretation: directives)[^c-729e6e52e6c2a3f2af6533908ab14a68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Amendment of Part 2 of Schedule 1 (activities)[^key-729e6e52e6c2a3f2af6533908ab14a68]
+### 3. Amendment of regulation 35 (specific provisions applying to environmental permits)[^c-729e6e52e6c2a3f2af6533908ab14a68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amendment of Schedule 8 (Part B installations and Part B mobile plant)[^key-729e6e52e6c2a3f2af6533908ab14a68]
+### 4. Amendment of Part 2 of Schedule 1 (activities)[^c-729e6e52e6c2a3f2af6533908ab14a68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Insertion of Schedule 8A (efficiency in heating and cooling: energy efficiency directive)[^key-729e6e52e6c2a3f2af6533908ab14a68]
+### 5. Amendment of Schedule 8 (Part B installations and Part B mobile plant)[^c-729e6e52e6c2a3f2af6533908ab14a68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Transitional provisions[^key-729e6e52e6c2a3f2af6533908ab14a68]
-
-### 7. Interpretation of Part 3[^key-729e6e52e6c2a3f2af6533908ab14a68]
+### 6. Insertion of Schedule 8A (efficiency in heating and cooling: energy efficiency directive)[^c-729e6e52e6c2a3f2af6533908ab14a68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Aggregation of rated thermal input – existing installations[^key-729e6e52e6c2a3f2af6533908ab14a68]
+## PART 3 — Transitional provisions[^c-729e6e52e6c2a3f2af6533908ab14a68]
+
+### 7. Interpretation of Part 3[^c-729e6e52e6c2a3f2af6533908ab14a68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Existing applications for the grant or variation of an environmental permit[^key-729e6e52e6c2a3f2af6533908ab14a68]
+### 8. Aggregation of rated thermal input – existing installations[^c-729e6e52e6c2a3f2af6533908ab14a68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-729e6e52e6c2a3f2af6533908ab14a68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 9. Existing applications for the grant or variation of an environmental permit[^c-729e6e52e6c2a3f2af6533908ab14a68]
 
-[^key-729e6e52e6c2a3f2af6533908ab14a68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-729e6e52e6c2a3f2af6533908ab14a68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-729e6e52e6c2a3f2af6533908ab14a68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-729e6e52e6c2a3f2af6533908ab14a68]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/918) revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/1)
+[^c-729e6e52e6c2a3f2af6533908ab14a68]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/918) revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/1)

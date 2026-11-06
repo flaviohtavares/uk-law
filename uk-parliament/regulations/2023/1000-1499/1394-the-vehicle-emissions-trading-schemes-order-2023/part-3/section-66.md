@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Allocation of VCTS allowances[^key-a76ec8a088a1b63dcaa1e69b17df0215]
+## 66. Allocation of VCTS allowances[^c-a76ec8a088a1b63dcaa1e69b17df0215]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a76ec8a088a1b63dcaa1e69b17df0215]: Commencement: Art. 66 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-a76ec8a088a1b63dcaa1e69b17df0215]: Commencement: Art. 66 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

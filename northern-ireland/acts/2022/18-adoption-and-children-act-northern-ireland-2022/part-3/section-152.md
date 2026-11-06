@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 152. Time limit within which proceedings may be brought[^key-b7c94b21fa567675427193540e21b475]
+## 152. Time limit within which proceedings may be brought[^c-b7c94b21fa567675427193540e21b475]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7c94b21fa567675427193540e21b475]: Commencement: S. 152 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-b7c94b21fa567675427193540e21b475]: Commencement: S. 152 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

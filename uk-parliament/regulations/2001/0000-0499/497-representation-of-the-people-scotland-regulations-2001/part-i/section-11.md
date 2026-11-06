@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Interference with notices etc.[^key-9973426c652786bb1e6a8e425644096e][^key-c4717250e43218bb7ae440fb56911181]
+## 11. Interference with notices etc.[^c-9973426c652786bb1e6a8e425644096e][^c-c4717250e43218bb7ae440fb56911181]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ If any person without lawful authority destroys, mutilates, defaces or removes a
 
 ## Annotations
 
-[^key-9973426c652786bb1e6a8e425644096e]: Commencement: Reg. 11 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
+[^c-9973426c652786bb1e6a8e425644096e]: Commencement: Reg. 11 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
 
-[^key-c4717250e43218bb7ae440fb56911181]: Modification: [Reg. 11](https://www.legislation.gov.uk/uksi/2001/497/regulation/11) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 2(d)](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/2/d)
+[^c-c4717250e43218bb7ae440fb56911181]: Modification: [Reg. 11](https://www.legislation.gov.uk/uksi/2001/497/regulation/11) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 2(d)](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/2/d)

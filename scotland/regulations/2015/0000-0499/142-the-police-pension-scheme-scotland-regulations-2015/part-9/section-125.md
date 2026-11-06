@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 125. Meaning of “surviving adult partner”[^key-c430da1efb9ec251938c3b97c048f36a]
+## 125. Meaning of “surviving adult partner”[^c-c430da1efb9ec251938c3b97c048f36a]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c430da1efb9ec251938c3b97c048f36a]: Textual amendment: [Reg. 125](https://www.legislation.gov.uk/ssi/2015/142/regulation/125) substituted (21.12.2017) by [The Police Pension Scheme (Scotland) Amendment Regulations 2017 (S.S.I. 2017/387)](https://www.legislation.gov.uk/ssi/2017/387), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/387/regulation/1/2), [15](https://www.legislation.gov.uk/ssi/2017/387/regulation/15)
+[^c-c430da1efb9ec251938c3b97c048f36a]: Textual amendment: [Reg. 125](https://www.legislation.gov.uk/ssi/2015/142/regulation/125) substituted (21.12.2017) by [The Police Pension Scheme (Scotland) Amendment Regulations 2017 (S.S.I. 2017/387)](https://www.legislation.gov.uk/ssi/2017/387), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/387/regulation/1/2), [15](https://www.legislation.gov.uk/ssi/2017/387/regulation/15)

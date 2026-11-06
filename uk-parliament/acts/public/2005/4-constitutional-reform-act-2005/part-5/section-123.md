@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Disclosure of information to the Northern Ireland Judicial Appointments Commission[^c18896041][^key-e94e3ae99535e7973fc69b1fc21f6148]
+## 123. Disclosure of information to the Northern Ireland Judicial Appointments Commission[^c18896041][^c-e94e3ae99535e7973fc69b1fc21f6148]
 
 *Extent: N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 [^c18896041]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2005/4/section/123) partly in force; [s. 123](https://www.legislation.gov.uk/ukpga/2005/4/section/123) not in force at Royal Assent see [s. 148](https://www.legislation.gov.uk/ukpga/2005/4/section/148); [s. 123](https://www.legislation.gov.uk/ukpga/2005/4/section/123) in force for specified purposes at 15.6.2005 by [S.I. 2005/1431](https://www.legislation.gov.uk/uksi/2005/1431), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/1431/article/2/a)
 
-[^key-e94e3ae99535e7973fc69b1fc21f6148]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2005/4/section/123) in force at 12.4.2010 in so far as not already in force by [S.I. 2010/883](https://www.legislation.gov.uk/uksi/2010/883), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/883/article/2/b)
+[^c-e94e3ae99535e7973fc69b1fc21f6148]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2005/4/section/123) in force at 12.4.2010 in so far as not already in force by [S.I. 2010/883](https://www.legislation.gov.uk/uksi/2010/883), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/883/article/2/b)

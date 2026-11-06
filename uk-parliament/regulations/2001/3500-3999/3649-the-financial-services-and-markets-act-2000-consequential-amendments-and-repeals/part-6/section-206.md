@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 206. Transfer of engagements: margin of solvency[^key-fe874546091145ee80fe8ebc7b0e15ae]
+## 206. Transfer of engagements: margin of solvency[^c-fe874546091145ee80fe8ebc7b0e15ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe874546091145ee80fe8ebc7b0e15ae]: Commencement: Art. 206 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-fe874546091145ee80fe8ebc7b0e15ae]: Commencement: Art. 206 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

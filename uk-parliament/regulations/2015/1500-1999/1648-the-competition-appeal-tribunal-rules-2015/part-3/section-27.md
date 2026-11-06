@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-If the applicant in proceedings for a review under section 120 or section 179 of the 2002 Act or section 103 of the 2024 Act[^key-12aeecc2c670fe64ce4e8acee678189f] wishes to rely upon expert evidence that was not before the decision maker whose decision is the subject of the application, it shall serve with its application for review an application to adduce that evidence, attaching either the statement of expert evidence on which it wishes to rely or a detailed explanation of the nature of the expert evidence that it wishes to adduce.
+If the applicant in proceedings for a review under section 120 or section 179 of the 2002 Act or section 103 of the 2024 Act[^c-12aeecc2c670fe64ce4e8acee678189f] wishes to rely upon expert evidence that was not before the decision maker whose decision is the subject of the application, it shall serve with its application for review an application to adduce that evidence, attaching either the statement of expert evidence on which it wishes to rely or a detailed explanation of the nature of the expert evidence that it wishes to adduce.
 
 ## Annotations
 
-[^key-12aeecc2c670fe64ce4e8acee678189f]: Textual amendment: Words in [rule 27](https://www.legislation.gov.uk/uksi/2015/1648/rule/27) inserted (1.1.2025) by [The Competition Appeal Tribunal (Amendment) Rules 2024 (S.I. 2024/1233)](https://www.legislation.gov.uk/uksi/2024/1233), [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1233/rule/1/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2024/1233/schedule/paragraph/6)
+[^c-12aeecc2c670fe64ce4e8acee678189f]: Textual amendment: Words in [rule 27](https://www.legislation.gov.uk/uksi/2015/1648/rule/27) inserted (1.1.2025) by [The Competition Appeal Tribunal (Amendment) Rules 2024 (S.I. 2024/1233)](https://www.legislation.gov.uk/uksi/2024/1233), [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1233/rule/1/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2024/1233/schedule/paragraph/6)

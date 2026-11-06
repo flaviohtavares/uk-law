@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Amendment of the Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008[^key-97b43ab3fd638cfb4296f3402c156d01]
+## 46. Amendment of the Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008[^c-97b43ab3fd638cfb4296f3402c156d01]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulati
 
 ## Annotations
 
-[^key-97b43ab3fd638cfb4296f3402c156d01]: Commencement: Reg. 46 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-97b43ab3fd638cfb4296f3402c156d01]: Commencement: Reg. 46 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23586871]: Marginal citation: [S.I. 2008/565](https://www.legislation.gov.uk/uksi/2008/565).

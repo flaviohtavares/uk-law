@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Revocation, suspension and curtailment of operators' licences[^key-0987d293186b6750213fceb8d995b975][^key-7935011e302df1698640b40029af13c4]
+## 23. Revocation, suspension and curtailment of operators' licences[^c-0987d293186b6750213fceb8d995b975][^c-7935011e302df1698640b40029af13c4]
 
 *Extent: N.I.*
 
 (1) Subject to the following provisions of this section and the provisions of section 26, the Department may direct that an operator's licence be revoked, suspended or curtailed (within the meaning given in subsection (9)) for any reasonable cause including any of the following—
 
-- (a) in the case of a heavy goods vehicle licence,[^key-965de36b14c847503a95b2d2c3e3f45e] that a place has, at a time when it was not specified in the licence as an operating centre of the licence-holder, been used as an operating centre for heavy goods[^key-e9f1c666a0aa0e5c4b4a271205339c65] vehicles authorised to be used under the licence;
+- (a) in the case of a heavy goods vehicle licence,[^c-965de36b14c847503a95b2d2c3e3f45e] that a place has, at a time when it was not specified in the licence as an operating centre of the licence-holder, been used as an operating centre for heavy goods[^c-e9f1c666a0aa0e5c4b4a271205339c65] vehicles authorised to be used under the licence;
 - (b) that the licence-holder has contravened any condition attached to the licence;
 - (c) that during the 5 years ending with the date on which the direction is given there has occurred a prescribed event affecting information required to be given to the Department under section 7 or 8;
 - (d) that the licence-holder made, or procured to be made, for the purposes of—
@@ -32,7 +32,7 @@ summary: ''
 
   a statement of fact that, whether to the licence-holder's knowledge or not, was false, or a statement of expectation that has not been fulfilled;
 - (e) that any undertaking recorded in the licence has not been fulfilled;
-- (f) that the licence-holder, being an individual, has been adjudged bankrupt or has become the subject of a bankruptcy restrictions order[^key-96baee3a1b5f4231d88d268a0f3f7499] or a debt relief order has been made in respect of him or he has become the subject of a debt relief restrictions order[^key-71752ad0d4d052afed07a1b64a35aefc] or, being a company, has gone into liquidation, other than voluntary liquidation for the purposes of reconstruction;
+- (f) that the licence-holder, being an individual, has been adjudged bankrupt or has become the subject of a bankruptcy restrictions order[^c-96baee3a1b5f4231d88d268a0f3f7499] or a debt relief order has been made in respect of him or he has become the subject of a debt relief restrictions order[^c-71752ad0d4d052afed07a1b64a35aefc] or, being a company, has gone into liquidation, other than voluntary liquidation for the purposes of reconstruction;
 - (g) that since the licence was issued or varied there has been a material change in any of the circumstances of the licence-holder that were relevant to the issue or variation or the licence;
 - (h) that the licence is liable to revocation, suspension or curtailment by virtue of a direction under section 25(3).
 
@@ -65,20 +65,20 @@ summary: ''
 - (a) that one or more of the vehicles specified in the licence be removed from it;
 - (b) that a provision such as is mentioned in section 4(2) or 5(1)(b) or (2)(b) be included in the licence;
 - (c) that any maximum number specified in the licence under section 5 be reduced;
-- (d) “in the case of a heavy goods vehicle licence,[^key-ceac70052132b9cb1c39036b9f1e0b7b] that any one or more of the places specified in the licence as operating centres be removed from it.
+- (d) “in the case of a heavy goods vehicle licence,[^c-ceac70052132b9cb1c39036b9f1e0b7b] that any one or more of the places specified in the licence as operating centres be removed from it.
 
 ## Annotations
 
-[^key-0987d293186b6750213fceb8d995b975]: Commencement: S. 23 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-0987d293186b6750213fceb8d995b975]: Commencement: S. 23 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
 
-[^key-7935011e302df1698640b40029af13c4]: Modification: S. 23 applied (1.7.2012) by [The Goods Vehicles (Licensing of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/261)](https://www.legislation.gov.uk/nisr/2012/261), [regs. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1), [27(6)](https://www.legislation.gov.uk/nisr/2012/261/regulation/27/6)
+[^c-7935011e302df1698640b40029af13c4]: Modification: S. 23 applied (1.7.2012) by [The Goods Vehicles (Licensing of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/261)](https://www.legislation.gov.uk/nisr/2012/261), [regs. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1), [27(6)](https://www.legislation.gov.uk/nisr/2012/261/regulation/27/6)
 
-[^key-965de36b14c847503a95b2d2c3e3f45e]: Textual amendment: Words in [s. 23(1)(a)](https://www.legislation.gov.uk/nia/2010/2/section/23/1/a) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [91(1)(a)](https://www.legislation.gov.uk/uksi/2022/293/regulation/91/1/a)
+[^c-965de36b14c847503a95b2d2c3e3f45e]: Textual amendment: Words in [s. 23(1)(a)](https://www.legislation.gov.uk/nia/2010/2/section/23/1/a) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [91(1)(a)](https://www.legislation.gov.uk/uksi/2022/293/regulation/91/1/a)
 
-[^key-e9f1c666a0aa0e5c4b4a271205339c65]: Textual amendment: Words in [s. 23(1)(a)](https://www.legislation.gov.uk/nia/2010/2/section/23/1/a) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [91(1)(b)](https://www.legislation.gov.uk/uksi/2022/293/regulation/91/1/b)
+[^c-e9f1c666a0aa0e5c4b4a271205339c65]: Textual amendment: Words in [s. 23(1)(a)](https://www.legislation.gov.uk/nia/2010/2/section/23/1/a) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [91(1)(b)](https://www.legislation.gov.uk/uksi/2022/293/regulation/91/1/b)
 
-[^key-96baee3a1b5f4231d88d268a0f3f7499]: Textual amendment: Words in s. 23(1)(f) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 17](https://www.legislation.gov.uk/nisr/2015/159/schedule/Pt/paragraph/17)
+[^c-96baee3a1b5f4231d88d268a0f3f7499]: Textual amendment: Words in s. 23(1)(f) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 17](https://www.legislation.gov.uk/nisr/2015/159/schedule/Pt/paragraph/17)
 
-[^key-71752ad0d4d052afed07a1b64a35aefc]: Textual amendment: Words in [s. 23(1)(f)](https://www.legislation.gov.uk/nia/2010/2/section/23/1/f) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 23](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/23)
+[^c-71752ad0d4d052afed07a1b64a35aefc]: Textual amendment: Words in [s. 23(1)(f)](https://www.legislation.gov.uk/nia/2010/2/section/23/1/f) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 23](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/23)
 
-[^key-ceac70052132b9cb1c39036b9f1e0b7b]: Textual amendment: Words in [s. 23(9)(d)](https://www.legislation.gov.uk/nia/2010/2/section/23/9/d) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [91(2)](https://www.legislation.gov.uk/uksi/2022/293/regulation/91/2)
+[^c-ceac70052132b9cb1c39036b9f1e0b7b]: Textual amendment: Words in [s. 23(9)(d)](https://www.legislation.gov.uk/nia/2010/2/section/23/9/d) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [91(2)](https://www.legislation.gov.uk/uksi/2022/293/regulation/91/2)

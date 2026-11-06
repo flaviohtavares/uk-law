@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15A. Restrictions on provisional licences: two-wheeled vehicles[^key-a0d3f5ae665e44f5e13193aeb706d354]
+## 15A. Restrictions on provisional licences: two-wheeled vehicles[^c-a0d3f5ae665e44f5e13193aeb706d354]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0d3f5ae665e44f5e13193aeb706d354]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/uksi/1999/2864/regulation/15A) inserted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/9)
+[^c-a0d3f5ae665e44f5e13193aeb706d354]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/uksi/1999/2864/regulation/15A) inserted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/9)

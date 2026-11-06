@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103A. Attribution of input tax to investment gold[^key-c8d670a258e6e0ca26414ab7a2beee57][^key-bdba3eac5fe1decea83c574f82398fa1]
+## 103A. Attribution of input tax to investment gold[^c-c8d670a258e6e0ca26414ab7a2beee57][^c-bdba3eac5fe1decea83c574f82398fa1]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c8d670a258e6e0ca26414ab7a2beee57]: Textual amendment: [Reg. 103A](https://www.legislation.gov.uk/uksi/1995/2518/regulation/103A) inserted (1.1.2000) by [The Value Added Tax (Amendment) (No. 4) Regulations 1999 (S.I. 1999/3114)](https://www.legislation.gov.uk/uksi/1999/3114), [regs. 1](https://www.legislation.gov.uk/uksi/1999/3114/regulation/1), [8](https://www.legislation.gov.uk/uksi/1999/3114/regulation/8)
+[^c-c8d670a258e6e0ca26414ab7a2beee57]: Textual amendment: [Reg. 103A](https://www.legislation.gov.uk/uksi/1995/2518/regulation/103A) inserted (1.1.2000) by [The Value Added Tax (Amendment) (No. 4) Regulations 1999 (S.I. 1999/3114)](https://www.legislation.gov.uk/uksi/1999/3114), [regs. 1](https://www.legislation.gov.uk/uksi/1999/3114/regulation/1), [8](https://www.legislation.gov.uk/uksi/1999/3114/regulation/8)
 
-[^key-bdba3eac5fe1decea83c574f82398fa1]: Textual amendment: [Reg. 103A](https://www.legislation.gov.uk/uksi/1995/2518/regulation/103A) heading inserted (1.4.2007) by [The Value Added Tax (Amendment) (No.2) Regulations 2007 (S.I. 2007/768)](https://www.legislation.gov.uk/uksi/2007/768), [regs. 1](https://www.legislation.gov.uk/uksi/2007/768/regulation/1), [11](https://www.legislation.gov.uk/uksi/2007/768/regulation/11)
+[^c-bdba3eac5fe1decea83c574f82398fa1]: Textual amendment: [Reg. 103A](https://www.legislation.gov.uk/uksi/1995/2518/regulation/103A) heading inserted (1.4.2007) by [The Value Added Tax (Amendment) (No.2) Regulations 2007 (S.I. 2007/768)](https://www.legislation.gov.uk/uksi/2007/768), [regs. 1](https://www.legislation.gov.uk/uksi/2007/768/regulation/1), [11](https://www.legislation.gov.uk/uksi/2007/768/regulation/11)

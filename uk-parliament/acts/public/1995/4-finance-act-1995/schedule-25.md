@@ -31,15 +31,15 @@ Section 133.
 
 ### The principal amendment
 
-**2.**[^key-e6d3913196b722d8ad6c620563fbc44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e6d3913196b722d8ad6c620563fbc44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Connected amendments
 
-**3.**[^key-e6d3913196b722d8ad6c620563fbc44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e6d3913196b722d8ad6c620563fbc44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e6d3913196b722d8ad6c620563fbc44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e6d3913196b722d8ad6c620563fbc44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-e6d3913196b722d8ad6c620563fbc44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e6d3913196b722d8ad6c620563fbc44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** (1) Schedule 24 to the Taxes Act 1988 (assumptions for calculating chargeable profits etc.) shall be amended as mentioned in sub-paragraphs (2) to (5) below; and—
 
@@ -50,7 +50,7 @@ Section 133.
 
 (3) Paragraph 4A (computation of basic profits or losses of a trade) shall be deemed never to have been inserted.
 
-(4)[^key-7a945eaafdb88cc841c986c4577b6245] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7a945eaafdb88cc841c986c4577b6245] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) [^c17227811]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -58,11 +58,11 @@ Section 133.
 
 ## Annotations
 
-[^key-e6d3913196b722d8ad6c620563fbc44d]: Textual amendment: Sch. 25 paras. 2-5 repealed (7.4.2005) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 11 Pt. 2(6)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/11/part/2/6)
+[^c-e6d3913196b722d8ad6c620563fbc44d]: Textual amendment: Sch. 25 paras. 2-5 repealed (7.4.2005) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 11 Pt. 2(6)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/11/part/2/6)
 
 [^c15675551]: Marginal citation: [1984 c. 43](https://www.legislation.gov.uk/ukpga/1984/43).
 
-[^key-7a945eaafdb88cc841c986c4577b6245]: Textual amendment: Sch. 25 para. 6(4) repealed (7.4.2005) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 11 Pt. 2(6)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/11/part/2/6)
+[^c-7a945eaafdb88cc841c986c4577b6245]: Textual amendment: Sch. 25 para. 6(4) repealed (7.4.2005) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 11 Pt. 2(6)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/11/part/2/6)
 
 [^c17227811]: Textual amendment: Sch. 25 para. 6(5) repealed (with effect as mentioned in Sch. 40 Pt. 3(10) Note 2) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [s. 141](https://www.legislation.gov.uk/ukpga/2002/23/section/141), [Sch. 40 Pt 3(10)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/40/part/3/10) Note 2
 

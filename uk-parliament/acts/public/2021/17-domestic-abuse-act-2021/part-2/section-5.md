@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Funding[^key-ef8fc12cdee2aeb068c156fb656cfe1d]
+## 5. Funding[^c-ef8fc12cdee2aeb068c156fb656cfe1d]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef8fc12cdee2aeb068c156fb656cfe1d]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2021/17/section/5) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/b)
+[^c-ef8fc12cdee2aeb068c156fb656cfe1d]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2021/17/section/5) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/b)

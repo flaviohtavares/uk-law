@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26AB. Adjustment of output tax in respect of supplies under section 55A[^key-76083946eaa6e794eea1c281ba363e45]
+## 26AB. Adjustment of output tax in respect of supplies under section 55A[^c-76083946eaa6e794eea1c281ba363e45]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76083946eaa6e794eea1c281ba363e45]: Textual amendment: S. 26AB inserted (1.6.2007) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 19(2)(8)](https://www.legislation.gov.uk/ukpga/2006/25/section/19/2); [S.I. 2007/1419](https://www.legislation.gov.uk/uksi/2007/1419), [art. 2](https://www.legislation.gov.uk/uksi/2007/1419/article/2)
+[^c-76083946eaa6e794eea1c281ba363e45]: Textual amendment: S. 26AB inserted (1.6.2007) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 19(2)(8)](https://www.legislation.gov.uk/ukpga/2006/25/section/19/2); [S.I. 2007/1419](https://www.legislation.gov.uk/uksi/2007/1419), [art. 2](https://www.legislation.gov.uk/uksi/2007/1419/article/2)

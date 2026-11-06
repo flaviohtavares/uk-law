@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 554Z1. Interpretation: persons linked with A[^key-74da80b2f7ea0e3932fdd24e546bc6fe]
+## 554Z1. Interpretation: persons linked with A[^c-74da80b2f7ea0e3932fdd24e546bc6fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 - (c) a company in which A or a person within any other paragraph of this subsection is or has been a participator and which would be a close company if it were a UK resident company, or
 - (d) a company which is a 51% subsidiary of a company within paragraph (b) or (c).
 
-(2)[^key-0fa96f0b6332c6dc1d3702a417fffe9d] In applying section 993 of ITA 2007 for the purposes of subsection (1), two people living together as if they were a married couple or civil partners are treated as if they were spouses or civil partners of each other.
+(2)[^c-0fa96f0b6332c6dc1d3702a417fffe9d] In applying section 993 of ITA 2007 for the purposes of subsection (1), two people living together as if they were a married couple or civil partners are treated as if they were spouses or civil partners of each other.
 
 (3) In subsection (1) “participator”—
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
+[^c-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
 
-[^key-0fa96f0b6332c6dc1d3702a417fffe9d]: Textual amendment: [S. 554Z1(2)](https://www.legislation.gov.uk/ukpga/2003/1/section/554Z1/2) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 25(4)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/25/4)
+[^c-0fa96f0b6332c6dc1d3702a417fffe9d]: Textual amendment: [S. 554Z1(2)](https://www.legislation.gov.uk/ukpga/2003/1/section/554Z1/2) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 25(4)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/25/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41B. Altering, etc. documents required to be produced under section 41[^key-97341123000b2f85912be5f2c00597d1]
+## 41B. Altering, etc. documents required to be produced under section 41[^c-97341123000b2f85912be5f2c00597d1]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97341123000b2f85912be5f2c00597d1]: Textual amendment: Ss. 41A, 41B inserted (20.6.2003) by [The Enterprise Act 2002 (Consequential and Supplemental Provisions) Order 2003 (S.I. 2003/1398)](https://www.legislation.gov.uk/uksi/2003/1398), [art. 1](https://www.legislation.gov.uk/uksi/2003/1398/article/1), [Sch. para. 12(3)](https://www.legislation.gov.uk/uksi/2003/1398/schedule/paragraph/12/3)
+[^c-97341123000b2f85912be5f2c00597d1]: Textual amendment: Ss. 41A, 41B inserted (20.6.2003) by [The Enterprise Act 2002 (Consequential and Supplemental Provisions) Order 2003 (S.I. 2003/1398)](https://www.legislation.gov.uk/uksi/2003/1398), [art. 1](https://www.legislation.gov.uk/uksi/2003/1398/article/1), [Sch. para. 12(3)](https://www.legislation.gov.uk/uksi/2003/1398/schedule/paragraph/12/3)

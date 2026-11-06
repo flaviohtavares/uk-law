@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3A. Prohibition orders: directors of corporate trustees etc.[^key-3306795376017dd7a4eb0baf3018be6e]
+## 3A. Prohibition orders: directors of corporate trustees etc.[^c-3306795376017dd7a4eb0baf3018be6e]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3306795376017dd7a4eb0baf3018be6e]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/nisi/1995/3213/article/3A) inserted (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 45(2)](https://www.legislation.gov.uk/nia/2015/5/section/45/2), [53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(i)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/i)
+[^c-3306795376017dd7a4eb0baf3018be6e]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/nisi/1995/3213/article/3A) inserted (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 45(2)](https://www.legislation.gov.uk/nia/2015/5/section/45/2), [53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(i)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/i)

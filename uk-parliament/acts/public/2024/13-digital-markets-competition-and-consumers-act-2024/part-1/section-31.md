@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Enforcement orders[^key-03eb49224f462fdefcc4a9448007e86f][^key-31ac037dbf9e152fef1e518c36fc463c]
+## 31. Enforcement orders[^c-03eb49224f462fdefcc4a9448007e86f][^c-31ac037dbf9e152fef1e518c36fc463c]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-03eb49224f462fdefcc4a9448007e86f]: Commencement: S. 31 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-03eb49224f462fdefcc4a9448007e86f]: Commencement: S. 31 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-31ac037dbf9e152fef1e518c36fc463c]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2024/13/section/31) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-31ac037dbf9e152fef1e518c36fc463c]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2024/13/section/31) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

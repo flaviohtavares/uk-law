@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Changes to round times and use of electronic auction system[^key-450818dfcb2e412d095af8af788b2df2]
+## 118. Changes to round times and use of electronic auction system[^c-450818dfcb2e412d095af8af788b2df2]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-450818dfcb2e412d095af8af788b2df2]: Commencement: Reg. 118 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-450818dfcb2e412d095af8af788b2df2]: Commencement: Reg. 118 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

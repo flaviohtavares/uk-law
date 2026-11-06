@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**31.**[^key-ccb16d83a4190fa9b2944b4fabd6b040] Omit regulation 5 (accounts for delivery to registrar of companies (non-IAS individual accounts)).
+**31.**[^c-ccb16d83a4190fa9b2944b4fabd6b040] Omit regulation 5 (accounts for delivery to registrar of companies (non-IAS individual accounts)).
 
 ## Annotations
 
-[^key-ccb16d83a4190fa9b2944b4fabd6b040]: Commencement: Reg. 31 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-ccb16d83a4190fa9b2944b4fabd6b040]: Commencement: Reg. 31 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

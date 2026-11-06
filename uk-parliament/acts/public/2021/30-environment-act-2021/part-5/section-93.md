@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Water quality: interpretation[^key-aba8828ed17651e3d6e2455bc1c317c6]
+## 93. Water quality: interpretation[^c-aba8828ed17651e3d6e2455bc1c317c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In sections 89 to 92—
 
 ## Annotations
 
-[^key-aba8828ed17651e3d6e2455bc1c317c6]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2021/30/section/93) in force at 9.1.2022, see [s. 147(2)(m)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/m)
+[^c-aba8828ed17651e3d6e2455bc1c317c6]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2021/30/section/93) in force at 9.1.2022, see [s. 147(2)(m)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/m)

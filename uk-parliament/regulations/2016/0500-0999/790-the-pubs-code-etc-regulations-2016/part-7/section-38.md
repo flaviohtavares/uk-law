@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. MRO procedure where a referral is made to the Adjudicator in connection with the independent assessor[^key-66f5f7927121ea34251568530832cdc9]
+## 38. MRO procedure where a referral is made to the Adjudicator in connection with the independent assessor[^c-66f5f7927121ea34251568530832cdc9]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ either of them may refer the matter to the Adjudicator within the period of 14 d
 
 ## Annotations
 
-[^key-66f5f7927121ea34251568530832cdc9]: Commencement: Reg. 38 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-66f5f7927121ea34251568530832cdc9]: Commencement: Reg. 38 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

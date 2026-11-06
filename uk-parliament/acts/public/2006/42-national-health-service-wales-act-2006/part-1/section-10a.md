@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10A. Procurement of services etc. as part of the NHS in Wales[^key-7ed693d61d5203b2e0c246207ea45fa6]
+## 10A. Procurement of services etc. as part of the NHS in Wales[^c-7ed693d61d5203b2e0c246207ea45fa6]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ed693d61d5203b2e0c246207ea45fa6]: Textual amendment: S. 10A and cross-heading inserted (6.2.2024) by [Health Service Procurement (Wales) Act 2024 (asc 1)](https://www.legislation.gov.uk/asc/2024/1), [ss. 3(2)](https://www.legislation.gov.uk/asc/2024/1/section/3/2), [4](https://www.legislation.gov.uk/asc/2024/1/section/4)
+[^c-7ed693d61d5203b2e0c246207ea45fa6]: Textual amendment: S. 10A and cross-heading inserted (6.2.2024) by [Health Service Procurement (Wales) Act 2024 (asc 1)](https://www.legislation.gov.uk/asc/2024/1), [ss. 3(2)](https://www.legislation.gov.uk/asc/2024/1/section/3/2), [4](https://www.legislation.gov.uk/asc/2024/1/section/4)

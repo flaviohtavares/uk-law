@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 208. Scottish Solicitors’ Discipline Tribunal: powers to fine in cases relating to economic crime[^key-61dbc029781c990c87ae8831536f15b3][^key-e7b1b94fc18d0d1047bfb150a12b63b2]
+## 208. Scottish Solicitors’ Discipline Tribunal: powers to fine in cases relating to economic crime[^c-61dbc029781c990c87ae8831536f15b3][^c-e7b1b94fc18d0d1047bfb150a12b63b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,6 +78,6 @@ summary: ''
 
 ## Annotations
 
-[^key-61dbc029781c990c87ae8831536f15b3]: Commencement: S. 208 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-61dbc029781c990c87ae8831536f15b3]: Commencement: S. 208 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-e7b1b94fc18d0d1047bfb150a12b63b2]: Commencement: [S. 208](https://www.legislation.gov.uk/ukpga/2023/56/section/208) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z62)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z62)
+[^c-e7b1b94fc18d0d1047bfb150a12b63b2]: Commencement: [S. 208](https://www.legislation.gov.uk/ukpga/2023/56/section/208) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z62)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z62)

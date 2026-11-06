@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.67. Entitlement to vote (creditors)[^key-25910ae6bea7cd1774d2ea1ffafcb148]
+## 4.67. Entitlement to vote (creditors)[^c-25910ae6bea7cd1774d2ea1ffafcb148]
 
 *Extent: E+W*
 
 (1) Subject as follows in this Rule and the next, at a meeting of creditors a person is entitled to vote as a creditor only if—
 
 - (a) there has been duly lodged (in a winding up by the court by the time and date stated in the notice of the meeting) a proof of the debt claimed to be due to him from the company
-- (i)[^key-4f17c2de865e263da1a62a2025542bdd] claimed to be due to him from the company, or
+- (i)[^c-4f17c2de865e263da1a62a2025542bdd] claimed to be due to him from the company, or
 - (ii) in relation to a member State liquidator, is claimed to be due to creditors in proceedings in relation to which he holds office, and the claim has been admitted under Rule 4.70 for the purpose of entitlement to vote, and
 - (b) there has been lodged, by the time and date stated in the notice of the meeting, any proxy requisite for that entitlement.
 
@@ -40,7 +40,7 @@ Where a creditor is so entitled, the court may, on the application of the liquid
 - (a) to treat the liability to him on the bill or note of every person who is liable on it antecedently to the company, and against whom a bankruptcy order has not been made (or, in the case of a company, which has not gone into liquidation), as a security in his hands, and
 - (b) to estimate the value of the security and (for the purpose of entitlement to vote, but not for dividend) to deduct it from his proof.
 
-(6)[^key-2613c9f4ac3083a43d2e44180b76735a] No vote shall be cast by virtue of a debt more than once on any resolution put to the meeting.
+(6)[^c-2613c9f4ac3083a43d2e44180b76735a] No vote shall be cast by virtue of a debt more than once on any resolution put to the meeting.
 
 (7) Where—
 
@@ -59,8 +59,8 @@ the entitlement to vote by virtue of that claim is exercisable by the member Sta
 
 ## Annotations
 
-[^key-25910ae6bea7cd1774d2ea1ffafcb148]: Commencement: [Rule 4.67](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.67) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-25910ae6bea7cd1774d2ea1ffafcb148]: Commencement: [Rule 4.67](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.67) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-4f17c2de865e263da1a62a2025542bdd]: Textual amendment: Words in rule 4.67(1)(a) substituted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/article/1), [6(6)(a)](https://www.legislation.gov.uk/uksi/2002/1307/rule/6/6/a) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/article/3))
+[^c-4f17c2de865e263da1a62a2025542bdd]: Textual amendment: Words in rule 4.67(1)(a) substituted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/article/1), [6(6)(a)](https://www.legislation.gov.uk/uksi/2002/1307/rule/6/6/a) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/article/3))
 
-[^key-2613c9f4ac3083a43d2e44180b76735a]: Textual amendment: Rule 4.67 inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/article/1), [6(6)(b)](https://www.legislation.gov.uk/uksi/2002/1307/rule/6/6/b) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/article/3))
+[^c-2613c9f4ac3083a43d2e44180b76735a]: Textual amendment: Rule 4.67 inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/article/1), [6(6)(b)](https://www.legislation.gov.uk/uksi/2002/1307/rule/6/6/b) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/article/3))

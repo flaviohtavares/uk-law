@@ -35,7 +35,7 @@ An Act to amend the Law of Distress Amendment Act 1888.
 
 ## 1. Power to cancel bailiffs’ certificates.
 
-A certificate granted to a bailiff by a judge of the county court[^key-60b5fe145eef67b9231031e106cf6668] under the [^c576490]Law of Distress Amendment Act 1888, may at any time be cancelled or declared void by a judge of the county court[^key-32a8846890886266f5bdcb38b735ee34] , . . . [^c576491]
+A certificate granted to a bailiff by a judge of the county court[^c-60b5fe145eef67b9231031e106cf6668] under the [^c576490]Law of Distress Amendment Act 1888, may at any time be cancelled or declared void by a judge of the county court[^c-32a8846890886266f5bdcb38b735ee34] , . . . [^c576491]
 
 ## 2. Penalty for acting without certificate.
 
@@ -57,11 +57,11 @@ This Act may be cited as the Law of Distress Amendment Act 1895.
 
 ## Annotations
 
-[^key-60b5fe145eef67b9231031e106cf6668]: Textual amendment: Words in [s. 1](https://www.legislation.gov.uk/ukpga/Vict/58-59/24/section/1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 17(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/17/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-60b5fe145eef67b9231031e106cf6668]: Textual amendment: Words in [s. 1](https://www.legislation.gov.uk/ukpga/Vict/58-59/24/section/1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 17(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/17/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c576490]: Marginal citation: [1888 c. 21](https://www.legislation.gov.uk/ukpga/1888/21).
 
-[^key-32a8846890886266f5bdcb38b735ee34]: Textual amendment: Words in [s. 1](https://www.legislation.gov.uk/ukpga/Vict/58-59/24/section/1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 17(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/17/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-32a8846890886266f5bdcb38b735ee34]: Textual amendment: Words in [s. 1](https://www.legislation.gov.uk/ukpga/Vict/58-59/24/section/1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 17(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/17/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c576491]: Textual amendment: Words repealed by [Statute Law Revision Act 1908 (c. 49)](https://www.legislation.gov.uk/ukpga/1908/49)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Direction to carry out standards investigation[^key-78d2532ce9b26ce6a892c5b30dfeb1c8]
+## 65. Direction to carry out standards investigation[^c-78d2532ce9b26ce6a892c5b30dfeb1c8]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78d2532ce9b26ce6a892c5b30dfeb1c8]: Commencement: [S. 65](https://www.legislation.gov.uk/mwa/2011/1/section/65) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(ii)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/ii)
+[^c-78d2532ce9b26ce6a892c5b30dfeb1c8]: Commencement: [S. 65](https://www.legislation.gov.uk/mwa/2011/1/section/65) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(ii)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/ii)

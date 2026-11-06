@@ -34,7 +34,7 @@ This Statutory Rule has been printed in substitution of the SR of the same numbe
 
 Electricity And Gas
 
-Electricity and Gas (Billing) Regulations (Northern Ireland) 2009 (revoked)[^key-328d7c46ed3f5c5dc0803e503f4fc4d7]
+Electricity and Gas (Billing) Regulations (Northern Ireland) 2009 (revoked)[^c-328d7c46ed3f5c5dc0803e503f4fc4d7]
 
 Made
 
@@ -44,32 +44,32 @@ Coming into operation
 
 22nd June 2009
 
-[^key-328d7c46ed3f5c5dc0803e503f4fc4d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-328d7c46ed3f5c5dc0803e503f4fc4d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-328d7c46ed3f5c5dc0803e503f4fc4d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-328d7c46ed3f5c5dc0803e503f4fc4d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-328d7c46ed3f5c5dc0803e503f4fc4d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-328d7c46ed3f5c5dc0803e503f4fc4d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-328d7c46ed3f5c5dc0803e503f4fc4d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-328d7c46ed3f5c5dc0803e503f4fc4d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-328d7c46ed3f5c5dc0803e503f4fc4d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-328d7c46ed3f5c5dc0803e503f4fc4d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-328d7c46ed3f5c5dc0803e503f4fc4d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-328d7c46ed3f5c5dc0803e503f4fc4d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-328d7c46ed3f5c5dc0803e503f4fc4d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-328d7c46ed3f5c5dc0803e503f4fc4d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-328d7c46ed3f5c5dc0803e503f4fc4d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-328d7c46ed3f5c5dc0803e503f4fc4d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-328d7c46ed3f5c5dc0803e503f4fc4d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-328d7c46ed3f5c5dc0803e503f4fc4d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-328d7c46ed3f5c5dc0803e503f4fc4d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-328d7c46ed3f5c5dc0803e503f4fc4d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-328d7c46ed3f5c5dc0803e503f4fc4d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-328d7c46ed3f5c5dc0803e503f4fc4d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-328d7c46ed3f5c5dc0803e503f4fc4d7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/215) revoked (8.3.2010) by [Electricity and Gas (Billing) (No. 2) Regulations (Northern Ireland) 2010 (S.R. 2010/27)](https://www.legislation.gov.uk/nisr/2010/27), [regs. 1](https://www.legislation.gov.uk/nisr/2010/27/regulation/1), [9](https://www.legislation.gov.uk/nisr/2010/27/regulation/9)
+[^c-328d7c46ed3f5c5dc0803e503f4fc4d7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/215) revoked (8.3.2010) by [Electricity and Gas (Billing) (No. 2) Regulations (Northern Ireland) 2010 (S.R. 2010/27)](https://www.legislation.gov.uk/nisr/2010/27), [regs. 1](https://www.legislation.gov.uk/nisr/2010/27/regulation/1), [9](https://www.legislation.gov.uk/nisr/2010/27/regulation/9)

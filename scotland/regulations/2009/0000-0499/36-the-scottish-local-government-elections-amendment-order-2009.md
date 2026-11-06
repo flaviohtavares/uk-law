@@ -32,7 +32,7 @@ summary: ''
 
 REPRESENTATION OF THE PEOPLE
 
-The Scottish Local Government Elections Amendment Order 2009 (revoked)[^key-6b23cbed8adfc40afabee149f07a9df5]
+The Scottish Local Government Elections Amendment Order 2009 (revoked)[^c-6b23cbed8adfc40afabee149f07a9df5]
 
 Made
 
@@ -46,29 +46,29 @@ Coming into force
 
 31st March 2009
 
-[^key-6b23cbed8adfc40afabee149f07a9df5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b23cbed8adfc40afabee149f07a9df5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6b23cbed8adfc40afabee149f07a9df5]
+## 1. Citation and commencement[^c-6b23cbed8adfc40afabee149f07a9df5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Substitution of forms[^key-6b23cbed8adfc40afabee149f07a9df5]
+## 2. Substitution of forms[^c-6b23cbed8adfc40afabee149f07a9df5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6b23cbed8adfc40afabee149f07a9df5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b23cbed8adfc40afabee149f07a9df5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-6b23cbed8adfc40afabee149f07a9df5]
+## SCHEDULE 1[^c-6b23cbed8adfc40afabee149f07a9df5]
 
 Article 2(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-6b23cbed8adfc40afabee149f07a9df5]
+## SCHEDULE 2[^c-6b23cbed8adfc40afabee149f07a9df5]
 
 Article 2(2)
 
@@ -76,8 +76,8 @@ Article 2(2)
 
 **May not be in force at this date. Check the source.**
 
-[^key-6b23cbed8adfc40afabee149f07a9df5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b23cbed8adfc40afabee149f07a9df5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6b23cbed8adfc40afabee149f07a9df5]: Textual amendment: Order revoked (10.11.2011) by [The Scottish Local Government Elections Order 2011 (S.S.I. 2011/399)](https://www.legislation.gov.uk/ssi/2011/399), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1), [6(1)](https://www.legislation.gov.uk/ssi/2011/399/article/6/1) (with [art. 6(2)](https://www.legislation.gov.uk/ssi/2011/399/article/6/2))
+[^c-6b23cbed8adfc40afabee149f07a9df5]: Textual amendment: Order revoked (10.11.2011) by [The Scottish Local Government Elections Order 2011 (S.S.I. 2011/399)](https://www.legislation.gov.uk/ssi/2011/399), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1), [6(1)](https://www.legislation.gov.uk/ssi/2011/399/article/6/1) (with [art. 6(2)](https://www.legislation.gov.uk/ssi/2011/399/article/6/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Offences by bodies corporate, partnerships and unincorporated associations[^key-01fa7886a3af56faf3d9843960bda224]
+## 44. Offences by bodies corporate, partnerships and unincorporated associations[^c-01fa7886a3af56faf3d9843960bda224]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ that person, as well as the body corporate, is guilty of the offence.
 
 ## Annotations
 
-[^key-01fa7886a3af56faf3d9843960bda224]: Modification: [Reg. 44](https://www.legislation.gov.uk/uksi/2011/988/regulation/44) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/5)
+[^c-01fa7886a3af56faf3d9843960bda224]: Modification: [Reg. 44](https://www.legislation.gov.uk/uksi/2011/988/regulation/44) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/5)

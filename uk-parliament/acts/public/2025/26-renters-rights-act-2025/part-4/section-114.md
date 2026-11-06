@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 114. Power of local housing authority to require information from relevant person[^key-53f18eacbcd90c81825d28fff85b96d0]
+## 114. Power of local housing authority to require information from relevant person[^c-53f18eacbcd90c81825d28fff85b96d0]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53f18eacbcd90c81825d28fff85b96d0]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2025/26/section/114) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)
+[^c-53f18eacbcd90c81825d28fff85b96d0]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2025/26/section/114) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)

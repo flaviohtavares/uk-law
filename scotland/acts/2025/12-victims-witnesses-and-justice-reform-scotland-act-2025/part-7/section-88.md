@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Clerk and Deputy Clerks: further provisions[^key-2c51e53f0cd956710ad81367cf385ead]
+## 88. Clerk and Deputy Clerks: further provisions[^c-2c51e53f0cd956710ad81367cf385ead]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c51e53f0cd956710ad81367cf385ead]: Commencement: S. 88 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-2c51e53f0cd956710ad81367cf385ead]: Commencement: S. 88 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

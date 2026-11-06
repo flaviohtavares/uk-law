@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3B — Offences for the purposes of section 56: Republic of Ireland[^key-9c702a66c2fefdd730e78a2ea84a0635]
+## SCHEDULE 3B — Offences for the purposes of section 56: Republic of Ireland[^c-9c702a66c2fefdd730e78a2ea84a0635]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ Section 56
 
 ## Annotations
 
-[^key-9c702a66c2fefdd730e78a2ea84a0635]: Textual amendment: Sch. 3B inserted (with effect from 1.8.2017 in accordance with S.I. 2017/189, art. 3 and London Gazette notice dated 1.8.2017 (Issue 62012 page 14601)) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 21](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/21) (with [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/27)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3)
+[^c-9c702a66c2fefdd730e78a2ea84a0635]: Textual amendment: Sch. 3B inserted (with effect from 1.8.2017 in accordance with S.I. 2017/189, art. 3 and London Gazette notice dated 1.8.2017 (Issue 62012 page 14601)) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 21](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/21) (with [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/27)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Registration of new crofts[^key-24e5ddeee6aa8ca8bb6f0ab3937c4643]
+## 23. Registration of new crofts[^c-24e5ddeee6aa8ca8bb6f0ab3937c4643]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24e5ddeee6aa8ca8bb6f0ab3937c4643]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2010/14/section/23) in force at 30.11.2013 by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/c) (with [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/2))
+[^c-24e5ddeee6aa8ca8bb6f0ab3937c4643]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2010/14/section/23) in force at 30.11.2013 by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/c) (with [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/2))

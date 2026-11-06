@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Reductions in applicable amounts in certain cases of actual or notional unemployment benefit disqualification[^key-3db604bb30ed97f34a99282042828279][^key-60771ea72b0b74d38ef6f65ed0a299db]
+## 22. Reductions in applicable amounts in certain cases of actual or notional unemployment benefit disqualification[^c-3db604bb30ed97f34a99282042828279][^c-60771ea72b0b74d38ef6f65ed0a299db]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3db604bb30ed97f34a99282042828279]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/1987/1967/regulation/22) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+[^c-3db604bb30ed97f34a99282042828279]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/1987/1967/regulation/22) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
 
-[^key-60771ea72b0b74d38ef6f65ed0a299db]: Commencement: Reg. 22 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)
+[^c-60771ea72b0b74d38ef6f65ed0a299db]: Commencement: Reg. 22 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)

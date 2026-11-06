@@ -24,7 +24,7 @@ Section 36
 
 ### PART 1 — Amendments of CTA 2009
 
-**1.**[^key-e76740ec37e7bb3fcc5b9e9cb8bb1595] After Part 15 of CTA 2009 insert—
+**1.**[^c-e76740ec37e7bb3fcc5b9e9cb8bb1595] After Part 15 of CTA 2009 insert—
 
 > **PART 15A — Television production**
 >
@@ -809,4 +809,4 @@ Section 36
 
 ## Annotations
 
-[^key-e76740ec37e7bb3fcc5b9e9cb8bb1595]: Commencement: Sch. 16 para. 1 in force at 19.7.2013 for the purposes of the amendment made by that paragraph, so far as it is not already in force by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/1)
+[^c-e76740ec37e7bb3fcc5b9e9cb8bb1595]: Commencement: Sch. 16 para. 1 in force at 19.7.2013 for the purposes of the amendment made by that paragraph, so far as it is not already in force by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/1)

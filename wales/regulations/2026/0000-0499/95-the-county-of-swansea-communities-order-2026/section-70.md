@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Community of Gorseinon — changes to electoral arrangements[^key-55b992522d311a8d9084e881adc27071]
+## 70. Community of Gorseinon — changes to electoral arrangements[^c-55b992522d311a8d9084e881adc27071]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In the community of Gorseinon, the number of councillors to be elected for the�
 
 ## Annotations
 
-[^key-55b992522d311a8d9084e881adc27071]: Commencement: [Art. 70](https://www.legislation.gov.uk/wsi/2026/95/article/70) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-55b992522d311a8d9084e881adc27071]: Commencement: [Art. 70](https://www.legislation.gov.uk/wsi/2026/95/article/70) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

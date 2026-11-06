@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Discontinuation of water services[^key-2555b9847007804a921047cf22e783a0]
+## 18. Discontinuation of water services[^c-2555b9847007804a921047cf22e783a0]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2555b9847007804a921047cf22e783a0]: Commencement: S. 18 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
+[^c-2555b9847007804a921047cf22e783a0]: Commencement: S. 18 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)

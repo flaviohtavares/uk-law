@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Capital jointly held[^key-b691c9d967eb85566b932f8610fa2baf]
+## 24. Capital jointly held[^c-b691c9d967eb85566b932f8610fa2baf]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b691c9d967eb85566b932f8610fa2baf]: Commencement: Reg. 24 in force at 1.4.2015 in accordance with reg. 1
+[^c-b691c9d967eb85566b932f8610fa2baf]: Commencement: Reg. 24 in force at 1.4.2015 in accordance with reg. 1

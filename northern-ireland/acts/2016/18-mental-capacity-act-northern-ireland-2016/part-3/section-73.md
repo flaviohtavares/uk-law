@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73. Default nominated person[^key-9060ec1ee89356ad3b400b1db9d176d2]
+## 73. Default nominated person[^c-9060ec1ee89356ad3b400b1db9d176d2]
 
 *Extent: N.I.*
 
@@ -73,4 +73,4 @@ but this is subject to sections 74 and 75.
 
 ## Annotations
 
-[^key-9060ec1ee89356ad3b400b1db9d176d2]: Commencement: [S. 73](https://www.legislation.gov.uk/nia/2016/18/section/73) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-9060ec1ee89356ad3b400b1db9d176d2]: Commencement: [S. 73](https://www.legislation.gov.uk/nia/2016/18/section/73) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

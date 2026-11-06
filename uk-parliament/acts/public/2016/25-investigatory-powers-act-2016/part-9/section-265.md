@@ -36,7 +36,7 @@ In this Act, the expressions listed in the left-hand column have the meaning giv
 | Criminal proceedings | Section 263(1) |
 | Criminal prosecution | Section 263(1) |
 | Data | Section 263(1) |
-| Deputy Investigatory Powers Commissioner[^key-b3bd034a506041386edd5f3044c2dc51] | Section 263(1) |
+| Deputy Investigatory Powers Commissioner[^c-b3bd034a506041386edd5f3044c2dc51] | Section 263(1) |
 | Destroy (in relation to electronic data) and related expressions | Section 263(1) |
 | Detecting crime or serious crime | Section 263(6) |
 | Enactment | Section 263(1) |
@@ -92,4 +92,4 @@ In this Act, the expressions listed in the left-hand column have the meaning giv
 
 ## Annotations
 
-[^key-b3bd034a506041386edd5f3044c2dc51]: Textual amendment: Words in [s. 265](https://www.legislation.gov.uk/ukpga/2016/25/section/265) table inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 7(5)](https://www.legislation.gov.uk/ukpga/2024/9/section/7/5), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/g)
+[^c-b3bd034a506041386edd5f3044c2dc51]: Textual amendment: Words in [s. 265](https://www.legislation.gov.uk/ukpga/2016/25/section/265) table inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 7(5)](https://www.legislation.gov.uk/ukpga/2024/9/section/7/5), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/g)

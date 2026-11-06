@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45B. Licensing of sexual entertainment venues[^key-7b2864a668ebd8736b814c965d393815]
+## 45B. Licensing of sexual entertainment venues[^c-7b2864a668ebd8736b814c965d393815]
 
 *Extent: S*
 
@@ -43,12 +43,12 @@ summary: ''
     - (B) paragraph (ii) is omitted, and
   - (ii) sub-paragraph (c) is omitted,
 - (d) in paragraph 7—
-  - (i)[^key-0f519de82d0bac5789d7b005156ffd9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-0f519de82d0bac5789d7b005156ffd9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) after sub-paragraph (3) insert—
 
-    > (3A)[^key-229833706e7d73c02a1abedc758c55c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    > (3A)[^c-229833706e7d73c02a1abedc758c55c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
     >
-    > (3B)[^key-229833706e7d73c02a1abedc758c55c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    > (3B)[^c-229833706e7d73c02a1abedc758c55c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
     >
     > (3C) The applicant must also, not later than 7 days after the date of the application—
     >
@@ -88,8 +88,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7b2864a668ebd8736b814c965d393815]: Textual amendment: Ss. 45A-45C inserted (1.12.2015 for the insertion of s. 45A for specified purposes, 26.4.2019 in so far as not already in force) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 76(3)](https://www.legislation.gov.uk/asp/2015/10/section/76/3), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule); [S.S.I. 2019/99](https://www.legislation.gov.uk/ssi/2019/99), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2019/99/article/2/1/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2019/99/article/3))
+[^c-7b2864a668ebd8736b814c965d393815]: Textual amendment: Ss. 45A-45C inserted (1.12.2015 for the insertion of s. 45A for specified purposes, 26.4.2019 in so far as not already in force) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 76(3)](https://www.legislation.gov.uk/asp/2015/10/section/76/3), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule); [S.S.I. 2019/99](https://www.legislation.gov.uk/ssi/2019/99), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2019/99/article/2/1/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2019/99/article/3))
 
-[^key-0f519de82d0bac5789d7b005156ffd9d]: Textual amendment: [S. 45B(6)(d)(i)](https://www.legislation.gov.uk/ukpga/1982/45/section/45B/6/d/i) repealed (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 31(4)(a)](https://www.legislation.gov.uk/asp/2022/8/section/31/4/a), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-0f519de82d0bac5789d7b005156ffd9d]: Textual amendment: [S. 45B(6)(d)(i)](https://www.legislation.gov.uk/ukpga/1982/45/section/45B/6/d/i) repealed (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 31(4)(a)](https://www.legislation.gov.uk/asp/2022/8/section/31/4/a), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
 
-[^key-229833706e7d73c02a1abedc758c55c7]: Textual amendment: Words in [s. 45B(6)(d)(ii)](https://www.legislation.gov.uk/ukpga/1982/45/section/45B/6/d/ii) repealed (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 31(4)(b)](https://www.legislation.gov.uk/asp/2022/8/section/31/4/b), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-229833706e7d73c02a1abedc758c55c7]: Textual amendment: Words in [s. 45B(6)(d)(ii)](https://www.legislation.gov.uk/ukpga/1982/45/section/45B/6/d/ii) repealed (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 31(4)(b)](https://www.legislation.gov.uk/asp/2022/8/section/31/4/b), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

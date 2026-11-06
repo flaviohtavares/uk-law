@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 77. Inhibition pendente lite.[^key-84fb213bfddea9357da4b6e4e4e6855c]
+## 77. Inhibition pendente lite.[^c-84fb213bfddea9357da4b6e4e4e6855c]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84fb213bfddea9357da4b6e4e4e6855c]: Textual amendment: [S. 77](https://www.legislation.gov.uk/ukcm/1963/1/section/77) repealed (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [s. 48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2), [Sch. 2](https://www.legislation.gov.uk/ukcm/2003/3/schedule/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-84fb213bfddea9357da4b6e4e4e6855c]: Textual amendment: [S. 77](https://www.legislation.gov.uk/ukcm/1963/1/section/77) repealed (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [s. 48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2), [Sch. 2](https://www.legislation.gov.uk/ukcm/2003/3/schedule/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops

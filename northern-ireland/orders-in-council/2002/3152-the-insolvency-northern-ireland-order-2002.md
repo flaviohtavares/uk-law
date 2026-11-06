@@ -27,7 +27,7 @@ summary: ''
 
 2002 No. 3152 (N.I. 6)
 
-The Insolvency (Northern Ireland) Order 2002[^key-a219079605c367b8ee90685f55dc1242]
+The Insolvency (Northern Ireland) Order 2002[^c-a219079605c367b8ee90685f55dc1242]
 
 17th December 2002 [^c21951351]
 
@@ -51,7 +51,7 @@ The Insolvency (Northern Ireland) Order 2002[^key-a219079605c367b8ee90685f55dc12
 - “the Insolvency Order” means the Insolvency (Northern Ireland) Order 1989 (NI 19); and
 - “statutory provision” has the meaning given in section 1(f) of the Interpretation Act (Northern Ireland) 1954 (c. 33).
 
-(3) For the purposes of the Financial Services and Markets Act 2000 (c. 8), the functions conferred on the Financial Conduct Authority and the Prudential Regulation Authority[^key-cc3cc65c1e4119a47fe1ed663d243e7b] by virtue of Schedules 1 and 2 are to be treated as conferred by that Act.
+(3) For the purposes of the Financial Services and Markets Act 2000 (c. 8), the functions conferred on the Financial Conduct Authority and the Prudential Regulation Authority[^c-cc3cc65c1e4119a47fe1ed663d243e7b] by virtue of Schedules 1 and 2 are to be treated as conferred by that Act.
 
 ## Voluntary arrangements
 
@@ -98,9 +98,9 @@ Schedule 3 (which enables the procedure for the approval of individual voluntary
 
   .
 
-(2)[^key-49791eae273c34294008b709dd185ba1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-49791eae273c34294008b709dd185ba1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-49791eae273c34294008b709dd185ba1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-49791eae273c34294008b709dd185ba1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Miscellaneous
 
@@ -246,38 +246,38 @@ Article 3.
 
 **1.** The Insolvency Order shall be amended as follows.
 
-**2.**[^key-067f7ab90fec9e539f02fa949905a74d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-067f7ab90fec9e539f02fa949905a74d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-067f7ab90fec9e539f02fa949905a74d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-067f7ab90fec9e539f02fa949905a74d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-067f7ab90fec9e539f02fa949905a74d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-067f7ab90fec9e539f02fa949905a74d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-067f7ab90fec9e539f02fa949905a74d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-067f7ab90fec9e539f02fa949905a74d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** In Article 39(3)(a) (protection of interests of creditors and members when administration order in force), for “Article 17” substitute “ Part II ”.
 
-**7.**[^key-833e7f10ed7e7c7b5a68c58c059260ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-833e7f10ed7e7c7b5a68c58c059260ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-378acfe12ed3e121a20986a8e021e38f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-378acfe12ed3e121a20986a8e021e38f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **9.** (1) Article 197 (conditions which may be imposed on supply of water, electricity, etc.) is amended as follows.
 
 (2) In paragraph (1)—
 
-- (a)[^key-1b0a7c9046e827a93df67d21e195cd97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-1b0a7c9046e827a93df67d21e195cd97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in sub-paragraph (c), for the words from “under Part II” to “Article 16” substitute “ approved under Part II ”, and
-- (c)[^key-1b0a7c9046e827a93df67d21e195cd97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-1b0a7c9046e827a93df67d21e195cd97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In paragraph (4)—
 
-- (a)[^key-1b0a7c9046e827a93df67d21e195cd97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-1b0a7c9046e827a93df67d21e195cd97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in sub-paragraph (c), for the words following “arrangement” substitute “ took effect ”.
 
-**10.**[^key-57479506504d898e4beb2ea929945c71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-57479506504d898e4beb2ea929945c71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-57479506504d898e4beb2ea929945c71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-57479506504d898e4beb2ea929945c71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.** [^key-57479506504d898e4beb2ea929945c71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.** [^c-57479506504d898e4beb2ea929945c71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Schedule 2—Amendments*
 
@@ -287,22 +287,22 @@ Article 3.
 
 ## Annotations
 
-[^key-a219079605c367b8ee90685f55dc1242]: Modification: [Order](https://www.legislation.gov.uk/nisi/2002/3152) applied (with modifications) (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [166(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/166/2), [167(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/167/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1212/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1212/schedule/3) (with [regs. 168](https://www.legislation.gov.uk/uksi/2017/1212/regulation/168), [189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+[^c-a219079605c367b8ee90685f55dc1242]: Modification: [Order](https://www.legislation.gov.uk/nisi/2002/3152) applied (with modifications) (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [166(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/166/2), [167(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/167/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1212/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1212/schedule/3) (with [regs. 168](https://www.legislation.gov.uk/uksi/2017/1212/regulation/168), [189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
 
 [^c21951351]: Textual amendment: Order: functions transferred from Lord Chancellor to Department of Justice (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [15(1)](https://www.legislation.gov.uk/uksi/2010/976/article/15/1), [Sch. 17 para. 52](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/52) (with [arts. 15(6)](https://www.legislation.gov.uk/uksi/2010/976/article/15/6), [28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
-[^key-cc3cc65c1e4119a47fe1ed663d243e7b]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/nisi/2002/3152/article/2/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 79](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/79)
+[^c-cc3cc65c1e4119a47fe1ed663d243e7b]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/nisi/2002/3152/article/2/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 79](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/79)
 
-[^key-49791eae273c34294008b709dd185ba1]: Textual amendment: [Art. 6(2)](https://www.legislation.gov.uk/nisi/2002/3152/article/6/2)[(3)](https://www.legislation.gov.uk/nisi/2002/3152/article/6/3) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-49791eae273c34294008b709dd185ba1]: Textual amendment: [Art. 6(2)](https://www.legislation.gov.uk/nisi/2002/3152/article/6/2)[(3)](https://www.legislation.gov.uk/nisi/2002/3152/article/6/3) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
 
 [^c20135341]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/nisi/2002/3152/article/7) repealed (27.3.2006) by [Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10))](https://www.legislation.gov.uk/nisi/2005/1455), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [31](https://www.legislation.gov.uk/nisi/2005/1455/article/31), [Sch. 9](https://www.legislation.gov.uk/nisi/2005/1455/schedule/9); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (subject to [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2](https://www.legislation.gov.uk/nisr/2006/22/article/2)-7)
 
-[^key-067f7ab90fec9e539f02fa949905a74d]: Textual amendment: [Sch. 1 paras. 2-5](https://www.legislation.gov.uk/nisi/2002/3152/schedule/1/paragraph/2) omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 34(2)(a)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/34/2/a) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-067f7ab90fec9e539f02fa949905a74d]: Textual amendment: [Sch. 1 paras. 2-5](https://www.legislation.gov.uk/nisi/2002/3152/schedule/1/paragraph/2) omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 34(2)(a)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/34/2/a) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-833e7f10ed7e7c7b5a68c58c059260ff]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisi/2002/3152/schedule/1/paragraph/7) omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 34(2)(a)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/34/2/a) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-833e7f10ed7e7c7b5a68c58c059260ff]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisi/2002/3152/schedule/1/paragraph/7) omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 34(2)(a)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/34/2/a) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-378acfe12ed3e121a20986a8e021e38f]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/nisi/2002/3152/schedule/1/paragraph/8) omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 34(2)(a)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/34/2/a) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-378acfe12ed3e121a20986a8e021e38f]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/nisi/2002/3152/schedule/1/paragraph/8) omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 34(2)(a)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/34/2/a) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-1b0a7c9046e827a93df67d21e195cd97]: Textual amendment: Para. 9(2)(a)(c) and (3)(a) omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 34(2)(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/34/2/b) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-1b0a7c9046e827a93df67d21e195cd97]: Textual amendment: Para. 9(2)(a)(c) and (3)(a) omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 34(2)(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/34/2/b) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-57479506504d898e4beb2ea929945c71]: Textual amendment: Sch. 1 paras. 10-12 omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 34(2)(c)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/34/2/c) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-57479506504d898e4beb2ea929945c71]: Textual amendment: Sch. 1 paras. 10-12 omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 34(2)(c)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/34/2/c) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

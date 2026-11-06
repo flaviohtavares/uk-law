@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 280. Notifications made to other persons at the same time[^key-d63f8356e25f6ba99e49f1983aad4473]
+## 280. Notifications made to other persons at the same time[^c-d63f8356e25f6ba99e49f1983aad4473]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d63f8356e25f6ba99e49f1983aad4473]: Commencement: Rule 280 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-d63f8356e25f6ba99e49f1983aad4473]: Commencement: Rule 280 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

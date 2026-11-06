@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Updating information provided with an application under Schedule 5 (pool participants)[^key-eb08eb8700ae10a28291ffa8f85e3077]
+## 83. Updating information provided with an application under Schedule 5 (pool participants)[^c-eb08eb8700ae10a28291ffa8f85e3077]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb08eb8700ae10a28291ffa8f85e3077]: Commencement: Art. 83 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-eb08eb8700ae10a28291ffa8f85e3077]: Commencement: Art. 83 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

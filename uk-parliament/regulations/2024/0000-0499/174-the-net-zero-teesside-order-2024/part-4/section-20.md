@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Authority to survey and investigate the land[^key-0823a98fb1d0ae22a6aec0616c21aa39]
+## 20. Authority to survey and investigate the land[^c-0823a98fb1d0ae22a6aec0616c21aa39]
 
 *Extent: E+W+S*
 
@@ -43,10 +43,10 @@ summary: ''
 
 (6) Section 13 (refusal to give possession to acquiring authority) of the 1965 Act applies to the entry onto, or possession of land under this article to the same extent as it applies to the compulsory acquisition of land under this Order by virtue of section 125 (application of compulsory acquisition provisions) of the 2008 Act.
 
-(7)[^key-39b75d0ac833da6feac00b3c203b657f] The undertaker may not rely upon any powers under this article 20 in respect of the supplemental land.
+(7)[^c-39b75d0ac833da6feac00b3c203b657f] The undertaker may not rely upon any powers under this article 20 in respect of the supplemental land.
 
 ## Annotations
 
-[^key-0823a98fb1d0ae22a6aec0616c21aa39]: Commencement: Art. 20 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-0823a98fb1d0ae22a6aec0616c21aa39]: Commencement: Art. 20 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
-[^key-39b75d0ac833da6feac00b3c203b657f]: Textual amendment: [Art. 20(7)](https://www.legislation.gov.uk/uksi/2024/174/article/20/7) inserted (29.10.2025) by [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [6](https://www.legislation.gov.uk/uksi/2025/1143/article/6)
+[^c-39b75d0ac833da6feac00b3c203b657f]: Textual amendment: [Art. 20(7)](https://www.legislation.gov.uk/uksi/2024/174/article/20/7) inserted (29.10.2025) by [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [6](https://www.legislation.gov.uk/uksi/2025/1143/article/6)

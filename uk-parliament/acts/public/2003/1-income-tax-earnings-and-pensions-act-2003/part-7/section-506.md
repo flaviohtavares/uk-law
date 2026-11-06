@@ -25,9 +25,9 @@ summary: ''
 - (a) the acquisition date in respect of those shares (as defined by paragraph 50(4) or, as the case may be, paragraph 52(5) of Schedule 2), and
 - (b) the date when they cease to be subject to the plan (“the exit date”).
 
-(2) If the period is less than 3 years, the relevant amount[^key-4f2ee9efeb2ef258052317325b10a923] counts as employment income of the participant for the relevant tax year (see subsection (5)).
+(2) If the period is less than 3 years, the relevant amount[^c-4f2ee9efeb2ef258052317325b10a923] counts as employment income of the participant for the relevant tax year (see subsection (5)).
 
-(2A)[^key-8f9d722e394f5f926e82d982b29911c9] Subject to subsection (2B), in subsection (2) “**the relevant amount**” means the market value of the shares at the exit date.
+(2A)[^c-8f9d722e394f5f926e82d982b29911c9] Subject to subsection (2B), in subsection (2) “**the relevant amount**” means the market value of the shares at the exit date.
 
 (2B) If the shares cease to be subject to the plan by virtue of a provision of the kind mentioned in paragraph 43(2B) of Schedule 2 (provision requiring partnership shares to be offered for sale), in subsection (2) “**the relevant amount**” means the lesser of—
 
@@ -43,7 +43,7 @@ summary: ''
 
 counts as employment income of the participant for the relevant tax year (see subsection (5)).
 
-(3A)[^key-56e294f0358101379d58d69b5f528180] If the shares cease to be subject to the plan by virtue of a provision of the kind mentioned in paragraph 43(2B) of Schedule 2, in subsection (3)(b) the reference to the market value of the shares at the exit date is to be read as a reference to the market value of the shares at the time they are offered for sale (as determined in accordance with paragraph 92(2) of Schedule 2 if relevant).
+(3A)[^c-56e294f0358101379d58d69b5f528180] If the shares cease to be subject to the plan by virtue of a provision of the kind mentioned in paragraph 43(2B) of Schedule 2, in subsection (3)(b) the reference to the market value of the shares at the exit date is to be read as a reference to the market value of the shares at the time they are offered for sale (as determined in accordance with paragraph 92(2) of Schedule 2 if relevant).
 
 (4) Where—
 
@@ -52,7 +52,7 @@ counts as employment income of the participant for the relevant tax year (see su
 
 the tax due is reduced by the amount or aggregate amount of any tax paid by virtue of section 501 (charge on capital receipts in respect of plan shares) on any capital receipts in respect of the shares.
 
-(4A)[^key-beb139541433fede3cdef153eb8ebff9] Any tax due under subsection (2) or (3) is reduced by the amount or aggregate amount of any tax paid by virtue of Chapter 3B of this Part in relation to the shares.
+(4A)[^c-beb139541433fede3cdef153eb8ebff9] Any tax due under subsection (2) or (3) is reduced by the amount or aggregate amount of any tax paid by virtue of Chapter 3B of this Part in relation to the shares.
 
 (5) The “**relevant tax year**” is the tax year in which the exit date falls.
 
@@ -60,10 +60,10 @@ the tax due is reduced by the amount or aggregate amount of any tax paid by virt
 
 ## Annotations
 
-[^key-4f2ee9efeb2ef258052317325b10a923]: Textual amendment: Words in [s. 506(2)](https://www.legislation.gov.uk/ukpga/2003/1/section/506/2) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 8(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/8/2), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-4f2ee9efeb2ef258052317325b10a923]: Textual amendment: Words in [s. 506(2)](https://www.legislation.gov.uk/ukpga/2003/1/section/506/2) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 8(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/8/2), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-8f9d722e394f5f926e82d982b29911c9]: Textual amendment: [S. 506(2A)-(2C)](https://www.legislation.gov.uk/ukpga/2003/1/section/506/2A) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 8(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/8/3), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-8f9d722e394f5f926e82d982b29911c9]: Textual amendment: [S. 506(2A)-(2C)](https://www.legislation.gov.uk/ukpga/2003/1/section/506/2A) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 8(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/8/3), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-56e294f0358101379d58d69b5f528180]: Textual amendment: [S. 506(3A)](https://www.legislation.gov.uk/ukpga/2003/1/section/506/3A) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 8(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/8/4), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-56e294f0358101379d58d69b5f528180]: Textual amendment: [S. 506(3A)](https://www.legislation.gov.uk/ukpga/2003/1/section/506/3A) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 8(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/8/4), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-beb139541433fede3cdef153eb8ebff9]: Textual amendment: S. 506(4A) inserted (18.6.2004 with effect in accordance with s. 88(11)-(13) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 88(5)](https://www.legislation.gov.uk/ukpga/2004/12/section/88/5)
+[^c-beb139541433fede3cdef153eb8ebff9]: Textual amendment: S. 506(4A) inserted (18.6.2004 with effect in accordance with s. 88(11)-(13) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 88(5)](https://www.legislation.gov.uk/ukpga/2004/12/section/88/5)

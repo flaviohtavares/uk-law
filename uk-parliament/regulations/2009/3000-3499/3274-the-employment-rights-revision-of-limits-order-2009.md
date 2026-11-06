@@ -32,7 +32,7 @@ summary: ''
 
 Terms And Conditions Of Employment
 
-The Employment Rights (Revision of Limits) Order 2009 (revoked)[^key-56a4e0b91c45cb73c3905bf640ffed44]
+The Employment Rights (Revision of Limits) Order 2009 (revoked)[^c-56a4e0b91c45cb73c3905bf640ffed44]
 
 Made
 
@@ -46,27 +46,27 @@ Coming into force
 
 1st February 2010
 
-[^key-56a4e0b91c45cb73c3905bf640ffed44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-56a4e0b91c45cb73c3905bf640ffed44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-56a4e0b91c45cb73c3905bf640ffed44]
+## 1. Citation, commencement and interpretation[^c-56a4e0b91c45cb73c3905bf640ffed44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revision of limits[^key-56a4e0b91c45cb73c3905bf640ffed44]
+## 2. Revision of limits[^c-56a4e0b91c45cb73c3905bf640ffed44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provisions[^key-56a4e0b91c45cb73c3905bf640ffed44]
+## 3. Transitional provisions[^c-56a4e0b91c45cb73c3905bf640ffed44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56a4e0b91c45cb73c3905bf640ffed44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-56a4e0b91c45cb73c3905bf640ffed44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-56a4e0b91c45cb73c3905bf640ffed44]
+## SCHEDULE[^c-56a4e0b91c45cb73c3905bf640ffed44]
 
 Article 2
 
@@ -74,8 +74,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-56a4e0b91c45cb73c3905bf640ffed44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-56a4e0b91c45cb73c3905bf640ffed44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-56a4e0b91c45cb73c3905bf640ffed44]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/3274) revoked (1.2.2011) by [The Employment Rights (Increase of Limits) Order 2010 (S.I. 2010/2926)](https://www.legislation.gov.uk/uksi/2010/2926), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/2926/article/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2010/2926/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2010/2926/article/4))
+[^c-56a4e0b91c45cb73c3905bf640ffed44]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/3274) revoked (1.2.2011) by [The Employment Rights (Increase of Limits) Order 2010 (S.I. 2010/2926)](https://www.legislation.gov.uk/uksi/2010/2926), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/2926/article/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2010/2926/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2010/2926/article/4))

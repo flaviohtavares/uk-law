@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Sexual offences prevention orders: relevant sexual offences[^key-824644a8c714e834cad71fd2a77d874e]
+## 141. Sexual offences prevention orders: relevant sexual offences[^c-824644a8c714e834cad71fd2a77d874e]
 
 *Extent: E+W+N.I.*
 
@@ -31,10 +31,10 @@ summary: ''
 >
 > is to be disregarded.
 
-(2)[^key-3aa97a26561b96cce3c17fd275bdc9f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3aa97a26561b96cce3c17fd275bdc9f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-824644a8c714e834cad71fd2a77d874e]: Commencement: S. 141 in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/44)
+[^c-824644a8c714e834cad71fd2a77d874e]: Commencement: S. 141 in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/44)
 
-[^key-3aa97a26561b96cce3c17fd275bdc9f6]: Textual amendment: S. 141(2) repealed (S.) (1.11.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 100(1)](https://www.legislation.gov.uk/asp/2010/13/section/100/1), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/354](https://www.legislation.gov.uk/ssi/2011/354), [art. 2](https://www.legislation.gov.uk/ssi/2011/354/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/354/schedule)
+[^c-3aa97a26561b96cce3c17fd275bdc9f6]: Textual amendment: S. 141(2) repealed (S.) (1.11.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 100(1)](https://www.legislation.gov.uk/asp/2010/13/section/100/1), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/354](https://www.legislation.gov.uk/ssi/2011/354), [art. 2](https://www.legislation.gov.uk/ssi/2011/354/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/354/schedule)

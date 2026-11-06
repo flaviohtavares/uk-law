@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Adult survivor’s augmented award[^key-dcd1fdffd4b8c796591e07bc9971d4fa]
+## 13. Adult survivor’s augmented award[^c-dcd1fdffd4b8c796591e07bc9971d4fa]
 
 *Extent: N.I.*
 
@@ -33,10 +33,10 @@ summary: ''
 (2) An award under regulation 12(2) to an adult survivor to whom this regulation applies shall comprise—
 
 - (a) an adult survivor’s special pension calculated as provided in regulation 12(3) to (5) but as if for the reference in regulation 12(3) to 45% of the deceased officer’s average pensionable pay for a week there were substituted a reference to 50% of such pay, and
-- (b) a gratuity of an amount equal to twice the annual pensionable pay, at the date of the deceased officer’s death, of a person holding the rank of constable in the metropolitan police force[^key-11de62d14afea707c0316458b134201b] and entitled to reckon 30 years’ service for the purposes of pay; and the provisions of regulation 12(2)(b), (6) and (7) shall not apply except that where those provisions are more favourable in his case the gratuity shall be of an amount determined in accordance with those provisions.
+- (b) a gratuity of an amount equal to twice the annual pensionable pay, at the date of the deceased officer’s death, of a person holding the rank of constable in the metropolitan police force[^c-11de62d14afea707c0316458b134201b] and entitled to reckon 30 years’ service for the purposes of pay; and the provisions of regulation 12(2)(b), (6) and (7) shall not apply except that where those provisions are more favourable in his case the gratuity shall be of an amount determined in accordance with those provisions.
 
 ## Annotations
 
-[^key-dcd1fdffd4b8c796591e07bc9971d4fa]: Commencement: Reg. 13 in operation at 25.7.2006 with effect in accordance with reg. 1
+[^c-dcd1fdffd4b8c796591e07bc9971d4fa]: Commencement: Reg. 13 in operation at 25.7.2006 with effect in accordance with reg. 1
 
-[^key-11de62d14afea707c0316458b134201b]: Textual amendment: Words in [reg. 13(2)(b)](https://www.legislation.gov.uk/nisr/2006/268/regulation/13/2/b) inserted (with effect in accordance with reg. 1(2)(b) of the amending Rule) by [Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) (Amendment) Regulations 2012 (S.R. 2012/82)](https://www.legislation.gov.uk/nisr/2012/82), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2012/82/regulation/1/2), [2(4)](https://www.legislation.gov.uk/nisr/2012/82/regulation/2/4)
+[^c-11de62d14afea707c0316458b134201b]: Textual amendment: Words in [reg. 13(2)(b)](https://www.legislation.gov.uk/nisr/2006/268/regulation/13/2/b) inserted (with effect in accordance with reg. 1(2)(b) of the amending Rule) by [Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) (Amendment) Regulations 2012 (S.R. 2012/82)](https://www.legislation.gov.uk/nisr/2012/82), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2012/82/regulation/1/2), [2(4)](https://www.legislation.gov.uk/nisr/2012/82/regulation/2/4)

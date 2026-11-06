@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Register of Community Interests in Land[^key-15df473fbecbbd8d0fab540ccd03ca55]
+## 39. Register of Community Interests in Land[^c-15df473fbecbbd8d0fab540ccd03ca55]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15df473fbecbbd8d0fab540ccd03ca55]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2015/6/section/39) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-15df473fbecbbd8d0fab540ccd03ca55]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2015/6/section/39) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

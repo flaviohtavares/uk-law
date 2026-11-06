@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.96. Surrender for non-disclosure[^key-84e6a0792bfdcd72804308673b33076a]
+## 4.96. Surrender for non-disclosure[^c-84e6a0792bfdcd72804308673b33076a]
 
 *Extent: E+W*
 
@@ -24,10 +24,10 @@ summary: ''
 
 (2) If the court grants that relief, it may require or allow the creditor's proof of debt to be amended, on such terms as may be just.
 
-(3)[^key-fcdaaad2d9cbb5c568cb33e47da4fdd6] Nothing in this Rule or the following two Rules may affect the rights in rem of creditors or third parties protected under Article 5 of the EC Regulation (third parties' rights in rem).
+(3)[^c-fcdaaad2d9cbb5c568cb33e47da4fdd6] Nothing in this Rule or the following two Rules may affect the rights in rem of creditors or third parties protected under Article 5 of the EC Regulation (third parties' rights in rem).
 
 ## Annotations
 
-[^key-84e6a0792bfdcd72804308673b33076a]: Commencement: [Rule 4.96](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.96) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-84e6a0792bfdcd72804308673b33076a]: Commencement: [Rule 4.96](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.96) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-fcdaaad2d9cbb5c568cb33e47da4fdd6]: Textual amendment: Rule 4.96(3) inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/article/1), [6(8)](https://www.legislation.gov.uk/uksi/2002/1307/rule/6/8) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/article/3))
+[^c-fcdaaad2d9cbb5c568cb33e47da4fdd6]: Textual amendment: Rule 4.96(3) inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/article/1), [6(8)](https://www.legislation.gov.uk/uksi/2002/1307/rule/6/8) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/article/3))

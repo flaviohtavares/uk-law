@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**58.**[^key-bcca731ded31926db8740c4f6c35c9c7][^key-3d215881a0d99da15e5164c6ce3ac6ae] The part of the community of Mathern shown hatched on Map 47—
+**58.**[^c-bcca731ded31926db8740c4f6c35c9c7][^c-3d215881a0d99da15e5164c6ce3ac6ae] The part of the community of Mathern shown hatched on Map 47—
 
 - (a) is transferred to the community of Chepstow;
 - (b) forms part of the community ward of Thornwell;
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bcca731ded31926db8740c4f6c35c9c7]: Commencement: Art. 58 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-bcca731ded31926db8740c4f6c35c9c7]: Commencement: Art. 58 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-3d215881a0d99da15e5164c6ce3ac6ae]: Commencement: [Art. 58](https://www.legislation.gov.uk/wsi/2021/1227/article/58) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-3d215881a0d99da15e5164c6ce3ac6ae]: Commencement: [Art. 58](https://www.legislation.gov.uk/wsi/2021/1227/article/58) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

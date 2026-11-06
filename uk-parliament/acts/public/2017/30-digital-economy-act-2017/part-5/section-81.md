@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Disclosure by the Statistics Board to devolved administrations[^key-5f9c2d5bb31b06641f864ede2e2360d9][^key-5708c41c3440fd14010ab08b7f0d4027]
+## 81. Disclosure by the Statistics Board to devolved administrations[^c-5f9c2d5bb31b06641f864ede2e2360d9][^c-5708c41c3440fd14010ab08b7f0d4027]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,6 +78,6 @@ After section 53 of the Statistics and Registration Service Act 2007 insert—
 
 ## Annotations
 
-[^key-5f9c2d5bb31b06641f864ede2e2360d9]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2017/30/section/81) in force at 31.7.2017 for E.W.S. by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(v)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/v)
+[^c-5f9c2d5bb31b06641f864ede2e2360d9]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2017/30/section/81) in force at 31.7.2017 for E.W.S. by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(v)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/v)
 
-[^key-5708c41c3440fd14010ab08b7f0d4027]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2017/30/section/81) in force at 1.5.2018 in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(mm)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/mm)
+[^c-5708c41c3440fd14010ab08b7f0d4027]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2017/30/section/81) in force at 1.5.2018 in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(mm)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/mm)

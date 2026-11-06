@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 264. Power to inspect and seize objects at sea[^key-c4f9ddb6919087c210eb0d6c5f45d7fe]
+## 264. Power to inspect and seize objects at sea[^c-c4f9ddb6919087c210eb0d6c5f45d7fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ The officer may lift an object out of the sea for the purposes of inspecting it 
 
 (2) An enforcement officer who has inspected an object under this section may seize the object.
 
-(3)[^key-31f2f4c48da236d6ea6a88b328f4ed7f] The power conferred by subsection (2) may only be exercised—
+(3)[^c-31f2f4c48da236d6ea6a88b328f4ed7f] The power conferred by subsection (2) may only be exercised—
 
 - (a) for the purposes of determining whether a relevant offence has been committed, or
 - (b) in relation to an object which an enforcement officer reasonably believes to be evidence of the commission of a relevant offence.
@@ -46,6 +46,6 @@ The officer may lift an object out of the sea for the purposes of inspecting it 
 
 ## Annotations
 
-[^key-c4f9ddb6919087c210eb0d6c5f45d7fe]: Commencement: S. 264 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)
+[^c-c4f9ddb6919087c210eb0d6c5f45d7fe]: Commencement: S. 264 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)
 
-[^key-31f2f4c48da236d6ea6a88b328f4ed7f]: Modification: [S. 264(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/264/3) applied (E.W.S.) (15.9.2016) by [The River Humber Gas Pipeline Replacement Order 2016 (S.I. 2016/853)](https://www.legislation.gov.uk/uksi/2016/853), [arts. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1), [40](https://www.legislation.gov.uk/uksi/2016/853/article/40) (with [art. 43](https://www.legislation.gov.uk/uksi/2016/853/article/43))
+[^c-31f2f4c48da236d6ea6a88b328f4ed7f]: Modification: [S. 264(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/264/3) applied (E.W.S.) (15.9.2016) by [The River Humber Gas Pipeline Replacement Order 2016 (S.I. 2016/853)](https://www.legislation.gov.uk/uksi/2016/853), [arts. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1), [40](https://www.legislation.gov.uk/uksi/2016/853/article/40) (with [art. 43](https://www.legislation.gov.uk/uksi/2016/853/article/43))

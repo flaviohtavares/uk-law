@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Appeal against decision on proof[^key-7a63b12d99bb3beb6bf23607510008fb]
+## 65. Appeal against decision on proof[^c-7a63b12d99bb3beb6bf23607510008fb]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a63b12d99bb3beb6bf23607510008fb]: Commencement: Rule 65 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-7a63b12d99bb3beb6bf23607510008fb]: Commencement: Rule 65 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

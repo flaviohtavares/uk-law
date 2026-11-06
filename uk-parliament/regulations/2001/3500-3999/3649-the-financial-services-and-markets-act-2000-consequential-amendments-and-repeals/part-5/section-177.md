@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177. Meaning of “consumer credit EEA firm”[^key-b69cf80b0548cfae18db92c57993ccdc]
+## 177. Meaning of “consumer credit EEA firm”[^c-b69cf80b0548cfae18db92c57993ccdc]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ After section 189 of the Consumer Credit Act 1974 insert—
 
 ## Annotations
 
-[^key-b69cf80b0548cfae18db92c57993ccdc]: Commencement: Art. 177 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-b69cf80b0548cfae18db92c57993ccdc]: Commencement: Art. 177 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

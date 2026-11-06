@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Calculation of voting rights: special cases (creditors)[^key-fefe42500d0e89227303205437fb9ef5]
+## 88. Calculation of voting rights: special cases (creditors)[^c-fefe42500d0e89227303205437fb9ef5]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fefe42500d0e89227303205437fb9ef5]: Commencement: [Rule 88](https://www.legislation.gov.uk/uksi/2011/1301/rule/88) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-fefe42500d0e89227303205437fb9ef5]: Commencement: [Rule 88](https://www.legislation.gov.uk/uksi/2011/1301/rule/88) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

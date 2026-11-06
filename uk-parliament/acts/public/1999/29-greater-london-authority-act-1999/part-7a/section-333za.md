@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 333ZA. Compulsory acquisition of land[^key-c9d70079c6471977e41bcfe904bb1eb9][^key-a761f600a6cde50131649a6bffe0cf99]
+## 333ZA. Compulsory acquisition of land[^c-c9d70079c6471977e41bcfe904bb1eb9][^c-a761f600a6cde50131649a6bffe0cf99]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c9d70079c6471977e41bcfe904bb1eb9]: Textual amendment: Ss. 333ZA-333ZJ and cross-headings inserted (15.1.2012 for the insertion of ss. 333ZA-333ZD and the heading immediately preceding s. 333ZA, 1.4.2012 so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 187(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/187/3), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(w)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/w) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(e)](https://www.legislation.gov.uk/uksi/2012/628/article/6/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-c9d70079c6471977e41bcfe904bb1eb9]: Textual amendment: Ss. 333ZA-333ZJ and cross-headings inserted (15.1.2012 for the insertion of ss. 333ZA-333ZD and the heading immediately preceding s. 333ZA, 1.4.2012 so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 187(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/187/3), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(w)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/w) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(e)](https://www.legislation.gov.uk/uksi/2012/628/article/6/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-a761f600a6cde50131649a6bffe0cf99]: Textual amendment: Pt. 7A inserted (E.W.) (23.12.2007) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 28(4)](https://www.legislation.gov.uk/ukpga/2007/24/section/28/4), [59(5)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/5)
+[^c-a761f600a6cde50131649a6bffe0cf99]: Textual amendment: Pt. 7A inserted (E.W.) (23.12.2007) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 28(4)](https://www.legislation.gov.uk/ukpga/2007/24/section/28/4), [59(5)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/5)

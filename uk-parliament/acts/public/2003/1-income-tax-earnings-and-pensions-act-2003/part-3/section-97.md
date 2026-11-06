@@ -27,10 +27,10 @@ summary: ''
 
 by reason of the employment.
 
-(1A)[^key-8876c373ee95ee2326285fd886f2afc1] Where this Chapter applies to any living accommodation—
+(1A)[^c-8876c373ee95ee2326285fd886f2afc1] Where this Chapter applies to any living accommodation—
 
 - (a) the living accommodation is a benefit for the purposes of this Chapter (and accordingly it is immaterial whether the terms on which it is provided to any of those persons constitute a fair bargain), and
-- (b) sections 102 to 108 provide for an amount in respect of[^key-9377fd2652f56e3679a5942a785399d1] the benefit of the living accommodation to be treated as earnings.
+- (b) sections 102 to 108 provide for an amount in respect of[^c-9377fd2652f56e3679a5942a785399d1] the benefit of the living accommodation to be treated as earnings.
 
 (2) Living accommodation provided for any of those persons by the employer is to be regarded as provided by reason of the employment unless—
 
@@ -39,6 +39,6 @@ by reason of the employment.
 
 ## Annotations
 
-[^key-8876c373ee95ee2326285fd886f2afc1]: Textual amendment: S. 97(1A) inserted (with effect in accordance with s. 7(9) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/7/2)
+[^c-8876c373ee95ee2326285fd886f2afc1]: Textual amendment: S. 97(1A) inserted (with effect in accordance with s. 7(9) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/7/2)
 
-[^key-9377fd2652f56e3679a5942a785399d1]: Textual amendment: Words in [s. 97(1A)(b)](https://www.legislation.gov.uk/ukpga/2003/1/section/97/1A/b) substituted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/7)
+[^c-9377fd2652f56e3679a5942a785399d1]: Textual amendment: Words in [s. 97(1A)(b)](https://www.legislation.gov.uk/ukpga/2003/1/section/97/1A/b) substituted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/7)

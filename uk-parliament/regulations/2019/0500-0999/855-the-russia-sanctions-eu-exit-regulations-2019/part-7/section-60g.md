@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60G. Trade: exception in relation to certain ... goods consigned from Russia[^key-080b7a73ff1096abc9d0c9b85a242e96][^key-b8b457c15913511a64a5c8f77cc349f9]
+## 60G. Trade: exception in relation to certain ... goods consigned from Russia[^c-080b7a73ff1096abc9d0c9b85a242e96][^c-b8b457c15913511a64a5c8f77cc349f9]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-ec70ca75ea899b3cd29ce9ac05814e1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-ec70ca75ea899b3cd29ce9ac05814e1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-136a100789fdd45fe35b6d4519f98e85] The prohibitions specified in paragraphs (1B), (1C) and (1D) do not apply to, or in relation to, any goods mentioned in any of those paragraphs which are—
+(1A)[^c-136a100789fdd45fe35b6d4519f98e85] The prohibitions specified in paragraphs (1B), (1C) and (1D) do not apply to, or in relation to, any goods mentioned in any of those paragraphs which are—
 
 - (a) consigned from Russia before 21st April 2023; and
 - (b) imported into the United Kingdom before 21st May 2023.
@@ -54,7 +54,7 @@ as they apply in relation to goods specified in Part 3 of Schedule 3D (Schedule 
 
 as they apply in relation to goods specified in Part 3 of Schedule 3DA (Schedule 3DA revenue generating goods).
 
-(1E)[^key-fc15a5d70c3b38a3f3d1035c73c816f4] The prohibitions specified in paragraphs (1F) and (1G) do not apply to, or in relation to, any products mentioned in any of those paragraphs which are—
+(1E)[^c-fc15a5d70c3b38a3f3d1035c73c816f4] The prohibitions specified in paragraphs (1F) and (1G) do not apply to, or in relation to, any products mentioned in any of those paragraphs which are—
 
 - (a) consigned from Russia before 15th December 2023; and
 - (b) imported into the United Kingdom before 14th January 2024.
@@ -72,7 +72,7 @@ as they apply in relation to products specified in Part 4 of Schedule 3B (iron a
 
 (1H) Paragraph 1 of Schedule 3 applies for the purposes of interpreting the commodity codes specified in paragraph (1G).
 
-(2) For the purposes of paragraphs (1A)(a) and (1E)(a)[^key-a64a7494491500bb555442d28ec0d334], goods are deemed to have been consigned from Russia at the time when—
+(2) For the purposes of paragraphs (1A)(a) and (1E)(a)[^c-a64a7494491500bb555442d28ec0d334], goods are deemed to have been consigned from Russia at the time when—
 
 - (a) they have completed the applicable export formalities, and
 - (b) where the goods were transported by—
@@ -82,14 +82,14 @@ as they apply in relation to products specified in Part 4 of Schedule 3B (iron a
 
 ## Annotations
 
-[^key-080b7a73ff1096abc9d0c9b85a242e96]: Textual amendment: Regs. 60E-60G inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2022/792/regulation/10/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))
+[^c-080b7a73ff1096abc9d0c9b85a242e96]: Textual amendment: Regs. 60E-60G inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2022/792/regulation/10/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))
 
-[^key-b8b457c15913511a64a5c8f77cc349f9]: Textual amendment: Words in reg. 60G heading omitted (21.4.2023) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2023/440/regulation/10/a)
+[^c-b8b457c15913511a64a5c8f77cc349f9]: Textual amendment: Words in reg. 60G heading omitted (21.4.2023) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2023/440/regulation/10/a)
 
-[^key-ec70ca75ea899b3cd29ce9ac05814e1b]: Textual amendment: Reg. 60G(1) omitted (21.4.2023) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2023/440/regulation/10/b)
+[^c-ec70ca75ea899b3cd29ce9ac05814e1b]: Textual amendment: Reg. 60G(1) omitted (21.4.2023) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2023/440/regulation/10/b)
 
-[^key-136a100789fdd45fe35b6d4519f98e85]: Textual amendment: Reg. 60G(1A)-(1D) inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [10(c)](https://www.legislation.gov.uk/uksi/2023/440/regulation/10/c)
+[^c-136a100789fdd45fe35b6d4519f98e85]: Textual amendment: Reg. 60G(1A)-(1D) inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [10(c)](https://www.legislation.gov.uk/uksi/2023/440/regulation/10/c)
 
-[^key-fc15a5d70c3b38a3f3d1035c73c816f4]: Textual amendment: Reg. 60G(1E)-(1H) inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/11/2)
+[^c-fc15a5d70c3b38a3f3d1035c73c816f4]: Textual amendment: Reg. 60G(1E)-(1H) inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/11/2)
 
-[^key-a64a7494491500bb555442d28ec0d334]: Textual amendment: Words in reg. 60G(2) substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [11(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/11/3)
+[^c-a64a7494491500bb555442d28ec0d334]: Textual amendment: Words in reg. 60G(2) substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [11(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/11/3)

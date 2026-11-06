@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 157. Commutation of small pensions[^key-90b63ddc637478d777c8cffb561f9061]
+## 157. Commutation of small pensions[^c-90b63ddc637478d777c8cffb561f9061]
 
 *Extent: S*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-90b63ddc637478d777c8cffb561f9061]: Commencement: [Reg. 157](https://www.legislation.gov.uk/ssi/2015/19/regulation/157) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-90b63ddc637478d777c8cffb561f9061]: Commencement: [Reg. 157](https://www.legislation.gov.uk/ssi/2015/19/regulation/157) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
 
 [^f00055]: Footnote: [S.I. 1997/785](https://www.legislation.gov.uk/uksi/1997/785). Regulation 2 was amended by [S.I. 2002/681](https://www.legislation.gov.uk/uksi/2002/681), [S.I. 2005/706](https://www.legislation.gov.uk/uksi/2005/706), [S.I. 2006/744](https://www.legislation.gov.uk/uksi/2006/744), [S.I. 2006/778](https://www.legislation.gov.uk/uksi/2006/778) and [S.I. 2009/2930](https://www.legislation.gov.uk/uksi/2009/2930).
 

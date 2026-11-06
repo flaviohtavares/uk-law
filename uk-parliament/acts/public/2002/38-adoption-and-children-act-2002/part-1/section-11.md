@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Fees[^key-12944133b9adc1c4469108e496494b6c][^key-2c2a8fde8edc830c02a08070ac92c24f]
+## 11. Fees[^c-12944133b9adc1c4469108e496494b6c][^c-2c2a8fde8edc830c02a08070ac92c24f]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-12944133b9adc1c4469108e496494b6c]: Commencement: S. 11 in force at 7.2.2004 for W. by [S.I. 2004/252](https://www.legislation.gov.uk/uksi/2004/252), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/252/article/2/b)
+[^c-12944133b9adc1c4469108e496494b6c]: Commencement: S. 11 in force at 7.2.2004 for W. by [S.I. 2004/252](https://www.legislation.gov.uk/uksi/2004/252), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/252/article/2/b)
 
-[^key-2c2a8fde8edc830c02a08070ac92c24f]: Commencement: S. 11 in force at 7.12.2004 for E. by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/e)
+[^c-2c2a8fde8edc830c02a08070ac92c24f]: Commencement: S. 11 in force at 7.12.2004 for E. by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/e)

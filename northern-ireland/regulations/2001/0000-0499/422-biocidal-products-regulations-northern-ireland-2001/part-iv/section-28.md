@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Exchange of information[^key-7a14abf8056b53fdda1b8cf2dde6b99e]
+## 28. Exchange of information[^c-7a14abf8056b53fdda1b8cf2dde6b99e]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ and “end of each quarter” shall be construed accordingly.
 
 ## Annotations
 
-[^key-7a14abf8056b53fdda1b8cf2dde6b99e]: Commencement: Reg. 28 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-7a14abf8056b53fdda1b8cf2dde6b99e]: Commencement: Reg. 28 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

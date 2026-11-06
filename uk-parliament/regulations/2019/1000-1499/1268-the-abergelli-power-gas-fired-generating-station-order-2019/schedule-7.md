@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 7 — STREETS TO BE STOPPED UP[^key-287f129df3f9781eb0500af05c6a6094]
+## SCHEDULE 7 — STREETS TO BE STOPPED UP[^c-287f129df3f9781eb0500af05c6a6094]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ Table 13
 
 ## Annotations
 
-[^key-287f129df3f9781eb0500af05c6a6094]: Commencement: Sch. 7 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
+[^c-287f129df3f9781eb0500af05c6a6094]: Commencement: Sch. 7 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)

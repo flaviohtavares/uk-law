@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Further provision about arrangements[^key-5792bd597eeda4407e70591a73e206f2][^key-23eb90523a630b5d47051729a1219270]
+## 18. Further provision about arrangements[^c-5792bd597eeda4407e70591a73e206f2][^c-23eb90523a630b5d47051729a1219270]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ After section 16F of the Children Act 2004 (inserted by section 17 of this Act) 
 
 ## Annotations
 
-[^key-5792bd597eeda4407e70591a73e206f2]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2017/16/section/18) in force at 19.3.2018 for specified purposes by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/346/regulation/3/d)
+[^c-5792bd597eeda4407e70591a73e206f2]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2017/16/section/18) in force at 19.3.2018 for specified purposes by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/346/regulation/3/d)
 
-[^key-23eb90523a630b5d47051729a1219270]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2017/16/section/18) in force at 29.6.2018 in so far as not already in force by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/g) (with [regs. 5-7](https://www.legislation.gov.uk/uksi/2018/497/regulation/5))
+[^c-23eb90523a630b5d47051729a1219270]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2017/16/section/18) in force at 29.6.2018 in so far as not already in force by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/g) (with [regs. 5-7](https://www.legislation.gov.uk/uksi/2018/497/regulation/5))

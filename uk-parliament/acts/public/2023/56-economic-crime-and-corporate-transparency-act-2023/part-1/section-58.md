@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Removal of option to abridge Companies Act accounts[^key-9f494c63a0c79d0aab09d02cbb08d9b0]
+## 58. Removal of option to abridge Companies Act accounts[^c-9f494c63a0c79d0aab09d02cbb08d9b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f494c63a0c79d0aab09d02cbb08d9b0]: Commencement: S. 58 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-9f494c63a0c79d0aab09d02cbb08d9b0]: Commencement: S. 58 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

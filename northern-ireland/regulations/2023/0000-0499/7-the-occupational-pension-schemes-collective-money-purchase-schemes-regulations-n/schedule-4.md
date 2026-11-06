@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 4 — Communication requirement[^key-c567ba7afc62e98938a1c1d4c270470d]
+## SCHEDULE 4 — Communication requirement[^c-c567ba7afc62e98938a1c1d4c270470d]
 
 *Extent: N.I.*
 
@@ -24,30 +24,30 @@ summary: ''
 
 Regulations 6 and 13
 
-### Interpretation[^key-c567ba7afc62e98938a1c1d4c270470d]
+### Interpretation[^c-c567ba7afc62e98938a1c1d4c270470d]
 
-**1.**[^key-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Preliminary[^key-c567ba7afc62e98938a1c1d4c270470d]
+### Preliminary[^c-c567ba7afc62e98938a1c1d4c270470d]
 
-**2.**[^key-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Functionality, quality and maintenance of IT systems[^key-c567ba7afc62e98938a1c1d4c270470d]
+### Functionality, quality and maintenance of IT systems[^c-c567ba7afc62e98938a1c1d4c270470d]
 
-**3.**[^key-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Resource planning[^key-c567ba7afc62e98938a1c1d4c270470d]
+### Resource planning[^c-c567ba7afc62e98938a1c1d4c270470d]
 
-**4.**[^key-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Quality assurance[^key-c567ba7afc62e98938a1c1d4c270470d]
+### Quality assurance[^c-c567ba7afc62e98938a1c1d4c270470d]
 
-**5.**[^key-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Member engagement[^key-c567ba7afc62e98938a1c1d4c270470d]
+### Member engagement[^c-c567ba7afc62e98938a1c1d4c270470d]
 
-**6.**[^key-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c567ba7afc62e98938a1c1d4c270470d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c567ba7afc62e98938a1c1d4c270470d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2023/7) revoked (28.7.2023) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/117)](https://www.legislation.gov.uk/nisr/2023/117), [regs. 1](https://www.legislation.gov.uk/nisr/2023/117/regulation/1), [36(a)](https://www.legislation.gov.uk/nisr/2023/117/regulation/36/a)
+[^c-c567ba7afc62e98938a1c1d4c270470d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2023/7) revoked (28.7.2023) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/117)](https://www.legislation.gov.uk/nisr/2023/117), [regs. 1](https://www.legislation.gov.uk/nisr/2023/117/regulation/1), [36(a)](https://www.legislation.gov.uk/nisr/2023/117/regulation/36/a)

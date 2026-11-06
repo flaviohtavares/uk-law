@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-This Order imposes on the Bank (designated as the resolution authority in the United Kingdom), the PRA and the FCA (designated as appropriate regulators in the United Kingdom)[^key-681ea4a1800c65992d55fec67e5dca94] procedural and other requirements with respect to planning and taking measures for the purpose of—
+This Order imposes on the Bank (designated as the resolution authority in the United Kingdom), the PRA and the FCA (designated as appropriate regulators in the United Kingdom)[^c-681ea4a1800c65992d55fec67e5dca94] procedural and other requirements with respect to planning and taking measures for the purpose of—
 
 - (a) restoring the financial position of—
   - (i) institutions;
@@ -30,4 +30,4 @@ This Order imposes on the Bank (designated as the resolution authority in the Un
 
 ## Annotations
 
-[^key-681ea4a1800c65992d55fec67e5dca94]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2014/3348/article/3) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-681ea4a1800c65992d55fec67e5dca94]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2014/3348/article/3) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -23,12 +23,12 @@ summary: ''
 The investor is a qualifying investor in relation to the relevant shares if the requirements of this Chapter are met as to—
 
 - (a) no connection with the issuing company (see section 163),
-- (b) no linked loans (see section 164), [^key-a2f8c6471acaa9421ec2f530b6eea3fe]...
-- (ba)[^key-b6390461049a84351573da47769a851a] existing shareholdings (see section 164A), and
+- (b) no linked loans (see section 164), [^c-a2f8c6471acaa9421ec2f530b6eea3fe]...
+- (ba)[^c-b6390461049a84351573da47769a851a] existing shareholdings (see section 164A), and
 - (c) no tax avoidance (see section 165).
 
 ## Annotations
 
-[^key-a2f8c6471acaa9421ec2f530b6eea3fe]: Textual amendment: Word in [s. 162(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/162/b) omitted (with effect in accordance with Sch. 5 para. 23 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/3)
+[^c-a2f8c6471acaa9421ec2f530b6eea3fe]: Textual amendment: Word in [s. 162(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/162/b) omitted (with effect in accordance with Sch. 5 para. 23 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/3)
 
-[^key-b6390461049a84351573da47769a851a]: Textual amendment: [S. 162(ba)](https://www.legislation.gov.uk/ukpga/2007/3/section/162/ba) inserted (with effect in accordance with Sch. 5 para. 23 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/3)
+[^c-b6390461049a84351573da47769a851a]: Textual amendment: [S. 162(ba)](https://www.legislation.gov.uk/ukpga/2007/3/section/162/ba) inserted (with effect in accordance with Sch. 5 para. 23 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/3)

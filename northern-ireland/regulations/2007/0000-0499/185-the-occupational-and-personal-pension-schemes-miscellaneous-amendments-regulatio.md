@@ -41,21 +41,21 @@ Coming into operation
 
 The Department for Social Development, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002], in relation to personal and occupational pensions makes the following Regulations in exercise of the powers conferred by that section, sections 1(1), 5(2B)(c), 8C(1)(a), 12(3), 16(1), 24(2)(b) and (4), 67(6), 109(1) and (2) and 177(2) to (4) of the Pension Schemes (Northern Ireland) Act 1993[^f00003], Articles 35(7), 40(1), 66A(3), 73(2)(b), 73B(8) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00004], Articles 3(5)(c) and 73(4) of the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00005], and now vested in it[^f00006], and Articles 165(1)(a), 200(1)(b) and (2), 203(1)(b), 206(4), 218(8)(c), 219(10), 226(2)(a), 236(1), 263(6), 264(1), 265(1), 268(1) and 287(3) of the Pensions (Northern Ireland) Order 2005[^f00007].
 
-## 1. Citation, commencement and interpretation[^key-27075f3404b269fa26eac051d039a085]
+## 1. Citation, commencement and interpretation[^c-27075f3404b269fa26eac051d039a085]
 
 (1) These Regulations may be cited as the Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 and shall come into operation on 6th April 2007.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00008] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Personal Pension Schemes (Disclosure of Information) Regulations[^key-c7af112e44c2a258f90b0edfad2f63bd]
+## 2. Amendment of the Personal Pension Schemes (Disclosure of Information) Regulations[^c-c7af112e44c2a258f90b0edfad2f63bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Occupational Pension Schemes (Preservation of Benefit) Regulations[^key-bd170be897392f3e1d13c147aa7b2c08]
+## 3. Amendment of the Occupational Pension Schemes (Preservation of Benefit) Regulations[^c-bd170be897392f3e1d13c147aa7b2c08]
 
 (1) The Occupational Pension Schemes (Preservation of Benefit) Regulations (Northern Ireland) 1991[^f00012] shall be amended in accordance with paragraphs (2) and (3).
 
-(2)[^key-0030a6688ce097931626d51de15f799b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0030a6688ce097931626d51de15f799b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In regulation 8 (early retirement or deferred retirement) for paragraph (2) substitute—
 
@@ -66,7 +66,7 @@ The Department for Social Development, being a Department designated[^f00001] fo
 
 .
 
-## 4. Amendment of the Occupational Pension Schemes (Contracting-out) Regulations[^key-921b95f03e2455cc8789257ba12a6340]
+## 4. Amendment of the Occupational Pension Schemes (Contracting-out) Regulations[^c-921b95f03e2455cc8789257ba12a6340]
 
 (1) The Occupational Pension Schemes (Contracting-out) Regulations 1996[^f00015] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -85,7 +85,7 @@ The Department for Social Development, being a Department designated[^f00001] fo
 
   .
 
-## 5. Amendment of the Protected Rights (Transfer Payment) Regulations[^key-67db6e70db857cb09278e44eb134407f]
+## 5. Amendment of the Protected Rights (Transfer Payment) Regulations[^c-67db6e70db857cb09278e44eb134407f]
 
 In regulation 1(2) of the Protected Rights (Transfer Payment) Regulations (Northern Ireland) 1996[^f00019] (interpretation) for the definition of “overseas scheme”[^f00020] substitute—
 
@@ -97,7 +97,7 @@ In regulation 1(2) of the Protected Rights (Transfer Payment) Regulations (North
 
 .
 
-## 6. Amendment of the Contracting-out (Transfer and Transfer Payment) Regulations[^key-3e397db5bda7279d6fe66e1105583dce]
+## 6. Amendment of the Contracting-out (Transfer and Transfer Payment) Regulations[^c-3e397db5bda7279d6fe66e1105583dce]
 
 In regulation 1(2) of the Contracting-out (Transfer and Transfer Payment) Regulations (Northern Ireland) 1996[^f00022] (interpretation) for the definition of “overseas scheme”[^f00023] substitute—
 
@@ -109,15 +109,15 @@ In regulation 1(2) of the Contracting-out (Transfer and Transfer Payment) Regula
 
 .
 
-## 7. Amendment of the Personal and Occupational Pension Schemes (Protected Rights) Regulations[^key-5cd34f66771653f554856f75511d1e20]
+## 7. Amendment of the Personal and Occupational Pension Schemes (Protected Rights) Regulations[^c-5cd34f66771653f554856f75511d1e20]
 
 In regulation 8 of the Personal and Occupational Pension Schemes (Protected Rights) Regulations (Northern Ireland) 1997[^f00024] (giving effect to protected rights by the provision of a lump sum) omit paragraph (2).
 
-## 8. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations[^key-c2cbea23c663ef43cbf19530a6bc854f]
+## 8. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations[^c-c2cbea23c663ef43cbf19530a6bc854f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of the Stakeholder Pension Schemes Regulations[^key-19fc43d549cbda371bee740d5bae9e3a]
+## 9. Amendment of the Stakeholder Pension Schemes Regulations[^c-19fc43d549cbda371bee740d5bae9e3a]
 
 In regulation 14 of the Stakeholder Pension Schemes Regulations (Northern Ireland) 2000[^f00028] (charges etc. - permitted reductions in members’ rights)—
 
@@ -128,7 +128,7 @@ In regulation 14 of the Stakeholder Pension Schemes Regulations (Northern Irelan
 
   .
 
-## 10. Amendment of the Occupational Pension Schemes (Winding up, etc.) Regulations[^key-0272e7a63a9de6a9859b2a688d36d95e]
+## 10. Amendment of the Occupational Pension Schemes (Winding up, etc.) Regulations[^c-0272e7a63a9de6a9859b2a688d36d95e]
 
 (1) The Occupational Pension Schemes (Winding up, etc.) Regulations (Northern Ireland) 2005[^f00029] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -148,7 +148,7 @@ In regulation 14 of the Stakeholder Pension Schemes Regulations (Northern Irelan
 
 (3) In regulation 8(4)(a) (entitlement to death benefits treated as arising before commencement of winding up period) for “former spouse” substitute “former spouse, former civil partner”.
 
-## 11. Amendment of the Occupational Pension Schemes (Fraud Compensation Payments and Miscellaneous Amendments) Regulations[^key-8325e7fcc5385ce92093a2f2eb3ead05]
+## 11. Amendment of the Occupational Pension Schemes (Fraud Compensation Payments and Miscellaneous Amendments) Regulations[^c-8325e7fcc5385ce92093a2f2eb3ead05]
 
 In regulation 2 of the Occupational Pension Schemes (Fraud Compensation Payments and Miscellaneous Amendments) Regulations (Northern Ireland) 2005[^f00030] (prescribed schemes)—
 
@@ -161,7 +161,7 @@ In regulation 2 of the Occupational Pension Schemes (Fraud Compensation Payments
   - (iii) omit sub-paragraph (k), and
 - (b) in paragraph (2) for “within paragraph (1)(a) to (k)” substitute “within paragraph (1)(a) to (j)”.
 
-## 12. Amendment of the Pension Schemes (Categories) Regulations[^key-72665569f2efdff074388d58b9ae30c3]
+## 12. Amendment of the Pension Schemes (Categories) Regulations[^c-72665569f2efdff074388d58b9ae30c3]
 
 In regulation 2 of the Pension Schemes (Categories) Regulations (Northern Ireland) 2005[^f00031] (prescription of certain pension schemes as occupational pension schemes) after paragraph (5) add—
 
@@ -169,7 +169,7 @@ In regulation 2 of the Pension Schemes (Categories) Regulations (Northern Irelan
 
 .
 
-## 13. Amendment of the Occupational Pension Schemes (Scheme Funding) Regulations[^key-a31e1d5982b40a5078eb84c6f65c3b61]
+## 13. Amendment of the Occupational Pension Schemes (Scheme Funding) Regulations[^c-a31e1d5982b40a5078eb84c6f65c3b61]
 
 (1) The Occupational Pension Schemes (Scheme Funding) Regulations (Northern Ireland) 2005[^f00033] shall be amended in accordance with paragraphs (2) to (4).
 
@@ -185,14 +185,14 @@ In regulation 2 of the Pension Schemes (Categories) Regulations (Northern Irelan
   - (iii) in head (i) for “is made only by the unanimous agreement” substitute “is made by the unanimous agreement”, and
   - (iv) in head (ii) for “one of the directors is a trustee who” substitute “one of the directors of the company”.
 
-(3)[^key-17df09240e0a417fd263515c27514d62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-17df09240e0a417fd263515c27514d62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In Schedule 4 (transitional provisions and savings) in paragraph 3—
 
 - (a) in sub-paragraph (4) omit the words from “and the trustees or managers have determined before that date” to the end of that sub-paragraph, and
 - (b) in sub-paragraph (5) for “the effective date they have determined” substitute “an effective date which is no earlier than 22nd September 2005 and not more than three years after the effective date of the last valuation they received under the 1995 Order”.
 
-## 14. Amendment of the Occupational Pension Schemes (Investment) Regulations[^key-a82633d1dab90d5d3e5ef516f2a6bd25]
+## 14. Amendment of the Occupational Pension Schemes (Investment) Regulations[^c-a82633d1dab90d5d3e5ef516f2a6bd25]
 
 (1) The Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 2005[^f00035] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -200,7 +200,7 @@ In regulation 2 of the Pension Schemes (Categories) Regulations (Northern Irelan
 
 (3) In regulation 12(1) (restrictions on employer-related investments) for “applies to trust schemes” substitute “applies to schemes”.
 
-## 15. Amendment of the Occupational Pension Schemes (Regulatory Own Funds) Regulations[^key-47783704fe0e7fb533e5f321ea8db06d]
+## 15. Amendment of the Occupational Pension Schemes (Regulatory Own Funds) Regulations[^c-47783704fe0e7fb533e5f321ea8db06d]
 
 (1) The Occupational Pension Schemes (Regulatory Own Funds) Regulations (Northern Ireland) 2005[^f00036] shall be amended in accordance with paragraphs (2) to (4).
 
@@ -220,7 +220,7 @@ In regulation 2 of the Pension Schemes (Categories) Regulations (Northern Irelan
   - (iii) in head (i) for “is made only by the unanimous agreement” substitute “is made by the unanimous agreement”, and
   - (iv) in head (ii) for “one of the directors is a trustee who” substitute “one of the directors of the company”.
 
-## 16. Amendment of the Occupational Pension Schemes (Cross-border Activities) Regulations[^key-f0f51191d4b2c6adb4076234d36aedb4]
+## 16. Amendment of the Occupational Pension Schemes (Cross-border Activities) Regulations[^c-f0f51191d4b2c6adb4076234d36aedb4]
 
 (1) The Occupational Pension Schemes (Cross-border Activities) Regulations (Northern Ireland) 2005[^f00038] shall be amended in accordance with paragraphs (2) to (9).
 
@@ -318,7 +318,7 @@ In regulation 2 of the Pension Schemes (Categories) Regulations (Northern Irelan
 
   .
 
-## 17. Amendment of the Occupational and Personal Pension Schemes (Consultation by Employers) Regulations[^key-da6bf47fd09cc8345729e4f368173204]
+## 17. Amendment of the Occupational and Personal Pension Schemes (Consultation by Employers) Regulations[^c-da6bf47fd09cc8345729e4f368173204]
 
 In regulation 4(4) of the Occupational and Personal Pension Schemes (Consultation by Employers) Regulations (Northern Ireland) 2006[^f00045] (excluded employers: occupational pension schemes) in the definition of “small occupational pension scheme”—
 
@@ -328,7 +328,7 @@ In regulation 4(4) of the Occupational and Personal Pension Schemes (Consultatio
   - (ii) in sub-paragraph (i) for “are made by the unanimous agreement of all the directors” substitute “is made by the unanimous agreement of the directors”, and
   - (iii) in sub-paragraph (ii) for “one of the directors is a trustee who” substitute “one of the directors of the company”.
 
-## 18. Amendment of the Occupational Pension Schemes (Trustees’ Knowledge and Understanding) Regulations[^key-53cef388320dd9b6d4c972a6faa85849]
+## 18. Amendment of the Occupational Pension Schemes (Trustees’ Knowledge and Understanding) Regulations[^c-53cef388320dd9b6d4c972a6faa85849]
 
 In regulation 2 of the Occupational Pension Schemes (Trustees’ Knowledge and Understanding) Regulations (Northern Ireland) 2006[^f00046] (exceptions for trustees of small schemes)—
 
@@ -338,7 +338,7 @@ In regulation 2 of the Occupational Pension Schemes (Trustees’ Knowledge and U
   - (ii) in sub-paragraph (a) for “all decisions made by the company in its capacity as trustee are made by the unanimous agreement of all the directors” substitute “any decision made by the company in its capacity as trustee is made by the unanimous agreement of the directors”, and
   - (iii) in sub-paragraph (b) for “one of the directors is a trustee who” substitute “one of the directors of the company”.
 
-## 19. Amendment of the Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations[^key-1855dbdbc73a9f4b7e26c138e5356713]
+## 19. Amendment of the Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations[^c-1855dbdbc73a9f4b7e26c138e5356713]
 
 (1) The Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations (Northern Ireland) 2006[^f00047] shall be amended in accordance with paragraphs (2) to (4).
 
@@ -376,7 +376,7 @@ In regulation 2 of the Occupational Pension Schemes (Trustees’ Knowledge and U
 
   .
 
-## 20. Revocations[^key-c4c0eca4a7399d945155c6dc3c6cb9b9]
+## 20. Revocations[^c-c4c0eca4a7399d945155c6dc3c6cb9b9]
 
 The Regulations specified in column 1 of the Schedule are revoked to the extent specified in column 3.
 
@@ -388,7 +388,7 @@ John O’Neill
 
 A senior officer of the Department for Social Development
 
-## SCHEDULE — Revocations[^key-047e7caadda7c99b597010804a614a7d]
+## SCHEDULE — Revocations[^c-047e7caadda7c99b597010804a614a7d]
 
 Regulation 20
 
@@ -471,19 +471,19 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00007]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255); Part III is modified in its application to partially guaranteed schemes by [S.R. 2005 No. 55](https://www.legislation.gov.uk/nisr/2005/55), in its application to hybrid schemes by [S.R. 2005 No. 84](https://www.legislation.gov.uk/nisr/2005/84) and in its application to multi-employer schemes by [S.R. 2005 No. 91](https://www.legislation.gov.uk/nisr/2005/91) (as amended by [S.R. 2005 Nos. 194](https://www.legislation.gov.uk/nisr/2005/194) and [357](https://www.legislation.gov.uk/nisr/2005/357)) and Part IV is modified by [S.R. 2005 Nos. 568](https://www.legislation.gov.uk/nisr/2005/568) and [570](https://www.legislation.gov.uk/nisr/2005/570)
 
-[^key-27075f3404b269fa26eac051d039a085]: Commencement: Reg. 1 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
+[^c-27075f3404b269fa26eac051d039a085]: Commencement: Reg. 1 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
 
 [^f00008]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-c7af112e44c2a258f90b0edfad2f63bd]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/185/regulation/2) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
+[^c-c7af112e44c2a258f90b0edfad2f63bd]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/185/regulation/2) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
 
-[^key-bd170be897392f3e1d13c147aa7b2c08]: Commencement: Reg. 3 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
+[^c-bd170be897392f3e1d13c147aa7b2c08]: Commencement: Reg. 3 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
 
 [^f00012]: Footnote: [S.R. 1991 No. 37](https://www.legislation.gov.uk/nisr/1991/37); relevant amending Regulations are [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300) and [S.R. 1996 No. 620](https://www.legislation.gov.uk/nisr/1996/620)
 
-[^key-0030a6688ce097931626d51de15f799b]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2007/185/regulation/3/2) revoked (1.12.2009) by [The Occupational and Personal Pension Schemes (Authorised Payments) Regulations (Northern Ireland) 2009 (S.R. 2009/365)](https://www.legislation.gov.uk/nisr/2009/365), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1), [10(a)](https://www.legislation.gov.uk/nisr/2009/365/regulation/10/a)
+[^c-0030a6688ce097931626d51de15f799b]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2007/185/regulation/3/2) revoked (1.12.2009) by [The Occupational and Personal Pension Schemes (Authorised Payments) Regulations (Northern Ireland) 2009 (S.R. 2009/365)](https://www.legislation.gov.uk/nisr/2009/365), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1), [10(a)](https://www.legislation.gov.uk/nisr/2009/365/regulation/10/a)
 
-[^key-921b95f03e2455cc8789257ba12a6340]: Commencement: Reg. 4 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
+[^c-921b95f03e2455cc8789257ba12a6340]: Commencement: Reg. 4 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
 
 [^f00015]: Footnote: [S.R. 1996 No. 493](https://www.legislation.gov.uk/nisr/1996/493); relevant amending Regulations are [S.R. 1999 No. 486](https://www.legislation.gov.uk/nisr/1999/486) and [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109)
 
@@ -493,7 +493,7 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00018]: Footnote: Sub-paragraph (e) was added by regulation 2(14)(b) of [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109)
 
-[^key-67db6e70db857cb09278e44eb134407f]: Commencement: Reg. 5 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
+[^c-67db6e70db857cb09278e44eb134407f]: Commencement: Reg. 5 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
 
 [^f00019]: Footnote: [S.R. 1996 No. 509](https://www.legislation.gov.uk/nisr/1996/509); relevant amending Regulations are [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
 
@@ -501,55 +501,55 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00021]: Footnote: Section 49 was amended by paragraph 40 of Schedule 3 to the Pensions (Northern Ireland) Order 1995, paragraph 61 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 and paragraph 6 of Schedule 10 to the Pensions (Northern Ireland) Order 2005
 
-[^key-3e397db5bda7279d6fe66e1105583dce]: Commencement: Reg. 6 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
+[^c-3e397db5bda7279d6fe66e1105583dce]: Commencement: Reg. 6 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
 
 [^f00022]: Footnote: [S.R. 1996 No. 618](https://www.legislation.gov.uk/nisr/1996/618); relevant amending Regulations are [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
 
 [^f00023]: Footnote: The definition of “overseas scheme” was amended by paragraph 10(2)(a) of the Schedule to [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
 
-[^key-5cd34f66771653f554856f75511d1e20]: Commencement: Reg. 7 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
+[^c-5cd34f66771653f554856f75511d1e20]: Commencement: Reg. 7 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
 
 [^f00024]: Footnote: [S.R. 1997 No. 56](https://www.legislation.gov.uk/nisr/1997/56); regulation 8 was amended by Article 32(3) of [S.I. 2006/744](https://www.legislation.gov.uk/uksi/2006/744)
 
-[^key-c2cbea23c663ef43cbf19530a6bc854f]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2007/185/regulation/8) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
+[^c-c2cbea23c663ef43cbf19530a6bc854f]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2007/185/regulation/8) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
 
-[^key-19fc43d549cbda371bee740d5bae9e3a]: Commencement: Reg. 9 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
+[^c-19fc43d549cbda371bee740d5bae9e3a]: Commencement: Reg. 9 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
 
 [^f00028]: Footnote: [S.R. 2000 No. 262](https://www.legislation.gov.uk/nisr/2000/262); regulation 14 was substituted by regulation 2(9) of [S.R. 2005 No. 110](https://www.legislation.gov.uk/nisr/2005/110)
 
-[^key-0272e7a63a9de6a9859b2a688d36d95e]: Commencement: Reg. 10 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
+[^c-0272e7a63a9de6a9859b2a688d36d95e]: Commencement: Reg. 10 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
 
 [^f00029]: Footnote: [S.R. 2005 No. 171](https://www.legislation.gov.uk/nisr/2005/171) to which there are amendments not relevant to these Regulations
 
-[^key-8325e7fcc5385ce92093a2f2eb3ead05]: Commencement: Reg. 11 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
+[^c-8325e7fcc5385ce92093a2f2eb3ead05]: Commencement: Reg. 11 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
 
 [^f00030]: Footnote: [S.R. 2005 No. 381](https://www.legislation.gov.uk/nisr/2005/381)
 
-[^key-72665569f2efdff074388d58b9ae30c3]: Commencement: Reg. 12 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
+[^c-72665569f2efdff074388d58b9ae30c3]: Commencement: Reg. 12 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
 
 [^f00031]: Footnote: [S.R. 2005 No. 413](https://www.legislation.gov.uk/nisr/2005/413)
 
 [^f00032]: Footnote: [1983 c.21](https://www.legislation.gov.uk/ukpga/1983/21); section 15 was repealed by Schedule 3 to the Pilotage Act [1987 (c.21)](https://www.legislation.gov.uk/ukpga/1987/21) and saved by paragraph 4 of Schedule 1 to that Act so that any pilots’ benefit fund established under section 15(1)(i) of the Pilotage Act 1983 continues in existence notwithstanding the repeal of section 15
 
-[^key-a31e1d5982b40a5078eb84c6f65c3b61]: Commencement: Reg. 13 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
+[^c-a31e1d5982b40a5078eb84c6f65c3b61]: Commencement: Reg. 13 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
 
 [^f00033]: Footnote: [S.R. 2005 No. 568](https://www.legislation.gov.uk/nisr/2005/568); relevant amending Regulations are [S.R. 2006 No. 297](https://www.legislation.gov.uk/nisr/2006/297)
 
 [^f00034]: Footnote: Regulation 17 was amended by regulation 5(3) of [S.R. 2006 No. 297](https://www.legislation.gov.uk/nisr/2006/297) and is modified in its application to an occupational pension scheme that is subject to the regulatory own fund requirement by regulation 5(2)(d) of [S.R. 2005 No. 570](https://www.legislation.gov.uk/nisr/2005/570)
 
-[^key-17df09240e0a417fd263515c27514d62]: Textual amendment: [Reg. 13(3)](https://www.legislation.gov.uk/nisr/2007/185/regulation/13/3) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
+[^c-17df09240e0a417fd263515c27514d62]: Textual amendment: [Reg. 13(3)](https://www.legislation.gov.uk/nisr/2007/185/regulation/13/3) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
 
-[^key-a82633d1dab90d5d3e5ef516f2a6bd25]: Commencement: Reg. 14 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
+[^c-a82633d1dab90d5d3e5ef516f2a6bd25]: Commencement: Reg. 14 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
 
 [^f00035]: Footnote: [S.R. 2005 No. 569](https://www.legislation.gov.uk/nisr/2005/569) to which there are amendments not relevant to these Regulations
 
-[^key-47783704fe0e7fb533e5f321ea8db06d]: Commencement: Reg. 15 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
+[^c-47783704fe0e7fb533e5f321ea8db06d]: Commencement: Reg. 15 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
 
 [^f00036]: Footnote: [S.R. 2005 No. 570](https://www.legislation.gov.uk/nisr/2005/570)
 
 [^f00037]: Footnote: [S.R. 2005 No. 581](https://www.legislation.gov.uk/nisr/2005/581)
 
-[^key-f0f51191d4b2c6adb4076234d36aedb4]: Commencement: Reg. 16 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
+[^c-f0f51191d4b2c6adb4076234d36aedb4]: Commencement: Reg. 16 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
 
 [^f00038]: Footnote: [S.R. 2005 No. 581](https://www.legislation.gov.uk/nisr/2005/581); relevant amending regulations are [S.R. 2006 Nos. 65](https://www.legislation.gov.uk/nisr/2006/65) and [160](https://www.legislation.gov.uk/nisr/2006/160)
 
@@ -565,15 +565,15 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00044]: Footnote: Article 66A was inserted by section 51 of the [Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2000/4)
 
-[^key-da6bf47fd09cc8345729e4f368173204]: Commencement: Reg. 17 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
+[^c-da6bf47fd09cc8345729e4f368173204]: Commencement: Reg. 17 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
 
 [^f00045]: Footnote: [S.R. 2006 No. 48](https://www.legislation.gov.uk/nisr/2006/48)
 
-[^key-53cef388320dd9b6d4c972a6faa85849]: Commencement: Reg. 18 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
+[^c-53cef388320dd9b6d4c972a6faa85849]: Commencement: Reg. 18 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
 
 [^f00046]: Footnote: [S.R. 2006 No. 120](https://www.legislation.gov.uk/nisr/2006/120)
 
-[^key-1855dbdbc73a9f4b7e26c138e5356713]: Commencement: Reg. 19 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
+[^c-1855dbdbc73a9f4b7e26c138e5356713]: Commencement: Reg. 19 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
 
 [^f00047]: Footnote: [S.R. 2006 No. 148](https://www.legislation.gov.uk/nisr/2006/148)
 
@@ -581,6 +581,6 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00049]: Footnote: [S.I. 1994/1432](https://www.legislation.gov.uk/uksi/1994/1432) to which there are amendments not relevant to these Regulations
 
-[^key-c4c0eca4a7399d945155c6dc3c6cb9b9]: Commencement: Reg. 20 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
+[^c-c4c0eca4a7399d945155c6dc3c6cb9b9]: Commencement: Reg. 20 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
 
-[^key-047e7caadda7c99b597010804a614a7d]: Commencement: Sch. in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)
+[^c-047e7caadda7c99b597010804a614a7d]: Commencement: Sch. in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1)

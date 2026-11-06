@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Setting standards[^key-b3cb31ee974d4a3c42f0e94c6b56c299]
+## 9. Setting standards[^c-b3cb31ee974d4a3c42f0e94c6b56c299]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3cb31ee974d4a3c42f0e94c6b56c299]: Commencement: S. 9 in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/g)
+[^c-b3cb31ee974d4a3c42f0e94c6b56c299]: Commencement: S. 9 in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/g)

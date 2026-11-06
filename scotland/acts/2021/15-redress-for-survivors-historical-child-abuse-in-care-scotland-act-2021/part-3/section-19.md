@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Meaning of “abuse”[^key-8d9c73167351fa25e934ea28c62e9fc9]
+## 19. Meaning of “abuse”[^c-8d9c73167351fa25e934ea28c62e9fc9]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d9c73167351fa25e934ea28c62e9fc9]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2021/15/section/19) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-8d9c73167351fa25e934ea28c62e9fc9]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2021/15/section/19) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

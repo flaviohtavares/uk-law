@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Review by the Governor[^key-d155ff366308da75b90ba06a91379957]
+## 13. Review by the Governor[^c-d155ff366308da75b90ba06a91379957]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ the person designated must serve on the person concerned a notice stating the re
 
 ## Annotations
 
-[^key-d155ff366308da75b90ba06a91379957]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2013/2870/article/13) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-d155ff366308da75b90ba06a91379957]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2013/2870/article/13) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

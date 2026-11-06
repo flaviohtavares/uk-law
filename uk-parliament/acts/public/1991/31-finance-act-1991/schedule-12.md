@@ -24,11 +24,11 @@ Section 54.
 
 ### General treatment of extra return
 
-**1.**[^key-dbb879b3fd6c1b4cdc780f9bf42074e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-dbb879b3fd6c1b4cdc780f9bf42074e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Accrued income scheme
 
-**2.**[^key-5f000fd2cd7fa8d2b1b63dd5c966ae85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5f000fd2cd7fa8d2b1b63dd5c966ae85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Deep discount securities
 
@@ -44,9 +44,9 @@ Section 54.
 
 ## Annotations
 
-[^key-dbb879b3fd6c1b4cdc780f9bf42074e2]: Textual amendment: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/1991/31/schedule/12/paragraph/1) repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-dbb879b3fd6c1b4cdc780f9bf42074e2]: Textual amendment: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/1991/31/schedule/12/paragraph/1) repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-5f000fd2cd7fa8d2b1b63dd5c966ae85]: Textual amendment: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/1991/31/schedule/12/paragraph/2) repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-5f000fd2cd7fa8d2b1b63dd5c966ae85]: Textual amendment: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/1991/31/schedule/12/paragraph/2) repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
 [^c12039341]: Textual amendment: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/1991/31/schedule/12/paragraph/3) repealed (the repeal coming into force in accordance with Ch. II of [Pt. IV](https://www.legislation.gov.uk/ukpga/1996/8/part/IV) of the amending Act) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 205](https://www.legislation.gov.uk/ukpga/1996/8/section/205), [Sch. 41 Pt. V(3)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/3) Note
 

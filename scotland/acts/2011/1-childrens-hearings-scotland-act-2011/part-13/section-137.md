@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 137. Duty to arrange children's hearing[^key-7a605f208123c7198513ecab32501ae7][^key-3ca895d49eb3f0529cf2ff16f6ad7819]
+## 137. Duty to arrange children's hearing[^c-7a605f208123c7198513ecab32501ae7][^c-3ca895d49eb3f0529cf2ff16f6ad7819]
 
 *Extent: S*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7a605f208123c7198513ecab32501ae7]: Commencement: S. 137 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-7a605f208123c7198513ecab32501ae7]: Commencement: S. 137 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-3ca895d49eb3f0529cf2ff16f6ad7819]: Modification: S. 137 applied (with modifications) (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Transfer of Children to Scotland - Effect of Orders made in England and Wales or Northern Ireland) Regulations 2013 (S.S.I. 2013/99)](https://www.legislation.gov.uk/ssi/2013/99), [regs. 1](https://www.legislation.gov.uk/ssi/2013/99/regulation/1), [7(4)](https://www.legislation.gov.uk/ssi/2013/99/regulation/7/4)
+[^c-3ca895d49eb3f0529cf2ff16f6ad7819]: Modification: S. 137 applied (with modifications) (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Transfer of Children to Scotland - Effect of Orders made in England and Wales or Northern Ireland) Regulations 2013 (S.S.I. 2013/99)](https://www.legislation.gov.uk/ssi/2013/99), [regs. 1](https://www.legislation.gov.uk/ssi/2013/99/regulation/1), [7(4)](https://www.legislation.gov.uk/ssi/2013/99/regulation/7/4)

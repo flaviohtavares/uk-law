@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Works in the Docks[^key-e37b5be336c5cf686a31fef8874564c8]
+## 18. Works in the Docks[^c-e37b5be336c5cf686a31fef8874564c8]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ in such manner and to such extent as may appear to DLRL to be necessary or conve
 
 ## Annotations
 
-[^key-e37b5be336c5cf686a31fef8874564c8]: Commencement: Art. 18 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-e37b5be336c5cf686a31fef8874564c8]: Commencement: Art. 18 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

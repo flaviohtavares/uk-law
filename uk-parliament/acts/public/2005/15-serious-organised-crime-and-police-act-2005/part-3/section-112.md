@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Power to direct a person to leave a place[^key-008002a52b43b2497195e2cb82961a93]
+## 112. Power to direct a person to leave a place[^c-008002a52b43b2497195e2cb82961a93]
 
 *Extent: E+W*
 
@@ -39,9 +39,9 @@ summary: ''
 
 (5) Any person who knowingly contravenes a direction given to him under this section is guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding 51 weeks or to a fine not exceeding level 4 on the standard scale, or to both.
 
-(6)[^key-f43f303971402f455b1990ad47e344b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-f43f303971402f455b1990ad47e344b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-780131e69a7aa8bc7311688402489984] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-780131e69a7aa8bc7311688402489984] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In subsection (3)(a)—
 
@@ -54,8 +54,8 @@ summary: ''
 
 ## Annotations
 
-[^key-008002a52b43b2497195e2cb82961a93]: Commencement: S. 112 in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(e)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/e)
+[^c-008002a52b43b2497195e2cb82961a93]: Commencement: S. 112 in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(e)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/e)
 
-[^key-f43f303971402f455b1990ad47e344b2]: Textual amendment: S. 112(6) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(t)(u)(lxi)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
+[^c-f43f303971402f455b1990ad47e344b2]: Textual amendment: S. 112(6) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(t)(u)(lxi)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
 
-[^key-780131e69a7aa8bc7311688402489984]: Textual amendment: S. 112(7) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(t)(u)(lxi)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
+[^c-780131e69a7aa8bc7311688402489984]: Textual amendment: S. 112(7) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(t)(u)(lxi)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)

@@ -35,104 +35,104 @@ laying down implementing technical standards with regard to the format and stand
 
 (Text with EEA relevance) (revoked)
 
-[^key-bf2fa5e75fce9acfc5713b90fb268c53]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bf2fa5e75fce9acfc5713b90fb268c53]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SECTION 1 — TEMPLATES FOR ALL SECURITISATIONS[^key-bf2fa5e75fce9acfc5713b90fb268c53]
+## SECTION 1 — TEMPLATES FOR ALL SECURITISATIONS[^c-bf2fa5e75fce9acfc5713b90fb268c53]
 
-### Article 1. Underlying exposures templates[^key-bf2fa5e75fce9acfc5713b90fb268c53]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 2. Investor report templates[^key-bf2fa5e75fce9acfc5713b90fb268c53]
+### Article 1. Underlying exposures templates[^c-bf2fa5e75fce9acfc5713b90fb268c53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECTION 2 — TEMPLATES FOR SECURITISATIONS FOR WHICH A PROSPECTUS HAS TO BE DRAWN UP (PUBLIC SECURITISATIONS)[^key-bf2fa5e75fce9acfc5713b90fb268c53]
-
-### Article 3. Inside information templates[^key-bf2fa5e75fce9acfc5713b90fb268c53]
+### Article 2. Investor report templates[^c-bf2fa5e75fce9acfc5713b90fb268c53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 4. Significant event templates[^key-bf2fa5e75fce9acfc5713b90fb268c53]
+## SECTION 2 — TEMPLATES FOR SECURITISATIONS FOR WHICH A PROSPECTUS HAS TO BE DRAWN UP (PUBLIC SECURITISATIONS)[^c-bf2fa5e75fce9acfc5713b90fb268c53]
+
+### Article 3. Inside information templates[^c-bf2fa5e75fce9acfc5713b90fb268c53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECTION 3 — COMMON PROVISIONS[^key-bf2fa5e75fce9acfc5713b90fb268c53]
-
-### Article 5. Format of information[^key-bf2fa5e75fce9acfc5713b90fb268c53]
+### Article 4. Significant event templates[^c-bf2fa5e75fce9acfc5713b90fb268c53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. Entry into force[^key-bf2fa5e75fce9acfc5713b90fb268c53]
+## SECTION 3 — COMMON PROVISIONS[^c-bf2fa5e75fce9acfc5713b90fb268c53]
+
+### Article 5. Format of information[^c-bf2fa5e75fce9acfc5713b90fb268c53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf2fa5e75fce9acfc5713b90fb268c53]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Article 6. Entry into force[^c-bf2fa5e75fce9acfc5713b90fb268c53]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-bf2fa5e75fce9acfc5713b90fb268c53]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — Field formats[^key-bf2fa5e75fce9acfc5713b90fb268c53]
+## ANNEX I — Field formats[^c-bf2fa5e75fce9acfc5713b90fb268c53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Underlying exposures template — Residential real estate (RRE)[^key-bf2fa5e75fce9acfc5713b90fb268c53]
+## ANNEX II — Underlying exposures template — Residential real estate (RRE)[^c-bf2fa5e75fce9acfc5713b90fb268c53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — Underlying exposures template — Commercial real estate (CRE)[^key-bf2fa5e75fce9acfc5713b90fb268c53]
+## ANNEX III — Underlying exposures template — Commercial real estate (CRE)[^c-bf2fa5e75fce9acfc5713b90fb268c53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV — Underlying exposures template — Corporate[^key-bf2fa5e75fce9acfc5713b90fb268c53]
+## ANNEX IV — Underlying exposures template — Corporate[^c-bf2fa5e75fce9acfc5713b90fb268c53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX V — Underlying exposures template — Automobile[^key-bf2fa5e75fce9acfc5713b90fb268c53]
+## ANNEX V — Underlying exposures template — Automobile[^c-bf2fa5e75fce9acfc5713b90fb268c53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VI — Underlying exposures template — Consumer[^key-bf2fa5e75fce9acfc5713b90fb268c53]
+## ANNEX VI — Underlying exposures template — Consumer[^c-bf2fa5e75fce9acfc5713b90fb268c53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VII — Underlying exposures template — Credit card[^key-bf2fa5e75fce9acfc5713b90fb268c53]
+## ANNEX VII — Underlying exposures template — Credit card[^c-bf2fa5e75fce9acfc5713b90fb268c53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VIII — Underlying exposures template — Leasing[^key-bf2fa5e75fce9acfc5713b90fb268c53]
+## ANNEX VIII — Underlying exposures template — Leasing[^c-bf2fa5e75fce9acfc5713b90fb268c53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IX — Underlying exposures template — Esoteric[^key-bf2fa5e75fce9acfc5713b90fb268c53]
+## ANNEX IX — Underlying exposures template — Esoteric[^c-bf2fa5e75fce9acfc5713b90fb268c53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX X — Underlying exposures template — Add-on for non-performing exposures[^key-bf2fa5e75fce9acfc5713b90fb268c53]
+## ANNEX X — Underlying exposures template — Add-on for non-performing exposures[^c-bf2fa5e75fce9acfc5713b90fb268c53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XI — Underlying exposures template — Asset-backed commercial paper[^key-bf2fa5e75fce9acfc5713b90fb268c53]
+## ANNEX XI — Underlying exposures template — Asset-backed commercial paper[^c-bf2fa5e75fce9acfc5713b90fb268c53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XII — Investor report template — Non-asset backed commercial paper securitisation[^key-bf2fa5e75fce9acfc5713b90fb268c53]
+## ANNEX XII — Investor report template — Non-asset backed commercial paper securitisation[^c-bf2fa5e75fce9acfc5713b90fb268c53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XIII — Investor report template — Asset backed commercial paper securitisation[^key-bf2fa5e75fce9acfc5713b90fb268c53]
+## ANNEX XIII — Investor report template — Asset backed commercial paper securitisation[^c-bf2fa5e75fce9acfc5713b90fb268c53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XIV — Inside information or significant event template — Non-asset backed commercial paper securitisation[^key-bf2fa5e75fce9acfc5713b90fb268c53]
+## ANNEX XIV — Inside information or significant event template — Non-asset backed commercial paper securitisation[^c-bf2fa5e75fce9acfc5713b90fb268c53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XV — Inside information or significant event template — Asset backed commercial paper securitisation[^key-bf2fa5e75fce9acfc5713b90fb268c53]
+## ANNEX XV — Inside information or significant event template — Asset backed commercial paper securitisation[^c-bf2fa5e75fce9acfc5713b90fb268c53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bf2fa5e75fce9acfc5713b90fb268c53]: Textual amendment: Regulation revoked (1.11.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/891](https://www.legislation.gov.uk/uksi/2024/891), [reg. 2(d)(v)](https://www.legislation.gov.uk/uksi/2024/891/regulation/2/d/v)
+[^c-bf2fa5e75fce9acfc5713b90fb268c53]: Textual amendment: Regulation revoked (1.11.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/891](https://www.legislation.gov.uk/uksi/2024/891), [reg. 2(d)(v)](https://www.legislation.gov.uk/uksi/2024/891/regulation/2/d/v)

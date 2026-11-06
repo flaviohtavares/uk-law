@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Social housing leases: remedying hazards[^key-893f8e0bab8fc0f83a183ca54f8add03][^key-6997dfff0c160e62a5c711688c0c1734]
+## 42. Social housing leases: remedying hazards[^c-893f8e0bab8fc0f83a183ca54f8add03][^c-6997dfff0c160e62a5c711688c0c1734]
 
 *Extent: E+W*
 
@@ -104,6 +104,6 @@ After section 10 of the Landlord and Tenant Act 1985 insert—
 
 ## Annotations
 
-[^key-893f8e0bab8fc0f83a183ca54f8add03]: Commencement: S. 42 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-893f8e0bab8fc0f83a183ca54f8add03]: Commencement: S. 42 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-6997dfff0c160e62a5c711688c0c1734]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2023/36/section/42) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/t)
+[^c-6997dfff0c160e62a5c711688c0c1734]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2023/36/section/42) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/t)

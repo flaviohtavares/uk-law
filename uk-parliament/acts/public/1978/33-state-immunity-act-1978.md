@@ -29,7 +29,7 @@ State Immunity Act 1978
 
 1978 c.33
 
-An Act to make new provision with respect to proceedings in the United Kingdom by or against other States; to provide for the effect of judgments given against the United Kingdom in the courts of States parties to the European Convention on State Immunity; to make new provision with respect to the immunities and privileges of heads of State; and for connected purposes.[^key-79593194cba67f03083688a659f94b44]
+An Act to make new provision with respect to proceedings in the United Kingdom by or against other States; to provide for the effect of judgments given against the United Kingdom in the courts of States parties to the European Convention on State Immunity; to make new provision with respect to the immunities and privileges of heads of State; and for connected purposes.[^c-79593194cba67f03083688a659f94b44]
 
 \[20th July 1978\]
 
@@ -91,7 +91,7 @@ but neither paragraph of subsection (1) above applies to a contract of employmen
 (2) Subject to subsections (3) and (4) below, this section does not apply if—
 
 - (a) at the time when the proceedings are brought the individual is a national of the State concerned; or
-- (b) the State concerned is a party to the European Convention on State Immunity and[^key-d4c7fc018d6b74e33f50051052d1bde2] at the time when the contract was made the individual was neither a national of the United Kingdom nor habitually resident there; or
+- (b) the State concerned is a party to the European Convention on State Immunity and[^c-d4c7fc018d6b74e33f50051052d1bde2] at the time when the contract was made the individual was neither a national of the United Kingdom nor habitually resident there; or
 - (c) the parties to the contract have otherwise agreed in writing.
 
 (3) Where the work is for an office, agency or establishment maintained by the State in the United Kingdom for commercial purposes, subsection (2)(*a*) and (*b*) above do not exclude the application of this section unless the individual was, at the time when the contract was made, habitually resident in that State.
@@ -104,7 +104,7 @@ but neither paragraph of subsection (1) above applies to a contract of employmen
 - (b) a person who under the British Nationality Act 1981 is a British subject; or
 - (c) a British protected person (within the meaning of that Act)
 
-(6)[^key-a2088fc4253b493d3effb5d2db16d261] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-a2088fc4253b493d3effb5d2db16d261] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 5. Personal injuries and damage to property.
 
@@ -183,7 +183,7 @@ if, at the time when the cause of action arose, the ship was in use or intended 
 
 (6) Sections 3 to 5 above do not apply to proceedings of the kind described in subsection (1) above if the State in question is a party to the Brussels Convention and the claim relates to the operation of a ship owned or operated by that State, the carriage of cargo or passengers on any such ship or the carriage of cargo owned by that State on any other ship.
 
-#### 11. Value added tax, customs duties etc.[^key-62fe504118d46606a3e9db85049fe80f]
+#### 11. Value added tax, customs duties etc.[^c-62fe504118d46606a3e9db85049fe80f]
 
 A State is not immune as respects proceedings relating to its liability for—
 
@@ -194,7 +194,7 @@ A State is not immune as respects proceedings relating to its liability for—
 
 #### 12. Service of process and judgments in default of appearance.[^c910081]
 
-(1) Any writ or other document required to be served for instituting proceedings against a State shall be served by being transmitted through the Foreign, Commonwealth and Development Office[^key-26b8a4e1303fd368ca20917df21fc253] to the Ministry of Foreign Affairs of the State and service shall be deemed to have been effected when the writ or document is received at the Ministry.
+(1) Any writ or other document required to be served for instituting proceedings against a State shall be served by being transmitted through the Foreign, Commonwealth and Development Office[^c-26b8a4e1303fd368ca20917df21fc253] to the Ministry of Foreign Affairs of the State and service shall be deemed to have been effected when the writ or document is received at the Ministry.
 
 (2) Any time for entering an appearance (whether prescribed by rules of court or otherwise) shall begin to run two months after the date on which the writ or document is received as aforesaid.
 
@@ -202,7 +202,7 @@ A State is not immune as respects proceedings relating to its liability for—
 
 (4) No judgment in default of appearance shall be given against a State except on proof that subsection (1) above has been complied with and that the time for entering an appearance as extended by subsection (2) above has expired.
 
-(5) A copy of any judgment given against a State in default of appearance shall be transmitted through the Foreign, Commonwealth and Development Office[^key-a5b95043644460e72004a7789f62a749] to the Ministry of Foreign Affairs of that State and any time for applying to have the judgment set aside (whether prescribed by rules of court or otherwise) shall begin to run two months after the date on which the copy of the judgment is received at the Ministry.
+(5) A copy of any judgment given against a State in default of appearance shall be transmitted through the Foreign, Commonwealth and Development Office[^c-a5b95043644460e72004a7789f62a749] to the Ministry of Foreign Affairs of that State and any time for applying to have the judgment set aside (whether prescribed by rules of court or otherwise) shall begin to run two months after the date on which the copy of the judgment is received at the Ministry.
 
 (6) Subsection (1) above does not prevent the service of a writ or other document in any manner to which the State has agreed and subsections (2) and (4) above do not apply where service is effected in any such manner.
 
@@ -217,12 +217,12 @@ A State is not immune as respects proceedings relating to its liability for—
 - (a) relief shall not be given against a State by way of injunction or order for specific performance or for the recovery of land or other property; and
 - (b) the property of a State shall not be subject to any process for the enforcement of a judgment or arbitration award or, in an action in rem, for its arrest, detention or sale.
 
-(2A)[^key-e248778daca5d636a3eab841a2c78440] Subject to subsection (3) below—
+(2A)[^c-e248778daca5d636a3eab841a2c78440] Subject to subsection (3) below—
 
 - (a) where, on a complaint under section 111 of the Employment Rights Act 1996, an employment tribunal finds that a member of the staff of a diplomatic mission or a member of the consular staff of a consular post was unfairly dismissed, relief shall not be given against the State concerned by way of an order under section 113 of that Act; and
 - (b) where, on a complaint under Article 145 of the Employment Rights (Northern Ireland) Order 1996, an industrial tribunal finds that a member of the staff of a diplomatic mission or a member of the consular staff of a consular post was unfairly dismissed, relief shall not be given against the State concerned by way of an order under Article 147 of that Order.
 
-(3) Subsections (2) and (2A) above do[^key-fc3f3debd82eb58bacd905e687d3b6a2] not prevent the giving of any relief or the issue of any process with the written consent of the State concerned; and any such consent (which may be contained in a prior agreement) may be expressed so as to apply to a limited extent or generally; but a provision merely submitting to the jurisdiction of the courts is not to be regarded as a consent for the purposes of this subsection.
+(3) Subsections (2) and (2A) above do[^c-fc3f3debd82eb58bacd905e687d3b6a2] not prevent the giving of any relief or the issue of any process with the written consent of the State concerned; and any such consent (which may be contained in a prior agreement) may be expressed so as to apply to a limited extent or generally; but a provision merely submitting to the jurisdiction of the courts is not to be regarded as a consent for the purposes of this subsection.
 
 (4)[^c910083] Subsection (2)(*b*) above does not prevent the issue of any process in respect of property which is for the time being in use or intended for use for commercial purposes; but, in a case not falling within section 10 above, this subsection applies to property of a State party to the European Convention on State Immunity only if—
 
@@ -240,7 +240,7 @@ A State is not immune as respects proceedings relating to its liability for—
 
 - (c) any reference to “**process**” shall be construed as a reference to “diligence”, any reference to “the issue of any process” as a reference to “the doing of diligence” and the reference in subsection (4)(*b*) above to “an arbitration award” as a reference to “a decree arbitral”.
 
-(7)[^key-e32b77f59fd53f1ff3541056e058a342] In subsection (2A) above—
+(7)[^c-e32b77f59fd53f1ff3541056e058a342] In subsection (2A) above—
 
 - “**member of the consular staff of a consular post**” is to be construed in accordance with Article 1(h) of the Vienna Convention on Consular Relations done at Vienna on 24 April 1963; and
 - “**member of the staff of a diplomatic mission**” is to be construed in accordance with Article 1(c) of the Vienna Convention on Diplomatic Relations done at Vienna on 18 April 1961.
@@ -285,13 +285,13 @@ Her Majesty may by Order in Council provide for restricting or, as the case may 
 
 (1) This Part of this Act does not affect any immunity or privilege conferred by the [^c910086]Diplomatic Privileges Act 1964 or the [^c910087]Consular Relations Act 1968; and—
 
-- (a)[^key-f959eb8a66c4257636913cb69dd60177] section 4 above does not apply to proceedings relating to a contract of employment between a State and an individual if the individual is or was employed under the contract as a diplomatic agent or consular officer;
+- (a)[^c-f959eb8a66c4257636913cb69dd60177] section 4 above does not apply to proceedings relating to a contract of employment between a State and an individual if the individual is or was employed under the contract as a diplomatic agent or consular officer;
 - (aa) section 4 above does not apply to proceedings relating to a contract of employment between a State and an individual if the individual is or was employed under the contract as a member of a diplomatic mission (other than a diplomatic agent) or as a member of a consular post (other than a consular officer) and either—
   - (i) the State entered into the contract in the exercise of sovereign authority; or
   - (ii) the State engaged in the conduct complained of in the exercise of sovereign authority;
 - (b) section 6(1) above does not apply to proceedings concerning a State’s title to or its possession of property used for the purposes of a diplomatic mission.
 
-(1A)[^key-02f167b7e8c9998f92b6c9b3e8382cb4] In subsection (1)—
+(1A)[^c-02f167b7e8c9998f92b6c9b3e8382cb4] In subsection (1)—
 
 - “**consular officer**” is to be construed in accordance with Article 1(d) of the Vienna Convention on Consular Relations done at Vienna on 24 April 1963;
 - “**diplomatic agent**” is to be construed in accordance with Article 1(e) of the Vienna Convention on Diplomatic Relations done at Vienna on 18 April 1961;
@@ -320,7 +320,7 @@ Her Majesty may by Order in Council provide for restricting or, as the case may 
 
 (4) In sections 3(1), 4(1), 5 and 16(2) above references to the United Kingdom include references to its territorial waters and any area designated under section 1(7) of the [^c910090]Continental Shelf Act 1964.
 
-(4A)[^key-f4ad2feba9ff9f17e0dc2bf897aaf195] In sections 4 and 16(1) above references to proceedings relating to a contract of employment include references to proceedings between the parties to such a contract in respect of any statutory rights or duties to which they are entitled or subject as employer or employee.
+(4A)[^c-f4ad2feba9ff9f17e0dc2bf897aaf195] In sections 4 and 16(1) above references to proceedings relating to a contract of employment include references to proceedings between the parties to such a contract in respect of any statutory rights or duties to which they are entitled or subject as employer or employee.
 
 (5) In relation to Scotland in this Part of this Act “**action in rem**” means such an action only in relation to Admiralty proceedings.
 
@@ -431,39 +431,39 @@ entered into before that date.
 
 ## Annotations
 
-[^key-79593194cba67f03083688a659f94b44]: Modification: Act extended (with modifications) by [S.I. 1979/458](https://www.legislation.gov.uk/uksi/1979/458), [art. 2](https://www.legislation.gov.uk/uksi/1979/458/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/1979/458/schedule/1), [2](https://www.legislation.gov.uk/uksi/1979/458/schedule/2) (as amended (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/7))
+[^c-79593194cba67f03083688a659f94b44]: Modification: Act extended (with modifications) by [S.I. 1979/458](https://www.legislation.gov.uk/uksi/1979/458), [art. 2](https://www.legislation.gov.uk/uksi/1979/458/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/1979/458/schedule/1), [2](https://www.legislation.gov.uk/uksi/1979/458/schedule/2) (as amended (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/7))
 
 [^c910075]: Modification: Pt. I (ss. 1-17) applied (7.12.1993) by [S.I. 1993/2809](https://www.legislation.gov.uk/uksi/1993/2809), [art.2](https://www.legislation.gov.uk/uksi/1993/2809/article/2).
 
-[^key-d4c7fc018d6b74e33f50051052d1bde2]: Textual amendment: Words in [s. 4(2)(b)](https://www.legislation.gov.uk/ukpga/1978/33/section/4/2/b) inserted (23.2.2023) by [The State Immunity Act 1978 (Remedial) Order 2023 (S.I. 2023/112)](https://www.legislation.gov.uk/uksi/2023/112), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/112/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2023/112/article/3/a) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/112/article/1/3))
+[^c-d4c7fc018d6b74e33f50051052d1bde2]: Textual amendment: Words in [s. 4(2)(b)](https://www.legislation.gov.uk/ukpga/1978/33/section/4/2/b) inserted (23.2.2023) by [The State Immunity Act 1978 (Remedial) Order 2023 (S.I. 2023/112)](https://www.legislation.gov.uk/uksi/2023/112), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/112/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2023/112/article/3/a) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/112/article/1/3))
 
 [^c910076]: Textual amendment: Words substituted by [British Nationality Act 1981 (c. 61, SIF 87)](https://www.legislation.gov.uk/ukpga/1981/61), [s. 52(6)](https://www.legislation.gov.uk/ukpga/1981/61/section/52/6), [Sch. 7](https://www.legislation.gov.uk/ukpga/1981/61/schedule/7)
 
 [^c910077]: Textual amendment: Words inserted by [S.I. 1986/948](https://www.legislation.gov.uk/uksi/1986/948), [art. 8](https://www.legislation.gov.uk/uksi/1986/948/article/8), [Sch.](https://www.legislation.gov.uk/uksi/1986/948/schedule)
 
-[^key-a2088fc4253b493d3effb5d2db16d261]: Textual amendment: [S. 4(6)](https://www.legislation.gov.uk/ukpga/1978/33/section/4/6) omitted (23.2.2023) by virtue of [The State Immunity Act 1978 (Remedial) Order 2023 (S.I. 2023/112)](https://www.legislation.gov.uk/uksi/2023/112), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/112/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2023/112/article/3/b) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/112/article/1/3))
+[^c-a2088fc4253b493d3effb5d2db16d261]: Textual amendment: [S. 4(6)](https://www.legislation.gov.uk/ukpga/1978/33/section/4/6) omitted (23.2.2023) by virtue of [The State Immunity Act 1978 (Remedial) Order 2023 (S.I. 2023/112)](https://www.legislation.gov.uk/uksi/2023/112), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/112/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2023/112/article/3/b) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/112/article/1/3))
 
 [^c910078]: Modification: S. 7 extended by [Patents, Designs and Marks Act 1986 (c. 39, SIF 67A)](https://www.legislation.gov.uk/ukpga/1986/39), [s. 2](https://www.legislation.gov.uk/ukpga/1986/39/section/2), [Sch. 2 para. 1(2)(g)](https://www.legislation.gov.uk/ukpga/1986/39/schedule/2/paragraph/1/2/g)
 
 [^c910079]: Modification: S. 7(a)(b) amended (31.10.1994) by [1994 c. 26](https://www.legislation.gov.uk/ukpga/1994/26), [s. 106(1)](https://www.legislation.gov.uk/ukpga/1994/26/section/106/1), [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/ukpga/1994/26/schedule/4/paragraph/1/2); [S.I. 1994/2550](https://www.legislation.gov.uk/uksi/1994/2550), [art. 2](https://www.legislation.gov.uk/uksi/1994/2550/article/2)
 
-[^key-62fe504118d46606a3e9db85049fe80f]: Modification: S. 11 modified (E.W.) (19.8.2009 for E.) by [Business Rate Supplements Act 2009 (c. 7)](https://www.legislation.gov.uk/ukpga/2009/7), [ss. 21(5)](https://www.legislation.gov.uk/ukpga/2009/7/section/21/5), [32](https://www.legislation.gov.uk/ukpga/2009/7/section/32) (with [s. 31](https://www.legislation.gov.uk/ukpga/2009/7/section/31)); [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+[^c-62fe504118d46606a3e9db85049fe80f]: Modification: S. 11 modified (E.W.) (19.8.2009 for E.) by [Business Rate Supplements Act 2009 (c. 7)](https://www.legislation.gov.uk/ukpga/2009/7), [ss. 21(5)](https://www.legislation.gov.uk/ukpga/2009/7/section/21/5), [32](https://www.legislation.gov.uk/ukpga/2009/7/section/32) (with [s. 31](https://www.legislation.gov.uk/ukpga/2009/7/section/31)); [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
 
 [^c910081]: Modification: Ss. 12, 13, 14(3)(4) extended by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 31(4)](https://www.legislation.gov.uk/ukpga/1982/27/section/31/4), [53](https://www.legislation.gov.uk/ukpga/1982/27/section/53), [Sch. 13 Pt. II para. 7](https://www.legislation.gov.uk/ukpga/1982/27/schedule/13/part/II/paragraph/7)
 
-[^key-26b8a4e1303fd368ca20917df21fc253]: Textual amendment: Words in s. 12(1) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/5)
+[^c-26b8a4e1303fd368ca20917df21fc253]: Textual amendment: Words in s. 12(1) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/5)
 
-[^key-a5b95043644460e72004a7789f62a749]: Textual amendment: Words in s. 12(5) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/5)
+[^c-a5b95043644460e72004a7789f62a749]: Textual amendment: Words in s. 12(5) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/5)
 
 [^c910082]: Modification: Ss. 12, 13, 14(3)(4) extended by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 31(4)](https://www.legislation.gov.uk/ukpga/1982/27/section/31/4), [53](https://www.legislation.gov.uk/ukpga/1982/27/section/53), [Sch. 13 Pt. II para. 7](https://www.legislation.gov.uk/ukpga/1982/27/schedule/13/part/II/paragraph/7)
 
-[^key-e248778daca5d636a3eab841a2c78440]: Textual amendment: [S. 13(2A)](https://www.legislation.gov.uk/ukpga/1978/33/section/13/2A) inserted (23.2.2023) by [The State Immunity Act 1978 (Remedial) Order 2023 (S.I. 2023/112)](https://www.legislation.gov.uk/uksi/2023/112), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/112/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2023/112/article/4/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/112/article/1/3))
+[^c-e248778daca5d636a3eab841a2c78440]: Textual amendment: [S. 13(2A)](https://www.legislation.gov.uk/ukpga/1978/33/section/13/2A) inserted (23.2.2023) by [The State Immunity Act 1978 (Remedial) Order 2023 (S.I. 2023/112)](https://www.legislation.gov.uk/uksi/2023/112), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/112/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2023/112/article/4/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/112/article/1/3))
 
-[^key-fc3f3debd82eb58bacd905e687d3b6a2]: Textual amendment: Words in [s. 13(3)](https://www.legislation.gov.uk/ukpga/1978/33/section/13/3) substituted (23.2.2023) by [The State Immunity Act 1978 (Remedial) Order 2023 (S.I. 2023/112)](https://www.legislation.gov.uk/uksi/2023/112), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/112/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2023/112/article/4/3) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/112/article/1/3))
+[^c-fc3f3debd82eb58bacd905e687d3b6a2]: Textual amendment: Words in [s. 13(3)](https://www.legislation.gov.uk/ukpga/1978/33/section/13/3) substituted (23.2.2023) by [The State Immunity Act 1978 (Remedial) Order 2023 (S.I. 2023/112)](https://www.legislation.gov.uk/uksi/2023/112), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/112/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2023/112/article/4/3) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/112/article/1/3))
 
 [^c910083]: Modification: S. 13(4) excluded (1.11.1997) by [S.I. 1997/2591](https://www.legislation.gov.uk/uksi/1997/2591), [arts. 2](https://www.legislation.gov.uk/uksi/1997/2591/article/2), [3](https://www.legislation.gov.uk/uksi/1997/2591/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1997/2591/schedule)
 
-[^key-e32b77f59fd53f1ff3541056e058a342]: Textual amendment: [S. 13(7)](https://www.legislation.gov.uk/ukpga/1978/33/section/13/7) inserted (23.2.2023) by [The State Immunity Act 1978 (Remedial) Order 2023 (S.I. 2023/112)](https://www.legislation.gov.uk/uksi/2023/112), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/112/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2023/112/article/4/4) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/112/article/1/3))
+[^c-e32b77f59fd53f1ff3541056e058a342]: Textual amendment: [S. 13(7)](https://www.legislation.gov.uk/ukpga/1978/33/section/13/7) inserted (23.2.2023) by [The State Immunity Act 1978 (Remedial) Order 2023 (S.I. 2023/112)](https://www.legislation.gov.uk/uksi/2023/112), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/112/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2023/112/article/4/4) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/112/article/1/3))
 
 [^c910084]: Modification: Ss. 12, 13, 14(3)(4) extended by [Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3)](https://www.legislation.gov.uk/ukpga/1982/27), [ss. 31(4)](https://www.legislation.gov.uk/ukpga/1982/27/section/31/4), [53](https://www.legislation.gov.uk/ukpga/1982/27/section/53), [Sch. 13 Pt. II para. 7](https://www.legislation.gov.uk/ukpga/1982/27/schedule/13/part/II/paragraph/7)
 
@@ -471,9 +471,9 @@ entered into before that date.
 
 [^c910087]: Marginal citation: [1968 c. 18](https://www.legislation.gov.uk/ukpga/1968/18).
 
-[^key-f959eb8a66c4257636913cb69dd60177]: Textual amendment: [S. 16(1)(a)](https://www.legislation.gov.uk/ukpga/1978/33/section/16/1/a)[(aa)](https://www.legislation.gov.uk/ukpga/1978/33/section/16/1/aa) substituted for [s. 16(1)(a)](https://www.legislation.gov.uk/ukpga/1978/33/section/16/1/a) (23.2.2023) by [The State Immunity Act 1978 (Remedial) Order 2023 (S.I. 2023/112)](https://www.legislation.gov.uk/uksi/2023/112), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/112/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2023/112/article/5/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/112/article/1/3))
+[^c-f959eb8a66c4257636913cb69dd60177]: Textual amendment: [S. 16(1)(a)](https://www.legislation.gov.uk/ukpga/1978/33/section/16/1/a)[(aa)](https://www.legislation.gov.uk/ukpga/1978/33/section/16/1/aa) substituted for [s. 16(1)(a)](https://www.legislation.gov.uk/ukpga/1978/33/section/16/1/a) (23.2.2023) by [The State Immunity Act 1978 (Remedial) Order 2023 (S.I. 2023/112)](https://www.legislation.gov.uk/uksi/2023/112), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/112/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2023/112/article/5/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/112/article/1/3))
 
-[^key-02f167b7e8c9998f92b6c9b3e8382cb4]: Textual amendment: [S. 16(1A)](https://www.legislation.gov.uk/ukpga/1978/33/section/16/1A) inserted (23.2.2023) by [The State Immunity Act 1978 (Remedial) Order 2023 (S.I. 2023/112)](https://www.legislation.gov.uk/uksi/2023/112), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/112/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2023/112/article/5/3) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/112/article/1/3))
+[^c-02f167b7e8c9998f92b6c9b3e8382cb4]: Textual amendment: [S. 16(1A)](https://www.legislation.gov.uk/ukpga/1978/33/section/16/1A) inserted (23.2.2023) by [The State Immunity Act 1978 (Remedial) Order 2023 (S.I. 2023/112)](https://www.legislation.gov.uk/uksi/2023/112), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/112/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2023/112/article/5/3) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/112/article/1/3))
 
 [^c910088]: Marginal citation: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67).
 
@@ -481,7 +481,7 @@ entered into before that date.
 
 [^c910090]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29).
 
-[^key-f4ad2feba9ff9f17e0dc2bf897aaf195]: Textual amendment: [S. 17(4A)](https://www.legislation.gov.uk/ukpga/1978/33/section/17/4A) inserted (23.2.2023) by [The State Immunity Act 1978 (Remedial) Order 2023 (S.I. 2023/112)](https://www.legislation.gov.uk/uksi/2023/112), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/112/article/1/1), [6](https://www.legislation.gov.uk/uksi/2023/112/article/6) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/112/article/1/3))
+[^c-f4ad2feba9ff9f17e0dc2bf897aaf195]: Textual amendment: [S. 17(4A)](https://www.legislation.gov.uk/ukpga/1978/33/section/17/4A) inserted (23.2.2023) by [The State Immunity Act 1978 (Remedial) Order 2023 (S.I. 2023/112)](https://www.legislation.gov.uk/uksi/2023/112), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/112/article/1/1), [6](https://www.legislation.gov.uk/uksi/2023/112/article/6) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/112/article/1/3))
 
 [^c910091]: Marginal citation: [1964 c. 81](https://www.legislation.gov.uk/ukpga/1964/81).
 

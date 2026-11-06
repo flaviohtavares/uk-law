@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 194. Saving[^key-582a1e462bf3b479e39f694a68eeaa9f]
+## 194. Saving[^c-582a1e462bf3b479e39f694a68eeaa9f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-582a1e462bf3b479e39f694a68eeaa9f]: Commencement: [Art. 194](https://www.legislation.gov.uk/uksi/2013/2870/article/194) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-582a1e462bf3b479e39f694a68eeaa9f]: Commencement: [Art. 194](https://www.legislation.gov.uk/uksi/2013/2870/article/194) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

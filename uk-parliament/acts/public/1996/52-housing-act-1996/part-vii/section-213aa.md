@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 213AA. Duty of local housing authority in England to notify in certain cases involving children[^key-73b76d8734af2ffc4655f7f8976ed8eb]
+## 213AA. Duty of local housing authority in England to notify in certain cases involving children[^c-73b76d8734af2ffc4655f7f8976ed8eb]
 
 *Extent: E+W*
 
@@ -78,4 +78,4 @@ the authority must ask the child as provided in subsection (2)(a) and (b).
 
 ## Annotations
 
-[^key-73b76d8734af2ffc4655f7f8976ed8eb]: Textual amendment: S. 213AA inserted (29.4.2026 for specified purposes, 1.9.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 11(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/11/1), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5) (with [s. 11(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/11/2)); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2026/803/regulation/5/a)
+[^c-73b76d8734af2ffc4655f7f8976ed8eb]: Textual amendment: S. 213AA inserted (29.4.2026 for specified purposes, 1.9.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 11(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/11/1), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5) (with [s. 11(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/11/2)); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2026/803/regulation/5/a)

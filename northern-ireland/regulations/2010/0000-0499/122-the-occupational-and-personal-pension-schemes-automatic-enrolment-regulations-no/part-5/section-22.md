@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Form and content of joining notices[^key-99074913c0b2b1a8118552d0b2798179]
+## 22. Form and content of joining notices[^c-99074913c0b2b1a8118552d0b2798179]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99074913c0b2b1a8118552d0b2798179]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2010/122/regulation/22) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)
+[^c-99074913c0b2b1a8118552d0b2798179]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2010/122/regulation/22) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)

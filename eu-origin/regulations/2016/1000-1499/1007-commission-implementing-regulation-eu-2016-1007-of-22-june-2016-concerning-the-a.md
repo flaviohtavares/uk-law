@@ -35,18 +35,18 @@ concerning the authorisation of ammonium chloride as a feed additive for ruminan
 
 (Text with EEA relevance) (revoked)
 
-[^key-e29f37744a1f84dec94f46bdace5e7fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e29f37744a1f84dec94f46bdace5e7fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-e29f37744a1f84dec94f46bdace5e7fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-e29f37744a1f84dec94f46bdace5e7fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-e29f37744a1f84dec94f46bdace5e7fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-e29f37744a1f84dec94f46bdace5e7fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e29f37744a1f84dec94f46bdace5e7fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e29f37744a1f84dec94f46bdace5e7fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-e29f37744a1f84dec94f46bdace5e7fc]
+## ANNEX[^c-e29f37744a1f84dec94f46bdace5e7fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e29f37744a1f84dec94f46bdace5e7fc]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 204](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/204) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-e29f37744a1f84dec94f46bdace5e7fc]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 204](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/204) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

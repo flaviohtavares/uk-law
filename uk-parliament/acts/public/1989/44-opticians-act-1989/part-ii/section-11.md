@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Publication of registers and proof of registration[^key-164356b7439f41e15afdad1589dd11cf]
+## 11. Publication of registers and proof of registration[^c-164356b7439f41e15afdad1589dd11cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-164356b7439f41e15afdad1589dd11cf]: Textual amendment: S. 11 substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 13](https://www.legislation.gov.uk/uksi/2005/848/article/13) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-164356b7439f41e15afdad1589dd11cf]: Textual amendment: S. 11 substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 13](https://www.legislation.gov.uk/uksi/2005/848/article/13) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))

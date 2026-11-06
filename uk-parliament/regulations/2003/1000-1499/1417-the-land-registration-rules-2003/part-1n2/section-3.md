@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Individual registers and more than one registered estate, division and amalgamation[^key-0ca0a9031d77f577f331d37ebe414989][^key-53aa1a52a9947c1a7614caa46bcf8647][^key-6107d9f1dacee10c6c5b9a305f529f05]
+## 3. Individual registers and more than one registered estate, division and amalgamation[^c-0ca0a9031d77f577f331d37ebe414989][^c-53aa1a52a9947c1a7614caa46bcf8647][^c-6107d9f1dacee10c6c5b9a305f529f05]
 
 *Extent: E+W*
 
@@ -42,8 +42,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0ca0a9031d77f577f331d37ebe414989]: Modification: Rule 3 applied (with modifications) (27.9.2004) by [THE COMMONHOLD (LAND REGISTRATION) RULES 2004 (S.I. 2004/1830)](https://www.legislation.gov.uk/uksi/2004/1830), [rules 1](https://www.legislation.gov.uk/uksi/2004/1830/rule/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2004/1830/rule/3/3/a)
+[^c-0ca0a9031d77f577f331d37ebe414989]: Modification: Rule 3 applied (with modifications) (27.9.2004) by [THE COMMONHOLD (LAND REGISTRATION) RULES 2004 (S.I. 2004/1830)](https://www.legislation.gov.uk/uksi/2004/1830), [rules 1](https://www.legislation.gov.uk/uksi/2004/1830/rule/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2004/1830/rule/3/3/a)
 
-[^key-53aa1a52a9947c1a7614caa46bcf8647]: Modification: Rule 3(3)(a) excluded (27.9.2004) by [THE COMMONHOLD (LAND REGISTRATION) RULES 2004 (S.I. 2004/1830)](https://www.legislation.gov.uk/uksi/2004/1830), [rules 1](https://www.legislation.gov.uk/uksi/2004/1830/rule/1), [3(2)](https://www.legislation.gov.uk/uksi/2004/1830/rule/3/2)
+[^c-53aa1a52a9947c1a7614caa46bcf8647]: Modification: Rule 3(3)(a) excluded (27.9.2004) by [THE COMMONHOLD (LAND REGISTRATION) RULES 2004 (S.I. 2004/1830)](https://www.legislation.gov.uk/uksi/2004/1830), [rules 1](https://www.legislation.gov.uk/uksi/2004/1830/rule/1), [3(2)](https://www.legislation.gov.uk/uksi/2004/1830/rule/3/2)
 
-[^key-6107d9f1dacee10c6c5b9a305f529f05]: Modification: Rule 3(4)(a) excluded (27.9.2004) by [THE COMMONHOLD (LAND REGISTRATION) RULES 2004 (S.I. 2004/1830)](https://www.legislation.gov.uk/uksi/2004/1830), [rules 1](https://www.legislation.gov.uk/uksi/2004/1830/rule/1), [3(2)](https://www.legislation.gov.uk/uksi/2004/1830/rule/3/2)
+[^c-6107d9f1dacee10c6c5b9a305f529f05]: Modification: Rule 3(4)(a) excluded (27.9.2004) by [THE COMMONHOLD (LAND REGISTRATION) RULES 2004 (S.I. 2004/1830)](https://www.legislation.gov.uk/uksi/2004/1830), [rules 1](https://www.legislation.gov.uk/uksi/2004/1830/rule/1), [3(2)](https://www.legislation.gov.uk/uksi/2004/1830/rule/3/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Summary proceedings for offences under section 17, 19(4) or 20(2)[^key-6f3458f2e0d8defe87ef29bfdf94851a]
+## 21. Summary proceedings for offences under section 17, 19(4) or 20(2)[^c-6f3458f2e0d8defe87ef29bfdf94851a]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f3458f2e0d8defe87ef29bfdf94851a]: Commencement: S. 21 in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-6f3458f2e0d8defe87ef29bfdf94851a]: Commencement: S. 21 in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

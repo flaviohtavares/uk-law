@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28LA. Enforcement powers in relation to ships: United Kingdom[^key-8d1ba8c618afefcdb1885e265cdea20b]
+## 28LA. Enforcement powers in relation to ships: United Kingdom[^c-8d1ba8c618afefcdb1885e265cdea20b]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d1ba8c618afefcdb1885e265cdea20b]: Textual amendment: [S. 28LA](https://www.legislation.gov.uk/ukpga/1971/77/section/28LA) inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/2); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
+[^c-8d1ba8c618afefcdb1885e265cdea20b]: Textual amendment: [S. 28LA](https://www.legislation.gov.uk/ukpga/1971/77/section/28LA) inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/2); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))

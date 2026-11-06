@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 102. Payment of college fee loans[^key-b09665ad9c92a6e884b4390a63924569]
+## 102. Payment of college fee loans[^c-b09665ad9c92a6e884b4390a63924569]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b09665ad9c92a6e884b4390a63924569]: Commencement: [Reg. 102](https://www.legislation.gov.uk/nisr/2007/195/regulation/102) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-b09665ad9c92a6e884b4390a63924569]: Commencement: [Reg. 102](https://www.legislation.gov.uk/nisr/2007/195/regulation/102) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

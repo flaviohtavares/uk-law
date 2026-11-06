@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2B. Scope: “EC fertilisers”[^key-ad0af8cad58cc571ef6f1d90dcd4421e]
+## 2B. Scope: “EC fertilisers”[^c-ad0af8cad58cc571ef6f1d90dcd4421e]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ These Regulations do not apply to fertilisers designated as “EC fertilisers”
 
 ## Annotations
 
-[^key-ad0af8cad58cc571ef6f1d90dcd4421e]: Textual amendment: [Reg. 2B](https://www.legislation.gov.uk/uksi/1991/2197/regulation/2B) inserted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2019/601/regulation/8/3) (as amended by [S.I. 2020/998](https://www.legislation.gov.uk/uksi/2020/998), [regs. 1](https://www.legislation.gov.uk/uksi/2020/998/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/998/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ad0af8cad58cc571ef6f1d90dcd4421e]: Textual amendment: [Reg. 2B](https://www.legislation.gov.uk/uksi/1991/2197/regulation/2B) inserted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2019/601/regulation/8/3) (as amended by [S.I. 2020/998](https://www.legislation.gov.uk/uksi/2020/998), [regs. 1](https://www.legislation.gov.uk/uksi/2020/998/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/998/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

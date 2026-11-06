@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**50.**[^key-8f4e2c16d4fa72ff10573e9720e0b618] In regulation 21, in paragraph (3)(a)—
+**50.**[^c-8f4e2c16d4fa72ff10573e9720e0b618] In regulation 21, in paragraph (3)(a)—
 
 - (a) in paragraph (i), after “1990” insert “or section 76 of the Historic Environment (Wales) Act 2023”;
 - (b) in paragraph (ii), for “that Act” substitute “the Planning (Listed Buildings and Conservation Areas) Act 1990 or section 158 of the Historic Environment (Wales) Act 2023”;
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f4e2c16d4fa72ff10573e9720e0b618]: Commencement: [Reg. 50](https://www.legislation.gov.uk/wsi/2024/924/regulation/50) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-8f4e2c16d4fa72ff10573e9720e0b618]: Commencement: [Reg. 50](https://www.legislation.gov.uk/wsi/2024/924/regulation/50) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

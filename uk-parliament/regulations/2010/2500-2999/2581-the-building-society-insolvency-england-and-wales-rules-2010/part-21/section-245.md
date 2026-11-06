@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 245. Notice of no, or no further, dividend[^key-68af1a707c01efb77413fffa352fd7ef]
+## 245. Notice of no, or no further, dividend[^c-68af1a707c01efb77413fffa352fd7ef]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 11.7 of the 1986 Rules.
 
 ## Annotations
 
-[^key-68af1a707c01efb77413fffa352fd7ef]: Commencement: Rule 245 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-68af1a707c01efb77413fffa352fd7ef]: Commencement: Rule 245 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

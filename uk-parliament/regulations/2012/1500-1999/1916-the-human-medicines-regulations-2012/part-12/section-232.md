@@ -59,7 +59,7 @@ summary: ''
     - (bb) if there is a relevant manager for the practice or clinic, by that manager, or
   - (ii) in Wales, by the private dentist who is treating the person.
 
-(8)[^key-453762bc1e39d9d587c1286d851efeca] Condition F is that when the product is supplied, a UKMA(GB), UKMA(UK), certificate of registration, THR(GB) or THR(UK) is in force in relation to it.
+(8)[^c-453762bc1e39d9d587c1286d851efeca] Condition F is that when the product is supplied, a UKMA(GB), UKMA(UK), certificate of registration, THR(GB) or THR(UK) is in force in relation to it.
 
 (9) In relation to Wales, in this regulation “**manager**” means—
 
@@ -70,4 +70,4 @@ summary: ''
 
 [^c21328741]: Marginal citation: [2008 No. 1976](https://www.legislation.gov.uk/wsi/2008/1976) (W. 185).
 
-[^key-453762bc1e39d9d587c1286d851efeca]: Textual amendment: Reg. 232(8) substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 190](https://www.legislation.gov.uk/uksi/2019/775/regulation/190) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 144](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/144))
+[^c-453762bc1e39d9d587c1286d851efeca]: Textual amendment: Reg. 232(8) substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 190](https://www.legislation.gov.uk/uksi/2019/775/regulation/190) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 144](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/144))

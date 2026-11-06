@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Invitations to participate[^key-e9e478eda11e8f73e667619711323b0c]
+## 30. Invitations to participate[^c-e9e478eda11e8f73e667619711323b0c]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9e478eda11e8f73e667619711323b0c]: Commencement: [S. 30](https://www.legislation.gov.uk/anaw/2015/2/section/30) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-e9e478eda11e8f73e667619711323b0c]: Commencement: [S. 30](https://www.legislation.gov.uk/anaw/2015/2/section/30) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)

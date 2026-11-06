@@ -61,11 +61,11 @@ In this Order—
 - “**credit card**” means a card or similar thing issued by any person, use of which enables the holder to defer the payment by the holder of the charge for the appropriate amount; and
 - “**debit card**” means a card or similar thing issued by any person, use of which by the holder causes the charge for the appropriate amount to be paid by the electronic transfer of funds from any current account of the holder at a bank or other institution providing banking services.
 
-## 3. The specified person[^key-383817dfec1c84804bfd026d28cdbb45]
+## 3. The specified person[^c-383817dfec1c84804bfd026d28cdbb45]
 
 The specified person for the purposes of section 90A(2)(b) of the Act is the person whom the constable or vehicle examiner has reason to believe—
 
-- (a) is committing, or has on the occasion concerned, committed an offence specified in this Order relating to a motor vehicle or trailer[^key-e0cbee2b5621c6920a22dbf871e5e8fa]; or
+- (a) is committing, or has on the occasion concerned, committed an offence specified in this Order relating to a motor vehicle or trailer[^c-e0cbee2b5621c6920a22dbf871e5e8fa]; or
 - (b) has, within the period of 28 days before the day of that occasion, committed an offence relating to a motor vehicle which is a Community drivers’ hours offence.
 
 ## 4. The specified offences
@@ -74,13 +74,13 @@ The specified offences for the purposes of section 90A(2)(b) of the Act are set 
 
 ## 5. The specified circumstances
 
-(1) The specified circumstances for the purposes of section 90A(2)(b) of the Act are that the offence is being committed, or has [^key-005c75c1b0cd539838b7bd11292d8652]... been committed, on a road or other public place.
+(1) The specified circumstances for the purposes of section 90A(2)(b) of the Act are that the offence is being committed, or has [^c-005c75c1b0cd539838b7bd11292d8652]... been committed, on a road or other public place.
 
-(2)[^key-84c989b4e99d445f7950a5c91f5001ec] In paragraph (1) “road”—
+(2)[^c-84c989b4e99d445f7950a5c91f5001ec] In paragraph (1) “road”—
 
 - (a) in relation to—
   - (i) England, Wales and Northern Ireland,
-  - (ii)[^key-2e3c9fd67fbab30d40b1bcaf34039c37] another contracting country,
+  - (ii)[^c-2e3c9fd67fbab30d40b1bcaf34039c37] another contracting country,
 
   means any highway and any other road to which the public has access, and includes bridges over which a road passes; and
 - (b) in relation to Scotland, means any road within the meaning of the Roads (Scotland) Act 1984 and any other way to which the public has access, and includes bridges over which a road passes.
@@ -133,8 +133,8 @@ Transport Act 1968 [^c19590521]
 | --- | --- |
 | Section 96(11) [^c19590531] | Contravention of any requirement of the domestic drivers' hours code |
 | Section 96(11A) [^c19590541] | Contravention of any requirement of applicable Community rules as to periods of driving, etc. |
-| Section 97(1) [^c19590551] | Using vehicle in contravention of requirements relating to installation, use or repair of recording equipment in accordance with the EU Tachographs Regulation[^key-368e40e34d7931476b0fb45166f75bb0] |
-| Section 97ZA(1) and (2)[^key-95a8c4e050ecb8df68dfb89856d4e261] | Using vehicle in contravention of requirements relating to installation, use or repair of recording equipment in accordance with the AETR. |
+| Section 97(1) [^c19590551] | Using vehicle in contravention of requirements relating to installation, use or repair of recording equipment in accordance with the EU Tachographs Regulation[^c-368e40e34d7931476b0fb45166f75bb0] |
+| Section 97ZA(1) and (2)[^c-95a8c4e050ecb8df68dfb89856d4e261] | Using vehicle in contravention of requirements relating to installation, use or repair of recording equipment in accordance with the AETR. |
 | Section 97AA(1) [^c19590561] | Forgery, etc., of seals on recording equipment |
 | Section 98(4) [^c19590571] | Contravention of regulations made under section 98 or any requirement as to books, records or documents of applicable Community rules |
 | Section 99(4) [^c19590581] | Failing to comply with requirements relating to inspection of records or obstructing an officer |
@@ -233,7 +233,7 @@ Road Traffic Act 1988 [^c19590681]
 | Section 114(2) | Causing or permitting a person under 21 to drive LGV or PCV in contravention of conditions of licence |
 | Section 143(2) | Using, etc., motor vehicle while uninsured or unsecured against third party risks |
 | Section 163(3) [^c19590881], insofar as it relates to section 163(1) | Failing to stop mechanically propelled vehicle when required |
-| Section 164(6) [^c19590891] | Failing to produce driving licence [^key-861fe503568ee258a4f8b5ae6b88fde7]..., etc., or to state date of birth, etc. |
+| Section 164(6) [^c19590891] | Failing to produce driving licence [^c-861fe503568ee258a4f8b5ae6b88fde7]..., etc., or to state date of birth, etc. |
 | Section 165(3) | Failing to give certain names and addresses or produce certain documents on request when driving a motor vehicle, etc. |
 | Section 165(6) | Failing to give certain names and addresses while supervising a provisional licence-holder, etc. |
 | Section 168 (insofar as it relates to the case referred to in paragraph (a) of that section) | Refusing to give, or giving false, name and address in case of reckless, careless or inconsiderate driving of a mechanically propelled vehicle |
@@ -258,7 +258,7 @@ Vehicles Excise and Registration Act 1994 [^c19590921]
 | Section 42(1) | Driving or keeping a vehicle without required registration mark |
 | Section 43(1) | Driving or keeping a vehicle with registration mark obscured etc. |
 | Section 44(1) | Forgery and fraudulent use, etc., of a registration mark etc. |
-| Section 59(1)[^key-ee94a46c8788ba0b586e0610df5b902c] | Failure to fix prescribed registration mark to a vehicle in accordance with regulations made under section 23(4) of the Act |
+| Section 59(1)[^c-ee94a46c8788ba0b586e0610df5b902c] | Failure to fix prescribed registration mark to a vehicle in accordance with regulations made under section 23(4) of the Act |
 
 Table 8
 
@@ -280,7 +280,7 @@ Disability Discrimination Act 1995 [^c19590941]
 | Section 40(3) | Failure to comply with PSV accessibility regulations made under section 40(1) etc. |
 | Section 41(3) | Using a regulated public service vehicle on the road where no accessibility certificate or approval certificate has been issued |
 
-Table 10[^key-39a7a4e6ad826e6c1571f3516162feda]
+Table 10[^c-39a7a4e6ad826e6c1571f3516162feda]
 
 HGV Road User Levy Act 2013
 
@@ -288,7 +288,7 @@ HGV Road User Levy Act 2013
 | --- | --- |
 | Section 11(1) | Using or keeping a heavy goods vehicle on a public road without paying the HGV road user levy. |
 
-Table 11[^key-84d064812ff6b8b1dbefa64f20865dcb]
+Table 11[^c-84d064812ff6b8b1dbefa64f20865dcb]
 
 Haulage Permits and Trailer Registration Act 2018
 
@@ -347,13 +347,13 @@ The Vehicle Drivers (Certificate of Professional Competence) Regulations 2007 [^
 | --- | --- |
 | Regulation 10(1) | Driving on road without completing appropriate initial Certificate of Professional Competence (CPC) test, or driving on road if more than five years have elapsed since obtaining relevant CPC |
 | Regulation 10(2) | Causing or permitting another person to drive in breach of regulation 10(1) |
-| Regulation 11(1) | Failing to carry evidence of relevant[^key-fc9b32ab48a11d82fdac3e2c36db0fb0] CPC |
-| Regulation 11(3) | Failing to carry evidence of initial[^key-da341f107629a741b5bd66687c2ecab5] CPC |
+| Regulation 11(1) | Failing to carry evidence of relevant[^c-fc9b32ab48a11d82fdac3e2c36db0fb0] CPC |
+| Regulation 11(3) | Failing to carry evidence of initial[^c-da341f107629a741b5bd66687c2ecab5] CPC |
 | Regulation 11(5) | Failing to carry National Vocational Training Certificate in the vehicle in which the person is driving |
-| Regulation 11(7) | Failing to produce evidence of relevant[^key-c343b5befb973e685fac26791c8be0ae] CPC or National Vocational Training Certificate when required |
+| Regulation 11(7) | Failing to produce evidence of relevant[^c-c343b5befb973e685fac26791c8be0ae] CPC or National Vocational Training Certificate when required |
 | Regulation 13(1) | Forgery, alteration, etc. of certain documents |
 
-Table 7[^key-ba6ee5ccc9193873612c3403dd52fdb9]
+Table 7[^c-ba6ee5ccc9193873612c3403dd52fdb9]
 
 The Goods Vehicles (Community Licences) Regulations 2011
 
@@ -361,7 +361,7 @@ The Goods Vehicles (Community Licences) Regulations 2011
 | --- | --- |
 | Regulation 4 | Using a vehicle in Great Britain in contravention of the requirement to possess a Community licence |
 
-Table 8[^key-6b17094d6c82d3d1b3ee0349c2a1f9c4]
+Table 8[^c-6b17094d6c82d3d1b3ee0349c2a1f9c4]
 
 The Trailer Registration Regulations 2018
 
@@ -376,7 +376,7 @@ The Trailer Registration Regulations 2018
 | Regulation 21 | Keeping or using a registered trailer on a road with a registration mark that is obscured |
 | Regulation 22(a) | Wilfully obstructing a person carrying out an inspection of a trailer under those Regulations |
 
-Table 9[^key-8e6986f412575db088556fe2fed569ce]
+Table 9[^c-8e6986f412575db088556fe2fed569ce]
 
 The Heavy Commercial Vehicles in Kent (No. 1) Order 2019
 
@@ -396,15 +396,15 @@ A full Impact Assessment of the effect this instrument will have on costs for th
 
 [^c19590501]: Marginal citation: [1988 c.53](https://www.legislation.gov.uk/ukpga/1988/53). Part 3A (which includes sections 90A to 90E) was inserted by section 11 of the [Road Safety Act 2006 (c.49)](https://www.legislation.gov.uk/ukpga/2006/49).
 
-[^key-383817dfec1c84804bfd026d28cdbb45]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2009/491/article/3) substituted (31.1.2018) by [The Community Drivers' Hours Offences (Enforcement) Regulations 2018 (S.I. 2018/24)](https://www.legislation.gov.uk/uksi/2018/24), [regs. 1](https://www.legislation.gov.uk/uksi/2018/24/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2018/24/regulation/9/2) (with [reg. 11](https://www.legislation.gov.uk/uksi/2018/24/regulation/11))
+[^c-383817dfec1c84804bfd026d28cdbb45]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2009/491/article/3) substituted (31.1.2018) by [The Community Drivers' Hours Offences (Enforcement) Regulations 2018 (S.I. 2018/24)](https://www.legislation.gov.uk/uksi/2018/24), [regs. 1](https://www.legislation.gov.uk/uksi/2018/24/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2018/24/regulation/9/2) (with [reg. 11](https://www.legislation.gov.uk/uksi/2018/24/regulation/11))
 
-[^key-e0cbee2b5621c6920a22dbf871e5e8fa]: Textual amendment: Words in [art. 3(a)](https://www.legislation.gov.uk/uksi/2009/491/article/3/a) inserted (28.3.2019) by [The Financial Penalty Deposit and Fixed Penalty Offences (Miscellaneous Provisions) Order 2018 (S.I. 2018/1236)](https://www.legislation.gov.uk/uksi/2018/1236), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2018/1236/article/1/4), [11(a)](https://www.legislation.gov.uk/uksi/2018/1236/article/11/a)
+[^c-e0cbee2b5621c6920a22dbf871e5e8fa]: Textual amendment: Words in [art. 3(a)](https://www.legislation.gov.uk/uksi/2009/491/article/3/a) inserted (28.3.2019) by [The Financial Penalty Deposit and Fixed Penalty Offences (Miscellaneous Provisions) Order 2018 (S.I. 2018/1236)](https://www.legislation.gov.uk/uksi/2018/1236), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2018/1236/article/1/4), [11(a)](https://www.legislation.gov.uk/uksi/2018/1236/article/11/a)
 
-[^key-005c75c1b0cd539838b7bd11292d8652]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2009/491/article/5/1) omitted (31.1.2018) by virtue of [The Community Drivers' Hours Offences (Enforcement) Regulations 2018 (S.I. 2018/24)](https://www.legislation.gov.uk/uksi/2018/24), [regs. 1](https://www.legislation.gov.uk/uksi/2018/24/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2018/24/regulation/10/2)
+[^c-005c75c1b0cd539838b7bd11292d8652]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2009/491/article/5/1) omitted (31.1.2018) by virtue of [The Community Drivers' Hours Offences (Enforcement) Regulations 2018 (S.I. 2018/24)](https://www.legislation.gov.uk/uksi/2018/24), [regs. 1](https://www.legislation.gov.uk/uksi/2018/24/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2018/24/regulation/10/2)
 
-[^key-84c989b4e99d445f7950a5c91f5001ec]: Textual amendment: [Art. 5(2)](https://www.legislation.gov.uk/uksi/2009/491/article/5/2) substituted (31.1.2018) by [The Community Drivers' Hours Offences (Enforcement) Regulations 2018 (S.I. 2018/24)](https://www.legislation.gov.uk/uksi/2018/24), [regs. 1](https://www.legislation.gov.uk/uksi/2018/24/regulation/1), [10(3)](https://www.legislation.gov.uk/uksi/2018/24/regulation/10/3)
+[^c-84c989b4e99d445f7950a5c91f5001ec]: Textual amendment: [Art. 5(2)](https://www.legislation.gov.uk/uksi/2009/491/article/5/2) substituted (31.1.2018) by [The Community Drivers' Hours Offences (Enforcement) Regulations 2018 (S.I. 2018/24)](https://www.legislation.gov.uk/uksi/2018/24), [regs. 1](https://www.legislation.gov.uk/uksi/2018/24/regulation/1), [10(3)](https://www.legislation.gov.uk/uksi/2018/24/regulation/10/3)
 
-[^key-2e3c9fd67fbab30d40b1bcaf34039c37]: Textual amendment: [Art. 5(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2009/491/article/5/2/a/ii) substituted for art. 5(2)(a)(ii)(iii) (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [54](https://www.legislation.gov.uk/uksi/2019/453/regulation/54); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2e3c9fd67fbab30d40b1bcaf34039c37]: Textual amendment: [Art. 5(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2009/491/article/5/2/a/ii) substituted for art. 5(2)(a)(ii)(iii) (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [54](https://www.legislation.gov.uk/uksi/2019/453/regulation/54); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19590521]: Marginal citation: [1968 c.73](https://www.legislation.gov.uk/ukpga/1968/73).
 
@@ -414,9 +414,9 @@ A full Impact Assessment of the effect this instrument will have on costs for th
 
 [^c19590551]: Marginal citation: [Section 97](https://www.legislation.gov.uk/uksi/2009/491/section/97) was substituted by [S.I. 1979/1746](https://www.legislation.gov.uk/uksi/1979/1746) and subsection (1) was subsequently substituted by [S.I. 1984/144](https://www.legislation.gov.uk/uksi/1984/144); it was amended by [S.I. 1986/1457](https://www.legislation.gov.uk/uksi/1986/1457), 1989/2121 and 2005/1904.
 
-[^key-368e40e34d7931476b0fb45166f75bb0]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/491/schedule/part/1) Table 1 substituted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [29(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/29/a)
+[^c-368e40e34d7931476b0fb45166f75bb0]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/491/schedule/part/1) Table 1 substituted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [29(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/29/a)
 
-[^key-95a8c4e050ecb8df68dfb89856d4e261]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/491/schedule/part/1) Table 1 inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [29(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/29/b)
+[^c-95a8c4e050ecb8df68dfb89856d4e261]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/491/schedule/part/1) Table 1 inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [29(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/29/b)
 
 [^c19590561]: Marginal citation: [Section 97AA](https://www.legislation.gov.uk/uksi/2009/491/section/97AA) was inserted by [S.I. 1989/2121](https://www.legislation.gov.uk/uksi/1989/2121).
 
@@ -486,7 +486,7 @@ A full Impact Assessment of the effect this instrument will have on costs for th
 
 [^c19590891]: Marginal citation: [Section 164(6)](https://www.legislation.gov.uk/uksi/2009/491/section/164/6) was amended by paragraph 18(c) of Schedule 3 to the Road Traffic (Driver Licensing and Information Systems) Act 1989. It was further amended by paragraph 68(6) of Schedule 4, and Schedule 8, to the Road Traffic Act 1991 and by [S.I. 1990/144](https://www.legislation.gov.uk/uksi/1990/144).
 
-[^key-861fe503568ee258a4f8b5ae6b88fde7]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/491/schedule/part/1) Table 5 omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/15)
+[^c-861fe503568ee258a4f8b5ae6b88fde7]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/491/schedule/part/1) Table 5 omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/15)
 
 [^c19590901]: Marginal citation: [1988 c.53](https://www.legislation.gov.uk/ukpga/1988/53).
 
@@ -494,15 +494,15 @@ A full Impact Assessment of the effect this instrument will have on costs for th
 
 [^c19590921]: Marginal citation: [1994 c.22](https://www.legislation.gov.uk/ukpga/1994/22).
 
-[^key-ee94a46c8788ba0b586e0610df5b902c]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/491/schedule/part/1) Table 7 inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Road Safety (Financial Penalty Deposit) (Amendment) Order 2010 (S.I. 2010/2721)](https://www.legislation.gov.uk/uksi/2010/2721), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/2721/article/1/1), [2](https://www.legislation.gov.uk/uksi/2010/2721/article/2)
+[^c-ee94a46c8788ba0b586e0610df5b902c]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/491/schedule/part/1) Table 7 inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Road Safety (Financial Penalty Deposit) (Amendment) Order 2010 (S.I. 2010/2721)](https://www.legislation.gov.uk/uksi/2010/2721), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/2721/article/1/1), [2](https://www.legislation.gov.uk/uksi/2010/2721/article/2)
 
 [^c19590931]: Marginal citation: [1995 c.23](https://www.legislation.gov.uk/ukpga/1995/23). Section 2(5) was amended by section 261 of the Transport Act 2000.
 
 [^c19590941]: Marginal citation: [1995 c.50](https://www.legislation.gov.uk/ukpga/1995/50).
 
-[^key-39a7a4e6ad826e6c1571f3516162feda]: Textual amendment: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/491/schedule/part/1) Table 10 added (1.4.2014) by [The Road Safety (Financial Penalty Deposit) (Amendment) Order 2014 (S.I. 2014/267)](https://www.legislation.gov.uk/uksi/2014/267), [arts. 1](https://www.legislation.gov.uk/uksi/2014/267/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/267/article/2/2)
+[^c-39a7a4e6ad826e6c1571f3516162feda]: Textual amendment: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/491/schedule/part/1) Table 10 added (1.4.2014) by [The Road Safety (Financial Penalty Deposit) (Amendment) Order 2014 (S.I. 2014/267)](https://www.legislation.gov.uk/uksi/2014/267), [arts. 1](https://www.legislation.gov.uk/uksi/2014/267/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/267/article/2/2)
 
-[^key-84d064812ff6b8b1dbefa64f20865dcb]: Textual amendment: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/491/schedule/part/1) Table 11 inserted (1.1.2019) by [The Financial Penalty Deposit and Fixed Penalty Offences (Miscellaneous Provisions) Order 2018 (S.I. 2018/1236)](https://www.legislation.gov.uk/uksi/2018/1236), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2018/1236/article/1/3), [8](https://www.legislation.gov.uk/uksi/2018/1236/article/8)
+[^c-84d064812ff6b8b1dbefa64f20865dcb]: Textual amendment: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2009/491/schedule/part/1) Table 11 inserted (1.1.2019) by [The Financial Penalty Deposit and Fixed Penalty Offences (Miscellaneous Provisions) Order 2018 (S.I. 2018/1236)](https://www.legislation.gov.uk/uksi/2018/1236), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2018/1236/article/1/3), [8](https://www.legislation.gov.uk/uksi/2018/1236/article/8)
 
 [^c19590951]: Marginal citation: [S.I. 1984/748](https://www.legislation.gov.uk/uksi/1984/748).
 
@@ -514,14 +514,14 @@ A full Impact Assessment of the effect this instrument will have on costs for th
 
 [^c19590991]: Marginal citation: [S.I. 2007/605](https://www.legislation.gov.uk/uksi/2007/605), as amended by [S.I. 2008/1965](https://www.legislation.gov.uk/uksi/2008/1965); there are other amendments but none is relevant to this Order.
 
-[^key-fc9b32ab48a11d82fdac3e2c36db0fb0]: Textual amendment: Word in [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/491/schedule/part/2) Table 6 substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [21(2)(a)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/21/2/a) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+[^c-fc9b32ab48a11d82fdac3e2c36db0fb0]: Textual amendment: Word in [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/491/schedule/part/2) Table 6 substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [21(2)(a)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/21/2/a) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
 
-[^key-da341f107629a741b5bd66687c2ecab5]: Textual amendment: Word in [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/491/schedule/part/2) Table 6 substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [21(2)(b)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/21/2/b) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+[^c-da341f107629a741b5bd66687c2ecab5]: Textual amendment: Word in [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/491/schedule/part/2) Table 6 substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [21(2)(b)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/21/2/b) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
 
-[^key-c343b5befb973e685fac26791c8be0ae]: Textual amendment: Word in [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/491/schedule/part/2) Table 6 inserted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [21(2)(c)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/21/2/c) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+[^c-c343b5befb973e685fac26791c8be0ae]: Textual amendment: Word in [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/491/schedule/part/2) Table 6 inserted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [21(2)(c)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/21/2/c) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
 
-[^key-ba6ee5ccc9193873612c3403dd52fdb9]: Textual amendment: Sch. Pt. 2 Table 7 inserted (1.1.2019) by [The Financial Penalty Deposit and Fixed Penalty Offences (Miscellaneous Provisions) Order 2018 (S.I. 2018/1236)](https://www.legislation.gov.uk/uksi/2018/1236), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1236/article/1/2), [5](https://www.legislation.gov.uk/uksi/2018/1236/article/5)
+[^c-ba6ee5ccc9193873612c3403dd52fdb9]: Textual amendment: Sch. Pt. 2 Table 7 inserted (1.1.2019) by [The Financial Penalty Deposit and Fixed Penalty Offences (Miscellaneous Provisions) Order 2018 (S.I. 2018/1236)](https://www.legislation.gov.uk/uksi/2018/1236), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1236/article/1/2), [5](https://www.legislation.gov.uk/uksi/2018/1236/article/5)
 
-[^key-6b17094d6c82d3d1b3ee0349c2a1f9c4]: Textual amendment: Sch. Pt. 2 Table 8 inserted (28.3.2019) by [The Financial Penalty Deposit and Fixed Penalty Offences (Miscellaneous Provisions) Order 2018 (S.I. 2018/1236)](https://www.legislation.gov.uk/uksi/2018/1236), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2018/1236/article/1/4), [11(b)](https://www.legislation.gov.uk/uksi/2018/1236/article/11/b)
+[^c-6b17094d6c82d3d1b3ee0349c2a1f9c4]: Textual amendment: Sch. Pt. 2 Table 8 inserted (28.3.2019) by [The Financial Penalty Deposit and Fixed Penalty Offences (Miscellaneous Provisions) Order 2018 (S.I. 2018/1236)](https://www.legislation.gov.uk/uksi/2018/1236), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2018/1236/article/1/4), [11(b)](https://www.legislation.gov.uk/uksi/2018/1236/article/11/b)
 
-[^key-8e6986f412575db088556fe2fed569ce]: Textual amendment: Sch. Pt. 2 Table 9 inserted (31.10.2019) by [The Heavy Commercial Vehicles in Kent (No. 3) Order 2019 (S.I. 2019/1210)](https://www.legislation.gov.uk/uksi/2019/1210), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1210/article/1/1), [6](https://www.legislation.gov.uk/uksi/2019/1210/article/6)
+[^c-8e6986f412575db088556fe2fed569ce]: Textual amendment: Sch. Pt. 2 Table 9 inserted (31.10.2019) by [The Heavy Commercial Vehicles in Kent (No. 3) Order 2019 (S.I. 2019/1210)](https://www.legislation.gov.uk/uksi/2019/1210), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1210/article/1/1), [6](https://www.legislation.gov.uk/uksi/2019/1210/article/6)

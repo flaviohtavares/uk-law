@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Duration and revocation of distribution orders[^key-0fdb043d0121f8b4be0e5eb49c60f4e4][^key-fb7f886101b0f12873be5ca4875656cf]
+## 63. Duration and revocation of distribution orders[^c-0fdb043d0121f8b4be0e5eb49c60f4e4][^c-fb7f886101b0f12873be5ca4875656cf]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0fdb043d0121f8b4be0e5eb49c60f4e4]: Commencement: S. 63 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-0fdb043d0121f8b4be0e5eb49c60f4e4]: Commencement: S. 63 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-fb7f886101b0f12873be5ca4875656cf]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2025/21/section/63) in force at 29.10.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 2(1)(a)(viii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/2/1/a/viii)
+[^c-fb7f886101b0f12873be5ca4875656cf]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2025/21/section/63) in force at 29.10.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 2(1)(a)(viii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/2/1/a/viii)

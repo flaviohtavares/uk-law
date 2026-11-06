@@ -43,7 +43,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (2) In section 7 of that Act (payment of pensions and contributions), in subsection (1), for the words “such other payments as are mentioned in section 4(2) above, being made” there shall be substituted “ such other payments and receipts as are mentioned in sections 1(2A) and 4(2) above, being paid ”.
 
-(3)[^key-cf89c2e312db579dfb146ed300f87ee3][^key-a9b81993d63cf338aeee2855d5807fb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-cf89c2e312db579dfb146ed300f87ee3][^c-a9b81993d63cf338aeee2855d5807fb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 2. Information in connection with police pensions etc.
 
@@ -81,7 +81,7 @@ After section 8 of the [^c863746]Police Pensions Act 1976 there shall be inserte
 >
 > (6) The power to make regulations under this section shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-## 3. Information in connection with firemen’s pensions etc.[^key-dbb45c3397865ba9eef7216a66363ffe]
+## 3. Information in connection with firemen’s pensions etc.[^c-dbb45c3397865ba9eef7216a66363ffe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -97,9 +97,9 @@ After section 8 of the [^c863746]Police Pensions Act 1976 there shall be inserte
 
 [^c863744]: Marginal citation: [1976 c. 35](https://www.legislation.gov.uk/ukpga/1976/35).
 
-[^key-cf89c2e312db579dfb146ed300f87ee3]: Textual amendment: S. 1(3) repealed (7.9.2004 for E. for specified purposes, 1.10.2004 for E. otherwise, 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/21/schedule/2) (with savings in [S.I. 2004/2306](https://www.legislation.gov.uk/uksi/2004/2306), art. 3, Sch.); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2); [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-cf89c2e312db579dfb146ed300f87ee3]: Textual amendment: S. 1(3) repealed (7.9.2004 for E. for specified purposes, 1.10.2004 for E. otherwise, 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/21/schedule/2) (with savings in [S.I. 2004/2306](https://www.legislation.gov.uk/uksi/2004/2306), art. 3, Sch.); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2); [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
 
-[^key-a9b81993d63cf338aeee2855d5807fb9]: Modification: S. 1(3) savings for effects of 2004 c. 21, Sch. 2 (11.11.2004) by [Fire and Rescue Services Act 2004 (Firefighters' Pension Scheme) (Wales) Order 2004 (S.I. 2004/2918)](https://www.legislation.gov.uk/uksi/2004/2918), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/2918/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2004/2918/schedule)
+[^c-a9b81993d63cf338aeee2855d5807fb9]: Modification: S. 1(3) savings for effects of 2004 c. 21, Sch. 2 (11.11.2004) by [Fire and Rescue Services Act 2004 (Firefighters' Pension Scheme) (Wales) Order 2004 (S.I. 2004/2918)](https://www.legislation.gov.uk/uksi/2004/2918), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/2918/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2004/2918/schedule)
 
 [^c863746]: Marginal citation: [1976 c. 35](https://www.legislation.gov.uk/ukpga/1976/35).
 
@@ -107,4 +107,4 @@ After section 8 of the [^c863746]Police Pensions Act 1976 there shall be inserte
 
 [^c863748]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-dbb45c3397865ba9eef7216a66363ffe]: Textual amendment: S. 3 repealed (7.9.2004 for E. for specified purposes, 1.10.2004 for E. otherwise, 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/21/schedule/2); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2); [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-dbb45c3397865ba9eef7216a66363ffe]: Textual amendment: S. 3 repealed (7.9.2004 for E. for specified purposes, 1.10.2004 for E. otherwise, 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/21/schedule/2); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2); [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Crown rights[^key-4a711ab4c5c9c3d067f5bbf78685fd1e]
+## 22. Crown rights[^c-4a711ab4c5c9c3d067f5bbf78685fd1e]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a711ab4c5c9c3d067f5bbf78685fd1e]: Commencement: Art. 22 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-4a711ab4c5c9c3d067f5bbf78685fd1e]: Commencement: Art. 22 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)

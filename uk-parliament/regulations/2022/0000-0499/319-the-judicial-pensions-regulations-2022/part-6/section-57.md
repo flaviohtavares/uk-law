@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Annual rate of ill-health pension[^key-f75d52297d0bbefcc10ababf4890a68c]
+## 57. Annual rate of ill-health pension[^c-f75d52297d0bbefcc10ababf4890a68c]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ where—
 
 ## Annotations
 
-[^key-f75d52297d0bbefcc10ababf4890a68c]: Commencement: Reg. 57 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-f75d52297d0bbefcc10ababf4890a68c]: Commencement: Reg. 57 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

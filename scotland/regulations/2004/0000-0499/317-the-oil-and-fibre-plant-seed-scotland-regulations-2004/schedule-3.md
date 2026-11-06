@@ -22,23 +22,23 @@ summary: ''
 
 Regulation 2(1), paragraphs 1 and 4 of Part I of Schedule 2 and paragraph 5 of Part II of Schedule 2
 
-### 1. Particulars to be specified in an official certificate[^key-023468e6d8f39816ed0ca7a4ab36b1b7]
+### 1. Particulars to be specified in an official certificate[^c-023468e6d8f39816ed0ca7a4ab36b1b7]
 
 The following particulars shall be specified in an official certificate:–
 
 - (a) name and address of certifying authority;
-- (b) applicant’s name, address and, if appropriate, registered or licensed number[^key-01f710ed7468ccecbcc5c4fb8f25db76];
+- (b) applicant’s name, address and, if appropriate, registered or licensed number[^c-01f710ed7468ccecbcc5c4fb8f25db76];
 - (c) seed lot reference number;
 - (d) species/variety/category, as appropriate;
 - (e) net weight of seed lot and number of containers; and
 - (f) seed treatment, if any.
 
-### 2. Particulars to be specified in a breeder’s confirmation[^key-389dd49b8b1e35a74c5d72f053083b3d]
+### 2. Particulars to be specified in a breeder’s confirmation[^c-389dd49b8b1e35a74c5d72f053083b3d]
 
 The following particulars shall be specified in a breeder’s confirmation:–
 
 - (a) name and address of issuing authority;
-- (b) applicant’s name, address and, if appropriate, registered or licensed number[^key-1975a44e56452b9c8c38d0bbcbdb3082];
+- (b) applicant’s name, address and, if appropriate, registered or licensed number[^c-1975a44e56452b9c8c38d0bbcbdb3082];
 - (c) seed lot reference number;
 - (d) species/variety/category, as appropriate;
 - (e) net weight of seed lot and number of containers;
@@ -47,10 +47,10 @@ The following particulars shall be specified in a breeder’s confirmation:–
 
 ## Annotations
 
-[^key-023468e6d8f39816ed0ca7a4ab36b1b7]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2004/317/schedule/3/paragraph/1) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-023468e6d8f39816ed0ca7a4ab36b1b7]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2004/317/schedule/3/paragraph/1) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-01f710ed7468ccecbcc5c4fb8f25db76]: Textual amendment: Words in [sch. 3 para. 1(b)](https://www.legislation.gov.uk/ssi/2004/317/schedule/3/paragraph/1/b) substituted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 1(5)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/1/5)
+[^c-01f710ed7468ccecbcc5c4fb8f25db76]: Textual amendment: Words in [sch. 3 para. 1(b)](https://www.legislation.gov.uk/ssi/2004/317/schedule/3/paragraph/1/b) substituted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 1(5)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/1/5)
 
-[^key-389dd49b8b1e35a74c5d72f053083b3d]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2004/317/schedule/3/paragraph/2) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-389dd49b8b1e35a74c5d72f053083b3d]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2004/317/schedule/3/paragraph/2) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-1975a44e56452b9c8c38d0bbcbdb3082]: Textual amendment: Words in [sch. 3 para. 2(b)](https://www.legislation.gov.uk/ssi/2004/317/schedule/3/paragraph/2/b) substituted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 1(5)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/1/5)
+[^c-1975a44e56452b9c8c38d0bbcbdb3082]: Textual amendment: Words in [sch. 3 para. 2(b)](https://www.legislation.gov.uk/ssi/2004/317/schedule/3/paragraph/2/b) substituted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 1(5)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/1/5)

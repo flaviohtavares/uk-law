@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Powers to grant tenancies and dispose of land[^key-35cdf3585a0029935be84fc6e9fa4bf3]
+## 55. Powers to grant tenancies and dispose of land[^c-35cdf3585a0029935be84fc6e9fa4bf3]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ for such consideration and on such terms and conditions as it thinks fit.
 
 ## Annotations
 
-[^key-35cdf3585a0029935be84fc6e9fa4bf3]: Commencement: Art. 55 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-35cdf3585a0029935be84fc6e9fa4bf3]: Commencement: Art. 55 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

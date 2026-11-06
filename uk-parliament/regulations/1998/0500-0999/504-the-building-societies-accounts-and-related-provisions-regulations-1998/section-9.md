@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Annual business statement[^key-feddb28d2f2af1f8e260cd7806e4ea01]
+## 9. Annual business statement[^c-feddb28d2f2af1f8e260cd7806e4ea01]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-feddb28d2f2af1f8e260cd7806e4ea01]: Commencement: Reg. 9 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-feddb28d2f2af1f8e260cd7806e4ea01]: Commencement: Reg. 9 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)

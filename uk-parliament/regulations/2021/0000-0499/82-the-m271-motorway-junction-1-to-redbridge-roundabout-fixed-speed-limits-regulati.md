@@ -50,11 +50,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 Representative organisations have been consulted in accordance with section 134(2) of that Act.
 
-## 1. Citation and commencement[^key-7d9424cff02426b43005830e7d9592c4]
+## 1. Citation and commencement[^c-7d9424cff02426b43005830e7d9592c4]
 
 These Regulations may be cited as the M271 Motorway (Junction 1 to Redbridge Roundabout) (Fixed Speed Limits) Regulations 2021 and come into force on 18th February 2021.
 
-## 2. Interpretation[^key-2259d44663ca9a86d3bb24975eac385d]
+## 2. Interpretation[^c-2259d44663ca9a86d3bb24975eac385d]
 
 In these Regulations—
 
@@ -68,14 +68,14 @@ In these Regulations—
 - “the Redbridge roundabout” means the circular intersection of the M271 and the trunk roads known as the A33 and A35; and
 - “the end point” means the point at which the southbound carriageway of the M271 merges with the Redbridge roundabout.
 
-## 3. Fixed speed limits[^key-072cb121d4419d6f0d4af7a6026422ef]
+## 3. Fixed speed limits[^c-072cb121d4419d6f0d4af7a6026422ef]
 
 No person shall drive a vehicle on the 40mph length of carriageway at a speed exceeding 40 miles per hour.
 
-**4.**[^key-1f45896fb1a829304691df35ad4d5915] No person shall drive a vehicle at a speed exceeding 50mph on—
+**4.**[^c-1f45896fb1a829304691df35ad4d5915] No person shall drive a vehicle at a speed exceeding 50mph on—
 
 - (a) the 50mph length of carriageway; or
-- (b) that length of the on-slip road from the point 135 metres[^key-b974fe2563bfe30144d195e866f9dcaf] south of the point where the road diverges from the Nursling Interchange to the point at which the road merges with the 50mph length of carriageway.
+- (b) that length of the on-slip road from the point 135 metres[^c-b974fe2563bfe30144d195e866f9dcaf] south of the point where the road diverges from the Nursling Interchange to the point at which the road merges with the 50mph length of carriageway.
 
 Signed by authority of the Secretary of State for Transport
 
@@ -99,14 +99,14 @@ An impact assessment has not been prepared for these Regulations as no significa
 
 [^f00001]: Footnote: [1984 c.27](https://www.legislation.gov.uk/ukpga/1984/27); section 17(2) was amended by the New Roads and Street Works Act [1991 (c.22)](https://www.legislation.gov.uk/ukpga/1991/22), Schedule 8, Part 2, paragraph 28(3); section 17(2)(b) was amended by the Road Traffic Act [1991 (c.40)](https://www.legislation.gov.uk/ukpga/1991/40), Schedule 8; section 17(2)(d) was inserted by the Road Traffic Act [1991 (c.40)](https://www.legislation.gov.uk/ukpga/1991/40), Schedule 4, paragraph 25. There are other amendments to sections 17 and 134 which are not relevant to these Regulations.
 
-[^key-7d9424cff02426b43005830e7d9592c4]: Commencement: Reg. 1 in force at 18.2.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/82/regulation/1)
+[^c-7d9424cff02426b43005830e7d9592c4]: Commencement: Reg. 1 in force at 18.2.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/82/regulation/1)
 
-[^key-2259d44663ca9a86d3bb24975eac385d]: Commencement: Reg. 2 in force at 18.2.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/82/regulation/1)
+[^c-2259d44663ca9a86d3bb24975eac385d]: Commencement: Reg. 2 in force at 18.2.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/82/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1982/1163](https://www.legislation.gov.uk/uksi/1982/1163), relevant amending instruments are [S.I. 1983/374](https://www.legislation.gov.uk/uksi/1983/374), [1984/1479](https://www.legislation.gov.uk/uksi/1984/1479), [1992/1364](https://www.legislation.gov.uk/uksi/1992/1364), [1995/158](https://www.legislation.gov.uk/uksi/1995/158), [2004/3258](https://www.legislation.gov.uk/uksi/2004/3258), [2015/392](https://www.legislation.gov.uk/uksi/2015/392).
 
-[^key-072cb121d4419d6f0d4af7a6026422ef]: Commencement: Reg. 3 in force at 18.2.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/82/regulation/1)
+[^c-072cb121d4419d6f0d4af7a6026422ef]: Commencement: Reg. 3 in force at 18.2.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/82/regulation/1)
 
-[^key-1f45896fb1a829304691df35ad4d5915]: Commencement: Reg. 4 in force at 18.2.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/82/regulation/1)
+[^c-1f45896fb1a829304691df35ad4d5915]: Commencement: Reg. 4 in force at 18.2.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/82/regulation/1)
 
-[^key-b974fe2563bfe30144d195e866f9dcaf]: Textual amendment: Words in [reg. 4(b)](https://www.legislation.gov.uk/uksi/2021/82/regulation/4/b) substituted (22.3.2022) by [The M271 Motorway (Junction 1 to Redbridge Roundabout) (Fixed Speed Limits) (Amendment) Regulations 2022 (S.I. 2022/202)](https://www.legislation.gov.uk/uksi/2022/202), [regs. 1](https://www.legislation.gov.uk/uksi/2022/202/regulation/1), [2](https://www.legislation.gov.uk/uksi/2022/202/regulation/2)
+[^c-b974fe2563bfe30144d195e866f9dcaf]: Textual amendment: Words in [reg. 4(b)](https://www.legislation.gov.uk/uksi/2021/82/regulation/4/b) substituted (22.3.2022) by [The M271 Motorway (Junction 1 to Redbridge Roundabout) (Fixed Speed Limits) (Amendment) Regulations 2022 (S.I. 2022/202)](https://www.legislation.gov.uk/uksi/2022/202), [regs. 1](https://www.legislation.gov.uk/uksi/2022/202/regulation/1), [2](https://www.legislation.gov.uk/uksi/2022/202/regulation/2)

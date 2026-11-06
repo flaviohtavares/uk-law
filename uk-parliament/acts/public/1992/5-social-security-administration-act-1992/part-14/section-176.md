@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176. Consultation with representative organisations[^key-67cda3bcec11642bd6e1d01e8d7c3340][^key-ba252e03d4edbfaa65c7ab16ff5833bf]
+## 176. Consultation with representative organisations[^c-67cda3bcec11642bd6e1d01e8d7c3340][^c-ba252e03d4edbfaa65c7ab16ff5833bf]
 
 *Extent: E+W+S+N.I.*
 
 (1) Subject to subsection (2) below, before making—
 
-- (a) regulations relating to housing benefit or *(affected by repeal, see note)*[^key-ae8f05bbd18a2381189c432a884c54b1] council tax benefit[^c24156131] *(affected by repeal, see note)*[^key-ae8f05bbd18a2381189c432a884c54b1] (other than regulations of which the effect is to increase any amount specified in regulations previously made); *(affected by repeal, see note)*[^key-ae8f05bbd18a2381189c432a884c54b1]
+- (a) regulations relating to housing benefit or *(affected by repeal, see note)*[^c-ae8f05bbd18a2381189c432a884c54b1] council tax benefit[^c24156131] *(affected by repeal, see note)*[^c-ae8f05bbd18a2381189c432a884c54b1] (other than regulations of which the effect is to increase any amount specified in regulations previously made); *(affected by repeal, see note)*[^c-ae8f05bbd18a2381189c432a884c54b1]
 - (aa)[^c24156151] regulations under section 69 of the Child Support, Pensions and Social Security Act 2000;
-- (b) an order under *(affected by repeal, see note)*[^key-ae8f05bbd18a2381189c432a884c54b1] any provision of Part VIII above[^c24156171] *(affected by repeal, see note)*[^key-ae8f05bbd18a2381189c432a884c54b1],
+- (b) an order under *(affected by repeal, see note)*[^c-ae8f05bbd18a2381189c432a884c54b1] any provision of Part VIII above[^c24156171] *(affected by repeal, see note)*[^c-ae8f05bbd18a2381189c432a884c54b1],
 
 the Secretary of State shall consult with organisations appearing to him to be representative of the authorities concerned.
 
@@ -37,11 +37,11 @@ the Secretary of State shall consult with organisations appearing to him to be r
 
 ## Annotations
 
-[^key-67cda3bcec11642bd6e1d01e8d7c3340]: Modification: S. 176 excluded (16.3.2016 for specified purposes, 7.11.2016 in so far as not already in force) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 8(10)](https://www.legislation.gov.uk/ukpga/2016/7/section/8/10), [36(3)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/3); [S.I. 2016/910](https://www.legislation.gov.uk/uksi/2016/910), [reg. 2](https://www.legislation.gov.uk/uksi/2016/910/regulation/2))
+[^c-67cda3bcec11642bd6e1d01e8d7c3340]: Modification: S. 176 excluded (16.3.2016 for specified purposes, 7.11.2016 in so far as not already in force) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 8(10)](https://www.legislation.gov.uk/ukpga/2016/7/section/8/10), [36(3)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/3); [S.I. 2016/910](https://www.legislation.gov.uk/uksi/2016/910), [reg. 2](https://www.legislation.gov.uk/uksi/2016/910/regulation/2))
 
-[^key-ba252e03d4edbfaa65c7ab16ff5833bf]: Modification: S. 176 excluded by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 96A(8)](https://www.legislation.gov.uk/ukpga/2012/5/section/96A/8) (as inserted (16.3.2016 for specified purposes, 7.11.2016 in so far as not already in force) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2016/7/section/9/1), [36(3)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/3); [S.I. 2016/910](https://www.legislation.gov.uk/uksi/2016/910), [reg. 2](https://www.legislation.gov.uk/uksi/2016/910/regulation/2))
+[^c-ba252e03d4edbfaa65c7ab16ff5833bf]: Modification: S. 176 excluded by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 96A(8)](https://www.legislation.gov.uk/ukpga/2012/5/section/96A/8) (as inserted (16.3.2016 for specified purposes, 7.11.2016 in so far as not already in force) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2016/7/section/9/1), [36(3)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/3); [S.I. 2016/910](https://www.legislation.gov.uk/uksi/2016/910), [reg. 2](https://www.legislation.gov.uk/uksi/2016/910/regulation/2))
 
-[^key-ae8f05bbd18a2381189c432a884c54b1]: Textual amendment: S. 176(1)(a)(b) repealed (1.4.2013 in so far as relate to the abolition of council tax benefit) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 8(c)](https://www.legislation.gov.uk/uksi/2013/358/article/8/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/358/schedule/4) (with [arts. 9](https://www.legislation.gov.uk/uksi/2013/358/article/9), [10](https://www.legislation.gov.uk/uksi/2013/358/article/10), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/358/schedule/5))
+[^c-ae8f05bbd18a2381189c432a884c54b1]: Textual amendment: S. 176(1)(a)(b) repealed (1.4.2013 in so far as relate to the abolition of council tax benefit) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 8(c)](https://www.legislation.gov.uk/uksi/2013/358/article/8/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/358/schedule/4) (with [arts. 9](https://www.legislation.gov.uk/uksi/2013/358/article/9), [10](https://www.legislation.gov.uk/uksi/2013/358/article/10), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/358/schedule/5))
 
 [^c24156131]: Textual amendment: Words in s. 176(1)(a) substituted (1.4.1993) by [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), [s. 118(4)](https://www.legislation.gov.uk/ukpga/1992/14/section/118/4), [Sch. 9 para. 23](https://www.legislation.gov.uk/ukpga/1992/14/schedule/9/paragraph/23)
 

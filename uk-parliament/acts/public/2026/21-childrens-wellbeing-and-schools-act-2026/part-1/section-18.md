@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Power of Secretary of State to impose monetary penalties[^key-b4d31984709af07de95082ab9c8b69f9]
+## 18. Power of Secretary of State to impose monetary penalties[^c-b4d31984709af07de95082ab9c8b69f9]
 
 *Extent: E+W*
 
-(1)[^key-b6f800aba4043b7a18712531d4a26d94] In the [Care Standards Act 2000](https://www.legislation.gov.uk/ukpga/2000/14/contents), after section 30ZL (inserted by section 17) insert—
+(1)[^c-b6f800aba4043b7a18712531d4a26d94] In the [Care Standards Act 2000](https://www.legislation.gov.uk/ukpga/2000/14/contents), after section 30ZL (inserted by section 17) insert—
 
 > **30ZM. Power of Secretary of State to impose monetary penalties**
 >
@@ -38,12 +38,12 @@ summary: ''
 > - (c) the grounds for imposing them, and
 > - (d) their amounts.
 
-(2)[^key-697c0bb1b46e5f3fc84df512d96c8292] In section 14(1) (grounds for cancelling registration) in paragraph (ba) (inserted by section 15(3)) after “30ZC” insert “or 30ZM”.
+(2)[^c-697c0bb1b46e5f3fc84df512d96c8292] In section 14(1) (grounds for cancelling registration) in paragraph (ba) (inserted by section 15(3)) after “30ZC” insert “or 30ZM”.
 
 ## Annotations
 
-[^key-b4d31984709af07de95082ab9c8b69f9]: Commencement: S. 18 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-b4d31984709af07de95082ab9c8b69f9]: Commencement: S. 18 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
-[^key-b6f800aba4043b7a18712531d4a26d94]: Commencement: [S. 18(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/18/1) in force at 15.7.2026 for specified purposes by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(f)(i)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/f/i)
+[^c-b6f800aba4043b7a18712531d4a26d94]: Commencement: [S. 18(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/18/1) in force at 15.7.2026 for specified purposes by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(f)(i)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/f/i)
 
-[^key-697c0bb1b46e5f3fc84df512d96c8292]: Commencement: [S. 18(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/18/2) in force at 15.7.2026 by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(f)(ii)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/f/ii)
+[^c-697c0bb1b46e5f3fc84df512d96c8292]: Commencement: [S. 18(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/18/2) in force at 15.7.2026 by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(f)(ii)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/f/ii)

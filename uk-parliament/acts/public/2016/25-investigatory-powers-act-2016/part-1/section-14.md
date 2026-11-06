@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Restriction on use of section 93 of the Police Act 1997[^key-01809c65749dad2dc70299d0025b6ef3]
+## 14. Restriction on use of section 93 of the Police Act 1997[^c-01809c65749dad2dc70299d0025b6ef3]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01809c65749dad2dc70299d0025b6ef3]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2016/25/section/14) in force at 16.1.2019 by [S.I. 2018/1246](https://www.legislation.gov.uk/uksi/2018/1246), [reg. 4](https://www.legislation.gov.uk/uksi/2018/1246/regulation/4)
+[^c-01809c65749dad2dc70299d0025b6ef3]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2016/25/section/14) in force at 16.1.2019 by [S.I. 2018/1246](https://www.legislation.gov.uk/uksi/2018/1246), [reg. 4](https://www.legislation.gov.uk/uksi/2018/1246/regulation/4)

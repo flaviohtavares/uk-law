@@ -31,7 +31,7 @@ summary: ''
 - (b) whether planning permission for any development on the land is in force, and
 - (c) any other considerations which would be material for the purpose of determining an application for planning permission for development on the land.
 
-(2A)[^key-82e69745c73d618d0b2d658dc3e55061] The Scottish Ministers must not authorise the acquisition of any interest in Crown land unless—
+(2A)[^c-82e69745c73d618d0b2d658dc3e55061] The Scottish Ministers must not authorise the acquisition of any interest in Crown land unless—
 
 - (a) it is an interest which is for the time being held otherwise than by or on behalf of the Crown, and
 - (b) the appropriate authority consents to the acquisition.
@@ -49,16 +49,16 @@ summary: ''
 
 (7) The [^c950186]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 shall apply to the compulsory acquisition of land under this section and accordingly shall have effect as if this section had been in force immediately before the commencement of that Act.
 
-(8)[^key-4b07b136c0709838bb9279e54ce542f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-4b07b136c0709838bb9279e54ce542f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-7532b9319ee6d838321126e5bdbef5da] Crown land must be construed in accordance with Part 12.
+(9)[^c-7532b9319ee6d838321126e5bdbef5da] Crown land must be construed in accordance with Part 12.
 
 ## Annotations
 
-[^key-82e69745c73d618d0b2d658dc3e55061]: Textual amendment: S. 189(2A) inserted (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 3(2)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/3/2) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
+[^c-82e69745c73d618d0b2d658dc3e55061]: Textual amendment: S. 189(2A) inserted (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 3(2)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/3/2) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
 
 [^c950186]: Marginal citation: [1947 c. 42](https://www.legislation.gov.uk/ukpga/1947/42).
 
-[^key-4b07b136c0709838bb9279e54ce542f2]: Textual amendment: S. 189(8) repealed (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 60(1)(j)](https://www.legislation.gov.uk/asp/2003/1/section/60/1/j), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
+[^c-4b07b136c0709838bb9279e54ce542f2]: Textual amendment: S. 189(8) repealed (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 60(1)(j)](https://www.legislation.gov.uk/asp/2003/1/section/60/1/j), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
 
-[^key-7532b9319ee6d838321126e5bdbef5da]: Textual amendment: S. 189(9) inserted (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 3(3)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/3/3) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
+[^c-7532b9319ee6d838321126e5bdbef5da]: Textual amendment: S. 189(9) inserted (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 3(3)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/3/3) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)

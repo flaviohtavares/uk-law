@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Citizenship: registration in special cases[^key-a13b45df6fc413c603875a46175161a6][^key-cecde895c8992ccd512291d8470eecc7]
+## 8. Citizenship: registration in special cases[^c-a13b45df6fc413c603875a46175161a6][^c-cecde895c8992ccd512291d8470eecc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a13b45df6fc413c603875a46175161a6]: Commencement: S. 8 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-a13b45df6fc413c603875a46175161a6]: Commencement: S. 8 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-cecde895c8992ccd512291d8470eecc7]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2022/36/section/8) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/7)
+[^c-cecde895c8992ccd512291d8470eecc7]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2022/36/section/8) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/7)

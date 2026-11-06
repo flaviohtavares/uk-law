@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Supervision[^key-21777dfbc103f727c3f5940ce262a9c1]
+## 46. Supervision[^c-21777dfbc103f727c3f5940ce262a9c1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The service provider must ensure that foster parents are appropriately supervise
 
 ## Annotations
 
-[^key-21777dfbc103f727c3f5940ce262a9c1]: Commencement: [Reg. 46](https://www.legislation.gov.uk/wsi/2019/169/regulation/46) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-21777dfbc103f727c3f5940ce262a9c1]: Commencement: [Reg. 46](https://www.legislation.gov.uk/wsi/2019/169/regulation/46) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

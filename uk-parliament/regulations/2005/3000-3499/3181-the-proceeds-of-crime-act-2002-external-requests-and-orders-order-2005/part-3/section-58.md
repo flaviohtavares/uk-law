@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Restraint orders[^key-4b3efebb0aed5f4c631eb0102033feab]
+## 58. Restraint orders[^c-4b3efebb0aed5f4c631eb0102033feab]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (4) The court may make such order as it believes is appropriate for the purpose of ensuring that the restraint order is effective.
 
-(4A)[^key-422332f3f30281885e3324bda7608f31] Paragraphs (4B) and (4C) apply where the court makes a restraint order (by virtue of the first condition in article 57) as a result of a criminal investigation having been instituted in the country from which the external request was made with regard to an offence.
+(4A)[^c-422332f3f30281885e3324bda7608f31] Paragraphs (4B) and (4C) apply where the court makes a restraint order (by virtue of the first condition in article 57) as a result of a criminal investigation having been instituted in the country from which the external request was made with regard to an offence.
 
 (4B) The court—
 
@@ -59,9 +59,9 @@ summary: ''
 
 ## Annotations
 
-[^key-4b3efebb0aed5f4c631eb0102033feab]: Commencement: [Art. 58](https://www.legislation.gov.uk/uksi/2005/3181/article/58) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-4b3efebb0aed5f4c631eb0102033feab]: Commencement: [Art. 58](https://www.legislation.gov.uk/uksi/2005/3181/article/58) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-422332f3f30281885e3324bda7608f31]: Textual amendment: [Art. 58(4A)-(4C)](https://www.legislation.gov.uk/uksi/2005/3181/article/58/4A) inserted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [12](https://www.legislation.gov.uk/uksi/2016/662/article/12)
+[^c-422332f3f30281885e3324bda7608f31]: Textual amendment: [Art. 58(4A)-(4C)](https://www.legislation.gov.uk/uksi/2005/3181/article/58/4A) inserted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [12](https://www.legislation.gov.uk/uksi/2016/662/article/12)
 
 [^f00036]: Footnote: [1986 c. 32](https://www.legislation.gov.uk/ukpga/1986/32).
 

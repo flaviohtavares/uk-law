@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. New regulation 2A (environmental impact assessment), regulation 2B (environmental statement) and regulation 2C (exempt pipe-line works)[^key-830a923ce1b35b503fe7f255996b654d]
+## 47. New regulation 2A (environmental impact assessment), regulation 2B (environmental statement) and regulation 2C (exempt pipe-line works)[^c-830a923ce1b35b503fe7f255996b654d]
 
 *Extent: E+W+S+N.I.*
 
@@ -99,7 +99,7 @@ After regulation 2, insert—
 
 ## Annotations
 
-[^key-830a923ce1b35b503fe7f255996b654d]: Commencement: Reg. 47 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-830a923ce1b35b503fe7f255996b654d]: Commencement: Reg. 47 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
 
 [^f00021]: Footnote: OJ L 206 22.7.92 p.7.
 

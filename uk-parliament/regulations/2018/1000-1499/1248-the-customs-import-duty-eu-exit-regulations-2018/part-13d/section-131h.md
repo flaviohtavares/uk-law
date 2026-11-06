@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131H. Goods intended to be carried in a shuttle train: making of declarations[^key-93ff1a7b621fdc40cafdbd1c547351aa]
+## 131H. Goods intended to be carried in a shuttle train: making of declarations[^c-93ff1a7b621fdc40cafdbd1c547351aa]
 
 *Extent: E+W+S+N.I.*
 
 (1) A Customs declaration must be made for the free-circulation procedure in respect of the goods by the time they are imported into the United Kingdom for the purpose of CEMA 1979.
 
-(1A)[^key-37a83b2a11485ca6e3da61ea7befce9e] The customs declaration is treated as withdrawn if the goods are not presented to Customs on import within the time specified in a notice published by HMRC.
+(1A)[^c-37a83b2a11485ca6e3da61ea7befce9e] The customs declaration is treated as withdrawn if the goods are not presented to Customs on import within the time specified in a notice published by HMRC.
 
 (1B) HMRC must publish a notice for the purposes of paragraph (1A).
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-93ff1a7b621fdc40cafdbd1c547351aa]: Textual amendment: Pt. 13D inserted (31.12.2020) by [The Customs (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1552)](https://www.legislation.gov.uk/uksi/2020/1552), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/2/11); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-93ff1a7b621fdc40cafdbd1c547351aa]: Textual amendment: Pt. 13D inserted (31.12.2020) by [The Customs (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1552)](https://www.legislation.gov.uk/uksi/2020/1552), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/2/11); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-37a83b2a11485ca6e3da61ea7befce9e]: Textual amendment: [Reg. 131H(1A)](https://www.legislation.gov.uk/uksi/2018/1248/regulation/131H/1A)[(1B)](https://www.legislation.gov.uk/uksi/2018/1248/regulation/131H/1B) inserted (4.12.2023) by [The Customs (Aerodromes and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1202)](https://www.legislation.gov.uk/uksi/2023/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1202/regulation/1), [4(17)](https://www.legislation.gov.uk/uksi/2023/1202/regulation/4/17)
+[^c-37a83b2a11485ca6e3da61ea7befce9e]: Textual amendment: [Reg. 131H(1A)](https://www.legislation.gov.uk/uksi/2018/1248/regulation/131H/1A)[(1B)](https://www.legislation.gov.uk/uksi/2018/1248/regulation/131H/1B) inserted (4.12.2023) by [The Customs (Aerodromes and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1202)](https://www.legislation.gov.uk/uksi/2023/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1202/regulation/1), [4(17)](https://www.legislation.gov.uk/uksi/2023/1202/regulation/4/17)

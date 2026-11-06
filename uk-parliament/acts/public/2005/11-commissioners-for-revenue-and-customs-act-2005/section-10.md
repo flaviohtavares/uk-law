@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. The Valuation Office[^key-4d5ec3af3264beb8461ec6979d1726d0]
+## 10. The Valuation Office[^c-4d5ec3af3264beb8461ec6979d1726d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d5ec3af3264beb8461ec6979d1726d0]: Commencement: S. 10 in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
+[^c-4d5ec3af3264beb8461ec6979d1726d0]: Commencement: S. 10 in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)

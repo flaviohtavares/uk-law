@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Conditions regulating premium rate services[^M_C_1ff3277b-4fab-40f1-ff11-87b81d8a12d6][^key-ef09f956780fa2f0e08010cf5592c9ce]
+## 120. Conditions regulating premium rate services[^M_C_1ff3277b-4fab-40f1-ff11-87b81d8a12d6][^c-ef09f956780fa2f0e08010cf5592c9ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,15 +29,15 @@ summary: ''
 
 (3) The only provision that may be made by conditions under this section is provision requiring the person to whom the condition applies to comply, to the extent required by the condition, with—
 
-- (za)[^key-77d23a6b7437914868191e66c40e6d88] the provisions of an approved code;
+- (za)[^c-77d23a6b7437914868191e66c40e6d88] the provisions of an approved code;
 - (a) directions given in accordance with an approved code by the enforcement authority and for the purpose of enforcing its provisions; and
 - (b) if there is no such code, the provisions of the order for the time being in force under section 122.
 
 (4) The power to set a condition under this section includes power to modify or revoke the conditions for the time being in force under this section.
 
-(5) Section 47 applies[^key-b52cd3d499125532f21d76feb80ae3d1] to the setting, modification and revocation of a condition under this section as it applies to the setting, modification and revocation of a condition under section 45.
+(5) Section 47 applies[^c-b52cd3d499125532f21d76feb80ae3d1] to the setting, modification and revocation of a condition under this section as it applies to the setting, modification and revocation of a condition under section 45.
 
-(6)[^key-0c22bd6d60162cf549742a5a4e63c1a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-0c22bd6d60162cf549742a5a4e63c1a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) A service is a premium rate service for the purposes of this Chapter if—
 
@@ -98,10 +98,10 @@ summary: ''
 
 [^M_C_1ff3277b-4fab-40f1-ff11-87b81d8a12d6]: Modification: Ss. 120-124 modified (31.12.2020) by [The Communications Act (e-Commerce) (EU Exit) Regulations 2020 (S.I. 2020/1420)](https://www.legislation.gov.uk/uksi/2020/1420), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1420/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1420/regulation/2)
 
-[^key-ef09f956780fa2f0e08010cf5592c9ce]: Commencement: S. 120 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-ef09f956780fa2f0e08010cf5592c9ce]: Commencement: S. 120 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-77d23a6b7437914868191e66c40e6d88]: Textual amendment: S. 120(3)(za) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [ss. 80(1)](https://www.legislation.gov.uk/ukpga/2015/15/section/80/1), [100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(e)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/e) (with [art. 7](https://www.legislation.gov.uk/uksi/2015/1630/article/7))
+[^c-77d23a6b7437914868191e66c40e6d88]: Textual amendment: S. 120(3)(za) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [ss. 80(1)](https://www.legislation.gov.uk/ukpga/2015/15/section/80/1), [100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(e)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/e) (with [art. 7](https://www.legislation.gov.uk/uksi/2015/1630/article/7))
 
-[^key-b52cd3d499125532f21d76feb80ae3d1]: Textual amendment: Words in s. 120(5) substituted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 76(a)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/76/a) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2), [16](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/16))
+[^c-b52cd3d499125532f21d76feb80ae3d1]: Textual amendment: Words in s. 120(5) substituted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 76(a)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/76/a) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2), [16](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/16))
 
-[^key-0c22bd6d60162cf549742a5a4e63c1a4]: Textual amendment: S. 120(6) omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 76(b)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/76/b) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2), [16](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/16))
+[^c-0c22bd6d60162cf549742a5a4e63c1a4]: Textual amendment: S. 120(6) omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 76(b)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/76/b) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2), [16](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/16))

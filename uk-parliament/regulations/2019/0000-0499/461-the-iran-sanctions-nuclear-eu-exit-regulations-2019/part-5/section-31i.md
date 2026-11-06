@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31I. Brokering services relating to gold, precious metals and diamonds[^key-4ad1f2c796308dd4c656dc2768c0e8b2]
+## 31I. Brokering services relating to gold, precious metals and diamonds[^c-4ad1f2c796308dd4c656dc2768c0e8b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ad1f2c796308dd4c656dc2768c0e8b2]: Textual amendment: [Pt. 5 Chs. 2A-2D](https://www.legislation.gov.uk/uksi/2019/461/part/5/chapter/2A) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [7(m)](https://www.legislation.gov.uk/uksi/2026/983/regulation/7/m)
+[^c-4ad1f2c796308dd4c656dc2768c0e8b2]: Textual amendment: [Pt. 5 Chs. 2A-2D](https://www.legislation.gov.uk/uksi/2019/461/part/5/chapter/2A) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [7(m)](https://www.legislation.gov.uk/uksi/2026/983/regulation/7/m)

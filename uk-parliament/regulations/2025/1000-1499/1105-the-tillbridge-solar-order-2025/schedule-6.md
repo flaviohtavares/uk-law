@@ -22,7 +22,7 @@ summary: ''
 
 Article 12
 
-### PART 1 — TEMPORARY PROHIBITION OR RESTRICTION OF THE USE OF STREETS[^key-31d4d932954fed9c11847886539bf56f]
+### PART 1 — TEMPORARY PROHIBITION OR RESTRICTION OF THE USE OF STREETS[^c-31d4d932954fed9c11847886539bf56f]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street* | *(3)*<br>*Measure* |
 | --- | --- | --- |
@@ -45,12 +45,12 @@ Article 12
 | Nottinghamshire County Council | Headstead Bank up until the junction of Headstead Bank and Broad Lane | Temporarily single or full closure to all traffic save for traffic under the direction of the undertaker for the width of the street to facilitate the alteration of layout and street works for the lengths shown in green solid and patterned hatching on Sheet 21 of the streets, rights of way and access plans. |
 | Nottinghamshire County Council | Town Street | Temporarily single or full closure to all traffic save for traffic under the direction of the undertaker for the width of the street to facilitate the alteration of layout for the lengths shown in green solid hatching on Sheet 21 of the streets, rights of way and access plans. |
 | Nottinghamshire County Council | Cow Pasture Lane | Temporarily single or full closure to all traffic save for traffic under the direction of the undertaker for the width of the street to facilitate the alteration of layout and street works for the lengths shown in green solid and patterned hatching on Sheet 21 of the streets, rights of way and access plans. |
-| Nottinghamshire County Council | Cottam Road[^key-b8b0807e604c7a453ab8bf0ca7791542] | Temporarily single or full closure to all traffic save for traffic under the direction of the undertaker for the width of the street to facilitate the alteration of layout and street works for the lengths shown in green solid and patterned hatching on Sheets 21 and 22 of the streets, rights of way and access plans. |
+| Nottinghamshire County Council | Cottam Road[^c-b8b0807e604c7a453ab8bf0ca7791542] | Temporarily single or full closure to all traffic save for traffic under the direction of the undertaker for the width of the street to facilitate the alteration of layout and street works for the lengths shown in green solid and patterned hatching on Sheets 21 and 22 of the streets, rights of way and access plans. |
 | Nottinghamshire County Council | Torksey Ferry Road | Temporarily single or full closure to all traffic save for traffic under the direction of the undertaker for the width of the street to facilitate the alteration of layout and street works for the lengths shown in green solid and patterned hatching on Sheets 23 and 24 of the streets, rights of way and access plans. |
 | Nottinghamshire County Council | Shortleys Road | Temporarily single or full closure to all traffic save for traffic under the direction of the undertaker for the width of the street to facilitate the alteration of layout for the length shown in green solid hatching on Sheet 23 of the streets, rights of way and access plans. |
 | Nottinghamshire County Council | Nightleys Road | Temporarily single or full closure to all traffic save for traffic under the direction of the undertaker for the width of the street to facilitate the alteration of layout for the length shown in green solid hatching on Sheet 23 of the streets, rights of way and access plans. |
 
-### PART 2 — TEMPORARY PROHIBITION OR RESTRICTION OF PUBLIC RIGHTS OF WAY WITH DIVERSION[^key-d4b094d1f079f1be15d57aeaf57f49ba]
+### PART 2 — TEMPORARY PROHIBITION OR RESTRICTION OF PUBLIC RIGHTS OF WAY WITH DIVERSION[^c-d4b094d1f079f1be15d57aeaf57f49ba]
 
 | *(1)*<br>*Area* | *(2)*<br>*Public right of way* | *(3)*<br>*Measure* |
 | --- | --- | --- |
@@ -67,13 +67,13 @@ Article 12
 | Nottinghamshire County Council | NT“Rampton”FP20 | Public Right of Way to be temporarily stopped up and diverted between PRoW 23/06 and PRoW 23/07 as shown on Sheet 23 of the streets, access and rights of way plans, to facilitate the construction of the authorised development. |
 | Nottinghamshire County Council | NT“Rampton”BOAT12 | Public Right of Way to be temporarily stopped up and diverted between PRoW 23/08 and PRoW 23/09 as shown on Sheet 23 of the streets, access and rights of way plans, to facilitate the construction of the authorised development. |
 
-### PART 3 — PERMANENT USE OF MOTOR VEHICLES ON PUBLIC RIGHT OF WAY[^key-490ba624b2229285e8cba2cac924f591]
+### PART 3 — PERMANENT USE OF MOTOR VEHICLES ON PUBLIC RIGHT OF WAY[^c-490ba624b2229285e8cba2cac924f591]
 
 | *(1)*<br>*Area* | *(2)*<br>*Public right of way* | *(3)*<br>*Measure* |
 | --- | --- | --- |
 | Nottinghamshire County Council | NT“Rampton”BOAT13 | Permanent use of motor vehicles under the direction of the undertaker at location PRoW 23/03 and PRoW 24/01 as shown on Sheets 23 and 24 of the streets, access and rights of way plans, to facilitate the construction and operation of the Scheme. |
 
-### PART 4 — TEMPORARY MANAGEMENT OF PUBLIC RIGHTS OF WAY[^key-50a48f2ce9c8110b00dad37304030ffa]
+### PART 4 — TEMPORARY MANAGEMENT OF PUBLIC RIGHTS OF WAY[^c-50a48f2ce9c8110b00dad37304030ffa]
 
 | *(1)*<br>*Area* | *(2)*<br>*Public right of way* | *(3)*<br>*Measure* |
 | --- | --- | --- |
@@ -90,7 +90,7 @@ Article 12
 | Nottinghamshire County Council | NT“Rampton”FP20 | Public Right of Way between points PRoW 23/06 and PRoW 23/07 as shown on Sheet 23 of the streets, access and rights of way plans to be managed during construction of the authorised development. |
 | Nottinghamshire County Council | NT“Rampton”BOAT12 | Public Right of Way between points PRoW 23/08 and PRoW 23/09 as shown on Sheet 23 of the streets, access and rights of way plans to be managed during construction of the authorised development. |
 
-### PART 5 — TEMPORARY USE OF MOTOR VEHICLES ON PUBLIC RIGHTS OF WAY[^key-7aa2092ed842891883cd1bc9cb385cb7]
+### PART 5 — TEMPORARY USE OF MOTOR VEHICLES ON PUBLIC RIGHTS OF WAY[^c-7aa2092ed842891883cd1bc9cb385cb7]
 
 | *(1)*<br>*Area* | *(2)*<br>*Public right of way* | *(3)*<br>*Measure* |
 | --- | --- | --- |
@@ -106,14 +106,14 @@ Article 12
 
 ## Annotations
 
-[^key-31d4d932954fed9c11847886539bf56f]: Commencement: Sch. 6 Pt. 1 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
+[^c-31d4d932954fed9c11847886539bf56f]: Commencement: Sch. 6 Pt. 1 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
 
-[^key-b8b0807e604c7a453ab8bf0ca7791542]: Textual amendment: Words in Sch. 6 Pt. 1 substituted (30.4.2026) by [The Tillbridge Solar (Correction) Order 2026 (S.I. 2026/487)](https://www.legislation.gov.uk/uksi/2026/487), [art. 1](https://www.legislation.gov.uk/uksi/2026/487/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/487/schedule)
+[^c-b8b0807e604c7a453ab8bf0ca7791542]: Textual amendment: Words in Sch. 6 Pt. 1 substituted (30.4.2026) by [The Tillbridge Solar (Correction) Order 2026 (S.I. 2026/487)](https://www.legislation.gov.uk/uksi/2026/487), [art. 1](https://www.legislation.gov.uk/uksi/2026/487/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/487/schedule)
 
-[^key-d4b094d1f079f1be15d57aeaf57f49ba]: Commencement: Sch. 6 Pt. 2 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
+[^c-d4b094d1f079f1be15d57aeaf57f49ba]: Commencement: Sch. 6 Pt. 2 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
 
-[^key-490ba624b2229285e8cba2cac924f591]: Commencement: Sch. 6 Pt. 3 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
+[^c-490ba624b2229285e8cba2cac924f591]: Commencement: Sch. 6 Pt. 3 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
 
-[^key-50a48f2ce9c8110b00dad37304030ffa]: Commencement: Sch. 6 Pt. 4 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
+[^c-50a48f2ce9c8110b00dad37304030ffa]: Commencement: Sch. 6 Pt. 4 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
 
-[^key-7aa2092ed842891883cd1bc9cb385cb7]: Commencement: Sch. 6 Pt. 5 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
+[^c-7aa2092ed842891883cd1bc9cb385cb7]: Commencement: Sch. 6 Pt. 5 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)

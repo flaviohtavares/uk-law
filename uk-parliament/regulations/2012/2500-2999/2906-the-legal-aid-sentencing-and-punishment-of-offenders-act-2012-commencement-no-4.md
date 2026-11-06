@@ -39,7 +39,7 @@ Made
 
 The Secretary of State makes the following Order in exercise of the powers conferred by section 151(1) and (5)(b) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00001].
 
-## 1. Citation and interpretation[^key-25eaa3b64229930fcd8cd3bf9893dc51]
+## 1. Citation and interpretation[^c-25eaa3b64229930fcd8cd3bf9893dc51]
 
 (1) This Order may be cited as the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Commencement No. 4 and Saving Provisions) Order 2012.
 
@@ -52,7 +52,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 - “service community order” has the meaning given by section 178 of the Armed Forces Act 2006[^f00004]; and
 - “overseas community order” has the meaning given by section 182 of the Armed Forces Act 2006.
 
-## 2. Provisions coming into force on 3rd December 2012[^key-74ba5143edcf195f85aa07b1c50c2544]
+## 2. Provisions coming into force on 3rd December 2012[^c-74ba5143edcf195f85aa07b1c50c2544]
 
 Subject to articles 3 to 7, the following provisions of the Act come into force on 3rd December 2012—
 
@@ -81,7 +81,7 @@ Subject to articles 3 to 7, the following provisions of the Act come into force 
 - (s) Schedule 21 (abolition of certain sentences for dangerous offenders and new extended sentences: consequential and transitory provision); and
 - (t) Schedule 22 (dangerous offenders subject to service law etc).
 
-## 3. Saving provision in relation to offences committed before 3rd December 2012[^key-9f2b35e6aa77a5450954a437afa246f5]
+## 3. Saving provision in relation to offences committed before 3rd December 2012[^c-9f2b35e6aa77a5450954a437afa246f5]
 
 (1) The coming into force of the following provisions of the Act is of no effect in relation to an offence committed before 3rd December 2012—
 
@@ -92,7 +92,7 @@ Subject to articles 3 to 7, the following provisions of the Act come into force 
 
 (2) Where an offence is found to have been committed over a period of two or more days, or at some time during a period of two or more days, the offence is to be treated as having been committed on the last of those days.
 
-## 4. Saving provision in relation to breaches of relevant orders which took place before 3rd December 2012[^key-50a85ea4293ec94da231ec1c835b6a6f]
+## 4. Saving provision in relation to breaches of relevant orders which took place before 3rd December 2012[^c-50a85ea4293ec94da231ec1c835b6a6f]
 
 (1) The coming into force of the following provisions of the Act is of no effect in relation to a failure to comply with a requirement of a relevant order where the failure took place before 3rd December 2012—
 
@@ -110,13 +110,13 @@ Subject to articles 3 to 7, the following provisions of the Act come into force 
 - (d) a service community order;
 - (e) an overseas community order.
 
-## 5. Saving provisions in relation to community orders and youth rehabilitation orders made before 3rd December 2012[^key-2eb31d9960f712b4ff2f50cf7bafe0d5]
+## 5. Saving provisions in relation to community orders and youth rehabilitation orders made before 3rd December 2012[^c-2eb31d9960f712b4ff2f50cf7bafe0d5]
 
 (1) The coming into force of section 66(5) of the Act (power of court to extend a community order) is of no effect in relation to a community order made before 3rd December 2012.
 
 (2) The coming into force of section 83(5) of the Act (power of court to extend a youth rehabilitation order) is of no effect in relation to a youth rehabilitation order made before 3rd December 2012.
 
-## 6. Saving provision in relation to persons convicted before 3rd December 2012[^key-c8342fca98a55172fac0e624300f8b11]
+## 6. Saving provision in relation to persons convicted before 3rd December 2012[^c-c8342fca98a55172fac0e624300f8b11]
 
 The coming into force of the following provisions of the Act is of no effect in relation to a person convicted before 3rd December 2012—
 
@@ -127,7 +127,7 @@ The coming into force of the following provisions of the Act is of no effect in 
   - (iii) paragraphs 7 and 8 (abolition of sentence of detention for public protection: dangerous offenders aged under 18 subject to service law); and
   - (iv) paragraph 10 (abolition of extended sentence for certain violent and sexual offences: dangerous offenders aged under 18 subject to service law).
 
-## 7. Saving provisions in relation to children remanded to prison or local authority accommodation before 3rd December 2012[^key-9eaa80e0cedec05e863737ae5e150052]
+## 7. Saving provisions in relation to children remanded to prison or local authority accommodation before 3rd December 2012[^c-9eaa80e0cedec05e863737ae5e150052]
 
 (1) Chapter 3 of Part 3 of the Act (except section 105(1)) is of no effect in relation to proceedings in which a child is subject to a pre-commencement remand.
 
@@ -142,7 +142,7 @@ The coming into force of the following provisions of the Act is of no effect in 
 - (g) paragraph 31; and
 - (h) paragraphs 33 to 58.
 
-(3)[^key-2a36c7dffa218ff4d840c65f67da91ea] A pre-commencement remand is a remand which—
+(3)[^c-2a36c7dffa218ff4d840c65f67da91ea] A pre-commencement remand is a remand which—
 
 - (a) commenced before 3rd December 2012; and
 - (b) is a remand—
@@ -207,7 +207,7 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [2012 c.10](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-25eaa3b64229930fcd8cd3bf9893dc51]: Commencement: Art. 1 in force at made date
+[^c-25eaa3b64229930fcd8cd3bf9893dc51]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [2003 c.44](https://www.legislation.gov.uk/ukpga/2003/44).
 
@@ -215,23 +215,23 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00004]: Footnote: [2006 c.52](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-74ba5143edcf195f85aa07b1c50c2544]: Commencement: Art. 2 in force at made date
+[^c-74ba5143edcf195f85aa07b1c50c2544]: Commencement: Art. 2 in force at made date
 
 [^f00005]: Footnote: Section 77 of the Act came into force on Royal Assent (1st May 2012).
 
 [^f00006]: Footnote: Section 119 of the Act came into force on Royal Assent (1st May 2012).
 
-[^key-9f2b35e6aa77a5450954a437afa246f5]: Commencement: Art. 3 in force at made date
+[^c-9f2b35e6aa77a5450954a437afa246f5]: Commencement: Art. 3 in force at made date
 
-[^key-50a85ea4293ec94da231ec1c835b6a6f]: Commencement: Art. 4 in force at made date
+[^c-50a85ea4293ec94da231ec1c835b6a6f]: Commencement: Art. 4 in force at made date
 
-[^key-2eb31d9960f712b4ff2f50cf7bafe0d5]: Commencement: Art. 5 in force at made date
+[^c-2eb31d9960f712b4ff2f50cf7bafe0d5]: Commencement: Art. 5 in force at made date
 
-[^key-c8342fca98a55172fac0e624300f8b11]: Commencement: Art. 6 in force at made date
+[^c-c8342fca98a55172fac0e624300f8b11]: Commencement: Art. 6 in force at made date
 
-[^key-9eaa80e0cedec05e863737ae5e150052]: Commencement: Art. 7 in force at made date
+[^c-9eaa80e0cedec05e863737ae5e150052]: Commencement: Art. 7 in force at made date
 
-[^key-2a36c7dffa218ff4d840c65f67da91ea]: Modification: [Art. 7(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/3) modified (1.12.2020 immediately before the consolidation date (see [2020 c. 9](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 3](https://www.legislation.gov.uk/ukpga/2020/9/section/3), [5(2)(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2/3) and [2020 c. 17](https://www.legislation.gov.uk/ukpga/2020/17), [ss. 2](https://www.legislation.gov.uk/ukpga/2020/17/section/2), [416](https://www.legislation.gov.uk/ukpga/2020/17/section/416))) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [s. 5(2)(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2/3), [Sch. 2 para. 138](https://www.legislation.gov.uk/ukpga/2020/9/schedule/2/paragraph/138); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
+[^c-2a36c7dffa218ff4d840c65f67da91ea]: Modification: [Art. 7(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/3) modified (1.12.2020 immediately before the consolidation date (see [2020 c. 9](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 3](https://www.legislation.gov.uk/ukpga/2020/9/section/3), [5(2)(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2/3) and [2020 c. 17](https://www.legislation.gov.uk/ukpga/2020/17), [ss. 2](https://www.legislation.gov.uk/ukpga/2020/17/section/2), [416](https://www.legislation.gov.uk/ukpga/2020/17/section/416))) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [s. 5(2)(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2/3), [Sch. 2 para. 138](https://www.legislation.gov.uk/ukpga/2020/9/schedule/2/paragraph/138); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
 
 [^f00007]: Footnote: [1948 c.58](https://www.legislation.gov.uk/ukpga/1948/58).
 

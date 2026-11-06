@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31.9. Disclosure of copies[^key-dd0d1ca00e519b0f31b77988b50730bd]
+## 31.9. Disclosure of copies[^c-dd0d1ca00e519b0f31b77988b50730bd]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) A copy of a document that contains a modification, obliteration or other marking or feature—
 
 - (a) on which a party intends to rely; or
-- (b) which adversely affects their[^key-b4f13549d2ea2d8095e4e37d83721167] own case or another party’s case or supports another party’s case;
+- (b) which adversely affects their[^c-b4f13549d2ea2d8095e4e37d83721167] own case or another party’s case or supports another party’s case;
 
 shall be treated as a separate document.
 
@@ -33,6 +33,6 @@ shall be treated as a separate document.
 
 ## Annotations
 
-[^key-dd0d1ca00e519b0f31b77988b50730bd]: Commencement: Rule 31.9 in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-dd0d1ca00e519b0f31b77988b50730bd]: Commencement: Rule 31.9 in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-b4f13549d2ea2d8095e4e37d83721167]: Textual amendment: Word in [rule 31.9(2)(b)](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.9/2/b) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(5)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/5)
+[^c-b4f13549d2ea2d8095e4e37d83721167]: Textual amendment: Word in [rule 31.9(2)(b)](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.9/2/b) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(5)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/5)

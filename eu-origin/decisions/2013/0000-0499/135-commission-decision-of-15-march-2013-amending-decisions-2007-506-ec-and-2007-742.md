@@ -39,18 +39,18 @@ amending Decisions 2007/506/EC and 2007/742/EC in order to prolong the validity 
 
 (2013/135/EU) (revoked)
 
-[^key-f396e11369458bb63e17bf4ff63f1110]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f396e11369458bb63e17bf4ff63f1110]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-f396e11369458bb63e17bf4ff63f1110] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f396e11369458bb63e17bf4ff63f1110] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f396e11369458bb63e17bf4ff63f1110] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f396e11369458bb63e17bf4ff63f1110] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-f396e11369458bb63e17bf4ff63f1110] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-f396e11369458bb63e17bf4ff63f1110] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f396e11369458bb63e17bf4ff63f1110]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f396e11369458bb63e17bf4ff63f1110]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f396e11369458bb63e17bf4ff63f1110]: Textual amendment: Decision revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f396e11369458bb63e17bf4ff63f1110]: Textual amendment: Decision revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

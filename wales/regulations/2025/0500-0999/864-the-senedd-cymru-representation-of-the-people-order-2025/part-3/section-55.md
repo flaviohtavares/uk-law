@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Individual candidates: declaration as to election expenses[^key-a9e4ef77dc460ec7c9012c20f6e5af46]
+## 55. Individual candidates: declaration as to election expenses[^c-a9e4ef77dc460ec7c9012c20f6e5af46]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9e4ef77dc460ec7c9012c20f6e5af46]: Commencement: Art. 55 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-a9e4ef77dc460ec7c9012c20f6e5af46]: Commencement: Art. 55 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Necessary improvements: referral to Scottish Ministers[^key-ce8426bee7633f1fb5c0dc91568a0d00][^key-adcefa5e193175389f166a2780680def]
+## 55. Necessary improvements: referral to Scottish Ministers[^c-ce8426bee7633f1fb5c0dc91568a0d00][^c-adcefa5e193175389f166a2780680def]
 
 *Extent: S*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ce8426bee7633f1fb5c0dc91568a0d00]: Commencement: S. 55 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-ce8426bee7633f1fb5c0dc91568a0d00]: Commencement: S. 55 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-adcefa5e193175389f166a2780680def]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2025/11/section/55) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
+[^c-adcefa5e193175389f166a2780680def]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2025/11/section/55) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)

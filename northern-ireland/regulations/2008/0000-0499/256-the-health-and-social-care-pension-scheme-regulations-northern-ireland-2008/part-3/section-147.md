@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 147. Restriction on pensionable earnings used for calculating benefits in respect of capped transferred-in service[^key-53b6b9f985fb9e220ea3580163054b69]
+## 147. Restriction on pensionable earnings used for calculating benefits in respect of capped transferred-in service[^c-53b6b9f985fb9e220ea3580163054b69]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53b6b9f985fb9e220ea3580163054b69]: Textual amendment: [Reg. 147](https://www.legislation.gov.uk/nisr/2008/256/regulation/147) omitted (with effect in accordance with reg. 1(2) of the amending Rule) by virtue of [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [60](https://www.legislation.gov.uk/nisr/2010/22/regulation/60)
+[^c-53b6b9f985fb9e220ea3580163054b69]: Textual amendment: [Reg. 147](https://www.legislation.gov.uk/nisr/2008/256/regulation/147) omitted (with effect in accordance with reg. 1(2) of the amending Rule) by virtue of [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [60](https://www.legislation.gov.uk/nisr/2010/22/regulation/60)

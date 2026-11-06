@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 228. Award of costs against the administrator[^key-f05f4482de3afba119d7d067b8dba981]
+## 228. Award of costs against the administrator[^c-f05f4482de3afba119d7d067b8dba981]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Without prejudice to any provision of the Regulations or these Rules by virtue o
 
 ## Annotations
 
-[^key-f05f4482de3afba119d7d067b8dba981]: Commencement: Rule 228 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-f05f4482de3afba119d7d067b8dba981]: Commencement: Rule 228 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

@@ -93,7 +93,7 @@ shall be guilty of an offence.
 
 an authorised officer may serve a notice on the person in possession of the beef requiring its removal from sale until the beef is re-labelled in accordance with those requirements.
 
-(2A)[^key-7d530528a896c9748da67cbef819bee9] A notice served pursuant to paragraph (2) shall state the right of appeal to a magistrates' court under regulation 13A and the period within which the appeal may be brought.
+(2A)[^c-7d530528a896c9748da67cbef819bee9] A notice served pursuant to paragraph (2) shall state the right of appeal to a magistrates' court under regulation 13A and the period within which the appeal may be brought.
 
 (3) In respect of beef derived from animals slaughtered on or after 1st September 2000, a notice served under paragraph (2) above may authorise the beef to be sent directly for processing into products other than those indicated in the first indent of Article 12 of Regulation 1760/2000.
 
@@ -194,7 +194,7 @@ he has served on the prosecutor a notice in writing giving such information iden
 
 (3) A person guilty of an offence under regulation 9(1)(c) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a term not exceeding six months or to both.
 
-## 13A. Appeals against notices[^key-ed3779448f31a0970a223a7cc6033145]
+## 13A. Appeals against notices[^c-ed3779448f31a0970a223a7cc6033145]
 
 (1) Any person who is aggrieved by a decision of an authorised officer to serve a notice pursuant to regulation 5(2) may appeal to a magistrates' court.
 
@@ -244,10 +244,10 @@ A Regulatory Impact Assessment has not been prepared in respect of these Regulat
 
 [^c16211721]: Marginal citation: The Minister retains the power to act as competent authority by means of regulation 13(1)(c) of the [Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) (England and Wales) Regulations 2000 (S.I. 2000/656)](https://www.legislation.gov.uk/uksi/2000/656).
 
-[^key-7d530528a896c9748da67cbef819bee9]: Textual amendment: Reg. 5(2A) inserted (1.10.2002) by [The Beef Labelling (Enforcement) (England) (Amendment) Regulations 2002 (S.I. 2002/2315)](https://www.legislation.gov.uk/uksi/2002/2315), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2315/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2002/2315/regulation/2/2)
+[^c-7d530528a896c9748da67cbef819bee9]: Textual amendment: Reg. 5(2A) inserted (1.10.2002) by [The Beef Labelling (Enforcement) (England) (Amendment) Regulations 2002 (S.I. 2002/2315)](https://www.legislation.gov.uk/uksi/2002/2315), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2315/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2002/2315/regulation/2/2)
 
 [^c16211731]: Marginal citation: 1984\. c. 60.
 
-[^key-ed3779448f31a0970a223a7cc6033145]: Textual amendment: Reg. 13A inserted (1.10.2002) by [The Beef Labelling (Enforcement) (England) (Amendment) Regulations 2002 (S.I. 2002/2315)](https://www.legislation.gov.uk/uksi/2002/2315), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2315/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2002/2315/regulation/2/3)
+[^c-ed3779448f31a0970a223a7cc6033145]: Textual amendment: Reg. 13A inserted (1.10.2002) by [The Beef Labelling (Enforcement) (England) (Amendment) Regulations 2002 (S.I. 2002/2315)](https://www.legislation.gov.uk/uksi/2002/2315), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2315/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2002/2315/regulation/2/3)
 
 [^c16211741]: Marginal citation: [S.I. 1998/616](https://www.legislation.gov.uk/uksi/1998/616).

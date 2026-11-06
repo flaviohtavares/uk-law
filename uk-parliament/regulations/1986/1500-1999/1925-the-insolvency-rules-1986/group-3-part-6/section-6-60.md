@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.60. Verification and filing[^key-b99b836f9cb4538d448ea54cad45a3b3]
+## 6.60. Verification and filing[^c-b99b836f9cb4538d448ea54cad45a3b3]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b99b836f9cb4538d448ea54cad45a3b3]: Commencement: [Rule 6.60](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.60) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-b99b836f9cb4538d448ea54cad45a3b3]: Commencement: [Rule 6.60](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.60) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

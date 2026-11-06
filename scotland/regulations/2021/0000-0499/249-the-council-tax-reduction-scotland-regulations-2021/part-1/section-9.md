@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Occupation of a dwelling as a home[^key-2e8ade45fbf6bc739e00aa0eaf15d89b]
+## 9. Occupation of a dwelling as a home[^c-2e8ade45fbf6bc739e00aa0eaf15d89b]
 
 *Extent: S*
 
@@ -140,7 +140,7 @@ the person is to be treated as occupying the dwelling as a home for a period not
 
 ## Annotations
 
-[^key-2e8ade45fbf6bc739e00aa0eaf15d89b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2021/249/regulation/9) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-2e8ade45fbf6bc739e00aa0eaf15d89b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2021/249/regulation/9) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00087]: Footnote: [2007 c.21](https://www.legislation.gov.uk/ukpga/2007/21).
 

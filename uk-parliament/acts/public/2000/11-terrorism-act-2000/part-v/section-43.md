@@ -24,11 +24,11 @@ summary: ''
 
 (2) A constable may search a person arrested under section 41 to discover whether he has in his possession anything which may constitute evidence that he is a terrorist.
 
-(3)[^key-698f19f3fb6ce08336021b86f5474e59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-698f19f3fb6ce08336021b86f5474e59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4)[^c11205121] A constable may seize and retain anything which he discovers in the course of a search of a person under subsection (1) or (2) and which he reasonably suspects may constitute evidence that the person is a terrorist.
 
-(4A)[^key-b63dc2414e817ba7488fdc9445389251] Subsection (4B) applies if a constable, in exercising the power under subsection (1) to stop a person whom the constable reasonably suspects to be a terrorist, stops a vehicle (see section 116(2)).
+(4A)[^c-b63dc2414e817ba7488fdc9445389251] Subsection (4B) applies if a constable, in exercising the power under subsection (1) to stop a person whom the constable reasonably suspects to be a terrorist, stops a vehicle (see section 116(2)).
 
 (4B) The constable—
 
@@ -43,8 +43,8 @@ summary: ''
 
 ## Annotations
 
-[^key-698f19f3fb6ce08336021b86f5474e59]: Textual amendment: S. 43(3) repealed (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 60(1)](https://www.legislation.gov.uk/ukpga/2012/9/section/60/1), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/d)(l)
+[^c-698f19f3fb6ce08336021b86f5474e59]: Textual amendment: S. 43(3) repealed (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 60(1)](https://www.legislation.gov.uk/ukpga/2012/9/section/60/1), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/d)(l)
 
 [^c11205121]: Modification: S. 43(4): power(s) of seizure extended (1.4.2003) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 51-54](https://www.legislation.gov.uk/ukpga/2001/16/section/51), [68](https://www.legislation.gov.uk/ukpga/2001/16/section/68), [Sch. 1 Pt. 2 para. 82](https://www.legislation.gov.uk/ukpga/2001/16/schedule/1/part/2/paragraph/82); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2](https://www.legislation.gov.uk/uksi/2003/708/article/2)
 
-[^key-b63dc2414e817ba7488fdc9445389251]: Textual amendment: S. 43(4A)-(4C) inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 60(2)](https://www.legislation.gov.uk/ukpga/2012/9/section/60/2), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/d)
+[^c-b63dc2414e817ba7488fdc9445389251]: Textual amendment: S. 43(4A)-(4C) inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 60(2)](https://www.legislation.gov.uk/ukpga/2012/9/section/60/2), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/d)

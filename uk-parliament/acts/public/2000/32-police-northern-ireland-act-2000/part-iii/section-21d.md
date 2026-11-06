@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21D. Reports by Belfast district policing partnership to Board[^key-ffc135c3d2430b03b08a2c7614f7304a]
+## 21D. Reports by Belfast district policing partnership to Board[^c-ffc135c3d2430b03b08a2c7614f7304a]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffc135c3d2430b03b08a2c7614f7304a]: Textual amendment: [S. 21D](https://www.legislation.gov.uk/ukpga/2000/32/section/21D) inserted (4.9.2007) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 19](https://www.legislation.gov.uk/ukpga/2003/6/section/19), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2003/6/schedule/1/paragraph/9); [S.R. 2007/371](https://www.legislation.gov.uk/nisr/2007/371), [art. 2(c)](https://www.legislation.gov.uk/nisr/2007/371/article/2/c)
+[^c-ffc135c3d2430b03b08a2c7614f7304a]: Textual amendment: [S. 21D](https://www.legislation.gov.uk/ukpga/2000/32/section/21D) inserted (4.9.2007) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 19](https://www.legislation.gov.uk/ukpga/2003/6/section/19), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2003/6/schedule/1/paragraph/9); [S.R. 2007/371](https://www.legislation.gov.uk/nisr/2007/371), [art. 2(c)](https://www.legislation.gov.uk/nisr/2007/371/article/2/c)

@@ -30,7 +30,7 @@ Local Government Act (Northern Ireland) 1972
 
 [^M_C_ebc34106-e853-4b5a-9798-c2355b691504]An Act to provide for the constitution of district councils to administer local government districts, for the regulation of such councils and for certain of their functions; to abolish existing local government areas and existing local authorities, with certain exceptions, and to enable provision to be made for the transfer of the functions, assets and liabilities of such authorities; and for connected purposes.
 
-\[23rd March 1972\][^key-ad16290b1f80c2ffc9a8a7990909ee32]
+\[23rd March 1972\][^c-ad16290b1f80c2ffc9a8a7990909ee32]
 
 ## Contents
 
@@ -348,7 +348,7 @@ SCHEDULES
 
 [^M_C_ebc34106-e853-4b5a-9798-c2355b691504]: Modification: Act construed (2.6.2014 for specified purposes) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 5 para. 13](https://www.legislation.gov.uk/nia/2014/8/schedule/5/paragraph/13) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/3)
 
-[^key-ad16290b1f80c2ffc9a8a7990909ee32]: Modification: [Act](https://www.legislation.gov.uk/apni/1972/9): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-ad16290b1f80c2ffc9a8a7990909ee32]: Modification: [Act](https://www.legislation.gov.uk/apni/1972/9): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c20367411]: Modification: [Pt. V](https://www.legislation.gov.uk/apni/1972/9/part/V) (ss. 53 - 89A) applied (with modifications) by S.R 2004/49, art. 3 (as substituted (28.1.2008) by [Local Government (Constituting a Joint Committee a Body Corporate) (Amendment) Order (Northern Ireland) 2007 (S.R. 2007/505)](https://www.legislation.gov.uk/nisr/2007/505), [art. 2(3)](https://www.legislation.gov.uk/nisr/2007/505/article/2/3))
 

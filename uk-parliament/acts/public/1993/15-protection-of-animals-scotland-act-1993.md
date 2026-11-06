@@ -29,15 +29,15 @@ Protection of Animals (Scotland) Act 1993 (repealed)
 
 1993 c. 15
 
-[^key-906a2d2d3d6633da8c5f4bfffff05325]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-906a2d2d3d6633da8c5f4bfffff05325]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Increased penalty for certain acts of cruelty to animals.[^key-906a2d2d3d6633da8c5f4bfffff05325]
+## 1. Increased penalty for certain acts of cruelty to animals.[^c-906a2d2d3d6633da8c5f4bfffff05325]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Citation, extent and commencement.[^key-906a2d2d3d6633da8c5f4bfffff05325]
+## 2. Citation, extent and commencement.[^c-906a2d2d3d6633da8c5f4bfffff05325]
 
 **No longer in force.**
 
@@ -45,4 +45,4 @@ Protection of Animals (Scotland) Act 1993 (repealed)
 
 ## Annotations
 
-[^key-906a2d2d3d6633da8c5f4bfffff05325]: Textual amendment: Act repealed (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [s. 55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1), [Sch. 2 para. 9(o)](https://www.legislation.gov.uk/asp/2006/11/schedule/2/paragraph/9/o) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-906a2d2d3d6633da8c5f4bfffff05325]: Textual amendment: Act repealed (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [s. 55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1), [Sch. 2 para. 9(o)](https://www.legislation.gov.uk/asp/2006/11/schedule/2/paragraph/9/o) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

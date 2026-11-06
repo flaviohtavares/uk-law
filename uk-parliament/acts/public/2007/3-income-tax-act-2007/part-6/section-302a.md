@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 302A. Meaning of “permanent establishment”[^key-3f5de8ab0a6c6c990c32a050f61de25d]
+## 302A. Meaning of “permanent establishment”[^c-3f5de8ab0a6c6c990c32a050f61de25d]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f5de8ab0a6c6c990c32a050f61de25d]: Textual amendment: S. 302A inserted (6.4.2011) (with effect in accordance with Sch. 2 paras. 7(3), 8 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 2(12)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/2/12); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)
+[^c-3f5de8ab0a6c6c990c32a050f61de25d]: Textual amendment: S. 302A inserted (6.4.2011) (with effect in accordance with Sch. 2 paras. 7(3), 8 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 2(12)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/2/12); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)

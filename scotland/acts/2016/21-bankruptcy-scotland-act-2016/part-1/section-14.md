@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Further provisions relating to debtor applications[^key-680a6fb4ae59e2edb6a4c60aa3c5ee9a]
+## 14. Further provisions relating to debtor applications[^c-680a6fb4ae59e2edb6a4c60aa3c5ee9a]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-680a6fb4ae59e2edb6a4c60aa3c5ee9a]: Commencement: S. 14 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-680a6fb4ae59e2edb6a4c60aa3c5ee9a]: Commencement: S. 14 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

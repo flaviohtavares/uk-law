@@ -33,7 +33,7 @@ Education, England
 
 Children And Young Persons, England
 
-The Chief Inspector of Education, Children’s Services and Skills Order 2011 (revoked)[^key-7c38c4e8dbbb2b380f713467811cd17a]
+The Chief Inspector of Education, Children’s Services and Skills Order 2011 (revoked)[^c-7c38c4e8dbbb2b380f713467811cd17a]
 
 Made
 
@@ -47,28 +47,28 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-7c38c4e8dbbb2b380f713467811cd17a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7c38c4e8dbbb2b380f713467811cd17a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7c38c4e8dbbb2b380f713467811cd17a]
+## 1. Citation and commencement[^c-7c38c4e8dbbb2b380f713467811cd17a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointment to the office of Her Majesty’s Chief Inspector of Education, Children’s Services and Skills[^key-7c38c4e8dbbb2b380f713467811cd17a]
+## 2. Appointment to the office of Her Majesty’s Chief Inspector of Education, Children’s Services and Skills[^c-7c38c4e8dbbb2b380f713467811cd17a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-7c38c4e8dbbb2b380f713467811cd17a]
+## 3. Revocation[^c-7c38c4e8dbbb2b380f713467811cd17a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7c38c4e8dbbb2b380f713467811cd17a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7c38c4e8dbbb2b380f713467811cd17a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7c38c4e8dbbb2b380f713467811cd17a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7c38c4e8dbbb2b380f713467811cd17a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7c38c4e8dbbb2b380f713467811cd17a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/2720) revoked (14.7.2016) by [The Chief Inspector of Education, Children’s Services and Skills Order 2016 (S.I. 2016/748)](https://www.legislation.gov.uk/uksi/2016/748), [arts. 1](https://www.legislation.gov.uk/uksi/2016/748/article/1), [3](https://www.legislation.gov.uk/uksi/2016/748/article/3)
+[^c-7c38c4e8dbbb2b380f713467811cd17a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/2720) revoked (14.7.2016) by [The Chief Inspector of Education, Children’s Services and Skills Order 2016 (S.I. 2016/748)](https://www.legislation.gov.uk/uksi/2016/748), [arts. 1](https://www.legislation.gov.uk/uksi/2016/748/article/1), [3](https://www.legislation.gov.uk/uksi/2016/748/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Making an allocation election[^key-c666e25870e9c1bc7159cba83f0d5190]
+## 88. Making an allocation election[^c-c666e25870e9c1bc7159cba83f0d5190]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 - (a) revoke the election; or
 - (b) amend the election by altering the amount of retirement pension to be allocated.
 
-(5)[^key-b780ba534db00c2b777c2da51d1ea2bb] The election takes effect on the election closing date unless it has no effect under paragraph (6) or (7).
+(5)[^c-b780ba534db00c2b777c2da51d1ea2bb] The election takes effect on the election closing date unless it has no effect under paragraph (6) or (7).
 
 (6) An allocation election has no effect unless the scheme manager is satisfied that when P made the election the matters stated in the declaration were true.
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c666e25870e9c1bc7159cba83f0d5190]: Commencement: [Reg. 88](https://www.legislation.gov.uk/uksi/2014/1964/regulation/88) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-c666e25870e9c1bc7159cba83f0d5190]: Commencement: [Reg. 88](https://www.legislation.gov.uk/uksi/2014/1964/regulation/88) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
-[^key-b780ba534db00c2b777c2da51d1ea2bb]: Textual amendment: [Reg. 88(5)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/88/5) substituted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Consequential and Amendment) Regulations 2015 (S.I. 2015/372)](https://www.legislation.gov.uk/uksi/2015/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/372/regulation/1/2), [16(7)](https://www.legislation.gov.uk/uksi/2015/372/regulation/16/7)
+[^c-b780ba534db00c2b777c2da51d1ea2bb]: Textual amendment: [Reg. 88(5)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/88/5) substituted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Consequential and Amendment) Regulations 2015 (S.I. 2015/372)](https://www.legislation.gov.uk/uksi/2015/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/372/regulation/1/2), [16(7)](https://www.legislation.gov.uk/uksi/2015/372/regulation/16/7)

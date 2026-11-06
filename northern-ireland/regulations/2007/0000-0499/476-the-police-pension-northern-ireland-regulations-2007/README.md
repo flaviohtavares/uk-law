@@ -34,7 +34,7 @@ This Statutory Rule has been made in consequence of a defect in [S.R. 2007 No. 4
 
 POLICE
 
-The Police Pension (Northern Ireland) Regulations 2007 (revoked)[^key-6f10080032eeafe08635e06a4888f89b]
+The Police Pension (Northern Ireland) Regulations 2007 (revoked)[^c-6f10080032eeafe08635e06a4888f89b]
 
 Made
 
@@ -48,11 +48,11 @@ Coming into operation
 
 31st December 2007
 
-[^key-6f10080032eeafe08635e06a4888f89b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f10080032eeafe08635e06a4888f89b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — GENERAL[^key-6f10080032eeafe08635e06a4888f89b]
+### PART 1 — GENERAL[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
@@ -62,13 +62,13 @@ Coming into operation
 - [Section 2 — Meaning of certain expressions and references — general provision](part-1/section-2.md)
 - [Section 3 — Disablement](part-1/section-3.md)
 
-### PART 2 — ELIGIBILITY FOR PENSION AWARDS, PENSIONABLE SERVICE AND RETIREMENT[^key-6f10080032eeafe08635e06a4888f89b]
+### PART 2 — ELIGIBILITY FOR PENSION AWARDS, PENSIONABLE SERVICE AND RETIREMENT[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
 **No longer in force.**
 
-#### Eligibility for pension awards[^key-6f10080032eeafe08635e06a4888f89b]
+#### Eligibility for pension awards[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
@@ -79,7 +79,7 @@ Coming into operation
 - [Section 6 — Eligibility for pension awards payable on the ground of permanent disablement](part-2/section-6.md)
 - [Section 7 — Election not to pay pension contributions](part-2/section-7.md)
 
-#### Pensionable service[^key-6f10080032eeafe08635e06a4888f89b]
+#### Pensionable service[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
@@ -92,7 +92,7 @@ Coming into operation
 - [Section 12 — Service reckonable by reason of transfer value](part-2/section-12.md)
 - [Section 13 — Reckoning of service for purposes of awards](part-2/section-13.md)
 
-#### Retirement[^key-6f10080032eeafe08635e06a4888f89b]
+#### Retirement[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
@@ -105,7 +105,7 @@ Coming into operation
 - [Section 18 — Compulsory retirement on the ground of disablement](part-2/section-18.md)
 - [Section 19 — Effective date of retirement](part-2/section-19.md)
 
-### PART 3 — PENSIONABLE PAY AND CONTRIBUTIONS[^key-6f10080032eeafe08635e06a4888f89b]
+### PART 3 — PENSIONABLE PAY AND CONTRIBUTIONS[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
@@ -116,13 +116,13 @@ Coming into operation
 - [Section 22 — Average pensionable pay](part-3/section-22.md)
 - [Section 23 — Aggregate pension contributions for purposes of repayment](part-3/section-23.md)
 
-### PART 4 — PENSION AWARDS[^key-6f10080032eeafe08635e06a4888f89b]
+### PART 4 — PENSION AWARDS[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
 **No longer in force.**
 
-#### Personal pensions[^key-6f10080032eeafe08635e06a4888f89b]
+#### Personal pensions[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
@@ -141,7 +141,7 @@ Coming into operation
 - [Section 34 — Exchange of lump-sum for additional periodical payments](part-4/section-34.md)
 - [Section 35 — Commutation of small pension for lump-sum](part-4/section-35.md)
 
-#### Survivors' pensions[^key-6f10080032eeafe08635e06a4888f89b]
+#### Survivors' pensions[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
@@ -152,7 +152,7 @@ Coming into operation
 - [Section 38 — Calculation of adult survivors' pensions](part-4/section-38.md)
 - [Section 39 — Calculation of child survivors' pensions](part-4/section-39.md)
 
-#### Guaranteed minimum pension[^key-6f10080032eeafe08635e06a4888f89b]
+#### Guaranteed minimum pension[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
@@ -160,7 +160,7 @@ Coming into operation
 
 - [Section 40 — Guaranteed minimum pension for the purposes of the Pension Schemes (Northern Ireland) Act 1993](part-4/section-40.md)
 
-#### Awards on death — additional provisions[^key-6f10080032eeafe08635e06a4888f89b]
+#### Awards on death — additional provisions[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
@@ -174,7 +174,7 @@ Coming into operation
 - [Section 46 — Prevention of duplication](part-4/section-46.md)
 - [Section 47 — Increase of awards by reference to the Pensions (Increase) Acts](part-4/section-47.md)
 
-#### Revision and withdrawal or forfeiture of awards[^key-6f10080032eeafe08635e06a4888f89b]
+#### Revision and withdrawal or forfeiture of awards[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
@@ -186,7 +186,7 @@ Coming into operation
 - [Section 51 — Withdrawal of early payment of deferred pension](part-4/section-51.md)
 - [Section 52 — Forfeiture of pension](part-4/section-52.md)
 
-### PART 5 — PURCHASE OF INCREASED BENEFITS[^key-6f10080032eeafe08635e06a4888f89b]
+### PART 5 — PURCHASE OF INCREASED BENEFITS[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
@@ -198,7 +198,7 @@ Coming into operation
 - [Section 56 — Payment by periodical contributions](part-5/section-56.md)
 - [Section 57 — Reckoning of increased benefits](part-5/section-57.md)
 
-### PART 6 — PENSION SHARING: PENSION CREDIT MEMBERS[^key-6f10080032eeafe08635e06a4888f89b]
+### PART 6 — PENSION SHARING: PENSION CREDIT MEMBERS[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
@@ -209,13 +209,13 @@ Coming into operation
 - [Section 60 — Death grants where pension credit member dies before pension credit benefits payable](part-6/section-60.md)
 - [Section 61 — Application of general regulations](part-6/section-61.md)
 
-### PART 7 — MEDICAL QUESTIONS AND APPEALS[^key-6f10080032eeafe08635e06a4888f89b]
+### PART 7 — MEDICAL QUESTIONS AND APPEALS[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
 **No longer in force.**
 
-#### Eligibility for awards — general[^key-6f10080032eeafe08635e06a4888f89b]
+#### Eligibility for awards — general[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
@@ -223,7 +223,7 @@ Coming into operation
 
 - [Section 62 — Eligibility for awards — general](part-7/section-62.md)
 
-#### Appeals[^key-6f10080032eeafe08635e06a4888f89b]
+#### Appeals[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
@@ -232,7 +232,7 @@ Coming into operation
 - [Section 63 — Appeals](part-7/section-63.md)
 - [Section 64 — Limitations on appeals](part-7/section-64.md)
 
-#### Decisions on eligibility for pension awards payable on the ground of permanent disablement[^key-6f10080032eeafe08635e06a4888f89b]
+#### Decisions on eligibility for pension awards payable on the ground of permanent disablement[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
@@ -241,7 +241,7 @@ Coming into operation
 - [Section 65 — Reference to selected medical practitioner — eligibility for pension awards payable on the ground of permanent disablement](part-7/section-65.md)
 - [Section 66 — Appeals against decisions on eligibility for pension awards payable on the ground of permanent disablement](part-7/section-66.md)
 
-#### Medical questions — permanent disablement[^key-6f10080032eeafe08635e06a4888f89b]
+#### Medical questions — permanent disablement[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
@@ -253,13 +253,13 @@ Coming into operation
 - [Section 70 — Procedure and costs on appeals under regulation 68](part-7/section-70.md)
 - [Section 71 — Refusal to be medically examined](part-7/section-71.md)
 
-### PART 8 — TRANSFER VALUES, PAYMENT, ETC[^key-6f10080032eeafe08635e06a4888f89b]
+### PART 8 — TRANSFER VALUES, PAYMENT, ETC[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
 **No longer in force.**
 
-#### Interpretation[^key-6f10080032eeafe08635e06a4888f89b]
+#### Interpretation[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
@@ -267,7 +267,7 @@ Coming into operation
 
 - [Section 72 — Interpretation — transfers](part-8/section-72.md)
 
-#### Certificates of pensionable service on transfer between forces or rejoining the police service[^key-6f10080032eeafe08635e06a4888f89b]
+#### Certificates of pensionable service on transfer between forces or rejoining the police service[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
@@ -275,7 +275,7 @@ Coming into operation
 
 - [Section 73 — Certificates of pensionable service](part-8/section-73.md)
 
-#### Transfer values payable on leaving the police service or ceasing to make pension contributions[^key-6f10080032eeafe08635e06a4888f89b]
+#### Transfer values payable on leaving the police service or ceasing to make pension contributions[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
@@ -284,7 +284,7 @@ Coming into operation
 - [Section 74 — Transfer values payable on leaving the police service or ceasing to make pension contributions](part-8/section-74.md)
 - [Section 75 — Prohibition on accepting or paying transfer values for pension credit rights](part-8/section-75.md)
 
-#### Mis-sold pensions[^key-6f10080032eeafe08635e06a4888f89b]
+#### Mis-sold pensions[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
@@ -292,7 +292,7 @@ Coming into operation
 
 - [Section 76 — Mis-sold pensions](part-8/section-76.md)
 
-#### Payment of awards[^key-6f10080032eeafe08635e06a4888f89b]
+#### Payment of awards[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
@@ -304,13 +304,13 @@ Coming into operation
 - [Section 80 — Payment on behalf of officers of lifetime allowance charge](part-8/section-80.md)
 - [Section 81 — Reduction of benefits where lifetime allowance charge payable](part-8/section-81.md)
 
-### PART 9 — SPECIAL CASES[^key-6f10080032eeafe08635e06a4888f89b]
+### PART 9 — SPECIAL CASES[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
 **No longer in force.**
 
-#### Servicemen[^key-6f10080032eeafe08635e06a4888f89b]
+#### Servicemen[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
@@ -324,7 +324,7 @@ Coming into operation
 - [Section 87 — Servicemen who do not resume service in the police service](part-9/section-87.md)
 - [Section 88 — Pensionable service and pension contributions](part-9/section-88.md)
 
-#### Former members of police force in Great Britain[^key-6f10080032eeafe08635e06a4888f89b]
+#### Former members of police force in Great Britain[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
@@ -332,7 +332,7 @@ Coming into operation
 
 - [Section 89 — Former members of a police force in Great Britain](part-9/section-89.md)
 
-#### Members of Police Service Northern Ireland transferring to a Police Service in Great Britain[^key-6f10080032eeafe08635e06a4888f89b]
+#### Members of Police Service Northern Ireland transferring to a Police Service in Great Britain[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
@@ -340,7 +340,7 @@ Coming into operation
 
 - [Section 90 — Members of Police Service Northern Ireland transferring to a Police Service in Great Britain](part-9/section-90.md)
 
-#### Members of the Police Service Northern Ireland Reserve (Full-time)[^key-6f10080032eeafe08635e06a4888f89b]
+#### Members of the Police Service Northern Ireland Reserve (Full-time)[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
@@ -359,12 +359,12 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-6f10080032eeafe08635e06a4888f89b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f10080032eeafe08635e06a4888f89b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
-[^key-6f10080032eeafe08635e06a4888f89b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f10080032eeafe08635e06a4888f89b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6f10080032eeafe08635e06a4888f89b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/476) revoked (with effect in accordance with reg. 1(2) of the amending Rule) by [THE POLICE PENSION (NORTHERN IRELAND) REGULATIONS 2009 (S.R. 2009/79)](https://www.legislation.gov.uk/nisr/2009/79), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)[(4)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/4)
+[^c-6f10080032eeafe08635e06a4888f89b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/476) revoked (with effect in accordance with reg. 1(2) of the amending Rule) by [THE POLICE PENSION (NORTHERN IRELAND) REGULATIONS 2009 (S.R. 2009/79)](https://www.legislation.gov.uk/nisr/2009/79), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)[(4)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/4)

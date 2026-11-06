@@ -31,7 +31,7 @@ summary: ''
 
 Education, Wales
 
-The School Performance and Absence Targets (Wales) (Amendment) Regulations 2019 (revoked)[^key-e95bd9e0cbeef4d85733d00465b93cb0]
+The School Performance and Absence Targets (Wales) (Amendment) Regulations 2019 (revoked)[^c-e95bd9e0cbeef4d85733d00465b93cb0]
 
 Made
 
@@ -45,32 +45,32 @@ Coming into force
 
 1 September 2019
 
-[^key-e95bd9e0cbeef4d85733d00465b93cb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e95bd9e0cbeef4d85733d00465b93cb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-e95bd9e0cbeef4d85733d00465b93cb0]
+## 1. Title and commencement[^c-e95bd9e0cbeef4d85733d00465b93cb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-e95bd9e0cbeef4d85733d00465b93cb0]
+## 2. Interpretation[^c-e95bd9e0cbeef4d85733d00465b93cb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional[^key-e95bd9e0cbeef4d85733d00465b93cb0]
+## 3. Transitional[^c-e95bd9e0cbeef4d85733d00465b93cb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment[^key-e95bd9e0cbeef4d85733d00465b93cb0]
+## 4. Amendment[^c-e95bd9e0cbeef4d85733d00465b93cb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e95bd9e0cbeef4d85733d00465b93cb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e95bd9e0cbeef4d85733d00465b93cb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e95bd9e0cbeef4d85733d00465b93cb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e95bd9e0cbeef4d85733d00465b93cb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e95bd9e0cbeef4d85733d00465b93cb0]: Textual amendment: Regulations revoked (7.8.2020) by [The Relaxation of School Reporting Requirements (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/729)](https://www.legislation.gov.uk/wsi/2020/729), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/729/regulation/1/2), [5(d)](https://www.legislation.gov.uk/wsi/2020/729/regulation/5/d)
+[^c-e95bd9e0cbeef4d85733d00465b93cb0]: Textual amendment: Regulations revoked (7.8.2020) by [The Relaxation of School Reporting Requirements (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/729)](https://www.legislation.gov.uk/wsi/2020/729), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/729/regulation/1/2), [5(d)](https://www.legislation.gov.uk/wsi/2020/729/regulation/5/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 239. Making, varying or revoking tree preservation orders and woodland preservation orders[^key-350d8aa0626b7c48fc0416d4e583c8dc]
+## 239. Making, varying or revoking tree preservation orders and woodland preservation orders[^c-350d8aa0626b7c48fc0416d4e583c8dc]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-350d8aa0626b7c48fc0416d4e583c8dc]: Commencement: S. 239 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-350d8aa0626b7c48fc0416d4e583c8dc]: Commencement: S. 239 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 279. Extended sentence of imprisonment for certain violent, sexual or terrorism offences: persons 21 or over[^key-74abaa3755569d38344756286ca78533]
+## 279. Extended sentence of imprisonment for certain violent, sexual or terrorism offences: persons 21 or over[^c-74abaa3755569d38344756286ca78533]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ An extended sentence of imprisonment is a sentence of imprisonment the term of w
 
 ## Annotations
 
-[^key-74abaa3755569d38344756286ca78533]: Commencement: S. 279 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-74abaa3755569d38344756286ca78533]: Commencement: S. 279 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

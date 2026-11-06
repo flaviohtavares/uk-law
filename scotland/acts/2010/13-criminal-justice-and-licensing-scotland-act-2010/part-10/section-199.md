@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 199. Annual report on Criminal Justice (Terrorism and Conspiracy) Act 1998[^key-8aa8b6598c835f1c119c7d14a4d7a894]
+## 199. Annual report on Criminal Justice (Terrorism and Conspiracy) Act 1998[^c-8aa8b6598c835f1c119c7d14a4d7a894]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Section 8 of the Criminal Justice (Terrorism and Conspiracy) Act 1998 (c.40) (re
 
 ## Annotations
 
-[^key-8aa8b6598c835f1c119c7d14a4d7a894]: Commencement: [S. 199](https://www.legislation.gov.uk/asp/2010/13/section/199) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-8aa8b6598c835f1c119c7d14a4d7a894]: Commencement: [S. 199](https://www.legislation.gov.uk/asp/2010/13/section/199) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

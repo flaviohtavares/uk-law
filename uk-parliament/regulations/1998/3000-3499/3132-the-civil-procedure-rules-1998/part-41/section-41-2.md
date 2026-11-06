@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41.2. Order for an award of provisional damages[^key-7966cac6d05c6f5260eb945aeb43ba86]
+## 41.2. Order for an award of provisional damages[^c-7966cac6d05c6f5260eb945aeb43ba86]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7966cac6d05c6f5260eb945aeb43ba86]: Commencement: Rule 41.2 in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-7966cac6d05c6f5260eb945aeb43ba86]: Commencement: Rule 41.2 in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

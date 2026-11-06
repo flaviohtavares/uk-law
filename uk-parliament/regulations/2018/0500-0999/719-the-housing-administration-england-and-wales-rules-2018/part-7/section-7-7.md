@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.7. Standard contents for documents delivered to the relevant registry[^key-da03c64901e2008102183689f7427db6]
+## 7.7. Standard contents for documents delivered to the relevant registry[^c-da03c64901e2008102183689f7427db6]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da03c64901e2008102183689f7427db6]: Commencement: Rule 7.7 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-da03c64901e2008102183689f7427db6]: Commencement: Rule 7.7 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (13).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2002/1792
 
-## 17ZA. Treatment of final payments of income[^key-cae809233345eb03859ef0a6ca20e63e]
+## 17ZA. Treatment of final payments of income[^c-cae809233345eb03859ef0a6ca20e63e]
 
 (1) Save where regulation 13B applies, this regulation applies where—
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cae809233345eb03859ef0a6ca20e63e]: Textual amendment: Reg. 17ZA inserted (5.4.2004) by [The State Pension Credit (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/647)](https://www.legislation.gov.uk/uksi/2004/647), [regs. 1](https://www.legislation.gov.uk/uksi/2004/647/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2004/647/regulation/3/4)
+[^c-cae809233345eb03859ef0a6ca20e63e]: Textual amendment: Reg. 17ZA inserted (5.4.2004) by [The State Pension Credit (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/647)](https://www.legislation.gov.uk/uksi/2004/647), [regs. 1](https://www.legislation.gov.uk/uksi/2004/647/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2004/647/regulation/3/4)

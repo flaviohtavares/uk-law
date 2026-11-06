@@ -144,7 +144,7 @@ In the following provisions for “pipelines” in each place where it occurs su
 - (a) Article 38A in the heading; and
 - (b) Article 39A(2).
 
-## 7. Licence conditions[^key-ea190960a88b0d5a84462f072e62b599]
+## 7. Licence conditions[^c-ea190960a88b0d5a84462f072e62b599]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -207,7 +207,7 @@ After Article 38A(4A) (inserted by regulation 10) insert—
 
 .
 
-## 12. Consultation on pipe-line exemptions[^key-e511f89d5dbc9191291bf6d961bbc57d]
+## 12. Consultation on pipe-line exemptions[^c-e511f89d5dbc9191291bf6d961bbc57d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -301,9 +301,9 @@ In addition to the foregoing, regulation 4(1)(a) includes in the Gas Order a def
 
 [^c24346351]: Marginal citation: Formerly the Northern Ireland Authority for Energy Regulation see [Article 3](https://www.legislation.gov.uk/nisr/2020/279/article/3) of the Water and Sewerage Services (Northern Ireland) Order 2006
 
-[^key-ea190960a88b0d5a84462f072e62b599]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2020/279/regulation/7) revoked (31.12.2020) by [The Gas (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/305)](https://www.legislation.gov.uk/nisr/2020/305), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/305/regulation/1/2), [5](https://www.legislation.gov.uk/nisr/2020/305/regulation/5)
+[^c-ea190960a88b0d5a84462f072e62b599]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2020/279/regulation/7) revoked (31.12.2020) by [The Gas (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/305)](https://www.legislation.gov.uk/nisr/2020/305), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/305/regulation/1/2), [5](https://www.legislation.gov.uk/nisr/2020/305/regulation/5)
 
-[^key-e511f89d5dbc9191291bf6d961bbc57d]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/nisr/2020/279/regulation/12) revoked (31.12.2020) by [The Gas (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/305)](https://www.legislation.gov.uk/nisr/2020/305), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/305/regulation/1/2), [5](https://www.legislation.gov.uk/nisr/2020/305/regulation/5)
+[^c-e511f89d5dbc9191291bf6d961bbc57d]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/nisr/2020/279/regulation/12) revoked (31.12.2020) by [The Gas (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/305)](https://www.legislation.gov.uk/nisr/2020/305), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/305/regulation/1/2), [5](https://www.legislation.gov.uk/nisr/2020/305/regulation/5)
 
 [^c24346361]: Marginal citation: [S.I. 2003/419 (N.I. 6)](https://www.legislation.gov.uk/nisi/2003/419)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1A. Modification of provisions of the Annex to Commission Directive [2005/62/EC](https://www.legislation.gov.uk/eudr/2005/62)[^key-2f98da3a04c4bd4e1b8efb3bc204bbdc]
+## 1A. Modification of provisions of the Annex to Commission Directive [2005/62/EC](https://www.legislation.gov.uk/eudr/2005/62)[^c-2f98da3a04c4bd4e1b8efb3bc204bbdc]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ summary: ''
 
 (10) Paragraph 6.6.1 is to be read as if the reference to mandatory requirements set out in the Directive were a reference to the requirements set out in these Regulations.
 
-(10A)[^key-4a2c1d2bf8840efa45d45339f39d6c37] Paragraph 7.1 is to be read as if the reference to “Directive [2003/94/EC](https://www.legislation.gov.uk/eudr/2003/94)” were to “the Good Manufacturing Practice Directive, within the meaning of paragraph (a) of the definition of that term in regulation 8(1) of the Human Medicines Regulations 2012.
+(10A)[^c-4a2c1d2bf8840efa45d45339f39d6c37] Paragraph 7.1 is to be read as if the reference to “Directive [2003/94/EC](https://www.legislation.gov.uk/eudr/2003/94)” were to “the Good Manufacturing Practice Directive, within the meaning of paragraph (a) of the definition of that term in regulation 8(1) of the Human Medicines Regulations 2012.
 
 (11) Paragraph 9.1 is to be read as if the reference to the standards set out in Annex V of Directive [2004/33/EC](https://www.legislation.gov.uk/eudr/2004/33) were a reference to the standards set out in Part 5 of the Schedule.
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2f98da3a04c4bd4e1b8efb3bc204bbdc]: Textual amendment: Regs. 1A, 1B inserted (31.12.2020) by [The Blood Safety and Quality (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/4)](https://www.legislation.gov.uk/uksi/2019/4), [regs. 1](https://www.legislation.gov.uk/uksi/2019/4/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/4/regulation/4) (as amended by [S.I. 2020/1304](https://www.legislation.gov.uk/uksi/2020/1304), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1304/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1304/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2f98da3a04c4bd4e1b8efb3bc204bbdc]: Textual amendment: Regs. 1A, 1B inserted (31.12.2020) by [The Blood Safety and Quality (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/4)](https://www.legislation.gov.uk/uksi/2019/4), [regs. 1](https://www.legislation.gov.uk/uksi/2019/4/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/4/regulation/4) (as amended by [S.I. 2020/1304](https://www.legislation.gov.uk/uksi/2020/1304), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1304/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1304/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4a2c1d2bf8840efa45d45339f39d6c37]: Textual amendment: Reg. 1A(10A) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 8](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/8) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 194(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/194/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4a2c1d2bf8840efa45d45339f39d6c37]: Textual amendment: Reg. 1A(10A) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 8](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/8) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 194(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/194/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

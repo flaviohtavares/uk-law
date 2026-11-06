@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Premises straddling a protection or a surveillance zone[^key-9f7f224af9e8e0d2396e95b3fd1a8fdb]
+## 26. Premises straddling a protection or a surveillance zone[^c-9f7f224af9e8e0d2396e95b3fd1a8fdb]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f7f224af9e8e0d2396e95b3fd1a8fdb]: Commencement: Reg. 26 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
+[^c-9f7f224af9e8e0d2396e95b3fd1a8fdb]: Commencement: Reg. 26 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)

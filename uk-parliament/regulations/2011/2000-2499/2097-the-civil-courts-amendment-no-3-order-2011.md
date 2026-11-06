@@ -33,7 +33,7 @@ Senior Courts Of England And Wales
 
 County Courts, England And Wales
 
-The Civil Courts (Amendment No. 3) Order 2011 (revoked)[^key-f25cdc2820b2be2fb4dde1c28e0ed3af]
+The Civil Courts (Amendment No. 3) Order 2011 (revoked)[^c-f25cdc2820b2be2fb4dde1c28e0ed3af]
 
 Made
 
@@ -45,43 +45,43 @@ Laid before Parliament
 
 Coming into force in accordance with article 1
 
-[^key-f25cdc2820b2be2fb4dde1c28e0ed3af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f25cdc2820b2be2fb4dde1c28e0ed3af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f25cdc2820b2be2fb4dde1c28e0ed3af]
+## 1. Citation and commencement[^c-f25cdc2820b2be2fb4dde1c28e0ed3af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Closure of county courts[^key-f25cdc2820b2be2fb4dde1c28e0ed3af]
+## 2. Closure of county courts[^c-f25cdc2820b2be2fb4dde1c28e0ed3af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Establishment of a District Registry of the High Court[^key-f25cdc2820b2be2fb4dde1c28e0ed3af]
+## 3. Establishment of a District Registry of the High Court[^c-f25cdc2820b2be2fb4dde1c28e0ed3af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Jurisdiction under the Insolvency Act 1986[^key-f25cdc2820b2be2fb4dde1c28e0ed3af]
+## 4. Jurisdiction under the Insolvency Act 1986[^c-f25cdc2820b2be2fb4dde1c28e0ed3af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-f25cdc2820b2be2fb4dde1c28e0ed3af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f25cdc2820b2be2fb4dde1c28e0ed3af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Transitional Provisions[^key-f25cdc2820b2be2fb4dde1c28e0ed3af]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-f25cdc2820b2be2fb4dde1c28e0ed3af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 8. Amendments to the Civil Courts Order 1983[^key-f25cdc2820b2be2fb4dde1c28e0ed3af]
+## 6. Transitional Provisions[^c-f25cdc2820b2be2fb4dde1c28e0ed3af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f25cdc2820b2be2fb4dde1c28e0ed3af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-f25cdc2820b2be2fb4dde1c28e0ed3af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Amendments to the Civil Courts Order 1983[^c-f25cdc2820b2be2fb4dde1c28e0ed3af]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-f25cdc2820b2be2fb4dde1c28e0ed3af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — County Courts to be discontinued[^key-f25cdc2820b2be2fb4dde1c28e0ed3af]
+## SCHEDULE — County Courts to be discontinued[^c-f25cdc2820b2be2fb4dde1c28e0ed3af]
 
 Article 2
 
@@ -89,8 +89,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-f25cdc2820b2be2fb4dde1c28e0ed3af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f25cdc2820b2be2fb4dde1c28e0ed3af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f25cdc2820b2be2fb4dde1c28e0ed3af]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/2097) revoked (22.4.2014) by [The Crime and Courts Act 2013 (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/820)](https://www.legislation.gov.uk/uksi/2014/820), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/820/article/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2014/820/schedule)
+[^c-f25cdc2820b2be2fb4dde1c28e0ed3af]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/2097) revoked (22.4.2014) by [The Crime and Courts Act 2013 (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/820)](https://www.legislation.gov.uk/uksi/2014/820), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/820/article/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2014/820/schedule)

@@ -36,7 +36,7 @@ An Act to make provision to extend the period following the Northern Ireland Ass
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Extension of period for making Ministerial appointments[^key-0fa6022acd2f005ee97a28032d8ece18]
+## 1. Extension of period for making Ministerial appointments[^c-0fa6022acd2f005ee97a28032d8ece18]
 
 (1) The Northern Ireland (Executive Formation etc) Act 2022 is amended as follows.
 
@@ -73,7 +73,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (4) Omit section 2.
 
-## 2. Organ and tissue donation in Northern Ireland: procedure for regulations defining permitted material[^key-52254a1f98c20d26442018f7f0b877d6]
+## 2. Organ and tissue donation in Northern Ireland: procedure for regulations defining permitted material[^c-52254a1f98c20d26442018f7f0b877d6]
 
 *Extent: N.I.*
 
@@ -86,7 +86,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - (a) beginning when this Act is passed, and
 - (b) ending with the next day on which the Presiding Officer and deputies are in post having been elected under section 39(1) of the Northern Ireland Act 1998.
 
-## 3. Extent, commencement and short title[^key-a9c9fe4c575e569e480a42343b62b712]
+## 3. Extent, commencement and short title[^c-a9c9fe4c575e569e480a42343b62b712]
 
 (1) Section 1 and this section extend to England and Wales, Scotland and Northern Ireland.
 
@@ -98,8 +98,8 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Annotations
 
-[^key-0fa6022acd2f005ee97a28032d8ece18]: Commencement: S. 1 in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/4/section/3/3)
+[^c-0fa6022acd2f005ee97a28032d8ece18]: Commencement: S. 1 in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/4/section/3/3)
 
-[^key-52254a1f98c20d26442018f7f0b877d6]: Commencement: S. 2 in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/4/section/3/3)
+[^c-52254a1f98c20d26442018f7f0b877d6]: Commencement: S. 2 in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/4/section/3/3)
 
-[^key-a9c9fe4c575e569e480a42343b62b712]: Commencement: S. 3 in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/4/section/3/3)
+[^c-a9c9fe4c575e569e480a42343b62b712]: Commencement: S. 3 in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/4/section/3/3)

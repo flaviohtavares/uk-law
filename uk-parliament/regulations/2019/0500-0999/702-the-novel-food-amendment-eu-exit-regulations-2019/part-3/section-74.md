@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74.[^key-6753f4c7d752a81695b3a1917ee96402]
+## 74.[^c-6753f4c7d752a81695b3a1917ee96402]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ After Article 10, omit “This Regulation shall be binding in its entirety and d
 
 ## Annotations
 
-[^key-6753f4c7d752a81695b3a1917ee96402]: Commencement: Reg. 74 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-6753f4c7d752a81695b3a1917ee96402]: Commencement: Reg. 74 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

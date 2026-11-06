@@ -34,7 +34,7 @@ Agriculture, England
 
 Water, England
 
-The Nitrate Pollution Prevention (Amendment) Regulations 2009 (revoked)[^key-99ce2411ed30f4640d6fb42537ab00e4]
+The Nitrate Pollution Prevention (Amendment) Regulations 2009 (revoked)[^c-99ce2411ed30f4640d6fb42537ab00e4]
 
 Made
 
@@ -48,171 +48,171 @@ Coming into force
 
 28th December 2009
 
-[^key-99ce2411ed30f4640d6fb42537ab00e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-99ce2411ed30f4640d6fb42537ab00e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-99ce2411ed30f4640d6fb42537ab00e4]
+## 1. Citation and commencement[^c-99ce2411ed30f4640d6fb42537ab00e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Nitrate Pollution Prevention Regulations 2008[^key-99ce2411ed30f4640d6fb42537ab00e4]
+## 2. Amendments to the Nitrate Pollution Prevention Regulations 2008[^c-99ce2411ed30f4640d6fb42537ab00e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Part 1[^key-99ce2411ed30f4640d6fb42537ab00e4]
+## 3. Amendment of Part 1[^c-99ce2411ed30f4640d6fb42537ab00e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of Part 3[^key-99ce2411ed30f4640d6fb42537ab00e4]
+## 4. Amendment of Part 3[^c-99ce2411ed30f4640d6fb42537ab00e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Insertion of new Part 3A[^key-99ce2411ed30f4640d6fb42537ab00e4]
+## 5. Insertion of new Part 3A[^c-99ce2411ed30f4640d6fb42537ab00e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of Part 4[^key-99ce2411ed30f4640d6fb42537ab00e4]
+## 6. Amendment of Part 4[^c-99ce2411ed30f4640d6fb42537ab00e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of Part 5[^key-99ce2411ed30f4640d6fb42537ab00e4]
+## 7. Amendment of Part 5[^c-99ce2411ed30f4640d6fb42537ab00e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of Part 6[^key-99ce2411ed30f4640d6fb42537ab00e4]
+## 8. Amendment of Part 6[^c-99ce2411ed30f4640d6fb42537ab00e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of Part 8[^key-99ce2411ed30f4640d6fb42537ab00e4]
+## 9. Amendment of Part 8[^c-99ce2411ed30f4640d6fb42537ab00e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment to Schedules[^key-99ce2411ed30f4640d6fb42537ab00e4]
+## 10. Amendment to Schedules[^c-99ce2411ed30f4640d6fb42537ab00e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of the Conservation (Natural Habitats, & c.) Regulations 1994[^key-99ce2411ed30f4640d6fb42537ab00e4]
+## 11. Amendment of the Conservation (Natural Habitats, & c.) Regulations 1994[^c-99ce2411ed30f4640d6fb42537ab00e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-99ce2411ed30f4640d6fb42537ab00e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-99ce2411ed30f4640d6fb42537ab00e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-99ce2411ed30f4640d6fb42537ab00e4]
+## SCHEDULE[^c-99ce2411ed30f4640d6fb42537ab00e4]
 
 Regulation 10
 
-> **SCHEDULE 1 — Amount of manure, nitrogen and phosphate produced by grazing livestock and non-grazing livestock[^key-99ce2411ed30f4640d6fb42537ab00e4]**
+> **SCHEDULE 1 — Amount of manure, nitrogen and phosphate produced by grazing livestock and non-grazing livestock[^c-99ce2411ed30f4640d6fb42537ab00e4]**
 >
 > Regulations 6 and 38
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **SCHEDULE 2 — Calculating nitrogen in manure[^key-99ce2411ed30f4640d6fb42537ab00e4]**
+> **SCHEDULE 2 — Calculating nitrogen in manure[^c-99ce2411ed30f4640d6fb42537ab00e4]**
 >
 > Regulation 17
 >
-> **PART 1 — Standard table[^key-99ce2411ed30f4640d6fb42537ab00e4]**
+> **PART 1 — Standard table[^c-99ce2411ed30f4640d6fb42537ab00e4]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 2 — Sampling and analysis[^key-99ce2411ed30f4640d6fb42537ab00e4]**
+> **PART 2 — Sampling and analysis[^c-99ce2411ed30f4640d6fb42537ab00e4]**
 >
-> **1. Slurry[^key-99ce2411ed30f4640d6fb42537ab00e4]**
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **2. Solid manures[^key-99ce2411ed30f4640d6fb42537ab00e4]**
+> **1. Slurry[^c-99ce2411ed30f4640d6fb42537ab00e4]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **SCHEDULE 3 — Permitted crops for the closed period[^key-99ce2411ed30f4640d6fb42537ab00e4]**
+> **2. Solid manures[^c-99ce2411ed30f4640d6fb42537ab00e4]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **SCHEDULE 3 — Permitted crops for the closed period[^c-99ce2411ed30f4640d6fb42537ab00e4]**
 >
 > Regulations 27 and 29
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **SCHEDULE 4 — Derogated holdings[^key-99ce2411ed30f4640d6fb42537ab00e4]**
+> **SCHEDULE 4 — Derogated holdings[^c-99ce2411ed30f4640d6fb42537ab00e4]**
 >
 > Regulation 13F
 >
-> **1.**[^key-99ce2411ed30f4640d6fb42537ab00e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-99ce2411ed30f4640d6fb42537ab00e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2. Derogation from the measures governing the limit on application of livestock manure[^key-99ce2411ed30f4640d6fb42537ab00e4]**
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **3. Planning the spreading of phosphate fertiliser[^key-99ce2411ed30f4640d6fb42537ab00e4]**
+> **2. Derogation from the measures governing the limit on application of livestock manure[^c-99ce2411ed30f4640d6fb42537ab00e4]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-99ce2411ed30f4640d6fb42537ab00e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **5. Soil sampling and analysis[^key-99ce2411ed30f4640d6fb42537ab00e4]**
+> **3. Planning the spreading of phosphate fertiliser[^c-99ce2411ed30f4640d6fb42537ab00e4]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **6. Additional information to be recorded during the year[^key-99ce2411ed30f4640d6fb42537ab00e4]**
+> **4.**[^c-99ce2411ed30f4640d6fb42537ab00e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **5. Soil sampling and analysis[^c-99ce2411ed30f4640d6fb42537ab00e4]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **7. Risk maps[^key-99ce2411ed30f4640d6fb42537ab00e4]**
+> **6. Additional information to be recorded during the year[^c-99ce2411ed30f4640d6fb42537ab00e4]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **8. Maintaining the derogated holding as a grassland holding[^key-99ce2411ed30f4640d6fb42537ab00e4]**
+> **7. Risk maps[^c-99ce2411ed30f4640d6fb42537ab00e4]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **9. Closed period for ploughing grass on the derogated holding[^key-99ce2411ed30f4640d6fb42537ab00e4]**
+> **8. Maintaining the derogated holding as a grassland holding[^c-99ce2411ed30f4640d6fb42537ab00e4]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **10. Sowing of crops following grass on the derogated holding[^key-99ce2411ed30f4640d6fb42537ab00e4]**
+> **9. Closed period for ploughing grass on the derogated holding[^c-99ce2411ed30f4640d6fb42537ab00e4]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **11. Crop rotation on the derogated holding[^key-99ce2411ed30f4640d6fb42537ab00e4]**
+> **10. Sowing of crops following grass on the derogated holding[^c-99ce2411ed30f4640d6fb42537ab00e4]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **12. Recording the size of the derogated holding[^key-99ce2411ed30f4640d6fb42537ab00e4]**
+> **11. Crop rotation on the derogated holding[^c-99ce2411ed30f4640d6fb42537ab00e4]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **13. Records relating to storage of manure during the storage period[^key-99ce2411ed30f4640d6fb42537ab00e4]**
+> **12. Recording the size of the derogated holding[^c-99ce2411ed30f4640d6fb42537ab00e4]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **14. Record of nitrogen and phosphate produced by animals[^key-99ce2411ed30f4640d6fb42537ab00e4]**
+> **13. Records relating to storage of manure during the storage period[^c-99ce2411ed30f4640d6fb42537ab00e4]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **15. Livestock manure intended to be brought on to or sent off the derogated holding[^key-99ce2411ed30f4640d6fb42537ab00e4]**
+> **14. Record of nitrogen and phosphate produced by animals[^c-99ce2411ed30f4640d6fb42537ab00e4]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **16. Records of crops sown[^key-99ce2411ed30f4640d6fb42537ab00e4]**
+> **15. Livestock manure intended to be brought on to or sent off the derogated holding[^c-99ce2411ed30f4640d6fb42537ab00e4]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **17. Records of spreading phosphate fertiliser[^key-99ce2411ed30f4640d6fb42537ab00e4]**
+> **16. Records of crops sown[^c-99ce2411ed30f4640d6fb42537ab00e4]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **18. Recording the date of ploughing[^key-99ce2411ed30f4640d6fb42537ab00e4]**
+> **17. Records of spreading phosphate fertiliser[^c-99ce2411ed30f4640d6fb42537ab00e4]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **19. Fertilisation accounts[^key-99ce2411ed30f4640d6fb42537ab00e4]**
+> **18. Recording the date of ploughing[^c-99ce2411ed30f4640d6fb42537ab00e4]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **19. Fertilisation accounts[^c-99ce2411ed30f4640d6fb42537ab00e4]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-99ce2411ed30f4640d6fb42537ab00e4]EXPLANATORY NOTE
+[^c-99ce2411ed30f4640d6fb42537ab00e4]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -234,4 +234,4 @@ A transposition note setting out how the amendments transpose the provisions of 
 
 ## Annotations
 
-[^key-99ce2411ed30f4640d6fb42537ab00e4]: Textual amendment: Regulations revoked (1.5.2015) by [The Nitrate Pollution Prevention Regulations 2015 (S.I. 2015/668)](https://www.legislation.gov.uk/uksi/2015/668), regs. 1(2), [44(b)](https://www.legislation.gov.uk/uksi/2015/668/regulation/44/b)
+[^c-99ce2411ed30f4640d6fb42537ab00e4]: Textual amendment: Regulations revoked (1.5.2015) by [The Nitrate Pollution Prevention Regulations 2015 (S.I. 2015/668)](https://www.legislation.gov.uk/uksi/2015/668), regs. 1(2), [44(b)](https://www.legislation.gov.uk/uksi/2015/668/regulation/44/b)

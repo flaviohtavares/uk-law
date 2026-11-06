@@ -214,10 +214,10 @@ in so far as the amount consists of an excluded item as a result of falling with
 
 (4) If only part of a business is transferred—
 
-- (a) the appropriate amount[^key-63a2f284b4b97171ede456c40d428939] of the receipts or expenses is treated as arising to the transferee over so much of the 10-year period in question as falls on or after the date on which the transfer takes place, and
+- (a) the appropriate amount[^c-63a2f284b4b97171ede456c40d428939] of the receipts or expenses is treated as arising to the transferee over so much of the 10-year period in question as falls on or after the date on which the transfer takes place, and
 - (b) the remainder of the receipts or expenses is treated as arising to the transferor over so much of that period.
 
-(5)[^key-1674e346a1afb0c70b32fd7591391e0e] In sub-paragraph (4)(a), “the appropriate amount” means the amount which fairly represents the value of the receipts or expenses attributable to the part of the business transferred immediately before the transfer.
+(5)[^c-1674e346a1afb0c70b32fd7591391e0e] In sub-paragraph (4)(a), “the appropriate amount” means the amount which fairly represents the value of the receipts or expenses attributable to the part of the business transferred immediately before the transfer.
 
 (6) For the purposes of this paragraph and paragraphs 11 and 12 the accounting periods of the transferor and the transferee in which the transfer takes place are deemed to end immediately before the transfer takes place.
 
@@ -345,8 +345,8 @@ in respect of the re-insurance of relevant liabilities to the extent that they h
 
 **20.** Receipts or expenses are not to be treated as arising under this Part of this Schedule in a case where—
 
-- (a) an overseas life insurance company has, in accordance with international accounting standards or the Council Directive of 19[^key-c7eb6d807555cbfa3128abdf07190a67]<sup>th</sup> December 1991 on the annual accounts and consolidated accounts of insurance undertakings (No 91/674/EEC), prepared accounts for a period which includes 31 December 2012, and
-- (b) parts of the income statements or the technical accounts (or part of the technical accounts)[^key-06fa18728ea8e95be114b284a29593c3] included in those accounts are recognised for the purposes of sections 82A to 83ZA of FA 1989 as a result of provision made by regulation 24 of the Overseas Life Insurance Companies Regulations 2006.
+- (a) an overseas life insurance company has, in accordance with international accounting standards or the Council Directive of 19[^c-c7eb6d807555cbfa3128abdf07190a67]<sup>th</sup> December 1991 on the annual accounts and consolidated accounts of insurance undertakings (No 91/674/EEC), prepared accounts for a period which includes 31 December 2012, and
+- (b) parts of the income statements or the technical accounts (or part of the technical accounts)[^c-06fa18728ea8e95be114b284a29593c3] included in those accounts are recognised for the purposes of sections 82A to 83ZA of FA 1989 as a result of provision made by regulation 24 of the Overseas Life Insurance Companies Regulations 2006.
 
 ### PART 2 — Specific transitional provisions
 
@@ -380,7 +380,7 @@ in respect of the re-insurance of relevant liabilities to the extent that they h
 - (a) the amount is not to be taken into account in calculating the BLAGAB trade profit or loss of any basic life assurance and general annuity business carried on by the company, and
 - (b) the amount is not to be taken into account in calculating for corporation tax purposes the profits of any non-BLAGAB long-term business carried on by the company.
 
-(3)[^key-d920afd24ced84a3d1e755c71ee8c232] If the business mentioned in sub-paragraph (1) (or any part of that business) is transferred under an insurance business transfer scheme to another insurance company—
+(3)[^c-d920afd24ced84a3d1e755c71ee8c232] If the business mentioned in sub-paragraph (1) (or any part of that business) is transferred under an insurance business transfer scheme to another insurance company—
 
 - (a) references in sub-paragraph (2) to the company include the transferee, and
 - (b) references in sub-paragraph (2) to the amount include an amount that derives from the amount mentioned in sub-paragraph (1) and include so much of an amount as is taken into account in any calculation required under section 129(6)(a) or (b) and as is referable to the amount mentioned in sub-paragraph (1) (and, accordingly, section 129(7) is subject to the operation of this paragraph).
@@ -513,7 +513,7 @@ in respect of the re-insurance of relevant liabilities to the extent that they h
 - (a) income arising from the asset was, or chargeable gains or allowable losses accruing on any part disposal of the asset for the purposes of TCGA 1992 were, taken into account for the purposes of the charge to corporation tax on the I minus E basis, or
 - (b) income arising from the asset was taken into account in calculating the profits of the company in respect of its life assurance business in accordance with the provisions applicable for the purposes of the taxation of such profits under section 35 of CTA 2009 (charge on trade profits).
 
-**35A.**[^key-5f53786d83613405c95d852ff8e89289] (1) Sub-paragraph (2) applies to assets which by reason of paragraph 35 (or the previous application of this paragraph) are regarded for the purposes of this Part as assets forming part of the long-term business fixed capital of a company (“company A”).
+**35A.**[^c-5f53786d83613405c95d852ff8e89289] (1) Sub-paragraph (2) applies to assets which by reason of paragraph 35 (or the previous application of this paragraph) are regarded for the purposes of this Part as assets forming part of the long-term business fixed capital of a company (“company A”).
 
 (2) Where—
 
@@ -581,14 +581,14 @@ This sub-paragraph applies only so far as the context permits.
 
 ## Annotations
 
-[^key-63a2f284b4b97171ede456c40d428939]: Textual amendment: Word in Sch. 17 para. 13(4)(a) substituted (with effect in accordance with reg. 1 of the amending S.I.) by [The Insurance Companies (Amendment to Section 129 of, and Schedule 17 to, the Finance Act 2012) Regulations 2015 (S.I. 2015/1959)](https://www.legislation.gov.uk/uksi/2015/1959), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1959/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/1959/regulation/3/2)
+[^c-63a2f284b4b97171ede456c40d428939]: Textual amendment: Word in Sch. 17 para. 13(4)(a) substituted (with effect in accordance with reg. 1 of the amending S.I.) by [The Insurance Companies (Amendment to Section 129 of, and Schedule 17 to, the Finance Act 2012) Regulations 2015 (S.I. 2015/1959)](https://www.legislation.gov.uk/uksi/2015/1959), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1959/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/1959/regulation/3/2)
 
-[^key-1674e346a1afb0c70b32fd7591391e0e]: Textual amendment: Sch. 17 para. 13(5) substituted (with effect in accordance with reg. 1 of the amending S.I.) by [The Insurance Companies (Amendment to Section 129 of, and Schedule 17 to, the Finance Act 2012) Regulations 2015 (S.I. 2015/1959)](https://www.legislation.gov.uk/uksi/2015/1959), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1959/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/1959/regulation/3/3)
+[^c-1674e346a1afb0c70b32fd7591391e0e]: Textual amendment: Sch. 17 para. 13(5) substituted (with effect in accordance with reg. 1 of the amending S.I.) by [The Insurance Companies (Amendment to Section 129 of, and Schedule 17 to, the Finance Act 2012) Regulations 2015 (S.I. 2015/1959)](https://www.legislation.gov.uk/uksi/2015/1959), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1959/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/1959/regulation/3/3)
 
-[^key-c7eb6d807555cbfa3128abdf07190a67]: Textual amendment: Words in Sch. 17 para. 20(a) inserted (31.12.2012) by [The Insurance Companies (Transitional Provisions) Regulations 2012 (S.I. 2012/3009)](https://www.legislation.gov.uk/uksi/2012/3009), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3009/regulation/1/1), [16(a)](https://www.legislation.gov.uk/uksi/2012/3009/regulation/16/a)
+[^c-c7eb6d807555cbfa3128abdf07190a67]: Textual amendment: Words in Sch. 17 para. 20(a) inserted (31.12.2012) by [The Insurance Companies (Transitional Provisions) Regulations 2012 (S.I. 2012/3009)](https://www.legislation.gov.uk/uksi/2012/3009), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3009/regulation/1/1), [16(a)](https://www.legislation.gov.uk/uksi/2012/3009/regulation/16/a)
 
-[^key-06fa18728ea8e95be114b284a29593c3]: Textual amendment: Words in Sch. 17 para. 20(b) inserted (31.12.2012) by [The Insurance Companies (Transitional Provisions) Regulations 2012 (S.I. 2012/3009)](https://www.legislation.gov.uk/uksi/2012/3009), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3009/regulation/1/1), [16(b)](https://www.legislation.gov.uk/uksi/2012/3009/regulation/16/b)
+[^c-06fa18728ea8e95be114b284a29593c3]: Textual amendment: Words in Sch. 17 para. 20(b) inserted (31.12.2012) by [The Insurance Companies (Transitional Provisions) Regulations 2012 (S.I. 2012/3009)](https://www.legislation.gov.uk/uksi/2012/3009), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3009/regulation/1/1), [16(b)](https://www.legislation.gov.uk/uksi/2012/3009/regulation/16/b)
 
-[^key-d920afd24ced84a3d1e755c71ee8c232]: Textual amendment: Sch. 17 para. 22(3) inserted (30.9.2013) by [The Insurance Companies (Amendment to Schedule 17 to the Finance Act 2012 (Transitional Provision)) Regulations 2013 (S.I. 2013/2244)](https://www.legislation.gov.uk/uksi/2013/2244), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2244/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/2244/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2244/regulation/1/2))
+[^c-d920afd24ced84a3d1e755c71ee8c232]: Textual amendment: Sch. 17 para. 22(3) inserted (30.9.2013) by [The Insurance Companies (Amendment to Schedule 17 to the Finance Act 2012 (Transitional Provision)) Regulations 2013 (S.I. 2013/2244)](https://www.legislation.gov.uk/uksi/2013/2244), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2244/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/2244/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2244/regulation/1/2))
 
-[^key-5f53786d83613405c95d852ff8e89289]: Textual amendment: [Sch. 17 para. 35A](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17/paragraph/35A) inserted (with effect in accordance with reg. 1 of the amending S.I.) by [The Insurance Companies (Amendment to Section 129 of, and Schedule 17 to, the Finance Act 2012) Regulations 2015 (S.I. 2015/1959)](https://www.legislation.gov.uk/uksi/2015/1959), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1959/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/1959/regulation/4)
+[^c-5f53786d83613405c95d852ff8e89289]: Textual amendment: [Sch. 17 para. 35A](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17/paragraph/35A) inserted (with effect in accordance with reg. 1 of the amending S.I.) by [The Insurance Companies (Amendment to Section 129 of, and Schedule 17 to, the Finance Act 2012) Regulations 2015 (S.I. 2015/1959)](https://www.legislation.gov.uk/uksi/2015/1959), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1959/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/1959/regulation/4)

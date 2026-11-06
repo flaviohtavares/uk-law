@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85A. Controlled expenditure of third parties: power of Scottish Ministers[^key-be58bdc17044712ffdcdedfbaa4feca2]
+## 85A. Controlled expenditure of third parties: power of Scottish Ministers[^c-be58bdc17044712ffdcdedfbaa4feca2]
 
 *Extent: E+W+S+N.I.*
 
-(1) The powers under the following provisions of Schedule 8A are exercisable by the Scottish Ministers instead of the Secretary of State, so far as they relate to polls at elections for membership of the Scottish Parliament and local government elections in Scotland[^key-473ddd986cc256741daa591915f34c19]—
+(1) The powers under the following provisions of Schedule 8A are exercisable by the Scottish Ministers instead of the Secretary of State, so far as they relate to polls at elections for membership of the Scottish Parliament and local government elections in Scotland[^c-473ddd986cc256741daa591915f34c19]—
 
 - (a) paragraph 3(3) (power to approve a draft code of practice prepared by the Electoral Commission),
 - (b) paragraph 3(7) (power to appoint day when code comes into force), and
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-be58bdc17044712ffdcdedfbaa4feca2]: Textual amendment: S. 85A inserted (18.5.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 7(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/7/3), [72(4)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/a); [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/e)
+[^c-be58bdc17044712ffdcdedfbaa4feca2]: Textual amendment: S. 85A inserted (18.5.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 7(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/7/3), [72(4)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/a); [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/e)
 
-[^key-473ddd986cc256741daa591915f34c19]: Textual amendment: Words in s. 85A(1) inserted (29.9.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 12](https://www.legislation.gov.uk/asp/2020/12/section/12), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2021/311](https://www.legislation.gov.uk/ssi/2021/311), [reg. 2](https://www.legislation.gov.uk/ssi/2021/311/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/311/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/311/regulation/3))
+[^c-473ddd986cc256741daa591915f34c19]: Textual amendment: Words in s. 85A(1) inserted (29.9.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 12](https://www.legislation.gov.uk/asp/2020/12/section/12), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2021/311](https://www.legislation.gov.uk/ssi/2021/311), [reg. 2](https://www.legislation.gov.uk/ssi/2021/311/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/311/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/311/regulation/3))

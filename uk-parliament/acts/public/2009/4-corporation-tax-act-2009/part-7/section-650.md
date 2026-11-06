@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies to a derivative contract of a company for an accounting period if each of conditions A to H[^key-981a644c6faba221d57e4572e6322996] is met.
+(1) This section applies to a derivative contract of a company for an accounting period if each of conditions A to H[^c-981a644c6faba221d57e4572e6322996] is met.
 
 (2) Condition A is that the derivative contract is a contract for differences.
 
@@ -34,7 +34,7 @@ summary: ''
 
 (7) Condition F is that the company is not an excluded body.
 
-(8)[^key-480ad3da48dd90e80688a17e85dd924c] Condition G is that no two or more of the parties to the derivative contract are connected persons.
+(8)[^c-480ad3da48dd90e80688a17e85dd924c] Condition G is that no two or more of the parties to the derivative contract are connected persons.
 
 (9) Condition H is that the securing of a tax advantage is neither the main purpose, nor one of the main purposes, for which the company is a party to the derivative contract.
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-981a644c6faba221d57e4572e6322996]: Textual amendment: Words in s. 650(1) substituted (with effect in accordance with s. 41(5)(6) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 41(3)(a)](https://www.legislation.gov.uk/ukpga/2013/29/section/41/3/a)
+[^c-981a644c6faba221d57e4572e6322996]: Textual amendment: Words in s. 650(1) substituted (with effect in accordance with s. 41(5)(6) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 41(3)(a)](https://www.legislation.gov.uk/ukpga/2013/29/section/41/3/a)
 
-[^key-480ad3da48dd90e80688a17e85dd924c]: Textual amendment: S. 650(7)(8) inserted (with effect in accordance with s. 41(5)(6) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 41(3)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/41/3/b)
+[^c-480ad3da48dd90e80688a17e85dd924c]: Textual amendment: S. 650(7)(8) inserted (with effect in accordance with s. 41(5)(6) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 41(3)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/41/3/b)

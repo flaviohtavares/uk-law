@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Market studies: removal of time-limit on pre-reference consultation[^key-e3ef1e6e81bb952e14cc2bc0ffab3eef][^key-90e67a138a9148507158bba2b59a382c]
+## 134. Market studies: removal of time-limit on pre-reference consultation[^c-e3ef1e6e81bb952e14cc2bc0ffab3eef][^c-90e67a138a9148507158bba2b59a382c]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e3ef1e6e81bb952e14cc2bc0ffab3eef]: Commencement: S. 134 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-e3ef1e6e81bb952e14cc2bc0ffab3eef]: Commencement: S. 134 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-90e67a138a9148507158bba2b59a382c]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2024/13/section/134) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/2) (with [Sch. paras. 6](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/6), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-90e67a138a9148507158bba2b59a382c]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2024/13/section/134) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/2) (with [Sch. paras. 6](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/6), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))

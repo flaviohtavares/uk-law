@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Planning obligations[^key-16efbaeb9d972632cddfa04917ca2e85][^key-28ae43aedc87d8c44527dded7a0ef75e]
+## 23. Planning obligations[^c-16efbaeb9d972632cddfa04917ca2e85][^c-28ae43aedc87d8c44527dded7a0ef75e]
 
 *Extent: S*
 
@@ -178,6 +178,6 @@ summary: ''
 
 ## Annotations
 
-[^key-16efbaeb9d972632cddfa04917ca2e85]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2006/17/section/23) in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)
+[^c-16efbaeb9d972632cddfa04917ca2e85]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2006/17/section/23) in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)
 
-[^key-28ae43aedc87d8c44527dded7a0ef75e]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2006/17/section/23) in force at 1.2.2011 in so far as not already in force by [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 3](https://www.legislation.gov.uk/ssi/2010/400/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/400/schedule)
+[^c-28ae43aedc87d8c44527dded7a0ef75e]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2006/17/section/23) in force at 1.2.2011 in so far as not already in force by [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 3](https://www.legislation.gov.uk/ssi/2010/400/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/400/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 97. Recovery of financial penalties[^key-caffec45c16cecdd6178512d0ed4b939]
+## 97. Recovery of financial penalties[^c-caffec45c16cecdd6178512d0ed4b939]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ the licensing authority may recover from the person on whom the penalty was impo
 
 ## Annotations
 
-[^key-caffec45c16cecdd6178512d0ed4b939]: Commencement: S. 97 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c)
+[^c-caffec45c16cecdd6178512d0ed4b939]: Commencement: S. 97 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c)

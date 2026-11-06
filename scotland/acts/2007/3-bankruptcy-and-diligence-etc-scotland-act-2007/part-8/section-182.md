@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: S*
 
-(1) The officer of court[^key-5d8bfb29fe9c81f856383f93a3a7e54c] must, before the expiry of the period of 14 days beginning with the day on which the money attachment is executed (or such longer period as the sheriff on cause shown may, on the application of the officer, allow), make a report to the sheriff.
+(1) The officer of court[^c-5d8bfb29fe9c81f856383f93a3a7e54c] must, before the expiry of the period of 14 days beginning with the day on which the money attachment is executed (or such longer period as the sheriff on cause shown may, on the application of the officer, allow), make a report to the sheriff.
 
 (2) A report under subsection (1) above must be—
 
 - (a) in (or as nearly as may be in) the form prescribed by Act of Sederunt; and
-- (b) signed by the officer of court[^key-76e46702303dea144f217bf35b4881e4].
+- (b) signed by the officer of court[^c-76e46702303dea144f217bf35b4881e4].
 
 (3) The report must specify—
 
@@ -40,7 +40,7 @@ summary: ''
 - (e) whether the value of any money has been realised under section 181 of this Act; and
 - (f) whether any money attached has been released by virtue of section 185(3), 186 or 188(1) of this Act.
 
-(4) On making the report, the officer of court[^key-df5f0426a2b6ae4bc36fa587c9d2f723] must send a copy of it to—
+(4) On making the report, the officer of court[^c-df5f0426a2b6ae4bc36fa587c9d2f723] must send a copy of it to—
 
 - (a) the debtor;
 - (b) the creditor; and
@@ -51,7 +51,7 @@ summary: ''
 (6) If the sheriff so refuses—
 
 - (a) the money attachment ceases to have effect;
-- (b) the sheriff must require the officer of court[^key-ec8af12d713cf94c796c662197ef13de] to return the money attached or, where the value of any such money has been realised, a sum equivalent to that value, to the debtor; and
+- (b) the sheriff must require the officer of court[^c-ec8af12d713cf94c796c662197ef13de] to return the money attached or, where the value of any such money has been realised, a sum equivalent to that value, to the debtor; and
 - (c) the sheriff clerk must intimate the refusal to—
   - (i) the debtor;
   - (ii) the officer;
@@ -64,10 +64,10 @@ summary: ''
 
 [^c2028917]: Commencement: S. 182 wholly in force at 23.11.2009; s. 182 not in force at Royal Assent see s. 227; s. 182(2)(a) in force for certain purposes at 1.4.2008 by [S.S.I. 2008/115](https://www.legislation.gov.uk/ssi/2008/115), [art. 3(4)](https://www.legislation.gov.uk/ssi/2008/115/article/3/4), [Sch. 3](https://www.legislation.gov.uk/ssi/2008/115/schedule/3) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2008/115/article/4), [10](https://www.legislation.gov.uk/ssi/2008/115/article/10)); s. 182 in force at 23.11.2009 in so far as not already in force by [S.S.I. 2009/369](https://www.legislation.gov.uk/ssi/2009/369), [art. 3](https://www.legislation.gov.uk/ssi/2009/369/article/3) (with transitional modifications in [art. 4](https://www.legislation.gov.uk/ssi/2009/369/article/4))
 
-[^key-5d8bfb29fe9c81f856383f93a3a7e54c]: Textual amendment: Words in s. 182(1) substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 24(2)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/24/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-5d8bfb29fe9c81f856383f93a3a7e54c]: Textual amendment: Words in s. 182(1) substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 24(2)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/24/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
 
-[^key-76e46702303dea144f217bf35b4881e4]: Textual amendment: Words in s. 182(2)(b) substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 24(2)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/24/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-76e46702303dea144f217bf35b4881e4]: Textual amendment: Words in s. 182(2)(b) substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 24(2)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/24/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
 
-[^key-df5f0426a2b6ae4bc36fa587c9d2f723]: Textual amendment: Words in s. 182(4) substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 24(2)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/24/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-df5f0426a2b6ae4bc36fa587c9d2f723]: Textual amendment: Words in s. 182(4) substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 24(2)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/24/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
 
-[^key-ec8af12d713cf94c796c662197ef13de]: Textual amendment: Words in s. 182(6)(b) substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 24(2)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/24/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-ec8af12d713cf94c796c662197ef13de]: Textual amendment: Words in s. 182(6)(b) substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 24(2)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/24/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)

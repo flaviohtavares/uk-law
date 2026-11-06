@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 365. Parenting order[^key-1667cffab2b3b426a85e965bc6b14c86]
+## 365. Parenting order[^c-1667cffab2b3b426a85e965bc6b14c86]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1667cffab2b3b426a85e965bc6b14c86]: Commencement: [S. 365](https://www.legislation.gov.uk/ukpga/2020/17/section/365) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-1667cffab2b3b426a85e965bc6b14c86]: Commencement: [S. 365](https://www.legislation.gov.uk/ukpga/2020/17/section/365) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

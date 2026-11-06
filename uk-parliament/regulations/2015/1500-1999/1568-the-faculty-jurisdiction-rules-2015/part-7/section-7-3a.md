@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 7.3A. Notification of final determination to body making representations[^key-ad36190f90d13afd1820fa4935b1099f]
+## 7.3A. Notification of final determination to body making representations[^c-ad36190f90d13afd1820fa4935b1099f]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ Where Historic England, a national amenity society or the local planning authori
 
 ## Annotations
 
-[^key-ad36190f90d13afd1820fa4935b1099f]: Textual amendment: [Rule 7.3A](https://www.legislation.gov.uk/uksi/2015/1568/rule/7.3A) inserted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [9](https://www.legislation.gov.uk/uksi/2019/1184/rule/9)
+[^c-ad36190f90d13afd1820fa4935b1099f]: Textual amendment: [Rule 7.3A](https://www.legislation.gov.uk/uksi/2015/1568/rule/7.3A) inserted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [9](https://www.legislation.gov.uk/uksi/2019/1184/rule/9)

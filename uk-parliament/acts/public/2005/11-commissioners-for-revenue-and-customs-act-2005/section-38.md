@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Conduct of prosecutions on behalf of the Office[^key-de0928041b6aafffd37c9f68a68c099c]
+## 38. Conduct of prosecutions on behalf of the Office[^c-de0928041b6aafffd37c9f68a68c099c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de0928041b6aafffd37c9f68a68c099c]: Textual amendment: Ss. 34-39 omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2014/834/schedule/1/paragraph/9) (with [art. 7](https://www.legislation.gov.uk/uksi/2014/834/article/7))
+[^c-de0928041b6aafffd37c9f68a68c099c]: Textual amendment: Ss. 34-39 omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2014/834/schedule/1/paragraph/9) (with [art. 7](https://www.legislation.gov.uk/uksi/2014/834/article/7))

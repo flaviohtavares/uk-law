@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) Procedure Rules[^key-c57c1e2905797f4efda73061f1b0a71f] may include provision—
+(1) Procedure Rules[^c-c57c1e2905797f4efda73061f1b0a71f] may include provision—
 
 - (a) for cases involving allegations of the commission of sexual offences, for securing that the registration or other making available of documents or decisions shall be so effected as to prevent the identification of any person affected by or making the allegation, and
 - (b) for cases involving allegations of sexual misconduct, enabling an employment tribunal[^c19003081], on the application of any party to proceedings before it or of its own motion, to make a restricted reporting order having effect (if not revoked earlier) until the promulgation of the decision of the tribunal.
@@ -51,7 +51,7 @@ he as well as the body corporate is guilty of the offence and liable to be proce
 - “**identifying matter**”, in relation to a person, means any matter likely to lead members of the public to identify him as a person affected by, or as the person making, the allegation,
 - “**relevant programme**” has the same meaning as in the [^c19003101]Sexual Offences (Amendment) Act 1992,
 - “**restricted reporting order**” means an order—
-  - (a) made in exercise of a power conferred by Procedure Rules of the kind mentioned in subsection (1)(b)[^key-dafce94a3b75d8f8df9de041a14d8cde], and
+  - (a) made in exercise of a power conferred by Procedure Rules of the kind mentioned in subsection (1)(b)[^c-dafce94a3b75d8f8df9de041a14d8cde], and
   - (b) prohibiting the publication in Great Britain of identifying matter in a written publication available to the public or its inclusion in a relevant programme for reception in Great Britain,
 - “**sexual misconduct**” means the commission of a sexual offence, sexual harassment or other adverse conduct (of whatever nature) related to sex, and conduct is related to sex whether the relationship with sex lies in the character of the conduct or in its having reference to the sex or sexual orientation of the person at whom the conduct is directed,
 - “**sexual offence**” means any offence to which section 4 of the [^c19003111]Sexual Offences (Amendment) Act 1976, the Sexual Offences (Amendment) Act 1992 or section 274(2) of the [^c19003121]Criminal Procedure (Scotland) Act 1995 applies (offences under the [^c19003131]Sexual Offences Act 1956, Part I of the [^c19003141]Criminal Law (Consolidation) (Scotland) Act 1995 and certain other enactments), and
@@ -59,13 +59,13 @@ he as well as the body corporate is guilty of the offence and liable to be proce
 
 ## Annotations
 
-[^key-c57c1e2905797f4efda73061f1b0a71f]: Textual amendment: Words in [s. 11(1)](https://www.legislation.gov.uk/ukpga/1996/17/section/11/1) substituted (25.4.2024) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 5 para. 8(a)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/8/a); [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/ii)
+[^c-c57c1e2905797f4efda73061f1b0a71f]: Textual amendment: Words in [s. 11(1)](https://www.legislation.gov.uk/ukpga/1996/17/section/11/1) substituted (25.4.2024) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 5 para. 8(a)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/8/a); [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/ii)
 
 [^c19003081]: Textual amendment: Words in s. 11(1) substituted (1.8.1998) by [1998 c. 8](https://www.legislation.gov.uk/ukpga/1998/8), [s. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2/a) (with [s. 16(2)](https://www.legislation.gov.uk/ukpga/1998/8/section/16/2)); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)
 
 [^c19003101]: Marginal citation: [1992 c. 34](https://www.legislation.gov.uk/ukpga/1992/34).
 
-[^key-dafce94a3b75d8f8df9de041a14d8cde]: Textual amendment: Words in [s. 11(6)](https://www.legislation.gov.uk/ukpga/1996/17/section/11/6) substituted (25.4.2024) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 5 para. 8(b)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/8/b); [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/ii)
+[^c-dafce94a3b75d8f8df9de041a14d8cde]: Textual amendment: Words in [s. 11(6)](https://www.legislation.gov.uk/ukpga/1996/17/section/11/6) substituted (25.4.2024) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 5 para. 8(b)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/8/b); [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/ii)
 
 [^c19003111]: Marginal citation: [1976 c. 82](https://www.legislation.gov.uk/ukpga/1976/82).
 

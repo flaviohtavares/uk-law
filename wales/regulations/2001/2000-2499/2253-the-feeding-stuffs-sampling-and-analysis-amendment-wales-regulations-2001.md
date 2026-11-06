@@ -85,15 +85,15 @@ and
 
 In the Feeding Stuffs Regulations 2000 [^c15960191], regulation 26, paragraph (b) of regulation 27 and subparagraph (d)(i) of that regulation shall be omitted.
 
-## 6. Amendment of the Feeding Stuffs (Establishments and Intermediaries) Regulations 1999[^key-0a58dfdbc64c0e17c64ca8ef40625281]
+## 6. Amendment of the Feeding Stuffs (Establishments and Intermediaries) Regulations 1999[^c-0a58dfdbc64c0e17c64ca8ef40625281]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of the Feeding Stuffs (Enforcement) Regulations 1999[^key-0a58dfdbc64c0e17c64ca8ef40625281]
+## 7. Amendment of the Feeding Stuffs (Enforcement) Regulations 1999[^c-0a58dfdbc64c0e17c64ca8ef40625281]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-0a58dfdbc64c0e17c64ca8ef40625281]
+## 8.[^c-0a58dfdbc64c0e17c64ca8ef40625281]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -133,6 +133,6 @@ The Presiding Office of the National Assembly
 
 [^c15960191]: Marginal citation: SI 2001/343(W.15).
 
-[^key-0a58dfdbc64c0e17c64ca8ef40625281]: Textual amendment: Regs. 6-8 revoked (1.1.2006) by [The Feed (Hygiene and Enforcement) (Wales) Regulations 2005 (S.I. 2005/3368)](https://www.legislation.gov.uk/wsi/2005/3368), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3368/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2005/3368/schedule/2)
+[^c-0a58dfdbc64c0e17c64ca8ef40625281]: Textual amendment: Regs. 6-8 revoked (1.1.2006) by [The Feed (Hygiene and Enforcement) (Wales) Regulations 2005 (S.I. 2005/3368)](https://www.legislation.gov.uk/wsi/2005/3368), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3368/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2005/3368/schedule/2)
 
 [^c15960231]: Marginal citation: [1998 c.38](https://www.legislation.gov.uk/ukpga/1998/38).

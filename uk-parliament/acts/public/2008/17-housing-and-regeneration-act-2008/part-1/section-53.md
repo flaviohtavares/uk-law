@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Interim arrangements[^key-a907ae8c89a9613a5394e7f249853197]
+## 53. Interim arrangements[^c-a907ae8c89a9613a5394e7f249853197]
 
 *Extent: E+W*
 
@@ -25,12 +25,12 @@ summary: ''
 - (a) the HCA, or
 - (b) the Welsh Ministers.
 
-(2)[^key-7159ee20899485c2c2cd5767178ee3d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7159ee20899485c2c2cd5767178ee3d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) This section is without prejudice to the power of the Secretary of State under section 322(1).
 
 ## Annotations
 
-[^key-a907ae8c89a9613a5394e7f249853197]: Commencement: S. 53 in force at 8.9.2008 by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/2/1)
+[^c-a907ae8c89a9613a5394e7f249853197]: Commencement: S. 53 in force at 8.9.2008 by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/2/1)
 
-[^key-7159ee20899485c2c2cd5767178ee3d2]: Textual amendment: [S. 53(2)](https://www.legislation.gov.uk/ukpga/2008/17/section/53/2) repealed (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 3](https://www.legislation.gov.uk/uksi/2010/862/article/3) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-7159ee20899485c2c2cd5767178ee3d2]: Textual amendment: [S. 53(2)](https://www.legislation.gov.uk/ukpga/2008/17/section/53/2) repealed (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 3](https://www.legislation.gov.uk/uksi/2010/862/article/3) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))

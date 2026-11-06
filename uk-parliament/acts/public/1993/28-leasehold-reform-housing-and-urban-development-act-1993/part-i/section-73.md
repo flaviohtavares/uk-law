@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where it appears to the appropriate tribunal[^key-f802e459f65342edf1cffebc50472ad7] after the expiry of the period mentioned in section 70(1) that a scheme could, on the application of any landlord or landlords within that period, have been approved under section 70 as an estate management scheme for any area or areas within a conservation area, an application for the approval of the scheme under that section may, subject to subsections (2) and (3) below, be made to the tribunal by one or more bodies constituting the relevant authority for the purposes of this section.
+(1) Where it appears to the appropriate tribunal[^c-f802e459f65342edf1cffebc50472ad7] after the expiry of the period mentioned in section 70(1) that a scheme could, on the application of any landlord or landlords within that period, have been approved under section 70 as an estate management scheme for any area or areas within a conservation area, an application for the approval of the scheme under that section may, subject to subsections (2) and (3) below, be made to the tribunal by one or more bodies constituting the relevant authority for the purposes of this section.
 
 (2) An application under subsection (1) may only be made if—
 
@@ -78,6 +78,6 @@ it shall be assumed that any scheme approved under subsection (1) and relating t
 
 ## Annotations
 
-[^key-f802e459f65342edf1cffebc50472ad7]: Textual amendment: Words in [s. 73(1)](https://www.legislation.gov.uk/ukpga/1993/28/section/73/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 114](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/114) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-f802e459f65342edf1cffebc50472ad7]: Textual amendment: Words in [s. 73(1)](https://www.legislation.gov.uk/ukpga/1993/28/section/73/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 114](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/114) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c17025011]: Marginal citation: [1967 c. 88](https://www.legislation.gov.uk/ukpga/1967/88).

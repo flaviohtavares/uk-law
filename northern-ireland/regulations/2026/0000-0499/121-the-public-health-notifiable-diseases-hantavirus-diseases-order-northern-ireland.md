@@ -42,19 +42,19 @@ Coming into operation
 
 The Department of Health[^f00001], in exercise of the powers conferred by section 1(2) of the Public Health Act (Northern Ireland) 1967[^f00002], makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-6f1a822760f10c0c407f9925728a31b5]
+## 1. Citation, commencement and interpretation[^c-6f1a822760f10c0c407f9925728a31b5]
 
 (1) This Order may be cited as the Public Health (Notifiable Diseases – Hantavirus Diseases) Order (Northern Ireland) 2026 and shall come into operation on 20th June 2026.
 
 (2) In this Order “**the Act**” means the Public Health Act (Northern Ireland) 1967.
 
-## 2. Amendment of Schedule 1 to the Act[^key-4b82551863d299f40c36b7553b04765a]
+## 2. Amendment of Schedule 1 to the Act[^c-4b82551863d299f40c36b7553b04765a]
 
 (1) Schedule 1 to the Act shall be amended by the insertion of Hantavirus diseases, including hantavirus pulmonary/cardiopulmonary syndrome (HCPS) and haemorrhagic fever with renal syndrome (HFRS).
 
 (2) Accordingly, the notifiable diseases to which the Act applies from the commencement of this Order are those set out in the Schedule which shall be substituted for Schedule 1 to the Act.
 
-## 3. Revocation[^key-1f728e5c93cf122041661b12f327007d]
+## 3. Revocation[^c-1f728e5c93cf122041661b12f327007d]
 
 The Public Health (Notifiable Diseases) Order (Northern Ireland) 2022[^f00003] is revoked.
 
@@ -64,11 +64,11 @@ Chris Matthews
 
 A senior officer of the Department of Health
 
-## SCHEDULE — Notifiable Diseases[^key-7f682039bbe196bc591e114473c8d665]
+## SCHEDULE — Notifiable Diseases[^c-7f682039bbe196bc591e114473c8d665]
 
 Regulation 2
 
-[^key-7f682039bbe196bc591e114473c8d665]
+[^c-7f682039bbe196bc591e114473c8d665]
 
 - Acute encephalitis/meningitis: bacterial
 - Acute encephalitis/meningitis: viral
@@ -122,12 +122,12 @@ That Act requires a medical practitioner, as soon as he becomes aware, or has re
 
 [^f00002]: Footnote: [1967 c.36 (N.I.)](https://www.legislation.gov.uk/apni/1967/36)
 
-[^key-6f1a822760f10c0c407f9925728a31b5]: Commencement: Art. 1 in operation at 20.6.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/121/article/1/1)
+[^c-6f1a822760f10c0c407f9925728a31b5]: Commencement: Art. 1 in operation at 20.6.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/121/article/1/1)
 
-[^key-4b82551863d299f40c36b7553b04765a]: Commencement: Art. 2 in operation at 20.6.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/121/article/1/1)
+[^c-4b82551863d299f40c36b7553b04765a]: Commencement: Art. 2 in operation at 20.6.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/121/article/1/1)
 
-[^key-1f728e5c93cf122041661b12f327007d]: Commencement: Art. 3 in operation at 20.6.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/121/article/1/1)
+[^c-1f728e5c93cf122041661b12f327007d]: Commencement: Art. 3 in operation at 20.6.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/121/article/1/1)
 
 [^f00003]: Footnote: [S.R. 2022 No. 181](https://www.legislation.gov.uk/nisr/2022/181)
 
-[^key-7f682039bbe196bc591e114473c8d665]: Commencement: Sch. in operation at 20.6.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/121/article/1/1)
+[^c-7f682039bbe196bc591e114473c8d665]: Commencement: Sch. in operation at 20.6.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/121/article/1/1)

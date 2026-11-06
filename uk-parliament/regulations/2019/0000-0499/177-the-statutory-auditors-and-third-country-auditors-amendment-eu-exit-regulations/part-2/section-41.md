@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Amendment of the Companies (Audit, Investigations and Community Enterprise) Act 2004[^key-8768d73d7516d48d0e9ca8a00358c8f2]
+## 41. Amendment of the Companies (Audit, Investigations and Community Enterprise) Act 2004[^c-8768d73d7516d48d0e9ca8a00358c8f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Part 1 (auditors, accounts, directors' liabilities and investigations) of the Co
 
 ## Annotations
 
-[^key-8768d73d7516d48d0e9ca8a00358c8f2]: Commencement: Reg. 41 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-8768d73d7516d48d0e9ca8a00358c8f2]: Commencement: Reg. 41 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23586801]: Marginal citation: [2004 c. 27](https://www.legislation.gov.uk/ukpga/2004/27).

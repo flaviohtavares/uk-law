@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149.[^key-09aef0d1352c7ca5837e312ac98be876]
+## 149.[^c-09aef0d1352c7ca5837e312ac98be876]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09aef0d1352c7ca5837e312ac98be876]: Textual amendment: Regs. 146-149 omitted (15.9.2020) by virtue of [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(56)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/56)
+[^c-09aef0d1352c7ca5837e312ac98be876]: Textual amendment: Regs. 146-149 omitted (15.9.2020) by virtue of [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(56)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/56)

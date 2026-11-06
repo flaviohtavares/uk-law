@@ -24,13 +24,13 @@ summary: ''
 
 Regulations 2(1) and 3(2) to (4) and (7)
 
-### 1. Notes:[^key-c98078e321312fc349c3829e538bb224]
+### 1. Notes:[^c-c98078e321312fc349c3829e538bb224]
 
 The substances listed under numbers E 407 and E 440 may be standardised with sugars, on condition that this is stated in addition to the number and designation.
 
-**2.**[^key-844ce3e69ccd23d61cf13d989c077d0a] The substances E 290, E 938, E 939, E 941, E 942 and E 948 may also be used at *quantum satis* in the foods referred to in Schedules 6, 7 and 8.
+**2.**[^c-844ce3e69ccd23d61cf13d989c077d0a] The substances E 290, E 938, E 939, E 941, E 942 and E 948 may also be used at *quantum satis* in the foods referred to in Schedules 6, 7 and 8.
 
-**3.**[^key-1374dcdf2b7b6aa5ca1502608559c99a] The substances E 410, E 412, E 415 and E 417 may not be used to produce dehydrated foods intended to rehydrate on ingestion.
+**3.**[^c-1374dcdf2b7b6aa5ca1502608559c99a] The substances E 410, E 412, E 415 and E 417 may not be used to produce dehydrated foods intended to rehydrate on ingestion.
 
 | *EC No.* | *Name* |
 | --- | --- |
@@ -143,8 +143,8 @@ The substances listed under numbers E 407 and E 440 may be standardised with sug
 
 ## Annotations
 
-[^key-c98078e321312fc349c3829e538bb224]: Commencement: Sch. 1 para. 1 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-c98078e321312fc349c3829e538bb224]: Commencement: Sch. 1 para. 1 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-844ce3e69ccd23d61cf13d989c077d0a]: Commencement: Sch. 1 para. 2 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-844ce3e69ccd23d61cf13d989c077d0a]: Commencement: Sch. 1 para. 2 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-1374dcdf2b7b6aa5ca1502608559c99a]: Commencement: Sch. 1 para. 3 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-1374dcdf2b7b6aa5ca1502608559c99a]: Commencement: Sch. 1 para. 3 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)

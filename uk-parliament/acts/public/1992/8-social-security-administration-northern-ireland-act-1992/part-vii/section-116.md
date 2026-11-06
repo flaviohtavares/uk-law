@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Supply of information held by tax authorities for fraud prevention and verification.[^key-820614e7c753f307a08ea66e83d17c36][^c14899731]
+## 116. Supply of information held by tax authorities for fraud prevention and verification.[^c-820614e7c753f307a08ea66e83d17c36][^c14899731]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-820614e7c753f307a08ea66e83d17c36]: Textual amendment: [S. 116](https://www.legislation.gov.uk/ukpga/1992/8/section/116) repealed (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 12](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/12); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(c)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/c)
+[^c-820614e7c753f307a08ea66e83d17c36]: Textual amendment: [S. 116](https://www.legislation.gov.uk/ukpga/1992/8/section/116) repealed (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 12](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/12); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(c)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/c)
 
 [^c14899731]: Textual amendment: Ss. 116, 116A and the preceding*cross-heading* substituted (1.7.1997) for s. 116 and cross-heading by [1997 c. 47](https://www.legislation.gov.uk/ukpga/1997/47), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1997/47/section/1/2); [S.I. 1997/1577](https://www.legislation.gov.uk/uksi/1997/1577), [art. 2](https://www.legislation.gov.uk/uksi/1997/1577/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/1577/schedule)

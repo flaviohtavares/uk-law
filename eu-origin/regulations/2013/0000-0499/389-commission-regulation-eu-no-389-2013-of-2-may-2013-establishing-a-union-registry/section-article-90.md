@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 90. Execution and reversal of transfers[^key-b8d530d844d90059e42d4fa109458d65]
+## Article 90. Execution and reversal of transfers[^c-b8d530d844d90059e42d4fa109458d65]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8d530d844d90059e42d4fa109458d65]: Textual amendment: [Title 4](https://www.legislation.gov.uk/eur/2013/389/title/4) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [7](https://www.legislation.gov.uk/uksi/2021/511/regulation/7)
+[^c-b8d530d844d90059e42d4fa109458d65]: Textual amendment: [Title 4](https://www.legislation.gov.uk/eur/2013/389/title/4) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [7](https://www.legislation.gov.uk/uksi/2021/511/regulation/7)

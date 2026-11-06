@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 3A — Offences: relevant offences in the Windsor Framework (Plant Health) Regulations 2023[^key-61088e41ba819d1062b06cd45ca6de91]
+## SCHEDULE 3A — Offences: relevant offences in the Windsor Framework (Plant Health) Regulations 2023[^c-61088e41ba819d1062b06cd45ca6de91]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ Regulation 37
 
 ## Annotations
 
-[^key-61088e41ba819d1062b06cd45ca6de91]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/ssi/2019/421/schedule/3A) inserted (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [4(9)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/4/9)
+[^c-61088e41ba819d1062b06cd45ca6de91]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/ssi/2019/421/schedule/3A) inserted (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [4(9)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/4/9)

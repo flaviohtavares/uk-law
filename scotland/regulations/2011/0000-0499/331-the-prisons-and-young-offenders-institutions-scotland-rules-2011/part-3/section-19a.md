@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19A. Assignment of supervision levels on review – coronavirus[^key-4665775177626358c8adef53d6179d8a]
+## 19A. Assignment of supervision levels on review – coronavirus[^c-4665775177626358c8adef53d6179d8a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4665775177626358c8adef53d6179d8a]: Textual amendment: Rule 19A omitted (29.9.2021) by virtue of [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment (No. 2) Rules 2021 (S.S.I. 2021/289)](https://www.legislation.gov.uk/ssi/2021/289), [rules 1](https://www.legislation.gov.uk/ssi/2021/289/rule/1), [4(a)](https://www.legislation.gov.uk/ssi/2021/289/rule/4/a)
+[^c-4665775177626358c8adef53d6179d8a]: Textual amendment: Rule 19A omitted (29.9.2021) by virtue of [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment (No. 2) Rules 2021 (S.S.I. 2021/289)](https://www.legislation.gov.uk/ssi/2021/289), [rules 1](https://www.legislation.gov.uk/ssi/2021/289/rule/1), [4(a)](https://www.legislation.gov.uk/ssi/2021/289/rule/4/a)

@@ -38,7 +38,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Noise, vibration and emissions
 
-### 1. Aerodrome charges: noise and emissions[^key-cc5e377c194028a97dd629fa1185d039]
+### 1. Aerodrome charges: noise and emissions[^c-cc5e377c194028a97dd629fa1185d039]
 
 For section 38 of the Civil Aviation Act 1982 (c. 16) substitute—
 
@@ -76,7 +76,7 @@ For section 38 of the Civil Aviation Act 1982 (c. 16) substitute—
 > - “**aerodrome authority**” means a person owning or managing an aerodrome licensed under an Air Navigation Order; and
 > - “**charges**”, in relation to an aerodrome authority, means the charges the authority makes for the use of an aerodrome so licensed which is owned or managed by the authority.
 
-### 2. Regulation by Secretary of State of noise and vibration from aircraft[^key-71e38801da663c5810bc4bbecb54b2d4]
+### 2. Regulation by Secretary of State of noise and vibration from aircraft[^c-71e38801da663c5810bc4bbecb54b2d4]
 
 (1) Section 78 of the Civil Aviation Act 1982 (c. 16) (regulation by Secretary of State of noise and vibration from aircraft) is amended as follows.
 
@@ -92,7 +92,7 @@ For section 38 of the Civil Aviation Act 1982 (c. 16) substitute—
 - (a) in paragraph (i) for the words from “not exceeding” to “; and” substitute “ not exceeding level 5 on the standard scale; and ”, and
 - (b) in paragraph (ii) for “to be fined accordingly” substitute “ on summary conviction to a fine not exceeding 10% of level 5 on the standard scale ”.
 
-### 3. Power for aerodromes to establish penalty schemes[^key-a1252abed407359c4685577904cf88b6]
+### 3. Power for aerodromes to establish penalty schemes[^c-a1252abed407359c4685577904cf88b6]
 
 After section 78 of the Civil Aviation Act 1982 (c. 16) insert—
 
@@ -141,7 +141,7 @@ After section 78 of the Civil Aviation Act 1982 (c. 16) insert—
 > - (a) be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale, and
 > - (b) if the failure continues after his conviction of an offence under this subsection arising from the failure, be guilty of a separate offence under this subsection on each day on which the failure continues thereafter and be liable on summary conviction to a fine not exceeding 10% of level 5 on the standard scale.
 
-### 4. Power for aerodromes to establish noise control schemes[^key-2cae3ce718c21c8fcb094488def76ba1]
+### 4. Power for aerodromes to establish noise control schemes[^c-2cae3ce718c21c8fcb094488def76ba1]
 
 *Extent: E+W+S*
 
@@ -233,7 +233,7 @@ After section 38 of the Civil Aviation Act 1982 (c. 16) insert—
 
 *Extent: E+W*
 
-### 5. Public airport companies: power of Secretary of State to specify additional activities[^key-2e127270ee0253c2861e313024bbb5ac]
+### 5. Public airport companies: power of Secretary of State to specify additional activities[^c-2e127270ee0253c2861e313024bbb5ac]
 
 (1) The Airports Act 1986 (c. 31) is amended as follows.
 
@@ -291,7 +291,7 @@ Schedule 1 makes provision about the policing of aerodromes designated by the Se
 
 ## Appeals in respect of route licences
 
-### 7. Removal of appeal to Secretary of State in respect of route licences[^key-55217f7d97dee9d655bf753ddf7eeb91]
+### 7. Removal of appeal to Secretary of State in respect of route licences[^c-55217f7d97dee9d655bf753ddf7eeb91]
 
 (1) Section 69A of the Civil Aviation Act 1982 (c. 16) (regulation of carriage by air by route licences) is amended as follows.
 
@@ -327,7 +327,7 @@ Schedule 1 makes provision about the policing of aerodromes designated by the Se
 
 ## Health
 
-### 8. Functions with respect to health[^key-63ba2745fcbae78d2758f4f78dcfbb64]
+### 8. Functions with respect to health[^c-63ba2745fcbae78d2758f4f78dcfbb64]
 
 (1) The Civil Aviation Act 1982 (c. 16) is amended as follows.
 
@@ -370,7 +370,7 @@ Schedule 1 makes provision about the policing of aerodromes designated by the Se
 
 ## Air Travel Trust
 
-### 10. Funding of Air Travel Trust by contributions paid by air travel organisers[^key-6e04bfb08de709cae84e6c768c03ef4b]
+### 10. Funding of Air Travel Trust by contributions paid by air travel organisers[^c-6e04bfb08de709cae84e6c768c03ef4b]
 
 After section 71 of the Civil Aviation Act 1982 insert—
 
@@ -414,7 +414,7 @@ After section 71 of the Civil Aviation Act 1982 insert—
 > - (a) persons who hold licences by virtue of section 71 above, and
 > - (b) any other person or body appearing to it to have an interest in the matter.
 
-### 11. Miscellaneous provisions relating to the Air Travel Trust[^key-e4887b36d67af4bda74385ccddc0e7f3]
+### 11. Miscellaneous provisions relating to the Air Travel Trust[^c-e4887b36d67af4bda74385ccddc0e7f3]
 
 (1) The Secretary of State must lay before Parliament a copy of every report that he receives from the trustees of the Air Travel Trust by virtue of the terms of the trust deed.
 
@@ -424,13 +424,13 @@ After section 71 of the Civil Aviation Act 1982 insert—
 
 ## Final provisions
 
-### 12. Scotland[^key-0d808c2f36793af6f57a7371f3db6142]
+### 12. Scotland[^c-0d808c2f36793af6f57a7371f3db6142]
 
 (1) In Schedule 1 to the Scotland Act 1998 (Transfer of Functions to Scottish Ministers) Order 1999 (S.I. 1999/1750), in the entry relating to the Civil Aviation Act 1982 (c. 16), for “38(2), 42(1), 50(2), 78,” substitute “ 38(4) and (5), 38B(2)(a) and (5), 42(1), 50(2), 78, 78B(1), (2) and (4), ”.
 
 (2) Subsection (1) does not affect the power to make further Orders varying or omitting those references.
 
-### 13. Consequential amendments[^key-abb2e59f636d59ffc6533fe253cd246f]
+### 13. Consequential amendments[^c-abb2e59f636d59ffc6533fe253cd246f]
 
 Schedule 2 contains consequential amendments.
 
@@ -748,15 +748,15 @@ Section 13
 
 ### Civil Aviation Act 1982 (c. 16)
 
-**1.**[^key-68e4cbd175e22003c0ef13694f70b948] The Civil Aviation Act 1982 has effect subject to the following amendments.
+**1.**[^c-68e4cbd175e22003c0ef13694f70b948] The Civil Aviation Act 1982 has effect subject to the following amendments.
 
 *Extent: E+W+S*
 
-**2.**[^key-9ebae4038b36809090a771aacbfaaa0d] In section 88(10) (detention and sale of aircraft for unpaid airport charges), in the definition of “airport charges”, after “Transport Act 2000” insert “ or penalties payable by virtue of section 38C or 78A of this Act ”.
+**2.**[^c-9ebae4038b36809090a771aacbfaaa0d] In section 88(10) (detention and sale of aircraft for unpaid airport charges), in the definition of “airport charges”, after “Transport Act 2000” insert “ or penalties payable by virtue of section 38C or 78A of this Act ”.
 
-**3.**[^key-64b9ab9d82774991f306d5a190461d73] In section 107(1) (provisions of Act not extending to Northern Ireland) after “37,” insert “ 38A to 38C, ”.
+**3.**[^c-64b9ab9d82774991f306d5a190461d73] In section 107(1) (provisions of Act not extending to Northern Ireland) after “37,” insert “ 38A to 38C, ”.
 
-**4.**[^key-b21430a1349dc4fdc392e0313aebc85e] (1) Part 2 of Schedule 13 (provisions applying in relation to certain subordinate instruments) is amended as follows.
+**4.**[^c-b21430a1349dc4fdc392e0313aebc85e] (1) Part 2 of Schedule 13 (provisions applying in relation to certain subordinate instruments) is amended as follows.
 
 (2) In the entry relating to section 38, for “38(2)” substitute “ 38(4) ”.
 
@@ -776,31 +776,31 @@ Section 13
 
 *Extent: E+W+S*
 
-**5.**[^key-4a2a3f097efe866a6072861e3d3fe995][^key-5a1ea54396f7f343958f4464c289ad39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4a2a3f097efe866a6072861e3d3fe995][^c-5a1ea54396f7f343958f4464c289ad39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cc5e377c194028a97dd629fa1185d039]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2006/34/section/1) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
+[^c-cc5e377c194028a97dd629fa1185d039]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2006/34/section/1) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
 
-[^key-71e38801da663c5810bc4bbecb54b2d4]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2006/34/section/2) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
+[^c-71e38801da663c5810bc4bbecb54b2d4]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2006/34/section/2) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
 
-[^key-a1252abed407359c4685577904cf88b6]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2006/34/section/3) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
+[^c-a1252abed407359c4685577904cf88b6]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2006/34/section/3) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
 
-[^key-2cae3ce718c21c8fcb094488def76ba1]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2006/34/section/4) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
+[^c-2cae3ce718c21c8fcb094488def76ba1]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2006/34/section/4) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
 
-[^key-2e127270ee0253c2861e313024bbb5ac]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2006/34/section/5) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
+[^c-2e127270ee0253c2861e313024bbb5ac]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2006/34/section/5) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
 
-[^key-55217f7d97dee9d655bf753ddf7eeb91]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2006/34/section/7) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
+[^c-55217f7d97dee9d655bf753ddf7eeb91]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2006/34/section/7) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
 
-[^key-63ba2745fcbae78d2758f4f78dcfbb64]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2006/34/section/8) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
+[^c-63ba2745fcbae78d2758f4f78dcfbb64]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2006/34/section/8) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
 
-[^key-6e04bfb08de709cae84e6c768c03ef4b]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2006/34/section/10) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
+[^c-6e04bfb08de709cae84e6c768c03ef4b]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2006/34/section/10) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
 
-[^key-e4887b36d67af4bda74385ccddc0e7f3]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2006/34/section/11) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
+[^c-e4887b36d67af4bda74385ccddc0e7f3]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2006/34/section/11) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
 
-[^key-0d808c2f36793af6f57a7371f3db6142]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2006/34/section/12) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
+[^c-0d808c2f36793af6f57a7371f3db6142]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2006/34/section/12) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
 
-[^key-abb2e59f636d59ffc6533fe253cd246f]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2006/34/section/13) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
+[^c-abb2e59f636d59ffc6533fe253cd246f]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2006/34/section/13) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
 
 [^c1722209]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2006/34/schedule/1/paragraph/3) wholly in force at Royal Assent but to be treated in part as having come into force on 21.11.2005, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2006/34/section/14/2), [Sch. 1 para. 6(1)-(3)](https://www.legislation.gov.uk/ukpga/2006/34/schedule/1/paragraph/6/1)
 
@@ -808,14 +808,14 @@ Section 13
 
 [^c1722220]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2006/34/schedule/1/paragraph/5) wholly in force at Royal Assent but to be treated in part as having come into force on 21.11.2005, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2006/34/section/14/2), [Sch. 1 para. 6(5)](https://www.legislation.gov.uk/ukpga/2006/34/schedule/1/paragraph/6/5)
 
-[^key-68e4cbd175e22003c0ef13694f70b948]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2006/34/schedule/2/paragraph/1) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
+[^c-68e4cbd175e22003c0ef13694f70b948]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2006/34/schedule/2/paragraph/1) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
 
-[^key-9ebae4038b36809090a771aacbfaaa0d]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2006/34/schedule/2/paragraph/2) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
+[^c-9ebae4038b36809090a771aacbfaaa0d]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2006/34/schedule/2/paragraph/2) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
 
-[^key-64b9ab9d82774991f306d5a190461d73]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2006/34/schedule/2/paragraph/3) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
+[^c-64b9ab9d82774991f306d5a190461d73]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2006/34/schedule/2/paragraph/3) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
 
-[^key-b21430a1349dc4fdc392e0313aebc85e]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2006/34/schedule/2/paragraph/4) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
+[^c-b21430a1349dc4fdc392e0313aebc85e]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2006/34/schedule/2/paragraph/4) in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
 
-[^key-4a2a3f097efe866a6072861e3d3fe995]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2006/34/schedule/2/paragraph/5) repealed (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 9 para. 17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/9/paragraph/17) (with [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12)[17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 5(1)(b)](https://www.legislation.gov.uk/uksi/2013/589/article/5/1/b)
+[^c-4a2a3f097efe866a6072861e3d3fe995]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2006/34/schedule/2/paragraph/5) repealed (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 9 para. 17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/9/paragraph/17) (with [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12)[17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 5(1)(b)](https://www.legislation.gov.uk/uksi/2013/589/article/5/1/b)
 
-[^key-5a1ea54396f7f343958f4464c289ad39]: Commencement: Sch. 2 para. 5 in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
+[^c-5a1ea54396f7f343958f4464c289ad39]: Commencement: Sch. 2 para. 5 in force at 1.3.2007 by [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)

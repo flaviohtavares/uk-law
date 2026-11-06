@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Acquisition of subsoil or airspace only[^key-7300817f02fa7f70bde311c580ad3582]
+## 24. Acquisition of subsoil or airspace only[^c-7300817f02fa7f70bde311c580ad3582]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7300817f02fa7f70bde311c580ad3582]: Commencement: Art. 24 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-7300817f02fa7f70bde311c580ad3582]: Commencement: Art. 24 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)

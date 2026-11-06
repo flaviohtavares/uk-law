@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Requests and offers of undertakings[^key-21be454d737cef91a6264dd08b751ed6]
+## 77. Requests and offers of undertakings[^c-21be454d737cef91a6264dd08b751ed6]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21be454d737cef91a6264dd08b751ed6]: Commencement: Reg. 77 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-21be454d737cef91a6264dd08b751ed6]: Commencement: Reg. 77 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

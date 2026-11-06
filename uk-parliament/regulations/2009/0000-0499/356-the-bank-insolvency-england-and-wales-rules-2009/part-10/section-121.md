@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 121. Quorum[^key-c34326a1e349c4406bcaa6a378c5a59c]
+## 121. Quorum[^c-c34326a1e349c4406bcaa6a378c5a59c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A meeting of the committee is duly constituted if due notice of it has been give
 
 ## Annotations
 
-[^key-c34326a1e349c4406bcaa6a378c5a59c]: Commencement: Rule 121 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-c34326a1e349c4406bcaa6a378c5a59c]: Commencement: Rule 121 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

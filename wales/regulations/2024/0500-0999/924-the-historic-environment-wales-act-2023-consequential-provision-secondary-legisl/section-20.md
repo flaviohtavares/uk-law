@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. The National Park Authorities (Wales) (Amendment) Order 1996[^key-873d8c5500adaaee2c689a98102b6388]
+## 20. The National Park Authorities (Wales) (Amendment) Order 1996[^c-873d8c5500adaaee2c689a98102b6388]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In the Schedule to the National Park Authorities (Wales) (Amendment) Order 1996[
 
 ## Annotations
 
-[^key-873d8c5500adaaee2c689a98102b6388]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2024/924/regulation/20) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-873d8c5500adaaee2c689a98102b6388]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2024/924/regulation/20) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00015]: Footnote: [S.I. 1996/534](https://www.legislation.gov.uk/uksi/1996/534).

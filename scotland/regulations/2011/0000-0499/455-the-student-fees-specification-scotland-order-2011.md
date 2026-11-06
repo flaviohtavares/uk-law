@@ -48,11 +48,11 @@ The Scottish Ministers have laid before the Scottish Parliament a statement summ
 
 In accordance with section 34(4) of that Act, a draft of this Order has been laid before, and approved by resolution of, the Scottish Parliament[^f00002].
 
-## 1. Citation and commencement[^key-0a5268aa612033a948b0b1d15544d828]
+## 1. Citation and commencement[^c-0a5268aa612033a948b0b1d15544d828]
 
 This Order may be cited as the Student Fees (Specification) (Scotland) Order 2011 and comes into force on 1st August 2012.
 
-## 2. Interpretation[^key-cc786ef42bcfeed5ba5207010fe8ff21]
+## 2. Interpretation[^c-cc786ef42bcfeed5ba5207010fe8ff21]
 
 In this Order—
 
@@ -61,13 +61,13 @@ In this Order—
 - (c) a “higher level course of education” is any course at a higher level, including a honours or ordinary degree course, with the exception of—
   - (i) a course of post-graduate studies (including a higher degree course); and
   - (ii) a course at a higher level in preparation for a qualification from a professional body;
-- (d) a “post 2011/12 student” is a student, who is not a deferred student or a new deferred student within the meaning of article 1(2) of the 2006 Order, who commences a course at a post-16 education[^key-5ea07e8b0211590ffd9ac9ecbac3a2d3] body on or after 1st August 2012.
+- (d) a “post 2011/12 student” is a student, who is not a deferred student or a new deferred student within the meaning of article 1(2) of the 2006 Order, who commences a course at a post-16 education[^c-5ea07e8b0211590ffd9ac9ecbac3a2d3] body on or after 1st August 2012.
 
-## 3. Specification of fees for a 2012/13 academic year[^key-a27f680867aa7b20e70fdf119764f7cb]
+## 3. Specification of fees for a 2012/13 academic year[^c-a27f680867aa7b20e70fdf119764f7cb]
 
 (1) Subject to paragraph (3), the Scottish Ministers specify the following fees payable for a 2012/13 academic year.
 
-(2) Full time post 2011/12 students who are studying at post-16 education[^key-683b69665e895f307f12435aa9d849dd] bodies must pay a fee of—
+(2) Full time post 2011/12 students who are studying at post-16 education[^c-683b69665e895f307f12435aa9d849dd] bodies must pay a fee of—
 
 - (a) £1,820 in connection with their attending any honours or ordinary degree course;
 - (b) £1,820 in connection with their attending a Postgraduate Certificate in Education or Professional Graduate Diploma in Education course;
@@ -75,14 +75,14 @@ In this Order—
 
 (3) Paragraphs (1) and (2) do not apply in relation to any fees which are payable in accordance with the Education (Fees) (Scotland) Regulations 2011[^f00004] by students who do not have a relevant connection with Scotland and are not excepted students under those Regulations.
 
-## 4. Specification of fees for academic years subsequent to a 2012/13 academic year[^key-fd0ed5294b5d2c072aecd08c6d0cf9d1]
+## 4. Specification of fees for academic years subsequent to a 2012/13 academic year[^c-fd0ed5294b5d2c072aecd08c6d0cf9d1]
 
 The Scottish Ministers may determine, in relation to any academic year subsequent to a 2012/13 academic year, that the fees payable for that year, by any full time post 2011/12 students in connection with their attending such courses as specified under article 3(2), are—
 
 - (a) in each case no higher than the fees specified under article 3(1) and (2); or
 - (b) in any case higher than the fees specified under article 3(1) and (2), provided that any increase in fees is no greater than is required in order to maintain the value in real terms of those specified fees.
 
-## 5. Amendment of the Student Fees (Specification) (Scotland) Order 2006[^key-cb9dff93fa34929b69133dee1439b84d]
+## 5. Amendment of the Student Fees (Specification) (Scotland) Order 2006[^c-cb9dff93fa34929b69133dee1439b84d]
 
 (1) The 2006 Order is amended as follows.
 
@@ -169,23 +169,23 @@ Fees payable by students attending courses of higher education at fundable bodie
 
 [^f00002]: Footnote: Section 34(4) of the Further and Higher Education (Scotland) Act 2005 has been modified by paragraph 5 of schedule 3 to the [Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-0a5268aa612033a948b0b1d15544d828]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2011/455/article/1) in force at 1.8.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2011/455/article/1)
+[^c-0a5268aa612033a948b0b1d15544d828]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2011/455/article/1) in force at 1.8.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2011/455/article/1)
 
-[^key-cc786ef42bcfeed5ba5207010fe8ff21]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2011/455/article/2) in force at 1.8.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2011/455/article/1)
+[^c-cc786ef42bcfeed5ba5207010fe8ff21]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2011/455/article/2) in force at 1.8.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2011/455/article/1)
 
 [^f00003]: Footnote: [S.S.I. 2006/401](https://www.legislation.gov.uk/ssi/2006/401).
 
-[^key-5ea07e8b0211590ffd9ac9ecbac3a2d3]: Textual amendment: Words in [art. 2(d)](https://www.legislation.gov.uk/ssi/2011/455/article/2/d) substituted (31.3.2015) by [The Post-16 Education (Scotland) Act 2013 (Modification of Legislation) Order 2015 (S.S.I. 2015/153)](https://www.legislation.gov.uk/ssi/2015/153), [art. 1](https://www.legislation.gov.uk/ssi/2015/153/article/1), [sch. para. 18](https://www.legislation.gov.uk/ssi/2015/153/schedule/paragraph/18)
+[^c-5ea07e8b0211590ffd9ac9ecbac3a2d3]: Textual amendment: Words in [art. 2(d)](https://www.legislation.gov.uk/ssi/2011/455/article/2/d) substituted (31.3.2015) by [The Post-16 Education (Scotland) Act 2013 (Modification of Legislation) Order 2015 (S.S.I. 2015/153)](https://www.legislation.gov.uk/ssi/2015/153), [art. 1](https://www.legislation.gov.uk/ssi/2015/153/article/1), [sch. para. 18](https://www.legislation.gov.uk/ssi/2015/153/schedule/paragraph/18)
 
-[^key-a27f680867aa7b20e70fdf119764f7cb]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2011/455/article/3) in force at 1.8.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2011/455/article/1)
+[^c-a27f680867aa7b20e70fdf119764f7cb]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2011/455/article/3) in force at 1.8.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2011/455/article/1)
 
-[^key-683b69665e895f307f12435aa9d849dd]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/ssi/2011/455/article/3/2) substituted (31.3.2015) by [The Post-16 Education (Scotland) Act 2013 (Modification of Legislation) Order 2015 (S.S.I. 2015/153)](https://www.legislation.gov.uk/ssi/2015/153), [art. 1](https://www.legislation.gov.uk/ssi/2015/153/article/1), [sch. para. 18](https://www.legislation.gov.uk/ssi/2015/153/schedule/paragraph/18)
+[^c-683b69665e895f307f12435aa9d849dd]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/ssi/2011/455/article/3/2) substituted (31.3.2015) by [The Post-16 Education (Scotland) Act 2013 (Modification of Legislation) Order 2015 (S.S.I. 2015/153)](https://www.legislation.gov.uk/ssi/2015/153), [art. 1](https://www.legislation.gov.uk/ssi/2015/153/article/1), [sch. para. 18](https://www.legislation.gov.uk/ssi/2015/153/schedule/paragraph/18)
 
 [^f00004]: Footnote: [S.S.I. 2011/389](https://www.legislation.gov.uk/ssi/2011/389).
 
-[^key-fd0ed5294b5d2c072aecd08c6d0cf9d1]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2011/455/article/4) in force at 1.8.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2011/455/article/1)
+[^c-fd0ed5294b5d2c072aecd08c6d0cf9d1]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2011/455/article/4) in force at 1.8.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2011/455/article/1)
 
-[^key-cb9dff93fa34929b69133dee1439b84d]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2011/455/article/5) in force at 1.8.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2011/455/article/1)
+[^c-cb9dff93fa34929b69133dee1439b84d]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2011/455/article/5) in force at 1.8.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2011/455/article/1)
 
 [^f00005]: Footnote: [S.S.I. 2011/389](https://www.legislation.gov.uk/ssi/2011/389).
 

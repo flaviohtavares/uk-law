@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Account information[^key-8aa3b792cb2f5c2b56679843a0974b70]
+## 40. Account information[^c-8aa3b792cb2f5c2b56679843a0974b70]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8aa3b792cb2f5c2b56679843a0974b70]: Commencement: S. 40 in force at 11.6.2006 by [S.S.I. 2006/281](https://www.legislation.gov.uk/ssi/2006/281), [art. 2](https://www.legislation.gov.uk/ssi/2006/281/article/2)
+[^c-8aa3b792cb2f5c2b56679843a0974b70]: Commencement: S. 40 in force at 11.6.2006 by [S.S.I. 2006/281](https://www.legislation.gov.uk/ssi/2006/281), [art. 2](https://www.legislation.gov.uk/ssi/2006/281/article/2)

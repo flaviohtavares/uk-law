@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Amendment of the Family Procedure Rules 2010[^key-ae21ba9f97c00d84bc3b46b748ddcc6d]
+## 47. Amendment of the Family Procedure Rules 2010[^c-ae21ba9f97c00d84bc3b46b748ddcc6d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ae21ba9f97c00d84bc3b46b748ddcc6d]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2023/1071/regulation/47) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-ae21ba9f97c00d84bc3b46b748ddcc6d]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2023/1071/regulation/47) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00038]: Footnote: [S.I. 2010/2955](https://www.legislation.gov.uk/uksi/2010/2955), amended by [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235); there are other amending instruments but none is relevant.

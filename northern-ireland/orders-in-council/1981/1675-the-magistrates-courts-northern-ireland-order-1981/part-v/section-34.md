@@ -26,7 +26,7 @@ summary: ''
 - (b) read aloud so much of every written statement as is admitted in evidence, or the purport thereof, if requested to do so by either the prosecution or the accused, and
 - (c) consider any submissions which may be made by or on behalf of the prosecution or the accused.
 
-(2)[^key-8dfa2cbffc2859ce3e68ede2fffbcd58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8dfa2cbffc2859ce3e68ede2fffbcd58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The court shall ask the accused if he has anything to say in answer to the charge and at the same time shall caution the accused that he is not obliged to say anything unless he wishes to do so and that whatever he does say may be taken down in writing and may be given in evidence at his trial; and whatever the accused says in answer after such caution shall be taken down in writing and read over to him and shall be signed by the resident magistrate[^c16969251]. . . conducting the preliminary inquiry.
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8dfa2cbffc2859ce3e68ede2fffbcd58]: Textual amendment: [Art. 34(2)](https://www.legislation.gov.uk/nisi/1981/1675/article/34/2) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [ss. 2](https://www.legislation.gov.uk/nia/2022/4/section/2), [5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/221/article/2/b)
+[^c-8dfa2cbffc2859ce3e68ede2fffbcd58]: Textual amendment: [Art. 34(2)](https://www.legislation.gov.uk/nisi/1981/1675/article/34/2) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [ss. 2](https://www.legislation.gov.uk/nia/2022/4/section/2), [5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/221/article/2/b)
 
 [^c16969251]: Textual amendment: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26)

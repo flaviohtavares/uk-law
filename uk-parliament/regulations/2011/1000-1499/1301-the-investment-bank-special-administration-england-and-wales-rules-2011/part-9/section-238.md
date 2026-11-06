@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 238. Service on joint office-holders[^key-a340c510559603482d0c33a4140a1d7f]
+## 238. Service on joint office-holders[^c-a340c510559603482d0c33a4140a1d7f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where there are joint administrators, service of court documents on one of them 
 
 ## Annotations
 
-[^key-a340c510559603482d0c33a4140a1d7f]: Commencement: [Rule 238](https://www.legislation.gov.uk/uksi/2011/1301/rule/238) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-a340c510559603482d0c33a4140a1d7f]: Commencement: [Rule 238](https://www.legislation.gov.uk/uksi/2011/1301/rule/238) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Saving provision in connection with the Immigration (European Economic Area) Regulations 2016[^key-21a891d4775734963335f8ff22264e19][^M_I_60574849-430e-4c50-eb25-20e4a85d6254]
+## 82. Saving provision in connection with the Immigration (European Economic Area) Regulations 2016[^c-21a891d4775734963335f8ff22264e19][^M_I_60574849-430e-4c50-eb25-20e4a85d6254]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 3 has effect.
 
 ## Annotations
 
-[^key-21a891d4775734963335f8ff22264e19]: Commencement: Reg. 82 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-21a891d4775734963335f8ff22264e19]: Commencement: Reg. 82 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_60574849-430e-4c50-eb25-20e4a85d6254]: Commencement: Reg. 82 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)

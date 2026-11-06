@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Amendment of the Food Safety (Sampling and Qualifications) (England) Regulations 2013[^key-bd3454438d4a4b1f871939f8579b47bc]
+## 6. Amendment of the Food Safety (Sampling and Qualifications) (England) Regulations 2013[^c-bd3454438d4a4b1f871939f8579b47bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bd3454438d4a4b1f871939f8579b47bc]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
+[^c-bd3454438d4a4b1f871939f8579b47bc]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
 
 [^c24375401]: Marginal citation: [S.I. 2013/264](https://www.legislation.gov.uk/uksi/2013/264), as amended by [S.I. 2013/2196](https://www.legislation.gov.uk/uksi/2013/2196).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Residents’ engagement strategy[^key-3a1a13dc83d9cbb820266630da2bb854][^key-44520c38e50438b4bfc90d6ab1ad5cb8]
+## 91. Residents’ engagement strategy[^c-3a1a13dc83d9cbb820266630da2bb854][^c-44520c38e50438b4bfc90d6ab1ad5cb8]
 
 *Extent: E+W*
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3a1a13dc83d9cbb820266630da2bb854]: Commencement: S. 91 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-3a1a13dc83d9cbb820266630da2bb854]: Commencement: S. 91 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-44520c38e50438b4bfc90d6ab1ad5cb8]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2022/30/section/91) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/l)
+[^c-44520c38e50438b4bfc90d6ab1ad5cb8]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2022/30/section/91) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/l)

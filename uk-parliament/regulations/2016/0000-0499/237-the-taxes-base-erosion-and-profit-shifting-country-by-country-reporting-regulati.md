@@ -46,11 +46,11 @@ Coming into force
 
 The Treasury make these Regulations in exercise of the powers conferred by section 136 of the Finance Act 2002[^f00001] and section 122 of the Finance Act 2015[^f00002]:
 
-## 1. Citation and commencement[^key-5295956b456bab4ad35419d750bbd5c1]
+## 1. Citation and commencement[^c-5295956b456bab4ad35419d750bbd5c1]
 
 These Regulations may be cited as the Taxes (Base Erosion and Profit Shifting) (Country-by-Country) Reporting Regulations 2016 and come into force on 18th March 2016.
 
-## 2. Interpretation[^key-223671ef2f0e1e92752cbd6d3e2770b6]
+## 2. Interpretation[^c-223671ef2f0e1e92752cbd6d3e2770b6]
 
 (1) In these Regulations—
 
@@ -59,30 +59,30 @@ These Regulations may be cited as the Taxes (Base Erosion and Profit Shifting) (
 - “country-by-country report” means a report about an MNE Group and its Constituent Entities containing the information specified in specific or general directions given by the Commissioners;
 - “exchange arrangements” means arrangements to exchange country-by-country reports or their equivalent;
 - “file”, except in relation to filing outside the United Kingdom, means file with Revenue and Customs;
-- “filing deadline” means 12 months after the end of the [^key-aa04ca94e81fea18620f9efdcd2bfaba]... period to which the CBC report relates;
+- “filing deadline” means 12 months after the end of the [^c-aa04ca94e81fea18620f9efdcd2bfaba]... period to which the CBC report relates;
 - “OECD model legislation” means the model legislation in the OECD Transfer Pricing Documentation and Country-by-Country Reporting, Action 13 – 2015 Final Report[^f00003];
-- “partnership” means a partnership governed by the Partnership Act 1890, the Limited Partnerships Act 1907 or the Limited Liability Partnerships Act 2000;[^key-46d83427919823f28775bfc6398eb3d1]
+- “partnership” means a partnership governed by the Partnership Act 1890, the Limited Partnerships Act 1907 or the Limited Liability Partnerships Act 2000;[^c-46d83427919823f28775bfc6398eb3d1]
 - “reporting entity” has the meaning given by regulation 10;
-- “threshold requirement” has the meaning given by paragraphs (2) to (4) of regulation 3;[^key-e619bc62be9e822c478badea7325bb86]
+- “threshold requirement” has the meaning given by paragraphs (2) to (4) of regulation 3;[^c-e619bc62be9e822c478badea7325bb86]
 - “the tribunal” means the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal;
 - “United Kingdom country-by-country report” has the meaning given by regulation 5; and
 - “United Kingdom Entity” has the meaning given by regulation 5.
 
 (2) The following expressions have the same meaning in these Regulations as they do in the OECD model legislation—
 
-- “Consolidated Financial Statements” if they are prepared in accordance with generally accepted accounting practice or international accounting standards, which expressions have the meaning given to them in section 1127 of the Corporation Tax Act 2010; [^key-91dd3832d17146436e891ef0888aab89]...
-- “Constituent Entity”; and “International Agreement”[^key-cd65782fd7598e7bd13e1afc5c46140f].
+- “Consolidated Financial Statements” if they are prepared in accordance with generally accepted accounting practice or international accounting standards, which expressions have the meaning given to them in section 1127 of the Corporation Tax Act 2010; [^c-91dd3832d17146436e891ef0888aab89]...
+- “Constituent Entity”; and “International Agreement”[^c-cd65782fd7598e7bd13e1afc5c46140f].
 
 (3) “MNE Group” has the same meaning in these Regulations as it does in Article 1(2) of the OECD model legislation except that Article 1(2)(ii) (Excluded MNE Group) does not apply.
 
-(4)[^key-b8db284946b8e61976eb0a0da92f6ac3] “Ultimate Parent Entity” has the same meaning in these Regulations as it does in Article 1(6) of the OECD model legislation except with the following modifications to that Article—
+(4)[^c-b8db284946b8e61976eb0a0da92f6ac3] “Ultimate Parent Entity” has the same meaning in these Regulations as it does in Article 1(6) of the OECD model legislation except with the following modifications to that Article—
 
 - (a) where an Ultimate Parent Entity is not a partnership, for the purposes of regulations 3A and 10(1)(a) for “a Constituent Entity of an MNE Group that meets the following criteria” there is treated as substituted “a Constituent Entity of an MNE Group resident in the United Kingdom for tax purposes that meets the following criteria”; and
 - (b) where an Ultimate Parent Entity is a partnership, for the purposes of regulations 3A and 10(1)(b) for “its jurisdiction of tax residence” there is treated as substituted “the jurisdiction under whose laws it is formed or organised” in both places where it occurs.
 
-## 3. Filing of CBC reports: general provisions[^key-e4f442d898c0d3da5df0763cec8f5b18][^key-fe03772c91f25d136a4b8523747d96c7]
+## 3. Filing of CBC reports: general provisions[^c-e4f442d898c0d3da5df0763cec8f5b18][^c-fe03772c91f25d136a4b8523747d96c7]
 
-(1) Regulations 3A, 3B [^key-69ec3f9a81c93cb7b1c8015b24ed9ca1]... and 3D apply where the Consolidated Financial Statements of an MNE Group (“G”) meet the threshold requirement for a period (“P”) where P—
+(1) Regulations 3A, 3B [^c-69ec3f9a81c93cb7b1c8015b24ed9ca1]... and 3D apply where the Consolidated Financial Statements of an MNE Group (“G”) meet the threshold requirement for a period (“P”) where P—
 
 - (a) commences before and ends on or after 31st December 2015; or
 - (b) commences on or after 1st January 2016.
@@ -96,21 +96,21 @@ These Regulations may be cited as the Taxes (Base Erosion and Profit Shifting) (
 
 (4) When P is a period of more or less than 12 months, the amount of €750million in paragraph (2) (or the equivalent under paragraph (3)) is increased or decreased proportionately.
 
-(5) In regulations 3A, 3B [^key-69ec3f9a81c93cb7b1c8015b24ed9ca1]... and 3D, “G” is the MNE Group.
+(5) In regulations 3A, 3B [^c-69ec3f9a81c93cb7b1c8015b24ed9ca1]... and 3D, “G” is the MNE Group.
 
-(6) In regulations 3A, 3B [^key-69ec3f9a81c93cb7b1c8015b24ed9ca1]... and 3D, “P+1” is the period immediately following P in respect of which G prepares, or would prepare Consolidated Financial Statements.
+(6) In regulations 3A, 3B [^c-69ec3f9a81c93cb7b1c8015b24ed9ca1]... and 3D, “P+1” is the period immediately following P in respect of which G prepares, or would prepare Consolidated Financial Statements.
 
-## 3A. Filing of country-by-country reports ...[^key-3f12c50ac2675c61b575cfdda6596a3f]
+## 3A. Filing of country-by-country reports ...[^c-3f12c50ac2675c61b575cfdda6596a3f]
 
 (1) Each Ultimate Parent Entity of G must file a country-by-country report in respect of P+1 by the filing deadline.
 
-(2)[^key-5f550bf9008bd02e27ccf8c693421301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5f550bf9008bd02e27ccf8c693421301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-5f550bf9008bd02e27ccf8c693421301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5f550bf9008bd02e27ccf8c693421301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-5f550bf9008bd02e27ccf8c693421301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-5f550bf9008bd02e27ccf8c693421301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) Where an Ultimate Parent Entity of G is a partnership the requirement[^key-d59b24fff35710389fb1c6939bc4847a] imposed on it by this regulation must be complied with by the partner of the Ultimate Parent Entity of G who is required to deliver a return under section 12AA of TMA 1970.
+(5) Where an Ultimate Parent Entity of G is a partnership the requirement[^c-d59b24fff35710389fb1c6939bc4847a] imposed on it by this regulation must be complied with by the partner of the Ultimate Parent Entity of G who is required to deliver a return under section 12AA of TMA 1970.
 
 ## 3B. Filing of CBC reports by United Kingdom Entities
 
@@ -147,7 +147,7 @@ These Regulations may be cited as the Taxes (Base Erosion and Profit Shifting) (
   - (ii) the jurisdiction in which the report was filed; and
   - (iii) the date the report was filed.
 
-## 3C. Notification by United Kingdom Entities[^key-7a78a27ca354a4d6a88d03d9a47f9222]
+## 3C. Notification by United Kingdom Entities[^c-7a78a27ca354a4d6a88d03d9a47f9222]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -161,11 +161,11 @@ A Constituent Entity of G (“CEG”) may file a country-by-country report on be
   - (ii) is authorised by the Ultimate Parent Entity of G to file a country-by-country report on behalf of G in respect of P+1 and the Ultimate Parent Entity has notified Revenue and Customs of that authority in writing on or before the filing deadline; and
 - (c) one of the conditions in regulation 6 is met.
 
-## 4. Threshold requirement[^key-7756cdd5572a0ce6f19cefa1fb8368c3]
+## 4. Threshold requirement[^c-7756cdd5572a0ce6f19cefa1fb8368c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. United Kingdom country-by-country report and United Kingdom Entity[^key-c3c870afdc946bc9e21cc839d08136b0]
+## 5. United Kingdom country-by-country report and United Kingdom Entity[^c-c3c870afdc946bc9e21cc839d08136b0]
 
 (1) “United Kingdom country-by-country report” means a report which—
 
@@ -185,46 +185,46 @@ A Constituent Entity of G (“CEG”) may file a country-by-country report on be
 
 and which is required to prepare Consolidated Financial Statements or would be so required if its equity interests were traded on a public securities exchange and such statements include or would include UKE.
 
-## 6. Conditions that apply for the purposes of regulation 3B(1)(b) and 3D(c)[^key-77c8757e29e0a0402b23b2d187888e9a][^key-0a3a7d6b09d24dab8162dd07b9401030]
+## 6. Conditions that apply for the purposes of regulation 3B(1)(b) and 3D(c)[^c-77c8757e29e0a0402b23b2d187888e9a][^c-0a3a7d6b09d24dab8162dd07b9401030]
 
-The conditions referred to in regulations 3B(1)(b) and 3D(c)[^key-d95796007c2cde17c1a40ae29215ecbb] are—
+The conditions referred to in regulations 3B(1)(b) and 3D(c)[^c-d95796007c2cde17c1a40ae29215ecbb] are—
 
-- (a) the Ultimate Parent Entity is not required to file the equivalent of a country-by-country report in the jurisdiction in which it is resident for tax purposes in respect of the [^key-c1908f2819d2d2282a536d4a568b2834]... period to which the report relates (or where the Ultimate Parent Entity is resident for tax purposes in more than one jurisdiction, no such requirement to file applies in any of those jurisdictions);
-- (b)[^key-bb185acae2cd5ac611816d2681fe5617] the appropriate authority of the jurisdiction in which the Ultimate Parent Entity is resident for tax purposes has entered into an International Agreement but has not entered into exchange arrangements with Revenue and Customs in respect of the period to which the report relates (or where the Ultimate Parent Entity is resident for tax purposes in more than one jurisdiction, none of the appropriate authorities of those jurisdictions has entered into such arrangements);
+- (a) the Ultimate Parent Entity is not required to file the equivalent of a country-by-country report in the jurisdiction in which it is resident for tax purposes in respect of the [^c-c1908f2819d2d2282a536d4a568b2834]... period to which the report relates (or where the Ultimate Parent Entity is resident for tax purposes in more than one jurisdiction, no such requirement to file applies in any of those jurisdictions);
+- (b)[^c-bb185acae2cd5ac611816d2681fe5617] the appropriate authority of the jurisdiction in which the Ultimate Parent Entity is resident for tax purposes has entered into an International Agreement but has not entered into exchange arrangements with Revenue and Customs in respect of the period to which the report relates (or where the Ultimate Parent Entity is resident for tax purposes in more than one jurisdiction, none of the appropriate authorities of those jurisdictions has entered into such arrangements);
 - (c) the appropriate authority of the jurisdiction in which the Ultimate Parent Entity has filed the equivalent of a country-by-country report has entered into exchange arrangements with Revenue and Customs but—
-  - (i) in respect of the obligation on a UKEG in regulation 3B[^key-6c1914005f622284f8db1d06ded81822], Revenue and Customs has notified the UKEG that the arrangements are not operating effectively; or
-  - (ii) in respect of a CEG intending to file a county-by-country report further to regulation 3D[^key-ef6dd1b5034e2450710cdfb68e24d836], the CEG has requested Revenue and Customs to confirm whether or not the arrangements are operating effectively and Revenue and Customs has notified the CEG that they are not.
+  - (i) in respect of the obligation on a UKEG in regulation 3B[^c-6c1914005f622284f8db1d06ded81822], Revenue and Customs has notified the UKEG that the arrangements are not operating effectively; or
+  - (ii) in respect of a CEG intending to file a county-by-country report further to regulation 3D[^c-ef6dd1b5034e2450710cdfb68e24d836], the CEG has requested Revenue and Customs to confirm whether or not the arrangements are operating effectively and Revenue and Customs has notified the CEG that they are not.
 
-## 7. Commissioners’ directions[^key-4ab483a17a4d444c06f6bda244460d43]
+## 7. Commissioners’ directions[^c-4ab483a17a4d444c06f6bda244460d43]
 
 (1) The Commissioners must give specific or general directions in respect of—
 
-- (a)[^key-44a6b2b5aba3bd809db1ea5f61cda6d8] the content and form of presentation of—
+- (a)[^c-44a6b2b5aba3bd809db1ea5f61cda6d8] the content and form of presentation of—
   - (i) a CBC report; and
-  - (ii) a notification required by regulation 3B(4)(a)[^key-a1a55fc5bd91f4a41b43c86f0889dfe6]; and
+  - (ii) a notification required by regulation 3B(4)(a)[^c-a1a55fc5bd91f4a41b43c86f0889dfe6]; and
 - (b) the method for filing a report and providing a notification.
 
 (2) If the Commissioners direct an electronic method for filing a CBC report the directions referred to in paragraph (1) must provide for an electronic validation process.
 
-## 8. Form and method of filing of CBC reports[^key-eaccd9d4b91defd61fe5c5b2f6a4b198]
+## 8. Form and method of filing of CBC reports[^c-eaccd9d4b91defd61fe5c5b2f6a4b198]
 
-A CBC report which must or may be filed under regulations 3A(1), 3B(3)(b), 3B(4)(b) or 3D[^key-050c9e1d296ce2a2bf4071a62141eae4] must—
-
-- (a) be presented in the form; and
-- (b) be filed in accordance with the method,
-
-directed by the Commissioners.
-
-## 8A. Form and method of notifications[^key-cbf21c775a913aa3f04a64f38ae16653]
-
-A notification required by regulation 3B(4)(a)[^key-24fdebe3bb18934738759677767522bd] must—
+A CBC report which must or may be filed under regulations 3A(1), 3B(3)(b), 3B(4)(b) or 3D[^c-050c9e1d296ce2a2bf4071a62141eae4] must—
 
 - (a) be presented in the form; and
 - (b) be filed in accordance with the method,
 
 directed by the Commissioners.
 
-## 9. CBC report filing presumptions[^key-7cb6681f9bd864f0bae86e84d513c027]
+## 8A. Form and method of notifications[^c-cbf21c775a913aa3f04a64f38ae16653]
+
+A notification required by regulation 3B(4)(a)[^c-24fdebe3bb18934738759677767522bd] must—
+
+- (a) be presented in the form; and
+- (b) be filed in accordance with the method,
+
+directed by the Commissioners.
+
+## 9. CBC report filing presumptions[^c-7cb6681f9bd864f0bae86e84d513c027]
 
 (1) A CBC report which is purported to be filed otherwise than in accordance with regulation 8 is to be treated as not having been filed.
 
@@ -234,18 +234,18 @@ directed by the Commissioners.
 - (b) the time of filing the CBC report is presumed to be the time recorded as such by the relevant electronic validation process, and
 - (c) the person delivering the CBC report is presumed to be the person identified as such by any relevant feature of the electronic system.
 
-## 10. Reporting entities[^key-241d1be6ea25e3621646b20a287b6ae1]
+## 10. Reporting entities[^c-241d1be6ea25e3621646b20a287b6ae1]
 
-(1)[^key-d89e5ca743bd11529fe5967cc170a4e4] For the purposes of section 122(4)(a) of FA 2015, the following are reporting entities—
+(1)[^c-d89e5ca743bd11529fe5967cc170a4e4] For the purposes of section 122(4)(a) of FA 2015, the following are reporting entities—
 
-- (a) an Ultimate Parent Entity required to file a country-by-country report [^key-a6548704970faf484251c65fe1c528b0]... by regulation 3A or, where that Ultimate Parent Entity is a partnership, the partner of the Ultimate Parent Entity who is required to deliver a return under section 12AA of TMA 1970;
+- (a) an Ultimate Parent Entity required to file a country-by-country report [^c-a6548704970faf484251c65fe1c528b0]... by regulation 3A or, where that Ultimate Parent Entity is a partnership, the partner of the Ultimate Parent Entity who is required to deliver a return under section 12AA of TMA 1970;
 - (b) a United Kingdom Entity required to file a CBC report by regulation 3B;
-- (c)[^key-9b13152d254d2d746c646580535008be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-9b13152d254d2d746c646580535008be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) a Constituent Entity which has filed a country-by-country report in accordance with regulation 3D.
 
 (2) A CBC report purporting to be filed on behalf of a reporting entity is taken to have been filed by that entity, unless the entity proves that the report was filed without the entity’s authority.
 
-## 11. Provision of information[^key-d4cd488b8c5c3ef9badbf81f9ce9679a]
+## 11. Provision of information[^c-d4cd488b8c5c3ef9badbf81f9ce9679a]
 
 (1) The Commissioners may give a general or specific direction to a reporting entity requiring it to provide Revenue and Customs with such information (including copies of any relevant books, documents or other records) as may be specified in the direction for the purposes of determining whether information contained in a CBC report filed by that entity is accurate.
 
@@ -256,11 +256,11 @@ directed by the Commissioners.
 
 as may be specified in the direction.
 
-## 12. Penalties for failure to comply with Regulations[^key-40bffdc477c2dfafddbdfae31761b614]
+## 12. Penalties for failure to comply with Regulations[^c-40bffdc477c2dfafddbdfae31761b614]
 
-A person is liable to a penalty of £300 if the person fails to comply with regulations 3A(1),[^key-02c4a732c589458db85bc0ec668f4f76] [^key-8503ae6cd9a86473d1ba4ab4306e64a3]... 3B(3), 3B(4) [^key-0c1598aa16fce7d2b7f87c0b8ac78d3e]... or 11.
+A person is liable to a penalty of £300 if the person fails to comply with regulations 3A(1),[^c-02c4a732c589458db85bc0ec668f4f76] [^c-8503ae6cd9a86473d1ba4ab4306e64a3]... 3B(3), 3B(4) [^c-0c1598aa16fce7d2b7f87c0b8ac78d3e]... or 11.
 
-## 13. Daily default penalty[^key-a949e9f5c9d8a728d7e25cbe5f42018b]
+## 13. Daily default penalty[^c-a949e9f5c9d8a728d7e25cbe5f42018b]
 
 If—
 
@@ -269,7 +269,7 @@ If—
 
 the person is liable to a further penalty, for each subsequent day on which the failure continues, of an amount (subject to regulation 19) not exceeding £60 for each such day.
 
-## 14. Penalties for inaccurate information[^key-d27a95e784787b79daf2909908f4e43f]
+## 14. Penalties for inaccurate information[^c-d27a95e784787b79daf2909908f4e43f]
 
 (1) Where—
 
@@ -292,7 +292,7 @@ the person is liable to a penalty not exceeding £3,000 in respect of each CBC r
 - (a) discovers the inaccuracy after the information is provided; and
 - (b) fails to take reasonable steps to inform Revenue and Customs of that discovery.
 
-## 15. Matters to be disregarded in relation to liability to penalties[^key-54d694537b99a4f5d38a93fc9d556789]
+## 15. Matters to be disregarded in relation to liability to penalties[^c-54d694537b99a4f5d38a93fc9d556789]
 
 (1) Liability to a penalty under regulation 12, 13 or 14 does not arise if the person otherwise liable to the penalty satisfies Revenue and Customs (or on an appeal notified to the tribunal, the tribunal) that there is a reasonable excuse for the failure or the provision of inaccurate information.
 
@@ -303,7 +303,7 @@ the person is liable to a penalty not exceeding £3,000 in respect of each CBC r
 
 (3) If a person has a reasonable excuse for a failure but the excuse ceases, the person is to be treated as continuing to have the excuse if the failure is remedied without unreasonable delay after the excuse ceases.
 
-## 16. Assessment of penalties[^key-e45f47d5a1bf53a33e3def72e4726783]
+## 16. Assessment of penalties[^c-e45f47d5a1bf53a33e3def72e4726783]
 
 (1) If a person becomes liable to a penalty under regulation 12, 13 or 14, an officer of Revenue and Customs may assess the penalty.
 
@@ -311,7 +311,7 @@ the person is liable to a penalty not exceeding £3,000 in respect of each CBC r
 
 (3) An assessment of a penalty under regulation 12 or 13 must be made within the period of—
 
-- (a) 6 years in respect of a failure to comply with regulations 3A(1),[^key-6d0e63991640ee9c6f81453e504a8d2a] [^key-1fde0c65312d52452d632d60b136ac14]... 3B(3) or 3B(4)[^key-0c8897fa8fb9b2c5ecdac51c7310e950]; or
+- (a) 6 years in respect of a failure to comply with regulations 3A(1),[^c-6d0e63991640ee9c6f81453e504a8d2a] [^c-1fde0c65312d52452d632d60b136ac14]... 3B(3) or 3B(4)[^c-0c8897fa8fb9b2c5ecdac51c7310e950]; or
 - (b) 12 months in respect of a failure to comply with regulation 11,
 
 beginning with the date on which the person became liable to the penalty.
@@ -321,14 +321,14 @@ beginning with the date on which the person became liable to the penalty.
 - (a) 12 months beginning with the date on which the inaccuracy first came to the attention of an officer of Revenue and Customs; or
 - (b) 6 years beginning with the date on which the person became liable to the penalty.
 
-## 17. Right to appeal against penalty[^key-00114769a82ae29494dec5f6a09f07f0]
+## 17. Right to appeal against penalty[^c-00114769a82ae29494dec5f6a09f07f0]
 
 A person may by notice appeal against the assessment of a penalty notified to that person—
 
 - (a) on the grounds that liability to the penalty under any of regulations 12, 13 or 14 does not arise; or
 - (b) as to the amount of a penalty under regulation 13 or 14 .
 
-## 18. Procedure on appeal against penalty[^key-dbde93ca49ce92b89526402444576497]
+## 18. Procedure on appeal against penalty[^c-dbde93ca49ce92b89526402444576497]
 
 (1) Notice of an appeal under regulation 17 must be given—
 
@@ -347,7 +347,7 @@ A person may by notice appeal against the assessment of a penalty notified to th
 
 (5) Subject to this regulation and regulation 20, the provisions of Part 5 of TMA 1970[^f00005] relating to appeals have effect in relation to appeals under regulation 17 as they have effect in relation to an appeal against an assessment to income tax.
 
-## 19. Application for increased daily default penalty[^key-c4f61f6905ec05c4a78d16a02632eefd]
+## 19. Application for increased daily default penalty[^c-c4f61f6905ec05c4a78d16a02632eefd]
 
 (1) Paragraph (2) applies if—
 
@@ -366,7 +366,7 @@ A person may by notice appeal against the assessment of a penalty notified to th
 
 (7) That day and any subsequent day is an “applicable day” for the purposes of paragraph (3) and (4).
 
-## 20. Payment and enforcement of penalties[^key-6b79250cc4dd334b3a9b11b0f875b896]
+## 20. Payment and enforcement of penalties[^c-6b79250cc4dd334b3a9b11b0f875b896]
 
 (1) A penalty under these Regulations must be paid before the end of the period of 30 days beginning with the date mentioned in paragraph (2).
 
@@ -379,7 +379,7 @@ A person may by notice appeal against the assessment of a penalty notified to th
 
 (3) A penalty under these Regulations may be enforced as if it were income tax charged in an assessment and due and payable.
 
-## 21. Anti-avoidance[^key-11401116203d247bbd6347700a79ee25]
+## 21. Anti-avoidance[^c-11401116203d247bbd6347700a79ee25]
 
 If—
 
@@ -432,114 +432,114 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00002]: Footnote: [2015 c.11](https://www.legislation.gov.uk/ukpga/2015/11).
 
-[^key-5295956b456bab4ad35419d750bbd5c1]: Commencement: Reg. 1 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
+[^c-5295956b456bab4ad35419d750bbd5c1]: Commencement: Reg. 1 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
 
-[^key-223671ef2f0e1e92752cbd6d3e2770b6]: Commencement: Reg. 2 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
+[^c-223671ef2f0e1e92752cbd6d3e2770b6]: Commencement: Reg. 2 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
 
-[^key-aa04ca94e81fea18620f9efdcd2bfaba]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/237/regulation/2/1) omitted (20.4.2017) by virtue of [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2017/497/regulation/3/1/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
+[^c-aa04ca94e81fea18620f9efdcd2bfaba]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/237/regulation/2/1) omitted (20.4.2017) by virtue of [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2017/497/regulation/3/1/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
 
 [^f00003]: Footnote: As part of the OECD/G20 Base Erosion and Profit Shifting Project, the OECD published “Transfer Pricing Documentation and Country-by-Country Reporting, Action 13 – 2015 Final Report” on 5th<sup> </sup>October 2015. The report is available on the OECD website at http://www.oecd.org/tax/transfer-pricing-documentation-and-country-by-country-reporting-action-13-2015-final-report-9789264241480-en.htm. A paper copy may be obtained from a range of distributors including the OECD Conference Centre Bookshop OECD Conference Centre, 2 rue André Pascal, 75775 Paris Cedex 16, France, Tel: 33 (0)1 45 24 79 77, Email: oecd.bookshop@oecd.org.
 
-[^key-46d83427919823f28775bfc6398eb3d1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/237/regulation/2/1) inserted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2017/497/regulation/3/1/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
+[^c-46d83427919823f28775bfc6398eb3d1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/237/regulation/2/1) inserted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2017/497/regulation/3/1/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
 
-[^key-e619bc62be9e822c478badea7325bb86]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/237/regulation/2/1) substituted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/2017/497/regulation/3/1/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
+[^c-e619bc62be9e822c478badea7325bb86]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/237/regulation/2/1) substituted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/2017/497/regulation/3/1/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
 
-[^key-91dd3832d17146436e891ef0888aab89]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/237/regulation/2/2) omitted (20.4.2017) by virtue of [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2017/497/regulation/3/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
+[^c-91dd3832d17146436e891ef0888aab89]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/237/regulation/2/2) omitted (20.4.2017) by virtue of [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2017/497/regulation/3/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
 
-[^key-cd65782fd7598e7bd13e1afc5c46140f]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/237/regulation/2/2) inserted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2017/497/regulation/3/2/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
+[^c-cd65782fd7598e7bd13e1afc5c46140f]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/237/regulation/2/2) inserted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2017/497/regulation/3/2/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
 
-[^key-b8db284946b8e61976eb0a0da92f6ac3]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/2016/237/regulation/2/4) substituted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2017/497/regulation/3/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
+[^c-b8db284946b8e61976eb0a0da92f6ac3]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/2016/237/regulation/2/4) substituted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2017/497/regulation/3/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
 
-[^key-e4f442d898c0d3da5df0763cec8f5b18]: Commencement: Reg. 3 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
+[^c-e4f442d898c0d3da5df0763cec8f5b18]: Commencement: Reg. 3 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
 
-[^key-fe03772c91f25d136a4b8523747d96c7]: Textual amendment: [Regs. 3-3D](https://www.legislation.gov.uk/uksi/2016/237/regulation/3) substituted for [reg. 3](https://www.legislation.gov.uk/uksi/2016/237/regulation/3) (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2017/497/regulation/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
+[^c-fe03772c91f25d136a4b8523747d96c7]: Textual amendment: [Regs. 3-3D](https://www.legislation.gov.uk/uksi/2016/237/regulation/3) substituted for [reg. 3](https://www.legislation.gov.uk/uksi/2016/237/regulation/3) (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2017/497/regulation/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
 
-[^key-69ec3f9a81c93cb7b1c8015b24ed9ca1]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2016/237/regulation/3) omitted (26.7.2023) by virtue of [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2023 (S.I. 2023/752)](https://www.legislation.gov.uk/uksi/2023/752), [regs. 1](https://www.legislation.gov.uk/uksi/2023/752/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/752/regulation/2/2)
+[^c-69ec3f9a81c93cb7b1c8015b24ed9ca1]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2016/237/regulation/3) omitted (26.7.2023) by virtue of [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2023 (S.I. 2023/752)](https://www.legislation.gov.uk/uksi/2023/752), [regs. 1](https://www.legislation.gov.uk/uksi/2023/752/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/752/regulation/2/2)
 
-[^key-3f12c50ac2675c61b575cfdda6596a3f]: Textual amendment: Words in [reg. 3A](https://www.legislation.gov.uk/uksi/2016/237/regulation/3A) heading omitted (26.7.2023) by virtue of [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2023 (S.I. 2023/752)](https://www.legislation.gov.uk/uksi/2023/752), [regs. 1](https://www.legislation.gov.uk/uksi/2023/752/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/752/regulation/2/3)
+[^c-3f12c50ac2675c61b575cfdda6596a3f]: Textual amendment: Words in [reg. 3A](https://www.legislation.gov.uk/uksi/2016/237/regulation/3A) heading omitted (26.7.2023) by virtue of [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2023 (S.I. 2023/752)](https://www.legislation.gov.uk/uksi/2023/752), [regs. 1](https://www.legislation.gov.uk/uksi/2023/752/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/752/regulation/2/3)
 
-[^key-5f550bf9008bd02e27ccf8c693421301]: Textual amendment: [Reg. 3A(2)-(4)](https://www.legislation.gov.uk/uksi/2016/237/regulation/3A/2) omitted (26.7.2023) by virtue of [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2023 (S.I. 2023/752)](https://www.legislation.gov.uk/uksi/2023/752), [regs. 1](https://www.legislation.gov.uk/uksi/2023/752/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2023/752/regulation/2/4/a)
+[^c-5f550bf9008bd02e27ccf8c693421301]: Textual amendment: [Reg. 3A(2)-(4)](https://www.legislation.gov.uk/uksi/2016/237/regulation/3A/2) omitted (26.7.2023) by virtue of [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2023 (S.I. 2023/752)](https://www.legislation.gov.uk/uksi/2023/752), [regs. 1](https://www.legislation.gov.uk/uksi/2023/752/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2023/752/regulation/2/4/a)
 
-[^key-d59b24fff35710389fb1c6939bc4847a]: Textual amendment: Word in [reg. 3A(5)](https://www.legislation.gov.uk/uksi/2016/237/regulation/3A/5) substituted (26.7.2023) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2023 (S.I. 2023/752)](https://www.legislation.gov.uk/uksi/2023/752), [regs. 1](https://www.legislation.gov.uk/uksi/2023/752/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2023/752/regulation/2/4/b)
+[^c-d59b24fff35710389fb1c6939bc4847a]: Textual amendment: Word in [reg. 3A(5)](https://www.legislation.gov.uk/uksi/2016/237/regulation/3A/5) substituted (26.7.2023) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2023 (S.I. 2023/752)](https://www.legislation.gov.uk/uksi/2023/752), [regs. 1](https://www.legislation.gov.uk/uksi/2023/752/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2023/752/regulation/2/4/b)
 
-[^key-7a78a27ca354a4d6a88d03d9a47f9222]: Textual amendment: [Reg. 3C](https://www.legislation.gov.uk/uksi/2016/237/regulation/3C) omitted (26.7.2023) by virtue of [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2023 (S.I. 2023/752)](https://www.legislation.gov.uk/uksi/2023/752), [regs. 1](https://www.legislation.gov.uk/uksi/2023/752/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2023/752/regulation/2/5)
+[^c-7a78a27ca354a4d6a88d03d9a47f9222]: Textual amendment: [Reg. 3C](https://www.legislation.gov.uk/uksi/2016/237/regulation/3C) omitted (26.7.2023) by virtue of [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2023 (S.I. 2023/752)](https://www.legislation.gov.uk/uksi/2023/752), [regs. 1](https://www.legislation.gov.uk/uksi/2023/752/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2023/752/regulation/2/5)
 
-[^key-7756cdd5572a0ce6f19cefa1fb8368c3]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/237/regulation/4) omitted (20.4.2017) by virtue of [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2017/497/regulation/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
+[^c-7756cdd5572a0ce6f19cefa1fb8368c3]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/237/regulation/4) omitted (20.4.2017) by virtue of [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2017/497/regulation/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
 
-[^key-c3c870afdc946bc9e21cc839d08136b0]: Commencement: Reg. 5 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
+[^c-c3c870afdc946bc9e21cc839d08136b0]: Commencement: Reg. 5 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
 
-[^key-77c8757e29e0a0402b23b2d187888e9a]: Commencement: Reg. 6 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
+[^c-77c8757e29e0a0402b23b2d187888e9a]: Commencement: Reg. 6 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
 
-[^key-0a3a7d6b09d24dab8162dd07b9401030]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2016/237/regulation/6) heading substituted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/6/1) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
+[^c-0a3a7d6b09d24dab8162dd07b9401030]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2016/237/regulation/6) heading substituted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/6/1) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
 
-[^key-d95796007c2cde17c1a40ae29215ecbb]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2016/237/regulation/6) substituted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/6/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
+[^c-d95796007c2cde17c1a40ae29215ecbb]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2016/237/regulation/6) substituted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/6/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
 
-[^key-c1908f2819d2d2282a536d4a568b2834]: Textual amendment: Word in [reg. 6(a)](https://www.legislation.gov.uk/uksi/2016/237/regulation/6/a) omitted (20.4.2017) by virtue of [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2017/497/regulation/6/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
+[^c-c1908f2819d2d2282a536d4a568b2834]: Textual amendment: Word in [reg. 6(a)](https://www.legislation.gov.uk/uksi/2016/237/regulation/6/a) omitted (20.4.2017) by virtue of [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2017/497/regulation/6/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
 
-[^key-bb185acae2cd5ac611816d2681fe5617]: Textual amendment: [Reg. 6(b)](https://www.legislation.gov.uk/uksi/2016/237/regulation/6/b) substituted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2017/497/regulation/6/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
+[^c-bb185acae2cd5ac611816d2681fe5617]: Textual amendment: [Reg. 6(b)](https://www.legislation.gov.uk/uksi/2016/237/regulation/6/b) substituted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2017/497/regulation/6/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
 
-[^key-6c1914005f622284f8db1d06ded81822]: Textual amendment: Words in [reg. 6(c)(i)](https://www.legislation.gov.uk/uksi/2016/237/regulation/6/c/i) substituted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [6(5)](https://www.legislation.gov.uk/uksi/2017/497/regulation/6/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
+[^c-6c1914005f622284f8db1d06ded81822]: Textual amendment: Words in [reg. 6(c)(i)](https://www.legislation.gov.uk/uksi/2016/237/regulation/6/c/i) substituted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [6(5)](https://www.legislation.gov.uk/uksi/2017/497/regulation/6/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
 
-[^key-ef6dd1b5034e2450710cdfb68e24d836]: Textual amendment: Words in [reg. 6(c)(ii)](https://www.legislation.gov.uk/uksi/2016/237/regulation/6/c/ii) substituted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [6(6)](https://www.legislation.gov.uk/uksi/2017/497/regulation/6/6) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
+[^c-ef6dd1b5034e2450710cdfb68e24d836]: Textual amendment: Words in [reg. 6(c)(ii)](https://www.legislation.gov.uk/uksi/2016/237/regulation/6/c/ii) substituted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [6(6)](https://www.legislation.gov.uk/uksi/2017/497/regulation/6/6) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
 
-[^key-4ab483a17a4d444c06f6bda244460d43]: Commencement: Reg. 7 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
+[^c-4ab483a17a4d444c06f6bda244460d43]: Commencement: Reg. 7 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
 
-[^key-44a6b2b5aba3bd809db1ea5f61cda6d8]: Textual amendment: [Reg. 7(1)(a)](https://www.legislation.gov.uk/uksi/2016/237/regulation/7/1/a)[(b)](https://www.legislation.gov.uk/uksi/2016/237/regulation/7/1/b) substituted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2017/497/regulation/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
+[^c-44a6b2b5aba3bd809db1ea5f61cda6d8]: Textual amendment: [Reg. 7(1)(a)](https://www.legislation.gov.uk/uksi/2016/237/regulation/7/1/a)[(b)](https://www.legislation.gov.uk/uksi/2016/237/regulation/7/1/b) substituted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2017/497/regulation/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
 
-[^key-a1a55fc5bd91f4a41b43c86f0889dfe6]: Textual amendment: Word in [reg. 7(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/237/regulation/7/1/a/ii) substituted (26.7.2023) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2023 (S.I. 2023/752)](https://www.legislation.gov.uk/uksi/2023/752), [regs. 1](https://www.legislation.gov.uk/uksi/2023/752/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2023/752/regulation/2/6)
+[^c-a1a55fc5bd91f4a41b43c86f0889dfe6]: Textual amendment: Word in [reg. 7(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/237/regulation/7/1/a/ii) substituted (26.7.2023) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2023 (S.I. 2023/752)](https://www.legislation.gov.uk/uksi/2023/752), [regs. 1](https://www.legislation.gov.uk/uksi/2023/752/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2023/752/regulation/2/6)
 
-[^key-eaccd9d4b91defd61fe5c5b2f6a4b198]: Commencement: Reg. 8 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
+[^c-eaccd9d4b91defd61fe5c5b2f6a4b198]: Commencement: Reg. 8 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
 
-[^key-050c9e1d296ce2a2bf4071a62141eae4]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2016/237/regulation/8) substituted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2017/497/regulation/8) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
+[^c-050c9e1d296ce2a2bf4071a62141eae4]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2016/237/regulation/8) substituted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2017/497/regulation/8) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
 
-[^key-cbf21c775a913aa3f04a64f38ae16653]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2016/237/regulation/8A) inserted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2017/497/regulation/9) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
+[^c-cbf21c775a913aa3f04a64f38ae16653]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2016/237/regulation/8A) inserted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2017/497/regulation/9) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
 
-[^key-24fdebe3bb18934738759677767522bd]: Textual amendment: Word in [reg. 8A](https://www.legislation.gov.uk/uksi/2016/237/regulation/8A) substituted (26.7.2023) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2023 (S.I. 2023/752)](https://www.legislation.gov.uk/uksi/2023/752), [regs. 1](https://www.legislation.gov.uk/uksi/2023/752/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2023/752/regulation/2/7)
+[^c-24fdebe3bb18934738759677767522bd]: Textual amendment: Word in [reg. 8A](https://www.legislation.gov.uk/uksi/2016/237/regulation/8A) substituted (26.7.2023) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2023 (S.I. 2023/752)](https://www.legislation.gov.uk/uksi/2023/752), [regs. 1](https://www.legislation.gov.uk/uksi/2023/752/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2023/752/regulation/2/7)
 
-[^key-7cb6681f9bd864f0bae86e84d513c027]: Commencement: Reg. 9 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
+[^c-7cb6681f9bd864f0bae86e84d513c027]: Commencement: Reg. 9 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
 
-[^key-241d1be6ea25e3621646b20a287b6ae1]: Commencement: Reg. 10 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
+[^c-241d1be6ea25e3621646b20a287b6ae1]: Commencement: Reg. 10 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
 
-[^key-d89e5ca743bd11529fe5967cc170a4e4]: Textual amendment: [Reg. 10(1)](https://www.legislation.gov.uk/uksi/2016/237/regulation/10/1) substituted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2017/497/regulation/10) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
+[^c-d89e5ca743bd11529fe5967cc170a4e4]: Textual amendment: [Reg. 10(1)](https://www.legislation.gov.uk/uksi/2016/237/regulation/10/1) substituted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2017/497/regulation/10) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
 
-[^key-a6548704970faf484251c65fe1c528b0]: Textual amendment: Words in [reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/2016/237/regulation/10/1/a) omitted (26.7.2023) by virtue of [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2023 (S.I. 2023/752)](https://www.legislation.gov.uk/uksi/2023/752), [regs. 1](https://www.legislation.gov.uk/uksi/2023/752/regulation/1), [2(8)(a)](https://www.legislation.gov.uk/uksi/2023/752/regulation/2/8/a)
+[^c-a6548704970faf484251c65fe1c528b0]: Textual amendment: Words in [reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/2016/237/regulation/10/1/a) omitted (26.7.2023) by virtue of [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2023 (S.I. 2023/752)](https://www.legislation.gov.uk/uksi/2023/752), [regs. 1](https://www.legislation.gov.uk/uksi/2023/752/regulation/1), [2(8)(a)](https://www.legislation.gov.uk/uksi/2023/752/regulation/2/8/a)
 
-[^key-9b13152d254d2d746c646580535008be]: Textual amendment: [Reg. 10(1)(c)](https://www.legislation.gov.uk/uksi/2016/237/regulation/10/1/c) omitted (26.7.2023) by virtue of [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2023 (S.I. 2023/752)](https://www.legislation.gov.uk/uksi/2023/752), [regs. 1](https://www.legislation.gov.uk/uksi/2023/752/regulation/1), [2(8)(b)](https://www.legislation.gov.uk/uksi/2023/752/regulation/2/8/b)
+[^c-9b13152d254d2d746c646580535008be]: Textual amendment: [Reg. 10(1)(c)](https://www.legislation.gov.uk/uksi/2016/237/regulation/10/1/c) omitted (26.7.2023) by virtue of [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2023 (S.I. 2023/752)](https://www.legislation.gov.uk/uksi/2023/752), [regs. 1](https://www.legislation.gov.uk/uksi/2023/752/regulation/1), [2(8)(b)](https://www.legislation.gov.uk/uksi/2023/752/regulation/2/8/b)
 
-[^key-d4cd488b8c5c3ef9badbf81f9ce9679a]: Commencement: Reg. 11 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
+[^c-d4cd488b8c5c3ef9badbf81f9ce9679a]: Commencement: Reg. 11 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
 
-[^key-40bffdc477c2dfafddbdfae31761b614]: Commencement: Reg. 12 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
+[^c-40bffdc477c2dfafddbdfae31761b614]: Commencement: Reg. 12 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
 
-[^key-02c4a732c589458db85bc0ec668f4f76]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2016/237/regulation/12) substituted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2017/497/regulation/11) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
+[^c-02c4a732c589458db85bc0ec668f4f76]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2016/237/regulation/12) substituted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2017/497/regulation/11) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
 
-[^key-8503ae6cd9a86473d1ba4ab4306e64a3]: Textual amendment: Word in [reg. 12](https://www.legislation.gov.uk/uksi/2016/237/regulation/12) omitted (26.7.2023) by virtue of [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2023 (S.I. 2023/752)](https://www.legislation.gov.uk/uksi/2023/752), [regs. 1](https://www.legislation.gov.uk/uksi/2023/752/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/uksi/2023/752/regulation/2/9/a)
+[^c-8503ae6cd9a86473d1ba4ab4306e64a3]: Textual amendment: Word in [reg. 12](https://www.legislation.gov.uk/uksi/2016/237/regulation/12) omitted (26.7.2023) by virtue of [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2023 (S.I. 2023/752)](https://www.legislation.gov.uk/uksi/2023/752), [regs. 1](https://www.legislation.gov.uk/uksi/2023/752/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/uksi/2023/752/regulation/2/9/a)
 
-[^key-0c1598aa16fce7d2b7f87c0b8ac78d3e]: Textual amendment: Word in [reg. 12](https://www.legislation.gov.uk/uksi/2016/237/regulation/12) omitted (26.7.2023) by virtue of [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2023 (S.I. 2023/752)](https://www.legislation.gov.uk/uksi/2023/752), [regs. 1](https://www.legislation.gov.uk/uksi/2023/752/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/uksi/2023/752/regulation/2/9/b)
+[^c-0c1598aa16fce7d2b7f87c0b8ac78d3e]: Textual amendment: Word in [reg. 12](https://www.legislation.gov.uk/uksi/2016/237/regulation/12) omitted (26.7.2023) by virtue of [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2023 (S.I. 2023/752)](https://www.legislation.gov.uk/uksi/2023/752), [regs. 1](https://www.legislation.gov.uk/uksi/2023/752/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/uksi/2023/752/regulation/2/9/b)
 
-[^key-a949e9f5c9d8a728d7e25cbe5f42018b]: Commencement: Reg. 13 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
+[^c-a949e9f5c9d8a728d7e25cbe5f42018b]: Commencement: Reg. 13 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
 
-[^key-d27a95e784787b79daf2909908f4e43f]: Commencement: Reg. 14 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
+[^c-d27a95e784787b79daf2909908f4e43f]: Commencement: Reg. 14 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
 
-[^key-54d694537b99a4f5d38a93fc9d556789]: Commencement: Reg. 15 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
+[^c-54d694537b99a4f5d38a93fc9d556789]: Commencement: Reg. 15 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
 
-[^key-e45f47d5a1bf53a33e3def72e4726783]: Commencement: Reg. 16 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
+[^c-e45f47d5a1bf53a33e3def72e4726783]: Commencement: Reg. 16 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
 
-[^key-6d0e63991640ee9c6f81453e504a8d2a]: Textual amendment: Words in [reg. 16(3)(a)](https://www.legislation.gov.uk/uksi/2016/237/regulation/16/3/a) substituted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2017/497/regulation/12) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
+[^c-6d0e63991640ee9c6f81453e504a8d2a]: Textual amendment: Words in [reg. 16(3)(a)](https://www.legislation.gov.uk/uksi/2016/237/regulation/16/3/a) substituted (20.4.2017) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2017 (S.I. 2017/497)](https://www.legislation.gov.uk/uksi/2017/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2017/497/regulation/12) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/497/regulation/1/2))
 
-[^key-1fde0c65312d52452d632d60b136ac14]: Textual amendment: Word in [reg. 16(3)(a)](https://www.legislation.gov.uk/uksi/2016/237/regulation/16/3/a) omitted (26.7.2023) by virtue of [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2023 (S.I. 2023/752)](https://www.legislation.gov.uk/uksi/2023/752), [regs. 1](https://www.legislation.gov.uk/uksi/2023/752/regulation/1), [2(10)(a)](https://www.legislation.gov.uk/uksi/2023/752/regulation/2/10/a)
+[^c-1fde0c65312d52452d632d60b136ac14]: Textual amendment: Word in [reg. 16(3)(a)](https://www.legislation.gov.uk/uksi/2016/237/regulation/16/3/a) omitted (26.7.2023) by virtue of [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2023 (S.I. 2023/752)](https://www.legislation.gov.uk/uksi/2023/752), [regs. 1](https://www.legislation.gov.uk/uksi/2023/752/regulation/1), [2(10)(a)](https://www.legislation.gov.uk/uksi/2023/752/regulation/2/10/a)
 
-[^key-0c8897fa8fb9b2c5ecdac51c7310e950]: Textual amendment: Words in [reg. 16(3)(a)](https://www.legislation.gov.uk/uksi/2016/237/regulation/16/3/a) substituted (26.7.2023) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2023 (S.I. 2023/752)](https://www.legislation.gov.uk/uksi/2023/752), [regs. 1](https://www.legislation.gov.uk/uksi/2023/752/regulation/1), [2(10)(b)](https://www.legislation.gov.uk/uksi/2023/752/regulation/2/10/b)
+[^c-0c8897fa8fb9b2c5ecdac51c7310e950]: Textual amendment: Words in [reg. 16(3)(a)](https://www.legislation.gov.uk/uksi/2016/237/regulation/16/3/a) substituted (26.7.2023) by [The Taxes (Base Erosion and Profit Shifting) (Country-by-Country Reporting) (Amendment) Regulations 2023 (S.I. 2023/752)](https://www.legislation.gov.uk/uksi/2023/752), [regs. 1](https://www.legislation.gov.uk/uksi/2023/752/regulation/1), [2(10)(b)](https://www.legislation.gov.uk/uksi/2023/752/regulation/2/10/b)
 
-[^key-00114769a82ae29494dec5f6a09f07f0]: Commencement: Reg. 17 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
+[^c-00114769a82ae29494dec5f6a09f07f0]: Commencement: Reg. 17 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
 
-[^key-dbde93ca49ce92b89526402444576497]: Commencement: Reg. 18 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
+[^c-dbde93ca49ce92b89526402444576497]: Commencement: Reg. 18 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
 
 [^f00004]: Footnote: See Part 5 of TMA 1970.
 
 [^f00005]: Footnote: The Taxes Management Act was relevantly amended by sections 45(1) and 67(2) of the Finance (No. 2) Act [1975 (c. 45)](https://www.legislation.gov.uk/ukpga/1975/45); section 68 of the Finance Act [1982 (c. 39)](https://www.legislation.gov.uk/ukpga/1982/39); section 156(2) and (4) of the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26); section 199 of and paragraphs 18(1) and (2) of Schedule 19 to the Finance Act [1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9); paragraph 28 of Schedule 19 to the Finance Act [1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36); section 88 of and paragraph 31 of Schedule 29 to the Finance Act [2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9); paragraph 21 of Schedule 1 to the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4); paragraph 257(a) and (b) of Schedule 1 to and Part 1 of Schedule 3 to the Income Tax Act [2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3); section 119(12)(a) of the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9); paragraph 31 of Schedule 7 to the Taxation (International and Other Provisions) Act [2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8); [S.I 1994/1813](https://www.legislation.gov.uk/uksi/1994/1813) and [2009/56](https://www.legislation.gov.uk/ukpga/2009/56).
 
-[^key-c4f61f6905ec05c4a78d16a02632eefd]: Commencement: Reg. 19 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
+[^c-c4f61f6905ec05c4a78d16a02632eefd]: Commencement: Reg. 19 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
 
-[^key-6b79250cc4dd334b3a9b11b0f875b896]: Commencement: Reg. 20 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
+[^c-6b79250cc4dd334b3a9b11b0f875b896]: Commencement: Reg. 20 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
 
-[^key-11401116203d247bbd6347700a79ee25]: Commencement: Reg. 21 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)
+[^c-11401116203d247bbd6347700a79ee25]: Commencement: Reg. 21 in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/237/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 101. Other matters affecting remuneration[^key-77c3bed67d35353d8b6452caa6c22b19]
+## 101. Other matters affecting remuneration[^c-77c3bed67d35353d8b6452caa6c22b19]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.135 of the 1991 Rules.
 
 ## Annotations
 
-[^key-77c3bed67d35353d8b6452caa6c22b19]: Commencement: Rule 101 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-77c3bed67d35353d8b6452caa6c22b19]: Commencement: Rule 101 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

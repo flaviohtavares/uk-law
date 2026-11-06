@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Information about decommissioning of wells[^key-e422596cad4371788b0d300279b4853a]
+## 75. Information about decommissioning of wells[^c-e422596cad4371788b0d300279b4853a]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e422596cad4371788b0d300279b4853a]: Commencement: S. 75 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/b/ii)
+[^c-e422596cad4371788b0d300279b4853a]: Commencement: S. 75 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/b/ii)

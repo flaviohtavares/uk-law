@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Conditions to be satisfied for regulation 33 to apply[^key-d877cada477574b656fd5c2c3c57974b]
+## 35. Conditions to be satisfied for regulation 33 to apply[^c-d877cada477574b656fd5c2c3c57974b]
 
 *Extent: E+W+S+N.I.*
 
-The conditions are that the person is a body corporate which, immediately before IP completion day[^key-42d30ecfd1e8fcc0f815f5ec64dc510b], is—
+The conditions are that the person is a body corporate which, immediately before IP completion day[^c-42d30ecfd1e8fcc0f815f5ec64dc510b], is—
 
 - (a) incorporated under the law of any part of the United Kingdom, and
 - (b) registered as a credit rating agency under the CRA Regulation.
 
 ## Annotations
 
-[^key-d877cada477574b656fd5c2c3c57974b]: Commencement: Reg. 35 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)
+[^c-d877cada477574b656fd5c2c3c57974b]: Commencement: Reg. 35 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)
 
-[^key-42d30ecfd1e8fcc0f815f5ec64dc510b]: Textual amendment: Words in [reg. 35](https://www.legislation.gov.uk/uksi/2019/266/regulation/35) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [11(e)](https://www.legislation.gov.uk/uksi/2020/56/regulation/11/e)
+[^c-42d30ecfd1e8fcc0f815f5ec64dc510b]: Textual amendment: Words in [reg. 35](https://www.legislation.gov.uk/uksi/2019/266/regulation/35) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [11(e)](https://www.legislation.gov.uk/uksi/2020/56/regulation/11/e)

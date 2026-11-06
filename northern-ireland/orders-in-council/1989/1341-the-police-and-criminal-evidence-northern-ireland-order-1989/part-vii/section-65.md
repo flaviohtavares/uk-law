@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 65. Codes of practice[^c20431841][^c21390871][^c22529551][^key-f141ca456f5dd8ca1ebc2816287029e2]
+## 65. Codes of practice[^c20431841][^c21390871][^c22529551][^c-f141ca456f5dd8ca1ebc2816287029e2]
 
 *Extent: N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 - (c) searches of premises by police officers; and
 - (d) the seizure of property found by police officers on persons or premises.
 
-(2)[^key-025e95c82e4eb3d8eeef2dab7573a937] Nothing in this Article requires the issuing of a code of practice in relation to any matter falling within the code of practice issued under section 47AB(2) of the Terrorism Act 2000 (as that code is altered or replaced from time to time) (code of practice in relation to terrorism powers to search persons and vehicles and to stop and search in specified locations).
+(2)[^c-025e95c82e4eb3d8eeef2dab7573a937] Nothing in this Article requires the issuing of a code of practice in relation to any matter falling within the code of practice issued under section 47AB(2) of the Terrorism Act 2000 (as that code is altered or replaced from time to time) (code of practice in relation to terrorism powers to search persons and vehicles and to stop and search in specified locations).
 
 ## Annotations
 
@@ -40,10 +40,10 @@ summary: ''
 
 [^c22529551]: Modification: Art. 65 modified (18.3.2011) by [Terrorism Act 2000 (Remedial) Order 2011 (S.I. 2011/631)](https://www.legislation.gov.uk/uksi/2011/631), [art. 5](https://www.legislation.gov.uk/uksi/2011/631/article/5), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2011/631/schedule/2/paragraph/3)
 
-[^key-f141ca456f5dd8ca1ebc2816287029e2]: Textual amendment: [Art. 65(1)](https://www.legislation.gov.uk/nisi/1989/1341/article/65/1): art. 65 renumbered as art. 65(1) (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 22(a)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/22/a) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)
+[^c-f141ca456f5dd8ca1ebc2816287029e2]: Textual amendment: [Art. 65(1)](https://www.legislation.gov.uk/nisi/1989/1341/article/65/1): art. 65 renumbered as art. 65(1) (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 22(a)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/22/a) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)
 
 [^c20431791]: Textual amendment: Word in art. 65(a)(i) repealed (1.3.2007) by [Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288 (N.I. 2))](https://www.legislation.gov.uk/nisi/2007/288), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2007/288/article/1/2), [37(2)(a)](https://www.legislation.gov.uk/nisi/2007/288/article/37/2/a), [41(2)](https://www.legislation.gov.uk/nisi/2007/288/article/41/2), [Sch. 2](https://www.legislation.gov.uk/nisi/2007/288/schedule/2)
 
 [^c20431821]: Textual amendment: Art. 65(a)(iii) and preceding word inserted (1.3.2007) by [Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288 (N.I. 2))](https://www.legislation.gov.uk/nisi/2007/288), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2007/288/article/1/2), [37(2)(b)](https://www.legislation.gov.uk/nisi/2007/288/article/37/2/b)
 
-[^key-025e95c82e4eb3d8eeef2dab7573a937]: Textual amendment: [Art. 65(2)](https://www.legislation.gov.uk/nisi/1989/1341/article/65/2) inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 22(b)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/22/b) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)
+[^c-025e95c82e4eb3d8eeef2dab7573a937]: Textual amendment: [Art. 65(2)](https://www.legislation.gov.uk/nisi/1989/1341/article/65/2) inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 22(b)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/22/b) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)

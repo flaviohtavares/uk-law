@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Amendment of the Primary Ophthalmic Services Regulations 2008[^key-660372e24961738bd1eb4bb260e0f17e]
+## 30. Amendment of the Primary Ophthalmic Services Regulations 2008[^c-660372e24961738bd1eb4bb260e0f17e]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-660372e24961738bd1eb4bb260e0f17e]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2023/1071/regulation/30) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-660372e24961738bd1eb4bb260e0f17e]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2023/1071/regulation/30) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00025]: Footnote: [S.I. 2008/1186](https://www.legislation.gov.uk/uksi/2008/1186), amended by [S.I. 2013/365](https://www.legislation.gov.uk/uksi/2013/365); there are other amending instruments but none is relevant.

@@ -24,13 +24,13 @@ summary: ''
 
 - (a) the day on which the relevant order or provision takes effect, and
 - (b) the first day on which the person responsible for the pension arrangement to which the relevant order or provision relates is in receipt of—
-  - (i) the relevant [^key-2adf4c50b2984fe8968be7d9a51174aa]... documents, and
+  - (i) the relevant [^c-2adf4c50b2984fe8968be7d9a51174aa]... documents, and
   - (ii) such information relating to the transferor and transferee as the Secretary of State may prescribe by regulations.
 
-(2) The reference in subsection (1)(b)(i) to the relevant [^key-5208a531f3e88f1840f7954274c0401b]... documents is to copies of—
+(2) The reference in subsection (1)(b)(i) to the relevant [^c-5208a531f3e88f1840f7954274c0401b]... documents is to copies of—
 
 - (a) the relevant order or provision, and
-- (b) the order, decree or declarator responsible for the divorce, dissolution[^key-bc3f950ed0817dba638aca221ea59d8c] or annulment to which it relates,
+- (b) the order, decree or declarator responsible for the divorce, dissolution[^c-bc3f950ed0817dba638aca221ea59d8c] or annulment to which it relates,
 
 and, if the pension credit depends on provision falling within subsection (1)(f) of section 28, to documentary evidence that the agreement containing the provision is one to which subsection (3)(a) of that section applies.
 
@@ -54,8 +54,8 @@ and, if the pension credit depends on provision falling within subsection (1)(f)
 
 [^c1314287]: Commencement: S. 34 wholly in force at 1.12.2000; s. 34 in force for certain purposes at Royal Assent see s. 89(1); s. 34 in force at 1.12.2000 insofar as not already in force by [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2000/1047/article/2/2/d), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/2000/1047/schedule/part/IV)
 
-[^key-2adf4c50b2984fe8968be7d9a51174aa]: Textual amendment: Word in s. 34(1)(b)(i) repealed (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 160(2)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/160/2), [Sch. 30](https://www.legislation.gov.uk/ukpga/2004/33/schedule/30); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)[(6)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/6)
+[^c-2adf4c50b2984fe8968be7d9a51174aa]: Textual amendment: Word in s. 34(1)(b)(i) repealed (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 160(2)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/160/2), [Sch. 30](https://www.legislation.gov.uk/ukpga/2004/33/schedule/30); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)[(6)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/6)
 
-[^key-5208a531f3e88f1840f7954274c0401b]: Textual amendment: Word in s. 34(2) repealed (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 160(3)(a)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/160/3/a), [Sch. 30](https://www.legislation.gov.uk/ukpga/2004/33/schedule/30); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)[(6)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/6)
+[^c-5208a531f3e88f1840f7954274c0401b]: Textual amendment: Word in s. 34(2) repealed (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 160(3)(a)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/160/3/a), [Sch. 30](https://www.legislation.gov.uk/ukpga/2004/33/schedule/30); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)[(6)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/6)
 
-[^key-bc3f950ed0817dba638aca221ea59d8c]: Textual amendment: Word in s. 34(2)(b) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 160(3)(b)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/160/3/b); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)
+[^c-bc3f950ed0817dba638aca221ea59d8c]: Textual amendment: Word in s. 34(2)(b) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 160(3)(b)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/160/3/b); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)

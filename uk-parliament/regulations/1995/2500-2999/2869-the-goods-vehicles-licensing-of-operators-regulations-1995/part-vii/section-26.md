@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Production of licence for examination[^key-346341c0157dd9dad9a268895959dbd2]
+## 26. Production of licence for examination[^c-346341c0157dd9dad9a268895959dbd2]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-346341c0157dd9dad9a268895959dbd2]: Commencement: Reg. 26 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-346341c0157dd9dad9a268895959dbd2]: Commencement: Reg. 26 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)

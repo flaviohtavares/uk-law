@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 228. “Internet service”[^key-da3bd1cd58816eff414754a77477267c]
+## 228. “Internet service”[^c-da3bd1cd58816eff414754a77477267c]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da3bd1cd58816eff414754a77477267c]: Commencement: S. 228 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)
+[^c-da3bd1cd58816eff414754a77477267c]: Commencement: S. 228 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)

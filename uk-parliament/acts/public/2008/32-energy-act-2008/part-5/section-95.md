@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Electricity meters[^key-4f240d97753c6693e793076eb63e56dc]
+## 95. Electricity meters[^c-4f240d97753c6693e793076eb63e56dc]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f240d97753c6693e793076eb63e56dc]: Commencement: S. 95 in force at 1.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)
+[^c-4f240d97753c6693e793076eb63e56dc]: Commencement: S. 95 in force at 1.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)

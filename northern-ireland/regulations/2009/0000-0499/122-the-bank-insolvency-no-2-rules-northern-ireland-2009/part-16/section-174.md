@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 174. Litigation expenses and property subject to a floating charge-grant of approval or authorisation[^key-318dd10bede87a17e5cb33a2b8cf0b90]
+## 174. Litigation expenses and property subject to a floating charge-grant of approval or authorisation[^c-318dd10bede87a17e5cb33a2b8cf0b90]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.228D of the 1991 Rules.
 
 ## Annotations
 
-[^key-318dd10bede87a17e5cb33a2b8cf0b90]: Commencement: Rule 174 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-318dd10bede87a17e5cb33a2b8cf0b90]: Commencement: Rule 174 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

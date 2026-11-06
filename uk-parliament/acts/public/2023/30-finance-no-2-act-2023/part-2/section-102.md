@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Regulations relating to approval, registration and controlled activities[^M_I_0abfecb3-8098-4d36-8d74-3b3c7af95e1b][^key-6f18ee21b55d8f5aabd8eac1a195b84b]
+## 102. Regulations relating to approval, registration and controlled activities[^M_I_0abfecb3-8098-4d36-8d74-3b3c7af95e1b][^c-6f18ee21b55d8f5aabd8eac1a195b84b]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^M_I_0abfecb3-8098-4d36-8d74-3b3c7af95e1b]: Commencement: S. 102 in force at Royal Assent for specified purposes, see [s. 120(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/1/b)
 
-[^key-6f18ee21b55d8f5aabd8eac1a195b84b]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2023/30/section/102) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-6f18ee21b55d8f5aabd8eac1a195b84b]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2023/30/section/102) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

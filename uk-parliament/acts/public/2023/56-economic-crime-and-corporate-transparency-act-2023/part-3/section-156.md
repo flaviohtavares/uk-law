@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Register of overseas entities[^key-a123764ebe0e2b999fb6c59483af064c][^key-fd66dbf677b8aca98d5d081a7314be3e]
+## 156. Register of overseas entities[^c-a123764ebe0e2b999fb6c59483af064c][^c-fd66dbf677b8aca98d5d081a7314be3e]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ In section 3 of the Economic Crime (Transparency and Enforcement) Act 2022, in s
 
 ## Annotations
 
-[^key-a123764ebe0e2b999fb6c59483af064c]: Commencement: S. 156 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-a123764ebe0e2b999fb6c59483af064c]: Commencement: S. 156 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-fd66dbf677b8aca98d5d081a7314be3e]: Commencement: [S. 156](https://www.legislation.gov.uk/ukpga/2023/56/section/156) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z47)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z47)
+[^c-fd66dbf677b8aca98d5d081a7314be3e]: Commencement: [S. 156](https://www.legislation.gov.uk/ukpga/2023/56/section/156) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z47)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z47)

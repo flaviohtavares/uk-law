@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 323. Key terms[^key-957f58e52d405d412ff0f492b42e4680]
+## 323. Key terms[^c-957f58e52d405d412ff0f492b42e4680]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-957f58e52d405d412ff0f492b42e4680]: Commencement: S. 323 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-957f58e52d405d412ff0f492b42e4680]: Commencement: S. 323 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -32,7 +32,7 @@ summary: ''
 
 TARTANS
 
-The Scottish Register of Tartans Fees Order 2009 (revoked)[^key-7ef2981e247e0b5a5860cdb707948488]
+The Scottish Register of Tartans Fees Order 2009 (revoked)[^c-7ef2981e247e0b5a5860cdb707948488]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 5th February 2009
 
-[^key-7ef2981e247e0b5a5860cdb707948488]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ef2981e247e0b5a5860cdb707948488]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7ef2981e247e0b5a5860cdb707948488]
+## 1. Citation and commencement[^c-7ef2981e247e0b5a5860cdb707948488]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees payable[^key-7ef2981e247e0b5a5860cdb707948488]
+## 2. Fees payable[^c-7ef2981e247e0b5a5860cdb707948488]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7ef2981e247e0b5a5860cdb707948488]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ef2981e247e0b5a5860cdb707948488]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — FEES PAYABLE IN RESPECT OF THE SCOTTISH REGISTER OF TARTANS[^key-7ef2981e247e0b5a5860cdb707948488]
+## SCHEDULE — FEES PAYABLE IN RESPECT OF THE SCOTTISH REGISTER OF TARTANS[^c-7ef2981e247e0b5a5860cdb707948488]
 
 Article 2
 
@@ -70,8 +70,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-7ef2981e247e0b5a5860cdb707948488]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ef2981e247e0b5a5860cdb707948488]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7ef2981e247e0b5a5860cdb707948488]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2009/6) revoked (19.1.2026) by [The Scottish Register of Tartans Fees Order 2025 (S.S.I. 2025/334)](https://www.legislation.gov.uk/ssi/2025/334), [arts. 1](https://www.legislation.gov.uk/ssi/2025/334/article/1), [3](https://www.legislation.gov.uk/ssi/2025/334/article/3)
+[^c-7ef2981e247e0b5a5860cdb707948488]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2009/6) revoked (19.1.2026) by [The Scottish Register of Tartans Fees Order 2025 (S.S.I. 2025/334)](https://www.legislation.gov.uk/ssi/2025/334), [arts. 1](https://www.legislation.gov.uk/ssi/2025/334/article/1), [3](https://www.legislation.gov.uk/ssi/2025/334/article/3)

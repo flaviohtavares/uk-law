@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. The court may order payment of the costs of the appeal.[^key-173809ed5467bb22d2e78c06314db07c]
+## 94. The court may order payment of the costs of the appeal.[^c-173809ed5467bb22d2e78c06314db07c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Upon the hearing of any such appeal the justices or the sheriff may make such or
 
 ## Annotations
 
-[^key-173809ed5467bb22d2e78c06314db07c]: Modification: Ss. 94-97 incorporated (E.W.S.) (21.5.2010) by [The Newlyn Pier and Harbour Revision (Constitution) Order 2010 (S.I. 2010/1462)](https://www.legislation.gov.uk/uksi/2010/1462), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1462/article/1/1), [3](https://www.legislation.gov.uk/uksi/2010/1462/article/3)
+[^c-173809ed5467bb22d2e78c06314db07c]: Modification: Ss. 94-97 incorporated (E.W.S.) (21.5.2010) by [The Newlyn Pier and Harbour Revision (Constitution) Order 2010 (S.I. 2010/1462)](https://www.legislation.gov.uk/uksi/2010/1462), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1462/article/1/1), [3](https://www.legislation.gov.uk/uksi/2010/1462/article/3)

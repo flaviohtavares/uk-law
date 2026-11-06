@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Composition of tribunals[^key-b0030e79aa99e36997fb92f5ad325038][^key-6e6b32eab42bf31235ddf229fed63962]
+## 35. Composition of tribunals[^c-b0030e79aa99e36997fb92f5ad325038][^c-6e6b32eab42bf31235ddf229fed63962]
 
 *Extent: E+W+S+N.I.*
 
@@ -108,6 +108,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b0030e79aa99e36997fb92f5ad325038]: Commencement: S. 35 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-b0030e79aa99e36997fb92f5ad325038]: Commencement: S. 35 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-6e6b32eab42bf31235ddf229fed63962]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2022/35/section/35) in force at 7.11.2023 by [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1194/regulation/3))
+[^c-6e6b32eab42bf31235ddf229fed63962]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2022/35/section/35) in force at 7.11.2023 by [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1194/regulation/3))

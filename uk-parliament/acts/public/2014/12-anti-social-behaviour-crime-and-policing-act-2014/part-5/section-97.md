@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Corresponding new ground and notice requirements for assured tenancies[^key-4dd2d6a42c269266df70b44b73a4e124][^key-c37fed75f888bd6bc214512213041940]
+## 97. Corresponding new ground and notice requirements for assured tenancies[^c-4dd2d6a42c269266df70b44b73a4e124][^c-c37fed75f888bd6bc214512213041940]
 
 *Extent: E+W*
 
@@ -110,6 +110,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4dd2d6a42c269266df70b44b73a4e124]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2014/12/section/97) in force at 20.10.2014 for E. by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/2590/article/2/d) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/2590/article/5))
+[^c-4dd2d6a42c269266df70b44b73a4e124]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2014/12/section/97) in force at 20.10.2014 for E. by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/2590/article/2/d) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/2590/article/5))
 
-[^key-c37fed75f888bd6bc214512213041940]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2014/12/section/97) in force at 21.10.2014 for W. by [S.I. 2014/2830](https://www.legislation.gov.uk/wsi/2014/2830), [art. 2(d)](https://www.legislation.gov.uk/wsi/2014/2830/article/2/d) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/2830/article/3))
+[^c-c37fed75f888bd6bc214512213041940]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2014/12/section/97) in force at 21.10.2014 for W. by [S.I. 2014/2830](https://www.legislation.gov.uk/wsi/2014/2830), [art. 2(d)](https://www.legislation.gov.uk/wsi/2014/2830/article/2/d) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/2830/article/3))

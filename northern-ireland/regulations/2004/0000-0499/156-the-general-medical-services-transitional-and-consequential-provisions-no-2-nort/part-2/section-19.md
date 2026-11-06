@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Rights of entry[^key-27e5b00f1e578bcc02f55b3a9beeed02]
+## 19. Rights of entry[^c-27e5b00f1e578bcc02f55b3a9beeed02]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27e5b00f1e578bcc02f55b3a9beeed02]: Commencement: Art. 19 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-27e5b00f1e578bcc02f55b3a9beeed02]: Commencement: Art. 19 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

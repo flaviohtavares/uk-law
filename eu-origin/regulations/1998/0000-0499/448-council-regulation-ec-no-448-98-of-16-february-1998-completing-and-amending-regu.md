@@ -32,10 +32,10 @@ Council Regulation (EC) No 448/98
 
 of 16 February 1998 completing and amending Regulation (EC) No 2223/96 with respect to the allocation of financial intermediation services indirectly measured (FISIM) within the European system of national and regional accounts (ESA) (revoked)
 
-[^key-2f390ec0f4920b7e5b2599e14f7ecd77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2f390ec0f4920b7e5b2599e14f7ecd77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-2f390ec0f4920b7e5b2599e14f7ecd77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-2f390ec0f4920b7e5b2599e14f7ecd77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2f390ec0f4920b7e5b2599e14f7ecd77]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/17)
+[^c-2f390ec0f4920b7e5b2599e14f7ecd77]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/17)

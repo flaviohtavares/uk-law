@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-66c212ab0a3727f5363eb3160e9e6877] In the Town and Country Planning (Scotland) Act 1997 (c. 8), section 245 (exercise of powers in relation to Crown land) is omitted.
+(1)[^c-66c212ab0a3727f5363eb3160e9e6877] In the Town and Country Planning (Scotland) Act 1997 (c. 8), section 245 (exercise of powers in relation to Crown land) is omitted.
 
-(2)[^key-66c212ab0a3727f5363eb3160e9e6877] After section 245 there is inserted the following section—
+(2)[^c-66c212ab0a3727f5363eb3160e9e6877] After section 245 there is inserted the following section—
 
 > **245A. Enforcement in relation to the Crown**
 >
@@ -45,7 +45,7 @@ summary: ''
 > - (a) service of a notice,
 > - (b) the making of an order (other than a court order).
 
-(3)[^key-66c212ab0a3727f5363eb3160e9e6877] In the Town and Country Planning (Scotland) Act 1997 (c. 8), after section 245A (inserted by subsection (2) above) there is inserted the following section—
+(3)[^c-66c212ab0a3727f5363eb3160e9e6877] In the Town and Country Planning (Scotland) Act 1997 (c. 8), after section 245A (inserted by subsection (2) above) there is inserted the following section—
 
 > **245B. References to an interest in land**
 >
@@ -55,7 +55,7 @@ summary: ''
 >
 > (3) An interest in land includes an interest only as occupier of the land.
 
-(4)[^key-ce775b3e031fd2c7165d53a3d14bfa1b] In the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 (c. 9) after section 73C (inserted by Schedule 5) there are inserted the following sections—
+(4)[^c-ce775b3e031fd2c7165d53a3d14bfa1b] In the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 (c. 9) after section 73C (inserted by Schedule 5) there are inserted the following sections—
 
 > **73D. Enforcement in relation to the Crown**
 >
@@ -86,7 +86,7 @@ summary: ''
 >
 > (3) An interest in land includes an interest only as occupier of the land.
 
-(5)[^key-66c212ab0a3727f5363eb3160e9e6877] In the Planning (Hazardous Substances) (Scotland) Act 1997, after section 30A (inserted by section 90(3)) there are inserted the following sections—
+(5)[^c-66c212ab0a3727f5363eb3160e9e6877] In the Planning (Hazardous Substances) (Scotland) Act 1997, after section 30A (inserted by section 90(3)) there are inserted the following sections—
 
 > **30B. Enforcement in relation to the Crown**
 >
@@ -119,6 +119,6 @@ summary: ''
 
 ## Annotations
 
-[^key-66c212ab0a3727f5363eb3160e9e6877]: Commencement: S. 94(1)-(3) (5) in force at 12.6.2006 by [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/268/article/3/b)
+[^c-66c212ab0a3727f5363eb3160e9e6877]: Commencement: S. 94(1)-(3) (5) in force at 12.6.2006 by [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/268/article/3/b)
 
-[^key-ce775b3e031fd2c7165d53a3d14bfa1b]: Commencement: S. 94(4) in force at 11.5.2006 by [S.S.I. 2006/243](https://www.legislation.gov.uk/ssi/2006/243), [art. 3](https://www.legislation.gov.uk/ssi/2006/243/article/3)
+[^c-ce775b3e031fd2c7165d53a3d14bfa1b]: Commencement: S. 94(4) in force at 11.5.2006 by [S.S.I. 2006/243](https://www.legislation.gov.uk/ssi/2006/243), [art. 3](https://www.legislation.gov.uk/ssi/2006/243/article/3)

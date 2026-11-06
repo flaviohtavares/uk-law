@@ -41,7 +41,7 @@ The Department of Agriculture and Rural Development[^f00001], in exercise of the
 
 ## PART I — PRELIMINARY
 
-### 1. Citation and commencement[^key-ad68375d44604c3448e99cab219b51d9]
+### 1. Citation and commencement[^c-ad68375d44604c3448e99cab219b51d9]
 
 (1) This Order may be cited as the Brucellosis Control Order (Northern Ireland) 2004.
 
@@ -49,7 +49,7 @@ The Department of Agriculture and Rural Development[^f00001], in exercise of the
 
 (3) For the purposes of Article 5 this Order shall come into operation on 1st December 2004.
 
-### 2. Interpretation[^key-74cba4276cb5aed640767b4a7bec73ce]
+### 2. Interpretation[^c-74cba4276cb5aed640767b4a7bec73ce]
 
 In this Order –
 
@@ -58,7 +58,7 @@ In this Order –
 - “animal” means a bovine animal;
 - “approved disinfectant” means a disinfectant for the time being approved by the Department under the Diseases of Animals (Approval of Disinfectants) Order (Northern Ireland) 1972[^f00003];
 - “carcase” means the carcase of an animal;
-- “the Directive” means Council Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432) on animal health problems affecting intra-Community trade in bovine animals and swine[^f00004] , as last amended by Commission Implementing Decision (EU) 2015/819[^key-ee0aabd364c6fbd0de92f4b266a54e23];
+- “the Directive” means Council Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432) on animal health problems affecting intra-Community trade in bovine animals and swine[^f00004] , as last amended by Commission Implementing Decision (EU) 2015/819[^c-ee0aabd364c6fbd0de92f4b266a54e23];
 - “disease” means brucellosis;
 - “Divisional Veterinary Office” means a Divisional Veterinary Office of the Department;
 - “herd” means –
@@ -79,7 +79,7 @@ In this Order –
 
 ## PART II — NOTIFICATION
 
-### 3. Notification of the presence of disease[^key-5a34a740453cea6efe87f12de0af580d]
+### 3. Notification of the presence of disease[^c-5a34a740453cea6efe87f12de0af580d]
 
 (1) A keeper of an affected or suspected animal or a herd keeper who knows or suspects that any animal in his herd –
 
@@ -94,7 +94,7 @@ shall, with all practicable speed, give notice of the fact to a Divisional Veter
 - (b) the keeper of any herd to which the disease may spread; or
 - (c) any person who, within the last 56 days has visited, or, in the future is likely to visit or arrange to visit, any holding on which the animal is or has been kept.
 
-### 4. Notification of abortion[^key-beb194830caf1b081574573c4047296a]
+### 4. Notification of abortion[^c-beb194830caf1b081574573c4047296a]
 
 (1) The keeper of a herd shall, with all practicable speed, notify a Divisional Veterinary Office if he knows or has reason to suspect that any animal in his herd has had an abortion.
 
@@ -106,21 +106,21 @@ shall, with all practicable speed, give notice of the fact to a Divisional Veter
 
 (5) Manure containing discharges or fluids from an animal which has had an abortion shall be stored away from access by livestock for at least 6 months and shall not be spread on grazing fields for a period of at least 12 months.
 
-## PART III — MOVEMENT CONTROL[^key-d917537b6510f4da5c57cea2e1ae3163]
+## PART III — MOVEMENT CONTROL[^c-d917537b6510f4da5c57cea2e1ae3163]
 
 **No longer in force.**
 
-### 5. Pre-movement tests[^key-d917537b6510f4da5c57cea2e1ae3163]
+### 5. Pre-movement tests[^c-d917537b6510f4da5c57cea2e1ae3163]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART IV — CONTROL OF DISEASE
 
-### 6. Power to take samples[^key-1b88f042718ab64bff23b5229f178089]
+### 6. Power to take samples[^c-1b88f042718ab64bff23b5229f178089]
 
 The Department may examine any animal, take such samples and apply such tests as it considers necessary for the purpose of controlling disease.
 
-### 7. Detention and movement of animals[^key-3cfad58632d7e1cf858adb85a7b15af5]
+### 7. Detention and movement of animals[^c-3cfad58632d7e1cf858adb85a7b15af5]
 
 Where the Department knows or suspects that an animal on any holding has been moved or dealt with otherwise than in accordance with this Order or the Scheme, as the case may be, it may by notice –
 
@@ -129,7 +129,7 @@ Where the Department knows or suspects that an animal on any holding has been mo
   - (ii) have a sample from the animal, and if required any other animal on the holding, subjected to an official test, at his own expense and within such time limit as shall be specified in the notice;
 - (b) prohibit the movement of any animal to or from the holding except under and in accordance with the conditions of a licence issued by the Department.
 
-### 8. Restrictions[^key-fa985ca059c370692e5abc5bdc6758fe]
+### 8. Restrictions[^c-fa985ca059c370692e5abc5bdc6758fe]
 
 (1) The Department may serve a notice on a herd keeper where –
 
@@ -157,7 +157,7 @@ Where the Department knows or suspects that an animal on any holding has been mo
 - (j) require the herd keeper, prior to the disposal of his holding or any part thereof by way of sale, grant, lease, exchange, surrender, licence, letting in conacre, or otherwise, to inform the Department in writing of such disposal and the area and location of the holding disposed of and, unless the holding disposed of was held by him as a licensee in conacre or under a lease which has terminated, to inform the Department, within 7 days, of such disposal and the name and address of the person to whom he has disposed of his holding or any part thereof;
 - (k) prohibit the feeding of milk from affected animals to livestock on the same holding unless such milk is treated in accordance with the terms of the notice.
 
-### 9. Temporary control area[^key-0faaac00d54395aaeaf977e15b9c09f5]
+### 9. Temporary control area[^c-0faaac00d54395aaeaf977e15b9c09f5]
 
 (1) Where the Department knows or suspects that there is a serious risk of the spread of disease it may, by notice, declare the establishment of an area to be known as a “temporary control area”.
 
@@ -170,7 +170,7 @@ Where the Department knows or suspects that an animal on any holding has been mo
 
 (4) Any holding which is partly inside and partly outside a temporary control area shall be deemed to be wholly inside that area.
 
-### 10. Contact with animals on adjoining land[^key-e43c693fef27691835c2eddc3ca4a70c]
+### 10. Contact with animals on adjoining land[^c-e43c693fef27691835c2eddc3ca4a70c]
 
 (1) The keeper of a herd shall maintain the fences dividing his holding from adjoining land in such condition as to prevent –
 
@@ -179,13 +179,13 @@ Where the Department knows or suspects that an animal on any holding has been mo
 
 (2) Where a reactor is found in any herd, the keeper of the herd shall take all practical precautions to prevent the infection of any animals kept on the adjoining land by contact with animals on his holding.
 
-### 11. Prohibition on grazing[^key-ae3d7cb0a6051c323939aa3a559a6610]
+### 11. Prohibition on grazing[^c-ae3d7cb0a6051c323939aa3a559a6610]
 
 (1) The Department may, by notice, prohibit for a period of up to 6 months, any person who keeps animals on a holding from using for grazing by animals, other than steers, all or any part of the holding to which this Article applies.
 
 (2) This Article applies to any holding that includes land which, during the previous 6 months, has been part of a holding on which there has been, during that period, a reactor or any animal slaughtered as a result of being in contact with a reactor.
 
-### 12. Use of milk for feeding to animals[^key-2e203f2583c0e4dcaa826adfc85f246f]
+### 12. Use of milk for feeding to animals[^c-2e203f2583c0e4dcaa826adfc85f246f]
 
 (1) A person shall not bring onto any holding on which a herd is kept, any milk or dairy by-products for feeding to livestock kept on the holding except when the milk or dairy by-product –
 
@@ -195,7 +195,7 @@ Where the Department knows or suspects that an animal on any holding has been mo
 
 (2) For the purpose of this paragraph, “pasteurised” means retained at a temperature of not less than 145° Fahrenheit and not more than 150° Fahrenheit for at least 30 minutes or at a temperature of not less than 162° Fahrenheit for at least 15 seconds.
 
-### 13. Cleansing and disinfection generally[^key-c8cabd9e3db7e0d5e973d2ac4feff47a]
+### 13. Cleansing and disinfection generally[^c-c8cabd9e3db7e0d5e973d2ac4feff47a]
 
 (1) The Department may serve on the owner or occupier of any holding on which there is, or has within 56 days been, an affected or suspected animal or any animal which may have been exposed to the possibility of brucella infection or the carcase of such an animal, a notice requiring him to –
 
@@ -208,7 +208,7 @@ Where the Department knows or suspects that an animal on any holding has been mo
 
 (2) In this Article “washings” means any material, disinfectant or water remaining after the cleansing and disinfection has been carried out.
 
-### 14. Cleansing and disinfection of vehicles[^key-af4e47597e46f9e729a6509692d0ece1]
+### 14. Cleansing and disinfection of vehicles[^c-af4e47597e46f9e729a6509692d0ece1]
 
 The Department may, by notice served on the owner or person in charge of any vehicle which is used for the movement or removal of –
 
@@ -219,7 +219,7 @@ require him, in such manner and within such period as may be specified in the no
 
 ## PART V — SLAUGHTER, COMPENSATION AND APPEALS
 
-### 15. Power to slaughter[^key-1a0b461e1ef8f3cdca4c77a276cec568]
+### 15. Power to slaughter[^c-1a0b461e1ef8f3cdca4c77a276cec568]
 
 (1) Subject to paragraphs (2) and (3), the Department shall slaughter or cause to be slaughtered any reactor and may slaughter or cause to be slaughtered any suspected animal or other animal which is or has been in contact with a reactor or which in the opinion of a veterinary inspector has been in any way exposed to a significant risk of infection with disease.
 
@@ -235,7 +235,7 @@ require him, in such manner and within such period as may be specified in the no
 - (d) collect, pen, restrain or otherwise secure and present the animal, in such manner and at such time as the Department shall require, for the purpose of determining its market value or arranging its removal for slaughter; and
 - (e) make clean water available for the cleansing and disinfection of clothing and equipment used by any person in connection with the determination of the market value of the animal.
 
-### 16. Valuation and compensation[^key-b25cd80c1724b6326d4c37bd1d066210][^key-eb2473bd12a115b2c5b4d5754d9eaa67]
+### 16. Valuation and compensation[^c-b25cd80c1724b6326d4c37bd1d066210][^c-eb2473bd12a115b2c5b4d5754d9eaa67]
 
 (1) Subject to paragraph (1A), where the Department causes an animal to be slaughtered in accordance with Article 15, the compensation payable by the Department shall be an amount equal to 75% of either—
 
@@ -244,7 +244,7 @@ require him, in such manner and within such period as may be specified in the no
 
 whichever is the less.
 
-(1A)[^key-1fccbb44b02dfed85a564d78147f1475] The amount of compensation payable by the Department under this Article in respect of any animal shall be reduced by any amount payable as compensation for the loss of that animal (howsoever that loss is expressed) under a contract of insurance.
+(1A)[^c-1fccbb44b02dfed85a564d78147f1475] The amount of compensation payable by the Department under this Article in respect of any animal shall be reduced by any amount payable as compensation for the loss of that animal (howsoever that loss is expressed) under a contract of insurance.
 
 (2) For the purposes of this Order the market value of an animal means the price which might reasonably have been obtained for it, at the time of valuation in accordance with this Article or Article 17, from a purchaser in the market if it had been free from disease.
 
@@ -276,7 +276,7 @@ whichever is the less.
 
 (11) Notwithstanding any other provisions of this Article the market value of an animal to which paragraph (10) applies shall be determined by the Department.
 
-### 17. Appeals[^key-23c2aca53f3ad8234b60cffa23d4c3cd]
+### 17. Appeals[^c-23c2aca53f3ad8234b60cffa23d4c3cd]
 
 (1) The Department or the owner of an animal may submit an appeal to a tribunal of persons, appointed by the Department for the purpose, if dissatisfied with the determination of the market value of the animal –
 
@@ -292,13 +292,13 @@ whichever is the less.
 
 ## PART VI — GENERAL
 
-### 18. Power to seize certain animals[^key-98b4adee62a7cecdf190d847157a86ee]
+### 18. Power to seize certain animals[^c-98b4adee62a7cecdf190d847157a86ee]
 
 (1) The Department may seize, detain and dispose of an affected or suspected animal exposed for sale, carried, kept or otherwise dealt with in contravention of this Order or the Scheme, or of any notice served or licence issued under this Order or the Scheme, as the case may be.
 
 (2) The amount of any expenses reasonably incurred by the Department in seizing, detaining or disposing of an animal under paragraph (1) shall be recoverable by it as a civil debt from the owner of that animal.
 
-### 19. Information to be furnished to inspectors[^key-c16874c7a1e369fae1affe015e6e187a]
+### 19. Information to be furnished to inspectors[^c-c16874c7a1e369fae1affe015e6e187a]
 
 (1) The keeper of an affected or suspected animal or any animal which may have been exposed to the possibility of brucella infection shall, on demand by an inspector, give such information as he possesses as to –
 
@@ -309,7 +309,7 @@ whichever is the less.
 
 (2) A person engaged in the purchase, sale, collection, transport or delivery of animals shall on demand by an inspector give such information as he possesses relating to any animal or carcase which is or has been in his possession or under his control.
 
-### 20. Draft or dispersal sales[^key-fe7b9ac717d711bf88260f8b4d42003d]
+### 20. Draft or dispersal sales[^c-fe7b9ac717d711bf88260f8b4d42003d]
 
 (1) The keeper of any animal shall not hold or cause or permit to be held a sale by auction or otherwise of that animal –
 
@@ -318,23 +318,23 @@ whichever is the less.
 
 except under and in accordance with the conditions of a licence issued by the Department.
 
-(2)[^key-4e103f1903eb7bea01cbc11f598ccadb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4e103f1903eb7bea01cbc11f598ccadb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Compliance with licences, notices, approvals and authorisations[^key-4c8aaf5c431d5d8353b8192fe7e38c5f]
+### 21. Compliance with licences, notices, approvals and authorisations[^c-4c8aaf5c431d5d8353b8192fe7e38c5f]
 
 (1) A licence, notice, approval or authorisation under this Order or the Scheme, as the case may be, shall be in writing, may be general or specific, may be subject to conditions and may be amended, suspended or revoked by notice at any time, and in particular may be suspended or revoked if the Department is of the reasonable opinion that the provisions of this Order or the Scheme are not being complied with.
 
 (2) A person on whom a notice is served or to whom an approval or authorisation is granted under this Order or the Scheme shall comply with its requirements.
 
-### 22. Action in case of default[^key-1057f7c145182d8e247c1b9358f5fe37]
+### 22. Action in case of default[^c-1057f7c145182d8e247c1b9358f5fe37]
 
 Where a person fails to comply with any requirement imposed on him under this Order or by virtue of any licence, notice or approval issued under it, an inspector may, without prejudice to any proceedings arising out of such default, carry out or cause to be carried out those requirements.
 
-### 23. Production of licences, etc[^key-5d2068deac5a48839e241021978b6cb0]
+### 23. Production of licences, etc[^c-5d2068deac5a48839e241021978b6cb0]
 
 A person acting under the authority of a licence, notice, approval or authorisation under this Order or the Scheme, as the case may be, shall, on demand made by an inspector or a member of the Police Service of Northern Ireland, produce the licence, notice, approval or authorisation and allow a copy thereof or an extract therefrom to be taken and shall also on such demand, furnish his name and address.
 
-### 24. Revocations[^key-c9a97e86fa9cbc302fda438570187dbb]
+### 24. Revocations[^c-c9a97e86fa9cbc302fda438570187dbb]
 
 The statutory provisions listed in Schedule 2 are hereby revoked to the extent that they remain in operation.
 
@@ -346,41 +346,41 @@ A senior officer of the
 
 Department of Agriculture and Rural Development
 
-## SCHEDULE 1 — Compensation for Animals[^key-77be22729413c56a49e009667159c7eb]
+## SCHEDULE 1 — Compensation for Animals[^c-77be22729413c56a49e009667159c7eb]
 
 Article 16(1)
 
-**1.**[^key-87e72d7e7b9bd89ce368022158c2a24b] For the purpose of this Schedule –
+**1.**[^c-87e72d7e7b9bd89ce368022158c2a24b] For the purpose of this Schedule –
 
-- “reference animals[^key-42e330ee2665d9400a6f35e7a703199c]” means commercial grade cows and in-calf heifers both of which are intended for use for the production of milk;
+- “reference animals[^c-42e330ee2665d9400a6f35e7a703199c]” means commercial grade cows and in-calf heifers both of which are intended for use for the production of milk;
 - “average price” means a price calculated by the Department in accordance with paragraph 4;
 - “4 week period” means a period of 4 weeks ending on a Saturday which is 7 days or more before the last day of the month in which that Saturday falls;
 - “month” means the month in which a notice in respect of an animal was issued in accordance with Article 15(2);
 - “return” means a document furnished to the Department by a person operating a market for the sale of reference animals which shows for a week ending on a Saturday the number of reference animals sold at that market and the total sale price for such reference animals in that week at that market.
 
-**2.**[^key-714799f71bec5446c159a10e098d226d] A return shall be furnished to the Department within 7 days from the end of the week to which that return relates, by any person operating a market in animals at any of the following places, that is to say –
+**2.**[^c-714799f71bec5446c159a10e098d226d] A return shall be furnished to the Department within 7 days from the end of the week to which that return relates, by any person operating a market in animals at any of the following places, that is to say –
 
-- Ballymena[^key-f87dbd2a53f4606be2d2fcaa02570a85]
+- Ballymena[^c-f87dbd2a53f4606be2d2fcaa02570a85]
 - Ballymoney
 - Markethill
 - Omagh
 - Saintfield.
 
-**3.**[^key-b39b877bf845d2ba53fca7f287dd3a52] The Department shall, in accordance with paragraph 4, calculate an average price from the information contained in the returns forwarded to it in accordance with paragraph 2, as it considers relevant.
+**3.**[^c-b39b877bf845d2ba53fca7f287dd3a52] The Department shall, in accordance with paragraph 4, calculate an average price from the information contained in the returns forwarded to it in accordance with paragraph 2, as it considers relevant.
 
-**4.**[^key-d5e1038e91d708dcbf840a42b7fde66e] (1) Subject to sub-paragraph (2), the average price shall be such amount as may be obtained by dividing the total amount of the prices shown in returns, furnished under paragraph 2, for a 4 week period as having been paid for reference animals[^key-c26cf4909768b73a72954c72f691bd70] by the total number of the reference animals stated in those returns to have been sold.
+**4.**[^c-d5e1038e91d708dcbf840a42b7fde66e] (1) Subject to sub-paragraph (2), the average price shall be such amount as may be obtained by dividing the total amount of the prices shown in returns, furnished under paragraph 2, for a 4 week period as having been paid for reference animals[^c-c26cf4909768b73a72954c72f691bd70] by the total number of the reference animals stated in those returns to have been sold.
 
 (2) Before the Department proceeds to make a calculation of an average price it shall have obtained returns for sales of not less than 100 reference animals during a 4 week period.
 
 (3) Where in any 4 week period the requirements of sub-paragraph (2) are not met, the average price for that 4 week period shall be the same amount as the most recent average price calculated in accordance with sub-paragraphs (1) and (2).
 
-**5.**[^key-7317dc058625e7f9dd72d368a9ee5ad5] In any month the figure for a non-pedigree animal[^key-8a905311017169bf7a16ae2fc8ac0213] shall be 125% of the average price for the most recently preceding 4 week period rounded down to the nearest multiple of £4.
+**5.**[^c-7317dc058625e7f9dd72d368a9ee5ad5] In any month the figure for a non-pedigree animal[^c-8a905311017169bf7a16ae2fc8ac0213] shall be 125% of the average price for the most recently preceding 4 week period rounded down to the nearest multiple of £4.
 
-**6.**[^key-f7ee1f81b3891d0b37e877234b8f22ca] In any month the figure for a pedigree animal[^key-41191983ff9163b4f701f3db607d3d58] shall be the figure for a non-pedigree animal plus £300.
+**6.**[^c-f7ee1f81b3891d0b37e877234b8f22ca] In any month the figure for a pedigree animal[^c-41191983ff9163b4f701f3db607d3d58] shall be the figure for a non-pedigree animal plus £300.
 
-**7.**[^key-c8b72a881a21404e54a3c83c013b5b39] The Department shall take such steps as it considers appropriate for the purpose of bringing to the notice of persons concerned the figures for non-pedigree animals[^key-87a66d2c0195ea4185210c7a37816b1b] and pedigree animals referred to in paragraphs 5 and 6 respectively.
+**7.**[^c-c8b72a881a21404e54a3c83c013b5b39] The Department shall take such steps as it considers appropriate for the purpose of bringing to the notice of persons concerned the figures for non-pedigree animals[^c-87a66d2c0195ea4185210c7a37816b1b] and pedigree animals referred to in paragraphs 5 and 6 respectively.
 
-## SCHEDULE 2 — REVOCATIONS[^key-c7cc63bfb4bbe0bbf9fe0fc65402d447]
+## SCHEDULE 2 — REVOCATIONS[^c-c7cc63bfb4bbe0bbf9fe0fc65402d447]
 
 Article 24
 
@@ -436,94 +436,94 @@ Provision is made for the issue and production of licences, notices, approvals a
 
 [^f00002]: Footnote: [S.I. 1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115) as amended by [S.I. 1984/702 (N.I. 2)](https://www.legislation.gov.uk/nisi/1984/702) Article 17, [S.I. 1994/1891 (N.I. 6)](https://www.legislation.gov.uk/nisi/1994/1891) Articles 20 and 23, [S.R. 1994 No. 11](https://www.legislation.gov.uk/nisr/1994/11) and [S.R. 2004 No. 362](https://www.legislation.gov.uk/nisr/2004/362)
 
-[^key-ad68375d44604c3448e99cab219b51d9]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2004/361/article/1) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-ad68375d44604c3448e99cab219b51d9]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2004/361/article/1) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-74cba4276cb5aed640767b4a7bec73ce]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2004/361/article/2) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-74cba4276cb5aed640767b4a7bec73ce]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2004/361/article/2) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
 [^f00003]: Footnote: [S.R. & O. (N.I.) 1972 No. 16](https://www.legislation.gov.uk/nisro/1972/16) as amended by [S.R. 1975 No. 69](https://www.legislation.gov.uk/nisr/1975/69) and [S.R. 1995 No. 467](https://www.legislation.gov.uk/nisr/1995/467)
 
 [^f00004]: Footnote: O.J. No. L121, 29.7.64, p. 1977, as last amended by Council Regulation [(EC) No. 21/2004](https://www.legislation.gov.uk/european/regulation/2004/0021) (O.J. No. L005, 19.1.2004, p. 0008)
 
-[^key-ee0aabd364c6fbd0de92f4b266a54e23]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/nisr/2004/361/article/2) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/4)
+[^c-ee0aabd364c6fbd0de92f4b266a54e23]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/nisr/2004/361/article/2) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/4)
 
 [^f00005]: Footnote: [S.R. 2004 No. 364](https://www.legislation.gov.uk/nisr/2004/364)
 
-[^key-5a34a740453cea6efe87f12de0af580d]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2004/361/article/3) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-5a34a740453cea6efe87f12de0af580d]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2004/361/article/3) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-beb194830caf1b081574573c4047296a]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2004/361/article/4) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-beb194830caf1b081574573c4047296a]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2004/361/article/4) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-d917537b6510f4da5c57cea2e1ae3163]: Textual amendment: [Pt. III](https://www.legislation.gov.uk/nisr/2004/361/part/III) revoked (28.9.2015) by [The Brucellosis Control (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/340)](https://www.legislation.gov.uk/nisr/2015/340), [arts. 1](https://www.legislation.gov.uk/nisr/2015/340/article/1), [2(1)(a)](https://www.legislation.gov.uk/nisr/2015/340/article/2/1/a)
+[^c-d917537b6510f4da5c57cea2e1ae3163]: Textual amendment: [Pt. III](https://www.legislation.gov.uk/nisr/2004/361/part/III) revoked (28.9.2015) by [The Brucellosis Control (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/340)](https://www.legislation.gov.uk/nisr/2015/340), [arts. 1](https://www.legislation.gov.uk/nisr/2015/340/article/1), [2(1)(a)](https://www.legislation.gov.uk/nisr/2015/340/article/2/1/a)
 
-[^key-1b88f042718ab64bff23b5229f178089]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2004/361/article/6) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-1b88f042718ab64bff23b5229f178089]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2004/361/article/6) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-3cfad58632d7e1cf858adb85a7b15af5]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2004/361/article/7) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-3cfad58632d7e1cf858adb85a7b15af5]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2004/361/article/7) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-fa985ca059c370692e5abc5bdc6758fe]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2004/361/article/8) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-fa985ca059c370692e5abc5bdc6758fe]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2004/361/article/8) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-0faaac00d54395aaeaf977e15b9c09f5]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/2004/361/article/9) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-0faaac00d54395aaeaf977e15b9c09f5]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/2004/361/article/9) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-e43c693fef27691835c2eddc3ca4a70c]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2004/361/article/10) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-e43c693fef27691835c2eddc3ca4a70c]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2004/361/article/10) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-ae3d7cb0a6051c323939aa3a559a6610]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/2004/361/article/11) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-ae3d7cb0a6051c323939aa3a559a6610]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/2004/361/article/11) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-2e203f2583c0e4dcaa826adfc85f246f]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/2004/361/article/12) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-2e203f2583c0e4dcaa826adfc85f246f]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/2004/361/article/12) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-c8cabd9e3db7e0d5e973d2ac4feff47a]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisr/2004/361/article/13) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-c8cabd9e3db7e0d5e973d2ac4feff47a]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisr/2004/361/article/13) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-af4e47597e46f9e729a6509692d0ece1]: Commencement: [Art. 14](https://www.legislation.gov.uk/nisr/2004/361/article/14) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-af4e47597e46f9e729a6509692d0ece1]: Commencement: [Art. 14](https://www.legislation.gov.uk/nisr/2004/361/article/14) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-1a0b461e1ef8f3cdca4c77a276cec568]: Commencement: [Art. 15](https://www.legislation.gov.uk/nisr/2004/361/article/15) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-1a0b461e1ef8f3cdca4c77a276cec568]: Commencement: [Art. 15](https://www.legislation.gov.uk/nisr/2004/361/article/15) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-b25cd80c1724b6326d4c37bd1d066210]: Commencement: [Art. 16](https://www.legislation.gov.uk/nisr/2004/361/article/16) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-b25cd80c1724b6326d4c37bd1d066210]: Commencement: [Art. 16](https://www.legislation.gov.uk/nisr/2004/361/article/16) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-eb2473bd12a115b2c5b4d5754d9eaa67]: Textual amendment: [Art. 16(1)](https://www.legislation.gov.uk/nisr/2004/361/article/16/1) substituted (1.9.2012) by [The Brucellosis Control (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/315)](https://www.legislation.gov.uk/nisr/2012/315), [arts. 1](https://www.legislation.gov.uk/nisr/2012/315/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2012/315/article/2/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/315/article/3))
+[^c-eb2473bd12a115b2c5b4d5754d9eaa67]: Textual amendment: [Art. 16(1)](https://www.legislation.gov.uk/nisr/2004/361/article/16/1) substituted (1.9.2012) by [The Brucellosis Control (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/315)](https://www.legislation.gov.uk/nisr/2012/315), [arts. 1](https://www.legislation.gov.uk/nisr/2012/315/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2012/315/article/2/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/315/article/3))
 
-[^key-1fccbb44b02dfed85a564d78147f1475]: Textual amendment: [Art. 16(1A)](https://www.legislation.gov.uk/nisr/2004/361/article/16/1A) inserted (1.9.2012) by [The Brucellosis Control (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/315)](https://www.legislation.gov.uk/nisr/2012/315), [arts. 1](https://www.legislation.gov.uk/nisr/2012/315/article/1), [2(3)](https://www.legislation.gov.uk/nisr/2012/315/article/2/3)
+[^c-1fccbb44b02dfed85a564d78147f1475]: Textual amendment: [Art. 16(1A)](https://www.legislation.gov.uk/nisr/2004/361/article/16/1A) inserted (1.9.2012) by [The Brucellosis Control (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/315)](https://www.legislation.gov.uk/nisr/2012/315), [arts. 1](https://www.legislation.gov.uk/nisr/2012/315/article/1), [2(3)](https://www.legislation.gov.uk/nisr/2012/315/article/2/3)
 
-[^key-23c2aca53f3ad8234b60cffa23d4c3cd]: Commencement: [Art. 17](https://www.legislation.gov.uk/nisr/2004/361/article/17) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-23c2aca53f3ad8234b60cffa23d4c3cd]: Commencement: [Art. 17](https://www.legislation.gov.uk/nisr/2004/361/article/17) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-98b4adee62a7cecdf190d847157a86ee]: Commencement: [Art. 18](https://www.legislation.gov.uk/nisr/2004/361/article/18) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-98b4adee62a7cecdf190d847157a86ee]: Commencement: [Art. 18](https://www.legislation.gov.uk/nisr/2004/361/article/18) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-c16874c7a1e369fae1affe015e6e187a]: Commencement: [Art. 19](https://www.legislation.gov.uk/nisr/2004/361/article/19) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-c16874c7a1e369fae1affe015e6e187a]: Commencement: [Art. 19](https://www.legislation.gov.uk/nisr/2004/361/article/19) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-fe7b9ac717d711bf88260f8b4d42003d]: Commencement: [Art. 20](https://www.legislation.gov.uk/nisr/2004/361/article/20) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-fe7b9ac717d711bf88260f8b4d42003d]: Commencement: [Art. 20](https://www.legislation.gov.uk/nisr/2004/361/article/20) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-4e103f1903eb7bea01cbc11f598ccadb]: Textual amendment: [Art. 20(2)](https://www.legislation.gov.uk/nisr/2004/361/article/20/2) revoked (28.9.2015) by [The Brucellosis Control (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/340)](https://www.legislation.gov.uk/nisr/2015/340), [arts. 1](https://www.legislation.gov.uk/nisr/2015/340/article/1), [2(1)(b)](https://www.legislation.gov.uk/nisr/2015/340/article/2/1/b)
+[^c-4e103f1903eb7bea01cbc11f598ccadb]: Textual amendment: [Art. 20(2)](https://www.legislation.gov.uk/nisr/2004/361/article/20/2) revoked (28.9.2015) by [The Brucellosis Control (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/340)](https://www.legislation.gov.uk/nisr/2015/340), [arts. 1](https://www.legislation.gov.uk/nisr/2015/340/article/1), [2(1)(b)](https://www.legislation.gov.uk/nisr/2015/340/article/2/1/b)
 
-[^key-4c8aaf5c431d5d8353b8192fe7e38c5f]: Commencement: [Art. 21](https://www.legislation.gov.uk/nisr/2004/361/article/21) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-4c8aaf5c431d5d8353b8192fe7e38c5f]: Commencement: [Art. 21](https://www.legislation.gov.uk/nisr/2004/361/article/21) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-1057f7c145182d8e247c1b9358f5fe37]: Commencement: [Art. 22](https://www.legislation.gov.uk/nisr/2004/361/article/22) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-1057f7c145182d8e247c1b9358f5fe37]: Commencement: [Art. 22](https://www.legislation.gov.uk/nisr/2004/361/article/22) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-5d2068deac5a48839e241021978b6cb0]: Commencement: [Art. 23](https://www.legislation.gov.uk/nisr/2004/361/article/23) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-5d2068deac5a48839e241021978b6cb0]: Commencement: [Art. 23](https://www.legislation.gov.uk/nisr/2004/361/article/23) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-c9a97e86fa9cbc302fda438570187dbb]: Commencement: [Art. 24](https://www.legislation.gov.uk/nisr/2004/361/article/24) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-c9a97e86fa9cbc302fda438570187dbb]: Commencement: [Art. 24](https://www.legislation.gov.uk/nisr/2004/361/article/24) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-77be22729413c56a49e009667159c7eb]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2004/361/schedule/1) heading substituted (1.9.2012) by [The Brucellosis Control (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/315)](https://www.legislation.gov.uk/nisr/2012/315), [arts. 1](https://www.legislation.gov.uk/nisr/2012/315/article/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2012/315/article/2/4/a) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/315/article/3))
+[^c-77be22729413c56a49e009667159c7eb]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2004/361/schedule/1) heading substituted (1.9.2012) by [The Brucellosis Control (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/315)](https://www.legislation.gov.uk/nisr/2012/315), [arts. 1](https://www.legislation.gov.uk/nisr/2012/315/article/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2012/315/article/2/4/a) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/315/article/3))
 
-[^key-87e72d7e7b9bd89ce368022158c2a24b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2004/361/schedule/1/paragraph/1) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-87e72d7e7b9bd89ce368022158c2a24b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2004/361/schedule/1/paragraph/1) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-42e330ee2665d9400a6f35e7a703199c]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2004/361/schedule/1/paragraph/1) substituted (1.9.2012) by [The Brucellosis Control (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/315)](https://www.legislation.gov.uk/nisr/2012/315), [arts. 1](https://www.legislation.gov.uk/nisr/2012/315/article/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2012/315/article/2/4/b) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/315/article/3))
+[^c-42e330ee2665d9400a6f35e7a703199c]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2004/361/schedule/1/paragraph/1) substituted (1.9.2012) by [The Brucellosis Control (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/315)](https://www.legislation.gov.uk/nisr/2012/315), [arts. 1](https://www.legislation.gov.uk/nisr/2012/315/article/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2012/315/article/2/4/b) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/315/article/3))
 
-[^key-714799f71bec5446c159a10e098d226d]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2004/361/schedule/1/paragraph/2) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-714799f71bec5446c159a10e098d226d]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2004/361/schedule/1/paragraph/2) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-f87dbd2a53f4606be2d2fcaa02570a85]: Textual amendment: Word in [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2004/361/schedule/1/paragraph/2) substituted (12.1.2006) by [The Brucellosis Control (Amendment) Order (Northern Ireland) 2005 (S.R. 2005/585)](https://www.legislation.gov.uk/nisr/2005/585), [arts. 1](https://www.legislation.gov.uk/nisr/2005/585/article/1), [2](https://www.legislation.gov.uk/nisr/2005/585/article/2)
+[^c-f87dbd2a53f4606be2d2fcaa02570a85]: Textual amendment: Word in [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2004/361/schedule/1/paragraph/2) substituted (12.1.2006) by [The Brucellosis Control (Amendment) Order (Northern Ireland) 2005 (S.R. 2005/585)](https://www.legislation.gov.uk/nisr/2005/585), [arts. 1](https://www.legislation.gov.uk/nisr/2005/585/article/1), [2](https://www.legislation.gov.uk/nisr/2005/585/article/2)
 
-[^key-b39b877bf845d2ba53fca7f287dd3a52]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2004/361/schedule/1/paragraph/3) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-b39b877bf845d2ba53fca7f287dd3a52]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2004/361/schedule/1/paragraph/3) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-d5e1038e91d708dcbf840a42b7fde66e]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2004/361/schedule/1/paragraph/4) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-d5e1038e91d708dcbf840a42b7fde66e]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2004/361/schedule/1/paragraph/4) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-c26cf4909768b73a72954c72f691bd70]: Textual amendment: Words in [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2004/361/schedule/1/paragraph/4) substituted (1.9.2012) by [The Brucellosis Control (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/315)](https://www.legislation.gov.uk/nisr/2012/315), [arts. 1](https://www.legislation.gov.uk/nisr/2012/315/article/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2012/315/article/2/4/b) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/315/article/3))
+[^c-c26cf4909768b73a72954c72f691bd70]: Textual amendment: Words in [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2004/361/schedule/1/paragraph/4) substituted (1.9.2012) by [The Brucellosis Control (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/315)](https://www.legislation.gov.uk/nisr/2012/315), [arts. 1](https://www.legislation.gov.uk/nisr/2012/315/article/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2012/315/article/2/4/b) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/315/article/3))
 
-[^key-7317dc058625e7f9dd72d368a9ee5ad5]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2004/361/schedule/1/paragraph/5) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-7317dc058625e7f9dd72d368a9ee5ad5]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2004/361/schedule/1/paragraph/5) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-8a905311017169bf7a16ae2fc8ac0213]: Textual amendment: Word in [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2004/361/schedule/1/paragraph/5) substituted (1.9.2012) by [The Brucellosis Control (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/315)](https://www.legislation.gov.uk/nisr/2012/315), [arts. 1](https://www.legislation.gov.uk/nisr/2012/315/article/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2012/315/article/2/4/c) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/315/article/3))
+[^c-8a905311017169bf7a16ae2fc8ac0213]: Textual amendment: Word in [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2004/361/schedule/1/paragraph/5) substituted (1.9.2012) by [The Brucellosis Control (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/315)](https://www.legislation.gov.uk/nisr/2012/315), [arts. 1](https://www.legislation.gov.uk/nisr/2012/315/article/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2012/315/article/2/4/c) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/315/article/3))
 
-[^key-f7ee1f81b3891d0b37e877234b8f22ca]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2004/361/schedule/1/paragraph/6) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-f7ee1f81b3891d0b37e877234b8f22ca]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2004/361/schedule/1/paragraph/6) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-41191983ff9163b4f701f3db607d3d58]: Textual amendment: Words in [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2004/361/schedule/1/paragraph/6) substituted (1.9.2012) by [The Brucellosis Control (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/315)](https://www.legislation.gov.uk/nisr/2012/315), [arts. 1](https://www.legislation.gov.uk/nisr/2012/315/article/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2012/315/article/2/4/c) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/315/article/3))
+[^c-41191983ff9163b4f701f3db607d3d58]: Textual amendment: Words in [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2004/361/schedule/1/paragraph/6) substituted (1.9.2012) by [The Brucellosis Control (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/315)](https://www.legislation.gov.uk/nisr/2012/315), [arts. 1](https://www.legislation.gov.uk/nisr/2012/315/article/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2012/315/article/2/4/c) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/315/article/3))
 
-[^key-c8b72a881a21404e54a3c83c013b5b39]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2004/361/schedule/1/paragraph/7) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-c8b72a881a21404e54a3c83c013b5b39]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2004/361/schedule/1/paragraph/7) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
 
-[^key-87a66d2c0195ea4185210c7a37816b1b]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2004/361/schedule/1/paragraph/7) substituted (1.9.2012) by [The Brucellosis Control (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/315)](https://www.legislation.gov.uk/nisr/2012/315), [arts. 1](https://www.legislation.gov.uk/nisr/2012/315/article/1), [2(4)(d)](https://www.legislation.gov.uk/nisr/2012/315/article/2/4/d) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/315/article/3))
+[^c-87a66d2c0195ea4185210c7a37816b1b]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2004/361/schedule/1/paragraph/7) substituted (1.9.2012) by [The Brucellosis Control (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/315)](https://www.legislation.gov.uk/nisr/2012/315), [arts. 1](https://www.legislation.gov.uk/nisr/2012/315/article/1), [2(4)(d)](https://www.legislation.gov.uk/nisr/2012/315/article/2/4/d) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/315/article/3))
 
-[^key-c7cc63bfb4bbe0bbf9fe0fc65402d447]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2004/361/schedule/2) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)
+[^c-c7cc63bfb4bbe0bbf9fe0fc65402d447]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2004/361/schedule/2) in operation at 1.10.2004, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2004/361/article/1/2)

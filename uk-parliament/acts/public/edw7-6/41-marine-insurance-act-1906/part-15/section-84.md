@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Return for failure of consideration.[^key-582bd2fd1465100ce0332b3872ce78f1][^key-bb3a76efc1268ca534c7eb175054833e]
+## 84. Return for failure of consideration.[^c-582bd2fd1465100ce0332b3872ce78f1][^c-bb3a76efc1268ca534c7eb175054833e]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-582bd2fd1465100ce0332b3872ce78f1]: Modification: [S. 84](https://www.legislation.gov.uk/ukpga/Edw7/6/41/section/84) modified (6.4.2013) by [Consumer Insurance (Disclosure and Representations) Act 2012 (c. 6)](https://www.legislation.gov.uk/ukpga/2012/6), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2012/6/section/12/2), [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/17) (with [s. 12(4)](https://www.legislation.gov.uk/ukpga/2012/6/section/12/4)[(5)](https://www.legislation.gov.uk/ukpga/2012/6/section/12/5)); [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
+[^c-582bd2fd1465100ce0332b3872ce78f1]: Modification: [S. 84](https://www.legislation.gov.uk/ukpga/Edw7/6/41/section/84) modified (6.4.2013) by [Consumer Insurance (Disclosure and Representations) Act 2012 (c. 6)](https://www.legislation.gov.uk/ukpga/2012/6), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2012/6/section/12/2), [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2012/6/schedule/1/paragraph/17) (with [s. 12(4)](https://www.legislation.gov.uk/ukpga/2012/6/section/12/4)[(5)](https://www.legislation.gov.uk/ukpga/2012/6/section/12/5)); [S.I. 2013/450](https://www.legislation.gov.uk/uksi/2013/450), [art. 2](https://www.legislation.gov.uk/uksi/2013/450/article/2)
 
-[^key-bb3a76efc1268ca534c7eb175054833e]: Modification: [S. 84](https://www.legislation.gov.uk/ukpga/Edw7/6/41/section/84) modified (12.8.2016) by [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [s. 23(2)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/2), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2015/4/schedule/1/paragraph/12) (with [s. 22(2)](https://www.legislation.gov.uk/ukpga/2015/4/section/22/2))
+[^c-bb3a76efc1268ca534c7eb175054833e]: Modification: [S. 84](https://www.legislation.gov.uk/ukpga/Edw7/6/41/section/84) modified (12.8.2016) by [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [s. 23(2)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/2), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2015/4/schedule/1/paragraph/12) (with [s. 22(2)](https://www.legislation.gov.uk/ukpga/2015/4/section/22/2))

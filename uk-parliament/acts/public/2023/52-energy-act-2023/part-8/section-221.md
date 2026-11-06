@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 221. Heat networks regulations: other provision about procedure[^key-c07bee6687b4b1f1dcabb35740fdb878]
+## 221. Heat networks regulations: other provision about procedure[^c-c07bee6687b4b1f1dcabb35740fdb878]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c07bee6687b4b1f1dcabb35740fdb878]: Commencement: S. 221 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-c07bee6687b4b1f1dcabb35740fdb878]: Commencement: S. 221 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)

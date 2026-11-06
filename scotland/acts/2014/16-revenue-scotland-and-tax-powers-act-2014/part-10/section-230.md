@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 230. Power to modify section 229[^key-1a24ae2e807c45ce80c27c0727f00f42]
+## 230. Power to modify section 229[^c-1a24ae2e807c45ce80c27c0727f00f42]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ The Scottish Ministers may by order modify section 229(2) to provide for certain
 
 ## Annotations
 
-[^key-1a24ae2e807c45ce80c27c0727f00f42]: Commencement: [S. 230](https://www.legislation.gov.uk/asp/2014/16/section/230) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-1a24ae2e807c45ce80c27c0727f00f42]: Commencement: [S. 230](https://www.legislation.gov.uk/asp/2014/16/section/230) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

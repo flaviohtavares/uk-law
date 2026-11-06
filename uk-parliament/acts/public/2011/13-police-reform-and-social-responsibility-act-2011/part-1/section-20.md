@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Deputy Mayor for Policing and Crime: confirmation hearings[^key-a0fbe25d14c68f726076fe049a4c5174]
+## 20. Deputy Mayor for Policing and Crime: confirmation hearings[^c-a0fbe25d14c68f726076fe049a4c5174]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0fbe25d14c68f726076fe049a4c5174]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2011/13/section/20) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2011/3019/article/6))
+[^c-a0fbe25d14c68f726076fe049a4c5174]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2011/13/section/20) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2011/3019/article/6))

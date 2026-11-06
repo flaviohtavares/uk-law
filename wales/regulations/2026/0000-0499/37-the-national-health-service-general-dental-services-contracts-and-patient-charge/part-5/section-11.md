@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. NHS contracts[^key-e76a301a78d94bf38b078f39b4e7fd7d]
+## 11. NHS contracts[^c-e76a301a78d94bf38b078f39b4e7fd7d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In the case of a contractor who must be regarded as a health service body pursua
 
 ## Annotations
 
-[^key-e76a301a78d94bf38b078f39b4e7fd7d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2026/37/regulation/11) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-e76a301a78d94bf38b078f39b4e7fd7d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2026/37/regulation/11) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

@@ -26,7 +26,7 @@ summary: ''
 
 #### Overview of relief
 
-**1.**[^key-c7b90f399489964ff553b4075848d2a9] (1) This schedule makes provision for relief in the case of certain land transactions connected to alternative finance investment bonds.
+**1.**[^c-c7b90f399489964ff553b4075848d2a9] (1) This schedule makes provision for relief in the case of certain land transactions connected to alternative finance investment bonds.
 
 (2) It is arranged as follows—
 
@@ -37,11 +37,11 @@ summary: ''
 
 #### Meaning of “alternative finance investment bond”
 
-**2.**[^key-188c2e14e267097d260e7cf6b857a7e8] In this schedule, “**alternative finance investment bond**” means arrangements to which section 564G of the Income Tax Act 2007 (c.3) (investment bond arrangements) applies.
+**2.**[^c-188c2e14e267097d260e7cf6b857a7e8] In this schedule, “**alternative finance investment bond**” means arrangements to which section 564G of the Income Tax Act 2007 (c.3) (investment bond arrangements) applies.
 
 #### Interpretation
 
-**3.**[^key-82b8c35f5d6d8df31f30dc67b12e3290] In this schedule—
+**3.**[^c-82b8c35f5d6d8df31f30dc67b12e3290] In this schedule—
 
 - “bond assets”, “bond-holder”, “bond-issuer” and “capital” have the meaning given by section 564G of the Income Tax Act 2007 (c.3),
 - “**prescribed**” means prescribed in regulations made by the Scottish Ministers,
@@ -51,14 +51,14 @@ summary: ''
 
 #### The relief
 
-**4.**[^key-ff1e80b82b68caa7ed256313d10a9590] For the purposes of this Act—
+**4.**[^c-ff1e80b82b68caa7ed256313d10a9590] For the purposes of this Act—
 
 - (a) the bond-holder under an alternative finance investment bond is not treated as having an interest in the bond assets,
 - (b) the bond-issuer under such a bond is not treated as a trustee of the bond assets.
 
 #### Relief not available where bond-holder acquires control of underlying asset
 
-**5.**[^key-c5efb14dcf7e3b13923b12fc3cb07369] (1) Paragraph 4 does not apply if control of the underlying asset is acquired by—
+**5.**[^c-c5efb14dcf7e3b13923b12fc3cb07369] (1) Paragraph 4 does not apply if control of the underlying asset is acquired by—
 
 - (a) a bond-holder, or
 - (b) a group of connected bond-holders.
@@ -68,7 +68,7 @@ summary: ''
 - (a) the rights of bond-holders under an alternative finance investment bond include the right of management and control of the bond assets, and
 - (b) BH, or the group, acquires sufficient rights to enable BH, or the members of the group acting jointly, to exercise the right of management and control of the bond assets to the exclusion of any other bond-holders.
 
-**6.**[^key-3204541bdf46529ad937728b6a6f4416] (1) But paragraph 5(1) does not apply (and accordingly, section 564S of the Income Tax Act 2007 applies by virtue of paragraph 4) in either of the following cases.
+**6.**[^c-3204541bdf46529ad937728b6a6f4416] (1) But paragraph 5(1) does not apply (and accordingly, section 564S of the Income Tax Act 2007 applies by virtue of paragraph 4) in either of the following cases.
 
 (2) The first case is where—
 
@@ -86,25 +86,25 @@ summary: ''
 
 #### Introduction
 
-**7.**[^key-bb374ccc330a2474a97b5059ce81483d] This Part of this schedule defines conditions A to G for the purposes of paragraphs 15 to 21.
+**7.**[^c-bb374ccc330a2474a97b5059ce81483d] This Part of this schedule defines conditions A to G for the purposes of paragraphs 15 to 21.
 
 #### Condition A
 
-**8.**[^key-d5aa2c200a639e266560cc7338720da6] Condition A is that one person (P) and another (Q) enter into arrangements under which—
+**8.**[^c-d5aa2c200a639e266560cc7338720da6] Condition A is that one person (P) and another (Q) enter into arrangements under which—
 
 - (a) P transfers to Q a qualifying interest in land (“the first transaction”), and
 - (b) P and Q agree that when the interest ceases to be held by Q as mentioned in paragraph 9(b), Q will transfer the interest to P.
 
 #### Condition B
 
-**9.**[^key-ba3fa20cb9c02c57ccfe835daab772cd] Condition B is that—
+**9.**[^c-ba3fa20cb9c02c57ccfe835daab772cd] Condition B is that—
 
 - (a) Q, as bond-issuer, enters into an alternative finance investment bond (whether before or after entering into the arrangements mentioned in paragraph 8), and
 - (b) the interest in land to which those arrangements relate is held by Q as a bond asset.
 
 #### Condition C
 
-**10.**[^key-f0c2d73af5da14d341148c35e45d09ad] (1) Condition C is that, for the purpose of generating income or gains for the alternative finance investment bond—
+**10.**[^c-f0c2d73af5da14d341148c35e45d09ad] (1) Condition C is that, for the purpose of generating income or gains for the alternative finance investment bond—
 
 - (a) Q and P enter into a leaseback agreement, or
 - (b) such other condition or conditions as may be specified in regulations made by the Scottish Ministers is or are met.
@@ -116,7 +116,7 @@ summary: ''
 
 #### Condition D
 
-**11.**[^key-c6ee4fe31f15352d30a5417ebc5dc0bc] (1) Condition D is that, before the end of the period of 120 days beginning with the effective date of the first transaction, Q provides the Tax Authority with the prescribed evidence that a satisfactory standard security has been registered in the Land Register of Scotland.
+**11.**[^c-c6ee4fe31f15352d30a5417ebc5dc0bc] (1) Condition D is that, before the end of the period of 120 days beginning with the effective date of the first transaction, Q provides the Tax Authority with the prescribed evidence that a satisfactory standard security has been registered in the Land Register of Scotland.
 
 (2) A security is satisfactory for the purposes of condition D if it—
 
@@ -131,15 +131,15 @@ summary: ''
 
 #### Condition E
 
-**12.**[^key-f29bb404de191ef87f51a14298ef8319] Condition E is that the total of the payments of capital made to Q before the termination of the bond is not less than 60% of the value of the interest in the land at the time of the first transaction.
+**12.**[^c-f29bb404de191ef87f51a14298ef8319] Condition E is that the total of the payments of capital made to Q before the termination of the bond is not less than 60% of the value of the interest in the land at the time of the first transaction.
 
 #### Condition F
 
-**13.**[^key-8edb65823e7d75fbb7528c18788ce3c7] Condition F is that Q holds the interest in land as a bond asset until the termination of the bond.
+**13.**[^c-8edb65823e7d75fbb7528c18788ce3c7] Condition F is that Q holds the interest in land as a bond asset until the termination of the bond.
 
 #### Condition G
 
-**14.**[^key-c87d3fba8623a82d6113cc9781d4c3aa] (1) Condition G is that—
+**14.**[^c-c87d3fba8623a82d6113cc9781d4c3aa] (1) Condition G is that—
 
 - (a) before the end of the period of 30 days beginning with the date on which the interest in the land ceases to be held as a bond asset, that interest is transferred by Q to P (“the second transaction”), and
 - (b) the second transaction is effected not more than 10 years after the first transaction.
@@ -150,7 +150,7 @@ summary: ''
 
 #### The relief: first transaction
 
-**15.**[^key-2e1af21cda34b59af2f6e1f08df31932] (1) The first transaction is exempt from charge if—
+**15.**[^c-2e1af21cda34b59af2f6e1f08df31932] (1) The first transaction is exempt from charge if—
 
 - (a) it relates to an interest in land in Scotland, and
 - (b) each of the conditions A to C is met before the end of the period of 30 days beginning with the effective date of the transaction.
@@ -162,7 +162,7 @@ summary: ''
 
 #### Withdrawal of relief
 
-**16.**[^key-d12f2bef8100ebd953449f9411816e05] (1) Relief under paragraph 15 is withdrawn if—
+**16.**[^c-d12f2bef8100ebd953449f9411816e05] (1) Relief under paragraph 15 is withdrawn if—
 
 - (a) the interest in the land is transferred by Q to P without conditions E and F having been met,
 - (b) the period mentioned in paragraph 14(1)(b) expires without each of those conditions having been met, or
@@ -172,16 +172,16 @@ summary: ''
 
 #### Amount of tax chargeable where relief withdrawn
 
-**17.**[^key-6d8e6b9c544455a6ad50a2fbc7679198] Where relief is withdrawn, the amount of tax chargeable is determined in accordance with paragraph 18.
+**17.**[^c-6d8e6b9c544455a6ad50a2fbc7679198] Where relief is withdrawn, the amount of tax chargeable is determined in accordance with paragraph 18.
 
-**18.**[^key-7493614cba568265591e209a78963c45] The amount chargeable is the tax that would have been chargeable in respect of the first transaction (but for the relief under paragraph 15) if the chargeable consideration for that transaction had been an amount equal to—
+**18.**[^c-7493614cba568265591e209a78963c45] The amount chargeable is the tax that would have been chargeable in respect of the first transaction (but for the relief under paragraph 15) if the chargeable consideration for that transaction had been an amount equal to—
 
 - (a) the market value of the subject-matter of the transaction, or
 - (b) if the acquisition was the grant of a lease, the rent.
 
 #### Relief from land and buildings transaction tax: second transaction
 
-**19.**[^key-6bccbf4c17aaf8820f3bf65986981d00] (1) The second transaction is exempt from charge if—
+**19.**[^c-6bccbf4c17aaf8820f3bf65986981d00] (1) The second transaction is exempt from charge if—
 
 - (a) each of conditions A to G is met, and
 - (b) the provisions of this Act in relation to the first transaction are complied with.
@@ -193,13 +193,13 @@ summary: ''
 
 #### Discharge of security when conditions for relief met
 
-**20.**[^key-d1bf75db95a4e5b5c0f580a4bbf9d3f9] If, after the effective date of the second transaction, Q provides the Tax Authority with the prescribed evidence that each of conditions A to C and E to G has been met, the land ceases to be subject to the security registered in pursuance of condition D.
+**20.**[^c-d1bf75db95a4e5b5c0f580a4bbf9d3f9] If, after the effective date of the second transaction, Q provides the Tax Authority with the prescribed evidence that each of conditions A to C and E to G has been met, the land ceases to be subject to the security registered in pursuance of condition D.
 
 ### PART 5 — Supplementary
 
 #### Substitution of asset
 
-**21.**[^key-6a9fef5e9a7baa962e607f6ddf97cd4e] (1) This paragraphs applies if—
+**21.**[^c-6a9fef5e9a7baa962e607f6ddf97cd4e] (1) This paragraphs applies if—
 
 - (a) conditions A to C and G are met in relation to an interest in land (“the original land”),
 - (b) Q ceases to hold the original land as a bond asset (and, accordingly, transfers it to P) before the termination of the alternative finance investment bond,
@@ -228,7 +228,7 @@ summary: ''
 - (a) condition G is met in relation to the original land, and
 - (b) each of conditions A to C is met in relation to the replacement land.
 
-**22.**[^key-359196ec8965b3f57444b59a93a37278] (1) Paragraph 21 also applies where the replacement land is replaced by further replacement land.
+**22.**[^c-359196ec8965b3f57444b59a93a37278] (1) Paragraph 21 also applies where the replacement land is replaced by further replacement land.
 
 (2) In that event—
 
@@ -237,13 +237,13 @@ summary: ''
 
 #### Tax Authority to register discharge of security
 
-**23.**[^key-5758a2b7c0568fb487c087c506b3c20c] (1) Where a security is discharged in accordance with paragraph 20 or 21(5) or (6), the Tax Authority must register the discharge in the Land Register of Scotland.
+**23.**[^c-5758a2b7c0568fb487c087c506b3c20c] (1) Where a security is discharged in accordance with paragraph 20 or 21(5) or (6), the Tax Authority must register the discharge in the Land Register of Scotland.
 
 (2) The Tax Authority must do so within the period of 30 days beginning with the date on which Q provides the evidence in question.
 
 #### Relief not available where bond-holder acquires control of underlying asset
 
-**24.**[^key-d5555fe5a3d93af5ffe44b82d0dfdeef] (1) The reliefs provided by paragraphs 15 and 19 (and paragraph 21 so far as it relates to those paragraphs) are not available if control of the underlying asset is acquired by—
+**24.**[^c-d5555fe5a3d93af5ffe44b82d0dfdeef] (1) The reliefs provided by paragraphs 15 and 19 (and paragraph 21 so far as it relates to those paragraphs) are not available if control of the underlying asset is acquired by—
 
 - (a) a bond-holder, or
 - (b) a group of connected bond-holders.
@@ -258,7 +258,7 @@ summary: ''
 - (a) if BH, or the group, acquires control of the underlying asset before the end of the period of 30 days beginning with the effective date of the first transaction, paragraph 15 does not apply, and
 - (b) if BH, or the group, acquires control of the underlying asset after the end of that period and conditions A to C have been met, the relief is treated as withdrawn under paragraph 16.
 
-**25.**[^key-b7e9e653c3b61767faa39018bc7ac69d] (1) But paragraph 24 does not prevent the reliefs being available in either of the following cases.
+**25.**[^c-b7e9e653c3b61767faa39018bc7ac69d] (1) But paragraph 24 does not prevent the reliefs being available in either of the following cases.
 
 (2) The first case is where—
 
@@ -274,61 +274,61 @@ summary: ''
 
 #### Relief not available if purpose of arrangements is improper
 
-**26.**[^key-9a09c7a0c32d2d9da25b09a53f4a0987] The reliefs provided by paragraph 15 and 19 (and paragraph 21 so far as it relates to those paragraphs) are not available if the arrangements mentioned in paragraph 8—
+**26.**[^c-9a09c7a0c32d2d9da25b09a53f4a0987] The reliefs provided by paragraph 15 and 19 (and paragraph 21 so far as it relates to those paragraphs) are not available if the arrangements mentioned in paragraph 8—
 
 - (a) are not effected for genuine commercial reasons, or
 - (b) form part of arrangements of which the main purpose, or one of the main purposes, is the avoidance of liability to the tax.
 
 ## Annotations
 
-[^key-c7b90f399489964ff553b4075848d2a9]: Commencement: Sch. 8 para. 1 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-c7b90f399489964ff553b4075848d2a9]: Commencement: Sch. 8 para. 1 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-188c2e14e267097d260e7cf6b857a7e8]: Commencement: Sch. 8 para. 2 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-188c2e14e267097d260e7cf6b857a7e8]: Commencement: Sch. 8 para. 2 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-82b8c35f5d6d8df31f30dc67b12e3290]: Commencement: Sch. 8 para. 3 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-82b8c35f5d6d8df31f30dc67b12e3290]: Commencement: Sch. 8 para. 3 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-ff1e80b82b68caa7ed256313d10a9590]: Commencement: Sch. 8 para. 4 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-ff1e80b82b68caa7ed256313d10a9590]: Commencement: Sch. 8 para. 4 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-c5efb14dcf7e3b13923b12fc3cb07369]: Commencement: Sch. 8 para. 5 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-c5efb14dcf7e3b13923b12fc3cb07369]: Commencement: Sch. 8 para. 5 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-3204541bdf46529ad937728b6a6f4416]: Commencement: Sch. 8 para. 6 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-3204541bdf46529ad937728b6a6f4416]: Commencement: Sch. 8 para. 6 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-bb374ccc330a2474a97b5059ce81483d]: Commencement: Sch. 8 para. 7 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-bb374ccc330a2474a97b5059ce81483d]: Commencement: Sch. 8 para. 7 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-d5aa2c200a639e266560cc7338720da6]: Commencement: Sch. 8 para. 8 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-d5aa2c200a639e266560cc7338720da6]: Commencement: Sch. 8 para. 8 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-ba3fa20cb9c02c57ccfe835daab772cd]: Commencement: Sch. 8 para. 9 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-ba3fa20cb9c02c57ccfe835daab772cd]: Commencement: Sch. 8 para. 9 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-f0c2d73af5da14d341148c35e45d09ad]: Commencement: Sch. 8 para. 10 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-f0c2d73af5da14d341148c35e45d09ad]: Commencement: Sch. 8 para. 10 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-c6ee4fe31f15352d30a5417ebc5dc0bc]: Commencement: Sch. 8 para. 11 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-c6ee4fe31f15352d30a5417ebc5dc0bc]: Commencement: Sch. 8 para. 11 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-f29bb404de191ef87f51a14298ef8319]: Commencement: Sch. 8 para. 12 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-f29bb404de191ef87f51a14298ef8319]: Commencement: Sch. 8 para. 12 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-8edb65823e7d75fbb7528c18788ce3c7]: Commencement: Sch. 8 para. 13 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-8edb65823e7d75fbb7528c18788ce3c7]: Commencement: Sch. 8 para. 13 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-c87d3fba8623a82d6113cc9781d4c3aa]: Commencement: Sch. 8 para. 14 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-c87d3fba8623a82d6113cc9781d4c3aa]: Commencement: Sch. 8 para. 14 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-2e1af21cda34b59af2f6e1f08df31932]: Commencement: Sch. 8 para. 15 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-2e1af21cda34b59af2f6e1f08df31932]: Commencement: Sch. 8 para. 15 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-d12f2bef8100ebd953449f9411816e05]: Commencement: Sch. 8 para. 16 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-d12f2bef8100ebd953449f9411816e05]: Commencement: Sch. 8 para. 16 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-6d8e6b9c544455a6ad50a2fbc7679198]: Commencement: Sch. 8 para. 17 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-6d8e6b9c544455a6ad50a2fbc7679198]: Commencement: Sch. 8 para. 17 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-7493614cba568265591e209a78963c45]: Commencement: Sch. 8 para. 18 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-7493614cba568265591e209a78963c45]: Commencement: Sch. 8 para. 18 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-6bccbf4c17aaf8820f3bf65986981d00]: Commencement: Sch. 8 para. 19 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-6bccbf4c17aaf8820f3bf65986981d00]: Commencement: Sch. 8 para. 19 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-d1bf75db95a4e5b5c0f580a4bbf9d3f9]: Commencement: Sch. 8 para. 20 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-d1bf75db95a4e5b5c0f580a4bbf9d3f9]: Commencement: Sch. 8 para. 20 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-6a9fef5e9a7baa962e607f6ddf97cd4e]: Commencement: Sch. 8 para. 21 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-6a9fef5e9a7baa962e607f6ddf97cd4e]: Commencement: Sch. 8 para. 21 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-359196ec8965b3f57444b59a93a37278]: Commencement: Sch. 8 para. 22 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-359196ec8965b3f57444b59a93a37278]: Commencement: Sch. 8 para. 22 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-5758a2b7c0568fb487c087c506b3c20c]: Commencement: Sch. 8 para. 23 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-5758a2b7c0568fb487c087c506b3c20c]: Commencement: Sch. 8 para. 23 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-d5555fe5a3d93af5ffe44b82d0dfdeef]: Commencement: Sch. 8 para. 24 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-d5555fe5a3d93af5ffe44b82d0dfdeef]: Commencement: Sch. 8 para. 24 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-b7e9e653c3b61767faa39018bc7ac69d]: Commencement: Sch. 8 para. 25 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-b7e9e653c3b61767faa39018bc7ac69d]: Commencement: Sch. 8 para. 25 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-9a09c7a0c32d2d9da25b09a53f4a0987]: Commencement: Sch. 8 para. 26 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-9a09c7a0c32d2d9da25b09a53f4a0987]: Commencement: Sch. 8 para. 26 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

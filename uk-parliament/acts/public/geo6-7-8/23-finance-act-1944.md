@@ -53,27 +53,27 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 
 ## 19–31. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6375981]
 
-## PART V — EXCESS PROFITS TAX[^key-2174da09f467716b2c76472e70fa9ef4]
+## PART V — EXCESS PROFITS TAX[^c-2174da09f467716b2c76472e70fa9ef4]
 
-### 32. Increase of standard profits in certain cases.[^key-2174da09f467716b2c76472e70fa9ef4][^key-2174da09f467716b2c76472e70fa9ef4]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 33. Tax avoidance.[^key-2174da09f467716b2c76472e70fa9ef4][^key-2174da09f467716b2c76472e70fa9ef4]
+### 32. Increase of standard profits in certain cases.[^c-2174da09f467716b2c76472e70fa9ef4][^c-2174da09f467716b2c76472e70fa9ef4]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 34. Amendment of s.21 of Finance Act, 1943.[^key-2174da09f467716b2c76472e70fa9ef4][^key-2174da09f467716b2c76472e70fa9ef4]
+### 33. Tax avoidance.[^c-2174da09f467716b2c76472e70fa9ef4][^c-2174da09f467716b2c76472e70fa9ef4]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 35–41. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-2174da09f467716b2c76472e70fa9ef4][^key-2174da09f467716b2c76472e70fa9ef4]
+### 34. Amendment of s.21 of Finance Act, 1943.[^c-2174da09f467716b2c76472e70fa9ef4][^c-2174da09f467716b2c76472e70fa9ef4]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 35–41. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-2174da09f467716b2c76472e70fa9ef4][^c-2174da09f467716b2c76472e70fa9ef4]
 
 **May not be in force at this date. Check the source.**
 
@@ -87,11 +87,11 @@ The provisions of the Fourth Schedule to this Act shall have effect in relation 
 
 ### 44. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6376081]
 
-### 45. Exemption of certain assignments by seamen from stamp duty.[^key-4237304a830374c9e4e9b8b069919942]
+### 45. Exemption of certain assignments by seamen from stamp duty.[^c-4237304a830374c9e4e9b8b069919942]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 46. Extension of Barracks Act 1890 s. 11.[^key-aea853307b6857e9b5d67827cd3c0285]
+### 46. Extension of Barracks Act 1890 s. 11.[^c-aea853307b6857e9b5d67827cd3c0285]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -109,7 +109,7 @@ The provisions of the Fourth Schedule to this Act shall have effect in relation 
 
 (4)[^c6376151] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-e74bafafc1b4acfd86727b3400da2580][^c6376161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e74bafafc1b4acfd86727b3400da2580][^c6376161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6)[^c6376161][^c6376171] Part VI of this Act shall be construed as one with Part I of the [^c6376191] Finance Act, 1894.
 
@@ -274,7 +274,7 @@ and any reference in this Schedule to any money, property or income received by 
 
 [^c6375981]: Textual amendment: Pts. III and IV (ss. 19–31) repealed with saving by [Income Tax Act 1952 (c. 10)](https://www.legislation.gov.uk/ukpga/1952/10), s, 527, Sch. 25
 
-[^key-2174da09f467716b2c76472e70fa9ef4]: Textual amendment: [Pt. V](https://www.legislation.gov.uk/ukpga/Geo6/7-8/23/part/V) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
+[^c-2174da09f467716b2c76472e70fa9ef4]: Textual amendment: [Pt. V](https://www.legislation.gov.uk/ukpga/Geo6/7-8/23/part/V) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
 
 [^c6376061]: Textual amendment: Words repealed in relation to deaths occurring after 13.4.1975 and, so far as regards the duties referred to in s. 52(2)(*b*) of the repealing Act, in relation to any death, by [Finance Act 1975 (c.7, SIF 99:3)](https://www.legislation.gov.uk/ukpga/1975/7), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/1975/7/section/52/2), [59](https://www.legislation.gov.uk/ukpga/1975/7/section/59), [Sch. 13 Pt. I](https://www.legislation.gov.uk/ukpga/1975/7/schedule/13/part/I) note (with a saving in s. 52(3) in relation to repayment or allowance in respect of sums paid before 13.3.1975 on account of the said duties)
 
@@ -282,9 +282,9 @@ and any reference in this Schedule to any money, property or income received by 
 
 [^c6376081]: Textual amendment: S. 44 repealed by [Finance Act 1963 (c. 25)](https://www.legislation.gov.uk/ukpga/1963/25) ss. 59(5), 73(8)(*b*), Sch. 14 Pt. IV
 
-[^key-4237304a830374c9e4e9b8b069919942]: Textual amendment: [S. 45](https://www.legislation.gov.uk/ukpga/Geo6/7-8/23/section/45) repealed (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 26 para. 5](https://www.legislation.gov.uk/ukpga/2011/11/schedule/26/paragraph/5)
+[^c-4237304a830374c9e4e9b8b069919942]: Textual amendment: [S. 45](https://www.legislation.gov.uk/ukpga/Geo6/7-8/23/section/45) repealed (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 26 para. 5](https://www.legislation.gov.uk/ukpga/2011/11/schedule/26/paragraph/5)
 
-[^key-aea853307b6857e9b5d67827cd3c0285]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/Geo6/7-8/23/section/46) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
+[^c-aea853307b6857e9b5d67827cd3c0285]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/Geo6/7-8/23/section/46) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
 
 [^c6376101]: Textual amendment: S. 47 repealed by [National Loans Act 1968 (c. 13)](https://www.legislation.gov.uk/ukpga/1968/13), [s. 24(2)](https://www.legislation.gov.uk/ukpga/1968/13/section/24/2), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/ukpga/1968/13/schedule/6/part/1)
 
@@ -298,7 +298,7 @@ and any reference in this Schedule to any money, property or income received by 
 
 [^c6376151]: Textual amendment: S. 49(4) repealed by [Statute Law Revision Act 1953 (2 & 3 Eliz. 2 c. 5)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/5)
 
-[^key-e74bafafc1b4acfd86727b3400da2580]: Textual amendment: S. 49(5) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
+[^c-e74bafafc1b4acfd86727b3400da2580]: Textual amendment: S. 49(5) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
 
 [^c6376161]: Editorial: The text of s. 49(5)(6) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

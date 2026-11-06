@@ -43,9 +43,9 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(1)
 
-The Secretary of State makes these Regulations in exercise of the powers conferred by sections 26(4) and 125(7) of the Care Act 2014[^f00001].[^key-39e8b90795d4ad732a7de3fe98321457]
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 26(4) and 125(7) of the Care Act 2014[^f00001].[^c-39e8b90795d4ad732a7de3fe98321457]
 
-## 1. Citation, interpretation and commencement[^key-38b88cabca40b096dc8832efa45f07d8]
+## 1. Citation, interpretation and commencement[^c-38b88cabca40b096dc8832efa45f07d8]
 
 (1) These Regulations may be cited as the Care and Support (Personal Budget: Exclusion of Costs) Regulations 2014 and come into force immediately after section 26(4) of the Care Act comes fully into force.
 
@@ -57,7 +57,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
   - (b) is for a specified period of time; and
   - (c) has as its purpose the provision of assistance to an adult to enable the adult to maintain or regain the ability needed to live independently in their own home.
 
-## 2. Costs excluded from a personal budget[^key-5c87a89bdd159923f2e772acd82a6c0f]
+## 2. Costs excluded from a personal budget[^c-5c87a89bdd159923f2e772acd82a6c0f]
 
 (1) The costs to which paragraph (2) applies are costs which must be excluded from a personal budget[^f00003].
 
@@ -90,12 +90,12 @@ A separate impact assessment has not been prepared for these Regulations. These 
 
 [^f00001]: Footnote: [2014 c.23](https://www.legislation.gov.uk/ukpga/2014/23). The powers to make regulations are exercisable by the Secretary of State; *see* section 125(1) of the Act (“the Act”).
 
-[^key-39e8b90795d4ad732a7de3fe98321457]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2014/2840) applied (with modifications) (coming into force in accordance with reg. 1(1) of the amending S.I.) by [The Care and Support (Children’s Carers) Regulations 2015 (S.I. 2015/305)](https://www.legislation.gov.uk/uksi/2015/305), [regs. 2(3)(c)](https://www.legislation.gov.uk/uksi/2015/305/regulation/2/3/c), [14](https://www.legislation.gov.uk/uksi/2015/305/regulation/14)
+[^c-39e8b90795d4ad732a7de3fe98321457]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2014/2840) applied (with modifications) (coming into force in accordance with reg. 1(1) of the amending S.I.) by [The Care and Support (Children’s Carers) Regulations 2015 (S.I. 2015/305)](https://www.legislation.gov.uk/uksi/2015/305), [regs. 2(3)(c)](https://www.legislation.gov.uk/uksi/2015/305/regulation/2/3/c), [14](https://www.legislation.gov.uk/uksi/2015/305/regulation/14)
 
-[^key-38b88cabca40b096dc8832efa45f07d8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/2840/regulation/1) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2840/regulation/1/1)
+[^c-38b88cabca40b096dc8832efa45f07d8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/2840/regulation/1) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2840/regulation/1/1)
 
 [^f00002]: Footnote: *See* section 1(4) of the Act for the meaning of “local authority”; the definition is limited to local authorities in England.
 
-[^key-5c87a89bdd159923f2e772acd82a6c0f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/2840/regulation/2) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2840/regulation/1/1)
+[^c-5c87a89bdd159923f2e772acd82a6c0f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/2840/regulation/2) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2840/regulation/1/1)
 
 [^f00003]: Footnote: *See* section 26 of the Act for the meaning of “personal budget”.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Medical examination of medical practitioners[^key-b47a7b945f3bc146f6529ff440d538aa]
+## 29. Medical examination of medical practitioners[^c-b47a7b945f3bc146f6529ff440d538aa]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ the requirement shall, on 1st April 2004, unless the Board notifies him otherwis
 
 ## Annotations
 
-[^key-b47a7b945f3bc146f6529ff440d538aa]: Commencement: Art. 29 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-b47a7b945f3bc146f6529ff440d538aa]: Commencement: Art. 29 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

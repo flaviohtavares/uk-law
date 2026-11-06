@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Provision that may be contained in certain enforcement orders[^c17034541][^c17036571][^c17042321][^c19210361][^key-5e1c63a9ab4de1fccaa7bb64fd69665b][^key-0c9c45ad9965a1b111b13d422844e9da][^key-76783f1c4822d8d95a9ce696c31c11a6]
+## SCHEDULE 8 — Provision that may be contained in certain enforcement orders[^c17034541][^c17036571][^c17042321][^c19210361][^c-5e1c63a9ab4de1fccaa7bb64fd69665b][^c-0c9c45ad9965a1b111b13d422844e9da][^c-76783f1c4822d8d95a9ce696c31c11a6]
 
 *Extent: E+W+S+N.I.*
 
 Section 86(4)
 
-### 1. Introductory[^key-0c9c45ad9965a1b111b13d422844e9da]
+### 1. Introductory[^c-0c9c45ad9965a1b111b13d422844e9da]
 
-[^key-76783f1c4822d8d95a9ce696c31c11a6]
+[^c-76783f1c4822d8d95a9ce696c31c11a6]
 
 This Schedule applies in relation to such orders, and to such extent, as is provided by this Part and Part 4 and any other enactment; and references in this Schedule to an order shall be construed accordingly.
 
-### 2. General restrictions on conduct[^key-0c9c45ad9965a1b111b13d422844e9da]
+### 2. General restrictions on conduct[^c-0c9c45ad9965a1b111b13d422844e9da]
 
-[^key-76783f1c4822d8d95a9ce696c31c11a6]
+[^c-76783f1c4822d8d95a9ce696c31c11a6]
 
 (1) An order may—
 
@@ -81,13 +81,13 @@ an agreement so far as, if made, the agreement would relate, or (as the case may
 
 (2) No order shall be made by virtue of sub-paragraph (1) unless the relevant report in relation to the matter concerned identifies the prices charged for the goods or services as requiring remedial action.
 
-(3) In this paragraph “**the relevant report**” means the report of the CMA[^key-2fe92c35532187c1fd87480dad9099e8] which is required by the enactment concerned before an order can be made under this Schedule.
+(3) In this paragraph “**the relevant report**” means the report of the CMA[^c-2fe92c35532187c1fd87480dad9099e8] which is required by the enactment concerned before an order can be made under this Schedule.
 
 **9.** An order may prohibit the exercise of any right to vote exercisable by virtue of the holding of any shares, stock or securities.
 
-### 10. General obligations to be performed[^key-0c9c45ad9965a1b111b13d422844e9da]
+### 10. General obligations to be performed[^c-0c9c45ad9965a1b111b13d422844e9da]
 
-[^key-76783f1c4822d8d95a9ce696c31c11a6]
+[^c-76783f1c4822d8d95a9ce696c31c11a6]
 
 (1) An order may require a person to supply goods or services or to do anything which the relevant authority considers appropriate to facilitate the provision of goods or services.
 
@@ -95,9 +95,9 @@ an agreement so far as, if made, the agreement would relate, or (as the case may
 
 **11.** An order may require any activities to be carried on separately from any other activities.
 
-### 12. Acquisitions and divisions[^key-0c9c45ad9965a1b111b13d422844e9da]
+### 12. Acquisitions and divisions[^c-0c9c45ad9965a1b111b13d422844e9da]
 
-[^key-76783f1c4822d8d95a9ce696c31c11a6]
+[^c-76783f1c4822d8d95a9ce696c31c11a6]
 
 (1) An order may prohibit or restrict—
 
@@ -128,7 +128,7 @@ the persons concerned or any of them shall observe any prohibitions or restricti
 - (d) the adjustment of contracts (whether by discharge or reduction of any liability or obligation or otherwise);
 - (e) the creation, allotment, surrender or cancellation of any shares, stock or securities;
 - (f) the formation or winding up of any company or other body of persons corporate or unincorporate;
-- (g) the amendment of the articles[^key-64929682198450259917daf6617aa209] or other instruments regulating any such company or other body of persons;
+- (g) the amendment of the articles[^c-64929682198450259917daf6617aa209] or other instruments regulating any such company or other body of persons;
 - (h) the extent to which, and the circumstances in which, provisions of the order affecting a company or other body of persons corporate or unincorporate in its share capital, constitution or other matters may be altered by the company or other body of persons concerned;
 - (i) the registration of the order under any enactment by a company or other body of persons corporate or unincorporate which is affected by it as mentioned in paragraph (h);
 - (j) the continuation, with any necessary change of parties, of any legal proceedings;
@@ -137,23 +137,23 @@ the persons concerned or any of them shall observe any prohibitions or restricti
 
 **14.** The references in paragraph 13 to the division of a business as mentioned in sub-paragraph (1)(a) of that paragraph shall, in the case of an order under section 75, 83, 84, 160 or 161, or an order under paragraph 5, 10 or 11 of Schedule 7, be construed as including references to the separation, by the sale of any part of any undertaking or assets concerned or other means, of enterprises which are under common control (within the meaning of section 26) otherwise than by reason of their being enterprises of interconnected bodies corporate.
 
-### 15. Supply and publication of information[^key-580082078efc06484b5af384a46aec89][^key-0c9c45ad9965a1b111b13d422844e9da]
+### 15. Supply and publication of information[^c-580082078efc06484b5af384a46aec89][^c-0c9c45ad9965a1b111b13d422844e9da]
 
-[^key-76783f1c4822d8d95a9ce696c31c11a6]
+[^c-76783f1c4822d8d95a9ce696c31c11a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **16.** An order may prohibit any person from notifying (whether by publication or otherwise) to persons supplying goods or services prices recommended or suggested as appropriate to be charged by those persons for those goods or services.
 
-**17.** (1) An order may require a person supplying goods or services to publish or otherwise notify[^key-2efbb491c01eb629d5316ee956ddde10] —
+**17.** (1) An order may require a person supplying goods or services to publish or otherwise notify[^c-2efbb491c01eb629d5316ee956ddde10] —
 
 - (a) accounting information in relation to the supply of the goods or services;
 - (b) information in relation to the quantities of goods or services supplied;
 - (c) information in relation to the geographical areas in which they are supplied.
-- (d)[^key-c739ea6b85c549bea7ce8dfd90a959d6] information in relation to prices of the goods or services supplied;
+- (d)[^c-c739ea6b85c549bea7ce8dfd90a959d6] information in relation to prices of the goods or services supplied;
 - (e) such other information in relation to the goods or services supplied as the relevant authority considers appropriate.
 
-(1A)[^key-dd2478c6c28f08120fbdd6f0d4b76e65] An order may prohibit the publication or other notification of information falling within sub-paragraph (1)(a) to (e) by a person supplying goods or services.
+(1A)[^c-dd2478c6c28f08120fbdd6f0d4b76e65] An order may prohibit the publication or other notification of information falling within sub-paragraph (1)(a) to (e) by a person supplying goods or services.
 
 (2) In sub-paragraph (1) “**accounting information**”, in relation to a supply of goods or services, means information as to—
 
@@ -161,36 +161,36 @@ the persons concerned or any of them shall observe any prohibitions or restricti
 - (b) the manner in which fixed costs and overheads are calculated and apportioned for accounting purposes of the supplier; and
 - (c) the income attributable to the supply.
 
-**18.** An order made by virtue of paragraph [^key-654fa46b3db03e530f1193501b99ca69]... 17 may provide for the manner in which information is to be published or otherwise notified.
+**18.** An order made by virtue of paragraph [^c-654fa46b3db03e530f1193501b99ca69]... 17 may provide for the manner in which information is to be published or otherwise notified.
 
 **19.** An order may—
 
 - (a) require any person to supply information to the relevant authority;
-- (b) where the CMA[^key-72229d2b6466a497c130fada7ffc710d] is not the relevant authority, require any person to supply information to the CMA;
+- (b) where the CMA[^c-72229d2b6466a497c130fada7ffc710d] is not the relevant authority, require any person to supply information to the CMA;
 - (c) provide for the publication, by the person who has received information by virtue of paragraph (a) or (b), of that information.
 
-### 20. National security[^key-0c9c45ad9965a1b111b13d422844e9da]
+### 20. National security[^c-0c9c45ad9965a1b111b13d422844e9da]
 
-[^key-76783f1c4822d8d95a9ce696c31c11a6]
+[^c-76783f1c4822d8d95a9ce696c31c11a6]
 
-(1) An order may make such provision as the person making the order considers to be appropriate in the interests of national security [^key-c5a28c6aada8ed173da45ea963007606]... .
+(1) An order may make such provision as the person making the order considers to be appropriate in the interests of national security [^c-c5a28c6aada8ed173da45ea963007606]... .
 
 (2) Such provision may, in particular, include provision requiring a person to do, or not to do, particular things.
 
-### 20A. News media mergers[^c19211571][^key-0c9c45ad9965a1b111b13d422844e9da][^key-2b35c4f0788c5601956135d2601c668c]
+### 20A. News media mergers[^c19211571][^c-0c9c45ad9965a1b111b13d422844e9da][^c-2b35c4f0788c5601956135d2601c668c]
 
-[^key-76783f1c4822d8d95a9ce696c31c11a6]
+[^c-76783f1c4822d8d95a9ce696c31c11a6]
 
 (1) This paragraph applies in relation to any order—
 
 - (a) which is to be made following the giving of—
-  - (i) an intervention notice which mentions a news media[^key-0dcfb3efa942d507494f50f8427a441e] public interest consideration;
-  - (ii) an intervention notice which mentions any other media public interest consideration in relation to a relevant merger situation in which one of the enterprises ceasing to be distinct is a news media[^key-8f0b672a48b409ed4771e69018299aca] enterprise;
+  - (i) an intervention notice which mentions a news media[^c-0dcfb3efa942d507494f50f8427a441e] public interest consideration;
+  - (ii) an intervention notice which mentions any other media public interest consideration in relation to a relevant merger situation in which one of the enterprises ceasing to be distinct is a news media[^c-8f0b672a48b409ed4771e69018299aca] enterprise;
   - (iii) a special intervention notice which mentions a consideration specified in section 58(2A) or (2B); or
-  - (iv) a special intervention notice which, in relation to a special merger situation in which one of the enterprises ceasing to be distinct is a news media[^key-b5b5d5f83d14b696f0a43c9ad1c72a60] enterprise, mentions a consideration specified in section 58(2C); and
+  - (iv) a special intervention notice which, in relation to a special merger situation in which one of the enterprises ceasing to be distinct is a news media[^c-b5b5d5f83d14b696f0a43c9ad1c72a60] enterprise, mentions a consideration specified in section 58(2C); and
 - (b) to which the consideration concerned is still relevant.
 
-(1A)[^key-beaf63c33e9930c438dc5c54e5a3d084] This paragraph also applies in relation to an order under section 70C(2) (order to prevent foreign control of a newspaper enterprise).
+(1A)[^c-beaf63c33e9930c438dc5c54e5a3d084] This paragraph also applies in relation to an order under section 70C(2) (order to prevent foreign control of a newspaper enterprise).
 
 (2) The order may make such provision as the person making the order considers to be appropriate in all circumstances of the case.
 
@@ -200,24 +200,24 @@ the persons concerned or any of them shall observe any prohibitions or restricti
 
 - (a) altering the constitution of a body corporate (whether in connection with the appointment of directors, the establishment of an editorial board or otherwise);
 - (b) requiring the agreement of the relevant authority or another person before the taking of particular action (including the appointment or dismissal of an editor, journalists or directors or acting as a shadow director);
-- (c) attaching conditions to the operation of a news media enterprise[^key-ed90b10ae49a2aac93b73465f89162a9];
+- (c) attaching conditions to the operation of a news media enterprise[^c-ed90b10ae49a2aac93b73465f89162a9];
 - (d) prohibiting consultation or co-operation between subsidiaries.
 
-(5) In this paragraph “**news media[^key-77b744bfaa7ed842a2da621ed465927d] public interest consideration**” means a media public interest consideration other than one which is such a consideration—
+(5) In this paragraph “**news media[^c-77b744bfaa7ed842a2da621ed465927d] public interest consideration**” means a media public interest consideration other than one which is such a consideration—
 
 - (a) by virtue of section 58(2C); or
-- (b) by virtue of having been, in the opinion of the Secretary of State, concerned with broadcasting (other than the broadcasting of news programmes)[^key-9b7387962097ea07279d3874b187f816] and a consideration that ought to have been specified in section 58.
+- (b) by virtue of having been, in the opinion of the Secretary of State, concerned with broadcasting (other than the broadcasting of news programmes)[^c-9b7387962097ea07279d3874b187f816] and a consideration that ought to have been specified in section 58.
 
-(5A)[^key-e61656e533bfe43b1f79b827c2a32ca2] In this paragraph, “**news media enterprise**” means—
+(5A)[^c-e61656e533bfe43b1f79b827c2a32ca2] In this paragraph, “**news media enterprise**” means—
 
 - (a) a newspaper enterprise; or
 - (b) an enterprise consisting in or involving the broadcasting of news programmes.
 
 (6) This paragraph is without prejudice to the operation of the other paragraphs of this Schedule in relation to the order concerned.
 
-### 20B. Maintaining the stability of the UK financial system[^key-a0e974f855357e71413d0f32e5790865][^key-0c9c45ad9965a1b111b13d422844e9da]
+### 20B. Maintaining the stability of the UK financial system[^c-a0e974f855357e71413d0f32e5790865][^c-0c9c45ad9965a1b111b13d422844e9da]
 
-[^key-76783f1c4822d8d95a9ce696c31c11a6]
+[^c-76783f1c4822d8d95a9ce696c31c11a6]
 
 (1) This paragraph applies for the purposes of a relevant order under paragraph 5, 10 or 11 of Schedule 7 (enforcement orders in cases relating to the stability of the UK financial system) but not for any other purposes of Part 3 or 4 or any other enactment.
 
@@ -232,9 +232,9 @@ the persons concerned or any of them shall observe any prohibitions or restricti
 - (a) which is to be made following the giving of an intervention notice or special intervention notice which mentions the consideration specified in section 58(2D) (including, in the case of a notice given before the consideration was so specified, an intervention notice which mentions the consideration as a consideration which ought to be specified in section 58); and
 - (b) to which the consideration is still relevant.
 
-### 20BA. Maintaining the capability to combat etc public health emergencies[^key-73ed99156de174026ad2ca2f50637a7c][^key-0c9c45ad9965a1b111b13d422844e9da]
+### 20BA. Maintaining the capability to combat etc public health emergencies[^c-73ed99156de174026ad2ca2f50637a7c][^c-0c9c45ad9965a1b111b13d422844e9da]
 
-[^key-76783f1c4822d8d95a9ce696c31c11a6]
+[^c-76783f1c4822d8d95a9ce696c31c11a6]
 
 (1) This paragraph applies for the purposes of a relevant order under paragraph 5, 10 or 11 of Schedule 7 (enforcement orders in cases relating to maintaining the capability to combat etc public health emergencies) but not for any other purposes of this Part or Part 4 or any other enactment.
 
@@ -249,7 +249,7 @@ the persons concerned or any of them shall observe any prohibitions or restricti
 - (a) which is to be made following the giving of an intervention notice or special intervention notice which mentions the consideration specified in section 58(2E); and
 - (b) to which the consideration is still relevant.
 
-### 20BB. Maintaining the continuity of the supply of telecommunications services[^key-36de9e895a615aecaf07922d0ac3175f]
+### 20BB. Maintaining the continuity of the supply of telecommunications services[^c-36de9e895a615aecaf07922d0ac3175f]
 
 (1) This paragraph applies for the purposes of a relevant order under paragraph 5, 10 or 11 of Schedule 7 (enforcement orders in cases relating to maintaining the continuity of the supply of telecommunications services etc) but not for any other purposes of this Part or Part 4 or any other enactment.
 
@@ -264,9 +264,9 @@ the persons concerned or any of them shall observe any prohibitions or restricti
 - (a) which is to be made following the giving of an intervention notice or special intervention notice which mentions the consideration specified in section 58(2EA); and
 - (b) to which the consideration is still relevant.
 
-### 20C. Monitoring of compliance and determination of disputes[^key-cd4ae055d744399330ed643f0ebff71a][^key-0c9c45ad9965a1b111b13d422844e9da]
+### 20C. Monitoring of compliance and determination of disputes[^c-cd4ae055d744399330ed643f0ebff71a][^c-0c9c45ad9965a1b111b13d422844e9da]
 
-[^key-76783f1c4822d8d95a9ce696c31c11a6]
+[^c-76783f1c4822d8d95a9ce696c31c11a6]
 
 (1) An order may provide for the appointment of one or more than one person (referred to in this paragraph as an “**appointee**”) by the relevant authority or by such other persons as may be specified or described in the order to—
 
@@ -279,11 +279,11 @@ the persons concerned or any of them shall observe any prohibitions or restricti
 
 - (a) any person who is subject to the order;
 - (b) the relevant authority; and
-- (c) in the case where the relevant authority is the Secretary of State or the Chancellor of the Duchy of Lancaster[^key-c299776ca7ca605f018dc4421c6e66fa], the CMA.
+- (c) in the case where the relevant authority is the Secretary of State or the Chancellor of the Duchy of Lancaster[^c-c299776ca7ca605f018dc4421c6e66fa], the CMA.
 
-### 21. Supplementary[^key-0c9c45ad9965a1b111b13d422844e9da]
+### 21. Supplementary[^c-0c9c45ad9965a1b111b13d422844e9da]
 
-[^key-76783f1c4822d8d95a9ce696c31c11a6]
+[^c-76783f1c4822d8d95a9ce696c31c11a6]
 
 (1) An order, as well as making provision in relation to all cases to which it may extend, may make provision in relation to—
 
@@ -306,17 +306,17 @@ the persons concerned or any of them shall observe any prohibitions or restricti
 - (a) without the agreement of the relevant authority or another person; or
 - (b) by or in relation to a person who has not been approved by the relevant authority or another person.
 
-### 23. Interpretation[^key-0c9c45ad9965a1b111b13d422844e9da]
+### 23. Interpretation[^c-0c9c45ad9965a1b111b13d422844e9da]
 
-[^key-76783f1c4822d8d95a9ce696c31c11a6]
+[^c-76783f1c4822d8d95a9ce696c31c11a6]
 
 References in this Schedule to the notification of prices or other information are not limited to the notification in writing of prices or other information.
 
 **24.** In this Schedule “**the relevant authority**” means—
 
-- (a)[^key-7470023c3b7113a113eea7bf9da2fdd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) in the case of an order to be made by the CMA[^key-bf31dc36af0dcacba5304806727d7d0f], the CMA; [^key-1af35eea5db869565bf0f5df030cadfc]...
-- (c) in the case of an order to be made by the Secretary of State, the Secretary of State ; and[^key-fb1d2f3f1a9a9b5d8ebb3f2c919cd2b2]
+- (a)[^c-7470023c3b7113a113eea7bf9da2fdd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in the case of an order to be made by the CMA[^c-bf31dc36af0dcacba5304806727d7d0f], the CMA; [^c-1af35eea5db869565bf0f5df030cadfc]...
+- (c) in the case of an order to be made by the Secretary of State, the Secretary of State ; and[^c-fb1d2f3f1a9a9b5d8ebb3f2c919cd2b2]
 - (d) in the case of an order to be made by the Chancellor of the Duchy of Lancaster, the Chancellor of the Duchy of Lancaster.
 
 ## Annotations
@@ -329,64 +329,64 @@ References in this Schedule to the notification of prices or other information a
 
 [^c19210361]: Modification: Sch. 8 applied (with modifications) (20.6.2003) by The Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 ([S.I. 2003/1592](https://www.legislation.gov.uk/uksi/2003/1592), [art. 15](https://www.legislation.gov.uk/uksi/2003/1592/article/15), [Sch. 3 para. 2(1)(a)(2)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/3/paragraph/2/1/a/2) (as amended (29.12.2003) by [S.I. 2003/3180](https://www.legislation.gov.uk/uksi/2003/3180), [art. 2](https://www.legislation.gov.uk/uksi/2003/3180/article/2), [Sch. para. 10(16)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/16))
 
-[^key-5e1c63a9ab4de1fccaa7bb64fd69665b]: Modification: Sch. 8 applied (with modifications) (20.6.2003) by The Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 ([S.I. 2003/1592](https://www.legislation.gov.uk/uksi/2003/1592), [art. 15](https://www.legislation.gov.uk/uksi/2003/1592/article/15), [Sch. 3 para. 2(1)(a)(2)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/3/paragraph/2/1/a/2) (as amended (29.12.2003) by [S.I. 2003/3180](https://www.legislation.gov.uk/uksi/2003/3180), [art. 2](https://www.legislation.gov.uk/uksi/2003/3180/article/2), [Sch. para. 10(16)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/16) and as amended (23.6.2020) by [The Enterprise Act 2002 (Specification of Additional Section 58 Consideration) Order 2020 (S.I. 2020/627)](https://www.legislation.gov.uk/uksi/2020/627), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/627/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2020/627/article/4/3))
+[^c-5e1c63a9ab4de1fccaa7bb64fd69665b]: Modification: Sch. 8 applied (with modifications) (20.6.2003) by The Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 ([S.I. 2003/1592](https://www.legislation.gov.uk/uksi/2003/1592), [art. 15](https://www.legislation.gov.uk/uksi/2003/1592/article/15), [Sch. 3 para. 2(1)(a)(2)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/3/paragraph/2/1/a/2) (as amended (29.12.2003) by [S.I. 2003/3180](https://www.legislation.gov.uk/uksi/2003/3180), [art. 2](https://www.legislation.gov.uk/uksi/2003/3180/article/2), [Sch. para. 10(16)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/16) and as amended (23.6.2020) by [The Enterprise Act 2002 (Specification of Additional Section 58 Consideration) Order 2020 (S.I. 2020/627)](https://www.legislation.gov.uk/uksi/2020/627), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/627/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2020/627/article/4/3))
 
-[^key-0c9c45ad9965a1b111b13d422844e9da]: Modification: Schs. 7, 8: functions made exercisable concurrently (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2023/424/article/15/2) (with [arts. 16(5)(6)](https://www.legislation.gov.uk/uksi/2023/424/article/16/5/6), [17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-0c9c45ad9965a1b111b13d422844e9da]: Modification: Schs. 7, 8: functions made exercisable concurrently (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2023/424/article/15/2) (with [arts. 16(5)(6)](https://www.legislation.gov.uk/uksi/2023/424/article/16/5/6), [17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-76783f1c4822d8d95a9ce696c31c11a6]: Modification: Sch. 8 modified (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 51(2)](https://www.legislation.gov.uk/ukpga/2024/13/section/51/2), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-76783f1c4822d8d95a9ce696c31c11a6]: Modification: Sch. 8 modified (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 51(2)](https://www.legislation.gov.uk/ukpga/2024/13/section/51/2), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
 
-[^key-2fe92c35532187c1fd87480dad9099e8]: Textual amendment: Word in Sch. 8 para. 8(3) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 161(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/161/2) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-2fe92c35532187c1fd87480dad9099e8]: Textual amendment: Word in Sch. 8 para. 8(3) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 161(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/161/2) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-64929682198450259917daf6617aa209]: Textual amendment: Word in Sch. 8 para. 13(3)(g) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 199(5)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/199/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-64929682198450259917daf6617aa209]: Textual amendment: Word in Sch. 8 para. 13(3)(g) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 199(5)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/199/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-580082078efc06484b5af384a46aec89]: Textual amendment: Sch. 8 para. 15 omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 50(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/50/2), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-580082078efc06484b5af384a46aec89]: Textual amendment: Sch. 8 para. 15 omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 50(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/50/2), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-2efbb491c01eb629d5316ee956ddde10]: Textual amendment: Words in Sch. 8 para. 17(1) inserted (25.4.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 50(4)(a)](https://www.legislation.gov.uk/ukpga/2013/24/section/50/4/a), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)[(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-2efbb491c01eb629d5316ee956ddde10]: Textual amendment: Words in Sch. 8 para. 17(1) inserted (25.4.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 50(4)(a)](https://www.legislation.gov.uk/ukpga/2013/24/section/50/4/a), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)[(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-c739ea6b85c549bea7ce8dfd90a959d6]: Textual amendment: Sch. 8 para. 17(1)(d)(e) inserted (25.4.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 50(4)(b)](https://www.legislation.gov.uk/ukpga/2013/24/section/50/4/b), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)[(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-c739ea6b85c549bea7ce8dfd90a959d6]: Textual amendment: Sch. 8 para. 17(1)(d)(e) inserted (25.4.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 50(4)(b)](https://www.legislation.gov.uk/ukpga/2013/24/section/50/4/b), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)[(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-dd2478c6c28f08120fbdd6f0d4b76e65]: Textual amendment: Sch. 8 para. 17(1A) inserted (25.4.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 50(5)](https://www.legislation.gov.uk/ukpga/2013/24/section/50/5), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)[(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-dd2478c6c28f08120fbdd6f0d4b76e65]: Textual amendment: Sch. 8 para. 17(1A) inserted (25.4.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 50(5)](https://www.legislation.gov.uk/ukpga/2013/24/section/50/5), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)[(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-654fa46b3db03e530f1193501b99ca69]: Textual amendment: Words in Sch. 8 para. 18 omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 50(6)](https://www.legislation.gov.uk/ukpga/2013/24/section/50/6), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-654fa46b3db03e530f1193501b99ca69]: Textual amendment: Words in Sch. 8 para. 18 omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 50(6)](https://www.legislation.gov.uk/ukpga/2013/24/section/50/6), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-72229d2b6466a497c130fada7ffc710d]: Textual amendment: Word in Sch. 8 para. 19 substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 161(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/161/3) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-72229d2b6466a497c130fada7ffc710d]: Textual amendment: Word in Sch. 8 para. 19 substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 161(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/161/3) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-c5a28c6aada8ed173da45ea963007606]: Textual amendment: Words in [Sch. 8 para. 20(1)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/8/paragraph/20/1) omitted (4.1.2022) by virtue of [National Security and Investment Act 2021 (c. 25)](https://www.legislation.gov.uk/ukpga/2021/25), [s. 66(3)](https://www.legislation.gov.uk/ukpga/2021/25/section/66/3), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2021/25/schedule/2/paragraph/10) (with [s. 62](https://www.legislation.gov.uk/ukpga/2021/25/section/62)); [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-c5a28c6aada8ed173da45ea963007606]: Textual amendment: Words in [Sch. 8 para. 20(1)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/8/paragraph/20/1) omitted (4.1.2022) by virtue of [National Security and Investment Act 2021 (c. 25)](https://www.legislation.gov.uk/ukpga/2021/25), [s. 66(3)](https://www.legislation.gov.uk/ukpga/2021/25/section/66/3), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2021/25/schedule/2/paragraph/10) (with [s. 62](https://www.legislation.gov.uk/ukpga/2021/25/section/62)); [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
 [^c19211571]: Textual amendment: Sch. 8 para. 20A inserted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [ss. 387](https://www.legislation.gov.uk/ukpga/2003/21/section/387), [411(2)(3)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2/3) (with transitional provisions in [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/3142/schedule) (subject to [arts. 3(3)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/3), [11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-2b35c4f0788c5601956135d2601c668c]: Textual amendment: Words in Sch. 8 para. 20A heading substituted (24.7.2025) by [The Enterprise Act 2002 (Amendment of Section 58 Considerations) Order 2025 (S.I. 2025/737)](https://www.legislation.gov.uk/uksi/2025/737), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/737/article/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2025/737/article/6/a)
+[^c-2b35c4f0788c5601956135d2601c668c]: Textual amendment: Words in Sch. 8 para. 20A heading substituted (24.7.2025) by [The Enterprise Act 2002 (Amendment of Section 58 Considerations) Order 2025 (S.I. 2025/737)](https://www.legislation.gov.uk/uksi/2025/737), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/737/article/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2025/737/article/6/a)
 
-[^key-0dcfb3efa942d507494f50f8427a441e]: Textual amendment: Words in Sch. 8 para. 20A(1)(a)(i) substituted (24.7.2025) by [The Enterprise Act 2002 (Amendment of Section 58 Considerations) Order 2025 (S.I. 2025/737)](https://www.legislation.gov.uk/uksi/2025/737), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/737/article/1/1), [6(b)(i)](https://www.legislation.gov.uk/uksi/2025/737/article/6/b/i)
+[^c-0dcfb3efa942d507494f50f8427a441e]: Textual amendment: Words in Sch. 8 para. 20A(1)(a)(i) substituted (24.7.2025) by [The Enterprise Act 2002 (Amendment of Section 58 Considerations) Order 2025 (S.I. 2025/737)](https://www.legislation.gov.uk/uksi/2025/737), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/737/article/1/1), [6(b)(i)](https://www.legislation.gov.uk/uksi/2025/737/article/6/b/i)
 
-[^key-8f0b672a48b409ed4771e69018299aca]: Textual amendment: Words in Sch. 8 para. 20A(1)(a)(ii) substituted (24.7.2025) by [The Enterprise Act 2002 (Amendment of Section 58 Considerations) Order 2025 (S.I. 2025/737)](https://www.legislation.gov.uk/uksi/2025/737), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/737/article/1/1), [6(b)(ii)](https://www.legislation.gov.uk/uksi/2025/737/article/6/b/ii)
+[^c-8f0b672a48b409ed4771e69018299aca]: Textual amendment: Words in Sch. 8 para. 20A(1)(a)(ii) substituted (24.7.2025) by [The Enterprise Act 2002 (Amendment of Section 58 Considerations) Order 2025 (S.I. 2025/737)](https://www.legislation.gov.uk/uksi/2025/737), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/737/article/1/1), [6(b)(ii)](https://www.legislation.gov.uk/uksi/2025/737/article/6/b/ii)
 
-[^key-b5b5d5f83d14b696f0a43c9ad1c72a60]: Textual amendment: Words in Sch. 8 para. 20A(1)(a)(iv) substituted (24.7.2025) by [The Enterprise Act 2002 (Amendment of Section 58 Considerations) Order 2025 (S.I. 2025/737)](https://www.legislation.gov.uk/uksi/2025/737), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/737/article/1/1), [6(b)(iii)](https://www.legislation.gov.uk/uksi/2025/737/article/6/b/iii)
+[^c-b5b5d5f83d14b696f0a43c9ad1c72a60]: Textual amendment: Words in Sch. 8 para. 20A(1)(a)(iv) substituted (24.7.2025) by [The Enterprise Act 2002 (Amendment of Section 58 Considerations) Order 2025 (S.I. 2025/737)](https://www.legislation.gov.uk/uksi/2025/737), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/737/article/1/1), [6(b)(iii)](https://www.legislation.gov.uk/uksi/2025/737/article/6/b/iii)
 
-[^key-beaf63c33e9930c438dc5c54e5a3d084]: Textual amendment: Sch. 8 para. 20A(1A) inserted (24.5.2024) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a), [Sch. 7 para. 4(13)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/7/paragraph/4/13) (with [s. 130(2)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/2)[(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/3))
+[^c-beaf63c33e9930c438dc5c54e5a3d084]: Textual amendment: Sch. 8 para. 20A(1A) inserted (24.5.2024) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a), [Sch. 7 para. 4(13)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/7/paragraph/4/13) (with [s. 130(2)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/2)[(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/3))
 
-[^key-ed90b10ae49a2aac93b73465f89162a9]: Textual amendment: Words in Sch. 8 para. 20A(4)(c) substituted (24.7.2025) by [The Enterprise Act 2002 (Amendment of Section 58 Considerations) Order 2025 (S.I. 2025/737)](https://www.legislation.gov.uk/uksi/2025/737), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/737/article/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2025/737/article/6/c)
+[^c-ed90b10ae49a2aac93b73465f89162a9]: Textual amendment: Words in Sch. 8 para. 20A(4)(c) substituted (24.7.2025) by [The Enterprise Act 2002 (Amendment of Section 58 Considerations) Order 2025 (S.I. 2025/737)](https://www.legislation.gov.uk/uksi/2025/737), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/737/article/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2025/737/article/6/c)
 
-[^key-77b744bfaa7ed842a2da621ed465927d]: Textual amendment: Words in Sch. 8 para. 20A(5) substituted (24.7.2025) by [The Enterprise Act 2002 (Amendment of Section 58 Considerations) Order 2025 (S.I. 2025/737)](https://www.legislation.gov.uk/uksi/2025/737), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/737/article/1/1), [6(d)(i)](https://www.legislation.gov.uk/uksi/2025/737/article/6/d/i)
+[^c-77b744bfaa7ed842a2da621ed465927d]: Textual amendment: Words in Sch. 8 para. 20A(5) substituted (24.7.2025) by [The Enterprise Act 2002 (Amendment of Section 58 Considerations) Order 2025 (S.I. 2025/737)](https://www.legislation.gov.uk/uksi/2025/737), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/737/article/1/1), [6(d)(i)](https://www.legislation.gov.uk/uksi/2025/737/article/6/d/i)
 
-[^key-9b7387962097ea07279d3874b187f816]: Textual amendment: Words in Sch. 8 para. 20A(5)(b) inserted (24.7.2025) by [The Enterprise Act 2002 (Amendment of Section 58 Considerations) Order 2025 (S.I. 2025/737)](https://www.legislation.gov.uk/uksi/2025/737), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/737/article/1/1), [6(d)(ii)](https://www.legislation.gov.uk/uksi/2025/737/article/6/d/ii)
+[^c-9b7387962097ea07279d3874b187f816]: Textual amendment: Words in Sch. 8 para. 20A(5)(b) inserted (24.7.2025) by [The Enterprise Act 2002 (Amendment of Section 58 Considerations) Order 2025 (S.I. 2025/737)](https://www.legislation.gov.uk/uksi/2025/737), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/737/article/1/1), [6(d)(ii)](https://www.legislation.gov.uk/uksi/2025/737/article/6/d/ii)
 
-[^key-e61656e533bfe43b1f79b827c2a32ca2]: Textual amendment: Sch. 8 para. 20A(5A) inserted (24.7.2025) by [The Enterprise Act 2002 (Amendment of Section 58 Considerations) Order 2025 (S.I. 2025/737)](https://www.legislation.gov.uk/uksi/2025/737), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/737/article/1/1), [6(e)](https://www.legislation.gov.uk/uksi/2025/737/article/6/e)
+[^c-e61656e533bfe43b1f79b827c2a32ca2]: Textual amendment: Sch. 8 para. 20A(5A) inserted (24.7.2025) by [The Enterprise Act 2002 (Amendment of Section 58 Considerations) Order 2025 (S.I. 2025/737)](https://www.legislation.gov.uk/uksi/2025/737), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/737/article/1/1), [6(e)](https://www.legislation.gov.uk/uksi/2025/737/article/6/e)
 
-[^key-a0e974f855357e71413d0f32e5790865]: Textual amendment: Sch. 8 para. 20B and heading inserted (24.10.2008) (with application in accordance with art. 1(2) of the amending S.I.) by [The Enterprise Act 2002 (Specification of Additional Section 58 Consideration) Order 2008 (S.I. 2008/2645)](https://www.legislation.gov.uk/uksi/2008/2645), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/2645/article/1/1), [4](https://www.legislation.gov.uk/uksi/2008/2645/article/4)
+[^c-a0e974f855357e71413d0f32e5790865]: Textual amendment: Sch. 8 para. 20B and heading inserted (24.10.2008) (with application in accordance with art. 1(2) of the amending S.I.) by [The Enterprise Act 2002 (Specification of Additional Section 58 Consideration) Order 2008 (S.I. 2008/2645)](https://www.legislation.gov.uk/uksi/2008/2645), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/2645/article/1/1), [4](https://www.legislation.gov.uk/uksi/2008/2645/article/4)
 
-[^key-73ed99156de174026ad2ca2f50637a7c]: Textual amendment: [Sch. 8 para. 20BA](https://www.legislation.gov.uk/ukpga/2002/40/schedule/8/paragraph/20BA) inserted (23.6.2020) by [The Enterprise Act 2002 (Specification of Additional Section 58 Consideration) Order 2020 (S.I. 2020/627)](https://www.legislation.gov.uk/uksi/2020/627), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/627/article/1/1), [3](https://www.legislation.gov.uk/uksi/2020/627/article/3)
+[^c-73ed99156de174026ad2ca2f50637a7c]: Textual amendment: [Sch. 8 para. 20BA](https://www.legislation.gov.uk/ukpga/2002/40/schedule/8/paragraph/20BA) inserted (23.6.2020) by [The Enterprise Act 2002 (Specification of Additional Section 58 Consideration) Order 2020 (S.I. 2020/627)](https://www.legislation.gov.uk/uksi/2020/627), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/627/article/1/1), [3](https://www.legislation.gov.uk/uksi/2020/627/article/3)
 
-[^key-36de9e895a615aecaf07922d0ac3175f]: Textual amendment: Sch. 8 para. 20BB inserted (13.10.2026) by [The Enterprise Act 2002 (Specification of Additional Section 58 Consideration) Order 2026 (S.I. 2026/1075)](https://www.legislation.gov.uk/uksi/2026/1075), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/1075/article/1/1), [3](https://www.legislation.gov.uk/uksi/2026/1075/article/3)
+[^c-36de9e895a615aecaf07922d0ac3175f]: Textual amendment: Sch. 8 para. 20BB inserted (13.10.2026) by [The Enterprise Act 2002 (Specification of Additional Section 58 Consideration) Order 2026 (S.I. 2026/1075)](https://www.legislation.gov.uk/uksi/2026/1075), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/1075/article/1/1), [3](https://www.legislation.gov.uk/uksi/2026/1075/article/3)
 
-[^key-cd4ae055d744399330ed643f0ebff71a]: Textual amendment: Sch. 8 para. 20C and cross-heading inserted (25.4.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 49](https://www.legislation.gov.uk/ukpga/2013/24/section/49), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)[(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-cd4ae055d744399330ed643f0ebff71a]: Textual amendment: Sch. 8 para. 20C and cross-heading inserted (25.4.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 49](https://www.legislation.gov.uk/ukpga/2013/24/section/49), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)[(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-c299776ca7ca605f018dc4421c6e66fa]: Textual amendment: Words in [Sch. 8 para. 20C(3)(c)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/8/paragraph/20C/3/c) inserted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 10(11)(a)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/10/11/a) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-c299776ca7ca605f018dc4421c6e66fa]: Textual amendment: Words in [Sch. 8 para. 20C(3)(c)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/8/paragraph/20C/3/c) inserted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 10(11)(a)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/10/11/a) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-7470023c3b7113a113eea7bf9da2fdd1]: Textual amendment: Sch. 8 para. 24(a) omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 161(4)(a)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/161/4/a) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-7470023c3b7113a113eea7bf9da2fdd1]: Textual amendment: Sch. 8 para. 24(a) omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 161(4)(a)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/161/4/a) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-bf31dc36af0dcacba5304806727d7d0f]: Textual amendment: Word in Sch. 8 para. 24(b) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 161(4)(b)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/161/4/b) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-bf31dc36af0dcacba5304806727d7d0f]: Textual amendment: Word in Sch. 8 para. 24(b) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 161(4)(b)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/161/4/b) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-1af35eea5db869565bf0f5df030cadfc]: Textual amendment: Word in [Sch. 8 para. 24](https://www.legislation.gov.uk/ukpga/2002/40/schedule/8/paragraph/24) omitted (3.5.2023) by virtue of [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 10(11)(b)(i)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/10/11/b/i) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-1af35eea5db869565bf0f5df030cadfc]: Textual amendment: Word in [Sch. 8 para. 24](https://www.legislation.gov.uk/ukpga/2002/40/schedule/8/paragraph/24) omitted (3.5.2023) by virtue of [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 10(11)(b)(i)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/10/11/b/i) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-fb1d2f3f1a9a9b5d8ebb3f2c919cd2b2]: Textual amendment: Sch. 8 para. 24(d) and word inserted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 10(11)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/10/11/b/ii) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-fb1d2f3f1a9a9b5d8ebb3f2c919cd2b2]: Textual amendment: Sch. 8 para. 24(d) and word inserted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 10(11)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/10/11/b/ii) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))

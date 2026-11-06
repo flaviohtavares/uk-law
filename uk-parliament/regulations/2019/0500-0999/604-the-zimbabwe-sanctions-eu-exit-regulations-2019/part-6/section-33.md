@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Treasury licences[^key-905d27aa1cda1b78e7fabaaa775afabf][^key-0e4ff77f04a22af6ab1f865a4a8b272e]
+## 33. Treasury licences[^c-905d27aa1cda1b78e7fabaaa775afabf][^c-0e4ff77f04a22af6ab1f865a4a8b272e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-905d27aa1cda1b78e7fabaaa775afabf]: Commencement: Reg. 33 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
+[^c-905d27aa1cda1b78e7fabaaa775afabf]: Commencement: Reg. 33 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
 
-[^key-0e4ff77f04a22af6ab1f865a4a8b272e]: Commencement: Reg. 33 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0e4ff77f04a22af6ab1f865a4a8b272e]: Commencement: Reg. 33 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

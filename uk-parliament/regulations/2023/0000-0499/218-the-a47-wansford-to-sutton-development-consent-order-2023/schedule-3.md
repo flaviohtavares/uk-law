@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3 — CLASSIFICATION OF ROADS, ETC[^key-065c7c1971b34bf6ea9858ab4bf41b70]
+## SCHEDULE 3 — CLASSIFICATION OF ROADS, ETC[^c-065c7c1971b34bf6ea9858ab4bf41b70]
 
 *Extent: E+W+S*
 
@@ -24,38 +24,38 @@ summary: ''
 
 Articles 13 and 19
 
-### PART 1 — TRUNK ROADS[^key-065c7c1971b34bf6ea9858ab4bf41b70]
+### PART 1 — TRUNK ROADS[^c-065c7c1971b34bf6ea9858ab4bf41b70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — CLASSIFIED C ROADS[^key-065c7c1971b34bf6ea9858ab4bf41b70]
+### PART 2 — CLASSIFIED C ROADS[^c-065c7c1971b34bf6ea9858ab4bf41b70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — UNCLASSIFIED ROADS[^key-065c7c1971b34bf6ea9858ab4bf41b70]
+### PART 3 — UNCLASSIFIED ROADS[^c-065c7c1971b34bf6ea9858ab4bf41b70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4 — SPEED LIMITS[^key-065c7c1971b34bf6ea9858ab4bf41b70]
+### PART 4 — SPEED LIMITS[^c-065c7c1971b34bf6ea9858ab4bf41b70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 5 — REVOCATIONS & VARIATIONS OF EXISTING TRAFFIC REGULATION ORDERS[^key-065c7c1971b34bf6ea9858ab4bf41b70]
+### PART 5 — REVOCATIONS & VARIATIONS OF EXISTING TRAFFIC REGULATION ORDERS[^c-065c7c1971b34bf6ea9858ab4bf41b70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 6 — FOOTPATHS, CYCLE TRACKS, FOOTWAYS AND BRIDLEWAYS[^key-065c7c1971b34bf6ea9858ab4bf41b70]
+### PART 6 — FOOTPATHS, CYCLE TRACKS, FOOTWAYS AND BRIDLEWAYS[^c-065c7c1971b34bf6ea9858ab4bf41b70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 7 — ROADS TO BE DETRUNKED[^key-065c7c1971b34bf6ea9858ab4bf41b70]
+### PART 7 — ROADS TO BE DETRUNKED[^c-065c7c1971b34bf6ea9858ab4bf41b70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 8 — TRAFFIC REGULATION MEASURES (CLEARWAYS AND PROHIBITIONS)[^key-065c7c1971b34bf6ea9858ab4bf41b70]
+### PART 8 — TRAFFIC REGULATION MEASURES (CLEARWAYS AND PROHIBITIONS)[^c-065c7c1971b34bf6ea9858ab4bf41b70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-065c7c1971b34bf6ea9858ab4bf41b70]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/218) revoked (3.6.2026) by [The A47 Wansford to Sutton Development Consent (Revocation) Order 2026 (S.I. 2026/579)](https://www.legislation.gov.uk/uksi/2026/579), [arts. 1](https://www.legislation.gov.uk/uksi/2026/579/article/1), [2](https://www.legislation.gov.uk/uksi/2026/579/article/2)
+[^c-065c7c1971b34bf6ea9858ab4bf41b70]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/218) revoked (3.6.2026) by [The A47 Wansford to Sutton Development Consent (Revocation) Order 2026 (S.I. 2026/579)](https://www.legislation.gov.uk/uksi/2026/579), [arts. 1](https://www.legislation.gov.uk/uksi/2026/579/article/1), [2](https://www.legislation.gov.uk/uksi/2026/579/article/2)

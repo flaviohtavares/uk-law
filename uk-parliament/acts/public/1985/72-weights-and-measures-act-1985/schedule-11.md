@@ -166,10 +166,10 @@ those authorities may make a joint report to the Secretary of State under sectio
 
 **21.** (1) Any person who immediately before the commencement of section 46 of the 1963 Act, was an inspector of weights and measures appointed under section 43 of the [^c13372991]Weights and Measures Act 1878 shall, if immediately before the commencement of this Act he was acting as an inspector for the purposes of the 1963 Act, be deemed to have been appointed an inspector under section 72 of this Act, and any certificate of qualification granted to him under section 8 of the [^c13373001]Weights and Measures Act 1904 shall be deemed to be a certificate granted to him under section 73 of this Act.
 
-(2) Nothing in this Act shall prevent any person who immediately before the commencement of this Act was, with the sanction of a local weights and measures authority, acting for any of the purposes of the 1963 Act by virtue of section 46(2) of that Act from continuing to act, with that sanction, for the corresponding purposes of this Act; and so far as may be necessary for the purposes of his so acting any reference in this Act [^key-21d0564759eb6e435063754dff24ae2d]...—
+(2) Nothing in this Act shall prevent any person who immediately before the commencement of this Act was, with the sanction of a local weights and measures authority, acting for any of the purposes of the 1963 Act by virtue of section 46(2) of that Act from continuing to act, with that sanction, for the corresponding purposes of this Act; and so far as may be necessary for the purposes of his so acting any reference in this Act [^c-21d0564759eb6e435063754dff24ae2d]...—
 
 - (a) to credentials shall, in relation to such a person, be construed as a reference to written authority for him so to act from that authority; and
-- (b) to an inspector shall, in relation to such a person [^key-c1d990caf75e5d606dfd61a590fe2b2c]..., be construed as a reference to that person while so acting.
+- (b) to an inspector shall, in relation to such a person [^c-c1d990caf75e5d606dfd61a590fe2b2c]..., be construed as a reference to that person while so acting.
 
 ### “Gallon” and “litre”
 
@@ -222,9 +222,9 @@ shall continue to have effect as if it specified £50.
 
 [^c13373001]: Marginal citation: [1904 c. 28](https://www.legislation.gov.uk/ukpga/1904/28).
 
-[^key-21d0564759eb6e435063754dff24ae2d]: Textual amendment: Words in Sch. 11 para. 21(2) omitted (6.4.2006) by virtue of [The Weights and Measures (Packaged Goods) Regulations 2006 (S.I. 2006/659)](https://www.legislation.gov.uk/uksi/2006/659), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/659/regulation/1/1), [Sch. 1 Pt. 2(17)](https://www.legislation.gov.uk/uksi/2006/659/schedule/1/part/2/17) (with [reg. 21](https://www.legislation.gov.uk/uksi/2006/659/regulation/21))
+[^c-21d0564759eb6e435063754dff24ae2d]: Textual amendment: Words in Sch. 11 para. 21(2) omitted (6.4.2006) by virtue of [The Weights and Measures (Packaged Goods) Regulations 2006 (S.I. 2006/659)](https://www.legislation.gov.uk/uksi/2006/659), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/659/regulation/1/1), [Sch. 1 Pt. 2(17)](https://www.legislation.gov.uk/uksi/2006/659/schedule/1/part/2/17) (with [reg. 21](https://www.legislation.gov.uk/uksi/2006/659/regulation/21))
 
-[^key-c1d990caf75e5d606dfd61a590fe2b2c]: Textual amendment: Words in Sch. 11 para. 21(2)(b) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 36](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/36); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-c1d990caf75e5d606dfd61a590fe2b2c]: Textual amendment: Words in Sch. 11 para. 21(2)(b) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 36](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/36); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
 [^c13373021]: Marginal citation: [1977 c. 45](https://www.legislation.gov.uk/ukpga/1977/45).
 

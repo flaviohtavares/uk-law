@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 264. Contents of notices to be gazetted[^key-4f52364df1762eaf76eef09de02f35ee]
+## 264. Contents of notices to be gazetted[^c-4f52364df1762eaf76eef09de02f35ee]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f52364df1762eaf76eef09de02f35ee]: Commencement: [Rule 264](https://www.legislation.gov.uk/nisr/2026/11/rule/264) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-4f52364df1762eaf76eef09de02f35ee]: Commencement: [Rule 264](https://www.legislation.gov.uk/nisr/2026/11/rule/264) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

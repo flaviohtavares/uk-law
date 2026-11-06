@@ -31,7 +31,7 @@ summary: ''
 
 Ecclesiastical Law, England
 
-The Ecclesiastical Judges, Legal Officers and Others (Fees) Order 2014 (revoked)[^key-adbd0d037a62a267b2cb4aeba7794a07]
+The Ecclesiastical Judges, Legal Officers and Others (Fees) Order 2014 (revoked)[^c-adbd0d037a62a267b2cb4aeba7794a07]
 
 Made
 
@@ -45,62 +45,62 @@ Coming into force
 
 1st January 2015
 
-[^key-adbd0d037a62a267b2cb4aeba7794a07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-adbd0d037a62a267b2cb4aeba7794a07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-adbd0d037a62a267b2cb4aeba7794a07]
+## 1. Citation, commencement and interpretation[^c-adbd0d037a62a267b2cb4aeba7794a07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees payable[^key-adbd0d037a62a267b2cb4aeba7794a07]
+## 2. Fees payable[^c-adbd0d037a62a267b2cb4aeba7794a07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of 2013 Order[^key-adbd0d037a62a267b2cb4aeba7794a07]
+## 3. Revocation of 2013 Order[^c-adbd0d037a62a267b2cb4aeba7794a07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Supplementary annual fee[^key-adbd0d037a62a267b2cb4aeba7794a07]
+## 4. Supplementary annual fee[^c-adbd0d037a62a267b2cb4aeba7794a07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Travel, subsistence, accommodation and court hearings[^key-adbd0d037a62a267b2cb4aeba7794a07]
+## 5. Travel, subsistence, accommodation and court hearings[^c-adbd0d037a62a267b2cb4aeba7794a07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Value Added Tax[^key-adbd0d037a62a267b2cb4aeba7794a07]
+## 6. Value Added Tax[^c-adbd0d037a62a267b2cb4aeba7794a07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-adbd0d037a62a267b2cb4aeba7794a07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-adbd0d037a62a267b2cb4aeba7794a07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-adbd0d037a62a267b2cb4aeba7794a07]
+## SCHEDULE[^c-adbd0d037a62a267b2cb4aeba7794a07]
 
 Articles 2, 4 and 5
 
-### 1. Fees payable under this Order[^key-adbd0d037a62a267b2cb4aeba7794a07]
+### 1. Fees payable under this Order[^c-adbd0d037a62a267b2cb4aeba7794a07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Faculty fees payable to the diocesan board of finance[^key-adbd0d037a62a267b2cb4aeba7794a07]
+### 2. Faculty fees payable to the diocesan board of finance[^c-adbd0d037a62a267b2cb4aeba7794a07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Fees for duties under the Patronage (Benefices) Rules 1987[^key-adbd0d037a62a267b2cb4aeba7794a07]
+### 3. Fees for duties under the Patronage (Benefices) Rules 1987[^c-adbd0d037a62a267b2cb4aeba7794a07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Fees for elections to the General Synod[^key-adbd0d037a62a267b2cb4aeba7794a07]
+### 4. Fees for elections to the General Synod[^c-adbd0d037a62a267b2cb4aeba7794a07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-adbd0d037a62a267b2cb4aeba7794a07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-adbd0d037a62a267b2cb4aeba7794a07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-adbd0d037a62a267b2cb4aeba7794a07]: Textual amendment: Order revoked (1.3.2016) by [The Ecclesiastical Judges, Legal Officers and Others (Fees) Order 2015 (S.I. 2015/1954)](https://www.legislation.gov.uk/uksi/2015/1954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1954/article/1/2), [15](https://www.legislation.gov.uk/uksi/2015/1954/article/15)
+[^c-adbd0d037a62a267b2cb4aeba7794a07]: Textual amendment: Order revoked (1.3.2016) by [The Ecclesiastical Judges, Legal Officers and Others (Fees) Order 2015 (S.I. 2015/1954)](https://www.legislation.gov.uk/uksi/2015/1954), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1954/article/1/2), [15](https://www.legislation.gov.uk/uksi/2015/1954/article/15)

@@ -28,7 +28,7 @@ summary: ''
 
 Rating And Valuation, England
 
-The Non-Domestic Rating (Small Business Rate Relief) (England) Order 2012 (revoked)[^key-950a9254e02b35617d67ad817d0939da]
+The Non-Domestic Rating (Small Business Rate Relief) (England) Order 2012 (revoked)[^c-950a9254e02b35617d67ad817d0939da]
 
 Made
 
@@ -42,36 +42,36 @@ Coming into force
 
 25th February 2012
 
-[^key-950a9254e02b35617d67ad817d0939da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-950a9254e02b35617d67ad817d0939da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, application, commencement and interpretation[^key-950a9254e02b35617d67ad817d0939da]
+## 1. Citation, application, commencement and interpretation[^c-950a9254e02b35617d67ad817d0939da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Conditions for relief[^key-950a9254e02b35617d67ad817d0939da]
+## 2. Conditions for relief[^c-950a9254e02b35617d67ad817d0939da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amount of E[^key-950a9254e02b35617d67ad817d0939da]
+## 3. Amount of E[^c-950a9254e02b35617d67ad817d0939da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amount of E for the financial years between 1st April 2012 and 31st March 2017[^key-950a9254e02b35617d67ad817d0939da]
+## 4. Amount of E for the financial years between 1st April 2012 and 31st March 2017[^c-950a9254e02b35617d67ad817d0939da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocations[^key-950a9254e02b35617d67ad817d0939da]
+## 5. Revocations[^c-950a9254e02b35617d67ad817d0939da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-950a9254e02b35617d67ad817d0939da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-950a9254e02b35617d67ad817d0939da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-950a9254e02b35617d67ad817d0939da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-950a9254e02b35617d67ad817d0939da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-950a9254e02b35617d67ad817d0939da]: Textual amendment: Order revoked (3.3.2017) (with a saving for chargeable days falling before 1.4.2017) by The Non-[Domestic Rating (Reliefs, Thresholds and Amendment) (England) Order 2017 (S.I. 2017/102)](https://www.legislation.gov.uk/uksi/2017/102), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/102/article/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2017/102/article/6/1) (with [art. 6(2)](https://www.legislation.gov.uk/uksi/2017/102/article/6/2))
+[^c-950a9254e02b35617d67ad817d0939da]: Textual amendment: Order revoked (3.3.2017) (with a saving for chargeable days falling before 1.4.2017) by The Non-[Domestic Rating (Reliefs, Thresholds and Amendment) (England) Order 2017 (S.I. 2017/102)](https://www.legislation.gov.uk/uksi/2017/102), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/102/article/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2017/102/article/6/1) (with [art. 6(2)](https://www.legislation.gov.uk/uksi/2017/102/article/6/2))

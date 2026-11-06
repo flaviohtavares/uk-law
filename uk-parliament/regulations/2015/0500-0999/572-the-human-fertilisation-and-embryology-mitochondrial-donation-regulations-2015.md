@@ -46,11 +46,11 @@ A draft of this instrument has been approved by resolution of each House of Parl
 
 ## PART 1 — Introductory Provisions
 
-### 1. Citation and commencement[^key-49995f6aeaac13f0cf8263df07e42dcb]
+### 1. Citation and commencement[^c-49995f6aeaac13f0cf8263df07e42dcb]
 
 These Regulations may be cited as the Human Fertilisation and Embryology (Mitochondrial Donation) Regulations 2015 and shall come into force on 29th October 2015.
 
-### 2. Interpretation[^key-e75a67c19630faa1517a9a67a2146099]
+### 2. Interpretation[^c-e75a67c19630faa1517a9a67a2146099]
 
 (1) In these Regulations “the Act” means the Human Fertilisation and Embryology Act 1990.
 
@@ -67,7 +67,7 @@ These Regulations may be cited as the Human Fertilisation and Embryology (Mitoch
 
 ## PART 2 — Permitted eggs and permitted embryos
 
-### 3. Permitted egg[^key-6424e466e86ee687505163fb10f80255]
+### 3. Permitted egg[^c-6424e466e86ee687505163fb10f80255]
 
 An egg (“egg P”) is a permitted egg for the purposes of section 3(2)(b)[^f00002] of the Act if—
 
@@ -77,7 +77,7 @@ An egg (“egg P”) is a permitted egg for the purposes of section 3(2)(b)[^f00
 - (b) that process has been applied to those eggs in the circumstances specified in regulation 5; and
 - (c) there have been no alterations in the nuclear or mitochondrial DNA of egg P since egg P was created by means of the application of that process.
 
-### 4. Permitted egg: process[^key-7d0bfc22efceefa5d1173cd23e4914ca]
+### 4. Permitted egg: process[^c-7d0bfc22efceefa5d1173cd23e4914ca]
 
 (1) The process referred to in regulation 3(a) consists of the following two steps.
 
@@ -92,7 +92,7 @@ An egg (“egg P”) is a permitted egg for the purposes of section 3(2)(b)[^f00
 
 (3) In step 2 all the nuclear DNA of egg B which is not polar body nuclear DNA is inserted into egg A.
 
-### 5. Permitted egg: circumstances[^key-96e3905d11dc4c1422c84bed7fd71e41]
+### 5. Permitted egg: circumstances[^c-96e3905d11dc4c1422c84bed7fd71e41]
 
 The circumstances referred to in regulation 3(b) are that—
 
@@ -101,7 +101,7 @@ The circumstances referred to in regulation 3(b) are that—
   - (ii) there is a significant risk that a person with those abnormalities will have or develop serious mitochondrial disease; and
 - (b) egg B was extracted from the ovaries of the woman so named.
 
-### 6. Permitted embryo[^key-a6760088bbf72b9fd904c734a3fadef3]
+### 6. Permitted embryo[^c-a6760088bbf72b9fd904c734a3fadef3]
 
 An embryo (“embryo P”) is a permitted embryo for the purposes of section 3(2)(a) of the Act if—
 
@@ -113,7 +113,7 @@ An embryo (“embryo P”) is a permitted embryo for the purposes of section 3(2
   - (i) there have been no alterations in the nuclear or mitochondrial DNA of any cell of embryo P, and
   - (ii) no cell has been added to embryo P other than by the division of embryo P’s own cells.
 
-### 7. Permitted embryo: process[^key-81536b51335775f46596eb8b523feafd]
+### 7. Permitted embryo: process[^c-81536b51335775f46596eb8b523feafd]
 
 (1) The process referred to in regulation 6(a) consists of the following two steps.
 
@@ -128,7 +128,7 @@ An embryo (“embryo P”) is a permitted embryo for the purposes of section 3(2
 
 (3) In step 2 all the nuclear DNA of embryo B which is not polar body nuclear DNA is inserted into embryo A.
 
-### 8. Permitted embryo: circumstances[^key-4130e1108da204c181d4b7be6c6b54c5]
+### 8. Permitted embryo: circumstances[^c-4130e1108da204c181d4b7be6c6b54c5]
 
 The circumstances referred to in regulation 6(b) are that—
 
@@ -137,7 +137,7 @@ The circumstances referred to in regulation 6(b) are that—
   - (ii) there is a significant risk that a person with those abnormalities will have or develop serious mitochondrial disease; and
 - (b) embryo B was created by the fertilisation of an egg extracted from the ovaries of the woman so named.
 
-### 9. Supplemental provision – licences[^key-f322dae62cb1ed7755775d32e4206224]
+### 9. Supplemental provision – licences[^c-f322dae62cb1ed7755775d32e4206224]
 
 (1) Any reference to a permitted egg in a licence whenever issued does not include an egg which is a permitted egg for the purposes of section 3(2) of the Act by virtue of regulation 3 unless express provision is made in the licence to that effect.
 
@@ -145,14 +145,14 @@ The circumstances referred to in regulation 6(b) are that—
 
 ## PART 3 — Related modifications and amendments
 
-### 10. Modification of certain enactments for cases where mitochondrial donation has occurred[^key-d41e5f4484fcddc9c5885c8f365ec92d]
+### 10. Modification of certain enactments for cases where mitochondrial donation has occurred[^c-d41e5f4484fcddc9c5885c8f365ec92d]
 
-Regulations 11 to 18A[^key-3b4f8139f3b76d98bb7ff9280ed2d65c] (which make modifications to the Act and the Human Fertilisation and Embryology Act 2008) have effect in relation to cases where—
+Regulations 11 to 18A[^c-3b4f8139f3b76d98bb7ff9280ed2d65c] (which make modifications to the Act and the Human Fertilisation and Embryology Act 2008) have effect in relation to cases where—
 
 - (a) an egg has been created which is a permitted egg for the purposes of section 3(2) of the Act by virtue of regulation 3, or
 - (b) an embryo has been created which is a permitted embryo for those purposes by virtue of regulation 6.
 
-### 11. Modification of section 31ZA of the Act[^key-1c970c2d65bac6accc9bb000c1300e42]
+### 11. Modification of section 31ZA of the Act[^c-1c970c2d65bac6accc9bb000c1300e42]
 
 In a case where this regulation has effect, section 31ZA of the Act[^f00004] applies as if—
 
@@ -190,7 +190,7 @@ In a case where this regulation has effect, section 31ZA of the Act[^f00004] app
 
   .
 
-### 12. Modification of section 31ZB of the Act[^key-f6c85e35a20c8b5577439a8cdf1d1a03]
+### 12. Modification of section 31ZB of the Act[^c-f6c85e35a20c8b5577439a8cdf1d1a03]
 
 In a case where this regulation has effect, section 31ZB of the Act[^f00005] applies as if after subsection (6) there were inserted—
 
@@ -201,7 +201,7 @@ In a case where this regulation has effect, section 31ZB of the Act[^f00005] app
 
 .
 
-### 13. Modification of section 31ZC of the Act[^key-4e7af3c31f547f2ccbc1e89817e27eb0]
+### 13. Modification of section 31ZC of the Act[^c-4e7af3c31f547f2ccbc1e89817e27eb0]
 
 In a case where this regulation has effect, section 31ZC of the Act[^f00006] applies as if—
 
@@ -217,7 +217,7 @@ In a case where this regulation has effect, section 31ZC of the Act[^f00006] app
 
   .
 
-### 14. Modification of section 31ZD of the Act[^key-817599d4f8849a037afbcd9dcbb01eda]
+### 14. Modification of section 31ZD of the Act[^c-817599d4f8849a037afbcd9dcbb01eda]
 
 In a case where this regulation has effect, section 31ZD of the Act[^f00007] applies as if after subsection (3)(a) there were inserted—
 
@@ -225,7 +225,7 @@ In a case where this regulation has effect, section 31ZD of the Act[^f00007] app
 
 .
 
-### 15. Modification of section 31ZE of the Act[^key-b45d0b9332dcd235f467df51729b515c]
+### 15. Modification of section 31ZE of the Act[^c-b45d0b9332dcd235f467df51729b515c]
 
 In a case where this regulation has effect, section 31ZE[^f00008] of the Act applies as if after subsection (1) there were inserted—
 
@@ -235,7 +235,7 @@ In a case where this regulation has effect, section 31ZE[^f00008] of the Act app
 
 .
 
-### 16. Modification of paragraph 4 of Schedule 3 to the Act[^key-bc9f83e575727e99d97ff2a5552dbabf]
+### 16. Modification of paragraph 4 of Schedule 3 to the Act[^c-bc9f83e575727e99d97ff2a5552dbabf]
 
 In a case where this regulation has effect, paragraph 4 of Schedule 3 to the Act applies as if—
 
@@ -255,7 +255,7 @@ In a case where this regulation has effect, paragraph 4 of Schedule 3 to the Act
 
   .
 
-### 17. Modification of paragraph 22 of Schedule 3 to the Act[^key-1fb91a0a4236a78c96b90ef39060c698]
+### 17. Modification of paragraph 22 of Schedule 3 to the Act[^c-1fb91a0a4236a78c96b90ef39060c698]
 
 In a case where this regulation has effect, paragraph 22 of Schedule 3 to the Act applies as if before sub-paragraph (1) there were inserted—
 
@@ -268,7 +268,7 @@ In a case where this regulation has effect, paragraph 22 of Schedule 3 to the Ac
 
 .
 
-### 18. Modification of section 54 of the Human Fertilisation and Embryology Act 2008[^key-802f00522745f473f583a2b5e54eb931]
+### 18. Modification of section 54 of the Human Fertilisation and Embryology Act 2008[^c-802f00522745f473f583a2b5e54eb931]
 
 In a case where this regulation has effect, section 54 of the Human Fertilisation and Embryology Act 2008 applies as if after subsection (1) there were inserted—
 
@@ -279,7 +279,7 @@ In a case where this regulation has effect, section 54 of the Human Fertilisatio
 
 .
 
-### 18A. Modification of section 54A of the Human Fertilisation and Embryology Act 2008[^key-1a0157da7db8f1c69b1ef53a8c106163]
+### 18A. Modification of section 54A of the Human Fertilisation and Embryology Act 2008[^c-1a0157da7db8f1c69b1ef53a8c106163]
 
 In a case where this regulation has effect, section 54A of the Human Fertilisation and Embryology Act 2008 applies as if after subsection (1) there were inserted—
 
@@ -288,7 +288,7 @@ In a case where this regulation has effect, section 54A of the Human Fertilisati
 > - (a) where embryo E is a permitted embryo by virtue of regulations under section 3ZA(5) of the 1990 Act, the person whose mitochondrial DNA (not nuclear DNA) was used to bring about the creation of embryo E;
 > - (b) where embryo E has been created by the fertilisation of an egg which was a permitted egg by virtue of regulations under section 3ZA(5) of the 1990 Act, the person whose mitochondrial DNA (not nuclear DNA) was used to bring about the creation of that permitted egg.
 
-### 19. Consequential amendment of the Human Fertilisation and Embryology Authority (Disclosure of Donor Information) Regulations 2004[^key-d31c869be3e7a3fbbc1b12ad3ab4c7f4]
+### 19. Consequential amendment of the Human Fertilisation and Embryology Authority (Disclosure of Donor Information) Regulations 2004[^c-d31c869be3e7a3fbbc1b12ad3ab4c7f4]
 
 In regulation 1(2) of the Human Fertilisation and Embryology Authority (Disclosure of Donor Information) Regulations 2004[^f00009], in the definition of “applicant”, for “section 31ZA” substitute “section 31ZA(2)”.
 
@@ -320,60 +320,60 @@ A full impact assessment has been produced in relation to the Regulations and a 
 
 [^f00001]: Footnote: [1990 c. 37](https://www.legislation.gov.uk/ukpga/1990/37). Sections 3ZA(5) and (6), 31ZA(2)(a), 35A and 45(3A) were inserted by sections 3(5), 24, 26 and 30 of the Human Fertilisation and Embryology Act [2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22) (“the 2008 Act”). Section 3ZA(6) is cited for the meaning of “prescribed”.
 
-[^key-49995f6aeaac13f0cf8263df07e42dcb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
+[^c-49995f6aeaac13f0cf8263df07e42dcb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
 
-[^key-e75a67c19630faa1517a9a67a2146099]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/572/regulation/2) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
+[^c-e75a67c19630faa1517a9a67a2146099]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/572/regulation/2) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
 
-[^key-6424e466e86ee687505163fb10f80255]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/572/regulation/3) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
+[^c-6424e466e86ee687505163fb10f80255]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/572/regulation/3) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
 
 [^f00002]: Footnote: Section 3(2) was substituted by section 3(2) of the 2008 Act.
 
 [^f00003]: Footnote: Section 3ZA was inserted by section 3(5) of the 2008 Act.
 
-[^key-7d0bfc22efceefa5d1173cd23e4914ca]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/572/regulation/4) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
+[^c-7d0bfc22efceefa5d1173cd23e4914ca]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/572/regulation/4) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
 
-[^key-96e3905d11dc4c1422c84bed7fd71e41]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/572/regulation/5) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
+[^c-96e3905d11dc4c1422c84bed7fd71e41]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/572/regulation/5) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
 
-[^key-a6760088bbf72b9fd904c734a3fadef3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/572/regulation/6) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
+[^c-a6760088bbf72b9fd904c734a3fadef3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/572/regulation/6) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
 
-[^key-81536b51335775f46596eb8b523feafd]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/572/regulation/7) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
+[^c-81536b51335775f46596eb8b523feafd]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/572/regulation/7) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
 
-[^key-4130e1108da204c181d4b7be6c6b54c5]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/572/regulation/8) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
+[^c-4130e1108da204c181d4b7be6c6b54c5]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/572/regulation/8) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
 
-[^key-f322dae62cb1ed7755775d32e4206224]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/572/regulation/9) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
+[^c-f322dae62cb1ed7755775d32e4206224]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/572/regulation/9) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
 
-[^key-d41e5f4484fcddc9c5885c8f365ec92d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/572/regulation/10) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
+[^c-d41e5f4484fcddc9c5885c8f365ec92d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/572/regulation/10) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
 
-[^key-3b4f8139f3b76d98bb7ff9280ed2d65c]: Textual amendment: Word in [reg. 10](https://www.legislation.gov.uk/uksi/2015/572/regulation/10) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/14/2)
+[^c-3b4f8139f3b76d98bb7ff9280ed2d65c]: Textual amendment: Word in [reg. 10](https://www.legislation.gov.uk/uksi/2015/572/regulation/10) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/14/2)
 
-[^key-1c970c2d65bac6accc9bb000c1300e42]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/572/regulation/11) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
+[^c-1c970c2d65bac6accc9bb000c1300e42]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/572/regulation/11) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
 
 [^f00004]: Footnote: Section 31ZA was inserted by section 24 of the 2008 Act.
 
-[^key-f6c85e35a20c8b5577439a8cdf1d1a03]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/572/regulation/12) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
+[^c-f6c85e35a20c8b5577439a8cdf1d1a03]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/572/regulation/12) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
 
 [^f00005]: Footnote: Section 31ZB was inserted by section 24 of the 2008 Act.
 
-[^key-4e7af3c31f547f2ccbc1e89817e27eb0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/572/regulation/13) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
+[^c-4e7af3c31f547f2ccbc1e89817e27eb0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/572/regulation/13) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
 
 [^f00006]: Footnote: Section 31ZC was inserted by section 24 of the 2008 Act.
 
-[^key-817599d4f8849a037afbcd9dcbb01eda]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/572/regulation/14) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
+[^c-817599d4f8849a037afbcd9dcbb01eda]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/572/regulation/14) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
 
 [^f00007]: Footnote: Section 31ZD was inserted by section 24 of the 2008 Act.
 
-[^key-b45d0b9332dcd235f467df51729b515c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/572/regulation/15) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
+[^c-b45d0b9332dcd235f467df51729b515c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/572/regulation/15) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
 
 [^f00008]: Footnote: Section 31ZE was inserted by section 24 of the 2008 Act.
 
-[^key-bc9f83e575727e99d97ff2a5552dbabf]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/572/regulation/16) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
+[^c-bc9f83e575727e99d97ff2a5552dbabf]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/572/regulation/16) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
 
-[^key-1fb91a0a4236a78c96b90ef39060c698]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2015/572/regulation/17) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
+[^c-1fb91a0a4236a78c96b90ef39060c698]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2015/572/regulation/17) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
 
-[^key-802f00522745f473f583a2b5e54eb931]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2015/572/regulation/18) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
+[^c-802f00522745f473f583a2b5e54eb931]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2015/572/regulation/18) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
 
-[^key-1a0157da7db8f1c69b1ef53a8c106163]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/uksi/2015/572/regulation/18A) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/14/3)
+[^c-1a0157da7db8f1c69b1ef53a8c106163]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/uksi/2015/572/regulation/18A) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/14/3)
 
-[^key-d31c869be3e7a3fbbc1b12ad3ab4c7f4]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2015/572/regulation/19) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
+[^c-d31c869be3e7a3fbbc1b12ad3ab4c7f4]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2015/572/regulation/19) in force at 29.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1)
 
 [^f00009]: Footnote: [S.I. 2004/1511](https://www.legislation.gov.uk/uksi/2004/1511).

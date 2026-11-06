@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-551f08f9118aa16bbaf5b10a24117197] This section does not apply to a person appointed as Comptroller and Auditor General under Part 2 of the Budget Responsibility and National Audit Act 2011.
+(A1)[^c-551f08f9118aa16bbaf5b10a24117197] This section does not apply to a person appointed as Comptroller and Auditor General under Part 2 of the Budget Responsibility and National Audit Act 2011.
 
 (1) A person who first holds office on or after the appointed day as the Comptroller and Auditor General (in this section referred to as “**the Comptroller**”) shall be entitled, if he was a member of a judicial pension scheme immediately before he first holds that office, to elect between—
 
@@ -113,7 +113,7 @@ applies, or has applied, in respect of any service other than service as Comptro
 
 [^c8519751]: Textual amendment: S. 13 substituted (31.3.1995) by [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8), [s. 25](https://www.legislation.gov.uk/ukpga/1993/8/section/25), [Sch. 4 Pt. 1 para.1](https://www.legislation.gov.uk/ukpga/1993/8/schedule/4/part/1/paragraph/1); [S.I. 1995/631](https://www.legislation.gov.uk/uksi/1995/631), [art. 2](https://www.legislation.gov.uk/uksi/1995/631/article/2)
 
-[^key-551f08f9118aa16bbaf5b10a24117197]: Textual amendment: S. 13(A1) inserted (1.4.2012) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 6(1)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/6/1) (with [Sch. 5 para. 6(2)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/6/2)); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-551f08f9118aa16bbaf5b10a24117197]: Textual amendment: S. 13(A1) inserted (1.4.2012) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 6(1)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/6/1) (with [Sch. 5 para. 6(2)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/6/2)); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
 [^c8519771]: Textual amendment: Words in definition of “judicial pension scheme” in s. 13(15) substituted (7.2.1994) by [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48), [s. 190](https://www.legislation.gov.uk/ukpga/1993/48/section/190), [Sch. 8 para.8](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/8) (with [s. 6(8)](https://www.legislation.gov.uk/ukpga/1993/48/section/6/8)); [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
 

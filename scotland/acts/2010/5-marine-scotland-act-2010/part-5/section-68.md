@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Nature Conservation MPAs: additional requirements relating to designation[^key-6b68cbe0e115dceea3aedc102cd5659a]
+## 68. Nature Conservation MPAs: additional requirements relating to designation[^c-6b68cbe0e115dceea3aedc102cd5659a]
 
 *Extent: S*
 
@@ -71,4 +71,4 @@ in the area.
 
 ## Annotations
 
-[^key-6b68cbe0e115dceea3aedc102cd5659a]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2010/5/section/68) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)
+[^c-6b68cbe0e115dceea3aedc102cd5659a]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2010/5/section/68) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)

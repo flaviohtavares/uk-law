@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Proceedings in respect of statutory nuisance[^key-eab511d8092e1a0786d71783f11174ce]
+## 31. Proceedings in respect of statutory nuisance[^c-eab511d8092e1a0786d71783f11174ce]
 
 *Extent: E+W+S*
 
@@ -35,7 +35,7 @@ shall not apply where the consent relates to the use of premises by the Company 
 
 ## Annotations
 
-[^key-eab511d8092e1a0786d71783f11174ce]: Commencement: Art. 31 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-eab511d8092e1a0786d71783f11174ce]: Commencement: Art. 31 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
 [^f00025]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 

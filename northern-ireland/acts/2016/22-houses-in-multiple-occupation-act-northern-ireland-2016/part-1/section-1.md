@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Meaning of “house in multiple occupation”[^key-e92e4fdfafb540608cee8e6303bf1661]
+## 1. Meaning of “house in multiple occupation”[^c-e92e4fdfafb540608cee8e6303bf1661]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e92e4fdfafb540608cee8e6303bf1661]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2016/22/section/1) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-e92e4fdfafb540608cee8e6303bf1661]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2016/22/section/1) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

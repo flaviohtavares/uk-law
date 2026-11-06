@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. General functions of Commissioner[^key-4e5f3ebe42ab6433c38f65209b0151df]
+## 41. General functions of Commissioner[^c-4e5f3ebe42ab6433c38f65209b0151df]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 - (a) section 1, 2 or 4 of this Act,
 - (b) section 1, 2 or 4 of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2 (N.I.)) (equivalent offences in Northern Ireland),
-- (c)[^key-60f037e56d76fc01edd3fcbcdfd6c7e9] section 1 or 4 of the Human Trafficking and Exploitation (Scotland) Act [2015 (asp 12)](https://www.legislation.gov.uk/asp/2015/12) (equivalent offences in Scotland).
+- (c)[^c-60f037e56d76fc01edd3fcbcdfd6c7e9] section 1 or 4 of the Human Trafficking and Exploitation (Scotland) Act [2015 (asp 12)](https://www.legislation.gov.uk/asp/2015/12) (equivalent offences in Scotland).
 
 (3) The things that the Commissioner may do in pursuance of subsection (1) include—
 
@@ -71,6 +71,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4e5f3ebe42ab6433c38f65209b0151df]: Commencement: S. 41 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/c) (with [regs. 6](https://www.legislation.gov.uk/uksi/2015/1476/regulation/6), [8](https://www.legislation.gov.uk/uksi/2015/1476/regulation/8))
+[^c-4e5f3ebe42ab6433c38f65209b0151df]: Commencement: S. 41 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/c) (with [regs. 6](https://www.legislation.gov.uk/uksi/2015/1476/regulation/6), [8](https://www.legislation.gov.uk/uksi/2015/1476/regulation/8))
 
-[^key-60f037e56d76fc01edd3fcbcdfd6c7e9]: Textual amendment: S. 41(2)(c) substituted for s. 41(c)-(e) (17.12.2016) by [The Human Trafficking and Exploitation (Scotland) Act 2015 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1031)](https://www.legislation.gov.uk/uksi/2016/1031), [art. 1(1)](https://www.legislation.gov.uk/uksi/2016/1031/article/1/1), [Sch. para. 3(4)](https://www.legislation.gov.uk/uksi/2016/1031/schedule/paragraph/3/4)
+[^c-60f037e56d76fc01edd3fcbcdfd6c7e9]: Textual amendment: S. 41(2)(c) substituted for s. 41(c)-(e) (17.12.2016) by [The Human Trafficking and Exploitation (Scotland) Act 2015 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1031)](https://www.legislation.gov.uk/uksi/2016/1031), [art. 1(1)](https://www.legislation.gov.uk/uksi/2016/1031/article/1/1), [Sch. para. 3(4)](https://www.legislation.gov.uk/uksi/2016/1031/schedule/paragraph/3/4)

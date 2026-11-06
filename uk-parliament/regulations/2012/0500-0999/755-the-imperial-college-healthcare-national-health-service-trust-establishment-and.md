@@ -43,13 +43,13 @@ The Secretary of State for Health makes the following Order in exercise of the p
 
 In accordance with section 25(3) of that Act, the prescribed consultation has been completed[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-d4ff5bc97980f96bb851c5b560b0d432]
+## 1. Citation, commencement and interpretation[^c-d4ff5bc97980f96bb851c5b560b0d432]
 
 (1) This Order may be cited as the Imperial College Healthcare National Health Service Trust (Establishment) and the Hammersmith Hospitals National Health Service Trust and the St Mary’s National Health Service Trust (Dissolution) (Amendment) Order 2012 and comes into force on 1st April 2012.
 
 (2) In this Order, the “Establishment Order” means the Imperial College Healthcare National Health Service Trust (Establishment) and the Hammersmith Hospitals National Health Service Trust and the St Mary’s National Health Service Trust (Dissolution) Order 2007[^f00003].
 
-## 2. Substitution of article 3 of the Establishment Order[^key-d56f04005c59084030b5cfab9fb43b4f]
+## 2. Substitution of article 3 of the Establishment Order[^c-d56f04005c59084030b5cfab9fb43b4f]
 
 For article 3 of the Establishment Order (nature and functions of the trust) substitute—
 
@@ -81,8 +81,8 @@ This Order amends the Imperial College Healthcare National Health Service Trust 
 
 [^f00002]: Footnote: *See* [S.I. 2010/743](https://www.legislation.gov.uk/uksi/2010/743).
 
-[^key-d4ff5bc97980f96bb851c5b560b0d432]: Commencement: Art. 1 in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/755/article/1/1)
+[^c-d4ff5bc97980f96bb851c5b560b0d432]: Commencement: Art. 1 in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/755/article/1/1)
 
 [^f00003]: Footnote: [S.I. 2007/2755](https://www.legislation.gov.uk/uksi/2007/2755).
 
-[^key-d56f04005c59084030b5cfab9fb43b4f]: Commencement: Art. 2 in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/755/article/1/1)
+[^c-d56f04005c59084030b5cfab9fb43b4f]: Commencement: Art. 2 in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/755/article/1/1)

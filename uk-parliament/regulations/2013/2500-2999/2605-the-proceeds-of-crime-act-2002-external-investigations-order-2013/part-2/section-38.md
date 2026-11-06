@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Action on receipt of request in relation to an external investigation[^key-847e06d8aca4811d0d4a7eb9ad9fbe57]
+## 38. Action on receipt of request in relation to an external investigation[^c-847e06d8aca4811d0d4a7eb9ad9fbe57]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-847e06d8aca4811d0d4a7eb9ad9fbe57]: Commencement: [Art. 38](https://www.legislation.gov.uk/uksi/2013/2605/article/38) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-847e06d8aca4811d0d4a7eb9ad9fbe57]: Commencement: [Art. 38](https://www.legislation.gov.uk/uksi/2013/2605/article/38) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)

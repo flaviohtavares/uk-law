@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Transparency reports about certain Part 3 services[^key-f27ae32e9267c38615365100982191f1][^key-01fcacb4c8a873a3d81c5eda5fe274bd]
+## 77. Transparency reports about certain Part 3 services[^c-f27ae32e9267c38615365100982191f1][^c-01fcacb4c8a873a3d81c5eda5fe274bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,6 +71,6 @@ But in the case of a service described in subsection (9), that subsection applie
 
 ## Annotations
 
-[^key-f27ae32e9267c38615365100982191f1]: Commencement: S. 77 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-f27ae32e9267c38615365100982191f1]: Commencement: S. 77 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-01fcacb4c8a873a3d81c5eda5fe274bd]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2023/50/section/77) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(x)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/x)
+[^c-01fcacb4c8a873a3d81c5eda5fe274bd]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2023/50/section/77) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(x)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/x)

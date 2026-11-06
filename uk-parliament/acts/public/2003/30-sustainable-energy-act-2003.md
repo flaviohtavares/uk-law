@@ -36,32 +36,32 @@ An Act to make provision about the development and promotion of a sustainable en
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Annual reports on progress towards sustainable energy aims[^key-bd49af5f00d8bf76f3bf85f68af8e254]
+## 1. Annual reports on progress towards sustainable energy aims[^c-bd49af5f00d8bf76f3bf85f68af8e254]
 
-(1) The Secretary of State must , for each reporting period,[^key-bf8839d835f3b2ebaa8277d18e37e844] publish a report (“a sustainable energy report”) on the progress made in the reporting period towards—
+(1) The Secretary of State must , for each reporting period,[^c-bf8839d835f3b2ebaa8277d18e37e844] publish a report (“a sustainable energy report”) on the progress made in the reporting period towards—
 
 - (a) cutting the United Kingdom’s carbon emissions;
 - (b) maintaining the reliability of the United Kingdom’s energy supplies;
-- (c) promoting competitive energy markets in the United Kingdom; [^key-3185383aed9a97eca3ece5d41dc777aa]...
+- (c) promoting competitive energy markets in the United Kingdom; [^c-3185383aed9a97eca3ece5d41dc777aa]...
 - (d) reducing the number of people living in fuel poverty in the United Kingdom
-- (e)[^key-e494cb774910f941a7f0e75f318f4604] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-e494cb774910f941a7f0e75f318f4604] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-3c544481530e9a99f88bdf2e494f93ed] The report must include, in particular, all such information as the Secretary of State considers appropriate about—
+(1A)[^c-3c544481530e9a99f88bdf2e494f93ed] The report must include, in particular, all such information as the Secretary of State considers appropriate about—
 
-- (a)[^key-0c37ca393d780af457b9f207fe4a0541] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-0c37ca393d780af457b9f207fe4a0541] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (ba)[^key-b9bdd6321ea205e76bdc0f31c7461425] things done during that period pursuant to section 19 of the Climate Change and Sustainable Energy Act 2006 for the purpose of promoting community energy projects;
-- (bb)[^key-8755a10ca472c0434a9df85730ef5d16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-0c37ca393d780af457b9f207fe4a0541] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-ee2ef869bbbae87dd090857d8ab2d1b3] things done during that period for the purpose of implementing the strategy for the promotion of microgeneration in Great Britain published under section 82 of the Energy Act 2004.
+- (a)[^c-0c37ca393d780af457b9f207fe4a0541] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-0c37ca393d780af457b9f207fe4a0541] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ba)[^c-b9bdd6321ea205e76bdc0f31c7461425] things done during that period pursuant to section 19 of the Climate Change and Sustainable Energy Act 2006 for the purpose of promoting community energy projects;
+- (bb)[^c-8755a10ca472c0434a9df85730ef5d16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-0c37ca393d780af457b9f207fe4a0541] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-ee2ef869bbbae87dd090857d8ab2d1b3] things done during that period for the purpose of implementing the strategy for the promotion of microgeneration in Great Britain published under section 82 of the Energy Act 2004.
 
-(1AA)[^key-39493321e5babce6dded58fedcfc7f06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1AA)[^c-39493321e5babce6dded58fedcfc7f06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1B)[^key-9521ffae982ea5fd8b8e3c35f6c62a97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1B)[^c-9521ffae982ea5fd8b8e3c35f6c62a97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1C)[^key-9521ffae982ea5fd8b8e3c35f6c62a97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1C)[^c-9521ffae982ea5fd8b8e3c35f6c62a97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-d86270937f13f1cc84a398fd00ac0f3f] “ **Reporting period** ”, for the purposes of subsections (1) to (1AA), means—
+(2)[^c-d86270937f13f1cc84a398fd00ac0f3f] “ **Reporting period** ”, for the purposes of subsections (1) to (1AA), means—
 
 - (a) the period beginning with 24 February 2008 and ending with 31 December 2008, and
 - (b) each successive calendar year.
@@ -70,13 +70,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (4) A sustainable energy report may either be published as a single report or published in a number of parts during the publication period, and any such report or part may be contained in a document containing other material.
 
-(4A)[^key-a1221fb4b3038b776f5eeb01e6ad34e4] A report or part of a report published under this section must specify the period to which it relates.
+(4A)[^c-a1221fb4b3038b776f5eeb01e6ad34e4] A report or part of a report published under this section must specify the period to which it relates.
 
 (5) A sustainable energy report must be based on such information as is available to the Secretary of State when the report is completed (except that if it is published in parts, each of those parts must be based on such information as is so available when that part is completed).
 
 (6) For the purposes of this section a person is to be regarded as living in fuel poverty if he is a member of a household living on a lower income in a home which cannot be kept warm at a reasonable cost.
 
-## 2. Energy efficiency of residential accommodation: Secretary of State[^key-44529ae3d1e7db89ab8197607965a108]
+## 2. Energy efficiency of residential accommodation: Secretary of State[^c-44529ae3d1e7db89ab8197607965a108]
 
 *Extent: E+W*
 
@@ -86,7 +86,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - (a) is contained in a published document;
 - (b) relates to the energy efficiency of residential accommodation in England; and
-- (c) is compatible with EU[^key-695ee7ebf56fdeb235e90976faf39231] obligations and any other international obligations of the United Kingdom.
+- (c) is compatible with EU[^c-695ee7ebf56fdeb235e90976faf39231] obligations and any other international obligations of the United Kingdom.
 
 (3) The Secretary of State may, at any time after designation under subsection (1), designate under this subsection a further energy efficiency aim or aims.
 
@@ -186,7 +186,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 (13) The Assembly may by order—
 
 - (a) amend this section so as to alter the body which must be consulted by it;
-- (b)[^key-4d4a1b15d628b36687ca39ddb5929d18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-4d4a1b15d628b36687ca39ddb5929d18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (14) Any power to make an order under this section is exercisable by statutory instrument which, in the case of an order made by the Secretary of State, shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
@@ -197,7 +197,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - “**area**”, in relation to an energy conservation authority;
 - “**energy conservation measures**”.
 
-## 5. CHP targets[^key-801169b8cb00567ce48ea5c599e720af]
+## 5. CHP targets[^c-801169b8cb00567ce48ea5c599e720af]
 
 *Extent: E+W*
 
@@ -299,7 +299,7 @@ After section 5 of the Utilities Act 2000 (c. 27) insert—
 >
 > (12) References in sections 3A, 3B and 3C of the 1989 Act to functions of the Authority under Part 1 of that Act include references to any functions of the Authority under this section that are exercisable in relation to a proposal to do anything for the purposes of, or in connection with, the carrying out of any function of the Authority under Part 1 of the 1989 Act.
 
-## 7. Use of certain money held by Gas and Electricity Markets Authority[^key-24895e0770a8e364ca6cc4211d66d205]
+## 7. Use of certain money held by Gas and Electricity Markets Authority[^c-24895e0770a8e364ca6cc4211d66d205]
 
 *Extent: E+W*
 
@@ -332,38 +332,38 @@ There shall be paid out of money provided by Parliament—
 
 ## Annotations
 
-[^key-bd49af5f00d8bf76f3bf85f68af8e254]: Modification: S. 1 applied (with modifications) (E.W.S.) (21.8.2006) by [Climate Change and Sustainable Energy Act 2006 (c. 19)](https://www.legislation.gov.uk/ukpga/2006/19), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2006/19/section/5/2), [28(1)](https://www.legislation.gov.uk/ukpga/2006/19/section/28/1)
+[^c-bd49af5f00d8bf76f3bf85f68af8e254]: Modification: S. 1 applied (with modifications) (E.W.S.) (21.8.2006) by [Climate Change and Sustainable Energy Act 2006 (c. 19)](https://www.legislation.gov.uk/ukpga/2006/19), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2006/19/section/5/2), [28(1)](https://www.legislation.gov.uk/ukpga/2006/19/section/28/1)
 
-[^key-bf8839d835f3b2ebaa8277d18e37e844]: Textual amendment: Words in s. 1(1) substituted (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 87(1)(a)](https://www.legislation.gov.uk/ukpga/2008/32/section/87/1/a), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/d/ii)
+[^c-bf8839d835f3b2ebaa8277d18e37e844]: Textual amendment: Words in s. 1(1) substituted (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 87(1)(a)](https://www.legislation.gov.uk/ukpga/2008/32/section/87/1/a), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/d/ii)
 
-[^key-3185383aed9a97eca3ece5d41dc777aa]: Textual amendment: Word in s. 1(1)(c) omitted (1.1.2007) by virtue of [Climate Change and Sustainable Energy Act 2006 (c. 19)](https://www.legislation.gov.uk/ukpga/2006/19), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2006/19/section/12/2/a), [28(2)](https://www.legislation.gov.uk/ukpga/2006/19/section/28/2)
+[^c-3185383aed9a97eca3ece5d41dc777aa]: Textual amendment: Word in s. 1(1)(c) omitted (1.1.2007) by virtue of [Climate Change and Sustainable Energy Act 2006 (c. 19)](https://www.legislation.gov.uk/ukpga/2006/19), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2006/19/section/12/2/a), [28(2)](https://www.legislation.gov.uk/ukpga/2006/19/section/28/2)
 
-[^key-e494cb774910f941a7f0e75f318f4604]: Textual amendment: S. 1(1)(e) ceased to have effect (21.3.2012) by virtue of [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 118(3)(a)](https://www.legislation.gov.uk/ukpga/2011/16/section/118/3/a), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/873/article/2/c)
+[^c-e494cb774910f941a7f0e75f318f4604]: Textual amendment: S. 1(1)(e) ceased to have effect (21.3.2012) by virtue of [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 118(3)(a)](https://www.legislation.gov.uk/ukpga/2011/16/section/118/3/a), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/873/article/2/c)
 
-[^key-3c544481530e9a99f88bdf2e494f93ed]: Textual amendment: S. 1(1A)-(1C) inserted (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 81(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/81/2), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-3c544481530e9a99f88bdf2e494f93ed]: Textual amendment: S. 1(1A)-(1C) inserted (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 81(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/81/2), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-0c37ca393d780af457b9f207fe4a0541]: Textual amendment: S. 1(1A)(a)(b)(c) repealed (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 87(1)(b)](https://www.legislation.gov.uk/ukpga/2008/32/section/87/1/b), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/2008/32/schedule/6); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(d)(e)(vi)](https://www.legislation.gov.uk/uksi/2009/45/article/2/d/e/vi)[(ff)](https://www.legislation.gov.uk/uksi/2009/45/article/2/d/ff)[(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/d/ii)
+[^c-0c37ca393d780af457b9f207fe4a0541]: Textual amendment: S. 1(1A)(a)(b)(c) repealed (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 87(1)(b)](https://www.legislation.gov.uk/ukpga/2008/32/section/87/1/b), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/2008/32/schedule/6); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(d)(e)(vi)](https://www.legislation.gov.uk/uksi/2009/45/article/2/d/e/vi)[(ff)](https://www.legislation.gov.uk/uksi/2009/45/article/2/d/ff)[(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/d/ii)
 
-[^key-b9bdd6321ea205e76bdc0f31c7461425]: Textual amendment: S. 1(1A)(ba)(bb) inserted (1.1.2007) by [Climate Change and Sustainable Energy Act 2006 (c. 19)](https://www.legislation.gov.uk/ukpga/2006/19), [ss. 22(a)](https://www.legislation.gov.uk/ukpga/2006/19/section/22/a), [28(2)](https://www.legislation.gov.uk/ukpga/2006/19/section/28/2)
+[^c-b9bdd6321ea205e76bdc0f31c7461425]: Textual amendment: S. 1(1A)(ba)(bb) inserted (1.1.2007) by [Climate Change and Sustainable Energy Act 2006 (c. 19)](https://www.legislation.gov.uk/ukpga/2006/19), [ss. 22(a)](https://www.legislation.gov.uk/ukpga/2006/19/section/22/a), [28(2)](https://www.legislation.gov.uk/ukpga/2006/19/section/28/2)
 
-[^key-8755a10ca472c0434a9df85730ef5d16]: Textual amendment: [S. 1(1A)(bb)](https://www.legislation.gov.uk/ukpga/2003/30/section/1/1A/bb) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 57(4)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/57/4/a), [115(3)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/e)
+[^c-8755a10ca472c0434a9df85730ef5d16]: Textual amendment: [S. 1(1A)(bb)](https://www.legislation.gov.uk/ukpga/2003/30/section/1/1A/bb) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 57(4)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/57/4/a), [115(3)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/e)
 
-[^key-ee2ef869bbbae87dd090857d8ab2d1b3]: Textual amendment: S. 1(1A)(d) and preceding word inserted (1.1.2007) by [Climate Change and Sustainable Energy Act 2006 (c. 19)](https://www.legislation.gov.uk/ukpga/2006/19), [ss. 6(b)](https://www.legislation.gov.uk/ukpga/2006/19/section/6/b), [28(2)](https://www.legislation.gov.uk/ukpga/2006/19/section/28/2)
+[^c-ee2ef869bbbae87dd090857d8ab2d1b3]: Textual amendment: S. 1(1A)(d) and preceding word inserted (1.1.2007) by [Climate Change and Sustainable Energy Act 2006 (c. 19)](https://www.legislation.gov.uk/ukpga/2006/19), [ss. 6(b)](https://www.legislation.gov.uk/ukpga/2006/19/section/6/b), [28(2)](https://www.legislation.gov.uk/ukpga/2006/19/section/28/2)
 
-[^key-39493321e5babce6dded58fedcfc7f06]: Textual amendment: S. 1(1AA) ceased to have effect (21.3.2012) by virtue of [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 118(3)(b)](https://www.legislation.gov.uk/ukpga/2011/16/section/118/3/b), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/873/article/2/c)
+[^c-39493321e5babce6dded58fedcfc7f06]: Textual amendment: S. 1(1AA) ceased to have effect (21.3.2012) by virtue of [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 118(3)(b)](https://www.legislation.gov.uk/ukpga/2011/16/section/118/3/b), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/873/article/2/c)
 
-[^key-9521ffae982ea5fd8b8e3c35f6c62a97]: Textual amendment: S. 1(1B)(1C) repealed (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 87(1)(c)](https://www.legislation.gov.uk/ukpga/2008/32/section/87/1/c), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/2008/32/schedule/6); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(d)(e)(vi)](https://www.legislation.gov.uk/uksi/2009/45/article/2/d/e/vi)[(ff)](https://www.legislation.gov.uk/uksi/2009/45/article/2/d/ff)[(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/d/ii)
+[^c-9521ffae982ea5fd8b8e3c35f6c62a97]: Textual amendment: S. 1(1B)(1C) repealed (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 87(1)(c)](https://www.legislation.gov.uk/ukpga/2008/32/section/87/1/c), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/2008/32/schedule/6); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(d)(e)(vi)](https://www.legislation.gov.uk/uksi/2009/45/article/2/d/e/vi)[(ff)](https://www.legislation.gov.uk/uksi/2009/45/article/2/d/ff)[(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/d/ii)
 
-[^key-d86270937f13f1cc84a398fd00ac0f3f]: Textual amendment: S. 1(2)(3) substituted (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 87(1)(d)](https://www.legislation.gov.uk/ukpga/2008/32/section/87/1/d), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/d/ii)
+[^c-d86270937f13f1cc84a398fd00ac0f3f]: Textual amendment: S. 1(2)(3) substituted (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 87(1)(d)](https://www.legislation.gov.uk/ukpga/2008/32/section/87/1/d), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/d/ii)
 
-[^key-a1221fb4b3038b776f5eeb01e6ad34e4]: Textual amendment: S. 1(4A) inserted (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 87(1)(e)](https://www.legislation.gov.uk/ukpga/2008/32/section/87/1/e), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/d/ii)
+[^c-a1221fb4b3038b776f5eeb01e6ad34e4]: Textual amendment: S. 1(4A) inserted (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 87(1)(e)](https://www.legislation.gov.uk/ukpga/2008/32/section/87/1/e), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/d/ii)
 
-[^key-44529ae3d1e7db89ab8197607965a108]: Commencement: S. 2 in force at 25.4.2004 by [S.I. 2004/1203](https://www.legislation.gov.uk/uksi/2004/1203), [art. 2](https://www.legislation.gov.uk/uksi/2004/1203/article/2)
+[^c-44529ae3d1e7db89ab8197607965a108]: Commencement: S. 2 in force at 25.4.2004 by [S.I. 2004/1203](https://www.legislation.gov.uk/uksi/2004/1203), [art. 2](https://www.legislation.gov.uk/uksi/2004/1203/article/2)
 
-[^key-695ee7ebf56fdeb235e90976faf39231]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-695ee7ebf56fdeb235e90976faf39231]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
-[^key-4d4a1b15d628b36687ca39ddb5929d18]: Textual amendment: [S. 4(13)(b)](https://www.legislation.gov.uk/ukpga/2003/30/section/4/13/b) ceased to have effect (21.3.2012) by virtue of [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 118(4)](https://www.legislation.gov.uk/ukpga/2011/16/section/118/4), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/873/article/2/c)
+[^c-4d4a1b15d628b36687ca39ddb5929d18]: Textual amendment: [S. 4(13)(b)](https://www.legislation.gov.uk/ukpga/2003/30/section/4/13/b) ceased to have effect (21.3.2012) by virtue of [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 118(4)](https://www.legislation.gov.uk/ukpga/2011/16/section/118/4), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/873/article/2/c)
 
-[^key-801169b8cb00567ce48ea5c599e720af]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2003/30/section/5) in force at 28.11.2003 by [S.I. 2003/2986](https://www.legislation.gov.uk/uksi/2003/2986), [art. 2](https://www.legislation.gov.uk/uksi/2003/2986/article/2)
+[^c-801169b8cb00567ce48ea5c599e720af]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2003/30/section/5) in force at 28.11.2003 by [S.I. 2003/2986](https://www.legislation.gov.uk/uksi/2003/2986), [art. 2](https://www.legislation.gov.uk/uksi/2003/2986/article/2)
 
-[^key-24895e0770a8e364ca6cc4211d66d205]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/2003/30/section/7) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 19](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/19)
+[^c-24895e0770a8e364ca6cc4211d66d205]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/2003/30/section/7) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 19](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/19)

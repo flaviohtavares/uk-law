@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28A. Meaning of “pre-2026 claimant”[^key-088e400f6d91e0cb8d2091476dccddaa]
+## 28A. Meaning of “pre-2026 claimant”[^c-088e400f6d91e0cb8d2091476dccddaa]
 
 *Extent: N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) was entitled at any time before 6 April 2026 to an award of universal credit that included the LCWRA element, and
 - (b) has been entitled to an award of universal credit that included the LCWRA element continuously from that time.
 
-(1A)[^key-6e205d58384747eac311853988dffba5] Schedule 5A sets out further circumstances in which a claimant with limited capability for work and work-related activity is a “**pre-2026 claimant**” for the purposes of regulation 28.
+(1A)[^c-6e205d58384747eac311853988dffba5] Schedule 5A sets out further circumstances in which a claimant with limited capability for work and work-related activity is a “**pre-2026 claimant**” for the purposes of regulation 28.
 
 (2) For the purpose of determining whether the claimant has been continuously entitled to an award of universal credit, no account is to be taken of any period of non-entitlement—
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-088e400f6d91e0cb8d2091476dccddaa]: Textual amendment: [Reg. 28A](https://www.legislation.gov.uk/nisr/2016/216/regulation/28A) inserted (6.4.2026 with effect as in relation to assessment periods commencing on or after that date) by [Universal Credit Act 2025 (c. 22)](https://www.legislation.gov.uk/ukpga/2025/22), [Sch. 2 para. 2(4)](https://www.legislation.gov.uk/ukpga/2025/22/schedule/2/paragraph/2/4)[(10)](https://www.legislation.gov.uk/ukpga/2025/22/schedule/2/paragraph/2/10)
+[^c-088e400f6d91e0cb8d2091476dccddaa]: Textual amendment: [Reg. 28A](https://www.legislation.gov.uk/nisr/2016/216/regulation/28A) inserted (6.4.2026 with effect as in relation to assessment periods commencing on or after that date) by [Universal Credit Act 2025 (c. 22)](https://www.legislation.gov.uk/ukpga/2025/22), [Sch. 2 para. 2(4)](https://www.legislation.gov.uk/ukpga/2025/22/schedule/2/paragraph/2/4)[(10)](https://www.legislation.gov.uk/ukpga/2025/22/schedule/2/paragraph/2/10)
 
-[^key-6e205d58384747eac311853988dffba5]: Textual amendment: [Reg. 28A(1A)](https://www.legislation.gov.uk/nisr/2016/216/regulation/28A/1A) inserted (6.4.2026 with effect in relation to assessment periods commencing on or after that date) by [The Universal Credit and Employment and Support Allowance (Rates of Allowances) (Amendment and Modification) Regulations (Northern Ireland) 2026 (S.R. 2026/54)](https://www.legislation.gov.uk/nisr/2026/54), [regs. 1(4)](https://www.legislation.gov.uk/nisr/2026/54/regulation/1/3), [3(2)](https://www.legislation.gov.uk/nisr/2026/54/regulation/3/2)
+[^c-6e205d58384747eac311853988dffba5]: Textual amendment: [Reg. 28A(1A)](https://www.legislation.gov.uk/nisr/2016/216/regulation/28A/1A) inserted (6.4.2026 with effect in relation to assessment periods commencing on or after that date) by [The Universal Credit and Employment and Support Allowance (Rates of Allowances) (Amendment and Modification) Regulations (Northern Ireland) 2026 (S.R. 2026/54)](https://www.legislation.gov.uk/nisr/2026/54), [regs. 1(4)](https://www.legislation.gov.uk/nisr/2026/54/regulation/1/3), [3(2)](https://www.legislation.gov.uk/nisr/2026/54/regulation/3/2)

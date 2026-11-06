@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 166. Security[^key-da3eb02bda84ca51871dd02e911d1150]
+## 166. Security[^c-da3eb02bda84ca51871dd02e911d1150]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.207 of the 1986 Rules[^f00060].
 
 ## Annotations
 
-[^key-da3eb02bda84ca51871dd02e911d1150]: Commencement: Rule 166 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-da3eb02bda84ca51871dd02e911d1150]: Commencement: Rule 166 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00060]: Footnote: Paragraphs (5) and (6) were amended by [S.I. 2008/737](https://www.legislation.gov.uk/uksi/2008/737).

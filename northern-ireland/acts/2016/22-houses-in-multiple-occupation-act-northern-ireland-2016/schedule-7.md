@@ -24,7 +24,7 @@ Section 89.
 
 ### Land Registration Act (Northern Ireland) 1970
 
-**1.**[^key-c2908fb22e61ea5a15f1295c027f575b] In Schedule 11 (matters which must be registered in the Statutory Charges Register), after paragraph 51 insert—
+**1.**[^c-c2908fb22e61ea5a15f1295c027f575b] In Schedule 11 (matters which must be registered in the Statutory Charges Register), after paragraph 51 insert—
 
 > **52.** Any of the following notices under the Houses in Multiple Occupation Act (Northern Ireland) 2016—
 >
@@ -36,30 +36,30 @@ Section 89.
 
 ### Rates (Northern Ireland) Order 1977
 
-**2.**[^key-fe6966c9a927a8fc482b3e424c88df8d] In Article 20(1B) (rating of owners instead of occupiers in certain cases)—
+**2.**[^c-fe6966c9a927a8fc482b3e424c88df8d] In Article 20(1B) (rating of owners instead of occupiers in certain cases)—
 
 - (a) for “Part IV of the Housing (Northern Ireland) Order 1992 (NI 15)” substitute “ the Houses in Multiple Occupation Act (Northern Ireland) 2016 ”, and
 - (b) for “shall not be treated as a qualifying person” substitute “ is to be disregarded ”.
 
 ### Housing (Northern Ireland) Order 1981
 
-**3.**[^key-eb6beca11ee53ca172611f74a0efea85] (1) In Article 2(2), in the definition of “house in multiple occupation”, for “Article 75 of the Housing (Northern Ireland) Order 1992” substitute “ section 1 of the Houses in Multiple Occupation Act (Northern Ireland) 2016 ”.
+**3.**[^c-eb6beca11ee53ca172611f74a0efea85] (1) In Article 2(2), in the definition of “house in multiple occupation”, for “Article 75 of the Housing (Northern Ireland) Order 1992” substitute “ section 1 of the Houses in Multiple Occupation Act (Northern Ireland) 2016 ”.
 
 (2) In Article 41(4) (service of repair notice), for “the person managing the house” substitute “ the managing agent of the house (within the meaning of the Houses in Multiple Occupation Act (Northern Ireland) 2016) ”.
 
 ### Home Energy Conservation Act 1995
 
-**4.**[^key-a78dc3f5c35bdd18f1863220524d0d5b] In section 1(1), in the definition of “residential accommodation”, in paragraph (aa)(iii) (houses in multiple occupation: Northern Ireland), for “Article 75 of the Housing (Northern Ireland) Order 1992” substitute “ section 1 of the Houses in Multiple Occupation Act (Northern Ireland) 2016 ”.
+**4.**[^c-a78dc3f5c35bdd18f1863220524d0d5b] In section 1(1), in the definition of “residential accommodation”, in paragraph (aa)(iii) (houses in multiple occupation: Northern Ireland), for “Article 75 of the Housing (Northern Ireland) Order 1992” substitute “ section 1 of the Houses in Multiple Occupation Act (Northern Ireland) 2016 ”.
 
 ### Housing (Northern Ireland) Order 2003
 
-**5.**[^key-9506a6324f715c4d5ef443e53e400746] In Article 2(2) (general interpretation), at the appropriate place insert—
+**5.**[^c-9506a6324f715c4d5ef443e53e400746] In Article 2(2) (general interpretation), at the appropriate place insert—
 
 > the Act of 2016” means the Houses in Multiple Occupation Act (Northern Ireland) 2016;
 
 .
 
-**6.**[^key-cc11d2f83f2e2229363fc0b66770794d] (1) In Article 28(1)—
+**6.**[^c-cc11d2f83f2e2229363fc0b66770794d] (1) In Article 28(1)—
 
 - (a) in the definition of “house in multiple occupation”, for “the same meaning as in Part IV of the Order of 1992” substitute “ the meaning given by section 1 of the Act of 2016 ”;
 - (b) in the definition of “owner”, for “the same meaning as in Article 2 of the Order of 1981” substitute “ the meaning given by section 88(5) and (6) of the Act of 2016 ”.
@@ -102,26 +102,26 @@ Section 89.
 
 ### Fire and Rescue Services (Northern Ireland) Order 2006
 
-**7.**[^key-74d4de406f37cef963af45b1bd751bcb] In Article 52(1) (interpretation of Part 3), for “Article 75 of the Housing (Northern Ireland) Order 1992 (NI 15)” substitute “ section 1 of the Houses in Multiple Occupation Act (Northern Ireland) 2016 ”.
+**7.**[^c-74d4de406f37cef963af45b1bd751bcb] In Article 52(1) (interpretation of Part 3), for “Article 75 of the Housing (Northern Ireland) Order 1992 (NI 15)” substitute “ section 1 of the Houses in Multiple Occupation Act (Northern Ireland) 2016 ”.
 
 ### Water and Sewerage Services (Northern Ireland) Order 2006
 
-**8.**[^key-a4a4f4425e7d097de6921eefb37661db] In paragraph 2(2) of Schedule 2 (premises not to be disconnected for non-payment of charges), for “Article 75 of the Housing (Northern Ireland) Order 1992 (NI 15)” substitute “ section 1 of the Houses in Multiple Occupation Act (Northern Ireland) 2016 ”.
+**8.**[^c-a4a4f4425e7d097de6921eefb37661db] In paragraph 2(2) of Schedule 2 (premises not to be disconnected for non-payment of charges), for “Article 75 of the Housing (Northern Ireland) Order 1992 (NI 15)” substitute “ section 1 of the Houses in Multiple Occupation Act (Northern Ireland) 2016 ”.
 
 ## Annotations
 
-[^key-c2908fb22e61ea5a15f1295c027f575b]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/1) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-c2908fb22e61ea5a15f1295c027f575b]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/1) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-fe6966c9a927a8fc482b3e424c88df8d]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/2) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-fe6966c9a927a8fc482b3e424c88df8d]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/2) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-eb6beca11ee53ca172611f74a0efea85]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/3) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-eb6beca11ee53ca172611f74a0efea85]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/3) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-a78dc3f5c35bdd18f1863220524d0d5b]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/4) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-a78dc3f5c35bdd18f1863220524d0d5b]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/4) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-9506a6324f715c4d5ef443e53e400746]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/5) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-9506a6324f715c4d5ef443e53e400746]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/5) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-cc11d2f83f2e2229363fc0b66770794d]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/6) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-cc11d2f83f2e2229363fc0b66770794d]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/6) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-74d4de406f37cef963af45b1bd751bcb]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/7) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-74d4de406f37cef963af45b1bd751bcb]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/7) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-a4a4f4425e7d097de6921eefb37661db]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/8) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-a4a4f4425e7d097de6921eefb37661db]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/8) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4.3. Lay representation: applications[^key-fc9579f5238b0300e73d0594b03d512f]
+## 4.3. Lay representation: applications[^c-fc9579f5238b0300e73d0594b03d512f]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc9579f5238b0300e73d0594b03d512f]: Commencement: Para. 4.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-fc9579f5238b0300e73d0594b03d512f]: Commencement: Para. 4.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

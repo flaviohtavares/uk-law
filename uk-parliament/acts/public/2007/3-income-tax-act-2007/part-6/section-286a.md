@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 286A. The UK permanent establishment requirement[^key-341f9f3682ce38c7ccda03ddd5fef719]
+## 286A. The UK permanent establishment requirement[^c-341f9f3682ce38c7ccda03ddd5fef719]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The requirement of this section, at any time on or after the issue of the releva
 
 ## Annotations
 
-[^key-341f9f3682ce38c7ccda03ddd5fef719]: Textual amendment: Ss. 286A, 286B inserted (6.4.2011) (with effect in accordance with Sch. 2 paras. 7(3), 8 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 2(8)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/2/8); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)
+[^c-341f9f3682ce38c7ccda03ddd5fef719]: Textual amendment: Ss. 286A, 286B inserted (6.4.2011) (with effect in accordance with Sch. 2 paras. 7(3), 8 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 2(8)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/2/8); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)

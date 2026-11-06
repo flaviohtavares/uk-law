@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**66.**[^key-c3e0a8f6f74a2d461ea607584d0b7b4a] A person shall not knowingly or wilfully foul-hook any salmon or freshwater fish.
+**66.**[^c-c3e0a8f6f74a2d461ea607584d0b7b4a] A person shall not knowingly or wilfully foul-hook any salmon or freshwater fish.
 
 ## Annotations
 
-[^key-c3e0a8f6f74a2d461ea607584d0b7b4a]: Commencement: S. 66 in operation at 1.11.1997, see byelaw 1
+[^c-c3e0a8f6f74a2d461ea607584d0b7b4a]: Commencement: S. 66 in operation at 1.11.1997, see byelaw 1

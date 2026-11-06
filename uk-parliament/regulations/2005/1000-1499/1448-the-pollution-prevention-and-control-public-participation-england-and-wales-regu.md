@@ -32,7 +32,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION, ENGLAND AND WALES
 
-The Pollution Prevention and Control (Public Participation)(England and Wales) Regulations 2005 (revoked)[^key-555d6c8d7ccb168f53abe67ea32277ee]
+The Pollution Prevention and Control (Public Participation)(England and Wales) Regulations 2005 (revoked)[^c-555d6c8d7ccb168f53abe67ea32277ee]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 25th June 2005
 
-[^key-555d6c8d7ccb168f53abe67ea32277ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-555d6c8d7ccb168f53abe67ea32277ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-555d6c8d7ccb168f53abe67ea32277ee]
+## 1. Citation, commencement and extent[^c-555d6c8d7ccb168f53abe67ea32277ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Pollution Prevention and Control (England and Wales) Regulations 2000[^key-555d6c8d7ccb168f53abe67ea32277ee]
+## 2. Amendment to the Pollution Prevention and Control (England and Wales) Regulations 2000[^c-555d6c8d7ccb168f53abe67ea32277ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional Provisions[^key-555d6c8d7ccb168f53abe67ea32277ee]
+## 3. Transitional Provisions[^c-555d6c8d7ccb168f53abe67ea32277ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-555d6c8d7ccb168f53abe67ea32277ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-555d6c8d7ccb168f53abe67ea32277ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-555d6c8d7ccb168f53abe67ea32277ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-555d6c8d7ccb168f53abe67ea32277ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-555d6c8d7ccb168f53abe67ea32277ee]: Textual amendment: Regulations revoked (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1), [Sch. 22](https://www.legislation.gov.uk/uksi/2007/3538/schedule/22) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69))
+[^c-555d6c8d7ccb168f53abe67ea32277ee]: Textual amendment: Regulations revoked (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1), [Sch. 22](https://www.legislation.gov.uk/uksi/2007/3538/schedule/22) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69))

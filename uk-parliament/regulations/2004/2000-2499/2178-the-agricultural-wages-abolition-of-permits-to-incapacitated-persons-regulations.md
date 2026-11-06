@@ -44,7 +44,7 @@ Coming into force
 
 1st October 2004
 
-The Secretary of State, being designated *(Extent: E)* *(affected by repeal, see note)*[^key-ef1ff7b45b70100a1196d556cfd41a34][^f00001] for the purposes of section 2(2) of the European Communities Act 1972 *(Extent: E)* *(affected by repeal, see note)*[^key-ef1ff7b45b70100a1196d556cfd41a34][^f00002] in relation to discrimination, in exercise of the powers conferred on her by that section makes the following Regulations– *(Extent: E)* *(affected by repeal, see note)*[^key-ef1ff7b45b70100a1196d556cfd41a34]
+The Secretary of State, being designated *(Extent: E)* *(affected by repeal, see note)*[^c-ef1ff7b45b70100a1196d556cfd41a34][^f00001] for the purposes of section 2(2) of the European Communities Act 1972 *(Extent: E)* *(affected by repeal, see note)*[^c-ef1ff7b45b70100a1196d556cfd41a34][^f00002] in relation to discrimination, in exercise of the powers conferred on her by that section makes the following Regulations– *(Extent: E)* *(affected by repeal, see note)*[^c-ef1ff7b45b70100a1196d556cfd41a34]
 
 ## 1. Title and commencement
 
@@ -108,7 +108,7 @@ A Transposition Note and a Regulatory Impact Assessment have been prepared and p
 
 ## Annotations
 
-[^key-ef1ff7b45b70100a1196d556cfd41a34]: Textual amendment: Regulations revoked (E.) (1.1.2018) by [The Fisheries and Rural Affairs (Miscellaneous Revocations) Regulations 2017 (S.I. 2017/1166)](https://www.legislation.gov.uk/uksi/2017/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1166/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/1166/regulation/3)
+[^c-ef1ff7b45b70100a1196d556cfd41a34]: Textual amendment: Regulations revoked (E.) (1.1.2018) by [The Fisheries and Rural Affairs (Miscellaneous Revocations) Regulations 2017 (S.I. 2017/1166)](https://www.legislation.gov.uk/uksi/2017/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1166/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/1166/regulation/3)
 
 [^f00001]: Footnote: S.I. [2002/1819](https://www.legislation.gov.uk/uksi/2002/1819).
 

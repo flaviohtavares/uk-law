@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Obtaining articles for purposes relating to computer misuse[^key-a96fdc7916149620295d3f33019abe3e]
+## 42. Obtaining articles for purposes relating to computer misuse[^c-a96fdc7916149620295d3f33019abe3e]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In section 3A of the Computer Misuse Act 1990 (making, supplying or obtaining ar
 
 ## Annotations
 
-[^key-a96fdc7916149620295d3f33019abe3e]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2015/9/section/42) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/b)
+[^c-a96fdc7916149620295d3f33019abe3e]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2015/9/section/42) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/b)

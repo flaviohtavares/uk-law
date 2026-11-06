@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 262. Prisoners liable to removal from United Kingdom: modifications of Criminal Justice Act 1991[^key-a2a35017babca4a83d88fc04e8bbb9bd]
+## 262. Prisoners liable to removal from United Kingdom: modifications of Criminal Justice Act 1991[^c-a2a35017babca4a83d88fc04e8bbb9bd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2a35017babca4a83d88fc04e8bbb9bd]: Textual amendment: S. 262 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 16 para. 16](https://www.legislation.gov.uk/ukpga/2012/10/schedule/16/paragraph/16); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(n)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/n)
+[^c-a2a35017babca4a83d88fc04e8bbb9bd]: Textual amendment: S. 262 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 16 para. 16](https://www.legislation.gov.uk/ukpga/2012/10/schedule/16/paragraph/16); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(n)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/n)

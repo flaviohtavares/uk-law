@@ -35,7 +35,7 @@ An Act to explain and amend Two several Acts relating to the Ecclesiastical Comm
 
 ## 1.] Church Commissioners may adjourn meetings from day to day. Proviso as to confirming proceedings.
 
-[^key-fc20981edffae3d27afa36cc00041f8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc20981edffae3d27afa36cc00041f8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c557613]
 
@@ -53,11 +53,11 @@ An Act to explain and amend Two several Acts relating to the Ecclesiastical Comm
 
 ## 11. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c557620]
 
-## 12. Further provisions respecting Southwell.[^key-f66fad124e4d68a57b1674e61f0423ff][^c557621]
+## 12. Further provisions respecting Southwell.[^c-f66fad124e4d68a57b1674e61f0423ff][^c557621]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Durham University Trusts.[^key-4315316f57b48cebf4187d385ce33da6]
+## 13. Durham University Trusts.[^c-4315316f57b48cebf4187d385ce33da6]
 
 And whereas inconvenience arises from the mode in which certain property is now held partly by the bishop and partly by the dean and chapter of Durham in trust for the university of Durham: Be it enacted that it shall be lawful, by the authority in the said secondly recited Act provided, with the consent of the said university, and also of the said bishop or of the said dean and chapter, as the case may be, to make any such arrangements as may be deemed fit by the like authority for varying, transferring, or annulling any of the trusts upon which any monies or securities for money, or any lands, tenements, tithes, or other hereditaments, are now held for the benefit of the said university, and for transferring and vesting such monies, securities for money, lands, tenements, tithes, or other hereditaments, or any part thereof, in such other manner and in such other persons or body corporate as may be deemed by the like authority most beneficial to the said university; and that the said university of Durham may, by the name of ‚ÄúThe Warden, Masters, and Scholars of the University of Durham,‚Äù take and purchase and hold lands, tenements, tithes, and other hereditaments to them and their successors, . . . [^c557628] and that, when the lands, tenements, tithes, or other hereditaments, monies or securities for money, or any part thereof, now held by the said bishop or by the said dean and chapter in trust for the said university, shall be vested, by the authority aforesaid, in the said warden, masters, and scholars, they shall have and enjoy all the powers of sale, of purchase, . . . [^c557628] of leasing, of management, of applying the principle monies, and the rents, dividends, and interest thereof, or of such part thereof as shall be vested in them, in as full and ample manner as the said dean and chapter now have and enjoy the same powers by virtue of an [^c557630]Act passed in the third year of the reign of his late Majesty, intituled ‚ÄúAn Act to enable the dean and chapter of Durham to appropriate part of the property of their church to the establishment of a university in connection therewith for the advancement of learning;‚Äù and that it shall be lawful for all bodies corporate, aggregate, or sole, and all other incapacitated persons named in the said Act, to sell and convey to the said warden, master, or scholars, and their successors, all such lands, tenements or hereditaments as by the said Act they are enabled to sell and convey to the said dean and chapter, and in such manner and by such conveyances and assurances as in the said Act are mentioned; and that it shall be lawful for the said warden, masters, and scholars, to apply the building fund to the payment of expences already incurred by the said university in erecting and completing, altering, repairing, or improving any building for the use of the said university, or for the use of any person or persons for whom the said university was or is bound to provide any office or building under an order of her Majesty in council bearing date the nineteenth day of July one thousand eight hundred and thirty-seven, relating to the castle of Durham, and to the erection and completion, alteration, reparation, or improvement of any building erected or to be erected, not only on land now vested in the said dean and chapter, but also on land now vested in the said bishop in trust for the said university, or on land to be hereafter acquired by the said warden, masters, and scholars for any of the foregoing uses; and that it shall be lawful, by the like authority, with the consent of the said university, and also of the said bishop and of the said dean and chapter, to transfer to the said warden, masters, and scholars the whole or any part of the powers relating to the government of the said university, and the order and discipline to be observed therein, which are now vested by the last-mentioned Act in the said dean and chapter.
 
@@ -79,7 +79,7 @@ The provisions of the secondly recited Act relating to the sale, transfer, or ex
 
 ## 23. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c557638]
 
-## 24. Consent of patrons how to be given 1 & 2 Vict. c. 106, ss. 125 to 128 inclusive. 3 & 4 Vict. c. 113, ss. 71, 72, 73, 74.[^key-cbbdde1ed4268c649887d29cc7dbf62d]
+## 24. Consent of patrons how to be given 1 & 2 Vict. c. 106, ss. 125 to 128 inclusive. 3 & 4 Vict. c. 113, ss. 71, 72, 73, 74.[^c-cbbdde1ed4268c649887d29cc7dbf62d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -95,7 +95,7 @@ And for the purpose of removing all doubts respecting the meaning of the terms ‚
 
 ## 30. Powers of 6 & 7 W. 4. c. 77. and 3 & 4 Vict. c. 113. extended to this Act.
 
-[^key-4396f20d41145dceff885eeb008377d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4396f20d41145dceff885eeb008377d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 31. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c557646]
 
@@ -107,7 +107,7 @@ And for the purpose of removing all doubts respecting the meaning of the terms ‚
 
 [^c557610]: Modification: Preamble (which recites [Ecclesiastical Commissioners Act 1836 (c. 77)](https://www.legislation.gov.uk/ukpga/1836/77), [Ecclesiastical Commissioners Act 1840 (c. 113)](https://www.legislation.gov.uk/ukpga/1840/113), and [Pluralities Act 1838 (c. 106)](https://www.legislation.gov.uk/ukpga/1838/106)) omitted under authority of [Statute Law Revision (No. 2) Act 1890 (c. 51)](https://www.legislation.gov.uk/ukpga/1890/51)
 
-[^key-fc20981edffae3d27afa36cc00041f8f]: Textual amendment: S. 1 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6 Group 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6)
+[^c-fc20981edffae3d27afa36cc00041f8f]: Textual amendment: S. 1 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6 Group 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6)
 
 [^c557613]: Textual amendment: [Ss. 2](https://www.legislation.gov.uk/ukpga/Vict/4-5/39/section/2), [5‚Äì7](https://www.legislation.gov.uk/ukpga/Vict/4-5/39/section/5), [15](https://www.legislation.gov.uk/ukpga/Vict/4-5/39/section/15), [16](https://www.legislation.gov.uk/ukpga/Vict/4-5/39/section/16), [18‚Äì20](https://www.legislation.gov.uk/ukpga/Vict/4-5/39/section/18), [25](https://www.legislation.gov.uk/ukpga/Vict/4-5/39/section/25) and 26 repealed by [Cathedrals Measure 1963 (No. 2)](https://www.legislation.gov.uk/ukcm/1963/2), [Sch. 2](https://www.legislation.gov.uk/ukcm/1963/2/schedule/2)
 
@@ -125,11 +125,11 @@ And for the purpose of removing all doubts respecting the meaning of the terms ‚
 
 [^c557620]: Textual amendment: [Ss. 9](https://www.legislation.gov.uk/ukpga/Vict/4-5/39/section/9), [11](https://www.legislation.gov.uk/ukpga/Vict/4-5/39/section/11) repealed by [Archdeaconries (Augmentation) Measure 1953 (No. 4)](https://www.legislation.gov.uk/ukcm/1953/4), [Sch.](https://www.legislation.gov.uk/ukcm/1953/4/schedule)
 
-[^key-f66fad124e4d68a57b1674e61f0423ff]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/Vict/4-5/39/section/12) repealed (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 1](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/1); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-f66fad124e4d68a57b1674e61f0423ff]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/Vict/4-5/39/section/12) repealed (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 1](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/1); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
 [^c557621]: Modification: Ecclesiastical Commissioners dissolved and property transferred to Church Commissioners, by [Church Commissioners Measure 1947 (No. 2)](https://www.legislation.gov.uk/ukcm/1947/2), [s. 2](https://www.legislation.gov.uk/ukcm/1947/2/section/2)
 
-[^key-4315316f57b48cebf4187d385ce33da6]: Modification: S. 13 modified (coming into force in accordance with [s. 53(3)](https://www.legislation.gov.uk/ukcm/2021/2/section/53/3) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukcm/2021/2/schedule/4/paragraph/2) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
+[^c-4315316f57b48cebf4187d385ce33da6]: Modification: S. 13 modified (coming into force in accordance with [s. 53(3)](https://www.legislation.gov.uk/ukcm/2021/2/section/53/3) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukcm/2021/2/schedule/4/paragraph/2) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
 
 [^c557628]: Textual amendment: Words repealed by [Charities Act 1960 (c. 58)](https://www.legislation.gov.uk/ukpga/1960/58), [Sch. 7 Pt. II](https://www.legislation.gov.uk/ukpga/1960/58/schedule/7/part/II)
 
@@ -151,7 +151,7 @@ And for the purpose of removing all doubts respecting the meaning of the terms ‚
 
 [^c557638]: Textual amendment: [S. 23](https://www.legislation.gov.uk/ukpga/Vict/4-5/39/section/23) repealed by [Statute Law (Repeals) Act 1977 (c. 18)](https://www.legislation.gov.uk/ukpga/1977/18) Sch. 1 Pt. V
 
-[^key-cbbdde1ed4268c649887d29cc7dbf62d]: Textual amendment: [S. 24](https://www.legislation.gov.uk/ukpga/Vict/4-5/39/section/24) repealed (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/2); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-cbbdde1ed4268c649887d29cc7dbf62d]: Textual amendment: [S. 24](https://www.legislation.gov.uk/ukpga/Vict/4-5/39/section/24) repealed (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/2); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
 [^c557639]: Textual amendment: [Ss. 2](https://www.legislation.gov.uk/ukpga/Vict/4-5/39/section/2), [5‚Äì7](https://www.legislation.gov.uk/ukpga/Vict/4-5/39/section/5), [15](https://www.legislation.gov.uk/ukpga/Vict/4-5/39/section/15), [16](https://www.legislation.gov.uk/ukpga/Vict/4-5/39/section/16), [18‚Äì20](https://www.legislation.gov.uk/ukpga/Vict/4-5/39/section/18), [25](https://www.legislation.gov.uk/ukpga/Vict/4-5/39/section/25) and 26 repealed by [Cathedrals Measure 1963 (No. 2)](https://www.legislation.gov.uk/ukcm/1963/2), [Sch. 2](https://www.legislation.gov.uk/ukcm/1963/2/schedule/2)
 
@@ -163,6 +163,6 @@ And for the purpose of removing all doubts respecting the meaning of the terms ‚
 
 [^c557643]: Marginal citation: [1836 c. 71](https://www.legislation.gov.uk/ukpga/1836/71).
 
-[^key-4396f20d41145dceff885eeb008377d4]: Textual amendment: [S. 30](https://www.legislation.gov.uk/ukpga/Vict/4-5/39/section/30) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6 Group 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6)
+[^c-4396f20d41145dceff885eeb008377d4]: Textual amendment: [S. 30](https://www.legislation.gov.uk/ukpga/Vict/4-5/39/section/30) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6 Group 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6)
 
 [^c557646]: Textual amendment: [Ss. 8](https://www.legislation.gov.uk/ukpga/Vict/4-5/39/section/8), [14](https://www.legislation.gov.uk/ukpga/Vict/4-5/39/section/14), [28](https://www.legislation.gov.uk/ukpga/Vict/4-5/39/section/28) and 31 repealed by [Statute Law Revision (No. 2) Act 1874 (c. 96)](https://www.legislation.gov.uk/ukpga/1874/96)

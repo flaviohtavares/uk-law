@@ -41,7 +41,7 @@ Coming into force
 
 The National Assembly for Wales makes the following Order in exercise of the powers conferred on it by sections 108(3)(c), (7), (8), (9), (10) and (11) and 210(7) of the Education Act 2002 [^c5336951].
 
-## 1. Name, commencement and application[^key-ddb6e287912066b941fbbed2752d0073]
+## 1. Name, commencement and application[^c-ddb6e287912066b941fbbed2752d0073]
 
 (1) This Order is called the National Curriculum (Key Stage 2 Assessment Arrangements) (Wales) Order 2004 and comes into force on 10 November 2004.
 
@@ -51,18 +51,18 @@ The National Assembly for Wales makes the following Order in exercise of the pow
 
 (4) This Order does not apply for the purpose of ascertaining the achievements in Welsh of pupils following the programme of study known as “Welsh Second Language”[^c5336961].
 
-## 2. Revocation[^key-99276ff69bb9cdcfb6ad0581e2aa5c65]
+## 2. Revocation[^c-99276ff69bb9cdcfb6ad0581e2aa5c65]
 
 The Education (National Curriculum) (Assessment Arrangements for English, Welsh, Mathematics and Science) (Key Stage 2) (Wales) Order 1997 [^c5336971] and the Education (National Curriculum) (Assessment Arrangements for English, Welsh, Mathematics and Science) (Key Stage 2) (Wales) (Amendment) Order 1998 [^c5336981] are revoked.
 
-## 3. Interpretation[^key-b2c623aab1a233db0fd0464e0acbe03d]
+## 3. Interpretation[^c-b2c623aab1a233db0fd0464e0acbe03d]
 
 (1) In this Order—
 
 - “**the Act**” (“***y Ddeddf***”) means the Education Act 2002;
 - “**the associated documents**” (“***y dogfennau cysylltiedig***”) means the documents published by the Authority setting out any levels of attainment, attainment targets and programmes of study in relation to the relevant subjects, which documents have effect by virtue of the respective section 108(3)(a) and (b) orders for those subjects for the time being in force [^c5336991];
 - “**AT**” (“***TC***”) means attainment target;
-- [^key-a7e4e1ced2b5f25b20941d4af8d030e7]...
+- [^c-a7e4e1ced2b5f25b20941d4af8d030e7]...
 - “**maintained school**” (“***ysgol a gynhelir***”) has the meaning given to it by section 97 of the Act;
 - “**the National Assembly**” (“***y Cynulliad Cenedlaethol***”) means the National Assembly for Wales;
 - “**the relevant subjects**” (“***y pynciau perthnasol***”) means English, Welsh, mathematics and science;
@@ -80,7 +80,7 @@ The Education (National Curriculum) (Assessment Arrangements for English, Welsh,
 
 (4) In this Order unless the context otherwise requires any reference to a numbered article is a reference to the article in this Order so numbered and any reference to a numbered paragraph is a reference to the paragraph so numbered in the article in which the reference appears.
 
-## 4. Teacher assessment[^key-abd29ff9397ba3c024916dd53260a160]
+## 4. Teacher assessment[^c-abd29ff9397ba3c024916dd53260a160]
 
 (1) The head teacher must make arrangements for each pupil to be assessed by a teacher in each relevant subject during the summer term (except the last two weeks thereof) in accordance with the provisions of this article and for a record of the results to be made by that teacher.
 
@@ -92,7 +92,7 @@ The Education (National Curriculum) (Assessment Arrangements for English, Welsh,
 
 (5) In making an assessment of a pupil pursuant to this article a teacher may take into account results of any previous assessment of the pupil (whether or not made by that teacher).
 
-## 5. Determination of attainment by subject: teacher assessment[^key-ac6d46172dc1b97790fe96594da7a885]
+## 5. Determination of attainment by subject: teacher assessment[^c-ac6d46172dc1b97790fe96594da7a885]
 
 (1) Subject to article 6, the provisions of this article regulate the aggregation of AT levels of attainment determined in accordance with article 4 to calculate subject levels of attainment.
 
@@ -108,7 +108,7 @@ The Education (National Curriculum) (Assessment Arrangements for English, Welsh,
 
 (5) In the case of science, a pupil’s level of attainment in the subject is the average of the pupil’s levels in each AT but with his or her level in AT1 (scientific enquiry) weighted by a factor of two.
 
-## 6. Pupils not subject to provisions of the National Curriculum[^key-9db036061506d703c0829531b3b4b902]
+## 6. Pupils not subject to provisions of the National Curriculum[^c-9db036061506d703c0829531b3b4b902]
 
 (1) Article 5 is to have effect in relation to pupils as respects whom provisions of the National Curriculum do not apply (including pupils with statements of special educational needs) with the modifications specified in this article.
 
@@ -116,11 +116,11 @@ The Education (National Curriculum) (Assessment Arrangements for English, Welsh,
 
 (3) Where, in the case of any relevant subject, more than one AT does not apply to such a pupil, article 5 is not to apply to the pupil in relation to that subject and no level of attainment is to be determined for him or her in respect of that subject.
 
-## 7. Evaluation of Assessment Arrangements[^key-507b6058cc8cb74751481da8a9771c14]
+## 7. Evaluation of Assessment Arrangements[^c-507b6058cc8cb74751481da8a9771c14]
 
-The National Assembly[^key-b4f18871274d97f4f921b4d95fed213d] must make such arrangements as seem to it appropriate for determining the extent to which the provisions of articles 4 to 6 and their implementation achieve the purpose mentioned in article 1(2).
+The National Assembly[^c-b4f18871274d97f4f921b4d95fed213d] must make such arrangements as seem to it appropriate for determining the extent to which the provisions of articles 4 to 6 and their implementation achieve the purpose mentioned in article 1(2).
 
-## 8. Supplementary powers of the National Assembly[^key-93f19cf5c800f19f64fe6f7b883d59ee]
+## 8. Supplementary powers of the National Assembly[^c-93f19cf5c800f19f64fe6f7b883d59ee]
 
 The National Assembly may make such provisions giving full effect to or otherwise supplementing the provisions made by this Order (other than provisions conferring or imposing functions as mentioned in section 108(7) of the Act) as appear to it to be expedient.
 
@@ -156,32 +156,32 @@ The only changes of substance made by the current Order is that it no longer mak
 
 [^c5336951]: Marginal citation: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32).
 
-[^key-ddb6e287912066b941fbbed2752d0073]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2004/2915/article/1) in force at 10.11.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/2915/article/1/1)
+[^c-ddb6e287912066b941fbbed2752d0073]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2004/2915/article/1) in force at 10.11.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/2915/article/1/1)
 
 [^c5336961]: Marginal citation: *See* [S.I. 2000/1101](https://www.legislation.gov.uk/uksi/2000/1101) (W.79) and the document entitled “Welsh in the National Curriculum”, ISBN 0750424036.
 
-[^key-99276ff69bb9cdcfb6ad0581e2aa5c65]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2004/2915/article/2) in force at 10.11.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/2915/article/1/1)
+[^c-99276ff69bb9cdcfb6ad0581e2aa5c65]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2004/2915/article/2) in force at 10.11.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/2915/article/1/1)
 
 [^c5336971]: Marginal citation: [S.I. 1997/2009](https://www.legislation.gov.uk/uksi/1997/2009).
 
 [^c5336981]: Marginal citation: [S.I. 1998/1977](https://www.legislation.gov.uk/uksi/1998/1977).
 
-[^key-b2c623aab1a233db0fd0464e0acbe03d]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2004/2915/article/3) in force at 10.11.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/2915/article/1/1)
+[^c-b2c623aab1a233db0fd0464e0acbe03d]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2004/2915/article/3) in force at 10.11.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/2915/article/1/1)
 
 [^c5336991]: Marginal citation: The relevant Orders for the second key stage are [S.I. 2000/1154](https://www.legislation.gov.uk/uksi/2000/1154) (W.85) (English), [S.I. 2000/1101](https://www.legislation.gov.uk/uksi/2000/1101) (W.79) (Welsh), [S.I. 2000/1100](https://www.legislation.gov.uk/uksi/2000/1100) (W.78) (Mathematics) and [S.I. 2000/1099](https://www.legislation.gov.uk/uksi/2000/1099) (W.77) (Science).
 
-[^key-a7e4e1ced2b5f25b20941d4af8d030e7]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/wsi/2004/2915/article/3) omitted (1.4.2006) by virtue of [The Qualifications, Curriculum and Assessment Authority for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3239)](https://www.legislation.gov.uk/wsi/2005/3239), [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3239/article/1/1), [Sch. 2 para. 14(a)](https://www.legislation.gov.uk/wsi/2005/3239/schedule/2/paragraph/14/a) (with [art. 7](https://www.legislation.gov.uk/wsi/2005/3239/article/7))
+[^c-a7e4e1ced2b5f25b20941d4af8d030e7]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/wsi/2004/2915/article/3) omitted (1.4.2006) by virtue of [The Qualifications, Curriculum and Assessment Authority for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3239)](https://www.legislation.gov.uk/wsi/2005/3239), [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3239/article/1/1), [Sch. 2 para. 14(a)](https://www.legislation.gov.uk/wsi/2005/3239/schedule/2/paragraph/14/a) (with [art. 7](https://www.legislation.gov.uk/wsi/2005/3239/article/7))
 
-[^key-abd29ff9397ba3c024916dd53260a160]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2004/2915/article/4) in force at 10.11.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/2915/article/1/1)
+[^c-abd29ff9397ba3c024916dd53260a160]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2004/2915/article/4) in force at 10.11.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/2915/article/1/1)
 
-[^key-ac6d46172dc1b97790fe96594da7a885]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2004/2915/article/5) in force at 10.11.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/2915/article/1/1)
+[^c-ac6d46172dc1b97790fe96594da7a885]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2004/2915/article/5) in force at 10.11.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/2915/article/1/1)
 
-[^key-9db036061506d703c0829531b3b4b902]: Commencement: [Art. 6](https://www.legislation.gov.uk/wsi/2004/2915/article/6) in force at 10.11.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/2915/article/1/1)
+[^c-9db036061506d703c0829531b3b4b902]: Commencement: [Art. 6](https://www.legislation.gov.uk/wsi/2004/2915/article/6) in force at 10.11.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/2915/article/1/1)
 
-[^key-507b6058cc8cb74751481da8a9771c14]: Commencement: [Art. 7](https://www.legislation.gov.uk/wsi/2004/2915/article/7) in force at 10.11.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/2915/article/1/1)
+[^c-507b6058cc8cb74751481da8a9771c14]: Commencement: [Art. 7](https://www.legislation.gov.uk/wsi/2004/2915/article/7) in force at 10.11.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/2915/article/1/1)
 
-[^key-b4f18871274d97f4f921b4d95fed213d]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/wsi/2004/2915/article/7) substituted (1.4.2006) by [The Qualifications, Curriculum and Assessment Authority for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3239)](https://www.legislation.gov.uk/wsi/2005/3239), [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3239/article/1/1), [Sch. 2 para. 14(b)](https://www.legislation.gov.uk/wsi/2005/3239/schedule/2/paragraph/14/b) (with [art. 7](https://www.legislation.gov.uk/wsi/2005/3239/article/7))
+[^c-b4f18871274d97f4f921b4d95fed213d]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/wsi/2004/2915/article/7) substituted (1.4.2006) by [The Qualifications, Curriculum and Assessment Authority for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3239)](https://www.legislation.gov.uk/wsi/2005/3239), [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3239/article/1/1), [Sch. 2 para. 14(b)](https://www.legislation.gov.uk/wsi/2005/3239/schedule/2/paragraph/14/b) (with [art. 7](https://www.legislation.gov.uk/wsi/2005/3239/article/7))
 
-[^key-93f19cf5c800f19f64fe6f7b883d59ee]: Commencement: [Art. 8](https://www.legislation.gov.uk/wsi/2004/2915/article/8) in force at 10.11.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/2915/article/1/1)
+[^c-93f19cf5c800f19f64fe6f7b883d59ee]: Commencement: [Art. 8](https://www.legislation.gov.uk/wsi/2004/2915/article/8) in force at 10.11.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/2915/article/1/1)
 
 [^c5337011]: Marginal citation: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

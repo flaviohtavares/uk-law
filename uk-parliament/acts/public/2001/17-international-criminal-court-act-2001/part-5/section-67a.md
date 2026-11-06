@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67A. Supplemental provision about UK residents[^key-c16416722cf98e3a2ec3427f5ecf8473]
+## 67A. Supplemental provision about UK residents[^c-c16416722cf98e3a2ec3427f5ecf8473]
 
 *Extent: E+W+N.I.*
 
@@ -68,4 +68,4 @@ and a reference to having leave to enter or remain in the United Kingdom is to b
 
 ## Annotations
 
-[^key-c16416722cf98e3a2ec3427f5ecf8473]: Textual amendment: [S. 67A](https://www.legislation.gov.uk/ukpga/2001/17/section/67A) inserted (6.4.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 70(4)](https://www.legislation.gov.uk/ukpga/2009/25/section/70/4), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22)); [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/3)
+[^c-c16416722cf98e3a2ec3427f5ecf8473]: Textual amendment: [S. 67A](https://www.legislation.gov.uk/ukpga/2001/17/section/67A) inserted (6.4.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 70(4)](https://www.legislation.gov.uk/ukpga/2009/25/section/70/4), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22)); [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/3)

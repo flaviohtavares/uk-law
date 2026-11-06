@@ -61,7 +61,7 @@ Section 143
 
 **6.** In section 36(2)(b) (disqualification until test is passed) after “(causing death by dangerous driving)” insert “ , section 1A (causing serious injury by dangerous driving) ”.
 
-**7.**[^key-2a046b122fc125fa5e7562bcc6ab0a91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-2a046b122fc125fa5e7562bcc6ab0a91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.** In section 45A(4) (effect of endorsement of driving records) as substituted by the Road Safety Act 2006—
 
@@ -91,4 +91,4 @@ Section 143
 
 ## Annotations
 
-[^key-2a046b122fc125fa5e7562bcc6ab0a91]: Textual amendment: [Sch. 27 para. 7](https://www.legislation.gov.uk/ukpga/2012/10/schedule/27/paragraph/7) repealed (8.6.2015) by [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/583/schedule/1) Table 1
+[^c-2a046b122fc125fa5e7562bcc6ab0a91]: Textual amendment: [Sch. 27 para. 7](https://www.legislation.gov.uk/ukpga/2012/10/schedule/27/paragraph/7) repealed (8.6.2015) by [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/583/schedule/1) Table 1

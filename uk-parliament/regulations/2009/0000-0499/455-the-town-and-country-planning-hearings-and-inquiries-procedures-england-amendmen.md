@@ -46,7 +46,7 @@ Coming into force
 
 The Lord Chancellor, in exercise of the powers conferred by section 9 of the Tribunals and Inquiries Act 1992[^f00001], and after consultation with the Administrative Justice and Tribunals Council, makes the following Rules:
 
-## 1. Citation, commencement and application[^key-04918bb1a386a9c07b3f1fea93db8582]
+## 1. Citation, commencement and application[^c-04918bb1a386a9c07b3f1fea93db8582]
 
 (1) These Rules may be cited as the Town and Country Planning (Hearings and Inquiries Procedures) (England) (Amendment) Rules 2009 and shall come into force on 6th April 2009.
 
@@ -55,7 +55,7 @@ The Lord Chancellor, in exercise of the powers conferred by section 9 of the Tri
 - (a) appeals and applications made on or after 6th April 2009; and
 - (b) England only.
 
-## 2. Amendment of the Town and Country Planning (Hearings Procedure)(England) Rules 2000[^key-b24f7abc4673dad1331e5269e604841a]
+## 2. Amendment of the Town and Country Planning (Hearings Procedure)(England) Rules 2000[^c-b24f7abc4673dad1331e5269e604841a]
 
 (1) The Town and Country Planning (Hearings Procedure) (England) Rules 2000[^f00002] are amended as follows.
 
@@ -132,7 +132,7 @@ The Lord Chancellor, in exercise of the powers conferred by section 9 of the Tri
 
   .
 
-## 3. Amendment of the Town and Country Planning Appeals (Determination by Inspectors) (Inquiries Procedure) (England) Rules 2000[^key-d0013788cd18c0c90f2072f3f8503472]
+## 3. Amendment of the Town and Country Planning Appeals (Determination by Inspectors) (Inquiries Procedure) (England) Rules 2000[^c-d0013788cd18c0c90f2072f3f8503472]
 
 (1) The Town and Country Planning Appeals (Determination by Inspectors) (Inquiries Procedure) (England) Rules 2000[^f00004] are amended as follows.
 
@@ -196,7 +196,7 @@ The Lord Chancellor, in exercise of the powers conferred by section 9 of the Tri
   ;
 - (b) in sub-paragraph (c) omit paragraphs (ix) and (x).
 
-## 4. Amendment of the Town and Country Planning (Inquiries Procedure) (England) Rules 2000[^key-2007b127342286b8d95f61b2fbe8d996]
+## 4. Amendment of the Town and Country Planning (Inquiries Procedure) (England) Rules 2000[^c-2007b127342286b8d95f61b2fbe8d996]
 
 (1) The Town and Country Planning (Inquiries Procedure) (England) Rules 2000[^f00005] are amended as follows.
 
@@ -258,7 +258,7 @@ The Lord Chancellor, in exercise of the powers conferred by section 9 of the Tri
   ;
 - (b) in sub-paragraph (d) omit paragraphs (x) and (xi).
 
-## 5. Amendment of the Town and Country Planning (Major Infrastructure Project Inquiries Procedure) (England) Rules 2005[^key-0d6981d784b053269d15b8b0e4d767cd]
+## 5. Amendment of the Town and Country Planning (Major Infrastructure Project Inquiries Procedure) (England) Rules 2005[^c-0d6981d784b053269d15b8b0e4d767cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -298,20 +298,20 @@ An impact assessment has been prepared in relation to these Rules. This assessme
 
 [^f00001]: Footnote: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53). There are amendments to section 9 which are not relevant to these Rules.
 
-[^key-04918bb1a386a9c07b3f1fea93db8582]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2009/455/rule/1) in force at 6.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2009/455/rule/1/1)
+[^c-04918bb1a386a9c07b3f1fea93db8582]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2009/455/rule/1) in force at 6.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2009/455/rule/1/1)
 
-[^key-b24f7abc4673dad1331e5269e604841a]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2009/455/rule/2) in force at 6.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2009/455/rule/1/1)
+[^c-b24f7abc4673dad1331e5269e604841a]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2009/455/rule/2) in force at 6.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2009/455/rule/1/1)
 
 [^f00002]: Footnote: [S.I. 2000/1626](https://www.legislation.gov.uk/uksi/2000/1626). Amended by [S.I. 2003/956](https://www.legislation.gov.uk/uksi/2003/956).
 
 [^f00003]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 319A was inserted by section 196 of the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29).
 
-[^key-d0013788cd18c0c90f2072f3f8503472]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2009/455/rule/3) in force at 6.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2009/455/rule/1/1)
+[^c-d0013788cd18c0c90f2072f3f8503472]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2009/455/rule/3) in force at 6.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2009/455/rule/1/1)
 
 [^f00004]: Footnote: [S.I. 2000/1625](https://www.legislation.gov.uk/uksi/2000/1625). Amended by [S.I. 2003/956](https://www.legislation.gov.uk/uksi/2003/956) and [S.I. 2008/2831](https://www.legislation.gov.uk/uksi/2008/2831).
 
-[^key-2007b127342286b8d95f61b2fbe8d996]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2009/455/rule/4) in force at 6.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2009/455/rule/1/1)
+[^c-2007b127342286b8d95f61b2fbe8d996]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2009/455/rule/4) in force at 6.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2009/455/rule/1/1)
 
 [^f00005]: Footnote: [S.I. 2000/1624](https://www.legislation.gov.uk/uksi/2000/1624). Amended by [S.I. 2003/956](https://www.legislation.gov.uk/uksi/2003/956) and [S.I. 2008/2831](https://www.legislation.gov.uk/uksi/2008/2831).
 
-[^key-0d6981d784b053269d15b8b0e4d767cd]: Textual amendment: [Rule 5](https://www.legislation.gov.uk/uksi/2009/455/rule/5) revoked (6.4.2015) by [The Town and Country Planning (Hearings and Inquiries Procedure) (England) (Amendment and Revocation) Rules 2015 (S.I. 2015/316)](https://www.legislation.gov.uk/uksi/2015/316), [rule 1(1)](https://www.legislation.gov.uk/uksi/2015/316/rule/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/316/schedule) (with [rule 7(2)](https://www.legislation.gov.uk/uksi/2015/316/rule/7/2))
+[^c-0d6981d784b053269d15b8b0e4d767cd]: Textual amendment: [Rule 5](https://www.legislation.gov.uk/uksi/2009/455/rule/5) revoked (6.4.2015) by [The Town and Country Planning (Hearings and Inquiries Procedure) (England) (Amendment and Revocation) Rules 2015 (S.I. 2015/316)](https://www.legislation.gov.uk/uksi/2015/316), [rule 1(1)](https://www.legislation.gov.uk/uksi/2015/316/rule/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/316/schedule) (with [rule 7(2)](https://www.legislation.gov.uk/uksi/2015/316/rule/7/2))

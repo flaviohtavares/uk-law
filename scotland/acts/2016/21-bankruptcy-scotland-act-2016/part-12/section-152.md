@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 152. Assets discovered after discharge of trustee: appointment of trustee[^key-d3725abf7d0fb8d254cd66900725ce26]
+## 152. Assets discovered after discharge of trustee: appointment of trustee[^c-d3725abf7d0fb8d254cd66900725ce26]
 
 *Extent: S*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3725abf7d0fb8d254cd66900725ce26]: Commencement: [S. 152](https://www.legislation.gov.uk/asp/2016/21/section/152) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-d3725abf7d0fb8d254cd66900725ce26]: Commencement: [S. 152](https://www.legislation.gov.uk/asp/2016/21/section/152) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

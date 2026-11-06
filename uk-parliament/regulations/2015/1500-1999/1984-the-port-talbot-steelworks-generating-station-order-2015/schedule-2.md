@@ -22,7 +22,7 @@ summary: ''
 
 Article 3(3)
 
-### 1. Interpretation[^key-6508ed2205be6346f5b0b7ff65c43faf]
+### 1. Interpretation[^c-6508ed2205be6346f5b0b7ff65c43faf]
 
 (1) In this Schedule—
 
@@ -32,13 +32,13 @@ Article 3(3)
 
 (2) Where a Requirement provides that the authorised development is to be carried out in accordance with details or a scheme, plan, code or other document approved or agreed by the relevant planning authority, the approved or agreed details, scheme, plan, code or other document must be taken to include any amendments or revisions subsequently approved or agreed by the relevant planning authority.
 
-### 2. Time limits[^key-f1becb8e0413f6f9548b61b1dd6be513]
+### 2. Time limits[^c-f1becb8e0413f6f9548b61b1dd6be513]
 
 (1) The authorised development must be commenced on or before 7th December 2020.
 
 (2) If the notice given to the relevant planning authority under Requirement 3 states that the authorised development is to be constructed in 2 stages, the second stage must be commenced within 10 years of the commencement of the first stage.
 
-### 3. Stages of authorised development[^key-8981d5c19c510c41450d030c264b3973]
+### 3. Stages of authorised development[^c-8981d5c19c510c41450d030c264b3973]
 
 (1) The authorised development must not be commenced until the undertaker has given a written notice to the relevant planning authority stating whether the authorised development is to be constructed in 1 stage or 2 stages.
 
@@ -46,7 +46,7 @@ Article 3(3)
 
 (3) The authorised development must be constructed in accordance with the number of stages specified in the notice.
 
-### 4. Detailed design[^key-d3553c08b39b7c0b712c433f01fc5678]
+### 4. Detailed design[^c-d3553c08b39b7c0b712c433f01fc5678]
 
 (1) Subject to sub-paragraph (3), the elements of the authorised development set out in column 1 of Table A—
 
@@ -122,7 +122,7 @@ Article 3(3)
 
 (6) The authorised development must be carried out in accordance with the approved plans and any other approvals given by the relevant planning authority pursuant to this Requirement.
 
-### 5. Decommissioning of existing generating station[^key-f80c48c0a0f38e47ec825609ac2a2c95]
+### 5. Decommissioning of existing generating station[^c-f80c48c0a0f38e47ec825609ac2a2c95]
 
 (1) The undertaker must give written notice (the “completion notice”) to the relevant planning authority within 7 days of the date on which the commissioning of the authorised development is completed.
 
@@ -142,7 +142,7 @@ Article 3(3)
 - (f) turbo alternator TA2; and
 - (g) turbo alternator TA3.
 
-### 6. Provision of landscaping[^key-643da4b8dda9ef7b1acccb8d27e2d48e]
+### 6. Provision of landscaping[^c-643da4b8dda9ef7b1acccb8d27e2d48e]
 
 (1) No stage of the authorised development may be commenced until a written landscaping scheme for that stage has been submitted to and approved by the relevant planning authority.
 
@@ -166,13 +166,13 @@ Article 3(3)
 
 (4) Any tree or shrub planted as part of an approved landscaping scheme that, within a period of 5 years after planting, is removed, dies or becomes, in the opinion of the relevant planning authority, seriously damaged or diseased, must be replaced in the first available planting season with a specimen of the same species and size as that originally planted, unless otherwise approved by the relevant planning authority.
 
-### 7. Fencing and other means of enclosure[^key-c65cf48506c9127ab6961ff7414daf8a]
+### 7. Fencing and other means of enclosure[^c-c65cf48506c9127ab6961ff7414daf8a]
 
 (1) No stage of the authorised development may be commenced until details of the proposed means of enclosure for that stage (which must be in accordance with the details described in the environmental statement) have been submitted to and agreed in writing by the relevant planning authority.
 
 (2) The means of enclosure agreed under sub-paragraph (1) must be erected before the commissioning of the relevant stage of the authorised development.
 
-### 8. Archaeology[^key-3b8da957f8e5d3a25fbbe1a3ecacd35b]
+### 8. Archaeology[^c-3b8da957f8e5d3a25fbbe1a3ecacd35b]
 
 (1) The authorised development must not be commenced until a written scheme for the investigation of areas of archaeological interest as identified in chapter 11 (cultural heritage and archaeology) of the environmental statement has been submitted to and approved by the relevant planning authority.
 
@@ -185,13 +185,13 @@ Article 3(3)
 
 (4) Any archaeological works or watching brief must be carried out in accordance with the approved scheme and in consultation with the archaeological planning section of Glamorgan-Gwent Archaeological Trust Limited.
 
-### 9. Habitat management plan[^key-14908e5b062efb0d7a4068759cf1a85f]
+### 9. Habitat management plan[^c-14908e5b062efb0d7a4068759cf1a85f]
 
 (1) No stage of the authorised development may be commenced until a written habitat management plan for that stage, reflecting the survey results and ecological mitigation and enhancement measures included in the environmental statement, has been submitted to and approved by the relevant planning authority.
 
 (2) The habitat management plan must include an implementation timetable and must be carried out as approved by the relevant planning authority.
 
-### 10. Code of construction practice[^key-93d0a95a836f2f0433eadf7be2f2cab5]
+### 10. Code of construction practice[^c-93d0a95a836f2f0433eadf7be2f2cab5]
 
 (1) No stage of the authorised development may be commenced until a code of construction practice for that stage has been submitted to and approved by the relevant planning authority.
 
@@ -205,7 +205,7 @@ Article 3(3)
 
 (4) All construction works for the authorised development must be carried out in accordance with the approved code of construction practice for that stage, including any plans approved as part of it.
 
-### 11. Approval and implementation of noise management plan, etc.[^key-6cfadb578de37b43ae5ecd65344e786b]
+### 11. Approval and implementation of noise management plan, etc.[^c-6cfadb578de37b43ae5ecd65344e786b]
 
 (1) No stage of the authorised development may be commenced until the following plans to minimise the impacts of construction works for that stage have been submitted to and approved by the relevant planning authority—
 
@@ -224,7 +224,7 @@ Article 3(3)
 
 (4) Construction works for the authorised development must be carried out in accordance with the approved plans for that stage referred to in sub-paragraph (1).
 
-### 12. External lighting[^key-f995721d17bbd65bb8842c26d2f66b5c]
+### 12. External lighting[^c-f995721d17bbd65bb8842c26d2f66b5c]
 
 (1) Not less than 3 months before commissioning any stage of the authorised development, the undertaker must submit to the relevant planning authority written details of all external lighting to be installed at that stage of the authorised development.
 
@@ -234,7 +234,7 @@ Article 3(3)
 
 (4) The approved lighting scheme must be retained for the duration of the operation of the relevant stage of the authorised development.
 
-### 13. Construction hours[^key-309af5232c8cef134ad53ade82c549d5]
+### 13. Construction hours[^c-309af5232c8cef134ad53ade82c549d5]
 
 Construction works for the authorised development must not take place—
 
@@ -245,7 +245,7 @@ Construction works for the authorised development must not take place—
 
 except with the prior written approval of the relevant planning authority.
 
-### 14. Control of noise during operational phase[^key-e8ccda4fa756c9103a86dfa12f12711c]
+### 14. Control of noise during operational phase[^c-e8ccda4fa756c9103a86dfa12f12711c]
 
 (1) The undertaker must not commence commissioning of any stage of the authorised development until a written scheme for the management of noise generated by the operation of that stage of the authorised development has been submitted to and approved by the relevant planning authority.
 
@@ -257,17 +257,17 @@ except with the prior written approval of the relevant planning authority.
 
 (3) The noise management scheme must be implemented as approved and maintained for the duration of the operation of the relevant stage of the authorised development.
 
-### 15. Surface and foul water drainage[^key-66f537a49375fd42c5f199dcaa987651]
+### 15. Surface and foul water drainage[^c-66f537a49375fd42c5f199dcaa987651]
 
 (1) No stage of the authorised development may be commenced until written details of the surface and foul water drainage system for that stage have been submitted to and approved by the relevant planning authority.
 
 (2) The surface and foul water drainage system for the relevant stage of the authorised development must be constructed in accordance with the approved details.
 
-### 16. Aviation safety[^key-cadbf387918eea04142704597c8f9562]
+### 16. Aviation safety[^c-cadbf387918eea04142704597c8f9562]
 
 The undertaker must install on any chimney stack forming part of the authorised development aviation warning lighting with such shape, colour and character as specified in guidance issued by the Civil Aviation Authority.
 
-### 17. Air quality monitoring[^key-f4691013ff8e79d24d04075ed2ad5418]
+### 17. Air quality monitoring[^c-f4691013ff8e79d24d04075ed2ad5418]
 
 (1) Not less than 12 months before the commissioning of any stage of the authorised development, a scheme for the monitoring of ambient concentrations of nitrogen dioxide in the area must be submitted to and approved by the relevant planning authority.
 
@@ -280,7 +280,7 @@ The undertaker must install on any chimney stack forming part of the authorised 
 
 (3) The air quality monitoring scheme must be implemented as approved for the relevant stage of the authorised development.
 
-### 18. Contaminated land and groundwater[^key-58a142d3751d8b1b0a9de7b45ee06455]
+### 18. Contaminated land and groundwater[^c-58a142d3751d8b1b0a9de7b45ee06455]
 
 (1) No stage of the authorised development may be commenced until a written scheme for that stage to deal with the contamination of any land, including groundwater, which is likely to cause harm to persons, the environment or pollution of controlled waters has been submitted to and approved by the relevant planning authority in consultation with the Natural Resources Body for Wales.
 
@@ -312,7 +312,7 @@ The undertaker must install on any chimney stack forming part of the authorised 
 - “controlled waters” has the meaning given in Part 3 of the Water Resources Act 1991[^f00029];
 - “guidance document” means Land Contamination: A Guide for Developers (Welsh Local Government Association and the Environment Agency Wales, 2006[^f00030]).
 
-### 19. Construction compound[^key-dd1741625fd6911e184947faddaf70d3]
+### 19. Construction compound[^c-dd1741625fd6911e184947faddaf70d3]
 
 (1) No stage of the authorised development may be commenced until details for that stage of the size, layout and location of temporary buildings and structures forming Work No. 1B have been submitted to and approved by the relevant planning authority.
 
@@ -320,44 +320,44 @@ The undertaker must install on any chimney stack forming part of the authorised 
 
 ## Annotations
 
-[^key-6508ed2205be6346f5b0b7ff65c43faf]: Commencement: Sch. 2 para. 1 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-6508ed2205be6346f5b0b7ff65c43faf]: Commencement: Sch. 2 para. 1 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
 
-[^key-f1becb8e0413f6f9548b61b1dd6be513]: Commencement: Sch. 2 para. 2 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-f1becb8e0413f6f9548b61b1dd6be513]: Commencement: Sch. 2 para. 2 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
 
-[^key-8981d5c19c510c41450d030c264b3973]: Commencement: Sch. 2 para. 3 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-8981d5c19c510c41450d030c264b3973]: Commencement: Sch. 2 para. 3 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
 
-[^key-d3553c08b39b7c0b712c433f01fc5678]: Commencement: Sch. 2 para. 4 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-d3553c08b39b7c0b712c433f01fc5678]: Commencement: Sch. 2 para. 4 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
 
-[^key-f80c48c0a0f38e47ec825609ac2a2c95]: Commencement: Sch. 2 para. 5 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-f80c48c0a0f38e47ec825609ac2a2c95]: Commencement: Sch. 2 para. 5 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
 
-[^key-643da4b8dda9ef7b1acccb8d27e2d48e]: Commencement: Sch. 2 para. 6 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-643da4b8dda9ef7b1acccb8d27e2d48e]: Commencement: Sch. 2 para. 6 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
 
-[^key-c65cf48506c9127ab6961ff7414daf8a]: Commencement: Sch. 2 para. 7 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-c65cf48506c9127ab6961ff7414daf8a]: Commencement: Sch. 2 para. 7 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
 
-[^key-3b8da957f8e5d3a25fbbe1a3ecacd35b]: Commencement: Sch. 2 para. 8 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-3b8da957f8e5d3a25fbbe1a3ecacd35b]: Commencement: Sch. 2 para. 8 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
 
-[^key-14908e5b062efb0d7a4068759cf1a85f]: Commencement: Sch. 2 para. 9 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-14908e5b062efb0d7a4068759cf1a85f]: Commencement: Sch. 2 para. 9 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
 
-[^key-93d0a95a836f2f0433eadf7be2f2cab5]: Commencement: Sch. 2 para. 10 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-93d0a95a836f2f0433eadf7be2f2cab5]: Commencement: Sch. 2 para. 10 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
 
-[^key-6cfadb578de37b43ae5ecd65344e786b]: Commencement: Sch. 2 para. 11 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-6cfadb578de37b43ae5ecd65344e786b]: Commencement: Sch. 2 para. 11 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
 
-[^key-f995721d17bbd65bb8842c26d2f66b5c]: Commencement: Sch. 2 para. 12 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-f995721d17bbd65bb8842c26d2f66b5c]: Commencement: Sch. 2 para. 12 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
 
-[^key-309af5232c8cef134ad53ade82c549d5]: Commencement: Sch. 2 para. 13 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-309af5232c8cef134ad53ade82c549d5]: Commencement: Sch. 2 para. 13 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
 
-[^key-e8ccda4fa756c9103a86dfa12f12711c]: Commencement: Sch. 2 para. 14 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-e8ccda4fa756c9103a86dfa12f12711c]: Commencement: Sch. 2 para. 14 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
 
-[^key-66f537a49375fd42c5f199dcaa987651]: Commencement: Sch. 2 para. 15 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-66f537a49375fd42c5f199dcaa987651]: Commencement: Sch. 2 para. 15 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
 
-[^key-cadbf387918eea04142704597c8f9562]: Commencement: Sch. 2 para. 16 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-cadbf387918eea04142704597c8f9562]: Commencement: Sch. 2 para. 16 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
 
-[^key-f4691013ff8e79d24d04075ed2ad5418]: Commencement: Sch. 2 para. 17 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-f4691013ff8e79d24d04075ed2ad5418]: Commencement: Sch. 2 para. 17 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
 
-[^key-58a142d3751d8b1b0a9de7b45ee06455]: Commencement: Sch. 2 para. 18 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-58a142d3751d8b1b0a9de7b45ee06455]: Commencement: Sch. 2 para. 18 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
 
 [^f00029]: Footnote: See section 104(1).
 
 [^f00030]: Footnote: The guide is available at this link: http://www.merthyr.gov.uk/media/1446/land-contamination-a-guide-for-developers.pdf.
 
-[^key-dd1741625fd6911e184947faddaf70d3]: Commencement: Sch. 2 para. 19 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-dd1741625fd6911e184947faddaf70d3]: Commencement: Sch. 2 para. 19 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)

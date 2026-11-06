@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 18 — NEW SCHEDULE 27 TO BE INSERTED INTO THE REGULATIONS[^key-b46444499ebc63fcc8e15fd84b9f3ae0][^key-8599fb1b2d7a6fe681d7d1efa83439a6]
+## SCHEDULE 18 — NEW SCHEDULE 27 TO BE INSERTED INTO THE REGULATIONS[^c-b46444499ebc63fcc8e15fd84b9f3ae0][^c-8599fb1b2d7a6fe681d7d1efa83439a6]
 
 *Extent: S*
 
@@ -481,9 +481,9 @@ Regulation 9(2)
 
 ## Annotations
 
-[^key-b46444499ebc63fcc8e15fd84b9f3ae0]: Commencement: [Sch. 18](https://www.legislation.gov.uk/ssi/2025/165/schedule/18) in force at 1.6.2025 for specified purposes (subject to reg. 1(5)), see [reg. 1(4)(d)(ii)(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/d/ii/5)
+[^c-b46444499ebc63fcc8e15fd84b9f3ae0]: Commencement: [Sch. 18](https://www.legislation.gov.uk/ssi/2025/165/schedule/18) in force at 1.6.2025 for specified purposes (subject to reg. 1(5)), see [reg. 1(4)(d)(ii)(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/d/ii/5)
 
-[^key-8599fb1b2d7a6fe681d7d1efa83439a6]: Commencement: [Sch. 18](https://www.legislation.gov.uk/ssi/2025/165/schedule/18) in force at 1.11.2025 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-8599fb1b2d7a6fe681d7d1efa83439a6]: Commencement: [Sch. 18](https://www.legislation.gov.uk/ssi/2025/165/schedule/18) in force at 1.11.2025 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00088]: Footnote: EUR 2016/1628, amended by [S.I. 2019/648](https://www.legislation.gov.uk/uksi/2019/648) and [S.I. 2020/1040](https://www.legislation.gov.uk/uksi/2020/1040).
 

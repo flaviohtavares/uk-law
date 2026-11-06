@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Interpretation and notices[^key-e5deed4e410ad3c1d529bcdc5f5cdbac]
+## 26. Interpretation and notices[^c-e5deed4e410ad3c1d529bcdc5f5cdbac]
 
 *Extent: N.I.*
 
@@ -52,7 +52,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e5deed4e410ad3c1d529bcdc5f5cdbac]: Commencement: Reg. 26 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-e5deed4e410ad3c1d529bcdc5f5cdbac]: Commencement: Reg. 26 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00023]: Footnote: “Scheme rules” is defined in section 100(1) of the Pension Schemes Act 2021
 

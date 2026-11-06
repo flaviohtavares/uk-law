@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## Schedule 1 — Further definitions[^key-4871d1edee785bc0154330665e179513]
+## Schedule 1 — Further definitions[^c-4871d1edee785bc0154330665e179513]
 
 *Extent: E+W+S*
 
 Regulation 3(2)
 
-[^key-4871d1edee785bc0154330665e179513]
+[^c-4871d1edee785bc0154330665e179513]
 
 In these Regulations—
 
@@ -52,7 +52,7 @@ In these Regulations—
 - “**model identifier**” means the code, usually alphanumeric, which distinguishes a specific product model from other models with the same trade mark or the same manufacturer’s, importer’s or authorised representative’s name;
 - “**network**” means a communication infrastructure with a topology of links, an architecture, including the physical components, organisational principles, communication procedures and formats (protocols);
 - “**off mode**” means a condition in which the household tumble dryer is connected to the electric mains power source and is not providing any function, or it is in a condition providing only—
-  - (a) an indication of off mode condition , and[^key-f122a9513e7a943737e225d0e7e9e92c]
+  - (a) an indication of off mode condition , and[^c-f122a9513e7a943737e225d0e7e9e92c]
   - (b) functionalities intended to ensure electromagnetic compatibility in accordance with the [Electromagnetic Compatibility Regulations 2016](https://www.legislation.gov.uk/uksi/2016/1091/contents)[^f00021];
 - “**partial load**” means half of the rated capacity of a household tumble dryer for a given programme;
 - “**point of sale**” means a location where household tumble dryers are displayed or offered for sale, hire or hire-purchase.
@@ -77,8 +77,8 @@ In these Regulations—
 
 ## Annotations
 
-[^key-4871d1edee785bc0154330665e179513]: Commencement: Sch. 1 in force at 10.4.2026, see [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/f)
+[^c-4871d1edee785bc0154330665e179513]: Commencement: Sch. 1 in force at 10.4.2026, see [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/f)
 
-[^key-f122a9513e7a943737e225d0e7e9e92c]: Textual amendment: Word and comma in [Sch. 1](https://www.legislation.gov.uk/uksi/2026/318/schedule/1) substituted for semicolon (27.7.2026) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2026 (S.I. 2026/750)](https://www.legislation.gov.uk/uksi/2026/750), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/750/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2026/750/regulation/13)
+[^c-f122a9513e7a943737e225d0e7e9e92c]: Textual amendment: Word and comma in [Sch. 1](https://www.legislation.gov.uk/uksi/2026/318/schedule/1) substituted for semicolon (27.7.2026) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2026 (S.I. 2026/750)](https://www.legislation.gov.uk/uksi/2026/750), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/750/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2026/750/regulation/13)
 
 [^f00021]: Footnote: [S.I. 2016/1091](https://www.legislation.gov.uk/uksi/2016/1091/contents), amended by [S.I. 2017/1206](https://www.legislation.gov.uk/uksi/2017/1206/contents), [2019/696](https://www.legislation.gov.uk/uksi/2019/696/contents), [2020/676](https://www.legislation.gov.uk/uksi/2020/676/contents), [2020/852](https://www.legislation.gov.uk/uksi/2020/852/contents), [2020/1112](https://www.legislation.gov.uk/uksi/2020/1112/contents), [2020/1460](https://www.legislation.gov.uk/uksi/2020/1460/contents). [S.I. 2016/1901](https://www.legislation.gov.uk/uksi/2016/1901) was also amended by the [European Union (Future Relationship) Act 2020](https://www.legislation.gov.uk/ukpga/2020/29/contents) (c. 29).

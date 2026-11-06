@@ -44,7 +44,7 @@ Coming into operation
 
 The Department for Communities makes the following Regulations in exercise of the powers conferred by sections 1(3) and 9(1) and (2) of the Mesothelioma, etc., Act (Northern Ireland) 2008[^f00001].
 
-## 1. Citation, commencement and application[^key-6d9f21b94ee8d3283d78575ffd666c84]
+## 1. Citation, commencement and application[^c-6d9f21b94ee8d3283d78575ffd666c84]
 
 (1) These Regulations may be cited as the Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment) Regulations (Northern Ireland) 2026 and shall come into operation on 1st April 2026.
 
@@ -55,7 +55,7 @@ The Department for Communities makes the following Regulations in exercise of th
   - (ii) where the date of the first diagnosis with diffuse mesothelioma is unknown, if a claim under section 1(1) of the Mesothelioma, etc., Act (Northern Ireland) 2008 is made by that person on or after 1st April 2026; and
 - (b) paragraph (b) applies only in relation to the dependant of a person who dies on or after 1st April 2026 and who, immediately before death, had diffuse mesothelioma.
 
-## 2. Amendment of the Mesothelioma Lump Sum Payments (Conditions and Amounts) Regulations[^key-4780e5c2787b90e9ee3c96b73103af86]
+## 2. Amendment of the Mesothelioma Lump Sum Payments (Conditions and Amounts) Regulations[^c-4780e5c2787b90e9ee3c96b73103af86]
 
 In the Schedule to the Mesothelioma Lump Sum Payments (Conditions and Amounts) Regulations (Northern Ireland) 2008[^f00002]—
 
@@ -74,7 +74,7 @@ A senior officer of the Department for Communities
 
 Regulation 2
 
-### PART 1[^key-9f0eec584336d561d114c0d8558ac72f]
+### PART 1[^c-9f0eec584336d561d114c0d8558ac72f]
 
 > Table 1
 >
@@ -129,7 +129,7 @@ Regulation 2
 > </tbody>
 > </table>
 
-### PART 2[^key-3525479b3de16651ba844507c3684d42]
+### PART 2[^c-3525479b3de16651ba844507c3684d42]
 
 > Table 2
 >
@@ -184,12 +184,12 @@ These Regulations amend the Mesothelioma Lump Sum Payments (Conditions and Amoun
 
 [^f00001]: Footnote: [2008 c. 9 (N.I.)](https://www.legislation.gov.uk/nia/2008/9); *see* section 1(7) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-6d9f21b94ee8d3283d78575ffd666c84]: Commencement: Reg. 1 in operation at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/60/regulation/1/1)
+[^c-6d9f21b94ee8d3283d78575ffd666c84]: Commencement: Reg. 1 in operation at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/60/regulation/1/1)
 
-[^key-4780e5c2787b90e9ee3c96b73103af86]: Commencement: Reg. 2 in operation at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/60/regulation/1/1)
+[^c-4780e5c2787b90e9ee3c96b73103af86]: Commencement: Reg. 2 in operation at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/60/regulation/1/1)
 
 [^f00002]: Footnote: [S.R. 2008 No. 354](https://www.legislation.gov.uk/nisr/2008/354); relevant amending Regulations are [S.R. 2025 No. 66](https://www.legislation.gov.uk/nisr/2025/66)
 
-[^key-9f0eec584336d561d114c0d8558ac72f]: Commencement: Sch. Pt. 1 in operation at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/60/regulation/1/1)
+[^c-9f0eec584336d561d114c0d8558ac72f]: Commencement: Sch. Pt. 1 in operation at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/60/regulation/1/1)
 
-[^key-3525479b3de16651ba844507c3684d42]: Commencement: Sch. Pt. 2 in operation at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/60/regulation/1/1)
+[^c-3525479b3de16651ba844507c3684d42]: Commencement: Sch. Pt. 2 in operation at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/60/regulation/1/1)

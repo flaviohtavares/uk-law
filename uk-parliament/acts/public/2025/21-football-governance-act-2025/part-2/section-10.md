@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. State of the game report[^key-93238650cfb46b2ef74001a0e652e4d3]
+## 10. State of the game report[^c-93238650cfb46b2ef74001a0e652e4d3]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93238650cfb46b2ef74001a0e652e4d3]: Commencement: S. 10 in force at Royal Assent, see [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/b)
+[^c-93238650cfb46b2ef74001a0e652e4d3]: Commencement: S. 10 in force at Royal Assent, see [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/b)

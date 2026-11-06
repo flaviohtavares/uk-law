@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 167. Determination of appeals[^key-dc5ebf36a9c3571b1366c4580b0724c5][^key-6d7bb78171608c98bf877fc68fd739e6]
+## 167. Determination of appeals[^c-dc5ebf36a9c3571b1366c4580b0724c5][^c-6d7bb78171608c98bf877fc68fd739e6]
 
 *Extent: E+W*
 
-(1) This section applies where an appeal is made under section 166 to the First-tier Tribunal[^key-d7bd3cefd10c469959419932554828df].
+(1) This section applies where an appeal is made under section 166 to the First-tier Tribunal[^c-d7bd3cefd10c469959419932554828df].
 
 (2) In the case of an appeal against a refusal under section 162 to approve a material change, the tribunal may—
 
@@ -62,8 +62,8 @@ summary: ''
 
 ## Annotations
 
-[^key-dc5ebf36a9c3571b1366c4580b0724c5]: Commencement: S. 167 in force at 1.9.2003 except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4)
+[^c-dc5ebf36a9c3571b1366c4580b0724c5]: Commencement: S. 167 in force at 1.9.2003 except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4)
 
-[^key-6d7bb78171608c98bf877fc68fd739e6]: Commencement: S. 167 in force at 1.1.2004 for W. by [S.I. 2003/2961](https://www.legislation.gov.uk/uksi/2003/2961), [art. 6](https://www.legislation.gov.uk/uksi/2003/2961/article/6), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/2003/2961/schedule/part/III)
+[^c-6d7bb78171608c98bf877fc68fd739e6]: Commencement: S. 167 in force at 1.1.2004 for W. by [S.I. 2003/2961](https://www.legislation.gov.uk/uksi/2003/2961), [art. 6](https://www.legislation.gov.uk/uksi/2003/2961/article/6), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/2003/2961/schedule/part/III)
 
-[^key-d7bd3cefd10c469959419932554828df]: Textual amendment: Words in s. 167(1) substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 195](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/195)
+[^c-d7bd3cefd10c469959419932554828df]: Textual amendment: Words in s. 167(1) substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 195](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/195)

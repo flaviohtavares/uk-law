@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.D.11A. Early retirement on termination of employment by employing authority: additional contribution option[^key-fe2762167f607550d7618ed4eeb8f20f]
+## 2.D.11A. Early retirement on termination of employment by employing authority: additional contribution option[^c-fe2762167f607550d7618ed4eeb8f20f]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe2762167f607550d7618ed4eeb8f20f]: Textual amendment: [Reg. 2.D.11A](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.11A) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [29](https://www.legislation.gov.uk/uksi/2015/96/regulation/29)
+[^c-fe2762167f607550d7618ed4eeb8f20f]: Textual amendment: [Reg. 2.D.11A](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.11A) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [29](https://www.legislation.gov.uk/uksi/2015/96/regulation/29)

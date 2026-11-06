@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 179. Provision of benefit information statements to members[^key-1f993d6962dd29ebf5d440bf538ccc75]
+## 179. Provision of benefit information statements to members[^c-1f993d6962dd29ebf5d440bf538ccc75]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f993d6962dd29ebf5d440bf538ccc75]: Commencement: [Reg. 179](https://www.legislation.gov.uk/uksi/2014/1964/regulation/179) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-1f993d6962dd29ebf5d440bf538ccc75]: Commencement: [Reg. 179](https://www.legislation.gov.uk/uksi/2014/1964/regulation/179) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

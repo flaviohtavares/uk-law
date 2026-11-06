@@ -33,36 +33,36 @@ of 29 June 2020
 
 on the adoption of the 2020-2023 high flux reactor supplementary research programme at Petten to be implemented by the Joint Research Centre for the European Atomic Energy Community (revoked)
 
-[^key-a7a7361bd28e412eb3ffda0b13a977ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a7a7361bd28e412eb3ffda0b13a977ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-a7a7361bd28e412eb3ffda0b13a977ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a7a7361bd28e412eb3ffda0b13a977ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a7a7361bd28e412eb3ffda0b13a977ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a7a7361bd28e412eb3ffda0b13a977ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-a7a7361bd28e412eb3ffda0b13a977ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-a7a7361bd28e412eb3ffda0b13a977ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-a7a7361bd28e412eb3ffda0b13a977ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-a7a7361bd28e412eb3ffda0b13a977ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-a7a7361bd28e412eb3ffda0b13a977ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-a7a7361bd28e412eb3ffda0b13a977ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-a7a7361bd28e412eb3ffda0b13a977ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-a7a7361bd28e412eb3ffda0b13a977ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-a7a7361bd28e412eb3ffda0b13a977ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-a7a7361bd28e412eb3ffda0b13a977ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a7a7361bd28e412eb3ffda0b13a977ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a7a7361bd28e412eb3ffda0b13a977ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — SCIENTIFIC AND TECHNICAL OBJECTIVES[^key-a7a7361bd28e412eb3ffda0b13a977ad]
+## ANNEX I — SCIENTIFIC AND TECHNICAL OBJECTIVES[^c-a7a7361bd28e412eb3ffda0b13a977ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — BREAKDOWN OF THE CONTRIBUTIONS[^key-a7a7361bd28e412eb3ffda0b13a977ad]
+## ANNEX II — BREAKDOWN OF THE CONTRIBUTIONS[^c-a7a7361bd28e412eb3ffda0b13a977ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a7a7361bd28e412eb3ffda0b13a977ad]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-a7a7361bd28e412eb3ffda0b13a977ad]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

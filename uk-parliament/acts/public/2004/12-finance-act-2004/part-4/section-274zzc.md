@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 274ZZC. Power to make provision about collective money purchase schemes[^key-1cf9a3f44346dc18f53497dcd8ca980e][^key-e2cf778e16ffa27e7d0b812294a9e534]
+## 274ZZC. Power to make provision about collective money purchase schemes[^c-1cf9a3f44346dc18f53497dcd8ca980e][^c-e2cf778e16ffa27e7d0b812294a9e534]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1cf9a3f44346dc18f53497dcd8ca980e]: Textual amendment: [Ss. 274ZZA-274ZZC](https://www.legislation.gov.uk/ukpga/2004/12/section/274ZZA) inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 60(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/60/5)
+[^c-1cf9a3f44346dc18f53497dcd8ca980e]: Textual amendment: [Ss. 274ZZA-274ZZC](https://www.legislation.gov.uk/ukpga/2004/12/section/274ZZA) inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 60(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/60/5)
 
-[^key-e2cf778e16ffa27e7d0b812294a9e534]: Textual amendment: [S. 274B](https://www.legislation.gov.uk/ukpga/2004/12/section/274B) and cross-heading inserted (15.3.2018) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 3 paras. 1(5)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/3/paragraph/1/5), [2(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/3/paragraph/2/3) (with [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2018/3/schedule/3/paragraph/4))
+[^c-e2cf778e16ffa27e7d0b812294a9e534]: Textual amendment: [S. 274B](https://www.legislation.gov.uk/ukpga/2004/12/section/274B) and cross-heading inserted (15.3.2018) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 3 paras. 1(5)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/3/paragraph/1/5), [2(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/3/paragraph/2/3) (with [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2018/3/schedule/3/paragraph/4))

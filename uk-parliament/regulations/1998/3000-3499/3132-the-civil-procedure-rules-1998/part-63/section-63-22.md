@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63.22. Defence and reply[^key-d620dee29153284a228643301d80b023][^key-e9b41ec15b82ceef8274db1f25b38097]
+## 63.22. Defence and reply[^c-d620dee29153284a228643301d80b023][^c-e9b41ec15b82ceef8274db1f25b38097]
 
 *Extent: E+W*
 
 (1) Rule 63.7 does not apply and Part 15 applies with the following modifications.
 
-(2) Where the particulars of claim contain a confirmation in accordance with rule 63.20(2), the period for filing a defence where the defendant files an acknowledgment of service under Part 10[^key-3b4a388318a75b88a5ae0553c84c7702] is 42 days after service of the particulars of claim unless rule 15.4(2) provides for a longer period to do so.
+(2) Where the particulars of claim contain a confirmation in accordance with rule 63.20(2), the period for filing a defence where the defendant files an acknowledgment of service under Part 10[^c-3b4a388318a75b88a5ae0553c84c7702] is 42 days after service of the particulars of claim unless rule 15.4(2) provides for a longer period to do so.
 
-(3) Where the particulars of claim do not contain a confirmation in accordance with rule 63.20(2), the period for filing a defence where the defendant files an acknowledgment of service under Part 10[^key-5971a6909a1fb8ec9fe3c0d645358543] is 70 days after service of the particulars of claim.
+(3) Where the particulars of claim do not contain a confirmation in accordance with rule 63.20(2), the period for filing a defence where the defendant files an acknowledgment of service under Part 10[^c-5971a6909a1fb8ec9fe3c0d645358543] is 70 days after service of the particulars of claim.
 
 (4) Where the claimant files a reply to a defence it must be filed and served on all other parties within 28 days of service of the defence.
 
@@ -34,10 +34,10 @@ summary: ''
 
 ## Annotations
 
-[^key-d620dee29153284a228643301d80b023]: Textual amendment: [Pt. 63](https://www.legislation.gov.uk/uksi/1998/3132/part/63) Section 5 inserted (1.10.2010) by [The Civil Procedure (Amendment No.2) Rules 2010 (S.I. 2010/1953)](https://www.legislation.gov.uk/uksi/2010/1953), [rule 1(2)](https://www.legislation.gov.uk/uksi/2010/1953/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1953/schedule/2)
+[^c-d620dee29153284a228643301d80b023]: Textual amendment: [Pt. 63](https://www.legislation.gov.uk/uksi/1998/3132/part/63) Section 5 inserted (1.10.2010) by [The Civil Procedure (Amendment No.2) Rules 2010 (S.I. 2010/1953)](https://www.legislation.gov.uk/uksi/2010/1953), [rule 1(2)](https://www.legislation.gov.uk/uksi/2010/1953/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1953/schedule/2)
 
-[^key-e9b41ec15b82ceef8274db1f25b38097]: Textual amendment: [Pt. 63](https://www.legislation.gov.uk/uksi/1998/3132/part/63) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rule 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2092/schedule/1)
+[^c-e9b41ec15b82ceef8274db1f25b38097]: Textual amendment: [Pt. 63](https://www.legislation.gov.uk/uksi/1998/3132/part/63) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rule 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2092/schedule/1)
 
-[^key-3b4a388318a75b88a5ae0553c84c7702]: Textual amendment: Words in [rule 63.22(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/63.22/2) inserted (1.10.2013) by [The Civil Procedure (Amendment No.7) Rules 2013 (S.I. 2013/1974)](https://www.legislation.gov.uk/uksi/2013/1974), [rules 2](https://www.legislation.gov.uk/uksi/2013/1974/article/2), [26(m)(i)](https://www.legislation.gov.uk/uksi/2013/1974/rule/26/m/i)
+[^c-3b4a388318a75b88a5ae0553c84c7702]: Textual amendment: Words in [rule 63.22(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/63.22/2) inserted (1.10.2013) by [The Civil Procedure (Amendment No.7) Rules 2013 (S.I. 2013/1974)](https://www.legislation.gov.uk/uksi/2013/1974), [rules 2](https://www.legislation.gov.uk/uksi/2013/1974/article/2), [26(m)(i)](https://www.legislation.gov.uk/uksi/2013/1974/rule/26/m/i)
 
-[^key-5971a6909a1fb8ec9fe3c0d645358543]: Textual amendment: Words in [rule 63.22(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/63.22/3) inserted (1.10.2013) by [The Civil Procedure (Amendment No.7) Rules 2013 (S.I. 2013/1974)](https://www.legislation.gov.uk/uksi/2013/1974), [rules 2](https://www.legislation.gov.uk/uksi/2013/1974/article/2), [26(m)(ii)](https://www.legislation.gov.uk/uksi/2013/1974/rule/26/m/ii)
+[^c-5971a6909a1fb8ec9fe3c0d645358543]: Textual amendment: Words in [rule 63.22(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/63.22/3) inserted (1.10.2013) by [The Civil Procedure (Amendment No.7) Rules 2013 (S.I. 2013/1974)](https://www.legislation.gov.uk/uksi/2013/1974), [rules 2](https://www.legislation.gov.uk/uksi/2013/1974/article/2), [26(m)(ii)](https://www.legislation.gov.uk/uksi/2013/1974/rule/26/m/ii)

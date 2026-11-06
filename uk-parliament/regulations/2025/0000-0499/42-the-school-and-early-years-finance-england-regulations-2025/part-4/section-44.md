@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Approval by the schools forum or the Secretary of State of proposals to revise schemes[^key-d111b3a80b967310da12013777b900bd]
+## 44. Approval by the schools forum or the Secretary of State of proposals to revise schemes[^c-d111b3a80b967310da12013777b900bd]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d111b3a80b967310da12013777b900bd]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2025/42/regulation/44) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-d111b3a80b967310da12013777b900bd]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2025/42/regulation/44) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
 
 [^f00097]: Footnote: Paragraph 2A(3)(b) of Schedule 14 to the 1998 Act was inserted by section 57 of, and paragraph 5 of Schedule 5 to, the 2006 Act.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 12A.. Meaning of “applicable time period”[^key-35120478b815593d7e8249b6b4e83102]
+## Article 12A.. Meaning of “applicable time period”[^c-35120478b815593d7e8249b6b4e83102]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35120478b815593d7e8249b6b4e83102]: Textual amendment: Art. 12A inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 76(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/76/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/h) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/82/regulation/4))
+[^c-35120478b815593d7e8249b6b4e83102]: Textual amendment: Art. 12A inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 76(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/76/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/h) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/82/regulation/4))

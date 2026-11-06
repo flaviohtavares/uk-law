@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Offences and penalties[^key-fd15b5ead4d03f7c5ab5a0839e6cc4fb]
+## 20. Offences and penalties[^c-fd15b5ead4d03f7c5ab5a0839e6cc4fb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd15b5ead4d03f7c5ab5a0839e6cc4fb]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2007/2785/regulation/20) omitted (6.4.2018) by virtue of [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2018 (S.I. 2018/352)](https://www.legislation.gov.uk/uksi/2018/352), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/352/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2018/352/regulation/8/b)
+[^c-fd15b5ead4d03f7c5ab5a0839e6cc4fb]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2007/2785/regulation/20) omitted (6.4.2018) by virtue of [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2018 (S.I. 2018/352)](https://www.legislation.gov.uk/uksi/2018/352), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/352/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2018/352/regulation/8/b)

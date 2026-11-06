@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3ZA. Purpose of planning[^key-e51f81b09105a627c07ed2fb252d6930]
+## 3ZA. Purpose of planning[^c-e51f81b09105a627c07ed2fb252d6930]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ is to be considered as being in the long term public interest.
 
 ## Annotations
 
-[^key-e51f81b09105a627c07ed2fb252d6930]: Textual amendment: [Pt. 1ZA](https://www.legislation.gov.uk/ukpga/1997/8/part/1ZA) inserted (8.11.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 1(2)](https://www.legislation.gov.uk/asp/2019/13/section/1/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/314/schedule)
+[^c-e51f81b09105a627c07ed2fb252d6930]: Textual amendment: [Pt. 1ZA](https://www.legislation.gov.uk/ukpga/1997/8/part/1ZA) inserted (8.11.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 1(2)](https://www.legislation.gov.uk/asp/2019/13/section/1/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/314/schedule)

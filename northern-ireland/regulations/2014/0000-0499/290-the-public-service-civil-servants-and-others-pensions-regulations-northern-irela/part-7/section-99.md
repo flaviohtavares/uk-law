@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 99. Application of Part to pension adjustment orders[^key-bf1d900779b0294d3f7b6c49ed5c24bb]
+## 99. Application of Part to pension adjustment orders[^c-bf1d900779b0294d3f7b6c49ed5c24bb]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bf1d900779b0294d3f7b6c49ed5c24bb]: Commencement: [Reg. 99](https://www.legislation.gov.uk/nisr/2014/290/regulation/99) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-bf1d900779b0294d3f7b6c49ed5c24bb]: Commencement: [Reg. 99](https://www.legislation.gov.uk/nisr/2014/290/regulation/99) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
 [^f00061]: Footnote: Number 26 of 1995 of the Acts of the Oireachtas of the Republic of Ireland

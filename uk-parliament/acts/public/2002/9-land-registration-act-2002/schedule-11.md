@@ -382,7 +382,7 @@ In Schedule 5 to the Further and Higher Education Act 1992, in paragraph 6(1)—
 
 In Schedule 5 to the Judicial Pensions and Retirement Act 1993, there is inserted at the end— “Adjudicator to Her Majesty’s Land Registry”
 
-### 29. Charities Act 1993 (c. 10)[^key-1b183f9f999f8961b995d19b07137218]
+### 29. Charities Act 1993 (c. 10)[^c-1b183f9f999f8961b995d19b07137218]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -492,6 +492,6 @@ In Schedule 6 to the International Criminal Court Act 2001, in paragraph 7(1)—
 
 [^c4271511]: Textual amendment: [Sch. 11 para. 22](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/22) repealed (prosp.) by [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29), [ss. 457](https://www.legislation.gov.uk/ukpga/2002/29/section/457), [458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12)
 
-[^key-1b183f9f999f8961b995d19b07137218]: Textual amendment: [Sch. 11 para. 29](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/29) repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-1b183f9f999f8961b995d19b07137218]: Textual amendment: [Sch. 11 para. 29](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/29) repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
 [^c4271521]: Textual amendment: [Sch. 11 para. 32](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/32) repealed (prosp.) by [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29), [ss. 457](https://www.legislation.gov.uk/ukpga/2002/29/section/457), [458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12)

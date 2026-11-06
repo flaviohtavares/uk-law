@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Power to make consequential, transitional etc. provision[^key-d6b31455ead02c1c28af63b5a7535fa4]
+## 49. Power to make consequential, transitional etc. provision[^c-d6b31455ead02c1c28af63b5a7535fa4]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6b31455ead02c1c28af63b5a7535fa4]: Commencement: S. 49 in force at 18.8.2023, see [s. 56(1)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/b)
+[^c-d6b31455ead02c1c28af63b5a7535fa4]: Commencement: S. 49 in force at 18.8.2023, see [s. 56(1)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/b)

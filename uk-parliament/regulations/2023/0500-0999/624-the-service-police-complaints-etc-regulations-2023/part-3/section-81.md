@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Restrictions on disclosure of sensitive information[^key-c28b92e983eb81baa6f364675237660b]
+## 81. Restrictions on disclosure of sensitive information[^c-c28b92e983eb81baa6f364675237660b]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c28b92e983eb81baa6f364675237660b]: Commencement: Reg. 81 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-c28b92e983eb81baa6f364675237660b]: Commencement: Reg. 81 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
 
 [^f00015]: Footnote: [2016 c. 25](https://www.legislation.gov.uk/ukpga/2016/25).

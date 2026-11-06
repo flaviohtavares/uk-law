@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Treasury directions[^key-8b98471f81681576f5f697340a4679a5][^key-ccecd901a14234b30a85d8bf814b30df]
+## 89. Treasury directions[^c-8b98471f81681576f5f697340a4679a5][^c-ccecd901a14234b30a85d8bf814b30df]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The requirements in regulations 19 (severance of existing financial relationship
 
 ## Annotations
 
-[^key-8b98471f81681576f5f697340a4679a5]: Commencement: Reg. 89 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-8b98471f81681576f5f697340a4679a5]: Commencement: Reg. 89 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-ccecd901a14234b30a85d8bf814b30df]: Commencement: Reg. 89 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ccecd901a14234b30a85d8bf814b30df]: Commencement: Reg. 89 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Commission Delegated Regulation (EU) 2019/827 on criteria to be fulfilled by the professional operators in order to comply with the conditions set out in Article 89(1) point (a) of Regulation (EU) 2016/2031 of the European Parliament and of the Council and procedures to ensure that those criteria are met[^key-45856a052cd7b4fb8b4d76de79b4faca]
+## 46. Commission Delegated Regulation (EU) 2019/827 on criteria to be fulfilled by the professional operators in order to comply with the conditions set out in Article 89(1) point (a) of Regulation (EU) 2016/2031 of the European Parliament and of the Council and procedures to ensure that those criteria are met[^c-45856a052cd7b4fb8b4d76de79b4faca]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-45856a052cd7b4fb8b4d76de79b4faca]: Commencement: Reg. 46 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
+[^c-45856a052cd7b4fb8b4d76de79b4faca]: Commencement: Reg. 46 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
 
 [^c24375241]: Marginal citation: EUR 2019/827.

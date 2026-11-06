@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Exemption orders[^key-19fb9c6fdb3883a98959ff49305f56fa]
+## 51. Exemption orders[^c-19fb9c6fdb3883a98959ff49305f56fa]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19fb9c6fdb3883a98959ff49305f56fa]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2019/17/section/51) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-19fb9c6fdb3883a98959ff49305f56fa]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2019/17/section/51) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)

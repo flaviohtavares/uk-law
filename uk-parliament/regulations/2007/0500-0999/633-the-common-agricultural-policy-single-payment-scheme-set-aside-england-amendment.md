@@ -32,7 +32,7 @@ summary: ''
 
 agriculture, england
 
-The Common Agricultural Policy Single Payment Scheme (Set-aside) (England) (Amendment) Regulations 2007 (revoked)[^key-24e3b956ba3c1d96f77d04fe2bb19e60]
+The Common Agricultural Policy Single Payment Scheme (Set-aside) (England) (Amendment) Regulations 2007 (revoked)[^c-24e3b956ba3c1d96f77d04fe2bb19e60]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 31st March 2007
 
-[^key-24e3b956ba3c1d96f77d04fe2bb19e60]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-24e3b956ba3c1d96f77d04fe2bb19e60]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-24e3b956ba3c1d96f77d04fe2bb19e60]
+## 1. Title and commencement[^c-24e3b956ba3c1d96f77d04fe2bb19e60]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-24e3b956ba3c1d96f77d04fe2bb19e60]
+## 2. Amendment[^c-24e3b956ba3c1d96f77d04fe2bb19e60]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-24e3b956ba3c1d96f77d04fe2bb19e60]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-24e3b956ba3c1d96f77d04fe2bb19e60]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-24e3b956ba3c1d96f77d04fe2bb19e60]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-24e3b956ba3c1d96f77d04fe2bb19e60]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-24e3b956ba3c1d96f77d04fe2bb19e60]: Textual amendment: Regulations revoked (E.) (1.12.2009) by [The Common Agricultural Policy Single Payment and Support Schemes Regulations 2009 (S.I. 2009/3102)](https://www.legislation.gov.uk/uksi/2009/3102), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3102/regulation/1), [9(j)](https://www.legislation.gov.uk/uksi/2009/3102/regulation/9)
+[^c-24e3b956ba3c1d96f77d04fe2bb19e60]: Textual amendment: Regulations revoked (E.) (1.12.2009) by [The Common Agricultural Policy Single Payment and Support Schemes Regulations 2009 (S.I. 2009/3102)](https://www.legislation.gov.uk/uksi/2009/3102), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3102/regulation/1), [9(j)](https://www.legislation.gov.uk/uksi/2009/3102/regulation/9)

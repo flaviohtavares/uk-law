@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Power to share documents and other information with the Welsh Ministers[^key-4a07a2e49d6fe4663c390590c370caee]
+## 78. Power to share documents and other information with the Welsh Ministers[^c-4a07a2e49d6fe4663c390590c370caee]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Education Tribunal for Wales may share with the Welsh Ministers any document
 
 ## Annotations
 
-[^key-4a07a2e49d6fe4663c390590c370caee]: Commencement: S. 78 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(g)](https://www.legislation.gov.uk/wsi/2021/373/article/8/g)
+[^c-4a07a2e49d6fe4663c390590c370caee]: Commencement: S. 78 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(g)](https://www.legislation.gov.uk/wsi/2021/373/article/8/g)

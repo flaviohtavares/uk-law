@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Listed tribunals[^key-512cae979467978a4518d8c3ad694817]
+## 27. Listed tribunals[^c-512cae979467978a4518d8c3ad694817]
 
 *Extent: S*
 
@@ -40,12 +40,12 @@ summary: ''
 - (b) the Scottish Land Court,
 - (c) a tribunal—
   - (i) constituted under section 35 of the Judiciary and Courts (Scotland) Act 2008,
-  - (ii) constituted under section 21 of the Courts Reform (Scotland) Act 2014[^key-dbb794ff5dc9a3b178286fa39d5c36ed], or
+  - (ii) constituted under section 21 of the Courts Reform (Scotland) Act 2014[^c-dbb794ff5dc9a3b178286fa39d5c36ed], or
   - (iii) appointed under section 71(2) of the Criminal Proceedings etc. (Reform) (Scotland) Act 2007, or
 - (d) a fitness assessment tribunal constituted under paragraph 13 of schedule 8.
 
 ## Annotations
 
-[^key-512cae979467978a4518d8c3ad694817]: Commencement: S. 27 in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-512cae979467978a4518d8c3ad694817]: Commencement: S. 27 in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
 
-[^key-dbb794ff5dc9a3b178286fa39d5c36ed]: Textual amendment: Words in [s. 27(5)(c)(ii)](https://www.legislation.gov.uk/asp/2014/10/section/27/5/c/ii) substituted (1.4.2016) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions) Order 2016 (S.S.I. 2016/142)](https://www.legislation.gov.uk/ssi/2016/142), [arts. 1](https://www.legislation.gov.uk/ssi/2016/142/article/1), [4](https://www.legislation.gov.uk/ssi/2016/142/article/4)
+[^c-dbb794ff5dc9a3b178286fa39d5c36ed]: Textual amendment: Words in [s. 27(5)(c)(ii)](https://www.legislation.gov.uk/asp/2014/10/section/27/5/c/ii) substituted (1.4.2016) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions) Order 2016 (S.S.I. 2016/142)](https://www.legislation.gov.uk/ssi/2016/142), [arts. 1](https://www.legislation.gov.uk/ssi/2016/142/article/1), [4](https://www.legislation.gov.uk/ssi/2016/142/article/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 46. Conviction for offence etc: power to impose penalty etc[^key-39ac419616bc62dad8fde32b1545f4db]
+## 46. Conviction for offence etc: power to impose penalty etc[^c-39ac419616bc62dad8fde32b1545f4db]
 
 *Extent: E*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39ac419616bc62dad8fde32b1545f4db]: Commencement: S. 46 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-39ac419616bc62dad8fde32b1545f4db]: Commencement: S. 46 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

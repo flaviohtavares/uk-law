@@ -43,7 +43,7 @@ Article 133(1).
   - (i) the Commissioners of Irish Lights,
   - (ii) a district council,
   - (iii) a harbour authority as defined in the Harbours Act (Northern Ireland) 1970[^c16868241],
-  - (iv) the Department of Agriculture, Environment and Rural Affairs[^key-c43671ac46aab5b1f8b71c2d82e4f828] ,
+  - (iv) the Department of Agriculture, Environment and Rural Affairs[^c-c43671ac46aab5b1f8b71c2d82e4f828] ,
   - (v) the Foyle Fisheries Commission,
 - (b) in any other case, a district council.
 
@@ -66,4 +66,4 @@ the Department may make the order either without modifications or subject to suc
 
 [^c16868241]: Textual amendment: [1970 c. 1 (N.I.)](https://www.legislation.gov.uk/apni/1970/1)
 
-[^key-c43671ac46aab5b1f8b71c2d82e4f828]: Textual amendment: Words in [Sch. 8 para. 2(3)(a)(iv)](https://www.legislation.gov.uk/nisi/1993/3160/schedule/8/paragraph/2/3/a/iv) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 21](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/21) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-c43671ac46aab5b1f8b71c2d82e4f828]: Textual amendment: Words in [Sch. 8 para. 2(3)(a)(iv)](https://www.legislation.gov.uk/nisi/1993/3160/schedule/8/paragraph/2/3/a/iv) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 21](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/21) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))

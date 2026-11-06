@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Protection of European offshore marine sites and European sites[^key-cd75da8c4e7d61d565462214940b989b]
+## 28. Protection of European offshore marine sites and European sites[^c-cd75da8c4e7d61d565462214940b989b]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,9 +48,9 @@ summary: ''
 
 (7) This regulation does not apply in relation to—
 
-- (a)[^key-f53643429664eb0e16f7aa6aacacbec2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-6bba5d22735ff86947f4ddc6c0a2ccd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) the granting by the Secretary of State or the agreement to the grant[^key-d25627554652c43c2fedca170c166587] of any Petroleum Act approval, Petroleum Act authorisation, Petroleum or Energy Act consent, Petroleum Act licence, or Energy Act licence.
+- (a)[^c-f53643429664eb0e16f7aa6aacacbec2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-6bba5d22735ff86947f4ddc6c0a2ccd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the granting by the Secretary of State or the agreement to the grant[^c-d25627554652c43c2fedca170c166587] of any Petroleum Act approval, Petroleum Act authorisation, Petroleum or Energy Act consent, Petroleum Act licence, or Energy Act licence.
 
 (8) Where a plan or project requires an appropriate assessment both under this regulation and under the Conservation Regulations, the assessment so far as relating to that part of it that is to be carried out in the offshore marine area need not identify the extent to which the effects of the plan or project are specifically attributable to that part, provided that an assessment made for the purposes of this regulation and the Conservation Regulations assesses the effects of the plan or project as a whole.
 
@@ -63,12 +63,12 @@ summary: ''
 
 ## Annotations
 
-[^key-cd75da8c4e7d61d565462214940b989b]: Modification: [Reg. 28](https://www.legislation.gov.uk/uksi/2017/1013/regulation/28) power to disapply or modify conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 293(4)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/4)[(5)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/5), [334(3)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/j) (with [s. 293(6)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/6))
+[^c-cd75da8c4e7d61d565462214940b989b]: Modification: [Reg. 28](https://www.legislation.gov.uk/uksi/2017/1013/regulation/28) power to disapply or modify conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 293(4)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/4)[(5)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/5), [334(3)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/j) (with [s. 293(6)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/6))
 
-[^key-f53643429664eb0e16f7aa6aacacbec2]: Textual amendment: [Reg. 28(7)(a)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/28/7/a) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [49](https://www.legislation.gov.uk/uksi/2019/579/regulation/49); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f53643429664eb0e16f7aa6aacacbec2]: Textual amendment: [Reg. 28(7)(a)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/28/7/a) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [49](https://www.legislation.gov.uk/uksi/2019/579/regulation/49); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6bba5d22735ff86947f4ddc6c0a2ccd0]: Textual amendment: [Reg. 28(7)(b)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/28/7/b) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [49](https://www.legislation.gov.uk/uksi/2019/579/regulation/49); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6bba5d22735ff86947f4ddc6c0a2ccd0]: Textual amendment: [Reg. 28(7)(b)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/28/7/b) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [49](https://www.legislation.gov.uk/uksi/2019/579/regulation/49); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d25627554652c43c2fedca170c166587]: Textual amendment: Words in [reg. 28(7)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/28/7) inserted (31.12.2020 immediately before 11 p.m.) by [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1), [Sch. 7 para. 6(3)](https://www.legislation.gov.uk/uksi/2020/1497/schedule/7/paragraph/6/3) (with [reg. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20))
+[^c-d25627554652c43c2fedca170c166587]: Textual amendment: Words in [reg. 28(7)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/28/7) inserted (31.12.2020 immediately before 11 p.m.) by [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1), [Sch. 7 para. 6(3)](https://www.legislation.gov.uk/uksi/2020/1497/schedule/7/paragraph/6/3) (with [reg. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20))
 
 [^c23068061]: Marginal citation: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47).

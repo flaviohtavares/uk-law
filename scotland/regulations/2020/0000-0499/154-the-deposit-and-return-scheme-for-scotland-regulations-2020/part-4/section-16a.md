@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16A. Collection etc. of scheme packaging and returnable packaging from return point operators, hospitality retailers and takeback service providers and connected payment[^key-febb137e7910820fa67c4baf58011d09]
+## 16A. Collection etc. of scheme packaging and returnable packaging from return point operators, hospitality retailers and takeback service providers and connected payment[^c-febb137e7910820fa67c4baf58011d09]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ as are determined in accordance with its approved operational plan.
 
 ## Annotations
 
-[^key-febb137e7910820fa67c4baf58011d09]: Textual amendment: [Regs. 16-16B](https://www.legislation.gov.uk/ssi/2020/154/regulation/16) substituted for [reg. 16](https://www.legislation.gov.uk/ssi/2020/154/regulation/16) (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [15](https://www.legislation.gov.uk/ssi/2025/188/regulation/15)
+[^c-febb137e7910820fa67c4baf58011d09]: Textual amendment: [Regs. 16-16B](https://www.legislation.gov.uk/ssi/2020/154/regulation/16) substituted for [reg. 16](https://www.legislation.gov.uk/ssi/2020/154/regulation/16) (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [15](https://www.legislation.gov.uk/ssi/2025/188/regulation/15)

@@ -27,8 +27,8 @@ Except where otherwise stated, the exemptions in this Part apply to communicatio
 
 *Extent: E+W+S*
 
-- (c)[^key-b9141491d996fc4b9aa3bf11cbe9eaa1] a controlled claims management activity.
+- (c)[^c-b9141491d996fc4b9aa3bf11cbe9eaa1] a controlled claims management activity.
 
 ## Annotations
 
-[^key-b9141491d996fc4b9aa3bf11cbe9eaa1]: Textual amendment: Art. 27(c) inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [21](https://www.legislation.gov.uk/uksi/2018/1253/article/21)
+[^c-b9141491d996fc4b9aa3bf11cbe9eaa1]: Textual amendment: Art. 27(c) inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [21](https://www.legislation.gov.uk/uksi/2018/1253/article/21)

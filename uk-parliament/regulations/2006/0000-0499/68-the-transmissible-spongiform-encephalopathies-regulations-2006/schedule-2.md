@@ -92,7 +92,7 @@ Removal of vertebral column
 
 ### PART 1 — Monitoring for TSE
 
-#### 1. Notifications for the purposes of monitoring under Article 6 of the Community TSE Regulation[^key-c56c8c4717b0f151851e94726486282b]
+#### 1. Notifications for the purposes of monitoring under Article 6 of the Community TSE Regulation[^c-c56c8c4717b0f151851e94726486282b]
 
 (1) For the purposes of monitoring under Article 6 of the Community TSE Regulation, a person who has in his possession or under his charge the body of a bovine animal that must be tested in accordance with point 3(1) of Part I of Chapter A of Annex III to that Regulation, or the body of any goat aged 18 months or over at death, must—
 
@@ -103,14 +103,14 @@ and failure to do so is an offence.
 
 (2) This paragraph does not apply in relation to goats slaughtered for human consumption or killed in accordance with Schedule 4.
 
-#### 2. Consignment and slaughter of an over-age bovine animal[^key-5eb3a35f79756eca671de8ba598928e3]
+#### 2. Consignment and slaughter of an over-age bovine animal[^c-5eb3a35f79756eca671de8ba598928e3]
 
 If a bovine animal was born or reared in the United Kingdom before 1st August 1996, it is an offence—
 
 - (a) to consign it to a slaughterhouse for human consumption (whether the animal is alive or dead); or
 - (b) to slaughter it for human consumption in a slaughterhouse.
 
-#### 3. Brain stem sampling of bovine animals[^key-b0f5d6b3b1f6afb6db81226d9c179be5]
+#### 3. Brain stem sampling of bovine animals[^c-b0f5d6b3b1f6afb6db81226d9c179be5]
 
 (1) The occupier of a slaughterhouse in which a bovine animal specified in point 2(1) or 2(2) of Part I of Chapter A of Annex III to the Community TSE Regulation is slaughtered must—
 
@@ -131,7 +131,7 @@ and failure to do so is an offence.
 
 (5) In this paragraph “approved testing laboratory” means a laboratory approved under this paragraph or a laboratory in another part of the United Kingdom approved by the competent authority to carry out the test.
 
-#### 4. Slaughter of bovine animals over 30 months of age[^key-85e747b1b5f0ee1da1a914968ce2a53b]
+#### 4. Slaughter of bovine animals over 30 months of age[^c-85e747b1b5f0ee1da1a914968ce2a53b]
 
 (1) It is an offence for the occupier to use a slaughterhouse to slaughter for human consumption a bovine animal aged over 30 months unless the Secretary of State has approved the Required Method of Operation (“RMOP”) for that slaughterhouse and that occupier.
 
@@ -144,7 +144,7 @@ and failure to do so is an offence.
 
 (4) If a bovine animal aged over 30 months is slaughtered for human consumption other than in accordance with the RMOP, the occupier of the slaughterhouse is guilty of an offence.
 
-#### 5. Retention of products and disposal[^key-a37c27be8077cc490f45c0ad206c0957]
+#### 5. Retention of products and disposal[^c-a37c27be8077cc490f45c0ad206c0957]
 
 (1) In relation to any sampled bovine animal, the occupier of a slaughterhouse, hide market or tannery must, for the purposes of point 6(3) of Part I of Chapter A of Annex III to the Community TSE Regulation and pending receipt of the test result, either—
 
@@ -176,7 +176,7 @@ in accordance with point 6(4) of that Part; and for the purposes of this paragra
 
 (7) Any person who fails to comply with sub-paragraphs (1) to (3) or (5) is guilty of an offence.
 
-#### 6. Compensation[^key-dfc96c4526866ef195c23ba27cbdd830]
+#### 6. Compensation[^c-dfc96c4526866ef195c23ba27cbdd830]
 
 (1) If an animal slaughtered for human consumption tests positive, the Secretary of State shall pay compensation for the carcase and all parts of the body (including the blood and the hide) of—
 
@@ -196,7 +196,7 @@ giving the reasons, and the appeals procedure in regulation 14 applies.
 
 ### PART 2 — Contents of an RMOP
 
-#### 7. Animal identification and separation[^key-a3c8e1bf5a007efd6623eadf37c4d25e]
+#### 7. Animal identification and separation[^c-a3c8e1bf5a007efd6623eadf37c4d25e]
 
 (1) The RMOP must describe the system that—
 
@@ -209,7 +209,7 @@ giving the reasons, and the appeals procedure in regulation 14 applies.
 - (a) batched together before slaughter separately from those aged 30 months or under; and
 - (b) slaughtered in batches separately from those aged 30 months or under.
 
-#### 8. Brain stem sampling[^key-5911bd6830e8ef4378b83a67fda76ba1]
+#### 8. Brain stem sampling[^c-5911bd6830e8ef4378b83a67fda76ba1]
 
 (1) The RMOP must show that there are —
 
@@ -219,25 +219,25 @@ giving the reasons, and the appeals procedure in regulation 14 applies.
 
 (2) It must describe how health and safety guidelines designed to minimise the risk of exposure of staff to BSE during brain stem sampling and packaging will be complied with.
 
-#### 9. Correlation of sample to carcase and all other parts of the body[^key-d3d0ed418eb5772e2cc63d3b34267176]
+#### 9. Correlation of sample to carcase and all other parts of the body[^c-d3d0ed418eb5772e2cc63d3b34267176]
 
 The RMOP must describe the system linking the brain stem sample of each bovine animal over 30 months of age to the carcase of that animal and all parts of the body of that animal (including the blood and the hide).
 
-#### 10. Retention of carcases[^key-14fefbfbb39fce6c8551aded35251e08]
+#### 10. Retention of carcases[^c-14fefbfbb39fce6c8551aded35251e08]
 
 (1) The RMOP must describe the system that ensures that all carcases retained in accordance with paragraph 5(1) of this Schedule are retained in slaughter order either in a sealed or locked chiller or on a sealed or locked rail in an unsealed chiller pending the receipt of the test result.
 
 (2) It must describe how the occupier will ensure that there is suitable and sufficient chiller space for retaining carcases for the purposes of this Schedule.
 
-#### 11. Retention of parts of the body[^key-c9a321e94385f059fba6e0e905da96fb]
+#### 11. Retention of parts of the body[^c-c9a321e94385f059fba6e0e905da96fb]
 
 The RMOP must describe the system that ensures that all parts of the body (including the blood and the hide) are retained in accordance with paragraph 5(1) of this Schedule.
 
-#### 12. Disposal before receipt of the result[^key-6f50a0e1dc76086b6fb7422e53f98cf8]
+#### 12. Disposal before receipt of the result[^c-6f50a0e1dc76086b6fb7422e53f98cf8]
 
 The RMOP must describe the disposal route for all carcases and all parts of the body (including the blood and the hide) retained pending receipt of a test result but disposed of before the test result is received.
 
-#### 13. Other measures following sampling[^key-e70febe641c6b3038fada2e557b3ee06]
+#### 13. Other measures following sampling[^c-e70febe641c6b3038fada2e557b3ee06]
 
 The RMOP must describe the systems in place that ensure that—
 
@@ -245,7 +245,7 @@ The RMOP must describe the systems in place that ensure that—
 - (b) test results are received, either by fax or by other electronic means; and
 - (c) following a positive or a no-test result (as described in paragraph 5(3)), everything required to be disposed of in accordance with point 6(4) or 6(5) of Part I of Chapter A of Annex III to the Community TSE Regulation or under this Schedule is identified and disposed of accordingly.
 
-#### 14. Removal of vertebral column[^key-875848d1dbbb34fa4e06e19362596e61]
+#### 14. Removal of vertebral column[^c-875848d1dbbb34fa4e06e19362596e61]
 
 The RMOP must describe the system that ensures that, in the case of a bovine animal for which a negative test result has been received—
 
@@ -254,34 +254,34 @@ The RMOP must describe the system that ensures that, in the case of a bovine ani
 
 ## Annotations
 
-[^key-c56c8c4717b0f151851e94726486282b]: Commencement: Sch. 2 para. 1 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-c56c8c4717b0f151851e94726486282b]: Commencement: Sch. 2 para. 1 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
 
-[^key-5eb3a35f79756eca671de8ba598928e3]: Commencement: Sch. 2 para. 2 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-5eb3a35f79756eca671de8ba598928e3]: Commencement: Sch. 2 para. 2 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
 
-[^key-b0f5d6b3b1f6afb6db81226d9c179be5]: Commencement: Sch. 2 para. 3 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-b0f5d6b3b1f6afb6db81226d9c179be5]: Commencement: Sch. 2 para. 3 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
 
-[^key-85e747b1b5f0ee1da1a914968ce2a53b]: Commencement: Sch. 2 para. 4 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-85e747b1b5f0ee1da1a914968ce2a53b]: Commencement: Sch. 2 para. 4 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
 
 [^f00035]: Footnote: OJ No L99, 20.4.96, p. 14.
 
-[^key-a37c27be8077cc490f45c0ad206c0957]: Commencement: Sch. 2 para. 5 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-a37c27be8077cc490f45c0ad206c0957]: Commencement: Sch. 2 para. 5 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
 
-[^key-dfc96c4526866ef195c23ba27cbdd830]: Commencement: Sch. 2 para. 6 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-dfc96c4526866ef195c23ba27cbdd830]: Commencement: Sch. 2 para. 6 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
 
-[^key-a3c8e1bf5a007efd6623eadf37c4d25e]: Commencement: Sch. 2 para. 7 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-a3c8e1bf5a007efd6623eadf37c4d25e]: Commencement: Sch. 2 para. 7 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
 
-[^key-5911bd6830e8ef4378b83a67fda76ba1]: Commencement: Sch. 2 para. 8 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-5911bd6830e8ef4378b83a67fda76ba1]: Commencement: Sch. 2 para. 8 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
 
-[^key-d3d0ed418eb5772e2cc63d3b34267176]: Commencement: Sch. 2 para. 9 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-d3d0ed418eb5772e2cc63d3b34267176]: Commencement: Sch. 2 para. 9 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
 
-[^key-14fefbfbb39fce6c8551aded35251e08]: Commencement: Sch. 2 para. 10 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-14fefbfbb39fce6c8551aded35251e08]: Commencement: Sch. 2 para. 10 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
 
-[^key-c9a321e94385f059fba6e0e905da96fb]: Commencement: Sch. 2 para. 11 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-c9a321e94385f059fba6e0e905da96fb]: Commencement: Sch. 2 para. 11 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
 
-[^key-6f50a0e1dc76086b6fb7422e53f98cf8]: Commencement: Sch. 2 para. 12 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-6f50a0e1dc76086b6fb7422e53f98cf8]: Commencement: Sch. 2 para. 12 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
 
-[^key-e70febe641c6b3038fada2e557b3ee06]: Commencement: Sch. 2 para. 13 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-e70febe641c6b3038fada2e557b3ee06]: Commencement: Sch. 2 para. 13 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
 
 [^f00036]: Footnote: ISBN 92-1-139097-4.
 
-[^key-875848d1dbbb34fa4e06e19362596e61]: Commencement: Sch. 2 para. 14 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-875848d1dbbb34fa4e06e19362596e61]: Commencement: Sch. 2 para. 14 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)

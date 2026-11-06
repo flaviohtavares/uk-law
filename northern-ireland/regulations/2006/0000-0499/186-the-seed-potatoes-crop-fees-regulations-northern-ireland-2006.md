@@ -31,7 +31,7 @@ summary: ''
 
 SEEDS
 
-The Seed Potatoes (Crop Fees) Regulations (Northern Ireland) 2006 (revoked)[^key-cf3c1ebc050d6316006d1464a8081f2e]
+The Seed Potatoes (Crop Fees) Regulations (Northern Ireland) 2006 (revoked)[^c-cf3c1ebc050d6316006d1464a8081f2e]
 
 Made
 
@@ -41,44 +41,44 @@ Coming into operation
 
 10th May 2006
 
-[^key-cf3c1ebc050d6316006d1464a8081f2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf3c1ebc050d6316006d1464a8081f2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-cf3c1ebc050d6316006d1464a8081f2e]
+## 1. Citation, commencement and interpretation[^c-cf3c1ebc050d6316006d1464a8081f2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees[^key-cf3c1ebc050d6316006d1464a8081f2e]
+## 2. Fees[^c-cf3c1ebc050d6316006d1464a8081f2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-cf3c1ebc050d6316006d1464a8081f2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cf3c1ebc050d6316006d1464a8081f2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-cf3c1ebc050d6316006d1464a8081f2e]
+## 4. Revocation[^c-cf3c1ebc050d6316006d1464a8081f2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf3c1ebc050d6316006d1464a8081f2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf3c1ebc050d6316006d1464a8081f2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-cf3c1ebc050d6316006d1464a8081f2e]
+## SCHEDULE[^c-cf3c1ebc050d6316006d1464a8081f2e]
 
 regulations 2 and 3
 
-### PART 1[^key-cf3c1ebc050d6316006d1464a8081f2e]
+### PART 1[^c-cf3c1ebc050d6316006d1464a8081f2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 2[^key-cf3c1ebc050d6316006d1464a8081f2e]
+### Part 2[^c-cf3c1ebc050d6316006d1464a8081f2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cf3c1ebc050d6316006d1464a8081f2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf3c1ebc050d6316006d1464a8081f2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cf3c1ebc050d6316006d1464a8081f2e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/186) revoked (1.4.2009) by [The Seed Potatoes (Crop Fees) Regulations (Northern Ireland) 2009 (S.R. 2009/59)](https://www.legislation.gov.uk/nisr/2009/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/59/regulation/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2009/59/regulation/4/a)
+[^c-cf3c1ebc050d6316006d1464a8081f2e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/186) revoked (1.4.2009) by [The Seed Potatoes (Crop Fees) Regulations (Northern Ireland) 2009 (S.R. 2009/59)](https://www.legislation.gov.uk/nisr/2009/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/59/regulation/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2009/59/regulation/4/a)

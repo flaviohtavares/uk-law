@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47E. Limitation or prescriptive periods for proceedings under section 47A and collective proceedings[^key-f52cdbe2b13bd733f4417b723c64c52f]
+## 47E. Limitation or prescriptive periods for proceedings under section 47A and collective proceedings[^c-f52cdbe2b13bd733f4417b723c64c52f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f52cdbe2b13bd733f4417b723c64c52f]: Textual amendment: S. 47E omitted (9.3.2017) by virtue of [The Claims in respect of Loss or Damage arising from Competition Infringements (Competition Act 1998 and Other Enactments (Amendment)) Regulations 2017 (S.I. 2017/385)](https://www.legislation.gov.uk/uksi/2017/385), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/385/regulation/1/2), [Sch. 2 para. 5(1)](https://www.legislation.gov.uk/uksi/2017/385/schedule/2/paragraph/5/1) (with [Sch. 2 paras. 5(2)](https://www.legislation.gov.uk/uksi/2017/385/schedule/2/paragraph/5/2), [10](https://www.legislation.gov.uk/uksi/2017/385/schedule/2/paragraph/10))
+[^c-f52cdbe2b13bd733f4417b723c64c52f]: Textual amendment: S. 47E omitted (9.3.2017) by virtue of [The Claims in respect of Loss or Damage arising from Competition Infringements (Competition Act 1998 and Other Enactments (Amendment)) Regulations 2017 (S.I. 2017/385)](https://www.legislation.gov.uk/uksi/2017/385), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/385/regulation/1/2), [Sch. 2 para. 5(1)](https://www.legislation.gov.uk/uksi/2017/385/schedule/2/paragraph/5/1) (with [Sch. 2 paras. 5(2)](https://www.legislation.gov.uk/uksi/2017/385/schedule/2/paragraph/5/2), [10](https://www.legislation.gov.uk/uksi/2017/385/schedule/2/paragraph/10))

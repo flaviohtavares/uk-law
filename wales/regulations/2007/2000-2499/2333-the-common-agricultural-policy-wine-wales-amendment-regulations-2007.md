@@ -49,7 +49,7 @@ There has been open and transparent public consultation during the preparation o
 
 The Welsh Ministers make the following Regulations under the powers conferred by section 2(2) of the European Communities Act 1972:
 
-## 1. Title, commencement and interpretation[^key-a96b5829b4d4942bf0b6845184ef66cb]
+## 1. Title, commencement and interpretation[^c-a96b5829b4d4942bf0b6845184ef66cb]
 
 (1) The title of these Regulations is the Common Agricultural Policy (Wine) (Wales) (Amendment) Regulations 2007 and they come into force on 4 September 2007.
 
@@ -57,7 +57,7 @@ The Welsh Ministers make the following Regulations under the powers conferred by
 
 (3) These Regulations apply in relation to Wales.
 
-## 2. Amendment of the 2001 Regulations[^key-29be5036ce15402cc3d55b35a7425c66]
+## 2. Amendment of the 2001 Regulations[^c-29be5036ce15402cc3d55b35a7425c66]
 
 (1) The 2001 Regulations are amended as follows.
 
@@ -111,7 +111,7 @@ Minister for Rural Affairs, one of the Welsh Ministers
 
 8 August 2007
 
-## SCHEDULE[^key-22a445f1352cff38386cd479bb4cd354]
+## SCHEDULE[^c-22a445f1352cff38386cd479bb4cd354]
 
 Regulation 2(3)
 
@@ -210,11 +210,11 @@ Aull regulatory impact assessment of the effect that this instrument will have i
 
 [^f00004]: Footnote: OJ No. L31, 1.2.2002, p. 1, last amended by Commission Regulation [(EC) No. 575/2006](https://www.legislation.gov.uk/european/regulation/2006/0575) (OJ No. L100, 8.4.2006, p. 3).
 
-[^key-a96b5829b4d4942bf0b6845184ef66cb]: Commencement: Reg. 1 in force at 4.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/2333/regulation/1/1)
+[^c-a96b5829b4d4942bf0b6845184ef66cb]: Commencement: Reg. 1 in force at 4.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/2333/regulation/1/1)
 
 [^f00005]: Footnote: S.I. [2001/2193 (W.155)](https://www.legislation.gov.uk/wsi/2001/2193) as amended by S.I. [2003/1776 (W.192)](https://www.legislation.gov.uk/wsi/2003/1776), S.I. [2004/2599 (W.232)](https://www.legislation.gov.uk/wsi/2004/2599) and S.I. [2006/1716 (W.178)](https://www.legislation.gov.uk/wsi/2006/1716).
 
-[^key-29be5036ce15402cc3d55b35a7425c66]: Commencement: Reg. 2 in force at 4.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/2333/regulation/1/1)
+[^c-29be5036ce15402cc3d55b35a7425c66]: Commencement: Reg. 2 in force at 4.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/2333/regulation/1/1)
 
 [^f00006]: Footnote: The definition of Council Regulation [(EC) No. 1493/99](https://www.legislation.gov.uk/european/regulation/1999/1493) was inserted in the 2001 Regulations by [S.I 2004/2599 (W.232)](https://www.legislation.gov.uk/wsi/2004/2599) and subsequently substituted by S.I. [2006/1716 (W.178)](https://www.legislation.gov.uk/wsi/2006/1716). The definitions of Commission Regulation (EC) No. [1622/2000](https://www.legislation.gov.uk/uksi/1622/2000), Commission Regulation (EC) No. [1623/2000](https://www.legislation.gov.uk/uksi/1623/2000), Commission Regulation [(EC) No. 883/2001](https://www.legislation.gov.uk/european/regulation/2001/0883), Commission Regulation [(EC) No. 884/2001](https://www.legislation.gov.uk/european/regulation/2001/0884) and Commission Regulation [(EC) No. 753/2002](https://www.legislation.gov.uk/european/regulation/2002/0753) were inserted in the 2001 Regulations by S.I. [2006/1716 (W.178)](https://www.legislation.gov.uk/wsi/2006/1716).
 
@@ -232,7 +232,7 @@ Aull regulatory impact assessment of the effect that this instrument will have i
 
 [^f00013]: Footnote: Schedule 6 was inserted by S.I. [2004/2599 (W.232)](https://www.legislation.gov.uk/wsi/2004/2599).
 
-[^key-22a445f1352cff38386cd479bb4cd354]: Commencement: Sch. in force at 4.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/2333/regulation/1/1)
+[^c-22a445f1352cff38386cd479bb4cd354]: Commencement: Sch. in force at 4.9.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/2333/regulation/1/1)
 
 [^f00014]: Footnote: OJ No. L 54, 5.3.1979, p. 124, last amended by Council Regulation [(EC) No. 1791/2006](https://www.legislation.gov.uk/european/regulation/2006/1791) (OJ No. L363, 20.12.2006, p.1).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Committing offence with intent to commit offence under section 2[^key-dba445990e32c015631ded89b431dca8]
+## 4. Committing offence with intent to commit offence under section 2[^c-dba445990e32c015631ded89b431dca8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A person commits an offence under this section if the person commits any offence
 
 ## Annotations
 
-[^key-dba445990e32c015631ded89b431dca8]: Commencement: S. 4 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/a)
+[^c-dba445990e32c015631ded89b431dca8]: Commencement: S. 4 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/a)

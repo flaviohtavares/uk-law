@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63.16. Appeals from decisions of the Comptroller or the registrar[^key-e9b41ec15b82ceef8274db1f25b38097]
+## 63.16. Appeals from decisions of the Comptroller or the registrar[^c-e9b41ec15b82ceef8274db1f25b38097]
 
 *Extent: E+W*
 
 (1) Part 52 applies to appeals from decisions of the Comptroller and the registrar.
 
-(2) Appeals about patents and registered designs[^key-fb73cdcd7fdf7c2fad24f5c5aff03319] must be made to the Patents Court, and other appeals to a General IP List of the Business and Property Division[^key-4a65ad7c2d230faebb80526b9e163e85].
+(2) Appeals about patents and registered designs[^c-fb73cdcd7fdf7c2fad24f5c5aff03319] must be made to the Patents Court, and other appeals to a General IP List of the Business and Property Division[^c-4a65ad7c2d230faebb80526b9e163e85].
 
 (3) Where Part 52 requires a document to be served, it must also be served on the Comptroller or registrar, as appropriate.
 
 ## Annotations
 
-[^key-e9b41ec15b82ceef8274db1f25b38097]: Textual amendment: [Pt. 63](https://www.legislation.gov.uk/uksi/1998/3132/part/63) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rule 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2092/schedule/1)
+[^c-e9b41ec15b82ceef8274db1f25b38097]: Textual amendment: [Pt. 63](https://www.legislation.gov.uk/uksi/1998/3132/part/63) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rule 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2092/schedule/1)
 
-[^key-fb73cdcd7fdf7c2fad24f5c5aff03319]: Textual amendment: Words in [rule 63.16(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/63.16/2) inserted (6.4.2017) by [The Civil Procedure (Amendment) Rules 2017 (S.I. 2017/95)](https://www.legislation.gov.uk/uksi/2017/95), [rules 2](https://www.legislation.gov.uk/uksi/2017/95/rule/2), [11(2)](https://www.legislation.gov.uk/uksi/2017/95/rule/11/2)
+[^c-fb73cdcd7fdf7c2fad24f5c5aff03319]: Textual amendment: Words in [rule 63.16(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/63.16/2) inserted (6.4.2017) by [The Civil Procedure (Amendment) Rules 2017 (S.I. 2017/95)](https://www.legislation.gov.uk/uksi/2017/95), [rules 2](https://www.legislation.gov.uk/uksi/2017/95/rule/2), [11(2)](https://www.legislation.gov.uk/uksi/2017/95/rule/11/2)
 
-[^key-4a65ad7c2d230faebb80526b9e163e85]: Textual amendment: Words in [rule 63.16(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/63.16/2) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(4)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/4), [20(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/20/3) (with [rule 2](https://www.legislation.gov.uk/uksi/2026/817/rule/2))
+[^c-4a65ad7c2d230faebb80526b9e163e85]: Textual amendment: Words in [rule 63.16(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/63.16/2) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(4)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/4), [20(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/20/3) (with [rule 2](https://www.legislation.gov.uk/uksi/2026/817/rule/2))

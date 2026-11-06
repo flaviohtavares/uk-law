@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Measuring activity in the CRTS[^key-54d469da5bff3297d275c4e6419f3a8d]
+## 24. Measuring activity in the CRTS[^c-54d469da5bff3297d275c4e6419f3a8d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A CRTS participant’s number of units of activity in the CRTS during a scheme y
 
 ## Annotations
 
-[^key-54d469da5bff3297d275c4e6419f3a8d]: Commencement: Art. 24 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-54d469da5bff3297d275c4e6419f3a8d]: Commencement: Art. 24 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

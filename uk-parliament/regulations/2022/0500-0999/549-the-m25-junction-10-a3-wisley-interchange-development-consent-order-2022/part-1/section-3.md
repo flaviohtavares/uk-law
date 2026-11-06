@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Disapplication of legislative provisions[^key-d0b83e9e1a8d287f0c76f588103ab25a]
+## 3. Disapplication of legislative provisions[^c-d0b83e9e1a8d287f0c76f588103ab25a]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d0b83e9e1a8d287f0c76f588103ab25a]: Commencement: Art. 3 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-d0b83e9e1a8d287f0c76f588103ab25a]: Commencement: Art. 3 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
 
 [^f00028]: Footnote: [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154). Regulation 12 was amended by [S.I. 2018/10](https://www.legislation.gov.uk/uksi/2018/10).
 

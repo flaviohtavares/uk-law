@@ -39,7 +39,7 @@ Coming into operation in accordance with regulation 1
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 5(1)(a) to (c), (j), (k), (n) and (q), 5A(1) and (6)(c), 71(1)(b), 105A(1A), (1B), (1D) and (1E), 106(1A) to (1D) and 165(1) and (4) to (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and Articles 10(4), 11(3) and (6) and 74(1) and (3) of the Social Security (Northern Ireland) Order 1998[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-1e930199f621eef315c2db375a4b3aa3][^key-1e930199f621eef315c2db375a4b3aa3]
+## 1. Citation and commencement[^c-1e930199f621eef315c2db375a4b3aa3][^c-1e930199f621eef315c2db375a4b3aa3]
 
 These Regulations may be cited as the Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2006 and shall come into operation for the purposes of—
 
@@ -47,13 +47,13 @@ These Regulations may be cited as the Social Security (Miscellaneous Amendments 
 - (b) regulations 2(1) to (3) and (7) to (17), 3 to 5 and 7, on 10th April 2006; and
 - (c) regulation 2(4) to (6), on 24th July 2006.
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-23cee029cc2d8d68535af858ba5b79a3][^key-514107ba421fd9ed1f91a6502e6a8198]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-23cee029cc2d8d68535af858ba5b79a3][^c-514107ba421fd9ed1f91a6502e6a8198]
 
-(1)[^key-23cee029cc2d8d68535af858ba5b79a3] The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00004]shall be amended in accordance with paragraphs (2) to (17).
+(1)[^c-23cee029cc2d8d68535af858ba5b79a3] The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00004]shall be amended in accordance with paragraphs (2) to (17).
 
-(2)[^key-23cee029cc2d8d68535af858ba5b79a3] In regulation 2(1) (interpretation) the definitions of “benefit orders”, “instrument for benefit payment”[^f00005] and “serial order” shall be omitted.
+(2)[^c-23cee029cc2d8d68535af858ba5b79a3] In regulation 2(1) (interpretation) the definitions of “benefit orders”, “instrument for benefit payment”[^f00005] and “serial order” shall be omitted.
 
-(3)[^key-23cee029cc2d8d68535af858ba5b79a3] In regulation 4(6A)[^f00006] (making a claim for benefit)—
+(3)[^c-23cee029cc2d8d68535af858ba5b79a3] In regulation 4(6A)[^f00006] (making a claim for benefit)—
 
 - (a) the word “or” after sub-paragraph (b) shall be omitted; and
 - (b) after sub-paragraph (c) there shall be added—
@@ -64,7 +64,7 @@ These Regulations may be cited as the Social Security (Miscellaneous Amendments 
 
   .
 
-(4)[^key-514107ba421fd9ed1f91a6502e6a8198] In regulation 4C[^f00007] (making a claim for state pension credit)—
+(4)[^c-514107ba421fd9ed1f91a6502e6a8198] In regulation 4C[^f00007] (making a claim for state pension credit)—
 
 - (a) in paragraph (3) for “by telephone to, or in person at,” there shall be substituted “in person at”;
 - (b) in paragraph (6) the words “or by telephone” shall be omitted;
@@ -83,14 +83,14 @@ These Regulations may be cited as the Social Security (Miscellaneous Amendments 
   ; and
 - (d) in paragraph (12) for “Paragraph (11) does” there shall be substituted “Paragraphs (6E) and (11) do”.
 
-(5)[^key-514107ba421fd9ed1f91a6502e6a8198] In regulation 4E(2)[^f00008] (making a claim after attaining the qualifying age: date of claim)—
+(5)[^c-514107ba421fd9ed1f91a6502e6a8198] In regulation 4E(2)[^f00008] (making a claim after attaining the qualifying age: date of claim)—
 
 - (a) in sub-paragraph (b) after “4C(3)” there shall be inserted “or (6A)”; and
 - (b) in sub-paragraph (c) for “4C(11)” there shall be substituted “4C(6E) or (11)”.
 
-(6)[^key-ad4f7fe396ccfaa2ecd6a75a9c4b4358] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-ad4f7fe396ccfaa2ecd6a75a9c4b4358] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-23cee029cc2d8d68535af858ba5b79a3] In regulation 6 (date of claim)—
+(7)[^c-23cee029cc2d8d68535af858ba5b79a3] In regulation 6 (date of claim)—
 
 - (a) after paragraph (1A)[^f00010] there shall be inserted the following paragraphs—
 
@@ -119,7 +119,7 @@ These Regulations may be cited as the Social Security (Miscellaneous Amendments 
 
   .
 
-(8)[^key-23cee029cc2d8d68535af858ba5b79a3] In regulation 6A[^f00016] (claims by persons subject to work-focused interviews)—
+(8)[^c-23cee029cc2d8d68535af858ba5b79a3] In regulation 6A[^f00016] (claims by persons subject to work-focused interviews)—
 
 - (a) in paragraph (2) after sub-paragraph (c) there shall be added the following sub-paragraph—
 
@@ -128,7 +128,7 @@ These Regulations may be cited as the Social Security (Miscellaneous Amendments 
   ; and
 - (b) in paragraph (5) for “a person is required to take part in under the Social Security (Work-focused Interviews) Regulations (Northern Ireland) 2003” there shall be substituted “is conducted for such purposes connected with employment or training as are specified in regulations made under section 2A of the Administration Act”.
 
-(9)[^key-23cee029cc2d8d68535af858ba5b79a3] For regulation 20[^f00017] (time and manner of payment: general provision) there shall be substituted the following regulation—
+(9)[^c-23cee029cc2d8d68535af858ba5b79a3] For regulation 20[^f00017] (time and manner of payment: general provision) there shall be substituted the following regulation—
 
 > **20. Time of payment: general provision**
 >
@@ -136,29 +136,29 @@ These Regulations may be cited as the Social Security (Miscellaneous Amendments 
 
 .
 
-(10)[^key-23cee029cc2d8d68535af858ba5b79a3] Regulation 20A[^f00018] (payment on presentation of an instrument for benefit payment) shall be omitted.
+(10)[^c-23cee029cc2d8d68535af858ba5b79a3] Regulation 20A[^f00018] (payment on presentation of an instrument for benefit payment) shall be omitted.
 
-(11)[^key-902973f324f7cf7c8cd82869ae1ae4d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-902973f324f7cf7c8cd82869ae1ae4d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-23cee029cc2d8d68535af858ba5b79a3] In regulation 26 (income support)—
+(12)[^c-23cee029cc2d8d68535af858ba5b79a3] In regulation 26 (income support)—
 
 - (a) in paragraph (1)[^f00020] the words “manner in and”; and
 - (b) paragraphs (2) and (3)[^f00021],
 
 shall be omitted.
 
-(13)[^key-23cee029cc2d8d68535af858ba5b79a3] In regulation 26B[^f00022] (state pension credit)—
+(13)[^c-23cee029cc2d8d68535af858ba5b79a3] In regulation 26B[^f00022] (state pension credit)—
 
 - (a) in paragraph (1) for “, where state pension credit is payable in accordance with paragraph (3)(a), to the provisions of regulation 21 (direct credit transfer)” there shall be substituted “to regulation 21 where payment is by direct credit transfer”;
 - (b) paragraphs (3), (6) and (7) shall be omitted; and
 - (c) in paragraph (4) for “in accordance with paragraph (3)(b)” there shall substituted “otherwise than in accordance with regulation 21”.
 
-(14)[^key-23cee029cc2d8d68535af858ba5b79a3] In regulation 37(1)[^f00023] (extinguishment of right to payment of sums by way of benefit where payment is not obtained within the prescribed period)—
+(14)[^c-23cee029cc2d8d68535af858ba5b79a3] In regulation 37(1)[^f00023] (extinguishment of right to payment of sums by way of benefit where payment is not obtained within the prescribed period)—
 
 - (a) sub-paragraph (aa) shall be omitted; and
 - (b) in sub-paragraph (c) for “none of sub-paragraphs (a), (aa), (b) or (bb) apply” there shall be substituted “none of sub-paragraphs (a), (b) or (bb) applies”.
 
-(15)[^key-23cee029cc2d8d68535af858ba5b79a3] For regulation 46[^f00024] (instruments of payment, etc.) there shall be substituted the following regulation—
+(15)[^c-23cee029cc2d8d68535af858ba5b79a3] For regulation 46[^f00024] (instruments of payment, etc.) there shall be substituted the following regulation—
 
 > **46. Instruments of payment**
 >
@@ -168,7 +168,7 @@ shall be omitted.
 
 .
 
-(16)[^key-23cee029cc2d8d68535af858ba5b79a3] In Schedule 7[^f00025] (manner and time of payment and commencement of entitlement in income support cases) for the heading and paragraph 1 there shall be substituted—
+(16)[^c-23cee029cc2d8d68535af858ba5b79a3] In Schedule 7[^f00025] (manner and time of payment and commencement of entitlement in income support cases) for the heading and paragraph 1 there shall be substituted—
 
 > Time of payment and commencement of entitlement in income support cases
 >
@@ -176,9 +176,9 @@ shall be omitted.
 
 .
 
-(17)[^key-bfb62867f8fd6b1bb09fb8ba79c44a85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(17)[^c-bfb62867f8fd6b1bb09fb8ba79c44a85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Jobseeker’s Allowance Regulations[^key-6b30f905fa144cab5c2bce8b4e8b01b5]
+## 3. Amendment of the Jobseeker’s Allowance Regulations[^c-6b30f905fa144cab5c2bce8b4e8b01b5]
 
 In regulation 24(7) of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00027] (provision of information and evidence) for “in writing (unless the Department determines in any particular case to accept notice given otherwise than in writing) to the appropriate office” there shall be substituted “of the change—
 
@@ -187,7 +187,7 @@ In regulation 24(7) of the Jobseeker’s Allowance Regulations (Northern Ireland
 
 to an office of the Department specified by it“.
 
-## 4. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-20f5657da37a90ed5cb94ef784bb0efe]
+## 4. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^c-20f5657da37a90ed5cb94ef784bb0efe]
 
 (1) The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00028] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -241,7 +241,7 @@ to an office of the Department specified by it“.
 
 .
 
-## 5. Amendment of the Social Security (Notification of Change of Circumstances) Regulations[^key-c70a97a49d8fb8728f9a4e5349026cce]
+## 5. Amendment of the Social Security (Notification of Change of Circumstances) Regulations[^c-c70a97a49d8fb8728f9a4e5349026cce]
 
 In regulation 3(1) of the Social Security (Notification of Change of Circumstances) Regulations (Northern Ireland) 2001[^f00035] (changes affecting jobseeker’s allowance)—
 
@@ -255,7 +255,7 @@ In regulation 3(1) of the Social Security (Notification of Change of Circumstanc
 
   .
 
-## 6. Amendment of the Social Security (Hospital In-Patients) Regulations[^key-642775f172504e6cf684f2a8ce523a32][^key-642775f172504e6cf684f2a8ce523a32]
+## 6. Amendment of the Social Security (Hospital In-Patients) Regulations[^c-642775f172504e6cf684f2a8ce523a32][^c-642775f172504e6cf684f2a8ce523a32]
 
 In regulation 1(1)(d) of the Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005[^f00036] (citation, commencement and interpretation) for head (ii) there shall be substituted the following heads—
 
@@ -264,7 +264,7 @@ In regulation 1(1)(d) of the Social Security (Hospital In-Patients) Regulations 
 
 .
 
-## 7. Revocations[^key-ced545a137995644e386daebafa4b997]
+## 7. Revocations[^c-ced545a137995644e386daebafa4b997]
 
 The provisions specified in column (1) of the Schedule are revoked to the extent mentioned in column (3).
 
@@ -276,7 +276,7 @@ A senior officer of the
 
 Department for Social Development
 
-## SCHEDULE — Revocations[^key-d9f892c20e28bde689ada997759ae4db]
+## SCHEDULE — Revocations[^c-d9f892c20e28bde689ada997759ae4db]
 
 Regulation 7
 
@@ -339,11 +339,11 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00003]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-1e930199f621eef315c2db375a4b3aa3]: Commencement: Reg. 1 in operation at 9.4.2006, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/a)
+[^c-1e930199f621eef315c2db375a4b3aa3]: Commencement: Reg. 1 in operation at 9.4.2006, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/a)
 
-[^key-23cee029cc2d8d68535af858ba5b79a3]: Commencement: Reg. 2(1)-(3)(7)-(17) in operation at 10.4.2006, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b)
+[^c-23cee029cc2d8d68535af858ba5b79a3]: Commencement: Reg. 2(1)-(3)(7)-(17) in operation at 10.4.2006, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b)
 
-[^key-514107ba421fd9ed1f91a6502e6a8198]: Commencement: [Reg. 2(4)-(6)](https://www.legislation.gov.uk/nisr/2006/168/regulation/2/4) in operation at 24.7.2006, see [reg. 1(c)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/c)
+[^c-514107ba421fd9ed1f91a6502e6a8198]: Commencement: [Reg. 2(4)-(6)](https://www.legislation.gov.uk/nisr/2006/168/regulation/2/4) in operation at 24.7.2006, see [reg. 1(c)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/c)
 
 [^f00004]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Rules are [S.R. 1988 No. 67](https://www.legislation.gov.uk/nisr/1988/67), [S.R. 1989 Nos. 40](https://www.legislation.gov.uk/nisr/1989/40) and [398](https://www.legislation.gov.uk/nisr/1989/398), [S.R. 1993 No. 217](https://www.legislation.gov.uk/nisr/1993/217), [S.R. 1994 No. 484](https://www.legislation.gov.uk/nisr/1994/484), [S.R. 1996 No. 85](https://www.legislation.gov.uk/nisr/1996/85), [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472), [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215), [S.R. 2002 Nos. 67](https://www.legislation.gov.uk/nisr/2002/67), [297](https://www.legislation.gov.uk/nisr/2002/297) and [323](https://www.legislation.gov.uk/nisr/2002/323), [S.R. 2003 Nos. 191](https://www.legislation.gov.uk/nisr/2003/191), [317](https://www.legislation.gov.uk/nisr/2003/317) and [412](https://www.legislation.gov.uk/nisr/2003/412), [S.R. 2004 No. 378](https://www.legislation.gov.uk/nisr/2004/378) and [S.R. 2005 Nos. 46](https://www.legislation.gov.uk/nisr/2005/46), [139](https://www.legislation.gov.uk/nisr/2005/139), [299](https://www.legislation.gov.uk/nisr/2005/299) and [536](https://www.legislation.gov.uk/nisr/2005/536)
 
@@ -355,7 +355,7 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00008]: Footnote: Regulation 4E was inserted by regulation 4(3) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191) and amended by regulation 2(5) of [S.R. 2003 No. 317](https://www.legislation.gov.uk/nisr/2003/317) and regulation 7 of [S.R. 2004 No. 394](https://www.legislation.gov.uk/nisr/2004/394)
 
-[^key-ad4f7fe396ccfaa2ecd6a75a9c4b4358]: Textual amendment: [Reg. 2(6)](https://www.legislation.gov.uk/nisr/2006/168/regulation/2/6) revoked (13.7.2009) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/240)](https://www.legislation.gov.uk/nisr/2009/240), [regs. 1](https://www.legislation.gov.uk/nisr/2009/240/regulation/1), [4](https://www.legislation.gov.uk/nisr/2009/240/regulation/4), [Sch.](https://www.legislation.gov.uk/nisr/2009/240/schedule)
+[^c-ad4f7fe396ccfaa2ecd6a75a9c4b4358]: Textual amendment: [Reg. 2(6)](https://www.legislation.gov.uk/nisr/2006/168/regulation/2/6) revoked (13.7.2009) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/240)](https://www.legislation.gov.uk/nisr/2009/240), [regs. 1](https://www.legislation.gov.uk/nisr/2009/240/regulation/1), [4](https://www.legislation.gov.uk/nisr/2009/240/regulation/4), [Sch.](https://www.legislation.gov.uk/nisr/2009/240/schedule)
 
 [^f00010]: Footnote: Paragraph (1A) was inserted by regulation 3(4)(b) of [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156)
 
@@ -375,7 +375,7 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00018]: Footnote: Regulation 20A was inserted by regulation 2(4) of [S.R. 1994 No. 484](https://www.legislation.gov.uk/nisr/1994/484) and amended by regulation 2(2) of [S.R. 1996 No. 85](https://www.legislation.gov.uk/nisr/1996/85)
 
-[^key-902973f324f7cf7c8cd82869ae1ae4d0]: Textual amendment: [Reg. 2(11)](https://www.legislation.gov.uk/nisr/2006/168/regulation/2/11) revoked (1.4.2012) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/121)](https://www.legislation.gov.uk/nisr/2012/121), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/121/regulation/1/1), [20](https://www.legislation.gov.uk/nisr/2012/121/regulation/20), [Sch.](https://www.legislation.gov.uk/nisr/2012/121/schedule)
+[^c-902973f324f7cf7c8cd82869ae1ae4d0]: Textual amendment: [Reg. 2(11)](https://www.legislation.gov.uk/nisr/2006/168/regulation/2/11) revoked (1.4.2012) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/121)](https://www.legislation.gov.uk/nisr/2012/121), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/121/regulation/1/1), [20](https://www.legislation.gov.uk/nisr/2012/121/regulation/20), [Sch.](https://www.legislation.gov.uk/nisr/2012/121/schedule)
 
 [^f00020]: Footnote: Paragraph (1) was amended by regulation 2(3) of [S.R. 1993 No. 217](https://www.legislation.gov.uk/nisr/1993/217) and regulation 3(3) of [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
 
@@ -389,13 +389,13 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00025]: Footnote: The heading to Schedule 7 was amended by regulation 3(5)(a) of [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215) and paragraph 1 was amended by regulation 2(6) of [S.R. 1996 No. 85](https://www.legislation.gov.uk/nisr/1996/85)
 
-[^key-bfb62867f8fd6b1bb09fb8ba79c44a85]: Textual amendment: [Reg. 2(17)](https://www.legislation.gov.uk/nisr/2006/168/regulation/2/17) revoked (9.4.2007) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2007 (S.R. 2007/155)](https://www.legislation.gov.uk/nisr/2007/155), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/155/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2007/155/regulation/6)
+[^c-bfb62867f8fd6b1bb09fb8ba79c44a85]: Textual amendment: [Reg. 2(17)](https://www.legislation.gov.uk/nisr/2006/168/regulation/2/17) revoked (9.4.2007) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2007 (S.R. 2007/155)](https://www.legislation.gov.uk/nisr/2007/155), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/155/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2007/155/regulation/6)
 
-[^key-6b30f905fa144cab5c2bce8b4e8b01b5]: Commencement: Reg. 3 in operation at 10.4.2006, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b)
+[^c-6b30f905fa144cab5c2bce8b4e8b01b5]: Commencement: Reg. 3 in operation at 10.4.2006, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b)
 
 [^f00027]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); regulation 24(7) was amended by regulation 2(4)(b) of [S.R. 2000 No. 37](https://www.legislation.gov.uk/nisr/2000/37) and paragraph 3(e) of Schedule 2 to [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
 
-[^key-20f5657da37a90ed5cb94ef784bb0efe]: Commencement: Reg. 4 in operation at 10.4.2006, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b)
+[^c-20f5657da37a90ed5cb94ef784bb0efe]: Commencement: Reg. 4 in operation at 10.4.2006, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b)
 
 [^f00028]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); relevant amending Regulations are [S.R. 1999 No. 473](https://www.legislation.gov.uk/nisr/1999/473), [S.R. 2002 No. 67](https://www.legislation.gov.uk/nisr/2002/67), [S.R. 2003 Nos. 191](https://www.legislation.gov.uk/nisr/2003/191) and [421](https://www.legislation.gov.uk/nisr/2003/421), [S.R. 2004 No. 378](https://www.legislation.gov.uk/nisr/2004/378), [S.R. 2005 Nos. 46](https://www.legislation.gov.uk/nisr/2005/46) and [539](https://www.legislation.gov.uk/nisr/2005/539) and [S.R. 2006 No. 104](https://www.legislation.gov.uk/nisr/2006/104)
 
@@ -411,11 +411,11 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00034]: Footnote: Schedule 2B was inserted by regulation 22 of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191) and amended by regulation 5(4) of [S.R. 2003 No. 421](https://www.legislation.gov.uk/nisr/2003/421)
 
-[^key-c70a97a49d8fb8728f9a4e5349026cce]: Commencement: Reg. 5 in operation at 10.4.2006, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b)
+[^c-c70a97a49d8fb8728f9a4e5349026cce]: Commencement: Reg. 5 in operation at 10.4.2006, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b)
 
 [^f00035]: Footnote: [S.R. 2001 No. 420](https://www.legislation.gov.uk/nisr/2001/420), to which there are amendments not relevant to these Regulations
 
-[^key-642775f172504e6cf684f2a8ce523a32]: Commencement: Reg. 6 in operation at 9.4.2006, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/a)
+[^c-642775f172504e6cf684f2a8ce523a32]: Commencement: Reg. 6 in operation at 9.4.2006, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/a)
 
 [^f00036]: Footnote: [S.R. 2005 No. 580](https://www.legislation.gov.uk/nisr/2005/580)
 
@@ -423,6 +423,6 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00038]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Regulations are [S.R. 1999 No. 365](https://www.legislation.gov.uk/nisr/1999/365), [S.R. 1992 No. 7](https://www.legislation.gov.uk/nisr/1992/7), [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108), [S.R. 2002 Nos. 297](https://www.legislation.gov.uk/nisr/2002/297) and [323](https://www.legislation.gov.uk/nisr/2002/323) and [S.R. 2005 No. 299](https://www.legislation.gov.uk/nisr/2005/299)
 
-[^key-ced545a137995644e386daebafa4b997]: Commencement: Reg. 7 in operation at 10.4.2006, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b)
+[^c-ced545a137995644e386daebafa4b997]: Commencement: Reg. 7 in operation at 10.4.2006, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b)
 
-[^key-d9f892c20e28bde689ada997759ae4db]: Commencement: Sch. in operation at 10.4.2006, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b)
+[^c-d9f892c20e28bde689ada997759ae4db]: Commencement: Sch. in operation at 10.4.2006, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b)

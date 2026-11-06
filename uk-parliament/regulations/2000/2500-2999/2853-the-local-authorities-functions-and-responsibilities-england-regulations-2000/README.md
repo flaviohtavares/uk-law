@@ -43,7 +43,7 @@ Coming into force
 
 16th November 2000
 
-The Secretary of State for the Environment, Transport and the Regions, in exercise of the powers conferred on him by sections 13 and 105 of the Local Government Act 2000[^f00001] hereby makes the following Regulations:[^key-b23fb8f6e1bea5d2ebfc09471b67d96a][^key-3e8365c3e863f5154cf628eb7e9cf06d]
+The Secretary of State for the Environment, Transport and the Regions, in exercise of the powers conferred on him by sections 13 and 105 of the Local Government Act 2000[^f00001] hereby makes the following Regulations:[^c-b23fb8f6e1bea5d2ebfc09471b67d96a][^c-3e8365c3e863f5154cf628eb7e9cf06d]
 
 ## Contents
 
@@ -116,6 +116,6 @@ The effect of regulation 5(5) is to prevent an authority from arranging for the 
 
 [^f00001]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22).
 
-[^key-b23fb8f6e1bea5d2ebfc09471b67d96a]: Modification: Regulations modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/8/3) (with [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2))
+[^c-b23fb8f6e1bea5d2ebfc09471b67d96a]: Modification: Regulations modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/8/3) (with [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2))
 
-[^key-3e8365c3e863f5154cf628eb7e9cf06d]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2000/2853) continued (temp.) (25.3.2026) by [The Levelling-up and Regeneration Act 2023 (Commencement No. 11 and Saving and Transitional Provisions) Regulations 2026 (S.I. 2026/169)](https://www.legislation.gov.uk/uksi/2026/169), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1)
+[^c-3e8365c3e863f5154cf628eb7e9cf06d]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2000/2853) continued (temp.) (25.3.2026) by [The Levelling-up and Regeneration Act 2023 (Commencement No. 11 and Saving and Transitional Provisions) Regulations 2026 (S.I. 2026/169)](https://www.legislation.gov.uk/uksi/2026/169), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1)

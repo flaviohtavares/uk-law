@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Completion of the award process[^key-d1954611799bd1004ffce92ce7516e9b]
+## 111. Completion of the award process[^c-d1954611799bd1004ffce92ce7516e9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ After the grant of licences, OFCOM shall complete the award process by publishin
 
 ## Annotations
 
-[^key-d1954611799bd1004ffce92ce7516e9b]: Commencement: Reg. 111 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-d1954611799bd1004ffce92ce7516e9b]: Commencement: Reg. 111 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

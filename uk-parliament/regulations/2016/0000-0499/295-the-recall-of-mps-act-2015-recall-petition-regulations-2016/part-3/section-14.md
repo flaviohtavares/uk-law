@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Notice of petition[^key-6193fe6b5cb3e6bf7e6c0ac114246b35]
+## 14. Notice of petition[^c-6193fe6b5cb3e6bf7e6c0ac114246b35]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ and must as soon as reasonably practicable after giving such notice give a copy 
 
 ## Annotations
 
-[^key-6193fe6b5cb3e6bf7e6c0ac114246b35]: Commencement: Reg. 14 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-6193fe6b5cb3e6bf7e6c0ac114246b35]: Commencement: Reg. 14 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

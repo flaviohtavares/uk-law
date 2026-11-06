@@ -175,7 +175,7 @@ The orders specified in Schedule 2 are revoked.
   - (i) to a person who has passed a driving test in that relevant country; or
   - (ii) in exchange for a licence granted in—
     - (aa) the United Kingdom;
-    - (bb) an EEA State [^key-160c8428cee7d54993c272bce8c1eb90]... to a person who had passed a driving test in an EEA State, a relevant country or a country or territory referred to in Schedule 3; or
+    - (bb) an EEA State [^c-160c8428cee7d54993c272bce8c1eb90]... to a person who had passed a driving test in an EEA State, a relevant country or a country or territory referred to in Schedule 3; or
     - (cc) another relevant country to a person who had passed a driving test in an EEA State, a relevant country or a country or territory referred to in Schedule 3; or
     - (dd) a country or territory referred to in Schedule 3 to a person who had passed a driving test in an EEA State, a relevant country or a country or territory referred to in Schedule 3.
 
@@ -268,4 +268,4 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c21536751]: Marginal citation: [S.I. 2007/95](https://www.legislation.gov.uk/uksi/2007/95).
 
-[^key-160c8428cee7d54993c272bce8c1eb90]: Textual amendment: Words in [art. 5(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/22/article/5/2/b/ii)[(bb)](https://www.legislation.gov.uk/uksi/2013/22/article/5/2/bb) omitted (31.12.2020) by virtue of [The Driving Licences (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1251)](https://www.legislation.gov.uk/uksi/2018/1251), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1251/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2018/1251/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-160c8428cee7d54993c272bce8c1eb90]: Textual amendment: Words in [art. 5(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/22/article/5/2/b/ii)[(bb)](https://www.legislation.gov.uk/uksi/2013/22/article/5/2/bb) omitted (31.12.2020) by virtue of [The Driving Licences (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1251)](https://www.legislation.gov.uk/uksi/2018/1251), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1251/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2018/1251/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -31,7 +31,7 @@ summary: ''
 
 SEEDS, ENGLAND
 
-The Vegetable Seed (England) Regulations 2002 (revoked)[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+The Vegetable Seed (England) Regulations 2002 (revoked)[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 Made
 
@@ -45,11 +45,11 @@ Coming into force
 
 31st January 2003
 
-[^key-5c5e79b2f4dd3659471b4a847bebe4bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c5e79b2f4dd3659471b4a847bebe4bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — GENERAL[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+### PART I — GENERAL[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 *Extent: E+W+S+NI*
 
@@ -61,7 +61,7 @@ Coming into force
 - [Section 4 — Definition of marketing](part-i/section-4.md)
 - [Section 5 — Seed to which these Regulations apply](part-i/section-5.md)
 
-### PART II — PROCEDURES RELATING TO THE OFFICIAL CERTIFICATION OF SEED[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+### PART II — PROCEDURES RELATING TO THE OFFICIAL CERTIFICATION OF SEED[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 *Extent: E+W+S+NI*
 
@@ -77,7 +77,7 @@ Coming into force
 - [Section 13 — Re-grading of seed](part-ii/section-13.md)
 - [Section 14 — Withdrawals](part-ii/section-14.md)
 
-### PART III — CONTROL OF VEGETABLE SEED[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+### PART III — CONTROL OF VEGETABLE SEED[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 *Extent: E+W+S+NI*
 
@@ -97,7 +97,7 @@ Coming into force
 - [Section 26 — Special provisions that apply in connection with the marketing of standard seed](part-iii/section-26.md)
 - [Section 26A — Special provisions that apply in connection with the marketing of market test seed](part-iii/section-26a.md)
 
-### PART IV — MISCELLANEOUS AND SUPPLEMENTAL PROVISIONS[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+### PART IV — MISCELLANEOUS AND SUPPLEMENTAL PROVISIONS[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 *Extent: E+W+S+NI*
 
@@ -125,14 +125,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-5c5e79b2f4dd3659471b4a847bebe4bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c5e79b2f4dd3659471b4a847bebe4bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+NI*
 
 **May not be in force at this date. Check the source.**
 
-[^key-5c5e79b2f4dd3659471b4a847bebe4bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c5e79b2f4dd3659471b4a847bebe4bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5c5e79b2f4dd3659471b4a847bebe4bc]: Textual amendment: Regulations revoked (1.4.2011) by [The Seed Marketing Regulations 2011 (S.I. 2011/463)](https://www.legislation.gov.uk/uksi/2011/463), [regs. 1](https://www.legislation.gov.uk/uksi/2011/463/regulation/1), [34](https://www.legislation.gov.uk/uksi/2011/463/regulation/34)
+[^c-5c5e79b2f4dd3659471b4a847bebe4bc]: Textual amendment: Regulations revoked (1.4.2011) by [The Seed Marketing Regulations 2011 (S.I. 2011/463)](https://www.legislation.gov.uk/uksi/2011/463), [regs. 1](https://www.legislation.gov.uk/uksi/2011/463/regulation/1), [34](https://www.legislation.gov.uk/uksi/2011/463/regulation/34)

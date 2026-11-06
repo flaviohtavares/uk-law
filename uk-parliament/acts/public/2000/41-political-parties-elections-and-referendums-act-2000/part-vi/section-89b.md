@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89B. Restriction on which third parties may incur controlled expenditure: Senedd Cymru elections[^M_E_5e12c02f-f795-4996-b93d-e58c175fe5a7][^key-fa5f3768b9edb2e751ea71709b05ebce]
+## 89B. Restriction on which third parties may incur controlled expenditure: Senedd Cymru elections[^M_E_5e12c02f-f795-4996-b93d-e58c175fe5a7][^c-fa5f3768b9edb2e751ea71709b05ebce]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (6) A “Welsh devolved regulated period means a period in relation to which any limit is imposed by paragraph 6 of Schedule 10 (periods involving general elections to Senedd Cymru).
 
-## 89B. Restriction on which third parties may incur controlled expenditure: Scottish Parliament elections[^M_E_006b34b7-1d13-48ec-c87f-15f4af3d23f2][^key-af4badb395a43a442aecb335b65ebd8f]
+## 89B. Restriction on which third parties may incur controlled expenditure: Scottish Parliament elections[^M_E_006b34b7-1d13-48ec-c87f-15f4af3d23f2][^c-af4badb395a43a442aecb335b65ebd8f]
 
 *Extent: S*
 
@@ -58,8 +58,8 @@ summary: ''
 
 [^M_E_5e12c02f-f795-4996-b93d-e58c175fe5a7]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 
-[^key-fa5f3768b9edb2e751ea71709b05ebce]: Textual amendment: [S. 89B](https://www.legislation.gov.uk/ukpga/2000/41/section/89B) inserted (1.1.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 36(2)](https://www.legislation.gov.uk/asc/2024/5/section/36/2), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(k)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/k)
+[^c-fa5f3768b9edb2e751ea71709b05ebce]: Textual amendment: [S. 89B](https://www.legislation.gov.uk/ukpga/2000/41/section/89B) inserted (1.1.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 36(2)](https://www.legislation.gov.uk/asc/2024/5/section/36/2), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(k)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/k)
 
 [^M_E_006b34b7-1d13-48ec-c87f-15f4af3d23f2]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 
-[^key-af4badb395a43a442aecb335b65ebd8f]: Textual amendment: [S. 89B](https://www.legislation.gov.uk/ukpga/2000/41/section/89B) inserted (1.8.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 23(2)](https://www.legislation.gov.uk/asp/2025/4/section/23/2), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)
+[^c-af4badb395a43a442aecb335b65ebd8f]: Textual amendment: [S. 89B](https://www.legislation.gov.uk/ukpga/2000/41/section/89B) inserted (1.8.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 23(2)](https://www.legislation.gov.uk/asp/2025/4/section/23/2), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)

@@ -32,8 +32,8 @@ summary: ''
 
 (3) But no expenditure is to be brought into account—
 
-- (a) under both paragraphs (a) and (b) of subsection (2), [^key-80c9896494bea04003359d6a84b1343e]...
-- (b) under both subsection (2)(a) above and section 170(2)(b) of ITTOIA 2005 (relief for income tax purposes) or under both subsection (2)(b) above and section 170(2)(a) of ITTOIA 2005, or[^key-d7b8a9eb47b85178798bfa4ecfce07b2]
+- (a) under both paragraphs (a) and (b) of subsection (2), [^c-80c9896494bea04003359d6a84b1343e]...
+- (b) under both subsection (2)(a) above and section 170(2)(b) of ITTOIA 2005 (relief for income tax purposes) or under both subsection (2)(b) above and section 170(2)(a) of ITTOIA 2005, or[^c-d7b8a9eb47b85178798bfa4ecfce07b2]
 - (c) under both subsection (2)(b) above and section 149B(4), 149C(4) or 149D(3).
 
 whether for the same or different periods of account.
@@ -44,6 +44,6 @@ whether for the same or different periods of account.
 
 ## Annotations
 
-[^key-80c9896494bea04003359d6a84b1343e]: Textual amendment: Word in s. 147(3)(a) omitted (1.3.2012) by virtue of [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2012/266/article/5/3/a) (with [art. 5(5)](https://www.legislation.gov.uk/uksi/2012/266/article/5/5))
+[^c-80c9896494bea04003359d6a84b1343e]: Textual amendment: Word in s. 147(3)(a) omitted (1.3.2012) by virtue of [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2012/266/article/5/3/a) (with [art. 5(5)](https://www.legislation.gov.uk/uksi/2012/266/article/5/5))
 
-[^key-d7b8a9eb47b85178798bfa4ecfce07b2]: Textual amendment: S. 147(3)(c) and word inserted (1.3.2012) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2012/266/article/5/3/b) (with [art. 5(5)](https://www.legislation.gov.uk/uksi/2012/266/article/5/5))
+[^c-d7b8a9eb47b85178798bfa4ecfce07b2]: Textual amendment: S. 147(3)(c) and word inserted (1.3.2012) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2012/266/article/5/3/b) (with [art. 5(5)](https://www.legislation.gov.uk/uksi/2012/266/article/5/5))

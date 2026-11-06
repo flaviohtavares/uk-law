@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Fee for scientific advice: application for, or variation to, EU marketing authorisation[^key-0de13464bdb80e0bc9900e22e2b0c4fd]
+## 4. Fee for scientific advice: application for, or variation to, EU marketing authorisation[^c-0de13464bdb80e0bc9900e22e2b0c4fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0de13464bdb80e0bc9900e22e2b0c4fd]: Textual amendment: Reg. 4 omitted (1.4.2025) by virtue of [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2025/317/regulation/4)
+[^c-0de13464bdb80e0bc9900e22e2b0c4fd]: Textual amendment: Reg. 4 omitted (1.4.2025) by virtue of [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2025/317/regulation/4)

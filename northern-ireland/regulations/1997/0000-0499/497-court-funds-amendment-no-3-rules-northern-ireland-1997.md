@@ -44,11 +44,11 @@ Coming into operation
 
 The Lord Chancellor, in exercise of the powers conferred on him by section 82(1) of the Judicature (Northern Ireland) Act 1978[^f00001] and with concurrence of the Treasury, hereby makes the following Rules:—
 
-## 1. Citation and commencement[^key-2429cad0453b95881a1cdb2524da2cec]
+## 1. Citation and commencement[^c-2429cad0453b95881a1cdb2524da2cec]
 
 These Rules may be cited as the Court Funds (Amendment No. 3) Rules (Northern Ireland) 1997 and shall come into operation on 15th December 1997.
 
-## 2. Prescribed rates of interest[^key-329e2fa93565905f9f2c08c9db1f422f]
+## 2. Prescribed rates of interest[^c-329e2fa93565905f9f2c08c9db1f422f]
 
 in Rule 32A of the Court Funds Rules (Northern Ireland) 1979[^f00002]—
 
@@ -80,8 +80,8 @@ These Rules amend the Court Funds Rules (Northern Ireland) 1979 so as to increas
 
 [^f00001]: Footnote: [1978 c. 23](https://www.legislation.gov.uk/ukpga/1978/23)
 
-[^key-2429cad0453b95881a1cdb2524da2cec]: Commencement: Rule 1 in operation at 15.12.1997, see [rule 1](https://www.legislation.gov.uk/nisr/1997/497/rule/1)
+[^c-2429cad0453b95881a1cdb2524da2cec]: Commencement: Rule 1 in operation at 15.12.1997, see [rule 1](https://www.legislation.gov.uk/nisr/1997/497/rule/1)
 
-[^key-329e2fa93565905f9f2c08c9db1f422f]: Commencement: Rule 2 in operation at 15.12.1997, see [rule 1](https://www.legislation.gov.uk/nisr/1997/497/rule/1)
+[^c-329e2fa93565905f9f2c08c9db1f422f]: Commencement: Rule 2 in operation at 15.12.1997, see [rule 1](https://www.legislation.gov.uk/nisr/1997/497/rule/1)
 
 [^f00002]: Footnote: [S.R. 1979 No.105](https://www.legislation.gov.uk/nisr/1979/105) as amended by [S.R. 1997 No. 166](https://www.legislation.gov.uk/nisr/1997/166) and [S.R. 1997 No. 295](https://www.legislation.gov.uk/nisr/1997/295)

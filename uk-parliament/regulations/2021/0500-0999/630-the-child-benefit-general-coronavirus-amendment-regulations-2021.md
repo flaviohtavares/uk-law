@@ -32,7 +32,7 @@ summary: ''
 
 Social Security
 
-The Child Benefit (General) (Coronavirus) (Amendment) Regulations 2021 (revoked)[^key-c566f0bb328eb9b788d8ffee656deba9]
+The Child Benefit (General) (Coronavirus) (Amendment) Regulations 2021 (revoked)[^c-c566f0bb328eb9b788d8ffee656deba9]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 31st May 2021
 
-[^key-c566f0bb328eb9b788d8ffee656deba9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c566f0bb328eb9b788d8ffee656deba9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c566f0bb328eb9b788d8ffee656deba9]
+## 1. Citation and commencement[^c-c566f0bb328eb9b788d8ffee656deba9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Child Benefit (General) Regulations 2006[^key-c566f0bb328eb9b788d8ffee656deba9]
+## 2. Amendment of the Child Benefit (General) Regulations 2006[^c-c566f0bb328eb9b788d8ffee656deba9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c566f0bb328eb9b788d8ffee656deba9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c566f0bb328eb9b788d8ffee656deba9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-c566f0bb328eb9b788d8ffee656deba9]EXPLANATORY NOTE
+[^c-c566f0bb328eb9b788d8ffee656deba9]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -74,4 +74,4 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 ## Annotations
 
-[^key-c566f0bb328eb9b788d8ffee656deba9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/630) revoked (9.6.2022) by [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/555)](https://www.legislation.gov.uk/uksi/2022/555), [regs. 1](https://www.legislation.gov.uk/uksi/2022/555/regulation/1), [8](https://www.legislation.gov.uk/uksi/2022/555/regulation/8)
+[^c-c566f0bb328eb9b788d8ffee656deba9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/630) revoked (9.6.2022) by [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/555)](https://www.legislation.gov.uk/uksi/2022/555), [regs. 1](https://www.legislation.gov.uk/uksi/2022/555/regulation/1), [8](https://www.legislation.gov.uk/uksi/2022/555/regulation/8)

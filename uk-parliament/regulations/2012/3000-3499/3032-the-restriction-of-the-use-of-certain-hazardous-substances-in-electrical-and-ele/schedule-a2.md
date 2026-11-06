@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## SCHEDULE A2 — Applications exempted from the restriction in regulation 3(1)[^M_C_f86a90fa-4e3c-4d2f-fc45-611e7e41b1f7][^key-ee71d2fdeb7818e063913efdddfe177d]
+## SCHEDULE A2 — Applications exempted from the restriction in regulation 3(1)[^M_C_f86a90fa-4e3c-4d2f-fc45-611e7e41b1f7][^c-ee71d2fdeb7818e063913efdddfe177d]
 
 *Extent: E+W+S*
 
@@ -26,8 +26,8 @@ Regulation 3
 
 In this Schedule—
 
-- (a) Table 1 sets out exemptions from the restriction in regulation 3(1) for applications of restricted substances in EEE, [^key-57f4714b8fe97cb975ff2cea017ed7ee]...
-- (b) Table 2 sets out exemptions from the restriction in regulation 3(1) for applications of restricted substances in spare parts for EEE with no expiry date[^key-949d17bc6917bbf06f8236f12d0922f7].
+- (a) Table 1 sets out exemptions from the restriction in regulation 3(1) for applications of restricted substances in EEE, [^c-57f4714b8fe97cb975ff2cea017ed7ee]...
+- (b) Table 2 sets out exemptions from the restriction in regulation 3(1) for applications of restricted substances in spare parts for EEE with no expiry date[^c-949d17bc6917bbf06f8236f12d0922f7].
 
 ### 2. Interpretation of the tables
 
@@ -296,7 +296,7 @@ Table of exempted applications
 </tbody>
 </table>
 
-[^M_F_91fc0568-88b2-41e3-b548-3d0c9d5eb86a][^f01000][^f01001][^key-9bac89572ded462fd35c5dd849353464][^key-f301a209423c7c27cf50b2e831b7a1eb][^key-015eab51074139af5ecab2fa6c3ea35f]
+[^M_F_91fc0568-88b2-41e3-b548-3d0c9d5eb86a][^f01000][^f01001][^c-9bac89572ded462fd35c5dd849353464][^c-f301a209423c7c27cf50b2e831b7a1eb][^c-015eab51074139af5ecab2fa6c3ea35f]
 
 Table 2
 
@@ -320,15 +320,15 @@ Table of exemptions for spare parts for EEE with no expiry date
 
 [^M_C_f86a90fa-4e3c-4d2f-fc45-611e7e41b1f7]: Modification: Sch. A2: power to amend conferred (31.12.2020) by [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2020/1647/regulation/5)
 
-[^key-ee71d2fdeb7818e063913efdddfe177d]: Textual amendment: Sch. A2 inserted (E.W.S.) (31.12.2020) by [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1647/schedule/2)
+[^c-ee71d2fdeb7818e063913efdddfe177d]: Textual amendment: Sch. A2 inserted (E.W.S.) (31.12.2020) by [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1647/schedule/2)
 
-[^key-57f4714b8fe97cb975ff2cea017ed7ee]: Textual amendment: Words in [Sch. A2 para. 1(a)](https://www.legislation.gov.uk/uksi/2012/3032/schedule/A2/paragraph/1/a) omitted (1.7.2022) by virtue of [The Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2022 (S.I. 2022/622)](https://www.legislation.gov.uk/uksi/2022/622), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/622/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/622/regulation/2/2/a)
+[^c-57f4714b8fe97cb975ff2cea017ed7ee]: Textual amendment: Words in [Sch. A2 para. 1(a)](https://www.legislation.gov.uk/uksi/2012/3032/schedule/A2/paragraph/1/a) omitted (1.7.2022) by virtue of [The Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2022 (S.I. 2022/622)](https://www.legislation.gov.uk/uksi/2022/622), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/622/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/622/regulation/2/2/a)
 
-[^key-949d17bc6917bbf06f8236f12d0922f7]: Textual amendment: Words in [Sch. A2 para. 1(b)](https://www.legislation.gov.uk/uksi/2012/3032/schedule/A2/paragraph/1/b) inserted (1.7.2022) by [The Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2022 (S.I. 2022/622)](https://www.legislation.gov.uk/uksi/2022/622), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/622/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/622/regulation/2/2/b)
+[^c-949d17bc6917bbf06f8236f12d0922f7]: Textual amendment: Words in [Sch. A2 para. 1(b)](https://www.legislation.gov.uk/uksi/2012/3032/schedule/A2/paragraph/1/b) inserted (1.7.2022) by [The Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2022 (S.I. 2022/622)](https://www.legislation.gov.uk/uksi/2022/622), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/622/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/622/regulation/2/2/b)
 
 [^M_F_91fc0568-88b2-41e3-b548-3d0c9d5eb86a]: Textual amendment: Words in Sch. A2 Table 1 substituted (17.7.2023) by [The Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2023 (S.I. 2023/658)](https://www.legislation.gov.uk/uksi/2023/658), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/658/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/658/regulation/2/2)
 
-[^f01000]: Footnote: (1)[^key-ee71d2fdeb7818e063913efdddfe177d]
+[^f01000]: Footnote: (1)[^c-ee71d2fdeb7818e063913efdddfe177d]
 
     OJ No L 326, 19.12.1969, p.36, as last amended by Council [Directive 2006/96/EC](https://www.legislation.gov.uk/eudr/2006/0096) (OJ No L 363, 20.12.2006, p.81).
 
@@ -336,8 +336,8 @@ Table of exemptions for spare parts for EEE with no expiry date
 
     EUR 2016/1628.
 
-[^key-9bac89572ded462fd35c5dd849353464]: Textual amendment: Words in Sch. A2 Table 1 substituted (1.1.2022) by [The Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1395)](https://www.legislation.gov.uk/uksi/2021/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1395/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/1395/regulation/2/3/a)
+[^c-9bac89572ded462fd35c5dd849353464]: Textual amendment: Words in Sch. A2 Table 1 substituted (1.1.2022) by [The Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1395)](https://www.legislation.gov.uk/uksi/2021/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1395/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/1395/regulation/2/3/a)
 
-[^key-f301a209423c7c27cf50b2e831b7a1eb]: Textual amendment: Words in Sch. A2 Table 1 inserted (1.1.2022) by [The Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1395)](https://www.legislation.gov.uk/uksi/2021/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1395/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2021/1395/regulation/2/3/b)
+[^c-f301a209423c7c27cf50b2e831b7a1eb]: Textual amendment: Words in Sch. A2 Table 1 inserted (1.1.2022) by [The Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1395)](https://www.legislation.gov.uk/uksi/2021/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1395/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2021/1395/regulation/2/3/b)
 
-[^key-015eab51074139af5ecab2fa6c3ea35f]: Textual amendment: Words in Sch. A2 Table 1 inserted (1.7.2022) by [The Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2022 (S.I. 2022/622)](https://www.legislation.gov.uk/uksi/2022/622), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/622/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2022/622/regulation/2/2/c)
+[^c-015eab51074139af5ecab2fa6c3ea35f]: Textual amendment: Words in Sch. A2 Table 1 inserted (1.7.2022) by [The Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2022 (S.I. 2022/622)](https://www.legislation.gov.uk/uksi/2022/622), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/622/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2022/622/regulation/2/2/c)

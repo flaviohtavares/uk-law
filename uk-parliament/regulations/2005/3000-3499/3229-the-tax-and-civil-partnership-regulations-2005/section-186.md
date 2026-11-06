@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186.[^key-812cd9c022b6962961345c27d5fa7b05]
+## 186.[^c-812cd9c022b6962961345c27d5fa7b05]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 619 (settlements: amounts treated as income of settlor: charge to tax
 
 ## Annotations
 
-[^key-812cd9c022b6962961345c27d5fa7b05]: Commencement: Reg. 186 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-812cd9c022b6962961345c27d5fa7b05]: Commencement: Reg. 186 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

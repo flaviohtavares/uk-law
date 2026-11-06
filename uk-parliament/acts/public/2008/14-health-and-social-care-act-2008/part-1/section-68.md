@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Avoidance of unreasonable burdens in exercise of regulatory powers[^c1942190][^key-bab48e23749bd5d29f2a72713cae4b79]
+## 68. Avoidance of unreasonable burdens in exercise of regulatory powers[^c1942190][^c-bab48e23749bd5d29f2a72713cae4b79]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ but, in relation to a body prescribed under subsection (2)(b), such powers are â
 
 [^c1942190]: Commencement: S. 68 partly in force; S. 68 in force for specified purposes at Royal Assent, see [s. 170](https://www.legislation.gov.uk/ukpga/2008/14/section/170)
 
-[^key-bab48e23749bd5d29f2a72713cae4b79]: Commencement: S. 68 in force at 1.4.2009 in so far as not already in force by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/22)
+[^c-bab48e23749bd5d29f2a72713cae4b79]: Commencement: S. 68 in force at 1.4.2009 in so far as not already in force by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/22)

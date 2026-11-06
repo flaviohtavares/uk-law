@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Reinstatement of an anti-dumping amount or a countervailing amount[^key-a65da99dbf13e81a94f24ccf0267cd17]
+## 88. Reinstatement of an anti-dumping amount or a countervailing amount[^c-a65da99dbf13e81a94f24ccf0267cd17]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a65da99dbf13e81a94f24ccf0267cd17]: Commencement: Reg. 88 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-a65da99dbf13e81a94f24ccf0267cd17]: Commencement: Reg. 88 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Amalgamation of SCIOs[^key-527568262f6a4b0b2e51cf62591239a8]
+## 59. Amalgamation of SCIOs[^c-527568262f6a4b0b2e51cf62591239a8]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-527568262f6a4b0b2e51cf62591239a8]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2005/10/section/59) in force at 1.1.2012 by [S.S.I. 2011/20](https://www.legislation.gov.uk/ssi/2011/20), [art. 2(4)(d)](https://www.legislation.gov.uk/ssi/2011/20/article/2/4/d)
+[^c-527568262f6a4b0b2e51cf62591239a8]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2005/10/section/59) in force at 1.1.2012 by [S.S.I. 2011/20](https://www.legislation.gov.uk/ssi/2011/20), [art. 2(4)(d)](https://www.legislation.gov.uk/ssi/2011/20/article/2/4/d)

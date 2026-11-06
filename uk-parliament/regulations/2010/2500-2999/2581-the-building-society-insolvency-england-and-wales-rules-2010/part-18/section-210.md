@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 210. Application for costs[^key-424175ede814a4dd44dc29439a8fdc91]
+## 210. Application for costs[^c-424175ede814a4dd44dc29439a8fdc91]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-424175ede814a4dd44dc29439a8fdc91]: Commencement: Rule 210 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-424175ede814a4dd44dc29439a8fdc91]: Commencement: Rule 210 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00074]: Footnote: Paragraph (3A) was inserted by [S.I. 2009/642](https://www.legislation.gov.uk/uksi/2009/642).

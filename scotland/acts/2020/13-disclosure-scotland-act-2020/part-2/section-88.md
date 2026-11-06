@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-3fc4aa996517258c3f256bfceadcb05f] The PVG Act is amended as follows.
+(1)[^c-3fc4aa996517258c3f256bfceadcb05f] The PVG Act is amended as follows.
 
-(2)[^key-3fc4aa996517258c3f256bfceadcb05f] After section 37 insert—
+(2)[^c-3fc4aa996517258c3f256bfceadcb05f] After section 37 insert—
 
 > **37A. Offences outside Scotland**
 >
@@ -39,7 +39,7 @@ summary: ''
 
 .
 
-(3)[^key-7aa53fb8c9fe9183f4b69f139fc50a87] After section 45G (as inserted by section 73) insert—
+(3)[^c-7aa53fb8c9fe9183f4b69f139fc50a87] After section 45G (as inserted by section 73) insert—
 
 > **47H. Offences outside Scotland**
 >
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3fc4aa996517258c3f256bfceadcb05f]: Commencement: [S. 88(1)](https://www.legislation.gov.uk/asp/2020/13/section/88/1)[(2)](https://www.legislation.gov.uk/asp/2020/13/section/88/2) in force at 10.12.2021 by [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule)
+[^c-3fc4aa996517258c3f256bfceadcb05f]: Commencement: [S. 88(1)](https://www.legislation.gov.uk/asp/2020/13/section/88/1)[(2)](https://www.legislation.gov.uk/asp/2020/13/section/88/2) in force at 10.12.2021 by [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule)
 
-[^key-7aa53fb8c9fe9183f4b69f139fc50a87]: Commencement: [S. 88(3)](https://www.legislation.gov.uk/asp/2020/13/section/88/3) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-7aa53fb8c9fe9183f4b69f139fc50a87]: Commencement: [S. 88(3)](https://www.legislation.gov.uk/asp/2020/13/section/88/3) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

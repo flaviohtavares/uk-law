@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Foodstuffs Suitable for People Intolerant to Gluten (Wales) Regulations 2010 (revoked)[^key-a9a710efe594e1e2bc0b4211c94102f8]
+The Foodstuffs Suitable for People Intolerant to Gluten (Wales) Regulations 2010 (revoked)[^c-a9a710efe594e1e2bc0b4211c94102f8]
 
 Made
 
@@ -45,35 +45,35 @@ Coming into force
 
 1 January 2012
 
-[^key-a9a710efe594e1e2bc0b4211c94102f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9a710efe594e1e2bc0b4211c94102f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-a9a710efe594e1e2bc0b4211c94102f8]
+## 1. Title, commencement and application[^c-a9a710efe594e1e2bc0b4211c94102f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-a9a710efe594e1e2bc0b4211c94102f8]
+## 2. Interpretation[^c-a9a710efe594e1e2bc0b4211c94102f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences, penalties and execution and enforcement[^key-a9a710efe594e1e2bc0b4211c94102f8]
+## 3. Offences, penalties and execution and enforcement[^c-a9a710efe594e1e2bc0b4211c94102f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Application of the specified provisions[^key-a9a710efe594e1e2bc0b4211c94102f8]
+## 4. Application of the specified provisions[^c-a9a710efe594e1e2bc0b4211c94102f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various sections of the Food Safety Act 1990[^key-a9a710efe594e1e2bc0b4211c94102f8]
+## 5. Application of various sections of the Food Safety Act 1990[^c-a9a710efe594e1e2bc0b4211c94102f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a9a710efe594e1e2bc0b4211c94102f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9a710efe594e1e2bc0b4211c94102f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## THE SCHEDULE — Specified Provisions of Commission Regulation [(EC) No. 41/2009](https://www.legislation.gov.uk/european/regulation/2009/0041)[^key-a9a710efe594e1e2bc0b4211c94102f8]
+## THE SCHEDULE — Specified Provisions of Commission Regulation [(EC) No. 41/2009](https://www.legislation.gov.uk/european/regulation/2009/0041)[^c-a9a710efe594e1e2bc0b4211c94102f8]
 
 Regulations 2(1) and 3(1)
 
@@ -81,8 +81,8 @@ Regulations 2(1) and 3(1)
 
 **May not be in force at this date. Check the source.**
 
-[^key-a9a710efe594e1e2bc0b4211c94102f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9a710efe594e1e2bc0b4211c94102f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a9a710efe594e1e2bc0b4211c94102f8]: Textual amendment: Regulations revoked (20.7.2016) by [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/uksi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/664/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2016/664/regulation/3)
+[^c-a9a710efe594e1e2bc0b4211c94102f8]: Textual amendment: Regulations revoked (20.7.2016) by [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/uksi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/664/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2016/664/regulation/3)

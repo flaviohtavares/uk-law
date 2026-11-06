@@ -32,7 +32,7 @@ summary: ''
 
 Tribunals And Inquiries
 
-The First-tier Tribunal and Upper Tribunal (Chambers) (Amendment No. 3) Order 2009 (revoked)[^key-6f366648dbbb540edbe3131a2336e5a5]
+The First-tier Tribunal and Upper Tribunal (Chambers) (Amendment No. 3) Order 2009 (revoked)[^c-6f366648dbbb540edbe3131a2336e5a5]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 1st September 2009
 
-[^key-6f366648dbbb540edbe3131a2336e5a5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f366648dbbb540edbe3131a2336e5a5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6f366648dbbb540edbe3131a2336e5a5]
+## 1. Citation and commencement[^c-6f366648dbbb540edbe3131a2336e5a5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the First-tier Tribunal and Upper Tribunal (Chambers) Order 2008[^key-6f366648dbbb540edbe3131a2336e5a5]
+## 2. Amendments to the First-tier Tribunal and Upper Tribunal (Chambers) Order 2008[^c-6f366648dbbb540edbe3131a2336e5a5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-6f366648dbbb540edbe3131a2336e5a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6f366648dbbb540edbe3131a2336e5a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-6f366648dbbb540edbe3131a2336e5a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-6f366648dbbb540edbe3131a2336e5a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-6f366648dbbb540edbe3131a2336e5a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-6f366648dbbb540edbe3131a2336e5a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-6f366648dbbb540edbe3131a2336e5a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-6f366648dbbb540edbe3131a2336e5a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-6f366648dbbb540edbe3131a2336e5a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-6f366648dbbb540edbe3131a2336e5a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-6f366648dbbb540edbe3131a2336e5a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-6f366648dbbb540edbe3131a2336e5a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6f366648dbbb540edbe3131a2336e5a5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f366648dbbb540edbe3131a2336e5a5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6f366648dbbb540edbe3131a2336e5a5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f366648dbbb540edbe3131a2336e5a5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6f366648dbbb540edbe3131a2336e5a5]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1590) revoked (29.11.2010) by [The First-tier Tribunal and Upper Tribunal (Chambers) Order 2010 (S.I. 2010/2655)](https://www.legislation.gov.uk/uksi/2010/2655), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2655/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/2655/schedule)
+[^c-6f366648dbbb540edbe3131a2336e5a5]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1590) revoked (29.11.2010) by [The First-tier Tribunal and Upper Tribunal (Chambers) Order 2010 (S.I. 2010/2655)](https://www.legislation.gov.uk/uksi/2010/2655), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2655/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/2655/schedule)

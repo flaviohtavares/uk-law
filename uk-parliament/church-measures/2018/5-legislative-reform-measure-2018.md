@@ -224,7 +224,7 @@ A Measure passed by the General Synod of the Church of England to enable provisi
 - (a) as if the order had been made by a Minister of the Crown, and
 - (b) as if this Measure were an Act of Parliament providing for the instrument containing the order to be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 10. Sunset[^key-4ce658e309f9ee866a1c7c488675b361]
+### 10. Sunset[^c-4ce658e309f9ee866a1c7c488675b361]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -243,4 +243,4 @@ A Measure passed by the General Synod of the Church of England to enable provisi
 
 ## Annotations
 
-[^key-4ce658e309f9ee866a1c7c488675b361]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukcm/2018/5/section/10) repealed (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 2(1)](https://www.legislation.gov.uk/ukcm/2024/1/section/2/1), [22(2)(b)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/b)
+[^c-4ce658e309f9ee866a1c7c488675b361]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukcm/2018/5/section/10) repealed (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 2(1)](https://www.legislation.gov.uk/ukcm/2024/1/section/2/1), [22(2)(b)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/b)

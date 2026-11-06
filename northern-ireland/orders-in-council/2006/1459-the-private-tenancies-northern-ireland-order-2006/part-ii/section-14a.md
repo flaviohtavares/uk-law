@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14A. Length of notice to quit: by tenants[^key-c9de99b30759532695012825b5468446]
+## 14A. Length of notice to quit: by tenants[^c-c9de99b30759532695012825b5468446]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9de99b30759532695012825b5468446]: Textual amendment: [Art. 14A](https://www.legislation.gov.uk/nisi/2006/1459/article/14A) inserted (28.4.2022 for specified purposes) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 11(6)](https://www.legislation.gov.uk/nia/2022/20/section/11/6), [14(2)(g)(3)-(5)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/g) (with [s. 11(11)](https://www.legislation.gov.uk/nia/2022/20/section/11/11))
+[^c-c9de99b30759532695012825b5468446]: Textual amendment: [Art. 14A](https://www.legislation.gov.uk/nisi/2006/1459/article/14A) inserted (28.4.2022 for specified purposes) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 11(6)](https://www.legislation.gov.uk/nia/2022/20/section/11/6), [14(2)(g)(3)-(5)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/g) (with [s. 11(11)](https://www.legislation.gov.uk/nia/2022/20/section/11/11))

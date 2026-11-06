@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Overview[^key-27eddfc811e0e514b1aada16b6706b54]
+## 73. Overview[^c-27eddfc811e0e514b1aada16b6706b54]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ This Part makes provision about the assessment of devolved taxes including—
 
 ## Annotations
 
-[^key-27eddfc811e0e514b1aada16b6706b54]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2014/16/section/73) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-27eddfc811e0e514b1aada16b6706b54]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2014/16/section/73) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

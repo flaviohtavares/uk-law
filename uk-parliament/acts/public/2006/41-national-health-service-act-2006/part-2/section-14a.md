@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14A. General duties of Board in relation to clinical commissioning groups[^key-d504964dfc83cb183dafe3faf00dd2f6]
+## 14A. General duties of Board in relation to clinical commissioning groups[^c-d504964dfc83cb183dafe3faf00dd2f6]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d504964dfc83cb183dafe3faf00dd2f6]: Textual amendment: [Pt. 2 Ch. A2](https://www.legislation.gov.uk/ukpga/2006/41/part/2/chapter/A2) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 100](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/100); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [23](https://www.legislation.gov.uk/uksi/2022/734/regulation/23), [24](https://www.legislation.gov.uk/uksi/2022/734/regulation/24), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-d504964dfc83cb183dafe3faf00dd2f6]: Textual amendment: [Pt. 2 Ch. A2](https://www.legislation.gov.uk/ukpga/2006/41/part/2/chapter/A2) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 100](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/100); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [23](https://www.legislation.gov.uk/uksi/2022/734/regulation/23), [24](https://www.legislation.gov.uk/uksi/2022/734/regulation/24), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

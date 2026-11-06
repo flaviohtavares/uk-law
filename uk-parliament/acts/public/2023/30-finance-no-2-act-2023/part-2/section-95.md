@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Defaults in respect of denatured alcohol: supply and use of denatured alcohol[^M_I_f00ca0ed-3652-466a-ff3e-3830b33e3bdd][^key-971115cfaa4bf9824498338162ca3b15]
+## 95. Defaults in respect of denatured alcohol: supply and use of denatured alcohol[^M_I_f00ca0ed-3652-466a-ff3e-3830b33e3bdd][^c-971115cfaa4bf9824498338162ca3b15]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ is treated as being a supply in contravention of those regulations.
 
 [^M_I_f00ca0ed-3652-466a-ff3e-3830b33e3bdd]: Commencement: S. 95 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-971115cfaa4bf9824498338162ca3b15]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2023/30/section/95) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-971115cfaa4bf9824498338162ca3b15]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2023/30/section/95) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

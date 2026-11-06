@@ -43,7 +43,7 @@ a further test certificate is issued as respects the same vehicle, the further c
 
 and any date of expiry contained in a test certificate shall be deemed to have been entered in accordance with regulations under section 45 of this Act unless the contrary is proved.
 
-(4)[^key-8956bb763670a3f44f943e6faa6e7e08] The Secretary of State may by regulations make provision for and in connection with—
+(4)[^c-8956bb763670a3f44f943e6faa6e7e08] The Secretary of State may by regulations make provision for and in connection with—
 
 - (a) the issue of a certificate of temporary exemption in respect of a public service vehicle adapted to carry more than eight passengers, exempting that vehicle from the provisions of section 47(1) of this Act for such period as may be specified in the certificate;
 - (b) the revocation of such a certificate.
@@ -65,7 +65,7 @@ and any date of expiry contained in a test certificate shall be deemed to have b
 
 [^c13974361]: Textual amendment: S. 48(1A) inserted (1.7.1996) by [S.I. 1996/1700](https://www.legislation.gov.uk/uksi/1996/1700), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/1700/article/2/2)
 
-[^key-8956bb763670a3f44f943e6faa6e7e08]: Textual amendment: S. 48(4)(4A) substituted for s. 48(4) (22.7.2020) by [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2020/16/section/13/2), [25(2)(b)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/2/b)
+[^c-8956bb763670a3f44f943e6faa6e7e08]: Textual amendment: S. 48(4)(4A) substituted for s. 48(4) (22.7.2020) by [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2020/16/section/13/2), [25(2)(b)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/2/b)
 
 [^c13974371]: Textual amendment: Words in s. 48(5)(a) inserted (1.7.1996) by [S.I. 1996/1700](https://www.legislation.gov.uk/uksi/1996/1700), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/1996/1700/article/2/3/a)
 

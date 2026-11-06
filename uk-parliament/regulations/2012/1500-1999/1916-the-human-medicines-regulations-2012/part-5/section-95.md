@@ -22,15 +22,15 @@ summary: ''
 
 A person is guilty of an offence if, in the course of an application for the grant, renewal or variation of a marketing authorisation for a relevant medicinal product, the person—
 
-- (a) fails to provide the licensing authority with any information that is relevant to the evaluation of the safety, quality or efficacy of the product; or[^key-ae7ac3143e36149a598cf21db65e010c]
+- (a) fails to provide the licensing authority with any information that is relevant to the evaluation of the safety, quality or efficacy of the product; or[^c-ae7ac3143e36149a598cf21db65e010c]
 - (b) provides to the licensing authority any information that is relevant to the evaluation of the safety, quality or efficacy of the product but that is false or misleading in a material particular;
-- (c)[^key-2508058f894b7542ea363ce4fffb077c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-40d37c679f6702658562a8742a50d5b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-2508058f894b7542ea363ce4fffb077c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-40d37c679f6702658562a8742a50d5b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ae7ac3143e36149a598cf21db65e010c]: Textual amendment: Word in [reg. 95](https://www.legislation.gov.uk/uksi/2012/1916/regulation/95) inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [67(a)](https://www.legislation.gov.uk/uksi/2024/832/regulation/67/a)
+[^c-ae7ac3143e36149a598cf21db65e010c]: Textual amendment: Word in [reg. 95](https://www.legislation.gov.uk/uksi/2012/1916/regulation/95) inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [67(a)](https://www.legislation.gov.uk/uksi/2024/832/regulation/67/a)
 
-[^key-2508058f894b7542ea363ce4fffb077c]: Textual amendment: [Reg. 95(c)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/95/c) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [67(b)](https://www.legislation.gov.uk/uksi/2024/832/regulation/67/b)
+[^c-2508058f894b7542ea363ce4fffb077c]: Textual amendment: [Reg. 95(c)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/95/c) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [67(b)](https://www.legislation.gov.uk/uksi/2024/832/regulation/67/b)
 
-[^key-40d37c679f6702658562a8742a50d5b3]: Textual amendment: [Reg. 95(d)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/95/d) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [67(b)](https://www.legislation.gov.uk/uksi/2024/832/regulation/67/b)
+[^c-40d37c679f6702658562a8742a50d5b3]: Textual amendment: [Reg. 95(d)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/95/d) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [67(b)](https://www.legislation.gov.uk/uksi/2024/832/regulation/67/b)

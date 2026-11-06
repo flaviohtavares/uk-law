@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Rate of insurance premium tax.[^key-b70fb4cf317f10199f3ab92f85c407df]
+## 125. Rate of insurance premium tax.[^c-b70fb4cf317f10199f3ab92f85c407df]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b70fb4cf317f10199f3ab92f85c407df]: Textual amendment: S. 125 omitted (with effect in accordance with s. 4(2) of the amending Act) by virtue of [Finance (No. 2) Act 2010 (c. 31)](https://www.legislation.gov.uk/ukpga/2010/31), [s. 4(4)](https://www.legislation.gov.uk/ukpga/2010/31/section/4/4)
+[^c-b70fb4cf317f10199f3ab92f85c407df]: Textual amendment: S. 125 omitted (with effect in accordance with s. 4(2) of the amending Act) by virtue of [Finance (No. 2) Act 2010 (c. 31)](https://www.legislation.gov.uk/ukpga/2010/31), [s. 4(4)](https://www.legislation.gov.uk/ukpga/2010/31/section/4/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28A. Proposals for establishment of community, foundation or voluntary school maintained by English LEA[^key-1cb193f1f0147472a4a37d65dbff2718]
+## 28A. Proposals for establishment of community, foundation or voluntary school maintained by English LEA[^c-1cb193f1f0147472a4a37d65dbff2718]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1cb193f1f0147472a4a37d65dbff2718]: Textual amendment: S. 28A repealed (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2006/40/schedule/3/paragraph/19), [Sch. 18 Pt. 3](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/3) (with savings in [The School Organisation (Transitional Provisions) (England) Regulations 2007 (S.I. 2007/1355)](https://www.legislation.gov.uk/uksi/2007/1355), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1355/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2007/1355/regulation/3/5)); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(o)(q)](https://www.legislation.gov.uk/uksi/2007/935/article/7/o/q)
+[^c-1cb193f1f0147472a4a37d65dbff2718]: Textual amendment: S. 28A repealed (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2006/40/schedule/3/paragraph/19), [Sch. 18 Pt. 3](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/3) (with savings in [The School Organisation (Transitional Provisions) (England) Regulations 2007 (S.I. 2007/1355)](https://www.legislation.gov.uk/uksi/2007/1355), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1355/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2007/1355/regulation/3/5)); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(o)(q)](https://www.legislation.gov.uk/uksi/2007/935/article/7/o/q)

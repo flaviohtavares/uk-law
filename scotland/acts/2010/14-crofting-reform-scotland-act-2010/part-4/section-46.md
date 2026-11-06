@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Enlargement of crofts[^key-c3a0d37ceb2280c87be5b67a511b8cee][^key-7ed017fce8f24defedccef466dcfaced][^key-2b73f70695ac989578566d3578dd0388]
+## 46. Enlargement of crofts[^c-c3a0d37ceb2280c87be5b67a511b8cee][^c-7ed017fce8f24defedccef466dcfaced][^c-2b73f70695ac989578566d3578dd0388]
 
 *Extent: S*
 
@@ -61,8 +61,8 @@ For section 4 of the 1993 Act (enlargement of crofts) substitute—
 
 ## Annotations
 
-[^key-c3a0d37ceb2280c87be5b67a511b8cee]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2010/14/section/46) in force at 1.10.2011 for specified purposes by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [arts. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4), [5(3)](https://www.legislation.gov.uk/ssi/2011/334/article/5/3))
+[^c-c3a0d37ceb2280c87be5b67a511b8cee]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2010/14/section/46) in force at 1.10.2011 for specified purposes by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [arts. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4), [5(3)](https://www.legislation.gov.uk/ssi/2011/334/article/5/3))
 
-[^key-7ed017fce8f24defedccef466dcfaced]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2010/14/section/46) in force at 30.11.2012 for specified purposes by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2) (with [Sch. 2 para. 1(k)(l)](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/1/k/l))
+[^c-7ed017fce8f24defedccef466dcfaced]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2010/14/section/46) in force at 30.11.2012 for specified purposes by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2) (with [Sch. 2 para. 1(k)(l)](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/1/k/l))
 
-[^key-2b73f70695ac989578566d3578dd0388]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2010/14/section/46) in force at 30.11.2013 in so far as not already in force by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/c) (with [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/7))
+[^c-2b73f70695ac989578566d3578dd0388]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2010/14/section/46) in force at 30.11.2013 in so far as not already in force by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/c) (with [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/7))

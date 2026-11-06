@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Removal directions: officers[^key-caf21a110d22c287a99589d71cbc7592][^key-05eef871c8c4b903b2f247e26570fa2c][^key-93417ad5c2bf68d4209c8f47e1b003c7]
+## 40. Removal directions: officers[^c-caf21a110d22c287a99589d71cbc7592][^c-05eef871c8c4b903b2f247e26570fa2c][^c-93417ad5c2bf68d4209c8f47e1b003c7]
 
 *Extent: E+W*
 
@@ -52,8 +52,8 @@ including information about the possible consequences under Part 8 of not comply
 
 ## Annotations
 
-[^key-caf21a110d22c287a99589d71cbc7592]: Commencement: S. 40 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-caf21a110d22c287a99589d71cbc7592]: Commencement: S. 40 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-05eef871c8c4b903b2f247e26570fa2c]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2025/21/section/40) in force at 12.12.2025 for specified purposes by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(a)(ix)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/a/ix)
+[^c-05eef871c8c4b903b2f247e26570fa2c]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2025/21/section/40) in force at 12.12.2025 for specified purposes by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(a)(ix)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/a/ix)
 
-[^key-93417ad5c2bf68d4209c8f47e1b003c7]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2025/21/section/40) in force at 5.5.2026 in so far as not already in force by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(a)(x)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/a/x)
+[^c-93417ad5c2bf68d4209c8f47e1b003c7]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2025/21/section/40) in force at 5.5.2026 in so far as not already in force by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(a)(x)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/a/x)

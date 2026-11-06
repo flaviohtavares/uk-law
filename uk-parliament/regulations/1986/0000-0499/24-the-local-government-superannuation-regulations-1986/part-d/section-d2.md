@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## D2. Qualifying service[^key-2f5b990104aba0a59c04693ddd292226]
+## D2. Qualifying service[^c-2f5b990104aba0a59c04693ddd292226]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f5b990104aba0a59c04693ddd292226]: Commencement: [Reg. D2](https://www.legislation.gov.uk/uksi/1986/24/regulation/D2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-2f5b990104aba0a59c04693ddd292226]: Commencement: [Reg. D2](https://www.legislation.gov.uk/uksi/1986/24/regulation/D2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

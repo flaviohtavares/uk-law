@@ -31,7 +31,7 @@ summary: ''
 
 ENERGY CONSERVATION, WALES
 
-The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2010 (revoked)[^key-dd0d7657f5452e889113c9bdc2d0bc2b]
+The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2010 (revoked)[^c-dd0d7657f5452e889113c9bdc2d0bc2b]
 
 Made
 
@@ -45,48 +45,48 @@ Coming into force
 
 22 March 2010
 
-[^key-dd0d7657f5452e889113c9bdc2d0bc2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd0d7657f5452e889113c9bdc2d0bc2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title commencement, application and interpretation[^key-dd0d7657f5452e889113c9bdc2d0bc2b]
+## 1. Title commencement, application and interpretation[^c-dd0d7657f5452e889113c9bdc2d0bc2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-dd0d7657f5452e889113c9bdc2d0bc2b]
+## 2. Amendment of the principal Regulations[^c-dd0d7657f5452e889113c9bdc2d0bc2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 2 (interpretation)[^key-dd0d7657f5452e889113c9bdc2d0bc2b]
+## 3. Amendment of regulation 2 (interpretation)[^c-dd0d7657f5452e889113c9bdc2d0bc2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Addition of new regulation 2A[^key-dd0d7657f5452e889113c9bdc2d0bc2b]
+## 4. Addition of new regulation 2A[^c-dd0d7657f5452e889113c9bdc2d0bc2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 5 (persons who may apply for a grant)[^key-dd0d7657f5452e889113c9bdc2d0bc2b]
+## 5. Amendment of regulation 5 (persons who may apply for a grant)[^c-dd0d7657f5452e889113c9bdc2d0bc2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 6 (purposes for which a grant may be approved)[^key-dd0d7657f5452e889113c9bdc2d0bc2b]
+## 6. Amendment of regulation 6 (purposes for which a grant may be approved)[^c-dd0d7657f5452e889113c9bdc2d0bc2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of regulation 7 (maximum amount of grant)[^key-dd0d7657f5452e889113c9bdc2d0bc2b]
+## 7. Amendment of regulation 7 (maximum amount of grant)[^c-dd0d7657f5452e889113c9bdc2d0bc2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Transitional provision[^key-dd0d7657f5452e889113c9bdc2d0bc2b]
+## 8. Transitional provision[^c-dd0d7657f5452e889113c9bdc2d0bc2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd0d7657f5452e889113c9bdc2d0bc2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd0d7657f5452e889113c9bdc2d0bc2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-dd0d7657f5452e889113c9bdc2d0bc2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd0d7657f5452e889113c9bdc2d0bc2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dd0d7657f5452e889113c9bdc2d0bc2b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2010/453) revoked (1.4.2011) by [The Home Energy Efficiency Schemes (Wales) Regulations 2011 (S.I. 2011/656)](https://www.legislation.gov.uk/wsi/2011/656), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/656/regulation/1/1), [3(1)(b)](https://www.legislation.gov.uk/wsi/2011/656/regulation/3/1/b)
+[^c-dd0d7657f5452e889113c9bdc2d0bc2b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2010/453) revoked (1.4.2011) by [The Home Energy Efficiency Schemes (Wales) Regulations 2011 (S.I. 2011/656)](https://www.legislation.gov.uk/wsi/2011/656), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/656/regulation/1/1), [3(1)(b)](https://www.legislation.gov.uk/wsi/2011/656/regulation/3/1/b)

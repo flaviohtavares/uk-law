@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Power to repeal references to “local education authority” and “children's services authority” etc[^key-2db72f7976066b79e80d3a844d2bf94c]
+## 162. Power to repeal references to “local education authority” and “children's services authority” etc[^c-2db72f7976066b79e80d3a844d2bf94c]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,10 +50,10 @@ summary: ''
 
 *Extent: E+W*
 
-(5A)[^key-c39bc85f2caa9a333652beaea06b4448] The Welsh Ministers may by order—
+(5A)[^c-c39bc85f2caa9a333652beaea06b4448] The Welsh Ministers may by order—
 
 - (a) make such provision as appears to them to be appropriate for the purpose of—
-  - (i) repealing any reference in a Measure of the National Assembly for Wales to a local authority[^key-0aa6458f485369372f2a3a505f8ada5f] (however expressed), and
+  - (i) repealing any reference in a Measure of the National Assembly for Wales to a local authority[^c-0aa6458f485369372f2a3a505f8ada5f] (however expressed), and
   - (ii) replacing it, where it appears to them to be appropriate, with a reference (however expressed) to a Welsh local authority;
 - (b) make such provision as appears to them to be appropriate in consequence of or in connection with any provision made by virtue of paragraph (a).
 
@@ -75,14 +75,14 @@ summary: ''
   - (b) any provision of subordinate legislation, including any such legislation made under, or after the passing of, this Act;
 - “**Welsh local authority**” means a county council or county borough council in Wales.
 
-(7)[^key-6206c537f17b9f035d74279f59b9a7b5] In interpreting paragraphs (a) to (e) of subsection (2) for the purposes of subsection (5B), “statutory provision” also includes any provision of a Measure of the National Assembly for Wales, including any Measure passed after the Education (Wales) Measure 2009.
+(7)[^c-6206c537f17b9f035d74279f59b9a7b5] In interpreting paragraphs (a) to (e) of subsection (2) for the purposes of subsection (5B), “statutory provision” also includes any provision of a Measure of the National Assembly for Wales, including any Measure passed after the Education (Wales) Measure 2009.
 
 ## Annotations
 
-[^key-2db72f7976066b79e80d3a844d2bf94c]: Commencement: S. 162 in force at 8.1.2007, see s. 188(2)
+[^c-2db72f7976066b79e80d3a844d2bf94c]: Commencement: S. 162 in force at 8.1.2007, see s. 188(2)
 
-[^key-c39bc85f2caa9a333652beaea06b4448]: Textual amendment: S. 162(5A)(5B) substituted for s. 162(5A) (E.W.) (9.12.2009) by [Education (Wales) Measure 2009 (nawm 5)](https://www.legislation.gov.uk/mwa/2009/5), [s. 26(2)](https://www.legislation.gov.uk/mwa/2009/5/section/26/2), [Sch. para. 11](https://www.legislation.gov.uk/mwa/2009/5/schedule/paragraph/11)
+[^c-c39bc85f2caa9a333652beaea06b4448]: Textual amendment: S. 162(5A)(5B) substituted for s. 162(5A) (E.W.) (9.12.2009) by [Education (Wales) Measure 2009 (nawm 5)](https://www.legislation.gov.uk/mwa/2009/5), [s. 26(2)](https://www.legislation.gov.uk/mwa/2009/5/section/26/2), [Sch. para. 11](https://www.legislation.gov.uk/mwa/2009/5/schedule/paragraph/11)
 
-[^key-0aa6458f485369372f2a3a505f8ada5f]: Annotation text not found in the source document.
+[^c-0aa6458f485369372f2a3a505f8ada5f]: Annotation text not found in the source document.
 
-[^key-6206c537f17b9f035d74279f59b9a7b5]: Textual amendment: S. 162(7) inserted (E.W.) (9.12.2009) by [Education (Wales) Measure 2009 (nawm 5)](https://www.legislation.gov.uk/mwa/2009/5), [s. 26(2)](https://www.legislation.gov.uk/mwa/2009/5/section/26/2), [Sch. para. 12](https://www.legislation.gov.uk/mwa/2009/5/schedule/paragraph/12)
+[^c-6206c537f17b9f035d74279f59b9a7b5]: Textual amendment: S. 162(7) inserted (E.W.) (9.12.2009) by [Education (Wales) Measure 2009 (nawm 5)](https://www.legislation.gov.uk/mwa/2009/5), [s. 26(2)](https://www.legislation.gov.uk/mwa/2009/5/section/26/2), [Sch. para. 12](https://www.legislation.gov.uk/mwa/2009/5/schedule/paragraph/12)

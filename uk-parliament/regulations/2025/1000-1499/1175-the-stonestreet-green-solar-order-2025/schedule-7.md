@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 7 — TRAFFIC REGULATION MEASURES[^key-7077a38f7b21015372c6d2e5ed20f3d9]
+## SCHEDULE 7 — TRAFFIC REGULATION MEASURES[^c-7077a38f7b21015372c6d2e5ed20f3d9]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ Article 16
 
 ## Annotations
 
-[^key-7077a38f7b21015372c6d2e5ed20f3d9]: Commencement: Sch. 7 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-7077a38f7b21015372c6d2e5ed20f3d9]: Commencement: Sch. 7 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)

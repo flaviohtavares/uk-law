@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Food (Figs, Hazelnuts and Pistachios from Turkey) (Emergency Control) (Scotland) Regulations 2002 (revoked)[^key-6603f0446594a6334fea55bfb0a77254]
+The Food (Figs, Hazelnuts and Pistachios from Turkey) (Emergency Control) (Scotland) Regulations 2002 (revoked)[^c-6603f0446594a6334fea55bfb0a77254]
 
 Made
 
@@ -43,36 +43,36 @@ Laid before the Scottish Parliament
 
 Coming into force in accordance with regulation 1(1)
 
-[^key-6603f0446594a6334fea55bfb0a77254]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6603f0446594a6334fea55bfb0a77254]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-6603f0446594a6334fea55bfb0a77254]
+## 1. Citation, commencement and extent[^c-6603f0446594a6334fea55bfb0a77254]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-6603f0446594a6334fea55bfb0a77254]
+## 2. Interpretation[^c-6603f0446594a6334fea55bfb0a77254]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition of import[^key-6603f0446594a6334fea55bfb0a77254]
+## 3. Prohibition of import[^c-6603f0446594a6334fea55bfb0a77254]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-6603f0446594a6334fea55bfb0a77254]
+## 4. Enforcement[^c-6603f0446594a6334fea55bfb0a77254]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various provisions of the Act[^key-6603f0446594a6334fea55bfb0a77254]
+## 5. Application of various provisions of the Act[^c-6603f0446594a6334fea55bfb0a77254]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6603f0446594a6334fea55bfb0a77254]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6603f0446594a6334fea55bfb0a77254]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6603f0446594a6334fea55bfb0a77254]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6603f0446594a6334fea55bfb0a77254]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6603f0446594a6334fea55bfb0a77254]: Textual amendment: Regulations revoked (13.9.2002) by [The Food (Figs, Hazelnuts and Pistachios from Turkey) (Emergency Control) (Scotland) (No. 2) Regulations 2002 (S.S.I. 2002/424)](https://www.legislation.gov.uk/ssi/2002/424), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/424/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2002/424/regulation/7)
+[^c-6603f0446594a6334fea55bfb0a77254]: Textual amendment: Regulations revoked (13.9.2002) by [The Food (Figs, Hazelnuts and Pistachios from Turkey) (Emergency Control) (Scotland) (No. 2) Regulations 2002 (S.S.I. 2002/424)](https://www.legislation.gov.uk/ssi/2002/424), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/424/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2002/424/regulation/7)

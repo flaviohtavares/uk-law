@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 54. Plants, plant products and other objects subject to special requirements for GB pest-free areas[^key-170f63cca9de5a7264c8301b07fb8c1c]
+## Article 54. Plants, plant products and other objects subject to special requirements for GB pest-free areas[^c-170f63cca9de5a7264c8301b07fb8c1c]
 
 *Extent: E+W+S+N.I.*
 
-1.[^key-9cb62183b2e083d14e52ea3960855a78] Plants, plant products or other objects of a description specified in any entry in column (1) of the table in Annex 10 to the Phytosanitary Conditions Regulation, whether originating in a third country, Great Britain or a CD territory, may only be introduced into, or moved within, a GB pest-free area listed in the corresponding entry in column (3) of the table if the special requirements specified in the corresponding entry in column (2) of the table are fulfilled.
+1.[^c-9cb62183b2e083d14e52ea3960855a78] Plants, plant products or other objects of a description specified in any entry in column (1) of the table in Annex 10 to the Phytosanitary Conditions Regulation, whether originating in a third country, Great Britain or a CD territory, may only be introduced into, or moved within, a GB pest-free area listed in the corresponding entry in column (3) of the table if the special requirements specified in the corresponding entry in column (2) of the table are fulfilled.
 
-2.[^key-eb403fac8ed77eb06fd7782d0377466c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-eb403fac8ed77eb06fd7782d0377466c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-3.[^key-57de8fa1f9a14099739e9d87938aef8a] The appropriate authority may by regulations amend Annex 10 to the Phytosanitary Conditions Regulation where the amendment is appropriate in the light of a risk assessment in relation to a plant, plant product or other object.
+3.[^c-57de8fa1f9a14099739e9d87938aef8a] The appropriate authority may by regulations amend Annex 10 to the Phytosanitary Conditions Regulation where the amendment is appropriate in the light of a risk assessment in relation to a plant, plant product or other object.
 
 3A. For the purposes of paragraph 3, an amendment is appropriate if, on the basis of the risk assessment, it is concluded:
 
@@ -33,16 +33,16 @@ summary: ''
 
 3B. A plant, plant product or other object may only be regarded as posing a pest risk of an unacceptable level for the purposes of paragraph 3A if the risk assessment shows that the plant, plant product or other object may host a PFA quarantine pest and, in determining the acceptability of the level of pest risk to the GB pest-free area which relates to the PFA quarantine pest and the measures to reduce that risk to an acceptable level, the risk assessment was carried out in accordance with the principles set out in Section 2 of Annex 2.
 
-4.[^key-6af8cf07dfe941a0e0a5f0e7493feeea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-6af8cf07dfe941a0e0a5f0e7493feeea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-170f63cca9de5a7264c8301b07fb8c1c]: Textual amendment: Words in Art. 54 heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(18)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/18/a) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-170f63cca9de5a7264c8301b07fb8c1c]: Textual amendment: Words in Art. 54 heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(18)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/18/a) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-9cb62183b2e083d14e52ea3960855a78]: Textual amendment: Art. 54(1) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(18)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/18/b) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-9cb62183b2e083d14e52ea3960855a78]: Textual amendment: Art. 54(1) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(18)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/18/b) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-eb403fac8ed77eb06fd7782d0377466c]: Textual amendment: Art. 54(2) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(18)(c)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/18/c) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-eb403fac8ed77eb06fd7782d0377466c]: Textual amendment: Art. 54(2) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(18)(c)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/18/c) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-57de8fa1f9a14099739e9d87938aef8a]: Textual amendment: Art. 54(3)-(3B) substituted for Art. 54(3) (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(18)(d)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/18/d) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-57de8fa1f9a14099739e9d87938aef8a]: Textual amendment: Art. 54(3)-(3B) substituted for Art. 54(3) (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(18)(d)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/18/d) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-6af8cf07dfe941a0e0a5f0e7493feeea]: Textual amendment: Art. 54(4) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(18)(e)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/18/e) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-6af8cf07dfe941a0e0a5f0e7493feeea]: Textual amendment: Art. 54(4) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(18)(e)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/18/e) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

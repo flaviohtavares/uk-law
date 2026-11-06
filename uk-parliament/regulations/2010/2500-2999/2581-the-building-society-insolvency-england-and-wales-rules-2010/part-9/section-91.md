@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91. Meeting of creditors to remove building society liquidator[^key-61aff106f7bf6775c100f779e452cf5d]
+## 91. Meeting of creditors to remove building society liquidator[^c-61aff106f7bf6775c100f779e452cf5d]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-61aff106f7bf6775c100f779e452cf5d]: Commencement: Rule 91 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-61aff106f7bf6775c100f779e452cf5d]: Commencement: Rule 91 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^M_F_7232384c-0ea1-45ab-a4ac-6780835287f8]: Textual amendment: Words in Rules substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 191(5)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/191/5)

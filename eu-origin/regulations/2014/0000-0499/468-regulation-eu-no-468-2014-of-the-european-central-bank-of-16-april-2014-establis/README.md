@@ -35,11 +35,11 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 
 (ECB/2014/17) (revoked)
 
-[^key-6305411242dfc890a5c9a84f2117c08b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6305411242dfc890a5c9a84f2117c08b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — GENERAL PROVISIONS[^key-6305411242dfc890a5c9a84f2117c08b]
+### PART I — GENERAL PROVISIONS[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,19 +48,19 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 1 — Subject matter and purpose](section-article-1.md)
 - [Section Article 2 — Definitions](section-article-2.md)
 
-### PART II — ORGANISATION OF THE SSM[^key-6305411242dfc890a5c9a84f2117c08b]
+### PART II — ORGANISATION OF THE SSM[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### TITLE 1 — STRUCTURES FOR THE SUPERVISION OF SIGNIFICANT AND LESS SIGNIFICANT SUPERVISED ENTITIES[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 1 — STRUCTURES FOR THE SUPERVISION OF SIGNIFICANT AND LESS SIGNIFICANT SUPERVISED ENTITIES[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### CHAPTER 1 — Supervision of significant supervised entities[^key-6305411242dfc890a5c9a84f2117c08b]
+##### CHAPTER 1 — Supervision of significant supervised entities[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,7 +71,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 5 — Involvement of staff members from NCBs of participating Member States](section-article-5.md)
 - [Section Article 6 — JST coordinator and sub-coordinators](section-article-6.md)
 
-##### CHAPTER 2 — Supervision of less significant supervised entities[^key-6305411242dfc890a5c9a84f2117c08b]
+##### CHAPTER 2 — Supervision of less significant supervised entities[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -79,7 +79,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 
 - [Section Article 7 — Involvement of staff members from other NCAs in an NCA’s supervisory team](section-article-7.md)
 
-#### TITLE 2 — SUPERVISION ON A CONSOLIDATED BASIS AND PARTICIPATION OF THE ECB AND NCAS IN COLLEGES OF SUPERVISORS[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 2 — SUPERVISION ON A CONSOLIDATED BASIS AND PARTICIPATION OF THE ECB AND NCAS IN COLLEGES OF SUPERVISORS[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -89,13 +89,13 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 9 — The ECB as chair of a college of supervisors](section-article-9.md)
 - [Section Article 10 — The ECB and NCAs as members of a college of supervisors](section-article-10.md)
 
-#### TITLE 3 — PROCEDURES FOR THE RIGHT OF ESTABLISHMENT AND FREEDOM TO PROVIDE SERVICES[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 3 — PROCEDURES FOR THE RIGHT OF ESTABLISHMENT AND FREEDOM TO PROVIDE SERVICES[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### CHAPTER 1 — Procedures for the right of establishment and freedom to provide services within the SSM[^key-6305411242dfc890a5c9a84f2117c08b]
+##### CHAPTER 1 — Procedures for the right of establishment and freedom to provide services within the SSM[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -104,7 +104,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 11 — Right of establishment of credit institutions within the SSM](section-article-11.md)
 - [Section Article 12 — Exercise of the freedom to provide services by credit institutions within the SSM](section-article-12.md)
 
-##### CHAPTER 2 — Procedures for the right of establishment and freedom of credit institutions established in non-participating Member States to provide services within the SSM[^key-6305411242dfc890a5c9a84f2117c08b]
+##### CHAPTER 2 — Procedures for the right of establishment and freedom of credit institutions established in non-participating Member States to provide services within the SSM[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -115,7 +115,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 15 — Notification of the exercise of the freedom to provide services within the SSM by credit institutions established in non-participating Member States](section-article-15.md)
 - [Section Article 16 — Competent authority of the host Member State for freedom to provide services](section-article-16.md)
 
-##### CHAPTER 3 — Procedures for the right of establishment and freedom to provide services in relation to non-participating Member States[^key-6305411242dfc890a5c9a84f2117c08b]
+##### CHAPTER 3 — Procedures for the right of establishment and freedom to provide services in relation to non-participating Member States[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -123,7 +123,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 
 - [Section Article 17 — Right of establishment and exercise of the freedom to provide services in relation to non-participating Member States](section-article-17.md)
 
-#### TITLE 4 — SUPPLEMENTARY SUPERVISION OF FINANCIAL CONGLOMERATES[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 4 — SUPPLEMENTARY SUPERVISION OF FINANCIAL CONGLOMERATES[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -131,13 +131,13 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 
 - [Section Article 18 — Coordinator](section-article-18.md)
 
-### PART III — GENERAL PROVISIONS APPLYING TO THE OPERATION OF THE SSM[^key-6305411242dfc890a5c9a84f2117c08b]
+### PART III — GENERAL PROVISIONS APPLYING TO THE OPERATION OF THE SSM[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### TITLE 1 — PRINCIPLES AND OBLIGATIONS[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 1 — PRINCIPLES AND OBLIGATIONS[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -150,13 +150,13 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 23 — Language regime between the ECB and NCAs](section-article-23.md)
 - [Section Article 24 — Language regime between the ECB and legal or natural persons, including supervised entities](section-article-24.md)
 
-#### TITLE 2 — GENERAL PROVISIONS RELATING TO DUE PROCESS FOR ADOPTING ECB SUPERVISORY DECISIONS[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 2 — GENERAL PROVISIONS RELATING TO DUE PROCESS FOR ADOPTING ECB SUPERVISORY DECISIONS[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### CHAPTER 1 — ECB supervisory procedures[^key-6305411242dfc890a5c9a84f2117c08b]
+##### CHAPTER 1 — ECB supervisory procedures[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -171,7 +171,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 31 — Right to be heard](section-article-31.md)
 - [Section Article 32 — Access to files in an ECB supervisory procedure](section-article-32.md)
 
-##### CHAPTER 2 — ECB supervisory decisions[^key-6305411242dfc890a5c9a84f2117c08b]
+##### CHAPTER 2 — ECB supervisory decisions[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -181,7 +181,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 34 — Suspensory effect](section-article-34.md)
 - [Section Article 35 — Notification of ECB supervisory decisions](section-article-35.md)
 
-#### TITLE 3 — REPORTING OF BREACHES[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 3 — REPORTING OF BREACHES[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -191,13 +191,13 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 37 — Appropriate protection for reports of breaches](section-article-37.md)
 - [Section Article 38 — Procedures for the follow-up of reports](section-article-38.md)
 
-### PART IV — DETERMINING THE STATUS OF A SUPERVISED ENTITY AS SIGNIFICANT OR LESS SIGNIFICANT[^key-6305411242dfc890a5c9a84f2117c08b]
+### PART IV — DETERMINING THE STATUS OF A SUPERVISED ENTITY AS SIGNIFICANT OR LESS SIGNIFICANT[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### TITLE 1 — GENERAL PROVISIONS RELATING TO THE CLASSIFICATION AS SIGNIFICANT OR LESS SIGNIFICANT[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 1 — GENERAL PROVISIONS RELATING TO THE CLASSIFICATION AS SIGNIFICANT OR LESS SIGNIFICANT[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -208,13 +208,13 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 41 — Specific provisions in respect of branches of credit institutions established in non-participating Member States](section-article-41.md)
 - [Section Article 42 — Specific provisions in respect of subsidiaries of credit institutions established in non-participating Member States and third countries](section-article-42.md)
 
-#### TITLE 2 — PROCEDURE FOR CLASSIFYING SUPERVISED ENTITIES AS SIGNIFICANT SUPERVISED ENTITIES[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 2 — PROCEDURE FOR CLASSIFYING SUPERVISED ENTITIES AS SIGNIFICANT SUPERVISED ENTITIES[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### CHAPTER 1 — Classifying a supervised entity as significant[^key-6305411242dfc890a5c9a84f2117c08b]
+##### CHAPTER 1 — Classifying a supervised entity as significant[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -223,7 +223,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 43 — Review of the status of a supervised entity](section-article-43.md)
 - [Section Article 44 — Procedure to be applied in determining the significance of a supervised entity](section-article-44.md)
 
-##### CHAPTER 2 — Beginning and end of direct supervision by the ECB[^key-6305411242dfc890a5c9a84f2117c08b]
+##### CHAPTER 2 — Beginning and end of direct supervision by the ECB[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -234,7 +234,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 47 — Reasons for ending direct supervision by the ECB](section-article-47.md)
 - [Section Article 48 — Pending procedures](section-article-48.md)
 
-##### CHAPTER 3 — List of supervised entities[^key-6305411242dfc890a5c9a84f2117c08b]
+##### CHAPTER 3 — List of supervised entities[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -242,7 +242,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 
 - [Section Article 49 — Publication](section-article-49.md)
 
-#### TITLE 3 — DETERMINING SIGNIFICANCE ON THE BASIS OF SIZE[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 3 — DETERMINING SIGNIFICANCE ON THE BASIS OF SIZE[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -255,7 +255,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 54 — Method of consolidation](section-article-54.md)
 - [Section Article 55 — Method for calculating total assets](section-article-55.md)
 
-#### TITLE 4 — DETERMINING SIGNIFICANCE ON THE BASIS OF IMPORTANCE FOR THE ECONOMY OF THE UNION OR ANY PARTICIPATING MEMBER STATE[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 4 — DETERMINING SIGNIFICANCE ON THE BASIS OF IMPORTANCE FOR THE ECONOMY OF THE UNION OR ANY PARTICIPATING MEMBER STATE[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -265,7 +265,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 57 — Criteria for determining significance on the basis of importance for the economy of the Union or any participating Member State](section-article-57.md)
 - [Section Article 58 — Determining significance on the basis of importance for the economy of any participating Member State at the request of an NCA](section-article-58.md)
 
-#### TITLE 5 — DETERMINING SIGNIFICANCE ON THE BASIS OF THE SIGNIFICANCE OF CROSS-BORDER ACTIVITIES[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 5 — DETERMINING SIGNIFICANCE ON THE BASIS OF THE SIGNIFICANCE OF CROSS-BORDER ACTIVITIES[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -274,7 +274,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 59 — Criteria for determining significance on the basis of the significance of cross-border activities of a supervised group](section-article-59.md)
 - [Section Article 60 — Cross-border assets and liabilities](section-article-60.md)
 
-#### TITLE 6 — DETERMINING SIGNIFICANCE ON THE BASIS OF A REQUEST FOR OR THE RECEIPT OF PUBLIC FINANCIAL ASSISTANCE FROM THE ESM[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 6 — DETERMINING SIGNIFICANCE ON THE BASIS OF A REQUEST FOR OR THE RECEIPT OF PUBLIC FINANCIAL ASSISTANCE FROM THE ESM[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -285,7 +285,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 63 — Beginning and end of direct supervision](section-article-63.md)
 - [Section Article 64 — Scope](section-article-64.md)
 
-#### TITLE 7 — DETERMINING SIGNIFICANCE ON THE BASIS THAT THE SUPERVISED ENTITY IS ONE OF THE THREE MOST SIGNIFICANT CREDIT INSTITUTIONS IN A PARTICIPATING MEMBER STATE[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 7 — DETERMINING SIGNIFICANCE ON THE BASIS THAT THE SUPERVISED ENTITY IS ONE OF THE THREE MOST SIGNIFICANT CREDIT INSTITUTIONS IN A PARTICIPATING MEMBER STATE[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -294,7 +294,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 65 — Criteria for determining the three most significant credit institutions in a participating Member State](section-article-65.md)
 - [Section Article 66 — Review process](section-article-66.md)
 
-#### TITLE 8 — ECB DECISION TO DIRECTLY SUPERVISE LESS SIGNIFICANT SUPERVISED ENTITIES PURSUANT TO ARTICLE 6(5)(B) OF THE SSM REGULATION[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 8 — ECB DECISION TO DIRECTLY SUPERVISE LESS SIGNIFICANT SUPERVISED ENTITIES PURSUANT TO ARTICLE 6(5)(B) OF THE SSM REGULATION[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -304,7 +304,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 68 — Procedure for preparing an ECB decision pursuant to Article 6(5)(b) of the SSM Regulation at the request of an NCA](section-article-68.md)
 - [Section Article 69 — Procedure for preparing ECB decisions pursuant to Article 6(5)(b) of the SSM Regulation on the ECB’s own initiative](section-article-69.md)
 
-#### TITLE 9 — PARTICULAR CIRCUMSTANCES THAT MAY JUSTIFY THE CLASSIFICATION OF A SUPERVISED ENTITY AS LESS SIGNIFICANT ALTHOUGH THE CRITERIA FOR CLASSIFICATION AS SIGNIFICANT ARE FULFILLED[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 9 — PARTICULAR CIRCUMSTANCES THAT MAY JUSTIFY THE CLASSIFICATION OF A SUPERVISED ENTITY AS LESS SIGNIFICANT ALTHOUGH THE CRITERIA FOR CLASSIFICATION AS SIGNIFICANT ARE FULFILLED[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -314,13 +314,13 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 71 — Assessment of the existence of particular circumstances](section-article-71.md)
 - [Section Article 72 — Review](section-article-72.md)
 
-### PART V — COMMON PROCEDURES[^key-6305411242dfc890a5c9a84f2117c08b]
+### PART V — COMMON PROCEDURES[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### TITLE 1 — COOPERATION WITH REGARD TO AN APPLICATION FOR AN AUTHORISATION TO TAKE UP THE BUSINESS OF A CREDIT INSTITUTION[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 1 — COOPERATION WITH REGARD TO AN APPLICATION FOR AN AUTHORISATION TO TAKE UP THE BUSINESS OF A CREDIT INSTITUTION[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -334,7 +334,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 78 — ECB decisions on applications](section-article-78.md)
 - [Section Article 79 — Procedure for the lapsing of the authorisation](section-article-79.md)
 
-#### TITLE 2 — COOPERATION WITH REGARD TO THE WITHDRAWAL OF AN AUTHORISATION[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 2 — COOPERATION WITH REGARD TO THE WITHDRAWAL OF AN AUTHORISATION[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -346,7 +346,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 83 — ECB decision on the withdrawal of an authorisation](section-article-83.md)
 - [Section Article 84 — Procedure in case of potential resolution measures to be taken by national authorities](section-article-84.md)
 
-#### TITLE 3 — COOPERATION WITH REGARD TO THE ACQUISITION OF QUALIFYING HOLDINGS[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 3 — COOPERATION WITH REGARD TO THE ACQUISITION OF QUALIFYING HOLDINGS[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -356,7 +356,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 86 — Assessment of potential acquisitions](section-article-86.md)
 - [Section Article 87 — ECB decision on acquisition](section-article-87.md)
 
-#### TITLE 4 — NOTIFICATION OF DECISIONS ON COMMON PROCEDURES[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 4 — NOTIFICATION OF DECISIONS ON COMMON PROCEDURES[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -364,13 +364,13 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 
 - [Section Article 88 — Procedures for notification of decisions](section-article-88.md)
 
-### PART VI — PROCEDURES FOR THE SUPERVISION OF SIGNIFICANT SUPERVISED ENTITIES[^key-6305411242dfc890a5c9a84f2117c08b]
+### PART VI — PROCEDURES FOR THE SUPERVISION OF SIGNIFICANT SUPERVISED ENTITIES[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### TITLE 1 — SUPERVISION OF SIGNIFICANT SUPERVISED ENTITIES AND ASSISTANCE BY NCAS[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 1 — SUPERVISION OF SIGNIFICANT SUPERVISED ENTITIES AND ASSISTANCE BY NCAS[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -381,7 +381,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 91 — Draft decisions to be prepared by NCAs for the ECB’s consideration](section-article-91.md)
 - [Section Article 92 — Exchange of information](section-article-92.md)
 
-#### TITLE 2 — COMPLIANCE WITH FIT AND PROPER REQUIREMENTS FOR PERSONS RESPONSIBLE FOR MANAGING CREDIT INSTITUTIONS[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 2 — COMPLIANCE WITH FIT AND PROPER REQUIREMENTS FOR PERSONS RESPONSIBLE FOR MANAGING CREDIT INSTITUTIONS[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -390,7 +390,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 93 — Assessment of the suitability of members of the management bodies of significant supervised entities](section-article-93.md)
 - [Section Article 94 — On-going review of managers’ suitability](section-article-94.md)
 
-#### TITLE 3 — OTHER PROCEDURES TO BE APPLIED BY SIGNIFICANT SUPERVISED ENTITIES[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 3 — OTHER PROCEDURES TO BE APPLIED BY SIGNIFICANT SUPERVISED ENTITIES[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -398,13 +398,13 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 
 - [Section Article 95 — Requests, notifications or applications by significant supervised entities](section-article-95.md)
 
-### PART VII — PROCEDURES FOR THE SUPERVISION OF LESS SIGNIFICANT SUPERVISED ENTITIES[^key-6305411242dfc890a5c9a84f2117c08b]
+### PART VII — PROCEDURES FOR THE SUPERVISION OF LESS SIGNIFICANT SUPERVISED ENTITIES[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### TITLE 1 — NCAS’ NOTIFICATION TO THE ECB OF MATERIAL NCA SUPERVISORY PROCEDURES AND MATERIAL DRAFT SUPERVISORY DECISIONS[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 1 — NCAS’ NOTIFICATION TO THE ECB OF MATERIAL NCA SUPERVISORY PROCEDURES AND MATERIAL DRAFT SUPERVISORY DECISIONS[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -414,7 +414,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 97 — NCAs’ notification to the ECB of material NCA supervisory procedures](section-article-97.md)
 - [Section Article 98 — Notification by NCAs to the ECB of material draft supervisory decisions](section-article-98.md)
 
-#### TITLE 2 — EX-POST REPORTING BY NCAS TO THE ECB REGARDING LESS SIGNIFICANT SUPERVISED ENTITIES[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 2 — EX-POST REPORTING BY NCAS TO THE ECB REGARDING LESS SIGNIFICANT SUPERVISED ENTITIES[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -423,13 +423,13 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 99 — General obligation of NCAs to report to the ECB](section-article-99.md)
 - [Section Article 100 — Frequency and scope of reports to be submitted by NCAs to the ECB](section-article-100.md)
 
-### PART VIII — COOPERATION BETWEEN THE ECB, NCAs AND NDAs WITH REGARD TO MACRO-PRUDENTIAL TASKS AND TOOLS[^key-6305411242dfc890a5c9a84f2117c08b]
+### PART VIII — COOPERATION BETWEEN THE ECB, NCAs AND NDAs WITH REGARD TO MACRO-PRUDENTIAL TASKS AND TOOLS[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### TITLE 1 — DEFINITION OF MACRO-PRUDENTIAL TOOLS[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 1 — DEFINITION OF MACRO-PRUDENTIAL TOOLS[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -438,7 +438,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 101 — General provisions](section-article-101.md)
 - [Section Article 102 — Application of macro-prudential tools by the ECB](section-article-102.md)
 
-#### TITLE 2 — PROCEDURAL PROVISIONS FOR THE USE OF MACRO-PRUDENTIAL TOOLS[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 2 — PROCEDURAL PROVISIONS FOR THE USE OF MACRO-PRUDENTIAL TOOLS[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -448,13 +448,13 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 104 — Exchange of information and cooperation in respect of the use of macro-prudential tools by an NCA or an NDA](section-article-104.md)
 - [Section Article 105 — Exchange of information and cooperation in respect of the ECB’s use of macro-prudential tools](section-article-105.md)
 
-### PART IX — PROCEDURES FOR CLOSE COOPERATION[^key-6305411242dfc890a5c9a84f2117c08b]
+### PART IX — PROCEDURES FOR CLOSE COOPERATION[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### TITLE 1 — GENERAL PRINCIPLES AND COMMON PROVISIONS[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 1 — GENERAL PRINCIPLES AND COMMON PROVISIONS[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -464,7 +464,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 107 — Principles to be applied when a close cooperation has been established](section-article-107.md)
 - [Section Article 108 — Legal instruments related to supervision in connection with close cooperation](section-article-108.md)
 
-#### TITLE 2 — CLOSE COOPERATION IN RELATION TO PARTS III, IV, V, VIII, X AND XI[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 2 — CLOSE COOPERATION IN RELATION TO PARTS III, IV, V, VIII, X AND XI[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -477,7 +477,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 113 — Administrative penalties under the regime of close cooperation](section-article-113.md)
 - [Section Article 114 — Investigatory powers pursuant to Articles 10 to 13 of the SSM Regulation under the regime of close cooperation](section-article-114.md)
 
-#### TITLE 3 — CLOSE COOPERATION IN RESPECT OF SIGNIFICANT SUPERVISED ENTITIES[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 3 — CLOSE COOPERATION IN RESPECT OF SIGNIFICANT SUPERVISED ENTITIES[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -486,7 +486,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 115 — Supervision of significant supervised entities in a participating Member State in close cooperation](section-article-115.md)
 - [Section Article 116 — Decisions in respect of significant supervised entities and significant supervised groups](section-article-116.md)
 
-#### TITLE 4 — CLOSE COOPERATION IN RESPECT OF LESS SIGNIFICANT SUPERVISED ENTITIES AND LESS SIGNIFICANT SUPERVISED GROUPS[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 4 — CLOSE COOPERATION IN RESPECT OF LESS SIGNIFICANT SUPERVISED ENTITIES AND LESS SIGNIFICANT SUPERVISED GROUPS[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -494,7 +494,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 
 - [Section Article 117 — Supervision of less significant supervised entities and less significant supervised groups](section-article-117.md)
 
-#### TITLE 5 — PROCEDURE IN CASE OF DISAGREEMENT OF A PARTICIPATING MEMBER STATE IN CLOSE COOPERATION[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 5 — PROCEDURE IN CASE OF DISAGREEMENT OF A PARTICIPATING MEMBER STATE IN CLOSE COOPERATION[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -503,13 +503,13 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 118 — Procedure in case of disagreement with the Supervisory Board’s draft decision pursuant to Article 7(8) of the SSM Regulation](section-article-118.md)
 - [Section Article 119 — Procedure in case of disagreement with an objection of the Governing Council to a Supervisory Board’s draft decision pursuant to Article 7(7) of the SSM Regulation](section-article-119.md)
 
-### PART X — ADMINISTRATIVE PENALTIES[^key-6305411242dfc890a5c9a84f2117c08b]
+### PART X — ADMINISTRATIVE PENALTIES[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### TITLE 1 — DEFINITIONS AND RELATIONSHIP TO COUNCIL REGULATION (EC) NO 2532/98[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 1 — DEFINITIONS AND RELATIONSHIP TO COUNCIL REGULATION (EC) NO 2532/98[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -519,7 +519,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 121 — Relationship to Regulation (EC) No 2532/98](section-article-121.md)
 - [Section Article 122 — ECB powers to impose administrative penalties under Article 18(7) of the SSM Regulation](section-article-122.md)
 
-#### TITLE 2 — PROCEDURAL RULES FOR THE IMPOSITION OF ADMINISTRATIVE PENALTIES, OTHER THAN PERIODIC PENALTY PAYMENTS, ON SUPERVISED ENTITIES IN EURO AREA MEMBER STATES[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 2 — PROCEDURAL RULES FOR THE IMPOSITION OF ADMINISTRATIVE PENALTIES, OTHER THAN PERIODIC PENALTY PAYMENTS, ON SUPERVISED ENTITIES IN EURO AREA MEMBER STATES[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -532,7 +532,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 127 — Examination of the file by the Supervisory Board](section-article-127.md)
 - [Section Article 128 — Definition of total annual turnover for the purpose of determining the upper limit for administrative pecuniary penalties](section-article-128.md)
 
-#### TITLE 3 — PERIODIC PENALTY PAYMENTS[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 3 — PERIODIC PENALTY PAYMENTS[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -540,7 +540,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 
 - [Section Article 129 — Procedural rules applicable to periodic penalty payments](section-article-129.md)
 
-#### TITLE 4 — TIME LIMITS[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 4 — TIME LIMITS[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -549,7 +549,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 130 — Limitation periods for imposing administrative penalties](section-article-130.md)
 - [Section Article 131 — Limitation periods for the enforcement of administrative penalties](section-article-131.md)
 
-#### TITLE 5 — PUBLICATION OF DECISIONS AND EXCHANGE OF INFORMATION[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 5 — PUBLICATION OF DECISIONS AND EXCHANGE OF INFORMATION[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -558,7 +558,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 132 — Publication of decisions regarding administrative penalties](section-article-132.md)
 - [Section Article 133 — Informing the EBA](section-article-133.md)
 
-#### TITLE 6 — COOPERATION BETWEEN THE ECB AND NCAs IN EURO AREA MEMBER STATES UNDER ARTICLE 18(5) OF THE SSM REGULATION[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 6 — COOPERATION BETWEEN THE ECB AND NCAs IN EURO AREA MEMBER STATES UNDER ARTICLE 18(5) OF THE SSM REGULATION[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -567,7 +567,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 134 — Significant supervised entities](section-article-134.md)
 - [Section Article 135 — Reporting in respect of less significant supervised entities](section-article-135.md)
 
-#### TITLE 7 — CRIMINAL OFFENCES[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 7 — CRIMINAL OFFENCES[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -575,7 +575,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 
 - [Section Article 136 — Evidence of facts potentially giving rise to a criminal offence](section-article-136.md)
 
-#### TITLE 8 — PROCEEDS FROM PENALTIES[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 8 — PROCEEDS FROM PENALTIES[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -583,13 +583,13 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 
 - [Section Article 137 — Proceeds from penalties](section-article-137.md)
 
-### PART XI — ACCESS TO INFORMATION, REPORTING, INVESTIGATIONS AND ON-SITE INSPECTIONS[^key-6305411242dfc890a5c9a84f2117c08b]
+### PART XI — ACCESS TO INFORMATION, REPORTING, INVESTIGATIONS AND ON-SITE INSPECTIONS[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### TITLE 1 — GENERAL PRINCIPLES[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 1 — GENERAL PRINCIPLES[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -597,7 +597,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 
 - [Section Article 138 — Cooperation between the ECB and NCAs as regards the powers referred to in Articles 10 to 13 of the SSM Regulation](section-article-138.md)
 
-#### TITLE 2 — COOPERATION IN RESPECT OF REQUESTS FOR INFORMATION[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 2 — COOPERATION IN RESPECT OF REQUESTS FOR INFORMATION[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -605,7 +605,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 
 - [Section Article 139 — Ad-hoc requests for information under Article 10 of the SSM Regulation](section-article-139.md)
 
-#### TITLE 3 — REPORTING[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 3 — REPORTING[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -614,7 +614,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 140 — Tasks related to supervisory reporting to competent authorities](section-article-140.md)
 - [Section Article 141 — Requests for information at recurring intervals under Article 10 of the SSM Regulation](section-article-141.md)
 
-#### TITLE 4 — COOPERATION WITH REGARD TO GENERAL INVESTIGATIONS[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 4 — COOPERATION WITH REGARD TO GENERAL INVESTIGATIONS[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -622,7 +622,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 
 - [Section Article 142 — Launch of a general investigation under Article 11 of the SSM Regulation](section-article-142.md)
 
-#### TITLE 5 — ON-SITE INSPECTIONS[^key-6305411242dfc890a5c9a84f2117c08b]
+#### TITLE 5 — ON-SITE INSPECTIONS[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -633,7 +633,7 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 - [Section Article 145 — Procedure and notification of an on-site inspection](section-article-145.md)
 - [Section Article 146 — Conduct of the on-site inspections](section-article-146.md)
 
-### PART XII — TRANSITIONAL AND FINAL PROVISIONS[^key-6305411242dfc890a5c9a84f2117c08b]
+### PART XII — TRANSITIONAL AND FINAL PROVISIONS[^c-6305411242dfc890a5c9a84f2117c08b]
 
 *Extent: E+W+S+N.I.*
 
@@ -651,8 +651,8 @@ establishing the framework for cooperation within the Single Supervisory Mechani
 
 **No longer in force.**
 
-[^key-6305411242dfc890a5c9a84f2117c08b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6305411242dfc890a5c9a84f2117c08b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6305411242dfc890a5c9a84f2117c08b]: Textual amendment: Regulation revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [33(f)](https://www.legislation.gov.uk/uksi/2019/710/regulation/33/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6305411242dfc890a5c9a84f2117c08b]: Textual amendment: Regulation revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [33(f)](https://www.legislation.gov.uk/uksi/2019/710/regulation/33/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

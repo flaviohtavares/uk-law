@@ -67,7 +67,7 @@ The Secretary of State, in exercise of the powers conferred by section 2(2) of t
 - “the Agency” means the Environment Agency;
 - “agricultural” has the meaning given by section 109(3) of the Agriculture Act 1947[^f00004];
 - “agricultural area” means agricultural land used for agricultural purposes;
-- “anaerobic digestion” has the meaning given in paragraph 1 of section 1.1 of Chapter 1 of Part 2 of Schedule 1 to the Environmental Permitting (England and Wales) Regulations 2016[^key-4638e4852b2b4606c214f6b539f82c91];
+- “anaerobic digestion” has the meaning given in paragraph 1 of section 1.1 of Chapter 1 of Part 2 of Schedule 1 to the Environmental Permitting (England and Wales) Regulations 2016[^c-4638e4852b2b4606c214f6b539f82c91];
 - “derogated holding” means a holding over which a derogation has effect;
 - “derogation” and “derogation conditions” each have the meaning given by regulation 36;
 - “eutrophic”, in relation to water, means enriched by nitrogen compounds, causing an accelerated growth of algae and higher forms of plant life that produces an undesirable disturbance to the balance of organisms present in the water and to the quality of the water;
@@ -84,7 +84,7 @@ The Secretary of State, in exercise of the powers conferred by section 2(2) of t
 - “livestock” means cattle, sheep, goats, deer, horses, poultry or pigs as specified in Schedule 1;
 - “manufactured nitrogen fertiliser” means a nitrogen fertiliser (other than organic manure) manufactured by an industrial process;
 - “manufactured phosphate fertiliser” means a phosphate fertiliser (other than organic manure) manufactured by an industrial process;
-- “new holding” means—[^key-d6d333e5f5aa300d40560caa60322695]
+- “new holding” means—[^c-d6d333e5f5aa300d40560caa60322695]
   - (a) in the case of the designation of nitrate vulnerable zones which took place on 31st December 2016, land and its associated buildings which became a holding on that date (and which were not a holding immediately before that date); and
   - (b) following any subsequent review under regulation 4(5), land and its associated buildings which become a holding as the result of the Secretary of State revising or adding to the designation of nitrate vulnerable zones and which were not a holding immediately before the date of that revision or addition;
 - “nitrogen fertiliser” means a substance containing one or more nitrogen compounds used on land to enhance growth of vegetation;
@@ -101,7 +101,7 @@ The Secretary of State, in exercise of the powers conferred by section 2(2) of t
     - (i) more than 70% by weight of particles from 0.06 to 2mm in diameter,
     - (ii) less than 15% by weight of particles less than 0.02mm diameter, and
     - (iii) less than 5% by weight of organic carbon;
-- “shallow soil” means soil that is less than 40cm[^key-12cf5dc2f6ffb2c9e80f98794df2fef0] deep;
+- “shallow soil” means soil that is less than 40cm[^c-12cf5dc2f6ffb2c9e80f98794df2fef0] deep;
 - “slurry” means excreta produced by livestock (other than poultry) while in a yard or building (including any bedding, rainwater or washings mixed with it) that has a consistency that allows it to be pumped or discharged by gravity (and in the case of excreta separated into its liquid and solid fractions, the slurry is the liquid fraction);
 - “spreading”, in relation to land, includes applying to the surface of the land, injecting into the land or mixing with the surface layers of the land, but does not include the direct deposit of excreta on to land by animals.
 
@@ -115,13 +115,13 @@ and a reference in these Regulations to pollution, in relation to water, is to b
 (3) In these Regulations—
 
 - “Council [Directive 91/676/EEC](https://www.legislation.gov.uk/european/directive/1991/0676)” means Council [Directive 91/676/EEC](https://www.legislation.gov.uk/european/directive/1991/0676) of 12 December 1991 concerning the protection of waters against pollution caused by nitrates from agricultural sources[^f00007];
-- “Council [Directive 98/83/EC](https://www.legislation.gov.uk/european/directive/1998/0083)” means Council [Directive 98/83/EC](https://www.legislation.gov.uk/european/directive/1998/0083) of 3 November 1998 on the quality of water intended for human consumption[^f00008], as last amended by Commission Directive ([^key-42d709cb27625bb4f44508274712ad4d]EU) 2015/1787;
+- “Council [Directive 98/83/EC](https://www.legislation.gov.uk/european/directive/1998/0083)” means Council [Directive 98/83/EC](https://www.legislation.gov.uk/european/directive/1998/0083) of 3 November 1998 on the quality of water intended for human consumption[^f00008], as last amended by Commission Directive ([^c-42d709cb27625bb4f44508274712ad4d]EU) 2015/1787;
 - “Council Regulation [(EC) 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698)” means Council Regulation [(EC) No. 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698) of 20 September 2005 on support for rural development by the European Agricultural Fund for Rural Development[^f00009];
 - “Council Regulation [(EC) 834/2007](https://www.legislation.gov.uk/european/regulation/2007/0834)” means Council Regulation [(EC) No. 834/2007](https://www.legislation.gov.uk/european/regulation/2007/0834) of 28 June 2007 on organic production and labelling of organic products and repealing Regulation [(EEC) No. 2092/91](https://www.legislation.gov.uk/european/regulation/1991/2092)[^f00010];
 - “[Directive 2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060)” means [Directive 2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy[^f00011];
 - “Regulation (EU) 1305/2013” means Regulation (EU) No. 1305/2013 of the European Parliament and of the Council of 17 December 2013 on support for rural development by the European Agricultural Fund for Rural Development and repealing Council Regulation [(EC) No 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698)[^f00012].
 
-(4)[^key-7968c4a78d74a751083fc9a2f731ea9b] For the purposes of these Regulations, a reference to an EU Directive is to be read as if any reference in that Directive to one or more member States in a provision imposing an obligation on, or conferring a discretion on, a member State or member States were a reference to the authority which, immediately before exit day, was responsible for the United Kingdom's compliance with that obligation, or able to exercise that discretion, in respect of England.
+(4)[^c-7968c4a78d74a751083fc9a2f731ea9b] For the purposes of these Regulations, a reference to an EU Directive is to be read as if any reference in that Directive to one or more member States in a provision imposing an obligation on, or conferring a discretion on, a member State or member States were a reference to the authority which, immediately before exit day, was responsible for the United Kingdom's compliance with that obligation, or able to exercise that discretion, in respect of England.
 
 (5) In paragraph (4), the “**authority**” means the Agency or the Secretary of State.
 
@@ -131,27 +131,27 @@ and a reference in these Regulations to pollution, in relation to water, is to b
 
 (1) An area is designated as a nitrate vulnerable zone for the purposes of these Regulations if, as an area of land that drains into polluted waters and contributes to the pollution of those waters, it is marked as such a zone on a relevant map.
 
-(2)[^key-93e7c70e5f3a2f5aad4e44e59a2410b3] For the purposes of this regulation—
+(2)[^c-93e7c70e5f3a2f5aad4e44e59a2410b3] For the purposes of this regulation—
 
 - (a) for the period beginning with 1st December 2016 and ending with the day on which the Secretary of State next revises or adds to the designation of nitrate vulnerable zones under regulation 4(5), “relevant map” means a map marked “Nitrate Vulnerable Zones (England) 2017 to 2020” and published on 1st December 2016 on the Agency’s website;
 - (b) following any subsequent review under regulation 4(5), “relevant map” means a map which is published on the Agency’s website and which—
   - (i) is marked “This map identifies those areas of England designated by the Secretary of State as a Nitrate Vulnerable Zone for the purposes of the Nitrate Pollution Prevention Regulations 2015 (England).”; and
   - (ii) specifies the period to which it relates.
 
-(3)[^key-2f149dd78f9174178221a9679ab49893] The Agency must make provision for a relevant map to be obtainable by persons without access to the internet.
+(3)[^c-2f149dd78f9174178221a9679ab49893] The Agency must make provision for a relevant map to be obtainable by persons without access to the internet.
 
 ### 4. Review
 
 (1) The Secretary of State must keep under review the eutrophic state of fresh surface waters, estuarial waters and coastal waters.
 
-(2) The Secretary of State must, before 1st January 2017 and before 1st January of every fourth year thereafter[^key-6cd165164bd40750cf87e1776d5068bb], monitor the nitrate concentration in freshwaters over a period of one year—
+(2) The Secretary of State must, before 1st January 2017 and before 1st January of every fourth year thereafter[^c-6cd165164bd40750cf87e1776d5068bb], monitor the nitrate concentration in freshwaters over a period of one year—
 
 - (a) at sampling stations that are representative of surface water, at least monthly and more frequently during flood periods, and
-- (b) at sampling stations that are representative of groundwater, at regular intervals and taking into account the provisions of the Water Supply (Water Quality) Regulations 2016[^key-df8383069cd61db118cf5362d5d8cd42][^M_F_48835fdb-d9b3-473e-e73d-402b1ea63ecf] and the Private Water Supplies (England) Regulations 2016[^M_F_215f9c92-b75f-4270-c3bb-3d9fb709fc63].
+- (b) at sampling stations that are representative of groundwater, at regular intervals and taking into account the provisions of the Water Supply (Water Quality) Regulations 2016[^c-df8383069cd61db118cf5362d5d8cd42][^M_F_48835fdb-d9b3-473e-e73d-402b1ea63ecf] and the Private Water Supplies (England) Regulations 2016[^M_F_215f9c92-b75f-4270-c3bb-3d9fb709fc63].
 
 (3) But in the case of a sampling station at which the nitrate concentration in all previous samples taken for the purposes of paragraph (2) has been below 25mg/l and no new factor likely to increase the nitrate content has appeared, that paragraph is to be read as if for “2017” there were substituted “2021” and for “every four years” there were substituted “every eight years”.
 
-(4) Nitrate concentration must be measured by subtracting the amount of nitrite from the amount of total oxidised nitrogen (“TON”), where both nitrite and TON are calculated using the method known as molecular absorption spectrophotometry[^key-da51d996f0035f9cf413a382761a8af8].
+(4) Nitrate concentration must be measured by subtracting the amount of nitrite from the amount of total oxidised nitrogen (“TON”), where both nitrite and TON are calculated using the method known as molecular absorption spectrophotometry[^c-da51d996f0035f9cf413a382761a8af8].
 
 (5) No later than the end of each four-year period provided for under paragraph (2), the Secretary of State must—
 
@@ -162,49 +162,49 @@ and a reference in these Regulations to pollution, in relation to water, is to b
 
 (6) In this Part, references to pollution, in relation to water, are to be construed in accordance with paragraph (5)(a).
 
-(7)[^key-eb26c33819a36e5cdbddfee75e0e2062] For the purposes of paragraph (5)(a), the reference to Annex 1 to Council Directive [91/676/EEC](https://www.legislation.gov.uk/eudr/1991/676)[^M_F_d3aa216f-da3c-4f7f-abb1-2fc768323a43] is to be read as if—
+(7)[^c-eb26c33819a36e5cdbddfee75e0e2062] For the purposes of paragraph (5)(a), the reference to Annex 1 to Council Directive [91/676/EEC](https://www.legislation.gov.uk/eudr/1991/676)[^M_F_d3aa216f-da3c-4f7f-abb1-2fc768323a43] is to be read as if—
 
 - (a) each reference in it to Article 5 of that Directive were to regulations 7 to 35 of these Regulations;
 - (b) in point A(1), for the words from “more than” to “Directive [75/440/EEC](https://www.legislation.gov.uk/eudr/1975/440)” there were substituted “ a concentration of nitrates greater than 50 mg/l ”.
 
 ### 5. Recommendations and proposals
 
-(1) The Agency must, before 10th August 2016 and before 10th August of every fourth year thereafter[^key-dea799ce586ad29f88d4861fdc0408c3], make recommendations to the Secretary of State by reference to the matters referred to in regulation 4(5)(a) to (c) as to which areas of land should be, or should continue to be, designated as nitrate vulnerable zones for the purposes of these Regulations.
+(1) The Agency must, before 10th August 2016 and before 10th August of every fourth year thereafter[^c-dea799ce586ad29f88d4861fdc0408c3], make recommendations to the Secretary of State by reference to the matters referred to in regulation 4(5)(a) to (c) as to which areas of land should be, or should continue to be, designated as nitrate vulnerable zones for the purposes of these Regulations.
 
 (2) In deciding whether to revise or add to the designation of nitrate vulnerable zones for the purposes of regulation 4(5)(d), the Secretary of State must have regard to the recommendations made under paragraph (1).
 
-(3) Before revising or adding to the designation of nitrate vulnerable zones, the Secretary of State must , (except where paragraph (3A) applies)[^key-43b19c05a9daa3392db8b5ab39a24883]—
+(3) Before revising or adding to the designation of nitrate vulnerable zones, the Secretary of State must , (except where paragraph (3A) applies)[^c-43b19c05a9daa3392db8b5ab39a24883]—
 
 - (a) publish the proposals to revise or add to the designation, and
 - (b) send written notice to any person appearing to the Secretary of State to be the owner or occupier of a relevant holding.
 
-(3A)[^key-f5abb38df917d168cfe1e50b365f22f8] Where the Secretary of State revises or adds to the designation of nitrate vulnerable zones before 1st January 2017, the Secretary of State must—
+(3A)[^c-f5abb38df917d168cfe1e50b365f22f8] Where the Secretary of State revises or adds to the designation of nitrate vulnerable zones before 1st January 2017, the Secretary of State must—
 
 - (a) by 31st December 2016, publish the proposals to revise or add to the designation on the Agency’s website;
 - (b) by 1st March 2017, send written notice to any person appearing to the Secretary of State to be the owner or occupier of a relevant holding.
 
-(4) A notice under paragraph (3)(b) or (3A)(b)[^key-0bd30dcb6c8566dd11233b2156be54d9] must contain—
+(4) A notice under paragraph (3)(b) or (3A)(b)[^c-0bd30dcb6c8566dd11233b2156be54d9] must contain—
 
-- (a)[^key-768c6b5f6abe4d6af525477b867c80e7] a reference to the page on the Agency’s or Secretary of State’s website on which can be found the Secretary of State’s proposals or, in the case of a notice under paragraph (3A)(b) where the designation has already been revised or added to, the designation,
+- (a)[^c-768c6b5f6abe4d6af525477b867c80e7] a reference to the page on the Agency’s or Secretary of State’s website on which can be found the Secretary of State’s proposals or, in the case of a notice under paragraph (3A)(b) where the designation has already been revised or added to, the designation,
 - (b) information about other means of obtaining the information mentioned in sub-paragraph (a) which do not require access to the internet.
 
 (5) In this regulation and regulation 6, “relevant holding” means land and any associated buildings at the disposal of the occupier—
 
 - (a) which are used for growing crops in soil or rearing livestock for agricultural purposes, and
-- (b) which are wholly or partly in an area which the Secretary of State has proposed should be, or should continue to be, designated as a nitrate vulnerable zone for the purposes of these Regulations , or which the Secretary of State has so designated[^key-b37c1083bf4ffb7013be6aba8de3c322].
+- (b) which are wholly or partly in an area which the Secretary of State has proposed should be, or should continue to be, designated as a nitrate vulnerable zone for the purposes of these Regulations , or which the Secretary of State has so designated[^c-b37c1083bf4ffb7013be6aba8de3c322].
 
-### 5A. Transitional periods for new holdings[^key-94bdc16e415e78fcc6fdb900a2dcb0ad]
+### 5A. Transitional periods for new holdings[^c-94bdc16e415e78fcc6fdb900a2dcb0ad]
 
 The requirements of the regulations listed in Schedule 4 do not apply in relation to a new holding until the dates set out in that Schedule.
 
 ### 6. Appeal
 
-(1) An owner or occupier of a relevant holding who is sent a notice under regulation 5(3)(b) or 5(3A)(b)[^key-f0f23f4032e88cbe6e0c35513655eddf] may appeal to the First-tier Tribunal[^f00013] against the proposals or designation[^key-427075d119266d3b7dfa20342ec2d386] referred to in the notice.
+(1) An owner or occupier of a relevant holding who is sent a notice under regulation 5(3)(b) or 5(3A)(b)[^c-f0f23f4032e88cbe6e0c35513655eddf] may appeal to the First-tier Tribunal[^f00013] against the proposals or designation[^c-427075d119266d3b7dfa20342ec2d386] referred to in the notice.
 
 (2) For the purposes of rule 22(2)(g) of the Tribunal Procedure (First-tier Tribunal) (General Regulatory Chamber) Rules 2009[^f00014] (notice of appeal: grounds), the only grounds of an appeal under this regulation are that the relevant holding (or any part of it)—
 
-- (a) does not drain into water which the Secretary of State proposes to identify, or to continue to identify, as polluted or which has been similarly identified in Wales or Scotland, [^key-e0603ae0c69a4bfe40c96a7c3af63107]...
-- (aa)[^key-de25c585c31b7b144cf676ffb9bdacf0] in a case within regulation 5(3A), does not drain into water which the Secretary of State has identified as polluted or which has been similarly identified in Wales or Scotland, or
+- (a) does not drain into water which the Secretary of State proposes to identify, or to continue to identify, as polluted or which has been similarly identified in Wales or Scotland, [^c-e0603ae0c69a4bfe40c96a7c3af63107]...
+- (aa)[^c-de25c585c31b7b144cf676ffb9bdacf0] in a case within regulation 5(3A), does not drain into water which the Secretary of State has identified as polluted or which has been similarly identified in Wales or Scotland, or
 - (b) drains into water which the Secretary of State should not identify, or should not continue to identify, as polluted.
 
 (3) If the First-tier Tribunal upholds an appeal under paragraph (2)(a), the Secretary of State, when acting under regulation 4(5), must treat the relevant holding (or the part of it in respect of which the appeal was upheld) as not draining into the water concerned.
@@ -505,7 +505,7 @@ This Part does not apply to the spreading of nitrogen fertiliser on a crop growi
 - (a) have a trajectory of less than 4 metres from the ground, or
 - (b) have a trajectory of 4 metres or more from the ground and be able to achieve a maximum slurry application rate of 1 mm per hour when it is operating continuously.
 
-(2)[^key-f928ba05d7ca29f13a47e5e45aa2971b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f928ba05d7ca29f13a47e5e45aa2971b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 19. Incorporating organic manure into the ground
 
@@ -549,7 +549,7 @@ This Part does not apply to the spreading of nitrogen fertiliser on a crop growi
 - (b) the maximum amount of poultry manure that may be spread at any one time is 8 tonnes per hectare;
 - (c) there must be at least three weeks between any spreading of either of the descriptions specified in paragraph (a) or (b).
 
-(6)[^key-a82b02c61a96eba85fdc839f1550521f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-a82b02c61a96eba85fdc839f1550521f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) This regulation does not apply to the spreading of nitrogen fertiliser in a greenhouse.
 
@@ -573,7 +573,7 @@ This Part does not apply to the spreading of nitrogen fertiliser on a crop growi
 - (a) nitrogen must not be spread after 31st October, and
 - (b) a maximum of 40kg of nitrogen per hectare may be spread at any one time.
 
-(6)[^key-ea536fd15359d86a48525455ef5d8fa0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-ea536fd15359d86a48525455ef5d8fa0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) This regulation does not apply to the spreading of nitrogen fertiliser in a greenhouse.
 
@@ -635,7 +635,7 @@ This Part does not apply to the spreading of nitrogen fertiliser on a crop growi
 
 (4) Solid poultry manure that does not have bedding mixed into it and is stored on a temporary field site must be covered with an impermeable material.
 
-### 24. Separation of slurry[^key-ef6099581b8585c1d56f72289cce80c4]
+### 24. Separation of slurry[^c-ef6099581b8585c1d56f72289cce80c4]
 
 The occupier of a relevant holding must, when separating any slurry on the holding into its solid and liquid fractions, do so mechanically or on an impermeable surface where the liquid drains into a suitable receptacle.
 
@@ -670,7 +670,7 @@ The occupier of a relevant holding must, when separating any slurry on the holdi
 - (b) does not have land drains (other than a sealed impermeable pipe), and
 - (c) is at least 50 metres from a watercourse or conduit leading to a watercourse.
 
-### 25A. Record of size of holding[^key-cb6895bd67dbad04cb4bdfc04cd9083f]
+### 25A. Record of size of holding[^c-cb6895bd67dbad04cb4bdfc04cd9083f]
 
 The occupier of a new holding must record the total size of the holding, calculated in accordance with regulation 7(4).
 
@@ -799,11 +799,11 @@ Where the occupier of a holding has for any purpose under these Regulations reli
 
 ### 34. Keeping records up to date
 
-(1)[^key-938e5b4c4555bfbd33c40362cccd88d5] Where the size of a holding changes, the occupier of the holding must update the record required by regulation 35(1) of the old Regulations, or by regulation 25A of these Regulations, within one month.
+(1)[^c-938e5b4c4555bfbd33c40362cccd88d5] Where the size of a holding changes, the occupier of the holding must update the record required by regulation 35(1) of the old Regulations, or by regulation 25A of these Regulations, within one month.
 
 (2) Paragraph (1) applies only in so far there is a change in the area of the land on the holding that is not covered by a greenhouse.
 
-(3)[^key-3f7dae61d10e543674eb48f01ad91d32] Where the amount of storage capacity of a holding changes, the occupier of the holding must update the record required by regulation 36(1)(b) of the old Regulations, or by regulation 25B of these Regulations, within one week.
+(3)[^c-3f7dae61d10e543674eb48f01ad91d32] Where the amount of storage capacity of a holding changes, the occupier of the holding must update the record required by regulation 36(1)(b) of the old Regulations, or by regulation 25B of these Regulations, within one week.
 
 (4) If the occupier of a holding introduces animals on to the holding for the first time, the occupier must, within one month of the introduction of the animals, calculate and record—
 
@@ -830,21 +830,21 @@ Where the occupier of a holding has for any purpose under these Regulations reli
 
 (2) “Derogation” means a derogation granted under this Part from the limit on the total amount of nitrogen in livestock manure that can be applied to land each year in accordance with paragraph 2(b) of Annex III to Council [Directive 91/676/EEC](https://www.legislation.gov.uk/european/directive/1991/0676).
 
-(2A)[^key-74b150d78d285725558e2ca51145d464] For the purposes of paragraph (2), paragraph 2(b) of Annex 3 to Council Directive [91/676/EEC](https://www.legislation.gov.uk/eudr/1991/676) is to be read as if the third subparagraph were omitted.
+(2A)[^c-74b150d78d285725558e2ca51145d464] For the purposes of paragraph (2), paragraph 2(b) of Annex 3 to Council Directive [91/676/EEC](https://www.legislation.gov.uk/eudr/1991/676) is to be read as if the third subparagraph were omitted.
 
 (3) The reference in paragraph (1) to the agricultural area does not include a reference to any land which is covered by a greenhouse.
 
-(4)[^key-65b4d09850eae720b7e1a0d4267e4917] A derogation granted under this regulation ceases to have effect unless the occupier to whom the derogation is granted has sent to the Agency a written declaration that the conditions set out in Schedule 3 (“the derogation conditions”) will be met in relation to the holding.
+(4)[^c-65b4d09850eae720b7e1a0d4267e4917] A derogation granted under this regulation ceases to have effect unless the occupier to whom the derogation is granted has sent to the Agency a written declaration that the conditions set out in Schedule 3 (“the derogation conditions”) will be met in relation to the holding.
 
 (4A) The written declaration must be sent to the Agency within 28 calendar days of the derogation being granted.
 
 (5) The application must be submitted between 1st October and 31st<sup></sup>December in the calendar year preceding that to which the application relates.
 
-(5A)[^key-665edc9fc969bd182c14f748efa246e4] But an application relating to the calendar year commencing on 1st January 2017 may be submitted by 20th March 2017.
+(5A)[^c-665edc9fc969bd182c14f748efa246e4] But an application relating to the calendar year commencing on 1st January 2017 may be submitted by 20th March 2017.
 
 (6) The application must be made in the form and manner published by the Secretary of State.
 
-(7)[^key-fb0cebc6b3d29606391ce657c0920190] As part of the review conducted under regulation 39, the Secretary of State must review the overall position of derogations granted under this regulation against—
+(7)[^c-fb0cebc6b3d29606391ce657c0920190] As part of the review conducted under regulation 39, the Secretary of State must review the overall position of derogations granted under this regulation against—
 
 - (a) objective criteria, including—
   - (i) the existence, in designated nitrate vulnerable zones, of long growing seasons, crops with high nitrogen uptake, and soils with exceptionally high denitrification capacity;
@@ -866,12 +866,12 @@ Where the occupier of a holding has for any purpose under these Regulations reli
 
 (4) The occupier must keep a record of the application and determination.
 
-(5) The Agency must refuse the application if it considers that granting the derogation would have an adverse effect on the integrity of a European site or European offshore marine site, where that site has been subject to an appropriate assessment under regulation 63 of the Conservation of Habitats and Species Regulations 2017[^key-8c66ca94ac6434a02f6ef56b9d712c28] .
+(5) The Agency must refuse the application if it considers that granting the derogation would have an adverse effect on the integrity of a European site or European offshore marine site, where that site has been subject to an appropriate assessment under regulation 63 of the Conservation of Habitats and Species Regulations 2017[^c-8c66ca94ac6434a02f6ef56b9d712c28] .
 
 (6) In paragraph (5)—
 
 - “European site” has the meaning given by regulation 8 of those Regulations, and
-- “European offshore marine site” has the meaning given by regulation 18 of the Conservation of Offshore Marine Habitats and Species Regulations 2017.[^key-331a1de612296318d0dc897668cd660d]
+- “European offshore marine site” has the meaning given by regulation 18 of the Conservation of Offshore Marine Habitats and Species Regulations 2017.[^c-331a1de612296318d0dc897668cd660d]
 
 (7) The Agency must (subject to paragraph (8)) refuse the application if the occupier has been found in breach of the derogation conditions during the calendar year preceding that to which the application relates.
 
@@ -922,7 +922,7 @@ Where the occupier of a holding has for any purpose under these Regulations reli
 
 ## PART 9 — Review
 
-### 39. Review of the action programme[^key-0c9bebe96adf91d7045dc2968b78051d]
+### 39. Review of the action programme[^c-0c9bebe96adf91d7045dc2968b78051d]
 
 (1) At least every four years, the Secretary of State must—
 
@@ -967,11 +967,11 @@ Where the occupier of a holding has for any purpose under these Regulations reli
 - (b) include an assessment of the extent to which those objectives are being achieved, and
 - (c) include an assessment of whether those objectives remain appropriate and, in so far as they do, the extent to which they could be achieved in a less burdensome way.
 
-(5) The first report under this regulation must be published before 31st March 2020[^key-41dd8a03bd54f07d6307e9eb991c8cf2].
+(5) The first report under this regulation must be published before 31st March 2020[^c-41dd8a03bd54f07d6307e9eb991c8cf2].
 
 (6) Subsequent reports under this regulation are to be published at intervals not exceeding 5 years.
 
-### 40A. Implementation report[^key-79dae0e7f5263ac5eaea1b65e2b709fd]
+### 40A. Implementation report[^c-79dae0e7f5263ac5eaea1b65e2b709fd]
 
 (1) The Secretary of State must prepare a report on the implementation of these Regulations for each relevant period.
 
@@ -993,7 +993,7 @@ Where the occupier of a holding has for any purpose under these Regulations reli
 
 ### 41. Offence and penalty
 
-(1)[^key-0e973a56296ef2b20a44ad5d07d2735e] A person who fails to comply with the requirements of any of the following regulations commits an offence—
+(1)[^c-0e973a56296ef2b20a44ad5d07d2735e] A person who fails to comply with the requirements of any of the following regulations commits an offence—
 
 - (a) regulations 7 and 8;
 - (b) regulations 10 to 13;
@@ -1385,11 +1385,11 @@ The occupier must, within one week of ploughing on the holding, record the date 
 - (g) the weight in tonnes and the nitrogen content of all manufactured nitrogen fertiliser stocks kept on the holding between 1st January and 31st December, and
 - (h) the weight in tonnes and the nitrogen content of all manufactured nitrogen fertiliser brought on to and sent off the holding between those dates.
 
-## SCHEDULE 4 — Transitional dates for new holdings[^key-55dc76bc493279290cf4a902be53b2f8]
+## SCHEDULE 4 — Transitional dates for new holdings[^c-55dc76bc493279290cf4a902be53b2f8]
 
 Regulation 5A
 
-**1.** The following regulations do not apply in relation to a new holding until the beginning of the second calendar year after the year in which the Secretary of State revises or adds to the designation of nitrate vulnerable zones under regulation 4(5) so as to include the new holding[^key-19f530d6d6773d7f3d6a48c92c0fc857]—
+**1.** The following regulations do not apply in relation to a new holding until the beginning of the second calendar year after the year in which the Secretary of State revises or adds to the designation of nitrate vulnerable zones under regulation 4(5) so as to include the new holding[^c-19f530d6d6773d7f3d6a48c92c0fc857]—
 
 - (a) regulation 7 (application of livestock manure);
 - (b) regulation 8 (spreading organic manure);
@@ -1413,7 +1413,7 @@ Regulation 5A
 - (t) regulation 32 (subsequent records);
 - (u) regulation 34 (keeping records up to date).
 
-**2.** The following regulations do not apply in relation to a new holding until 31st July in the third calendar year after the year in which the Secretary of State revises or adds to the designation of nitrate vulnerable zones under regulation 4(5) so as to include the new holding[^key-cc333f8de920632966e6727059e25f9e]—
+**2.** The following regulations do not apply in relation to a new holding until 31st July in the third calendar year after the year in which the Secretary of State revises or adds to the designation of nitrate vulnerable zones under regulation 4(5) so as to include the new holding[^c-cc333f8de920632966e6727059e25f9e]—
 
 - (a) regulation 18 (restrictions on spreading slurry);
 - (b) regulation 20 (closed periods for organic manure);
@@ -1460,19 +1460,19 @@ An impact assessment has not been produced for this instrument as, given that it
 
 [^f00004]: Footnote: [1947 c.48](https://www.legislation.gov.uk/ukpga/1947/48)
 
-[^key-4638e4852b2b4606c214f6b539f82c91]: Textual amendment: Words in reg. 2(1) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 87](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/87) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-4638e4852b2b4606c214f6b539f82c91]: Textual amendment: Words in reg. 2(1) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 87](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/87) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^f00006]: Footnote: The scheme is administered by Basis Registration Ltd, and a list of qualified persons is available from them on request at http://www.basis-reg.com/contact.aspx
 
-[^key-d6d333e5f5aa300d40560caa60322695]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/668/regulation/2/1) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/5/2)
+[^c-d6d333e5f5aa300d40560caa60322695]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/668/regulation/2/1) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/5/2)
 
-[^key-12cf5dc2f6ffb2c9e80f98794df2fef0]: Textual amendment: Words in reg. 2(1) substituted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [9(1)(b)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/9/1/b)
+[^c-12cf5dc2f6ffb2c9e80f98794df2fef0]: Textual amendment: Words in reg. 2(1) substituted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [9(1)(b)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/9/1/b)
 
 [^f00007]: Footnote: OJ No. L 375, 31.12.1991, p.1.
 
 [^f00008]: Footnote: OJ No. L 330, 5.12.1998, p.32.
 
-[^key-42d709cb27625bb4f44508274712ad4d]: Textual amendment: Words in reg. 2(3) inserted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/10/2)
+[^c-42d709cb27625bb4f44508274712ad4d]: Textual amendment: Words in reg. 2(3) inserted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/10/2)
 
 [^f00009]: Footnote: OJ No. L 277, 21.10.2005, p.1. This was repealed by Regulation (EU) 1305/2013 subject to transitional provisions (see Article 88).
 
@@ -1482,51 +1482,51 @@ An impact assessment has not been produced for this instrument as, given that it
 
 [^f00012]: Footnote: OJ No. L 347, 20.12.2013, p.487.
 
-[^key-7968c4a78d74a751083fc9a2f731ea9b]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/2015/668/regulation/2/4)[(5)](https://www.legislation.gov.uk/uksi/2015/668/regulation/2/5) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [16(2)](https://www.legislation.gov.uk/uksi/2019/558/regulation/16/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7968c4a78d74a751083fc9a2f731ea9b]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/2015/668/regulation/2/4)[(5)](https://www.legislation.gov.uk/uksi/2015/668/regulation/2/5) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [16(2)](https://www.legislation.gov.uk/uksi/2019/558/regulation/16/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-93e7c70e5f3a2f5aad4e44e59a2410b3]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/668/regulation/3/2) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/uksi/2019/526/regulation/5/3/a)
+[^c-93e7c70e5f3a2f5aad4e44e59a2410b3]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/668/regulation/3/2) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/uksi/2019/526/regulation/5/3/a)
 
-[^key-2f149dd78f9174178221a9679ab49893]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2015/668/regulation/3/3) inserted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2019/526/regulation/5/3/b)
+[^c-2f149dd78f9174178221a9679ab49893]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2015/668/regulation/3/3) inserted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2019/526/regulation/5/3/b)
 
-[^key-6cd165164bd40750cf87e1776d5068bb]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/668/regulation/4/2) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2019/526/regulation/5/4)
+[^c-6cd165164bd40750cf87e1776d5068bb]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/668/regulation/4/2) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2019/526/regulation/5/4)
 
-[^key-df8383069cd61db118cf5362d5d8cd42]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2015/668/regulation/4/2/b) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [16(3)(a)](https://www.legislation.gov.uk/uksi/2019/558/regulation/16/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-df8383069cd61db118cf5362d5d8cd42]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2015/668/regulation/4/2/b) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [16(3)(a)](https://www.legislation.gov.uk/uksi/2019/558/regulation/16/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_48835fdb-d9b3-473e-e73d-402b1ea63ecf]: Textual amendment: [S.I. 2016/614](https://www.legislation.gov.uk/uksi/2016/614), amended by [S.I. 2017/506](https://www.legislation.gov.uk/uksi/2017/506), 2018/378, 2018/706.
 
 [^M_F_215f9c92-b75f-4270-c3bb-3d9fb709fc63]: Textual amendment: [S.I. 2016/618](https://www.legislation.gov.uk/uksi/2016/618), amended by [S.I. 2017/506](https://www.legislation.gov.uk/uksi/2017/506), 2018/707.
 
-[^key-da51d996f0035f9cf413a382761a8af8]: Textual amendment: Words in reg. 4(4) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2018/575/regulation/10/3)
+[^c-da51d996f0035f9cf413a382761a8af8]: Textual amendment: Words in reg. 4(4) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2018/575/regulation/10/3)
 
-[^key-eb26c33819a36e5cdbddfee75e0e2062]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/uksi/2015/668/regulation/4/7) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [16(3)(b)](https://www.legislation.gov.uk/uksi/2019/558/regulation/16/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eb26c33819a36e5cdbddfee75e0e2062]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/uksi/2015/668/regulation/4/7) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [16(3)(b)](https://www.legislation.gov.uk/uksi/2019/558/regulation/16/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_d3aa216f-da3c-4f7f-abb1-2fc768323a43]: Textual amendment: OJ No L 375, 31.12.1991, p 1, as last amended by Regulation (EC) No 1137/2008 (OJ No L 311, 21.11.2008, p 1).
 
-[^key-dea799ce586ad29f88d4861fdc0408c3]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/668/regulation/5/1) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2019/526/regulation/5/5)
+[^c-dea799ce586ad29f88d4861fdc0408c3]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/668/regulation/5/1) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2019/526/regulation/5/5)
 
-[^key-43b19c05a9daa3392db8b5ab39a24883]: Textual amendment: Words in reg. 5(3) inserted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/4/a)
+[^c-43b19c05a9daa3392db8b5ab39a24883]: Textual amendment: Words in reg. 5(3) inserted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/4/a)
 
-[^key-f5abb38df917d168cfe1e50b365f22f8]: Textual amendment: Reg. 5(3A) inserted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/4/b)
+[^c-f5abb38df917d168cfe1e50b365f22f8]: Textual amendment: Reg. 5(3A) inserted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/4/b)
 
-[^key-0bd30dcb6c8566dd11233b2156be54d9]: Textual amendment: Words in reg. 5(4) inserted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/4/c)
+[^c-0bd30dcb6c8566dd11233b2156be54d9]: Textual amendment: Words in reg. 5(4) inserted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/4/c)
 
-[^key-768c6b5f6abe4d6af525477b867c80e7]: Textual amendment: Reg. 5(4)(a) substituted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [4(d)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/4/d)
+[^c-768c6b5f6abe4d6af525477b867c80e7]: Textual amendment: Reg. 5(4)(a) substituted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [4(d)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/4/d)
 
-[^key-b37c1083bf4ffb7013be6aba8de3c322]: Textual amendment: Words in reg. 5(4)(b) inserted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [4(e)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/4/e)
+[^c-b37c1083bf4ffb7013be6aba8de3c322]: Textual amendment: Words in reg. 5(4)(b) inserted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [4(e)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/4/e)
 
-[^key-94bdc16e415e78fcc6fdb900a2dcb0ad]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2015/668/regulation/5A) inserted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/5/1)
+[^c-94bdc16e415e78fcc6fdb900a2dcb0ad]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2015/668/regulation/5A) inserted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/5/1)
 
-[^key-f0f23f4032e88cbe6e0c35513655eddf]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2015/668/regulation/6/1) inserted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) (No. 2) Regulations 2016 (S.I. 2016/1254)](https://www.legislation.gov.uk/uksi/2016/1254), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1254/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2016/1254/regulation/2/2/a/i)
+[^c-f0f23f4032e88cbe6e0c35513655eddf]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2015/668/regulation/6/1) inserted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) (No. 2) Regulations 2016 (S.I. 2016/1254)](https://www.legislation.gov.uk/uksi/2016/1254), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1254/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2016/1254/regulation/2/2/a/i)
 
 [^f00013]: Footnote: The First-tier Tribunal was established by section 3(1) of the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15). By virtue of article 3 of the First-tier Tribunal and Upper Tribunal (Chambers) Order 2010 ([S.I. 2010/2655](https://www.legislation.gov.uk/uksi/2010/2655)), the General Regulatory Chamber of the First-tier Tribunal is allocated all functions related to proceedings in respect of the decisions and actions of regulatory bodies which are not allocated to the Health, Education and Social Care Chamber or to the Tax Chamber by other provisions of that Order.
 
-[^key-427075d119266d3b7dfa20342ec2d386]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2015/668/regulation/6/1) inserted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) (No. 2) Regulations 2016 (S.I. 2016/1254)](https://www.legislation.gov.uk/uksi/2016/1254), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1254/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/1254/regulation/2/2/a/ii)
+[^c-427075d119266d3b7dfa20342ec2d386]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2015/668/regulation/6/1) inserted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) (No. 2) Regulations 2016 (S.I. 2016/1254)](https://www.legislation.gov.uk/uksi/2016/1254), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1254/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/1254/regulation/2/2/a/ii)
 
 [^f00014]: Footnote: [S.I. 2009/1976](https://www.legislation.gov.uk/uksi/2009/1976).
 
-[^key-e0603ae0c69a4bfe40c96a7c3af63107]: Textual amendment: Word in [reg. 6(2)(a)](https://www.legislation.gov.uk/uksi/2015/668/regulation/6/2/a) omitted (31.12.2016) by virtue of [The Nitrate Pollution Prevention (Amendment) (No. 2) Regulations 2016 (S.I. 2016/1254)](https://www.legislation.gov.uk/uksi/2016/1254), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1254/regulation/1/1), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2016/1254/regulation/2/2/b/i)
+[^c-e0603ae0c69a4bfe40c96a7c3af63107]: Textual amendment: Word in [reg. 6(2)(a)](https://www.legislation.gov.uk/uksi/2015/668/regulation/6/2/a) omitted (31.12.2016) by virtue of [The Nitrate Pollution Prevention (Amendment) (No. 2) Regulations 2016 (S.I. 2016/1254)](https://www.legislation.gov.uk/uksi/2016/1254), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1254/regulation/1/1), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2016/1254/regulation/2/2/b/i)
 
-[^key-de25c585c31b7b144cf676ffb9bdacf0]: Textual amendment: [Reg. 6(2)(aa)](https://www.legislation.gov.uk/uksi/2015/668/regulation/6/2/aa) inserted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) (No. 2) Regulations 2016 (S.I. 2016/1254)](https://www.legislation.gov.uk/uksi/2016/1254), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1254/regulation/1/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/1254/regulation/2/2/b/ii)
+[^c-de25c585c31b7b144cf676ffb9bdacf0]: Textual amendment: [Reg. 6(2)(aa)](https://www.legislation.gov.uk/uksi/2015/668/regulation/6/2/aa) inserted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) (No. 2) Regulations 2016 (S.I. 2016/1254)](https://www.legislation.gov.uk/uksi/2016/1254), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1254/regulation/1/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/1254/regulation/2/2/b/ii)
 
 [^f00015]: Footnote: Published by the British Standards Institution, 389 Chiswick High Road, London W5 5AL (www.bsigroup.com), ISBN 978-0-580-65307-0.
 
@@ -1564,41 +1564,41 @@ An impact assessment has not been produced for this instrument as, given that it
 
 [^f00020]: Footnote: [S.I. 1989/1263](https://www.legislation.gov.uk/uksi/1989/1263); see regulation 2.
 
-[^key-f928ba05d7ca29f13a47e5e45aa2971b]: Textual amendment: Reg. 18(2) omitted (31.12.2016) by virtue of [The Nitrate Pollution Prevention (Amendment) (No. 2) Regulations 2016 (S.I. 2016/1254)](https://www.legislation.gov.uk/uksi/2016/1254), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1254/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/1254/regulation/2/3)
+[^c-f928ba05d7ca29f13a47e5e45aa2971b]: Textual amendment: Reg. 18(2) omitted (31.12.2016) by virtue of [The Nitrate Pollution Prevention (Amendment) (No. 2) Regulations 2016 (S.I. 2016/1254)](https://www.legislation.gov.uk/uksi/2016/1254), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1254/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/1254/regulation/2/3)
 
-[^key-a82b02c61a96eba85fdc839f1550521f]: Textual amendment: [Reg. 20(6)](https://www.legislation.gov.uk/uksi/2015/668/regulation/20/6) omitted (31.12.2016) by virtue of [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/9/2)
+[^c-a82b02c61a96eba85fdc839f1550521f]: Textual amendment: [Reg. 20(6)](https://www.legislation.gov.uk/uksi/2015/668/regulation/20/6) omitted (31.12.2016) by virtue of [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/9/2)
 
-[^key-ea536fd15359d86a48525455ef5d8fa0]: Textual amendment: [Reg. 21(6)](https://www.legislation.gov.uk/uksi/2015/668/regulation/21/6) omitted (31.12.2016) by virtue of [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/9/3)
+[^c-ea536fd15359d86a48525455ef5d8fa0]: Textual amendment: [Reg. 21(6)](https://www.legislation.gov.uk/uksi/2015/668/regulation/21/6) omitted (31.12.2016) by virtue of [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/9/3)
 
-[^key-ef6099581b8585c1d56f72289cce80c4]: Textual amendment: Reg. 24 substituted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/9/4)
+[^c-ef6099581b8585c1d56f72289cce80c4]: Textual amendment: Reg. 24 substituted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/9/4)
 
-[^key-cb6895bd67dbad04cb4bdfc04cd9083f]: Textual amendment: Regs. 25A, 25B inserted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2016/1190/regulation/6)
+[^c-cb6895bd67dbad04cb4bdfc04cd9083f]: Textual amendment: Regs. 25A, 25B inserted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2016/1190/regulation/6)
 
-[^key-938e5b4c4555bfbd33c40362cccd88d5]: Textual amendment: [Reg. 34(1)](https://www.legislation.gov.uk/uksi/2015/668/regulation/34/1) substituted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/7/a)
+[^c-938e5b4c4555bfbd33c40362cccd88d5]: Textual amendment: [Reg. 34(1)](https://www.legislation.gov.uk/uksi/2015/668/regulation/34/1) substituted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/7/a)
 
-[^key-3f7dae61d10e543674eb48f01ad91d32]: Textual amendment: [Reg. 34(3)](https://www.legislation.gov.uk/uksi/2015/668/regulation/34/3) substituted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/7/b)
+[^c-3f7dae61d10e543674eb48f01ad91d32]: Textual amendment: [Reg. 34(3)](https://www.legislation.gov.uk/uksi/2015/668/regulation/34/3) substituted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/7/b)
 
 [^f00023]: Footnote: [S.I. 2008/2349](https://www.legislation.gov.uk/uksi/2008/2349).
 
-[^key-74b150d78d285725558e2ca51145d464]: Textual amendment: [Reg. 36(2A)](https://www.legislation.gov.uk/uksi/2015/668/regulation/36/2A) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [16(4)(a)](https://www.legislation.gov.uk/uksi/2019/558/regulation/16/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-74b150d78d285725558e2ca51145d464]: Textual amendment: [Reg. 36(2A)](https://www.legislation.gov.uk/uksi/2015/668/regulation/36/2A) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [16(4)(a)](https://www.legislation.gov.uk/uksi/2019/558/regulation/16/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-65b4d09850eae720b7e1a0d4267e4917]: Textual amendment: Reg. 36(4)(4A) substituted for reg. 36(4) (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/8/a)
+[^c-65b4d09850eae720b7e1a0d4267e4917]: Textual amendment: Reg. 36(4)(4A) substituted for reg. 36(4) (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/8/a)
 
-[^key-665edc9fc969bd182c14f748efa246e4]: Textual amendment: Reg. 36(5A) inserted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/8/b)
+[^c-665edc9fc969bd182c14f748efa246e4]: Textual amendment: Reg. 36(5A) inserted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/8/b)
 
-[^key-fb0cebc6b3d29606391ce657c0920190]: Textual amendment: [Reg. 36(7)](https://www.legislation.gov.uk/uksi/2015/668/regulation/36/7) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [16(4)(b)](https://www.legislation.gov.uk/uksi/2019/558/regulation/16/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fb0cebc6b3d29606391ce657c0920190]: Textual amendment: [Reg. 36(7)](https://www.legislation.gov.uk/uksi/2015/668/regulation/36/7) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [16(4)(b)](https://www.legislation.gov.uk/uksi/2019/558/regulation/16/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8c66ca94ac6434a02f6ef56b9d712c28]: Textual amendment: Words in [reg. 37(5)](https://www.legislation.gov.uk/uksi/2015/668/regulation/37/5) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 53](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/53)
+[^c-8c66ca94ac6434a02f6ef56b9d712c28]: Textual amendment: Words in [reg. 37(5)](https://www.legislation.gov.uk/uksi/2015/668/regulation/37/5) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 53](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/53)
 
-[^key-331a1de612296318d0dc897668cd660d]: Textual amendment: Words in [reg. 37(6)](https://www.legislation.gov.uk/uksi/2015/668/regulation/37/6) substituted (30.11.2017) by [The Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013)](https://www.legislation.gov.uk/uksi/2017/1013), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1013/regulation/1), [Sch. 4 para. 17(2)](https://www.legislation.gov.uk/uksi/2017/1013/schedule/4/paragraph/17/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/1013/regulation/3), [4(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/4/2))
+[^c-331a1de612296318d0dc897668cd660d]: Textual amendment: Words in [reg. 37(6)](https://www.legislation.gov.uk/uksi/2015/668/regulation/37/6) substituted (30.11.2017) by [The Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013)](https://www.legislation.gov.uk/uksi/2017/1013), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1013/regulation/1), [Sch. 4 para. 17(2)](https://www.legislation.gov.uk/uksi/2017/1013/schedule/4/paragraph/17/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/1013/regulation/3), [4(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/4/2))
 
-[^key-0c9bebe96adf91d7045dc2968b78051d]: Textual amendment: Words in [reg. 39 heading](https://www.legislation.gov.uk/uksi/2015/668/regulation/39) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [16(5)](https://www.legislation.gov.uk/uksi/2019/558/regulation/16/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0c9bebe96adf91d7045dc2968b78051d]: Textual amendment: Words in [reg. 39 heading](https://www.legislation.gov.uk/uksi/2015/668/regulation/39) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [16(5)](https://www.legislation.gov.uk/uksi/2019/558/regulation/16/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-41dd8a03bd54f07d6307e9eb991c8cf2]: Textual amendment: Words in reg. 40(5) substituted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [9(5)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/9/5)
+[^c-41dd8a03bd54f07d6307e9eb991c8cf2]: Textual amendment: Words in reg. 40(5) substituted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [9(5)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/9/5)
 
-[^key-79dae0e7f5263ac5eaea1b65e2b709fd]: Textual amendment: [Reg. 40A](https://www.legislation.gov.uk/uksi/2015/668/regulation/40A) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [16(6)](https://www.legislation.gov.uk/uksi/2019/558/regulation/16/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-79dae0e7f5263ac5eaea1b65e2b709fd]: Textual amendment: [Reg. 40A](https://www.legislation.gov.uk/uksi/2015/668/regulation/40A) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [16(6)](https://www.legislation.gov.uk/uksi/2019/558/regulation/16/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0e973a56296ef2b20a44ad5d07d2735e]: Textual amendment: [Reg. 41(1)](https://www.legislation.gov.uk/uksi/2015/668/regulation/41/1) substituted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [9(6)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/9/6)
+[^c-0e973a56296ef2b20a44ad5d07d2735e]: Textual amendment: [Reg. 41(1)](https://www.legislation.gov.uk/uksi/2015/668/regulation/41/1) substituted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [9(6)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/9/6)
 
 [^f00026]: Footnote: [SI 2010/1157](https://www.legislation.gov.uk/uksi/2010/1157).
 
@@ -1614,8 +1614,8 @@ An impact assessment has not been produced for this instrument as, given that it
 
 [^f00032]: Footnote: [SI 2013/2619](https://www.legislation.gov.uk/uksi/2013/2619).
 
-[^key-55dc76bc493279290cf4a902be53b2f8]: Textual amendment: Sch. 4 inserted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/5/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/1190/schedule)
+[^c-55dc76bc493279290cf4a902be53b2f8]: Textual amendment: Sch. 4 inserted (31.12.2016) by [The Nitrate Pollution Prevention (Amendment) Regulations 2016 (S.I. 2016/1190)](https://www.legislation.gov.uk/uksi/2016/1190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2016/1190/regulation/5/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/1190/schedule)
 
-[^key-19f530d6d6773d7f3d6a48c92c0fc857]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2015/668/schedule/4/paragraph/1) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [5(6)(a)](https://www.legislation.gov.uk/uksi/2019/526/regulation/5/6/a)
+[^c-19f530d6d6773d7f3d6a48c92c0fc857]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2015/668/schedule/4/paragraph/1) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [5(6)(a)](https://www.legislation.gov.uk/uksi/2019/526/regulation/5/6/a)
 
-[^key-cc333f8de920632966e6727059e25f9e]: Textual amendment: Words in [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2015/668/schedule/4/paragraph/2) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [5(6)(b)](https://www.legislation.gov.uk/uksi/2019/526/regulation/5/6/b)
+[^c-cc333f8de920632966e6727059e25f9e]: Textual amendment: Words in [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2015/668/schedule/4/paragraph/2) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [5(6)(b)](https://www.legislation.gov.uk/uksi/2019/526/regulation/5/6/b)

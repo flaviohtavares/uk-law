@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Radioactive waste geological disposal facilities[^key-1bf80c2042aa055f945e9b78bedef7ca]
+## 16. Radioactive waste geological disposal facilities[^c-1bf80c2042aa055f945e9b78bedef7ca]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1bf80c2042aa055f945e9b78bedef7ca]: Commencement: S. 16 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)
+[^c-1bf80c2042aa055f945e9b78bedef7ca]: Commencement: S. 16 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)

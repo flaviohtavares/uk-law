@@ -14,10 +14,10 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-02-05. See https://www.legislation.gov.uk/changes/affected/uksi/2009/1801
 
-## 22. Permitted use of protected information by the registrar: communication[^key-e0fe8d354f5e42854585fded8a29e02a]
+## 22. Permitted use of protected information by the registrar: communication[^c-e0fe8d354f5e42854585fded8a29e02a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e0fe8d354f5e42854585fded8a29e02a]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2009/1801/regulation/22) omitted (21.3.2024) by virtue of [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 4(4)](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/4/4)
+[^c-e0fe8d354f5e42854585fded8a29e02a]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2009/1801/regulation/22) omitted (21.3.2024) by virtue of [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 4(4)](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/4/4)

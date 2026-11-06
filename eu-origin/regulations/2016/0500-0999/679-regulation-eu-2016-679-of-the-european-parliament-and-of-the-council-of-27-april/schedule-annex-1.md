@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX 1 — LAWFULNESS OF PROCESSING: RECOGNISED LEGITIMATE INTERESTS[^key-ef22eb6ce7b007f0a7d3b6f1412b05d7]
+## ANNEX 1 — LAWFULNESS OF PROCESSING: RECOGNISED LEGITIMATE INTERESTS[^c-ef22eb6ce7b007f0a7d3b6f1412b05d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ This condition is met where the processing is necessary for the purposes of safe
 
 ## Annotations
 
-[^key-ef22eb6ce7b007f0a7d3b6f1412b05d7]: Textual amendment: Annex 1 inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 4](https://www.legislation.gov.uk/ukpga/2025/18/schedule/4); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z6)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z6)
+[^c-ef22eb6ce7b007f0a7d3b6f1412b05d7]: Textual amendment: Annex 1 inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 4](https://www.legislation.gov.uk/ukpga/2025/18/schedule/4); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z6)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z6)

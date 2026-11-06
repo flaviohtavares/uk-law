@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The Secretary of State[^key-f1f045ae227a4e7ec55df27f041d13d4] may by regulations make provision—
+(1) The Secretary of State[^c-f1f045ae227a4e7ec55df27f041d13d4] may by regulations make provision—
 
 - (a) specifying one or more bodies for the purposes of section 144(2)(b);
-- (aa)[^key-06ee9589d316a432b60bc555e03946e0] specifying one or more bodies for the purposes of section 149(2)(c);
+- (aa)[^c-06ee9589d316a432b60bc555e03946e0] specifying one or more bodies for the purposes of section 149(2)(c);
 - (b) with respect to the duties of an auditor carrying out an audit of individual or group accounts, including provision with respect to the making by the auditor of a report on—
   - (i) the statement of accounts prepared for the financial year in question under section 132(1),
   - (ii) the account and statement so prepared under section 133,
@@ -57,6 +57,6 @@ and the references in this section and section 155 to an audit or examination of
 
 ## Annotations
 
-[^key-f1f045ae227a4e7ec55df27f041d13d4]: Textual amendment: Words in s. 154(1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(x)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/x) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-f1f045ae227a4e7ec55df27f041d13d4]: Textual amendment: Words in s. 154(1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(x)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/x) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-06ee9589d316a432b60bc555e03946e0]: Textual amendment: [S. 154(1)(aa)](https://www.legislation.gov.uk/ukpga/2011/25/section/154/1/aa) inserted (1.4.2017) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 122](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/122); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 4](https://www.legislation.gov.uk/uksi/2015/841/article/4)
+[^c-06ee9589d316a432b60bc555e03946e0]: Textual amendment: [S. 154(1)(aa)](https://www.legislation.gov.uk/ukpga/2011/25/section/154/1/aa) inserted (1.4.2017) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 122](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/122); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 4](https://www.legislation.gov.uk/uksi/2015/841/article/4)

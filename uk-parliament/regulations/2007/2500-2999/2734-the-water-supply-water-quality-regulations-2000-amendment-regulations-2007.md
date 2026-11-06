@@ -32,7 +32,7 @@ summary: ''
 
 WATER, ENGLAND AND WALES
 
-The Water Supply (Water Quality) Regulations 2000 (Amendment) Regulations 2007 (revoked)[^key-3c1c7a1b540a27365cdeddf1d20366ca]
+The Water Supply (Water Quality) Regulations 2000 (Amendment) Regulations 2007 (revoked)[^c-3c1c7a1b540a27365cdeddf1d20366ca]
 
 Made
 
@@ -46,57 +46,57 @@ Coming into force
 
 22nd December 2007
 
-[^key-3c1c7a1b540a27365cdeddf1d20366ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c1c7a1b540a27365cdeddf1d20366ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and interpretation[^key-3c1c7a1b540a27365cdeddf1d20366ca]
+## 1. Citation, commencement, extent and interpretation[^c-3c1c7a1b540a27365cdeddf1d20366ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Principal Regulations[^key-3c1c7a1b540a27365cdeddf1d20366ca]
+## 2. Amendments to the Principal Regulations[^c-3c1c7a1b540a27365cdeddf1d20366ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Further amendments to the Principal Regulations[^key-3c1c7a1b540a27365cdeddf1d20366ca]
+## 3. Further amendments to the Principal Regulations[^c-3c1c7a1b540a27365cdeddf1d20366ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provisions[^key-3c1c7a1b540a27365cdeddf1d20366ca]
+## 4. Transitional provisions[^c-3c1c7a1b540a27365cdeddf1d20366ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation of spent provisions in the Water Supply (Water Quality) (Amendment) Regulations 2001[^key-3c1c7a1b540a27365cdeddf1d20366ca]
+## 5. Revocation of spent provisions in the Water Supply (Water Quality) (Amendment) Regulations 2001[^c-3c1c7a1b540a27365cdeddf1d20366ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation of spent provisions in the National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc Provisions) Regulations 2002[^key-3c1c7a1b540a27365cdeddf1d20366ca]
+## 6. Revocation of spent provisions in the National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc Provisions) Regulations 2002[^c-3c1c7a1b540a27365cdeddf1d20366ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation of spent provisions in the Water Act 2003 (Consequential and Supplementary Provisions) Regulations 2005[^key-3c1c7a1b540a27365cdeddf1d20366ca]
+## 7. Revocation of spent provisions in the Water Act 2003 (Consequential and Supplementary Provisions) Regulations 2005[^c-3c1c7a1b540a27365cdeddf1d20366ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3c1c7a1b540a27365cdeddf1d20366ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c1c7a1b540a27365cdeddf1d20366ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## THE SCHEDULE — FURTHER AMENDMENTS TO THE PRINCIPAL REGULATIONS[^key-3c1c7a1b540a27365cdeddf1d20366ca]
+## THE SCHEDULE — FURTHER AMENDMENTS TO THE PRINCIPAL REGULATIONS[^c-3c1c7a1b540a27365cdeddf1d20366ca]
 
 Regulation 3
 
-**1.**[^key-3c1c7a1b540a27365cdeddf1d20366ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3c1c7a1b540a27365cdeddf1d20366ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-3c1c7a1b540a27365cdeddf1d20366ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3c1c7a1b540a27365cdeddf1d20366ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-3c1c7a1b540a27365cdeddf1d20366ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3c1c7a1b540a27365cdeddf1d20366ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-3c1c7a1b540a27365cdeddf1d20366ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3c1c7a1b540a27365cdeddf1d20366ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-3c1c7a1b540a27365cdeddf1d20366ca]EXPLANATORY NOTE
+[^c-3c1c7a1b540a27365cdeddf1d20366ca]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -132,4 +132,4 @@ A transposition note and full regulatory impact assessment of the effect that th
 
 ## Annotations
 
-[^key-3c1c7a1b540a27365cdeddf1d20366ca]: Textual amendment: Regulations revoked (27.6.2016) by [The Water Supply (Water Quality) Regulations 2016 (S.I. 2016/614)](https://www.legislation.gov.uk/uksi/2016/614), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2016/614/schedule/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/3))
+[^c-3c1c7a1b540a27365cdeddf1d20366ca]: Textual amendment: Regulations revoked (27.6.2016) by [The Water Supply (Water Quality) Regulations 2016 (S.I. 2016/614)](https://www.legislation.gov.uk/uksi/2016/614), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2016/614/schedule/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/3))

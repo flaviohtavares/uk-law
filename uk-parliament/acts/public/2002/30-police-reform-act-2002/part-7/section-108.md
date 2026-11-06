@@ -42,7 +42,7 @@ shall come into force on such day as the Secretary of State may by order appoint
 
 (7) This Act extends to the United Kingdom so far as it makes the following provision—
 
-- (za)[^key-1607ac249c2b405055f9bd5090e1e8ec] the provision contained in paragraph 19F of Schedule 3 (and any interpretative or other supplementary provision as it has effect for the purposes of that provision);
+- (za)[^c-1607ac249c2b405055f9bd5090e1e8ec] the provision contained in paragraph 19F of Schedule 3 (and any interpretative or other supplementary provision as it has effect for the purposes of that provision);
 - (a) the provision contained in Part 5;
 - (b) the provision contained in section 82;
 - (c) [^c20057931]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -85,7 +85,7 @@ do not extend to Scotland.
 
 [^c2380271]: Subordinate legislation: S. 108(5) power fully exercised: 1.10.2002 appointed by {[S.S.I. 2002/420](https://www.legislation.gov.uk/ssi/2002/420)}, art .2
 
-[^key-1607ac249c2b405055f9bd5090e1e8ec]: Textual amendment: [S. 108(7)(za)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/7/za) inserted (19.12.2012) by [Police (Complaints and Conduct) Act 2012 (c. 22)](https://www.legislation.gov.uk/ukpga/2012/22), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2012/22/section/1/4), [3(3)](https://www.legislation.gov.uk/ukpga/2012/22/section/3/3)
+[^c-1607ac249c2b405055f9bd5090e1e8ec]: Textual amendment: [S. 108(7)(za)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/7/za) inserted (19.12.2012) by [Police (Complaints and Conduct) Act 2012 (c. 22)](https://www.legislation.gov.uk/ukpga/2012/22), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2012/22/section/1/4), [3(3)](https://www.legislation.gov.uk/ukpga/2012/22/section/3/3)
 
 [^c20057931]: Textual amendment: S. 108(7)(c) repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 52](https://www.legislation.gov.uk/ukpga/2006/48/section/52), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (subject to [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 

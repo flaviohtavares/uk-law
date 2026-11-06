@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies to a derivative contract of a company for an accounting period if conditions A, B , C and D[^key-3d9fd76ab95fd600429ecc913e8b0376] are met.
+(1) This section applies to a derivative contract of a company for an accounting period if conditions A, B , C and D[^c-3d9fd76ab95fd600429ecc913e8b0376] are met.
 
 (2) Condition A is that the underlying subject matter of the derivative contract consists of either or both of the following—
 
@@ -31,12 +31,12 @@ summary: ''
 
 (4) Condition C is that the company is not an excluded body.
 
-(4A)[^key-c899ba3273df9033080ab3444c50ed36] Condition D is that no two or more of the parties to the derivative contract are connected persons.
+(4A)[^c-c899ba3273df9033080ab3444c50ed36] Condition D is that no two or more of the parties to the derivative contract are connected persons.
 
 (5) For the case where the underlying subject matter of a derivative contract also includes income from property within subsection (2)(a) or (b), see section 644.
 
 ## Annotations
 
-[^key-3d9fd76ab95fd600429ecc913e8b0376]: Textual amendment: Words in s. 643(1) substituted (with effect in accordance with s. 41(5)(6) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 41(2)(a)](https://www.legislation.gov.uk/ukpga/2013/29/section/41/2/a)
+[^c-3d9fd76ab95fd600429ecc913e8b0376]: Textual amendment: Words in s. 643(1) substituted (with effect in accordance with s. 41(5)(6) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 41(2)(a)](https://www.legislation.gov.uk/ukpga/2013/29/section/41/2/a)
 
-[^key-c899ba3273df9033080ab3444c50ed36]: Textual amendment: S. 643(4A) inserted (with effect in accordance with s. 41(5)(6) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 41(2)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/41/2/b)
+[^c-c899ba3273df9033080ab3444c50ed36]: Textual amendment: S. 643(4A) inserted (with effect in accordance with s. 41(5)(6) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 41(2)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/41/2/b)

@@ -30,7 +30,7 @@ Regulation 32(4)
 
 **4.** Reliable decision making.
 
-**5.** Effectively integrating safety and environmental management systems between operators and owners and other entities involved in oil and gas operations , CCUS operations or offshore hydrogen operations, as appropriate[^key-d01270cb0065ef7951870a2e716eba1f].
+**5.** Effectively integrating safety and environmental management systems between operators and owners and other entities involved in oil and gas operations , CCUS operations or offshore hydrogen operations, as appropriate[^c-d01270cb0065ef7951870a2e716eba1f].
 
 **6.** Key performance indicators.
 
@@ -44,4 +44,4 @@ Regulation 32(4)
 
 ## Annotations
 
-[^key-d01270cb0065ef7951870a2e716eba1f]: Textual amendment: Words in Sch. 11 para. 5 inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(14)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/14)
+[^c-d01270cb0065ef7951870a2e716eba1f]: Textual amendment: Words in Sch. 11 para. 5 inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(14)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/14)

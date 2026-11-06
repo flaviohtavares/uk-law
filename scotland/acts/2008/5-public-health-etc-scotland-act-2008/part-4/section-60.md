@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Appeal against orders for medical examination[^key-5dce31d45ed1096ef8dc0c6f94380d79]
+## 60. Appeal against orders for medical examination[^c-5dce31d45ed1096ef8dc0c6f94380d79]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5dce31d45ed1096ef8dc0c6f94380d79]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2008/5/section/60) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-5dce31d45ed1096ef8dc0c6f94380d79]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2008/5/section/60) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

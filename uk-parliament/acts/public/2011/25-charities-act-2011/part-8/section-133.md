@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-If a charity's gross income in any financial year does not exceed £500,000[^key-ac92f800bba42fc11f936fde7e1e6b1f] the charity trustees may, in respect of that year, elect to prepare—
+If a charity's gross income in any financial year does not exceed £500,000[^c-ac92f800bba42fc11f936fde7e1e6b1f] the charity trustees may, in respect of that year, elect to prepare—
 
 - (a) a receipts and payments account, and
 - (b) a statement of assets and liabilities,
@@ -29,4 +29,4 @@ instead of a statement of accounts under section 132(1).
 
 ## Annotations
 
-[^key-ac92f800bba42fc11f936fde7e1e6b1f]: Textual amendment: Sum in [s. 133](https://www.legislation.gov.uk/ukpga/2011/25/section/133) substituted (30.9.2026) by [The Charities Acts 1992 and 2011 (Substitution of Sums) Order 2026 (S.I. 2026/427)](https://www.legislation.gov.uk/uksi/2026/427), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/427/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2026/427/article/3/3) (with [art. 5(6)](https://www.legislation.gov.uk/uksi/2026/427/article/5/6))
+[^c-ac92f800bba42fc11f936fde7e1e6b1f]: Textual amendment: Sum in [s. 133](https://www.legislation.gov.uk/ukpga/2011/25/section/133) substituted (30.9.2026) by [The Charities Acts 1992 and 2011 (Substitution of Sums) Order 2026 (S.I. 2026/427)](https://www.legislation.gov.uk/uksi/2026/427), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/427/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2026/427/article/3/3) (with [art. 5(6)](https://www.legislation.gov.uk/uksi/2026/427/article/5/6))

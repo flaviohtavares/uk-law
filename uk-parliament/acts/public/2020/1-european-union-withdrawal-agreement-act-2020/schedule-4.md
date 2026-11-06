@@ -29,7 +29,7 @@ Section 40
 **1.** (1) A statutory instrument containing—
 
 - (a) the first regulations under section 7(1)(b), (c), (d), (e), (f) or (g), 8(1) or 9, or
-- (b) regulations under section 7, 8 or 9 which amend, repeal or revoke primary legislation [^key-f5de15a137f63ca01c460396963f4615]...,
+- (b) regulations under section 7, 8 or 9 which amend, repeal or revoke primary legislation [^c-f5de15a137f63ca01c460396963f4615]...,
 
 may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
@@ -42,8 +42,8 @@ may not be made unless a draft of the instrument has been laid before, and appro
 
 (2) Any other statutory instrument containing regulations under section 11 which amend, repeal or revoke—
 
-- (a) primary legislation, [^key-f585ca458f345aed28fd9be5eb9f8aeb]...
-- (b)[^key-f585ca458f345aed28fd9be5eb9f8aeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) primary legislation, [^c-f585ca458f345aed28fd9be5eb9f8aeb]...
+- (b)[^c-f585ca458f345aed28fd9be5eb9f8aeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
@@ -63,8 +63,8 @@ may not be made unless a draft of the instrument has been laid before, and appro
 
 **3.** (1) A statutory instrument containing regulations under section 12, 13 or 14 of a Minister of the Crown acting alone which amend, repeal or revoke—
 
-- (a) primary legislation, [^key-7969f3de36fa80c5adf08012e3f2997b]...
-- (b)[^key-7969f3de36fa80c5adf08012e3f2997b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) primary legislation, [^c-7969f3de36fa80c5adf08012e3f2997b]...
+- (b)[^c-7969f3de36fa80c5adf08012e3f2997b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
@@ -72,8 +72,8 @@ may not be made unless a draft of the instrument has been laid before, and appro
 
 (3) Regulations under section 12, 13 or 14 of the Scottish Ministers acting alone which amend, repeal or revoke—
 
-- (a) primary legislation, [^key-7a716b2210bb78612036683fd7cd922a]...
-- (b)[^key-7a716b2210bb78612036683fd7cd922a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) primary legislation, [^c-7a716b2210bb78612036683fd7cd922a]...
+- (b)[^c-7a716b2210bb78612036683fd7cd922a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 are subject to the affirmative procedure (see section 29 of the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)).
 
@@ -81,8 +81,8 @@ are subject to the affirmative procedure (see section 29 of the Interpretation a
 
 (5) A statutory instrument containing regulations under section 12, 13 or 14 of the Welsh Ministers acting alone which amend, repeal or revoke—
 
-- (a) primary legislation, [^key-671af7ba5d9d90dbd622d1c34a94fcb5]...
-- (b)[^key-671af7ba5d9d90dbd622d1c34a94fcb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) primary legislation, [^c-671af7ba5d9d90dbd622d1c34a94fcb5]...
+- (b)[^c-671af7ba5d9d90dbd622d1c34a94fcb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales.
 
@@ -90,8 +90,8 @@ may not be made unless a draft of the instrument has been laid before, and appro
 
 (7) Regulations under section 12, 13 or 14 of a Northern Ireland department acting alone which amend, repeal or revoke—
 
-- (a) primary legislation, [^key-4f804bb70e8a9cf891223d2d17b8ebe9]...
-- (b)[^key-4f804bb70e8a9cf891223d2d17b8ebe9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) primary legislation, [^c-4f804bb70e8a9cf891223d2d17b8ebe9]...
+- (b)[^c-4f804bb70e8a9cf891223d2d17b8ebe9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 may not be made unless a draft of the regulations has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
 
@@ -105,8 +105,8 @@ may not be made unless a draft of the regulations has been laid before, and appr
 
 (3) A statutory instrument containing regulations to which this paragraph applies which amend, repeal or revoke—
 
-- (a) primary legislation, [^key-42e93a4d68c5b87e1ed5f7e85d77f0af]...
-- (b)[^key-42e93a4d68c5b87e1ed5f7e85d77f0af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) primary legislation, [^c-42e93a4d68c5b87e1ed5f7e85d77f0af]...
+- (b)[^c-42e93a4d68c5b87e1ed5f7e85d77f0af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
@@ -114,8 +114,8 @@ may not be made unless a draft of the instrument has been laid before, and appro
 
 (5) Regulations to which this paragraph applies which are made jointly with the Scottish Ministers and amend, repeal or revoke—
 
-- (a) primary legislation, [^key-f92dd50a066f5ac6eadc1fcafc0923c9]...
-- (b)[^key-f92dd50a066f5ac6eadc1fcafc0923c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) primary legislation, [^c-f92dd50a066f5ac6eadc1fcafc0923c9]...
+- (b)[^c-f92dd50a066f5ac6eadc1fcafc0923c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 are subject to the affirmative procedure.
 
@@ -129,8 +129,8 @@ are subject to the affirmative procedure.
 
 (10) A statutory instrument containing regulations to which this paragraph applies which are made jointly with the Welsh Ministers and amend, repeal or revoke—
 
-- (a) primary legislation, [^key-b02029f248ae6f26ffada5bce6c156b9]...
-- (b)[^key-b02029f248ae6f26ffada5bce6c156b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) primary legislation, [^c-b02029f248ae6f26ffada5bce6c156b9]...
+- (b)[^c-b02029f248ae6f26ffada5bce6c156b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales.
 
@@ -138,8 +138,8 @@ may not be made unless a draft of the instrument has been laid before, and appro
 
 (12) Regulations to which this paragraph applies which are made jointly with a Northern Ireland department and amend, repeal or revoke—
 
-- (a) primary legislation, [^key-90a5d84215eefda0db063e5de38db555]...
-- (b)[^key-90a5d84215eefda0db063e5de38db555] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) primary legislation, [^c-90a5d84215eefda0db063e5de38db555]...
+- (b)[^c-90a5d84215eefda0db063e5de38db555] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 may not be made unless a draft of the regulations has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
 
@@ -276,22 +276,22 @@ nothing further is to be done under the instrument after the date of the resolut
 
 ## Annotations
 
-[^key-f5de15a137f63ca01c460396963f4615]: Textual amendment: Words in [Sch. 4 para. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/4/paragraph/1/1/b) omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/4/2)
+[^c-f5de15a137f63ca01c460396963f4615]: Textual amendment: Words in [Sch. 4 para. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/4/paragraph/1/1/b) omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/4/2)
 
-[^key-f585ca458f345aed28fd9be5eb9f8aeb]: Textual amendment: [Sch. 4 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/4/paragraph/2/2/b) and word omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 4(3)(a)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/4/3/a)
+[^c-f585ca458f345aed28fd9be5eb9f8aeb]: Textual amendment: [Sch. 4 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/4/paragraph/2/2/b) and word omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 4(3)(a)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/4/3/a)
 
-[^key-7969f3de36fa80c5adf08012e3f2997b]: Textual amendment: [Sch. 4 para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/4/paragraph/3/1/b) and word omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/4/3/b)
+[^c-7969f3de36fa80c5adf08012e3f2997b]: Textual amendment: [Sch. 4 para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/4/paragraph/3/1/b) and word omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/4/3/b)
 
-[^key-7a716b2210bb78612036683fd7cd922a]: Textual amendment: [Sch. 4 para. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/4/paragraph/3/3/b) and word omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/4/3/b)
+[^c-7a716b2210bb78612036683fd7cd922a]: Textual amendment: [Sch. 4 para. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/4/paragraph/3/3/b) and word omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/4/3/b)
 
-[^key-671af7ba5d9d90dbd622d1c34a94fcb5]: Textual amendment: [Sch. 4 para. 3(5)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/4/paragraph/3/5/b) and word omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/4/3/b)
+[^c-671af7ba5d9d90dbd622d1c34a94fcb5]: Textual amendment: [Sch. 4 para. 3(5)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/4/paragraph/3/5/b) and word omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/4/3/b)
 
-[^key-4f804bb70e8a9cf891223d2d17b8ebe9]: Textual amendment: [Sch. 4 para. 3(7)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/4/paragraph/3/7/b) and word omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/4/3/b)
+[^c-4f804bb70e8a9cf891223d2d17b8ebe9]: Textual amendment: [Sch. 4 para. 3(7)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/4/paragraph/3/7/b) and word omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/4/3/b)
 
-[^key-42e93a4d68c5b87e1ed5f7e85d77f0af]: Textual amendment: [Sch. 4 para. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/4/paragraph/4/3/b) and word omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 4(3)(c)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/4/3/c)
+[^c-42e93a4d68c5b87e1ed5f7e85d77f0af]: Textual amendment: [Sch. 4 para. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/4/paragraph/4/3/b) and word omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 4(3)(c)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/4/3/c)
 
-[^key-f92dd50a066f5ac6eadc1fcafc0923c9]: Textual amendment: [Sch. 4 para. 4(5)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/4/paragraph/4/5/b) and word omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 4(3)(c)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/4/3/c)
+[^c-f92dd50a066f5ac6eadc1fcafc0923c9]: Textual amendment: [Sch. 4 para. 4(5)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/4/paragraph/4/5/b) and word omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 4(3)(c)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/4/3/c)
 
-[^key-b02029f248ae6f26ffada5bce6c156b9]: Textual amendment: [Sch. 4 para. 4(10)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/4/paragraph/4/10/b) and word omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 4(3)(c)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/4/3/c)
+[^c-b02029f248ae6f26ffada5bce6c156b9]: Textual amendment: [Sch. 4 para. 4(10)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/4/paragraph/4/10/b) and word omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 4(3)(c)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/4/3/c)
 
-[^key-90a5d84215eefda0db063e5de38db555]: Textual amendment: [Sch. 4 para. 4(12)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/4/paragraph/4/12/b) and word omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 4(3)(c)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/4/3/c)
+[^c-90a5d84215eefda0db063e5de38db555]: Textual amendment: [Sch. 4 para. 4(12)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/4/paragraph/4/12/b) and word omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 4(3)(c)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/4/3/c)

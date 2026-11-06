@@ -46,7 +46,7 @@ and references in this Measure to “**the Board**” shall be construed as refe
 
 (2) Every such scheme shall provide for the appointment of fit persons to be surveyors for the purposes of this Measure (hereinafter referred to as “**diocesan surveyors**”) and for determining their remuneration and terms of service.
 
-Provided that no person appointed as a surveyor after the coming into force of section 6 of the Church of England (Miscellaneous Provisions) Measure 2005 shall be considered to be a fit person for the purposes of this subsection unless that person is registered under the Architects Act 1997 or is a corporate member of the Chartered Institute of Building or the Royal Institution of Chartered Surveyors or a member of such other body as the Commissioners may determine and appearing to them to be suitably qualified.[^key-eda9c189f7f94f4a209f5c4b33633585]
+Provided that no person appointed as a surveyor after the coming into force of section 6 of the Church of England (Miscellaneous Provisions) Measure 2005 shall be considered to be a fit person for the purposes of this subsection unless that person is registered under the Architects Act 1997 or is a corporate member of the Chartered Institute of Building or the Royal Institution of Chartered Surveyors or a member of such other body as the Commissioners may determine and appearing to them to be suitably qualified.[^c-eda9c189f7f94f4a209f5c4b33633585]
 
 (3) If the scheme provides for the appointment of a Parsonages Board, it shall also provide for the appointment of a secretary of the Board, and for determining his remuneration and terms of service.
 
@@ -205,13 +205,13 @@ Provided that in any such proceedings it shall be open to the defendant to show 
 
 ### 14. Parsonage house ceasing to be such.
 
-(1) Where the Board is satisfied that a parsonage house may be sold or exchanged[^key-22ace15888ed849859f9a4f82c50ee1c] under Part 1 of the Church Property Measure 2018[^key-421d84caf0122c26eba72f547d410df1] without the consent of the Commissioners under section 3 of that Measure[^key-06d45e418def57a19ac591e1d4f48219] or is notified by the Commissioners that they have consented to the sale or exchange[^key-16310ef3a9bec0a9bf2b13986eb4d192] of a parsonage house, or that the Commissioners are satisfied that any objection raised[^c921844] in accordance with section 5(1) of that Measure[^key-776ca4912e31263f0b6b822a82957f66] ought not to prevent any such sale or exchange, the duties of the Board under the preceding provisions of this Measure shall apply to that parsonage house to the following extent only:—
+(1) Where the Board is satisfied that a parsonage house may be sold or exchanged[^c-22ace15888ed849859f9a4f82c50ee1c] under Part 1 of the Church Property Measure 2018[^c-421d84caf0122c26eba72f547d410df1] without the consent of the Commissioners under section 3 of that Measure[^c-06d45e418def57a19ac591e1d4f48219] or is notified by the Commissioners that they have consented to the sale or exchange[^c-16310ef3a9bec0a9bf2b13986eb4d192] of a parsonage house, or that the Commissioners are satisfied that any objection raised[^c921844] in accordance with section 5(1) of that Measure[^c-776ca4912e31263f0b6b822a82957f66] ought not to prevent any such sale or exchange, the duties of the Board under the preceding provisions of this Measure shall apply to that parsonage house to the following extent only:—
 
 - (a) the Board shall keep the insurance of the parsonage house in force until the sale or exchange is effected; and
-- (b) [^key-fc062eb6468e562bd911117ef8ec4de9]... The Board shall carry out such repairs thereto as they think necessary or desirable to facilitate the sale or exchange thereof; and
+- (b) [^c-fc062eb6468e562bd911117ef8ec4de9]... The Board shall carry out such repairs thereto as they think necessary or desirable to facilitate the sale or exchange thereof; and
 - (c) so long as the parsonage house remains in occupation, the Board shall carry out such repairs as they think necessary for such occupation.
 
-(2) Where a parsonage house ceases, otherwise than in consequence of a sale or exchange[^key-b10438eec36ecb6ca2fbb1acdb2afb4a] or proposals therefor, to be a parsonage house, the preceding provisions of this Measure so far as they relate to parsonage houses shall cease to apply thereto.
+(2) Where a parsonage house ceases, otherwise than in consequence of a sale or exchange[^c-b10438eec36ecb6ca2fbb1acdb2afb4a] or proposals therefor, to be a parsonage house, the preceding provisions of this Measure so far as they relate to parsonage houses shall cease to apply thereto.
 
 (3) Nothing in this section shall affect any liability of the Board under subsection (2) of the last preceding section, or any liability of the incumbent or his personal representative under subsection (4) of that section or section 20(2) of this Measure, being a liability accrued before the preceding provisions of this section took effect in relation to the parsonage house.
 
@@ -224,7 +224,7 @@ Provided that in any such proceedings it shall be open to the defendant to show 
 (1) The diocesan synod may by scheme authorise the Board to execute—
 
 - (a) works of interior decoration of parsonage houses, by agreement with the incumbent;
-- (b) works of improvement, demolition or erection of parsonage houses in pursuance of one or more of the powers under sections 1, 2 and 4 of the Church Property Measure 2018[^key-8d0adc9ee0a9074b7a86647735b82779] [^c921848]. . ., by agreement with the persons on whom those powers are conferred.
+- (b) works of improvement, demolition or erection of parsonage houses in pursuance of one or more of the powers under sections 1, 2 and 4 of the Church Property Measure 2018[^c-8d0adc9ee0a9074b7a86647735b82779] [^c921848]. . ., by agreement with the persons on whom those powers are conferred.
 
 (2) The diocesan synod may by scheme provide for the inspection by a diocesan surveyor of buildings in the diocese (other than parsonage houses) used as residences by clergy or lay workers of the Church of England, and for the making of reports to the Board on such inspections.
 
@@ -250,15 +250,15 @@ Provided that in any such proceedings it shall be open to the defendant to show 
 
 (3)[^c921853] The Board shall in respect of any parsonage house in the diocese have power to defray on behalf of the Diocesan Board of Finance for the diocese any periodical payment in respect of a loan made by the Commissioners to that Board for the provision, improvement, division or demolition of that house or the safeguarding of the amenities thereof and any accrued interest thereon.
 
-(4)[^key-1209d662539ddd225d6cb16d69f70a14] The Board shall in respect of any building in the diocese (other than a parsonage house or other residence of an incumbent in the diocese) used as a residence by any person declared by the bishop to be engaged in the cure of souls within the diocese have power to defray on behalf of the Diocesan Board of Finance for the diocese the cost of any such payments as are referred to in paragraphs (a) to (d) of subsection (1) above and the costs, charges and expenses of any sale.
+(4)[^c-1209d662539ddd225d6cb16d69f70a14] The Board shall in respect of any building in the diocese (other than a parsonage house or other residence of an incumbent in the diocese) used as a residence by any person declared by the bishop to be engaged in the cure of souls within the diocese have power to defray on behalf of the Diocesan Board of Finance for the diocese the cost of any such payments as are referred to in paragraphs (a) to (d) of subsection (1) above and the costs, charges and expenses of any sale.
 
 ## Financial Provisions
 
-### 17. Expenditure of the Board[^key-1a15569b61d370239a85c439e94e0ad8]
+### 17. Expenditure of the Board[^c-1a15569b61d370239a85c439e94e0ad8]
 
 All expenditure of the Board, except expenditure defrayed out of a specific trust fund, shall be defrayed out of any fund or funds capable of being applied for the purposes in question.
 
-### 18. Payments to Parsonages Fund from Repair Accounts etc.[^key-511db681b1d94f905d45997ede3ff4d5]
+### 18. Payments to Parsonages Fund from Repair Accounts etc.[^c-511db681b1d94f905d45997ede3ff4d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -273,13 +273,13 @@ All expenditure of the Board, except expenditure defrayed out of a specific trus
 - (c) for a combination of such contributions and direct payments as aforesaid; and
 - (d) for refunding to any parochial church council any part of a contribution not required by the Board.
 
-(3) The Commissioners may make grants out of their general fund to the Board for payment into any fund or funds capable of being applied for the purposes of the provision, improvement or repair of parsonage houses[^key-355cbb1c28e330fcc81d7de198aa6fb6].
+(3) The Commissioners may make grants out of their general fund to the Board for payment into any fund or funds capable of being applied for the purposes of the provision, improvement or repair of parsonage houses[^c-355cbb1c28e330fcc81d7de198aa6fb6].
 
 (4)[^c921865] Any moneys received by the Board under any insurance policy effected under this Measure, so far as they are not applied for the purposes mentioned in section 12(3) of this Measure or to meet any liability covered by the policy, and any net proceeds of the demolition under this Measure of any outbuildings of a parsonage house, shall be held by the Board as if they were moneys arising from a sale of the parsonage house, under the Acts and Measures relating to such sales, and may be applied accordingly.
 
 (5) Without prejudice to the generality of section 1(5) of this Measure, the Board shall have power to accept gifts and bequests either for their general purposes or on specific trusts for purposes falling within their general purposes.
 
-(6) All moneys received by the Board shall, subject to subsection (4) of this section . . . [^c921866] and any such specific trusts as aforesaid, be paid into any fund or funds capable of being applied for the purposes of the provision, improvement or repair of parsonage houses[^key-3ef0b6f690de9b5448fade6b1125f6b1].
+(6) All moneys received by the Board shall, subject to subsection (4) of this section . . . [^c921866] and any such specific trusts as aforesaid, be paid into any fund or funds capable of being applied for the purposes of the provision, improvement or repair of parsonage houses[^c-3ef0b6f690de9b5448fade6b1125f6b1].
 
 ## Miscellaneous and General
 
@@ -297,7 +297,7 @@ Provided that in any such proceedings it shall be open to the defendant to show 
 
 (4)[^c921879] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) The consent of the registered patron[^key-a346de0893984c7e9e10d4003706407d] or ordinary shall not be necessary for any felling in accordance with this section.
+(5) The consent of the registered patron[^c-a346de0893984c7e9e10d4003706407d] or ordinary shall not be necessary for any felling in accordance with this section.
 
 (6) The net proceeds of any such felling and any moneys recovered by the Board under subsection (2) of this section may be applied for the purpose of planting new trees, and so far as they are not so applied, shall [^c921881]. . . be [^c921882]. . . treated in the same way as the net proceeds of the demolition of outbuildings of a parsonage house . . . [^c921883], under section 19(4) of this Measure.
 
@@ -309,11 +309,11 @@ Provided that in any such proceedings it shall be open to the defendant to show 
 
 (2) If the incumbent or his personal representative refuses or neglects to comply with the notice, the Board may, if they think fit, execute such works as may be necessary to restore the buildings as aforesaid, and the powers of entry conferred by section 11 of this Measure shall apply for that purpose, and the cost of the works shall be recoverable as a debt due to the Board from the incumbent or his personal representative.
 
-(3) Before refusing their consent under this section, the Board shall give notice to the incumbent of their intention to do so [^key-cb1c8288548467aa03f8b0b5825107c6]...
+(3) Before refusing their consent under this section, the Board shall give notice to the incumbent of their intention to do so [^c-cb1c8288548467aa03f8b0b5825107c6]...
 
 (4)[^c921891] Before making additions or alterations to the buildings of a parsonage house the incumbent shall consult the registered patron (as defined in section 39(1) of the Patronage (Benefices) Measure 1986), if any, of the benefice and, in the case of a parsonage house which is occupied by a person who is a member of the team in a team ministry established by a pastoral scheme under the Pastoral Measure 1983 and not by the incumbent, that person also.
 
-(5)[^key-a8b11a3bc8546f4d7084ff651047e64b] Any notice under this section shall inform the incumbent or the person or representative as the case may be, of the right to make representations and the date by which the representations must be made, which shall be not less than one month from the date on which the notice is sent, and section 4(5) above shall apply to the consideration of any representations duly made and the Board shall then decide whether or not to proceed with the notice.
+(5)[^c-a8b11a3bc8546f4d7084ff651047e64b] Any notice under this section shall inform the incumbent or the person or representative as the case may be, of the right to make representations and the date by which the representations must be made, which shall be not less than one month from the date on which the notice is sent, and section 4(5) above shall apply to the consideration of any representations duly made and the Board shall then decide whether or not to proceed with the notice.
 
 ### 22. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c921892]
 
@@ -372,7 +372,7 @@ As soon as the Board is appointed or designated under section 1 of this Measure,
 - “**the Commissioners**” means the Church Commissioners;
 - “**Diocesan Board of Finance**” means, in relation to a diocese, the Board of that name constituted under the [^c921915]Diocesan Board of Finance Measure 1925 for that diocese;
 - “**Diocesan Dilapidations Board**” means, in relation to a diocese, the Board constituted under the [^c921916]Ecclesiastical Dilapidations Measure 1923 for that diocese;
-- “[^c921917] **diocesan glebe land** ” has the same meaning as in the Church Property Measure 2018[^key-1eccd9cb6199a4b20e4f394f73d21c6a]
+- “[^c921917] **diocesan glebe land** ” has the same meaning as in the Church Property Measure 2018[^c-1eccd9cb6199a4b20e4f394f73d21c6a]
 - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c921919]
 - “**improvement**”, in relation to any building, includes enlargement and reduction in size (whether by division or otherwise);
 - “**parsonage house**” means a residence vested in the incumbent of a benefice (when the benefice is full), being his official residence . . . [^c921914], except a residence held under a lease which makes the landlord wholly or mainly responsible for the repairs, and includes the buildings, gardens, orchards, paddock, walls, fences, and appurtenances necessary for the convenient occupation of the residence, and for the purposes of this definition the separate letting of a part of the residence shall not be deemed to exclude it from the residence unless it is excluded by a certificate of the bishop under section 11 of the [^c921921]Parsonages Measure 1938;
@@ -380,7 +380,7 @@ As soon as the Board is appointed or designated under section 1 of this Measure,
 - “**repairs**” has the meaning assigned to it by section 2 of this Measure.
 - “[^c921923] **team vicar’s house** ” means a residence vested in a Diocesan Board of Finance [^c921924] . . ., being the designated residence of a vicar in a team ministry established for a benefice under section 19 of the Pastoral Measure 1968, except a residence held under a lease which makes the landlord wholly or mainly responsible for the repairs, and includes the buildings, gardens, orchards, paddocks, walls, fences and appurtenances necessary for the convenient occupation of the residence.
 
-(2)[^c921925] This Measure shall, so far as applicable, apply to a team vicar’s house as it applies to a parsonage house with the omission of references to the registered patron[^key-ef87b3043f7b399765f9df766457d422] and to a previous incumbent, and with the substitution, for references to the incumbent, of references to the Diocesan Board of Finance in which the house is vested and the vicar, except that—
+(2)[^c921925] This Measure shall, so far as applicable, apply to a team vicar’s house as it applies to a parsonage house with the omission of references to the registered patron[^c-ef87b3043f7b399765f9df766457d422] and to a previous incumbent, and with the substitution, for references to the incumbent, of references to the Diocesan Board of Finance in which the house is vested and the vicar, except that—
 
 - (a) in sections 9, 12(3), 13(5), 15(1)( *a* ) and 16(2), the references shall be to that Board only;
 - (b) in sections 4(1)( *b* ), 11 and 13(1) and (4), the references shall be to the vicar only; and
@@ -388,7 +388,7 @@ As soon as the Board is appointed or designated under section 1 of this Measure,
 
 (3) Any reference in this Measure to any Act or Measure shall be construed as a reference to that Act or Measure as amended by any subsequent Measure.
 
-### 32. Commencement of Measure.[^key-7a8ed61e3c18f8ed89b31da5bab3c883]
+### 32. Commencement of Measure.[^c-7a8ed61e3c18f8ed89b31da5bab3c883]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -418,31 +418,31 @@ Section 34.
 
 **1.** On the transfer of functions from a Diocesan Dilapidations Board to the Board under section 29 of this Measure,—
 
-- (a)[^key-4d557af849e137423082d841241a24c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-4d557af849e137423082d841241a24c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the secretary and other officers of the Diocesan Dilapidations Board shall become the secretary and officers of the Board, and shall not be in a worse position, as respects their remuneration and terms of service;
-- (c)[^key-3ae3102ceae2b72a3a738ff54639caa0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-3ae3102ceae2b72a3a738ff54639caa0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) all reports, orders, assessments, rates, consents, notices, and other things made, given or done by or to the Diocesan Dilapidations Board shall, if in force, continue in force until the appointed day (and thereafter so far as provided by the following provisions of this Schedule), as if they had been made, given or done by or to the Board;
-- (e)[^key-3fda911445921d5c741cd054e8044714] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-3fda911445921d5c741cd054e8044714] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **2.** (1) The following provisions of this Schedule shall have effect on the day appointed for the coming into operation of this Measure in any diocese.
 
-(2)[^key-cf5d5b222de7beb8c4d50182ad943508] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-cf5d5b222de7beb8c4d50182ad943508] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-6b4c7e7474b60d3415acf7eb80d0d67f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6b4c7e7474b60d3415acf7eb80d0d67f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c921934]
 
-(5)[^key-00acb7f470f986583cf3e019a1f4bd2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-00acb7f470f986583cf3e019a1f4bd2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-6fc46b0a754204a69239745795f39419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-6fc46b0a754204a69239745795f39419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-dc2c63e288e9e2eb9873ec9bcb57f630] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-dc2c63e288e9e2eb9873ec9bcb57f630] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-638e283a1c6df1f651f43d7c788fbfbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-638e283a1c6df1f651f43d7c788fbfbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) Section 46 of the [^c921939]Ecclesiastical Dilapidations Measure 1923, and any provisions applied by that section, shall continue in force as respects any order made before the appointed day; section 48 of that Measure shall continue in force as respects anything done before the appointed day; section 49 of that Measure, and any list compiled thereunder, shall continue in force until the first inspection and report on the buildings of the benefice under this Measure; and anything done under section 50 or section 51 of that Measure before the appointed day shall, so far as it could have been done under the corresponding provisions of this Measure, continue in force and have effect as if it had been so done.
 
-**3.**[^key-4349ab259ae83419d2ee2d342f3c035e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4349ab259ae83419d2ee2d342f3c035e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — Acts and Measures Repealed[^c921941]
 
@@ -466,7 +466,7 @@ Section 35.
 
 [^c921814]: Commencement: Measure partly in force at Royal Assent see [s. 32(1)(2)](https://www.legislation.gov.uk/ukcm/1972/2/section/32/1/2); Measure wholly in force at 1.1.1974.
 
-[^key-eda9c189f7f94f4a209f5c4b33633585]: Textual amendment: Words in s. 1(2) added (1.6.2005) by [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [s. 11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukcm/2005/3/schedule/2/paragraph/2); [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
+[^c-eda9c189f7f94f4a209f5c4b33633585]: Textual amendment: Words in s. 1(2) added (1.6.2005) by [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [s. 11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukcm/2005/3/schedule/2/paragraph/2); [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
 
 [^c921818]: Textual amendment: [S. 2(2)](https://www.legislation.gov.uk/ukcm/1972/2/section/2/2) repealed with saving by [Endowments and Glebe Measure 1976 (No. 4)](https://www.legislation.gov.uk/ukcm/1976/4), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukcm/1976/4/schedule/6/paragraph/3), [Sch. 8](https://www.legislation.gov.uk/ukcm/1976/4/schedule/8)
 
@@ -492,23 +492,23 @@ Section 35.
 
 [^c921842]: Textual amendment: Words inserted by [Patronage (Benefices) Measure 1986 (No. 3, SIF 21:4)](https://www.legislation.gov.uk/ukcm/1986/3), [s. 41(1)](https://www.legislation.gov.uk/ukcm/1986/3/section/41/1), [Sch. 4 para. 14](https://www.legislation.gov.uk/ukcm/1986/3/schedule/4/paragraph/14)
 
-[^key-22ace15888ed849859f9a4f82c50ee1c]: Textual amendment: Words in s. 14(1) inserted (1.6.2005) by [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [s. 11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukcm/2005/3/schedule/2/paragraph/3); [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
+[^c-22ace15888ed849859f9a4f82c50ee1c]: Textual amendment: Words in s. 14(1) inserted (1.6.2005) by [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [s. 11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukcm/2005/3/schedule/2/paragraph/3); [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
 
-[^key-421d84caf0122c26eba72f547d410df1]: Textual amendment: Words in [s. 14(1)](https://www.legislation.gov.uk/ukcm/1972/2/section/14/1) inserted (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 1 para. 14(a)](https://www.legislation.gov.uk/ukcm/2018/8/schedule/1/paragraph/14/a); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-421d84caf0122c26eba72f547d410df1]: Textual amendment: Words in [s. 14(1)](https://www.legislation.gov.uk/ukcm/1972/2/section/14/1) inserted (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 1 para. 14(a)](https://www.legislation.gov.uk/ukcm/2018/8/schedule/1/paragraph/14/a); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
-[^key-06d45e418def57a19ac591e1d4f48219]: Textual amendment: Words in [s. 14(1)](https://www.legislation.gov.uk/ukcm/1972/2/section/14/1) substituted (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 1 para. 14(b)](https://www.legislation.gov.uk/ukcm/2018/8/schedule/1/paragraph/14/b); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-06d45e418def57a19ac591e1d4f48219]: Textual amendment: Words in [s. 14(1)](https://www.legislation.gov.uk/ukcm/1972/2/section/14/1) substituted (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 1 para. 14(b)](https://www.legislation.gov.uk/ukcm/2018/8/schedule/1/paragraph/14/b); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
-[^key-16310ef3a9bec0a9bf2b13986eb4d192]: Textual amendment: Words in s. 14(1) substituted (1.6.2005) by [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [s. 11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukcm/2005/3/schedule/2/paragraph/3); [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
+[^c-16310ef3a9bec0a9bf2b13986eb4d192]: Textual amendment: Words in s. 14(1) substituted (1.6.2005) by [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [s. 11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukcm/2005/3/schedule/2/paragraph/3); [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
 
 [^c921844]: Textual amendment: Words in s. 14(1) substituted (1.1.2001) by [2000 Measure No. 1](https://www.legislation.gov.uk/ukcm/2000/1), [s. 7](https://www.legislation.gov.uk/ukcm/2000/1/section/7), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukcm/2000/1/schedule/4/paragraph/4); [Instrument dated 14.12.2000 made by the Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/2000-12-14)
 
-[^key-776ca4912e31263f0b6b822a82957f66]: Textual amendment: Words in [s. 14(1)](https://www.legislation.gov.uk/ukcm/1972/2/section/14/1) substituted (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 1 para. 14(c)](https://www.legislation.gov.uk/ukcm/2018/8/schedule/1/paragraph/14/c); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-776ca4912e31263f0b6b822a82957f66]: Textual amendment: Words in [s. 14(1)](https://www.legislation.gov.uk/ukcm/1972/2/section/14/1) substituted (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 1 para. 14(c)](https://www.legislation.gov.uk/ukcm/2018/8/schedule/1/paragraph/14/c); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
-[^key-fc062eb6468e562bd911117ef8ec4de9]: Textual amendment: Words in s. 14(1)(b) omitted (1.6.2005) by virtue of [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [s. 11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukcm/2005/3/schedule/2/paragraph/4); [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
+[^c-fc062eb6468e562bd911117ef8ec4de9]: Textual amendment: Words in s. 14(1)(b) omitted (1.6.2005) by virtue of [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [s. 11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukcm/2005/3/schedule/2/paragraph/4); [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
 
-[^key-b10438eec36ecb6ca2fbb1acdb2afb4a]: Textual amendment: Words in s. 14(2) substituted (1.6.2005) by [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [s. 11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukcm/2005/3/schedule/2/paragraph/5); [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
+[^c-b10438eec36ecb6ca2fbb1acdb2afb4a]: Textual amendment: Words in s. 14(2) substituted (1.6.2005) by [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [s. 11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukcm/2005/3/schedule/2/paragraph/5); [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
 
-[^key-8d0adc9ee0a9074b7a86647735b82779]: Textual amendment: Words in [s. 15(1)(b)](https://www.legislation.gov.uk/ukcm/1972/2/section/15/1/b) substituted (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 1 para. 15](https://www.legislation.gov.uk/ukcm/2018/8/schedule/1/paragraph/15); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-8d0adc9ee0a9074b7a86647735b82779]: Textual amendment: Words in [s. 15(1)(b)](https://www.legislation.gov.uk/ukcm/1972/2/section/15/1/b) substituted (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 1 para. 15](https://www.legislation.gov.uk/ukcm/2018/8/schedule/1/paragraph/15); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
 [^c921848]: Textual amendment: Words in s. 15(1)(b) omitted (1.1.2001) by virtue of [2000 Measure No. 1](https://www.legislation.gov.uk/ukcm/2000/1), [s. 7](https://www.legislation.gov.uk/ukcm/2000/1/section/7), [Sch. 4 para. 5](https://www.legislation.gov.uk/ukcm/2000/1/schedule/4/paragraph/5); [Instrument dated 14.12.2000 made by the Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/2000-12-14)
 
@@ -518,19 +518,19 @@ Section 35.
 
 [^c921853]: Textual amendment: S. 16(3) inserted by [Endowments and Glebe Measure 1976 (No. 4)](https://www.legislation.gov.uk/ukcm/1976/4), [Sch. 5 para. 4(2)](https://www.legislation.gov.uk/ukcm/1976/4/schedule/5/paragraph/4/2)(*b*)
 
-[^key-1209d662539ddd225d6cb16d69f70a14]: Textual amendment: [S. 16(4)](https://www.legislation.gov.uk/ukcm/1972/2/section/16/4) added (1.6.2005) by [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [s. 11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/ukcm/2005/3/schedule/2/paragraph/7); [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
+[^c-1209d662539ddd225d6cb16d69f70a14]: Textual amendment: [S. 16(4)](https://www.legislation.gov.uk/ukcm/1972/2/section/16/4) added (1.6.2005) by [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [s. 11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/ukcm/2005/3/schedule/2/paragraph/7); [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
 
-[^key-1a15569b61d370239a85c439e94e0ad8]: Textual amendment: S. 17 substituted (1.6.2005) by [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [s. 11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/ukcm/2005/3/schedule/2/paragraph/8); [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
+[^c-1a15569b61d370239a85c439e94e0ad8]: Textual amendment: S. 17 substituted (1.6.2005) by [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [s. 11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/ukcm/2005/3/schedule/2/paragraph/8); [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
 
-[^key-511db681b1d94f905d45997ede3ff4d5]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukcm/1972/2/section/18) repealed (1.6.2005) by [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [s. 11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2), [Sch. 2 para. 9](https://www.legislation.gov.uk/ukcm/2005/3/schedule/2/paragraph/9), [Sch. 5](https://www.legislation.gov.uk/ukcm/2005/3/schedule/5); [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
+[^c-511db681b1d94f905d45997ede3ff4d5]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukcm/1972/2/section/18) repealed (1.6.2005) by [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [s. 11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2), [Sch. 2 para. 9](https://www.legislation.gov.uk/ukcm/2005/3/schedule/2/paragraph/9), [Sch. 5](https://www.legislation.gov.uk/ukcm/2005/3/schedule/5); [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
 
-[^key-355cbb1c28e330fcc81d7de198aa6fb6]: Textual amendment: Words in [s. 19(3)](https://www.legislation.gov.uk/ukcm/1972/2/section/19/3) substituted (1.6.2005) by [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [s. 11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukcm/2005/3/schedule/2/paragraph/10); [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
+[^c-355cbb1c28e330fcc81d7de198aa6fb6]: Textual amendment: Words in [s. 19(3)](https://www.legislation.gov.uk/ukcm/1972/2/section/19/3) substituted (1.6.2005) by [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [s. 11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukcm/2005/3/schedule/2/paragraph/10); [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
 
 [^c921865]: Textual amendment: S. 19(4) substituted (1.1.2001) by Measure No 1, s. 7, Sch. 4 para. 8; [Instrument dated 14.12.2000 made by the Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/2000-12-14)
 
 [^c921866]: Textual amendment: Words repealed with saving by [Endowments and Glebe Measure 1976 (No. 4)](https://www.legislation.gov.uk/ukcm/1976/4), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukcm/1976/4/schedule/6/paragraph/3), [Sch. 8](https://www.legislation.gov.uk/ukcm/1976/4/schedule/8)
 
-[^key-3ef0b6f690de9b5448fade6b1125f6b1]: Textual amendment: Words in [s. 19(6)](https://www.legislation.gov.uk/ukcm/1972/2/section/19/6) substituted (1.6.2005) by [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [s. 11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukcm/2005/3/schedule/2/paragraph/10); [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
+[^c-3ef0b6f690de9b5448fade6b1125f6b1]: Textual amendment: Words in [s. 19(6)](https://www.legislation.gov.uk/ukcm/1972/2/section/19/6) substituted (1.6.2005) by [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [s. 11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukcm/2005/3/schedule/2/paragraph/10); [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
 
 [^c921877]: Textual amendment: Words in s. 20(1) repealed (1.3.1993) by [Care of Churches and Ecclesiastical Jurisdiction Measure 1991 (No.1, SIF 21:8)](https://www.legislation.gov.uk/ukcm/1991/1), [ss. 6(4)](https://www.legislation.gov.uk/ukcm/1991/1/section/6/4), [32(2)](https://www.legislation.gov.uk/ukcm/1991/1/section/32/2), [Sch. 8](https://www.legislation.gov.uk/ukcm/1991/1/schedule/8), Note 4; [Archbishops' Instrument dated 16.2.1993](https://www.legislation.gov.uk/ukci/1993-02-16).
 
@@ -538,7 +538,7 @@ Section 35.
 
 [^c921879]: Textual amendment: S. 20(3)(4) repealed (1.3.1993) by [Care of Churches and Ecclesiastical Jurisdiction Measure 1991 (No. 1, SIF 21:8)](https://www.legislation.gov.uk/ukcm/1991/1), [ss. 6(4)](https://www.legislation.gov.uk/ukcm/1991/1/section/6/4), [32(2)](https://www.legislation.gov.uk/ukcm/1991/1/section/32/2), [Sch. 8](https://www.legislation.gov.uk/ukcm/1991/1/schedule/8), Note 4; [Archbishops' Instrument dated 16.2.1993](https://www.legislation.gov.uk/ukci/1993-02-16).
 
-[^key-a346de0893984c7e9e10d4003706407d]: Textual amendment: Words in s. 20(5) substituted (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [ss. 9](https://www.legislation.gov.uk/ukcm/2006/1/section/9), [16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2); [S.I. 2006/2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-a346de0893984c7e9e10d4003706407d]: Textual amendment: Words in s. 20(5) substituted (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [ss. 9](https://www.legislation.gov.uk/ukcm/2006/1/section/9), [16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2); [S.I. 2006/2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
 [^c921881]: Textual amendment: Words in s. 20(6) repealed (1.3.1993) by [Care of Churches and Ecclesiatical Jurisdiction Measure 1991 (No. 1, SIF 21:8)](https://www.legislation.gov.uk/ukcm/1991/1), [ss. 6(4)](https://www.legislation.gov.uk/ukcm/1991/1/section/6/4), [32(2)](https://www.legislation.gov.uk/ukcm/1991/1/section/32/2), [Sch. 8](https://www.legislation.gov.uk/ukcm/1991/1/schedule/8), Note 4; [Archbishops' Instrument dated 16.2.1993](https://www.legislation.gov.uk/ukci/1993-02-16).
 
@@ -554,11 +554,11 @@ Section 35.
 
 [^c921890]: Textual amendment: Words in s. 21(1) omitted (1.1.2001) by [2000 Measure No. 1](https://www.legislation.gov.uk/ukcm/2000/1), [s. 7](https://www.legislation.gov.uk/ukcm/2000/1/section/7), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukcm/2000/1/schedule/4/paragraph/10); [Instrument dated 14.12.2000 made by the Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/2000-12-14)
 
-[^key-cb1c8288548467aa03f8b0b5825107c6]: Textual amendment: Words in s. 21(3) omitted (1.6.2005) by virtue of [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [s. 11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2), [Sch. 2 para. 11(a)](https://www.legislation.gov.uk/ukcm/2005/3/schedule/2/paragraph/11/a); [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
+[^c-cb1c8288548467aa03f8b0b5825107c6]: Textual amendment: Words in s. 21(3) omitted (1.6.2005) by virtue of [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [s. 11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2), [Sch. 2 para. 11(a)](https://www.legislation.gov.uk/ukcm/2005/3/schedule/2/paragraph/11/a); [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
 
 [^c921891]: Textual amendment: S. 21(4) inserted (1.1.2001) by [2000 Measure No. 1](https://www.legislation.gov.uk/ukcm/2000/1), [s. 7](https://www.legislation.gov.uk/ukcm/2000/1/section/7), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukcm/2000/1/schedule/4/paragraph/10); [Instrument dated 14.12.2000 made by the Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/2000-12-14)
 
-[^key-a8b11a3bc8546f4d7084ff651047e64b]: Textual amendment: S. 21(5) added (1.6.2005) by [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [s. 11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2), [Sch. 2 para. 11(b)](https://www.legislation.gov.uk/ukcm/2005/3/schedule/2/paragraph/11/b); [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
+[^c-a8b11a3bc8546f4d7084ff651047e64b]: Textual amendment: S. 21(5) added (1.6.2005) by [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [s. 11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2), [Sch. 2 para. 11(b)](https://www.legislation.gov.uk/ukcm/2005/3/schedule/2/paragraph/11/b); [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
 
 [^c921892]: Textual amendment: [S. 22](https://www.legislation.gov.uk/ukcm/1972/2/section/22) repealed with saving by [Endowments and Glebe Measure 1976 (No. 4)](https://www.legislation.gov.uk/ukcm/1976/4), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukcm/1976/4/schedule/6/paragraph/3), [Sch. 8](https://www.legislation.gov.uk/ukcm/1976/4/schedule/8)
 
@@ -584,7 +584,7 @@ Section 35.
 
 [^c921917]: Textual amendment: Definition inserted by [Endowments and Glebe Measure 1976 (No. 4)](https://www.legislation.gov.uk/ukcm/1976/4), [Sch. 5 para. 4(5)](https://www.legislation.gov.uk/ukcm/1976/4/schedule/5/paragraph/4/5)(*a*)
 
-[^key-1eccd9cb6199a4b20e4f394f73d21c6a]: Textual amendment: Words in [s. 31(1)](https://www.legislation.gov.uk/ukcm/1972/2/section/31/1) substituted (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukcm/2018/8/schedule/1/paragraph/16); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-1eccd9cb6199a4b20e4f394f73d21c6a]: Textual amendment: Words in [s. 31(1)](https://www.legislation.gov.uk/ukcm/1972/2/section/31/1) substituted (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukcm/2018/8/schedule/1/paragraph/16); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
 [^c921919]: Textual amendment: Definition repealed with saving by [Endowments and Glebe Measure 1976 (No. 4)](https://www.legislation.gov.uk/ukcm/1976/4), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukcm/1976/4/schedule/6/paragraph/3), [Sch. 8](https://www.legislation.gov.uk/ukcm/1976/4/schedule/8)
 
@@ -598,9 +598,9 @@ Section 35.
 
 [^c921925]: Textual amendment: S. 31(2) substituted by [Endowments and Glebe Measure 1976 (No. 4)](https://www.legislation.gov.uk/ukcm/1976/4), [Sch. 5 para. 4(6)](https://www.legislation.gov.uk/ukcm/1976/4/schedule/5/paragraph/4/6)
 
-[^key-ef87b3043f7b399765f9df766457d422]: Textual amendment: Words in s. 31(2) substituted (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [ss. 9](https://www.legislation.gov.uk/ukcm/2006/1/section/9), [16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2); [S.I. 2006/2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-ef87b3043f7b399765f9df766457d422]: Textual amendment: Words in s. 31(2) substituted (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [ss. 9](https://www.legislation.gov.uk/ukcm/2006/1/section/9), [16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2); [S.I. 2006/2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
-[^key-7a8ed61e3c18f8ed89b31da5bab3c883]: Textual amendment: S. 32 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
+[^c-7a8ed61e3c18f8ed89b31da5bab3c883]: Textual amendment: S. 32 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
 
 [^c921929]: Marginal citation: [1962 c. 38](https://www.legislation.gov.uk/ukpga/1962/38).
 
@@ -608,28 +608,28 @@ Section 35.
 
 [^c921931]: Modification: The text of s. 35 and Sch. 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-4d557af849e137423082d841241a24c3]: Textual amendment: [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/ukcm/1972/2/schedule/1/paragraph/1/a) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
+[^c-4d557af849e137423082d841241a24c3]: Textual amendment: [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/ukcm/1972/2/schedule/1/paragraph/1/a) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
 
-[^key-3ae3102ceae2b72a3a738ff54639caa0]: Textual amendment: [Sch. 1 para. 1(c)](https://www.legislation.gov.uk/ukcm/1972/2/schedule/1/paragraph/1/c) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
+[^c-3ae3102ceae2b72a3a738ff54639caa0]: Textual amendment: [Sch. 1 para. 1(c)](https://www.legislation.gov.uk/ukcm/1972/2/schedule/1/paragraph/1/c) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
 
-[^key-3fda911445921d5c741cd054e8044714]: Textual amendment: [Sch. 1 para. 1(e)](https://www.legislation.gov.uk/ukcm/1972/2/schedule/1/paragraph/1/e) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
+[^c-3fda911445921d5c741cd054e8044714]: Textual amendment: [Sch. 1 para. 1(e)](https://www.legislation.gov.uk/ukcm/1972/2/schedule/1/paragraph/1/e) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
 
-[^key-cf5d5b222de7beb8c4d50182ad943508]: Textual amendment: Sch. 1 para. 2(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
+[^c-cf5d5b222de7beb8c4d50182ad943508]: Textual amendment: Sch. 1 para. 2(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
 
-[^key-6b4c7e7474b60d3415acf7eb80d0d67f]: Textual amendment: Sch. 1 para. 2(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
+[^c-6b4c7e7474b60d3415acf7eb80d0d67f]: Textual amendment: Sch. 1 para. 2(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
 
 [^c921934]: Textual amendment: Para. 2(4) repealed with saving by [Endowments and Glebe Measure 1976 (No. 4)](https://www.legislation.gov.uk/ukcm/1976/4), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukcm/1976/4/schedule/6/paragraph/3), [Sch. 8](https://www.legislation.gov.uk/ukcm/1976/4/schedule/8)
 
-[^key-00acb7f470f986583cf3e019a1f4bd2b]: Textual amendment: Sch. 1 para. 2(5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
+[^c-00acb7f470f986583cf3e019a1f4bd2b]: Textual amendment: Sch. 1 para. 2(5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
 
-[^key-6fc46b0a754204a69239745795f39419]: Textual amendment: Sch. 1 para. 2(6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
+[^c-6fc46b0a754204a69239745795f39419]: Textual amendment: Sch. 1 para. 2(6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
 
-[^key-dc2c63e288e9e2eb9873ec9bcb57f630]: Textual amendment: Sch. 1 para. 2(7) repealed (1.6.2005) by [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [s. 11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2005/3/schedule/5); [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops; [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
+[^c-dc2c63e288e9e2eb9873ec9bcb57f630]: Textual amendment: Sch. 1 para. 2(7) repealed (1.6.2005) by [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [s. 11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2005/3/schedule/5); [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops; [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
 
-[^key-638e283a1c6df1f651f43d7c788fbfbb]: Textual amendment: Sch. 1 para. 2(8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
+[^c-638e283a1c6df1f651f43d7c788fbfbb]: Textual amendment: Sch. 1 para. 2(8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
 
 [^c921939]: Marginal citation: [1923 No. 3](https://www.legislation.gov.uk/ukcm/1923/3).
 
-[^key-4349ab259ae83419d2ee2d342f3c035e]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukcm/1972/2/schedule/1/paragraph/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
+[^c-4349ab259ae83419d2ee2d342f3c035e]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukcm/1972/2/schedule/1/paragraph/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
 
 [^c921941]: Modification: The text of s. 35 and Sch. 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.

@@ -48,15 +48,15 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 11(5) of that Act the Secretary of State has consulted such organisations as appear to him to be representative of interests substantially affected by the proposal to make the Regulations, such other persons as he considers appropriate and, in relation to the application of the proposed Regulations to Great Britain, the Health and Safety Executive.
 
-## 1. Citation and commencement[^key-d13e47692a9dfa756da1c473b9848201]
+## 1. Citation and commencement[^c-d13e47692a9dfa756da1c473b9848201]
 
 These Regulations may be cited as the Pedal Bicycles (Safety) Regulations 2010 and they come into force on 6th April 2010.
 
-## 2. Meaning of “bicycle”[^key-0176d739c5c521034df4806723638bea]
+## 2. Meaning of “bicycle”[^c-0176d739c5c521034df4806723638bea]
 
 In these Regulations, “bicycle” means a two-wheeled vehicle that is propelled solely by the muscular energy of a person on that vehicle by means of pedals and has not been constructed or adapted for propulsion by mechanical power; and the expression “bicycle” includes a substantially complete vehicle (whether or not assembled) even if one or more parts are not supplied.
 
-## 3. Exemptions for certain categories of bicycle[^key-d3921314a6417686ec7124ec24965211]
+## 3. Exemptions for certain categories of bicycle[^c-d3921314a6417686ec7124ec24965211]
 
 (1) These Regulations do not apply in relation to the supply of a bicycle which—
 
@@ -72,7 +72,7 @@ In these Regulations, “bicycle” means a two-wheeled vehicle that is propelle
 - (b) the saddle is raised to the fullest extent compatible with safety; and
 - (c) any pneumatic tyres on the wheels of the bicycle are fully inflated.
 
-## 4. Supply of assembled bicycles[^key-6dff03ebaaddbe2c001feeb9dee80794]
+## 4. Supply of assembled bicycles[^c-6dff03ebaaddbe2c001feeb9dee80794]
 
 (1) Subject to paragraph (2), a person must not supply a bicycle unless the requirements of paragraphs (3) to (12) of this regulation are satisfied.
 
@@ -128,7 +128,7 @@ where at the time of offering or agreeing to supply the bicycle, or exposing or 
 
 (18) Paragraph (17) does not apply where the person has measures in place to ensure that when the bicycle is supplied, the requirements of paragraphs (3) to (12) are satisfied.
 
-## 5. Supply of bicycles with unassembled parts[^key-b2816a81bf796010cd66fb9f50d0f4fb]
+## 5. Supply of bicycles with unassembled parts[^c-b2816a81bf796010cd66fb9f50d0f4fb]
 
 (1) A person must not supply a bicycle with unassembled parts (whether wholly or partially) unless the requirements of paragraphs (2) to (4) of this regulation are satisfied.
 
@@ -154,7 +154,7 @@ where at the time of offering or agreeing to supply the bicycle, or exposing or 
 
 (6) Paragraph (5) does not apply where the person has measures in place to ensure that when the bicycle is supplied, the requirements of paragraphs (2) to (4) are satisfied.
 
-## 6. Commencement of proceedings[^key-190ae9b91cd6829f9b47b686949c1c92]
+## 6. Commencement of proceedings[^c-190ae9b91cd6829f9b47b686949c1c92]
 
 (1) This regulation applies in respect of an offence committed under section 12 of the Consumer Protection Act 1987 in relation to a contravention of these Regulations.
 
@@ -164,7 +164,7 @@ where at the time of offering or agreeing to supply the bicycle, or exposing or 
 
 (4) Summary proceedings for an offence may be brought in Scotland at any time within twelve months from the time when the offence was committed.
 
-## 7. Revocation of the Pedal Bicycles (Safety) Regulations 2003 and transitional provision[^key-775c88a9e195c1f8a00aa559d16e0828]
+## 7. Revocation of the Pedal Bicycles (Safety) Regulations 2003 and transitional provision[^c-775c88a9e195c1f8a00aa559d16e0828]
 
 (1) The Pedal Bicycles (Safety) Regulations 2003[^f00004] (“the 2003 Regulations”) are revoked on 6th April 2011.
 
@@ -209,22 +209,22 @@ These Regulations were notified in draft to the European Commission in accordanc
 
 [^f00001]: Footnote: [1987 c. 43](https://www.legislation.gov.uk/ukpga/1987/43); section 11(1) was amended by [S.I. 2005/1803](https://www.legislation.gov.uk/uksi/2005/1803), regulation 46(3) and section 11(5) was amended by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960), Schedule 3.
 
-[^key-d13e47692a9dfa756da1c473b9848201]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/198/regulation/1) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/198/regulation/1)
+[^c-d13e47692a9dfa756da1c473b9848201]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/198/regulation/1) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/198/regulation/1)
 
-[^key-0176d739c5c521034df4806723638bea]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/198/regulation/2) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/198/regulation/1)
+[^c-0176d739c5c521034df4806723638bea]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/198/regulation/2) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/198/regulation/1)
 
-[^key-d3921314a6417686ec7124ec24965211]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/198/regulation/3) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/198/regulation/1)
+[^c-d3921314a6417686ec7124ec24965211]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/198/regulation/3) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/198/regulation/1)
 
-[^key-6dff03ebaaddbe2c001feeb9dee80794]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/198/regulation/4) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/198/regulation/1)
+[^c-6dff03ebaaddbe2c001feeb9dee80794]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/198/regulation/4) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/198/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1989/1796](https://www.legislation.gov.uk/uksi/1989/1796); relevant amending instruments are [S.I. 1994/2280](https://www.legislation.gov.uk/uksi/1994/2280), [2005/2559](https://www.legislation.gov.uk/uksi/2005/2559) and [2009/3220](https://www.legislation.gov.uk/uksi/2009/3220).
 
 [^f00003]: Footnote: [S.R. 2000/169](https://www.legislation.gov.uk/nisr/2000/169); the relevant amending instrument is [S.R. 2007/239](https://www.legislation.gov.uk/nisr/2007/239).
 
-[^key-b2816a81bf796010cd66fb9f50d0f4fb]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/198/regulation/5) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/198/regulation/1)
+[^c-b2816a81bf796010cd66fb9f50d0f4fb]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/198/regulation/5) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/198/regulation/1)
 
-[^key-190ae9b91cd6829f9b47b686949c1c92]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/198/regulation/6) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/198/regulation/1)
+[^c-190ae9b91cd6829f9b47b686949c1c92]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/198/regulation/6) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/198/regulation/1)
 
-[^key-775c88a9e195c1f8a00aa559d16e0828]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/198/regulation/7) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/198/regulation/1)
+[^c-775c88a9e195c1f8a00aa559d16e0828]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/198/regulation/7) in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/198/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2003/1101](https://www.legislation.gov.uk/uksi/2003/1101).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Regulations: procedure[^key-4ddfb8654d9d042a284d52fe8540ad34]
+## 131. Regulations: procedure[^c-4ddfb8654d9d042a284d52fe8540ad34]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ddfb8654d9d042a284d52fe8540ad34]: Commencement: S. 131 in force at Royal Assent, see [s. 133(12)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/12/a)
+[^c-4ddfb8654d9d042a284d52fe8540ad34]: Commencement: S. 131 in force at Royal Assent, see [s. 133(12)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/12/a)

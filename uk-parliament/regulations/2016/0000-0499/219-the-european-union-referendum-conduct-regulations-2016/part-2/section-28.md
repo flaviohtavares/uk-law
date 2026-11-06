@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Sealing of ballot boxes[^key-d287acb64192423a664e52cb9fdecf4f]
+## 28. Sealing of ballot boxes[^c-d287acb64192423a664e52cb9fdecf4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d287acb64192423a664e52cb9fdecf4f]: Commencement: Reg. 28 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-d287acb64192423a664e52cb9fdecf4f]: Commencement: Reg. 28 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

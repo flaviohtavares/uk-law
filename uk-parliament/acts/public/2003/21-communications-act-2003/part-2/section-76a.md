@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76A. Information about electronic communications apparatus available for shared use[^key-912dc0cb00de68406c9b26ac4459eef7]
+## 76A. Information about electronic communications apparatus available for shared use[^c-912dc0cb00de68406c9b26ac4459eef7]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-912dc0cb00de68406c9b26ac4459eef7]: Textual amendment: S. 76A inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/41) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-912dc0cb00de68406c9b26ac4459eef7]: Textual amendment: S. 76A inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/41) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))

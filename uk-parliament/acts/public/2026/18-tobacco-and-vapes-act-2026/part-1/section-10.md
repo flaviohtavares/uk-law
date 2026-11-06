@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Sale of vaping or nicotine products to under 18s[^key-d5ed539b7c9e58ffb6bb5694c5a5ff9d][^key-baa16979b26928a6e1bf94d59e1c34f4]
+## 10. Sale of vaping or nicotine products to under 18s[^c-d5ed539b7c9e58ffb6bb5694c5a5ff9d][^c-baa16979b26928a6e1bf94d59e1c34f4]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d5ed539b7c9e58ffb6bb5694c5a5ff9d]: Commencement: S. 10 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-d5ed539b7c9e58ffb6bb5694c5a5ff9d]: Commencement: S. 10 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
 
-[^key-baa16979b26928a6e1bf94d59e1c34f4]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2026/18/section/10) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-baa16979b26928a6e1bf94d59e1c34f4]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2026/18/section/10) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

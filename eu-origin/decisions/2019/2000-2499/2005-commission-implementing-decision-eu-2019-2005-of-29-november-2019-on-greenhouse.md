@@ -33,22 +33,22 @@ of 29 November 2019
 
 on greenhouse gas emissions covered by Decision No 406/2009/EC of the European Parliament and of the Council for the year 2017 for each Member State (revoked)
 
-[^key-4377efab3e3ca533872f16ef3318a5e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4377efab3e3ca533872f16ef3318a5e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-4377efab3e3ca533872f16ef3318a5e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-4377efab3e3ca533872f16ef3318a5e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-4377efab3e3ca533872f16ef3318a5e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-4377efab3e3ca533872f16ef3318a5e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4377efab3e3ca533872f16ef3318a5e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4377efab3e3ca533872f16ef3318a5e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-4377efab3e3ca533872f16ef3318a5e4]
+## ANNEX[^c-4377efab3e3ca533872f16ef3318a5e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4377efab3e3ca533872f16ef3318a5e4]: Textual amendment: Decision revoked (20.5.2021) by [The Climate and Energy (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/519)](https://www.legislation.gov.uk/uksi/2021/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/519/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/519/schedule)
+[^c-4377efab3e3ca533872f16ef3318a5e4]: Textual amendment: Decision revoked (20.5.2021) by [The Climate and Energy (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/519)](https://www.legislation.gov.uk/uksi/2021/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/519/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/519/schedule)

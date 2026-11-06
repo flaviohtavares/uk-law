@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6BA. Meaning of “relevant electricity project”, “relevant licence” and “relevant contract”[^key-684ee78b8001339c7193481a10487fb4]
+## 6BA. Meaning of “relevant electricity project”, “relevant licence” and “relevant contract”[^c-684ee78b8001339c7193481a10487fb4]
 
 *Extent: E+W+S*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-684ee78b8001339c7193481a10487fb4]: Textual amendment: Ss. 6BA, 6BB inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/2)
+[^c-684ee78b8001339c7193481a10487fb4]: Textual amendment: Ss. 6BA, 6BB inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/2)
 
 [^M_F_67b5290f-5b39-4c92-eb7c-e3895fd3fe80]: Textual amendment: Words in s. 6BA(3)(a) omitted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2024/706/regulation/3/4/a); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
 

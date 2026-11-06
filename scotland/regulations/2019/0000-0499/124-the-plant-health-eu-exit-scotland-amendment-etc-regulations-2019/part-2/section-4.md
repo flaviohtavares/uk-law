@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4.[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+## 4.[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/b), [sch.](https://www.legislation.gov.uk/ssi/2020/466/schedule) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/b), [sch.](https://www.legislation.gov.uk/ssi/2020/466/schedule) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))

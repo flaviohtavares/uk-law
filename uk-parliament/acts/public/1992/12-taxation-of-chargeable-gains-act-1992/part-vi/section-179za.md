@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 179ZA. Claim for adjustment of calculations under section 179[^key-c42008dae329e95a470c4862d376625e][^key-9a294e15173b9110db3e08e6697ac85d][^key-0f39dc0b3c88d267660b5d10950d507f][^key-041b00da76f3971e4746ed830699869f]
+## 179ZA. Claim for adjustment of calculations under section 179[^c-c42008dae329e95a470c4862d376625e][^c-9a294e15173b9110db3e08e6697ac85d][^c-0f39dc0b3c88d267660b5d10950d507f][^c-041b00da76f3971e4746ed830699869f]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,10 +42,10 @@ may make a claim for the amount of the gain to be treated for the purposes of th
 
 ## Annotations
 
-[^key-c42008dae329e95a470c4862d376625e]: Modification: Ss. 170-192 restricted (27.7.1999) by [Commonwealth Development Corporation Act 1999 (c. 20)](https://www.legislation.gov.uk/ukpga/1999/20), [Sch. 3 paras. 1](https://www.legislation.gov.uk/ukpga/1999/20/schedule/3/paragraph/1), [4(1)](https://www.legislation.gov.uk/ukpga/1999/20/schedule/3/paragraph/4/1)
+[^c-c42008dae329e95a470c4862d376625e]: Modification: Ss. 170-192 restricted (27.7.1999) by [Commonwealth Development Corporation Act 1999 (c. 20)](https://www.legislation.gov.uk/ukpga/1999/20), [Sch. 3 paras. 1](https://www.legislation.gov.uk/ukpga/1999/20/schedule/3/paragraph/1), [4(1)](https://www.legislation.gov.uk/ukpga/1999/20/schedule/3/paragraph/4/1)
 
-[^key-9a294e15173b9110db3e08e6697ac85d]: Modification: Ss. 170-181 restricted (12.1.2000) by [Greater London Authority Act 1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), [ss. 419(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/419/3), [425(2)](https://www.legislation.gov.uk/ukpga/1999/29/section/425/2); [S.I. 1999/3434](https://www.legislation.gov.uk/uksi/1999/3434), art. 2
+[^c-9a294e15173b9110db3e08e6697ac85d]: Modification: Ss. 170-181 restricted (12.1.2000) by [Greater London Authority Act 1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), [ss. 419(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/419/3), [425(2)](https://www.legislation.gov.uk/ukpga/1999/29/section/425/2); [S.I. 1999/3434](https://www.legislation.gov.uk/uksi/1999/3434), art. 2
 
-[^key-0f39dc0b3c88d267660b5d10950d507f]: Modification: Ss. 170-181 modified (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 9 para. 35(a)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/9/paragraph/35/a) (with [s. 38(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/38/2)); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-0f39dc0b3c88d267660b5d10950d507f]: Modification: Ss. 170-181 modified (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 9 para. 35(a)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/9/paragraph/35/a) (with [s. 38(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/38/2)); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-041b00da76f3971e4746ed830699869f]: Textual amendment: S. 179ZA inserted (with effect in accordance with Sch. 10 para. 9 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2011/11/schedule/10/paragraph/4)
+[^c-041b00da76f3971e4746ed830699869f]: Textual amendment: S. 179ZA inserted (with effect in accordance with Sch. 10 para. 9 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2011/11/schedule/10/paragraph/4)

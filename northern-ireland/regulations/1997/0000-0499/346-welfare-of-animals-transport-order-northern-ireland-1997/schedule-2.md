@@ -26,7 +26,7 @@ Articles 4(3) and 15(1)
 
 ### Part I — Additional requirements for the construction and maintenance of means of transport and receptacles for cattle, sheep, pigs, goats and horses
 
-#### 1. Size and height[^key-71e40021b952d7fd2d979f94d5f871fa]
+#### 1. Size and height[^c-71e40021b952d7fd2d979f94d5f871fa]
 
 (1) The accommodation available for the carriage of animals shall be such that all animals are provided with adequate space to stand in their natural position.
 
@@ -43,11 +43,11 @@ there are fitted in that vehicle or receptacle such partitions specified in sub-
 - (a) 1.27m in the case of cattle (other than calves) and horses; and
 - (b) 76cm in any other case.
 
-#### 2. Ventilation[^key-457f2b65f3ddfecc86ac7feb3ef32c3d]
+#### 2. Ventilation[^c-457f2b65f3ddfecc86ac7feb3ef32c3d]
 
 Means of transport and receptacles shall be constructed, maintained, operated and positioned so as to provide appropriate ventilation and sufficient air space above the animals to allow air to circulate properly.
 
-#### 3. Inspection of interior of receptacles[^key-4a0b287d3cd5dbe103c676ef8eca34cf]
+#### 3. Inspection of interior of receptacles[^c-4a0b287d3cd5dbe103c676ef8eca34cf]
 
 (1) Receptacles shall be constructed, maintained and positioned so that they allow for the inspection and care of the animals, including, if necessary, the feeding and watering of animals.
 
@@ -56,13 +56,13 @@ Means of transport and receptacles shall be constructed, maintained, operated an
 - (a) in the lower deck compartment, shall be constructed, maintained and positioned so that all the animals may be inspected and, if necessary, cared for when the aircraft is on the ground; and
 - (b) in the main deck compartment, shall be constructed, maintained and positioned so as to provide access to every animal throughout the journey.
 
-#### 4. Special provisions for vehicles[^key-41e4fcece28d23d3395f6af4e101a090]
+#### 4. Special provisions for vehicles[^c-41e4fcece28d23d3395f6af4e101a090]
 
 Vehicles shall be equipped with a roof which ensures effective protection against the weather.
 
-**5.**[^key-c82d497975b25d7d8a3280af1c3ecfc9] Vehicles shall be equipped, on each floor on which animals are carried (other than in receptacles), with barriers, or, in the case of a vehicle exclusively used for the transport of horses, with straps, so constructed and maintained as to prevent any animal from falling out of the vehicle when any door used for loading and unloading is not fully closed.
+**5.**[^c-c82d497975b25d7d8a3280af1c3ecfc9] Vehicles shall be equipped, on each floor on which animals are carried (other than in receptacles), with barriers, or, in the case of a vehicle exclusively used for the transport of horses, with straps, so constructed and maintained as to prevent any animal from falling out of the vehicle when any door used for loading and unloading is not fully closed.
 
-**6.**[^key-4d63d2fa290188eb2b90fc8e464612bd] (1) Every ramp which is carried on or forms part of a vehicle and which is used for the purpose of loading animals into or unloading animals out of that vehicle shall be fitted with suitable foot battens or some other means of affording a proper foothold to an animal which is using it and shall be constructed. maintained and operated—
+**6.**[^c-4d63d2fa290188eb2b90fc8e464612bd] (1) Every ramp which is carried on or forms part of a vehicle and which is used for the purpose of loading animals into or unloading animals out of that vehicle shall be fitted with suitable foot battens or some other means of affording a proper foothold to an animal which is using it and shall be constructed. maintained and operated—
 
 - (a) to prevent slipping;
 - (b) so that it is not too steep for the age and species of the animal being transported;
@@ -82,11 +82,11 @@ Vehicles shall be equipped with a roof which ensures effective protection agains
 
 (3) In this paragraph, a ramp shall be considered too steep, a step shall be considered too high and a gap shall be considered too wide, if animals using the ramp, step or gap are likely to be caused injury or unnecessary suffering by reason of the slope of the ramp, the height of the step or the width of the gap.
 
-**7.**[^key-14bb722d4fff6e64af73593e18e49ad2] Vehicles (other than vehicles in which animals are being carried in receptacles) shall be constructed so that all the animals inside can be inspected from the outside, and for this purpose shall be provided with suitably arranged openings and footholds.
+**7.**[^c-14bb722d4fff6e64af73593e18e49ad2] Vehicles (other than vehicles in which animals are being carried in receptacles) shall be constructed so that all the animals inside can be inspected from the outside, and for this purpose shall be provided with suitably arranged openings and footholds.
 
-**8.**[^key-5656c995fab7f93a2d3d9b2fa77b85a7] In the case of animals which are normally required to be tied, suitable provision shall be made so that animals may be tied to the interior of the vehicle.
+**8.**[^c-5656c995fab7f93a2d3d9b2fa77b85a7] In the case of animals which are normally required to be tied, suitable provision shall be made so that animals may be tied to the interior of the vehicle.
 
-#### 9. Approval of receptacles and pens on vessels[^key-a7a57510c3561027f650c5291655ce28]
+#### 9. Approval of receptacles and pens on vessels[^c-a7a57510c3561027f650c5291655ce28]
 
 (1) In the case of journeys beginning in Northern Ireland, receptacles or pens used on an exposed deck shall be approved by the Department before the animals are loaded.
 
@@ -94,7 +94,7 @@ Vehicles shall be equipped with a roof which ensures effective protection agains
 
 ### Part II — Additional requirements for the transport of cattle, sheep, pigs, goats and horses
 
-#### 10. Loading equipment[^key-b11113619407c9a2130f16c1836f1ae7]
+#### 10. Loading equipment[^c-b11113619407c9a2130f16c1836f1ae7]
 
 (1) Animals shall be loaded and unloaded in accordance with this paragraph.
 
@@ -122,7 +122,7 @@ Vehicles shall be equipped with a roof which ensures effective protection agains
 
 (8) An animal may be loaded or unloaded without equipment or by manual lifting or carrying provided that, having regard to the age, height and species of the animal, it is unlikely to be caused injury or unnecessary suffering by being loaded or unloaded in this manner.
 
-#### 11. Internal ramps and means of lifting[^key-0d6ad9be8a27f2caa10759966e67ccf1]
+#### 11. Internal ramps and means of lifting[^c-0d6ad9be8a27f2caa10759966e67ccf1]
 
 (1) Animals shall be moved from one floor or deck of a vehicle, vessel or receptacle to another, in accordance with this paragraph.
 
@@ -145,7 +145,7 @@ Vehicles shall be equipped with a roof which ensures effective protection agains
 
 (5) Manual lifting or carrying may be used if the animal is of a size that can easily be lifted by no more than two persons and the movement is carried out without causing injury or unnecessary suffering to the animal.
 
-#### 12. Tying[^key-730d1b3ce65baef10a80d1998983db9e]
+#### 12. Tying[^c-730d1b3ce65baef10a80d1998983db9e]
 
 When animals are tied, the ropes or other attachments used shall be—
 
@@ -153,9 +153,9 @@ When animals are tied, the ropes or other attachments used shall be—
 - (b) arranged in such a way as to eliminate any danger of strangulation or injury; and
 - (c) long enough to allow the animals, if necessary, to lie down and to eat and drink.
 
-**13.**[^key-dfd3587bde4bc805152c9fddf053ddd6] Animals shall not be tied by the horns or by nose rings.
+**13.**[^c-dfd3587bde4bc805152c9fddf053ddd6] Animals shall not be tied by the horns or by nose rings.
 
-#### 14. Segregation of animals[^key-4b425ae0fffbbf5647286b015101e348]
+#### 14. Segregation of animals[^c-4b425ae0fffbbf5647286b015101e348]
 
 (1) Save as provided in sub-paragraphs (2), (4) and (9), the following animals shall not be carried in an undivided vehicle, rail wagon, pen or receptacle with other animals—
 
@@ -193,7 +193,7 @@ When animals are tied, the ropes or other attachments used shall be—
 
 (12) Segregation of animals in rail wagons may be effected either by means of suitable partitions or, if space permits, by tying them in separate parts of the rail wagon.
 
-#### 15. Restrictions on lifting, dragging and use of force on animals[^key-8e18423d20223261bc4dab6a8ce2c1f7]
+#### 15. Restrictions on lifting, dragging and use of force on animals[^c-8e18423d20223261bc4dab6a8ce2c1f7]
 
 (1) Without prejudice to the provisions of Article 6(7), a person shall not suspend an animal by mechanical means, nor lift or drag an animal by the head, horns, ears, legs, tail or fleece or by any other part of its body in such a way as to cause it unnecessary pain or suffering.
 
@@ -217,85 +217,85 @@ but the use of any such instrument shall be avoided as far as possible.
 
 (6) Nothing in this provision shall prevent the suspension by mechanical means of a receptacle in which an animal is being carried.
 
-#### 16. Duties of attendants[^key-cd9e82b59c776816e1c55b4ce2daa6ac]
+#### 16. Duties of attendants[^c-cd9e82b59c776816e1c55b4ce2daa6ac]
 
 (1) The attendant or consignor’s agent shall look after the animals and, if necessary, feed, water and milk them.
 
 (2) Animals in milk shall be milked at appropriate intervals and, in the case of cows in milk, that interval shall be about 12 hours but shall not exceed 15 hours.
 
-#### 17. Special provisions for horses[^key-96bd706df32e204d5dc18f6c9678d3c1]
+#### 17. Special provisions for horses[^c-96bd706df32e204d5dc18f6c9678d3c1]
 
 When transported in groups, horses shall—
 
 - (a) wear halters unless they are unbroken animals; and
 - (b) have their hind feet unshod.
 
-**18.**[^key-8170c79eb444ee6dbe918ed437be51d3] Horses shall not be transported in vehicles with more than one deck in operation.
+**18.**[^c-8170c79eb444ee6dbe918ed437be51d3] Horses shall not be transported in vehicles with more than one deck in operation.
 
-**19.**[^key-f845891d3dbfdfab8c195319140c10e3] Where they are transported in rail wagons and are not in individual stalls, horses shall be tied in such a way that they are all facing the same side of the rail wagon or each other. Foals and unbroken animals shall not be tied.
+**19.**[^c-f845891d3dbfdfab8c195319140c10e3] Where they are transported in rail wagons and are not in individual stalls, horses shall be tied in such a way that they are all facing the same side of the rail wagon or each other. Foals and unbroken animals shall not be tied.
 
-**20.**[^key-10700d5a72bbdb77d1fff9c01742a48b] When transported by water each horse shall be carried in a stall or receptacle without any other animal, except that small ponies, small asses, small mules and unbroken horses may be carried in groups and a mare may be carried with her foal at foot.
+**20.**[^c-10700d5a72bbdb77d1fff9c01742a48b] When transported by water each horse shall be carried in a stall or receptacle without any other animal, except that small ponies, small asses, small mules and unbroken horses may be carried in groups and a mare may be carried with her foal at foot.
 
-**21.**[^key-286792d99b8444db385e59cf7082974f] When transported by water in individual stalls, horses shall be carried athwartships unless the horses are in a vehicle which is on a vessel which has effective stabilisers in operation.
+**21.**[^c-286792d99b8444db385e59cf7082974f] When transported by water in individual stalls, horses shall be carried athwartships unless the horses are in a vehicle which is on a vessel which has effective stabilisers in operation.
 
-#### 22. Special provisions for transport by rail[^key-02fedfbcd0799505ae89f94e23cdd8ec]
+#### 22. Special provisions for transport by rail[^c-02fedfbcd0799505ae89f94e23cdd8ec]
 
 When transported by rail, large animals shall be loaded in such a way as to allow an attendant to move between them.
 
-#### 23. Special provisions for transport by water[^key-bd4cbefc87fefd4b5e006e1909fe4d8d]
+#### 23. Special provisions for transport by water[^c-bd4cbefc87fefd4b5e006e1909fe4d8d]
 
 Vessels used for the transport of animals shall, before sailing, be provided with sufficient supplies of drinking water, (unless they are equipped with a suitable system allowing its production) and appropriate foodstuffs, having regard to the species and number of animals being transported as well as the duration of the voyage.
 
-**24.**[^key-9c7142dc7d300680fb88c4e791e6895f] Sheep which have recently been shorn shall not be transported on an open or exposed deck of a vessel.
+**24.**[^c-9c7142dc7d300680fb88c4e791e6895f] Sheep which have recently been shorn shall not be transported on an open or exposed deck of a vessel.
 
 ## Annotations
 
-[^key-71e40021b952d7fd2d979f94d5f871fa]: Commencement: Sch. 2 para. 1 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-71e40021b952d7fd2d979f94d5f871fa]: Commencement: Sch. 2 para. 1 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-457f2b65f3ddfecc86ac7feb3ef32c3d]: Commencement: Sch. 2 para. 2 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-457f2b65f3ddfecc86ac7feb3ef32c3d]: Commencement: Sch. 2 para. 2 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-4a0b287d3cd5dbe103c676ef8eca34cf]: Commencement: Sch. 2 para. 3 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-4a0b287d3cd5dbe103c676ef8eca34cf]: Commencement: Sch. 2 para. 3 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-41e4fcece28d23d3395f6af4e101a090]: Commencement: Sch. 2 para. 4 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-41e4fcece28d23d3395f6af4e101a090]: Commencement: Sch. 2 para. 4 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-c82d497975b25d7d8a3280af1c3ecfc9]: Commencement: Sch. 2 para. 5 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-c82d497975b25d7d8a3280af1c3ecfc9]: Commencement: Sch. 2 para. 5 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-4d63d2fa290188eb2b90fc8e464612bd]: Commencement: Sch. 2 para. 6 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-4d63d2fa290188eb2b90fc8e464612bd]: Commencement: Sch. 2 para. 6 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-14bb722d4fff6e64af73593e18e49ad2]: Commencement: Sch. 2 para. 7 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-14bb722d4fff6e64af73593e18e49ad2]: Commencement: Sch. 2 para. 7 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-5656c995fab7f93a2d3d9b2fa77b85a7]: Commencement: Sch. 2 para. 8 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-5656c995fab7f93a2d3d9b2fa77b85a7]: Commencement: Sch. 2 para. 8 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-a7a57510c3561027f650c5291655ce28]: Commencement: Sch. 2 para. 9 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-a7a57510c3561027f650c5291655ce28]: Commencement: Sch. 2 para. 9 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-b11113619407c9a2130f16c1836f1ae7]: Commencement: Sch. 2 para. 10 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-b11113619407c9a2130f16c1836f1ae7]: Commencement: Sch. 2 para. 10 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-0d6ad9be8a27f2caa10759966e67ccf1]: Commencement: Sch. 2 para. 11 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-0d6ad9be8a27f2caa10759966e67ccf1]: Commencement: Sch. 2 para. 11 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-730d1b3ce65baef10a80d1998983db9e]: Commencement: Sch. 2 para. 12 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-730d1b3ce65baef10a80d1998983db9e]: Commencement: Sch. 2 para. 12 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-dfd3587bde4bc805152c9fddf053ddd6]: Commencement: Sch. 2 para. 13 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-dfd3587bde4bc805152c9fddf053ddd6]: Commencement: Sch. 2 para. 13 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-4b425ae0fffbbf5647286b015101e348]: Commencement: Sch. 2 para. 14 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-4b425ae0fffbbf5647286b015101e348]: Commencement: Sch. 2 para. 14 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
 [^f00011]: Footnote: The Orders of the British Horseracing Board and the Rules of Racing of the Jockey Club are available from Weatherbys Group Ltd, Sanders Road, Wellingborough, Northamptonshire, NN8 4BX
 
-[^key-8e18423d20223261bc4dab6a8ce2c1f7]: Commencement: Sch. 2 para. 15 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-8e18423d20223261bc4dab6a8ce2c1f7]: Commencement: Sch. 2 para. 15 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-cd9e82b59c776816e1c55b4ce2daa6ac]: Commencement: Sch. 2 para. 16 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-cd9e82b59c776816e1c55b4ce2daa6ac]: Commencement: Sch. 2 para. 16 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-96bd706df32e204d5dc18f6c9678d3c1]: Commencement: Sch. 2 para. 17 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-96bd706df32e204d5dc18f6c9678d3c1]: Commencement: Sch. 2 para. 17 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-8170c79eb444ee6dbe918ed437be51d3]: Commencement: Sch. 2 para. 18 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-8170c79eb444ee6dbe918ed437be51d3]: Commencement: Sch. 2 para. 18 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-f845891d3dbfdfab8c195319140c10e3]: Commencement: Sch. 2 para. 19 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-f845891d3dbfdfab8c195319140c10e3]: Commencement: Sch. 2 para. 19 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-10700d5a72bbdb77d1fff9c01742a48b]: Commencement: Sch. 2 para. 20 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-10700d5a72bbdb77d1fff9c01742a48b]: Commencement: Sch. 2 para. 20 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-286792d99b8444db385e59cf7082974f]: Commencement: Sch. 2 para. 21 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-286792d99b8444db385e59cf7082974f]: Commencement: Sch. 2 para. 21 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-02fedfbcd0799505ae89f94e23cdd8ec]: Commencement: Sch. 2 para. 22 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-02fedfbcd0799505ae89f94e23cdd8ec]: Commencement: Sch. 2 para. 22 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-bd4cbefc87fefd4b5e006e1909fe4d8d]: Commencement: Sch. 2 para. 23 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-bd4cbefc87fefd4b5e006e1909fe4d8d]: Commencement: Sch. 2 para. 23 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-9c7142dc7d300680fb88c4e791e6895f]: Commencement: Sch. 2 para. 24 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-9c7142dc7d300680fb88c4e791e6895f]: Commencement: Sch. 2 para. 24 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)

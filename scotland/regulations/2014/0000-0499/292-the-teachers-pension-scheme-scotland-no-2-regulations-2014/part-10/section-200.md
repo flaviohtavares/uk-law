@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 200. Amount of transferred pension[^key-ea7606cd4b48470cdfef337ceafac930]
+## 200. Amount of transferred pension[^c-ea7606cd4b48470cdfef337ceafac930]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The amount of transferred pension a person is entitled to count under this Part 
 
 ## Annotations
 
-[^key-ea7606cd4b48470cdfef337ceafac930]: Commencement: [Reg. 200](https://www.legislation.gov.uk/ssi/2014/292/regulation/200) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-ea7606cd4b48470cdfef337ceafac930]: Commencement: [Reg. 200](https://www.legislation.gov.uk/ssi/2014/292/regulation/200) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

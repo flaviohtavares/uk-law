@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The rules in this Part apply to an application made in the High Court and the family court[^key-fde28c1718974fea089a37f46d038314] to enforce an order made in family proceedings.
+(1) The rules in this Part apply to an application made in the High Court and the family court[^c-fde28c1718974fea089a37f46d038314] to enforce an order made in family proceedings.
 
-(2) Parts 50, 83 and 84[^key-1ab3a2dbb25e741006ea84c31a15059e] of, and Schedules 1 and 2 to, the CPR apply, as far as they are relevant and with necessary modification [^key-9b79443efbe1a9b55f06ebc0b99abf5b]..., to an application made in the High Court and the family court[^key-e17724327a96cf5cca922cc80e4e3023] to enforce an order made in family proceedings.
+(2) Parts 50, 83 and 84[^c-1ab3a2dbb25e741006ea84c31a15059e] of, and Schedules 1 and 2 to, the CPR apply, as far as they are relevant and with necessary modification [^c-9b79443efbe1a9b55f06ebc0b99abf5b]..., to an application made in the High Court and the family court[^c-e17724327a96cf5cca922cc80e4e3023] to enforce an order made in family proceedings.
 
 ## 33.2. Application of the Civil Procedure Rules
 
@@ -30,8 +30,8 @@ summary: ''
 
 Part 70 of the CPR applies to proceedings under this Section as if—
 
-- (a) in rule 70.1, in paragraph (2)(d), “but does not include a judgment or order for the payment of money into court” is omitted; [^key-5bdcf4956f93b47a41ec0728128a1acf]...
-- (a1)[^key-8cd7afe62c5bb9104a788f02ce731c35] in rule 70.3(1), for “County Court” there is substituted “family court”; and
+- (a) in rule 70.1, in paragraph (2)(d), “but does not include a judgment or order for the payment of money into court” is omitted; [^c-5bdcf4956f93b47a41ec0728128a1acf]...
+- (a1)[^c-8cd7afe62c5bb9104a788f02ce731c35] in rule 70.3(1), for “County Court” there is substituted “family court”; and
 - (b) rule 70.5 is omitted.
 
 ## 33.3. How to apply
@@ -48,7 +48,7 @@ Part 70 of the CPR applies to proceedings under this Section as if—
 - (a) apply for an order specifying the method of enforcement; or
 - (b) apply for an order for such method of enforcement as the court may consider appropriate.
 
-(3)[^key-6b0827bf71f951d8eec808f7cfdae586] If an application is made under paragraph (2)(b), the court must issue an order which includes requirements that—
+(3)[^c-6b0827bf71f951d8eec808f7cfdae586] If an application is made under paragraph (2)(b), the court must issue an order which includes requirements that—
 
 - (a) the debtor must attend court at the time and place specified in the order to answer on oath such questions as the court may require;
 - (b) the debtor must complete a financial statement in the form served with that order; and
@@ -66,7 +66,7 @@ Part 70 of the CPR applies to proceedings under this Section as if—
 
 (1) This rule applies to an application for the transfer—
 
-- (a) to the High Court of an order made in the family court[^key-97f1c14e2aa83eadc802ec0300803885]; and
+- (a) to the High Court of an order made in the family court[^c-97f1c14e2aa83eadc802ec0300803885]; and
 - (b) to the family court of an order made in the High Court.
 
 (2) The application must be—
@@ -85,25 +85,25 @@ as if it were an order of the High Court.
 
 (5) This rule does not apply to the transfer of orders for periodical payments or for the recovery of arrears of periodical payments.
 
-## 33.5. Enforcement of orders by way of committal[^key-6ab15d56d28dde0e475a9f14378290ba]
+## 33.5. Enforcement of orders by way of committal[^c-6ab15d56d28dde0e475a9f14378290ba]
 
 *Extent: E+W*
 
 Part 37 applies as appropriate for the enforcement by way of committal of an order made in family proceedings.
 
-## 33.6. Proceedings in the principal registry treated as pending in a designated county court[^key-6ab15d56d28dde0e475a9f14378290ba]
+## 33.6. Proceedings in the principal registry treated as pending in a designated county court[^c-6ab15d56d28dde0e475a9f14378290ba]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 33.7. Specific modifications of the CCR[^key-6ab15d56d28dde0e475a9f14378290ba]
+## 33.7. Specific modifications of the CCR[^c-6ab15d56d28dde0e475a9f14378290ba]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 33.8. Section 118 County Courts Act 1984 and the tipstaff[^key-6ab15d56d28dde0e475a9f14378290ba]
+## 33.8. Section 118 County Courts Act 1984 and the tipstaff[^c-6ab15d56d28dde0e475a9f14378290ba]
 
 *Extent: E+W*
 
@@ -118,13 +118,13 @@ In this Chapter, unless the context requires otherwise—
 - “**order**” means an order made in family proceedings for the payment of money;
 - “**judgment creditor**” means a person entitled to enforce an order under section 5 of the Debtors Act 1869;
 - “**debtor**” means a person liable under an order; and
-- “**judgment summons**” means a summons under section 5 of the Debtors[^key-a555a8cedb5bcf87f6d2916e7b4bc4e6] Act 1869 [^c20649151] requiring a debtor to attend court.
+- “**judgment summons**” means a summons under section 5 of the Debtors[^c-a555a8cedb5bcf87f6d2916e7b4bc4e6] Act 1869 [^c20649151] requiring a debtor to attend court.
 
 ## 33.10. Application
 
 *Extent: E+W*
 
-(1)[^key-3ce502e8e2fcce6880e03e12c252d044] An application for the issue of a judgment summons may be made—
+(1)[^c-3ce502e8e2fcce6880e03e12c252d044] An application for the issue of a judgment summons may be made—
 
 - (a) in the case of an order of the High Court, to—
   - (i) the principal registry;
@@ -150,7 +150,7 @@ having regard (in any case) to the place where the debtor resides or carries on 
 
 (1) If the debtor is in default under an order of committal made on a previous judgment summons in respect of the same order, a judgment summons must not be issued without the court's permission.
 
-(2)[^key-8ab195a097c2bc2043b042bd6af377c2] A judgment summons must be accompanied by the statement referred to in rule 33.10(2).
+(2)[^c-8ab195a097c2bc2043b042bd6af377c2] A judgment summons must be accompanied by the statement referred to in rule 33.10(2).
 
 (3) A judgment summons must be served on the debtor—
 
@@ -171,7 +171,7 @@ having regard (in any case) to the place where the debtor resides or carries on 
 
 Subject to rule 33.11(1), successive judgment summonses may be issued even if the debtor has ceased to reside or carry on business at the address stated in the application for the issue of a judgment summons since the issue of the original judgment summons.
 
-## 33.13 Order or summons to attend adjourned hearing: requirement for personal service[^key-0b69e5bc4cf1d7a56c6d4784f9037ae4]
+## 33.13 Order or summons to attend adjourned hearing: requirement for personal service[^c-0b69e5bc4cf1d7a56c6d4784f9037ae4]
 
 *Extent: E+W*
 
@@ -185,7 +185,7 @@ Subject to rule 33.11(1), successive judgment summonses may be issued even if th
 - (a) the notice of the date and time fixed for the adjourned hearing; and
 - (b) copies of the judgment summons and the documents mentioned in rule 33.10(2).
 
-## 33.14. Committal on application for judgment summons[^key-00d2b1c8f208c38abc6f5ef18869b492]
+## 33.14. Committal on application for judgment summons[^c-00d2b1c8f208c38abc6f5ef18869b492]
 
 *Extent: E+W*
 
@@ -246,13 +246,13 @@ either at a specified time or by instalments.
 
 *Extent: E+W*
 
-(1) The High Court[^key-eb29f7ed20294b543713683edc2e9c28] may summons witnesses to give evidence to prove the means of the debtor and may issue a witness summons for that purpose.
+(1) The High Court[^c-eb29f7ed20294b543713683edc2e9c28] may summons witnesses to give evidence to prove the means of the debtor and may issue a witness summons for that purpose.
 
-(2) Where the debtor appears at the hearing, the High Court[^key-090e705850cbbc3886c23d5ada5e9cbd] may direct that the travelling expenses paid to the debtor be allowed as expenses of a witness.
+(2) Where the debtor appears at the hearing, the High Court[^c-090e705850cbbc3886c23d5ada5e9cbd] may direct that the travelling expenses paid to the debtor be allowed as expenses of a witness.
 
-(3) Where the debtor appears at the hearing and no order of committal is made, the High Court[^key-d08bfd04deaa945dcb407ab1660e2ed6] may allow the debtor's proper costs including compensation for any loss of earnings.
+(3) Where the debtor appears at the hearing and no order of committal is made, the High Court[^c-d08bfd04deaa945dcb407ab1660e2ed6] may allow the debtor's proper costs including compensation for any loss of earnings.
 
-(4) When the High Court[^key-d3ee681ad5e6b4b4b66a0bb844a10282] makes—
+(4) When the High Court[^c-d3ee681ad5e6b4b4b66a0bb844a10282] makes—
 
 - (a) a new order; or
 - (b) an order of committal,
@@ -262,9 +262,9 @@ a court officer must send notice of the order to the debtor and, if the original
 (5) An order of committal must be directed—
 
 - (a) where the order is to be executed by the tipstaff, to the tipstaff; or
-- (b) where the order is to be executed by a deputy tipstaff, to the Designated Family Judge area within[^key-5faa1d03d98690f88a6797cb332ddccb] which the debtor is to be found.
+- (b) where the order is to be executed by a deputy tipstaff, to the Designated Family Judge area within[^c-5faa1d03d98690f88a6797cb332ddccb] which the debtor is to be found.
 
-## 33.18. Special provisions as to judgment summonses in designated county courts[^key-fd78c0eef254ccc9c3cdb9b6fba2886a]
+## 33.18. Special provisions as to judgment summonses in designated county courts[^c-fd78c0eef254ccc9c3cdb9b6fba2886a]
 
 *Extent: E+W*
 
@@ -280,9 +280,9 @@ Where an application is pending for a variation of—
 - (b) an order under section 27 of the 1973 Act; or
 - (c) an order under Part 9 of Schedule 5 to the 2004 Act,
 
-no warrant of control[^key-7c63e32cd85763e133d70efa64d8535d] may be issued to enforce payment of any sum due under those orders, except with the permission of the court[^key-a9040f61cd2b3e6805bc12eb7d5ee115].
+no warrant of control[^c-7c63e32cd85763e133d70efa64d8535d] may be issued to enforce payment of any sum due under those orders, except with the permission of the court[^c-a9040f61cd2b3e6805bc12eb7d5ee115].
 
-## 33.21. Section 103 County Courts Act 1984[^key-8b783e523a14d2ce068df85782209503]
+## 33.21. Section 103 County Courts Act 1984[^c-8b783e523a14d2ce068df85782209503]
 
 *Extent: E+W*
 
@@ -294,7 +294,7 @@ no warrant of control[^key-7c63e32cd85763e133d70efa64d8535d] may be issued to en
 
 Part 69 of the CPR applies to proceedings under this Part.
 
-## 33.23. Application of the CPR[^key-d53b88c452fc2dd500b3daf4caea9a93]
+## 33.23. Application of the CPR[^c-d53b88c452fc2dd500b3daf4caea9a93]
 
 *Extent: E+W*
 
@@ -314,7 +314,7 @@ Part 69 of the CPR applies to proceedings under this Part.
 
 (1) Part 72 of the CPR applies to proceedings under this Part with the following modifications.
 
-(1A)[^key-3a0b5a4dd826175b43078f96303e9adc] In rule 72.3, for paragraph (1)(b) there is substituted—
+(1A)[^c-3a0b5a4dd826175b43078f96303e9adc] In rule 72.3, for paragraph (1)(b) there is substituted—
 
 > - (b) must be issued in the court which made the judgment or order which it is sought to enforce, or made to the Designated Family Judge area within which that judgment or order was made, except that if the proceedings have since been transferred to a different court or Designated Family Judge area, it must be issued in that court or made to that area.
 
@@ -323,14 +323,14 @@ Part 69 of the CPR applies to proceedings under this Part.
 - (a) in paragraph (1), for “a judge” there is substituted “ the court ”; and
 - (b) in paragraph (2), for “judge” there is substituted “ court ”.
 
-(3)[^key-59f16957ea1a7e7bcb9df1699671bd32] In rule 72.7—
+(3)[^c-59f16957ea1a7e7bcb9df1699671bd32] In rule 72.7—
 
 - (a) in paragraph (2)(a), after “the Royal Courts of Justice” there is inserted “or the principal registry”; and
 - (b) in paragraph (2)(b), for “in County Court proceedings, to any County Court hearing centre” there is substituted “in family court proceedings, to any Designated Family Judge area”.
 
 (4) Rule 72.10 is omitted.
 
-## 33.25. Application for a charging order, stop order or stop notice[^key-3c3372d4720cc86d610c26d5e192436a]
+## 33.25. Application for a charging order, stop order or stop notice[^c-3c3372d4720cc86d610c26d5e192436a]
 
 *Extent: E+W*
 
@@ -338,58 +338,58 @@ Part 40 applies for the enforcement of a judgment or order made in family procee
 
 ## Annotations
 
-[^key-fde28c1718974fea089a37f46d038314]: Textual amendment: Words in rule 33.1(1) substituted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [28(a)](https://www.legislation.gov.uk/uksi/2014/667/rule/28/a) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
+[^c-fde28c1718974fea089a37f46d038314]: Textual amendment: Words in rule 33.1(1) substituted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [28(a)](https://www.legislation.gov.uk/uksi/2014/667/rule/28/a) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
 
-[^key-1ab3a2dbb25e741006ea84c31a15059e]: Textual amendment: Words in rule 33.1(2) substituted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [28(b)(i)](https://www.legislation.gov.uk/uksi/2014/667/rule/28/b/i) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
+[^c-1ab3a2dbb25e741006ea84c31a15059e]: Textual amendment: Words in rule 33.1(2) substituted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [28(b)(i)](https://www.legislation.gov.uk/uksi/2014/667/rule/28/b/i) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
 
-[^key-9b79443efbe1a9b55f06ebc0b99abf5b]: Textual amendment: Words in rule 33.1(2) omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [28(b)(ii)](https://www.legislation.gov.uk/uksi/2014/667/rule/28/b/ii) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
+[^c-9b79443efbe1a9b55f06ebc0b99abf5b]: Textual amendment: Words in rule 33.1(2) omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [28(b)(ii)](https://www.legislation.gov.uk/uksi/2014/667/rule/28/b/ii) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
 
-[^key-e17724327a96cf5cca922cc80e4e3023]: Textual amendment: Words in rule 33.1(2) substituted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [28(b)(iii)](https://www.legislation.gov.uk/uksi/2014/667/rule/28/b/iii) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
+[^c-e17724327a96cf5cca922cc80e4e3023]: Textual amendment: Words in rule 33.1(2) substituted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [28(b)(iii)](https://www.legislation.gov.uk/uksi/2014/667/rule/28/b/iii) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
 
-[^key-5bdcf4956f93b47a41ec0728128a1acf]: Textual amendment: Word in rule 33.2(a) omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [29(a)](https://www.legislation.gov.uk/uksi/2014/667/rule/29/a) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
+[^c-5bdcf4956f93b47a41ec0728128a1acf]: Textual amendment: Word in rule 33.2(a) omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [29(a)](https://www.legislation.gov.uk/uksi/2014/667/rule/29/a) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
 
-[^key-8cd7afe62c5bb9104a788f02ce731c35]: Textual amendment: Rule 33.2(a1) inserted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [29(b)](https://www.legislation.gov.uk/uksi/2014/667/rule/29/b) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
+[^c-8cd7afe62c5bb9104a788f02ce731c35]: Textual amendment: Rule 33.2(a1) inserted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [29(b)](https://www.legislation.gov.uk/uksi/2014/667/rule/29/b) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
 
-[^key-6b0827bf71f951d8eec808f7cfdae586]: Textual amendment: [Rule 33.3(3)](https://www.legislation.gov.uk/uksi/2010/2955/rule/33.3/3)[(4)](https://www.legislation.gov.uk/uksi/2010/2955/rule/33.3/4) substituted for [rule 33.3(3)](https://www.legislation.gov.uk/uksi/2010/2955/rule/33.3/3) (6.4.2023) by [The Family Procedure (Amendment) Rules 2023 (S.I. 2023/61)](https://www.legislation.gov.uk/uksi/2023/61), [rules 1(3)](https://www.legislation.gov.uk/uksi/2023/61/rule/1/3), [17](https://www.legislation.gov.uk/uksi/2023/61/rule/17)
+[^c-6b0827bf71f951d8eec808f7cfdae586]: Textual amendment: [Rule 33.3(3)](https://www.legislation.gov.uk/uksi/2010/2955/rule/33.3/3)[(4)](https://www.legislation.gov.uk/uksi/2010/2955/rule/33.3/4) substituted for [rule 33.3(3)](https://www.legislation.gov.uk/uksi/2010/2955/rule/33.3/3) (6.4.2023) by [The Family Procedure (Amendment) Rules 2023 (S.I. 2023/61)](https://www.legislation.gov.uk/uksi/2023/61), [rules 1(3)](https://www.legislation.gov.uk/uksi/2023/61/rule/1/3), [17](https://www.legislation.gov.uk/uksi/2023/61/rule/17)
 
-[^key-97f1c14e2aa83eadc802ec0300803885]: Textual amendment: Words in rule 33.4 substituted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [30](https://www.legislation.gov.uk/uksi/2014/667/rule/30) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
+[^c-97f1c14e2aa83eadc802ec0300803885]: Textual amendment: Words in rule 33.4 substituted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [30](https://www.legislation.gov.uk/uksi/2014/667/rule/30) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
 
-[^key-6ab15d56d28dde0e475a9f14378290ba]: Textual amendment: Rule 33.5 substituted for rules 33.5-33.8 (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [31](https://www.legislation.gov.uk/uksi/2014/667/rule/31) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
+[^c-6ab15d56d28dde0e475a9f14378290ba]: Textual amendment: Rule 33.5 substituted for rules 33.5-33.8 (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [31](https://www.legislation.gov.uk/uksi/2014/667/rule/31) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
 
-[^key-a555a8cedb5bcf87f6d2916e7b4bc4e6]: Textual amendment: Word in [rule 33.9](https://www.legislation.gov.uk/uksi/2010/2955/rule/33.9) substituted (24.8.2015) by [The Family Procedure (Amendment No. 2) Rules 2015 (S.I. 2015/1420)](https://www.legislation.gov.uk/uksi/2015/1420), [rules 1(4)](https://www.legislation.gov.uk/uksi/2015/1420/rule/1/4), [18](https://www.legislation.gov.uk/uksi/2015/1420/rule/18) (with [rule 26](https://www.legislation.gov.uk/uksi/2015/1420/rule/26))
+[^c-a555a8cedb5bcf87f6d2916e7b4bc4e6]: Textual amendment: Word in [rule 33.9](https://www.legislation.gov.uk/uksi/2010/2955/rule/33.9) substituted (24.8.2015) by [The Family Procedure (Amendment No. 2) Rules 2015 (S.I. 2015/1420)](https://www.legislation.gov.uk/uksi/2015/1420), [rules 1(4)](https://www.legislation.gov.uk/uksi/2015/1420/rule/1/4), [18](https://www.legislation.gov.uk/uksi/2015/1420/rule/18) (with [rule 26](https://www.legislation.gov.uk/uksi/2015/1420/rule/26))
 
 [^c20649151]: Marginal citation: [1869 c.62](https://www.legislation.gov.uk/ukpga/1869/62). Section 5 was amended by articles 2 and 3 of the [Civil Procedure (Modification of Enactments) Order 2002 ( S.I. 2002/439) and the Statute Law (Repeals) Act 2004 (c.14)](https://www.legislation.gov.uk/ukpga/2004/14).
 
-[^key-3ce502e8e2fcce6880e03e12c252d044]: Textual amendment: Rule 33.10(1) substituted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [32](https://www.legislation.gov.uk/uksi/2014/667/rule/32) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
+[^c-3ce502e8e2fcce6880e03e12c252d044]: Textual amendment: Rule 33.10(1) substituted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [32](https://www.legislation.gov.uk/uksi/2014/667/rule/32) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
 
-[^key-8ab195a097c2bc2043b042bd6af377c2]: Textual amendment: [Rules 33.11(2)-(6)](https://www.legislation.gov.uk/uksi/2010/2955/rule/33.11/2) substituted for [rule 33.11(2)(3)](https://www.legislation.gov.uk/uksi/2010/2955/rule/33.11/2) (24.8.2015) by [The Family Procedure (Amendment No. 2) Rules 2015 (S.I. 2015/1420)](https://www.legislation.gov.uk/uksi/2015/1420), [rules 1(4)](https://www.legislation.gov.uk/uksi/2015/1420/rule/1/4), [19](https://www.legislation.gov.uk/uksi/2015/1420/rule/19) (with [rule 26](https://www.legislation.gov.uk/uksi/2015/1420/rule/26))
+[^c-8ab195a097c2bc2043b042bd6af377c2]: Textual amendment: [Rules 33.11(2)-(6)](https://www.legislation.gov.uk/uksi/2010/2955/rule/33.11/2) substituted for [rule 33.11(2)(3)](https://www.legislation.gov.uk/uksi/2010/2955/rule/33.11/2) (24.8.2015) by [The Family Procedure (Amendment No. 2) Rules 2015 (S.I. 2015/1420)](https://www.legislation.gov.uk/uksi/2015/1420), [rules 1(4)](https://www.legislation.gov.uk/uksi/2015/1420/rule/1/4), [19](https://www.legislation.gov.uk/uksi/2015/1420/rule/19) (with [rule 26](https://www.legislation.gov.uk/uksi/2015/1420/rule/26))
 
-[^key-0b69e5bc4cf1d7a56c6d4784f9037ae4]: Textual amendment: [Rule 33.13](https://www.legislation.gov.uk/uksi/2010/2955/rule/33.13) substituted (24.8.2015) by [The Family Procedure (Amendment No. 2) Rules 2015 (S.I. 2015/1420)](https://www.legislation.gov.uk/uksi/2015/1420), [rules 1(4)](https://www.legislation.gov.uk/uksi/2015/1420/rule/1/4), [20](https://www.legislation.gov.uk/uksi/2015/1420/rule/20) (with [rule 26](https://www.legislation.gov.uk/uksi/2015/1420/rule/26))
+[^c-0b69e5bc4cf1d7a56c6d4784f9037ae4]: Textual amendment: [Rule 33.13](https://www.legislation.gov.uk/uksi/2010/2955/rule/33.13) substituted (24.8.2015) by [The Family Procedure (Amendment No. 2) Rules 2015 (S.I. 2015/1420)](https://www.legislation.gov.uk/uksi/2015/1420), [rules 1(4)](https://www.legislation.gov.uk/uksi/2015/1420/rule/1/4), [20](https://www.legislation.gov.uk/uksi/2015/1420/rule/20) (with [rule 26](https://www.legislation.gov.uk/uksi/2015/1420/rule/26))
 
-[^key-00d2b1c8f208c38abc6f5ef18869b492]: Textual amendment: [Rule 33.14](https://www.legislation.gov.uk/uksi/2010/2955/rule/33.14) substituted (24.8.2015) by [The Family Procedure (Amendment No. 2) Rules 2015 (S.I. 2015/1420)](https://www.legislation.gov.uk/uksi/2015/1420), [rules 1(4)](https://www.legislation.gov.uk/uksi/2015/1420/rule/1/4), [21](https://www.legislation.gov.uk/uksi/2015/1420/rule/21) (with [rule 26](https://www.legislation.gov.uk/uksi/2015/1420/rule/26))
+[^c-00d2b1c8f208c38abc6f5ef18869b492]: Textual amendment: [Rule 33.14](https://www.legislation.gov.uk/uksi/2010/2955/rule/33.14) substituted (24.8.2015) by [The Family Procedure (Amendment No. 2) Rules 2015 (S.I. 2015/1420)](https://www.legislation.gov.uk/uksi/2015/1420), [rules 1(4)](https://www.legislation.gov.uk/uksi/2015/1420/rule/1/4), [21](https://www.legislation.gov.uk/uksi/2015/1420/rule/21) (with [rule 26](https://www.legislation.gov.uk/uksi/2015/1420/rule/26))
 
-[^key-eb29f7ed20294b543713683edc2e9c28]: Textual amendment: Words in [rule 33.17(1)](https://www.legislation.gov.uk/uksi/2010/2955/rule/33.17/1) substituted (24.8.2015) by [The Family Procedure (Amendment No. 2) Rules 2015 (S.I. 2015/1420)](https://www.legislation.gov.uk/uksi/2015/1420), [rules 1(4)](https://www.legislation.gov.uk/uksi/2015/1420/rule/1/4), [23(a)](https://www.legislation.gov.uk/uksi/2015/1420/rule/23/a) (with [rule 26](https://www.legislation.gov.uk/uksi/2015/1420/rule/26))
+[^c-eb29f7ed20294b543713683edc2e9c28]: Textual amendment: Words in [rule 33.17(1)](https://www.legislation.gov.uk/uksi/2010/2955/rule/33.17/1) substituted (24.8.2015) by [The Family Procedure (Amendment No. 2) Rules 2015 (S.I. 2015/1420)](https://www.legislation.gov.uk/uksi/2015/1420), [rules 1(4)](https://www.legislation.gov.uk/uksi/2015/1420/rule/1/4), [23(a)](https://www.legislation.gov.uk/uksi/2015/1420/rule/23/a) (with [rule 26](https://www.legislation.gov.uk/uksi/2015/1420/rule/26))
 
-[^key-090e705850cbbc3886c23d5ada5e9cbd]: Textual amendment: Words in [rule 33.17(2)](https://www.legislation.gov.uk/uksi/2010/2955/rule/33.17/2) substituted (24.8.2015) by [The Family Procedure (Amendment No. 2) Rules 2015 (S.I. 2015/1420)](https://www.legislation.gov.uk/uksi/2015/1420), [rules 1(4)](https://www.legislation.gov.uk/uksi/2015/1420/rule/1/4), [23(b)](https://www.legislation.gov.uk/uksi/2015/1420/rule/23/b) (with [rule 26](https://www.legislation.gov.uk/uksi/2015/1420/rule/26))
+[^c-090e705850cbbc3886c23d5ada5e9cbd]: Textual amendment: Words in [rule 33.17(2)](https://www.legislation.gov.uk/uksi/2010/2955/rule/33.17/2) substituted (24.8.2015) by [The Family Procedure (Amendment No. 2) Rules 2015 (S.I. 2015/1420)](https://www.legislation.gov.uk/uksi/2015/1420), [rules 1(4)](https://www.legislation.gov.uk/uksi/2015/1420/rule/1/4), [23(b)](https://www.legislation.gov.uk/uksi/2015/1420/rule/23/b) (with [rule 26](https://www.legislation.gov.uk/uksi/2015/1420/rule/26))
 
-[^key-d08bfd04deaa945dcb407ab1660e2ed6]: Textual amendment: Words in [rule 33.17(3)](https://www.legislation.gov.uk/uksi/2010/2955/rule/33.17/3) substituted (24.8.2015) by [The Family Procedure (Amendment No. 2) Rules 2015 (S.I. 2015/1420)](https://www.legislation.gov.uk/uksi/2015/1420), [rules 1(4)](https://www.legislation.gov.uk/uksi/2015/1420/rule/1/4), [23(b)](https://www.legislation.gov.uk/uksi/2015/1420/rule/23/b) (with [rule 26](https://www.legislation.gov.uk/uksi/2015/1420/rule/26))
+[^c-d08bfd04deaa945dcb407ab1660e2ed6]: Textual amendment: Words in [rule 33.17(3)](https://www.legislation.gov.uk/uksi/2010/2955/rule/33.17/3) substituted (24.8.2015) by [The Family Procedure (Amendment No. 2) Rules 2015 (S.I. 2015/1420)](https://www.legislation.gov.uk/uksi/2015/1420), [rules 1(4)](https://www.legislation.gov.uk/uksi/2015/1420/rule/1/4), [23(b)](https://www.legislation.gov.uk/uksi/2015/1420/rule/23/b) (with [rule 26](https://www.legislation.gov.uk/uksi/2015/1420/rule/26))
 
-[^key-d3ee681ad5e6b4b4b66a0bb844a10282]: Textual amendment: Words in [rule 33.17(4)](https://www.legislation.gov.uk/uksi/2010/2955/rule/33.17/4) substituted (24.8.2015) by [The Family Procedure (Amendment No. 2) Rules 2015 (S.I. 2015/1420)](https://www.legislation.gov.uk/uksi/2015/1420), [rules 1(4)](https://www.legislation.gov.uk/uksi/2015/1420/rule/1/4), [23(b)](https://www.legislation.gov.uk/uksi/2015/1420/rule/23/b) (with [rule 26](https://www.legislation.gov.uk/uksi/2015/1420/rule/26))
+[^c-d3ee681ad5e6b4b4b66a0bb844a10282]: Textual amendment: Words in [rule 33.17(4)](https://www.legislation.gov.uk/uksi/2010/2955/rule/33.17/4) substituted (24.8.2015) by [The Family Procedure (Amendment No. 2) Rules 2015 (S.I. 2015/1420)](https://www.legislation.gov.uk/uksi/2015/1420), [rules 1(4)](https://www.legislation.gov.uk/uksi/2015/1420/rule/1/4), [23(b)](https://www.legislation.gov.uk/uksi/2015/1420/rule/23/b) (with [rule 26](https://www.legislation.gov.uk/uksi/2015/1420/rule/26))
 
-[^key-5faa1d03d98690f88a6797cb332ddccb]: Textual amendment: Words in rule 33.17(5)(b) substituted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [35](https://www.legislation.gov.uk/uksi/2014/667/rule/35) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
+[^c-5faa1d03d98690f88a6797cb332ddccb]: Textual amendment: Words in rule 33.17(5)(b) substituted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [35](https://www.legislation.gov.uk/uksi/2014/667/rule/35) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
 
-[^key-fd78c0eef254ccc9c3cdb9b6fba2886a]: Textual amendment: Rule 33.18 omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [36](https://www.legislation.gov.uk/uksi/2014/667/rule/36) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
+[^c-fd78c0eef254ccc9c3cdb9b6fba2886a]: Textual amendment: Rule 33.18 omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [36](https://www.legislation.gov.uk/uksi/2014/667/rule/36) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
 
-[^key-7c63e32cd85763e133d70efa64d8535d]: Textual amendment: Word in rule 33.20 substituted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [39(a)](https://www.legislation.gov.uk/uksi/2014/667/rule/39/a) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
+[^c-7c63e32cd85763e133d70efa64d8535d]: Textual amendment: Word in rule 33.20 substituted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [39(a)](https://www.legislation.gov.uk/uksi/2014/667/rule/39/a) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
 
-[^key-a9040f61cd2b3e6805bc12eb7d5ee115]: Textual amendment: Words in rule 33.20 substituted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [39(b)](https://www.legislation.gov.uk/uksi/2014/667/rule/39/b) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
+[^c-a9040f61cd2b3e6805bc12eb7d5ee115]: Textual amendment: Words in rule 33.20 substituted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [39(b)](https://www.legislation.gov.uk/uksi/2014/667/rule/39/b) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
 
-[^key-8b783e523a14d2ce068df85782209503]: Textual amendment: Rule 33.21 omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [40](https://www.legislation.gov.uk/uksi/2014/667/rule/40) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
+[^c-8b783e523a14d2ce068df85782209503]: Textual amendment: Rule 33.21 omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [40](https://www.legislation.gov.uk/uksi/2014/667/rule/40) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
 
-[^key-d53b88c452fc2dd500b3daf4caea9a93]: Textual amendment: Rule 33.23 substituted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [41](https://www.legislation.gov.uk/uksi/2014/667/rule/41) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
+[^c-d53b88c452fc2dd500b3daf4caea9a93]: Textual amendment: Rule 33.23 substituted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [41](https://www.legislation.gov.uk/uksi/2014/667/rule/41) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
 
-[^key-3a0b5a4dd826175b43078f96303e9adc]: Textual amendment: Rule 33.24(1A) inserted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [42(a)](https://www.legislation.gov.uk/uksi/2014/667/rule/42/a) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
+[^c-3a0b5a4dd826175b43078f96303e9adc]: Textual amendment: Rule 33.24(1A) inserted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [42(a)](https://www.legislation.gov.uk/uksi/2014/667/rule/42/a) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
 
-[^key-59f16957ea1a7e7bcb9df1699671bd32]: Textual amendment: Rule 33.24(3) substituted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [42(b)](https://www.legislation.gov.uk/uksi/2014/667/rule/42/b) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
+[^c-59f16957ea1a7e7bcb9df1699671bd32]: Textual amendment: Rule 33.24(3) substituted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [42(b)](https://www.legislation.gov.uk/uksi/2014/667/rule/42/b) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
 
-[^key-3c3372d4720cc86d610c26d5e192436a]: Textual amendment: [Rule 33.25](https://www.legislation.gov.uk/uksi/2010/2955/rule/33.25) substituted (6.4.2016) by [The Family Procedure (Amendment) Rules 2016 (S.I. 2016/355)](https://www.legislation.gov.uk/uksi/2016/355), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/355/rule/1/2), [5](https://www.legislation.gov.uk/uksi/2016/355/rule/5) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/355/rule/9))
+[^c-3c3372d4720cc86d610c26d5e192436a]: Textual amendment: [Rule 33.25](https://www.legislation.gov.uk/uksi/2010/2955/rule/33.25) substituted (6.4.2016) by [The Family Procedure (Amendment) Rules 2016 (S.I. 2016/355)](https://www.legislation.gov.uk/uksi/2016/355), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/355/rule/1/2), [5](https://www.legislation.gov.uk/uksi/2016/355/rule/5) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/355/rule/9))

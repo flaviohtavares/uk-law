@@ -31,7 +31,7 @@ summary: ''
 
 Highways, England
 
-The Dartmouth-Kingswear Floating Bridge (Revision of Charges etc.) Order 2017 (revoked)[^key-47bf0222be6ff5675f346ea945bd1708]
+The Dartmouth-Kingswear Floating Bridge (Revision of Charges etc.) Order 2017 (revoked)[^c-47bf0222be6ff5675f346ea945bd1708]
 
 Made
 
@@ -41,36 +41,36 @@ Coming into force
 
 8th January 2018
 
-[^key-47bf0222be6ff5675f346ea945bd1708]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-47bf0222be6ff5675f346ea945bd1708]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**1.**[^key-47bf0222be6ff5675f346ea945bd1708] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-47bf0222be6ff5675f346ea945bd1708] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-47bf0222be6ff5675f346ea945bd1708]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 3. Floating Bridge Tolls[^key-47bf0222be6ff5675f346ea945bd1708]
+## 2. Interpretation[^c-47bf0222be6ff5675f346ea945bd1708]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-47bf0222be6ff5675f346ea945bd1708]
+## 3. Floating Bridge Tolls[^c-47bf0222be6ff5675f346ea945bd1708]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-47bf0222be6ff5675f346ea945bd1708]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 4. Revocation[^c-47bf0222be6ff5675f346ea945bd1708]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-47bf0222be6ff5675f346ea945bd1708]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-47bf0222be6ff5675f346ea945bd1708]
+## SCHEDULE[^c-47bf0222be6ff5675f346ea945bd1708]
 
 Article 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-47bf0222be6ff5675f346ea945bd1708]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-47bf0222be6ff5675f346ea945bd1708]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-47bf0222be6ff5675f346ea945bd1708]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2017/1324) revoked (1.8.2023) by [The Dartmouth-Kingswear Floating Bridge (Revision of Charges etc.) Order 2023 (S.I. 2023/833)](https://www.legislation.gov.uk/uksi/2023/833), [arts. 1](https://www.legislation.gov.uk/uksi/2023/833/article/1), [4](https://www.legislation.gov.uk/uksi/2023/833/article/4)
+[^c-47bf0222be6ff5675f346ea945bd1708]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2017/1324) revoked (1.8.2023) by [The Dartmouth-Kingswear Floating Bridge (Revision of Charges etc.) Order 2023 (S.I. 2023/833)](https://www.legislation.gov.uk/uksi/2023/833), [arts. 1](https://www.legislation.gov.uk/uksi/2023/833/article/1), [4](https://www.legislation.gov.uk/uksi/2023/833/article/4)

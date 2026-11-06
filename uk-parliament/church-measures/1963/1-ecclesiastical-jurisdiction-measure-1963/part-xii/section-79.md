@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 79. When convictions, orders or findings are to be deemed conclusive.[^key-5ca08af85be04787418028b3513ad3a3]
+## 79. When convictions, orders or findings are to be deemed conclusive.[^c-5ca08af85be04787418028b3513ad3a3]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ca08af85be04787418028b3513ad3a3]: Textual amendment: [S. 79](https://www.legislation.gov.uk/ukcm/1963/1/section/79) repealed (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [s. 48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2), [Sch. 2](https://www.legislation.gov.uk/ukcm/2003/3/schedule/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-5ca08af85be04787418028b3513ad3a3]: Textual amendment: [S. 79](https://www.legislation.gov.uk/ukcm/1963/1/section/79) repealed (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [s. 48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2), [Sch. 2](https://www.legislation.gov.uk/ukcm/2003/3/schedule/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops

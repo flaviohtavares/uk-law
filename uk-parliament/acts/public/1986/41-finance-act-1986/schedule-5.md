@@ -33,7 +33,7 @@ summary: ''
 
 **3.** (1) Section 12 of the [^c13534541]Alcoholic Liquor Duties Act 1979 (distillers’ licences) shall be amended in accordance with this paragraph.
 
-(2)[^key-274afe3969cc7ac5e871df45b1e4922a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-274afe3969cc7ac5e871df45b1e4922a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) At the end of subsection (5) there shall be added the words “and where the largest still so used on any premises in respect of which a licence is held is of less than that capacity, the Commissioners may revoke the licence or attach to it such conditions as they see fit to impose”.
 
@@ -53,7 +53,7 @@ summary: ''
 
 [^c13534541]: Marginal citation: [1979 c. 4](https://www.legislation.gov.uk/ukpga/1979/4).
 
-[^key-274afe3969cc7ac5e871df45b1e4922a]: Textual amendment: [Sch. 5 para. 3(2)](https://www.legislation.gov.uk/ukpga/1986/41/schedule/5/paragraph/3/2) repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
+[^c-274afe3969cc7ac5e871df45b1e4922a]: Textual amendment: [Sch. 5 para. 3(2)](https://www.legislation.gov.uk/ukpga/1986/41/schedule/5/paragraph/3/2) repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
 
 [^c13534551]: Textual amendment: Sch. 5 para. 3(4)(5) repealed by [Finance Act 1990 (c. 29, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1990/29), [s. 132](https://www.legislation.gov.uk/ukpga/1990/29/section/132), [Sch. 19 Pt. I](https://www.legislation.gov.uk/ukpga/1990/29/schedule/19/part/I)
 

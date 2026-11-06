@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Arrangement for improving street lighting[^key-76422321ff1c147221d7488826bcac87]
+## 44. Arrangement for improving street lighting[^c-76422321ff1c147221d7488826bcac87]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-76422321ff1c147221d7488826bcac87]: Commencement: Reg. 44 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-76422321ff1c147221d7488826bcac87]: Commencement: Reg. 44 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00040]: Footnote: [1875 c. 55](https://www.legislation.gov.uk/ukpga/1875/55).
 

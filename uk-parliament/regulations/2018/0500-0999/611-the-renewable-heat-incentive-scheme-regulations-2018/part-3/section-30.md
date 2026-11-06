@@ -46,7 +46,7 @@ summary: ''
 
 (6) The Authority may reject an application for accreditation if, within the period specified under paragraph (4)(b) or, where applicable, paragraph (5), the applicant has failed to provide the information specified in a notice given under paragraph (4).
 
-(6A)[^key-3a89bd465cd677b299e20c3efe944986] The Authority may reject an application for accreditation if the Authority considers that—
+(6A)[^c-3a89bd465cd677b299e20c3efe944986] The Authority may reject an application for accreditation if the Authority considers that—
 
 - (a) the plant is materially different from the plant which was proposed in an extension application under regulation 3B;
 - (b) there has been a material change in circumstances such that, had the extension application been made after the change, it would have been rejected;
@@ -67,7 +67,7 @@ summary: ''
 
 (8) The Authority may, in granting accreditation, attach such conditions as it considers to be appropriate.
 
-(9) Where an application for accreditation has, in the Authority's opinion, been properly made and the Authority is satisfied that the plant is an eligible installation the Authority must (subject to paragraphs (12) to (14) and regulations 3A,[^key-698df5ffff6030e3fa0d43c774365d8d] 31 and 81(4))—
+(9) Where an application for accreditation has, in the Authority's opinion, been properly made and the Authority is satisfied that the plant is an eligible installation the Authority must (subject to paragraphs (12) to (14) and regulations 3A,[^c-698df5ffff6030e3fa0d43c774365d8d] 31 and 81(4))—
 
 - (a) accredit the eligible installation;
 - (b) notify the applicant in writing that the application has been successfully completed and the applicant is a participant;
@@ -81,7 +81,7 @@ summary: ''
   - (iv) details of the frequency and timetable for periodic support payments; and
   - (v) the tariff lifetime and tariff end date.
 
-(9A)[^key-ffd8c6ba2c8797603a2f7fb2542cc94e] Where a plant is accredited after Scheme closure following an extension application under regulation 3B, the tariff applicable at the tariff start date is the initial tariff which would have applied in accordance with regulation 60 had the tariff start date been the date on which the properly made extension application (within the meaning of regulation 3B(9)) was received by the Authority.
+(9A)[^c-ffd8c6ba2c8797603a2f7fb2542cc94e] Where a plant is accredited after Scheme closure following an extension application under regulation 3B, the tariff applicable at the tariff start date is the initial tariff which would have applied in accordance with regulation 60 had the tariff start date been the date on which the properly made extension application (within the meaning of regulation 3B(9)) was received by the Authority.
 
 (10) Where the Authority does not accredit a plant it must notify the applicant in writing that the application for accreditation has been rejected, giving reasons.
 
@@ -107,10 +107,10 @@ summary: ''
 
 ## Annotations
 
-[^key-3a89bd465cd677b299e20c3efe944986]: Textual amendment: [Reg. 30(6A)](https://www.legislation.gov.uk/uksi/2018/611/regulation/30/6A)[(6B)](https://www.legislation.gov.uk/uksi/2018/611/regulation/30/6B) inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [12(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/12/a)
+[^c-3a89bd465cd677b299e20c3efe944986]: Textual amendment: [Reg. 30(6A)](https://www.legislation.gov.uk/uksi/2018/611/regulation/30/6A)[(6B)](https://www.legislation.gov.uk/uksi/2018/611/regulation/30/6B) inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [12(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/12/a)
 
-[^key-698df5ffff6030e3fa0d43c774365d8d]: Textual amendment: Word in [reg. 30(9)](https://www.legislation.gov.uk/uksi/2018/611/regulation/30/9) inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [12(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/12/b)
+[^c-698df5ffff6030e3fa0d43c774365d8d]: Textual amendment: Word in [reg. 30(9)](https://www.legislation.gov.uk/uksi/2018/611/regulation/30/9) inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [12(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/12/b)
 
-[^key-ffd8c6ba2c8797603a2f7fb2542cc94e]: Textual amendment: [Reg. 30(9A)](https://www.legislation.gov.uk/uksi/2018/611/regulation/30/9A) inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [12(c)](https://www.legislation.gov.uk/uksi/2021/76/regulation/12/c)
+[^c-ffd8c6ba2c8797603a2f7fb2542cc94e]: Textual amendment: [Reg. 30(9A)](https://www.legislation.gov.uk/uksi/2018/611/regulation/30/9A) inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [12(c)](https://www.legislation.gov.uk/uksi/2021/76/regulation/12/c)
 
 [^c22955721]: Marginal citation: [S.I. 2014/928](https://www.legislation.gov.uk/uksi/2014/928), to which there are amendments not relevant to these Regulations.

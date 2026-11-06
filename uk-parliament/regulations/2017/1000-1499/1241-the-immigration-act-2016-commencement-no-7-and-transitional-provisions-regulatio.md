@@ -37,7 +37,7 @@ Made
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 92(1), 93(6), 94(1) and (2) of, and paragraph 13(1) of Schedule 10 to, the Immigration Act 2016[^f00001].
 
-## 1. Citation and interpretation[^key-1d6483764b8b22566b5e4d0302cc85e2]
+## 1. Citation and interpretation[^c-1d6483764b8b22566b5e4d0302cc85e2]
 
 (1) These Regulations may be cited as the Immigration Act 2016 (Commencement No. 7 and Transitional Provisions) Regulations 2017.
 
@@ -46,7 +46,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - “the 1999 Act” means the Immigration and Asylum Act 1999[^f00002];
 - “the 2016 Act” means the Immigration Act 2016.
 
-## 2. Provisions coming into force on 15th January 2018[^key-8e7160e9672231b87cf2ad6abc57108a]
+## 2. Provisions coming into force on 15th January 2018[^c-8e7160e9672231b87cf2ad6abc57108a]
 
 The following provisions of the 2016 Act come into force on 15th January 2018—
 
@@ -61,7 +61,7 @@ The following provisions of the 2016 Act come into force on 15th January 2018—
   - (i) paragraph 1 (abolition of power to support certain categories of migrant) to the extent that it repeals section 4(1) of the 1999 Act[^f00003];
   - (ii) paragraph 46 (transitional and saving provisions) so far as is relates to the repeal of section 4(1) of the 1999 Act.
 
-## 3. Transitional provisions[^key-4d86dd8850c3f8cbc9d300dc3f1f89cb]
+## 3. Transitional provisions[^c-4d86dd8850c3f8cbc9d300dc3f1f89cb]
 
 The Schedule to these Regulations, which contains transitional provisions, has effect.
 
@@ -77,9 +77,9 @@ Home Office
 
 Regulation 3
 
-### 1. Persons at large on the date on which Schedule 10 comes into force[^key-573c606e0b6ccc811b8633bef057ba65]
+### 1. Persons at large on the date on which Schedule 10 comes into force[^c-573c606e0b6ccc811b8633bef057ba65]
 
-(1) This paragraph applies to any person (“P”) to whom paragraph 13(1) of Schedule 10 to the 2016 Act applies on 15th January 2018[^key-85547cf0a9c8957f0c54773f62689834].
+(1) This paragraph applies to any person (“P”) to whom paragraph 13(1) of Schedule 10 to the 2016 Act applies on 15th January 2018[^c-85547cf0a9c8957f0c54773f62689834].
 
 (2) From that date P is to be treated, for the purposes of the provision by virtue of which paragraph 13(1) applies, instead as having been granted immigration bail under paragraph 1 of that Schedule.
 
@@ -92,7 +92,7 @@ Regulation 3
 
 (5) If sub-paragraph (4) does not apply to P then P will be deemed to have been granted immigration bail by the Secretary of State under paragraph 1(1) or (2) of Schedule 10.
 
-### 2. The treatment of existing recognizances and bail bonds[^key-794277ae28df08563c85e1bc2638eab5]
+### 2. The treatment of existing recognizances and bail bonds[^c-794277ae28df08563c85e1bc2638eab5]
 
 (1) This paragraph applies where, before 15th January 2018, a person—
 
@@ -170,18 +170,18 @@ The following provisions of the Immigration Act [2016 (c. 19)](https://www.legis
 
 [^f00001]: Footnote: [2016 c. 19](https://www.legislation.gov.uk/ukpga/2016/19).
 
-[^key-1d6483764b8b22566b5e4d0302cc85e2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/1241/regulation/1) in force at made date
+[^c-1d6483764b8b22566b5e4d0302cc85e2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/1241/regulation/1) in force at made date
 
 [^f00002]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
 
-[^key-8e7160e9672231b87cf2ad6abc57108a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2) in force at made date
+[^c-8e7160e9672231b87cf2ad6abc57108a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2) in force at made date
 
 [^f00003]: Footnote: Section 4 of the 1999 Act was amended by section 49(2) of the Nationality, Immigration and Asylum Act [2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41) which renumbered section 4 as section 4(1) and inserted the sub-sections that follow it.
 
-[^key-4d86dd8850c3f8cbc9d300dc3f1f89cb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/1241/regulation/3) in force at made date
+[^c-4d86dd8850c3f8cbc9d300dc3f1f89cb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/1241/regulation/3) in force at made date
 
-[^key-573c606e0b6ccc811b8633bef057ba65]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2017/1241/schedule/paragraph/1) in force at made date
+[^c-573c606e0b6ccc811b8633bef057ba65]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2017/1241/schedule/paragraph/1) in force at made date
 
-[^key-85547cf0a9c8957f0c54773f62689834]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule) substituted (11.1.2018) by [The Immigration Act 2016 (Commencement No. 7 and Transitional Provisions) (Amendment) Regulations 2018 (S.I. 2018/31)](https://www.legislation.gov.uk/uksi/2018/31), [reg. 2](https://www.legislation.gov.uk/uksi/2018/31/regulation/2)
+[^c-85547cf0a9c8957f0c54773f62689834]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule) substituted (11.1.2018) by [The Immigration Act 2016 (Commencement No. 7 and Transitional Provisions) (Amendment) Regulations 2018 (S.I. 2018/31)](https://www.legislation.gov.uk/uksi/2018/31), [reg. 2](https://www.legislation.gov.uk/uksi/2018/31/regulation/2)
 
-[^key-794277ae28df08563c85e1bc2638eab5]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2017/1241/schedule/paragraph/2) in force at made date
+[^c-794277ae28df08563c85e1bc2638eab5]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2017/1241/schedule/paragraph/2) in force at made date

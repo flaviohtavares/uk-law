@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^c642373][^c642372] Any power conferred by this Act on the appropriate conservation body[^key-d539396009002d22ff0a18dc856c6c79] (as defined in section 15A of this Act)[^c642374] or a local authority to acquire land compulsorily shall be exercisable in any particular case on their being authorised so to do by the Secretary of State.
+(1)[^c642373][^c642372] Any power conferred by this Act on the appropriate conservation body[^c-d539396009002d22ff0a18dc856c6c79] (as defined in section 15A of this Act)[^c642374] or a local authority to acquire land compulsorily shall be exercisable in any particular case on their being authorised so to do by the Secretary of State.
 
 (1A)[^c642375] The [^c642376] Acquisition of Land Act 1981 shall apply to the acquisition of land under this Act, and in relation to the acquisition under this Act of any interest in land the [^c642377] Compulsory Purchase Act 1965 shall apply with any necessary modifications.
 
@@ -48,7 +48,7 @@ Provided that section two of the said Act (which confers temporary powers for th
 
 [^c642372]: Textual amendment: S. 103(1) substituted by [Nature Conservancy Council Act 1973 (c. 54, SIF 46:1)](https://www.legislation.gov.uk/ukpga/1973/54), [Sch. 1 para. 2(1)](https://www.legislation.gov.uk/ukpga/1973/54/schedule/1/paragraph/2/1)
 
-[^key-d539396009002d22ff0a18dc856c6c79]: Textual amendment: Words in s. 103(1) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 15(g)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/15/g); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-d539396009002d22ff0a18dc856c6c79]: Textual amendment: Words in s. 103(1) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 15(g)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/15/g); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
 [^c642374]: Textual amendment: Words in s. 103(1) inserted (1.4.1991) by Environmental Protection Act 1990 (c. sx 43, SIF 46:4), s. 132, Sch. 9 para. 1(4)(a); [S.I. 1991/685](https://www.legislation.gov.uk/uksi/1991/685), [art. 3](https://www.legislation.gov.uk/uksi/1991/685/article/3)
 

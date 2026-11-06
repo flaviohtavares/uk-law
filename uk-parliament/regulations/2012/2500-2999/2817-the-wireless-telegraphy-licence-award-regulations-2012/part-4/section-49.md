@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Incomplete or defective opt-in bid form[^key-10cc3734743a2cdd6458f346ad925a1b]
+## 49. Incomplete or defective opt-in bid form[^c-10cc3734743a2cdd6458f346ad925a1b]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10cc3734743a2cdd6458f346ad925a1b]: Commencement: Reg. 49 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-10cc3734743a2cdd6458f346ad925a1b]: Commencement: Reg. 49 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

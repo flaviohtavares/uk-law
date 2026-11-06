@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Re-examination procedure, and issue or amendment of plating certificates (or notices of refusal)[^key-2c70921d80596ee3a95d6ef986b34e82]
+## 36. Re-examination procedure, and issue or amendment of plating certificates (or notices of refusal)[^c-2c70921d80596ee3a95d6ef986b34e82]
 
 *Extent: E+W+S*
 
@@ -38,7 +38,7 @@ summary: ''
 (4) Where a new plating certificate is issued for a vehicle it shall contain—
 
 - (a) particulars of any plated weights determined for the vehicle under this regulation;
-- (b)[^key-e9edafe04a8d3b2b919971f33252da03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-e9edafe04a8d3b2b919971f33252da03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) where any such plated weight so determined is less than the weight that would have been otherwise determined under regulation 20 but for paragraph (g) of that regulation, particulars of the last mentioned weight which shall be shown as a design weight;
 - (d) any other new particular determined for the vehicle under this regulation; and
 - (e) subject to sub-paragraphs (a) to (d) above, the same particulars as are appropriate in the case of the plating certificate mentioned in regulation 21.
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2c70921d80596ee3a95d6ef986b34e82]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1988/1478/regulation/36) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)
+[^c-2c70921d80596ee3a95d6ef986b34e82]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1988/1478/regulation/36) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)
 
-[^key-e9edafe04a8d3b2b919971f33252da03]: Textual amendment: [Reg. 36(4)(b)](https://www.legislation.gov.uk/uksi/1988/1478/regulation/36/4/b) omitted (5.3.1997) by virtue of [The Goods Vehicles (Plating and Testing) (Amendment) (No. 2) Regulations 1997 (S.I. 1997/263)](https://www.legislation.gov.uk/uksi/1997/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1997/263/regulation/1/2), [13(6)](https://www.legislation.gov.uk/uksi/1997/263/regulation/13/6)
+[^c-e9edafe04a8d3b2b919971f33252da03]: Textual amendment: [Reg. 36(4)(b)](https://www.legislation.gov.uk/uksi/1988/1478/regulation/36/4/b) omitted (5.3.1997) by virtue of [The Goods Vehicles (Plating and Testing) (Amendment) (No. 2) Regulations 1997 (S.I. 1997/263)](https://www.legislation.gov.uk/uksi/1997/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1997/263/regulation/1/2), [13(6)](https://www.legislation.gov.uk/uksi/1997/263/regulation/13/6)

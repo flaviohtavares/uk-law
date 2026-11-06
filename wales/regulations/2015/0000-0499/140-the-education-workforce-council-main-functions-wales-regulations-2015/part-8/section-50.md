@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Supply of information to the General Teaching Council for Scotland[^key-f9027378487ac461beb5b2193070fc54]
+## 50. Supply of information to the General Teaching Council for Scotland[^c-f9027378487ac461beb5b2193070fc54]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9027378487ac461beb5b2193070fc54]: Commencement: [Reg. 50](https://www.legislation.gov.uk/wsi/2015/140/regulation/50) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-f9027378487ac461beb5b2193070fc54]: Commencement: [Reg. 50](https://www.legislation.gov.uk/wsi/2015/140/regulation/50) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)

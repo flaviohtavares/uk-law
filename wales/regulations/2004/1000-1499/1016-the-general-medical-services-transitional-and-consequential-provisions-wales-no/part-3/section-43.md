@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Temporary residents[^key-33baa9283721f8c272f2f6a6379f1c63]
+## 43. Temporary residents[^c-33baa9283721f8c272f2f6a6379f1c63]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ the person shall be treated as if he or she had been accepted as a temporary res
 
 ## Annotations
 
-[^key-33baa9283721f8c272f2f6a6379f1c63]: Commencement: Art. 43 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-33baa9283721f8c272f2f6a6379f1c63]: Commencement: Art. 43 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

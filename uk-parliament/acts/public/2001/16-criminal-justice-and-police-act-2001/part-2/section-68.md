@@ -33,18 +33,18 @@ summary: ''
 - (c) section 448(3) of the Companies Act 1985 (c. 6);
 - (d)[^c8874411] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e)[^c8874411] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f) sections 122D(3) and 176(5)[^key-83a1892718d6da443755a30692a7b141] of the Financial Services and Markets Act 2000 (c. 8).
-- (g)[^c19736511] regulation 70(7) of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017[^key-2518a878fdba66a07bc665c6dbbd1272]; and
-- (h)[^key-e697ce7223e1d98cbf73f5e35d9af7b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f) sections 122D(3) and 176(5)[^c-83a1892718d6da443755a30692a7b141] of the Financial Services and Markets Act 2000 (c. 8).
+- (g)[^c19736511] regulation 70(7) of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017[^c-2518a878fdba66a07bc665c6dbbd1272]; and
+- (h)[^c-e697ce7223e1d98cbf73f5e35d9af7b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c8874411]: Textual amendment: S. 68(2)(b)(d)(e) repealed (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [364(d)](https://www.legislation.gov.uk/uksi/2001/3649/article/364/d)
 
-[^key-83a1892718d6da443755a30692a7b141]: Textual amendment: Words in s. 68(2)(f) substituted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [13(4)](https://www.legislation.gov.uk/uksi/2016/680/regulation/13/4)
+[^c-83a1892718d6da443755a30692a7b141]: Textual amendment: Words in s. 68(2)(f) substituted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [13(4)](https://www.legislation.gov.uk/uksi/2016/680/regulation/13/4)
 
 [^c19736511]: Textual amendment: S. 68(2)(g)(h) inserted (15.12.2007) by [The Transfer of Funds (Information on the Payer) Regulations 2007 (S.I. 2007/3298)](https://www.legislation.gov.uk/uksi/2007/3298), [reg. 19](https://www.legislation.gov.uk/uksi/2007/3298/regulation/19), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2007/3298/schedule/3/paragraph/2)
 
-[^key-2518a878fdba66a07bc665c6dbbd1272]: Textual amendment: Words in s. 68(2)(g) substituted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 5(a)(i)](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/5/a/i) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
+[^c-2518a878fdba66a07bc665c6dbbd1272]: Textual amendment: Words in s. 68(2)(g) substituted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 5(a)(i)](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/5/a/i) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
 
-[^key-e697ce7223e1d98cbf73f5e35d9af7b0]: Textual amendment: S. 68(2)(h) omitted (26.6.2017) by virtue of [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 5(a)(ii)](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/5/a/ii) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
+[^c-e697ce7223e1d98cbf73f5e35d9af7b0]: Textual amendment: S. 68(2)(h) omitted (26.6.2017) by virtue of [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 5(a)(ii)](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/5/a/ii) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))

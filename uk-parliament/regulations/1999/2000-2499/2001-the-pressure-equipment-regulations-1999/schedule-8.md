@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — ENFORCEMENT[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]
+## SCHEDULE 8 — ENFORCEMENT[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,36 +24,36 @@ summary: ''
 
 Regulation 24
 
-### 1. Enforcement in Great Britain[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]
+### 1. Enforcement in Great Britain[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7ac0b5d8f0bbb2379414454dec7cbe6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Enforcement in Northern Ireland in relation to pressure equipment or assemblies[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 4. Forfeiture of pressure equipment or assemblies for private use or consumption: England and Wales and Northern Ireland[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]
+### 3. Enforcement in Northern Ireland in relation to pressure equipment or assemblies[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Forfeiture of pressure equipment or assemblies for private use or consumption: Scotland[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]
+### 4. Forfeiture of pressure equipment or assemblies for private use or consumption: England and Wales and Northern Ireland[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Duty of enforcement authority to inform Secretary of State of action taken[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]
+### 5. Forfeiture of pressure equipment or assemblies for private use or consumption: Scotland[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Savings[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]
+### 6. Duty of enforcement authority to inform Secretary of State of action taken[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Interpretation[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]
+### 7. Savings[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Interpretation[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]: Textual amendment: Regulations revoked (8.12.2016) by [The Pressure Equipment (Safety) Regulations 2016 (S.I. 2016/1105)](https://www.legislation.gov.uk/uksi/2016/1105), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1105/regulation/1), [90(1)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/90/1) (with [regs. 88](https://www.legislation.gov.uk/uksi/2016/1105/regulation/88), [90(2)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/90/2))
+[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]: Textual amendment: Regulations revoked (8.12.2016) by [The Pressure Equipment (Safety) Regulations 2016 (S.I. 2016/1105)](https://www.legislation.gov.uk/uksi/2016/1105), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1105/regulation/1), [90(1)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/90/1) (with [regs. 88](https://www.legislation.gov.uk/uksi/2016/1105/regulation/88), [90(2)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/90/2))

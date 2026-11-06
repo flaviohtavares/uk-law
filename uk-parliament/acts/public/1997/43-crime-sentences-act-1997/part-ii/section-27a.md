@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27A. Sentence of detention during Her Majesty’s pleasure imposed on a person under 18: application for minimum term review[^key-6e92c05e1902e9a7e9c3ca7b4cd0269e]
+## 27A. Sentence of detention during Her Majesty’s pleasure imposed on a person under 18: application for minimum term review[^c-6e92c05e1902e9a7e9c3ca7b4cd0269e]
 
 *Extent: E+W*
 
@@ -73,6 +73,6 @@ and such a person is referred to in this section as a “**relevant young offend
 
 ## Annotations
 
-[^key-6e92c05e1902e9a7e9c3ca7b4cd0269e]: Textual amendment: [Ss. 27A](https://www.legislation.gov.uk/ukpga/1997/43/section/27A), [27B](https://www.legislation.gov.uk/ukpga/1997/43/section/27B) and cross-heading inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 128(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/128/1), [208(5)(l)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/l)
+[^c-6e92c05e1902e9a7e9c3ca7b4cd0269e]: Textual amendment: [Ss. 27A](https://www.legislation.gov.uk/ukpga/1997/43/section/27A), [27B](https://www.legislation.gov.uk/ukpga/1997/43/section/27B) and cross-heading inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 128(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/128/1), [208(5)(l)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/l)
 
 [^M_C_91c57d4e-60b3-4953-8168-02877f779fd9]: Modification: S. 27A(4) modified (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 128(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/128/3), [208(5)(l)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/l) (with [s. 128(4)](https://www.legislation.gov.uk/ukpga/2022/32/section/128/4))

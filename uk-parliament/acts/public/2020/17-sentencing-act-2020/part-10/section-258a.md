@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 258A. Required sentence of detention for life for manslaughter of emergency worker[^key-5c6a009de97c04e09480a64a9e0690b7]
+## 258A. Required sentence of detention for life for manslaughter of emergency worker[^c-5c6a009de97c04e09480a64a9e0690b7]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c6a009de97c04e09480a64a9e0690b7]: Textual amendment: [S. 258A](https://www.legislation.gov.uk/ukpga/2020/17/section/258A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 3(6)](https://www.legislation.gov.uk/ukpga/2022/32/section/3/6), [208(5)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/b)
+[^c-5c6a009de97c04e09480a64a9e0690b7]: Textual amendment: [S. 258A](https://www.legislation.gov.uk/ukpga/2020/17/section/258A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 3(6)](https://www.legislation.gov.uk/ukpga/2022/32/section/3/6), [208(5)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/b)

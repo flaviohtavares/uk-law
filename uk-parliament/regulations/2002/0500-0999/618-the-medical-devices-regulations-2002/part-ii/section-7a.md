@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7A. Registration of persons placing general medical devices on the market[^key-eec56cb1d415b20cbe7b5d2bdfba906a]
+## 7A. Registration of persons placing general medical devices on the market[^c-eec56cb1d415b20cbe7b5d2bdfba906a]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eec56cb1d415b20cbe7b5d2bdfba906a]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2002/618/regulation/7A) inserted (E.W.S.) (30.4.2021) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/791)](https://www.legislation.gov.uk/uksi/2019/791), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/791/regulation/1/2/a), [4(4)](https://www.legislation.gov.uk/uksi/2019/791/regulation/4/4) (as amended by [S.I. 2019/1385](https://www.legislation.gov.uk/uksi/2019/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1385/regulation/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2019/1385/schedule/2/paragraph/3) and [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 paras. 2](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2), [12](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eec56cb1d415b20cbe7b5d2bdfba906a]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2002/618/regulation/7A) inserted (E.W.S.) (30.4.2021) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/791)](https://www.legislation.gov.uk/uksi/2019/791), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/791/regulation/1/2/a), [4(4)](https://www.legislation.gov.uk/uksi/2019/791/regulation/4/4) (as amended by [S.I. 2019/1385](https://www.legislation.gov.uk/uksi/2019/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1385/regulation/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2019/1385/schedule/2/paragraph/3) and [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 paras. 2](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2), [12](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

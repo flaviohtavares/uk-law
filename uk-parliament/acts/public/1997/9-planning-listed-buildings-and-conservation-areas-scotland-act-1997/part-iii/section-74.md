@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Exercise of powers in relation to Crown land.[^key-a259edf07d377f396b5e1d0db51d4e47]
+## 74. Exercise of powers in relation to Crown land.[^c-a259edf07d377f396b5e1d0db51d4e47]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a259edf07d377f396b5e1d0db51d4e47]: Textual amendment: S. 74 repealed (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/19), [Sch. 9](https://www.legislation.gov.uk/ukpga/2004/5/schedule/9) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(e)(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f/e)
+[^c-a259edf07d377f396b5e1d0db51d4e47]: Textual amendment: S. 74 repealed (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/19), [Sch. 9](https://www.legislation.gov.uk/ukpga/2004/5/schedule/9) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(e)(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f/e)

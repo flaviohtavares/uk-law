@@ -46,7 +46,7 @@ Coming into force
 
 29th April *2*009
 
-[^key-189ce53fab1e11d6bb329992fe6fa449]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-189ce53fab1e11d6bb329992fe6fa449]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -264,7 +264,7 @@ Coming into force
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-189ce53fab1e11d6bb329992fe6fa449]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-189ce53fab1e11d6bb329992fe6fa449]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -574,8 +574,8 @@ regulation 33A(6)
 
 **May not be in force at this date. Check the source.**
 
-[^key-189ce53fab1e11d6bb329992fe6fa449]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-189ce53fab1e11d6bb329992fe6fa449]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-189ce53fab1e11d6bb329992fe6fa449]: Textual amendment: Regulations revoked (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 43](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/43) (with [reg. 30](https://www.legislation.gov.uk/uksi/2020/818/regulation/30), [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-189ce53fab1e11d6bb329992fe6fa449]: Textual amendment: Regulations revoked (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 43](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/43) (with [reg. 30](https://www.legislation.gov.uk/uksi/2020/818/regulation/30), [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))

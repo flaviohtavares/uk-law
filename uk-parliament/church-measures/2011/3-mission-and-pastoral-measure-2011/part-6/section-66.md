@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 66. Pastoral (church buildings disposal) schemes in respect of churches closed or demolished otherwise than under this Measure[^key-a0c7eaa52ad8a034e66edc92a146f0fd]
+## 66. Pastoral (church buildings disposal) schemes in respect of churches closed or demolished otherwise than under this Measure[^c-a0c7eaa52ad8a034e66edc92a146f0fd]
 
 *Extent: E*
 
@@ -30,4 +30,4 @@ Provided that, where the Commissioners are satisfied that a new church or place 
 
 ## Annotations
 
-[^key-a0c7eaa52ad8a034e66edc92a146f0fd]: Commencement: S. 66 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-a0c7eaa52ad8a034e66edc92a146f0fd]: Commencement: S. 66 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

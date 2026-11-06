@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Saving for right to grant degrees under the Ecclesiastical Licences Act 1533[^key-65c71ab7e9c01036d18adb954684c8b5]
+## 55. Saving for right to grant degrees under the Ecclesiastical Licences Act 1533[^c-65c71ab7e9c01036d18adb954684c8b5]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Nothing done under this Part is to affect the right of the Archbishop of Canterb
 
 ## Annotations
 
-[^key-65c71ab7e9c01036d18adb954684c8b5]: Commencement: S. 55 in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/f)
+[^c-65c71ab7e9c01036d18adb954684c8b5]: Commencement: S. 55 in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/f)

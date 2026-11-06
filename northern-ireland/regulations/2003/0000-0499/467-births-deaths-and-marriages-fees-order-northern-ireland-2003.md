@@ -31,7 +31,7 @@ summary: ''
 
 REGISTRATION OF BIRTHS, DEATHS AND MARRIAGES
 
-Births, Deaths and Marriages (Fees) Order (Northern Ireland) 2003 (revoked)[^key-88881e2c1db070a475e350f14cd9b6f3]
+Births, Deaths and Marriages (Fees) Order (Northern Ireland) 2003 (revoked)[^c-88881e2c1db070a475e350f14cd9b6f3]
 
 Made
 
@@ -43,34 +43,34 @@ Coming into operation
 
 1st January 2004
 
-[^key-88881e2c1db070a475e350f14cd9b6f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-88881e2c1db070a475e350f14cd9b6f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-88881e2c1db070a475e350f14cd9b6f3]
+## 1. Citation and commencement[^c-88881e2c1db070a475e350f14cd9b6f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees payable[^key-88881e2c1db070a475e350f14cd9b6f3]
+## 2. Fees payable[^c-88881e2c1db070a475e350f14cd9b6f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-88881e2c1db070a475e350f14cd9b6f3]
+## 3. Revocation[^c-88881e2c1db070a475e350f14cd9b6f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-88881e2c1db070a475e350f14cd9b6f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-88881e2c1db070a475e350f14cd9b6f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — FEES PAYABLE[^key-88881e2c1db070a475e350f14cd9b6f3]
+## SCHEDULE — FEES PAYABLE[^c-88881e2c1db070a475e350f14cd9b6f3]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-88881e2c1db070a475e350f14cd9b6f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-88881e2c1db070a475e350f14cd9b6f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-88881e2c1db070a475e350f14cd9b6f3]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2003/467) revoked (5.12.2005) by [Births, Deaths, Marriages and Civil Partnerships (Fees) Order (Northern Ireland) 2005 (S.R. 2005/478)](https://www.legislation.gov.uk/nisr/2005/478), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2005/478/article/1/1), [3](https://www.legislation.gov.uk/nisr/2005/478/article/3)
+[^c-88881e2c1db070a475e350f14cd9b6f3]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2003/467) revoked (5.12.2005) by [Births, Deaths, Marriages and Civil Partnerships (Fees) Order (Northern Ireland) 2005 (S.R. 2005/478)](https://www.legislation.gov.uk/nisr/2005/478), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2005/478/article/1/1), [3](https://www.legislation.gov.uk/nisr/2005/478/article/3)

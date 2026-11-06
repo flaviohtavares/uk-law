@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35A. The Fluorinated Greenhouse Gases Regulations 2015[^key-748e360285feb94142d8859c85d5e3b7]
+## 35A. The Fluorinated Greenhouse Gases Regulations 2015[^c-748e360285feb94142d8859c85d5e3b7]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-748e360285feb94142d8859c85d5e3b7]: Textual amendment: Pt. 3 Section 1A inserted (31.12.2020 immediately before IP completion day) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(19)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/19)
+[^c-748e360285feb94142d8859c85d5e3b7]: Textual amendment: Pt. 3 Section 1A inserted (31.12.2020 immediately before IP completion day) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(19)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/19)

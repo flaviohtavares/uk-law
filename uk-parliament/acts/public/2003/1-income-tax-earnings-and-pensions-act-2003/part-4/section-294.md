@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 294. European travel expenses of MPs and other representatives[^key-37c2459dff9f7913c368ec683be1ab58][^key-4c7110d36af160394f7bc5c56b65d5d9]
+## 294. European travel expenses of MPs and other representatives[^c-37c2459dff9f7913c368ec683be1ab58][^c-4c7110d36af160394f7bc5c56b65d5d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 and expressed to be made in respect of European travel expenses.
 
-(2)[^key-52a08de8627436121b50c1c682f764f1] “**European travel expenses**” means the cost of, and any additional expenses incurred in, travelling between the United Kingdom and a relevant European location.
+(2)[^c-52a08de8627436121b50c1c682f764f1] “**European travel expenses**” means the cost of, and any additional expenses incurred in, travelling between the United Kingdom and a relevant European location.
 
 (3) “**Relevant European location**” means—
 
@@ -37,7 +37,7 @@ and expressed to be made in respect of European travel expenses.
 - (b) the national parliament of—
   - (i) another member State,
   - (ii) a candidate or applicant country, or
-  - (iii) any other country that is a member of the Council of Europe.[^key-e9e6b361814dbe98802af6ead1fd7b8d]
+  - (iii) any other country that is a member of the Council of Europe.[^c-e9e6b361814dbe98802af6ead1fd7b8d]
 
 (4) The Treasury may by order amend subsection (3) by—
 
@@ -47,10 +47,10 @@ and expressed to be made in respect of European travel expenses.
 
 ## Annotations
 
-[^key-37c2459dff9f7913c368ec683be1ab58]: Textual amendment: S. 294(1) substituted (with effect in accordance with Sch. 4 para. 1(4)(5) of the amending Act) by [Finance (No. 2) Act 2010 (c. 31)](https://www.legislation.gov.uk/ukpga/2010/31), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/ukpga/2010/31/schedule/4/paragraph/3/2)
+[^c-37c2459dff9f7913c368ec683be1ab58]: Textual amendment: S. 294(1) substituted (with effect in accordance with Sch. 4 para. 1(4)(5) of the amending Act) by [Finance (No. 2) Act 2010 (c. 31)](https://www.legislation.gov.uk/ukpga/2010/31), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/ukpga/2010/31/schedule/4/paragraph/3/2)
 
-[^key-4c7110d36af160394f7bc5c56b65d5d9]: Textual amendment: Word in s. 294 heading substituted (with effect in accordance with s. 82(5) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 82(4)](https://www.legislation.gov.uk/ukpga/2004/12/section/82/4)
+[^c-4c7110d36af160394f7bc5c56b65d5d9]: Textual amendment: Word in s. 294 heading substituted (with effect in accordance with s. 82(5) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 82(4)](https://www.legislation.gov.uk/ukpga/2004/12/section/82/4)
 
-[^key-52a08de8627436121b50c1c682f764f1]: Textual amendment: S. 294(2)-(4) substituted (with effect in accordance with s. 82(5) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2004/12/section/82/3)
+[^c-52a08de8627436121b50c1c682f764f1]: Textual amendment: S. 294(2)-(4) substituted (with effect in accordance with s. 82(5) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2004/12/section/82/3)
 
-[^key-e9e6b361814dbe98802af6ead1fd7b8d]: Textual amendment: S. 294(3)(b)(iii) substituted (with effect in accordance with Sch. 4 para. 3(4)(5) of the amending Act) by [Finance (No. 2) Act 2010 (c. 31)](https://www.legislation.gov.uk/ukpga/2010/31), [Sch. 4 para. 3(3)](https://www.legislation.gov.uk/ukpga/2010/31/schedule/4/paragraph/3/3)
+[^c-e9e6b361814dbe98802af6ead1fd7b8d]: Textual amendment: S. 294(3)(b)(iii) substituted (with effect in accordance with Sch. 4 para. 3(4)(5) of the amending Act) by [Finance (No. 2) Act 2010 (c. 31)](https://www.legislation.gov.uk/ukpga/2010/31), [Sch. 4 para. 3(3)](https://www.legislation.gov.uk/ukpga/2010/31/schedule/4/paragraph/3/3)

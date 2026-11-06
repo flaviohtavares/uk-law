@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25F. Establishment of voluntary register: impact assessment[^key-75b4625f1ed237a4fc02829102a43d64]
+## 25F. Establishment of voluntary register: impact assessment[^c-75b4625f1ed237a4fc02829102a43d64]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 - (a) persons who would be eligible for inclusion in the register;
 - (b) persons who employ persons who would be eligible for inclusion in the register;
-- (c) users of health care and users of social care in England[^key-ec9683da60e2a8432dc412e0ceb5e411].
+- (c) users of health care and users of social care in England[^c-ec9683da60e2a8432dc412e0ceb5e411].
 
 (4) A regulatory body must publish any assessment it makes under this section.
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-75b4625f1ed237a4fc02829102a43d64]: Textual amendment: Ss. 25D-25F inserted (1.12.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 228](https://www.legislation.gov.uk/ukpga/2012/7/section/228), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/3)
+[^c-75b4625f1ed237a4fc02829102a43d64]: Textual amendment: Ss. 25D-25F inserted (1.12.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 228](https://www.legislation.gov.uk/ukpga/2012/7/section/228), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/3)
 
-[^key-ec9683da60e2a8432dc412e0ceb5e411]: Textual amendment: Words in [s. 25F(3)(c)](https://www.legislation.gov.uk/ukpga/2002/17/section/25F/3/c) substituted (2.12.2019) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2017/16/schedule/4/paragraph/8); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/r)
+[^c-ec9683da60e2a8432dc412e0ceb5e411]: Textual amendment: Words in [s. 25F(3)(c)](https://www.legislation.gov.uk/ukpga/2002/17/section/25F/3/c) substituted (2.12.2019) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2017/16/schedule/4/paragraph/8); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/r)

@@ -40,7 +40,7 @@ summary: ''
   - (b) a flat,
   - (c) any yard, garden, outhouse and appurtenances belonging to a house, or usually enjoyed therewith, and
   - (d) the site of a house;
-- “house in multiple occupation” has the meaning given in[^c17550581] section 1 of the Houses in Multiple Occupation Act (Northern Ireland) 2016[^key-594658a53307376571f65a2a7e5511d4] ;
+- “house in multiple occupation” has the meaning given in[^c17550581] section 1 of the Houses in Multiple Occupation Act (Northern Ireland) 2016[^c-594658a53307376571f65a2a7e5511d4] ;
 - “housing accommodation” means houses, houses in multiple occupation and hostels;
 - “housing action area” mean an area declared to be a housing action area under Article 52;
 - “mortgage” includes a charge;
@@ -74,7 +74,7 @@ summary: ''
 
 [^c17550581]: Textual amendment: [1992 NI 15](https://www.legislation.gov.uk/nisi/1992)
 
-[^key-594658a53307376571f65a2a7e5511d4]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1981/156/article/2/2) substituted (1.4.2019) by [Houses in Multiple Occupation Act (NorthernIreland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 7 para. 3(1)](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/3/1); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-594658a53307376571f65a2a7e5511d4]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1981/156/article/2/2) substituted (1.4.2019) by [Houses in Multiple Occupation Act (NorthernIreland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 7 para. 3(1)](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/3/1); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
 [^m00004]: Marginal citation: 1973 NI 21
 

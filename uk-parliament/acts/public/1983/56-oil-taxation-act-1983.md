@@ -103,7 +103,7 @@ whichever first occurs.
 
 (3) Part I of Schedule 1 to this Act shall have effect for the purpose of allowing relief for certain expenditure which would not otherwise fall within this section or, as the case may be, section 3 of the principal Act.
 
-(4) Except as provided by subsections (6) and (7) and sections 3A and 4[^key-9fdfb4fc8cb359f02344d9def45d4a9c] below and Part II of Schedule 1 to this Act, the whole of any expenditure to which this section applies shall be allowable on a claim under Schedule 5 or Schedule 6 to the principal Act for the relevant claim period.
+(4) Except as provided by subsections (6) and (7) and sections 3A and 4[^c-9fdfb4fc8cb359f02344d9def45d4a9c] below and Part II of Schedule 1 to this Act, the whole of any expenditure to which this section applies shall be allowable on a claim under Schedule 5 or Schedule 6 to the principal Act for the relevant claim period.
 
 (5) The relevant claim period referred to in subsections (1) and (4) above is—
 
@@ -121,7 +121,7 @@ whichever first occurs.
 
 (8) In this section “**long-term asset**” means an asset the useful life of which continues after the end of the claim period in which it is first used in connection with the oil field in question.
 
-### 3A. Exclusion from section 3(4) of expenditure on assets giving rise to tax-exempt tariffing receipts[^key-aa153e677880fdf69f6e5c2da77bad9e]
+### 3A. Exclusion from section 3(4) of expenditure on assets giving rise to tax-exempt tariffing receipts[^c-aa153e677880fdf69f6e5c2da77bad9e]
 
 (1) This section applies where—
 
@@ -158,7 +158,7 @@ then, so far as relates to so much of that expenditure as it is just and reasona
 
 then, such part of the use of the asset as it is just and reasonable to apportion to the expenditure referred to in paragraph (a) above shall be treated for the purposes of section 3 above, Schedule 1 to this Act and section 3 of the principal Act as use in connection with the field from which the excluded oil, within the meaning of section 10 of that Act, is won.
 
-(6)[^key-ba0ba4515bb48effc729e6ea5c28222b] But where—
+(6)[^c-ba0ba4515bb48effc729e6ea5c28222b] But where—
 
 - (a) expenditure would (apart from this subsection) fall within paragraph (a) of subsection (5) above, and
 - (b) the asset has, at any time in the period of 6 years ending with the date on which the expenditure was incurred, been used in a way that gives rise to tax-exempt tariffing receipts,
@@ -238,7 +238,7 @@ does not include a reference to sections 3 and 4 above or Schedule 1 to this Act
 
 (1) In computing under section 2 of the principal Act the assessable profit or allowable loss accruing to a participator from an oil field in any chargeable period ending after 30th June 1982, the positive amounts for the purposes of that section (as specified in subsection (3)(a) thereof) shall be taken to include any tariff receipts of the participator attributable to that field for that period.
 
-(2) Subject to the provisions of this section and section 6A below[^key-c2cd9fcda811e61c7c3b7cf600aa2f89], for the purposes of this Act the tariff receipts of a participator in an oil field which are attributable to that field for any chargeable period are the aggregate of the amount or value of any consideration (whether in the nature of income or capital) received or receivable by him in that period (and after 30th June 1982) in respect of—
+(2) Subject to the provisions of this section and section 6A below[^c-c2cd9fcda811e61c7c3b7cf600aa2f89], for the purposes of this Act the tariff receipts of a participator in an oil field which are attributable to that field for any chargeable period are the aggregate of the amount or value of any consideration (whether in the nature of income or capital) received or receivable by him in that period (and after 30th June 1982) in respect of—
 
 - (a) the use of a qualifying asset; or
 - (b) the provision of services or other business facilities of whatever kind in connection with the use, otherwise than by the participator himself, of a qualifying asset.
@@ -248,21 +248,21 @@ does not include a reference to sections 3 and 4 above or Schedule 1 to this Act
 (4) Notwithstanding anything in subsection (2) above, any amount which—
 
 - (a) is, in relation to the person giving it, expenditure in respect of interest or any other pecuniary obligation incurred in obtaining a loan or any other form of credit, or
-- (b) is referable to the use of an asset for, or the provision of services or facilities in connection with, deballasting,or[^key-76370ffdaba5e87a887badce803a3201]
-- (c)[^key-feddd2d8b567e239706bd2c67563ccbe] is referable to other use of an asset, except use wholly or partly for an oil purpose,
+- (b) is referable to the use of an asset for, or the provision of services or facilities in connection with, deballasting,or[^c-76370ffdaba5e87a887badce803a3201]
+- (c)[^c-feddd2d8b567e239706bd2c67563ccbe] is referable to other use of an asset, except use wholly or partly for an oil purpose,
 
 does not constitute a tariff receipt for the purposes of this Act; and, accordingly, any consideration which includes such an amount shall be apportioned in such manner as is just and reasonable.
 
-(4A)[^key-41e5294487b8ddfd91cbc2885af4a6ad] In this section the reference to use of an asset for an oil purpose is a reference to—
+(4A)[^c-41e5294487b8ddfd91cbc2885af4a6ad] In this section the reference to use of an asset for an oil purpose is a reference to—
 
 - (a) use in connection with an oil field, and
-- (b) use for any other purpose (apart from a purpose falling within section 3(1)(b) of the principal Act) of a separate trade consisting of activities falling within the definition of “oil-related activities” in section 274 of the Corporation Tax Act 2010[^key-1185ad97365558ad9d1867998b57298a].
+- (b) use for any other purpose (apart from a purpose falling within section 3(1)(b) of the principal Act) of a separate trade consisting of activities falling within the definition of “oil-related activities” in section 274 of the Corporation Tax Act 2010[^c-1185ad97365558ad9d1867998b57298a].
 
 (4B) In subsection (4A) the reference to use in connection with an oil field includes use giving rise to receipts which, for the purposes of this Act, are tariff receipts.
 
 (5) Schedule 2 to this Act shall have effect for supplementing the provisions of this section and of sections 7 and 8 below.
 
-### 6A. Tax-exempt tariffing receipts[^key-fa8898fb66ecf62ae0a4246d0a2c4e5e]
+### 6A. Tax-exempt tariffing receipts[^c-fa8898fb66ecf62ae0a4246d0a2c4e5e]
 
 (1) An amount which is a tax-exempt tariffing receipt (see subsection (2) below) does not constitute a tariff receipt for the purposes of the Oil Taxation Acts.
 
@@ -282,7 +282,7 @@ and that use of the qualifying asset falls within subsection (4) below.
 (4) Use of a qualifying asset falls within this subsection if it is—
 
 - (a) use in relation to a new field (see subsection (5) below) or oil won from such a field, or
-- (b) use in relation to a qualifying existing field (see subsection (5) below) or oil won from such a field, or[^key-cbd605e9d95c47671c5a57479329928b]
+- (b) use in relation to a qualifying existing field (see subsection (5) below) or oil won from such a field, or[^c-cbd605e9d95c47671c5a57479329928b]
 - (c) use in relation to a UK recommissioned field (see subsection (5) below) or oil won from such a field.
 
 (5) In this section—
@@ -304,7 +304,7 @@ and that use of the qualifying asset falls within subsection (4) below.
   - (b) this Act; and
   - (c) any other enactment relating to petroleum revenue tax;
 - “ **qualifying existing field** ” means an existing field as respects which the condition in section 6B(1) below is satisfied;
-- “[^key-a43b0debd731365412bcc5342bacc71e]**UK recommissioned field**” means any oil field which is not a new field or qualifying existing field but as respects which the conditions in section 185(1A) of the Finance Act 1993 are satisfied (fields recommissioned after earlier decommissioning).
+- “[^c-a43b0debd731365412bcc5342bacc71e]**UK recommissioned field**” means any oil field which is not a new field or qualifying existing field but as respects which the conditions in section 185(1A) of the Finance Act 1993 are satisfied (fields recommissioned after earlier decommissioning).
 
 (6) For the purposes of this section, in the case of an oil field which, by virtue of section 107 of the Finance Act 1980 (transmedian fields), is deemed to include the sector mentioned in subsection (1)(a)(ii) of that section—
 
@@ -388,10 +388,10 @@ subsection (6) below applies in relation to use of the asset in relation to the 
 (4) No account shall be taken under subsection (2) above of any disposal of, or of an interest in, a qualifying asset which takes place more than two years after the time at which the asset—
 
 - (a) ceases to be used in connection with any oil field whatsoever, or
-- (b) ceases to give rise to tariff receipts of the participator referred to in that subsection, or[^key-15b4e3ffa48f2d9290e54e21827a3c63]
+- (b) ceases to give rise to tariff receipts of the participator referred to in that subsection, or[^c-15b4e3ffa48f2d9290e54e21827a3c63]
 - (c) ceases to give rise to tax-exempt tariffing receipts of that participator,
 
-whichever is the latest[^key-dcc21e8be8d683937a34f4b89d3eef61].
+whichever is the latest[^c-dcc21e8be8d683937a34f4b89d3eef61].
 
 (5) Notwithstanding anything in subsection (2) or subsection (3) above, any amount which, in relation to the person paying it,—
 
@@ -414,9 +414,9 @@ and in paragraph (b) above “**allowable**” means allowable under section 3 o
 
 (8) If the disposal receipts in question relate to a disposal of an interest in the asset, rather than the asset itself, then the reference in subsection (7)(a) above to certain expenditure shall be construed as a reference to such proportion only of that expenditure as it is just and reasonable to apportion to the interest disposed of.
 
-(9)[^key-0d3bf026c0cf58edfc962244648e1788] In determining the amount or value of the disposal receipts of the participator in question in a case where the qualifying asset has been used in a way that gives rise to tax-exempt tariffing receipts, the amount or value (apart from this subsection) of any disposal receipts of his in respect of the disposal shall be reduced in accordance with section 7A below.
+(9)[^c-0d3bf026c0cf58edfc962244648e1788] In determining the amount or value of the disposal receipts of the participator in question in a case where the qualifying asset has been used in a way that gives rise to tax-exempt tariffing receipts, the amount or value (apart from this subsection) of any disposal receipts of his in respect of the disposal shall be reduced in accordance with section 7A below.
 
-### 7A. Reduction of disposal receipts: use giving rise to tax-exempt tariffing receipts[^key-bd686d35d0d51b9ba137194657f43356]
+### 7A. Reduction of disposal receipts: use giving rise to tax-exempt tariffing receipts[^c-bd686d35d0d51b9ba137194657f43356]
 
 (1) Where this section applies, the amount or value (apart from this section) of any disposal receipts of the participator (“the disponor”) in respect of the disposal shall be reduced in accordance with the following provisions of this section.
 
@@ -518,18 +518,18 @@ that the participator in question would make the most use of the asset.
 - (a) if that amount exceeds the cash equivalent of his share of the tariff receipts allowance in respect of that user field for that period, to an amount equal to the excess; or
 - (b) if that amount equals the cash equivalent of his share of that allowance, to nil.
 
-(2) Subject to subsection (4)[^key-9bb801f94d98b103912edd94b9f4e025] below, for the participators in the principal field there shall be, for each chargeable period, a separate tariff receipts allowance of 250,000 metric tonnes in respect of each user field.
+(2) Subject to subsection (4)[^c-9bb801f94d98b103912edd94b9f4e025] below, for the participators in the principal field there shall be, for each chargeable period, a separate tariff receipts allowance of 250,000 metric tonnes in respect of each user field.
 
-(3)[^key-916a8dd1e37755a17f171ac268907162] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-916a8dd1e37755a17f171ac268907162] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Schedule 3 to this Act shall have effect—
 
 - (a) for determining for the purposes of this section the cash equivalent of a participator’s share of the tariff receipts allowance in respect of a user field for a chargeable period; and
-- (b) generally for supplementing subsections (1) and (2)[^key-1b4f68c3c6f0f589dc2e77b7af25dd8f] above.
+- (b) generally for supplementing subsections (1) and (2)[^c-1b4f68c3c6f0f589dc2e77b7af25dd8f] above.
 
 (5)[^c7569151] Any reference in this section or in Schedule 3 to this Act to a user field is a reference—
 
-- (a) to an oil field other than—[^key-a2fc8b65c2c00ba15676f5c2881de059]
+- (a) to an oil field other than—[^c-a2fc8b65c2c00ba15676f5c2881de059]
   - (i) the principal field, or
   - (ii) an oil field that is a non-taxable field by virtue of section 185(1) or (1A) of the Finance Act 1993.
 - (b) to an area which is not under the jurisdiction of the government of the United Kingdom but which, by an order made by statutory instrument by the Secretary of State for the purposes of this Act, is specified as a foreign field.
@@ -632,11 +632,11 @@ the participator shall prepare and before 30th June 1984 deliver to the Board a 
 
 ## Supplementary
 
-### 13. Transitional provisions.[^key-152d0211d51f320eda74cdebab771a39]
+### 13. Transitional provisions.[^c-152d0211d51f320eda74cdebab771a39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Re-opening of decisions for periods before the passing of this Act.[^key-59395d653950ade8ab9230298919f94d]
+### 14. Re-opening of decisions for periods before the passing of this Act.[^c-59395d653950ade8ab9230298919f94d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -653,7 +653,7 @@ the participator shall prepare and before 30th June 1984 deliver to the Board a 
 - “**qualifying asset**” shall be construed in accordance with section 8[^c7569331] above; and
 - “**tariff receipts**” shall be construed, subject to Schedule 5 to this Act, in accordance with section 6(2) above.
 
-(4) Section 1122 of the Corporation Tax Act 2010[^key-ffdea8c3cc0171e54fbf9aad28cc1b30] (connected persons) applies for the purposes of this Act.
+(4) Section 1122 of the Corporation Tax Act 2010[^c-ffdea8c3cc0171e54fbf9aad28cc1b30] (connected persons) applies for the purposes of this Act.
 
 (5) This Act shall be construed as one with Part I of the principal Act.
 
@@ -764,7 +764,7 @@ and subsection (6) of section 9 of this Act shall have effect for the purposes o
 - (a) the use of the asset referred to in sub-paragraph (1) above to give rise to tariff receipts shall be assumed to be use in connection with the principal field; and
 - (b) if the subsequent disposal of, or of an interest in, the asset gives or is expected to give rise to disposal receipts, the asset shall be assumed to be being used in connection with the principal field throughout the claim period in which the expenditure is incurred.
 
-(2A)[^key-32d1dfaabe8c554706cb47a005ac3d7b] But where—
+(2A)[^c-32d1dfaabe8c554706cb47a005ac3d7b] But where—
 
 - (a) the expenditure would (apart from this sub-paragraph) be regarded as incurred with a view to the subsequent disposal of the asset or of an interest in it, and
 - (b) the asset has, at any time in the period of 6 years ending with the date on which the expenditure was incurred, been used in a way that gives rise to tax-exempt tariffing receipts,
@@ -825,8 +825,8 @@ the allowable expenditure shall be treated as wholly attributable to the use of 
 - (a) the allowable expenditure is (in whole or in part) referable to the use of the new asset in connection with an oil field which is not an exempt field; and
 - (b) the allowable expenditure was incurred at a time before the new asset was first used in connection with that oil field, discounting, in the case of a mobile asset, any use in a claim period when it was not dedicated to that oil field; and
 - (c) during the period (in this paragraph referred to as “**the initial period**”) between the time when the new asset was acquired or brought into existence and that first use, the new asset was used
-  - (i)[^key-0218e0d110a25e9a4179d6199ba8edef] otherwise than in connection with a taxable field[^c7569451], or[^key-2d085b23593b8968d81abb2ea2b1bc94]
-  - (ii)[^key-15b3efe973387694aa8bbee269ad9923] in connection with a taxable field in a way that gives rise to tax-exempt tariffing receipts,
+  - (i)[^c-0218e0d110a25e9a4179d6199ba8edef] otherwise than in connection with a taxable field[^c7569451], or[^c-2d085b23593b8968d81abb2ea2b1bc94]
+  - (ii)[^c-15b3efe973387694aa8bbee269ad9923] in connection with a taxable field in a way that gives rise to tax-exempt tariffing receipts,
 
   by the purchaser or a person connected with him.
 
@@ -850,8 +850,8 @@ the amount which, apart from this sub-paragraph, would be the amount of the allo
 
 **8.** (1) Subject to sub-paragraph (3) below,—
 
-- (a) if at any time the new asset ceases to be used by the purchaser in a way which either constitutes use for a qualifying purpose[^key-f66ed353baa838109315443724c14cc7] or would constitute such use but for section 10(2) of the principal Act (exempt gas), and
-- (b) thereafter, the new asset is or is expected to be used otherwise than for a qualifying purpose[^key-443f478026ab75981cbb4dfbf83a14b8] and is not disposed of in circumstances giving rise to disposal receipts,
+- (a) if at any time the new asset ceases to be used by the purchaser in a way which either constitutes use for a qualifying purpose[^c-f66ed353baa838109315443724c14cc7] or would constitute such use but for section 10(2) of the principal Act (exempt gas), and
+- (b) thereafter, the new asset is or is expected to be used otherwise than for a qualifying purpose[^c-443f478026ab75981cbb4dfbf83a14b8] and is not disposed of in circumstances giving rise to disposal receipts,
 
 the amount which, apart from this paragraph, would be the amount of the allowable expenditure shall be taken to be reduced by multiplying it by the fraction specified in sub-paragraph (2) below.
 
@@ -860,7 +860,7 @@ the amount which, apart from this paragraph, would be the amount of the allowabl
 - (a) the numerator is a reasonable estimate of the period beginning when the purchaser first used the asset in connection with a taxable field[^c7569471] or, if it was earlier, when the asset first gave rise to tariff receipts of the purchaser and ending when the asset is or is expected to be first used as mentioned in paragraph (b) of sub-paragraph (1) above after the cessation referred to in paragraph (a) of that sub-paragraph; and
 - (b) the denominator is a reasonable estimate of the useful life of the asset or, where sub-paragraph (4) of paragraph 7 above applies, of so much of that useful life as falls after the date on which the asset was first used as mentioned in sub-paragraph (1)(a) of that paragraph.
 
-(2A)[^key-095ac3a35e3f9f47f0c9c69d23721694] In sub-paragraph (1) a reference to use for a qualifying purpose is a reference to—
+(2A)[^c-095ac3a35e3f9f47f0c9c69d23721694] In sub-paragraph (1) a reference to use for a qualifying purpose is a reference to—
 
 - (a) use in connection with a taxable field, and
 - (b) other use in—
@@ -873,14 +873,14 @@ the amount which, apart from this paragraph, would be the amount of the allowabl
 (2B) In this Act a reference to use of an asset for an ineligible oil purpose is a reference to—
 
 - (a) use in connection with an oil field that is not a taxable field, and
-- (b) use for any other purpose (apart from a purpose falling within section 3(1)(b) of the principal Act) of a separate trade consisting of activities falling within the definition of “oil-related activities” in section 274 of the Corporation Tax Act 2010[^key-e995151be43b1059466dcca07d43388e].
+- (b) use for any other purpose (apart from a purpose falling within section 3(1)(b) of the principal Act) of a separate trade consisting of activities falling within the definition of “oil-related activities” in section 274 of the Corporation Tax Act 2010[^c-e995151be43b1059466dcca07d43388e].
 
 (2C) In sub-paragraphs (2A) and (2B) a reference to use in connection with a taxable field or other oil field includes use giving rise to receipts which, for the purposes of this Act, are tariff receipts.
 
 (3) If and so long as an asset gives rise to
 
-- (a)[^key-cc97619631dc6687aae05431c6b4eb9f] tariff receipts of the purchaser attributable to a taxable field, or[^key-e37063192541e4ca20753671be58de17]
-- (b)[^key-4f1c5f32806e85e100679675105987e8] tax-exempt tariffing receipts which, if they were tariff receipts (and expenditure were or had been allowable accordingly), would be tariff receipts of the purchaser attributable to a taxable field,
+- (a)[^c-cc97619631dc6687aae05431c6b4eb9f] tariff receipts of the purchaser attributable to a taxable field, or[^c-e37063192541e4ca20753671be58de17]
+- (b)[^c-4f1c5f32806e85e100679675105987e8] tax-exempt tariffing receipts which, if they were tariff receipts (and expenditure were or had been allowable accordingly), would be tariff receipts of the purchaser attributable to a taxable field,
 
 the asset shall be treated, for the purposes of sub-paragraph (1) above, as if it were used by him in connection with a taxable field,
 
@@ -889,7 +889,7 @@ the asset shall be treated, for the purposes of sub-paragraph (1) above, as if i
 (5) In the case of an asset which has been used in connection with two or more oil fields for which any of the purchaser’s allowable expenditure is or has been allowed or allowable, the chargeable period referred to in sub-paragraph (4) above shall be determined in relation to that one of those fields—
 
 - (a) in connection with which the asset was last used by the purchaser; or
-- (b) if it is later, in respect of which the asset last gave rise to tariff receipts of the purchaser; or[^key-2f9eba435ed5653b1ec093db46b5bd43]
+- (b) if it is later, in respect of which the asset last gave rise to tariff receipts of the purchaser; or[^c-2f9eba435ed5653b1ec093db46b5bd43]
 - (c) if it is later than paragraph (a) and (where otherwise applicable) paragraph (b) above, in respect of which the asset would have last given rise to tariff receipts of the purchaser had tax-exempt tariffing receipts of the purchaser been tariff receipts of his (and if expenditure were or had been allowable accordingly);
 
 and the reference in that sub-paragraph to disposal receipts shall accordingly be construed as a reference to disposal receipts attributable to that field.
@@ -1034,14 +1034,14 @@ the amount which, apart from this paragraph, would be the amount of that receipt
 - (b) the asset is at any time used in connection with an oil field by a person (in this paragraph referred to as “**the user**”) who is connected or associated with the recipient and who is a participator in that or any other oil field; and
 - (c) the consideration is so received or receivable under or in consequence of a scheme or arrangements the main purpose or one of the main purposes of which is the avoidance of petroleum revenue tax or corporation tax.
 
-(2) Subject to sub-paragraphs (5) and (6) below, the user shall be treated for the purposes of this Act and Part I of the principal Act and[^c7569681] sections 299 to 301 of the Corporation Tax Act 2010[^key-5ec9656ebb75a9ca6086e11b24e728ff] as if—
+(2) Subject to sub-paragraphs (5) and (6) below, the user shall be treated for the purposes of this Act and Part I of the principal Act and[^c7569681] sections 299 to 301 of the Corporation Tax Act 2010[^c-5ec9656ebb75a9ca6086e11b24e728ff] as if—
 
 - (a) any consideration arising from the use of the asset and received or receivable at any time by the recipient or a person connected or associated with him, other than consideration received or receivable from the user himself, had been received or receivable at that time by the user; and
 - (b) such proportion of any expenditure incurred by the recipient at any time in connection with the asset as it is just and reasonable to apportion to the use which gives rise to the consideration had been incurred at that time by the user for the purpose for which it was in fact incurred by the recipient.
 
 (3) For the purposes of this paragraph, a participator in an oil field is associated with another person if the participator, by acting together with a person who is, or two or more persons each of whom is, a participator in that oil field or in any other relevant field, would be able to secure or exercise control of that other person, and for this purpose—
 
-- (a) “**control**” shall be construed in accordance with sections 450 and 451 of the Corporation Tax Act 2010[^key-838cecb92e4e23b32c258b76b3532caa]; and
+- (a) “**control**” shall be construed in accordance with sections 450 and 451 of the Corporation Tax Act 2010[^c-838cecb92e4e23b32c258b76b3532caa]; and
 - (b) “**relevant field**” means an oil field in connection with which the asset referred to in sub-paragraph (1)(a) above has been, is, or is expected to be, used.
 
 (4) For the purposes of sub-paragraph (3) above—
@@ -1057,13 +1057,13 @@ and, in relation to a relevant field which is a foreign field, the reference in 
 
 ### Purchase at place of extraction
 
-**12.** (1) Subject to sub-paragraphs (4) to (6)[^key-77f157ba685b6dbfcc48c907e0287aee] below, in any case where—
+**12.** (1) Subject to sub-paragraphs (4) to (6)[^c-77f157ba685b6dbfcc48c907e0287aee] below, in any case where—
 
 - (a) a participator in an oil field or any person connected with him purchases any oil, otherwise than in pursuance of such an agreement as is mentioned in paragraph 6A of Schedule 3 to the principal Act (transactions between participators), and takes delivery of that oil at the place of extraction, and
 - (b) any of that oil is transported, initially treated or initially stored (or subjected to any two or more of those operations) by means of any asset which is a qualifying asset in relation to that field, and
 - (c) when the oil is disposed of or relevantly appropriated by the participator or the person connected with him, the selling price of the oil exceeds the price paid for it on the purchase referred to in paragraph (a) above,
 
-the participator shall be treated for the purposes of this Act and Part I of the principal Act and[^c7569731] sections 299 to 301 of the Corporation Tax Act 2010[^key-e96117a8d37719c666347605f21bb3a4] as having received an amount equal to that excess as tariff receipts which arise in the chargeable period in which the selling price falls to be determined and are attributable to the use of the asset for carrying out the operation or operations referred to in paragraph (b) above.
+the participator shall be treated for the purposes of this Act and Part I of the principal Act and[^c7569731] sections 299 to 301 of the Corporation Tax Act 2010[^c-e96117a8d37719c666347605f21bb3a4] as having received an amount equal to that excess as tariff receipts which arise in the chargeable period in which the selling price falls to be determined and are attributable to the use of the asset for carrying out the operation or operations referred to in paragraph (b) above.
 
 (2) In this paragraph “**selling price**”, in relation to any oil, means the aggregate of the amounts determined in relation to that oil in accordance with paragraphs (a) to (cb)[^c7569741] of subsection (5) of section 2 of the principal Act; and for the purpose of the application of those paragraphs and of determining whether any oil falling within sub-paragraph (1) above is relevantly appropriated,—
 
@@ -1084,7 +1084,7 @@ shall be treated for the purposes of sub-paragraph (1)(a) above as having taken 
 
 (5) Sub-paragraph (1) above does not apply to oil if, by virtue of 2(5)(b) or (ca) of the principle oil Act (oil disposed of otherwise than in sales at arm’s length),[^c7569761] the market value of the oil is taken into account in calculating the gross profit and loss (if any) accruing to a participator from an oil field in any chargeable period.
 
-(6)[^key-38f3a92569d8be199a3456163b8aa875] In any chargeable period ending on or after 30th June 2004, sub-paragraph (1) above does not apply to oil in a case where—
+(6)[^c-38f3a92569d8be199a3456163b8aa875] In any chargeable period ending on or after 30th June 2004, sub-paragraph (1) above does not apply to oil in a case where—
 
 - (a) had the operation or operations to which the oil was subjected as mentioned in paragraph (b) of that sub-paragraph been carried out under a contract entered into on or after 9th April 2003, and
 - (b) had an amount been received or receivable under the contract in that chargeable period by the participator,
@@ -1118,7 +1118,7 @@ where—
 
 (2) If, apart from this sub-paragraph, the fraction B/C in the formula in sub-paragraph (1) above would exceed unity, it shall be treated as unity for the purposes of this Schedule.
 
-**3.**[^key-a6ad1485205e48c715e7e8f058ef90ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a6ad1485205e48c715e7e8f058ef90ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Qualifying tariff receipts referable to different periods
 
@@ -1365,51 +1365,51 @@ and with the omission of sub-paragraphs (4) to (7).
 
 (2) Paragraphs (a) and (b) of sub-paragraph (1) above apply in relation to paragraph 11(3) of Schedule 2 to this Act in so far as that paragraph has effect for the purposes of section 11 of this Act by virtue of subsection (4) thereof.
 
-## SCHEDULE 5 — Transitional Provisions[^key-54ecefa38a5e16ba86e6216f5d11ec2b]
+## SCHEDULE 5 — Transitional Provisions[^c-54ecefa38a5e16ba86e6216f5d11ec2b]
 
 Section 13.
 
-### Interpretation[^key-54ecefa38a5e16ba86e6216f5d11ec2b]
+### Interpretation[^c-54ecefa38a5e16ba86e6216f5d11ec2b]
 
 **No longer in force.**
 
-**1.**[^key-54ecefa38a5e16ba86e6216f5d11ec2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-54ecefa38a5e16ba86e6216f5d11ec2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Review for transitional claim period[^key-54ecefa38a5e16ba86e6216f5d11ec2b]
-
-**No longer in force.**
-
-**2.**[^key-54ecefa38a5e16ba86e6216f5d11ec2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### No further reviews after the transitional claim period[^key-54ecefa38a5e16ba86e6216f5d11ec2b]
+### Review for transitional claim period[^c-54ecefa38a5e16ba86e6216f5d11ec2b]
 
 **No longer in force.**
 
-**3.**[^key-54ecefa38a5e16ba86e6216f5d11ec2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-54ecefa38a5e16ba86e6216f5d11ec2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Assets giving rise to tariff receipts[^key-54ecefa38a5e16ba86e6216f5d11ec2b]
-
-**No longer in force.**
-
-**4.**[^key-54ecefa38a5e16ba86e6216f5d11ec2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Re-opening past claim periods and chargeable periods[^key-54ecefa38a5e16ba86e6216f5d11ec2b]
+### No further reviews after the transitional claim period[^c-54ecefa38a5e16ba86e6216f5d11ec2b]
 
 **No longer in force.**
 
-**5.**[^key-54ecefa38a5e16ba86e6216f5d11ec2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-54ecefa38a5e16ba86e6216f5d11ec2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Expenditure on associated assets[^key-54ecefa38a5e16ba86e6216f5d11ec2b]
-
-**No longer in force.**
-
-**6.**[^key-54ecefa38a5e16ba86e6216f5d11ec2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Other claims for past expenditure[^key-54ecefa38a5e16ba86e6216f5d11ec2b]
+### Assets giving rise to tariff receipts[^c-54ecefa38a5e16ba86e6216f5d11ec2b]
 
 **No longer in force.**
 
-**7.**[^key-54ecefa38a5e16ba86e6216f5d11ec2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-54ecefa38a5e16ba86e6216f5d11ec2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Re-opening past claim periods and chargeable periods[^c-54ecefa38a5e16ba86e6216f5d11ec2b]
+
+**No longer in force.**
+
+**5.**[^c-54ecefa38a5e16ba86e6216f5d11ec2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Expenditure on associated assets[^c-54ecefa38a5e16ba86e6216f5d11ec2b]
+
+**No longer in force.**
+
+**6.**[^c-54ecefa38a5e16ba86e6216f5d11ec2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Other claims for past expenditure[^c-54ecefa38a5e16ba86e6216f5d11ec2b]
+
+**No longer in force.**
+
+**7.**[^c-54ecefa38a5e16ba86e6216f5d11ec2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 6 — Repeals
 
@@ -1440,43 +1440,43 @@ Section 15(6).
 
     S. 3 restricted (27.7.1999 with effect as mentioned in [s. 95(9)(10)](https://www.legislation.gov.uk/ukpga/1999/16/section/95/9/10) of the amending Act) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s.95(2)](https://www.legislation.gov.uk/ukpga/1999/16/section/95/2)
 
-[^key-9fdfb4fc8cb359f02344d9def45d4a9c]: Textual amendment: Words in [s. 3(4)](https://www.legislation.gov.uk/ukpga/1983/56/section/3/4) substituted (with effect in accordance with s. 285(6)(b) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 2(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/2/2) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
+[^c-9fdfb4fc8cb359f02344d9def45d4a9c]: Textual amendment: Words in [s. 3(4)](https://www.legislation.gov.uk/ukpga/1983/56/section/3/4) substituted (with effect in accordance with s. 285(6)(b) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 2(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/2/2) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
 
 [^c7568961]: Marginal citation: [1980 c. 48](https://www.legislation.gov.uk/ukpga/1980/48).
 
-[^key-aa153e677880fdf69f6e5c2da77bad9e]: Textual amendment: [S. 3A](https://www.legislation.gov.uk/ukpga/1983/56/section/3A) inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/3) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
+[^c-aa153e677880fdf69f6e5c2da77bad9e]: Textual amendment: [S. 3A](https://www.legislation.gov.uk/ukpga/1983/56/section/3A) inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/3) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
 
 [^c7568971]: Modification: S. 4 modified by [1975 c. 22](https://www.legislation.gov.uk/ukpga/1975/22), [Sch. 4 para. 2(1)(b)](https://www.legislation.gov.uk/ukpga/1975/22/schedule/4/paragraph/2/1/b) (as inserted (with effect where the transaction to which [1975 c. 22](https://www.legislation.gov.uk/ukpga/1975/22), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/1975/22/schedule/4/paragraph/2) applies takes place on or after 16.3.1993) by [1993 c. 34](https://www.legislation.gov.uk/ukpga/1993/34), [ss. 191(4)(6)](https://www.legislation.gov.uk/ukpga/1993/34/section/191/4/6))
 
-[^key-ba0ba4515bb48effc729e6ea5c28222b]: Textual amendment: [S. 4(6)](https://www.legislation.gov.uk/ukpga/1983/56/section/4/6)[(7)](https://www.legislation.gov.uk/ukpga/1983/56/section/4/7) inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 4(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/4/2) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
+[^c-ba0ba4515bb48effc729e6ea5c28222b]: Textual amendment: [S. 4(6)](https://www.legislation.gov.uk/ukpga/1983/56/section/4/6)[(7)](https://www.legislation.gov.uk/ukpga/1983/56/section/4/7) inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 4(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/4/2) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
 
-[^key-c2cd9fcda811e61c7c3b7cf600aa2f89]: Textual amendment: Words in s. 6(2) inserted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 285(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/285/2)
+[^c-c2cd9fcda811e61c7c3b7cf600aa2f89]: Textual amendment: Words in s. 6(2) inserted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 285(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/285/2)
 
-[^key-76370ffdaba5e87a887badce803a3201]: Textual amendment: Word in s. 6(4)(b) inserted (with effect in accordance with Sch. 41 para. 4 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 41 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/41/paragraph/2/2/a)
+[^c-76370ffdaba5e87a887badce803a3201]: Textual amendment: Word in s. 6(4)(b) inserted (with effect in accordance with Sch. 41 para. 4 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 41 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/41/paragraph/2/2/a)
 
-[^key-feddd2d8b567e239706bd2c67563ccbe]: Textual amendment: S. 6(4)(c) inserted (with effect in accordance with Sch. 41 para. 4 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 41 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/41/paragraph/2/2/b)
+[^c-feddd2d8b567e239706bd2c67563ccbe]: Textual amendment: S. 6(4)(c) inserted (with effect in accordance with Sch. 41 para. 4 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 41 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/41/paragraph/2/2/b)
 
-[^key-41e5294487b8ddfd91cbc2885af4a6ad]: Textual amendment: S. 6(4A)(4B) inserted (with effect in accordance with Sch. 41 para. 4 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 41 para. 2(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/41/paragraph/2/3)
+[^c-41e5294487b8ddfd91cbc2885af4a6ad]: Textual amendment: S. 6(4A)(4B) inserted (with effect in accordance with Sch. 41 para. 4 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 41 para. 2(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/41/paragraph/2/3)
 
-[^key-1185ad97365558ad9d1867998b57298a]: Textual amendment: Words in s. 6(4A)(b) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 181](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/181) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-1185ad97365558ad9d1867998b57298a]: Textual amendment: Words in s. 6(4A)(b) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 181](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/181) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-fa8898fb66ecf62ae0a4246d0a2c4e5e]: Textual amendment: Ss. 6A, 6B inserted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 285(3)](https://www.legislation.gov.uk/ukpga/2004/12/section/285/3)
+[^c-fa8898fb66ecf62ae0a4246d0a2c4e5e]: Textual amendment: Ss. 6A, 6B inserted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 285(3)](https://www.legislation.gov.uk/ukpga/2004/12/section/285/3)
 
-[^key-cbd605e9d95c47671c5a57479329928b]: Textual amendment: S. 6A(4)(c) and preceding word inserted (1.7.2007 retrospective) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 103(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/103/2)[(4)](https://www.legislation.gov.uk/ukpga/2007/11/section/103/4)
+[^c-cbd605e9d95c47671c5a57479329928b]: Textual amendment: S. 6A(4)(c) and preceding word inserted (1.7.2007 retrospective) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 103(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/103/2)[(4)](https://www.legislation.gov.uk/ukpga/2007/11/section/103/4)
 
-[^key-a43b0debd731365412bcc5342bacc71e]: Textual amendment: Words in s. 6A(5) inserted (1.7.2007 retrospective) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2007/11/section/103/3)[(4)](https://www.legislation.gov.uk/ukpga/2007/11/section/103/4)
+[^c-a43b0debd731365412bcc5342bacc71e]: Textual amendment: Words in s. 6A(5) inserted (1.7.2007 retrospective) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2007/11/section/103/3)[(4)](https://www.legislation.gov.uk/ukpga/2007/11/section/103/4)
 
 [^c7568981]: Marginal citation: [1980 c. 48](https://www.legislation.gov.uk/ukpga/1980/48).
 
-[^key-15b4e3ffa48f2d9290e54e21827a3c63]: Textual amendment: [S. 7(4)(c)](https://www.legislation.gov.uk/ukpga/1983/56/section/7/4/c) and word inserted (with effect in accordance with s. 285(6)(a) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/5/2/a) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
+[^c-15b4e3ffa48f2d9290e54e21827a3c63]: Textual amendment: [S. 7(4)(c)](https://www.legislation.gov.uk/ukpga/1983/56/section/7/4/c) and word inserted (with effect in accordance with s. 285(6)(a) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/5/2/a) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
 
-[^key-dcc21e8be8d683937a34f4b89d3eef61]: Textual amendment: Word in [s. 7(4)](https://www.legislation.gov.uk/ukpga/1983/56/section/7/4) substituted (with effect in accordance with s. 285(6)(a) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/5/2/b) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
+[^c-dcc21e8be8d683937a34f4b89d3eef61]: Textual amendment: Word in [s. 7(4)](https://www.legislation.gov.uk/ukpga/1983/56/section/7/4) substituted (with effect in accordance with s. 285(6)(a) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/5/2/b) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
 
 [^c7568991]: Marginal citation: [1981 c. 35](https://www.legislation.gov.uk/ukpga/1981/35).
 
-[^key-0d3bf026c0cf58edfc962244648e1788]: Textual amendment: [S. 7(9)](https://www.legislation.gov.uk/ukpga/1983/56/section/7/9) inserted (with effect in accordance with s. 285(6)(a) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 5(3)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/5/3) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
+[^c-0d3bf026c0cf58edfc962244648e1788]: Textual amendment: [S. 7(9)](https://www.legislation.gov.uk/ukpga/1983/56/section/7/9) inserted (with effect in accordance with s. 285(6)(a) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 5(3)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/5/3) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
 
-[^key-bd686d35d0d51b9ba137194657f43356]: Textual amendment: S. 7A inserted (with effect in accordance with s. 285(6)(a) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 5(4)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/5/4) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
+[^c-bd686d35d0d51b9ba137194657f43356]: Textual amendment: S. 7A inserted (with effect in accordance with s. 285(6)(a) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 5(4)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/5/4) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
 
 [^c7569001]: Modification: S. 8 deemed always to have had effect in form amended by Finance Act 1986, by said Act (c. 41), s. 110(1)
 
@@ -1490,15 +1490,15 @@ Section 15(6).
 
 [^c7569141]: Subordinate legislation: S.9: for previous exercises of this power see Index to Government Orders
 
-[^key-9bb801f94d98b103912edd94b9f4e025]: Textual amendment: Words in [s. 9(2)](https://www.legislation.gov.uk/ukpga/1983/56/section/9/2) substituted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 2(3)(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/2/3/a)
+[^c-9bb801f94d98b103912edd94b9f4e025]: Textual amendment: Words in [s. 9(2)](https://www.legislation.gov.uk/ukpga/1983/56/section/9/2) substituted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 2(3)(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/2/3/a)
 
-[^key-916a8dd1e37755a17f171ac268907162]: Textual amendment: [S. 9(3)](https://www.legislation.gov.uk/ukpga/1983/56/section/9/3) omitted (21.7.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 2(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/2/2)
+[^c-916a8dd1e37755a17f171ac268907162]: Textual amendment: [S. 9(3)](https://www.legislation.gov.uk/ukpga/1983/56/section/9/3) omitted (21.7.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 2(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/2/2)
 
-[^key-1b4f68c3c6f0f589dc2e77b7af25dd8f]: Textual amendment: Words in [s. 9(4)(b)](https://www.legislation.gov.uk/ukpga/1983/56/section/9/4/b) substituted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 2(3)(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/2/3/b)
+[^c-1b4f68c3c6f0f589dc2e77b7af25dd8f]: Textual amendment: Words in [s. 9(4)(b)](https://www.legislation.gov.uk/ukpga/1983/56/section/9/4/b) substituted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 2(3)(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/2/3/b)
 
 [^c7569151]: Subordinate legislation: S. 9(5): s. 9(5) (with s. 12(2)) power exercised by [S.I. 1991/1982](https://www.legislation.gov.uk/uksi/1991/1982), [S.I](https://www.legislation.gov.uk/uksi/1991/1982/section/I). 1991/1983 and [S.I. 1991/1984](https://www.legislation.gov.uk/uksi/1991/1984)
 
-[^key-a2fc8b65c2c00ba15676f5c2881de059]: Textual amendment: Words in s. 9(5)(a) substituted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 33 para. 4](https://www.legislation.gov.uk/ukpga/2008/9/schedule/33/paragraph/4)
+[^c-a2fc8b65c2c00ba15676f5c2881de059]: Textual amendment: Words in s. 9(5)(a) substituted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 33 para. 4](https://www.legislation.gov.uk/ukpga/2008/9/schedule/33/paragraph/4)
 
 [^c7569171]: Textual amendment: S. 9(5A) inserted (27.7.1993) by [1993 c. 34](https://www.legislation.gov.uk/ukpga/1993/34), [s. 193(1)](https://www.legislation.gov.uk/ukpga/1993/34/section/193/1)
 
@@ -1522,15 +1522,15 @@ Section 15(6).
 
 [^c7569311]: Textual amendment: S. 12(3A) inserted (27.7.1993) by [1993 c. 34](https://www.legislation.gov.uk/ukpga/1993/34), [s. 193(5)](https://www.legislation.gov.uk/ukpga/1993/34/section/193/5)
 
-[^key-152d0211d51f320eda74cdebab771a39]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/1983/56/section/13) omitted (21.7.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 2(4)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/2/4)
+[^c-152d0211d51f320eda74cdebab771a39]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/1983/56/section/13) omitted (21.7.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 2(4)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/2/4)
 
-[^key-59395d653950ade8ab9230298919f94d]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/1983/56/section/14) omitted (21.7.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 2(4)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/2/4)
+[^c-59395d653950ade8ab9230298919f94d]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/1983/56/section/14) omitted (21.7.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 2(4)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/2/4)
 
 [^c7569321]: Marginal citation: [1975 c. 22](https://www.legislation.gov.uk/ukpga/1975/22).
 
 [^c7569331]: Textual amendment: Words substituted by [Finance Act 1985 (c. 54)](https://www.legislation.gov.uk/ukpga/1985/54), [s. 92(3)](https://www.legislation.gov.uk/ukpga/1985/54/section/92/3)
 
-[^key-ffdea8c3cc0171e54fbf9aad28cc1b30]: Textual amendment: Words in [s. 15(4)](https://www.legislation.gov.uk/ukpga/1983/56/section/15/4) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 182](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/182) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-ffdea8c3cc0171e54fbf9aad28cc1b30]: Textual amendment: Words in [s. 15(4)](https://www.legislation.gov.uk/ukpga/1983/56/section/15/4) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 182](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/182) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c7569351]: Modification: [Sch. 1](https://www.legislation.gov.uk/ukpga/1983/56/schedule/1) modified by [1975 c. 22](https://www.legislation.gov.uk/ukpga/1975/22), [Sch. 4 para. 2(1)(b)](https://www.legislation.gov.uk/ukpga/1975/22/schedule/4/paragraph/2/1/b) (as inserted (with effect where the transaction to which [1975 c. 22](https://www.legislation.gov.uk/ukpga/1975/22), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/1975/22/schedule/4/paragraph/2) applies takes place on or after 16.3.1993) by [1993 c. 34](https://www.legislation.gov.uk/ukpga/1993/34), [s. 191(4)(6)](https://www.legislation.gov.uk/ukpga/1993/34/section/191/4/6))
 
@@ -1544,39 +1544,39 @@ Section 15(6).
 
 [^c7569421]: Textual amendment: Words inserted by [Finance Act 1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39), [s. 139(1)](https://www.legislation.gov.uk/ukpga/1988/39/section/139/1)(*b*)
 
-[^key-32d1dfaabe8c554706cb47a005ac3d7b]: Textual amendment: [Sch. 1 para. 3(2A)](https://www.legislation.gov.uk/ukpga/1983/56/schedule/1/paragraph/3/2A)[(2B)](https://www.legislation.gov.uk/ukpga/1983/56/schedule/1/paragraph/3/2B) inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 6(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/6/2) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
+[^c-32d1dfaabe8c554706cb47a005ac3d7b]: Textual amendment: [Sch. 1 para. 3(2A)](https://www.legislation.gov.uk/ukpga/1983/56/schedule/1/paragraph/3/2A)[(2B)](https://www.legislation.gov.uk/ukpga/1983/56/schedule/1/paragraph/3/2B) inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 6(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/6/2) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
 
 [^c7569431]: Modification: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/1983/56/schedule/1/paragraph/6) deemed always to have had effect as amended by [Finance Act 1986 (c. 41)](https://www.legislation.gov.uk/ukpga/1986/41), [s. 110(4)](https://www.legislation.gov.uk/ukpga/1986/41/section/110/4)
 
 [^c7569441]: Textual amendment: [Sch. 1 para. 6(3)](https://www.legislation.gov.uk/ukpga/1983/56/schedule/1/paragraph/6/3) added by [Finance Act 1986 (c. 41)](https://www.legislation.gov.uk/ukpga/1986/41), [s. 110(4)](https://www.legislation.gov.uk/ukpga/1986/41/section/110/4)
 
-[^key-0218e0d110a25e9a4179d6199ba8edef]: Textual amendment: Word in Sch. 1 para. 7(1)(c) inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/7/2/a) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
+[^c-0218e0d110a25e9a4179d6199ba8edef]: Textual amendment: Word in Sch. 1 para. 7(1)(c) inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/7/2/a) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
 
 [^c7569451]: Textual amendment: Words in Sch. 1 para. 7(1)(c) substitiuted (27.7.1993) by [1993 c. 34](https://www.legislation.gov.uk/ukpga/1993/34), [s. 190(3)](https://www.legislation.gov.uk/ukpga/1993/34/section/190/3)
 
-[^key-2d085b23593b8968d81abb2ea2b1bc94]: Textual amendment: Word in Sch. 1 para. 7(1)(c) inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/7/2/b) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
+[^c-2d085b23593b8968d81abb2ea2b1bc94]: Textual amendment: Word in Sch. 1 para. 7(1)(c) inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/7/2/b) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
 
-[^key-15b3efe973387694aa8bbee269ad9923]: Textual amendment: Sch. 1 para. 7(1)(c)(ii) inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 7(2)(c)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/7/2/c) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
+[^c-15b3efe973387694aa8bbee269ad9923]: Textual amendment: Sch. 1 para. 7(1)(c)(ii) inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 7(2)(c)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/7/2/c) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
 
 [^c7569461]: Textual amendment: Words in [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/1983/56/schedule/1/paragraph/8) heading substituted (27.7.1993) by [1993 c. 34](https://www.legislation.gov.uk/ukpga/1993/34), [s. 190(4)](https://www.legislation.gov.uk/ukpga/1993/34/section/190/4)
 
-[^key-f66ed353baa838109315443724c14cc7]: Textual amendment: Words in Sch. 1 para. 8(1)(a) substituted (with effect in accordance with Sch. 41 para. 4 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 41 para. 3(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/41/paragraph/3/2)
+[^c-f66ed353baa838109315443724c14cc7]: Textual amendment: Words in Sch. 1 para. 8(1)(a) substituted (with effect in accordance with Sch. 41 para. 4 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 41 para. 3(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/41/paragraph/3/2)
 
-[^key-443f478026ab75981cbb4dfbf83a14b8]: Textual amendment: Words in Sch. 1 para. 8(1)(b) substituted (with effect in accordance with Sch. 41 para. 4 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 41 para. 3(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/41/paragraph/3/2)
+[^c-443f478026ab75981cbb4dfbf83a14b8]: Textual amendment: Words in Sch. 1 para. 8(1)(b) substituted (with effect in accordance with Sch. 41 para. 4 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 41 para. 3(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/41/paragraph/3/2)
 
 [^c7569471]: Textual amendment: Words in Sch. 1 para. 8(1)-(3)(6) substituted (27.7.1993) by [1993 c. 34](https://www.legislation.gov.uk/ukpga/1993/34), [s. 190(4)](https://www.legislation.gov.uk/ukpga/1993/34/section/190/4)
 
-[^key-095ac3a35e3f9f47f0c9c69d23721694]: Textual amendment: Sch. 1 para. 8(2A)-(2C) inserted (with effect in accordance with Sch. 41 para. 4 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 41 para. 3(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/41/paragraph/3/3)
+[^c-095ac3a35e3f9f47f0c9c69d23721694]: Textual amendment: Sch. 1 para. 8(2A)-(2C) inserted (with effect in accordance with Sch. 41 para. 4 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 41 para. 3(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/41/paragraph/3/3)
 
-[^key-e995151be43b1059466dcca07d43388e]: Textual amendment: Words in Sch. 1 para. 8(2B)(b) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 183](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/183) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-e995151be43b1059466dcca07d43388e]: Textual amendment: Words in Sch. 1 para. 8(2B)(b) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 183](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/183) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-cc97619631dc6687aae05431c6b4eb9f]: Textual amendment: Word in Sch. 1 para. 8(3) inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 8(2)(a)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/8/2/a) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
+[^c-cc97619631dc6687aae05431c6b4eb9f]: Textual amendment: Word in Sch. 1 para. 8(3) inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 8(2)(a)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/8/2/a) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
 
-[^key-e37063192541e4ca20753671be58de17]: Textual amendment: Word in Sch. 1 para. 8(3) inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 8(2)(b)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/8/2/b) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
+[^c-e37063192541e4ca20753671be58de17]: Textual amendment: Word in Sch. 1 para. 8(3) inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 8(2)(b)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/8/2/b) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
 
-[^key-4f1c5f32806e85e100679675105987e8]: Textual amendment: Sch. 1 para. 8(3)(b) inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 8(2)(c)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/8/2/c) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
+[^c-4f1c5f32806e85e100679675105987e8]: Textual amendment: Sch. 1 para. 8(3)(b) inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 8(2)(c)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/8/2/c) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
 
-[^key-2f9eba435ed5653b1ec093db46b5bd43]: Textual amendment: Sch. 1 para. 8(5)(c) and word inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 8(3)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/8/3) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
+[^c-2f9eba435ed5653b1ec093db46b5bd43]: Textual amendment: Sch. 1 para. 8(5)(c) and word inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 8(3)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/8/3) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
 
 [^c7569531]: Textual amendment: [Sch. 2 para. 4(2A)](https://www.legislation.gov.uk/ukpga/1983/56/schedule/2/paragraph/4/2A) inserted by [Finance Act 1985 (c. 54)](https://www.legislation.gov.uk/ukpga/1985/54), [s. 92(4)](https://www.legislation.gov.uk/ukpga/1985/54/section/92/4)
 
@@ -1596,15 +1596,15 @@ Section 15(6).
 
 [^c7569681]: Textual amendment: Words substituted by [Income and Corporation Taxes Act 1988 (c. 1)](https://www.legislation.gov.uk/ukpga/1988/1), [Sch. 29 para. 32](https://www.legislation.gov.uk/ukpga/1988/1/schedule/29/paragraph/32)
 
-[^key-5ec9656ebb75a9ca6086e11b24e728ff]: Textual amendment: Words in [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/ukpga/1983/56/schedule/2/paragraph/11/2) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 184(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/184/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-5ec9656ebb75a9ca6086e11b24e728ff]: Textual amendment: Words in [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/ukpga/1983/56/schedule/2/paragraph/11/2) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 184(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/184/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-838cecb92e4e23b32c258b76b3532caa]: Textual amendment: Words in [Sch. 2 para. 11(3)(a)](https://www.legislation.gov.uk/ukpga/1983/56/schedule/2/paragraph/11/3/a) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 184(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/184/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-838cecb92e4e23b32c258b76b3532caa]: Textual amendment: Words in [Sch. 2 para. 11(3)(a)](https://www.legislation.gov.uk/ukpga/1983/56/schedule/2/paragraph/11/3/a) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 184(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/184/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-77f157ba685b6dbfcc48c907e0287aee]: Textual amendment: Words in Sch. 2 para. 12(1) substituted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 285(4)(a)](https://www.legislation.gov.uk/ukpga/2004/12/section/285/4/a)
+[^c-77f157ba685b6dbfcc48c907e0287aee]: Textual amendment: Words in Sch. 2 para. 12(1) substituted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 285(4)(a)](https://www.legislation.gov.uk/ukpga/2004/12/section/285/4/a)
 
 [^c7569731]: Textual amendment: Words substituted by [Income and Corporation Taxes Act 1988 (c. 1)](https://www.legislation.gov.uk/ukpga/1988/1), [Sch. 29 para. 32](https://www.legislation.gov.uk/ukpga/1988/1/schedule/29/paragraph/32)
 
-[^key-e96117a8d37719c666347605f21bb3a4]: Textual amendment: Words in [Sch. 2 para. 12(1)](https://www.legislation.gov.uk/ukpga/1983/56/schedule/2/paragraph/12/1) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 184(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/184/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-e96117a8d37719c666347605f21bb3a4]: Textual amendment: Words in [Sch. 2 para. 12(1)](https://www.legislation.gov.uk/ukpga/1983/56/schedule/2/paragraph/12/1) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 184(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/184/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c7569741]: Textual amendment: Words in Sch. 2 para. 12(2) substituted (31.7.1998 with effect in accordance with [s. 152](https://www.legislation.gov.uk/ukpga/1998/36/section/152) of the amending Act) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 152(2)(a)](https://www.legislation.gov.uk/ukpga/1998/36/section/152/2/a)
 
@@ -1612,9 +1612,9 @@ Section 15(6).
 
 [^c7569761]: Textual amendment: Words in Sch. 2 para. 12(5) substituted (31.7.1998 with effect in accordance with [s. 152](https://www.legislation.gov.uk/ukpga/1998/36/section/152) of the amending Act) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 152(2)(b)](https://www.legislation.gov.uk/ukpga/1998/36/section/152/2/b)
 
-[^key-38f3a92569d8be199a3456163b8aa875]: Textual amendment: Sch. 2 para. 12(6) added (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 285(4)(b)](https://www.legislation.gov.uk/ukpga/2004/12/section/285/4/b)
+[^c-38f3a92569d8be199a3456163b8aa875]: Textual amendment: Sch. 2 para. 12(6) added (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 285(4)(b)](https://www.legislation.gov.uk/ukpga/2004/12/section/285/4/b)
 
-[^key-a6ad1485205e48c715e7e8f058ef90ea]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/1983/56/schedule/3/paragraph/3) omitted (21.7.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 2(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/2/2)
+[^c-a6ad1485205e48c715e7e8f058ef90ea]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/1983/56/schedule/3/paragraph/3) omitted (21.7.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 2(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/2/2)
 
 [^c7569771]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 
@@ -1626,4 +1626,4 @@ Section 15(6).
 
 [^c7569821]: Marginal citation: [1980 c. 1](https://www.legislation.gov.uk/ukpga/1980/1).
 
-[^key-54ecefa38a5e16ba86e6216f5d11ec2b]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/ukpga/1983/56/schedule/5) omitted (21.7.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 2(4)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/2/4)
+[^c-54ecefa38a5e16ba86e6216f5d11ec2b]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/ukpga/1983/56/schedule/5) omitted (21.7.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 2(4)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/2/4)

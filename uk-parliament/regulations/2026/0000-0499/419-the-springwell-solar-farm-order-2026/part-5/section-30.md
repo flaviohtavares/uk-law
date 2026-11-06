@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Temporary use of land for constructing the authorised development[^key-24adf16b1179feb67d12089412911214]
+## 30. Temporary use of land for constructing the authorised development[^c-24adf16b1179feb67d12089412911214]
 
 *Extent: E+W*
 
@@ -74,7 +74,7 @@ summary: ''
 
 ## Annotations
 
-[^key-24adf16b1179feb67d12089412911214]: Commencement: Art. 30 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-24adf16b1179feb67d12089412911214]: Commencement: Art. 30 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
 [^f00042]: Footnote: Section 11 was amended by section 34(1) of, and paragraph 14(3) of Schedule 4 to, the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), section 3 of, and Part 1 of Schedule 1 to, the Housing (Consequential Provisions) Act [1985 (c. 71)](https://www.legislation.gov.uk/ukpga/1985/71), section 14 of, and paragraph 12(1) of Schedule 5 to, the Church of England (Miscellaneous Provisions) Measure [2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), sections 186, 187 and 188 of, and paragraph 6 of Schedule 14 and paragraph 3 of Schedule 16 to, the Housing and Planning Act 2016 and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

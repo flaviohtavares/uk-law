@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4[^key-0560bac9402d5e1938fa879804adc9f4]
+## SCHEDULE 4[^c-0560bac9402d5e1938fa879804adc9f4]
 
 *Extent: E+W*
 
@@ -363,7 +363,7 @@ Rule 30
 
 ## Annotations
 
-[^key-0560bac9402d5e1938fa879804adc9f4]: Commencement: Sch. 4 in force at 1.10.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/2317/rule/1)
+[^c-0560bac9402d5e1938fa879804adc9f4]: Commencement: Sch. 4 in force at 1.10.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/2317/rule/1)
 
 [^f00030]: Footnote: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19).
 

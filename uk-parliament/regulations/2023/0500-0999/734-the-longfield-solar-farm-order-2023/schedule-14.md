@@ -22,13 +22,13 @@ summary: ''
 
 Article 39
 
-### 1. Commencing an arbitration[^key-ab117fa494b240baec72e39b0ba115b0]
+### 1. Commencing an arbitration[^c-ab117fa494b240baec72e39b0ba115b0]
 
 (1) The primary objective of these arbitration rules is to achieve a fair, impartial, final and binding award on the substantive difference between the parties (save as to costs) within 4 months from the date the arbitrator is appointed pursuant to article 39 of this Order.
 
 (2) The arbitration is deemed to have commenced when a party (“**the claimant**”) serves a written notice of arbitration on the other party (“**the respondent**”).
 
-### 2. Time periods[^key-125727a3c7ddd8744e1509bc6c75f7fe]
+### 2. Time periods[^c-125727a3c7ddd8744e1509bc6c75f7fe]
 
 (1) All time periods in these arbitration rules are measured in days and include weekends, but not bank or public holidays.
 
@@ -37,7 +37,7 @@ Article 39
 - (a) the date the arbitrator notifies the parties in writing of his/her acceptance of an appointment by agreement of the parties; or
 - (b) the date the arbitrator is appointed by the Secretary of State.
 
-### 3. Timetable[^key-00129c46d3c31a0b9027b624ec35ccdc]
+### 3. Timetable[^c-00129c46d3c31a0b9027b624ec35ccdc]
 
 (1) The timetable for the arbitration is that which is set out in sub-paragraphs (2) to (4) below unless amended in accordance with paragraph 5(3).
 
@@ -60,7 +60,7 @@ Article 39
 - (d) any objections to the statements of evidence, expert reports or other documents submitted by the respondent; and
 - (e) its written submissions in response to the legal and factual issues involved.
 
-### 4. Procedure[^key-40b61c39834a96e1cbc47224eea4d23b]
+### 4. Procedure[^c-40b61c39834a96e1cbc47224eea4d23b]
 
 (1) The parties’ pleadings, witness statements and expert reports (if any) must be concise. A single pleading must not exceed 30 single-sided A4 pages using 10pt Arial font.
 
@@ -88,7 +88,7 @@ Article 39
 
 (11) The arbitrator’s award must include reasons. The parties must accept that the extent to which reasons are given must be proportionate to the issues in dispute and the time available to the arbitrator to deliver the award.
 
-### 5. Arbitrator’s powers[^key-55fa61923136dbef7e8593f10c64b364]
+### 5. Arbitrator’s powers[^c-55fa61923136dbef7e8593f10c64b364]
 
 (1) The arbitrator has all the powers of the Arbitration Act 1996, save where modified in this Schedule.
 
@@ -101,7 +101,7 @@ Article 39
 
 (4) On the date the award is made, the arbitrator will notify the parties that the award is completed, signed and dated, and that it is to be issued to the parties on receipt of cleared funds for the arbitrator’s fees and expenses.
 
-### 6. Costs[^key-f2d25ab260bba0d38e5956236597a050]
+### 6. Costs[^c-f2d25ab260bba0d38e5956236597a050]
 
 (1) The costs of the arbitration must include the fees and expenses of the arbitrator, the reasonable fees and expenses of any experts and the reasonable legal and other costs incurred by the parties for the arbitration.
 
@@ -111,7 +111,7 @@ Article 39
 
 (4) The arbitrator must award recoverable costs on the general principle that each party should bear its own costs, having regard to all material circumstances, including such matters as exaggerated claims or defences, the degree of success for different elements of the claims, claims that have incurred substantial costs, the conduct of the parties and the degree of success of a party.
 
-### 7. Confidentiality[^key-7545232214aec180f4c1b73bd74da76c]
+### 7. Confidentiality[^c-7545232214aec180f4c1b73bd74da76c]
 
 (1) Hearings in this arbitration are to take place in private.
 
@@ -119,16 +119,16 @@ Article 39
 
 ## Annotations
 
-[^key-ab117fa494b240baec72e39b0ba115b0]: Commencement: Sch. 14 para. 1 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-ab117fa494b240baec72e39b0ba115b0]: Commencement: Sch. 14 para. 1 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
 
-[^key-125727a3c7ddd8744e1509bc6c75f7fe]: Commencement: Sch. 14 para. 2 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-125727a3c7ddd8744e1509bc6c75f7fe]: Commencement: Sch. 14 para. 2 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
 
-[^key-00129c46d3c31a0b9027b624ec35ccdc]: Commencement: Sch. 14 para. 3 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-00129c46d3c31a0b9027b624ec35ccdc]: Commencement: Sch. 14 para. 3 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
 
-[^key-40b61c39834a96e1cbc47224eea4d23b]: Commencement: Sch. 14 para. 4 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-40b61c39834a96e1cbc47224eea4d23b]: Commencement: Sch. 14 para. 4 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
 
-[^key-55fa61923136dbef7e8593f10c64b364]: Commencement: Sch. 14 para. 5 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-55fa61923136dbef7e8593f10c64b364]: Commencement: Sch. 14 para. 5 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
 
-[^key-f2d25ab260bba0d38e5956236597a050]: Commencement: Sch. 14 para. 6 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-f2d25ab260bba0d38e5956236597a050]: Commencement: Sch. 14 para. 6 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
 
-[^key-7545232214aec180f4c1b73bd74da76c]: Commencement: Sch. 14 para. 7 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-7545232214aec180f4c1b73bd74da76c]: Commencement: Sch. 14 para. 7 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51A. Interpretation[^key-4443d6797cbfe72732e7b9bc0bf71817]
+## 51A. Interpretation[^c-4443d6797cbfe72732e7b9bc0bf71817]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In this Part, “**proposed plant**” has the meaning given in regulation 52A(1
 
 ## Annotations
 
-[^key-4443d6797cbfe72732e7b9bc0bf71817]: Textual amendment: [Reg. 51A](https://www.legislation.gov.uk/uksi/2018/611/regulation/51A) inserted (16.11.2022) by [The Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/1096)](https://www.legislation.gov.uk/uksi/2022/1096), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1096/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2022/1096/regulation/3)
+[^c-4443d6797cbfe72732e7b9bc0bf71817]: Textual amendment: [Reg. 51A](https://www.legislation.gov.uk/uksi/2018/611/regulation/51A) inserted (16.11.2022) by [The Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/1096)](https://www.legislation.gov.uk/uksi/2022/1096), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1096/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2022/1096/regulation/3)

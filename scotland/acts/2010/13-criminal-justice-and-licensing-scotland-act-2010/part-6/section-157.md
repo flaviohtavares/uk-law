@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 157. Review by court of section 145 and 146 orders[^key-1721564266cb9156f88b20d1d9e2dc3d]
+## 157. Review by court of section 145 and 146 orders[^c-1721564266cb9156f88b20d1d9e2dc3d]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1721564266cb9156f88b20d1d9e2dc3d]: Commencement: S. 157 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-1721564266cb9156f88b20d1d9e2dc3d]: Commencement: S. 157 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## C12. Return of employee's contributions in certain cases[^key-4560c99bbbbd89eef9e45c022bac78db]
+## C12. Return of employee's contributions in certain cases[^c-4560c99bbbbd89eef9e45c022bac78db]
 
 *Extent: E+W+S*
 
@@ -130,6 +130,6 @@ were omitted.
 
 ## Annotations
 
-[^key-4560c99bbbbd89eef9e45c022bac78db]: Commencement: [Reg. C12](https://www.legislation.gov.uk/uksi/1986/24/regulation/C12) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-4560c99bbbbd89eef9e45c022bac78db]: Commencement: [Reg. C12](https://www.legislation.gov.uk/uksi/1986/24/regulation/C12) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00033]: Footnote: [1970 c.24](https://www.legislation.gov.uk/ukpga/1970/24).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 150. Request for acceptance of a transfer payment[^key-4373d597ca405e6d20fcfd1618a2dc73][^key-a5d409dfc43bac82ce659591702fe7c2]
+## 150. Request for acceptance of a transfer payment[^c-4373d597ca405e6d20fcfd1618a2dc73][^c-a5d409dfc43bac82ce659591702fe7c2]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4373d597ca405e6d20fcfd1618a2dc73]: Commencement: Reg. 150 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-4373d597ca405e6d20fcfd1618a2dc73]: Commencement: Reg. 150 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
-[^key-a5d409dfc43bac82ce659591702fe7c2]: Modification: [Reg. 150](https://www.legislation.gov.uk/wsi/2015/622/regulation/150) applied (with modifications) (1.10.2023) by [The Firefighters’ Pensions (Remediable Service) (Wales) Regulations 2023 (S.I. 2023/961)](https://www.legislation.gov.uk/wsi/2023/961), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2023/961/regulation/1/3), [46](https://www.legislation.gov.uk/wsi/2023/961/regulation/46)
+[^c-a5d409dfc43bac82ce659591702fe7c2]: Modification: [Reg. 150](https://www.legislation.gov.uk/wsi/2015/622/regulation/150) applied (with modifications) (1.10.2023) by [The Firefighters’ Pensions (Remediable Service) (Wales) Regulations 2023 (S.I. 2023/961)](https://www.legislation.gov.uk/wsi/2023/961), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2023/961/regulation/1/3), [46](https://www.legislation.gov.uk/wsi/2023/961/regulation/46)

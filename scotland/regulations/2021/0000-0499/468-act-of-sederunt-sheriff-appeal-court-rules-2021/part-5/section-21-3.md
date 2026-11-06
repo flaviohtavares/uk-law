@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21.3. Award of expenses[^key-c83fe5056166888f7522afd1bef9ce84]
+## 21.3. Award of expenses[^c-c83fe5056166888f7522afd1bef9ce84]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c83fe5056166888f7522afd1bef9ce84]: Commencement: Para. 21.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-c83fe5056166888f7522afd1bef9ce84]: Commencement: Para. 21.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

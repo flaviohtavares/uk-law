@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Duty of Commissioner to report on compliance with victims’ code[^key-148e6107df348d252508c7a6b79d8bbe]
+## 10. Duty of Commissioner to report on compliance with victims’ code[^c-148e6107df348d252508c7a6b79d8bbe]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-148e6107df348d252508c7a6b79d8bbe]: Commencement: S. 10 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-148e6107df348d252508c7a6b79d8bbe]: Commencement: S. 10 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)

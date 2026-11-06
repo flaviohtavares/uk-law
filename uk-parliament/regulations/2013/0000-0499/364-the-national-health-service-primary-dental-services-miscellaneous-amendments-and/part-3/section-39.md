@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Amendment of Schedule 3[^key-2a581f330f218a4ad87b64099bf3ca35]
+## 39. Amendment of Schedule 3[^c-2a581f330f218a4ad87b64099bf3ca35]
 
 *Extent: E+W*
 
@@ -347,7 +347,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2a581f330f218a4ad87b64099bf3ca35]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2013/364/regulation/39) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-2a581f330f218a4ad87b64099bf3ca35]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2013/364/regulation/39) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
 
 [^f00007]: Footnote: [2000 c.12](https://www.legislation.gov.uk/ukpga/2000/12).
 

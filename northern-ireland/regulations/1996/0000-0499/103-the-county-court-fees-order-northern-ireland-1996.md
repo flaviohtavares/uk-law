@@ -40,11 +40,11 @@ Coming into operation
 
 The Lord Chancellor, in exercise of the powers conferred on him by section 116(1) and (4) of the Judicature (Northern Ireland) Act 1978[^f00001], after consultation with the Lord Chief Justice and with the concurrence of the Treasury, hereby makes the following Order:—
 
-## 1. Citation and commencement[^key-ad6b0466208861544a1e77bca505a892]
+## 1. Citation and commencement[^c-ad6b0466208861544a1e77bca505a892]
 
 This Order may be cited as the County Court Fees Order (Northern Ireland) 1996 and shall come into operation on 1st April 1996.
 
-## 2. Interpretation[^key-1f79a18f4796a99df3085ae3be3fab48]
+## 2. Interpretation[^c-1f79a18f4796a99df3085ae3be3fab48]
 
 In this Order, unless the context otherwise requires:
 
@@ -55,11 +55,11 @@ In this Order, unless the context otherwise requires:
 - (e) Schedules 1 and 2 mean Schedules 1 and 2 respectively to this Order;
 - (f) a fee or column referred to by number means the fee or column so numbered in Schedule 1.
 
-## 3. Revocation and saving[^key-fb830f38ecbda7d1ecedebff63dbcff4]
+## 3. Revocation and saving[^c-fb830f38ecbda7d1ecedebff63dbcff4]
 
 The County Court Fees Order (Northern Ireland) 1994[^f00004], the County Court Fees (Amendment) Order (Northern Ireland) 1995[^f00005] and the County Court Fees (Amendment No. 2) Order (Northern Ireland) 1995[^f00006] are hereby revoked except in relation to any civil bill served before 1st September 1995.
 
-## 4. Fees to be taken in proceedings in county courts[^key-b918973520cfd059f0d81a780a28cb8d]
+## 4. Fees to be taken in proceedings in county courts[^c-b918973520cfd059f0d81a780a28cb8d]
 
 (1) Without prejudice to paragraph (3) the fees set out in column 3 shall be payable in proceedings in county courts in respect of the items set out opposite thereto in column 2.
 
@@ -71,7 +71,7 @@ The County Court Fees Order (Northern Ireland) 1994[^f00004], the County Court F
 
 (5) Where it appears to the Lord Chancellor that the payment of any fee specified in Schedule 1 would, owing to the exceptional circumstances of the particular case, involve hardship, he may reduce or remit the fee in that case.
 
-## 5. Manner in which fees are to be taken[^key-631a3b871cc2cf1ecca369e9a057eaee]
+## 5. Manner in which fees are to be taken[^c-631a3b871cc2cf1ecca369e9a057eaee]
 
 (1) The fees prescribed in Schedule 1 shall be taken in cash.
 
@@ -79,11 +79,11 @@ The County Court Fees Order (Northern Ireland) 1994[^f00004], the County Court F
 
 (3) Where fees are payable under this Order in respect of any item and there is no document in reference to that item on which an endorsement can be made, the person requesting the action to which the item relates shall make the request by a requisition or note in writing which shall be endorsed as to payment of the appropriate fee in accordance with paragraph (2).
 
-## 6. Fees for service of summonses and processes[^key-8860fb4c7d9fb2465d2e8e086749bc4d]
+## 6. Fees for service of summonses and processes[^c-8860fb4c7d9fb2465d2e8e086749bc4d]
 
 There shall be paid to a process server, in addition to any salary payable to him, the fees set out in Schedule 2 and such fees shall be paid by the person on whose behalf service is to be effected at the time that the document to be served is sent or delivered to the process server.
 
-## 7. Application of fees[^key-91f15747197e6d7ea26b0c6269b6b6ff]
+## 7. Application of fees[^c-91f15747197e6d7ea26b0c6269b6b6ff]
 
 All fees received by virtue of Schedule 1 shall, unless otherwise appropriated in aid, be paid into the Consolidated Fund.
 
@@ -264,7 +264,7 @@ Article 4
 </tbody>
 </table>
 
-## SCHEDULE 2 — Fees Payable to Process Servers[^key-2c8785290f42d2e19cd09de42d41912f]
+## SCHEDULE 2 — Fees Payable to Process Servers[^c-2c8785290f42d2e19cd09de42d41912f]
 
 Article 6
 
@@ -293,15 +293,15 @@ This Order revokes and replaces the County Court Fees Order (Northern Ireland) 1
 
 [^f00001]: Footnote: [1978 c. 23](https://www.legislation.gov.uk/ukpga/1978/23)
 
-[^key-ad6b0466208861544a1e77bca505a892]: Commencement: Art. 1 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/103/article/1)
+[^c-ad6b0466208861544a1e77bca505a892]: Commencement: Art. 1 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/103/article/1)
 
-[^key-1f79a18f4796a99df3085ae3be3fab48]: Commencement: Art. 2 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/103/article/1)
+[^c-1f79a18f4796a99df3085ae3be3fab48]: Commencement: Art. 2 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/103/article/1)
 
 [^f00002]: Footnote: [S.I. 1980/397 (N.I. 3)](https://www.legislation.gov.uk/nisi/1980/397)
 
 [^f00003]: Footnote: [S.R. 1981 No. 225](https://www.legislation.gov.uk/nisr/1981/225)
 
-[^key-fb830f38ecbda7d1ecedebff63dbcff4]: Commencement: Art. 3 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/103/article/1)
+[^c-fb830f38ecbda7d1ecedebff63dbcff4]: Commencement: Art. 3 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/103/article/1)
 
 [^f00004]: Footnote: [S.R. 1994 No. 280](https://www.legislation.gov.uk/nisr/1994/280)
 
@@ -309,14 +309,14 @@ This Order revokes and replaces the County Court Fees Order (Northern Ireland) 1
 
 [^f00006]: Footnote: [S.R. 1995 No. 290](https://www.legislation.gov.uk/nisr/1995/290)
 
-[^key-b918973520cfd059f0d81a780a28cb8d]: Commencement: Art. 4 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/103/article/1)
+[^c-b918973520cfd059f0d81a780a28cb8d]: Commencement: Art. 4 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/103/article/1)
 
 [^f00007]: Footnote: [1954 c. 21 (N.I.)](https://www.legislation.gov.uk/apni/1954/21)
 
-[^key-631a3b871cc2cf1ecca369e9a057eaee]: Commencement: Art. 5 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/103/article/1)
+[^c-631a3b871cc2cf1ecca369e9a057eaee]: Commencement: Art. 5 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/103/article/1)
 
-[^key-8860fb4c7d9fb2465d2e8e086749bc4d]: Commencement: Art. 6 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/103/article/1)
+[^c-8860fb4c7d9fb2465d2e8e086749bc4d]: Commencement: Art. 6 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/103/article/1)
 
-[^key-91f15747197e6d7ea26b0c6269b6b6ff]: Commencement: Art. 7 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/103/article/1)
+[^c-91f15747197e6d7ea26b0c6269b6b6ff]: Commencement: Art. 7 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/103/article/1)
 
-[^key-2c8785290f42d2e19cd09de42d41912f]: Commencement: Sch. 2 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/103/article/1)
+[^c-2c8785290f42d2e19cd09de42d41912f]: Commencement: Sch. 2 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/103/article/1)

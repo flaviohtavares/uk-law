@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Disapplication of sections 23 and 27 to 37 as respects procurator fiscal[^key-d9e345f55f4837f14a7634eed91aa5e8]
+## 24. Disapplication of sections 23 and 27 to 37 as respects procurator fiscal[^c-d9e345f55f4837f14a7634eed91aa5e8]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Sections 23 and 27 to 37 do not apply to anything done for the purposes of the f
 
 ## Annotations
 
-[^key-d9e345f55f4837f14a7634eed91aa5e8]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2006/4/section/24) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-d9e345f55f4837f14a7634eed91aa5e8]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2006/4/section/24) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

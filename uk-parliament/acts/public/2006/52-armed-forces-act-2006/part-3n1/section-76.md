@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Stop and search by persons other than service policemen[^key-07e4d3c0768ae363b42290afb87827ae][^key-19116568c3b6d3250aeeebdf4be34397]
+## 76. Stop and search by persons other than service policemen[^c-07e4d3c0768ae363b42290afb87827ae][^c-19116568c3b6d3250aeeebdf4be34397]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
   - (ii) a vehicle in the charge of such a person, or
   - (iii) anything which is in or on such a vehicle,
 
-  for stolen or prohibited articles, controlled drugs , psychoactive substances[^key-ea1463750f4f89198ee40dfc4e263f31] or Her Majesty's stores;
+  for stolen or prohibited articles, controlled drugs , psychoactive substances[^c-ea1463750f4f89198ee40dfc4e263f31] or Her Majesty's stores;
 - (b) to detain such a person or vehicle for the purposes of such a search; and
 - (c) to seize any article that he discovers in the course of such a search and that he has reasonable grounds for suspecting to be an article within section 75(4)(a) to (c);
 
@@ -63,8 +63,8 @@ if the powers conferred by this section could not be exercised before the earlie
 
 ## Annotations
 
-[^key-07e4d3c0768ae363b42290afb87827ae]: Commencement: S. 76 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-07e4d3c0768ae363b42290afb87827ae]: Commencement: S. 76 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-19116568c3b6d3250aeeebdf4be34397]: Commencement: S. 76 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-19116568c3b6d3250aeeebdf4be34397]: Commencement: S. 76 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-ea1463750f4f89198ee40dfc4e263f31]: Textual amendment: Words in s. 76(1)(a) inserted (26.5.2016) by [Psychoactive Substances Act 2016 (c. 2)](https://www.legislation.gov.uk/ukpga/2016/2), [s. 63(2)](https://www.legislation.gov.uk/ukpga/2016/2/section/63/2), [Sch. 5 para. 7(3)](https://www.legislation.gov.uk/ukpga/2016/2/schedule/5/paragraph/7/3); [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-ea1463750f4f89198ee40dfc4e263f31]: Textual amendment: Words in s. 76(1)(a) inserted (26.5.2016) by [Psychoactive Substances Act 2016 (c. 2)](https://www.legislation.gov.uk/ukpga/2016/2), [s. 63(2)](https://www.legislation.gov.uk/ukpga/2016/2/section/63/2), [Sch. 5 para. 7(3)](https://www.legislation.gov.uk/ukpga/2016/2/schedule/5/paragraph/7/3); [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

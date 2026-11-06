@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 81. Investigation of certification (regulation 15 of the Disciplinary Procedures Regulations)[^key-8cffc9d7d631a9806de4281ff62164fb]
+## 81. Investigation of certification (regulation 15 of the Disciplinary Procedures Regulations)[^c-8cffc9d7d631a9806de4281ff62164fb]
 
 *Extent: N.I.*
 
@@ -57,6 +57,6 @@ that amount shall be recoverable by the appropriate Board, insofar as it has not
 
 ## Annotations
 
-[^key-8cffc9d7d631a9806de4281ff62164fb]: Commencement: Art. 81 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-8cffc9d7d631a9806de4281ff62164fb]: Commencement: Art. 81 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
 
 [^f00035]: Footnote: [S.R.1976 No. 175](https://www.legislation.gov.uk/nisr/1976/175)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 164. Local authority may provide places of public recreation.[^c665149][^c665150][^c665151][^key-27a1eadb3d256baa5dd57130a23206a3][^key-5b0f32aa7ca42ea7de36ca1174d72c2b][^c665152]
+## 164. Local authority may provide places of public recreation.[^c665149][^c665150][^c665151][^c-27a1eadb3d256baa5dd57130a23206a3][^c-5b0f32aa7ca42ea7de36ca1174d72c2b][^c665152]
 
 *Extent: E+W*
 
@@ -32,8 +32,8 @@ Any local authority may make byelaws for the regulation of any such public walk 
 
 [^c665151]: Modification: [S. 164](https://www.legislation.gov.uk/ukpga/Vict/38-39/55/section/164): certain functions transferred by [S.I. 1986/413](https://www.legislation.gov.uk/uksi/1986/413), [art. 13(1)](https://www.legislation.gov.uk/uksi/1986/413/article/13/1)
 
-[^key-27a1eadb3d256baa5dd57130a23206a3]: Modification: [S. 164](https://www.legislation.gov.uk/ukpga/Vict/38-39/55/section/164): functions made exercisable concurrently (1.2.2005) by [Cotswolds Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1777)](https://www.legislation.gov.uk/uksi/2004/1777), [arts. 2](https://www.legislation.gov.uk/uksi/2004/1777/article/2), [25(1)](https://www.legislation.gov.uk/uksi/2004/1777/article/25/1), [25(2)(i)](https://www.legislation.gov.uk/uksi/2004/1777/article/25/2/i) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1777/article/35))
+[^c-27a1eadb3d256baa5dd57130a23206a3]: Modification: [S. 164](https://www.legislation.gov.uk/ukpga/Vict/38-39/55/section/164): functions made exercisable concurrently (1.2.2005) by [Cotswolds Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1777)](https://www.legislation.gov.uk/uksi/2004/1777), [arts. 2](https://www.legislation.gov.uk/uksi/2004/1777/article/2), [25(1)](https://www.legislation.gov.uk/uksi/2004/1777/article/25/1), [25(2)(i)](https://www.legislation.gov.uk/uksi/2004/1777/article/25/2/i) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1777/article/35))
 
-[^key-5b0f32aa7ca42ea7de36ca1174d72c2b]: Modification: [S. 164](https://www.legislation.gov.uk/ukpga/Vict/38-39/55/section/164): functions made exercisable concurrently (1.2.2005) by [Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1778)](https://www.legislation.gov.uk/uksi/2004/1778), [arts. 2](https://www.legislation.gov.uk/uksi/2004/1778/article/2), [25(1)](https://www.legislation.gov.uk/uksi/2004/1778/article/25/1), [25(2)(i)](https://www.legislation.gov.uk/uksi/2004/1778/article/25/2/i) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1778/article/35))
+[^c-5b0f32aa7ca42ea7de36ca1174d72c2b]: Modification: [S. 164](https://www.legislation.gov.uk/ukpga/Vict/38-39/55/section/164): functions made exercisable concurrently (1.2.2005) by [Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1778)](https://www.legislation.gov.uk/uksi/2004/1778), [arts. 2](https://www.legislation.gov.uk/uksi/2004/1778/article/2), [25(1)](https://www.legislation.gov.uk/uksi/2004/1778/article/25/1), [25(2)(i)](https://www.legislation.gov.uk/uksi/2004/1778/article/25/2/i) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1778/article/35))
 
 [^c665152]: Textual amendment: Words substituted by virtue of [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 14 para. 27](https://www.legislation.gov.uk/ukpga/1972/70/schedule/14/paragraph/27)

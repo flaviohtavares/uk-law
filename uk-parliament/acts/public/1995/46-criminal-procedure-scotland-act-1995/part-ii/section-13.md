@@ -58,7 +58,7 @@ summary: ''
   fails, without reasonable excuse, to do so, shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale;
 - (b) paragraph (b) of the said subsection (1) who having been required under that subsection to give the information mentioned in subsection (1A) above[^c19032601] fails, without reasonable excuse, to do so shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
 
-(7)[^key-e997ed676548ddf393dac4dab4652027] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-e997ed676548ddf393dac4dab4652027] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -74,4 +74,4 @@ summary: ''
 
 [^c19032601]: Textual amendment: Words in s. 13(6)(a)(i)(b) substituted (1.9.2006) by [Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), [ss. 81(5)](https://www.legislation.gov.uk/asp/2006/10/section/81/5), [104](https://www.legislation.gov.uk/asp/2006/10/section/104); [S.S.I. 2006/432](https://www.legislation.gov.uk/ssi/2006/432), [art. 2(e)](https://www.legislation.gov.uk/ssi/2006/432/article/2/e)
 
-[^key-e997ed676548ddf393dac4dab4652027]: Textual amendment: [S. 13(7)](https://www.legislation.gov.uk/ukpga/1995/46/section/13/7) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 2(a)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/2/a); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-e997ed676548ddf393dac4dab4652027]: Textual amendment: [S. 13(7)](https://www.legislation.gov.uk/ukpga/1995/46/section/13/7) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 2(a)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/2/a); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)

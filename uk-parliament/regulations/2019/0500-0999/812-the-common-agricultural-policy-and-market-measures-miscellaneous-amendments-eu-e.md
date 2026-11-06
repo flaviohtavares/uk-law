@@ -50,17 +50,17 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 The Secretary of State is of the opinion that, by reason of urgency, it is necessary to make these Regulations without a draft of the instrument being laid before, and approved by a resolution of, each House of Parliament.
 
-## 1. Citation and commencement[^key-1046667f0d02afa607b977f8e6e52966]
+## 1. Citation and commencement[^c-1046667f0d02afa607b977f8e6e52966]
 
 These Regulations may be cited as the Common Agricultural Policy and Market Measures (Miscellaneous Amendments) (EU Exit) Regulations 2019 and come into force immediately before exit day.
 
-## 2. Amendment of the Common Agricultural Policy (Direct Payments to Farmers) (Amendment) (EU Exit) Regulations 2019[^key-576455655e48a9f4daefa722b54fed8f]
+## 2. Amendment of the Common Agricultural Policy (Direct Payments to Farmers) (Amendment) (EU Exit) Regulations 2019[^c-576455655e48a9f4daefa722b54fed8f]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019[^key-60490742e3613308272e7ac9352d6209]
+## 3. Amendment of the Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019[^c-60490742e3613308272e7ac9352d6209]
 
 (1) The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019 [^c23936921] are amended as follows.
 
@@ -77,7 +77,7 @@ These Regulations may be cited as the Common Agricultural Policy and Market Meas
 
 (4) In regulation 9(5)(b), in the substituted paragraph, for “ Annex I of ” substitute “Annex II to”.
 
-## 4. Amendment of the Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019[^key-314e4d24fb68bce46a4270b2c1320816]
+## 4. Amendment of the Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019[^c-314e4d24fb68bce46a4270b2c1320816]
 
 (1) The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 [^c23936931] is amended as follows.
 
@@ -92,7 +92,7 @@ These Regulations may be cited as the Common Agricultural Policy and Market Meas
 
   .
 
-## 5. Amendment of the Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019[^key-c6cf92c658a5ecda8ca33a7b92b2d989]
+## 5. Amendment of the Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019[^c-c6cf92c658a5ecda8ca33a7b92b2d989]
 
 (1) Regulation 8 of the Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 [^c23936941] is amended as follows.
 
@@ -105,9 +105,9 @@ These Regulations may be cited as the Common Agricultural Policy and Market Meas
 
 (3) In paragraph (21)(b) omit “the”, in the first place it occurs.
 
-(4) In paragraph (42)(c), for “14 and 15” substitute “ 19 and 20,[^key-8d6cf878f24b7b95af6a28d3422b25e4] ”.
+(4) In paragraph (42)(c), for “14 and 15” substitute “ 19 and 20,[^c-8d6cf878f24b7b95af6a28d3422b25e4] ”.
 
-## 6. Amendment of the Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019[^key-10c13ed97f3bafa2d5872fde02cf9aff]
+## 6. Amendment of the Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019[^c-10c13ed97f3bafa2d5872fde02cf9aff]
 
 (1) The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 [^c23936951] are amended as follows.
 
@@ -141,24 +141,24 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23936901]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-1046667f0d02afa607b977f8e6e52966]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1046667f0d02afa607b977f8e6e52966]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-576455655e48a9f4daefa722b54fed8f]: Textual amendment: Reg. 2 revoked (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [24(c)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/24/c)
+[^c-576455655e48a9f4daefa722b54fed8f]: Textual amendment: Reg. 2 revoked (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [24(c)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/24/c)
 
-[^key-60490742e3613308272e7ac9352d6209]: Commencement: Reg. 3 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-60490742e3613308272e7ac9352d6209]: Commencement: Reg. 3 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23936921]: Marginal citation: [S.I. 2019/763](https://www.legislation.gov.uk/uksi/2019/763).
 
-[^key-314e4d24fb68bce46a4270b2c1320816]: Commencement: Reg. 4 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-314e4d24fb68bce46a4270b2c1320816]: Commencement: Reg. 4 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23936931]: Marginal citation: [S.I. 2019/821](https://www.legislation.gov.uk/uksi/2019/821).
 
-[^key-c6cf92c658a5ecda8ca33a7b92b2d989]: Commencement: Reg. 5 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-c6cf92c658a5ecda8ca33a7b92b2d989]: Commencement: Reg. 5 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23936941]: Marginal citation: [S.I. 2019/822](https://www.legislation.gov.uk/uksi/2019/822).
 
-[^key-8d6cf878f24b7b95af6a28d3422b25e4]: Textual amendment: Words in reg. 5(4) substituted (31.12.2020 immediately before S.I. 2019/812 comes into force) by [The Common Agricultural Policy and Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1405)](https://www.legislation.gov.uk/uksi/2019/1405), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2019/1405/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8d6cf878f24b7b95af6a28d3422b25e4]: Textual amendment: Words in reg. 5(4) substituted (31.12.2020 immediately before S.I. 2019/812 comes into force) by [The Common Agricultural Policy and Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1405)](https://www.legislation.gov.uk/uksi/2019/1405), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1405/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2019/1405/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-10c13ed97f3bafa2d5872fde02cf9aff]: Commencement: Reg. 6 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-10c13ed97f3bafa2d5872fde02cf9aff]: Commencement: Reg. 6 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23936951]: Marginal citation: [S.I. 2019/824](https://www.legislation.gov.uk/uksi/2019/824).

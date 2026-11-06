@@ -32,7 +32,7 @@ summary: ''
 
 Pensions
 
-The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2020 (revoked)[^key-6b8b7e4a51b44362a44d2ffce6576d7c]
+The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2020 (revoked)[^c-6b8b7e4a51b44362a44d2ffce6576d7c]
 
 Made
 
@@ -46,21 +46,21 @@ Coming into force
 
 1st April 2020
 
-[^key-6b8b7e4a51b44362a44d2ffce6576d7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b8b7e4a51b44362a44d2ffce6576d7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-6b8b7e4a51b44362a44d2ffce6576d7c]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment of the Occupational and Personal Pension Schemes (General Levy) Regulations 2005[^key-6b8b7e4a51b44362a44d2ffce6576d7c]
+## 1. Citation and commencement[^c-6b8b7e4a51b44362a44d2ffce6576d7c]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-6b8b7e4a51b44362a44d2ffce6576d7c]
+## 2. Amendment of the Occupational and Personal Pension Schemes (General Levy) Regulations 2005[^c-6b8b7e4a51b44362a44d2ffce6576d7c]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Revocation[^c-6b8b7e4a51b44362a44d2ffce6576d7c]
 
 **Not yet in force.**
 
@@ -68,12 +68,12 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-6b8b7e4a51b44362a44d2ffce6576d7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b8b7e4a51b44362a44d2ffce6576d7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6b8b7e4a51b44362a44d2ffce6576d7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b8b7e4a51b44362a44d2ffce6576d7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6b8b7e4a51b44362a44d2ffce6576d7c]: Textual amendment: Regulations revoked (31.3.2020) by [The Occupational and Personal Pension Schemes (General Levy) (Revocation) Regulations 2020 (S.I. 2020/355)](https://www.legislation.gov.uk/uksi/2020/355), [regs. 1](https://www.legislation.gov.uk/uksi/2020/355/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/355/regulation/2)
+[^c-6b8b7e4a51b44362a44d2ffce6576d7c]: Textual amendment: Regulations revoked (31.3.2020) by [The Occupational and Personal Pension Schemes (General Levy) (Revocation) Regulations 2020 (S.I. 2020/355)](https://www.legislation.gov.uk/uksi/2020/355), [regs. 1](https://www.legislation.gov.uk/uksi/2020/355/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/355/regulation/2)

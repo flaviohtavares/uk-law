@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Recovery of tax in Scotland[^key-9fe460afa4836d0367ff311bca7dfaf6]
+## 63. Recovery of tax in Scotland[^c-9fe460afa4836d0367ff311bca7dfaf6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9fe460afa4836d0367ff311bca7dfaf6]: Textual amendment: S. 63 omitted (23.11.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 129(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/129/4), [Sch. 43 para. 12(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/43/paragraph/12/a); [S.I. 2009/3024](https://www.legislation.gov.uk/uksi/2009/3024), [art. 3](https://www.legislation.gov.uk/uksi/2009/3024/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/3024/article/4))
+[^c-9fe460afa4836d0367ff311bca7dfaf6]: Textual amendment: S. 63 omitted (23.11.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 129(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/129/4), [Sch. 43 para. 12(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/43/paragraph/12/a); [S.I. 2009/3024](https://www.legislation.gov.uk/uksi/2009/3024), [art. 3](https://www.legislation.gov.uk/uksi/2009/3024/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/3024/article/4))

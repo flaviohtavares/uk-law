@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Application of Friendly Societies Act to transitional appeals[^key-e8fbd99a0ca1322564aa792f7aa19e45]
+## 120. Application of Friendly Societies Act to transitional appeals[^c-e8fbd99a0ca1322564aa792f7aa19e45]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e8fbd99a0ca1322564aa792f7aa19e45]: Commencement: Art. 120 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-e8fbd99a0ca1322564aa792f7aa19e45]: Commencement: Art. 120 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
 
 [^f00041]: Footnote: Subsection (3A) was inserted by the Judicial Pensions and Retirement Act 1993.

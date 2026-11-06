@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 139C. Conversion of status from eligible part-time student to eligible student[^key-4a3180d0dc82370ee6b9f4690e4e1894]
+## 139C. Conversion of status from eligible part-time student to eligible student[^c-4a3180d0dc82370ee6b9f4690e4e1894]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the Secretary of State receives a request from the eligible part-time student to do so; and
 - (b) the period of eligibility has not terminated.
 
-(2)[^key-9ebd8809c5d8b03813da38d675a34536] The following applies to a student (“**A**”) who transfers under paragraph (1)—
+(2)[^c-9ebd8809c5d8b03813da38d675a34536] The following applies to a student (“**A**”) who transfers under paragraph (1)—
 
 - (a) where the Secretary of State has determined prior to the transfer that A is entitled to disabled part-time students’ allowance, that entitlement terminates on the date of transfer and no payments or further payments (including instalments) of that grant must be made after that date;
 - (b) the Secretary of State must determine whether A is entitled to disabled students’ allowance for the remainder of the academic year in which A transfers;
@@ -69,6 +69,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4a3180d0dc82370ee6b9f4690e4e1894]: Textual amendment: Regs. 139A-139D inserted (with application in accordance with reg. 1(2)(b) of the amending S.I.) by [The Education (Student Support) (Amendment) (No. 3) Regulations 2018 (S.I. 2018/472)](https://www.legislation.gov.uk/uksi/2018/472), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/472/regulation/1/2/a), [14](https://www.legislation.gov.uk/uksi/2018/472/regulation/14)
+[^c-4a3180d0dc82370ee6b9f4690e4e1894]: Textual amendment: Regs. 139A-139D inserted (with application in accordance with reg. 1(2)(b) of the amending S.I.) by [The Education (Student Support) (Amendment) (No. 3) Regulations 2018 (S.I. 2018/472)](https://www.legislation.gov.uk/uksi/2018/472), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/472/regulation/1/2/a), [14](https://www.legislation.gov.uk/uksi/2018/472/regulation/14)
 
-[^key-9ebd8809c5d8b03813da38d675a34536]: Textual amendment: Reg. 139C(2) substituted (with application in accordance with reg. 1(3)(4) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/669)](https://www.legislation.gov.uk/uksi/2024/669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/669/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2024/669/regulation/17)
+[^c-9ebd8809c5d8b03813da38d675a34536]: Textual amendment: Reg. 139C(2) substituted (with application in accordance with reg. 1(3)(4) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/669)](https://www.legislation.gov.uk/uksi/2024/669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/669/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2024/669/regulation/17)

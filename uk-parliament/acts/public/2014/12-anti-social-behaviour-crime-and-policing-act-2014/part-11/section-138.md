@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Unsatisfactory performance procedures following investigation of death or serious injury matter[^key-5548b9e3f27bbb73b7be3aec880aeca4]
+## 138. Unsatisfactory performance procedures following investigation of death or serious injury matter[^c-5548b9e3f27bbb73b7be3aec880aeca4]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5548b9e3f27bbb73b7be3aec880aeca4]: Commencement: [S. 138](https://www.legislation.gov.uk/ukpga/2014/12/section/138) in force at 1.10.2014 by [S.I. 2014/2454](https://www.legislation.gov.uk/uksi/2014/2454), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/2454/article/3/a)
+[^c-5548b9e3f27bbb73b7be3aec880aeca4]: Commencement: [S. 138](https://www.legislation.gov.uk/ukpga/2014/12/section/138) in force at 1.10.2014 by [S.I. 2014/2454](https://www.legislation.gov.uk/uksi/2014/2454), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/2454/article/3/a)

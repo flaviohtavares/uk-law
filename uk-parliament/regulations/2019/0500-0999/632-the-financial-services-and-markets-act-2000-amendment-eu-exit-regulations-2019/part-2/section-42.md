@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Introduction[^key-e510e616fa47cbfd6b5de396a6de610c]
+## 42. Introduction[^c-e510e616fa47cbfd6b5de396a6de610c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Part 11 of the Act (information gathering and investigations) is amended as foll
 
 ## Annotations
 
-[^key-e510e616fa47cbfd6b5de396a6de610c]: Commencement: Reg. 42 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-e510e616fa47cbfd6b5de396a6de610c]: Commencement: Reg. 42 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)

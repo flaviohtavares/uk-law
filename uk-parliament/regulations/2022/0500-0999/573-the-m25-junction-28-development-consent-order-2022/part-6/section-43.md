@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Defence to proceedings in respect of statutory nuisance[^key-87b9d0eb52c7118b8151ba6f12de077f]
+## 43. Defence to proceedings in respect of statutory nuisance[^c-87b9d0eb52c7118b8151ba6f12de077f]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-87b9d0eb52c7118b8151ba6f12de077f]: Commencement: Art. 43 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
+[^c-87b9d0eb52c7118b8151ba6f12de077f]: Commencement: Art. 43 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
 
 [^f00081]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). There are amendments to this subsection which are not relevant to this Order.
 

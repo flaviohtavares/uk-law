@@ -28,7 +28,7 @@ summary: ''
 
 (2) A statutory instrument containing any of the following may not be made unless a draft of the instrument has been laid before, and approved by resolution of, the National Assembly for Wales—
 
-- (a) regulations made under section 6(5), 10(6), 11(5), 13, 15, 16, 17(3), 28(7) , 50(2) or 54A[^key-534a715e2e5b07d11e7414c7a2a9383d] or paragraph 6 or 9 of Schedule 1;
+- (a) regulations made under section 6(5), 10(6), 11(5), 13, 15, 16, 17(3), 28(7) , 50(2) or 54A[^c-534a715e2e5b07d11e7414c7a2a9383d] or paragraph 6 or 9 of Schedule 1;
 - (b) regulations made under section 60, 62, 63, 66(10), 69(8), 70(3)(a) or (c), 93 or 94(1);
 - (c) regulations made under section 108 or 110(2);
 - (d) regulations made under section 125 that amend or repeal any provision of an Act of Parliament or a Measure or Act of the National Assembly for Wales.
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-534a715e2e5b07d11e7414c7a2a9383d]: Textual amendment: Words in [s. 123(2)](https://www.legislation.gov.uk/anaw/2017/2/section/123/2) substituted (29.4.2026 for specified purposes) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)[(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5), [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2026/18/schedule/5/paragraph/15)
+[^c-534a715e2e5b07d11e7414c7a2a9383d]: Textual amendment: Words in [s. 123(2)](https://www.legislation.gov.uk/anaw/2017/2/section/123/2) substituted (29.4.2026 for specified purposes) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)[(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5), [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2026/18/schedule/5/paragraph/15)

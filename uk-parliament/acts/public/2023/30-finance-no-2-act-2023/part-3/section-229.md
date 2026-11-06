@@ -30,7 +30,7 @@ summary: ''
 - (a) references (however framed) to the consolidated financial statements of the ultimate parent were to the multi-parent consolidated financial statements,
 - (b) references to the ultimate parent were to all of the ultimate parents of the constituent groups, other than the reference in section 128(3)(b) (responsible members).
 
-(3) Where ownership interests in an intermediate parent member of a multi-parent group are held by more than one of the ultimate parents of the multi-parent group, section 128(3)[^key-18e2b850690c655abaeb7eaeb9301d16] has effect as if for paragraph (b) there were substituted—
+(3) Where ownership interests in an intermediate parent member of a multi-parent group are held by more than one of the ultimate parents of the multi-parent group, section 128(3)[^c-18e2b850690c655abaeb7eaeb9301d16] has effect as if for paragraph (b) there were substituted—
 
 > - (b) any of the ultimate parents of the constituent groups that have ownership interest in the intermediate parent member are not subject to Pillar Two IIR tax, and
 
@@ -82,4 +82,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18e2b850690c655abaeb7eaeb9301d16]: Textual amendment: Words in [s. 229(3)](https://www.legislation.gov.uk/ukpga/2023/30/section/229/3) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 55(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/55/3)
+[^c-18e2b850690c655abaeb7eaeb9301d16]: Textual amendment: Words in [s. 229(3)](https://www.legislation.gov.uk/ukpga/2023/30/section/229/3) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 55(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/55/3)

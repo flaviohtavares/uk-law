@@ -37,13 +37,13 @@ Made
 
 The Secretary of State, in exercise of the powers conferred by section 148 of the Local Democracy, Economic Development and Construction Act 2009[^f00001], makes the following Order:
 
-## 1. Citation and interpretation[^key-b82ae3ff595b0096f3942df43986e4e8]
+## 1. Citation and interpretation[^c-b82ae3ff595b0096f3942df43986e4e8]
 
 (1) This Order may be cited as the Local Democracy, Economic Development and Construction Act 2009 (Commencement No. 2) Order 2009.
 
 (2) In this Order “the Act” means the Local Democracy, Economic Development and Construction Act 2009.
 
-## 2. Provisions coming into force on the day after the making of this Order[^key-ea4a5f13210e002702c45151d920a319]
+## 2. Provisions coming into force on the day after the making of this Order[^c-ea4a5f13210e002702c45151d920a319]
 
 The following provisions of the Act come into force on the day after this Order is made—
 
@@ -51,11 +51,11 @@ The following provisions of the Act come into force on the day after this Order 
 - (b) sections 118 to 120 (supplementary provision in relation to EPBs and combined authorities);
 - (c) Schedule 6 (EPBs and combined authorities: amendments).
 
-## 3. Provisions coming into force on 12th January 2010[^key-bfe6ea20b8f3713e8cd13d53b6dee2fb]
+## 3. Provisions coming into force on 12th January 2010[^c-bfe6ea20b8f3713e8cd13d53b6dee2fb]
 
 Sections 114 to 117 of the Act (order–making powers in relation to EPBs and combined authorities) come into force on 12th January 2010.
 
-## 4. Provisions coming into force on 1st April 2010[^key-486af81a674221af313f5ac9047a335d]
+## 4. Provisions coming into force on 1st April 2010[^c-486af81a674221af313f5ac9047a335d]
 
 The following provisions of the Act come into force on 1st April 2010—
 
@@ -140,10 +140,10 @@ The following provisions of the Act have been brought into force by a commenceme
 
 [^f00001]: Footnote: [2009 c 20](https://www.legislation.gov.uk/ukpga/2009/20).
 
-[^key-b82ae3ff595b0096f3942df43986e4e8]: Commencement: Art. 1 in force at 16.12.2009
+[^c-b82ae3ff595b0096f3942df43986e4e8]: Commencement: Art. 1 in force at 16.12.2009
 
-[^key-ea4a5f13210e002702c45151d920a319]: Commencement: Art. 2 in force at 16.12.2009
+[^c-ea4a5f13210e002702c45151d920a319]: Commencement: Art. 2 in force at 16.12.2009
 
-[^key-bfe6ea20b8f3713e8cd13d53b6dee2fb]: Commencement: Art. 3 in force at 16.12.2009
+[^c-bfe6ea20b8f3713e8cd13d53b6dee2fb]: Commencement: Art. 3 in force at 16.12.2009
 
-[^key-486af81a674221af313f5ac9047a335d]: Commencement: Art. 4 in force at 16.12.2009
+[^c-486af81a674221af313f5ac9047a335d]: Commencement: Art. 4 in force at 16.12.2009

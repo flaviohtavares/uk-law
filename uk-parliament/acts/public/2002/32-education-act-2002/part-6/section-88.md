@@ -20,16 +20,16 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-a8f62cf86340d12db458ed09ba9bfeb3] In relation to any maintained school and any school year—
+(1)[^c-a8f62cf86340d12db458ed09ba9bfeb3] In relation to any maintained school and any school year—
 
-- (a) the local authority[^key-379c0a8ab791aad4cda0b42dbea5f020] and the governing body shall exercise their functions with a view to securing, and
+- (a) the local authority[^c-379c0a8ab791aad4cda0b42dbea5f020] and the governing body shall exercise their functions with a view to securing, and
 - (b) the head teacher shall secure,
 
 that the National Curriculum for England as subsisting at the beginning of that year is implemented.
 
-This subsection does not apply in relation to assessment arrangements.[^key-38ea8f5de6f3d36ed61014337a020eb7]
+This subsection does not apply in relation to assessment arrangements.[^c-38ea8f5de6f3d36ed61014337a020eb7]
 
-(1A)[^key-6d8945ac87ff3220a266d25e862febfd] In relation to any maintained school—
+(1A)[^c-6d8945ac87ff3220a266d25e862febfd] In relation to any maintained school—
 
 - (a) the local authority and the governing body must exercise their functions with a view to securing, and
 - (b) the head teacher must secure,
@@ -38,10 +38,10 @@ that the assessment arrangements specified for the time being in the National Cu
 
 ## Annotations
 
-[^key-a8f62cf86340d12db458ed09ba9bfeb3]: Textual amendment: S. 88(1): s. 88 renumbered as s. 88(1) (26.11.2008) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 156(1)](https://www.legislation.gov.uk/ukpga/2008/25/section/156/1), [173(1)(b)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/1/b)
+[^c-a8f62cf86340d12db458ed09ba9bfeb3]: Textual amendment: S. 88(1): s. 88 renumbered as s. 88(1) (26.11.2008) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 156(1)](https://www.legislation.gov.uk/ukpga/2008/25/section/156/1), [173(1)(b)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/1/b)
 
-[^key-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
+[^c-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
 
-[^key-38ea8f5de6f3d36ed61014337a020eb7]: Textual amendment: Words in s. 88(1) inserted (26.11.2008) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 156(1)](https://www.legislation.gov.uk/ukpga/2008/25/section/156/1), [173(1)(b)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/1/b)
+[^c-38ea8f5de6f3d36ed61014337a020eb7]: Textual amendment: Words in s. 88(1) inserted (26.11.2008) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 156(1)](https://www.legislation.gov.uk/ukpga/2008/25/section/156/1), [173(1)(b)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/1/b)
 
-[^key-6d8945ac87ff3220a266d25e862febfd]: Textual amendment: S. 88(1A) inserted (26.11.2008) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 156(2)](https://www.legislation.gov.uk/ukpga/2008/25/section/156/2), [173(1)(b)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/1/b)
+[^c-6d8945ac87ff3220a266d25e862febfd]: Textual amendment: S. 88(1A) inserted (26.11.2008) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 156(2)](https://www.legislation.gov.uk/ukpga/2008/25/section/156/2), [173(1)(b)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/1/b)

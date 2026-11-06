@@ -44,7 +44,7 @@ The Secretary of State, in exercise of the powers conferred by sections 57A, 140
 
 ## PART 1 — Preliminary
 
-### 1. Application, citation, commencement and interpretation[^key-1543e0910dd97e8eba2093057b8e1295]
+### 1. Application, citation, commencement and interpretation[^c-1543e0910dd97e8eba2093057b8e1295]
 
 (1) These Regulations, which apply to England only, may be cited as the Non-Domestic Rating (Chargeable Amounts) (England) Regulations 2009 and shall come into force on the day after the day on which they are made.
 
@@ -71,7 +71,7 @@ The Secretary of State, in exercise of the powers conferred by sections 57A, 140
 
 (3) References in these Regulations to the hereditament of a designated person are references to any hereditament or, as the case may be, description or class of hereditaments prescribed under section 53(1) of the Act as respects that designated person.
 
-### 2. Relevant period, relevant day and relevant year[^key-61984c8f6be855b48eb15aebc009327e]
+### 2. Relevant period, relevant day and relevant year[^c-61984c8f6be855b48eb15aebc009327e]
 
 (1) The relevant period in relation to which, in accordance with section 57A of the Act, these Regulations apply, is the period beginning on 1st April 2010 and ending on 31st March 2015.
 
@@ -79,7 +79,7 @@ The Secretary of State, in exercise of the powers conferred by sections 57A, 140
 
 (3) A relevant year is a financial year falling within the relevant period.
 
-### 3. Defined hereditaments[^key-566188c4df416d1b8ef5868b7941698c]
+### 3. Defined hereditaments[^c-566188c4df416d1b8ef5868b7941698c]
 
 (1) Subject to paragraph (3), as regards a relevant day, a hereditament is a defined hereditament if—
 
@@ -100,7 +100,7 @@ The Secretary of State, in exercise of the powers conferred by sections 57A, 140
 
 the conditions in paragraph (2) or paragraphs 1(a), 1(b)(ii) and 1(c) of Schedule 2 shall be treated as fulfilled as respects the whole of the original hereditament for so long as the person continues to be the designated person as respects the original hereditament under section 53(1) of the Act.
 
-### 4. Special authorities[^key-bfa7902d4fbb3a1ccfe99cfa6a0f75fb]
+### 4. Special authorities[^c-bfa7902d4fbb3a1ccfe99cfa6a0f75fb]
 
 (1) This regulation applies in relation to a defined hereditament which is shown in a local list and is situated in the area of a special authority, for a relevant year for which the non-domestic rating multiplier set by the special authority is different from the non-domestic rating multiplier for the year.
 
@@ -171,7 +171,7 @@ were a reference to—
 
 ## PART 2 — Chargeable Amounts
 
-### 5. Notional chargeable amount[^key-ab3224a49281d63f40c7337700dd9ed4]
+### 5. Notional chargeable amount[^c-ab3224a49281d63f40c7337700dd9ed4]
 
 (1) Subject to paragraphs (3) to (5), the notional chargeable amount for a defined hereditament for a relevant year shall be the amount found by applying the formula—
 
@@ -190,7 +190,7 @@ were a reference to—
 
 (5) For a hereditament to which Schedule 2 (splits and mergers) applies, paragraph 7 of that Schedule shall have effect for finding the notional chargeable amount.
 
-### 6. Base liability for 2010-11 for a defined hereditament[^key-8dacbafe725ab8ca4f713ed8d40899c9]
+### 6. Base liability for 2010-11 for a defined hereditament[^c-8dacbafe725ab8ca4f713ed8d40899c9]
 
 (1) Subject to paragraph (3), this regulation applies to a defined hereditament.
 
@@ -207,7 +207,7 @@ where—
 
 (3) For a hereditament to which Schedule 1 (altered hereditaments) applies, paragraph 3 of that Schedule shall have effect for finding the base liability.
 
-### 7. Base liability for years subsequent to 2010-11[^key-24ec10d837669cb764ba8d6146e56f13]
+### 7. Base liability for years subsequent to 2010-11[^c-24ec10d837669cb764ba8d6146e56f13]
 
 (1) Subject to paragraph (2), the base liability for a defined hereditament for a relevant year beginning after the first relevant year (“the year concerned”) shall be found by applying the formula—
 
@@ -220,7 +220,7 @@ where—
 
 (2) For a hereditament to which Schedule 2 (splits and mergers) applies, paragraphs 8 and 9 of that Schedule shall have effect for finding the base liability.
 
-### 8. Appropriate fraction[^key-bf43fff334f5870960439c6fc837b7f0]
+### 8. Appropriate fraction[^c-bf43fff334f5870960439c6fc837b7f0]
 
 (1) Subject to paragraph (7), the appropriate fraction for a defined hereditament for a relevant year shall be found by applying the formula—
 
@@ -299,7 +299,7 @@ then—
 
 this regulation shall have effect subject to the modifications made by the provision concerned.
 
-### 9. Application of regulation 10[^key-f5b5375cffceae9652d82f6b1ab29b2a]
+### 9. Application of regulation 10[^c-f5b5375cffceae9652d82f6b1ab29b2a]
 
 (1) Subject to paragraphs (3) to (6), regulation 10 applies to a defined hereditament for a relevant day (“the day concerned”) if—
 
@@ -328,7 +328,7 @@ this regulation shall have effect subject to the modifications made by the provi
 - (a) as respects a relevant day falling before the day concerned, the value of X for the purposes of determining the appropriate fraction fell to be determined (or if determined again following an alteration of a local or the central list in accordance with regulations made under the Act, fell after that alteration to be determined) in accordance with regulation 8(4) or 8(5), and
 - (b) as respects the day concerned, the value of X for the purposes of determining the appropriate fraction falls to be determined (or if determined again following an alteration of a local or the central list in accordance with regulations made under the Act, falls after that alteration to be determined) in accordance with regulation 8(2) or 8(3).
 
-### 10. Rules for determining chargeable amount[^key-bcada0d1311f55330ce1e253fe703bca]
+### 10. Rules for determining chargeable amount[^c-bcada0d1311f55330ce1e253fe703bca]
 
 (1) Where this regulation applies to a hereditament shown in a local list, the chargeable amount for a chargeable day which is a relevant day shall be found in accordance with paragraphs (3) to (11) in place of the provisions of sections 43(4) to (6A), 44 and 45(4) and (4A) of the Act.
 
@@ -390,7 +390,7 @@ in place of the provisions of section 54(4) to (7) of the Act.
 
 this regulation shall have effect subject to the modifications made in the provision or provisions concerned.
 
-### 11. Change in rateable value after 1st April 2010[^key-fca10083c6c5960b96fae6b591ba59c7]
+### 11. Change in rateable value after 1st April 2010[^c-fca10083c6c5960b96fae6b591ba59c7]
 
 (1) Paragraph (2) applies in respect of a defined hereditament in a case where regulation 10 applies and for a day after 1st April 2010 the rateable value shown in a local list for the hereditament is greater than that shown for it for 1st April 2010.
 
@@ -469,7 +469,7 @@ were a reference to—
 
 this regulation shall have effect subject to the modifications made by the provision or provisions concerned.
 
-### 12. Change in rateable value on 1st April 2010[^key-7f41ef457ce8a447de8be005bd1963f4]
+### 12. Change in rateable value on 1st April 2010[^c-7f41ef457ce8a447de8be005bd1963f4]
 
 (1) This regulation applies where any circumstances regarding a relevant factor taken into account in determining the rateable value shown for a defined hereditament for 1st April 2010 in a local list differ from the circumstances regarding that factor existing on 31st March 2010, so that the rateable value shown for 1st April 2010 is different from that which would have been shown if the circumstances regarding that factor existing on 31st March 2010 continued to exist on 1st April 2010.
 
@@ -480,7 +480,7 @@ this regulation shall have effect subject to the modifications made by the provi
 - (a) the references in paragraphs (1), (3) and (5) of regulation 11 to a rateable value shown for 1st April 2010 were references to the value certified by the appropriate valuation officer to be the rateable value which would have been shown for that day if that value had fallen to be determined as regards the factor mentioned in paragraph (1) by reference to the circumstances existing on 31st March 2010, and
 - (b) the references in paragraphs (1) and (3) of regulation 11 to the rateable value for a day after 1st April 2010 were treated as including a reference to the rateable value actually shown for 1st April 2010.
 
-### 13. Partly occupied hereditaments[^key-fe8876eff0dfee6c34fb26be60fdf9b5]
+### 13. Partly occupied hereditaments[^c-fe8876eff0dfee6c34fb26be60fdf9b5]
 
 (1) As regards a relevant day and a defined hereditament in relation to which an apportionment under section 44A of the Act (partly occupied hereditaments) is applicable, any chargeable amount for the day as respects the hereditament found in accordance with regulation 10 or Schedule 2 (as modified by any provision of these Regulations) shall be treated as multiplied by A and divided by P.
 
@@ -491,7 +491,7 @@ this regulation shall have effect subject to the modifications made by the provi
 
 ## PART 3 — Miscellaneous
 
-### 14. Certificates for changes in rateable value: 1st April 2010[^key-4ba48e917fbd6cc41600f833e4e0230b]
+### 14. Certificates for changes in rateable value: 1st April 2010[^c-4ba48e917fbd6cc41600f833e4e0230b]
 
 (1) This regulation applies where the appropriate valuation officer is of the view (whether following a request from the ratepayer in relation to the hereditament in question or not) that the rateable value shown in a local list in relation to a hereditament for 1st April 2010 is inaccurate on any grounds other than solely on the grounds of a material change of circumstances which occurred on that day.
 
@@ -509,7 +509,7 @@ this regulation shall have effect subject to the modifications made by the provi
 - (a) if a request by the ratepayer has been made before a certificate under paragraph (2) is issued, the days are that on which the certificate is requested and any subsequent relevant day;
 - (b) if a request by the ratepayer has not been made before a certificate under paragraph (2) is issued, the days are that on which the certificate under paragraph (2) is issued and any subsequent relevant day.
 
-### 15. Certificates for change in rateable value: 31st March 2010[^key-5b22e8bd5f875db8aea85420d32927a8]
+### 15. Certificates for change in rateable value: 31st March 2010[^c-5b22e8bd5f875db8aea85420d32927a8]
 
 (1) This regulation applies where the appropriate valuation officer is of the view (whether following a request from the ratepayer in relation to the hereditament in question or not) that the rateable value shown in a local or the central list in relation to a hereditament for 31st March 2010 is inaccurate.
 
@@ -527,7 +527,7 @@ this regulation shall have effect subject to the modifications made by the provi
 - (a) a certificate under regulation 14 has been issued, the days are those referred to in paragraph (4), (5)(a) or (5)(b) of that regulation, as the case may be;
 - (b) no certificate under regulation 14 has been issued, the days are that on which the certificate under paragraph (2) of this regulation is issued and any subsequent day.
 
-### 16. Certification: splits and mergers prior to 1st April 2010[^key-e68dbb034bba81672a0edf0bd2f1cbe3]
+### 16. Certification: splits and mergers prior to 1st April 2010[^c-e68dbb034bba81672a0edf0bd2f1cbe3]
 
 (1) This regulation applies where—
 
@@ -548,15 +548,15 @@ this regulation shall have effect subject to the modifications made by the provi
 - (b) the new hereditament had been shown in the list for that day; and
 - (c) the value certified under paragraph (2) had been the value shown in a local or the central list for that day.
 
-### 17. Certificates: general[^key-33bb1bbd61a44604ef70484db115ab66]
+### 17. Certificates: general[^c-33bb1bbd61a44604ef70484db115ab66]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Appeals against certificates[^key-33bb1bbd61a44604ef70484db115ab66]
+### 18. Appeals against certificates[^c-33bb1bbd61a44604ef70484db115ab66]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Revocations[^key-216d2347b66a4421087876f2f2845797]
+### 19. Revocations[^c-216d2347b66a4421087876f2f2845797]
 
 Regulations 36 and 37 of the Non-Domestic Rating (Chargeable Amounts) Regulations 1999[^f00007] are revoked.
 
@@ -574,7 +574,7 @@ Department for Communities and Local Government
 
 Regulations 1(2), 3(1)(b), 5(4), 6(3), 8(7)(b), 9(2)(a), 11(11)(b)
 
-### 1. Interpretation[^key-473e97e6d61027e7e35e0b8ad98d2b85]
+### 1. Interpretation[^c-473e97e6d61027e7e35e0b8ad98d2b85]
 
 In this Schedule—
 
@@ -584,14 +584,14 @@ In this Schedule—
 
   and the hereditament of which the altered hereditament is so comprised is, in this Schedule, referred to as the “original hereditament”.
 
-### 2. Hereditaments to which Schedule 1 applies[^key-4f706db771fe1e4aaa55664831c9cab1]
+### 2. Hereditaments to which Schedule 1 applies[^c-4f706db771fe1e4aaa55664831c9cab1]
 
 This Schedule applies to an altered hereditament if—
 
 - (a) the original hereditament was deleted from a local list with effect from any day as a result of a structural alteration to that hereditament; and
 - (b) for a day on or after 1st April 2010 the altered hereditament is shown for the first time in a local list following the alteration.
 
-### 3. Altered hereditament: base liability for 2010-11[^key-9134db1279044b030be2ebe179db19cd]
+### 3. Altered hereditament: base liability for 2010-11[^c-9134db1279044b030be2ebe179db19cd]
 
 (1) The base liability for the relevant year beginning in 2010 for an altered hereditament shall be found by applying the formula Y x Z, where—
 
@@ -603,18 +603,18 @@ This Schedule applies to an altered hereditament if—
 - (a) the hereditament had come into existence on 31st March 2010; and
 - (b) the matters referred to in paragraph 2(7) of Schedule 6 to the Act as respects the hereditament were as they were assumed to be on the day on which it was shown for the first time in a local list as mentioned in paragraph 2(b) of this Schedule.
 
-### 4. Altered hereditament: notional chargeable amount[^key-cce8a68f039c98d349fc99f5db2daeff]
+### 4. Altered hereditament: notional chargeable amount[^c-cce8a68f039c98d349fc99f5db2daeff]
 
 (1) The notional chargeable amount for a relevant year for an altered hereditament shall be found by applying the formula A x D—
 
 - A is the rateable value shown for the hereditament for the day for which it is shown for the first time in a local list following the alteration, and
 - D is the small business non-domestic rating multiplier for the relevant year.
 
-### 5. Altered hereditament: application of regulation 9[^key-392e0ff4c6abf744b83f19bb537a67b5]
+### 5. Altered hereditament: application of regulation 9[^c-392e0ff4c6abf744b83f19bb537a67b5]
 
 Regulation 9 shall have effect in relation to an altered hereditament as if paragraph (1)(b)(i) were omitted.
 
-### 6. Altered hereditament: change in rateable value[^key-46d8867b76eb8573d5e5e23add941fda]
+### 6. Altered hereditament: change in rateable value[^c-46d8867b76eb8573d5e5e23add941fda]
 
 Regulations 8 (appropriate fraction) and 11 (change in rateable value after 1st April 2010), shall have effect in relation to an altered hereditament to which this Schedule applies as if for references to 1st April 2010 there were substituted references to the day for which the altered hereditament is shown for the first time in a local list following the alteration.
 
@@ -622,7 +622,7 @@ Regulations 8 (appropriate fraction) and 11 (change in rateable value after 1st 
 
 Regulations 1(2), 3(1)(c),3(3), 4(2), 5(5), 7(2), 8(7)(c),9(4), 11(11)(c), 13(1)
 
-### 1. Cases where this Schedule applies[^key-0fda43b563f916735b65f38cffc47768]
+### 1. Cases where this Schedule applies[^c-0fda43b563f916735b65f38cffc47768]
 
 This Schedule applies where—
 
@@ -638,7 +638,7 @@ This Schedule applies where—
   - (ii) the relevant day (if different from the creation day), and
   - (iii) each day (if any) falling after the creation day and before the relevant day.
 
-### 2. Rules for determination of chargeable amount for new hereditament: splits on 1st April 2010[^key-6aabb46818d5b016f75fade5541beac7]
+### 2. Rules for determination of chargeable amount for new hereditament: splits on 1st April 2010[^c-6aabb46818d5b016f75fade5541beac7]
 
 (1) Subject to paragraph 6 (changes in the value of new hereditament: year of creation), where—
 
@@ -687,7 +687,7 @@ the following provisions of this paragraph shall be used to calculate the charge
 - J is the rateable value shown in a local or the central list for the new hereditament for 1st April 2010; and
 - S is the value certified by the appropriate valuation officer to be the rateable value which would have been shown in a local or the central list for the old hereditament for 1st April 2010 if that hereditament were shown in a local or the central list for that date on the assumption that the relevant factors were as they were for 31st March 2010.
 
-### 3. Rules for determination of chargeable amount for new hereditament: mergers on 1st April 2010[^key-f0c9d550e3ecca5dad8308274099065c]
+### 3. Rules for determination of chargeable amount for new hereditament: mergers on 1st April 2010[^c-f0c9d550e3ecca5dad8308274099065c]
 
 (1) Subject to paragraph 6 (changes in the value of new hereditament: year of creation), where—
 
@@ -736,7 +736,7 @@ the following provisions of this paragraph shall be used to calculate the charge
 - J is the rateable value shown in a local or the central list for the new hereditament for the 1st April 2010; and
 - S is the total of the values certified by the appropriate valuation officer to be the rateable values which would have been shown in a local or the central list for 1st April 2010 for the old hereditaments incorporated or comprised in the new hereditament if they were shown in a local or the central list for that date on the assumption that the relevant factors were as they were for 31st March 2010.
 
-### 4. Rules for determination of chargeable amount for new hereditament: splits after 1st April 2010[^key-66ccdc5fffb6e03585482aca18b5d5a4]
+### 4. Rules for determination of chargeable amount for new hereditament: splits after 1st April 2010[^c-66ccdc5fffb6e03585482aca18b5d5a4]
 
 (1) Subject to paragraph 6 (changes in the value of new hereditament: year of creation), where—
 
@@ -783,7 +783,7 @@ the following provisions of this paragraph shall be used to calculate the charge
 - J is the rateable value shown in a local list or the central list for the new hereditament for the creation day; and
 - S is the rateable value shown in a local or the central list for the old hereditament for the day immediately before the creation day.
 
-### 5. Rules for determining the chargeable amount for new hereditament: mergers after 1st April 2010[^key-e397dacdfef25bc9072b1c625648ce63]
+### 5. Rules for determining the chargeable amount for new hereditament: mergers after 1st April 2010[^c-e397dacdfef25bc9072b1c625648ce63]
 
 (1) Subject to paragraph 6 (changes in the value of new hereditament: year of creation), where—
 
@@ -832,7 +832,7 @@ the following provisions of this paragraph shall be used to calculate the charge
 - J is the rateable value shown in a local or the central list for the new hereditament for the creation day; and
 - S is the total of the rateable values shown in a local or the central list for the day immediately before the creation day for the old hereditaments incorporated or comprised in the new hereditament.
 
-### 6. Changes in the value of new hereditament: year of creation[^key-c167cca85d1600a160d81d054e8b472b]
+### 6. Changes in the value of new hereditament: year of creation[^c-c167cca85d1600a160d81d054e8b472b]
 
 (1) Sub-paragraph (2) applies in respect of a new hereditament in a year in which the creation day falls where for a chargeable day after the creation day the rateable value shown in a local or the central list for the hereditament is greater than that shown for the creation day.
 
@@ -861,7 +861,7 @@ were a reference to—
 - N is the rateable value shown for the new hereditament for the chargeable day in a local or the central list; and
 - R, J and S have the same meanings given by paragraph 2, 3, 4 or 5, as the case may be.
 
-### 7. Notional chargeable amount for new hereditament[^key-1ef5330992b81addffce53d932058201]
+### 7. Notional chargeable amount for new hereditament[^c-1ef5330992b81addffce53d932058201]
 
 (1) This paragraph applies for determining the notional chargeable amount for a new hereditament for a relevant year falling after the year in which the creation day falls.
 
@@ -872,7 +872,7 @@ where—
 - J is the rateable value shown in a local or the central list for the new hereditament for the creation day; and
 - D is the small business non-domestic rating multiplier for the relevant year.
 
-### 8. Base liability for year after year in which creation day falls[^key-bbcd9275fc515b4cc1f60c259f4d042c]
+### 8. Base liability for year after year in which creation day falls[^c-bbcd9275fc515b4cc1f60c259f4d042c]
 
 (1) This paragraph applies for determining the base liability for a new hereditament for the relevant year which falls immediately after the year in which the creation day falls.
 
@@ -891,7 +891,7 @@ where—
 - J is the rateable value shown in a local or the central list for the new hereditament for the creation day; and
 - C is the number of days in the relevant year in which the creation day falls.
 
-### 9. Base liability for subsequent years for new hereditament[^key-70eb414f6d010d6a3c708b7bac3604a9]
+### 9. Base liability for subsequent years for new hereditament[^c-70eb414f6d010d6a3c708b7bac3604a9]
 
 (1) This paragraph applies for determining the base liability for a hereditament to which this Schedule applies for any relevant year falling after the relevant year referred to in paragraph 8(1).
 
@@ -899,7 +899,7 @@ where—
 
 (3) For the purposes of this paragraph, BL and AF have the meanings given by regulation 7.
 
-### 10. Rateable value: hereditament split or merged after 1st April 2010[^key-2504c41bb72a9e00b865e1196d975c73]
+### 10. Rateable value: hereditament split or merged after 1st April 2010[^c-2504c41bb72a9e00b865e1196d975c73]
 
 Regulations 8 (appropriate fraction) and 11 (change in rateable value after 1st April 2010), ignoring any modifications made by regulation 12, shall have effect in relation to a new hereditament as if for references to 1st April 2010 there were substituted references to the creation day.
 
@@ -949,15 +949,15 @@ Schedule 2 makes provision, in place of Part 2, for cases where a hereditament s
 
 [^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). Section 57A was inserted by section 65 of the Local Government Act [2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26) and section 143(4) was amended by paragraphs 9 and 24(1) and (3) of Schedule 7 to the same Act.
 
-[^key-1543e0910dd97e8eba2093057b8e1295]: Commencement: Reg. 1 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-1543e0910dd97e8eba2093057b8e1295]: Commencement: Reg. 1 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2009/2269](https://www.legislation.gov.uk/uksi/2009/2269)
 
-[^key-61984c8f6be855b48eb15aebc009327e]: Commencement: Reg. 2 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-61984c8f6be855b48eb15aebc009327e]: Commencement: Reg. 2 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-566188c4df416d1b8ef5868b7941698c]: Commencement: Reg. 3 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-566188c4df416d1b8ef5868b7941698c]: Commencement: Reg. 3 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-bfa7902d4fbb3a1ccfe99cfa6a0f75fb]: Commencement: Reg. 4 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-bfa7902d4fbb3a1ccfe99cfa6a0f75fb]: Commencement: Reg. 4 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
 [^f00003]: Footnote: Section 43(4B) was inserted by section 61(3) of the Local Government Act 2003.
 
@@ -967,64 +967,64 @@ Schedule 2 makes provision, in place of Part 2, for cases where a hereditament s
 
 [^f00006]: Footnote: Section 45(4A) was inserted by section 1(1) of the Rating (Empty Properties) Act [2007 (c. 9)](https://www.legislation.gov.uk/ukpga/2007/9).
 
-[^key-ab3224a49281d63f40c7337700dd9ed4]: Commencement: Reg. 5 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-ab3224a49281d63f40c7337700dd9ed4]: Commencement: Reg. 5 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-8dacbafe725ab8ca4f713ed8d40899c9]: Commencement: Reg. 6 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-8dacbafe725ab8ca4f713ed8d40899c9]: Commencement: Reg. 6 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-24ec10d837669cb764ba8d6146e56f13]: Commencement: Reg. 7 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-24ec10d837669cb764ba8d6146e56f13]: Commencement: Reg. 7 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-bf43fff334f5870960439c6fc837b7f0]: Commencement: Reg. 8 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-bf43fff334f5870960439c6fc837b7f0]: Commencement: Reg. 8 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-f5b5375cffceae9652d82f6b1ab29b2a]: Commencement: Reg. 9 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-f5b5375cffceae9652d82f6b1ab29b2a]: Commencement: Reg. 9 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-bcada0d1311f55330ce1e253fe703bca]: Commencement: Reg. 10 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-bcada0d1311f55330ce1e253fe703bca]: Commencement: Reg. 10 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-fca10083c6c5960b96fae6b591ba59c7]: Commencement: Reg. 11 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-fca10083c6c5960b96fae6b591ba59c7]: Commencement: Reg. 11 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-7f41ef457ce8a447de8be005bd1963f4]: Commencement: Reg. 12 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-7f41ef457ce8a447de8be005bd1963f4]: Commencement: Reg. 12 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-fe8876eff0dfee6c34fb26be60fdf9b5]: Commencement: Reg. 13 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-fe8876eff0dfee6c34fb26be60fdf9b5]: Commencement: Reg. 13 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-4ba48e917fbd6cc41600f833e4e0230b]: Commencement: Reg. 14 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-4ba48e917fbd6cc41600f833e4e0230b]: Commencement: Reg. 14 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-5b22e8bd5f875db8aea85420d32927a8]: Commencement: Reg. 15 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-5b22e8bd5f875db8aea85420d32927a8]: Commencement: Reg. 15 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-e68dbb034bba81672a0edf0bd2f1cbe3]: Commencement: Reg. 16 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-e68dbb034bba81672a0edf0bd2f1cbe3]: Commencement: Reg. 16 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-33bb1bbd61a44604ef70484db115ab66]: Textual amendment: [Regs. 17](https://www.legislation.gov.uk/uksi/2009/3343/regulation/17), [18](https://www.legislation.gov.uk/uksi/2009/3343/regulation/18) revoked (1.4.2023) by The Non-[Domestic Rating (Chargeable Amounts) (England) Regulations 2022 (S.I. 2022/1403)](https://www.legislation.gov.uk/uksi/2022/1403), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/1403/regulation/2/1), [25(1)](https://www.legislation.gov.uk/uksi/2022/1403/regulation/25/1) (with [regs. 4](https://www.legislation.gov.uk/uksi/2022/1403/regulation/4), [25(2)](https://www.legislation.gov.uk/uksi/2022/1403/regulation/25/2))
+[^c-33bb1bbd61a44604ef70484db115ab66]: Textual amendment: [Regs. 17](https://www.legislation.gov.uk/uksi/2009/3343/regulation/17), [18](https://www.legislation.gov.uk/uksi/2009/3343/regulation/18) revoked (1.4.2023) by The Non-[Domestic Rating (Chargeable Amounts) (England) Regulations 2022 (S.I. 2022/1403)](https://www.legislation.gov.uk/uksi/2022/1403), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/1403/regulation/2/1), [25(1)](https://www.legislation.gov.uk/uksi/2022/1403/regulation/25/1) (with [regs. 4](https://www.legislation.gov.uk/uksi/2022/1403/regulation/4), [25(2)](https://www.legislation.gov.uk/uksi/2022/1403/regulation/25/2))
 
-[^key-216d2347b66a4421087876f2f2845797]: Commencement: Reg. 19 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-216d2347b66a4421087876f2f2845797]: Commencement: Reg. 19 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 1999/3379](https://www.legislation.gov.uk/uksi/1999/3379); relevant amending instruments are [S.I. 2000/936](https://www.legislation.gov.uk/uksi/2000/936), [S.I. 2004/1297](https://www.legislation.gov.uk/uksi/2004/1297).
 
-[^key-473e97e6d61027e7e35e0b8ad98d2b85]: Commencement: Sch. 1 para. 1 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-473e97e6d61027e7e35e0b8ad98d2b85]: Commencement: Sch. 1 para. 1 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-4f706db771fe1e4aaa55664831c9cab1]: Commencement: Sch. 1 para. 2 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-4f706db771fe1e4aaa55664831c9cab1]: Commencement: Sch. 1 para. 2 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-9134db1279044b030be2ebe179db19cd]: Commencement: Sch. 1 para. 3 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-9134db1279044b030be2ebe179db19cd]: Commencement: Sch. 1 para. 3 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-cce8a68f039c98d349fc99f5db2daeff]: Commencement: Sch. 1 para. 4 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-cce8a68f039c98d349fc99f5db2daeff]: Commencement: Sch. 1 para. 4 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-392e0ff4c6abf744b83f19bb537a67b5]: Commencement: Sch. 1 para. 5 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-392e0ff4c6abf744b83f19bb537a67b5]: Commencement: Sch. 1 para. 5 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-46d8867b76eb8573d5e5e23add941fda]: Commencement: Sch. 1 para. 6 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-46d8867b76eb8573d5e5e23add941fda]: Commencement: Sch. 1 para. 6 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-0fda43b563f916735b65f38cffc47768]: Commencement: Sch. 2 para. 1 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-0fda43b563f916735b65f38cffc47768]: Commencement: Sch. 2 para. 1 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-6aabb46818d5b016f75fade5541beac7]: Commencement: Sch. 2 para. 2 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-6aabb46818d5b016f75fade5541beac7]: Commencement: Sch. 2 para. 2 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-f0c9d550e3ecca5dad8308274099065c]: Commencement: Sch. 2 para. 3 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-f0c9d550e3ecca5dad8308274099065c]: Commencement: Sch. 2 para. 3 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-66ccdc5fffb6e03585482aca18b5d5a4]: Commencement: Sch. 2 para. 4 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-66ccdc5fffb6e03585482aca18b5d5a4]: Commencement: Sch. 2 para. 4 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-e397dacdfef25bc9072b1c625648ce63]: Commencement: Sch. 2 para. 5 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-e397dacdfef25bc9072b1c625648ce63]: Commencement: Sch. 2 para. 5 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-c167cca85d1600a160d81d054e8b472b]: Commencement: Sch. 2 para. 6 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-c167cca85d1600a160d81d054e8b472b]: Commencement: Sch. 2 para. 6 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-1ef5330992b81addffce53d932058201]: Commencement: Sch. 2 para. 7 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-1ef5330992b81addffce53d932058201]: Commencement: Sch. 2 para. 7 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-bbcd9275fc515b4cc1f60c259f4d042c]: Commencement: Sch. 2 para. 8 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-bbcd9275fc515b4cc1f60c259f4d042c]: Commencement: Sch. 2 para. 8 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-70eb414f6d010d6a3c708b7bac3604a9]: Commencement: Sch. 2 para. 9 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-70eb414f6d010d6a3c708b7bac3604a9]: Commencement: Sch. 2 para. 9 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
 
-[^key-2504c41bb72a9e00b865e1196d975c73]: Commencement: Sch. 2 para. 10 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)
+[^c-2504c41bb72a9e00b865e1196d975c73]: Commencement: Sch. 2 para. 10 in force at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3343/regulation/1/1)

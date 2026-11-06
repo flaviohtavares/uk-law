@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106B. Savings provision – information received by virtue of the PNR Directive[^M_I_fa23beac-be7b-4f27-879d-a7929642c8e4][^key-af75f404e098632825147c6420173792]
+## 106B. Savings provision – information received by virtue of the PNR Directive[^M_I_fa23beac-be7b-4f27-879d-a7929642c8e4][^c-af75f404e098632825147c6420173792]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 [^M_I_fa23beac-be7b-4f27-879d-a7929642c8e4]: Commencement: Reg. 106B in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-af75f404e098632825147c6420173792]: Textual amendment: Regs. 106A, 106B inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [31](https://www.legislation.gov.uk/uksi/2020/1408/regulation/31)
+[^c-af75f404e098632825147c6420173792]: Textual amendment: Regs. 106A, 106B inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [31](https://www.legislation.gov.uk/uksi/2020/1408/regulation/31)

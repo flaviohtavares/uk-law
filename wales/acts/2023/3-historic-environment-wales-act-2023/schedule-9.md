@@ -22,7 +22,7 @@ summary: ''
 
 (introduced by section 112)
 
-### 1. Response to purchase notice by planning authority[^key-c1f9b330355a17bb5704ad333167c549][^key-8559807239fc02c85fd81a3bcffada9f]
+### 1. Response to purchase notice by planning authority[^c-c1f9b330355a17bb5704ad333167c549][^c-8559807239fc02c85fd81a3bcffada9f]
 
 (1) Where a person has served a purchase notice on a planning authority, the authority must serve an acceptance notice or rejection notice on the person.
 
@@ -50,7 +50,7 @@ summary: ''
 
 (7) A notice to treat which is treated as having been served by virtue of sub-paragraph (5)(b) may not be withdrawn under section 31 of the [Land Compensation Act 1961 (c. 33)](https://www.legislation.gov.uk/ukpga/1961/33).
 
-### 2. Action to be taken by Welsh Ministers on rejection of purchase notice by planning authority[^key-18080ee73f703dbf69e107ca48350352][^key-470f7a2c6079aea29e6fd3d14ec5b68c]
+### 2. Action to be taken by Welsh Ministers on rejection of purchase notice by planning authority[^c-18080ee73f703dbf69e107ca48350352][^c-470f7a2c6079aea29e6fd3d14ec5b68c]
 
 (1) This paragraph applies where a copy of a purchase notice is sent to the Welsh Ministers under paragraph 1(6).
 
@@ -86,7 +86,7 @@ but this is subject to the following provisions.
 
 (9) In this paragraph references to the land to which a purchase notice relates are to the listed building and associated land (if any) in respect of which the notice is served.
 
-### 3. Procedure before Welsh Ministers take action in relation to purchase notice[^key-33d43a4293a58c09709371b8dd97eee4][^key-4cc90f5a1dfbb89c8d282d0f2a8237bd]
+### 3. Procedure before Welsh Ministers take action in relation to purchase notice[^c-33d43a4293a58c09709371b8dd97eee4][^c-4cc90f5a1dfbb89c8d282d0f2a8237bd]
 
 (1) Before taking any action in relation to a purchase notice under paragraph 2, the Welsh Ministers must serve notice of their proposed action—
 
@@ -96,13 +96,13 @@ but this is subject to the following provisions.
 
 (2) A notice under sub-paragraph (1) must specify the period within which any of the persons on whom it is served may make a request in writing to the Welsh Ministers for an opportunity to appear before and be heard by a person appointed by the Welsh Ministers.
 
-(3) If a person on whom the notice is served makes a request within that period, the Welsh Ministers must give each of the persons on whom it was served[^key-09ba2c77e45709dfe61ead59031a3707] such an opportunity before they take any action in relation to the purchase notice under paragraph 2.
+(3) If a person on whom the notice is served makes a request within that period, the Welsh Ministers must give each of the persons on whom it was served[^c-09ba2c77e45709dfe61ead59031a3707] such an opportunity before they take any action in relation to the purchase notice under paragraph 2.
 
 (4) The period specified under sub-paragraph (2) must be at least 28 days beginning with the day after the day the notice under sub-paragraph (1) is served.
 
 (5) If, after any persons have appeared before and been heard by an appointed person, the Welsh Ministers consider it appropriate to take action under paragraph 2 otherwise than in accordance with the notice served under sub-paragraph (1), they may do so.
 
-### 4. Effect of Welsh Ministers’ action in relation to purchase notice[^key-e2fb44c838a9c1af5887d142ee3fe050][^key-310dac4b53939da61587ea570ade7913]
+### 4. Effect of Welsh Ministers’ action in relation to purchase notice[^c-e2fb44c838a9c1af5887d142ee3fe050][^c-310dac4b53939da61587ea570ade7913]
 
 (1) Where the Welsh Ministers confirm a purchase notice, the authority mentioned in sub-paragraph (2) is to be treated—
 
@@ -137,17 +137,17 @@ but this is subject to the following provisions.
 
 (8) In this paragraph references to the land to which a purchase notice relates are to the listed building and associated land (if any) in respect of which the notice is served.
 
-### 5. Legal challenge to Welsh Ministers’ action in relation to purchase notice[^key-85b1fd87128963a4975f014d6633baf1][^key-17c574d1c6bda0de5a887a3ae84d87de]
+### 5. Legal challenge to Welsh Ministers’ action in relation to purchase notice[^c-85b1fd87128963a4975f014d6633baf1][^c-17c574d1c6bda0de5a887a3ae84d87de]
 
 (1) If a decision of the Welsh Ministers to take any action in relation to a purchase notice under paragraph 2 is quashed in proceedings under section 183, the purchase notice is to be treated as cancelled, but the person who served it may serve a further purchase notice.
 
 (2) For the purpose of determining whether the further purchase notice has been served within the time specified in section 111(1), the decision to which the notice relates is to be treated as having been made, or the order to which it relates is to be treated as having taken effect, on the day the Welsh Ministers’ decision was quashed.
 
-### 6. Deduction of compensation payable under section 108 on acquisition[^key-5a5c569eff635cc36b9f419206e00e67][^key-9761fd0fe9c0f5fd7ad9dd0569b5bfb2]
+### 6. Deduction of compensation payable under section 108 on acquisition[^c-5a5c569eff635cc36b9f419206e00e67][^c-9761fd0fe9c0f5fd7ad9dd0569b5bfb2]
 
 Where compensation is payable under section 108 (compensation where consent is modified or revoked) for expenditure incurred in carrying out works to a listed building, any compensation that becomes payable in respect of the acquisition of an interest in the building and any associated land in pursuance of a purchase notice must be reduced by the amount of the compensation relating to the works.
 
-### 7. Interpretation of Schedule[^key-4366dcff60a10c22484ec6965053cc0b][^key-8ab0e2f2e9d1b38644ef22b564173380]
+### 7. Interpretation of Schedule[^c-4366dcff60a10c22484ec6965053cc0b][^c-8ab0e2f2e9d1b38644ef22b564173380]
 
 (1) In this Schedule—
 
@@ -161,32 +161,32 @@ Where compensation is payable under section 108 (compensation where consent is m
 
 ## Annotations
 
-[^key-c1f9b330355a17bb5704ad333167c549]: Commencement: Sch. 9 para. 1 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-c1f9b330355a17bb5704ad333167c549]: Commencement: Sch. 9 para. 1 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-8559807239fc02c85fd81a3bcffada9f]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/asc/2023/3/schedule/9/paragraph/1) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-8559807239fc02c85fd81a3bcffada9f]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/asc/2023/3/schedule/9/paragraph/1) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-18080ee73f703dbf69e107ca48350352]: Commencement: Sch. 9 para. 2 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-18080ee73f703dbf69e107ca48350352]: Commencement: Sch. 9 para. 2 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-470f7a2c6079aea29e6fd3d14ec5b68c]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/asc/2023/3/schedule/9/paragraph/2) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-470f7a2c6079aea29e6fd3d14ec5b68c]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/asc/2023/3/schedule/9/paragraph/2) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-33d43a4293a58c09709371b8dd97eee4]: Commencement: Sch. 9 para. 3 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-33d43a4293a58c09709371b8dd97eee4]: Commencement: Sch. 9 para. 3 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-4cc90f5a1dfbb89c8d282d0f2a8237bd]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/asc/2023/3/schedule/9/paragraph/3) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-4cc90f5a1dfbb89c8d282d0f2a8237bd]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/asc/2023/3/schedule/9/paragraph/3) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-09ba2c77e45709dfe61ead59031a3707]: Textual amendment: Words in [Sch. 9 para. 3(3)](https://www.legislation.gov.uk/asc/2023/3/schedule/9/paragraph/3/3) substituted (28.4.2026) by [Planning (Consequential Provisions) (Wales) Act 2026 (asc 7)](https://www.legislation.gov.uk/asc/2026/7), [s. 5(1)](https://www.legislation.gov.uk/asc/2026/7/section/5/1), [Sch. 3 para. 66](https://www.legislation.gov.uk/asc/2026/7/schedule/3/paragraph/66) (with [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asc/2026/7/schedule/5/part/1))
+[^c-09ba2c77e45709dfe61ead59031a3707]: Textual amendment: Words in [Sch. 9 para. 3(3)](https://www.legislation.gov.uk/asc/2023/3/schedule/9/paragraph/3/3) substituted (28.4.2026) by [Planning (Consequential Provisions) (Wales) Act 2026 (asc 7)](https://www.legislation.gov.uk/asc/2026/7), [s. 5(1)](https://www.legislation.gov.uk/asc/2026/7/section/5/1), [Sch. 3 para. 66](https://www.legislation.gov.uk/asc/2026/7/schedule/3/paragraph/66) (with [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asc/2026/7/schedule/5/part/1))
 
-[^key-e2fb44c838a9c1af5887d142ee3fe050]: Commencement: Sch. 9 para. 4 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-e2fb44c838a9c1af5887d142ee3fe050]: Commencement: Sch. 9 para. 4 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-310dac4b53939da61587ea570ade7913]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/asc/2023/3/schedule/9/paragraph/4) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-310dac4b53939da61587ea570ade7913]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/asc/2023/3/schedule/9/paragraph/4) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-85b1fd87128963a4975f014d6633baf1]: Commencement: Sch. 9 para. 5 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-85b1fd87128963a4975f014d6633baf1]: Commencement: Sch. 9 para. 5 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-17c574d1c6bda0de5a887a3ae84d87de]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/asc/2023/3/schedule/9/paragraph/5) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-17c574d1c6bda0de5a887a3ae84d87de]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/asc/2023/3/schedule/9/paragraph/5) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-5a5c569eff635cc36b9f419206e00e67]: Commencement: Sch. 9 para. 6 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-5a5c569eff635cc36b9f419206e00e67]: Commencement: Sch. 9 para. 6 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-9761fd0fe9c0f5fd7ad9dd0569b5bfb2]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/asc/2023/3/schedule/9/paragraph/6) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-9761fd0fe9c0f5fd7ad9dd0569b5bfb2]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/asc/2023/3/schedule/9/paragraph/6) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-4366dcff60a10c22484ec6965053cc0b]: Commencement: Sch. 9 para. 7 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-4366dcff60a10c22484ec6965053cc0b]: Commencement: Sch. 9 para. 7 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-8ab0e2f2e9d1b38644ef22b564173380]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/asc/2023/3/schedule/9/paragraph/7) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-8ab0e2f2e9d1b38644ef22b564173380]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/asc/2023/3/schedule/9/paragraph/7) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)

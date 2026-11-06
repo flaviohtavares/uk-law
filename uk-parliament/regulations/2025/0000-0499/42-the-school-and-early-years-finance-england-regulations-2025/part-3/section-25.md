@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Additional criteria: schools[^key-bc3ce6a14fb63e9153eb4529933f5050]
+## 25. Additional criteria: schools[^c-bc3ce6a14fb63e9153eb4529933f5050]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ which may be determined on the basis of actual or estimated cost.
 
 ## Annotations
 
-[^key-bc3ce6a14fb63e9153eb4529933f5050]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2025/42/regulation/25) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-bc3ce6a14fb63e9153eb4529933f5050]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2025/42/regulation/25) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 109. Charge for copy documents[^key-2cf5b1f384eb3624a4e391d273b3b03a]
+## 109. Charge for copy documents[^c-2cf5b1f384eb3624a4e391d273b3b03a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where in PPP administration proceedings the special PPP administrator is request
 
 ## Annotations
 
-[^key-2cf5b1f384eb3624a4e391d273b3b03a]: Commencement: [Rule 109](https://www.legislation.gov.uk/uksi/2007/3141/rule/109) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-2cf5b1f384eb3624a4e391d273b3b03a]: Commencement: [Rule 109](https://www.legislation.gov.uk/uksi/2007/3141/rule/109) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

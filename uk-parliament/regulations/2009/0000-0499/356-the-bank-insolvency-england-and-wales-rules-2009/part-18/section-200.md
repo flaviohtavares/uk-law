@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 200. Nomination and appointment of shorthand writers[^key-004c2dcfa7b48ef2981df8f3b7affce3]
+## 200. Nomination and appointment of shorthand writers[^c-004c2dcfa7b48ef2981df8f3b7affce3]
 
 *Extent: E+W*
 
@@ -24,12 +24,12 @@ summary: ''
 
 (2) In paragraph (1) leave out “and, in a county court, the registrar”.
 
-(3) In paragraph (2) leave out “133” and “251N,[^key-cb3d4f9ea7be6c387e08a5598094266b] 290 or 366”.
+(3) In paragraph (2) leave out “133” and “251N,[^c-cb3d4f9ea7be6c387e08a5598094266b] 290 or 366”.
 
 (4) Ignore paragraph (3).
 
 ## Annotations
 
-[^key-004c2dcfa7b48ef2981df8f3b7affce3]: Commencement: Rule 200 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-004c2dcfa7b48ef2981df8f3b7affce3]: Commencement: Rule 200 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
-[^key-cb3d4f9ea7be6c387e08a5598094266b]: Textual amendment: Word in [rule 200(3)](https://www.legislation.gov.uk/uksi/2009/356/rule/200/3) inserted (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [62](https://www.legislation.gov.uk/uksi/2010/2579/rule/62)
+[^c-cb3d4f9ea7be6c387e08a5598094266b]: Textual amendment: Word in [rule 200(3)](https://www.legislation.gov.uk/uksi/2009/356/rule/200/3) inserted (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [62](https://www.legislation.gov.uk/uksi/2010/2579/rule/62)

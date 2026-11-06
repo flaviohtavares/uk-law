@@ -33,7 +33,7 @@ This SSI has been made in consequence of a defect in [S.S.I. 2021/155](https://w
 
 Representation Of The People
 
-The Scottish Parliament Elections (Returning Officer Fees and Charges) Amendment Regulations 2021 (revoked)[^key-d0d674ed665ce9c5e837ad835425318c]
+The Scottish Parliament Elections (Returning Officer Fees and Charges) Amendment Regulations 2021 (revoked)[^c-d0d674ed665ce9c5e837ad835425318c]
 
 Made
 
@@ -47,24 +47,24 @@ Coming into force
 
 6th April 2021
 
-[^key-d0d674ed665ce9c5e837ad835425318c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d0d674ed665ce9c5e837ad835425318c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d0d674ed665ce9c5e837ad835425318c]
+## 1. Citation and commencement[^c-d0d674ed665ce9c5e837ad835425318c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Scottish Parliament Elections (Returning Officer Fees and Charges) Regulations 2021[^key-d0d674ed665ce9c5e837ad835425318c]
+## 2. Amendment of the Scottish Parliament Elections (Returning Officer Fees and Charges) Regulations 2021[^c-d0d674ed665ce9c5e837ad835425318c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0d674ed665ce9c5e837ad835425318c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d0d674ed665ce9c5e837ad835425318c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d0d674ed665ce9c5e837ad835425318c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d0d674ed665ce9c5e837ad835425318c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d0d674ed665ce9c5e837ad835425318c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2021/165) revoked (7.4.2026) by [The Scottish Parliament Elections (Returning Officer Fees and Charges) Regulations 2025 (S.S.I. 2025/394)](https://www.legislation.gov.uk/ssi/2025/394), [regs. 1](https://www.legislation.gov.uk/ssi/2025/394/regulation/1), [10(b)](https://www.legislation.gov.uk/ssi/2025/394/regulation/10/b)
+[^c-d0d674ed665ce9c5e837ad835425318c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2021/165) revoked (7.4.2026) by [The Scottish Parliament Elections (Returning Officer Fees and Charges) Regulations 2025 (S.S.I. 2025/394)](https://www.legislation.gov.uk/ssi/2025/394), [regs. 1](https://www.legislation.gov.uk/ssi/2025/394/regulation/1), [10(b)](https://www.legislation.gov.uk/ssi/2025/394/regulation/10/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 227. Interpretation of Part 11[^key-b6fb4d827b607bdfec1eef7cbf47ea6a]
+## 227. Interpretation of Part 11[^c-b6fb4d827b607bdfec1eef7cbf47ea6a]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In this Part—
 
 ## Annotations
 
-[^key-b6fb4d827b607bdfec1eef7cbf47ea6a]: Commencement: S. 227 in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/8)
+[^c-b6fb4d827b607bdfec1eef7cbf47ea6a]: Commencement: S. 227 in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/8)

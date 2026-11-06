@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Power to advance from capital[^key-6e8230fbeacdbaf15a0c5c614b7924bb]
+## 24. Power to advance from capital[^c-6e8230fbeacdbaf15a0c5c614b7924bb]
 
 *Extent: S*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e8230fbeacdbaf15a0c5c614b7924bb]: Commencement: S. 24 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-6e8230fbeacdbaf15a0c5c614b7924bb]: Commencement: S. 24 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

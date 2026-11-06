@@ -258,7 +258,7 @@ Reduction of application fee
 
 ### PART 1 — Introduction
 
-#### 1. Interpretation of Schedule 7[^key-b24edc67b2e41c260f6bd79e1b3b74e5]
+#### 1. Interpretation of Schedule 7[^c-b24edc67b2e41c260f6bd79e1b3b74e5]
 
 In this Schedule—
 
@@ -268,25 +268,25 @@ In this Schedule—
   - (a) in the case of an immunological product, they have a lesser number of antigens than the first product, but only contain antigens contained in the first product; and
   - (b) in the case of a pharmaceutical product, they have different strengths of the active substance, and, in the case of an application involving more than one member State, the additional applications do not include a member State that was not included in the first application.
 
-#### 2. Payment of fees[^key-4e8c24947ee757cb750650c30940c314]
+#### 2. Payment of fees[^c-4e8c24947ee757cb750650c30940c314]
 
 All fees under this Schedule are payable to the Secretary of State.
 
-#### 3. Time of payment[^key-19b92074948f43d618c78ce0a5e1105d]
+#### 3. Time of payment[^c-19b92074948f43d618c78ce0a5e1105d]
 
 All fees are payable on invoice unless otherwise specified.
 
-#### 4. Multiple inspections[^key-edc3472a517f40c6fd73357a317667a6]
+#### 4. Multiple inspections[^c-edc3472a517f40c6fd73357a317667a6]
 
 If a site is inspected for more than one type of authorisation at the same time, only one fee (the highest) is payable.
 
-#### 5. Translation[^key-98a4328b3b2cc5b31008c277decedf6f]
+#### 5. Translation[^c-98a4328b3b2cc5b31008c277decedf6f]
 
 All translation costs are charged additionally.
 
 ### PART 2 — Fees relating to marketing authorisations
 
-#### 6. Fees for specified pharmaceutical applications[^key-be92a03b7924cbeacebfd424a170e22c]
+#### 6. Fees for specified pharmaceutical applications[^c-be92a03b7924cbeacebfd424a170e22c]
 
 The following table sets out the fees relating to a pharmaceutical veterinary medicinal product for—
 
@@ -360,7 +360,7 @@ The following table sets out the fees relating to a pharmaceutical veterinary me
   </tbody>
   </table>
 
-#### 7. Decentralised pharmaceutical application where the United Kingdom is the reference member State[^key-ed13814c5590515291479176fe016b2a]
+#### 7. Decentralised pharmaceutical application where the United Kingdom is the reference member State[^c-ed13814c5590515291479176fe016b2a]
 
 (1) The fee for a decentralised application for a pharmaceutical product where the United Kingdom is the reference member State is the same as for a national application as set out in the table in paragraph 6, with the addition of the fees in the following table.
 
@@ -374,7 +374,7 @@ The following table sets out the fees relating to a pharmaceutical veterinary me
 
 (2) In the case of a simultaneous application, the fee for each additional product in the application is £6,400 for one concerned member State and £110 for each additional concerned member State.
 
-#### 8. Application for a marketing authorisation for an immunological product[^key-1633e2aa3b96b604a7d4cfeb0f30d364]
+#### 8. Application for a marketing authorisation for an immunological product[^c-1633e2aa3b96b604a7d4cfeb0f30d364]
 
 (1) The fee for a national application for a marketing authorisation relating to an immunological product, a decentralised application where the United Kingdom is the concerned member State or the mutual recognition of a product authorised in another member State is in accordance with the following table.
 
@@ -392,13 +392,13 @@ The following table sets out the fees relating to a pharmaceutical veterinary me
 
 (2) The fee for an application for a marketing authorisation for an immunological product that is identical to a product already authorised in the United Kingdom but with a lesser number of antigens and which only contains antigens contained in the product already authorised is £10,020 (United Kingdom only) or £5,170 (decentralised application where the United Kingdom is a concerned member State).
 
-#### 9. Decentralised immunological application where the United Kingdom is the reference member State[^key-da059e3719c3eb1759029f4e7a3146c0]
+#### 9. Decentralised immunological application where the United Kingdom is the reference member State[^c-da059e3719c3eb1759029f4e7a3146c0]
 
 (1) The fee for a decentralised application for a marketing authorisation for an immunological product where the United Kingdom is the reference member State is the same as for a national application as set out in the table in paragraph 8(1), with the additions of £3,330 for one concerned member State and £510 for each additional concerned member State.
 
 (2) In the case of a simultaneous application the fee for each additional product in the application is £6,400 for one concerned member State and £110 for each additional concerned member State.
 
-#### 10. Application for a marketing authorisation using identical data[^key-6345bcb2cbcda8824310999aea25d419]
+#### 10. Application for a marketing authorisation using identical data[^c-6345bcb2cbcda8824310999aea25d419]
 
 The fee for an application for a marketing authorisation using identical data is in accordance with the following table.
 
@@ -411,7 +411,7 @@ The fee for an application for a marketing authorisation using identical data is
 | - one concerned member State: | 4,000 |
 | - each additional concerned member State: | 510 |
 
-#### 11. Application for a provisional marketing authorisation[^key-91edff3a9b0979b35c18b728d1baf584]
+#### 11. Application for a provisional marketing authorisation[^c-91edff3a9b0979b35c18b728d1baf584]
 
 The fee for an application for a provisional marketing authorisation is the same as that for a full national marketing authorisation in paragraph 6 (in the case of a pharmaceutical product) or the fee for a national application in paragraph 8 (in the case of an immunological product), and the fee for its conversion into a full marketing authorisation is—
 
@@ -420,7 +420,7 @@ The fee for an application for a provisional marketing authorisation is the same
   - (ii) if the application for the provisional marketing authorisation was made before 1st October 2006, £10,705; and
 - (b) in any other case the same fee as for the provisional marketing authorisation.
 
-#### 12. Application for a marketing authorisation relating to a parallel import[^key-e03ec7d2237e747981af1955daed97a5]
+#### 12. Application for a marketing authorisation relating to a parallel import[^c-e03ec7d2237e747981af1955daed97a5]
 
 The fee for a marketing authorisation for a parallel import is in accordance with the following table.
 
@@ -433,7 +433,7 @@ The fee for a marketing authorisation for a parallel import is in accordance wit
 | - each additional member State: | 340 |
 | Any other application—fee for each member State from which the product is imported: | 2,050 |
 
-#### 13. Application for a variation[^key-c4f123a8e2a5965998ff4766d270449b]
+#### 13. Application for a variation[^c-c4f123a8e2a5965998ff4766d270449b]
 
 (1) An applicant must make a separate application for a variation for each change in the marketing authorisation (unless a change is a direct consequence of the first change) and the appropriate fee is payable for each application.
 
@@ -469,7 +469,7 @@ The fee for a marketing authorisation for a parallel import is in accordance wit
 | - (i) Approval of a mock-up for an authorised pack size— | The pack size is already authorised<br>No new studies are required to support the change and no other aspect of the dossier is changed | 835 |
 | - (j) Changes to the summary of product characteristics and product literature of a Marketing Authorisation for Parallel Import as a direct consequence of the approval of a variation to the summary of product characteristics and product literature for the United Kingdom authorised product— | The only changes to the summary of product characteristics and product literature are those required to bring the marketing authorisation for parallel import back in direct line with those of the United Kingdom authorised product | 835 |
 
-#### 14. Application for a variation to a marketing authorisation that has been issued in other member States[^key-1c8498722360a3564217e3d3f4bba371]
+#### 14. Application for a variation to a marketing authorisation that has been issued in other member States[^c-1c8498722360a3564217e3d3f4bba371]
 
 (1) In this paragraph the types of variation are those specified in Commission Regulation [(EC) 1084/2003](https://www.legislation.gov.uk/european/regulation/2003/1084).
 
@@ -492,7 +492,7 @@ The fee for a marketing authorisation for a parallel import is in accordance wit
 | - for the first variation: | 2,455 | 475 |
 | - for each subsequent variation: | 1,555 | 440 |
 
-#### 15. Application for an extension to a marketing authorisation[^key-a359afce18ac86c3ab5f94ddcc529516]
+#### 15. Application for an extension to a marketing authorisation[^c-a359afce18ac86c3ab5f94ddcc529516]
 
 The fee for an application for an extension to a marketing authorisation is in accordance with the following table.
 
@@ -509,7 +509,7 @@ The fee for an application for an extension to a marketing authorisation is in a
 | Other: | 8,080 | 3,690 |
 | Simultaneous application —fee for each additional product in the application: | 2,780 | 1,610 |
 
-#### 16. Decentralised application for an extension where the United Kingdom is the reference member State[^key-52d48e52d8d4fd509ea5b65d396bb6a2]
+#### 16. Decentralised application for an extension where the United Kingdom is the reference member State[^c-52d48e52d8d4fd509ea5b65d396bb6a2]
 
 (1) The fee for a decentralised application for an extension where the United Kingdom is the reference member State is the same as for a national application as set out in the table in paragraph 15, with the additions of the fees in the following table.
 
@@ -524,7 +524,7 @@ The fee for an application for an extension to a marketing authorisation is in a
 
 (2) In the case of a simultaneous application, the fee for each additional product in the application is £6,400 for one concerned member State and £110 for each additional concerned member State.
 
-#### 17. Provision of information relating to the recognition of a United Kingdom marketing authorisation[^key-4919497d8bee837aa34fb6366bdca793]
+#### 17. Provision of information relating to the recognition of a United Kingdom marketing authorisation[^c-4919497d8bee837aa34fb6366bdca793]
 
 (1) Where an application is made for the Secretary of State to provide information to other member States to enable them to recognise a marketing authorisation already granted by the United Kingdom the following fees are payable.
 
@@ -548,7 +548,7 @@ The fee for an application for an extension to a marketing authorisation is in a
 
 (4) In the case of simultaneous applications, the above fees are payable for each additional product in the application for one member State, with a fee of £110 for each additional product for each additional member State.
 
-#### 18. Application for the renewal of a national marketing authorisation[^key-76332dcb7083ea6cba9996254a5bb7c4]
+#### 18. Application for the renewal of a national marketing authorisation[^c-76332dcb7083ea6cba9996254a5bb7c4]
 
 (1) The fee for the renewal of a national marketing authorisation originally granted on or after 30th October 2005 is £1,305.
 
@@ -559,14 +559,14 @@ The fee for an application for an extension to a marketing authorisation is in a
 
 (3) The fee for the first reassessment of a provisional marketing authorisation is £295, and the fee for each subsequent reassessment is £1,305.
 
-#### 19. Application for the renewal of a marketing authorisation granted in more than one member State[^key-ef299ebfb213bb790b1ed824031dec53]
+#### 19. Application for the renewal of a marketing authorisation granted in more than one member State[^c-ef299ebfb213bb790b1ed824031dec53]
 
 The fee for the renewal of a marketing authorisation granted in more than one member State is—
 
 - (a) £1,765 if the United Kingdom is the reference member State, and
 - (b) £1,175 where the United Kingdom is a concerned member State.
 
-#### 20. Registration of a homeopathic remedy[^key-798ee46d858f958152e4514cac4e0453]
+#### 20. Registration of a homeopathic remedy[^c-798ee46d858f958152e4514cac4e0453]
 
 The fee for an application for the registration of a homeopathic remedy is in accordance with the following table.
 
@@ -583,7 +583,7 @@ The fee for an application for the registration of a homeopathic remedy is in ac
 | If the product is already authorised for human use in the United Kingdom, or for human or veterinary use in the United Kingdom or in another member State—<br>- not more than five stocks: | 155 |
 | - more than five stocks: | 360 |
 
-#### 21. Annual fees for marketing authorisations[^key-404561f37002d8d427f9ee8d99a0426a]
+#### 21. Annual fees for marketing authorisations[^c-404561f37002d8d427f9ee8d99a0426a]
 
 (1) Within 30 days of receiving a written demand from the Secretary of State, a holder of a marketing authorisation shall provide him with a statement of his turnover for the previous calendar year; and, if specified in the demand, an audit certificate relating to the turnover.
 
@@ -610,7 +610,7 @@ where
   - (a) the products are supplied by manufacturers direct to retailers, in which case it means the prices charged for the products by the manufacturers to the retailers reduced by such sum as, in the opinion of the Secretary of State, represents the difference between the prices paid by the retailers and those which could be expected to be charged by the manufacturers to wholesalers according to the practice prevailing during the period in question with regard to such products;
   - (b) a marketing authorisation holder sells or supplies products which he has neither manufactured nor obtained from the manufacturer, in which case it means the prices paid by him for those products.
 
-#### 22. Auditor’s certificate[^key-51d2426337b59f0dfa2d9e625ecab3a1]
+#### 22. Auditor’s certificate[^c-51d2426337b59f0dfa2d9e625ecab3a1]
 
 (1) If the Secretary of State required an audit certificate when he sent out the demand for the statement of turnover, and the holder of the marketing authorisation has not provided it within 30 days, an additional fee is payable for that year of £10,765 plus an additional £2,155 in respect of each marketing authorisation held.
 
@@ -618,7 +618,7 @@ where
 
 (3) Nothing in this paragraph limits the powers of an inspector to examine financial records.
 
-#### 23. Late payment of annual fees[^key-5549d40c4360ce7fb28f4e6f7a8d82e3]
+#### 23. Late payment of annual fees[^c-5549d40c4360ce7fb28f4e6f7a8d82e3]
 
 (1) Where a person fails to pay the annual fee for a marketing authorisation within 30 days from and including the date of the demand, he must pay an additional fee, rounded up to the nearest £10, of—
 
@@ -630,15 +630,15 @@ where
 
 ### PART 3 — Fees payable by manufacturers
 
-#### 24. Application for a manufacturing authorisation[^key-7c1e4a727af6f237c40fbfec045cf20d]
+#### 24. Application for a manufacturing authorisation[^c-7c1e4a727af6f237c40fbfec045cf20d]
 
 The fee for an application for a manufacturing authorisation for a veterinary medicinal product is £2,660.
 
-#### 25. Application for a variation of a manufacturing authorisation[^key-2338838831d279166ab76e62104675bc]
+#### 25. Application for a variation of a manufacturing authorisation[^c-2338838831d279166ab76e62104675bc]
 
 The fee for an application to vary a manufacturing authorisation is £475 where the variation requires scientific or pharmaceutical assessment, and £165 where it does not.
 
-#### 26. Application for an authorisation to manufacture an autogenous vaccine or a product for administration under the cascade[^key-d6d5a17eaa027b85519f76f5ed96c9ed]
+#### 26. Application for an authorisation to manufacture an autogenous vaccine or a product for administration under the cascade[^c-d6d5a17eaa027b85519f76f5ed96c9ed]
 
 (1) The fee for an application for a standard authorisation to manufacture an autogenous vaccine or a veterinary medicinal product for administration under the cascade is £3,035 for each manufacturing site, with the same fee for each subsequent inspection.
 
@@ -646,13 +646,13 @@ The fee for an application to vary a manufacturing authorisation is £475 where 
 
 (3) The fee to vary an authorisation is £285 if no further inspection is required, and otherwise is the full application fee.
 
-#### 27. Annual fees[^key-3f1337fb9eb7094bcebe352acc7b5f95]
+#### 27. Annual fees[^c-3f1337fb9eb7094bcebe352acc7b5f95]
 
 (1) An annual fee of £245 is payable in respect of each manufacturing authorisation held (other than a manufacturing authorisation in relation to an autogenous vaccine or a veterinary medicinal product for administration under the cascade).
 
 (2) The annual fee for a manufacturing authorisation for an autogenous vaccine or a veterinary medicinal product for administration under the cascade is 0.67% of the turnover in the previous calendar year rounded up to the next £1, with a minimum fee of £10, and in this paragraph “turnover” has the meaning given in paragraph 21(4).
 
-#### 28. Site inspections—type of site[^key-4409ffa7ab970c5b00cf3c17e82b364b]
+#### 28. Site inspections—type of site[^c-4409ffa7ab970c5b00cf3c17e82b364b]
 
 For the purposes of deciding the fee for a site inspection—
 
@@ -662,7 +662,7 @@ For the purposes of deciding the fee for a site inspection—
 - “minor site” is a site at which fewer than 10 relevant persons are employed;
 - “relevant person” means a person employed on the premises and systems inspected.
 
-#### 29. Inspection of a site where immunological veterinary medicinal products are manufactured[^key-0ee3b26cafa5ab159ac651793e065be4]
+#### 29. Inspection of a site where immunological veterinary medicinal products are manufactured[^c-0ee3b26cafa5ab159ac651793e065be4]
 
 The fees for the inspection of a site where immunological veterinary medicinal products are manufactured are in accordance with the following table.
 
@@ -675,7 +675,7 @@ The fees for the inspection of a site where immunological veterinary medicinal p
 | Standard site: | 5,570 |
 | Minor site: | 4,865 |
 
-#### 30. Inspection of a site where sterile veterinary medicinal products are manufactured[^key-0382517bca7ff7e548297d362b1f3e2b]
+#### 30. Inspection of a site where sterile veterinary medicinal products are manufactured[^c-0382517bca7ff7e548297d362b1f3e2b]
 
 The following fees are payable for the inspection of a site where no immunological veterinary medicinal products are manufactured, but where sterile products are manufactured.
 
@@ -688,7 +688,7 @@ The following fees are payable for the inspection of a site where no immunologic
 | Standard site: | 4,925 |
 | Minor site: | 3,295 |
 
-#### 31. Inspection of a site where no immunological or sterile veterinary medicinal products are manufactured[^key-de65a93d465b8bb4e13e55f1526a0eb8]
+#### 31. Inspection of a site where no immunological or sterile veterinary medicinal products are manufactured[^c-de65a93d465b8bb4e13e55f1526a0eb8]
 
 The following fees are payable for the inspection of a site where only non-immunological and non-sterile veterinary medicinal products are manufactured—
 
@@ -701,7 +701,7 @@ The following fees are payable for the inspection of a site where only non-immun
 | Standard site: | 4,125 |
 | Minor site: | 2,225 |
 
-#### 32. Inspection of a site where veterinary medicinal products are assembled[^key-3709031ccc3325eb7e5e9df834c7658a]
+#### 32. Inspection of a site where veterinary medicinal products are assembled[^c-3709031ccc3325eb7e5e9df834c7658a]
 
 The following fees are payable for the inspection of a site where the only manufacturing process in relation to veterinary medicinal products is their assembly after the product has been put into its immediate container.
 
@@ -714,23 +714,23 @@ The following fees are payable for the inspection of a site where the only manuf
 | Standard site: | 2,635 |
 | Minor site: | 1,360 |
 
-#### 33. Test sites[^key-258d592d8c491ebcb26c5a57fcb88151]
+#### 33. Test sites[^c-258d592d8c491ebcb26c5a57fcb88151]
 
 The fee for the inspection of a test site is £2,730.
 
-#### 34. Animal blood bank authorisations[^key-cd1fa9d72a66b1ad42f428ec94d04188]
+#### 34. Animal blood bank authorisations[^c-cd1fa9d72a66b1ad42f428ec94d04188]
 
 (1) The fee for an authorisation to operate a blood bank is £3,035, with the same fee for each subsequent inspection.
 
 (2) The fee for a variation is £285.
 
-#### 35. Expenses[^key-6621ea3029a170fbed824c013afbda72]
+#### 35. Expenses[^c-6621ea3029a170fbed824c013afbda72]
 
 In addition the travel and subsistence costs of the inspectors, and any additional costs reasonably incurred by them (including, in the case of an inspection outside the United Kingdom, interpreters' fees) are payable.
 
 ### PART 4 — Fees relating to a wholesale dealer’s authorisation
 
-#### 36. Application for a wholesale dealer’s authorisation[^key-b3bded53116c00cf4c6795daa0da2d05]
+#### 36. Application for a wholesale dealer’s authorisation[^c-b3bded53116c00cf4c6795daa0da2d05]
 
 (1) The fee for an application for a wholesale dealer’s authorisation is—
 
@@ -745,14 +745,14 @@ In addition the travel and subsistence costs of the inspectors, and any addition
 
 (5) For the purposes of this paragraph, “turnover” has the same meaning as in paragraph 38.
 
-#### 37. Variation of a wholesale dealer’s authorisation[^key-78bb3c6c762fd3959766a91d6a950d8c]
+#### 37. Variation of a wholesale dealer’s authorisation[^c-78bb3c6c762fd3959766a91d6a950d8c]
 
 The fee for an application to vary a wholesale dealer’s authorisation is—
 
 - (a) £475 if the variation requires scientific or pharmaceutical assessment;
 - (b) otherwise £165.
 
-#### 38. Annual fee for a wholesale dealer’s authorisation[^key-d004177691fc18d3947f2b8f8420e226]
+#### 38. Annual fee for a wholesale dealer’s authorisation[^c-d004177691fc18d3947f2b8f8420e226]
 
 (1) The annual fee for a wholesale dealer’s authorisation, payable on the anniversary of the grant of the authorisation, is—
 
@@ -763,7 +763,7 @@ The fee for an application to vary a wholesale dealer’s authorisation is—
 
 ### PART 5 — Fees relating to feedingstuffs
 
-#### 39. Fees relating to feedingstuffs[^key-98e606b814b37987b01e868da66ce2c1]
+#### 39. Fees relating to feedingstuffs[^c-98e606b814b37987b01e868da66ce2c1]
 
 (1) Fees relating to feedingstuffs are payable with the application, or on invoice for the subsequent annual fee.
 
@@ -795,17 +795,17 @@ The fee for an application to vary a wholesale dealer’s authorisation is—
 
 [^f01000][^f01000][^f01001]
 
-#### 40. Fees relating to distributors[^key-214a80d68fb9817078f126a759d43e67]
+#### 40. Fees relating to distributors[^c-214a80d68fb9817078f126a759d43e67]
 
 The fee for an application or subsequent annual fee to be a distributor of specified feed additives, premixtures or feedingstuffs containing specified feed additives, or premixtures or feedingstuffs containing veterinary medicinal products is £135 in Great Britain (or £160 if the annual fee is not paid within 60 days of the invoice) and £62 in Northern Ireland (or £74 if the annual fee is not paid within 60 days of the invoice).
 
 ### PART 6 — General
 
-#### 41. Testing samples[^key-6f2a4a1384733de341d0bed80cce9deb]
+#### 41. Testing samples[^c-6f2a4a1384733de341d0bed80cce9deb]
 
 The fee for testing a sample required to be submitted by the Secretary of State is the full economic cost of the test.
 
-#### 42. Animal test certificates[^key-b69d4d9a44df4a55695edab297f5f0f2]
+#### 42. Animal test certificates[^c-b69d4d9a44df4a55695edab297f5f0f2]
 
 (1) The fee for an animal test certificate is £330 in the case of—
 
@@ -819,29 +819,29 @@ The fee for testing a sample required to be submitted by the Secretary of State 
 
 (4) The fee for an application to renew a certificate is £125.
 
-#### 43. Treatment under the cascade[^key-fb6ed1aa2f09f3856186696cfa3b4b24]
+#### 43. Treatment under the cascade[^c-fb6ed1aa2f09f3856186696cfa3b4b24]
 
 The fee for a certificate to import (if necessary) and be in possession of and administer a veterinary medicinal product authorised in another member State for treatment under the cascade is £15.
 
-#### 44. Treatment in exceptional circumstances[^key-387d5ded699f894f04c403e361641f04]
+#### 44. Treatment in exceptional circumstances[^c-387d5ded699f894f04c403e361641f04]
 
 (1) The fee for a certificate to import (if necessary), be in possession of and administer a veterinary medicinal product authorised in a third country is £30 for the initial certificate and £30 for its renewal (£15 for a renewal if the certificate is renewed on-line using the website of the Veterinary Medicines Directorate) payable in respect of each animal treated.
 
 (2) In the case of administration to and treatment of a discrete group of animals, the Secretary of State may notify the applicant in writing that a fee for only one animal is payable.
 
-#### 45. Specific batch control[^key-a767e4ff415941bfe8693f20eddf41a8]
+#### 45. Specific batch control[^c-a767e4ff415941bfe8693f20eddf41a8]
 
 The fee for an authorisation to release a veterinary medicinal product under specific batch control is £535.
 
-#### 46. Submission of control tests of an immunological product[^key-ffc6c73c15747a219e8dc9497a51a410]
+#### 46. Submission of control tests of an immunological product[^c-ffc6c73c15747a219e8dc9497a51a410]
 
 The fee for the submission of the results of tests carried out on a batch of immunological products prior to release is £80.
 
-#### 47. Export certificates[^key-efbd1f4a94be2c444deece3e127b2103]
+#### 47. Export certificates[^c-efbd1f4a94be2c444deece3e127b2103]
 
 The fee for an application for an export certificate is £30, and £15 for each certified copy.
 
-#### 48. Fees relating to premises for supply by suitably qualified persons[^key-1f495cb9a980113534c790ce93c2dc48]
+#### 48. Fees relating to premises for supply by suitably qualified persons[^c-1f495cb9a980113534c790ce93c2dc48]
 
 (1) The fee to approve premises for the retail supply of veterinary medicinal products by suitably qualified persons is—
 
@@ -853,7 +853,7 @@ The fee for an application for an export certificate is £30, and £15 for each 
 - (a) £175, or £205 if the fee is not paid within 60 days of the invoice, or
 - (b) if the premises are only authorised to supply veterinary medicinal products for the treatment of horses and companion animals, £90, or £110 if the fee is not paid within 60 days of the invoice.
 
-#### 49. Application to the Veterinary Products Committee[^key-a84829565b90844c736ab825d0f5ee35]
+#### 49. Application to the Veterinary Products Committee[^c-a84829565b90844c736ab825d0f5ee35]
 
 (1) If the Secretary of State refuses to grant a marketing authorisation or an animal test certificate, or grants one that is different from what was applied for, the fee for making representations to the Veterinary Products Committee is in accordance with the following table.
 
@@ -877,17 +877,17 @@ The fee for an application for an export certificate is £30, and £15 for each 
 | Type 1B variation: | 195 |
 | Type II variation: | 260 |
 
-#### 50. Non-payment of fees[^key-396012634e41158735bb76a8742bc03d]
+#### 50. Non-payment of fees[^c-396012634e41158735bb76a8742bc03d]
 
 Where fees (other than fees relating to a manufacturing authorisation or wholesale dealer’s authorisation) are not paid, the Secretary of State may, after giving one month’s written warning, suspend the authorisation to which the fee relates.
 
-#### 51. Waiver or reduction of fees[^key-6c60383dac0c0e28c39a8848a223bf94]
+#### 51. Waiver or reduction of fees[^c-6c60383dac0c0e28c39a8848a223bf94]
 
 (1) If the Secretary of State is satisfied that for reasons of human or animal health or the protection of the environment it is desirable that a product should be authorised for veterinary use or that an authorised product should remain on the market he may waive or reduce any fees payable under these Regulations.
 
 (2) An applicant or the holder of a marketing authorisation must provide full written justification for any waiver or reduction.
 
-#### 52. Reduction of application fee[^key-37e3a4ba89d560ebe9dff6f7e6f1a44e]
+#### 52. Reduction of application fee[^c-37e3a4ba89d560ebe9dff6f7e6f1a44e]
 
 (1) Where an application for a marketing authorisation is withdrawn before determination, or refused on the grounds that data requested by the Secretary of State have not been supplied within the time limit specified in the request, the applicant may request a refund of a proportion of the fee (or, if the fee has not yet been paid, a reduction of the fee) in accordance with this paragraph.
 
@@ -906,85 +906,85 @@ Where fees (other than fees relating to a manufacturing authorisation or wholesa
 
 ## Annotations
 
-[^key-b24edc67b2e41c260f6bd79e1b3b74e5]: Commencement: Sch. 7 para. 1 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-b24edc67b2e41c260f6bd79e1b3b74e5]: Commencement: Sch. 7 para. 1 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-4e8c24947ee757cb750650c30940c314]: Commencement: Sch. 7 para. 2 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-4e8c24947ee757cb750650c30940c314]: Commencement: Sch. 7 para. 2 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-19b92074948f43d618c78ce0a5e1105d]: Commencement: Sch. 7 para. 3 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-19b92074948f43d618c78ce0a5e1105d]: Commencement: Sch. 7 para. 3 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-edc3472a517f40c6fd73357a317667a6]: Commencement: Sch. 7 para. 4 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-edc3472a517f40c6fd73357a317667a6]: Commencement: Sch. 7 para. 4 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-98a4328b3b2cc5b31008c277decedf6f]: Commencement: Sch. 7 para. 5 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-98a4328b3b2cc5b31008c277decedf6f]: Commencement: Sch. 7 para. 5 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-be92a03b7924cbeacebfd424a170e22c]: Commencement: Sch. 7 para. 6 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-be92a03b7924cbeacebfd424a170e22c]: Commencement: Sch. 7 para. 6 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-ed13814c5590515291479176fe016b2a]: Commencement: Sch. 7 para. 7 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-ed13814c5590515291479176fe016b2a]: Commencement: Sch. 7 para. 7 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-1633e2aa3b96b604a7d4cfeb0f30d364]: Commencement: Sch. 7 para. 8 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-1633e2aa3b96b604a7d4cfeb0f30d364]: Commencement: Sch. 7 para. 8 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-da059e3719c3eb1759029f4e7a3146c0]: Commencement: Sch. 7 para. 9 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-da059e3719c3eb1759029f4e7a3146c0]: Commencement: Sch. 7 para. 9 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-6345bcb2cbcda8824310999aea25d419]: Commencement: Sch. 7 para. 10 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-6345bcb2cbcda8824310999aea25d419]: Commencement: Sch. 7 para. 10 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-91edff3a9b0979b35c18b728d1baf584]: Commencement: Sch. 7 para. 11 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-91edff3a9b0979b35c18b728d1baf584]: Commencement: Sch. 7 para. 11 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-e03ec7d2237e747981af1955daed97a5]: Commencement: Sch. 7 para. 12 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-e03ec7d2237e747981af1955daed97a5]: Commencement: Sch. 7 para. 12 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-c4f123a8e2a5965998ff4766d270449b]: Commencement: Sch. 7 para. 13 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-c4f123a8e2a5965998ff4766d270449b]: Commencement: Sch. 7 para. 13 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
 [^f00040]: Footnote: The Committee was established by Article 30 of Regulation [(EC) No. 762/2004](https://www.legislation.gov.uk/european/regulation/2004/0762) of the European Parliament and of the Council laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency, OJ No. L 136, 30.4.2004, p. 1.
 
-[^key-1c8498722360a3564217e3d3f4bba371]: Commencement: Sch. 7 para. 14 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-1c8498722360a3564217e3d3f4bba371]: Commencement: Sch. 7 para. 14 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-a359afce18ac86c3ab5f94ddcc529516]: Commencement: Sch. 7 para. 15 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-a359afce18ac86c3ab5f94ddcc529516]: Commencement: Sch. 7 para. 15 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-52d48e52d8d4fd509ea5b65d396bb6a2]: Commencement: Sch. 7 para. 16 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-52d48e52d8d4fd509ea5b65d396bb6a2]: Commencement: Sch. 7 para. 16 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-4919497d8bee837aa34fb6366bdca793]: Commencement: Sch. 7 para. 17 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-4919497d8bee837aa34fb6366bdca793]: Commencement: Sch. 7 para. 17 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-76332dcb7083ea6cba9996254a5bb7c4]: Commencement: Sch. 7 para. 18 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-76332dcb7083ea6cba9996254a5bb7c4]: Commencement: Sch. 7 para. 18 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-ef299ebfb213bb790b1ed824031dec53]: Commencement: Sch. 7 para. 19 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-ef299ebfb213bb790b1ed824031dec53]: Commencement: Sch. 7 para. 19 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-798ee46d858f958152e4514cac4e0453]: Commencement: Sch. 7 para. 20 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-798ee46d858f958152e4514cac4e0453]: Commencement: Sch. 7 para. 20 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-404561f37002d8d427f9ee8d99a0426a]: Commencement: Sch. 7 para. 21 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-404561f37002d8d427f9ee8d99a0426a]: Commencement: Sch. 7 para. 21 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-51d2426337b59f0dfa2d9e625ecab3a1]: Commencement: Sch. 7 para. 22 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-51d2426337b59f0dfa2d9e625ecab3a1]: Commencement: Sch. 7 para. 22 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-5549d40c4360ce7fb28f4e6f7a8d82e3]: Commencement: Sch. 7 para. 23 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-5549d40c4360ce7fb28f4e6f7a8d82e3]: Commencement: Sch. 7 para. 23 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-7c1e4a727af6f237c40fbfec045cf20d]: Commencement: Sch. 7 para. 24 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-7c1e4a727af6f237c40fbfec045cf20d]: Commencement: Sch. 7 para. 24 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-2338838831d279166ab76e62104675bc]: Commencement: Sch. 7 para. 25 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-2338838831d279166ab76e62104675bc]: Commencement: Sch. 7 para. 25 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-d6d5a17eaa027b85519f76f5ed96c9ed]: Commencement: Sch. 7 para. 26 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-d6d5a17eaa027b85519f76f5ed96c9ed]: Commencement: Sch. 7 para. 26 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-3f1337fb9eb7094bcebe352acc7b5f95]: Commencement: Sch. 7 para. 27 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-3f1337fb9eb7094bcebe352acc7b5f95]: Commencement: Sch. 7 para. 27 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-4409ffa7ab970c5b00cf3c17e82b364b]: Commencement: Sch. 7 para. 28 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-4409ffa7ab970c5b00cf3c17e82b364b]: Commencement: Sch. 7 para. 28 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-0ee3b26cafa5ab159ac651793e065be4]: Commencement: Sch. 7 para. 29 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-0ee3b26cafa5ab159ac651793e065be4]: Commencement: Sch. 7 para. 29 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-0382517bca7ff7e548297d362b1f3e2b]: Commencement: Sch. 7 para. 30 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-0382517bca7ff7e548297d362b1f3e2b]: Commencement: Sch. 7 para. 30 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-de65a93d465b8bb4e13e55f1526a0eb8]: Commencement: Sch. 7 para. 31 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-de65a93d465b8bb4e13e55f1526a0eb8]: Commencement: Sch. 7 para. 31 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-3709031ccc3325eb7e5e9df834c7658a]: Commencement: Sch. 7 para. 32 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-3709031ccc3325eb7e5e9df834c7658a]: Commencement: Sch. 7 para. 32 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-258d592d8c491ebcb26c5a57fcb88151]: Commencement: Sch. 7 para. 33 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-258d592d8c491ebcb26c5a57fcb88151]: Commencement: Sch. 7 para. 33 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-cd1fa9d72a66b1ad42f428ec94d04188]: Commencement: Sch. 7 para. 34 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-cd1fa9d72a66b1ad42f428ec94d04188]: Commencement: Sch. 7 para. 34 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-6621ea3029a170fbed824c013afbda72]: Commencement: Sch. 7 para. 35 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-6621ea3029a170fbed824c013afbda72]: Commencement: Sch. 7 para. 35 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-b3bded53116c00cf4c6795daa0da2d05]: Commencement: Sch. 7 para. 36 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-b3bded53116c00cf4c6795daa0da2d05]: Commencement: Sch. 7 para. 36 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-78bb3c6c762fd3959766a91d6a950d8c]: Commencement: Sch. 7 para. 37 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-78bb3c6c762fd3959766a91d6a950d8c]: Commencement: Sch. 7 para. 37 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-d004177691fc18d3947f2b8f8420e226]: Commencement: Sch. 7 para. 38 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-d004177691fc18d3947f2b8f8420e226]: Commencement: Sch. 7 para. 38 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-98e606b814b37987b01e868da66ce2c1]: Commencement: Sch. 7 para. 39 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-98e606b814b37987b01e868da66ce2c1]: Commencement: Sch. 7 para. 39 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
 [^f01000]: Footnote: (a)
 
@@ -994,28 +994,28 @@ Where fees (other than fees relating to a manufacturing authorisation or wholesa
 
     No fee is payable for premises that already have a manufacturing authorisation relating to veterinary medicinal products for incorporating into feedingstuffs.
 
-[^key-214a80d68fb9817078f126a759d43e67]: Commencement: Sch. 7 para. 40 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-214a80d68fb9817078f126a759d43e67]: Commencement: Sch. 7 para. 40 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-6f2a4a1384733de341d0bed80cce9deb]: Commencement: Sch. 7 para. 41 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-6f2a4a1384733de341d0bed80cce9deb]: Commencement: Sch. 7 para. 41 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-b69d4d9a44df4a55695edab297f5f0f2]: Commencement: Sch. 7 para. 42 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-b69d4d9a44df4a55695edab297f5f0f2]: Commencement: Sch. 7 para. 42 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-fb6ed1aa2f09f3856186696cfa3b4b24]: Commencement: Sch. 7 para. 43 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-fb6ed1aa2f09f3856186696cfa3b4b24]: Commencement: Sch. 7 para. 43 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-387d5ded699f894f04c403e361641f04]: Commencement: Sch. 7 para. 44 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-387d5ded699f894f04c403e361641f04]: Commencement: Sch. 7 para. 44 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-a767e4ff415941bfe8693f20eddf41a8]: Commencement: Sch. 7 para. 45 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-a767e4ff415941bfe8693f20eddf41a8]: Commencement: Sch. 7 para. 45 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-ffc6c73c15747a219e8dc9497a51a410]: Commencement: Sch. 7 para. 46 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-ffc6c73c15747a219e8dc9497a51a410]: Commencement: Sch. 7 para. 46 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-efbd1f4a94be2c444deece3e127b2103]: Commencement: Sch. 7 para. 47 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-efbd1f4a94be2c444deece3e127b2103]: Commencement: Sch. 7 para. 47 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-1f495cb9a980113534c790ce93c2dc48]: Commencement: Sch. 7 para. 48 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-1f495cb9a980113534c790ce93c2dc48]: Commencement: Sch. 7 para. 48 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-a84829565b90844c736ab825d0f5ee35]: Commencement: Sch. 7 para. 49 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-a84829565b90844c736ab825d0f5ee35]: Commencement: Sch. 7 para. 49 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-396012634e41158735bb76a8742bc03d]: Commencement: Sch. 7 para. 50 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-396012634e41158735bb76a8742bc03d]: Commencement: Sch. 7 para. 50 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-6c60383dac0c0e28c39a8848a223bf94]: Commencement: Sch. 7 para. 51 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-6c60383dac0c0e28c39a8848a223bf94]: Commencement: Sch. 7 para. 51 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-37e3a4ba89d560ebe9dff6f7e6f1a44e]: Commencement: Sch. 7 para. 52 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-37e3a4ba89d560ebe9dff6f7e6f1a44e]: Commencement: Sch. 7 para. 52 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

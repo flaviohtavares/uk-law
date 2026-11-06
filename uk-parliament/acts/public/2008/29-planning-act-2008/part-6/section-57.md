@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Categories for purposes of section 56(2)(d)[^key-abd74863ce503d246007a09c070662ca]
+## 57. Categories for purposes of section 56(2)(d)[^c-abd74863ce503d246007a09c070662ca]
 
 *Extent: E+W+S*
 
@@ -46,13 +46,13 @@ This is subject to subsection (5).
 (6) In subsection (4) “**relevant claim**” means—
 
 - (a) a claim under section 10 of the Compulsory Purchase Act 1965 (compensation where satisfaction not made for the taking, or injurious affection, of land subject to compulsory purchase);
-- (b) a claim under Part 1 of the Land Compensation Act 1973 (c. 26) (compensation for depreciation of land value by physical factors caused by use of public works);[^key-8acf79bed6803ebe80af0d319843d041]
+- (b) a claim under Part 1 of the Land Compensation Act 1973 (c. 26) (compensation for depreciation of land value by physical factors caused by use of public works);[^c-8acf79bed6803ebe80af0d319843d041]
 - (c) a claim under section 152(3).
 
 (7) In this section “**the land**” means the land to which the application relates or any part of that land.
 
 ## Annotations
 
-[^key-abd74863ce503d246007a09c070662ca]: Commencement: S. 57 in force at 1.10.2009 by [S.I. 2009/2260](https://www.legislation.gov.uk/uksi/2009/2260), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/2260/article/2/c)
+[^c-abd74863ce503d246007a09c070662ca]: Commencement: S. 57 in force at 1.10.2009 by [S.I. 2009/2260](https://www.legislation.gov.uk/uksi/2009/2260), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/2260/article/2/c)
 
-[^key-8acf79bed6803ebe80af0d319843d041]: Textual amendment: S. 57(6)(c) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 135(9)](https://www.legislation.gov.uk/ukpga/2011/20/section/135/9), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
+[^c-8acf79bed6803ebe80af0d319843d041]: Textual amendment: S. 57(6)(c) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 135(9)](https://www.legislation.gov.uk/ukpga/2011/20/section/135/9), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)

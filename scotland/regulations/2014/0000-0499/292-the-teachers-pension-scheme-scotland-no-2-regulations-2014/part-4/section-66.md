@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Meaning of “full retirement earned pension”[^key-4a701519e1b7d0d79701df96967a3e86]
+## 66. Meaning of “full retirement earned pension”[^c-4a701519e1b7d0d79701df96967a3e86]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a701519e1b7d0d79701df96967a3e86]: Commencement: [Reg. 66](https://www.legislation.gov.uk/ssi/2014/292/regulation/66) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-4a701519e1b7d0d79701df96967a3e86]: Commencement: [Reg. 66](https://www.legislation.gov.uk/ssi/2014/292/regulation/66) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Temporary use of land for carrying out the authorised development[^key-4bb183a0cf7cc71cd3fcc0bc1b484776]
+## 26. Temporary use of land for carrying out the authorised development[^c-4bb183a0cf7cc71cd3fcc0bc1b484776]
 
 *Extent: E+W+S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bb183a0cf7cc71cd3fcc0bc1b484776]: Commencement: Art. 26 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-4bb183a0cf7cc71cd3fcc0bc1b484776]: Commencement: Art. 26 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)

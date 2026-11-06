@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Timing of assessment of plan[^key-0fe76d53ba14505801bca24f18afd998]
+## 20. Timing of assessment of plan[^c-0fe76d53ba14505801bca24f18afd998]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The appropriate regulator must conclude the assessment within the four month per
 
 ## Annotations
 
-[^key-0fe76d53ba14505801bca24f18afd998]: Textual amendment: [Art. 20](https://www.legislation.gov.uk/uksi/2014/3348/article/20) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0fe76d53ba14505801bca24f18afd998]: Textual amendment: [Art. 20](https://www.legislation.gov.uk/uksi/2014/3348/article/20) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

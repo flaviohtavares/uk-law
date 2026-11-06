@@ -46,7 +46,7 @@ Now, therefore, the Secretary of State for Social Security, in exercise of the p
 
 (1) These Regulations may be cited as the Child Support (Maintenance Assessments and Special Cases) and Social Security (Claims and Payments) Amendment Regulations 1996 and shall come into force on 8th April 1996.
 
-(2)[^key-8ff3a1dcb6f6f53b74ccf8323b4c9e6d] In these Regulations—
+(2)[^c-8ff3a1dcb6f6f53b74ccf8323b4c9e6d] In these Regulations—
 
 “the Act" means the Child Support Act 1991;
 
@@ -74,7 +74,7 @@ Now, therefore, the Secretary of State for Social Security, in exercise of the p
 
 A maintenance assessment in force on 8th April 1996 shall not be reviewed solely to give effect to regulation 3 but, on a review of that assessment under section 16, 17 or 18 of the Act, the provisions of that regulation shall have effect from the effective date of any fresh maintenance assessment made following that review.
 
-## 5. Amendment of paragraph 7A of Schedule 9 to the Claims and Payments Regulations[^key-c8e73b247b1ccedc173ead28b2456814]
+## 5. Amendment of paragraph 7A of Schedule 9 to the Claims and Payments Regulations[^c-c8e73b247b1ccedc173ead28b2456814]
 
 (1) Paragraph 7A of Schedule 9 to the Claims and Payments Regulations shall be amended in accordance with the following provisions of this regulation.
 
@@ -89,7 +89,7 @@ A maintenance assessment in force on 8th April 1996 shall not be reviewed solely
 
 .
 
-## 6. Amendment of paragraph 8 of Schedule 9 to the Claims and Payments Regulations[^key-c8e73b247b1ccedc173ead28b2456814]
+## 6. Amendment of paragraph 8 of Schedule 9 to the Claims and Payments Regulations[^c-c8e73b247b1ccedc173ead28b2456814]
 
 In sub-paragraph (1) of paragraph 8 of Schedule 9 to the Claims and Payments Regulations, for the word “sub-paragraphs" there shall be substituted the word “paragraphs" and for the word “sub-paragraph" there shall be substituted the word “paragraph".
 
@@ -121,10 +121,10 @@ These Regulations impose no costs on business.
 
 [^c1774097]: Marginal citation: *See* section 173(1) of the Social Security Administration Act 1992.
 
-[^key-8ff3a1dcb6f6f53b74ccf8323b4c9e6d]: Modification: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/481/regulation/1/2) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-8ff3a1dcb6f6f53b74ccf8323b4c9e6d]: Modification: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/481/regulation/1/2) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^c1774098]: Marginal citation: [S.I. 1992/1815](https://www.legislation.gov.uk/uksi/1992/1815).
 
 [^c1774099]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968); the relevant amending instruments are [S.I. 1991/2284](https://www.legislation.gov.uk/uksi/1991/2284), 1992/1026, 1993/478, 495 and 2113 and 1994/2319.
 
-[^key-c8e73b247b1ccedc173ead28b2456814]: Modification: [Regs. 5](https://www.legislation.gov.uk/uksi/1996/481/regulation/5) [6](https://www.legislation.gov.uk/uksi/1996/481/regulation/6) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-c8e73b247b1ccedc173ead28b2456814]: Modification: [Regs. 5](https://www.legislation.gov.uk/uksi/1996/481/regulation/5) [6](https://www.legislation.gov.uk/uksi/1996/481/regulation/6) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))

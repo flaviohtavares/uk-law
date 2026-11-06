@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 173. Powers of entry: supplemental provisions.[^key-25f061ca3dfac7434bbe4d7fa5b9ed51][^key-92a46f6504c55d7266945a7cdf817b31]
+## 173. Powers of entry: supplemental provisions.[^c-25f061ca3dfac7434bbe4d7fa5b9ed51][^c-92a46f6504c55d7266945a7cdf817b31]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 20 to this Act shall have effect with respect to the powers of entry an
 
 ## Annotations
 
-[^key-25f061ca3dfac7434bbe4d7fa5b9ed51]: Modification: S. 173 applied (with modifications) (2.7.2009) by [Broads Authority Act 2009 (c. i)](https://www.legislation.gov.uk/ukla/2009/1), [s. 24(3)](https://www.legislation.gov.uk/ukla/2009/1/section/24/3) (with [ss. 2(3)](https://www.legislation.gov.uk/ukla/2009/1/section/2/3), [16(3)](https://www.legislation.gov.uk/ukla/2009/1/section/16/3), [41(4)](https://www.legislation.gov.uk/ukla/2009/1/section/41/4), [42](https://www.legislation.gov.uk/ukla/2009/1/section/42), [Sch. 6](https://www.legislation.gov.uk/ukla/2009/1/schedule/6))
+[^c-25f061ca3dfac7434bbe4d7fa5b9ed51]: Modification: S. 173 applied (with modifications) (2.7.2009) by [Broads Authority Act 2009 (c. i)](https://www.legislation.gov.uk/ukla/2009/1), [s. 24(3)](https://www.legislation.gov.uk/ukla/2009/1/section/24/3) (with [ss. 2(3)](https://www.legislation.gov.uk/ukla/2009/1/section/2/3), [16(3)](https://www.legislation.gov.uk/ukla/2009/1/section/16/3), [41(4)](https://www.legislation.gov.uk/ukla/2009/1/section/41/4), [42](https://www.legislation.gov.uk/ukla/2009/1/section/42), [Sch. 6](https://www.legislation.gov.uk/ukla/2009/1/schedule/6))
 
-[^key-92a46f6504c55d7266945a7cdf817b31]: Modification: S. 173 applied (with modifications) (2.7.2009) by [Broads Authority Act 2009 (c. i)](https://www.legislation.gov.uk/ukla/2009/1), [s. 17(3)](https://www.legislation.gov.uk/ukla/2009/1/section/17/3) (with [ss. 2(3)](https://www.legislation.gov.uk/ukla/2009/1/section/2/3), [16(3)](https://www.legislation.gov.uk/ukla/2009/1/section/16/3), [42](https://www.legislation.gov.uk/ukla/2009/1/section/42), [Sch. 6](https://www.legislation.gov.uk/ukla/2009/1/schedule/6))
+[^c-92a46f6504c55d7266945a7cdf817b31]: Modification: S. 173 applied (with modifications) (2.7.2009) by [Broads Authority Act 2009 (c. i)](https://www.legislation.gov.uk/ukla/2009/1), [s. 17(3)](https://www.legislation.gov.uk/ukla/2009/1/section/17/3) (with [ss. 2(3)](https://www.legislation.gov.uk/ukla/2009/1/section/2/3), [16(3)](https://www.legislation.gov.uk/ukla/2009/1/section/16/3), [42](https://www.legislation.gov.uk/ukla/2009/1/section/42), [Sch. 6](https://www.legislation.gov.uk/ukla/2009/1/schedule/6))

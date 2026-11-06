@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Compulsory acquisition of land[^key-cbada6d48fd7cd0455cc7c01de0dd88e]
+## 19. Compulsory acquisition of land[^c-cbada6d48fd7cd0455cc7c01de0dd88e]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ where the undertaker serves notice to treat under section 5 of the 1965 Act, or 
 
 ## Annotations
 
-[^key-cbada6d48fd7cd0455cc7c01de0dd88e]: Commencement: Art. 19 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)
+[^c-cbada6d48fd7cd0455cc7c01de0dd88e]: Commencement: Art. 19 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)

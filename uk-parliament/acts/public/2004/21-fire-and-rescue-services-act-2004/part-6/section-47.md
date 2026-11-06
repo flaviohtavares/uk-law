@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Notices: general[^key-cfb908e0f1d88d1e0acbcd2cd94a3ea4][^key-586fae6f0691670cf6884a07e4fb4325]
+## 47. Notices: general[^c-cfb908e0f1d88d1e0acbcd2cd94a3ea4][^c-586fae6f0691670cf6884a07e4fb4325]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cfb908e0f1d88d1e0acbcd2cd94a3ea4]: Commencement: S. 47 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
+[^c-cfb908e0f1d88d1e0acbcd2cd94a3ea4]: Commencement: S. 47 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
 
-[^key-586fae6f0691670cf6884a07e4fb4325]: Commencement: S. 47 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-586fae6f0691670cf6884a07e4fb4325]: Commencement: S. 47 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)

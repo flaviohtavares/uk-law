@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 190. Power to stop development[^key-57cce248f2724504c7a2c1cbbc3d20a1]
+## 190. Power to stop development[^c-57cce248f2724504c7a2c1cbbc3d20a1]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ Provision about enforcement in CIL regulations may include provision—
 
 ## Annotations
 
-[^key-57cce248f2724504c7a2c1cbbc3d20a1]: Commencement: S. 190 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-57cce248f2724504c7a2c1cbbc3d20a1]: Commencement: S. 190 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

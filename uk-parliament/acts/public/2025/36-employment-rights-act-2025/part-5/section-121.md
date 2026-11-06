@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Duration of LME undertakings[^key-ebfa854e24ef944611c41b209ed791ba][^key-2ed359660cfd06d9b4098af1ae95c26b]
+## 121. Duration of LME undertakings[^c-ebfa854e24ef944611c41b209ed791ba][^c-2ed359660cfd06d9b4098af1ae95c26b]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ebfa854e24ef944611c41b209ed791ba]: Commencement: S. 121 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-ebfa854e24ef944611c41b209ed791ba]: Commencement: S. 121 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-2ed359660cfd06d9b4098af1ae95c26b]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2025/36/section/121) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(22)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/22)
+[^c-2ed359660cfd06d9b4098af1ae95c26b]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2025/36/section/121) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(22)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/22)

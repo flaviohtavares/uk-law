@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 251A. Consistent identifiers[^key-134a54eef445c150cf8d9da96f3bd08c]
+## 251A. Consistent identifiers[^c-134a54eef445c150cf8d9da96f3bd08c]
 
 *Extent: E+W*
 
@@ -48,17 +48,17 @@ summary: ''
 
 (7) This section does not permit the relevant person to do anything which, but for this section, would be inconsistent with—
 
-- (a) any provision of the data protection legislation[^key-f405f7e00d6cbd51f3a9f204ca3ddffd], or
+- (a) any provision of the data protection legislation[^c-f405f7e00d6cbd51f3a9f204ca3ddffd], or
 - (b) a common law duty of care or confidence.
 
 (8) This section does not require the relevant person to do anything which the relevant person is required to do by or under provision included in a contract by virtue of any provision of the National Health Service Act 2006 (and, accordingly, any such requirement is to be treated as arising under the contract, and not under this section).
 
-(9)[^key-9deb9981957b14b0bcba8b070934b015] In this section, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
+(9)[^c-9deb9981957b14b0bcba8b070934b015] In this section, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
 
 ## Annotations
 
-[^key-134a54eef445c150cf8d9da96f3bd08c]: Textual amendment: Pt. 9 Ch. 1A inserted (25.6.2015) by [Health and Social Care (Safety and Quality) Act 2015 (c. 28)](https://www.legislation.gov.uk/ukpga/2015/28), [ss. 2](https://www.legislation.gov.uk/ukpga/2015/28/section/2), [6(4)](https://www.legislation.gov.uk/ukpga/2015/28/section/6/4); [S.I. 2015/1438](https://www.legislation.gov.uk/uksi/2015/1438), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1438/regulation/2/a)
+[^c-134a54eef445c150cf8d9da96f3bd08c]: Textual amendment: Pt. 9 Ch. 1A inserted (25.6.2015) by [Health and Social Care (Safety and Quality) Act 2015 (c. 28)](https://www.legislation.gov.uk/ukpga/2015/28), [ss. 2](https://www.legislation.gov.uk/ukpga/2015/28/section/2), [6(4)](https://www.legislation.gov.uk/ukpga/2015/28/section/6/4); [S.I. 2015/1438](https://www.legislation.gov.uk/uksi/2015/1438), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1438/regulation/2/a)
 
-[^key-f405f7e00d6cbd51f3a9f204ca3ddffd]: Textual amendment: Words in [s. 251A(7)(a)](https://www.legislation.gov.uk/ukpga/2012/7/section/251A/7/a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 173(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/173/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-f405f7e00d6cbd51f3a9f204ca3ddffd]: Textual amendment: Words in [s. 251A(7)(a)](https://www.legislation.gov.uk/ukpga/2012/7/section/251A/7/a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 173(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/173/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-9deb9981957b14b0bcba8b070934b015]: Textual amendment: [S. 251A(9)](https://www.legislation.gov.uk/ukpga/2012/7/section/251A/9) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 173(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/173/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-9deb9981957b14b0bcba8b070934b015]: Textual amendment: [S. 251A(9)](https://www.legislation.gov.uk/ukpga/2012/7/section/251A/9) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 173(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/173/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

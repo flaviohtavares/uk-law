@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Evidence of title on transmission of a registered ship[^key-75ecfa8bdf23ca07ee5bd380c428c0cc]
+## 46. Evidence of title on transmission of a registered ship[^c-75ecfa8bdf23ca07ee5bd380c428c0cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,12 +24,12 @@ summary: ''
 
 (2) The following evidence shall be produced to the Registrar on an application for a transfer of a registered ship or share therein by way of transmission:—
 
-- (a) if the transmission was consequent on death, the grant of representation or a copy[^key-3284c080e01c90d5df36ed4b2fb77b98] thereof or of an extract therefrom,
+- (a) if the transmission was consequent on death, the grant of representation or a copy[^c-3284c080e01c90d5df36ed4b2fb77b98] thereof or of an extract therefrom,
 - (b) if the transmission was consequent on bankruptcy such evidence as is for the time being receivable in courts of justice as proof of title of persons claiming under bankruptcy,
 - (c) if the transmission was consequent on an order of a court, a copy of the order or judgment of that court.
 
 ## Annotations
 
-[^key-75ecfa8bdf23ca07ee5bd380c428c0cc]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/1993/3138/regulation/46) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-75ecfa8bdf23ca07ee5bd380c428c0cc]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/1993/3138/regulation/46) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
 
-[^key-3284c080e01c90d5df36ed4b2fb77b98]: Textual amendment: Words in [reg. 46(2)(a)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/46/2/a) substituted (1.10.2017) by [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 2017 (S.I. 2017/879)](https://www.legislation.gov.uk/uksi/2017/879), [regs. 1](https://www.legislation.gov.uk/uksi/2017/879/regulation/1), [5](https://www.legislation.gov.uk/uksi/2017/879/regulation/5)
+[^c-3284c080e01c90d5df36ed4b2fb77b98]: Textual amendment: Words in [reg. 46(2)(a)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/46/2/a) substituted (1.10.2017) by [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 2017 (S.I. 2017/879)](https://www.legislation.gov.uk/uksi/2017/879), [regs. 1](https://www.legislation.gov.uk/uksi/2017/879/regulation/1), [5](https://www.legislation.gov.uk/uksi/2017/879/regulation/5)

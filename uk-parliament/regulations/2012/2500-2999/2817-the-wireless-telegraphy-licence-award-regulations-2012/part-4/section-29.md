@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Determination of excess demand[^key-aa6a34e08fccef7d419d1ab2e7825ecd]
+## 29. Determination of excess demand[^c-aa6a34e08fccef7d419d1ab2e7825ecd]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa6a34e08fccef7d419d1ab2e7825ecd]: Commencement: Reg. 29 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-aa6a34e08fccef7d419d1ab2e7825ecd]: Commencement: Reg. 29 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

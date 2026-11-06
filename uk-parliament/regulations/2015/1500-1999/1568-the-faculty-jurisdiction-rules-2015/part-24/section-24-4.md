@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 24.4. Respondent’s notice[^key-b91f92f20b75b00a40586899b38b6171]
+## 24.4. Respondent’s notice[^c-b91f92f20b75b00a40586899b38b6171]
 
 *Extent: E*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b91f92f20b75b00a40586899b38b6171]: Commencement: [Rule 24.4](https://www.legislation.gov.uk/uksi/2015/1568/article/24.4) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-b91f92f20b75b00a40586899b38b6171]: Commencement: [Rule 24.4](https://www.legislation.gov.uk/uksi/2015/1568/article/24.4) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

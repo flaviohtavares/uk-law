@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Commencement[^key-ebb31bff6a5ecd6f7027ac405ba6bb89]
+## 2. Commencement[^c-ebb31bff6a5ecd6f7027ac405ba6bb89]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ebb31bff6a5ecd6f7027ac405ba6bb89]: Commencement: Reg. 2 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-ebb31bff6a5ecd6f7027ac405ba6bb89]: Commencement: Reg. 2 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00002]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13).
 

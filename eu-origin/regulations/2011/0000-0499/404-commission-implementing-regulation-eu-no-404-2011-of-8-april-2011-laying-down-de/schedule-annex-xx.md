@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-This Annex lays down the methodology for a fisheries administration[^key-256c58eee6391159808c67cea43279e6] to establish sampling plans for fisheries products landed from fishing vessels permitted to weigh on board in accordance with Article 60(3) of the Control Regulation.
+This Annex lays down the methodology for a fisheries administration[^c-256c58eee6391159808c67cea43279e6] to establish sampling plans for fisheries products landed from fishing vessels permitted to weigh on board in accordance with Article 60(3) of the Control Regulation.
 
 1\.
 
@@ -28,19 +28,19 @@ The aim of the sampling plans shall be to verify the accuracy of weighing when f
 
 2\.
 
-A fisheries administration must[^key-17d1cd52c6e905d34f6c94aa664623e8] ensure that sampling is carried out at the time of landing of the fisheries products from the fishing vessel on which they were weighed.
+A fisheries administration must[^c-17d1cd52c6e905d34f6c94aa664623e8] ensure that sampling is carried out at the time of landing of the fisheries products from the fishing vessel on which they were weighed.
 
 3\.
 
-The size of the sample shall be determined on the basis of the risk of non-compliance with Fisheries Rules[^key-a0f92ae0273a1d6952117c5c74ecc05c] by those fishing vessels permitted to weigh fisheries products on board.
+The size of the sample shall be determined on the basis of the risk of non-compliance with Fisheries Rules[^c-a0f92ae0273a1d6952117c5c74ecc05c] by those fishing vessels permitted to weigh fisheries products on board.
 
 4\.
 
-A fisheries administration must[^key-d949653dcac1462109deab39dec2bb8f] establish risk at the following levels: ‘very low’, ‘low’, ‘medium’, ‘high’ and ‘very high’.
+A fisheries administration must[^c-d949653dcac1462109deab39dec2bb8f] establish risk at the following levels: ‘very low’, ‘low’, ‘medium’, ‘high’ and ‘very high’.
 
 5\.
 
-In establishing the level of risk of non compliance with Fisheries Rules[^key-ba6e4f499b05957a64df6e94658a38cf], a fisheries administration must[^key-d919f8529b75b8672819dc7f0facf0d9] take account of all relevant criteria. These shall include, but not be limited to:
+In establishing the level of risk of non compliance with Fisheries Rules[^c-ba6e4f499b05957a64df6e94658a38cf], a fisheries administration must[^c-d919f8529b75b8672819dc7f0facf0d9] take account of all relevant criteria. These shall include, but not be limited to:
 
 - levels of landings from fishing vessels permitted to weigh catches of fisheries products on board at a port, or other location, or within a region,
 - levels of previously detected infringements associated with fishing vessels permitted to weigh catches of fisheries products on board,
@@ -62,7 +62,7 @@ The sampling plan shall include measures to ensure that the weighing of the samp
 
 8\.
 
-The number of boxes sample weighed shall be proportionate to the assessed risk level. Preferably, a fisheries administration should[^key-f1997097d7ccc3ca3aba43a56e187b10] indicate the number of boxes to be weighed by means of tables for the different risk levels, as in the example below:
+The number of boxes sample weighed shall be proportionate to the assessed risk level. Preferably, a fisheries administration should[^c-f1997097d7ccc3ca3aba43a56e187b10] indicate the number of boxes to be weighed by means of tables for the different risk levels, as in the example below:
 
 <table>
 <tbody>
@@ -86,7 +86,7 @@ The sampling plan shall also include measures to ensure that:
 
 - operators comply with established sampling levels,
 - without prejudice to Article 71(2) of this Regulation the results of weighing determined from sampling plans are used for the purposes mentioned in Article 60(5) of the Control Regulation,
-- a selected number of landings of fisheries products, to be determined by a fisheries administration[^key-2eb0add0105ec58df550dc4af3502e60] on the basis of its risk analysis, are weighed in the presence of officials of the competent authorities.
+- a selected number of landings of fisheries products, to be determined by a fisheries administration[^c-2eb0add0105ec58df550dc4af3502e60] on the basis of its risk analysis, are weighed in the presence of officials of the competent authorities.
 
 11\.
 
@@ -94,18 +94,18 @@ Any risk analysis, data assessment, validation procedure, audit procedure, or ot
 
 ## Annotations
 
-[^key-256c58eee6391159808c67cea43279e6]: Textual amendment: Words in [Annex 20](https://www.legislation.gov.uk/eur/2011/404/annex/XX) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(112)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/112/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-256c58eee6391159808c67cea43279e6]: Textual amendment: Words in [Annex 20](https://www.legislation.gov.uk/eur/2011/404/annex/XX) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(112)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/112/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-17d1cd52c6e905d34f6c94aa664623e8]: Textual amendment: Words in [Annex 20 point 2](https://www.legislation.gov.uk/eur/2011/404/annex/XX) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(112)(b)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/112/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-17d1cd52c6e905d34f6c94aa664623e8]: Textual amendment: Words in [Annex 20 point 2](https://www.legislation.gov.uk/eur/2011/404/annex/XX) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(112)(b)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/112/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a0f92ae0273a1d6952117c5c74ecc05c]: Textual amendment: Words in [Annex 20 point 3](https://www.legislation.gov.uk/eur/2011/404/annex/XX) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(112)(c)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/112/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a0f92ae0273a1d6952117c5c74ecc05c]: Textual amendment: Words in [Annex 20 point 3](https://www.legislation.gov.uk/eur/2011/404/annex/XX) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(112)(c)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/112/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d949653dcac1462109deab39dec2bb8f]: Textual amendment: Words in [Annex 20](https://www.legislation.gov.uk/eur/2011/404/annex/XX) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(112)(d)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/112/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d949653dcac1462109deab39dec2bb8f]: Textual amendment: Words in [Annex 20](https://www.legislation.gov.uk/eur/2011/404/annex/XX) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(112)(d)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/112/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ba6e4f499b05957a64df6e94658a38cf]: Textual amendment: Words in [Annex 20 point 5](https://www.legislation.gov.uk/eur/2011/404/annex/XX) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(112)(e)(i)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/112/e/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ba6e4f499b05957a64df6e94658a38cf]: Textual amendment: Words in [Annex 20 point 5](https://www.legislation.gov.uk/eur/2011/404/annex/XX) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(112)(e)(i)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/112/e/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d919f8529b75b8672819dc7f0facf0d9]: Textual amendment: Words in [Annex 20 point 5](https://www.legislation.gov.uk/eur/2011/404/annex/XX) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(112)(e)(ii)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/112/e/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d919f8529b75b8672819dc7f0facf0d9]: Textual amendment: Words in [Annex 20 point 5](https://www.legislation.gov.uk/eur/2011/404/annex/XX) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(112)(e)(ii)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/112/e/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f1997097d7ccc3ca3aba43a56e187b10]: Textual amendment: Words in [Annex 20 point 8](https://www.legislation.gov.uk/eur/2011/404/annex/XX) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(112)(f)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/112/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f1997097d7ccc3ca3aba43a56e187b10]: Textual amendment: Words in [Annex 20 point 8](https://www.legislation.gov.uk/eur/2011/404/annex/XX) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(112)(f)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/112/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2eb0add0105ec58df550dc4af3502e60]: Textual amendment: Words in [Annex 20 point 10](https://www.legislation.gov.uk/eur/2011/404/annex/XX) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(112)(g)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/112/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2eb0add0105ec58df550dc4af3502e60]: Textual amendment: Words in [Annex 20 point 10](https://www.legislation.gov.uk/eur/2011/404/annex/XX) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(112)(g)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/112/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

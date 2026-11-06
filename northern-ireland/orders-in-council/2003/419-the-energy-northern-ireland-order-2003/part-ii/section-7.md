@@ -30,13 +30,13 @@ summary: ''
 
 (5)[^c21264431] The Authority shall—
 
-- (a) prepare and keep under review, with a view to making any necessary changes, guidance for consumers of gas [^key-29f8f4b284103f6b04a48402122e8a87]... which:
-  - (i) addresses all matters included in any document published by the European Commission before[^key-edde60c2155c22e6e46397061fc555d8] IP completion day[^key-5d41c22b133ecc10ff24a297eedd1b4b] pursuant to [^key-29f8f4b284103f6b04a48402122e8a87]... Article 3(12) of the Gas Directive; and
+- (a) prepare and keep under review, with a view to making any necessary changes, guidance for consumers of gas [^c-29f8f4b284103f6b04a48402122e8a87]... which:
+  - (i) addresses all matters included in any document published by the European Commission before[^c-edde60c2155c22e6e46397061fc555d8] IP completion day[^c-5d41c22b133ecc10ff24a297eedd1b4b] pursuant to [^c-29f8f4b284103f6b04a48402122e8a87]... Article 3(12) of the Gas Directive; and
   - (ii) may include any other information relating to the rights of the consumers which the Authority considers appropriate;
 - (b) consult the Council when preparing and keeping under review the guidance referred to in paragraph (a); and
 - (c) publish that guidance by making it available on its website and any other manner as the Authority considers appropriate for the purpose of bringing it to the attention of the consumers and others likely to be interested.
 
-(6)[^key-046bdea560f4c5d350bd9ca1225f07a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-046bdea560f4c5d350bd9ca1225f07a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -44,10 +44,10 @@ summary: ''
 
 [^c21264431]: Textual amendment: Art. 7(5)(6) inserted (15.4.2011) by [Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [reg. 37](https://www.legislation.gov.uk/nisr/2011/155/regulation/37)
 
-[^key-29f8f4b284103f6b04a48402122e8a87]: Textual amendment: Words in art. 7(5)(a) omitted (31.12.2020) by virtue of [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [22(a)](https://www.legislation.gov.uk/nisr/2020/307/regulation/22/a)
+[^c-29f8f4b284103f6b04a48402122e8a87]: Textual amendment: Words in art. 7(5)(a) omitted (31.12.2020) by virtue of [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [22(a)](https://www.legislation.gov.uk/nisr/2020/307/regulation/22/a)
 
-[^key-edde60c2155c22e6e46397061fc555d8]: Textual amendment: Words in art. 7(5)(a)(i) inserted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [132](https://www.legislation.gov.uk/uksi/2019/530/regulation/132); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-edde60c2155c22e6e46397061fc555d8]: Textual amendment: Words in art. 7(5)(a)(i) inserted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [132](https://www.legislation.gov.uk/uksi/2019/530/regulation/132); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5d41c22b133ecc10ff24a297eedd1b4b]: Textual amendment: Words in art. 7(5)(a)(i) substituted in earlier amending provision S.I. 2019/530, reg. 132 (31.12.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(46)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/46)
+[^c-5d41c22b133ecc10ff24a297eedd1b4b]: Textual amendment: Words in art. 7(5)(a)(i) substituted in earlier amending provision S.I. 2019/530, reg. 132 (31.12.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(46)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/46)
 
-[^key-046bdea560f4c5d350bd9ca1225f07a1]: Textual amendment: Art. 7(6) omitted (31.12.2020) by virtue of [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [22(b)](https://www.legislation.gov.uk/nisr/2020/307/regulation/22/b)
+[^c-046bdea560f4c5d350bd9ca1225f07a1]: Textual amendment: Art. 7(6) omitted (31.12.2020) by virtue of [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [22(b)](https://www.legislation.gov.uk/nisr/2020/307/regulation/22/b)

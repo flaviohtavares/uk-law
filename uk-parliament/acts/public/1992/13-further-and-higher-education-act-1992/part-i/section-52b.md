@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52B. Duty to review provision in relation to local needs: England[^key-9206979ce71eeccc16fef2bc09782c9a]
+## 52B. Duty to review provision in relation to local needs: England[^c-9206979ce71eeccc16fef2bc09782c9a]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9206979ce71eeccc16fef2bc09782c9a]: Textual amendment: [S. 52B](https://www.legislation.gov.uk/ukpga/1992/13/section/52B) inserted (28.6.2022) by [Skills and Post-16 Education Act 2022 (c. 21)](https://www.legislation.gov.uk/ukpga/2022/21), [ss. 5](https://www.legislation.gov.uk/ukpga/2022/21/section/5), [36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
+[^c-9206979ce71eeccc16fef2bc09782c9a]: Textual amendment: [S. 52B](https://www.legislation.gov.uk/ukpga/1992/13/section/52B) inserted (28.6.2022) by [Skills and Post-16 Education Act 2022 (c. 21)](https://www.legislation.gov.uk/ukpga/2022/21), [ss. 5](https://www.legislation.gov.uk/ukpga/2022/21/section/5), [36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Periodic reporting requirement[^key-47ccb216eef4abc11e787a51177e3e97]
+## 32. Periodic reporting requirement[^c-47ccb216eef4abc11e787a51177e3e97]
 
 *Extent: E+W+S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-47ccb216eef4abc11e787a51177e3e97]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2022/255/regulation/32) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-47ccb216eef4abc11e787a51177e3e97]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2022/255/regulation/32) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
 [^f00022]: Footnote: Section 23 was substituted for section 23, as originally enacted, by section 36(1) and (3) of the 2004 Act.

@@ -33,7 +33,7 @@ EUROPEAN COMMUNITIES
 
 HARBOURS, DOCKS, ETC.
 
-The Harbour Works (Environmental Impact Assessment) (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^key-03f750542e71e31117623dda9dc9f475]
+The Harbour Works (Environmental Impact Assessment) (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^c-03f750542e71e31117623dda9dc9f475]
 
 Made
 
@@ -43,38 +43,38 @@ Coming into operation
 
 6th August 2007
 
-[^key-03f750542e71e31117623dda9dc9f475]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-03f750542e71e31117623dda9dc9f475]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-03f750542e71e31117623dda9dc9f475]
+## 1. Citation, commencement and interpretation[^c-03f750542e71e31117623dda9dc9f475]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Harbour Works (Environmental Impact Assessment) Regulations (Northern Ireland) 2003[^key-03f750542e71e31117623dda9dc9f475]
+## 2. Amendment of the Harbour Works (Environmental Impact Assessment) Regulations (Northern Ireland) 2003[^c-03f750542e71e31117623dda9dc9f475]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-03f750542e71e31117623dda9dc9f475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-03f750542e71e31117623dda9dc9f475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-03f750542e71e31117623dda9dc9f475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-03f750542e71e31117623dda9dc9f475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-03f750542e71e31117623dda9dc9f475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-03f750542e71e31117623dda9dc9f475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-03f750542e71e31117623dda9dc9f475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-03f750542e71e31117623dda9dc9f475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-03f750542e71e31117623dda9dc9f475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-03f750542e71e31117623dda9dc9f475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-03f750542e71e31117623dda9dc9f475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-03f750542e71e31117623dda9dc9f475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-03f750542e71e31117623dda9dc9f475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-03f750542e71e31117623dda9dc9f475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-03f750542e71e31117623dda9dc9f475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-03f750542e71e31117623dda9dc9f475] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03f750542e71e31117623dda9dc9f475]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-03f750542e71e31117623dda9dc9f475]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03f750542e71e31117623dda9dc9f475]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-03f750542e71e31117623dda9dc9f475]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-03f750542e71e31117623dda9dc9f475]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/312) revoked (14.1.2019) by [The Harbour Works (Environmental Impact Assessment) (Revocation) Regulations (Northern Ireland) 2018 (S.R. 2018/193)](https://www.legislation.gov.uk/nisr/2018/193), [reg. 2(b)](https://www.legislation.gov.uk/nisr/2018/193/regulation/2/b)
+[^c-03f750542e71e31117623dda9dc9f475]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/312) revoked (14.1.2019) by [The Harbour Works (Environmental Impact Assessment) (Revocation) Regulations (Northern Ireland) 2018 (S.R. 2018/193)](https://www.legislation.gov.uk/nisr/2018/193), [reg. 2(b)](https://www.legislation.gov.uk/nisr/2018/193/regulation/2/b)

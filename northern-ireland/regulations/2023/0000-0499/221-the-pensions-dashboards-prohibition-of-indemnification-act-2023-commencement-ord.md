@@ -37,11 +37,11 @@ Made
 
 The Department for Communities makes the following Order in exercise of the power conferred by section 2(5) of the Pensions Dashboards (Prohibition of Indemnification) Act 2023[^f00001].
 
-## 1. Citation[^key-9c14b220197898a3d0a6ec27f81227a8]
+## 1. Citation[^c-9c14b220197898a3d0a6ec27f81227a8]
 
 This Order may be cited as the Pensions Dashboards (Prohibition of Indemnification) Act 2023 (Commencement) Order (Northern Ireland) 2023.
 
-## 2. Appointed day[^key-fa876c753e2f8fa0e49e4b043782f475]
+## 2. Appointed day[^c-fa876c753e2f8fa0e49e4b043782f475]
 
 The day appointed for the coming into operation of section 1(2) of the Pensions Dashboards (Prohibition of Indemnification) Act 2023 (no indemnification for penalties under pensions dashboards regulations) is 1st January 2024.
 
@@ -65,6 +65,6 @@ The amendment makes it an offence for a trustee or manager of an occupational or
 
 [^f00001]: Footnote: [2023 c. 14](https://www.legislation.gov.uk/ukpga/2023/14)
 
-[^key-9c14b220197898a3d0a6ec27f81227a8]: Commencement: Art. 1 in operation at made date
+[^c-9c14b220197898a3d0a6ec27f81227a8]: Commencement: Art. 1 in operation at made date
 
-[^key-fa876c753e2f8fa0e49e4b043782f475]: Commencement: Art. 2 in operation at made date
+[^c-fa876c753e2f8fa0e49e4b043782f475]: Commencement: Art. 2 in operation at made date

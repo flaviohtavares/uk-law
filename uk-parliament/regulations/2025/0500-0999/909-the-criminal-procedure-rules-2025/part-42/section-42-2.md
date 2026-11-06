@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42.2. Other applications[^key-43bf9f74d24df335775b91b0baf8698c]
+## 42.2. Other applications[^c-43bf9f74d24df335775b91b0baf8698c]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ as it applies in relation to applications under Part I of the Criminal Appeal Ac
 
 ## Annotations
 
-[^key-43bf9f74d24df335775b91b0baf8698c]: Commencement: [Rule 42.2](https://www.legislation.gov.uk/uksi/2025/909/rule/42.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-43bf9f74d24df335775b91b0baf8698c]: Commencement: [Rule 42.2](https://www.legislation.gov.uk/uksi/2025/909/rule/42.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00990]: Footnote: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19).

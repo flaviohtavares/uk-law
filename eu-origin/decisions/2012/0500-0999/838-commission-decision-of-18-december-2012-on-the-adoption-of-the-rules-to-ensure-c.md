@@ -37,27 +37,27 @@ on the adoption of the Rules to ensure consistent verification of the existence 
 
 (2012/838/EU, Euratom) (revoked)
 
-[^key-6cc27bf25d1dd29adff25109951290db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6cc27bf25d1dd29adff25109951290db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-6cc27bf25d1dd29adff25109951290db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-6cc27bf25d1dd29adff25109951290db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-6cc27bf25d1dd29adff25109951290db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-6cc27bf25d1dd29adff25109951290db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-6cc27bf25d1dd29adff25109951290db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-6cc27bf25d1dd29adff25109951290db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6cc27bf25d1dd29adff25109951290db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6cc27bf25d1dd29adff25109951290db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-6cc27bf25d1dd29adff25109951290db]
+## ANNEX[^c-6cc27bf25d1dd29adff25109951290db]
 
-[^key-6cc27bf25d1dd29adff25109951290db]FOREWORD
+[^c-6cc27bf25d1dd29adff25109951290db]FOREWORD
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6cc27bf25d1dd29adff25109951290db]GENERAL PURPOSE
+[^c-6cc27bf25d1dd29adff25109951290db]GENERAL PURPOSE
 
 This document addresses the rules to ensure a consistent verification of:
 
@@ -78,21 +78,21 @@ The following guiding principles, developed over successive meetings of a workin
 - While the legal and operational verification has to be performed for each entity, not all entities are subject to financial capacity verification. Section 3.3 which includes a ‘Decision Tree on Financial Capacity Verification’ gives detailed information on the conditions that lead to a verification of the financial capacity of an entity.
 - Due to the introduction of a Participants' Guarantee Fund (PGF), no additional financial guarantee or security will be requested from participants or imposed on them, such as reduction of pre-financing for a particular participant, trust accounts, blocked accounts, financial guarantees, etc. The services implementing FP7 will however strengthen ex-post controls to ensure the good implementation of FP7 indirect actions and protect the financial interests of the participants and of the Union.
 
-[^key-6cc27bf25d1dd29adff25109951290db]1.
+[^c-6cc27bf25d1dd29adff25109951290db]1.
 
 VERIFICATION OF THE LEGAL EXISTENCE AND LEGAL STATUS/CATEGORY
 
-[^key-6cc27bf25d1dd29adff25109951290db]1.1.
+[^c-6cc27bf25d1dd29adff25109951290db]1.1.
 
 **Principles**
 
-[^key-6cc27bf25d1dd29adff25109951290db]1.1.1.
+[^c-6cc27bf25d1dd29adff25109951290db]1.1.1.
 
 *Confidentiality and protection of data*
 
 All data and documents related to the legal and financial verification communicated to the validation services shall be treated as confidential and subject to Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data. All data shall be processed in accordance with the principles of transparency, proportionality, impartiality and legality.
 
-[^key-6cc27bf25d1dd29adff25109951290db]1.1.2.
+[^c-6cc27bf25d1dd29adff25109951290db]1.1.2.
 
 *Legal Existence*
 
@@ -103,7 +103,7 @@ In compliance with Article 4 of the FP7 RP, a grant can only be awarded to an ex
 
 In accordance with Article 2(1) of the FP7 RP, a legal entity is any natural person, or any legal person created under the national law of its place of establishment, or under Union law or international law, which has legal personality and which may, acting in its own name, exercise rights and be subject to obligations.
 
-[^key-6cc27bf25d1dd29adff25109951290db]1.1.3.
+[^c-6cc27bf25d1dd29adff25109951290db]1.1.3.
 
 *Legal status according to the Rules for Participation for FP7 (Categories of legal entities)*
 
@@ -124,7 +124,7 @@ As a general rule, if a legal entity may be categorized in different categories 
 
 Even if the participant loses its status/category of non-profit public body, secondary and higher education establishment, research organisation or SME, he/she will retain the advantages of this status for the signed grant agreements for the whole duration (unless it can be shown that the status/category granted was based on false declarations or manipulated intentionally with the sole purpose of obtaining the FP7 grant). However, participants must inform the validation services whenever such change occurs. If the participant signs another grant agreement after having lost the respective status it will not qualify to have the status.
 
-[^key-6cc27bf25d1dd29adff25109951290db]1.1.3.1.
+[^c-6cc27bf25d1dd29adff25109951290db]1.1.3.1.
 
 Definitions
 
@@ -151,7 +151,7 @@ Definitions
 
     Therefore, applicants who had their validation as SME refused on grounds of having exceeded the ceilings stated in Article 2 of Recommendation 2003/361/EC during the last accounting period shall get the validation reversed if they prove that those ceilings were not reached in the second-last accounting period. This does not apply if an SME has exceeded the thresholds as a result of a merger or acquisition.
 
-[^key-6cc27bf25d1dd29adff25109951290db]1.1.4.
+[^c-6cc27bf25d1dd29adff25109951290db]1.1.4.
 
 *Requested data and documents*
 
@@ -184,25 +184,25 @@ Legal entities shall provide in particular the supporting documents listed in th
   - ((xii)) A declaration shall be accepted as means of evidence to demonstrate that, in spite of lack of turnover, the enterprise is engaged in an economic activity, namely by the investments made and the likely expected return.
   - ((xiii)) The supporting documents above can be replaced by an official certificate issued by an official authority or competent body in the Member State in which the legal entity has its legal address or habitual residence and which certifies that the enterprise is an SME in the sense of Recommendation 2003/361/EC. However, sworn or solemn statements made by the applicant before a judicial or administrative authority, a notary or a public officer in the country of origin or provenance shall not be accepted as replacement of the required supporting documents.
 
-[^key-6cc27bf25d1dd29adff25109951290db]1.1.5.
+[^c-6cc27bf25d1dd29adff25109951290db]1.1.5.
 
 *Effective date of the legal existence and the legal status/category*
 
-[^key-6cc27bf25d1dd29adff25109951290db]1.
+[^c-6cc27bf25d1dd29adff25109951290db]1.
 
 The date on which the legal existence and the legal status/category of a legal entity are taken into account as being effective by the Commission (effective date) is the date upon which the legal act establishing the constitution or incorporation of a legal entity becomes valid. That date shall be, in order of precedence:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6cc27bf25d1dd29adff25109951290db]2.
+[^c-6cc27bf25d1dd29adff25109951290db]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6cc27bf25d1dd29adff25109951290db]3.
+[^c-6cc27bf25d1dd29adff25109951290db]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6cc27bf25d1dd29adff25109951290db]1.2.
+[^c-6cc27bf25d1dd29adff25109951290db]1.2.
 
 **Implementation of the verification of legal existence and legal status/category**
 
@@ -230,33 +230,33 @@ Once the legal existence of the applicant is determined, the validation services
 
 After having verified the legal existence and legal status/category of an entity the validation services shall verify and record the indirect cost method declared by the applicant.
 
-[^key-6cc27bf25d1dd29adff25109951290db]1.2.1.
+[^c-6cc27bf25d1dd29adff25109951290db]1.2.1.
 
 *Provisions regarding cases of incomplete, contradictory or false declarations and/or supporting documents*
 
-[^key-6cc27bf25d1dd29adff25109951290db]1.
+[^c-6cc27bf25d1dd29adff25109951290db]1.
 
 All evidence is presumed to be truthful and provided in good faith. The validation services may resort to all publicly available information for clarification purposes.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6cc27bf25d1dd29adff25109951290db]2.
+[^c-6cc27bf25d1dd29adff25109951290db]2.
 
 In the following cases, namely
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6cc27bf25d1dd29adff25109951290db]3.
+[^c-6cc27bf25d1dd29adff25109951290db]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6cc27bf25d1dd29adff25109951290db]4.
+[^c-6cc27bf25d1dd29adff25109951290db]4.
 
 In case of irregularities and/or false declarations the validation services shall inform the concerned Authorising officer and, if necessary, the European Anti-Fraud Office (OLAF).
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6cc27bf25d1dd29adff25109951290db]1.2.2.
+[^c-6cc27bf25d1dd29adff25109951290db]1.2.2.
 
 *Information on the outcome of the validation and the validated ‘Participant Identification Code’ (PIC)*
 
@@ -264,7 +264,7 @@ The validation services shall duly inform the applicants, of the outcome of the 
 
 Each validated entity receives a unique validated 9-digit registration number, the ‘Participant Identification Code’ (PIC) which shall be used in any participation of the entity in subsequent FP7 proposals.
 
-[^key-6cc27bf25d1dd29adff25109951290db]1.2.3.
+[^c-6cc27bf25d1dd29adff25109951290db]1.2.3.
 
 *Declaration on the correctness of the basic data in the Grant Preparation Form*
 
@@ -275,7 +275,7 @@ The legal representative of the organisation is the person authorised to commit 
 - ((a)) Verify that the basic administrative and legal data provided in the GPF for his/her organisation are correct; and, if not, ask for their modification via the Participant Portal.
 - ((b)) Declare on his/her honour that all the information provided in the GPF regarding his/her organisation is complete, accurate and correct, declare that it is not in one of the situations mentioned in Articles 93(1), 94 and 96(2)(a) of the FR and provide a signature certifying the above in the GPF. Supporting documents regarding the legal representatives of the legal persons mentioned in this section can be requested by the services implementing FP7.
 
-[^key-6cc27bf25d1dd29adff25109951290db]1.2.4.
+[^c-6cc27bf25d1dd29adff25109951290db]1.2.4.
 
 *Legal Entity Appointed Representative (LEAR)*
 
@@ -285,13 +285,13 @@ As soon as registered in the central database the LEAR becomes the official cont
 
 In case of such changes of legal data or legal status/category, the LEAR shall request a modification of a previous validation on the basis of the legal and/or financial supporting documents.
 
-[^key-6cc27bf25d1dd29adff25109951290db]1.2.5.
+[^c-6cc27bf25d1dd29adff25109951290db]1.2.5.
 
 *Modification of validations*
 
 Requests for modification of a previous validation shall only be accepted if submitted by the LEAR. If a LEAR has not been nominated yet, this nomination process must be achieved for the treatment of the modification request to begin.
 
-[^key-6cc27bf25d1dd29adff25109951290db]1.2.5.1.
+[^c-6cc27bf25d1dd29adff25109951290db]1.2.5.1.
 
 Modifications of validations due to an error of the initial validation
 
@@ -299,13 +299,13 @@ Such modifications are registered retroactively with an effective date as from t
 
 However, in such cases and if considered necessary, other protection measures, i.e. listed in point 4.2.2, can be implemented. When the modification concerns an error attributable to the validation services, the retroactive effect may be waived by the authorising officer of the competent service implementing FP7, when duly justified and complying with the principles of sound financial management and proportionality.
 
-[^key-6cc27bf25d1dd29adff25109951290db]1.2.5.2.
+[^c-6cc27bf25d1dd29adff25109951290db]1.2.5.2.
 
 Modifications of validations due to a change of the legal existence and legal status/category
 
 The validation services shall encode the effective date of the modification of the legal existence or legal status/category of a legal entity which is determined by the date on which the act establishing the change becomes valid, unless the terms of this act stipulate another date. For SMEs the effective date of the modification of status shall be the closure date of the accounting period on which the change of status is based and which is determined according to the rules laid down in section 1.1.3.1, paragraph (6)(e) above.
 
-[^key-6cc27bf25d1dd29adff25109951290db]1.2.5.3.
+[^c-6cc27bf25d1dd29adff25109951290db]1.2.5.3.
 
 Changes of the indirect cost method (ICM)
 
@@ -319,41 +319,41 @@ Any requests for change of the ICM shall be duly justified either by an evolutio
 
 By requesting an ICM change, the participant declares to have read and accepted the rules regarding the choice of the ICM (Article II.15 of the Model Grant Agreement).
 
-[^key-6cc27bf25d1dd29adff25109951290db](1)
+[^c-6cc27bf25d1dd29adff25109951290db](1)
 
 Changes of the legal status of the participant
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6cc27bf25d1dd29adff25109951290db](2)
+[^c-6cc27bf25d1dd29adff25109951290db](2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6cc27bf25d1dd29adff25109951290db](3)
+[^c-6cc27bf25d1dd29adff25109951290db](3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6cc27bf25d1dd29adff25109951290db]1.2.6.
+[^c-6cc27bf25d1dd29adff25109951290db]1.2.6.
 
 *Administrative review of validations*
 
-[^key-6cc27bf25d1dd29adff25109951290db]1.
+[^c-6cc27bf25d1dd29adff25109951290db]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6cc27bf25d1dd29adff25109951290db]2.
+[^c-6cc27bf25d1dd29adff25109951290db]2.
 
 Requests for review of validations may be addressed in writing with no other formalities being required directly to the competent validation service by the nominated LEAR of the concerned legal entity.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6cc27bf25d1dd29adff25109951290db]3.
+[^c-6cc27bf25d1dd29adff25109951290db]3.
 
 The validation services shall acknowledge the receipt of the request for review. They shall duly inform the concerned party of the decision thereon. In case of rejection, the grounds shall be given.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6cc27bf25d1dd29adff25109951290db]1.2.7.
+[^c-6cc27bf25d1dd29adff25109951290db]1.2.7.
 
 *The Validation Panel*
 
@@ -361,11 +361,11 @@ The DGs and the Executive Agencies of the European Commission implementing FP7 s
 
 In case a request for review is submitted by an applicant to the competent validation services in accordance with 1.2.7 above, these services shall refer the request to the validation panel. The validation panel shall review and decide on the referred cases of legal entity validation. The validation panel does not have the mandate to deal with cases related to the verification of the financial capacity.
 
-[^key-6cc27bf25d1dd29adff25109951290db]2.
+[^c-6cc27bf25d1dd29adff25109951290db]2.
 
 VERIFICATION OF THE OPERATIONAL CAPACITY
 
-[^key-6cc27bf25d1dd29adff25109951290db]2.1.
+[^c-6cc27bf25d1dd29adff25109951290db]2.1.
 
 **Principles**
 
@@ -384,11 +384,11 @@ The purpose of the verification is therefore to assess whether the applicants (c
 
 In case a natural person performs the specific role of coordinator, particular attention has to be given to the assessment of his/her operational capacity.
 
-[^key-6cc27bf25d1dd29adff25109951290db]2.2.
+[^c-6cc27bf25d1dd29adff25109951290db]2.2.
 
 **Implementation**
 
-[^key-6cc27bf25d1dd29adff25109951290db]2.2.1.
+[^c-6cc27bf25d1dd29adff25109951290db]2.2.1.
 
 *At proposal stage*
 
@@ -400,7 +400,7 @@ An above-threshold score will indicate a positive assessment by the independent 
 
 The independent external evaluators will provide comments to the services implementing FP7 (cf Evaluation Summary Report) for any legal entity for which they consider that the necessary operational capacity to perform its foreseen tasks is obviously insufficient or not enough demonstrated.
 
-[^key-6cc27bf25d1dd29adff25109951290db]2.2.2.
+[^c-6cc27bf25d1dd29adff25109951290db]2.2.2.
 
 *At negotiation stage*
 
@@ -410,11 +410,11 @@ Each applicant shall provide to the services implementing FP7 a declaration on i
 
 In the particular case of a legal entity joining the consortium during the negotiation or during the implementation of the indirect action, the assessment of its operational capacity will be based on the same principles.
 
-[^key-6cc27bf25d1dd29adff25109951290db]3.
+[^c-6cc27bf25d1dd29adff25109951290db]3.
 
 VERIFICATION OF THE FINANCIAL CAPACITY: RULES OF IMPLEMENTATION
 
-[^key-6cc27bf25d1dd29adff25109951290db]3.1.
+[^c-6cc27bf25d1dd29adff25109951290db]3.1.
 
 **Principles**
 
@@ -434,13 +434,13 @@ The verification of the financial capacity of an applicant to carry out the acti
 
 The same procedure and documents, as described hereafter, will be used/requested for legal entities joining an indirect action during the negotiation or the implementation of this indirect action.
 
-[^key-6cc27bf25d1dd29adff25109951290db]3.2.
+[^c-6cc27bf25d1dd29adff25109951290db]3.2.
 
 **Reasons for a concise financial analysis as a general rule**
 
 Given the important number of applicants whose financial capacity has to be analysed and in order to avoid unreasonable delays, a concise financial viability check is carried out. However, if the result of the concise financial viability check of a legal entity is ‘weak’, a more in-depth financial analysis shall be carried out.
 
-[^key-6cc27bf25d1dd29adff25109951290db]3.3.
+[^c-6cc27bf25d1dd29adff25109951290db]3.3.
 
 **Categories of legal entities subject to (or exempted from) a verification of their financial capacity**
 
@@ -468,17 +468,17 @@ For any other legal entity participating in an FP7 indirect action, a verificati
 
 A decision tree to identify categories of legal entities subject to a verification of their financial capacity is provided in the next page.
 
-[^key-6cc27bf25d1dd29adff25109951290db]**Decision tree on financial capacity verification**
+[^c-6cc27bf25d1dd29adff25109951290db]**Decision tree on financial capacity verification**
 
 [image: see source](https://www.legislation.gov.uk/eudn/2012/838/images/eudn_20120838_2012-12-18_en_001)
 
-[^key-6cc27bf25d1dd29adff25109951290db]3.4.
+[^c-6cc27bf25d1dd29adff25109951290db]3.4.
 
 **Requested data and documents**
 
 In accordance with FP7 RP, the term ‘legal entity’ shall include both legal persons and natural persons.
 
-[^key-6cc27bf25d1dd29adff25109951290db]3.4.1.
+[^c-6cc27bf25d1dd29adff25109951290db]3.4.1.
 
 *Legal persons*
 
@@ -499,7 +499,7 @@ If the entity, in its capacity as a parent company (upstream enterprise) of a gr
 
 If the entity, in its capacity as a subsidiary of a parent company (downstream linked applicants), is exempt from a statutory audit under its national legislation and only the consolidated statements are available, the validation services can limit their request to the synthesis of the non-consolidated balance sheet and the profit and loss account in a specific format (‘Simplified accounts’), supported by a copy of the official consolidated financial reports of the parent company and the related audit reports. Nevertheless, if such entity requests more than EUR 500 000 EU contribution, a full audit report certifying the non-consolidated accounts of the last available financial year for the subsidiary has to be provided.
 
-[^key-6cc27bf25d1dd29adff25109951290db]3.4.2.
+[^c-6cc27bf25d1dd29adff25109951290db]3.4.2.
 
 *Natural persons*
 
@@ -517,7 +517,7 @@ At the negotiation stage, and in compliance with FP7 RP and with the IR of the F
 - an exhaustive list (with relevant dates and figures) of its debts, broken down in short-term debts (maximum one year) and medium/long-term debts (more than one year), as certified by its creditors;
 - an audit report, as described in section 3.4.1, if requesting an estimated EU financial contribution exceeding EUR 500 000.
 
-[^key-6cc27bf25d1dd29adff25109951290db]3.4.3.
+[^c-6cc27bf25d1dd29adff25109951290db]3.4.3.
 
 *Other remarks*
 
@@ -527,11 +527,11 @@ The financial data has to be provided at the beginning of negotiations and in so
 
 Subject to the decision of the responsible authorising officer, a legal entity that does not provide its requested data and documents in due time will not be able to participate in the FP7 indirect action in question.
 
-[^key-6cc27bf25d1dd29adff25109951290db]3.5.
+[^c-6cc27bf25d1dd29adff25109951290db]3.5.
 
 **Financial viability check**
 
-[^key-6cc27bf25d1dd29adff25109951290db]3.5.1.
+[^c-6cc27bf25d1dd29adff25109951290db]3.5.1.
 
 *Purpose*
 
@@ -547,17 +547,17 @@ The validation services provide a user-friendly electronic tool to applicants to
 
 The following ratios, noteworthy value and thresholds apply for legal persons. Specific criteria will be used for natural persons (see section 3.5.4).
 
-[^key-6cc27bf25d1dd29adff25109951290db]3.5.2.
+[^c-6cc27bf25d1dd29adff25109951290db]3.5.2.
 
 *Used ratios and noteworthy value*
 
 The concise financial viability is based on the 3 financial ratios defined as follows:
 
-[^key-6cc27bf25d1dd29adff25109951290db]Equity flag
+[^c-6cc27bf25d1dd29adff25109951290db]Equity flag
 
 In addition, a noteworthy value based on equity is used as a complementary data (Flag). The Equity flag will be considered ‘positive’ if the indicator ‘Total debt / Equity’ is superior or equal to 0 and inferior or equal to 10 (where [formula: see source](https://www.legislation.gov.uk/eudn/2012/838)).
 
-[^key-6cc27bf25d1dd29adff25109951290db]3.5.3.
+[^c-6cc27bf25d1dd29adff25109951290db]3.5.3.
 
 *Thresholds*
 
@@ -579,29 +579,29 @@ The following rules are applied for the special cases where the ratio is negativ
   - If Total debt = 0 and the Equity is negative, the result shall be -1 with weak qualifications.
   - The calculation of the Equity flag is based on the same principles, but it will be considered ‘positive’ if the indicator ‘Total debt/Equity’ is superior or equal to 0 and inferior or equal to 10.
 
-[^key-6cc27bf25d1dd29adff25109951290db]3.5.4.
+[^c-6cc27bf25d1dd29adff25109951290db]3.5.4.
 
 *Particular case of natural persons*
 
 For natural persons, the financial viability will be assessed as follows:
 
-[^key-6cc27bf25d1dd29adff25109951290db]3.5.4.1.
+[^c-6cc27bf25d1dd29adff25109951290db]3.5.4.1.
 
 Used ratios
 
 The financial viability is based on the 2 financial ratios as follows:
 
-[^key-6cc27bf25d1dd29adff25109951290db]3.5.4.2.
+[^c-6cc27bf25d1dd29adff25109951290db]3.5.4.2.
 
 Thresholds
 
 According to the results obtained for each of the abovementioned ratios, the following quotes are given:
 
-[^key-6cc27bf25d1dd29adff25109951290db]3.6.
+[^c-6cc27bf25d1dd29adff25109951290db]3.6.
 
 **Co-financing capacity check**
 
-[^key-6cc27bf25d1dd29adff25109951290db]3.6.1.
+[^c-6cc27bf25d1dd29adff25109951290db]3.6.1.
 
 *Purpose*
 
@@ -613,7 +613,7 @@ The co-financing capacity of an applicant will not only be judged on the basis o
 
 The following ratios, noteworthy value and thresholds apply for legal persons. Specific criteria will be used for natural persons (see section 3.6.4).
 
-[^key-6cc27bf25d1dd29adff25109951290db]3.6.2.
+[^c-6cc27bf25d1dd29adff25109951290db]3.6.2.
 
 *Used ratios and noteworthy value*
 
@@ -647,11 +647,11 @@ Cash flow
 
 Not taken into account for this calculation: ended projects and projects where the EU contribution = Eligible costs of the project.
 
-[^key-6cc27bf25d1dd29adff25109951290db]Financial exposure flag:
+[^c-6cc27bf25d1dd29adff25109951290db]Financial exposure flag:
 
 In addition, and for coordinators only, a noteworthy value based on the project total pre-financing and the coordinators turnover is used as complementary data (Flag). The Financial Exposure Flag will be considered ‘positive’ if the indicator ‘project total pre-financing/turnover’ is equal or inferior to 0,5. (If the turnover is 0, the operating income shall be used for the calculation.)
 
-[^key-6cc27bf25d1dd29adff25109951290db]3.6.3.
+[^c-6cc27bf25d1dd29adff25109951290db]3.6.3.
 
 *Thresholds*
 
@@ -659,27 +659,27 @@ According to the results obtained for each of the abovementioned ratios, the fol
 
 An overall score of less than 1 will be considered as a ‘weak’ co-financing capacity.
 
-[^key-6cc27bf25d1dd29adff25109951290db]3.6.4.
+[^c-6cc27bf25d1dd29adff25109951290db]3.6.4.
 
 *Particular case of natural persons*
 
 For natural persons, the co-financing capacity check will be assessed as follows:
 
-[^key-6cc27bf25d1dd29adff25109951290db]3.6.4.1.
+[^c-6cc27bf25d1dd29adff25109951290db]3.6.4.1.
 
 Used ratios
 
-[^key-6cc27bf25d1dd29adff25109951290db]3.6.4.2.
+[^c-6cc27bf25d1dd29adff25109951290db]3.6.4.2.
 
 Thresholds
 
 According to the results obtained for each of the abovementioned ratios, the following quotes are given:
 
-[^key-6cc27bf25d1dd29adff25109951290db]4.
+[^c-6cc27bf25d1dd29adff25109951290db]4.
 
 VERIFICATION OF THE FINANCIAL CAPACITY: CONCLUSION OF THE ANALYSIS (CHECKS) AND POSSIBLE MEASURES TO BE TAKEN
 
-[^key-6cc27bf25d1dd29adff25109951290db]4.1.
+[^c-6cc27bf25d1dd29adff25109951290db]4.1.
 
 **Assessment of the results of the concise analysis**
 
@@ -695,7 +695,7 @@ Despite of the abovementioned results, the financial capacity of a legal entity 
 
 If the legal entity obtained a ‘positive’ result under a concise financial analysis but there are findings of serious administrative errors or fraud involving the entity; or the entity is subject to pending legal procedures or judicial proceedings for serious administrative errors or fraud; or the entity is subject to an attachment order or significant recovery order for an outstanding amount issued by the Commission on which the payment is significantly overdue, it will be considered as having a ‘weak’ financial capacity but will not be subject to a more in-depth financial analysis. For this kind of entity, the authorising officer in charge will have to consider protection measures as defined under section 4.2.2.
 
-[^key-6cc27bf25d1dd29adff25109951290db]4.2.
+[^c-6cc27bf25d1dd29adff25109951290db]4.2.
 
 **Actions to be taken in case of ‘weak’ result**
 
@@ -709,11 +709,11 @@ If, according to the results of this more in-depth analysis, the financial capac
 
 For other cases (‘positive’ financial viability but with ‘weak’ results for co-financing check, Equity Flag, Financial Exposure Flag; audit report with serious qualification; substantial financial findings relating to the financial capacity of a legal entity following a financial audit carried out within the last 2 years), the authorising officer in charge will have to consider protection measures as defined under section 4.2.2.
 
-[^key-6cc27bf25d1dd29adff25109951290db]4.2.1.
+[^c-6cc27bf25d1dd29adff25109951290db]4.2.1.
 
 *A more in-depth financial analysis*
 
-[^key-6cc27bf25d1dd29adff25109951290db]4.2.1.1.
+[^c-6cc27bf25d1dd29adff25109951290db]4.2.1.1.
 
 For legal persons
 
@@ -738,7 +738,7 @@ The following rules are applied for the special cases where the ratio contains a
 
 Any legal entity subject to a verification of its financial capacity who obtains under a more in depth financial analysis a minimum of **4 points** as a result of its financial viability check will be considered to have a ‘positive’ financial capacity, unless it is subject to one (or several) of the situations mentioned in section 4.1.
 
-[^key-6cc27bf25d1dd29adff25109951290db]4.2.1.2.
+[^c-6cc27bf25d1dd29adff25109951290db]4.2.1.2.
 
 For natural persons
 
@@ -751,7 +751,7 @@ However, if the result of the concise financial analysis has shown:
 
 the financial capacity will be considered as ‘insufficient’ and, as a consequence, the applicant cannot participate in the indirect action, except if duly justified reasons are provided by the authorising officer according to his/her own risk assessment.
 
-[^key-6cc27bf25d1dd29adff25109951290db]4.2.2.
+[^c-6cc27bf25d1dd29adff25109951290db]4.2.2.
 
 *Protection measures*
 
@@ -775,7 +775,7 @@ The services implementing FP7 will immediately inform:
 - the coordinator of the consortium that, due to its ‘insufficient’ financial capacity, (a) legal entity(ies) involved in the proposal cannot participate in the FP7 indirect action. The coordinator will inform the consortium;
 - the relevant applicant(s) of an FP7 indirect action of the results and consequences, especially any necessary protection measure, of the verification of its (their) financial capacity, if the latter is ‘weak’. However, this shall not allow the consortium to exclude this (these) applicant(s) for that single reason.
 
-[^key-6cc27bf25d1dd29adff25109951290db]4.3.
+[^c-6cc27bf25d1dd29adff25109951290db]4.3.
 
 **Additional protection measures, including sanctions**
 
@@ -788,4 +788,4 @@ Indeed, and in addition to the abovementioned actions regarding the verification
 
 ## Annotations
 
-[^key-6cc27bf25d1dd29adff25109951290db]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-6cc27bf25d1dd29adff25109951290db]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

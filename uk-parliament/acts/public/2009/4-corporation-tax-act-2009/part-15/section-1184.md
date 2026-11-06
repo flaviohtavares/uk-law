@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1184. “Production expenditure”, “core expenditure” ...[^key-b4c104a310acef6c9617316972e526cf]
+## 1184. “Production expenditure”, “core expenditure” ...[^c-b4c104a310acef6c9617316972e526cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,12 +25,12 @@ summary: ''
 - “**production expenditure**” means expenditure on film-making activities in connection with the film, and
 - “**core expenditure**” means production expenditure on pre-production, principal photography and post-production.
 
-(2)[^key-ec2b3cbd6060c0a74fa2bef2766837d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ec2b3cbd6060c0a74fa2bef2766837d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-ec2b3cbd6060c0a74fa2bef2766837d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ec2b3cbd6060c0a74fa2bef2766837d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b4c104a310acef6c9617316972e526cf]: Textual amendment: Words in s. 1184 heading omitted (with effect in accordance with s. 29(8) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 29(2)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/29/2/b); [S.I. 2015/1741](https://www.legislation.gov.uk/uksi/2015/1741), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1741/regulation/2)
+[^c-b4c104a310acef6c9617316972e526cf]: Textual amendment: Words in s. 1184 heading omitted (with effect in accordance with s. 29(8) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 29(2)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/29/2/b); [S.I. 2015/1741](https://www.legislation.gov.uk/uksi/2015/1741), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1741/regulation/2)
 
-[^key-ec2b3cbd6060c0a74fa2bef2766837d8]: Textual amendment: S. 1184(2)(3) omitted (with effect in accordance with s. 29(8) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 29(2)(a)](https://www.legislation.gov.uk/ukpga/2015/11/section/29/2/a); [S.I. 2015/1741](https://www.legislation.gov.uk/uksi/2015/1741), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1741/regulation/2)
+[^c-ec2b3cbd6060c0a74fa2bef2766837d8]: Textual amendment: S. 1184(2)(3) omitted (with effect in accordance with s. 29(8) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 29(2)(a)](https://www.legislation.gov.uk/ukpga/2015/11/section/29/2/a); [S.I. 2015/1741](https://www.legislation.gov.uk/uksi/2015/1741), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1741/regulation/2)

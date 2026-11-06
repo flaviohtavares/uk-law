@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Registration fees[^key-8e09eecb8dadfe36441a26c160e28828]
+## 70. Registration fees[^c-8e09eecb8dadfe36441a26c160e28828]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e09eecb8dadfe36441a26c160e28828]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2017/29/section/70) in force at 1.1.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/2/c)
+[^c-8e09eecb8dadfe36441a26c160e28828]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2017/29/section/70) in force at 1.1.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/2/c)

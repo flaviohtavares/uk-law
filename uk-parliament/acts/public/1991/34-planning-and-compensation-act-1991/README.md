@@ -33,7 +33,7 @@ An Act to amend the law relating to town and country planning; to extend the pow
 
 \[25th July 1991\]
 
-[^c15657871]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-13353667084fce0b2bfee41ed95ec7fb]
+[^c15657871]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-13353667084fce0b2bfee41ed95ec7fb]
 
 ## Contents
 
@@ -234,4 +234,4 @@ SCHEDULES
 
 [^c15657871]: Modification: Act: powers transferred (1.7.1999) by virtue of [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch.1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-13353667084fce0b2bfee41ed95ec7fb]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1991/34): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-13353667084fce0b2bfee41ed95ec7fb]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1991/34): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

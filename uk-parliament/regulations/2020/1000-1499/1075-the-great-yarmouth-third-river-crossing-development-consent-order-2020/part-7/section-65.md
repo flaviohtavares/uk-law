@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 65. Service of notices[^key-9edcbe4655dbd43e1a29f87c9a282540]
+## 65. Service of notices[^c-9edcbe4655dbd43e1a29f87c9a282540]
 
 *Extent: E+W+S*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9edcbe4655dbd43e1a29f87c9a282540]: Commencement: Art. 65 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-9edcbe4655dbd43e1a29f87c9a282540]: Commencement: Art. 65 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
 [^c24294791]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

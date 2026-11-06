@@ -48,11 +48,11 @@ In accordance with section 74(2) of that Act, a draft of this instrument was lai
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-b73571f23c2726a1c607ccf262926de7]
+### 1. Citation and commencement[^c-b73571f23c2726a1c607ccf262926de7]
 
 These Regulations may be cited as the Immigration Act 2014 (Bank Accounts) Regulations 2014 and come into force on 12th December 2014.
 
-### 2. Interpretation[^key-c6d50bff1af1576b774b1d920f30dfd8]
+### 2. Interpretation[^c-c6d50bff1af1576b774b1d920f30dfd8]
 
 In these Regulations—
 
@@ -60,19 +60,19 @@ In these Regulations—
 - “the 2000 Act” means the Financial Services and Markets Act 2000[^f00002];
 - “approved person” means a person in relation to whom the appropriate regulator (within the meaning of section 59(4) of the 2000 Act) has given its approval under section 59 of that Act[^f00003];
 - “authorised person” has the meaning given in section 31(2) of the 2000 Act[^f00004];
-- “current account authorised person” means an authorised person to whom—[^key-6375d80c75ac899b650fc9b2d40acbf1]
+- “current account authorised person” means an authorised person to whom—[^c-6375d80c75ac899b650fc9b2d40acbf1]
   - (a) the prohibition in section 40 of the Act applies, or
   - (b) the requirements in section 40A, 40B or 40G of the Act apply;
 - “disqualified person” has the meaning given in section 40(3)(b) of the Act;
 - “the FCA” means the Financial Conduct Authority;
 - “the PRA” means the Prudential Regulation Authority;
 - “regulated activity” means an activity which is a regulated activity for the purposes of the 2000 Act in accordance with section 22 of that Act[^f00005];
-- “relevant requirement” means the prohibition imposed by section 40 of the Act, a requirement imposed by section 40A, 40B or 40G of the Act, or any prohibition or requirement imposed on persons other than the FCA by or under these Regulations;[^key-94064a88f8001ced880fd9647205d0fc]
+- “relevant requirement” means the prohibition imposed by section 40 of the Act, a requirement imposed by section 40A, 40B or 40G of the Act, or any prohibition or requirement imposed on persons other than the FCA by or under these Regulations;[^c-94064a88f8001ced880fd9647205d0fc]
 - “the Tribunal” has the meaning given in section 417(1) of the 2000 Act[^f00006].
 
 ## PART 2 — The FCA
 
-### 3. Functions of the FCA[^key-a299f7fec66c5dc246579d4ec0ad4c78]
+### 3. Functions of the FCA[^c-a299f7fec66c5dc246579d4ec0ad4c78]
 
 In discharging its functions under these Regulations (including its functions under any provision of the 2000 Act as applied by these Regulations), the FCA must have regard to—
 
@@ -83,7 +83,7 @@ In discharging its functions under these Regulations (including its functions un
 - (e) the desirability in appropriate cases of the FCA publishing information relating to persons on whom relevant requirements are imposed, or requiring such persons to publish information;
 - (f) the principle that the FCA should exercise its functions as transparently as possible.
 
-### 4. Monitoring and enforcement[^key-91e5579f2ebf2b0f5977708eb614d801]
+### 4. Monitoring and enforcement[^c-91e5579f2ebf2b0f5977708eb614d801]
 
 (1) The FCA must maintain arrangements designed to enable it to determine—
 
@@ -92,13 +92,13 @@ In discharging its functions under these Regulations (including its functions un
 
 (2) The FCA must also maintain arrangements designed to enable it to enforce relevant requirements.
 
-### 5. Complaints[^key-153a8f1f70c0a4ea692eb534642f62c0]
+### 5. Complaints[^c-153a8f1f70c0a4ea692eb534642f62c0]
 
 (1) The FCA must maintain arrangements designed to enable persons to submit complaints to it alleging that a relevant requirement has been breached by a current account authorised person (“the complaints arrangements”).
 
 (2) Up-to-date details of the complaints arrangements must be published by the FCA in the way appearing to it to be best calculated to bring them to the attention of the public.
 
-### 6. Penalties[^key-1f0d02faed49a48f1f511b03e0574f2c]
+### 6. Penalties[^c-1f0d02faed49a48f1f511b03e0574f2c]
 
 Paragraphs 19 to 22 (penalties) of Schedule 1ZA to the 2000 Act[^f00007] apply with respect to the discharge of the FCA’s functions under these Regulations with the following modifications—
 
@@ -107,14 +107,14 @@ Paragraphs 19 to 22 (penalties) of Schedule 1ZA to the 2000 Act[^f00007] apply w
   - (i) its powers under regulations 15 to 19 (public censure, statement of misconduct etc), and
   - (ii) its powers with respect to the investigation or prosecution of offences under regulation 20 (misleading the FCA).
 
-### 7. Fees[^key-58f26f20c1058baa0ffa706d86ec195d]
+### 7. Fees[^c-58f26f20c1058baa0ffa706d86ec195d]
 
 Paragraph 23 (fees) of Schedule 1ZA to the 2000 Act applies with respect to the discharge by the FCA of its functions under these Regulations with the following modifications—
 
 - (a) the qualifying functions of the FCA referred to in sub-paragraphs (1) and (2) include its functions under these Regulations;
 - (b) the reference to the 2000 Act in each of sub-paragraphs (7) and (8) includes a reference to these Regulations.
 
-### 8. Exemption from liability in damages[^key-b01aa1a75581db9437a74d2ccf681ec5]
+### 8. Exemption from liability in damages[^c-b01aa1a75581db9437a74d2ccf681ec5]
 
 Paragraph 25 (exemption from liability in damages) of Schedule 1ZA to the 2000 Act applies with respect to the discharge or purported discharge of the FCA’s functions under these Regulations with the following modifications—
 
@@ -123,7 +123,7 @@ Paragraph 25 (exemption from liability in damages) of Schedule 1ZA to the 2000 A
 
 ## PART 3 — Reporting and information
 
-### 9. Reporting requirements[^key-a79f7bcee5952a7c10695ecb27e68c69]
+### 9. Reporting requirements[^c-a79f7bcee5952a7c10695ecb27e68c69]
 
 (1) A current account authorised person (“P”) must provide the FCA with such information in respect of its compliance or non-compliance with any relevant requirement applicable to it as the FCA may direct.
 
@@ -131,18 +131,18 @@ Paragraph 25 (exemption from liability in damages) of Schedule 1ZA to the 2000 A
 
 (3) If at any time P considers that it is unable to comply with a relevant requirement applicable to it, P must as soon as reasonably practicable notify the FCA of that fact, including the reasons why it is unable to comply.
 
-### 10. Record keeping[^key-b25ab069fbef7d5c3e4575abf9c0fd36]
+### 10. Record keeping[^c-b25ab069fbef7d5c3e4575abf9c0fd36]
 
 (1) A current account authorised person (“P”) must maintain relevant records in retrievable and legible form for no less than five years from the date on which the records were created.
 
 (2) For the purposes of this regulation, records are relevant where they contain information relevant to demonstrating P’s compliance or non-compliance with any relevant requirement applicable to P.
 
-### 11. Specified organisations or authorities: information-sharing[^key-3976c4feb5f24803e0e50a5733fc1668]
+### 11. Specified organisations or authorities: information-sharing[^c-3976c4feb5f24803e0e50a5733fc1668]
 
 (1) An anti-fraud organisation or data-matching authority specified by the Secretary of State under section 40(3) of the Act[^f00008] shall give the FCA such information within its possession or under its control in respect of—
 
 - (a) disqualified persons, and
-- (b)[^key-5a3332694023912b24c436f25236f1be] status checks or immigration checks carried out by current account authorised persons for the purposes of section 40 or 40A of the Act,
+- (b)[^c-5a3332694023912b24c436f25236f1be] status checks or immigration checks carried out by current account authorised persons for the purposes of section 40 or 40A of the Act,
 
 as the FCA may direct.
 
@@ -150,7 +150,7 @@ as the FCA may direct.
 
 (3) Regulations 14 (investigations under Part 11 of the 2000 Act), 15 (public censure), 17 (financial penalties) and 24 to 30 (requirement to issue warning notice etc.) apply with necessary modifications to an anti-fraud organisation or data-matching authority specified by the Secretary of State under section 40(3) of the Act as if such organisation or authority was a current account authorised person.
 
-### 12. Restrictions on disclosure of information[^key-a08f6a56af76fcf4e5d706ee38e31236]
+### 12. Restrictions on disclosure of information[^c-a08f6a56af76fcf4e5d706ee38e31236]
 
 Sections 348 (restrictions on disclosure of confidential information by FCA, PRA etc), 349 (exceptions from section 348), and 352 (offences) of the 2000 Act[^f00009] apply in relation to the functions of the FCA under these Regulations with the following modifications—
 
@@ -158,13 +158,13 @@ Sections 348 (restrictions on disclosure of confidential information by FCA, PRA
 - (b) the reference in section 348(5)(d) to sections 166A and 166 of that Act includes a reference to those sections as applied by these Regulations, and
 - (c) the reference in section 348(6)(b) to a competent person refers to a competent person appointed by the FCA to conduct an investigation under Part XI of the 2000 Act as applied by these Regulations.
 
-### 13. Disclosure of confidential information[^key-c48cfe51b85dbc826a07492842ac3a4f]
+### 13. Disclosure of confidential information[^c-c48cfe51b85dbc826a07492842ac3a4f]
 
 The Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^f00010] apply in relation to the functions of the FCA under these Regulations.
 
 ## PART 4 — Investigatory powers
 
-### 14. Investigations under Part 11 of the 2000 Act[^key-b85bc08b38b2d03de10ddfd38a3190d8]
+### 14. Investigations under Part 11 of the 2000 Act[^c-b85bc08b38b2d03de10ddfd38a3190d8]
 
 (1) Part 11 (information gathering and investigations) of the 2000 Act[^f00011] applies with respect to the discharge by the FCA of its functions under these Regulations as if in that Part—
 
@@ -176,7 +176,7 @@ The Financial Services and Markets Act 2000 (Disclosure of Confidential Informat
 
 (2) With respect to the discharge by the FCA of its functions under these Regulations—
 
-- (a) section 165 (regulators’ power to require information: authorised persons etc.) of the 2000 Act applies as if subsections (4)(b), (7)(b) to (e) and (8A)[^key-4cd5e73d9f3d5808e8657cbd7eef59de] were omitted;
+- (a) section 165 (regulators’ power to require information: authorised persons etc.) of the 2000 Act applies as if subsections (4)(b), (7)(b) to (e) and (8A)[^c-4cd5e73d9f3d5808e8657cbd7eef59de] were omitted;
 - (b) section 166 (reports by skilled persons) of the 2000 Act applies as if subsections (10) and (11) were omitted;
 - (c) section 166A (appointment of skilled person to collect and update information) of the 2000 Act applies—
   - (i) as if each reference to a requirement with respect to information included a reference to a relevant requirement with respect to information, and
@@ -188,7 +188,7 @@ The Financial Services and Markets Act 2000 (Disclosure of Confidential Informat
   - (iv) in subsection (5A), paragraphs (a) and (c) and in paragraph (b) the words “or the PRA” were omitted, and
   - (v) subsection (6) were omitted;
 - (e) section 168 (appointment of persons to carry out investigations in particular cases) of the 2000 Act applies as if—
-  - (i)[^key-9c665946b4307b4da47537709859a62d] in subsection (1) for paragraph (b) the following were substituted—
+  - (i)[^c-9c665946b4307b4da47537709859a62d] in subsection (1) for paragraph (b) the following were substituted—
 
     > - (b) a current account authorised person may have contravened the prohibition imposed by section 40 or a requirement imposed by section 40A, 40B or 40G of the Act, or any requirement imposed by or under the Immigration Act 2014 (Bank Accounts) Regulations 2014.
 
@@ -218,15 +218,15 @@ The Financial Services and Markets Act 2000 (Disclosure of Confidential Informat
 
 ## PART 5 — Disciplinary measures and offences
 
-### 15. Public censure[^key-17b7371f5a9fd7466a9726e5cd67056b]
+### 15. Public censure[^c-17b7371f5a9fd7466a9726e5cd67056b]
 
 If the FCA considers that a current account authorised person has contravened a relevant requirement, the FCA may publish a statement to that effect.
 
-### 16. Statement of misconduct[^key-c32618cdc5904622c7270c1600d98af9]
+### 16. Statement of misconduct[^c-c32618cdc5904622c7270c1600d98af9]
 
 If the FCA considers that an approved person (“A”) has been knowingly concerned in a contravention by a current account authorised person of a relevant requirement, the FCA may publish a statement to that effect.
 
-### 17. Financial penalties[^key-a8b9f5b4d710aceaec07b32d2a1a37bc]
+### 17. Financial penalties[^c-a8b9f5b4d710aceaec07b32d2a1a37bc]
 
 (1) If the FCA considers that a current account authorised person (“P”) has contravened a relevant requirement, it may impose on P a penalty of such amount as it considers appropriate.
 
@@ -234,7 +234,7 @@ If the FCA considers that an approved person (“A”) has been knowingly concer
 
 (3) A penalty imposed under this regulation is payable to the FCA and may be recovered as a debt owed to the FCA.
 
-### 18. Restrictions on permission to carry on regulated activities[^key-422fdbb3ac0aab248a9107a645c45a78]
+### 18. Restrictions on permission to carry on regulated activities[^c-422fdbb3ac0aab248a9107a645c45a78]
 
 (1) If the FCA considers that a current account authorised person (“P”) has contravened a relevant requirement, it may impose, for such period as it considers appropriate, such limitations or other restrictions in relation to the carrying on of a regulated activity by P as it considers appropriate.
 
@@ -253,7 +253,7 @@ If the FCA considers that an approved person (“A”) has been knowingly concer
 
 (7) Any one or more of the powers under this regulation and regulations 15 to 17 (public censure, statement of misconduct and financial penalties) may be exercised in relation to the same contravention.
 
-### 19. Suspension of and restrictions on approval to carry on functions[^key-24be4c95762a4d7515567596dbd986df]
+### 19. Suspension of and restrictions on approval to carry on functions[^c-24be4c95762a4d7515567596dbd986df]
 
 (1) If the FCA considers that an approved person (“A”) has been knowingly concerned in a contravention by a current account authorised person of a relevant requirement, it may—
 
@@ -277,7 +277,7 @@ If the FCA considers that an approved person (“A”) has been knowingly concer
 
 (8) If at any time a restriction imposed under paragraph (1)(b) is contravened, approval under section 59 of the 2000 Act in relation to A is to be treated for the purposes of sections 59 and 63A of the 2000 Act as if it had been withdrawn at that time.
 
-### 20. Misleading the FCA[^key-1a528e6d7e32682243a2a35cfc14f62b]
+### 20. Misleading the FCA[^c-1a528e6d7e32682243a2a35cfc14f62b]
 
 (1) A person must not, for the purposes of compliance or purported compliance with a relevant requirement, other than this regulation, knowingly or recklessly give the FCA information which is false or misleading in a material particular.
 
@@ -295,13 +295,13 @@ the information is false or misleading in a material particular and knowing that
 - (a) on summary conviction, to a fine not exceeding the statutory maximum, or
 - (b) on conviction on indictment, to a fine.
 
-### 21. Restriction on penalties[^key-6473f2fda6f5f21f981d85cb7f27faa4]
+### 21. Restriction on penalties[^c-6473f2fda6f5f21f981d85cb7f27faa4]
 
 (1) A person who is convicted of an offence under regulation 20 (misleading the FCA) is not subsequently liable to a penalty under regulation 17 (financial penalties) in respect of the same acts or omissions that constituted the offence.
 
 (2) A person who is liable to a penalty under regulation 17 is not subsequently liable for an offence under regulation 20 in respect of the same acts or omissions that constituted the contravention of a relevant requirement for the purposes of that regulation.
 
-### 22. Proceedings for offences[^key-831fb09360c1fd8444941feea4ccaaa4]
+### 22. Proceedings for offences[^c-831fb09360c1fd8444941feea4ccaaa4]
 
 (1) Proceedings for an offence under regulation 20 (misleading the FCA) may be instituted—
 
@@ -310,7 +310,7 @@ the information is false or misleading in a material particular and knowing that
 
 (2) In exercising its power to institute proceedings for an offence under regulation 20, the FCA must comply with any conditions or restrictions imposed in writing by the Treasury in relation to such proceedings.
 
-### 23. Proceedings against unincorporated bodies[^key-95ada1d51eeb0647ae0b4d051242c4fc]
+### 23. Proceedings against unincorporated bodies[^c-95ada1d51eeb0647ae0b4d051242c4fc]
 
 (1) Proceedings for an offence under regulation 20 (misleading the FCA) alleged to have been committed by a partnership or other unincorporated association must be brought in the name of the partnership or association (and not in that of its members).
 
@@ -333,7 +333,7 @@ the information is false or misleading in a material particular and knowing that
 
 ## PART 6 — Notices
 
-### 24. Requirement to issue warning notice[^key-097abe6d3ef93d256cedfd1068635a29]
+### 24. Requirement to issue warning notice[^c-097abe6d3ef93d256cedfd1068635a29]
 
 (1) Where the FCA proposes to—
 
@@ -351,7 +351,7 @@ it must give the person concerned a warning notice.
 - (c) in the case of a restriction on a permission under regulation 18, the restriction and the period for which it is to have effect;
 - (d) in the case of a suspension or restriction on an approval under regulation 19, the suspension or restriction and the period for which it is to have effect.
 
-### 25. Requirement to issue decision notice[^key-5cd8ee0157793e1e702003883783a7f5]
+### 25. Requirement to issue decision notice[^c-5cd8ee0157793e1e702003883783a7f5]
 
 (1) If, having considered any representations made in response to the warning notice, the FCA decides to—
 
@@ -369,7 +369,7 @@ it must without delay give the person concerned a decision notice.
 - (c) in the case of a restriction on a permission under regulation 18, the restriction and the period for which it is to have effect;
 - (d) in the case of a suspension or restriction on an approval under regulation 19, the suspension or restriction and the period for which it is to have effect.
 
-### 26. Notices: other interested parties and third party rights[^key-657ace66eb4160baa157137a1d0646da]
+### 26. Notices: other interested parties and third party rights[^c-657ace66eb4160baa157137a1d0646da]
 
 (1) Where the FCA proposes to suspend or restrict an approval under regulation 19 (suspension of and restriction on approval to carry on functions), a warning notice and decision notice must also be given to each of the other interested parties.
 
@@ -377,7 +377,7 @@ it must without delay give the person concerned a decision notice.
 
 (3) After a statement under regulation 15 (public censure) or 16 (statement of misconduct) is published, the FCA must send a copy of it to the person concerned and to any person to whom a copy of the decision notice was given under section 393(4) (third party rights) of the 2000 Act[^f00019] (as applied by regulation 29 (application of Part 26 of the 2000 Act)).
 
-### 27. Referral to Tribunal[^key-ed769012f20f16a15d25090149ddf166]
+### 27. Referral to Tribunal[^c-ed769012f20f16a15d25090149ddf166]
 
 If the FCA decides to—
 
@@ -388,7 +388,7 @@ If the FCA decides to—
 
 the person concerned may refer the matter to the Tribunal.
 
-### 28. Statements of policy[^key-bec412b87233766851645357cecbc795]
+### 28. Statements of policy[^c-bec412b87233766851645357cecbc795]
 
 (1) Sections 69 (statements of policy) and 70 (statements of policy: procedure) of the 2000 Act[^f00020] apply in relation to the preparation and issuance by the FCA of statements of policy with respect to—
 
@@ -406,7 +406,7 @@ as they apply in relation to the preparation and issuance by the FCA of statemen
 
 as they apply in relation to the preparation and issuance by the FCA of statements of policy with respect to action the FCA may take under Part 14 (disciplinary measures) of the 2000 Act[^f00023].
 
-### 29. Application of Part 26 of the 2000 Act[^key-d99c594e173e59bce00517c25bcdb5c0]
+### 29. Application of Part 26 of the 2000 Act[^c-d99c594e173e59bce00517c25bcdb5c0]
 
 (1) Part 26 (notices) of the 2000 Act[^f00024] applies with respect to the discharge by the FCA of its functions under regulations 24 (requirement to issue warning notice), 25 (requirement to issue decision notice) or 26 (notices: other interested parties and third party rights) as if references to the PRA in that Part were omitted.
 
@@ -445,7 +445,7 @@ as they apply in relation to the preparation and issuance by the FCA of statemen
 
 ## PART 7 — The Tribunal
 
-### 30. The Tribunal[^key-04ce255b3e987446990c6fdfa94d40f9]
+### 30. The Tribunal[^c-04ce255b3e987446990c6fdfa94d40f9]
 
 (1) Part 9 (hearings and appeals) of the 2000 Act[^f00025] applies with respect to proceedings pursuant to references to the Tribunal under these Regulations (“relevant proceedings”) as it applies to proceedings pursuant to references to the Tribunal under that Act, with the following modifications.
 
@@ -505,9 +505,9 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00001]: Footnote: [2014 c.22](https://www.legislation.gov.uk/ukpga/2014/22).
 
-[^key-b73571f23c2726a1c607ccf262926de7]: Commencement: Reg. 1 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-b73571f23c2726a1c607ccf262926de7]: Commencement: Reg. 1 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
-[^key-c6d50bff1af1576b774b1d920f30dfd8]: Commencement: Reg. 2 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-c6d50bff1af1576b774b1d920f30dfd8]: Commencement: Reg. 2 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
 [^f00002]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
@@ -515,73 +515,73 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00004]: Footnote: Section 31 is amended by section 11 of the Financial Services Act 2012.
 
-[^key-6375d80c75ac899b650fc9b2d40acbf1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/3085/regulation/2) substituted (30.10.2017) by [The Immigration Act 2014 (Current Accounts) (Excluded Accounts and Notification Requirements) Regulations 2016 (S.I. 2016/1252)](https://www.legislation.gov.uk/uksi/2016/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1252/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2016/1252/regulation/4/2/a)
+[^c-6375d80c75ac899b650fc9b2d40acbf1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/3085/regulation/2) substituted (30.10.2017) by [The Immigration Act 2014 (Current Accounts) (Excluded Accounts and Notification Requirements) Regulations 2016 (S.I. 2016/1252)](https://www.legislation.gov.uk/uksi/2016/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1252/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2016/1252/regulation/4/2/a)
 
 [^f00005]: Footnote: Section 22 is amended by section 7 of the Financial Services Act 2012.
 
-[^key-94064a88f8001ced880fd9647205d0fc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/3085/regulation/2) substituted (30.10.2017) by [The Immigration Act 2014 (Current Accounts) (Excluded Accounts and Notification Requirements) Regulations 2016 (S.I. 2016/1252)](https://www.legislation.gov.uk/uksi/2016/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1252/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2016/1252/regulation/4/2/b)
+[^c-94064a88f8001ced880fd9647205d0fc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/3085/regulation/2) substituted (30.10.2017) by [The Immigration Act 2014 (Current Accounts) (Excluded Accounts and Notification Requirements) Regulations 2016 (S.I. 2016/1252)](https://www.legislation.gov.uk/uksi/2016/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1252/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2016/1252/regulation/4/2/b)
 
 [^f00006]: Footnote: The definition was inserted by [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22). There are other amendments to section 417(1), but none is relevant here.
 
-[^key-a299f7fec66c5dc246579d4ec0ad4c78]: Commencement: Reg. 3 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-a299f7fec66c5dc246579d4ec0ad4c78]: Commencement: Reg. 3 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
-[^key-91e5579f2ebf2b0f5977708eb614d801]: Commencement: Reg. 4 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-91e5579f2ebf2b0f5977708eb614d801]: Commencement: Reg. 4 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
-[^key-153a8f1f70c0a4ea692eb534642f62c0]: Commencement: Reg. 5 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-153a8f1f70c0a4ea692eb534642f62c0]: Commencement: Reg. 5 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
-[^key-1f0d02faed49a48f1f511b03e0574f2c]: Commencement: Reg. 6 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-1f0d02faed49a48f1f511b03e0574f2c]: Commencement: Reg. 6 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
 [^f00007]: Footnote: Schedule 1ZA was inserted by Schedule 3 to the Financial Services Act 2012 and is amended by section 109 of, paragraph 7 of Schedule 8 to and paragraph 4 of Schedule 10 to the Financial Services (Banking Reform) Act 2013 and [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773). Other amendments are not relevant here.
 
-[^key-58f26f20c1058baa0ffa706d86ec195d]: Commencement: Reg. 7 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-58f26f20c1058baa0ffa706d86ec195d]: Commencement: Reg. 7 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
-[^key-b01aa1a75581db9437a74d2ccf681ec5]: Commencement: Reg. 8 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-b01aa1a75581db9437a74d2ccf681ec5]: Commencement: Reg. 8 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
-[^key-a79f7bcee5952a7c10695ecb27e68c69]: Commencement: Reg. 9 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-a79f7bcee5952a7c10695ecb27e68c69]: Commencement: Reg. 9 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
-[^key-b25ab069fbef7d5c3e4575abf9c0fd36]: Commencement: Reg. 10 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-b25ab069fbef7d5c3e4575abf9c0fd36]: Commencement: Reg. 10 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
-[^key-3976c4feb5f24803e0e50a5733fc1668]: Commencement: Reg. 11 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-3976c4feb5f24803e0e50a5733fc1668]: Commencement: Reg. 11 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
 [^f00008]: Footnote: See [S.I. 2014/22](https://www.legislation.gov.uk/uksi/2014/22). See also section 40(4) of the Act for the meaning of “specified”.
 
-[^key-5a3332694023912b24c436f25236f1be]: Textual amendment: [Reg. 11(1)(b)](https://www.legislation.gov.uk/uksi/2014/3085/regulation/11/1/b) substituted (30.10.2017) by [The Immigration Act 2014 (Current Accounts) (Excluded Accounts and Notification Requirements) Regulations 2016 (S.I. 2016/1252)](https://www.legislation.gov.uk/uksi/2016/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1252/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2016/1252/regulation/4/3)
+[^c-5a3332694023912b24c436f25236f1be]: Textual amendment: [Reg. 11(1)(b)](https://www.legislation.gov.uk/uksi/2014/3085/regulation/11/1/b) substituted (30.10.2017) by [The Immigration Act 2014 (Current Accounts) (Excluded Accounts and Notification Requirements) Regulations 2016 (S.I. 2016/1252)](https://www.legislation.gov.uk/uksi/2016/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1252/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2016/1252/regulation/4/3)
 
-[^key-a08f6a56af76fcf4e5d706ee38e31236]: Commencement: Reg. 12 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-a08f6a56af76fcf4e5d706ee38e31236]: Commencement: Reg. 12 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
 [^f00009]: Footnote: Section 348 is amended by paragraph 26 of Schedule 2 to the Financial Services Act [2010 (c.28)](https://www.legislation.gov.uk/ukpga/2010/28), paragraph 18 of Schedule 12 to the Financial Services Act 2012 and paragraph 5 of Schedule 8 to the Financial Services (Banking Reform) Act 2013. Section 349 is amended by section 964 of the Companies Act [2006 (c.46)](https://www.legislation.gov.uk/ukpga/2006/46), paragraph 19 of Schedule 12 to the Financial Services Act 2012, [S.I. 2006/1183](https://www.legislation.gov.uk/uksi/2006/1183), [S.I. 2007/1093](https://www.legislation.gov.uk/uksi/2007/1093) and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). Section 352 is amended by paragraph 54 of Schedule 26 to the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44).
 
-[^key-c48cfe51b85dbc826a07492842ac3a4f]: Commencement: Reg. 13 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-c48cfe51b85dbc826a07492842ac3a4f]: Commencement: Reg. 13 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
 [^f00010]: Footnote: [S.I. 2001/2188](https://www.legislation.gov.uk/uksi/2001/2188), amended by [S.I. 2001/3437](https://www.legislation.gov.uk/uksi/2001/3437), [S.I. 2003/2174](https://www.legislation.gov.uk/uksi/2003/2174), [S.I. 2003/2817](https://www.legislation.gov.uk/uksi/2003/2817), [S.I. 2005/3071](https://www.legislation.gov.uk/uksi/2005/3071), [S.I. 2006/3413](https://www.legislation.gov.uk/uksi/2006/3413), [S.I. 2010/1265](https://www.legislation.gov.uk/uksi/2010/1265), [S.I. 2012/916](https://www.legislation.gov.uk/uksi/2012/916) and [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472). Other amendments are not relevant here.
 
-[^key-b85bc08b38b2d03de10ddfd38a3190d8]: Commencement: Reg. 14 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-b85bc08b38b2d03de10ddfd38a3190d8]: Commencement: Reg. 14 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
 [^f00011]: Footnote: Part 11 is amended by paragraph 33 of Schedule 7 to the Counter Terrorism Act [2008 (c.28)](https://www.legislation.gov.uk/ukpga/2008/28), section 18 of and Schedule 2 to the Financial Services Act [2010 (c.28)](https://www.legislation.gov.uk/ukpga/2010/28), Schedule 12 to and paragraph 8 of Schedule 18 to the Financial Services Act 2012, [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090), [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126), [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.I. 2012/2554](https://www.legislation.gov.uk/uksi/2012/2554) and [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773). Other amendments are not relevant here.
 
-[^key-4cd5e73d9f3d5808e8657cbd7eef59de]: Textual amendment: Words in [reg. 14(2)(a)](https://www.legislation.gov.uk/uksi/2014/3085/regulation/14/2/a) substituted (30.10.2017) by [The Immigration Act 2014 (Current Accounts) (Excluded Accounts and Notification Requirements) Regulations 2016 (S.I. 2016/1252)](https://www.legislation.gov.uk/uksi/2016/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1252/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2016/1252/regulation/4/4)
+[^c-4cd5e73d9f3d5808e8657cbd7eef59de]: Textual amendment: Words in [reg. 14(2)(a)](https://www.legislation.gov.uk/uksi/2014/3085/regulation/14/2/a) substituted (30.10.2017) by [The Immigration Act 2014 (Current Accounts) (Excluded Accounts and Notification Requirements) Regulations 2016 (S.I. 2016/1252)](https://www.legislation.gov.uk/uksi/2016/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1252/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2016/1252/regulation/4/4)
 
-[^key-9c665946b4307b4da47537709859a62d]: Textual amendment: [Reg. 14(2)(e)(i)](https://www.legislation.gov.uk/uksi/2014/3085/regulation/14/2/e/i) substituted (30.10.2017) by [The Immigration Act 2014 (Current Accounts) (Excluded Accounts and Notification Requirements) Regulations 2016 (S.I. 2016/1252)](https://www.legislation.gov.uk/uksi/2016/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1252/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2016/1252/regulation/4/5)
+[^c-9c665946b4307b4da47537709859a62d]: Textual amendment: [Reg. 14(2)(e)(i)](https://www.legislation.gov.uk/uksi/2014/3085/regulation/14/2/e/i) substituted (30.10.2017) by [The Immigration Act 2014 (Current Accounts) (Excluded Accounts and Notification Requirements) Regulations 2016 (S.I. 2016/1252)](https://www.legislation.gov.uk/uksi/2016/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1252/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2016/1252/regulation/4/5)
 
-[^key-17b7371f5a9fd7466a9726e5cd67056b]: Commencement: Reg. 15 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-17b7371f5a9fd7466a9726e5cd67056b]: Commencement: Reg. 15 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
-[^key-c32618cdc5904622c7270c1600d98af9]: Commencement: Reg. 16 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-c32618cdc5904622c7270c1600d98af9]: Commencement: Reg. 16 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
-[^key-a8b9f5b4d710aceaec07b32d2a1a37bc]: Commencement: Reg. 17 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-a8b9f5b4d710aceaec07b32d2a1a37bc]: Commencement: Reg. 17 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
-[^key-422fdbb3ac0aab248a9107a645c45a78]: Commencement: Reg. 18 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-422fdbb3ac0aab248a9107a645c45a78]: Commencement: Reg. 18 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
-[^key-24be4c95762a4d7515567596dbd986df]: Commencement: Reg. 19 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-24be4c95762a4d7515567596dbd986df]: Commencement: Reg. 19 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
 [^f00012]: Footnote: Section 59 is amended by section 14 of and paragraph 3 of Schedule 5 to the Financial Services Act 2012, section 18 of and paragraph 1 of Schedule 3 to the Financial Services (Banking Reform) Act 2013, [S.I. 2012/1906](https://www.legislation.gov.uk/uksi/2012/1906) and [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773). Section 63A was inserted by section 11 of the Financial Services Act 2010 and is amended by paragraph 8 of Schedule 5 to the Financial Services Act 2012 and section 28 of and paragraph 4 of Schedule 3 to the Financial Services (Banking Reform) Act 2013.
 
-[^key-1a528e6d7e32682243a2a35cfc14f62b]: Commencement: Reg. 20 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-1a528e6d7e32682243a2a35cfc14f62b]: Commencement: Reg. 20 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
-[^key-6473f2fda6f5f21f981d85cb7f27faa4]: Commencement: Reg. 21 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-6473f2fda6f5f21f981d85cb7f27faa4]: Commencement: Reg. 21 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
-[^key-831fb09360c1fd8444941feea4ccaaa4]: Commencement: Reg. 22 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-831fb09360c1fd8444941feea4ccaaa4]: Commencement: Reg. 22 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
-[^key-95ada1d51eeb0647ae0b4d051242c4fc]: Commencement: Reg. 23 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-95ada1d51eeb0647ae0b4d051242c4fc]: Commencement: Reg. 23 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
 [^f00013]: Footnote: [1925 c.86](https://www.legislation.gov.uk/ukpga/1925/86). Section 33 is amended by the Magistrates’ Courts Act [1952 (c.55)](https://www.legislation.gov.uk/ukpga/1952/55), section 132 and Schedule 6, the Courts Act [1971 (c.23)](https://www.legislation.gov.uk/ukpga/1971/23), Schedule 8, and the Courts Act [2003 (c.39)](https://www.legislation.gov.uk/ukpga/2003/39), Schedule 8, paragraph 71 and Schedule 10.
 
@@ -593,19 +593,19 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00017]: Footnote: [S.I. 1981/1675](https://www.legislation.gov.uk/nisi/1981/1675) .
 
-[^key-097abe6d3ef93d256cedfd1068635a29]: Commencement: Reg. 24 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-097abe6d3ef93d256cedfd1068635a29]: Commencement: Reg. 24 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
-[^key-5cd8ee0157793e1e702003883783a7f5]: Commencement: Reg. 25 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-5cd8ee0157793e1e702003883783a7f5]: Commencement: Reg. 25 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
-[^key-657ace66eb4160baa157137a1d0646da]: Commencement: Reg. 26 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-657ace66eb4160baa157137a1d0646da]: Commencement: Reg. 26 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
 [^f00018]: Footnote: Section 67(9) is amended by paragraph 15 of Schedule 5 to the Financial Services Act 2012.
 
 [^f00019]: Footnote: Section 393(4) is amended by paragraph 32 of Schedule 9 to the Financial Services Act 2012.
 
-[^key-ed769012f20f16a15d25090149ddf166]: Commencement: Reg. 27 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-ed769012f20f16a15d25090149ddf166]: Commencement: Reg. 27 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
-[^key-bec412b87233766851645357cecbc795]: Commencement: Reg. 28 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-bec412b87233766851645357cecbc795]: Commencement: Reg. 28 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
 [^f00020]: Footnote: Section 69 is amended by paragraph 10 of Schedule 2 to the Financial Services Act 2010, paragraph 17 of Schedule 5 to the Financial Services Act 2012, and paragraph 7 of Schedule 3 to the Financial Services (Banking Reform) Act 2013. Section 70 is amended by paragraph 18 of Schedule 5 to the Financial Services Act 2012.
 
@@ -615,10 +615,10 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00023]: Footnote: Part 14 is amended by sections 9 and 10 of and Schedule 2 to the Financial Services Act 2010, Schedule 9 to the Financial Services Act 2012 and [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).
 
-[^key-d99c594e173e59bce00517c25bcdb5c0]: Commencement: Reg. 29 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-d99c594e173e59bce00517c25bcdb5c0]: Commencement: Reg. 29 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
 [^f00024]: Footnote: Part 26 is amended by paragraph 11 of Schedule 4 to the Regulation of Investigatory Powers Act [2000 (c.23)](https://www.legislation.gov.uk/ukpga/2000/23), sections 13 and 24 of and paragraphs 28 and 29 of Schedule 2 to the Financial Services Act 2010, sections 17, 18, 19 and 24 of and paragraph 37 of Schedule 8, Schedule 9 and paragraph 8 of Schedule 13 to the Financial Services Act 2012, section 4 of and Schedule 3 to the Financial Services (Banking Reform) Act 2013, [S.I. 2005/381](https://www.legislation.gov.uk/uksi/2005/381), [S.I. 2005/1433](https://www.legislation.gov.uk/uksi/2005/1433), [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126), [S.I. 2007/1973](https://www.legislation.gov.uk/uksi/2007/1973), [S.I. 2009/534](https://www.legislation.gov.uk/uksi/2009/534), [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22), [S.I. 2010/747](https://www.legislation.gov.uk/uksi/2010/747), [S.I. 2012/916](https://www.legislation.gov.uk/uksi/2012/916), [S.I. 2013/1388](https://www.legislation.gov.uk/uksi/2013/1388) and [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115).
 
-[^key-04ce255b3e987446990c6fdfa94d40f9]: Commencement: Reg. 30 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
+[^c-04ce255b3e987446990c6fdfa94d40f9]: Commencement: Reg. 30 in force at 12.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3085/regulation/1)
 
 [^f00025]: Footnote: Part 9 is amended by section 23 of the Financial Services Act 2012, section 4 of the Financial Services (Banking Reform) Act 2013, paragraph 83 of Schedule 9 to the Crime and Courts Act 2013 (c.22), [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22) and [S.I. 2013/1388](https://www.legislation.gov.uk/uksi/2013/1388).

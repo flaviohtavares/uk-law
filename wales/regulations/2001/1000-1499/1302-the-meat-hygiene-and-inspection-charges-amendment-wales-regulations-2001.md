@@ -41,7 +41,7 @@ Coming into force
 
 1 April 2001
 
-[^key-62586fd60ce5db40c63c4d6b2eeea33c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-62586fd60ce5db40c63c4d6b2eeea33c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -53,12 +53,12 @@ Coming into force
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-62586fd60ce5db40c63c4d6b2eeea33c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-62586fd60ce5db40c63c4d6b2eeea33c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-62586fd60ce5db40c63c4d6b2eeea33c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-62586fd60ce5db40c63c4d6b2eeea33c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-62586fd60ce5db40c63c4d6b2eeea33c]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)
+[^c-62586fd60ce5db40c63c4d6b2eeea33c]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)

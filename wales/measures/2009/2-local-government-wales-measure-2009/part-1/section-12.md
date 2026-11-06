@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Duties in relation to powers of collaboration[^key-4a485ed8bc71b4df9f8874181e7d5dec]
+## 12. Duties in relation to powers of collaboration[^c-4a485ed8bc71b4df9f8874181e7d5dec]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a485ed8bc71b4df9f8874181e7d5dec]: Commencement: S. 12 in force at 1.4.2010 by [S.I. 2009/3272](https://www.legislation.gov.uk/uksi/2009/3272), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/3272/article/3/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3272/schedule/2)
+[^c-4a485ed8bc71b4df9f8874181e7d5dec]: Commencement: S. 12 in force at 1.4.2010 by [S.I. 2009/3272](https://www.legislation.gov.uk/uksi/2009/3272), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/3272/article/3/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3272/schedule/2)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) Any document required or authorised by this Order to be served on a landlord of a dwelling-house shall be deemed to be duly served on him if it is served–
 
-- (a) on any agent of the landlord named as such in a rent book[^key-97bbfb0c442acd3a9131a5e4283aeec1]; or
+- (a) on any agent of the landlord named as such in a rent book[^c-97bbfb0c442acd3a9131a5e4283aeec1]; or
 - (b) on the person who receives the rent of the dwelling-house.
 
 (2) If–
@@ -36,4 +36,4 @@ serves upon any such agent or other person as is referred to in paragraph (1) a 
 
 ## Annotations
 
-[^key-97bbfb0c442acd3a9131a5e4283aeec1]: Textual amendment: Words in [art. 66(1)(a)](https://www.legislation.gov.uk/nisi/2006/1459/article/66/1/a) substituted (1.4.2023) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 3(4)](https://www.legislation.gov.uk/nia/2022/20/section/3/4), [14(7)](https://www.legislation.gov.uk/nia/2022/20/section/14/7); [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
+[^c-97bbfb0c442acd3a9131a5e4283aeec1]: Textual amendment: Words in [art. 66(1)(a)](https://www.legislation.gov.uk/nisi/2006/1459/article/66/1/a) substituted (1.4.2023) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 3(4)](https://www.legislation.gov.uk/nia/2022/20/section/3/4), [14(7)](https://www.legislation.gov.uk/nia/2022/20/section/14/7); [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)

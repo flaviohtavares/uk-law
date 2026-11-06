@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Assessment and collection.[^key-b3ed1a997275c46902cdd1130e85f77f]
+## 58. Assessment and collection.[^c-b3ed1a997275c46902cdd1130e85f77f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3ed1a997275c46902cdd1130e85f77f]: Textual amendment: [S. 58](https://www.legislation.gov.uk/ukpga/1988/39/section/58) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-b3ed1a997275c46902cdd1130e85f77f]: Textual amendment: [S. 58](https://www.legislation.gov.uk/ukpga/1988/39/section/58) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26A. Duty of local authority to reimburse for adaptations of vessels in England[^key-319331e76c7f5cbe65893ecdf4f21be9]
+## 26A. Duty of local authority to reimburse for adaptations of vessels in England[^c-319331e76c7f5cbe65893ecdf4f21be9]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ the authority must pay to the owner or occupier of the vessel 70% of the expendi
 
 ## Annotations
 
-[^key-319331e76c7f5cbe65893ecdf4f21be9]: Textual amendment: S. 26A inserted (E.W.) (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/5) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144), [Sch. 12 para. 26](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/26)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-319331e76c7f5cbe65893ecdf4f21be9]: Textual amendment: S. 26A inserted (E.W.) (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/5) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144), [Sch. 12 para. 26](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/26)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)

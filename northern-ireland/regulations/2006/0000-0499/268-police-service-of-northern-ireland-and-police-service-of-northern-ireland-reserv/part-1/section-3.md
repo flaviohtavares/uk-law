@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Pensionable and average pensionable pay and aggregate pension contributions[^key-0b2ecbbed3a7dca788b396691899f55a]
+## 3. Pensionable and average pensionable pay and aggregate pension contributions[^c-0b2ecbbed3a7dca788b396691899f55a]
 
 *Extent: N.I.*
 
-(A1)[^key-f661f90bc5353794bd4e4e3271116d6d] This regulation applies in relation to a police officer who is a member of the 1988 scheme[^key-e2e89c3ef2a67fae15c4f207bebbe298] or the 2006 scheme, but who is not a member of the 2015 scheme.
+(A1)[^c-f661f90bc5353794bd4e4e3271116d6d] This regulation applies in relation to a police officer who is a member of the 1988 scheme[^c-e2e89c3ef2a67fae15c4f207bebbe298] or the 2006 scheme, but who is not a member of the 2015 scheme.
 
 (1) For the purposes of calculating an award to or in respect of a member of the police service his pensionable pay shall be calculated—
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0b2ecbbed3a7dca788b396691899f55a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/268/regulation/3) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Police Pension (Northern Ireland) Regulations 2009 (S.R. 2009/79)](https://www.legislation.gov.uk/nisr/2009/79), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2), [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/2009/79/schedule/5/paragraph/2)
+[^c-0b2ecbbed3a7dca788b396691899f55a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/268/regulation/3) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Police Pension (Northern Ireland) Regulations 2009 (S.R. 2009/79)](https://www.legislation.gov.uk/nisr/2009/79), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2), [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/2009/79/schedule/5/paragraph/2)
 
-[^key-f661f90bc5353794bd4e4e3271116d6d]: Textual amendment: [Reg. 3(A1)](https://www.legislation.gov.uk/nisr/2006/268/regulation/3/A1) inserted (1.4.2021) by [The Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) (Amendment) Regulations 2021 (S.R. 2021/43)](https://www.legislation.gov.uk/nisr/2021/43), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2021/43/regulation/1/2), [4(1)](https://www.legislation.gov.uk/nisr/2021/43/regulation/4/1)
+[^c-f661f90bc5353794bd4e4e3271116d6d]: Textual amendment: [Reg. 3(A1)](https://www.legislation.gov.uk/nisr/2006/268/regulation/3/A1) inserted (1.4.2021) by [The Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) (Amendment) Regulations 2021 (S.R. 2021/43)](https://www.legislation.gov.uk/nisr/2021/43), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2021/43/regulation/1/2), [4(1)](https://www.legislation.gov.uk/nisr/2021/43/regulation/4/1)
 
-[^key-e2e89c3ef2a67fae15c4f207bebbe298]: Textual amendment: Words in [reg. 3(A1)](https://www.legislation.gov.uk/nisr/2006/268/regulation/3/A1) substituted (2.7.2024) by [The Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) (Amendment) (No. 2) Regulations 2024 (S.R. 2024/147)](https://www.legislation.gov.uk/nisr/2024/147), [regs. 2](https://www.legislation.gov.uk/nisr/2024/147/regulation/2), [5](https://www.legislation.gov.uk/nisr/2024/147/regulation/5)
+[^c-e2e89c3ef2a67fae15c4f207bebbe298]: Textual amendment: Words in [reg. 3(A1)](https://www.legislation.gov.uk/nisr/2006/268/regulation/3/A1) substituted (2.7.2024) by [The Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) (Amendment) (No. 2) Regulations 2024 (S.R. 2024/147)](https://www.legislation.gov.uk/nisr/2024/147), [regs. 2](https://www.legislation.gov.uk/nisr/2024/147/regulation/2), [5](https://www.legislation.gov.uk/nisr/2024/147/regulation/5)

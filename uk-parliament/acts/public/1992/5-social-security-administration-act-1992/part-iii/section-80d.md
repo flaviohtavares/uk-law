@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80D. Disqualification from driving[^key-bbf2f5af370bfed77dcdfd0bb8ba0673]
+## 80D. Disqualification from driving[^c-bbf2f5af370bfed77dcdfd0bb8ba0673]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3ZB makes provision for a liable person to be disqualified from driving
 
 ## Annotations
 
-[^key-bbf2f5af370bfed77dcdfd0bb8ba0673]: Textual amendment: S. 80D inserted (24.6.2026) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 96(2)](https://www.legislation.gov.uk/ukpga/2025/28/section/96/2), [109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/c)
+[^c-bbf2f5af370bfed77dcdfd0bb8ba0673]: Textual amendment: S. 80D inserted (24.6.2026) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 96(2)](https://www.legislation.gov.uk/ukpga/2025/28/section/96/2), [109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/c)

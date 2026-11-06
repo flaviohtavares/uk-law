@@ -114,47 +114,47 @@ Section 137.
 
 **17.**[^c13081301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **23.**[^c13081361] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **27.**[^c13081401] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**28.**[^key-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**29.**[^key-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**30.**[^key-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**31.**[^key-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**32.**[^key-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.**[^key-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**34.**[^key-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**35.**[^key-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**36.**[^key-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-1fe00931cb54e131a36c090c11c233bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **37.** . . . [^c13081501]
 
-**38.**[^key-eb35b91f1488676a83d2a7a57dc4eba3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-eb35b91f1488676a83d2a7a57dc4eba3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part III — England and Wales and Scotland
 
@@ -212,7 +212,7 @@ Section 137.
 
 [^c13081301]: Textual amendment: Sch. 12 para. 17 repealed (1.4.1993) by [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14), [s. 117(2)](https://www.legislation.gov.uk/ukpga/1992/14/section/117/2), [Sch.14](https://www.legislation.gov.uk/ukpga/1992/14/schedule/14) (with [s. 118(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1992/14/section/118/1/2/4)); [S.I. 1993/575](https://www.legislation.gov.uk/uksi/1993/575), [art. 2](https://www.legislation.gov.uk/uksi/1993/575/article/2),Sch.
 
-[^key-1fe00931cb54e131a36c090c11c233bc]: Textual amendment: Sch. 12 paras. 17-36 repealed (26.3.2015 in so far as not already in force) by [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), [s. 119(2)](https://www.legislation.gov.uk/ukpga/1992/14/section/119/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1992/14/schedule/14) (with [s. 118](https://www.legislation.gov.uk/ukpga/1992/14/section/118)); [S.S.I. 2015/59](https://www.legislation.gov.uk/ssi/2015/59), [art. 2](https://www.legislation.gov.uk/ssi/2015/59/article/2)
+[^c-1fe00931cb54e131a36c090c11c233bc]: Textual amendment: Sch. 12 paras. 17-36 repealed (26.3.2015 in so far as not already in force) by [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), [s. 119(2)](https://www.legislation.gov.uk/ukpga/1992/14/section/119/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1992/14/schedule/14) (with [s. 118](https://www.legislation.gov.uk/ukpga/1992/14/section/118)); [S.S.I. 2015/59](https://www.legislation.gov.uk/ssi/2015/59), [art. 2](https://www.legislation.gov.uk/ssi/2015/59/article/2)
 
 [^c13081361]: Textual amendment: Sch. 12 para. 23 repealed (1.4.1993) by [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14), [s. 117(2)](https://www.legislation.gov.uk/ukpga/1992/14/section/117/2), [Sch.14](https://www.legislation.gov.uk/ukpga/1992/14/schedule/14) (with [s. 118(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1992/14/section/118/1/2/4)); [S.I. 1993/575](https://www.legislation.gov.uk/uksi/1993/575), [art. 2](https://www.legislation.gov.uk/uksi/1993/575/article/2),Sch.
 
@@ -220,6 +220,6 @@ Section 137.
 
 [^c13081501]: Textual amendment: Sch. 12 para. 37 repealed by [Local Government and Housing Act 1989 (c. 42, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 194(4)](https://www.legislation.gov.uk/ukpga/1989/42/section/194/4), [Sch. 12 Pt. II](https://www.legislation.gov.uk/ukpga/1989/42/schedule/12/part/II)
 
-[^key-eb35b91f1488676a83d2a7a57dc4eba3]: Textual amendment: Sch. 12 para. 38 repealed (26.3.2015) by [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), [s. 119(2)](https://www.legislation.gov.uk/ukpga/1992/14/section/119/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1992/14/schedule/14) (with [s. 118](https://www.legislation.gov.uk/ukpga/1992/14/section/118)); [S.S.I. 2015/59](https://www.legislation.gov.uk/ssi/2015/59), [art. 2](https://www.legislation.gov.uk/ssi/2015/59/article/2)
+[^c-eb35b91f1488676a83d2a7a57dc4eba3]: Textual amendment: Sch. 12 para. 38 repealed (26.3.2015) by [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), [s. 119(2)](https://www.legislation.gov.uk/ukpga/1992/14/section/119/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1992/14/schedule/14) (with [s. 118](https://www.legislation.gov.uk/ukpga/1992/14/section/118)); [S.S.I. 2015/59](https://www.legislation.gov.uk/ssi/2015/59), [art. 2](https://www.legislation.gov.uk/ssi/2015/59/article/2)
 
 [^c13081521]: Textual amendment: Sch. 12 Pt. III para 41 repealed (1.10.1992) by [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53), [ss. 18(2)](https://www.legislation.gov.uk/ukpga/1992/53/section/18/2), [19(2)](https://www.legislation.gov.uk/ukpga/1992/53/section/19/2), [Sch. 4 Pt.I](https://www.legislation.gov.uk/ukpga/1992/53/schedule/4/part/I)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Winding up of limited partnerships: concurrent proceedings[^key-291096890948fd59510f3176b72d78a0]
+## 134. Winding up of limited partnerships: concurrent proceedings[^c-291096890948fd59510f3176b72d78a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-291096890948fd59510f3176b72d78a0]: Commencement: S. 134 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-291096890948fd59510f3176b72d78a0]: Commencement: S. 134 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

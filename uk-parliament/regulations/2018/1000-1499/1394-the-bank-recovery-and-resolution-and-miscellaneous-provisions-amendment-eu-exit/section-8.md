@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Section 89H of the Banking Act 2009 (recognition of third-country resolution actions) does not apply in relation to any of the following where taken before IP completion day[^key-1b4bb83e5c05be3c6584a86eae71e74e] under the law of an EEA State other than the United Kingdom—
+(1) Section 89H of the Banking Act 2009 (recognition of third-country resolution actions) does not apply in relation to any of the following where taken before IP completion day[^c-1b4bb83e5c05be3c6584a86eae71e74e] under the law of an EEA State other than the United Kingdom—
 
 - (a) the application of a resolution tool within the meaning of Article 2.1(19) of the recovery and resolution directive;
 - (b) the exercise of a resolution power within the meaning of Article 2.1(20) of the recovery and resolution directive;
@@ -34,4 +34,4 @@ summary: ''
 
 [^c23518441]: Commencement: Reg. 8 in force at 31. 12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-1b4bb83e5c05be3c6584a86eae71e74e]: Textual amendment: Words in reg. 8(1) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 10(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/10/a)
+[^c-1b4bb83e5c05be3c6584a86eae71e74e]: Textual amendment: Words in reg. 8(1) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 10(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/10/a)

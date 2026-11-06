@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Attempts[^key-a111cbd85a6c8949b3e0b29767671068][^key-067c92b4e383a0310ddf4ac3c480fb1b]
+## 39. Attempts[^c-a111cbd85a6c8949b3e0b29767671068][^c-067c92b4e383a0310ddf4ac3c480fb1b]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 (4) Subsection (3) applies to—
 
 - (a) an offence under section 4, 13, 27, 28(2), 29, 107 or 306 of this Act or under section 18 or 20 of the Armed Forces Act 1991 (c. 62); and
-- (b) an offence under section 40 of encouraging or assisting the commission of[^key-6e53279e234bed26ece28b8673162d9e] an offence mentioned in paragraph (a).
+- (b) an offence under section 40 of encouraging or assisting the commission of[^c-6e53279e234bed26ece28b8673162d9e] an offence mentioned in paragraph (a).
 
 (5) For the purposes of this section a person attempts to commit an offence if, with intent to commit the offence, he does an act which is more than merely preparatory to the commission of the offence.
 
@@ -51,8 +51,8 @@ then for the purposes of this section he shall be regarded as having had an inte
 
 ## Annotations
 
-[^key-a111cbd85a6c8949b3e0b29767671068]: Commencement: S. 39 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-a111cbd85a6c8949b3e0b29767671068]: Commencement: S. 39 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-067c92b4e383a0310ddf4ac3c480fb1b]: Commencement: S. 39 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-067c92b4e383a0310ddf4ac3c480fb1b]: Commencement: S. 39 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-6e53279e234bed26ece28b8673162d9e]: Textual amendment: Words in s. 39(4)(b) substituted (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2007/27/schedule/5/paragraph/8) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+[^c-6e53279e234bed26ece28b8673162d9e]: Textual amendment: Words in s. 39(4)(b) substituted (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2007/27/schedule/5/paragraph/8) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)

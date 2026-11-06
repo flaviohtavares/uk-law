@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Conditions to be satisfied in relation to specified operating centres[^key-0b0b91da9e9ed8c83d4b983cc9787105]
+## 16. Conditions to be satisfied in relation to specified operating centres[^c-0b0b91da9e9ed8c83d4b983cc9787105]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ and if any appeal or notice of intention is withdrawn or abandoned the date of s
 
 ## Annotations
 
-[^key-0b0b91da9e9ed8c83d4b983cc9787105]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1995/2869/regulation/16) in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-0b0b91da9e9ed8c83d4b983cc9787105]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1995/2869/regulation/16) in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Declaration of referendum result by Chief Counting Officer[^key-bd3d1e888d1b3cb780bfdfd4023a2f5e]
+## 54. Declaration of referendum result by Chief Counting Officer[^c-bd3d1e888d1b3cb780bfdfd4023a2f5e]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ After making the certification under section 128(6) of the 2000 Act, the Chief C
 
 ## Annotations
 
-[^key-bd3d1e888d1b3cb780bfdfd4023a2f5e]: Commencement: Reg. 54 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-bd3d1e888d1b3cb780bfdfd4023a2f5e]: Commencement: Reg. 54 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

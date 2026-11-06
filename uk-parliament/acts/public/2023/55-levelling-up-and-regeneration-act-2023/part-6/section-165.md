@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Consequential repeal of power to make provision for environmental assessment[^key-29eaa2f65be1d01b1bd377d82efdb8c4]
+## 165. Consequential repeal of power to make provision for environmental assessment[^c-29eaa2f65be1d01b1bd377d82efdb8c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29eaa2f65be1d01b1bd377d82efdb8c4]: Commencement: [S. 165](https://www.legislation.gov.uk/ukpga/2023/55/section/165) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)
+[^c-29eaa2f65be1d01b1bd377d82efdb8c4]: Commencement: [S. 165](https://www.legislation.gov.uk/ukpga/2023/55/section/165) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)

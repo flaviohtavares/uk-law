@@ -55,11 +55,11 @@ summary: ''
 
 is to be disregarded for the purposes of determining whether the person has sufficient involvement in patient care for the purposes of this regulation.
 
-(8) The contractor[^key-8bb135b0bbe6c4070e64a8f79fbdeb8d] must ensure that in the case of a contract entered into prior to 22nd December 2010—
+(8) The contractor[^c-8bb135b0bbe6c4070e64a8f79fbdeb8d] must ensure that in the case of a contract entered into prior to 22nd December 2010—
 
 - (a) with a partnership, every member of that partnership who is not a medical practitioner and does not fall within paragraph (2)(b) complies with the conditions prescribed in section 17L(2)(a) and (c) of the Act as in force at 21st December 2010; and
 - (b) with a company, every person who legally and beneficially owns a share in that company who is not a medical practitioner and does not fall within paragraph (2)(b) complies with the conditions prescribed in section 17L(3)(b) of the Act as in force at 21st December 2010.
 
 ## Annotations
 
-[^key-8bb135b0bbe6c4070e64a8f79fbdeb8d]: Textual amendment: Word in [reg. 11(8)](https://www.legislation.gov.uk/ssi/2018/66/regulation/11/8) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [4](https://www.legislation.gov.uk/ssi/2018/94/regulation/4)
+[^c-8bb135b0bbe6c4070e64a8f79fbdeb8d]: Textual amendment: Word in [reg. 11(8)](https://www.legislation.gov.uk/ssi/2018/66/regulation/11/8) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [4](https://www.legislation.gov.uk/ssi/2018/94/regulation/4)

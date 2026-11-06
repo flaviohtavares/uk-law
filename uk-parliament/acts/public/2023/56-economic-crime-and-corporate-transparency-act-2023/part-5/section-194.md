@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 194. Strategic litigation against public participation: requirement to make rules of court[^key-995c028fc3c6de72ccfe7653f7ce52fa][^key-cdb992228dc6b1a981fe6a6208856624]
+## 194. Strategic litigation against public participation: requirement to make rules of court[^c-995c028fc3c6de72ccfe7653f7ce52fa][^c-cdb992228dc6b1a981fe6a6208856624]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-995c028fc3c6de72ccfe7653f7ce52fa]: Commencement: S. 194 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-995c028fc3c6de72ccfe7653f7ce52fa]: Commencement: S. 194 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-cdb992228dc6b1a981fe6a6208856624]: Commencement: [S. 194](https://www.legislation.gov.uk/ukpga/2023/56/section/194) in force at 18.6.2025 in so far as not already in force by [S.I. 2025/718](https://www.legislation.gov.uk/uksi/2025/718), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/718/regulation/2/a)
+[^c-cdb992228dc6b1a981fe6a6208856624]: Commencement: [S. 194](https://www.legislation.gov.uk/ukpga/2023/56/section/194) in force at 18.6.2025 in so far as not already in force by [S.I. 2025/718](https://www.legislation.gov.uk/uksi/2025/718), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/718/regulation/2/a)

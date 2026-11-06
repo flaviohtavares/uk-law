@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-265aba539fc84f550d5727efb5cd8041]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-265aba539fc84f550d5727efb5cd8041]
 
 *Extent: E+W+S*
 
 Article 2
 
-[^key-265aba539fc84f550d5727efb5cd8041]
+[^c-265aba539fc84f550d5727efb5cd8041]
 
 In the County of Norfolk and—
 
@@ -347,7 +347,7 @@ Work No. 21
 
 ### Associated Development
 
-[^key-265aba539fc84f550d5727efb5cd8041]
+[^c-265aba539fc84f550d5727efb5cd8041]
 
 Development which, in accordance with a direction made by the Secretary of State for Transport on 9th August 2013 under section 35 of the 2008 Act[^f00036], is associated to development for which development consent is required, comprising—
 
@@ -405,7 +405,7 @@ And in connection with the carrying out of any of the numbered works such furthe
 
 ## Annotations
 
-[^key-265aba539fc84f550d5727efb5cd8041]: Commencement: Sch. 1 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-265aba539fc84f550d5727efb5cd8041]: Commencement: Sch. 1 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
 [^f00035]: Footnote: Section 35 was substituted by section 26(2) of the Growth and Infrastructure Act [2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27).
 

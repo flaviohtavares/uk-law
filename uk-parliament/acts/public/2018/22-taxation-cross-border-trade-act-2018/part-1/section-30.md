@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. General provision for the purposes of import duty[^c23439321][^key-1cf802a6ba02264c0b8b27b9fe848c0d]
+## 30. General provision for the purposes of import duty[^c23439321][^c-1cf802a6ba02264c0b8b27b9fe848c0d]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ The Treasury may by regulations—
 
 [^c23439321]: Commencement: S. 30 in force for specified purposes at 13.9.2018, see s. 57(1)(a)
 
-[^key-1cf802a6ba02264c0b8b27b9fe848c0d]: Commencement: S. 30 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-1cf802a6ba02264c0b8b27b9fe848c0d]: Commencement: S. 30 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)

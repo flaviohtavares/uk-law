@@ -28,7 +28,7 @@ A person is not eligible to join this scheme if the person—
   - (ii) a public service pension scheme established under section I(2)(a) or l(2)(d) of the 2013 Act,
 
   in respect of service in such a scheme and is such a member;
-- (c)[^key-3c5307df2e566fc5d86d3205a9f7375f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-3c5307df2e566fc5d86d3205a9f7375f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) is a pensioner member of the 1995 Section or the 2008 Section, except so far as otherwise provided pursuant to the National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015;
 - (e) holds an honorary appointment and is not at the same time otherwise entitled to join this scheme;
 - (f) is employed by a dentist but is not a dental practitioner;
@@ -47,4 +47,4 @@ A person is not eligible to join this scheme if the person—
 
 [^c22414731]: Marginal citation: [1972 c.11](https://www.legislation.gov.uk/ukpga/1972/11).
 
-[^key-3c5307df2e566fc5d86d3205a9f7375f]: Textual amendment: [Reg. 19(c)](https://www.legislation.gov.uk/ssi/2015/94/regulation/19/c) omitted (with effect in accordance with reg. 1(5) of the amending S.S.I.) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [41](https://www.legislation.gov.uk/ssi/2024/272/regulation/41)
+[^c-3c5307df2e566fc5d86d3205a9f7375f]: Textual amendment: [Reg. 19(c)](https://www.legislation.gov.uk/ssi/2015/94/regulation/19/c) omitted (with effect in accordance with reg. 1(5) of the amending S.S.I.) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [41](https://www.legislation.gov.uk/ssi/2024/272/regulation/41)

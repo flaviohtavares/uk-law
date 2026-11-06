@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Authentication of building society liquidator’s appointment[^key-c548ac193c8dc98b69af78ad27a73217]
+## 10. Authentication of building society liquidator’s appointment[^c-c548ac193c8dc98b69af78ad27a73217]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 4.20 of the 1986 Rules.
 
 ## Annotations
 
-[^key-c548ac193c8dc98b69af78ad27a73217]: Commencement: Rule 10 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-c548ac193c8dc98b69af78ad27a73217]: Commencement: Rule 10 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

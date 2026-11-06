@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Incoming European investigation order (other than relating to a request for the temporary transfer of a prisoner)[^key-897b2f7edf6376763406123c6cfa0a15]
+## 84. Incoming European investigation order (other than relating to a request for the temporary transfer of a prisoner)[^c-897b2f7edf6376763406123c6cfa0a15]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,10 +34,10 @@ summary: ''
 
 (4) In this regulation “**European investigation order**” has the meaning given by regulation 25 of the 2017 Regulations (interpretation).
 
-(5)[^key-39a25c787ae9bab6ac9f23cb0ab6ccc7] See Article 62(1)(l) and Title VII of Part 3 of the withdrawal agreement and sections 7A and 7C of the Withdrawal Act.
+(5)[^c-39a25c787ae9bab6ac9f23cb0ab6ccc7] See Article 62(1)(l) and Title VII of Part 3 of the withdrawal agreement and sections 7A and 7C of the Withdrawal Act.
 
 ## Annotations
 
-[^key-897b2f7edf6376763406123c6cfa0a15]: Commencement: Reg. 84 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-897b2f7edf6376763406123c6cfa0a15]: Commencement: Reg. 84 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-39a25c787ae9bab6ac9f23cb0ab6ccc7]: Textual amendment: Reg. 84(5) inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [27](https://www.legislation.gov.uk/uksi/2020/1408/regulation/27)
+[^c-39a25c787ae9bab6ac9f23cb0ab6ccc7]: Textual amendment: Reg. 84(5) inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [27](https://www.legislation.gov.uk/uksi/2020/1408/regulation/27)

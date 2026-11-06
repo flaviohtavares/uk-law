@@ -46,13 +46,13 @@ The Secretary of State, in relation to England, and the National Assembly for Wa
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-8a93e10c3f84135e7312ddaa145819f9]
+### 1. Citation and commencement[^c-8a93e10c3f84135e7312ddaa145819f9]
 
 (1) These Regulations may be cited as the Water Resources (Abstraction and Impounding) Regulations 2006.
 
 (2) Regulation 15 shall come into force on the date on which section 7(3) of the Water Act 2003 comes into force, and all other provisions of these Regulations shall come into force on 1st April 2006.
 
-### 2. Interpretation[^key-03d8a463d23fb5e585423bbbbb7bfed6]
+### 2. Interpretation[^c-03d8a463d23fb5e585423bbbbb7bfed6]
 
 (1) In these Regulations—
 
@@ -71,7 +71,7 @@ The Secretary of State, in relation to England, and the National Assembly for Wa
 
 ## PART 2 — APPLICATIONS AND APPEALS
 
-### 3. Information to be included in an application[^key-5f9a110acc3c93f057035a4afd5e0c7a]
+### 3. Information to be included in an application[^c-5f9a110acc3c93f057035a4afd5e0c7a]
 
 (1) An application for an abstraction licence or an impounding licence—
 
@@ -80,7 +80,7 @@ The Secretary of State, in relation to England, and the National Assembly for Wa
 
 as the Agency reasonably requires in order to determine it.
 
-### 4. Manner of application[^key-703a23f54fa3e3a702a8c3e541bf5a99]
+### 4. Manner of application[^c-703a23f54fa3e3a702a8c3e541bf5a99]
 
 (1) An application for an abstraction licence or an impounding licence—
 
@@ -93,7 +93,7 @@ as the Agency reasonably requires in order to determine it.
 - (a) the Agency agrees to accept a single copy; or
 - (b) they are provided electronically.
 
-### 5. The relevant date[^key-48ab19fcaeed048063448191eadbb345]
+### 5. The relevant date[^c-48ab19fcaeed048063448191eadbb345]
 
 (1) The relevant date in relation to an application for a full licence, a transfer licence[^f00010] or an impounding licence is—
 
@@ -106,7 +106,7 @@ as the Agency reasonably requires in order to determine it.
 
 (3) The relevant date in relation to an application under section 51(2)[^f00013] is the date on which the Agency receives the application.
 
-### 6. Advertisement of an application[^key-639c2550c450f884cfe156964ea76e42]
+### 6. Advertisement of an application[^c-639c2550c450f884cfe156964ea76e42]
 
 (1) Where the requirements of subsection (1) of section 37[^f00014] (publication of application for licence) (including that section as applied by section 51(3), subject to the modifications made by section 51(4)) apply in relation to an application[^f00015], and those requirements have not been dispensed with under regulation 7(4), notice of that application must be published—
 
@@ -146,7 +146,7 @@ as the Agency reasonably requires in order to determine it.
 
 (7) The notice must not include any information that is not to be included in a register by virtue of section 191A (exclusion from registers of information affecting national security) or 191B (exclusion from registers of information of certain confidential information).
 
-### 7. Exemption from advertising requirements[^key-71f076a9315597646c5a3de7ccdf8327]
+### 7. Exemption from advertising requirements[^c-71f076a9315597646c5a3de7ccdf8327]
 
 (1) The requirements of section 37(1) and (2) do not apply to an application for a full licence or transfer licence if—
 
@@ -175,7 +175,7 @@ as the Agency reasonably requires in order to determine it.
 - (a) in the case of an application in relation to abstraction or to impounding works in England, the Secretary of State; and
 - (b) in the case of an application in relation to abstraction or to impounding works in Wales, the Secretary of State or the Assembly.
 
-### 8. Acknowledgement of receipt[^key-c9a81274a9ac1e06ab64d9e271b4d08f]
+### 8. Acknowledgement of receipt[^c-c9a81274a9ac1e06ab64d9e271b4d08f]
 
 (1) The Agency must serve on the applicant an acknowledgement in writing—
 
@@ -192,7 +192,7 @@ as the Agency reasonably requires in order to determine it.
 - (c) the date, if known, by which the application is required to be determined; and
 - (d) the applicant’s entitlement to appeal should the Agency fail, within the period referred to in paragraph (2), (3) or (4) (as the case may be) of regulation 10, to serve on the applicant notice in accordance with that regulation of the Agency’s decision on the application or its reference to the Secretary of State or the Assembly.
 
-### 9. Applications in National Parks or the Broads[^key-0fa8c58e79f3ea31f487d4970f27ab02]
+### 9. Applications in National Parks or the Broads[^c-0fa8c58e79f3ea31f487d4970f27ab02]
 
 (1) Subject to paragraph (5), where an application relates to abstraction or impounding in the area of a National Park or the Norfolk or Suffolk Broads, the Agency must serve notice in writing of the application on the National Park authority for that National Park or the Broads Authority (as the case may be) within 14 days beginning on the relevant date.
 
@@ -218,7 +218,7 @@ as the Agency reasonably requires in order to determine it.
 - (a) in the case of an application in relation to abstraction or to impounding works in England, the Secretary of State; and
 - (b) in the case of an application in relation to abstraction or to impounding works in Wales, the Secretary of State or the Assembly.
 
-### 10. Duties of the Agency in dealing with applications[^key-599991a941f78a1203388e5c9e1bfc11]
+### 10. Duties of the Agency in dealing with applications[^c-599991a941f78a1203388e5c9e1bfc11]
 
 (1) The Agency must serve notice in writing on the applicant of—
 
@@ -256,11 +256,11 @@ as the Agency reasonably requires in order to determine it.
 - (b) the applicant’s entitlement to request to appear before, and be heard by, a person appointed for the purpose of determining the application; and
 - (c) that the decision on the application shall be final.
 
-### 11. Application by the holder for revocation of impounding licence: time limit for determination[^key-af9a9f6ed404a90aa892f42a09b68f4d]
+### 11. Application by the holder for revocation of impounding licence: time limit for determination[^c-af9a9f6ed404a90aa892f42a09b68f4d]
 
 The period referred to in section 51(1C)(b) within which the Agency must give notice of its decision on an application under subsection (1A) of section 51[^f00021] (modification of licence on application of licence holder), except where a longer period is agreed, is four months beginning on the date on which the application is received by the Agency.
 
-### 12. Time limits for bringing appeals[^key-d1301278fccb747fff08dc6e379128bc]
+### 12. Time limits for bringing appeals[^c-d1301278fccb747fff08dc6e379128bc]
 
 (1) The period within which any notice of appeal under subsection (4) of section 36A (applications: types of abstraction licence) must be served is 28 days beginning on the date on which notice of the decision to which the appeal relates is served on the applicant.
 
@@ -271,7 +271,7 @@ The period referred to in section 51(1C)(b) within which the Agency must give no
 - (a) in a case falling within section 51(1C)(a), 28 days beginning on the date on which the decision to which the notice relates is served on the applicant; and
 - (b) in a case falling within section 51(1C)(b), 28 days beginning on the date which is the day after the expiry of the period referred to in regulation 10(3) or (4) (as the case may be) by which the Agency must serve notice under regulation 10(1).
 
-### 13. Notice of appeal[^key-0aa004246fe90a85bfa5173416b9ca0f]
+### 13. Notice of appeal[^c-0aa004246fe90a85bfa5173416b9ca0f]
 
 (1) A notice of appeal under section 36A(4), 43 or 51(1C) must—
 
@@ -297,7 +297,7 @@ The period referred to in section 51(1C)(b) within which the Agency must give no
 
 ## PART 3 — ABSTRACTION AND IMPOUNDING BY THE AGENCY
 
-### 14. Modifications to the restrictions on abstraction and impounding works, and related restrictions[^key-e22d14c2082bad38b901b1a72f5627d4]
+### 14. Modifications to the restrictions on abstraction and impounding works, and related restrictions[^c-e22d14c2082bad38b901b1a72f5627d4]
 
 (1) The restriction on abstraction and the restriction on impounding works[^f00024] have effect in relation to abstraction and impounding by the Agency as if the references in section 24(1)[^f00025] and section 25(1)(a) and (b)[^f00026] to a licence were references to a licence granted, or, by virtue of paragraph 6(2) of Schedule 2, deemed to have been granted, to the Agency under section 42[^f00027] (consideration of called–in applications).
 
@@ -308,20 +308,20 @@ The period referred to in section 51(1C)(b) within which the Agency must give no
 
 as if all the words after “subsection (4) below” were omitted.
 
-### 15. Emergency abstractions by the Agency[^key-56f46f4a410da00e90549faffa928b5f]
+### 15. Emergency abstractions by the Agency[^c-56f46f4a410da00e90549faffa928b5f]
 
 **Not yet in force.**
 
 Section 29[^f00029] (rights to abstract for drainage purposes etc) has effect in relation to abstraction of water by the Agency from sources of supply as if subsections (2B) and (2C) were omitted.
 
-### 16. Proposals for abstraction or impounding by the Agency[^key-6bd8ae03edf49de5b5fd102cea01d5d1]
+### 16. Proposals for abstraction or impounding by the Agency[^c-6bd8ae03edf49de5b5fd102cea01d5d1]
 
 Schedule 2, and the exceptions from, and modifications to, the Act made by it, has effect in relation to—
 
 - (a) proposals for abstraction or impounding by the Agency for which an abstraction licence or impounding licence is required; and
 - (b) proposals under section 51(2) (which provides for the variation of an abstraction licence or an impounding licence on the application of a licence holder) (modified in accordance with regulation 18) in relation to a licence held by the Agency, other than where section 51(4) applies.
 
-### 17. Renewal of Agency licence[^key-77966524eb8c84d7784b40bc80a70f08]
+### 17. Renewal of Agency licence[^c-77966524eb8c84d7784b40bc80a70f08]
 
 Section 46A[^f00030] (limited extension of abstraction licence validity) has effect in relation to a full licence or transfer licence held by the Agency as if in subsection (2)—
 
@@ -329,7 +329,7 @@ Section 46A[^f00030] (limited extension of abstraction licence validity) has eff
 - (b) the reference to the Agency receiving a valid application were a reference to the Secretary of State or the Assembly (as the case may be) receiving an Agency application; and
 - (c) the reference to the Agency agreeing a later date were a reference to the Secretary of State or the Assembly (as the case may be) agreeing a later date.
 
-### 18. Modification of Agency licence on application of the Agency[^key-611594cf9ef0bc14a4b046f292a8dafa]
+### 18. Modification of Agency licence on application of the Agency[^c-611594cf9ef0bc14a4b046f292a8dafa]
 
 Section 51 (modification of licence on application of licence holder) has effect in relation to an abstraction licence or an impounding licence held by the Agency subject to the following modifications—
 
@@ -351,7 +351,7 @@ Section 51 (modification of licence on application of licence holder) has effect
 
   .
 
-### 19. Modification of Agency licence at instance of the Secretary of State or the Assembly[^key-0bef0169fb4140d4e3364dc16125e6ff]
+### 19. Modification of Agency licence at instance of the Secretary of State or the Assembly[^c-0bef0169fb4140d4e3364dc16125e6ff]
 
 (1) Section 52[^f00031] (proposals for modification at instance of the Agency or the Secretary of State) has effect in relation to an abstraction licence or an impounding licence held by the Agency as if—
 
@@ -391,7 +391,7 @@ Section 51 (modification of licence on application of licence holder) has effect
   ; and
 - (e) in subsection (6), the reference to a decision were a reference to a determination in accordance with subsection (5) as substituted by sub–paragraph (d) of this paragraph.
 
-### 20. Modification of Agency licence on application of owner of fishing rights[^key-761d1677fe22ca255135e476cb6d225a]
+### 20. Modification of Agency licence on application of owner of fishing rights[^c-761d1677fe22ca255135e476cb6d225a]
 
 (1) Section 55[^f00034] (application for modification of licence by owner of fishing rights) has effect in relation to an abstraction licence held by the Agency as if, in subsection (4), the words “and on the holder of the licence” were omitted and for the words “each of them” there were substituted “it”.
 
@@ -405,7 +405,7 @@ Section 51 (modification of licence on application of licence holder) has effect
   ; and
 - (c) in subsection (7), the reference to a decision were a reference to a determination in accordance with subsection (6) as substituted by sub–paragraph (b) of this paragraph.
 
-### 21. Transfer of Agency licence or of other licence to the Agency[^key-63ef5d124047dccee23344b63c72a2a3]
+### 21. Transfer of Agency licence or of other licence to the Agency[^c-63ef5d124047dccee23344b63c72a2a3]
 
 (1) Section 59A[^f00036] (transfer of licence) has effect in relation to any licence referred to in subsection (1)(a), (b) or (c) of that section—
 
@@ -434,7 +434,7 @@ subject to the modifications in paragraph (2).
   ; and
 - (b) subsections (4) and (5) are omitted.
 
-### 22. Apportionment of Agency licence or of part of other licence to the Agency[^key-19a35fe557d376f13baa1593d19ef9cb]
+### 22. Apportionment of Agency licence or of part of other licence to the Agency[^c-19a35fe557d376f13baa1593d19ef9cb]
 
 (1) Section 59C[^f00037] (apportionment of licence to abstract) has effect in relation to the apportionment of a licence held by the Agency subject to the modifications in paragraph (2).
 
@@ -479,7 +479,7 @@ subject to the modifications in paragraph (2).
 - (a) in subsection (2) after “any person” there is inserted “, other than the Agency,”; and
 - (b) in subsection (5) after “above,” there is inserted “and, so far as the apportionment notice relates to the transfer to the Agency of a right in respect of part of an authorised abstraction, the Agency agrees to that transfer,”.
 
-### 23. Liability for derogation from protected right by Agency licence[^key-186b8f09ea19937bfcaad58fa0be8f79]
+### 23. Liability for derogation from protected right by Agency licence[^c-186b8f09ea19937bfcaad58fa0be8f79]
 
 Section 60[^f00038] (liability of the Agency for derogation from protected right) has effect in relation to—
 
@@ -489,13 +489,13 @@ Section 60[^f00038] (liability of the Agency for derogation from protected right
 
 as if, in subsection (1), the reference to the duty imposed by subsection (1) of section 39 has effect as if it included a reference to that duty as modified by paragraph 8(4) of Schedule 2.
 
-### 24. Compensation of Agency on modification of Agency licence[^key-d5206a6ada1b83f4da277dd916d489f9]
+### 24. Compensation of Agency on modification of Agency licence[^c-d5206a6ada1b83f4da277dd916d489f9]
 
 Section 61[^f00039] (compensation where licence modified on direction of the Secretary of State) does not apply in relation to the revocation or variation of a licence held by the Agency.
 
 ## PART 4 — ENFORCEMENT, WORKS AND CONSERVATION NOTICES
 
-### 25. Content of enforcement notices[^key-023c805508927d0ccb34b6ca8fe6ef81]
+### 25. Content of enforcement notices[^c-023c805508927d0ccb34b6ca8fe6ef81]
 
 An enforcement notice under section 25A[^f00040] (enforcement notices) must—
 
@@ -509,11 +509,11 @@ An enforcement notice under section 25A[^f00040] (enforcement notices) must—
   - (ii) the requirements imposed by regulation 3 of the Anti-Pollution Works Regulations 1999[^f00043], as applied by regulation 28, in relation to the exercise of that right; and
 - (g) set out the provisions of section 25C[^f00044] (consequences of not complying with an enforcement notice).
 
-### 26. Enforcement notices: abstraction and impounding by the Agency[^key-c2a4b3ed2ad33b371ccb77c49c1926c2]
+### 26. Enforcement notices: abstraction and impounding by the Agency[^c-c2a4b3ed2ad33b371ccb77c49c1926c2]
 
 Sections 25A, 25B and 25C (which relate to enforcement notices) do not apply in relation to any breach or failure to comply by the Agency, being a breach of the kind referred to in section 25A(1)(a) or (b).
 
-### 27. Content of works notices[^key-3695edc56f1038d8d6e0ccf105c2c406]
+### 27. Content of works notices[^c-3695edc56f1038d8d6e0ccf105c2c406]
 
 A works notice under section 4 of the Water Act 2003 (existing impounding works: works notices) must—
 
@@ -526,7 +526,7 @@ A works notice under section 4 of the Water Act 2003 (existing impounding works:
   - (ii) the requirements imposed by regulation 3 of the Anti-Pollution Works Regulations 1999, as applied by regulation 28, in relation to the exercise of that right; and
 - (f) set out the provisions of section 4(4) to (7) of the Water Act 2003 (which provide for consequences of not complying with a works notice).
 
-### 28. Enforcement notices and works notices: appeals[^key-17d2a6514c86c05236c59d8a79d91da7]
+### 28. Enforcement notices and works notices: appeals[^c-17d2a6514c86c05236c59d8a79d91da7]
 
 Regulations 3 to 7 (appeals, written representations, hearings, notification of determination, and compensation for grant of rights under section 161B) of the Anti-Pollution Works Regulations 1999 apply in relation to—
 
@@ -535,11 +535,11 @@ Regulations 3 to 7 (appeals, written representations, hearings, notification of 
 
 as they apply to a works notice under section 161A[^f00045] (notices requiring persons to carry out anti–pollution works and operations).
 
-### 29. Notice of mining operations which may affect water conservation[^key-3b5ef3dfce8114b88df2a5a1becd6fac]
+### 29. Notice of mining operations which may affect water conservation[^c-3b5ef3dfce8114b88df2a5a1becd6fac]
 
 The notice required by subsection (1) of section 199[^f00046] (notice etc. of mining operations which may affect water conservation) must be given in such form as the Agency determines.
 
-### 30. Conservation notices: appeals[^key-40e5dd334abf4d9974c4fb6d87400d43]
+### 30. Conservation notices: appeals[^c-40e5dd334abf4d9974c4fb6d87400d43]
 
 Regulations 3 to 6 of the Anti-Pollution Works Regulations 1999 apply in relation to an appeal under section 199A[^f00047] (appeals against conservation notices under section 199) as if—
 
@@ -554,7 +554,7 @@ Regulations 3 to 6 of the Anti-Pollution Works Regulations 1999 apply in relatio
 
 ## PART 5 — MISCELLANEOUS
 
-### 31. Advertisement of Agency proposals to modify a licence[^key-cf7bb2aff9e1857599222796e686a637]
+### 31. Advertisement of Agency proposals to modify a licence[^c-cf7bb2aff9e1857599222796e686a637]
 
 (1) Subject to paragraph (2), where proposals have been formulated under section 52 (proposals for modification at instance of the Agency or Secretary of State) (including that section as modified by regulation 19), the notice referred to in subsection (4) of that section must—
 
@@ -580,11 +580,11 @@ Regulations 3 to 6 of the Anti-Pollution Works Regulations 1999 apply in relatio
 - (a) in the case of an application in relation to abstraction or to impounding works in England, the Secretary of State; and
 - (b) in the case of an application in relation to abstraction or to impounding works in Wales, the Secretary of State or the Assembly.
 
-### 32. Notice of certain applications to modify an abstraction licence[^key-82698b5de7816f8ef2b5fbe7503385c9]
+### 32. Notice of certain applications to modify an abstraction licence[^c-82698b5de7816f8ef2b5fbe7503385c9]
 
 The notice required by subsection (4) of section 55 (application for modification of licence by owner of fishing rights) must be given in such form as the Agency determines.
 
-### 33. Licensing of existing impounding works: notices of appeal[^key-7ebb4dbdd8cbb8ec1ede8bd827d2a14d]
+### 33. Licensing of existing impounding works: notices of appeal[^c-7ebb4dbdd8cbb8ec1ede8bd827d2a14d]
 
 (1) Any notice of appeal served under section 3(4) of the Water Act 2003 (which provides for appeals against notices requiring existing impounding works to be licensed) must be served within 21 days beginning on the date of service of the notice served under section 3(2) of that Act.
 
@@ -593,7 +593,7 @@ The notice required by subsection (4) of section 55 (application for modificatio
 - (a) in those regulations, references to the Secretary of State were references to the appropriate authority[^f00048]; and
 - (b) in regulation 3, references to a notice of appeal were references to a notice of appeal under section 3(4) of the Water Act 2003.
 
-### 34. Register of abstraction and impounding licences[^key-0050ba8c627c832a2788df03e8519623]
+### 34. Register of abstraction and impounding licences[^c-0050ba8c627c832a2788df03e8519623]
 
 (1) The register must contain—
 
@@ -630,7 +630,7 @@ The notice required by subsection (4) of section 55 (application for modificatio
 
 (4) The Agency may keep the register, or any part of it, electronically.
 
-### 35. Revocations[^key-60bfa664e97086c3328c11b26bb418ce]
+### 35. Revocations[^c-60bfa664e97086c3328c11b26bb418ce]
 
 Subject to regulation 36, the following instruments are revoked—
 
@@ -638,7 +638,7 @@ Subject to regulation 36, the following instruments are revoked—
 - (b) the Water Resources (Miscellaneous Provisions) Regulations 1965[^f00051]; and
 - (c) the Water Resources (Licences) (Amendment) Regulations 1989[^f00052].
 
-### 36. Transitional and saving provisions[^key-5e35c5371f1fd6fd02d52ed56f5912f1]
+### 36. Transitional and saving provisions[^c-5e35c5371f1fd6fd02d52ed56f5912f1]
 
 The Regulations revoked by regulation 35(a) and (c) continue to have effect in relation to any application under Chapter 2 of Part 2 of the Act a notice of which, before the coming into force of these Regulations, was published by the applicant in accordance with section 37 of the Act.
 
@@ -660,7 +660,7 @@ Department for Environment, Food and Rural Affairs
 
 ## SCHEDULE 1 — ENABLING POWERS
 
-**1.**[^key-eb7bc3da4a39b79e47917b09223235a0] (1) The following sections of the Act[^f00053]—
+**1.**[^c-eb7bc3da4a39b79e47917b09223235a0] (1) The following sections of the Act[^f00053]—
 
 - (a) section 25A(7)(a) (including as applied by section 4(3) of the Water Act 2003);
 - (b) sections 34 and 36A(5);
@@ -678,7 +678,7 @@ Department for Environment, Food and Rural Affairs
 
 Regulations 2(1) and 16
 
-### 1. Agency applications[^key-119f56af8331746f6ddb533b050a78be]
+### 1. Agency applications[^c-119f56af8331746f6ddb533b050a78be]
 
 (1) Where the Agency proposes—
 
@@ -702,7 +702,7 @@ it must prepare an application accordingly.
 - (a) in relation to abstraction or to impounding works in England, the Secretary of State; and
 - (b) in relation to abstraction or to impounding works in Wales, the Assembly.
 
-### 2. Advertisement of Agency application[^key-ca15b71287a120634fb4892c2722b967]
+### 2. Advertisement of Agency application[^c-ca15b71287a120634fb4892c2722b967]
 
 (1) Subsections (1) and (2) of section 37[^f00054] (publication of application for licence) apply in relation to an Agency application as if that application had been made to the Agency.
 
@@ -727,7 +727,7 @@ it must prepare an application accordingly.
 
 (4) The notice must not include any information that is not to be included in a register by virtue of section 191A (exclusion from registers of information affecting national security) or 191B (exclusion from registers of certain confidential information).
 
-### 3. Exemption from advertising requirements[^key-b7f24198c7467df98c854c013d3cba6a]
+### 3. Exemption from advertising requirements[^c-b7f24198c7467df98c854c013d3cba6a]
 
 (1) The requirements of section 37(1) and (2) do not apply—
 
@@ -747,7 +747,7 @@ it must prepare an application accordingly.
 - (a) in the case of an application in relation to abstraction or to impounding works in England, the Secretary of State; and
 - (b) in the case of an application in relation to abstraction or to impounding works in Wales, the Secretary of State or the Assembly.
 
-### 4. Agency application in National Parks or the Broads[^key-1e94786c1da12848ecc2b3a06790942c]
+### 4. Agency application in National Parks or the Broads[^c-1e94786c1da12848ecc2b3a06790942c]
 
 (1) Subject to sub–paragraph (4), where an Agency application relates to abstraction or impounding in the area of a National Park or the Norfolk or Suffolk Broads, the Agency must serve notice in writing of the application on the National Park authority for that National Park or the Broads Authority (as the case may be).
 
@@ -769,7 +769,7 @@ it must prepare an application accordingly.
 - (a) in the case of an application in relation to abstraction or to impounding works in England, the Secretary of State; and
 - (b) in the case of an application in relation to abstraction or to impounding works in Wales, the Secretary of State or the Assembly.
 
-### 5. Notification of the appropriate authority[^key-f7b31c67eeef44252e0575896c5d365d]
+### 5. Notification of the appropriate authority[^c-f7b31c67eeef44252e0575896c5d365d]
 
 (1) The Agency, having considered any representations received in relation to an Agency application, must serve notice in writing on the appropriate authority that it intends to—
 
@@ -784,7 +784,7 @@ it must prepare an application accordingly.
 - (b) be accompanied by a copy of any written representations received by the Agency in relation to the application; and
 - (c) state whether the Agency proposes any modification to the application or draft licence and, if so, set out the terms of any such modification and the reasons for it.
 
-### 6. Approval by the Agency[^key-11f98509de70fec7ca3a630cb2a183be]
+### 6. Approval by the Agency[^c-11f98509de70fec7ca3a630cb2a183be]
 
 (1) The Agency may approve an Agency application where—
 
@@ -794,7 +794,7 @@ it must prepare an application accordingly.
 
 (2) Where the Agency approves an application under sub-paragraph (1), the draft licence accompanying the application (modified in accordance with any terms specified pursuant to paragraph 5(3)(c)) will be deemed to have been granted, on the date of the Agency’s approval, in accordance with a determination by the appropriate authority under section 42(1) (consideration of called–in applications).
 
-### 7. Consideration by the appropriate authority[^key-caaf54c3c3a63d351922ef41990a801f]
+### 7. Consideration by the appropriate authority[^c-caaf54c3c3a63d351922ef41990a801f]
 
 Section 42[^f00055] (consideration of called–in applications) has effect in relation to an Agency application that is a called–in application as if—
 
@@ -813,7 +813,7 @@ Section 42[^f00055] (consideration of called–in applications) has effect in re
   ; and
 - (c) subsection (5) were omitted.
 
-### 8. Other exceptions and modifications to the Act in relation to Agency applications[^key-e276893bf597dafb50617eb99a437637]
+### 8. Other exceptions and modifications to the Act in relation to Agency applications[^c-e276893bf597dafb50617eb99a437637]
 
 (1) Section 35[^f00056] (restrictions on persons who may make applications for abstraction licences) has effect—
 
@@ -860,9 +860,9 @@ A full Regulatory Impact Assessment has been prepared in connection with these R
 
 [^f00003]: Footnote: The power to make regulations under the provisions of the Water Resources Act 1991 has been transferred, so far as exercisable in relation to Wales, to the Assembly: National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)), article 2 and Schedule 1 (amended by section 100(4)(b)(iii) of the Water Act [2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37) (“the WA”), with references to the Water Resources Act 1991 in that Schedule treated as referring to the Act as amended by the WA (the WA, section 100(6)).
 
-[^key-8a93e10c3f84135e7312ddaa145819f9]: Commencement: Reg. 1 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-8a93e10c3f84135e7312ddaa145819f9]: Commencement: Reg. 1 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
-[^key-03d8a463d23fb5e585423bbbbb7bfed6]: Commencement: Reg. 2 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-03d8a463d23fb5e585423bbbbb7bfed6]: Commencement: Reg. 2 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00004]: Footnote: A reference to a licence to abstract water is to be taken as a reference to all types of licence (i.e., full, transfer or temporary licences) unless it is clear that a different meaning is intended (section 24A(2)), and “full licence”, “temporary licence” and “transfer licence” have the meanings given in section 24A(1) (section 72(1)).
 
@@ -874,13 +874,13 @@ A full Regulatory Impact Assessment has been prepared in connection with these R
 
 [^f00008]: Footnote: Section 189 was amended by the EA, section 120 and Schedule 22, paragraph 128, and the WA, section 23(3).
 
-[^key-5f9a110acc3c93f057035a4afd5e0c7a]: Commencement: Reg. 3 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-5f9a110acc3c93f057035a4afd5e0c7a]: Commencement: Reg. 3 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
-[^key-703a23f54fa3e3a702a8c3e541bf5a99]: Commencement: Reg. 4 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-703a23f54fa3e3a702a8c3e541bf5a99]: Commencement: Reg. 4 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00009]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-48ab19fcaeed048063448191eadbb345]: Commencement: Reg. 5 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-48ab19fcaeed048063448191eadbb345]: Commencement: Reg. 5 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00010]: Footnote: For the definitions of “full licence” and “transfer licence” see section 24A(1) (inserted by section 1(1) of the Water Act 2003, and section 72(1)).
 
@@ -890,7 +890,7 @@ A full Regulatory Impact Assessment has been prepared in connection with these R
 
 [^f00013]: Footnote: Section 51(2) was amended by the EA, section 120 and Schedule 22, paragraph 128.
 
-[^key-639c2550c450f884cfe156964ea76e42]: Commencement: Reg. 6 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-639c2550c450f884cfe156964ea76e42]: Commencement: Reg. 6 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00014]: Footnote: Section 37 was substituted by the WA, section 14(1).
 
@@ -902,31 +902,31 @@ A full Regulatory Impact Assessment has been prepared in connection with these R
 
 [^f00018]: Footnote: For the definition of “proposed point of abstraction or impounding” see section 37(7) (inserted by section 14(1) of the Water Act 2003).
 
-[^key-71f076a9315597646c5a3de7ccdf8327]: Commencement: Reg. 7 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-71f076a9315597646c5a3de7ccdf8327]: Commencement: Reg. 7 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00019]: Footnote: For the definition of “restriction on abstraction” see section 72(1).
 
-[^key-c9a81274a9ac1e06ab64d9e271b4d08f]: Commencement: Reg. 8 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-c9a81274a9ac1e06ab64d9e271b4d08f]: Commencement: Reg. 8 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
-[^key-0fa8c58e79f3ea31f487d4970f27ab02]: Commencement: Reg. 9 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-0fa8c58e79f3ea31f487d4970f27ab02]: Commencement: Reg. 9 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
-[^key-599991a941f78a1203388e5c9e1bfc11]: Commencement: Reg. 10 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-599991a941f78a1203388e5c9e1bfc11]: Commencement: Reg. 10 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00020]: Footnote: Section 201 was substituted by the WA, section 70.
 
-[^key-af9a9f6ed404a90aa892f42a09b68f4d]: Commencement: Reg. 11 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-af9a9f6ed404a90aa892f42a09b68f4d]: Commencement: Reg. 11 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00021]: Footnote: Section 51 was amended by the EA, section 120 and Schedule 22, paragraph 128, and by the WA, section 21.
 
-[^key-d1301278fccb747fff08dc6e379128bc]: Commencement: Reg. 12 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-d1301278fccb747fff08dc6e379128bc]: Commencement: Reg. 12 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00022]: Footnote: Section 43 was amended by the EA, section 120 and Schedule 22, paragraphs 128 and 134, and the WA, section 14(3)(c).
 
-[^key-0aa004246fe90a85bfa5173416b9ca0f]: Commencement: Reg. 13 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-0aa004246fe90a85bfa5173416b9ca0f]: Commencement: Reg. 13 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00023]: Footnote: Section 45 was amended by the EA, section 120 and Schedule 24, and by the WA, section 13(3).
 
-[^key-e22d14c2082bad38b901b1a72f5627d4]: Commencement: Reg. 14 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-e22d14c2082bad38b901b1a72f5627d4]: Commencement: Reg. 14 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00024]: Footnote: For the definition of “the restriction on impounding works” see section 72(1) (amended by section 2(9) of the Water Act 2003).
 
@@ -938,19 +938,19 @@ A full Regulatory Impact Assessment has been prepared in connection with these R
 
 [^f00028]: Footnote: Section 32 was amended by the EA, section 120 and Schedule 22, paragraph 128, and by the Fire and Rescue Services Act [2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), section 53(1) and Schedule 1, paragraph 79.
 
-[^key-56f46f4a410da00e90549faffa928b5f]: Commencement: Reg. 15 in force at 1.1.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-56f46f4a410da00e90549faffa928b5f]: Commencement: Reg. 15 in force at 1.1.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00029]: Footnote: Section 29 was amended by the WA, section 7. Section 7 of the WA was not in force on the date these Regulations were made. See regulation 1(2) for the date on which this regulation comes into force.
 
-[^key-6bd8ae03edf49de5b5fd102cea01d5d1]: Commencement: Reg. 16 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-6bd8ae03edf49de5b5fd102cea01d5d1]: Commencement: Reg. 16 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
-[^key-77966524eb8c84d7784b40bc80a70f08]: Commencement: Reg. 17 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-77966524eb8c84d7784b40bc80a70f08]: Commencement: Reg. 17 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00030]: Footnote: Section 46A was inserted by the WA, section 20.
 
-[^key-611594cf9ef0bc14a4b046f292a8dafa]: Commencement: Reg. 18 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-611594cf9ef0bc14a4b046f292a8dafa]: Commencement: Reg. 18 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
-[^key-0bef0169fb4140d4e3364dc16125e6ff]: Commencement: Reg. 19 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-0bef0169fb4140d4e3364dc16125e6ff]: Commencement: Reg. 19 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00031]: Footnote: Section 52 was amended by the EA, section 120 and Schedule 22, paragraph 128, and by the WA, sections 22 and 101(2) and Schedule 9, Part 1.
 
@@ -958,29 +958,29 @@ A full Regulatory Impact Assessment has been prepared in connection with these R
 
 [^f00033]: Footnote: Section 54 was amended by the EA, section 120 and Schedule 22, paragraph 128.
 
-[^key-761d1677fe22ca255135e476cb6d225a]: Commencement: Reg. 20 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-761d1677fe22ca255135e476cb6d225a]: Commencement: Reg. 20 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00034]: Footnote: Section 55 was amended by the EA, section 120 and Schedule 22, paragraph 128.
 
 [^f00035]: Footnote: Section 56 was amended by the EA, section 120 and Schedule 22, paragraph 128.
 
-[^key-63ef5d124047dccee23344b63c72a2a3]: Commencement: Reg. 21 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-63ef5d124047dccee23344b63c72a2a3]: Commencement: Reg. 21 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00036]: Footnote: Section 59A was inserted by the WA, section 23(1).
 
-[^key-19a35fe557d376f13baa1593d19ef9cb]: Commencement: Reg. 22 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-19a35fe557d376f13baa1593d19ef9cb]: Commencement: Reg. 22 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00037]: Footnote: Section 59C was inserted by the WA, section 23(1).
 
-[^key-186b8f09ea19937bfcaad58fa0be8f79]: Commencement: Reg. 23 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-186b8f09ea19937bfcaad58fa0be8f79]: Commencement: Reg. 23 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00038]: Footnote: Section 60 was amended by the EA, section 120 and Schedule 22, paragraph 128.
 
-[^key-d5206a6ada1b83f4da277dd916d489f9]: Commencement: Reg. 24 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-d5206a6ada1b83f4da277dd916d489f9]: Commencement: Reg. 24 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00039]: Footnote: Section 61 was amended by the EA, section 120 and Schedule 22, paragraph 128, and by the WA, sections 25 and 101(1) and Schedule 7, paragraphs 1 and 6.
 
-[^key-023c805508927d0ccb34b6ca8fe6ef81]: Commencement: Reg. 25 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-023c805508927d0ccb34b6ca8fe6ef81]: Commencement: Reg. 25 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00040]: Footnote: Section 25A was inserted by the WA, section 30.
 
@@ -992,35 +992,35 @@ A full Regulatory Impact Assessment has been prepared in connection with these R
 
 [^f00044]: Footnote: Section 25C was inserted by the WA, section 30.
 
-[^key-c2a4b3ed2ad33b371ccb77c49c1926c2]: Commencement: Reg. 26 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-c2a4b3ed2ad33b371ccb77c49c1926c2]: Commencement: Reg. 26 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
-[^key-3695edc56f1038d8d6e0ccf105c2c406]: Commencement: Reg. 27 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-3695edc56f1038d8d6e0ccf105c2c406]: Commencement: Reg. 27 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
-[^key-17d2a6514c86c05236c59d8a79d91da7]: Commencement: Reg. 28 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-17d2a6514c86c05236c59d8a79d91da7]: Commencement: Reg. 28 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00045]: Footnote: Section 161A was inserted the EA, section 120 and Schedule 22, paragraph 162.
 
-[^key-3b5ef3dfce8114b88df2a5a1becd6fac]: Commencement: Reg. 29 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-3b5ef3dfce8114b88df2a5a1becd6fac]: Commencement: Reg. 29 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00046]: Footnote: Section 199 was amended by the WA, section 8(5).
 
-[^key-40e5dd334abf4d9974c4fb6d87400d43]: Commencement: Reg. 30 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-40e5dd334abf4d9974c4fb6d87400d43]: Commencement: Reg. 30 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00047]: Footnote: Section 199A was inserted by the WA, section 8(6).
 
-[^key-cf7bb2aff9e1857599222796e686a637]: Commencement: Reg. 31 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-cf7bb2aff9e1857599222796e686a637]: Commencement: Reg. 31 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
-[^key-82698b5de7816f8ef2b5fbe7503385c9]: Commencement: Reg. 32 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-82698b5de7816f8ef2b5fbe7503385c9]: Commencement: Reg. 32 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
-[^key-7ebb4dbdd8cbb8ec1ede8bd827d2a14d]: Commencement: Reg. 33 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-7ebb4dbdd8cbb8ec1ede8bd827d2a14d]: Commencement: Reg. 33 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00048]: Footnote: For the definition of “appropriate authority” see section 3(12) of the Water Act 2003.
 
-[^key-0050ba8c627c832a2788df03e8519623]: Commencement: Reg. 34 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-0050ba8c627c832a2788df03e8519623]: Commencement: Reg. 34 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00049]: Footnote: Section 59B was inserted by the WA, section 23(1).
 
-[^key-60bfa664e97086c3328c11b26bb418ce]: Commencement: Reg. 35 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-60bfa664e97086c3328c11b26bb418ce]: Commencement: Reg. 35 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00050]: Footnote: [S.I. 1965/534](https://www.legislation.gov.uk/uksi/1965/534); amended by [S.I. 1989/336](https://www.legislation.gov.uk/uksi/1989/336).
 
@@ -1028,31 +1028,31 @@ A full Regulatory Impact Assessment has been prepared in connection with these R
 
 [^f00052]: Footnote: [S.I. 1989/336](https://www.legislation.gov.uk/uksi/1989/336).
 
-[^key-5e35c5371f1fd6fd02d52ed56f5912f1]: Commencement: Reg. 36 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-5e35c5371f1fd6fd02d52ed56f5912f1]: Commencement: Reg. 36 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
-[^key-eb7bc3da4a39b79e47917b09223235a0]: Commencement: Sch. 1 para. 1 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-eb7bc3da4a39b79e47917b09223235a0]: Commencement: Sch. 1 para. 1 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00053]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57); sections 25A(7)(a) and 25B were inserted by s. 30 of the Water Act [2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37) (“the WA”); section 34 was amended by the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25) (“the EA”), section 120 and Schedule 24 and the WA, section 101(1) and Schedule 7, paragraph 2; section 36A(5) was inserted by the WA, section 13(1); section 37(4) and (6) were substituted by the WA, section 14(1), and section 37A by section 14(2); section 43(2) was amended by the EA, section 120 and Schedule 22, paragraph 128; section 45 was amended by the EA, section 120 and Schedule 24 and the WA, section 13(3); section 51(1C)(b) and (1D) were inserted by the WA, section 21; section 52(4) and (6) were amended by the WA, section 22; section 64 was amended by the WA, section 2(7); sections 161B(5) and (6) and 161C(3) and (4) were inserted by the EA, section 120 and Schedule 22, paragraph 162; section 189 was amended by the WA, section 23(3); section 199(1) was amended by the WA, section 8(5); section 199A(2) and (6) were inserted by the WA, section 8(6); and section 219(2) was amended by the EA, section 120 and Schedule 22, paragraph 176 and Schedule 24. References in the Act to the Agency were substituted by the EA 1995, section 120 and Schedule 22, paragraph 128.
 
-[^key-119f56af8331746f6ddb533b050a78be]: Commencement: Sch. 2 para. 1 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-119f56af8331746f6ddb533b050a78be]: Commencement: Sch. 2 para. 1 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
-[^key-ca15b71287a120634fb4892c2722b967]: Commencement: Sch. 2 para. 2 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-ca15b71287a120634fb4892c2722b967]: Commencement: Sch. 2 para. 2 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00054]: Footnote: Section 37 was amended by the EA, section 120 and Schedule 22, paragraph 128, and by the WA, section 14(1).
 
-[^key-b7f24198c7467df98c854c013d3cba6a]: Commencement: Sch. 2 para. 3 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-b7f24198c7467df98c854c013d3cba6a]: Commencement: Sch. 2 para. 3 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
-[^key-1e94786c1da12848ecc2b3a06790942c]: Commencement: Sch. 2 para. 4 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-1e94786c1da12848ecc2b3a06790942c]: Commencement: Sch. 2 para. 4 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
-[^key-f7b31c67eeef44252e0575896c5d365d]: Commencement: Sch. 2 para. 5 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-f7b31c67eeef44252e0575896c5d365d]: Commencement: Sch. 2 para. 5 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
-[^key-11f98509de70fec7ca3a630cb2a183be]: Commencement: Sch. 2 para. 6 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-11f98509de70fec7ca3a630cb2a183be]: Commencement: Sch. 2 para. 6 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
-[^key-caaf54c3c3a63d351922ef41990a801f]: Commencement: Sch. 2 para. 7 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-caaf54c3c3a63d351922ef41990a801f]: Commencement: Sch. 2 para. 7 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00055]: Footnote: Section 42 was amended by the EA, section 120 and Schedule 22, paragraph 128, and the WA, section 14(3)(b) and section 16(6).
 
-[^key-e276893bf597dafb50617eb99a437637]: Commencement: Sch. 2 para. 8 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
+[^c-e276893bf597dafb50617eb99a437637]: Commencement: Sch. 2 para. 8 in force at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2)
 
 [^f00056]: Footnote: Section 35 was amended by the EA, section 120 and Schedule 22, paragraph 128, and by the WA, section 11.
 

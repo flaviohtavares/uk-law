@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 67. Supplementary provisions[^key-979c204d2591dfbc9fb31d5c09902af6][^key-8deaeb801d604b5a3bbc4c2a501ef71c]
+## 67. Supplementary provisions[^c-979c204d2591dfbc9fb31d5c09902af6][^c-8deaeb801d604b5a3bbc4c2a501ef71c]
 
 *Extent: N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-979c204d2591dfbc9fb31d5c09902af6]: Commencement: [S. 67](https://www.legislation.gov.uk/nia/2011/23/section/67) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
+[^c-979c204d2591dfbc9fb31d5c09902af6]: Commencement: [S. 67](https://www.legislation.gov.uk/nia/2011/23/section/67) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
 
-[^key-8deaeb801d604b5a3bbc4c2a501ef71c]: Commencement: [S. 67](https://www.legislation.gov.uk/nia/2011/23/section/67) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-8deaeb801d604b5a3bbc4c2a501ef71c]: Commencement: [S. 67](https://www.legislation.gov.uk/nia/2011/23/section/67) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

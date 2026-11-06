@@ -22,7 +22,7 @@ summary: ''
 
 Article 8
 
-### PART 1 — GREAT BRITAIN[^key-93a5b5aee11e26f7cb8e048a4ca27b89]
+### PART 1 — GREAT BRITAIN[^c-93a5b5aee11e26f7cb8e048a4ca27b89]
 
 | Short title and chapter | Extent of repeal brought into force |
 | --- | --- |
@@ -47,7 +47,7 @@ Article 8
 |  | In section 357—<br>- (a) the words “section 356 (inspection)”; and<br>- (b) the words from “and the power of the court” to the end. |
 |  | Sections 366 to 379. |
 |  | Section 379A(1)(b) to (e). |
-|  | Section 380(4)(a) and (c) to (m)[^key-7327b68a6992a24121d9f7a0bb239948]. |
+|  | Section 380(4)(a) and (c) to (m)[^c-7327b68a6992a24121d9f7a0bb239948]. |
 |  | Sections 381 to 383. |
 |  | Sections 384 and 385, as they apply to private companies. |
 |  | Sections 385A and 386. |
@@ -63,11 +63,11 @@ Article 8
 |  | Section 453(1A)(d) and the word “and” preceding it. |
 |  | Section 453A(6). |
 |  | Sections 458 to 461. |
-|  | [^key-22b6078e5414903357570043daf8b418]...<br>Section 730(5).<br>[^key-c54e8ffead90954d3893e679731488fa]... |
+|  | [^c-22b6078e5414903357570043daf8b418]...<br>Section 730(5).<br>[^c-c54e8ffead90954d3893e679731488fa]... |
 |  | Section 741. |
 |  | Part 1 of Schedule 13. |
 |  | Schedule 15A. |
-|  | In Schedule 24, the entries relating to—<br>- (a) sections 210(3), 211(10), 214(5), 215(8), 216(3), 217(7), 218(3) and 219(3),<br>- (b) section 241(2), as it applies to private companies,<br>- (c) sections 314(3), 318(8), 322B(4), 323(2), 324(7), 326(2), (3), (4) and (5), 328(6), 329(3), 342(1), (2) and (3), 343(8), 356(5), 366(4), 367(3) and (5), 372(4) and (6), 376(7), [^key-6ebd02eba3207fb7b735254aca51e17b]... 381B(2), 382(5), 382B(2) and 383(4),<br>- (d) section 387(2), as it applies to private companies, and<br>- (e) sections 429(6), 430A(6), 444(3), 448(7), 449(6), 450, 451, 453A(5), 455(1) and (2), 458, 461(5) and 720(4). |
+|  | In Schedule 24, the entries relating to—<br>- (a) sections 210(3), 211(10), 214(5), 215(8), 216(3), 217(7), 218(3) and 219(3),<br>- (b) section 241(2), as it applies to private companies,<br>- (c) sections 314(3), 318(8), 322B(4), 323(2), 324(7), 326(2), (3), (4) and (5), 328(6), 329(3), 342(1), (2) and (3), 343(8), 356(5), 366(4), 367(3) and (5), 372(4) and (6), 376(7), [^c-6ebd02eba3207fb7b735254aca51e17b]... 381B(2), 382(5), 382B(2) and 383(4),<br>- (d) section 387(2), as it applies to private companies, and<br>- (e) sections 429(6), 430A(6), 444(3), 448(7), 449(6), 450, 451, 453A(5), 455(1) and (2), 458, 461(5) and 720(4). |
 | Insolvency Act [1986 (c.45)](https://www.legislation.gov.uk/ukpga/1986/45) | In Schedule 13, in Part 1, the entries relating to the following provisions of the Companies Act 1985—<br>- (a) section 380(4), and<br>- (b) section 461(6). |
 | Water Act [1989 (c.15)](https://www.legislation.gov.uk/ukpga/1989/15) | In Schedule 25, paragraph 71(3). |
 | Companies Act [1989 (c.40)](https://www.legislation.gov.uk/ukpga/1989/40) | Section 16.<br>Section 113.<br>Section 114(1).<br>Section 115(2) and (3).<br>Section 138.<br>Section 143(8) and (9).<br>In Schedule 10, paragraph 10.<br>In Schedule 18, paragraphs 34 to 36.<br>In Schedule 19, paragraphs 8, 9, and 17. |
@@ -75,7 +75,7 @@ Article 8
 | Companies (Audit, Investigations and Community Enterprise) Act [2004 (c.27)](https://www.legislation.gov.uk/ukpga/2004/27) | Section 19(1).<br>Section 20.<br>In Schedule 2, paragraphs 7 to 9, 22 and 23. |
 | Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33) | In Schedule 27, paragraph 102. |
 
-### PART 2 — NORTHERN IRELAND[^key-79d5a42e4d9044489a5db52ab785077f]
+### PART 2 — NORTHERN IRELAND[^c-79d5a42e4d9044489a5db52ab785077f]
 
 | Short title and chapter | Extent of repeal brought into force |
 | --- | --- |
@@ -100,17 +100,17 @@ Article 8
 |  | In Article 365—<br>- (a) the words “Article 364 (inspection)”; and<br>- (b) the words from “and the power of the court” to the end. |
 |  | Articles 374 to 387. |
 |  | Article 387A(1)(b) to (e). |
-|  | Article 388(4)(a) and (c) to (m)[^key-f6de420be3d6ad4baa7ecf1b3f697c96] . |
+|  | Article 388(4)(a) and (c) to (m)[^c-f6de420be3d6ad4baa7ecf1b3f697c96] . |
 |  | Articles 389 to 391. |
 |  | Articles 392 and 393, as they apply to private companies. |
 |  | Articles 393A and 394. |
 |  | Articles 395 to 396A, as they apply to private companies. |
 |  | Article 401. |
 |  | Articles 451 to 454. |
-|  | [^key-8695add9220c8789c5e92f8486cff1bb]. . . |
+|  | [^c-8695add9220c8789c5e92f8486cff1bb]. . . |
 |  | Part 1 of Schedule 13. |
 |  | Schedule 15A. |
-|  | In Schedule 23, the entries relating to—<br>- (a) Articles 218(3), 219(10), 222(5), 223(8), 224(3), 225(7), 226(3), 227(3),<br>- (b) Article 249(2), as it applies to private companies,<br>- (c) Articles 322(3), 326(8), 330B(4), 331(2), 332(7), 334(2), (3), (4) and (5), 336(6), 337(3), 350(1), (2) and (3), 351(8), 364(5), 374(4), 375(3) and (5), 380(4) and (6), 384(7), [^key-9bd8b71ff4d4bc13f19863c4c930db8d]..., 389B(2), 390(5), 390B(2) and 391(4),<br>- (d) Article 395(2), as it applies to private companies, and<br>- (e) Articles 422(6), 423A(6), 451, 454(5) and 669(4). |
+|  | In Schedule 23, the entries relating to—<br>- (a) Articles 218(3), 219(10), 222(5), 223(8), 224(3), 225(7), 226(3), 227(3),<br>- (b) Article 249(2), as it applies to private companies,<br>- (c) Articles 322(3), 326(8), 330B(4), 331(2), 332(7), 334(2), (3), (4) and (5), 336(6), 337(3), 350(1), (2) and (3), 351(8), 364(5), 374(4), 375(3) and (5), 380(4) and (6), 384(7), [^c-9bd8b71ff4d4bc13f19863c4c930db8d]..., 389B(2), 390(5), 390B(2) and 391(4),<br>- (d) Article 395(2), as it applies to private companies, and<br>- (e) Articles 422(6), 423A(6), 451, 454(5) and 669(4). |
 | Companies (Northern Ireland) Order 1990 ([S.I. 1990/593 (N.I. 5)](https://www.legislation.gov.uk/nisi/1990/593)) | Article 18. |
 | Companies (No. 2) (Northern Ireland) Order 1990 ([S.I. 1990/1504 (N.I. 10)](https://www.legislation.gov.uk/nisi/1990/1504)) | Article 48.<br>Article 49(1). |
 |  | Article 50(2) and (3). |
@@ -121,20 +121,20 @@ Article 8
 
 ## Annotations
 
-[^key-93a5b5aee11e26f7cb8e048a4ca27b89]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/2194/schedule/2/part/1) in force at 1.10.2007, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a)
+[^c-93a5b5aee11e26f7cb8e048a4ca27b89]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/2194/schedule/2/part/1) in force at 1.10.2007, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a)
 
-[^key-7327b68a6992a24121d9f7a0bb239948]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/2194/schedule/2/part/1) substituted (30.9.2007) by [The Companies Act 2006 (Commencement No. 4 and Commencement No. 3 (Amendment)) Order 2007 (S.I. 2007/2607)](https://www.legislation.gov.uk/uksi/2007/2607), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2607/article/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2007/2607/article/4/2/a)
+[^c-7327b68a6992a24121d9f7a0bb239948]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/2194/schedule/2/part/1) substituted (30.9.2007) by [The Companies Act 2006 (Commencement No. 4 and Commencement No. 3 (Amendment)) Order 2007 (S.I. 2007/2607)](https://www.legislation.gov.uk/uksi/2007/2607), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2607/article/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2007/2607/article/4/2/a)
 
-[^key-22b6078e5414903357570043daf8b418]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/2194/schedule/2/part/1) omitted (30.9.2007) by virtue of [The Companies Act 2006 (Commencement No. 4 and Commencement No. 3 (Amendment)) Order 2007 (S.I. 2007/2607)](https://www.legislation.gov.uk/uksi/2007/2607), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2607/article/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2007/2607/article/4/2/b)
+[^c-22b6078e5414903357570043daf8b418]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/2194/schedule/2/part/1) omitted (30.9.2007) by virtue of [The Companies Act 2006 (Commencement No. 4 and Commencement No. 3 (Amendment)) Order 2007 (S.I. 2007/2607)](https://www.legislation.gov.uk/uksi/2007/2607), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2607/article/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2007/2607/article/4/2/b)
 
-[^key-c54e8ffead90954d3893e679731488fa]: Textual amendment: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/2194/schedule/2/part/1) entry omitted (14.1.2008) by virtue of [The Companies Act 2006 (Commencement No. 5, Transitional Provisions and Savings) Order 2007 (S.I. 2007/3495)](https://www.legislation.gov.uk/uksi/2007/3495), [art. 2(6)(b)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/6/b), [Sch. 5 para. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/schedule/5/paragraph/2/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/3495/article/12)) (as amended (6.4.2008) by [S.I. 2008/674](https://www.legislation.gov.uk/uksi/2008/674), [arts. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3), [5](https://www.legislation.gov.uk/uksi/2008/674/article/5), [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2008/674/schedule/3/paragraph/7))
+[^c-c54e8ffead90954d3893e679731488fa]: Textual amendment: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/2194/schedule/2/part/1) entry omitted (14.1.2008) by virtue of [The Companies Act 2006 (Commencement No. 5, Transitional Provisions and Savings) Order 2007 (S.I. 2007/3495)](https://www.legislation.gov.uk/uksi/2007/3495), [art. 2(6)(b)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/6/b), [Sch. 5 para. 2(2)](https://www.legislation.gov.uk/uksi/2007/3495/schedule/5/paragraph/2/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/3495/article/12)) (as amended (6.4.2008) by [S.I. 2008/674](https://www.legislation.gov.uk/uksi/2008/674), [arts. 2(3)](https://www.legislation.gov.uk/uksi/2008/674/article/2/3), [5](https://www.legislation.gov.uk/uksi/2008/674/article/5), [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2008/674/schedule/3/paragraph/7))
 
-[^key-6ebd02eba3207fb7b735254aca51e17b]: Textual amendment: Word in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/2194/schedule/2/part/1) omitted (30.9.2007) by virtue of [The Companies Act 2006 (Commencement No. 4 and Commencement No. 3 (Amendment)) Order 2007 (S.I. 2007/2607)](https://www.legislation.gov.uk/uksi/2007/2607), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2607/article/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2007/2607/article/4/2/c)
+[^c-6ebd02eba3207fb7b735254aca51e17b]: Textual amendment: Word in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/2194/schedule/2/part/1) omitted (30.9.2007) by virtue of [The Companies Act 2006 (Commencement No. 4 and Commencement No. 3 (Amendment)) Order 2007 (S.I. 2007/2607)](https://www.legislation.gov.uk/uksi/2007/2607), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2607/article/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2007/2607/article/4/2/c)
 
-[^key-79d5a42e4d9044489a5db52ab785077f]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2007/2194/schedule/2/part/2) in force at 1.10.2007, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a)
+[^c-79d5a42e4d9044489a5db52ab785077f]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2007/2194/schedule/2/part/2) in force at 1.10.2007, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a)
 
-[^key-f6de420be3d6ad4baa7ecf1b3f697c96]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2007/2194/schedule/2/part/2) substituted (30.9.2007) by [The Companies Act 2006 (Commencement No. 4 and Commencement No. 3 (Amendment)) Order 2007 (S.I. 2007/2607)](https://www.legislation.gov.uk/uksi/2007/2607), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2607/article/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2007/2607/article/4/3/a)
+[^c-f6de420be3d6ad4baa7ecf1b3f697c96]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2007/2194/schedule/2/part/2) substituted (30.9.2007) by [The Companies Act 2006 (Commencement No. 4 and Commencement No. 3 (Amendment)) Order 2007 (S.I. 2007/2607)](https://www.legislation.gov.uk/uksi/2007/2607), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2607/article/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2007/2607/article/4/3/a)
 
-[^key-8695add9220c8789c5e92f8486cff1bb]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2007/2194/schedule/2/part/2) omitted (30.9.2007) by virtue of [The Companies Act 2006 (Commencement No. 4 and Commencement No. 3 (Amendment)) Order 2007 (S.I. 2007/2607)](https://www.legislation.gov.uk/uksi/2007/2607), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2607/article/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2007/2607/article/4/3/b)
+[^c-8695add9220c8789c5e92f8486cff1bb]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2007/2194/schedule/2/part/2) omitted (30.9.2007) by virtue of [The Companies Act 2006 (Commencement No. 4 and Commencement No. 3 (Amendment)) Order 2007 (S.I. 2007/2607)](https://www.legislation.gov.uk/uksi/2007/2607), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2607/article/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2007/2607/article/4/3/b)
 
-[^key-9bd8b71ff4d4bc13f19863c4c930db8d]: Textual amendment: Word in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2007/2194/schedule/2/part/2) omitted (30.9.2007) by virtue of [The Companies Act 2006 (Commencement No. 4 and Commencement No. 3 (Amendment)) Order 2007 (S.I. 2007/2607)](https://www.legislation.gov.uk/uksi/2007/2607), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2607/article/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2007/2607/article/4/3/c)
+[^c-9bd8b71ff4d4bc13f19863c4c930db8d]: Textual amendment: Word in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2007/2194/schedule/2/part/2) omitted (30.9.2007) by virtue of [The Companies Act 2006 (Commencement No. 4 and Commencement No. 3 (Amendment)) Order 2007 (S.I. 2007/2607)](https://www.legislation.gov.uk/uksi/2007/2607), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2607/article/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2007/2607/article/4/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 109. Annual rate of surviving adult’s pensions payable on death of deferred member[^key-72f30fd507e0f17f0d55f3286d4562b4]
+## 109. Annual rate of surviving adult’s pensions payable on death of deferred member[^c-72f30fd507e0f17f0d55f3286d4562b4]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72f30fd507e0f17f0d55f3286d4562b4]: Commencement: [Reg. 109](https://www.legislation.gov.uk/nisr/2014/290/regulation/109) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-72f30fd507e0f17f0d55f3286d4562b4]: Commencement: [Reg. 109](https://www.legislation.gov.uk/nisr/2014/290/regulation/109) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

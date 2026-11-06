@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Notice requirements for new ground[^key-d7b54e474977349d74a44226f1adaa92][^key-88cb94feaa2432c412feb136b4bff892]
+## 95. Notice requirements for new ground[^c-d7b54e474977349d74a44226f1adaa92][^c-88cb94feaa2432c412feb136b4bff892]
 
 *Extent: E+W*
 
@@ -76,6 +76,6 @@ After section 83 of the Housing Act 1985 (proceedings for possession or terminat
 
 ## Annotations
 
-[^key-d7b54e474977349d74a44226f1adaa92]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2014/12/section/95) in force at 20.10.2014 for E. by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2590/article/2/b)
+[^c-d7b54e474977349d74a44226f1adaa92]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2014/12/section/95) in force at 20.10.2014 for E. by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2590/article/2/b)
 
-[^key-88cb94feaa2432c412feb136b4bff892]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2014/12/section/95) in force at 21.10.2014 for W. by [S.I. 2014/2830](https://www.legislation.gov.uk/wsi/2014/2830), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2830/article/2/b)
+[^c-88cb94feaa2432c412feb136b4bff892]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2014/12/section/95) in force at 21.10.2014 for W. by [S.I. 2014/2830](https://www.legislation.gov.uk/wsi/2014/2830), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2830/article/2/b)

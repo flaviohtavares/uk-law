@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Interpretation of Part 8[^key-b3a9294224f9889122ba897702040cc4]
+## 49. Interpretation of Part 8[^c-b3a9294224f9889122ba897702040cc4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - “**advance application**” means an application submitted during the period—
   - (a) beginning with the day on which this Part comes into force, and
-  - (b) ending immediately before IP completion day[^key-4a3d28bad72d841c5b9f84c9170c9026];
+  - (b) ending immediately before IP completion day[^c-4a3d28bad72d841c5b9f84c9170c9026];
 - “**working day**” means a day other than—
   - (a) a Saturday or a Sunday,
   - (b) Christmas Day or Good Friday, or
@@ -37,9 +37,9 @@ summary: ''
 
 ## Annotations
 
-[^key-b3a9294224f9889122ba897702040cc4]: Commencement: Reg. 49 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)
+[^c-b3a9294224f9889122ba897702040cc4]: Commencement: Reg. 49 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)
 
-[^key-4a3d28bad72d841c5b9f84c9170c9026]: Textual amendment: Words in reg. 49 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [11(j)](https://www.legislation.gov.uk/uksi/2020/56/regulation/11/j)
+[^c-4a3d28bad72d841c5b9f84c9170c9026]: Textual amendment: Words in reg. 49 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [11(j)](https://www.legislation.gov.uk/uksi/2020/56/regulation/11/j)
 
 [^c23565771]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80); amended by section 1 of the [St Andrew's Day Bank Holiday (Scotland) Act 2007 (asp 2)](https://www.legislation.gov.uk/asp/2007/2).
 

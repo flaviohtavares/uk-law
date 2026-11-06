@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Registration of property freezing orders and interim receiving orders[^key-c3e907d263e448d78576aa37718b4e7b]
+## 153. Registration of property freezing orders and interim receiving orders[^c-c3e907d263e448d78576aa37718b4e7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c3e907d263e448d78576aa37718b4e7b]: Commencement: [Art. 153](https://www.legislation.gov.uk/uksi/2005/3181/article/153) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-c3e907d263e448d78576aa37718b4e7b]: Commencement: [Art. 153](https://www.legislation.gov.uk/uksi/2005/3181/article/153) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
 [^f00087]: Footnote: [1972 c. 61](https://www.legislation.gov.uk/ukpga/1972/61)
 

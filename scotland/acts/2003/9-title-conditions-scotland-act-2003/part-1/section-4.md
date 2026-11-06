@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) A real burden is created by duly registering the constitutive deed except that[^key-b7fc8fba37796ddecc830f838520f751]... the constitutive deed may provide for the postponement of the effectiveness of the real burden to—
+(1) A real burden is created by duly registering the constitutive deed except that[^c-b7fc8fba37796ddecc830f838520f751]... the constitutive deed may provide for the postponement of the effectiveness of the real burden to—
 
 - (a) a date specified in that deed (the specification being of a fixed date and not, for example, of a date determinable by reference to the occurrence of an event); or
 - (b) the date of registration of some other deed so specified.
@@ -48,7 +48,7 @@ summary: ''
 
 [^c7937321]: Commencement: S. 4 wholly in force; s. 4 in force for certain purposes at 4.4.2003 see s. 129(2)(5); s. 4 otherwise in force at 28.11.2004 by [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
-[^key-b7fc8fba37796ddecc830f838520f751]: Textual amendment: Words in [s. 4(1)](https://www.legislation.gov.uk/asp/2003/9/section/4/1) repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 43(2)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/43/2) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-b7fc8fba37796ddecc830f838520f751]: Textual amendment: Words in [s. 4(1)](https://www.legislation.gov.uk/asp/2003/9/section/4/1) repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 43(2)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/43/2) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
 [^c21065931]: Modification: S. 4(5) excluded (1.6.2010) by [The Network Rail (Waverley Steps) Order 2010 (S.S.I. 2010/188)](https://www.legislation.gov.uk/ssi/2010/188), [art. 31(3)](https://www.legislation.gov.uk/ssi/2010/188/article/31/3)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 182. Agreements about associated and joint property[^key-1ccb6b00dfb324656e758e895ca9239f]
+## 182. Agreements about associated and joint property[^c-1ccb6b00dfb324656e758e895ca9239f]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ the amount of the payment may be reduced by any amount the enforcement authority
 
 ## Annotations
 
-[^key-1ccb6b00dfb324656e758e895ca9239f]: Commencement: [Art. 182](https://www.legislation.gov.uk/uksi/2005/3181/article/182) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-1ccb6b00dfb324656e758e895ca9239f]: Commencement: [Art. 182](https://www.legislation.gov.uk/uksi/2005/3181/article/182) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

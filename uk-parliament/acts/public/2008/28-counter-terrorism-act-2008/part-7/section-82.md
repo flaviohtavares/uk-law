@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Pre-charge detention: minor amendments[^key-6ccdbd74819482f8da9ce1e050b7cdb1]
+## 82. Pre-charge detention: minor amendments[^c-6ccdbd74819482f8da9ce1e050b7cdb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ccdbd74819482f8da9ce1e050b7cdb1]: Commencement: S. 82 in force at 16.2.2009 by [S.I. 2009/58](https://www.legislation.gov.uk/uksi/2009/58), [art. 2(g)](https://www.legislation.gov.uk/uksi/2009/58/article/2/g)
+[^c-6ccdbd74819482f8da9ce1e050b7cdb1]: Commencement: S. 82 in force at 16.2.2009 by [S.I. 2009/58](https://www.legislation.gov.uk/uksi/2009/58), [art. 2(g)](https://www.legislation.gov.uk/uksi/2009/58/article/2/g)

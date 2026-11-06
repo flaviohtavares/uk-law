@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 261. Supplementary provisions about powers of entry[^key-c4c3494854c327e509770360248645d0]
+## 261. Supplementary provisions about powers of entry[^c-c4c3494854c327e509770360248645d0]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4c3494854c327e509770360248645d0]: Commencement: S. 261 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-c4c3494854c327e509770360248645d0]: Commencement: S. 261 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

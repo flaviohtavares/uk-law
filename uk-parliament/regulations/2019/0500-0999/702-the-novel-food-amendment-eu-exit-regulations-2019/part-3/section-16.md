@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16.[^key-c521753aab0da2baf1ec57b0c2819e2d]
+## 16.[^c-c521753aab0da2baf1ec57b0c2819e2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ For Article 10, substitute—
 >
 > **1.**
 >
-> The procedure for authorising the placing on the market within Great Britain *(Extent: E+W+S)*[^key-5d4854d82231381fde697598bfe6f3fa] of a novel food and updating the list provided for in Article 9 must start either on the initiative of the appropriate authority or following an application to the appropriate authority by an applicant. The appropriate authority must make the summary of the application, based on the information referred to in points (a), (b) and (e) of paragraph 2 of this Article, publicly available.
+> The procedure for authorising the placing on the market within Great Britain *(Extent: E+W+S)*[^c-5d4854d82231381fde697598bfe6f3fa] of a novel food and updating the list provided for in Article 9 must start either on the initiative of the appropriate authority or following an application to the appropriate authority by an applicant. The appropriate authority must make the summary of the application, based on the information referred to in points (a), (b) and (e) of paragraph 2 of this Article, publicly available.
 >
 > **2.**
 >
@@ -64,6 +64,6 @@ For Article 10, substitute—
 
 ## Annotations
 
-[^key-c521753aab0da2baf1ec57b0c2819e2d]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-c521753aab0da2baf1ec57b0c2819e2d]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-5d4854d82231381fde697598bfe6f3fa]: Textual amendment: Words in reg. 16 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/15/5)
+[^c-5d4854d82231381fde697598bfe6f3fa]: Textual amendment: Words in reg. 16 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/15/5)

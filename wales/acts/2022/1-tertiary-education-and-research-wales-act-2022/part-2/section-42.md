@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. De-registration: procedure[^key-4679029f34aebd09a8f92378472ce6bb][^key-8728289de2abda092f47f25856b10f6f]
+## 42. De-registration: procedure[^c-4679029f34aebd09a8f92378472ce6bb][^c-8728289de2abda092f47f25856b10f6f]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4679029f34aebd09a8f92378472ce6bb]: Commencement: S. 42 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-4679029f34aebd09a8f92378472ce6bb]: Commencement: S. 42 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-8728289de2abda092f47f25856b10f6f]: Commencement: [S. 42](https://www.legislation.gov.uk/asc/2022/1/section/42) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(o)](https://www.legislation.gov.uk/wsi/2025/432/article/2/o)
+[^c-8728289de2abda092f47f25856b10f6f]: Commencement: [S. 42](https://www.legislation.gov.uk/asc/2022/1/section/42) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(o)](https://www.legislation.gov.uk/wsi/2025/432/article/2/o)

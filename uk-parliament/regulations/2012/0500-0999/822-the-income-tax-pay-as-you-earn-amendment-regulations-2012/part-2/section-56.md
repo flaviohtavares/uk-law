@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Postponement of first return under regulation 67B or 67D of the 2003 Regulations[^key-29e0bef68787871a47d812e3b37e4dad]
+## 56. Postponement of first return under regulation 67B or 67D of the 2003 Regulations[^c-29e0bef68787871a47d812e3b37e4dad]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29e0bef68787871a47d812e3b37e4dad]: Commencement: Reg. 56 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-29e0bef68787871a47d812e3b37e4dad]: Commencement: Reg. 56 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

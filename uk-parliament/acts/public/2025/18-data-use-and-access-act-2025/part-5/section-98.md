@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Power of the Commissioner to require a report[^key-602b3e031898016cf0230bfe445356ae][^key-69100ef061eb14b615edc5161115aee6]
+## 98. Power of the Commissioner to require a report[^c-602b3e031898016cf0230bfe445356ae][^c-69100ef061eb14b615edc5161115aee6]
 
 *Extent: E+W+S+N.I.*
 
@@ -89,6 +89,6 @@ summary: ''
 
 ## Annotations
 
-[^key-602b3e031898016cf0230bfe445356ae]: Commencement: S. 98 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-602b3e031898016cf0230bfe445356ae]: Commencement: S. 98 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-69100ef061eb14b615edc5161115aee6]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2025/18/section/98) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/q)
+[^c-69100ef061eb14b615edc5161115aee6]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2025/18/section/98) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/q)

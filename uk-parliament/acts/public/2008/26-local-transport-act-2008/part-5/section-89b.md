@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89B. Transfer of functions of combined county authority[^key-fc0c4e2e5c4da7b45d16898e398a9d68]
+## 89B. Transfer of functions of combined county authority[^c-fc0c4e2e5c4da7b45d16898e398a9d68]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc0c4e2e5c4da7b45d16898e398a9d68]: Textual amendment: S. 89B inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 176](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/176) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-fc0c4e2e5c4da7b45d16898e398a9d68]: Textual amendment: S. 89B inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 176](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/176) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

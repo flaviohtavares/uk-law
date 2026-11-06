@@ -26,7 +26,7 @@ Article 3
 
 #### Interpretation
 
-**1.**[^key-f185f36f81dc34019b2a1b73b4195853] In this Schedule—
+**1.**[^c-f185f36f81dc34019b2a1b73b4195853] In this Schedule—
 
 - “**contaminated land**” has the same meaning as that given in section 78A of the Environmental Protection Act 1990[^f00082];
 - “**European protected species**” has the same meaning as in regulations 42 (European protected species of animals) and 44 (European protected species of plants) of the Conservation of Habitats and Species Regulations 2017[^f00083];
@@ -44,11 +44,11 @@ Article 3
 
 #### Time limits
 
-**2.**[^key-0c6c7d66125a5bc7f6fb0a490758c08b] The authorised development must commence no later than the expiration of 5 years beginning with the date that this Order comes into force.
+**2.**[^c-0c6c7d66125a5bc7f6fb0a490758c08b] The authorised development must commence no later than the expiration of 5 years beginning with the date that this Order comes into force.
 
 #### Detailed design
 
-**3.**[^key-d42e63429a42c7fa0ceb68df4a0b83a3] (1) The authorised development must be designed in detail and carried out so that it is compatible with the preliminary scheme design shown on the works plans and the engineering drawings and sections, unless otherwise agreed in writing by the Secretary of State following consultation with the relevant planning authority and the local highway authority on matters related to their functions and provided that the Secretary of State is satisfied that any amendments to the works plans and the engineering drawings and sections showing departures from the preliminary scheme design would not give rise to any materially new or materially worse environmental effects in comparison with those reported in the environmental statement.
+**3.**[^c-d42e63429a42c7fa0ceb68df4a0b83a3] (1) The authorised development must be designed in detail and carried out so that it is compatible with the preliminary scheme design shown on the works plans and the engineering drawings and sections, unless otherwise agreed in writing by the Secretary of State following consultation with the relevant planning authority and the local highway authority on matters related to their functions and provided that the Secretary of State is satisfied that any amendments to the works plans and the engineering drawings and sections showing departures from the preliminary scheme design would not give rise to any materially new or materially worse environmental effects in comparison with those reported in the environmental statement.
 
 (2) Where amended details are approved by the Secretary of State under sub-paragraph (1), those details are deemed to be substituted for the corresponding engineering drawings and sections and the undertaker must make those amended details available in electronic form for inspection by members of the public.
 
@@ -62,7 +62,7 @@ Article 3
 
 #### Second Iteration EMP
 
-**4.**[^key-06239cf5c66286c8c173eb74eba58266] (1) No part of the authorised development is to commence until a second iteration EMP, substantially in accordance with the first iteration EMP, for that part has been submitted to and approved in writing by the Secretary of State, following consultation with the relevant planning authority, the local highway authority and the Environment Agency on matters related to their functions.
+**4.**[^c-06239cf5c66286c8c173eb74eba58266] (1) No part of the authorised development is to commence until a second iteration EMP, substantially in accordance with the first iteration EMP, for that part has been submitted to and approved in writing by the Secretary of State, following consultation with the relevant planning authority, the local highway authority and the Environment Agency on matters related to their functions.
 
 (2) The second iteration EMP must be written in accordance with ISO 14001 and must—
 
@@ -126,7 +126,7 @@ Article 3
 
 #### Landscaping
 
-**5.**[^key-9a3590c7a9dd9b1db5c2ef5bdbcd82f5] (1) No part of the authorised development is to commence unless a written landscaping scheme which sets out details of all proposed hard and soft landscaping works for that part has been submitted to and approved in writing by the Secretary of State, following consultation with the relevant planning authority on matters related to its functions.
+**5.**[^c-9a3590c7a9dd9b1db5c2ef5bdbcd82f5] (1) No part of the authorised development is to commence unless a written landscaping scheme which sets out details of all proposed hard and soft landscaping works for that part has been submitted to and approved in writing by the Secretary of State, following consultation with the relevant planning authority on matters related to its functions.
 
 (2) The authorised development must be landscaped in accordance with the landscaping scheme approved under sub-paragraph (1).
 
@@ -146,7 +146,7 @@ Article 3
 
 #### Contaminated land and groundwater
 
-**6.**[^key-1db1fcb5248aedd1997047be00e391bb] (1) No part of the authorised development is to commence until for that part a remediation strategy or design statement, if remediation is not required, to deal with the risks associated with contamination of the site in respect of the authorised development has been submitted to and approved in writing by the Secretary of State, following consultation with the relevant planning authority and the Environment Agency on matters related to their functions.
+**6.**[^c-1db1fcb5248aedd1997047be00e391bb] (1) No part of the authorised development is to commence until for that part a remediation strategy or design statement, if remediation is not required, to deal with the risks associated with contamination of the site in respect of the authorised development has been submitted to and approved in writing by the Secretary of State, following consultation with the relevant planning authority and the Environment Agency on matters related to their functions.
 
 (2) The remediation strategy or design statement, if remediation is not required, prepared under sub-paragraph (1) must include details of—
 
@@ -173,7 +173,7 @@ Article 3
 
 #### Protected species
 
-**7.**[^key-b2a3b7355a90c0be289c100998d0e6b0] (1) No part of the authorised development is to commence until for that part final pre-construction survey work has been carried out to establish whether European or nationally protected species are present on any of the land affected or likely to be affected by any part of the authorised development, or in any of the trees and shrubs to be lopped or felled as part of the relevant works.
+**7.**[^c-b2a3b7355a90c0be289c100998d0e6b0] (1) No part of the authorised development is to commence until for that part final pre-construction survey work has been carried out to establish whether European or nationally protected species are present on any of the land affected or likely to be affected by any part of the authorised development, or in any of the trees and shrubs to be lopped or felled as part of the relevant works.
 
 (2) Following pre-construction survey work or at any time when carrying out the authorised development, where—
 
@@ -189,13 +189,13 @@ the relevant parts of the relevant works likely to affect the identified protect
 
 #### Surface and foul water drainage
 
-**8.**[^key-09fb7eb66f114d21665ad8e88e8f52a0] (1) No part of the authorised development is to commence until for that part written details of the surface and foul water drainage system, reflecting the mitigation measures set out in the REAC including means of pollution control, have been submitted and approved in writing by the Secretary of State following consultation with the relevant lead local flood authority and the Environment Agency on matters related to their functions.
+**8.**[^c-09fb7eb66f114d21665ad8e88e8f52a0] (1) No part of the authorised development is to commence until for that part written details of the surface and foul water drainage system, reflecting the mitigation measures set out in the REAC including means of pollution control, have been submitted and approved in writing by the Secretary of State following consultation with the relevant lead local flood authority and the Environment Agency on matters related to their functions.
 
 (2) The surface and foul water drainage system must be constructed in accordance with the approved details, unless otherwise agreed in writing by the Secretary of State following consultation with the relevant lead local flood authority on matters related to its function, provided that the Secretary of State is satisfied that any amendments to the approved details would not give rise to any materially new or materially worse environmental effects in comparison with those reported in the environmental statement.
 
 #### Flood risk assessment
 
-**9.**[^key-e724df735520254af4579ea09dad4393] (1) Subject to sub-paragraph (2), the authorised development must be carried out in accordance with the flood risk assessment or any update thereof approved by the Environment Agency, including the mitigation measures detailed in it, so that no part of the authorised development is predicted to result in any exceedance of the flood levels to properties and land shown in the flood risk assessment.
+**9.**[^c-e724df735520254af4579ea09dad4393] (1) Subject to sub-paragraph (2), the authorised development must be carried out in accordance with the flood risk assessment or any update thereof approved by the Environment Agency, including the mitigation measures detailed in it, so that no part of the authorised development is predicted to result in any exceedance of the flood levels to properties and land shown in the flood risk assessment.
 
 (2) Sub-paragraph (1) does not apply in any circumstance where the undertaker proposes to carry out a part of the authorised development otherwise than in accordance with the flood risk assessment or demonstrates to the Environment Agency’s satisfaction, in consultation with the relevant lead local flood authority, that the part of the authorised development concerned would not result in an exceedance of the flood levels shown in the flood risk assessment.
 
@@ -205,7 +205,7 @@ the relevant parts of the relevant works likely to affect the identified protect
 
 #### Archaeological remains
 
-**10.**[^key-a7a4d00f61a0a28d12e0cfbe76a5fabb] (1) No part of the authorised development is to commence until for that part a written scheme for the investigation of areas of archaeological interest including a programme for post excavation analysis, reporting, publication or archiving, reflecting the relevant mitigation measures set out in the REAC, has been submitted to and approved in writing by the Secretary of State, following consultation with the relevant planning authority, Greater Manchester Archaeological Advisory Service and the county archaeologist at Derbyshire County Council on matters related to their functions.
+**10.**[^c-a7a4d00f61a0a28d12e0cfbe76a5fabb] (1) No part of the authorised development is to commence until for that part a written scheme for the investigation of areas of archaeological interest including a programme for post excavation analysis, reporting, publication or archiving, reflecting the relevant mitigation measures set out in the REAC, has been submitted to and approved in writing by the Secretary of State, following consultation with the relevant planning authority, Greater Manchester Archaeological Advisory Service and the county archaeologist at Derbyshire County Council on matters related to their functions.
 
 (2) The authorised development must be carried out in accordance with the scheme referred to in sub-paragraph (1).
 
@@ -223,11 +223,11 @@ the relevant parts of the relevant works likely to affect the identified protect
 
 #### Fencing
 
-**11.**[^key-bc52e3b5a0ca51d7cf4fa84a248cafb7] Any permanent and temporary fencing and other means of enclosure for the authorised development must be constructed and installed in accordance with Volume 1, Series 0300 of the Manual of Contract Documents for Highway Works except where any departures from that manual are agreed in writing by the Secretary of State in connection with the authorised development.
+**11.**[^c-bc52e3b5a0ca51d7cf4fa84a248cafb7] Any permanent and temporary fencing and other means of enclosure for the authorised development must be constructed and installed in accordance with Volume 1, Series 0300 of the Manual of Contract Documents for Highway Works except where any departures from that manual are agreed in writing by the Secretary of State in connection with the authorised development.
 
 #### Carbon management
 
-**12.**[^key-dc0d748bd56679962aa4422a643abf52] (1) No part of the authorised development is to commence until for that part a Carbon Management Plan has been submitted to and approved in writing by the Secretary of State, following consultation with the relevant planning authority and the local highway authority on matters related to their functions.
+**12.**[^c-dc0d748bd56679962aa4422a643abf52] (1) No part of the authorised development is to commence until for that part a Carbon Management Plan has been submitted to and approved in writing by the Secretary of State, following consultation with the relevant planning authority and the local highway authority on matters related to their functions.
 
 (2) The authorised development must be carried out in accordance with the Carbon Management Plan approved under sub-paragraph (1).
 
@@ -245,7 +245,7 @@ the relevant parts of the relevant works likely to affect the identified protect
 
 #### Piling
 
-**13.**[^key-e2587460013941dea31330b3e43d5d78] (1) No part of the authorised development is to commence until for that part a Piling Design Statement has been submitted to and approved in writing by the Secretary of State, following consultation with the relevant planning authority on matters related to their functions.
+**13.**[^c-e2587460013941dea31330b3e43d5d78] (1) No part of the authorised development is to commence until for that part a Piling Design Statement has been submitted to and approved in writing by the Secretary of State, following consultation with the relevant planning authority on matters related to their functions.
 
 (2) The authorised development must be carried out in accordance with the Piling Design Statement approved under sub-paragraph (1).
 
@@ -258,7 +258,7 @@ the relevant parts of the relevant works likely to affect the identified protect
 
 #### Details of consultation
 
-**14.**[^key-3fd59bb41faa0dd82c08acc54124788e] (1) With respect to any requirement which requires details to be submitted to the Secretary of State for approval under this Schedule following consultation with another party, the undertaker must provide such other party with not less than 21 days for any response to the consultation and thereafter the details submitted to the Secretary of State for approval must be accompanied by a summary report setting out the consultation undertaken by the undertaker to inform the details submitted and the undertaker’s response to that consultation.
+**14.**[^c-3fd59bb41faa0dd82c08acc54124788e] (1) With respect to any requirement which requires details to be submitted to the Secretary of State for approval under this Schedule following consultation with another party, the undertaker must provide such other party with not less than 21 days for any response to the consultation and thereafter the details submitted to the Secretary of State for approval must be accompanied by a summary report setting out the consultation undertaken by the undertaker to inform the details submitted and the undertaker’s response to that consultation.
 
 (2) At the time of submission to the Secretary of State for approval, the undertaker must provide a copy of the summary report referred to under sub-paragraph (1) to the relevant consultees referred to in the requirement in relation to which approval is being sought from the Secretary of State.
 
@@ -268,13 +268,13 @@ the relevant parts of the relevant works likely to affect the identified protect
 
 #### Amendments to approved details
 
-**15.**[^key-7618d6278beca384ec415de2afeecf12] With respect to any requirement which requires the authorised development to be carried out in accordance with the details or schemes or plans approved under this Schedule, the approved details or schemes or plans are taken to include any amendments that may subsequently be approved in writing by the Secretary of State.
+**15.**[^c-7618d6278beca384ec415de2afeecf12] With respect to any requirement which requires the authorised development to be carried out in accordance with the details or schemes or plans approved under this Schedule, the approved details or schemes or plans are taken to include any amendments that may subsequently be approved in writing by the Secretary of State.
 
 ### PART 2 — PROCEDURE FOR DISCHARGE OF REQUIREMENTS
 
 #### Applications made under requirements
 
-**16.**[^key-d2a118b4f82e8142564cf16e5174be14] (1) Where an application has been made to the Secretary of State for any consent, agreement or approval required by a requirement (including consent, agreement or approval in respect of part of a requirement) included in this Order the Secretary of State must give notice to the undertaker of the decision on the application within a period of 8 weeks beginning with—
+**16.**[^c-d2a118b4f82e8142564cf16e5174be14] (1) Where an application has been made to the Secretary of State for any consent, agreement or approval required by a requirement (including consent, agreement or approval in respect of part of a requirement) included in this Order the Secretary of State must give notice to the undertaker of the decision on the application within a period of 8 weeks beginning with—
 
 - (a) the day immediately following that on which the application is received by the Secretary of State;
 - (b) the day immediately following that on which further information has been supplied by the undertaker under paragraph 17 (further information); or
@@ -292,7 +292,7 @@ the application is taken to have been refused by the Secretary of State at the e
 
 #### Further information
 
-**17.**[^key-4461b818d4acc2df3eb23c2d8a50b842] (1) In relation to any part of an application made under this Schedule, the Secretary of State has the right to request such further information from the undertaker as is necessary to enable the Secretary of State to consider the application.
+**17.**[^c-4461b818d4acc2df3eb23c2d8a50b842] (1) In relation to any part of an application made under this Schedule, the Secretary of State has the right to request such further information from the undertaker as is necessary to enable the Secretary of State to consider the application.
 
 (2) In the event that the Secretary of State considers such further information to be necessary, the Secretary of State must, within 21 business days of receipt of the application, notify the undertaker in writing specifying the further information required and (if applicable) to which part of the application it relates. In the event that the Secretary of State does not give such notification within that 21 business day period the Secretary of State is deemed to have sufficient information to consider the application and is not subsequently entitled to request further information without the prior agreement of the undertaker.
 
@@ -304,7 +304,7 @@ the application is taken to have been refused by the Secretary of State at the e
 
 #### Register of requirements
 
-**18.**[^key-ac7a73f2a8010714f7c8fcc60ad82598] (1) The undertaker must, as soon as practicable following the making of this Order, establish and maintain in an electronic form suitable for inspection by members of the public a register of those requirements contained in Part 1 of this Schedule that provide for further approvals to be given by the Secretary of State.
+**18.**[^c-ac7a73f2a8010714f7c8fcc60ad82598] (1) The undertaker must, as soon as practicable following the making of this Order, establish and maintain in an electronic form suitable for inspection by members of the public a register of those requirements contained in Part 1 of this Schedule that provide for further approvals to be given by the Secretary of State.
 
 (2) The register must set out in relation to each such requirement the status of the requirement, in terms of whether any approval to be given by the Secretary of State has been applied for or given, providing an electronic link to any document containing any approved details.
 
@@ -312,11 +312,11 @@ the application is taken to have been refused by the Secretary of State at the e
 
 #### Anticipatory steps towards compliance with any requirement
 
-**19.**[^key-9100d8ab0357c3e6a089bbdbdbd94137] If before the coming into force of this Order the undertaker or any other person has taken any steps that were intended to be steps towards compliance with any provision of Part 1 of this Schedule, those steps may be taken into account for the purpose of determining compliance with that provision if they would have been valid steps for that purpose had they been taken after this Order came into force.
+**19.**[^c-9100d8ab0357c3e6a089bbdbdbd94137] If before the coming into force of this Order the undertaker or any other person has taken any steps that were intended to be steps towards compliance with any provision of Part 1 of this Schedule, those steps may be taken into account for the purpose of determining compliance with that provision if they would have been valid steps for that purpose had they been taken after this Order came into force.
 
 ## Annotations
 
-[^key-f185f36f81dc34019b2a1b73b4195853]: Commencement: Sch. 2 para. 1 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-f185f36f81dc34019b2a1b73b4195853]: Commencement: Sch. 2 para. 1 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
 
 [^f00082]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Section 78A was inserted by section 57 of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25) and amended by section 86(2) of the Water Act [2003 c. 37](https://www.legislation.gov.uk/ukpga/2003/37).
 
@@ -324,40 +324,40 @@ the application is taken to have been refused by the Secretary of State at the e
 
 [^f00084]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 
-[^key-0c6c7d66125a5bc7f6fb0a490758c08b]: Commencement: Sch. 2 para. 2 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-0c6c7d66125a5bc7f6fb0a490758c08b]: Commencement: Sch. 2 para. 2 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
 
-[^key-d42e63429a42c7fa0ceb68df4a0b83a3]: Commencement: Sch. 2 para. 3 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-d42e63429a42c7fa0ceb68df4a0b83a3]: Commencement: Sch. 2 para. 3 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
 
-[^key-06239cf5c66286c8c173eb74eba58266]: Commencement: Sch. 2 para. 4 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-06239cf5c66286c8c173eb74eba58266]: Commencement: Sch. 2 para. 4 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
 
-[^key-9a3590c7a9dd9b1db5c2ef5bdbcd82f5]: Commencement: Sch. 2 para. 5 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-9a3590c7a9dd9b1db5c2ef5bdbcd82f5]: Commencement: Sch. 2 para. 5 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
 
-[^key-1db1fcb5248aedd1997047be00e391bb]: Commencement: Sch. 2 para. 6 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-1db1fcb5248aedd1997047be00e391bb]: Commencement: Sch. 2 para. 6 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
 
-[^key-b2a3b7355a90c0be289c100998d0e6b0]: Commencement: Sch. 2 para. 7 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-b2a3b7355a90c0be289c100998d0e6b0]: Commencement: Sch. 2 para. 7 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
 
-[^key-09fb7eb66f114d21665ad8e88e8f52a0]: Commencement: Sch. 2 para. 8 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-09fb7eb66f114d21665ad8e88e8f52a0]: Commencement: Sch. 2 para. 8 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
 
-[^key-e724df735520254af4579ea09dad4393]: Commencement: Sch. 2 para. 9 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-e724df735520254af4579ea09dad4393]: Commencement: Sch. 2 para. 9 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
 
-[^key-a7a4d00f61a0a28d12e0cfbe76a5fabb]: Commencement: Sch. 2 para. 10 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-a7a4d00f61a0a28d12e0cfbe76a5fabb]: Commencement: Sch. 2 para. 10 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
 
-[^key-bc52e3b5a0ca51d7cf4fa84a248cafb7]: Commencement: Sch. 2 para. 11 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-bc52e3b5a0ca51d7cf4fa84a248cafb7]: Commencement: Sch. 2 para. 11 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
 
-[^key-dc0d748bd56679962aa4422a643abf52]: Commencement: Sch. 2 para. 12 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-dc0d748bd56679962aa4422a643abf52]: Commencement: Sch. 2 para. 12 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
 
-[^key-e2587460013941dea31330b3e43d5d78]: Commencement: Sch. 2 para. 13 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-e2587460013941dea31330b3e43d5d78]: Commencement: Sch. 2 para. 13 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
 
-[^key-3fd59bb41faa0dd82c08acc54124788e]: Commencement: Sch. 2 para. 14 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-3fd59bb41faa0dd82c08acc54124788e]: Commencement: Sch. 2 para. 14 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
 
-[^key-7618d6278beca384ec415de2afeecf12]: Commencement: Sch. 2 para. 15 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-7618d6278beca384ec415de2afeecf12]: Commencement: Sch. 2 para. 15 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
 
-[^key-d2a118b4f82e8142564cf16e5174be14]: Commencement: Sch. 2 para. 16 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-d2a118b4f82e8142564cf16e5174be14]: Commencement: Sch. 2 para. 16 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
 
-[^key-4461b818d4acc2df3eb23c2d8a50b842]: Commencement: Sch. 2 para. 17 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-4461b818d4acc2df3eb23c2d8a50b842]: Commencement: Sch. 2 para. 17 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
 
 [^f00085]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-ac7a73f2a8010714f7c8fcc60ad82598]: Commencement: Sch. 2 para. 18 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-ac7a73f2a8010714f7c8fcc60ad82598]: Commencement: Sch. 2 para. 18 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
 
-[^key-9100d8ab0357c3e6a089bbdbdbd94137]: Commencement: Sch. 2 para. 19 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-9100d8ab0357c3e6a089bbdbdbd94137]: Commencement: Sch. 2 para. 19 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)

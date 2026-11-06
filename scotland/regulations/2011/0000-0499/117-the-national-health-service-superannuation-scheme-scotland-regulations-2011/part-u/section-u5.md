@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## U5. Benefit information statements[^key-fdbdc45ecb691ef9788731e938157b68]
+## U5. Benefit information statements[^c-fdbdc45ecb691ef9788731e938157b68]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fdbdc45ecb691ef9788731e938157b68]: Textual amendment: Reg. U5 inserted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2015/95/schedule/2/paragraph/6)
+[^c-fdbdc45ecb691ef9788731e938157b68]: Textual amendment: Reg. U5 inserted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2015/95/schedule/2/paragraph/6)

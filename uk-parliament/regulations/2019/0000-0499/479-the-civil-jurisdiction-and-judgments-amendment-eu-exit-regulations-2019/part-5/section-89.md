@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Regulation (EU) No 1215/2012[^key-3ee1210d69d11af517b5d5b4714fab87]
+## 89. Regulation (EU) No 1215/2012[^c-3ee1210d69d11af517b5d5b4714fab87]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation (EU) No 1215/2012 of the European Parliament and of the Council of 12
 
 ## Annotations
 
-[^key-3ee1210d69d11af517b5d5b4714fab87]: Commencement: Reg. 89 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-3ee1210d69d11af517b5d5b4714fab87]: Commencement: Reg. 89 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)

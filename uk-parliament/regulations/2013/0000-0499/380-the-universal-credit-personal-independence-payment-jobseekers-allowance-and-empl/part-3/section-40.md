@@ -34,7 +34,7 @@ summary: ''
 
 (4) The evidence referred to in paragraph (3) may include evidence as to whether a property is let at an Affordable Rent within the meaning in Schedule 2 to the Rent Officers Order.
 
-(5) In this regulation and regulations 37 and 38[^key-bb09ef1e3cd8c485d687c24ee0e76ab6] “**landlord**” means any person to whom a claimant or partner is liable to make payments in respect of the occupation of the claimant's accommodation.
+(5) In this regulation and regulations 37 and 38[^c-bb09ef1e3cd8c485d687c24ee0e76ab6] “**landlord**” means any person to whom a claimant or partner is liable to make payments in respect of the occupation of the claimant's accommodation.
 
 (6) In this regulation “**the Rent Officers Order**” means the Rent Officer (Universal Credit Functions) Order 2013.
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c2167216]: Marginal citation: [S.I. 2013/382](https://www.legislation.gov.uk/uksi/2013/382).
 
-[^key-bb09ef1e3cd8c485d687c24ee0e76ab6]: Textual amendment: Words in reg. 40(5) substituted (13.7.2020) by [The Universal Credit (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/611)](https://www.legislation.gov.uk/uksi/2020/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/611/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2020/611/regulation/3/3)
+[^c-bb09ef1e3cd8c485d687c24ee0e76ab6]: Textual amendment: Words in reg. 40(5) substituted (13.7.2020) by [The Universal Credit (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/611)](https://www.legislation.gov.uk/uksi/2020/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/611/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2020/611/regulation/3/3)

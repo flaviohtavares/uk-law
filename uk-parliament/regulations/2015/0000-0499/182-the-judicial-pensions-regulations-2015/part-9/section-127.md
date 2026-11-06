@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Employers’ contributions[^key-c6ed4db399b130dbdb0b07d260bf2747]
+## 127. Employers’ contributions[^c-c6ed4db399b130dbdb0b07d260bf2747]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ at such intervals and at such rates as the scheme manager may from time to time 
 
 ## Annotations
 
-[^key-c6ed4db399b130dbdb0b07d260bf2747]: Commencement: [Reg. 127](https://www.legislation.gov.uk/uksi/2015/182/regulation/127) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-c6ed4db399b130dbdb0b07d260bf2747]: Commencement: [Reg. 127](https://www.legislation.gov.uk/uksi/2015/182/regulation/127) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Revocation of saving of Town and Country Planning (Applications) Regulations 1988[^c22542861][^key-d34a9d96b3a3ad1461d9b7fd1a6afa75]
+## 30. Revocation of saving of Town and Country Planning (Applications) Regulations 1988[^c22542861][^c-d34a9d96b3a3ad1461d9b7fd1a6afa75]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Article 3 of the Planning and Compulsory Purchase Act 2004 (Commencement No. 10 
 
 [^c22542861]: Commencement: [S. 30](https://www.legislation.gov.uk/anaw/2015/4/section/30) partly in force; [s. 30](https://www.legislation.gov.uk/anaw/2015/4/section/30) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-d34a9d96b3a3ad1461d9b7fd1a6afa75]: Commencement: [S. 30](https://www.legislation.gov.uk/anaw/2015/4/section/30) in force at 16.3.2016 in so far as not already in force by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(a)](https://www.legislation.gov.uk/wsi/2016/52/article/5/a)
+[^c-d34a9d96b3a3ad1461d9b7fd1a6afa75]: Commencement: [S. 30](https://www.legislation.gov.uk/anaw/2015/4/section/30) in force at 16.3.2016 in so far as not already in force by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(a)](https://www.legislation.gov.uk/wsi/2016/52/article/5/a)

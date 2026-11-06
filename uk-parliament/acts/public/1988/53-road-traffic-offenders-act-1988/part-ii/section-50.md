@@ -24,9 +24,9 @@ Nothing in section 10 of this Act empowers a district court in Scotland in respe
 
 - (a) to impose—
   - (i) a penalty of imprisonment which exceeds sixty days, or
-  - (ii) a fine which exceeds level 4 on the standard scale, [^key-87e7305e96c35e29679bcb52ab5bafa4]...
-- (b)[^key-87e7305e96c35e29679bcb52ab5bafa4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) a fine which exceeds level 4 on the standard scale, [^c-87e7305e96c35e29679bcb52ab5bafa4]...
+- (b)[^c-87e7305e96c35e29679bcb52ab5bafa4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-87e7305e96c35e29679bcb52ab5bafa4]: Textual amendment: S. 50(b) and word repealed (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (Powers of District and JP Courts) Order 2007 (S.I. 2007/3480)](https://www.legislation.gov.uk/uksi/2007/3480), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/3480/article/1/1), [2(1)(c)](https://www.legislation.gov.uk/uksi/2007/3480/article/2/1/c)
+[^c-87e7305e96c35e29679bcb52ab5bafa4]: Textual amendment: S. 50(b) and word repealed (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (Powers of District and JP Courts) Order 2007 (S.I. 2007/3480)](https://www.legislation.gov.uk/uksi/2007/3480), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/3480/article/1/1), [2(1)(c)](https://www.legislation.gov.uk/uksi/2007/3480/article/2/1/c)

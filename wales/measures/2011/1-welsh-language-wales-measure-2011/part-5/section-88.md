@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Failure to comply with requirement to take steps[^key-4e0e124a62406a9b5ddea87f06a95f65]
+## 88. Failure to comply with requirement to take steps[^c-4e0e124a62406a9b5ddea87f06a95f65]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e0e124a62406a9b5ddea87f06a95f65]: Commencement: [S. 88](https://www.legislation.gov.uk/mwa/2011/1/section/88) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)
+[^c-4e0e124a62406a9b5ddea87f06a95f65]: Commencement: [S. 88](https://www.legislation.gov.uk/mwa/2011/1/section/88) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)

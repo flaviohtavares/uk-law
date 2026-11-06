@@ -31,7 +31,7 @@ summary: ''
 
 agriculture
 
-The Feed (Corn Gluten Feed and Brewers Grains) (Emergency Control) (Revocation) Regulations (Northern Ireland) 2007 (revoked)[^key-c5e483a8183b6bb9a3ddfb7d22d405d5]
+The Feed (Corn Gluten Feed and Brewers Grains) (Emergency Control) (Revocation) Regulations (Northern Ireland) 2007 (revoked)[^c-c5e483a8183b6bb9a3ddfb7d22d405d5]
 
 Made
 
@@ -41,30 +41,30 @@ Coming into operation
 
 30th November 2007
 
-[^key-c5e483a8183b6bb9a3ddfb7d22d405d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5e483a8183b6bb9a3ddfb7d22d405d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-c5e483a8183b6bb9a3ddfb7d22d405d5]
+## 1. Citation, commencement and interpretation[^c-c5e483a8183b6bb9a3ddfb7d22d405d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-c5e483a8183b6bb9a3ddfb7d22d405d5]
+## 2. Revocation[^c-c5e483a8183b6bb9a3ddfb7d22d405d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential amendments to the Genetically Modified Animal Feed Regulations (Northern Ireland) 2004[^key-c5e483a8183b6bb9a3ddfb7d22d405d5]
+## 3. Consequential amendments to the Genetically Modified Animal Feed Regulations (Northern Ireland) 2004[^c-c5e483a8183b6bb9a3ddfb7d22d405d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Consequential amendment to the Official Feed and Food Controls Regulations (Northern Ireland) 2006[^key-c5e483a8183b6bb9a3ddfb7d22d405d5]
+## 4. Consequential amendment to the Official Feed and Food Controls Regulations (Northern Ireland) 2006[^c-c5e483a8183b6bb9a3ddfb7d22d405d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c5e483a8183b6bb9a3ddfb7d22d405d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5e483a8183b6bb9a3ddfb7d22d405d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c5e483a8183b6bb9a3ddfb7d22d405d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5e483a8183b6bb9a3ddfb7d22d405d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c5e483a8183b6bb9a3ddfb7d22d405d5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/451) revoked (14.2.2016) by [The Animal Feed (Composition, Marketing and Use) Regulations (Northern Ireland) 2016 (S.R. 2016/4)](https://www.legislation.gov.uk/nisr/2016/4), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/4/schedule/2) (with [reg. 2(4)](https://www.legislation.gov.uk/nisr/2016/4/regulation/2/4))
+[^c-c5e483a8183b6bb9a3ddfb7d22d405d5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/451) revoked (14.2.2016) by [The Animal Feed (Composition, Marketing and Use) Regulations (Northern Ireland) 2016 (S.R. 2016/4)](https://www.legislation.gov.uk/nisr/2016/4), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/4/schedule/2) (with [reg. 2(4)](https://www.legislation.gov.uk/nisr/2016/4/regulation/2/4))

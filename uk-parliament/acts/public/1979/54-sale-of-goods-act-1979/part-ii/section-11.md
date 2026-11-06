@@ -28,7 +28,7 @@ summary: ''
 
 (4) Subject to section 35A below[^c1108888] Where a contract of sale is not severable and the buyer has accepted the goods or part of them, the breach of a condition to be fulfilled by the seller can only be treated as a breach of warranty, and not as a ground for rejecting the goods and treating the contract as repudiated, unless there is an express or implied term of the contract to that effect.
 
-(4A)[^key-6c2dbd5ee6419c47078086f205f7a137] Subsection (4) does not apply to a contract to which Chapter 2 of Part 1 of the Consumer Rights Act 2015 applies (but see the provision made about such contracts in sections 19 to 22 of that Act).
+(4A)[^c-6c2dbd5ee6419c47078086f205f7a137] Subsection (4) does not apply to a contract to which Chapter 2 of Part 1 of the Consumer Rights Act 2015 applies (but see the provision made about such contracts in sections 19 to 22 of that Act).
 
 (5)[^c1108889] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -42,6 +42,6 @@ summary: ''
 
 [^c1108888]: Textual amendment: Words in s. 11(4) inserted (3.1.1995) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/3/2), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3)).
 
-[^key-6c2dbd5ee6419c47078086f205f7a137]: Textual amendment: [S. 11(4A)](https://www.legislation.gov.uk/ukpga/1979/54/section/11/4A) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/10); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-6c2dbd5ee6419c47078086f205f7a137]: Textual amendment: [S. 11(4A)](https://www.legislation.gov.uk/ukpga/1979/54/section/11/4A) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/10); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
 [^c1108889]: Textual amendment: S. 11(5) repealed (3.1.1995) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 7](https://www.legislation.gov.uk/ukpga/1994/35/section/7), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2), [Sch. 2 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/1994/35/schedule/2/paragraph/5/2/b), [Sch.3](https://www.legislation.gov.uk/ukpga/1994/35/schedule/3) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3)).

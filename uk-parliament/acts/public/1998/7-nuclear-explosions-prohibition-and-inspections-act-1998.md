@@ -211,9 +211,9 @@ he may issue a warrant in writing authorising a person acting under the authorit
 
 - (a) take with him such other persons and such equipment as appear to him to be necessary;
 - (b) inspect any document found on the premises which he has reasonable cause to believe may be required as evidence for the purposes of proceedings in respect of an offence under this Act;
-- (c)[^c8786891][^key-104b2c2031eab4a4e83ab167d6841f67] take copies of, or seize and remove, any such document;
-- (d)[^c8786891][^key-104b2c2031eab4a4e83ab167d6841f67] inspect, seize and remove any device or equipment found on the premises which he has reasonable cause to believe may be required as such evidence;
-- (e)[^c8786891][^key-104b2c2031eab4a4e83ab167d6841f67] inspect, sample, seize and remove any substance found on the premises which he has reasonable cause to believe may be required as such evidence.
+- (c)[^c8786891][^c-104b2c2031eab4a4e83ab167d6841f67] take copies of, or seize and remove, any such document;
+- (d)[^c8786891][^c-104b2c2031eab4a4e83ab167d6841f67] inspect, seize and remove any device or equipment found on the premises which he has reasonable cause to believe may be required as such evidence;
+- (e)[^c8786891][^c-104b2c2031eab4a4e83ab167d6841f67] inspect, sample, seize and remove any substance found on the premises which he has reasonable cause to believe may be required as such evidence.
 
 (3) A constable who enters the premises—
 
@@ -295,7 +295,7 @@ after the words “Chemical Weapons Act 1996” there shall be inserted “ or a
 
 [^c8786891]: Modification: Powers of seizure in s. 10(2)(c)(d)(e) extended (*prosp.*) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 50](https://www.legislation.gov.uk/ukpga/2001/16/section/50), [51](https://www.legislation.gov.uk/ukpga/2001/16/section/51), [55](https://www.legislation.gov.uk/ukpga/2001/16/section/55), [138(2)-(4)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 1 Pt. I para. 64](https://www.legislation.gov.uk/ukpga/2001/16/schedule/1/part/I/paragraph/64)
 
-[^key-104b2c2031eab4a4e83ab167d6841f67]: Modification: [S. 10(2)(c)](https://www.legislation.gov.uk/ukpga/1998/7/section/10/2/c)[(d)](https://www.legislation.gov.uk/ukpga/1998/7/section/10/2/d)[(e)](https://www.legislation.gov.uk/ukpga/1998/7/section/10/2/e) powers of seizure extended (1.4.2003) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 50](https://www.legislation.gov.uk/ukpga/2001/16/section/50), [138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 1 para. 64](https://www.legislation.gov.uk/ukpga/2001/16/schedule/1/paragraph/64) (with [ss. 52-54](https://www.legislation.gov.uk/ukpga/2001/16/section/52), [68](https://www.legislation.gov.uk/ukpga/2001/16/section/68)); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/708/article/2/a)
+[^c-104b2c2031eab4a4e83ab167d6841f67]: Modification: [S. 10(2)(c)](https://www.legislation.gov.uk/ukpga/1998/7/section/10/2/c)[(d)](https://www.legislation.gov.uk/ukpga/1998/7/section/10/2/d)[(e)](https://www.legislation.gov.uk/ukpga/1998/7/section/10/2/e) powers of seizure extended (1.4.2003) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 50](https://www.legislation.gov.uk/ukpga/2001/16/section/50), [138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 1 para. 64](https://www.legislation.gov.uk/ukpga/2001/16/schedule/1/paragraph/64) (with [ss. 52-54](https://www.legislation.gov.uk/ukpga/2001/16/section/52), [68](https://www.legislation.gov.uk/ukpga/2001/16/section/68)); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/708/article/2/a)
 
 [^c8786921]: Marginal citation: [1955 c. 18](https://www.legislation.gov.uk/ukpga/1955/18).
 

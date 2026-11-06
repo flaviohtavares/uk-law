@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Eye protection wear[^key-4841b40c6882cdae631b584b08fa7c22]
+## 20. Eye protection wear[^c-4841b40c6882cdae631b584b08fa7c22]
 
 *Extent: E+W+S+N.I.*
 
@@ -87,4 +87,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4841b40c6882cdae631b584b08fa7c22]: Commencement: Art. 20 comes into force in accordance with art. 1(3)-(6)
+[^c-4841b40c6882cdae631b584b08fa7c22]: Commencement: Art. 20 comes into force in accordance with art. 1(3)-(6)

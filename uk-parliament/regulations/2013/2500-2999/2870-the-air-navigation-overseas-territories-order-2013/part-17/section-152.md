@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Flight information service manual[^key-f5e4d9b7a185a5c3aca00b3774e604de]
+## 152. Flight information service manual[^c-f5e4d9b7a185a5c3aca00b3774e604de]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ A person must not provide a flight information service at any aerodrome unlessâ€
 
 ## Annotations
 
-[^key-f5e4d9b7a185a5c3aca00b3774e604de]: Commencement: [Art. 152](https://www.legislation.gov.uk/uksi/2013/2870/article/152) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-f5e4d9b7a185a5c3aca00b3774e604de]: Commencement: [Art. 152](https://www.legislation.gov.uk/uksi/2013/2870/article/152) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 218ZB. Disposal values: section 215[^key-21b88262c3aaa65f914ae1c3d77e4cc4]
+## 218ZB. Disposal values: section 215[^c-21b88262c3aaa65f914ae1c3d77e4cc4]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ the disposal value of the plant or machinery under the relevant transaction is t
 
 ## Annotations
 
-[^key-21b88262c3aaa65f914ae1c3d77e4cc4]: Textual amendment: [S. 218ZB](https://www.legislation.gov.uk/ukpga/2001/2/section/218ZB) inserted (with effect in accordance with s. 70(11) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 70(9)](https://www.legislation.gov.uk/ukpga/2016/24/section/70/9)
+[^c-21b88262c3aaa65f914ae1c3d77e4cc4]: Textual amendment: [S. 218ZB](https://www.legislation.gov.uk/ukpga/2001/2/section/218ZB) inserted (with effect in accordance with s. 70(11) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 70(9)](https://www.legislation.gov.uk/ukpga/2016/24/section/70/9)

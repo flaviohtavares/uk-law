@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6A — Animals not to be Poached[^key-ddb01ae67fb61865d6b3b0f04d1a5680]
+## SCHEDULE 6A — Animals not to be Poached[^c-ddb01ae67fb61865d6b3b0f04d1a5680]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ddb01ae67fb61865d6b3b0f04d1a5680]: Textual amendment: Sch. 6A inserted (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6) , [ss. 7(4)](https://www.legislation.gov.uk/asp/2011/6/section/7/4) , [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279) , [art. 2(1)(e)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/e)
+[^c-ddb01ae67fb61865d6b3b0f04d1a5680]: Textual amendment: Sch. 6A inserted (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6) , [ss. 7(4)](https://www.legislation.gov.uk/asp/2011/6/section/7/4) , [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279) , [art. 2(1)(e)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/e)

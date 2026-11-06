@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Divisions of the Tribunal[^key-b22385b790e4d6c4a389dd6dc91e67fd]
+## 23. Divisions of the Tribunal[^c-b22385b790e4d6c4a389dd6dc91e67fd]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b22385b790e4d6c4a389dd6dc91e67fd]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2014/10/section/23) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-b22385b790e4d6c4a389dd6dc91e67fd]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2014/10/section/23) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

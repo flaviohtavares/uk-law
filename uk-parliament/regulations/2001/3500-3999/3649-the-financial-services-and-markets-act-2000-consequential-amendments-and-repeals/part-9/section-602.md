@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 602. Revocation of reference to Policyholders Protection Board[^key-1e5577fc4123bc3d5798d66025f9d2bb]
+## 602. Revocation of reference to Policyholders Protection Board[^c-1e5577fc4123bc3d5798d66025f9d2bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In the Schedule to the Whole of Government Accounts (Designation of Bodies) Orde
 
 ## Annotations
 
-[^key-1e5577fc4123bc3d5798d66025f9d2bb]: Commencement: Art. 602 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-1e5577fc4123bc3d5798d66025f9d2bb]: Commencement: Art. 602 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

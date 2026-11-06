@@ -20,16 +20,16 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) Where a traffic commissioner[^key-50fad0ec46af2b4da3578044e12bccbe] revokes a PSV operator’s licence, he may order the former holder to be disqualified, indefinitely or for such period as he thinks fit, from holding or obtaining a PSV operator’s licence.
+(1) Where a traffic commissioner[^c-50fad0ec46af2b4da3578044e12bccbe] revokes a PSV operator’s licence, he may order the former holder to be disqualified, indefinitely or for such period as he thinks fit, from holding or obtaining a PSV operator’s licence.
 
 (2) So long as a disqualification imposed under subsection (1) above is in force with respect to any person,
 
 - (a)[^c10878221] any PSV operator’s licence held by him at the date of the making of the order under subsection (1) above (other than the licence revoked) shall be suspended (that is, shall remain in force subject to the limitation that no vehicles are authorised to be used under it); and
-- (b) notwithstanding section 14(3)[^key-c21750d70fc43229c0f3d8e69941314b] of the 1981 Act, no PSV operator’s licence may be granted to him.
+- (b) notwithstanding section 14(3)[^c-c21750d70fc43229c0f3d8e69941314b] of the 1981 Act, no PSV operator’s licence may be granted to him.
 
 (2A)[^c10878231] If a person obtains a PSV operator’s licence while he is disqualified under subsection (1) above, the licence shall be void.
 
-(3) An order under subsection (1) above may be limited so as to apply only to the holding or obtaining of a PSV operator’s licence in respect of one or more specified traffic areas[^key-797e5199621e883127938f9e4970790e] and, if the order is so limited, subsection (2) above shall apply only to any PSV operator’s licence to which the order applies.
+(3) An order under subsection (1) above may be limited so as to apply only to the holding or obtaining of a PSV operator’s licence in respect of one or more specified traffic areas[^c-797e5199621e883127938f9e4970790e] and, if the order is so limited, subsection (2) above shall apply only to any PSV operator’s licence to which the order applies.
 
 (4) Where a traffic commissioner makes an order under subsection (1) above with respect to any person, he may direct that if that person, at any time during such period as he may specify—
 
@@ -38,7 +38,7 @@ summary: ''
   - (ii) a company of which a company which holds such a licence is a subsidiary; or
 - (b) operates any public service vehicles in partnership with a person who holds such a licence;
 
-the powers under section 17(2) of the 1981 Act (revocation, suspension, etc., of PSV operators’ licences) shall be exercisable in relation to that licence by a traffic commissioner[^key-2d120ba3b485f839352050a554c8792f].
+the powers under section 17(2) of the 1981 Act (revocation, suspension, etc., of PSV operators’ licences) shall be exercisable in relation to that licence by a traffic commissioner[^c-2d120ba3b485f839352050a554c8792f].
 
 (5) The powers conferred by this section in relation to the person who was the holder of a licence shall be exercisable also—
 
@@ -47,7 +47,7 @@ the powers under section 17(2) of the 1981 Act (revocation, suspension, etc., of
 
 (6) A traffic commissioner shall not make any such order or give any such direction without first holding an inquiry if any person affected by the proposed order or direction requests him to do so.
 
-(6A)[^c10878251] Where an order disqualifying a person has been made under subsection (1) above, a traffic commissioner[^key-d2d95764a3f8f45904926f084c019d28] may at any time—
+(6A)[^c10878251] Where an order disqualifying a person has been made under subsection (1) above, a traffic commissioner[^c-d2d95764a3f8f45904926f084c019d28] may at any time—
 
 - (a) cancel that order together with any direction that was given under subsection (4) above when the order was made;
 - (b) cancel any such direction; or
@@ -59,20 +59,20 @@ the powers under section 17(2) of the 1981 Act (revocation, suspension, etc., of
 
 [^c10878211]: Modification: S. 26-30 applied (28.7.1998) by [1998 c. iii](https://www.legislation.gov.uk/ukla/1998/3), [s. 1](https://www.legislation.gov.uk/ukla/1998/3/section/1), [Sch. s. 54](https://www.legislation.gov.uk/ukla/1998/3/schedule/section/54) of Order
 
-[^key-50fad0ec46af2b4da3578044e12bccbe]: Textual amendment: Words in [s. 28(1)](https://www.legislation.gov.uk/ukpga/1985/67/section/28/1) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-50fad0ec46af2b4da3578044e12bccbe]: Textual amendment: Words in [s. 28(1)](https://www.legislation.gov.uk/ukpga/1985/67/section/28/1) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
 
 [^c10878221]: Textual amendment: Paras. (a) and (b) substituted for words in s. 28(2) (3.1.1995) by [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40), [s. 67(2)](https://www.legislation.gov.uk/ukpga/1995/40/section/67/2); [S.I. 1994/3188](https://www.legislation.gov.uk/uksi/1994/3188), [arts. 2](https://www.legislation.gov.uk/uksi/1994/3188/article/2), [3(1)](https://www.legislation.gov.uk/uksi/1994/3188/article/3/1)
 
-[^key-c21750d70fc43229c0f3d8e69941314b]: Textual amendment: Words in s. 28(2)(b) substituted (4.12.2011) by [The Road Transport Operator Regulations 2011 (S.I. 2011/2632)](https://www.legislation.gov.uk/uksi/2011/2632), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1), [Sch. 1 para. 12(2)](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1/paragraph/12/2) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/part/1))
+[^c-c21750d70fc43229c0f3d8e69941314b]: Textual amendment: Words in s. 28(2)(b) substituted (4.12.2011) by [The Road Transport Operator Regulations 2011 (S.I. 2011/2632)](https://www.legislation.gov.uk/uksi/2011/2632), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1), [Sch. 1 para. 12(2)](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1/paragraph/12/2) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/part/1))
 
 [^c10878231]: Textual amendment: S. 28(2A) inserted (3.1.1995) by [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40), [s. 67(3)](https://www.legislation.gov.uk/ukpga/1994/40/section/67/3); [S.I. 1994/3188](https://www.legislation.gov.uk/uksi/1994/3188), [arts. 2](https://www.legislation.gov.uk/uksi/1994/3188/article/2), [3(1)](https://www.legislation.gov.uk/uksi/1994/3188/article/3/1)
 
-[^key-797e5199621e883127938f9e4970790e]: Textual amendment: Words in [s. 28(3)](https://www.legislation.gov.uk/ukpga/1985/67/section/28/3) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-797e5199621e883127938f9e4970790e]: Textual amendment: Words in [s. 28(3)](https://www.legislation.gov.uk/ukpga/1985/67/section/28/3) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
 
-[^key-2d120ba3b485f839352050a554c8792f]: Textual amendment: Words in [s. 28(4)](https://www.legislation.gov.uk/ukpga/1985/67/section/28/4) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-2d120ba3b485f839352050a554c8792f]: Textual amendment: Words in [s. 28(4)](https://www.legislation.gov.uk/ukpga/1985/67/section/28/4) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
 
 [^c10878241]: Textual amendment: Words in s. 28(5) added (3.1.1995) by [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40), [s. 67(4)](https://www.legislation.gov.uk/ukpga/1994/40/section/67/4); [S.I. 1994/3188](https://www.legislation.gov.uk/uksi/1994/3188), [arts. 2](https://www.legislation.gov.uk/uksi/1994/3188/article/2), [3(1)](https://www.legislation.gov.uk/uksi/1994/3188/article/3/1)
 
 [^c10878251]: Textual amendment: S. 28(6A) inserted (3.1.1995) by [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40), [s. 67(5)](https://www.legislation.gov.uk/ukpga/1994/40/section/67/5); [S.I. 1994/3188](https://www.legislation.gov.uk/uksi/1994/3188), [arts. 2](https://www.legislation.gov.uk/uksi/1994/3188/article/2), [3(1)](https://www.legislation.gov.uk/uksi/1994/3188/article/3/1)
 
-[^key-d2d95764a3f8f45904926f084c019d28]: Textual amendment: Words in [s. 28(6A)](https://www.legislation.gov.uk/ukpga/1985/67/section/28/6A) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-d2d95764a3f8f45904926f084c019d28]: Textual amendment: Words in [s. 28(6A)](https://www.legislation.gov.uk/ukpga/1985/67/section/28/6A) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))

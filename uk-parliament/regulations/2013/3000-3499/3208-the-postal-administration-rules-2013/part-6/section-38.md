@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Pre-postal administration costs[^key-b1fc51cc493af13c5f67ec13f043e828]
+## 38. Pre-postal administration costs[^c-b1fc51cc493af13c5f67ec13f043e828]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where the postal administrator has made a statement of pre-postal administration
 
 ## Annotations
 
-[^key-b1fc51cc493af13c5f67ec13f043e828]: Commencement: [Rule 38](https://www.legislation.gov.uk/uksi/2013/3208/rule/38) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-b1fc51cc493af13c5f67ec13f043e828]: Commencement: [Rule 38](https://www.legislation.gov.uk/uksi/2013/3208/rule/38) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

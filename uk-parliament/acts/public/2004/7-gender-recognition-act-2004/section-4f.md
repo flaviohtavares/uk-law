@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4F. Death of civil partner or spouse: issue of full certificate (Scotland)[^key-d466928ddf3a56761561193c46148aac]
+## 4F. Death of civil partner or spouse: issue of full certificate (Scotland)[^c-d466928ddf3a56761561193c46148aac]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d466928ddf3a56761561193c46148aac]: Textual amendment: [S. 4F](https://www.legislation.gov.uk/ukpga/2004/7/section/4F) repealed (30.11.2021) by [Civil Partnership (Scotland) Act 2020 (asp 15)](https://www.legislation.gov.uk/asp/2020/15), [s. 16](https://www.legislation.gov.uk/asp/2020/15/section/16), [sch. 2 para. 5(8)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/5/8); [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))
+[^c-d466928ddf3a56761561193c46148aac]: Textual amendment: [S. 4F](https://www.legislation.gov.uk/ukpga/2004/7/section/4F) repealed (30.11.2021) by [Civil Partnership (Scotland) Act 2020 (asp 15)](https://www.legislation.gov.uk/asp/2020/15), [s. 16](https://www.legislation.gov.uk/asp/2020/15/section/16), [sch. 2 para. 5(8)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/5/8); [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))

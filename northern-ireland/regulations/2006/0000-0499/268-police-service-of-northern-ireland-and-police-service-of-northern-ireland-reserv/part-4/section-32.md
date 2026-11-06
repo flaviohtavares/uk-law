@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Refusal to be medically examined[^key-bc009998e95ef4af53d67a4d47cdb067]
+## 32. Refusal to be medically examined[^c-bc009998e95ef4af53d67a4d47cdb067]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ If a question is referred to a medical authority under regulation 29, 30 or 31 a
 
 ## Annotations
 
-[^key-bc009998e95ef4af53d67a4d47cdb067]: Commencement: Reg. 32 in operation at 25.7.2006 with effect in accordance with reg. 1
+[^c-bc009998e95ef4af53d67a4d47cdb067]: Commencement: Reg. 32 in operation at 25.7.2006 with effect in accordance with reg. 1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Formalities of establishment[^key-dd840cc16c0f831e7f53dbddeb2d7e02]
+## 68. Formalities of establishment[^c-dd840cc16c0f831e7f53dbddeb2d7e02]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd840cc16c0f831e7f53dbddeb2d7e02]: Commencement: Rule 68 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-dd840cc16c0f831e7f53dbddeb2d7e02]: Commencement: Rule 68 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

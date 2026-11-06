@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Use of aerodromes by aircraft of Contracting States[^key-2ebbe5a37f41fb4a9e451daf21f16d10]
+## 159. Use of aerodromes by aircraft of Contracting States[^c-2ebbe5a37f41fb4a9e451daf21f16d10]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The person in charge of any aerodrome in the Territory which is open to public u
 
 ## Annotations
 
-[^key-2ebbe5a37f41fb4a9e451daf21f16d10]: Commencement: [Art. 159](https://www.legislation.gov.uk/uksi/2013/2870/article/159) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-2ebbe5a37f41fb4a9e451daf21f16d10]: Commencement: [Art. 159](https://www.legislation.gov.uk/uksi/2013/2870/article/159) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

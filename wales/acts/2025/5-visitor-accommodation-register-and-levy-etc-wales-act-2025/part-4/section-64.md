@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Power to make consequential, transitional etc. provision[^key-80fcd2de2086f0800e6f959bd21a0cb1]
+## 64. Power to make consequential, transitional etc. provision[^c-80fcd2de2086f0800e6f959bd21a0cb1]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80fcd2de2086f0800e6f959bd21a0cb1]: Commencement: S. 64 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-80fcd2de2086f0800e6f959bd21a0cb1]: Commencement: S. 64 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 146. Payments of dividend and related matters[^key-e060bb82de9b2a0e0939cca498dc4b37]
+## 146. Payments of dividend and related matters[^c-e060bb82de9b2a0e0939cca498dc4b37]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e060bb82de9b2a0e0939cca498dc4b37]: Commencement: [Rule 146](https://www.legislation.gov.uk/nisr/2026/11/rule/146) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-e060bb82de9b2a0e0939cca498dc4b37]: Commencement: [Rule 146](https://www.legislation.gov.uk/nisr/2026/11/rule/146) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

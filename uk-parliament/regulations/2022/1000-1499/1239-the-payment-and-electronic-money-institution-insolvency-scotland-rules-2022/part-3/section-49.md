@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Venue and conduct of company meetings[^key-4b22f8bd0e26effaf2baf17a16f11810]
+## 49. Venue and conduct of company meetings[^c-4b22f8bd0e26effaf2baf17a16f11810]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b22f8bd0e26effaf2baf17a16f11810]: Commencement: Rule 49 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-4b22f8bd0e26effaf2baf17a16f11810]: Commencement: Rule 49 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

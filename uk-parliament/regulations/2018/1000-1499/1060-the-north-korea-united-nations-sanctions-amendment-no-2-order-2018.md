@@ -32,7 +32,7 @@ summary: ''
 
 United Nations
 
-The North Korea (United Nations Sanctions) (Amendment) (No. 2) Order 2018 (revoked)[^key-b5113e00be90b992726fc964395f040b]
+The North Korea (United Nations Sanctions) (Amendment) (No. 2) Order 2018 (revoked)[^c-b5113e00be90b992726fc964395f040b]
 
 Made
 
@@ -52,40 +52,40 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-b5113e00be90b992726fc964395f040b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b5113e00be90b992726fc964395f040b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and extent[^key-b5113e00be90b992726fc964395f040b]
+## 1. Citation, commencement, interpretation and extent[^c-b5113e00be90b992726fc964395f040b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Order[^key-b5113e00be90b992726fc964395f040b]
+## 2. Amendment of the principal Order[^c-b5113e00be90b992726fc964395f040b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-b5113e00be90b992726fc964395f040b]
+## 3.[^c-b5113e00be90b992726fc964395f040b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-b5113e00be90b992726fc964395f040b]
+## 4.[^c-b5113e00be90b992726fc964395f040b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-b5113e00be90b992726fc964395f040b]
+## 5.[^c-b5113e00be90b992726fc964395f040b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-b5113e00be90b992726fc964395f040b]
+## 6.[^c-b5113e00be90b992726fc964395f040b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b5113e00be90b992726fc964395f040b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b5113e00be90b992726fc964395f040b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b5113e00be90b992726fc964395f040b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b5113e00be90b992726fc964395f040b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b5113e00be90b992726fc964395f040b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/1060) revoked (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [8(r)](https://www.legislation.gov.uk/uksi/2020/591/regulation/8/r); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
+[^c-b5113e00be90b992726fc964395f040b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/1060) revoked (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [8(r)](https://www.legislation.gov.uk/uksi/2020/591/regulation/8/r); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)

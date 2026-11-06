@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5A — Breach of injunction: powers of court in respect of under-18s[^key-3d76d5551e35a995ca3273a97442b900]
+## SCHEDULE 5A — Breach of injunction: powers of court in respect of under-18s[^c-3d76d5551e35a995ca3273a97442b900]
 
 *Extent: E+W*
 
@@ -28,18 +28,18 @@ Section 46A
 
 **1.** (1) Where—
 
-- (a) an injunction under Part 4 has been[^key-22fcba2c191ff6897376a3c2934abeda] granted against a person under the age of 18,
-- (aa)[^key-122f6ca7623c8c8c211b3a491e5aa0d7] the person is still under the age of 18, and
-- (b) on an application made by the injunction applicant, a youth court[^key-da8826b33d52150014872d717556e3b2] is satisfied beyond reasonable doubt that the person is in breach of any provision of the injunction,
+- (a) an injunction under Part 4 has been[^c-22fcba2c191ff6897376a3c2934abeda] granted against a person under the age of 18,
+- (aa)[^c-122f6ca7623c8c8c211b3a491e5aa0d7] the person is still under the age of 18, and
+- (b) on an application made by the injunction applicant, a youth court[^c-da8826b33d52150014872d717556e3b2] is satisfied beyond reasonable doubt that the person is in breach of any provision of the injunction,
 
-that court[^key-289850c2c1361f369720a8ce2ad78d36] may make one of the orders specified in sub-paragraph (2) in respect of the person.
+that court[^c-289850c2c1361f369720a8ce2ad78d36] may make one of the orders specified in sub-paragraph (2) in respect of the person.
 
 (2) Those orders are—
 
 - (a) a supervision order (see Part 2 of this Schedule);
 - (b) a detention order (see Part 3 of this Schedule).
 
-(3)[^key-c6cd1b46eb3fabe48a3b7a604f238524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c6cd1b46eb3fabe48a3b7a604f238524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Before making an application under paragraph 1(1)(b) the injunction applicant must consult—
 
@@ -58,7 +58,7 @@ that court[^key-289850c2c1361f369720a8ce2ad78d36] may make one of the orders spe
 
 - “ **defaulter** ”, in relation to an order under this Schedule, means the person in respect of whom the order is made;
 - “ **injunction applicant** ”, in relation to an injunction under Part 4 or an order under this Schedule made in respect of such an injunction, means the person who applied for the injunction;
-- [^key-3b63efdb68832144906fcc9780707e72] ...
+- [^c-3b63efdb68832144906fcc9780707e72] ...
 
 ### Part 2 — Supervision orders
 
@@ -153,7 +153,7 @@ and, during that period, to comply with instructions given by, or under the auth
 
 (10) Instructions given by, or under the authority of, a person in charge of a place under sub-paragraph (3), (5), (7) or (9)(b) may require the defaulter to engage in activities otherwise than at that place.
 
-(11) Where a supervision order contains an activity requirement, a youth[^key-0b9db9fbaf8e330ed8c3b23d20ac2b3f] court may on the application of the injunction applicant or the defaulter amend the order by substituting for any number of days, place, activity, period or description of persons specified in the order a new number of days, place, activity, period or description (subject, in the case of a number of days, to sub-paragraph (2)).
+(11) Where a supervision order contains an activity requirement, a youth[^c-0b9db9fbaf8e330ed8c3b23d20ac2b3f] court may on the application of the injunction applicant or the defaulter amend the order by substituting for any number of days, place, activity, period or description of persons specified in the order a new number of days, place, activity, period or description (subject, in the case of a number of days, to sub-paragraph (2)).
 
 (12) A court may only include an activity requirement in a supervision order or vary such a requirement under sub-paragraph (11) if—
 
@@ -169,7 +169,7 @@ and, during that period, to comply with instructions given by, or under the auth
 (15) In sub-paragraph (14)—
 
 - (a) “ **parental responsibility** ” has the same meaning as it has in the Children Act 1989 by virtue of section 3 of that Act;
-- (b)[^key-2840bc798085ab626ec83ae97231fa72] “ **social services functions** ” means—
+- (b)[^c-2840bc798085ab626ec83ae97231fa72] “ **social services functions** ” means—
   - (a) in relation to a local authority in England, its social services functions within the meaning of the Local Authority Social Services Act 1970; and
   - (b) in relation to a local authority in Wales, its social services functions for the purposes of the Social Services and Well-being (Wales) Act 2014 (anaw 4).
 
@@ -186,7 +186,7 @@ and, during that period, to comply with instructions given by, or under the auth
 
 (4) Before specifying a place under sub-paragraph (1) in a supervision order, the court making the order must obtain and consider information about the place proposed to be specified in the order (including information as to the attitude of persons likely to be affected by the enforced presence there of the defaulter).
 
-(5) Where a supervision order contains a curfew requirement, a youth[^key-73fa59bc1a4f4e0a00df7a5dd948f5f2] court may, on the application of the injunction applicant or the defaulter amend the order by—
+(5) Where a supervision order contains a curfew requirement, a youth[^c-73fa59bc1a4f4e0a00df7a5dd948f5f2] court may, on the application of the injunction applicant or the defaulter amend the order by—
 
 - (a) substituting new periods for the periods specified in the order under this paragraph (subject to sub-paragraph (3)); or
 - (b) substituting a new place for the place specified in the order under this paragraph (subject to sub-paragraph (4)).
@@ -222,7 +222,7 @@ the requirement may not be included in the order without that person's consent.
 - (a) has been notified by the youth offending team for the time being specified in the order that arrangements for electronic monitoring are available in the area where the place which the court proposes to specify in the order for the purposes of the curfew requirement is situated, and
 - (b) is satisfied that the necessary provision can be made under the arrangements currently available.
 
-(7) Where a supervision order contains an electronic monitoring requirement, a youth[^key-d0aeb556723be1f0fb9419ccfbe43e6f] court may, on the application of the injunction applicant or the defaulter, amend the order by substituting a new period for the period specified in the order under this paragraph.
+(7) Where a supervision order contains an electronic monitoring requirement, a youth[^c-d0aeb556723be1f0fb9419ccfbe43e6f] court may, on the application of the injunction applicant or the defaulter, amend the order by substituting a new period for the period specified in the order under this paragraph.
 
 (8) Sub-paragraph (3) applies in relation to the variation of an electronic monitoring requirement under sub-paragraph (7) as it applies in relation to the inclusion of such a requirement.
 
@@ -249,13 +249,13 @@ the requirement may not be included in the order without that person's consent.
 
 #### Amendment of operative period
 
-**8.** (1) A youth[^key-d722f4584700d6839d6cdcd4ab744011] court may, on the application of the injunction applicant or the defaulter, amend a supervision order by substituting a new period for that for the time being specified in the order under paragraph 2(5) (subject to paragraph 2(6)).
+**8.** (1) A youth[^c-d722f4584700d6839d6cdcd4ab744011] court may, on the application of the injunction applicant or the defaulter, amend a supervision order by substituting a new period for that for the time being specified in the order under paragraph 2(5) (subject to paragraph 2(6)).
 
-(2) A youth court may,[^key-6597a8b7fe92ba5632614c56b071eb0b] on amending a supervision order pursuant to sub-paragraph (1), make such other amendments to the order in relation to any requirement imposed by the order as the court considers appropriate.
+(2) A youth court may,[^c-6597a8b7fe92ba5632614c56b071eb0b] on amending a supervision order pursuant to sub-paragraph (1), make such other amendments to the order in relation to any requirement imposed by the order as the court considers appropriate.
 
 #### Amendment on change of area of residence
 
-**9.** (1) This paragraph applies where, on an application made by the injunction applicant or the defaulter in relation to a supervision order, a youth[^key-486d915ca716254d872b92493b97ea0a] court is satisfied that the defaulter proposes to reside, or is residing, in the area of a youth offending team other than the team for the time being specified in the order.
+**9.** (1) This paragraph applies where, on an application made by the injunction applicant or the defaulter in relation to a supervision order, a youth[^c-486d915ca716254d872b92493b97ea0a] court is satisfied that the defaulter proposes to reside, or is residing, in the area of a youth offending team other than the team for the time being specified in the order.
 
 (2) If the application is made by the defaulter, the court to which it is made may amend the order by substituting for the youth offending team specified in the order the youth offending team for the area referred to in sub-paragraph (1) (or, if there is more than one such team for that area, such of those teams as the court may determine).
 
@@ -272,7 +272,7 @@ the requirement may not be included in the order without that person's consent.
 
 #### Revocation of supervision order
 
-**10.** (1) Where a supervision order is made, the injunction applicant or the defaulter may apply to a youth[^key-93afc6a05761c8dc2c00342ea41944d4] court—
+**10.** (1) Where a supervision order is made, the injunction applicant or the defaulter may apply to a youth[^c-93afc6a05761c8dc2c00342ea41944d4] court—
 
 - (a) to revoke the order, or
 - (b) to amend the order by removing any requirement from it.
@@ -281,7 +281,7 @@ the requirement may not be included in the order without that person's consent.
 
 (3) The circumstances referred to in sub-paragraph (2) include the conduct of the defaulter.
 
-(4) If an application made under sub-paragraph (1) in relation to a supervision order is dismissed, no further such application may be made in relation to the order by any person without the consent of a youth[^key-4fa184ec22717657e8ac62abb914fa90] court.
+(4) If an application made under sub-paragraph (1) in relation to a supervision order is dismissed, no further such application may be made in relation to the order by any person without the consent of a youth[^c-4fa184ec22717657e8ac62abb914fa90] court.
 
 (5) The injunction applicant must consult the youth offending team for the time being specified in the order before making an application under sub-paragraph (1).
 
@@ -293,7 +293,7 @@ the requirement may not be included in the order without that person's consent.
 
 **12.** (1) If the responsible officer considers that the defaulter has failed to comply with any requirement of the supervision order, the responsible officer must inform the injunction applicant.
 
-(2) On being informed as specified in sub-paragraph (1) the injunction applicant may apply to a youth[^key-30f2d3cc7f72875321acfdb1786a897a] court.
+(2) On being informed as specified in sub-paragraph (1) the injunction applicant may apply to a youth[^c-30f2d3cc7f72875321acfdb1786a897a] court.
 
 (3) Before making an application under sub-paragraph (2) the injunction applicant must consult—
 
@@ -305,9 +305,9 @@ the requirement may not be included in the order without that person's consent.
 - (a) revoke the supervision order and make a new one; or
 - (b) revoke the order and make a detention order (see Part 3 of this Schedule).
 
-(5)[^key-bb0c1ed9562bdb2671d3a3d018b8770c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-bb0c1ed9562bdb2671d3a3d018b8770c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-21acc451217b1518e95654ae71345b46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-21acc451217b1518e95654ae71345b46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) The court to which an application under sub-paragraph (2) is made must consider representations made by the youth offending team for the time being specified in the order before exercising its powers under this paragraph.
 
@@ -350,9 +350,9 @@ the injunction applicant must forthwith give a copy of the revoking order, or of
 (3) In sub-paragraph (1) “ **youth detention accommodation** ” means—
 
 - (a) a secure training centre;
-- (aa)[^key-b81aeb70055ac6735f1533261f5256ea] a secure college;
+- (aa)[^c-b81aeb70055ac6735f1533261f5256ea] a secure college;
 - (b) a young offender institution;
-- (c)[^key-fbd37cdd25f69a3363b893528fe9266b] a secure children's home, as defined by section 102(11) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012.
+- (c)[^c-fbd37cdd25f69a3363b893528fe9266b] a secure children's home, as defined by section 102(11) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012.
 
 (4) The function of the Secretary of State under sub-paragraph (1) is exercisable concurrently with the Youth Justice Board.
 
@@ -360,13 +360,13 @@ the injunction applicant must forthwith give a copy of the revoking order, or of
 
 #### Revocation of detention order
 
-**15.** (1) Where a detention order is made, the injunction applicant or the defaulter may apply to a youth[^key-366d42bec173304bc4a00b118d655141] court to revoke it.
+**15.** (1) Where a detention order is made, the injunction applicant or the defaulter may apply to a youth[^c-366d42bec173304bc4a00b118d655141] court to revoke it.
 
 (2) If it appears to the court to which an application under sub-paragraph (1) is made to be in the interests of justice to do so, having regard to circumstances which have arisen since the detention order was made, the court may grant the application and revoke the order accordingly.
 
 (3) The circumstances referred to in sub-paragraph (2) include the conduct of the defaulter.
 
-(4) If an application made under sub-paragraph (1) in relation to a detention order is dismissed, no further such application may be made in relation to the order by any person without the consent of a youth[^key-dab03ea4fd3f77d9f98fed4de6937598] court.
+(4) If an application made under sub-paragraph (1) in relation to a detention order is dismissed, no further such application may be made in relation to the order by any person without the consent of a youth[^c-dab03ea4fd3f77d9f98fed4de6937598] court.
 
 (5) Before making an application under sub-paragraph (1) the injunction applicant must consult—
 
@@ -375,48 +375,48 @@ the injunction applicant must forthwith give a copy of the revoking order, or of
 
 ## Annotations
 
-[^key-3d76d5551e35a995ca3273a97442b900]: Textual amendment: Sch. 5A inserted (E.W.) (9.1.2012) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17) , [ss. 39(3)](https://www.legislation.gov.uk/ukpga/2010/17/section/39/3) , [59(1)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/1) ; [S.I. 2011/3016](https://www.legislation.gov.uk/uksi/2011/3016) , [art. 2(d)](https://www.legislation.gov.uk/uksi/2011/3016/article/2/d)
+[^c-3d76d5551e35a995ca3273a97442b900]: Textual amendment: Sch. 5A inserted (E.W.) (9.1.2012) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17) , [ss. 39(3)](https://www.legislation.gov.uk/ukpga/2010/17/section/39/3) , [59(1)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/1) ; [S.I. 2011/3016](https://www.legislation.gov.uk/uksi/2011/3016) , [art. 2(d)](https://www.legislation.gov.uk/uksi/2011/3016/article/2/d)
 
-[^key-22fcba2c191ff6897376a3c2934abeda]: Textual amendment: Words in Sch. 5A para. 1(1)(a) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) , [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2) , [Sch. 12 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/7/2/a) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6) ); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813) , [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
+[^c-22fcba2c191ff6897376a3c2934abeda]: Textual amendment: Words in Sch. 5A para. 1(1)(a) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) , [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2) , [Sch. 12 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/7/2/a) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6) ); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813) , [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
 
-[^key-122f6ca7623c8c8c211b3a491e5aa0d7]: Textual amendment: Sch. 5A para. 1(1)(aa) inserted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) , [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2) , [Sch. 12 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/7/2/b) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6) ); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813) , [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
+[^c-122f6ca7623c8c8c211b3a491e5aa0d7]: Textual amendment: Sch. 5A para. 1(1)(aa) inserted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) , [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2) , [Sch. 12 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/7/2/b) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6) ); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813) , [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
 
-[^key-da8826b33d52150014872d717556e3b2]: Textual amendment: Words in Sch. 5A para. 1(1)(b) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) , [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2) , [Sch. 12 para. 7(2)(c)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/7/2/c) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6) ); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813) , [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
+[^c-da8826b33d52150014872d717556e3b2]: Textual amendment: Words in Sch. 5A para. 1(1)(b) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) , [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2) , [Sch. 12 para. 7(2)(c)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/7/2/c) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6) ); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813) , [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
 
-[^key-289850c2c1361f369720a8ce2ad78d36]: Textual amendment: Words in Sch. 5A para. 1(1) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) , [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2) , [Sch. 12 para. 7(2)(d)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/7/2/d) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6) ); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813) , [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
+[^c-289850c2c1361f369720a8ce2ad78d36]: Textual amendment: Words in Sch. 5A para. 1(1) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) , [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2) , [Sch. 12 para. 7(2)(d)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/7/2/d) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6) ); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813) , [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
 
-[^key-c6cd1b46eb3fabe48a3b7a604f238524]: Textual amendment: Sch. 5A para. 1(3) omitted (1.6.2015) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) , [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2) , [Sch. 12 para. 7(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/7/3) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6) ); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813) , [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
+[^c-c6cd1b46eb3fabe48a3b7a604f238524]: Textual amendment: Sch. 5A para. 1(3) omitted (1.6.2015) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) , [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2) , [Sch. 12 para. 7(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/7/3) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6) ); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813) , [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
 
-[^key-3b63efdb68832144906fcc9780707e72]: Textual amendment: Definition in Sch. 5A para. 1(9) omitted (1.6.2015) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) , [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2) , [Sch. 12 para. 7(4)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/7/4) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6) ); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813) , [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
+[^c-3b63efdb68832144906fcc9780707e72]: Textual amendment: Definition in Sch. 5A para. 1(9) omitted (1.6.2015) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) , [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2) , [Sch. 12 para. 7(4)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/7/4) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6) ); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813) , [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
 
-[^key-0b9db9fbaf8e330ed8c3b23d20ac2b3f]: Textual amendment: Words in Sch. 5A para. 4(11) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) , [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2) , [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/8) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6) ); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813) , [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
+[^c-0b9db9fbaf8e330ed8c3b23d20ac2b3f]: Textual amendment: Words in Sch. 5A para. 4(11) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) , [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2) , [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/8) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6) ); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813) , [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
 
-[^key-2840bc798085ab626ec83ae97231fa72]: Textual amendment: Words in Sch. 5A para. 4(15)(b) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413) , [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1) , [272](https://www.legislation.gov.uk/wsi/2016/413/regulation/272)
+[^c-2840bc798085ab626ec83ae97231fa72]: Textual amendment: Words in Sch. 5A para. 4(15)(b) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413) , [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1) , [272](https://www.legislation.gov.uk/wsi/2016/413/regulation/272)
 
-[^key-73fa59bc1a4f4e0a00df7a5dd948f5f2]: Textual amendment: Words in [Sch. 5A para. 5(5)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/5A/paragraph/5/5) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/9) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
+[^c-73fa59bc1a4f4e0a00df7a5dd948f5f2]: Textual amendment: Words in [Sch. 5A para. 5(5)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/5A/paragraph/5/5) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/9) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
 
-[^key-d0aeb556723be1f0fb9419ccfbe43e6f]: Textual amendment: Words in [Sch. 5A para. 6(7)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/5A/paragraph/6/7) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/10) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
+[^c-d0aeb556723be1f0fb9419ccfbe43e6f]: Textual amendment: Words in [Sch. 5A para. 6(7)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/5A/paragraph/6/7) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/10) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
 
-[^key-d722f4584700d6839d6cdcd4ab744011]: Textual amendment: Words in [Sch. 5A para. 8(1)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/5A/paragraph/8/1) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 12 para. 11(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/11/a) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
+[^c-d722f4584700d6839d6cdcd4ab744011]: Textual amendment: Words in [Sch. 5A para. 8(1)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/5A/paragraph/8/1) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 12 para. 11(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/11/a) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
 
-[^key-6597a8b7fe92ba5632614c56b071eb0b]: Textual amendment: Words in [Sch. 5A para. 8(2)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/5A/paragraph/8/2) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 12 para. 11(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/11/b) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
+[^c-6597a8b7fe92ba5632614c56b071eb0b]: Textual amendment: Words in [Sch. 5A para. 8(2)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/5A/paragraph/8/2) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 12 para. 11(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/11/b) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
 
-[^key-486d915ca716254d872b92493b97ea0a]: Textual amendment: Words in [Sch. 5A para. 9(1)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/5A/paragraph/9/1) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/12) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
+[^c-486d915ca716254d872b92493b97ea0a]: Textual amendment: Words in [Sch. 5A para. 9(1)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/5A/paragraph/9/1) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/12) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
 
-[^key-93afc6a05761c8dc2c00342ea41944d4]: Textual amendment: Words in [Sch. 5A para. 10(1)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/5A/paragraph/10/1) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/13) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
+[^c-93afc6a05761c8dc2c00342ea41944d4]: Textual amendment: Words in [Sch. 5A para. 10(1)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/5A/paragraph/10/1) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/13) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
 
-[^key-4fa184ec22717657e8ac62abb914fa90]: Textual amendment: Words in [Sch. 5A para. 10(4)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/5A/paragraph/10/4) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/13) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
+[^c-4fa184ec22717657e8ac62abb914fa90]: Textual amendment: Words in [Sch. 5A para. 10(4)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/5A/paragraph/10/4) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/13) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
 
-[^key-30f2d3cc7f72875321acfdb1786a897a]: Textual amendment: Words in [Sch. 5A para. 12(2)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/5A/paragraph/12/2) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 12 para. 14(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/14/a) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
+[^c-30f2d3cc7f72875321acfdb1786a897a]: Textual amendment: Words in [Sch. 5A para. 12(2)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/5A/paragraph/12/2) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 12 para. 14(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/14/a) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
 
-[^key-bb0c1ed9562bdb2671d3a3d018b8770c]: Textual amendment: [Sch. 5A para. 12(5)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/5A/paragraph/12/5) omitted (1.6.2015) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 12 para. 14(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/14/b) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
+[^c-bb0c1ed9562bdb2671d3a3d018b8770c]: Textual amendment: [Sch. 5A para. 12(5)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/5A/paragraph/12/5) omitted (1.6.2015) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 12 para. 14(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/14/b) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
 
-[^key-21acc451217b1518e95654ae71345b46]: Textual amendment: [Sch. 5A para. 12(6)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/5A/paragraph/12/6) omitted (1.6.2015) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 12 para. 14(c)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/14/c) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
+[^c-21acc451217b1518e95654ae71345b46]: Textual amendment: [Sch. 5A para. 12(6)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/5A/paragraph/12/6) omitted (1.6.2015) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 12 para. 14(c)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/14/c) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
 
-[^key-b81aeb70055ac6735f1533261f5256ea]: Textual amendment: [Sch. 5A para. 14(3)(aa)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/5A/paragraph/14/3/aa) inserted (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 9 para. 27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/9/paragraph/27); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/c)
+[^c-b81aeb70055ac6735f1533261f5256ea]: Textual amendment: [Sch. 5A para. 14(3)(aa)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/5A/paragraph/14/3/aa) inserted (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 9 para. 27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/9/paragraph/27); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/c)
 
-[^key-fbd37cdd25f69a3363b893528fe9266b]: Textual amendment: Sch. 5A para. 14(3)(c) substituted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 12 para. 58](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/58); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/3))
+[^c-fbd37cdd25f69a3363b893528fe9266b]: Textual amendment: Sch. 5A para. 14(3)(c) substituted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 12 para. 58](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/58); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/3))
 
-[^key-366d42bec173304bc4a00b118d655141]: Textual amendment: Words in [Sch. 5A para. 15(1)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/5A/paragraph/15/1) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 12 para. 15](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/15) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
+[^c-366d42bec173304bc4a00b118d655141]: Textual amendment: Words in [Sch. 5A para. 15(1)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/5A/paragraph/15/1) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 12 para. 15](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/15) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
 
-[^key-dab03ea4fd3f77d9f98fed4de6937598]: Textual amendment: Words in [Sch. 5A para. 15(4)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/5A/paragraph/15/4) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 12 para. 15](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/15) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
+[^c-dab03ea4fd3f77d9f98fed4de6937598]: Textual amendment: Words in [Sch. 5A para. 15(4)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/5A/paragraph/15/4) substituted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 12 para. 15](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/15) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)

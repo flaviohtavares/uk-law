@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1010. Application of Income Tax Acts to recognised investment exchanges[^key-e0e258464cc550f264146d718d55bdb6]
+## 1010. Application of Income Tax Acts to recognised investment exchanges[^c-e0e258464cc550f264146d718d55bdb6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0e258464cc550f264146d718d55bdb6]: Textual amendment: S. 1010 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 26 para. 12(13)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/12/13), [Sch. 27 Pt. 6(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/6/5)
+[^c-e0e258464cc550f264146d718d55bdb6]: Textual amendment: S. 1010 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 26 para. 12(13)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/12/13), [Sch. 27 Pt. 6(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/6/5)

@@ -33,8 +33,8 @@ summary: ''
 - (a) ignoring section 527 (exemption from charges under provisions to which section 1016 applies), it would have been charged to income tax under or by virtue of any provision to which section 1016 applies, and
 - (b) the trustees of the charitable trust would have been liable for any tax so chargeable.
 
-(4)[^key-29ae01eb2413f3987c6b19991e317edd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-29ae01eb2413f3987c6b19991e317edd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-29ae01eb2413f3987c6b19991e317edd]: Textual amendment: [S. 544(4)](https://www.legislation.gov.uk/ukpga/2007/3/section/544/4) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 56](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/56), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
+[^c-29ae01eb2413f3987c6b19991e317edd]: Textual amendment: [S. 544(4)](https://www.legislation.gov.uk/ukpga/2007/3/section/544/4) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 56](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/56), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)

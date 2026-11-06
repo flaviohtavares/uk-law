@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Apportionment of income etc.[^key-e5f853fba51d27f50d5d0f52d406c973]
+## 41. Apportionment of income etc.[^c-e5f853fba51d27f50d5d0f52d406c973]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5f853fba51d27f50d5d0f52d406c973]: Textual amendment: [S. 41](https://www.legislation.gov.uk/ukpga/1990/29/section/41) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(b)(i)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/b/i)
+[^c-e5f853fba51d27f50d5d0f52d406c973]: Textual amendment: [S. 41](https://www.legislation.gov.uk/ukpga/1990/29/section/41) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(b)(i)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/b/i)

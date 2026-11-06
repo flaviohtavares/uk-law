@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Amendment of article 13A[^key-2721b7e5414fba693373ec235ee01601]
+## 148. Amendment of article 13A[^c-2721b7e5414fba693373ec235ee01601]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2721b7e5414fba693373ec235ee01601]: Commencement: Reg. 148 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-2721b7e5414fba693373ec235ee01601]: Commencement: Reg. 148 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00101]: Footnote: Article 13A was inserted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).

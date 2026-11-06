@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Regulations relating to protecting and improving the environment: consultation[^key-8d25773337427820b47e6409dc09b2b0]
+## 19. Regulations relating to protecting and improving the environment: consultation[^c-8d25773337427820b47e6409dc09b2b0]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d25773337427820b47e6409dc09b2b0]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2014/3/section/19) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-8d25773337427820b47e6409dc09b2b0]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2014/3/section/19) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

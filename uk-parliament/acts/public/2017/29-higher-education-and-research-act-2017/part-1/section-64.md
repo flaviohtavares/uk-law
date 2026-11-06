@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Duty to compile and make available higher education information[^key-b7fa71a0ed92718c6f4a5eb9bbaac9ef][^key-b85c1b7e2840cb53745608eb6dcf538c]
+## 64. Duty to compile and make available higher education information[^c-b7fa71a0ed92718c6f4a5eb9bbaac9ef][^c-b85c1b7e2840cb53745608eb6dcf538c]
 
 *Extent: E+W*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b7fa71a0ed92718c6f4a5eb9bbaac9ef]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2017/29/section/64) in force at 1.1.2018 for specified purposes by [S.I. 2017/1146](https://www.legislation.gov.uk/uksi/2017/1146), [reg. 3(8)(a)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/3/8/a)
+[^c-b7fa71a0ed92718c6f4a5eb9bbaac9ef]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2017/29/section/64) in force at 1.1.2018 for specified purposes by [S.I. 2017/1146](https://www.legislation.gov.uk/uksi/2017/1146), [reg. 3(8)(a)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/3/8/a)
 
-[^key-b85c1b7e2840cb53745608eb6dcf538c]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2017/29/section/64) in force at 1.4.2018 in so far as not already in force by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/h) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 20)
+[^c-b85c1b7e2840cb53745608eb6dcf538c]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2017/29/section/64) in force at 1.4.2018 in so far as not already in force by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/h) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 20)

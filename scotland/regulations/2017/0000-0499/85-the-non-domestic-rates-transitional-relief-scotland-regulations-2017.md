@@ -44,7 +44,7 @@ Coming into force
 
 1st April 2017
 
-The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 153 of the Local Government etc. (Scotland) Act 1994 [^c23249181] and all other powers enabling them to do so.[^key-7427344dd1959c90efee16cdcc855550][^key-130b3cdb2ac2f3cb72fd7289d05cd864]
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 153 of the Local Government etc. (Scotland) Act 1994 [^c23249181] and all other powers enabling them to do so.[^c-7427344dd1959c90efee16cdcc855550][^c-130b3cdb2ac2f3cb72fd7289d05cd864]
 
 ## PART 1 — Introductory
 
@@ -63,7 +63,7 @@ In these Regulations—
 - “**the 1992 Act**” means the Local Government Finance Act 1992 [^c23249231];
 - “**the 1997 Act**” means the Local Government and Rating Act 1997 [^c23249241];
 - “**the 2016 Regulations**” means the Non-Domestic Rates (Levying) (Scotland) Regulations 2016 [^c23249251];
-- “[^key-a83edc1f4a9f8c4d56329bd517c77e02]**the 2022 Regulations**” means the Non-Domestic Rates (Levying and Miscellaneous Amendments) (Scotland) Regulations 2022,
+- “[^c-a83edc1f4a9f8c4d56329bd517c77e02]**the 2022 Regulations**” means the Non-Domestic Rates (Levying and Miscellaneous Amendments) (Scotland) Regulations 2022,
 - “**new entry**”, in relation to a split, merged or reorganised entry, means an entry in the roll taking effect from the day on which the merged, split or reorganised entry takes effect;
 - “**old entry**”, in relation to a merged, split or reorganised entry, means an entry in the roll for the day immediately prior to the day from which the merged, split or reorganised entry takes effect;
 - “**part residential subjects**” has the meaning assigned to it in section 99(1) of the 1992 Act;
@@ -73,14 +73,14 @@ In these Regulations—
 
   and includes a rateable value so entered with retrospective effect;
 - “**rates**” means non-domestic rates levied under section 7B of the 1975 Act [^c23249271];
-- “[^key-2e7b5c3970d2d316bd04e6ebbf458afd]**relevant lands and heritages**” means any lands and heritages which—
+- “[^c-2e7b5c3970d2d316bd04e6ebbf458afd]**relevant lands and heritages**” means any lands and heritages which—
   - (a) are used wholly or mainly for a purpose specified as Class 12 in the schedule; or
   - (b)
     - (i) are used wholly or mainly for a purpose specified as any one of Class 1 to 8, 10 or 11 in the schedule; and
     - (ii) have a rateable value no greater than £1,500,000,
 
-  and were so used as at 31st March 2017 or, if unoccupied on that date, were so used when last occupied prior to 31st March 2017 , but if lands and heritages receive relief under[^key-2022d2c8315031b0b266f67dd36470d2] regulation 4 (retail, hospitality and leisure relief) or 5 (airport relief) of the Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2021[^key-dc9e1d8bd2ca1d302df2dbd6e63b6b80] in respect of any day they are not “relevant lands and heritages” for the purposes of these Regulations on that day;
-- “**the relevant year**” means the period of 12 months beginning with 1st April 2022[^key-77a3fb62d030ee6e3d2fe063a34fe1e1]; and
+  and were so used as at 31st March 2017 or, if unoccupied on that date, were so used when last occupied prior to 31st March 2017 , but if lands and heritages receive relief under[^c-2022d2c8315031b0b266f67dd36470d2] regulation 4 (retail, hospitality and leisure relief) or 5 (airport relief) of the Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2021[^c-dc9e1d8bd2ca1d302df2dbd6e63b6b80] in respect of any day they are not “relevant lands and heritages” for the purposes of these Regulations on that day;
+- “**the relevant year**” means the period of 12 months beginning with 1st April 2022[^c-77a3fb62d030ee6e3d2fe063a34fe1e1]; and
 - “**the roll**” means a valuation roll made up under section 1 of the 1975 Act [^c23249281].
 
 ### 3. Interpretation – mergers
@@ -123,8 +123,8 @@ In these Regulations—
 
 (2) This Part does not apply to lands and heritages shown in an entry in the roll on 1st April 2017 if—
 
-- (a) that entry shows a nil rateable value; [^key-71a5825fc1a2c0d06b24682bcc9d9d98]...
-- (b) the only lands and heritages shown in that entry which were to any extent shown in the roll on 31st March 2017 then have a nil rateable value ; or[^key-5d9bf11c725ee69499423eae7091bf17]
+- (a) that entry shows a nil rateable value; [^c-71a5825fc1a2c0d06b24682bcc9d9d98]...
+- (b) the only lands and heritages shown in that entry which were to any extent shown in the roll on 31st March 2017 then have a nil rateable value ; or[^c-5d9bf11c725ee69499423eae7091bf17]
 - (c) the lands and heritages are shown in a split entry or reorganised entry.
 
 (3) This Part ceases, as from the date of any merged, split or reorganised entry taking effect subsequent to 1st April 2017, to apply to the lands and heritages shown in that entry.
@@ -135,7 +135,7 @@ Where the notional liability in respect of any lands and heritages to which this
 
 ### 8. Notional liability
 
-The notional liability in respect of any lands and heritages to which this Part applies and any day is to be calculated in accordance with the formula—[^key-a508f7f1380dbc8f98d89698d4ed7541]
+The notional liability in respect of any lands and heritages to which this Part applies and any day is to be calculated in accordance with the formula—[^c-a508f7f1380dbc8f98d89698d4ed7541]
 
 [formula: see source](https://www.legislation.gov.uk/ssi/2017/85)
 
@@ -143,20 +143,20 @@ where—
 
 RV is the rateable value for those lands and heritages on that day; and
 
-PF is the poundage figure of—[^key-7cb20ec308ecd0384e6ed0781e35b0b3]
+PF is the poundage figure of—[^c-7cb20ec308ecd0384e6ed0781e35b0b3]
 
-- (i) 0.524[^key-b75d7b86e814ffc0f424af4021024a32] where the lands and heritages have a rateable value exceeding £95,000,
-- (ii) 0.511[^key-c750d944022a01698d9a5104e0953294] where the lands and heritages have a rateable value exceeding £51,000, but not exceeding £95,000, or
-- (iii) 0.498[^key-8e7b614a5a8f0282853aabaea4d0f031] in any other case.
+- (i) 0.524[^c-b75d7b86e814ffc0f424af4021024a32] where the lands and heritages have a rateable value exceeding £95,000,
+- (ii) 0.511[^c-c750d944022a01698d9a5104e0953294] where the lands and heritages have a rateable value exceeding £51,000, but not exceeding £95,000, or
+- (iii) 0.498[^c-8e7b614a5a8f0282853aabaea4d0f031] in any other case.
 
-### 9. Transitional limit[^key-90b472e7b78759b71ce4d8f1d73924db]
+### 9. Transitional limit[^c-90b472e7b78759b71ce4d8f1d73924db]
 
 (1) Subject to paragraph (3) and regulation 11, in respect of lands and heritages to which this Part applies and any day—
 
-- (a) where the rateable value for that day exceeds the rateable value on 1st April 2017, the transitional limit is calculated in accordance with the formula—[^key-f4edf6c09ca4e67b9de0a50956d780d8][^key-7a1250cc9fa8e70141603681514392b6]
+- (a) where the rateable value for that day exceeds the rateable value on 1st April 2017, the transitional limit is calculated in accordance with the formula—[^c-f4edf6c09ca4e67b9de0a50956d780d8][^c-7a1250cc9fa8e70141603681514392b6]
 
   [formula: see source](https://www.legislation.gov.uk/ssi/2017/85)
-- (b) in any other case, the transitional limit is calculated in accordance with the formula—[^key-f4edf6c09ca4e67b9de0a50956d780d8][^key-7a1250cc9fa8e70141603681514392b6]
+- (b) in any other case, the transitional limit is calculated in accordance with the formula—[^c-f4edf6c09ca4e67b9de0a50956d780d8][^c-7a1250cc9fa8e70141603681514392b6]
 
   [formula: see source](https://www.legislation.gov.uk/ssi/2017/85)
 
@@ -165,18 +165,18 @@ PF is the poundage figure of—[^key-7cb20ec308ecd0384e6ed0781e35b0b3]
 - BL is the base liability of the lands and heritages, ascertained in accordance with regulation 10;
 - CRV is the rateable value of the lands and heritages;
 - RV is the rateable value of the lands and heritages on 1st April 2017; and
-- PF is the poundage figure of—[^key-eee43c5b26515e21ae10ef20fc7d4d1d]
-  - (i) 0.524[^key-6065d287d10120fd7b73974a4163ec04] where the lands and heritages have a rateable value exceeding £95,000,
-  - (ii) 0.511[^key-0e0a1f6404de909309e503074449d833] where the lands and heritages have a rateable value exceeding £51,000, but not exceeding £95,000, or
-  - (iii) 0.498[^key-5afa0bcc661b509a7184fe59986d977e] in any other case.
+- PF is the poundage figure of—[^c-eee43c5b26515e21ae10ef20fc7d4d1d]
+  - (i) 0.524[^c-6065d287d10120fd7b73974a4163ec04] where the lands and heritages have a rateable value exceeding £95,000,
+  - (ii) 0.511[^c-0e0a1f6404de909309e503074449d833] where the lands and heritages have a rateable value exceeding £51,000, but not exceeding £95,000, or
+  - (iii) 0.498[^c-5afa0bcc661b509a7184fe59986d977e] in any other case.
 
-(3)[^key-54db36c944c7ff37bbe9471ae2067076] Where regulation 10 of the Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Regulations 2019 grants relief, the transitional limit is calculated in accordance with paragraph (5) of that regulation.
+(3)[^c-54db36c944c7ff37bbe9471ae2067076] Where regulation 10 of the Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Regulations 2019 grants relief, the transitional limit is calculated in accordance with paragraph (5) of that regulation.
 
 ### 10. Base liability
 
 (1) The base liability in respect of any lands and heritages is—
 
-- (a) in the case of lands and heritages shown in a split or reorganised entry taking effect on 1st April 2017, to be calculated in accordance with the formula—[^key-d8fdd7925118a83bd442d48c1780c372]
+- (a) in the case of lands and heritages shown in a split or reorganised entry taking effect on 1st April 2017, to be calculated in accordance with the formula—[^c-d8fdd7925118a83bd442d48c1780c372]
 
   [formula: see source](https://www.legislation.gov.uk/ssi/2017/85)
 
@@ -187,9 +187,9 @@ PF is the poundage figure of—[^key-7cb20ec308ecd0384e6ed0781e35b0b3]
 
 (2) In paragraph (1)(b), the “deemed amount” in respect of any lands and heritages is the amount which would have been payable as rates in respect of those lands and heritages for the year ending 31st March 2017, had that amount been calculated on the basis of the rateable value of those lands and heritages on that date, including any additional amount of rates payable in terms of regulation 4 of the 2016 Regulations, but before applying any reliefs
 
-### 11. Changes in rateable value after 1st April 2022[^key-c14d50e60c5e6def768b29e63cc5d371]
+### 11. Changes in rateable value after 1st April 2022[^c-c14d50e60c5e6def768b29e63cc5d371]
 
-(1) Where, subsequent to 1st April 2022[^key-ad732119635c51ae66eaab45e727fad9], the rateable value of lands and heritages to which this Part applies is increased with effect from a day in the relevant year (the “effective day”), the transitional limit in respect of those lands and heritages is, as regards days in that year on and after that effective day, to be calculated in accordance with the formula—[^key-e8f0644f5aa7c84dc4d05920400d79d6]
+(1) Where, subsequent to 1st April 2022[^c-ad732119635c51ae66eaab45e727fad9], the rateable value of lands and heritages to which this Part applies is increased with effect from a day in the relevant year (the “effective day”), the transitional limit in respect of those lands and heritages is, as regards days in that year on and after that effective day, to be calculated in accordance with the formula—[^c-e8f0644f5aa7c84dc4d05920400d79d6]
 
 [formula: see source](https://www.legislation.gov.uk/ssi/2017/85)
 
@@ -201,13 +201,13 @@ IRV is the increased rateable value of those lands and heritages;
 
 RV is their rateable value immediately prior to the effective day; and
 
-PF is the poundage figure of—[^key-73b920ada467403c32454acb6ea2a796]
+PF is the poundage figure of—[^c-73b920ada467403c32454acb6ea2a796]
 
-- (i) 0.524[^key-7047fea130c12d103cbb10dea012ac33] where the lands and heritages have a rateable value exceeding £95,000,
-- (ii) 0.511[^key-8058322e975e33b4aa74f98eef8c7367] where the lands and heritages have a rateable value exceeding £51,000, but not exceeding £95,000, or
-- (iii) 0.498[^key-fac0adb053bbae40e1f8d86a64fad703] in any other case.
+- (i) 0.524[^c-7047fea130c12d103cbb10dea012ac33] where the lands and heritages have a rateable value exceeding £95,000,
+- (ii) 0.511[^c-8058322e975e33b4aa74f98eef8c7367] where the lands and heritages have a rateable value exceeding £51,000, but not exceeding £95,000, or
+- (iii) 0.498[^c-fac0adb053bbae40e1f8d86a64fad703] in any other case.
 
-(2) Where the rateable value of lands and heritages to which this Part applies is reduced with effect from a day in the relevant year subsequent to 1st April 2022[^key-1869f8e32d787ea74de63ac5b0ed0ad9], as a result of—
+(2) Where the rateable value of lands and heritages to which this Part applies is reduced with effect from a day in the relevant year subsequent to 1st April 2022[^c-1869f8e32d787ea74de63ac5b0ed0ad9], as a result of—
 
 - (a) a material change of circumstances (within the meaning of section 37(1) of the 1975 Act [^c23249291]); or
 - (b) the assessor amending or adding an apportionment note under paragraph 2 of schedule 5 of the 1992 Act,
@@ -222,7 +222,7 @@ TL and RV have the same meanings as in paragraph (1); and
 
 RRV is the reduced rateable value of those lands and heritages.
 
-(3)[^key-901d450f5bbbc2096c14240929ff06ab] Where regulation 9(3) applies, this regulation does not apply.
+(3)[^c-901d450f5bbbc2096c14240929ff06ab] Where regulation 9(3) applies, this regulation does not apply.
 
 ## PART 3 — Reductions, remissions and exemptions
 
@@ -235,17 +235,17 @@ RRV is the reduced rateable value of those lands and heritages.
   - (ii) section 24(3) of the 1966 Act [^c23249311];
   - (iii) section 4 or 5 of the 1978 Act [^c23249321];
   - (iv) paragraph 3 of schedule 2 of the 1997 Act [^c23249331];
-  - (v) regulation 3 of the 2022[^key-7837854c4c98cbc3268c168d454fc5af] Regulations;
-  - (vi)[^key-0a4dcc21bac181e52e04f11a18ca2a4e] regulation 4(1), 6(1) or 11(1) of the Non-Domestic Rates (Relief for New and Improved Properties)(Scotland) Regulations 2022,
-  - (vii)[^key-5026991971889f8710f3ebb416317ae1] regulation 4 of the Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2022
+  - (v) regulation 3 of the 2022[^c-7837854c4c98cbc3268c168d454fc5af] Regulations;
+  - (vi)[^c-0a4dcc21bac181e52e04f11a18ca2a4e] regulation 4(1), 6(1) or 11(1) of the Non-Domestic Rates (Relief for New and Improved Properties)(Scotland) Regulations 2022,
+  - (vii)[^c-5026991971889f8710f3ebb416317ae1] regulation 4 of the Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2022
 - (b) regulation 7 has effect as regards those lands and heritages and that day; and
 - (c) regulation 14 does not have effect as regards those lands and heritages and that day.
 
 (2) The amount payable is to be determined by applying the enactments referred to in paragraph (1)(a) to the amount determined under regulation 7 in the same manner as those enactments are applied to the full amount payable as rates in a case where the only relief applicable is relief under those enactments.
 
-(3)[^key-01c5c401b55e298fa4e08051f46b5842] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-01c5c401b55e298fa4e08051f46b5842] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Former full relief properties[^key-98c8cc40e3e53a86b4e1c4dc0fc1febb]
+### 13. Former full relief properties[^c-98c8cc40e3e53a86b4e1c4dc0fc1febb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -256,7 +256,7 @@ RRV is the reduced rateable value of those lands and heritages.
 - (a) on that day those lands and heritages are subject to an apportionment under section 24A of the 1966 Act [^c23249341]; and
 - (b) regulation 7 has effect as regards those lands and heritages and that day.
 
-(2) The amount payable is, subject to paragraph (3)[^key-64985ea701f7a4df0f5c4e7c741f1722], to be calculated in accordance with the formula—
+(2) The amount payable is, subject to paragraph (3)[^c-64985ea701f7a4df0f5c4e7c741f1722], to be calculated in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/ssi/2017/85)
 
@@ -275,7 +275,7 @@ RV is the rateable value shown in the roll for those lands and heritages.
 
 the amount payable is to be determined in accordance with paragraph (2) of regulation 12, but as if for the words “regulation 7” in that paragraph there were substituted the words “ regulation 14(2) ”.
 
-(4)[^key-08af3baebc9438036732023870b4f16a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-08af3baebc9438036732023870b4f16a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 15. Exemptions and discretionary reductions and remissions
 
@@ -284,7 +284,7 @@ Nothing in these Regulations—
 - (a) requires rates to be paid in respect of lands and heritages and a day where those lands and heritages are under any enactment entirely exempt from rates for that day; or
 - (b) prejudices the power of a rating authority to grant a reduction or remission of rates under section 3A or 4(5) of the 1962 Act [^c23249351], section 25A of the 1966 Act [^c23249361] or paragraph 4 of schedule 2 of the 1997 Act [^c23249371].
 
-### 16. Relief-further provision[^key-434f46c763ff013c7c55f91e1ae3a58e]
+### 16. Relief-further provision[^c-434f46c763ff013c7c55f91e1ae3a58e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -295,9 +295,9 @@ Nothing in these Regulations—
 (1) An application for relief must be signed by the ratepayer or a person authorised to sign on behalf of the ratepayer, and—
 
 - (a) “person authorised to sign on behalf of the ratepayer “means, where the ratepayer is—
-  - (i) a partnership, a partner of that partnership or any other person authorised by it[^key-8fd2a9eb92c7d961b60025923de7df16];
-  - (ii) a trust, a trustee of that trust or any other person authorised by it[^key-6ed93dfd38faddbbddffd0d25cc51991];
-  - (iii) a body corporate, a director of that body or any other person authorised by it[^key-33d0aa96c472d89ab1e3a951c5854ac2]; and
+  - (i) a partnership, a partner of that partnership or any other person authorised by it[^c-8fd2a9eb92c7d961b60025923de7df16];
+  - (ii) a trust, a trustee of that trust or any other person authorised by it[^c-6ed93dfd38faddbbddffd0d25cc51991];
+  - (iii) a body corporate, a director of that body or any other person authorised by it[^c-33d0aa96c472d89ab1e3a951c5854ac2]; and
 - (b) “sign” or ”signed” in relation to an application made by electronic communication means an electronic signature, as defined in section 7(2) of the Electronic Communications Act 2000 [^c23249391].
 
 (2) An application under paragraph (1) must be made to the local authority by—
@@ -305,7 +305,7 @@ Nothing in these Regulations—
 - (a) addressing it to the authority; and
 - (b) delivering it or sending it to the authority's office by post or electronic communication.
 
-### 18. Amendment of the Non-Domestic Rates (Levying) (Scotland) Regulations 2017[^key-0d6cd6ef8ef397d0e881d0c48a1ce512]
+### 18. Amendment of the Non-Domestic Rates (Levying) (Scotland) Regulations 2017[^c-0d6cd6ef8ef397d0e881d0c48a1ce512]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -359,7 +359,7 @@ Use for the sale of food or refreshments to members of the public for consumptio
 
 **Class 9 Renewable energy generation**
 
-[^key-5ac4236a602bd011b66378470c869d45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5ac4236a602bd011b66378470c869d45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Class 10 Self-catering holiday accommodation**
 
@@ -396,9 +396,9 @@ Regulation 17 provides that an application must be made to obtain the relief.
 
 [^c23249181]: Marginal citation: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39); section 153 was amended by section 67 of the [Climate Change (Scotland) Act 2009 (asp 12)](https://www.legislation.gov.uk/asp/2009/12). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-7427344dd1959c90efee16cdcc855550]: Modification: Regulations restricted (with application to the financial year beginning 1.4.2021 and each subsequent financial year) by [The Non-Domestic Rates (Restriction of Relief) (Scotland) Regulations 2021 (S.S.I. 2021/145)](https://www.legislation.gov.uk/ssi/2021/145), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/145/regulation/1), [3](https://www.legislation.gov.uk/ssi/2021/145/regulation/3)
+[^c-7427344dd1959c90efee16cdcc855550]: Modification: Regulations restricted (with application to the financial year beginning 1.4.2021 and each subsequent financial year) by [The Non-Domestic Rates (Restriction of Relief) (Scotland) Regulations 2021 (S.S.I. 2021/145)](https://www.legislation.gov.uk/ssi/2021/145), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/145/regulation/1), [3](https://www.legislation.gov.uk/ssi/2021/145/regulation/3)
 
-[^key-130b3cdb2ac2f3cb72fd7289d05cd864]: Modification: Regulations restricted (with application to the financial year beginning 1.4.2023 and each subsequent financial year) by [The Non-Domestic Rates (Restriction of Relief) (Scotland) Regulations 2023 (S.S.I. 2023/28)](https://www.legislation.gov.uk/ssi/2023/28), [regs. 1](https://www.legislation.gov.uk/ssi/2023/28/regulation/1), [3](https://www.legislation.gov.uk/ssi/2023/28/regulation/3)
+[^c-130b3cdb2ac2f3cb72fd7289d05cd864]: Modification: Regulations restricted (with application to the financial year beginning 1.4.2023 and each subsequent financial year) by [The Non-Domestic Rates (Restriction of Relief) (Scotland) Regulations 2023 (S.S.I. 2023/28)](https://www.legislation.gov.uk/ssi/2023/28), [regs. 1](https://www.legislation.gov.uk/ssi/2023/28/regulation/1), [3](https://www.legislation.gov.uk/ssi/2023/28/regulation/3)
 
 [^c23249191]: Marginal citation: [1962 c.9](https://www.legislation.gov.uk/ukpga/1962/9).
 
@@ -414,71 +414,71 @@ Regulation 17 provides that an application must be made to obtain the relief.
 
 [^c23249251]: Marginal citation: [S.S.I. 2016/114](https://www.legislation.gov.uk/ssi/2016/114).
 
-[^key-a83edc1f4a9f8c4d56329bd517c77e02]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2017/85/regulation/2) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(2)(a)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/2/a)
+[^c-a83edc1f4a9f8c4d56329bd517c77e02]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2017/85/regulation/2) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(2)(a)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/2/a)
 
 [^c23249271]: Marginal citation: Section 7B was inserted by section 100(2) of the [Local Government Finance Act 1992 (c.14)](https://www.legislation.gov.uk/ukpga/1992/14) and was amended by paragraph 100(4) of schedule 13 of the [Local Government etc. (Scotland) Act 1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-2e7b5c3970d2d316bd04e6ebbf458afd]: Textual amendment: Words in reg. 2 substituted (1.4.2018) by [The Non-Domestic Rates (Transitional Relief) Amendment (Scotland) Regulations 2018 (S.S.I. 2018/76)](https://www.legislation.gov.uk/ssi/2018/76), [regs. 1](https://www.legislation.gov.uk/ssi/2018/76/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2018/76/regulation/2/2/b)
+[^c-2e7b5c3970d2d316bd04e6ebbf458afd]: Textual amendment: Words in reg. 2 substituted (1.4.2018) by [The Non-Domestic Rates (Transitional Relief) Amendment (Scotland) Regulations 2018 (S.S.I. 2018/76)](https://www.legislation.gov.uk/ssi/2018/76), [regs. 1](https://www.legislation.gov.uk/ssi/2018/76/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2018/76/regulation/2/2/b)
 
-[^key-2022d2c8315031b0b266f67dd36470d2]: Textual amendment: Words in reg. 2 inserted (31.3.2020) by [The Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2020 (S.S.I. 2020/101)](https://www.legislation.gov.uk/ssi/2020/101), [regs. 1](https://www.legislation.gov.uk/ssi/2020/101/regulation/1), [5(1)](https://www.legislation.gov.uk/ssi/2020/101/regulation/5/1)
+[^c-2022d2c8315031b0b266f67dd36470d2]: Textual amendment: Words in reg. 2 inserted (31.3.2020) by [The Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2020 (S.S.I. 2020/101)](https://www.legislation.gov.uk/ssi/2020/101), [regs. 1](https://www.legislation.gov.uk/ssi/2020/101/regulation/1), [5(1)](https://www.legislation.gov.uk/ssi/2020/101/regulation/5/1)
 
-[^key-dc9e1d8bd2ca1d302df2dbd6e63b6b80]: Textual amendment: Words in reg. 2 substituted (1.4.2021) by [The Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2021 (S.S.I. 2021/151)](https://www.legislation.gov.uk/ssi/2021/151), [regs. 1](https://www.legislation.gov.uk/ssi/2021/151/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2021/151/regulation/6/2)
+[^c-dc9e1d8bd2ca1d302df2dbd6e63b6b80]: Textual amendment: Words in reg. 2 substituted (1.4.2021) by [The Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2021 (S.S.I. 2021/151)](https://www.legislation.gov.uk/ssi/2021/151), [regs. 1](https://www.legislation.gov.uk/ssi/2021/151/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2021/151/regulation/6/2)
 
-[^key-77a3fb62d030ee6e3d2fe063a34fe1e1]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/ssi/2017/85/regulation/2) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(2)(b)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/2/b)
+[^c-77a3fb62d030ee6e3d2fe063a34fe1e1]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/ssi/2017/85/regulation/2) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(2)(b)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/2/b)
 
 [^c23249281]: Marginal citation: Section 1 was amended by section 34 and schedule 6 of the [Abolition of Domestic Rates etc. (Scotland) Act 1987 (c.47)](https://www.legislation.gov.uk/ukpga/1987/47), paragraph 1 of schedule 14 of the [Local Government etc. (Scotland) Act 1994](https://www.legislation.gov.uk/ukpga/1994/39) and paragraph 1 of schedule 4 of the [Local Government and Rating Act 1997 (c.29)](https://www.legislation.gov.uk/ukpga/1997/29).
 
-[^key-71a5825fc1a2c0d06b24682bcc9d9d98]: Textual amendment: Word in reg. 6(2)(a) omitted (1.4.2018) by virtue of [The Non-Domestic Rates (Transitional Relief) Amendment (Scotland) Regulations 2018 (S.S.I. 2018/76)](https://www.legislation.gov.uk/ssi/2018/76), [regs. 1](https://www.legislation.gov.uk/ssi/2018/76/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2018/76/regulation/2/3/a)
+[^c-71a5825fc1a2c0d06b24682bcc9d9d98]: Textual amendment: Word in reg. 6(2)(a) omitted (1.4.2018) by virtue of [The Non-Domestic Rates (Transitional Relief) Amendment (Scotland) Regulations 2018 (S.S.I. 2018/76)](https://www.legislation.gov.uk/ssi/2018/76), [regs. 1](https://www.legislation.gov.uk/ssi/2018/76/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2018/76/regulation/2/3/a)
 
-[^key-5d9bf11c725ee69499423eae7091bf17]: Textual amendment: Reg. 6(2)(c) and word inserted (1.4.2018) by [The Non-Domestic Rates (Transitional Relief) Amendment (Scotland) Regulations 2018 (S.S.I. 2018/76)](https://www.legislation.gov.uk/ssi/2018/76), [regs. 1](https://www.legislation.gov.uk/ssi/2018/76/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2018/76/regulation/2/3/b)
+[^c-5d9bf11c725ee69499423eae7091bf17]: Textual amendment: Reg. 6(2)(c) and word inserted (1.4.2018) by [The Non-Domestic Rates (Transitional Relief) Amendment (Scotland) Regulations 2018 (S.S.I. 2018/76)](https://www.legislation.gov.uk/ssi/2018/76), [regs. 1](https://www.legislation.gov.uk/ssi/2018/76/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2018/76/regulation/2/3/b)
 
-[^key-a508f7f1380dbc8f98d89698d4ed7541]: Textual amendment: Word "365" substituted for "366" in [reg. 8](https://www.legislation.gov.uk/ssi/2017/85/regulation/8) formula (1.4.2020) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/42)](https://www.legislation.gov.uk/ssi/2020/42), [regs. 1](https://www.legislation.gov.uk/ssi/2020/42/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2020/42/regulation/2/3/a)
+[^c-a508f7f1380dbc8f98d89698d4ed7541]: Textual amendment: Word "365" substituted for "366" in [reg. 8](https://www.legislation.gov.uk/ssi/2017/85/regulation/8) formula (1.4.2020) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/42)](https://www.legislation.gov.uk/ssi/2020/42), [regs. 1](https://www.legislation.gov.uk/ssi/2020/42/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2020/42/regulation/2/3/a)
 
-[^key-7cb20ec308ecd0384e6ed0781e35b0b3]: Textual amendment: Words in reg. 8 substituted (1.4.2020) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/42)](https://www.legislation.gov.uk/ssi/2020/42), [regs. 1](https://www.legislation.gov.uk/ssi/2020/42/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2020/42/regulation/2/3/b) (as amended (31.3.2020) by [The Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2020 (S.S.I. 2020/101)](https://www.legislation.gov.uk/ssi/2020/101), [regs. 1](https://www.legislation.gov.uk/ssi/2020/101/regulation/1), [5(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/101/regulation/5/2/a/i)[(ii)](https://www.legislation.gov.uk/ssi/2020/101/regulation/5/2/a/ii)[(iii)](https://www.legislation.gov.uk/ssi/2020/101/regulation/5/2/a/iii))
+[^c-7cb20ec308ecd0384e6ed0781e35b0b3]: Textual amendment: Words in reg. 8 substituted (1.4.2020) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/42)](https://www.legislation.gov.uk/ssi/2020/42), [regs. 1](https://www.legislation.gov.uk/ssi/2020/42/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2020/42/regulation/2/3/b) (as amended (31.3.2020) by [The Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2020 (S.S.I. 2020/101)](https://www.legislation.gov.uk/ssi/2020/101), [regs. 1](https://www.legislation.gov.uk/ssi/2020/101/regulation/1), [5(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/101/regulation/5/2/a/i)[(ii)](https://www.legislation.gov.uk/ssi/2020/101/regulation/5/2/a/ii)[(iii)](https://www.legislation.gov.uk/ssi/2020/101/regulation/5/2/a/iii))
 
-[^key-b75d7b86e814ffc0f424af4021024a32]: Textual amendment: Word in [reg. 8](https://www.legislation.gov.uk/ssi/2017/85/regulation/8) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(3)(a)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/3/a)
+[^c-b75d7b86e814ffc0f424af4021024a32]: Textual amendment: Word in [reg. 8](https://www.legislation.gov.uk/ssi/2017/85/regulation/8) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(3)(a)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/3/a)
 
-[^key-c750d944022a01698d9a5104e0953294]: Textual amendment: Word in [reg. 8](https://www.legislation.gov.uk/ssi/2017/85/regulation/8) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/3/b)
+[^c-c750d944022a01698d9a5104e0953294]: Textual amendment: Word in [reg. 8](https://www.legislation.gov.uk/ssi/2017/85/regulation/8) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/3/b)
 
-[^key-8e7b614a5a8f0282853aabaea4d0f031]: Textual amendment: Word in [reg. 8](https://www.legislation.gov.uk/ssi/2017/85/regulation/8) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(3)(c)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/3/c)
+[^c-8e7b614a5a8f0282853aabaea4d0f031]: Textual amendment: Word in [reg. 8](https://www.legislation.gov.uk/ssi/2017/85/regulation/8) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(3)(c)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/3/c)
 
-[^key-90b472e7b78759b71ce4d8f1d73924db]: Textual amendment: Reg. 9 substituted (1.4.2018) by [The Non-Domestic Rates (Transitional Relief) Amendment (Scotland) Regulations 2018 (S.S.I. 2018/76)](https://www.legislation.gov.uk/ssi/2018/76), [regs. 1](https://www.legislation.gov.uk/ssi/2018/76/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2018/76/regulation/2/5)
+[^c-90b472e7b78759b71ce4d8f1d73924db]: Textual amendment: Reg. 9 substituted (1.4.2018) by [The Non-Domestic Rates (Transitional Relief) Amendment (Scotland) Regulations 2018 (S.S.I. 2018/76)](https://www.legislation.gov.uk/ssi/2018/76), [regs. 1](https://www.legislation.gov.uk/ssi/2018/76/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2018/76/regulation/2/5)
 
-[^key-f4edf6c09ca4e67b9de0a50956d780d8]: Textual amendment: Word “365” substituted for “366” in reg. 9(1) formulae (1.4.2020) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/42)](https://www.legislation.gov.uk/ssi/2020/42), [regs. 1](https://www.legislation.gov.uk/ssi/2020/42/regulation/1), [2(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/42/regulation/2/4/a/ii)
+[^c-f4edf6c09ca4e67b9de0a50956d780d8]: Textual amendment: Word “365” substituted for “366” in reg. 9(1) formulae (1.4.2020) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/42)](https://www.legislation.gov.uk/ssi/2020/42), [regs. 1](https://www.legislation.gov.uk/ssi/2020/42/regulation/1), [2(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/42/regulation/2/4/a/ii)
 
-[^key-7a1250cc9fa8e70141603681514392b6]: Textual amendment: [reg. 9(1)](https://www.legislation.gov.uk/ssi/2017/85/regulation/9/1) “2.247” substituted in formula for “1.965” (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(4)(a)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/4/a)
+[^c-7a1250cc9fa8e70141603681514392b6]: Textual amendment: [reg. 9(1)](https://www.legislation.gov.uk/ssi/2017/85/regulation/9/1) “2.247” substituted in formula for “1.965” (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(4)(a)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/4/a)
 
-[^key-eee43c5b26515e21ae10ef20fc7d4d1d]: Textual amendment: Words in reg. 9 substituted (1.4.2020) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/42)](https://www.legislation.gov.uk/ssi/2020/42), [regs. 1](https://www.legislation.gov.uk/ssi/2020/42/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2020/42/regulation/2/4/b/i) (as substituted (30.3.2020) by [The Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2020 (S.S.I. 2020/101)](https://www.legislation.gov.uk/ssi/2020/101), [regs. 1](https://www.legislation.gov.uk/ssi/2020/101/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2020/101/regulation/5/2/b))
+[^c-eee43c5b26515e21ae10ef20fc7d4d1d]: Textual amendment: Words in reg. 9 substituted (1.4.2020) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/42)](https://www.legislation.gov.uk/ssi/2020/42), [regs. 1](https://www.legislation.gov.uk/ssi/2020/42/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2020/42/regulation/2/4/b/i) (as substituted (30.3.2020) by [The Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2020 (S.S.I. 2020/101)](https://www.legislation.gov.uk/ssi/2020/101), [regs. 1](https://www.legislation.gov.uk/ssi/2020/101/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2020/101/regulation/5/2/b))
 
-[^key-6065d287d10120fd7b73974a4163ec04]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/ssi/2017/85/regulation/9/2) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(4)(b)(i)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/4/b/i)
+[^c-6065d287d10120fd7b73974a4163ec04]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/ssi/2017/85/regulation/9/2) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(4)(b)(i)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/4/b/i)
 
-[^key-0e0a1f6404de909309e503074449d833]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/ssi/2017/85/regulation/9/2) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/4/b/ii)
+[^c-0e0a1f6404de909309e503074449d833]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/ssi/2017/85/regulation/9/2) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/4/b/ii)
 
-[^key-5afa0bcc661b509a7184fe59986d977e]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/ssi/2017/85/regulation/9/2) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(4)(b)(iii)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/4/b/iii)
+[^c-5afa0bcc661b509a7184fe59986d977e]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/ssi/2017/85/regulation/9/2) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(4)(b)(iii)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/4/b/iii)
 
-[^key-54db36c944c7ff37bbe9471ae2067076]: Textual amendment: Reg. 9(3) substituted (1.4.2019) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Amendment Regulations 2019 (S.S.I. 2019/44)](https://www.legislation.gov.uk/ssi/2019/44), [regs. 1](https://www.legislation.gov.uk/ssi/2019/44/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2019/44/regulation/2/4/c)
+[^c-54db36c944c7ff37bbe9471ae2067076]: Textual amendment: Reg. 9(3) substituted (1.4.2019) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Amendment Regulations 2019 (S.S.I. 2019/44)](https://www.legislation.gov.uk/ssi/2019/44), [regs. 1](https://www.legislation.gov.uk/ssi/2019/44/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2019/44/regulation/2/4/c)
 
-[^key-d8fdd7925118a83bd442d48c1780c372]: Textual amendment: Word "365" substituted for "366" in reg. 10(1)(a) formula (1.4.2020) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/42)](https://www.legislation.gov.uk/ssi/2020/42), [regs. 1](https://www.legislation.gov.uk/ssi/2020/42/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2020/42/regulation/2/5)
+[^c-d8fdd7925118a83bd442d48c1780c372]: Textual amendment: Word "365" substituted for "366" in reg. 10(1)(a) formula (1.4.2020) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/42)](https://www.legislation.gov.uk/ssi/2020/42), [regs. 1](https://www.legislation.gov.uk/ssi/2020/42/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2020/42/regulation/2/5)
 
-[^key-c14d50e60c5e6def768b29e63cc5d371]: Textual amendment: Word in [reg. 11](https://www.legislation.gov.uk/ssi/2017/85/regulation/11) heading substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(5)(a)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/5/a)
+[^c-c14d50e60c5e6def768b29e63cc5d371]: Textual amendment: Word in [reg. 11](https://www.legislation.gov.uk/ssi/2017/85/regulation/11) heading substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(5)(a)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/5/a)
 
-[^key-ad732119635c51ae66eaab45e727fad9]: Textual amendment: Word in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2017/85/regulation/11/1) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(5)(a)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/5/a)
+[^c-ad732119635c51ae66eaab45e727fad9]: Textual amendment: Word in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2017/85/regulation/11/1) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(5)(a)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/5/a)
 
-[^key-e8f0644f5aa7c84dc4d05920400d79d6]: Textual amendment: Word "365" substituted for "366" in reg. 11(1) formula (1.4.2020) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/42)](https://www.legislation.gov.uk/ssi/2020/42), [regs. 1](https://www.legislation.gov.uk/ssi/2020/42/regulation/1), [2(6)(b)(i)](https://www.legislation.gov.uk/ssi/2020/42/regulation/2/6/b/i)
+[^c-e8f0644f5aa7c84dc4d05920400d79d6]: Textual amendment: Word "365" substituted for "366" in reg. 11(1) formula (1.4.2020) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/42)](https://www.legislation.gov.uk/ssi/2020/42), [regs. 1](https://www.legislation.gov.uk/ssi/2020/42/regulation/1), [2(6)(b)(i)](https://www.legislation.gov.uk/ssi/2020/42/regulation/2/6/b/i)
 
-[^key-73b920ada467403c32454acb6ea2a796]: Textual amendment: Words in reg. 11(1) substituted (1.4.2020) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/42)](https://www.legislation.gov.uk/ssi/2020/42), [regs. 1](https://www.legislation.gov.uk/ssi/2020/42/regulation/1), [2(6)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/42/regulation/2/6/b/ii) (as substituted (31.3.2020) by [The Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2020 (S.S.I. 2020/101)](https://www.legislation.gov.uk/ssi/2020/101), [regs. 1](https://www.legislation.gov.uk/ssi/2020/101/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/ssi/2020/101/regulation/5/2/c))
+[^c-73b920ada467403c32454acb6ea2a796]: Textual amendment: Words in reg. 11(1) substituted (1.4.2020) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/42)](https://www.legislation.gov.uk/ssi/2020/42), [regs. 1](https://www.legislation.gov.uk/ssi/2020/42/regulation/1), [2(6)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/42/regulation/2/6/b/ii) (as substituted (31.3.2020) by [The Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2020 (S.S.I. 2020/101)](https://www.legislation.gov.uk/ssi/2020/101), [regs. 1](https://www.legislation.gov.uk/ssi/2020/101/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/ssi/2020/101/regulation/5/2/c))
 
-[^key-7047fea130c12d103cbb10dea012ac33]: Textual amendment: Word in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2017/85/regulation/11/1) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(5)(b)(i)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/5/b/i)
+[^c-7047fea130c12d103cbb10dea012ac33]: Textual amendment: Word in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2017/85/regulation/11/1) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(5)(b)(i)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/5/b/i)
 
-[^key-8058322e975e33b4aa74f98eef8c7367]: Textual amendment: Word in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2017/85/regulation/11/1) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(5)(b)(ii)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/5/b/ii)
+[^c-8058322e975e33b4aa74f98eef8c7367]: Textual amendment: Word in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2017/85/regulation/11/1) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(5)(b)(ii)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/5/b/ii)
 
-[^key-fac0adb053bbae40e1f8d86a64fad703]: Textual amendment: Word in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2017/85/regulation/11/1) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(5)(b)(iii)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/5/b/iii)
+[^c-fac0adb053bbae40e1f8d86a64fad703]: Textual amendment: Word in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2017/85/regulation/11/1) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(5)(b)(iii)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/5/b/iii)
 
-[^key-1869f8e32d787ea74de63ac5b0ed0ad9]: Textual amendment: Word in [reg. 11(2)](https://www.legislation.gov.uk/ssi/2017/85/regulation/11/2) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(5)(a)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/5/a)
+[^c-1869f8e32d787ea74de63ac5b0ed0ad9]: Textual amendment: Word in [reg. 11(2)](https://www.legislation.gov.uk/ssi/2017/85/regulation/11/2) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(5)(a)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/5/a)
 
 [^c23249291]: Marginal citation: The relevant definition in section 37(1) was amended by section 20 and paragraph 17 of schedule 2 of the [Rating and Valuation (Amendment) (Scotland) Act 1984 (c.31)](https://www.legislation.gov.uk/ukpga/1984/31), schedule 6 of the [Abolition of Domestic Rates etc. (Scotland) 1987 Act (c.47)](https://www.legislation.gov.uk/ukpga/1987/47) and paragraph 100(8) of schedule 13 of the [Local Government etc. (Scotland) Act 1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-901d450f5bbbc2096c14240929ff06ab]: Textual amendment: Reg. 11(3) inserted (1.4.2018) by [The Non-Domestic Rates (Transitional Relief) Amendment (Scotland) Regulations 2018 (S.S.I. 2018/76)](https://www.legislation.gov.uk/ssi/2018/76), [regs. 1](https://www.legislation.gov.uk/ssi/2018/76/regulation/1), [2(6)(c)](https://www.legislation.gov.uk/ssi/2018/76/regulation/2/6/c)
+[^c-901d450f5bbbc2096c14240929ff06ab]: Textual amendment: Reg. 11(3) inserted (1.4.2018) by [The Non-Domestic Rates (Transitional Relief) Amendment (Scotland) Regulations 2018 (S.S.I. 2018/76)](https://www.legislation.gov.uk/ssi/2018/76), [regs. 1](https://www.legislation.gov.uk/ssi/2018/76/regulation/1), [2(6)(c)](https://www.legislation.gov.uk/ssi/2018/76/regulation/2/6/c)
 
 [^c23249301]: Marginal citation: Section 4(2) was amended by sections 5(a)(i) and 13 and schedule 4 of the [Local Government (Miscellaneous Provisions) (Scotland) Act 1981 (c.23)](https://www.legislation.gov.uk/ukpga/1981/23) and section 98(2)(a) of the [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10).
 
@@ -488,21 +488,21 @@ Regulation 17 provides that an application must be made to obtain the relief.
 
 [^c23249331]: Marginal citation: Paragraph 3 was amended by section 29 of the [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1) and paragraph 25 of schedule 8 and paragraph 148 of schedule 12 of the [Postal Services Act 2011 (c.5)](https://www.legislation.gov.uk/ukpga/2011/5). Paragraph 3A was inserted by section 28(3) of the [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1).
 
-[^key-7837854c4c98cbc3268c168d454fc5af]: Textual amendment: Word in [reg. 12(1)(a)(v)](https://www.legislation.gov.uk/ssi/2017/85/regulation/12/1/a/v) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(6)(a)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/6/a)
+[^c-7837854c4c98cbc3268c168d454fc5af]: Textual amendment: Word in [reg. 12(1)(a)(v)](https://www.legislation.gov.uk/ssi/2017/85/regulation/12/1/a/v) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(6)(a)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/6/a)
 
-[^key-0a4dcc21bac181e52e04f11a18ca2a4e]: Textual amendment: [Reg. 12(1)(a)(vi)](https://www.legislation.gov.uk/ssi/2017/85/regulation/12/1/a/vi) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(6)(b)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/6/b)
+[^c-0a4dcc21bac181e52e04f11a18ca2a4e]: Textual amendment: [Reg. 12(1)(a)(vi)](https://www.legislation.gov.uk/ssi/2017/85/regulation/12/1/a/vi) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(6)(b)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/6/b)
 
-[^key-5026991971889f8710f3ebb416317ae1]: Textual amendment: [Reg. 12(1)(a)(vii)](https://www.legislation.gov.uk/ssi/2017/85/regulation/12/1/a/vii) inserted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(6)(c)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/6/c)
+[^c-5026991971889f8710f3ebb416317ae1]: Textual amendment: [Reg. 12(1)(a)(vii)](https://www.legislation.gov.uk/ssi/2017/85/regulation/12/1/a/vii) inserted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [10(6)(c)](https://www.legislation.gov.uk/ssi/2022/48/regulation/10/6/c)
 
-[^key-01c5c401b55e298fa4e08051f46b5842]: Textual amendment: Reg. 12(3) omitted (1.4.2018) by virtue of [The Non-Domestic Rates (Transitional Relief) Amendment (Scotland) Regulations 2018 (S.S.I. 2018/76)](https://www.legislation.gov.uk/ssi/2018/76), [regs. 1](https://www.legislation.gov.uk/ssi/2018/76/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/ssi/2018/76/regulation/2/7/b)
+[^c-01c5c401b55e298fa4e08051f46b5842]: Textual amendment: Reg. 12(3) omitted (1.4.2018) by virtue of [The Non-Domestic Rates (Transitional Relief) Amendment (Scotland) Regulations 2018 (S.S.I. 2018/76)](https://www.legislation.gov.uk/ssi/2018/76), [regs. 1](https://www.legislation.gov.uk/ssi/2018/76/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/ssi/2018/76/regulation/2/7/b)
 
-[^key-98c8cc40e3e53a86b4e1c4dc0fc1febb]: Textual amendment: Reg. 13 omitted (1.4.2018) by virtue of [The Non-Domestic Rates (Transitional Relief) Amendment (Scotland) Regulations 2018 (S.S.I. 2018/76)](https://www.legislation.gov.uk/ssi/2018/76), [regs. 1](https://www.legislation.gov.uk/ssi/2018/76/regulation/1), [2(8)](https://www.legislation.gov.uk/ssi/2018/76/regulation/2/8)
+[^c-98c8cc40e3e53a86b4e1c4dc0fc1febb]: Textual amendment: Reg. 13 omitted (1.4.2018) by virtue of [The Non-Domestic Rates (Transitional Relief) Amendment (Scotland) Regulations 2018 (S.S.I. 2018/76)](https://www.legislation.gov.uk/ssi/2018/76), [regs. 1](https://www.legislation.gov.uk/ssi/2018/76/regulation/1), [2(8)](https://www.legislation.gov.uk/ssi/2018/76/regulation/2/8)
 
 [^c23249341]: Marginal citation: Section 24A was inserted by the [Local Government etc. (Scotland) Act 1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), section 155 and amended by the [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), section 1(3).
 
-[^key-64985ea701f7a4df0f5c4e7c741f1722]: Textual amendment: Words in reg. 14(2) substituted (1.4.2018) by [The Non-Domestic Rates (Transitional Relief) Amendment (Scotland) Regulations 2018 (S.S.I. 2018/76)](https://www.legislation.gov.uk/ssi/2018/76), [regs. 1](https://www.legislation.gov.uk/ssi/2018/76/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/ssi/2018/76/regulation/2/9/a)
+[^c-64985ea701f7a4df0f5c4e7c741f1722]: Textual amendment: Words in reg. 14(2) substituted (1.4.2018) by [The Non-Domestic Rates (Transitional Relief) Amendment (Scotland) Regulations 2018 (S.S.I. 2018/76)](https://www.legislation.gov.uk/ssi/2018/76), [regs. 1](https://www.legislation.gov.uk/ssi/2018/76/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/ssi/2018/76/regulation/2/9/a)
 
-[^key-08af3baebc9438036732023870b4f16a]: Textual amendment: Reg. 14(4) omitted (1.4.2018) by virtue of [The Non-Domestic Rates (Transitional Relief) Amendment (Scotland) Regulations 2018 (S.S.I. 2018/76)](https://www.legislation.gov.uk/ssi/2018/76), [regs. 1](https://www.legislation.gov.uk/ssi/2018/76/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/ssi/2018/76/regulation/2/9/b)
+[^c-08af3baebc9438036732023870b4f16a]: Textual amendment: Reg. 14(4) omitted (1.4.2018) by virtue of [The Non-Domestic Rates (Transitional Relief) Amendment (Scotland) Regulations 2018 (S.S.I. 2018/76)](https://www.legislation.gov.uk/ssi/2018/76), [regs. 1](https://www.legislation.gov.uk/ssi/2018/76/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/ssi/2018/76/regulation/2/9/b)
 
 [^c23249351]: Marginal citation: Section 3A was inserted by section 140(1) of the [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6). Section 4(5) was amended by section 5(1)(b) of the [Local Government and Planning (Scotland) Act 1982](https://www.legislation.gov.uk/ukpga/1982/43), section 5(1)(b), paragraph 57 of schedule 13 of the [Local Government etc. (Scotland) Act 1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), paragraph 2(a) of schedule 3 of the [Local Government and Rating Act 1997(c.29)](https://www.legislation.gov.uk/ukpga/1997/29) and section 98(3) of the [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10).
 
@@ -510,20 +510,20 @@ Regulation 17 provides that an application must be made to obtain the relief.
 
 [^c23249371]: Marginal citation: Paragraph 4 was amended by section 28(4)(a), (b) and (d) of the [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1).
 
-[^key-434f46c763ff013c7c55f91e1ae3a58e]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/ssi/2017/85/regulation/16) omitted (1.1.2021) by virtue of [The Non-Domestic Rates (Restriction of Relief and Consequential Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/391)](https://www.legislation.gov.uk/ssi/2020/391), [regs. 1](https://www.legislation.gov.uk/ssi/2020/391/regulation/1), [7](https://www.legislation.gov.uk/ssi/2020/391/regulation/7)
+[^c-434f46c763ff013c7c55f91e1ae3a58e]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/ssi/2017/85/regulation/16) omitted (1.1.2021) by virtue of [The Non-Domestic Rates (Restriction of Relief and Consequential Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/391)](https://www.legislation.gov.uk/ssi/2020/391), [regs. 1](https://www.legislation.gov.uk/ssi/2020/391/regulation/1), [7](https://www.legislation.gov.uk/ssi/2020/391/regulation/7)
 
-[^key-8fd2a9eb92c7d961b60025923de7df16]: Textual amendment: Words in reg. 17(1)(a)(i) inserted (1.4.2019) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Amendment Regulations 2019 (S.S.I. 2019/44)](https://www.legislation.gov.uk/ssi/2019/44), [regs. 1](https://www.legislation.gov.uk/ssi/2019/44/regulation/1), [2(8)](https://www.legislation.gov.uk/ssi/2019/44/regulation/2/8)
+[^c-8fd2a9eb92c7d961b60025923de7df16]: Textual amendment: Words in reg. 17(1)(a)(i) inserted (1.4.2019) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Amendment Regulations 2019 (S.S.I. 2019/44)](https://www.legislation.gov.uk/ssi/2019/44), [regs. 1](https://www.legislation.gov.uk/ssi/2019/44/regulation/1), [2(8)](https://www.legislation.gov.uk/ssi/2019/44/regulation/2/8)
 
-[^key-6ed93dfd38faddbbddffd0d25cc51991]: Textual amendment: Words in reg. 17(1)(a)(ii) inserted (1.4.2019) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Amendment Regulations 2019 (S.S.I. 2019/44)](https://www.legislation.gov.uk/ssi/2019/44), [regs. 1](https://www.legislation.gov.uk/ssi/2019/44/regulation/1), [2(8)](https://www.legislation.gov.uk/ssi/2019/44/regulation/2/8)
+[^c-6ed93dfd38faddbbddffd0d25cc51991]: Textual amendment: Words in reg. 17(1)(a)(ii) inserted (1.4.2019) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Amendment Regulations 2019 (S.S.I. 2019/44)](https://www.legislation.gov.uk/ssi/2019/44), [regs. 1](https://www.legislation.gov.uk/ssi/2019/44/regulation/1), [2(8)](https://www.legislation.gov.uk/ssi/2019/44/regulation/2/8)
 
-[^key-33d0aa96c472d89ab1e3a951c5854ac2]: Textual amendment: Words in reg. 17(1)(a)(iii) inserted (1.4.2019) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Amendment Regulations 2019 (S.S.I. 2019/44)](https://www.legislation.gov.uk/ssi/2019/44), [regs. 1](https://www.legislation.gov.uk/ssi/2019/44/regulation/1), [2(8)](https://www.legislation.gov.uk/ssi/2019/44/regulation/2/8)
+[^c-33d0aa96c472d89ab1e3a951c5854ac2]: Textual amendment: Words in reg. 17(1)(a)(iii) inserted (1.4.2019) by [The Non-Domestic Rates (Transitional Relief) (Scotland) Amendment Regulations 2019 (S.S.I. 2019/44)](https://www.legislation.gov.uk/ssi/2019/44), [regs. 1](https://www.legislation.gov.uk/ssi/2019/44/regulation/1), [2(8)](https://www.legislation.gov.uk/ssi/2019/44/regulation/2/8)
 
 [^c23249391]: Marginal citation: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7); section 7(2) was amended by [S.I. 2016/696](https://www.legislation.gov.uk/uksi/2016/696).
 
-[^key-0d6cd6ef8ef397d0e881d0c48a1ce512]: Textual amendment: Reg. 18 omitted (1.4.2018) by virtue of [The Non-Domestic Rates (Transitional Relief) Amendment (Scotland) Regulations 2018 (S.S.I. 2018/76)](https://www.legislation.gov.uk/ssi/2018/76), [regs. 1](https://www.legislation.gov.uk/ssi/2018/76/regulation/1), [2(10)](https://www.legislation.gov.uk/ssi/2018/76/regulation/2/10)
+[^c-0d6cd6ef8ef397d0e881d0c48a1ce512]: Textual amendment: Reg. 18 omitted (1.4.2018) by virtue of [The Non-Domestic Rates (Transitional Relief) Amendment (Scotland) Regulations 2018 (S.S.I. 2018/76)](https://www.legislation.gov.uk/ssi/2018/76), [regs. 1](https://www.legislation.gov.uk/ssi/2018/76/regulation/1), [2(10)](https://www.legislation.gov.uk/ssi/2018/76/regulation/2/10)
 
 [^c23249401]: Marginal citation: [1960 c.62](https://www.legislation.gov.uk/ukpga/1960/62).
 
 [^c23249411]: Marginal citation: [2005 asp 16](https://www.legislation.gov.uk/asp/2005/16).
 
-[^key-5ac4236a602bd011b66378470c869d45]: Textual amendment: Words in sch. omitted (1.4.2018) by virtue of [The Non-Domestic Rates (Transitional Relief) Amendment (Scotland) Regulations 2018 (S.S.I. 2018/76)](https://www.legislation.gov.uk/ssi/2018/76), [regs. 1](https://www.legislation.gov.uk/ssi/2018/76/regulation/1), [2(11)](https://www.legislation.gov.uk/ssi/2018/76/regulation/2/11)
+[^c-5ac4236a602bd011b66378470c869d45]: Textual amendment: Words in sch. omitted (1.4.2018) by virtue of [The Non-Domestic Rates (Transitional Relief) Amendment (Scotland) Regulations 2018 (S.S.I. 2018/76)](https://www.legislation.gov.uk/ssi/2018/76), [regs. 1](https://www.legislation.gov.uk/ssi/2018/76/regulation/1), [2(11)](https://www.legislation.gov.uk/ssi/2018/76/regulation/2/11)

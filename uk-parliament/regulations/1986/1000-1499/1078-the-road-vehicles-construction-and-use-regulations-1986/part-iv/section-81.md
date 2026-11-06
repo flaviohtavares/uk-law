@@ -18,14 +18,14 @@ summary: ''
 
 *Extent: E+W+S*
 
-**81.**[^key-aee75c5f7fe7a3d440ebd036d1e62abc] For the purposes of this regulation, regulation 82 and Schedule 12—
+**81.**[^c-aee75c5f7fe7a3d440ebd036d1e62abc] For the purposes of this regulation, regulation 82 and Schedule 12—
 
 - (a) “**lateral projection**”, in relation to a load carried by a vehicle, means that part of the load which extends beyond a side of the vehicle;
 - (b) the width of any lateral projection shall be measured between longitudinal planes passing through the extreme projecting point of the vehicle on that side on which the projection lies and that part of the projection furthest from that point;
 - (c) references to a special appliance or apparatus, in relation to a vehicle, are references to any crane or other special appliance or apparatus fitted to the vehicle which is a permanent or essentially permanent fixture;
 - (d) “**forward projection**” and “**rearward projection**”—
-  - (i) in relation to a load carried in such a manner that its weight is borne by[^key-26ded9f4be0540e677f50788a0f98e90] only one vehicle, mean respectively that part of the load which extends beyond the foremost point of the vehicle and that part which extends beyond the rearmost point of the vehicle;
-  - (ii) in relation to a load carried in such a manner that part of its weight is borne by[^key-2af53ba87f7519f6efbc769333960cbd] more than one vehicle, mean respectively that part of the load which extends beyond the foremost point of the foremost vehicle by which the load is carried except where the context otherwise requires and that part of the load which extends beyond the rearmost point of the rearmost vehicle by which the load is carried; and
+  - (i) in relation to a load carried in such a manner that its weight is borne by[^c-26ded9f4be0540e677f50788a0f98e90] only one vehicle, mean respectively that part of the load which extends beyond the foremost point of the vehicle and that part which extends beyond the rearmost point of the vehicle;
+  - (ii) in relation to a load carried in such a manner that part of its weight is borne by[^c-2af53ba87f7519f6efbc769333960cbd] more than one vehicle, mean respectively that part of the load which extends beyond the foremost point of the foremost vehicle by which the load is carried except where the context otherwise requires and that part of the load which extends beyond the rearmost point of the rearmost vehicle by which the load is carried; and
   - (iii) in relation to any special appliance or apparatus, mean respectively that part of the appliance or apparatus which, if it were deemed to be a load carried by the vehicle, would be a part of a load extending beyond the foremost point of the vehicle and that part which would be a part of a load extending beyond the rearmost point of the vehicle,
 
   and references in regulation 82 and Schedule 12 to a forward projection or to a rearward projection in relation to a vehicle shall be construed accordingly;
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-aee75c5f7fe7a3d440ebd036d1e62abc]: Commencement: [Reg. 81](https://www.legislation.gov.uk/uksi/1986/1078/regulation/81) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-aee75c5f7fe7a3d440ebd036d1e62abc]: Commencement: [Reg. 81](https://www.legislation.gov.uk/uksi/1986/1078/regulation/81) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-26ded9f4be0540e677f50788a0f98e90]: Textual amendment: Words in [reg. 81(d)(i)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/81/d/i) substituted (17.10.1991) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1991 (S.I. 1991/2125)](https://www.legislation.gov.uk/uksi/1991/2125), [regs. 1](https://www.legislation.gov.uk/uksi/1991/2125/regulation/1), [7](https://www.legislation.gov.uk/uksi/1991/2125/regulation/7)
+[^c-26ded9f4be0540e677f50788a0f98e90]: Textual amendment: Words in [reg. 81(d)(i)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/81/d/i) substituted (17.10.1991) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1991 (S.I. 1991/2125)](https://www.legislation.gov.uk/uksi/1991/2125), [regs. 1](https://www.legislation.gov.uk/uksi/1991/2125/regulation/1), [7](https://www.legislation.gov.uk/uksi/1991/2125/regulation/7)
 
-[^key-2af53ba87f7519f6efbc769333960cbd]: Textual amendment: Words in [reg. 81(d)(ii)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/81/d/ii) substituted (17.10.1991) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1991 (S.I. 1991/2125)](https://www.legislation.gov.uk/uksi/1991/2125), [regs. 1](https://www.legislation.gov.uk/uksi/1991/2125/regulation/1), [7](https://www.legislation.gov.uk/uksi/1991/2125/regulation/7)
+[^c-2af53ba87f7519f6efbc769333960cbd]: Textual amendment: Words in [reg. 81(d)(ii)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/81/d/ii) substituted (17.10.1991) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1991 (S.I. 1991/2125)](https://www.legislation.gov.uk/uksi/1991/2125), [regs. 1](https://www.legislation.gov.uk/uksi/1991/2125/regulation/1), [7](https://www.legislation.gov.uk/uksi/1991/2125/regulation/7)

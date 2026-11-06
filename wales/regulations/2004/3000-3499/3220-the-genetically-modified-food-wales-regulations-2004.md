@@ -41,7 +41,7 @@ Coming into force
 
 The National Assembly for Wales in exercise of the powers, conferred by sections 16(1)(a), (e) and (f), 17(2), 18(1), 26(1) and (3) and 48(1) of the Food Safety Act 1990[^f00001] and now vested in it[^f00002], and having had regard in accordance with section 48(4A) of that Act to relevant advice given by the Food Standards Agency, and after consultation both as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^f00003] and in accordance with section 48(4) and (4B) of that Act, makes the following Regulations:
 
-## 1. Title, commencement and application[^key-49f1a5eeefa509740df13a7ba64e73cb]
+## 1. Title, commencement and application[^c-49f1a5eeefa509740df13a7ba64e73cb]
 
 These Regulations —
 
@@ -49,7 +49,7 @@ These Regulations —
 - (b) come into force on 17 December 2004; and
 - (c) apply to Wales only.
 
-## 2. Interpretation[^key-ee9fb1536f7e77f659372638582f6ee7]
+## 2. Interpretation[^c-ee9fb1536f7e77f659372638582f6ee7]
 
 (1) In these Regulations —
 
@@ -66,15 +66,15 @@ These Regulations —
 
 (3) Other expressions used in these Regulations and in Regulation 1829/2003 have the same meaning in these Regulations as in Regulation 1829/2003.
 
-## 3. Submission of applications for authorisation to market products[^key-79600d1409a57e1de388f85a1d53ddf5]
+## 3. Submission of applications for authorisation to market products[^c-79600d1409a57e1de388f85a1d53ddf5]
 
 The national competent authority for the purposes of Chapter II of Regulation 1829/2003 is the Food Standards Agency[^f00005].
 
-## 4. Enforcement[^key-7929d5d9b85a05a4f3ce850341826561]
+## 4. Enforcement[^c-7929d5d9b85a05a4f3ce850341826561]
 
 Each food authority, within its area is to enforce and execute the provisions of these Regulations and Chapter II of Regulation 1829/2003.
 
-## 5. Offences and Penalties[^key-42ca934f148d01590748967249e15d3d]
+## 5. Offences and Penalties[^c-42ca934f148d01590748967249e15d3d]
 
 (1) Any person who contravenes or fails to comply with the specified Community provision referred to in Part I of the Schedule is guilty of an offence and liable —
 
@@ -83,7 +83,7 @@ Each food authority, within its area is to enforce and execute the provisions of
 
 (2) Any person who contravenes or fails to comply with any of the specified Community provisions referred to in Part II of the Schedule is guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding six months or to a fine not exceeding level 5 on the standard scale, or to both.
 
-## 6. Application of various provisions of the Act[^key-9a8726ba3d345912ec060b98111aad36]
+## 6. Application of various provisions of the Act[^c-9a8726ba3d345912ec060b98111aad36]
 
 (1) The following provisions of the Act apply for the purposes of these Regulations and Regulation 1829/2003 as they apply for the purposes of the Act —
 
@@ -102,7 +102,7 @@ Each food authority, within its area is to enforce and execute the provisions of
 
 (2) Section 34 (time limit for prosecutions) applies to offences under regulation 5 as it applies to offences punishable under section 35(2) of the Act.
 
-## 7. Inspection, detention and seizure of suspected food[^key-12cd59ba7ae53c115a8937f00195ab45]
+## 7. Inspection, detention and seizure of suspected food[^c-12cd59ba7ae53c115a8937f00195ab45]
 
 (1) Section 8(3) of the Act applies for the purposes of these Regulations as if it read as follows —
 
@@ -154,11 +154,11 @@ Each food authority, within its area is to enforce and execute the provisions of
 
 .
 
-## 8. Revocation[^key-5926f22360bec9c33320c0f16c9c3ebc]
+## 8. Revocation[^c-5926f22360bec9c33320c0f16c9c3ebc]
 
 The Genetically Modified and Novel Foods (Labelling) (Wales) Regulations 2000[^f00006] are hereby revoked.
 
-## 9. Consequential amendments[^key-585c64cd108ec2c89e04bd73b75d9933]
+## 9. Consequential amendments[^c-585c64cd108ec2c89e04bd73b75d9933]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -172,19 +172,19 @@ The Presiding Officer of the National Assembly
 
 Regulation 2 and 5
 
-### PART I[^key-1ff7d2d8263b62597e9efa8bb33c71d0]
+### PART I[^c-1ff7d2d8263b62597e9efa8bb33c71d0]
 
 | Provision of Regulation 1829 /2003 | Subject Matter |
 | --- | --- |
 | Article 4.2 | Prohibition on placing on the market a food referred to in Article 3.1 unless it is covered by an authorisation and satisfies relevant conditions of the authorisation. |
 
-### PART II[^key-a86374c94145f4a569148198448d407e]
+### PART II[^c-a86374c94145f4a569148198448d407e]
 
 | Provision of Regulation 1829 /2003 | Subject Matter |
 | --- | --- |
-| [^key-4d7fef8448d5f62b8594a99a2925a4ba]. . . | [^key-4d7fef8448d5f62b8594a99a2925a4ba]. . . |
+| [^c-4d7fef8448d5f62b8594a99a2925a4ba]. . . | [^c-4d7fef8448d5f62b8594a99a2925a4ba]. . . |
 | Article 9.1 | Requirement that an authorisation holder and parties concerned must comply with conditions or restrictions imposed on an authorisation for a product and with post- market monitoring requirements. |
-| Article 9.3 | Requirement that an authorisation holder inform the Food Safety Authority[^key-a92cccf92e00dfdb88eef166e95e5d48] of any new scientific or technical information relating to a product, which might influence the evaluation of the safety in use of the food or of any prohibition or restriction on the food in a third country. |
+| Article 9.3 | Requirement that an authorisation holder inform the Food Safety Authority[^c-a92cccf92e00dfdb88eef166e95e5d48] of any new scientific or technical information relating to a product, which might influence the evaluation of the safety in use of the food or of any prohibition or restriction on the food in a third country. |
 | Article 13 | Requirement for certain labelling indications. |
 
 (This note is not part of the Regulations)
@@ -210,36 +210,36 @@ A regulatory appraisal pursuant to section 65 of the Government of Wales Act 199
 
 [^f00003]: Footnote: OJ No. L31, 1.2.2002, p.1.
 
-[^key-49f1a5eeefa509740df13a7ba64e73cb]: Commencement: Reg. 1 in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
+[^c-49f1a5eeefa509740df13a7ba64e73cb]: Commencement: Reg. 1 in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
 
-[^key-ee9fb1536f7e77f659372638582f6ee7]: Commencement: Reg. 2 in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
+[^c-ee9fb1536f7e77f659372638582f6ee7]: Commencement: Reg. 2 in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
 
 [^f00004]: Footnote: OJ No. L268, 18.10.03, p1.
 
-[^key-79600d1409a57e1de388f85a1d53ddf5]: Commencement: Reg. 3 in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
+[^c-79600d1409a57e1de388f85a1d53ddf5]: Commencement: Reg. 3 in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
 
 [^f00005]: Footnote: Whose address in Wales is 11th Floor Southgate House, Wood Street, Cardiff CF10 1EW.
 
-[^key-7929d5d9b85a05a4f3ce850341826561]: Commencement: Reg. 4 in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
+[^c-7929d5d9b85a05a4f3ce850341826561]: Commencement: Reg. 4 in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
 
-[^key-42ca934f148d01590748967249e15d3d]: Commencement: Reg. 5 in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
+[^c-42ca934f148d01590748967249e15d3d]: Commencement: Reg. 5 in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
 
-[^key-9a8726ba3d345912ec060b98111aad36]: Commencement: Reg. 6 in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
+[^c-9a8726ba3d345912ec060b98111aad36]: Commencement: Reg. 6 in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
 
-[^key-12cd59ba7ae53c115a8937f00195ab45]: Commencement: Reg. 7 in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
+[^c-12cd59ba7ae53c115a8937f00195ab45]: Commencement: Reg. 7 in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
 
-[^key-5926f22360bec9c33320c0f16c9c3ebc]: Commencement: Reg. 8 in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
+[^c-5926f22360bec9c33320c0f16c9c3ebc]: Commencement: Reg. 8 in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
 
 [^f00006]: Footnote: S.I. [2000/1925](https://www.legislation.gov.uk/uksi/2000/1925).
 
-[^key-585c64cd108ec2c89e04bd73b75d9933]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/wsi/2004/3220/regulation/9) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [10](https://www.legislation.gov.uk/wsi/2018/806/regulation/10)
+[^c-585c64cd108ec2c89e04bd73b75d9933]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/wsi/2004/3220/regulation/9) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [10](https://www.legislation.gov.uk/wsi/2018/806/regulation/10)
 
 [^f00009]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-1ff7d2d8263b62597e9efa8bb33c71d0]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3220/schedule/part/1) in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
+[^c-1ff7d2d8263b62597e9efa8bb33c71d0]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2004/3220/schedule/part/1) in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
 
-[^key-a86374c94145f4a569148198448d407e]: Commencement: Sch. Pt. 2 in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
+[^c-a86374c94145f4a569148198448d407e]: Commencement: Sch. Pt. 2 in force at 17.12.2004, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2004/3220/regulation/1/b)
 
-[^key-4d7fef8448d5f62b8594a99a2925a4ba]: Textual amendment: Words in [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2004/3220/schedule/part/II) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [5(2)(a)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/5/2/a)
+[^c-4d7fef8448d5f62b8594a99a2925a4ba]: Textual amendment: Words in [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2004/3220/schedule/part/II) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [5(2)(a)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/5/2/a)
 
-[^key-a92cccf92e00dfdb88eef166e95e5d48]: Textual amendment: Words in [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2004/3220/schedule/part/II) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/5/2/b)
+[^c-a92cccf92e00dfdb88eef166e95e5d48]: Textual amendment: Words in [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2004/3220/schedule/part/II) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/5/2/b)

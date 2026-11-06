@@ -46,11 +46,11 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 
 ## PART A — GENERAL
 
-### 1. Citation and commencement[^key-955bc41282cc8118fe9f57955aa8b38a]
+### 1. Citation and commencement[^c-955bc41282cc8118fe9f57955aa8b38a]
 
 These Regulations may be cited as the Gas Safety (Installation and Use) Regulations 1998 and shall come into force on 3rd October 1998.
 
-### 2. General interpretation and application[^key-c30c39585011e8b750ec1059eb76293d]
+### 2. General interpretation and application[^c-c30c39585011e8b750ec1059eb76293d]
 
 (1) In these Regulations, unless the context otherwise requires—
 
@@ -111,15 +111,15 @@ These Regulations may be cited as the Gas Safety (Installation and Use) Regulati
 
 (4) Save for regulations 37, 38 and 41 and subject to regulation 3(8), these Regulations shall not apply in relation to the supply of gas to, or anything done in respect of a gas fitting at, the following premises, that is to say—
 
-- (a)[^key-86359e77a7bed651e8057c02efce3bec]
+- (a)[^c-86359e77a7bed651e8057c02efce3bec]
   - (i) a mine within the meaning of the Mines and Quarries Act 1954 or any place deemed to form part of a mine for the purposes of that Act, or
   - (ii) a quarry within the meaning of the Quarries Regulations 1999 or any place deemed to form part of a quarry for the purposes of those Regulations.
 - (b) a factory within the meaning of the Factories Act 1961[^f00004] or any place to which any provisions of the said Act apply by virtue of sections 123 to 126 of that Act;
 - (c) agricultural premises, being agricultural land, including land being or forming part of a market garden, and any building thereon which is used in connection with agricultural operations;
-- (d) temporary installations used in connection with any construction work within the meaning assigned to that phrase by regulation 2(1) of the Construction (Design and Management) Regulations 2015[^key-1a7a007994c729d49592b3ff9213151d];
-- (e) premises used for the testing of gas fittings; [^key-7bc0f16162e43165855f6e4db561e76a]...
-- (f) premises used for the treatment of sewage, or[^key-65ad9bd69e1878f930dcc60069b9bcd1]
-- (g)[^key-f70b86c3e44bfb7428766f468f1ebd01] installations downstream of an isolation valve which—
+- (d) temporary installations used in connection with any construction work within the meaning assigned to that phrase by regulation 2(1) of the Construction (Design and Management) Regulations 2015[^c-1a7a007994c729d49592b3ff9213151d];
+- (e) premises used for the testing of gas fittings; [^c-7bc0f16162e43165855f6e4db561e76a]...
+- (f) premises used for the treatment of sewage, or[^c-65ad9bd69e1878f930dcc60069b9bcd1]
+- (g)[^c-f70b86c3e44bfb7428766f468f1ebd01] installations downstream of an isolation valve which—
   - (i) form a system exclusively used for the compression of gas;
   - (ii) are primarily used to supply compressed gas to vehicles; and
   - (iii) incorporate at least one gas compressor which has an electric motor input power rating exceeding 5 kilowatts,
@@ -153,7 +153,7 @@ but they shall apply in relation to such premises or part thereof used for domes
 
 ## PART B — GAS FITTINGS – GENERAL PROVISIONS
 
-### 3. Qualification and supervision[^key-989fc68e1c2867ecc8a331a316f25dd4]
+### 3. Qualification and supervision[^c-989fc68e1c2867ecc8a331a316f25dd4]
 
 (1) No person shall carry out any work in relation to a gas fitting or gas storage vessel unless he is competent to do so.
 
@@ -179,11 +179,11 @@ but they shall apply in relation to such premises or part thereof used for domes
 
 except that this paragraph shall not apply where the person has reasonable grounds for believing that the vehicle, vessel or caravan will be first used for a purpose which when so used will exclude it from the application of these Regulations by virtue of sub-paragraphs (a), (c) or (e) of regulation 2(5).
 
-### 4. Duty on employer[^key-a71fd321bcc55d1579c5214ab278edbf]
+### 4. Duty on employer[^c-a71fd321bcc55d1579c5214ab278edbf]
 
 Where an employer or a self-employed person requires any work in relation to a gas fitting to be carried out at any place of work under his control or where an employer or self-employed person has control to any extent of work in relation to a gas fitting, he shall take reasonable steps to ensure that the person undertaking that work is, or is employed by, a member of a class of persons approved by the Health and Safety Executive under regulation 3(3) above.
 
-### 5. Materials and workmanship[^key-1a182dd39762a6cf26f2b6bafd215658]
+### 5. Materials and workmanship[^c-1a182dd39762a6cf26f2b6bafd215658]
 
 (1) No person shall install a gas fitting unless every part of it is of good construction and sound material, of adequate strength and size to secure safety and of a type appropriate for the gas with which it is to be used.
 
@@ -196,7 +196,7 @@ Where an employer or a self-employed person requires any work in relation to a g
 
 (3) No person shall carry out any work in relation to a gas fitting or gas storage vessel otherwise than in accordance with appropriate standards and in such a way as to prevent danger to any person.
 
-### 6. General safety precautions[^key-50cb52850002c839bbe3c112736351c7]
+### 6. General safety precautions[^c-50cb52850002c839bbe3c112736351c7]
 
 (1) No person shall carry out any work in relation to a gas fitting in such a manner that gas could be released unless steps are taken to prevent the gas so released constituting a danger to any person.
 
@@ -221,7 +221,7 @@ Where an employer or a self-employed person requires any work in relation to a g
 
 (10) No person shall store or keep gas consisting wholly or mainly of methane on domestic premises, and, for the purpose of this paragraph, such gas from time to time present in pipes or in the fuel tank of any vehicle propelled by gas shall be deemed not to be so stored or kept.
 
-### 7. Protection against damage[^key-e5d302b40e7a882ef9fb9cbe86e0556d]
+### 7. Protection against damage[^c-e5d302b40e7a882ef9fb9cbe86e0556d]
 
 (1) Any person installing a gas fitting shall ensure that it is properly supported and so placed or protected as to avoid any undue risk of damage to the fitting.
 
@@ -229,7 +229,7 @@ Where an employer or a self-employed person requires any work in relation to a g
 
 (3) No person shall install a gas fitting in a position where it is likely to be exposed to any substance which may corrode gas fittings unless the fitting is constructed of materials which are inherently resistant to being so corroded or it is suitably protected against being so corroded.
 
-### 8. Existing gas fittings[^key-bf20ff15d700c906dff02316626cd096]
+### 8. Existing gas fittings[^c-bf20ff15d700c906dff02316626cd096]
 
 (1) No person shall make any alteration to any premises in which a gas fitting or gas storage vessel is fitted if that alteration would adversely affect the safety of the fitting or vessel in such a manner that, if the fitting or the vessel had been installed after the alteration, there would have been a contravention of, or failure to comply with, these Regulations.
 
@@ -237,7 +237,7 @@ Where an employer or a self-employed person requires any work in relation to a g
 
 (3) In relation to any place of work under his control, an employer or a self-employed person shall ensure, so far as is reasonably practicable, that the provisions of paragraphs (1) and (2) above are complied with.
 
-### 9. Emergency controls[^key-33edc429c0141daa45adb67c2f37d9f0]
+### 9. Emergency controls[^c-33edc429c0141daa45adb67c2f37d9f0]
 
 (1) No person shall for the first time enable gas to be supplied for use in any premises unless there is provided an appropriately sited emergency control to which there is adequate access.
 
@@ -256,13 +256,13 @@ Where an employer or a self-employed person requires any work in relation to a g
 
 (5) This regulation shall not apply where gas is supplied in a refillable cylinder except where two or more cylinders are connected by means of an automatic change-over device.
 
-### 10. Maintaining electrical continuity[^key-67d6ff2b8d9354744f3eb2434b290a6f]
+### 10. Maintaining electrical continuity[^c-67d6ff2b8d9354744f3eb2434b290a6f]
 
 In any case where it is necessary to prevent danger, no person shall carry out work in relation to a gas fitting without using a suitable bond to maintain electrical continuity until the work is completed and permanent electrical continuity has been restored.
 
 ## PART C — METERS AND REGULATORS
 
-### 11. Interpretation of Part C[^key-c7f2d1995ec8a65e34b90be6fc19d20f]
+### 11. Interpretation of Part C[^c-c7f2d1995ec8a65e34b90be6fc19d20f]
 
 In this Part—
 
@@ -270,7 +270,7 @@ In this Part—
 - “meter compound” means an area or room designed and constructed to contain one or more meters with their associated fittings;
 - “secondary meter” means a meter, other than a primary meter, for ascertaining the quantity of gas provided by a person for use by another person.
 
-### 12. Meters—general provisions[^key-2f8f542310e738b8b0e857e4b6b0dba1]
+### 12. Meters—general provisions[^c-2f8f542310e738b8b0e857e4b6b0dba1]
 
 (1) No person shall install a meter in any premises unless the site where it is to be installed is such as to ensure so far as is reasonably practicable that the means of escape from those premises in the event of fire is not adversely affected.
 
@@ -287,7 +287,7 @@ In this Part—
 - (a) immediately thereafter they are adequately tested to verify that they are gas tight and examined to verify that they have been installed in accordance with these Regulations; and
 - (b) immediately after such testing and examination, purging is carried out throughout the meter and every other gas fitting through which gas can then flow so as to remove safely all air and gas other than the gas to be supplied.
 
-### 13. Meter housings[^key-d98c84afeb394a9f31bb821713e368da]
+### 13. Meter housings[^c-d98c84afeb394a9f31bb821713e368da]
 
 (1) Where a meter is housed in a meter box or meter compound attached to or built into the external face of the outside wall of any premises, the meter box or meter compound shall be so constructed and installed that any gas escaping within the box or compound cannot enter the premises or any cavity in the wall but must disperse to the external air.
 
@@ -297,7 +297,7 @@ In this Part—
 
 (4) No person shall install a meter within a meter compound which is capable of being secured unless the consumer has been provided with a suitably labelled key for that compound.
 
-### 14. Regulators[^key-0904612ffc07bb2e0871c6810277719d]
+### 14. Regulators[^c-0904612ffc07bb2e0871c6810277719d]
 
 (1) No person shall install a primary meter or meter by pass used in connection with a primary meter unless—
 
@@ -326,13 +326,13 @@ shall break a seal applied under paragraph (5) above other than a seal applied t
 
 (7) A person who breaks a seal applied under paragraph (5) shall apply as soon as is practicable a new seal which is adequate to prevent the setting of the regulator from being interfered with without breaking such seal.
 
-### 15. Meters—emergency notices[^key-1536833d7a452d595e19c14f98329ec4]
+### 15. Meters—emergency notices[^c-1536833d7a452d595e19c14f98329ec4]
 
 (1) No person shall supply gas through a primary meter installed after the coming into force of these Regulations or for the first time supply gas through an existing primary meter after the coming into force of these Regulations unless he ensures that a suitably worded notice in permanent form is prominently displayed on or near the meter indicating the procedure to be followed in the event of an escape of gas.
 
 (2) Where a meter is installed or relocated in any premises in either case at a distance of more than 2 metres from, or out of sight of, the nearest upstream emergency control in the premises, no person shall supply or provide gas for the first time through that meter unless he ensures that a suitably worded notice in permanent form is prominently displayed on or near the meter indicating the position of that control.
 
-### 16. Primary meters[^key-b3e3421be0d0ff18f4c883d34c00820f]
+### 16. Primary meters[^c-b3e3421be0d0ff18f4c883d34c00820f]
 
 (1) No person shall install a prepayment meter as a primary meter through which gas passes to a secondary meter.
 
@@ -353,7 +353,7 @@ shall ensure that a notice in permanent form is prominently displayed on or near
 
 (4) Where a person proposes to remove a primary meter he shall give sufficient notice of it to the person supplying gas through the meter to enable him to comply with paragraph (3).
 
-### 17. Secondary meters[^key-04971830b47a846cb014c7863adcdd76]
+### 17. Secondary meters[^c-04971830b47a846cb014c7863adcdd76]
 
 (1) Any person supplying or permitting the supply of gas through a primary meter to a secondary meter shall ensure that a line diagram in permanent form is prominently displayed on or near the primary meter or gas storage vessel and on or near all emergency controls connected to the primary meter showing the configuration of all meters, installation pipework and emergency controls.
 
@@ -361,13 +361,13 @@ shall ensure that a notice in permanent form is prominently displayed on or near
 
 ## PART D — INSTALLATION PIPEWORK
 
-### 18. Safe use of pipes[^key-f1f16dc40cab7bf607cd215f3700da1e]
+### 18. Safe use of pipes[^c-f1f16dc40cab7bf607cd215f3700da1e]
 
 (1) No person shall install any installation pipework in any position in which it cannot be used with safety having regard to the position of other pipes, pipe supports, drains, sewers, cables, conduits and electrical apparatus and to any parts of the structure of any premises in which it is installed which might affect its safe use.
 
 (2) Any person who connects any installation pipework to a primary meter shall, in any case where electrical equipotential bonding may be necessary, inform the responsible person that such bonding should be carried out by a competent person.
 
-### 19. Enclosed pipes[^key-98f57f35cc0092e94c2de69716bd8faf]
+### 19. Enclosed pipes[^c-98f57f35cc0092e94c2de69716bd8faf]
 
 (1) No person shall install any part of any installation pipework in a wall or a floor or standing of solid construction unless it is so constructed and installed as to be protected against failure caused by the movement of the wall, the floor or the standing as the case may be.
 
@@ -388,15 +388,15 @@ shall ensure that a notice in permanent form is prominently displayed on or near
 
 (6) Where any installation pipework is not itself contained in a ventilated duct, no person shall install any installation pipework in any shaft, duct or void which is not adequately ventilated.
 
-### 20. Protection of buildings[^key-97fe7c3c7cb4c45b9c55c00e5e8552b9]
+### 20. Protection of buildings[^c-97fe7c3c7cb4c45b9c55c00e5e8552b9]
 
 No person shall install any installation pipework in a way which would impair the structure of a building or impair the fire resistance of any part of its structure.
 
-### 21. Clogging precautions[^key-a28ef0ac2d90940d7eaab9b6ad7b0230]
+### 21. Clogging precautions[^c-a28ef0ac2d90940d7eaab9b6ad7b0230]
 
 No person shall install any installation pipework in which deposition of liquid or solid matter is likely to occur unless a suitable vessel for the reception of any deposit which may form is fixed to the pipe in a conspicuous and readily accessible position and safe means are provided for the removal of the deposit.
 
-### 22. Testing and purging of pipes[^key-77f36240a8478805a44b97e79b0a999d]
+### 22. Testing and purging of pipes[^c-77f36240a8478805a44b97e79b0a999d]
 
 (1) Where a person carries out work in relation to any installation pipework which might affect the gastightness of any part of it, he shall immediately thereafter ensure that—
 
@@ -415,13 +415,13 @@ No person shall install any installation pipework in which deposition of liquid 
 - (a) no person shall permit gas to pass into the installation pipework unless he has caused such purging, testing and other work as is specified in sub-paragraphs (a) to (d) of paragraph (2) above to be carried out;
 - (b) a person who provides a gas supply to those premises shall, unless he complies with sub-paragraph (a) above, ensure that the supply is sealed off with an appropriate fitting.
 
-### 23. Marking of pipes[^key-fca4bf72000a9ae5f86c6dd601b4eeec]
+### 23. Marking of pipes[^c-fca4bf72000a9ae5f86c6dd601b4eeec]
 
 (1) Any person installing, elsewhere than in any premises or part of premises used only as a dwelling or for living accommodation, a part of any installation pipework which is accessible to inspection shall permanently mark that part in such a manner that it is readily recognisable as part of a pipe for conveying gas.
 
 (2) The responsible person for the premises in which any such part is situated shall ensure that the part continues to be so recognisable so long as it is used for conveying gas.
 
-### 24. Large consumers[^key-56599a4ec0cd3f208308de5d344c7527]
+### 24. Large consumers[^c-56599a4ec0cd3f208308de5d344c7527]
 
 (1) Where the service pipe to any building having two or more floors to which gas is supplied or (whether or not it has more than one floor) a floor having areas with a separate supply of gas has an internal diameter of 50 mm or more, no person shall install any incoming installation pipework supplying gas to any of those floors or areas, as the case may be, unless—
 
@@ -438,14 +438,14 @@ No person shall install any installation pipework in which deposition of liquid 
 
 ## PART E — GAS APPLIANCES
 
-### 25. Interpretation of Part E[^key-5bb61fedaaf8a5137c8c5da4d0dca430]
+### 25. Interpretation of Part E[^c-5bb61fedaaf8a5137c8c5da4d0dca430]
 
 In this Part—
 
 - “flue pipe” means a pipe forming a flue but does not include a pipe built as a lining into either a chimney or a gas appliance ventilation duct;
 - “operating pressure”, in relation to a gas appliance, means the pressure of gas at which it is designed to operate.
 
-### 26. Gas appliances—safety precautions[^key-ab491c720e186e42ae479ae1f53e0f0f]
+### 26. Gas appliances—safety precautions[^c-ab491c720e186e42ae479ae1f53e0f0f]
 
 (1) No person shall install a gas appliance unless it can be used without constituting a danger to any person.
 
@@ -470,8 +470,8 @@ In this Part—
 
 - (a) the effectiveness of any flue;
 - (b) the supply of combustion air;
-- (c) subject to sub-paragraph (ca),[^key-860142e563d0a36ef23b657ca201edc7] its operating pressure or heat input or, where necessary, both;
-- (ca)[^key-ab5b8bf7124cf23815627f43c7b578f5] if it is not reasonably practicable to examine its operating pressure or heat input (or, where necessary, both), its combustion performance;
+- (c) subject to sub-paragraph (ca),[^c-860142e563d0a36ef23b657ca201edc7] its operating pressure or heat input or, where necessary, both;
+- (ca)[^c-ab5b8bf7124cf23815627f43c7b578f5] if it is not reasonably practicable to examine its operating pressure or heat input (or, where necessary, both), its combustion performance;
 - (d) its operation so as to ensure its safe functioning,
 
 and forthwith take all reasonable practicable steps to notify any defect to the responsible person and, where different, the owner of the premises in which the appliance is situated or, where neither is reasonably practicable, in the case of an appliance supplied with liquefied petroleum gas, the supplier of gas to the appliance, or, in any other case, the transporter.
@@ -481,7 +481,7 @@ and forthwith take all reasonable practicable steps to notify any defect to the 
 - (a) the direct disconnection of the gas supply of a gas appliance; or
 - (b) the purging of gas or air from an appliance or its associated pipework or fittings in any case where that purging does not adversely affect the safety of that appliance, pipe or fitting.
 
-### 27. Flues[^key-b4f71904bcb0e53488679b8a961bc09d]
+### 27. Flues[^c-b4f71904bcb0e53488679b8a961bc09d]
 
 (1) No person shall install a gas appliance to any flue unless the flue is suitable and in a proper condition for the safe operation of the appliance.
 
@@ -493,15 +493,15 @@ and forthwith take all reasonable practicable steps to notify any defect to the 
 
 (5) No person shall install a flue other than in a safe position.
 
-### 28. Access[^key-431d7f8f05e440bc32da8e4a9a88117d]
+### 28. Access[^c-431d7f8f05e440bc32da8e4a9a88117d]
 
 No person shall install a gas appliance except in such a manner that it is readily accessible for operation, inspection and maintenance.
 
-### 29. Manufacturer’s instructions[^key-867236ae89d224dd70216197518dfa3f]
+### 29. Manufacturer’s instructions[^c-867236ae89d224dd70216197518dfa3f]
 
 Any person who installs a gas appliance shall leave for the use of the owner or occupier of the premises in which the appliance is installed all instructions provided by the manufacturer accompanying the appliance.
 
-### 30. Room-sealed appliances[^key-3734984f5b67227c45fd3266eb53b880]
+### 30. Room-sealed appliances[^c-3734984f5b67227c45fd3266eb53b880]
 
 (1) No person shall install a gas appliance in a room used or intended to be used as a bathroom or a shower room unless it is a room-sealed appliance.
 
@@ -517,11 +517,11 @@ Any person who installs a gas appliance shall leave for the use of the owner or 
 - (a) a cupboard or compartment within such a room; or
 - (b) a cupboard, compartment or space adjacent to such a room if there is an air vent from the cupboard, compartment or space into such a room.
 
-### 31. Suspended appliances[^key-260a9aafec93d749359388214666a7a0]
+### 31. Suspended appliances[^c-260a9aafec93d749359388214666a7a0]
 
 No person shall install a suspended gas appliance unless the installation pipework to which it is connected is so constructed and installed as to be capable of safety supporting the weight imposed on it and the appliance is designed to be so supported.
 
-### 32. Flue dampers[^key-56072b8b5c07677e6b2764da35f6c856]
+### 32. Flue dampers[^c-56072b8b5c07677e6b2764da35f6c856]
 
 (1) Any person who installs an automatic damper to serve a gas appliance shall—
 
@@ -532,7 +532,7 @@ No person shall install a suspended gas appliance unless the installation pipewo
 
 (3) No person shall install a domestic gas appliance to a flue which incorporates a manually operated damper unless the damper is permanently fixed in the open position.
 
-### 33. Testing of appliances[^key-67820a3d90678bd4e9334729be8b03a8]
+### 33. Testing of appliances[^c-67820a3d90678bd4e9334729be8b03a8]
 
 (1) Where a person installs a gas appliance at a time when gas is being supplied to the premises in which the appliance is installed, he shall immediately thereafter test its connection to the installation pipework to verify that it is gastight and examine the appliance and the gas fittings and other works for the supply of gas and any flue or means of ventilation to be used in connection with the appliance for the purpose of ascertaining whether—
 
@@ -548,7 +548,7 @@ No person shall install a suspended gas appliance unless the installation pipewo
 - (a) no person shall subsequently permit gas to pass into the appliance unless he has caused such testing, examination and adjustment as is specified in paragraphs (1) and (2) above to be carried out; and
 - (b) a person who subsequently provides a gas supply to those premises shall, unless he complies with sub-paragraph (a) above, ensure that the appliance is sealed off from the gas supply with an appropriate fitting.
 
-### 34. Use of appliances[^key-a5c5dcd0575a55ecb317d89a8a1175c8]
+### 34. Use of appliances[^c-a5c5dcd0575a55ecb317d89a8a1175c8]
 
 (1) The responsible person for any premises shall not use a gas appliance or permit a gas appliance to be used if at any time he knows or has reason to suspect that it cannot be used without constituting a danger to any person.
 
@@ -560,11 +560,11 @@ No person shall install a suspended gas appliance unless the installation pipewo
 
 ## PART F — MAINTENANCE
 
-### 35. Duties of employers and self-employed persons[^key-c498442d47d042effbb606028b3db830]
+### 35. Duties of employers and self-employed persons[^c-c498442d47d042effbb606028b3db830]
 
 It shall be the duty of every employer or self-employed person to ensure that any gas appliance, installation pipework or flue installed at any place of work under his control is maintained in a safe condition so as to prevent risk of injury to any person.
 
-### 36. Duties of Landlords[^key-27f6ce04a38ff6d53b10ec432cb4dbc3]
+### 36. Duties of Landlords[^c-27f6ce04a38ff6d53b10ec432cb4dbc3]
 
 (1) In this regulation—
 
@@ -612,14 +612,14 @@ so as to prevent the risk of injury to any person in lawful occupation or releva
 
 (3) Without prejudice to the generality of paragraph (2) above, a landlord shall—
 
-- (a) ensure that each appliance and flue to which that duty extends is checked for safety within 12 months of being installed and at intervals of not more than 12 months since it was last checked for safety (whether such check was made pursuant to these Regulations or not ; and see regulation 36A[^key-ec16a523b07a40fae7f23ba1f68f70e9]);
-- (b) in the case of a lease commencing after the coming into force of these Regulations, ensure that each appliance and flue to which the duty extends has been checked for safety within a period of 12 months before the lease commences or has been or is so checked within 12 months after the appliance or flue has been installed, whichever is later (and see regulation 36A)[^key-12f873b288a9ad65f2f68879c894bc7e]; and
-- (c) ensure that a record in respect of any appliance or flue so checked is made and retained until there have been two further checks of the appliance or flue under this paragraph or, in respect of an appliance or flue that is removed from the premises, for a period of 2 years from the date of the last check of that appliance or flue[^key-8234dcc263fa3814c4890bf3d3c0ee21], which record shall include the following information—
+- (a) ensure that each appliance and flue to which that duty extends is checked for safety within 12 months of being installed and at intervals of not more than 12 months since it was last checked for safety (whether such check was made pursuant to these Regulations or not ; and see regulation 36A[^c-ec16a523b07a40fae7f23ba1f68f70e9]);
+- (b) in the case of a lease commencing after the coming into force of these Regulations, ensure that each appliance and flue to which the duty extends has been checked for safety within a period of 12 months before the lease commences or has been or is so checked within 12 months after the appliance or flue has been installed, whichever is later (and see regulation 36A)[^c-12f873b288a9ad65f2f68879c894bc7e]; and
+- (c) ensure that a record in respect of any appliance or flue so checked is made and retained until there have been two further checks of the appliance or flue under this paragraph or, in respect of an appliance or flue that is removed from the premises, for a period of 2 years from the date of the last check of that appliance or flue[^c-8234dcc263fa3814c4890bf3d3c0ee21], which record shall include the following information—
   - (i) the date on which the appliance or flue was checked;
   - (ii) the address of the premises at which the appliance or flue is installed;
   - (iii) the name and address of the landlord of the premises (or, where appropriate, his agent) at which the appliance or flue is installed;
   - (iv) a description of and the location of each appliance or flue checked;
-  - (v) any safety[^key-24c138f21a4657d0ae5c2859a759f3d2] defect identified;
+  - (v) any safety[^c-24c138f21a4657d0ae5c2859a759f3d2] defect identified;
   - (vi) any remedial action taken;
   - (vii) confirmation that the check undertaken complies with the requirements of paragraph (9) below;
   - (viii) the name and signature of the individual carrying out the check; and
@@ -646,7 +646,7 @@ so as to prevent the risk of injury to any person in lawful occupation or releva
 
 (12) Paragraph (11) above shall not apply in relation to a room which since before the coming into force of these Regulations has been occupied or intended to be occupied as sleeping accommodation.
 
-### 36A. Determination of date when next safety check due under regulation 36(3)[^key-329d227fb6ead1aeff0c1d475a4530b9]
+### 36A. Determination of date when next safety check due under regulation 36(3)[^c-329d227fb6ead1aeff0c1d475a4530b9]
 
 (1) Where a safety check of an appliance or a flue made in accordance with regulation 36(3)(a) or (b) is or was completed within the period of 2 months ending with the deadline date, that check is to be treated for the purposes of regulation 36(3)(a) and (b) as having been made on the deadline date.
 
@@ -661,7 +661,7 @@ so as to prevent the risk of injury to any person in lawful occupation or releva
 
 ## PART G — MISCELLANEOUS
 
-### 37. Escape of gas[^key-8b1bed520365aad706e4bf39932e1919]
+### 37. Escape of gas[^c-8b1bed520365aad706e4bf39932e1919]
 
 (1) Where any gas escapes from any pipe of a gas supplier or from any pipe, other gas fitting or gas storage vessel used by a person supplied with gas by a gas supplier, the supplier of the gas shall, within 12 hours of being so informed of the escape, prevent the gas escaping (whether by cutting off the supply of gas to any premises or otherwise).
 
@@ -679,7 +679,7 @@ so as to prevent the risk of injury to any person in lawful occupation or releva
 
 (8) In this regulation any reference to an escape of gas from a gas fitting includes a reference to an escape or emission of carbon monoxide gas resulting from incomplete combustion of gas in a gas fitting, but, to the extent that this regulation relates to such an escape or emission of carbon monoxide gas, the requirements imposed upon a supplier by paragraph (1) above shall, where the escape or emission is notified to the supplier by the person to whom the gas has been supplied, be limited to advising that person of the immediate action to be taken to prevent such escape or emission and the need for the examination and, where necessary, repair of the fitting by a competent person.
 
-### 38. Use of antifluctuators and valves[^key-ef2f94c294c0a65719327111708874ed]
+### 38. Use of antifluctuators and valves[^c-ef2f94c294c0a65719327111708874ed]
 
 (1) Where a consumer uses gas for the purpose of working or supplying plant which is liable to produce pressure fluctuation in the gas supply such as to cause any danger to other consumers, he shall comply with such directions as may be given to him by the transporter of the gas to prevent such danger.
 
@@ -694,11 +694,11 @@ and in this paragraph “gaseous substance” includes compressed air but does n
 
 (4) Any direction given pursuant to this regulation shall be in writing.
 
-### 39. Exception as to liability[^key-07fa64317818b5c5a27e305b02f4112f]
+### 39. Exception as to liability[^c-07fa64317818b5c5a27e305b02f4112f]
 
 No person shall be guilty of an offence by reason of contravention of regulation 3(2) or (6), 5(1), 7(3), 15, 16(2) or (3), 17(1), 27(5), 30 (insofar as it relates to the installation of a gas fire, other gas space heater or a gas water heater of more than 14 kilowatt gross heat input), 33(1), 35 or 36 of these Regulations in any case in which he can show that he took all reasonable steps to prevent that contravention.
 
-### 40. Exemption certificates[^key-8a24bca0c19514a01990d5df507381d9]
+### 40. Exemption certificates[^c-8a24bca0c19514a01990d5df507381d9]
 
 (1) Subject to paragraph (2), the Health and Safety Executive may, by a certificate in writing, exempt any person or class of persons from any requirement or prohibition imposed by these Regulations, and any such exemption may be granted subject to conditions and to a limit of time and may be revoked at any time by a certificate in writing.
 
@@ -709,7 +709,7 @@ No person shall be guilty of an offence by reason of contravention of regulation
 
 it is satisfied that the health and safety of persons likely to be affected by the exemption, will not be prejudiced in consequence of it.
 
-### 40A. Review[^key-f7a4fc2f0dbd9e2286aafea28b3282d0]
+### 40A. Review[^c-f7a4fc2f0dbd9e2286aafea28b3282d0]
 
 (1) The Secretary of State must from time to time—
 
@@ -729,7 +729,7 @@ it is satisfied that the health and safety of persons likely to be affected by t
 
 (5) In this regulation, “regulatory provision” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
 
-### 41. Revocation and amendments[^key-41e0d1bbcc521fdf4edd50fe82680788]
+### 41. Revocation and amendments[^c-41e0d1bbcc521fdf4edd50fe82680788]
 
 (1) The Gas Safety (Installation and Use) Regulations 1994[^f00012], the Gas Safety (Installation and Use) (Amendment) Regulations 1996[^f00013] and the Gas Safety (Installation and Use) (Amendment) (No. 2) Regulations 1996[^f00014] are hereby revoked.
 
@@ -795,95 +795,95 @@ These Regulations re-enact, with amendments, the Gas Safety (Installation and Us
 
 [^f00001]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37); section 1(1) was extended by section 2(1) of the Offshore Safety Act [1992 (c. 15)](https://www.legislation.gov.uk/ukpga/1992/15), and sections 15 and 50 were amended by the Employment Protection Act [1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), Schedule 15, paragraphs 6 and 16 respectively.
 
-[^key-955bc41282cc8118fe9f57955aa8b38a]: Commencement: Reg. 1 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-955bc41282cc8118fe9f57955aa8b38a]: Commencement: Reg. 1 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-c30c39585011e8b750ec1059eb76293d]: Commencement: Reg. 2 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-c30c39585011e8b750ec1059eb76293d]: Commencement: Reg. 2 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
 [^f00002]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44).
 
-[^key-86359e77a7bed651e8057c02efce3bec]: Textual amendment: [Reg. 2(4)(a)](https://www.legislation.gov.uk/uksi/1998/2451/regulation/2/4/a) substituted (1.1.2000) by [The Quarries Regulations 1999 (S.I. 1999/2024)](https://www.legislation.gov.uk/uksi/1999/2024), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/2)
+[^c-86359e77a7bed651e8057c02efce3bec]: Textual amendment: [Reg. 2(4)(a)](https://www.legislation.gov.uk/uksi/1998/2451/regulation/2/4/a) substituted (1.1.2000) by [The Quarries Regulations 1999 (S.I. 1999/2024)](https://www.legislation.gov.uk/uksi/1999/2024), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/2)
 
 [^f00004]: Footnote: [1961 c. 34](https://www.legislation.gov.uk/ukpga/1961/34).
 
-[^key-1a7a007994c729d49592b3ff9213151d]: Textual amendment: Word in [reg. 2(4)(d)](https://www.legislation.gov.uk/uksi/1998/2451/regulation/2/4/d) substituted (6.4.2015) by [The Construction (Design and Management) Regulations 2015 (S.I. 2015/51)](https://www.legislation.gov.uk/uksi/2015/51), [reg. 1](https://www.legislation.gov.uk/uksi/2015/51/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/51/schedule/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/51/regulation/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/51/schedule/4))
+[^c-1a7a007994c729d49592b3ff9213151d]: Textual amendment: Word in [reg. 2(4)(d)](https://www.legislation.gov.uk/uksi/1998/2451/regulation/2/4/d) substituted (6.4.2015) by [The Construction (Design and Management) Regulations 2015 (S.I. 2015/51)](https://www.legislation.gov.uk/uksi/2015/51), [reg. 1](https://www.legislation.gov.uk/uksi/2015/51/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/51/schedule/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/51/regulation/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/51/schedule/4))
 
-[^key-7bc0f16162e43165855f6e4db561e76a]: Textual amendment: Word in [reg. 2(4)(e)](https://www.legislation.gov.uk/uksi/1998/2451/regulation/2/4/e) omitted (6.4.2018) by virtue of [The Gas Safety (Installation and Use) (Amendment) Regulations 2018 (S.I. 2018/139)](https://www.legislation.gov.uk/uksi/2018/139), [regs. 1](https://www.legislation.gov.uk/uksi/2018/139/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2018/139/regulation/3/1/a)
+[^c-7bc0f16162e43165855f6e4db561e76a]: Textual amendment: Word in [reg. 2(4)(e)](https://www.legislation.gov.uk/uksi/1998/2451/regulation/2/4/e) omitted (6.4.2018) by virtue of [The Gas Safety (Installation and Use) (Amendment) Regulations 2018 (S.I. 2018/139)](https://www.legislation.gov.uk/uksi/2018/139), [regs. 1](https://www.legislation.gov.uk/uksi/2018/139/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2018/139/regulation/3/1/a)
 
-[^key-65ad9bd69e1878f930dcc60069b9bcd1]: Textual amendment: Word in [reg. 2(4)(f)](https://www.legislation.gov.uk/uksi/1998/2451/regulation/2/4/f) inserted (6.4.2018) by [The Gas Safety (Installation and Use) (Amendment) Regulations 2018 (S.I. 2018/139)](https://www.legislation.gov.uk/uksi/2018/139), [regs. 1](https://www.legislation.gov.uk/uksi/2018/139/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2018/139/regulation/3/1/b)
+[^c-65ad9bd69e1878f930dcc60069b9bcd1]: Textual amendment: Word in [reg. 2(4)(f)](https://www.legislation.gov.uk/uksi/1998/2451/regulation/2/4/f) inserted (6.4.2018) by [The Gas Safety (Installation and Use) (Amendment) Regulations 2018 (S.I. 2018/139)](https://www.legislation.gov.uk/uksi/2018/139), [regs. 1](https://www.legislation.gov.uk/uksi/2018/139/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2018/139/regulation/3/1/b)
 
-[^key-f70b86c3e44bfb7428766f468f1ebd01]: Textual amendment: [Reg. 2(4)(g)](https://www.legislation.gov.uk/uksi/1998/2451/regulation/2/4/g) inserted (6.4.2018) by [The Gas Safety (Installation and Use) (Amendment) Regulations 2018 (S.I. 2018/139)](https://www.legislation.gov.uk/uksi/2018/139), [regs. 1](https://www.legislation.gov.uk/uksi/2018/139/regulation/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/2018/139/regulation/3/1/c)
+[^c-f70b86c3e44bfb7428766f468f1ebd01]: Textual amendment: [Reg. 2(4)(g)](https://www.legislation.gov.uk/uksi/1998/2451/regulation/2/4/g) inserted (6.4.2018) by [The Gas Safety (Installation and Use) (Amendment) Regulations 2018 (S.I. 2018/139)](https://www.legislation.gov.uk/uksi/2018/139), [regs. 1](https://www.legislation.gov.uk/uksi/2018/139/regulation/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/2018/139/regulation/3/1/c)
 
-[^key-989fc68e1c2867ecc8a331a316f25dd4]: Commencement: Reg. 3 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-989fc68e1c2867ecc8a331a316f25dd4]: Commencement: Reg. 3 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-a71fd321bcc55d1579c5214ab278edbf]: Commencement: Reg. 4 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-a71fd321bcc55d1579c5214ab278edbf]: Commencement: Reg. 4 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-1a182dd39762a6cf26f2b6bafd215658]: Commencement: Reg. 5 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-1a182dd39762a6cf26f2b6bafd215658]: Commencement: Reg. 5 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-50cb52850002c839bbe3c112736351c7]: Commencement: Reg. 6 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-50cb52850002c839bbe3c112736351c7]: Commencement: Reg. 6 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-e5d302b40e7a882ef9fb9cbe86e0556d]: Commencement: Reg. 7 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-e5d302b40e7a882ef9fb9cbe86e0556d]: Commencement: Reg. 7 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-bf20ff15d700c906dff02316626cd096]: Commencement: Reg. 8 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-bf20ff15d700c906dff02316626cd096]: Commencement: Reg. 8 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-33edc429c0141daa45adb67c2f37d9f0]: Commencement: Reg. 9 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-33edc429c0141daa45adb67c2f37d9f0]: Commencement: Reg. 9 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-67d6ff2b8d9354744f3eb2434b290a6f]: Commencement: Reg. 10 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-67d6ff2b8d9354744f3eb2434b290a6f]: Commencement: Reg. 10 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-c7f2d1995ec8a65e34b90be6fc19d20f]: Commencement: Reg. 11 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-c7f2d1995ec8a65e34b90be6fc19d20f]: Commencement: Reg. 11 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-2f8f542310e738b8b0e857e4b6b0dba1]: Commencement: Reg. 12 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-2f8f542310e738b8b0e857e4b6b0dba1]: Commencement: Reg. 12 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-d98c84afeb394a9f31bb821713e368da]: Commencement: Reg. 13 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-d98c84afeb394a9f31bb821713e368da]: Commencement: Reg. 13 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-0904612ffc07bb2e0871c6810277719d]: Commencement: Reg. 14 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-0904612ffc07bb2e0871c6810277719d]: Commencement: Reg. 14 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-1536833d7a452d595e19c14f98329ec4]: Commencement: Reg. 15 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-1536833d7a452d595e19c14f98329ec4]: Commencement: Reg. 15 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-b3e3421be0d0ff18f4c883d34c00820f]: Commencement: Reg. 16 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-b3e3421be0d0ff18f4c883d34c00820f]: Commencement: Reg. 16 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-04971830b47a846cb014c7863adcdd76]: Commencement: Reg. 17 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-04971830b47a846cb014c7863adcdd76]: Commencement: Reg. 17 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-f1f16dc40cab7bf607cd215f3700da1e]: Commencement: Reg. 18 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-f1f16dc40cab7bf607cd215f3700da1e]: Commencement: Reg. 18 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-98f57f35cc0092e94c2de69716bd8faf]: Commencement: Reg. 19 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-98f57f35cc0092e94c2de69716bd8faf]: Commencement: Reg. 19 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-97fe7c3c7cb4c45b9c55c00e5e8552b9]: Commencement: Reg. 20 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-97fe7c3c7cb4c45b9c55c00e5e8552b9]: Commencement: Reg. 20 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-a28ef0ac2d90940d7eaab9b6ad7b0230]: Commencement: Reg. 21 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-a28ef0ac2d90940d7eaab9b6ad7b0230]: Commencement: Reg. 21 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-77f36240a8478805a44b97e79b0a999d]: Commencement: Reg. 22 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-77f36240a8478805a44b97e79b0a999d]: Commencement: Reg. 22 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-fca4bf72000a9ae5f86c6dd601b4eeec]: Commencement: Reg. 23 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-fca4bf72000a9ae5f86c6dd601b4eeec]: Commencement: Reg. 23 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-56599a4ec0cd3f208308de5d344c7527]: Commencement: Reg. 24 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-56599a4ec0cd3f208308de5d344c7527]: Commencement: Reg. 24 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-5bb61fedaaf8a5137c8c5da4d0dca430]: Commencement: Reg. 25 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-5bb61fedaaf8a5137c8c5da4d0dca430]: Commencement: Reg. 25 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-ab491c720e186e42ae479ae1f53e0f0f]: Commencement: Reg. 26 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-ab491c720e186e42ae479ae1f53e0f0f]: Commencement: Reg. 26 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-860142e563d0a36ef23b657ca201edc7]: Textual amendment: Words in [reg. 26(9)(c)](https://www.legislation.gov.uk/uksi/1998/2451/regulation/26/9/c) inserted (6.4.2018) by [The Gas Safety (Installation and Use) (Amendment) Regulations 2018 (S.I. 2018/139)](https://www.legislation.gov.uk/uksi/2018/139), [regs. 1](https://www.legislation.gov.uk/uksi/2018/139/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2018/139/regulation/4/2)
+[^c-860142e563d0a36ef23b657ca201edc7]: Textual amendment: Words in [reg. 26(9)(c)](https://www.legislation.gov.uk/uksi/1998/2451/regulation/26/9/c) inserted (6.4.2018) by [The Gas Safety (Installation and Use) (Amendment) Regulations 2018 (S.I. 2018/139)](https://www.legislation.gov.uk/uksi/2018/139), [regs. 1](https://www.legislation.gov.uk/uksi/2018/139/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2018/139/regulation/4/2)
 
-[^key-ab5b8bf7124cf23815627f43c7b578f5]: Textual amendment: [Reg. 26(9)(ca)](https://www.legislation.gov.uk/uksi/1998/2451/regulation/26/9/ca) inserted (6.4.2018) by [The Gas Safety (Installation and Use) (Amendment) Regulations 2018 (S.I. 2018/139)](https://www.legislation.gov.uk/uksi/2018/139), [regs. 1](https://www.legislation.gov.uk/uksi/2018/139/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2018/139/regulation/4/3)
+[^c-ab5b8bf7124cf23815627f43c7b578f5]: Textual amendment: [Reg. 26(9)(ca)](https://www.legislation.gov.uk/uksi/1998/2451/regulation/26/9/ca) inserted (6.4.2018) by [The Gas Safety (Installation and Use) (Amendment) Regulations 2018 (S.I. 2018/139)](https://www.legislation.gov.uk/uksi/2018/139), [regs. 1](https://www.legislation.gov.uk/uksi/2018/139/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2018/139/regulation/4/3)
 
-[^key-b4f71904bcb0e53488679b8a961bc09d]: Commencement: Reg. 27 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-b4f71904bcb0e53488679b8a961bc09d]: Commencement: Reg. 27 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-431d7f8f05e440bc32da8e4a9a88117d]: Commencement: Reg. 28 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-431d7f8f05e440bc32da8e4a9a88117d]: Commencement: Reg. 28 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-867236ae89d224dd70216197518dfa3f]: Commencement: Reg. 29 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-867236ae89d224dd70216197518dfa3f]: Commencement: Reg. 29 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-3734984f5b67227c45fd3266eb53b880]: Commencement: Reg. 30 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-3734984f5b67227c45fd3266eb53b880]: Commencement: Reg. 30 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-260a9aafec93d749359388214666a7a0]: Commencement: Reg. 31 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-260a9aafec93d749359388214666a7a0]: Commencement: Reg. 31 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-56072b8b5c07677e6b2764da35f6c856]: Commencement: Reg. 32 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-56072b8b5c07677e6b2764da35f6c856]: Commencement: Reg. 32 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-67820a3d90678bd4e9334729be8b03a8]: Commencement: Reg. 33 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-67820a3d90678bd4e9334729be8b03a8]: Commencement: Reg. 33 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-a5c5dcd0575a55ecb317d89a8a1175c8]: Commencement: Reg. 34 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-a5c5dcd0575a55ecb317d89a8a1175c8]: Commencement: Reg. 34 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-c498442d47d042effbb606028b3db830]: Commencement: Reg. 35 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-c498442d47d042effbb606028b3db830]: Commencement: Reg. 35 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-27f6ce04a38ff6d53b10ec432cb4dbc3]: Commencement: Reg. 36 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-27f6ce04a38ff6d53b10ec432cb4dbc3]: Commencement: Reg. 36 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
 [^f00006]: Footnote: [1977 c. 42](https://www.legislation.gov.uk/ukpga/1977/42).
 
@@ -895,29 +895,29 @@ These Regulations re-enact, with amendments, the Gas Safety (Installation and Us
 
 [^f00010]: Footnote: [1987 c. 26](https://www.legislation.gov.uk/ukpga/1987/26).
 
-[^key-ec16a523b07a40fae7f23ba1f68f70e9]: Textual amendment: Words in [reg. 36(3)(a)](https://www.legislation.gov.uk/uksi/1998/2451/regulation/36/3/a) inserted (6.4.2018) by [The Gas Safety (Installation and Use) (Amendment) Regulations 2018 (S.I. 2018/139)](https://www.legislation.gov.uk/uksi/2018/139), [regs. 1](https://www.legislation.gov.uk/uksi/2018/139/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2018/139/regulation/5/2)
+[^c-ec16a523b07a40fae7f23ba1f68f70e9]: Textual amendment: Words in [reg. 36(3)(a)](https://www.legislation.gov.uk/uksi/1998/2451/regulation/36/3/a) inserted (6.4.2018) by [The Gas Safety (Installation and Use) (Amendment) Regulations 2018 (S.I. 2018/139)](https://www.legislation.gov.uk/uksi/2018/139), [regs. 1](https://www.legislation.gov.uk/uksi/2018/139/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2018/139/regulation/5/2)
 
-[^key-12f873b288a9ad65f2f68879c894bc7e]: Textual amendment: Words in [reg. 36(3)(b)](https://www.legislation.gov.uk/uksi/1998/2451/regulation/36/3/b) inserted (6.4.2018) by [The Gas Safety (Installation and Use) (Amendment) Regulations 2018 (S.I. 2018/139)](https://www.legislation.gov.uk/uksi/2018/139), [regs. 1](https://www.legislation.gov.uk/uksi/2018/139/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2018/139/regulation/5/3)
+[^c-12f873b288a9ad65f2f68879c894bc7e]: Textual amendment: Words in [reg. 36(3)(b)](https://www.legislation.gov.uk/uksi/1998/2451/regulation/36/3/b) inserted (6.4.2018) by [The Gas Safety (Installation and Use) (Amendment) Regulations 2018 (S.I. 2018/139)](https://www.legislation.gov.uk/uksi/2018/139), [regs. 1](https://www.legislation.gov.uk/uksi/2018/139/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2018/139/regulation/5/3)
 
-[^key-8234dcc263fa3814c4890bf3d3c0ee21]: Textual amendment: Words in [reg. 36(3)(c)](https://www.legislation.gov.uk/uksi/1998/2451/regulation/36/3/c) substituted (6.4.2018) by [The Gas Safety (Installation and Use) (Amendment) Regulations 2018 (S.I. 2018/139)](https://www.legislation.gov.uk/uksi/2018/139), [regs. 1](https://www.legislation.gov.uk/uksi/2018/139/regulation/1), [5(4)(i)](https://www.legislation.gov.uk/uksi/2018/139/regulation/5/4/i)
+[^c-8234dcc263fa3814c4890bf3d3c0ee21]: Textual amendment: Words in [reg. 36(3)(c)](https://www.legislation.gov.uk/uksi/1998/2451/regulation/36/3/c) substituted (6.4.2018) by [The Gas Safety (Installation and Use) (Amendment) Regulations 2018 (S.I. 2018/139)](https://www.legislation.gov.uk/uksi/2018/139), [regs. 1](https://www.legislation.gov.uk/uksi/2018/139/regulation/1), [5(4)(i)](https://www.legislation.gov.uk/uksi/2018/139/regulation/5/4/i)
 
-[^key-24c138f21a4657d0ae5c2859a759f3d2]: Textual amendment: Word in [reg. 36(3)(c)(v)](https://www.legislation.gov.uk/uksi/1998/2451/regulation/36/3/c/v) inserted (6.4.2018) by [The Gas Safety (Installation and Use) (Amendment) Regulations 2018 (S.I. 2018/139)](https://www.legislation.gov.uk/uksi/2018/139), [regs. 1](https://www.legislation.gov.uk/uksi/2018/139/regulation/1), [5(4)(ii)](https://www.legislation.gov.uk/uksi/2018/139/regulation/5/4/ii)
+[^c-24c138f21a4657d0ae5c2859a759f3d2]: Textual amendment: Word in [reg. 36(3)(c)(v)](https://www.legislation.gov.uk/uksi/1998/2451/regulation/36/3/c/v) inserted (6.4.2018) by [The Gas Safety (Installation and Use) (Amendment) Regulations 2018 (S.I. 2018/139)](https://www.legislation.gov.uk/uksi/2018/139), [regs. 1](https://www.legislation.gov.uk/uksi/2018/139/regulation/1), [5(4)(ii)](https://www.legislation.gov.uk/uksi/2018/139/regulation/5/4/ii)
 
-[^key-329d227fb6ead1aeff0c1d475a4530b9]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/uksi/1998/2451/regulation/36A) inserted (6.4.2018) by [The Gas Safety (Installation and Use) (Amendment) Regulations 2018 (S.I. 2018/139)](https://www.legislation.gov.uk/uksi/2018/139), [regs. 1](https://www.legislation.gov.uk/uksi/2018/139/regulation/1), [6](https://www.legislation.gov.uk/uksi/2018/139/regulation/6)
+[^c-329d227fb6ead1aeff0c1d475a4530b9]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/uksi/1998/2451/regulation/36A) inserted (6.4.2018) by [The Gas Safety (Installation and Use) (Amendment) Regulations 2018 (S.I. 2018/139)](https://www.legislation.gov.uk/uksi/2018/139), [regs. 1](https://www.legislation.gov.uk/uksi/2018/139/regulation/1), [6](https://www.legislation.gov.uk/uksi/2018/139/regulation/6)
 
-[^key-8b1bed520365aad706e4bf39932e1919]: Commencement: Reg. 37 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-8b1bed520365aad706e4bf39932e1919]: Commencement: Reg. 37 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
 [^f00011]: Footnote: [S.I. 1996/551](https://www.legislation.gov.uk/uksi/1996/551).
 
-[^key-ef2f94c294c0a65719327111708874ed]: Commencement: Reg. 38 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-ef2f94c294c0a65719327111708874ed]: Commencement: Reg. 38 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-07fa64317818b5c5a27e305b02f4112f]: Commencement: Reg. 39 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-07fa64317818b5c5a27e305b02f4112f]: Commencement: Reg. 39 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-8a24bca0c19514a01990d5df507381d9]: Commencement: Reg. 40 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-8a24bca0c19514a01990d5df507381d9]: Commencement: Reg. 40 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
-[^key-f7a4fc2f0dbd9e2286aafea28b3282d0]: Textual amendment: [Reg. 40A](https://www.legislation.gov.uk/uksi/1998/2451/regulation/40A) inserted (6.4.2018) by [The Gas Safety (Installation and Use) (Amendment) Regulations 2018 (S.I. 2018/139)](https://www.legislation.gov.uk/uksi/2018/139), [regs. 1](https://www.legislation.gov.uk/uksi/2018/139/regulation/1), [7](https://www.legislation.gov.uk/uksi/2018/139/regulation/7)
+[^c-f7a4fc2f0dbd9e2286aafea28b3282d0]: Textual amendment: [Reg. 40A](https://www.legislation.gov.uk/uksi/1998/2451/regulation/40A) inserted (6.4.2018) by [The Gas Safety (Installation and Use) (Amendment) Regulations 2018 (S.I. 2018/139)](https://www.legislation.gov.uk/uksi/2018/139), [regs. 1](https://www.legislation.gov.uk/uksi/2018/139/regulation/1), [7](https://www.legislation.gov.uk/uksi/2018/139/regulation/7)
 
-[^key-41e0d1bbcc521fdf4edd50fe82680788]: Commencement: Reg. 41 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
+[^c-41e0d1bbcc521fdf4edd50fe82680788]: Commencement: Reg. 41 in force at 3.10.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2451/regulation/1)
 
 [^f00012]: Footnote: [S.I. 1994/1886](https://www.legislation.gov.uk/uksi/1994/1886).
 

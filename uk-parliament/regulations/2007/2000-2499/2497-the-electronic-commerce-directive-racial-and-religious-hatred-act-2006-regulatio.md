@@ -34,7 +34,7 @@ electronic communications
 
 criminal law, england and wales
 
-The Electronic Commerce Directive (Racial and Religious Hatred Act 2006) Regulations 2007 (revoked)[^key-90afd5cc35cf5dd9ad8bf181d87632ff]
+The Electronic Commerce Directive (Racial and Religious Hatred Act 2006) Regulations 2007 (revoked)[^c-90afd5cc35cf5dd9ad8bf181d87632ff]
 
 Made
 
@@ -48,44 +48,44 @@ Coming into force
 
 1st October 2007
 
-[^key-90afd5cc35cf5dd9ad8bf181d87632ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-90afd5cc35cf5dd9ad8bf181d87632ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-90afd5cc35cf5dd9ad8bf181d87632ff]
+## 1. Citation and commencement[^c-90afd5cc35cf5dd9ad8bf181d87632ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-90afd5cc35cf5dd9ad8bf181d87632ff]
+## 2. Interpretation[^c-90afd5cc35cf5dd9ad8bf181d87632ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Internal market: England and Wales service providers[^key-90afd5cc35cf5dd9ad8bf181d87632ff]
+## 3. Internal market: England and Wales service providers[^c-90afd5cc35cf5dd9ad8bf181d87632ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Internal market: non-UK service providers[^key-90afd5cc35cf5dd9ad8bf181d87632ff]
+## 4. Internal market: non-UK service providers[^c-90afd5cc35cf5dd9ad8bf181d87632ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Exception for mere conduits[^key-90afd5cc35cf5dd9ad8bf181d87632ff]
+## 5. Exception for mere conduits[^c-90afd5cc35cf5dd9ad8bf181d87632ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Exception for caching[^key-90afd5cc35cf5dd9ad8bf181d87632ff]
+## 6. Exception for caching[^c-90afd5cc35cf5dd9ad8bf181d87632ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Exception for hosting[^key-90afd5cc35cf5dd9ad8bf181d87632ff]
+## 7. Exception for hosting[^c-90afd5cc35cf5dd9ad8bf181d87632ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-90afd5cc35cf5dd9ad8bf181d87632ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-90afd5cc35cf5dd9ad8bf181d87632ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-90afd5cc35cf5dd9ad8bf181d87632ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-90afd5cc35cf5dd9ad8bf181d87632ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-90afd5cc35cf5dd9ad8bf181d87632ff]: Textual amendment: Regulations revoked (23.3.2010) by [The Electronic Commerce Directive (Hatred against Persons on Religious Grounds or the Grounds of Sexual Orientation) Regulations 2010 (S.I. 2010/894)](https://www.legislation.gov.uk/uksi/2010/894), [regs. 1](https://www.legislation.gov.uk/uksi/2010/894/regulation/1), [8(1)](https://www.legislation.gov.uk/uksi/2010/894/regulation/8/1) (with [reg. 8(2)](https://www.legislation.gov.uk/uksi/2010/894/regulation/8/2))
+[^c-90afd5cc35cf5dd9ad8bf181d87632ff]: Textual amendment: Regulations revoked (23.3.2010) by [The Electronic Commerce Directive (Hatred against Persons on Religious Grounds or the Grounds of Sexual Orientation) Regulations 2010 (S.I. 2010/894)](https://www.legislation.gov.uk/uksi/2010/894), [regs. 1](https://www.legislation.gov.uk/uksi/2010/894/regulation/1), [8(1)](https://www.legislation.gov.uk/uksi/2010/894/regulation/8/1) (with [reg. 8(2)](https://www.legislation.gov.uk/uksi/2010/894/regulation/8/2))

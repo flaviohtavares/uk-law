@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Information about referral, availability of children’s advocacy services etc.[^key-5d2e382bab8753c62a9f76f2b1203694]
+## 51. Information about referral, availability of children’s advocacy services etc.[^c-5d2e382bab8753c62a9f76f2b1203694]
 
 *Extent: S*
 
@@ -82,4 +82,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d2e382bab8753c62a9f76f2b1203694]: Commencement: S. 51 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-5d2e382bab8753c62a9f76f2b1203694]: Commencement: S. 51 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

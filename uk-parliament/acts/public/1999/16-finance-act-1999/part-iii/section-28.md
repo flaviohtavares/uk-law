@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Corporation tax starting rate.[^key-5363d17d41d94f7071a8f7de3ecc470a]
+## 28. Corporation tax starting rate.[^c-5363d17d41d94f7071a8f7de3ecc470a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5363d17d41d94f7071a8f7de3ecc470a]: Textual amendment: S. 28 repealed (with effect in accordance with Sch. 26 Pt. 3(1) Note of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 3(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/1)
+[^c-5363d17d41d94f7071a8f7de3ecc470a]: Textual amendment: S. 28 repealed (with effect in accordance with Sch. 26 Pt. 3(1) Note of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 3(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/1)

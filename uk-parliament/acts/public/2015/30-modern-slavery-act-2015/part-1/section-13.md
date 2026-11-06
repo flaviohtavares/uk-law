@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Interpretation of Part 1[^key-b5cbf66f777a03d9341473b84986f25c]
+## 13. Interpretation of Part 1[^c-b5cbf66f777a03d9341473b84986f25c]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5cbf66f777a03d9341473b84986f25c]: Commencement: S. 13 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/a)
+[^c-b5cbf66f777a03d9341473b84986f25c]: Commencement: S. 13 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/a)

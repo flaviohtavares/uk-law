@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Transitional provision[^key-c5c3bb82be29830ff3911a42c5c160d8][^key-c5c3bb82be29830ff3911a42c5c160d8]
+## 7. Transitional provision[^c-c5c3bb82be29830ff3911a42c5c160d8][^c-c5c3bb82be29830ff3911a42c5c160d8]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5c3bb82be29830ff3911a42c5c160d8]: Commencement: Art. 7 in force at 18.3.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/844/article/1/3)
+[^c-c5c3bb82be29830ff3911a42c5c160d8]: Commencement: Art. 7 in force at 18.3.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/844/article/1/3)

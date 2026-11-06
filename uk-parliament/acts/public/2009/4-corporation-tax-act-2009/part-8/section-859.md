@@ -31,8 +31,8 @@ summary: ''
 - (b) in the case of a company that is not UK resident, any circumstances not involving the realisation of the asset by the company, and
 - (c) that the asset begins to be held for the purposes of a mutual trade or business.
 
-(3)[^key-23eb613c41fd84a60571f74fd90823c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-23eb613c41fd84a60571f74fd90823c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-23eb613c41fd84a60571f74fd90823c9]: Textual amendment: S. 859(3) omitted (with effect in accordance with Sch. 8 para. 10(5) of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 8 para. 10(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/8/paragraph/10/3)
+[^c-23eb613c41fd84a60571f74fd90823c9]: Textual amendment: S. 859(3) omitted (with effect in accordance with Sch. 8 para. 10(5) of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 8 para. 10(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/8/paragraph/10/3)

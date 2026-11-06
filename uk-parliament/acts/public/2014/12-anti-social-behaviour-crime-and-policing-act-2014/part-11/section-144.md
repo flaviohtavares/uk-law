@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Power to take further fingerprints or non-intimate samples[^key-06770f23688cf7c3f3acad22ce438de1]
+## 144. Power to take further fingerprints or non-intimate samples[^c-06770f23688cf7c3f3acad22ce438de1]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06770f23688cf7c3f3acad22ce438de1]: Commencement: [S. 144](https://www.legislation.gov.uk/ukpga/2014/12/section/144) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/13)
+[^c-06770f23688cf7c3f3acad22ce438de1]: Commencement: [S. 144](https://www.legislation.gov.uk/ukpga/2014/12/section/144) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/13)

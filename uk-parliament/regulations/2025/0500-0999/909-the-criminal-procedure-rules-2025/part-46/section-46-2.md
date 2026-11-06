@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46.2. Notice of appointment, etc. of legal representative: general rules[^key-1dba558c4eee771ca2ecd18c53f83e96]
+## 46.2. Notice of appointment, etc. of legal representative: general rules[^c-1dba558c4eee771ca2ecd18c53f83e96]
 
 *Extent: E+W*
 
@@ -70,4 +70,4 @@ as soon as practicable and in any event within 5 business days.
 
 ## Annotations
 
-[^key-1dba558c4eee771ca2ecd18c53f83e96]: Commencement: [Rule 46.2](https://www.legislation.gov.uk/uksi/2025/909/rule/46.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-1dba558c4eee771ca2ecd18c53f83e96]: Commencement: [Rule 46.2](https://www.legislation.gov.uk/uksi/2025/909/rule/46.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

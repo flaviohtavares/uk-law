@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.20. Remote attendance: notification requirements[^key-b218be33c8a95845a4ea8da73e4e40c9]
+## 3.20. Remote attendance: notification requirements[^c-b218be33c8a95845a4ea8da73e4e40c9]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ When a meeting is to be summoned and held in accordance with section 246A(3) of 
 
 ## Annotations
 
-[^key-b218be33c8a95845a4ea8da73e4e40c9]: Commencement: Rule 3.20 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-b218be33c8a95845a4ea8da73e4e40c9]: Commencement: Rule 3.20 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

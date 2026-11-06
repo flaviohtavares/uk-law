@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State for Environment, Food and Rural Affairs, the Secretary of State for Scotland, the Secretary of State for Wales and the Minister of Agriculture and Rural Development for Northern Ireland acting jointly, in exercise of the powers conferred by section 19(4)(e) and (6) of the Veterinary Surgeons Act 1966[^f00001], and now vested in them[^f00002], and after consultation with the Council of the Royal College of Veterinary Surgeons, make the following Order.
 
-## 1. Title, commencement and interpretation[^key-e10c680f662d18f5dc635a7cc537115a]
+## 1. Title, commencement and interpretation[^c-e10c680f662d18f5dc635a7cc537115a]
 
 (1) This Order may be cited as the Veterinary Surgery (Rectal Ultrasound Scanning of Bovines) Order 2010 and comes into force on 14th September 2010.
 
@@ -54,18 +54,18 @@ The Secretary of State for Environment, Food and Rural Affairs, the Secretary of
 
 - “the Act” means the Veterinary Surgeons Act 1966;
 - “approved course” means—
-  - (a) a training course in the use of rectal ultrasound scanners for the purpose of detecting whether a bovine is pregnant which is approved for the time being by the Secretary of State after consultation with the Royal College of Veterinary Surgeons; [^key-d5d22365fce81205ec190b08b18179cf]...
-  - (b) [^key-d5d22365fce81205ec190b08b18179cf]...
+  - (a) a training course in the use of rectal ultrasound scanners for the purpose of detecting whether a bovine is pregnant which is approved for the time being by the Secretary of State after consultation with the Royal College of Veterinary Surgeons; [^c-d5d22365fce81205ec190b08b18179cf]...
+  - (b) [^c-d5d22365fce81205ec190b08b18179cf]...
 - “doppler rectal transponder” means a rectal ultrasound scanner consisting of an ultrasonic transmitter and receiver, which detects pregnancy by converting a narrow ultrasound beam into distinctive sounds heard through a headset;
 - “rectal ultrasound scanner” means any equipment (including a doppler rectal transponder) intended to be inserted into the rectum of a bovine to detect whether it is pregnant;
 - “the Secretary of State” means the Secretary of State for Environment, Food and Rural Affairs; and
 - “veterinary surgeon” means a person who is registered in the register of veterinary surgeons or the supplementary veterinary register.
 
-## 2. Revocation of the Veterinary Surgery (Rectal Ultrasound Scanning of Bovines) Order 2002[^key-e3f578b78810803ccc08aa1747e34740]
+## 2. Revocation of the Veterinary Surgery (Rectal Ultrasound Scanning of Bovines) Order 2002[^c-e3f578b78810803ccc08aa1747e34740]
 
 The Veterinary Surgery (Rectal Ultrasound Scanning of Bovines) Order 2002[^f00004] is revoked.
 
-## 3. Exemption from prohibition on the practice of veterinary surgery for rectal ultrasound scanners (other than doppler rectal transponders)[^key-ea1e6b2aaf69607ad166b346fbc6abf2]
+## 3. Exemption from prohibition on the practice of veterinary surgery for rectal ultrasound scanners (other than doppler rectal transponders)[^c-ea1e6b2aaf69607ad166b346fbc6abf2]
 
 (1) Section 19(1) of the Act[^f00005] does not prohibit the use of a rectal ultrasound scanner, other than a doppler rectal transponder, for the purpose of detecting whether a bovine is pregnant if the conditions in paragraph (2) and in article 5 are complied with.
 
@@ -79,16 +79,16 @@ The Veterinary Surgery (Rectal Ultrasound Scanning of Bovines) Order 2002[^f0000
   - (i) carries out at least one scan using a rectal ultrasound scanner, other than a doppler rectal transponder; or
   - (ii) is declared in writing by a veterinary surgeon, who has personally supervised that person’s use of a rectal ultrasound scanner, other than a doppler rectal transponder, competent to use such a rectal ultrasound scanner for the purpose of detecting whether a bovine is pregnant.
 
-## 4. Exemption from the prohibition on the practice of veterinary surgery for doppler rectal transponders[^key-d8050bef80f0f80e886124680ba314cc]
+## 4. Exemption from the prohibition on the practice of veterinary surgery for doppler rectal transponders[^c-d8050bef80f0f80e886124680ba314cc]
 
 (1) Section 19(1) of the Act does not prohibit the use of a doppler rectal transponder for the purpose of detecting whether a bovine is pregnant if the conditions in paragraph (2) and in article 5(1) are complied with.
 
 (2) The conditions are that the person using the doppler rectal transponder is 18 years or older and—
 
 - (a) is the owner of the bovine on which the scanner is being used or is in the employment of the owner; and
-- (b) is in possession of a letter, signed by a veterinary surgeon [^key-a794b6e42c1c5001f8d231ed852b8fcf]..., stating that the person using the doppler rectal transponder is competent to use a doppler rectal transponder without injury to bovines.
+- (b) is in possession of a letter, signed by a veterinary surgeon [^c-a794b6e42c1c5001f8d231ed852b8fcf]..., stating that the person using the doppler rectal transponder is competent to use a doppler rectal transponder without injury to bovines.
 
-## 5. Record keeping[^key-4d240e158c7a6bc0afd6284990664601]
+## 5. Record keeping[^c-4d240e158c7a6bc0afd6284990664601]
 
 (1) A person who uses a rectal ultrasound scanner for the purpose of detecting whether a bovine is pregnant must record the following information immediately on completion of the scan—
 
@@ -149,20 +149,20 @@ No impact assessment has been carried out for this instrument as it has no signi
 
 [^f00002]: Footnote: The functions of the Minister of Agriculture, Fisheries and Food in section 19 of the Veterinary Surgeons Act 1966 were transferred to the Secretary of State for Environment, Food and Rural Affairs by article 3(1) of the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)). By virtue of section 95(5) of, and paragraph 10 of Schedule 12 to, the Northern Ireland Act [1998 (c. 47)](https://www.legislation.gov.uk/ukpga/1998/47) the reference in the Veterinary Surgeons Act 1966 to the Minister of Agriculture for Northern Ireland is to be construed as a reference to the Northern Ireland department which exercises that function or to the Northern Ireland Minister in charge of that department. The Department of Agriculture for Northern Ireland was renamed the Department of Agriculture and Rural Development by Article 3(4) of the Departments (Northern Ireland) Order 1999 ([S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283)).
 
-[^key-e10c680f662d18f5dc635a7cc537115a]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/2056/article/1) in force at 14.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2056/article/1/1)
+[^c-e10c680f662d18f5dc635a7cc537115a]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/2056/article/1) in force at 14.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2056/article/1/1)
 
-[^key-d5d22365fce81205ec190b08b18179cf]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2056/article/1/2) omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2019/457/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d5d22365fce81205ec190b08b18179cf]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2056/article/1/2) omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2019/457/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e3f578b78810803ccc08aa1747e34740]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/2056/article/2) in force at 14.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2056/article/1/1)
+[^c-e3f578b78810803ccc08aa1747e34740]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/2056/article/2) in force at 14.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2056/article/1/1)
 
 [^f00004]: Footnote: [S.I. 2002/2584](https://www.legislation.gov.uk/uksi/2002/2584).
 
-[^key-ea1e6b2aaf69607ad166b346fbc6abf2]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/2056/article/3) in force at 14.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2056/article/1/1)
+[^c-ea1e6b2aaf69607ad166b346fbc6abf2]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/2056/article/3) in force at 14.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2056/article/1/1)
 
 [^f00005]: Footnote: Section 19(1) of the Act was amended by the Magistrates’ Court Act [1980 (c. 43)](https://www.legislation.gov.uk/ukpga/1980/43), section 32(2).
 
-[^key-d8050bef80f0f80e886124680ba314cc]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/2056/article/4) in force at 14.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2056/article/1/1)
+[^c-d8050bef80f0f80e886124680ba314cc]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/2056/article/4) in force at 14.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2056/article/1/1)
 
-[^key-a794b6e42c1c5001f8d231ed852b8fcf]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2010/2056/article/4/2) omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/457/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a794b6e42c1c5001f8d231ed852b8fcf]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2010/2056/article/4/2) omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/457/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4d240e158c7a6bc0afd6284990664601]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2010/2056/article/5) in force at 14.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2056/article/1/1)
+[^c-4d240e158c7a6bc0afd6284990664601]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2010/2056/article/5) in force at 14.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2056/article/1/1)

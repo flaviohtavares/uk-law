@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 6 — LAND OVER WHICH RESTRICTIVE OBLIGATIONS AND RIGHTS OF SUPPORT ARE REQUIRED[^key-2994ab820f8302335f4f5b68c9164589]
+## SCHEDULE 6 — LAND OVER WHICH RESTRICTIVE OBLIGATIONS AND RIGHTS OF SUPPORT ARE REQUIRED[^c-2994ab820f8302335f4f5b68c9164589]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ Article 18(2)
 
 ## Annotations
 
-[^key-2994ab820f8302335f4f5b68c9164589]: Commencement: Sch. 6 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
+[^c-2994ab820f8302335f4f5b68c9164589]: Commencement: Sch. 6 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)

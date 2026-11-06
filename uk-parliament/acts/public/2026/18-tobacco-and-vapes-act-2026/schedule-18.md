@@ -24,17 +24,17 @@ summary: ''
 
 Section 152
 
-**1.**[^key-adea0a6ad1e3d76ee05dd23b8a69235f] The Smoking, Health and Social Care (Scotland) Act [2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13) is amended as follows.
+**1.**[^c-adea0a6ad1e3d76ee05dd23b8a69235f] The Smoking, Health and Social Care (Scotland) Act [2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13) is amended as follows.
 
-**2.**[^key-40245f891a266d2676557b61ddecc4d3] (1) Section 5 is amended as follows.
+**2.**[^c-40245f891a266d2676557b61ddecc4d3] (1) Section 5 is amended as follows.
 
 (2) In the heading, for “sections 1 to 3 and 4A to 4C” substitute “Chapters 1 to 3”.
 
 (3) In subsection (1), for “section 1, 2, 3, 4A, 4B or 4C(5)” substitute “any provision of Chapter 1, 2 or 3 creating an offence”.
 
-**3.**[^key-b1914a530b7552fe196b62619d86d235] In section 6, in subsection (2), omit “under section 1, 3, 4A, 4B or 4C(5)”.
+**3.**[^c-b1914a530b7552fe196b62619d86d235] In section 6, in subsection (2), omit “under section 1, 3, 4A, 4B or 4C(5)”.
 
-**4.**[^key-ba735fc3c76f8b16f435c82ba170f0d8] (1) Section 7 is amended as follows.
+**4.**[^c-ba735fc3c76f8b16f435c82ba170f0d8] (1) Section 7 is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -52,7 +52,7 @@ Section 152
 
 > - “**the appropriate council**” means the council in the area in which those premises are.
 
-**5.**[^key-13dda80a36306f8bc220352fcbf35068] After section 8 insert—
+**5.**[^c-13dda80a36306f8bc220352fcbf35068] After section 8 insert—
 
 > **8A. Interpretation of Part**
 >
@@ -70,9 +70,9 @@ Section 152
 > - “**vape-free premises**” has the meaning given by section 4H(1);
 > - “**vaporises**” has the meaning given by section 35 of the Tobacco and Primary Medical Services (Scotland) Act 2010.
 
-**6.**[^key-1c018a0eeb28523ba62c862a234fbfe0] In section 40, in subsection (3)(a) omit “or 4D(2)(a) or (4)(a)”.
+**6.**[^c-1c018a0eeb28523ba62c862a234fbfe0] In section 40, in subsection (3)(a) omit “or 4D(2)(a) or (4)(a)”.
 
-**7.**[^key-61b5b07ed91bd84f2d73de0342d2263a] (1) Schedule 1 is amended as follows.
+**7.**[^c-61b5b07ed91bd84f2d73de0342d2263a] (1) Schedule 1 is amended as follows.
 
 (2) In the heading, for “sections 1, 2, 3, 4A, 4B and 4C(5)” substitute “Part 1”.
 
@@ -86,26 +86,26 @@ Section 152
   ;
 - (b) in sub-paragraphs (2) and (3), for “section 1, 2, 3, 4A, 4B or 4C(5)” substitute “Chapter 1, 2 or 3”.
 
-**8.**[^key-a9c576ec730564cb255ba6a7d591fbea] In paragraph 2, for “section 1, 2, 3, 4A, 4B or 4C(5)” substitute “Chapter 1, 2 or 3”.
+**8.**[^c-a9c576ec730564cb255ba6a7d591fbea] In paragraph 2, for “section 1, 2, 3, 4A, 4B or 4C(5)” substitute “Chapter 1, 2 or 3”.
 
-**9.**[^key-7252127aeb8e4ad5210b030bbb67fe9b] In paragraph 4, in sub-paragraph (1), for “section 1, 2, 3, 4A, 4B or 4C(5)“ substitute “Chapter 1, 2 or 3”.
+**9.**[^c-7252127aeb8e4ad5210b030bbb67fe9b] In paragraph 4, in sub-paragraph (1), for “section 1, 2, 3, 4A, 4B or 4C(5)“ substitute “Chapter 1, 2 or 3”.
 
 ## Annotations
 
-[^key-adea0a6ad1e3d76ee05dd23b8a69235f]: Commencement: Sch. 18 para. 1 not in force at Royal Assent, see [s. 176(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/b)
+[^c-adea0a6ad1e3d76ee05dd23b8a69235f]: Commencement: Sch. 18 para. 1 not in force at Royal Assent, see [s. 176(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/b)
 
-[^key-40245f891a266d2676557b61ddecc4d3]: Commencement: Sch. 18 para. 2 not in force at Royal Assent, see [s. 176(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/b)
+[^c-40245f891a266d2676557b61ddecc4d3]: Commencement: Sch. 18 para. 2 not in force at Royal Assent, see [s. 176(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/b)
 
-[^key-b1914a530b7552fe196b62619d86d235]: Commencement: Sch. 18 para. 3 not in force at Royal Assent, see [s. 176(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/b)
+[^c-b1914a530b7552fe196b62619d86d235]: Commencement: Sch. 18 para. 3 not in force at Royal Assent, see [s. 176(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/b)
 
-[^key-ba735fc3c76f8b16f435c82ba170f0d8]: Commencement: Sch. 18 para. 4 not in force at Royal Assent, see [s. 176(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/b)
+[^c-ba735fc3c76f8b16f435c82ba170f0d8]: Commencement: Sch. 18 para. 4 not in force at Royal Assent, see [s. 176(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/b)
 
-[^key-13dda80a36306f8bc220352fcbf35068]: Commencement: Sch. 18 para. 5 not in force at Royal Assent, see [s. 176(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/b)
+[^c-13dda80a36306f8bc220352fcbf35068]: Commencement: Sch. 18 para. 5 not in force at Royal Assent, see [s. 176(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/b)
 
-[^key-1c018a0eeb28523ba62c862a234fbfe0]: Commencement: Sch. 18 para. 6 not in force at Royal Assent, see [s. 176(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/b)
+[^c-1c018a0eeb28523ba62c862a234fbfe0]: Commencement: Sch. 18 para. 6 not in force at Royal Assent, see [s. 176(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/b)
 
-[^key-61b5b07ed91bd84f2d73de0342d2263a]: Commencement: Sch. 18 para. 7 not in force at Royal Assent, see [s. 176(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/b)
+[^c-61b5b07ed91bd84f2d73de0342d2263a]: Commencement: Sch. 18 para. 7 not in force at Royal Assent, see [s. 176(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/b)
 
-[^key-a9c576ec730564cb255ba6a7d591fbea]: Commencement: Sch. 18 para. 8 not in force at Royal Assent, see [s. 176(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/b)
+[^c-a9c576ec730564cb255ba6a7d591fbea]: Commencement: Sch. 18 para. 8 not in force at Royal Assent, see [s. 176(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/b)
 
-[^key-7252127aeb8e4ad5210b030bbb67fe9b]: Commencement: Sch. 18 para. 9 not in force at Royal Assent, see [s. 176(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/b)
+[^c-7252127aeb8e4ad5210b030bbb67fe9b]: Commencement: Sch. 18 para. 9 not in force at Royal Assent, see [s. 176(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/b)

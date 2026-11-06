@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Consequential amendments to the Building (Local Authority Charges) Regulations 2010[^key-0872efc42a80cc4f3a17607ccb6f7561]
+## 39. Consequential amendments to the Building (Local Authority Charges) Regulations 2010[^c-0872efc42a80cc4f3a17607ccb6f7561]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0872efc42a80cc4f3a17607ccb6f7561]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2024/1268/regulation/39) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-0872efc42a80cc4f3a17607ccb6f7561]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2024/1268/regulation/39) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
 
 [^f00046]: Footnote: [S.I. 2010/404](https://www.legislation.gov.uk/uksi/2010/404). To which there are amendments not relevant to this instrument.

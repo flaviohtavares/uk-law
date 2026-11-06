@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Withdrawal of marine plans[^key-9ecd4f9d60a2c3d64f875ad2f187c35d]
+## 9. Withdrawal of marine plans[^c-9ecd4f9d60a2c3d64f875ad2f187c35d]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ecd4f9d60a2c3d64f875ad2f187c35d]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2010/5/section/9) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)
+[^c-9ecd4f9d60a2c3d64f875ad2f187c35d]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2010/5/section/9) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)

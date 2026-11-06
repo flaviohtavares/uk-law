@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Protection of prohibitions, restrictions and data subject’s rights[^key-2ca6cdee35588c135b69abcf93bb3452][^key-50ffb1a3579043e19c552cf176811d3d]
+## 106. Protection of prohibitions, restrictions and data subject’s rights[^c-2ca6cdee35588c135b69abcf93bb3452][^c-50ffb1a3579043e19c552cf176811d3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -119,6 +119,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2ca6cdee35588c135b69abcf93bb3452]: Commencement: S. 106 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-2ca6cdee35588c135b69abcf93bb3452]: Commencement: S. 106 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-50ffb1a3579043e19c552cf176811d3d]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2025/18/section/106) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/k)
+[^c-50ffb1a3579043e19c552cf176811d3d]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2025/18/section/106) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/k)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 137. Administrator deceased[^key-d7024f9011bcbad3b6379fb15d06b877]
+## 137. Administrator deceased[^c-d7024f9011bcbad3b6379fb15d06b877]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7024f9011bcbad3b6379fb15d06b877]: Commencement: Rule 137 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-d7024f9011bcbad3b6379fb15d06b877]: Commencement: Rule 137 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

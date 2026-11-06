@@ -45,13 +45,13 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001], and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation, application and commencement[^key-b0226cfad24cb5559998ba08fdd9ca85]
+## 1. Citation, application and commencement[^c-b0226cfad24cb5559998ba08fdd9ca85]
 
 (1) These Regulations may be cited as the Horse Passports (Scotland) Regulations 2005 and shall come into force on 16th May 2005.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Interpretation[^key-d578816c4664eda3e7a15d2917b778dd]
+## 2. Interpretation[^c-d578816c4664eda3e7a15d2917b778dd]
 
 In these Regulations–
 
@@ -66,7 +66,7 @@ In these Regulations–
 - “passport-issuing organisation” has the meaning given to that term in regulation 3; and
 - “sell” includes any transfer of ownership, and “sale” shall be construed accordingly.
 
-## 3. Organisations authorised to issue passports[^key-b183cb4f3d097f0287635ed5fa7f6804]
+## 3. Organisations authorised to issue passports[^c-b183cb4f3d097f0287635ed5fa7f6804]
 
 The following organisations are authorised to issue passports (and any such organisation is referred to in these Regulations as a “passport issuing organisation”)–
 
@@ -76,7 +76,7 @@ The following organisations are authorised to issue passports (and any such orga
   - (ii) Commission Decision [2000/68/EC](https://www.legislation.gov.uk/european/decision/2000/0068) (amending Commission Decision [93/623/EEC](https://www.legislation.gov.uk/european/decision/1993/0623) and establishing the identification of equidae for breeding and production[^f00005]); and
 - (c) international associations or organisations which manage or regulate horses for competition or racing and which are registered with the Scottish Ministers under regulation 4.
 
-## 4. International associations or organisations[^key-c357e700b79cb9634553e6d4eea7c816]
+## 4. International associations or organisations[^c-c357e700b79cb9634553e6d4eea7c816]
 
 (1) Any international association or organisation which intends to manage or regulate horses for competition or racing in Scotland shall register with the Scottish Ministers under these Regulations before it does so.
 
@@ -86,7 +86,7 @@ The following organisations are authorised to issue passports (and any such orga
 
 (4) The Scottish Ministers may refuse to register any international association or organisation which seeks registration under paragraph (1), or may withdraw registration from an international association or organisation registered or deemed to be registered under paragraph (2) or (3), and if the Scottish Ministers so refuse or withdraw registration the refusal or withdrawal, and the reasons for it, shall be given in writing.
 
-## 5. Powers and duties of passport-issuing organisation[^key-b3e95982f2d1280b0b7976cc807fcda5]
+## 5. Powers and duties of passport-issuing organisation[^c-b3e95982f2d1280b0b7976cc807fcda5]
 
 (1) The passport-issuing organisation is “the competent authority” for the purposes of the passport.
 
@@ -97,7 +97,7 @@ The following organisations are authorised to issue passports (and any such orga
 
 (3) When a passport is returned because a horse has died, the passport issuing organisation shall mark the passport accordingly but may then return it to the owner if permitted by its rules.
 
-## 6. Records[^key-141c907aa087ce12f361dc111021dec3]
+## 6. Records[^c-141c907aa087ce12f361dc111021dec3]
 
 (1) A passport-issuing organisation shall maintain records of–
 
@@ -109,7 +109,7 @@ The following organisations are authorised to issue passports (and any such orga
 
 (3) A passport-issuing organisation shall supply to the Scottish Ministers information from its records in such form and at such intervals as they may require by notice in writing.
 
-## 7. Application for a passport[^key-3e22d7d00da01372891a85aa4779000c]
+## 7. Application for a passport[^c-3e22d7d00da01372891a85aa4779000c]
 
 (1) An application for a passport shall–
 
@@ -122,13 +122,13 @@ The following organisations are authorised to issue passports (and any such orga
 - (a) for a replacement passport in terms of regulation 16; or
 - (b) for another passport in terms of regulation 22.
 
-## 8. Time limits for obtaining a passport[^key-5ec3b0875c3650f46eaea8164fcbe048]
+## 8. Time limits for obtaining a passport[^c-5ec3b0875c3650f46eaea8164fcbe048]
 
 (1) The owner of a horse which was born before 16th May 2005 who does not already have a passport for that horse shall apply for a passport for it before 16th June 2005.
 
 (2) The owner of a horse born on or after 16th May 2005 shall obtain a passport for it on or before 31st December of the year of its birth, or by six months after its birth, whichever is the later.
 
-## 9. Issue of a passport[^key-99d5c765a37626124866b515b33c2542]
+## 9. Issue of a passport[^c-99d5c765a37626124866b515b33c2542]
 
 (1) On an application for a passport, and provided all its requirements are complied with, the passport-issuing organisation shall issue a passport.
 
@@ -138,7 +138,7 @@ The following organisations are authorised to issue passports (and any such orga
 
 (4) In any other case the passport shall contain at least Sections I to IV and IX but may contain more Sections or all the Sections specified in Part II of Schedule 1.
 
-## 10. Section IX pages for existing passports[^key-becb07421a9b2336d3f12fe481015376]
+## 10. Section IX pages for existing passports[^c-becb07421a9b2336d3f12fe481015376]
 
 (1) In the case of a horse born before 16th May 2005 which already has an identification document issued by a passport-issuing organisation containing all the information required by regulation 9(3) or 9(4) except for the Section IX pages, a passport may consist of that identification document together with the Section IX pages obtained by the owner from a passport-issuing organisation, provided that the owner–
 
@@ -149,19 +149,19 @@ The following organisations are authorised to issue passports (and any such orga
 
 (3) The Section IX pages issued by a passport-issuing organisation shall contain the same number or alphanumeric code as in Section II of the original identification document.
 
-## 11. Identification[^key-bd262fff20ebf06c9c9ea4c39298e2f9]
+## 11. Identification[^c-bd262fff20ebf06c9c9ea4c39298e2f9]
 
 (1) The passport-issuing organisation when issuing a passport shall identify the horse with a number or alphanumeric code not previously used by that organisation.
 
 (2) It shall record the number or alphanumeric code in Section II of the passport.
 
-## 12. Language of passports[^key-ed76e5ed5079f332940cd795e7499597]
+## 12. Language of passports[^c-ed76e5ed5079f332940cd795e7499597]
 
 (1) All passports issued in Scotland shall be in English and French, except that Section IX may be in English only.
 
 (2) A passport or any part of it may notwithstanding the requirements of paragraph (1) incorporate a translation into such other language or languages as the organisation or association thinks fit.
 
-## 13. Horses entering Scotland[^key-8bebfb029f172e503343ff9d4ea0f911]
+## 13. Horses entering Scotland[^c-8bebfb029f172e503343ff9d4ea0f911]
 
 (1) The owner (or, in the case of an owner living outside Scotland, the keeper) of a horse brought into Scotland without a passport (or with a document which would be a passport but for the fact that it does not contain Section IX pages) shall apply for a passport or Section IX pages within 30 days of the horse being brought into Scotland.
 
@@ -169,7 +169,7 @@ The following organisations are authorised to issue passports (and any such orga
 
 (3) This regulation shall not apply in relation to a horse which remains in Scotland for less than 30 days.
 
-## 14. Declaration concerning slaughter[^key-f54fb31ffa05182f8f850c60968a342d]
+## 14. Declaration concerning slaughter[^c-f54fb31ffa05182f8f850c60968a342d]
 
 Where a passport has been issued for a horse, the owner of the horse shall sign the declaration in Section IX of the passport concerning whether or not a horse is intended for slaughter for human consumption–
 
@@ -178,7 +178,7 @@ Where a passport has been issued for a horse, the owner of the horse shall sign 
 - (c) before the horse is consigned for human consumption (in which case the declaration must state that the horse is intended for slaughter for human consumption); and
 - (d) before any veterinary medicinal product containing a substance specified in Annex IV to Council Regulation [(EEC) No. 2377/90](https://www.legislation.gov.uk/european/regulation/1990/2377) (laying down a Community procedure for the establishment of maximum residue limits of veterinary medicinal products in foodstuffs of animal origin[^f00008]) is administered to a horse (in which case the declaration must state that the horse is not intended for human consumption).
 
-## 15. Prohibitions[^key-eee392acbb904ce1524749cb74587416]
+## 15. Prohibitions[^c-eee392acbb904ce1524749cb74587416]
 
 (1) No person other than a passport issuing organisation acting in the course of its duties shall without lawful authority–
 
@@ -190,7 +190,7 @@ Where a passport has been issued for a horse, the owner of the horse shall sign 
 
 (2) No person shall without lawful authority possess a passport which that person knows to be false.
 
-## 16. Replacement of a lost or damaged passport[^key-1f908e7c58abccdd8c46c322b52de8f5]
+## 16. Replacement of a lost or damaged passport[^c-1f908e7c58abccdd8c46c322b52de8f5]
 
 (1) Where a passport has been lost or damaged the owner of the horse shall apply for a replacement passport for that horse–
 
@@ -204,7 +204,7 @@ Where a passport has been issued for a horse, the owner of the horse shall sign 
 - (a) if all the original information in the Section IX of the passport is legible the replacement passport shall repeat that information;
 - (b) if any information in Section IX of the passport is illegible the owner shall indicate in the replacement passport that the horse is not intended for slaughter for human consumption by completing Part II of that Section.
 
-## 17. Restrictions on the movement of horses without passports[^key-95f6a4791e1404fc71680f3ed0a4a3d3]
+## 17. Restrictions on the movement of horses without passports[^c-95f6a4791e1404fc71680f3ed0a4a3d3]
 
 On or after 16th August 2005, no person shall move a horse–
 
@@ -215,7 +215,7 @@ On or after 16th August 2005, no person shall move a horse–
 
 unless the horse is accompanied by its passport.
 
-## 18. Requirements on persons administering veterinary medicinal products[^key-1fea4430e084855bce6723fd4f651f94]
+## 18. Requirements on persons administering veterinary medicinal products[^c-1fea4430e084855bce6723fd4f651f94]
 
 (1) Where a veterinary medicinal product is to be administered to a horse, the owner or keeper shall show the passport to the person administering it.
 
@@ -235,7 +235,7 @@ unless the horse is accompanied by its passport.
 - (a) keep the written record of treatment administered with the passport; and
 - (b) if a veterinary medicinal medicinal product containing a substance specified in Annex IV to Council Regulation [(EEC) No. 2377/90](https://www.legislation.gov.uk/european/regulation/1990/2377) has been administered to the horse, sign the declaration in the passport that the horse is not intended for slaughter for human consumption.
 
-## 19. Duties on owners[^key-cdbefad97fbd5631513b97fc666f1da3]
+## 19. Duties on owners[^c-cdbefad97fbd5631513b97fc666f1da3]
 
 On or after 16th August 2005–
 
@@ -245,15 +245,15 @@ On or after 16th August 2005–
 - (d) a person in possession of a passport shall produce it on reasonable demand to the passport-issuing organisation that issued it, and shall surrender it on reasonable demand to that organisation; and
 - (e) an owner of a horse that dies other than at a slaughterhouse shall send the passport to the passport-issuing organisation which issued it within 30 days of the death.
 
-## 20. Duties on the occupiers of slaughterhouses[^key-a807dfaa84b81dedede7b9eb1d19ea6f]
+## 20. Duties on the occupiers of slaughterhouses[^c-a807dfaa84b81dedede7b9eb1d19ea6f]
 
 If a horse is slaughtered in a slaughterhouse on or after 16th August 2005, the occupier of the slaughterhouse shall make copies of Sections II and IX of the passport, retain those copies for one year, and send the passport to the passport-issuing organisation which issued it within 30 days of slaughter.
 
-## 21. Slaughter for human consumption[^key-415b8f9f7e366b266645857268012c88]
+## 21. Slaughter for human consumption[^c-415b8f9f7e366b266645857268012c88]
 
 On or after 16th August 2005 no person shall slaughter a horse for human consumption unless it is accompanied by its passport and the declaration in Section IX of the passport shows that the animal is intended for slaughter for human consumption.
 
-## 22. Withdrawal of recognition[^key-152d2af271948695d146f5b20bccab81]
+## 22. Withdrawal of recognition[^c-152d2af271948695d146f5b20bccab81]
 
 (1) Where a recognised organisation has its recognition withdrawn in terms of regulation 3 of the Horses (Zootechnical Standards) Regulations 1992[^f00010], or an international organisation or association has its registration withdrawn in terms of regulation 4(4) of these Regulations, any passport issued by it shall no longer be of any force and effect, except in so far as provided in paragraph (3).
 
@@ -261,7 +261,7 @@ On or after 16th August 2005 no person shall slaughter a horse for human consump
 
 (3) Until the application made in terms of paragraph (2) has been determined, the passport issued for that horse shall, if it complies with the provisions of these Regulations, continue to be of full force and effect.
 
-## 23. Powers of inspectors[^key-eb0570ff535c7a3e2eb9c4d27e38710f]
+## 23. Powers of inspectors[^c-eb0570ff535c7a3e2eb9c4d27e38710f]
 
 (1) An inspector shall, on producing a duly authenticated document showing that inspector’s authority, have a right at all reasonable hours, to enter any premises (excluding any premises not containing any horse and used only as a dwelling) for the purpose of administering and enforcing these Regulations; and in this regulation “premises” includes any vehicle or container.
 
@@ -282,7 +282,7 @@ On or after 16th August 2005 no person shall slaughter a horse for human consump
 
 (5) In this regulation “inspector” means a person appointed as such by a local authority or the Scottish Ministers for the purposes of enforcement of these Regulations.
 
-## 24. Obstruction[^key-c4733043092d0306de7b4e1dbcc90ef3]
+## 24. Obstruction[^c-c4733043092d0306de7b4e1dbcc90ef3]
 
 No person shall–
 
@@ -291,7 +291,7 @@ No person shall–
 - (c) knowingly furnish to any person acting in the execution of these Regulations any information which is false or misleading; or
 - (d) fail to produce a record when required to do so to any person acting in the execution of these Regulations.
 
-## 25. Offences[^key-e0eec55df26f80afd99ac095cf2905de]
+## 25. Offences[^c-e0eec55df26f80afd99ac095cf2905de]
 
 (1) It shall be an offence for any person or organisation to fail to comply with the provisions of these Regulations.
 
@@ -309,20 +309,20 @@ that director, manager, secretary or officer, as well as the body corporate, sha
 
 (4) Where an organisation which is not a body corporate is guilty of an offence under these Regulations, and that offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of any officer of that organisation, that officer, as well as the organisation, shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
-## 26. Penalties[^key-4ac0fb527e6eaf3b5fdea54e8eca5358]
+## 26. Penalties[^c-4ac0fb527e6eaf3b5fdea54e8eca5358]
 
 A person guilty of an offence under these Regulations shall be liable–
 
 - (a) on summary conviction, to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding three months or both; or
 - (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or both.
 
-## 27. Enforcement[^key-dd2cd6f150e89d11869c4690457b90a5]
+## 27. Enforcement[^c-dd2cd6f150e89d11869c4690457b90a5]
 
 (1) These Regulations shall be enforced by the local authority.
 
 (2) The Scottish Ministers may direct, in relation to cases of a particular description or any particular case, that an enforcement duty imposed on a local authority by this regulation shall be discharged by the Scottish Ministers and not by the local authority.
 
-## 28. Revocations and transitionals[^key-8e63d129f1bfbaf32bb9041e2e216c53]
+## 28. Revocations and transitionals[^c-8e63d129f1bfbaf32bb9041e2e216c53]
 
 (1) Subject to paragraph (2), the Horse Passports Order 1997[^f00011] and the Horse Passports (Amendment) Order 1998[^f00012] are hereby revoked.
 
@@ -340,7 +340,7 @@ St Andrew’s House, Edinburgh
 
 Regulation 9
 
-### PART I — GENERAL INSTRUCTIONS[^key-caa96c41f451845b774838290236fb31]
+### PART I — GENERAL INSTRUCTIONS[^c-caa96c41f451845b774838290236fb31]
 
 A passport must contain all instructions needed for its use and details of the competent authority which issued it.
 
@@ -348,39 +348,39 @@ A passport must contain all instructions needed for its use and details of the c
 
 A passport must consist of the following numbered sections containing, where appropriate, the information specified.
 
-**1.**[^key-a07fa00650d128a476d0ed7afe4a031d] Section I:
+**1.**[^c-a07fa00650d128a476d0ed7afe4a031d] Section I:
 
 - Owner.
 - The name of the owner must be stated.
 
-**2.**[^key-c3a2a762aa4e81200d24c78359e99f6c] Sections II and III:
+**2.**[^c-c3a2a762aa4e81200d24c78359e99f6c] Sections II and III:
 
 - Identification.
 - The equid must be identified by the competent authority.
 
-**3.**[^key-d3dcb1ba04485ad8cc6d6277b892f00b] Section IV:
+**3.**[^c-d3dcb1ba04485ad8cc6d6277b892f00b] Section IV:
 
 - Recording of identity checks.
 - Whenever laws and regulations so require, checks conducted on the identity of the equid must be recorded by the competent authority.
 
-**4.**[^key-7b6a65ce156b7ed1e484ed03a7c566d9] Sections V and VI:
+**4.**[^c-7b6a65ce156b7ed1e484ed03a7c566d9] Sections V and VI:
 
 - Vaccination record.
 - All vaccinations must be recorded in Section V (equine influenza only) and in Section VI (all other vaccinations).
 
-**5.**[^key-0da0dc9bef4a954aeea7154fbe9e64cd] Section VII:
+**5.**[^c-0da0dc9bef4a954aeea7154fbe9e64cd] Section VII:
 
 - Laboratory health tests.
 - The results of all tests carried out to detect transmissible diseases must be recorded.
 
-**6.**[^key-05a35d55748e537f79e488fbd8fedf83] Section IX:
+**6.**[^c-05a35d55748e537f79e488fbd8fedf83] Section IX:
 
 - Medicinal treatment.
 - Part I and either Part II or Part IIIA of Section IX must be duly completed specifying whether the equid is intended for human consumption.
 
 A passport may contain a further section, numbered Section VIII, containing the information specified.
 
-**7.**[^key-9771c2e66580befb1891ec54d8def301] Section VIII:
+**7.**[^c-9771c2e66580befb1891ec54d8def301] Section VIII:
 
 - Basic health requirements.
 - Section VIII should state the basic health requirements, and list the diseases for which an endorsement must be made on the health certificate attached to the passport, as follows–
@@ -393,7 +393,7 @@ A passport may contain a further section, numbered Section VIII, containing the 
   - (vii) Rabies.
   - (viii) Anthrax.
 
-## SCHEDULE 2 — FORMAT OF PASSPORTS[^key-ed9fbb8f7c29bb513a463bab7102c5c4]
+## SCHEDULE 2 — FORMAT OF PASSPORTS[^c-ed9fbb8f7c29bb513a463bab7102c5c4]
 
 Regulation 9(2)
 
@@ -476,13 +476,13 @@ A Regulatory Impact Assessment has been prepared and placed in the Scottish Parl
 
 [^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8, paragraph 15(3). The functions conferred upon the Minister of the Crown under section 2(2) of the European Communities Act 1972, insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
 
-[^key-b0226cfad24cb5559998ba08fdd9ca85]: Commencement: Reg. 1 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-b0226cfad24cb5559998ba08fdd9ca85]: Commencement: Reg. 1 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
-[^key-d578816c4664eda3e7a15d2917b778dd]: Commencement: Reg. 2 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-d578816c4664eda3e7a15d2917b778dd]: Commencement: Reg. 2 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
 [^f00002]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-b183cb4f3d097f0287635ed5fa7f6804]: Commencement: Reg. 3 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-b183cb4f3d097f0287635ed5fa7f6804]: Commencement: Reg. 3 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
 [^f00003]: Footnote: S.I. [1992/3045](https://www.legislation.gov.uk/uksi/1992/3045).
 
@@ -490,84 +490,84 @@ A Regulatory Impact Assessment has been prepared and placed in the Scottish Parl
 
 [^f00005]: Footnote: O.J. No. L 23, 28.1.00, p.72.
 
-[^key-c357e700b79cb9634553e6d4eea7c816]: Commencement: Reg. 4 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-c357e700b79cb9634553e6d4eea7c816]: Commencement: Reg. 4 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
 [^f00006]: Footnote: S.I. [1997/2789](https://www.legislation.gov.uk/uksi/1997/2789).
 
-[^key-b3e95982f2d1280b0b7976cc807fcda5]: Commencement: Reg. 5 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-b3e95982f2d1280b0b7976cc807fcda5]: Commencement: Reg. 5 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
-[^key-141c907aa087ce12f361dc111021dec3]: Commencement: Reg. 6 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-141c907aa087ce12f361dc111021dec3]: Commencement: Reg. 6 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
-[^key-3e22d7d00da01372891a85aa4779000c]: Commencement: Reg. 7 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-3e22d7d00da01372891a85aa4779000c]: Commencement: Reg. 7 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
-[^key-5ec3b0875c3650f46eaea8164fcbe048]: Commencement: Reg. 8 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-5ec3b0875c3650f46eaea8164fcbe048]: Commencement: Reg. 8 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
-[^key-99d5c765a37626124866b515b33c2542]: Commencement: Reg. 9 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-99d5c765a37626124866b515b33c2542]: Commencement: Reg. 9 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
 [^f00007]: Footnote: O.J. No. L 224, 18.9.90. p.42.
 
-[^key-becb07421a9b2336d3f12fe481015376]: Commencement: Reg. 10 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-becb07421a9b2336d3f12fe481015376]: Commencement: Reg. 10 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
-[^key-bd262fff20ebf06c9c9ea4c39298e2f9]: Commencement: Reg. 11 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-bd262fff20ebf06c9c9ea4c39298e2f9]: Commencement: Reg. 11 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
-[^key-ed76e5ed5079f332940cd795e7499597]: Commencement: Reg. 12 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-ed76e5ed5079f332940cd795e7499597]: Commencement: Reg. 12 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
-[^key-8bebfb029f172e503343ff9d4ea0f911]: Commencement: Reg. 13 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-8bebfb029f172e503343ff9d4ea0f911]: Commencement: Reg. 13 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
-[^key-f54fb31ffa05182f8f850c60968a342d]: Commencement: Reg. 14 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-f54fb31ffa05182f8f850c60968a342d]: Commencement: Reg. 14 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
 [^f00008]: Footnote: O.J. No. L 224, 18.8.1990, p.1 as last amended by Commission Regulation [(EC) No. 324/2004](https://www.legislation.gov.uk/european/regulation/2004/0324), O.J. No. L 58, 26.2.2004, p.16.
 
-[^key-eee392acbb904ce1524749cb74587416]: Commencement: Reg. 15 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-eee392acbb904ce1524749cb74587416]: Commencement: Reg. 15 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
-[^key-1f908e7c58abccdd8c46c322b52de8f5]: Commencement: Reg. 16 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-1f908e7c58abccdd8c46c322b52de8f5]: Commencement: Reg. 16 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
-[^key-95f6a4791e1404fc71680f3ed0a4a3d3]: Commencement: Reg. 17 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-95f6a4791e1404fc71680f3ed0a4a3d3]: Commencement: Reg. 17 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
-[^key-1fea4430e084855bce6723fd4f651f94]: Commencement: Reg. 18 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-1fea4430e084855bce6723fd4f651f94]: Commencement: Reg. 18 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
 [^f00009]: Footnote: A list of veterinary medicinal products authorised for administration to horses and listing the active substances under the product name is available on the website of the Veterinary Medicines Directorate, www.vmd.gov.uk.
 
-[^key-cdbefad97fbd5631513b97fc666f1da3]: Commencement: Reg. 19 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-cdbefad97fbd5631513b97fc666f1da3]: Commencement: Reg. 19 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
-[^key-a807dfaa84b81dedede7b9eb1d19ea6f]: Commencement: Reg. 20 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-a807dfaa84b81dedede7b9eb1d19ea6f]: Commencement: Reg. 20 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
-[^key-415b8f9f7e366b266645857268012c88]: Commencement: Reg. 21 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-415b8f9f7e366b266645857268012c88]: Commencement: Reg. 21 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
-[^key-152d2af271948695d146f5b20bccab81]: Commencement: Reg. 22 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-152d2af271948695d146f5b20bccab81]: Commencement: Reg. 22 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
 [^f00010]: Footnote: S.I. [1992/3045](https://www.legislation.gov.uk/uksi/1992/3045).
 
-[^key-eb0570ff535c7a3e2eb9c4d27e38710f]: Commencement: Reg. 23 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-eb0570ff535c7a3e2eb9c4d27e38710f]: Commencement: Reg. 23 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
-[^key-c4733043092d0306de7b4e1dbcc90ef3]: Commencement: Reg. 24 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-c4733043092d0306de7b4e1dbcc90ef3]: Commencement: Reg. 24 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
-[^key-e0eec55df26f80afd99ac095cf2905de]: Commencement: Reg. 25 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-e0eec55df26f80afd99ac095cf2905de]: Commencement: Reg. 25 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
-[^key-4ac0fb527e6eaf3b5fdea54e8eca5358]: Commencement: Reg. 26 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-4ac0fb527e6eaf3b5fdea54e8eca5358]: Commencement: Reg. 26 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
-[^key-dd2cd6f150e89d11869c4690457b90a5]: Commencement: Reg. 27 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-dd2cd6f150e89d11869c4690457b90a5]: Commencement: Reg. 27 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
-[^key-8e63d129f1bfbaf32bb9041e2e216c53]: Commencement: Reg. 28 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-8e63d129f1bfbaf32bb9041e2e216c53]: Commencement: Reg. 28 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
 [^f00011]: Footnote: S.I. [1997/2789](https://www.legislation.gov.uk/uksi/1997/2789).
 
 [^f00012]: Footnote: S.I. [1998/2367](https://www.legislation.gov.uk/uksi/1998/2367).
 
-[^key-caa96c41f451845b774838290236fb31]: Commencement: Sch. 1 Pt. I in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-caa96c41f451845b774838290236fb31]: Commencement: Sch. 1 Pt. I in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
-[^key-a07fa00650d128a476d0ed7afe4a031d]: Commencement: Sch. 1 para. 1 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-a07fa00650d128a476d0ed7afe4a031d]: Commencement: Sch. 1 para. 1 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
-[^key-c3a2a762aa4e81200d24c78359e99f6c]: Commencement: Sch. 1 para. 2 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-c3a2a762aa4e81200d24c78359e99f6c]: Commencement: Sch. 1 para. 2 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
-[^key-d3dcb1ba04485ad8cc6d6277b892f00b]: Commencement: Sch. 1 para. 3 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-d3dcb1ba04485ad8cc6d6277b892f00b]: Commencement: Sch. 1 para. 3 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
-[^key-7b6a65ce156b7ed1e484ed03a7c566d9]: Commencement: Sch. 1 para. 4 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-7b6a65ce156b7ed1e484ed03a7c566d9]: Commencement: Sch. 1 para. 4 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
-[^key-0da0dc9bef4a954aeea7154fbe9e64cd]: Commencement: Sch. 1 para. 5 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-0da0dc9bef4a954aeea7154fbe9e64cd]: Commencement: Sch. 1 para. 5 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
-[^key-05a35d55748e537f79e488fbd8fedf83]: Commencement: Sch. 1 para. 6 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-05a35d55748e537f79e488fbd8fedf83]: Commencement: Sch. 1 para. 6 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
-[^key-9771c2e66580befb1891ec54d8def301]: Commencement: Sch. 1 para. 7 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-9771c2e66580befb1891ec54d8def301]: Commencement: Sch. 1 para. 7 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
 
-[^key-ed9fbb8f7c29bb513a463bab7102c5c4]: Commencement: Sch. 2 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)
+[^c-ed9fbb8f7c29bb513a463bab7102c5c4]: Commencement: Sch. 2 in force at 16.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/223/regulation/1/1)

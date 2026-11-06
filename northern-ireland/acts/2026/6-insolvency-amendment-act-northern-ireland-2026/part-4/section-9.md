@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Ability for creditors to opt not to receive certain notices: company insolvency[^key-2144279510b97953182e221922c866c8]
+## 9. Ability for creditors to opt not to receive certain notices: company insolvency[^c-2144279510b97953182e221922c866c8]
 
 *Extent: N.I.*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2144279510b97953182e221922c866c8]: Commencement: S. 9 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-2144279510b97953182e221922c866c8]: Commencement: S. 9 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

@@ -33,46 +33,46 @@ of 31 May 2016
 
 on implementing rules for standard security measures, alert states and management of crisis situations in the Commission pursuant to Article 21 of Decision (EU, Euratom) 2015/443 on security in the Commission (revoked)
 
-[^key-69c21714ab2659293eb1fcb7a8a165a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-69c21714ab2659293eb1fcb7a8a165a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER 1 — GENERAL PROVISIONS[^key-69c21714ab2659293eb1fcb7a8a165a4]
+## CHAPTER 1 — GENERAL PROVISIONS[^c-69c21714ab2659293eb1fcb7a8a165a4]
 
-### Article 1. Definition[^key-69c21714ab2659293eb1fcb7a8a165a4]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 2. Subject matter and scope[^key-69c21714ab2659293eb1fcb7a8a165a4]
+### Article 1. Definition[^c-69c21714ab2659293eb1fcb7a8a165a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 3. Alert state levels[^key-69c21714ab2659293eb1fcb7a8a165a4]
+### Article 2. Subject matter and scope[^c-69c21714ab2659293eb1fcb7a8a165a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 4. Responsibilities[^key-69c21714ab2659293eb1fcb7a8a165a4]
+### Article 3. Alert state levels[^c-69c21714ab2659293eb1fcb7a8a165a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 5. Measures[^key-69c21714ab2659293eb1fcb7a8a165a4]
+### Article 4. Responsibilities[^c-69c21714ab2659293eb1fcb7a8a165a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER 2 — MISCELLANEOUS AND FINAL PROVISIONS[^key-69c21714ab2659293eb1fcb7a8a165a4]
-
-### Article 6. Transparency[^key-69c21714ab2659293eb1fcb7a8a165a4]
+### Article 5. Measures[^c-69c21714ab2659293eb1fcb7a8a165a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Repeal[^key-69c21714ab2659293eb1fcb7a8a165a4]
+## CHAPTER 2 — MISCELLANEOUS AND FINAL PROVISIONS[^c-69c21714ab2659293eb1fcb7a8a165a4]
+
+### Article 6. Transparency[^c-69c21714ab2659293eb1fcb7a8a165a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Entry into force[^key-69c21714ab2659293eb1fcb7a8a165a4]
+### Article 7. Repeal[^c-69c21714ab2659293eb1fcb7a8a165a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-69c21714ab2659293eb1fcb7a8a165a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Article 8. Entry into force[^c-69c21714ab2659293eb1fcb7a8a165a4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-69c21714ab2659293eb1fcb7a8a165a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-69c21714ab2659293eb1fcb7a8a165a4]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-69c21714ab2659293eb1fcb7a8a165a4]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

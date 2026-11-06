@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE — Forms[^key-24f68e0a6c5a462d17fe922cffc91fad][^M_F_013b0248-aec5-4614-9801-1f56960eb7e4][^M_C_9fe8eb91-2cf1-4ea0-bc9a-d1d18e77a374][^M_C_7ec56a31-6d86-4b55-e4c6-380068ee7755][^M_C_54ff1028-6b05-4b92-ebad-abcd7359aeba][^M_C_2b0328e0-c9e4-49e8-d4a2-aa84522fba0a][^M_C_96d4d612-6473-4db0-8e08-bac4236c7382][^M_C_8bfc9661-3bea-4b6d-f66a-b18b88bac82c][^M_C_33786075-d6ee-4c8d-f534-a9c011da8a45][^M_F_3f5f756e-43dd-432c-f2ae-e3e63c458330][^M_F_808c1971-532f-4ea2-bd56-25e623166110][^M_F_3ed14bb8-86f3-412f-f342-b49af4c10d08][^M_F_837d78b5-aa49-4560-d6e8-fec82b66bdad][^M_F_5550a3f8-0560-465a-a3a8-535b758bf7ea][^M_F_4160da93-91e6-4825-f0d2-334ec91e18cb][^M_F_e6d62b12-1ac2-4262-ee0e-3da17e15950a][^M_F_0714d77b-db9c-46e1-9b90-d0255d4161da][^M_F_b9bf1aa6-0e69-4081-b24c-a835bf94352c][^M_F_215aa569-0347-46a5-a625-554c869cb1c4][^M_F_26297a6b-9776-4b11-fa75-34414ca7ea55][^M_F_9e5fc208-2e21-451a-918a-0f6d055396db][^M_F_b9703154-9eb6-432e-a2cb-d93f2f0d0434][^M_F_5bc29ade-9c6b-46be-86fb-431fbda13d58][^M_F_6371e1fb-86c5-4471-a1b2-ef18034de566][^M_F_03894949-d3d8-4851-b43a-5a3bb84ba0a4][^M_F_6915cea4-1769-449f-defd-d7c3667bf9a0]
+## SCHEDULE — Forms[^c-24f68e0a6c5a462d17fe922cffc91fad][^M_F_013b0248-aec5-4614-9801-1f56960eb7e4][^M_C_9fe8eb91-2cf1-4ea0-bc9a-d1d18e77a374][^M_C_7ec56a31-6d86-4b55-e4c6-380068ee7755][^M_C_54ff1028-6b05-4b92-ebad-abcd7359aeba][^M_C_2b0328e0-c9e4-49e8-d4a2-aa84522fba0a][^M_C_96d4d612-6473-4db0-8e08-bac4236c7382][^M_C_8bfc9661-3bea-4b6d-f66a-b18b88bac82c][^M_C_33786075-d6ee-4c8d-f534-a9c011da8a45][^M_F_3f5f756e-43dd-432c-f2ae-e3e63c458330][^M_F_808c1971-532f-4ea2-bd56-25e623166110][^M_F_3ed14bb8-86f3-412f-f342-b49af4c10d08][^M_F_837d78b5-aa49-4560-d6e8-fec82b66bdad][^M_F_5550a3f8-0560-465a-a3a8-535b758bf7ea][^M_F_4160da93-91e6-4825-f0d2-334ec91e18cb][^M_F_e6d62b12-1ac2-4262-ee0e-3da17e15950a][^M_F_0714d77b-db9c-46e1-9b90-d0255d4161da][^M_F_b9bf1aa6-0e69-4081-b24c-a835bf94352c][^M_F_215aa569-0347-46a5-a625-554c869cb1c4][^M_F_26297a6b-9776-4b11-fa75-34414ca7ea55][^M_F_9e5fc208-2e21-451a-918a-0f6d055396db][^M_F_b9703154-9eb6-432e-a2cb-d93f2f0d0434][^M_F_5bc29ade-9c6b-46be-86fb-431fbda13d58][^M_F_6371e1fb-86c5-4471-a1b2-ef18034de566][^M_F_03894949-d3d8-4851-b43a-5a3bb84ba0a4][^M_F_6915cea4-1769-449f-defd-d7c3667bf9a0]
 
 *Extent: S*
 
@@ -26,7 +26,7 @@ Rule 95(1)
 
 ## Annotations
 
-[^key-24f68e0a6c5a462d17fe922cffc91fad]: Commencement: Sch. in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-24f68e0a6c5a462d17fe922cffc91fad]: Commencement: Sch. in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
 [^M_F_013b0248-aec5-4614-9801-1f56960eb7e4]: Textual amendment: Sch. Form PA1(S): words "Rule 6" and "Rule 66(1)" substituted for "Rule 5" and "Rule 65(1)" respectively by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(12)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/12)
 

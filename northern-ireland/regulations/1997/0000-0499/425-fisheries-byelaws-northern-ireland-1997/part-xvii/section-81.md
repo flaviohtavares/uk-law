@@ -20,10 +20,10 @@ summary: ''
 
 **Not yet in force.**
 
-**81.**[^key-d0cbcc97568282ce6e35f116e5e15189] (1) Subject to paragraph (2) the annual close season for the taking of coarse fish, except pollen, on Upper and Lower Lough Erne by means of single wall set nets, trammel nets or draft nets shall be from 17th March to 17th December, both dates inclusive, in each year.
+**81.**[^c-d0cbcc97568282ce6e35f116e5e15189] (1) Subject to paragraph (2) the annual close season for the taking of coarse fish, except pollen, on Upper and Lower Lough Erne by means of single wall set nets, trammel nets or draft nets shall be from 17th March to 17th December, both dates inclusive, in each year.
 
 (2) There shall be no annual close season for the taking of coarse fish by means of bait nets where such fish taken are for use solely as bait.
 
 ## Annotations
 
-[^key-d0cbcc97568282ce6e35f116e5e15189]: Commencement: S. 81 in operation at 1.11.1997, see byelaw 1
+[^c-d0cbcc97568282ce6e35f116e5e15189]: Commencement: S. 81 in operation at 1.11.1997, see byelaw 1

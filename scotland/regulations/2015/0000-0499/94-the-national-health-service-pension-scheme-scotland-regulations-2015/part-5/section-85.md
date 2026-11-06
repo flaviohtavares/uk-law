@@ -28,10 +28,10 @@ summary: ''
 
 (2) In paragraph (1), M is subject to a relevant increase if—
 
-- (a) where M is neither a practitioner nor a non-GP provider, M's pensionable earnings in the employment (or employments) is increased (disregarding any increase in pensionable earnings resulting from the member leaving a salary sacrifice arrangement)[^key-b09d71e92fd68f1970d84887404bae71] to more than 90% of M's pensionable earnings during the period of 12 months ending with the election day;
+- (a) where M is neither a practitioner nor a non-GP provider, M's pensionable earnings in the employment (or employments) is increased (disregarding any increase in pensionable earnings resulting from the member leaving a salary sacrifice arrangement)[^c-b09d71e92fd68f1970d84887404bae71] to more than 90% of M's pensionable earnings during the period of 12 months ending with the election day;
 - (b) where M is a practitioner or a non-GP provider, the level of M's engagement in the employment is increased to more than 90% of M's pre-change level.
 
-(3) The amount of M's pension mentioned in regulation 84(2)(a) and (b)[^key-dd9f3d0ed3d9194785d1a22943dfefa7] is abated to zero from the first pension day following the day on which the relevant increase occurred.
+(3) The amount of M's pension mentioned in regulation 84(2)(a) and (b)[^c-dd9f3d0ed3d9194785d1a22943dfefa7] is abated to zero from the first pension day following the day on which the relevant increase occurred.
 
 (4) If, during the period of 12 months beginning with the day following the election day, M enters further employment in which M is an active member—
 
@@ -59,6 +59,6 @@ N is the number of days in the period on which M was an active member.
 
 ## Annotations
 
-[^key-b09d71e92fd68f1970d84887404bae71]: Textual amendment: Words in [reg. 85(2)(a)](https://www.legislation.gov.uk/ssi/2015/94/regulation/85/2/a) inserted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [51(a)](https://www.legislation.gov.uk/ssi/2024/272/regulation/51/a)
+[^c-b09d71e92fd68f1970d84887404bae71]: Textual amendment: Words in [reg. 85(2)(a)](https://www.legislation.gov.uk/ssi/2015/94/regulation/85/2/a) inserted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [51(a)](https://www.legislation.gov.uk/ssi/2024/272/regulation/51/a)
 
-[^key-dd9f3d0ed3d9194785d1a22943dfefa7]: Textual amendment: Words in [reg. 85(3)](https://www.legislation.gov.uk/ssi/2015/94/regulation/85/3) inserted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [51(b)](https://www.legislation.gov.uk/ssi/2024/272/regulation/51/b)
+[^c-dd9f3d0ed3d9194785d1a22943dfefa7]: Textual amendment: Words in [reg. 85(3)](https://www.legislation.gov.uk/ssi/2015/94/regulation/85/3) inserted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [51(b)](https://www.legislation.gov.uk/ssi/2024/272/regulation/51/b)

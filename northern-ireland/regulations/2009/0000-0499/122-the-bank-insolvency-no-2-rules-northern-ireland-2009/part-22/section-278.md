@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 278. The Gazette[^key-2cb7becc367a1a148015e8faedeafcb9]
+## 278. The Gazette[^c-2cb7becc367a1a148015e8faedeafcb9]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 12.21 of the 1991 Rules.
 
 ## Annotations
 
-[^key-2cb7becc367a1a148015e8faedeafcb9]: Commencement: Rule 278 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-2cb7becc367a1a148015e8faedeafcb9]: Commencement: Rule 278 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

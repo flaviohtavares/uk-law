@@ -54,7 +54,7 @@ In accordance with Article 9 of that Order the Department has consulted with the
 
 (4) In these Regulations, where an expression is used in relation to provisions in the 2000 Regulations, the 2002 Regulations, the Benefits Regulations, the Administration Regulations, the Transitional Regulations 2009, the 2009 Scheme or the 2014 Regulations, those expressions are to be construed in accordance with the meaning given to those expressions in the provisions referred to, unless the context indicates otherwise.
 
-(5)[^key-57cf4d843cad416b953a697ff62895b6] In regulations 4A to 4T, a reference to actuarial guidance issued by the Department means guidance identified as such which is issued in accordance with regulation 2(3) of the 2014 Regulations.
+(5)[^c-57cf4d843cad416b953a697ff62895b6] In regulations 4A to 4T, a reference to actuarial guidance issued by the Department means guidance identified as such which is issued in accordance with regulation 2(3) of the 2014 Regulations.
 
 (6) Where these Regulations refer to the PSP Directions 2023, a reference to “scheme manager” in those Directions is to be read as “the Committee”.
 
@@ -79,9 +79,9 @@ In accordance with Article 9 of that Order the Department has consulted with the
 
 (5) But a retirement pension and any retirement grant payable to a member under paragraph (4) is subject to actuarial adjustment if it would have been subject to actuarial adjustment under the 2009 Scheme, irrespective of whether retirement pension under the Scheme payable at the same time is subject to actuarial adjustment.
 
-(6) Where a member who has not had a disqualifying break aggregates benefits from earlier Schemes with benefits from the Scheme, the benefits from the earlier Schemes are payable as final salary benefits or in the case of councillor members, career average pay benefits[^key-274406624e61c75874d72443e4d38351] .
+(6) Where a member who has not had a disqualifying break aggregates benefits from earlier Schemes with benefits from the Scheme, the benefits from the earlier Schemes are payable as final salary benefits or in the case of councillor members, career average pay benefits[^c-274406624e61c75874d72443e4d38351] .
 
-(6A)[^key-18a21c5e0c9e73ae28f6a4dc6129e71d] Notwithstanding paragraph (1)(a), where deferred benefits are aggregated in accordance with paragraph (6), the normal pension age in relation to deferred benefits in respect of membership that ceased before 1st October 2006, is age 65.
+(6A)[^c-18a21c5e0c9e73ae28f6a4dc6129e71d] Notwithstanding paragraph (1)(a), where deferred benefits are aggregated in accordance with paragraph (6), the normal pension age in relation to deferred benefits in respect of membership that ceased before 1st October 2006, is age 65.
 
 (7) A disqualifying break for the purposes of paragraph (6) is a continuous break in active membership of a public service pension scheme of more than five years.
 
@@ -95,11 +95,11 @@ In accordance with Article 9 of that Order the Department has consulted with the
 
 (12) Any guidance issued by the Government Actuary in accordance with any provision in the former regulations is to be treated as actuarial guidance issued by the Department as defined in Schedule 1 to the 2014 Regulations and any reference to guidance issued by the Government Actuary in the former regulations is to be construed as a reference to actuarial guidance issued by the Department.
 
-(13) Regulations 66 and 67[^key-1fad9a470ace7f7232fed5b1436a4a1e] (abatement) of the Administration Regulations continue to have effect in relation to pensions in payment deriving from the earlier Schemes regardless of when payment of those pensions commenced.
+(13) Regulations 66 and 67[^c-1fad9a470ace7f7232fed5b1436a4a1e] (abatement) of the Administration Regulations continue to have effect in relation to pensions in payment deriving from the earlier Schemes regardless of when payment of those pensions commenced.
 
 (14) In these Regulations, where final pay is to be calculated in accordance with regulation 8 to 11 (calculation of final pay) of the Benefits Regulations if a certificate has been issued under regulation 24 (permanent reductions in pay: certificates of protection of pension benefits) of the 2002 Regulations, that certificate continues to have effect as if regulation 24 were still in operation.
 
-(15)[^key-bf55dc24c231bedc06d427c1643927f5] Where final pay is to be calculated for any qualifying members or newly qualifying members or the Agreement No. 2 qualifying member, in accordance with regulation 8(3) (final pay: general) of the Benefits Regulations, that calculation is completed as if regulations 10 (length of period of membership: calculation of benefit), 19 (calculations) and 22 (final pay) of the 2002 Regulations continue to have effect.
+(15)[^c-bf55dc24c231bedc06d427c1643927f5] Where final pay is to be calculated for any qualifying members or newly qualifying members or the Agreement No. 2 qualifying member, in accordance with regulation 8(3) (final pay: general) of the Benefits Regulations, that calculation is completed as if regulations 10 (length of period of membership: calculation of benefit), 19 (calculations) and 22 (final pay) of the 2002 Regulations continue to have effect.
 
 (16) In this Regulation—
 
@@ -109,11 +109,11 @@ In accordance with Article 9 of that Order the Department has consulted with the
 - “the Agreement No. 2” means the Collective Agreement for the Joint Negotiating Council of the Education and Library Boards reached on 27th March 2015; and
 - “the Agreement No. 2 qualifying member” means a member who was party to the Agreement No. 2.
 
-## 4. Statutory underpin[^key-cb4b769a6e96cf2d0786565f9ee9da03]
+## 4. Statutory underpin[^c-cb4b769a6e96cf2d0786565f9ee9da03]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4A. Statutory underpin: general[^key-e83570f92ef71143cbbf4e19bcfb7e0c]
+## 4A. Statutory underpin: general[^c-e83570f92ef71143cbbf4e19bcfb7e0c]
 
 (1) Regulations 4B to 4T (provisions relating to the statutory underpin) apply in relation to an eligible member’s remediable service during the underpin period.
 
@@ -214,7 +214,7 @@ An eligible member’s underpin date, in relation to a pension account, is the e
 
 ## 4H. Statutory underpin: final underpin date
 
-(1)[^key-f1da10ea61ba6ec6f4cb17de4ba2a578] An eligible member’s final underpin date, in relation to a pension account, is the earliest of the following dates which occur either at the same time as, or after, an underpin date applicable to that pension account—
+(1)[^c-f1da10ea61ba6ec6f4cb17de4ba2a578] An eligible member’s final underpin date, in relation to a pension account, is the earliest of the following dates which occur either at the same time as, or after, an underpin date applicable to that pension account—
 
 - (a) the day before the date on which a pension under regulation 31(1), (3) or (5) of the 2014 Regulations (retirement pension) commences;
 - (b) where the eligible member elects to receive an immediate payment of all or part of the retirement pension under regulation 31(6) (flexible retirement) of the 2014 Regulations, the day before the date on which the eligible member’s reduced working hours or grade of employment begins;
@@ -228,7 +228,7 @@ An eligible member’s underpin date, in relation to a pension account, is the e
 
 (2) Where the eligible member has had a final underpin date by virtue of paragraph (1)(a), paragraph (1) subsequently applies as if for “the earliest of the following dates” there were substituted “the next occurring of the following dates”.
 
-## 4I. Statutory underpin: calculation of provisional assumed benefits[^key-4dc2e3edef643c48b7f8d15d93fad34d]
+## 4I. Statutory underpin: calculation of provisional assumed benefits[^c-4dc2e3edef643c48b7f8d15d93fad34d]
 
 (1) An eligible member’s “provisional assumed benefits” are calculated by assessing, at the eligible member’s underpin date, the benefits the eligible member would have been entitled to under the Scheme over the underpin period if—
 
@@ -291,7 +291,7 @@ An eligible member’s underpin date, in relation to a pension account, is the e
 
 (10) Paragraph (9) does not apply if there has been a continuous break in active membership of a public service pension scheme of more than five years since the remediable service was accrued.
 
-## 4J. Statutory underpin: calculation of the provisional underpin amount[^key-5e5671a80ba450008b97a168ae6542a2]
+## 4J. Statutory underpin: calculation of the provisional underpin amount[^c-5e5671a80ba450008b97a168ae6542a2]
 
 (1) The eligible member’s provisional underpin amount is calculated by assessing the benefits the eligible member would have been entitled to under the 2009 Scheme over the underpin period at the eligible member’s underpin date if—
 
@@ -563,7 +563,7 @@ The Committee may pay compensation to a person in respect of the Scheme under se
 - (b) the person's active membership ceases on 31st March 2015; and
 - (c) these Regulations apply to that person as if that person is not an active member immediately before 1st April 2015.
 
-(5)[^key-f144bc4225ed173c82f077d499770895] A person who was a deferred member of one of the earlier Schemes whose benefits under those Schemes have not come into payment and who becomes an active member of the Scheme by virtue of regulation 3(1) (active membership) of the 2014 Regulations without a disqualifying break, may choose, by notice in writing to the Committee to be treated as if he or she had become an active member of the Scheme by virtue of paragraph (1)—
+(5)[^c-f144bc4225ed173c82f077d499770895] A person who was a deferred member of one of the earlier Schemes whose benefits under those Schemes have not come into payment and who becomes an active member of the Scheme by virtue of regulation 3(1) (active membership) of the 2014 Regulations without a disqualifying break, may choose, by notice in writing to the Committee to be treated as if he or she had become an active member of the Scheme by virtue of paragraph (1)—
 
 - (a) within 12 months of becoming a member of the Scheme; or
 - (b) within such longer period as the employing authority permits.
@@ -576,7 +576,7 @@ The Committee may pay compensation to a person in respect of the Scheme under se
 
 (1) Any admission agreement entered into before 1st April 2015 continues to have effect after 31st March 2015 and employees of admission bodies designated before that date in accordance with an admission agreement as eligible for membership of the Local Government Pension Scheme are from 1st April 2015, subject to regulation 5(2) to (4) (membership of the Scheme), members of the Scheme by virtue of the agreement.
 
-(2) Any indemnity, bond or guarantee provided in respect of an admission agreement entered into before 1st April 2015 has effect in relation to any liabilities [^key-aef5d73b9db476b75d9580a115b7aedb]... incurred up to and including 1st April 2015 or after that date.
+(2) Any indemnity, bond or guarantee provided in respect of an admission agreement entered into before 1st April 2015 has effect in relation to any liabilities [^c-aef5d73b9db476b75d9580a115b7aedb]... incurred up to and including 1st April 2015 or after that date.
 
 (3) Any condition imposed before 1st April 2015 by the Department on an approval for the admission of a body to the earlier Schemes continues to have effect and withdrawal of the approval by the Department where the condition is not met has effect as if approval for admission to the Scheme had been withdrawn.
 
@@ -619,13 +619,13 @@ and the aggregate of that membership and the service in the Scheme is less than 
 
 ## 9. Transfers
 
-(1) Where a transfer payment is received into the Scheme in respect of a person from a different public service pension scheme which includes a payment in respect of service that is not remediable service[^key-a94e194e199dba90e763ab4413c41847] [^key-2b1e666e7da07368212b6bde17191229]... which would have entitled the person to final salary benefits in that scheme, such payment shall entitle that person to benefits under the Scheme as if they were payable as final salary benefits under the 2009 Scheme so long as the person in respect of whom the transfer payment is received has had no continuous break in active membership of any public service pension scheme of more than five years since ceasing active membership in the Scheme from which the transfer payment is received[^key-2f11eb92268158a167ea80f66a7c92cc] .
+(1) Where a transfer payment is received into the Scheme in respect of a person from a different public service pension scheme which includes a payment in respect of service that is not remediable service[^c-a94e194e199dba90e763ab4413c41847] [^c-2b1e666e7da07368212b6bde17191229]... which would have entitled the person to final salary benefits in that scheme, such payment shall entitle that person to benefits under the Scheme as if they were payable as final salary benefits under the 2009 Scheme so long as the person in respect of whom the transfer payment is received has had no continuous break in active membership of any public service pension scheme of more than five years since ceasing active membership in the Scheme from which the transfer payment is received[^c-2f11eb92268158a167ea80f66a7c92cc] .
 
-(1ZA)[^key-d43165f1e23cf4f3dab6bfee1ac728b2] Where a transfer payment is received into the Scheme in respect of a person from a different public service pension scheme which includes a payment in respect of remediable service, the payment in respect of remediable service entitles the person to benefits under the Scheme.
+(1ZA)[^c-d43165f1e23cf4f3dab6bfee1ac728b2] Where a transfer payment is received into the Scheme in respect of a person from a different public service pension scheme which includes a payment in respect of remediable service, the payment in respect of remediable service entitles the person to benefits under the Scheme.
 
 (1ZB) For the purposes of these Regulations, so long as there has been no continuous break in active membership of a public service pension scheme of more than five years since the remediable service was accrued, transferred remediable service to which paragraph (1ZA) applies is to be treated as a pension to which regulations 4A to 4T apply.
 
-(1A)[^key-43416d9203d1cd72c2d58e15d4c45ed7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-43416d9203d1cd72c2d58e15d4c45ed7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Where a transfer payment is to be made to a registered pension scheme or qualifying recognised overseas pension scheme in respect of a member of the Scheme, that transfer payment shall include any benefits accrued by that member under the earlier Schemes that are aggregated with the service under the Scheme.
 
@@ -633,9 +633,9 @@ and the aggregate of that membership and the service in the Scheme is less than 
 
 (4) The relevant date for the purposes of paragraph (3) is the date on which the person first became an active member in the employment, or the date the transfer payment is received if more than 12 months later.
 
-(5)[^key-124134bd27184459750763aac910608f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-124134bd27184459750763aac910608f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9A. Aggregation adjustments etc.[^key-a3a88ffda404860ff8308024dc797852]
+## 9A. Aggregation adjustments etc.[^c-a3a88ffda404860ff8308024dc797852]
 
 (1) Paragraph (2) applies to a member in the fund—
 
@@ -657,7 +657,7 @@ and the aggregate of that membership and the service in the Scheme is less than 
 
 (5) A member entitled to a refund of contributions from the earlier Schemes, who becomes an active member of the Scheme, is entitled to a transfer value payment in relation to the benefits in respect of that membership, which is to be credited to the member’s active member account to purchase earned pension, with the transfer value payment and the amount of purchased earned pension being calculated in accordance with actuarial guidance issued by the Department.
 
-(6)[^key-e2244bed55269fe39333875a70d35753] A member with deferred benefits relating to the Earlier Schemes, who did not become a member of the 2014 Scheme by virtue of regulation 5(1) (membership of the 2014 Scheme), but who subsequently becomes an active member of the 2014 Scheme may—
+(6)[^c-e2244bed55269fe39333875a70d35753] A member with deferred benefits relating to the Earlier Schemes, who did not become a member of the 2014 Scheme by virtue of regulation 5(1) (membership of the 2014 Scheme), but who subsequently becomes an active member of the 2014 Scheme may—
 
 - (a) within 12 months of the active member’s pension account being opened; or
 - (b) such longer period as the Committee permits,
@@ -726,20 +726,20 @@ elect to receive a transfer value payment in relation to the deferred benefits t
 
 any contributions that the member makes after 1st April 2015 in respect of the absence or that pay must be allocated according to the period to which they relate and benefits accrued accordingly.
 
-(2) A member entitled to a refund of contributions under regulation 20 (rights to return of contributions) of the 2014 Regulations, who has paid contributions under the earlier Schemes and has aggregated the periods in which those contributions were paid with membership of the Scheme, is entitled to a refund of contributions (including additional contributions)[^key-22dcc3516210f4c56dce3eed058c39c1] paid to the earlier Schemes in respect of that aggregated membership.
+(2) A member entitled to a refund of contributions under regulation 20 (rights to return of contributions) of the 2014 Regulations, who has paid contributions under the earlier Schemes and has aggregated the periods in which those contributions were paid with membership of the Scheme, is entitled to a refund of contributions (including additional contributions)[^c-22dcc3516210f4c56dce3eed058c39c1] paid to the earlier Schemes in respect of that aggregated membership.
 
 ## 14. Additional contributions
 
 (1) Notwithstanding the revocations effected by regulation 2 (revocation of regulations) the following regulations continue to have effect—
 
 - (a) regulation 57 (payments to increase total membership) of the 2002 Regulations as it applies to a member who has elected before 1st April 2009 to make additional contributions to increase total membership by an additional period;
-- (b)[^key-291a7b491855dfa58d4f58c349825662] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-291a7b491855dfa58d4f58c349825662] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) regulation 84 (discontinuance of additional contributions) of the 2002 Regulations in respect of a person to whom sub-paragraph (a) applies; and
-- (d)[^key-34d90d1edecba18af37899a3617eb699] regulation 14 (election in respect of additional pension) and regulation 14A (election to pay additional contributions: survivor benefits) of the Benefits Regulations and regulations 19 (payment of additional regular contributions (ARCs)), 20 (discontinuance of ARCs), regulation 20A (payment of additional contributions: survivor benefits (ASBCs)) and 20B (discontinuance of ASBCs) of the Administration Regulations as they apply to a member who has elected before 1st April 2015 to pay additional contributions under those regulations.
+- (d)[^c-34d90d1edecba18af37899a3617eb699] regulation 14 (election in respect of additional pension) and regulation 14A (election to pay additional contributions: survivor benefits) of the Benefits Regulations and regulations 19 (payment of additional regular contributions (ARCs)), 20 (discontinuance of ARCs), regulation 20A (payment of additional contributions: survivor benefits (ASBCs)) and 20B (discontinuance of ASBCs) of the Administration Regulations as they apply to a member who has elected before 1st April 2015 to pay additional contributions under those regulations.
 
 (2) Benefits accrued under the regulations preserved by paragraph (1) must be calculated using the normal retirement age under the 2009 Scheme and treated as benefits under that Scheme.
 
-(2A)[^key-7edd6432267e6dbf51470801c2d91fad] Regulation 19 of the 2014 Regulations (additional voluntary contributions) applies to an AVC arrangement entered into before 1st April 2015 as it applies to an AVC arrangement entered into on or after that date save that—
+(2A)[^c-7edd6432267e6dbf51470801c2d91fad] Regulation 19 of the 2014 Regulations (additional voluntary contributions) applies to an AVC arrangement entered into before 1st April 2015 as it applies to an AVC arrangement entered into on or after that date save that—
 
 - (a) the normal pension age in an AVC arrangement entered into before 1st April 2015 is the normal retirement age under the 2009 Scheme; and
 - (b) regulation 68(8) of the 2002 Regulations (persons making elections in relation to AVC’s prior to 1st February 2003 continues to have effect in relation to persons of the description in that regulation.
@@ -753,7 +753,7 @@ any contributions that the member makes after 1st April 2015 in respect of the a
 
 ## 15. Annual allowance
 
-(1)[^key-d227f2bcc9c5bcdc792cb1fc6672ad81] The Committee may adjust the member’s benefits accrued within the earlier Schemes in accordance with actuarial guidance issued by the Department, where—
+(1)[^c-d227f2bcc9c5bcdc792cb1fc6672ad81] The Committee may adjust the member’s benefits accrued within the earlier Schemes in accordance with actuarial guidance issued by the Department, where—
 
 - (a) a member gives notice to the Committee of joint and several liability under section 237B (liability of scheme administrator) of the 2004 Finance Act in respect of the member’s annual allowance charge; or
 - (b) the Committee satisfies all or part of a member’s liability to the annual allowance charge on a voluntary basis.
@@ -762,7 +762,7 @@ any contributions that the member makes after 1st April 2015 in respect of the a
 
 ## 16. Death grants
 
-(1)[^key-807ab96b1997ce71294be55df7e4c8b6] Death grants in the case of a member who did not accrue any membership of the Scheme are calculated under the earlier Schemes notwithstanding the revocations effected by regulation 2 (revocation of regulations) save that regulations 32(4) and 35(4) of the Benefits Regulations, and regulation 41(7) of the 2002 Regulations shall not apply.
+(1)[^c-807ab96b1997ce71294be55df7e4c8b6] Death grants in the case of a member who did not accrue any membership of the Scheme are calculated under the earlier Schemes notwithstanding the revocations effected by regulation 2 (revocation of regulations) save that regulations 32(4) and 35(4) of the Benefits Regulations, and regulation 41(7) of the 2002 Regulations shall not apply.
 
 (2) Subject to paragraph (3), death grants in the case of an active member who accrued any membership of the Scheme are calculated under regulation 40 (death grants: active members) of the 2014 Regulations regardless of whether the member had accrued any membership of the earlier Schemes (excluding membership deriving from a pension credit).
 
@@ -770,13 +770,13 @@ any contributions that the member makes after 1st April 2015 in respect of the a
 
 (4) Death grants in the case of a deferred member or pensioner member of the Scheme who has membership accrued before 1st April 2015 are calculated by adding together the death grant calculated under the earlier Schemes based on membership accrued before 1st April 2015, and the death grant calculated under the Scheme based on membership after 31st March 2015.
 
-## 17. Survivor pension[^key-b5917cbb2be5abe7111c4c85a994ddf1]
+## 17. Survivor pension[^c-b5917cbb2be5abe7111c4c85a994ddf1]
 
-(1) Except where regulation 9A(4) (aggregation adjustments etc.) applies, survivor pension[^key-75da5c4c00d863c3d6a67400159a4e3d], in the case of a survivor of a person who became an active member of the Scheme member by virtue of regulation 5(1) (membership of the Scheme) is[^key-a5a7e8129bd330f30d02e10af6b1197d] calculated by adding together the 2009 Scheme survivor pension and the Scheme survivor pension.
+(1) Except where regulation 9A(4) (aggregation adjustments etc.) applies, survivor pension[^c-75da5c4c00d863c3d6a67400159a4e3d], in the case of a survivor of a person who became an active member of the Scheme member by virtue of regulation 5(1) (membership of the Scheme) is[^c-a5a7e8129bd330f30d02e10af6b1197d] calculated by adding together the 2009 Scheme survivor pension and the Scheme survivor pension.
 
 (2) Subject to paragraphs (5) to (9), 2009 Scheme survivor pensions for the purposes of paragraph (1) are calculated under the 2009 Scheme, notwithstanding the revocations effected by regulation 2 (revocation of regulations), taking account of the deceased member's membership up to 31st March 2015 but—
 
-- (a) in the case of a death in service where a survivor pension[^key-0642f5aa322464a4ba94fb69d032e02a] is payable under regulations 41 (survivor benefits: partners of active members) or 43 (survivor benefits: children of active members) of the 2014 Regulations, excluding any augmentation under regulation 20(2) (early leavers: ill-health) of the Benefits Regulations; and
+- (a) in the case of a death in service where a survivor pension[^c-0642f5aa322464a4ba94fb69d032e02a] is payable under regulations 41 (survivor benefits: partners of active members) or 43 (survivor benefits: children of active members) of the 2014 Regulations, excluding any augmentation under regulation 20(2) (early leavers: ill-health) of the Benefits Regulations; and
 - (b) using the final pay calculated in accordance with regulations 8 to 11 (calculation of final pay) of the Benefits Regulations as if those Regulations are still in operation.
 
 (3) The Scheme survivor pensions for the purposes of paragraph (1) are calculated in accordance with the 2014 Regulations.
@@ -788,7 +788,7 @@ any contributions that the member makes after 1st April 2015 in respect of the a
 
 the survivor pension in respect of rights under the earlier Schemes are calculated under the earlier Schemes notwithstanding the revocations effected by regulation 2 (revocation of regulations).
 
-(5)[^key-cb79a45a5c0274a7f5cb4b85c303093a] For the purposes of calculating eligibility of a person to survivor pension under the 2009 Scheme and the other earlier Schemes—
+(5)[^c-cb79a45a5c0274a7f5cb4b85c303093a] For the purposes of calculating eligibility of a person to survivor pension under the 2009 Scheme and the other earlier Schemes—
 
 - (a) the definition of “eligible child” contained in Schedule 1 (interpretation) to the 2014 Regulations is substituted for the definition contained in regulation 26 (meaning of “eligible child”) of the Benefits Regulations and the corresponding provisions in the former regulations;
 - (b) any calculation of the survivor pension payable under the former regulations to a person who is the surviving civil partner of a member is on the basis that the survivor is a surviving spouse; and
@@ -804,7 +804,7 @@ the survivor pension in respect of rights under the earlier Schemes are calculat
 - (b) membership that would have counted under regulation F3, F4 or F5 (spouse pensions in certain cases) of the 2000 Regulations by virtue of regulation F6 (post-retirement marriages)) of those Regulations; and
 - (c) any membership purchased under regulation 14A of the Benefits Regulations (elections to pay additional contributions: survivor benefits).
 
-(9)[^key-504da6d3e2fde206d732a2d6a1b1d37d] Any calculation of any survivor pension payable under the former regulations in respect of surviving civil partner or spouse of a member who enters into a civil partnership or marriage after leaving active membership and dies where that member has made an inward transfer to the Scheme after 5th April 1988 in relation to which the member is entitled to reckon a period of service or, as the case may be, count a period of membership under the former regulations, that period of service or membership shall be regarded as a period of service or membership after 5th April 1978, (except where regulation F11 (cessation of membership before the commencement date) of the 2000 Regulations applies, that period of service or membership shall be regarded as a period of service or membership after 5th April 1988) notwithstanding the following provisions and without limiting the effect of those provisions in relation to any other matter—
+(9)[^c-504da6d3e2fde206d732a2d6a1b1d37d] Any calculation of any survivor pension payable under the former regulations in respect of surviving civil partner or spouse of a member who enters into a civil partnership or marriage after leaving active membership and dies where that member has made an inward transfer to the Scheme after 5th April 1988 in relation to which the member is entitled to reckon a period of service or, as the case may be, count a period of membership under the former regulations, that period of service or membership shall be regarded as a period of service or membership after 5th April 1978, (except where regulation F11 (cessation of membership before the commencement date) of the 2000 Regulations applies, that period of service or membership shall be regarded as a period of service or membership after 5th April 1988) notwithstanding the following provisions and without limiting the effect of those provisions in relation to any other matter—
 
 - (a) regulations K14 (inward transfers) and K15 (right to count service) of the 2000 Regulations;
 - (b) regulations 124 (inward transfers of pension rights) and 125 (right to count credited period) of the 2002 Regulations;
@@ -848,13 +848,13 @@ Schedule 3 (which makes transitional provision relating to the so-called “85 y
 
 (4) The active membership of any councillor in respect of an existing council shall end on 31st March 2015 and that membership shall be treated as deferred membership unless the councillor qualifies for the immediate payment of retirement benefits under regulations 16 (normal retirement) or 17 (retirement after normal retirement age) of the Benefits Regulations or the councillor member chooses to receive the immediate payment of retirement benefits under regulation 30 (choice of early payment of pension) of those Regulations.
 
-(5) Where paragraph 3 and[^key-455be01462449fb86bdec19a02b7c2c3] (4) applies the Committee shall apply the appropriate actuarial adjustment in accordance with guidance issued by the Department, for the early or late payment of retirement benefits.
+(5) Where paragraph 3 and[^c-455be01462449fb86bdec19a02b7c2c3] (4) applies the Committee shall apply the appropriate actuarial adjustment in accordance with guidance issued by the Department, for the early or late payment of retirement benefits.
 
 (6) A councillor of a new council who becomes an active member of Scheme, whether by reason of paragraph (1) or otherwise, may elect to aggregate any deferred councillor membership of the 2009 Scheme in respect of an existing council, under paragraph (4) or otherwise, with the councillor's active membership of the Scheme by giving notice in writing to the Committee within 12 months of becoming an active member of the Scheme.
 
 (7) Where a councillor member has so elected under paragraph (6) the Committee shall credit that councillor's active member pension account under the Scheme with the appropriate amount of pension accrued under the 2009 Scheme.
 
-(8)[^key-1267cb047972278b426e8c80e6602275] Where pension accrued under the 2009 Scheme is credited to a councillor’s active member pension account under the Scheme, that pension is payable when the councillor member is aged 65.
+(8)[^c-1267cb047972278b426e8c80e6602275] Where pension accrued under the 2009 Scheme is credited to a councillor’s active member pension account under the Scheme, that pension is payable when the councillor member is aged 65.
 
 ## 22. Employing authorities' obligations
 
@@ -905,7 +905,7 @@ Regulation 1
   - (c) absent from that employment for one of the reasons mentioned in regulation 13 (contributions during absence from work) of the 2014 Regulations and entitled to pay contributions to the Scheme;
 - “**actuarial guidance issued by the Department**” means guidance identified by the Department as such, which has been issued in accordance with regulation 2(3) (introduction and interpretation) of the 2014 Regulations;
 - “**additional maternity or adoption leave**” means leave under Article 105 or 107B of the Employment Rights (Northern Ireland) Order 1996 [^c22153021];
-- “[^key-b5effd7e29dbf2b7341988038245d470]**additional paternity leave *(affected by repeal, see note)*[^key-b5effd7e29dbf2b7341988038245d470]**” means leave under the Additional Paternity Leave Regulations (Northern Ireland) 2010 *(affected by repeal, see note)*[^key-b5effd7e29dbf2b7341988038245d470] [^c22153031];
+- “[^c-b5effd7e29dbf2b7341988038245d470]**additional paternity leave *(affected by repeal, see note)*[^c-b5effd7e29dbf2b7341988038245d470]**” means leave under the Additional Paternity Leave Regulations (Northern Ireland) 2010 *(affected by repeal, see note)*[^c-b5effd7e29dbf2b7341988038245d470] [^c22153031];
 - “**additional pension**” means pension under the 2014 Regulations other than earned pension;
 - “**admission agreement**” means an agreement between the Committee and an admission body that named individuals, or all or any specified class of the admission body's employees, may be members of the Scheme;
 - “**admission body**” has the meaning given to that expression at paragraph (2) of Part 1 of Schedule 2 (admission agreements with admission bodies) to the 2014 Regulations;
@@ -916,9 +916,9 @@ Regulation 1
   - (a) ordinary adoption leave;
   - (b) ordinary maternity leave;
   - (c) additional maternity or adoption leave during which the member receives some pensionable pay;
-  - (d) paternity leave; [^key-c23dc74dab68959a1d1e90c0def20d77]...
-  - (e) shared parental leave during which the member receives some pensionable pay;[^key-f7534c06115c69509e193352135ad63b] or[^key-f3a8490cfbeefb7d572656c61ec9f70a]
-  - (f) parental bereavement leave during which the member receives some pensionable pay;[^key-f4039eaf31da09122b8675f8d4039c50]
+  - (d) paternity leave; [^c-c23dc74dab68959a1d1e90c0def20d77]...
+  - (e) shared parental leave during which the member receives some pensionable pay;[^c-f7534c06115c69509e193352135ad63b] or[^c-f3a8490cfbeefb7d572656c61ec9f70a]
+  - (f) parental bereavement leave during which the member receives some pensionable pay;[^c-f4039eaf31da09122b8675f8d4039c50]
 - “**the Committee**” means the Northern Ireland Local Government Officers' Superannuation Committee established under section 1 of the Local Government (Superannuation) Act (Northern Ireland) 1950 [^c22153071];
 - “**contract of employment**” includes terms of office;
 - “**council**” means an existing council or a new council;
@@ -929,14 +929,14 @@ Regulation 1
 - “**the Department**” means the Department of the Environment;
 - “**the earlier Schemes**” means the 2009 Scheme, the 2002 Scheme and the 2000 Scheme, or as circumstances require, a scheme established by the Local Government (Superannuation) Regulations (Northern Ireland) 1992 [^c22153081], Local Government (Superannuation) Regulations (Northern Ireland) 1981 [^c22153091], Local Government (Superannuation) Regulations (Northern Ireland) 1962 [^c22153101], Local Government (Superannuation) Regulations (Northern Ireland) 1950 [^c22153111] and shall be deemed also, in the case of a member who immediately before 1st April 1973 was subject to the Belfast Corporation Superannuation Scheme to include the provisions of that Scheme;
 - “**earned pension**” means pension accrued from the member's pensionable pay pursuant to regulation 25(4) or 25(5) (active member's pension accounts) or credited pursuant to regulation 113(1) (effect of acceptance of transfer value) of the 2014 Regulations;
-- “[^key-5f67f6527d05413e1895c308ce503f44]**eligible member**” has the meaning given in regulation 4A(2) (statutory underpin: general);
+- “[^c-5f67f6527d05413e1895c308ce503f44]**eligible member**” has the meaning given in regulation 4A(2) (statutory underpin: general);
 - “**employee**” includes a whole-time employee, part-time employee and variable-time employee;
 - “**employing authority**” means a body employing an employee who is eligible to be a member or is a local authority as defined in Article 2 of the Superannuation (Northern Ireland) Order 1972;
 - “**employing authority's consent**” includes the consent of the Committee in circumstances where the member's employer or former employer is no longer an employing authority;
 - “**employment**” includes office;
 - “**European Pensions Institution**” has the same meaning as in Article 269(8) of the Pensions (Northern Ireland) Order 2005 [^c22153121];
 - “**existing council**” means a district council constituted under section 1 of the Local Government Act (Northern Ireland) 1972 [^c22153131] as in force immediately prior to the making of the Local Government (Boundaries) (2008 Act) (Commencement, Transitional Provision and Savings) Order (Northern Ireland) 2013 [^c22153141];
-- “[^key-1a1b31d95c0c83091487d48b85f3a278]**final assumed benefits**” means the benefits calculated in accordance with regulation 4K (statutory underpin: calculation of final assumed benefits);
+- “[^c-1a1b31d95c0c83091487d48b85f3a278]**final assumed benefits**” means the benefits calculated in accordance with regulation 4K (statutory underpin: calculation of final assumed benefits);
 - “final guarantee amount” is the amount by which the eligible member’s final assumed benefits are exceeded by their final underpin amount (if at all) in respect of a pension account;
 - “**final underpin amount**” means the amount calculated in accordance with regulation 4L (statutory underpin: calculation of final underpin amount);
 - “**final underpin date**” has the meaning given in regulation 4H(1) (statutory underpin: final underpin date);
@@ -948,7 +948,7 @@ Regulation 1
 - “**new council**” means a district council constituted under section 1 (district councils) of the Local Government Act (Northern Ireland) 1972) as amended by section 3(1) of the Local Government (Boundaries) Act (Northern Ireland) 2008;
 - “**normal retirement age**” in relation to the 2009 Scheme, is 65;
 - “**occupational pension scheme**” has the meaning giving by section 150(5) of the Finance Act 2004 [^c22153161];
-- “[^key-279fd4db5665f4f52d61c21a85f67c15]**parental bereavement leave**” means leave under Article 112EA of the Employment Rights (Northern Ireland) Order 1996;
+- “[^c-279fd4db5665f4f52d61c21a85f67c15]**parental bereavement leave**” means leave under Article 112EA of the Employment Rights (Northern Ireland) Order 1996;
 - “**part-time employee**” means an employee whose contract of employment provides—
   - (a) that the employee is such an employee for the Scheme, or
   - (b) who is neither a whole-time employee nor a variable-time employee;
@@ -958,7 +958,7 @@ Regulation 1
   - (a) the 2009 Scheme, has the meaning given in regulation 4 (meaning of “pensionable pay”) of the Benefits Regulations; and
   - (b) the Scheme, has the meaning given in regulation 22 (meaning of “pensionable pay”) of the 2014 Regulations, but if circumstances specified in regulation 23(2) (assumed pensionable pay) of the 2014 Regulations apply, references to a member's pensionable pay are references to that member's assumed pensionable pay;
 - “**pensioner member**” has the meaning given by regulation 9(1) (pensioner members) of the 2014 Regulations;
-- “[^key-b20a09703abe18c5038b88ece4ce59d3]**provisional assumed benefits**” means the benefits calculated in accordance with regulation 4I (statutory underpin: calculation of provisional assumed benefits);
+- “[^c-b20a09703abe18c5038b88ece4ce59d3]**provisional assumed benefits**” means the benefits calculated in accordance with regulation 4I (statutory underpin: calculation of provisional assumed benefits);
 - “**provisional underpin amount**” means the amount calculated in accordance with regulation 4J (statutory underpin: calculation of provisional underpin amount);
 - “**the PSP Directions 2023**” means the Public Service Pensions (Exercise of Powers, Compensation and Information) Directions (Northern Ireland) 2023;
 - “**the PSPJOA 2022**” means the Public Service Pensions and Judicial Offices Act 2022;
@@ -972,15 +972,15 @@ Regulation 1
 - “**the Scheme**” means the occupational pension scheme constituted by these Regulations, the 2014 Regulations;
 - “**Scheme year**” means a period of one year beginning with 1st April and ending with 31st March;
 - “**service**” means service or employment with an employing authority and service rendered by an employee of an employing authority whose services are placed at the disposal of a Minister of the Crown or a Government department in pursuance of any enactment is to be treated as service with an employing authority;
-- “shared parental leave” means leave under the Shared Parental Leave Regulations (Northern Ireland) 2015;[^key-fa3317e2eb8c1cb56e5a916164453112]
-- “**survivor pension**” means a pension payable under regulations 41 (survivor benefits: partners of active members), 43 (survivor benefits: children of active members), 44 (survivor benefits: children of active member where pension is payable to partner of active member), 45 (survivor benefits: children of active member where no pension is payable to partner of active member), 47 (survivor benefits: partners of deferred members), 48 (survivor benefits: children of deferred members), 49 (survivor benefits: children of deferred member where pension is payable to partner of deferred member), 50 (survivor benefits: children of deferred member where pension no is payable to partner of deferred member), 52 (survivor benefits: partners of pensioner members), 53 (survivor benefits: children of pensioner members), 54 (survivor benefits: children of pensioner member where pension is payable to partner of pensioner member) and 55 (survivor benefits: children of pensioner member where pension no is payable to partner of pensioner member) of the 2014 Regulations; and any pension payable under the former regulations to a survivor;[^key-af9078387c5665db687afec4d3574992]
+- “shared parental leave” means leave under the Shared Parental Leave Regulations (Northern Ireland) 2015;[^c-fa3317e2eb8c1cb56e5a916164453112]
+- “**survivor pension**” means a pension payable under regulations 41 (survivor benefits: partners of active members), 43 (survivor benefits: children of active members), 44 (survivor benefits: children of active member where pension is payable to partner of active member), 45 (survivor benefits: children of active member where no pension is payable to partner of active member), 47 (survivor benefits: partners of deferred members), 48 (survivor benefits: children of deferred members), 49 (survivor benefits: children of deferred member where pension is payable to partner of deferred member), 50 (survivor benefits: children of deferred member where pension no is payable to partner of deferred member), 52 (survivor benefits: partners of pensioner members), 53 (survivor benefits: children of pensioner members), 54 (survivor benefits: children of pensioner member where pension is payable to partner of pensioner member) and 55 (survivor benefits: children of pensioner member where pension no is payable to partner of pensioner member) of the 2014 Regulations; and any pension payable under the former regulations to a survivor;[^c-af9078387c5665db687afec4d3574992]
 - “**Tier 1 benefits**” has the meaning given by regulation 36(4) (early payment of retirement pension on ill-health grounds: active members) calculated in accordance with regulation 39 (calculation of ill-health pension amounts) of the 2014 Regulations;
 - “**Tier 2 benefits**” has the meaning given by regulation 36(5) (early payment of retirement pension on ill-health grounds: active members) calculated in accordance with regulation 39 (calculation of ill-health pension amounts) of the 2014 Regulations;
 - “**trade dispute**” has the meaning given in Article 127 of the Trade Union and Labour Relations (Northern Ireland) Order 1995 [^c22153191];
 - “**total membership**” means the aggregate of periods of membership which count as such under regulation 3 (active membership) of the 2014 Regulations;
 - “**transfer value payment**” means a payment made from the Scheme to another registered pension scheme or qualifying recognised overseas pension scheme, or a payment received by the Scheme from a registered pension scheme or from a European Pensions Institution;
 - “**the Transitional Regulations 2009**” means the Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 [^c22153201];
-- “[^key-3da1b504d506a62b034fe9fb3c4c3a5f]**underpin date**” has the meaning given in regulation 4G (statutory underpin: underpin date);
+- “[^c-3da1b504d506a62b034fe9fb3c4c3a5f]**underpin date**” has the meaning given in regulation 4G (statutory underpin: underpin date);
 - “**underpin period**” has the meaning given in regulation 4A(3) (statutory underpin: general);
 - “**variable-time employee**” means an employee whose contract of employment provides that the employee is such an employee for the Scheme and—
   - (a) whose pay is calculated by reference to the employee's duties (rather than necessarily by reference to the number of hours the employee has worked), or
@@ -1005,7 +1005,7 @@ The 2002 Regulations are revoked, in so far as they are not already revoked, exc
 - Regulation 127 (rights as to service not matched by credited period); and
 - Schedule 5 (mis-sold pensions);
 
-The Benefits Regulations are revoked except for the provisions listed below—[^key-b095af17714f555e5895931d6a21aa3d]
+The Benefits Regulations are revoked except for the provisions listed below—[^c-b095af17714f555e5895931d6a21aa3d]
 
 Regulation 8 (final pay: general) as amended by regulation 7 of the Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2010[^c22153211] and regulations 7 and 8 (amendment of the Benefits Regulations) of the Local Government Pension Scheme (Nursery Assistants) (Amendment) Regulations (Northern Ireland) 2016;
 
@@ -1013,7 +1013,7 @@ The Administration Regulations are revoked except for the provisions listed belo
 
 - Regulation 4 (employees of community admission bodies) for the purposes of the Local Government (Superannuation) (Milk Marketing Board for Northern Ireland) Regulations (Northern Ireland) 1997 [^c22153221], subject to regulation 28 (savings) of the Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2013 [^c22153231];
 - Regulation 6 (admission agreements – further provisions) of the Administration Regulations for the purposes of regulation 5(5) (membership of the Scheme) and regulation 6(2) (admission agreements), subject to regulation 28 (savings) of the Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2013;
-- Regulation 11 (periods of membership) as amended by regulation 18 of the Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2012[^key-7b891fc5b738321108ed533cf1747146][^c22153241] and regulations 9 and 10 (amendment of the Administration Regulations) of the Local Government Pension Scheme (Nursery Assistants) (Amendment) Regulations (Northern Ireland) 2016;
+- Regulation 11 (periods of membership) as amended by regulation 18 of the Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2012[^c-7b891fc5b738321108ed533cf1747146][^c22153241] and regulations 9 and 10 (amendment of the Administration Regulations) of the Local Government Pension Scheme (Nursery Assistants) (Amendment) Regulations (Northern Ireland) 2016;
 
 The Transitional Regulations 2009 are revoked;
 
@@ -1031,20 +1031,20 @@ Regulation 19
 
 **1.** (1) Paragraph 1(3) applies where a member of the description in paragraph 3(1) or 3(2) makes a request to receive immediate payment of retirement benefits under—
 
-- (a) regulation 30(1) (choice of early payment of pension) of the Benefits Regulations if the member is aged 60 or over at the date of early retirement[^key-1da8dc548c6fe1178f538cb332408e73] ;
-- (aa)[^key-0a040c203834fb4983b85faefd3793d5] regulation 30(1) (choice of early payment of pension) of the Benefits Regulations, if the member is aged 55 or over but aged under 60 at the date of early retirement and the [^key-7820417cde2da56be9a4feac3512c57b]... employing authority agrees that paragraph 1(3) should apply;
+- (a) regulation 30(1) (choice of early payment of pension) of the Benefits Regulations if the member is aged 60 or over at the date of early retirement[^c-1da8dc548c6fe1178f538cb332408e73] ;
+- (aa)[^c-0a040c203834fb4983b85faefd3793d5] regulation 30(1) (choice of early payment of pension) of the Benefits Regulations, if the member is aged 55 or over but aged under 60 at the date of early retirement and the [^c-7820417cde2da56be9a4feac3512c57b]... employing authority agrees that paragraph 1(3) should apply;
 - (b) regulation 31(5) (retirement benefits: early payment) of the 2014 Regulations if—
   - (i) the member is aged 60 or over at the date of early retirement; or
   - (ii) the member is aged 55 or over but aged under 60 at the date of early retirement and the member's employing authority agrees that paragraph 1(3) should apply; or
-- (c) regulation 31(6) (retirement benefits: flexible retirement) of the 2014 Regulations [^key-a60e780b23b549e4951d2925b4747f16]...;[^key-7e28b83412a2ad7a00b298e376b45545]
-- (d)[^key-b3d1b15989e4fef0f0a7e00bab9a5491] regulation 33(1) (other early leavers: deferred retirement benefits and elections for early payment) of the 2002 Regulations if the member is aged 60 or over at the date of early retirement; or
+- (c) regulation 31(6) (retirement benefits: flexible retirement) of the 2014 Regulations [^c-a60e780b23b549e4951d2925b4747f16]...;[^c-7e28b83412a2ad7a00b298e376b45545]
+- (d)[^c-b3d1b15989e4fef0f0a7e00bab9a5491] regulation 33(1) (other early leavers: deferred retirement benefits and elections for early payment) of the 2002 Regulations if the member is aged 60 or over at the date of early retirement; or
 - (e) regulation 33(1) (other early leavers: deferred retirement benefits and elections for early payment) of the 2002 Regulations if the member is aged 55 or over but aged under 60 at the date of early retirement and the member’s employing authority agrees that paragraph 1(3) should apply.
 
-(2) Paragraph 1(4) applies, where paragraph 1(1)(aa), 1(1)(b)(ii) or 1(1)(e)[^key-96c643009d46eb24b2c89330682ea9fe] would otherwise apply, but the member's employing authority does not agree that paragraph 1(3) should apply.
+(2) Paragraph 1(4) applies, where paragraph 1(1)(aa), 1(1)(b)(ii) or 1(1)(e)[^c-96c643009d46eb24b2c89330682ea9fe] would otherwise apply, but the member's employing authority does not agree that paragraph 1(3) should apply.
 
 (3) Where this sub-paragraph applies—
 
-- (a) if the member satisfies the 85 year rule, that part of the member's retirement benefits which is calculated by reference to any period of membership before the relevant date shall not be reduced in accordance with regulation 30(4) of the Benefits Regulations or regulation 31(5) (retirement benefits: early payment) or 31(6) (retirement benefits: flexible retirement) of the 2014 Regulations or regulation 33(4) (other early leavers: deferred retirement benefits and elections for early payment) of the 2002 Regulations[^key-d9b59e0b8e7216aa6429a6d39a5a84d2]; and
+- (a) if the member satisfies the 85 year rule, that part of the member's retirement benefits which is calculated by reference to any period of membership before the relevant date shall not be reduced in accordance with regulation 30(4) of the Benefits Regulations or regulation 31(5) (retirement benefits: early payment) or 31(6) (retirement benefits: flexible retirement) of the 2014 Regulations or regulation 33(4) (other early leavers: deferred retirement benefits and elections for early payment) of the 2002 Regulations[^c-d9b59e0b8e7216aa6429a6d39a5a84d2]; and
 - (b) if the member does not satisfy the 85 year rule, that part of the member's retirement benefits which is calculated by reference to any period of membership before the relevant date is reduced by reference to the period between the date of early retirement and the date the member would satisfy the 85 year rule, or age 65 if earlier.
 
 (4) Where this sub-paragraph applies—
@@ -1052,11 +1052,11 @@ Regulation 19
 - (a) if a member satisfies the 85 year rule, that part of the member's benefits which is calculated by reference to any period of membership before the relevant date is reduced by reference to the period between the date of early retirement and age 60; and
 - (b) if the member does not satisfy the 85 year rule, that part of the member's benefits which is calculated by reference to any period of membership before the relevant date is reduced by reference to the period between the date of early retirement and the date the member would satisfy the 85 year rule, or age 65 if the member would not satisfy the 85 year rule before that time, or age 60 if later.
 
-(5) In this Schedule, references[^key-39a9967bbdc26faa437a5827ae4b7c16] to an employing authority are to be read as including a former employing authority or where the member's employer or former employer ceased to be an employing authority and has not been succeeded by another employing authority, the Committee.
+(5) In this Schedule, references[^c-39a9967bbdc26faa437a5827ae4b7c16] to an employing authority are to be read as including a former employing authority or where the member's employer or former employer ceased to be an employing authority and has not been succeeded by another employing authority, the Committee.
 
 **2.** (1) A member's employing authority may determine on compassionate grounds to waive the reduction referred to in paragraph 1(4), 9(2) or, except where paragraph 1(1)(c) applies, paragraph 1(3)(b).
 
-(1A)[^key-fccee05d4b141b60febb88cbd0abd399] A member’s employing authority may determine to waive in whole or in part[^key-a5be0a714b3722b35b40e4f437067f61] the reduction referred to in paragraph 1(3)(b) where paragraph 1(1)(c) applies in relation to that paragraph.
+(1A)[^c-fccee05d4b141b60febb88cbd0abd399] A member’s employing authority may determine to waive in whole or in part[^c-a5be0a714b3722b35b40e4f437067f61] the reduction referred to in paragraph 1(3)(b) where paragraph 1(1)(c) applies in relation to that paragraph.
 
 (2) Regulation 66 (statements of policy about the exercise of discretionary functions) of the 2014 Regulations applies to paragraph 1(1)(b)(ii) as if it were specified in paragraph (1) of that regulation.
 
@@ -1093,7 +1093,7 @@ is 85 years or more.
 
 (2) Where this paragraph applies, this Schedule, with the exception of paragraph 4(2)(b)(iii), continues to apply to any undrawn benefits accrued by the member before the date the member started to receive payment of benefits under those regulations.
 
-**6.** (1) This paragraph applies to a member to whom regulation 4 (membership accrued before 1st April 2009: deferred members) of the Transitional Regulations 2009 , regulation 12 (re-employed and rejoining members) of the[^key-9ccfcf6eef12f262d367ca1c6ee313fd] Administration Regulations or regulation 9A(1) (aggregation adjustments etc.) applies.
+**6.** (1) This paragraph applies to a member to whom regulation 4 (membership accrued before 1st April 2009: deferred members) of the Transitional Regulations 2009 , regulation 12 (re-employed and rejoining members) of the[^c-9ccfcf6eef12f262d367ca1c6ee313fd] Administration Regulations or regulation 9A(1) (aggregation adjustments etc.) applies.
 
 (2) Where such a member does not choose, or does not choose as respects all periods of membership, to be treated as if regulation 3 (membership accrued before 1st April 2009: active members) of the Transitional Regulations 2009 applies, or to have the member's membership aggregated under regulation 12 (re-employed and rejoining deferred members) of the Administration Regulations, or under regulation 24 (pension accounts) of the 2014 Regulations, as the case may be, then in applying paragraphs 1 to 5 and 9 as respects any later membership, the total membership excludes unaggregated periods.
 
@@ -1296,7 +1296,7 @@ nothing in these Regulations affects the operation of that saving, transitional 
 - “**relevant benefit**” means a benefit payable to, or in respect of, a person who before the commencement date—
   - (a) left an employment in which the person was an active member (whether or not the person has subsequently become an active member again); or
   - (b) died while in such employment; and
-- “**benefit**” includes a return of contributions and any pension payable to a widow, widower, surviving civil partner, cohabiting partner[^key-a8f312ece39b91cfa8c315548d27cd8f] or any dependant by virtue of a surrender.
+- “**benefit**” includes a return of contributions and any pension payable to a widow, widower, surviving civil partner, cohabiting partner[^c-a8f312ece39b91cfa8c315548d27cd8f] or any dependant by virtue of a surrender.
 
 (4) If a election under sub-paragraph (1) is made in relation to the benefit in respect of a person who is an active member, or subsequently becomes an active member again—
 
@@ -1367,83 +1367,83 @@ A full regulatory impact assessment has not been produced for this Statutory Rul
 
 [^c22152841]: Marginal citation: S.R. & O (N.I.) [1973 No. 504](https://www.legislation.gov.uk/ukcm/1973/504) Article 7(1); [S.I. 1976/424 (N.I. 6)](https://www.legislation.gov.uk/nisi/1976/424).
 
-[^key-57cf4d843cad416b953a697ff62895b6]: Textual amendment: [Reg. 1(5)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/5)[(6)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/6) added (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2023/149/regulation/2/2)
+[^c-57cf4d843cad416b953a697ff62895b6]: Textual amendment: [Reg. 1(5)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/5)[(6)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/6) added (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2023/149/regulation/2/2)
 
-[^key-274406624e61c75874d72443e4d38351]: Textual amendment: Words in reg. 3(6) inserted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [27](https://www.legislation.gov.uk/nisr/2015/162/regulation/27)
+[^c-274406624e61c75874d72443e4d38351]: Textual amendment: Words in reg. 3(6) inserted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [27](https://www.legislation.gov.uk/nisr/2015/162/regulation/27)
 
-[^key-18a21c5e0c9e73ae28f6a4dc6129e71d]: Textual amendment: [Reg. 3(6A)](https://www.legislation.gov.uk/nisr/2014/189/regulation/3/6A) inserted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [85](https://www.legislation.gov.uk/nisr/2019/206/regulation/85)
+[^c-18a21c5e0c9e73ae28f6a4dc6129e71d]: Textual amendment: [Reg. 3(6A)](https://www.legislation.gov.uk/nisr/2014/189/regulation/3/6A) inserted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [85](https://www.legislation.gov.uk/nisr/2019/206/regulation/85)
 
 [^c22152851]: Marginal citation: Regulation 12A was inserted by S.R. [2010 No. 410](https://www.legislation.gov.uk/ukcm/2010/410).
 
-[^key-1fad9a470ace7f7232fed5b1436a4a1e]: Textual amendment: Words in [reg. 3(13)](https://www.legislation.gov.uk/nisr/2014/189/regulation/3/13) substituted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [16(2)](https://www.legislation.gov.uk/nisr/2023/149/regulation/16/2)
+[^c-1fad9a470ace7f7232fed5b1436a4a1e]: Textual amendment: Words in [reg. 3(13)](https://www.legislation.gov.uk/nisr/2014/189/regulation/3/13) substituted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [16(2)](https://www.legislation.gov.uk/nisr/2023/149/regulation/16/2)
 
-[^key-bf55dc24c231bedc06d427c1643927f5]: Textual amendment: Reg. 3(15)(16) inserted (with effect in accordance with reg. 2(b) of the amending Rule) by [The Local Government Pension Scheme (Nursery Assistants) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/329)](https://www.legislation.gov.uk/nisr/2016/329), [regs. 1](https://www.legislation.gov.uk/nisr/2016/329/regulation/1), [12](https://www.legislation.gov.uk/nisr/2016/329/regulation/12)
+[^c-bf55dc24c231bedc06d427c1643927f5]: Textual amendment: Reg. 3(15)(16) inserted (with effect in accordance with reg. 2(b) of the amending Rule) by [The Local Government Pension Scheme (Nursery Assistants) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/329)](https://www.legislation.gov.uk/nisr/2016/329), [regs. 1](https://www.legislation.gov.uk/nisr/2016/329/regulation/1), [12](https://www.legislation.gov.uk/nisr/2016/329/regulation/12)
 
-[^key-cb4b769a6e96cf2d0786565f9ee9da03]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2014/189/regulation/4) omitted (1.10.2023) by virtue of [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2023/149/regulation/2/3)
+[^c-cb4b769a6e96cf2d0786565f9ee9da03]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2014/189/regulation/4) omitted (1.10.2023) by virtue of [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2023/149/regulation/2/3)
 
-[^key-e83570f92ef71143cbbf4e19bcfb7e0c]: Textual amendment: [Regs. 4A-4T](https://www.legislation.gov.uk/nisr/2014/189/regulation/4A) and cross heading inserted heading inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2023/149/regulation/2/4)
+[^c-e83570f92ef71143cbbf4e19bcfb7e0c]: Textual amendment: [Regs. 4A-4T](https://www.legislation.gov.uk/nisr/2014/189/regulation/4A) and cross heading inserted heading inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2023/149/regulation/2/4)
 
-[^key-f1da10ea61ba6ec6f4cb17de4ba2a578]: Modification: [Reg. 4H(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/4H/1) applied (with modifications) (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [13(3)](https://www.legislation.gov.uk/nisr/2023/149/regulation/13/3)
+[^c-f1da10ea61ba6ec6f4cb17de4ba2a578]: Modification: [Reg. 4H(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/4H/1) applied (with modifications) (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [13(3)](https://www.legislation.gov.uk/nisr/2023/149/regulation/13/3)
 
-[^key-4dc2e3edef643c48b7f8d15d93fad34d]: Modification: [Reg. 4I](https://www.legislation.gov.uk/nisr/2014/189/regulation/4I/11) applied (with modifications) (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [13(4)](https://www.legislation.gov.uk/nisr/2023/149/regulation/13/4)
+[^c-4dc2e3edef643c48b7f8d15d93fad34d]: Modification: [Reg. 4I](https://www.legislation.gov.uk/nisr/2014/189/regulation/4I/11) applied (with modifications) (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [13(4)](https://www.legislation.gov.uk/nisr/2023/149/regulation/13/4)
 
-[^key-5e5671a80ba450008b97a168ae6542a2]: Modification: [Reg. 4J](https://www.legislation.gov.uk/nisr/2014/189/regulation/4J/9) applied (with modifications) (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [13(5)](https://www.legislation.gov.uk/nisr/2023/149/regulation/13/5)
+[^c-5e5671a80ba450008b97a168ae6542a2]: Modification: [Reg. 4J](https://www.legislation.gov.uk/nisr/2014/189/regulation/4J/9) applied (with modifications) (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [13(5)](https://www.legislation.gov.uk/nisr/2023/149/regulation/13/5)
 
-[^key-f144bc4225ed173c82f077d499770895]: Textual amendment: [Reg. 5(5)](https://www.legislation.gov.uk/nisr/2014/189/regulation/5/5) substituted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [86](https://www.legislation.gov.uk/nisr/2019/206/regulation/86)
+[^c-f144bc4225ed173c82f077d499770895]: Textual amendment: [Reg. 5(5)](https://www.legislation.gov.uk/nisr/2014/189/regulation/5/5) substituted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [86](https://www.legislation.gov.uk/nisr/2019/206/regulation/86)
 
-[^key-aef5d73b9db476b75d9580a115b7aedb]: Textual amendment: Word in reg. 6(2) deleted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [29](https://www.legislation.gov.uk/nisr/2015/162/regulation/29)
+[^c-aef5d73b9db476b75d9580a115b7aedb]: Textual amendment: Word in reg. 6(2) deleted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [29](https://www.legislation.gov.uk/nisr/2015/162/regulation/29)
 
-[^key-a94e194e199dba90e763ab4413c41847]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/9/1) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2023/149/regulation/2/5/a)
+[^c-a94e194e199dba90e763ab4413c41847]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/9/1) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2023/149/regulation/2/5/a)
 
-[^key-2b1e666e7da07368212b6bde17191229]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/9/1) omitted (with effect in accordance with reg. 1(2)(c) of the amending Rule) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [87(a)(i)](https://www.legislation.gov.uk/nisr/2019/206/regulation/87/a/i)
+[^c-2b1e666e7da07368212b6bde17191229]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/9/1) omitted (with effect in accordance with reg. 1(2)(c) of the amending Rule) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [87(a)(i)](https://www.legislation.gov.uk/nisr/2019/206/regulation/87/a/i)
 
-[^key-2f11eb92268158a167ea80f66a7c92cc]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/9/1) inserted (with effect in accordance with reg. 1(2)(c) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [87(a)(ii)](https://www.legislation.gov.uk/nisr/2019/206/regulation/87/a/ii)
+[^c-2f11eb92268158a167ea80f66a7c92cc]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/9/1) inserted (with effect in accordance with reg. 1(2)(c) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [87(a)(ii)](https://www.legislation.gov.uk/nisr/2019/206/regulation/87/a/ii)
 
-[^key-d43165f1e23cf4f3dab6bfee1ac728b2]: Textual amendment: [Reg. 9(1ZA)](https://www.legislation.gov.uk/nisr/2014/189/regulation/9/1ZA)[(1ZB)](https://www.legislation.gov.uk/nisr/2014/189/regulation/9/1ZB) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2023/149/regulation/2/5/b)
+[^c-d43165f1e23cf4f3dab6bfee1ac728b2]: Textual amendment: [Reg. 9(1ZA)](https://www.legislation.gov.uk/nisr/2014/189/regulation/9/1ZA)[(1ZB)](https://www.legislation.gov.uk/nisr/2014/189/regulation/9/1ZB) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2023/149/regulation/2/5/b)
 
-[^key-43416d9203d1cd72c2d58e15d4c45ed7]: Textual amendment: [Reg. 9(1A)](https://www.legislation.gov.uk/nisr/2014/189/regulation/9/1A) omitted (1.10.2023) by virtue of [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/nisr/2023/149/regulation/2/5/c)
+[^c-43416d9203d1cd72c2d58e15d4c45ed7]: Textual amendment: [Reg. 9(1A)](https://www.legislation.gov.uk/nisr/2014/189/regulation/9/1A) omitted (1.10.2023) by virtue of [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/nisr/2023/149/regulation/2/5/c)
 
-[^key-124134bd27184459750763aac910608f]: Textual amendment: Reg. 9(5) deleted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [30](https://www.legislation.gov.uk/nisr/2015/162/regulation/30)
+[^c-124134bd27184459750763aac910608f]: Textual amendment: Reg. 9(5) deleted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [30](https://www.legislation.gov.uk/nisr/2015/162/regulation/30)
 
-[^key-a3a88ffda404860ff8308024dc797852]: Textual amendment: Reg. 9A inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [28](https://www.legislation.gov.uk/nisr/2016/128/regulation/28)
+[^c-a3a88ffda404860ff8308024dc797852]: Textual amendment: Reg. 9A inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [28](https://www.legislation.gov.uk/nisr/2016/128/regulation/28)
 
-[^key-e2244bed55269fe39333875a70d35753]: Textual amendment: [Reg. 9A(6)](https://www.legislation.gov.uk/nisr/2014/189/regulation/9A/6) substituted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [88](https://www.legislation.gov.uk/nisr/2019/206/regulation/88)
+[^c-e2244bed55269fe39333875a70d35753]: Textual amendment: [Reg. 9A(6)](https://www.legislation.gov.uk/nisr/2014/189/regulation/9A/6) substituted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [88](https://www.legislation.gov.uk/nisr/2019/206/regulation/88)
 
 [^c22152871]: Marginal citation: Paragraph 7 was substituted by S.R. [2012 No. 183](https://www.legislation.gov.uk/ukcm/2012/183)
 
-[^key-22dcc3516210f4c56dce3eed058c39c1]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/nisr/2014/189/regulation/13/2) inserted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [89](https://www.legislation.gov.uk/nisr/2019/206/regulation/89)
+[^c-22dcc3516210f4c56dce3eed058c39c1]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/nisr/2014/189/regulation/13/2) inserted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [89](https://www.legislation.gov.uk/nisr/2019/206/regulation/89)
 
-[^key-291a7b491855dfa58d4f58c349825662]: Textual amendment: [Reg. 14(1)(b)](https://www.legislation.gov.uk/nisr/2014/189/regulation/14/1/b) omitted (18.11.2019) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [90(a)](https://www.legislation.gov.uk/nisr/2019/206/regulation/90/a)
+[^c-291a7b491855dfa58d4f58c349825662]: Textual amendment: [Reg. 14(1)(b)](https://www.legislation.gov.uk/nisr/2014/189/regulation/14/1/b) omitted (18.11.2019) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [90(a)](https://www.legislation.gov.uk/nisr/2019/206/regulation/90/a)
 
-[^key-34d90d1edecba18af37899a3617eb699]: Textual amendment: [Reg. 14(1)(d)](https://www.legislation.gov.uk/nisr/2014/189/regulation/14/1/d) substituted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [90(b)](https://www.legislation.gov.uk/nisr/2019/206/regulation/90/b)
+[^c-34d90d1edecba18af37899a3617eb699]: Textual amendment: [Reg. 14(1)(d)](https://www.legislation.gov.uk/nisr/2014/189/regulation/14/1/d) substituted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [90(b)](https://www.legislation.gov.uk/nisr/2019/206/regulation/90/b)
 
-[^key-7edd6432267e6dbf51470801c2d91fad]: Textual amendment: [Reg. 14(2A)](https://www.legislation.gov.uk/nisr/2014/189/regulation/14/2A) inserted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [90(c)](https://www.legislation.gov.uk/nisr/2019/206/regulation/90/c)
+[^c-7edd6432267e6dbf51470801c2d91fad]: Textual amendment: [Reg. 14(2A)](https://www.legislation.gov.uk/nisr/2014/189/regulation/14/2A) inserted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [90(c)](https://www.legislation.gov.uk/nisr/2019/206/regulation/90/c)
 
-[^key-d227f2bcc9c5bcdc792cb1fc6672ad81]: Textual amendment: [Reg. 15(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/15/1) substituted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [91](https://www.legislation.gov.uk/nisr/2019/206/regulation/91)
+[^c-d227f2bcc9c5bcdc792cb1fc6672ad81]: Textual amendment: [Reg. 15(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/15/1) substituted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [91](https://www.legislation.gov.uk/nisr/2019/206/regulation/91)
 
 [^c22152931]: Marginal citation: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12); section 227 has been amended by the [Finance Act 2009 (c.10)](https://www.legislation.gov.uk/ukpga/2009/10) and the Finance Act 2011.
 
-[^key-807ab96b1997ce71294be55df7e4c8b6]: Textual amendment: [Reg. 16(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/16/1) substituted (with effect in accordance with reg. 1(1) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/163)](https://www.legislation.gov.uk/nisr/2022/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/163/regulation/1/1), [17](https://www.legislation.gov.uk/nisr/2022/163/regulation/17)
+[^c-807ab96b1997ce71294be55df7e4c8b6]: Textual amendment: [Reg. 16(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/16/1) substituted (with effect in accordance with reg. 1(1) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/163)](https://www.legislation.gov.uk/nisr/2022/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/163/regulation/1/1), [17](https://www.legislation.gov.uk/nisr/2022/163/regulation/17)
 
-[^key-b5917cbb2be5abe7111c4c85a994ddf1]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/nisr/2014/189/regulation/17) heading substituted (with effect in accordance with reg. 1(2)(a) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/163)](https://www.legislation.gov.uk/nisr/2022/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/163/regulation/1/1), [18(a)](https://www.legislation.gov.uk/nisr/2022/163/regulation/18/a)
+[^c-b5917cbb2be5abe7111c4c85a994ddf1]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/nisr/2014/189/regulation/17) heading substituted (with effect in accordance with reg. 1(2)(a) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/163)](https://www.legislation.gov.uk/nisr/2022/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/163/regulation/1/1), [18(a)](https://www.legislation.gov.uk/nisr/2022/163/regulation/18/a)
 
-[^key-75da5c4c00d863c3d6a67400159a4e3d]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/17/1) substituted (with effect in accordance with reg. 1(2)(a) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/163)](https://www.legislation.gov.uk/nisr/2022/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/163/regulation/1/1), [18(b)(i)](https://www.legislation.gov.uk/nisr/2022/163/regulation/18/b/i), [24](https://www.legislation.gov.uk/nisr/2022/163/regulation/24)
+[^c-75da5c4c00d863c3d6a67400159a4e3d]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/17/1) substituted (with effect in accordance with reg. 1(2)(a) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/163)](https://www.legislation.gov.uk/nisr/2022/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/163/regulation/1/1), [18(b)(i)](https://www.legislation.gov.uk/nisr/2022/163/regulation/18/b/i), [24](https://www.legislation.gov.uk/nisr/2022/163/regulation/24)
 
-[^key-a5a7e8129bd330f30d02e10af6b1197d]: Textual amendment: Word in [reg. 17(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/17/1) substituted (with effect in accordance with reg. 1(2)(a) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/163)](https://www.legislation.gov.uk/nisr/2022/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/163/regulation/1/1), [18(b)(ii)](https://www.legislation.gov.uk/nisr/2022/163/regulation/18/b/ii)
+[^c-a5a7e8129bd330f30d02e10af6b1197d]: Textual amendment: Word in [reg. 17(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/17/1) substituted (with effect in accordance with reg. 1(2)(a) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/163)](https://www.legislation.gov.uk/nisr/2022/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/163/regulation/1/1), [18(b)(ii)](https://www.legislation.gov.uk/nisr/2022/163/regulation/18/b/ii)
 
-[^key-0642f5aa322464a4ba94fb69d032e02a]: Textual amendment: Word in [reg. 17(2)(a)](https://www.legislation.gov.uk/nisr/2014/189/regulation/17/2/a) substituted (with effect in accordance with reg. 1(2)(a) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/163)](https://www.legislation.gov.uk/nisr/2022/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/163/regulation/1/1), [18(c)](https://www.legislation.gov.uk/nisr/2022/163/regulation/18/c)
+[^c-0642f5aa322464a4ba94fb69d032e02a]: Textual amendment: Word in [reg. 17(2)(a)](https://www.legislation.gov.uk/nisr/2014/189/regulation/17/2/a) substituted (with effect in accordance with reg. 1(2)(a) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/163)](https://www.legislation.gov.uk/nisr/2022/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/163/regulation/1/1), [18(c)](https://www.legislation.gov.uk/nisr/2022/163/regulation/18/c)
 
-[^key-cb79a45a5c0274a7f5cb4b85c303093a]: Textual amendment: [Reg. 17(5)-(8)](https://www.legislation.gov.uk/nisr/2014/189/regulation/17/5) substituted for reg. 17(5)-(9) (with effect in accordance with reg. 1(2)(b) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/163)](https://www.legislation.gov.uk/nisr/2022/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/163/regulation/1/1), [18(d)](https://www.legislation.gov.uk/nisr/2022/163/regulation/18/d)
+[^c-cb79a45a5c0274a7f5cb4b85c303093a]: Textual amendment: [Reg. 17(5)-(8)](https://www.legislation.gov.uk/nisr/2014/189/regulation/17/5) substituted for reg. 17(5)-(9) (with effect in accordance with reg. 1(2)(b) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/163)](https://www.legislation.gov.uk/nisr/2022/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/163/regulation/1/1), [18(d)](https://www.legislation.gov.uk/nisr/2022/163/regulation/18/d)
 
-[^key-504da6d3e2fde206d732a2d6a1b1d37d]: Textual amendment: [Reg. 17(9)](https://www.legislation.gov.uk/nisr/2014/189/regulation/17/9) substituted for reg. 17(10) (with effect in accordance with reg. 1(1) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/163)](https://www.legislation.gov.uk/nisr/2022/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/163/regulation/1/1), [18(e)](https://www.legislation.gov.uk/nisr/2022/163/regulation/18/e)
+[^c-504da6d3e2fde206d732a2d6a1b1d37d]: Textual amendment: [Reg. 17(9)](https://www.legislation.gov.uk/nisr/2014/189/regulation/17/9) substituted for reg. 17(10) (with effect in accordance with reg. 1(1) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/163)](https://www.legislation.gov.uk/nisr/2022/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/163/regulation/1/1), [18(e)](https://www.legislation.gov.uk/nisr/2022/163/regulation/18/e)
 
 [^c22152941]: Marginal citation: [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147).
 
 [^c22152951]: Marginal citation: [1999 c. 30](https://www.legislation.gov.uk/ukpga/1999/30).
 
-[^key-455be01462449fb86bdec19a02b7c2c3]: Textual amendment: Words in [reg. 21(5)](https://www.legislation.gov.uk/nisr/2014/189/regulation/21/5) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [30(a)](https://www.legislation.gov.uk/nisr/2016/128/regulation/30/a)
+[^c-455be01462449fb86bdec19a02b7c2c3]: Textual amendment: Words in [reg. 21(5)](https://www.legislation.gov.uk/nisr/2014/189/regulation/21/5) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [30(a)](https://www.legislation.gov.uk/nisr/2016/128/regulation/30/a)
 
-[^key-1267cb047972278b426e8c80e6602275]: Textual amendment: [Reg. 21(8)](https://www.legislation.gov.uk/nisr/2014/189/regulation/21/8) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [30(b)](https://www.legislation.gov.uk/nisr/2016/128/regulation/30/b)
+[^c-1267cb047972278b426e8c80e6602275]: Textual amendment: [Reg. 21(8)](https://www.legislation.gov.uk/nisr/2014/189/regulation/21/8) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [30(b)](https://www.legislation.gov.uk/nisr/2016/128/regulation/30/b)
 
 [^c22152961]: Marginal citation: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
@@ -1459,7 +1459,7 @@ A full regulatory impact assessment has not been produced for this Statutory Rul
 
 [^c22153021]: Marginal citation: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919).
 
-[^key-b5effd7e29dbf2b7341988038245d470]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2014/189/schedule/1) deleted (5.4.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2015/146/article/1/3), [22(2)(a)](https://www.legislation.gov.uk/nisr/2015/146/article/22/2/a) (with [art. 25](https://www.legislation.gov.uk/nisr/2015/146/article/25))
+[^c-b5effd7e29dbf2b7341988038245d470]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2014/189/schedule/1) deleted (5.4.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2015/146/article/1/3), [22(2)(a)](https://www.legislation.gov.uk/nisr/2015/146/article/22/2/a) (with [art. 25](https://www.legislation.gov.uk/nisr/2015/146/article/25))
 
 [^c22153031]: Marginal citation: S.R. [2010 No. 297](https://www.legislation.gov.uk/ukcm/2010/297).
 
@@ -1469,13 +1469,13 @@ A full regulatory impact assessment has not been produced for this Statutory Rul
 
 [^c22153061]: Marginal citation: S.R. [2009 No. 32](https://www.legislation.gov.uk/ukcm/2009/32) as amended by S.R. [2010 No. 164](https://www.legislation.gov.uk/ukcm/2010/164), [S.I](https://www.legislation.gov.uk/ukcm/2010/164/section/I). 2010/234, S.R [2010 No. 410](https://www.legislation.gov.uk/ukcm/2010/410), S.R. [2011 No. 117](https://www.legislation.gov.uk/ukcm/2011/117), S.R. [2012 No. 85](https://www.legislation.gov.uk/ukcm/2012/85), S.R. [2012 No. 183](https://www.legislation.gov.uk/ukcm/2012/183) and S.R. 2013 No .71.
 
-[^key-c23dc74dab68959a1d1e90c0def20d77]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/2014/189/schedule/1) omitted (29.9.2023) by virtue of [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [20(2)(a)](https://www.legislation.gov.uk/nisr/2023/157/regulation/20/2/a), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34)
+[^c-c23dc74dab68959a1d1e90c0def20d77]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/2014/189/schedule/1) omitted (29.9.2023) by virtue of [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [20(2)(a)](https://www.legislation.gov.uk/nisr/2023/157/regulation/20/2/a), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34)
 
-[^key-f7534c06115c69509e193352135ad63b]: Textual amendment: Words in Sch. 1 substituted (15.3.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), arts. 1(2), 22(2)(b)
+[^c-f7534c06115c69509e193352135ad63b]: Textual amendment: Words in Sch. 1 substituted (15.3.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), arts. 1(2), 22(2)(b)
 
-[^key-f3a8490cfbeefb7d572656c61ec9f70a]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/2014/189/schedule/1) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [20(2)(b)](https://www.legislation.gov.uk/nisr/2023/157/regulation/20/2/b), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34)
+[^c-f3a8490cfbeefb7d572656c61ec9f70a]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/2014/189/schedule/1) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [20(2)(b)](https://www.legislation.gov.uk/nisr/2023/157/regulation/20/2/b), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34)
 
-[^key-f4039eaf31da09122b8675f8d4039c50]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2014/189/schedule/1) (f) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [20(2)(c)](https://www.legislation.gov.uk/nisr/2023/157/regulation/20/2/c), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34)
+[^c-f4039eaf31da09122b8675f8d4039c50]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2014/189/schedule/1) (f) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [20(2)(c)](https://www.legislation.gov.uk/nisr/2023/157/regulation/20/2/c), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34)
 
 [^c22153071]: Marginal citation: [1950 c. 10 (N.I.)](https://www.legislation.gov.uk/apni/1950/10).
 
@@ -1487,7 +1487,7 @@ A full regulatory impact assessment has not been produced for this Statutory Rul
 
 [^c22153111]: Marginal citation: S.R. & O. (N.I.) [1950 No. 103](https://www.legislation.gov.uk/ukcm/1950/103) (p. 423).
 
-[^key-5f67f6527d05413e1895c308ce503f44]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2014/189/schedule/1) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/nisr/2023/149/regulation/2/6/a)
+[^c-5f67f6527d05413e1895c308ce503f44]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2014/189/schedule/1) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/nisr/2023/149/regulation/2/6/a)
 
 [^c22153121]: Marginal citation: [2005 No. 255](https://www.legislation.gov.uk/ukcm/2005/255) (N.I. 1).
 
@@ -1495,31 +1495,31 @@ A full regulatory impact assessment has not been produced for this Statutory Rul
 
 [^c22153141]: Marginal citation: S.R. [2013 No. 238](https://www.legislation.gov.uk/ukcm/2013/238) (C.15)
 
-[^key-1a1b31d95c0c83091487d48b85f3a278]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2014/189/schedule/1) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/nisr/2023/149/regulation/2/6/b)
+[^c-1a1b31d95c0c83091487d48b85f3a278]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2014/189/schedule/1) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/nisr/2023/149/regulation/2/6/b)
 
 [^c22153151]: Marginal citation: [1995 No. 3213](https://www.legislation.gov.uk/ukcm/1995/3213) (N.I. 22).
 
 [^c22153161]: Marginal citation: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
 
-[^key-279fd4db5665f4f52d61c21a85f67c15]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2014/189/schedule/1) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [20(2)(d)](https://www.legislation.gov.uk/nisr/2023/157/regulation/20/2/d), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34)
+[^c-279fd4db5665f4f52d61c21a85f67c15]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2014/189/schedule/1) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [20(2)(d)](https://www.legislation.gov.uk/nisr/2023/157/regulation/20/2/d), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34)
 
 [^c22153171]: Marginal citation: S.R. [2002 No. 377](https://www.legislation.gov.uk/ukcm/2002/377).
 
-[^key-b20a09703abe18c5038b88ece4ce59d3]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2014/189/schedule/1) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [2(6)(c)](https://www.legislation.gov.uk/nisr/2023/149/regulation/2/6/c)
+[^c-b20a09703abe18c5038b88ece4ce59d3]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2014/189/schedule/1) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [2(6)(c)](https://www.legislation.gov.uk/nisr/2023/149/regulation/2/6/c)
 
 [^c22153181]: Marginal citation: [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14).
 
-[^key-fa3317e2eb8c1cb56e5a916164453112]: Textual amendment: Words in Sch. 1 inserted (15.3.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), arts. 1(2), 22(2)(c)
+[^c-fa3317e2eb8c1cb56e5a916164453112]: Textual amendment: Words in Sch. 1 inserted (15.3.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), arts. 1(2), 22(2)(c)
 
-[^key-af9078387c5665db687afec4d3574992]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2014/189/schedule/1) inserted (with effect in accordance with reg. 1(1) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/163)](https://www.legislation.gov.uk/nisr/2022/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/163/regulation/1/1), [19](https://www.legislation.gov.uk/nisr/2022/163/regulation/19)
+[^c-af9078387c5665db687afec4d3574992]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2014/189/schedule/1) inserted (with effect in accordance with reg. 1(1) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/163)](https://www.legislation.gov.uk/nisr/2022/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/163/regulation/1/1), [19](https://www.legislation.gov.uk/nisr/2022/163/regulation/19)
 
 [^c22153191]: Marginal citation: [S.I. 1995/1980 (N.I. 12)](https://www.legislation.gov.uk/nisi/1995/1980)
 
 [^c22153201]: Marginal citation: S.R. [2009 No. 34](https://www.legislation.gov.uk/ukcm/2009/34) as amended by S.R [2010 No. 410](https://www.legislation.gov.uk/ukcm/2010/410) and 2013 No .71.
 
-[^key-3da1b504d506a62b034fe9fb3c4c3a5f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2014/189/schedule/1) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [2(6)(d)](https://www.legislation.gov.uk/nisr/2023/149/regulation/2/6/d)
+[^c-3da1b504d506a62b034fe9fb3c4c3a5f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2014/189/schedule/1) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [2(6)(d)](https://www.legislation.gov.uk/nisr/2023/149/regulation/2/6/d)
 
-[^key-b095af17714f555e5895931d6a21aa3d]: Textual amendment: Words in Sch. 2 substituted (with effect in accordance with reg. 2(b) of the amending Rule) by [The Local Government Pension Scheme (Nursery Assistants) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/329)](https://www.legislation.gov.uk/nisr/2016/329), [regs. 1](https://www.legislation.gov.uk/nisr/2016/329/regulation/1), [13(a)](https://www.legislation.gov.uk/nisr/2016/329/regulation/13/a)
+[^c-b095af17714f555e5895931d6a21aa3d]: Textual amendment: Words in Sch. 2 substituted (with effect in accordance with reg. 2(b) of the amending Rule) by [The Local Government Pension Scheme (Nursery Assistants) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/329)](https://www.legislation.gov.uk/nisr/2016/329), [regs. 1](https://www.legislation.gov.uk/nisr/2016/329/regulation/1), [13(a)](https://www.legislation.gov.uk/nisr/2016/329/regulation/13/a)
 
 [^c22153211]: Marginal citation: S.R. [2010 No. 164](https://www.legislation.gov.uk/ukcm/2010/164).
 
@@ -1527,7 +1527,7 @@ A full regulatory impact assessment has not been produced for this Statutory Rul
 
 [^c22153231]: Marginal citation: S.R. [2013 No. 71](https://www.legislation.gov.uk/ukcm/2013/71).
 
-[^key-7b891fc5b738321108ed533cf1747146]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2014/189/schedule/2) substituted (with effect in accordance with reg. 2(b) of the amending Rule) by [The Local Government Pension Scheme (Nursery Assistants) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/329)](https://www.legislation.gov.uk/nisr/2016/329), [regs. 1](https://www.legislation.gov.uk/nisr/2016/329/regulation/1), [13(b)](https://www.legislation.gov.uk/nisr/2016/329/regulation/13/b)
+[^c-7b891fc5b738321108ed533cf1747146]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2014/189/schedule/2) substituted (with effect in accordance with reg. 2(b) of the amending Rule) by [The Local Government Pension Scheme (Nursery Assistants) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/329)](https://www.legislation.gov.uk/nisr/2016/329), [regs. 1](https://www.legislation.gov.uk/nisr/2016/329/regulation/1), [13(b)](https://www.legislation.gov.uk/nisr/2016/329/regulation/13/b)
 
 [^c22153241]: Marginal citation: S.R. [2012 No. 183](https://www.legislation.gov.uk/ukcm/2012/183).
 
@@ -1541,27 +1541,27 @@ A full regulatory impact assessment has not been produced for this Statutory Rul
 
 [^c22153291]: Marginal citation: S.R. [1997 No. 137](https://www.legislation.gov.uk/ukcm/1997/137) as amended by Schedule M4 to S.R. [2000 No. 177](https://www.legislation.gov.uk/ukcm/2000/177) (Schedule M4 to S.R. [2000 No. 177](https://www.legislation.gov.uk/ukcm/2000/177) was amended by regulation 11 of S.R. [2001 No. 64](https://www.legislation.gov.uk/ukcm/2001/64)), S.R. [2002 No. 353](https://www.legislation.gov.uk/ukcm/2002/353) and S.R. [2009 No. 34](https://www.legislation.gov.uk/ukcm/2009/34).
 
-[^key-1da8dc548c6fe1178f538cb332408e73]: Textual amendment: Words in Sch. 3 para. 1(1)(a) inserted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [92(a)](https://www.legislation.gov.uk/nisr/2019/206/regulation/92/a)
+[^c-1da8dc548c6fe1178f538cb332408e73]: Textual amendment: Words in Sch. 3 para. 1(1)(a) inserted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [92(a)](https://www.legislation.gov.uk/nisr/2019/206/regulation/92/a)
 
-[^key-0a040c203834fb4983b85faefd3793d5]: Textual amendment: Sch. 3 para. 1(1)(aa) inserted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [92(b)](https://www.legislation.gov.uk/nisr/2019/206/regulation/92/b)
+[^c-0a040c203834fb4983b85faefd3793d5]: Textual amendment: Sch. 3 para. 1(1)(aa) inserted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [92(b)](https://www.legislation.gov.uk/nisr/2019/206/regulation/92/b)
 
-[^key-7820417cde2da56be9a4feac3512c57b]: Textual amendment: Word in [Sch. 3 para. 1(1)(aa)](https://www.legislation.gov.uk/nisr/2014/189/schedule/3/paragraph/1/1/aa) omitted (with effect in accordance with reg. 1(2)(b) of the amending Rule) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/77)](https://www.legislation.gov.uk/nisr/2020/77), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/77/regulation/1/1), [6(a)](https://www.legislation.gov.uk/nisr/2020/77/regulation/6/a)
+[^c-7820417cde2da56be9a4feac3512c57b]: Textual amendment: Word in [Sch. 3 para. 1(1)(aa)](https://www.legislation.gov.uk/nisr/2014/189/schedule/3/paragraph/1/1/aa) omitted (with effect in accordance with reg. 1(2)(b) of the amending Rule) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/77)](https://www.legislation.gov.uk/nisr/2020/77), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/77/regulation/1/1), [6(a)](https://www.legislation.gov.uk/nisr/2020/77/regulation/6/a)
 
-[^key-a60e780b23b549e4951d2925b4747f16]: Textual amendment: Words in [Sch. 3 para. 1(1)(c)](https://www.legislation.gov.uk/nisr/2014/189/schedule/3/paragraph/1/1/c) omitted (with effect in accordance with reg. 1(2)(b) of the amending Rule) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/77)](https://www.legislation.gov.uk/nisr/2020/77), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/77/regulation/1/1), [6(b)](https://www.legislation.gov.uk/nisr/2020/77/regulation/6/b)
+[^c-a60e780b23b549e4951d2925b4747f16]: Textual amendment: Words in [Sch. 3 para. 1(1)(c)](https://www.legislation.gov.uk/nisr/2014/189/schedule/3/paragraph/1/1/c) omitted (with effect in accordance with reg. 1(2)(b) of the amending Rule) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/77)](https://www.legislation.gov.uk/nisr/2020/77), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/77/regulation/1/1), [6(b)](https://www.legislation.gov.uk/nisr/2020/77/regulation/6/b)
 
-[^key-7e28b83412a2ad7a00b298e376b45545]: Textual amendment: Words in Sch. 3 para. 1(1)(c) inserted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [92(c)](https://www.legislation.gov.uk/nisr/2019/206/regulation/92/c)
+[^c-7e28b83412a2ad7a00b298e376b45545]: Textual amendment: Words in Sch. 3 para. 1(1)(c) inserted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [92(c)](https://www.legislation.gov.uk/nisr/2019/206/regulation/92/c)
 
-[^key-b3d1b15989e4fef0f0a7e00bab9a5491]: Textual amendment: Sch. 3 para. 1(1)(d)(e) inserted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [92(d)](https://www.legislation.gov.uk/nisr/2019/206/regulation/92/d)
+[^c-b3d1b15989e4fef0f0a7e00bab9a5491]: Textual amendment: Sch. 3 para. 1(1)(d)(e) inserted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [92(d)](https://www.legislation.gov.uk/nisr/2019/206/regulation/92/d)
 
-[^key-96c643009d46eb24b2c89330682ea9fe]: Textual amendment: Words in Sch. 3 para. 1(2) substituted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [92(e)](https://www.legislation.gov.uk/nisr/2019/206/regulation/92/e)
+[^c-96c643009d46eb24b2c89330682ea9fe]: Textual amendment: Words in Sch. 3 para. 1(2) substituted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [92(e)](https://www.legislation.gov.uk/nisr/2019/206/regulation/92/e)
 
-[^key-d9b59e0b8e7216aa6429a6d39a5a84d2]: Textual amendment: Words in [Sch. 3 para. 1(3)(a)](https://www.legislation.gov.uk/nisr/2014/189/schedule/3/paragraph/1/3/a) inserted (with effect in accordance with reg. 1(1) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/163)](https://www.legislation.gov.uk/nisr/2022/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/163/regulation/1/1), [20](https://www.legislation.gov.uk/nisr/2022/163/regulation/20)
+[^c-d9b59e0b8e7216aa6429a6d39a5a84d2]: Textual amendment: Words in [Sch. 3 para. 1(3)(a)](https://www.legislation.gov.uk/nisr/2014/189/schedule/3/paragraph/1/3/a) inserted (with effect in accordance with reg. 1(1) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/163)](https://www.legislation.gov.uk/nisr/2022/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/163/regulation/1/1), [20](https://www.legislation.gov.uk/nisr/2022/163/regulation/20)
 
-[^key-39a9967bbdc26faa437a5827ae4b7c16]: Textual amendment: Words in Sch. 3 para. 1(5) substituted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [92(f)](https://www.legislation.gov.uk/nisr/2019/206/regulation/92/f)
+[^c-39a9967bbdc26faa437a5827ae4b7c16]: Textual amendment: Words in Sch. 3 para. 1(5) substituted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [92(f)](https://www.legislation.gov.uk/nisr/2019/206/regulation/92/f)
 
-[^key-fccee05d4b141b60febb88cbd0abd399]: Textual amendment: Sch. 3 para. 2(1A) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [31(a)](https://www.legislation.gov.uk/nisr/2016/128/regulation/31/a)
+[^c-fccee05d4b141b60febb88cbd0abd399]: Textual amendment: Sch. 3 para. 2(1A) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [31(a)](https://www.legislation.gov.uk/nisr/2016/128/regulation/31/a)
 
-[^key-a5be0a714b3722b35b40e4f437067f61]: Textual amendment: Words in Sch. 3 para. 2(1A) inserted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [92(g)(i)](https://www.legislation.gov.uk/nisr/2019/206/regulation/92/g/i)
+[^c-a5be0a714b3722b35b40e4f437067f61]: Textual amendment: Words in Sch. 3 para. 2(1A) inserted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [92(g)(i)](https://www.legislation.gov.uk/nisr/2019/206/regulation/92/g/i)
 
 [^M_F_5b600868-d111-401b-9440-4e82de1e73c7]: Textual amendment: Sch. 3 para. 2(3) substituted (18.11.2019) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [92(g)(ii)](https://www.legislation.gov.uk/nisr/2019/206/regulation/92/g/ii)
 
@@ -1569,7 +1569,7 @@ A full regulatory impact assessment has not been produced for this Statutory Rul
 
 [^c22153311]: Marginal citation: S.R. [2002 No. 352](https://www.legislation.gov.uk/ukcm/2002/352); [regulation 38(1A)](https://www.legislation.gov.uk/nisr/2014/189/regulation/38/1A) was inserted by S.R. [2007 No. 152](https://www.legislation.gov.uk/ukcm/2007/152); it was revoked, with savings, by S.R. [2009 No. 34](https://www.legislation.gov.uk/ukcm/2009/34).
 
-[^key-9ccfcf6eef12f262d367ca1c6ee313fd]: Textual amendment: Words in Sch. 3 para. 6(1) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [31(b)](https://www.legislation.gov.uk/nisr/2016/128/regulation/31/b)
+[^c-9ccfcf6eef12f262d367ca1c6ee313fd]: Textual amendment: Words in Sch. 3 para. 6(1) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [31(b)](https://www.legislation.gov.uk/nisr/2016/128/regulation/31/b)
 
 [^c22153321]: Marginal citation: S.R. [1997 No. 137](https://www.legislation.gov.uk/ukcm/1997/137) as amended by Schedule M4 to S.R. [2000 No. 177](https://www.legislation.gov.uk/ukcm/2000/177) (Schedule M4 to S.R. [2000 No. 177](https://www.legislation.gov.uk/ukcm/2000/177) was amended by regulation 11 of S.R [2001 No. 64](https://www.legislation.gov.uk/ukcm/2001/64)), S.R. [2002 No. 353](https://www.legislation.gov.uk/ukcm/2002/353) and S.R. [2009 No. 34](https://www.legislation.gov.uk/ukcm/2009/34).
 
@@ -1589,4 +1589,4 @@ A full regulatory impact assessment has not been produced for this Statutory Rul
 
 [^c22153401]: Marginal citation: S.R. [2009 No. 34](https://www.legislation.gov.uk/ukcm/2009/34) as amended by S.R. [2010 No. 410](https://www.legislation.gov.uk/ukcm/2010/410) and S.R. [2013 No. 71](https://www.legislation.gov.uk/ukcm/2013/71).
 
-[^key-a8f312ece39b91cfa8c315548d27cd8f]: Textual amendment: Words in [Sch. 5 para. 4(3)](https://www.legislation.gov.uk/nisr/2014/189/schedule/5/paragraph/4/3) substituted (with effect in accordance with reg. 1(2)(c) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [34](https://www.legislation.gov.uk/nisr/2019/206/regulation/34)
+[^c-a8f312ece39b91cfa8c315548d27cd8f]: Textual amendment: Words in [Sch. 5 para. 4(3)](https://www.legislation.gov.uk/nisr/2014/189/schedule/5/paragraph/4/3) substituted (with effect in accordance with reg. 1(2)(c) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [34](https://www.legislation.gov.uk/nisr/2019/206/regulation/34)

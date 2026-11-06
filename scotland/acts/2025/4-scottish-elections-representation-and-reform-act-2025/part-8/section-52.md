@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Requirement to include information[^key-284e1a147cb2be97015ab75ebe6df9cb][^key-e06b4ce13ec765d6b607176f4d04b84f]
+## 52. Requirement to include information[^c-284e1a147cb2be97015ab75ebe6df9cb][^c-e06b4ce13ec765d6b607176f4d04b84f]
 
 *Extent: S*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-284e1a147cb2be97015ab75ebe6df9cb]: Commencement: S. 52 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-284e1a147cb2be97015ab75ebe6df9cb]: Commencement: S. 52 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-e06b4ce13ec765d6b607176f4d04b84f]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2025/4/section/52) in force at 17.11.2025 by [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)
+[^c-e06b4ce13ec765d6b607176f4d04b84f]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2025/4/section/52) in force at 17.11.2025 by [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)

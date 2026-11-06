@@ -41,15 +41,15 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by Articles 56(3), 57(1)(*b*), (2) and (5), 58(2), (4)(*b*) and (6)(*a*), 59(3), 61, 73(3), 75(5), 122(2) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-b56117386b792bcf68f4c73599579822]
+## 1. Citation and commencement[^c-b56117386b792bcf68f4c73599579822]
 
 These Regulations may be cited as the Occupational Pension Schemes (Minimum Funding Requirement and Miscellaneous Amendments) Regulations (Northern Ireland) 2002 and shall come into operation on 19th March 2002.
 
-## 2. Amendment of the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations[^key-82d456f7f61bc5c4f12302bf943cda93]
+## 2. Amendment of the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations[^c-82d456f7f61bc5c4f12302bf943cda93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Occupational Pension Schemes (Deficiency on Winding Up, etc.) Regulations[^key-1c848e4b0625a0d16edec79c636ed294]
+## 3. Amendment of the Occupational Pension Schemes (Deficiency on Winding Up, etc.) Regulations[^c-1c848e4b0625a0d16edec79c636ed294]
 
 (1) The Occupational Pension Schemes (Deficiency on Winding Up, etc.) Regulations (Northern Ireland) 1996[^f00012] shall be amended in accordance with paragraphs (2) to (4).
 
@@ -87,7 +87,7 @@ These Regulations may be cited as the Occupational Pension Schemes (Minimum Fund
 
 (4) In Schedule 1, in the Note at the end of the form of certificate (form of actuary’s certificate), after “securing” there shall be inserted “all of”.
 
-## 4. Amendment of the Occupational Pension Schemes (Winding Up) Regulations[^key-a77e3a06c7b6e2b0c58109bae4b45e25]
+## 4. Amendment of the Occupational Pension Schemes (Winding Up) Regulations[^c-a77e3a06c7b6e2b0c58109bae4b45e25]
 
 (1) The Occupational Pension Schemes (Winding Up) Regulations (Northern Ireland) 1996[^f00014] shall be amended in accordance with paragraphs (2) to (4).
 
@@ -120,7 +120,7 @@ These Regulations may be cited as the Occupational Pension Schemes (Minimum Fund
 
 (4) In regulation 13(4) (hybrid schemes) after “that regulation)” there shall be inserted “, but regulation 4A shall not apply for that purpose”.
 
-## 5. Amendment to Article 60(7A) of the Pensions (Northern Ireland) Order 1995[^key-a035787a9f2118ce931fb8814b2c1143]
+## 5. Amendment to Article 60(7A) of the Pensions (Northern Ireland) Order 1995[^c-a035787a9f2118ce931fb8814b2c1143]
 
 (1) Article 60(7A) of the Pensions (Northern Ireland) Order 1995 shall be amended in accordance with paragraphs (2) to (4).
 
@@ -164,18 +164,18 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00002]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-b56117386b792bcf68f4c73599579822]: Commencement: Reg. 1 in operation at 19.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/64/regulation/1)
+[^c-b56117386b792bcf68f4c73599579822]: Commencement: Reg. 1 in operation at 19.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/64/regulation/1)
 
-[^key-82d456f7f61bc5c4f12302bf943cda93]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2002/64/regulation/2) revoked (30.12.2005) by [The Occupational Pension Schemes (Scheme Funding) Regulations (Northern Ireland) 2005 (S.R. 2005/568)](https://www.legislation.gov.uk/nisr/2005/568), [reg. 1](https://www.legislation.gov.uk/nisr/2005/568/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2005/568/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/nisr/2005/568/schedule/4))
+[^c-82d456f7f61bc5c4f12302bf943cda93]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2002/64/regulation/2) revoked (30.12.2005) by [The Occupational Pension Schemes (Scheme Funding) Regulations (Northern Ireland) 2005 (S.R. 2005/568)](https://www.legislation.gov.uk/nisr/2005/568), [reg. 1](https://www.legislation.gov.uk/nisr/2005/568/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2005/568/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/nisr/2005/568/schedule/4))
 
-[^key-1c848e4b0625a0d16edec79c636ed294]: Commencement: Reg. 3 in operation at 19.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/64/regulation/1)
+[^c-1c848e4b0625a0d16edec79c636ed294]: Commencement: Reg. 3 in operation at 19.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/64/regulation/1)
 
 [^f00012]: Footnote: [S.R. 1996 No. 585](https://www.legislation.gov.uk/nisr/1996/585); relevant amending regulations are [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
 
 [^f00013]: Footnote: Regulation 4 was amended by [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
 
-[^key-a77e3a06c7b6e2b0c58109bae4b45e25]: Commencement: Reg. 4 in operation at 19.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/64/regulation/1)
+[^c-a77e3a06c7b6e2b0c58109bae4b45e25]: Commencement: Reg. 4 in operation at 19.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/64/regulation/1)
 
 [^f00014]: Footnote: [S.R. 1996 No. 621](https://www.legislation.gov.uk/nisr/1996/621), to which there are amendments not relevant to these regulations
 
-[^key-a035787a9f2118ce931fb8814b2c1143]: Commencement: Reg. 5 in operation at 19.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/64/regulation/1)
+[^c-a035787a9f2118ce931fb8814b2c1143]: Commencement: Reg. 5 in operation at 19.3.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/64/regulation/1)

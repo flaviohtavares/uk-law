@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25A. Conversion into kWh units[^key-5f860ceadec4c4dace2d92c6512f1e93]
+## 25A. Conversion into kWh units[^c-5f860ceadec4c4dace2d92c6512f1e93]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f860ceadec4c4dace2d92c6512f1e93]: Textual amendment: [Reg. 25A](https://www.legislation.gov.uk/uksi/2014/1643/regulation/25A) inserted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2023/1182/regulation/14)
+[^c-5f860ceadec4c4dace2d92c6512f1e93]: Textual amendment: [Reg. 25A](https://www.legislation.gov.uk/uksi/2014/1643/regulation/25A) inserted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2023/1182/regulation/14)

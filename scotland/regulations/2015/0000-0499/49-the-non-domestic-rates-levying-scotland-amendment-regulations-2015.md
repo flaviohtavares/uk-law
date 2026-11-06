@@ -32,7 +32,7 @@ summary: ''
 
 Rating And Valuation
 
-The Non-Domestic Rates (Levying) (Scotland) Amendment Regulations 2015 (revoked)[^key-a52dce205e24691e4ff9d7b41d157700]
+The Non-Domestic Rates (Levying) (Scotland) Amendment Regulations 2015 (revoked)[^c-a52dce205e24691e4ff9d7b41d157700]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st April 2015
 
-[^key-a52dce205e24691e4ff9d7b41d157700]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a52dce205e24691e4ff9d7b41d157700]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a52dce205e24691e4ff9d7b41d157700]
+## 1. Citation and commencement[^c-a52dce205e24691e4ff9d7b41d157700]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Non-Domestic Rates (Levying) (Scotland) Regulations 2014[^key-a52dce205e24691e4ff9d7b41d157700]
+## 2. Amendment of the Non-Domestic Rates (Levying) (Scotland) Regulations 2014[^c-a52dce205e24691e4ff9d7b41d157700]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of the Non-Domestic Rates (Levying) (Scotland) (No. 2) Regulations 2012[^key-a52dce205e24691e4ff9d7b41d157700]
+## 3. Revocation of the Non-Domestic Rates (Levying) (Scotland) (No. 2) Regulations 2012[^c-a52dce205e24691e4ff9d7b41d157700]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a52dce205e24691e4ff9d7b41d157700]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a52dce205e24691e4ff9d7b41d157700]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a52dce205e24691e4ff9d7b41d157700]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a52dce205e24691e4ff9d7b41d157700]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a52dce205e24691e4ff9d7b41d157700]: Textual amendment: Regulations revoked (1.4.2016) by The Non-[Domestic Rates (Levying) (Scotland) Regulations 2016 (S.S.I. 2016/114)](https://www.legislation.gov.uk/ssi/2016/114), [regs. 1](https://www.legislation.gov.uk/ssi/2016/114/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2016/114/regulation/6) (with [regs. 5](https://www.legislation.gov.uk/ssi/2016/114/regulation/5), [6(3)](https://www.legislation.gov.uk/ssi/2016/114/regulation/6))
+[^c-a52dce205e24691e4ff9d7b41d157700]: Textual amendment: Regulations revoked (1.4.2016) by The Non-[Domestic Rates (Levying) (Scotland) Regulations 2016 (S.S.I. 2016/114)](https://www.legislation.gov.uk/ssi/2016/114), [regs. 1](https://www.legislation.gov.uk/ssi/2016/114/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2016/114/regulation/6) (with [regs. 5](https://www.legislation.gov.uk/ssi/2016/114/regulation/5), [6(3)](https://www.legislation.gov.uk/ssi/2016/114/regulation/6))

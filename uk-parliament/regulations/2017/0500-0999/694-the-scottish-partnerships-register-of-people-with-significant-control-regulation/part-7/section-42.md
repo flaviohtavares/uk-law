@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Permitted use or disclosure by the registrar[^key-dd9056bf8dd861d9969b25327e93938b]
+## 42. Permitted use or disclosure by the registrar[^c-dd9056bf8dd861d9969b25327e93938b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd9056bf8dd861d9969b25327e93938b]: Textual amendment: [Reg. 42](https://www.legislation.gov.uk/uksi/2017/694/regulation/42) omitted (21.3.2024) by virtue of [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 8(4)](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/8/4)
+[^c-dd9056bf8dd861d9969b25327e93938b]: Textual amendment: [Reg. 42](https://www.legislation.gov.uk/uksi/2017/694/regulation/42) omitted (21.3.2024) by virtue of [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 8(4)](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/8/4)

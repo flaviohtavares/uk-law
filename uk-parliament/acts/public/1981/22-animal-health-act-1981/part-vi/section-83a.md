@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83A. Electronic communication: Scotland[^key-2b192ebfc192edf7f866db1f0c67c2c1]
+## 83A. Electronic communication: Scotland[^c-2b192ebfc192edf7f866db1f0c67c2c1]
 
 *Extent: S*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) Those provisions are—
 
-- (a) sections 3(2), 30(1), 36Q(1) and (6), [^key-624c586927b4005db49e5719ba51a89a]... 60(9), 63(4) and 65(1) of, and paragraph 2(4) of Schedule 3 to, this Act;
+- (a) sections 3(2), 30(1), 36Q(1) and (6), [^c-624c586927b4005db49e5719ba51a89a]... 60(9), 63(4) and 65(1) of, and paragraph 2(4) of Schedule 3 to, this Act;
 - (b) sections 17(3), 22(7)(a), 62G(5) and 81 (each as read with section 83(1)) of this Act.
 
 (4) But subsection (1) applies in relation to section 17(3), 22(7)(a), 30(1), 36Q(1) or (6) or 62G(5) only if—
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2b192ebfc192edf7f866db1f0c67c2c1]: Textual amendment: [S. 83A](https://www.legislation.gov.uk/ukpga/1981/22/section/83A) inserted (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [ss. 15](https://www.legislation.gov.uk/asp/2006/11/section/15), [55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-2b192ebfc192edf7f866db1f0c67c2c1]: Textual amendment: [S. 83A](https://www.legislation.gov.uk/ukpga/1981/22/section/83A) inserted (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [ss. 15](https://www.legislation.gov.uk/asp/2006/11/section/15), [55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
 
-[^key-624c586927b4005db49e5719ba51a89a]: Textual amendment: Words in [s. 83A(3)(a)](https://www.legislation.gov.uk/ukpga/1981/22/section/83A/3/a) omitted (22.7.2024) by virtue of [Animal Welfare (Livestock Exports) Act 2024 (c. 11)](https://www.legislation.gov.uk/ukpga/2024/11), [ss. 5(b)](https://www.legislation.gov.uk/ukpga/2024/11/section/5/b), [7(2)](https://www.legislation.gov.uk/ukpga/2024/11/section/7/2); [S.S.I. 2024/170](https://www.legislation.gov.uk/ssi/2024/170), [reg. 2](https://www.legislation.gov.uk/ssi/2024/170/regulation/2)
+[^c-624c586927b4005db49e5719ba51a89a]: Textual amendment: Words in [s. 83A(3)(a)](https://www.legislation.gov.uk/ukpga/1981/22/section/83A/3/a) omitted (22.7.2024) by virtue of [Animal Welfare (Livestock Exports) Act 2024 (c. 11)](https://www.legislation.gov.uk/ukpga/2024/11), [ss. 5(b)](https://www.legislation.gov.uk/ukpga/2024/11/section/5/b), [7(2)](https://www.legislation.gov.uk/ukpga/2024/11/section/7/2); [S.S.I. 2024/170](https://www.legislation.gov.uk/ssi/2024/170), [reg. 2](https://www.legislation.gov.uk/ssi/2024/170/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Names[^key-7258421321077ddca524b6eae10c6f82]
+## 33. Names[^c-7258421321077ddca524b6eae10c6f82]
 
 *Extent: E+W+S*
 
@@ -25,41 +25,41 @@ summary: ''
 - (a) “community interest company”, or
 - (b) “c.i.c.”.
 
-(2) In the case of a Welsh company, its name may instead[^key-111997190f72854c7b42addb4b4cfcfb] end with—
+(2) In the case of a Welsh company, its name may instead[^c-111997190f72854c7b42addb4b4cfcfb] end with—
 
 - (a) “cwmni buddiant cymunedol”, or
 - (b) “c.b.c.”,
 
-[^key-97ad7f4972c95f90f6dcbaee7321a490]...
+[^c-97ad7f4972c95f90f6dcbaee7321a490]...
 
 (3) The name of a community interest company which is a public company must end with—
 
 - (a) “community interest public limited company”, or
 - (b) “community interest p.l.c.”.
 
-(4) In the case of a Welsh company, its name may instead[^key-5243d35e3328204b4f1675a4d4eb8266] end with—
+(4) In the case of a Welsh company, its name may instead[^c-5243d35e3328204b4f1675a4d4eb8266] end with—
 
 - (a) “cwmni buddiant cymunedol cyhoeddus cyfyngedig”, or
 - (b) “cwmni buddiant cymunedol c.c.c.”,
 
-[^key-8a493faeee4982f1ad8746ca29069dce]...
+[^c-8a493faeee4982f1ad8746ca29069dce]...
 
-(5)[^key-b45601dd5a7122b0265fd768b11e2040] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-b45601dd5a7122b0265fd768b11e2040] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-0a107482f354e316b18cd3a965d62158] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-0a107482f354e316b18cd3a965d62158] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7258421321077ddca524b6eae10c6f82]: Commencement: S. 33 in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
+[^c-7258421321077ddca524b6eae10c6f82]: Commencement: S. 33 in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
 
-[^key-111997190f72854c7b42addb4b4cfcfb]: Textual amendment: Words in s. 33(2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 224(2)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/224/2/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-111997190f72854c7b42addb4b4cfcfb]: Textual amendment: Words in s. 33(2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 224(2)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/224/2/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-97ad7f4972c95f90f6dcbaee7321a490]: Textual amendment: Words in s. 33(2) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 224(2)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/224/2/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-97ad7f4972c95f90f6dcbaee7321a490]: Textual amendment: Words in s. 33(2) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 224(2)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/224/2/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-5243d35e3328204b4f1675a4d4eb8266]: Textual amendment: Words in s. 33(4) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 224(2)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/224/2/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-5243d35e3328204b4f1675a4d4eb8266]: Textual amendment: Words in s. 33(4) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 224(2)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/224/2/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-8a493faeee4982f1ad8746ca29069dce]: Textual amendment: Words in s. 33(4) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 224(2)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/224/2/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-8a493faeee4982f1ad8746ca29069dce]: Textual amendment: Words in s. 33(4) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 224(2)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/224/2/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-b45601dd5a7122b0265fd768b11e2040]: Textual amendment: S. 33(5) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 224(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/224/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-b45601dd5a7122b0265fd768b11e2040]: Textual amendment: S. 33(5) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 224(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/224/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-0a107482f354e316b18cd3a965d62158]: Textual amendment: S. 33(6) repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-0a107482f354e316b18cd3a965d62158]: Textual amendment: S. 33(6) repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

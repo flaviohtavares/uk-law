@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Persons who may not be members or chief executive of the Commission[^key-3130582aa94c9474a6b72a33219aa607]
+## 14. Persons who may not be members or chief executive of the Commission[^c-3130582aa94c9474a6b72a33219aa607]
 
 *Extent: E+W*
 
@@ -96,4 +96,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3130582aa94c9474a6b72a33219aa607]: Commencement: S. 14 in force at 25.6.2024, see [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a)
+[^c-3130582aa94c9474a6b72a33219aa607]: Commencement: S. 14 in force at 25.6.2024, see [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a)

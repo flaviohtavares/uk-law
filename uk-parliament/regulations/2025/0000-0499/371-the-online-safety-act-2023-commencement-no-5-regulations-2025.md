@@ -31,34 +31,34 @@ summary: ''
 
 ELECTRONIC COMMUNICATIONS
 
-The Online Safety Act 2023 (Commencement No. 5) Regulations 2025 (revoked)[^key-d7d3fad005f8564df21392fcf6653d40]
+The Online Safety Act 2023 (Commencement No. 5) Regulations 2025 (revoked)[^c-d7d3fad005f8564df21392fcf6653d40]
 
 Made
 
 19th March 2025
 
-[^key-d7d3fad005f8564df21392fcf6653d40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d7d3fad005f8564df21392fcf6653d40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and extent[^key-d7d3fad005f8564df21392fcf6653d40]
+## 1. Citation and extent[^c-d7d3fad005f8564df21392fcf6653d40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Provisions coming into force on 3rd November 2025[^key-d7d3fad005f8564df21392fcf6653d40]
+## 2. Provisions coming into force on 3rd November 2025[^c-d7d3fad005f8564df21392fcf6653d40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d7d3fad005f8564df21392fcf6653d40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d7d3fad005f8564df21392fcf6653d40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d7d3fad005f8564df21392fcf6653d40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d7d3fad005f8564df21392fcf6653d40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d7d3fad005f8564df21392fcf6653d40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d7d3fad005f8564df21392fcf6653d40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d7d3fad005f8564df21392fcf6653d40]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2025/371) revoked (9.10.2025) by [The Online Safety Act 2023 (Commencement No. 5) (Revocation) Regulations 2025 (S.I. 2025/1064)](https://www.legislation.gov.uk/uksi/2025/1064), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1064/regulation/2)
+[^c-d7d3fad005f8564df21392fcf6653d40]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2025/371) revoked (9.10.2025) by [The Online Safety Act 2023 (Commencement No. 5) (Revocation) Regulations 2025 (S.I. 2025/1064)](https://www.legislation.gov.uk/uksi/2025/1064), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1064/regulation/2)

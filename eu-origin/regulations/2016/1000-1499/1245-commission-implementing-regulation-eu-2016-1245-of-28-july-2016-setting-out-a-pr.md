@@ -61,9 +61,9 @@ HAS ADOPTED THIS REGULATION:
 
 **Article 1.** A preliminary table showing the correlation between the codes of the Combined Nomenclature (‘CN codes’) provided for in Regulation (EEC) No 2658/87 and the entries of waste listed in Annexes III, IV and V to Regulation (EC) No 1013/2006 is set out in the Annex to this Regulation.
 
-**Article 2.**[^key-454ee4461d1c3fe855dd7c8a785921aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-454ee4461d1c3fe855dd7c8a785921aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e636a0b851ebf628d6d0dd44a6d1095]...
+[^c-1e636a0b851ebf628d6d0dd44a6d1095]...
 
 Done at Brussels, 28 July 2016.
 
@@ -1756,9 +1756,9 @@ In Table A, some waste codes are correlated with more than one CN code and in Ta
 
 [^f00003]: Footnote: Directive 2008/98/EC of the European Parliament and of the Council of 19 November 2008 on waste and repealing certain Directives ([OJ L 312, 22.11.2008, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.312.01.0003.01.ENG)).
 
-[^key-454ee4461d1c3fe855dd7c8a785921aa]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/2016/1245/article/2) omitted (31.12.2020) by virtue of [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [111(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/111/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-454ee4461d1c3fe855dd7c8a785921aa]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/2016/1245/article/2) omitted (31.12.2020) by virtue of [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [111(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/111/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1e636a0b851ebf628d6d0dd44a6d1095]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2016/1245/signature) omitted (31.12.2020) by virtue of [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [111(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/111/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1e636a0b851ebf628d6d0dd44a6d1095]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2016/1245/signature) omitted (31.12.2020) by virtue of [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [111(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/111/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00007]: Footnote: The description of waste codes is provided in Annexes III, IV and V to Regulation (EC) No 1013/2006.
 

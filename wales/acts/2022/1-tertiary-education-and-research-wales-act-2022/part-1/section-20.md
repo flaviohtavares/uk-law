@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Guidance[^key-b80eb3c6a635cc8407d10ee5f8e3599d][^key-75730a521384194af3f0cc9088723c63]
+## 20. Guidance[^c-b80eb3c6a635cc8407d10ee5f8e3599d][^c-75730a521384194af3f0cc9088723c63]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In exercising its functions, the Commission must have regard to guidance given t
 
 ## Annotations
 
-[^key-b80eb3c6a635cc8407d10ee5f8e3599d]: Commencement: S. 20 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-b80eb3c6a635cc8407d10ee5f8e3599d]: Commencement: S. 20 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-75730a521384194af3f0cc9088723c63]: Commencement: [S. 20](https://www.legislation.gov.uk/asc/2022/1/section/20) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(f)](https://www.legislation.gov.uk/wsi/2023/919/article/2/f)
+[^c-75730a521384194af3f0cc9088723c63]: Commencement: [S. 20](https://www.legislation.gov.uk/asc/2022/1/section/20) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(f)](https://www.legislation.gov.uk/wsi/2023/919/article/2/f)

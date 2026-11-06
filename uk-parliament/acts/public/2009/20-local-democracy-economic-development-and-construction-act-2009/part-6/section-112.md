@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Preparation and publication of scheme: existing combined authority[^key-e33b547509d04fd416d3e03dd55c4b03]
+## 112. Preparation and publication of scheme: existing combined authority[^c-e33b547509d04fd416d3e03dd55c4b03]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e33b547509d04fd416d3e03dd55c4b03]: Textual amendment: [S. 112](https://www.legislation.gov.uk/ukpga/2009/20/section/112) omitted (26.10.2023) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 66(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/66/2), [255(2)(i)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/i) (with [ss. 66(10)](https://www.legislation.gov.uk/ukpga/2023/55/section/66/10)[(12)](https://www.legislation.gov.uk/ukpga/2023/55/section/66/12), [247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-e33b547509d04fd416d3e03dd55c4b03]: Textual amendment: [S. 112](https://www.legislation.gov.uk/ukpga/2009/20/section/112) omitted (26.10.2023) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 66(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/66/2), [255(2)(i)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/i) (with [ss. 66(10)](https://www.legislation.gov.uk/ukpga/2023/55/section/66/10)[(12)](https://www.legislation.gov.uk/ukpga/2023/55/section/66/12), [247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

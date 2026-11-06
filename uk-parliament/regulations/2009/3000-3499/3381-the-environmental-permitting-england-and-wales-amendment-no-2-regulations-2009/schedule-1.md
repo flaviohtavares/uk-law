@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — SCHEDULE 2 TO THE ENVIRONMENTAL PERMITTING (ENGLAND AND WALES) REGULATIONS 2007[^key-fbbc3e13c65f77397a63158c5e38f696]
+## SCHEDULE 1 — SCHEDULE 2 TO THE ENVIRONMENTAL PERMITTING (ENGLAND AND WALES) REGULATIONS 2007[^c-fbbc3e13c65f77397a63158c5e38f696]
 
 *Extent: E+W*
 
@@ -24,60 +24,60 @@ summary: ''
 
 Regulation 10
 
-> **SCHEDULE 2 — Exempt waste operations: general[^key-fbbc3e13c65f77397a63158c5e38f696]**
+> **SCHEDULE 2 — Exempt waste operations: general[^c-fbbc3e13c65f77397a63158c5e38f696]**
 >
-> **1. Interpretation: general[^key-fbbc3e13c65f77397a63158c5e38f696]**
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **2. Interpretation: exemption registration authority[^key-fbbc3e13c65f77397a63158c5e38f696]**
+> **1. Interpretation: general[^c-fbbc3e13c65f77397a63158c5e38f696]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3. Requirements for exempt waste operations[^key-fbbc3e13c65f77397a63158c5e38f696]**
+> **2. Interpretation: exemption registration authority[^c-fbbc3e13c65f77397a63158c5e38f696]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4. Procedure for registering an exempt waste operation[^key-fbbc3e13c65f77397a63158c5e38f696]**
+> **3. Requirements for exempt waste operations[^c-fbbc3e13c65f77397a63158c5e38f696]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5. Restrictions on registering exempt waste operations carried on at the same place[^key-fbbc3e13c65f77397a63158c5e38f696]**
+> **4. Procedure for registering an exempt waste operation[^c-fbbc3e13c65f77397a63158c5e38f696]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **6. Fee for registration relating to WEEE operations[^key-fbbc3e13c65f77397a63158c5e38f696]**
+> **5. Restrictions on registering exempt waste operations carried on at the same place[^c-fbbc3e13c65f77397a63158c5e38f696]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **7. Validity of registration[^key-fbbc3e13c65f77397a63158c5e38f696]**
+> **6. Fee for registration relating to WEEE operations[^c-fbbc3e13c65f77397a63158c5e38f696]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **8. Changes to relevant particulars[^key-fbbc3e13c65f77397a63158c5e38f696]**
+> **7. Validity of registration[^c-fbbc3e13c65f77397a63158c5e38f696]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **9. Register of exempt waste operations[^key-fbbc3e13c65f77397a63158c5e38f696]**
+> **8. Changes to relevant particulars[^c-fbbc3e13c65f77397a63158c5e38f696]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **10. Duty to remove entries from the register[^key-fbbc3e13c65f77397a63158c5e38f696]**
+> **9. Register of exempt waste operations[^c-fbbc3e13c65f77397a63158c5e38f696]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **11. Exclusion from the register of information affecting national security[^key-fbbc3e13c65f77397a63158c5e38f696]**
+> **10. Duty to remove entries from the register[^c-fbbc3e13c65f77397a63158c5e38f696]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **12. Record keeping[^key-fbbc3e13c65f77397a63158c5e38f696]**
+> **11. Exclusion from the register of information affecting national security[^c-fbbc3e13c65f77397a63158c5e38f696]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **13. Periodic inspections[^key-fbbc3e13c65f77397a63158c5e38f696]**
+> **12. Record keeping[^c-fbbc3e13c65f77397a63158c5e38f696]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **13. Periodic inspections[^c-fbbc3e13c65f77397a63158c5e38f696]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fbbc3e13c65f77397a63158c5e38f696]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/3381) revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/1)
+[^c-fbbc3e13c65f77397a63158c5e38f696]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/3381) revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/1)

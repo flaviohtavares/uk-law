@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 65. Notification of determinations[^key-ca196b8f49d5be58c852134828355e94]
+## 65. Notification of determinations[^c-ca196b8f49d5be58c852134828355e94]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ and every notification shall include a statement as to the matters set out in Sc
 
 ## Annotations
 
-[^key-ca196b8f49d5be58c852134828355e94]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/1988/1890/regulation/65) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-ca196b8f49d5be58c852134828355e94]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/1988/1890/regulation/65) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Master’s power of arrest.[^key-abadf3f4339b60ebc166b3a1a8656b92]
+## 105. Master’s power of arrest.[^c-abadf3f4339b60ebc166b3a1a8656b92]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The master of any United Kingdom ship may cause any person on board the ship to 
 
 ## Annotations
 
-[^key-abadf3f4339b60ebc166b3a1a8656b92]: Modification: [S. 105](https://www.legislation.gov.uk/ukpga/1995/21/section/105) applied (7.1.2021) by [The Merchant Shipping (Home Office Ships) Order 2020 (S.I. 2020/1551)](https://www.legislation.gov.uk/uksi/2020/1551), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1551/article/1/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2020/1551/article/9/2/a)
+[^c-abadf3f4339b60ebc166b3a1a8656b92]: Modification: [S. 105](https://www.legislation.gov.uk/ukpga/1995/21/section/105) applied (7.1.2021) by [The Merchant Shipping (Home Office Ships) Order 2020 (S.I. 2020/1551)](https://www.legislation.gov.uk/uksi/2020/1551), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1551/article/1/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2020/1551/article/9/2/a)

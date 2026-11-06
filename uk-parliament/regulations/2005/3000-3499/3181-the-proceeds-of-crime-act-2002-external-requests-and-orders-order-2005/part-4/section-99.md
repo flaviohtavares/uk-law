@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Seizure in pursuance of restraint order[^key-6e8fc95537560c120f094f9caf6a0be1]
+## 99. Seizure in pursuance of restraint order[^c-6e8fc95537560c120f094f9caf6a0be1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e8fc95537560c120f094f9caf6a0be1]: Textual amendment: [Art. 99](https://www.legislation.gov.uk/uksi/2005/3181/article/99) omitted (11.8.2016) by virtue of [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [26](https://www.legislation.gov.uk/uksi/2016/662/article/26)
+[^c-6e8fc95537560c120f094f9caf6a0be1]: Textual amendment: [Art. 99](https://www.legislation.gov.uk/uksi/2005/3181/article/99) omitted (11.8.2016) by virtue of [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [26](https://www.legislation.gov.uk/uksi/2016/662/article/26)

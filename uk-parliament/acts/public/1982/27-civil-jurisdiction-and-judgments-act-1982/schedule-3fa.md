@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3FA — DECLARATIONS MADE BY THE UNITED KINGDOM IN RELATION TO THE 2005 HAGUE CONVENTION[^key-1d55a0583671a9219b7d38866f64f6bf]
+## SCHEDULE 3FA — DECLARATIONS MADE BY THE UNITED KINGDOM IN RELATION TO THE 2005 HAGUE CONVENTION[^c-1d55a0583671a9219b7d38866f64f6bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ The United Kingdom of Great Britain and Northern Ireland declares, in accordance
 
 ## Annotations
 
-[^key-1d55a0583671a9219b7d38866f64f6bf]: Textual amendment: [Sch. 3FA](https://www.legislation.gov.uk/ukpga/1982/27/schedule/3FA) inserted (26.1.2022) by [The Civil Jurisdiction and Judgments (2005 Hague Convention and 2007 Hague Convention) (Amendment) Regulations 2022 (S.I. 2022/77)](https://www.legislation.gov.uk/uksi/2022/77), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/77/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2022/77/schedule/1)
+[^c-1d55a0583671a9219b7d38866f64f6bf]: Textual amendment: [Sch. 3FA](https://www.legislation.gov.uk/ukpga/1982/27/schedule/3FA) inserted (26.1.2022) by [The Civil Jurisdiction and Judgments (2005 Hague Convention and 2007 Hague Convention) (Amendment) Regulations 2022 (S.I. 2022/77)](https://www.legislation.gov.uk/uksi/2022/77), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/77/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2022/77/schedule/1)

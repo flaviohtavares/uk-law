@@ -42,7 +42,7 @@ Coming into force in accordance with article 1
 
 In exercise of the powers conferred on the appropriate Minister by section 11 of the Channel Tunnel Act 1987[^f00001], the Lord Chancellor, the Secretary of State for the Home Department, the Secretary of State for Health, the Minister of Agriculture, Fisheries and Food and the Commissioners of Customs and Excise hereby make the following Order:
 
-## 1. Citation and commencement[^M_X_b4cda6dd-f9af-40a6-f49c-874e74bd5192][^key-0efdcdbb91cc62dc6cd07bfed5355557]
+## 1. Citation and commencement[^M_X_b4cda6dd-f9af-40a6-f49c-874e74bd5192][^c-0efdcdbb91cc62dc6cd07bfed5355557]
 
 (1) This Order may be cited as the Channel Tunnel (Miscellaneous Provisions) Order 1994 and, except as provided in paragraphs (2) and (3) below, shall come into force on the date on which the Agreement between the Government of the Kingdom of Belgium, the Government of the French Republic and the Government of the United Kingdom of Great Britain and Northern Ireland Concerning Rail Traffic between Belgium and the United Kingdom Using the Channel Fixed Link enters into force. That date will be notified in the London, Edinburgh and Belfast Gazettes.
 
@@ -53,7 +53,7 @@ In exercise of the powers conferred on the appropriate Minister by section 11 of
 - (a) those specified in paragraphs 6, 8(b), 9, 10 and 12 of Schedule 4, and
 - (b) those specified in paragraph 11 of Schedule 4 except the amendments to paragraphs 1(11)(d) and 3(b) of Schedule 4 to the 1993 Order.
 
-## 2. Interpretation[^key-a5dd50d483e7ca659970b964ef6c7164]
+## 2. Interpretation[^c-a5dd50d483e7ca659970b964ef6c7164]
 
 (1) In this Order, except for the purpose of construing the tripartite articles, and in any enactment as applied by it with modifications, any expression for which there is an entry in the first column of Schedule 1 has the meaning given against it in the second column.
 
@@ -68,39 +68,39 @@ of section 11(1) of the Channel Tunnel Act 1987.
 
 - (a) in Part I of Schedule 2 (being Articles or parts of Articles of the Agreement mentioned in article 1 above), and
 - (b) in Part II of Schedule 2 (being Articles or parts of Articles of the Protocol attached to and forming part of that Agreement);
-- (c)[^key-6b48f7f2187e9dcb0be3540aa1ecc249] in Part III of Schedule 2 (being Articles or parts of Articles of the Protocol attached to and forming part of the Agreement, as applied by the Administrative Arrangement to immigration controls upon persons travelling on international trains making a commercial stop)
+- (c)[^c-6b48f7f2187e9dcb0be3540aa1ecc249] in Part III of Schedule 2 (being Articles or parts of Articles of the Protocol attached to and forming part of the Agreement, as applied by the Administrative Arrangement to immigration controls upon persons travelling on international trains making a commercial stop)
 
 and in the tripartite articles the expression “the Fixed Link” shall for the purposes of this Order be taken to have the same meaning as is given to “the tunnel system” by section 1(7) of the Channel Tunnel Act 1987.
 
-## 3. Application of tripartite articles[^key-890650b8182035927c3cb37794de0f24]
+## 3. Application of tripartite articles[^c-890650b8182035927c3cb37794de0f24]
 
 (1) The tripartite articles shall have the force of law in the United Kingdom—
 
 - (a) within a control zone, and
 - (b) elsewhere for the authorised purposes only.
 
-(2) Subject to paragraph (4),[^key-23f0af9e526ca8b6408d1cf82017f23b] without prejudice to paragraph (1) officers belonging to the Kingdom of Belgium and officers belonging to the French Republic shall to the extent specified in the tripartite articles have rights and obligations and powers to carry out functions in the United Kingdom.
+(2) Subject to paragraph (4),[^c-23f0af9e526ca8b6408d1cf82017f23b] without prejudice to paragraph (1) officers belonging to the Kingdom of Belgium and officers belonging to the French Republic shall to the extent specified in the tripartite articles have rights and obligations and powers to carry out functions in the United Kingdom.
 
-(3) Subject to paragraph (4),[^key-dbbc627d82381a85d1c215428445033e] for the purpose of giving full effect to Article 17 of the Part II provisions and to Article 17 of the Part III provisions[^key-3479e11539d0626630da622846a570d8] (accommodation, etc., for Belgian authorities) the appropriate Minister may by written notice require any occupier or person concerned with the management of a terminal control point to provide such accommodation, installations and equipment as may be necessary to satisfy requirements determined under Article 16 of the Protocol mentioned in article 2(3)(b) above and under that Article as applied by Article 3 of the Administrative Arrangement (which requires the competent authorities of the Kingdom of Belgium and of the United Kingdom to determine their respective requirements in consultation with one another).
+(3) Subject to paragraph (4),[^c-dbbc627d82381a85d1c215428445033e] for the purpose of giving full effect to Article 17 of the Part II provisions and to Article 17 of the Part III provisions[^c-3479e11539d0626630da622846a570d8] (accommodation, etc., for Belgian authorities) the appropriate Minister may by written notice require any occupier or person concerned with the management of a terminal control point to provide such accommodation, installations and equipment as may be necessary to satisfy requirements determined under Article 16 of the Protocol mentioned in article 2(3)(b) above and under that Article as applied by Article 3 of the Administrative Arrangement (which requires the competent authorities of the Kingdom of Belgium and of the United Kingdom to determine their respective requirements in consultation with one another).
 
-(4)[^key-efcaea22c0569aebdc88e43022cde415] Nothing in this article implies the existence of a control zone in the station of London-Waterloo on British Territory.
+(4)[^c-efcaea22c0569aebdc88e43022cde415] Nothing in this article implies the existence of a control zone in the station of London-Waterloo on British Territory.
 
-## 4. Application of enactments[^key-69f61d3cb4834d8c876672b76ed020c3]
+## 4. Application of enactments[^c-69f61d3cb4834d8c876672b76ed020c3]
 
 (1) All frontier control enactments shall for the purpose of enabling officers belonging to the United Kingdom to carry out frontier controls extend—
 
 - (a) to France within a control zone, and
 - (b) to Belgium within a control zone.
 
-(1A)[^key-fb3353c6f07904a9ee95437151c09910] The Equality Act 2010[^key-e47708c66dd4a8caa122250781e48a26] shall apply to the carrying out by immigration officers of their functions in a control zone outside the United Kingdom as it applies to the carrying out of their functions within the United Kingdom.
+(1A)[^c-fb3353c6f07904a9ee95437151c09910] The Equality Act 2010[^c-e47708c66dd4a8caa122250781e48a26] shall apply to the carrying out by immigration officers of their functions in a control zone outside the United Kingdom as it applies to the carrying out of their functions within the United Kingdom.
 
-(2)[^key-76045dd2cf1b87e7f94b7742283650de] For the purposes of Article 3 of the UK GDPR and[^key-4c02ef6854bdb3b408609b0e637f9db3] section 207 of the Data Protection Act 2018 (“**the 2018 Act**”), data which is processed in a control zone in Belgium, in connection with the carrying out of frontier controls, by an officer belonging to the United Kingdom is to be treated as processed by a controller established in the United Kingdom in the context of the activities of that establishment (and accordingly the UK GDPR and the 2018 Act apply[^key-0b4a76e8f0bba6beee044cc641cd694c] in respect of such data).
+(2)[^c-76045dd2cf1b87e7f94b7742283650de] For the purposes of Article 3 of the UK GDPR and[^c-4c02ef6854bdb3b408609b0e637f9db3] section 207 of the Data Protection Act 2018 (“**the 2018 Act**”), data which is processed in a control zone in Belgium, in connection with the carrying out of frontier controls, by an officer belonging to the United Kingdom is to be treated as processed by a controller established in the United Kingdom in the context of the activities of that establishment (and accordingly the UK GDPR and the 2018 Act apply[^c-0b4a76e8f0bba6beee044cc641cd694c] in respect of such data).
 
-(3) For the purposes of Article 3 of the UK GDPR and[^key-8e40b2eacb1f70aabdf0aef021176f22] section 207 of the 2018 Act, data which is processed in a control zone in the United Kingdom[^key-4f4e08e434f76b77f7c893b3eabf9541], in connection with the carrying out of frontier controls, by an officer belonging to the Kingdom of Belgium is to be treated as processed by a controller established in the Kingdom of Belgium in the context of the activities of that establishment (and accordingly the UK GDPR and the 2018 Act do[^key-748d04816a9d6ec66b1e8b7f1f88b0dd] not apply in respect of such data).
+(3) For the purposes of Article 3 of the UK GDPR and[^c-8e40b2eacb1f70aabdf0aef021176f22] section 207 of the 2018 Act, data which is processed in a control zone in the United Kingdom[^c-4f4e08e434f76b77f7c893b3eabf9541], in connection with the carrying out of frontier controls, by an officer belonging to the Kingdom of Belgium is to be treated as processed by a controller established in the Kingdom of Belgium in the context of the activities of that establishment (and accordingly the UK GDPR and the 2018 Act do[^c-748d04816a9d6ec66b1e8b7f1f88b0dd] not apply in respect of such data).
 
-(4)[^key-41853b6494c6a76f162bb39dae2523ee] In this article, “**the UK GDPR**” has the meaning given in section 3(10) of the Data Protection Act 2018.
+(4)[^c-41853b6494c6a76f162bb39dae2523ee] In this article, “**the UK GDPR**” has the meaning given in section 3(10) of the Data Protection Act 2018.
 
-## 5. Application of criminal law[^key-266fb19982c979221371d9ed140859db]
+## 5. Application of criminal law[^c-266fb19982c979221371d9ed140859db]
 
 (1) Any act or omission which—
 
@@ -109,7 +109,7 @@ and in the tripartite articles the expression “the Fixed Link” shall for the
 
 shall be treated for the purposes of that enactment as taking place in England.
 
-(1A)[^key-b9021836ae30f66011c57a5d04e09abb] Any act or omission which—
+(1A)[^c-b9021836ae30f66011c57a5d04e09abb] Any act or omission which—
 
 - (a) takes place inside the United Kingdom in a control zone and relates to an officer belonging to the French Republic or the Kingdom of Belgium; and
 - (b) would constitute an offence under a frontier control enactment if it took place in relation to an officer belonging to the United Kingdom,
@@ -118,26 +118,26 @@ shall be treated for the purposes of that enactment as if it were an act or omis
 
 (1B) Section 22 of the UK Borders Act 2007 is modified for the purposes of paragraph (1A) so that the reference in subsection (1) of that section to an immigration officer includes a reference to an officer belonging to the French Republic or the Kingdom of Belgium.
 
-(2) Summary proceedings for anything that is by virtue of paragraph (1) or (1A)[^key-c8ae810a069c48c7aeab66f0623bba72] an offence triable summarily or triable either way may be taken, and the offence may for all incidental purposes be treated as having been committed, in the county of Kent or in the area comprising the inner London boroughs[^key-2226d28be6afd5935664b8147ab9bf6d].
+(2) Summary proceedings for anything that is by virtue of paragraph (1) or (1A)[^c-c8ae810a069c48c7aeab66f0623bba72] an offence triable summarily or triable either way may be taken, and the offence may for all incidental purposes be treated as having been committed, in the county of Kent or in the area comprising the inner London boroughs[^c-2226d28be6afd5935664b8147ab9bf6d].
 
-(3) Any jurisdiction conferred by virtue of paragraphs (1), (1A) and (2)[^key-21e8743aa5d591af721394a5f532606b] on any court is without prejudice to any jurisdiction exercisable apart from this article by that or any other court.
+(3) Any jurisdiction conferred by virtue of paragraphs (1), (1A) and (2)[^c-21e8743aa5d591af721394a5f532606b] on any court is without prejudice to any jurisdiction exercisable apart from this article by that or any other court.
 
 (4) Where it is proposed to institute proceedings in respect of an alleged offence in any court and a question as to the court’s jurisdiction arises under Article 11(2) of the Part I provisions, it shall be presumed, unless the contrary is proved, that the court has jurisdiction by virtue of that Article.
 
-## 6. Powers of officers[^key-3da2d0affb0b48c64175b0b2a76a66c3]
+## 6. Powers of officers[^c-3da2d0affb0b48c64175b0b2a76a66c3]
 
 Schedule 3 (which contains provision as to powers exercisable by constables and other officers) shall have effect.
 
-## 7. Enactments modified[^key-50a32ddee03554ff38772667e0e4a8ae]
+## 7. Enactments modified[^c-50a32ddee03554ff38772667e0e4a8ae]
 
-(1)[^key-9de6934256fca121178d13061267c287] Without prejudice to the generality of articles 4(1) and 5(1), the enactments specified in paragraph (2)[^key-6ff03b5f552c7ebe1a65f8d02f80e0e9] shall—
+(1)[^c-9de6934256fca121178d13061267c287] Without prejudice to the generality of articles 4(1) and 5(1), the enactments specified in paragraph (2)[^c-6ff03b5f552c7ebe1a65f8d02f80e0e9] shall—
 
 - (a) in their application to France and Belgium by virtue of article 4(1), and
 - (b) in their application to the United Kingdom for the authorised purposes,
 
 have effect with modifications the same as those set out in Schedule 4 to the 1993 Order.
 
-(2)[^key-0d19ec973b0432b8ee4cf690ff37406d] The enactments are—
+(2)[^c-0d19ec973b0432b8ee4cf690ff37406d] The enactments are—
 
 - (a) the Immigration Act 1971;
 - (b) the Public Health (Control of Disease) Act 1984;
@@ -148,7 +148,7 @@ have effect with modifications the same as those set out in Schedule 4 to the 19
 
 (3) Nothing in paragraph (1)(b) implies the presence of a control zone in the station of London-Waterloo on British Territory.
 
-## 8. Amendments of instruments[^key-2159b3bc6281a2a4f8746c73aa796280]
+## 8. Amendments of instruments[^c-2159b3bc6281a2a4f8746c73aa796280]
 
 The instruments mentioned in Schedule 4 shall have effect with the amendments there specified.
 
@@ -186,14 +186,14 @@ Commissioner of Customs and Excise
 
 24th May 1994
 
-## SCHEDULE 1 — EXPRESSIONS DEFINED[^key-326b96fc8552ba64abd946b8616132c8]
+## SCHEDULE 1 — EXPRESSIONS DEFINED[^c-326b96fc8552ba64abd946b8616132c8]
 
 Article 2(1)
 
 | *Expression* | *Meaning* |
 | --- | --- |
-| “Administrative Arrangement”[^key-481640cd6b8fb65dfc29c163dd8bb873] | The Administrative Arrangement made between the Secretary of State for the Home Department of the United Kingdom of Great Britain and Northern Ireland, the Vice Prime Minister, Minister of Home Affairs of the Kingdom of Belgium, and the Minister of the Interior, of Internal Security and Local Freedoms of the French Republic, concerning the exercise of Immigration Controls by British Officials at the Gare du Midi in Brussels and by Belgian Officials at Waterloo International Station in London and Ashford International dated 1<sup>st</sup> October 2004. |
-| “Control zone” | A control zone defined under Article 1(6) of the Part I provisions but excluding the station of London-Waterloo on British territory[^key-216ecc9a98c232f3450cb9e290e48a5f]. |
+| “Administrative Arrangement”[^c-481640cd6b8fb65dfc29c163dd8bb873] | The Administrative Arrangement made between the Secretary of State for the Home Department of the United Kingdom of Great Britain and Northern Ireland, the Vice Prime Minister, Minister of Home Affairs of the Kingdom of Belgium, and the Minister of the Interior, of Internal Security and Local Freedoms of the French Republic, concerning the exercise of Immigration Controls by British Officials at the Gare du Midi in Brussels and by Belgian Officials at Waterloo International Station in London and Ashford International dated 1<sup>st</sup> October 2004. |
+| “Control zone” | A control zone defined under Article 1(6) of the Part I provisions but excluding the station of London-Waterloo on British territory[^c-216ecc9a98c232f3450cb9e290e48a5f]. |
 | “Frontier controls” | So far as they constitute frontier controls as defined in Article 1(1) of the Part I provisions and are controls in relation to persons or goods, police, immigration, customs, health, veterinary and phytosanitary controls. |
 | “Frontier control enactment” | An Act, or an instrument made under an Act, for the time being in force, which contains provision relating to frontier controls. |
 | “Immigration controls” | The controls carried out by the authorities of the State of arrival to check whether passengers making a journey between Belgium and the United Kingdom are in possession of the necessary travel documents and fulfil the other conditions for entry to its territory. |
@@ -208,7 +208,7 @@ Article 2(1)
 | “Train manager” | In relation to a through train or shuttle train, the person designated as train manager by the person operating the international service on which the train is engaged. |
 | “The tunnel system” | The meaning given by section 1(7) of the Channel Tunnel Act 1987. |
 
-## SCHEDULE 2 — TRIPARTITE ARTICLES[^key-ac8d34a6aa7f65015405a47fbe0081d0]
+## SCHEDULE 2 — TRIPARTITE ARTICLES[^c-ac8d34a6aa7f65015405a47fbe0081d0]
 
 Article 2(3)
 
@@ -404,7 +404,7 @@ All goods which are necessary to enable the officers of the other States to carr
 
 (1) The officers of the other States whilst exercising their functions in the host State shall be authorised to communicate with their national authorities.
 
-### PART III — Articles or parts of Articles of the Protocol attached to and forming part of the Agreement, as applied by the Administrative Arrangement to immigration controls upon passengers travelling on international trains making a commercial stop.[^key-4ec83aa69b799d93b937d2f196d47df8]
+### PART III — Articles or parts of Articles of the Protocol attached to and forming part of the Agreement, as applied by the Administrative Arrangement to immigration controls upon passengers travelling on international trains making a commercial stop.[^c-4ec83aa69b799d93b937d2f196d47df8]
 
 #### Article 1
 
@@ -488,23 +488,23 @@ The officers of the other State whilst exercising their functions in the host St
 
 Article 6
 
-**1.**[^key-22b658a6e97021b7200ee3aef51e81cc] Part I of Schedule 3 to the 1993 Order shall, with the variations set out in paragraphs 2 to 7 below, be taken to apply as if it were contained in this Order.
+**1.**[^c-22b658a6e97021b7200ee3aef51e81cc] Part I of Schedule 3 to the 1993 Order shall, with the variations set out in paragraphs 2 to 7 below, be taken to apply as if it were contained in this Order.
 
-**2.**[^key-36f3bdfc83782d66a0db7331fc851eec] Omit paragraph 1.
+**2.**[^c-36f3bdfc83782d66a0db7331fc851eec] Omit paragraph 1.
 
-**3.**[^key-afe49e8bda81a9385f2c0993222d31f9] In paragraph 2—
+**3.**[^c-afe49e8bda81a9385f2c0993222d31f9] In paragraph 2—
 
 (a) for the words “a control zone in France”, wherever occurring, substitute “a control zone in France or Belgium”;
 
-(b) in sub-paragraph (1)(a) for the words “the 1984 Act” substitute “the Police and Criminal Evidence Act 1984 (in this Schedule referred to as “the 1984 Act”)”; [^key-5f083bf6c00a29075a4e6bbfe9f40215]...
+(b) in sub-paragraph (1)(a) for the words “the 1984 Act” substitute “the Police and Criminal Evidence Act 1984 (in this Schedule referred to as “the 1984 Act”)”; [^c-5f083bf6c00a29075a4e6bbfe9f40215]...
 
-(baa)[^key-a0cb38249846d0aa3a85e347789dbb65] in sub-paragraph (2)(a), omit the words “and where this sub-paragraph applies, the reference in sub-paragraph (1) to a control zone in France shall be construed as including a reference to a supplementary control zone in France,”;
+(baa)[^c-a0cb38249846d0aa3a85e347789dbb65] in sub-paragraph (2)(a), omit the words “and where this sub-paragraph applies, the reference in sub-paragraph (1) to a control zone in France shall be construed as including a reference to a supplementary control zone in France,”;
 
 (bab) omit sub-paragraph (3)(b);
 
-(ba)[^key-b32a28260dd4cb82040e0ea684b133e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(ba)[^c-b32a28260dd4cb82040e0ea684b133e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(bb)[^key-13a3f6fbe619636b1f04eaf3be9b8c66] omit sub-paragraph (3B); and
+(bb)[^c-13a3f6fbe619636b1f04eaf3be9b8c66] omit sub-paragraph (3B); and
 
 (c) for sub-paragraphs (4) to (6) substitute—
 
@@ -517,17 +517,17 @@ Article 6
 
 .
 
-**4.**[^key-62b8277ef6de74a13cbc7ee492a20eab] In paragraph 3—
+**4.**[^c-62b8277ef6de74a13cbc7ee492a20eab] In paragraph 3—
 
 - (a) in sub-paragraph (1)—
   - (i) for the words “a control zone in France” substitute “a control zone in France or Belgium”,
   - (ii) after the words “held in France” insert “or, as the case may be, Belgium”, and
   - (iii) omit the words after “24 hours”;
-- (b)[^key-0b1eb5e3a935109abbf1a8b5719478ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-0b1eb5e3a935109abbf1a8b5719478ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) omit sub-paragraph (3); and
-- (d)[^key-7d8d218fd1c5e6b19bd6755473c0ac37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-7d8d218fd1c5e6b19bd6755473c0ac37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-1155a8e1884ace11dea340a5a119807a] In paragraph 4—
+**5.**[^c-1155a8e1884ace11dea340a5a119807a] In paragraph 4—
 
 - (a) for sub-paragraphs (1) and (2) substitute—
 
@@ -555,11 +555,11 @@ Article 6
   - (i) for the words from “determines” to “exercised” substitute “reaches the conclusion that the United Kingdom has jurisdiction by virtue of Article 11(2)”, and
   - (ii) for the word “determination”, wherever occurring, substitute “conclusion”.”.
 
-**6.**[^key-1310b0fa691f24c822c652959f6d2016] In paragraph 5—
+**6.**[^c-1310b0fa691f24c822c652959f6d2016] In paragraph 5—
 
 - (a) in sub-paragraph (1)—
   - (i) after the words “the French Republic” insert “or to the Kingdom of Belgium”, and
-  - (ii)[^key-a7869e7f566143cd6aa6b9e826372e41] for the words “the tunnel system or a control zone or supplementary control zone” substitute “a control zone”;
+  - (ii)[^c-a7869e7f566143cd6aa6b9e826372e41] for the words “the tunnel system or a control zone or supplementary control zone” substitute “a control zone”;
 - (b) in sub-paragraph (2)—
   - (i) for the word “France” substitute “the State to which he belongs (‘the home State’)”,
   - (ii) for the words “French authorities” substitute “authorities of the home State”, and
@@ -573,7 +573,7 @@ Article 6
   - (iii) for the words “French authorities” substitute “authorities of the home State”, and
   - (iv) for the word “France” substitute “the home State”.
 
-**7.**[^key-b5dcc7df833f7e8a2ee7aa8c2e11bde0] In paragraph 6—
+**7.**[^c-b5dcc7df833f7e8a2ee7aa8c2e11bde0] In paragraph 6—
 
 - (a) in sub-paragraph (1) for the words “in the tunnel system or” substitute “or Belgium in”;
 - (b) in sub-paragraph (2)—
@@ -590,7 +590,7 @@ Article 6
 
 Article 8
 
-### 1. The Rabies (Importation of Dogs, Cats and Other Mammals) Order 1974[^key-b81fc4c4f8c5caddf5fa47666505be67]
+### 1. The Rabies (Importation of Dogs, Cats and Other Mammals) Order 1974[^c-b81fc4c4f8c5caddf5fa47666505be67]
 
 Article 2 of the Rabies (Importation of Dogs, Cats and Other Mammals) Order 1974[^f00009] is amended—
 
@@ -601,7 +601,7 @@ Article 2 of the Rabies (Importation of Dogs, Cats and Other Mammals) Order 1974
   ; and
 - (b) in paragraph (2) by inserting after the words “in France” the words “or Belgium”.
 
-### 2. The Immigration Appeals (Procedure) Rules 1984[^key-efccf9049450d448cf98067993ce7311]
+### 2. The Immigration Appeals (Procedure) Rules 1984[^c-efccf9049450d448cf98067993ce7311]
 
 (1) In this paragraph “the 1984 Rules” means the Immigration Appeals (Procedure) Rules 1984[^f00011].
 
@@ -617,7 +617,7 @@ Article 2 of the Rabies (Importation of Dogs, Cats and Other Mammals) Order 1974
 
 (4) Rule 6(1) of the 1984 Rules is amended by inserting in the proviso after the words “in France” the words “or Belgium”.
 
-### 3. The Prevention of Terrorism (Temporary Provisions) (Places of Detention) Direction 1989[^key-137684f157972dad5225b6a85c86c2d9]
+### 3. The Prevention of Terrorism (Temporary Provisions) (Places of Detention) Direction 1989[^c-137684f157972dad5225b6a85c86c2d9]
 
 The Prevention of Terrorism (Temporary Provisions) (Places of Detention) Direction 1989[^f00012] is amended—
 
@@ -625,11 +625,11 @@ The Prevention of Terrorism (Temporary Provisions) (Places of Detention) Directi
   - “control zone” includes a control zone within the meaning of the Channel Tunnel (International Arrangements) Order 1993 (“the 1993 Order”) and a control zone within the meaning of the Channel Tunnel (Miscellaneous Provisions) Order 1994 (“the 1994 Order”); and “through train” and “shuttle train” have the same meaning as in those Orders;”; and
 - (b) in article 4(2)(bb) by inserting after the words “the 1993 Order” the words “and by the 1994 Order”.
 
-### 4. The Channel Tunnel (Customs and Excise) Order 1990[^key-6e4e9bbdcf482809a71c4024be00b6e9]
+### 4. The Channel Tunnel (Customs and Excise) Order 1990[^c-6e4e9bbdcf482809a71c4024be00b6e9]
 
 In paragraphs 5 to 8 “the 1990 Order” means the Channel Tunnel (Customs and Excise) Order 1990[^f00013].
 
-**5.**[^key-31ce5cc67384e6266f876c533976e808] Article 2 of the 1990 Order (interpretation) is amended—
+**5.**[^c-31ce5cc67384e6266f876c533976e808] Article 2 of the 1990 Order (interpretation) is amended—
 
 - (a) in paragraph (3)—
   - (i) by deleting the expression ““control zone””, and
@@ -650,7 +650,7 @@ In paragraphs 5 to 8 “the 1990 Order” means the Channel Tunnel (Customs and 
 
   .
 
-**6.**[^key-6a19876b9771c996c6984bcbd4d04e74] Article 5 of the 1990 Order (time of importation, exportation etc.) is amended by substituting for paragraph (2)(a) and (b)—
+**6.**[^c-6a19876b9771c996c6984bcbd4d04e74] Article 5 of the 1990 Order (time of importation, exportation etc.) is amended by substituting for paragraph (2)(a) and (b)—
 
 > - (a) in the case of goods intended to be carried in a shuttle train, when they are taken into a control zone in France within the tunnel system,
 > - (b) in the case of goods carried, while the train constitutes a control zone in France or Belgium, in a through train carrying passengers on a journey intended to end at a place in Great Britain other than London, at the time when officers become authorised under Article 12 of the international Articles or, as the case may be, under Article 5 of the Part II provisions, to begin to carry out controls, and
@@ -658,16 +658,16 @@ In paragraphs 5 to 8 “the 1990 Order” means the Channel Tunnel (Customs and 
 
 .
 
-**7.**[^key-d9d8efa4486ceda7119a5754d11bd3d4] Paragraphs A1, 1, 7(b)(ii), 8(a), 17B(a), 18A, 20A and 25 of the Schedule to the 1990 Order are amended by inserting after the word “France” the words “or Belgium”.
+**7.**[^c-d9d8efa4486ceda7119a5754d11bd3d4] Paragraphs A1, 1, 7(b)(ii), 8(a), 17B(a), 18A, 20A and 25 of the Schedule to the 1990 Order are amended by inserting after the word “France” the words “or Belgium”.
 
-**8.**[^key-2f2fbb10839a42f140a781aa52e10f49] Paragraph 17C of the Schedule to the 1990 Order is amended—
+**8.**[^c-2f2fbb10839a42f140a781aa52e10f49] Paragraph 17C of the Schedule to the 1990 Order is amended—
 
 - (a) in sub-paragraph (a) by inserting after the word “France”, and
 - (b) by substituting for the words “within the tunnel system”,
 
 the words “or Belgium”.
 
-### 9. The Channel Tunnel (International Arrangements) Order 1993[^key-ebdb28d8f2132238060aff684366ba90]
+### 9. The Channel Tunnel (International Arrangements) Order 1993[^c-ebdb28d8f2132238060aff684366ba90]
 
 Article 5 of the 1993 Order is amended—
 
@@ -678,7 +678,7 @@ Article 5 of the 1993 Order is amended—
   ; and
 - (b) in paragraph (2) by substituting for the words “paragraph (1)” the words “paragraphs (1) and (1A)”.
 
-**10.**[^key-124b644307da70c23c81576efac8f2ce] Part I of Schedule 3 to the 1993 Order is amended—
+**10.**[^c-124b644307da70c23c81576efac8f2ce] Part I of Schedule 3 to the 1993 Order is amended—
 
 - (a) by inserting after paragraph 1(2)—
 
@@ -699,7 +699,7 @@ Article 5 of the 1993 Order is amended—
 
     .
 
-**11.**[^key-d59eaa5739483c377a18fb972c24d5fe] Schedule 4 to the 1993 Order is amended as shown in the Table below.
+**11.**[^c-d59eaa5739483c377a18fb972c24d5fe] Schedule 4 to the 1993 Order is amended as shown in the Table below.
 
 TABLE
 
@@ -718,7 +718,7 @@ TABLE
 | 3(b) | Schedule 5 paragraph 2 | In the inserted sub-paragraph (1A) after “in France” insert “or Belgium”. |
 | 3(1) | Schedule 5 paragraph 9 | In the substituted paragraph 9(2)(b) after “United Kingdom” insert “or of a railway station which is an international station for the purposes of the Immigration Act 1971”. |
 
-### 12. The Public Health (International Trains) Regulations 1994[^key-41cda0eaabf34572f086d63e96befbff]
+### 12. The Public Health (International Trains) Regulations 1994[^c-41cda0eaabf34572f086d63e96befbff]
 
 (1) In this paragraph “the 1994 Regulations” means the Public Health (International Trains) Regulations 1994[^f00015].
 
@@ -752,7 +752,7 @@ TABLE
 - (a) in paragraph (5) by inserting after the word “enforcement” the word “authority”; and
 - (b) in paragraph (7) by substituting for the words from “the enforcement authority” to “paragraph (1)” the words “any enforcement authority notified in accordance with paragraph (2)”.
 
-### 13. The Immigration (Places of Detention) Direction 1994[^key-d0278f5db88354b8ccf43b5c148ec12a]
+### 13. The Immigration (Places of Detention) Direction 1994[^c-d0278f5db88354b8ccf43b5c148ec12a]
 
 Article 2 of the Immigration (Places of Detention) Direction 1994 is amended by substituting for the words from ““Control zone”” to “1993” the words ““control zone” includes a control zone within the meaning of the Channel Tunnel (International Arrangements) Order 1993 and a control zone within the meaning of the Channel Tunnel (Miscellaneous Provisions) Order 1994; “tunnel system” has the same meaning as in those Orders”.
 
@@ -782,140 +782,140 @@ Schedule 4 contains amendments to a number of instruments, including the 1993 Or
 
 [^M_X_b4cda6dd-f9af-40a6-f49c-874e74bd5192]: Editorial: See House of Lords, European Union Select Committee, Scrutiny of three agreements on the Channel Fixed Link in 12th Report of Session 2019-21 (HL Paper 137, 2.10.2020)
 
-[^key-0efdcdbb91cc62dc6cd07bfed5355557]: Commencement: Art. 1 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-0efdcdbb91cc62dc6cd07bfed5355557]: Commencement: Art. 1 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
 
-[^key-a5dd50d483e7ca659970b964ef6c7164]: Commencement: Art. 2 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-a5dd50d483e7ca659970b964ef6c7164]: Commencement: Art. 2 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
 
-[^key-6b48f7f2187e9dcb0be3540aa1ecc249]: Textual amendment: [Art. 2(3)(c)](https://www.legislation.gov.uk/uksi/1994/1405/article/2/3/c) inserted (25.10.2004) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2004 (S.I. 2004/2589)](https://www.legislation.gov.uk/uksi/2004/2589), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2589/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2004/2589/article/3/1)
+[^c-6b48f7f2187e9dcb0be3540aa1ecc249]: Textual amendment: [Art. 2(3)(c)](https://www.legislation.gov.uk/uksi/1994/1405/article/2/3/c) inserted (25.10.2004) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2004 (S.I. 2004/2589)](https://www.legislation.gov.uk/uksi/2004/2589), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2589/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2004/2589/article/3/1)
 
-[^key-890650b8182035927c3cb37794de0f24]: Commencement: Art. 3 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-890650b8182035927c3cb37794de0f24]: Commencement: Art. 3 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
 
-[^key-23f0af9e526ca8b6408d1cf82017f23b]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/1994/1405/article/3/2) inserted (14.11.2007) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/2908)](https://www.legislation.gov.uk/uksi/2007/2908), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2908/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/2908/article/2/2)
+[^c-23f0af9e526ca8b6408d1cf82017f23b]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/1994/1405/article/3/2) inserted (14.11.2007) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/2908)](https://www.legislation.gov.uk/uksi/2007/2908), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2908/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/2908/article/2/2)
 
-[^key-dbbc627d82381a85d1c215428445033e]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/1994/1405/article/3/3) inserted (14.11.2007) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/2908)](https://www.legislation.gov.uk/uksi/2007/2908), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2908/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/2908/article/2/2)
+[^c-dbbc627d82381a85d1c215428445033e]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/1994/1405/article/3/3) inserted (14.11.2007) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/2908)](https://www.legislation.gov.uk/uksi/2007/2908), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2908/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/2908/article/2/2)
 
-[^key-3479e11539d0626630da622846a570d8]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/1994/1405/article/3/3) inserted (25.10.2004) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2004 (S.I. 2004/2589)](https://www.legislation.gov.uk/uksi/2004/2589), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2589/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2004/2589/article/3/2)
+[^c-3479e11539d0626630da622846a570d8]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/1994/1405/article/3/3) inserted (25.10.2004) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2004 (S.I. 2004/2589)](https://www.legislation.gov.uk/uksi/2004/2589), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2589/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2004/2589/article/3/2)
 
-[^key-efcaea22c0569aebdc88e43022cde415]: Textual amendment: [Art. 3(4)](https://www.legislation.gov.uk/uksi/1994/1405/article/3/4) inserted (14.11.2007) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/2908)](https://www.legislation.gov.uk/uksi/2007/2908), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2908/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/2908/article/2/2)
+[^c-efcaea22c0569aebdc88e43022cde415]: Textual amendment: [Art. 3(4)](https://www.legislation.gov.uk/uksi/1994/1405/article/3/4) inserted (14.11.2007) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/2908)](https://www.legislation.gov.uk/uksi/2007/2908), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2908/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/2908/article/2/2)
 
-[^key-69f61d3cb4834d8c876672b76ed020c3]: Commencement: Art. 4 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-69f61d3cb4834d8c876672b76ed020c3]: Commencement: Art. 4 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
 
-[^key-fb3353c6f07904a9ee95437151c09910]: Textual amendment: [Art. 4(1A)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/1A) inserted (14.11.2007) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/2908)](https://www.legislation.gov.uk/uksi/2007/2908), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2908/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2007/2908/article/2/3)
+[^c-fb3353c6f07904a9ee95437151c09910]: Textual amendment: [Art. 4(1A)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/1A) inserted (14.11.2007) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/2908)](https://www.legislation.gov.uk/uksi/2007/2908), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2908/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2007/2908/article/2/3)
 
-[^key-e47708c66dd4a8caa122250781e48a26]: Textual amendment: Words in [art. 4(1A)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/1A) substituted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2020/915/article/9/3)
+[^c-e47708c66dd4a8caa122250781e48a26]: Textual amendment: Words in [art. 4(1A)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/1A) substituted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2020/915/article/9/3)
 
-[^key-76045dd2cf1b87e7f94b7742283650de]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/3) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 233](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/233) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-76045dd2cf1b87e7f94b7742283650de]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/3) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 233](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/233) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-4c02ef6854bdb3b408609b0e637f9db3]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/2) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 28(2)(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/28/2/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4c02ef6854bdb3b408609b0e637f9db3]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/2) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 28(2)(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/28/2/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0b4a76e8f0bba6beee044cc641cd694c]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/2) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 28(2)(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/28/2/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0b4a76e8f0bba6beee044cc641cd694c]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/2) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 28(2)(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/28/2/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8e40b2eacb1f70aabdf0aef021176f22]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/3) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 28(3)(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/28/3/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8e40b2eacb1f70aabdf0aef021176f22]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/3) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 28(3)(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/28/3/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4f4e08e434f76b77f7c893b3eabf9541]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/3) substituted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2020/915/article/9/5/a)
+[^c-4f4e08e434f76b77f7c893b3eabf9541]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/3) substituted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2020/915/article/9/5/a)
 
-[^key-748d04816a9d6ec66b1e8b7f1f88b0dd]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/3) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 28(3)(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/28/3/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-748d04816a9d6ec66b1e8b7f1f88b0dd]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/3) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 28(3)(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/28/3/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-41853b6494c6a76f162bb39dae2523ee]: Textual amendment: [Art. 4(4)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/4) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 28(4)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/28/4) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-41853b6494c6a76f162bb39dae2523ee]: Textual amendment: [Art. 4(4)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/4) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 28(4)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/28/4) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-266fb19982c979221371d9ed140859db]: Commencement: Art. 5 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-266fb19982c979221371d9ed140859db]: Commencement: Art. 5 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
 
-[^key-b9021836ae30f66011c57a5d04e09abb]: Textual amendment: [Art. 5(1A)](https://www.legislation.gov.uk/uksi/1994/1405/article/5/1A)[(1B)](https://www.legislation.gov.uk/uksi/1994/1405/article/5/1B) inserted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/915/article/10/2)
+[^c-b9021836ae30f66011c57a5d04e09abb]: Textual amendment: [Art. 5(1A)](https://www.legislation.gov.uk/uksi/1994/1405/article/5/1A)[(1B)](https://www.legislation.gov.uk/uksi/1994/1405/article/5/1B) inserted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/915/article/10/2)
 
-[^key-c8ae810a069c48c7aeab66f0623bba72]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/1994/1405/article/5/2) inserted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [10(3)(a)](https://www.legislation.gov.uk/uksi/2020/915/article/10/3/a)
+[^c-c8ae810a069c48c7aeab66f0623bba72]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/1994/1405/article/5/2) inserted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [10(3)(a)](https://www.legislation.gov.uk/uksi/2020/915/article/10/3/a)
 
-[^key-2226d28be6afd5935664b8147ab9bf6d]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/1994/1405/article/5/2) substituted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [10(3)(b)](https://www.legislation.gov.uk/uksi/2020/915/article/10/3/b)
+[^c-2226d28be6afd5935664b8147ab9bf6d]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/1994/1405/article/5/2) substituted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [10(3)(b)](https://www.legislation.gov.uk/uksi/2020/915/article/10/3/b)
 
-[^key-21e8743aa5d591af721394a5f532606b]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/1994/1405/article/5/3) substituted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [10(3)(c)](https://www.legislation.gov.uk/uksi/2020/915/article/10/3/c)
+[^c-21e8743aa5d591af721394a5f532606b]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/1994/1405/article/5/3) substituted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [10(3)(c)](https://www.legislation.gov.uk/uksi/2020/915/article/10/3/c)
 
-[^key-3da2d0affb0b48c64175b0b2a76a66c3]: Commencement: Art. 6 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-3da2d0affb0b48c64175b0b2a76a66c3]: Commencement: Art. 6 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
 
-[^key-50a32ddee03554ff38772667e0e4a8ae]: Commencement: Art. 7 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-50a32ddee03554ff38772667e0e4a8ae]: Commencement: Art. 7 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
 
-[^key-9de6934256fca121178d13061267c287]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/1994/1405/article/7) renumbered as art. 7(1) (14.11.2007) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/2908)](https://www.legislation.gov.uk/uksi/2007/2908), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2908/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2007/2908/article/2/4); and similarly renumbered (2.1.2008) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/3579)](https://www.legislation.gov.uk/uksi/2007/3579), [arts. 1](https://www.legislation.gov.uk/uksi/2007/3579/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2007/3579/article/3/a)
+[^c-9de6934256fca121178d13061267c287]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/1994/1405/article/7) renumbered as art. 7(1) (14.11.2007) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/2908)](https://www.legislation.gov.uk/uksi/2007/2908), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2908/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2007/2908/article/2/4); and similarly renumbered (2.1.2008) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/3579)](https://www.legislation.gov.uk/uksi/2007/3579), [arts. 1](https://www.legislation.gov.uk/uksi/2007/3579/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2007/3579/article/3/a)
 
-[^key-6ff03b5f552c7ebe1a65f8d02f80e0e9]: Textual amendment: Words in [art. 7(1)](https://www.legislation.gov.uk/uksi/1994/1405/article/7/1) substituted (2.1.2008) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/3579)](https://www.legislation.gov.uk/uksi/2007/3579), [arts. 1](https://www.legislation.gov.uk/uksi/2007/3579/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2007/3579/article/3/b)
+[^c-6ff03b5f552c7ebe1a65f8d02f80e0e9]: Textual amendment: Words in [art. 7(1)](https://www.legislation.gov.uk/uksi/1994/1405/article/7/1) substituted (2.1.2008) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/3579)](https://www.legislation.gov.uk/uksi/2007/3579), [arts. 1](https://www.legislation.gov.uk/uksi/2007/3579/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2007/3579/article/3/b)
 
-[^key-0d19ec973b0432b8ee4cf690ff37406d]: Textual amendment: [Art. 7(2)](https://www.legislation.gov.uk/uksi/1994/1405/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/1994/1405/article/7/3) substituted for [art. 7(2)](https://www.legislation.gov.uk/uksi/1994/1405/article/7/2) (16.4.2015) by [The Channel Tunnel (International Arrangements) and Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2015 (S.I. 2015/856)](https://www.legislation.gov.uk/uksi/2015/856), [arts. 1](https://www.legislation.gov.uk/uksi/2015/856/article/1), [6](https://www.legislation.gov.uk/uksi/2015/856/article/6)
+[^c-0d19ec973b0432b8ee4cf690ff37406d]: Textual amendment: [Art. 7(2)](https://www.legislation.gov.uk/uksi/1994/1405/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/1994/1405/article/7/3) substituted for [art. 7(2)](https://www.legislation.gov.uk/uksi/1994/1405/article/7/2) (16.4.2015) by [The Channel Tunnel (International Arrangements) and Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2015 (S.I. 2015/856)](https://www.legislation.gov.uk/uksi/2015/856), [arts. 1](https://www.legislation.gov.uk/uksi/2015/856/article/1), [6](https://www.legislation.gov.uk/uksi/2015/856/article/6)
 
-[^key-2159b3bc6281a2a4f8746c73aa796280]: Commencement: Art. 8 in force for specified purposes at 1.7.1994, see art. 1(2)(3) and otherwise comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-2159b3bc6281a2a4f8746c73aa796280]: Commencement: Art. 8 in force for specified purposes at 1.7.1994, see art. 1(2)(3) and otherwise comes into force on the date the Agreement enters into force in accordance with art. 1(1)
 
-[^key-326b96fc8552ba64abd946b8616132c8]: Commencement: Sch. 1 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-326b96fc8552ba64abd946b8616132c8]: Commencement: Sch. 1 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
 
-[^key-481640cd6b8fb65dfc29c163dd8bb873]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1994/1405/schedule/1) inserted (25.10.2004) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2004 (S.I. 2004/2589)](https://www.legislation.gov.uk/uksi/2004/2589), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2589/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2004/2589/article/3/3)
+[^c-481640cd6b8fb65dfc29c163dd8bb873]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1994/1405/schedule/1) inserted (25.10.2004) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2004 (S.I. 2004/2589)](https://www.legislation.gov.uk/uksi/2004/2589), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2589/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2004/2589/article/3/3)
 
-[^key-216ecc9a98c232f3450cb9e290e48a5f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1994/1405/schedule/1) inserted (14.11.2007) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/2908)](https://www.legislation.gov.uk/uksi/2007/2908), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2908/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2007/2908/article/2/5)
+[^c-216ecc9a98c232f3450cb9e290e48a5f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1994/1405/schedule/1) inserted (14.11.2007) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/2908)](https://www.legislation.gov.uk/uksi/2007/2908), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2908/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2007/2908/article/2/5)
 
 [^f00007]: Footnote: [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813).
 
-[^key-ac8d34a6aa7f65015405a47fbe0081d0]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1994/1405/schedule/2) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/1994/1405/article/1)
+[^c-ac8d34a6aa7f65015405a47fbe0081d0]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1994/1405/schedule/2) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/1994/1405/article/1)
 
-[^key-4ec83aa69b799d93b937d2f196d47df8]: Textual amendment: Sch. 2 Pt. 3 inserted (25.10.2004) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2004 (S.I. 2004/2589)](https://www.legislation.gov.uk/uksi/2004/2589), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2589/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2004/2589/article/3/4)
+[^c-4ec83aa69b799d93b937d2f196d47df8]: Textual amendment: Sch. 2 Pt. 3 inserted (25.10.2004) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2004 (S.I. 2004/2589)](https://www.legislation.gov.uk/uksi/2004/2589), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2589/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2004/2589/article/3/4)
 
-[^key-22b658a6e97021b7200ee3aef51e81cc]: Commencement: Sch. 3 para. 1 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-22b658a6e97021b7200ee3aef51e81cc]: Commencement: Sch. 3 para. 1 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
 
-[^key-36f3bdfc83782d66a0db7331fc851eec]: Commencement: Sch. 3 para. 2 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-36f3bdfc83782d66a0db7331fc851eec]: Commencement: Sch. 3 para. 2 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
 
-[^key-afe49e8bda81a9385f2c0993222d31f9]: Commencement: Sch. 3 para. 3 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-afe49e8bda81a9385f2c0993222d31f9]: Commencement: Sch. 3 para. 3 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
 
-[^key-5f083bf6c00a29075a4e6bbfe9f40215]: Textual amendment: Word in [Sch. 3 para. 3(b)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/3/paragraph/3/b) omitted (16.4.2015) by virtue of [The Channel Tunnel (International Arrangements) and Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2015 (S.I. 2015/856)](https://www.legislation.gov.uk/uksi/2015/856), [arts. 1](https://www.legislation.gov.uk/uksi/2015/856/article/1), [7](https://www.legislation.gov.uk/uksi/2015/856/article/7)
+[^c-5f083bf6c00a29075a4e6bbfe9f40215]: Textual amendment: Word in [Sch. 3 para. 3(b)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/3/paragraph/3/b) omitted (16.4.2015) by virtue of [The Channel Tunnel (International Arrangements) and Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2015 (S.I. 2015/856)](https://www.legislation.gov.uk/uksi/2015/856), [arts. 1](https://www.legislation.gov.uk/uksi/2015/856/article/1), [7](https://www.legislation.gov.uk/uksi/2015/856/article/7)
 
-[^key-a0cb38249846d0aa3a85e347789dbb65]: Textual amendment: [Sch. 3 para. 3(baa)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/3/paragraph/3/baa)[(bab)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/3/paragraph/3/bab) inserted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/3), [3(3)(b)](https://www.legislation.gov.uk/uksi/2021/1196/article/3/3/b)
+[^c-a0cb38249846d0aa3a85e347789dbb65]: Textual amendment: [Sch. 3 para. 3(baa)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/3/paragraph/3/baa)[(bab)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/3/paragraph/3/bab) inserted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/3), [3(3)(b)](https://www.legislation.gov.uk/uksi/2021/1196/article/3/3/b)
 
-[^key-b32a28260dd4cb82040e0ea684b133e5]: Textual amendment: [Sch. 3 para. 3(ba)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/3/paragraph/3/ba) omitted (1.12.2021) by virtue of [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/3), [3(3)(c)](https://www.legislation.gov.uk/uksi/2021/1196/article/3/3/c)
+[^c-b32a28260dd4cb82040e0ea684b133e5]: Textual amendment: [Sch. 3 para. 3(ba)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/3/paragraph/3/ba) omitted (1.12.2021) by virtue of [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/3), [3(3)(c)](https://www.legislation.gov.uk/uksi/2021/1196/article/3/3/c)
 
-[^key-13a3f6fbe619636b1f04eaf3be9b8c66]: Textual amendment: [Sch. 3 para. 3(bb)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/3/paragraph/3/bb) inserted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/3), [3(3)(d)](https://www.legislation.gov.uk/uksi/2021/1196/article/3/3/d)
+[^c-13a3f6fbe619636b1f04eaf3be9b8c66]: Textual amendment: [Sch. 3 para. 3(bb)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/3/paragraph/3/bb) inserted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/3), [3(3)(d)](https://www.legislation.gov.uk/uksi/2021/1196/article/3/3/d)
 
-[^key-62b8277ef6de74a13cbc7ee492a20eab]: Commencement: Sch. 3 para. 4 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-62b8277ef6de74a13cbc7ee492a20eab]: Commencement: Sch. 3 para. 4 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
 
-[^key-0b1eb5e3a935109abbf1a8b5719478ed]: Textual amendment: [Sch. 3 para. 4(b)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/3/paragraph/4/b) omitted (1.12.2021) by virtue of [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/3), [3(4)(d)](https://www.legislation.gov.uk/uksi/2021/1196/article/3/4/d)
+[^c-0b1eb5e3a935109abbf1a8b5719478ed]: Textual amendment: [Sch. 3 para. 4(b)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/3/paragraph/4/b) omitted (1.12.2021) by virtue of [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/3), [3(4)(d)](https://www.legislation.gov.uk/uksi/2021/1196/article/3/4/d)
 
-[^key-7d8d218fd1c5e6b19bd6755473c0ac37]: Textual amendment: [Sch. 3 para. 4(d)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/3/paragraph/4/d) omitted (1.12.2021) by virtue of [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/3), [3(4)(d)](https://www.legislation.gov.uk/uksi/2021/1196/article/3/4/d)
+[^c-7d8d218fd1c5e6b19bd6755473c0ac37]: Textual amendment: [Sch. 3 para. 4(d)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/3/paragraph/4/d) omitted (1.12.2021) by virtue of [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/3), [3(4)(d)](https://www.legislation.gov.uk/uksi/2021/1196/article/3/4/d)
 
-[^key-1155a8e1884ace11dea340a5a119807a]: Commencement: Sch. 3 para. 5 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-1155a8e1884ace11dea340a5a119807a]: Commencement: Sch. 3 para. 5 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
 
-[^key-1310b0fa691f24c822c652959f6d2016]: Commencement: Sch. 3 para. 6 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-1310b0fa691f24c822c652959f6d2016]: Commencement: Sch. 3 para. 6 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
 
-[^key-a7869e7f566143cd6aa6b9e826372e41]: Textual amendment: [Sch. 3 para. 6(a)(ii)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/3/paragraph/6/a/ii) substituted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/3), [3(6)(c)](https://www.legislation.gov.uk/uksi/2021/1196/article/3/6/c)
+[^c-a7869e7f566143cd6aa6b9e826372e41]: Textual amendment: [Sch. 3 para. 6(a)(ii)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/3/paragraph/6/a/ii) substituted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/3), [3(6)(c)](https://www.legislation.gov.uk/uksi/2021/1196/article/3/6/c)
 
-[^key-b5dcc7df833f7e8a2ee7aa8c2e11bde0]: Commencement: Sch. 3 para. 7 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-b5dcc7df833f7e8a2ee7aa8c2e11bde0]: Commencement: Sch. 3 para. 7 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
 
-[^key-b81fc4c4f8c5caddf5fa47666505be67]: Commencement: Sch. 4 para. 1 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-b81fc4c4f8c5caddf5fa47666505be67]: Commencement: Sch. 4 para. 1 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
 
 [^f00009]: Footnote: [S.I. 1974/2211](https://www.legislation.gov.uk/uksi/1974/2211), amended by [S.I. 1990/2371](https://www.legislation.gov.uk/uksi/1990/2371), [1993/1813](https://www.legislation.gov.uk/uksi/1993/1813).
 
 [^f00010]: Footnote: [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813).
 
-[^key-efccf9049450d448cf98067993ce7311]: Commencement: Sch. 4 para. 2 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-efccf9049450d448cf98067993ce7311]: Commencement: Sch. 4 para. 2 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
 
 [^f00011]: Footnote: [S.I. 1984/2041](https://www.legislation.gov.uk/uksi/1984/2041), amended by [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813).
 
-[^key-137684f157972dad5225b6a85c86c2d9]: Commencement: Sch. 4 para. 3 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-137684f157972dad5225b6a85c86c2d9]: Commencement: Sch. 4 para. 3 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
 
 [^f00012]: Footnote: Amended by [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813).
 
-[^key-6e4e9bbdcf482809a71c4024be00b6e9]: Commencement: Sch. 4 para. 4 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-6e4e9bbdcf482809a71c4024be00b6e9]: Commencement: Sch. 4 para. 4 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
 
 [^f00013]: Footnote: [S.I. 1990/2167](https://www.legislation.gov.uk/uksi/1990/2167), amended by [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813).
 
-[^key-31ce5cc67384e6266f876c533976e808]: Commencement: Sch. 4 para. 5 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-31ce5cc67384e6266f876c533976e808]: Commencement: Sch. 4 para. 5 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
 
-[^key-6a19876b9771c996c6984bcbd4d04e74]: Commencement: Sch. 4 para. 6 in force for specified purposes at 1.7.1994, see art. 1(2)(3) and otherwise comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-6a19876b9771c996c6984bcbd4d04e74]: Commencement: Sch. 4 para. 6 in force for specified purposes at 1.7.1994, see art. 1(2)(3) and otherwise comes into force on the date the Agreement enters into force in accordance with art. 1(1)
 
-[^key-d9d8efa4486ceda7119a5754d11bd3d4]: Commencement: Sch. 4 para. 7 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-d9d8efa4486ceda7119a5754d11bd3d4]: Commencement: Sch. 4 para. 7 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
 
-[^key-2f2fbb10839a42f140a781aa52e10f49]: Commencement: Sch. 4 para. 8 in force for specified purposes at 1.7.1994, see art. 1(2)(3) and otherwise comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-2f2fbb10839a42f140a781aa52e10f49]: Commencement: Sch. 4 para. 8 in force for specified purposes at 1.7.1994, see art. 1(2)(3) and otherwise comes into force on the date the Agreement enters into force in accordance with art. 1(1)
 
-[^key-ebdb28d8f2132238060aff684366ba90]: Commencement: Sch. 4 para. 9 in force for specified purposes at 1.7.1994, see art. 1(2)(3) and otherwise comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-ebdb28d8f2132238060aff684366ba90]: Commencement: Sch. 4 para. 9 in force for specified purposes at 1.7.1994, see art. 1(2)(3) and otherwise comes into force on the date the Agreement enters into force in accordance with art. 1(1)
 
 [^f00014]: Footnote: [1979 c. 55](https://www.legislation.gov.uk/ukpga/1979/55); section 2 was repealed in part by the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), section 102 and Schedule 17.
 
-[^key-124b644307da70c23c81576efac8f2ce]: Commencement: Sch. 4 para. 10 in force for specified purposes at 1.7.1994, see art. 1(2)(3) and otherwise comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-124b644307da70c23c81576efac8f2ce]: Commencement: Sch. 4 para. 10 in force for specified purposes at 1.7.1994, see art. 1(2)(3) and otherwise comes into force on the date the Agreement enters into force in accordance with art. 1(1)
 
-[^key-d59eaa5739483c377a18fb972c24d5fe]: Commencement: Sch. 4 para. 11 in force for specified purposes at 1.7.1994, see art. 1(2)(3) and otherwise comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-d59eaa5739483c377a18fb972c24d5fe]: Commencement: Sch. 4 para. 11 in force for specified purposes at 1.7.1994, see art. 1(2)(3) and otherwise comes into force on the date the Agreement enters into force in accordance with art. 1(1)
 
-[^key-41cda0eaabf34572f086d63e96befbff]: Commencement: Sch. 4 para. 12 in force for specified purposes at 1.7.1994, see art. 1(2)(3) and otherwise comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-41cda0eaabf34572f086d63e96befbff]: Commencement: Sch. 4 para. 12 in force for specified purposes at 1.7.1994, see art. 1(2)(3) and otherwise comes into force on the date the Agreement enters into force in accordance with art. 1(1)
 
 [^f00015]: Footnote: [S.I. 1994/311](https://www.legislation.gov.uk/uksi/1994/311).
 
-[^key-d0278f5db88354b8ccf43b5c148ec12a]: Commencement: Sch. 4 para. 13 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+[^c-d0278f5db88354b8ccf43b5c148ec12a]: Commencement: Sch. 4 para. 13 comes into force on the date the Agreement enters into force in accordance with art. 1(1)

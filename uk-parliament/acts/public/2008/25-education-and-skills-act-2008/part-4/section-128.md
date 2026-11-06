@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Prohibition on participation in management[^key-5280bd1fa0cffbcd20b59934724c71f1][^key-92132a648a964f6a4e32d7e00784c6fb]
+## 128. Prohibition on participation in management[^c-5280bd1fa0cffbcd20b59934724c71f1][^c-92132a648a964f6a4e32d7e00784c6fb]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5280bd1fa0cffbcd20b59934724c71f1]: Commencement: S. 128 in force at 19.6.2009 for specified purposes by [S.I. 2009/1513](https://www.legislation.gov.uk/uksi/2009/1513), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/1513/article/2/2)
+[^c-5280bd1fa0cffbcd20b59934724c71f1]: Commencement: S. 128 in force at 19.6.2009 for specified purposes by [S.I. 2009/1513](https://www.legislation.gov.uk/uksi/2009/1513), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/1513/article/2/2)
 
-[^key-92132a648a964f6a4e32d7e00784c6fb]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2008/25/section/128) in force at 8.9.2014 in so far as not already in force by [S.I. 2014/2379](https://www.legislation.gov.uk/uksi/2014/2379), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/2379/article/2/c) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/2379/article/3/1)) (which transitional provisions in art. 3 are revoked (22.12.2014) by S.I. 2014/3364, art. 3(3), Sch.)
+[^c-92132a648a964f6a4e32d7e00784c6fb]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2008/25/section/128) in force at 8.9.2014 in so far as not already in force by [S.I. 2014/2379](https://www.legislation.gov.uk/uksi/2014/2379), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/2379/article/2/c) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/2379/article/3/1)) (which transitional provisions in art. 3 are revoked (22.12.2014) by S.I. 2014/3364, art. 3(3), Sch.)

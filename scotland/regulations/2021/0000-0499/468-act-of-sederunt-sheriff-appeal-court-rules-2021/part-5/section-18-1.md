@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18.1. Interpretation of this Chapter[^key-26b7101e7c4a41fe2cc122333082d02d]
+## 18.1. Interpretation of this Chapter[^c-26b7101e7c4a41fe2cc122333082d02d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In this Chapter, “**peremptory hearing**” means a hearing at which a party w
 
 ## Annotations
 
-[^key-26b7101e7c4a41fe2cc122333082d02d]: Commencement: Para. 18.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-26b7101e7c4a41fe2cc122333082d02d]: Commencement: Para. 18.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

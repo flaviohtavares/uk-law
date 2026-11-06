@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Power to fill in roadside ditches etc.[^key-e255e1fc920c4f9df6d7739960ec60c2]
+## 101. Power to fill in roadside ditches etc.[^c-e255e1fc920c4f9df6d7739960ec60c2]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ and any question whether any such requirement is reasonable shall, in default of
 
 ## Annotations
 
-[^key-e255e1fc920c4f9df6d7739960ec60c2]: Modification: S. 101 functions made exercisable concurrently (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [9(2)(aa)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/aa)[(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3)
+[^c-e255e1fc920c4f9df6d7739960ec60c2]: Modification: S. 101 functions made exercisable concurrently (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [9(2)(aa)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/aa)[(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3)
 
 [^c13422011]: Marginal citation: [1936 c. 49](https://www.legislation.gov.uk/ukpga/1936/49).

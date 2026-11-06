@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Determination of weekly income[^key-a177e28f9f83a2ca5bad661ebc8999a1]
+## 24. Determination of weekly income[^c-a177e28f9f83a2ca5bad661ebc8999a1]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a177e28f9f83a2ca5bad661ebc8999a1]: Commencement: Reg. 24 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-a177e28f9f83a2ca5bad661ebc8999a1]: Commencement: Reg. 24 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)

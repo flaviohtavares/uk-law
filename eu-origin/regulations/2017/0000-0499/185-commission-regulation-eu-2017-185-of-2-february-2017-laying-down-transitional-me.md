@@ -87,7 +87,7 @@ HAS ADOPTED THIS REGULATION:
 
 ## Article 1. Subject matter
 
-This Regulation lays down transitional measures for the application of certain provisions of Regulations (EC) No 853/2004 and (EC) No 854/2004 for a transitional period from 1 January 2017 to 31 December 2020 *(affected by repeal, see note)*[^key-92fc3602f9abdd931fd7d4b434bc2142]21 April 2021.
+This Regulation lays down transitional measures for the application of certain provisions of Regulations (EC) No 853/2004 and (EC) No 854/2004 for a transitional period from 1 January 2017 to 31 December 2020 *(affected by repeal, see note)*[^c-92fc3602f9abdd931fd7d4b434bc2142]21 April 2021.
 
 ## Article 2. Derogation concerning the direct supply of small quantities of meat from poultry and lagomorphs
 
@@ -97,11 +97,11 @@ By way of derogation from Article 1(3)(d) of Regulation (EC) No 853/2004, the pr
 
 1. Article 6(1) of Regulation (EC) No 853/2004 shall not apply to imports of products of animal origin for which no harmonised public health import requirements have been established.
 
-Imports of such products shall comply with the public health import requirements of the Member State of import *(affected by repeal, see note)*[^key-f789128ad5553c8577024b10180b3c35]Great Britain.
+Imports of such products shall comply with the public health import requirements of the Member State of import *(affected by repeal, see note)*[^c-f789128ad5553c8577024b10180b3c35]Great Britain.
 
 2. By way of derogation from Article 6(4) of Regulation (EC) No 853/2004, food business operators importing food containing both products of plant origin and processed products of animal origin, others than those referred to in Article 3(1) and (3) of Regulation (EU) No 28/2012 shall be exempt from the requirements referred to in Article 6(4) of Regulation (EC) No 853/2004.
 
-Imports of such products shall comply with the public health import requirements of the Member State of import *(affected by repeal, see note)*[^key-f789128ad5553c8577024b10180b3c35]Great Britain.
+Imports of such products shall comply with the public health import requirements of the Member State of import *(affected by repeal, see note)*[^c-f789128ad5553c8577024b10180b3c35]Great Britain.
 
 ## Article 4. Derogation concerning public health procedures concerning imports of products of animal origin
 
@@ -113,9 +113,9 @@ Imports of such products shall comply with the public health import requirements
 
 This Regulation shall enter into force on the third day following that of its publication in the *Official Journal of the European Union*.
 
-It shall apply from 1 January 2017 to 31 December 2020 except in relation to Article 3, which applies until 21 April 2021.[^key-963f11ae56b4419ab8480902a37b024c]
+It shall apply from 1 January 2017 to 31 December 2020 except in relation to Article 3, which applies until 21 April 2021.[^c-963f11ae56b4419ab8480902a37b024c]
 
-[^key-3595bee2e25678db040354eceeb0c4b5]...
+[^c-3595bee2e25678db040354eceeb0c4b5]...
 
 Done at Brussels, 2 February 2017.
 
@@ -139,10 +139,10 @@ Jean-Claude Juncker
 
 [^f00006]: Footnote: Commission Regulation (EU) No 28/2012 of 11 January 2012 laying down requirements for the certification for imports and transit through the Union of certain composite products and amending Decision 2007/275/EC and Regulation (EC) No 1162/2009 ([OJ L 12, 14.1.2012, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.012.01.0001.01.ENG)).
 
-[^key-92fc3602f9abdd931fd7d4b434bc2142]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2017/185/article/1) substituted (31.12.2020) by S.I. 2019/640, reg. 53I (as inserted (E.W.S.) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(15)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/15))
+[^c-92fc3602f9abdd931fd7d4b434bc2142]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2017/185/article/1) substituted (31.12.2020) by S.I. 2019/640, reg. 53I (as inserted (E.W.S.) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(15)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/15))
 
-[^key-f789128ad5553c8577024b10180b3c35]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2017/185/article/3) substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 53J](https://www.legislation.gov.uk/uksi/2019/640/regulation/53J) (as inserted (E.W.S.) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(15)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/15))
+[^c-f789128ad5553c8577024b10180b3c35]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2017/185/article/3) substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 53J](https://www.legislation.gov.uk/uksi/2019/640/regulation/53J) (as inserted (E.W.S.) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(15)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/15))
 
-[^key-963f11ae56b4419ab8480902a37b024c]: Textual amendment: Words in [Art. 5](https://www.legislation.gov.uk/eur/2017/185/article/5) inserted (31.12.2020) by S.I. 2019/640, reg. 53K (as inserted (E.W.S.) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(15)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/15))
+[^c-963f11ae56b4419ab8480902a37b024c]: Textual amendment: Words in [Art. 5](https://www.legislation.gov.uk/eur/2017/185/article/5) inserted (31.12.2020) by S.I. 2019/640, reg. 53K (as inserted (E.W.S.) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(15)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/15))
 
-[^key-3595bee2e25678db040354eceeb0c4b5]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 53L](https://www.legislation.gov.uk/uksi/2019/640/regulation/53L) (as inserted (E.W.S.) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(15)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/15))
+[^c-3595bee2e25678db040354eceeb0c4b5]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 53L](https://www.legislation.gov.uk/uksi/2019/640/regulation/53L) (as inserted (E.W.S.) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(15)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/15))

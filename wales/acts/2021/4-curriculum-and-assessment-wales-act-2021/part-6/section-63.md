@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Duty to have regard to mental health and emotional well-being of children and young persons[^key-94c014d6862f99d3906cd5d6dffccd7e]
+## 63. Duty to have regard to mental health and emotional well-being of children and young persons[^c-94c014d6862f99d3906cd5d6dffccd7e]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94c014d6862f99d3906cd5d6dffccd7e]: Commencement: [S. 63](https://www.legislation.gov.uk/asc/2021/4/section/63) in force at 1.9.2022 by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 4(d)](https://www.legislation.gov.uk/wsi/2022/652/article/4/d)
+[^c-94c014d6862f99d3906cd5d6dffccd7e]: Commencement: [S. 63](https://www.legislation.gov.uk/asc/2021/4/section/63) in force at 1.9.2022 by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 4(d)](https://www.legislation.gov.uk/wsi/2022/652/article/4/d)

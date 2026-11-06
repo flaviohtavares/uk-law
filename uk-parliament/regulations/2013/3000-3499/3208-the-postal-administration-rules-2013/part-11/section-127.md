@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 127. Service of notices following appointment[^key-aec96cb1d689527179a13271379423bf]
+## 127. Service of notices following appointment[^c-aec96cb1d689527179a13271379423bf]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any notice served on, or sent to, a person appointed under Rule 125 has the same
 
 ## Annotations
 
-[^key-aec96cb1d689527179a13271379423bf]: Commencement: [Rule 127](https://www.legislation.gov.uk/uksi/2013/3208/rule/127) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-aec96cb1d689527179a13271379423bf]: Commencement: [Rule 127](https://www.legislation.gov.uk/uksi/2013/3208/rule/127) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

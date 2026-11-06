@@ -50,7 +50,7 @@ Regulation 5(c)
 
 ### 4. Movement restrictions
 
-(1) For the purposes of Article 12(1) (measures with respect to suspect animals) of, and point 2.2 of Chapter B[^key-6c61bfdb29060eaec69171aa3c2bb7a6] of Annex VII (measures following confirmation of the presence of a TSE) to, the EU TSE Regulation, following suspicion of a TSE (whether in a live animal or through the monitoring under Annex III to the EU TSE Regulation (monitoring system)), an inspector—
+(1) For the purposes of Article 12(1) (measures with respect to suspect animals) of, and point 2.2 of Chapter B[^c-6c61bfdb29060eaec69171aa3c2bb7a6] of Annex VII (measures following confirmation of the presence of a TSE) to, the EU TSE Regulation, following suspicion of a TSE (whether in a live animal or through the monitoring under Annex III to the EU TSE Regulation (monitoring system)), an inspector—
 
 - (a) must serve a notice prohibiting the movement onto or from its holding of any sheep or goat on the same holding as the suspect animal if the inspector considers that the animal was exposed to a TSE on that holding;
 - (b) may serve a notice prohibiting the movement onto or from any holding of any sheep or goat if there is evidence that the suspect animal was exposed to a TSE on that holding;
@@ -71,12 +71,12 @@ If it is confirmed that the sheep or goat did not have a TSE, an inspector must 
 
 (1) When it is confirmed that a suspect sheep or the body of a sheep monitored under Annex III to the EU TSE Regulation (monitoring system) has a TSE, and BSE is excluded in accordance with the procedure set out in point 3.2(c) of Chapter C of Annex X to that Regulation (further examination of positive TSE cases), the Scottish Ministers, after—
 
-- (a) carrying out the inquiry specified in point 2.2 of Chapter B[^key-452859704fd3cf01e28be5da32db4abf] of Annex VII to, the EU TSE Regulation (measures following confirmation of the presence of a TSE); and
+- (a) carrying out the inquiry specified in point 2.2 of Chapter B[^c-452859704fd3cf01e28be5da32db4abf] of Annex VII to, the EU TSE Regulation (measures following confirmation of the presence of a TSE); and
 - (b) sampling the animals to establish their genotype (if this is necessary),
 
-must decide which of the options set out in point 2.2 of Chapter B[^key-cbe56e2d9332fcdcfefb984bc051b49c] of Annex VII to the EU TSE Regulation they intend to exercise.
+must decide which of the options set out in point 2.2 of Chapter B[^c-cbe56e2d9332fcdcfefb984bc051b49c] of Annex VII to the EU TSE Regulation they intend to exercise.
 
-(2) The Scottish Ministers must then serve a notice on the occupier of the holding identifying which of the options in point 2.2 of Chapter B[^key-405fbabc5ee623d12421ed27362353f3] of Annex VII to that Regulation they intend to exercise.
+(2) The Scottish Ministers must then serve a notice on the occupier of the holding identifying which of the options in point 2.2 of Chapter B[^c-405fbabc5ee623d12421ed27362353f3] of Annex VII to that Regulation they intend to exercise.
 
 (3) The notice must specify—
 
@@ -92,7 +92,7 @@ must decide which of the options set out in point 2.2 of Chapter B[^key-cbe56e2d
 
 (1) This paragraph applies if it is confirmed that a suspect goat, or a body of a goat monitored under Annex III to the EU TSE Regulation, is affected with a TSE, and BSE is excluded in accordance with the procedure set out in point 3.2(c) of Chapter C of Annex X to that Regulation (further examination of positive TSE cases), except where the Scottish Ministers decide to exercise the power in paragraph 10(3).
 
-(2) The Scottish Ministers, after carrying out the inquiry specified in Article 13(1)(b) of, and point 2.2 of Chapter B[^key-5a45d6076ed46126b35e11651ba18c1d] of Annex VII to, the EU TSE Regulation (measures following confirmation of the presence of a TSE), must serve a notice on the occupier of the holding informing him or her that the Scottish Ministers intend to kill and destroy all the goats on the holding and all embryos and ova from those animals in accordance with Article 13(1)(c) of, and point 2.2 of Chapter B[^key-1f2d30f02f34da6ca02015c545653a01] of Annex VII, to that Regulation.
+(2) The Scottish Ministers, after carrying out the inquiry specified in Article 13(1)(b) of, and point 2.2 of Chapter B[^c-5a45d6076ed46126b35e11651ba18c1d] of Annex VII to, the EU TSE Regulation (measures following confirmation of the presence of a TSE), must serve a notice on the occupier of the holding informing him or her that the Scottish Ministers intend to kill and destroy all the goats on the holding and all embryos and ova from those animals in accordance with Article 13(1)(c) of, and point 2.2 of Chapter B[^c-1f2d30f02f34da6ca02015c545653a01] of Annex VII, to that Regulation.
 
 (3) The appeals procedure in regulation 10 applies in relation to any decision of the Scottish Ministers under this paragraph.
 
@@ -103,7 +103,7 @@ must decide which of the options set out in point 2.2 of Chapter B[^key-cbe56e2d
 (2) Milk and milk products must not—
 
 - (a) be used for feeding ruminants, other than ruminants within the holding; or
-- (b) be exported, or allowed to be exported, outside the United Kingdom[^key-34f6d7c4af6687852f2dea9f8a713bc0] as feed for non-ruminants.
+- (b) be exported, or allowed to be exported, outside the United Kingdom[^c-34f6d7c4af6687852f2dea9f8a713bc0] as feed for non-ruminants.
 
 (3) Milk and milk products that are to be fed to non-ruminants in the United Kingdom must be—
 
@@ -122,13 +122,13 @@ must decide which of the options set out in point 2.2 of Chapter B[^key-cbe56e2d
 
 (1) This paragraph applies if a TSE is confirmed in a suspect sheep or goat, or a body of a sheep or goat monitored under Annex III to the EU TSE Regulation (monitoring system), and BSE cannot be excluded by the results of a ring trial carried out in accordance with the procedure set out in point 3.2(c) of Chapter C of Annex X to that Regulation (further examination of positive TSE cases).
 
-(2) The Scottish Ministers, after carrying out the inquiry specified in Article 13(1)(b) of, and point 2.2 of Chapter B[^key-447205ae1e9023868a78e8e389e11582] of Annex VII to, the EU TSE Regulation (measures following confirmation of the presence of a TSE), must serve a notice on the occupier of the holding informing him or her of the Scottish Ministers' intention to have the animals killed and destroyed, and the embryos and ova destroyed and the milk and milk products destroyed, in accordance with Article 13(1)(c), and point 2.2.1 of Chapter B[^key-35fb27aadc5f55fbb6747d629f4d0042] of Annex VII to that Regulation.
+(2) The Scottish Ministers, after carrying out the inquiry specified in Article 13(1)(b) of, and point 2.2 of Chapter B[^c-447205ae1e9023868a78e8e389e11582] of Annex VII to, the EU TSE Regulation (measures following confirmation of the presence of a TSE), must serve a notice on the occupier of the holding informing him or her of the Scottish Ministers' intention to have the animals killed and destroyed, and the embryos and ova destroyed and the milk and milk products destroyed, in accordance with Article 13(1)(c), and point 2.2.1 of Chapter B[^c-35fb27aadc5f55fbb6747d629f4d0042] of Annex VII to that Regulation.
 
 (3) In sub-paragraph (2), “**milk and milk products**” means the milk and milk products that derived from the animals that were present on the relevant holding on and from the date on which notice was served under paragraph 4(1)(d).
 
 (4) The appeals procedure in regulation 10 applies in relation to any decision of the Scottish Ministers under this paragraph.
 
-### 10. Confirmation of atypical scrapie in sheep or goats[^key-58238288cc3669fb677f9e95b8becc34]
+### 10. Confirmation of atypical scrapie in sheep or goats[^c-58238288cc3669fb677f9e95b8becc34]
 
 If the TSE is confirmed in a suspect sheep or goat as atypical scrapie, but BSE is excluded, the Scottish Ministers, after carrying out an inquiry, must serve a notice informing the occupier that the holding will be subject to intensified TSE monitoring in accordance with Annex 7 to the EUTSE Regulation.
 
@@ -173,7 +173,7 @@ The Scottish Ministers must not cause to be killed any sheep or goat, or cause t
 
 ### 13. Killing and destruction following confirmation
 
-(1) An inspector must ensure that all the animals specified for killing in the notice under paragraph 6(2), 7(2) or 9(2)[^key-8644e67261a84e06fb3a09db76185c78] are killed and that all the ova and embryos specified for destruction in the notice are destroyed.
+(1) An inspector must ensure that all the animals specified for killing in the notice under paragraph 6(2), 7(2) or 9(2)[^c-8644e67261a84e06fb3a09db76185c78] are killed and that all the ova and embryos specified for destruction in the notice are destroyed.
 
 (2) If an animal is not killed on the holding, an inspector must direct the owner in writing to consign it to other premises for killing as specified in the direction.
 
@@ -181,13 +181,13 @@ The Scottish Ministers must not cause to be killed any sheep or goat, or cause t
 
 ### 14. Animals from another holding
 
-For the purposes of point 2.2 of Chapter B[^key-ede46b92290a2cb724aa6c9c47063257] of Annex VII to the EU TSE Regulation (measures following confirmation of the presence of a TSE), if the animal with a TSE was introduced from another holding, the Scottish Ministers may act in accordance with this Schedule in relation to the holding of origin in addition to, or instead of, the holding on which a TSE was confirmed.
+For the purposes of point 2.2 of Chapter B[^c-ede46b92290a2cb724aa6c9c47063257] of Annex VII to the EU TSE Regulation (measures following confirmation of the presence of a TSE), if the animal with a TSE was introduced from another holding, the Scottish Ministers may act in accordance with this Schedule in relation to the holding of origin in addition to, or instead of, the holding on which a TSE was confirmed.
 
-### 15. Common grazing[^key-239046c6bc0a5c5f71fdb86664bb191c]
+### 15. Common grazing[^c-239046c6bc0a5c5f71fdb86664bb191c]
 
 In the case of any animal with a TSE on common grazing, the Scottish Ministers may limit movement restrictions and killing to an individual flock or herd.
 
-### 16. Multiple flocks on a holding[^key-ea76bb6b1cc032758a0f1c30804d5339]
+### 16. Multiple flocks on a holding[^c-ea76bb6b1cc032758a0f1c30804d5339]
 
 Where more than one flock or herd is kept on a single holding, the Scottish Ministers may limit movement restrictions and killing to an individual flock or herd.
 
@@ -199,19 +199,19 @@ Where more than one flock or herd is kept on a single holding, the Scottish Mini
 
 ### 18. Introduction of animals onto a holding
 
-Any person who introduces an animal onto a holding in contravention of point 3.2 of Chapter B[^key-5eaab3611638e0366dba14df98bf9c09] of Annex VII to the EU TSE Regulation is guilty of an offence.
+Any person who introduces an animal onto a holding in contravention of point 3.2 of Chapter B[^c-5eaab3611638e0366dba14df98bf9c09] of Annex VII to the EU TSE Regulation is guilty of an offence.
 
 ### 19. Use of ovine germinal products
 
-Any person who uses ovine germinal products in contravention of point 3.3 of Chapter B[^key-084590019ab49858ee0c6e396c29c2e1] of Annex VII to the EU TSE Regulation is guilty of an offence.
+Any person who uses ovine germinal products in contravention of point 3.3 of Chapter B[^c-084590019ab49858ee0c6e396c29c2e1] of Annex VII to the EU TSE Regulation is guilty of an offence.
 
 ### 20. Movement of animals from a holding
 
-Any person who moves an animal from a holding in contravention of point 3.4 of Chapter B[^key-e573c80af378bca8416ed562444bd365] of Annex VII to the EU TSE Regulation is guilty of an offence.
+Any person who moves an animal from a holding in contravention of point 3.4 of Chapter B[^c-e573c80af378bca8416ed562444bd365] of Annex VII to the EU TSE Regulation is guilty of an offence.
 
 ### 21. Period of movement restrictions
 
-For the purposes of point 3.5 of Chapter B[^key-68684aaff4c5d224eb091197de133e72] of Annex VII to the EU TSE Regulation the relevant dates must be established by the Scottish Ministers giving written notification of those dates to the occupier of the holding.
+For the purposes of point 3.5 of Chapter B[^c-68684aaff4c5d224eb091197de133e72] of Annex VII to the EU TSE Regulation the relevant dates must be established by the Scottish Ministers giving written notification of those dates to the occupier of the holding.
 
 ### 22. Death while under restriction
 
@@ -265,38 +265,38 @@ Compensation
 
 ## Annotations
 
-[^key-6c61bfdb29060eaec69171aa3c2bb7a6]: Textual amendment: Words in [sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/4) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/2)
+[^c-6c61bfdb29060eaec69171aa3c2bb7a6]: Textual amendment: Words in [sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/4) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/2)
 
-[^key-452859704fd3cf01e28be5da32db4abf]: Textual amendment: Words in [sch. 4 para. 6(1)(a)](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/6/1/a) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/3/a)
+[^c-452859704fd3cf01e28be5da32db4abf]: Textual amendment: Words in [sch. 4 para. 6(1)(a)](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/6/1/a) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/3/a)
 
-[^key-cbe56e2d9332fcdcfefb984bc051b49c]: Textual amendment: Words in [sch. 4 para. 6(1)](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/6/1) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/3/b)
+[^c-cbe56e2d9332fcdcfefb984bc051b49c]: Textual amendment: Words in [sch. 4 para. 6(1)](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/6/1) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/3/b)
 
-[^key-405fbabc5ee623d12421ed27362353f3]: Textual amendment: Words in [sch. 4 para. 6(2)](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/6/2) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/3/b)
+[^c-405fbabc5ee623d12421ed27362353f3]: Textual amendment: Words in [sch. 4 para. 6(2)](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/6/2) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/3/b)
 
-[^key-5a45d6076ed46126b35e11651ba18c1d]: Textual amendment: Words in [sch. 4 para. 7(2)](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/7/2) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(4)(a)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/4/a)
+[^c-5a45d6076ed46126b35e11651ba18c1d]: Textual amendment: Words in [sch. 4 para. 7(2)](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/7/2) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(4)(a)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/4/a)
 
-[^key-1f2d30f02f34da6ca02015c545653a01]: Textual amendment: Words in [sch. 4 para. 7(2)](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/7/2) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(4)(b)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/4/b)
+[^c-1f2d30f02f34da6ca02015c545653a01]: Textual amendment: Words in [sch. 4 para. 7(2)](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/7/2) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(4)(b)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/4/b)
 
-[^key-34f6d7c4af6687852f2dea9f8a713bc0]: Textual amendment: Words in [sch. 4 para. 8(2)(b)](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/8/2/b) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [27(5)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/27/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-34f6d7c4af6687852f2dea9f8a713bc0]: Textual amendment: Words in [sch. 4 para. 8(2)(b)](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/8/2/b) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [27(5)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/27/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-447205ae1e9023868a78e8e389e11582]: Textual amendment: Words in [sch. 4 para. 9(2)](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/9/2) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(5)(a)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/5/a)
+[^c-447205ae1e9023868a78e8e389e11582]: Textual amendment: Words in [sch. 4 para. 9(2)](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/9/2) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(5)(a)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/5/a)
 
-[^key-35fb27aadc5f55fbb6747d629f4d0042]: Textual amendment: Words in [sch. 4 para. 9(2)](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/9/2) substituted (23.5.2019) by virtue of [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(5)(b)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/5/b)
+[^c-35fb27aadc5f55fbb6747d629f4d0042]: Textual amendment: Words in [sch. 4 para. 9(2)](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/9/2) substituted (23.5.2019) by virtue of [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(5)(b)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/5/b)
 
-[^key-58238288cc3669fb677f9e95b8becc34]: Textual amendment: [Sch. 4 para. 10](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/10) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(6)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/6)
+[^c-58238288cc3669fb677f9e95b8becc34]: Textual amendment: [Sch. 4 para. 10](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/10) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(6)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/6)
 
-[^key-8644e67261a84e06fb3a09db76185c78]: Textual amendment: Words in [sch. 4 para. 13(1)](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/13/1) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(7)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/7)
+[^c-8644e67261a84e06fb3a09db76185c78]: Textual amendment: Words in [sch. 4 para. 13(1)](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/13/1) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(7)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/7)
 
-[^key-ede46b92290a2cb724aa6c9c47063257]: Textual amendment: Words in [sch. 4 para. 14](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/14) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(8)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/8)
+[^c-ede46b92290a2cb724aa6c9c47063257]: Textual amendment: Words in [sch. 4 para. 14](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/14) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(8)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/8)
 
-[^key-239046c6bc0a5c5f71fdb86664bb191c]: Textual amendment: [Sch. 4 para. 15](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/15) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(9)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/9)
+[^c-239046c6bc0a5c5f71fdb86664bb191c]: Textual amendment: [Sch. 4 para. 15](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/15) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(9)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/9)
 
-[^key-ea76bb6b1cc032758a0f1c30804d5339]: Textual amendment: [Sch. 4 para. 16](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/16) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(10)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/10)
+[^c-ea76bb6b1cc032758a0f1c30804d5339]: Textual amendment: [Sch. 4 para. 16](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/16) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(10)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/10)
 
-[^key-5eaab3611638e0366dba14df98bf9c09]: Textual amendment: Words in [sch. 4 para. 18](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/18) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(11)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/11)
+[^c-5eaab3611638e0366dba14df98bf9c09]: Textual amendment: Words in [sch. 4 para. 18](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/18) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(11)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/11)
 
-[^key-084590019ab49858ee0c6e396c29c2e1]: Textual amendment: Words in [sch. 4 para. 19](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/19) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(12)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/12)
+[^c-084590019ab49858ee0c6e396c29c2e1]: Textual amendment: Words in [sch. 4 para. 19](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/19) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(12)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/12)
 
-[^key-e573c80af378bca8416ed562444bd365]: Textual amendment: Words in [sch. 4 para. 20](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/20) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(13)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/13)
+[^c-e573c80af378bca8416ed562444bd365]: Textual amendment: Words in [sch. 4 para. 20](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/20) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(13)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/13)
 
-[^key-68684aaff4c5d224eb091197de133e72]: Textual amendment: Words in [sch. 4 para. 21](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/21) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(14)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/14)
+[^c-68684aaff4c5d224eb091197de133e72]: Textual amendment: Words in [sch. 4 para. 21](https://www.legislation.gov.uk/ssi/2010/177/schedule/4/paragraph/21) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [7(14)](https://www.legislation.gov.uk/ssi/2019/118/regulation/7/14)

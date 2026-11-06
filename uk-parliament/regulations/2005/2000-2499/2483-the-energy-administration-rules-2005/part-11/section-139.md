@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 139. Office copies of documents[^key-a643f2a4f1b9286f50f5d6c315f0a3d0]
+## 139. Office copies of documents[^c-a643f2a4f1b9286f50f5d6c315f0a3d0]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a643f2a4f1b9286f50f5d6c315f0a3d0]: Commencement: Rule 139 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-a643f2a4f1b9286f50f5d6c315f0a3d0]: Commencement: Rule 139 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

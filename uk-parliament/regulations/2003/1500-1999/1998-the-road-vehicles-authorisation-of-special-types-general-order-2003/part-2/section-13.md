@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Forward and rearward projections: police notification[^key-a838f96d20b419a032644ac788753ae8]
+## 13. Forward and rearward projections: police notification[^c-a838f96d20b419a032644ac788753ae8]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a838f96d20b419a032644ac788753ae8]: Commencement: Art. 13 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-a838f96d20b419a032644ac788753ae8]: Commencement: Art. 13 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

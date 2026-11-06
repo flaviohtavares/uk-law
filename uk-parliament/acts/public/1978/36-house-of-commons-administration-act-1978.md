@@ -37,16 +37,16 @@ An Act to make further provision for the administration of the House of Commons.
 
 (1) There shall be a body of Commissioners named the House of Commons Commission to perform the functions conferred on it by this Act.
 
-(1A)[^key-ab2d05dfcb13020b52dcf8026d505e52] The Commission is to consist of seven parliamentary members, two external members and two official members.
+(1A)[^c-ab2d05dfcb13020b52dcf8026d505e52] The Commission is to consist of seven parliamentary members, two external members and two official members.
 
-(2) The parliamentary members are to be[^key-c2047b8e08538df86b77b0aea3e5764e] —
+(2) The parliamentary members are to be[^c-c2047b8e08538df86b77b0aea3e5764e] —
 
 - (a) Mr. Speaker,
 - (b) the Leader of the House of Commons,
 - (c) a member of the House of Commons nominated by the Leader of the Opposition,
-- (d) four[^key-5ed2754e9f8f2f725c7d8c09bf08ef32] other members of the House of Commons appointed by the House of Commons, none of whom shall be a Minister of the Crown.
+- (d) four[^c-5ed2754e9f8f2f725c7d8c09bf08ef32] other members of the House of Commons appointed by the House of Commons, none of whom shall be a Minister of the Crown.
 
-(2A)[^key-c88f3511e48ed4513ddbe400c37d8c85] An external member may not be—
+(2A)[^c-c88f3511e48ed4513ddbe400c37d8c85] An external member may not be—
 
 - (a) a member of the House of Commons,
 - (b) a member of the House of Lords,
@@ -66,23 +66,23 @@ An Act to make further provision for the administration of the House of Commons.
 
 - “**Leader of the House of Commons**” means the Minister of the Crown for the time being nominated as such by the Prime Minister,
 - “**Leader of the Opposition**” means the person who is the Leader of the Opposition in the House of Commons for the purposes of section 2 of the [^c910130]Ministerial and other Salaries Act 1975.
-- “[^key-d71cee857fc96a7f75e552187ddb642b]**member of staff of the House of Lords**” means a person who is employed under a contract of employment with the Corporate Officer of the House of Lords.
+- “[^c-d71cee857fc96a7f75e552187ddb642b]**member of staff of the House of Lords**” means a person who is employed under a contract of employment with the Corporate Officer of the House of Lords.
 
 (5) Schedule 1 to this Act has effect as respects the Commission.
 
 ## 2. Functions of Commission.
 
-(A1)[^key-73680f9899b1c497ae5c1c94da8dc2d5] The Commission must from time to time set strategic priorities and objectives in connection with services provided by the House Departments.
+(A1)[^c-73680f9899b1c497ae5c1c94da8dc2d5] The Commission must from time to time set strategic priorities and objectives in connection with services provided by the House Departments.
 
 (1) The Commission shall appoint all staff in the House Departments, and shall determine their numbers and their remuneration and other terms and conditions of service.
 
-(2) The Commission shall ensure that the complementing, grading and pay of staff in the House Departments are kept broadly in line with those in the statutory home civil service[^key-18aeedd75fbf1e7e7168347b3b43853b], and that, so far as consistent with the requirements of the House of Commons, the other conditions of service of staff in the House Departments are also kept broadly in line with those in the statutory home civil service.
+(2) The Commission shall ensure that the complementing, grading and pay of staff in the House Departments are kept broadly in line with those in the statutory home civil service[^c-18aeedd75fbf1e7e7168347b3b43853b], and that, so far as consistent with the requirements of the House of Commons, the other conditions of service of staff in the House Departments are also kept broadly in line with those in the statutory home civil service.
 
-(3) The Commission shall ensure that the pensions and other similar benefits of staff in or formerly in the House Departments are kept in line with the provisions of , or provided under,[^key-6abebcf2506335f224c1dc9f16c28db4]the principal Civil Service Pension Scheme (as it applies for the time being to the statutory home civil service), but need not do so in the case of staff for whom provision for such benefits was made under another scheme before they entered service in the House Departments and continues to be so made in respect of such service.
+(3) The Commission shall ensure that the pensions and other similar benefits of staff in or formerly in the House Departments are kept in line with the provisions of , or provided under,[^c-6abebcf2506335f224c1dc9f16c28db4]the principal Civil Service Pension Scheme (as it applies for the time being to the statutory home civil service), but need not do so in the case of staff for whom provision for such benefits was made under another scheme before they entered service in the House Departments and continues to be so made in respect of such service.
 
 (4) Subsection (1) above does not apply to the power to appoint, or the tenure of office of, the Clerk of the House of Commons, any Clerk Assistant, the Serjeant at Arms or Mr. Speaker’s personal staff.
 
-(5)[^key-4ea06c4b44ff3088af7a2d8778a0cdf1] The statutory home civil service” means the civil service (excluding Her Majesty's diplomatic service) within the meaning of Chapter 1 of Part 1 of the Constitutional Reform and Governance Act 2010 (see section 1(4) of that Act).
+(5)[^c-4ea06c4b44ff3088af7a2d8778a0cdf1] The statutory home civil service” means the civil service (excluding Her Majesty's diplomatic service) within the meaning of Chapter 1 of Part 1 of the Constitutional Reform and Governance Act 2010 (see section 1(4) of that Act).
 
 ## 3. Financial provisions.[^c910131]
 
@@ -120,7 +120,7 @@ and any other House Department provided for under subsection (3) below.
 - (b) allocate functions to any House Department,
 - (c) for those purposes make such arrangements for and in connection with the creation, division, amalgamation or abolition of any House Department (including one created after the passing of this Act) as appear to the Commission expedient.
 
-(4)[^key-702ae6c78cb371ccb35c7378f11d1b55] The Commission may from time to time direct that all or any of the provisions of this Act relating to staff in the House Departments shall apply to any office or post which is not in a House Department but falls within subsection (5) below, and to the staff appointed, or to be appointed, to any such office or post, and may further direct that the holder of any such office or post shall be treated as having been appointed by the Commission.
+(4)[^c-702ae6c78cb371ccb35c7378f11d1b55] The Commission may from time to time direct that all or any of the provisions of this Act relating to staff in the House Departments shall apply to any office or post which is not in a House Department but falls within subsection (5) below, and to the staff appointed, or to be appointed, to any such office or post, and may further direct that the holder of any such office or post shall be treated as having been appointed by the Commission.
 
 (5) An office or post falls within this subsection if staff appointed to it are employed in or for the purposes of the House of Commons.
 
@@ -158,7 +158,7 @@ Section 1.
 
 **1.** The Commission shall be a body corporate.
 
-### Appointment of external members[^key-e050051c150c1c15805213aacba0d26e]
+### Appointment of external members[^c-e050051c150c1c15805213aacba0d26e]
 
 **1A.** (1) A motion for a resolution appointing an external member may be made only with the agreement of the Commission.
 
@@ -166,26 +166,26 @@ Section 1.
 
 ### Members other than Mr. Speaker and the Leader of the House
 
-**2.** (1) Subject to paragraph 3 of this Schedule, a parliamentary member[^key-e0bdab3a34404954c20b8bab0ecde4cd], other than an ex officio member, shall vacate his office—
+**2.** (1) Subject to paragraph 3 of this Schedule, a parliamentary member[^c-e0bdab3a34404954c20b8bab0ecde4cd], other than an ex officio member, shall vacate his office—
 
 - (a) if he ceases to be a member of the House of Commons, or
 - (b) if another person is nominated or appointed in his place.
 
-(2) Subject to sub-paragraph (1) above, a parliamentary member[^key-da4db9e0acc823a2ceada91a4436d07e], other than an ex officio member, shall hold office for the duration of the Parliament in which he is nominated or appointed, and for the further period provided by paragraph 3 of this Schedule.
+(2) Subject to sub-paragraph (1) above, a parliamentary member[^c-da4db9e0acc823a2ceada91a4436d07e], other than an ex officio member, shall hold office for the duration of the Parliament in which he is nominated or appointed, and for the further period provided by paragraph 3 of this Schedule.
 
 (3) A member of the Commission, other than an ex officio member, may resign at any time by notice to the Commission.
 
-(4) Past service is no bar to nomination or appointment as a member of the Commission, subject to any resolution of the House of Commons[^key-92e3b9e205c2529dba64e8a7d9fa0416].
+(4) Past service is no bar to nomination or appointment as a member of the Commission, subject to any resolution of the House of Commons[^c-92e3b9e205c2529dba64e8a7d9fa0416].
 
-(5) In this paragraph, and paragraph 3 of this Schedule, “**ex officio member**” means Mr. Speaker , the[^key-6926389825cee0ad70758cd4c4b14970] Leader of the House of Commons , the Clerk of the House of Commons or the Director General of the House of Commons[^key-133e94523d77a2d6876b7012d65d5d95].
+(5) In this paragraph, and paragraph 3 of this Schedule, “**ex officio member**” means Mr. Speaker , the[^c-6926389825cee0ad70758cd4c4b14970] Leader of the House of Commons , the Clerk of the House of Commons or the Director General of the House of Commons[^c-133e94523d77a2d6876b7012d65d5d95].
 
 ### Dissolution of Parliament
 
-**3.** (1) On a dissolution of Parliament the person who is then Mr. Speaker shall continue in office as a parliamentary member[^key-637f3cb71fb34020e2a573871b5d3cd4] until a Speaker is chosen by the new Parliament.
+**3.** (1) On a dissolution of Parliament the person who is then Mr. Speaker shall continue in office as a parliamentary member[^c-637f3cb71fb34020e2a573871b5d3cd4] until a Speaker is chosen by the new Parliament.
 
-(2) Subject to sub-paragraph (3) below, on a dissolution of Parliament the parliamentary members[^key-4104ea5dbc56a950b6d72580de4118e8] who are not ex officio members shall continue in office until members are nominated or appointed in their place.
+(2) Subject to sub-paragraph (3) below, on a dissolution of Parliament the parliamentary members[^c-4104ea5dbc56a950b6d72580de4118e8] who are not ex officio members shall continue in office until members are nominated or appointed in their place.
 
-(3) Where at any time after Parliament has been dissolved it appears that a parliamentary member[^key-2262842a20ccfb1fd8a91d39c46d850b] who is not an ex officio member—
+(3) Where at any time after Parliament has been dissolved it appears that a parliamentary member[^c-2262842a20ccfb1fd8a91d39c46d850b] who is not an ex officio member—
 
 - (a) has not been validly nominated as a candidate at the ensuing general election; or
 - (b) although so nominated, has not been elected a Member of Parliament at that election,
@@ -202,8 +202,8 @@ that member shall resign from the Commission forthwith; but nothing in sub-parag
 
 (2) The Commission may also delegate—
 
-- (a) to any person who is a member of staff in the House Departments[^key-4bdd703f670457a4e4341df972e06d43] , or to two or more of those persons jointly, any of its functions concerning staff in the House Departments,
-- (b)[^key-012f4a85370f65f0560f2bdfc7438348] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) to any person who is a member of staff in the House Departments[^c-4bdd703f670457a4e4341df972e06d43] , or to two or more of those persons jointly, any of its functions concerning staff in the House Departments,
+- (b)[^c-012f4a85370f65f0560f2bdfc7438348] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Anything done by or in relation to a person to whom functions are delegated under this paragraph in the discharge of the Commission’s functions shall have the same effect as if done by or in relation to the Commission.
 
@@ -219,7 +219,7 @@ that member shall resign from the Commission forthwith; but nothing in sub-parag
 
 (2) The Commission may determine its own procedure.
 
-(3) The Commission may appoint one of the Commissioners to act as chairman at any meeting of the Commission in place of[^key-d4ee63a16b2b7eab8f5eeddf71fd8619] Mr. Speaker.
+(3) The Commission may appoint one of the Commissioners to act as chairman at any meeting of the Commission in place of[^c-d4ee63a16b2b7eab8f5eeddf71fd8619] Mr. Speaker.
 
 ## SCHEDULE 2 — Supplementary and consequential provisions
 
@@ -262,59 +262,59 @@ Section 5.
 
 [^c910129]: Commencement: Act partly in force at Royal Assent see s. 5(5).
 
-[^key-ab2d05dfcb13020b52dcf8026d505e52]: Textual amendment: S. 1(1A) inserted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/1/2), [3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3)
+[^c-ab2d05dfcb13020b52dcf8026d505e52]: Textual amendment: S. 1(1A) inserted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/1/2), [3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3)
 
-[^key-c2047b8e08538df86b77b0aea3e5764e]: Textual amendment: Words in s. 1(2) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [ss. 1(3)(a)](https://www.legislation.gov.uk/ukpga/2015/24/section/1/3/a), [3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3)
+[^c-c2047b8e08538df86b77b0aea3e5764e]: Textual amendment: Words in s. 1(2) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [ss. 1(3)(a)](https://www.legislation.gov.uk/ukpga/2015/24/section/1/3/a), [3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3)
 
-[^key-5ed2754e9f8f2f725c7d8c09bf08ef32]: Textual amendment: Word in s. 1(2)(d) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [ss. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2015/24/section/1/3/b), [3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3)
+[^c-5ed2754e9f8f2f725c7d8c09bf08ef32]: Textual amendment: Word in s. 1(2)(d) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [ss. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2015/24/section/1/3/b), [3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3)
 
-[^key-c88f3511e48ed4513ddbe400c37d8c85]: Textual amendment: S. 1(2A)-(2C) inserted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2015/24/section/1/4), [3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3)
+[^c-c88f3511e48ed4513ddbe400c37d8c85]: Textual amendment: S. 1(2A)-(2C) inserted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2015/24/section/1/4), [3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3)
 
 [^c910130]: Marginal citation: [1975 c. 27](https://www.legislation.gov.uk/ukpga/1975/27).
 
-[^key-d71cee857fc96a7f75e552187ddb642b]: Textual amendment: Words in s. 1(4) inserted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [ss. 1(5)](https://www.legislation.gov.uk/ukpga/2015/24/section/1/5), [3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3)
+[^c-d71cee857fc96a7f75e552187ddb642b]: Textual amendment: Words in s. 1(4) inserted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [ss. 1(5)](https://www.legislation.gov.uk/ukpga/2015/24/section/1/5), [3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3)
 
-[^key-73680f9899b1c497ae5c1c94da8dc2d5]: Textual amendment: S. 2(A1) inserted (10.7.2015) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [ss. 2](https://www.legislation.gov.uk/ukpga/2015/24/section/2), [3(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3)
+[^c-73680f9899b1c497ae5c1c94da8dc2d5]: Textual amendment: S. 2(A1) inserted (10.7.2015) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [ss. 2](https://www.legislation.gov.uk/ukpga/2015/24/section/2), [3(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3)
 
-[^key-18aeedd75fbf1e7e7168347b3b43853b]: Textual amendment: Words in s. 2(2)(3) substituted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/2/paragraph/5/2); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+[^c-18aeedd75fbf1e7e7168347b3b43853b]: Textual amendment: Words in s. 2(2)(3) substituted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/2/paragraph/5/2); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
 
-[^key-6abebcf2506335f224c1dc9f16c28db4]: Textual amendment: Words in s. 2(3) inserted (1.4.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/13) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 4(2)(f)](https://www.legislation.gov.uk/uksi/2014/839/article/4/2/f)
+[^c-6abebcf2506335f224c1dc9f16c28db4]: Textual amendment: Words in s. 2(3) inserted (1.4.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/13) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 4(2)(f)](https://www.legislation.gov.uk/uksi/2014/839/article/4/2/f)
 
-[^key-4ea06c4b44ff3088af7a2d8778a0cdf1]: Textual amendment: S. 2(5) inserted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/2/paragraph/5/3); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+[^c-4ea06c4b44ff3088af7a2d8778a0cdf1]: Textual amendment: S. 2(5) inserted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/2/paragraph/5/3); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
 
 [^c910131]: Textual amendment: S. 3 substituted (22.12.2000) by [2000 c. 20](https://www.legislation.gov.uk/ukpga/2000/20), [s. 29](https://www.legislation.gov.uk/ukpga/2000/20/section/29), [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2000/20/schedule/1/paragraph/17); [S.I. 2000/3349](https://www.legislation.gov.uk/uksi/2000/3349), [art. 2(f)](https://www.legislation.gov.uk/uksi/2000/3349/article/2/f)
 
 [^c910132]: Modification: S. 4 excluded by [National Audit Act 1983 (c.44, SIF 99:1)](https://www.legislation.gov.uk/ukpga/1983/44), [s. 1(4)](https://www.legislation.gov.uk/ukpga/1983/44/section/1/4)
 
-[^key-702ae6c78cb371ccb35c7378f11d1b55]: Modification: S. 4(4) excluded (1.4.2012) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2011/4/section/12/2), [29](https://www.legislation.gov.uk/ukpga/2011/4/section/29) (with [Sch. 4](https://www.legislation.gov.uk/ukpga/2011/4/schedule/4)); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-702ae6c78cb371ccb35c7378f11d1b55]: Modification: S. 4(4) excluded (1.4.2012) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2011/4/section/12/2), [29](https://www.legislation.gov.uk/ukpga/2011/4/section/29) (with [Sch. 4](https://www.legislation.gov.uk/ukpga/2011/4/schedule/4)); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
 [^c910133]: Modification: S. 5 (4) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
-[^key-e050051c150c1c15805213aacba0d26e]: Textual amendment: [Sch. 1 para. 1A](https://www.legislation.gov.uk/ukpga/1978/36/schedule/1/paragraph/1A) inserted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/2)
+[^c-e050051c150c1c15805213aacba0d26e]: Textual amendment: [Sch. 1 para. 1A](https://www.legislation.gov.uk/ukpga/1978/36/schedule/1/paragraph/1A) inserted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/2)
 
-[^key-e0bdab3a34404954c20b8bab0ecde4cd]: Textual amendment: Words in Sch. 1 para. 2(1) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/3/2)
+[^c-e0bdab3a34404954c20b8bab0ecde4cd]: Textual amendment: Words in Sch. 1 para. 2(1) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/3/2)
 
-[^key-da4db9e0acc823a2ceada91a4436d07e]: Textual amendment: Words in Sch. 1 para. 2(2) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/3/2)
+[^c-da4db9e0acc823a2ceada91a4436d07e]: Textual amendment: Words in Sch. 1 para. 2(2) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/3/2)
 
-[^key-92e3b9e205c2529dba64e8a7d9fa0416]: Textual amendment: Words in Sch. 1 para. 2(4) inserted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 3(3)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/3/3)
+[^c-92e3b9e205c2529dba64e8a7d9fa0416]: Textual amendment: Words in Sch. 1 para. 2(4) inserted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 3(3)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/3/3)
 
-[^key-6926389825cee0ad70758cd4c4b14970]: Textual amendment: Word in Sch. 1 para. 2(5) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 3(4)(a)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/3/4/a)
+[^c-6926389825cee0ad70758cd4c4b14970]: Textual amendment: Word in Sch. 1 para. 2(5) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 3(4)(a)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/3/4/a)
 
-[^key-133e94523d77a2d6876b7012d65d5d95]: Textual amendment: Words in Sch. 1 para. 2(5) inserted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 3(4)(b)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/3/4/b)
+[^c-133e94523d77a2d6876b7012d65d5d95]: Textual amendment: Words in Sch. 1 para. 2(5) inserted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 3(4)(b)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/3/4/b)
 
-[^key-637f3cb71fb34020e2a573871b5d3cd4]: Textual amendment: Words in Sch. 1 para. 3(1) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 4(2)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/4/2)
+[^c-637f3cb71fb34020e2a573871b5d3cd4]: Textual amendment: Words in Sch. 1 para. 3(1) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 4(2)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/4/2)
 
-[^key-4104ea5dbc56a950b6d72580de4118e8]: Textual amendment: Words in Sch. 1 para. 3(2) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 4(3)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/4/3)
+[^c-4104ea5dbc56a950b6d72580de4118e8]: Textual amendment: Words in Sch. 1 para. 3(2) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 4(3)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/4/3)
 
-[^key-2262842a20ccfb1fd8a91d39c46d850b]: Textual amendment: Words in Sch. 1 para. 3(3) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 4(2)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/4/2)
+[^c-2262842a20ccfb1fd8a91d39c46d850b]: Textual amendment: Words in Sch. 1 para. 3(3) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 4(2)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/4/2)
 
-[^key-4bdd703f670457a4e4341df972e06d43]: Textual amendment: Words in Sch. 1 para. 5(2)(a) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 5(a)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/5/a)
+[^c-4bdd703f670457a4e4341df972e06d43]: Textual amendment: Words in Sch. 1 para. 5(2)(a) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 5(a)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/5/a)
 
-[^key-012f4a85370f65f0560f2bdfc7438348]: Textual amendment: Sch. 1 para. 5(2)(b) omitted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by virtue of [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 5(b)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/5/b)
+[^c-012f4a85370f65f0560f2bdfc7438348]: Textual amendment: Sch. 1 para. 5(2)(b) omitted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by virtue of [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 5(b)](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/5/b)
 
 [^c910137]: Textual amendment: Sch. 1 para. 5(6) substituted (16. 10. 1992) by [Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52)](https://www.legislation.gov.uk/ukpga/1992/52), [ss. 300(2)](https://www.legislation.gov.uk/ukpga/1992/52/section/300/2), [302](https://www.legislation.gov.uk/ukpga/1992/52/section/302), [Sch. 2 para.10](https://www.legislation.gov.uk/ukpga/1992/52/schedule/2/paragraph/10).
 
-[^key-d4ee63a16b2b7eab8f5eeddf71fd8619]: Textual amendment: Words in Sch. 1 para. 6(3) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/6)
+[^c-d4ee63a16b2b7eab8f5eeddf71fd8619]: Textual amendment: Words in Sch. 1 para. 6(3) substituted (26.3.2015 for specified purposes, 10.7.2015 in so far as not already in force) by [House of Commons Commission Act 2015 (c. 24)](https://www.legislation.gov.uk/ukpga/2015/24), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/24/section/3/3), [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2015/24/schedule/paragraph/6)
 
 [^c910144]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1978/36/schedule/2/paragraph/1) repealed (16. 10. 1992) by [Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52)](https://www.legislation.gov.uk/ukpga/1992/52), [ss. 300(1)](https://www.legislation.gov.uk/ukpga/1992/52/section/300/1), [302](https://www.legislation.gov.uk/ukpga/1992/52/section/302), [Sch. 1](https://www.legislation.gov.uk/ukpga/1992/52/schedule/1).
 

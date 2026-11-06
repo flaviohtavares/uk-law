@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Modification of a licence[^key-f0bfded13de7e0ef6a99ccc6271c393a]
+## 11. Modification of a licence[^c-f0bfded13de7e0ef6a99ccc6271c393a]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0bfded13de7e0ef6a99ccc6271c393a]: Textual amendment: Ss. 11-11B substituted for s. 11 (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2021/12/section/9/1), [21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/a)
+[^c-f0bfded13de7e0ef6a99ccc6271c393a]: Textual amendment: Ss. 11-11B substituted for s. 11 (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2021/12/section/9/1), [21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/a)

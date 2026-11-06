@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Viability certificate[^key-3eaf1976688a80eb88470a91fe1eef53]
+## 34. Viability certificate[^c-3eaf1976688a80eb88470a91fe1eef53]
 
 *Extent: N.I.*
 
@@ -80,7 +80,7 @@ is no less than the estimate of the projected average annual increase in the pri
 
 ## Annotations
 
-[^key-3eaf1976688a80eb88470a91fe1eef53]: Commencement: Reg. 34 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-3eaf1976688a80eb88470a91fe1eef53]: Commencement: Reg. 34 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00036]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 109 was amended by section 48 of the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2000/4), paragraph 13 of Schedule 10 to the Pensions (Northern Ireland) Order 2005 ([SI 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)), paragraph 15 of the Schedule to [S.R. 2005 No. 434](https://www.legislation.gov.uk/nisr/2005/434), paragraph 4 of Schedule 5 to the Pensions Act (Northern Ireland) [2008 (c. 1 (N.I.))](https://www.legislation.gov.uk/nia/2008/1), section 43 of the Pensions Act (Northern Ireland) [2015 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2015/5), section 38 of the Pension Schemes Act (Northern Ireland) [2016 (c. 1 (N.I.))](https://www.legislation.gov.uk/nia/2016/1) and paragraph 15(3) of Schedule 11 to the Pension Schemes Act 2021
 

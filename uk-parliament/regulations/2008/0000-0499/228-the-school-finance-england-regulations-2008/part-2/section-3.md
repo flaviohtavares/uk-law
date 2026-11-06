@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. The LEA Budget[^key-7c6a0de11c91a29512334e15881577ec]
+## 3. The LEA Budget[^c-7c6a0de11c91a29512334e15881577ec]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c6a0de11c91a29512334e15881577ec]: Commencement: Reg. 3 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-7c6a0de11c91a29512334e15881577ec]: Commencement: Reg. 3 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)

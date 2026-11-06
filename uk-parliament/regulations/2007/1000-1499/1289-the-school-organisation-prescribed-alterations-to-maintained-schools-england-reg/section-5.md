@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Alterations to maintained schools by local education authorities[^key-4c04c200f6d3df0ad8434c0d15ed171d]
+## 5. Alterations to maintained schools by local education authorities[^c-4c04c200f6d3df0ad8434c0d15ed171d]
 
 *Extent: E+W*
 
@@ -45,7 +45,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4c04c200f6d3df0ad8434c0d15ed171d]: Commencement: Reg. 5 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-4c04c200f6d3df0ad8434c0d15ed171d]: Commencement: Reg. 5 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
 [^f00016]: Footnote: These are capable of being proposed by a local education authority in accordance with section 19(2)(b).
 

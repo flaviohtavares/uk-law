@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Repeals and revocations in consequence of the amendments made by this Part[^key-fb5a5a546149b39e2fc7ef6e98631e13]
+## 109. Repeals and revocations in consequence of the amendments made by this Part[^c-fb5a5a546149b39e2fc7ef6e98631e13]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The enactments mentioned in the Schedule to this Order (which include provisions
 
 ## Annotations
 
-[^key-fb5a5a546149b39e2fc7ef6e98631e13]: Commencement: Art. 109 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-fb5a5a546149b39e2fc7ef6e98631e13]: Commencement: Art. 109 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

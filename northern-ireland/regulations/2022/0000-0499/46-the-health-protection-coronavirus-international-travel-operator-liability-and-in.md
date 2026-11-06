@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Amendment No. 3) Regulations (Northern Ireland) 2022 (revoked)[^key-2039fa8fda2255a859061bf64af176dc]
+The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Amendment No. 3) Regulations (Northern Ireland) 2022 (revoked)[^c-2039fa8fda2255a859061bf64af176dc]
 
 Made
 
@@ -40,193 +40,193 @@ Made
 
 Coming into operation in accordance with regulation 1(2) and (3)
 
-[^key-2039fa8fda2255a859061bf64af176dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2039fa8fda2255a859061bf64af176dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2039fa8fda2255a859061bf64af176dc]
+## 1. Citation and commencement[^c-2039fa8fda2255a859061bf64af176dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-2039fa8fda2255a859061bf64af176dc]
+## 2. Interpretation[^c-2039fa8fda2255a859061bf64af176dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Simplification of Schedule 4 to the principal Regulations (exemptions)[^key-2039fa8fda2255a859061bf64af176dc]
+## 3. Simplification of Schedule 4 to the principal Regulations (exemptions)[^c-2039fa8fda2255a859061bf64af176dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Correction of the date on which extension of time for requirement to provide passenger information comes into force[^key-2039fa8fda2255a859061bf64af176dc]
+## 4. Correction of the date on which extension of time for requirement to provide passenger information comes into force[^c-2039fa8fda2255a859061bf64af176dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Minor amendments[^key-2039fa8fda2255a859061bf64af176dc]
+## 5. Minor amendments[^c-2039fa8fda2255a859061bf64af176dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2039fa8fda2255a859061bf64af176dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2039fa8fda2255a859061bf64af176dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Schedule to be inserted as Schedule 4 to the principal Regulations[^key-2039fa8fda2255a859061bf64af176dc]
+## SCHEDULE — Schedule to be inserted as Schedule 4 to the principal Regulations[^c-2039fa8fda2255a859061bf64af176dc]
 
 Regulation 3
 
-> **Schedule 4 — Persons who are exempt[^key-2039fa8fda2255a859061bf64af176dc]**
+> **Schedule 4 — Persons who are exempt[^c-2039fa8fda2255a859061bf64af176dc]**
 >
 > Regulations 5,7,9,15
 >
-> **PART 1 — Summary of exemptions[^key-2039fa8fda2255a859061bf64af176dc]**
+> **PART 1 — Summary of exemptions[^c-2039fa8fda2255a859061bf64af176dc]**
 >
-> **1.**[^key-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5.**[^key-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **6.**[^key-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **6.**[^c-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **7.**[^key-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **7.**[^c-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Part 2 — Description of exemptions and conditions[^key-2039fa8fda2255a859061bf64af176dc]**
+> **Part 2 — Description of exemptions and conditions[^c-2039fa8fda2255a859061bf64af176dc]**
 >
-> **Border security duties[^key-2039fa8fda2255a859061bf64af176dc]**
+> **Border security duties[^c-2039fa8fda2255a859061bf64af176dc]**
 >
-> **1. Description[^key-2039fa8fda2255a859061bf64af176dc]**
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **2.**[^key-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **3.**[^key-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **Defence personnel, visiting forces and government contractors[^key-2039fa8fda2255a859061bf64af176dc]**
->
-> **4. Description[^key-2039fa8fda2255a859061bf64af176dc]**
+> **1. Description[^c-2039fa8fda2255a859061bf64af176dc]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Essential government work, operations and state business[^key-2039fa8fda2255a859061bf64af176dc]**
+> **2.**[^c-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5. Description[^key-2039fa8fda2255a859061bf64af176dc]**
+> **3.**[^c-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **Defence personnel, visiting forces and government contractors[^c-2039fa8fda2255a859061bf64af176dc]**
 >
-> **6.**[^key-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **7. Conditions[^key-2039fa8fda2255a859061bf64af176dc]**
+> **4. Description[^c-2039fa8fda2255a859061bf64af176dc]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Members of diplomatic missions, consular posts and heads of state[^key-2039fa8fda2255a859061bf64af176dc]**
+> **Essential government work, operations and state business[^c-2039fa8fda2255a859061bf64af176dc]**
 >
-> **8. Description[^key-2039fa8fda2255a859061bf64af176dc]**
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **Persons on official business[^key-2039fa8fda2255a859061bf64af176dc]**
->
-> **9. Description[^key-2039fa8fda2255a859061bf64af176dc]**
+> **5. Description[^c-2039fa8fda2255a859061bf64af176dc]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **10.**[^key-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **6.**[^c-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **11.**[^key-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **12. Condition[^key-2039fa8fda2255a859061bf64af176dc]**
+> **7. Conditions[^c-2039fa8fda2255a859061bf64af176dc]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Transport workers[^key-2039fa8fda2255a859061bf64af176dc]**
+> **Members of diplomatic missions, consular posts and heads of state[^c-2039fa8fda2255a859061bf64af176dc]**
 >
-> **13. Description[^key-2039fa8fda2255a859061bf64af176dc]**
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **14.**[^key-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **15.**[^key-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **16.**[^key-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **17. Conditions[^key-2039fa8fda2255a859061bf64af176dc]**
+> **8. Description[^c-2039fa8fda2255a859061bf64af176dc]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **18.**[^key-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **Persons on official business[^c-2039fa8fda2255a859061bf64af176dc]**
 >
-> **Seasonal and temporary horticultural and food processing workers[^key-2039fa8fda2255a859061bf64af176dc]**
->
-> **19. Description[^key-2039fa8fda2255a859061bf64af176dc]**
+> **9. Description[^c-2039fa8fda2255a859061bf64af176dc]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Transporting human cells or blood[^key-2039fa8fda2255a859061bf64af176dc]**
+> **10.**[^c-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **20. Description[^key-2039fa8fda2255a859061bf64af176dc]**
+> **11.**[^c-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **Law enforcement[^key-2039fa8fda2255a859061bf64af176dc]**
->
-> **21. Description[^key-2039fa8fda2255a859061bf64af176dc]**
+> **12. Condition[^c-2039fa8fda2255a859061bf64af176dc]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **22.**[^key-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **Transport workers[^c-2039fa8fda2255a859061bf64af176dc]**
 >
-> **A non-CTA transit passenger[^key-2039fa8fda2255a859061bf64af176dc]**
->
-> **23. Description[^key-2039fa8fda2255a859061bf64af176dc]**
+> **13. Description[^c-2039fa8fda2255a859061bf64af176dc]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **24. Condition[^key-2039fa8fda2255a859061bf64af176dc]**
+> **14.**[^c-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **15.**[^c-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **16.**[^c-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **17. Conditions[^c-2039fa8fda2255a859061bf64af176dc]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Transit passenger (Republic of Ireland)[^key-2039fa8fda2255a859061bf64af176dc]**
+> **18.**[^c-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **25. Description[^key-2039fa8fda2255a859061bf64af176dc]**
+> **Seasonal and temporary horticultural and food processing workers[^c-2039fa8fda2255a859061bf64af176dc]**
 >
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **26. Condition[^key-2039fa8fda2255a859061bf64af176dc]**
+> **19. Description[^c-2039fa8fda2255a859061bf64af176dc]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **A CTA transit passenger[^key-2039fa8fda2255a859061bf64af176dc]**
+> **Transporting human cells or blood[^c-2039fa8fda2255a859061bf64af176dc]**
 >
-> **27. Description[^key-2039fa8fda2255a859061bf64af176dc]**
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **A non-disembarking cruise passenger[^key-2039fa8fda2255a859061bf64af176dc]**
->
-> **28. Description[^key-2039fa8fda2255a859061bf64af176dc]**
+> **20. Description[^c-2039fa8fda2255a859061bf64af176dc]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **A short stay cruise passenger[^key-2039fa8fda2255a859061bf64af176dc]**
+> **Law enforcement[^c-2039fa8fda2255a859061bf64af176dc]**
 >
-> **29. Description[^key-2039fa8fda2255a859061bf64af176dc]**
+> **21. Description[^c-2039fa8fda2255a859061bf64af176dc]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Essential and emergency red list exemption[^key-2039fa8fda2255a859061bf64af176dc]**
+> **22.**[^c-2039fa8fda2255a859061bf64af176dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **30. Description[^key-2039fa8fda2255a859061bf64af176dc]**
+> **A non-CTA transit passenger[^c-2039fa8fda2255a859061bf64af176dc]**
+>
+> **23. Description[^c-2039fa8fda2255a859061bf64af176dc]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **24. Condition[^c-2039fa8fda2255a859061bf64af176dc]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **Transit passenger (Republic of Ireland)[^c-2039fa8fda2255a859061bf64af176dc]**
+>
+> **25. Description[^c-2039fa8fda2255a859061bf64af176dc]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **26. Condition[^c-2039fa8fda2255a859061bf64af176dc]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **A CTA transit passenger[^c-2039fa8fda2255a859061bf64af176dc]**
+>
+> **27. Description[^c-2039fa8fda2255a859061bf64af176dc]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **A non-disembarking cruise passenger[^c-2039fa8fda2255a859061bf64af176dc]**
+>
+> **28. Description[^c-2039fa8fda2255a859061bf64af176dc]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **A short stay cruise passenger[^c-2039fa8fda2255a859061bf64af176dc]**
+>
+> **29. Description[^c-2039fa8fda2255a859061bf64af176dc]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **Essential and emergency red list exemption[^c-2039fa8fda2255a859061bf64af176dc]**
+>
+> **30. Description[^c-2039fa8fda2255a859061bf64af176dc]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-2039fa8fda2255a859061bf64af176dc]EXPLANATORY NOTE
+[^c-2039fa8fda2255a859061bf64af176dc]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -242,4 +242,4 @@ No impact assessment has been prepared for these Regulations.
 
 ## Annotations
 
-[^key-2039fa8fda2255a859061bf64af176dc]: Textual amendment: [Rule](https://www.legislation.gov.uk/nisr/2022/46) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/122)](https://www.legislation.gov.uk/nisr/2022/122), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/122/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/122/schedule)
+[^c-2039fa8fda2255a859061bf64af176dc]: Textual amendment: [Rule](https://www.legislation.gov.uk/nisr/2022/46) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/122)](https://www.legislation.gov.uk/nisr/2022/122), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/122/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/122/schedule)

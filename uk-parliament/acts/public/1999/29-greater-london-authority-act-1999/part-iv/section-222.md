@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 222. Restriction on making winding-up order.[^key-93fc0daaef9a618b0c07e54355aaa56b]
+## 222. Restriction on making winding-up order.[^c-93fc0daaef9a618b0c07e54355aaa56b]
 
 *Extent: E+W+S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-93fc0daaef9a618b0c07e54355aaa56b]: Commencement: S. 222 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/b)
+[^c-93fc0daaef9a618b0c07e54355aaa56b]: Commencement: S. 222 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/b)
 
 [^c12803901]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).

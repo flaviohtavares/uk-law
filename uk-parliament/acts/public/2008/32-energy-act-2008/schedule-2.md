@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Property schemes[^key-8e18004ffa71e8d58427c99f94fe637d]
+## SCHEDULE 2 — Property schemes[^c-8e18004ffa71e8d58427c99f94fe637d]
 
 *Extent: E+W+S+N.I.*
 
@@ -664,4 +664,4 @@ Section 44
 
 ## Annotations
 
-[^key-8e18004ffa71e8d58427c99f94fe637d]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/32/schedule/2) in force at 20.5.2009 by [S.I. 2009/1270](https://www.legislation.gov.uk/uksi/2009/1270), [art. 2](https://www.legislation.gov.uk/uksi/2009/1270/article/2)
+[^c-8e18004ffa71e8d58427c99f94fe637d]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/32/schedule/2) in force at 20.5.2009 by [S.I. 2009/1270](https://www.legislation.gov.uk/uksi/2009/1270), [art. 2](https://www.legislation.gov.uk/uksi/2009/1270/article/2)

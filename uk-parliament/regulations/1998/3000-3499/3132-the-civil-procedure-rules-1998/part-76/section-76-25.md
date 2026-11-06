@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76.25. Special advocate: communicating about proceedings[^key-aff08cb562443cad7c83cb0da0e8e7a6]
+## 76.25. Special advocate: communicating about proceedings[^c-aff08cb562443cad7c83cb0da0e8e7a6]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 
 - (a) the court;
 - (b) the Secretary of State, or any person acting for him;
-- (c) the Attorney General[^key-cc7bfa1ac09760a6a55893f0390887fa], or any person acting for him; or
+- (c) the Attorney General[^c-cc7bfa1ac09760a6a55893f0390887fa], or any person acting for him; or
 - (d) any other person, except for the relevant party or his legal representative, with whom it is necessary for administrative purposes for him to communicate about matters not connected with the substance of the proceedings.
 
 (4) The special advocate may request directions from the court authorising him to communicate with the relevant party or his legal representative or with any other person.
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aff08cb562443cad7c83cb0da0e8e7a6]: Textual amendment: [Pt. 76](https://www.legislation.gov.uk/uksi/1998/3132/part/76) inserted (14.3.2005) by [The Civil Procedure (Amendment No. 2) Rules 2005 (S.I. 2005/656)](https://www.legislation.gov.uk/uksi/2005/656), [rule 1](https://www.legislation.gov.uk/uksi/2005/656/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/656/schedule)
+[^c-aff08cb562443cad7c83cb0da0e8e7a6]: Textual amendment: [Pt. 76](https://www.legislation.gov.uk/uksi/1998/3132/part/76) inserted (14.3.2005) by [The Civil Procedure (Amendment No. 2) Rules 2005 (S.I. 2005/656)](https://www.legislation.gov.uk/uksi/2005/656), [rule 1](https://www.legislation.gov.uk/uksi/2005/656/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/656/schedule)
 
-[^key-cc7bfa1ac09760a6a55893f0390887fa]: Textual amendment: Words in [rule 76.25(3)(c)](https://www.legislation.gov.uk/uksi/1998/3132/rule/76.25/3/c) substituted (6.4.2008) by [The Civil Procedure (Amendment No.2) Rules 2007 (S.I. 2007/3543)](https://www.legislation.gov.uk/uksi/2007/3543), [rules 1(b)](https://www.legislation.gov.uk/uksi/2007/3543/rule/1/b), [10(d)](https://www.legislation.gov.uk/uksi/2007/3543/rule/10/d)
+[^c-cc7bfa1ac09760a6a55893f0390887fa]: Textual amendment: Words in [rule 76.25(3)(c)](https://www.legislation.gov.uk/uksi/1998/3132/rule/76.25/3/c) substituted (6.4.2008) by [The Civil Procedure (Amendment No.2) Rules 2007 (S.I. 2007/3543)](https://www.legislation.gov.uk/uksi/2007/3543), [rules 1(b)](https://www.legislation.gov.uk/uksi/2007/3543/rule/1/b), [10(d)](https://www.legislation.gov.uk/uksi/2007/3543/rule/10/d)

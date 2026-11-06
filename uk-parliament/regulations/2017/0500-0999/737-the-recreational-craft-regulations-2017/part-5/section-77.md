@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Service of documents[^key-c77bb54fd53e61936bf0a67d61659b70]
+## 77. Service of documents[^c-c77bb54fd53e61936bf0a67d61659b70]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c77bb54fd53e61936bf0a67d61659b70]: Commencement: Reg. 77 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-c77bb54fd53e61936bf0a67d61659b70]: Commencement: Reg. 77 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26B. Possession of immigration stamp[^key-5a988c4ca2a9354185024e11cc2a88df][^c9590311][^key-d66e253535507db4fe9d2195c8a81d09]
+## 26B. Possession of immigration stamp[^c-5a988c4ca2a9354185024e11cc2a88df][^c9590311][^c-d66e253535507db4fe9d2195c8a81d09]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,8 +37,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5a988c4ca2a9354185024e11cc2a88df]: Modification: Ss. 24-29: amendment to earlier affecting S.I. 1993/1797, Sch. 1 Pt. 1 (11.10.2017 coming into force in accordance with art. 1) by [The Immigration (Jersey) (Amendment) Order 2017 (S.I. 2017/981)](https://www.legislation.gov.uk/uksi/2017/981), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2017/981/schedule/part/1/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2017/981/article/6))
+[^c-5a988c4ca2a9354185024e11cc2a88df]: Modification: Ss. 24-29: amendment to earlier affecting S.I. 1993/1797, Sch. 1 Pt. 1 (11.10.2017 coming into force in accordance with art. 1) by [The Immigration (Jersey) (Amendment) Order 2017 (S.I. 2017/981)](https://www.legislation.gov.uk/uksi/2017/981), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2017/981/schedule/part/1/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2017/981/article/6))
 
 [^c9590311]: Textual amendment: S. 26B inserted (10.2.2003) by [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41), [s. 149](https://www.legislation.gov.uk/ukpga/2002/41/section/149) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/1](https://www.legislation.gov.uk/uksi/2003/1), [art. 2](https://www.legislation.gov.uk/uksi/2003/1/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1/schedule)
 
-[^key-d66e253535507db4fe9d2195c8a81d09]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/1971/77/part/3) modified by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 33C(6)](https://www.legislation.gov.uk/ukpga/2014/22/section/33C/6) (as inserted (1.11.2016 for specified purposes, 1.12.2016 in so far as not already in force) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2016/19/section/39/2), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/a), [5(c)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/c))
+[^c-d66e253535507db4fe9d2195c8a81d09]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/1971/77/part/3) modified by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 33C(6)](https://www.legislation.gov.uk/ukpga/2014/22/section/33C/6) (as inserted (1.11.2016 for specified purposes, 1.12.2016 in so far as not already in force) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2016/19/section/39/2), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/a), [5(c)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/c))

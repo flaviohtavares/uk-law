@@ -97,7 +97,7 @@ the case shall for the purposes of paragraph (1) be treated as if the applicatio
 
 (5) No fees shall be payable by the following categories of person—
 
-- (a) any person to or in respect of whom income support, family credit or disability working allowance under Part VII of the Social Security Contributions and Benefits Act 1992[^c1840569], or income-based jobseeker’s allowance under the Jobseekers Act 1995[^key-20e8e8617b97290fe26d0f120bf2ad85] is paid;
+- (a) any person to or in respect of whom income support, family credit or disability working allowance under Part VII of the Social Security Contributions and Benefits Act 1992[^c1840569], or income-based jobseeker’s allowance under the Jobseekers Act 1995[^c-20e8e8617b97290fe26d0f120bf2ad85] is paid;
 - (b) any person under the age of 16 or under the age of 19 and receiving full-time education which is not advanced education;
 - (c) any person whose assessable income is nil;
 - (d) an absent parent to whom the provisions of paragraph 6 of Schedule 1 to the Act (protected income) apply.
@@ -182,7 +182,7 @@ Regulation 4 prescribes when the assessment and the collection fees become payab
 
 [^c1840569]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-20e8e8617b97290fe26d0f120bf2ad85]: Textual amendment: Words in reg. 3(5)(a) inserted (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [4](https://www.legislation.gov.uk/uksi/1996/1345/regulation/4)
+[^c-20e8e8617b97290fe26d0f120bf2ad85]: Textual amendment: Words in reg. 3(5)(a) inserted (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [4](https://www.legislation.gov.uk/uksi/1996/1345/regulation/4)
 
 [^M_F_8d01a495-0d2b-49ae-8875-fca16f1b1c86]: Textual amendment: Words in reg. 3(5) inserted (7.10.96) by [S.I. 1996/1945](https://www.legislation.gov.uk/uksi/1996/1945), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/1945/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/1996/1945/regulation/6)
 

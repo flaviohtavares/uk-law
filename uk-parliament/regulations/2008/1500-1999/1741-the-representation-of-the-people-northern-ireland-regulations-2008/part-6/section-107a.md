@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 107A. Supply of full register etc to a registered medical practitioner and restrictions on use.[^key-c2c5133efd3e94fae154455d16c259b3]
+## 107A. Supply of full register etc to a registered medical practitioner and restrictions on use.[^c-c2c5133efd3e94fae154455d16c259b3]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ otherwise than where it is necessary for medical purposes.
 
 ## Annotations
 
-[^key-c2c5133efd3e94fae154455d16c259b3]: Textual amendment: [Reg. 107A](https://www.legislation.gov.uk/uksi/2008/1741/regulation/107A) inserted (4.2.2010) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2010 (S.I. 2010/278)](https://www.legislation.gov.uk/uksi/2010/278), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/278/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2010/278/regulation/10/2)
+[^c-c2c5133efd3e94fae154455d16c259b3]: Textual amendment: [Reg. 107A](https://www.legislation.gov.uk/uksi/2008/1741/regulation/107A) inserted (4.2.2010) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2010 (S.I. 2010/278)](https://www.legislation.gov.uk/uksi/2010/278), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/278/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2010/278/regulation/10/2)

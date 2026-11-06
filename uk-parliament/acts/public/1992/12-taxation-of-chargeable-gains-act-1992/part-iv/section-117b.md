@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117B. Holdings in unit trusts and offshore funds excluded from treatment as qualifying corporate bonds.[^key-210d2d7c84e6d8d4063f185d7cb68554]
+## 117B. Holdings in unit trusts and offshore funds excluded from treatment as qualifying corporate bonds.[^c-210d2d7c84e6d8d4063f185d7cb68554]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-210d2d7c84e6d8d4063f185d7cb68554]: Textual amendment: Ss. 117A, 117B repealed (with effect in accordance with Sch. 40 Pt. 3(10) Note 2 of the amending Act) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [Sch. 40 Pt. 3(10)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/40/part/3/10)
+[^c-210d2d7c84e6d8d4063f185d7cb68554]: Textual amendment: Ss. 117A, 117B repealed (with effect in accordance with Sch. 40 Pt. 3(10) Note 2 of the amending Act) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [Sch. 40 Pt. 3(10)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/40/part/3/10)

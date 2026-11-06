@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs[^f00001] with the approval of the Department of Finance[^f00002] makes these Regulations in exercise of the powers conferred by section 5(2B) of the Agriculture Act (Northern Ireland) 1949[^f00003].
 
-## 1. Citation and commencement[^key-ffb9e64c534a770dd09bd3240402face]
+## 1. Citation and commencement[^c-ffb9e64c534a770dd09bd3240402face]
 
 These Regulations may be cited as the Farming for Sustainability Knowledge Transfer Payments Regulations (Northern Ireland) 2025 and shall come into operation on 1<sup>st</sup> April 2025.
 
-## 2. Interpretation[^key-16d577f330a7f0b856231024d053aa93]
+## 2. Interpretation[^c-16d577f330a7f0b856231024d053aa93]
 
 In these Regulations—
 
@@ -60,14 +60,14 @@ In these Regulations—
 - “**meeting**” means an event for the purpose of facilitating learning which can be held either at a farm business or at an approved venue.
 - “**scheme year**” means from 1<sup>st</sup> April and ending on 31<sup>st</sup> March both dates inclusive;
 
-## 3. Hosting payment and learner support payment[^key-937ce4669812e7028b2a9e3017cb126e]
+## 3. Hosting payment and learner support payment[^c-937ce4669812e7028b2a9e3017cb126e]
 
 Subject to regulation 4 the Department shall pay to an applicant—
 
 - (a) a hosting payment of £786 for each hosting event; and
 - (b) a learner support payment of £445 in each scheme year for approved data provided to the Department in relation to farm performance information and shared at a meeting.
 
-## 4. Farming for Sustainability Knowledge Transfer Payments; Hosting requirements[^key-d79ee2131a71ee97a85eb4751170e2f7]
+## 4. Farming for Sustainability Knowledge Transfer Payments; Hosting requirements[^c-d79ee2131a71ee97a85eb4751170e2f7]
 
 A farm business which is responsible for managing a hosting event must in relation to receiving a hosting payment—
 
@@ -75,7 +75,7 @@ A farm business which is responsible for managing a hosting event must in relati
 - (b) if their farm is not suitable due to biosecurity or health and safety reasons, the farm business must prepare an approved alternative venue, with approved supporting farm performance information, ensuring that sufficient biosecurity measures and health and safety requirements are met; and
 - (c) collate and present approved farm performance information at a meeting.
 
-## 5. Withholding and recovery of payments[^key-f05625963cb4ceb2ee95d116d6365796]
+## 5. Withholding and recovery of payments[^c-f05625963cb4ceb2ee95d116d6365796]
 
 (1) This regulation applies where an application for payment has been approved by the Department and it becomes aware that the applicant—
 
@@ -96,7 +96,7 @@ A farm business which is responsible for managing a hosting event must in relati
 - (b) afford the applicant the opportunity to make written representations with a reasonable time specified by the Department; and
 - (c) consider representations made by or on behalf of the applicant within a reasonable time period.
 
-## 6. Review of decision[^key-13645f1440da8413dcc359446ed67a88]
+## 6. Review of decision[^c-13645f1440da8413dcc359446ed67a88]
 
 (1) Where the Department rejects an application under these Regulations, in whole or in part, an applicant may apply to the Department for a review of the decision.
 
@@ -157,14 +157,14 @@ provides for the review of a decision to reject an application (regulation 6).
 
 [^f00003]: Footnote: [1949 c.2 (N.I.)](https://www.legislation.gov.uk/apni/1949/2)
 
-[^key-ffb9e64c534a770dd09bd3240402face]: Commencement: Reg. 1 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/40/regulation/1)
+[^c-ffb9e64c534a770dd09bd3240402face]: Commencement: Reg. 1 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/40/regulation/1)
 
-[^key-16d577f330a7f0b856231024d053aa93]: Commencement: Reg. 2 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/40/regulation/1)
+[^c-16d577f330a7f0b856231024d053aa93]: Commencement: Reg. 2 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/40/regulation/1)
 
-[^key-937ce4669812e7028b2a9e3017cb126e]: Commencement: Reg. 3 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/40/regulation/1)
+[^c-937ce4669812e7028b2a9e3017cb126e]: Commencement: Reg. 3 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/40/regulation/1)
 
-[^key-d79ee2131a71ee97a85eb4751170e2f7]: Commencement: Reg. 4 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/40/regulation/1)
+[^c-d79ee2131a71ee97a85eb4751170e2f7]: Commencement: Reg. 4 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/40/regulation/1)
 
-[^key-f05625963cb4ceb2ee95d116d6365796]: Commencement: Reg. 5 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/40/regulation/1)
+[^c-f05625963cb4ceb2ee95d116d6365796]: Commencement: Reg. 5 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/40/regulation/1)
 
-[^key-13645f1440da8413dcc359446ed67a88]: Commencement: Reg. 6 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/40/regulation/1)
+[^c-13645f1440da8413dcc359446ed67a88]: Commencement: Reg. 6 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/40/regulation/1)

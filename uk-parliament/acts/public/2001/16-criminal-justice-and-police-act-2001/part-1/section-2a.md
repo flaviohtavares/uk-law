@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2A. Educational course schemes[^key-ee7a5ee62ba823a76945a9f8a3cb8f06]
+## 2A. Educational course schemes[^c-ee7a5ee62ba823a76945a9f8a3cb8f06]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee7a5ee62ba823a76945a9f8a3cb8f06]: Textual amendment: S. 2A inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 23 para. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/23/paragraph/4); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(e)](https://www.legislation.gov.uk/uksi/2013/453/article/4/e)
+[^c-ee7a5ee62ba823a76945a9f8a3cb8f06]: Textual amendment: S. 2A inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 23 para. 4](https://www.legislation.gov.uk/ukpga/2012/10/schedule/23/paragraph/4); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(e)](https://www.legislation.gov.uk/uksi/2013/453/article/4/e)

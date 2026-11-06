@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Notices under Regulation 8, 9 or 10[^key-2ffd503223a9644ade1149bd5a7c438b]
+## 11. Notices under Regulation 8, 9 or 10[^c-2ffd503223a9644ade1149bd5a7c438b]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ffd503223a9644ade1149bd5a7c438b]: Commencement: Reg. 11 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-2ffd503223a9644ade1149bd5a7c438b]: Commencement: Reg. 11 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

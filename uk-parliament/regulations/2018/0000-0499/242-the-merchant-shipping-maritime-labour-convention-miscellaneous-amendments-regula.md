@@ -50,15 +50,15 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 86(4) of the Merchant Shipping Act 1995 the Secretary of State has consulted the persons referred to in that section.
 
-## 1. Citation and commencement[^key-b510f8aead70afae97d3d8ce34833333]
+## 1. Citation and commencement[^c-b510f8aead70afae97d3d8ce34833333]
 
 These Regulations may be cited as the Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 and come into force on 6th April 2018.
 
-## 2. Amendment of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998[^key-242fd9b845838455039870fde206ddc8]
+## 2. Amendment of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998[^c-242fd9b845838455039870fde206ddc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Merchant Shipping (Maritime Labour Convention) (Medical Certification) Regulations 2010[^key-29d835ad0cbaa0000db2ba82c1902d1f]
+## 3. Amendment of the Merchant Shipping (Maritime Labour Convention) (Medical Certification) Regulations 2010[^c-29d835ad0cbaa0000db2ba82c1902d1f]
 
 (1) The Merchant Shipping (Maritime Labour Convention) (Medical Certification) Regulations 2010[^f00007] are amended as follows.
 
@@ -110,7 +110,7 @@ These Regulations may be cited as the Merchant Shipping (Maritime Labour Convent
 
 .
 
-## 4. Amendment of the Merchant Shipping (Maritime Labour Convention) (Survey and Certification) Regulations 2013[^key-50cfc856952adeb9266bb2f70fe55e5a]
+## 4. Amendment of the Merchant Shipping (Maritime Labour Convention) (Survey and Certification) Regulations 2013[^c-50cfc856952adeb9266bb2f70fe55e5a]
 
 (1) The Merchant Shipping (Maritime Labour Convention) (Survey and Certification) Regulations 2013[^f00009] are amended as follows.
 
@@ -125,7 +125,7 @@ These Regulations may be cited as the Merchant Shipping (Maritime Labour Convent
   ;
 - (b) in the words after paragraph (b), for “paragraphs” substitute “paragraph”.
 
-## 5. Amendment of the Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014[^key-55b9d9d2395f0d59c2a3d13da46eeae8]
+## 5. Amendment of the Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014[^c-55b9d9d2395f0d59c2a3d13da46eeae8]
 
 (1) The Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014[^f00010] are amended as follows.
 
@@ -198,7 +198,7 @@ These Regulations may be cited as the Merchant Shipping (Maritime Labour Convent
 
   .
 
-## 6. Amendment of the Merchant Shipping (Maritime Labour Convention) (Recruitment and Placement) Regulations 2014[^key-d706e67e32a87fbd14eb591abc091c6c]
+## 6. Amendment of the Merchant Shipping (Maritime Labour Convention) (Recruitment and Placement) Regulations 2014[^c-d706e67e32a87fbd14eb591abc091c6c]
 
 (1) The Merchant Shipping (Maritime Labour Convention) (Recruitment and Placement) Regulations 2014[^f00013] are amended as follows.
 
@@ -213,7 +213,7 @@ These Regulations may be cited as the Merchant Shipping (Maritime Labour Convent
   ;
 - (b) in the words after paragraph (b), for “paragraphs” substitute “paragraph”.
 
-## 7. Amendment of the Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018[^key-3691a73328fb124d7413a02649b5c2e7]
+## 7. Amendment of the Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018[^c-3691a73328fb124d7413a02649b5c2e7]
 
 (1) The Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018[^f00014] are amended as follows.
 
@@ -263,21 +263,21 @@ A regulatory triage assessment of the effect that these Regulations will have on
 
 [^f00004]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21). Sections 85 and 86 were amended by section 8 of the Merchant Shipping and Maritime Security Act [1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28), and are applied to hovercraft by article 4 of the Hovercraft (Application of Enactments) Order 1989 ([S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350)) (sections 85 and 86 re-enact sections 21 and 22 of the Merchant Shipping Act [1979 (c.39)](https://www.legislation.gov.uk/ukpga/1979/39), to which that article refers). There are other amendments not relevant to these Regulations.
 
-[^key-b510f8aead70afae97d3d8ce34833333]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1)
+[^c-b510f8aead70afae97d3d8ce34833333]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1)
 
-[^key-242fd9b845838455039870fde206ddc8]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/242/regulation/2) revoked (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/1195/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
+[^c-242fd9b845838455039870fde206ddc8]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/242/regulation/2) revoked (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/1195/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
 
-[^key-29d835ad0cbaa0000db2ba82c1902d1f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/242/regulation/3) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1)
+[^c-29d835ad0cbaa0000db2ba82c1902d1f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/242/regulation/3) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1)
 
 [^f00007]: Footnote: [S.I. 2010/737](https://www.legislation.gov.uk/uksi/2010/737). Regulation 8 was amended by [S.I. 2014/1614](https://www.legislation.gov.uk/uksi/2014/1614). There are other amendments but none are relevant.
 
 [^f00008]: Footnote: [2015 c.26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by section 19 of the Enterprise Act [2016 (c.12)](https://www.legislation.gov.uk/ukpga/2016/12).
 
-[^key-50cfc856952adeb9266bb2f70fe55e5a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/242/regulation/4) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1)
+[^c-50cfc856952adeb9266bb2f70fe55e5a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/242/regulation/4) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1)
 
 [^f00009]: Footnote: [S.I. 2013/1785](https://www.legislation.gov.uk/uksi/2013/1785), to which there are other amending instruments but none are relevant.
 
-[^key-55b9d9d2395f0d59c2a3d13da46eeae8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/242/regulation/5) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1)
+[^c-55b9d9d2395f0d59c2a3d13da46eeae8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/242/regulation/5) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1)
 
 [^f00010]: Footnote: [S.I. 2014/1613](https://www.legislation.gov.uk/uksi/2014/1613).
 
@@ -285,10 +285,10 @@ A regulatory triage assessment of the effect that these Regulations will have on
 
 [^f00012]: Footnote: [S.I. 1997/1508](https://www.legislation.gov.uk/uksi/1997/1508). Amended by [S.I. 2005/2114](https://www.legislation.gov.uk/uksi/2005/2114) and [S.I. 2014/1614](https://www.legislation.gov.uk/uksi/2014/1614).
 
-[^key-d706e67e32a87fbd14eb591abc091c6c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/242/regulation/6) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1)
+[^c-d706e67e32a87fbd14eb591abc091c6c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/242/regulation/6) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1)
 
 [^f00013]: Footnote: [S.I. 2014/1615](https://www.legislation.gov.uk/uksi/2014/1615), there are other amending instruments but none are relevant.
 
-[^key-3691a73328fb124d7413a02649b5c2e7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/242/regulation/7) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1)
+[^c-3691a73328fb124d7413a02649b5c2e7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/242/regulation/7) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1)
 
 [^f00014]: Footnote: [S.I. 2018/58](https://www.legislation.gov.uk/uksi/2018/58).

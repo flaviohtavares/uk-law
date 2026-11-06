@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Power to apply Act to detained children and detained young persons[^key-0252bb705ccdb47c9a15a6afb6424586]
+## 70. Power to apply Act to detained children and detained young persons[^c-0252bb705ccdb47c9a15a6afb6424586]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0252bb705ccdb47c9a15a6afb6424586]: Commencement: [S. 70](https://www.legislation.gov.uk/asc/2021/4/section/70) in force at 1.9.2022 by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 4(f)](https://www.legislation.gov.uk/wsi/2022/652/article/4/f)
+[^c-0252bb705ccdb47c9a15a6afb6424586]: Commencement: [S. 70](https://www.legislation.gov.uk/asc/2021/4/section/70) in force at 1.9.2022 by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 4(f)](https://www.legislation.gov.uk/wsi/2022/652/article/4/f)

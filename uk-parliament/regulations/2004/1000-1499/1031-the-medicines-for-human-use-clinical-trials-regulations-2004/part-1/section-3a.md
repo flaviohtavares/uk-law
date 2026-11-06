@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3A. Sponsor’s responsibility for the investigator’s brochure[^key-4b193ebfb389cf74ec23a8b3749436ed]
+## 3A. Sponsor’s responsibility for the investigator’s brochure[^c-4b193ebfb389cf74ec23a8b3749436ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The sponsor of a clinical trial shall—
 
 ## Annotations
 
-[^key-4b193ebfb389cf74ec23a8b3749436ed]: Textual amendment: Reg. 3A inserted (29.8.2006) by [The Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2006/1928/regulation/4)
+[^c-4b193ebfb389cf74ec23a8b3749436ed]: Textual amendment: Reg. 3A inserted (29.8.2006) by [The Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2006/1928/regulation/4)

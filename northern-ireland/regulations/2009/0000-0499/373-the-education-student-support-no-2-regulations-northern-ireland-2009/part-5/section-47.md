@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Parents’ learning allowance[^key-eb0a23ee1fcc42c1ffed894c0e279969]
+## 47. Parents’ learning allowance[^c-eb0a23ee1fcc42c1ffed894c0e279969]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb0a23ee1fcc42c1ffed894c0e279969]: Commencement: Reg. 47 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-eb0a23ee1fcc42c1ffed894c0e279969]: Commencement: Reg. 47 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)

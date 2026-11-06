@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Jurisdiction.[^key-c5b3fa647cb4e5f98d78ce361166ddbb][^c8102401]
+## 29. Jurisdiction.[^c-c5b3fa647cb4e5f98d78ce361166ddbb][^c8102401]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ For section 14 of the Sea Fish (Conservation) Act 1967 (jurisdiction to try offe
 
 ## Annotations
 
-[^key-c5b3fa647cb4e5f98d78ce361166ddbb]: Modification: Pts. 2-4 functions transferred (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 53(2)(c)(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/53/2/c/3), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/l)
+[^c-c5b3fa647cb4e5f98d78ce361166ddbb]: Modification: Pts. 2-4 functions transferred (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 53(2)(c)(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/53/2/c/3), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/l)
 
 [^c8102401]: Modification: The text of s. 3(6), 19–26, 28, 29, 35(2)–(7), 36(2), 37–39, 45, 46(2), Sch. 1 para. 10, Sch. 3 para. 8(2)(3), Sch. 5 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.

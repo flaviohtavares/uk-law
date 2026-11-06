@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.20. Petition by moneylender[^key-e69055962096a6c6ccafb4145fde2457]
+## 6.20. Petition by moneylender[^c-e69055962096a6c6ccafb4145fde2457]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A petition in respect of a moneylending transaction made before 27th January 198
 
 ## Annotations
 
-[^key-e69055962096a6c6ccafb4145fde2457]: Commencement: [Rule 6.20](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.20) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-e69055962096a6c6ccafb4145fde2457]: Commencement: [Rule 6.20](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.20) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -31,7 +31,7 @@ summary: ''
 - (c) that, having regard to the manner in which the club has been conducted during the preceding 6 years (or where the club has not been registered during all of that period, during the period from the date of the service of the notice of application under paragraph 1(1)(a) of Schedule 2 for the grant of registration),—
   - (i) the club is conducted in good faith as a club; and
   - (ii) the provisions of the rules of the club and of this Order are, and will be, complied with; and
-- (d) that none of the officials of the club has an unspent conviction under the [^m00014] Rehabilitation of Offenders (Northern Ireland) Order 1978 for an offence of violence or an offence involving dishonesty; and[^key-92d7846b735ea281a1240c6c2c936f01]
+- (d) that none of the officials of the club has an unspent conviction under the [^m00014] Rehabilitation of Offenders (Northern Ireland) Order 1978 for an offence of violence or an offence involving dishonesty; and[^c-92d7846b735ea281a1240c6c2c936f01]
 - (e) that each of the officials of the club is aware of the responsibilities under, and has been complying with, any code of practice which the Department has approved under Article 41K (and from which it has not withdrawn its approval).
 
 (4) A court may refuse an application for the renewal of registration of a club if it is satisfied—
@@ -55,7 +55,7 @@ summary: ''
 
 [^m00014]: Marginal citation: 1978 NI 27.
 
-[^key-92d7846b735ea281a1240c6c2c936f01]: Textual amendment: [Art. 8(3)(e)](https://www.legislation.gov.uk/nisi/1996/3159/article/8/3/e) and word inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 41(4)](https://www.legislation.gov.uk/nia/2021/7/section/41/4), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
+[^c-92d7846b735ea281a1240c6c2c936f01]: Textual amendment: [Art. 8(3)(e)](https://www.legislation.gov.uk/nisi/1996/3159/article/8/3/e) and word inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 41(4)](https://www.legislation.gov.uk/nia/2021/7/section/41/4), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
 
 [^m00015]: Marginal citation: 1996 NI 22.
 

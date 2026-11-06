@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 98. Repeals and revocations[^key-64f2461018beb1562fff4a141c9c27ba]
+## 98. Repeals and revocations[^c-64f2461018beb1562fff4a141c9c27ba]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ Schedule 5 (which contains repeals and revocations) has effect.
 
 ## Annotations
 
-[^key-64f2461018beb1562fff4a141c9c27ba]: Commencement: [S. 98](https://www.legislation.gov.uk/ukcm/2018/3/section/98) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-64f2461018beb1562fff4a141c9c27ba]: Commencement: [S. 98](https://www.legislation.gov.uk/ukcm/2018/3/section/98) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

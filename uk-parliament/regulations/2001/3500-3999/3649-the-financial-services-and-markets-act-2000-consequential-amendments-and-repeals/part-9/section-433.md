@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 433. Revocation of the 1993 Regulations[^key-1dd232786d604e7d04f5774ad9be4072]
+## 433. Revocation of the 1993 Regulations[^c-1dd232786d604e7d04f5774ad9be4072]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Insurance Companies (Amendment) Regulations 1993 are revoked.
 
 ## Annotations
 
-[^key-1dd232786d604e7d04f5774ad9be4072]: Commencement: Art. 433 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-1dd232786d604e7d04f5774ad9be4072]: Commencement: Art. 433 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

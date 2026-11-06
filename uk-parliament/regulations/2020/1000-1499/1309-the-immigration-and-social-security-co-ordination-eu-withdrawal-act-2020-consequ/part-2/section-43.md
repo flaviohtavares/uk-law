@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Amendment of the Proposed Marriages and Civil Partnerships (Conduct of Investigations, etc.) Regulations 2015[^key-262b3aae309e42f312c1f570c722c07d]
+## 43. Amendment of the Proposed Marriages and Civil Partnerships (Conduct of Investigations, etc.) Regulations 2015[^c-262b3aae309e42f312c1f570c722c07d]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-262b3aae309e42f312c1f570c722c07d]: Commencement: Reg. 43 in force at 1.7.2021, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c)
+[^c-262b3aae309e42f312c1f570c722c07d]: Commencement: Reg. 43 in force at 1.7.2021, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c)
 
 [^c24399021]: Marginal citation: [S.I. 2015/397](https://www.legislation.gov.uk/uksi/2015/397). Relevant amendments are made by [S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 579CB. Refund of overpaid inheritance tax treated as pension[^key-5bd8755bbe72ea44ede01656cb92190c]
+## 579CB. Refund of overpaid inheritance tax treated as pension[^c-5bd8755bbe72ea44ede01656cb92190c]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5bd8755bbe72ea44ede01656cb92190c]: Textual amendment: [S. 579CB](https://www.legislation.gov.uk/ukpga/2003/1/section/579CB) inserted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 70(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/70/4), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)
+[^c-5bd8755bbe72ea44ede01656cb92190c]: Textual amendment: [S. 579CB](https://www.legislation.gov.uk/ukpga/2003/1/section/579CB) inserted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 70(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/70/4), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)

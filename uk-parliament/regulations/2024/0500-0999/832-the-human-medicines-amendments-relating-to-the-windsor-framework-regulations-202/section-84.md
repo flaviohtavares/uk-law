@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Amendment to regulation 193[^key-73dc05385d13cff0e9f4897968804cb3]
+## 84. Amendment to regulation 193[^c-73dc05385d13cff0e9f4897968804cb3]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ In regulation 193 (harmonisation of PSUR frequency or date of submission)[^f0009
 
 ## Annotations
 
-[^key-73dc05385d13cff0e9f4897968804cb3]: Commencement: [Reg. 84](https://www.legislation.gov.uk/uksi/2024/832/regulation/84) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-73dc05385d13cff0e9f4897968804cb3]: Commencement: [Reg. 84](https://www.legislation.gov.uk/uksi/2024/832/regulation/84) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00094]: Footnote: Regulation 193 was amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), including as that instrument was amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

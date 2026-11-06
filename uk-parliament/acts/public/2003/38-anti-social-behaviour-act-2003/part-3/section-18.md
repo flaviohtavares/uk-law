@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Parenting orders under the 1998 Act[^key-9a99c426b3a0957c2f50e4c03ee53641]
+## 18. Parenting orders under the 1998 Act[^c-9a99c426b3a0957c2f50e4c03ee53641]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a99c426b3a0957c2f50e4c03ee53641]: Commencement: S. 18 in force at 27.2.2004 by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 3(a)(i)](https://www.legislation.gov.uk/uksi/2003/3300/article/3/a/i)
+[^c-9a99c426b3a0957c2f50e4c03ee53641]: Commencement: S. 18 in force at 27.2.2004 by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 3(a)(i)](https://www.legislation.gov.uk/uksi/2003/3300/article/3/a/i)

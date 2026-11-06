@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3E — ADDITIONAL CONDITIONS THAT APPLY TO THE KEEPING OF CONVENTIONALLY REARED MEAT CHICKENS[^key-3823bfdeaa573ad722ab877e4278600a]
+## SCHEDULE 3E — ADDITIONAL CONDITIONS THAT APPLY TO THE KEEPING OF CONVENTIONALLY REARED MEAT CHICKENS[^c-3823bfdeaa573ad722ab877e4278600a]
 
 *Extent: N.I.*
 
@@ -24,82 +24,82 @@ summary: ''
 
 Regulation 5B
 
-### PART I — Interpretation[^key-3823bfdeaa573ad722ab877e4278600a]
+### PART I — Interpretation[^c-3823bfdeaa573ad722ab877e4278600a]
 
-#### 1. Interpretation[^key-3823bfdeaa573ad722ab877e4278600a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART II — General additional conditions[^key-3823bfdeaa573ad722ab877e4278600a]
-
-#### 2. Training[^key-3823bfdeaa573ad722ab877e4278600a]
+#### 1. Interpretation[^c-3823bfdeaa573ad722ab877e4278600a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Drinkers and feeding[^key-3823bfdeaa573ad722ab877e4278600a]
+### PART II — General additional conditions[^c-3823bfdeaa573ad722ab877e4278600a]
+
+#### 2. Training[^c-3823bfdeaa573ad722ab877e4278600a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Litter[^key-3823bfdeaa573ad722ab877e4278600a]
+#### 3. Drinkers and feeding[^c-3823bfdeaa573ad722ab877e4278600a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Ventilation and heating[^key-3823bfdeaa573ad722ab877e4278600a]
+#### 4. Litter[^c-3823bfdeaa573ad722ab877e4278600a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Noise[^key-3823bfdeaa573ad722ab877e4278600a]
+#### 5. Ventilation and heating[^c-3823bfdeaa573ad722ab877e4278600a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Light[^key-3823bfdeaa573ad722ab877e4278600a]
+#### 6. Noise[^c-3823bfdeaa573ad722ab877e4278600a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Inspection[^key-3823bfdeaa573ad722ab877e4278600a]
+#### 7. Light[^c-3823bfdeaa573ad722ab877e4278600a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Cleaning[^key-3823bfdeaa573ad722ab877e4278600a]
+#### 8. Inspection[^c-3823bfdeaa573ad722ab877e4278600a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Record keeping[^key-3823bfdeaa573ad722ab877e4278600a]
+#### 9. Cleaning[^c-3823bfdeaa573ad722ab877e4278600a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Mutilations[^key-3823bfdeaa573ad722ab877e4278600a]
+#### 10. Record keeping[^c-3823bfdeaa573ad722ab877e4278600a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — Stocking densities[^key-3823bfdeaa573ad722ab877e4278600a]
-
-#### 12. Notification of stocking density[^key-3823bfdeaa573ad722ab877e4278600a]
+#### 11. Mutilations[^c-3823bfdeaa573ad722ab877e4278600a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Stocking density limits[^key-3823bfdeaa573ad722ab877e4278600a]
+### PART III — Stocking densities[^c-3823bfdeaa573ad722ab877e4278600a]
+
+#### 12. Notification of stocking density[^c-3823bfdeaa573ad722ab877e4278600a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Requirements for higher stocking densities[^key-3823bfdeaa573ad722ab877e4278600a]
+#### 13. Stocking density limits[^c-3823bfdeaa573ad722ab877e4278600a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Approval for stocking in excess of 39 kilograms[^key-3823bfdeaa573ad722ab877e4278600a]
+#### 14. Requirements for higher stocking densities[^c-3823bfdeaa573ad722ab877e4278600a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IV — Monitoring and follow up at the slaughterhouse[^key-3823bfdeaa573ad722ab877e4278600a]
-
-#### 16. Food chain information and chickens dead on arrival and mortality[^key-3823bfdeaa573ad722ab877e4278600a]
+#### 15. Approval for stocking in excess of 39 kilograms[^c-3823bfdeaa573ad722ab877e4278600a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Identification of poor welfare conditions and follow up[^key-3823bfdeaa573ad722ab877e4278600a]
+### PART IV — Monitoring and follow up at the slaughterhouse[^c-3823bfdeaa573ad722ab877e4278600a]
+
+#### 16. Food chain information and chickens dead on arrival and mortality[^c-3823bfdeaa573ad722ab877e4278600a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 17. Identification of poor welfare conditions and follow up[^c-3823bfdeaa573ad722ab877e4278600a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3823bfdeaa573ad722ab877e4278600a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/270) revoked (2.4.2012) by [Welfare of Farmed Animals Regulations (Northern Ireland) 2012 (S.R. 2012/156)](https://www.legislation.gov.uk/nisr/2012/156), [regs. 1](https://www.legislation.gov.uk/nisr/2012/156/regulation/1), [8](https://www.legislation.gov.uk/nisr/2012/156/regulation/8)
+[^c-3823bfdeaa573ad722ab877e4278600a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/270) revoked (2.4.2012) by [Welfare of Farmed Animals Regulations (Northern Ireland) 2012 (S.R. 2012/156)](https://www.legislation.gov.uk/nisr/2012/156), [regs. 1](https://www.legislation.gov.uk/nisr/2012/156/regulation/1), [8](https://www.legislation.gov.uk/nisr/2012/156/regulation/8)

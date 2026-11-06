@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3B. Safeguards relating to directions under section 3A[^key-295d9719523157f644543e712b703130]
+## 3B. Safeguards relating to directions under section 3A[^c-295d9719523157f644543e712b703130]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-295d9719523157f644543e712b703130]: Textual amendment: Pt. 1 Ch. 2 inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [6](https://www.legislation.gov.uk/uksi/2014/3329/article/6)
+[^c-295d9719523157f644543e712b703130]: Textual amendment: Pt. 1 Ch. 2 inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [6](https://www.legislation.gov.uk/uksi/2014/3329/article/6)

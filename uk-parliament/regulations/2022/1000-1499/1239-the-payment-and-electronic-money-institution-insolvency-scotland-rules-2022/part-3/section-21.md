@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Release from duty to submit statement of affairs[^key-12a0d27e2ad63bd2b3d7a205b22118d9]
+## 21. Release from duty to submit statement of affairs[^c-12a0d27e2ad63bd2b3d7a205b22118d9]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12a0d27e2ad63bd2b3d7a205b22118d9]: Commencement: Rule 21 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-12a0d27e2ad63bd2b3d7a205b22118d9]: Commencement: Rule 21 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

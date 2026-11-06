@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3C. Alternative grounds for granting applications: Scotland[^key-4d0815e86444d424bbe454db39d1a663]
+## 3C. Alternative grounds for granting applications: Scotland[^c-4d0815e86444d424bbe454db39d1a663]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d0815e86444d424bbe454db39d1a663]: Textual amendment: S. 3C inserted (1.9.2014 for specified purposes, 16.12.2014 in so far as not already in force) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [s. 36](https://www.legislation.gov.uk/asp/2014/5/section/36), [Sch. 2 para. 15](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/15); [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule) (as amended (1.9.2014) by [S.S.I. 2014/218](https://www.legislation.gov.uk/ssi/2014/218), art. 2(3), Sch.); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-4d0815e86444d424bbe454db39d1a663]: Textual amendment: S. 3C inserted (1.9.2014 for specified purposes, 16.12.2014 in so far as not already in force) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [s. 36](https://www.legislation.gov.uk/asp/2014/5/section/36), [Sch. 2 para. 15](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/15); [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule) (as amended (1.9.2014) by [S.S.I. 2014/218](https://www.legislation.gov.uk/ssi/2014/218), art. 2(3), Sch.); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)

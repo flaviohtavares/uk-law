@@ -35,107 +35,107 @@ amending Regulation (EC) No 1126/2008 adopting certain international accounting 
 
 (Text with EEA relevance) (revoked)
 
-[^key-fd5260e33ec456cb7d688a6e973ea1f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fd5260e33ec456cb7d688a6e973ea1f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-fd5260e33ec456cb7d688a6e973ea1f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-fd5260e33ec456cb7d688a6e973ea1f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-fd5260e33ec456cb7d688a6e973ea1f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-fd5260e33ec456cb7d688a6e973ea1f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-fd5260e33ec456cb7d688a6e973ea1f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-fd5260e33ec456cb7d688a6e973ea1f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd5260e33ec456cb7d688a6e973ea1f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fd5260e33ec456cb7d688a6e973ea1f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — INTERNATIONAL ACCOUNTING STANDARDS[^key-fd5260e33ec456cb7d688a6e973ea1f8]
+## ANNEX — INTERNATIONAL ACCOUNTING STANDARDS[^c-fd5260e33ec456cb7d688a6e973ea1f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd5260e33ec456cb7d688a6e973ea1f8] IFRIC INTERPRETATION 19
+[^c-fd5260e33ec456cb7d688a6e973ea1f8] IFRIC INTERPRETATION 19
 
 ***Extinguishing Financial Liabilities with Equity Instruments***
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd5260e33ec456cb7d688a6e973ea1f8]REFERENCES
+[^c-fd5260e33ec456cb7d688a6e973ea1f8]REFERENCES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd5260e33ec456cb7d688a6e973ea1f8]BACKGROUND
+[^c-fd5260e33ec456cb7d688a6e973ea1f8]BACKGROUND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd5260e33ec456cb7d688a6e973ea1f8]1
+[^c-fd5260e33ec456cb7d688a6e973ea1f8]1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd5260e33ec456cb7d688a6e973ea1f8]SCOPE
+[^c-fd5260e33ec456cb7d688a6e973ea1f8]SCOPE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd5260e33ec456cb7d688a6e973ea1f8]2
+[^c-fd5260e33ec456cb7d688a6e973ea1f8]2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd5260e33ec456cb7d688a6e973ea1f8]3
+[^c-fd5260e33ec456cb7d688a6e973ea1f8]3
 
 An entity shall not apply this Interpretation to transactions in situations where:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd5260e33ec456cb7d688a6e973ea1f8]ISSUES
+[^c-fd5260e33ec456cb7d688a6e973ea1f8]ISSUES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd5260e33ec456cb7d688a6e973ea1f8]4
+[^c-fd5260e33ec456cb7d688a6e973ea1f8]4
 
 This Interpretation addresses the following issues:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd5260e33ec456cb7d688a6e973ea1f8]CONSENSUS
+[^c-fd5260e33ec456cb7d688a6e973ea1f8]CONSENSUS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd5260e33ec456cb7d688a6e973ea1f8]5
+[^c-fd5260e33ec456cb7d688a6e973ea1f8]5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd5260e33ec456cb7d688a6e973ea1f8]6
+[^c-fd5260e33ec456cb7d688a6e973ea1f8]6
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd5260e33ec456cb7d688a6e973ea1f8]7
+[^c-fd5260e33ec456cb7d688a6e973ea1f8]7
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd5260e33ec456cb7d688a6e973ea1f8]8
+[^c-fd5260e33ec456cb7d688a6e973ea1f8]8
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd5260e33ec456cb7d688a6e973ea1f8]9
+[^c-fd5260e33ec456cb7d688a6e973ea1f8]9
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd5260e33ec456cb7d688a6e973ea1f8]10
+[^c-fd5260e33ec456cb7d688a6e973ea1f8]10
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd5260e33ec456cb7d688a6e973ea1f8]11
+[^c-fd5260e33ec456cb7d688a6e973ea1f8]11
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd5260e33ec456cb7d688a6e973ea1f8]EFFECTIVE DATE AND TRANSITION
+[^c-fd5260e33ec456cb7d688a6e973ea1f8]EFFECTIVE DATE AND TRANSITION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd5260e33ec456cb7d688a6e973ea1f8]12
+[^c-fd5260e33ec456cb7d688a6e973ea1f8]12
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd5260e33ec456cb7d688a6e973ea1f8]13
+[^c-fd5260e33ec456cb7d688a6e973ea1f8]13
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd5260e33ec456cb7d688a6e973ea1f8]Appendix
+[^c-fd5260e33ec456cb7d688a6e973ea1f8]Appendix
 
 **Amendment to IFRS 1 *First-time Adoption of International Financial Reporting Standards***
 
@@ -143,14 +143,14 @@ This Interpretation addresses the following issues:
 
 A heading and paragraph D25 are added to Appendix D.
 
-[^key-fd5260e33ec456cb7d688a6e973ea1f8] Extinguishing financial liabilities with equity instruments
+[^c-fd5260e33ec456cb7d688a6e973ea1f8] Extinguishing financial liabilities with equity instruments
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd5260e33ec456cb7d688a6e973ea1f8]D25
+[^c-fd5260e33ec456cb7d688a6e973ea1f8]D25
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fd5260e33ec456cb7d688a6e973ea1f8]: Textual amendment: Regulation revoked (31.12.2020) by The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2019/685/schedule/2/paragraph/29) (with [reg. 20(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/20/2)) (as amended by [S.I. 2020/335](https://www.legislation.gov.uk/uksi/2020/335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/335/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/335/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fd5260e33ec456cb7d688a6e973ea1f8]: Textual amendment: Regulation revoked (31.12.2020) by The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2019/685/schedule/2/paragraph/29) (with [reg. 20(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/20/2)) (as amended by [S.I. 2020/335](https://www.legislation.gov.uk/uksi/2020/335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/335/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/335/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

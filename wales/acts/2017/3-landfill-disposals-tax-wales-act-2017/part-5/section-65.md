@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Reasonable excuse for non-compliance[^key-ccb0808bbbd1edf2d5ecaac0b5b0f6f7]
+## 65. Reasonable excuse for non-compliance[^c-ccb0808bbbd1edf2d5ecaac0b5b0f6f7]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ccb0808bbbd1edf2d5ecaac0b5b0f6f7]: Commencement: [S. 65](https://www.legislation.gov.uk/anaw/2017/3/section/65) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-ccb0808bbbd1edf2d5ecaac0b5b0f6f7]: Commencement: [S. 65](https://www.legislation.gov.uk/anaw/2017/3/section/65) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

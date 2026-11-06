@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State makes the following Order in exercise of the powers conferred by paragraphs 2 and 3 of Schedule 24 to the Crime and Courts Act 2013[^f00001].
 
-## 1. Citation and commencement[^key-8af25325ff041a0bea48d57d0508f882]
+## 1. Citation and commencement[^c-8af25325ff041a0bea48d57d0508f882]
 
 This Order may be cited as the National Crime Agency (Limitation of Extension to Northern Ireland) Order 2013 and comes into force on 7th October 2013.
 
-## 2. Interpretation[^key-a197495ffd2ce5ee62436948276d4547]
+## 2. Interpretation[^c-a197495ffd2ce5ee62436948276d4547]
 
 (1) In this Order—
 
@@ -78,17 +78,17 @@ This Order may be cited as the National Crime Agency (Limitation of Extension to
 
 (5) In determining for the purposes of paragraph (4)(c) whether or not the criminal law of Northern Ireland under which conduct is unlawful is a reserved matter or excepted matter, particular regard is to be had to all the circumstances relevant to the conduct.
 
-## 3. Relevant NCA provisions that are to extend to Northern Ireland[^key-f118fd4c84d3603b791d086822980b99]
+## 3. Relevant NCA provisions that are to extend to Northern Ireland[^c-f118fd4c84d3603b791d086822980b99]
 
 (1) The relevant NCA provisions that are contained in Schedule 8 to CCA 2013 are to extend to Northern Ireland.
 
 (2) Accordingly, the last entry in the table in paragraph 9 of Schedule 24 to CCA 2013 (relating to Schedule 8 to CCA 2013) is repealed.
 
-## 4. Limitation on exercise of NCA civil recovery functions in Northern Ireland[^key-04dad550cea2899e14d4abc055a15c30]
+## 4. Limitation on exercise of NCA civil recovery functions in Northern Ireland[^c-04dad550cea2899e14d4abc055a15c30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Exceptions[^key-9976319a9ad6b466410fdf1aced36de6]
+## 5. Exceptions[^c-9976319a9ad6b466410fdf1aced36de6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -110,14 +110,14 @@ This Order allows the National Crime Agency to carry out civil recovery function
 
 [^f00001]: Footnote: [2013 c. 22](https://www.legislation.gov.uk/ukpga/2013/22).
 
-[^key-8af25325ff041a0bea48d57d0508f882]: Commencement: Art. 1 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2326/article/1)
+[^c-8af25325ff041a0bea48d57d0508f882]: Commencement: Art. 1 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2326/article/1)
 
-[^key-a197495ffd2ce5ee62436948276d4547]: Commencement: Art. 2 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2326/article/1)
+[^c-a197495ffd2ce5ee62436948276d4547]: Commencement: Art. 2 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2326/article/1)
 
 [^f00002]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).
 
-[^key-f118fd4c84d3603b791d086822980b99]: Commencement: Art. 3 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2326/article/1)
+[^c-f118fd4c84d3603b791d086822980b99]: Commencement: Art. 3 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2326/article/1)
 
-[^key-04dad550cea2899e14d4abc055a15c30]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2013/2326/article/4) revoked (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2015/798/article/5/2)
+[^c-04dad550cea2899e14d4abc055a15c30]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2013/2326/article/4) revoked (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2015/798/article/5/2)
 
-[^key-9976319a9ad6b466410fdf1aced36de6]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2013/2326/article/5) revoked (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2015/798/article/5/2)
+[^c-9976319a9ad6b466410fdf1aced36de6]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2013/2326/article/5) revoked (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2015/798/article/5/2)

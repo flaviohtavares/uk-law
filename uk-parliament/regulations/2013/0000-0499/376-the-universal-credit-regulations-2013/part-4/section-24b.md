@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24B. Order of children and qualifying young persons[^key-a1f3d6bc1cd9f221e6638ad9836a24c6]
+## 24B. Order of children and qualifying young persons[^c-a1f3d6bc1cd9f221e6638ad9836a24c6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1f3d6bc1cd9f221e6638ad9836a24c6]: Textual amendment: [Reg. 24B](https://www.legislation.gov.uk/uksi/2013/376/regulation/24B) revoked (6.4.2026 in relation to assessment periods commencing on or after that date) by [Universal Credit (Removal of Two Child Limit) Act 2026 (c. 13)](https://www.legislation.gov.uk/ukpga/2026/13), [ss. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2026/13/section/1/3/b), [3(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/4) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/1/4))
+[^c-a1f3d6bc1cd9f221e6638ad9836a24c6]: Textual amendment: [Reg. 24B](https://www.legislation.gov.uk/uksi/2013/376/regulation/24B) revoked (6.4.2026 in relation to assessment periods commencing on or after that date) by [Universal Credit (Removal of Two Child Limit) Act 2026 (c. 13)](https://www.legislation.gov.uk/ukpga/2026/13), [ss. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2026/13/section/1/3/b), [3(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/4) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/1/4))

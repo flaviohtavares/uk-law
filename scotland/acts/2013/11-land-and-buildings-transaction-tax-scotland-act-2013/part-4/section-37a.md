@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37A. Communications from taxpayers to the Tax Authority[^key-0a0214b52659555cc610eb7b2cc0fb3c]
+## 37A. Communications from taxpayers to the Tax Authority[^c-0a0214b52659555cc610eb7b2cc0fb3c]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a0214b52659555cc610eb7b2cc0fb3c]: Textual amendment: [S. 37A](https://www.legislation.gov.uk/asp/2013/11/section/37A) inserted (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(8)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/8) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-0a0214b52659555cc610eb7b2cc0fb3c]: Textual amendment: [S. 37A](https://www.legislation.gov.uk/asp/2013/11/section/37A) inserted (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(8)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/8) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)

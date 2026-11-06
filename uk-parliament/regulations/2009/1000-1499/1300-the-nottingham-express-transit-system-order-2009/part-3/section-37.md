@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Temporary use of land for maintenance of works[^key-97ba87d5423269d067446ed48c77a8fa]
+## 37. Temporary use of land for maintenance of works[^c-97ba87d5423269d067446ed48c77a8fa]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97ba87d5423269d067446ed48c77a8fa]: Commencement: Art. 37 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-97ba87d5423269d067446ed48c77a8fa]: Commencement: Art. 37 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Private residential tenancies: capping of rent increase[^key-4fe3bbec51f2f6e4615e20fc19019188]
+## 25. Private residential tenancies: capping of rent increase[^c-4fe3bbec51f2f6e4615e20fc19019188]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4fe3bbec51f2f6e4615e20fc19019188]: Commencement: S. 25 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-4fe3bbec51f2f6e4615e20fc19019188]: Commencement: S. 25 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)

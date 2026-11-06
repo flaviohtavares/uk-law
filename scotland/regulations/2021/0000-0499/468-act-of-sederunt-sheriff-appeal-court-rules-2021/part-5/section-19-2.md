@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19.2. Form of application to find caution or give security[^key-309419cb2ea932373937566da028c86c]
+## 19.2. Form of application to find caution or give security[^c-309419cb2ea932373937566da028c86c]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ is to be made by motion.
 
 ## Annotations
 
-[^key-309419cb2ea932373937566da028c86c]: Commencement: Para. 19.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-309419cb2ea932373937566da028c86c]: Commencement: Para. 19.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

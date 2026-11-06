@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Offence of offering to carry out virginity testing: England and Wales[^key-f4015264141f6204c960821a11d45949][^key-b6c75671d1f7ba9427aca53715df523e]
+## 137. Offence of offering to carry out virginity testing: England and Wales[^c-f4015264141f6204c960821a11d45949][^c-b6c75671d1f7ba9427aca53715df523e]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f4015264141f6204c960821a11d45949]: Commencement: S. 137 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-f4015264141f6204c960821a11d45949]: Commencement: S. 137 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-b6c75671d1f7ba9427aca53715df523e]: Commencement: [S. 137](https://www.legislation.gov.uk/ukpga/2022/31/section/137) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-b6c75671d1f7ba9427aca53715df523e]: Commencement: [S. 137](https://www.legislation.gov.uk/ukpga/2022/31/section/137) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

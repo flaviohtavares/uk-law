@@ -26,10 +26,10 @@ summary: ''
 - (b) section 170 (persons interested in capital etc of company), or
 - (c) section 171 (persons subscribing for shares under certain arrangements).
 
-(1A)[^key-3231c205d10382994379dfe270935173] But see section 252A(12) for provision which disapplies section 168.
+(1A)[^c-3231c205d10382994379dfe270935173] But see section 252A(12) for provision which disapplies section 168.
 
 (2) See too section 257(2).
 
 ## Annotations
 
-[^key-3231c205d10382994379dfe270935173]: Textual amendment: [S. 166(1A)](https://www.legislation.gov.uk/ukpga/2007/3/section/166/1A) inserted (with effect in accordance with Sch. 5 para. 23 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/5)
+[^c-3231c205d10382994379dfe270935173]: Textual amendment: [S. 166(1A)](https://www.legislation.gov.uk/ukpga/2007/3/section/166/1A) inserted (with effect in accordance with Sch. 5 para. 23 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/5)

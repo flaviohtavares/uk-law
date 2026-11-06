@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Designation of public authorities[^key-1ed504c7b6effa90e788738d9c0930e4]
+## 52. Designation of public authorities[^c-1ed504c7b6effa90e788738d9c0930e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ed504c7b6effa90e788738d9c0930e4]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2011/20/section/52) in force at 31.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 5](https://www.legislation.gov.uk/uksi/2012/1008/article/5)
+[^c-1ed504c7b6effa90e788738d9c0930e4]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2011/20/section/52) in force at 31.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 5](https://www.legislation.gov.uk/uksi/2012/1008/article/5)

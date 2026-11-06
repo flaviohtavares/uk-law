@@ -45,13 +45,13 @@ The Secretary of State, in pursuance of sections 36 and 41 of the Police (Northe
 
 ## Part I — General
 
-### 1. Citation and commencement[^key-26eb481fdb231fb1c7420d729a0db9fd]
+### 1. Citation and commencement[^c-26eb481fdb231fb1c7420d729a0db9fd]
 
 (1) These regulations may be cited as the Police Trainee Regulations (Northern Ireland) 2001.
 
 (2) These regulations shall come into operation on 2nd November 2001.
 
-### 2. Interpretation[^key-75ec32b6d1923cb310f942a9f771758e]
+### 2. Interpretation[^c-75ec32b6d1923cb310f942a9f771758e]
 
 In these regulations, unless the context otherwise requires—
 
@@ -63,7 +63,7 @@ In these regulations, unless the context otherwise requires—
 
 ## Part II — Service as a Police Trainee
 
-### 3. Conditions for appointment as constable[^key-18074cb6a2aaccdc4935a161caad7d4e]
+### 3. Conditions for appointment as constable[^c-18074cb6a2aaccdc4935a161caad7d4e]
 
 A person shall not be appointed to the rank of constable in the Police Service of Northern Ireland unless he has—
 
@@ -71,7 +71,7 @@ A person shall not be appointed to the rank of constable in the Police Service o
 - (b) obtained such qualification in police studies as may be specified by the Chief Constable; and
 - (c) completed, to such standard as the Chief Constable considers satisfactory, such other training for service as a police officer as may be specified by the Chief Constable.
 
-### 4. Attendance at training[^key-1bcb35fc95a5434255232ceafdc84078]
+### 4. Attendance at training[^c-1bcb35fc95a5434255232ceafdc84078]
 
 (1) In these regulations—
 
@@ -91,13 +91,13 @@ are together referred to as “training”.
 
 (4) Where a police trainee is required to attend training on a Saturday or Sunday or on a public holiday, that requirement shall not have effect unless the Chief Constable gives notice, in a schedule issued under paragraph (2), or in standing orders made under regulation 7, or otherwise, to that police trainee of the requirement no less than 15 days before the Saturday, Sunday or public holiday on which he is to be required to attend.
 
-### 5. Extending period of service of a police trainee[^key-6825facf6537dc359f67a9e9ae5f72bc]
+### 5. Extending period of service of a police trainee[^c-6825facf6537dc359f67a9e9ae5f72bc]
 
 (1) The power of the Chief Constable to specify a longer period of service under regulation 3(*a*) includes power to specify different periods for different cases.
 
 (2) In particular, where the Chief Constable is of the opinion that a police trainee who has been absent from training for five or more days is unlikely to obtain the qualification specified under regulation 3(b), or complete satisfactorily any training specified under regulation 3(c), without a longer period of service as a police trainee, he may specify a longer period of service under regulation 3(*a*) in the case of that police trainee.
 
-### 6. Termination of the period of service of a police trainee[^key-6858d805d18f90a250194cab8d63e9ee]
+### 6. Termination of the period of service of a police trainee[^c-6858d805d18f90a250194cab8d63e9ee]
 
 (1) Subject to standing orders made under regulation 7, the Chief Constable may by giving one week’s notice to a police trainee, terminate that person’s period of service as a police trainee if—
 
@@ -115,7 +115,7 @@ are together referred to as “training”.
 
 (2) A police trainee may end his period of service as a police trainee by giving one week’s notice to the Chief Constable.
 
-### 7. Standing Orders[^key-054e894ab126abc7e91b5120c46227b0]
+### 7. Standing Orders[^c-054e894ab126abc7e91b5120c46227b0]
 
 (1) The Chief Constable may make standing orders about the training of police trainees.
 
@@ -144,7 +144,7 @@ are together referred to as “training”.
 
 (5) Where standing orders made under paragraph (1) provide for procedures for cases in which the Chief Constable is considering exercising his powers under regulation 6 (terminating period of service) or provide for the termination of the service of a police trainee whose conduct does not meet required standards, the standing orders shall include provision for a right of appeal by the police trainee against the termination of his service as a police trainee.
 
-### 8. Delegation of functions by Chief Constable[^key-a68fcfd443a5dc6bc80558b608b4ad19]
+### 8. Delegation of functions by Chief Constable[^c-a68fcfd443a5dc6bc80558b608b4ad19]
 
 The Chief Constable may designate for the purposes of this regulation a member of the Police Service of Northern Ireland of a rank not lower than chief inspector, and may delegate to a person so designated any of the functions conferred on the Chief Constable by—
 
@@ -158,7 +158,7 @@ The Chief Constable may designate for the purposes of this regulation a member o
 - (h) regulation 21(2) (directions as to allowances);
 - (i) regulation 26(1) (authorising use of motor vehicle).
 
-### 9. Restrictions on the private life of police trainees[^key-eb8232aa125f22bd2b3d4e114dbd9121]
+### 9. Restrictions on the private life of police trainees[^c-eb8232aa125f22bd2b3d4e114dbd9121]
 
 (1) No restriction on the private life of police trainees shall be imposed by the Chief Constable, except such restrictions as are set out in this regulation or as may be necessary in the interests of the safety of police trainees.
 
@@ -168,7 +168,7 @@ The Chief Constable may designate for the purposes of this regulation a member o
 
 (4) A police trainee shall not wilfully refuse or neglect to discharge any lawful debt.
 
-### 10. Business interests incompatible with service as police trainee[^key-93d52490292f0da961ecd4e4eb9147c7]
+### 10. Business interests incompatible with service as police trainee[^c-93d52490292f0da961ecd4e4eb9147c7]
 
 (1) If a police trainee or a relative included in his family proposes to have, or has, a business interest within the meaning of regulation 7 of the principal regulations, the police trainee shall forthwith give notice of that interest to the Chief Constable, unless that business interest was disclosed at the time of his appointment as a police trainee.
 
@@ -190,7 +190,7 @@ The Chief Constable may designate for the purposes of this regulation a member o
 
 ## Part III — Leave
 
-### 11. Leave[^key-d797058bef68a5630c61de86bb6cf026]
+### 11. Leave[^c-d797058bef68a5630c61de86bb6cf026]
 
 (1) A police trainee shall be allowed—
 
@@ -204,7 +204,7 @@ The Chief Constable may designate for the purposes of this regulation a member o
 
 (4) Where a Saturday, Sunday or public holiday falls within a period of leave taken under paragraph (1), that day shall be ignored for the purposes of reckoning the number of days' leave taken.
 
-### 12. Sick leave[^key-d2a483c050cf8a270fe8611bf4d052bf]
+### 12. Sick leave[^c-d2a483c050cf8a270fe8611bf4d052bf]
 
 (1) A police trainee shall not be entitled to be absent from training for a period of seven days or less on account of injury, illness or quarantine except with the consent of the Chief Constable.
 
@@ -214,7 +214,7 @@ The Chief Constable may designate for the purposes of this regulation a member o
 
 (4) A police trainee who is, or ceases to be, certified under paragraph (2) shall, as soon as reasonably practicable, inform the Chief Constable of the fact and send any certificate to the Chief Constable.
 
-### 13. Leave for ante-natal care[^key-f95fc6385a10990587c83937b4e05637]
+### 13. Leave for ante-natal care[^c-f95fc6385a10990587c83937b4e05637]
 
 (1) A female police trainee who is pregnant and who, on the advice of a registered medical practitioner, registered midwife or registered health visitor, has made an appointment to attend at any place for the purpose of receiving ante-natal care shall, subject to the following provisions of this regulation, have the right not to be unreasonably refused special leave from training to enable her to keep the appointment.
 
@@ -225,7 +225,7 @@ The Chief Constable may designate for the purposes of this regulation a member o
 
 (3) Paragraph (2) shall not apply where the female police trainee’s appointment is the first appointment during her pregnancy for which she seeks permission to take special leave from training in accordance with paragraph (1).
 
-### 14. Maternity leave[^key-2503ec4ea960ea779c2ea97296dd8396]
+### 14. Maternity leave[^c-2503ec4ea960ea779c2ea97296dd8396]
 
 (1) In this regulation—
 
@@ -265,7 +265,7 @@ The Chief Constable may designate for the purposes of this regulation a member o
   - (i) where a notice has been given under paragraph (8) and has not been subsequently revoked, the date so given, or
   - (ii) where no such notice has been given or remains in force, the last day of the maternity period.
 
-### 15. Paternity leave[^key-d8856003ef7a47b093225e51db9c83ca]
+### 15. Paternity leave[^c-d8856003ef7a47b093225e51db9c83ca]
 
 (1) Standing orders under regulation 7 shall make provision for the circumstances in which a police trainee is to be entitled to paternity leave.
 
@@ -280,7 +280,7 @@ and ending 9 months after the birth of the child.
 
 ## Part IV — Pay, Allowances and Pensions
 
-### 16. Pay: general[^key-9e25af820840e032822b1a7a61ae1b61]
+### 16. Pay: general[^c-9e25af820840e032822b1a7a61ae1b61]
 
 (1) Subject to the following provisions of this regulation and regulation 17, the annual rate of pay of police trainees shall be determined by the Secretary of State.
 
@@ -298,7 +298,7 @@ and ending 9 months after the birth of the child.
 
 (8) The Chief Constable may, if he thinks fit, pay to a police trainee such part of his pay as he may determine in advance of the day on which it would otherwise be due to be paid in accordance with this regulation.
 
-### 17. Pay: reckonable service[^key-7c68611b0ac3c2c11f7407cd7a9a11fb]
+### 17. Pay: reckonable service[^c-7c68611b0ac3c2c11f7407cd7a9a11fb]
 
 (1) For the purposes of any determination under regulation 16(1) the period of service completed by a police trainee shall, subject to paragraph (4), include any period of service described in Part I of Schedule 1.
 
@@ -311,7 +311,7 @@ and ending 9 months after the birth of the child.
 - (a) paragraph (1) shall apply to his period of service as a police trainee, and service such as is mentioned in paragraph (2) or (3) shall be disregarded; or
 - (b) if applying paragraph (2) or (3) to him would result in a longer period being included in his period of service as a police trainee, paragraph (2) or (as the case may be) (3) shall apply and paragraph (1) shall not apply.
 
-### 18. Pay during sick leave[^key-9c4d4a34569aefe66470c8aa45a0ceb9]
+### 18. Pay during sick leave[^c-9c4d4a34569aefe66470c8aa45a0ceb9]
 
 (1) Subject to paragraphs (2), (3) and (4), if, on any relevant day, a police trainee has, during his period of service as a police trainee, been on sick leave for 42 days, he ceases for the time being to be entitled to full pay, and becomes entitled to half pay, while on sick leave.
 
@@ -338,7 +338,7 @@ An exceptional case is a case in which the police trainee’s being on sick leav
 - (c) references to half pay are references to pay at half the rate of the police trainee’s full pay; and
 - (d) “an injury received as a consequence of a person’s service as a police trainee” has the same meaning as in regulation A10 of the Royal Ulster Constabulary Pensions Regulations 1988[^f00005] as modified by paragraph 8 of Schedule 2.
 
-### 19. Deductions from pay of social security benefits and statutory sick pay[^key-e35eb382a022abd6976f15fb89b3d289]
+### 19. Deductions from pay of social security benefits and statutory sick pay[^c-e35eb382a022abd6976f15fb89b3d289]
 
 (1) There shall be deducted from the pay of a police trainee who is in receipt of full pay (within the meaning of regulation 18(5)(*b*))—
 
@@ -349,7 +349,7 @@ and for the purposes of sub-paragraph (*b*) any increase for adult and child dep
 
 (2) For the purposes of this regulation a female police trainee who, as a married woman or widow, has elected to pay contributions under section 19 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00008] at the reduced rate shall be deemed to be entitled to any social security benefits mentioned in paragraph (1) to which she would have been entitled had she not elected to contribute at the reduced rate.
 
-### 20. Pay during maternity leave[^key-fc29a028adfd700c8d11c08237709005]
+### 20. Pay during maternity leave[^c-fc29a028adfd700c8d11c08237709005]
 
 (1) Subject to the following provisions of this regulation, a female police trainee who satisfies the conditions in paragraph (2) is entitled to be paid as respects the first three months of any period or periods of maternity leave in any one maternity period (as defined by regulation 14) taken in accordance with regulation 14 but is not entitled to be paid thereafter.
 
@@ -368,13 +368,13 @@ and for the purposes of sub-paragraph (*b*) any increase for adult and child dep
   - (c) service in any rank in the Police Service of Northern Ireland Reserve, being service on a full-time basis, or part-time service which a person was appointed to perform under regulation 4A of the Royal Ulster Constabulary Reserve (Full-Time) (Appointment and Conditions of Service) Regulations 1996[^f00009];
 - “week” means a period of seven days beginning with Sunday.
 
-### 21. Allowances: general[^key-0d24d32727e3ed009687b9fe8efeb34b]
+### 21. Allowances: general[^c-0d24d32727e3ed009687b9fe8efeb34b]
 
 (1) No allowances shall be paid to a police trainee except as provided by these regulations or approved by the Secretary of State, and the amounts and conditions of payment of such allowances shall be as provided by or under these regulations or as approved by the Secretary of State.
 
 (2) A police trainee claiming any allowance under this Part shall comply with such directions as may be given by the Chief Constable from time to time as to the time and manner of claiming and certification.
 
-### 22. Expenses of moving home: officers from other police forces[^key-16456cdc94333519e7ebbd4dcb8b6a93]
+### 22. Expenses of moving home: officers from other police forces[^c-16456cdc94333519e7ebbd4dcb8b6a93]
 
 (1) This regulation applies where a person who has been appointed as a police trainee moves his home as a consequence of leaving a police force in Great Britain or in any country or territory outside the United Kingdom to become a police trainee.
 
@@ -384,7 +384,7 @@ and for the purposes of sub-paragraph (*b*) any increase for adult and child dep
 - (b) reimburse that person his payments in connection with his former home by way of mortgage interest, rent or rates payable in respect of the first 26 weeks following the move; and
 - (c) if he thinks fit, reimburse those payments in respect of such further period as he may determine so, however, that where he is of the opinion that that person had not taken all reasonable steps to reduce or terminate his liability to make such payments, the Chief Constable may restrict the reimbursement to payments which that person would have been liable to make had he taken all such steps.
 
-### 23. Expenses of moving home at request of Chief Constable[^key-0825615757474b5fe2ecd41d150f5188]
+### 23. Expenses of moving home at request of Chief Constable[^c-0825615757474b5fe2ecd41d150f5188]
 
 (1) This regulation applies where a police trainee moves his home at the request of the Chief Constable, and the removal is not a consequence of becoming a police trainee.
 
@@ -394,7 +394,7 @@ and for the purposes of sub-paragraph (*b*) any increase for adult and child dep
 - (b) reimburse that person his payments in connection with his former home by way of mortgage interest, rent or rates payable in respect of the first 26 weeks following the move; and
 - (c) if he thinks fit, reimburse those payments in respect of such further period as he may determine so, however, that where he is of the opinion that that person had not taken all reasonable steps to reduce or terminate his liability to make such payments, the Chief Constable may restrict the reimbursement to payments which that person would have been liable to make had he taken all such steps.
 
-### 24. Removal allowance[^key-bca571327f30876941aed878140f944d]
+### 24. Removal allowance[^c-bca571327f30876941aed878140f944d]
 
 (1) Where the cost of removal is paid or reimbursed by the Chief Constable under regulation 22 or 23, the Chief Constable shall, subject to paragraph (2), pay the police trainee an allowance in respect of expenditure incidental to the move of an amount determined under paragraphs (3) to (5).
 
@@ -419,7 +419,7 @@ but, subject to that, shall equal the aggregate of the amount of the expenditure
 
 (5) In paragraph (4) “relevant additional expenditure” means, where a person satisfies the Chief Constable that, in consequence of the move, he has failed to benefit, in whole or in part, from expenditure reasonably incurred by him prior to the move (other than such payments as are referred to in regulation 22(2)(*b*) or 23(2)(*b*)), so much of that expenditure as is not recoverable by him.
 
-### 25. Allowance in respect of medical charges[^key-6dde583e9328e21cc5839cd9e2f37cc9]
+### 25. Allowance in respect of medical charges[^c-6dde583e9328e21cc5839cd9e2f37cc9]
 
 (1) A police trainee who incurs normal standard charges under Articles 5, 61, 62, 63 and 98 of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00010] (which Articles relate to charges for certain drugs, medicines and appliances and for dental treatment)—
 
@@ -433,13 +433,13 @@ but, subject to that, shall equal the aggregate of the amount of the expenditure
 - (a) “injury” includes any injury or disease, whether of body or mind; and
 - (b) an injury shall be treated as received without the default of the police trainee concerned unless the injury is wholly or mainly due to his own serious and culpable negligence or misconduct.
 
-### 26. Motor vehicle allowance[^key-95d5e018a170a97feef53811cde3b325]
+### 26. Motor vehicle allowance[^c-95d5e018a170a97feef53811cde3b325]
 
 (1) Where the Chief Constable specifies a place as a qualifying site for the purposes of this regulation, and authorises a police trainee to use a motor vehicle for the purposes of attending training at a qualifying site, the police trainee shall be paid a motor vehicle allowance.
 
 (2) A motor vehicle allowance shall be payable on such conditions and at such rate as are specified in standing orders made under regulation 7.
 
-### 27. Replacement allowance[^key-dcfab6dc22436108540450b402bee3d2]
+### 27. Replacement allowance[^c-dcfab6dc22436108540450b402bee3d2]
 
 (1) A police trainee who left a police force in Great Britain to become a police trainee and was, immediately before leaving that force, entitled to a replacement allowance under Schedule 13 to the Police Regulations 1995[^f00011] shall, subject to paragraph (3), be entitled to an allowance of an amount equal to the amount of the replacement allowance to which he would have been entitled had he not left that force.
 
@@ -447,7 +447,7 @@ but, subject to that, shall equal the aggregate of the amount of the expenditure
 
 (3) In any circumstances in which the replacement allowance to which a person was entitled as a member of a police force in Great Britain or as a member of the Police Service of Northern Ireland Reserve would have fallen (by reason of a period of unpaid leave or otherwise) to be increased, reduced or terminated if he had not left that force or that service, the allowance under this regulation shall be accordingly increased, reduced or terminated.
 
-### 28. Pension regulations: application to police trainees[^key-fe6dd19f6c58bd058abc09e9b502b836]
+### 28. Pension regulations: application to police trainees[^c-fe6dd19f6c58bd058abc09e9b502b836]
 
 The regulations mentioned in paragraph 1 of Schedule 2 (which make provision about pensions for police officers) shall apply to police trainees as they apply to members of the Police Service of Northern Ireland, and in their application by virtue of this regulation those regulations shall have effect as if—
 
@@ -470,17 +470,17 @@ Regulation 17
 
 ### Part I — Previous Service Included in Police Trainee Service
 
-**1.**[^key-d2b775f5b820d88c6bba083151c9d8d5] Any period of service completed by a person in any rank in the Police Service of Northern Ireland.
+**1.**[^c-d2b775f5b820d88c6bba083151c9d8d5] Any period of service completed by a person in any rank in the Police Service of Northern Ireland.
 
-**2.**[^key-5c9685bda192efcbb6bf7f69fd39c301] Any period of service completed by a person in any rank in a police force in Great Britain.
+**2.**[^c-5c9685bda192efcbb6bf7f69fd39c301] Any period of service completed by a person in any rank in a police force in Great Britain.
 
-**3.**[^key-b88f984541512477b8589aa76c851b72] Any period of service completed by a person in any rank in a constabulary mentioned in regulation 39(2)[^f00013] of the principal regulations (service in the Ministry of Defence Police or Port of Tilbury Constabulary).
+**3.**[^c-b88f984541512477b8589aa76c851b72] Any period of service completed by a person in any rank in a constabulary mentioned in regulation 39(2)[^f00013] of the principal regulations (service in the Ministry of Defence Police or Port of Tilbury Constabulary).
 
-**4.**[^key-80ce8a59f38950529d9efd43af3c1608] Any period of service such as is mentioned in regulation 41(1)(*a*) or (*c*) of the principal regulations (overseas police service).
+**4.**[^c-80ce8a59f38950529d9efd43af3c1608] Any period of service such as is mentioned in regulation 41(1)(*a*) or (*c*) of the principal regulations (overseas police service).
 
 ### Part II — Previous Service in the Police Service of Northern Ireland Reserve
 
-**5.**[^key-1c9970a98fa86725da4e853540cff0f3] (1) Where a person has completed any service in any rank in the Police Service of Northern Ireland Reserve, being—
+**5.**[^c-1c9970a98fa86725da4e853540cff0f3] (1) Where a person has completed any service in any rank in the Police Service of Northern Ireland Reserve, being—
 
 - (a) service on a full-time basis, or
 - (b) part-time service which he was appointed to perform under section 4A of the Royal Ulster Constabulary Reserve (Full-Time) (Appointment and Conditions of Service) Regulations 1996[^f00014].
@@ -497,7 +497,7 @@ the period mentioned in regulation 17(2) shall be calculated as follows.
 
 (4) Include the period mentioned in sub-paragraph (3) in the period of service completed by the police trainee.
 
-**6.**[^key-d2b33dfe1aa2afec9bda5ba10086faf4] (1) In this Part of this Schedule the “relevant reserve pay” means, in relation to any person, the annual rate of normal basic pay (excluding any allowance for overtime, any other allowance and the effect of any temporary promotion) which would be payable on the relevant day to a constable in the Police Service of Northern Ireland Reserve whose service therein—
+**6.**[^c-d2b33dfe1aa2afec9bda5ba10086faf4] (1) In this Part of this Schedule the “relevant reserve pay” means, in relation to any person, the annual rate of normal basic pay (excluding any allowance for overtime, any other allowance and the effect of any temporary promotion) which would be payable on the relevant day to a constable in the Police Service of Northern Ireland Reserve whose service therein—
 
 - (a) was of the same length as the service of that person, and
 - (b) was on a full-time basis.
@@ -506,7 +506,7 @@ the period mentioned in regulation 17(2) shall be calculated as follows.
 
 ### Part III — Previous Service outside the United Kingdom
 
-**7.**[^key-ba471777cca426b57708768afbedf5ad] (1) Where a person has completed any service (not falling within paragraph 4 of Part I of this Schedule) in a police force in a country or territory outside the United Kingdom, the period mentioned in regulation 17(3) shall be calculated as follows.
+**7.**[^c-ba471777cca426b57708768afbedf5ad] (1) Where a person has completed any service (not falling within paragraph 4 of Part I of this Schedule) in a police force in a country or territory outside the United Kingdom, the period mentioned in regulation 17(3) shall be calculated as follows.
 
 (2) Convert the relevant pay into sterling using the rate of exchange prevailing on the relevant day.
 
@@ -520,7 +520,7 @@ the period mentioned in regulation 17(2) shall be calculated as follows.
 
 (5) Include the period mentioned in sub-paragraph (4) in the period of service completed by the police trainee.
 
-**8.**[^key-db404e235f0f6d151d651311b2185ac9] (1) In this Part of this Schedule the “relevant pay” means, in relation to a person who has served in a police force in a country or territory outside the United Kingdom, the annual rate of normal basic pay (excluding any allowances) which would have been payable on the relevant day to that person had he been serving in that force on that day.
+**8.**[^c-db404e235f0f6d151d651311b2185ac9] (1) In this Part of this Schedule the “relevant pay” means, in relation to a person who has served in a police force in a country or territory outside the United Kingdom, the annual rate of normal basic pay (excluding any allowances) which would have been payable on the relevant day to that person had he been serving in that force on that day.
 
 (2) For the purposes of sub-paragraph (1) as it applies in relation to a person who has served in a police force, it shall be assumed—
 
@@ -536,7 +536,7 @@ and where it is necessary to make an assumption about any other factor to determ
 
 Regulation 28
 
-### 1. Pensions regulations[^key-d6ce7b6f49b22317a486a72cd7b7590f]
+### 1. Pensions regulations[^c-d6ce7b6f49b22317a486a72cd7b7590f]
 
 The regulations referred to in regulation 28 are—
 
@@ -547,11 +547,11 @@ The regulations referred to in regulation 28 are—
 
 and the modifications referred to in regulation 28(*a*) are set out in the remaining paragraphs of this Schedule (the general modifications in paragraphs 2 to 6 being subject to paragraphs 7 to 22).
 
-### 2. General modifications[^key-e517b3c3461eb587552780acee0fe5db]
+### 2. General modifications[^c-e517b3c3461eb587552780acee0fe5db]
 
 For any reference in those regulations to a member of the force, except in regulations A11(2), G5(3)(*a*)[^f00019] and H5(2) of the Royal Ulster Constabulary Pensions Regulations 1988, substitute a reference to a police trainee.
 
-**3.**[^key-43eadc1a5d7bdf2734d98b6be3c9ead8] (1) Subject to sub-paragraph (2), for any reference in those regulations to service in the force—
+**3.**[^c-43eadc1a5d7bdf2734d98b6be3c9ead8] (1) Subject to sub-paragraph (2), for any reference in those regulations to service in the force—
 
 - (a) if it is a reference to a person joining or re-joining the force substitute a reference to a person respectively becoming a police trainee or becoming a police trainee again,
 - (b) if it is a reference to a person ceasing to serve as a member or leaving the force substitute a reference to a person ceasing to serve as a police trainee without being appointed as a member of the Police Service of Northern Ireland,
@@ -560,17 +560,17 @@ For any reference in those regulations to a member of the force, except in regul
 
 (2) In the case of a police trainee who has served as a member of the force before becoming a police trainee, any reference in those regulations to service in, or retirement from, the force before last joining or rejoining the force shall continue to refer to that previous service as well as having the meaning given by the modifications set out in sub-paragraph (1).
 
-**4.**[^key-3a341a59f212c0fb80a80a8c4070851e] For any reference in those regulations to the Police Authority for Northern Ireland substitute a reference to the Chief Constable.
+**4.**[^c-3a341a59f212c0fb80a80a8c4070851e] For any reference in those regulations to the Police Authority for Northern Ireland substitute a reference to the Chief Constable.
 
-**5.**[^key-5e1e5c6dae62bd2d7a87efe610aac379] For any reference in those regulations to an injury received in the execution of duty by a member substitute a reference to an injury received as a consequence of a person’s service as a police trainee within the meaning of regulation A10 of the Royal Ulster Constabulary Pensions Regulations 1988 as modified by this Schedule.
+**5.**[^c-5e1e5c6dae62bd2d7a87efe610aac379] For any reference in those regulations to an injury received in the execution of duty by a member substitute a reference to an injury received as a consequence of a person’s service as a police trainee within the meaning of regulation A10 of the Royal Ulster Constabulary Pensions Regulations 1988 as modified by this Schedule.
 
-**6.**[^key-44d8f3a41f946c05121aace771835984] For any reference in those regulations to the principal regulations or the 1988 regulations substitute a reference to the Royal Ulster Constabulary Pensions Regulations 1988 as modified by this Schedule.
+**6.**[^c-44d8f3a41f946c05121aace771835984] For any reference in those regulations to the principal regulations or the 1988 regulations substitute a reference to the Royal Ulster Constabulary Pensions Regulations 1988 as modified by this Schedule.
 
-### 7. Royal Ulster Constabulary Pensions Regulations 1988[^key-4f3feeca13a93289bd1b248e76cde7b8]
+### 7. Royal Ulster Constabulary Pensions Regulations 1988[^c-4f3feeca13a93289bd1b248e76cde7b8]
 
 In regulation A9(2)(*d*) of the Royal Ulster Constabulary Pensions Regulations 1988 (aggregate pension contributions for purposes of awards) for “has transferred to the force from a police force in Great Britain” substitute “has become a police trainee on leaving a police force in Great Britain for that purpose”.
 
-**8.**[^key-73f46a7e2eadbc8ea73f1d25facedde9] For regulation A10(1) and (2) of the Royal Ulster Constabulary Pensions Regulations 1988 substitute—
+**8.**[^c-73f46a7e2eadbc8ea73f1d25facedde9] For regulation A10(1) and (2) of the Royal Ulster Constabulary Pensions Regulations 1988 substitute—
 
 > (1) For the purposes of these regulations an injury shall be treated as received as a consequence of a person’s service as a police trainee if—
 >
@@ -580,15 +580,15 @@ In regulation A9(2)(*d*) of the Royal Ulster Constabulary Pensions Regulations 1
 
 ;
 
-**9.**[^key-5465d8a67ea717138eea7be3a4d9be91] In regulation A14(2) of the Royal Ulster Constabulary Pensions Regulations 1988 (transfers) for “having transferred from a police force in Great Britain” substitute “leaving a police force in Great Britain for the purpose of becoming a police trainee”.
+**9.**[^c-5465d8a67ea717138eea7be3a4d9be91] In regulation A14(2) of the Royal Ulster Constabulary Pensions Regulations 1988 (transfers) for “having transferred from a police force in Great Britain” substitute “leaving a police force in Great Britain for the purpose of becoming a police trainee”.
 
-**10.**[^key-f1772fd54c7e08eb7995733176bdf6f0] In regulation A15 of the Royal Ulster Constabulary Pensions Regulations 1988 (retirement) in sub-paragraph (1) for the words from “includes” to “but does not include” substitute “is a reference to a police trainee ending his period of service under regulation 6(2) of the Police Trainee Regulations (Northern Ireland) 2001 or under regulation A16, A17 or A18, and does not include a reference to the period of service of a police trainee being terminated under any other provision of the Police Trainee Regulations (Northern Ireland) 2001 or a reference to a police trainee being appointed to the rank of constable in the Police Service of Northern Ireland on completion of his service as a police trainee or”.
+**10.**[^c-f1772fd54c7e08eb7995733176bdf6f0] In regulation A15 of the Royal Ulster Constabulary Pensions Regulations 1988 (retirement) in sub-paragraph (1) for the words from “includes” to “but does not include” substitute “is a reference to a police trainee ending his period of service under regulation 6(2) of the Police Trainee Regulations (Northern Ireland) 2001 or under regulation A16, A17 or A18, and does not include a reference to the period of service of a police trainee being terminated under any other provision of the Police Trainee Regulations (Northern Ireland) 2001 or a reference to a police trainee being appointed to the rank of constable in the Police Service of Northern Ireland on completion of his service as a police trainee or”.
 
-**11.**[^key-a665c58268ffe6cbb0059bc54e40f1e0] For any reference in the Royal Ulster Constabulary Pensions Regulations 1988 to a person being dismissed substitute a reference to the period of service of a police trainee being terminated under the Police Trainee Regulations (Northern Ireland) 2001.
+**11.**[^c-a665c58268ffe6cbb0059bc54e40f1e0] For any reference in the Royal Ulster Constabulary Pensions Regulations 1988 to a person being dismissed substitute a reference to the period of service of a police trainee being terminated under the Police Trainee Regulations (Northern Ireland) 2001.
 
-**12.**[^key-686a275a289dc36d4119a4208e03ca3e] In regulation E3A(3)(*b*)[^f00020] of the Royal Ulster Constabulary Pensions Regulations 1988 (lump sum death grant — widows and widowers) for “absent from duty without pay” substitute “absent from training without pay”.
+**12.**[^c-686a275a289dc36d4119a4208e03ca3e] In regulation E3A(3)(*b*)[^f00020] of the Royal Ulster Constabulary Pensions Regulations 1988 (lump sum death grant — widows and widowers) for “absent from duty without pay” substitute “absent from training without pay”.
 
-**13.**[^key-bdaa8d6ec2617beb7435137cf0be6342] In regulation E10 of the Royal Ulster Constabulary Pensions Regulations 1988 (determination of amount of widow’s or child’s flat-rate award and increase thereof by reference to the Pensions (Increase) Act 1971)—
+**13.**[^c-bdaa8d6ec2617beb7435137cf0be6342] In regulation E10 of the Royal Ulster Constabulary Pensions Regulations 1988 (determination of amount of widow’s or child’s flat-rate award and increase thereof by reference to the Pensions (Increase) Act 1971)—
 
 - (a) for paragraph (2) substitute—
 
@@ -602,7 +602,7 @@ In regulation A9(2)(*d*) of the Royal Ulster Constabulary Pensions Regulations 1
 
   .
 
-**14.**[^key-aafc559b6987bdcdeef9f6687c35a469] In regulation F3[^f00021] of the Royal Ulster Constabulary Pensions Regulations 1988 (previous service reckonable without payment)—
+**14.**[^c-aafc559b6987bdcdeef9f6687c35a469] In regulation F3[^f00021] of the Royal Ulster Constabulary Pensions Regulations 1988 (previous service reckonable without payment)—
 
 - (a) for paragraph (1)(*a*) substitute—
 
@@ -611,29 +611,29 @@ In regulation A9(2)(*d*) of the Royal Ulster Constabulary Pensions Regulations 1
   , and
 - (b) in paragraph (2) for “transferred as mentioned in paragraph (1)(*a*)” substitute “to whom paragraph (1)(*a*) applies became a police trainee”.
 
-**15.**[^key-3ed29c6ac99356190e588dc7e8affd62] In regulation I4 of the Royal Ulster Constabulary Pensions Regulations 1988 for “returning to duty” substitute “returning to training”.
+**15.**[^c-3ed29c6ac99356190e588dc7e8affd62] In regulation I4 of the Royal Ulster Constabulary Pensions Regulations 1988 for “returning to duty” substitute “returning to training”.
 
-**16.**[^key-c303ab3b2d68e67d3ea7dc96dcf62b73] In regulation K1(3) of the Royal Ulster Constabulary Pensions Regulations 1988 substitute—
+**16.**[^c-c303ab3b2d68e67d3ea7dc96dcf62b73] In regulation K1(3) of the Royal Ulster Constabulary Pensions Regulations 1988 substitute—
 
 > (3) If the person concerned within the period referred to in paragraph (2) offers to become a police trainee again, he shall be permitted to do so.
 
-**17.**[^key-b8e446c0c9ae57b8e7ee7b1a8b18e117] In the Royal Ulster Constabulary Pensions Regulations 1988 omit Part M (auxiliary members).
+**17.**[^c-b8e446c0c9ae57b8e7ee7b1a8b18e117] In the Royal Ulster Constabulary Pensions Regulations 1988 omit Part M (auxiliary members).
 
-**18.**[^key-089013ff0cfb4840ea2fb8a9b5f53525] In Part III of Schedule C to the Royal Ulster Constabulary Pensions Regulations 1988 (widow’s accrued pension) in paragraph 3(1)[^f00022] omit the words “by reference to the rank held by her husband”.
+**18.**[^c-089013ff0cfb4840ea2fb8a9b5f53525] In Part III of Schedule C to the Royal Ulster Constabulary Pensions Regulations 1988 (widow’s accrued pension) in paragraph 3(1)[^f00022] omit the words “by reference to the rank held by her husband”.
 
-**19.**[^key-aab782abe88626a9266ecaf975339c79] In Part I of Schedule D to the Royal Ulster Constabulary Pensions Regulations 1988 (children’s ordinary allowance) in paragraph 5 omit the words “by reference to the rank held by the relevant parent”.
+**19.**[^c-aab782abe88626a9266ecaf975339c79] In Part I of Schedule D to the Royal Ulster Constabulary Pensions Regulations 1988 (children’s ordinary allowance) in paragraph 5 omit the words “by reference to the rank held by the relevant parent”.
 
-### 20. Royal Ulster Constabulary Pensions (Additional Voluntary Contributions) Regulations 1993[^key-e2051a5790a5e30c4ad490c4e703ca32]
+### 20. Royal Ulster Constabulary Pensions (Additional Voluntary Contributions) Regulations 1993[^c-e2051a5790a5e30c4ad490c4e703ca32]
 
 For “pensionable member” where it appears in the Royal Ulster Constabulary Pensions (Additional Voluntary Contributions) Regulations 1993 substitute “pensionable police trainee”.
 
-**21.**[^key-e7d1e1f3f12a584815bd2c35fd614f2a] For the definition of “pensionable member” in regulation 2(2) of the Royal Ulster Constabulary Pensions (Additional Voluntary Contributions) Regulations 1993 substitute—
+**21.**[^c-e7d1e1f3f12a584815bd2c35fd614f2a] For the definition of “pensionable member” in regulation 2(2) of the Royal Ulster Constabulary Pensions (Additional Voluntary Contributions) Regulations 1993 substitute—
 
 > - “pensionable police trainee” means a police trainee by whom contributions are for the time being payable under regulation G2 of the 1988 regulations;
 
 .
 
-**22.**[^key-47ec4bccd7f789b90f7c1a0bd976b7dd] In paragraph 5(2) of Schedule 2 to the Royal Ulster Constabulary Pensions (Additional Voluntary Contributions) Regulations 1993 (benefit limits: definitions) for “as a regular member within the meaning of the 1988 Regulations” substitute “as a police trainee”.
+**22.**[^c-47ec4bccd7f789b90f7c1a0bd976b7dd] In paragraph 5(2) of Schedule 2 to the Royal Ulster Constabulary Pensions (Additional Voluntary Contributions) Regulations 1993 (benefit limits: definitions) for “as a regular member within the meaning of the 1988 Regulations” substitute “as a police trainee”.
 
 (This note is not part of the Regulations.)
 
@@ -665,49 +665,49 @@ Regulations 16 to 28 and Schedules 1 and 2 make provision about the pay, pension
 
 [^f00002]: Footnote: By virtue of Article 2 of the Police (Northern Ireland) Order 2001 ([S.I. 2001 (N.I. 3)](https://www.legislation.gov.uk/nisi/2001/1513)) the reference in section 41(6) of the Police (Northern Ireland) Act 2000 to the Northern Ireland Policing Board is to be construed as if it were a reference to the Police Authority for Northern Ireland
 
-[^key-26eb481fdb231fb1c7420d729a0db9fd]: Commencement: Reg. 1 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-26eb481fdb231fb1c7420d729a0db9fd]: Commencement: Reg. 1 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-75ec32b6d1923cb310f942a9f771758e]: Commencement: Reg. 2 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-75ec32b6d1923cb310f942a9f771758e]: Commencement: Reg. 2 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
 [^f00003]: Footnote: [S.R. 1996 No. 473](https://www.legislation.gov.uk/nisr/1996/473). The principal regulations have been amended by [S.R. 1999 No. 362](https://www.legislation.gov.uk/nisr/1999/362), [S.R. 1999 No. 412](https://www.legislation.gov.uk/nisr/1999/412) and [S.R. 2001 No. 140](https://www.legislation.gov.uk/nisr/2001/140)
 
-[^key-18074cb6a2aaccdc4935a161caad7d4e]: Commencement: Reg. 3 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-18074cb6a2aaccdc4935a161caad7d4e]: Commencement: Reg. 3 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-1bcb35fc95a5434255232ceafdc84078]: Commencement: Reg. 4 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-1bcb35fc95a5434255232ceafdc84078]: Commencement: Reg. 4 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-6825facf6537dc359f67a9e9ae5f72bc]: Commencement: Reg. 5 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-6825facf6537dc359f67a9e9ae5f72bc]: Commencement: Reg. 5 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-6858d805d18f90a250194cab8d63e9ee]: Commencement: Reg. 6 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-6858d805d18f90a250194cab8d63e9ee]: Commencement: Reg. 6 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-054e894ab126abc7e91b5120c46227b0]: Commencement: Reg. 7 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-054e894ab126abc7e91b5120c46227b0]: Commencement: Reg. 7 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-a68fcfd443a5dc6bc80558b608b4ad19]: Commencement: Reg. 8 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-a68fcfd443a5dc6bc80558b608b4ad19]: Commencement: Reg. 8 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-eb8232aa125f22bd2b3d4e114dbd9121]: Commencement: Reg. 9 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-eb8232aa125f22bd2b3d4e114dbd9121]: Commencement: Reg. 9 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-93d52490292f0da961ecd4e4eb9147c7]: Commencement: Reg. 10 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-93d52490292f0da961ecd4e4eb9147c7]: Commencement: Reg. 10 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
 [^f00004]: Footnote: [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32)
 
-[^key-d797058bef68a5630c61de86bb6cf026]: Commencement: Reg. 11 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-d797058bef68a5630c61de86bb6cf026]: Commencement: Reg. 11 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-d2a483c050cf8a270fe8611bf4d052bf]: Commencement: Reg. 12 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-d2a483c050cf8a270fe8611bf4d052bf]: Commencement: Reg. 12 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-f95fc6385a10990587c83937b4e05637]: Commencement: Reg. 13 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-f95fc6385a10990587c83937b4e05637]: Commencement: Reg. 13 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-2503ec4ea960ea779c2ea97296dd8396]: Commencement: Reg. 14 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-2503ec4ea960ea779c2ea97296dd8396]: Commencement: Reg. 14 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-d8856003ef7a47b093225e51db9c83ca]: Commencement: Reg. 15 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-d8856003ef7a47b093225e51db9c83ca]: Commencement: Reg. 15 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-9e25af820840e032822b1a7a61ae1b61]: Commencement: Reg. 16 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-9e25af820840e032822b1a7a61ae1b61]: Commencement: Reg. 16 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-7c68611b0ac3c2c11f7407cd7a9a11fb]: Commencement: Reg. 17 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-7c68611b0ac3c2c11f7407cd7a9a11fb]: Commencement: Reg. 17 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-9c4d4a34569aefe66470c8aa45a0ceb9]: Commencement: Reg. 18 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-9c4d4a34569aefe66470c8aa45a0ceb9]: Commencement: Reg. 18 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
 [^f00005]: Footnote: [S.R. 1988 No. 374](https://www.legislation.gov.uk/nisr/1988/374)
 
-[^key-e35eb382a022abd6976f15fb89b3d289]: Commencement: Reg. 19 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-e35eb382a022abd6976f15fb89b3d289]: Commencement: Reg. 19 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
 [^f00006]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
@@ -715,53 +715,53 @@ Regulations 16 to 28 and Schedules 1 and 2 make provision about the pay, pension
 
 [^f00008]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
-[^key-fc29a028adfd700c8d11c08237709005]: Commencement: Reg. 20 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-fc29a028adfd700c8d11c08237709005]: Commencement: Reg. 20 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
 [^f00009]: Footnote: [S.R. 1996 No. 564](https://www.legislation.gov.uk/nisr/1996/564). Regulation 4A was inserted by [S.R. 2001 No. 80](https://www.legislation.gov.uk/nisr/2001/80)
 
-[^key-0d24d32727e3ed009687b9fe8efeb34b]: Commencement: Reg. 21 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-0d24d32727e3ed009687b9fe8efeb34b]: Commencement: Reg. 21 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-16456cdc94333519e7ebbd4dcb8b6a93]: Commencement: Reg. 22 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-16456cdc94333519e7ebbd4dcb8b6a93]: Commencement: Reg. 22 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-0825615757474b5fe2ecd41d150f5188]: Commencement: Reg. 23 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-0825615757474b5fe2ecd41d150f5188]: Commencement: Reg. 23 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-bca571327f30876941aed878140f944d]: Commencement: Reg. 24 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-bca571327f30876941aed878140f944d]: Commencement: Reg. 24 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-6dde583e9328e21cc5839cd9e2f37cc9]: Commencement: Reg. 25 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-6dde583e9328e21cc5839cd9e2f37cc9]: Commencement: Reg. 25 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
 [^f00010]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)
 
-[^key-95d5e018a170a97feef53811cde3b325]: Commencement: Reg. 26 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-95d5e018a170a97feef53811cde3b325]: Commencement: Reg. 26 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-dcfab6dc22436108540450b402bee3d2]: Commencement: Reg. 27 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-dcfab6dc22436108540450b402bee3d2]: Commencement: Reg. 27 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
 [^f00011]: Footnote: S.I. [1995/215](https://www.legislation.gov.uk/uksi/1995/215); Schedule 13 was brought into existence by S.I. [2000/2013](https://www.legislation.gov.uk/uksi/2000/2013) reg. 12
 
 [^f00012]: Footnote: [S.R. 1996 No. 564](https://www.legislation.gov.uk/nisr/1996/564); Schedule 11 was brought into existence by [S.R. 1997 No. 363](https://www.legislation.gov.uk/nisr/1997/363) reg. 2
 
-[^key-fe6dd19f6c58bd058abc09e9b502b836]: Commencement: Reg. 28 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-fe6dd19f6c58bd058abc09e9b502b836]: Commencement: Reg. 28 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-d2b775f5b820d88c6bba083151c9d8d5]: Commencement: Sch. 1 para. 1 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-d2b775f5b820d88c6bba083151c9d8d5]: Commencement: Sch. 1 para. 1 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-5c9685bda192efcbb6bf7f69fd39c301]: Commencement: Sch. 1 para. 2 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-5c9685bda192efcbb6bf7f69fd39c301]: Commencement: Sch. 1 para. 2 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-b88f984541512477b8589aa76c851b72]: Commencement: Sch. 1 para. 3 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-b88f984541512477b8589aa76c851b72]: Commencement: Sch. 1 para. 3 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
 [^f00013]: Footnote: Regulation 39 was amended by [S.R. 1997 No. 362](https://www.legislation.gov.uk/nisr/1997/362) reg. 4
 
-[^key-80ce8a59f38950529d9efd43af3c1608]: Commencement: Sch. 1 para. 4 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-80ce8a59f38950529d9efd43af3c1608]: Commencement: Sch. 1 para. 4 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-1c9970a98fa86725da4e853540cff0f3]: Commencement: Sch. 1 para. 5 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-1c9970a98fa86725da4e853540cff0f3]: Commencement: Sch. 1 para. 5 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
 [^f00014]: Footnote: [S.R. 1996 No. 564](https://www.legislation.gov.uk/nisr/1996/564); Regulation 4A was inserted by [S.R. 2001 No. 80](https://www.legislation.gov.uk/nisr/2001/80)
 
-[^key-d2b33dfe1aa2afec9bda5ba10086faf4]: Commencement: Sch. 1 para. 6 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-d2b33dfe1aa2afec9bda5ba10086faf4]: Commencement: Sch. 1 para. 6 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-ba471777cca426b57708768afbedf5ad]: Commencement: Sch. 1 para. 7 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-ba471777cca426b57708768afbedf5ad]: Commencement: Sch. 1 para. 7 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-db404e235f0f6d151d651311b2185ac9]: Commencement: Sch. 1 para. 8 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-db404e235f0f6d151d651311b2185ac9]: Commencement: Sch. 1 para. 8 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-d6ce7b6f49b22317a486a72cd7b7590f]: Commencement: Sch. 2 para. 1 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-d6ce7b6f49b22317a486a72cd7b7590f]: Commencement: Sch. 2 para. 1 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
 [^f00015]: Footnote: [S.R. 1988 No. 374](https://www.legislation.gov.uk/nisr/1988/374) as amended by [S.R. 1988 No. 438](https://www.legislation.gov.uk/nisr/1988/438), [S.R. 1989 No. 387](https://www.legislation.gov.uk/nisr/1989/387), [S.R. 1990 No. 411](https://www.legislation.gov.uk/nisr/1990/411), [S.R. 1993 No. 223](https://www.legislation.gov.uk/nisr/1993/223), [S.R. 1993 No. 327](https://www.legislation.gov.uk/nisr/1993/327), [S.R. 1996 No. 4](https://www.legislation.gov.uk/nisr/1996/4), [S.R. 1997 No. 259](https://www.legislation.gov.uk/nisr/1997/259), [S.R. 1998 No. 240](https://www.legislation.gov.uk/nisr/1998/240) and [S.R. 2001 No. 263](https://www.legislation.gov.uk/nisr/2001/263)
 
@@ -771,52 +771,52 @@ Regulations 16 to 28 and Schedules 1 and 2 make provision about the pay, pension
 
 [^f00018]: Footnote: [S.R. 1993 No. 249](https://www.legislation.gov.uk/nisr/1993/249), as amended by [S.R. 1997 No. 464](https://www.legislation.gov.uk/nisr/1997/464)
 
-[^key-e517b3c3461eb587552780acee0fe5db]: Commencement: Sch. 2 para. 2 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-e517b3c3461eb587552780acee0fe5db]: Commencement: Sch. 2 para. 2 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
 [^f00019]: Footnote: Regulations G4 and G5 were substituted by [S.R. 1990 No. 411](https://www.legislation.gov.uk/nisr/1990/411) reg. 6(17)
 
-[^key-43eadc1a5d7bdf2734d98b6be3c9ead8]: Commencement: Sch. 2 para. 3 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-43eadc1a5d7bdf2734d98b6be3c9ead8]: Commencement: Sch. 2 para. 3 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-3a341a59f212c0fb80a80a8c4070851e]: Commencement: Sch. 2 para. 4 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-3a341a59f212c0fb80a80a8c4070851e]: Commencement: Sch. 2 para. 4 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-5e1e5c6dae62bd2d7a87efe610aac379]: Commencement: Sch. 2 para. 5 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-5e1e5c6dae62bd2d7a87efe610aac379]: Commencement: Sch. 2 para. 5 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-44d8f3a41f946c05121aace771835984]: Commencement: Sch. 2 para. 6 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-44d8f3a41f946c05121aace771835984]: Commencement: Sch. 2 para. 6 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-4f3feeca13a93289bd1b248e76cde7b8]: Commencement: Sch. 2 para. 7 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-4f3feeca13a93289bd1b248e76cde7b8]: Commencement: Sch. 2 para. 7 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-73f46a7e2eadbc8ea73f1d25facedde9]: Commencement: Sch. 2 para. 8 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-73f46a7e2eadbc8ea73f1d25facedde9]: Commencement: Sch. 2 para. 8 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-5465d8a67ea717138eea7be3a4d9be91]: Commencement: Sch. 2 para. 9 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-5465d8a67ea717138eea7be3a4d9be91]: Commencement: Sch. 2 para. 9 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-f1772fd54c7e08eb7995733176bdf6f0]: Commencement: Sch. 2 para. 10 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-f1772fd54c7e08eb7995733176bdf6f0]: Commencement: Sch. 2 para. 10 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-a665c58268ffe6cbb0059bc54e40f1e0]: Commencement: Sch. 2 para. 11 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-a665c58268ffe6cbb0059bc54e40f1e0]: Commencement: Sch. 2 para. 11 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-686a275a289dc36d4119a4208e03ca3e]: Commencement: Sch. 2 para. 12 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-686a275a289dc36d4119a4208e03ca3e]: Commencement: Sch. 2 para. 12 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
 [^f00020]: Footnote: Regulation E3A was inserted by [S.R. 1993 No. 327](https://www.legislation.gov.uk/nisr/1993/327)
 
-[^key-bdaa8d6ec2617beb7435137cf0be6342]: Commencement: Sch. 2 para. 13 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-bdaa8d6ec2617beb7435137cf0be6342]: Commencement: Sch. 2 para. 13 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-aafc559b6987bdcdeef9f6687c35a469]: Commencement: Sch. 2 para. 14 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-aafc559b6987bdcdeef9f6687c35a469]: Commencement: Sch. 2 para. 14 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
 [^f00021]: Footnote: Regulation F3 was amended by [S.R. 1997 No. 259](https://www.legislation.gov.uk/nisr/1997/259) reg. 6(2) and [S.R. 1998 No. 240](https://www.legislation.gov.uk/nisr/1998/240) reg. 3(2)
 
-[^key-3ed29c6ac99356190e588dc7e8affd62]: Commencement: Sch. 2 para. 15 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-3ed29c6ac99356190e588dc7e8affd62]: Commencement: Sch. 2 para. 15 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-c303ab3b2d68e67d3ea7dc96dcf62b73]: Commencement: Sch. 2 para. 16 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-c303ab3b2d68e67d3ea7dc96dcf62b73]: Commencement: Sch. 2 para. 16 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-b8e446c0c9ae57b8e7ee7b1a8b18e117]: Commencement: Sch. 2 para. 17 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-b8e446c0c9ae57b8e7ee7b1a8b18e117]: Commencement: Sch. 2 para. 17 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-089013ff0cfb4840ea2fb8a9b5f53525]: Commencement: Sch. 2 para. 18 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-089013ff0cfb4840ea2fb8a9b5f53525]: Commencement: Sch. 2 para. 18 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
 [^f00022]: Footnote: Paragraph 3(1) was amended by [S.R. 1990 No. 411](https://www.legislation.gov.uk/nisr/1990/411) reg.6(21)
 
-[^key-aab782abe88626a9266ecaf975339c79]: Commencement: Sch. 2 para. 19 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-aab782abe88626a9266ecaf975339c79]: Commencement: Sch. 2 para. 19 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-e2051a5790a5e30c4ad490c4e703ca32]: Commencement: Sch. 2 para. 20 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-e2051a5790a5e30c4ad490c4e703ca32]: Commencement: Sch. 2 para. 20 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-e7d1e1f3f12a584815bd2c35fd614f2a]: Commencement: Sch. 2 para. 21 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-e7d1e1f3f12a584815bd2c35fd614f2a]: Commencement: Sch. 2 para. 21 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
 
-[^key-47ec4bccd7f789b90f7c1a0bd976b7dd]: Commencement: Sch. 2 para. 22 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)
+[^c-47ec4bccd7f789b90f7c1a0bd976b7dd]: Commencement: Sch. 2 para. 22 in operation at 2.11.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/369/regulation/1/2)

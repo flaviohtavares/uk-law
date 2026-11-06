@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Protective Provisions[^key-ca5dad12c9add26b05826a72c7d9b4bc]
+## 39. Protective Provisions[^c-ca5dad12c9add26b05826a72c7d9b4bc]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 12 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-ca5dad12c9add26b05826a72c7d9b4bc]: Commencement: Art. 39 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-ca5dad12c9add26b05826a72c7d9b4bc]: Commencement: Art. 39 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)

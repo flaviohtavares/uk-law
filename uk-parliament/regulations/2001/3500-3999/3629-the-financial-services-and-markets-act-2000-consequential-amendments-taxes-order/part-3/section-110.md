@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Interpretation[^key-ca892cec1db596a9529bff5c02b01290]
+## 110. Interpretation[^c-ca892cec1db596a9529bff5c02b01290]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 2(1) of the Income Tax (Life Assurance Premium Relief) Regulations
 
 ## Annotations
 
-[^key-ca892cec1db596a9529bff5c02b01290]: Commencement: Art. 110 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-ca892cec1db596a9529bff5c02b01290]: Commencement: Art. 110 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
 
 [^f00106]: Footnote: Regulation 2(1) was amended by Article 3 of S.I. [1979/1576](https://www.legislation.gov.uk/uksi/1979/1576).

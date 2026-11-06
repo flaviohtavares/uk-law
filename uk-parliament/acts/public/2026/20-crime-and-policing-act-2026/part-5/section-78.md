@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Offence under section 77 outside the United Kingdom[^key-d01b6b9d700b41163b67f7a9aded2043]
+## 78. Offence under section 77 outside the United Kingdom[^c-d01b6b9d700b41163b67f7a9aded2043]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d01b6b9d700b41163b67f7a9aded2043]: Commencement: S. 78 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-d01b6b9d700b41163b67f7a9aded2043]: Commencement: S. 78 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

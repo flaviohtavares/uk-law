@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-[^key-1142272a2ba6a0ec170ed42da35e75a0]
+[^c-1142272a2ba6a0ec170ed42da35e75a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1142272a2ba6a0ec170ed42da35e75a0]: Textual amendment: Ss. 308A-308C and cross-heading omitted (with effect in accordance with s. 74(2) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 74(1)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/74/1/a)
+[^c-1142272a2ba6a0ec170ed42da35e75a0]: Textual amendment: Ss. 308A-308C and cross-heading omitted (with effect in accordance with s. 74(2) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 74(1)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/74/1/a)

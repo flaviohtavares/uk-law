@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 72. Consequential amendments[^key-31857051a02a414a4551c5774a15fe47]
+## 72. Consequential amendments[^c-31857051a02a414a4551c5774a15fe47]
 
 *Extent: E+W+S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-31857051a02a414a4551c5774a15fe47]: Commencement: Reg. 72 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-31857051a02a414a4551c5774a15fe47]: Commencement: Reg. 72 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
 
 [^f00025]: Footnote: [S.I. 2011/2860](https://www.legislation.gov.uk/uksi/2011/2860), amended by [S.I. 2012/1999](https://www.legislation.gov.uk/uksi/2012/1999), [S.I. 2013/1033](https://www.legislation.gov.uk/uksi/2013/1033), [S.I. 2013/2410](https://www.legislation.gov.uk/uksi/2013/2410) and [S.I. 2013/3179](https://www.legislation.gov.uk/uksi/2013/3179).

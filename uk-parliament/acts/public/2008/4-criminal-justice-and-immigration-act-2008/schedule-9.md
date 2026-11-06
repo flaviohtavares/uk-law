@@ -22,11 +22,11 @@ summary: ''
 
 Section 48
 
-**1.**[^key-c7ec6d124d95102fe233b6369137b628] The Crime and Disorder Act 1998 (c. 37) has effect subject to the following amendments.
+**1.**[^c-c7ec6d124d95102fe233b6369137b628] The Crime and Disorder Act 1998 (c. 37) has effect subject to the following amendments.
 
-**2.**[^key-85076c28d578cdb8497d4c3a0531cc7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-85076c28d578cdb8497d4c3a0531cc7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4a2d9839ad90f53a7e57881db4adc9ec][^key-0c1f5b3615f7a5d2bf53650e0d2fa12b][^key-35079c6a7a9a2148fc118c0e075f9ff0][^key-ce61eb548d4e7c111feab0a1fd4e1d06] After section 66 insert—
+**3.**[^c-4a2d9839ad90f53a7e57881db4adc9ec][^c-0c1f5b3615f7a5d2bf53650e0d2fa12b][^c-35079c6a7a9a2148fc118c0e075f9ff0][^c-ce61eb548d4e7c111feab0a1fd4e1d06] After section 66 insert—
 
 > **Young offenders: youth conditional cautions**
 >
@@ -182,7 +182,7 @@ Section 48
 >   - (vi) a person who is specified in an order made by the Secretary State as being a relevant prosecutor for the purposes of this Chapter;
 > - (f) “**youth conditional caution**” has the meaning given by section 66A(2).
 
-**4.**[^key-0120e4952a60a940c70741a1385fca44] (1) Section 114 (orders and regulations) is amended as follows.
+**4.**[^c-0120e4952a60a940c70741a1385fca44] (1) Section 114 (orders and regulations) is amended as follows.
 
 (2) In subsection (2) (which specifies orders that are subject to annulment in pursuance of a resolution of either House of Parliament), for “or 10(6)” substitute “ 10(6), 66C(1) or 66H(e)(vi) ”.
 
@@ -204,16 +204,16 @@ Section 48
 
 ## Annotations
 
-[^key-c7ec6d124d95102fe233b6369137b628]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/9/paragraph/1) in force at 1.2.2009 by [S.I. 2009/140](https://www.legislation.gov.uk/uksi/2009/140), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2009/140/article/2/e/i)
+[^c-c7ec6d124d95102fe233b6369137b628]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/9/paragraph/1) in force at 1.2.2009 by [S.I. 2009/140](https://www.legislation.gov.uk/uksi/2009/140), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2009/140/article/2/e/i)
 
-[^key-85076c28d578cdb8497d4c3a0531cc7b]: Textual amendment: Sch. 9 para. 2 omitted (8.4.2013) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 24 para. 30](https://www.legislation.gov.uk/ukpga/2012/10/schedule/24/paragraph/30) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2012/10/section/135/4)); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(f)](https://www.legislation.gov.uk/uksi/2013/453/article/4/f)
+[^c-85076c28d578cdb8497d4c3a0531cc7b]: Textual amendment: Sch. 9 para. 2 omitted (8.4.2013) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 24 para. 30](https://www.legislation.gov.uk/ukpga/2012/10/schedule/24/paragraph/30) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2012/10/section/135/4)); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(f)](https://www.legislation.gov.uk/uksi/2013/453/article/4/f)
 
-[^key-4a2d9839ad90f53a7e57881db4adc9ec]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2008/4/schedule/9/paragraph/3) in force at 1.2.2009 for specified purposes by [S.I. 2009/140](https://www.legislation.gov.uk/uksi/2009/140), [art. 2(e)(ii)](https://www.legislation.gov.uk/uksi/2009/140/article/2/e/ii)
+[^c-4a2d9839ad90f53a7e57881db4adc9ec]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2008/4/schedule/9/paragraph/3) in force at 1.2.2009 for specified purposes by [S.I. 2009/140](https://www.legislation.gov.uk/uksi/2009/140), [art. 2(e)(ii)](https://www.legislation.gov.uk/uksi/2009/140/article/2/e/ii)
 
-[^key-0c1f5b3615f7a5d2bf53650e0d2fa12b]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2008/4/schedule/9/paragraph/3) in force at 1.4.2009 for specified purposes by [S.I. 2009/860](https://www.legislation.gov.uk/uksi/2009/860), [art. 2(1)(h)](https://www.legislation.gov.uk/uksi/2009/860/article/2/1/h)
+[^c-0c1f5b3615f7a5d2bf53650e0d2fa12b]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2008/4/schedule/9/paragraph/3) in force at 1.4.2009 for specified purposes by [S.I. 2009/860](https://www.legislation.gov.uk/uksi/2009/860), [art. 2(1)(h)](https://www.legislation.gov.uk/uksi/2009/860/article/2/1/h)
 
-[^key-35079c6a7a9a2148fc118c0e075f9ff0]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2008/4/schedule/9/paragraph/3) in force at 16.11.2009 for specified purposes by [S.I. 2009/2780](https://www.legislation.gov.uk/uksi/2009/2780), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2009/2780/article/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2009/2780/article/2/2)
+[^c-35079c6a7a9a2148fc118c0e075f9ff0]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2008/4/schedule/9/paragraph/3) in force at 16.11.2009 for specified purposes by [S.I. 2009/2780](https://www.legislation.gov.uk/uksi/2009/2780), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2009/2780/article/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2009/2780/article/2/2)
 
-[^key-ce61eb548d4e7c111feab0a1fd4e1d06]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2008/4/schedule/9/paragraph/3) in force at 8.4.2013 in so far as not already in force by [S.I. 2013/616](https://www.legislation.gov.uk/uksi/2013/616), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/616/article/2/b)
+[^c-ce61eb548d4e7c111feab0a1fd4e1d06]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2008/4/schedule/9/paragraph/3) in force at 8.4.2013 in so far as not already in force by [S.I. 2013/616](https://www.legislation.gov.uk/uksi/2013/616), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/616/article/2/b)
 
-[^key-0120e4952a60a940c70741a1385fca44]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/9/paragraph/4) in force at 1.2.2009 by [S.I. 2009/140](https://www.legislation.gov.uk/uksi/2009/140), [art. 2(e)(iii)](https://www.legislation.gov.uk/uksi/2009/140/article/2/e/iii)
+[^c-0120e4952a60a940c70741a1385fca44]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/9/paragraph/4) in force at 1.2.2009 by [S.I. 2009/140](https://www.legislation.gov.uk/uksi/2009/140), [art. 2(e)(iii)](https://www.legislation.gov.uk/uksi/2009/140/article/2/e/iii)

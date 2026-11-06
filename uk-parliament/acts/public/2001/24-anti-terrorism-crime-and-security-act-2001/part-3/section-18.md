@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Restriction on disclosure of information for overseas purposes[^c19535241][^c4552471][^key-42430ece60c546d6c3c14cd977f05f9c][^key-3d37f281adec58cddb12cb0b08956ca0][^key-e64fde8bb2459dd4f6841ebd1958d13a][^key-f99b14f9de71759de1913c7ba7de0ad4]
+## 18. Restriction on disclosure of information for overseas purposes[^c19535241][^c4552471][^c-42430ece60c546d6c3c14cd977f05f9c][^c-3d37f281adec58cddb12cb0b08956ca0][^c-e64fde8bb2459dd4f6841ebd1958d13a][^c-f99b14f9de71759de1913c7ba7de0ad4]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 (4) A direction under this section shall not have the effect of prohibiting—
 
 - (a) the making of any disclosure by a Minister of the Crown or by the Treasury; or
-- (b) the making of any disclosure in pursuance of an assimilated[^key-7db8072abfca3972e5bb99bb7d4bb97a][^key-913f89901621a3382eb98a44357adb21] obligation.
+- (b) the making of any disclosure in pursuance of an assimilated[^c-7db8072abfca3972e5bb99bb7d4bb97a][^c-913f89901621a3382eb98a44357adb21] obligation.
 
 (5) A direction under this section—
 
@@ -84,14 +84,14 @@ summary: ''
 
     [S. 18](https://www.legislation.gov.uk/ukpga/2001/24/section/18) applied (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 201(11)](https://www.legislation.gov.uk/ukpga/2004/35/section/201/11), [322](https://www.legislation.gov.uk/ukpga/2004/35/section/322) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2](https://www.legislation.gov.uk/uksi/2005/275/article/2), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
 
-[^key-42430ece60c546d6c3c14cd977f05f9c]: Modification: S. 18 applied (20.10.2009) by [Identity Cards Act 2006 (c. 15)](https://www.legislation.gov.uk/ukpga/2006/15), [ss. 18(3)](https://www.legislation.gov.uk/ukpga/2006/15/section/18/3), [44(3)](https://www.legislation.gov.uk/ukpga/2006/15/section/44/3); [S.I. 2009/2565](https://www.legislation.gov.uk/uksi/2009/2565), [art. 2(7)(q)](https://www.legislation.gov.uk/uksi/2009/2565/article/2/7/q)
+[^c-42430ece60c546d6c3c14cd977f05f9c]: Modification: S. 18 applied (20.10.2009) by [Identity Cards Act 2006 (c. 15)](https://www.legislation.gov.uk/ukpga/2006/15), [ss. 18(3)](https://www.legislation.gov.uk/ukpga/2006/15/section/18/3), [44(3)](https://www.legislation.gov.uk/ukpga/2006/15/section/44/3); [S.I. 2009/2565](https://www.legislation.gov.uk/uksi/2009/2565), [art. 2(7)(q)](https://www.legislation.gov.uk/uksi/2009/2565/article/2/7/q)
 
-[^key-3d37f281adec58cddb12cb0b08956ca0]: Modification: S. 18 applied (25.3.2010) by [Cluster Munitions (Prohibitions) Act 2010 (c. 11)](https://www.legislation.gov.uk/ukpga/2010/11), [ss. 23(3)](https://www.legislation.gov.uk/ukpga/2010/11/section/23/3), [34(1)](https://www.legislation.gov.uk/ukpga/2010/11/section/34/1) (with [s. 32](https://www.legislation.gov.uk/ukpga/2010/11/section/32))
+[^c-3d37f281adec58cddb12cb0b08956ca0]: Modification: S. 18 applied (25.3.2010) by [Cluster Munitions (Prohibitions) Act 2010 (c. 11)](https://www.legislation.gov.uk/ukpga/2010/11), [ss. 23(3)](https://www.legislation.gov.uk/ukpga/2010/11/section/23/3), [34(1)](https://www.legislation.gov.uk/ukpga/2010/11/section/34/1) (with [s. 32](https://www.legislation.gov.uk/ukpga/2010/11/section/32))
 
-[^key-e64fde8bb2459dd4f6841ebd1958d13a]: Modification: S. 18 applied (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 9 para. 19(2)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/9/paragraph/19/2); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-e64fde8bb2459dd4f6841ebd1958d13a]: Modification: S. 18 applied (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 9 para. 19(2)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/9/paragraph/19/2); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-f99b14f9de71759de1913c7ba7de0ad4]: Modification: [S. 18](https://www.legislation.gov.uk/ukpga/2001/24/section/18) applied (10.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 114(6)](https://www.legislation.gov.uk/ukpga/2023/50/section/114/6), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z12)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z12)
+[^c-f99b14f9de71759de1913c7ba7de0ad4]: Modification: [S. 18](https://www.legislation.gov.uk/ukpga/2001/24/section/18) applied (10.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 114(6)](https://www.legislation.gov.uk/ukpga/2023/50/section/114/6), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z12)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z12)
 
-[^key-7db8072abfca3972e5bb99bb7d4bb97a]: Textual amendment: Words in [s. 18(4)(b)](https://www.legislation.gov.uk/ukpga/2001/24/section/18/4/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 47](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/47)
+[^c-7db8072abfca3972e5bb99bb7d4bb97a]: Textual amendment: Words in [s. 18(4)(b)](https://www.legislation.gov.uk/ukpga/2001/24/section/18/4/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 47](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/47)
 
-[^key-913f89901621a3382eb98a44357adb21]: Textual amendment: Words in [s. 18(4)(b)](https://www.legislation.gov.uk/ukpga/2001/24/section/18/4/b) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [48](https://www.legislation.gov.uk/uksi/2019/742/regulation/48); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-913f89901621a3382eb98a44357adb21]: Textual amendment: Words in [s. 18(4)(b)](https://www.legislation.gov.uk/ukpga/2001/24/section/18/4/b) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [48](https://www.legislation.gov.uk/uksi/2019/742/regulation/48); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

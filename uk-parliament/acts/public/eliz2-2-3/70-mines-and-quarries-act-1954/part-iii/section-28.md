@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Provision of winding and haulage apparatus.[^key-be2e8afbab8270ee0a9ae680096d3256]
+## 28. Provision of winding and haulage apparatus.[^c-be2e8afbab8270ee0a9ae680096d3256]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be2e8afbab8270ee0a9ae680096d3256]: Textual amendment: [S. 28](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/70/section/28) repealed (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2014/3248/schedule/3/part/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-be2e8afbab8270ee0a9ae680096d3256]: Textual amendment: [S. 28](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/70/section/28) repealed (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2014/3248/schedule/3/part/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))

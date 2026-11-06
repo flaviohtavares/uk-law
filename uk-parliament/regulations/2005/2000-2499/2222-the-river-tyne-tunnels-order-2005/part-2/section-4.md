@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Power to deviate[^key-e9e07004a12f51a8f1e521fcb63e056f]
+## 4. Power to deviate[^c-e9e07004a12f51a8f1e521fcb63e056f]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In constructing or maintaining the scheduled works, the undertaker may—
 
 ## Annotations
 
-[^key-e9e07004a12f51a8f1e521fcb63e056f]: Commencement: Art. 4 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-e9e07004a12f51a8f1e521fcb63e056f]: Commencement: Art. 4 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

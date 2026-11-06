@@ -28,13 +28,13 @@ summary: ''
 (2) In this Chapter “**gross-paying government securities**” means—
 
 - (a) gilt-edged securities (see section 1024),
-- (aa)[^key-37b91bf435ccc97bede4dd318e94d117] securities, so far as they are not gilt-edged securities, issued or treated as issued under—
+- (aa)[^c-37b91bf435ccc97bede4dd318e94d117] securities, so far as they are not gilt-edged securities, issued or treated as issued under—
   - (i) the National Loans Act 1939, or
   - (ii) the National Loans Act 1968, or
-- (b) securities which are the subject of a Treasury direction under section 894(3)[^key-77a731dfa260b182e00cb339d570f8a6].
+- (b) securities which are the subject of a Treasury direction under section 894(3)[^c-77a731dfa260b182e00cb339d570f8a6].
 
 ## Annotations
 
-[^key-37b91bf435ccc97bede4dd318e94d117]: Textual amendment: S. 893(2)(aa) inserted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 27(2)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/27/2/a)
+[^c-37b91bf435ccc97bede4dd318e94d117]: Textual amendment: S. 893(2)(aa) inserted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 27(2)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/27/2/a)
 
-[^key-77a731dfa260b182e00cb339d570f8a6]: Textual amendment: Word in s. 893(2)(b) substituted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 27(2)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/27/2/b)
+[^c-77a731dfa260b182e00cb339d570f8a6]: Textual amendment: Word in s. 893(2)(b) substituted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 27(2)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/27/2/b)

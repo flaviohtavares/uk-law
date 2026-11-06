@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11B. Offshore workers: requirements to notify arrival and entry dates etc[^key-44d657fff1684e46ff9a176d676798cd]
+## 11B. Offshore workers: requirements to notify arrival and entry dates etc[^c-44d657fff1684e46ff9a176d676798cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ to give notice to the Secretary of State or an immigration officer of the dates 
 
 ## Annotations
 
-[^key-44d657fff1684e46ff9a176d676798cd]: Textual amendment: [Ss. 11A](https://www.legislation.gov.uk/ukpga/1971/77/section/11A), [11B](https://www.legislation.gov.uk/ukpga/1971/77/section/11B) inserted (28.4.2022 for specified purposes, 12.4.2023 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 43(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/43/1), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)[(4)(d)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/d); [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/a)
+[^c-44d657fff1684e46ff9a176d676798cd]: Textual amendment: [Ss. 11A](https://www.legislation.gov.uk/ukpga/1971/77/section/11A), [11B](https://www.legislation.gov.uk/ukpga/1971/77/section/11B) inserted (28.4.2022 for specified purposes, 12.4.2023 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 43(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/43/1), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)[(4)(d)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/d); [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/a)

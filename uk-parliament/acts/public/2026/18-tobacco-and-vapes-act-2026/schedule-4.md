@@ -24,11 +24,11 @@ summary: ''
 
 Section 21
 
-### 1. Introduction[^key-142792bd3e5686bd8cc0553904eed746]
+### 1. Introduction[^c-142792bd3e5686bd8cc0553904eed746]
 
 This Schedule makes further provision in connection with the imposition of financial penalties under section 21.
 
-### 2. Notices of intent[^key-0b3f2b12a4eaac084dd0c5adf3e4fc9a]
+### 2. Notices of intent[^c-0b3f2b12a4eaac084dd0c5adf3e4fc9a]
 
 (1) A local weights and measures authority must, before imposing a financial penalty on a person, give the person written notice (a “notice of intent”) of the proposed financial penalty.
 
@@ -43,13 +43,13 @@ This Schedule makes further provision in connection with the imposition of finan
 
 (4) The local weights and measures authority may at any time withdraw the notice of intent, or amend it to reduce the amount of the proposed financial penalty, by giving written notice to the person.
 
-### 3. Right to make representations[^key-dce4269cac21c911a283ec01f5ac26ea]
+### 3. Right to make representations[^c-dce4269cac21c911a283ec01f5ac26ea]
 
 (1) A person who is given a notice of intent under paragraph 2 may make written representations to the local weights and measures authority that issued the notice about the proposal to impose a financial penalty.
 
 (2) Any representations must be made within the period (“the period for representations”) ending with the date specified under paragraph 2(2)(d).
 
-### 4. Final notices[^key-cf99de5e5ab85be3a202a08e65bba9dc]
+### 4. Final notices[^c-cf99de5e5ab85be3a202a08e65bba9dc]
 
 (1) After the end of the period for representations the local weights and measures authority must decide whether to impose a financial penalty on the person.
 
@@ -69,7 +69,7 @@ This Schedule makes further provision in connection with the imposition of finan
 
 (6) A final notice may not be given more than 28 days after the last day of the period for representations.
 
-### 5. Appeals[^key-b079dee6f0bf324d66f405f0554ae4a7]
+### 5. Appeals[^c-b079dee6f0bf324d66f405f0554ae4a7]
 
 (1) A person on whom a financial penalty is imposed under section 21 may appeal to the magistrates’ court against—
 
@@ -82,13 +82,13 @@ This Schedule makes further provision in connection with the imposition of finan
 
 (4) If a person appeals under this paragraph, the final notice is suspended until the appeal is finally determined, withdrawn or abandoned.
 
-### 6. Recovery[^key-7eb3f5a46e806054ab4aedebd4c8bf2f]
+### 6. Recovery[^c-7eb3f5a46e806054ab4aedebd4c8bf2f]
 
 (1) This paragraph applies if a person fails to pay the whole or part of a financial penalty before the end of the period within which the person is required to pay the penalty.
 
 (2) The local weights and measures authority that imposed the financial penalty may recover the unpaid amount of the penalty as if it were payable under an order of the county court.
 
-### 7. Use of proceeds[^key-e2a5ae5c5efcc3eb4df52b130c8716ca]
+### 7. Use of proceeds[^c-e2a5ae5c5efcc3eb4df52b130c8716ca]
 
 (1) Any sums received in pursuance of final notices given under paragraph 4 must be paid into the Welsh Consolidated Fund.
 
@@ -99,16 +99,16 @@ This Schedule makes further provision in connection with the imposition of finan
 
 ## Annotations
 
-[^key-142792bd3e5686bd8cc0553904eed746]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
+[^c-142792bd3e5686bd8cc0553904eed746]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
 
-[^key-0b3f2b12a4eaac084dd0c5adf3e4fc9a]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
+[^c-0b3f2b12a4eaac084dd0c5adf3e4fc9a]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
 
-[^key-dce4269cac21c911a283ec01f5ac26ea]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
+[^c-dce4269cac21c911a283ec01f5ac26ea]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
 
-[^key-cf99de5e5ab85be3a202a08e65bba9dc]: Commencement: Sch. 4 para. 4 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
+[^c-cf99de5e5ab85be3a202a08e65bba9dc]: Commencement: Sch. 4 para. 4 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
 
-[^key-b079dee6f0bf324d66f405f0554ae4a7]: Commencement: Sch. 4 para. 5 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
+[^c-b079dee6f0bf324d66f405f0554ae4a7]: Commencement: Sch. 4 para. 5 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
 
-[^key-7eb3f5a46e806054ab4aedebd4c8bf2f]: Commencement: Sch. 4 para. 6 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
+[^c-7eb3f5a46e806054ab4aedebd4c8bf2f]: Commencement: Sch. 4 para. 6 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
 
-[^key-e2a5ae5c5efcc3eb4df52b130c8716ca]: Commencement: Sch. 4 para. 7 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
+[^c-e2a5ae5c5efcc3eb4df52b130c8716ca]: Commencement: Sch. 4 para. 7 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)

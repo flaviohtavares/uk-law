@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1067A. Delivery of documents: identity verification requirements etc[^key-690456854aaad0dad21d02982563dd60]
+## 1067A. Delivery of documents: identity verification requirements etc[^c-690456854aaad0dad21d02982563dd60]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ and so on until there is at least one individual who is an officer.
 
 ## Annotations
 
-[^key-690456854aaad0dad21d02982563dd60]: Textual amendment: [S. 1067A](https://www.legislation.gov.uk/ukpga/2006/46/section/1067A) and cross-heading inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, otherwise prosp.) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 72(4)](https://www.legislation.gov.uk/ukpga/2023/56/section/72/4), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
+[^c-690456854aaad0dad21d02982563dd60]: Textual amendment: [S. 1067A](https://www.legislation.gov.uk/ukpga/2006/46/section/1067A) and cross-heading inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, otherwise prosp.) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 72(4)](https://www.legislation.gov.uk/ukpga/2023/56/section/72/4), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)

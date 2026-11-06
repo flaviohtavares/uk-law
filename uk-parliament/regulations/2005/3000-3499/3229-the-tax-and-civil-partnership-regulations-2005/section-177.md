@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177.[^key-ddedff9fa60b02a444605783208c7eda]
+## 177.[^c-ddedff9fa60b02a444605783208c7eda]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 192 (relief at source), in subsection (5), for “and 257A(5)” subs
 
 ## Annotations
 
-[^key-ddedff9fa60b02a444605783208c7eda]: Commencement: Reg. 177 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-ddedff9fa60b02a444605783208c7eda]: Commencement: Reg. 177 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

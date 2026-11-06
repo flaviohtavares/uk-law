@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Scottish and Welsh property rates set by Scottish Parliament and Senedd[^M_I_ae25c538-770e-4ec7-98a9-1f27a4de9280][^key-d3bceef41abaed56d316c9a4cfdfc8d8]
+## 8. Scottish and Welsh property rates set by Scottish Parliament and Senedd[^M_I_ae25c538-770e-4ec7-98a9-1f27a4de9280][^c-d3bceef41abaed56d316c9a4cfdfc8d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 [^M_I_ae25c538-770e-4ec7-98a9-1f27a4de9280]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2026/11/section/8) not in force at Royal Assent, see [s. 8(2)-(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/8/2)
 
-[^key-d3bceef41abaed56d316c9a4cfdfc8d8]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2026/11/section/8) in force at 16.9.2026 for the tax year 2027-28 and subsequent tax years by [S.I. 2026/1023](https://www.legislation.gov.uk/uksi/2026/1023), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1023/regulation/2)
+[^c-d3bceef41abaed56d316c9a4cfdfc8d8]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2026/11/section/8) in force at 16.9.2026 for the tax year 2027-28 and subsequent tax years by [S.I. 2026/1023](https://www.legislation.gov.uk/uksi/2026/1023), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1023/regulation/2)

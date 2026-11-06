@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Commission Delegated Regulation (EU) 2019/934[^key-3410647f96f8e6fc550ea9355054a1c7]
+## 29. Commission Delegated Regulation (EU) 2019/934[^c-3410647f96f8e6fc550ea9355054a1c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -119,6 +119,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3410647f96f8e6fc550ea9355054a1c7]: Commencement: Reg. 29 in force at 31.12.2020, see reg. 1(7)
+[^c-3410647f96f8e6fc550ea9355054a1c7]: Commencement: Reg. 29 in force at 31.12.2020, see reg. 1(7)
 
 [^c24414621]: Marginal citation: EUR 2019/934.

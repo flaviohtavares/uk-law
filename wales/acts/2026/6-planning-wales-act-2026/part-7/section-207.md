@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 207. Planning permission granted by discontinuance order[^key-0e5be800413cd5c2a68487b2d0c547b1]
+## 207. Planning permission granted by discontinuance order[^c-0e5be800413cd5c2a68487b2d0c547b1]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e5be800413cd5c2a68487b2d0c547b1]: Commencement: S. 207 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-0e5be800413cd5c2a68487b2d0c547b1]: Commencement: S. 207 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

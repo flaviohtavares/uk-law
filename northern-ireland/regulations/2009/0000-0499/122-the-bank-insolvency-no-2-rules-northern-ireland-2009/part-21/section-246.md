@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 246. Notice of intended dividend[^key-189efc5f6d9b3895dec0886d00f2fb9a]
+## 246. Notice of intended dividend[^c-189efc5f6d9b3895dec0886d00f2fb9a]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-189efc5f6d9b3895dec0886d00f2fb9a]: Commencement: Rule 246 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-189efc5f6d9b3895dec0886d00f2fb9a]: Commencement: Rule 246 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

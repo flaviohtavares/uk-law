@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3A — EXCLUSION OF CERTAIN VEHICLES FROM THE APPLICATION OF REGULATION 39A[^key-2b143c0d2e4342146d7098079d168a1c]
+## SCHEDULE 3A — EXCLUSION OF CERTAIN VEHICLES FROM THE APPLICATION OF REGULATION 39A[^c-2b143c0d2e4342146d7098079d168a1c]
 
 *Extent: E+W+S*
 
@@ -28,14 +28,14 @@ summary: ''
 
 - “EEC type approval certificate” means a certificate issued by a member state of the European Economic Community in accordance with Community Directive 70/220 as originally made or with any amendments which have from time to time been made before 5th September 1988;
 - “engine capacity” means in the case of a reciprocating engine, the nominal swept volume and, in the case of a rotary engine, double the nominal swept volume;
-- [^key-def733425ad1bb38689e6f607b1bceeb]...
+- [^c-def733425ad1bb38689e6f607b1bceeb]...
 - “relevant authority” means —
   - (a) in relation to an EEC type approval certificate issued by the United Kingdom, the Secretary of State, and
   - (b) in relation to an EEC type approval certificate issued by any other member state of the European Economic Community, the authority having power under the law of that state to issue that certificate.
 
 (2) The reference in this Schedule to a M1 category vehicle is a reference to a vehicle described as M1 in Council Directive [70/156/EEC](https://www.legislation.gov.uk/legislation/european/directive/1970/0156) of 6th February 1970 as amended at 5th September 1988.
 
-**2.**[^key-f6684fc55ac9e6231fefc19da53f5672] A vehicle of a description specified in column 2 of the Table below is excluded from the application of regulation 39A if it is first used before the date specified in column 3 and the conditions specified in paragraph 3 are satisfied in respect to it on that date.
+**2.**[^c-f6684fc55ac9e6231fefc19da53f5672] A vehicle of a description specified in column 2 of the Table below is excluded from the application of regulation 39A if it is first used before the date specified in column 3 and the conditions specified in paragraph 3 are satisfied in respect to it on that date.
 
 **3.**[^M_F_9bb1c168-b424-4795-e1e9-7533d783605e] The conditions referred to in paragraph 2 are —
 
@@ -63,10 +63,10 @@ summary: ''
 
 ## Annotations
 
-[^key-2b143c0d2e4342146d7098079d168a1c]: Textual amendment: Sch. 3A inserted (1.10.1988) by [The Road Vehicles (Construction and Use) (Amendment) (No. 6) Regulations 1988 (S.I. 1988/1524)](https://www.legislation.gov.uk/uksi/1988/1524), [reg. 1](https://www.legislation.gov.uk/uksi/1988/1524/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1988/1524/schedule)
+[^c-2b143c0d2e4342146d7098079d168a1c]: Textual amendment: Sch. 3A inserted (1.10.1988) by [The Road Vehicles (Construction and Use) (Amendment) (No. 6) Regulations 1988 (S.I. 1988/1524)](https://www.legislation.gov.uk/uksi/1988/1524), [reg. 1](https://www.legislation.gov.uk/uksi/1988/1524/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1988/1524/schedule)
 
-[^key-def733425ad1bb38689e6f607b1bceeb]: Textual amendment: Words in Sch. 3A para. 1 omitted (26.6.1990) by virtue of [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1990 (S.I. 1990/1131)](https://www.legislation.gov.uk/uksi/1990/1131), [regs. 1](https://www.legislation.gov.uk/uksi/1990/1131/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/1990/1131/regulation/6/3/a)
+[^c-def733425ad1bb38689e6f607b1bceeb]: Textual amendment: Words in Sch. 3A para. 1 omitted (26.6.1990) by virtue of [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1990 (S.I. 1990/1131)](https://www.legislation.gov.uk/uksi/1990/1131), [regs. 1](https://www.legislation.gov.uk/uksi/1990/1131/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/1990/1131/regulation/6/3/a)
 
-[^key-f6684fc55ac9e6231fefc19da53f5672]: Textual amendment: Sch. 3A para. 3 renumbered as Sch. 3A para. 2 (26.6.1990) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1990 (S.I. 1990/1131)](https://www.legislation.gov.uk/uksi/1990/1131), [regs. 1](https://www.legislation.gov.uk/uksi/1990/1131/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/1990/1131/regulation/6/3/b)
+[^c-f6684fc55ac9e6231fefc19da53f5672]: Textual amendment: Sch. 3A para. 3 renumbered as Sch. 3A para. 2 (26.6.1990) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1990 (S.I. 1990/1131)](https://www.legislation.gov.uk/uksi/1990/1131), [regs. 1](https://www.legislation.gov.uk/uksi/1990/1131/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/1990/1131/regulation/6/3/b)
 
 [^M_F_9bb1c168-b424-4795-e1e9-7533d783605e]: Textual amendment: Sch. 3A para. 4 renumbered as Sch. 3A para. 3 (26.6.1990) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1990 (S.I. 1990/1131)](https://www.legislation.gov.uk/uksi/1990/1131), [regs. 1](https://www.legislation.gov.uk/uksi/1990/1131/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/1990/1131/regulation/6/3/b)

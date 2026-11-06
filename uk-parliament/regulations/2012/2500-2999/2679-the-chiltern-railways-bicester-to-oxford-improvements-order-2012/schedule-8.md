@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 8 — REPLACEMENT AND CLOSURE OF FOOTPATH LEVEL CROSSINGS[^key-eb25d12b57667300231b9f9c53224b3a]
+## SCHEDULE 8 — REPLACEMENT AND CLOSURE OF FOOTPATH LEVEL CROSSINGS[^c-eb25d12b57667300231b9f9c53224b3a]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ Article 16
 
 ## Annotations
 
-[^key-eb25d12b57667300231b9f9c53224b3a]: Commencement: Sch. 8 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-eb25d12b57667300231b9f9c53224b3a]: Commencement: Sch. 8 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

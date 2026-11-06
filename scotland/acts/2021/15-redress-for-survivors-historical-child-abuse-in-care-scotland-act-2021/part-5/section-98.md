@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 98. Power to make further provision about payments, other than redress payments, made in error[^key-5c7adfc17a9878dafedca81ac9df5562]
+## 98. Power to make further provision about payments, other than redress payments, made in error[^c-5c7adfc17a9878dafedca81ac9df5562]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c7adfc17a9878dafedca81ac9df5562]: Commencement: [S. 98](https://www.legislation.gov.uk/asp/2021/15/section/98) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-5c7adfc17a9878dafedca81ac9df5562]: Commencement: [S. 98](https://www.legislation.gov.uk/asp/2021/15/section/98) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

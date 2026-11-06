@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Modification for persons covered by section 790C(12) of the Act[^key-206625198ea2754b17533b180de95cba]
+## 5. Modification for persons covered by section 790C(12) of the Act[^c-206625198ea2754b17533b180de95cba]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-206625198ea2754b17533b180de95cba]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2016/339/regulation/5) omitted (18.11.2025) by virtue of [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Incidental and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1037)](https://www.legislation.gov.uk/uksi/2025/1037), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/3/2); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
+[^c-206625198ea2754b17533b180de95cba]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2016/339/regulation/5) omitted (18.11.2025) by virtue of [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Incidental and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1037)](https://www.legislation.gov.uk/uksi/2025/1037), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/3/2); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)

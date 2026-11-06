@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Suspension of registration[^key-674266e90fce727a7c4a3b6a7e4cf3bd]
+## 16. Suspension of registration[^c-674266e90fce727a7c4a3b6a7e4cf3bd]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-674266e90fce727a7c4a3b6a7e4cf3bd]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2017/29/section/16) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/b)
+[^c-674266e90fce727a7c4a3b6a7e4cf3bd]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2017/29/section/16) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/b)

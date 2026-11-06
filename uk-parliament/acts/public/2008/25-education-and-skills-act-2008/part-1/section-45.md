@@ -22,7 +22,7 @@ summary: ''
 
 **Not yet in force.**
 
-(1) This section applies where it appears to a local authority[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6] that a person to whom this Part applies and who belongs to the authority's area is failing to fulfil the duty imposed by section 2.
+(1) This section applies where it appears to a local authority[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6] that a person to whom this Part applies and who belongs to the authority's area is failing to fulfil the duty imposed by section 2.
 
 (2) The authority may give a written notice to the person stating—
 
@@ -60,4 +60,4 @@ and explaining the effect of an attendance notice.
 
 ## Annotations
 
-[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)
+[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)

@@ -24,9 +24,9 @@ summary: ''
 
 Section 133
 
-**1.**[^key-2a2974c88e8f6bba3bbe30e6ad83f7f3] The Communications Act 2003 is amended as follows.
+**1.**[^c-2a2974c88e8f6bba3bbe30e6ad83f7f3] The Communications Act 2003 is amended as follows.
 
-**2.**[^key-430fea22f2f483ae8cf33945307df42f] In section 319 (OFCOM’s standards code for television and radio) for subsections (10) and (11) substitute—
+**2.**[^c-430fea22f2f483ae8cf33945307df42f] In section 319 (OFCOM’s standards code for television and radio) for subsections (10) and (11) substitute—
 
 > (10) So far as relating to product placement falling within paragraph 4(ba), (bb), (bc), (bd), (bg) or (bh) of Schedule 11A (herbal smoking products, cigarette papers and nicotine products) subsection (2)(fa) does not apply in relation to programmes the production of which began before the coming into force of paragraph 7 of Schedule 16 to the Tobacco and Vapes Act 2026.
 >
@@ -50,7 +50,7 @@ Section 133
 >
 > (11B) In subsections (11) and (11A) “vape” and “vaping substance” have the meaning given by section 116 of the Tobacco and Vapes Act 2026.
 
-**3.**[^key-cf4a1bde4054ee493a542a0256237d0e] (1) Section 368F (on-demand programme services: prohibited advertising) is amended as follows.
+**3.**[^c-cf4a1bde4054ee493a542a0256237d0e] (1) Section 368F (on-demand programme services: prohibited advertising) is amended as follows.
 
 (2) In subsection (1), for paragraph (aa) substitute—
 
@@ -68,7 +68,7 @@ Section 133
 >
 > (1B) A public authority may only make such arrangements for the purposes of promoting or protecting public health.
 
-**4.**[^key-045cb193f841ca0a8f2f322063232e33] (1) Section 368G (on-demand programme services: prohibited sponsorship) is amended as follows.
+**4.**[^c-045cb193f841ca0a8f2f322063232e33] (1) Section 368G (on-demand programme services: prohibited sponsorship) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -80,7 +80,7 @@ Section 133
 - (a) in paragraph (a), for “electronic cigarettes or electronic cigarette refill containers” substitute “vaping products or nicotine products”;
 - (b) in paragraph (b), for “electronic cigarettes or electronic cigarette refill containers” substitute “vaping products or nicotine products (or both)”.
 
-**5.**[^key-69b1b7c4f978527d0d166abdd6ecd197] (1) Section 368H (on-demand programme services: prohibited product placement) is amended as follows.
+**5.**[^c-69b1b7c4f978527d0d166abdd6ecd197] (1) Section 368H (on-demand programme services: prohibited product placement) is amended as follows.
 
 (2) In subsection (4)—
 
@@ -122,7 +122,7 @@ Section 133
 >
 > (15BB) In subsections (15B) and (15BA) “vape” and “vaping substance” have the meaning given by section 116 of the Tobacco and Vapes Act 2026.
 
-**6.**[^key-9d453ff884d1c5f40e46800f2dfecc8f] In section 368R (interpretation of Part 4A), in subsection (1)—
+**6.**[^c-9d453ff884d1c5f40e46800f2dfecc8f] In section 368R (interpretation of Part 4A), in subsection (1)—
 
 - (a) omit the definitions of “electronic cigarette” and “electronic cigarette refill container”;
 - (b) at the appropriate places insert—
@@ -143,7 +143,7 @@ Section 133
   > - “**tobacco product**” has the meaning given by section 116 of the Tobacco and Vapes Act 2026;
   > - “**vaping product**” has the meaning given by section 116 of the Tobacco and Vapes Act 2026.
 
-**7.**[^key-423560d06709cffc8dde4e8f90648769] (1) Schedule 11A (restrictions on product placement) is amended as follows.
+**7.**[^c-423560d06709cffc8dde4e8f90648769] (1) Schedule 11A (restrictions on product placement) is amended as follows.
 
 (2) In paragraph 4—
 
@@ -187,16 +187,16 @@ Section 133
 
 ## Annotations
 
-[^key-2a2974c88e8f6bba3bbe30e6ad83f7f3]: Commencement: Sch. 16 para. 1 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
+[^c-2a2974c88e8f6bba3bbe30e6ad83f7f3]: Commencement: Sch. 16 para. 1 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
 
-[^key-430fea22f2f483ae8cf33945307df42f]: Commencement: Sch. 16 para. 2 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
+[^c-430fea22f2f483ae8cf33945307df42f]: Commencement: Sch. 16 para. 2 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
 
-[^key-cf4a1bde4054ee493a542a0256237d0e]: Commencement: Sch. 16 para. 3 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
+[^c-cf4a1bde4054ee493a542a0256237d0e]: Commencement: Sch. 16 para. 3 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
 
-[^key-045cb193f841ca0a8f2f322063232e33]: Commencement: Sch. 16 para. 4 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
+[^c-045cb193f841ca0a8f2f322063232e33]: Commencement: Sch. 16 para. 4 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
 
-[^key-69b1b7c4f978527d0d166abdd6ecd197]: Commencement: Sch. 16 para. 5 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
+[^c-69b1b7c4f978527d0d166abdd6ecd197]: Commencement: Sch. 16 para. 5 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
 
-[^key-9d453ff884d1c5f40e46800f2dfecc8f]: Commencement: Sch. 16 para. 6 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
+[^c-9d453ff884d1c5f40e46800f2dfecc8f]: Commencement: Sch. 16 para. 6 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
 
-[^key-423560d06709cffc8dde4e8f90648769]: Commencement: Sch. 16 para. 7 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
+[^c-423560d06709cffc8dde4e8f90648769]: Commencement: Sch. 16 para. 7 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)

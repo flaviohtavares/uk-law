@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28.8. Directions for commissioning medical reports for sentencing purposes[^key-33e80dc915302b705372fe6fe4098623]
+## 28.8. Directions for commissioning medical reports for sentencing purposes[^c-33e80dc915302b705372fe6fe4098623]
 
 *Extent: E+W*
 
@@ -67,7 +67,7 @@ summary: ''
 - (b) *section 36 of the 1983 Act*[^f00670]*, under which the Crown Court may order the defendant’s detention in hospital instead of in custody pending trial or sentence;*
 - (c) *section 37 of the 1983 Act*[^f00671]*, under which the court may order the defendant’s detention and treatment in hospital, or make a guardianship order, instead of disposing of the case in another way (section 37(3) allows a magistrates’ court to make such an order without convicting the defendant if satisfied that the defendant did the act or made the omission charged);*
 - (d) *section 38 of the 1983 Act*[^f00672]*, under which the court may order the defendant’s temporary detention and treatment in hospital instead of disposing of the case in another way;*
-- (e)[^key-2e42b73d1577e1d611ba0fe4b73ff044] *section 232 of the Sentencing Act 2020, under which the court must usually obtain and consider a medical report before passing a custodial sentence if the defendant is, or appears to be,* *suffering from a mental disorder;*
+- (e)[^c-2e42b73d1577e1d611ba0fe4b73ff044] *section 232 of the Sentencing Act 2020, under which the court must usually obtain and consider a medical report before passing a custodial sentence if the defendant is, or appears to be,* *suffering from a mental disorder;*
 - (f) *paragraphs 16 and 17 in Part 9 of Schedule 9 to the 2020 Act (in the case of a defendant aged 18 or over), or paragraphs 28 and 29 in Part 12 of Schedule 6 to that Act (in the case of a defendant who is under 18), under which the court may impose a mental health treatment requirement.*
 
 *For the purposes of the legislation listed in (b), (c) and (d) above, the court requires the written or oral evidence of at least two registered medical practitioners, at least one of whom is approved as having special experience in the diagnosis or treatment of mental disorder. For the purposes of (a), (e) and (f), the court requires the evidence of one medical practitioner so approved.*
@@ -84,7 +84,7 @@ summary: ''
 
 ## Annotations
 
-[^key-33e80dc915302b705372fe6fe4098623]: Commencement: [Rule 28.8](https://www.legislation.gov.uk/uksi/2025/909/rule/28.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-33e80dc915302b705372fe6fe4098623]: Commencement: [Rule 28.8](https://www.legislation.gov.uk/uksi/2025/909/rule/28.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00669]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20); section 35 was amended by sections 1(4) and 10(1) and (2) of, and paragraphs 1 and 5 of Schedule 1 to, the Mental Health Act [2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12) and section 208(1) of, and paragraphs 53 and 54 of Schedule 21 to, the Legal Services Act [2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29).
 
@@ -94,7 +94,7 @@ summary: ''
 
 [^f00672]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20); section 38 was amended by section 49(1) of the Crime (Sentences) Act [1997 (c. 43)](https://www.legislation.gov.uk/ukpga/1997/43), sections 1(4) and 10(1) and (5) of, and paragraphs 1 and 8 of Schedule 1 to, the Mental Health Act [2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12) and section 208(1) of, and paragraphs 53 and 56 of Schedule 21 to, the Legal Services Act [2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29).
 
-[^key-2e42b73d1577e1d611ba0fe4b73ff044]: Textual amendment: Words in rule 28.8 Note substituted (23.2.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rule 2](https://www.legislation.gov.uk/uksi/2026/47/rule/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2026/47/schedule/paragraph/8)
+[^c-2e42b73d1577e1d611ba0fe4b73ff044]: Textual amendment: Words in rule 28.8 Note substituted (23.2.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rule 2](https://www.legislation.gov.uk/uksi/2026/47/rule/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2026/47/schedule/paragraph/8)
 
 [^f00674]: Footnote: [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Interpretation[^key-8354ff8643a554401c9f61dc572156a9]
+## 116. Interpretation[^c-8354ff8643a554401c9f61dc572156a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In regulation 2 of the Capital Gains Tax (Definition of Unit Trust Scheme) Regul
 
 ## Annotations
 
-[^key-8354ff8643a554401c9f61dc572156a9]: Commencement: Art. 116 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-8354ff8643a554401c9f61dc572156a9]: Commencement: Art. 116 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

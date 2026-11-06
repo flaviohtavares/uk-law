@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Conduct of cases[^key-fad3fe583ada982fcbb65d059637a36e]
+## 62. Conduct of cases[^c-fad3fe583ada982fcbb65d059637a36e]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fad3fe583ada982fcbb65d059637a36e]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2014/10/section/62) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-fad3fe583ada982fcbb65d059637a36e]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2014/10/section/62) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

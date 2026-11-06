@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Securing EHC plans for certain detained persons[^key-bc41333a7be43c32f7a0e1350bbb49e7]
+## 72. Securing EHC plans for certain detained persons[^c-bc41333a7be43c32f7a0e1350bbb49e7]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc41333a7be43c32f7a0e1350bbb49e7]: Commencement: S. 72 in force at 1.4.2015 by [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/375/article/2/b)
+[^c-bc41333a7be43c32f7a0e1350bbb49e7]: Commencement: S. 72 in force at 1.4.2015 by [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/375/article/2/b)

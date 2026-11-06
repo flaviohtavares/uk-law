@@ -291,7 +291,7 @@ and the landlord opposes the application on grounds consisting of or including a
 **25.** In the application of this Schedule to Scotland—
 
 - (a)[^c6630351] subject to sub-paragraphs (ba), (bc), (bd)(i) and (be) of this paragraph,[^c6630361]for references—
-  - (i) to the Act of 1986 and to sections 12, 13, 23 and 84 of that Act there shall be substituted respectively references to the Scottish Act of 1991 and to sections 13, 15, 10 and 61 of that Act; *(Extent: S)* *(affected by repeal, see note)*[^key-7d194590ef259f80d030318b37c179f9]
+  - (i) to the Act of 1986 and to sections 12, 13, 23 and 84 of that Act there shall be substituted respectively references to the Scottish Act of 1991 and to sections 13, 15, 10 and 61 of that Act; *(Extent: S)* *(affected by repeal, see note)*[^c-7d194590ef259f80d030318b37c179f9]
 
     to the Act of 1986 and to sections 12, 13 and 84 of that Act there shall be substituted respectively references to (as the case may be)– *(Extent: S)*
 
@@ -300,7 +300,7 @@ and the landlord opposes the application on grounds consisting of or including a
   - (ia (Extent: S)) to section 23 of the Act of 1986 there shall be substituted a reference to section 10 of the Scottish Act of 1991; and *(Extent: S)*
   - (ii) to section 10 of the Act of 1986 and to subsections (3) and (4) of that section there shall be substituted respectively references to section 18 of the Scottish Act of 1991 and to subsections (2) and (3) of that section; and
   - (iii) to subsection (3) of section 79 of the Act of 1986 there shall be substituted references to section 40(4)(a) of the Scottish Act of 1991.
-- (b) for references to an arbitrator there shall be substituted references to an arbiter; *(Extent: S.)* *(affected by repeal, see note)*[^key-987ec8798f38a69a7e5e04386e745b2c]
+- (b) for references to an arbitrator there shall be substituted references to an arbiter; *(Extent: S.)* *(affected by repeal, see note)*[^c-987ec8798f38a69a7e5e04386e745b2c]
 
   for references to an arbitrator there shall be substituted references to an arbiter or, as the case may be, to the Scottish Land Court. *(Extent: S.)*
 - (ba)[^c6630371] in sub-paragraph (1) of paragraph 2, the words “held under a tenancy in relation to which the Act of 1986 applies” shall be omitted;
@@ -396,9 +396,9 @@ and the landlord opposes the application on grounds consisting of or including a
 
 [^c6630361]: Textual amendment: Words in Sch. 7 para. 25(a) inserted (1.9.1995) by [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8), [ss. 40](https://www.legislation.gov.uk/ukpga/1995/8/section/40), [41(2)](https://www.legislation.gov.uk/ukpga/1995/8/section/41/2), [Sch. para. 20(14)(a)](https://www.legislation.gov.uk/ukpga/1995/8/schedule/paragraph/20/14/a) (with [s. 37](https://www.legislation.gov.uk/ukpga/1995/8/section/37))
 
-[^key-7d194590ef259f80d030318b37c179f9]: Textual amendment: Sch. SEVENTH para. 25(a)(i)(ia) substituted for Sch. SEVENTH para. 25(a)(i) (S.) (27.11.2003) by [Agricultural Holdings (Consequential Amendments) (Scotland) Order 2003 (S.S.I. 2003/583)](https://www.legislation.gov.uk/ssi/2003/583), [art. 1](https://www.legislation.gov.uk/ssi/2003/583/article/1), [Sch. para. 7(a)](https://www.legislation.gov.uk/ssi/2003/583/schedule/paragraph/7/a)
+[^c-7d194590ef259f80d030318b37c179f9]: Textual amendment: Sch. SEVENTH para. 25(a)(i)(ia) substituted for Sch. SEVENTH para. 25(a)(i) (S.) (27.11.2003) by [Agricultural Holdings (Consequential Amendments) (Scotland) Order 2003 (S.S.I. 2003/583)](https://www.legislation.gov.uk/ssi/2003/583), [art. 1](https://www.legislation.gov.uk/ssi/2003/583/article/1), [Sch. para. 7(a)](https://www.legislation.gov.uk/ssi/2003/583/schedule/paragraph/7/a)
 
-[^key-987ec8798f38a69a7e5e04386e745b2c]: Textual amendment: [Sch. SEVENTH para. 25(b)](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/69/schedule/SEVENTH/paragraph/25/b) substituted (S.) (27.11.2003) by [Agricultural Holdings (Consequential Amendments) (Scotland) Order 2003 (S.S.I. 2003/583)](https://www.legislation.gov.uk/ssi/2003/583), [art. 1](https://www.legislation.gov.uk/ssi/2003/583/article/1), [Sch. para. 7(b)](https://www.legislation.gov.uk/ssi/2003/583/schedule/paragraph/7/b)
+[^c-987ec8798f38a69a7e5e04386e745b2c]: Textual amendment: [Sch. SEVENTH para. 25(b)](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/69/schedule/SEVENTH/paragraph/25/b) substituted (S.) (27.11.2003) by [Agricultural Holdings (Consequential Amendments) (Scotland) Order 2003 (S.S.I. 2003/583)](https://www.legislation.gov.uk/ssi/2003/583), [art. 1](https://www.legislation.gov.uk/ssi/2003/583/article/1), [Sch. para. 7(b)](https://www.legislation.gov.uk/ssi/2003/583/schedule/paragraph/7/b)
 
 [^c6630371]: Textual amendment: Sch. 7 para. 25(ba)-(be) inserted (1.9.1995) by [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8), [ss. 40](https://www.legislation.gov.uk/ukpga/1995/8/section/40), [41(2)](https://www.legislation.gov.uk/ukpga/1995/8/section/41/2), [Sch. para. 20(14)(b)](https://www.legislation.gov.uk/ukpga/1995/8/schedule/paragraph/20/14/b) (with [s. 37](https://www.legislation.gov.uk/ukpga/1995/8/section/37))
 

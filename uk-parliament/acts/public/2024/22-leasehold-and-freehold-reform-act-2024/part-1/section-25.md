@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Power to amend: permitted leases and definitions[^key-f851120a85ff08933b370e4d39da1bbd]
+## 25. Power to amend: permitted leases and definitions[^c-f851120a85ff08933b370e4d39da1bbd]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ is subject to the affirmative procedure.
 
 ## Annotations
 
-[^key-f851120a85ff08933b370e4d39da1bbd]: Commencement: S. 25 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-f851120a85ff08933b370e4d39da1bbd]: Commencement: S. 25 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Recall of sequestration by Accountant in Bankruptcy: review and appeal[^key-a685b5edd44354a2dda3f3da13c4d5fa]
+## 37. Recall of sequestration by Accountant in Bankruptcy: review and appeal[^c-a685b5edd44354a2dda3f3da13c4d5fa]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a685b5edd44354a2dda3f3da13c4d5fa]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2016/21/section/37) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-a685b5edd44354a2dda3f3da13c4d5fa]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2016/21/section/37) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

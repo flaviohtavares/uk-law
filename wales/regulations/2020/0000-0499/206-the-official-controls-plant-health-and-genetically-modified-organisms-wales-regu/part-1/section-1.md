@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Title, application and commencement[^key-72da94e74b81363702e213b062809275]
+## 1. Title, application and commencement[^c-72da94e74b81363702e213b062809275]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The title of these Regulations is the Official Controls (Plant Health and Geneti
 
 ## Annotations
 
-[^key-72da94e74b81363702e213b062809275]: Commencement: Reg. 1 in force at 27.3.2020, see reg. 1
+[^c-72da94e74b81363702e213b062809275]: Commencement: Reg. 1 in force at 27.3.2020, see reg. 1

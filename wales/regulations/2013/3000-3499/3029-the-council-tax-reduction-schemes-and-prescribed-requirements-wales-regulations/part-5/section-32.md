@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Provision for pensioners[^key-c9b052594b73035e32da0d03a85f62ee]
+## 32. Provision for pensioners[^c-c9b052594b73035e32da0d03a85f62ee]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9b052594b73035e32da0d03a85f62ee]: Commencement: Reg. 32 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-c9b052594b73035e32da0d03a85f62ee]: Commencement: Reg. 32 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Application and modification of legislative provisions[^key-fd59941b926d81968b151d653e480f7f]
+## 43. Application and modification of legislative provisions[^c-fd59941b926d81968b151d653e480f7f]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ Regulation 6 of the Hedgerows Regulations 1997 is to be modified so as to read f
 
 ## Annotations
 
-[^key-fd59941b926d81968b151d653e480f7f]: Commencement: Art. 43 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
+[^c-fd59941b926d81968b151d653e480f7f]: Commencement: Art. 43 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)

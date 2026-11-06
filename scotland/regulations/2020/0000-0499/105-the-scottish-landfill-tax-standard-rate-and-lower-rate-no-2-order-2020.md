@@ -32,7 +32,7 @@ summary: ''
 
 Landfill Tax
 
-The Scottish Landfill Tax (Standard Rate and Lower Rate) (No. 2) Order 2020 (revoked)[^key-12748ef0141447318fea7238abcc845c]
+The Scottish Landfill Tax (Standard Rate and Lower Rate) (No. 2) Order 2020 (revoked)[^c-12748ef0141447318fea7238abcc845c]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st April 2020
 
-[^key-12748ef0141447318fea7238abcc845c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12748ef0141447318fea7238abcc845c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-12748ef0141447318fea7238abcc845c]
+## 1. Citation, commencement and application[^c-12748ef0141447318fea7238abcc845c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Rates of Scottish landfill tax[^key-12748ef0141447318fea7238abcc845c]
+## 2. Rates of Scottish landfill tax[^c-12748ef0141447318fea7238abcc845c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-12748ef0141447318fea7238abcc845c]
+## 3. Revocation[^c-12748ef0141447318fea7238abcc845c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-12748ef0141447318fea7238abcc845c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12748ef0141447318fea7238abcc845c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-12748ef0141447318fea7238abcc845c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12748ef0141447318fea7238abcc845c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-12748ef0141447318fea7238abcc845c]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2020/105) revoked (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Landfill Tax (Standard Rate and Lower Rate) Order 2021 (S.S.I. 2021/89)](https://www.legislation.gov.uk/ssi/2021/89), [art. 3](https://www.legislation.gov.uk/ssi/2021/89/article/3)
+[^c-12748ef0141447318fea7238abcc845c]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2020/105) revoked (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Landfill Tax (Standard Rate and Lower Rate) Order 2021 (S.S.I. 2021/89)](https://www.legislation.gov.uk/ssi/2021/89), [art. 3](https://www.legislation.gov.uk/ssi/2021/89/article/3)

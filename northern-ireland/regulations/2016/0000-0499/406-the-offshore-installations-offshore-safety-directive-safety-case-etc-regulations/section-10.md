@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Other provisions as to verification schemes[^key-23832e7b9ba6375a1e340159d4c38146]
+## 10. Other provisions as to verification schemes[^c-23832e7b9ba6375a1e340159d4c38146]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23832e7b9ba6375a1e340159d4c38146]: Commencement: Reg. 10 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-23832e7b9ba6375a1e340159d4c38146]: Commencement: Reg. 10 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

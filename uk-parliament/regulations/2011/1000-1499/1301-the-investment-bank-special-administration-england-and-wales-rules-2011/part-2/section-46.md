@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Costs[^key-694e913a830a9261756350fa3cccb9a4]
+## 46. Costs[^c-694e913a830a9261756350fa3cccb9a4]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ If the court makes a special administration (bank administration) order, the fol
 
 ## Annotations
 
-[^key-694e913a830a9261756350fa3cccb9a4]: Commencement: [Rule 46](https://www.legislation.gov.uk/uksi/2011/1301/rule/46) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-694e913a830a9261756350fa3cccb9a4]: Commencement: [Rule 46](https://www.legislation.gov.uk/uksi/2011/1301/rule/46) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

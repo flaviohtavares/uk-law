@@ -24,7 +24,7 @@ Section 44
 
 ### Consequences of a pause order
 
-**1.**[^c24494301][^key-9a13b121557ef810ab98e8b7b11ef3b2] (1) If a pause order is made in relation to a collective money purchase scheme, any action taken in contravention of the order is void, except to the extent that the action is validated by an order under paragraph 3.
+**1.**[^c24494301][^c-9a13b121557ef810ab98e8b7b11ef3b2] (1) If a pause order is made in relation to a collective money purchase scheme, any action taken in contravention of the order is void, except to the extent that the action is validated by an order under paragraph 3.
 
 (2) If a pause order contains a direction under section 44(5)(b) that no further payments (or no further payments of a specified description) are to be made towards a scheme during the period for which the order has effect—
 
@@ -72,7 +72,7 @@ in their application to a collective money purchase scheme in relation to which 
 
 ### Period of effect etc of pause order
 
-**2.**[^c24494311][^key-3a887c278df2361b65f16c81db422cab] (1) A pause order must specify the period for which it has effect, which must not exceed three months.
+**2.**[^c24494311][^c-3a887c278df2361b65f16c81db422cab] (1) A pause order must specify the period for which it has effect, which must not exceed three months.
 
 (2) The Pensions Regulator may on one or more occasions by order extend the period for which the pause order has effect for a further three months.
 
@@ -80,7 +80,7 @@ in their application to a collective money purchase scheme in relation to which 
 
 ### Validation of action in contravention of pause order
 
-**3.**[^c24494321][^key-2de119fa492568bb1f3b05f484d3ab5c] (1) If a pause order is made in relation to a collective money purchase scheme, the Pensions Regulator may by order validate action taken in contravention of the order.
+**3.**[^c24494321][^c-2de119fa492568bb1f3b05f484d3ab5c] (1) If a pause order is made in relation to a collective money purchase scheme, the Pensions Regulator may by order validate action taken in contravention of the order.
 
 (2) Any of the following persons may apply to the Regulator for an order under this paragraph validating particular action—
 
@@ -89,7 +89,7 @@ in their application to a collective money purchase scheme in relation to which 
 
 ### Notification of trustees, employers and members
 
-**4.**[^c24494331][^key-c26f7e9fa9e738981528005e7a8ff8de] (1) This paragraph applies where—
+**4.**[^c24494331][^c-c26f7e9fa9e738981528005e7a8ff8de] (1) This paragraph applies where—
 
 - (a) a pause order is made in relation to a collective money purchase scheme,
 - (b) an order is made under paragraph 2(2) extending the period for which a pause order made in relation to a collective money purchase scheme has effect, or
@@ -101,7 +101,7 @@ in their application to a collective money purchase scheme in relation to which 
 
 - (a) all of the members of the scheme or such members as are of a description specified in the order;
 - (b) all employers by which the scheme is used, or such employers as are of a description specified in the order;
-- (c) where the scheme is a single or connected employer scheme,[^key-fe4ade250652d5b08bd65bd58dc127e8] all relevant former employers who, but for the pause order, would be liable to make payments towards the scheme, or such of them as are of a description specified in the order.
+- (c) where the scheme is a single or connected employer scheme,[^c-fe4ade250652d5b08bd65bd58dc127e8] all relevant former employers who, but for the pause order, would be liable to make payments towards the scheme, or such of them as are of a description specified in the order.
 
 (4) The trustees must give the notification within the period and in the manner specified in the order under sub-paragraph (3).
 
@@ -109,7 +109,7 @@ in their application to a collective money purchase scheme in relation to which 
 
 ### Supplementary
 
-**5.**[^c24494341][^key-5b2e2d13e6af39d7e521a2f3311f2207] (1) A pause order, or an order made under any of paragraphs 2, 3 and 4, may be made in relation to a collective money purchase scheme—
+**5.**[^c24494341][^c-5b2e2d13e6af39d7e521a2f3311f2207] (1) A pause order, or an order made under any of paragraphs 2, 3 and 4, may be made in relation to a collective money purchase scheme—
 
 - (a) in spite of any enactment or rule of law, or any rule of the scheme, that would otherwise operate to prevent the order being made, and
 - (b) without regard to any enactment, rule of law or rule of the scheme that would otherwise require, or might otherwise be taken to require, the implementation of any procedure or the obtaining of any consent, with a view to making the order.
@@ -120,22 +120,22 @@ in their application to a collective money purchase scheme in relation to which 
 
 [^c24494301]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2021/1/schedule/2/paragraph/1) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-9a13b121557ef810ab98e8b7b11ef3b2]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2021/1/schedule/2/paragraph/1) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-9a13b121557ef810ab98e8b7b11ef3b2]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2021/1/schedule/2/paragraph/1) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
 
 [^c24494311]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2021/1/schedule/2/paragraph/2) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-3a887c278df2361b65f16c81db422cab]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2021/1/schedule/2/paragraph/2) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-3a887c278df2361b65f16c81db422cab]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2021/1/schedule/2/paragraph/2) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
 
 [^c24494321]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2021/1/schedule/2/paragraph/3) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-2de119fa492568bb1f3b05f484d3ab5c]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2021/1/schedule/2/paragraph/3) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-2de119fa492568bb1f3b05f484d3ab5c]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2021/1/schedule/2/paragraph/3) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
 
 [^c24494331]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2021/1/schedule/2/paragraph/4) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-c26f7e9fa9e738981528005e7a8ff8de]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2021/1/schedule/2/paragraph/4) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-c26f7e9fa9e738981528005e7a8ff8de]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2021/1/schedule/2/paragraph/4) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
 
-[^key-fe4ade250652d5b08bd65bd58dc127e8]: Textual amendment: Words in [Sch. 2 para. 4(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/2/paragraph/4/3/c) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [17(5)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/17/5)
+[^c-fe4ade250652d5b08bd65bd58dc127e8]: Textual amendment: Words in [Sch. 2 para. 4(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/2/paragraph/4/3/c) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [17(5)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/17/5)
 
 [^c24494341]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2021/1/schedule/2/paragraph/5) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-5b2e2d13e6af39d7e521a2f3311f2207]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2021/1/schedule/2/paragraph/5) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-5b2e2d13e6af39d7e521a2f3311f2207]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2021/1/schedule/2/paragraph/5) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)

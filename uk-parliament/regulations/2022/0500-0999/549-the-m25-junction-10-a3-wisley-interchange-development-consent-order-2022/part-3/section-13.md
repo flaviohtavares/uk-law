@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Classification of roads, etc.[^key-c0b3c519583ea933200b8c2d0870da51]
+## 13. Classification of roads, etc.[^c-c0b3c519583ea933200b8c2d0870da51]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ as if such classification had been made under section 12(3) (general provision a
 
 ## Annotations
 
-[^key-c0b3c519583ea933200b8c2d0870da51]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/uksi/2022/549/article/13) substituted (19.1.2023) by [The M25 Junction 10/A3 Wisley Interchange Development Consent (Correction) Order 2023 (S.I. 2023/46)](https://www.legislation.gov.uk/uksi/2023/46), [arts. 1](https://www.legislation.gov.uk/uksi/2023/46/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/46/article/2/4)
+[^c-c0b3c519583ea933200b8c2d0870da51]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/uksi/2022/549/article/13) substituted (19.1.2023) by [The M25 Junction 10/A3 Wisley Interchange Development Consent (Correction) Order 2023 (S.I. 2023/46)](https://www.legislation.gov.uk/uksi/2023/46), [arts. 1](https://www.legislation.gov.uk/uksi/2023/46/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/46/article/2/4)

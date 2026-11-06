@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Provision of information to the Secretary of State[^key-9f7100cc1892287fcf0ec1a87669ef4f]
+## 83. Provision of information to the Secretary of State[^c-9f7100cc1892287fcf0ec1a87669ef4f]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where the postal administration ends pursuant to paragraph 79, 83 or 84 the post
 
 ## Annotations
 
-[^key-9f7100cc1892287fcf0ec1a87669ef4f]: Commencement: [Rule 83](https://www.legislation.gov.uk/uksi/2013/3208/rule/83) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-9f7100cc1892287fcf0ec1a87669ef4f]: Commencement: [Rule 83](https://www.legislation.gov.uk/uksi/2013/3208/rule/83) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

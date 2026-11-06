@@ -22,7 +22,7 @@ summary: ''
 
 Article 42
 
-### 1. Interpretation[^key-f855d23dfa6c5e03ee59998527b7a351]
+### 1. Interpretation[^c-f855d23dfa6c5e03ee59998527b7a351]
 
 In this Schedule—
 
@@ -30,7 +30,7 @@ In this Schedule—
 - “**relevant authority**” means any authority or body named in any of the provisions of this Order and whose consent, agreement or approval is sought; and
 - “**requirement consultee**” means any body or authority named in a Requirement as a body to be consulted by the relevant planning authority in discharging that Requirement.
 
-### 2. Applications made under Requirements[^key-e4dc3a54468f39b2a9b2744c77eb42dc]
+### 2. Applications made under Requirements[^c-e4dc3a54468f39b2a9b2744c77eb42dc]
 
 (1) Where an application has been made to the relevant authority for any consent, agreement or approval required or contemplated by any of the provisions of this Order (including consent, agreement or approval in respect of part of a Requirement) the relevant authority must give notice to the undertaker of their decision on the application within—
 
@@ -47,7 +47,7 @@ In this Schedule—
 
 then the application is to be taken to have been refused by the relevant authority at the end of that period.
 
-### 3. Further information and consultation[^key-815bee3fbe400b5017c741ea677e779c]
+### 3. Further information and consultation[^c-815bee3fbe400b5017c741ea677e779c]
 
 (1) In relation to any application to which this Schedule applies, the relevant authority may request such reasonable further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -59,7 +59,7 @@ then the application is to be taken to have been refused by the relevant authori
 
 (5) Where further information is requested under this paragraph in relation to part only of an application, that part is to be treated as separate from the remainder of the application for the purposes of calculating time periods in paragraph 2(1)(b), paragraph 2(3) and paragraph 3.
 
-### 4. Fees[^key-e8d48b5fa2b11e8327385ea3cc2e5bcd]
+### 4. Fees[^c-e8d48b5fa2b11e8327385ea3cc2e5bcd]
 
 (1) Where an application is made to the relevant planning authority for written consent, agreement or approval in respect of a Requirement, the fee contained in regulation 16(1)(b) of the Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) Regulations 2012 [^c23896001] (as may be amended or replaced from time to time) is to apply and must be paid to that authority for each application.
 
@@ -70,7 +70,7 @@ then the application is to be taken to have been refused by the relevant authori
   - (i) within that period the undertaker agrees, in writing, that the fee is to be retained by the relevant planning authority and credited in respect of a future application; or
   - (ii) a longer period of time for determining the application has been agreed pursuant to paragraph 2(1)(c) of this Schedule.
 
-### 5. Appeals[^key-c91f61067ce880d3a7f30bc1336447fe]
+### 5. Appeals[^c-c91f61067ce880d3a7f30bc1336447fe]
 
 (1) The undertaker may appeal in the event that—
 
@@ -114,16 +114,16 @@ and may deal with the application as if it had been made to him in the first ins
 
 ## Annotations
 
-[^key-f855d23dfa6c5e03ee59998527b7a351]: Commencement: Sch. 11 para. 1 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-f855d23dfa6c5e03ee59998527b7a351]: Commencement: Sch. 11 para. 1 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
 
 [^c23895991]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-e4dc3a54468f39b2a9b2744c77eb42dc]: Commencement: Sch. 11 para. 2 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-e4dc3a54468f39b2a9b2744c77eb42dc]: Commencement: Sch. 11 para. 2 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
 
-[^key-815bee3fbe400b5017c741ea677e779c]: Commencement: Sch. 11 para. 3 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-815bee3fbe400b5017c741ea677e779c]: Commencement: Sch. 11 para. 3 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
 
-[^key-e8d48b5fa2b11e8327385ea3cc2e5bcd]: Commencement: Sch. 11 para. 4 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-e8d48b5fa2b11e8327385ea3cc2e5bcd]: Commencement: Sch. 11 para. 4 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
 
 [^c23896001]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2019/1315/section/I) 2012/2920, amended by S.I 2013/2153 and S.I 2014/357 and S/I 2014/2026.
 
-[^key-c91f61067ce880d3a7f30bc1336447fe]: Commencement: Sch. 11 para. 5 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-c91f61067ce880d3a7f30bc1336447fe]: Commencement: Sch. 11 para. 5 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)

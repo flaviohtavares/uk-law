@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Amendment of article 9[^key-6a4dea48339e089e27b16b770f88e5a9]
+## 14. Amendment of article 9[^c-6a4dea48339e089e27b16b770f88e5a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a4dea48339e089e27b16b770f88e5a9]: Commencement: Reg. 14 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-6a4dea48339e089e27b16b770f88e5a9]: Commencement: Reg. 14 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

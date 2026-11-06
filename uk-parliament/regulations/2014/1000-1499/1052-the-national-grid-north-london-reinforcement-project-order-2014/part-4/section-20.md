@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Temporary closure of, and works in, the canal[^key-952650ebd6de19996562cdc2d65655a4]
+## 20. Temporary closure of, and works in, the canal[^c-952650ebd6de19996562cdc2d65655a4]
 
 *Extent: E+W+S*
 
@@ -55,6 +55,6 @@ shall be entitled to be paid compensation for such loss and damage by the undert
 
 ## Annotations
 
-[^key-952650ebd6de19996562cdc2d65655a4]: Commencement: Art. 20 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
+[^c-952650ebd6de19996562cdc2d65655a4]: Commencement: Art. 20 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
 
 [^f00017]: Footnote: The functions of the British Waterways Board were transferred to Canal and River Trust by the British Waterways Board (Transfer of Functions) Order 2012.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Authorisation for development by local authorities and statutory undertakers[^key-0ae37cc0b942e30d4d4539f282c8f59c]
+## 87. Authorisation for development by local authorities and statutory undertakers[^c-0ae37cc0b942e30d4d4539f282c8f59c]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ae37cc0b942e30d4d4539f282c8f59c]: Commencement: S. 87 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-0ae37cc0b942e30d4d4539f282c8f59c]: Commencement: S. 87 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

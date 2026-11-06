@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Appointment of manager[^key-9d585223014c7020b8aedb5eedeb85f6]
+## 14. Appointment of manager[^c-9d585223014c7020b8aedb5eedeb85f6]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d585223014c7020b8aedb5eedeb85f6]: Commencement: Reg. 14 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-9d585223014c7020b8aedb5eedeb85f6]: Commencement: Reg. 14 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)

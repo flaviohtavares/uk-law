@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Repeal of Schedule 3A[^key-7677cd0c751eb314ecc47d2798c83443]
+## 48. Repeal of Schedule 3A[^c-7677cd0c751eb314ecc47d2798c83443]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ Schedule 3A[^f00013] (continuing professional development cases) is hereby repea
 
 ## Annotations
 
-[^key-7677cd0c751eb314ecc47d2798c83443]: Commencement: Art. 48 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-7677cd0c751eb314ecc47d2798c83443]: Commencement: Art. 48 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
 
 [^f00013]: Footnote: Schedule 3A was inserted by S.I. [2001/3926](https://www.legislation.gov.uk/uksi/2001/3926).

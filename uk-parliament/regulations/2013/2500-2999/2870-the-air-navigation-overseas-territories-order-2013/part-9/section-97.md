@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Training programme[^key-9be47af03725368b90a6790fe11b0cb1]
+## 97. Training programme[^c-9be47af03725368b90a6790fe11b0cb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9be47af03725368b90a6790fe11b0cb1]: Commencement: [Art. 97](https://www.legislation.gov.uk/uksi/2013/2870/article/97) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-9be47af03725368b90a6790fe11b0cb1]: Commencement: [Art. 97](https://www.legislation.gov.uk/uksi/2013/2870/article/97) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

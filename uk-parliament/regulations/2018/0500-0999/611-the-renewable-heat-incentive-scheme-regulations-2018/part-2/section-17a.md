@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17A. Environmental permits and declaration of compliance[^key-d442c4b5b4e97c2d14b79e0584f4f1ee]
+## 17A. Environmental permits and declaration of compliance[^c-d442c4b5b4e97c2d14b79e0584f4f1ee]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ The requirements referred to in regulation 4(1)(b)(iii) are that, where an appli
 
 ## Annotations
 
-[^key-d442c4b5b4e97c2d14b79e0584f4f1ee]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2018/611/regulation/17A) inserted (1.10.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/4), [13](https://www.legislation.gov.uk/uksi/2018/635/regulation/13)
+[^c-d442c4b5b4e97c2d14b79e0584f4f1ee]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2018/611/regulation/17A) inserted (1.10.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/4), [13](https://www.legislation.gov.uk/uksi/2018/635/regulation/13)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Short title[^key-1873df3223352c79de846967b0ca87ae]
+## 6. Short title[^c-1873df3223352c79de846967b0ca87ae]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ This Act may be referred to as—
 
 ## Annotations
 
-[^key-1873df3223352c79de846967b0ca87ae]: Commencement: S. 6 in force at 28.4.2026, see [s. 5(1)(e)](https://www.legislation.gov.uk/asc/2026/7/section/5/1/e)
+[^c-1873df3223352c79de846967b0ca87ae]: Commencement: S. 6 in force at 28.4.2026, see [s. 5(1)(e)](https://www.legislation.gov.uk/asc/2026/7/section/5/1/e)

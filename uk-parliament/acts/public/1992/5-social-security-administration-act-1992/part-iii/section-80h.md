@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80H. Recovery: further provision[^key-1823e6b8ef65d9d8ab8ecf7e711a8dac]
+## 80H. Recovery: further provision[^c-1823e6b8ef65d9d8ab8ecf7e711a8dac]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1823e6b8ef65d9d8ab8ecf7e711a8dac]: Textual amendment: S. 80H inserted (24.6.2026) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 100](https://www.legislation.gov.uk/ukpga/2025/28/section/100), [109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/e)
+[^c-1823e6b8ef65d9d8ab8ecf7e711a8dac]: Textual amendment: S. 80H inserted (24.6.2026) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 100](https://www.legislation.gov.uk/ukpga/2025/28/section/100), [109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Maintenance of privileges of other certificates and ratings specified in Chapter 1 or Chapter 2 of Part 2 of Schedule 8[^key-efebbcf7a8ae3153ecd6e5546150c742]
+## 156. Maintenance of privileges of other certificates and ratings specified in Chapter 1 or Chapter 2 of Part 2 of Schedule 8[^c-efebbcf7a8ae3153ecd6e5546150c742]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-efebbcf7a8ae3153ecd6e5546150c742]: Textual amendment: Words in [art. 156](https://www.legislation.gov.uk/uksi/2016/765/article/156) heading inserted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [10](https://www.legislation.gov.uk/uksi/2025/850/article/10)
+[^c-efebbcf7a8ae3153ecd6e5546150c742]: Textual amendment: Words in [art. 156](https://www.legislation.gov.uk/uksi/2016/765/article/156) heading inserted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [10](https://www.legislation.gov.uk/uksi/2025/850/article/10)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 227. Control of advertisements regulations: supplementary[^key-a8069b7b3c23bf9f983266ad8c439fa9]
+## 227. Control of advertisements regulations: supplementary[^c-a8069b7b3c23bf9f983266ad8c439fa9]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8069b7b3c23bf9f983266ad8c439fa9]: Commencement: S. 227 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-a8069b7b3c23bf9f983266ad8c439fa9]: Commencement: S. 227 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

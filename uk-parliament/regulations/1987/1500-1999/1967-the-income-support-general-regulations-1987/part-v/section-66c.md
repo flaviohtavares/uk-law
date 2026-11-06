@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 66C. Treatment of fee loans[^key-3fad31c1b9c07c50129c8c4b27062266]
+## 66C. Treatment of fee loans[^c-3fad31c1b9c07c50129c8c4b27062266]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ A loan for fees, known as a fee loan or a fee contribution loan, made pursuant t
 
 ## Annotations
 
-[^key-3fad31c1b9c07c50129c8c4b27062266]: Textual amendment: [Reg. 66C](https://www.legislation.gov.uk/uksi/1987/1967/regulation/66C) inserted (1.8.2006 for specified purposes and, 1.9.2006 in so far as not already in force) by [The Social Security (Students and Income-related Benefits) Amendment Regulations 2006 (S.I. 2006/1752)](https://www.legislation.gov.uk/uksi/2006/1752), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1752/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2006/1752/regulation/4/4)
+[^c-3fad31c1b9c07c50129c8c4b27062266]: Textual amendment: [Reg. 66C](https://www.legislation.gov.uk/uksi/1987/1967/regulation/66C) inserted (1.8.2006 for specified purposes and, 1.9.2006 in so far as not already in force) by [The Social Security (Students and Income-related Benefits) Amendment Regulations 2006 (S.I. 2006/1752)](https://www.legislation.gov.uk/uksi/2006/1752), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1752/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2006/1752/regulation/4/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 205. Mandatory use of electronic communications[^key-4557bb47c8f96a3dd81c9050cf918358]
+## 205. Mandatory use of electronic communications[^c-4557bb47c8f96a3dd81c9050cf918358]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4557bb47c8f96a3dd81c9050cf918358]: Textual amendment: Reg. 205 substituted for regs. 205, 205A, 205B (6.4.2011 in relation to the tax year 2011-12 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2010 (S.I. 2010/668)](https://www.legislation.gov.uk/uksi/2010/668), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2010/668/regulation/1/4), [8](https://www.legislation.gov.uk/uksi/2010/668/regulation/8)
+[^c-4557bb47c8f96a3dd81c9050cf918358]: Textual amendment: Reg. 205 substituted for regs. 205, 205A, 205B (6.4.2011 in relation to the tax year 2011-12 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2010 (S.I. 2010/668)](https://www.legislation.gov.uk/uksi/2010/668), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2010/668/regulation/1/4), [8](https://www.legislation.gov.uk/uksi/2010/668/regulation/8)

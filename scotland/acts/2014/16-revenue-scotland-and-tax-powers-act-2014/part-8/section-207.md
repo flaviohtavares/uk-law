@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 207. Enforcement of tax-related penalty[^key-697139ed722556623ff1031ed342bfa4]
+## 207. Enforcement of tax-related penalty[^c-697139ed722556623ff1031ed342bfa4]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-697139ed722556623ff1031ed342bfa4]: Commencement: [S. 207](https://www.legislation.gov.uk/asp/2014/16/section/207) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-697139ed722556623ff1031ed342bfa4]: Commencement: [S. 207](https://www.legislation.gov.uk/asp/2014/16/section/207) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

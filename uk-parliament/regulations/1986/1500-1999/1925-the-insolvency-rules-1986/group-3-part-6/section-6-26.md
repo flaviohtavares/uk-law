@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.26. Non-appearance of creditor[^key-037e0603a35226b131ed54b1f2bfa77f]
+## 6.26. Non-appearance of creditor[^c-037e0603a35226b131ed54b1f2bfa77f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If the petitioning creditor fails to appear on the hearing of the petition, no s
 
 ## Annotations
 
-[^key-037e0603a35226b131ed54b1f2bfa77f]: Commencement: [Rule 6.26](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.26) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-037e0603a35226b131ed54b1f2bfa77f]: Commencement: [Rule 6.26](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.26) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

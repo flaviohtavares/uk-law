@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Variation and withdrawal of enforcement notice[^key-dfe7fb26ea4c4d57e6f549e58cbacd8e][^key-b77b6fef1acede57cab93b13e63f947e]
+## 37. Variation and withdrawal of enforcement notice[^c-dfe7fb26ea4c4d57e6f549e58cbacd8e][^c-b77b6fef1acede57cab93b13e63f947e]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dfe7fb26ea4c4d57e6f549e58cbacd8e]: Commencement: S. 37 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-dfe7fb26ea4c4d57e6f549e58cbacd8e]: Commencement: S. 37 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-b77b6fef1acede57cab93b13e63f947e]: Commencement: [S. 37](https://www.legislation.gov.uk/asc/2023/3/section/37) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-b77b6fef1acede57cab93b13e63f947e]: Commencement: [S. 37](https://www.legislation.gov.uk/asc/2023/3/section/37) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

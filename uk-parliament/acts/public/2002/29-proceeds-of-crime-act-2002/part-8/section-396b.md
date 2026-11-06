@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 396B. Requirements for making of unexplained wealth order[^key-12fa3c3db09cc1fc5e8b6c9bc3499d12]
+## 396B. Requirements for making of unexplained wealth order[^c-12fa3c3db09cc1fc5e8b6c9bc3499d12]
 
 *Extent: S*
 
@@ -27,9 +27,9 @@ summary: ''
 - (a) the respondent holds the property, and
 - (b) the value of the property is greater than £50,000.
 
-(3) The Court of Session must be satisfied that there are reasonable grounds for suspecting —[^key-6a0065f09191abe7fe8b598b2a59731d]
+(3) The Court of Session must be satisfied that there are reasonable grounds for suspecting —[^c-6a0065f09191abe7fe8b598b2a59731d]
 
-- (a) that the known sources of the respondent's lawfully obtained income would have been insufficient for the purposes of enabling the respondent to obtain the property, or[^key-70ec298ba62f5abcd563eb04340e2428]
+- (a) that the known sources of the respondent's lawfully obtained income would have been insufficient for the purposes of enabling the respondent to obtain the property, or[^c-70ec298ba62f5abcd563eb04340e2428]
 - (b) that the property has been obtained through unlawful conduct (within the meaning given by section 242).
 
 (4) The Court of Session must be satisfied that—
@@ -54,7 +54,7 @@ summary: ''
 
 (7) In subsection (4)(a), “**politically exposed person**” means a person who is—
 
-- (a) an individual who is, or has been, entrusted with prominent public functions by an international organisation or by a State other than —[^key-1a984646c0a652f62bb936e455c066c3]
+- (a) an individual who is, or has been, entrusted with prominent public functions by an international organisation or by a State other than —[^c-1a984646c0a652f62bb936e455c066c3]
   - (i) the United Kingdom, or
   - (ii) an EEA state,
 - (b) a family member of a person within paragraph (a),
@@ -76,10 +76,10 @@ summary: ''
 
 ## Annotations
 
-[^key-12fa3c3db09cc1fc5e8b6c9bc3499d12]: Textual amendment: Ss. 396A-396I and cross-heading inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 4](https://www.legislation.gov.uk/ukpga/2017/22/section/4), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/a)
+[^c-12fa3c3db09cc1fc5e8b6c9bc3499d12]: Textual amendment: Ss. 396A-396I and cross-heading inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 4](https://www.legislation.gov.uk/ukpga/2017/22/section/4), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/a)
 
-[^key-6a0065f09191abe7fe8b598b2a59731d]: Textual amendment: Word in [s. 396B(3)](https://www.legislation.gov.uk/ukpga/2002/29/section/396B/3/a) inserted (15.5.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 48(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/48/a), [69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1); [S.I. 2022/519](https://www.legislation.gov.uk/uksi/2022/519), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/519/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2022/519/regulation/2)
+[^c-6a0065f09191abe7fe8b598b2a59731d]: Textual amendment: Word in [s. 396B(3)](https://www.legislation.gov.uk/ukpga/2002/29/section/396B/3/a) inserted (15.5.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 48(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/48/a), [69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1); [S.I. 2022/519](https://www.legislation.gov.uk/uksi/2022/519), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/519/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2022/519/regulation/2)
 
-[^key-70ec298ba62f5abcd563eb04340e2428]: Textual amendment: [S. 396B(3)(b)](https://www.legislation.gov.uk/ukpga/2002/29/section/396B/3/b) and word inserted (15.5.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 48(b)](https://www.legislation.gov.uk/ukpga/2022/10/section/48/b), [69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1); [S.I. 2022/519](https://www.legislation.gov.uk/uksi/2022/519), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/519/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2022/519/regulation/2)
+[^c-70ec298ba62f5abcd563eb04340e2428]: Textual amendment: [S. 396B(3)(b)](https://www.legislation.gov.uk/ukpga/2002/29/section/396B/3/b) and word inserted (15.5.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 48(b)](https://www.legislation.gov.uk/ukpga/2022/10/section/48/b), [69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1); [S.I. 2022/519](https://www.legislation.gov.uk/uksi/2022/519), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/519/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2022/519/regulation/2)
 
-[^key-1a984646c0a652f62bb936e455c066c3]: Textual amendment: S. 396B(7)(a)(i)(ii) substituted for words (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [107(10)](https://www.legislation.gov.uk/uksi/2019/742/regulation/107/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1a984646c0a652f62bb936e455c066c3]: Textual amendment: S. 396B(7)(a)(i)(ii) substituted for words (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [107(10)](https://www.legislation.gov.uk/uksi/2019/742/regulation/107/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

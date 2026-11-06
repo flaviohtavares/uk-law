@@ -16,23 +16,23 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Notices[^key-d36a2a6f2f6cba1d65cf3e52b240491f]
+## 93. Notices[^c-d36a2a6f2f6cba1d65cf3e52b240491f]
 
 *Extent: E+W*
 
 (1) This section applies in relation to notices required or authorised to be given to any person by any of the following—
 
 - (a) section 57(1) and (2);
-- (aa)[^key-952a48938f0638e20e623ca7a9a9412f] section 57A(2) and (4);
+- (aa)[^c-952a48938f0638e20e623ca7a9a9412f] section 57A(2) and (4);
 - (ab) section 61C(1);
 - (b) section 65(1) and (2);
-- (ba)[^key-8106f580752c781698a7ff3641bbdf86] section 65A(1) and (3);
+- (ba)[^c-8106f580752c781698a7ff3641bbdf86] section 65A(1) and (3);
 - (c) section 70(1);
 - (d) section 73(2), (4), (5), (7) and (9).
 
 (2) The notice may be given to the person in question—
 
-- (a) by delivering it to the person[^key-31e9f6eb246ae019eca0482fa24933dc],
+- (a) by delivering it to the person[^c-31e9f6eb246ae019eca0482fa24933dc],
 - (b) by sending it by post, or
 - (c) subject to subsection (3), by transmitting it electronically.
 
@@ -40,8 +40,8 @@ summary: ''
 
 (4) If the person required or authorised to give the notice is the Chief Inspector—
 
-- (a) the person to whom the notice is required or authorised to be given must have indicated to the Chief Inspector a[^key-b73be50f701cb4344c5eae2878ca3db2] willingness to receive notices transmitted by electronic means and provided an address suitable for that purpose, and
-- (b) the notice must be sent to the address provided [^key-1f2f6037bfb4b2008300813acc69b3df]....
+- (a) the person to whom the notice is required or authorised to be given must have indicated to the Chief Inspector a[^c-b73be50f701cb4344c5eae2878ca3db2] willingness to receive notices transmitted by electronic means and provided an address suitable for that purpose, and
+- (b) the notice must be sent to the address provided [^c-1f2f6037bfb4b2008300813acc69b3df]....
 
 (5) If the person required or authorised to give the notice is not the Chief Inspector, the notice must be transmitted in such manner as the Chief Inspector may require.
 
@@ -53,14 +53,14 @@ summary: ''
 
 ## Annotations
 
-[^key-d36a2a6f2f6cba1d65cf3e52b240491f]: Commencement: S. 93 in force at 6.4.2007 by [S.I. 2007/1019](https://www.legislation.gov.uk/uksi/2007/1019), [art. 4](https://www.legislation.gov.uk/uksi/2007/1019/article/4)
+[^c-d36a2a6f2f6cba1d65cf3e52b240491f]: Commencement: S. 93 in force at 6.4.2007 by [S.I. 2007/1019](https://www.legislation.gov.uk/uksi/2007/1019), [art. 4](https://www.legislation.gov.uk/uksi/2007/1019/article/4)
 
-[^key-952a48938f0638e20e623ca7a9a9412f]: Textual amendment: S. 93(1)(aa)(ab) inserted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 60(2)(a)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/60/2/a); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
+[^c-952a48938f0638e20e623ca7a9a9412f]: Textual amendment: S. 93(1)(aa)(ab) inserted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 60(2)(a)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/60/2/a); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
 
-[^key-8106f580752c781698a7ff3641bbdf86]: Textual amendment: S. 93(1)(ba) inserted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 60(2)(a)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/60/2/a); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
+[^c-8106f580752c781698a7ff3641bbdf86]: Textual amendment: S. 93(1)(ba) inserted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 60(2)(a)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/60/2/a); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
 
-[^key-31e9f6eb246ae019eca0482fa24933dc]: Textual amendment: Words in s. 93(2)(a) substituted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 60(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/60/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
+[^c-31e9f6eb246ae019eca0482fa24933dc]: Textual amendment: Words in s. 93(2)(a) substituted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 60(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/60/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
 
-[^key-b73be50f701cb4344c5eae2878ca3db2]: Textual amendment: Word in s. 93(4)(a) substituted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 60(4)(a)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/60/4/a); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
+[^c-b73be50f701cb4344c5eae2878ca3db2]: Textual amendment: Word in s. 93(4)(a) substituted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 60(4)(a)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/60/4/a); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
 
-[^key-1f2f6037bfb4b2008300813acc69b3df]: Textual amendment: Words in s. 93(4)(b) omitted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 60(4)(b)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/60/4/b); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
+[^c-1f2f6037bfb4b2008300813acc69b3df]: Textual amendment: Words in s. 93(4)(b) omitted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 60(4)(b)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/60/4/b); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)

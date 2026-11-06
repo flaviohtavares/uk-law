@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49. Insolvent schemes.[^key-4b375d2a5886a59f1fca5446026831fa]
+## 49. Insolvent schemes.[^c-4b375d2a5886a59f1fca5446026831fa]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b375d2a5886a59f1fca5446026831fa]: Textual amendment: Regs. 49-61 revoked (6.4.2016) by [The Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015 (S.I. 2015/1677)](https://www.legislation.gov.uk/uksi/2015/1677), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/1/2/b), [31(e)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/31/e)
+[^c-4b375d2a5886a59f1fca5446026831fa]: Textual amendment: Regs. 49-61 revoked (6.4.2016) by [The Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015 (S.I. 2015/1677)](https://www.legislation.gov.uk/uksi/2015/1677), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/1/2/b), [31(e)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/31/e)

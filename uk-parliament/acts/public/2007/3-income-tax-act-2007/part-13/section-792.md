@@ -53,12 +53,12 @@ the firm's trades are taken together for the purpose of determining whether a ch
 
 See section 794(6) for modifications giving effect to this.
 
-(7) References in this section to an individual being a partner in a firm include a reference to an individual being a limited partner within the meaning of section 103A[^key-b781f0ea37be61f2dcad8f06751a5666] as a result of subsection (1)(c) of that section.
+(7) References in this section to an individual being a partner in a firm include a reference to an individual being a limited partner within the meaning of section 103A[^c-b781f0ea37be61f2dcad8f06751a5666] as a result of subsection (1)(c) of that section.
 
-(8) And, accordingly, in the case of an individual who is such a limited partner, in this section and in sections 793 to 795 references to the individual's firm are references to the relationship between the individual and the other persons mentioned in section 103A(3)(a)[^key-5d8d24fcb4e43182b3c892698b7a51d4].
+(8) And, accordingly, in the case of an individual who is such a limited partner, in this section and in sections 793 to 795 references to the individual's firm are references to the relationship between the individual and the other persons mentioned in section 103A(3)(a)[^c-5d8d24fcb4e43182b3c892698b7a51d4].
 
 ## Annotations
 
-[^key-b781f0ea37be61f2dcad8f06751a5666]: Textual amendment: Word in s. 792(7) substituted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 17(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/17/a), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21)
+[^c-b781f0ea37be61f2dcad8f06751a5666]: Textual amendment: Word in s. 792(7) substituted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 17(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/17/a), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21)
 
-[^key-5d8d24fcb4e43182b3c892698b7a51d4]: Textual amendment: Word in s. 792(8) substituted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 17(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/17/b), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21)
+[^c-5d8d24fcb4e43182b3c892698b7a51d4]: Textual amendment: Word in s. 792(8) substituted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 17(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/17/b), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21)

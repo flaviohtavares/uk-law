@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Fitness of premises[^key-1f79d4166db3214eceb962c4b71f254f]
+## 30. Fitness of premises[^c-1f79d4166db3214eceb962c4b71f254f]
 
 *Extent: N.I.*
 
@@ -74,6 +74,6 @@ for the number and sex of children accommodated.
 
 ## Annotations
 
-[^key-1f79d4166db3214eceb962c4b71f254f]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2005/176/regulation/30) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-1f79d4166db3214eceb962c4b71f254f]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2005/176/regulation/30) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
 
 [^f00018]: Footnote: [S.R. 1996 No. 487](https://www.legislation.gov.uk/nisr/1996/487)

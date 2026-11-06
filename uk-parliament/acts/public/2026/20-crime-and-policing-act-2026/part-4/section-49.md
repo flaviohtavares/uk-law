@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Proving an offence under section 48[^key-e9e54972e988cfd417f4b178e4b855ae]
+## 49. Proving an offence under section 48[^c-e9e54972e988cfd417f4b178e4b855ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ it is sufficient to prove that D intended to facilitate the causing of C in futu
 
 ## Annotations
 
-[^key-e9e54972e988cfd417f4b178e4b855ae]: Commencement: S. 49 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/7)
+[^c-e9e54972e988cfd417f4b178e4b855ae]: Commencement: S. 49 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/7)

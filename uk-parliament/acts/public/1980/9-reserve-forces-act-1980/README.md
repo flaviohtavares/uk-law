@@ -31,7 +31,7 @@ Reserve Forces Act 1980
 
 [^c11524351]An Act to consolidate certain enactments relating to the reserve and auxiliary forces, and the lieutenancies, with amendments to give effect to a recommendation of the Law Commission; and to repeal certain obsolete enactments relating to those forces.
 
-\[20th March 1980\][^c11524361][^c11524371][^c11524381][^c11524391][^c11524401][^key-ae5c4ab486fad3937417ab53e021aded]
+\[20th March 1980\][^c11524361][^c11524371][^c11524381][^c11524391][^c11524401][^c-ae5c4ab486fad3937417ab53e021aded]
 
 ## Contents
 
@@ -155,9 +155,9 @@ Reserve Forces Act 1980
 - [Section 60 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-iii/section-60.md)
 - [Section 61 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-iii/section-61.md)
 
-### Part IV — Regular Reserve and Air Force Reserve[^key-a4a6117152a70855c16dfaf06fa247f5]
+### Part IV — Regular Reserve and Air Force Reserve[^c-a4a6117152a70855c16dfaf06fa247f5]
 
-#### Regular Reserve[^key-a4a6117152a70855c16dfaf06fa247f5]
+#### Regular Reserve[^c-a4a6117152a70855c16dfaf06fa247f5]
 
 - [Section 62 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-iv/section-62.md)
 - [Section 63 — Exercise of powers vested in military office holder.](part-iv/section-63.md)
@@ -172,7 +172,7 @@ Reserve Forces Act 1980
 - [Section 69 — Special reservist called out for permanent service.](part-iv/section-69.md)
 - [Section 70 — Special reservist called out for special courses, etc.](part-iv/section-70.md)
 
-#### Enlistment in Regular Reserve and Air Force Reserve[^key-a4a6117152a70855c16dfaf06fa247f5]
+#### Enlistment in Regular Reserve and Air Force Reserve[^c-a4a6117152a70855c16dfaf06fa247f5]
 
 - [Section 71 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-iv/section-71.md)
 - [Section 72 — .](part-iv/section-72.md)
@@ -198,9 +198,9 @@ Reserve Forces Act 1980
 - [Section 86 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-iv/section-86.md)
 - [Section 87 — Interpretation of Part IV.](part-iv/section-87.md)
 
-### Part V — Army Reserve and Royal Auxiliary Air Force[^key-67963aace79d0fea2cbe4c142624c9b5]
+### Part V — Army Reserve and Royal Auxiliary Air Force[^c-67963aace79d0fea2cbe4c142624c9b5]
 
-#### Government, discipline and pay of Army Reserve and Royal Auxiliary Air Force[^key-67963aace79d0fea2cbe4c142624c9b5]
+#### Government, discipline and pay of Army Reserve and Royal Auxiliary Air Force[^c-67963aace79d0fea2cbe4c142624c9b5]
 
 - [Section 88 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-v/section-88.md)
 - [Section 89 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-v/section-89.md)
@@ -356,10 +356,10 @@ SCHEDULES
 
 [^c11524401]: Modification: Act excluded (1.4.1997) by [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14), [s. 129(2)](https://www.legislation.gov.uk/ukpga/1996/14/section/129/2) ( with s. 72(5)); 1997/305, art. 2(2)
 
-[^key-ae5c4ab486fad3937417ab53e021aded]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1980/9): power to amend conferred (4.6.2007) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 381](https://www.legislation.gov.uk/ukpga/2006/52/section/381), [383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2); [S.I. 2007/1442](https://www.legislation.gov.uk/uksi/2007/1442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/1442/article/2/2)
+[^c-ae5c4ab486fad3937417ab53e021aded]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1980/9): power to amend conferred (4.6.2007) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 381](https://www.legislation.gov.uk/ukpga/2006/52/section/381), [383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2); [S.I. 2007/1442](https://www.legislation.gov.uk/uksi/2007/1442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/1442/article/2/2)
 
 [^c11524411]: Modification: Pt. I applied (1.4.1997) by [1996 c.14](https://www.legislation.gov.uk/ukpga/1996/14), [ss. 128](https://www.legislation.gov.uk/ukpga/1996/14/section/128), [132(4)](https://www.legislation.gov.uk/ukpga/1996/14/section/132/4), [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/1996/14/schedule/8/paragraph/12) ( with s. 72(5)
 
-[^key-a4a6117152a70855c16dfaf06fa247f5]: Textual amendment: Words in Act substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 44(3)(a)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/a)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4)[50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(3)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/3)[(5)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/5)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)
+[^c-a4a6117152a70855c16dfaf06fa247f5]: Textual amendment: Words in Act substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 44(3)(a)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/a)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4)[50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(3)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/3)[(5)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/5)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)
 
-[^key-67963aace79d0fea2cbe4c142624c9b5]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/1980/9) substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 44(3)(b)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4)[50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(3)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/3)[(5)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/5)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)
+[^c-67963aace79d0fea2cbe4c142624c9b5]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/1980/9) substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 44(3)(b)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4)[50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(3)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/3)[(5)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/5)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)

@@ -35,16 +35,16 @@ approving the conclusion, by the European Commission, on behalf of the European 
 
 (2014/670/Euratom) (revoked)
 
-[^key-42a84407f9eaa934bb4939f4730e52ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-42a84407f9eaa934bb4939f4730e52ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-42a84407f9eaa934bb4939f4730e52ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-42a84407f9eaa934bb4939f4730e52ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-42a84407f9eaa934bb4939f4730e52ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-42a84407f9eaa934bb4939f4730e52ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-42a84407f9eaa934bb4939f4730e52ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-42a84407f9eaa934bb4939f4730e52ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-42a84407f9eaa934bb4939f4730e52ee]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-42a84407f9eaa934bb4939f4730e52ee]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

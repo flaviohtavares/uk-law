@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 183. Conditional confirmation[^key-537d6bcba5411cb4e96d2512b47fea35][^key-6a7162a7520704489c6991dde0891226][^key-76144725c869781a4d4bce518e968940]
+## 183. Conditional confirmation[^c-537d6bcba5411cb4e96d2512b47fea35][^c-6a7162a7520704489c6991dde0891226][^c-76144725c869781a4d4bce518e968940]
 
 *Extent: E+W*
 
@@ -99,14 +99,14 @@ summary: ''
   - (i) after “notice” insert “, and any fulfilment notice,”;
   - (ii) for “it” substitute “each such notice”.
 
-(4)[^key-5dbba707be95b28f18f8b92b490a4cd5] Schedule 18 contains, and makes provision in connection with, amendments in consequence of this section and paragraph 3 of Schedule 19.
+(4)[^c-5dbba707be95b28f18f8b92b490a4cd5] Schedule 18 contains, and makes provision in connection with, amendments in consequence of this section and paragraph 3 of Schedule 19.
 
 ## Annotations
 
-[^key-537d6bcba5411cb4e96d2512b47fea35]: Commencement: S. 183 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-537d6bcba5411cb4e96d2512b47fea35]: Commencement: S. 183 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-6a7162a7520704489c6991dde0891226]: Commencement: [S. 183](https://www.legislation.gov.uk/ukpga/2023/55/section/183) in force at 31.3.2024 for specified purposes by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/j)
+[^c-6a7162a7520704489c6991dde0891226]: Commencement: [S. 183](https://www.legislation.gov.uk/ukpga/2023/55/section/183) in force at 31.3.2024 for specified purposes by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/j)
 
-[^key-76144725c869781a4d4bce518e968940]: Commencement: [S. 183](https://www.legislation.gov.uk/ukpga/2023/55/section/183) in force at 18.2.2026 for specified purposes by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/2)
+[^c-76144725c869781a4d4bce518e968940]: Commencement: [S. 183](https://www.legislation.gov.uk/ukpga/2023/55/section/183) in force at 18.2.2026 for specified purposes by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/2)
 
-[^key-5dbba707be95b28f18f8b92b490a4cd5]: Commencement: [S. 183(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/183/4) in force at 2.12.2025 for specified purposes by [S.I. 2025/1262](https://www.legislation.gov.uk/uksi/2025/1262), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2025/1262/regulation/2/1/b)
+[^c-5dbba707be95b28f18f8b92b490a4cd5]: Commencement: [S. 183(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/183/4) in force at 2.12.2025 for specified purposes by [S.I. 2025/1262](https://www.legislation.gov.uk/uksi/2025/1262), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2025/1262/regulation/2/1/b)

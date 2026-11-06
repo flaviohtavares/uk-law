@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Compensation for continuous adoption of special standard of farming.[^key-5fd0dd6d7c76282333cddb9080b5d777]
+## 44. Compensation for continuous adoption of special standard of farming.[^c-5fd0dd6d7c76282333cddb9080b5d777]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ and shall not be so recoverable in respect of any matter arising before the date
 
 ## Annotations
 
-[^key-5fd0dd6d7c76282333cddb9080b5d777]: Modification: S. 44 applied (with modifications) (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 53(1)](https://www.legislation.gov.uk/asp/2003/11/section/53/1), [95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3), [95(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/548/article/2/d) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-5fd0dd6d7c76282333cddb9080b5d777]: Modification: S. 44 applied (with modifications) (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 53(1)](https://www.legislation.gov.uk/asp/2003/11/section/53/1), [95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3), [95(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/548/article/2/d) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

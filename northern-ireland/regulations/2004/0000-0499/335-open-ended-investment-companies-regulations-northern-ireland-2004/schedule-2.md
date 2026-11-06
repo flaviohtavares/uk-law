@@ -22,20 +22,20 @@ summary: ''
 
 Regulation 14
 
-**1.**[^key-57c33c0fef595f800c6514b7d57e2381] The instrument of incorporation of an open-ended investment company must –
+**1.**[^c-57c33c0fef595f800c6514b7d57e2381] The instrument of incorporation of an open-ended investment company must –
 
 - (a) contain the statements set out in paragraph 2; and
 - (b) contain provision made in accordance with paragraphs 3 and 4.
 
-**2.**[^key-de06f0d892743144b4ed0f6b1376ad49] The statements referred to in paragraph 1(a) are –
+**2.**[^c-de06f0d892743144b4ed0f6b1376ad49] The statements referred to in paragraph 1(a) are –
 
 - (a) the head office of the company is situated in Northern Ireland;
 - (b) the company is an open-ended investment company with variable share capital;
 - (c) the shareholders are not liable for the debts of the company;
-- (d) the scheme property is entrusted to a depositary for safekeeping (subject to any exceptions permitted by FCA rules[^key-17a9141fb993bcb8fc32d9b21cf6070f]); and
+- (d) the scheme property is entrusted to a depositary for safekeeping (subject to any exceptions permitted by FCA rules[^c-17a9141fb993bcb8fc32d9b21cf6070f]); and
 - (e) charges or expenses of the company may be taken out of the scheme property.
 
-**3.**[^key-8eddbcc0590645ba4e12a187b1b7c21a] (1) The instrument of incorporation must contain provision as to the following matters –
+**3.**[^c-8eddbcc0590645ba4e12a187b1b7c21a] (1) The instrument of incorporation must contain provision as to the following matters –
 
 - (a) the object of the company;
 - (b) any matter relating to the procedure for the appointment, retirement and removal of any director of the company for which provision is not made in these Regulations or FCA rules; and
@@ -43,7 +43,7 @@ Regulation 14
 
 (2) The provision referred to in sub-paragraph (1)(a) as to the object of an open-ended investment company must state clearly the kind of property in which the company is to invest and must state that the object of the company is to invest in property of that kind with the aim of spreading investment risk and giving its shareholders the benefit of the results of the management of that property.
 
-**4.**[^key-6ba7eb9a088ea997cea942c364cfdf29] (1) The instrument of incorporation must also contain provision as to the following matters –
+**4.**[^c-6ba7eb9a088ea997cea942c364cfdf29] (1) The instrument of incorporation must also contain provision as to the following matters –
 
 - (a) the name of the company;
 - (b) the category, as specified in FCA rules, to which the company belongs;
@@ -57,28 +57,28 @@ Regulation 14
 
 (2) For the purposes of sub-paragraph (1)(c), the size at any time of a company’s capital is to be taken to be the value at that time, as determined in accordance with FCA rules, of the scheme property of the company less the liabilities of the company.
 
-**5.**[^key-81eea146544002f31eb6f729748e5b22] (1) Once an authorisation order has been made in respect of a company, no amendment may be made to the statements contained in the company’s instrument of incorporation which are required by paragraph 2.
+**5.**[^c-81eea146544002f31eb6f729748e5b22] (1) Once an authorisation order has been made in respect of a company, no amendment may be made to the statements contained in the company’s instrument of incorporation which are required by paragraph 2.
 
 (2) Subject to sub-paragraph (1) and to any restriction imposed by FCA rules, a company may amend any provision which is contained in its instrument of incorporation.
 
 (3) No amendment to a provision which is contained in a company’s instrument of incorporation by virtue of paragraph 3 may be made unless it has been approved by the shareholders of the company in general meeting.
 
-**6.**[^key-2e05647ae80c228bf3f34a811abefb2e] (1) The provisions of a company’s instrument of incorporation are binding on the officers and depositary of the company and on each of its shareholders; and all such persons (but no others) are to be taken to have notice of the provisions of the instrument.
+**6.**[^c-2e05647ae80c228bf3f34a811abefb2e] (1) The provisions of a company’s instrument of incorporation are binding on the officers and depositary of the company and on each of its shareholders; and all such persons (but no others) are to be taken to have notice of the provisions of the instrument.
 
 (2) A person is not debarred from obtaining damages or other compensation from a company by reason only of his holding or having held shares in the company.
 
 ## Annotations
 
-[^key-57c33c0fef595f800c6514b7d57e2381]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2004/335/schedule/2/paragraph/1) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-57c33c0fef595f800c6514b7d57e2381]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2004/335/schedule/2/paragraph/1) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
 
-[^key-de06f0d892743144b4ed0f6b1376ad49]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2004/335/schedule/2/paragraph/2) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-de06f0d892743144b4ed0f6b1376ad49]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2004/335/schedule/2/paragraph/2) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
 
-[^key-17a9141fb993bcb8fc32d9b21cf6070f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/nisr/2004/335) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/2)
+[^c-17a9141fb993bcb8fc32d9b21cf6070f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/nisr/2004/335) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/2)
 
-[^key-8eddbcc0590645ba4e12a187b1b7c21a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2004/335/schedule/2/paragraph/3) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-8eddbcc0590645ba4e12a187b1b7c21a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2004/335/schedule/2/paragraph/3) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
 
-[^key-6ba7eb9a088ea997cea942c364cfdf29]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2004/335/schedule/2/paragraph/4) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-6ba7eb9a088ea997cea942c364cfdf29]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2004/335/schedule/2/paragraph/4) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
 
-[^key-81eea146544002f31eb6f729748e5b22]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2004/335/schedule/2/paragraph/5) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-81eea146544002f31eb6f729748e5b22]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2004/335/schedule/2/paragraph/5) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
 
-[^key-2e05647ae80c228bf3f34a811abefb2e]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2004/335/schedule/2/paragraph/6) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-2e05647ae80c228bf3f34a811abefb2e]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2004/335/schedule/2/paragraph/6) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

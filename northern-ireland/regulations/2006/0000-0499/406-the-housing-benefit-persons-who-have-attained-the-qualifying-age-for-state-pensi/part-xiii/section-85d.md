@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 85D. Recording and holding information[^key-ba324d486dbb19d4fa38527eee471cd7]
+## 85D. Recording and holding information[^c-ba324d486dbb19d4fa38527eee471cd7]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ Where the Department obtains relevant information or such information is supplie
 
 ## Annotations
 
-[^key-ba324d486dbb19d4fa38527eee471cd7]: Textual amendment: Reg. 85A-85F inserted (10.12.2007) by [The Social Security (Claims and Information) Regulations (Northern Ireland) 2007 (S.R. 2007/467)](https://www.legislation.gov.uk/nisr/2007/467), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1), [8(2)](https://www.legislation.gov.uk/nisr/2007/467/regulation/8/2)
+[^c-ba324d486dbb19d4fa38527eee471cd7]: Textual amendment: Reg. 85A-85F inserted (10.12.2007) by [The Social Security (Claims and Information) Regulations (Northern Ireland) 2007 (S.R. 2007/467)](https://www.legislation.gov.uk/nisr/2007/467), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1), [8(2)](https://www.legislation.gov.uk/nisr/2007/467/regulation/8/2)

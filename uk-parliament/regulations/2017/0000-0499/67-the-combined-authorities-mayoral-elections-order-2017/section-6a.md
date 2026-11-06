@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6A. Combined county authority returning officer[^key-91f8c675a5494186d7dd25eed152fac0]
+## 6A. Combined county authority returning officer[^c-91f8c675a5494186d7dd25eed152fac0]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91f8c675a5494186d7dd25eed152fac0]: Textual amendment: Art. 6A inserted (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2024/131/regulation/6)
+[^c-91f8c675a5494186d7dd25eed152fac0]: Textual amendment: Art. 6A inserted (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2024/131/regulation/6)

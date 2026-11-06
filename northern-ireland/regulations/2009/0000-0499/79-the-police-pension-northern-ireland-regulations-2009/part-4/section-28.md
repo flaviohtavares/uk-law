@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Calculation of enhanced top-up ill-health pension[^key-0482e56d277b1ae6e1de84387f588927]
+## 28. Calculation of enhanced top-up ill-health pension[^c-0482e56d277b1ae6e1de84387f588927]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ whichever amounts to the lesser period.
 
 ## Annotations
 
-[^key-0482e56d277b1ae6e1de84387f588927]: Commencement: Reg. 28 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-0482e56d277b1ae6e1de84387f588927]: Commencement: Reg. 28 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

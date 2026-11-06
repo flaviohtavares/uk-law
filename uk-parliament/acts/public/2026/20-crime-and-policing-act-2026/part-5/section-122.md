@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Alternative method of notification[^key-843187b801c58acbd220eb93cc54eb42]
+## 122. Alternative method of notification[^c-843187b801c58acbd220eb93cc54eb42]
 
 *Extent: E+W+S+N.I.*
 
@@ -89,4 +89,4 @@ After section 87 of the Sexual Offences Act 2003 insert—
 
 ## Annotations
 
-[^key-843187b801c58acbd220eb93cc54eb42]: Commencement: S. 122 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/7)
+[^c-843187b801c58acbd220eb93cc54eb42]: Commencement: S. 122 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Consents for generating stations offshore[^key-d716537e71884a143696f8398e0d522c]
+## 93. Consents for generating stations offshore[^c-d716537e71884a143696f8398e0d522c]
 
 *Extent: E+W+S*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d716537e71884a143696f8398e0d522c]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2004/20/section/93) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
+[^c-d716537e71884a143696f8398e0d522c]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2004/20/section/93) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)

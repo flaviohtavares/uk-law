@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 2 — Streets subject to street works[^key-9981f110105cbad7e872b2869cbf98c7]
+## SCHEDULE 2 — Streets subject to street works[^c-9981f110105cbad7e872b2869cbf98c7]
 
 *Extent: E+W+S*
 
@@ -46,10 +46,10 @@ Article 15
 </tbody>
 </table>
 
-[^key-ed8f0f30d3973e2ff50f1dc3f7b4f9e2]
+[^c-ed8f0f30d3973e2ff50f1dc3f7b4f9e2]
 
 ## Annotations
 
-[^key-9981f110105cbad7e872b2869cbf98c7]: Commencement: Sch. 2 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-9981f110105cbad7e872b2869cbf98c7]: Commencement: Sch. 2 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
-[^key-ed8f0f30d3973e2ff50f1dc3f7b4f9e2]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2014/1873/schedule/2) substituted (14.5.2015) by [The Rampion Offshore Wind Farm (Correction) Order 2015 (S.I. 2015/1319)](https://www.legislation.gov.uk/uksi/2015/1319), [art. 1](https://www.legislation.gov.uk/uksi/2015/1319/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1319/schedule)
+[^c-ed8f0f30d3973e2ff50f1dc3f7b4f9e2]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2014/1873/schedule/2) substituted (14.5.2015) by [The Rampion Offshore Wind Farm (Correction) Order 2015 (S.I. 2015/1319)](https://www.legislation.gov.uk/uksi/2015/1319), [art. 1](https://www.legislation.gov.uk/uksi/2015/1319/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1319/schedule)

@@ -60,7 +60,7 @@ In this Order “the Convention” means the Convention on the Control and Marki
 (1) The following marks are designated for the purposes of section 2 of the Act as marks recognised pursuant to the Convention, that is to say—
 
 - (a) except in a case in which the number is applied to the article by a person other than an assay office authorised as mentioned in sub-paragraph (b) below, a number in Arabic numerals indicating the standard of fineness of an article being—
-  - (i)[^key-310175443873f2c57a911e46b783c398] in the case of gold, 999, 916, 750, 585 or 375;
+  - (i)[^c-310175443873f2c57a911e46b783c398] in the case of gold, 999, 916, 750, 585 or 375;
   - (ii) in the case of silver, 999, 925, 830 or 800;
   - (iii) in the case of platinum, 999, 950, 900 or 850; and
   - (iv) in the case of palladium, 999, 950 and 500.
@@ -102,7 +102,7 @@ Provided that nothing in this paragraph shall require an assay office to strike 
 
 (1) A person may submit to an assay office an article wholly or partly of silver with a written request that it be marked as being of a fineness of 830 as respects the article as a whole or its silver parts; and in such a case the following provisions of this Article shall have effect.
 
-(2)[^key-99c2f377a4efade7b2272c22403b9a29] Article 5 shall apply as if a new sub-paragraph were added after paragraph 2(e) substituting in section 4(3)(b)(ii) of the Act “550” for “650”.
+(2)[^c-99c2f377a4efade7b2272c22403b9a29] Article 5 shall apply as if a new sub-paragraph were added after paragraph 2(e) substituting in section 4(3)(b)(ii) of the Act “550” for “650”.
 
 (3) Where a silver article is struck with the mark indicating a standard of fineness of 830 the article shall be struck with the relevant assay office mark set out below instead of the mark set out in column (2) or (3), as the case may be, of paragraph 1 of Part 1 of Schedule 2 to the Act.
 
@@ -126,7 +126,7 @@ Article 3(2)
 
 |  |
 | --- |
-| For palladium articles[^key-c6278f814e905578befe988d86535f7f] |
+| For palladium articles[^c-c6278f814e905578befe988d86535f7f] |
 | [image: see source](https://www.legislation.gov.uk/uksi/2002/506/images/uksi_20020506_en_epp_055.gif) |
 
 ### PART II — EXAMPLES OF THE COMMON CONTROL MARK
@@ -135,7 +135,7 @@ Article 3(2)
 
 |  |
 | --- |
-| For palladium articles of the standard of fineness 999[^key-99e5ccd5414cad14cda8236728e1cd59] |
+| For palladium articles of the standard of fineness 999[^c-99e5ccd5414cad14cda8236728e1cd59] |
 | [image: see source](https://www.legislation.gov.uk/uksi/2002/506/images/uksi_20020506_en_epp_056.gif) |
 
 ## SCHEDULE 2 — FOREIGN ASSAY OFFICE MARKS
@@ -146,7 +146,7 @@ Article 3(3)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2002/506/images/uksi_20020506_en_sld_004)
 
-### CYPRUS[^key-23437179497f60dc23bd8188a84fab3b]
+### CYPRUS[^c-23437179497f60dc23bd8188a84fab3b]
 
 <table>
 <tbody>
@@ -175,7 +175,7 @@ Article 3(3)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2002/506/images/uksi_20020506_en_sld_008)
 
-### HUNGARY[^key-4c591155ba6bb4dbb7594556cdfec994]
+### HUNGARY[^c-4c591155ba6bb4dbb7594556cdfec994]
 
 |  |
 | --- |
@@ -192,7 +192,7 @@ Article 3(3)
 >
 > [image: see source](https://www.legislation.gov.uk/uksi/2002/506/images/uksi_20020506_en_sld_010)
 
-### ISRAEL[^key-57ae45e197c85016b00aaf4d5f3dd31f]
+### ISRAEL[^c-57ae45e197c85016b00aaf4d5f3dd31f]
 
 <table>
 <tbody>
@@ -254,7 +254,7 @@ Article 3(3)
 
 |  |
 | --- |
-| For all standards of fineness recognised by the Convention[^key-fcc2cc9e8eb8491fddcb2782203eb589] |
+| For all standards of fineness recognised by the Convention[^c-fcc2cc9e8eb8491fddcb2782203eb589] |
 | Joure Assay Office |
 | [image: see source](https://www.legislation.gov.uk/uksi/2002/506/images/uksi_20020506_en_epp_032.gif) |
 | Gouda Assay Office |
@@ -264,7 +264,7 @@ Article 3(3)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2002/506/images/uksi_20020506_en_sld_012)
 
-### POLAND[^key-fcee548d0ad53470438f209879d6c1c5]
+### POLAND[^c-fcee548d0ad53470438f209879d6c1c5]
 
 <table>
 <tbody>
@@ -301,7 +301,7 @@ Article 3(3)
 </tbody>
 </table>
 
-[^key-4bd6a599c1bd465bb0971681974bfbc2]
+[^c-4bd6a599c1bd465bb0971681974bfbc2]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2002/506/images/uksi_20020506_en_epp_043.gif)
 
@@ -316,7 +316,7 @@ Article 3(3)
 </tbody>
 </table>
 
-[^key-f53e597748b45e3b28e304d8bc98a11b]
+[^c-f53e597748b45e3b28e304d8bc98a11b]
 
 <table>
 <tbody>
@@ -327,9 +327,9 @@ Article 3(3)
 </tbody>
 </table>
 
-[^key-03f639e1c1f3e9bfaa45b60a3417934a][^key-d70bbb8585dd0749f7562b1b0acd7915]
+[^c-03f639e1c1f3e9bfaa45b60a3417934a][^c-d70bbb8585dd0749f7562b1b0acd7915]
 
-### SLOVAK REPUBLIC[^key-819857b0e80091df8a8ac123b3653163]
+### SLOVAK REPUBLIC[^c-819857b0e80091df8a8ac123b3653163]
 
 <table>
 <tbody>
@@ -440,7 +440,7 @@ ggg
 </tbody>
 </table>
 
-[^key-2a1bb51f3051bcc61d955535824720a6]
+[^c-2a1bb51f3051bcc61d955535824720a6]
 
 *(This note is not part of the Order)*
 
@@ -460,32 +460,32 @@ The Order was notified in draft to the European Commission in accordance with Di
 
 [^c154961]: Marginal citation: [S.I. 1976/730](https://www.legislation.gov.uk/uksi/1976/730); as amended by [S.I. 1981/559](https://www.legislation.gov.uk/uksi/1981/559), 1983/1608, 1984/1131, 1987/1892, 1988/2286, 1995/2488 and [S.I. 1998/2978](https://www.legislation.gov.uk/uksi/1998/2978).
 
-[^key-310175443873f2c57a911e46b783c398]: Textual amendment: Art. 3(1)(a)(i)-(iv) substituted for art. 3(1)(a)(i)-(iii) (15.1.2012) by virtue of [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [3](https://www.legislation.gov.uk/uksi/2011/3039/article/3)
+[^c-310175443873f2c57a911e46b783c398]: Textual amendment: Art. 3(1)(a)(i)-(iv) substituted for art. 3(1)(a)(i)-(iii) (15.1.2012) by virtue of [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [3](https://www.legislation.gov.uk/uksi/2011/3039/article/3)
 
-[^key-99c2f377a4efade7b2272c22403b9a29]: Textual amendment: [Art. 6(2)](https://www.legislation.gov.uk/uksi/2002/506/article/6/2) substituted (15.1.2012) by [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [4](https://www.legislation.gov.uk/uksi/2011/3039/article/4)
+[^c-99c2f377a4efade7b2272c22403b9a29]: Textual amendment: [Art. 6(2)](https://www.legislation.gov.uk/uksi/2002/506/article/6/2) substituted (15.1.2012) by [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [4](https://www.legislation.gov.uk/uksi/2011/3039/article/4)
 
-[^key-c6278f814e905578befe988d86535f7f]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2002/506/schedule/1/part/I) inserted (15.1.2012) by [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [5](https://www.legislation.gov.uk/uksi/2011/3039/article/5)
+[^c-c6278f814e905578befe988d86535f7f]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2002/506/schedule/1/part/I) inserted (15.1.2012) by [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [5](https://www.legislation.gov.uk/uksi/2011/3039/article/5)
 
-[^key-99e5ccd5414cad14cda8236728e1cd59]: Textual amendment: Words in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2002/506/schedule/1/part/II) inserted (15.1.2012) by [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [6](https://www.legislation.gov.uk/uksi/2011/3039/article/6)
+[^c-99e5ccd5414cad14cda8236728e1cd59]: Textual amendment: Words in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2002/506/schedule/1/part/II) inserted (15.1.2012) by [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [6](https://www.legislation.gov.uk/uksi/2011/3039/article/6)
 
-[^key-23437179497f60dc23bd8188a84fab3b]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/506/schedule/2) inserted (15.1.2012) by [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2011/3039/article/7/2)
+[^c-23437179497f60dc23bd8188a84fab3b]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/506/schedule/2) inserted (15.1.2012) by [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2011/3039/article/7/2)
 
-[^key-4c591155ba6bb4dbb7594556cdfec994]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/506/schedule/2) inserted (15.1.2012) by [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2011/3039/article/7/3)
+[^c-4c591155ba6bb4dbb7594556cdfec994]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/506/schedule/2) inserted (15.1.2012) by [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2011/3039/article/7/3)
 
-[^key-57ae45e197c85016b00aaf4d5f3dd31f]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/506/schedule/2) inserted (15.1.2012) by [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [7(4)](https://www.legislation.gov.uk/uksi/2011/3039/article/7/4)
+[^c-57ae45e197c85016b00aaf4d5f3dd31f]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/506/schedule/2) inserted (15.1.2012) by [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [7(4)](https://www.legislation.gov.uk/uksi/2011/3039/article/7/4)
 
-[^key-fcc2cc9e8eb8491fddcb2782203eb589]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/506/schedule/2) substituted (15.1.2012) by [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [7(5)](https://www.legislation.gov.uk/uksi/2011/3039/article/7/5)
+[^c-fcc2cc9e8eb8491fddcb2782203eb589]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/506/schedule/2) substituted (15.1.2012) by [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [7(5)](https://www.legislation.gov.uk/uksi/2011/3039/article/7/5)
 
-[^key-fcee548d0ad53470438f209879d6c1c5]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/506/schedule/2) inserted (15.1.2012) by [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [7(6)](https://www.legislation.gov.uk/uksi/2011/3039/article/7/6)
+[^c-fcee548d0ad53470438f209879d6c1c5]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/506/schedule/2) inserted (15.1.2012) by [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [7(6)](https://www.legislation.gov.uk/uksi/2011/3039/article/7/6)
 
-[^key-4bd6a599c1bd465bb0971681974bfbc2]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/506/schedule/2) inserted (15.1.2012) by [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [7(7)(b)](https://www.legislation.gov.uk/uksi/2011/3039/article/7/7/b)
+[^c-4bd6a599c1bd465bb0971681974bfbc2]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/506/schedule/2) inserted (15.1.2012) by [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [7(7)(b)](https://www.legislation.gov.uk/uksi/2011/3039/article/7/7/b)
 
-[^key-f53e597748b45e3b28e304d8bc98a11b]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/506/schedule/2) inserted (15.1.2012) by [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [7(7)(c)](https://www.legislation.gov.uk/uksi/2011/3039/article/7/7/c)
+[^c-f53e597748b45e3b28e304d8bc98a11b]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/506/schedule/2) inserted (15.1.2012) by [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [7(7)(c)](https://www.legislation.gov.uk/uksi/2011/3039/article/7/7/c)
 
-[^key-03f639e1c1f3e9bfaa45b60a3417934a]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/506/schedule/2) substituted (15.1.2012) by [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [7(7)(d)](https://www.legislation.gov.uk/uksi/2011/3039/article/7/7/d)
+[^c-03f639e1c1f3e9bfaa45b60a3417934a]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/506/schedule/2) substituted (15.1.2012) by [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [7(7)(d)](https://www.legislation.gov.uk/uksi/2011/3039/article/7/7/d)
 
-[^key-d70bbb8585dd0749f7562b1b0acd7915]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/506/schedule/2) substituted (15.1.2012) by [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [7(7)(a)](https://www.legislation.gov.uk/uksi/2011/3039/article/7/7/a)
+[^c-d70bbb8585dd0749f7562b1b0acd7915]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/506/schedule/2) substituted (15.1.2012) by [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [7(7)(a)](https://www.legislation.gov.uk/uksi/2011/3039/article/7/7/a)
 
-[^key-819857b0e80091df8a8ac123b3653163]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/506/schedule/2) inserted (15.1.2012) by [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [7(8)](https://www.legislation.gov.uk/uksi/2011/3039/article/7/8)
+[^c-819857b0e80091df8a8ac123b3653163]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/506/schedule/2) inserted (15.1.2012) by [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [7(8)](https://www.legislation.gov.uk/uksi/2011/3039/article/7/8)
 
-[^key-2a1bb51f3051bcc61d955535824720a6]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/506/schedule/2) inserted (15.1.2012) by [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [7(9)](https://www.legislation.gov.uk/uksi/2011/3039/article/7/9)
+[^c-2a1bb51f3051bcc61d955535824720a6]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/506/schedule/2) inserted (15.1.2012) by [The Hallmarking (International Convention) (Amendment) Order 2011 (S.I. 2011/3039)](https://www.legislation.gov.uk/uksi/2011/3039), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3039/article/1), [7(9)](https://www.legislation.gov.uk/uksi/2011/3039/article/7/9)

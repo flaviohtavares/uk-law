@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Exemptions from duty to prepare building assessment reports[^key-708a1867981a5951b2620841b14ae9bf]
+## 64. Exemptions from duty to prepare building assessment reports[^c-708a1867981a5951b2620841b14ae9bf]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-708a1867981a5951b2620841b14ae9bf]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2021/9/section/64) in force at 16.1.2023 by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)
+[^c-708a1867981a5951b2620841b14ae9bf]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2021/9/section/64) in force at 16.1.2023 by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)

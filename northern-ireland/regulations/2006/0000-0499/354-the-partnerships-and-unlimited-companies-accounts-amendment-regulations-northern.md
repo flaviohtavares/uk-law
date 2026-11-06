@@ -33,7 +33,7 @@ COMPANIES
 
 PARTNERSHIPS
 
-The Partnerships and Unlimited Companies (Accounts) (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^key-dcfa1269c27ff4464b5ae51ebe4cfebf]
+The Partnerships and Unlimited Companies (Accounts) (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^c-dcfa1269c27ff4464b5ae51ebe4cfebf]
 
 Made
 
@@ -43,26 +43,26 @@ Coming into operation
 
 1st October 2006
 
-[^key-dcfa1269c27ff4464b5ae51ebe4cfebf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dcfa1269c27ff4464b5ae51ebe4cfebf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-dcfa1269c27ff4464b5ae51ebe4cfebf]
+## 1. Citation, commencement and interpretation[^c-dcfa1269c27ff4464b5ae51ebe4cfebf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 7 of the principal Regulations (exemption where accounts consolidated)[^key-dcfa1269c27ff4464b5ae51ebe4cfebf]
+## 2. Amendment of regulation 7 of the principal Regulations (exemption where accounts consolidated)[^c-dcfa1269c27ff4464b5ae51ebe4cfebf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Schedule to the principal Regulations (modifications and adaptations of Companies Orders’ provisions)[^key-dcfa1269c27ff4464b5ae51ebe4cfebf]
+## 3. Amendment of Schedule to the principal Regulations (modifications and adaptations of Companies Orders’ provisions)[^c-dcfa1269c27ff4464b5ae51ebe4cfebf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dcfa1269c27ff4464b5ae51ebe4cfebf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dcfa1269c27ff4464b5ae51ebe4cfebf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dcfa1269c27ff4464b5ae51ebe4cfebf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dcfa1269c27ff4464b5ae51ebe4cfebf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dcfa1269c27ff4464b5ae51ebe4cfebf]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/354) revoked (1.9.2013) by [The Companies and Partnerships (Accounts and Audit) Regulations 2013 (S.I. 2013/2005)](https://www.legislation.gov.uk/uksi/2013/2005), [reg. 7(b)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/7/b) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/6))
+[^c-dcfa1269c27ff4464b5ae51ebe4cfebf]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/354) revoked (1.9.2013) by [The Companies and Partnerships (Accounts and Audit) Regulations 2013 (S.I. 2013/2005)](https://www.legislation.gov.uk/uksi/2013/2005), [reg. 7(b)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/7/b) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/6))

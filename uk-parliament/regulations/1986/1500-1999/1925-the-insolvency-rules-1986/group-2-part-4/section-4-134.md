@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.134. Loss of qualification as insolvency practitioner[^key-88f8c43247094268ba85e14157d6965c]
+## 4.134. Loss of qualification as insolvency practitioner[^c-88f8c43247094268ba85e14157d6965c]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ The official receiver shall file in court a copy of his notice under this paragr
 
 ## Annotations
 
-[^key-88f8c43247094268ba85e14157d6965c]: Commencement: [Rule 4.134](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.134) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-88f8c43247094268ba85e14157d6965c]: Commencement: [Rule 4.134](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.134) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00082]: Marginal citation: \[FORM 4.45\]

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 555. Interpretation of the 1997 Regulations[^key-d51aa22eff46ddd0b3a39c57eafdfb35]
+## 555. Interpretation of the 1997 Regulations[^c-d51aa22eff46ddd0b3a39c57eafdfb35]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,7 +52,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d51aa22eff46ddd0b3a39c57eafdfb35]: Commencement: Art. 555 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-d51aa22eff46ddd0b3a39c57eafdfb35]: Commencement: Art. 555 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00350]: Footnote: Amended by [S.I. 2000/3025](https://www.legislation.gov.uk/uksi/2000/3025).
 

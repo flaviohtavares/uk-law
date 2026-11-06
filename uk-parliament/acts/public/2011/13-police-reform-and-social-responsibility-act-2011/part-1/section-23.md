@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Minimum budget for Mayor's Office for Policing and Crime[^key-811d01d93de9067410b48de4dc956be8]
+## 23. Minimum budget for Mayor's Office for Policing and Crime[^c-811d01d93de9067410b48de4dc956be8]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-811d01d93de9067410b48de4dc956be8]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2011/13/section/23) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-811d01d93de9067410b48de4dc956be8]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2011/13/section/23) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

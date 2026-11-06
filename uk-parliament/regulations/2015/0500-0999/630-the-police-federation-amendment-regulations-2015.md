@@ -32,7 +32,7 @@ summary: ''
 
 Police, England And Wales
 
-The Police Federation (Amendment) Regulations 2015 (revoked)[^key-890805bacbb46371807c07a62730813d]
+The Police Federation (Amendment) Regulations 2015 (revoked)[^c-890805bacbb46371807c07a62730813d]
 
 Made
 
@@ -46,44 +46,44 @@ Coming into force
 
 2nd April 2015
 
-[^key-890805bacbb46371807c07a62730813d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-890805bacbb46371807c07a62730813d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and interpretation[^key-890805bacbb46371807c07a62730813d]
+## 1. Citation, commencement, extent and interpretation[^c-890805bacbb46371807c07a62730813d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Police Federation Regulations 1969[^key-890805bacbb46371807c07a62730813d]
+## 2. Amendments to the Police Federation Regulations 1969[^c-890805bacbb46371807c07a62730813d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-890805bacbb46371807c07a62730813d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-890805bacbb46371807c07a62730813d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-890805bacbb46371807c07a62730813d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-890805bacbb46371807c07a62730813d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-890805bacbb46371807c07a62730813d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-890805bacbb46371807c07a62730813d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-890805bacbb46371807c07a62730813d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-890805bacbb46371807c07a62730813d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-890805bacbb46371807c07a62730813d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-890805bacbb46371807c07a62730813d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-890805bacbb46371807c07a62730813d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-890805bacbb46371807c07a62730813d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-890805bacbb46371807c07a62730813d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-890805bacbb46371807c07a62730813d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Transitional provisions[^key-890805bacbb46371807c07a62730813d]
+## 10. Transitional provisions[^c-890805bacbb46371807c07a62730813d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-890805bacbb46371807c07a62730813d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-890805bacbb46371807c07a62730813d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-890805bacbb46371807c07a62730813d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-890805bacbb46371807c07a62730813d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-890805bacbb46371807c07a62730813d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-890805bacbb46371807c07a62730813d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-890805bacbb46371807c07a62730813d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/630) revoked (31.12.2017) by [The Police Federation (England and Wales) Regulations 2017 (S.I. 2017/1140)](https://www.legislation.gov.uk/uksi/2017/1140), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1140/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3))
+[^c-890805bacbb46371807c07a62730813d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/630) revoked (31.12.2017) by [The Police Federation (England and Wales) Regulations 2017 (S.I. 2017/1140)](https://www.legislation.gov.uk/uksi/2017/1140), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1140/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3))

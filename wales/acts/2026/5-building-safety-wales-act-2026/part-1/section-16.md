@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Part of regulated building for which accountable person is responsible[^key-3f58b926ed0b5ee775db6c6092b4f52b]
+## 16. Part of regulated building for which accountable person is responsible[^c-3f58b926ed0b5ee775db6c6092b4f52b]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f58b926ed0b5ee775db6c6092b4f52b]: Commencement: S. 16 in force at 28.4.2026, see [s. 138(1)(b)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/b)
+[^c-3f58b926ed0b5ee775db6c6092b4f52b]: Commencement: S. 16 in force at 28.4.2026, see [s. 138(1)(b)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/b)

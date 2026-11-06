@@ -35,8 +35,8 @@ summary: ''
 - (b) a member of the same group as B; or
 - (c) where B and another person are, or propose to become, participators in a joint enterprise, that other person.
 
-(3)[^key-228fc52a8156de1447a2b3cadec37e2a] This article is subject to article 4(4).
+(3)[^c-228fc52a8156de1447a2b3cadec37e2a] This article is subject to article 4(4).
 
 ## Annotations
 
-[^key-228fc52a8156de1447a2b3cadec37e2a]: Textual amendment: Art. 19(3) inserted (1.4.2007 for specified purposes, 1.11.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment No. 3) Order 2006 (S.I. 2006/3384)](https://www.legislation.gov.uk/uksi/2006/3384), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/3384/article/1/2), [8](https://www.legislation.gov.uk/uksi/2006/3384/article/8)
+[^c-228fc52a8156de1447a2b3cadec37e2a]: Textual amendment: Art. 19(3) inserted (1.4.2007 for specified purposes, 1.11.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment No. 3) Order 2006 (S.I. 2006/3384)](https://www.legislation.gov.uk/uksi/2006/3384), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/3384/article/1/2), [8](https://www.legislation.gov.uk/uksi/2006/3384/article/8)

@@ -37,7 +37,7 @@ summary: ''
 
 (4) OFCOM must take reasonable steps to deliver the property to the person who appears to them to be its owner.
 
-(5)[^key-b60d7c43ddd9ec071688d07450d29c9e] OFCOM may dispose of the property in such manner as they think fit if it remains in their possession after the end of the six months immediately following—
+(5)[^c-b60d7c43ddd9ec071688d07450d29c9e] OFCOM may dispose of the property in such manner as they think fit if it remains in their possession after the end of the six months immediately following—
 
 - (a) the end of the period of detention authorised by subsection (2)(a), or
 - (b) if subsection (2)(b) applies, the end of the day on which the proceedings referred to in that provision were concluded.
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b60d7c43ddd9ec071688d07450d29c9e]: Textual amendment: S. 101(5) substituted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 12(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/12/1), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2) (with [s. 12(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/12/2))
+[^c-b60d7c43ddd9ec071688d07450d29c9e]: Textual amendment: S. 101(5) substituted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 12(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/12/1), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2) (with [s. 12(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/12/2))

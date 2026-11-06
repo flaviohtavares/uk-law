@@ -27,7 +27,7 @@ summary: ''
 
 but a society or branch may not prevent a member from referring any dispute to arbitration under that section by purporting to require instead the making of a complaint or the acceptance of any determination of a complaint.
 
-(2) The FCA[^key-85ce0b359abd42c78709b3e37db8cb24] shall have the function of promoting the establishment by friendly societies and registered branches of—
+(2) The FCA[^c-85ce0b359abd42c78709b3e37db8cb24] shall have the function of promoting the establishment by friendly societies and registered branches of—
 
 - (a) internal complaints procedures; and
 - (b) schemes for the investigation and settlement of complaints;
@@ -43,4 +43,4 @@ and, in particular, the FCA may issue such guidance on those matters to friendly
 
 ## Annotations
 
-[^key-85ce0b359abd42c78709b3e37db8cb24]: Textual amendment: Word in [s. 81(2)](https://www.legislation.gov.uk/ukpga/1992/40/section/81/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 33](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/33) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-85ce0b359abd42c78709b3e37db8cb24]: Textual amendment: Word in [s. 81(2)](https://www.legislation.gov.uk/ukpga/1992/40/section/81/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 33](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/33) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))

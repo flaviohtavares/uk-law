@@ -24,7 +24,7 @@ summary: ''
 
 (2) “**Adult**” means a person who is aged 18 or over.
 
-(3) “**Child**” (except in section 83(2C))[^key-fd53f52d55edd1833273868d4b9d2adc] means a person who is aged under 18.
+(3) “**Child**” (except in section 83(2C))[^c-fd53f52d55edd1833273868d4b9d2adc] means a person who is aged under 18.
 
 (4) “**Carer**” means a person who provides or intends to provide care for an adult or disabled child; but see subsections (7) and (8) and section 187(1).
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd53f52d55edd1833273868d4b9d2adc]: Textual amendment: Words in s. 3(3) inserted (1.9.2021) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 24(2)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/24/2); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xl)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j) (as amended by [S.I. 2021/735](https://www.legislation.gov.uk/uksi/2021/735), [art. 2(5)(b)](https://www.legislation.gov.uk/uksi/2021/735/article/2/5/b))
+[^c-fd53f52d55edd1833273868d4b9d2adc]: Textual amendment: Words in s. 3(3) inserted (1.9.2021) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 24(2)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/24/2); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xl)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j) (as amended by [S.I. 2021/735](https://www.legislation.gov.uk/uksi/2021/735), [art. 2(5)(b)](https://www.legislation.gov.uk/uksi/2021/735/article/2/5/b))

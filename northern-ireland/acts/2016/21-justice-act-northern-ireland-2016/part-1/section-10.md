@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Power to issue arrest warrant where debtor fails to attend hearing[^key-25c11792ccbb9dbb91c92c0c95942734]
+## 10. Power to issue arrest warrant where debtor fails to attend hearing[^c-25c11792ccbb9dbb91c92c0c95942734]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25c11792ccbb9dbb91c92c0c95942734]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2016/21/section/10) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)
+[^c-25c11792ccbb9dbb91c92c0c95942734]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2016/21/section/10) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)

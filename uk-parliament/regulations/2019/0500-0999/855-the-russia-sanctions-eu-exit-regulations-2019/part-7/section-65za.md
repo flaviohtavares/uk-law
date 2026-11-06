@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65ZA. Detained transport asset licences[^key-b050c1b41d03b4d01290ca8211223ce7]
+## 65ZA. Detained transport asset licences[^c-b050c1b41d03b4d01290ca8211223ce7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The prohibitions in Chapter 4O (Detained transport assets) of Part 5 (Trade) do 
 
 ## Annotations
 
-[^key-b050c1b41d03b4d01290ca8211223ce7]: Textual amendment: [Regs. 65ZA](https://www.legislation.gov.uk/uksi/2019/855/regulation/65ZA), [65ZB](https://www.legislation.gov.uk/uksi/2019/855/regulation/65ZB) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2026/543/regulation/21)
+[^c-b050c1b41d03b4d01290ca8211223ce7]: Textual amendment: [Regs. 65ZA](https://www.legislation.gov.uk/uksi/2019/855/regulation/65ZA), [65ZB](https://www.legislation.gov.uk/uksi/2019/855/regulation/65ZB) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2026/543/regulation/21)

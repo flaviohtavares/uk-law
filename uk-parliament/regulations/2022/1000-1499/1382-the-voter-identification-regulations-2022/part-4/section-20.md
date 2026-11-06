@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Record of anonymous elector’s documents and electoral identity documents[^key-3b8d165973a0c3604537222141313bcd]
+## 20. Record of anonymous elector’s documents and electoral identity documents[^c-3b8d165973a0c3604537222141313bcd]
 
 *Extent: E+W+S*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b8d165973a0c3604537222141313bcd]: Commencement: Reg. 20 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-3b8d165973a0c3604537222141313bcd]: Commencement: Reg. 20 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

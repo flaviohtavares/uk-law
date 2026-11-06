@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. The assessment phase – previous claimants[^key-37013ffd84ec11603cc24290448cc973]
+## 6. The assessment phase – previous claimants[^c-37013ffd84ec11603cc24290448cc973]
 
 *Extent: N.I.*
 
@@ -65,4 +65,4 @@ is to be treated as a period when the claimant was previously entitled to an emp
 
 ## Annotations
 
-[^key-37013ffd84ec11603cc24290448cc973]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2016/219/regulation/6) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-37013ffd84ec11603cc24290448cc973]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2016/219/regulation/6) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

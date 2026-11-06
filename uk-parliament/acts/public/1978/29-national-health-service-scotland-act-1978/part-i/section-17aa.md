@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17AA. Provision of certain services under NHS contracts.[^c14160471][^key-046ff196cf20fcbfdda9dbc11f657411]
+## 17AA. Provision of certain services under NHS contracts.[^c14160471][^c-046ff196cf20fcbfdda9dbc11f657411]
 
 *Extent: S*
 
@@ -45,7 +45,7 @@ of goods or services that they reasonably require for the purposes of functions 
 
 [^c14160471]: Textual amendment: S. 17AA inserted (1.9.1997) by [1997 c. 46](https://www.legislation.gov.uk/ukpga/1997/46), [s. 31(2)](https://www.legislation.gov.uk/ukpga/1997/46/section/31/2); [S.I. 1997/1780](https://www.legislation.gov.uk/uksi/1997/1780), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/1780/article/2/3)
 
-[^key-046ff196cf20fcbfdda9dbc11f657411]: Modification: Pt. 1 applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
+[^c-046ff196cf20fcbfdda9dbc11f657411]: Modification: Pt. 1 applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
 
 [^c20963711]: Textual amendment: S. 17AA(3): words in definition of "ophthalmic list" substituted (1.4.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13), [ss. 42(1)](https://www.legislation.gov.uk/asp/2005/13/section/42/1), [43(3)](https://www.legislation.gov.uk/asp/2005/13/section/43/3), [Sch. 2 para. 2(5)(a)](https://www.legislation.gov.uk/asp/2005/13/schedule/2/paragraph/2/5/a); [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/121/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/121/schedule/2)
 

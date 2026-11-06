@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 4(2)(a)(iii), and (11) and 7(1)(e)
 
-**1.**[^key-4c538f44b91aaef5d808b9fdc1e5b55e] In addition to the general requirements contained in Schedule 1 every cold store shall have—
+**1.**[^c-4c538f44b91aaef5d808b9fdc1e5b55e] In addition to the general requirements contained in Schedule 1 every cold store shall have—
 
 - (a) a suitable system for the handling of carcases and wholesale cuts, except in any cold store in which only packaged fresh meat is handled and stored;
 - (b) sufficiently large chilling and refrigeration rooms, which are easy to clean, with adequate means and procedures to enable the internal temperature of fresh meat to be maintained at not more than +7°C for carcases and cuts, +3°C for offal and −12°C for frozen fresh meat;
@@ -32,4 +32,4 @@ Regulations 4(2)(a)(iii), and (11) and 7(1)(e)
 
 ## Annotations
 
-[^key-4c538f44b91aaef5d808b9fdc1e5b55e]: Commencement: Sch. 4 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-4c538f44b91aaef5d808b9fdc1e5b55e]: Commencement: Sch. 4 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

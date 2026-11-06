@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 166. Reference of appeal to the board[^key-65ae6a913f09d04b82058c135439fde3]
+## 166. Reference of appeal to the board[^c-65ae6a913f09d04b82058c135439fde3]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65ae6a913f09d04b82058c135439fde3]: Commencement: Reg. 166 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-65ae6a913f09d04b82058c135439fde3]: Commencement: Reg. 166 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

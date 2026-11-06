@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27.3. Application for reporting restriction pending application for order for retrial[^key-3fec0ce7af0377fe0d3bcb6805aab167]
+## 27.3. Application for reporting restriction pending application for order for retrial[^c-3fec0ce7af0377fe0d3bcb6805aab167]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fec0ce7af0377fe0d3bcb6805aab167]: Commencement: [Rule 27.3](https://www.legislation.gov.uk/uksi/2025/909/rule/27.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-3fec0ce7af0377fe0d3bcb6805aab167]: Commencement: [Rule 27.3](https://www.legislation.gov.uk/uksi/2025/909/rule/27.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 236. Procedure on appeal[^key-55493f8c997bd96f484dfaf4c3c4c889]
+## 236. Procedure on appeal[^c-55493f8c997bd96f484dfaf4c3c4c889]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55493f8c997bd96f484dfaf4c3c4c889]: Commencement: [Rule 236](https://www.legislation.gov.uk/nisr/2026/11/rule/236) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-55493f8c997bd96f484dfaf4c3c4c889]: Commencement: [Rule 236](https://www.legislation.gov.uk/nisr/2026/11/rule/236) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

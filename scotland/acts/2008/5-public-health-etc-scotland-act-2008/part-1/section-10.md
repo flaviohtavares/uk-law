@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Directions under section 9(1): supplementary[^key-2c2c3b2c3dd9dd2959119c8e634b4c18]
+## 10. Directions under section 9(1): supplementary[^c-2c2c3b2c3dd9dd2959119c8e634b4c18]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ that person in exercising that function.
 
 ## Annotations
 
-[^key-2c2c3b2c3dd9dd2959119c8e634b4c18]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2008/5/section/10) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-2c2c3b2c3dd9dd2959119c8e634b4c18]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2008/5/section/10) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

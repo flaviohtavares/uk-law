@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65.21. Scope of this Section and interpretation[^key-fe983083cb3d124dd305ab0b59611da3]
+## 65.21. Scope of this Section and interpretation[^c-fe983083cb3d124dd305ab0b59611da3]
 
 *Extent: E+W*
 
-(1) This Section applies to applications in proceedings in the County Court[^key-06ee65836197b66ca787a749c33c5656] under sub-sections (2), (3) or (3B) of section 1B of the Crime and Disorder Act 1998 by a relevant authority, and to applications for interim orders under section 1D of that Act.
+(1) This Section applies to applications in proceedings in the County Court[^c-06ee65836197b66ca787a749c33c5656] under sub-sections (2), (3) or (3B) of section 1B of the Crime and Disorder Act 1998 by a relevant authority, and to applications for interim orders under section 1D of that Act.
 
 (2) In this Section—
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fe983083cb3d124dd305ab0b59611da3]: Textual amendment: Pt. 65 inserted (30.6.2004) by [The Civil Procedure (Amendment) Rules 2004 (S.I. 2004/1306)](https://www.legislation.gov.uk/uksi/2004/1306), [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/1306/rule/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1306/schedule/2) (with [rule 20(2)(a)](https://www.legislation.gov.uk/uksi/2004/1306/rule/20/2/a))
+[^c-fe983083cb3d124dd305ab0b59611da3]: Textual amendment: Pt. 65 inserted (30.6.2004) by [The Civil Procedure (Amendment) Rules 2004 (S.I. 2004/1306)](https://www.legislation.gov.uk/uksi/2004/1306), [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/1306/rule/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1306/schedule/2) (with [rule 20(2)(a)](https://www.legislation.gov.uk/uksi/2004/1306/rule/20/2/a))
 
-[^key-06ee65836197b66ca787a749c33c5656]: Textual amendment: Words in Rules substituted (22.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rules 2(1)](https://www.legislation.gov.uk/uksi/2014/407/article/2/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2014/407/rule/4/a/i); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/954/article/2/a)
+[^c-06ee65836197b66ca787a749c33c5656]: Textual amendment: Words in Rules substituted (22.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rules 2(1)](https://www.legislation.gov.uk/uksi/2014/407/article/2/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2014/407/rule/4/a/i); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/954/article/2/a)

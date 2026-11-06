@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214F. Recapitalisation payment: report[^key-1d0b2a7278247d316987fd197ce9abcb]
+## 214F. Recapitalisation payment: report[^c-1d0b2a7278247d316987fd197ce9abcb]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ as the Treasury may specify.
 
 ## Annotations
 
-[^key-1d0b2a7278247d316987fd197ce9abcb]: Textual amendment: S. 214F inserted (16.7.2025) by [Bank Resolution (Recapitalisation) Act 2025 (c. 15)](https://www.legislation.gov.uk/ukpga/2025/15), [ss. 2](https://www.legislation.gov.uk/ukpga/2025/15/section/2), [8(2)](https://www.legislation.gov.uk/ukpga/2025/15/section/8/2); [S.I. 2025/872](https://www.legislation.gov.uk/uksi/2025/872), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/872/regulation/2/b)
+[^c-1d0b2a7278247d316987fd197ce9abcb]: Textual amendment: S. 214F inserted (16.7.2025) by [Bank Resolution (Recapitalisation) Act 2025 (c. 15)](https://www.legislation.gov.uk/ukpga/2025/15), [ss. 2](https://www.legislation.gov.uk/ukpga/2025/15/section/2), [8(2)](https://www.legislation.gov.uk/ukpga/2025/15/section/8/2); [S.I. 2025/872](https://www.legislation.gov.uk/uksi/2025/872), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/872/regulation/2/b)

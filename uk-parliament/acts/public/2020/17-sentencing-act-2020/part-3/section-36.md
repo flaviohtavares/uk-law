@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Financial circumstances order: offences[^key-b8d7790bb4e6a336d4ac1dedf769c2f7]
+## 36. Financial circumstances order: offences[^c-b8d7790bb4e6a336d4ac1dedf769c2f7]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ This subsection has effect despite anything in section 127(1) of the Magistrates
 
 ## Annotations
 
-[^key-b8d7790bb4e6a336d4ac1dedf769c2f7]: Commencement: S. 36 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-b8d7790bb4e6a336d4ac1dedf769c2f7]: Commencement: S. 36 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

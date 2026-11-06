@@ -28,35 +28,35 @@ Section 141
 
 *Extent: E+W*
 
-**1.**[^key-fba71149264eace1eac4bb446dc165f9] The Rehabilitation of Offenders Act 1974 is amended as follows.
+**1.**[^c-fba71149264eace1eac4bb446dc165f9] The Rehabilitation of Offenders Act 1974 is amended as follows.
 
-**2.**[^key-8d58efc207dd36ddc916ee4206bdd4fc] In section 1(4)(a) (references in Act to a conviction) for “Great Britain” substitute “ England and Wales ”.
+**2.**[^c-8d58efc207dd36ddc916ee4206bdd4fc] In section 1(4)(a) (references in Act to a conviction) for “Great Britain” substitute “ England and Wales ”.
 
-**3.**[^key-a16c5781c5988c7587ab9dfdfee7ea28] In section 2(5) (rehabilitation of persons dealt with in service disciplinary proceedings) for “Great Britain” substitute “ England and Wales ”.
+**3.**[^c-a16c5781c5988c7587ab9dfdfee7ea28] In section 2(5) (rehabilitation of persons dealt with in service disciplinary proceedings) for “Great Britain” substitute “ England and Wales ”.
 
 **Not yet in force.**
 
 **4.** Omit section 3 (special provision with respect to certain disposals by children's hearings under the Social Work (Scotland) Act 1968).
 
-**5.**[^key-8bdf46e218d7e5ea168fa0f6acf52487] In section 4(1)(a) (effect of rehabilitation) for “Great Britain” substitute “ England and Wales ”.
+**5.**[^c-8bdf46e218d7e5ea168fa0f6acf52487] In section 4(1)(a) (effect of rehabilitation) for “Great Britain” substitute “ England and Wales ”.
 
-**6.**[^key-16cef27fbe5793f84c6403850fbace91] (1) Section 7 (limitations on rehabilitation under the Act) is amended as follows.
+**6.**[^c-16cef27fbe5793f84c6403850fbace91] (1) Section 7 (limitations on rehabilitation under the Act) is amended as follows.
 
 (2) In subsection (2)(a) for “Great Britain” substitute “ England and Wales ”.
 
 (3) In subsection (3) for “Great Britain” substitute “ England and Wales ”.
 
-**7.**[^key-010afbd07f90c5cc51e7904c83fa05c4] Omit section 8(8) (defamation actions: application of section to Scotland).
+**7.**[^c-010afbd07f90c5cc51e7904c83fa05c4] Omit section 8(8) (defamation actions: application of section to Scotland).
 
-**8.**[^key-40f0ecb6923ae29c58d23b2a889b40d8] In section 8A(2)(d) (definition of “caution”) after “Wales” insert “ and which is not an alternative to prosecution (within the meaning of section 8AA) ”.
+**8.**[^c-40f0ecb6923ae29c58d23b2a889b40d8] In section 8A(2)(d) (definition of “caution”) after “Wales” insert “ and which is not an alternative to prosecution (within the meaning of section 8AA) ”.
 
-**9.**[^key-5da392fee6c338d07727d4906e43cf72] (1) Section 9 (unauthorised disclosure of spent convictions) is amended as follows.
+**9.**[^c-5da392fee6c338d07727d4906e43cf72] (1) Section 9 (unauthorised disclosure of spent convictions) is amended as follows.
 
 (2) In subsection (3) omit “(or, in Scotland, the accused person)”.
 
 (3) In subsection (8) omit “, in England and Wales,”.
 
-**10.**[^key-dc8fc1cebd1e09856556cfa38c7c8ad3] After section 10(1) (orders) insert—
+**10.**[^c-dc8fc1cebd1e09856556cfa38c7c8ad3] After section 10(1) (orders) insert—
 
 > (1A) Any power of the Secretary of State to make an order under any provision of this Act includes power—
 >
@@ -65,33 +65,33 @@ Section 141
 >
 > (1B) The power of the Secretary of State to make an order under section 5(6) includes power to make consequential provision which amends or repeals any provision of this Act or any other enactment.
 
-**11.**[^key-2de61a17186f753fc41c1cec1357d77d] Omit Schedule 1 (service disciplinary convictions referred to in section 6(6)(bb) of that Act).
+**11.**[^c-2de61a17186f753fc41c1cec1357d77d] Omit Schedule 1 (service disciplinary convictions referred to in section 6(6)(bb) of that Act).
 
 #### Rehabilitation of Offenders Act 1974: Scotland
 
 *Extent: S*
 
-**12.**[^key-88602c17a242f7d93ba409a7d5b835c5] The Rehabilitation of Offenders Act 1974 is amended as follows.
+**12.**[^c-88602c17a242f7d93ba409a7d5b835c5] The Rehabilitation of Offenders Act 1974 is amended as follows.
 
-**13.**[^key-c98b8b32dfe7e8eb68c820b01d719f6d] In section 1(4)(a) (references in Act to a conviction) for “Great Britain” substitute “ Scotland ”.
+**13.**[^c-c98b8b32dfe7e8eb68c820b01d719f6d] In section 1(4)(a) (references in Act to a conviction) for “Great Britain” substitute “ Scotland ”.
 
-**14.**[^key-f1f017abd831dfce4dfaea8c55051228] In section 2(5) (rehabilitation of persons dealt with in service disciplinary proceedings) for “Great Britain” substitute “ Scotland ”.
+**14.**[^c-f1f017abd831dfce4dfaea8c55051228] In section 2(5) (rehabilitation of persons dealt with in service disciplinary proceedings) for “Great Britain” substitute “ Scotland ”.
 
-**15.**[^key-608eba4a0ad108d8b11958795845ad73] In section 4(1)(a) (effect of rehabilitation) for “Great Britain” substitute “ Scotland ”.
+**15.**[^c-608eba4a0ad108d8b11958795845ad73] In section 4(1)(a) (effect of rehabilitation) for “Great Britain” substitute “ Scotland ”.
 
-**16.**[^key-00c928e73b2451b453e896c413c47f70] (1) Section 7 (limitations on rehabilitation under the Act) is amended as follows.
+**16.**[^c-00c928e73b2451b453e896c413c47f70] (1) Section 7 (limitations on rehabilitation under the Act) is amended as follows.
 
 (2) In subsection (2)(a) for “Great Britain” substitute “ Scotland ”.
 
 (3) In subsection (3) for “Great Britain” substitute “ Scotland ”.
 
-**17.**[^key-11c655ebd4be46b54974f080bfa92561] (1) Section 9 (unauthorised disclosure of spent convictions) is amended as follows.
+**17.**[^c-11c655ebd4be46b54974f080bfa92561] (1) Section 9 (unauthorised disclosure of spent convictions) is amended as follows.
 
 (2) In subsection (3) for “defendant (or, in Scotland, the accused person)” substitute “ accused person ”.
 
 (3) Omit subsection (8).
 
-### Part 2 — Rehabilitation of offenders: consequential repeals[^key-e3bdae7dd2b1adc7c9be53560aa3abb2]
+### Part 2 — Rehabilitation of offenders: consequential repeals[^c-e3bdae7dd2b1adc7c9be53560aa3abb2]
 
 *Extent: E+W*
 
@@ -130,36 +130,36 @@ Section 141
 
 ## Annotations
 
-[^key-fba71149264eace1eac4bb446dc165f9]: Commencement: [Sch. 25 para. 1](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/1) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-fba71149264eace1eac4bb446dc165f9]: Commencement: [Sch. 25 para. 1](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/1) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
-[^key-8d58efc207dd36ddc916ee4206bdd4fc]: Commencement: [Sch. 25 para. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/2) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-8d58efc207dd36ddc916ee4206bdd4fc]: Commencement: [Sch. 25 para. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/2) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
-[^key-a16c5781c5988c7587ab9dfdfee7ea28]: Commencement: [Sch. 25 para. 3](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/3) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-a16c5781c5988c7587ab9dfdfee7ea28]: Commencement: [Sch. 25 para. 3](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/3) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
-[^key-8bdf46e218d7e5ea168fa0f6acf52487]: Commencement: [Sch. 25 para. 5](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/5) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-8bdf46e218d7e5ea168fa0f6acf52487]: Commencement: [Sch. 25 para. 5](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/5) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
-[^key-16cef27fbe5793f84c6403850fbace91]: Commencement: [Sch. 25 para. 6](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/6) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-16cef27fbe5793f84c6403850fbace91]: Commencement: [Sch. 25 para. 6](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/6) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
-[^key-010afbd07f90c5cc51e7904c83fa05c4]: Commencement: [Sch. 25 para. 7](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/7) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-010afbd07f90c5cc51e7904c83fa05c4]: Commencement: [Sch. 25 para. 7](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/7) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
-[^key-40f0ecb6923ae29c58d23b2a889b40d8]: Commencement: [Sch. 25 para. 8](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/8) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-40f0ecb6923ae29c58d23b2a889b40d8]: Commencement: [Sch. 25 para. 8](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/8) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
-[^key-5da392fee6c338d07727d4906e43cf72]: Commencement: [Sch. 25 para. 9](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/9) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-5da392fee6c338d07727d4906e43cf72]: Commencement: [Sch. 25 para. 9](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/9) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
-[^key-dc8fc1cebd1e09856556cfa38c7c8ad3]: Commencement: [Sch. 25 para. 10](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/10) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-dc8fc1cebd1e09856556cfa38c7c8ad3]: Commencement: [Sch. 25 para. 10](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/10) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
-[^key-2de61a17186f753fc41c1cec1357d77d]: Commencement: [Sch. 25 para. 11](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/11) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-2de61a17186f753fc41c1cec1357d77d]: Commencement: [Sch. 25 para. 11](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/11) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
-[^key-88602c17a242f7d93ba409a7d5b835c5]: Commencement: [Sch. 25 para. 12](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/12) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-88602c17a242f7d93ba409a7d5b835c5]: Commencement: [Sch. 25 para. 12](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/12) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
-[^key-c98b8b32dfe7e8eb68c820b01d719f6d]: Commencement: [Sch. 25 para. 13](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/13) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-c98b8b32dfe7e8eb68c820b01d719f6d]: Commencement: [Sch. 25 para. 13](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/13) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
-[^key-f1f017abd831dfce4dfaea8c55051228]: Commencement: [Sch. 25 para. 14](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/14) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-f1f017abd831dfce4dfaea8c55051228]: Commencement: [Sch. 25 para. 14](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/14) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
-[^key-608eba4a0ad108d8b11958795845ad73]: Commencement: [Sch. 25 para. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/15) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-608eba4a0ad108d8b11958795845ad73]: Commencement: [Sch. 25 para. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/15) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
-[^key-00c928e73b2451b453e896c413c47f70]: Commencement: [Sch. 25 para. 16](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/16) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-00c928e73b2451b453e896c413c47f70]: Commencement: [Sch. 25 para. 16](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/16) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
-[^key-11c655ebd4be46b54974f080bfa92561]: Commencement: [Sch. 25 para. 17](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/17) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-11c655ebd4be46b54974f080bfa92561]: Commencement: [Sch. 25 para. 17](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/paragraph/17) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
-[^key-e3bdae7dd2b1adc7c9be53560aa3abb2]: Commencement: [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-e3bdae7dd2b1adc7c9be53560aa3abb2]: Commencement: [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) in force at 10.3.2014 by [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))

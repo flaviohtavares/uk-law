@@ -24,10 +24,10 @@ summary: ''
 
 (2) Condition A is that the total value of the benefits associated with the payment exceeds the variable limit, which is—
 
-- (a)[^key-60785920ec93bcb439d1fad3a9ab08b5] in a case where the amount of the payment is £100 or less, 25% of that amount, and
+- (a)[^c-60785920ec93bcb439d1fad3a9ab08b5] in a case where the amount of the payment is £100 or less, 25% of that amount, and
 - (b) in a case where the amount of the payment exceeds £100, the sum of £25 and 5% of the amount of the excess.
 
-(3) Condition B is that the sum of the following total values is more than £2,500[^key-39d1449f864359e585f7e9c510950f9a]—
+(3) Condition B is that the sum of the following total values is more than £2,500[^c-39d1449f864359e585f7e9c510950f9a]—
 
 - (a) the total value of the benefits associated with the payment, and
 - (b) the total value of the benefits (if any) associated with each relevant prior payment.
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-60785920ec93bcb439d1fad3a9ab08b5]: Textual amendment: [S. 197(2)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/197/2/a)[(b)](https://www.legislation.gov.uk/ukpga/2010/4/section/197/2/b) substituted for s. 197(2)(a)-(c) (with effect in accordance with s. 40(4) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 40(3)](https://www.legislation.gov.uk/ukpga/2019/1/section/40/3)
+[^c-60785920ec93bcb439d1fad3a9ab08b5]: Textual amendment: [S. 197(2)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/197/2/a)[(b)](https://www.legislation.gov.uk/ukpga/2010/4/section/197/2/b) substituted for s. 197(2)(a)-(c) (with effect in accordance with s. 40(4) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 40(3)](https://www.legislation.gov.uk/ukpga/2019/1/section/40/3)
 
-[^key-39d1449f864359e585f7e9c510950f9a]: Textual amendment: Sum in s. 197(3) substituted (with effect in accordance with s. 41(5) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2011/11/section/41/2)
+[^c-39d1449f864359e585f7e9c510950f9a]: Textual amendment: Sum in s. 197(3) substituted (with effect in accordance with s. 41(5) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2011/11/section/41/2)

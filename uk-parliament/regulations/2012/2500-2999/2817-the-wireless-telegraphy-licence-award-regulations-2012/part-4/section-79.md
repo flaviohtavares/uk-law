@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Assignment of 2.6 GHz concurrent low power 20 MHz lots in the case where 2.6 GHz paired frequency lots were included in only one winning principal stage bid[^key-246849f76bcf3539df4d5212004d3c02]
+## 79. Assignment of 2.6 GHz concurrent low power 20 MHz lots in the case where 2.6 GHz paired frequency lots were included in only one winning principal stage bid[^c-246849f76bcf3539df4d5212004d3c02]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-246849f76bcf3539df4d5212004d3c02]: Commencement: Reg. 79 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-246849f76bcf3539df4d5212004d3c02]: Commencement: Reg. 79 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

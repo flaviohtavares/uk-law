@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Rule for determining end of period of disqualification[^key-b041f510be8af9c44cda5b43d2d5111f]
+## 67. Rule for determining end of period of disqualification[^c-b041f510be8af9c44cda5b43d2d5111f]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ is to be disregarded.
 
 ## Annotations
 
-[^key-b041f510be8af9c44cda5b43d2d5111f]: Commencement: S. 67 in force at 28.1.2010 for specified purposes by [S.I. 2008/3009](https://www.legislation.gov.uk/uksi/2008/3009), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/2/a)[(4)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/4)
+[^c-b041f510be8af9c44cda5b43d2d5111f]: Commencement: S. 67 in force at 28.1.2010 for specified purposes by [S.I. 2008/3009](https://www.legislation.gov.uk/uksi/2008/3009), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/2/a)[(4)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/4)

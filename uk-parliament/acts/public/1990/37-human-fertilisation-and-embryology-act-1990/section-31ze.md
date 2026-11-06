@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31ZE. Provision of information about donor-conceived genetic siblings[^key-2d2d95947a5291cbd9762917fb27ab44][^key-55aef3f4ce4409b95bd31cb460be8b2c]
+## 31ZE. Provision of information about donor-conceived genetic siblings[^c-2d2d95947a5291cbd9762917fb27ab44][^c-55aef3f4ce4409b95bd31cb460be8b2c]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ then, subject to subsection (4), the Authority shall disclose the agreed informa
 
 ## Annotations
 
-[^key-2d2d95947a5291cbd9762917fb27ab44]: Modification: S. 31ZE applied (with modifications) (29.10.2015) by [The Human Fertilisation and Embryology (Mitochondrial Donation) Regulations 2015 (S.I. 2015/572)](https://www.legislation.gov.uk/uksi/2015/572), [regs. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1), [15](https://www.legislation.gov.uk/uksi/2015/572/regulation/15)
+[^c-2d2d95947a5291cbd9762917fb27ab44]: Modification: S. 31ZE applied (with modifications) (29.10.2015) by [The Human Fertilisation and Embryology (Mitochondrial Donation) Regulations 2015 (S.I. 2015/572)](https://www.legislation.gov.uk/uksi/2015/572), [regs. 1](https://www.legislation.gov.uk/uksi/2015/572/regulation/1), [15](https://www.legislation.gov.uk/uksi/2015/572/regulation/15)
 
-[^key-55aef3f4ce4409b95bd31cb460be8b2c]: Textual amendment: Ss. 31-31ZG substituted for s. 31 (6.4.2009 for specified purposes, 1.10.2009 for remaining purposes) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 24](https://www.legislation.gov.uk/ukpga/2008/22/section/24), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 5(d)(h)](https://www.legislation.gov.uk/uksi/2009/479/article/5/d/h) (with [art. 7 Sch.](https://www.legislation.gov.uk/uksi/2009/479/article/7/schedule)); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(k)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/k); for savings see [S.I](https://www.legislation.gov.uk/uksi/2009/2232/section/I). 2009/1892, art. 1(1)(b), Sch. 4 para. 13
+[^c-55aef3f4ce4409b95bd31cb460be8b2c]: Textual amendment: Ss. 31-31ZG substituted for s. 31 (6.4.2009 for specified purposes, 1.10.2009 for remaining purposes) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 24](https://www.legislation.gov.uk/ukpga/2008/22/section/24), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 5(d)(h)](https://www.legislation.gov.uk/uksi/2009/479/article/5/d/h) (with [art. 7 Sch.](https://www.legislation.gov.uk/uksi/2009/479/article/7/schedule)); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(k)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/k); for savings see [S.I](https://www.legislation.gov.uk/uksi/2009/2232/section/I). 2009/1892, art. 1(1)(b), Sch. 4 para. 13

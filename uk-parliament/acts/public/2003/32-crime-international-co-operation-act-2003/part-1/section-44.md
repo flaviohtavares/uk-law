@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Monitoring banking transactions[^key-a06b9d54f160884c6b688e398bfb6f37]
+## 44. Monitoring banking transactions[^c-a06b9d54f160884c6b688e398bfb6f37]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a06b9d54f160884c6b688e398bfb6f37]: Commencement: S. 44 in force at 1.11.2006 by [S.I. 2006/2811](https://www.legislation.gov.uk/uksi/2006/2811), [art. 3](https://www.legislation.gov.uk/uksi/2006/2811/article/3)
+[^c-a06b9d54f160884c6b688e398bfb6f37]: Commencement: S. 44 in force at 1.11.2006 by [S.I. 2006/2811](https://www.legislation.gov.uk/uksi/2006/2811), [art. 3](https://www.legislation.gov.uk/uksi/2006/2811/article/3)

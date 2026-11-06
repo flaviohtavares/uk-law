@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Amendments to Commission Delegated Regulation (EU) 2019/1666 Regulation (EU) 2017/625 of the European Parliament and of the Council as regards conditions for monitoring the transport and arrival of consignments of certain goods from the border control post of arrival to the establishment at the place of destination in the Union[^key-d4a1d9b9c96c004630ca79d32318c501]
+## 32. Amendments to Commission Delegated Regulation (EU) 2019/1666 Regulation (EU) 2017/625 of the European Parliament and of the Council as regards conditions for monitoring the transport and arrival of consignments of certain goods from the border control post of arrival to the establishment at the place of destination in the Union[^c-d4a1d9b9c96c004630ca79d32318c501]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,7 +78,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d4a1d9b9c96c004630ca79d32318c501]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
+[^c-d4a1d9b9c96c004630ca79d32318c501]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
 
 [^c24368871]: Marginal citation: The definition of ‘third country’ in Article 3 of Regulation (EU) 2017/625 is inserted by regulation 3 of the [Official Controls (Animals, Feed and Food, Plant Health etc) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481).
 

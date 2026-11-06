@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 349. International arrangements for exchanging information[^key-77bb3614d7029e12c4d5bcda6c2ac304]
+## 349. International arrangements for exchanging information[^c-77bb3614d7029e12c4d5bcda6c2ac304]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,8 +30,8 @@ summary: ''
 - (d) the OECD Standard for Automatic Exchange of Financial Account Information in Tax Matters, published in 2014;
 - (e) the OECD Model Mandatory Disclosure Rules for CRS Avoidance Arrangements and Opaque Offshore Structures, published in 2018;
 - (f) the OECD Model Rules for Reporting by Platform Operators with respect to Sellers in the Sharing and Gig Economy, published on 3 July 2020;
-- (fa)[^key-912d709a187de0203008919b95fd18a7] the OECD Crypto-Asset Reporting Framework, published in 2022;
-- (g) any other arrangements or agreements made in relation to any territory or territories outside the United Kingdom, or documents related to those arrangements or agreements, which make provision corresponding or similar to that made by any arrangements, agreement or document mentioned in any of paragraphs (a) to (fa)[^key-2878436c4c0aa17d01e4c60d20eaaaeb].
+- (fa)[^c-912d709a187de0203008919b95fd18a7] the OECD Crypto-Asset Reporting Framework, published in 2022;
+- (g) any other arrangements or agreements made in relation to any territory or territories outside the United Kingdom, or documents related to those arrangements or agreements, which make provision corresponding or similar to that made by any arrangements, agreement or document mentioned in any of paragraphs (a) to (fa)[^c-2878436c4c0aa17d01e4c60d20eaaaeb].
 
 (3) A reference in subsection (2) to arrangements, an agreement or another document includes a reference to the arrangements, agreement or other document as modified, supplemented or replaced from time to time.
 
@@ -86,8 +86,8 @@ summary: ''
 
 ## Annotations
 
-[^key-77bb3614d7029e12c4d5bcda6c2ac304]: Modification: [S. 349](https://www.legislation.gov.uk/ukpga/2023/30/section/349) power extended (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 276](https://www.legislation.gov.uk/ukpga/2026/11/section/276)
+[^c-77bb3614d7029e12c4d5bcda6c2ac304]: Modification: [S. 349](https://www.legislation.gov.uk/ukpga/2023/30/section/349) power extended (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 276](https://www.legislation.gov.uk/ukpga/2026/11/section/276)
 
-[^key-912d709a187de0203008919b95fd18a7]: Textual amendment: S. 349(2)(fa) inserted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 82(a)](https://www.legislation.gov.uk/ukpga/2025/8/section/82/a)
+[^c-912d709a187de0203008919b95fd18a7]: Textual amendment: S. 349(2)(fa) inserted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 82(a)](https://www.legislation.gov.uk/ukpga/2025/8/section/82/a)
 
-[^key-2878436c4c0aa17d01e4c60d20eaaaeb]: Textual amendment: Word in s. 349(2)(g) substituted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 82(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/82/b)
+[^c-2878436c4c0aa17d01e4c60d20eaaaeb]: Textual amendment: Word in s. 349(2)(g) substituted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 82(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/82/b)

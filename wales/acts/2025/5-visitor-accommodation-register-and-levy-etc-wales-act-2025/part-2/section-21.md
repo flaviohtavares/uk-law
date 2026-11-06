@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Double jeopardy[^key-08412cefbbea8e44d42e9524510d0e0d]
+## 21. Double jeopardy[^c-08412cefbbea8e44d42e9524510d0e0d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ A person is not liable to a penalty under this Part in respect of anything if th
 
 ## Annotations
 
-[^key-08412cefbbea8e44d42e9524510d0e0d]: Commencement: S. 21 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
+[^c-08412cefbbea8e44d42e9524510d0e0d]: Commencement: S. 21 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)

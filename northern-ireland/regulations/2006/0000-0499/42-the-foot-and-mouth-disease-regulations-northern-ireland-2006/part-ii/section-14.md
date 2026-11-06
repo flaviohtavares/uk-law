@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Maintenance of measures in respect of premises[^key-523a072fa0f5c7d78bd73e77b3f1e498]
+## 14. Maintenance of measures in respect of premises[^c-523a072fa0f5c7d78bd73e77b3f1e498]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-523a072fa0f5c7d78bd73e77b3f1e498]: Commencement: Reg. 14 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-523a072fa0f5c7d78bd73e77b3f1e498]: Commencement: Reg. 14 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

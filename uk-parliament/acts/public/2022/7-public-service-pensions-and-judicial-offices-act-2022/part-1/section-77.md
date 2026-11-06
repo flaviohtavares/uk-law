@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Meaning of “remediable service”[^key-c63be92eaafa3a3af243dd44f21bb73c][^key-9e05d81a8b071b44979ba85dc1cc5f54]
+## 77. Meaning of “remediable service”[^c-c63be92eaafa3a3af243dd44f21bb73c][^c-9e05d81a8b071b44979ba85dc1cc5f54]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c63be92eaafa3a3af243dd44f21bb73c]: Commencement: S. 77 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-c63be92eaafa3a3af243dd44f21bb73c]: Commencement: S. 77 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-9e05d81a8b071b44979ba85dc1cc5f54]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2022/7/section/77) in force at 1.10.2023 in force in so far as not already in force (or on such earlier day as may be appointed), see [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/d)[(e)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/e)
+[^c-9e05d81a8b071b44979ba85dc1cc5f54]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2022/7/section/77) in force at 1.10.2023 in force in so far as not already in force (or on such earlier day as may be appointed), see [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/d)[(e)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/e)

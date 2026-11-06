@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115D. Limits of powers under ss. 115B and 115C.[^key-d5a3e90e2b734adf6c92aa4eccbda8a9][^c13423191]
+## 115D. Limits of powers under ss. 115B and 115C.[^c-d5a3e90e2b734adf6c92aa4eccbda8a9][^c13423191]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ A council may exercise their powers under section 115B or 115C above to restrict
 
 ## Annotations
 
-[^key-d5a3e90e2b734adf6c92aa4eccbda8a9]: Modification: [S. 115D](https://www.legislation.gov.uk/ukpga/1980/66/section/115D) applied (18.2.2014) by [London Local Authorities and Transport for London Act 2013 (c. v)](https://www.legislation.gov.uk/ukla/2013/5), [s. 1(2)](https://www.legislation.gov.uk/ukla/2013/5/section/1/2)[(3)](https://www.legislation.gov.uk/ukla/2013/5/section/1/3)[16(4)](https://www.legislation.gov.uk/ukla/2013/5/section/16/4) (with [s. 16(7)](https://www.legislation.gov.uk/ukla/2013/5/section/16/7)[(10)](https://www.legislation.gov.uk/ukla/2013/5/section/16/10))
+[^c-d5a3e90e2b734adf6c92aa4eccbda8a9]: Modification: [S. 115D](https://www.legislation.gov.uk/ukpga/1980/66/section/115D) applied (18.2.2014) by [London Local Authorities and Transport for London Act 2013 (c. v)](https://www.legislation.gov.uk/ukla/2013/5), [s. 1(2)](https://www.legislation.gov.uk/ukla/2013/5/section/1/2)[(3)](https://www.legislation.gov.uk/ukla/2013/5/section/1/3)[16(4)](https://www.legislation.gov.uk/ukla/2013/5/section/16/4) (with [s. 16(7)](https://www.legislation.gov.uk/ukla/2013/5/section/16/7)[(10)](https://www.legislation.gov.uk/ukla/2013/5/section/16/10))
 
 [^c13423191]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/ukpga/1980/66/part/7A) inserted by [Local Government (Miscellaneous Provisions) Act 1982 (c. 30, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1982/30), [s. 20](https://www.legislation.gov.uk/ukpga/1982/30/section/20), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/1982/30/schedule/5/paragraph/1)
 

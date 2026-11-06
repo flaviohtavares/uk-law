@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 157H. Maximum amount of loans for living costs: eligible part-time students with reduced entitlement[^key-38517a92bbf535ed07f05c172588bf2e]
+## 157H. Maximum amount of loans for living costs: eligible part-time students with reduced entitlement[^c-38517a92bbf535ed07f05c172588bf2e]
 
 *Extent: E+W*
 
@@ -45,7 +45,7 @@ where—
 where—
 
 - A is the relevant intensity of study; and
-- Z is £4,582[^key-4b78af17f6c7111b11be908ebf5d2121].
+- Z is £4,582[^c-4b78af17f6c7111b11be908ebf5d2121].
 
 (4) Where the amount of special support loan calculated in accordance with paragraph (3) is equal to or higher than the amount calculated in accordance with paragraph (1)—
 
@@ -54,6 +54,6 @@ where—
 
 ## Annotations
 
-[^key-38517a92bbf535ed07f05c172588bf2e]: Textual amendment: Pt. 11B inserted (with application in accordance with reg. 1(2)(b) of the amending S.I.) by [The Education (Student Support) (Amendment) (No. 3) Regulations 2018 (S.I. 2018/472)](https://www.legislation.gov.uk/uksi/2018/472), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/472/regulation/1/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/472/schedule/1)
+[^c-38517a92bbf535ed07f05c172588bf2e]: Textual amendment: Pt. 11B inserted (with application in accordance with reg. 1(2)(b) of the amending S.I.) by [The Education (Student Support) (Amendment) (No. 3) Regulations 2018 (S.I. 2018/472)](https://www.legislation.gov.uk/uksi/2018/472), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/472/regulation/1/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/472/schedule/1)
 
-[^key-4b78af17f6c7111b11be908ebf5d2121]: Textual amendment: Sum in [reg. 157H(3)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/157H/3) substituted (with application in accordance with reg. 2(2)(c)(4) of the amending S.I.) by [The Education (Student Fees, Awards, Support and Loan Repayments) (Amendment) Regulations 2026 (S.I. 2026/130)](https://www.legislation.gov.uk/uksi/2026/130), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/130/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2026/130/regulation/2/2/c)[(4)](https://www.legislation.gov.uk/uksi/2026/130/regulation/2/4), [Sch.](https://www.legislation.gov.uk/uksi/2026/130/schedule)
+[^c-4b78af17f6c7111b11be908ebf5d2121]: Textual amendment: Sum in [reg. 157H(3)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/157H/3) substituted (with application in accordance with reg. 2(2)(c)(4) of the amending S.I.) by [The Education (Student Fees, Awards, Support and Loan Repayments) (Amendment) Regulations 2026 (S.I. 2026/130)](https://www.legislation.gov.uk/uksi/2026/130), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/130/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2026/130/regulation/2/2/c)[(4)](https://www.legislation.gov.uk/uksi/2026/130/regulation/2/4), [Sch.](https://www.legislation.gov.uk/uksi/2026/130/schedule)

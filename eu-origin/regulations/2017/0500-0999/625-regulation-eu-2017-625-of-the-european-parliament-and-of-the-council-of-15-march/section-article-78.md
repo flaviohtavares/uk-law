@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. The appropriate authority[^key-9defe82c00a61829b531653bdc42be1e] shall ensure that adequate financial resources are available to provide the staff and other resources necessary for the competent authorities to perform official controls and other official activities.
+1. The appropriate authority[^c-9defe82c00a61829b531653bdc42be1e] shall ensure that adequate financial resources are available to provide the staff and other resources necessary for the competent authorities to perform official controls and other official activities.
 
 2. This Chapter also applies in the case of delegation of certain official control tasks and other official activities in accordance with Articles 28 and 31.
 
 ## Annotations
 
-[^key-9defe82c00a61829b531653bdc42be1e]: Textual amendment: Words in [Art. 78(1)](https://www.legislation.gov.uk/eur/2017/625/article/78/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [16(1)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/16/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-9defe82c00a61829b531653bdc42be1e]: Textual amendment: Words in [Art. 78(1)](https://www.legislation.gov.uk/eur/2017/625/article/78/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [16(1)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/16/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

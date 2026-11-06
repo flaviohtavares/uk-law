@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Application to Northern Ireland[^key-69b772ebdca98525d8dc55d1c76ba7f2]
+## 98. Application to Northern Ireland[^c-69b772ebdca98525d8dc55d1c76ba7f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ In the application of these Regulations to Northern Ireland—
 
 ## Annotations
 
-[^key-69b772ebdca98525d8dc55d1c76ba7f2]: Commencement: Reg. 98 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-69b772ebdca98525d8dc55d1c76ba7f2]: Commencement: Reg. 98 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
 
 [^f00041]: Footnote: [1970 c. 31 (N.I.)](https://www.legislation.gov.uk/nia/1970/31).
 

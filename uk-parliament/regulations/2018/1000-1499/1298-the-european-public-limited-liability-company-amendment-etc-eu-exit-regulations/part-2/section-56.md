@@ -29,11 +29,11 @@ In regulation 22 (misuse of procedures)—
   - (ii) in sub-paragraph (a)—
     - (aa) after “the SE”, insert “ or the UK Societas ”;
     - (bb) for the second occurrence of “its” substitute “ their ”;
-- (b) in sub-paragraph (2)(b), after “its registration”, insert “as an SE (including registration as an SE which subsequently converted to a UK Societas on IP completion day[^key-7648c4cec9def0fcbd106263ce022691]);
+- (b) in sub-paragraph (2)(b), after “its registration”, insert “as an SE (including registration as an SE which subsequently converted to a UK Societas on IP completion day[^c-7648c4cec9def0fcbd106263ce022691]);
 - (c) in sub-paragraph (3)(b), after “the SE”, insert “ or the UK Societas ”.
 
 ## Annotations
 
 [^c23989111]: Commencement: Reg. 56 in force on IP completion day, see reg. 1 and [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7648c4cec9def0fcbd106263ce022691]: Textual amendment: Words in [reg. 56(b)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/56/b) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [3(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/3/f)
+[^c-7648c4cec9def0fcbd106263ce022691]: Textual amendment: Words in [reg. 56(b)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/56/b) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [3(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/3/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Council Regulation [(EEC) No 1536/92](https://www.legislation.gov.uk/eur/1992/1536) laying down common marketing standards for preserved tuna and bonito[^key-f6b9d4e8584ff581a543d92bb1316650]
+## 36. Council Regulation [(EEC) No 1536/92](https://www.legislation.gov.uk/eur/1992/1536) laying down common marketing standards for preserved tuna and bonito[^c-f6b9d4e8584ff581a543d92bb1316650]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6b9d4e8584ff581a543d92bb1316650]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-f6b9d4e8584ff581a543d92bb1316650]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

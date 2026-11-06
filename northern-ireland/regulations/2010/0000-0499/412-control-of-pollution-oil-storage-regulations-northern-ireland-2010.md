@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of the Environment, makes the following Regulations in exercise of the powers conferred by Articles 14 and 61(2) of the Water (Northern Ireland) Order 1999[^f00001]:
 
-## 1. Citation and commencement[^key-2a36b20c32c264e62f451e26455c8aeb]
+## 1. Citation and commencement[^c-2a36b20c32c264e62f451e26455c8aeb]
 
 These Regulations may be cited as the Control of Pollution (Oil Storage) Regulations (Northern Ireland) 2010 and shall come into operation on 20 March 2011.
 
-## 2. Interpretation[^key-f0481d0dac2d2e94c20729fa784ae1e0]
+## 2. Interpretation[^c-f0481d0dac2d2e94c20729fa784ae1e0]
 
 In these Regulations—
 
@@ -58,7 +58,7 @@ In these Regulations—
 - “oil” means any kind of oil and includes petrol, diesel, waste, vegetable and plant oil, but does not include uncut bitumen;
 - “secondary containment system” means a drip tray, an area surrounded by a bund or any other system for preventing oil which is no longer in its container from escaping from the place where it is stored.
 
-## 3. Application of Regulations[^key-ef3aaef02752ff63bc22a467dad2381d]
+## 3. Application of Regulations[^c-ef3aaef02752ff63bc22a467dad2381d]
 
 (1) Subject to paragraph (2), these Regulations apply to the storage of oil on any premises.
 
@@ -67,10 +67,10 @@ In these Regulations—
 - (a) in any container with a storage capacity of 200 litres or less;
 - (b) on any premises used wholly or mainly as a private dwelling if the storage capacity of the container in which it is stored is 3500 litres or less;
 - (c) on any farm if the oil is used in connection with agriculture within the meaning of the Agriculture Act (Northern Ireland) 1949[^f00002];
-- (d) on any premises regulated under the Control of Major Accident Hazards Regulations (Northern Ireland) 2015[^key-0d497ac6c6e9e262ef6db927c191041e] if the storage capacity of the container in which it is stored is 2,500 tonnes or more ; and
+- (d) on any premises regulated under the Control of Major Accident Hazards Regulations (Northern Ireland) 2015[^c-0d497ac6c6e9e262ef6db927c191041e] if the storage capacity of the container in which it is stored is 2,500 tonnes or more ; and
 - (e) in any container which is wholly underground.
 
-## 4. Requirements for oil storage – general[^key-4a87ff4486a4479a1f35a95e538a9e2c]
+## 4. Requirements for oil storage – general[^c-4a87ff4486a4479a1f35a95e538a9e2c]
 
 (1) Oil shall be stored in a container which is of sufficient strength and structural integrity to ensure that it is unlikely to burst or leak in its ordinary use.
 
@@ -91,7 +91,7 @@ In these Regulations—
 - (a) the drum’s storage capacity; or
 - (b) if there is more than one drum used at the same time with the tray, the aggregate storage capacity of the drums.
 
-## 5. Fixed tanks[^key-a176f5ff643012897b4f64de80deefba]
+## 5. Fixed tanks[^c-a176f5ff643012897b4f64de80deefba]
 
 (1) Any fixed tank used to store oil shall satisfy the following requirements —
 
@@ -130,7 +130,7 @@ In these Regulations—
 - (b) it shall be arranged so that any oil discharged is contained within the system; and
 - (c) in the case of a tap or valve, it shall be fitted with a lock and locked shut when not in use.
 
-## 6. Mobile bowsers[^key-fca6817503ce59092f05558037885ede]
+## 6. Mobile bowsers[^c-fca6817503ce59092f05558037885ede]
 
 (1) Any mobile bowser used for storing oil shall satisfy the following requirements —
 
@@ -143,7 +143,7 @@ In these Regulations—
 - (b) the pump or valve shall be provided with a lock and locked shut when not in use; and
 - (c) the pipe shall be fitted with a lockable valve at the end where it leaves the mobile bowser and shall be locked shut when not in use.
 
-## 7. Transitional provisions[^key-eaf405a06ce7f661c282026e6a43bd1e]
+## 7. Transitional provisions[^c-eaf405a06ce7f661c282026e6a43bd1e]
 
 (1) Subject to paragraph (2), where oil is stored in any container and that storage—
 
@@ -160,7 +160,7 @@ In these Regulations—
 - (b) if the period for compliance is extended under regulation 8(4), the expiry of that extension; or
 - (c) if there is an appeal against the notice, the date on which that appeal is determined or withdrawn.
 
-## 8. Notices to minimise pollution risks in transitional cases[^key-6890e25ce3787c5b721c4e1cc4ae2b9e]
+## 8. Notices to minimise pollution risks in transitional cases[^c-6890e25ce3787c5b721c4e1cc4ae2b9e]
 
 (1) In any case—
 
@@ -183,11 +183,11 @@ the Department may serve a notice on the person having custody or control of tha
 - (b) extend the period for compliance with any requirement of the notice;
 - (c) with the consent of the person on whom it is served, modify the requirements of the notice.
 
-## 9. Right of appeal in transitional cases[^key-02858cdad8b239e9cff685a10d523736]
+## 9. Right of appeal in transitional cases[^c-02858cdad8b239e9cff685a10d523736]
 
 A person on whom a notice is served under regulation 8 may, within 28 days beginning with the date on which the notice is served, appeal in writing against the notice to the Water Appeals Commission.
 
-## 10. Offences[^key-bc1e957ee6aa4e8001bb40843fcc01e8]
+## 10. Offences[^c-bc1e957ee6aa4e8001bb40843fcc01e8]
 
 (1) A person who has custody or control of any oil in circumstances in which there is a contravention of any provision of regulations 4, 5 and 6 or the requirements of a notice under regulation 8 shall be guilty of an offence and shall be liable—
 
@@ -222,28 +222,28 @@ A Regulatory Impact Assessment has been prepared in connection with these Regula
 
 [^f00001]: Footnote: [S.I. 1999/662 (N.I.6)](https://www.legislation.gov.uk/nisi/1999/662); Article 14(2) was amended by The Water and Sewerage Services (Northern Ireland) Order 2006 ([S.I.2006 No.3336 (N.I.21)](https://www.legislation.gov.uk/nisi/2006/3336)) Article 291(8)
 
-[^key-2a36b20c32c264e62f451e26455c8aeb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/412/regulation/1) in operation at 20.3.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/412/regulation/1)
+[^c-2a36b20c32c264e62f451e26455c8aeb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/412/regulation/1) in operation at 20.3.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/412/regulation/1)
 
-[^key-f0481d0dac2d2e94c20729fa784ae1e0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/412/regulation/2) in operation at 20.3.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/412/regulation/1)
+[^c-f0481d0dac2d2e94c20729fa784ae1e0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/412/regulation/2) in operation at 20.3.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/412/regulation/1)
 
-[^key-ef3aaef02752ff63bc22a467dad2381d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/412/regulation/3) in operation at 20.3.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/412/regulation/1)
+[^c-ef3aaef02752ff63bc22a467dad2381d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/412/regulation/3) in operation at 20.3.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/412/regulation/1)
 
 [^f00002]: Footnote: [1949 c.2 (N.I.)](https://www.legislation.gov.uk/apni/1949/2)
 
-[^key-0d497ac6c6e9e262ef6db927c191041e]: Textual amendment: Words in [reg. 3(2)(d)](https://www.legislation.gov.uk/nisr/2010/412/regulation/3/2/d) substituted (28.9.2015) by [The Control of Major Accident Hazards Regulations (Northern Ireland) 2015 (S.R. 2015/325)](https://www.legislation.gov.uk/nisr/2015/325), [reg. 1](https://www.legislation.gov.uk/nisr/2015/325/regulation/1), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/nisr/2015/325/schedule/6/part/2) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2015/325/regulation/3/2))
+[^c-0d497ac6c6e9e262ef6db927c191041e]: Textual amendment: Words in [reg. 3(2)(d)](https://www.legislation.gov.uk/nisr/2010/412/regulation/3/2/d) substituted (28.9.2015) by [The Control of Major Accident Hazards Regulations (Northern Ireland) 2015 (S.R. 2015/325)](https://www.legislation.gov.uk/nisr/2015/325), [reg. 1](https://www.legislation.gov.uk/nisr/2015/325/regulation/1), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/nisr/2015/325/schedule/6/part/2) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2015/325/regulation/3/2))
 
-[^key-4a87ff4486a4479a1f35a95e538a9e2c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2010/412/regulation/4) in operation at 20.3.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/412/regulation/1)
+[^c-4a87ff4486a4479a1f35a95e538a9e2c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2010/412/regulation/4) in operation at 20.3.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/412/regulation/1)
 
-[^key-a176f5ff643012897b4f64de80deefba]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/412/regulation/5) in operation at 20.3.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/412/regulation/1)
+[^c-a176f5ff643012897b4f64de80deefba]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/412/regulation/5) in operation at 20.3.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/412/regulation/1)
 
-[^key-fca6817503ce59092f05558037885ede]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2010/412/regulation/6) in operation at 20.3.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/412/regulation/1)
+[^c-fca6817503ce59092f05558037885ede]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2010/412/regulation/6) in operation at 20.3.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/412/regulation/1)
 
-[^key-eaf405a06ce7f661c282026e6a43bd1e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2010/412/regulation/7) in operation at 20.3.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/412/regulation/1)
+[^c-eaf405a06ce7f661c282026e6a43bd1e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2010/412/regulation/7) in operation at 20.3.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/412/regulation/1)
 
-[^key-6890e25ce3787c5b721c4e1cc4ae2b9e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2010/412/regulation/8) in operation at 20.3.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/412/regulation/1)
+[^c-6890e25ce3787c5b721c4e1cc4ae2b9e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2010/412/regulation/8) in operation at 20.3.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/412/regulation/1)
 
 [^M_F_14a4aacc-33f8-4a0b-caa8-53281531b4af]: Textual amendment: Words in reg. 8(1)(a) deleted (30.11.2011) by virtue of [The Control of Pollution (Oil Storage) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/385)](https://www.legislation.gov.uk/nisr/2011/385), [regs. 1](https://www.legislation.gov.uk/nisr/2011/385/regulation/1), [2](https://www.legislation.gov.uk/nisr/2011/385/regulation/2)
 
-[^key-02858cdad8b239e9cff685a10d523736]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2010/412/regulation/9) in operation at 20.3.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/412/regulation/1)
+[^c-02858cdad8b239e9cff685a10d523736]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2010/412/regulation/9) in operation at 20.3.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/412/regulation/1)
 
-[^key-bc1e957ee6aa4e8001bb40843fcc01e8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2010/412/regulation/10) in operation at 20.3.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/412/regulation/1)
+[^c-bc1e957ee6aa4e8001bb40843fcc01e8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2010/412/regulation/10) in operation at 20.3.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/412/regulation/1)

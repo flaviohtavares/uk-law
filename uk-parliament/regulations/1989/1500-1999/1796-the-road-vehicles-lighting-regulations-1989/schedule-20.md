@@ -35,11 +35,11 @@ summary: ''
 | *Extent: E+W+S+N.I.*<br>**5.**[^M_I_bebfc262-ca69-4f84-ed12-f4e713a70203] Size of reflecting area: | No requirement |
 | *Extent: E+W+S+N.I.*<br>**6.**[^M_I_8d7fd0bb-dc09-4292-90bb-643e42898c88] Colour: | Amber |
 
-**7.**[^key-f79e8e92637ddf53a8d0d04c30951ea5] Definitions–
+**7.**[^c-f79e8e92637ddf53a8d0d04c30951ea5] Definitions–
 
 - In this Schedule “British Standard mark” means the specification for photometric and physical requirements of reflective devices published by the British Standards Institution under the reference BS 6102: Part 2: 1982, namely “BS 6102/2”.
 
-### PART II — Requirements relating to optional pedal retro reflectors[^key-8eed8e36ba6f51dcdf280b7d7c62d846]
+### PART II — Requirements relating to optional pedal retro reflectors[^c-8eed8e36ba6f51dcdf280b7d7c62d846]
 
 Any number may be fitted and the only requirement prescribed by these Regulations in respect of any which are fitted is that specified in paragraph 6 of Part I.
 
@@ -57,6 +57,6 @@ Any number may be fitted and the only requirement prescribed by these Regulation
 
 [^M_I_8d7fd0bb-dc09-4292-90bb-643e42898c88]: Commencement: [Sch. 20 Pt. I para. 6](https://www.legislation.gov.uk/uksi/1989/1796/schedule/20/paragraph/7) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-f79e8e92637ddf53a8d0d04c30951ea5]: Commencement: [Sch. 20 Pt. I para. 7](https://www.legislation.gov.uk/uksi/1989/1796/schedule/20/paragraph/7) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-f79e8e92637ddf53a8d0d04c30951ea5]: Commencement: [Sch. 20 Pt. I para. 7](https://www.legislation.gov.uk/uksi/1989/1796/schedule/20/paragraph/7) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-8eed8e36ba6f51dcdf280b7d7c62d846]: Commencement: [Sch. 20 Pt. II](https://www.legislation.gov.uk/uksi/1989/1796/schedule/20/part/II) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-8eed8e36ba6f51dcdf280b7d7c62d846]: Commencement: [Sch. 20 Pt. II](https://www.legislation.gov.uk/uksi/1989/1796/schedule/20/part/II) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)

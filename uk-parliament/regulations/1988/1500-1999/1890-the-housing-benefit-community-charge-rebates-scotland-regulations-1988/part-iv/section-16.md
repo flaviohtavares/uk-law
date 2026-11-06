@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Disregard of changes in tax, contributions etc[^key-897f3ee1a1254c63ff3c3f76b3a45680]
+## 16. Disregard of changes in tax, contributions etc[^c-897f3ee1a1254c63ff3c3f76b3a45680]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ In calculating the claimant’s income the appropriate authority may disregard a
 
 ## Annotations
 
-[^key-897f3ee1a1254c63ff3c3f76b3a45680]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1988/1890/regulation/16) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-897f3ee1a1254c63ff3c3f76b3a45680]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1988/1890/regulation/16) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

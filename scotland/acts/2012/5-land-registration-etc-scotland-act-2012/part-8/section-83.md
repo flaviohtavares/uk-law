@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Proceedings involving the accuracy of the register[^key-3d44e12b5d1d7265c5d3bdc04ba4e2c8]
+## 83. Proceedings involving the accuracy of the register[^c-3d44e12b5d1d7265c5d3bdc04ba4e2c8]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ is put in question.
 
 ## Annotations
 
-[^key-3d44e12b5d1d7265c5d3bdc04ba4e2c8]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2012/5/section/83) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-3d44e12b5d1d7265c5d3bdc04ba4e2c8]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2012/5/section/83) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

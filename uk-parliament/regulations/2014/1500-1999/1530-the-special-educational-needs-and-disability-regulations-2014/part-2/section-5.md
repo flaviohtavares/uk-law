@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Decision whether or not to conduct an EHC needs assessment[^key-117515c7db8dce38d381b1dd52164fb0][^key-0c26a5cdc509dc9161b35d5b1e0c9bab]
+## 5. Decision whether or not to conduct an EHC needs assessment[^c-117515c7db8dce38d381b1dd52164fb0][^c-0c26a5cdc509dc9161b35d5b1e0c9bab]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ of its decision whether or not it is necessary to secure an EHC needs assessment
 
 ## Annotations
 
-[^key-117515c7db8dce38d381b1dd52164fb0]: Modification: Reg. 5 modified (1.9.2014) by [The Children and Families Act 2014 (Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/2270)](https://www.legislation.gov.uk/uksi/2014/2270), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/2270/article/1/2), [6(8)](https://www.legislation.gov.uk/uksi/2014/2270/article/6/8)
+[^c-117515c7db8dce38d381b1dd52164fb0]: Modification: Reg. 5 modified (1.9.2014) by [The Children and Families Act 2014 (Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/2270)](https://www.legislation.gov.uk/uksi/2014/2270), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/2270/article/1/2), [6(8)](https://www.legislation.gov.uk/uksi/2014/2270/article/6/8)
 
-[^key-0c26a5cdc509dc9161b35d5b1e0c9bab]: Modification: Reg. 5 modified (1.9.2014) by [The Children and Families Act 2014 (Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/2270)](https://www.legislation.gov.uk/uksi/2014/2270), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/2270/article/1/2), [5(8)](https://www.legislation.gov.uk/uksi/2014/2270/article/5/8)
+[^c-0c26a5cdc509dc9161b35d5b1e0c9bab]: Modification: Reg. 5 modified (1.9.2014) by [The Children and Families Act 2014 (Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/2270)](https://www.legislation.gov.uk/uksi/2014/2270), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/2270/article/1/2), [5(8)](https://www.legislation.gov.uk/uksi/2014/2270/article/5/8)

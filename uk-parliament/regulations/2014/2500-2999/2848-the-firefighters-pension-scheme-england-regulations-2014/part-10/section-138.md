@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Effect of transfers-out[^key-b6d5a3e80d66d4016e14543dd537dc32]
+## 138. Effect of transfers-out[^c-b6d5a3e80d66d4016e14543dd537dc32]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If a transfer payment is made under this Chapter in respect of a member’s accr
 
 ## Annotations
 
-[^key-b6d5a3e80d66d4016e14543dd537dc32]: Commencement: [Reg. 138](https://www.legislation.gov.uk/uksi/2014/2848/regulation/138) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-b6d5a3e80d66d4016e14543dd537dc32]: Commencement: [Reg. 138](https://www.legislation.gov.uk/uksi/2014/2848/regulation/138) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

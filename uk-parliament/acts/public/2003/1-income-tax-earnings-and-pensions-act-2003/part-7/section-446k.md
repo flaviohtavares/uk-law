@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 446K. Application of this Chapter[^key-06868e59dcbada837872488b6e7fb1cd]
+## 446K. Application of this Chapter[^c-06868e59dcbada837872488b6e7fb1cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 (3) In subsection (2)(b)—
 
 - (a) “**group**” means a company and its 51% subsidiaries, and
-- (b) “**group relief**” has the same meaning as in section 183(1) of CTA 2010[^key-00341c18651c3b8f097ae95ad4742a0f].
+- (b) “**group relief**” has the same meaning as in section 183(1) of CTA 2010[^c-00341c18651c3b8f097ae95ad4742a0f].
 
 (4) In this Chapter, in relation to the market value of the employment-related securities—
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-06868e59dcbada837872488b6e7fb1cd]: Textual amendment: Pt. 7 Ch. 3B inserted (16.4.2003 with effect in accordance with Sch. 22 para. 6(2)-(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 6(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/6/1)
+[^c-06868e59dcbada837872488b6e7fb1cd]: Textual amendment: Pt. 7 Ch. 3B inserted (16.4.2003 with effect in accordance with Sch. 22 para. 6(2)-(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 6(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/6/1)
 
-[^key-00341c18651c3b8f097ae95ad4742a0f]: Textual amendment: Words in s. 446K(3)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 388](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/388) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-00341c18651c3b8f097ae95ad4742a0f]: Textual amendment: Words in s. 446K(3)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 388](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/388) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

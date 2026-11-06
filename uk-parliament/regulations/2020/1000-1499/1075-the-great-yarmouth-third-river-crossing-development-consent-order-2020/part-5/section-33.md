@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Acquisition of subsoil or airspace etc., only[^key-1b5ed4039e1a8a64d307f82803476515]
+## 33. Acquisition of subsoil or airspace etc., only[^c-1b5ed4039e1a8a64d307f82803476515]
 
 *Extent: E+W+S*
 
@@ -43,6 +43,6 @@ as the undertaker may require for or in connection with the authorised developme
 
 ## Annotations
 
-[^key-1b5ed4039e1a8a64d307f82803476515]: Commencement: Art. 33 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-1b5ed4039e1a8a64d307f82803476515]: Commencement: Art. 33 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
 [^c24294611]: Marginal citation: [Section 153(4A)](https://www.legislation.gov.uk/uksi/2020/1075/section/153/4A) was inserted by section 200(2) of the [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).

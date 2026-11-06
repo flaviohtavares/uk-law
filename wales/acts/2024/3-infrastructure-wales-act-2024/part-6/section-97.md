@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97. Benefit of infrastructure consent order[^key-6fe1aebf6612adcef320a85a6574030a][^key-6fda213f75fa3d1423a4ab6414c8da93]
+## 97. Benefit of infrastructure consent order[^c-6fe1aebf6612adcef320a85a6574030a][^c-6fda213f75fa3d1423a4ab6414c8da93]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6fe1aebf6612adcef320a85a6574030a]: Commencement: S. 97 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-6fe1aebf6612adcef320a85a6574030a]: Commencement: S. 97 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-6fda213f75fa3d1423a4ab6414c8da93]: Commencement: [S. 97](https://www.legislation.gov.uk/asc/2024/3/section/97) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-6fda213f75fa3d1423a4ab6414c8da93]: Commencement: [S. 97](https://www.legislation.gov.uk/asc/2024/3/section/97) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)

@@ -160,7 +160,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 61 — School requiring significant improvement](part-4/section-61.md)
 - [Section 62 — School requiring special measures](part-4/section-62.md)
 
-#### Intervention by local authority[^key-0ea7acc4831332590d0c9da4689eca3c]
+#### Intervention by local authority[^c-0ea7acc4831332590d0c9da4689eca3c]
 
 *Extent: E+W*
 
@@ -184,7 +184,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 70 — Governing bodies consisting of interim executive members](part-4/section-70.md)
 
-#### Interaction between different intervention powers etc[^key-447a08a2662ec185a66d1bc10d3c89ae]
+#### Interaction between different intervention powers etc[^c-447a08a2662ec185a66d1bc10d3c89ae]
 
 - [Section 70A — Duties for local authorities and Secretary of State to notify each other](part-4/section-70a.md)
 - [Section 70B — Restriction on use of local authority intervention powers](part-4/section-70b.md)
@@ -341,9 +341,9 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 122 — General transfer of functions to the Chief Inspector](part-8/section-122.md)
 
-#### Chapter 2A — Inspection of Academy proprietors[^key-da26bb6584eb33870516a80b810cd311]
+#### Chapter 2A — Inspection of Academy proprietors[^c-da26bb6584eb33870516a80b810cd311]
 
-##### Inspection[^key-da26bb6584eb33870516a80b810cd311]
+##### Inspection[^c-da26bb6584eb33870516a80b810cd311]
 
 - [Section 122A — Duty to inspect Academy proprietors at specified intervals](part-8/section-122a.md)
 - [Section 122B — Report of section 122A inspection](part-8/section-122b.md)
@@ -352,15 +352,15 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 122E — Power or duty to treat other inspection as section 122A inspection](part-8/section-122e.md)
 - [Section 122F — Framework for inspections under this Chapter](part-8/section-122f.md)
 
-##### Powers of entry etc.[^key-da26bb6584eb33870516a80b810cd311]
+##### Powers of entry etc.[^c-da26bb6584eb33870516a80b810cd311]
 
 - [Section 122G — Powers of entry etc. for purposes of inspection](part-8/section-122g.md)
 
-##### Academy proprietors not performing to acceptable standard[^key-da26bb6584eb33870516a80b810cd311]
+##### Academy proprietors not performing to acceptable standard[^c-da26bb6584eb33870516a80b810cd311]
 
 - [Section 122H — Academy proprietors not performing to acceptable standard](part-8/section-122h.md)
 
-##### Supplementary[^key-da26bb6584eb33870516a80b810cd311]
+##### Supplementary[^c-da26bb6584eb33870516a80b810cd311]
 
 - [Section 122I — Regulations under Chapter 2A](part-8/section-122i.md)
 - [Section 122J — Interpretation of Chapter 2A](part-8/section-122j.md)
@@ -393,7 +393,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 133 — Framework for inspections](part-8/section-133.md)
 - [Section 134 — Abolition of Adult Learning Inspectorate](part-8/section-134.md)
 
-#### Chapter 4 — Inspection ... of Local Authorities in England[^key-4114b6420948cf8e71753450b7c0a98c]
+#### Chapter 4 — Inspection ... of Local Authorities in England[^c-4114b6420948cf8e71753450b7c0a98c]
 
 *Extent: E+W*
 
@@ -401,7 +401,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 135 — Functions to which this Chapter applies and related activities](part-8/section-135.md)
 
-##### Inspections ...[^key-f2da75155e2f7ff1c7697df8aa903fdf]
+##### Inspections ...[^c-f2da75155e2f7ff1c7697df8aa903fdf]
 
 - [Section 136 — Inspection of local authorities in England](part-8/section-136.md)
 - [Section 137 — Reports of inspections under section 136](part-8/section-137.md)
@@ -576,12 +576,12 @@ SCHEDULES
 
 ## Annotations
 
-[^key-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)
+[^c-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)
 
-[^key-447a08a2662ec185a66d1bc10d3c89ae]: Textual amendment: [Ss. 70A-70C](https://www.legislation.gov.uk/ukpga/2006/40/section/70A) and cross-heading inserted (18.4.2016) by [Education and Adoption Act 2016 (c. 6)](https://www.legislation.gov.uk/ukpga/2016/6), [ss. 6(3)](https://www.legislation.gov.uk/ukpga/2016/6/section/6/3), [19(2)](https://www.legislation.gov.uk/ukpga/2016/6/section/19/2); [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2)
+[^c-447a08a2662ec185a66d1bc10d3c89ae]: Textual amendment: [Ss. 70A-70C](https://www.legislation.gov.uk/ukpga/2006/40/section/70A) and cross-heading inserted (18.4.2016) by [Education and Adoption Act 2016 (c. 6)](https://www.legislation.gov.uk/ukpga/2016/6), [ss. 6(3)](https://www.legislation.gov.uk/ukpga/2016/6/section/6/3), [19(2)](https://www.legislation.gov.uk/ukpga/2016/6/section/19/2); [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2)
 
-[^key-da26bb6584eb33870516a80b810cd311]: Textual amendment: Pt. 8 Ch. 2A inserted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 57(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/57/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-da26bb6584eb33870516a80b810cd311]: Textual amendment: Pt. 8 Ch. 2A inserted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 57(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/57/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
-[^key-4114b6420948cf8e71753450b7c0a98c]: Textual amendment: Words in [Pt. 8 Ch. 4](https://www.legislation.gov.uk/ukpga/2006/40/part/8/chapter/4) heading omitted (18.7.2012) by virtue of [The Legislative Reform (Annual Review of Local Authorities) Order 2012 (S.I. 2012/1879)](https://www.legislation.gov.uk/uksi/2012/1879), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1879/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2012/1879/article/4/2)
+[^c-4114b6420948cf8e71753450b7c0a98c]: Textual amendment: Words in [Pt. 8 Ch. 4](https://www.legislation.gov.uk/ukpga/2006/40/part/8/chapter/4) heading omitted (18.7.2012) by virtue of [The Legislative Reform (Annual Review of Local Authorities) Order 2012 (S.I. 2012/1879)](https://www.legislation.gov.uk/uksi/2012/1879), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1879/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2012/1879/article/4/2)
 
-[^key-f2da75155e2f7ff1c7697df8aa903fdf]: Textual amendment: Words in [s. 136 cross-heading](https://www.legislation.gov.uk/ukpga/2006/40/part/8/chapter/4/crossheading/inspections-and-annual-reviews) omitted (18.7.2012) by virtue of [The Legislative Reform (Annual Review of Local Authorities) Order 2012 (S.I. 2012/1879)](https://www.legislation.gov.uk/uksi/2012/1879), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1879/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2012/1879/article/4/3)
+[^c-f2da75155e2f7ff1c7697df8aa903fdf]: Textual amendment: Words in [s. 136 cross-heading](https://www.legislation.gov.uk/ukpga/2006/40/part/8/chapter/4/crossheading/inspections-and-annual-reviews) omitted (18.7.2012) by virtue of [The Legislative Reform (Annual Review of Local Authorities) Order 2012 (S.I. 2012/1879)](https://www.legislation.gov.uk/uksi/2012/1879), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1879/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2012/1879/article/4/3)

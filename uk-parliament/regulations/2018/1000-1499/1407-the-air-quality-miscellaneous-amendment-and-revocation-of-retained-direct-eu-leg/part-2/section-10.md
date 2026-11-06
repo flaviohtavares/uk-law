@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Decision 2013/163/EU establishing the best available techniques (BAT) conclusions under Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions for the production of cement, lime and magnesium oxide[^key-dbc09a5936e61694983f7afb4b28c953]
+## 10. Decision 2013/163/EU establishing the best available techniques (BAT) conclusions under Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions for the production of cement, lime and magnesium oxide[^c-dbc09a5936e61694983f7afb4b28c953]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbc09a5936e61694983f7afb4b28c953]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-dbc09a5936e61694983f7afb4b28c953]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

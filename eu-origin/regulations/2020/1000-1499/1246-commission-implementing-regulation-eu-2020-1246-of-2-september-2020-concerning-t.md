@@ -35,32 +35,32 @@ concerning the non-renewal of the approval of the active substance fenamiphos, i
 
 (Text with EEA relevance) (revoked)
 
-[^key-a62c17a86dff690c27f075349d212947]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a62c17a86dff690c27f075349d212947]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Non-renewal of the approval of the active substance[^key-a62c17a86dff690c27f075349d212947]
+## Article 1. Non-renewal of the approval of the active substance[^c-a62c17a86dff690c27f075349d212947]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Amendment to Implementing Regulation (EU) No 540/2011[^key-a62c17a86dff690c27f075349d212947]
+## Article 2. Amendment to Implementing Regulation (EU) No 540/2011[^c-a62c17a86dff690c27f075349d212947]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Transitional measures[^key-a62c17a86dff690c27f075349d212947]
+## Article 3. Transitional measures[^c-a62c17a86dff690c27f075349d212947]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Grace period[^key-a62c17a86dff690c27f075349d212947]
+## Article 4. Grace period[^c-a62c17a86dff690c27f075349d212947]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Entry into force[^key-a62c17a86dff690c27f075349d212947]
+## Article 5. Entry into force[^c-a62c17a86dff690c27f075349d212947]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a62c17a86dff690c27f075349d212947]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a62c17a86dff690c27f075349d212947]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a62c17a86dff690c27f075349d212947]: Textual amendment: Regulation revoked (E.W.S.) (4.4.2022) by [The Pesticides (Revocation) (EU Exit) Regulations 2022 (S.I. 2022/144)](https://www.legislation.gov.uk/uksi/2022/144), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/144/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/144/schedule)
+[^c-a62c17a86dff690c27f075349d212947]: Textual amendment: Regulation revoked (E.W.S.) (4.4.2022) by [The Pesticides (Revocation) (EU Exit) Regulations 2022 (S.I. 2022/144)](https://www.legislation.gov.uk/uksi/2022/144), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/144/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/144/schedule)

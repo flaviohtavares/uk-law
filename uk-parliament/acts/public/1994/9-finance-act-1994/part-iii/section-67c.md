@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67C. Announced increase in rate of tax: exceptions and apportionments.[^key-64af1564e35bcf723ebadd2bca70500b]
+## 67C. Announced increase in rate of tax: exceptions and apportionments.[^c-64af1564e35bcf723ebadd2bca70500b]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64af1564e35bcf723ebadd2bca70500b]: Textual amendment: [Ss. 67A-67C](https://www.legislation.gov.uk/ukpga/1994/9/section/67A) omitted (with effect in accordance with s. 18(4) of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 18(3)(b)](https://www.legislation.gov.uk/ukpga/2017/10/section/18/3/b) (with [s. 18(5)](https://www.legislation.gov.uk/ukpga/2017/10/section/18/5))
+[^c-64af1564e35bcf723ebadd2bca70500b]: Textual amendment: [Ss. 67A-67C](https://www.legislation.gov.uk/ukpga/1994/9/section/67A) omitted (with effect in accordance with s. 18(4) of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 18(3)(b)](https://www.legislation.gov.uk/ukpga/2017/10/section/18/3/b) (with [s. 18(5)](https://www.legislation.gov.uk/ukpga/2017/10/section/18/5))

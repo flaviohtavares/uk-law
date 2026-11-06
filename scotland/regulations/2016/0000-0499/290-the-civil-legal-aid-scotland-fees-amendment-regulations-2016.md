@@ -46,11 +46,11 @@ Coming into force
 
 The Scottish Ministers make the following regulations in exercise of the powers conferred by sections 33(2)(a) and (3) of the Legal Aid (Scotland) Act 1986[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-ec3c69d5f9320e3c009b5828c4c2f0b7]
+## 1. Citation and commencement[^c-ec3c69d5f9320e3c009b5828c4c2f0b7]
 
 These regulations may be cited as the Civil Legal Aid (Scotland) (Fees) Amendment Regulations 2016 and come into force on 28th November 2016.
 
-## 2. Amendment of the Civil Legal Aid (Scotland) (Fees) Regulations 1989[^key-a885c17551cfee21ec43bd991092e127]
+## 2. Amendment of the Civil Legal Aid (Scotland) (Fees) Regulations 1989[^c-a885c17551cfee21ec43bd991092e127]
 
 (1) The Civil Legal Aid (Scotland) (Fees) Regulations 1989[^f00002] are amended as follows.
 
@@ -60,7 +60,7 @@ These regulations may be cited as the Civil Legal Aid (Scotland) (Fees) Amendmen
 - (b) in sub-paragraph (b), omit “and”; and
 - (c) after sub-paragraph (b) insert—
 
-  > - (ba) in a simple procedure case (within the meaning of section 72(9)[^key-bc3950fd50f0fd59c18df9d76dce18f1] of the Courts Reform (Scotland) Act 2014[^f00003]) shall be calculated in accordance with Schedule 2A; and
+  > - (ba) in a simple procedure case (within the meaning of section 72(9)[^c-bc3950fd50f0fd59c18df9d76dce18f1] of the Courts Reform (Scotland) Act 2014[^f00003]) shall be calculated in accordance with Schedule 2A; and
 
   .
 
@@ -78,7 +78,7 @@ Edinburgh
 
 14th September 2016
 
-## SCHEDULE[^key-c36332d8fda8ea1ea84481597c03c0d1]
+## SCHEDULE[^c-c36332d8fda8ea1ea84481597c03c0d1]
 
 Regulation 2
 
@@ -138,7 +138,7 @@ Regulation 2
 > </tbody>
 > </table>
 >
-> [^key-e4d9c900623363036c91994704afac3d][^key-2ba4310e46948080ac894ed903e848e7]
+> [^c-e4d9c900623363036c91994704afac3d][^c-2ba4310e46948080ac894ed903e848e7]
 
 EXPLANATORY NOTE
 
@@ -154,18 +154,18 @@ Regulation 2(4) amends paragraph 1 (interpretation) of Schedule 7 (sheriff court
 
 [^f00001]: Footnote: [1986 c.47](https://www.legislation.gov.uk/ukpga/1986/47). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-ec3c69d5f9320e3c009b5828c4c2f0b7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/290/regulation/1) in force at 28.11.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/290/regulation/1)
+[^c-ec3c69d5f9320e3c009b5828c4c2f0b7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/290/regulation/1) in force at 28.11.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/290/regulation/1)
 
-[^key-a885c17551cfee21ec43bd991092e127]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/290/regulation/2) in force at 28.11.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/290/regulation/1)
+[^c-a885c17551cfee21ec43bd991092e127]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/290/regulation/2) in force at 28.11.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/290/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1989/1490](https://www.legislation.gov.uk/uksi/1989/1490); relevant amending instruments are [S.S.I. 2003/178](https://www.legislation.gov.uk/ssi/2003/178), [S.S.I. 2009/203](https://www.legislation.gov.uk/ssi/2009/203) and [S.S.I. 2015/380](https://www.legislation.gov.uk/ssi/2015/380).
 
-[^key-bc3950fd50f0fd59c18df9d76dce18f1]: Textual amendment: Word in [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2016/290/regulation/2/2/c) substituted (28.11.2016) by [The Civil Legal Aid (Scotland) (Fees) Amendment (No. 2) Regulations 2016 (S.S.I. 2016/317)](https://www.legislation.gov.uk/ssi/2016/317), [regs. 1](https://www.legislation.gov.uk/ssi/2016/317/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2016/317/regulation/2/2)
+[^c-bc3950fd50f0fd59c18df9d76dce18f1]: Textual amendment: Word in [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2016/290/regulation/2/2/c) substituted (28.11.2016) by [The Civil Legal Aid (Scotland) (Fees) Amendment (No. 2) Regulations 2016 (S.S.I. 2016/317)](https://www.legislation.gov.uk/ssi/2016/317), [regs. 1](https://www.legislation.gov.uk/ssi/2016/317/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2016/317/regulation/2/2)
 
 [^f00003]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18).
 
-[^key-c36332d8fda8ea1ea84481597c03c0d1]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2016/290/schedule) in force at 28.11.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/290/regulation/1)
+[^c-c36332d8fda8ea1ea84481597c03c0d1]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2016/290/schedule) in force at 28.11.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/290/regulation/1)
 
-[^key-e4d9c900623363036c91994704afac3d]: Textual amendment: Word in [sch.](https://www.legislation.gov.uk/ssi/2016/290/schedule) substituted (28.11.2016) by [The Civil Legal Aid (Scotland) (Fees) Amendment (No. 2) Regulations 2016 (S.S.I. 2016/317)](https://www.legislation.gov.uk/ssi/2016/317), [regs. 1](https://www.legislation.gov.uk/ssi/2016/317/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2016/317/regulation/2/3/a)
+[^c-e4d9c900623363036c91994704afac3d]: Textual amendment: Word in [sch.](https://www.legislation.gov.uk/ssi/2016/290/schedule) substituted (28.11.2016) by [The Civil Legal Aid (Scotland) (Fees) Amendment (No. 2) Regulations 2016 (S.S.I. 2016/317)](https://www.legislation.gov.uk/ssi/2016/317), [regs. 1](https://www.legislation.gov.uk/ssi/2016/317/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2016/317/regulation/2/3/a)
 
-[^key-2ba4310e46948080ac894ed903e848e7]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2016/290/schedule) inserted (28.11.2016) by [The Civil Legal Aid (Scotland) (Fees) Amendment (No. 2) Regulations 2016 (S.S.I. 2016/317)](https://www.legislation.gov.uk/ssi/2016/317), [regs. 1](https://www.legislation.gov.uk/ssi/2016/317/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2016/317/regulation/2/3/b)
+[^c-2ba4310e46948080ac894ed903e848e7]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2016/290/schedule) inserted (28.11.2016) by [The Civil Legal Aid (Scotland) (Fees) Amendment (No. 2) Regulations 2016 (S.S.I. 2016/317)](https://www.legislation.gov.uk/ssi/2016/317), [regs. 1](https://www.legislation.gov.uk/ssi/2016/317/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2016/317/regulation/2/3/b)

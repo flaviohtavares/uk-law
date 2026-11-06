@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 345A. Obligation on licensing authority to maintain list of medicinal products to which derogations have applied[^key-5fdd5933688c12a6927e7987630cec40]
+## 345A. Obligation on licensing authority to maintain list of medicinal products to which derogations have applied[^c-5fdd5933688c12a6927e7987630cec40]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fdd5933688c12a6927e7987630cec40]: Textual amendment: [Reg. 345A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/345A) inserted (17.5.2023) by [The Human Medicines (Amendment) Regulations 2023 (S.I. 2023/437)](https://www.legislation.gov.uk/uksi/2023/437), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/437/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2023/437/regulation/5)
+[^c-5fdd5933688c12a6927e7987630cec40]: Textual amendment: [Reg. 345A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/345A) inserted (17.5.2023) by [The Human Medicines (Amendment) Regulations 2023 (S.I. 2023/437)](https://www.legislation.gov.uk/uksi/2023/437), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/437/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2023/437/regulation/5)

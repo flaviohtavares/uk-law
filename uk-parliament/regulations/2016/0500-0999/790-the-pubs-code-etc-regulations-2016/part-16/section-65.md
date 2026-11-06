@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Rent proposals[^key-f401a60bfda233129f4c3a83aa16f637]
+## 65. Rent proposals[^c-f401a60bfda233129f4c3a83aa16f637]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f401a60bfda233129f4c3a83aa16f637]: Commencement: Reg. 65 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-f401a60bfda233129f4c3a83aa16f637]: Commencement: Reg. 65 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

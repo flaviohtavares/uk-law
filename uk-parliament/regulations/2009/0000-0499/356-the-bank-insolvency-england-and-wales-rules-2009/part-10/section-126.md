@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 126. Vacancy (creditor members)[^key-d3f86753e354511d87f5a0fe62c494da]
+## 126. Vacancy (creditor members)[^c-d3f86753e354511d87f5a0fe62c494da]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.163 of the 1986 Rules.
 
 ## Annotations
 
-[^key-d3f86753e354511d87f5a0fe62c494da]: Commencement: Rule 126 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-d3f86753e354511d87f5a0fe62c494da]: Commencement: Rule 126 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

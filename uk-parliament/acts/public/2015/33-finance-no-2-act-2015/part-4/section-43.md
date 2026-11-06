@@ -222,16 +222,16 @@ summary: ''
 > - “**carried interest**”, in relation to arrangements referred to in section 103KA(1)(a), has the same meaning as in section 809EZB of ITA 2007 (see sections 809EZC and 809EZD of that Act);
 > - “**investment scheme**”, “**investment management services**” and “**external investor**” have the same meanings as in Chapter 5E of Part 13 of ITA 2007 (see sections 809EZA(6) and 809EZE of that Act).
 
-(2) The amendment made by subsection (1) has effect in relation to carried interest arising on or after 8 July 2015 under any arrangements, [^key-b6fe02cddd0faa557a27da6c28267e9b]....
+(2) The amendment made by subsection (1) has effect in relation to carried interest arising on or after 8 July 2015 under any arrangements, [^c-b6fe02cddd0faa557a27da6c28267e9b]....
 
 (3) But section 103KB(1) of TCGA 1992 (as inserted by subsection (1)) does not have effect in relation to a variation of a right to carried interest occurring on or after 8 July 2015 and before 22 October 2015.
 
-(4) And section 103KG(2) to (15) of TCGA 1992 (as inserted by subsection (1)) has effect in relation to carried interest arising on or after 22 October 2015 under any arrangements, [^key-fbbcb44cc3f1948246a9ba1632e8ce1e]....
+(4) And section 103KG(2) to (15) of TCGA 1992 (as inserted by subsection (1)) has effect in relation to carried interest arising on or after 22 October 2015 under any arrangements, [^c-fbbcb44cc3f1948246a9ba1632e8ce1e]....
 
 (5) In subsections (2) to (4), “**arise**”, “**arrangements**” and “**carried interest**” have the same meanings as in Chapter 5 of Part 3 of TCGA 1992 (as inserted by subsection (1) of this section).
 
 ## Annotations
 
-[^key-b6fe02cddd0faa557a27da6c28267e9b]: Textual amendment: Words in [s. 43(2)](https://www.legislation.gov.uk/ukpga/2015/33/section/43/2) omitted (with effect in accordance with s. 37(2) of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 37(1)(a)](https://www.legislation.gov.uk/ukpga/2018/3/section/37/1/a)
+[^c-b6fe02cddd0faa557a27da6c28267e9b]: Textual amendment: Words in [s. 43(2)](https://www.legislation.gov.uk/ukpga/2015/33/section/43/2) omitted (with effect in accordance with s. 37(2) of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 37(1)(a)](https://www.legislation.gov.uk/ukpga/2018/3/section/37/1/a)
 
-[^key-fbbcb44cc3f1948246a9ba1632e8ce1e]: Textual amendment: Words in [s. 43(4)](https://www.legislation.gov.uk/ukpga/2015/33/section/43/4) omitted (with effect in accordance with s. 37(2) of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 37(1)(b)](https://www.legislation.gov.uk/ukpga/2018/3/section/37/1/b)
+[^c-fbbcb44cc3f1948246a9ba1632e8ce1e]: Textual amendment: Words in [s. 43(4)](https://www.legislation.gov.uk/ukpga/2015/33/section/43/4) omitted (with effect in accordance with s. 37(2) of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 37(1)(b)](https://www.legislation.gov.uk/ukpga/2018/3/section/37/1/b)

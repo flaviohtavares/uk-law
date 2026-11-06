@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Control of deceased solicitor's practice in certain circumstances[^key-6f60c9d359b51badcd306626a287ebfe]
+## 39. Control of deceased solicitor's practice in certain circumstances[^c-6f60c9d359b51badcd306626a287ebfe]
 
 *Extent: N.I.*
 
@@ -44,6 +44,6 @@ the provisions of Schedule 1 shall, if the Council so resolve, apply with the ne
 
 ## Annotations
 
-[^key-6f60c9d359b51badcd306626a287ebfe]: Modification: [Art. 39](https://www.legislation.gov.uk/nisi/1976/582/article/39) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(o)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/o)
+[^c-6f60c9d359b51badcd306626a287ebfe]: Modification: [Art. 39](https://www.legislation.gov.uk/nisi/1976/582/article/39) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(o)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/o)
 
 [^c17113911]: Textual amendment: [1989 NI 14](https://www.legislation.gov.uk/1989/ni14)

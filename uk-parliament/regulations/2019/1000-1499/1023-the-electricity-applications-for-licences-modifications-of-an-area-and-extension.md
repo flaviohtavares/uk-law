@@ -41,13 +41,13 @@ Coming into force
 
 The Gas and Electricity Markets Authority[^f00001], in exercise of the powers conferred by sections 6A(2), (3) and (6) and 60 of the Electricity Act 1989[^f00002] makes the following Regulations:
 
-## 1. Citation, commencement and revocation[^key-93a88e2c2658759727ad0c6fc12d0132]
+## 1. Citation, commencement and revocation[^c-93a88e2c2658759727ad0c6fc12d0132]
 
 (1) These Regulations may be cited as the Electricity (Applications for Licences, Modifications of an Area and Extensions and Restrictions of Licences) Regulations 2019 and come into force on 5th July 2019.
 
 (2) The Electricity (Applications for Licences, Modifications of an Area and Extensions and Restrictions of Licences) Regulations 2010[^f00003] (“the 2010 Regulations”) are revoked.
 
-## 2. Transitional provisions[^key-66969515a84ba8cfbd2fd930362e1e30]
+## 2. Transitional provisions[^c-66969515a84ba8cfbd2fd930362e1e30]
 
 (1) Where an application has been made under the 2010 Regulations but at the date upon which these Regulations come into force the application has neither been granted nor refused, the application shall be treated thereafter as having been made under these Regulations.
 
@@ -55,7 +55,7 @@ The Gas and Electricity Markets Authority[^f00001], in exercise of the powers co
 
 (3) Where, in relation to an application to which paragraph (1) applies, the applicant, before the coming into force of these Regulations, published a notice of the application in accordance with the 2010 Regulations, the requirements of these Regulations as regards publication shall be taken to have been met.
 
-## 3. Interpretation[^key-ccb50bdc23bf73534303aa28659ab224]
+## 3. Interpretation[^c-ccb50bdc23bf73534303aa28659ab224]
 
 (1) In these Regulations—
 
@@ -97,14 +97,14 @@ subject to any modifications of the standard conditions made under Part I of the
 - (a) any reference to the Schedule is a reference to the Schedule of these Regulations; and
 - (b) any reference to a numbered paragraph is a reference to the paragraph bearing that number in the regulation in which the reference occurs.
 
-(4)[^key-05570551e610de1c8077c2af298e23e2] These Regulations do not apply to applications in respect of—
+(4)[^c-05570551e610de1c8077c2af298e23e2] These Regulations do not apply to applications in respect of—
 
 - (a) an “**offshore transmission licence**” as defined in section 64 of the Act;
 - (b) an “**electricity system operator licence**” as defined in section 6(1)(da) of the Act;
 - (c) a “**smart meter communication licence**” as defined in section 6(1)(f) of the Act; or
 - (d) a “**code manager licence**” as defined in section 6(1)(g) of the Act.
 
-## 4. Manner of Application[^key-76268977a4297cd43cd597c97a8f008b]
+## 4. Manner of Application[^c-76268977a4297cd43cd597c97a8f008b]
 
 An application shall be:
 
@@ -112,7 +112,7 @@ An application shall be:
 - (b) signed and dated by or on behalf of the applicant, stating, where signed on behalf of the applicant, the capacity of the signatory; and
 - (c) accompanied by the prescribed fee referred to in regulation 7 of these Regulations.
 
-## 5. Form of application[^key-08362c83d0f086a25d8b1767ea7f143a]
+## 5. Form of application[^c-08362c83d0f086a25d8b1767ea7f143a]
 
 (1) An application shall be made by completing in full the form shown in the Schedule.
 
@@ -120,7 +120,7 @@ An application shall be:
 
 (3) The Authority may make further enquiries of the applicant about any matter connected with the application and may request additional information or documentation as set out in the form in the Schedule.
 
-## 6. Additional information and documents to accompany application[^key-7fbae4bf2223007b3e823c76676d217d]
+## 6. Additional information and documents to accompany application[^c-7fbae4bf2223007b3e823c76676d217d]
 
 (1) Subject to paragraphs (2), (3) and (4)—
 
@@ -138,13 +138,13 @@ An application shall be:
 
 (4) The obligation imposed by paragraph (1)(a), (b) and (c) in relation to an application for an extension or restriction of a licence shall only apply to the extent that the information and documents differ from or add to the most recent information and documents provided in relation to an application made in accordance with these Regulations or in pursuance of a condition of the applicant’s licence.
 
-## 7. Application Fees[^key-e617e6a1ba11216dd69e0fa0441663ab]
+## 7. Application Fees[^c-e617e6a1ba11216dd69e0fa0441663ab]
 
 (1) Subject to paragraph (2), the prescribed fee in relation to an application of the description specified in the first column of the Table in the form in the Schedule shall be the corresponding fee specified in the second column of that Table.
 
 (2) Where more than one fee would, but for this paragraph, be payable in respect of a particular application, the prescribed fee shall be the higher or highest such fee.
 
-## 8. Publication of notice of application[^key-373623746f01abe8fbd34e5de21a3e89]
+## 8. Publication of notice of application[^c-373623746f01abe8fbd34e5de21a3e89]
 
 (1) The period prescribed for the purpose of section 6A(3) of the Act[^f00016] (notice of applications) is ten working days from the date the applicant is notified by the Authority that the application is duly made (“the prescribed period”).
 
@@ -167,7 +167,7 @@ For and by the Gas and Electricity Markets Authority
 
 13th June 2019
 
-## SCHEDULE[^key-81105ee06ccb6832522b9f726009a225]
+## SCHEDULE[^c-81105ee06ccb6832522b9f726009a225]
 
 Regulation 5
 
@@ -226,13 +226,13 @@ Regulation 8 provides for the notice period and publication requirements for app
 
 [^f00002]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29): with effect from 1 October 2001, section 30 of the Utilities Act 2000 introduced section 6A into the Electricity Act 1989
 
-[^key-93a88e2c2658759727ad0c6fc12d0132]: Commencement: Reg. 1 in force at 5.7.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1023/regulation/1/1)
+[^c-93a88e2c2658759727ad0c6fc12d0132]: Commencement: Reg. 1 in force at 5.7.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1023/regulation/1/1)
 
 [^f00003]: Footnote: [SI. 2010/2154](https://www.legislation.gov.uk/uksi/2010/2154).
 
-[^key-66969515a84ba8cfbd2fd930362e1e30]: Commencement: Reg. 2 in force at 5.7.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1023/regulation/1/1)
+[^c-66969515a84ba8cfbd2fd930362e1e30]: Commencement: Reg. 2 in force at 5.7.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1023/regulation/1/1)
 
-[^key-ccb50bdc23bf73534303aa28659ab224]: Commencement: Reg. 3 in force at 5.7.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1023/regulation/1/1)
+[^c-ccb50bdc23bf73534303aa28659ab224]: Commencement: Reg. 3 in force at 5.7.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1023/regulation/1/1)
 
 [^f00004]: Footnote: [2000 c.27](https://www.legislation.gov.uk/ukpga/2000/27).
 
@@ -258,20 +258,20 @@ Regulation 8 provides for the notice period and publication requirements for app
 
 [^f00015]: Footnote: section 33(1) was amended by section 143(1) of the Energy Act 2004
 
-[^key-05570551e610de1c8077c2af298e23e2]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2019/1023/regulation/3/4) substituted (25.5.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/2), [34](https://www.legislation.gov.uk/uksi/2024/706/regulation/34)
+[^c-05570551e610de1c8077c2af298e23e2]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2019/1023/regulation/3/4) substituted (25.5.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/2), [34](https://www.legislation.gov.uk/uksi/2024/706/regulation/34)
 
-[^key-76268977a4297cd43cd597c97a8f008b]: Commencement: Reg. 4 in force at 5.7.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1023/regulation/1/1)
+[^c-76268977a4297cd43cd597c97a8f008b]: Commencement: Reg. 4 in force at 5.7.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1023/regulation/1/1)
 
-[^key-08362c83d0f086a25d8b1767ea7f143a]: Commencement: Reg. 5 in force at 5.7.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1023/regulation/1/1)
+[^c-08362c83d0f086a25d8b1767ea7f143a]: Commencement: Reg. 5 in force at 5.7.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1023/regulation/1/1)
 
-[^key-7fbae4bf2223007b3e823c76676d217d]: Commencement: Reg. 6 in force at 5.7.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1023/regulation/1/1)
+[^c-7fbae4bf2223007b3e823c76676d217d]: Commencement: Reg. 6 in force at 5.7.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1023/regulation/1/1)
 
-[^key-e617e6a1ba11216dd69e0fa0441663ab]: Commencement: Reg. 7 in force at 5.7.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1023/regulation/1/1)
+[^c-e617e6a1ba11216dd69e0fa0441663ab]: Commencement: Reg. 7 in force at 5.7.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1023/regulation/1/1)
 
-[^key-373623746f01abe8fbd34e5de21a3e89]: Commencement: Reg. 8 in force at 5.7.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1023/regulation/1/1)
+[^c-373623746f01abe8fbd34e5de21a3e89]: Commencement: Reg. 8 in force at 5.7.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1023/regulation/1/1)
 
 [^f00016]: Footnote: section 6A was inserted by section 30 of the Utilities Act 2000.
 
 [^f00017]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29).
 
-[^key-81105ee06ccb6832522b9f726009a225]: Commencement: Sch. in force at 5.7.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1023/regulation/1/1)
+[^c-81105ee06ccb6832522b9f726009a225]: Commencement: Sch. in force at 5.7.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1023/regulation/1/1)

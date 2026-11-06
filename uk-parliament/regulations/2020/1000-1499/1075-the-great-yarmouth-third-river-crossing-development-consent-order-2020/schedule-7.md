@@ -24,9 +24,9 @@ Article 28(5)
 
 ### Compensation enactments
 
-**1.**[^key-2ec4c4ebb8f57ca1d9d6df9059205c57] The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right or imposition of a restrictive covenant as they apply as respects compensation for the compulsory purchase of land and interests in land.
+**1.**[^c-2ec4c4ebb8f57ca1d9d6df9059205c57] The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right or imposition of a restrictive covenant as they apply as respects compensation for the compulsory purchase of land and interests in land.
 
-**2.**[^key-5cc6cf6eaf0ec54d12493170214cfdb9] (1) Without limitation on the scope of paragraph 93, the 1961 Act has effect subject to the modification set out in sub-paragraph (2).
+**2.**[^c-5cc6cf6eaf0ec54d12493170214cfdb9] (1) Without limitation on the scope of paragraph 93, the 1961 Act has effect subject to the modification set out in sub-paragraph (2).
 
 (2) For section 5A(5A) (relevant valuation date) of the 1961 Act substitute—
 
@@ -40,7 +40,7 @@ Article 28(5)
 
 .
 
-**3.**[^key-c4eb8d89df7b9f4d1c35b7b7e33404a0] (1) Without limitation on the scope of paragraph 93, the Land Compensation Act 1973 [^c24294861] has effect subject to the modifications set out in sub-paragraph (2).
+**3.**[^c-c4eb8d89df7b9f4d1c35b7b7e33404a0] (1) Without limitation on the scope of paragraph 93, the Land Compensation Act 1973 [^c24294861] has effect subject to the modifications set out in sub-paragraph (2).
 
 (2) In section 44(1) (compensation for injurious affection), as it applies to compensation for injurious affection under section 7 (measure of compensation in case of severance) of the 1965 Act as substituted by paragraph 5(3)—
 
@@ -49,12 +49,12 @@ Article 28(5)
 
 ### Application of Part 1 of the 1965 Act
 
-**4.**[^key-51897ba64ef24374582b1f5d33030287] Part 1 (compulsory purchase under Acquisition of Land Act 1946) of the 1965 Act, as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act (and modified by article 31 (modification of Part 1 of the 1965 Act)) to the acquisition of land under article 25 (compulsory acquisition of land), applies to the compulsory acquisition of a right by the creation of a new right, or to the imposition of a restrictive covenant under article 28(1) (compulsory acquisition of rights)—
+**4.**[^c-51897ba64ef24374582b1f5d33030287] Part 1 (compulsory purchase under Acquisition of Land Act 1946) of the 1965 Act, as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act (and modified by article 31 (modification of Part 1 of the 1965 Act)) to the acquisition of land under article 25 (compulsory acquisition of land), applies to the compulsory acquisition of a right by the creation of a new right, or to the imposition of a restrictive covenant under article 28(1) (compulsory acquisition of rights)—
 
 - (a) with the modification specified in paragraph 5; and
 - (b) with such other modifications as may be necessary.
 
-**5.**[^key-efafa8324c669aa6d9ee1416ec000091] (1) The modifications referred to in paragraph 96(a) are as follows.
+**5.**[^c-efafa8324c669aa6d9ee1416ec000091] (1) The modifications referred to in paragraph 96(a) are as follows.
 
 (2) References in the 1965 Act to land are, in the appropriate contexts, to be read (according to the requirements of the particular context) as referring to, or as including references to—
 
@@ -143,17 +143,17 @@ are modified to secure that, as against persons with interests in the land which
 
 ## Annotations
 
-[^key-2ec4c4ebb8f57ca1d9d6df9059205c57]: Commencement: Sch. 7 para. 1 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-2ec4c4ebb8f57ca1d9d6df9059205c57]: Commencement: Sch. 7 para. 1 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-5cc6cf6eaf0ec54d12493170214cfdb9]: Commencement: Sch. 7 para. 2 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-5cc6cf6eaf0ec54d12493170214cfdb9]: Commencement: Sch. 7 para. 2 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-c4eb8d89df7b9f4d1c35b7b7e33404a0]: Commencement: Sch. 7 para. 3 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-c4eb8d89df7b9f4d1c35b7b7e33404a0]: Commencement: Sch. 7 para. 3 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
 [^c24294861]: Marginal citation: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26).
 
-[^key-51897ba64ef24374582b1f5d33030287]: Commencement: Sch. 7 para. 4 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-51897ba64ef24374582b1f5d33030287]: Commencement: Sch. 7 para. 4 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-efafa8324c669aa6d9ee1416ec000091]: Commencement: Sch. 7 para. 5 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-efafa8324c669aa6d9ee1416ec000091]: Commencement: Sch. 7 para. 5 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
 [^c24294871]: Marginal citation: [Section 11](https://www.legislation.gov.uk/uksi/2020/1075/section/11) was amended by section 34(1) of, and Schedule 4 to, the [Acquisition of Land Act 1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), [section 3](https://www.legislation.gov.uk/ukpga/1981/67/section/3) of, and Part 1 of Schedule 1 to, the [Housing (Consequential Provisions) Act 1985 (c. 71)](https://www.legislation.gov.uk/ukpga/1985/71), [section 14](https://www.legislation.gov.uk/ukpga/1985/71/section/14) of, and paragraph 12(1) of Schedule 5 to, the [Church of England (Miscellaneous Provisions) Measure 2006 (2006 No. 1)](https://www.legislation.gov.uk/ukpga/2006), [sections 186(2)](https://www.legislation.gov.uk/ukpga/2006/section/186/2), [187(2)](https://www.legislation.gov.uk/ukpga/2006/section/187/2) and 188 of, and paragraph 6 of Schedule 14 and paragraph 3 of Schedule 16 to, the [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

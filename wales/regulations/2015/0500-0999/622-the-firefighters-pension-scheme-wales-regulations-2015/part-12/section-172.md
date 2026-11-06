@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 172. Notices etc.[^key-faa2214a780d99843a8433ff6d663d80]
+## 172. Notices etc.[^c-faa2214a780d99843a8433ff6d663d80]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any notice, information or document which an appellant (P) is entitled to receiv
 
 ## Annotations
 
-[^key-faa2214a780d99843a8433ff6d663d80]: Commencement: Reg. 172 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-faa2214a780d99843a8433ff6d663d80]: Commencement: Reg. 172 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

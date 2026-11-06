@@ -27,17 +27,17 @@ summary: ''
 - (c) does not have a place of business in the territory where it is created, and
 - (d) is not regarded as tax transparent in the territory in which it is created.
 
-(2) A member of a multinational group to which this section applies is to be treated as being regarded as tax transparent in the territory it is created in[^key-c236e39706c51269aa1ca5da9181d33e] to the extent that—
+(2) A member of a multinational group to which this section applies is to be treated as being regarded as tax transparent in the territory it is created in[^c-c236e39706c51269aa1ca5da9181d33e] to the extent that—
 
-- (a) it is regarded as[^key-b8f641fc628636133afdae1088591c39] tax transparent in the territory in which holders of direct ownership interests in the member[^key-4906038f543720540c86a5cef0c4de4e] are located, and
+- (a) it is regarded as[^c-b8f641fc628636133afdae1088591c39] tax transparent in the territory in which holders of direct ownership interests in the member[^c-4906038f543720540c86a5cef0c4de4e] are located, and
 - (b) its income, expenditure, profits and losses are not attributable to a permanent establishment.
 
 (3) Accordingly, such a member is to be treated as a flow-through entity.
 
 ## Annotations
 
-[^key-c236e39706c51269aa1ca5da9181d33e]: Textual amendment: Word in s. 169(2) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 14(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/14/a), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-c236e39706c51269aa1ca5da9181d33e]: Textual amendment: Word in s. 169(2) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 14(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/14/a), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-b8f641fc628636133afdae1088591c39]: Textual amendment: Words in s. 169(2)(a) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 14(b)(i)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/14/b/i), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-b8f641fc628636133afdae1088591c39]: Textual amendment: Words in s. 169(2)(a) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 14(b)(i)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/14/b/i), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-4906038f543720540c86a5cef0c4de4e]: Textual amendment: Words in s. 169(2)(a) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 14(b)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/14/b/ii), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-4906038f543720540c86a5cef0c4de4e]: Textual amendment: Words in s. 169(2)(a) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 14(b)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/14/b/ii), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)

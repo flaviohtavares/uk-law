@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Speed limits[^key-e6dfa0b4213014e6aa7f6c537ea840ce]
+## 21. Speed limits[^c-e6dfa0b4213014e6aa7f6c537ea840ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -120,4 +120,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6dfa0b4213014e6aa7f6c537ea840ce]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2012/11/section/21) in force at 3.7.2012 by [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(k)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/k)
+[^c-e6dfa0b4213014e6aa7f6c537ea840ce]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2012/11/section/21) in force at 3.7.2012 by [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(k)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/k)

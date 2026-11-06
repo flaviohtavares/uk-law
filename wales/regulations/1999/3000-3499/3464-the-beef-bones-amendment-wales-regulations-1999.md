@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Beef Bones (Amendment) (Wales) Regulations 1999 (revoked)[^key-b538e7c4cef4325a4a19f6d454595ad7]
+The Beef Bones (Amendment) (Wales) Regulations 1999 (revoked)[^c-b538e7c4cef4325a4a19f6d454595ad7]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 17th December 1999
 
-[^key-b538e7c4cef4325a4a19f6d454595ad7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b538e7c4cef4325a4a19f6d454595ad7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, application and commencement[^key-b538e7c4cef4325a4a19f6d454595ad7]
+## 1. Citation, application and commencement[^c-b538e7c4cef4325a4a19f6d454595ad7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Beef Bones Regulations 1997[^key-b538e7c4cef4325a4a19f6d454595ad7]
+## 2. Amendments to the Beef Bones Regulations 1997[^c-b538e7c4cef4325a4a19f6d454595ad7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b538e7c4cef4325a4a19f6d454595ad7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b538e7c4cef4325a4a19f6d454595ad7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b538e7c4cef4325a4a19f6d454595ad7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b538e7c4cef4325a4a19f6d454595ad7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b538e7c4cef4325a4a19f6d454595ad7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/1999/3464) revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)
+[^c-b538e7c4cef4325a4a19f6d454595ad7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/1999/3464) revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)

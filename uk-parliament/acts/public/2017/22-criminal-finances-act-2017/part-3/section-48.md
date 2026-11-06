@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Offences: extra-territorial application and jurisdiction[^key-1e4e3b5ecfd60f0b6517e7b8b3bffba4][^c22725491]
+## 48. Offences: extra-territorial application and jurisdiction[^c-1e4e3b5ecfd60f0b6517e7b8b3bffba4][^c22725491]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ takes place in the United Kingdom or elsewhere.
 
 ## Annotations
 
-[^key-1e4e3b5ecfd60f0b6517e7b8b3bffba4]: Commencement: S. 48 in force at 30.9.2017 in so far as not already in force by [S.I. 2017/739](https://www.legislation.gov.uk/uksi/2017/739), [reg. 3](https://www.legislation.gov.uk/uksi/2017/739/regulation/3)
+[^c-1e4e3b5ecfd60f0b6517e7b8b3bffba4]: Commencement: S. 48 in force at 30.9.2017 in so far as not already in force by [S.I. 2017/739](https://www.legislation.gov.uk/uksi/2017/739), [reg. 3](https://www.legislation.gov.uk/uksi/2017/739/regulation/3)
 
 [^c22725491]: Commencement: S. 48 in force at Royal Assent for specified purposes, see s. 58

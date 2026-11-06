@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116L. Tax on transactions involving interests in land[^key-e245e107e61639c1e923cd5f4f8cad69]
+## 116L. Tax on transactions involving interests in land[^c-e245e107e61639c1e923cd5f4f8cad69]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,12 +45,12 @@ summary: ''
 - *Parliament etc*
   - The Corporate Officer of the House of Lords
   - The Corporate Officer of the House of Commons
-  - The Senedd[^key-60edd79c70d763519861630d1afb7962] Commission
+  - The Senedd[^c-60edd79c70d763519861630d1afb7962] Commission
   - The Scottish Parliamentary Corporate Body
   - The Northern Ireland Senedd Commission.
 
 ## Annotations
 
-[^key-e245e107e61639c1e923cd5f4f8cad69]: Textual amendment: Pt. 4A Ch. 3 inserted (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2014/29/section/15/1), [29(2)(b)(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/b) (with [s. 15(2)](https://www.legislation.gov.uk/ukpga/2014/29/section/15/2))
+[^c-e245e107e61639c1e923cd5f4f8cad69]: Textual amendment: Pt. 4A Ch. 3 inserted (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2014/29/section/15/1), [29(2)(b)(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/b) (with [s. 15(2)](https://www.legislation.gov.uk/ukpga/2014/29/section/15/2))
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))

@@ -22,7 +22,7 @@ summary: ''
 
 Section 4
 
-**1.**[^c22730241][^key-c8306c23b1aff51ed450ce696e4a1e24] This is the new Schedule A2 to the Planning and Compulsory Purchase Act 2004 referred to in section 4—
+**1.**[^c22730241][^c-c8306c23b1aff51ed450ce696e4a1e24] This is the new Schedule A2 to the Planning and Compulsory Purchase Act 2004 referred to in section 4—
 
 > **SCHEDULE A2 — Modification of neighbourhood development plans**
 >
@@ -342,4 +342,4 @@ Section 4
 
 [^c22730241]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/2017/20/schedule/1) in force for specified purposes at Royal Assent, see [s. 46](https://www.legislation.gov.uk/ukpga/2017/20/section/46)
 
-[^key-c8306c23b1aff51ed450ce696e4a1e24]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2017/20/schedule/1/paragraph/1) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/38/regulation/3/b)
+[^c-c8306c23b1aff51ed450ce696e4a1e24]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2017/20/schedule/1/paragraph/1) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/38/regulation/3/b)

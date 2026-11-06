@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7A — Biodiversity gain in England[^key-f6f526f77535ba2e027948750f3f9ff8]
+## SCHEDULE 7A — Biodiversity gain in England[^c-f6f526f77535ba2e027948750f3f9ff8]
 
 *Extent: E+W*
 
@@ -71,7 +71,7 @@ References to the biodiversity value of any habitat or habitat enhancement are t
 
 (3) But the person submitting the biodiversity gain plan for approval and the planning authority may agree that the relevant date is to be a date earlier than that specified in sub-paragraph (2)(a) or (b) (but not a date which is before the day on which this Schedule comes into force in relation to the development).
 
-(4) This paragraph is subject to paragraphs 6 , 6A, 6B[^key-1ab904a03d2cf2a7bc6033812e149b59] and 7.
+(4) This paragraph is subject to paragraphs 6 , 6A, 6B[^c-1ab904a03d2cf2a7bc6033812e149b59] and 7.
 
 **6.** If—
 
@@ -82,7 +82,7 @@ References to the biodiversity value of any habitat or habitat enhancement are t
 
 the pre-development biodiversity value of the onsite habitat is to be taken to be its biodiversity value immediately before the carrying on of the activities.
 
-**6A.**[^key-efde7f9f93248ce29a552a5d150fd527] If—
+**6A.**[^c-efde7f9f93248ce29a552a5d150fd527] If—
 
 - (a) a person carries on activities on land on or after 25 August 2023 in accordance with a planning permission (other than the planning permission referred to in paragraph 5(1)),
 - (b) on the relevant date, development for which that other planning permission was granted—
@@ -131,12 +131,12 @@ be maintained for at least 30 years after the development is completed.
 
 #### 10. Registered offsite biodiversity gains
 
-(1) “**Registered offsite biodiversity gain**” means any habitat enhancement of an offsite habitat[^key-c07a930e725c7e21801189721d1130a4], where—
+(1) “**Registered offsite biodiversity gain**” means any habitat enhancement of an offsite habitat[^c-c07a930e725c7e21801189721d1130a4], where—
 
 - (a) the enhancement is required to be carried out under a conservation covenant or planning obligation, and
 - (b) the enhancement is recorded in the biodiversity gain site register (as to which, see section 100 of the Environment Act 2021).
 
-(1A)[^key-58667e839df63cf06d5315f80e96f673] For the purposes of sub-paragraph (1) (and without prejudice to paragraphs 3 and 4(1)), a habitat enhancement is calculated as the amount by which the projected value of the offsite habitat as at the end of the maintenance period referred to in section 100(2)(b) of the Environment Act 2021 exceeds its pre-enhancement biodiversity value.
+(1A)[^c-58667e839df63cf06d5315f80e96f673] For the purposes of sub-paragraph (1) (and without prejudice to paragraphs 3 and 4(1)), a habitat enhancement is calculated as the amount by which the projected value of the offsite habitat as at the end of the maintenance period referred to in section 100(2)(b) of the Environment Act 2021 exceeds its pre-enhancement biodiversity value.
 
 (1B) The pre-enhancement biodiversity value of an offsite habitat is the biodiversity value of the offsite habitat on the relevant date.
 
@@ -167,12 +167,12 @@ the pre-enhancement biodiversity value of the offsite habitat is to be taken to 
 (1) In relation to development for which planning permission is granted—
 
 - “**onsite habitat**” means habitat on the land to which the planning permission relates;
-- “[^key-44a2d5b7a712df5b239b89c807bd26cb]**offsite habitat**” means habitat which is not onsite habitat.
+- “[^c-44a2d5b7a712df5b239b89c807bd26cb]**offsite habitat**” means habitat which is not onsite habitat.
 - “**planning authority**” means the local planning authority, except that—
   - (a) in a case where the planning permission is granted by Mayoral development order under section 61DB, “**planning authority**” means such of the Mayor of London or the local planning authority as may be specified in the order;
   - (b) in a case where the planning permission is granted by the Secretary of State under section 62A, 76A or 77, “**planning authority**” means such of the Secretary of State or the local planning authority as the Secretary of State may determine;
   - (c) in a case where the planning permission is granted on an appeal under section 78, “**planning authority**” means such of the person determining the appeal or the local planning authority as that person may direct.
-  - ((d)) in a case where the planning permission is granted under Part 3 by virtue of section 293H(1), “[^key-a041c7893d726813ca5ed2f25ee2029a]**planning authority**” means either—
+  - ((d)) in a case where the planning permission is granted under Part 3 by virtue of section 293H(1), “[^c-a041c7893d726813ca5ed2f25ee2029a]**planning authority**” means either—
     - where a person appointed by the Secretary of State in accordance with section 293I granted the planning permission, such of that person or the local planning authority as that person may determine, or
     - where the Secretary of State granted the planning permission in accordance with section 293J, such of the Secretary of State or the local planning authority as the Secretary of State may determine.
 
@@ -180,7 +180,7 @@ the pre-enhancement biodiversity value of the offsite habitat is to be taken to 
 
 (3) References to the grant of planning permission include the deemed grant of planning permission.
 
-### PART 1A — LOCAL PLANNING AUTHORITY[^key-cb086cb7231e1771e5eb7cfb5fb4fcb4]
+### PART 1A — LOCAL PLANNING AUTHORITY[^c-cb086cb7231e1771e5eb7cfb5fb4fcb4]
 
 #### 12A. Introduction
 
@@ -264,7 +264,7 @@ In a case where a direction has been given under section 266(1A) (application fo
 
 **12J.** References in this Part of this Schedule to the local planning authority to whom an application for planning permission was made include references to the local planning authority to whom such an application would have been made had it not been made to the Secretary of State under section 62A.
 
-### PART 2 — Condition of planning permission relating to biodiversity gain[^key-383c3f2b18f74ee6d5b42c0f86730588][^key-fcf0bafbad763ba139179aefea441aca]
+### PART 2 — Condition of planning permission relating to biodiversity gain[^c-383c3f2b18f74ee6d5b42c0f86730588][^c-fcf0bafbad763ba139179aefea441aca]
 
 #### 13. General condition of planning permission
 
@@ -298,7 +298,7 @@ In a case where a direction has been given under section 266(1A) (application fo
 - (c) the procedure to be followed in relation to the submission of a biodiversity gain plan (including the time by which a plan must be submitted);
 - (d) persons who may or must submit a biodiversity gain plan.
 
-(4)[^key-28ead462c1cf451b48530799d3705cd8] Section 327ZA applies to the power conferred by sub-paragraph (3) as if a biodiversity gain plan were an “associated document” within the meaning of that section.
+(4)[^c-28ead462c1cf451b48530799d3705cd8] Section 327ZA applies to the power conferred by sub-paragraph (3) as if a biodiversity gain plan were an “associated document” within the meaning of that section.
 
 #### 15. Approval of biodiversity gain plan
 
@@ -329,7 +329,7 @@ Paragraph 13 does not apply in relation to—
 
 - (a) development for which planning permission is granted—
   - (i) by a development order, or
-  - (ii) under section 293C[^key-8044c82c16a444021a3105138350aeeb] (urgent Crown development), or
+  - (ii) under section 293C[^c-8044c82c16a444021a3105138350aeeb] (urgent Crown development), or
 - (b) development of such other description as the Secretary of State may by regulations specify.
 
 #### 18. Modifications for irreplaceable habitat
@@ -371,26 +371,26 @@ The Secretary of State may by regulations make provision to apply this Part of t
 
 ## Annotations
 
-[^key-f6f526f77535ba2e027948750f3f9ff8]: Textual amendment: Sch. 7A inserted (3.11.2023 for specified purposes, 12.2.2024 for specified purposes, 1.5.2025 for specified purposes) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/14/paragraph/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2023/1170](https://www.legislation.gov.uk/uksi/2023/1170), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1170/regulation/2/d); [S.I. 2024/44](https://www.legislation.gov.uk/uksi/2024/44), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/1/d)[(2)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/44/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/44/regulation/4)); [S.I. 2025/447](https://www.legislation.gov.uk/uksi/2025/447), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2025/447/regulation/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2025/447/regulation/2/2)
+[^c-f6f526f77535ba2e027948750f3f9ff8]: Textual amendment: Sch. 7A inserted (3.11.2023 for specified purposes, 12.2.2024 for specified purposes, 1.5.2025 for specified purposes) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/14/paragraph/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2023/1170](https://www.legislation.gov.uk/uksi/2023/1170), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1170/regulation/2/d); [S.I. 2024/44](https://www.legislation.gov.uk/uksi/2024/44), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/1/d)[(2)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/44/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/44/regulation/4)); [S.I. 2025/447](https://www.legislation.gov.uk/uksi/2025/447), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2025/447/regulation/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2025/447/regulation/2/2)
 
-[^key-1ab904a03d2cf2a7bc6033812e149b59]: Textual amendment: Words in [Sch. 7A para. 5(4)](https://www.legislation.gov.uk/ukpga/1990/8/schedule/7A/paragraph/5/4) inserted (12.2.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 135(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/135/a), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 3](https://www.legislation.gov.uk/uksi/2024/92/regulation/3)
+[^c-1ab904a03d2cf2a7bc6033812e149b59]: Textual amendment: Words in [Sch. 7A para. 5(4)](https://www.legislation.gov.uk/ukpga/1990/8/schedule/7A/paragraph/5/4) inserted (12.2.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 135(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/135/a), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 3](https://www.legislation.gov.uk/uksi/2024/92/regulation/3)
 
-[^key-efde7f9f93248ce29a552a5d150fd527]: Textual amendment: [Sch. 7A paras. 6A](https://www.legislation.gov.uk/ukpga/1990/8/schedule/7A/paragraph/6A), [6B](https://www.legislation.gov.uk/ukpga/1990/8/schedule/7A/paragraph/6B) inserted (12.2.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 135(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/135/b), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 3](https://www.legislation.gov.uk/uksi/2024/92/regulation/3)
+[^c-efde7f9f93248ce29a552a5d150fd527]: Textual amendment: [Sch. 7A paras. 6A](https://www.legislation.gov.uk/ukpga/1990/8/schedule/7A/paragraph/6A), [6B](https://www.legislation.gov.uk/ukpga/1990/8/schedule/7A/paragraph/6B) inserted (12.2.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 135(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/135/b), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 3](https://www.legislation.gov.uk/uksi/2024/92/regulation/3)
 
-[^key-c07a930e725c7e21801189721d1130a4]: Textual amendment: Words in [Sch. 7A para. 10(1)](https://www.legislation.gov.uk/ukpga/1990/8/schedule/7A/paragraph/10/1) inserted (12.2.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 135(c)(i)](https://www.legislation.gov.uk/ukpga/2023/55/section/135/c/i), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 3](https://www.legislation.gov.uk/uksi/2024/92/regulation/3)
+[^c-c07a930e725c7e21801189721d1130a4]: Textual amendment: Words in [Sch. 7A para. 10(1)](https://www.legislation.gov.uk/ukpga/1990/8/schedule/7A/paragraph/10/1) inserted (12.2.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 135(c)(i)](https://www.legislation.gov.uk/ukpga/2023/55/section/135/c/i), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 3](https://www.legislation.gov.uk/uksi/2024/92/regulation/3)
 
-[^key-58667e839df63cf06d5315f80e96f673]: Textual amendment: [Sch. 7A para. 10(1A)-(1D)](https://www.legislation.gov.uk/ukpga/1990/8/schedule/7A/paragraph/10/1A) inserted (12.2.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 135(c)(ii)](https://www.legislation.gov.uk/ukpga/2023/55/section/135/c/ii), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 3](https://www.legislation.gov.uk/uksi/2024/92/regulation/3)
+[^c-58667e839df63cf06d5315f80e96f673]: Textual amendment: [Sch. 7A para. 10(1A)-(1D)](https://www.legislation.gov.uk/ukpga/1990/8/schedule/7A/paragraph/10/1A) inserted (12.2.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 135(c)(ii)](https://www.legislation.gov.uk/ukpga/2023/55/section/135/c/ii), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 3](https://www.legislation.gov.uk/uksi/2024/92/regulation/3)
 
-[^key-44a2d5b7a712df5b239b89c807bd26cb]: Textual amendment: Words in Sch. 7A para. 12(1) inserted (12.2.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 135(d)](https://www.legislation.gov.uk/ukpga/2023/55/section/135/d), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 3](https://www.legislation.gov.uk/uksi/2024/92/regulation/3)
+[^c-44a2d5b7a712df5b239b89c807bd26cb]: Textual amendment: Words in Sch. 7A para. 12(1) inserted (12.2.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 135(d)](https://www.legislation.gov.uk/ukpga/2023/55/section/135/d), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 3](https://www.legislation.gov.uk/uksi/2024/92/regulation/3)
 
-[^key-a041c7893d726813ca5ed2f25ee2029a]: Textual amendment: Words in Sch. 7A para. 12(1) inserted (1.5.2025) by [The Town and Country Planning (Fees and Consequential Amendments) Regulations 2025 (S.I. 2025/418)](https://www.legislation.gov.uk/uksi/2025/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/418/regulation/1/3), [13(14)(a)](https://www.legislation.gov.uk/uksi/2025/418/regulation/13/14/a)
+[^c-a041c7893d726813ca5ed2f25ee2029a]: Textual amendment: Words in Sch. 7A para. 12(1) inserted (1.5.2025) by [The Town and Country Planning (Fees and Consequential Amendments) Regulations 2025 (S.I. 2025/418)](https://www.legislation.gov.uk/uksi/2025/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/418/regulation/1/3), [13(14)(a)](https://www.legislation.gov.uk/uksi/2025/418/regulation/13/14/a)
 
-[^key-cb086cb7231e1771e5eb7cfb5fb4fcb4]: Textual amendment: [Sch. 7A Pt. 1A](https://www.legislation.gov.uk/ukpga/1990/8/schedule/7A/part/1A) inserted (12.2.2024) by [The Biodiversity Gain (Town and Country Planning) (Consequential Amendments) Regulations 2024 (S.I. 2024/49)](https://www.legislation.gov.uk/uksi/2024/49), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/49/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2024/49/regulation/6); [S.I. 2024/44](https://www.legislation.gov.uk/uksi/2024/44), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/1/e)
+[^c-cb086cb7231e1771e5eb7cfb5fb4fcb4]: Textual amendment: [Sch. 7A Pt. 1A](https://www.legislation.gov.uk/ukpga/1990/8/schedule/7A/part/1A) inserted (12.2.2024) by [The Biodiversity Gain (Town and Country Planning) (Consequential Amendments) Regulations 2024 (S.I. 2024/49)](https://www.legislation.gov.uk/uksi/2024/49), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/49/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2024/49/regulation/6); [S.I. 2024/44](https://www.legislation.gov.uk/uksi/2024/44), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/1/e)
 
-[^key-383c3f2b18f74ee6d5b42c0f86730588]: Modification: [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1990/8/schedule/7A/part/2) applied (with modifications) (12.2.2024) by [The Biodiversity Gain Requirements (Irreplaceable Habitat) Regulations 2024 (S.I. 2024/48)](https://www.legislation.gov.uk/uksi/2024/48), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/48/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/48/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/48/regulation/4))
+[^c-383c3f2b18f74ee6d5b42c0f86730588]: Modification: [Sch. 7A Pt. 2](https://www.legislation.gov.uk/ukpga/1990/8/schedule/7A/part/2) applied (with modifications) (12.2.2024) by [The Biodiversity Gain Requirements (Irreplaceable Habitat) Regulations 2024 (S.I. 2024/48)](https://www.legislation.gov.uk/uksi/2024/48), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/48/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/48/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/48/regulation/4))
 
-[^key-fcf0bafbad763ba139179aefea441aca]: Modification: Sch. 7A Pt. 2 applied (with modifications) (12.2.2024) by [The Biodiversity Gain (Town and Country Planning) (Modifications and Amendments) (England) Regulations 2024 (S.I. 2024/50)](https://www.legislation.gov.uk/uksi/2024/50), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2), [3-8](https://www.legislation.gov.uk/uksi/2024/50/regulation/3)
+[^c-fcf0bafbad763ba139179aefea441aca]: Modification: Sch. 7A Pt. 2 applied (with modifications) (12.2.2024) by [The Biodiversity Gain (Town and Country Planning) (Modifications and Amendments) (England) Regulations 2024 (S.I. 2024/50)](https://www.legislation.gov.uk/uksi/2024/50), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2), [3-8](https://www.legislation.gov.uk/uksi/2024/50/regulation/3)
 
-[^key-28ead462c1cf451b48530799d3705cd8]: Textual amendment: Sch. 7A para. 14(4) inserted (25.4.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 124(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/124/3), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/i)
+[^c-28ead462c1cf451b48530799d3705cd8]: Textual amendment: Sch. 7A para. 14(4) inserted (25.4.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 124(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/124/3), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/i)
 
-[^key-8044c82c16a444021a3105138350aeeb]: Textual amendment: Word in Sch. 7A para. 17(a)(ii) substituted (1.5.2025) by [The Town and Country Planning (Fees and Consequential Amendments) Regulations 2025 (S.I. 2025/418)](https://www.legislation.gov.uk/uksi/2025/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/418/regulation/1/3), [13(14)(b)](https://www.legislation.gov.uk/uksi/2025/418/regulation/13/14/b)
+[^c-8044c82c16a444021a3105138350aeeb]: Textual amendment: Word in Sch. 7A para. 17(a)(ii) substituted (1.5.2025) by [The Town and Country Planning (Fees and Consequential Amendments) Regulations 2025 (S.I. 2025/418)](https://www.legislation.gov.uk/uksi/2025/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/418/regulation/1/3), [13(14)(b)](https://www.legislation.gov.uk/uksi/2025/418/regulation/13/14/b)

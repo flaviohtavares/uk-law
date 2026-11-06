@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 137. Revocation and saving[^key-babc2f50025055ca92ced4a51c19e054]
+## 137. Revocation and saving[^c-babc2f50025055ca92ced4a51c19e054]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-babc2f50025055ca92ced4a51c19e054]: Commencement: [Reg. 137](https://www.legislation.gov.uk/wsi/2024/924/regulation/137) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-babc2f50025055ca92ced4a51c19e054]: Commencement: [Reg. 137](https://www.legislation.gov.uk/wsi/2024/924/regulation/137) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00058]: Footnote: [S.I. 2017/633 (W. 143) (C. 55)](https://www.legislation.gov.uk/wsi/2017/633).
 

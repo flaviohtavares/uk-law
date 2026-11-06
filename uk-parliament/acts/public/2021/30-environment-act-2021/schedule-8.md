@@ -22,7 +22,7 @@ summary: ''
 
 Section 54
 
-### 1. Power to establish deposit schemes[^key-c6d354db4c724c0b9bf5ab6212132041][^key-2142fec268831c00b0cd23623bd4a586]
+### 1. Power to establish deposit schemes[^c-c6d354db4c724c0b9bf5ab6212132041][^c-2142fec268831c00b0cd23623bd4a586]
 
 (1) The relevant national authority may by regulations establish deposit schemes for any of the following purposes—
 
@@ -54,7 +54,7 @@ Section 54
 
 (7) In this paragraph “**specified**” means specified or described in a deposit scheme.
 
-### 2. Scheme suppliers[^key-80d7074f560ee9c98096178af7416d23][^key-aae7bd8e09c1ae6ab0f7d6ce89b3adc3]
+### 2. Scheme suppliers[^c-80d7074f560ee9c98096178af7416d23][^c-aae7bd8e09c1ae6ab0f7d6ce89b3adc3]
 
 (1) A deposit scheme may impose requirements on a scheme supplier in connection with the scheme, including requirements—
 
@@ -70,7 +70,7 @@ Section 54
 
 (3) In this paragraph “**specified**” means specified in a deposit scheme.
 
-### 3. Scheme collectors[^key-5f450d342ad5dac383b91a89d6816977][^key-44cac43f2544f0a3447006ae3f45f87f]
+### 3. Scheme collectors[^c-5f450d342ad5dac383b91a89d6816977][^c-44cac43f2544f0a3447006ae3f45f87f]
 
 (1) A deposit scheme may impose requirements on a scheme collector in connection with the scheme, including requirements—
 
@@ -90,7 +90,7 @@ Section 54
 
 (3) In this paragraph “**specified**” means specified in a deposit scheme.
 
-### 4. Deposit scheme administrators[^key-43430c748752d7126faded64c371ce55][^key-6915bd007de59cfebbfc2c3e8a9c448e]
+### 4. Deposit scheme administrators[^c-43430c748752d7126faded64c371ce55][^c-6915bd007de59cfebbfc2c3e8a9c448e]
 
 (1) A person may be appointed as a scheme administrator of a deposit scheme by, or in accordance with, that scheme.
 
@@ -122,7 +122,7 @@ Section 54
 
 (5) In this paragraph “**specified**” means specified in a deposit scheme.
 
-### 5. Enforcement[^key-60389160a300d512b326a903ce928b0d][^key-db49e9f0809a05a3b03514317a89ad87]
+### 5. Enforcement[^c-60389160a300d512b326a903ce928b0d][^c-db49e9f0809a05a3b03514317a89ad87]
 
 (1) The relevant national authority may by regulations make provision about the enforcement of requirements under deposit schemes.
 
@@ -149,7 +149,7 @@ Section 54
 - “**relevant requirement**” means any requirement imposed by or under a deposit scheme or regulations under sub-paragraph (1);
 - “**specified**” means specified in, or determined in accordance with, regulations under sub-paragraph (1).
 
-### 6. Interpretation[^key-5bda715d20790342bcd564981ba47e44][^key-9040de3ff371df70cbd72cdffd83610f]
+### 6. Interpretation[^c-5bda715d20790342bcd564981ba47e44][^c-9040de3ff371df70cbd72cdffd83610f]
 
 In this Schedule—
 
@@ -164,26 +164,26 @@ In this Schedule—
 
 ## Annotations
 
-[^key-c6d354db4c724c0b9bf5ab6212132041]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2021/30/schedule/8/paragraph/1) in force at 9.1.2022 for E.W., see [s. 147(2)(d)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/d)
+[^c-c6d354db4c724c0b9bf5ab6212132041]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2021/30/schedule/8/paragraph/1) in force at 9.1.2022 for E.W., see [s. 147(2)(d)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/d)
 
-[^key-2142fec268831c00b0cd23623bd4a586]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2021/30/schedule/8/paragraph/1) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(f)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/f)
+[^c-2142fec268831c00b0cd23623bd4a586]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2021/30/schedule/8/paragraph/1) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(f)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/f)
 
-[^key-80d7074f560ee9c98096178af7416d23]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/8/paragraph/2) in force at 9.1.2022 for E.W., see [s. 147(2)(d)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/d)
+[^c-80d7074f560ee9c98096178af7416d23]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/8/paragraph/2) in force at 9.1.2022 for E.W., see [s. 147(2)(d)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/d)
 
-[^key-aae7bd8e09c1ae6ab0f7d6ce89b3adc3]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/8/paragraph/2) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(f)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/f)
+[^c-aae7bd8e09c1ae6ab0f7d6ce89b3adc3]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/8/paragraph/2) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(f)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/f)
 
-[^key-5f450d342ad5dac383b91a89d6816977]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2021/30/schedule/8/paragraph/3) in force at 9.1.2022 for E.W., see [s. 147(2)(d)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/d)
+[^c-5f450d342ad5dac383b91a89d6816977]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2021/30/schedule/8/paragraph/3) in force at 9.1.2022 for E.W., see [s. 147(2)(d)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/d)
 
-[^key-44cac43f2544f0a3447006ae3f45f87f]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2021/30/schedule/8/paragraph/3) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(f)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/f)
+[^c-44cac43f2544f0a3447006ae3f45f87f]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2021/30/schedule/8/paragraph/3) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(f)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/f)
 
-[^key-43430c748752d7126faded64c371ce55]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2021/30/schedule/8/paragraph/4) in force at 9.1.2022 for E.W., see [s. 147(2)(d)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/d)
+[^c-43430c748752d7126faded64c371ce55]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2021/30/schedule/8/paragraph/4) in force at 9.1.2022 for E.W., see [s. 147(2)(d)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/d)
 
-[^key-6915bd007de59cfebbfc2c3e8a9c448e]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2021/30/schedule/8/paragraph/4) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(f)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/f)
+[^c-6915bd007de59cfebbfc2c3e8a9c448e]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2021/30/schedule/8/paragraph/4) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(f)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/f)
 
-[^key-60389160a300d512b326a903ce928b0d]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2021/30/schedule/8/paragraph/5) in force at 9.1.2022 for E.W., see [s. 147(2)(d)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/d)
+[^c-60389160a300d512b326a903ce928b0d]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2021/30/schedule/8/paragraph/5) in force at 9.1.2022 for E.W., see [s. 147(2)(d)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/d)
 
-[^key-db49e9f0809a05a3b03514317a89ad87]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2021/30/schedule/8/paragraph/5) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(f)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/f)
+[^c-db49e9f0809a05a3b03514317a89ad87]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2021/30/schedule/8/paragraph/5) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(f)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/f)
 
-[^key-5bda715d20790342bcd564981ba47e44]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2021/30/schedule/8/paragraph/6) in force at 9.1.2022 for E.W., see [s. 147(2)(d)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/d)
+[^c-5bda715d20790342bcd564981ba47e44]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2021/30/schedule/8/paragraph/6) in force at 9.1.2022 for E.W., see [s. 147(2)(d)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/d)
 
-[^key-9040de3ff371df70cbd72cdffd83610f]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2021/30/schedule/8/paragraph/6) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(f)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/f)
+[^c-9040de3ff371df70cbd72cdffd83610f]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2021/30/schedule/8/paragraph/6) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(f)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/f)

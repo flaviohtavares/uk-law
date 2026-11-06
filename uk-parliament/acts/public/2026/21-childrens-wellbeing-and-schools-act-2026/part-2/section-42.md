@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Children not in school: consequential amendments[^key-fb429e2516079cc5da192fa37a6ea6db]
+## 42. Children not in school: consequential amendments[^c-fb429e2516079cc5da192fa37a6ea6db]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Schedule 2 contains consequential amendments relating to section 39.
 
 ## Annotations
 
-[^key-fb429e2516079cc5da192fa37a6ea6db]: Commencement: S. 42 not in force at Royal Assent, see [s. 78(3)(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/3/5)
+[^c-fb429e2516079cc5da192fa37a6ea6db]: Commencement: S. 42 not in force at Royal Assent, see [s. 78(3)(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/3/5)

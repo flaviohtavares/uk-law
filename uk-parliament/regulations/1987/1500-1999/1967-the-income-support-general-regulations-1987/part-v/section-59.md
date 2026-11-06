@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 59. Date on which a ... liable relative payment is to be treated as paid[^key-43bfd63f621dc3be494ab2366381c7d9][^key-8c0fa3e82cbabb5437e647ce2df57fec]
+## 59. Date on which a ... liable relative payment is to be treated as paid[^c-43bfd63f621dc3be494ab2366381c7d9][^c-8c0fa3e82cbabb5437e647ce2df57fec]
 
 *Extent: E+W+S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-43bfd63f621dc3be494ab2366381c7d9]: Commencement: Reg. 59 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)
+[^c-43bfd63f621dc3be494ab2366381c7d9]: Commencement: Reg. 59 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)
 
-[^key-8c0fa3e82cbabb5437e647ce2df57fec]: Textual amendment: Words in [reg. 59](https://www.legislation.gov.uk/uksi/1987/1967/regulation/59) heading omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(a)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/a), [2(5)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/2/5)
+[^c-8c0fa3e82cbabb5437e647ce2df57fec]: Textual amendment: Words in [reg. 59](https://www.legislation.gov.uk/uksi/1987/1967/regulation/59) heading omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(a)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/a), [2(5)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/2/5)

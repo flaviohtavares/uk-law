@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Amendment of Commission Decision [2008/933/EC](https://www.legislation.gov.uk/eud/2008/933)[^key-c62d6d647b6bea61ebd3f13ab7375730]
+## 105. Amendment of Commission Decision [2008/933/EC](https://www.legislation.gov.uk/eud/2008/933)[^c-c62d6d647b6bea61ebd3f13ab7375730]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Decision [2008/933/EC](https://www.legislation.gov.uk/eud/2008/933) a
 
 ## Annotations
 
-[^key-c62d6d647b6bea61ebd3f13ab7375730]: Commencement: Reg. 105 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-c62d6d647b6bea61ebd3f13ab7375730]: Commencement: Reg. 105 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

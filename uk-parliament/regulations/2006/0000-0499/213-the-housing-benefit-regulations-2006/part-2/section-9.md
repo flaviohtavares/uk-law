@@ -37,7 +37,7 @@ summary: ''
 - (f) his liability under the agreement is to a trustee of a trust of which his or his partner's child is a beneficiary;
 - (g) subject to paragraph (3), before the liability was created, he was a non-dependant of someone who resided, and continues to reside, in the dwelling;
 - (h) he previously owned, or his partner previously owned, the dwelling in respect of which the liability arises and less than five years have elapsed since he or, as the case may be, his partner, ceased to own the property, save that this sub-paragraph shall not apply where he satisfies the appropriate authority that he or his partner could not have continued to occupy that dwelling without relinquishing ownership;
-- (ha)[^key-e50cae15b3bfcc44c1372e4fb46addb8] he or his partner—
+- (ha)[^c-e50cae15b3bfcc44c1372e4fb46addb8] he or his partner—
   - (i) was a tenant under a long tenancy in respect of the dwelling; and
   - (ii) less than five years have elapsed since that tenancy ceased,
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e50cae15b3bfcc44c1372e4fb46addb8]: Textual amendment: Reg. 9(1)(ha) inserted (1.10.2007) by [The Housing Benefit (Amendment) Regulations 2007 (S.I. 2007/1356)](https://www.legislation.gov.uk/uksi/2007/1356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/1356/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2007/1356/regulation/2/3)
+[^c-e50cae15b3bfcc44c1372e4fb46addb8]: Textual amendment: Reg. 9(1)(ha) inserted (1.10.2007) by [The Housing Benefit (Amendment) Regulations 2007 (S.I. 2007/1356)](https://www.legislation.gov.uk/uksi/2007/1356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/1356/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2007/1356/regulation/2/3)

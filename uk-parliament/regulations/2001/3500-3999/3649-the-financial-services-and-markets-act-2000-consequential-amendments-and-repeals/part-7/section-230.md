@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 230. Exclusion from financial promotion restriction[^key-8b4a7d373ff46d409fd060cd0e5a8300]
+## 230. Exclusion from financial promotion restriction[^c-8b4a7d373ff46d409fd060cd0e5a8300]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ For section 31(2) of the Enterprise and New Towns (Scotland) Act 1990 (applicati
 
 ## Annotations
 
-[^key-8b4a7d373ff46d409fd060cd0e5a8300]: Commencement: Art. 230 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-8b4a7d373ff46d409fd060cd0e5a8300]: Commencement: Art. 230 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

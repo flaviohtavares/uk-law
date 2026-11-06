@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Final price adjustment[^key-00c86f36bcd8e687abad0a7093fe9189][^key-c9d406b029593e23c7d0a1fd19c58cb4]
+## 21. Final price adjustment[^c-00c86f36bcd8e687abad0a7093fe9189][^c-c9d406b029593e23c7d0a1fd19c58cb4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) The regulations must specify the procedure to be followed in determining the amount of any adjustment.
 
-(2A)[^key-683d0b478289a113038dd39cb92e369f] Provision made under subsection (2) may include provision dealing with how, in the case of a qualifying defence contract divided into components, the components are to be taken into account in determining the amount of any adjustments to the total price payable under such a contract.
+(2A)[^c-683d0b478289a113038dd39cb92e369f] Provision made under subsection (2) may include provision dealing with how, in the case of a qualifying defence contract divided into components, the components are to be taken into account in determining the amount of any adjustments to the total price payable under such a contract.
 
 (3) Provision made under subsection (2) must include provision for the amount of any adjustment to be determined—
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-00c86f36bcd8e687abad0a7093fe9189]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2014/20/section/21) in force at 14.7.2014 for specified purposes by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 4(g)](https://www.legislation.gov.uk/uksi/2014/1751/article/4/g)
+[^c-00c86f36bcd8e687abad0a7093fe9189]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2014/20/section/21) in force at 14.7.2014 for specified purposes by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 4(g)](https://www.legislation.gov.uk/uksi/2014/1751/article/4/g)
 
-[^key-c9d406b029593e23c7d0a1fd19c58cb4]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2014/20/section/21) in force at 5.12.2014 in so far as not already in force by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/c)
+[^c-c9d406b029593e23c7d0a1fd19c58cb4]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2014/20/section/21) in force at 5.12.2014 in so far as not already in force by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/c)
 
-[^key-683d0b478289a113038dd39cb92e369f]: Textual amendment: [S. 21(2A)](https://www.legislation.gov.uk/ukpga/2014/20/section/2A) inserted (19.1.2024) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2), [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/5); [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
+[^c-683d0b478289a113038dd39cb92e369f]: Textual amendment: [S. 21(2A)](https://www.legislation.gov.uk/ukpga/2014/20/section/2A) inserted (19.1.2024) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2), [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/5); [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))

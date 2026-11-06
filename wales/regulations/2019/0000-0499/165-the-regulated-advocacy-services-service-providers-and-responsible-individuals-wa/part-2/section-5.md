@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Requirements in relation to monitoring and improvement[^key-39400d0f2849e390bc642be845f7ebf9]
+## 5. Requirements in relation to monitoring and improvement[^c-39400d0f2849e390bc642be845f7ebf9]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ on the quality of the advocacy provided by the service and how this can be impro
 
 ## Annotations
 
-[^key-39400d0f2849e390bc642be845f7ebf9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2019/165/regulation/5) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-39400d0f2849e390bc642be845f7ebf9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2019/165/regulation/5) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — Relevant material which may not be introduced into or moved within England if that material is carrying or infected with plant pests[^key-afee4f3eb0706a29a963a10e5fb00045]
+## SCHEDULE 2 — Relevant material which may not be introduced into or moved within England if that material is carrying or infected with plant pests[^c-afee4f3eb0706a29a963a10e5fb00045]
 
 *Extent: E+W*
 
@@ -24,14 +24,14 @@ summary: ''
 
 Articles 5(1), 12(1), 19(1)20(1), 24(4), 29(8), 32(7)33(8), 42(3), 43(3) and 44(4)
 
-### PART A — Plant pests not known to occur in the European Union[^key-afee4f3eb0706a29a963a10e5fb00045]
+### PART A — Plant pests not known to occur in the European Union[^c-afee4f3eb0706a29a963a10e5fb00045]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART B — Plant pests known to occur in the European Union[^key-afee4f3eb0706a29a963a10e5fb00045]
+### PART B — Plant pests known to occur in the European Union[^c-afee4f3eb0706a29a963a10e5fb00045]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-afee4f3eb0706a29a963a10e5fb00045]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/610) revoked (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2019/1517/schedule/6) (with [regs. 51-54](https://www.legislation.gov.uk/uksi/2019/1517/regulation/51))
+[^c-afee4f3eb0706a29a963a10e5fb00045]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/610) revoked (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2019/1517/schedule/6) (with [regs. 51-54](https://www.legislation.gov.uk/uksi/2019/1517/regulation/51))

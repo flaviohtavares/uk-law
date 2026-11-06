@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Amendment of tree felling licences by agreement[^key-953f20c656eb5a2ef5ba9a99664398fa][^key-918f6baaa13b5298997a6b99f69d5129]
+## 38. Amendment of tree felling licences by agreement[^c-953f20c656eb5a2ef5ba9a99664398fa][^c-918f6baaa13b5298997a6b99f69d5129]
 
 *Extent: E+W*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-953f20c656eb5a2ef5ba9a99664398fa]: Commencement: [S. 38](https://www.legislation.gov.uk/asc/2023/4/section/38) in force at 18.8.2023 for specified purposes, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/a)
+[^c-953f20c656eb5a2ef5ba9a99664398fa]: Commencement: [S. 38](https://www.legislation.gov.uk/asc/2023/4/section/38) in force at 18.8.2023 for specified purposes, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/a)
 
-[^key-918f6baaa13b5298997a6b99f69d5129]: Commencement: [S. 38](https://www.legislation.gov.uk/asc/2023/4/section/38) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 3(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/3/a)
+[^c-918f6baaa13b5298997a6b99f69d5129]: Commencement: [S. 38](https://www.legislation.gov.uk/asc/2023/4/section/38) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 3(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/3/a)

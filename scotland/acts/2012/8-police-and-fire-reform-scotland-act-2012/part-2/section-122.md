@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-0a7877263470532f5622d4c2b9cb154b] A person mentioned in subsection (2) must provide SFRS with such information or assistance as SFRS may reasonably require.
+(1)[^c-0a7877263470532f5622d4c2b9cb154b] A person mentioned in subsection (2) must provide SFRS with such information or assistance as SFRS may reasonably require.
 
-(2)[^key-0a7877263470532f5622d4c2b9cb154b] Those persons are—
+(2)[^c-0a7877263470532f5622d4c2b9cb154b] Those persons are—
 
 - (a) a fire and rescue authority within the meaning of section 1 of the 2005 Act,
 - (b) a joint fire and rescue board constituted by a scheme made under section 2(1) of the 2005 Act.
@@ -38,4 +38,4 @@ summary: ''
 
 [^c2141668]: Commencement: [S. 122](https://www.legislation.gov.uk/asp/2012/8/section/122) partly in force; [s. 122(3)(4)](https://www.legislation.gov.uk/asp/2012/8/section/122/3/4) in force at 8.8.2012 see [s. 129(1)(b)](https://www.legislation.gov.uk/asp/2012/8/section/129/1/b)
 
-[^key-0a7877263470532f5622d4c2b9cb154b]: Commencement: [S. 122(1)](https://www.legislation.gov.uk/asp/2012/8/section/122/1)[(2)](https://www.legislation.gov.uk/asp/2012/8/section/122/2) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-0a7877263470532f5622d4c2b9cb154b]: Commencement: [S. 122(1)](https://www.legislation.gov.uk/asp/2012/8/section/122/1)[(2)](https://www.legislation.gov.uk/asp/2012/8/section/122/2) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)

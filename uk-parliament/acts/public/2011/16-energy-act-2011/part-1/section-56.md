@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Further provision about Scottish domestic energy efficiency regulations[^key-c0d3ac56cd33679335ac11fa3d0cea79]
+## 56. Further provision about Scottish domestic energy efficiency regulations[^c-c0d3ac56cd33679335ac11fa3d0cea79]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0d3ac56cd33679335ac11fa3d0cea79]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2011/16/section/56) in force at 1.7.2019 by [S.S.I. 2019/181](https://www.legislation.gov.uk/ssi/2019/181), [art. 2](https://www.legislation.gov.uk/ssi/2019/181/article/2)
+[^c-c0d3ac56cd33679335ac11fa3d0cea79]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2011/16/section/56) in force at 1.7.2019 by [S.S.I. 2019/181](https://www.legislation.gov.uk/ssi/2019/181), [art. 2](https://www.legislation.gov.uk/ssi/2019/181/article/2)

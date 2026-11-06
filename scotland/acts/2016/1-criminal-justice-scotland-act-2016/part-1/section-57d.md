@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57D. Arrest under an extradition arrest power[^key-54978e6d1ad02fa3598067414f81ee70]
+## 57D. Arrest under an extradition arrest power[^c-54978e6d1ad02fa3598067414f81ee70]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54978e6d1ad02fa3598067414f81ee70]: Textual amendment: S. 57D inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2018/46/schedule/5/paragraph/2)
+[^c-54978e6d1ad02fa3598067414f81ee70]: Textual amendment: S. 57D inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2018/46/schedule/5/paragraph/2)

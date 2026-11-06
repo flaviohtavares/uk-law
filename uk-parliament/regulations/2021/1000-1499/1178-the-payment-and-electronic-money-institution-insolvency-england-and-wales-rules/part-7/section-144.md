@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 144. Postponement or cancellation of dividend[^key-4dd2c6e5c668b0fe85586cd49881671c]
+## 144. Postponement or cancellation of dividend[^c-4dd2c6e5c668b0fe85586cd49881671c]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4dd2c6e5c668b0fe85586cd49881671c]: Commencement: Rule 144 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-4dd2c6e5c668b0fe85586cd49881671c]: Commencement: Rule 144 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

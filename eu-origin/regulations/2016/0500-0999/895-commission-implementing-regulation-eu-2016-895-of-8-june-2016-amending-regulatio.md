@@ -35,16 +35,16 @@ amending Regulation (EC) No 1290/2008 as regards the name of the holder of the a
 
 (Text with EEA relevance) (revoked)
 
-[^key-c2c4222ba0906840d3a73cb9a271f4b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c2c4222ba0906840d3a73cb9a271f4b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-c2c4222ba0906840d3a73cb9a271f4b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c2c4222ba0906840d3a73cb9a271f4b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c2c4222ba0906840d3a73cb9a271f4b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c2c4222ba0906840d3a73cb9a271f4b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-c2c4222ba0906840d3a73cb9a271f4b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-c2c4222ba0906840d3a73cb9a271f4b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2c4222ba0906840d3a73cb9a271f4b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c2c4222ba0906840d3a73cb9a271f4b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c2c4222ba0906840d3a73cb9a271f4b4]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 8 Pt. 1 para. 29](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/1/paragraph/29)
+[^c-c2c4222ba0906840d3a73cb9a271f4b4]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 8 Pt. 1 para. 29](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/1/paragraph/29)

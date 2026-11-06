@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 2B and 5 of, and paragraphs 1 to 4 of the Schedule to, the Self-build and Custom Housebuilding Act 2015[^f00001].
 
-## 1. Citation and commencement[^key-f618daf0d17d445763a2ec603f0aff11]
+## 1. Citation and commencement[^c-f618daf0d17d445763a2ec603f0aff11]
 
 These Regulations may be cited as the Self-build and Custom Housebuilding Regulations 2016 and come into force on 31st October 2016.
 
-## 2. Interpretation[^key-06f9d2404626572c47c1abbf8b5c54af]
+## 2. Interpretation[^c-06f9d2404626572c47c1abbf8b5c54af]
 
 In these Regulations—
 
@@ -62,11 +62,11 @@ In these Regulations—
 - “member” in relation to an association which is a body corporate refers to a person who is a member of the association and not to a member of the body corporate; and
 - “register” means the register that a relevant authority is required to keep under section 1(1) of the Act (register of persons seeking to acquire land to build a home).
 
-## 3. Definition of a serviced plot of land[^key-eb007b8e21c4a9c5018fae1eceb5ee31]
+## 3. Definition of a serviced plot of land[^c-eb007b8e21c4a9c5018fae1eceb5ee31]
 
 For the purpose of section 5 of the Act (interpretation)[^f00004] a plot of land is a serviced plot of land if it can, in the opinion of a relevant authority, be provided with the things mentioned in paragraph (a) of the definition of that expression, within the period before any development permission granted in relation to that land expires.
 
-## 4. Eligibility for entry in the register[^key-f0d2e0bb5ed9cca2eeea9c0b0b74a20d]
+## 4. Eligibility for entry in the register[^c-f0d2e0bb5ed9cca2eeea9c0b0b74a20d]
 
 (1) Where a relevant authority sets eligibility criteria under regulation 5 (local eligibility conditions) the register kept by that authority must be divided into two parts, referred to in these Regulations as Part 1 and Part 2 of the register.
 
@@ -86,7 +86,7 @@ For the purpose of section 5 of the Act (interpretation)[^f00004] a plot of land
 
 (6) An association is eligible for entry in Part 2 of the register if all the members of the association meet all of the eligibility requirements set out in paragraph (3) apart from one or more who do not meet a local connection test but meet all the other requirements.
 
-## 5. Local eligibility conditions[^key-5353c70dbc2cce91805cbbc5475a5c20]
+## 5. Local eligibility conditions[^c-5353c70dbc2cce91805cbbc5475a5c20]
 
 (1) A relevant authority may set criteria for eligibility for entry in the register in accordance with this regulation.
 
@@ -100,7 +100,7 @@ For the purpose of section 5 of the Act (interpretation)[^f00004] a plot of land
 
 (6) In this regulation, “regular armed forces of the Crown” means the regular forces within the meaning of section 374 of the Armed Forces Act 2006[^f00005].
 
-## 6. Application for entry in the register[^key-76e251b5d750a71195849fad3e282267]
+## 6. Application for entry in the register[^c-76e251b5d750a71195849fad3e282267]
 
 (1) An application for entry in the register must be made in writing and include—
 
@@ -118,7 +118,7 @@ For the purpose of section 5 of the Act (interpretation)[^f00004] a plot of land
 
 (2) An individual or association entered on the register may apply to amend that entry and these Regulations apply to such an application as they do to an application for entry in the register with references to an entry in the register being read as references to the amendment of that entry.
 
-## 7. Determination of applications[^key-47603ee7ae5573d262f875fc25ea7c96]
+## 7. Determination of applications[^c-47603ee7ae5573d262f875fc25ea7c96]
 
 (1) A relevant authority must determine an application for entry in the register within 28 days of the date that the application is received.
 
@@ -131,7 +131,7 @@ For the purpose of section 5 of the Act (interpretation)[^f00004] a plot of land
 - (a) in the case of an individual, the individual;
 - (b) in the case of an association, the lead contact or such other person as the authority considers to be acting on behalf of the association.
 
-## 8. Content of the register[^key-0023899799e2cb92d348bfd7a422a4ce]
+## 8. Content of the register[^c-0023899799e2cb92d348bfd7a422a4ce]
 
 The register must contain in respect of each entry—
 
@@ -142,11 +142,11 @@ The register must contain in respect of each entry—
   - (iii) the number of serviced plots of land in the relevant authority’s area the members of the association are seeking to acquire; and
 - (c) in all cases, the date on which the entry in the register was made.
 
-## 9. Effect of entry in Part 2 of the register[^key-f1edf66efbdc743a550fec05a076ba7b]
+## 9. Effect of entry in Part 2 of the register[^c-f1edf66efbdc743a550fec05a076ba7b]
 
 The duty in section 2A[^f00006] of the Act does not apply in relation to any person entered in Part 2 of the register.
 
-## 10. Removal of entry from register[^key-dfe5ce90ec89229619988440041cae90]
+## 10. Removal of entry from register[^c-dfe5ce90ec89229619988440041cae90]
 
 (1) A relevant authority must remove an entry from the register within 28 days of receiving—
 
@@ -166,7 +166,7 @@ The duty in section 2A[^f00006] of the Act does not apply in relation to any per
 - (a) in the case of an individual, the individual;
 - (b) in the case of an association, the lead contact or such other person as the authority considers to be acting on behalf of the association.
 
-## 11. Exemption from duty in section 2A of the Act[^key-23585ac495c39633712972161acfcfaa]
+## 11. Exemption from duty in section 2A of the Act[^c-23585ac495c39633712972161acfcfaa]
 
 (1) A relevant authority may apply to the Secretary of State under section 2B(1) of the Act[^f00007] for exemption from the duty in section 2A of the Act in the circumstances specified in paragraph (2).
 
@@ -191,7 +191,7 @@ The duty in section 2A[^f00006] of the Act does not apply in relation to any per
 
 (7) A relevant authority that is granted an exemption under section 2B of the Act must notify any person entered on Part 1 of the register kept by that authority for the base period to which the exemption relates.
 
-## 12. Revocation[^key-116bc856555bc7d2b6f3870910dc2851]
+## 12. Revocation[^c-116bc856555bc7d2b6f3870910dc2851]
 
 The Self-build and Custom Housebuilding (Register) Regulations 2016[^f00008] are revoked.
 
@@ -229,40 +229,40 @@ An Impact Assessment has not been prepared for this instrument as it has no impa
 
 [^f00001]: Footnote: [2015 c.17](https://www.legislation.gov.uk/ukpga/2015/17); there are amendments to the Act made by the Housing and Planning Act [2016 (c.22)](https://www.legislation.gov.uk/ukpga/2016/22) including the insertion of section 2B and amendments to section 5 and to paragraph 3 of the Schedule.
 
-[^key-f618daf0d17d445763a2ec603f0aff11]: Commencement: Reg. 1 in force at 31.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/950/regulation/1)
+[^c-f618daf0d17d445763a2ec603f0aff11]: Commencement: Reg. 1 in force at 31.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/950/regulation/1)
 
-[^key-06f9d2404626572c47c1abbf8b5c54af]: Commencement: Reg. 2 in force at 31.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/950/regulation/1)
+[^c-06f9d2404626572c47c1abbf8b5c54af]: Commencement: Reg. 2 in force at 31.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/950/regulation/1)
 
 [^f00002]: Footnote: Section 2A was inserted by the Housing and Planning Act 2016.
 
 [^f00003]: Footnote: See section 1 of the Act for the meaning of “relevant authority”.
 
-[^key-eb007b8e21c4a9c5018fae1eceb5ee31]: Commencement: Reg. 3 in force at 31.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/950/regulation/1)
+[^c-eb007b8e21c4a9c5018fae1eceb5ee31]: Commencement: Reg. 3 in force at 31.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/950/regulation/1)
 
 [^f00004]: Footnote: The definition of “serviced plot of land” was substituted by the Housing and Planning Act 2016.
 
-[^key-f0d2e0bb5ed9cca2eeea9c0b0b74a20d]: Commencement: Reg. 4 in force at 31.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/950/regulation/1)
+[^c-f0d2e0bb5ed9cca2eeea9c0b0b74a20d]: Commencement: Reg. 4 in force at 31.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/950/regulation/1)
 
-[^key-5353c70dbc2cce91805cbbc5475a5c20]: Commencement: Reg. 5 in force at 31.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/950/regulation/1)
+[^c-5353c70dbc2cce91805cbbc5475a5c20]: Commencement: Reg. 5 in force at 31.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/950/regulation/1)
 
 [^f00005]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-76e251b5d750a71195849fad3e282267]: Commencement: Reg. 6 in force at 31.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/950/regulation/1)
+[^c-76e251b5d750a71195849fad3e282267]: Commencement: Reg. 6 in force at 31.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/950/regulation/1)
 
-[^key-47603ee7ae5573d262f875fc25ea7c96]: Commencement: Reg. 7 in force at 31.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/950/regulation/1)
+[^c-47603ee7ae5573d262f875fc25ea7c96]: Commencement: Reg. 7 in force at 31.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/950/regulation/1)
 
-[^key-0023899799e2cb92d348bfd7a422a4ce]: Commencement: Reg. 8 in force at 31.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/950/regulation/1)
+[^c-0023899799e2cb92d348bfd7a422a4ce]: Commencement: Reg. 8 in force at 31.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/950/regulation/1)
 
-[^key-f1edf66efbdc743a550fec05a076ba7b]: Commencement: Reg. 9 in force at 31.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/950/regulation/1)
+[^c-f1edf66efbdc743a550fec05a076ba7b]: Commencement: Reg. 9 in force at 31.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/950/regulation/1)
 
 [^f00006]: Footnote: Section 2A was inserted by the Housing and Planning Act 2016.
 
-[^key-dfe5ce90ec89229619988440041cae90]: Commencement: Reg. 10 in force at 31.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/950/regulation/1)
+[^c-dfe5ce90ec89229619988440041cae90]: Commencement: Reg. 10 in force at 31.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/950/regulation/1)
 
-[^key-23585ac495c39633712972161acfcfaa]: Commencement: Reg. 11 in force at 31.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/950/regulation/1)
+[^c-23585ac495c39633712972161acfcfaa]: Commencement: Reg. 11 in force at 31.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/950/regulation/1)
 
 [^f00007]: Footnote: Section 2B was inserted by the Housing and Planning Act 2016.
 
-[^key-116bc856555bc7d2b6f3870910dc2851]: Commencement: Reg. 12 in force at 31.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/950/regulation/1)
+[^c-116bc856555bc7d2b6f3870910dc2851]: Commencement: Reg. 12 in force at 31.10.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/950/regulation/1)
 
 [^f00008]: Footnote: [S.I. 2016/105](https://www.legislation.gov.uk/uksi/2016/105).

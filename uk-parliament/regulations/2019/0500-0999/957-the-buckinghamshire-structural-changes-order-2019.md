@@ -60,14 +60,14 @@ In this Order
 - “**the 2007 Act**” means the Local Government and Public Involvement in Health Act 2007;
 - “Buckinghamshire” except in the first mention of that word in article 3(1) and in the mention in articles 3(3), 18(2)(a) and 19(a) means the county of Buckinghamshire;
 - “**the county council**” means the council of the county of Buckinghamshire;
-- “[^key-e8f764a2c444ab5968eb77065e189022]**the 2021 election**” means the election required by article 18(1) to be held in 2021;
-- “the 2021 election day” means the ordinary day of election of councillors in 2021[^key-409098c715e244078a9212685959b425] [^c23757761];
+- “[^c-e8f764a2c444ab5968eb77065e189022]**the 2021 election**” means the election required by article 18(1) to be held in 2021;
+- “the 2021 election day” means the ordinary day of election of councillors in 2021[^c-409098c715e244078a9212685959b425] [^c23757761];
 - “**the districts**” means the districts of Aylesbury Vale, Chiltern, South Bucks and Wycombe;
 - “**the district councils**” means Aylesbury Vale District Council, Chiltern District Council, South Bucks District Council and Wycombe District Council;
 - “**the Implementation Team**” means the team required to be formed under article 17(1);
 - “**shadow authority**” means an authority (not being a local authority) which will become a local authority on 1st April 2020;
 - “**shadow executive**” has the meaning given in article 6(1)(b);
-- “**the shadow period**” means the period beginning with the day on which this Order comes into force and ending on 11th May 2020[^key-6ed95239b666133c019f34033c63d80c].
+- “**the shadow period**” means the period beginning with the day on which this Order comes into force and ending on 11th May 2020[^c-6ed95239b666133c019f34033c63d80c].
 
 ## PART 2 — ESTABLISHMENT OF SINGLE TIER OF LOCAL GOVERNMENT IN BUCKINGHAMSHIRE
 
@@ -84,7 +84,7 @@ In this Order
 - (a) Buckinghamshire Council is not a local authority for the purposes of the 1972 Act or for any other enactment relating to local government; and
 - (b) subsection (2) of section 2 of the 1972 Act (constitution of principal councils in England) has effect in relation to that council, as if the words from “and the council” to the end of that subsection were omitted.
 
-(5)[^key-b79656fa767f8a793a8880349d29e144] Immediately after the end of the shadow period those persons who are members of Buckinghamshire Council (having been members of the shadow authority) immediately before the end of that period are to continue to be the members of that council.
+(5)[^c-b79656fa767f8a793a8880349d29e144] Immediately after the end of the shadow period those persons who are members of Buckinghamshire Council (having been members of the shadow authority) immediately before the end of that period are to continue to be the members of that council.
 
 (6) The term of office of those members referred to in paragraph (5) ends on the fourth day after the 2021 election day.
 
@@ -188,7 +188,7 @@ until the end of the shadow period, notwithstanding the dissolution on that date
 
 (19) The shadow authority must prepare and adopt a scheme for the payment of allowances to its members; and the Local Authorities (Members' Allowances) (England) Regulations 2003 [^c23757811], other than regulations 6 and 17 and Part 5, apply in relation to the shadow authority and its members as they apply in relation to district councils and their members.
 
-### 6A. Executive arrangements for Buckinghamshire Council from the end of the shadow period[^key-e2bdc1edf80a9d937e071419f9357f85]
+### 6A. Executive arrangements for Buckinghamshire Council from the end of the shadow period[^c-e2bdc1edf80a9d937e071419f9357f85]
 
 (1) This article applies during the period beginning immediately after the end of the shadow period and ending on the fourth day after the 2021 election day.
 
@@ -273,7 +273,7 @@ as they apply in relation to a relevant authority and the monitoring officer and
 
 (6) Subsections (2) to (5) and (6) of section 4 of the 1989 Act apply in relation to the shadow authority and its interim head of paid service as they apply in relation to a relevant authority and its head of paid service as if references in those subsections to a relevant authority and its head of paid service were references to the shadow authority and its interim head of paid service.
 
-(7)[^key-7408cadef9d554f935e282e833f0651e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-7408cadef9d554f935e282e833f0651e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 8. Duties of shadow authority: proposals for executive arrangements, code of conduct and members' allowances relating to Buckinghamshire Council
 
@@ -396,7 +396,7 @@ Table 1
 
 (1) A whole council election of councillors of Buckinghamshire Council is to be held—
 
-- (a) on the 2021 election day[^key-40bfc7ff6f5fe77286a3e58817b54f75];
+- (a) on the 2021 election day[^c-40bfc7ff6f5fe77286a3e58817b54f75];
 - (b) on the ordinary day of election of councillors in 2025;
 - (c) every fourth year thereafter.
 
@@ -407,19 +407,19 @@ Table 1
 - (c) the area of each new ward is to be the same as that of the county council electoral division, as that electoral division existed on 31st March 2020, and as indicated in column 2 of that Table;
 - (d) each new ward is to return the number of councillors indicated in column 3 of that Table.
 
-(3)[^key-895e61e04bf255d87bc3ebfdc8624a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-895e61e04bf255d87bc3ebfdc8624a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-895e61e04bf255d87bc3ebfdc8624a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-895e61e04bf255d87bc3ebfdc8624a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-895e61e04bf255d87bc3ebfdc8624a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-895e61e04bf255d87bc3ebfdc8624a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-895e61e04bf255d87bc3ebfdc8624a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-895e61e04bf255d87bc3ebfdc8624a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7) All councillors elected in 2021[^key-2ef7d7ceff12da0a8342b92c62449b02] or any later year are to retire on the fourth day after the ordinary day of election of councillors in the year of retirement and the newly-elected councillors are to come into office on the day on which their predecessors retire.
+(7) All councillors elected in 2021[^c-2ef7d7ceff12da0a8342b92c62449b02] or any later year are to retire on the fourth day after the ordinary day of election of councillors in the year of retirement and the newly-elected councillors are to come into office on the day on which their predecessors retire.
 
 (8) In this article “the year of retirement” —
 
-- (a) in relation to councillors elected in 2021[^key-d3c7e98958a2472a591cdc4d1bb23563] means 2025;
+- (a) in relation to councillors elected in 2021[^c-d3c7e98958a2472a591cdc4d1bb23563] means 2025;
 - (b) in relation to councillors elected in 2025 or in any later year means the fourth year after the year of election of those councillors.
 
 ### 19. Cancellation of parish council elections in Buckinghamshire, etc
@@ -427,7 +427,7 @@ Table 1
 Notwithstanding section 16(3) of the 1972 Act (election of parish councillors)—
 
 - (a) elections are not to be held in 2023 or in 2027 for the return of councillors to the council of any parish within Buckinghamshire;
-- (b) the term of office of parish councillors elected in 2021[^key-22bb63e8edc48aa71c3bfe391cde2101] or at any subsequent by-election held before the ordinary day of election of councillors in 2025 ends on the fourth day after the ordinary day of elections in 2025 [^c23757941];
+- (b) the term of office of parish councillors elected in 2021[^c-22bb63e8edc48aa71c3bfe391cde2101] or at any subsequent by-election held before the ordinary day of election of councillors in 2025 ends on the fourth day after the ordinary day of elections in 2025 [^c23757941];
 - (c) elections of parish councillors for those parishes in which, but for paragraph (a), elections would have been held in 2023 are to be held on the ordinary day of election of councillors in 2025;
 - (d) the term of office of parish councillors elected in 2025 or at any subsequent by-election held before the ordinary day of election of councillors in 2029 ends on the fourth day after the ordinary day of elections in 2029; and
 - (e) elections of parish councillors for those parishes in which, but for paragraph (a), elections would have been held in 2027 are to be held on the ordinary day of election of councillors in 2029 and every fourth year thereafter.
@@ -557,15 +557,15 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^c23757751]: Marginal citation: [2000 c.22](https://www.legislation.gov.uk/ukpga/2000/22). Parts 2 and 3 of that Act were amended by Part 3 of the [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28). Part 1A and Schedule A1 were inserted by Schedule 2 to the [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-e8f764a2c444ab5968eb77065e189022]: Textual amendment: Words in art. 2 substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2020/426/regulation/3/a)
+[^c-e8f764a2c444ab5968eb77065e189022]: Textual amendment: Words in art. 2 substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2020/426/regulation/3/a)
 
-[^key-409098c715e244078a9212685959b425]: Textual amendment: Words in art. 2 substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2020/426/regulation/3/b)
+[^c-409098c715e244078a9212685959b425]: Textual amendment: Words in art. 2 substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2020/426/regulation/3/b)
 
 [^c23757761]: Marginal citation: See section 37 of the [Representation of the People Act 1983 (c.2)](https://www.legislation.gov.uk/ukpga/1983/2).
 
-[^key-6ed95239b666133c019f34033c63d80c]: Textual amendment: Words in art. 2 substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2020/426/regulation/3/c)
+[^c-6ed95239b666133c019f34033c63d80c]: Textual amendment: Words in art. 2 substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2020/426/regulation/3/c)
 
-[^key-b79656fa767f8a793a8880349d29e144]: Textual amendment: Art. 3(5)-(7) inserted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/426/regulation/4)
+[^c-b79656fa767f8a793a8880349d29e144]: Textual amendment: Art. 3(5)-(7) inserted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/426/regulation/4)
 
 [^c23757771]: Marginal citation: [S.I. 2006/3304](https://www.legislation.gov.uk/uksi/2006/3304).
 
@@ -577,7 +577,7 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^c23757811]: Marginal citation: [S.I. 2003/1021](https://www.legislation.gov.uk/uksi/2003/1021).
 
-[^key-e2bdc1edf80a9d937e071419f9357f85]: Textual amendment: Art. 6A inserted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2020/426/regulation/5)
+[^c-e2bdc1edf80a9d937e071419f9357f85]: Textual amendment: Art. 6A inserted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2020/426/regulation/5)
 
 [^c23757951]: Marginal citation: Section 13 was amended by Schedule 3 to the [Localism Act 2011](https://www.legislation.gov.uk/ukpga/2011/20) so that it applies to Wales only from 4th May 2012. The Local Authorities (Functions and Responsibilities) (England) Regulations ([S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853)) made under section 13 continue to apply in relation to England.
 
@@ -591,7 +591,7 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^c23757831]: Marginal citation: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). Relevant amendments were made by the [Local Government and Housing Act 1989](https://www.legislation.gov.uk/ukpga/1989/42), section 139 and Schedule 5, and by the [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), section 30 and [S.I. 2001/2237](https://www.legislation.gov.uk/uksi/2001/2237).
 
-[^key-7408cadef9d554f935e282e833f0651e]: Textual amendment: Art. 7(7) omitted (E.) (8.5.2020) by virtue of [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2020/426/regulation/6)
+[^c-7408cadef9d554f935e282e833f0651e]: Textual amendment: Art. 7(7) omitted (E.) (8.5.2020) by virtue of [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2020/426/regulation/6)
 
 [^c23757841]: Marginal citation: “Modernising Local Government in Buckinghamshire” Business Case September 2016. The document is available at https://www.buckscc.gov.uk/media/1314/mlg-in-bucks\_final\_low-res.pdf or in hard copy from the Secretary of State on request.
 
@@ -611,14 +611,14 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^c23757921]: Marginal citation: Section 13 was amended by Schedule 3 of the [Localism Act 2011](https://www.legislation.gov.uk/ukpga/2011/20) so that it applies to Wales only from 4th May 2012. The Local Authorities (Functions and Responsibilities) (England) Regulations ([S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853)) made under section 13 continue to apply to England.
 
-[^key-40bfc7ff6f5fe77286a3e58817b54f75]: Textual amendment: Words in art. 18(1)(a) substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2020/426/regulation/7/a)
+[^c-40bfc7ff6f5fe77286a3e58817b54f75]: Textual amendment: Words in art. 18(1)(a) substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2020/426/regulation/7/a)
 
-[^key-895e61e04bf255d87bc3ebfdc8624a6d]: Textual amendment: Art. 18(3)-(6) omitted (E.) (8.5.2020) by virtue of [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2020/426/regulation/7/b)
+[^c-895e61e04bf255d87bc3ebfdc8624a6d]: Textual amendment: Art. 18(3)-(6) omitted (E.) (8.5.2020) by virtue of [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2020/426/regulation/7/b)
 
-[^key-2ef7d7ceff12da0a8342b92c62449b02]: Textual amendment: Word in art. 18(7) substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2020/426/regulation/7/c)
+[^c-2ef7d7ceff12da0a8342b92c62449b02]: Textual amendment: Word in art. 18(7) substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2020/426/regulation/7/c)
 
-[^key-d3c7e98958a2472a591cdc4d1bb23563]: Textual amendment: Word in art. 18(8)(a) substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2020/426/regulation/7/c)
+[^c-d3c7e98958a2472a591cdc4d1bb23563]: Textual amendment: Word in art. 18(8)(a) substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2020/426/regulation/7/c)
 
-[^key-22bb63e8edc48aa71c3bfe391cde2101]: Textual amendment: Word in art. 19(b) substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2020/426/regulation/8)
+[^c-22bb63e8edc48aa71c3bfe391cde2101]: Textual amendment: Word in art. 19(b) substituted (E.) (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2020/426/regulation/8)
 
 [^c23757941]: Marginal citation: Under section 16(3) of the [Local Government Act 1972](https://www.legislation.gov.uk/ukpga/1972/70), the term of office of parish councillors is four years and elections of councillors for parish councils within Buckinghamshire were due to be held on the ordinary day of election in 2019. The Districts of Aylesbury Vale, Chiltern, South Bucks and Wycombe (Changes to Years of Elections) Order 2018 [S.I. 2018/1355](https://www.legislation.gov.uk/uksi/2018/1355) changed the year of elections of the district and parish councils within Buckinghamshire from 2019 to 2020.

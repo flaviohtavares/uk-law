@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Nature of personal licence[^key-79f8b6ba195ef1c569cc1a8a7fb376c9]
+## 127. Nature of personal licence[^c-79f8b6ba195ef1c569cc1a8a7fb376c9]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79f8b6ba195ef1c569cc1a8a7fb376c9]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2005/19/section/127) in force at 1.10.2005 by [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2455/article/3))
+[^c-79f8b6ba195ef1c569cc1a8a7fb376c9]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2005/19/section/127) in force at 1.10.2005 by [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2455/article/3))

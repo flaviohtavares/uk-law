@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Requirements in relation to the responsible individual[^key-34f51facf5d902b52ef16b32bfa2101a]
+## 6. Requirements in relation to the responsible individual[^c-34f51facf5d902b52ef16b32bfa2101a]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
 
 - (a) the effective management of the service,
 - (b) the effective oversight of the service,
-- (c) the compliance of the service with the requirements of the regulations in Parts 2 to 15[^key-3ab97d7fe526592d0f4ecbf0d7595ac2], and
+- (c) the compliance of the service with the requirements of the regulations in Parts 2 to 15[^c-3ab97d7fe526592d0f4ecbf0d7595ac2], and
 - (d) monitoring, reviewing and improving the quality of the advocacy provided.
 
 (5) If the responsible individual is unable to fulfil their duties for a period of more than 28 days, the service provider must—
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-34f51facf5d902b52ef16b32bfa2101a]: Commencement: Reg. 6 in force at 29.4.2019, see reg. 1(2)
+[^c-34f51facf5d902b52ef16b32bfa2101a]: Commencement: Reg. 6 in force at 29.4.2019, see reg. 1(2)
 
-[^key-3ab97d7fe526592d0f4ecbf0d7595ac2]: Textual amendment: Words in [reg. 6(4)(c)](https://www.legislation.gov.uk/wsi/2019/165/regulation/6/4/c) substituted (1.7.2019) by [The Regulated Advocacy Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1062)](https://www.legislation.gov.uk/wsi/2019/1062), [regs. 1](https://www.legislation.gov.uk/wsi/2019/1062/regulation/1), [2(a)](https://www.legislation.gov.uk/wsi/2019/1062/regulation/2/a)
+[^c-3ab97d7fe526592d0f4ecbf0d7595ac2]: Textual amendment: Words in [reg. 6(4)(c)](https://www.legislation.gov.uk/wsi/2019/165/regulation/6/4/c) substituted (1.7.2019) by [The Regulated Advocacy Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1062)](https://www.legislation.gov.uk/wsi/2019/1062), [regs. 1](https://www.legislation.gov.uk/wsi/2019/1062/regulation/1), [2(a)](https://www.legislation.gov.uk/wsi/2019/1062/regulation/2/a)

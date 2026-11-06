@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Transitional provision[^key-d73bc2ddfa36777d18bc62a25cd9312d]
+## 99. Transitional provision[^c-d73bc2ddfa36777d18bc62a25cd9312d]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d73bc2ddfa36777d18bc62a25cd9312d]: Commencement: S. 99 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)
+[^c-d73bc2ddfa36777d18bc62a25cd9312d]: Commencement: S. 99 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)

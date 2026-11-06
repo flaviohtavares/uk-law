@@ -32,7 +32,7 @@ summary: ''
 
 European Union
 
-The European Communities (Designation) Order 2012 (revoked)[^key-632760f33ade0c779953e155d13dabf6]
+The European Communities (Designation) Order 2012 (revoked)[^c-632760f33ade0c779953e155d13dabf6]
 
 Made
 
@@ -52,47 +52,47 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-632760f33ade0c779953e155d13dabf6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-632760f33ade0c779953e155d13dabf6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and interpretation[^key-632760f33ade0c779953e155d13dabf6]
+## 1. Citation and interpretation[^c-632760f33ade0c779953e155d13dabf6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation in relation to financial assistance for industry[^key-632760f33ade0c779953e155d13dabf6]
+## 2. Designation in relation to financial assistance for industry[^c-632760f33ade0c779953e155d13dabf6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation in relation to administrative co-operation[^key-632760f33ade0c779953e155d13dabf6]
+## 3. Designation in relation to administrative co-operation[^c-632760f33ade0c779953e155d13dabf6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Designation in relation to financial services[^key-632760f33ade0c779953e155d13dabf6]
+## 4. Designation in relation to financial services[^c-632760f33ade0c779953e155d13dabf6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Designation in relation to firearms and ammunition[^key-632760f33ade0c779953e155d13dabf6]
+## 5. Designation in relation to firearms and ammunition[^c-632760f33ade0c779953e155d13dabf6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Territorial restrictions[^key-632760f33ade0c779953e155d13dabf6]
+## 6. Territorial restrictions[^c-632760f33ade0c779953e155d13dabf6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Relationship with other designations[^key-632760f33ade0c779953e155d13dabf6]
+## 7. Relationship with other designations[^c-632760f33ade0c779953e155d13dabf6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Revocation of existing designations[^key-632760f33ade0c779953e155d13dabf6]
+## 8. Revocation of existing designations[^c-632760f33ade0c779953e155d13dabf6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-632760f33ade0c779953e155d13dabf6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-632760f33ade0c779953e155d13dabf6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — REVOCATIONS OF DESIGNATIONS[^key-632760f33ade0c779953e155d13dabf6]
+## SCHEDULE 1 — REVOCATIONS OF DESIGNATIONS[^c-632760f33ade0c779953e155d13dabf6]
 
 Article 8
 
@@ -100,7 +100,7 @@ Article 8
 
 **No longer in force.**
 
-[^key-632760f33ade0c779953e155d13dabf6]EXPLANATORY NOTE
+[^c-632760f33ade0c779953e155d13dabf6]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -124,4 +124,4 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 ## Annotations
 
-[^key-632760f33ade0c779953e155d13dabf6]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/1759) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-632760f33ade0c779953e155d13dabf6]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/1759) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

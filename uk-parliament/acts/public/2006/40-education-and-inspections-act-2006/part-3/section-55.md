@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Right of sixth-form pupils to be excused from attendance at religious worship[^key-a09175eaf87ac89356a844c6082929f1]
+## 55. Right of sixth-form pupils to be excused from attendance at religious worship[^c-a09175eaf87ac89356a844c6082929f1]
 
 *Extent: E+W*
 
-(1)[^key-43ecf377b85db33e93c50c355b1f1f7d] Section 71 of SSFA 1998 (which, in relation to religious education and attendance at religious worship, makes provision for exceptions and special arrangements, and for special schools) is amended as follows.
+(1)[^c-43ecf377b85db33e93c50c355b1f1f7d] Section 71 of SSFA 1998 (which, in relation to religious education and attendance at religious worship, makes provision for exceptions and special arrangements, and for special schools) is amended as follows.
 
-(2)[^key-43ecf377b85db33e93c50c355b1f1f7d] For subsection (1) substitute—
+(2)[^c-43ecf377b85db33e93c50c355b1f1f7d] For subsection (1) substitute—
 
 > (1) If the parent of a pupil at a community, foundation or voluntary school requests that he may be wholly or partly excused from receiving religious education given at the school in accordance with the school's basic curriculum, the pupil shall be so excused until the request is withdrawn.
 >
@@ -30,13 +30,13 @@ summary: ''
 >
 > (1B) If a sixth-form pupil requests that he may be wholly or partly excused from attendance at religious worship at a community, foundation or voluntary school, the pupil shall be so excused.
 
-(3)[^key-43ecf377b85db33e93c50c355b1f1f7d] In subsection (2), for “subsection (1)” substitute “ subsections (1) to (1B) ”.
+(3)[^c-43ecf377b85db33e93c50c355b1f1f7d] In subsection (2), for “subsection (1)” substitute “ subsections (1) to (1B) ”.
 
-(4)[^key-43ecf377b85db33e93c50c355b1f1f7d] In subsection (3), after “subsection (1)” insert “ or (1A) ”.
+(4)[^c-43ecf377b85db33e93c50c355b1f1f7d] In subsection (3), after “subsection (1)” insert “ or (1A) ”.
 
-(5)[^key-43ecf377b85db33e93c50c355b1f1f7d] In subsection (5), after “voluntary school” insert “ and is not a sixth-form pupil ”.
+(5)[^c-43ecf377b85db33e93c50c355b1f1f7d] In subsection (5), after “voluntary school” insert “ and is not a sixth-form pupil ”.
 
-(6)[^key-43ecf377b85db33e93c50c355b1f1f7d] After subsection (5) insert—
+(6)[^c-43ecf377b85db33e93c50c355b1f1f7d] After subsection (5) insert—
 
 > (5A) Where a sixth-form pupil who is a boarder at a community, foundation or voluntary school requests that he be permitted—
 >
@@ -45,9 +45,9 @@ summary: ''
 >
 > the governing body shall make arrangements for giving the pupil reasonable opportunities for doing so.
 
-(7)[^key-43ecf377b85db33e93c50c355b1f1f7d] In subsection (6), after “subsection (5)” insert “ or (5A) ”.
+(7)[^c-43ecf377b85db33e93c50c355b1f1f7d] In subsection (6), after “subsection (5)” insert “ or (5A) ”.
 
-(8)[^key-c2aa2dea4d1d759b278231cd4b506d82] For subsection (7) substitute—
+(8)[^c-c2aa2dea4d1d759b278231cd4b506d82] For subsection (7) substitute—
 
 > (7) Regulations shall make provision for ensuring that, so far as practicable, every pupil attending a community or foundation special school—
 >
@@ -56,7 +56,7 @@ summary: ''
 >   - (i) in the case of a sixth-form pupil, in accordance with his own wishes, and
 >   - (ii) in any other case, in accordance with the wishes of his parent.
 
-(9)[^key-c2aa2dea4d1d759b278231cd4b506d82] After subsection (7) insert—
+(9)[^c-c2aa2dea4d1d759b278231cd4b506d82] After subsection (7) insert—
 
 > (8) In this section “**sixth-form pupil**” means any pupil who—
 >
@@ -65,8 +65,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a09175eaf87ac89356a844c6082929f1]: Commencement: S. 55 in force at 9.2.2009 for W. by [S.I. 2009/49](https://www.legislation.gov.uk/uksi/2009/49), [art. 2](https://www.legislation.gov.uk/uksi/2009/49/article/2)
+[^c-a09175eaf87ac89356a844c6082929f1]: Commencement: S. 55 in force at 9.2.2009 for W. by [S.I. 2009/49](https://www.legislation.gov.uk/uksi/2009/49), [art. 2](https://www.legislation.gov.uk/uksi/2009/49/article/2)
 
-[^key-43ecf377b85db33e93c50c355b1f1f7d]: Commencement: S. 55(1)-(7) in force at 1.9.2007 for E. by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/b)
+[^c-43ecf377b85db33e93c50c355b1f1f7d]: Commencement: S. 55(1)-(7) in force at 1.9.2007 for E. by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/b)
 
-[^key-c2aa2dea4d1d759b278231cd4b506d82]: Commencement: S. 55(8)(9) in force at 25.6.2007 for E. by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 2](https://www.legislation.gov.uk/uksi/2007/1801/article/2)
+[^c-c2aa2dea4d1d759b278231cd4b506d82]: Commencement: S. 55(8)(9) in force at 25.6.2007 for E. by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 2](https://www.legislation.gov.uk/uksi/2007/1801/article/2)

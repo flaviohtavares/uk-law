@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Funding of the Board of the Pension Protection Fund[^key-6a50388db575050dac2529c5c938b5b7][^key-f1fd687625c8356fed00a8edeb4ac740]
+## 126. Funding of the Board of the Pension Protection Fund[^c-6a50388db575050dac2529c5c938b5b7][^c-f1fd687625c8356fed00a8edeb4ac740]
 
 *Extent: E+W+S*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6a50388db575050dac2529c5c938b5b7]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2026/22/section/126) treated as having come into force retrospecitve to 1.4.2026, see [s. 133(11)(d)(ii)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/d/ii)
+[^c-6a50388db575050dac2529c5c938b5b7]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2026/22/section/126) treated as having come into force retrospecitve to 1.4.2026, see [s. 133(11)(d)(ii)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/d/ii)
 
-[^key-f1fd687625c8356fed00a8edeb4ac740]: Annotation text not found in the source document.
+[^c-f1fd687625c8356fed00a8edeb4ac740]: Annotation text not found in the source document.

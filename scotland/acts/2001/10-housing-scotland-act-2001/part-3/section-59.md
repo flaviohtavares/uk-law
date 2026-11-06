@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Registration[^key-7b45978c12e2d6f47fc219c5595941a1]
+## 59. Registration[^c-7b45978c12e2d6f47fc219c5595941a1]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b45978c12e2d6f47fc219c5595941a1]: Textual amendment: Ss. 57-68 repealed (1.4.2012) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [s. 166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2), [sch. 2 para. 7(2)](https://www.legislation.gov.uk/asp/2010/17/schedule/2/paragraph/7/2); [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2)) (as amended (1.4.2012) by [S.S.I. 2012/91](https://www.legislation.gov.uk/ssi/2012/91), art. 4); s. 59(3) in so far as they are still in force amended (1.4.2013) by [S.I. 2013/496](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 11 para. 6](https://www.legislation.gov.uk/uksi/2013/496/schedule/11/paragraph/6) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-7b45978c12e2d6f47fc219c5595941a1]: Textual amendment: Ss. 57-68 repealed (1.4.2012) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [s. 166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2), [sch. 2 para. 7(2)](https://www.legislation.gov.uk/asp/2010/17/schedule/2/paragraph/7/2); [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2)) (as amended (1.4.2012) by [S.S.I. 2012/91](https://www.legislation.gov.uk/ssi/2012/91), art. 4); s. 59(3) in so far as they are still in force amended (1.4.2013) by [S.I. 2013/496](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 11 para. 6](https://www.legislation.gov.uk/uksi/2013/496/schedule/11/paragraph/6) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))

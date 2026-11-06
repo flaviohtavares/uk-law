@@ -32,7 +32,7 @@ summary: ''
 
 Immigration
 
-The Immigration Act 2014 (Specified Anti-fraud Organisation) Order 2014 (revoked)[^key-a143e2eaf6eccffcbcad7619570c12e7]
+The Immigration Act 2014 (Specified Anti-fraud Organisation) Order 2014 (revoked)[^c-a143e2eaf6eccffcbcad7619570c12e7]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 2nd August 2014
 
-[^key-a143e2eaf6eccffcbcad7619570c12e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a143e2eaf6eccffcbcad7619570c12e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a143e2eaf6eccffcbcad7619570c12e7]
+## 1. Citation and commencement[^c-a143e2eaf6eccffcbcad7619570c12e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Specified anti-fraud organisation[^key-a143e2eaf6eccffcbcad7619570c12e7]
+## 2. Specified anti-fraud organisation[^c-a143e2eaf6eccffcbcad7619570c12e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a143e2eaf6eccffcbcad7619570c12e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a143e2eaf6eccffcbcad7619570c12e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a143e2eaf6eccffcbcad7619570c12e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a143e2eaf6eccffcbcad7619570c12e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a143e2eaf6eccffcbcad7619570c12e7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/1798) revoked (6.4.2022) by [The Immigration (Restrictions on Employment and Residential Accommodation) (Prescribed Requirements and Codes of Practice) and Licensing Act 2003 (Personal and Premises Licences) (Forms), etc., Regulations 2022 (S.I. 2022/242)](https://www.legislation.gov.uk/uksi/2022/242), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2022/242/regulation/1/1/b), [7(2)](https://www.legislation.gov.uk/uksi/2022/242/regulation/7/2)
+[^c-a143e2eaf6eccffcbcad7619570c12e7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/1798) revoked (6.4.2022) by [The Immigration (Restrictions on Employment and Residential Accommodation) (Prescribed Requirements and Codes of Practice) and Licensing Act 2003 (Personal and Premises Licences) (Forms), etc., Regulations 2022 (S.I. 2022/242)](https://www.legislation.gov.uk/uksi/2022/242), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2022/242/regulation/1/1/b), [7(2)](https://www.legislation.gov.uk/uksi/2022/242/regulation/7/2)

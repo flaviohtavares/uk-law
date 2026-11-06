@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57J. Movement of aircraft[^key-70ac39a0d3fc814d66486839ff5f9ea5]
+## 57J. Movement of aircraft[^c-70ac39a0d3fc814d66486839ff5f9ea5]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) overfly the United Kingdom, or
 - (b) land in the United Kingdom.
 
-(2) Paragraph (1) is subject to Part 7 (Exceptions and licences)[^key-2cfb33993e58b0d424be6c7828f11292].
+(2) Paragraph (1) is subject to Part 7 (Exceptions and licences)[^c-2cfb33993e58b0d424be6c7828f11292].
 
 (3) Air traffic control may direct the operator or pilot in command of a Russian aircraft—
 
@@ -48,7 +48,7 @@ summary: ''
 
 (7) An airport operator giving a direction under paragraph (5)(a) must take such steps as are reasonably practicable to detain the aircraft.
 
-(8)[^key-3b74f9d2395c42c7739bfe468e378d19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-3b74f9d2395c42c7739bfe468e378d19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) The Secretary of State may direct the CAA to—
 
@@ -68,8 +68,8 @@ summary: ''
 
 ## Annotations
 
-[^key-70ac39a0d3fc814d66486839ff5f9ea5]: Textual amendment: [Pt. 6A](https://www.legislation.gov.uk/uksi/2019/855/part/6A) inserted (8.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 6) Regulations 2022 (S.I. 2022/241)](https://www.legislation.gov.uk/uksi/2022/241), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/241/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2022/241/regulation/9)
+[^c-70ac39a0d3fc814d66486839ff5f9ea5]: Textual amendment: [Pt. 6A](https://www.legislation.gov.uk/uksi/2019/855/part/6A) inserted (8.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 6) Regulations 2022 (S.I. 2022/241)](https://www.legislation.gov.uk/uksi/2022/241), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/241/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2022/241/regulation/9)
 
-[^key-2cfb33993e58b0d424be6c7828f11292]: Textual amendment: Words in [reg. 57J(2)](https://www.legislation.gov.uk/uksi/2019/855/regulation/57J/2) substituted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [18(a)](https://www.legislation.gov.uk/uksi/2022/395/regulation/18/a)
+[^c-2cfb33993e58b0d424be6c7828f11292]: Textual amendment: Words in [reg. 57J(2)](https://www.legislation.gov.uk/uksi/2019/855/regulation/57J/2) substituted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [18(a)](https://www.legislation.gov.uk/uksi/2022/395/regulation/18/a)
 
-[^key-3b74f9d2395c42c7739bfe468e378d19]: Textual amendment: [Reg. 57J(8)](https://www.legislation.gov.uk/uksi/2019/855/regulation/57J/8) omitted (30.3.2022 at 5.00 p.m.) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [18(b)](https://www.legislation.gov.uk/uksi/2022/395/regulation/18/b)
+[^c-3b74f9d2395c42c7739bfe468e378d19]: Textual amendment: [Reg. 57J(8)](https://www.legislation.gov.uk/uksi/2019/855/regulation/57J/8) omitted (30.3.2022 at 5.00 p.m.) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [18(b)](https://www.legislation.gov.uk/uksi/2022/395/regulation/18/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and Commencement[^key-d7324636c15b82b3f98d1501c8639d15]
+## 1. Citation and Commencement[^c-d7324636c15b82b3f98d1501c8639d15]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Keuper Underground Gas Storage Facility Order 201
 
 ## Annotations
 
-[^key-d7324636c15b82b3f98d1501c8639d15]: Commencement: Art. 1 in force at 5.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1)
+[^c-d7324636c15b82b3f98d1501c8639d15]: Commencement: Art. 1 in force at 5.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1)

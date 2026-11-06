@@ -146,17 +146,17 @@ In Schedule 2 (methods of analysis), in Annex I to Part II, immediately after th
 
 .
 
-## 8. Amendment of the Feeding Stuffs (Enforcement) Regulations 1999[^key-b93fe061109d36259861a04cc21b6e80]
+## 8. Amendment of the Feeding Stuffs (Enforcement) Regulations 1999[^c-b93fe061109d36259861a04cc21b6e80]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-b93fe061109d36259861a04cc21b6e80]
+## 9.[^c-b93fe061109d36259861a04cc21b6e80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-b93fe061109d36259861a04cc21b6e80]
+## 10.[^c-b93fe061109d36259861a04cc21b6e80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -207,21 +207,21 @@ For regulations 11 and 11A (modification of sections 77(4) and 78(6) of the Agri
 
 In regulation 12 (modification of section 83 of the Agriculture Act 1970) the words “(as specified in regulation 7)” shall be omitted.
 
-## 14. Amendment of the Feeding Stuffs (Establishments and Intermediaries) Regulations 1999[^key-86dcb1df5d02cd6fe5b19dffe61f1b87]
+## 14. Amendment of the Feeding Stuffs (Establishments and Intermediaries) Regulations 1999[^c-86dcb1df5d02cd6fe5b19dffe61f1b87]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15.[^key-86dcb1df5d02cd6fe5b19dffe61f1b87]
+## 15.[^c-86dcb1df5d02cd6fe5b19dffe61f1b87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16.[^key-86dcb1df5d02cd6fe5b19dffe61f1b87]
+## 16.[^c-86dcb1df5d02cd6fe5b19dffe61f1b87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17.[^key-86dcb1df5d02cd6fe5b19dffe61f1b87]
+## 17.[^c-86dcb1df5d02cd6fe5b19dffe61f1b87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -271,8 +271,8 @@ The Presiding Officer of the National Assembly
 
 [^c5184401]: Marginal citation: OJ No. L174, 13.7.2000, p.32.
 
-[^key-b93fe061109d36259861a04cc21b6e80]: Textual amendment: [Regs. 8-10](https://www.legislation.gov.uk/wsi/2003/1677/regulation/8) revoked (1.1.2006) by [The Feed (Hygiene and Enforcement) (Wales) Regulations 2005 (S.I. 2005/3368)](https://www.legislation.gov.uk/wsi/2005/3368), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3368/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2005/3368/schedule/2)
+[^c-b93fe061109d36259861a04cc21b6e80]: Textual amendment: [Regs. 8-10](https://www.legislation.gov.uk/wsi/2003/1677/regulation/8) revoked (1.1.2006) by [The Feed (Hygiene and Enforcement) (Wales) Regulations 2005 (S.I. 2005/3368)](https://www.legislation.gov.uk/wsi/2005/3368), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3368/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2005/3368/schedule/2)
 
-[^key-86dcb1df5d02cd6fe5b19dffe61f1b87]: Textual amendment: [Regs. 14-17](https://www.legislation.gov.uk/wsi/2003/1677/regulation/14) revoked (1.1.2006) by [The Feed (Hygiene and Enforcement) (Wales) Regulations 2005 (S.I. 2005/3368)](https://www.legislation.gov.uk/wsi/2005/3368), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3368/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2005/3368/schedule/2)
+[^c-86dcb1df5d02cd6fe5b19dffe61f1b87]: Textual amendment: [Regs. 14-17](https://www.legislation.gov.uk/wsi/2003/1677/regulation/14) revoked (1.1.2006) by [The Feed (Hygiene and Enforcement) (Wales) Regulations 2005 (S.I. 2005/3368)](https://www.legislation.gov.uk/wsi/2005/3368), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3368/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2005/3368/schedule/2)
 
 [^c5184441]: Marginal citation: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

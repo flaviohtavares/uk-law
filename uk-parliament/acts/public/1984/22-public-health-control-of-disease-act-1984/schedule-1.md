@@ -41,7 +41,7 @@ Section 77.
 
 ### Unlawful expenditure
 
-**4.**[^key-ac21b4e2e0632ecda5568b7541193e9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ac21b4e2e0632ecda5568b7541193e9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Amendment and repeal of Acts etc.
 
@@ -68,7 +68,7 @@ in relation to a provision of one of those Acts that is repealed and re–enacte
 
 [^c8863081]: Marginal citation: [1968 c. 46](https://www.legislation.gov.uk/ukpga/1968/46)
 
-[^key-ac21b4e2e0632ecda5568b7541193e9a]: Textual amendment: Sch. 1 para. 4 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-ac21b4e2e0632ecda5568b7541193e9a]: Textual amendment: Sch. 1 para. 4 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 
 [^c8863101]: Marginal citation: [1961 c. 64](https://www.legislation.gov.uk/ukpga/1961/64).
 

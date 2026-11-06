@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69E. Overseas funding: students’ unions[^key-1779cdc54db6afb3048e55ba481e313f]
+## 69E. Overseas funding: students’ unions[^c-1779cdc54db6afb3048e55ba481e313f]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1779cdc54db6afb3048e55ba481e313f]: Textual amendment: [Ss. 69D](https://www.legislation.gov.uk/ukpga/2017/29/section/69D), [69E](https://www.legislation.gov.uk/ukpga/2017/29/section/69E) inserted (11.5.2023 for specified purposes) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [ss. 9(2)](https://www.legislation.gov.uk/ukpga/2023/16/section/9/2), [13(1)(b)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/1/b)[(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3)
+[^c-1779cdc54db6afb3048e55ba481e313f]: Textual amendment: [Ss. 69D](https://www.legislation.gov.uk/ukpga/2017/29/section/69D), [69E](https://www.legislation.gov.uk/ukpga/2017/29/section/69E) inserted (11.5.2023 for specified purposes) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [ss. 9(2)](https://www.legislation.gov.uk/ukpga/2023/16/section/9/2), [13(1)(b)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/1/b)[(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3)

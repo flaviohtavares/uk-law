@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: N.I.*
 
-The Regulations specified in the Table in Schedule 7 are amended in accordance with the provisions of that Table. *(affected by repeal, see note)*[^key-aaac38b2e4d293e45f9caeda1c869071]
+The Regulations specified in the Table in Schedule 7 are amended in accordance with the provisions of that Table. *(affected by repeal, see note)*[^c-aaac38b2e4d293e45f9caeda1c869071]
 
-**18.** The Regulations specified in the Tables in Schedule 8 shall be revoked to the extent specified in those Tables. *(affected by repeal, see note)*[^key-aaac38b2e4d293e45f9caeda1c869071]
+**18.** The Regulations specified in the Tables in Schedule 8 shall be revoked to the extent specified in those Tables. *(affected by repeal, see note)*[^c-aaac38b2e4d293e45f9caeda1c869071]
 
 ## Annotations
 
-[^key-aaac38b2e4d293e45f9caeda1c869071]: Textual amendment: [Regs. 14-18](https://www.legislation.gov.uk/nisr/2009/238/regulation/14) revoked with savings (1.6.2015) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013 (S.R. 2013/206)](https://www.legislation.gov.uk/nisr/2013/206), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/2/1), [24(c)](https://www.legislation.gov.uk/nisr/2013/206/regulation/24/c) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/206/regulation/3), [19](https://www.legislation.gov.uk/nisr/2013/206/regulation/19))
+[^c-aaac38b2e4d293e45f9caeda1c869071]: Textual amendment: [Regs. 14-18](https://www.legislation.gov.uk/nisr/2009/238/regulation/14) revoked with savings (1.6.2015) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013 (S.R. 2013/206)](https://www.legislation.gov.uk/nisr/2013/206), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/2/1), [24(c)](https://www.legislation.gov.uk/nisr/2013/206/regulation/24/c) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/206/regulation/3), [19](https://www.legislation.gov.uk/nisr/2013/206/regulation/19))

@@ -22,7 +22,7 @@ summary: ''
 
 (1) It shall be the duty of the managers of any school which provides accommodation for any child to safeguard and promote the child's welfare.
 
-(2) Where accommodation is provided for a child by a school the[^c17271321] RQIA[^key-d96f7abc76edacc08cdbe02dd3e8b2ef] shall take such steps as are reasonably practicable to enable it to determine whether the child's welfare is adequately safeguarded and promoted while he is accommodated by the school.
+(2) Where accommodation is provided for a child by a school the[^c17271321] RQIA[^c-d96f7abc76edacc08cdbe02dd3e8b2ef] shall take such steps as are reasonably practicable to enable it to determine whether the child's welfare is adequately safeguarded and promoted while he is accommodated by the school.
 
 (3) Where it is of the opinion that there has been a failure to comply with paragraph (1) in relation to a child provided with accommodation by a school the RQIA shall notify both the Department and the Department of Education.
 
@@ -47,4 +47,4 @@ summary: ''
 
 [^c17271321]: Textual amendment: [2003 NI 9](https://www.legislation.gov.uk/nisi/2003)
 
-[^key-d96f7abc76edacc08cdbe02dd3e8b2ef]: Textual amendment: Words in Order substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(b)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-d96f7abc76edacc08cdbe02dd3e8b2ef]: Textual amendment: Words in Order substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(b)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))

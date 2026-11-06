@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 227. Mayoral strategies: general duties[^key-2d51cdd0d4cd337256e0074e8432841f]
+## 227. Mayoral strategies: general duties[^c-2d51cdd0d4cd337256e0074e8432841f]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d51cdd0d4cd337256e0074e8432841f]: Commencement: [S. 227](https://www.legislation.gov.uk/ukpga/2011/20/section/227) in force at 3.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/c) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))
+[^c-2d51cdd0d4cd337256e0074e8432841f]: Commencement: [S. 227](https://www.legislation.gov.uk/ukpga/2011/20/section/227) in force at 3.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/c) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))

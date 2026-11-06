@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Adjustments between councils in relation to social services etc.[^key-fd5989a10c80c9cd799b466a23f8c5be]
+## 65. Adjustments between councils in relation to social services etc.[^c-fd5989a10c80c9cd799b466a23f8c5be]
 
 *Extent: S*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd5989a10c80c9cd799b466a23f8c5be]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2007/10/section/65) in force at 5.10.2007 by [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/334/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/334/schedule/2)
+[^c-fd5989a10c80c9cd799b466a23f8c5be]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2007/10/section/65) in force at 5.10.2007 by [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/334/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/334/schedule/2)

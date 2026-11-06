@@ -27,7 +27,7 @@ summary: ''
 
 and may at any time by such an order approve a modification of such a code or withdraw his approval of such a code or modification.
 
-(2) A contravention of a code of practice as for the time being approved under this section shall not of itself give rise to any criminal or civil liability, [^key-28ddeb8cb9e99f1e881b519cf4621766]...
+(2) A contravention of a code of practice as for the time being approved under this section shall not of itself give rise to any criminal or civil liability, [^c-28ddeb8cb9e99f1e881b519cf4621766]...
 
 (3) The Secretary of State shall not make an order under this section unless he has first consulted the river purification authorities.
 
@@ -37,4 +37,4 @@ and may at any time by such an order approve a modification of such a code or wi
 
 [^c2453241]: Modification: S. 51 extended by [S.I. 1985/708](https://www.legislation.gov.uk/uksi/1985/708), [art. 3](https://www.legislation.gov.uk/uksi/1985/708/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1985/708/schedule/1)
 
-[^key-28ddeb8cb9e99f1e881b519cf4621766]: Textual amendment: Words in s. 51(2) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 16(4)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/16/4); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-28ddeb8cb9e99f1e881b519cf4621766]: Textual amendment: Words in s. 51(2) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 16(4)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/16/4); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

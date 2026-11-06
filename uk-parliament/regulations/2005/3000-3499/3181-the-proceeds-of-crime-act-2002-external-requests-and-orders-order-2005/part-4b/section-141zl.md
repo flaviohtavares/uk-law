@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141ZL. Insolvency[^key-60d328b1519329044b0e7f9eeb27db3e]
+## 141ZL. Insolvency[^c-60d328b1519329044b0e7f9eeb27db3e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,10 +26,10 @@ summary: ''
 
 - (a) it is an asset of a company being wound up in pursuance of a resolution for voluntary winding up,
 - (b) it is an asset of a company and a voluntary arrangement under Part 1 of the 1986 Act, or Part 2 of the 1989 Order, has effect in relation to the company,
-- (c) an order under [^key-01cdebb3583061c49cf96e7dec55c313]... section 286 of the 1986 Act , section 54 of the[^key-f6dbfcad7777c97d801d6b64720ece35] 2016 Act or Article 259 of the 1989 Order (appointment of interim trustee or interim receiver) has effect in relation to the property,
+- (c) an order under [^c-01cdebb3583061c49cf96e7dec55c313]... section 286 of the 1986 Act , section 54 of the[^c-f6dbfcad7777c97d801d6b64720ece35] 2016 Act or Article 259 of the 1989 Order (appointment of interim trustee or interim receiver) has effect in relation to the property,
 - (d) it is an asset comprised in the estate of an individual who has been adjudged bankrupt, or of a person whose estate has been sequestrated,
 - (e) it is an asset of an individual and a voluntary arrangement under Part 8 of the 1986 Act, or Part 8 of the 1989 Order, has effect in relation to them, or
-- (f) it is property comprised in the estate of a person who has granted a trust deed within the meaning of the 2016[^key-b81c595ba3bd3c629053fefad0dbaa42] Act.
+- (f) it is property comprised in the estate of a person who has granted a trust deed within the meaning of the 2016[^c-b81c595ba3bd3c629053fefad0dbaa42] Act.
 
 (3) An application under this article, or under any provision of the 1986 Act or the 1989 Order, for leave to take proceedings in relation to relevant property may be made without notice to any person.
 
@@ -39,10 +39,10 @@ summary: ''
 
 ## Annotations
 
-[^key-60d328b1519329044b0e7f9eeb27db3e]: Textual amendment: [Pts. 4A](https://www.legislation.gov.uk/uksi/2005/3181/part/4A), [4B](https://www.legislation.gov.uk/uksi/2005/3181/part/4B) inserted (11.11.2013) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2013 (S.I. 2013/2604)](https://www.legislation.gov.uk/uksi/2013/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2604/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2604/article/3)
+[^c-60d328b1519329044b0e7f9eeb27db3e]: Textual amendment: [Pts. 4A](https://www.legislation.gov.uk/uksi/2005/3181/part/4A), [4B](https://www.legislation.gov.uk/uksi/2005/3181/part/4B) inserted (11.11.2013) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2013 (S.I. 2013/2604)](https://www.legislation.gov.uk/uksi/2013/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2604/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2604/article/3)
 
-[^key-01cdebb3583061c49cf96e7dec55c313]: Textual amendment: Words in [art. 141ZL(2)(c)](https://www.legislation.gov.uk/uksi/2005/3181/article/141ZL/2/c) omitted (30.11.2016) by virtue of [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 39(6)(a)(i)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/39/6/a/i)
+[^c-01cdebb3583061c49cf96e7dec55c313]: Textual amendment: Words in [art. 141ZL(2)(c)](https://www.legislation.gov.uk/uksi/2005/3181/article/141ZL/2/c) omitted (30.11.2016) by virtue of [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 39(6)(a)(i)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/39/6/a/i)
 
-[^key-f6dbfcad7777c97d801d6b64720ece35]: Textual amendment: Words in [art. 141ZL(2)(c)](https://www.legislation.gov.uk/uksi/2005/3181/article/141ZL/2/c) inserted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 39(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/39/6/a/ii)
+[^c-f6dbfcad7777c97d801d6b64720ece35]: Textual amendment: Words in [art. 141ZL(2)(c)](https://www.legislation.gov.uk/uksi/2005/3181/article/141ZL/2/c) inserted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 39(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/39/6/a/ii)
 
-[^key-b81c595ba3bd3c629053fefad0dbaa42]: Textual amendment: Word in [art. 141ZL(2)(f)](https://www.legislation.gov.uk/uksi/2005/3181/article/141ZL/2/f) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 39(6)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/39/6/b)
+[^c-b81c595ba3bd3c629053fefad0dbaa42]: Textual amendment: Word in [art. 141ZL(2)(f)](https://www.legislation.gov.uk/uksi/2005/3181/article/141ZL/2/f) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 39(6)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/39/6/b)

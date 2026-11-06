@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Amount of the special support grant – 2008 cohort students[^key-7ccb0fd0a116d4089c248396f7c385d9]
+## 59. Amount of the special support grant – 2008 cohort students[^c-7ccb0fd0a116d4089c248396f7c385d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ccb0fd0a116d4089c248396f7c385d9]: Commencement: Reg. 59 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-7ccb0fd0a116d4089c248396f7c385d9]: Commencement: Reg. 59 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

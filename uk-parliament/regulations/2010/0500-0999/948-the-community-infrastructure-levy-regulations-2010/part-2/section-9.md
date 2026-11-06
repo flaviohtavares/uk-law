@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Meaning of “chargeable development”[^M_E_a4e8bcc3-cedc-4957-cf2e-ac9ac9c9f87d][^key-2e178fd9695681f1ead6ada2e397dcaf]
+## 9. Meaning of “chargeable development”[^M_E_a4e8bcc3-cedc-4957-cf2e-ac9ac9c9f87d][^c-2e178fd9695681f1ead6ada2e397dcaf]
 
 *Extent: E*
 
@@ -24,19 +24,19 @@ summary: ''
 
 (2) Paragraph (1) is subject to the following provisions of this regulation.
 
-(3) Where planning permission is granted by way of a general consent, the chargeable development is the development identified in a notice of chargeable development submitted to the collecting authority in accordance with regulation 64 , or prepared by the collecting authority in accordance with regulation 64A[^key-1a96e9cda938c8966efe4773db1334bc].
+(3) Where planning permission is granted by way of a general consent, the chargeable development is the development identified in a notice of chargeable development submitted to the collecting authority in accordance with regulation 64 , or prepared by the collecting authority in accordance with regulation 64A[^c-1a96e9cda938c8966efe4773db1334bc].
 
-(4) In the case of a grant of phased planning permission[^key-4e0698124645a41d99bbd8b506ae6712], each phase of the development is a separate chargeable development.
+(4) In the case of a grant of phased planning permission[^c-4e0698124645a41d99bbd8b506ae6712], each phase of the development is a separate chargeable development.
 
-(5)[^key-426b45e769a1bca9d286b75a52cd668f] In Wales, where the effect of a planning permission granted under section 73 of TCPA 1990 is only to change a condition subject to which a previous planning permission was granted by extending the time within which development must be commenced, the chargeable development is the development for which permission was granted by the previous permission as if that development was commenced.
+(5)[^c-426b45e769a1bca9d286b75a52cd668f] In Wales, where the effect of a planning permission granted under section 73 of TCPA 1990 is only to change a condition subject to which a previous planning permission was granted by extending the time within which development must be commenced, the chargeable development is the development for which permission was granted by the previous permission as if that development was commenced.
 
-(6)[^key-0550b1719ab29d65a9cea2b0fa80d58a] Where a planning permission is granted under section 73 of TCPA 1990, the chargeable development is the most recently commenced or re-commenced chargeable development.
+(6)[^c-0550b1719ab29d65a9cea2b0fa80d58a] Where a planning permission is granted under section 73 of TCPA 1990, the chargeable development is the most recently commenced or re-commenced chargeable development.
 
-(7)[^key-0550b1719ab29d65a9cea2b0fa80d58a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-0550b1719ab29d65a9cea2b0fa80d58a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-0550b1719ab29d65a9cea2b0fa80d58a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-0550b1719ab29d65a9cea2b0fa80d58a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9) For the purposes of paragraph (6)[^key-a5badb13445497822ac8fff10d2eae48], chargeable development is re-commenced where—
+(9) For the purposes of paragraph (6)[^c-a5badb13445497822ac8fff10d2eae48], chargeable development is re-commenced where—
 
 - (a) the chargeable development (“the earlier development”) was commenced;
 - (b) work on the earlier development was halted and a different chargeable development (“the later development”) that was granted planning permission under section 73 of TCPA 1990 was commenced on the relevant land; and
@@ -72,17 +72,17 @@ summary: ''
 
 [^M_E_a4e8bcc3-cedc-4957-cf2e-ac9ac9c9f87d]: Extent: This version of this provision applies to England only; a separate version has been created for Wales only
 
-[^key-2e178fd9695681f1ead6ada2e397dcaf]: Commencement: Reg. 9 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-2e178fd9695681f1ead6ada2e397dcaf]: Commencement: Reg. 9 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
-[^key-1a96e9cda938c8966efe4773db1334bc]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2010/948/regulation/9/3) inserted (6.4.2011) by [The Community Infrastructure Levy (Amendment) Regulations 2011 (S.I. 2011/987)](https://www.legislation.gov.uk/uksi/2011/987), [regs. 1](https://www.legislation.gov.uk/uksi/2011/987/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2011/987/regulation/4/3)
+[^c-1a96e9cda938c8966efe4773db1334bc]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2010/948/regulation/9/3) inserted (6.4.2011) by [The Community Infrastructure Levy (Amendment) Regulations 2011 (S.I. 2011/987)](https://www.legislation.gov.uk/uksi/2011/987), [regs. 1](https://www.legislation.gov.uk/uksi/2011/987/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2011/987/regulation/4/3)
 
-[^key-4e0698124645a41d99bbd8b506ae6712]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2010/948/regulation/9/4) substituted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2014/385/regulation/4/2) (with [reg. 14(1)](https://www.legislation.gov.uk/uksi/2014/385/regulation/14/1)[(7)](https://www.legislation.gov.uk/uksi/2014/385/regulation/14/7))
+[^c-4e0698124645a41d99bbd8b506ae6712]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2010/948/regulation/9/4) substituted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2014/385/regulation/4/2) (with [reg. 14(1)](https://www.legislation.gov.uk/uksi/2014/385/regulation/14/1)[(7)](https://www.legislation.gov.uk/uksi/2014/385/regulation/14/7))
 
-[^key-426b45e769a1bca9d286b75a52cd668f]: Textual amendment: Reg. 9(5)-(9) substituted for reg. 9(5) (29.11.2012) by [The Community Infrastructure Levy (Amendment) Regulations 2012 (S.I. 2012/2975)](https://www.legislation.gov.uk/uksi/2012/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2012/2975/regulation/3/2) (with [reg. 10(1)](https://www.legislation.gov.uk/uksi/2012/2975/regulation/10/1))
+[^c-426b45e769a1bca9d286b75a52cd668f]: Textual amendment: Reg. 9(5)-(9) substituted for reg. 9(5) (29.11.2012) by [The Community Infrastructure Levy (Amendment) Regulations 2012 (S.I. 2012/2975)](https://www.legislation.gov.uk/uksi/2012/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2012/2975/regulation/3/2) (with [reg. 10(1)](https://www.legislation.gov.uk/uksi/2012/2975/regulation/10/1))
 
-[^key-0550b1719ab29d65a9cea2b0fa80d58a]: Textual amendment: Reg. 9(6) substituted for reg. 9(6)-(8) (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [5(1)(a)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/5/1/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
+[^c-0550b1719ab29d65a9cea2b0fa80d58a]: Textual amendment: Reg. 9(6) substituted for reg. 9(6)-(8) (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [5(1)(a)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/5/1/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
 
-[^key-a5badb13445497822ac8fff10d2eae48]: Textual amendment: Words in [reg. 9(9)](https://www.legislation.gov.uk/uksi/2010/948/regulation/9/9) substituted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/5/1/b) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
+[^c-a5badb13445497822ac8fff10d2eae48]: Textual amendment: Words in [reg. 9(9)](https://www.legislation.gov.uk/uksi/2010/948/regulation/9/9) substituted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/5/1/b) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
 
 [^M_E_19f7c0a2-1be8-479a-fc1b-d29788fa85ec]: Extent: This version of this provision applies to Wales only; a separate version has been created for England only
 

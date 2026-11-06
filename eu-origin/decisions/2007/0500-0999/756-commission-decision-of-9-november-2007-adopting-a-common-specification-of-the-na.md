@@ -93,26 +93,26 @@ The measures provided for in this Decision are in accordance with the opinion of
 
 HAS ADOPTED THIS DECISION:
 
-**Article 1.**[^key-f0fcdbc1169ee6fcd6afbf027b245bcf] The specifications for the National Vehicle Register provided for under regulation 36 of the 2011 Regulations are set out in the Annex.
+**Article 1.**[^c-f0fcdbc1169ee6fcd6afbf027b245bcf] The specifications for the National Vehicle Register provided for under regulation 36 of the 2011 Regulations are set out in the Annex.
 
-**Article 1A.**[^key-02bb2a8530af37933b6d5294dafe418b] (1) In this Decision—
+**Article 1A.**[^c-02bb2a8530af37933b6d5294dafe418b] (1) In this Decision—
 
 - “entity in charge of maintenance” and “keeper” have the meanings set out in regulation 2(1) of the Railways and Other Guided Transport Systems (Safety) Regulations 2006;
 - “**the 2011 Regulations**” means the Railways (Interoperability) Regulations 2011.
 
 (2) Unless the context otherwise requires, terms used in this Decision have the meaning set out in the 2011 Regulations.
 
-**Article 1a.**[^key-8856f98a42ef44ee471a94055315770b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1a.**[^c-8856f98a42ef44ee471a94055315770b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-2d17ad4957df90a7efa18ab31c26654b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-2d17ad4957df90a7efa18ab31c26654b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.** The registration entity[^key-08bc0c8e629ff92fbfa27dd336001c46] shall register existing vehicles as provided for in section 4 of the Annex.
+**Article 3.** The registration entity[^c-08bc0c8e629ff92fbfa27dd336001c46] shall register existing vehicles as provided for in section 4 of the Annex.
 
-**Article 4.**[^key-73336994c63020836bd428c7ff32ba84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-73336994c63020836bd428c7ff32ba84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-a602d2c30cbc78727b5c585337540f45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-a602d2c30cbc78727b5c585337540f45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-e8a2431ce5067f18994e47040133cbc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-e8a2431ce5067f18994e47040133cbc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## ANNEX[^c000002]
 
@@ -209,11 +209,11 @@ In addition, field(s) may be added such as comments, identification of vehicles 
 </tbody>
 </table>
 
-[^c000003][^key-b3c7c9ab662805bb3a22f32d09dca49d][^key-c1f96b9cea8d16553f0104715332dafd][^key-72b5bc0a0d1ef85cacc2ddb6c47c4903][^key-fc022dbef262dfd6ae759ea8b7fbb6dc][^key-1c9122403724e0f7fcdcc61b21cc074b][^key-1c9122403724e0f7fcdcc61b21cc074b][^key-1ced4ed2bb77cd3f94364fa3a0b55698][^key-ddc74be627c90e1b7cb1a0e34a42eb41][^key-47982f5c98f6ad98e5c3b7065b3f3118][^f00005][^key-6e1aacce580903097d8421241ced4c64][^key-190624ae8fcf0e33673d45dabbfc4330][^key-190624ae8fcf0e33673d45dabbfc4330][^key-190624ae8fcf0e33673d45dabbfc4330][^key-190624ae8fcf0e33673d45dabbfc4330][^key-190624ae8fcf0e33673d45dabbfc4330][^key-190624ae8fcf0e33673d45dabbfc4330][^key-190624ae8fcf0e33673d45dabbfc4330][^key-d3be649bfb5474c92174516e0de1c8a1][^f00007]
+[^c000003][^c-b3c7c9ab662805bb3a22f32d09dca49d][^c-c1f96b9cea8d16553f0104715332dafd][^c-72b5bc0a0d1ef85cacc2ddb6c47c4903][^c-fc022dbef262dfd6ae759ea8b7fbb6dc][^c-1c9122403724e0f7fcdcc61b21cc074b][^c-1c9122403724e0f7fcdcc61b21cc074b][^c-1ced4ed2bb77cd3f94364fa3a0b55698][^c-ddc74be627c90e1b7cb1a0e34a42eb41][^c-47982f5c98f6ad98e5c3b7065b3f3118][^f00005][^c-6e1aacce580903097d8421241ced4c64][^c-190624ae8fcf0e33673d45dabbfc4330][^c-190624ae8fcf0e33673d45dabbfc4330][^c-190624ae8fcf0e33673d45dabbfc4330][^c-190624ae8fcf0e33673d45dabbfc4330][^c-190624ae8fcf0e33673d45dabbfc4330][^c-190624ae8fcf0e33673d45dabbfc4330][^c-190624ae8fcf0e33673d45dabbfc4330][^c-d3be649bfb5474c92174516e0de1c8a1][^f00007]
 
 2\.
 
-[^key-888f6dd91e80af77740f420054872d8d]...
+[^c-888f6dd91e80af77740f420054872d8d]...
 
 3\.
 
@@ -227,7 +227,7 @@ The NVR is to be used for the following purposes:
 
 - recording authorisation,
 - recording the EVN allocated to vehicles,
-- [^key-07b8434f8a3448571006a338bf730edc]...
+- [^c-07b8434f8a3448571006a338bf730edc]...
 - following up legal aspects such as obligations and legal information,
 - retrieving information for inspections mainly related to safety and maintenance,
 - enabling contact with the owner and keeper,
@@ -244,7 +244,7 @@ The NVR is to be used for the following purposes:
 
 The form in Appendix 4 shall be used for the application for registration.
 
-The entity applying for vehicle registration shall tick the ‘New registration’ box. It shall fill in the form and forward it to the RE.[^key-552efea040e19e128f51f99565985f59]
+The entity applying for vehicle registration shall tick the ‘New registration’ box. It shall fill in the form and forward it to the RE.[^c-552efea040e19e128f51f99565985f59]
 
 3.2.2.
 
@@ -254,7 +254,7 @@ In the case of first registration, the RE concerned issues the European Vehicle 
 
 It is possible to have a separate registration form per vehicle or a single form for a whole set of vehicles of the same series or order with a list of the vehicle numbers attached.
 
-The RE must take reasonable steps to ensure the accuracy of the data it enters in the NVR. [^key-d4e882121f0a879489fb448a3f52a5a1]...
+The RE must take reasonable steps to ensure the accuracy of the data it enters in the NVR. [^c-d4e882121f0a879489fb448a3f52a5a1]...
 
 3.2.3.
 
@@ -265,15 +265,15 @@ The entity applying for a change to its vehicle registration item(s):
 - ticks the ‘Modification’ box,
 - fills in the current EVN (item No 0),
 - ticks the box(es) before the modified item(s),
-- enters the new content of the modified item(s), and then forwards the form to the RE[^key-b530ccb2fc27325265fa151ed7719645].
+- enters the new content of the modified item(s), and then forwards the form to the RE[^c-b530ccb2fc27325265fa151ed7719645].
 
 The use of the standard form might not be sufficient for certain cases. If necessary, the RE concerned may therefore submit additional documents in either paper or electronic form.
 
-Unless otherwise specified in the registration documents, the keeper of the vehicle is considered to be the owner of the vehicle referred to in regulation 36(8) of the 2011 Regulations[^key-a37fa56102ebff7521d88376d28f0aba].
+Unless otherwise specified in the registration documents, the keeper of the vehicle is considered to be the owner of the vehicle referred to in regulation 36(8) of the 2011 Regulations[^c-a37fa56102ebff7521d88376d28f0aba].
 
 Should a keeper change, it is the responsibility of the currently registered keeper to notify the RE and the RE has to notify the new keeper of the change of registration. The former keeper is removed from the NVR and relieved of its responsibilities only when the new keeper has acknowledged its acceptance of keeper status. If on the date of de-registration of the currently registered keeper no new keeper has accepted the keeper status, the registration of the vehicle is suspended.
 
-In cases where, in accordance with the OPE NTSN[^key-f15f439463f58528f30a95b623b82c3c], due to technical changes, the vehicle has to be given a new EVN, the owner of the vehicle shall inform the RE of[^key-a5707184cc4c3d4da49d8a0156d4b668] these changes and, if applicable, of the new authorisation for placing in service [^key-1dd7d34e6deba424da6cb4033d240c6e].... This RE shall assign to the vehicle a new EVN.
+In cases where, in accordance with the OPE NTSN[^c-f15f439463f58528f30a95b623b82c3c], due to technical changes, the vehicle has to be given a new EVN, the owner of the vehicle shall inform the RE of[^c-a5707184cc4c3d4da49d8a0156d4b668] these changes and, if applicable, of the new authorisation for placing in service [^c-1dd7d34e6deba424da6cb4033d240c6e].... This RE shall assign to the vehicle a new EVN.
 
 The RE shall register the changes in the NVR within 20 working days from the receipt of a complete application file. The RE shall, within this deadline, either register the vehicle or request correction/clarification.[^c000005]
 
@@ -281,11 +281,11 @@ The RE shall register the changes in the NVR within 20 working days from the rec
 
 *Withdrawal of registration*
 
-The entity applying for withdrawal of registration ticks the ‘Withdrawal’ box. It then fills in item No 10 and forwards the form to the RE[^key-eed91078be59d48bcffb9962133a66d7].
+The entity applying for withdrawal of registration ticks the ‘Withdrawal’ box. It then fills in item No 10 and forwards the form to the RE[^c-eed91078be59d48bcffb9962133a66d7].
 
 The RE delivers the withdrawal registration by filling in the date of withdrawal and acknowledging the withdrawal to the entity.
 
-[^key-09a58be31bc949b205dd6fe6df0c1823]3.2.5.
+[^c-09a58be31bc949b205dd6fe6df0c1823]3.2.5.
 
 *. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .*
 
@@ -295,9 +295,9 @@ The RE delivers the withdrawal registration by filling in the date of withdrawal
 
 1\.
 
-The EVN shall be changed when it does not reflect the interoperability capability or technical characteristics in accordance with Appendix 6 due to technical modifications of the vehicle. Such technical modifications may require a new authorisation for placing in service [^key-7d03b97ffd405ae849dc5c191bde78da]... or a new authorisation for placing on the market and, where appropriate, a new vehicle type authorisation, in accordance with the 2011 Regulations[^key-f39113dfa14a43cd0e8758a778e1039e]. The keeper shall inform the RE with which[^key-b668f7bd575560b3642810bee9795f15] the vehicle is registered of those changes and, if applicable, of the new authorisation for placing in service or of a new authorisation for placing on the market. That RE shall assign to the vehicle a new EVN.
+The EVN shall be changed when it does not reflect the interoperability capability or technical characteristics in accordance with Appendix 6 due to technical modifications of the vehicle. Such technical modifications may require a new authorisation for placing in service [^c-7d03b97ffd405ae849dc5c191bde78da]... or a new authorisation for placing on the market and, where appropriate, a new vehicle type authorisation, in accordance with the 2011 Regulations[^c-f39113dfa14a43cd0e8758a778e1039e]. The keeper shall inform the RE with which[^c-b668f7bd575560b3642810bee9795f15] the vehicle is registered of those changes and, if applicable, of the new authorisation for placing in service or of a new authorisation for placing on the market. That RE shall assign to the vehicle a new EVN.
 
-[^key-3bbe60db71bf1ab660e21b20fe722689]2.
+[^c-3bbe60db71bf1ab660e21b20fe722689]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -305,7 +305,7 @@ The EVN shall be changed when it does not reflect the interoperability capabilit
 
 **Access rights**
 
-The access rights for the relevant entities to data in the UK NVR[^key-dd455ba868a25cc21c3821c3298e98e7] are listed in the table below:
+The access rights for the relevant entities to data in the UK NVR[^c-dd455ba868a25cc21c3821c3298e98e7] are listed in the table below:
 
 <table>
 <tfoot>
@@ -329,9 +329,9 @@ The access rights for the relevant entities to data in the UK NVR[^key-dd455ba86
 </tbody>
 </table>
 
-[^key-e73b20142bc643f806e54760f441e443][^key-eb9e481327f13743bf619533fa32e491][^key-a482d1a91457578ded9c226da4a1bca9][^key-f6a77d4eadbe5c98d6ad48a4bb6e7ff2][^key-8ea7839854acb2cda2fee30f04c846bc][^key-8ea7839854acb2cda2fee30f04c846bc][^key-8ea7839854acb2cda2fee30f04c846bc][^key-d371955e603ba5a0d7d471d2a298d326][^key-4c116ede88d1ab7613c14332cdab2772][^key-8f89480e0502b1cc42e2582d98b44be0]
+[^c-e73b20142bc643f806e54760f441e443][^c-eb9e481327f13743bf619533fa32e491][^c-a482d1a91457578ded9c226da4a1bca9][^c-f6a77d4eadbe5c98d6ad48a4bb6e7ff2][^c-8ea7839854acb2cda2fee30f04c846bc][^c-8ea7839854acb2cda2fee30f04c846bc][^c-8ea7839854acb2cda2fee30f04c846bc][^c-d371955e603ba5a0d7d471d2a298d326][^c-4c116ede88d1ab7613c14332cdab2772][^c-8f89480e0502b1cc42e2582d98b44be0]
 
-[^key-107346201460c5c92687e22cea562066]...
+[^c-107346201460c5c92687e22cea562066]...
 
 3.4.
 
@@ -361,11 +361,11 @@ The 13 data items retained are listed below, with an indication as to which are 
 
 Vehicles already possessing a 12-digit number
 
-Vehicles with numbers issued outside the UK[^key-8be960a6c896e42f5e82e0958d03a815]:
+Vehicles with numbers issued outside the UK[^c-8be960a6c896e42f5e82e0958d03a815]:
 
 These vehicles should keep their current number. The 12-digit number should be registered as such without any modification.
 
-[^key-8caa44b4d267ea4f36e867b76d1c62a8]...
+[^c-8caa44b4d267ea4f36e867b76d1c62a8]...
 
 (b)
 
@@ -373,10 +373,10 @@ Vehicles without a 12-digit number
 
 A two-step procedure applies.
 
-- A 12-digit number (according to OPE NTSN[^key-3f96acdf22ba1ae0baac45d0b95c5241] ) defined in accordance with the vehicle’s characteristics is allocated in the NVR. The IT system should link this registered number to the current vehicle number.
+- A 12-digit number (according to OPE NTSN[^c-3f96acdf22ba1ae0baac45d0b95c5241] ) defined in accordance with the vehicle’s characteristics is allocated in the NVR. The IT system should link this registered number to the current vehicle number.
 - For vehicles used in international traffic, except those reserved for historical use: the 12-digit number is physically applied to the vehicle itself within a period of 6 years after allocation in the NVR. For vehicles used in domestic traffic and for those reserved for historical use: the physical application of the 12-digit number is voluntary.
 
-[^key-f94d39a723c9983a45b5afc97fd519a5]4.1.2.
+[^c-f94d39a723c9983a45b5afc97fd519a5]4.1.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -388,17 +388,17 @@ Where the manufacturing year is not known precisely, the approximate year should
 
 4.1.4.
 
-*Item No 4 — EC or UK[^key-4be0f67abbd6e7d841f1632150cbd3ef] Reference*
+*Item No 4 — EC or UK[^c-4be0f67abbd6e7d841f1632150cbd3ef] Reference*
 
 Normally such a reference does not exist for existing vehicles except for a handful of HS RS. To be recorded only if available.
 
 4.1.5.
 
-*Item No 5 — Reference to the UK List of Authorised Types[^key-016199697db2019fc02e3b02f0145773]*
+*Item No 5 — Reference to the UK List of Authorised Types[^c-016199697db2019fc02e3b02f0145773]*
 
 To be recorded only if available.
 
-[^key-c7237b0b7932f7ebb603bb28cbdffe55]...
+[^c-c7237b0b7932f7ebb603bb28cbdffe55]...
 
 4.1.6.
 
@@ -430,7 +430,7 @@ This item is compulsory.
 
 Applicable as appropriate.
 
-[^key-361bd7b1e692e3d82582e6cc65e8267b]4.1.11.
+[^c-361bd7b1e692e3d82582e6cc65e8267b]4.1.11.
 
 *. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .*
 
@@ -450,19 +450,19 @@ Where the date of placing into service is not known precisely, the approximate y
 
 **Procedure**
 
-The entity previously responsible for vehicle registration is to make all information available to the Safety Authority[^key-cee2ab191b3066dd9ab2a911fdcb8203] or RE [^key-04fd6b2b126f8e7366649df1f0d18535]....
+The entity previously responsible for vehicle registration is to make all information available to the Safety Authority[^c-cee2ab191b3066dd9ab2a911fdcb8203] or RE [^c-04fd6b2b126f8e7366649df1f0d18535]....
 
-Existing freight wagons and passenger cars must be registered in the UK NVR.[^key-5403932507ea1deac4422355f4bdc830]
+Existing freight wagons and passenger cars must be registered in the UK NVR.[^c-5403932507ea1deac4422355f4bdc830]
 
-[^key-43b4cd1132949855dbb186db89ffa7b3]...
+[^c-43b4cd1132949855dbb186db89ffa7b3]...
 
-The Safety Authority[^key-48f7f006518772f0214aa96bcbb96508] or RE includes the information in its NVR.
+The Safety Authority[^c-48f7f006518772f0214aa96bcbb96508] or RE includes the information in its NVR.
 
-The Safety Authority[^key-29634134f8164910f9ffd94f6cfbda64] or RE informs all the parties involved when the information transfer is completed. At least the following entities are to be informed:
+The Safety Authority[^c-29634134f8164910f9ffd94f6cfbda64] or RE informs all the parties involved when the information transfer is completed. At least the following entities are to be informed:
 
 - the entity previously responsible for vehicle registration,
 - the keeper,
-- [^key-157a201e7f0c7d041340921d1a24b4f6]...
+- [^c-157a201e7f0c7d041340921d1a24b4f6]...
 
 Appendix 1
 
@@ -472,7 +472,7 @@ Appendix 1
 
 PRINCIPLES
 
-The restrictions referred to in the authorisation for placing in service in accordance with the 2011 Regulations[^key-9984ff9d2c82259a65590bfd6720af44] or in the authorisation for placing on the market and, where appropriate, a new vehicle type authorisation, in accordance with the 2011 Regulations[^key-13124759a8e6bab2913a9fa7f1a06756] shall be assigned a [^key-053d0e806db8d27f7b588472555de04c]... code.
+The restrictions referred to in the authorisation for placing in service in accordance with the 2011 Regulations[^c-9984ff9d2c82259a65590bfd6720af44] or in the authorisation for placing on the market and, where appropriate, a new vehicle type authorisation, in accordance with the 2011 Regulations[^c-13124759a8e6bab2913a9fa7f1a06756] shall be assigned a [^c-053d0e806db8d27f7b588472555de04c]... code.
 
 2\.
 
@@ -494,23 +494,23 @@ RESTRICTION CODES
 
 1\.
 
-These codes are available on the website of the European Union Agency for Railways.[^key-cbae8cdf1f33410de7e86bfeb4f9b3be]
+These codes are available on the website of the European Union Agency for Railways.[^c-cbae8cdf1f33410de7e86bfeb4f9b3be]
 
 The use of non-coded restrictions must be limited to those restrictions that, due to their particular character, are unlikely to be applied to several types of vehicle.
 
-[^key-02b08c7a9076efda3ae9b2bf0ed7958b]2.
+[^c-02b08c7a9076efda3ae9b2bf0ed7958b]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02b08c7a9076efda3ae9b2bf0ed7958b]3.
+[^c-02b08c7a9076efda3ae9b2bf0ed7958b]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02b08c7a9076efda3ae9b2bf0ed7958b]4.
+[^c-02b08c7a9076efda3ae9b2bf0ed7958b]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02b08c7a9076efda3ae9b2bf0ed7958b]5.
+[^c-02b08c7a9076efda3ae9b2bf0ed7958b]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -518,7 +518,7 @@ Appendix 2
 
 **STRUCTURE AND CONTENT OF THE EUROPEAN IDENTIFICATION NUMBER**
 
-The structure and content of the European Identification Number (EIN), including the codification of the types of documents concerned, are available in a technical document on the website of the European Union Agency for Railways. The United Kingdom country codes are either UK or CT for the Channel Tunnel.[^key-3cbceed787ff9c21228aa58683101ac1]
+The structure and content of the European Identification Number (EIN), including the codification of the types of documents concerned, are available in a technical document on the website of the European Union Agency for Railways. The United Kingdom country codes are either UK or CT for the Channel Tunnel.[^c-3cbceed787ff9c21228aa58683101ac1]
 
 Appendix 3
 
@@ -527,52 +527,52 @@ Appendix 3
 | Code | Withdrawal mode | Description |
 | --- | --- | --- |
 | 00 | None | The vehicle has a valid registration. |
-| 10 | Registration suspended<br>No reason specified | The vehicle’s registration is suspended at the request of the owner or keeper or by a decision of the Safety Authority[^key-32e0f48b328d55e87dcae1df6f2f7eba] or RE. |
+| 10 | Registration suspended<br>No reason specified | The vehicle’s registration is suspended at the request of the owner or keeper or by a decision of the Safety Authority[^c-32e0f48b328d55e87dcae1df6f2f7eba] or RE. |
 | 11 | Registration suspended | The vehicle is destined for storage in working order as an inactive or strategic reserve. |
-| 20 | Registration transferred | The vehicle is known to be reregistered under a different number or by a different NVR, for continued use on (all or part of) the UK[^key-d2db0a3df29b460910adc021692b0132] railway network. |
+| 20 | Registration transferred | The vehicle is known to be reregistered under a different number or by a different NVR, for continued use on (all or part of) the UK[^c-d2db0a3df29b460910adc021692b0132] railway network. |
 | 30 | Withdrawal<br>No reason specified | The vehicle’s registration for operating on the UK railway network has ended without known reregistration. |
-| 31 | [^key-b816ee59187215d28d662f3800c52a28]. . . | [^key-b816ee59187215d28d662f3800c52a28]. . . |
+| 31 | [^c-b816ee59187215d28d662f3800c52a28]. . . | [^c-b816ee59187215d28d662f3800c52a28]. . . |
 | 32 | Withdrawal | The vehicle is destined for the recovery of major interoperable constituents/modules/spares or major rebuilding. |
 | 33 | Withdrawal | The vehicle is destined for scrapping and disposal of materials (including major spares) for recycling. |
-| 34 | [^key-b816ee59187215d28d662f3800c52a28]. . . | [^key-b816ee59187215d28d662f3800c52a28]. . . |
+| 34 | [^c-b816ee59187215d28d662f3800c52a28]. . . | [^c-b816ee59187215d28d662f3800c52a28]. . . |
 
 **Use of codes**
 
 - If the reason for withdrawal is not specified, codes 10, 20 and 30 are to be used to indicate the change of registration status.
-- If the reason for withdrawal is available, codes 11, 32 and 33[^key-a5950691ea095f0f7abffb0539c7029b] are options available within the NVR database. These codes are based solely on information provided by the keeper or owner to the RE.
+- If the reason for withdrawal is available, codes 11, 32 and 33[^c-a5950691ea095f0f7abffb0539c7029b] are options available within the NVR database. These codes are based solely on information provided by the keeper or owner to the RE.
 
 **Registration issues**
 
-- A vehicle that has its registration suspended or withdrawn may not operate on the UK[^key-d997a733ce9ab543c29dd2e7da696c06] railway network under the recorded registration.
+- A vehicle that has its registration suspended or withdrawn may not operate on the UK[^c-d997a733ce9ab543c29dd2e7da696c06] railway network under the recorded registration.
 - A reactivation of a registration after suspension will require the verification by the registration entity of the conditions which caused the suspension.
-- A transfer of registration under the conditions set out in the OPE NTSN[^key-ce160324519e333009f3e8894a122327], consists of a new registration of the vehicle and subsequent withdrawal of the old registration.
+- A transfer of registration under the conditions set out in the OPE NTSN[^c-ce160324519e333009f3e8894a122327], consists of a new registration of the vehicle and subsequent withdrawal of the old registration.
 
-[^key-7794d8d47dc39250d95ee449e660e61e]Appendix 4
+[^c-7794d8d47dc39250d95ee449e660e61e]Appendix 4
 
 **STANDARD FORM FOR REGISTRATION**
 
 [image: see source](https://www.legislation.gov.uk/eudn/2007/756/images/eudn_20070756_en_epp_001.gif)[image: see source](https://www.legislation.gov.uk/eudn/2007/756/images/eudn_20070756_en_epp_003.gif)[image: see source](https://www.legislation.gov.uk/eudn/2007/756/images/eudn_20070756_en_epp_004.gif)
 
-[^key-9f4673bfce6316a1f570c60380e79e8f][^key-bc5e7aec79ec7adb20e16f09f15db6c2][^key-49ba6499aaed46aad44c18325047ae9a][^key-6621bae2615c93a0d5b45a60e17c0301][^key-4777e08b96ab3afd0e06e12cf9f103eb][^key-c2495e650873cbee66e79833c7e0eec7][^key-d74786200bf1fa8f09b8ac9b354c1b5a][^key-7a101037a4f43531691e3af9ce4546b7][^key-91f3cd03a746ee4b9bd5e08e144fe7e7][^key-c789d2f29c3166dcb8f3dfdd348cd834][^key-1b2216cc90032939480b53df9707f9d9][^key-60b1e1c9aea479a7ecd61b1c28e25fad][^key-2f62f44b0e05584451d3bc80844d40bc][^key-f89ed5d3c8fedec63e93a8328bf38d9a][^key-e34f5a3edd6d280a100e4927478dce18][^key-3cfaf470f78dd2abf386edcc8c49dade][^key-e8b9b58f100a7f44bf089568eacc05bd][^key-59f52829a6b90ff5b97a1bc0c2b132a7][^key-ca12c83ce1b12fb5a484109c9b950c5d][^key-3db93cb820e26d87e6724816f8f909b7]Appendix 5
+[^c-9f4673bfce6316a1f570c60380e79e8f][^c-bc5e7aec79ec7adb20e16f09f15db6c2][^c-49ba6499aaed46aad44c18325047ae9a][^c-6621bae2615c93a0d5b45a60e17c0301][^c-4777e08b96ab3afd0e06e12cf9f103eb][^c-c2495e650873cbee66e79833c7e0eec7][^c-d74786200bf1fa8f09b8ac9b354c1b5a][^c-7a101037a4f43531691e3af9ce4546b7][^c-91f3cd03a746ee4b9bd5e08e144fe7e7][^c-c789d2f29c3166dcb8f3dfdd348cd834][^c-1b2216cc90032939480b53df9707f9d9][^c-60b1e1c9aea479a7ecd61b1c28e25fad][^c-2f62f44b0e05584451d3bc80844d40bc][^c-f89ed5d3c8fedec63e93a8328bf38d9a][^c-e34f5a3edd6d280a100e4927478dce18][^c-3cfaf470f78dd2abf386edcc8c49dade][^c-e8b9b58f100a7f44bf089568eacc05bd][^c-59f52829a6b90ff5b97a1bc0c2b132a7][^c-ca12c83ce1b12fb5a484109c9b950c5d][^c-3db93cb820e26d87e6724816f8f909b7]Appendix 5
 
 **GLOSSARY**
 
 | Abbreviation | Definition |
 | --- | --- |
 | CCS | Control Command System |
-| [^key-9f4673bfce6316a1f570c60380e79e8f]. . . | [^key-9f4673bfce6316a1f570c60380e79e8f]. . . |
+| [^c-9f4673bfce6316a1f570c60380e79e8f]. . . | [^c-9f4673bfce6316a1f570c60380e79e8f]. . . |
 | COTIF | Convention concerning International Carriage by Rail |
 | CR | Conventional Rail (System) |
 | DB | Database |
 | EC | European Commission |
-| [^key-bc5e7aec79ec7adb20e16f09f15db6c2]. . . | [^key-bc5e7aec79ec7adb20e16f09f15db6c2]. . . |
+| [^c-bc5e7aec79ec7adb20e16f09f15db6c2]. . . | [^c-bc5e7aec79ec7adb20e16f09f15db6c2]. . . |
 | EIN | European Identification Number |
 | EN | European Standard (Euro Norm) |
 | EVN | European Vehicle Number |
-| [^key-49ba6499aaed46aad44c18325047ae9a]. . . | [^key-49ba6499aaed46aad44c18325047ae9a]. . . |
-| [^key-6621bae2615c93a0d5b45a60e17c0301]. . . | [^key-6621bae2615c93a0d5b45a60e17c0301]. . . |
+| [^c-49ba6499aaed46aad44c18325047ae9a]. . . | [^c-49ba6499aaed46aad44c18325047ae9a]. . . |
+| [^c-6621bae2615c93a0d5b45a60e17c0301]. . . | [^c-6621bae2615c93a0d5b45a60e17c0301]. . . |
 | ERTMS | European Rail Traffic Management System |
-| [^key-4777e08b96ab3afd0e06e12cf9f103eb]. . . | [^key-4777e08b96ab3afd0e06e12cf9f103eb]. . . |
+| [^c-4777e08b96ab3afd0e06e12cf9f103eb]. . . | [^c-4777e08b96ab3afd0e06e12cf9f103eb]. . . |
 | HS | High Speed (System) |
 | IB | Investigating Body |
 | ISO | International Organisation for Standardisation |
@@ -581,26 +581,26 @@ Appendix 3
 | IT | Information Technology |
 | LR | Local Register |
 | NoBo | Notified Body |
-| [^key-c2495e650873cbee66e79833c7e0eec7]. . . | [^key-c2495e650873cbee66e79833c7e0eec7]. . . |
+| [^c-c2495e650873cbee66e79833c7e0eec7]. . . | [^c-c2495e650873cbee66e79833c7e0eec7]. . . |
 | NTSN | National Technical Specification Notice |
 | NVR | National Vehicle Register |
 | OPE NTSN | Operation and Traffic management NTSN |
 | OTIF | Intergovernmental Organisation for International Carriage by Rail |
 | RE | Registration Entity, i.e. the body responsible for keeping and updating the NVR |
 | RB | Regulatory Body |
-| [^key-d74786200bf1fa8f09b8ac9b354c1b5a]. . . | [^key-d74786200bf1fa8f09b8ac9b354c1b5a]. . . |
-| [^key-7a101037a4f43531691e3af9ce4546b7]. . . | [^key-7a101037a4f43531691e3af9ce4546b7]. . . |
+| [^c-d74786200bf1fa8f09b8ac9b354c1b5a]. . . | [^c-d74786200bf1fa8f09b8ac9b354c1b5a]. . . |
+| [^c-7a101037a4f43531691e3af9ce4546b7]. . . | [^c-7a101037a4f43531691e3af9ce4546b7]. . . |
 | RS or RST | Rolling Stock |
-| [^key-91f3cd03a746ee4b9bd5e08e144fe7e7]. . . | [^key-91f3cd03a746ee4b9bd5e08e144fe7e7]. . . |
+| [^c-91f3cd03a746ee4b9bd5e08e144fe7e7]. . . | [^c-91f3cd03a746ee4b9bd5e08e144fe7e7]. . . |
 | RU | Railway Undertaking |
-| [^key-c789d2f29c3166dcb8f3dfdd348cd834]. . . | [^key-c789d2f29c3166dcb8f3dfdd348cd834]. . . |
-| [^key-1b2216cc90032939480b53df9707f9d9]. . . | [^key-1b2216cc90032939480b53df9707f9d9]. . . |
-| [^key-60b1e1c9aea479a7ecd61b1c28e25fad]. . . | [^key-60b1e1c9aea479a7ecd61b1c28e25fad]. . . |
+| [^c-c789d2f29c3166dcb8f3dfdd348cd834]. . . | [^c-c789d2f29c3166dcb8f3dfdd348cd834]. . . |
+| [^c-1b2216cc90032939480b53df9707f9d9]. . . | [^c-1b2216cc90032939480b53df9707f9d9]. . . |
+| [^c-60b1e1c9aea479a7ecd61b1c28e25fad]. . . | [^c-60b1e1c9aea479a7ecd61b1c28e25fad]. . . |
 | VKM | Vehicle Keeper Marking |
-| [^key-2f62f44b0e05584451d3bc80844d40bc]. . . | [^key-2f62f44b0e05584451d3bc80844d40bc]. . . |
-| [^key-f89ed5d3c8fedec63e93a8328bf38d9a]. . . | [^key-f89ed5d3c8fedec63e93a8328bf38d9a]. . . |
-| [^key-e34f5a3edd6d280a100e4927478dce18]. . . | [^key-e34f5a3edd6d280a100e4927478dce18]. . . |
-| [^key-3cfaf470f78dd2abf386edcc8c49dade]. . . | [^key-3cfaf470f78dd2abf386edcc8c49dade]. . . |
+| [^c-2f62f44b0e05584451d3bc80844d40bc]. . . | [^c-2f62f44b0e05584451d3bc80844d40bc]. . . |
+| [^c-f89ed5d3c8fedec63e93a8328bf38d9a]. . . | [^c-f89ed5d3c8fedec63e93a8328bf38d9a]. . . |
+| [^c-e34f5a3edd6d280a100e4927478dce18]. . . | [^c-e34f5a3edd6d280a100e4927478dce18]. . . |
+| [^c-3cfaf470f78dd2abf386edcc8c49dade]. . . | [^c-3cfaf470f78dd2abf386edcc8c49dade]. . . |
 
 *Appendix 6[^c000001]*
 
@@ -624,17 +624,17 @@ Each railway vehicle receives a number consisting of 12 figures (called European
 </tbody>
 </table>
 
-[^key-81d6c9af3e09adcbac6f4f8d226fed48]
+[^c-81d6c9af3e09adcbac6f4f8d226fed48]
 
-The[^key-49a6131292dae3d6e53940aceb44cf5e] 7 digits of technical characteristics and serial number are sufficient to identify uniquely a vehicle inside the groups of hauled passenger vehicles and special vehicles[^f00021].
+The[^c-49a6131292dae3d6e53940aceb44cf5e] 7 digits of technical characteristics and serial number are sufficient to identify uniquely a vehicle inside the groups of hauled passenger vehicles and special vehicles[^f00021].
 
 Alphabetical markings complete the number:
 
-- ((a)) [^key-aee31ea732df195f4c85ad29b64f808b]...
+- ((a)) [^c-aee31ea732df195f4c85ad29b64f808b]...
 - ((b)) Vehicle Keeper Marking *(details in part 1)* ;
 - ((c)) abbreviations of the technical characteristics (details in part 12 for the wagons, part 13 for the hauled passenger vehicles).
 
-The European Vehicle Number shall be changed when it does not reflect the interoperability capability or technical characteristics according to this Appendix due to technical modifications of the vehicle. Such technical modifications may require a new authorisation for placing in service in accordance with regulation 13 of the 2011 Regulations.[^key-10bf4de18bb00935a448e2639cefe6bc]
+The European Vehicle Number shall be changed when it does not reflect the interoperability capability or technical characteristics according to this Appendix due to technical modifications of the vehicle. Such technical modifications may require a new authorisation for placing in service in accordance with regulation 13 of the 2011 Regulations.[^c-10bf4de18bb00935a448e2639cefe6bc]
 
 ### PART 1 — — VEHICLE KEEPER MARKING
 
@@ -644,7 +644,7 @@ The European Vehicle Number shall be changed when it does not reflect the intero
 
 A Vehicle Keeper Marking (VKM) is an alphabetic code, consisting of 2 to 5 letters[^f00022]. A VKM is inscribed on each rail vehicle, near the European Vehicle Number. The VKM identifies the Vehicle Keeper as registered in a National Vehicle Register.
 
-[^key-5621e714ed969786e31a6b5283e73939]...
+[^c-5621e714ed969786e31a6b5283e73939]...
 
 2\.
 
@@ -652,7 +652,7 @@ A Vehicle Keeper Marking (VKM) is an alphabetic code, consisting of 2 to 5 lette
 
 The VKM is representation of the full name or abbreviation of the vehicle keeper, if possible in a recognisable manner. All 26 letters of the Latina alphabet may be used. The letters in the VKM are written in capitals. Letters that do not stand for first letters of words in the keeper’s name may be written in lower case. For checking uniqueness, the letters written in lower case will be taken as written in capitals.
 
-[^key-8c675c391f9a204fc631aa0ea155b0d1]...
+[^c-8c675c391f9a204fc631aa0ea155b0d1]...
 
 3\.
 
@@ -660,7 +660,7 @@ The VKM is representation of the full name or abbreviation of the vehicle keeper
 
 A vehicle keeper can be issued more than one VKM, in case:
 
-- [^key-be946b7369d1aed085989f56865a2b2b]...
+- [^c-be946b7369d1aed085989f56865a2b2b]...
 - a vehicle keeper has good cause to distinguish between separate vehicle fleets within his organisation.
 
 A single VKM can be issued for a group of companies:
@@ -675,9 +675,9 @@ A single VKM can be issued for a group of companies:
 
 The register of VKM is public and updated on a real time basis.
 
-An application for a VKM is filed with the Safety Authority[^key-71d212615caede1c3e1592e7990b7c8f]. [^key-ccb73430f4b54387f5d8928be96bb967]...
+An application for a VKM is filed with the Safety Authority[^c-71d212615caede1c3e1592e7990b7c8f]. [^c-ccb73430f4b54387f5d8928be96bb967]...
 
-The holder of a VKM must inform the Safety Authority[^key-ce8d8884271d6cf638397569c660d4e3] when he ends the use of a VKM [^key-f60b6fa004835ae67d547d0ecedcd80a].... A VKM will then be revoked once the keeper has proved that the marking has been changed on all vehicles concerned. It will not be reissued for 10 years, unless it is reissued to the original holder or at his request to another holder.
+The holder of a VKM must inform the Safety Authority[^c-ce8d8884271d6cf638397569c660d4e3] when he ends the use of a VKM [^c-f60b6fa004835ae67d547d0ecedcd80a].... A VKM will then be revoked once the keeper has proved that the marking has been changed on all vehicles concerned. It will not be reissued for 10 years, unless it is reissued to the original holder or at his request to another holder.
 
 A VKM can be transferred to another holder, which is the legal successor to the original holder. A VKM stays valid when the VKM’s holder changes his name to a name that does not bear resemblance to the VKM.
 
@@ -796,7 +796,7 @@ Not used
 </tbody>
 </table>
 
-[^key-fbea3aae0ef55fc05590a375d29586ba][^f00028][^f00027][^key-f6074d5030d519ff33dbdb37ad2a468b][^f00027][^f00027][^f00027]
+[^c-fbea3aae0ef55fc05590a375d29586ba][^f00028][^f00027][^c-f6074d5030d519ff33dbdb37ad2a468b][^f00027][^f00027][^f00027]
 
 ### PART 7 — — INTERNATIONAL TRAFFIC ABILITY CODES USED FOR HAULED PASSENGER VEHICLES (DIGITS 1-2)
 
@@ -838,33 +838,33 @@ If the second digit describes the type of tractive stock, following coding is ma
 
 ### PART 9 — — STANDARD NUMERICAL MARKING OF WAGONS (DIGITS 5 TO 8)
 
-Part 9 indicates the numerical marking associated to the main technical characteristics of the wagon and it is published on the website of the European Union Agency for Railways[^key-9a8f63b5023a2ee2e0c719ec8ab8cec1] (www.era.europa.eu).
+Part 9 indicates the numerical marking associated to the main technical characteristics of the wagon and it is published on the website of the European Union Agency for Railways[^c-9a8f63b5023a2ee2e0c719ec8ab8cec1] (www.era.europa.eu).
 
-An application for a new code is filed with the registering entity [^key-c9daa9859a2268e40683e9196b5eae32]....
+An application for a new code is filed with the registering entity [^c-c9daa9859a2268e40683e9196b5eae32]....
 
 ### PART 10 — — CODES FOR THE TECHNICAL CHARACTERISTICS OF THE HAULED PASSENGER STOCK (DIGITS 5-6)
 
 Part 10 is published on the website of the European Union Agency for Railways (www.era.europa.eu).
 
-An application for a new code is filed with the registering entity [^key-c9daa9859a2268e40683e9196b5eae32]....
+An application for a new code is filed with the registering entity [^c-c9daa9859a2268e40683e9196b5eae32]....
 
 ### PART 11 — — CODES FOR THE TECHNICAL CHARACTERISTICS OF THE SPECIAL VEHICLES (DIGIT 6 TO 8)
 
 Part 11 is published on the website of the European Union Agency for Railways (www.era.europa.eu).
 
-An application for a new code is filed with the registering entity [^key-c9daa9859a2268e40683e9196b5eae32]....
+An application for a new code is filed with the registering entity [^c-c9daa9859a2268e40683e9196b5eae32]....
 
 ### PART 12 — — LETTER MARKING FOR WAGONS EXCLUDING ARTICULATED AND MULTIPLE WAGONS
 
 Part 12 is published on the website of the European Union Agency for Railways (www.era.europa.eu).
 
-An application for a new code is filed with the registering entity [^key-c9daa9859a2268e40683e9196b5eae32]....
+An application for a new code is filed with the registering entity [^c-c9daa9859a2268e40683e9196b5eae32]....
 
 ### PART 13 — — LETTER MARKING FOR HAULED PASSENGER STOCK
 
 Part 13 is published on the website of the European Union Agency for Railways (www.era.europa.eu).
 
-An application for a new code is filed with the registering entity [^key-c9daa9859a2268e40683e9196b5eae32]....
+An application for a new code is filed with the registering entity [^c-c9daa9859a2268e40683e9196b5eae32]....
 
 ## Annotations
 
@@ -874,237 +874,237 @@ An application for a new code is filed with the registering entity [^key-c9daa98
 
 [^f00003]: Footnote: [OJ L 164, 30.4.2004, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.164.01.0001.01.ENG), as corrected by [OJ L 220, 21.6.2004, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.220.01.0003.01.ENG).
 
-[^key-f0fcdbc1169ee6fcd6afbf027b245bcf]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eudn/2007/756/article/1) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [8](https://www.legislation.gov.uk/uksi/2020/318/regulation/8)
+[^c-f0fcdbc1169ee6fcd6afbf027b245bcf]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eudn/2007/756/article/1) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [8](https://www.legislation.gov.uk/uksi/2020/318/regulation/8)
 
-[^key-02bb2a8530af37933b6d5294dafe418b]: Textual amendment: Art. 1A inserted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [9](https://www.legislation.gov.uk/uksi/2020/318/regulation/9)
+[^c-02bb2a8530af37933b6d5294dafe418b]: Textual amendment: Art. 1A inserted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [9](https://www.legislation.gov.uk/uksi/2020/318/regulation/9)
 
-[^key-8856f98a42ef44ee471a94055315770b]: Textual amendment: [Art. 1a](https://www.legislation.gov.uk/eudn/2007/756/article/1a) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [10](https://www.legislation.gov.uk/uksi/2020/318/regulation/10)
+[^c-8856f98a42ef44ee471a94055315770b]: Textual amendment: [Art. 1a](https://www.legislation.gov.uk/eudn/2007/756/article/1a) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [10](https://www.legislation.gov.uk/uksi/2020/318/regulation/10)
 
-[^key-2d17ad4957df90a7efa18ab31c26654b]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2007/756/article/2) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [10](https://www.legislation.gov.uk/uksi/2020/318/regulation/10)
+[^c-2d17ad4957df90a7efa18ab31c26654b]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2007/756/article/2) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [10](https://www.legislation.gov.uk/uksi/2020/318/regulation/10)
 
-[^key-08bc0c8e629ff92fbfa27dd336001c46]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eudn/2007/756/article/3) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [11](https://www.legislation.gov.uk/uksi/2020/318/regulation/11)
+[^c-08bc0c8e629ff92fbfa27dd336001c46]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eudn/2007/756/article/3) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [11](https://www.legislation.gov.uk/uksi/2020/318/regulation/11)
 
-[^key-73336994c63020836bd428c7ff32ba84]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eudn/2007/756/article/4) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [12](https://www.legislation.gov.uk/uksi/2020/318/regulation/12)
+[^c-73336994c63020836bd428c7ff32ba84]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eudn/2007/756/article/4) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [12](https://www.legislation.gov.uk/uksi/2020/318/regulation/12)
 
-[^key-a602d2c30cbc78727b5c585337540f45]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eudn/2007/756/article/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [12](https://www.legislation.gov.uk/uksi/2020/318/regulation/12)
+[^c-a602d2c30cbc78727b5c585337540f45]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eudn/2007/756/article/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [12](https://www.legislation.gov.uk/uksi/2020/318/regulation/12)
 
-[^key-e8a2431ce5067f18994e47040133cbc9]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eudn/2007/756/article/6) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [12](https://www.legislation.gov.uk/uksi/2020/318/regulation/12)
+[^c-e8a2431ce5067f18994e47040133cbc9]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eudn/2007/756/article/6) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [12](https://www.legislation.gov.uk/uksi/2020/318/regulation/12)
 
 [^c000002]: Textual amendment: Substituted by [Commission Decision of 10 February 2011 amending Decision 2007/756/EC adopting a common specification of the national vehicle register (notified under document C(2011) 665) (Text with EEA relevance) (2011/107/EU)](https://www.legislation.gov.uk/eudn/2011/107).
 
 [^c000003]: Textual amendment: Substituted by [Commission Decision of 14 November 2012 concerning the technical specification for interoperability relating to the ‘operation and traffic management’ subsystem of the rail system in the European Union and amending Decision 2007/756/EC (notified under document C(2012) 8075) (Text with EEA relevance) (2012/757/EU)](https://www.legislation.gov.uk/eudn/2012/757).
 
-[^key-b3c7c9ab662805bb3a22f32d09dca49d]: Textual amendment: Word in [Annex s. 1](https://www.legislation.gov.uk/eudn/2007/756/annex/section/1) table item 1 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/2/a/i)
+[^c-b3c7c9ab662805bb3a22f32d09dca49d]: Textual amendment: Word in [Annex s. 1](https://www.legislation.gov.uk/eudn/2007/756/annex/section/1) table item 1 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/2/a/i)
 
-[^key-c1f96b9cea8d16553f0104715332dafd]: Textual amendment: Words in [Annex s. 1](https://www.legislation.gov.uk/eudn/2007/756/annex/section/1) table item 1 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/2/a/ii)
+[^c-c1f96b9cea8d16553f0104715332dafd]: Textual amendment: Words in [Annex s. 1](https://www.legislation.gov.uk/eudn/2007/756/annex/section/1) table item 1 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/2/a/ii)
 
-[^key-72b5bc0a0d1ef85cacc2ddb6c47c4903]: Textual amendment: Words in [Annex s. 1](https://www.legislation.gov.uk/eudn/2007/756/annex/section/1) table item 2 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/2/b/i)
+[^c-72b5bc0a0d1ef85cacc2ddb6c47c4903]: Textual amendment: Words in [Annex s. 1](https://www.legislation.gov.uk/eudn/2007/756/annex/section/1) table item 2 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/2/b/i)
 
-[^key-fc022dbef262dfd6ae759ea8b7fbb6dc]: Textual amendment: Words in [Annex s. 1](https://www.legislation.gov.uk/eudn/2007/756/annex/section/1) table item 2 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/2/b/ii)
+[^c-fc022dbef262dfd6ae759ea8b7fbb6dc]: Textual amendment: Words in [Annex s. 1](https://www.legislation.gov.uk/eudn/2007/756/annex/section/1) table item 2 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/2/b/ii)
 
-[^key-1c9122403724e0f7fcdcc61b21cc074b]: Textual amendment: Words in Annex s. 1 table item 2 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(2)(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/2/b/iii/aa)
+[^c-1c9122403724e0f7fcdcc61b21cc074b]: Textual amendment: Words in Annex s. 1 table item 2 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(2)(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/2/b/iii/aa)
 
-[^key-1ced4ed2bb77cd3f94364fa3a0b55698]: Textual amendment: Words in Annex s. 1 table item 2 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(2)(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/2/b/iii/bb)
+[^c-1ced4ed2bb77cd3f94364fa3a0b55698]: Textual amendment: Words in Annex s. 1 table item 2 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(2)(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/2/b/iii/bb)
 
-[^key-ddc74be627c90e1b7cb1a0e34a42eb41]: Textual amendment: Words in [Annex s. 1](https://www.legislation.gov.uk/eudn/2007/756/annex/section/1) table item 4 inserted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/2/c)
+[^c-ddc74be627c90e1b7cb1a0e34a42eb41]: Textual amendment: Words in [Annex s. 1](https://www.legislation.gov.uk/eudn/2007/756/annex/section/1) table item 4 inserted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/2/c)
 
-[^key-47982f5c98f6ad98e5c3b7065b3f3118]: Textual amendment: Words in [Annex s. 1](https://www.legislation.gov.uk/eudn/2007/756/annex/section/1) table item 5 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(2)(d)(i)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/2/d/i)
+[^c-47982f5c98f6ad98e5c3b7065b3f3118]: Textual amendment: Words in [Annex s. 1](https://www.legislation.gov.uk/eudn/2007/756/annex/section/1) table item 5 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(2)(d)(i)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/2/d/i)
 
 [^f00005]: Footnote: For vehicle types authorised in accordance with Article 26 of Directive 2008/57/EC.[^c000002]
 
-[^key-6e1aacce580903097d8421241ced4c64]: Textual amendment: Words in Annex s. 1 table item 5 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/2/d/ii)
+[^c-6e1aacce580903097d8421241ced4c64]: Textual amendment: Words in Annex s. 1 table item 5 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/2/d/ii)
 
-[^key-190624ae8fcf0e33673d45dabbfc4330]: Textual amendment: [Annex s. 1](https://www.legislation.gov.uk/eudn/2007/756/annex/section/1) table item 11 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(2)(e)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/2/e)
+[^c-190624ae8fcf0e33673d45dabbfc4330]: Textual amendment: [Annex s. 1](https://www.legislation.gov.uk/eudn/2007/756/annex/section/1) table item 11 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(2)(e)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/2/e)
 
-[^key-d3be649bfb5474c92174516e0de1c8a1]: Textual amendment: Words in [Annex s. 1](https://www.legislation.gov.uk/eudn/2007/756/annex/section/1) table item 12 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(2)(f)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/2/f)
+[^c-d3be649bfb5474c92174516e0de1c8a1]: Textual amendment: Words in [Annex s. 1](https://www.legislation.gov.uk/eudn/2007/756/annex/section/1) table item 12 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(2)(f)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/2/f)
 
 [^f00007]: Footnote: Authorisation delivered in accordance with Chapter V of Directive 2008/57/EC or authorisation delivered in accordance with the authorisation regimes existing before transposition of Directive 2008/57/EC.
 
-[^key-888f6dd91e80af77740f420054872d8d]: Textual amendment: [Annex s. 2](https://www.legislation.gov.uk/eudn/2007/756/annex/section/2) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(3)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/3)
+[^c-888f6dd91e80af77740f420054872d8d]: Textual amendment: [Annex s. 2](https://www.legislation.gov.uk/eudn/2007/756/annex/section/2) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(3)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/3)
 
-[^key-07b8434f8a3448571006a338bf730edc]: Textual amendment: Words in [Annex s. 3.1](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/a)
+[^c-07b8434f8a3448571006a338bf730edc]: Textual amendment: Words in [Annex s. 3.1](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/a)
 
 [^c000004]: Textual amendment: Substituted by [Commission Implementing Decision (EU) 2018/1614 of 25 October 2018 laying down specifications for the vehicle registers referred to in Article 47 of Directive (EU) 2016/797 of the European Parliament and of the Council and amending and repealing Commission Decision 2007/756/EC (Text with EEA relevance)](https://www.legislation.gov.uk/eudn/2018/1614).
 
-[^key-552efea040e19e128f51f99565985f59]: Textual amendment: Words in [Annex s. 3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) para. 3.2.1 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/b)
+[^c-552efea040e19e128f51f99565985f59]: Textual amendment: Words in [Annex s. 3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) para. 3.2.1 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/b)
 
-[^key-d4e882121f0a879489fb448a3f52a5a1]: Textual amendment: Words in [Annex s. 3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) para. 3.2.2 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/c)
+[^c-d4e882121f0a879489fb448a3f52a5a1]: Textual amendment: Words in [Annex s. 3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) para. 3.2.2 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/c)
 
-[^key-b530ccb2fc27325265fa151ed7719645]: Textual amendment: Word in Annex s. 3 para. 3.2.3 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(d)(i)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/d/i)
+[^c-b530ccb2fc27325265fa151ed7719645]: Textual amendment: Word in Annex s. 3 para. 3.2.3 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(d)(i)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/d/i)
 
-[^key-a37fa56102ebff7521d88376d28f0aba]: Textual amendment: Words in [Annex s. 3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) para. 3.2.3 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/d/ii)
+[^c-a37fa56102ebff7521d88376d28f0aba]: Textual amendment: Words in [Annex s. 3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) para. 3.2.3 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/d/ii)
 
-[^key-f15f439463f58528f30a95b623b82c3c]: Textual amendment: Words in [Annex s. 3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) para. 3.2.3 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(d)(iii)(aa)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/d/iii/aa)
+[^c-f15f439463f58528f30a95b623b82c3c]: Textual amendment: Words in [Annex s. 3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) para. 3.2.3 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(d)(iii)(aa)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/d/iii/aa)
 
-[^key-a5707184cc4c3d4da49d8a0156d4b668]: Textual amendment: Words in [Annex s. 3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) para. 3.2.3 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(d)(iii)(bb)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/d/iii/bb)
+[^c-a5707184cc4c3d4da49d8a0156d4b668]: Textual amendment: Words in [Annex s. 3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) para. 3.2.3 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(d)(iii)(bb)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/d/iii/bb)
 
-[^key-1dd7d34e6deba424da6cb4033d240c6e]: Textual amendment: Words in [Annex s. 3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) para. 3.2.3 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(d)(iii)(cc)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/d/iii/cc)
+[^c-1dd7d34e6deba424da6cb4033d240c6e]: Textual amendment: Words in [Annex s. 3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) para. 3.2.3 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(d)(iii)(cc)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/d/iii/cc)
 
 [^c000005]: Textual amendment: Inserted by [Commission Implementing Decision (EU) 2018/1614 of 25 October 2018 laying down specifications for the vehicle registers referred to in Article 47 of Directive (EU) 2016/797 of the European Parliament and of the Council and amending and repealing Commission Decision 2007/756/EC (Text with EEA relevance)](https://www.legislation.gov.uk/eudn/2018/1614).
 
-[^key-eed91078be59d48bcffb9962133a66d7]: Textual amendment: Word in [Annex s. 3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) para. 3.2.4 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(e)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/e)
+[^c-eed91078be59d48bcffb9962133a66d7]: Textual amendment: Word in [Annex s. 3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) para. 3.2.4 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(e)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/e)
 
-[^key-09a58be31bc949b205dd6fe6df0c1823]: Textual amendment: [Annex s. 3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) para. 3.2.5 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(f)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/f)
+[^c-09a58be31bc949b205dd6fe6df0c1823]: Textual amendment: [Annex s. 3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) para. 3.2.5 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(f)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/f)
 
-[^key-7d03b97ffd405ae849dc5c191bde78da]: Textual amendment: Words in [Annex s. 3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) para. 3.2.6(1) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(g)(i)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/g/i)
+[^c-7d03b97ffd405ae849dc5c191bde78da]: Textual amendment: Words in [Annex s. 3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) para. 3.2.6(1) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(g)(i)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/g/i)
 
-[^key-f39113dfa14a43cd0e8758a778e1039e]: Textual amendment: Words in [Annex s. 3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) para. 3.2.6(1) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(g)(ii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/g/ii)
+[^c-f39113dfa14a43cd0e8758a778e1039e]: Textual amendment: Words in [Annex s. 3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) para. 3.2.6(1) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(g)(ii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/g/ii)
 
-[^key-b668f7bd575560b3642810bee9795f15]: Textual amendment: Words in [Annex s. 3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) para. 3.2.6(1) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(g)(iii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/g/iii)
+[^c-b668f7bd575560b3642810bee9795f15]: Textual amendment: Words in [Annex s. 3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) para. 3.2.6(1) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(g)(iii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/g/iii)
 
-[^key-3bbe60db71bf1ab660e21b20fe722689]: Textual amendment: [Annex s. 3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) para. 3.2.6(2) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(h)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/h)
+[^c-3bbe60db71bf1ab660e21b20fe722689]: Textual amendment: [Annex s. 3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) para. 3.2.6(2) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(h)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/h)
 
-[^key-dd455ba868a25cc21c3821c3298e98e7]: Textual amendment: Words in Annex s. 3 para. 3.3 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(i)(i)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/i/i)
+[^c-dd455ba868a25cc21c3821c3298e98e7]: Textual amendment: Words in Annex s. 3 para. 3.3 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(i)(i)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/i/i)
 
-[^key-e73b20142bc643f806e54760f441e443]: Textual amendment: Word in [Annex s. 3.3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) table inserted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(i)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/i/ii/aa)
+[^c-e73b20142bc643f806e54760f441e443]: Textual amendment: Word in [Annex s. 3.3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) table inserted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(i)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/i/ii/aa)
 
-[^key-eb9e481327f13743bf619533fa32e491]: Textual amendment: Words in [Annex s. 3.3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) table omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(i)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/i/ii/bb)
+[^c-eb9e481327f13743bf619533fa32e491]: Textual amendment: Words in [Annex s. 3.3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) table omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(i)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/i/ii/bb)
 
-[^key-a482d1a91457578ded9c226da4a1bca9]: Textual amendment: Words in [Annex s. 3.3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) table omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(i)(ii)(cc)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/i/ii/cc)
+[^c-a482d1a91457578ded9c226da4a1bca9]: Textual amendment: Words in [Annex s. 3.3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) table omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(i)(ii)(cc)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/i/ii/cc)
 
-[^key-f6a77d4eadbe5c98d6ad48a4bb6e7ff2]: Textual amendment: Words in [Annex s. 3.3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) table substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(i)(ii)(dd)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/i/ii/dd)
+[^c-f6a77d4eadbe5c98d6ad48a4bb6e7ff2]: Textual amendment: Words in [Annex s. 3.3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) table substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(i)(ii)(dd)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/i/ii/dd)
 
-[^key-8ea7839854acb2cda2fee30f04c846bc]: Textual amendment: Words in [Annex s. 3.3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) table omittted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(i)(ii)(ee)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/i/ii/ee)
+[^c-8ea7839854acb2cda2fee30f04c846bc]: Textual amendment: Words in [Annex s. 3.3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) table omittted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(i)(ii)(ee)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/i/ii/ee)
 
-[^key-d371955e603ba5a0d7d471d2a298d326]: Textual amendment: Words in [Annex s. 3.3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) table substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(i)(ii)(ff)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/i/ii/ff)
+[^c-d371955e603ba5a0d7d471d2a298d326]: Textual amendment: Words in [Annex s. 3.3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) table substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(i)(ii)(ff)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/i/ii/ff)
 
-[^key-4c116ede88d1ab7613c14332cdab2772]: Textual amendment: Words in [Annex s. 3.3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) table inserted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(i)(ii)(gg)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/i/ii/gg)
+[^c-4c116ede88d1ab7613c14332cdab2772]: Textual amendment: Words in [Annex s. 3.3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) table inserted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(i)(ii)(gg)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/i/ii/gg)
 
-[^key-8f89480e0502b1cc42e2582d98b44be0]: Textual amendment: Words in [Annex s. 3.3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) table substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(i)(ii)(hh)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/i/ii/hh)
+[^c-8f89480e0502b1cc42e2582d98b44be0]: Textual amendment: Words in [Annex s. 3.3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) table substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(i)(ii)(hh)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/i/ii/hh)
 
-[^key-107346201460c5c92687e22cea562066]: Textual amendment: Words in [Annex s. 3.3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(i)(iii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/i/iii)
+[^c-107346201460c5c92687e22cea562066]: Textual amendment: Words in [Annex s. 3.3](https://www.legislation.gov.uk/eudn/2007/756/annex/section/3) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(4)(i)(iii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/4/i/iii)
 
-[^key-8be960a6c896e42f5e82e0958d03a815]: Textual amendment: Words in [Annex s. 4](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) para. 4.1.1(a) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(a)(i)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/a/i)
+[^c-8be960a6c896e42f5e82e0958d03a815]: Textual amendment: Words in [Annex s. 4](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) para. 4.1.1(a) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(a)(i)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/a/i)
 
-[^key-8caa44b4d267ea4f36e867b76d1c62a8]: Textual amendment: Words in [Annex s. 4](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) para. 4.1.1(a) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/a/ii)
+[^c-8caa44b4d267ea4f36e867b76d1c62a8]: Textual amendment: Words in [Annex s. 4](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) para. 4.1.1(a) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/a/ii)
 
-[^key-3f96acdf22ba1ae0baac45d0b95c5241]: Textual amendment: Words in [Annex s. 4](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) para. 4.1.1(b) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/b)
+[^c-3f96acdf22ba1ae0baac45d0b95c5241]: Textual amendment: Words in [Annex s. 4](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) para. 4.1.1(b) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/b)
 
-[^key-f94d39a723c9983a45b5afc97fd519a5]: Textual amendment: [Annex s. 4](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) para. 4.1.2 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/c)
+[^c-f94d39a723c9983a45b5afc97fd519a5]: Textual amendment: [Annex s. 4](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) para. 4.1.2 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/c)
 
-[^key-4be0f67abbd6e7d841f1632150cbd3ef]: Textual amendment: Words in [Annex s. 4](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) para. 4.1.4 heading inserted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(d)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/d)
+[^c-4be0f67abbd6e7d841f1632150cbd3ef]: Textual amendment: Words in [Annex s. 4](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) para. 4.1.4 heading inserted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(d)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/d)
 
-[^key-016199697db2019fc02e3b02f0145773]: Textual amendment: Words in [Annex s. 4](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) para. 4.1.5 heading substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(e)(i)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/e/i)
+[^c-016199697db2019fc02e3b02f0145773]: Textual amendment: Words in [Annex s. 4](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) para. 4.1.5 heading substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(e)(i)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/e/i)
 
-[^key-c7237b0b7932f7ebb603bb28cbdffe55]: Textual amendment: Words in [Annex s. 4](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) para. 4.1.5 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(e)(ii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/e/ii)
+[^c-c7237b0b7932f7ebb603bb28cbdffe55]: Textual amendment: Words in [Annex s. 4](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) para. 4.1.5 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(e)(ii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/e/ii)
 
-[^key-361bd7b1e692e3d82582e6cc65e8267b]: Textual amendment: [Annex s. 4](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) para. 4.1.11 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(f)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/f)
+[^c-361bd7b1e692e3d82582e6cc65e8267b]: Textual amendment: [Annex s. 4](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) para. 4.1.11 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(f)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/f)
 
-[^key-cee2ab191b3066dd9ab2a911fdcb8203]: Textual amendment: Words in [Annex s. 4.2](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(g)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/g/i/aa)
+[^c-cee2ab191b3066dd9ab2a911fdcb8203]: Textual amendment: Words in [Annex s. 4.2](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(g)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/g/i/aa)
 
-[^key-04fd6b2b126f8e7366649df1f0d18535]: Textual amendment: Words in [Annex s. 4.2](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(g)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/g/i/bb)
+[^c-04fd6b2b126f8e7366649df1f0d18535]: Textual amendment: Words in [Annex s. 4.2](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(g)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/g/i/bb)
 
-[^key-5403932507ea1deac4422355f4bdc830]: Textual amendment: Words in [Annex s. 4.2](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(g)(ii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/g/ii)
+[^c-5403932507ea1deac4422355f4bdc830]: Textual amendment: Words in [Annex s. 4.2](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(g)(ii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/g/ii)
 
-[^key-43b4cd1132949855dbb186db89ffa7b3]: Textual amendment: Words in [Annex s. 4.2](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(g)(iii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/g/iii)
+[^c-43b4cd1132949855dbb186db89ffa7b3]: Textual amendment: Words in [Annex s. 4.2](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(g)(iii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/g/iii)
 
-[^key-48f7f006518772f0214aa96bcbb96508]: Textual amendment: Words in [Annex s. 4.2](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(g)(iv)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/g/iv)
+[^c-48f7f006518772f0214aa96bcbb96508]: Textual amendment: Words in [Annex s. 4.2](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(g)(iv)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/g/iv)
 
-[^key-29634134f8164910f9ffd94f6cfbda64]: Textual amendment: Words in [Annex s. 4.2](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(g)(v)(aa)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/g/v/aa)
+[^c-29634134f8164910f9ffd94f6cfbda64]: Textual amendment: Words in [Annex s. 4.2](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(g)(v)(aa)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/g/v/aa)
 
-[^key-157a201e7f0c7d041340921d1a24b4f6]: Textual amendment: Words in [Annex s. 4.4](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(g)(v)(bb)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/g/v/bb)
+[^c-157a201e7f0c7d041340921d1a24b4f6]: Textual amendment: Words in [Annex s. 4.4](https://www.legislation.gov.uk/eudn/2007/756/annex/section/4) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [13(5)(g)(v)(bb)](https://www.legislation.gov.uk/uksi/2020/318/regulation/13/5/g/v/bb)
 
-[^key-9984ff9d2c82259a65590bfd6720af44]: Textual amendment: Words in Annex Appendix 1 Section 1 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [14(2)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/14/2/a)
+[^c-9984ff9d2c82259a65590bfd6720af44]: Textual amendment: Words in Annex Appendix 1 Section 1 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [14(2)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/14/2/a)
 
-[^key-13124759a8e6bab2913a9fa7f1a06756]: Textual amendment: Words in Annex Appendix 1 Section 1 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [14(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/14/2/b)
+[^c-13124759a8e6bab2913a9fa7f1a06756]: Textual amendment: Words in Annex Appendix 1 Section 1 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [14(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/14/2/b)
 
-[^key-053d0e806db8d27f7b588472555de04c]: Textual amendment: Words in Annex Appendix 1 Section 1 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [14(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/14/2/c)
+[^c-053d0e806db8d27f7b588472555de04c]: Textual amendment: Words in Annex Appendix 1 Section 1 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [14(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/14/2/c)
 
-[^key-cbae8cdf1f33410de7e86bfeb4f9b3be]: Textual amendment: Annex Appendix 1 Section 3 para. 1 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [14(3)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/14/3/a)
+[^c-cbae8cdf1f33410de7e86bfeb4f9b3be]: Textual amendment: Annex Appendix 1 Section 3 para. 1 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [14(3)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/14/3/a)
 
-[^key-02b08c7a9076efda3ae9b2bf0ed7958b]: Textual amendment: Annex Appendix 1 Section 3 paras. 2-5 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [14(3)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/14/3/b)
+[^c-02b08c7a9076efda3ae9b2bf0ed7958b]: Textual amendment: Annex Appendix 1 Section 3 paras. 2-5 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [14(3)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/14/3/b)
 
-[^key-3cbceed787ff9c21228aa58683101ac1]: Textual amendment: Words in [Appendix 2](https://www.legislation.gov.uk/eudn/2007/756/appendix/2) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [15](https://www.legislation.gov.uk/uksi/2020/318/regulation/15)
+[^c-3cbceed787ff9c21228aa58683101ac1]: Textual amendment: Words in [Appendix 2](https://www.legislation.gov.uk/eudn/2007/756/appendix/2) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [15](https://www.legislation.gov.uk/uksi/2020/318/regulation/15)
 
-[^key-32e0f48b328d55e87dcae1df6f2f7eba]: Textual amendment: Words in [Appendix 3](https://www.legislation.gov.uk/eudn/2007/756/appendix/3) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [16(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/16/a)
+[^c-32e0f48b328d55e87dcae1df6f2f7eba]: Textual amendment: Words in [Appendix 3](https://www.legislation.gov.uk/eudn/2007/756/appendix/3) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [16(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/16/a)
 
-[^key-d2db0a3df29b460910adc021692b0132]: Textual amendment: Word in [Appendix 3](https://www.legislation.gov.uk/eudn/2007/756/appendix/3) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [16(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/16/b)
+[^c-d2db0a3df29b460910adc021692b0132]: Textual amendment: Word in [Appendix 3](https://www.legislation.gov.uk/eudn/2007/756/appendix/3) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [16(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/16/b)
 
-[^key-b816ee59187215d28d662f3800c52a28]: Textual amendment: Words in [Appendix 3](https://www.legislation.gov.uk/eudn/2007/756/appendix/3) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [16(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/16/c)
+[^c-b816ee59187215d28d662f3800c52a28]: Textual amendment: Words in [Appendix 3](https://www.legislation.gov.uk/eudn/2007/756/appendix/3) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [16(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/16/c)
 
-[^key-a5950691ea095f0f7abffb0539c7029b]: Textual amendment: Words in [Appendix 3](https://www.legislation.gov.uk/eudn/2007/756/appendix/3) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [16(d)](https://www.legislation.gov.uk/uksi/2020/318/regulation/16/d)
+[^c-a5950691ea095f0f7abffb0539c7029b]: Textual amendment: Words in [Appendix 3](https://www.legislation.gov.uk/eudn/2007/756/appendix/3) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [16(d)](https://www.legislation.gov.uk/uksi/2020/318/regulation/16/d)
 
-[^key-d997a733ce9ab543c29dd2e7da696c06]: Textual amendment: Word in [Appendix 3](https://www.legislation.gov.uk/eudn/2007/756/appendix/3) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [16(e)(i)](https://www.legislation.gov.uk/uksi/2020/318/regulation/16/e/i)
+[^c-d997a733ce9ab543c29dd2e7da696c06]: Textual amendment: Word in [Appendix 3](https://www.legislation.gov.uk/eudn/2007/756/appendix/3) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [16(e)(i)](https://www.legislation.gov.uk/uksi/2020/318/regulation/16/e/i)
 
-[^key-ce160324519e333009f3e8894a122327]: Textual amendment: Words in [Appendix 3](https://www.legislation.gov.uk/eudn/2007/756/appendix/3) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [16(e)(ii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/16/e/ii)
+[^c-ce160324519e333009f3e8894a122327]: Textual amendment: Words in [Appendix 3](https://www.legislation.gov.uk/eudn/2007/756/appendix/3) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [16(e)(ii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/16/e/ii)
 
-[^key-7794d8d47dc39250d95ee449e660e61e]: Textual amendment: Annex [Appendix 4](https://www.legislation.gov.uk/eudn/2007/756/appendix/4) form substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/318/schedule/1)
+[^c-7794d8d47dc39250d95ee449e660e61e]: Textual amendment: Annex [Appendix 4](https://www.legislation.gov.uk/eudn/2007/756/appendix/4) form substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/318/schedule/1)
 
-[^key-9f4673bfce6316a1f570c60380e79e8f]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/a)
+[^c-9f4673bfce6316a1f570c60380e79e8f]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/a)
 
-[^key-bc5e7aec79ec7adb20e16f09f15db6c2]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/b)
+[^c-bc5e7aec79ec7adb20e16f09f15db6c2]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/b)
 
-[^key-49ba6499aaed46aad44c18325047ae9a]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/c)
+[^c-49ba6499aaed46aad44c18325047ae9a]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/c)
 
-[^key-6621bae2615c93a0d5b45a60e17c0301]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(d)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/d)
+[^c-6621bae2615c93a0d5b45a60e17c0301]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(d)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/d)
 
-[^key-4777e08b96ab3afd0e06e12cf9f103eb]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(e)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/e)
+[^c-4777e08b96ab3afd0e06e12cf9f103eb]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(e)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/e)
 
-[^key-c2495e650873cbee66e79833c7e0eec7]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(f)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/f)
+[^c-c2495e650873cbee66e79833c7e0eec7]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(f)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/f)
 
-[^key-d74786200bf1fa8f09b8ac9b354c1b5a]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(i)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/i)
+[^c-d74786200bf1fa8f09b8ac9b354c1b5a]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(i)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/i)
 
-[^key-7a101037a4f43531691e3af9ce4546b7]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(j)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/j)
+[^c-7a101037a4f43531691e3af9ce4546b7]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(j)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/j)
 
-[^key-91f3cd03a746ee4b9bd5e08e144fe7e7]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(k)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/k)
+[^c-91f3cd03a746ee4b9bd5e08e144fe7e7]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(k)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/k)
 
-[^key-c789d2f29c3166dcb8f3dfdd348cd834]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(l)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/l)
+[^c-c789d2f29c3166dcb8f3dfdd348cd834]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(l)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/l)
 
-[^key-1b2216cc90032939480b53df9707f9d9]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(m)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/m)
+[^c-1b2216cc90032939480b53df9707f9d9]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(m)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/m)
 
-[^key-60b1e1c9aea479a7ecd61b1c28e25fad]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(n)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/n)
+[^c-60b1e1c9aea479a7ecd61b1c28e25fad]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(n)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/n)
 
-[^key-2f62f44b0e05584451d3bc80844d40bc]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(o)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/o)
+[^c-2f62f44b0e05584451d3bc80844d40bc]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(o)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/o)
 
-[^key-f89ed5d3c8fedec63e93a8328bf38d9a]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(p)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/p)
+[^c-f89ed5d3c8fedec63e93a8328bf38d9a]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(p)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/p)
 
-[^key-e34f5a3edd6d280a100e4927478dce18]: Textual amendment: Word in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(q)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/q)
+[^c-e34f5a3edd6d280a100e4927478dce18]: Textual amendment: Word in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(q)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/q)
 
-[^key-3cfaf470f78dd2abf386edcc8c49dade]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(r)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/r)
+[^c-3cfaf470f78dd2abf386edcc8c49dade]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(r)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/r)
 
-[^key-e8b9b58f100a7f44bf089568eacc05bd]: Textual amendment: Word in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) inserted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(g)(i)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/g/i)
+[^c-e8b9b58f100a7f44bf089568eacc05bd]: Textual amendment: Word in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) inserted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(g)(i)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/g/i)
 
-[^key-59f52829a6b90ff5b97a1bc0c2b132a7]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) inserted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(g)(ii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/g/ii)
+[^c-59f52829a6b90ff5b97a1bc0c2b132a7]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) inserted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(g)(ii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/g/ii)
 
-[^key-ca12c83ce1b12fb5a484109c9b950c5d]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(h)(i)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/h/i)
+[^c-ca12c83ce1b12fb5a484109c9b950c5d]: Textual amendment: Words in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(h)(i)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/h/i)
 
-[^key-3db93cb820e26d87e6724816f8f909b7]: Textual amendment: Word in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(h)(ii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/h/ii)
+[^c-3db93cb820e26d87e6724816f8f909b7]: Textual amendment: Word in Annex [Appendix 5](https://www.legislation.gov.uk/eudn/2007/756/appendix/5) substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [18(h)(ii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/18/h/ii)
 
 [^c000001]: Textual amendment: Inserted by [Commission Decision of 14 November 2012 concerning the technical specification for interoperability relating to the ‘operation and traffic management’ subsystem of the rail system in the European Union and amending Decision 2007/756/EC (notified under document C(2012) 8075) (Text with EEA relevance) (2012/757/EU)](https://www.legislation.gov.uk/eudn/2012/757).
 
-[^key-81d6c9af3e09adcbac6f4f8d226fed48]: Textual amendment: Words in Annex Appendix 6 Pt. 0 Table omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(2)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/2/a)
+[^c-81d6c9af3e09adcbac6f4f8d226fed48]: Textual amendment: Words in Annex Appendix 6 Pt. 0 Table omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(2)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/2/a)
 
-[^key-49a6131292dae3d6e53940aceb44cf5e]: Textual amendment: Word in Annex Appendix 6 Pt. 0 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/2/b)
+[^c-49a6131292dae3d6e53940aceb44cf5e]: Textual amendment: Word in Annex Appendix 6 Pt. 0 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/2/b)
 
 [^f00021]: Footnote: For special vehicles, the number has to be unique in a given country with the first digit and the 5 last digits of the technical characteristics and serial number.[^c000001]
 
-[^key-aee31ea732df195f4c85ad29b64f808b]: Textual amendment: Words in Annex Appendix 6 Pt. 0 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/2/c)
+[^c-aee31ea732df195f4c85ad29b64f808b]: Textual amendment: Words in Annex Appendix 6 Pt. 0 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/2/c)
 
-[^key-10bf4de18bb00935a448e2639cefe6bc]: Textual amendment: Words in Annex Appendix 6 Pt. 0 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(2)(d)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/2/d)
+[^c-10bf4de18bb00935a448e2639cefe6bc]: Textual amendment: Words in Annex Appendix 6 Pt. 0 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(2)(d)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/2/d)
 
 [^f00022]: Footnote: For NMBS/SNCB, the use of an encircled single letter B can be continued.[^c000004]
 
-[^key-5621e714ed969786e31a6b5283e73939]: Textual amendment: Words in Annex Appendix 6 Pt. 1 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(3)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/3/a)
+[^c-5621e714ed969786e31a6b5283e73939]: Textual amendment: Words in Annex Appendix 6 Pt. 1 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(3)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/3/a)
 
-[^key-8c675c391f9a204fc631aa0ea155b0d1]: Textual amendment: Words in Annex Appendix 6 Pt. 1 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(3)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/3/b)
+[^c-8c675c391f9a204fc631aa0ea155b0d1]: Textual amendment: Words in Annex Appendix 6 Pt. 1 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(3)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/3/b)
 
-[^key-be946b7369d1aed085989f56865a2b2b]: Textual amendment: Words in Annex Appendix 6 Pt. 1 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(3)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/3/c)
+[^c-be946b7369d1aed085989f56865a2b2b]: Textual amendment: Words in Annex Appendix 6 Pt. 1 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(3)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/3/c)
 
-[^key-71d212615caede1c3e1592e7990b7c8f]: Textual amendment: Words in Annex Appendix 6 Pt. 1 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(3)(d)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/3/d/i/aa)
+[^c-71d212615caede1c3e1592e7990b7c8f]: Textual amendment: Words in Annex Appendix 6 Pt. 1 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(3)(d)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/3/d/i/aa)
 
-[^key-ccb73430f4b54387f5d8928be96bb967]: Textual amendment: Words in Annex Appendix 6 Pt. 1 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(3)(d)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/3/d/i/bb)
+[^c-ccb73430f4b54387f5d8928be96bb967]: Textual amendment: Words in Annex Appendix 6 Pt. 1 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(3)(d)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/3/d/i/bb)
 
-[^key-ce8d8884271d6cf638397569c660d4e3]: Textual amendment: Words in Annex Appendix 6 Pt. 1 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(3)(d)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/3/d/ii/aa)
+[^c-ce8d8884271d6cf638397569c660d4e3]: Textual amendment: Words in Annex Appendix 6 Pt. 1 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(3)(d)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/3/d/ii/aa)
 
-[^key-f60b6fa004835ae67d547d0ecedcd80a]: Textual amendment: Words in Annex Appendix 6 Pt. 1 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(3)(d)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/3/d/ii/bb)
+[^c-f60b6fa004835ae67d547d0ecedcd80a]: Textual amendment: Words in Annex Appendix 6 Pt. 1 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(3)(d)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/3/d/ii/bb)
 
-[^key-fbea3aae0ef55fc05590a375d29586ba]: Textual amendment: Words in Annex Appendix 6 Pt. 6 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(4)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/4/a)
+[^c-fbea3aae0ef55fc05590a375d29586ba]: Textual amendment: Words in Annex Appendix 6 Pt. 6 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(4)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/4/a)
 
 [^f00028]: Footnote: Except for wagons in category I (temperature-controlled wagons), not to be used for new vehicles authorised placed in service.
 
 [^f00027]: Footnote: Fixed or variable gauge.
 
-[^key-f6074d5030d519ff33dbdb37ad2a468b]: Textual amendment: Words in Annex Appendix 6 Pt. 6 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(4)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/4/b)
+[^c-f6074d5030d519ff33dbdb37ad2a468b]: Textual amendment: Words in Annex Appendix 6 Pt. 6 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(4)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/4/b)
 
 [^f00029]: Footnote: Compliance with the applicable TSIs, see appendix P, part 5.
 
@@ -1112,6 +1112,6 @@ An application for a new code is filed with the registering entity [^key-c9daa98
 
 [^f00031]: Footnote: Excepted for coaches with fixed gauge (56) and adjustable gauge (66) already in service, not to be used for new vehicles
 
-[^key-9a8f63b5023a2ee2e0c719ec8ab8cec1]: Textual amendment: Words in Annex Appendix 6 Pts. 9-13 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(5)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/5/a)
+[^c-9a8f63b5023a2ee2e0c719ec8ab8cec1]: Textual amendment: Words in Annex Appendix 6 Pts. 9-13 substituted (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(5)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/5/a)
 
-[^key-c9daa9859a2268e40683e9196b5eae32]: Textual amendment: Words in Annex Appendix 6 Pts. 9-13 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(5)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/5/b)
+[^c-c9daa9859a2268e40683e9196b5eae32]: Textual amendment: Words in Annex Appendix 6 Pts. 9-13 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [19(5)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/19/5/b)

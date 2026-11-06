@@ -51,13 +51,13 @@ Accordingly, the Welsh Ministers, in exercise of the powers conferred by section
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-d5f585d6f177235b413e11c1133634de]
+### 1. Citation and commencement[^c-d5f585d6f177235b413e11c1133634de]
 
 (1) The title of this Order is the Llangollen and Corwen Railway Order 2010 and it comes into force on 27 August 2010.
 
 (2) The Llangollen and Corwen Light Railway Order 1984[^f00003] and this Order may be cited together as the Llangollen and Corwen Railway Orders 1984 and 2010.
 
-### 2. Interpretation[^key-bad65c7c6b8a1d4f5c331d063b8c194a]
+### 2. Interpretation[^c-bad65c7c6b8a1d4f5c331d063b8c194a]
 
 (1) In this Order—
 
@@ -93,7 +93,7 @@ Accordingly, the Welsh Ministers, in exercise of the powers conferred by section
 
 (3) All distances, directions and lengths stated in the description of the scheduled work or in any description of powers or lands are approximate and distances between points on a scheduled work shall be taken to be measured along the scheduled work.
 
-### 3. Incorporation of Railways Clauses Consolidation Act 1845[^key-bbf28be0c034e3abc70206ab53ffd0a3]
+### 3. Incorporation of Railways Clauses Consolidation Act 1845[^c-bbf28be0c034e3abc70206ab53ffd0a3]
 
 (1) The following provisions of the Railways Clauses Consolidation Act 1845[^f00011] shall be incorporated in this Order—
 
@@ -118,13 +118,13 @@ Accordingly, the Welsh Ministers, in exercise of the powers conferred by section
 
 ### Principal powers
 
-#### 4. Power to construct and maintain works[^key-e155a430d56ca38ace80de8e5c0b7a65]
+#### 4. Power to construct and maintain works[^c-e155a430d56ca38ace80de8e5c0b7a65]
 
 (1) The undertaker may construct and maintain the scheduled work.
 
 (2) Subject to article 6 (power to deviate), the scheduled work may only be constructed in the lines or situations shown on the works plans and in accordance with the levels shown on the sections.
 
-#### 5. Power to construct and maintain ancillary works[^key-f789fdb383e3c62d4bef3c66d318e5f9]
+#### 5. Power to construct and maintain ancillary works[^c-f789fdb383e3c62d4bef3c66d318e5f9]
 
 (1) Subject to paragraph (4), the undertaker may carry out and maintain such of the following works as may be necessary or expedient for the purposes of, or for purposes ancillary to, the construction of the scheduled work, namely—
 
@@ -139,7 +139,7 @@ Accordingly, the Welsh Ministers, in exercise of the powers conferred by section
 
 (4) Paragraphs (1) to (3) shall only authorise the carrying out or maintenance of works outside the limits of deviation if such works are carried out within the further limits.
 
-#### 6. Power to deviate[^key-200943ef27ef0feffbbc0ee8222d569d]
+#### 6. Power to deviate[^c-200943ef27ef0feffbbc0ee8222d569d]
 
 In constructing or maintaining the scheduled work, the undertaker may—
 
@@ -150,7 +150,7 @@ In constructing or maintaining the scheduled work, the undertaker may—
 
 ### Streets
 
-#### 7. Access to works[^key-0e37e5420d100b088ae738742653f9ce]
+#### 7. Access to works[^c-0e37e5420d100b088ae738742653f9ce]
 
 (1) The undertaker may, for the purposes of the authorised works—
 
@@ -159,7 +159,7 @@ In constructing or maintaining the scheduled work, the undertaker may—
 
 (2) If a highway authority which receives an application for consent under paragraph (1) fails to notify the undertaker of its decision before the end of the period of 28 days beginning with the date on which the application was made, it shall be deemed to have granted it.
 
-#### 8. Level crossing, etc.[^key-f6111c1bac8967aa120c6a4c5e365089]
+#### 8. Level crossing, etc.[^c-f6111c1bac8967aa120c6a4c5e365089]
 
 (1) The undertaker may construct the extension railway so as to carry it on the level across footpath FP 61 (“the footpath”) 435 metres south-west of Carrog Station.
 
@@ -173,7 +173,7 @@ In constructing or maintaining the scheduled work, the undertaker may—
 
 ### Supplemental powers
 
-#### 9. Discharge of water[^key-7e25c1a4b4b209b1aa242d581b56b90a]
+#### 9. Discharge of water[^c-7e25c1a4b4b209b1aa242d581b56b90a]
 
 (1) The undertaker may use any watercourse or drain for the drainage of water in connection with the construction or maintenance of the authorised works and for that purpose may lay down, take up and alter pipes and may, on any land within the Order limits, make openings into, and connections with, the watercourse, or drain.
 
@@ -194,12 +194,12 @@ In constructing or maintaining the scheduled work, the undertaker may—
 
 (8) In this article—
 
-- (a) “drain” (“*traen*”) means a drain which belongs to the Natural Resources Body for Wales[^key-91db34fbadcb7dce8756e00080ca94c6], an internal drainage board, a local authority or the Welsh Ministers; and
+- (a) “drain” (“*traen*”) means a drain which belongs to the Natural Resources Body for Wales[^c-91db34fbadcb7dce8756e00080ca94c6], an internal drainage board, a local authority or the Welsh Ministers; and
 - (b) other expressions, excluding watercourses, used both in this article and in the Water Resources Act 1991 have the same meaning as in that Act.
 
 ## PART 3 — MISCELLANEOUS AND GENERAL
 
-### 10. Defence to proceedings in respect of statutory nuisance[^key-037de7712789e4c89c85d269590d90fc]
+### 10. Defence to proceedings in respect of statutory nuisance[^c-037de7712789e4c89c85d269590d90fc]
 
 (1) Where proceedings are brought under section 82(1) of the Environmental Protection Act 1990[^f00013] (summary proceedings by person aggrieved by statutory nuisance) in relation to a nuisance falling within paragraph (g) of section 79(1) of that Act (noise emitted from premises so as to be prejudicial to health or a nuisance) no order shall be made, and no fine may be imposed, under section 82(2) of that Act if the defendant shows—
 
@@ -215,7 +215,7 @@ shall not apply where the consent relates to the use of premises by the undertak
 
 (3) The provisions of this article are without prejudice to the application to the authorised works of section 122 of the Railways Act 1993[^f00015] (statutory authority as a defence to actions in nuisance, etc.) or any rule of common law having similar effect.
 
-### 11. Planning permission and supplementary matters[^key-a365886dbee69c4dfdee3718e196e047]
+### 11. Planning permission and supplementary matters[^c-a365886dbee69c4dfdee3718e196e047]
 
 (1) In relation to the application of paragraph 3(c) of the Second Schedule of the Form of Tree Preservation Order set out in the Schedule to the Town and Country Planning (Tree Preservation Order) Regulations 1969[^f00016] (including that paragraph as applied by regulation 3(ii) of the Town and Country Planning (Tree Preservation Order) (Amendment) and (Trees in Conservation Areas) (Exempted Cases) Regulations 1975[^f00017], or as incorporated in any tree preservation order), any direction under section 90(2A) of the 1990 Act deeming planning permission to be granted in relation to works authorised by this Order shall be treated as deeming the permission to have been granted on application made under Part 3 of that Act for the purposes of that Part.
 
@@ -223,7 +223,7 @@ shall not apply where the consent relates to the use of premises by the undertak
 
 (3) Planning permission which is deemed by a direction under section 90(2A) of the 1990 Act to be granted in relation to works authorised by this Order shall be treated as specific planning permission for the purposes of section 264(3)(a) of that Act (cases in which land is to be treated as operational land for the purposes of that Act).
 
-### 12. Power to lop trees overhanging the authorised works[^key-65fe6b758ccd4c99a6dd62e50a2a30d0]
+### 12. Power to lop trees overhanging the authorised works[^c-65fe6b758ccd4c99a6dd62e50a2a30d0]
 
 (1) The undertaker may fell or lop any tree or shrub near any part of the authorised works, or cut back its roots, if it reasonably believes it to be necessary to do so to prevent the tree or shrub–
 
@@ -234,17 +234,17 @@ shall not apply where the consent relates to the use of premises by the undertak
 
 (3) Any dispute as to a person’s entitlement to compensation under paragraph (2), or as to the amount of compensation, shall be determined under Part 1 of the 1961 Act.
 
-### 13. Power to operate and use railway[^key-bd23dc8b65eecfe4cb4ceb9ca3f1bd2c]
+### 13. Power to operate and use railway[^c-bd23dc8b65eecfe4cb4ceb9ca3f1bd2c]
 
 (1) The undertaker may operate and use the extension railway and other authorised works as a system, or part of a system, of transport for the carriage of passengers and goods.
 
 (2) Nothing in this Order, or in any enactment incorporated with or applied by this Order, shall prejudice or affect the operation of Part 1 of the Railways Act 1993[^f00019].
 
-### 14. Power to charge fares[^key-507735df2d9a5b4e73b4d68d90f3a4c3]
+### 14. Power to charge fares[^c-507735df2d9a5b4e73b4d68d90f3a4c3]
 
 The undertaker may demand, take and recover or waive such charges for carrying passengers or goods on the extension railway or for any other services or facilities provided in connection with the operation of that railway, as it thinks fit.
 
-### 15. Application of enactments[^key-46c9484b581bc805e52bde811be93920]
+### 15. Application of enactments[^c-46c9484b581bc805e52bde811be93920]
 
 (1) In this article “the relevant date” (“y dyddiad perthnasol”) means—
 
@@ -262,13 +262,13 @@ The undertaker may demand, take and recover or waive such charges for carrying p
 
 (4) In this article “BRB (Residuary) Limited” means the company of that name whose registered number is 4146505 having its registered office at 14 Pentonville Road, London, N1 9HF.
 
-### 16. Application of byelaws to extension railway[^key-d5ed945d3319f82588dd7e5bb1728de3]
+### 16. Application of byelaws to extension railway[^c-d5ed945d3319f82588dd7e5bb1728de3]
 
 (1) The byelaws made by the Llangollen Railway Society Limited in relation to the existing railway and confirmed by the Secretary of State on 4th July 1986 shall apply to the extension railway as they apply to the existing railway.
 
 (2) Paragraph (1) shall have effect in relation to the extension railway or any part of it on and from the date on which that railway or part is completed and open to traffic.
 
-### 17. Transfer of railways by undertaker[^key-ec4c57c7205e20fd7da35be1a370e221]
+### 17. Transfer of railways by undertaker[^c-ec4c57c7205e20fd7da35be1a370e221]
 
 (1) In this article—
 
@@ -292,7 +292,7 @@ on such terms and conditions as may be agreed between the undertaker and the tra
 
 (5) Paragraph (4) shall have effect during the term of any lease granted under sub paragraph (2)(a) and from the operative date of any sale under sub-paragraph (2)(b).
 
-### 18. Application of landlord and tenant law[^key-48937aca783ac75276a3f80a2e685715]
+### 18. Application of landlord and tenant law[^c-48937aca783ac75276a3f80a2e685715]
 
 (1) This article applies to—
 
@@ -309,7 +309,7 @@ so far as any such agreement relates to the terms on which any land which is the
 - (b) confer or impose on any such party any right or obligation arising out of or connected with anything done or omitted on or in relation to land which is the subject of the lease, in addition to any such right or obligation provided for by the terms of the lease; or
 - (c) restrict the enforcement (whether by action for damages or otherwise) by any party to the lease of any obligation of any other party under the lease.
 
-### 19. Obstruction of construction of authorised works[^key-11aadf20d8490014b7ba0b24076e52a4]
+### 19. Obstruction of construction of authorised works[^c-11aadf20d8490014b7ba0b24076e52a4]
 
 Any person who, without reasonable excuse—
 
@@ -318,7 +318,7 @@ Any person who, without reasonable excuse—
 
 shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### 20. Trespass[^key-95b5c532284e10c53f96f521dce27b8f]
+### 20. Trespass[^c-95b5c532284e10c53f96f521dce27b8f]
 
 (1) Any person who—
 
@@ -329,19 +329,19 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 (2) No person shall be convicted of an offence under this article unless it is shown that a notice warning the public not to trespass on the railways was clearly exhibited and maintained at the station on the railways nearest the place where the offence is alleged to have been committed.
 
-### 21. For protection of the Natural Resources Body for Wales[^key-a98a745b1961227ef1bc795227fea7f3][^key-8065d9b241bfa20a470ce36fc229bb1d]
+### 21. For protection of the Natural Resources Body for Wales[^c-a98a745b1961227ef1bc795227fea7f3][^c-8065d9b241bfa20a470ce36fc229bb1d]
 
 Schedule 4 shall have effect.
 
-### 22. For protection of Dŵr Cymru Cyfyngedig[^key-1077724e19afc9973a1e6204184aad94]
+### 22. For protection of Dŵr Cymru Cyfyngedig[^c-1077724e19afc9973a1e6204184aad94]
 
 Schedule 5 shall have effect.
 
-### 23. Certification of plans, etc.[^key-dc933d39b2e8d26959336cc767877f68]
+### 23. Certification of plans, etc.[^c-dc933d39b2e8d26959336cc767877f68]
 
 The undertaker shall, as soon as practicable after the making of this Order, submit copies of the sections and the works plans to the Welsh Ministers for certification that they are, respectively, true copies of the sections and works plans referred to in this Order; and a document so certified shall be admissible in any proceedings as evidence of the contents of the document of which it is a copy.
 
-### 24. Service of notices[^key-0ccf1060753dfcaa7f4f009af5bfcba7]
+### 24. Service of notices[^c-0ccf1060753dfcaa7f4f009af5bfcba7]
 
 (1) A notice or other document required or authorised to be served for the purposes of this Order may be served–
 
@@ -373,11 +373,11 @@ The undertaker shall, as soon as practicable after the making of this Order, sub
 
 (9) This article shall not be taken to exclude the employment of any method of service not expressly provided for by it.
 
-### 25. No double recovery[^key-e7c129aa9f3fa985cdba0a652771beb3]
+### 25. No double recovery[^c-e7c129aa9f3fa985cdba0a652771beb3]
 
 Compensation shall not be payable in respect of the same matter both under this Order and under any other enactment, any contract or any rule of law.
 
-### 26. Arbitration[^key-4bbb62d98d62d7b130acd34558138232]
+### 26. Arbitration[^c-4bbb62d98d62d7b130acd34558138232]
 
 Any difference under any provision of this Order, unless otherwise provided for, shall be referred to and settled by a single arbitrator to be agreed between the parties or, failing agreement, to be appointed on the application of either party (after giving notice in writing to the other) by the President of the Institution of Civil Engineers.
 
@@ -389,21 +389,21 @@ Minister for Environment, Sustainability and Housing, one of the Welsh Ministers
 
 SCHEDULES
 
-## SCHEDULE 1 — SCHEDULED WORK[^key-e0b13601e615a0cd6a763a5a7b2880d7]
+## SCHEDULE 1 — SCHEDULED WORK[^c-e0b13601e615a0cd6a763a5a7b2880d7]
 
 Article 4(1)
 
-[^key-e0b13601e615a0cd6a763a5a7b2880d7]
+[^c-e0b13601e615a0cd6a763a5a7b2880d7]
 
 In the county of Denbighshire, community of Corwen—
 
 - A railway (3810 metres in length) commencing at a point 155 metres north-east of the junction of Green Lane with London Road extending along the course of the former railway and terminating at a point 160 metres west of the western end of Carrog Station by a junction within the existing railway.
 
-## SCHEDULE 2 — ADDITIONAL WORKS[^key-435ac5c042927d979b72f36fbf9a81dd]
+## SCHEDULE 2 — ADDITIONAL WORKS[^c-435ac5c042927d979b72f36fbf9a81dd]
 
 Article 5(3)
 
-[^key-435ac5c042927d979b72f36fbf9a81dd]
+[^c-435ac5c042927d979b72f36fbf9a81dd]
 
 <table>
 <thead>
@@ -419,11 +419,11 @@ Article 5(3)
 </tbody>
 </table>
 
-## SCHEDULE 3 — ACCESS TO WORKS[^key-09f00638a00b0a3ac30d631d7d445747]
+## SCHEDULE 3 — ACCESS TO WORKS[^c-09f00638a00b0a3ac30d631d7d445747]
 
 Article 7
 
-[^key-09f00638a00b0a3ac30d631d7d445747]
+[^c-09f00638a00b0a3ac30d631d7d445747]
 
 <table>
 <thead>
@@ -435,11 +435,11 @@ Article 7
 </tbody>
 </table>
 
-## SCHEDULE 4 — FOR THE PROTECTION OF THE Natural Resources Body for Wales[^key-551e4824e0e79be834ce4d063e20990f]
+## SCHEDULE 4 — FOR THE PROTECTION OF THE Natural Resources Body for Wales[^c-551e4824e0e79be834ce4d063e20990f]
 
 Article 21
 
-**1.**[^key-a6742244a1f3ab8ebf833a1627ea5411] (1) The following provisions shall apply for the protection of the Natural Resources Body for Wales unless otherwise agreed in writing between the undertaker and the Natural Resources Body for Wales.
+**1.**[^c-a6742244a1f3ab8ebf833a1627ea5411] (1) The following provisions shall apply for the protection of the Natural Resources Body for Wales unless otherwise agreed in writing between the undertaker and the Natural Resources Body for Wales.
 
 (2) In this Schedule—
 
@@ -455,7 +455,7 @@ Article 21
   - (d) affect the conservation, distribution or use of water resources; and
 - “watercourse” (“*cwrs dŵr*”) shall include all rivers, streams, ditches, drains, cuts, culverts, dykes, sluices, sewers and passages through which water flows (whether or not the flow is intermittent) except a public sewer.
 
-**2.**[^key-aba98e5cc0e875d8a271d21ecad504e1] (1) Before beginning to construct any specified work, the undertaker shall submit to the Natural Resources Body for Wales plans of the specified work and such further particulars available to it as the Natural Resources Body for Wales may within 28 days of the submission of the plans reasonably require.
+**2.**[^c-aba98e5cc0e875d8a271d21ecad504e1] (1) Before beginning to construct any specified work, the undertaker shall submit to the Natural Resources Body for Wales plans of the specified work and such further particulars available to it as the Natural Resources Body for Wales may within 28 days of the submission of the plans reasonably require.
 
 (2) Any such specified work shall not be constructed except in accordance with such plans as may be approved in writing by the Natural Resources Body for Wales, or determined under paragraph 13.
 
@@ -467,12 +467,12 @@ Article 21
 
 (4) The Natural Resources Body for Wales shall use its reasonable endeavours to respond to the submission of any plans before the expiration of the period mentioned in sub-paragraph (3)(b).
 
-**3.**[^key-37357601069ef48a19b5c00427d457ad] In particular the requirements which the Natural Resources Body for Wales may make under that paragraph include conditions requiring the undertaker at its own expense to construct such protective works, whether temporary or permanent, during the construction of the specified works (including the provision of flood banks, walls or embankments or other new works and the strengthening, repair or renewal of existing banks, walls or embankments) as are reasonably necessary–
+**3.**[^c-37357601069ef48a19b5c00427d457ad] In particular the requirements which the Natural Resources Body for Wales may make under that paragraph include conditions requiring the undertaker at its own expense to construct such protective works, whether temporary or permanent, during the construction of the specified works (including the provision of flood banks, walls or embankments or other new works and the strengthening, repair or renewal of existing banks, walls or embankments) as are reasonably necessary–
 
 - (a) to safeguard any drainage work against damage; or
 - (b) to secure that its efficiency for flood defence purposes is not impaired and that the risk of flooding is not otherwise increased by reason of any specified work.
 
-**4.**[^key-09b85089fab2060802929b9e25c90adc] (1) Subject to sub-paragraph (2), any specified work, and all protective works required by the Natural Resources Body for Wales under paragraph 3, shall be constructed—
+**4.**[^c-09b85089fab2060802929b9e25c90adc] (1) Subject to sub-paragraph (2), any specified work, and all protective works required by the Natural Resources Body for Wales under paragraph 3, shall be constructed—
 
 - (i) with all reasonable despatch in accordance with the plans approved or deemed to have been approved or settled under this Schedule; and
 - (ii) to the reasonable satisfaction of the Natural Resources Body for Wales,
@@ -487,7 +487,7 @@ and the Natural Resources Body for Wales shall be entitled by its officer to wat
 
 (5) In the event of any dispute as to whether sub-paragraph (3) is properly applicable to any work in respect of which a notice has been served under that sub-paragraph, or as to the reasonableness of any requirement of such a notice, the Natural Resources Body for Wales shall not except in emergency exercise the powers conferred by sub-paragraph (4) until the dispute has been finally determined.
 
-**5.**[^key-1e5d46023ba8520a131934ec981bbcd5] (1) Subject to the provisions of this Schedule and except to the extent that the Natural Resources Body for Wales or another person is liable to maintain any such work and is not precluded by the exercise of the powers conferred by this Order from doing so, the undertaker shall from the commencement of the construction of the specified works maintain in good repair and condition and free from obstruction any drainage work which is situated within the limits of deviation or on land held by the undertaker for the purposes of or in connection with the specified works, whether or not the drainage work is constructed under the powers conferred by this Order or is already in existence.
+**5.**[^c-1e5d46023ba8520a131934ec981bbcd5] (1) Subject to the provisions of this Schedule and except to the extent that the Natural Resources Body for Wales or another person is liable to maintain any such work and is not precluded by the exercise of the powers conferred by this Order from doing so, the undertaker shall from the commencement of the construction of the specified works maintain in good repair and condition and free from obstruction any drainage work which is situated within the limits of deviation or on land held by the undertaker for the purposes of or in connection with the specified works, whether or not the drainage work is constructed under the powers conferred by this Order or is already in existence.
 
 (2) If any such drainage work which the undertaker is liable to maintain is not maintained to the reasonable satisfaction of the Natural Resources Body for Wales, the Natural Resources Body for Wales may by notice in writing require the undertaker to repair and restore the work, or any part of such work, or (if the undertaker so elects and the Natural Resources Body for Wales in writing consents, such consent not to be unreasonably withheld), to remove the work and restore the site to its former condition, to such extent and within such limits as the NNatural Resources Body for Wales reasonably requires.
 
@@ -495,9 +495,9 @@ and the Natural Resources Body for Wales shall be entitled by its officer to wat
 
 (4) In the event of any dispute as to the reasonableness of any requirement of a notice served under sub-paragraph (2), the Natural Resources Body for Wales shall not, except in a case of an emergency, exercise the powers conferred by sub-paragraph (3) above until the dispute has been finally determined.
 
-**6.**[^key-ffd60841c781ba95efee4f62cc2b0d3f] Subject to paragraph 8, if by reason of the construction of any specified work or of the failure of any such work the efficiency of any drainage work for flood defence purposes is impaired, or that drainage work is otherwise damaged, such impairment or damage shall be made good by the undertaker to the reasonable satisfaction of the Natural Resources Body for Wales and if the undertaker fails to do so, the Natural Resources Body for Wales may make good the same and recover from the undertaker the expense reasonably incurred by it in so doing.
+**6.**[^c-ffd60841c781ba95efee4f62cc2b0d3f] Subject to paragraph 8, if by reason of the construction of any specified work or of the failure of any such work the efficiency of any drainage work for flood defence purposes is impaired, or that drainage work is otherwise damaged, such impairment or damage shall be made good by the undertaker to the reasonable satisfaction of the Natural Resources Body for Wales and if the undertaker fails to do so, the Natural Resources Body for Wales may make good the same and recover from the undertaker the expense reasonably incurred by it in so doing.
 
-**7.**[^key-0224b6060530dd81f5278a0bba0e40c5] (1) The undertaker shall take all such measures as may be reasonably practicable to prevent any interruption of the free passage of fish in any fishery during the construction of any specified work.
+**7.**[^c-0224b6060530dd81f5278a0bba0e40c5] (1) The undertaker shall take all such measures as may be reasonably practicable to prevent any interruption of the free passage of fish in any fishery during the construction of any specified work.
 
 (2) If by reason of—
 
@@ -510,14 +510,14 @@ damage to the fishery is caused, or the Natural Resources Body for Wales has rea
 
 (4) Subject to paragraph 8, in any case where immediate action by the Natural Resources Body for Wales is reasonably required in order to secure that the risk of damage to the fishery is avoided or reduced, the Natural Resources Body for Wales may take such steps as are reasonable for the purpose, and may recover from the undertaker the reasonable cost of so doing provided that a notice specifying those steps is served on the undertaker as soon as is reasonably practicable after the Natural Resources Body for Wales has taken, or commenced to take, the steps specified in the notice.
 
-**8.**[^key-c810465f94eeb97344cf41895233f4df] Nothing in paragraphs 4(4), 5(3), 6, 7(3) and (4) shall authorise the Natural Resources Body for Wales to execute works on or affecting any operational railway without the consent of the undertaker, such consent not to be unreasonably withheld.
+**8.**[^c-c810465f94eeb97344cf41895233f4df] Nothing in paragraphs 4(4), 5(3), 6, 7(3) and (4) shall authorise the Natural Resources Body for Wales to execute works on or affecting any operational railway without the consent of the undertaker, such consent not to be unreasonably withheld.
 
-**9.**[^key-46895740bd25a1ef091d3fb6519c30ad] The undertaker shall indemnify the Natural Resources Body for Wales in respect of all costs, charges and expenses which the Natural Resources Body for Wales may reasonably incur or have to pay or which it may sustain—
+**9.**[^c-46895740bd25a1ef091d3fb6519c30ad] The undertaker shall indemnify the Natural Resources Body for Wales in respect of all costs, charges and expenses which the Natural Resources Body for Wales may reasonably incur or have to pay or which it may sustain—
 
 - (a) in the examination or approval of plans under this Schedule; and
 - (b) in the inspection of the construction of the specified works or any protective works required by the Natural Resources Body for Wales under this Schedule.
 
-**10.**[^key-03ac6e2d7cff1c9de2ce1e1114705ffa] (1) Without affecting the other provisions of this Schedule, the undertaker shall indemnify the Natural Resources Body for Wales from all claims, demands, proceedings, costs, damages, expenses or loss which may be made or taken against, recovered from or incurred by the Natural Resources Body for Wales by reason of–
+**10.**[^c-03ac6e2d7cff1c9de2ce1e1114705ffa] (1) Without affecting the other provisions of this Schedule, the undertaker shall indemnify the Natural Resources Body for Wales from all claims, demands, proceedings, costs, damages, expenses or loss which may be made or taken against, recovered from or incurred by the Natural Resources Body for Wales by reason of–
 
 - (a) any damage to any drainage work so as to impair its efficiency for the purposes of flood defence;
 - (b) any damage to the fishery;
@@ -529,19 +529,19 @@ which is caused by, or results from, the construction of any of the works or any
 
 (2) The Natural Resources Body for Wales shall give to the undertaker reasonable notice of any such claim or demand and no settlement or compromise of it shall be made without the agreement of the undertaker which shall not be unreasonably withheld.
 
-**11.**[^key-169f7d06d55242ec5ca175cb3a8ee9b6] The fact that any work or thing has been executed or done in accordance with a plan approved or deemed to be approved by the Natural Resources Body for Wales, or to its satisfaction, or in accordance with any directions or award of an arbitrator, shall not relieve the undertaker from any liability under the provisions of this Schedule.
+**11.**[^c-169f7d06d55242ec5ca175cb3a8ee9b6] The fact that any work or thing has been executed or done in accordance with a plan approved or deemed to be approved by the Natural Resources Body for Wales, or to its satisfaction, or in accordance with any directions or award of an arbitrator, shall not relieve the undertaker from any liability under the provisions of this Schedule.
 
-**12.**[^key-4310c3469f0a348beb7e61bb56d441a5] For the purposes of Chapter 2 of Part 2 of the Water Resources Act 1991[^f00021] (abstraction and impounding of water) and section 109 of that Act (as to structures in, over or under watercourses) as applying to the construction of any specified work, any consent or approval given or deemed to be given by the Natural Resources Body for Wales under this Schedule with respect to such construction shall be deemed also to constitute a licence under that Chapter to obstruct or impede the flow of inland waters at that point by means of impounding works or, as the case may be, a consent or approval under section 109, and the undertaker shall not be obliged to serve any notice which would otherwise be required by section 30 of the said Act of 1991 (which relates to the construction of boreholes and similar works in respect of which a licence is not required).
+**12.**[^c-4310c3469f0a348beb7e61bb56d441a5] For the purposes of Chapter 2 of Part 2 of the Water Resources Act 1991[^f00021] (abstraction and impounding of water) and section 109 of that Act (as to structures in, over or under watercourses) as applying to the construction of any specified work, any consent or approval given or deemed to be given by the Natural Resources Body for Wales under this Schedule with respect to such construction shall be deemed also to constitute a licence under that Chapter to obstruct or impede the flow of inland waters at that point by means of impounding works or, as the case may be, a consent or approval under section 109, and the undertaker shall not be obliged to serve any notice which would otherwise be required by section 30 of the said Act of 1991 (which relates to the construction of boreholes and similar works in respect of which a licence is not required).
 
-**13.**[^key-09b62564f3ff0e44e10f88a11d9cc212] Any dispute arising between the undertaker and the Natural Resources Body for Wales under this Schedule (other than a difference as to its meaning or construction) shall, if the parties agree, be determined by arbitration under article 26 (arbitration), but shall otherwise be determined by the Welsh Ministers on a reference to them by the undertaker or the Natural Resources Body for Wales, after notice in writing by one to the other.
+**13.**[^c-09b62564f3ff0e44e10f88a11d9cc212] Any dispute arising between the undertaker and the Natural Resources Body for Wales under this Schedule (other than a difference as to its meaning or construction) shall, if the parties agree, be determined by arbitration under article 26 (arbitration), but shall otherwise be determined by the Welsh Ministers on a reference to them by the undertaker or the Natural Resources Body for Wales, after notice in writing by one to the other.
 
 ## SCHEDULE 5 — FOR THE PROTECTION OF DŵR CYMRU CYFYNGEDIG
 
 Article 22
 
-**1.**[^key-f9bebf5da3f41ae8beccabf6fc6bd213] For the protection of Dŵr Cymru Cyfyngedig (“the Company) the following provisions shall, unless otherwise agreed in writing between the undertaker and the Company, have effect in relation to the carrying out of the authorised works or the exercise of any other powers conferred by this Order.
+**1.**[^c-f9bebf5da3f41ae8beccabf6fc6bd213] For the protection of Dŵr Cymru Cyfyngedig (“the Company) the following provisions shall, unless otherwise agreed in writing between the undertaker and the Company, have effect in relation to the carrying out of the authorised works or the exercise of any other powers conferred by this Order.
 
-**2.**[^key-fb31f24ffca794e16bd2da6486ed248f] In this Schedule—
+**2.**[^c-fb31f24ffca794e16bd2da6486ed248f] In this Schedule—
 
 - “the 1991 Act” (“*Deddf 1991*”) means the New Roads and Street Works Act 1991;
 - “functions” (“*swyddogaethau*”) includes powers and duties;
@@ -552,32 +552,32 @@ Article 22
   - (c) any sewer which is so vested or is the subject of a notice of intention to adopt given under section 102(4) of that Act or an Agreement to adopt made under section 104 of that Act, including a sludge main, disposal main (within the meaning of section 219 of that Act) or sewer outfall and any manholes, ventilating shafts, pumps or other accessories forming part of any such sewer, drain or works, and includes any structure in which a relevant pipe is or is to be located or which gives or will give access to the relevant pipe;
 - “work” (“*gwaith*”) means any of the authorised works.
 
-**3.**[^key-e682f01a5512f7c166b47cce4fc9cf80] This Schedule does not apply to apparatus in respect of which the relations between the undertaker and the Company are regulated by the provisions of Part 3 of the 1991 Act.
+**3.**[^c-e682f01a5512f7c166b47cce4fc9cf80] This Schedule does not apply to apparatus in respect of which the relations between the undertaker and the Company are regulated by the provisions of Part 3 of the 1991 Act.
 
-**4.**[^key-6162bba85ce6ee32308ccef22a2f252c] Nothing in this Order shall authorise the undertaker to raise, sink or otherwise alter the position of, or in any way to interfere with, a relevant pipe without the consent in writing of the Company, such consent not to be unreasonably withheld.
+**4.**[^c-6162bba85ce6ee32308ccef22a2f252c] Nothing in this Order shall authorise the undertaker to raise, sink or otherwise alter the position of, or in any way to interfere with, a relevant pipe without the consent in writing of the Company, such consent not to be unreasonably withheld.
 
-**5.**[^key-347454ddce9eab63999983ee622d2fa3] Before commencing the construction, alteration or reconstruction of any work which will or may be situated over or within 15 metres measured in any direction of, or (wherever situated) impose any load directly upon, a relevant pipe the undertaker shall furnish to the Company such proper and sufficient plans of the work as may reasonably be required by the Company and shall not commence the work until such plans thereof have been approved in writing by the Company (which approval shall not be unreasonably withheld) or settled by arbitration under article 26.
+**5.**[^c-347454ddce9eab63999983ee622d2fa3] Before commencing the construction, alteration or reconstruction of any work which will or may be situated over or within 15 metres measured in any direction of, or (wherever situated) impose any load directly upon, a relevant pipe the undertaker shall furnish to the Company such proper and sufficient plans of the work as may reasonably be required by the Company and shall not commence the work until such plans thereof have been approved in writing by the Company (which approval shall not be unreasonably withheld) or settled by arbitration under article 26.
 
-**6.**[^key-1127c4cd16f0e1c6e5530b3c5b0ea647] If within 56 days of plans being furnished to the Company under paragraph 5 the Company does not indicate in writing its disapproval and the grounds of its disapproval it shall be deemed to have approved the plans as furnished.
+**6.**[^c-1127c4cd16f0e1c6e5530b3c5b0ea647] If within 56 days of plans being furnished to the Company under paragraph 5 the Company does not indicate in writing its disapproval and the grounds of its disapproval it shall be deemed to have approved the plans as furnished.
 
-**7.**[^key-b737c963fa08edff21827a461a14855d] The Company may as a condition of its approval of the said plans require any such modification to be made as may be reasonably required to secure a relevant pipe against interference or risk of damage and to secure a convenient means of access to it and the work shall be executed only in accordance with the plans approved in accordance with this schedule.
+**7.**[^c-b737c963fa08edff21827a461a14855d] The Company may as a condition of its approval of the said plans require any such modification to be made as may be reasonably required to secure a relevant pipe against interference or risk of damage and to secure a convenient means of access to it and the work shall be executed only in accordance with the plans approved in accordance with this schedule.
 
-**8.**[^key-ca1d146625f4406542dd5ae4832ba4f2] The approval of the Company of any plans under this article shall not (in the absence of negligence on the part of the Company) exonerate the undertaker from any liability or affect any claim for compensation under this schedule.
+**8.**[^c-ca1d146625f4406542dd5ae4832ba4f2] The approval of the Company of any plans under this article shall not (in the absence of negligence on the part of the Company) exonerate the undertaker from any liability or affect any claim for compensation under this schedule.
 
-**9.**[^key-3bc5a4624747640c72822e28efdde793] Where a relevant pipe is situated in or under any land owned or held for the purposes of the railways and is not removed or diverted the undertaker shall at its own expense maintain all culverts over such relevant pipes which are in existence at the coming into force of this Order so as to leave that relevant pipe accessible for the purposes of repairs.
+**9.**[^c-3bc5a4624747640c72822e28efdde793] Where a relevant pipe is situated in or under any land owned or held for the purposes of the railways and is not removed or diverted the undertaker shall at its own expense maintain all culverts over such relevant pipes which are in existence at the coming into force of this Order so as to leave that relevant pipe accessible for the purposes of repairs.
 
-**10.**[^key-779aa6357a2d1ea77e22a8b77349c8fb] Nothing in paragraph 9 shall have the effect of requiring the undertaker to carry out works of maintenance in respect of any culvert which the Company or any other person is liable to maintain.
+**10.**[^c-779aa6357a2d1ea77e22a8b77349c8fb] Nothing in paragraph 9 shall have the effect of requiring the undertaker to carry out works of maintenance in respect of any culvert which the Company or any other person is liable to maintain.
 
-**11.**[^key-9650011233dd644eb0a183135173899c] The undertaker shall afford reasonable facilities to the Company for the execution and doing of all such works and things as may be reasonably necessary to enable it to inspect, repair, maintain, renew, replace, remove, alter or use a relevant pipe and in particular to carry out any protective works or any diversion required by reason of the exercise of the powers of this Order.
+**11.**[^c-9650011233dd644eb0a183135173899c] The undertaker shall afford reasonable facilities to the Company for the execution and doing of all such works and things as may be reasonably necessary to enable it to inspect, repair, maintain, renew, replace, remove, alter or use a relevant pipe and in particular to carry out any protective works or any diversion required by reason of the exercise of the powers of this Order.
 
-**12.**[^key-6533bba9a1cd4c4a84bf8b754449e99f] (1) Where, in accordance with the provisions of this Schedule, the undertaker affords for the purposes of the authorised works to the Company facilities and rights for the construction and maintenance in land of the undertaker of alternative apparatus in substitution for apparatus to be removed, those facilities and rights subject to paragraph 12 (2) shall be granted upon the same terms and conditions as those pertaining to the substituted apparatus and if there is any dispute as to those terms and conditions, the dispute shall be referred to arbitration in accordance with article 26.
+**12.**[^c-6533bba9a1cd4c4a84bf8b754449e99f] (1) Where, in accordance with the provisions of this Schedule, the undertaker affords for the purposes of the authorised works to the Company facilities and rights for the construction and maintenance in land of the undertaker of alternative apparatus in substitution for apparatus to be removed, those facilities and rights subject to paragraph 12 (2) shall be granted upon the same terms and conditions as those pertaining to the substituted apparatus and if there is any dispute as to those terms and conditions, the dispute shall be referred to arbitration in accordance with article 26.
 
 (2) In settling terms and conditions for the purposes of paragraph 12(1) in respect of the alternative apparatus to be constructed in or along any railway of the undertaker, the arbitrator shall—
 
 - (a) give effect to all reasonable requirements of the undertaker for ensuring the safety and efficient operation of the railways and for securing any subsequent alterations or adaptations of the alternative apparatus which may be required to prevent interference with any proposed works of the undertaker or the traffic on the railways; and
 - (b) so far as it may be reasonable and practicable to do so in the circumstances of the particular case, give effect to the terms and conditions if any applicable to the apparatus constructed in or along the railways for which the alternative apparatus is to be substituted.
 
-**13.**[^key-348f55ef784be1f45e19d116bc60cc06] (1) Subject to the following provisions of this paragraph, the undertaker shall repay to the Company the reasonable expenses incurred by the Company in, or in connection with, the inspection, removal, alteration or protection of any relevant pipe or the construction of any new relevant pipe which may be required in consequence of the execution of any of the authorised works.
+**13.**[^c-348f55ef784be1f45e19d116bc60cc06] (1) Subject to the following provisions of this paragraph, the undertaker shall repay to the Company the reasonable expenses incurred by the Company in, or in connection with, the inspection, removal, alteration or protection of any relevant pipe or the construction of any new relevant pipe which may be required in consequence of the execution of any of the authorised works.
 
 (2) If in accordance with the provisions of this Schedule apparatus of greater capacity or of greater dimensions is placed in substitution for existing apparatus of smaller capacity or of smaller dimensions and the placing of apparatus of that capacity or those dimensions, as the case may be, is not agreed by the undertaker or, in default of agreement, is not determined by arbitration in accordance with article 26 to be necessary, then, if such placing involves cost in the construction of works under this Schedule exceeding that which would have been involved if the apparatus placed had been of the existing capacity or dimensions as the case may be, the amount which apart from this paragraph would be payable to the Company by virtue of sub-paragraph (1), shall be reduced by the amount of that excess.
 
@@ -585,7 +585,7 @@ Article 22
 
 (4) An amount which apart from this sub-paragraph would be payable to the Company in respect of works by virtue of sub-paragraph (1) shall, if the works include the placing of apparatus provided in substitution for apparatus placed more than 8 years earlier so as to confer on the Company any financial benefit by deferment of the time for renewal of the apparatus in the normal course, be reduced by the amount which represents that benefit.
 
-**14.**[^key-74a7e8494bb35bb6a71f6336ee99abc6] (1) Subject to sub–paragraphs (2) and (3), if by reason or in consequence of the construction of any of the authorised works, any damage is caused to any apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of the Company, or there is any interruption in any service provided, or in the supply of any goods, by the Company, the undertaker shall-
+**14.**[^c-74a7e8494bb35bb6a71f6336ee99abc6] (1) Subject to sub–paragraphs (2) and (3), if by reason or in consequence of the construction of any of the authorised works, any damage is caused to any apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of the Company, or there is any interruption in any service provided, or in the supply of any goods, by the Company, the undertaker shall-
 
 - (a) bear and pay the cost reasonably incurred by the Company in making good such damage or restoring the supply; and
 - (b) make reasonable compensation to the Company for any other expenses, loss, damages, penalty or costs incurred by the Company, by reason or in consequence of any such damage or interruption.
@@ -594,9 +594,9 @@ Article 22
 
 (3) The Company shall give the undertaker reasonable notice of any such claim or demand and no settlement or compromise shall be made without the consent of the undertaker, which, if it withholds such consent, shall have the sole conduct of any settlement or compromise or of any proceedings necessary to resist the claim or demand.
 
-**15.**[^key-965a0730d7acc00e8e51c295e12bda41] Nothing in this Schedule shall affect the provisions of any enactment or agreement regulating the relations between the undertaker and the Company in respect of any apparatus laid or erected in the former railway before the date on which this Order is made.
+**15.**[^c-965a0730d7acc00e8e51c295e12bda41] Nothing in this Schedule shall affect the provisions of any enactment or agreement regulating the relations between the undertaker and the Company in respect of any apparatus laid or erected in the former railway before the date on which this Order is made.
 
-**16.**[^key-d70c2c0f91b7d84ddaefedd6af8a5289] Any difference arising between the undertaker and the Company under this article (other than a difference as to its meaning or construction) shall be determined by arbitration under article 26.
+**16.**[^c-d70c2c0f91b7d84ddaefedd6af8a5289] Any difference arising between the undertaker and the Company under this article (other than a difference as to its meaning or construction) shall be determined by arbitration under article 26.
 
 (This note is not part of the Order)
 
@@ -612,11 +612,11 @@ A copy of the works plan may be inspected at the offices of the Llangollen Railw
 
 [^f00002]: Footnote: [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42). As amended by [S.I. 1995/1541](https://www.legislation.gov.uk/uksi/1995/1541), [S.I. 1998/2226](https://www.legislation.gov.uk/uksi/1998/2226), [S.I. 2000/3199](https://www.legislation.gov.uk/uksi/2000/3199) and [S.I. 2006/958](https://www.legislation.gov.uk/uksi/2006/958).
 
-[^key-d5f585d6f177235b413e11c1133634de]: Commencement: Art. 1 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-d5f585d6f177235b413e11c1133634de]: Commencement: Art. 1 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
 [^f00003]: Footnote: [S.I. 1984/558](https://www.legislation.gov.uk/uksi/1984/558).
 
-[^key-bad65c7c6b8a1d4f5c331d063b8c194a]: Commencement: Art. 2 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-bad65c7c6b8a1d4f5c331d063b8c194a]: Commencement: Art. 2 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
 [^f00004]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -632,27 +632,27 @@ A copy of the works plan may be inspected at the offices of the Llangollen Railw
 
 [^f00010]: Footnote: [1965 c. 12](https://www.legislation.gov.uk/ukpga/1965/12).
 
-[^key-bbf28be0c034e3abc70206ab53ffd0a3]: Commencement: Art. 3 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-bbf28be0c034e3abc70206ab53ffd0a3]: Commencement: Art. 3 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
 [^f00011]: Footnote: [1845 c. 20](https://www.legislation.gov.uk/ukpga/1845/20).
 
-[^key-e155a430d56ca38ace80de8e5c0b7a65]: Commencement: Art. 4 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-e155a430d56ca38ace80de8e5c0b7a65]: Commencement: Art. 4 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-f789fdb383e3c62d4bef3c66d318e5f9]: Commencement: Art. 5 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-f789fdb383e3c62d4bef3c66d318e5f9]: Commencement: Art. 5 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-200943ef27ef0feffbbc0ee8222d569d]: Commencement: Art. 6 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-200943ef27ef0feffbbc0ee8222d569d]: Commencement: Art. 6 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-0e37e5420d100b088ae738742653f9ce]: Commencement: Art. 7 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-0e37e5420d100b088ae738742653f9ce]: Commencement: Art. 7 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-f6111c1bac8967aa120c6a4c5e365089]: Commencement: Art. 8 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-f6111c1bac8967aa120c6a4c5e365089]: Commencement: Art. 8 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-7e25c1a4b4b209b1aa242d581b56b90a]: Commencement: Art. 9 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-7e25c1a4b4b209b1aa242d581b56b90a]: Commencement: Art. 9 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
 [^f00012]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-91db34fbadcb7dce8756e00080ca94c6]: Textual amendment: Words in [art. 9(8)(a)](https://www.legislation.gov.uk/wsi/2010/2136/article/9/8/a) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 62](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/62) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-91db34fbadcb7dce8756e00080ca94c6]: Textual amendment: Words in [art. 9(8)(a)](https://www.legislation.gov.uk/wsi/2010/2136/article/9/8/a) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 62](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/62) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-037de7712789e4c89c85d269590d90fc]: Commencement: Art. 10 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-037de7712789e4c89c85d269590d90fc]: Commencement: Art. 10 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
 [^f00013]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
@@ -660,7 +660,7 @@ A copy of the works plan may be inspected at the offices of the Llangollen Railw
 
 [^f00015]: Footnote: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
 
-[^key-a365886dbee69c4dfdee3718e196e047]: Commencement: Art. 11 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-a365886dbee69c4dfdee3718e196e047]: Commencement: Art. 11 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
 [^f00016]: Footnote: [S.I. 1969/17](https://www.legislation.gov.uk/uksi/1969/17).
 
@@ -668,108 +668,108 @@ A copy of the works plan may be inspected at the offices of the Llangollen Railw
 
 [^f00018]: Footnote: [S.I. 1999/1892](https://www.legislation.gov.uk/uksi/1999/1892).
 
-[^key-65fe6b758ccd4c99a6dd62e50a2a30d0]: Commencement: Art. 12 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-65fe6b758ccd4c99a6dd62e50a2a30d0]: Commencement: Art. 12 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-bd23dc8b65eecfe4cb4ceb9ca3f1bd2c]: Commencement: Art. 13 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-bd23dc8b65eecfe4cb4ceb9ca3f1bd2c]: Commencement: Art. 13 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
 [^f00019]: Footnote: [1993 c .43](https://www.legislation.gov.uk/ukpga/1993/43) As amended by the Transport Act [2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38) and the Railways Act [2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14).
 
-[^key-507735df2d9a5b4e73b4d68d90f3a4c3]: Commencement: Art. 14 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-507735df2d9a5b4e73b4d68d90f3a4c3]: Commencement: Art. 14 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-46c9484b581bc805e52bde811be93920]: Commencement: Art. 15 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-46c9484b581bc805e52bde811be93920]: Commencement: Art. 15 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-d5ed945d3319f82588dd7e5bb1728de3]: Commencement: Art. 16 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-d5ed945d3319f82588dd7e5bb1728de3]: Commencement: Art. 16 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-ec4c57c7205e20fd7da35be1a370e221]: Commencement: Art. 17 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-ec4c57c7205e20fd7da35be1a370e221]: Commencement: Art. 17 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-48937aca783ac75276a3f80a2e685715]: Commencement: Art. 18 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-48937aca783ac75276a3f80a2e685715]: Commencement: Art. 18 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-11aadf20d8490014b7ba0b24076e52a4]: Commencement: Art. 19 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-11aadf20d8490014b7ba0b24076e52a4]: Commencement: Art. 19 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-95b5c532284e10c53f96f521dce27b8f]: Commencement: Art. 20 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-95b5c532284e10c53f96f521dce27b8f]: Commencement: Art. 20 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-a98a745b1961227ef1bc795227fea7f3]: Commencement: Art. 21 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-a98a745b1961227ef1bc795227fea7f3]: Commencement: Art. 21 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-8065d9b241bfa20a470ce36fc229bb1d]: Textual amendment: Words in [art. 21](https://www.legislation.gov.uk/wsi/2010/2136/article/21) heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 62](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/62) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-8065d9b241bfa20a470ce36fc229bb1d]: Textual amendment: Words in [art. 21](https://www.legislation.gov.uk/wsi/2010/2136/article/21) heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 62](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/62) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-1077724e19afc9973a1e6204184aad94]: Commencement: Art. 22 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-1077724e19afc9973a1e6204184aad94]: Commencement: Art. 22 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-dc933d39b2e8d26959336cc767877f68]: Commencement: Art. 23 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-dc933d39b2e8d26959336cc767877f68]: Commencement: Art. 23 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-0ccf1060753dfcaa7f4f009af5bfcba7]: Commencement: Art. 24 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-0ccf1060753dfcaa7f4f009af5bfcba7]: Commencement: Art. 24 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
 [^f00020]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-e7c129aa9f3fa985cdba0a652771beb3]: Commencement: Art. 25 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-e7c129aa9f3fa985cdba0a652771beb3]: Commencement: Art. 25 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-4bbb62d98d62d7b130acd34558138232]: Commencement: Art. 26 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-4bbb62d98d62d7b130acd34558138232]: Commencement: Art. 26 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-e0b13601e615a0cd6a763a5a7b2880d7]: Commencement: Sch. 1 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-e0b13601e615a0cd6a763a5a7b2880d7]: Commencement: Sch. 1 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-435ac5c042927d979b72f36fbf9a81dd]: Commencement: Sch. 2 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-435ac5c042927d979b72f36fbf9a81dd]: Commencement: Sch. 2 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-09f00638a00b0a3ac30d631d7d445747]: Commencement: Sch. 3 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-09f00638a00b0a3ac30d631d7d445747]: Commencement: Sch. 3 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-551e4824e0e79be834ce4d063e20990f]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/wsi/2010/2136/schedule/4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 63](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/63) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-551e4824e0e79be834ce4d063e20990f]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/wsi/2010/2136/schedule/4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 63](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/63) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-a6742244a1f3ab8ebf833a1627ea5411]: Commencement: Sch. 4 para. 1 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-a6742244a1f3ab8ebf833a1627ea5411]: Commencement: Sch. 4 para. 1 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-aba98e5cc0e875d8a271d21ecad504e1]: Commencement: Sch. 4 para. 2 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-aba98e5cc0e875d8a271d21ecad504e1]: Commencement: Sch. 4 para. 2 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-37357601069ef48a19b5c00427d457ad]: Commencement: Sch. 4 para. 3 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-37357601069ef48a19b5c00427d457ad]: Commencement: Sch. 4 para. 3 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-09b85089fab2060802929b9e25c90adc]: Commencement: Sch. 4 para. 4 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-09b85089fab2060802929b9e25c90adc]: Commencement: Sch. 4 para. 4 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-1e5d46023ba8520a131934ec981bbcd5]: Commencement: Sch. 4 para. 5 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-1e5d46023ba8520a131934ec981bbcd5]: Commencement: Sch. 4 para. 5 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-ffd60841c781ba95efee4f62cc2b0d3f]: Commencement: Sch. 4 para. 6 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-ffd60841c781ba95efee4f62cc2b0d3f]: Commencement: Sch. 4 para. 6 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-0224b6060530dd81f5278a0bba0e40c5]: Commencement: Sch. 4 para. 7 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-0224b6060530dd81f5278a0bba0e40c5]: Commencement: Sch. 4 para. 7 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-c810465f94eeb97344cf41895233f4df]: Commencement: Sch. 4 para. 8 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-c810465f94eeb97344cf41895233f4df]: Commencement: Sch. 4 para. 8 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-46895740bd25a1ef091d3fb6519c30ad]: Commencement: Sch. 4 para. 9 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-46895740bd25a1ef091d3fb6519c30ad]: Commencement: Sch. 4 para. 9 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-03ac6e2d7cff1c9de2ce1e1114705ffa]: Commencement: Sch. 4 para. 10 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-03ac6e2d7cff1c9de2ce1e1114705ffa]: Commencement: Sch. 4 para. 10 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-169f7d06d55242ec5ca175cb3a8ee9b6]: Commencement: Sch. 4 para. 11 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-169f7d06d55242ec5ca175cb3a8ee9b6]: Commencement: Sch. 4 para. 11 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-4310c3469f0a348beb7e61bb56d441a5]: Commencement: Sch. 4 para. 12 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-4310c3469f0a348beb7e61bb56d441a5]: Commencement: Sch. 4 para. 12 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
 [^f00021]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57)
 
-[^key-09b62564f3ff0e44e10f88a11d9cc212]: Commencement: Sch. 4 para. 13 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-09b62564f3ff0e44e10f88a11d9cc212]: Commencement: Sch. 4 para. 13 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-f9bebf5da3f41ae8beccabf6fc6bd213]: Commencement: Sch. 5 para. 1 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-f9bebf5da3f41ae8beccabf6fc6bd213]: Commencement: Sch. 5 para. 1 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-fb31f24ffca794e16bd2da6486ed248f]: Commencement: Sch. 5 para. 2 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-fb31f24ffca794e16bd2da6486ed248f]: Commencement: Sch. 5 para. 2 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
 [^f00022]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56)
 
-[^key-e682f01a5512f7c166b47cce4fc9cf80]: Commencement: Sch. 5 para. 3 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-e682f01a5512f7c166b47cce4fc9cf80]: Commencement: Sch. 5 para. 3 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-6162bba85ce6ee32308ccef22a2f252c]: Commencement: Sch. 5 para. 4 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-6162bba85ce6ee32308ccef22a2f252c]: Commencement: Sch. 5 para. 4 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-347454ddce9eab63999983ee622d2fa3]: Commencement: Sch. 5 para. 5 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-347454ddce9eab63999983ee622d2fa3]: Commencement: Sch. 5 para. 5 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-1127c4cd16f0e1c6e5530b3c5b0ea647]: Commencement: Sch. 5 para. 6 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-1127c4cd16f0e1c6e5530b3c5b0ea647]: Commencement: Sch. 5 para. 6 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-b737c963fa08edff21827a461a14855d]: Commencement: Sch. 5 para. 7 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-b737c963fa08edff21827a461a14855d]: Commencement: Sch. 5 para. 7 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-ca1d146625f4406542dd5ae4832ba4f2]: Commencement: Sch. 5 para. 8 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-ca1d146625f4406542dd5ae4832ba4f2]: Commencement: Sch. 5 para. 8 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-3bc5a4624747640c72822e28efdde793]: Commencement: Sch. 5 para. 9 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-3bc5a4624747640c72822e28efdde793]: Commencement: Sch. 5 para. 9 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-779aa6357a2d1ea77e22a8b77349c8fb]: Commencement: Sch. 5 para. 10 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-779aa6357a2d1ea77e22a8b77349c8fb]: Commencement: Sch. 5 para. 10 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-9650011233dd644eb0a183135173899c]: Commencement: Sch. 5 para. 11 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-9650011233dd644eb0a183135173899c]: Commencement: Sch. 5 para. 11 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-6533bba9a1cd4c4a84bf8b754449e99f]: Commencement: Sch. 5 para. 12 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-6533bba9a1cd4c4a84bf8b754449e99f]: Commencement: Sch. 5 para. 12 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-348f55ef784be1f45e19d116bc60cc06]: Commencement: Sch. 5 para. 13 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-348f55ef784be1f45e19d116bc60cc06]: Commencement: Sch. 5 para. 13 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-74a7e8494bb35bb6a71f6336ee99abc6]: Commencement: Sch. 5 para. 14 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-74a7e8494bb35bb6a71f6336ee99abc6]: Commencement: Sch. 5 para. 14 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-965a0730d7acc00e8e51c295e12bda41]: Commencement: Sch. 5 para. 15 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-965a0730d7acc00e8e51c295e12bda41]: Commencement: Sch. 5 para. 15 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
 
-[^key-d70c2c0f91b7d84ddaefedd6af8a5289]: Commencement: Sch. 5 para. 16 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)
+[^c-d70c2c0f91b7d84ddaefedd6af8a5289]: Commencement: Sch. 5 para. 16 in force at 27.8.2010, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/2136/article/1/1)

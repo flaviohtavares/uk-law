@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Preparation and publication of scheme: new EPB[^key-d1909ec7788aa33d372c1c52b991ca1a]
+## 98. Preparation and publication of scheme: new EPB[^c-d1909ec7788aa33d372c1c52b991ca1a]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 
 - (a) must consist of or include the whole or any part of the review area,
 - (b) may include one or more other local government areas, and
-- (c) must meet condition A[^key-d72487b1509372f9c1b25ec2328e15f8] in section 88.
+- (c) must meet condition A[^c-d72487b1509372f9c1b25ec2328e15f8] in section 88.
 
 (4) The scheme area may not include a local government area unless each appropriate authority for that area—
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d1909ec7788aa33d372c1c52b991ca1a]: Commencement: S. 98 in force at 17.12.2009 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/a)
+[^c-d1909ec7788aa33d372c1c52b991ca1a]: Commencement: S. 98 in force at 17.12.2009 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/a)
 
-[^key-d72487b1509372f9c1b25ec2328e15f8]: Textual amendment: Words in s. 98(3)(c) substituted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 11(4)](https://www.legislation.gov.uk/ukpga/2016/1/section/11/4), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
+[^c-d72487b1509372f9c1b25ec2328e15f8]: Textual amendment: Words in s. 98(3)(c) substituted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 11(4)](https://www.legislation.gov.uk/ukpga/2016/1/section/11/4), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)

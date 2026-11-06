@@ -24,7 +24,7 @@ summary: ''
 
 (2)[^c926771] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) It is unlawful for any person except with the consent of the building control authority[^key-8a39c9cd7d049134eda2fabe8b465019] to close or obstruct the means of access by which refuse or faecal matter is removed from a building, and the building control authority in giving their consent may impose such conditions as they think fit with respect to the improvement of an alternative means of access or the substitution of other means of access.
+(3) It is unlawful for any person except with the consent of the building control authority[^c-8a39c9cd7d049134eda2fabe8b465019] to close or obstruct the means of access by which refuse or faecal matter is removed from a building, and the building control authority in giving their consent may impose such conditions as they think fit with respect to the improvement of an alternative means of access or the substitution of other means of access.
 
 (4) A person who contravenes subsection (3) above is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c926771]: Textual amendment: S. 23(1)(2) repealed by [S.I. 1985/1065](https://www.legislation.gov.uk/uksi/1985/1065), [reg. 18](https://www.legislation.gov.uk/uksi/1985/1065/regulation/18)
 
-[^key-8a39c9cd7d049134eda2fabe8b465019]: Textual amendment: Words in [s. 23(3)](https://www.legislation.gov.uk/ukpga/1984/55/section/23/3) substituted (1.10.2023 except in relation to W.) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c), [Sch. 5 para. 25](https://www.legislation.gov.uk/ukpga/2022/30/schedule/5/paragraph/25); [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(n)(xi)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/n/xi) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/993/regulation/4))
+[^c-8a39c9cd7d049134eda2fabe8b465019]: Textual amendment: Words in [s. 23(3)](https://www.legislation.gov.uk/ukpga/1984/55/section/23/3) substituted (1.10.2023 except in relation to W.) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c), [Sch. 5 para. 25](https://www.legislation.gov.uk/ukpga/2022/30/schedule/5/paragraph/25); [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(n)(xi)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/n/xi) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/993/regulation/4))

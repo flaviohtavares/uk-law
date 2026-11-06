@@ -26,7 +26,7 @@ Section 2.[^c12808891]
 
 #### Changes to Assembly constituencies
 
-**1.**[^key-26fab254cc9206732f0bcc3d1e160d93] (1) This paragraph applies where the Secretary of State makes an order under section 10 of the Local Government and Public Involvement in Health Act 2007 which includes a boundary change (within the meaning of section 8(3) of that Act) affecting a London borough.
+**1.**[^c-26fab254cc9206732f0bcc3d1e160d93] (1) This paragraph applies where the Secretary of State makes an order under section 10 of the Local Government and Public Involvement in Health Act 2007 which includes a boundary change (within the meaning of section 8(3) of that Act) affecting a London borough.
 
 (2) Where this paragraph applies, the Local Government Boundary Commission for England must consider whether to conduct a review of Assembly constituencies for the purpose of making recommendations as to—
 
@@ -35,7 +35,7 @@ Section 2.[^c12808891]
 
 #### Comprehensive review of Assembly constituencies
 
-**2.**[^key-18adc2bdab361eee2031bdf802e823a3] (1) The Local Government Boundary Commission for England may at any time—
+**2.**[^c-18adc2bdab361eee2031bdf802e823a3] (1) The Local Government Boundary Commission for England may at any time—
 
 - (a) conduct a review of Assembly constituencies, and
 - (b) make recommendations as to—
@@ -46,7 +46,7 @@ Section 2.[^c12808891]
 
 #### Preparation and submission of report
 
-**3.**[^key-7c7190209bfee7bbd717109893c12ed8] (1) As soon as reasonably practicable after deciding to conduct a review under paragraph 1 or 2, the Local Government Boundary Commission for England must take such steps as it considers sufficient to secure that persons who may be interested in the review are informed of—
+**3.**[^c-7c7190209bfee7bbd717109893c12ed8] (1) As soon as reasonably practicable after deciding to conduct a review under paragraph 1 or 2, the Local Government Boundary Commission for England must take such steps as it considers sufficient to secure that persons who may be interested in the review are informed of—
 
 - (a) the fact that the review is to take place, and
 - (b) any particular matters to which the review is to relate.
@@ -93,7 +93,7 @@ the Commission may by order under section 2(4) make such provision as it thinks 
 
 #### The rules about Assembly constituencies
 
-**7.** (1) The rules referred to in paragraphs 1(2) and 2(2)[^key-6106338d2fd53bdd8ca9af779122d9d3] above are—
+**7.** (1) The rules referred to in paragraphs 1(2) and 2(2)[^c-6106338d2fd53bdd8ca9af779122d9d3] above are—
 
 - 1\. There shall be fourteen Assembly constituencies.
 - 2\. Each Assembly constituency shall consist of two or more entire London boroughs.
@@ -106,7 +106,7 @@ the Commission may by order under section 2(4) make such provision as it thinks 
 - (a) any reference to a London borough includes a reference to the City of London, which for this purpose shall be taken to include the Inner Temple and the Middle Temple; and
 - (b) a part of a boundary which would, except for the river Thames or a tributary of the river Thames, adjoin a part of another boundary is deemed to adjoin that part of that other boundary.
 
-### PART II — ...[^key-3cbe7e1f35431a73984fa872b0cea072]
+### PART II — ...[^c-3cbe7e1f35431a73984fa872b0cea072]
 
 ## Annotations
 
@@ -114,14 +114,14 @@ the Commission may by order under section 2(4) make such provision as it thinks 
 
     Sch. 1: functions transferred (1.4.2002) by [S.I. 2001/3962](https://www.legislation.gov.uk/uksi/2001/3962), [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2001/3962/article/3/2/d)
 
-[^key-26fab254cc9206732f0bcc3d1e160d93]: Textual amendment: Sch. 1 para. 1 substituted (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 4 para. 10(2)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/4/paragraph/10/2); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ff)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ff)
+[^c-26fab254cc9206732f0bcc3d1e160d93]: Textual amendment: Sch. 1 para. 1 substituted (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 4 para. 10(2)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/4/paragraph/10/2); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ff)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ff)
 
-[^key-18adc2bdab361eee2031bdf802e823a3]: Textual amendment: Sch. 1 para. 2 substituted (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 4 para. 10(3)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/4/paragraph/10/3); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ff)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ff)
+[^c-18adc2bdab361eee2031bdf802e823a3]: Textual amendment: Sch. 1 para. 2 substituted (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 4 para. 10(3)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/4/paragraph/10/3); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ff)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ff)
 
-[^key-7c7190209bfee7bbd717109893c12ed8]: Textual amendment: Sch. 1 para. 3, 4 substituted for Sch. 1 paras. 3-5 (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 4 para. 10(4)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/4/paragraph/10/4); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ff)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ff)
+[^c-7c7190209bfee7bbd717109893c12ed8]: Textual amendment: Sch. 1 para. 3, 4 substituted for Sch. 1 paras. 3-5 (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 4 para. 10(4)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/4/paragraph/10/4); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ff)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ff)
 
 [^c12809321]: Textual amendment: Sch. 1 para. 6 omitted (1.4.2002) by virtue of [S.I. 2001/3962](https://www.legislation.gov.uk/uksi/2001/3962), [art. 9](https://www.legislation.gov.uk/uksi/2001/3962/article/9), [Sch. 2 para. 14(7)](https://www.legislation.gov.uk/uksi/2001/3962/schedule/2/paragraph/14/7)
 
-[^key-6106338d2fd53bdd8ca9af779122d9d3]: Textual amendment: Words in Sch. 1 para. 7 substituted (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 4 para. 10(5)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/4/paragraph/10/5); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ff)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ff)
+[^c-6106338d2fd53bdd8ca9af779122d9d3]: Textual amendment: Words in Sch. 1 para. 7 substituted (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 4 para. 10(5)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/4/paragraph/10/5); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ff)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ff)
 
-[^key-3cbe7e1f35431a73984fa872b0cea072]: Textual amendment: Sch. 1 Pt. 2 repealed (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 4 para. 10(6)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/4/paragraph/10/6), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/20/schedule/7/part/3); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ff)(hh)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ff/hh)
+[^c-3cbe7e1f35431a73984fa872b0cea072]: Textual amendment: Sch. 1 Pt. 2 repealed (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 4 para. 10(6)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/4/paragraph/10/6), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/20/schedule/7/part/3); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ff)(hh)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ff/hh)

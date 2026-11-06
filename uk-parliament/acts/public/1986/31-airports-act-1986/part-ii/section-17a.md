@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17A. Additional activities of public airport companies[^key-fe006e29acc18ffb62f5cdee958a631f]
+## 17A. Additional activities of public airport companies[^c-fe006e29acc18ffb62f5cdee958a631f]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ and may make different provision for different cases.
 
 ## Annotations
 
-[^key-fe006e29acc18ffb62f5cdee958a631f]: Textual amendment: S. 17A inserted (E.W.) (1.3.2007) by [Civil Aviation Act 2006 (c. 34)](https://www.legislation.gov.uk/ukpga/2006/34), [ss. 5(3)](https://www.legislation.gov.uk/ukpga/2006/34/section/5/3), [14(3)](https://www.legislation.gov.uk/ukpga/2006/34/section/14/3); [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
+[^c-fe006e29acc18ffb62f5cdee958a631f]: Textual amendment: S. 17A inserted (E.W.) (1.3.2007) by [Civil Aviation Act 2006 (c. 34)](https://www.legislation.gov.uk/ukpga/2006/34), [ss. 5(3)](https://www.legislation.gov.uk/ukpga/2006/34/section/5/3), [14(3)](https://www.legislation.gov.uk/ukpga/2006/34/section/14/3); [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)

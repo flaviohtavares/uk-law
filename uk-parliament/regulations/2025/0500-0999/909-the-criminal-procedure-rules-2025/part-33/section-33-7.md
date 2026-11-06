@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.7. Service of documents[^key-53a2f878b30eb86af20b21529e6ba2cb]
+## 33.7. Service of documents[^c-53a2f878b30eb86af20b21529e6ba2cb]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53a2f878b30eb86af20b21529e6ba2cb]: Commencement: [Rule 33.7](https://www.legislation.gov.uk/uksi/2025/909/rule/33.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-53a2f878b30eb86af20b21529e6ba2cb]: Commencement: [Rule 33.7](https://www.legislation.gov.uk/uksi/2025/909/rule/33.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

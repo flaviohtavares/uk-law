@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-cec8a2f4a22e6aa6087149bc9f232b86] The valuer appointed under section 33 is to assess the value of the land in respect of which the right to buy is being exercised as at the date of notice under section 26 of the seller’s proposal to transfer the land.
+(1)[^c-cec8a2f4a22e6aa6087149bc9f232b86] The valuer appointed under section 33 is to assess the value of the land in respect of which the right to buy is being exercised as at the date of notice under section 26 of the seller’s proposal to transfer the land.
 
-(2)[^key-cec8a2f4a22e6aa6087149bc9f232b86] The valuer is to assess the value of the land—
+(2)[^c-cec8a2f4a22e6aa6087149bc9f232b86] The valuer is to assess the value of the land—
 
 - (a) having regard to the value that would be likely to be agreed between a reasonable seller and buyer of such land—
   - (i) assuming that the seller and buyer are, as respects the transaction, willing; and
@@ -45,26 +45,26 @@ summary: ''
   - (ii) any such reduction resulting from the use of any of the land, or changes to the land, for a purpose that is not an agricultural purpose or the carrying out of conservation activities on the land; and
 - (j) taking no account of any fixed equipment owned by the tenant.
 
-(3)[^key-cec8a2f4a22e6aa6087149bc9f232b86] For the purposes of subsection (2)(g)—
+(3)[^c-cec8a2f4a22e6aa6087149bc9f232b86] For the purposes of subsection (2)(g)—
 
 - (a) subject to paragraph (b), “**improvements**” is to be construed by reference to Schedule 5 to the 1991 Act; and
 - (b) the continuous adoption by the tenant of a standard of farming or a system of farming more beneficial to the land than the standard or system required by the lease or, in so far as no system of farming is so required, than the system of farming normally practised on comparable agricultural land in the district, is to be treated as an improvement executed at the tenant’s expense.
 
-(4)[^key-cec8a2f4a22e6aa6087149bc9f232b86] Where land in respect of which the right to buy is being exercised forms part of an estate, the valuer is, in addition to assessing the value of the land under subsection (2), to assess the value representing the difference between—
+(4)[^c-cec8a2f4a22e6aa6087149bc9f232b86] Where land in respect of which the right to buy is being exercised forms part of an estate, the valuer is, in addition to assessing the value of the land under subsection (2), to assess the value representing the difference between—
 
 - (a) the value of the estate were the estate being sold by the seller to a person other than the tenant; and
 - (b) the value of the remainder of the estate (that is to say, the estate less the land in respect of which the right to buy is being exercised) were the remainder being sold by the seller to such a person.
 
-(5)[^key-cec8a2f4a22e6aa6087149bc9f232b86] For the purpose of valuation under subsection (4), where two or more parts of an estate are being bought in exercise of a right to buy under this Part, the valuer may apportion to each such part of the estate (or re-apportion if for any reason the sale of any such part does not proceed) such amount representing the reduction in the value of the estate as the valuer considers equitable.
+(5)[^c-cec8a2f4a22e6aa6087149bc9f232b86] For the purpose of valuation under subsection (4), where two or more parts of an estate are being bought in exercise of a right to buy under this Part, the valuer may apportion to each such part of the estate (or re-apportion if for any reason the sale of any such part does not proceed) such amount representing the reduction in the value of the estate as the valuer considers equitable.
 
-(6)[^key-892ff715baf08ed2b3bc1a79f580446d] The Scottish Ministers may issue guidance (either generally or in respect of a particular class of case) for the purposes of valuation under this section.
+(6)[^c-892ff715baf08ed2b3bc1a79f580446d] The Scottish Ministers may issue guidance (either generally or in respect of a particular class of case) for the purposes of valuation under this section.
 
-(7)[^key-cec8a2f4a22e6aa6087149bc9f232b86] An estate is to be treated, for the purposes of subsections (4) and (5), as comprising—
+(7)[^c-cec8a2f4a22e6aa6087149bc9f232b86] An estate is to be treated, for the purposes of subsections (4) and (5), as comprising—
 
 - (a) any land forming part of the estate and which is being bought in exercise of a right to buy under this Part; and
 - (b) any other land forming part of the estate offered for sale by the seller at the same time as the land mentioned in paragraph (a).
 
-(8)[^key-cec8a2f4a22e6aa6087149bc9f232b86] For the purposes of section 32(2)(b)(i), the price payable by a tenant is—
+(8)[^c-cec8a2f4a22e6aa6087149bc9f232b86] For the purposes of section 32(2)(b)(i), the price payable by a tenant is—
 
 - (a) the value assessed under subsection (2); or
 - (b) where the land forms part of an estate, the greater of the values assessed under—
@@ -73,6 +73,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cec8a2f4a22e6aa6087149bc9f232b86]: Commencement: S. 34(1)-(5) (7) (8) in force at 15.12.2004 by [S.S.I. 2004/511](https://www.legislation.gov.uk/ssi/2004/511), [art. 2](https://www.legislation.gov.uk/ssi/2004/511/article/2)
+[^c-cec8a2f4a22e6aa6087149bc9f232b86]: Commencement: S. 34(1)-(5) (7) (8) in force at 15.12.2004 by [S.S.I. 2004/511](https://www.legislation.gov.uk/ssi/2004/511), [art. 2](https://www.legislation.gov.uk/ssi/2004/511/article/2)
 
-[^key-892ff715baf08ed2b3bc1a79f580446d]: Commencement: S. 34(6) in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(b)(v)](https://www.legislation.gov.uk/ssi/2003/548/article/2/b/v) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-892ff715baf08ed2b3bc1a79f580446d]: Commencement: S. 34(6) in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(b)(v)](https://www.legislation.gov.uk/ssi/2003/548/article/2/b/v) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

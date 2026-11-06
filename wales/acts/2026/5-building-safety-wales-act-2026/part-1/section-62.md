@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Regulations about warning notices[^key-6e8318444968f304c5783e15f8221586]
+## 62. Regulations about warning notices[^c-6e8318444968f304c5783e15f8221586]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ The Welsh Ministers may by regulations make further provision about warning noti
 
 ## Annotations
 
-[^key-6e8318444968f304c5783e15f8221586]: Commencement: S. 62 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-6e8318444968f304c5783e15f8221586]: Commencement: S. 62 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

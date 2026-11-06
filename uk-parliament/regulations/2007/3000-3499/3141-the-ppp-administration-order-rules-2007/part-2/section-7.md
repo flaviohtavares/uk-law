@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Filing of petition[^key-e2e20092ac9a6e2fdb7db2ba9c15cc8a]
+## 7. Filing of petition[^c-e2e20092ac9a6e2fdb7db2ba9c15cc8a]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2e20092ac9a6e2fdb7db2ba9c15cc8a]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2007/3141/rule/7) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-e2e20092ac9a6e2fdb7db2ba9c15cc8a]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2007/3141/rule/7) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

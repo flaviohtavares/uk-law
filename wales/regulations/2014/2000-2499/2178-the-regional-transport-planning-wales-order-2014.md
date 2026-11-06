@@ -31,7 +31,7 @@ summary: ''
 
 Transport, Wales
 
-The Regional Transport Planning (Wales) Order 2014 (revoked)[^key-de626e241db076106fb3c8eba648a31d]
+The Regional Transport Planning (Wales) Order 2014 (revoked)[^c-de626e241db076106fb3c8eba648a31d]
 
 Made
 
@@ -45,32 +45,32 @@ Coming into force
 
 4 September 2014
 
-[^key-de626e241db076106fb3c8eba648a31d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de626e241db076106fb3c8eba648a31d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-de626e241db076106fb3c8eba648a31d]
+## 1. Title, commencement and application[^c-de626e241db076106fb3c8eba648a31d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-de626e241db076106fb3c8eba648a31d]
+## 2. Interpretation[^c-de626e241db076106fb3c8eba648a31d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Modification of obligation to produce local transport plans under section 108 of the 2000 Act[^key-de626e241db076106fb3c8eba648a31d]
+## 3. Modification of obligation to produce local transport plans under section 108 of the 2000 Act[^c-de626e241db076106fb3c8eba648a31d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation of the Regional Transport Planning (Wales) Order 2006[^key-de626e241db076106fb3c8eba648a31d]
+## 4. Revocation of the Regional Transport Planning (Wales) Order 2006[^c-de626e241db076106fb3c8eba648a31d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-de626e241db076106fb3c8eba648a31d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de626e241db076106fb3c8eba648a31d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-de626e241db076106fb3c8eba648a31d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de626e241db076106fb3c8eba648a31d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-de626e241db076106fb3c8eba648a31d]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2014/2178) revoked (28.2.2022) by [The Corporate Joint Committees (Transport Functions) (Consequential Modifications and Transitional Provisions) (Wales) Regulations 2022 (S.I. 2022/188)](https://www.legislation.gov.uk/wsi/2022/188), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/188/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2022/188/regulation/5)
+[^c-de626e241db076106fb3c8eba648a31d]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2014/2178) revoked (28.2.2022) by [The Corporate Joint Committees (Transport Functions) (Consequential Modifications and Transitional Provisions) (Wales) Regulations 2022 (S.I. 2022/188)](https://www.legislation.gov.uk/wsi/2022/188), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/188/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2022/188/regulation/5)

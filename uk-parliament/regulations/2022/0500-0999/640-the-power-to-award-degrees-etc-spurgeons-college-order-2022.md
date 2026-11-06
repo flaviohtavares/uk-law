@@ -31,7 +31,7 @@ summary: ''
 
 Education, England
 
-The Power to Award Degrees etc. (Spurgeon’s College) Order 2022 (revoked)[^key-a013ede0731b0bc4080947d5ed4c2ea8]
+The Power to Award Degrees etc. (Spurgeon’s College) Order 2022 (revoked)[^c-a013ede0731b0bc4080947d5ed4c2ea8]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into force
 
 1st September 2022
 
-[^key-a013ede0731b0bc4080947d5ed4c2ea8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a013ede0731b0bc4080947d5ed4c2ea8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a013ede0731b0bc4080947d5ed4c2ea8]
+## 1. Citation and commencement[^c-a013ede0731b0bc4080947d5ed4c2ea8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Competence to grant awards[^key-a013ede0731b0bc4080947d5ed4c2ea8]
+## 2. Competence to grant awards[^c-a013ede0731b0bc4080947d5ed4c2ea8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a013ede0731b0bc4080947d5ed4c2ea8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a013ede0731b0bc4080947d5ed4c2ea8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a013ede0731b0bc4080947d5ed4c2ea8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a013ede0731b0bc4080947d5ed4c2ea8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a013ede0731b0bc4080947d5ed4c2ea8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a013ede0731b0bc4080947d5ed4c2ea8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a013ede0731b0bc4080947d5ed4c2ea8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2022/640) revoked (27.4.2026) by [The Power to Award Degrees etc. (Spurgeon’s College) (Revocation) Order 2026 (S.I. 2026/394)](https://www.legislation.gov.uk/uksi/2026/394), [arts. 1](https://www.legislation.gov.uk/uksi/2026/394/article/1), [2](https://www.legislation.gov.uk/uksi/2026/394/article/2)
+[^c-a013ede0731b0bc4080947d5ed4c2ea8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2022/640) revoked (27.4.2026) by [The Power to Award Degrees etc. (Spurgeon’s College) (Revocation) Order 2026 (S.I. 2026/394)](https://www.legislation.gov.uk/uksi/2026/394), [arts. 1](https://www.legislation.gov.uk/uksi/2026/394/article/1), [2](https://www.legislation.gov.uk/uksi/2026/394/article/2)

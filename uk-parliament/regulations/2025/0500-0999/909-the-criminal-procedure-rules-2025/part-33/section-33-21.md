@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.21. Compensation – confiscation order made against absconder[^key-7db9960b3454e60a3e25d90c5576b0d8]
+## 33.21. Compensation – confiscation order made against absconder[^c-7db9960b3454e60a3e25d90c5576b0d8]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7db9960b3454e60a3e25d90c5576b0d8]: Commencement: [Rule 33.21](https://www.legislation.gov.uk/uksi/2025/909/rule/33.21) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-7db9960b3454e60a3e25d90c5576b0d8]: Commencement: [Rule 33.21](https://www.legislation.gov.uk/uksi/2025/909/rule/33.21) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00811]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).

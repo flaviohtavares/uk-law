@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Offences dealt with before commencement[^key-69331397ede644962670e5d5a35ef311]
+## 43. Offences dealt with before commencement[^c-69331397ede644962670e5d5a35ef311]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69331397ede644962670e5d5a35ef311]: Commencement: S. 43 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/a)
+[^c-69331397ede644962670e5d5a35ef311]: Commencement: S. 43 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/a)

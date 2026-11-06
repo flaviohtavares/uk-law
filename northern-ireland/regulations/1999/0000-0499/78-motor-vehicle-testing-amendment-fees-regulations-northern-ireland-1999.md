@@ -30,7 +30,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-Motor Vehicle Testing (Amendment) (Fees) Regulations (Northern Ireland) 1999 (revoked)[^key-3e9cec217bd832f21bd043a6d0d95358]
+Motor Vehicle Testing (Amendment) (Fees) Regulations (Northern Ireland) 1999 (revoked)[^c-3e9cec217bd832f21bd043a6d0d95358]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into operation
 
 1st April 1999
 
-[^key-3e9cec217bd832f21bd043a6d0d95358]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e9cec217bd832f21bd043a6d0d95358]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3e9cec217bd832f21bd043a6d0d95358]
+## 1. Citation and commencement[^c-3e9cec217bd832f21bd043a6d0d95358]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Motor Vehicle Testing Regulations (Northern Ireland) 1995[^key-3e9cec217bd832f21bd043a6d0d95358]
+## 2. Amendment of the Motor Vehicle Testing Regulations (Northern Ireland) 1995[^c-3e9cec217bd832f21bd043a6d0d95358]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3e9cec217bd832f21bd043a6d0d95358]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e9cec217bd832f21bd043a6d0d95358]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3e9cec217bd832f21bd043a6d0d95358]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e9cec217bd832f21bd043a6d0d95358]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3e9cec217bd832f21bd043a6d0d95358]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/78) revoked (1.8.2003) by [Motor Vehicle Testing Regulations (Northern Ireland) 2003 (S.R. 2003/303)](https://www.legislation.gov.uk/nisr/2003/303), [regs. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1), [24](https://www.legislation.gov.uk/nisr/2003/303/regulation/24), [Sch. 4](https://www.legislation.gov.uk/nisr/2003/303/schedule/4)
+[^c-3e9cec217bd832f21bd043a6d0d95358]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/78) revoked (1.8.2003) by [Motor Vehicle Testing Regulations (Northern Ireland) 2003 (S.R. 2003/303)](https://www.legislation.gov.uk/nisr/2003/303), [regs. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1), [24](https://www.legislation.gov.uk/nisr/2003/303/regulation/24), [Sch. 4](https://www.legislation.gov.uk/nisr/2003/303/schedule/4)

@@ -84,11 +84,11 @@ hereby make the following Regulations:
   - (c) in Northern Ireland, a court of summary jurisdiction;
 - “**authorised person**” has the meaning given by section 31(2) of the 2000 Act;
 - “**the Authority**” means the Financial Services Authority;
-- “the Banking Consolidation Directive”[^key-7dbe14d130f7731e030795179222169a] means Directive [2006/48/EC](https://www.legislation.gov.uk/eudr/2006/48) of the European Parliament and of the Council of 14 June 2006 relating to the taking up and pursuit of the business of credit institutions;
+- “the Banking Consolidation Directive”[^c-7dbe14d130f7731e030795179222169a] means Directive [2006/48/EC](https://www.legislation.gov.uk/eudr/2006/48) of the European Parliament and of the Council of 14 June 2006 relating to the taking up and pursuit of the business of credit institutions;
 - “**business relationship**” means any arrangement the purpose of which is to facilitate the carrying out of transactions on a frequent, habitual or regular basis where the total amount of any payments to be made by any person to any other in the course of the arrangement is not known or capable of being ascertained at the outset;
 - “**cash**” means notes, coins or travellers' cheques in any currency;
 - “**the Commissioners**” means the Commissioners of Customs and Excise;
-- “**constable**” includes a person commissioned by the Commissioners and a person authorised for the purposes of these Regulations by the Director General of the Serious Organised Crime Agency[^key-8a9b45b10b759be3621adf290906006f];
+- “**constable**” includes a person commissioned by the Commissioners and a person authorised for the purposes of these Regulations by the Director General of the Serious Organised Crime Agency[^c-8a9b45b10b759be3621adf290906006f];
 - “**EEA State**” means a State which is a contracting party to the agreement on the European Economic Area signed at Oporto on 2nd May 1992 as it has effect for the time being;
 - [^c5213871]“**estate agency work**” has the meaning given by section 1 of the Estate Agents Act 1979 save for the omission of the words “(including a business in which he is employed)” in subsection (1) and includes a case where, in relation to a disposal or acquisition, the person acts as principal;
 - “**high value dealer**” means a person who carries on the activity mentioned in paragraph (2)(n);
@@ -118,7 +118,7 @@ hereby make the following Regulations:
   - (ii) effecting or carrying out contracts of long-term insurance when carried on by a person who has received official authorisation pursuant to Article 4 or 51 of the Life Assurance Consolidation Directive;
   - (iii) dealing in investments as principal or as agent;
   - (iv) arranging deals in investments;
-  - (iva)[^key-57e20df0f6f31a60643c1ed985fc715a] operating a multilateral trading facility;
+  - (iva)[^c-57e20df0f6f31a60643c1ed985fc715a] operating a multilateral trading facility;
   - (v) managing investments;
   - (vi) safeguarding and administering investments;
   - (vii) sending dematerialised instructions;
@@ -148,7 +148,7 @@ hereby make the following Regulations:
 - (e) activities carried on by the Bank of England;
 - (f) any activity in respect of which an exemption order under section 38 of the 2000 Act has effect if it is carried on by a person who is for the time being specified in the order or falls within a class of persons so specified;
 - (g) any activity (other than one falling within sub-paragraph (f)) in respect of which a person was an exempted person for the purposes of section 45 of the Financial Services Act 1986 [^c5214011] immediately before its repeal;
-- (h) the regulated activities of arranging deals in investments or advising on investments, in so far as the investment consists of rights under a regulated mortgage contract, rights under a regulated home reversion plan or rights under a regulated home purchase plan[^key-dab3feae3bcd615bbd89e658f8f35e94];
+- (h) the regulated activities of arranging deals in investments or advising on investments, in so far as the investment consists of rights under a regulated mortgage contract, rights under a regulated home reversion plan or rights under a regulated home purchase plan[^c-dab3feae3bcd615bbd89e658f8f35e94];
 - (i) the regulated activities of dealing in investments as agent, arranging deals in investments, managing investments or advising on investments, in so far as the investment consists of rights under, or any right to or interest in, a contract of insurance which is not a qualifying contract of insurance; or
 - (j) the Official Solicitor to the Supreme Court when acting as trustee in his official capacity.
 
@@ -291,9 +291,9 @@ hereby make the following Regulations:
 (1) A must maintain internal reporting procedures which require that—
 
 - (a) a person in A’s organisation is nominated to receive disclosures under this regulation (“the nominated officer”);
-- (b) anyone in A’s organisation to whom information or other matter comes in the course of relevant business as a result of which he knows or suspects or has reasonable grounds for knowing or suspecting that a person is engaged in money laundering must, as soon as is practicable after the information or other matter comes to him, disclose it to the nominated officer or a person authorised for the purposes of these Regulations by the Director General of the Serious Organised Crime Agency[^key-9d55fc3aaa463eda516aa3b88b2d1606];
+- (b) anyone in A’s organisation to whom information or other matter comes in the course of relevant business as a result of which he knows or suspects or has reasonable grounds for knowing or suspecting that a person is engaged in money laundering must, as soon as is practicable after the information or other matter comes to him, disclose it to the nominated officer or a person authorised for the purposes of these Regulations by the Director General of the Serious Organised Crime Agency[^c-9d55fc3aaa463eda516aa3b88b2d1606];
 - (c) where a disclosure is made to the nominated officer, he must consider it in the light of any relevant information which is available to A and determine whether it gives rise to such knowledge or suspicion or such reasonable grounds for knowledge or suspicion; and
-- (d) where the nominated officer does so determine, the information or other matter must be disclosed to a person authorised for the purposes of these Regulations by the Director General of the Serious Organised Crime Agency[^key-4605b918d7097027fbc8f23ec4c4cf2e].
+- (d) where the nominated officer does so determine, the information or other matter must be disclosed to a person authorised for the purposes of these Regulations by the Director General of the Serious Organised Crime Agency[^c-4605b918d7097027fbc8f23ec4c4cf2e].
 
 (2) Paragraph (1) does not apply where A is an individual who neither employs nor acts in association with any other person.
 
@@ -776,7 +776,7 @@ Regulation 29
 
 #### The Representation of the People (Northern Ireland) Regulations 2001 (S.I. 2001/400)
 
-**6.**[^key-e2953c732d786fd95bea3ca0a9e72772] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e2953c732d786fd95bea3ca0a9e72772] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Representation of the People (Scotland) Regulations 2001 (S.I. 2001/497)
 
@@ -821,9 +821,9 @@ Regulation 26 requires supervisory authorities (defined in regulation 2) and var
 
 [^c5213851]: Marginal citation: [S.I. 2001/3641](https://www.legislation.gov.uk/uksi/2001/3641).
 
-[^key-7dbe14d130f7731e030795179222169a]: Textual amendment: Words in reg. 2 substituted (1.1.2007) by [The Capital Requirements Regulations 2006 (S.I. 2006/3221)](https://www.legislation.gov.uk/uksi/2006/3221), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/3221/regulation/1/1), [Sch. 6 para. 15](https://www.legislation.gov.uk/uksi/2006/3221/schedule/6/paragraph/15)
+[^c-7dbe14d130f7731e030795179222169a]: Textual amendment: Words in reg. 2 substituted (1.1.2007) by [The Capital Requirements Regulations 2006 (S.I. 2006/3221)](https://www.legislation.gov.uk/uksi/2006/3221), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/3221/regulation/1/1), [Sch. 6 para. 15](https://www.legislation.gov.uk/uksi/2006/3221/schedule/6/paragraph/15)
 
-[^key-8a9b45b10b759be3621adf290906006f]: Textual amendment: Words in reg. 2(1) substituted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 38(2)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/38/2)
+[^c-8a9b45b10b759be3621adf290906006f]: Textual amendment: Words in reg. 2(1) substituted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 38(2)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/38/2)
 
 [^c5213871]: Marginal citation: [1979 c. 38](https://www.legislation.gov.uk/ukpga/1979/38). Section 1 was amended by the [Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73)](https://www.legislation.gov.uk/ukpga/1985/73), [Schedule 1](https://www.legislation.gov.uk/ukpga/1985/73/schedule/1), Pt I, [para. 40](https://www.legislation.gov.uk/ukpga/1985/73/paragraph/40), the [Planning (Consequential Provisions) Act 1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11), [Schedule 2](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2), [para. 42](https://www.legislation.gov.uk/ukpga/1990/11/paragraph/42), the [Planning (Consequential Provisions) (Scotland) Act 1997 (c. 11)](https://www.legislation.gov.uk/ukpga/1997/11), [Schedule 2](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2), [para. 28](https://www.legislation.gov.uk/ukpga/1997/11/paragraph/28) and by [S.I. 2001/1283](https://www.legislation.gov.uk/uksi/2001/1283).
 
@@ -839,7 +839,7 @@ Regulation 26 requires supervisory authorities (defined in regulation 2) and var
 
 [^c5213931]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
 
-[^key-57e20df0f6f31a60643c1ed985fc715a]: Textual amendment: Reg. 2(2)(a)(iva) inserted (1.4.2007 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment No. 3) Order 2006 (S.I. 2006/3384)](https://www.legislation.gov.uk/uksi/2006/3384), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/3384/article/1/2), [39](https://www.legislation.gov.uk/uksi/2006/3384/article/39)
+[^c-57e20df0f6f31a60643c1ed985fc715a]: Textual amendment: Reg. 2(2)(a)(iva) inserted (1.4.2007 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment No. 3) Order 2006 (S.I. 2006/3384)](https://www.legislation.gov.uk/uksi/2006/3384), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/3384/article/1/2), [39](https://www.legislation.gov.uk/uksi/2006/3384/article/39)
 
 [^c5213941]: Marginal citation: [1968 c. 13](https://www.legislation.gov.uk/ukpga/1968/13).
 
@@ -857,13 +857,13 @@ Regulation 26 requires supervisory authorities (defined in regulation 2) and var
 
 [^c5214011]: Marginal citation: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60). This Act was repealed as from 1st December 2001 by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2001/3649/article/3/1/c).
 
-[^key-dab3feae3bcd615bbd89e658f8f35e94]: Textual amendment: Words in reg. 2(3)(h) inserted (6.11.2006 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2006 (S.I. 2006/2383)](https://www.legislation.gov.uk/uksi/2006/2383), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2), [33](https://www.legislation.gov.uk/uksi/2006/2383/article/33)
+[^c-dab3feae3bcd615bbd89e658f8f35e94]: Textual amendment: Words in reg. 2(3)(h) inserted (6.11.2006 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2006 (S.I. 2006/2383)](https://www.legislation.gov.uk/uksi/2006/2383), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2), [33](https://www.legislation.gov.uk/uksi/2006/2383/article/33)
 
 [^c5214021]: Marginal citation: [Section 21A](https://www.legislation.gov.uk/uksi/2003/3075/section/21A) was inserted by the Anti-terrorism, [Crime and Security Act 2001 (c. 24)](https://www.legislation.gov.uk/ukpga/2001/24), [Schedule 2](https://www.legislation.gov.uk/ukpga/2001/24/schedule/2), [Part 3](https://www.legislation.gov.uk/ukpga/2001/24/part/3), [para. 5](https://www.legislation.gov.uk/ukpga/2001/24/paragraph/5).
 
-[^key-9d55fc3aaa463eda516aa3b88b2d1606]: Textual amendment: Words in [reg. 7(1)(b)](https://www.legislation.gov.uk/uksi/2003/3075/regulation/7/1/b) substituted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 38(3)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/38/3)
+[^c-9d55fc3aaa463eda516aa3b88b2d1606]: Textual amendment: Words in [reg. 7(1)(b)](https://www.legislation.gov.uk/uksi/2003/3075/regulation/7/1/b) substituted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 38(3)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/38/3)
 
-[^key-4605b918d7097027fbc8f23ec4c4cf2e]: Textual amendment: Words in [reg. 7(1)(d)](https://www.legislation.gov.uk/uksi/2003/3075/regulation/7/1/d) substituted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 38(3)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/38/3)
+[^c-4605b918d7097027fbc8f23ec4c4cf2e]: Textual amendment: Words in [reg. 7(1)(d)](https://www.legislation.gov.uk/uksi/2003/3075/regulation/7/1/d) substituted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 38(3)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/38/3)
 
 [^c5214031]: Marginal citation: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
@@ -879,6 +879,6 @@ Regulation 26 requires supervisory authorities (defined in regulation 2) and var
 
 [^c5214091]: Marginal citation: Inserted by regulation 15 of the [Representation of the People (England and Wales) (Amendment) Regulations 2002 (S.I. 2002/1871)](https://www.legislation.gov.uk/uksi/2002/1871).
 
-[^key-e2953c732d786fd95bea3ca0a9e72772]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2003/3075/schedule/2/paragraph/6) revoked (1.7.2008) by [The Representation of the People (Northern Ireland) Regulations 2008 (S.I. 2008/1741)](https://www.legislation.gov.uk/uksi/2008/1741), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1741/schedule/2)
+[^c-e2953c732d786fd95bea3ca0a9e72772]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2003/3075/schedule/2/paragraph/6) revoked (1.7.2008) by [The Representation of the People (Northern Ireland) Regulations 2008 (S.I. 2008/1741)](https://www.legislation.gov.uk/uksi/2008/1741), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1741/schedule/2)
 
 [^c5214111]: Marginal citation: Inserted by regulation 14 of the [Representation of the People (Scotland) (Amendment) Regulations 2002 (S.I. 2002/1872)](https://www.legislation.gov.uk/uksi/2002/1872).

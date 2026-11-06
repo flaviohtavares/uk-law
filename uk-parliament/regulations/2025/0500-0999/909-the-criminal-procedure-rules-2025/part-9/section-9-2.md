@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9.2. Exercise of magistrates’ court’s powers[^key-21d7d443ba5bb077973c8009de4c49fc]
+## 9.2. Exercise of magistrates’ court’s powers[^c-21d7d443ba5bb077973c8009de4c49fc]
 
 *Extent: E+W*
 
@@ -85,7 +85,7 @@ the court must deal again with each one whom, on that occasion, it has allocated
 
 ## Annotations
 
-[^key-21d7d443ba5bb077973c8009de4c49fc]: Commencement: [Rule 9.2](https://www.legislation.gov.uk/uksi/2025/909/rule/9.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-21d7d443ba5bb077973c8009de4c49fc]: Commencement: [Rule 9.2](https://www.legislation.gov.uk/uksi/2025/909/rule/9.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00261]: Footnote: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37); section 52 was amended by paragraphs 68 and 69 of Schedule 3 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 

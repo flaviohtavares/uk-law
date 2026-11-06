@@ -22,7 +22,7 @@ summary: ''
 
 Section 108
 
-**1.**[^M_I_389bfa71-0215-4b4f-a34f-bff37bf8ea19][^key-49fb263274090826555b3174e866397c] (1) Section 13A(2) of FA 1994 (meaning of “**relevant decision**”) is amended as follows.
+**1.**[^M_I_389bfa71-0215-4b4f-a34f-bff37bf8ea19][^c-49fb263274090826555b3174e866397c] (1) Section 13A(2) of FA 1994 (meaning of “**relevant decision**”) is amended as follows.
 
 (2) In paragraph (c), for “section 8, 10, 11 or 36G of the Alcoholic Liquor Duties Act 1979,” substitute “section 52, 60, 78 or 79 of Part 2 of the Finance (No. 2) Act 2023 (alcohol duty),”.
 
@@ -33,9 +33,9 @@ Section 108
 
 .
 
-(4)[^key-af2ac6efa01944315bd308aa040455d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-af2ac6efa01944315bd308aa040455d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^M_I_5608b6db-405a-4cf4-a661-e5a95e5ed027][^key-ab5eb19d23cfc947549a53ccc60e11a3] In Schedule 5 to FA 1994 (decisions subject to review and appeal), for paragraph 3 (and the heading immediately preceding it) substitute—
+**2.**[^M_I_5608b6db-405a-4cf4-a661-e5a95e5ed027][^c-ab5eb19d23cfc947549a53ccc60e11a3] In Schedule 5 to FA 1994 (decisions subject to review and appeal), for paragraph 3 (and the heading immediately preceding it) substitute—
 
 > **3. Part 2 of the Finance (No. 2) Act 2023 (alcohol duty)**
 >
@@ -82,10 +82,10 @@ Section 108
 
 [^M_I_389bfa71-0215-4b4f-a34f-bff37bf8ea19]: Commencement: Sch. 11 para. 1 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-49fb263274090826555b3174e866397c]: Commencement: Sch. 11 para. 1 in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/f) (with [reg. 3(2)-(4)](https://www.legislation.gov.uk/uksi/2023/884/regulation/3/2), [10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-49fb263274090826555b3174e866397c]: Commencement: Sch. 11 para. 1 in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/f) (with [reg. 3(2)-(4)](https://www.legislation.gov.uk/uksi/2023/884/regulation/3/2), [10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
 
-[^key-af2ac6efa01944315bd308aa040455d6]: Textual amendment: Sch. 11 para. 1(4) omitted (1.5.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(2)(e)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/2/e)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/4) (with [s. 64(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/6))
+[^c-af2ac6efa01944315bd308aa040455d6]: Textual amendment: Sch. 11 para. 1(4) omitted (1.5.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(2)(e)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/2/e)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/4) (with [s. 64(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/6))
 
 [^M_I_5608b6db-405a-4cf4-a661-e5a95e5ed027]: Commencement: Sch. 11 para. 2 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-ab5eb19d23cfc947549a53ccc60e11a3]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2023/30/schedule/11/paragraph/2) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/f) (with [reg. 3(2)-(4)](https://www.legislation.gov.uk/uksi/2023/884/regulation/3/2), [10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-ab5eb19d23cfc947549a53ccc60e11a3]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2023/30/schedule/11/paragraph/2) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/f) (with [reg. 3(2)-(4)](https://www.legislation.gov.uk/uksi/2023/884/regulation/3/2), [10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. The Court Martial[^key-d7ce510c96682c54a8db5b682c5ec929][^key-b1299d01f04ae3b7a4cb083dc3f0ae03]
+## 154. The Court Martial[^c-d7ce510c96682c54a8db5b682c5ec929][^c-b1299d01f04ae3b7a4cb083dc3f0ae03]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d7ce510c96682c54a8db5b682c5ec929]: Commencement: S. 154 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-d7ce510c96682c54a8db5b682c5ec929]: Commencement: S. 154 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-b1299d01f04ae3b7a4cb083dc3f0ae03]: Commencement: S. 154 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-b1299d01f04ae3b7a4cb083dc3f0ae03]: Commencement: S. 154 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99A. Finance: reporting obligations for required payments[^key-727e51cdf3bec7d82dc84e92b3388d09]
+## 99A. Finance: reporting obligations for required payments[^c-727e51cdf3bec7d82dc84e92b3388d09]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-727e51cdf3bec7d82dc84e92b3388d09]: Textual amendment: [Reg. 99A](https://www.legislation.gov.uk/uksi/2019/411/regulation/99A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [3(13)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/3/13)
+[^c-727e51cdf3bec7d82dc84e92b3388d09]: Textual amendment: [Reg. 99A](https://www.legislation.gov.uk/uksi/2019/411/regulation/99A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [3(13)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/3/13)

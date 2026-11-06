@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-5415f116c61031141401c016b614d12f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-5415f116c61031141401c016b614d12f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The provision set out in subsection (1) above shall be added at the end of section 62 of the [^c13527341]Finance Act 1976 as subsection (9) with the substitution—
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5415f116c61031141401c016b614d12f]: Textual amendment: [S. 49(1)](https://www.legislation.gov.uk/ukpga/1988/39/section/49/1) repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-5415f116c61031141401c016b614d12f]: Textual amendment: [S. 49(1)](https://www.legislation.gov.uk/ukpga/1988/39/section/49/1) repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
 [^c13527341]: Marginal citation: [1976 c. 40](https://www.legislation.gov.uk/ukpga/1976/40).

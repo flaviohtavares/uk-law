@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Terms on which assistance under s. 149 is given[^key-d61205119a3c6f3726ff438fffcf9853]
+## 152. Terms on which assistance under s. 149 is given[^c-d61205119a3c6f3726ff438fffcf9853]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d61205119a3c6f3726ff438fffcf9853]: Commencement: [S. 152](https://www.legislation.gov.uk/ukpga/2008/14/section/152) in force at 1.4.2009 by [S.I. 2008/2994](https://www.legislation.gov.uk/uksi/2008/2994), [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2008/2994/article/3/2/d)
+[^c-d61205119a3c6f3726ff438fffcf9853]: Commencement: [S. 152](https://www.legislation.gov.uk/ukpga/2008/14/section/152) in force at 1.4.2009 by [S.I. 2008/2994](https://www.legislation.gov.uk/uksi/2008/2994), [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2008/2994/article/3/2/d)

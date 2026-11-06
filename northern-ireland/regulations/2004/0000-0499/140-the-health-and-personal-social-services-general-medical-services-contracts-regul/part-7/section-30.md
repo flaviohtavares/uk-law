@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Out of hours services[^key-e289af1e12e1382cc6c43549d16ec807]
+## 30. Out of hours services[^c-e289af1e12e1382cc6c43549d16ec807]
 
 *Extent: N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 - (a) the services which must be provided in core hours under regulation 15; and
 - (b) such additional services as are included in the contract pursuant to regulation 29.
 
-**31.**[^key-7dae4bbdbb9316e6ee33586286b0d02c] (1) Where the contract is with –
+**31.**[^c-7dae4bbdbb9316e6ee33586286b0d02c] (1) Where the contract is with –
 
 - (a) an individual medical practitioner who is, or was on 31st March 2004, responsible for providing services during all or part of the out of hours period to the patients of a medical practitioner who meets the requirements in paragraph (2);
 - (b) two or more individuals practising in partnership at least one of whom is, or was on 31st March 2004, a medical practitioner responsible for providing such services; or
@@ -58,14 +58,14 @@ the contract with that contractor must require the contractor to continue to pro
 
 (4) In this regulation “exempt contractor” means a contractor who is exempt from providing out of hours services pursuant to regulation 30(1)(b).
 
-**32.**[^key-0f8e5715589793c1de9038789a07bcfa] A contract which includes the provision of out of hours services pursuant to regulation 30 or 31 must contain terms which have the same effect as those set out in Schedule 6.
+**32.**[^c-0f8e5715589793c1de9038789a07bcfa] A contract which includes the provision of out of hours services pursuant to regulation 30 or 31 must contain terms which have the same effect as those set out in Schedule 6.
 
 ## Annotations
 
-[^key-e289af1e12e1382cc6c43549d16ec807]: Commencement: Reg. 30 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-e289af1e12e1382cc6c43549d16ec807]: Commencement: Reg. 30 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
 [^f00047]: Footnote: [S.R. 1997 No. 380](https://www.legislation.gov.uk/nisr/1997/380)
 
-[^key-7dae4bbdbb9316e6ee33586286b0d02c]: Commencement: Reg. 31 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-7dae4bbdbb9316e6ee33586286b0d02c]: Commencement: Reg. 31 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-0f8e5715589793c1de9038789a07bcfa]: Commencement: Reg. 32 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-0f8e5715589793c1de9038789a07bcfa]: Commencement: Reg. 32 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)

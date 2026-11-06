@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 188. Powers of disclaimer[^key-33527cd9391c2c86b8ba61a262969fbc]
+## 188. Powers of disclaimer[^c-33527cd9391c2c86b8ba61a262969fbc]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-33527cd9391c2c86b8ba61a262969fbc]: Commencement: [Rule 188](https://www.legislation.gov.uk/uksi/2011/1301/rule/188) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-33527cd9391c2c86b8ba61a262969fbc]: Commencement: [Rule 188](https://www.legislation.gov.uk/uksi/2011/1301/rule/188) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
 [^f00018]: Footnote: [2002 c.9](https://www.legislation.gov.uk/ukpga/2002/9).

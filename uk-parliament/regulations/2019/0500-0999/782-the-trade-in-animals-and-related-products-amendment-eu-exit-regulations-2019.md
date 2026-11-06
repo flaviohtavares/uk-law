@@ -48,13 +48,13 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-8523ed59ed26e555988bc8f4625c20f5]
+### 1. Citation and commencement[^c-8523ed59ed26e555988bc8f4625c20f5]
 
 These Regulations may be cited as the Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 and come into force on exit day.
 
 ## PART 2 — Amendment of secondary legislation that applies in Great Britain
 
-### 2. The Rabies (Importation of Dogs, Cats and Other Mammals) Order 1974[^key-ee54eb9864aca881b713f8959a889515]
+### 2. The Rabies (Importation of Dogs, Cats and Other Mammals) Order 1974[^c-ee54eb9864aca881b713f8959a889515]
 
 (1) The Rabies (Importation of Dogs, Cats and Other Mammals) Order 1974 [^c23693511] is amended as follows.
 
@@ -71,7 +71,7 @@ These Regulations may be cited as the Trade in Animals and Related Products (Ame
   - (ii) for “the requirement” substitute “ a requirement ”;
   - (iii) omit “, as referred to in Article 10(4) of that Directive”.
 
-### 3. The Artificial Insemination of Pigs (EEC) Regulations 1992[^key-2f162fb5dd2f2fcbb21cf294f8095b5c]
+### 3. The Artificial Insemination of Pigs (EEC) Regulations 1992[^c-2f162fb5dd2f2fcbb21cf294f8095b5c]
 
 (1) The Artificial Insemination of Pigs (EEC) Regulations 1992 [^c23693551] are amended as follows.
 
@@ -95,7 +95,7 @@ These Regulations may be cited as the Trade in Animals and Related Products (Ame
 
 (3) In regulation 3, for “another” substitute “ a ”.
 
-### 4. The Animals (Post-Import Control) Order 1995[^key-086a9b5e57bd47a36683eb3e86a1da9e]
+### 4. The Animals (Post-Import Control) Order 1995[^c-086a9b5e57bd47a36683eb3e86a1da9e]
 
 (1) The Animals (Post-Import Control) Order 1995 [^c23693561] is amended as follows.
 
@@ -109,7 +109,7 @@ These Regulations may be cited as the Trade in Animals and Related Products (Ame
 
 (4) Omit Schedules 1 and 3.
 
-### 5. The Bovine Embryo (Collection, Production and Transfer) Regulations 1995[^key-dc3d26e4e3da2c884d4266d29199b480]
+### 5. The Bovine Embryo (Collection, Production and Transfer) Regulations 1995[^c-dc3d26e4e3da2c884d4266d29199b480]
 
 (1) The Bovine Embryo (Collection, Production and Transfer) Regulations 1995 [^c23693571] are amended as follows.
 
@@ -209,7 +209,7 @@ These Regulations may be cited as the Trade in Animals and Related Products (Ame
   ;
 - (b) in paragraph (13), in the first sentence, for “intra-Area” substitute “ national ”.
 
-### 6. The Non-Commercial Movement of Pet Animals Order 2011[^key-bbecc15ba1cac6b4a7f17f07e66a40a8]
+### 6. The Non-Commercial Movement of Pet Animals Order 2011[^c-bbecc15ba1cac6b4a7f17f07e66a40a8]
 
 (1) The Non-Commercial Movement of Pet Animals Order 2011 [^c23693581] is amended as follows.
 
@@ -241,7 +241,7 @@ These Regulations may be cited as the Trade in Animals and Related Products (Ame
 
 *Extent: E+W*
 
-### 7. The Bovine Semen (England) Regulations 2007[^key-57e3d49d2708963737aac202bfafcfee]
+### 7. The Bovine Semen (England) Regulations 2007[^c-57e3d49d2708963737aac202bfafcfee]
 
 (1) The Bovine Semen (England) Regulations 2007 [^c23693601] are amended as follows.
 
@@ -296,7 +296,7 @@ These Regulations may be cited as the Trade in Animals and Related Products (Ame
 
 (11) In Schedule 8, in Part 1, in sub-paragraphs (a)(ii) and (b)(ii), for “another” substitute “ a ”.
 
-### 8. The Trade in Animals and Related Products Regulations 2011[^key-b8ab111bbf558204b4c5a416931a0157]
+### 8. The Trade in Animals and Related Products Regulations 2011[^c-b8ab111bbf558204b4c5a416931a0157]
 
 **Not yet in force.**
 
@@ -320,9 +320,9 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23693501]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-8523ed59ed26e555988bc8f4625c20f5]: Commencement: Reg. 1 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-8523ed59ed26e555988bc8f4625c20f5]: Commencement: Reg. 1 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-ee54eb9864aca881b713f8959a889515]: Commencement: Reg. 2 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-ee54eb9864aca881b713f8959a889515]: Commencement: Reg. 2 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
 [^c23693511]: Marginal citation: [S.I. 1974/2211](https://www.legislation.gov.uk/uksi/1974/2211); relevant amending instruments are [S.I. 2011/2883](https://www.legislation.gov.uk/uksi/2011/2883), 2014/3158, S.S.I 2012/177.
 
@@ -332,26 +332,26 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23693541]: Marginal citation: [S.S.I. 2012/177](https://www.legislation.gov.uk/ssi/2012/177), amended by [S.S.I. 2012/198](https://www.legislation.gov.uk/ssi/2012/198), 199, 2015/100, 401, [S.I. 2014/3158](https://www.legislation.gov.uk/uksi/2014/3158).
 
-[^key-2f162fb5dd2f2fcbb21cf294f8095b5c]: Commencement: Reg. 3 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-2f162fb5dd2f2fcbb21cf294f8095b5c]: Commencement: Reg. 3 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
 [^c23693551]: Marginal citation: [S.I. 1992/3161](https://www.legislation.gov.uk/uksi/1992/3161).
 
-[^key-086a9b5e57bd47a36683eb3e86a1da9e]: Commencement: Reg. 4 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-086a9b5e57bd47a36683eb3e86a1da9e]: Commencement: Reg. 4 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
 [^c23693561]: Marginal citation: [S.I. 1995/2439](https://www.legislation.gov.uk/uksi/1995/2439), to which there are amendments not relevant to these Regulations.
 
-[^key-dc3d26e4e3da2c884d4266d29199b480]: Commencement: Reg. 5 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-dc3d26e4e3da2c884d4266d29199b480]: Commencement: Reg. 5 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
 [^c23693571]: Marginal citation: [S.I. 1995/2478](https://www.legislation.gov.uk/uksi/1995/2478), to which there are amendments not relevant to these Regulations.
 
-[^key-bbecc15ba1cac6b4a7f17f07e66a40a8]: Commencement: Reg. 6 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-bbecc15ba1cac6b4a7f17f07e66a40a8]: Commencement: Reg. 6 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
 [^c23693581]: Marginal citation: [S.I. 2011/2883](https://www.legislation.gov.uk/uksi/2011/2883), amended by [S.I. 2014/3158](https://www.legislation.gov.uk/uksi/2014/3158); there are other amending instruments but none is relevant.
 
 [^c23693591]: Marginal citation: OJ No L 364, 9.12.2004, p. 1.
 
-[^key-57e3d49d2708963737aac202bfafcfee]: Commencement: Reg. 7 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-57e3d49d2708963737aac202bfafcfee]: Commencement: Reg. 7 in force at 31.12.2020 (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
 [^c23693601]: Marginal citation: [S.I. 2007/1319](https://www.legislation.gov.uk/uksi/2007/1319), amended by [S.I. 2011/454](https://www.legislation.gov.uk/uksi/2011/454); there are other amending instruments but none is relevant.
 
-[^key-b8ab111bbf558204b4c5a416931a0157]: Textual amendment: Reg. 8 omitted (31.12.2020 before IP completion day) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/2/a), [36](https://www.legislation.gov.uk/uksi/2020/1462/regulation/36)
+[^c-b8ab111bbf558204b4c5a416931a0157]: Textual amendment: Reg. 8 omitted (31.12.2020 before IP completion day) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/2/a), [36](https://www.legislation.gov.uk/uksi/2020/1462/regulation/36)

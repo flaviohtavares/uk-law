@@ -31,7 +31,7 @@ summary: ''
 
 Education
 
-The General Teaching Council for Scotland (Legal Assessor) Rules 2012 (revoked)[^key-a71c72764380e187cfb57b9e7f574650]
+The General Teaching Council for Scotland (Legal Assessor) Rules 2012 (revoked)[^c-a71c72764380e187cfb57b9e7f574650]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 2nd April 2012
 
-[^key-a71c72764380e187cfb57b9e7f574650]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a71c72764380e187cfb57b9e7f574650]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-a71c72764380e187cfb57b9e7f574650]
+## 1. Citation, commencement and interpretation[^c-a71c72764380e187cfb57b9e7f574650]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Functions of a legal assessor[^key-a71c72764380e187cfb57b9e7f574650]
+## 2. Functions of a legal assessor[^c-a71c72764380e187cfb57b9e7f574650]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-a71c72764380e187cfb57b9e7f574650]
+## 3. Revocation[^c-a71c72764380e187cfb57b9e7f574650]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a71c72764380e187cfb57b9e7f574650]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a71c72764380e187cfb57b9e7f574650]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a71c72764380e187cfb57b9e7f574650]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a71c72764380e187cfb57b9e7f574650]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a71c72764380e187cfb57b9e7f574650]: Textual amendment: [Rules](https://www.legislation.gov.uk/ssi/2012/86) revoked (21.8.2017) by [The General Teaching Council for Scotland (Legal Assessor) Rules 2017 (S.S.I. 2017/239)](https://www.legislation.gov.uk/ssi/2017/239), [rules 1(2)](https://www.legislation.gov.uk/ssi/2017/239/rule/1/2), [4](https://www.legislation.gov.uk/ssi/2017/239/article/4)
+[^c-a71c72764380e187cfb57b9e7f574650]: Textual amendment: [Rules](https://www.legislation.gov.uk/ssi/2012/86) revoked (21.8.2017) by [The General Teaching Council for Scotland (Legal Assessor) Rules 2017 (S.S.I. 2017/239)](https://www.legislation.gov.uk/ssi/2017/239), [rules 1(2)](https://www.legislation.gov.uk/ssi/2017/239/rule/1/2), [4](https://www.legislation.gov.uk/ssi/2017/239/article/4)

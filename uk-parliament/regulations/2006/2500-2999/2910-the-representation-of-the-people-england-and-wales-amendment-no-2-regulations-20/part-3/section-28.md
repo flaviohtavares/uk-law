@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Amendment of regulations 98, 99, 100, 101, 102, 109A, 111 and 112[^key-0f91e777576faefb5155b0c113480f04]
+## 28. Amendment of regulations 98, 99, 100, 101, 102, 109A, 111 and 112[^c-0f91e777576faefb5155b0c113480f04]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In regulations 98, 99, 100, 101, 102, 109A, 111 and 112 after “13B(3)” inser
 
 ## Annotations
 
-[^key-0f91e777576faefb5155b0c113480f04]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2006/2910/regulation/28) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-0f91e777576faefb5155b0c113480f04]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2006/2910/regulation/28) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)

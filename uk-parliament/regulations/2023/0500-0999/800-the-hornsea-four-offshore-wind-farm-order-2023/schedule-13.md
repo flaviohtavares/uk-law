@@ -22,7 +22,7 @@ summary: ''
 
 Article 46
 
-### 1. Schedule 12 to the Dogger Bank Creyke Beck Offshore Wind Farm Order 2015[^key-5e3e0c09e4f65c5906b57eb4b64341ff]
+### 1. Schedule 12 to the Dogger Bank Creyke Beck Offshore Wind Farm Order 2015[^c-5e3e0c09e4f65c5906b57eb4b64341ff]
 
 After Part 5 of Schedule 12 insert a new Part 6—
 
@@ -36,13 +36,13 @@ After Part 5 of Schedule 12 insert a new Part 6—
 >
 > In this Part of this Schedule—
 >
-> - “**acceptable insurance**” means a third party liability insurance effected and maintained by the undertaker to a level of not less than £50,000,000.00[^key-afdecb48398303547d5ad173e9b38a09] (fifty million pounds) (or such lower amount as may be agreed by Hornsea Four) per occurrence or series of occurrences arising out of one event. Such insurance shall be maintained for the construction period of the authorised development which constitute specified works and arranged with an internationally recognised insurer of repute operating in the London and worldwide insurance market underwriters whose security/credit rating meets the same requirements as an “acceptable credit provider”, such policy shall include (but without limitation)—
+> - “**acceptable insurance**” means a third party liability insurance effected and maintained by the undertaker to a level of not less than £50,000,000.00[^c-afdecb48398303547d5ad173e9b38a09] (fifty million pounds) (or such lower amount as may be agreed by Hornsea Four) per occurrence or series of occurrences arising out of one event. Such insurance shall be maintained for the construction period of the authorised development which constitute specified works and arranged with an internationally recognised insurer of repute operating in the London and worldwide insurance market underwriters whose security/credit rating meets the same requirements as an “acceptable credit provider”, such policy shall include (but without limitation)—
 >   - (a) Hornsea Four as a Co-Insured;
 >   - (b) a cross liabilities clause; and
 >   - (c) contractors’ pollution liability for third party property damage and third party bodily damage arising from a pollution/contamination event with cover of £10,000,000.00 (ten million pounds) per event or £20,000,000.00 (twenty million pounds) in aggregate;
 > - “**ground mitigation scheme**” means a scheme approved by Hornsea Four (such approval not to be unreasonably withheld or delayed) setting out the necessary measures (if any) for a ground subsidence event;
 > - “**ground monitoring scheme**” means a scheme for monitoring ground subsidence which sets out the Hornsea Four authorised development which is to be subject to such monitoring, the extent of land to be monitored, the manner in which ground levels are to be monitored, the timescales of any monitoring activities and the extent of ground subsidence which, if exceeded, shall require the undertaker to submit for Hornsea Four’s approval a ground mitigation scheme;
-> - “**ground subsidence event**” means any ground subsidence identified by the monitoring activities set out in the ground monitoring scheme that has exceeded the level described in the ground monitoring scheme as requiring a ground mitigation scheme; [^key-11d6864aef1f2adafe40b540c6a58703]...
+> - “**ground subsidence event**” means any ground subsidence identified by the monitoring activities set out in the ground monitoring scheme that has exceeded the level described in the ground monitoring scheme as requiring a ground mitigation scheme; [^c-11d6864aef1f2adafe40b540c6a58703]...
 > - “**the Hornsea Four authorised development**” means the onshore development authorised by the Hornsea Four Order;
 > - “**the Hornsea Four Order**” means the Hornsea Four Offshore Wind Farm Order 2023;
 > - “**the Hornsea Four Order land**” has the same meaning as the term “Order land” in article 2(1) of the Hornsea Four Order;
@@ -64,7 +64,7 @@ After Part 5 of Schedule 12 insert a new Part 6—
 > - (e) article 19 (authority to survey and investigate land);
 > - (f) article 28 (rights under or over streets);
 > - (g) article 29 (temporary use of land for carrying out authorised project);
-> - (h) article 30 ( (temporary use of land for maintaining authorised project)[^key-cdaf419cb7afef3a7d7b4640871e736c] ; and
+> - (h) article 30 ( (temporary use of land for maintaining authorised project)[^c-cdaf419cb7afef3a7d7b4640871e736c] ; and
 > - (i) article 36 (trees subject to tree preservation orders).
 >
 > (3) In the event that Hornsea Four withholds its consent pursuant to sub-paragraph (1) it will notify the undertaker in writing of the reasons for withholding such consent and (if applicable) the time period during which such consent will be withheld.
@@ -141,13 +141,13 @@ After Part 5 of Schedule 12 insert a new Part 6—
 > - (a) bear and pay on demand accompanied by an invoice or claim from Hornsea Four the cost reasonably and properly incurred by Hornsea Four in making good such damage or restoring the supply; and
 > - (b) indemnify Hornsea Four for any other expenses, loss, demands, proceedings, damages, claims, penalty or costs incurred by or recovered from Hornsea Four, by reason or in consequence of any such damage or interruption or Hornsea Four becoming liable to any third party as aforesaid other than arising from any default by Hornsea Four.
 >
-> (2) The fact that any act or thing may have been done by Hornsea Four on behalf of the undertaker or in accordance with a plan approved by Hornsea Four or in accordance with any requirement of Hornsea Four as a consequence of the onshore elements of the authorised development or under its supervision will not (unless sub-paragraph (3) applies)[^key-feca304fc46cf7e88201d33c66f03ae3]... excuse the undertaker from liability under the provisions of this sub-paragraph (2) where the undertaker fails to carry out and execute the works properly with due care and attention and in a skilful and workman like manner or in a manner that does not accord with the approved plan or as otherwise agreed between the undertaker and Hornsea Four.
+> (2) The fact that any act or thing may have been done by Hornsea Four on behalf of the undertaker or in accordance with a plan approved by Hornsea Four or in accordance with any requirement of Hornsea Four as a consequence of the onshore elements of the authorised development or under its supervision will not (unless sub-paragraph (3) applies)[^c-feca304fc46cf7e88201d33c66f03ae3]... excuse the undertaker from liability under the provisions of this sub-paragraph (2) where the undertaker fails to carry out and execute the works properly with due care and attention and in a skilful and workman like manner or in a manner that does not accord with the approved plan or as otherwise agreed between the undertaker and Hornsea Four.
 >
 > (3) Nothing in sub-paragraph (1) shall impose any liability on the undertaker in respect of any damage or interruption to the extent that it is attributable to the neglect or default of Hornsea Four, its officers, servants, contractors or agents.
 >
 > (4) Hornsea Four must give the undertaker reasonable notice of any such claim or demand and no settlement, admission of liability or compromise or demand must be made, unless payment is required in connection with a statutory compensation scheme without first consulting the undertaker and considering its representations.
 >
-> (5) Hornsea Four must use its reasonable endeavours to mitigate in whole or in part and to minimise any costs, expenses, loss, demands and penalties to which the indemnity under sub-paragraph (1) applies. If requested to do so by the undertaker, Hornsea Four must provide an explanation of how the claim has been minimised. The undertaker is only liable under sub-paragraph (1) for any[^key-d4e124d170175488b3baf983eb4694d9] claim reasonably incurred by Hornsea Four.
+> (5) Hornsea Four must use its reasonable endeavours to mitigate in whole or in part and to minimise any costs, expenses, loss, demands and penalties to which the indemnity under sub-paragraph (1) applies. If requested to do so by the undertaker, Hornsea Four must provide an explanation of how the claim has been minimised. The undertaker is only liable under sub-paragraph (1) for any[^c-d4e124d170175488b3baf983eb4694d9] claim reasonably incurred by Hornsea Four.
 >
 > (6) The undertaker must not commence construction (and must not permit the commencement of such construction) of any specified works until Hornsea Four is satisfied acting reasonably (but subject to all necessary regulatory constraints) that the undertaker or its contractor has procured acceptable insurance (and provided evidence to Hornsea Four that it shall maintain such acceptable insurance for the construction period of the specified works from the proposed date of commencement of construction of the specified works) and Hornsea Four has confirmed the same in writing to the undertaker.
 >
@@ -169,18 +169,18 @@ After Part 5 of Schedule 12 insert a new Part 6—
 
 ## Annotations
 
-[^key-5e3e0c09e4f65c5906b57eb4b64341ff]: Commencement: Sch. 13 para. 1 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-5e3e0c09e4f65c5906b57eb4b64341ff]: Commencement: Sch. 13 para. 1 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
 
-[^key-afdecb48398303547d5ad173e9b38a09]: Textual amendment: Sum in Sch. 13 para. 1 substituted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
+[^c-afdecb48398303547d5ad173e9b38a09]: Textual amendment: Sum in Sch. 13 para. 1 substituted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
 
-[^key-11d6864aef1f2adafe40b540c6a58703]: Textual amendment: Word in Sch. 13 para. 1 omitted (31.1.2024) by virtue of [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
+[^c-11d6864aef1f2adafe40b540c6a58703]: Textual amendment: Word in Sch. 13 para. 1 omitted (31.1.2024) by virtue of [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
 
-[^key-cdaf419cb7afef3a7d7b4640871e736c]: Textual amendment: Words in Sch. 13 para. 1 substituted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
+[^c-cdaf419cb7afef3a7d7b4640871e736c]: Textual amendment: Words in Sch. 13 para. 1 substituted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
 
 [^M_F_13aaef95-0052-42d9-ff75-d1d913c5b1ea]: Textual amendment: Words in Sch. 13 para. 1 inserted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
 
 [^M_F_5eaa5125-7bca-4bcd-e09e-0f90b38b2ab0]: Textual amendment: Words in Sch. 13 para. 1 inserted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
 
-[^key-feca304fc46cf7e88201d33c66f03ae3]: Textual amendment: Sch. 13 para. 1: comma omitted (31.1.2024) by virtue of [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
+[^c-feca304fc46cf7e88201d33c66f03ae3]: Textual amendment: Sch. 13 para. 1: comma omitted (31.1.2024) by virtue of [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
 
-[^key-d4e124d170175488b3baf983eb4694d9]: Textual amendment: Word in Sch. 13 para. 1 inserted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
+[^c-d4e124d170175488b3baf983eb4694d9]: Textual amendment: Word in Sch. 13 para. 1 inserted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)

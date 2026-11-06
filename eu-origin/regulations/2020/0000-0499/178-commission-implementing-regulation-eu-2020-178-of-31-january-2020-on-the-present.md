@@ -33,26 +33,26 @@ of 31 January 2020
 
 on the presentation of information to passengers arriving from third countries and to clients of postal services and of certain professional operators concerning the prohibitions as regards the introduction of plants, plant products and other objects into the Union territory in accordance with Regulation (EU) 2016/2031 of the European Parliament and of the Council (revoked)
 
-[^key-25dc3eeb810118a31140c5f643e6d76b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25dc3eeb810118a31140c5f643e6d76b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Presentation of information to passengers arriving from third countries and to clients of postal services and of certain professional operators[^key-25dc3eeb810118a31140c5f643e6d76b]
+## Article 1. Presentation of information to passengers arriving from third countries and to clients of postal services and of certain professional operators[^c-25dc3eeb810118a31140c5f643e6d76b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Entry into force[^key-25dc3eeb810118a31140c5f643e6d76b]
+## Article 2. Entry into force[^c-25dc3eeb810118a31140c5f643e6d76b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-25dc3eeb810118a31140c5f643e6d76b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25dc3eeb810118a31140c5f643e6d76b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Poster referred to in Article 1[^key-25dc3eeb810118a31140c5f643e6d76b]
+## ANNEX — Poster referred to in Article 1[^c-25dc3eeb810118a31140c5f643e6d76b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-25dc3eeb810118a31140c5f643e6d76b]: Textual amendment: Regulation revoked (E.W.S.) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [17(b)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/17/b)
+[^c-25dc3eeb810118a31140c5f643e6d76b]: Textual amendment: Regulation revoked (E.W.S.) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [17(b)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/17/b)

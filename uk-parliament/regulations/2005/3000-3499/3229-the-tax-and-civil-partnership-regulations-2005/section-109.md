@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109.[^key-b789ef69039347208a836bbce6459378]
+## 109.[^c-b789ef69039347208a836bbce6459378]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 150 (business expansion schemes), in subsection (7), after â€œspouseâ
 
 ## Annotations
 
-[^key-b789ef69039347208a836bbce6459378]: Commencement: Reg. 109 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-b789ef69039347208a836bbce6459378]: Commencement: Reg. 109 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Further procedure for regulations under sections 23 and 24[^key-aa7c49a5b0e42d62a371f51afe8f6045]
+## 46. Further procedure for regulations under sections 23 and 24[^c-aa7c49a5b0e42d62a371f51afe8f6045]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa7c49a5b0e42d62a371f51afe8f6045]: Commencement: S. 46 in force at 17.12.2025, see [s. 47(1)](https://www.legislation.gov.uk/asp/2025/15/section/47/1)
+[^c-aa7c49a5b0e42d62a371f51afe8f6045]: Commencement: S. 46 in force at 17.12.2025, see [s. 47(1)](https://www.legislation.gov.uk/asp/2025/15/section/47/1)

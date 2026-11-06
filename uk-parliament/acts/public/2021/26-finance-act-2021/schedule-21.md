@@ -60,7 +60,7 @@ Section 102
 
 - (a) in the heading, for “for road vehicles” substitute “ other than for excepted machines ”;
 - (b) in subsection (1), for “for a road vehicle” substitute “ other than for an excepted machine ”;
-- (c)[^key-3aea83274523e9419a36c4ac3189e562] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-3aea83274523e9419a36c4ac3189e562] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) If paragraph 3 of Schedule 11 to FA 2020 has come into force in relation to any part of the United Kingdom before this Schedule comes into force then, in relation to that part—
 
@@ -73,27 +73,27 @@ Section 102
 
 (2) In subsection (1)—
 
-- (a)[^key-dde1e6c6256e174fc339b7eee61db08e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-dde1e6c6256e174fc339b7eee61db08e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (b)—
   - (i) for “road vehicle” substitute “ vehicle, vessel, machine or appliance ”;
-  - (ii)[^key-abd382a1ab7da47a791617f1946fd858] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-abd382a1ab7da47a791617f1946fd858] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (1A)—
 
 - (a) in the words before paragraph (a)—
   - (i) for “road vehicle” substitute “ vehicle, vessel, machine or appliance ”;
-  - (ii)[^key-88e1b458e94c2dc79654bbdb692139fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-88e1b458e94c2dc79654bbdb692139fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (a), for “road vehicle” substitute “ vehicle, vessel, machine or appliance ”.
 
-(4)[^key-0a115a232d294b5664dac8ba120d0603] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-0a115a232d294b5664dac8ba120d0603] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-26c910107a809ac9f4953aa66a8b33c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-26c910107a809ac9f4953aa66a8b33c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-4182ba5ae7a71f34945448e7237b0ce0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-4182ba5ae7a71f34945448e7237b0ce0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In subsection (6)—
 
-- (a)[^key-26f97e8b9c005408a619f9eaaebff80d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-26f97e8b9c005408a619f9eaaebff80d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (b), for the words from “a vehicle” to the end substitute “ a vehicle, vessel, machine or appliance at a time when it is an excepted machine and remaining in that vehicle, vessel, machine or appliance as part of its fuel supply at a later time when it ceases to be an excepted machine ”.
 
 **May not be in force at this date. Check the source.**
@@ -195,11 +195,11 @@ Section 102
 
 **Not yet in force.**
 
-**14.**[^key-651edc1bc4a96343faa9a438a8016aaf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-651edc1bc4a96343faa9a438a8016aaf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**15.**[^key-eb6b8a89cfcc81c2e9db2983845929b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-eb6b8a89cfcc81c2e9db2983845929b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -217,7 +217,7 @@ Section 102
 
 **Not yet in force.**
 
-**18.**[^key-3c5fe97aa9b69f493466ebe0c2546f4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-3c5fe97aa9b69f493466ebe0c2546f4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -443,24 +443,24 @@ Section 102
 
 ## Annotations
 
-[^key-3aea83274523e9419a36c4ac3189e562]: Textual amendment: [Sch. 21 para. 5(1)(c)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/5/1/c) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 11 para. 10(a)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/10/a)
+[^c-3aea83274523e9419a36c4ac3189e562]: Textual amendment: [Sch. 21 para. 5(1)(c)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/5/1/c) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 11 para. 10(a)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/10/a)
 
-[^key-dde1e6c6256e174fc339b7eee61db08e]: Textual amendment: [Sch. 21 para. 6(2)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/6/2/a) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 11 para. 10(b)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/10/b)
+[^c-dde1e6c6256e174fc339b7eee61db08e]: Textual amendment: [Sch. 21 para. 6(2)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/6/2/a) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 11 para. 10(b)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/10/b)
 
-[^key-abd382a1ab7da47a791617f1946fd858]: Textual amendment: [Sch. 21 para. 6(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/6/2/b/ii) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 11 para. 10(c)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/10/c)
+[^c-abd382a1ab7da47a791617f1946fd858]: Textual amendment: [Sch. 21 para. 6(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/6/2/b/ii) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 11 para. 10(c)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/10/c)
 
-[^key-88e1b458e94c2dc79654bbdb692139fa]: Textual amendment: [Sch. 21 para. 6(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/6/3/a/ii) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 11 para. 10(d)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/10/d)
+[^c-88e1b458e94c2dc79654bbdb692139fa]: Textual amendment: [Sch. 21 para. 6(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/6/3/a/ii) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 11 para. 10(d)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/10/d)
 
-[^key-0a115a232d294b5664dac8ba120d0603]: Textual amendment: [Sch. 21 para. 6(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/6/4) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 11 para. 10(e)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/10/e)
+[^c-0a115a232d294b5664dac8ba120d0603]: Textual amendment: [Sch. 21 para. 6(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/6/4) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 11 para. 10(e)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/10/e)
 
-[^key-26c910107a809ac9f4953aa66a8b33c3]: Textual amendment: [Sch. 21 para. 6(5)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/6/5) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 11 para. 10(f)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/10/f)
+[^c-26c910107a809ac9f4953aa66a8b33c3]: Textual amendment: [Sch. 21 para. 6(5)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/6/5) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 11 para. 10(f)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/10/f)
 
-[^key-4182ba5ae7a71f34945448e7237b0ce0]: Textual amendment: [Sch. 21 para. 6(6)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/6/6) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 11 para. 10(g)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/10/g)
+[^c-4182ba5ae7a71f34945448e7237b0ce0]: Textual amendment: [Sch. 21 para. 6(6)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/6/6) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 11 para. 10(g)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/10/g)
 
-[^key-26f97e8b9c005408a619f9eaaebff80d]: Textual amendment: [Sch. 21 para. 6(7)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/6/7/a) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 11 para. 10(h)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/10/h)
+[^c-26f97e8b9c005408a619f9eaaebff80d]: Textual amendment: [Sch. 21 para. 6(7)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/6/7/a) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 11 para. 10(h)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/10/h)
 
-[^key-651edc1bc4a96343faa9a438a8016aaf]: Textual amendment: [Sch. 21 para. 14](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/14) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 11 para. 10(i)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/10/i)
+[^c-651edc1bc4a96343faa9a438a8016aaf]: Textual amendment: [Sch. 21 para. 14](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/14) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 11 para. 10(i)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/10/i)
 
-[^key-eb6b8a89cfcc81c2e9db2983845929b4]: Textual amendment: [Sch. 21 para. 15](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/15) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 11 para. 10(j)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/10/j)
+[^c-eb6b8a89cfcc81c2e9db2983845929b4]: Textual amendment: [Sch. 21 para. 15](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/15) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 11 para. 10(j)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/10/j)
 
-[^key-3c5fe97aa9b69f493466ebe0c2546f4d]: Textual amendment: [Sch. 21 para. 18](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/18) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 11 para. 10(k)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/10/k)
+[^c-3c5fe97aa9b69f493466ebe0c2546f4d]: Textual amendment: [Sch. 21 para. 18](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/18) omitted (1.4.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 11 para. 10(k)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/10/k)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32A. Removal of prisoners liable to removal from United Kingdom[^key-57ec11412a6cf5de79ce1756544890c4]
+## 32A. Removal of prisoners liable to removal from United Kingdom[^c-57ec11412a6cf5de79ce1756544890c4]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ the Secretary of State may remove P from prison under this section at any time a
 
 ## Annotations
 
-[^key-57ec11412a6cf5de79ce1756544890c4]: Textual amendment: Ss. 32A, 32B and cross-heading inserted (1.5.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 119](https://www.legislation.gov.uk/ukpga/2012/10/section/119), [151(2)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/2/b) (with [Sch. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/15))
+[^c-57ec11412a6cf5de79ce1756544890c4]: Textual amendment: Ss. 32A, 32B and cross-heading inserted (1.5.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 119](https://www.legislation.gov.uk/ukpga/2012/10/section/119), [151(2)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/2/b) (with [Sch. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/15))

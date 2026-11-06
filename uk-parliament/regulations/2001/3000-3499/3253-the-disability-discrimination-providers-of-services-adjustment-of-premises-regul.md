@@ -31,7 +31,7 @@ summary: ''
 
 DISABLED PERSONS
 
-The Disability Discrimination (Providers of Services) (Adjustment of Premises) Regulations 2001 (revoked)[^key-47b55189a9bfb3c6bc5ebd7d44c93e0a]
+The Disability Discrimination (Providers of Services) (Adjustment of Premises) Regulations 2001 (revoked)[^c-47b55189a9bfb3c6bc5ebd7d44c93e0a]
 
 Made
 
@@ -45,88 +45,88 @@ Coming into force
 
 1st October 2004
 
-[^key-47b55189a9bfb3c6bc5ebd7d44c93e0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-47b55189a9bfb3c6bc5ebd7d44c93e0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-47b55189a9bfb3c6bc5ebd7d44c93e0a]
+## 1. Citation, commencement and extent[^c-47b55189a9bfb3c6bc5ebd7d44c93e0a]
 
 *Extent: E+W+S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-47b55189a9bfb3c6bc5ebd7d44c93e0a]
+## 2. Interpretation[^c-47b55189a9bfb3c6bc5ebd7d44c93e0a]
 
 *Extent: E+W+S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Duty of providers of services to make adjustments: reasonable steps[^key-47b55189a9bfb3c6bc5ebd7d44c93e0a]
+## 3. Duty of providers of services to make adjustments: reasonable steps[^c-47b55189a9bfb3c6bc5ebd7d44c93e0a]
 
 *Extent: E+W+S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Definition of sub-lease and sub-tenancy[^key-47b55189a9bfb3c6bc5ebd7d44c93e0a]
+## 4. Definition of sub-lease and sub-tenancy[^c-47b55189a9bfb3c6bc5ebd7d44c93e0a]
 
 *Extent: E+W+S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Lessor withholding consent[^key-47b55189a9bfb3c6bc5ebd7d44c93e0a]
+## 5. Lessor withholding consent[^c-47b55189a9bfb3c6bc5ebd7d44c93e0a]
 
 *Extent: E+W+S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Lessor withholding consent unreasonably[^key-47b55189a9bfb3c6bc5ebd7d44c93e0a]
+## 6. Lessor withholding consent unreasonably[^c-47b55189a9bfb3c6bc5ebd7d44c93e0a]
 
 *Extent: E+W+S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Lessor withholding consent reasonably[^key-47b55189a9bfb3c6bc5ebd7d44c93e0a]
+## 7. Lessor withholding consent reasonably[^c-47b55189a9bfb3c6bc5ebd7d44c93e0a]
 
 *Extent: E+W+S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Lessor’s consent subject to conditions[^key-47b55189a9bfb3c6bc5ebd7d44c93e0a]
+## 8. Lessor’s consent subject to conditions[^c-47b55189a9bfb3c6bc5ebd7d44c93e0a]
 
 *Extent: E+W+S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Modification of section 27 and paragraphs 5 to 7 of Schedule 4[^key-47b55189a9bfb3c6bc5ebd7d44c93e0a]
+## 9. Modification of section 27 and paragraphs 5 to 7 of Schedule 4[^c-47b55189a9bfb3c6bc5ebd7d44c93e0a]
 
 *Extent: E+W+S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-47b55189a9bfb3c6bc5ebd7d44c93e0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-47b55189a9bfb3c6bc5ebd7d44c93e0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — REMOVAL OR ALTERATION OF PHYSICAL FEATURES: DESIGN STANDARDS[^key-47b55189a9bfb3c6bc5ebd7d44c93e0a]
+## SCHEDULE — REMOVAL OR ALTERATION OF PHYSICAL FEATURES: DESIGN STANDARDS[^c-47b55189a9bfb3c6bc5ebd7d44c93e0a]
 
 *Extent: E+W+S*
 
 (regulation 3(4))
 
-### Definition of “relevant design standard”[^key-47b55189a9bfb3c6bc5ebd7d44c93e0a]
+### Definition of “relevant design standard”[^c-47b55189a9bfb3c6bc5ebd7d44c93e0a]
 
-**1.**[^key-47b55189a9bfb3c6bc5ebd7d44c93e0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-47b55189a9bfb3c6bc5ebd7d44c93e0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Buildings in England and Wales[^key-47b55189a9bfb3c6bc5ebd7d44c93e0a]
+### Buildings in England and Wales[^c-47b55189a9bfb3c6bc5ebd7d44c93e0a]
 
-**2.**[^key-47b55189a9bfb3c6bc5ebd7d44c93e0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-47b55189a9bfb3c6bc5ebd7d44c93e0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Buildings in Scotland[^key-47b55189a9bfb3c6bc5ebd7d44c93e0a]
+### Buildings in Scotland[^c-47b55189a9bfb3c6bc5ebd7d44c93e0a]
 
-**3.**[^key-47b55189a9bfb3c6bc5ebd7d44c93e0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-47b55189a9bfb3c6bc5ebd7d44c93e0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-47b55189a9bfb3c6bc5ebd7d44c93e0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-47b55189a9bfb3c6bc5ebd7d44c93e0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-47b55189a9bfb3c6bc5ebd7d44c93e0a]: Textual amendment: Regulations revoked (1.10.2010) by [The Equality Act 2010 (Disability) Regulations 2010 (S.I. 2010/2128)](https://www.legislation.gov.uk/uksi/2010/2128), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2128/regulation/1), [15(2)(ii)](https://www.legislation.gov.uk/uksi/2010/2128/regulation/15/2/ii); Regulations savings for effects of [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15), [Sch. 27](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27) (1.10.2010 immediately after the commencement of [S.I. 2010/2279](https://www.legislation.gov.uk/uksi/2010/2279)) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (S.I. 2010/2317)](https://www.legislation.gov.uk/uksi/2010/2317), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [10(6)(7)](https://www.legislation.gov.uk/uksi/2010/2317/article/10), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2317/schedule/2)
+[^c-47b55189a9bfb3c6bc5ebd7d44c93e0a]: Textual amendment: Regulations revoked (1.10.2010) by [The Equality Act 2010 (Disability) Regulations 2010 (S.I. 2010/2128)](https://www.legislation.gov.uk/uksi/2010/2128), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2128/regulation/1), [15(2)(ii)](https://www.legislation.gov.uk/uksi/2010/2128/regulation/15/2/ii); Regulations savings for effects of [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15), [Sch. 27](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27) (1.10.2010 immediately after the commencement of [S.I. 2010/2279](https://www.legislation.gov.uk/uksi/2010/2279)) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (S.I. 2010/2317)](https://www.legislation.gov.uk/uksi/2010/2317), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [10(6)(7)](https://www.legislation.gov.uk/uksi/2010/2317/article/10), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2317/schedule/2)

@@ -55,13 +55,13 @@ In respect of the provisions in articles 25 and 26, in accordance with section 1
 
 ## PART 1 — Preliminary
 
-### 1. Citation and commencement[^key-6b177818a27741983f2b29a6f8d7a8ee]
+### 1. Citation and commencement[^c-6b177818a27741983f2b29a6f8d7a8ee]
 
 This Order may be cited as the Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 and comes into force on 3rd November 2017.
 
 ## PART 2 — Amendments in consequence of the Social Services and Well-being (Wales) Act 2014
 
-### 2. Amendment of the Income Support (General) Regulations 1987[^key-84918e03f4c791d52fb3f06fcb588544]
+### 2. Amendment of the Income Support (General) Regulations 1987[^c-84918e03f4c791d52fb3f06fcb588544]
 
 (1) The Income Support (General) Regulations 1987[^f00010] are amended as follows.
 
@@ -132,7 +132,7 @@ This Order may be cited as the Social Services and Well-being (Wales) Act 2014 a
 - (b) in paragraph 43, after “1958” insert “or under Part 4 of the Social Services and Well-being (Wales) Act 2014”;
 - (c) in paragraph 67, at the end insert “, or in accordance with regulations made under section 50 or 52 of the Social Services and Well-being (Wales) Act 2014 (direct payments)”.
 
-### 3. Amendment of the Social Security (Attendance Allowance) Regulations 1991[^key-b3ed1bcffdfbd03d0e50c8ed65fa438e]
+### 3. Amendment of the Social Security (Attendance Allowance) Regulations 1991[^c-b3ed1bcffdfbd03d0e50c8ed65fa438e]
 
 In regulation 7 of the Social Security (Attendance Allowance) Regulations 1991 (persons in care homes)[^f00012], in paragraph (2)(a)—
 
@@ -143,7 +143,7 @@ In regulation 7 of the Social Security (Attendance Allowance) Regulations 1991 (
 
   .
 
-### 4. Amendment of the Social Security (Disability Living Allowance) Regulations 1991[^key-82b08212952813c824a5d1cafe17c6a6]
+### 4. Amendment of the Social Security (Disability Living Allowance) Regulations 1991[^c-82b08212952813c824a5d1cafe17c6a6]
 
 In regulation 9 of the Social Security (Disability Living Allowance) Regulations 1991 (persons in care homes)[^f00013]—
 
@@ -162,7 +162,7 @@ In regulation 9 of the Social Security (Disability Living Allowance) Regulations
   ;
 - (f) in paragraph (5), for “(a) and (b)” substitute “(a), (b) and (ba)”.
 
-### 5. Amendment of the Child Support (Maintenance Assessments and Special Cases) Regulations 1992[^key-a891c9b57c0cfebe4d9647c1c94f3d8c]
+### 5. Amendment of the Child Support (Maintenance Assessments and Special Cases) Regulations 1992[^c-a891c9b57c0cfebe4d9647c1c94f3d8c]
 
 (1) The Child Support (Maintenance Assessments and Special Cases) Regulations 1992[^f00014] are amended as follows.
 
@@ -186,7 +186,7 @@ In regulation 9 of the Social Security (Disability Living Allowance) Regulations
 
     .
 
-### 6. Amendment of the Jobseeker’s Allowance Regulations 1996[^key-d1d18bfb2ec4f85c1ad5152656c57d15]
+### 6. Amendment of the Jobseeker’s Allowance Regulations 1996[^c-d1d18bfb2ec4f85c1ad5152656c57d15]
 
 (1) The Jobseeker’s Allowance Regulations 1996[^f00015] are amended as follows.
 
@@ -273,7 +273,7 @@ In regulation 9 of the Social Security (Disability Living Allowance) Regulations
 - (b) in paragraph 41, after “1958” insert “or under Part 4 of the Social Services and Well-being (Wales) Act 2014”;
 - (c) in paragraph 60, at the end insert “, or in accordance with regulations made under section 50 or 52 of the Social Services and Well-being (Wales) Act 2014 (direct payments)”.
 
-### 7. Amendment of the Child Support (Maintenance Calculations and Special Cases) Regulations 2001[^key-bd25c1fe976d69d5021642b619f1e7ff]
+### 7. Amendment of the Child Support (Maintenance Calculations and Special Cases) Regulations 2001[^c-bd25c1fe976d69d5021642b619f1e7ff]
 
 (1) The Child Support (Maintenance Calculations and Special Cases) Regulations 2001[^f00016] are amended as follows.
 
@@ -281,7 +281,7 @@ In regulation 9 of the Social Security (Disability Living Allowance) Regulations
 
 (3) In regulation 13 (child in care who is allowed to live with their parent), in paragraph (1), after “1989” insert “or section 81(2) of the Social Services and Well-being (Wales) Act 2014”.
 
-### 8. Amendment of the Social Security (Loss of Benefit) Regulations 2001[^key-423547f72a2825b7d942a31ff1d89797]
+### 8. Amendment of the Social Security (Loss of Benefit) Regulations 2001[^c-423547f72a2825b7d942a31ff1d89797]
 
 (1) The Social Security (Loss of Benefit) Regulations 2001[^f00017] are amended as follows.
 
@@ -295,7 +295,7 @@ In regulation 9 of the Social Security (Disability Living Allowance) Regulations
 - (a) in paragraph (i) after “1989” insert “or the Social Services and Well-being (Wales) Act 2014”;
 - (b) in paragraphs (ii) and (iii) for “that Act” substitute “either of those Acts”.
 
-### 9. Amendment of the State Pension Credit Regulations 2002[^key-478a696c89f24f57212faf6005794b4c]
+### 9. Amendment of the State Pension Credit Regulations 2002[^c-478a696c89f24f57212faf6005794b4c]
 
 (1) The State Pension Credit Regulations 2002[^f00018] are amended as follows.
 
@@ -326,11 +326,11 @@ In regulation 9 of the Social Security (Disability Living Allowance) Regulations
 
   .
 
-### 10. Amendment of the Social Fund Maternity and Funeral Expenses (General) Regulations 2005[^key-0ee313eade8f2844dac195e3986a0bc7]
+### 10. Amendment of the Social Fund Maternity and Funeral Expenses (General) Regulations 2005[^c-0ee313eade8f2844dac195e3986a0bc7]
 
 In regulation 4A of the Social Fund Maternity and Funeral Expenses (General) Regulations 2005 (persons to be treated as responsible for children)[^f00019], in paragraph (4)(a), after “1995,” insert “or section 74 of the Social Services and Well-being (Wales) Act 2014,”.
 
-### 11. Amendment of the Housing Benefit Regulations 2006[^key-a8deaf9f2063d627768db0e34173e611]
+### 11. Amendment of the Housing Benefit Regulations 2006[^c-a8deaf9f2063d627768db0e34173e611]
 
 (1) The Housing Benefit Regulations 2006[^f00020] are amended as follows.
 
@@ -374,7 +374,7 @@ In regulation 4A of the Social Fund Maternity and Funeral Expenses (General) Reg
 - (c) in paragraph 44, after “1958” insert “or under Part 4 of the Social Services and Well-being (Wales) Act 2014”;
 - (d) in paragraph 58, at the end insert “, or in accordance with regulations made under section 50 or 52 of the Social Services and Well-being (Wales) Act 2014 (direct payments)”.
 
-### 12. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^key-b5daa78a1bc4ee781851441bbbef6492]
+### 12. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^c-b5daa78a1bc4ee781851441bbbef6492]
 
 (1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^f00021] are amended as follows.
 
@@ -406,7 +406,7 @@ In regulation 4A of the Social Fund Maternity and Funeral Expenses (General) Reg
 
   .
 
-### 13. Amendment of the Employment and Support Allowance Regulations 2008[^key-2b66e7b318246bf1d60f212f32e876ba]
+### 13. Amendment of the Employment and Support Allowance Regulations 2008[^c-2b66e7b318246bf1d60f212f32e876ba]
 
 (1) The Employment and Support Allowance Regulations 2008[^f00022] are amended as follows.
 
@@ -467,7 +467,7 @@ In regulation 4A of the Social Fund Maternity and Funeral Expenses (General) Reg
 - (b) in paragraph 42, after “1958” insert “or under Part 4 of the Social Services and Well-being (Wales) Act 2014”;
 - (c) in paragraph 56, at the end insert “, or in accordance with regulations made under section 50 or 52 of the Social Services and Well-being (Wales) Act 2014 (direct payments)”.
 
-### 14. Amendment of the Child Support Maintenance Calculation Regulations 2012[^key-fe6dc8f2a73efb4fd7b07aa606cd44b0]
+### 14. Amendment of the Child Support Maintenance Calculation Regulations 2012[^c-fe6dc8f2a73efb4fd7b07aa606cd44b0]
 
 (1) The Child Support Maintenance Calculation Regulations 2012[^f00023] are amended as follows.
 
@@ -498,11 +498,11 @@ In regulation 4A of the Social Fund Maternity and Funeral Expenses (General) Reg
   ;
 - (b) in paragraph (2), in the definition of “a child who is looked after by a local authority” after “1995” insert “or section 74 of the Social Services and Well-being (Wales) Act 2014”.
 
-### 15. Amendment of the Universal Credit Regulations 2013[^key-ca3e608a1026bc7112584a5fb5922d3e]
+### 15. Amendment of the Universal Credit Regulations 2013[^c-ca3e608a1026bc7112584a5fb5922d3e]
 
 In Schedule 10 to the Universal Credit Regulations 2013 (capital to be disregarded)[^f00024], in paragraph 17(1)(a), for “or section 29 or 30 of the Children (Scotland) Act 1995” substitute “, section 29 or 30 of the Children (Scotland) Act 1995 or section 37, 38, 109, 110, 114 or 115 of the Social Services and Well-being (Wales) Act 2014”.
 
-### 16. Amendment of the Social Security (Personal Independence Payment) Regulations 2013[^key-78974e4f3fb1b281b9dd537f33db675b]
+### 16. Amendment of the Social Security (Personal Independence Payment) Regulations 2013[^c-78974e4f3fb1b281b9dd537f33db675b]
 
 In regulation 28 of the Social Security (Personal Independence Payment) Regulations 2013 (care home residents)[^f00025]—
 
@@ -520,7 +520,7 @@ In regulation 28 of the Social Security (Personal Independence Payment) Regulati
   ;
 - (e) in paragraph (4) for “Paragraph (3)(a) only applies” substitute “Paragraphs (3)(a) and (aa) only apply”.
 
-### 17. Amendment of the Jobseeker’s Allowance Regulations 2013[^key-ccc0d5b15a7a412cc4efab5572102395]
+### 17. Amendment of the Jobseeker’s Allowance Regulations 2013[^c-ccc0d5b15a7a412cc4efab5572102395]
 
 In regulation 60 of the Jobseeker’s Allowance Regulations 2013 (earnings of self-employed earners)[^f00026], in paragraph (2)—
 
@@ -539,7 +539,7 @@ In regulation 60 of the Jobseeker’s Allowance Regulations 2013 (earnings of se
 
     .
 
-### 18. Amendment of the Employment and Support Allowance Regulations 2013[^key-788eff0226e88f333ba3efceb1348a4b]
+### 18. Amendment of the Employment and Support Allowance Regulations 2013[^c-788eff0226e88f333ba3efceb1348a4b]
 
 In regulation 37 of the Employment and Support Allowance Regulations 2013 (claimant who works to be treated as not entitled to an employment and support allowance)[^f00027], in paragraph (7)—
 
@@ -560,7 +560,7 @@ In regulation 37 of the Employment and Support Allowance Regulations 2013 (claim
 
 ## PART 3 — Amendment in consequence of Regulation and Inspection of Social Care (Wales) Act 2016
 
-### 19. Amendment of the Jobseeker’s Allowance Regulations 1996[^key-210fd4916aac8c2ea7c304d58d5accba]
+### 19. Amendment of the Jobseeker’s Allowance Regulations 1996[^c-210fd4916aac8c2ea7c304d58d5accba]
 
 In regulation 14A (victims of domestic violence) of the Jobseeker’s Allowance Regulations 1996[^f00028], in paragraph (10), for paragraph (b) of the definition of “registered social worker” substitute—
 
@@ -570,7 +570,7 @@ In regulation 14A (victims of domestic violence) of the Jobseeker’s Allowance 
 
 ## PART 4 — Other miscellaneous amendments
 
-### 20. Amendment of the Income Support (General) Regulations 1987[^key-83feb7225d2302559e7db5ef18b06f5f]
+### 20. Amendment of the Income Support (General) Regulations 1987[^c-83feb7225d2302559e7db5ef18b06f5f]
 
 (1) The Income Support (General) Regulations 1987[^f00029] are amended as follows.
 
@@ -582,11 +582,11 @@ In regulation 14A (victims of domestic violence) of the Jobseeker’s Allowance 
 
 .
 
-### 21. Amendment of the Child Support (Maintenance Assessments and Special Cases) Regulations 1992[^key-7c87423e1797fbfc3ec29666a880fa1c]
+### 21. Amendment of the Child Support (Maintenance Assessments and Special Cases) Regulations 1992[^c-7c87423e1797fbfc3ec29666a880fa1c]
 
 In regulation 27A (child in care who is allowed to live with their parent) of the Child Support (Maintenance Assessments and Special Cases) Regulations 1992[^f00030], in paragraph (1) omit “or 23(5)”.
 
-### 22. Amendment of the Jobseeker’s Allowance Regulations 1996[^key-c26c567d1d7c31d0234e093693cad0cc]
+### 22. Amendment of the Jobseeker’s Allowance Regulations 1996[^c-c26c567d1d7c31d0234e093693cad0cc]
 
 (1) The Jobseeker’s Allowance Regulations 1996[^f00031] are amended as follows.
 
@@ -598,11 +598,11 @@ In regulation 27A (child in care who is allowed to live with their parent) of th
 
 .
 
-### 23. Amendment of the Child Support (Maintenance Calculations and Special Cases) Regulations 2001[^key-088ce4f37af97adfc54996fa16dfc561]
+### 23. Amendment of the Child Support (Maintenance Calculations and Special Cases) Regulations 2001[^c-088ce4f37af97adfc54996fa16dfc561]
 
 In regulation 13 (child in care who is allowed to live with their parent) of the Child Support (Maintenance Calculations and Special Cases) Regulations 2001[^f00032], in paragraph (1) omit “or 23(5)”.
 
-### 24. Amendment of the State Pension Credit Regulations 2002[^key-536952052ffa7af5a7c1fd2add9031d9]
+### 24. Amendment of the State Pension Credit Regulations 2002[^c-536952052ffa7af5a7c1fd2add9031d9]
 
 In regulation 17B (earnings of self-employed earners) of the State Pension Credit Regulations 2002[^f00033], in paragraph (4)(b), in the text of the inserted paragraph (2)(b), for sub-paragraph (i) substitute—
 
@@ -610,7 +610,7 @@ In regulation 17B (earnings of self-employed earners) of the State Pension Credi
 
 .
 
-### 25. Amendment of the Housing Benefit Regulations 2006[^key-3feaf713cdcdbb01c2d398da6389c334]
+### 25. Amendment of the Housing Benefit Regulations 2006[^c-3feaf713cdcdbb01c2d398da6389c334]
 
 (1) The Housing Benefit Regulations 2006[^f00034] are amended as follows.
 
@@ -635,7 +635,7 @@ In regulation 17B (earnings of self-employed earners) of the State Pension Credi
 
 .
 
-### 26. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^key-d0649f9bd80530912e5b6b88d3582aa6]
+### 26. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^c-d0649f9bd80530912e5b6b88d3582aa6]
 
 (1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^f00035] are amended as follows.
 
@@ -643,7 +643,7 @@ In regulation 17B (earnings of self-employed earners) of the State Pension Credi
 
 (3) In regulation 38 (earnings of self-employed earners), in paragraph (2)(b)(i), for “section 23(2)(a) of the Children Act 1989 (provision of accommodation and maintenance for a child whom they are looking after)” substitute “section 22C(2) of the Children Act 1989 (ways in which looked after children are to be accommodated and maintained)”.
 
-### 27. Amendment of the Employment and Support Allowance Regulations 2008[^key-7eaeda810b0fe801265503e984f235fe]
+### 27. Amendment of the Employment and Support Allowance Regulations 2008[^c-7eaeda810b0fe801265503e984f235fe]
 
 (1) The Employment and Support Allowance Regulations 2008[^f00036] are amended as follows.
 
@@ -655,7 +655,7 @@ In regulation 17B (earnings of self-employed earners) of the State Pension Credi
 
 .
 
-### 28. Amendment of the Child Support Maintenance Calculation Regulations 2012[^key-4b08eb5ee5d492e729f3350cce368442]
+### 28. Amendment of the Child Support Maintenance Calculation Regulations 2012[^c-4b08eb5ee5d492e729f3350cce368442]
 
 (1) The Child Support Maintenance Calculation Regulations 2012[^f00037] are amended as follows.
 
@@ -707,114 +707,114 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00009]: Footnote: Section 176(1) was amended by paragraph 23 of Schedule 9 to the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), paragraph 3(4) of Schedule 13 to the Housing Act [1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52) and section 69(6) of the Child Support, Pensions and Social Security Act [2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19). By virtue of section 105(3) of the Deregulation Act 2015, the reference in section 176 of the Social Security Administration Act 1992 to “making regulations relating to housing benefit” includes making provision in an order.
 
-[^key-6b177818a27741983f2b29a6f8d7a8ee]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
+[^c-6b177818a27741983f2b29a6f8d7a8ee]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
 
-[^key-84918e03f4c791d52fb3f06fcb588544]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2017/901/article/2) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
+[^c-84918e03f4c791d52fb3f06fcb588544]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2017/901/article/2) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
 
 [^f00010]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); relevant amending instruments are [S.I. 1989/563](https://www.legislation.gov.uk/uksi/1989/563), [1992/468](https://www.legislation.gov.uk/uksi/1992/468), [1993/2119](https://www.legislation.gov.uk/uksi/1993/2119), [1995/1613](https://www.legislation.gov.uk/uksi/1995/1613), [1997/65](https://www.legislation.gov.uk/uksi/1997/65), [1998/563](https://www.legislation.gov.uk/uksi/1998/563), [1998/2117](https://www.legislation.gov.uk/uksi/1998/2117), [2000/681](https://www.legislation.gov.uk/uksi/2000/681), [2001/3767](https://www.legislation.gov.uk/uksi/2001/3767), [2003/762](https://www.legislation.gov.uk/uksi/2003/762), [2003/2279](https://www.legislation.gov.uk/uksi/2003/2279), [2004/1748](https://www.legislation.gov.uk/uksi/2004/1748), [2005/2078](https://www.legislation.gov.uk/uksi/2005/2078), [2005/2687](https://www.legislation.gov.uk/uksi/2005/2687), [2008/698](https://www.legislation.gov.uk/uksi/2008/698), [2009/583](https://www.legislation.gov.uk/uksi/2009/583), [2010/641](https://www.legislation.gov.uk/uksi/2010/641), [2010/2429](https://www.legislation.gov.uk/uksi/2010/2429), [2011/1740](https://www.legislation.gov.uk/uksi/2011/1740), [2013/1465](https://www.legislation.gov.uk/uksi/2013/1465), [2014/513](https://www.legislation.gov.uk/uksi/2014/513), [2015/643](https://www.legislation.gov.uk/uksi/2015/643) and [2016/732](https://www.legislation.gov.uk/uksi/2016/732).
 
 [^f00011]: Footnote: [2014 anaw 4](https://www.legislation.gov.uk/anaw/2014/4).
 
-[^key-b3ed1bcffdfbd03d0e50c8ed65fa438e]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2017/901/article/3) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
+[^c-b3ed1bcffdfbd03d0e50c8ed65fa438e]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2017/901/article/3) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
 
 [^f00012]: Footnote: [S.I.1991/2740](https://www.legislation.gov.uk/uksi/1991/2740); relevant amending instruments are [S.I. 2007/2875](https://www.legislation.gov.uk/uksi/2007/2875), [2013/389](https://www.legislation.gov.uk/uksi/2013/389), [2013/2270](https://www.legislation.gov.uk/uksi/2013/2270) and [2015/643](https://www.legislation.gov.uk/uksi/2015/643).
 
-[^key-82b08212952813c824a5d1cafe17c6a6]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2017/901/article/4) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
+[^c-82b08212952813c824a5d1cafe17c6a6]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2017/901/article/4) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
 
 [^f00013]: Footnote: [S.I. 1991/2890](https://www.legislation.gov.uk/uksi/1991/2890); relevant amending instruments are [S.I. 2007/2875](https://www.legislation.gov.uk/uksi/2007/2875), [2013/389](https://www.legislation.gov.uk/uksi/2013/389), [2013/2270](https://www.legislation.gov.uk/uksi/2013/2270) and [2015/643](https://www.legislation.gov.uk/uksi/2015/643).
 
-[^key-a891c9b57c0cfebe4d9647c1c94f3d8c]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2017/901/article/5) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
+[^c-a891c9b57c0cfebe4d9647c1c94f3d8c]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2017/901/article/5) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
 
 [^f00014]: Footnote: [S.I. 1992/1815](https://www.legislation.gov.uk/uksi/1992/1815); relevant amending instruments are [S.I. 1993/913](https://www.legislation.gov.uk/uksi/1993/913), [1996/3196](https://www.legislation.gov.uk/uksi/1996/3196), [2001/155](https://www.legislation.gov.uk/uksi/2001/155), [2004/1748](https://www.legislation.gov.uk/uksi/2004/1748), [2012/2785](https://www.legislation.gov.uk/uksi/2012/2785), [2014/513](https://www.legislation.gov.uk/uksi/2014/513), [2014/1386](https://www.legislation.gov.uk/uksi/2014/1386) and [2014/1621](https://www.legislation.gov.uk/uksi/2014/1621). These regulations are revoked in relation to particular cases.
 
-[^key-d1d18bfb2ec4f85c1ad5152656c57d15]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2017/901/article/6) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
+[^c-d1d18bfb2ec4f85c1ad5152656c57d15]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2017/901/article/6) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
 
 [^f00015]: Footnote: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207); relevant amending instruments are [S.I. 1997/65](https://www.legislation.gov.uk/uksi/1997/65), [1998/583](https://www.legislation.gov.uk/uksi/1998/583), [1998/2117](https://www.legislation.gov.uk/uksi/1998/2117), [2000/239](https://www.legislation.gov.uk/uksi/2000/239), [2000/1978](https://www.legislation.gov.uk/uksi/2000/1978), [2001/3767](https://www.legislation.gov.uk/uksi/2001/3767), [2003/762](https://www.legislation.gov.uk/uksi/2003/762), [2003/2279](https://www.legislation.gov.uk/uksi/2003/2279), [2004/1748](https://www.legislation.gov.uk/uksi/2004/1748), [2005/2687](https://www.legislation.gov.uk/uksi/2005/2687), [2008/698](https://www.legislation.gov.uk/uksi/2008/698), [2009/583](https://www.legislation.gov.uk/uksi/2009/583), [2009/2655](https://www.legislation.gov.uk/uksi/2009/2655), [2010/641](https://www.legislation.gov.uk/uksi/2010/641), [2010/2429](https://www.legislation.gov.uk/uksi/2010/2429), [2011/1740](https://www.legislation.gov.uk/uksi/2011/1740), [2014/513](https://www.legislation.gov.uk/uksi/2014/513), [2015/643](https://www.legislation.gov.uk/uksi/2015/643) and [2016/732](https://www.legislation.gov.uk/uksi/2016/732).
 
-[^key-bd25c1fe976d69d5021642b619f1e7ff]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2017/901/article/7) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
+[^c-bd25c1fe976d69d5021642b619f1e7ff]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2017/901/article/7) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
 
 [^f00016]: Footnote: [S.I. 2001/155](https://www.legislation.gov.uk/uksi/2001/155); relevant amending instruments are [S.I. 2012/2785](https://www.legislation.gov.uk/uksi/2012/2785), [2014/1386](https://www.legislation.gov.uk/uksi/2014/1386) and [2014/1621](https://www.legislation.gov.uk/uksi/2014/1621). These regulations are revoked in relation to particular cases.
 
-[^key-423547f72a2825b7d942a31ff1d89797]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2017/901/article/8) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
+[^c-423547f72a2825b7d942a31ff1d89797]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2017/901/article/8) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
 
 [^f00017]: Footnote: [S.I 2001/4022](https://www.legislation.gov.uk/uksi/2001/4022), to which there are amendments not relevant to this Order.
 
-[^key-478a696c89f24f57212faf6005794b4c]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2017/901/article/9) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
+[^c-478a696c89f24f57212faf6005794b4c]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2017/901/article/9) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
 
 [^f00018]: Footnote: [S.I. 2002/1792](https://www.legislation.gov.uk/uksi/2002/1792); relevant amending instruments are [S.I. 2002/3019](https://www.legislation.gov.uk/uksi/2002/3019), [2008/3157](https://www.legislation.gov.uk/uksi/2008/3157), [2010/2429](https://www.legislation.gov.uk/uksi/2010/2429), [2011/2425](https://www.legislation.gov.uk/uksi/2011/2425), [2013/235](https://www.legislation.gov.uk/uksi/2013/235), [2014/513](https://www.legislation.gov.uk/uksi/2014/513), [2015/643](https://www.legislation.gov.uk/uksi/2015/643) and [2016/732](https://www.legislation.gov.uk/uksi/2016/732).
 
-[^key-0ee313eade8f2844dac195e3986a0bc7]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2017/901/article/10) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
+[^c-0ee313eade8f2844dac195e3986a0bc7]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2017/901/article/10) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
 
 [^f00019]: Footnote: [S.I. 2005/3061](https://www.legislation.gov.uk/uksi/2005/3061), amended by [S.I. 2011/100](https://www.legislation.gov.uk/uksi/2011/100); there are other amending instruments but none is relevant.
 
-[^key-a8deaf9f2063d627768db0e34173e611]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2017/901/article/11) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
+[^c-a8deaf9f2063d627768db0e34173e611]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2017/901/article/11) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
 
 [^f00020]: Footnote: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213); relevant amending instruments are [S.I. 2007/2868](https://www.legislation.gov.uk/uksi/2007/2868), [2008/698](https://www.legislation.gov.uk/uksi/2008/698), [2008/2767](https://www.legislation.gov.uk/uksi/2008/2767), [2009/583](https://www.legislation.gov.uk/uksi/2009/583), [2010/641](https://www.legislation.gov.uk/uksi/2010/641), [2010/2429](https://www.legislation.gov.uk/uksi/2010/2429), [2010/2449](https://www.legislation.gov.uk/uksi/2010/2449), [2010/2835](https://www.legislation.gov.uk/uksi/2010/2835), [2011/1736](https://www.legislation.gov.uk/uksi/2011/1736), [2011/1740](https://www.legislation.gov.uk/uksi/2011/1740), [2013/1465](https://www.legislation.gov.uk/uksi/2013/1465), [2014/513](https://www.legislation.gov.uk/uksi/2014/513), [2015/643](https://www.legislation.gov.uk/uksi/2015/643) and [2016/732](https://www.legislation.gov.uk/uksi/2016/732).
 
-[^key-b5daa78a1bc4ee781851441bbbef6492]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2017/901/article/12) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
+[^c-b5daa78a1bc4ee781851441bbbef6492]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2017/901/article/12) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
 
 [^f00021]: Footnote: [S.I. 2006/214](https://www.legislation.gov.uk/uksi/2006/214); relevant amending instruments are [S.I. 2008/3157](https://www.legislation.gov.uk/uksi/2008/3157), [2010/2449](https://www.legislation.gov.uk/uksi/2010/2449), [2011/2425](https://www.legislation.gov.uk/uksi/2011/2425), [2011/1740](https://www.legislation.gov.uk/uksi/2011/1740), [2013/1465](https://www.legislation.gov.uk/uksi/2013/1465), [2015/643](https://www.legislation.gov.uk/uksi/2015/643) and [2016/732](https://www.legislation.gov.uk/uksi/2016/732).
 
-[^key-2b66e7b318246bf1d60f212f32e876ba]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2017/901/article/13) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
+[^c-2b66e7b318246bf1d60f212f32e876ba]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2017/901/article/13) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
 
 [^f00022]: Footnote: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794); relevant amending instruments are [S.I. 2009/583](https://www.legislation.gov.uk/uksi/2009/583), [2010/641](https://www.legislation.gov.uk/uksi/2010/641), [2010/2429](https://www.legislation.gov.uk/uksi/2010/2429), [2014/513](https://www.legislation.gov.uk/uksi/2014/513), [2015/643](https://www.legislation.gov.uk/uksi/2015/643) and [2016/732](https://www.legislation.gov.uk/uksi/2016/732).
 
-[^key-fe6dc8f2a73efb4fd7b07aa606cd44b0]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2017/901/article/14) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
+[^c-fe6dc8f2a73efb4fd7b07aa606cd44b0]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2017/901/article/14) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
 
 [^f00023]: Footnote: [S.I. 2012/2677](https://www.legislation.gov.uk/uksi/2012/2677), amended by [S.I. 2015/643](https://www.legislation.gov.uk/uksi/2015/643); there are other amending instruments but none is relevant.
 
-[^key-ca3e608a1026bc7112584a5fb5922d3e]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2017/901/article/15) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
+[^c-ca3e608a1026bc7112584a5fb5922d3e]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2017/901/article/15) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
 
 [^f00024]: Footnote: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376), to which there are amendments not relevant to this Order.
 
-[^key-78974e4f3fb1b281b9dd537f33db675b]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2017/901/article/16) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
+[^c-78974e4f3fb1b281b9dd537f33db675b]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2017/901/article/16) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
 
 [^f00025]: Footnote: [S.I. 2013/377](https://www.legislation.gov.uk/uksi/2013/377); relevant amending instruments are [S.I. 2013/2270](https://www.legislation.gov.uk/uksi/2013/2270) and [2015/643](https://www.legislation.gov.uk/uksi/2015/643).
 
-[^key-ccc0d5b15a7a412cc4efab5572102395]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2017/901/article/17) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
+[^c-ccc0d5b15a7a412cc4efab5572102395]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2017/901/article/17) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
 
 [^f00026]: Footnote: [S.I. 2013/378](https://www.legislation.gov.uk/uksi/2013/378), amended by [S.I. 2015/643](https://www.legislation.gov.uk/uksi/2015/643); there are other amending instruments but none is relevant.
 
-[^key-788eff0226e88f333ba3efceb1348a4b]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2017/901/article/18) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
+[^c-788eff0226e88f333ba3efceb1348a4b]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2017/901/article/18) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
 
 [^f00027]: Footnote: [S.I. 2013/379](https://www.legislation.gov.uk/uksi/2013/379), amended by [S.I. 2015/643](https://www.legislation.gov.uk/uksi/2015/643); there are other amending instruments but none is relevant.
 
-[^key-210fd4916aac8c2ea7c304d58d5accba]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2017/901/article/19) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
+[^c-210fd4916aac8c2ea7c304d58d5accba]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2017/901/article/19) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
 
 [^f00028]: Footnote: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207); relevant amending instruments are [S.I. 2012/853](https://www.legislation.gov.uk/uksi/2012/853), [2012/1479](https://www.legislation.gov.uk/uksi/2012/1479) and [2013/2722](https://www.legislation.gov.uk/uksi/2013/2722).
 
-[^key-83feb7225d2302559e7db5ef18b06f5f]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2017/901/article/20) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
+[^c-83feb7225d2302559e7db5ef18b06f5f]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2017/901/article/20) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
 
 [^f00029]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); relevant amending instruments are [S.I. 1992/468](https://www.legislation.gov.uk/uksi/1992/468) and [2010/2429](https://www.legislation.gov.uk/uksi/2010/2429).
 
-[^key-7c87423e1797fbfc3ec29666a880fa1c]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2017/901/article/21) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
+[^c-7c87423e1797fbfc3ec29666a880fa1c]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2017/901/article/21) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
 
 [^f00030]: Footnote: [S.I. 1992/1815](https://www.legislation.gov.uk/uksi/1992/1815); relevant amending instruments are [S.I. 1993/913](https://www.legislation.gov.uk/uksi/1993/913), [2001/155](https://www.legislation.gov.uk/uksi/2001/155), [2012/2785](https://www.legislation.gov.uk/uksi/2012/2785), [2014/1386](https://www.legislation.gov.uk/uksi/2014/1386) and [2014/1621](https://www.legislation.gov.uk/uksi/2014/1621). These regulations are revoked in relation to particular cases.
 
-[^key-c26c567d1d7c31d0234e093693cad0cc]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2017/901/article/22) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
+[^c-c26c567d1d7c31d0234e093693cad0cc]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2017/901/article/22) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
 
 [^f00031]: Footnote: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207), amended by [S.I. 2010/2429](https://www.legislation.gov.uk/uksi/2010/2429).
 
-[^key-088ce4f37af97adfc54996fa16dfc561]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2017/901/article/23) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
+[^c-088ce4f37af97adfc54996fa16dfc561]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2017/901/article/23) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
 
 [^f00032]: Footnote: [S.I. 2001/155](https://www.legislation.gov.uk/uksi/2001/155); relevant amending instruments are [S.I. 2012/2785](https://www.legislation.gov.uk/uksi/2012/2785), [2014/1386](https://www.legislation.gov.uk/uksi/2014/1386) and [2014/1621](https://www.legislation.gov.uk/uksi/2014/1621). These regulations are revoked in relation to particular cases.
 
-[^key-536952052ffa7af5a7c1fd2add9031d9]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2017/901/article/24) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
+[^c-536952052ffa7af5a7c1fd2add9031d9]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2017/901/article/24) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
 
 [^f00033]: Footnote: [S.I. 2002/1792](https://www.legislation.gov.uk/uksi/2002/1792); relevant amending instruments are [S.I. 2010/2429](https://www.legislation.gov.uk/uksi/2010/2429) and [2016/732](https://www.legislation.gov.uk/uksi/2016/732).
 
-[^key-3feaf713cdcdbb01c2d398da6389c334]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2017/901/article/25) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
+[^c-3feaf713cdcdbb01c2d398da6389c334]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2017/901/article/25) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
 
 [^f00034]: Footnote: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213); relevant amending instruments are [S.I. 2008/1082](https://www.legislation.gov.uk/uksi/2008/1082), [2010/2429](https://www.legislation.gov.uk/uksi/2010/2429), [2013/1465](https://www.legislation.gov.uk/uksi/2013/1465), [2017/204](https://www.legislation.gov.uk/uksi/2017/204) and [2017/581](https://www.legislation.gov.uk/uksi/2017/581).
 
-[^key-d0649f9bd80530912e5b6b88d3582aa6]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2017/901/article/26) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
+[^c-d0649f9bd80530912e5b6b88d3582aa6]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2017/901/article/26) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
 
 [^f00035]: Footnote: [S.I. 2006/214](https://www.legislation.gov.uk/uksi/2006/214); relevant amending instruments are [S.I. 2013/1465](https://www.legislation.gov.uk/uksi/2013/1465) and [2016/732](https://www.legislation.gov.uk/uksi/2016/732).
 
-[^key-7eaeda810b0fe801265503e984f235fe]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2017/901/article/27) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
+[^c-7eaeda810b0fe801265503e984f235fe]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2017/901/article/27) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
 
 [^f00036]: Footnote: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794), amended by [S.I. 2010/2429](https://www.legislation.gov.uk/uksi/2010/2429).
 
-[^key-4b08eb5ee5d492e729f3350cce368442]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2017/901/article/28) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
+[^c-4b08eb5ee5d492e729f3350cce368442]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2017/901/article/28) in force at 3.11.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1)
 
 [^f00037]: Footnote: [S.I. 2012/2677](https://www.legislation.gov.uk/uksi/2012/2677).

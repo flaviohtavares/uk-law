@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Legal aid in relation to terrorism prevention and investigation measures[^key-eb6d183d86d3a3e7810585c88f2ed084]
+## 91. Legal aid in relation to terrorism prevention and investigation measures[^c-eb6d183d86d3a3e7810585c88f2ed084]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb6d183d86d3a3e7810585c88f2ed084]: Commencement: S. 91 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-eb6d183d86d3a3e7810585c88f2ed084]: Commencement: S. 91 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)

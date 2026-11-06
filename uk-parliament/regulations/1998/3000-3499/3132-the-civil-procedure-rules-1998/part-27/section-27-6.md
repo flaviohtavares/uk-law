@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27.6. Preliminary hearing[^key-cd09f3ab81d836d4362f58656084db0c]
+## 27.6. Preliminary hearing[^c-cd09f3ab81d836d4362f58656084db0c]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd09f3ab81d836d4362f58656084db0c]: Commencement: [Rule 27.6](https://www.legislation.gov.uk/uksi/1998/3132/rule/27.6) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-cd09f3ab81d836d4362f58656084db0c]: Commencement: [Rule 27.6](https://www.legislation.gov.uk/uksi/1998/3132/rule/27.6) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

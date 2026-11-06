@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Supply of customs information by HMRC[^key-c4a3bb9a949de2c9feaaed6ac553c64a][^key-3861c78be91c7e0187a725c54d67c0f9]
+## 30. Supply of customs information by HMRC[^c-c4a3bb9a949de2c9feaaed6ac553c64a][^c-3861c78be91c7e0187a725c54d67c0f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c4a3bb9a949de2c9feaaed6ac553c64a]: Commencement: S. 30 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-c4a3bb9a949de2c9feaaed6ac553c64a]: Commencement: S. 30 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-3861c78be91c7e0187a725c54d67c0f9]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2025/31/section/30) in force at 2.2.2026 by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/c)
+[^c-3861c78be91c7e0187a725c54d67c0f9]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2025/31/section/30) in force at 2.2.2026 by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/c)

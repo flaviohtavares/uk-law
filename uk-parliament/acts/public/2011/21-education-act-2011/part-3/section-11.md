@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Abolition of the GTCE: consequential amendments[^key-f2fe3ca84c2e458e29c1bfd5e56eb2f3]
+## 11. Abolition of the GTCE: consequential amendments[^c-f2fe3ca84c2e458e29c1bfd5e56eb2f3]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2fe3ca84c2e458e29c1bfd5e56eb2f3]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2011/21/section/11) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-f2fe3ca84c2e458e29c1bfd5e56eb2f3]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2011/21/section/11) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

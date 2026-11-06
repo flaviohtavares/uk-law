@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Power to charge for passport validation services[^key-3049c147410acb818cf68c511ab93d14]
+## 88. Power to charge for passport validation services[^c-3049c147410acb818cf68c511ab93d14]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3049c147410acb818cf68c511ab93d14]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2016/19/section/88) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/q)
+[^c-3049c147410acb818cf68c511ab93d14]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2016/19/section/88) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/q)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2B — ADDITIONAL CONDITIONS FOR THE GRANT OF CERTAIN PROJECT LICENCES[^key-909a455c7f9f4ecd2ec09ecaab95fd3b]
+## SCHEDULE 2B — ADDITIONAL CONDITIONS FOR THE GRANT OF CERTAIN PROJECT LICENCES[^c-909a455c7f9f4ecd2ec09ecaab95fd3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -88,4 +88,4 @@ Section 5C(4)
 
 ## Annotations
 
-[^key-909a455c7f9f4ecd2ec09ecaab95fd3b]: Textual amendment: Sch. 2B inserted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/9/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3039/schedule/1) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
+[^c-909a455c7f9f4ecd2ec09ecaab95fd3b]: Textual amendment: Sch. 2B inserted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/9/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3039/schedule/1) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))

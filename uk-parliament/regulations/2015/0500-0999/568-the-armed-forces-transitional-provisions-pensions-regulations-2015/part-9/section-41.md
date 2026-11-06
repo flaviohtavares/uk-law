@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Amendment of the Armed Forces Pension Regulations 2014[^key-c15629c9deffefc19cbc34580e33b0f3]
+## 41. Amendment of the Armed Forces Pension Regulations 2014[^c-c15629c9deffefc19cbc34580e33b0f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ The Armed Forces Pension Regulations 2014[^f00030] are amended by inserting into
 
 ## Annotations
 
-[^key-c15629c9deffefc19cbc34580e33b0f3]: Commencement: Reg. 41 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-c15629c9deffefc19cbc34580e33b0f3]: Commencement: Reg. 41 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
 
 [^f00030]: Footnote: [S.I. 2014/2336](https://www.legislation.gov.uk/uksi/2014/2336).

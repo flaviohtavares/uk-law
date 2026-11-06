@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Payments of dividends and related matters[^key-23dc65d1a9e2da29a8aefb2557a04806]
+## 70. Payments of dividends and related matters[^c-23dc65d1a9e2da29a8aefb2557a04806]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23dc65d1a9e2da29a8aefb2557a04806]: Commencement: [Rule 70](https://www.legislation.gov.uk/uksi/2013/3208/rule/70) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-23dc65d1a9e2da29a8aefb2557a04806]: Commencement: [Rule 70](https://www.legislation.gov.uk/uksi/2013/3208/rule/70) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

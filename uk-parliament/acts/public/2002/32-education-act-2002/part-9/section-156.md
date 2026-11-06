@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 156. Meaning of “nursery school” and “primary education”[^c385201][^key-28a44c2989d9cc1a481567530170724c]
+## 156. Meaning of “nursery school” and “primary education”[^c385201][^c-28a44c2989d9cc1a481567530170724c]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c385201]: Commencement: S. 156 not in force at Royal Assent, see s. 216; s. 156 in force for E. at 1.10.2002 by [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3) (with transitional provisions and savings in [art. 4](https://www.legislation.gov.uk/uksi/2002/2439/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2002/2439/schedule))
 
-[^key-28a44c2989d9cc1a481567530170724c]: Commencement: S. 156 in force at 31.3.2004 for W. by [S.I. 2004/912](https://www.legislation.gov.uk/uksi/2004/912), [art. 4](https://www.legislation.gov.uk/uksi/2004/912/article/4), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2004/912/schedule/part/1)
+[^c-28a44c2989d9cc1a481567530170724c]: Commencement: S. 156 in force at 31.3.2004 for W. by [S.I. 2004/912](https://www.legislation.gov.uk/uksi/2004/912), [art. 4](https://www.legislation.gov.uk/uksi/2004/912/article/4), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2004/912/schedule/part/1)

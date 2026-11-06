@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. The Midwifery Committee[^key-6ae5f9b8bdfa1bcd47c3e5b8a1f69fb1]
+## 41. The Midwifery Committee[^c-6ae5f9b8bdfa1bcd47c3e5b8a1f69fb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ae5f9b8bdfa1bcd47c3e5b8a1f69fb1]: Textual amendment: Pt. 8 omitted (31.3.2017) by virtue of [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(c)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/c/d), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2017/321/schedule/1/paragraph/18) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
+[^c-6ae5f9b8bdfa1bcd47c3e5b8a1f69fb1]: Textual amendment: Pt. 8 omitted (31.3.2017) by virtue of [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(c)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/c/d), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2017/321/schedule/1/paragraph/18) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))

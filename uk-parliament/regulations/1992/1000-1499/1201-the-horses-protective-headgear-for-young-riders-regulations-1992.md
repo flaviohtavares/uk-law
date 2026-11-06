@@ -44,11 +44,11 @@ Coming into force
 
 The Secretary of State for Transport, in exercise of the powers conferred by section 2(1) of the Horses (Protective Headgear for Young Riders) Act 1990[^f00001] (hereinafter “the Act ”), and of all other enabling powers, and after consultation with representative organisations in accordance with section 2(2) of the Act, hereby makes the following Regulations:
 
-## 1. Commencement and citation[^key-eff386b1252f5620b1ed10759c2ee22e]
+## 1. Commencement and citation[^c-eff386b1252f5620b1ed10759c2ee22e]
 
 These Regulations may be cited as the Horses (Protective Headgear for Young Riders) Regulations 1992 and shall come into force on 30th June 1992.
 
-## 2. Interpretation[^key-64ef48a57cc4a6f3d7d23c5f5616346a]
+## 2. Interpretation[^c-64ef48a57cc4a6f3d7d23c5f5616346a]
 
 In these Regulations—
 
@@ -57,7 +57,7 @@ In these Regulations—
 - (c) “EC mark of conformity” has the same meaning as in the Directive; and
 - (d) a reference to a numbered regulation is a reference to the regulation bearing that number in these Regulations and to a numbered paragraph is a reference to the paragraph bearing that number in the regulation in which it appears.
 
-## 3. Disapplication of section 1 of the Act[^key-062086f36ec1b1e0b434b8753544a1cc]
+## 3. Disapplication of section 1 of the Act[^c-062086f36ec1b1e0b434b8753544a1cc]
 
 (1) Section 1 of the Act shall not apply in relation to a child described in paragraph (2) nor to the riding of horses in the circumstances specified in paragraph (3).
 
@@ -69,7 +69,7 @@ In these Regulations—
 - (b) the horse is being led on a leading rein on foot by the owner of the horse or another person aged 18 years or over who is authorised to do so by the owner; and
 - (c) no more than two horses are being led at any one time.
 
-## 4. Descriptions of protective headgear[^key-6fd63efbe7af1f2b681cfea74e319d3a]
+## 4. Descriptions of protective headgear[^c-6fd63efbe7af1f2b681cfea74e319d3a]
 
 (1) Subject to paragraph (2), for the purposes of section 1 of the Act the protective headgear to be worn by a child riding a horse on a road, other than a child in relation to whom or in circumstances in relation to which section 1 is disapplied by regulation 3, shall be a helmet which—
 
@@ -83,7 +83,7 @@ In these Regulations—
 
 (3) In this regulation a reference to a helmet bearing an EC mark of conformity is a reference to a mark properly applied in accordance with articles 8 to 13 of the Directive.
 
-## 5. Manner of wearing headgear[^key-5d59f629eead37d07ca325f03d7d6a21]
+## 5. Manner of wearing headgear[^c-5d59f629eead37d07ca325f03d7d6a21]
 
 For the purposes of section 1 of the Act a helmet which conforms to the requirements of regulation 4 shall be securely fastened to the head of the wearer by means of the straps or other fastening provided on the headgear for that purpose.
 
@@ -101,18 +101,18 @@ Department of Transport
 
 (regulations 2(a) and 4)
 
-**1.**[^key-3408312df28f83f81f573c4a78c33970] British Standard 6473: 1984 as amended by the following Amendment Slips:—
+**1.**[^c-3408312df28f83f81f573c4a78c33970] British Standard 6473: 1984 as amended by the following Amendment Slips:—
 
 | *Number* | *Date of Publication* |
 | --- | --- |
 | 1 | 29th March 1985 |
 | 2 | 31st December 1986 |
 
-**2.**[^key-51c62e641b3e1b556590330f4d771be6] British Standard 6863: 1987
+**2.**[^c-51c62e641b3e1b556590330f4d771be6] British Standard 6863: 1987
 
-**3.**[^key-7819f075e3c8784a605698ab10dfaa2c] British Standard 4472: 1988
+**3.**[^c-7819f075e3c8784a605698ab10dfaa2c] British Standard 4472: 1988
 
-**4.**[^key-6e08808fe9a6f7b4dcf23a05e434dcab] British Standard 6863: 1989
+**4.**[^c-6e08808fe9a6f7b4dcf23a05e434dcab] British Standard 6863: 1989
 
 (This note is not part of the Regulations)
 
@@ -130,22 +130,22 @@ Copies of the British Standards specifications referred to in these Regulations 
 
 [^f00001]: Footnote: [1990 c. 25](https://www.legislation.gov.uk/ukpga/1990/25).
 
-[^key-eff386b1252f5620b1ed10759c2ee22e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1992/1201/regulation/1) in force at 30.6.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/1201/regulation/1)
+[^c-eff386b1252f5620b1ed10759c2ee22e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1992/1201/regulation/1) in force at 30.6.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/1201/regulation/1)
 
-[^key-64ef48a57cc4a6f3d7d23c5f5616346a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1992/1201/regulation/2) in force at 30.6.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/1201/regulation/1)
+[^c-64ef48a57cc4a6f3d7d23c5f5616346a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1992/1201/regulation/2) in force at 30.6.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/1201/regulation/1)
 
 [^f00002]: Footnote: OJ No L399, 30.12.89, p. 18.
 
-[^key-062086f36ec1b1e0b434b8753544a1cc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1992/1201/regulation/3) in force at 30.6.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/1201/regulation/1)
+[^c-062086f36ec1b1e0b434b8753544a1cc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1992/1201/regulation/3) in force at 30.6.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/1201/regulation/1)
 
-[^key-6fd63efbe7af1f2b681cfea74e319d3a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1992/1201/regulation/4) in force at 30.6.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/1201/regulation/1)
+[^c-6fd63efbe7af1f2b681cfea74e319d3a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1992/1201/regulation/4) in force at 30.6.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/1201/regulation/1)
 
-[^key-5d59f629eead37d07ca325f03d7d6a21]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1992/1201/regulation/5) in force at 30.6.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/1201/regulation/1)
+[^c-5d59f629eead37d07ca325f03d7d6a21]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1992/1201/regulation/5) in force at 30.6.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/1201/regulation/1)
 
-[^key-3408312df28f83f81f573c4a78c33970]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/1992/1201/schedule/paragraph/1) in force at 30.6.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/1201/regulation/1)
+[^c-3408312df28f83f81f573c4a78c33970]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/1992/1201/schedule/paragraph/1) in force at 30.6.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/1201/regulation/1)
 
-[^key-51c62e641b3e1b556590330f4d771be6]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/1992/1201/schedule/paragraph/2) in force at 30.6.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/1201/regulation/1)
+[^c-51c62e641b3e1b556590330f4d771be6]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/1992/1201/schedule/paragraph/2) in force at 30.6.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/1201/regulation/1)
 
-[^key-7819f075e3c8784a605698ab10dfaa2c]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/1992/1201/schedule/paragraph/3) in force at 30.6.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/1201/regulation/1)
+[^c-7819f075e3c8784a605698ab10dfaa2c]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/1992/1201/schedule/paragraph/3) in force at 30.6.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/1201/regulation/1)
 
-[^key-6e08808fe9a6f7b4dcf23a05e434dcab]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/1992/1201/schedule/paragraph/4) in force at 30.6.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/1201/regulation/1)
+[^c-6e08808fe9a6f7b4dcf23a05e434dcab]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/1992/1201/schedule/paragraph/4) in force at 30.6.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/1201/regulation/1)

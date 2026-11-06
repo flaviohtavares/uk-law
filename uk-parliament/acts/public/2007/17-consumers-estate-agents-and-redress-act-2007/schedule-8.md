@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Repeals[^key-f65771f72db90fa321ceac44926afc82][^key-d3262ca3855b0877a2809540f1517819][^key-d6a37a69d9acc88aceeed16dd85d01ef]
+## SCHEDULE 8 — Repeals[^c-f65771f72db90fa321ceac44926afc82][^c-d3262ca3855b0877a2809540f1517819][^c-d6a37a69d9acc88aceeed16dd85d01ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,8 +41,8 @@ Section 64
 
 ## Annotations
 
-[^key-f65771f72db90fa321ceac44926afc82]: Commencement: Sch. 8 in force at 21.12.2007 for specified purposes by [S.I. 2007/3546](https://www.legislation.gov.uk/uksi/2007/3546), [art. 3](https://www.legislation.gov.uk/uksi/2007/3546/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2007/3546/schedule)
+[^c-f65771f72db90fa321ceac44926afc82]: Commencement: Sch. 8 in force at 21.12.2007 for specified purposes by [S.I. 2007/3546](https://www.legislation.gov.uk/uksi/2007/3546), [art. 3](https://www.legislation.gov.uk/uksi/2007/3546/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2007/3546/schedule)
 
-[^key-d3262ca3855b0877a2809540f1517819]: Commencement: Sch. 8 in force at 1.10.2008 for specified purposes by [S.I. 2008/905](https://www.legislation.gov.uk/uksi/2008/905), [art. 3(2)](https://www.legislation.gov.uk/uksi/2008/905/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/905/schedule/2)
+[^c-d3262ca3855b0877a2809540f1517819]: Commencement: Sch. 8 in force at 1.10.2008 for specified purposes by [S.I. 2008/905](https://www.legislation.gov.uk/uksi/2008/905), [art. 3(2)](https://www.legislation.gov.uk/uksi/2008/905/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/905/schedule/2)
 
-[^key-d6a37a69d9acc88aceeed16dd85d01ef]: Commencement: Sch. 8 in force at 1.10.2008 in so far as not already in force by [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/2550/article/3))
+[^c-d6a37a69d9acc88aceeed16dd85d01ef]: Commencement: Sch. 8 in force at 1.10.2008 in so far as not already in force by [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/2550/article/3))

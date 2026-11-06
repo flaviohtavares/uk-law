@@ -16,70 +16,70 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — TEMPORARY MODIFICATIONS OF THE ARMED FORCES PENSION SCHEME 2005[^key-1401fce8234c0d74249d7948e6ccf89a]
+## SCHEDULE 2 — TEMPORARY MODIFICATIONS OF THE ARMED FORCES PENSION SCHEME 2005[^c-1401fce8234c0d74249d7948e6ccf89a]
 
 *Extent: E+W+S+N.I.*
 
 Article 2(2)
 
-**1.**[^key-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**2.**[^key-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**3.**[^key-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**4.**[^key-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**5.**[^key-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**6.**[^key-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**7.**[^key-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**8.**[^key-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**9.**[^key-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**10.**[^key-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**11.**[^key-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**12.**[^key-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**13.**[^key-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**14.**[^key-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**15.**[^key-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-1401fce8234c0d74249d7948e6ccf89a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1401fce8234c0d74249d7948e6ccf89a]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) revoked (6.4.2006) by [The Armed Forces Pension Scheme etc. (Amendment) Order 2006 (S.I. 2006/717)](https://www.legislation.gov.uk/uksi/2006/717), [art. 1(2)](https://www.legislation.gov.uk/uksi/2006/717/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/717/schedule)
+[^c-1401fce8234c0d74249d7948e6ccf89a]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) revoked (6.4.2006) by [The Armed Forces Pension Scheme etc. (Amendment) Order 2006 (S.I. 2006/717)](https://www.legislation.gov.uk/uksi/2006/717), [art. 1(2)](https://www.legislation.gov.uk/uksi/2006/717/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/717/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Power to add or remove types of consent[^key-9b254f42baf86f777989f5754f9ab232][^key-4dc163947f5cdc8b917e3dd79ebf99b2]
+## 21. Power to add or remove types of consent[^c-9b254f42baf86f777989f5754f9ab232][^c-4dc163947f5cdc8b917e3dd79ebf99b2]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9b254f42baf86f777989f5754f9ab232]: Commencement: S. 21 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
+[^c-9b254f42baf86f777989f5754f9ab232]: Commencement: S. 21 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
 
-[^key-4dc163947f5cdc8b917e3dd79ebf99b2]: Commencement: [S. 21](https://www.legislation.gov.uk/asc/2024/3/section/21) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)
+[^c-4dc163947f5cdc8b917e3dd79ebf99b2]: Commencement: [S. 21](https://www.legislation.gov.uk/asc/2024/3/section/21) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)

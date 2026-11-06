@@ -50,13 +50,13 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with sections 86(4) and 306(4) of the Merchant Shipping Act 1995[^f00005], the Secretary of State has consulted the persons and organisations referred to in those sections.
 
-## 1. Citation and commencement[^key-df0201fc8da93cbf2e2c648425a98032]
+## 1. Citation and commencement[^c-df0201fc8da93cbf2e2c648425a98032]
 
 These Regulations may be cited as the Merchant Shipping (Maritime Labour Convention) (Consequential and Minor Amendments) Regulations 2014 and they come into force on 7th August 2014.
 
 ## PART 1 — Amendments to Primary Legislation
 
-### 2. Amendments to Merchant Shipping Act 1995[^key-5a16311c8e4649e0457fbb62af1e1c40]
+### 2. Amendments to Merchant Shipping Act 1995[^c-5a16311c8e4649e0457fbb62af1e1c40]
 
 (1) The Merchant Shipping Act 1995[^f00006] is amended as follows.
 
@@ -83,13 +83,13 @@ These Regulations may be cited as the Merchant Shipping (Maritime Labour Convent
 
 .
 
-### 3. Amendment to the Employment Rights Act 1996[^key-798bc19a3bad072107a59319452dbcad]
+### 3. Amendment to the Employment Rights Act 1996[^c-798bc19a3bad072107a59319452dbcad]
 
 In section 199(1) of the Employment Rights Act 1996[^f00007], at the end insert “or an agreement specified in regulations under section 32(a) of the Merchant Shipping Act 1995”[^f00008].
 
 ## PART 2 — Amendments to Secondary Legislation
 
-### 4. Amendment of the Merchant Shipping (Seaman’s Allotments) Regulations 1972[^key-dad133fa66d8f1357971c9192f0e80a4]
+### 4. Amendment of the Merchant Shipping (Seaman’s Allotments) Regulations 1972[^c-dad133fa66d8f1357971c9192f0e80a4]
 
 (1) The Merchant Shipping (Seaman’s Allotments) Regulations 1972[^f00009] are amended as follows.
 
@@ -142,7 +142,7 @@ In section 199(1) of the Employment Rights Act 1996[^f00007], at the end insert 
 
 .
 
-### 5. Amendment of the Merchant Shipping (Seaman’s Wages and Accounts) Regulations 1972[^key-6da9d9549a89f9412cee8084fb95baf8]
+### 5. Amendment of the Merchant Shipping (Seaman’s Wages and Accounts) Regulations 1972[^c-6da9d9549a89f9412cee8084fb95baf8]
 
 (1) The Merchant Shipping (Seaman’s Wages and Accounts) Regulations 1972[^f00011] are amended as follows.
 
@@ -161,7 +161,7 @@ In section 199(1) of the Employment Rights Act 1996[^f00007], at the end insert 
 
 (5) In paragraphs (1) and (4) of regulation 8, for “regulation 5(c), (d) or (e)” substitute “regulations 5(c) or (d)”.
 
-### 6. Amendment of the Merchant Shipping (Repatriation) Regulations 1979[^key-6dcdf0326ab88d7f9237c16b4329a226]
+### 6. Amendment of the Merchant Shipping (Repatriation) Regulations 1979[^c-6dcdf0326ab88d7f9237c16b4329a226]
 
 (1) The Merchant Shipping (Repatriation) Regulations 1979[^f00013] are amended as follows.
 
@@ -177,7 +177,7 @@ In section 199(1) of the Employment Rights Act 1996[^f00007], at the end insert 
 
 (5) Omit regulation 11.
 
-### 7. Amendment of the Merchant Shipping (Provisions and Water) Regulations 1989[^key-c8bea75c30047c50724f21d484411368]
+### 7. Amendment of the Merchant Shipping (Provisions and Water) Regulations 1989[^c-c8bea75c30047c50724f21d484411368]
 
 (1) The Merchant Shipping (Provisions and Water) Regulations 1989[^f00015] are amended as follows.
 
@@ -191,7 +191,7 @@ In section 199(1) of the Employment Rights Act 1996[^f00007], at the end insert 
 
 (5) Omit regulations 3(2)(c) and (d) and 9.
 
-### 8. Amendment of the Merchant Shipping (Crew Agreements etc.) Regulations 1991[^key-508cb5ca557c4412dd0bebecab76a9f9]
+### 8. Amendment of the Merchant Shipping (Crew Agreements etc.) Regulations 1991[^c-508cb5ca557c4412dd0bebecab76a9f9]
 
 (1) The Merchant Shipping (Crew Agreements, Lists of Crew and Discharge of Seamen) Regulations 1991[^f00016] are amended as follows.
 
@@ -245,7 +245,7 @@ In section 199(1) of the Employment Rights Act 1996[^f00007], at the end insert 
 - (b) in paragraph (1)(b), for “regulation 25(c)(ii)” substitute “regulation 25(1)(c)(ii)”; and
 - (c) omit “23(1),” in paragraph (2).
 
-### 9. Amendment of the Industrial Tribunals (Northern Ireland) Order 1996[^key-de523a3b08d2c6c7d02264092d72d761]
+### 9. Amendment of the Industrial Tribunals (Northern Ireland) Order 1996[^c-de523a3b08d2c6c7d02264092d72d761]
 
 In Article 20(1) of the Industrial Tribunals (Northern Ireland) Order 1996[^f00018] for sub-paragraph (u) substitute—
 
@@ -253,7 +253,7 @@ In Article 20(1) of the Industrial Tribunals (Northern Ireland) Order 1996[^f000
 
 .
 
-### 10. Amendment of the Merchant Shipping (Crew Accommodation) Regulations 1997[^key-9c8d47d1d3f6d8bb1141a4e956220b8d]
+### 10. Amendment of the Merchant Shipping (Crew Accommodation) Regulations 1997[^c-9c8d47d1d3f6d8bb1141a4e956220b8d]
 
 (1) The Merchant Shipping (Crew Accommodation) Regulations 1997[^f00020] are amended as follows.
 
@@ -265,11 +265,11 @@ In Article 20(1) of the Industrial Tribunals (Northern Ireland) Order 1996[^f000
 
 .
 
-### 11. Amendment of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998[^key-9625bc42338024d97d11172a3c3ecfd5]
+### 11. Amendment of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998[^c-9625bc42338024d97d11172a3c3ecfd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Amendment of the Merchant Shipping (Hours of Work) Regulations 2002[^key-a14f7f091efe30e1b03742061d40ee1b]
+### 12. Amendment of the Merchant Shipping (Hours of Work) Regulations 2002[^c-a14f7f091efe30e1b03742061d40ee1b]
 
 (1) The Merchant Shipping (Hours of Work) Regulations 2002[^f00024] are amended as follows.
 
@@ -284,7 +284,7 @@ In Article 20(1) of the Industrial Tribunals (Northern Ireland) Order 1996[^f000
 
 .
 
-### 13. Amendment of the Merchant Shipping (Maritime Labour Convention) (Medical Certification) Regulations 2010[^key-8add33455942a67d85e4529dfb846ce5]
+### 13. Amendment of the Merchant Shipping (Maritime Labour Convention) (Medical Certification) Regulations 2010[^c-8add33455942a67d85e4529dfb846ce5]
 
 (1) The Merchant Shipping (Maritime Labour Convention) (Medical Certification) Regulations 2010[^f00025] are amended as follows.
 
@@ -321,7 +321,7 @@ In Article 20(1) of the Industrial Tribunals (Northern Ireland) Order 1996[^f000
 
 (5) In regulations 8(1) (wherever it appears), 8(2)(b), 10(1), 12(3), 13(1)(c), 14(5) to (7) and 16(2), for “Merchant Shipping Notice 1822(M)” substitute “Merchant Shipping Notice 1839(M)”.
 
-### 14. Amendment of the Merchant Shipping (Maritime Labour Convention) (Survey and Certification) Regulations 2013[^key-6eb336987a41c005ee544d396c23186c]
+### 14. Amendment of the Merchant Shipping (Maritime Labour Convention) (Survey and Certification) Regulations 2013[^c-6eb336987a41c005ee544d396c23186c]
 
 (1) The Merchant Shipping (Maritime Labour Convention) (Survey and Certification) Regulations 2013[^f00030] are amended as follows.
 
@@ -348,7 +348,7 @@ In Article 20(1) of the Industrial Tribunals (Northern Ireland) Order 1996[^f000
 
 ## PART 3 — Revocations of Secondary Legislation
 
-### 15. Revocations[^key-6080586da1a3e49b3516e7bb02308f28]
+### 15. Revocations[^c-6080586da1a3e49b3516e7bb02308f28]
 
 The following instruments are revoked—
 
@@ -358,7 +358,7 @@ The following instruments are revoked—
 
 ## PART 4 — Saving
 
-### 16. Saving of the Merchant Shipping and Fishing Vessels (Health and Safety) (Employment of Young Persons) Regulations 1998[^key-37e318e2c6b24f4bc5838b7407e5a1e4]
+### 16. Saving of the Merchant Shipping and Fishing Vessels (Health and Safety) (Employment of Young Persons) Regulations 1998[^c-37e318e2c6b24f4bc5838b7407e5a1e4]
 
 Notwithstanding the amendment of section 24 of the Merchant Shipping Act 1995 by article 2(1) and (2), the Merchant Shipping and Fishing Vessels (Health and Safety) (Employment of Young Persons) Regulations 1998[^f00033] continue to apply in relation to all sea-going United Kingdom ships.
 
@@ -424,65 +424,65 @@ An Impact Assessment has not been prepared for this instrument specifically. A f
 
 [^f00005]: Footnote: There are amendments to section 306 which are not relevant to these Regulations.
 
-[^key-df0201fc8da93cbf2e2c648425a98032]: Commencement: Reg. 1 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
+[^c-df0201fc8da93cbf2e2c648425a98032]: Commencement: Reg. 1 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
 
-[^key-5a16311c8e4649e0457fbb62af1e1c40]: Commencement: Reg. 2 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
+[^c-5a16311c8e4649e0457fbb62af1e1c40]: Commencement: Reg. 2 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
 
 [^f00006]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-798bc19a3bad072107a59319452dbcad]: Commencement: Reg. 3 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
+[^c-798bc19a3bad072107a59319452dbcad]: Commencement: Reg. 3 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
 
 [^f00007]: Footnote: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18).
 
 [^f00008]: Footnote: Section 32 is amended by regulation 2 of these Regulations.
 
-[^key-dad133fa66d8f1357971c9192f0e80a4]: Commencement: Reg. 4 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
+[^c-dad133fa66d8f1357971c9192f0e80a4]: Commencement: Reg. 4 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
 
 [^f00009]: Footnote: [S.I. 1972/1698](https://www.legislation.gov.uk/uksi/1972/1698).
 
 [^f00010]: Footnote: [S.I. 2014/1613](https://www.legislation.gov.uk/uksi/2014/1613).
 
-[^key-6da9d9549a89f9412cee8084fb95baf8]: Commencement: Reg. 5 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
+[^c-6da9d9549a89f9412cee8084fb95baf8]: Commencement: Reg. 5 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
 
 [^f00011]: Footnote: [S.I. 1972/1700](https://www.legislation.gov.uk/uksi/1972/1700), amended by [S.I. 1978/1757](https://www.legislation.gov.uk/uksi/1978/1757), [S.I. 1999/3360](https://www.legislation.gov.uk/uksi/1999/3360), and [S.I. 1985/340](https://www.legislation.gov.uk/uksi/1985/340).
 
 [^f00012]: Footnote: [S.I. 2014/1613](https://www.legislation.gov.uk/uksi/2014/1613).
 
-[^key-6dcdf0326ab88d7f9237c16b4329a226]: Commencement: Reg. 6 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
+[^c-6dcdf0326ab88d7f9237c16b4329a226]: Commencement: Reg. 6 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
 
 [^f00013]: Footnote: [S.I. 1979/97](https://www.legislation.gov.uk/uksi/1979/97). There are amendments not relevant to these Regulations.
 
 [^f00014]: Footnote: [S.I. 2014/1613](https://www.legislation.gov.uk/uksi/2014/1613).
 
-[^key-c8bea75c30047c50724f21d484411368]: Commencement: Reg. 7 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
+[^c-c8bea75c30047c50724f21d484411368]: Commencement: Reg. 7 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
 
 [^f00015]: Footnote: [S.I. 1989/102](https://www.legislation.gov.uk/uksi/1989/102). There are amendments not relevant to these Regulations.
 
-[^key-508cb5ca557c4412dd0bebecab76a9f9]: Commencement: Reg. 8 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
+[^c-508cb5ca557c4412dd0bebecab76a9f9]: Commencement: Reg. 8 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
 
 [^f00016]: Footnote: [S.I. 1991/2144](https://www.legislation.gov.uk/uksi/1991/2144).
 
 [^f00017]: Footnote: [S.I. 2014/1613](https://www.legislation.gov.uk/uksi/2014/1613).
 
-[^key-de523a3b08d2c6c7d02264092d72d761]: Commencement: Reg. 9 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
+[^c-de523a3b08d2c6c7d02264092d72d761]: Commencement: Reg. 9 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
 
 [^f00018]: Footnote: [S.I. 1996/1921 (N.I. 18)](https://www.legislation.gov.uk/nisi/1996/1921). Article 20(1)(u) was inserted by the Schedule to [S.I. 2014/308](https://www.legislation.gov.uk/uksi/2014/308). Article 20 was amended by [S.R 2014 No. 88](https://www.legislation.gov.uk/nisr/2014/88) and section 8 of the Employment Act (Northern Ireland) [2011 (c.13 (N.I.)](https://www.legislation.gov.uk/nia/2011/13)); there are other amending instruments but none is relevant.
 
 [^f00019]: Footnote: [S.I. 2002/2125](https://www.legislation.gov.uk/uksi/2002/2125). Regulation 22 was inserted by [S.I. 2014/308](https://www.legislation.gov.uk/uksi/2014/308) and amended by [S.I. 2014/431](https://www.legislation.gov.uk/uksi/2014/431). There are other amending instruments but none is relevant.
 
-[^key-9c8d47d1d3f6d8bb1141a4e956220b8d]: Commencement: Reg. 10 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
+[^c-9c8d47d1d3f6d8bb1141a4e956220b8d]: Commencement: Reg. 10 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
 
 [^f00020]: Footnote: [S.I. 1997/1508](https://www.legislation.gov.uk/uksi/1997/1508).
 
 [^f00021]: Footnote: [S.I. 2014/1613](https://www.legislation.gov.uk/uksi/2014/1613).
 
-[^key-9625bc42338024d97d11172a3c3ecfd5]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/1614/regulation/11) revoked (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/1195/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
+[^c-9625bc42338024d97d11172a3c3ecfd5]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/1614/regulation/11) revoked (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/1195/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
 
-[^key-a14f7f091efe30e1b03742061d40ee1b]: Commencement: Reg. 12 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
+[^c-a14f7f091efe30e1b03742061d40ee1b]: Commencement: Reg. 12 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
 
 [^f00024]: Footnote: [S.I. 2002/2125](https://www.legislation.gov.uk/uksi/2002/2125). Regulation 14A was inserted by [S.I. 2014/308](https://www.legislation.gov.uk/uksi/2014/308).
 
-[^key-8add33455942a67d85e4529dfb846ce5]: Commencement: Reg. 13 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
+[^c-8add33455942a67d85e4529dfb846ce5]: Commencement: Reg. 13 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
 
 [^f00025]: Footnote: [S.I. 2010/737](https://www.legislation.gov.uk/uksi/2010/737).
 
@@ -494,16 +494,16 @@ An Impact Assessment has not been prepared for this instrument specifically. A f
 
 [^f00029]: Footnote: [S.I. 2004/302](https://www.legislation.gov.uk/uksi/2004/302), amended by [S.I. 2012/2636](https://www.legislation.gov.uk/uksi/2012/2636); there are other amending instruments but none is relevant.
 
-[^key-6eb336987a41c005ee544d396c23186c]: Commencement: Reg. 14 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
+[^c-6eb336987a41c005ee544d396c23186c]: Commencement: Reg. 14 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
 
 [^f00030]: Footnote: [S.I. 2013/1785](https://www.legislation.gov.uk/uksi/2013/1785).
 
-[^key-6080586da1a3e49b3516e7bb02308f28]: Commencement: Reg. 15 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
+[^c-6080586da1a3e49b3516e7bb02308f28]: Commencement: Reg. 15 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
 
 [^f00031]: Footnote: [S.I. 1981/1076](https://www.legislation.gov.uk/uksi/1981/1076).
 
 [^f00032]: Footnote: [S.I. 1995/1803](https://www.legislation.gov.uk/uksi/1995/1803).
 
-[^key-37e318e2c6b24f4bc5838b7407e5a1e4]: Commencement: Reg. 16 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
+[^c-37e318e2c6b24f4bc5838b7407e5a1e4]: Commencement: Reg. 16 in force at 7.8.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1)
 
 [^f00033]: Footnote: [S.I. 1998/2411](https://www.legislation.gov.uk/uksi/1998/2411), amended by [S.I. 2002/2125](https://www.legislation.gov.uk/uksi/2002/2125) and [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).

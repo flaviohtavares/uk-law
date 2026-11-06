@@ -37,7 +37,7 @@ summary: ''
 - (b) may request the fostering service provider to obtain any other relevant information or to provide such other assistance as the fostering panel considers necessary, and
 - (c) may obtain such legal advice or medical advice as it considers necessary.
 
-(2A)[^key-0cc8a1c019a90a87021820ca27bf8e88] In relation to the case of a person in respect of whom a report has been prepared in accordance with regulation 26(3), the fostering panel must either—
+(2A)[^c-0cc8a1c019a90a87021820ca27bf8e88] In relation to the case of a person in respect of whom a report has been prepared in accordance with regulation 26(3), the fostering panel must either—
 
 - (a) request the fostering service provider to prepare a further written report, covering all the matters set out in regulation 26(2)(c); or
 - (b) recommend that the person is not suitable to be a foster parent.
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cc8a1c019a90a87021820ca27bf8e88]: Textual amendment: Reg. 25(2A) inserted (1.4.2015) by [The Care Planning and Fostering (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/495)](https://www.legislation.gov.uk/uksi/2015/495), [regs. 1](https://www.legislation.gov.uk/uksi/2015/495/regulation/1), [12](https://www.legislation.gov.uk/uksi/2015/495/regulation/12)
+[^c-0cc8a1c019a90a87021820ca27bf8e88]: Textual amendment: Reg. 25(2A) inserted (1.4.2015) by [The Care Planning and Fostering (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/495)](https://www.legislation.gov.uk/uksi/2015/495), [regs. 1](https://www.legislation.gov.uk/uksi/2015/495/regulation/1), [12](https://www.legislation.gov.uk/uksi/2015/495/regulation/12)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Review of victim’s right to receive information on fixed penalties[^key-87e019192648f1eaf5a00839571744b5][^key-96498911cc9900d8b96402323762fa0a]
+## 54. Review of victim’s right to receive information on fixed penalties[^c-87e019192648f1eaf5a00839571744b5][^c-96498911cc9900d8b96402323762fa0a]
 
 *Extent: S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-87e019192648f1eaf5a00839571744b5]: Commencement: S. 54 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-87e019192648f1eaf5a00839571744b5]: Commencement: S. 54 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-96498911cc9900d8b96402323762fa0a]: Commencement: S. 54 in force at 19.3.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-96498911cc9900d8b96402323762fa0a]: Commencement: S. 54 in force at 19.3.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

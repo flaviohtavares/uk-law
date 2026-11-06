@@ -236,7 +236,7 @@ and
 (2) In paragraph 1(1) (interpretation)—
 
 - (a) the definition of “the freeholder” shall be omitted, and
-- (b)[^key-f24acd0e6bc7ccc592401997f7d43fb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-f24acd0e6bc7ccc592401997f7d43fb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In paragraph 2 (price payable for the freehold of the specified premises), in sub-paragraph (1)—
 
@@ -462,4 +462,4 @@ and
 
 [^c13158481]: Textual amendment: Sch. 10 para. 4 repealed (26.7.2002 for E. and 1.1.2003 for W.) by [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15), [s. 180](https://www.legislation.gov.uk/ukpga/2002/15/section/180), [Sch. 14](https://www.legislation.gov.uk/ukpga/2002/15/schedule/14); [S.I. 2002/1912](https://www.legislation.gov.uk/uksi/2002/1912), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2002/1912/article/2/b/ii) (subject to the transitional provisions and savings in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/1912/schedule/2)), Sch. 1 Pt. 2; [S.I. 2002/3012](https://www.legislation.gov.uk/uksi/2002/3012), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2002/3012/article/2/b/ii), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2002/3012/schedule/1/part/2) (subject to the transitional provisions and savings in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3012/schedule/2))
 
-[^key-f24acd0e6bc7ccc592401997f7d43fb6]: Textual amendment: [Sch. 10 para. 18(2)(b)](https://www.legislation.gov.uk/ukpga/1996/52/schedule/10/paragraph/18/2/b) and preceding word repealed (28.2.2005 for E., 31.5.2005 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 14](https://www.legislation.gov.uk/ukpga/2002/15/schedule/14); [S.I. 2004/3056](https://www.legislation.gov.uk/uksi/2004/3056), [art. 3(j)](https://www.legislation.gov.uk/uksi/2004/3056/article/3/j); [S.I. 2005/1353](https://www.legislation.gov.uk/wsi/2005/1353), [art. 2(j)](https://www.legislation.gov.uk/wsi/2005/1353/article/2/j)
+[^c-f24acd0e6bc7ccc592401997f7d43fb6]: Textual amendment: [Sch. 10 para. 18(2)(b)](https://www.legislation.gov.uk/ukpga/1996/52/schedule/10/paragraph/18/2/b) and preceding word repealed (28.2.2005 for E., 31.5.2005 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 14](https://www.legislation.gov.uk/ukpga/2002/15/schedule/14); [S.I. 2004/3056](https://www.legislation.gov.uk/uksi/2004/3056), [art. 3(j)](https://www.legislation.gov.uk/uksi/2004/3056/article/3/j); [S.I. 2005/1353](https://www.legislation.gov.uk/wsi/2005/1353), [art. 2(j)](https://www.legislation.gov.uk/wsi/2005/1353/article/2/j)

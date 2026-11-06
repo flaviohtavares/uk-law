@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Pedestrian-controlled road maintenance vehicles[^key-59341c23aeb0a455b38a5f34365fdee1]
+## 50. Pedestrian-controlled road maintenance vehicles[^c-59341c23aeb0a455b38a5f34365fdee1]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59341c23aeb0a455b38a5f34365fdee1]: Commencement: Art. 50 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-59341c23aeb0a455b38a5f34365fdee1]: Commencement: Art. 50 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

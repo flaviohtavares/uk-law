@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Abandonment of offshore installations[^key-d8b3b861e3a8f33a322e7fbf212dae94]
+## 72. Abandonment of offshore installations[^c-d8b3b861e3a8f33a322e7fbf212dae94]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 2 makes provision about the abandonment of offshore installations.
 
 ## Annotations
 
-[^key-d8b3b861e3a8f33a322e7fbf212dae94]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2016/20/section/72) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-d8b3b861e3a8f33a322e7fbf212dae94]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2016/20/section/72) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)

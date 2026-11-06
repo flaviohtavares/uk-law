@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Amount payable on death of pension credit member[^key-1295e5aea0bb70ba2f627bffa5e51876]
+## 132. Amount payable on death of pension credit member[^c-1295e5aea0bb70ba2f627bffa5e51876]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1295e5aea0bb70ba2f627bffa5e51876]: Commencement: [Reg. 132](https://www.legislation.gov.uk/uksi/2014/1964/regulation/132) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-1295e5aea0bb70ba2f627bffa5e51876]: Commencement: [Reg. 132](https://www.legislation.gov.uk/uksi/2014/1964/regulation/132) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
 [^f00071]: Footnote: Part 4A was inserted by the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30) section 37.
 

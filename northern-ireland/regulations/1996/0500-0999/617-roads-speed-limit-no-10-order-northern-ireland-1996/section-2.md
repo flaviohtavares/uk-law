@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Speed restrictions on certain roads[^key-9e637a33da2d69371d4ad93aa4569622]
+## 2. Speed restrictions on certain roads[^c-9e637a33da2d69371d4ad93aa4569622]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The Department hereby directs that each of the roads and lengths of road specifi
 
 ## Annotations
 
-[^key-9e637a33da2d69371d4ad93aa4569622]: Commencement: Art. 2 in operation at 10.2.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1996/617/article/1)
+[^c-9e637a33da2d69371d4ad93aa4569622]: Commencement: Art. 2 in operation at 10.2.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1996/617/article/1)

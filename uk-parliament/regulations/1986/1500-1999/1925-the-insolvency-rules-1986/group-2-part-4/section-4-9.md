@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.9. Proof of service[^key-53e61243361c97da6f99f09c395ead14]
+## 4.9. Proof of service[^c-53e61243361c97da6f99f09c395ead14]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ and it shall be filed in court immediately after service.
 
 ## Annotations
 
-[^key-53e61243361c97da6f99f09c395ead14]: Commencement: [Rule 4.9](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.9) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-53e61243361c97da6f99f09c395ead14]: Commencement: [Rule 4.9](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.9) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00034]: Marginal citation: \[FORM 4.4\] \[FORM 4.5\]

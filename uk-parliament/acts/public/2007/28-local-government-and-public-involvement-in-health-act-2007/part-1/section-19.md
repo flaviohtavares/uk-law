@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Certain county councils to be billing authorities[^key-29e9ac75946b8059fbae5bfb6fd11d52]
+## 19. Certain county councils to be billing authorities[^c-29e9ac75946b8059fbae5bfb6fd11d52]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29e9ac75946b8059fbae5bfb6fd11d52]: Commencement: S. 19 in force at 1.11.2007 for E. by [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/a)
+[^c-29e9ac75946b8059fbae5bfb6fd11d52]: Commencement: S. 19 in force at 1.11.2007 for E. by [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/a)

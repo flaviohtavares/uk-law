@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Methods of analysis[^key-226cc93132c845d2473cc82e8248dcd4]
+## 20. Methods of analysis[^c-226cc93132c845d2473cc82e8248dcd4]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-226cc93132c845d2473cc82e8248dcd4]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2017/282/regulation/20) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-226cc93132c845d2473cc82e8248dcd4]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2017/282/regulation/20) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

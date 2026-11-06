@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Navigation etc. in vicinity of scheduled works[^key-ab8307ace9bb65dbd62a84060ad677c0]
+## 18. Navigation etc. in vicinity of scheduled works[^c-ab8307ace9bb65dbd62a84060ad677c0]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ is guilty of an offence and is liable on summary conviction to a fine not exceed
 
 ## Annotations
 
-[^key-ab8307ace9bb65dbd62a84060ad677c0]: Commencement: Art. 18 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-ab8307ace9bb65dbd62a84060ad677c0]: Commencement: Art. 18 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

@@ -47,11 +47,11 @@ The Department of Health, Social Services and Public Safety[^f00001], being a de
 
 ## Part I — Premliminary
 
-### 1. Citation and commencement[^key-c6d8fa8ea4dd00f0c0f9ee11b9339a16]
+### 1. Citation and commencement[^c-c6d8fa8ea4dd00f0c0f9ee11b9339a16]
 
 These Regulations may be cited as the Fire Precautions (Workplace) Regulations (Northern Ireland) 2001 and shall come into operation on 1st December 2001.
 
-### 2. Interpretation[^key-d71626b8107bffd73fc314050e1e54b3]
+### 2. Interpretation[^c-d71626b8107bffd73fc314050e1e54b3]
 
 (1) In these Regulations—
 
@@ -82,7 +82,7 @@ These Regulations may be cited as the Fire Precautions (Workplace) Regulations (
 
 ## Part II — Fire precautions in the workplace
 
-### 3. Application of Part II[^key-20f051074ca51cc51b1ffe65c382e7e4]
+### 3. Application of Part II[^c-20f051074ca51cc51b1ffe65c382e7e4]
 
 (1) Every employer shall ensure that the requirements of this Part are complied with in respect of every workplace, other than an excepted workplace, which is to any extent under his control.
 
@@ -120,7 +120,7 @@ from carrying out his duties.
 
 (8) Where paragraph (6) or (7) applies, the safety of employees in case of fire shall nevertheless be ensured so far as is possible.
 
-### 4. Fire-fighting and fire detection[^key-dc225911ab34b6db7dfb57fcea5e40ff]
+### 4. Fire-fighting and fire detection[^c-dc225911ab34b6db7dfb57fcea5e40ff]
 
 (1) Where necessary (whether due to the features of a workplace, the activity carried on there, any hazard present there or any other relevant circumstances) in order to safeguard the safety of employees in case of fire—
 
@@ -135,7 +135,7 @@ and for the purposes of sub-paragraph (*a*) what is appropriate is to be determi
 - (b) nominate employees to implement those measures and ensure that the number of such employees, their training and the equipment available to them are adequate, taking into account the size of, and the specific hazards involved in, the workplace concerned; and
 - (c) arrange any necessary contacts with external emergency services, particularly as regards rescue work and fire-fighting.
 
-### 5. Emergency routes and exits[^key-512b68aaf4ec9125dfbdcdccd63d1c85]
+### 5. Emergency routes and exits[^c-512b68aaf4ec9125dfbdcdccd63d1c85]
 
 (1) Where necessary in order to safeguard the safety of employees in case of fire, routes to emergency exits from a workplace and the exits themselves shall be kept clear at all times.
 
@@ -150,17 +150,17 @@ and for the purposes of sub-paragraph (*a*) what is appropriate is to be determi
 - (g) emergency routes and exits shall be indicated by signs[^f00016]; and
 - (h) emergency routes and exits requiring illumination shall be provided with emergency lighting of adequate intensity in the case of failure of their normal lighting.
 
-### 6. Maintenance[^key-dfc1a7dbe4276aefa221a793d1a67292]
+### 6. Maintenance[^c-dfc1a7dbe4276aefa221a793d1a67292]
 
 Where necessary in order to safeguard the safety of employees in case of fire, the workplace and any equipment and devices provided in respect of the workplace under regulations 4 and 5 shall be subject to a suitable system of maintenance and be maintained in an efficient state, in efficient working order and in good repair.
 
 ## Part III — Amendment of the management of health and safety at work regulations (northern Ireland) 2000
 
-### 7. Amendment of the 2000 Management Regulations: general provisions[^key-b379f3485c094dafb7dee46f4aaa1387]
+### 7. Amendment of the 2000 Management Regulations: general provisions[^c-b379f3485c094dafb7dee46f4aaa1387]
 
 Subject to regulation 9, the provisions of the 2000 Management Regulations amended by this Part shall continue to be regarded (if they would not otherwise continue to be so regarded) as provisions of health and safety regulations within the meaning of the 1978 Order[^f00017].
 
-### 8. Amendment of the 2000 Management Regulations[^key-c26e08f5612b93cdbfd176c16223cff6]
+### 8. Amendment of the 2000 Management Regulations[^c-c26e08f5612b93cdbfd176c16223cff6]
 
 (1) The words “and by Part II of the Fire Precautions (Workplace) Regulations (Northern Ireland) 2001” shall be inserted into the following provisions of the 2000 Management Regulations, as follows—
 
@@ -185,7 +185,7 @@ Subject to regulation 9, the provisions of the 2000 Management Regulations amend
 
 ## Part IV — Enforcement and offences
 
-### 9. Disapplication of the 1978 Order[^key-cfb38fe31403268b9d45504f13080109]
+### 9. Disapplication of the 1978 Order[^c-cfb38fe31403268b9d45504f13080109]
 
 (1) For the purposes of Articles 18 to 26, 28, 30 to 37, 39 and 43 of the 1978 Order, the provisions of the workplace fire precautions legislation shall be deemed (to the extent they would otherwise be so regarded) not to be provisions of health and safety regulations or provisions forming part of the relevant statutory provisions.
 
@@ -202,7 +202,7 @@ Subject to regulation 9, the provisions of the 2000 Management Regulations amend
 
 (3) In this regulation “health and safety regulations” and “relevant statutory provisions” have the meanings given to them by Article 2(2) of the 1978 Order.
 
-### 10. Enforcement[^key-c93513526b195d87d84aebeeff91bc81]
+### 10. Enforcement[^c-c93513526b195d87d84aebeeff91bc81]
 
 (1) It shall be the duty of the Authority to enforce the workplace fire precautions legislation.
 
@@ -210,7 +210,7 @@ Subject to regulation 9, the provisions of the 2000 Management Regulations amend
 
 (3) In Articles 50 and 51 of the 1984 Order (which authorise the appointment of inspectors and the holding of inquiries for obtaining information as to the performance by the Authority of its functions under that Order) the references to that Order shall be read as including references to these Regulations.
 
-### 11. Serious cases: offence[^key-374411e80e709203b7278d99b61e1a2b]
+### 11. Serious cases: offence[^c-374411e80e709203b7278d99b61e1a2b]
 
 (1) A person shall be guilty of an offence if—
 
@@ -226,7 +226,7 @@ Subject to regulation 9, the provisions of the 2000 Management Regulations amend
 
 (4) A person is not guilty of an offence under this regulation in respect of any failure to comply with the workplace fire precautions legislation which is the subject of an enforcement notice.
 
-### 12. Serious cases: prohibition notices[^key-cc6c310c508efd023be1b6872e5c5533]
+### 12. Serious cases: prohibition notices[^c-cc6c310c508efd023be1b6872e5c5533]
 
 (1) Articles 33 to 33B of the 1984 Order[^f00020] (special procedure in case of serious risk: prohibition notices) shall apply to—
 
@@ -238,7 +238,7 @@ which are relevant workplaces.
 
 (2) For the purposes of paragraph (1), a “relevant workplace” is a workplace other than an excepted workplace.
 
-### 13. Enforcement notices[^key-3fc16e6c48f24c2a0162128976c5d0bf]
+### 13. Enforcement notices[^c-3fc16e6c48f24c2a0162128976c5d0bf]
 
 (1) Where the Authority is of the opinion that a person, being under an obligation to do so, has failed to comply with any provision of the workplace fire precautions legislation in respect of a workplace, or employees who work in a workplace, the Authority may serve on that person a notice (in these Regulations referred to as “an enforcement notice”) which—
 
@@ -259,7 +259,7 @@ which are relevant workplaces.
 
 (4) Without prejudice to the power of the court to cancel or modify an enforcement notice under regulation 14, no failure on the part of the Authority to consult under paragraph (2) shall make an enforcement notice void.
 
-### 14. Enforcement notices: rights of appeal[^key-6698266f0321bbb74c57d6fd3498a05f]
+### 14. Enforcement notices: rights of appeal[^c-6698266f0321bbb74c57d6fd3498a05f]
 
 (1) A person on whom an enforcement notice is served may, within 21 days from the day on which the enforcement notice is served, appeal to the court.
 
@@ -269,7 +269,7 @@ which are relevant workplaces.
 
 (4) In this regulation “the court” means a county court having jurisdiction over the division in which any relevant workplace is situated, and for this purpose, “relevant workplace” is a workplace in respect of which the enforcement notice was served.
 
-### 15. Enforcement notices: offence[^key-10ee14ae9b013acb205aa2fba5003a96]
+### 15. Enforcement notices: offence[^c-10ee14ae9b013acb205aa2fba5003a96]
 
 (1) It is an offence for a person to contravene any requirement imposed by an enforcement notice.
 
@@ -282,7 +282,7 @@ which are relevant workplaces.
 
 ## Part V — Further consequential and miscellaneous provisions
 
-### 16. Application of the 1984 Order[^key-50456210f4fb80a6b230959f620e29c1]
+### 16. Application of the 1984 Order[^c-50456210f4fb80a6b230959f620e29c1]
 
 (1) Subject to paragraph (3), the provisions of the 1984 Order listed in paragraph (2) shall have effect in relation to these Regulations as if—
 
@@ -314,7 +314,7 @@ which are relevant workplaces.
 
 (5) Where an amendment under paragraph (4) is made on the application of any person affected by the certificate and is confined to requirements of the kind referred to in Article 27(1) of the 1984 Order[^f00026], the applicant shall pay to the Authority such fee as the Authority may determine, not exceeding an amount which represents the cost to the Authority of the work reasonably done by it for the purposes of the amendment of the certificate (other than the cost of any inspection of the premises).
 
-### 17. Application to the Crown[^key-ebb0289c8e1669ae2342f0bb76873f91]
+### 17. Application to the Crown[^c-ebb0289c8e1669ae2342f0bb76873f91]
 
 (1) Subject to paragraphs (2) to (5), these Regulations, other than regulations 10, 11 and 13 to 15 shall bind the Crown.
 
@@ -329,7 +329,7 @@ which are relevant workplaces.
 
 (5) Nothing in these Regulations shall be taken to authorise the entry of any premises occupied by the Crown.
 
-### 18. Application to visiting forces, etc.[^key-697e92d1447571dcb03a0c5303155b71]
+### 18. Application to visiting forces, etc.[^c-697e92d1447571dcb03a0c5303155b71]
 
 (1) These Regulations shall apply to a visiting force or an international headquarters or defence organisation designated for the purposes of the International Headquarters and Defence Organisations Act 1964[^f00028]—
 
@@ -338,7 +338,7 @@ which are relevant workplaces.
 
 (2) In paragraph (1), “visiting force” means any such body, contingent or detachment of the forces of any country as is a visiting force for the purposes of any of the provisions of the Visiting Forces Act 1952[^f00029].
 
-### 19. Employee consultation[^key-6c34a783824b431189d91ac76690e55a]
+### 19. Employee consultation[^c-6c34a783824b431189d91ac76690e55a]
 
 (1) In regulation 4A(1) of the Safety Representatives and Safety Committees Regulations (Northern Ireland) 1979[^f00030], at the end of sub-paragraph (*b*), there shall be added the words “or regulation 4(2)(*b*) of the Fire Precautions (Workplace) Regulations (Northern Ireland) 2001”.
 
@@ -346,7 +346,7 @@ which are relevant workplaces.
 
 (3) The provisions of the Safety Representatives and Safety Committees Regulations (Northern Ireland) 1979 amended by this regulation shall continue to be regarded (to the extent that they would otherwise be so regarded) as provisions of health and safety regulations within the meaning of the 1978 Order.
 
-### 20. Disapplication of Article 31 of the 1984 Order[^key-a6503efc25bd7043eb1df11fb782d3d5]
+### 20. Disapplication of Article 31 of the 1984 Order[^c-a6503efc25bd7043eb1df11fb782d3d5]
 
 In Article 31 of the 1984 Order[^f00032] (duty as to means of escape and for fighting fire), at the end of paragraph (2), there shall be added the words “but this Article does not apply where Part II of the Fire Precautions (Workplace) Regulations (Northern Ireland) 2001 applies”.
 
@@ -434,9 +434,9 @@ A copy of the regulatory impact assessment prepared in respect of these Regulati
 
 [^f00005]: Footnote: *See* Article 6(*c*) of, and Part III of Schedule 4 to, [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-c6d8fa8ea4dd00f0c0f9ee11b9339a16]: Commencement: Reg. 1 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
+[^c-c6d8fa8ea4dd00f0c0f9ee11b9339a16]: Commencement: Reg. 1 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
 
-[^key-d71626b8107bffd73fc314050e1e54b3]: Commencement: Reg. 2 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
+[^c-d71626b8107bffd73fc314050e1e54b3]: Commencement: Reg. 2 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
 
 [^f00006]: Footnote: [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039), as amended by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795)
 
@@ -448,7 +448,7 @@ A copy of the regulatory impact assessment prepared in respect of these Regulati
 
 [^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-20f051074ca51cc51b1ffe65c382e7e4]: Commencement: Reg. 3 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
+[^c-20f051074ca51cc51b1ffe65c382e7e4]: Commencement: Reg. 3 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
 
 [^f00011]: Footnote: [S.R. 1996 No. 510](https://www.legislation.gov.uk/nisr/1996/510), to which there are amendments not relevant to these Regulations
 
@@ -458,47 +458,47 @@ A copy of the regulatory impact assessment prepared in respect of these Regulati
 
 [^f00014]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22)
 
-[^key-dc225911ab34b6db7dfb57fcea5e40ff]: Commencement: Reg. 4 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
+[^c-dc225911ab34b6db7dfb57fcea5e40ff]: Commencement: Reg. 4 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
 
 [^f00015]: Footnote: *See* the Health and Safety (Safety Signs and Signals) Regulations (Northern Ireland) 1996 ([S.R. 1996 No. 119](https://www.legislation.gov.uk/nisr/1996/119)), which impose requirements in relation to fire safety signs
 
-[^key-512b68aaf4ec9125dfbdcdccd63d1c85]: Commencement: Reg. 5 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
+[^c-512b68aaf4ec9125dfbdcdccd63d1c85]: Commencement: Reg. 5 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
 
 [^f00016]: Footnote: *See* the Health and Safety (Safety Signs and Signals) Regulations (Northern Ireland) 1996 ([S.R. 1996 No. 119](https://www.legislation.gov.uk/nisr/1996/119)), which impose requirements in relation to fire safety signs
 
-[^key-dfc1a7dbe4276aefa221a793d1a67292]: Commencement: Reg. 6 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
+[^c-dfc1a7dbe4276aefa221a793d1a67292]: Commencement: Reg. 6 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
 
-[^key-b379f3485c094dafb7dee46f4aaa1387]: Commencement: Reg. 7 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
+[^c-b379f3485c094dafb7dee46f4aaa1387]: Commencement: Reg. 7 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
 
 [^f00017]: Footnote: *See* Article 2(2) of the 1978 Order
 
-[^key-c26e08f5612b93cdbfd176c16223cff6]: Commencement: Reg. 8 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
+[^c-c26e08f5612b93cdbfd176c16223cff6]: Commencement: Reg. 8 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
 
-[^key-cfb38fe31403268b9d45504f13080109]: Commencement: Reg. 9 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
+[^c-cfb38fe31403268b9d45504f13080109]: Commencement: Reg. 9 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
 
 [^f00018]: Footnote: [S.R. 1991 No. 446](https://www.legislation.gov.uk/nisr/1991/446)
 
-[^key-c93513526b195d87d84aebeeff91bc81]: Commencement: Reg. 10 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
+[^c-c93513526b195d87d84aebeeff91bc81]: Commencement: Reg. 10 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
 
 [^f00019]: Footnote: Article 39 is amended prospectively by [S.I. 1993/1578 (N.I. 7)](https://www.legislation.gov.uk/nisi/1993/1578), Article 13
 
-[^key-374411e80e709203b7278d99b61e1a2b]: Commencement: Reg. 11 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
+[^c-374411e80e709203b7278d99b61e1a2b]: Commencement: Reg. 11 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
 
-[^key-cc6c310c508efd023be1b6872e5c5533]: Commencement: Reg. 12 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
+[^c-cc6c310c508efd023be1b6872e5c5533]: Commencement: Reg. 12 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
 
 [^f00020]: Footnote: Article 33 was substituted, and Articles 33A and 33B were inserted by [S.I. 1993/1578 (N.I. 7)](https://www.legislation.gov.uk/nisi/1993/1578), Article 12
 
-[^key-3fc16e6c48f24c2a0162128976c5d0bf]: Commencement: Reg. 13 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
+[^c-3fc16e6c48f24c2a0162128976c5d0bf]: Commencement: Reg. 13 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
 
 [^f00021]: Footnote: Article 38 was amended by [S.I. 1993/1578 (N.I. 7)](https://www.legislation.gov.uk/nisi/1993/1578), Article 9(2)
 
 [^f00022]: Footnote: Article 31C was inserted by [S.I. 1993/1578 (N.I. 7)](https://www.legislation.gov.uk/nisi/1993/1578), Article 9(1)
 
-[^key-6698266f0321bbb74c57d6fd3498a05f]: Commencement: Reg. 14 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
+[^c-6698266f0321bbb74c57d6fd3498a05f]: Commencement: Reg. 14 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
 
-[^key-10ee14ae9b013acb205aa2fba5003a96]: Commencement: Reg. 15 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
+[^c-10ee14ae9b013acb205aa2fba5003a96]: Commencement: Reg. 15 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
 
-[^key-50456210f4fb80a6b230959f620e29c1]: Commencement: Reg. 16 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
+[^c-50456210f4fb80a6b230959f620e29c1]: Commencement: Reg. 16 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
 
 [^f00023]: Footnote: Article 34 was amended by [S.I. 1991/1462 (N.I. 12)](https://www.legislation.gov.uk/nisi/1991/1462), paragraph 2 of Schedule 2
 
@@ -508,22 +508,22 @@ A copy of the regulatory impact assessment prepared in respect of these Regulati
 
 [^f00026]: Footnote: Article 27(1) was amended by [S.I. 1993/1578 (N.I. 7)](https://www.legislation.gov.uk/nisi/1993/1578), Article 18(2)
 
-[^key-ebb0289c8e1669ae2342f0bb76873f91]: Commencement: Reg. 17 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
+[^c-ebb0289c8e1669ae2342f0bb76873f91]: Commencement: Reg. 17 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
 
 [^f00027]: Footnote: Article 49 was amended by [S.I. 1991/1462 (N.I. 12)](https://www.legislation.gov.uk/nisi/1991/1462), Schedule 6, [S.I. 1993/1578 (N.I. 7)](https://www.legislation.gov.uk/nisi/1993/1578), Article 20 and [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), paragraph 21 of Schedule 1
 
-[^key-697e92d1447571dcb03a0c5303155b71]: Commencement: Reg. 18 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
+[^c-697e92d1447571dcb03a0c5303155b71]: Commencement: Reg. 18 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
 
 [^f00028]: Footnote: [1964 c. 5](https://www.legislation.gov.uk/ukpga/1964/5)
 
 [^f00029]: Footnote: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67)
 
-[^key-6c34a783824b431189d91ac76690e55a]: Commencement: Reg. 19 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
+[^c-6c34a783824b431189d91ac76690e55a]: Commencement: Reg. 19 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
 
 [^f00030]: Footnote: [S.R. 1979 No. 437](https://www.legislation.gov.uk/nisr/1979/437); regulation 4A was inserted by regulation 16 of, and the Schedule to, [S.R. 1992 No. 459](https://www.legislation.gov.uk/nisr/1992/459) and was amended by [S.R. 2000 No. 388](https://www.legislation.gov.uk/nisr/2000/388)
 
 [^f00031]: Footnote: [S.R. 1996 No. 511](https://www.legislation.gov.uk/nisr/1996/511), relevant amending Regulations are [S.R. 2000 No. 388](https://www.legislation.gov.uk/nisr/2000/388)
 
-[^key-a6503efc25bd7043eb1df11fb782d3d5]: Commencement: Reg. 20 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
+[^c-a6503efc25bd7043eb1df11fb782d3d5]: Commencement: Reg. 20 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/348/regulation/1)
 
 [^f00032]: Footnote: Article 31 was substituted by [S.I. 1993/1578 (N.I. 7)](https://www.legislation.gov.uk/nisi/1993/1578), Article 9(1)

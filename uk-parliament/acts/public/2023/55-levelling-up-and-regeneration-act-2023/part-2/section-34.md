@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Exercise of fire and rescue functions[^key-54a4558ca5c8421e9577ca4a1c4e9c88]
+## 34. Exercise of fire and rescue functions[^c-54a4558ca5c8421e9577ca4a1c4e9c88]
 
 *Extent: E+W*
 
-(1)[^key-2ec93cbeceace6743776aedde704377b] This section applies to a mayor for the area of a CCA who—
+(1)[^c-2ec93cbeceace6743776aedde704377b] This section applies to a mayor for the area of a CCA who—
 
 - (a) by virtue of—
   - (i) section 30(1), or
@@ -51,7 +51,7 @@ summary: ''
 - (c) members of staff transferred to the chief constable under a scheme made by virtue of section 36(1);
 - (d) members of staff appointed by the chief constable under section 36(2).
 
-(5) Provision in regulations under section 30(1) , or in section 1(2B) of the Fire and Rescue Services Act 2004,[^key-745c92740aca7899286292418485f91d] for a function to be exercisable only by the mayor for the area of a CCA is subject to provision made by virtue of subsection (2).
+(5) Provision in regulations under section 30(1) , or in section 1(2B) of the Fire and Rescue Services Act 2004,[^c-745c92740aca7899286292418485f91d] for a function to be exercisable only by the mayor for the area of a CCA is subject to provision made by virtue of subsection (2).
 
 (6) This section is subject to—
 
@@ -65,8 +65,8 @@ summary: ''
 
 ## Annotations
 
-[^key-54a4558ca5c8421e9577ca4a1c4e9c88]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2023/55/section/34) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-54a4558ca5c8421e9577ca4a1c4e9c88]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2023/55/section/34) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
 
-[^key-2ec93cbeceace6743776aedde704377b]: Textual amendment: [S. 34(1)](https://www.legislation.gov.uk/ukpga/2023/55/section/34/1) substituted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 49(2)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/49/2/a), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-2ec93cbeceace6743776aedde704377b]: Textual amendment: [S. 34(1)](https://www.legislation.gov.uk/ukpga/2023/55/section/34/1) substituted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 49(2)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/49/2/a), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-745c92740aca7899286292418485f91d]: Textual amendment: Words in [s. 34(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/34/5) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 49(2)(b)](https://www.legislation.gov.uk/ukpga/2026/23/section/49/2/b), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-745c92740aca7899286292418485f91d]: Textual amendment: Words in [s. 34(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/34/5) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 49(2)(b)](https://www.legislation.gov.uk/ukpga/2026/23/section/49/2/b), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

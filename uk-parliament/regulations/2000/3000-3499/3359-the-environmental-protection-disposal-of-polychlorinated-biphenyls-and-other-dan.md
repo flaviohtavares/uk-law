@@ -29,7 +29,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION, ENGLANDAND WALES
 
-The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2000[^key-bf4748d686dd13a5fd2bda44785509cc]
+The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2000[^c-bf4748d686dd13a5fd2bda44785509cc]
 
 Made
 
@@ -76,7 +76,7 @@ These regulations amend the 2000 Regulations so as to enable those who applied b
 
 ## Annotations
 
-[^key-bf4748d686dd13a5fd2bda44785509cc]: Textual amendment: Regulations revoked (E.) (1.4.2015) by [The Environment and Rural Affairs (Miscellaneous Revocations) Regulations 2015 (S.I. 2015/639)](https://www.legislation.gov.uk/uksi/2015/639), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/639/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2015/639/regulation/4)
+[^c-bf4748d686dd13a5fd2bda44785509cc]: Textual amendment: Regulations revoked (E.) (1.4.2015) by [The Environment and Rural Affairs (Miscellaneous Revocations) Regulations 2015 (S.I. 2015/639)](https://www.legislation.gov.uk/uksi/2015/639), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/639/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2015/639/regulation/4)
 
 [^c16103661]: Marginal citation: [S.I. 1992/1711](https://www.legislation.gov.uk/uksi/1992/1711), 2870.
 

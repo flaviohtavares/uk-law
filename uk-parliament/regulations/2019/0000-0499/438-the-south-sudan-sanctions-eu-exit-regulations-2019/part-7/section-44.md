@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Trade: application of information powers in CEMA[^key-8bee79a93635d3ea4f12a0d7b6f5925d][^key-6d52fa37bbd0492bd5cacfe28a470b3a]
+## 44. Trade: application of information powers in CEMA[^c-8bee79a93635d3ea4f12a0d7b6f5925d][^c-6d52fa37bbd0492bd5cacfe28a470b3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,9 +33,9 @@ summary: ''
 
 ## Annotations
 
-[^key-8bee79a93635d3ea4f12a0d7b6f5925d]: Commencement: Reg. 44 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
+[^c-8bee79a93635d3ea4f12a0d7b6f5925d]: Commencement: Reg. 44 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
 
-[^key-6d52fa37bbd0492bd5cacfe28a470b3a]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2019/438/regulation/44) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6d52fa37bbd0492bd5cacfe28a470b3a]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2019/438/regulation/44) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23619811]: Marginal citation: [Section 77A](https://www.legislation.gov.uk/uksi/2019/438/section/77A) was inserted by the [Finance Act 1987 (c.16)](https://www.legislation.gov.uk/ukpga/1987/16), [section 10](https://www.legislation.gov.uk/ukpga/1987/16/section/10) and amended by [S.I. 1992/3095](https://www.legislation.gov.uk/uksi/1992/3095).
 

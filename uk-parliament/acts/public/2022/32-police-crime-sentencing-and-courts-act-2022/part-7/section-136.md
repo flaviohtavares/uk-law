@@ -16,23 +16,23 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Release at direction of Parole Board after recall: fixed-term prisoners[^key-b499933edeab0cb2bf7ef3ddecad0e37]
+## 136. Release at direction of Parole Board after recall: fixed-term prisoners[^c-b499933edeab0cb2bf7ef3ddecad0e37]
 
 *Extent: E+W*
 
-(1)[^key-eabb3fd66abfe9c6f84057e3bb9d4b1a] The Criminal Justice Act 2003 is amended as follows.
+(1)[^c-eabb3fd66abfe9c6f84057e3bb9d4b1a] The Criminal Justice Act 2003 is amended as follows.
 
-(2)[^key-eabb3fd66abfe9c6f84057e3bb9d4b1a] In section 255B (automatic release), after subsection (4) insert—
+(2)[^c-eabb3fd66abfe9c6f84057e3bb9d4b1a] In section 255B (automatic release), after subsection (4) insert—
 
 > (4A) The Board must not give a direction for P’s release on a reference under subsection (4) unless the Board is satisfied that it is not necessary for the protection of the public that P should remain in prison until the end of the period mentioned in subsection (1)(b).
 
-(3)[^key-eabb3fd66abfe9c6f84057e3bb9d4b1a] In section 255C (fixed-term prisoners not suitable for automatic release), after subsection (4) insert—
+(3)[^c-eabb3fd66abfe9c6f84057e3bb9d4b1a] In section 255C (fixed-term prisoners not suitable for automatic release), after subsection (4) insert—
 
 > (4A) The Board must not give a direction for P’s release on a reference under subsection (4) unless the Board is satisfied that it is not necessary for the protection of the public that P should remain in prison.
 
-(4)[^key-eabb3fd66abfe9c6f84057e3bb9d4b1a] Omit section 256 (power of Board to fix date for future release).
+(4)[^c-eabb3fd66abfe9c6f84057e3bb9d4b1a] Omit section 256 (power of Board to fix date for future release).
 
-(5)[^key-eabb3fd66abfe9c6f84057e3bb9d4b1a] In section 256A (further review)—
+(5)[^c-eabb3fd66abfe9c6f84057e3bb9d4b1a] In section 256A (further review)—
 
 - (a) for subsection (1) substitute—
 
@@ -54,7 +54,7 @@ summary: ''
   >
   > (5) Where on a reference under subsection (1A) or (2) the Board directs a person’s release on licence under this Chapter, the Secretary of State must give effect to the direction.
 
-(6)[^key-eabb3fd66abfe9c6f84057e3bb9d4b1a] After section 256A insert—
+(6)[^c-eabb3fd66abfe9c6f84057e3bb9d4b1a] After section 256A insert—
 
 > **256AZA. Release after recall where further sentence being served**
 >
@@ -80,12 +80,12 @@ summary: ''
 > - (b) section 250, 252A, 254, 262, 265, 266 or 268A of the Sentencing Code;
 > - (c) section 226A, 226B, 227, 228 or 236A of this Act.
 
-(7)[^key-ed521fcd1dc430b8e9187c1b2b62af96] In Schedule 20A (application of Chapter 6 of Part 12 of the 2003 Act to pre-4 April 2005 cases), omit paragraph 6(5) (certain determinations to be treated as made under section 256(1)).
+(7)[^c-ed521fcd1dc430b8e9187c1b2b62af96] In Schedule 20A (application of Chapter 6 of Part 12 of the 2003 Act to pre-4 April 2005 cases), omit paragraph 6(5) (certain determinations to be treated as made under section 256(1)).
 
 ## Annotations
 
-[^key-b499933edeab0cb2bf7ef3ddecad0e37]: Commencement: S. 136 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-b499933edeab0cb2bf7ef3ddecad0e37]: Commencement: S. 136 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-eabb3fd66abfe9c6f84057e3bb9d4b1a]: Commencement: [S. 136(1)-(6)](https://www.legislation.gov.uk/ukpga/2022/32/section/136/1) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(o)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/o)
+[^c-eabb3fd66abfe9c6f84057e3bb9d4b1a]: Commencement: [S. 136(1)-(6)](https://www.legislation.gov.uk/ukpga/2022/32/section/136/1) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(o)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/o)
 
-[^key-ed521fcd1dc430b8e9187c1b2b62af96]: Commencement: [S. 136(7)](https://www.legislation.gov.uk/ukpga/2022/32/section/136/7) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(p)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/p)
+[^c-ed521fcd1dc430b8e9187c1b2b62af96]: Commencement: [S. 136(7)](https://www.legislation.gov.uk/ukpga/2022/32/section/136/7) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(p)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/p)

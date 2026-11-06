@@ -31,10 +31,10 @@ summary: ''
 
 of 16 November 2009 approving the conclusion, by the Commission, of the Agreement for cooperation between the European Atomic Energy Community and the Government of the Federative Republic of Brazil in the field of fusion energy research (revoked)
 
-[^key-3f9fe358189d3218eaadb378c933603a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f9fe358189d3218eaadb378c933603a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-3f9fe358189d3218eaadb378c933603a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-3f9fe358189d3218eaadb378c933603a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3f9fe358189d3218eaadb378c933603a]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-3f9fe358189d3218eaadb378c933603a]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

@@ -43,7 +43,7 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 
 (2) In section 36 of that Act (excise duty on beer) for “£20·40” and “£0·68” there shall be substituted “ £21·60 ” and “ £0·72 ” respectively.
 
-(3)[^key-724aa8b67f85b66bacad2f9953a6bf06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-724aa8b67f85b66bacad2f9953a6bf06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4)[^c10904281] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -53,7 +53,7 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 
 ### 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c10904291]
 
-### 3. Hydrocarbon oil.[^key-a33d500f1ddac524cef7636890114676]
+### 3. Hydrocarbon oil.[^c-a33d500f1ddac524cef7636890114676]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -77,7 +77,7 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 
 ### 5. Bingo duty and gaming machine licence duty.
 
-(1)[^key-10a0db5ff0d57c495eb03b58ba407271] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-10a0db5ff0d57c495eb03b58ba407271] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In Schedule 4 to the Act of 1981, in paragraph 1, for subparagraph (3) (meaning of private gain in relation to exemption from gaming machine licence duty for charitable entertainments etc.) there shall be substituted the following—
 
@@ -210,16 +210,16 @@ At the end of Part V of the [^c10904511]Customs and Excise Management Act 1979 (
 (3) In determining, in accordance with subsection (2) above, whether an oil field (in this subsection referred to as “**the new field**”) is a relevant new field, no account shall be taken of a consent for development granted before 1st April 1982 or a programme of development served on the licensee or approved by the Secretary of State before that date if—
 
 - (a) in whole or in part that consent or programme related to another oil field for which a determination under Schedule 1 to the principal Act was made before the determination under that Schedule for the new field; and
-- (b) on or after 1st April 1982, a consent for development is or was granted or a programme of development is or was served on the licensee or approved by the OGA[^key-2f06f6aee20c20de27f03377a09ccc69] and that consent or programme relates, in whole or in part, to the new field.
+- (b) on or after 1st April 1982, a consent for development is or was granted or a programme of development is or was served on the licensee or approved by the OGA[^c-2f06f6aee20c20de27f03377a09ccc69] and that consent or programme relates, in whole or in part, to the new field.
 
-(4)[^c10904671][^c10904681][^key-39b63a4771b4c4239b773f9a99f64756] In subsections (2) and (3) above “**development**” means—
+(4)[^c10904671][^c10904681][^c-39b63a4771b4c4239b773f9a99f64756] In subsections (2) and (3) above “**development**” means—
 
 - (a) the erection or carrying out of permanent works for the purpose of getting oil from the field or for the purpose of conveying oil won from the field to a place on land; or
 - (b) winning oil from the field otherwise than in the course of searching for oil or drilling wells;
 
 and consent for development does not include consent which is limited to the purpose of testing the characteristics of an oil-bearing area and does not relate to the erection or carrying out of permanent works.
 
-(5)[^c10904671][^c10904681][^key-39b63a4771b4c4239b773f9a99f64756] In subsection (4) above “**permanent works**” means any structures or other works whatsoever which are intended by the licensee to be permanent and are neither designed to be moved from place to place without major dismantling nor intended by the licensee to be used only for searching for oil.
+(5)[^c10904671][^c10904681][^c-39b63a4771b4c4239b773f9a99f64756] In subsection (4) above “**permanent works**” means any structures or other works whatsoever which are intended by the licensee to be permanent and are neither designed to be moved from place to place without major dismantling nor intended by the licensee to be used only for searching for oil.
 
 ### 37. Reliefs for exploration and appraisal expenditure etc.
 
@@ -236,7 +236,7 @@ and consent for development does not include consent which is limited to the pur
 
 and, accordingly, any claim which, immediately before the passing of this Act, could not have been made by virtue of the time bar may be made thereafter.
 
-### 38. Terms of payment to be implied in determining market value.[^key-812da52284c0c4a740f41270d026299c]
+### 38. Terms of payment to be implied in determining market value.[^c-812da52284c0c4a740f41270d026299c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -360,7 +360,7 @@ and “**the unexpired period for repayment of the loan**”, in relation to any
 
 (1)(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c10904821]
 
-(3) For the purposes of the enactments set out below, the commission shall be treated as a charitable company[^key-195090354d36495dd2f82baafa249e06]:—
+(3) For the purposes of the enactments set out below, the commission shall be treated as a charitable company[^c-195090354d36495dd2f82baafa249e06]:—
 
 - (a)(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c10904821]
 - (c)[^c10904841] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c10904851] section 129 of the [^c10904861]Finance Act 1982 (reliefs from stamp duty).
@@ -385,9 +385,9 @@ and “**the unexpired period for repayment of the loan**”, in relation to any
 
 SCHEDULES
 
-## SCHEDULE 1[^key-4596b9adfa9ba4421ee8c1f93aa0e9ad]
+## SCHEDULE 1[^c-4596b9adfa9ba4421ee8c1f93aa0e9ad]
 
-### Wine: Rates of Duty[^key-4596b9adfa9ba4421ee8c1f93aa0e9ad]
+### Wine: Rates of Duty[^c-4596b9adfa9ba4421ee8c1f93aa0e9ad]
 
 **No longer in force.**
 
@@ -603,7 +603,7 @@ Section 37.
 
 **11.** (1) A return made by a participator for a chargeable period under paragraph 2 of Schedule 2 to the principal Act shall give details of any qualifying receipt (whether received by him or by a person connected with him) of which details have not been given in a return made by him for an earlier chargeable period.
 
-(2) Section 1122 of the Corporation Tax Act 2010[^key-2fdbc4a9684efb25008d8f82db7d7796] (connected persons) applies for the purposes of this paragraph.
+(2) Section 1122 of the Corporation Tax Act 2010[^c-2fdbc4a9684efb25008d8f82db7d7796] (connected persons) applies for the purposes of this paragraph.
 
 **12.** (1) This paragraph applies where—
 
@@ -674,13 +674,13 @@ The repeals in the Finance Act 1969, the Alcoholic Liquor Duties Act 1979 and th
 
 [^c10904271]: Marginal citation: [1979 c. 4](https://www.legislation.gov.uk/ukpga/1979/4).
 
-[^key-724aa8b67f85b66bacad2f9953a6bf06]: Textual amendment: S. 1(3) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
+[^c-724aa8b67f85b66bacad2f9953a6bf06]: Textual amendment: S. 1(3) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
 
 [^c10904281]: Textual amendment: S. 1(4) repealed by [Finance Act 1984 (c. 43, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1984/43), [s. 128(6)](https://www.legislation.gov.uk/ukpga/1984/43/section/128/6), [Sch. 23 Pt. I](https://www.legislation.gov.uk/ukpga/1984/43/schedule/23/part/I)
 
 [^c10904291]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1983/28/section/2) repealed by [Finance Act 1984 (c. 43, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1984/43), [s. 128(6)](https://www.legislation.gov.uk/ukpga/1984/43/section/128/6), [Sch. 23 Pt. IV](https://www.legislation.gov.uk/ukpga/1984/43/schedule/23/part/IV)
 
-[^key-a33d500f1ddac524cef7636890114676]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1983/28/section/3) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
+[^c-a33d500f1ddac524cef7636890114676]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1983/28/section/3) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
 
 [^c10904391]: Textual amendment: [S. 4(1)-(3)](https://www.legislation.gov.uk/ukpga/1983/28/section/4/1)(5)(8) repealed (1.9.1994) by [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22), [ss. 65](https://www.legislation.gov.uk/ukpga/1994/22/section/65), [66(1)](https://www.legislation.gov.uk/ukpga/1994/22/section/66/1), [Sch. 5 Pt. I](https://www.legislation.gov.uk/ukpga/1994/22/schedule/5/part/I) (with [s. 57(4)](https://www.legislation.gov.uk/ukpga/1994/22/section/57/4))
 
@@ -688,7 +688,7 @@ The repeals in the Finance Act 1969, the Alcoholic Liquor Duties Act 1979 and th
 
 [^c10904441]: Textual amendment: [S. 4(6)(7)](https://www.legislation.gov.uk/ukpga/1983/28/section/4/6/7) repealed (1.10.1991) by [Finance Act 1991 (c. 31, SIF 107:2)](https://www.legislation.gov.uk/ukpga/1991/31), [ss. 10](https://www.legislation.gov.uk/ukpga/1991/31/section/10), [123](https://www.legislation.gov.uk/ukpga/1991/31/section/123), [Sch. 19 Pt. IV](https://www.legislation.gov.uk/ukpga/1991/31/schedule/19/part/IV); [S.I. 1991/2021](https://www.legislation.gov.uk/uksi/1991/2021), [art. 2](https://www.legislation.gov.uk/uksi/1991/2021/article/2).
 
-[^key-10a0db5ff0d57c495eb03b58ba407271]: Textual amendment: [S. 5(1)](https://www.legislation.gov.uk/ukpga/1983/28/section/5/1) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/3) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
+[^c-10a0db5ff0d57c495eb03b58ba407271]: Textual amendment: [S. 5(1)](https://www.legislation.gov.uk/ukpga/1983/28/section/5/1) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/3) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
 
 [^c10904481]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
 
@@ -724,15 +724,15 @@ The repeals in the Finance Act 1969, the Alcoholic Liquor Duties Act 1979 and th
 
 [^c10904661]: Marginal citation: [S.I. 1982/1000](https://www.legislation.gov.uk/uksi/1982/1000).
 
-[^key-2f06f6aee20c20de27f03377a09ccc69]: Textual amendment: Word in [s. 36(3)(b)](https://www.legislation.gov.uk/ukpga/1983/28/section/36/3/b) substituted (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2016/898/regulation/7)
+[^c-2f06f6aee20c20de27f03377a09ccc69]: Textual amendment: Word in [s. 36(3)(b)](https://www.legislation.gov.uk/ukpga/1983/28/section/36/3/b) substituted (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2016/898/regulation/7)
 
 [^c10904671]: Modification: See—[Finance Act 1988 (c. 39, SIF 63:1, 2)](https://www.legislation.gov.uk/ukpga/1988/39), [s. 64(2)](https://www.legislation.gov.uk/ukpga/1988/39/section/64/2)—definitions applied for purposes of s. 62 of that Act (disposals of oil licences relating to underdeveloped areas)[Finance Act 1988 (c. 39, SIF 63:1, 2)](https://www.legislation.gov.uk/ukpga/1988/39), [s. 138(4)](https://www.legislation.gov.uk/ukpga/1988/39/section/138/4)—definitions applied for purposes of s. 138(2)(3) of that Act (reduced oil allowance for certain Southern Basin and onshore fields)
 
 [^c10904681]: Modification: S. 36(4)(5) applied (6.3.1992 with effect as mentioned in s. 289(1)(2) of the applying Act) by [Taxation of Chargeable Gains Act 1992 (c. 12)](https://www.legislation.gov.uk/ukpga/1992/12), [ss. 196(2)](https://www.legislation.gov.uk/ukpga/1992/12/section/196/2), [289](https://www.legislation.gov.uk/ukpga/1992/12/section/289).
 
-[^key-39b63a4771b4c4239b773f9a99f64756]: Modification: S. 36(4)(5) applied by 1983 c. 56, s. 6A(5) (as inserted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 285(3)](https://www.legislation.gov.uk/ukpga/2004/12/section/285/3))
+[^c-39b63a4771b4c4239b773f9a99f64756]: Modification: S. 36(4)(5) applied by 1983 c. 56, s. 6A(5) (as inserted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 285(3)](https://www.legislation.gov.uk/ukpga/2004/12/section/285/3))
 
-[^key-812da52284c0c4a740f41270d026299c]: Textual amendment: S. 38 repealed (with effect in accordance with Sch. 26 Pt. 5(1) Note 2 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/5/1)
+[^c-812da52284c0c4a740f41270d026299c]: Textual amendment: S. 38 repealed (with effect in accordance with Sch. 26 Pt. 5(1) Note 2 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/5/1)
 
 [^c10904721]: Modification: Part of the text of s. 40(1) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
@@ -752,7 +752,7 @@ The repeals in the Finance Act 1969, the Alcoholic Liquor Duties Act 1979 and th
 
 [^c10904821]: Textual amendment: S. 46(1)(2)(3)(*a*)(*b*) repealed by [Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1988/1), [s. 844](https://www.legislation.gov.uk/ukpga/1988/1/section/844), [Sch. 31](https://www.legislation.gov.uk/ukpga/1988/1/schedule/31)
 
-[^key-195090354d36495dd2f82baafa249e06]: Textual amendment: Words in [s. 46(3)](https://www.legislation.gov.uk/ukpga/1983/28/section/46/3) substituted (1.4.2012) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 6 paras. 9](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/9), [34(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/34/2); [S.I. 2012/736](https://www.legislation.gov.uk/uksi/2012/736), [art. 4](https://www.legislation.gov.uk/uksi/2012/736/article/4)
+[^c-195090354d36495dd2f82baafa249e06]: Textual amendment: Words in [s. 46(3)](https://www.legislation.gov.uk/ukpga/1983/28/section/46/3) substituted (1.4.2012) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 6 paras. 9](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/9), [34(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/34/2); [S.I. 2012/736](https://www.legislation.gov.uk/uksi/2012/736), [art. 4](https://www.legislation.gov.uk/uksi/2012/736/article/4)
 
 [^c10904841]: Modification: Part of the text of s. 46(3)(*c*) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as specified, does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
@@ -772,7 +772,7 @@ The repeals in the Finance Act 1969, the Alcoholic Liquor Duties Act 1979 and th
 
 [^c10904921]: Marginal citation: [1975 c. 22](https://www.legislation.gov.uk/ukpga/1975/22).
 
-[^key-4596b9adfa9ba4421ee8c1f93aa0e9ad]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1983/28/schedule/1) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
+[^c-4596b9adfa9ba4421ee8c1f93aa0e9ad]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1983/28/schedule/1) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
 
 [^c10904931]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1983/28/schedule/2) repealed by [Finance Act 1984 (c. 43, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1984/43), [s. 128(6)](https://www.legislation.gov.uk/ukpga/1984/43/section/128/6), [Sch. 23 Pt. I](https://www.legislation.gov.uk/ukpga/1984/43/schedule/23/part/I)
 
@@ -852,7 +852,7 @@ The repeals in the Finance Act 1969, the Alcoholic Liquor Duties Act 1979 and th
 
 [^c10905491]: Textual amendment: [Sch. 8 Pt. II para. 9](https://www.legislation.gov.uk/ukpga/1983/28/schedule/8/part/II/paragraph/9) repealed by [Finance Act 1987 (c. 16)](https://www.legislation.gov.uk/ukpga/1987/16), [s. 72(7)](https://www.legislation.gov.uk/ukpga/1987/16/section/72/7), [Sch. 16 Part X](https://www.legislation.gov.uk/ukpga/1987/16/schedule/16)
 
-[^key-2fdbc4a9684efb25008d8f82db7d7796]: Textual amendment: Words in [Sch. 8 para. 11(2)](https://www.legislation.gov.uk/ukpga/1983/28/schedule/8/paragraph/11/2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 179](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/179) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-2fdbc4a9684efb25008d8f82db7d7796]: Textual amendment: Words in [Sch. 8 para. 11(2)](https://www.legislation.gov.uk/ukpga/1983/28/schedule/8/paragraph/11/2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 179](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/179) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c10905511]: Textual amendment: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/1983/28/schedule/9/paragraph/1) repealed by [Car Tax Act 1983 (c. 53)](https://www.legislation.gov.uk/ukpga/1983/53), [s. 10(4)](https://www.legislation.gov.uk/ukpga/1983/53/section/10/4), [Sch. 3](https://www.legislation.gov.uk/ukpga/1983/53/schedule/3) so far as relating to car tax and by [Value Added Tax Act 1983 (c. 55)](https://www.legislation.gov.uk/ukpga/1983/55), [s. 50(2)](https://www.legislation.gov.uk/ukpga/1983/55/section/50/2), [Sch. 11](https://www.legislation.gov.uk/ukpga/1983/55/schedule/11) so far as relating to value added tax
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Providing money for illegal purposes[^key-dc8cabe67389d35f63097bb9ae7cc20f]
+## 74. Providing money for illegal purposes[^c-dc8cabe67389d35f63097bb9ae7cc20f]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ except where the payment or the incurring of the expenses may have been previous
 
 ## Annotations
 
-[^key-dc8cabe67389d35f63097bb9ae7cc20f]: Commencement: Art. 74 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-dc8cabe67389d35f63097bb9ae7cc20f]: Commencement: Art. 74 in force at 16.12.2015 in accordance with art. 1(1)
 
 [^f00046]: Footnote: Section 167 is applied by article 82 of and Schedule 6 to this Order. Section 167(1A) was inserted by the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50), Schedule 4, paragraph 56.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. MPs' salaries[^key-5ce7d16184b114bcad91f0839f2b60b4]
+## 29. MPs' salaries[^c-5ce7d16184b114bcad91f0839f2b60b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -81,4 +81,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ce7d16184b114bcad91f0839f2b60b4]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2010/25/section/29) in force at 24.5.2011 by [S.I. 2011/1274](https://www.legislation.gov.uk/uksi/2011/1274), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1274/article/2/a)
+[^c-5ce7d16184b114bcad91f0839f2b60b4]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2010/25/section/29) in force at 24.5.2011 by [S.I. 2011/1274](https://www.legislation.gov.uk/uksi/2011/1274), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1274/article/2/a)

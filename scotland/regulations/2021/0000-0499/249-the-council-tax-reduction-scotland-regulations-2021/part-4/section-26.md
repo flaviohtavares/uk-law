@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Date on which an application is made[^key-885ac22d18b503bd72f169b1830ad3ca]
+## 26. Date on which an application is made[^c-885ac22d18b503bd72f169b1830ad3ca]
 
 *Extent: S*
 
@@ -86,4 +86,4 @@ the application is to be treated as made on the date determined in accordance wi
 
 ## Annotations
 
-[^key-885ac22d18b503bd72f169b1830ad3ca]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2021/249/regulation/26) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-885ac22d18b503bd72f169b1830ad3ca]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2021/249/regulation/26) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

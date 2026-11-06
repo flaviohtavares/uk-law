@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Decisions in the Tribunal[^key-487a453636768635d00523081d66c4bb]
+## 37. Decisions in the Tribunal[^c-487a453636768635d00523081d66c4bb]
 
 *Extent: S*
 
@@ -32,12 +32,12 @@ summary: ''
 (4) In this section—
 
 - “**Tribunal chamber**” means chamber of the Tribunal,
-- “[^key-148ea68653cb65070d10f36fabf4d5b8]**member**”, in relation to a Tribunal chamber—
+- “[^c-148ea68653cb65070d10f36fabf4d5b8]**member**”, in relation to a Tribunal chamber—
   - ((a)) means an ordinary, legal or judicial member of the Tribunal who is assigned to the chamber,
   - ((b)) while assigned to the chamber, also includes an extra judge who is authorised to act as mentioned in section 18(4).
 
 ## Annotations
 
-[^key-487a453636768635d00523081d66c4bb]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2014/10/section/37) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-487a453636768635d00523081d66c4bb]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2014/10/section/37) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
 
-[^key-148ea68653cb65070d10f36fabf4d5b8]: Textual amendment: Words in [s. 37(4)](https://www.legislation.gov.uk/asp/2014/10/section/37/4) substituted (13.5.2022) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 16(4)](https://www.legislation.gov.uk/asp/2020/18/section/16/4), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2022/146](https://www.legislation.gov.uk/ssi/2022/146), [reg. 2](https://www.legislation.gov.uk/ssi/2022/146/regulation/2)
+[^c-148ea68653cb65070d10f36fabf4d5b8]: Textual amendment: Words in [s. 37(4)](https://www.legislation.gov.uk/asp/2014/10/section/37/4) substituted (13.5.2022) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 16(4)](https://www.legislation.gov.uk/asp/2020/18/section/16/4), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2022/146](https://www.legislation.gov.uk/ssi/2022/146), [reg. 2](https://www.legislation.gov.uk/ssi/2022/146/regulation/2)

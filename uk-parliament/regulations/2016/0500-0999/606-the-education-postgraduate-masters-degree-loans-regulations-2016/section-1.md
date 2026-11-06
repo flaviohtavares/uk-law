@@ -22,20 +22,20 @@ summary: ''
 
 (1) These Regulations may be cited as the Education (Postgraduate Master's Degree Loans) Regulations 2016 and come into force on 16th June 2016.
 
-(2) Subject to paragraph[^key-2c1c5a04e73233b0743bed590eb85025] (4), these Regulations apply in relation to England only.
+(2) Subject to paragraph[^c-2c1c5a04e73233b0743bed590eb85025] (4), these Regulations apply in relation to England only.
 
-(3)[^key-fe4ac972099a071edfbf450cd4c2dcf6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-fe4ac972099a071edfbf450cd4c2dcf6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) These Regulations extend to all of the United Kingdom in so far as they impose any obligation or confer any power [^key-679225b65d76735bcf40974b1000544e]... on any [^key-5e00de3328a4305e2f003575975631a5]... person in relation to the retention or production of information or records.
+(4) These Regulations extend to all of the United Kingdom in so far as they impose any obligation or confer any power [^c-679225b65d76735bcf40974b1000544e]... on any [^c-5e00de3328a4305e2f003575975631a5]... person in relation to the retention or production of information or records.
 
 (5) These Regulations apply in relation to the provision of a loan to students in relation to a postgraduate master's degree course which begins on or after 1st August 2016 whether anything done under these Regulations is done before, on or after 1st August 2016.
 
 ## Annotations
 
-[^key-2c1c5a04e73233b0743bed590eb85025]: Textual amendment: Word in reg. 1(2) substituted (5.9.2017) by [The Repayment of Student Loans and Postgraduate Masters Degree Loans (Amendment) Regulations 2017 (S.I. 2017/831)](https://www.legislation.gov.uk/uksi/2017/831), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/831/regulation/1/1), [41(2)(a)](https://www.legislation.gov.uk/uksi/2017/831/regulation/41/2/a)
+[^c-2c1c5a04e73233b0743bed590eb85025]: Textual amendment: Word in reg. 1(2) substituted (5.9.2017) by [The Repayment of Student Loans and Postgraduate Masters Degree Loans (Amendment) Regulations 2017 (S.I. 2017/831)](https://www.legislation.gov.uk/uksi/2017/831), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/831/regulation/1/1), [41(2)(a)](https://www.legislation.gov.uk/uksi/2017/831/regulation/41/2/a)
 
-[^key-fe4ac972099a071edfbf450cd4c2dcf6]: Textual amendment: Reg. 1(3) omitted (5.9.2017) by virtue of [The Repayment of Student Loans and Postgraduate Masters Degree Loans (Amendment) Regulations 2017 (S.I. 2017/831)](https://www.legislation.gov.uk/uksi/2017/831), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/831/regulation/1/1), [41(2)(b)](https://www.legislation.gov.uk/uksi/2017/831/regulation/41/2/b)
+[^c-fe4ac972099a071edfbf450cd4c2dcf6]: Textual amendment: Reg. 1(3) omitted (5.9.2017) by virtue of [The Repayment of Student Loans and Postgraduate Masters Degree Loans (Amendment) Regulations 2017 (S.I. 2017/831)](https://www.legislation.gov.uk/uksi/2017/831), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/831/regulation/1/1), [41(2)(b)](https://www.legislation.gov.uk/uksi/2017/831/regulation/41/2/b)
 
-[^key-679225b65d76735bcf40974b1000544e]: Textual amendment: Words in reg. 1(4) omitted (5.9.2017) by virtue of [The Repayment of Student Loans and Postgraduate Masters Degree Loans (Amendment) Regulations 2017 (S.I. 2017/831)](https://www.legislation.gov.uk/uksi/2017/831), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/831/regulation/1/1), [41(2)(c)(i)](https://www.legislation.gov.uk/uksi/2017/831/regulation/41/2/c/i)
+[^c-679225b65d76735bcf40974b1000544e]: Textual amendment: Words in reg. 1(4) omitted (5.9.2017) by virtue of [The Repayment of Student Loans and Postgraduate Masters Degree Loans (Amendment) Regulations 2017 (S.I. 2017/831)](https://www.legislation.gov.uk/uksi/2017/831), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/831/regulation/1/1), [41(2)(c)(i)](https://www.legislation.gov.uk/uksi/2017/831/regulation/41/2/c/i)
 
-[^key-5e00de3328a4305e2f003575975631a5]: Textual amendment: Word in reg. 1(4) omitted (5.9.2017) by virtue of [The Repayment of Student Loans and Postgraduate Masters Degree Loans (Amendment) Regulations 2017 (S.I. 2017/831)](https://www.legislation.gov.uk/uksi/2017/831), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/831/regulation/1/1), [41(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2017/831/regulation/41/2/c/ii)
+[^c-5e00de3328a4305e2f003575975631a5]: Textual amendment: Word in reg. 1(4) omitted (5.9.2017) by virtue of [The Repayment of Student Loans and Postgraduate Masters Degree Loans (Amendment) Regulations 2017 (S.I. 2017/831)](https://www.legislation.gov.uk/uksi/2017/831), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/831/regulation/1/1), [41(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2017/831/regulation/41/2/c/ii)

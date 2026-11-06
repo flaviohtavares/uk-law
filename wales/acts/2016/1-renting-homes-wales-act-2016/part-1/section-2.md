@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Kinds of landlord[^key-4ee3bcb2f5119483d8ac2e94c8a66880]
+## 2. Kinds of landlord[^c-4ee3bcb2f5119483d8ac2e94c8a66880]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ but this is subject to various exceptions.
 
 ## Annotations
 
-[^key-4ee3bcb2f5119483d8ac2e94c8a66880]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2016/1/section/2) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-4ee3bcb2f5119483d8ac2e94c8a66880]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2016/1/section/2) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

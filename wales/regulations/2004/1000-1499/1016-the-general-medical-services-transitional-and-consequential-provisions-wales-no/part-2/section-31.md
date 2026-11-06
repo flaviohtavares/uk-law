@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Arrangements for GP Registrars[^key-8170881cbda22b50bc936454b1463eb8]
+## 31. Arrangements for GP Registrars[^c-8170881cbda22b50bc936454b1463eb8]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ shall not apply.
 
 ## Annotations
 
-[^key-8170881cbda22b50bc936454b1463eb8]: Commencement: Art. 31 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-8170881cbda22b50bc936454b1463eb8]: Commencement: Art. 31 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

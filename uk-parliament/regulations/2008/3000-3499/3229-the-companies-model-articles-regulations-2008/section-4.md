@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Model articles for public companies[^key-55b48b8ce9402001313da67898e28ede]
+## 4. Model articles for public companies[^c-55b48b8ce9402001313da67898e28ede]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3 to these Regulations prescribes the model articles of association for
 
 ## Annotations
 
-[^key-55b48b8ce9402001313da67898e28ede]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/3229/regulation/4) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-55b48b8ce9402001313da67898e28ede]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/3229/regulation/4) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)

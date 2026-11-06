@@ -34,7 +34,7 @@ AGRICULTURE
 
 PESTICIDES
 
-The Fees for Assessment of Active Substances (Fourth Stage Review) Regulations 2005 (revoked)[^key-82d4c8849eacecc20dfaf3bb31029ac1]
+The Fees for Assessment of Active Substances (Fourth Stage Review) Regulations 2005 (revoked)[^c-82d4c8849eacecc20dfaf3bb31029ac1]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 28th July 2005
 
-[^key-82d4c8849eacecc20dfaf3bb31029ac1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82d4c8849eacecc20dfaf3bb31029ac1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and interpretation[^key-82d4c8849eacecc20dfaf3bb31029ac1]
+## 1. Title, commencement and interpretation[^c-82d4c8849eacecc20dfaf3bb31029ac1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees payable for fourth stage reviews[^key-82d4c8849eacecc20dfaf3bb31029ac1]
+## 2. Fees payable for fourth stage reviews[^c-82d4c8849eacecc20dfaf3bb31029ac1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-82d4c8849eacecc20dfaf3bb31029ac1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82d4c8849eacecc20dfaf3bb31029ac1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-82d4c8849eacecc20dfaf3bb31029ac1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82d4c8849eacecc20dfaf3bb31029ac1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-82d4c8849eacecc20dfaf3bb31029ac1]: Textual amendment: Regulations revoked (24.9.2011) by [The Plant Protection Products (Fees and Charges) Regulations 2011 (S.I. 2011/2132)](https://www.legislation.gov.uk/uksi/2011/2132), [reg. 9(b)](https://www.legislation.gov.uk/uksi/2011/2132/regulation/9/b)
+[^c-82d4c8849eacecc20dfaf3bb31029ac1]: Textual amendment: Regulations revoked (24.9.2011) by [The Plant Protection Products (Fees and Charges) Regulations 2011 (S.I. 2011/2132)](https://www.legislation.gov.uk/uksi/2011/2132), [reg. 9(b)](https://www.legislation.gov.uk/uksi/2011/2132/regulation/9/b)

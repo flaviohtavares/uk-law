@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Venue and conduct of company meeting[^key-065cdb2806a849178fe32e3035cb61b0]
+## 33. Venue and conduct of company meeting[^c-065cdb2806a849178fe32e3035cb61b0]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-065cdb2806a849178fe32e3035cb61b0]: Commencement: Rule 33 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-065cdb2806a849178fe32e3035cb61b0]: Commencement: Rule 33 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
 
 [^f00012]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).

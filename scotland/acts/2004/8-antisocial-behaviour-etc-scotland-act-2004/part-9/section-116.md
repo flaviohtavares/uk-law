@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 116. Power of hearing to direct Principal Reporter to consider application for parenting order[^key-e03671c428306e6c19f1c109ea4b7adf]
+## 116. Power of hearing to direct Principal Reporter to consider application for parenting order[^c-e03671c428306e6c19f1c109ea4b7adf]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e03671c428306e6c19f1c109ea4b7adf]: Textual amendment: [S. 116](https://www.legislation.gov.uk/asp/2004/8/section/116) repealed (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2013/211/schedule/2)
+[^c-e03671c428306e6c19f1c109ea4b7adf]: Textual amendment: [S. 116](https://www.legislation.gov.uk/asp/2004/8/section/116) repealed (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2013/211/schedule/2)

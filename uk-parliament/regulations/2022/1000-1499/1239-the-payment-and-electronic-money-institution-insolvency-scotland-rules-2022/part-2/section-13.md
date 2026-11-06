@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Expenses allowed by the court[^key-cb1212b3e7466a84aff13c8ea6612cda]
+## 13. Expenses allowed by the court[^c-cb1212b3e7466a84aff13c8ea6612cda]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ If the court makes a special administration order, the following are payable as 
 
 ## Annotations
 
-[^key-cb1212b3e7466a84aff13c8ea6612cda]: Commencement: Rule 13 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-cb1212b3e7466a84aff13c8ea6612cda]: Commencement: Rule 13 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

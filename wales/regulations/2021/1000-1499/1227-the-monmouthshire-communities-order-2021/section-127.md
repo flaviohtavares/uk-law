@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 127. Clydach and Gilwern — change in community ward boundaries and consequential change to electoral wards[^key-e63be6b5b5e5c78eecb77e2b8060518b][^key-298f322d3c5f94dbb6e38d392d28705f]
+## 127. Clydach and Gilwern — change in community ward boundaries and consequential change to electoral wards[^c-e63be6b5b5e5c78eecb77e2b8060518b][^c-298f322d3c5f94dbb6e38d392d28705f]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ The part of the Gilwern ward of the community of Llanelly shown hatched on Map 9
 
 ## Annotations
 
-[^key-e63be6b5b5e5c78eecb77e2b8060518b]: Commencement: Art. 127 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-e63be6b5b5e5c78eecb77e2b8060518b]: Commencement: Art. 127 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-298f322d3c5f94dbb6e38d392d28705f]: Commencement: [Art. 127](https://www.legislation.gov.uk/wsi/2021/1227/article/127) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-298f322d3c5f94dbb6e38d392d28705f]: Commencement: [Art. 127](https://www.legislation.gov.uk/wsi/2021/1227/article/127) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

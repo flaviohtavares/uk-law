@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Regulations under Article 112A or 112B[^key-310b411aed800f50035e06a165a526fd] may make provision about—
+(1) Regulations under Article 112A or 112B[^c-310b411aed800f50035e06a165a526fd] may make provision about—
 
 - (a) redundancy, or
 - (b) dismissal (other than by reason of redundancy),
@@ -38,4 +38,4 @@ during a period of leave under that Article.
 
 [^c22340171]: Textual amendment: [1999 NI 9](https://www.legislation.gov.uk/nisi/1999)
 
-[^key-310b411aed800f50035e06a165a526fd]: Textual amendment: Words in [art. 112D(1)](https://www.legislation.gov.uk/nisi/1996/1919/article/112D/1) substituted (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(12)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/12); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(c)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/c) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-310b411aed800f50035e06a165a526fd]: Textual amendment: Words in [art. 112D(1)](https://www.legislation.gov.uk/nisi/1996/1919/article/112D/1) substituted (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(12)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/12); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(c)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/c) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))

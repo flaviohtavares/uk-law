@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Provisions of the Companies Act 2006 coming into force on 15th December 2007[^key-488df436940ed5b34a8cf64bb46ae16c]
+## 4. Provisions of the Companies Act 2006 coming into force on 15th December 2007[^c-488df436940ed5b34a8cf64bb46ae16c]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-488df436940ed5b34a8cf64bb46ae16c]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2007/2194/article/4) in force at 15.12.2007, see [art. 1(3)(c)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/c)
+[^c-488df436940ed5b34a8cf64bb46ae16c]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2007/2194/article/4) in force at 15.12.2007, see [art. 1(3)(c)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/c)
 
 [^f00004]: Footnote: [S.I. 2006/3428 (C. 132)](https://www.legislation.gov.uk/uksi/2006/3428), article 2(1)(a).
 

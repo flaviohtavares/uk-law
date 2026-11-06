@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Provision of information to Secretary of State[^key-77db4f73ba92454feba58e9af05c68e3]
+## 71. Provision of information to Secretary of State[^c-77db4f73ba92454feba58e9af05c68e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ After section 112 of the Energy Act 2004 (c. 20) (duty to inform Secretary of St
 
 ## Annotations
 
-[^key-77db4f73ba92454feba58e9af05c68e3]: Commencement: S. 71 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/ii)
+[^c-77db4f73ba92454feba58e9af05c68e3]: Commencement: S. 71 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/ii)

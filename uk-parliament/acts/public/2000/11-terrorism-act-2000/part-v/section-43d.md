@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43D. Search of premises of offender released on licence for purposes connected with protection from risk of terrorism[^key-3eb883313b399a925ef2bbf76a857f1c]
+## 43D. Search of premises of offender released on licence for purposes connected with protection from risk of terrorism[^c-3eb883313b399a925ef2bbf76a857f1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3eb883313b399a925ef2bbf76a857f1c]: Textual amendment: [S. 43D](https://www.legislation.gov.uk/ukpga/2000/11/section/43D) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 186](https://www.legislation.gov.uk/ukpga/2022/32/section/186), [208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w)
+[^c-3eb883313b399a925ef2bbf76a857f1c]: Textual amendment: [S. 43D](https://www.legislation.gov.uk/ukpga/2000/11/section/43D) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 186](https://www.legislation.gov.uk/ukpga/2022/32/section/186), [208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w)

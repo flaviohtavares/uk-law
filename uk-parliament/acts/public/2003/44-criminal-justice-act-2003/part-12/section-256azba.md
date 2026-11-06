@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 256AZBA. Referral of release decisions to High Court[^key-ee282ba7335c6b827db47ca5768f3caa][^key-fac7b55327d5e52792874c4b00691571]
+## 256AZBA. Referral of release decisions to High Court[^c-ee282ba7335c6b827db47ca5768f3caa][^c-fac7b55327d5e52792874c4b00691571]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ee282ba7335c6b827db47ca5768f3caa]: Modification: [S. 256AZBA](https://www.legislation.gov.uk/ukpga/2003/44/section/256AZBA) modified (22.3.2026) by [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27), [Sch. para. 2B(6)](https://www.legislation.gov.uk/ukpga/1984/27/schedule/paragraph/2B/6) (as inserted by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 41(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/41/1), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4) (with [s. 41(3)(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/41/3)))
+[^c-ee282ba7335c6b827db47ca5768f3caa]: Modification: [S. 256AZBA](https://www.legislation.gov.uk/ukpga/2003/44/section/256AZBA) modified (22.3.2026) by [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27), [Sch. para. 2B(6)](https://www.legislation.gov.uk/ukpga/1984/27/schedule/paragraph/2B/6) (as inserted by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 41(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/41/1), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4) (with [s. 41(3)(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/41/3)))
 
-[^key-fac7b55327d5e52792874c4b00691571]: Textual amendment: [Ss. 256AZBA-256AZBC](https://www.legislation.gov.uk/ukpga/2003/44/section/256AZBA) and cross-heading inserted (31.12.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 62(1)](https://www.legislation.gov.uk/ukpga/2024/21/section/62/1), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/1325](https://www.legislation.gov.uk/uksi/2025/1325), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/1325/regulation/2/f)
+[^c-fac7b55327d5e52792874c4b00691571]: Textual amendment: [Ss. 256AZBA-256AZBC](https://www.legislation.gov.uk/ukpga/2003/44/section/256AZBA) and cross-heading inserted (31.12.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 62(1)](https://www.legislation.gov.uk/ukpga/2024/21/section/62/1), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/1325](https://www.legislation.gov.uk/uksi/2025/1325), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/1325/regulation/2/f)

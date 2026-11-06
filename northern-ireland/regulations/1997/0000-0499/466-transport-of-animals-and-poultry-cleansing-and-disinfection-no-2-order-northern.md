@@ -30,7 +30,7 @@ summary: ''
 
 ANIMALS
 
-Transport of Animals and Poultry (Cleansing and Disinfection) (No. 2) Order (Northern Ireland) 1997 (revoked)[^key-21585d28019e0d4df6e1e2a16bc7796c]
+Transport of Animals and Poultry (Cleansing and Disinfection) (No. 2) Order (Northern Ireland) 1997 (revoked)[^c-21585d28019e0d4df6e1e2a16bc7796c]
 
 Made
 
@@ -40,76 +40,76 @@ Coming into operation
 
 26th October 1997
 
-[^key-21585d28019e0d4df6e1e2a16bc7796c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-21585d28019e0d4df6e1e2a16bc7796c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-21585d28019e0d4df6e1e2a16bc7796c]
+## 1. Citation and commencement[^c-21585d28019e0d4df6e1e2a16bc7796c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-21585d28019e0d4df6e1e2a16bc7796c]
+## 2. Interpretation[^c-21585d28019e0d4df6e1e2a16bc7796c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Loading[^key-21585d28019e0d4df6e1e2a16bc7796c]
+## 3. Loading[^c-21585d28019e0d4df6e1e2a16bc7796c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Cleansing of the means of transport of livestock[^key-21585d28019e0d4df6e1e2a16bc7796c]
+## 4. Cleansing of the means of transport of livestock[^c-21585d28019e0d4df6e1e2a16bc7796c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Exceptions[^key-21585d28019e0d4df6e1e2a16bc7796c]
+## 5. Exceptions[^c-21585d28019e0d4df6e1e2a16bc7796c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Cleansing at lairages[^key-21585d28019e0d4df6e1e2a16bc7796c]
+## 6. Cleansing at lairages[^c-21585d28019e0d4df6e1e2a16bc7796c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Cleansing the means of transport of poultry[^key-21585d28019e0d4df6e1e2a16bc7796c]
+## 7. Cleansing the means of transport of poultry[^c-21585d28019e0d4df6e1e2a16bc7796c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Powers of inspectors[^key-21585d28019e0d4df6e1e2a16bc7796c]
+## 8. Powers of inspectors[^c-21585d28019e0d4df6e1e2a16bc7796c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Revocation and saving[^key-21585d28019e0d4df6e1e2a16bc7796c]
+## 9. Revocation and saving[^c-21585d28019e0d4df6e1e2a16bc7796c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-21585d28019e0d4df6e1e2a16bc7796c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-21585d28019e0d4df6e1e2a16bc7796c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Methods of Cleansing And Disinfection[^key-21585d28019e0d4df6e1e2a16bc7796c]
+## SCHEDULE — Methods of Cleansing And Disinfection[^c-21585d28019e0d4df6e1e2a16bc7796c]
 
 Article 2(1)
 
-### Part I — Animals[^key-21585d28019e0d4df6e1e2a16bc7796c]
+### Part I — Animals[^c-21585d28019e0d4df6e1e2a16bc7796c]
 
-**1.**[^key-21585d28019e0d4df6e1e2a16bc7796c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-21585d28019e0d4df6e1e2a16bc7796c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-21585d28019e0d4df6e1e2a16bc7796c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-21585d28019e0d4df6e1e2a16bc7796c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-21585d28019e0d4df6e1e2a16bc7796c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-21585d28019e0d4df6e1e2a16bc7796c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-21585d28019e0d4df6e1e2a16bc7796c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-21585d28019e0d4df6e1e2a16bc7796c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part II — Poultry[^key-21585d28019e0d4df6e1e2a16bc7796c]
+### Part II — Poultry[^c-21585d28019e0d4df6e1e2a16bc7796c]
 
-**1.**[^key-21585d28019e0d4df6e1e2a16bc7796c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-21585d28019e0d4df6e1e2a16bc7796c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-21585d28019e0d4df6e1e2a16bc7796c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-21585d28019e0d4df6e1e2a16bc7796c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-21585d28019e0d4df6e1e2a16bc7796c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-21585d28019e0d4df6e1e2a16bc7796c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-21585d28019e0d4df6e1e2a16bc7796c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-21585d28019e0d4df6e1e2a16bc7796c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-21585d28019e0d4df6e1e2a16bc7796c]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1997/466) revoked (1.11.2000) by [Transport of Animals and Poultry (Cleansing and Disinfection) Order (Northern Ireland) 2000 (revoked) 2000 (S.R. 2000/293)](https://www.legislation.gov.uk/nisr/2000/293), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2000/293/article/1/1), [7(1)](https://www.legislation.gov.uk/nisr/2000/293/article/7/1) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2000/293/article/7/2))
+[^c-21585d28019e0d4df6e1e2a16bc7796c]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1997/466) revoked (1.11.2000) by [Transport of Animals and Poultry (Cleansing and Disinfection) Order (Northern Ireland) 2000 (revoked) 2000 (S.R. 2000/293)](https://www.legislation.gov.uk/nisr/2000/293), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2000/293/article/1/1), [7(1)](https://www.legislation.gov.uk/nisr/2000/293/article/7/1) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2000/293/article/7/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5A. Local authority plans for community care services.[^key-557547d60045f081f4012f379819c854]
+## 5A. Local authority plans for community care services.[^c-557547d60045f081f4012f379819c854]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-557547d60045f081f4012f379819c854]: Textual amendment: [S. 5A](https://www.legislation.gov.uk/ukpga/1968/49/section/5A) repealed (1.4.2015) by [Public Bodies (Joint Working) (Scotland) Act 2014 (asp 9)](https://www.legislation.gov.uk/asp/2014/9), [ss. 71(1)](https://www.legislation.gov.uk/asp/2014/9/section/71/1), [72(2)](https://www.legislation.gov.uk/asp/2014/9/section/72/2); [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 3](https://www.legislation.gov.uk/ssi/2014/231/article/3)
+[^c-557547d60045f081f4012f379819c854]: Textual amendment: [S. 5A](https://www.legislation.gov.uk/ukpga/1968/49/section/5A) repealed (1.4.2015) by [Public Bodies (Joint Working) (Scotland) Act 2014 (asp 9)](https://www.legislation.gov.uk/asp/2014/9), [ss. 71(1)](https://www.legislation.gov.uk/asp/2014/9/section/71/1), [72(2)](https://www.legislation.gov.uk/asp/2014/9/section/72/2); [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 3](https://www.legislation.gov.uk/ssi/2014/231/article/3)

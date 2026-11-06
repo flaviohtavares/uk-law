@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. References to tribunal[^key-73891227294660674b2b265bc0c0964d]
+## 31. References to tribunal[^c-73891227294660674b2b265bc0c0964d]
 
 *Extent: E+W+S+N.I.*
 
@@ -95,4 +95,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73891227294660674b2b265bc0c0964d]: Commencement: S. 31 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-73891227294660674b2b265bc0c0964d]: Commencement: S. 31 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

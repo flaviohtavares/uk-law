@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6ZA — Animals which may not be killed or taken by trapping or snaring[^key-40d26a8db27f70a272305917a27838f8]
+## SCHEDULE 6ZA — Animals which may not be killed or taken by trapping or snaring[^c-40d26a8db27f70a272305917a27838f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ NOTE. The common name or names given in the first column of this Schedule are in
 
 ## Annotations
 
-[^key-40d26a8db27f70a272305917a27838f8]: Textual amendment: Sch. 6ZA inserted (28.3.2019) by [The Humane Trapping Standards Regulations 2019 (S.I. 2019/22)](https://www.legislation.gov.uk/uksi/2019/22), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/22/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/22/schedule) (with [reg. 9](https://www.legislation.gov.uk/uksi/2019/22/regulation/9))
+[^c-40d26a8db27f70a272305917a27838f8]: Textual amendment: Sch. 6ZA inserted (28.3.2019) by [The Humane Trapping Standards Regulations 2019 (S.I. 2019/22)](https://www.legislation.gov.uk/uksi/2019/22), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/22/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/22/schedule) (with [reg. 9](https://www.legislation.gov.uk/uksi/2019/22/regulation/9))

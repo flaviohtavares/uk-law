@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Amendment of the Adults with Incapacity (Scotland) Act 2000[^key-6dd4f75d77034e32f96aba17aca1a299]
+## 57. Amendment of the Adults with Incapacity (Scotland) Act 2000[^c-6dd4f75d77034e32f96aba17aca1a299]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6dd4f75d77034e32f96aba17aca1a299]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2006/4/section/57) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-6dd4f75d77034e32f96aba17aca1a299]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2006/4/section/57) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

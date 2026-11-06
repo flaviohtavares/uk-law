@@ -66,7 +66,7 @@ The Secretary of State, in exercise of the powers conferred by section 1(3) of t
 (1) In this Order—
 
 - “**baselines**” has the same meaning as in the Territorial Sea Act 1987 [^c21366331];
-- [^key-1a7e9c07af3616f56e575f9c2128100d]...
+- [^c-1a7e9c07af3616f56e575f9c2128100d]...
 - “**scallop**” means a shellfish of the species *Pecten maximus*;
 - “**scallop dredge**” means any appliance with a rigid framed mouth which is towed through the water and is manufactured, adapted, used or intended for use for the purpose of fishing for scallops.
 
@@ -74,7 +74,7 @@ The Secretary of State, in exercise of the powers conferred by section 1(3) of t
 
 ## 3. Specification of scallop dredges
 
-(1) No fishing boat[^key-9baf75da6050b78fb359ac4b12957a19] may carry or tow a scallop dredge within British fishery limits unless the dredge conforms to the following specifications.
+(1) No fishing boat[^c-9baf75da6050b78fb359ac4b12957a19] may carry or tow a scallop dredge within British fishery limits unless the dredge conforms to the following specifications.
 
 (2) It must—
 
@@ -121,15 +121,15 @@ The Secretary of State, in exercise of the powers conferred by section 1(3) of t
 
 ## 4. Restrictions on number of scallop dredges
 
-No fishing boat[^key-35bc7137afdf0744a4838db2b2f05122] may tow at any one time more than 8 scallop dredges from each side of the boat when in waters adjacent to England out to a line drawn 12 nautical miles from baselines.
+No fishing boat[^c-35bc7137afdf0744a4838db2b2f05122] may tow at any one time more than 8 scallop dredges from each side of the boat when in waters adjacent to England out to a line drawn 12 nautical miles from baselines.
 
 ## 5. Carriage of undersized scallops
 
-(1) For the purposes of section 1(3) of the Sea Fish (Conservation) Act 1967, scallops measuring less than 110 millimetres may not be carried by a fishing boat[^key-30dd5cd10fce839ac8cb0f14b9fd112c] that has fished in both ICES division VIId and ICES division VIIe during a single fishing trip.
+(1) For the purposes of section 1(3) of the Sea Fish (Conservation) Act 1967, scallops measuring less than 110 millimetres may not be carried by a fishing boat[^c-30dd5cd10fce839ac8cb0f14b9fd112c] that has fished in both ICES division VIId and ICES division VIIe during a single fishing trip.
 
 (2) In this article, “**single fishing trip**” means the time from when a fishing boat departs from a port to the time when it returns to a port.
 
-(3) For the purposes of this article, the size of a scallop is measurable in accordance with paragraph 6 of Annex 4 to Regulation (EU) 2019/1241 of the European Parliament and of the Council on the conservation of fisheries resources and the protection of marine ecosystems through technical measures[^key-fb5224bc3f8850c38a139ad89bcf1d72].
+(3) For the purposes of this article, the size of a scallop is measurable in accordance with paragraph 6 of Annex 4 to Regulation (EU) 2019/1241 of the European Parliament and of the Council on the conservation of fisheries resources and the protection of marine ecosystems through technical measures[^c-fb5224bc3f8850c38a139ad89bcf1d72].
 
 ## 6. Revocation
 
@@ -193,16 +193,16 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c21366331]: Marginal citation: [1987 c.49](https://www.legislation.gov.uk/ukpga/1987/49).
 
-[^key-1a7e9c07af3616f56e575f9c2128100d]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/2283/article/2/1) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 18(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/18/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-1a7e9c07af3616f56e575f9c2128100d]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/2283/article/2/1) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 18(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/18/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^c21366351]: Marginal citation: The International Council for the Exploration of the Sea (ICES), set up under intergovernmental agreement (the ICES Convention), coordinates and promotes marine research on oceanography, the marine environment, the marine ecosystem, and on living marine resources in the North Atlantic.
 
-[^key-9baf75da6050b78fb359ac4b12957a19]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2012/2283/article/3/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 18(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/18/3/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-9baf75da6050b78fb359ac4b12957a19]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2012/2283/article/3/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 18(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/18/3/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-35bc7137afdf0744a4838db2b2f05122]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2012/2283/article/4) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 18(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/18/3/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-35bc7137afdf0744a4838db2b2f05122]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2012/2283/article/4) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 18(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/18/3/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-30dd5cd10fce839ac8cb0f14b9fd112c]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2012/2283/article/5/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 18(3)(c)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/18/3/c) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-30dd5cd10fce839ac8cb0f14b9fd112c]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2012/2283/article/5/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 18(3)(c)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/18/3/c) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-fb5224bc3f8850c38a139ad89bcf1d72]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2012/2283/article/5/3) substituted (21.10.2019) by [The Sea Fishing (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1284)](https://www.legislation.gov.uk/uksi/2019/1284), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1284/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1284/regulation/2)
+[^c-fb5224bc3f8850c38a139ad89bcf1d72]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2012/2283/article/5/3) substituted (21.10.2019) by [The Sea Fishing (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1284)](https://www.legislation.gov.uk/uksi/2019/1284), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1284/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1284/regulation/2)
 
 [^c21366371]: Marginal citation: [S.I. 2004/12](https://www.legislation.gov.uk/uksi/2004/12).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Power to require owner of land to remove waste[^key-2ce0f7a26bac2a69182dacd79d0331e0][^key-d631b5d8fe8b47bea5fb25113b2d3727]
+## 50. Power to require owner of land to remove waste[^c-2ce0f7a26bac2a69182dacd79d0331e0][^c-d631b5d8fe8b47bea5fb25113b2d3727]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2ce0f7a26bac2a69182dacd79d0331e0]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2005/16/section/50) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
+[^c-2ce0f7a26bac2a69182dacd79d0331e0]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2005/16/section/50) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
 
-[^key-d631b5d8fe8b47bea5fb25113b2d3727]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2005/16/section/50) in force at 27.10.2006 for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 2(i)](https://www.legislation.gov.uk/wsi/2006/2797/article/2/i)
+[^c-d631b5d8fe8b47bea5fb25113b2d3727]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2005/16/section/50) in force at 27.10.2006 for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 2(i)](https://www.legislation.gov.uk/wsi/2006/2797/article/2/i)

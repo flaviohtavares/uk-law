@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Time limit for exercise of powers of acquisition[^key-f752cc7b3ec157e5e63186a23e7032ac]
+## 29. Time limit for exercise of powers of acquisition[^c-f752cc7b3ec157e5e63186a23e7032ac]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f752cc7b3ec157e5e63186a23e7032ac]: Commencement: Art. 29 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
+[^c-f752cc7b3ec157e5e63186a23e7032ac]: Commencement: Art. 29 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
 
 [^f00019]: Footnote: [1981 c. 66](https://www.legislation.gov.uk/ukpga/1981/66).

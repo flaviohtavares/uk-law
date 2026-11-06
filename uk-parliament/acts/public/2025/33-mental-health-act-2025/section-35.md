@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Conditional discharge subject to deprivation of liberty conditions[^key-849d9d08e855e847e6632d2e8522c442]
+## 35. Conditional discharge subject to deprivation of liberty conditions[^c-849d9d08e855e847e6632d2e8522c442]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-849d9d08e855e847e6632d2e8522c442]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2025/33/section/35) in force at 18.2.2026, see [s. 56(1)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/1)
+[^c-849d9d08e855e847e6632d2e8522c442]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2025/33/section/35) in force at 18.2.2026, see [s. 56(1)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/1)

@@ -140,7 +140,7 @@ Section 18.
 > - (a) shall consult the Food Standards Agency as to regulations which they contemplate making; and
 > - (b) shall from time to time consult that Agency as to the general approach to be taken by them in relation to the giving, revocation or suspension of approvals and the imposition of conditions on approvals (including the identification of circumstances in which it may be desirable for the Agency to be consulted in relation to particular cases).
 
-(6)[^key-7792288380d359a68aadfc37f67383f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-7792288380d359a68aadfc37f67383f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Environmental Protection Act 1990 (c. 43)
 
@@ -207,7 +207,7 @@ Section 18.
 
 #### Radioactive Substances Act 1993 (c. 12)
 
-**21.** The Agency shall have the right to be consulted in the circumstances mentioned in subsection (4A) of section 16 or subsection (2A) of section 17 of the Radioactive Substances Act 1993 (proposals for granting or varying authorisations) about the matters mentioned in paragraphs (a) and (b) of that subsection. *(Extent: E+W)* *(affected by repeal, see note)*[^key-a1b06445fc6cf52031208ab085df5b8a] *(affected by repeal, see note)*[^key-683d5f74b88ea87f64bd1040f39aaed1]
+**21.** The Agency shall have the right to be consulted in the circumstances mentioned in subsection (4A) of section 16 or subsection (2A) of section 17 of the Radioactive Substances Act 1993 (proposals for granting or varying authorisations) about the matters mentioned in paragraphs (a) and (b) of that subsection. *(Extent: E+W)* *(affected by repeal, see note)*[^c-a1b06445fc6cf52031208ab085df5b8a] *(affected by repeal, see note)*[^c-683d5f74b88ea87f64bd1040f39aaed1]
 
 (1) The Agency has the right to be consulted on the determination of any application for the grant or variation of an authorisation (including of any conditions to which the authorisation may be subject) under the Environmental Authorisations (Scotland) Regulations 2018 for the disposal of radioactive waste from any premises situated on a nuclear site.
 
@@ -215,8 +215,8 @@ Section 18.
 
 ## Annotations
 
-[^key-7792288380d359a68aadfc37f67383f7]: Textual amendment: [Sch. 3 para. 16(6)](https://www.legislation.gov.uk/ukpga/1999/28/schedule/3/paragraph/16/6) repealed (27.3.2015) by [The Public Bodies (Abolition of the Advisory Committees on Pesticides) Order 2015 (S.I. 2015/978)](https://www.legislation.gov.uk/uksi/2015/978), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/978/article/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2015/978/schedule/part/1)
+[^c-7792288380d359a68aadfc37f67383f7]: Textual amendment: [Sch. 3 para. 16(6)](https://www.legislation.gov.uk/ukpga/1999/28/schedule/3/paragraph/16/6) repealed (27.3.2015) by [The Public Bodies (Abolition of the Advisory Committees on Pesticides) Order 2015 (S.I. 2015/978)](https://www.legislation.gov.uk/uksi/2015/978), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/978/article/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2015/978/schedule/part/1)
 
-[^key-a1b06445fc6cf52031208ab085df5b8a]: Textual amendment: Sch. 3 para. 21 repealed (E.W.) (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 26 para. 15](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/15), [Sch. 28](https://www.legislation.gov.uk/uksi/2010/675/schedule/28) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))
+[^c-a1b06445fc6cf52031208ab085df5b8a]: Textual amendment: Sch. 3 para. 21 repealed (E.W.) (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 26 para. 15](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/15), [Sch. 28](https://www.legislation.gov.uk/uksi/2010/675/schedule/28) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))
 
-[^key-683d5f74b88ea87f64bd1040f39aaed1]: Textual amendment: [Sch. 3 para. 21](https://www.legislation.gov.uk/ukpga/1999/28/schedule/3/paragraph/21) substituted (S.) (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 6 para. 4](https://www.legislation.gov.uk/ssi/2018/219/schedule/6/paragraph/4) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
+[^c-683d5f74b88ea87f64bd1040f39aaed1]: Textual amendment: [Sch. 3 para. 21](https://www.legislation.gov.uk/ukpga/1999/28/schedule/3/paragraph/21) substituted (S.) (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 6 para. 4](https://www.legislation.gov.uk/ssi/2018/219/schedule/6/paragraph/4) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))

@@ -31,7 +31,7 @@ summary: ''
 
 EMPLOYMENT
 
-Time Off for Public Duties Order (Northern Ireland) 2003 (revoked)[^key-d3083b1ea4d709ad79746f8310a38fcf]
+Time Off for Public Duties Order (Northern Ireland) 2003 (revoked)[^c-d3083b1ea4d709ad79746f8310a38fcf]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 24th August 2003
 
-[^key-d3083b1ea4d709ad79746f8310a38fcf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3083b1ea4d709ad79746f8310a38fcf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d3083b1ea4d709ad79746f8310a38fcf]
+## 1. Citation and commencement[^c-d3083b1ea4d709ad79746f8310a38fcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Modifications to the Employment Rights (Northern Ireland) Order 1996[^key-d3083b1ea4d709ad79746f8310a38fcf]
+## 2. Modifications to the Employment Rights (Northern Ireland) Order 1996[^c-d3083b1ea4d709ad79746f8310a38fcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d3083b1ea4d709ad79746f8310a38fcf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3083b1ea4d709ad79746f8310a38fcf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d3083b1ea4d709ad79746f8310a38fcf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3083b1ea4d709ad79746f8310a38fcf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d3083b1ea4d709ad79746f8310a38fcf]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2003/365) revoked (24.8.2003) by [Time Off for Public Duties (No. 2) Order (Northern Ireland) 2003 (S.R. 2003/381)](https://www.legislation.gov.uk/nisr/2003/381), [arts. 1](https://www.legislation.gov.uk/nisr/2003/381/article/1), [2](https://www.legislation.gov.uk/nisr/2003/381/article/2)
+[^c-d3083b1ea4d709ad79746f8310a38fcf]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2003/365) revoked (24.8.2003) by [Time Off for Public Duties (No. 2) Order (Northern Ireland) 2003 (S.R. 2003/381)](https://www.legislation.gov.uk/nisr/2003/381), [arts. 1](https://www.legislation.gov.uk/nisr/2003/381/article/1), [2](https://www.legislation.gov.uk/nisr/2003/381/article/2)

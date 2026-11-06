@@ -33,13 +33,13 @@ A Measure passed by the General Synod of the Church of England to extend until 3
 
 \[25th January 2024\]
 
-## 1. Extension of period of capital payments[^key-6379fdb3625feb6d6ab597e39059f86c]
+## 1. Extension of period of capital payments[^c-6379fdb3625feb6d6ab597e39059f86c]
 
 (1) In section 31(4) of the Church of England Pensions Measure 2018 (pensions and lump sums payable under past service scheme), for “2025” substitute “2032”.
 
 (2) In section 17(4) of the Church Commissioners Measure 1947 (pensions and lump sums payable under the Commissioners Superannuation Scheme), for “2025” substitute “2032”.
 
-## 2. Short title, commencement, extent and application[^key-04e9f5503bcb698ae99ff1e5fb30b7df]
+## 2. Short title, commencement, extent and application[^c-04e9f5503bcb698ae99ff1e5fb30b7df]
 
 (1) This Measure may be cited as the Church of England Pensions (Application of Capital Funds) Measure 2024.
 
@@ -56,6 +56,6 @@ A Measure passed by the General Synod of the Church of England to extend until 3
 
 ## Annotations
 
-[^key-6379fdb3625feb6d6ab597e39059f86c]: Commencement: S. 1 in force at 25.1.2024, see [s. 2(2)](https://www.legislation.gov.uk/ukcm/2024/2/section/2/2)
+[^c-6379fdb3625feb6d6ab597e39059f86c]: Commencement: S. 1 in force at 25.1.2024, see [s. 2(2)](https://www.legislation.gov.uk/ukcm/2024/2/section/2/2)
 
-[^key-04e9f5503bcb698ae99ff1e5fb30b7df]: Commencement: S. 2 in force at 25.1.2024, see [s. 2(2)](https://www.legislation.gov.uk/ukcm/2024/2/section/2/2)
+[^c-04e9f5503bcb698ae99ff1e5fb30b7df]: Commencement: S. 2 in force at 25.1.2024, see [s. 2(2)](https://www.legislation.gov.uk/ukcm/2024/2/section/2/2)

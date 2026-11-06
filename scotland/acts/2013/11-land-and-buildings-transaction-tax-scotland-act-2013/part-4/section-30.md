@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Notifiable transactions[^key-9c231fbc357b81780dcdaaacd19a5c1c]
+## 30. Notifiable transactions[^c-9c231fbc357b81780dcdaaacd19a5c1c]
 
 *Extent: S*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c231fbc357b81780dcdaaacd19a5c1c]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2013/11/section/30) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-9c231fbc357b81780dcdaaacd19a5c1c]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2013/11/section/30) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Obligations of manufacturing authorisation holder[^key-4da81f2283c6081d033fadfc3b1a885e]
+## 42. Obligations of manufacturing authorisation holder[^c-4da81f2283c6081d033fadfc3b1a885e]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ The holder of a manufacturing authorisation shall—
 
 ## Annotations
 
-[^key-4da81f2283c6081d033fadfc3b1a885e]: Textual amendment: Reg. 42 substituted (29.8.2006) by [The Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2006/1928/regulation/22)
+[^c-4da81f2283c6081d033fadfc3b1a885e]: Textual amendment: Reg. 42 substituted (29.8.2006) by [The Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2006/1928/regulation/22)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-f1347d5d667f59a4d8e581bbdc9c2a21] The Secretary of State is authorised by this section to acquire compulsorily—
+(1)[^c-f1347d5d667f59a4d8e581bbdc9c2a21] The Secretary of State is authorised by this section to acquire compulsorily—
 
 - (a) so much of the land shown on the deposited plans within the limits of deviation for the scheduled works as may be required for or in connection with the works authorised by this Act or otherwise for or in connection with Crossrail, and
 - (b) so much of the land so shown within the limits of land to be acquired or used as may be so required.
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1347d5d667f59a4d8e581bbdc9c2a21]: Modification: S. 6(1) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), [arts. 1](https://www.legislation.gov.uk/uksi/2010/988/article/1), [3](https://www.legislation.gov.uk/uksi/2010/988/article/3/1) (with [art. 13](https://www.legislation.gov.uk/uksi/2010/988/article/13))
+[^c-f1347d5d667f59a4d8e581bbdc9c2a21]: Modification: S. 6(1) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), [arts. 1](https://www.legislation.gov.uk/uksi/2010/988/article/1), [3](https://www.legislation.gov.uk/uksi/2010/988/article/3/1) (with [art. 13](https://www.legislation.gov.uk/uksi/2010/988/article/13))

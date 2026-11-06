@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Review of decision of Upper Tribunal[^c20684681][^key-0901633de15a1d9434b72decf79139a2][^key-385c00cbecab9e674dd2e11d543407b3]
+## 10. Review of decision of Upper Tribunal[^c20684681][^c-0901633de15a1d9434b72decf79139a2][^c-385c00cbecab9e674dd2e11d543407b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 [^c20684681]: Commencement: S. 10 wholly in force at 3.11.2008; s. 10 not in force at Royal Assent see s. 148; s. 10(3) in force at 19.9.2007 by [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/2709/article/2/a); s. 10(1)(2)(4)-(9) in force at 3.11.2008 by [S.I. 2008/2696](https://www.legislation.gov.uk/uksi/2008/2696), {art . 5(a)}
 
-[^key-0901633de15a1d9434b72decf79139a2]: Modification: Ss. 9-13 excluded (E.W.) (25.1.2018) by [Tax Collection and Management (Wales) Act 2016 (anaw 6)](https://www.legislation.gov.uk/anaw/2016/6), [ss. 177(1)(b)](https://www.legislation.gov.uk/anaw/2016/6/section/177/1/b), [194(2)](https://www.legislation.gov.uk/anaw/2016/6/section/194/2) (with [s. 177(2)](https://www.legislation.gov.uk/anaw/2016/6/section/177/2)); [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(i)](https://www.legislation.gov.uk/wsi/2018/33/article/2/i)
+[^c-0901633de15a1d9434b72decf79139a2]: Modification: Ss. 9-13 excluded (E.W.) (25.1.2018) by [Tax Collection and Management (Wales) Act 2016 (anaw 6)](https://www.legislation.gov.uk/anaw/2016/6), [ss. 177(1)(b)](https://www.legislation.gov.uk/anaw/2016/6/section/177/1/b), [194(2)](https://www.legislation.gov.uk/anaw/2016/6/section/194/2) (with [s. 177(2)](https://www.legislation.gov.uk/anaw/2016/6/section/177/2)); [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(i)](https://www.legislation.gov.uk/wsi/2018/33/article/2/i)
 
-[^key-385c00cbecab9e674dd2e11d543407b3]: Modification: Ss. 9-13 excluded (E.W.) (25.1.2018) by [Tax Collection and Management (Wales) Act 2016 (anaw 6)](https://www.legislation.gov.uk/anaw/2016/6), [ss. 184(3)](https://www.legislation.gov.uk/anaw/2016/6/section/184/3), [194(2)](https://www.legislation.gov.uk/anaw/2016/6/section/194/2); [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(i)](https://www.legislation.gov.uk/wsi/2018/33/article/2/i)
+[^c-385c00cbecab9e674dd2e11d543407b3]: Modification: Ss. 9-13 excluded (E.W.) (25.1.2018) by [Tax Collection and Management (Wales) Act 2016 (anaw 6)](https://www.legislation.gov.uk/anaw/2016/6), [ss. 184(3)](https://www.legislation.gov.uk/anaw/2016/6/section/184/3), [194(2)](https://www.legislation.gov.uk/anaw/2016/6/section/194/2); [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(i)](https://www.legislation.gov.uk/wsi/2018/33/article/2/i)

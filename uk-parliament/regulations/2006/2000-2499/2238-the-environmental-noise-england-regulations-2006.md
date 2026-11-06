@@ -69,11 +69,11 @@ The Secretary of State is a Minister designated [^c1667206] for the purposes of 
 - “**agglomeration**” means an area identified as an agglomeration pursuant to regulation 3;
 - “**airport operator**” means the person for the time being having, in relation to a particular airport, the management of that airport;
 - “**calendar year**” means a period of a year beginning on 1st January;
-- “**consolidated noise map**” means a noise map compiled pursuant to regulation 14(1)[^key-7603a4cd16a04215a5fbfdccec2e4b67];
+- “**consolidated noise map**” means a noise map compiled pursuant to regulation 14(1)[^c-7603a4cd16a04215a5fbfdccec2e4b67];
 - “dB(A)” is a measure of sound pressure level (“A” weighted) in decibels as specified in British Standard BS EN 61672-2: 2003 [^c1667208];
 - “**DEFRA**” means the Department for Environment Food and Rural Affairs;
 - “designated” when used in relation to any airport means designated under section 80 for the purposes of section 78 of the Civil Aviation Act 1982 [^c1667209];
-- “[^key-b881888953753e74f3b88043214d012b]the Directive” means Directive [2002/49/EC](https://www.legislation.gov.uk/european/directive/2002/0049) of the European Parliament and of the Council relating to the assessment and management of environmental noise, as last amended by Commission Directive ([^key-e2801b7f00e0621d38d66779bf3c75d9]EU) 2015/996
+- “[^c-b881888953753e74f3b88043214d012b]the Directive” means Directive [2002/49/EC](https://www.legislation.gov.uk/european/directive/2002/0049) of the European Parliament and of the Council relating to the assessment and management of environmental noise, as last amended by Commission Directive ([^c-e2801b7f00e0621d38d66779bf3c75d9]EU) 2015/996
 - “**first round agglomeration**” means an area identified as a first round agglomeration pursuant to regulation 3;
 - “**first round major railway**” means a railway which is identified as a first round major railway pursuant to regulation 3;
 - “**first round major road**” means a road which is identified as a first round major road pursuant to regulation 3;
@@ -95,11 +95,11 @@ The Secretary of State is a Minister designated [^c1667206] for the purposes of 
 - “**quiet area in an agglomeration**” means an area which is identified as a quiet area in an agglomeration in accordance with regulation 13;
 - “**special road**” has the same meaning as in section 329(1) of the Highways Act 1980;
 - “**supplementary noise indicator**” has the meaning given in regulation 4(6); and
-- “**trunk road**” means any highway for which the Secretary of State or a strategic highways company for the time being appointed under Part 1 of the Infrastructure Act 2015[^key-9ca51ea22fb9f3ca9d3b336e743e7c3c] is the relevant highway authority.
+- “**trunk road**” means any highway for which the Secretary of State or a strategic highways company for the time being appointed under Part 1 of the Infrastructure Act 2015[^c-9ca51ea22fb9f3ca9d3b336e743e7c3c] is the relevant highway authority.
 
-(3)[^key-b9be7ae9af68e2b126ead018b572c559] In these Regulations, any reference to Annex I , 2[^key-632ddfd8dd812f5cef3ddae37ecdb5c3] or VI or paragraph 7 of Annex IV of the Directive is to be construed as a reference to that Annex or paragraph of the Directive as it had effect immediately before IP completion day.[^key-4197e2cfc317d8f2410ebef5e5c4c9bf]
+(3)[^c-b9be7ae9af68e2b126ead018b572c559] In these Regulations, any reference to Annex I , 2[^c-632ddfd8dd812f5cef3ddae37ecdb5c3] or VI or paragraph 7 of Annex IV of the Directive is to be construed as a reference to that Annex or paragraph of the Directive as it had effect immediately before IP completion day.[^c-4197e2cfc317d8f2410ebef5e5c4c9bf]
 
-(4)[^key-74c4cd89e02c6d823a6849a1c373d9ea] For the purposes of these Regulations, the Directive is to be read as if a reference to one or more member States were a reference to the Secretary of State.
+(4)[^c-74c4cd89e02c6d823a6849a1c373d9ea] For the purposes of these Regulations, the Directive is to be read as if a reference to one or more member States were a reference to the Secretary of State.
 
 ### 3. Identification of noise sources
 
@@ -110,21 +110,21 @@ The Secretary of State is a Minister designated [^c1667206] for the purposes of 
 - (c) first round major railways; and
 - (d) major airports.
 
-(2) No later than 31st December 2011 the Secretary of State must publish maps identifying all[^key-09fb02d8445bec78d33cbc6ac60d013a]—
+(2) No later than 31st December 2011 the Secretary of State must publish maps identifying all[^c-09fb02d8445bec78d33cbc6ac60d013a]—
 
 - (a) agglomerations;
 - (b) major roads;
 - (c) major railways; and
 - (d) major airports.
 
-(3) In any relevant year the Secretary of State must publish maps identifying[^key-ff5335824c6d1ccc96338a83ae6b82ed]—
+(3) In any relevant year the Secretary of State must publish maps identifying[^c-ff5335824c6d1ccc96338a83ae6b82ed]—
 
 - (a) agglomerations;
 - (b) major roads;
 - (c) major railways; or
 - (d) major airports,
 
-as necessary if he considers that the most recent maps published[^key-755e014eb6dd413be004457c9f824569] pursuant to paragraph (2) are no longer appropriate.
+as necessary if he considers that the most recent maps published[^c-755e014eb6dd413be004457c9f824569] pursuant to paragraph (2) are no longer appropriate.
 
 (4) In paragraph (3) “**relevant year**” means 2016 and every fifth year thereafter.
 
@@ -173,19 +173,19 @@ as necessary if he considers that the most recent maps published[^key-755e014eb6
 (2) A competent authority under regulation 6 or 10 must apply—
 
 - (a) the noise indicators L<sub>den</sub> and L<sub>night</sub> as referred to in Annex I of the Directive; and
-- (b)[^key-8dadf2a9b98819dfc2d495034104e4f4] the supplementary noise indicators,
+- (b)[^c-8dadf2a9b98819dfc2d495034104e4f4] the supplementary noise indicators,
 
 when making or revising strategic noise maps under this Part.
 
-(2A)[^key-faeaefa5be3c175e3f71f4ce89c8783f] For the purposes of paragraph (2)(a), a reference to Annex 1 of the Directive is to be read as if, in paragraph 1, in the fourth indent that begins “the day is 12 hours”, the words from “The Member” to the end were omitted.
+(2A)[^c-faeaefa5be3c175e3f71f4ce89c8783f] For the purposes of paragraph (2)(a), a reference to Annex 1 of the Directive is to be read as if, in paragraph 1, in the fourth indent that begins “the day is 12 hours”, the words from “The Member” to the end were omitted.
 
-(3) The values of L<sub>den</sub>, L<sub>night</sub> and the supplementary noise indicators must be determined by computation (at the assessment position) and by means of the assessment methods set out in Annex 2 to the Directive[^key-96b30a18929ab83e519c0fd3b883b42a].
+(3) The values of L<sub>den</sub>, L<sub>night</sub> and the supplementary noise indicators must be determined by computation (at the assessment position) and by means of the assessment methods set out in Annex 2 to the Directive[^c-96b30a18929ab83e519c0fd3b883b42a].
 
-(3A)[^key-e45b8ff28eab3217fe6986c5008cf150] In paragraph (3), “assessment position” means the assessment height in paragraph 7 of Annex 4 to the Directive.
+(3A)[^c-e45b8ff28eab3217fe6986c5008cf150] In paragraph (3), “assessment position” means the assessment height in paragraph 7 of Annex 4 to the Directive.
 
-(4)[^key-fdef1cf8bfeaee4cf109ef1ac9620833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-fdef1cf8bfeaee4cf109ef1ac9620833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-a73ac24bfdaac8d5f5527a05dc9d8bf2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-a73ac24bfdaac8d5f5527a05dc9d8bf2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) “**Supplementary noise indicator**” means a noise indicator as defined in Schedule 3.
 
@@ -303,7 +303,7 @@ any strategic noise map made pursuant to paragraphs (2) or (3) and adopted pursu
 
 ## PART 3 — QUIET AREAS
 
-### 13. Identification of quiet areas[^key-7f98da3b78c722ac91f5562ff882d198]
+### 13. Identification of quiet areas[^c-7f98da3b78c722ac91f5562ff882d198]
 
 (1) The Secretary of State must identify —
 
@@ -321,7 +321,7 @@ in such published form as the Secretary of State considers appropriate.
 
 ### CHAPTER 1 — GENERAL
 
-#### 14. Consolidated noise maps[^key-f373966eb5055b8ea5c4eec8593df785]
+#### 14. Consolidated noise maps[^c-f373966eb5055b8ea5c4eec8593df785]
 
 (1) The Secretary of State may compile a consolidated noise map in respect of any area covered by more than one strategic noise map.
 
@@ -330,7 +330,7 @@ in such published form as the Secretary of State considers appropriate.
 - (a) made or revised pursuant to regulation 7, 11 or 12; and
 - (b) adopted pursuant to regulation 23.
 
-#### 14A. Duty to publish criteria or limit values[^key-2104948c3d9ad456705cdfdac0f3a542]
+#### 14A. Duty to publish criteria or limit values[^c-2104948c3d9ad456705cdfdac0f3a542]
 
 (1) The Secretary of State must set out limit values or other criteria for the identification of priorities for action plans (“relevant criteria”) in such published form as the Secretary of State considers appropriate.
 
@@ -340,11 +340,11 @@ in such published form as the Secretary of State considers appropriate.
 
 (1) Any action plan drawn up or revised under this Part must—
 
-- (a)[^key-f09688a4a9a98df98a0949f08b7eacf0] aim to prevent and reduce environmental noise where necessary and particularly where exposure levels can induce harmful effects on human health;
+- (a)[^c-f09688a4a9a98df98a0949f08b7eacf0] aim to prevent and reduce environmental noise where necessary and particularly where exposure levels can induce harmful effects on human health;
 - (aa) aim to preserve environmental noise quality where it is good;
 - (b) be designed to manage noise issues and effects, including noise reduction if necessary;
 - (c) aim to protect quiet areas in first round agglomerations and agglomerations against an increase in noise;
-- (d)[^key-21127fee91defa8a852dba5413941202] address priorities which must be identified by having regard to the relevant criteria;
+- (d)[^c-21127fee91defa8a852dba5413941202] address priorities which must be identified by having regard to the relevant criteria;
 - (e) apply in particular to the most important areas as established by strategic noise maps adopted pursuant to regulation 23; and
 - (f) meet the requirements in Schedule 4.
 
@@ -407,7 +407,7 @@ and the competent authority is the airport operator.
 
 #### 19. Duty to draw up, review and revise action plans
 
-(1) No later than 30th June[^key-6f11f665dafded4067a8f5a8f5560bf6] 2008 the competent authority must—
+(1) No later than 30th June[^c-6f11f665dafded4067a8f5a8f5560bf6] 2008 the competent authority must—
 
 - (a) draw up an action plan for places near the airport; and
 - (b) submit that action plan to the Secretary of State.
@@ -481,11 +481,11 @@ with written reasons for departing from that policy; and
 (2) A competent authority—
 
 - (a) when requested to do so by an external competent authority; and
-- (b) if necessary to meet that external competent authority's obligations arising under relevant[^key-64cfaae4b79bd8f53b3db7a6a1b0b6d3] assimilated[^key-c15f49c372cb1e194dd15ebc8ba0b59d] law,
+- (b) if necessary to meet that external competent authority's obligations arising under relevant[^c-64cfaae4b79bd8f53b3db7a6a1b0b6d3] assimilated[^c-c15f49c372cb1e194dd15ebc8ba0b59d] law,
 
 must cooperate with that external competent authority.
 
-(3) In this Part “**external competent authority**” means a competent authority in Northern Ireland, Scotland or Wales designated for the purposes of the relevant[^key-23b33d5fd7911161d9a81f0efd2cad41] assimilated[^key-c333a48dcaed073eb938051f5fce4df4] law.
+(3) In this Part “**external competent authority**” means a competent authority in Northern Ireland, Scotland or Wales designated for the purposes of the relevant[^c-23b33d5fd7911161d9a81f0efd2cad41] assimilated[^c-c333a48dcaed073eb938051f5fce4df4] law.
 
 ## PART 6 — ADOPTION OF STRATEGIC NOISE MAPS AND ACTION PLANS
 
@@ -581,8 +581,8 @@ This Part does not apply to any functions under these Regulations for which the 
 
 - (a) the Secretary of State has consulted the competent authority; and
 - (b) he considers that by reason of any act or omission, or any likely act or omission, by the competent authority—
-  - (i) a requirement of these Regulations; [^key-ea51f3c7cc177175cafc352128768543]...
-  - (ii)[^key-84d33b57d26178d70cf402826d9b76ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) a requirement of these Regulations; [^c-ea51f3c7cc177175cafc352128768543]...
+  - (ii)[^c-84d33b57d26178d70cf402826d9b76ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
   is unlikely to be met.
 
@@ -620,12 +620,12 @@ must include prominently displayed wording identifying it as a draft subject to 
 (2) Any—
 
 - (a) strategic noise map adopted pursuant to regulation 23;
-- (b) consolidated noise map compiled pursuant to regulation 14(1)[^key-b8cc5472fb266de45aade0149e2f08dc]; or
+- (b) consolidated noise map compiled pursuant to regulation 14(1)[^c-b8cc5472fb266de45aade0149e2f08dc]; or
 - (c) action plan adopted pursuant to regulation 24,
 
 must be published by the Secretary of State and accompanied by a summary setting out the most important points.
 
-### 30. Guidance[^key-7d0cf9e4160eaf3b6ef960959d0dfc7d]
+### 30. Guidance[^c-7d0cf9e4160eaf3b6ef960959d0dfc7d]
 
 (1) The Secretary of State may issue guidance to a competent authority with respect to the exercise of its functions under these Regulations.
 
@@ -648,7 +648,7 @@ regulations 4 and 9
 
 ### 1. Interpretation
 
-(1)[^key-46dacd68c86578ca3e48548357168839] In this Schedule—
+(1)[^c-46dacd68c86578ca3e48548357168839] In this Schedule—
 
 - “**editable**” means in a format that allows (without the need for manipulation) the electronic production of—
   - (a) numerical data in tables, and
@@ -660,7 +660,7 @@ regulations 4 and 9
   - (d) spatially referenced to the British National Grid reference system used by the Ordnance Survey as a pair of integers to show Eastings then Northings in metres from the origin, and
   - (e) aligned with the 10 metre vertices of the British National Grid reference system used by the Ordnance Survey so that references finish with the number zero.
 
-(2)[^key-77718444c2b2bafc9bdbfdde98744cd7] For the purposes of sub-paragraph (1), the reference to paragraphs 1.5, 1.6 and 2.6 of Annex 6 of the Directive is to be read with the following modifications—
+(2)[^c-77718444c2b2bafc9bdbfdde98744cd7] For the purposes of sub-paragraph (1), the reference to paragraphs 1.5, 1.6 and 2.6 of Annex 6 of the Directive is to be read with the following modifications—
 
 - (a) in paragraphs 1.5 and 1.6, as if the reference in those paragraphs to “major roads”, “major railways” and “**major airports**” as defined in Article 3 of the Directive were to “major road”, “major railway” and “**major airport**” as defined in regulation 2(2) of these Regulations;
 - (b) in paragraphs 1.6 and 2.6, as if the words from “These data” to “Article 11(1).” were omitted.
@@ -677,7 +677,7 @@ regulations 4 and 9
 - (a) Article 8 of the Directive shall be taken to be a reference to regulations 15, 17 and 19 of these Regulations;
 - (b) Article 9 of the Directive shall be taken to be a reference to regulation 29 of these Regulations.
 
-(3)[^key-22896dea2b15184716a0eaa11e1a4a3c] Further, in applying paragraph (1)(a) the following provisions of Annex 4 of the Directive are to be ignored—
+(3)[^c-22896dea2b15184716a0eaa11e1a4a3c] Further, in applying paragraph (1)(a) the following provisions of Annex 4 of the Directive are to be ignored—
 
 - (a) in paragraph 4, the first indent;
 - (b) in paragraph 5, the words from “concerning” to “Commission”;
@@ -710,7 +710,7 @@ regulations 4 and 9
 - (a) include the information (in electronic format) described in paragraphs 2.1 to 2.4 inclusive of Annex VI of the Directive; and
 - (b) include editable numerical data in electronic form containing the values of L<sub>den</sub>, L<sub>night</sub> and the supplementary noise indicators on a grid.
 
-## SCHEDULE 2 — ASSESSMENT METHODS FOR THE NOISE INDICATORS[^key-84a67c217ffd22f337cb07247ab61c7a]
+## SCHEDULE 2 — ASSESSMENT METHODS FOR THE NOISE INDICATORS[^c-84a67c217ffd22f337cb07247ab61c7a]
 
 **No longer in force.**
 
@@ -744,7 +744,7 @@ regulation 4
 
 In this Schedule—
 
-- [^key-fb018cb56541a75dd0a4535457a45ff3]...<sub></sub><sub></sub>
+- [^c-fb018cb56541a75dd0a4535457a45ff3]...<sub></sub><sub></sub>
 - “L<sub>Aeq,16h</sub>” is the equivalent continuous sound level in dB(A) that, over the period 07:00 – 23:00 hours, contains the same sound energy as the actual fluctuating sound that occurred in that period;
 - “L<sub>Aeq,18h</sub>” is the equivalent continuous sound level in dB(A) that, over the period 06:00 – 24:00 hours, contains the same sound energy as the actual fluctuating sound that occurred in that period;
 - “L<sub>Aeq,6h</sub>” is the equivalent continuous sound level in dB(A) that, over the period 24:00 – 06:00 hours, contains the same sound energy as the actual fluctuating sound that occurred in that period.
@@ -753,7 +753,7 @@ In this Schedule—
 
 The supplementary noise indicators in relation to road traffic noise are—
 
-- (a)[^key-65e7be21462c8aabd8e626304ed5ff3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-65e7be21462c8aabd8e626304ed5ff3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) L<sub>Aeq,16h</sub>;
 - (c) L<sub>day</sub>; and
 - (d) L<sub>evening</sub>.
@@ -856,86 +856,86 @@ A Regulatory Impact Assessment has been prepared and placed in the libraries of 
 
 [^c1667207]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-7603a4cd16a04215a5fbfdccec2e4b67]: Textual amendment: Words in reg. 2(2) substituted (25.7.2009) by [The Environmental Noise (England) (Amendment) Regulations 2009 (S.I. 2009/1610)](https://www.legislation.gov.uk/uksi/2009/1610), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/3/2)
+[^c-7603a4cd16a04215a5fbfdccec2e4b67]: Textual amendment: Words in reg. 2(2) substituted (25.7.2009) by [The Environmental Noise (England) (Amendment) Regulations 2009 (S.I. 2009/1610)](https://www.legislation.gov.uk/uksi/2009/1610), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/3/2)
 
 [^c1667208]: Marginal citation: ISBN 0-580-42224-0.
 
 [^c1667209]: Marginal citation: [1982 c.16](https://www.legislation.gov.uk/ukpga/1982/16).
 
-[^key-b881888953753e74f3b88043214d012b]: Textual amendment: Words in reg. 2(2) substituted (18.3.2010) by [The Environmental Noise (England) (Amendment) Regulations 2010 (S.I. 2010/340)](https://www.legislation.gov.uk/uksi/2010/340), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2010/340/regulation/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2010/340/regulation/2/2/a)
+[^c-b881888953753e74f3b88043214d012b]: Textual amendment: Words in reg. 2(2) substituted (18.3.2010) by [The Environmental Noise (England) (Amendment) Regulations 2010 (S.I. 2010/340)](https://www.legislation.gov.uk/uksi/2010/340), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2010/340/regulation/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2010/340/regulation/2/2/a)
 
-[^key-e2801b7f00e0621d38d66779bf3c75d9]: Textual amendment: Words in reg. 2(2) substituted (31.12.2018) by [The Environmental Noise (England) (Amendment) Regulations 2018 (S.I. 2018/1089)](https://www.legislation.gov.uk/uksi/2018/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1089/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1089/regulation/2/2/a)
+[^c-e2801b7f00e0621d38d66779bf3c75d9]: Textual amendment: Words in reg. 2(2) substituted (31.12.2018) by [The Environmental Noise (England) (Amendment) Regulations 2018 (S.I. 2018/1089)](https://www.legislation.gov.uk/uksi/2018/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1089/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1089/regulation/2/2/a)
 
 [^c1667211]: Marginal citation: [1984 c.27](https://www.legislation.gov.uk/ukpga/1984/27); section 17 was amended by the [New Roads and Street Works Act 1991 (c.22)](https://www.legislation.gov.uk/ukpga/1991/22), [Schedule 8](https://www.legislation.gov.uk/ukpga/1991/22/schedule/8), [paragraph 28](https://www.legislation.gov.uk/ukpga/1991/22/paragraph/28) and Schedule 9, and by the [Road Traffic Act 1991 (c.40)](https://www.legislation.gov.uk/ukpga/1991/40), [Schedule 7](https://www.legislation.gov.uk/ukpga/1991/40/schedule/7), [paragraph 3](https://www.legislation.gov.uk/ukpga/1991/40/paragraph/3) and Schedule 8.
 
 [^c1667212]: Marginal citation: Schedule 4 has been amended by the [Road Traffic (Consequential Provisions) Act 1988 (c.54)](https://www.legislation.gov.uk/ukpga/1988/54), [Schedule 3](https://www.legislation.gov.uk/ukpga/1988/54/schedule/3), [paragraph 21(3)](https://www.legislation.gov.uk/ukpga/1988/54/paragraph/21/3).
 
-[^key-9ca51ea22fb9f3ca9d3b336e743e7c3c]: Textual amendment: Words in reg. 2(2) inserted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/38)
+[^c-9ca51ea22fb9f3ca9d3b336e743e7c3c]: Textual amendment: Words in reg. 2(2) inserted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/38)
 
-[^key-b9be7ae9af68e2b126ead018b572c559]: Textual amendment: Reg. 2(3) inserted (18.3.2010) by [The Environmental Noise (England) (Amendment) Regulations 2010 (S.I. 2010/340)](https://www.legislation.gov.uk/uksi/2010/340), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2010/340/regulation/1/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2010/340/regulation/2/2/b)
+[^c-b9be7ae9af68e2b126ead018b572c559]: Textual amendment: Reg. 2(3) inserted (18.3.2010) by [The Environmental Noise (England) (Amendment) Regulations 2010 (S.I. 2010/340)](https://www.legislation.gov.uk/uksi/2010/340), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2010/340/regulation/1/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2010/340/regulation/2/2/b)
 
-[^key-632ddfd8dd812f5cef3ddae37ecdb5c3]: Textual amendment: Word in reg. 2(3) inserted (31.12.2018) by [The Environmental Noise (England) (Amendment) Regulations 2018 (S.I. 2018/1089)](https://www.legislation.gov.uk/uksi/2018/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1089/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/1089/regulation/2/2/b)
+[^c-632ddfd8dd812f5cef3ddae37ecdb5c3]: Textual amendment: Word in reg. 2(3) inserted (31.12.2018) by [The Environmental Noise (England) (Amendment) Regulations 2018 (S.I. 2018/1089)](https://www.legislation.gov.uk/uksi/2018/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1089/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/1089/regulation/2/2/b)
 
-[^key-4197e2cfc317d8f2410ebef5e5c4c9bf]: Textual amendment: Words in reg. 2(3) substituted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2019/458/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs.1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [12(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/12/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4197e2cfc317d8f2410ebef5e5c4c9bf]: Textual amendment: Words in reg. 2(3) substituted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2019/458/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs.1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [12(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/12/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-74c4cd89e02c6d823a6849a1c373d9ea]: Textual amendment: Reg. 2(4) inserted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2019/458/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-74c4cd89e02c6d823a6849a1c373d9ea]: Textual amendment: Reg. 2(4) inserted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2019/458/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-09fb02d8445bec78d33cbc6ac60d013a]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2006/2238/regulation/3/2) substituted (25.7.2009) by [The Environmental Noise (England) (Amendment) Regulations 2009 (S.I. 2009/1610)](https://www.legislation.gov.uk/uksi/2009/1610), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/1/b), [4(2)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/4/2)
+[^c-09fb02d8445bec78d33cbc6ac60d013a]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2006/2238/regulation/3/2) substituted (25.7.2009) by [The Environmental Noise (England) (Amendment) Regulations 2009 (S.I. 2009/1610)](https://www.legislation.gov.uk/uksi/2009/1610), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/1/b), [4(2)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/4/2)
 
-[^key-ff5335824c6d1ccc96338a83ae6b82ed]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2006/2238/regulation/3/3) substituted (25.7.2009) by [The Environmental Noise (England) (Amendment) Regulations 2009 (S.I. 2009/1610)](https://www.legislation.gov.uk/uksi/2009/1610), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/1/b), [4(3)(a)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/4/3/a)
+[^c-ff5335824c6d1ccc96338a83ae6b82ed]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2006/2238/regulation/3/3) substituted (25.7.2009) by [The Environmental Noise (England) (Amendment) Regulations 2009 (S.I. 2009/1610)](https://www.legislation.gov.uk/uksi/2009/1610), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/1/b), [4(3)(a)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/4/3/a)
 
-[^key-755e014eb6dd413be004457c9f824569]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2006/2238/regulation/3/3) substituted (25.7.2009) by [The Environmental Noise (England) (Amendment) Regulations 2009 (S.I. 2009/1610)](https://www.legislation.gov.uk/uksi/2009/1610), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/1/b), [4(3)(b)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/4/3/b)
+[^c-755e014eb6dd413be004457c9f824569]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2006/2238/regulation/3/3) substituted (25.7.2009) by [The Environmental Noise (England) (Amendment) Regulations 2009 (S.I. 2009/1610)](https://www.legislation.gov.uk/uksi/2009/1610), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/1/b), [4(3)(b)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/4/3/b)
 
-[^key-8dadf2a9b98819dfc2d495034104e4f4]: Textual amendment: Reg. 4(2)(b) substituted (18.3.2010) by [The Environmental Noise (England) (Amendment) Regulations 2010 (S.I. 2010/340)](https://www.legislation.gov.uk/uksi/2010/340), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2010/340/regulation/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2010/340/regulation/2/3)
+[^c-8dadf2a9b98819dfc2d495034104e4f4]: Textual amendment: Reg. 4(2)(b) substituted (18.3.2010) by [The Environmental Noise (England) (Amendment) Regulations 2010 (S.I. 2010/340)](https://www.legislation.gov.uk/uksi/2010/340), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2010/340/regulation/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2010/340/regulation/2/3)
 
-[^key-faeaefa5be3c175e3f71f4ce89c8783f]: Textual amendment: [Reg. 4(2A)](https://www.legislation.gov.uk/uksi/2006/2238/regulation/4/2A) inserted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/458/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-faeaefa5be3c175e3f71f4ce89c8783f]: Textual amendment: [Reg. 4(2A)](https://www.legislation.gov.uk/uksi/2006/2238/regulation/4/2A) inserted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/458/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-96b30a18929ab83e519c0fd3b883b42a]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2006/2238/regulation/4/3) substituted (31.12.2018) by [The Environmental Noise (England) (Amendment) Regulations 2018 (S.I. 2018/1089)](https://www.legislation.gov.uk/uksi/2018/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1089/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2018/1089/regulation/2/3/a)
+[^c-96b30a18929ab83e519c0fd3b883b42a]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2006/2238/regulation/4/3) substituted (31.12.2018) by [The Environmental Noise (England) (Amendment) Regulations 2018 (S.I. 2018/1089)](https://www.legislation.gov.uk/uksi/2018/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1089/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2018/1089/regulation/2/3/a)
 
-[^key-e45b8ff28eab3217fe6986c5008cf150]: Textual amendment: [Reg. 4(3A)](https://www.legislation.gov.uk/uksi/2006/2238/regulation/4/3A) inserted (31.12.2018) by [The Environmental Noise (England) (Amendment) Regulations 2018 (S.I. 2018/1089)](https://www.legislation.gov.uk/uksi/2018/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1089/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2018/1089/regulation/2/3/b)
+[^c-e45b8ff28eab3217fe6986c5008cf150]: Textual amendment: [Reg. 4(3A)](https://www.legislation.gov.uk/uksi/2006/2238/regulation/4/3A) inserted (31.12.2018) by [The Environmental Noise (England) (Amendment) Regulations 2018 (S.I. 2018/1089)](https://www.legislation.gov.uk/uksi/2018/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1089/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2018/1089/regulation/2/3/b)
 
-[^key-fdef1cf8bfeaee4cf109ef1ac9620833]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/2006/2238/regulation/4/4) omitted (31.12.2018) by virtue of [The Environmental Noise (England) (Amendment) Regulations 2018 (S.I. 2018/1089)](https://www.legislation.gov.uk/uksi/2018/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1089/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2018/1089/regulation/2/3/c)
+[^c-fdef1cf8bfeaee4cf109ef1ac9620833]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/2006/2238/regulation/4/4) omitted (31.12.2018) by virtue of [The Environmental Noise (England) (Amendment) Regulations 2018 (S.I. 2018/1089)](https://www.legislation.gov.uk/uksi/2018/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1089/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2018/1089/regulation/2/3/c)
 
-[^key-a73ac24bfdaac8d5f5527a05dc9d8bf2]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/uksi/2006/2238/regulation/4/5) omitted (31.12.2018) by virtue of [The Environmental Noise (England) (Amendment) Regulations 2018 (S.I. 2018/1089)](https://www.legislation.gov.uk/uksi/2018/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1089/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2018/1089/regulation/2/3/c)
+[^c-a73ac24bfdaac8d5f5527a05dc9d8bf2]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/uksi/2006/2238/regulation/4/5) omitted (31.12.2018) by virtue of [The Environmental Noise (England) (Amendment) Regulations 2018 (S.I. 2018/1089)](https://www.legislation.gov.uk/uksi/2018/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1089/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2018/1089/regulation/2/3/c)
 
 [^c1667213]: Marginal citation: SPIRE Programme, Product Reference: SIP – DP – 011.
 
-[^key-7f98da3b78c722ac91f5562ff882d198]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2006/2238/regulation/13) substituted (25.7.2009) by [The Environmental Noise (England) (Amendment) Regulations 2009 (S.I. 2009/1610)](https://www.legislation.gov.uk/uksi/2009/1610), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/1/b), [5](https://www.legislation.gov.uk/uksi/2009/1610/regulation/5)
+[^c-7f98da3b78c722ac91f5562ff882d198]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2006/2238/regulation/13) substituted (25.7.2009) by [The Environmental Noise (England) (Amendment) Regulations 2009 (S.I. 2009/1610)](https://www.legislation.gov.uk/uksi/2009/1610), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/1/b), [5](https://www.legislation.gov.uk/uksi/2009/1610/regulation/5)
 
-[^key-f373966eb5055b8ea5c4eec8593df785]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2006/2238/regulation/14) substituted (25.7.2009) by [The Environmental Noise (England) (Amendment) Regulations 2009 (S.I. 2009/1610)](https://www.legislation.gov.uk/uksi/2009/1610), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/1/b), [6(1)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/6/1)
+[^c-f373966eb5055b8ea5c4eec8593df785]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2006/2238/regulation/14) substituted (25.7.2009) by [The Environmental Noise (England) (Amendment) Regulations 2009 (S.I. 2009/1610)](https://www.legislation.gov.uk/uksi/2009/1610), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/1/b), [6(1)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/6/1)
 
-[^key-2104948c3d9ad456705cdfdac0f3a542]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/uksi/2006/2238/regulation/14A) added (25.7.2009) by [The Environmental Noise (England) (Amendment) Regulations 2009 (S.I. 2009/1610)](https://www.legislation.gov.uk/uksi/2009/1610), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/1/b), [6(2)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/6/2)
+[^c-2104948c3d9ad456705cdfdac0f3a542]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/uksi/2006/2238/regulation/14A) added (25.7.2009) by [The Environmental Noise (England) (Amendment) Regulations 2009 (S.I. 2009/1610)](https://www.legislation.gov.uk/uksi/2009/1610), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/1/b), [6(2)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/6/2)
 
-[^key-f09688a4a9a98df98a0949f08b7eacf0]: Textual amendment: [Reg. 15(1)(a)](https://www.legislation.gov.uk/uksi/2006/2238/regulation/15/1/a)[(aa)](https://www.legislation.gov.uk/uksi/2006/2238/regulation/15/1/aa) substituted for [reg. 15(1)(a)](https://www.legislation.gov.uk/uksi/2006/2238/regulation/15/1/a) (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2019/458/regulation/6/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f09688a4a9a98df98a0949f08b7eacf0]: Textual amendment: [Reg. 15(1)(a)](https://www.legislation.gov.uk/uksi/2006/2238/regulation/15/1/a)[(aa)](https://www.legislation.gov.uk/uksi/2006/2238/regulation/15/1/aa) substituted for [reg. 15(1)(a)](https://www.legislation.gov.uk/uksi/2006/2238/regulation/15/1/a) (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2019/458/regulation/6/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-21127fee91defa8a852dba5413941202]: Textual amendment: [Reg. 15(1)(d)](https://www.legislation.gov.uk/uksi/2006/2238/regulation/15/1/d) substituted (25.7.2009) by [The Environmental Noise (England) (Amendment) Regulations 2009 (S.I. 2009/1610)](https://www.legislation.gov.uk/uksi/2009/1610), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/1/b), [7](https://www.legislation.gov.uk/uksi/2009/1610/regulation/7)
+[^c-21127fee91defa8a852dba5413941202]: Textual amendment: [Reg. 15(1)(d)](https://www.legislation.gov.uk/uksi/2006/2238/regulation/15/1/d) substituted (25.7.2009) by [The Environmental Noise (England) (Amendment) Regulations 2009 (S.I. 2009/1610)](https://www.legislation.gov.uk/uksi/2009/1610), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/1/b), [7](https://www.legislation.gov.uk/uksi/2009/1610/regulation/7)
 
-[^key-6f11f665dafded4067a8f5a8f5560bf6]: Textual amendment: Word in reg. 19 substituted (6.4.2008) by [The Environmental Noise (England) (Amendment) Regulations 2008 (S.I. 2008/375)](https://www.legislation.gov.uk/uksi/2008/375), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/375/regulation/1/b), [3](https://www.legislation.gov.uk/uksi/2008/375/regulation/3)
+[^c-6f11f665dafded4067a8f5a8f5560bf6]: Textual amendment: Word in reg. 19 substituted (6.4.2008) by [The Environmental Noise (England) (Amendment) Regulations 2008 (S.I. 2008/375)](https://www.legislation.gov.uk/uksi/2008/375), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/375/regulation/1/b), [3](https://www.legislation.gov.uk/uksi/2008/375/regulation/3)
 
-[^key-64cfaae4b79bd8f53b3db7a6a1b0b6d3]: Textual amendment: Words in reg. 22(2)(b) substituted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [6(5)(a)](https://www.legislation.gov.uk/uksi/2019/458/regulation/6/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-64cfaae4b79bd8f53b3db7a6a1b0b6d3]: Textual amendment: Words in reg. 22(2)(b) substituted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [6(5)(a)](https://www.legislation.gov.uk/uksi/2019/458/regulation/6/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c15f49c372cb1e194dd15ebc8ba0b59d]: Textual amendment: Word in [reg. 22(2)(b)](https://www.legislation.gov.uk/uksi/2006/2238/regulation/22/2/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 11](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/11)
+[^c-c15f49c372cb1e194dd15ebc8ba0b59d]: Textual amendment: Word in [reg. 22(2)(b)](https://www.legislation.gov.uk/uksi/2006/2238/regulation/22/2/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 11](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/11)
 
-[^key-23b33d5fd7911161d9a81f0efd2cad41]: Textual amendment: Words in reg. 22(3) substituted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [6(5)(b)](https://www.legislation.gov.uk/uksi/2019/458/regulation/6/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-23b33d5fd7911161d9a81f0efd2cad41]: Textual amendment: Words in reg. 22(3) substituted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [6(5)(b)](https://www.legislation.gov.uk/uksi/2019/458/regulation/6/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c333a48dcaed073eb938051f5fce4df4]: Textual amendment: Word in [reg. 22(3)](https://www.legislation.gov.uk/uksi/2006/2238/regulation/22/3) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 11](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/11)
+[^c-c333a48dcaed073eb938051f5fce4df4]: Textual amendment: Word in [reg. 22(3)](https://www.legislation.gov.uk/uksi/2006/2238/regulation/22/3) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 11](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/11)
 
-[^key-ea51f3c7cc177175cafc352128768543]: Textual amendment: Word in reg. 26(4)(b)(i) omitted (31.12.2020) by virtue of [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [6(6)(a)](https://www.legislation.gov.uk/uksi/2019/458/regulation/6/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ea51f3c7cc177175cafc352128768543]: Textual amendment: Word in reg. 26(4)(b)(i) omitted (31.12.2020) by virtue of [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [6(6)(a)](https://www.legislation.gov.uk/uksi/2019/458/regulation/6/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-84d33b57d26178d70cf402826d9b76ff]: Textual amendment: Reg. 26(4)(b)(ii) omitted (31.12.2020) by virtue of [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [6(6)(b)](https://www.legislation.gov.uk/uksi/2019/458/regulation/6/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-84d33b57d26178d70cf402826d9b76ff]: Textual amendment: Reg. 26(4)(b)(ii) omitted (31.12.2020) by virtue of [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [6(6)(b)](https://www.legislation.gov.uk/uksi/2019/458/regulation/6/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b8cc5472fb266de45aade0149e2f08dc]: Textual amendment: Words in reg. 29(2)(b) substituted (25.7.2009) by [The Environmental Noise (England) (Amendment) Regulations 2009 (S.I. 2009/1610)](https://www.legislation.gov.uk/uksi/2009/1610), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/1/b), [8](https://www.legislation.gov.uk/uksi/2009/1610/regulation/8)
+[^c-b8cc5472fb266de45aade0149e2f08dc]: Textual amendment: Words in reg. 29(2)(b) substituted (25.7.2009) by [The Environmental Noise (England) (Amendment) Regulations 2009 (S.I. 2009/1610)](https://www.legislation.gov.uk/uksi/2009/1610), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/1/b), [8](https://www.legislation.gov.uk/uksi/2009/1610/regulation/8)
 
-[^key-7d0cf9e4160eaf3b6ef960959d0dfc7d]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/uksi/2006/2238/regulation/30) substituted (25.7.2009) by [The Environmental Noise (England) (Amendment) Regulations 2009 (S.I. 2009/1610)](https://www.legislation.gov.uk/uksi/2009/1610), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/1/b), [9](https://www.legislation.gov.uk/uksi/2009/1610/regulation/9)
+[^c-7d0cf9e4160eaf3b6ef960959d0dfc7d]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/uksi/2006/2238/regulation/30) substituted (25.7.2009) by [The Environmental Noise (England) (Amendment) Regulations 2009 (S.I. 2009/1610)](https://www.legislation.gov.uk/uksi/2009/1610), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/1610/regulation/1/b), [9](https://www.legislation.gov.uk/uksi/2009/1610/regulation/9)
 
-[^key-46dacd68c86578ca3e48548357168839]: Textual amendment: Sch. 1 para. 1 renumbered as Sch. 1 para. 1(1) (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [6(7)(a)(i)](https://www.legislation.gov.uk/uksi/2019/458/regulation/6/7/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-46dacd68c86578ca3e48548357168839]: Textual amendment: Sch. 1 para. 1 renumbered as Sch. 1 para. 1(1) (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [6(7)(a)(i)](https://www.legislation.gov.uk/uksi/2019/458/regulation/6/7/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-77718444c2b2bafc9bdbfdde98744cd7]: Textual amendment: Sch. 1 para. 1(2) inserted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [6(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/458/regulation/6/7/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-77718444c2b2bafc9bdbfdde98744cd7]: Textual amendment: Sch. 1 para. 1(2) inserted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [6(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/458/regulation/6/7/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-22896dea2b15184716a0eaa11e1a4a3c]: Textual amendment: Sch. 1 para. 2(3) inserted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [6(7)(b)](https://www.legislation.gov.uk/uksi/2019/458/regulation/6/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-22896dea2b15184716a0eaa11e1a4a3c]: Textual amendment: Sch. 1 para. 2(3) inserted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [6(7)(b)](https://www.legislation.gov.uk/uksi/2019/458/regulation/6/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-84a67c217ffd22f337cb07247ab61c7a]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2238/schedule/2) omitted (31.12.2018) by virtue of [The Environmental Noise (England) (Amendment) Regulations 2018 (S.I. 2018/1089)](https://www.legislation.gov.uk/uksi/2018/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1089/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2018/1089/regulation/2/4)
+[^c-84a67c217ffd22f337cb07247ab61c7a]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2238/schedule/2) omitted (31.12.2018) by virtue of [The Environmental Noise (England) (Amendment) Regulations 2018 (S.I. 2018/1089)](https://www.legislation.gov.uk/uksi/2018/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1089/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2018/1089/regulation/2/4)
 
-[^key-fb018cb56541a75dd0a4535457a45ff3]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2006/2238/schedule/3/paragraph/1) omitted (31.12.2018) by virtue of [The Environmental Noise (England) (Amendment) Regulations 2018 (S.I. 2018/1089)](https://www.legislation.gov.uk/uksi/2018/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1089/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2018/1089/regulation/2/5/a)
+[^c-fb018cb56541a75dd0a4535457a45ff3]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2006/2238/schedule/3/paragraph/1) omitted (31.12.2018) by virtue of [The Environmental Noise (England) (Amendment) Regulations 2018 (S.I. 2018/1089)](https://www.legislation.gov.uk/uksi/2018/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1089/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2018/1089/regulation/2/5/a)
 
-[^key-65e7be21462c8aabd8e626304ed5ff3d]: Textual amendment: [Sch. 3 para. 2(a)](https://www.legislation.gov.uk/uksi/2006/2238/schedule/3/paragraph/2/a) omitted (31.12.2018) by virtue of [The Environmental Noise (England) (Amendment) Regulations 2018 (S.I. 2018/1089)](https://www.legislation.gov.uk/uksi/2018/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1089/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2018/1089/regulation/2/5/b)
+[^c-65e7be21462c8aabd8e626304ed5ff3d]: Textual amendment: [Sch. 3 para. 2(a)](https://www.legislation.gov.uk/uksi/2006/2238/schedule/3/paragraph/2/a) omitted (31.12.2018) by virtue of [The Environmental Noise (England) (Amendment) Regulations 2018 (S.I. 2018/1089)](https://www.legislation.gov.uk/uksi/2018/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1089/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2018/1089/regulation/2/5/b)

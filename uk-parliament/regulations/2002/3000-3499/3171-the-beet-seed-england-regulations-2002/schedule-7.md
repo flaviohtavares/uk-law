@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## SCHEDULE 7 — LOT AND SAMPLE WEIGHTS[^key-c50edc14b7ccb21781759ba29dc7ab94]
+## SCHEDULE 7 — LOT AND SAMPLE WEIGHTS[^c-c50edc14b7ccb21781759ba29dc7ab94]
 
 *Extent: E+W+S+NI*
 
@@ -24,24 +24,24 @@ summary: ''
 
 Regulations 2(1), 20(2),(3), (4) and (5) and 24(6)
 
-### PART I — Maximum weight of a seed lot[^key-c50edc14b7ccb21781759ba29dc7ab94]
+### PART I — Maximum weight of a seed lot[^c-c50edc14b7ccb21781759ba29dc7ab94]
 
-#### 20 metric tonnes[^key-c50edc14b7ccb21781759ba29dc7ab94]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART II — Minimum weight of a sample[^key-c50edc14b7ccb21781759ba29dc7ab94]
-
-#### 500 grammes or 7,500 pelleted seeds[^key-c50edc14b7ccb21781759ba29dc7ab94]
+#### 20 metric tonnes[^c-c50edc14b7ccb21781759ba29dc7ab94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — Minimum weight of a sample for a moisture test[^key-c50edc14b7ccb21781759ba29dc7ab94]
+### PART II — Minimum weight of a sample[^c-c50edc14b7ccb21781759ba29dc7ab94]
 
-#### 50 grammes[^key-c50edc14b7ccb21781759ba29dc7ab94]
+#### 500 grammes or 7,500 pelleted seeds[^c-c50edc14b7ccb21781759ba29dc7ab94]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART III — Minimum weight of a sample for a moisture test[^c-c50edc14b7ccb21781759ba29dc7ab94]
+
+#### 50 grammes[^c-c50edc14b7ccb21781759ba29dc7ab94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c50edc14b7ccb21781759ba29dc7ab94]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2002/3171) revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(a)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/a)
+[^c-c50edc14b7ccb21781759ba29dc7ab94]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2002/3171) revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(a)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/a)

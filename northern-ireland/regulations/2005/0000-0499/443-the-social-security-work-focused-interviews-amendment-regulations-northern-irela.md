@@ -41,13 +41,13 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by sections 2A(1), (3) to (6) and 165(1), (4) to (6) and (7A) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-0c6d467ae3efe6684c553df62e9a78c1]
+## 1. Citation, commencement and interpretation[^c-0c6d467ae3efe6684c553df62e9a78c1]
 
 (1) These Regulations may be cited as the Social Security (Work-focused Interviews Amendment) Regulations (Northern Ireland) 2005 and shall come into operation on 31st October 2005.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Work-focused Interviews Regulations 2003[^key-23a7014053295b7c210e71873e547378]
+## 2. Amendment of the Work-focused Interviews Regulations 2003[^c-23a7014053295b7c210e71873e547378]
 
 (1) The Social Security Work-focused Interviews Regulations (Northern Ireland) 2003[^f00004] shall be amended in accordance with paragraphs (2) to (9).
 
@@ -163,7 +163,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (9) In regulation 13(g) (good cause), for “a chronic condition” there shall be substituted “a physical or mental condition”.
 
-## 3. Amendment of the Work-focused Interviews for Lone Parents Regulations[^key-df24c62658ae8a8a047b14348c21ba79]
+## 3. Amendment of the Work-focused Interviews for Lone Parents Regulations[^c-df24c62658ae8a8a047b14348c21ba79]
 
 (1) The Social Security (Work-focused Interviews for Lone Parents) Regulations (Northern Ireland) 2001[^f00011] shall be amended in accordance with paragraphs (2) to (8).
 
@@ -269,16 +269,16 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 .
 
-(6)[^key-e924635137188b74bc42494e23272c17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-e924635137188b74bc42494e23272c17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-e924635137188b74bc42494e23272c17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-e924635137188b74bc42494e23272c17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In regulation 7 (consequence of failure to take part in a work-focused interview)—
 
 - (a) in paragraph 3(b), after “regulation 2(1)(b)” there shall be inserted “or 2A”;
 - (b) in paragraph (5)(g), for “a chronic condition” there shall be substituted “a physical or mental health condition”.
 
-## 4. Amendment of the Work-focused Interviews Regulations 2001[^key-762ff813a5b27ca04f5725507cb73471]
+## 4. Amendment of the Work-focused Interviews Regulations 2001[^c-762ff813a5b27ca04f5725507cb73471]
 
 (1) The Social Security (Work-focused Interviews) Regulations (Northern Ireland) 2001[^f00012] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -340,7 +340,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (5) In regulation 13(g) (good cause)[^f00015], for “a chronic condition” there shall be substituted “a physical or mental health condition”.
 
-## 5. Amendment of the Incapacity Benefit Work–focused Interviews Regulations[^key-99d865edc43ee717d09805f8ae156740]
+## 5. Amendment of the Incapacity Benefit Work–focused Interviews Regulations[^c-99d865edc43ee717d09805f8ae156740]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -378,11 +378,11 @@ These Regulations do not impose a charge on business.
 
 [^f00002]: Footnote: *See* Article 8(b) of and Part II of Schedule 6 to [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-0c6d467ae3efe6684c553df62e9a78c1]: Commencement: Reg. 1 in operation at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/443/regulation/1/1)
+[^c-0c6d467ae3efe6684c553df62e9a78c1]: Commencement: Reg. 1 in operation at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/443/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-23a7014053295b7c210e71873e547378]: Commencement: Reg. 2 in operation at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/443/regulation/1/1)
+[^c-23a7014053295b7c210e71873e547378]: Commencement: Reg. 2 in operation at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/443/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 2003 No.274](https://www.legislation.gov.uk/nisr/2003/274)
 
@@ -398,13 +398,13 @@ These Regulations do not impose a charge on business.
 
 [^f00010]: Footnote: Head (ii) is inserted by regulation 2(3)(a) of these Regulations
 
-[^key-df24c62658ae8a8a047b14348c21ba79]: Commencement: Reg. 3 in operation at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/443/regulation/1/1)
+[^c-df24c62658ae8a8a047b14348c21ba79]: Commencement: Reg. 3 in operation at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/443/regulation/1/1)
 
 [^f00011]: Footnote: [S.R. 2001 No. 152](https://www.legislation.gov.uk/nisr/2001/152)
 
-[^key-e924635137188b74bc42494e23272c17]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/nisr/2005/443/regulation/3/6)[(7)](https://www.legislation.gov.uk/nisr/2005/443/regulation/3/7) revoked (2.12.2008) by [The Social Security (Lone Parents and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/478)](https://www.legislation.gov.uk/nisr/2008/478), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1), [14(a)](https://www.legislation.gov.uk/nisr/2008/478/regulation/14/a)
+[^c-e924635137188b74bc42494e23272c17]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/nisr/2005/443/regulation/3/6)[(7)](https://www.legislation.gov.uk/nisr/2005/443/regulation/3/7) revoked (2.12.2008) by [The Social Security (Lone Parents and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/478)](https://www.legislation.gov.uk/nisr/2008/478), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/478/regulation/1/1), [14(a)](https://www.legislation.gov.uk/nisr/2008/478/regulation/14/a)
 
-[^key-762ff813a5b27ca04f5725507cb73471]: Commencement: Reg. 4 in operation at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/443/regulation/1/1)
+[^c-762ff813a5b27ca04f5725507cb73471]: Commencement: Reg. 4 in operation at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/443/regulation/1/1)
 
 [^f00012]: Footnote: [S.R. 2001 No. 176](https://www.legislation.gov.uk/nisr/2001/176)
 
@@ -414,4 +414,4 @@ These Regulations do not impose a charge on business.
 
 [^f00015]: Footnote: Regulation 13 was revoked by [S.R. 2003 No. 274](https://www.legislation.gov.uk/nisr/2003/274) subject to transitional provisions in regulation 15
 
-[^key-99d865edc43ee717d09805f8ae156740]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/443/regulation/5) revoked (15.12.2008) by [The Social Security (Incapacity Benefit Work-focused Interviews) Regulations (Northern Ireland) 2008 (S.R. 2008/465)](https://www.legislation.gov.uk/nisr/2008/465), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/465/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/465/schedule)
+[^c-99d865edc43ee717d09805f8ae156740]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/443/regulation/5) revoked (15.12.2008) by [The Social Security (Incapacity Benefit Work-focused Interviews) Regulations (Northern Ireland) 2008 (S.R. 2008/465)](https://www.legislation.gov.uk/nisr/2008/465), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/465/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/465/schedule)

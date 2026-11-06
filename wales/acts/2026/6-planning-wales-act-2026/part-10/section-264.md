@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 264. Appropriation of land forming part of common or allotment for another purpose[^key-59ede25b0ee30c5ecc82b68808c8458b]
+## 264. Appropriation of land forming part of common or allotment for another purpose[^c-59ede25b0ee30c5ecc82b68808c8458b]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59ede25b0ee30c5ecc82b68808c8458b]: Commencement: S. 264 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-59ede25b0ee30c5ecc82b68808c8458b]: Commencement: S. 264 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

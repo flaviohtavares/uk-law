@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 318. Borrowing powers of local authorities[^key-e3d1a8145a9c6ef00f7087f514b51083]
+## 318. Borrowing powers of local authorities[^c-e3d1a8145a9c6ef00f7087f514b51083]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3d1a8145a9c6ef00f7087f514b51083]: Commencement: Art. 318 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-e3d1a8145a9c6ef00f7087f514b51083]: Commencement: Art. 318 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX I[^key-58a6db882588e9b1b82ac7bf787a4519]
+## ANNEX I[^c-58a6db882588e9b1b82ac7bf787a4519]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58a6db882588e9b1b82ac7bf787a4519]: Textual amendment: [Annex 1](https://www.legislation.gov.uk/eur/2012/528/annex/I) omitted (31.12.2020) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 139](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/139); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-58a6db882588e9b1b82ac7bf787a4519]: Textual amendment: [Annex 1](https://www.legislation.gov.uk/eur/2012/528/annex/I) omitted (31.12.2020) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 139](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/139); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

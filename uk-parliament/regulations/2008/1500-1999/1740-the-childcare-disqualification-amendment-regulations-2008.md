@@ -32,7 +32,7 @@ summary: ''
 
 Children And Young Persons, England
 
-The Childcare (Disqualification) (Amendment) Regulations 2008 (revoked)[^key-d5c6e9f0003366b9dff527fe7d471b0e]
+The Childcare (Disqualification) (Amendment) Regulations 2008 (revoked)[^c-d5c6e9f0003366b9dff527fe7d471b0e]
 
 Made
 
@@ -46,34 +46,34 @@ Coming into force
 
 1st September 2008
 
-[^key-d5c6e9f0003366b9dff527fe7d471b0e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d5c6e9f0003366b9dff527fe7d471b0e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d5c6e9f0003366b9dff527fe7d471b0e]
+## 1. Citation and commencement[^c-d5c6e9f0003366b9dff527fe7d471b0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Childcare (Disqualification) Regulations 2007[^key-d5c6e9f0003366b9dff527fe7d471b0e]
+## 2. Amendments to the Childcare (Disqualification) Regulations 2007[^c-d5c6e9f0003366b9dff527fe7d471b0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d5c6e9f0003366b9dff527fe7d471b0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d5c6e9f0003366b9dff527fe7d471b0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d5c6e9f0003366b9dff527fe7d471b0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d5c6e9f0003366b9dff527fe7d471b0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d5c6e9f0003366b9dff527fe7d471b0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d5c6e9f0003366b9dff527fe7d471b0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-d5c6e9f0003366b9dff527fe7d471b0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-d5c6e9f0003366b9dff527fe7d471b0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-d5c6e9f0003366b9dff527fe7d471b0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-d5c6e9f0003366b9dff527fe7d471b0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d5c6e9f0003366b9dff527fe7d471b0e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d5c6e9f0003366b9dff527fe7d471b0e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d5c6e9f0003366b9dff527fe7d471b0e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d5c6e9f0003366b9dff527fe7d471b0e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d5c6e9f0003366b9dff527fe7d471b0e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1740) revoked (1.9.2009) by [The Childcare (Disqualification) Regulations 2009 (S.I. 2009/1547)](https://www.legislation.gov.uk/uksi/2009/1547), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1547/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2009/1547/regulation/3)
+[^c-d5c6e9f0003366b9dff527fe7d471b0e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1740) revoked (1.9.2009) by [The Childcare (Disqualification) Regulations 2009 (S.I. 2009/1547)](https://www.legislation.gov.uk/uksi/2009/1547), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1547/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2009/1547/regulation/3)

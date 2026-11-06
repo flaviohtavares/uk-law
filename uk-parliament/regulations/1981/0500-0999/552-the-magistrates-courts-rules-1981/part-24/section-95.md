@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 95. Form of warrants issued by magistrates’ courts[^key-3a87125fa856495935a1fa202edc64ee]
+## 95. Form of warrants issued by magistrates’ courts[^c-3a87125fa856495935a1fa202edc64ee]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a87125fa856495935a1fa202edc64ee]: Textual amendment: [Rule 95](https://www.legislation.gov.uk/uksi/1981/552/rule/95) substituted (1.1.2020) by [The Magistrates’ Courts (Amendment) Rules 2019 (S.I. 2019/1367)](https://www.legislation.gov.uk/uksi/2019/1367), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1367/rule/1/1), [5](https://www.legislation.gov.uk/uksi/2019/1367/rule/5) (with [rule 11(1)](https://www.legislation.gov.uk/uksi/2019/1367/rule/11/1))
+[^c-3a87125fa856495935a1fa202edc64ee]: Textual amendment: [Rule 95](https://www.legislation.gov.uk/uksi/1981/552/rule/95) substituted (1.1.2020) by [The Magistrates’ Courts (Amendment) Rules 2019 (S.I. 2019/1367)](https://www.legislation.gov.uk/uksi/2019/1367), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1367/rule/1/1), [5](https://www.legislation.gov.uk/uksi/2019/1367/rule/5) (with [rule 11(1)](https://www.legislation.gov.uk/uksi/2019/1367/rule/11/1))

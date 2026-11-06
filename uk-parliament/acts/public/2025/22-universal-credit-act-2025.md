@@ -37,7 +37,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Universal credit
 
-### 1. Standard allowance for tax years 2026-27 to 2029-30[^key-266cc3f65cd6270e45349739da4acdf4]
+### 1. Standard allowance for tax years 2026-27 to 2029-30[^c-266cc3f65cd6270e45349739da4acdf4]
 
 (1) The Secretary of State must exercise a relevant power in order to secure that the amounts of the standard allowance for tax years 2026-27 to 2029-30 are at least the amounts calculated for each tax year in accordance with subsection (2).
 
@@ -82,7 +82,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - (a) “**tax year**” means the 12 months beginning with 6 April in any year;
 - (b) “**tax year 2025-26**” means the tax year beginning on 6 April 2025 (and any corresponding expression in which two years are similarly mentioned is to be read in the same way).
 
-### 2. LCWRA element for tax year 2026-27[^key-03497ba0b7dacc169039d7a8f6bb0ac3]
+### 2. LCWRA element for tax year 2026-27[^c-03497ba0b7dacc169039d7a8f6bb0ac3]
 
 (1) In the table in regulation 36 of the Universal Credit Regulations 2013 (amounts of elements)—
 
@@ -99,7 +99,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (3) This section and Schedule 1 come into force on 6 April 2026 and have effect in relation to assessment periods commencing on or after that date, and for this purpose “**assessment period**” has the same meaning as in Part 1 of the [Welfare Reform Act 2012](https://www.legislation.gov.uk/ukpga/2012/5).
 
-### 3. Freeze of LCWRA and LCW elements for tax years 2026-27 to 2029-30[^key-cb07ea502f4ce0f87b1282e1bd50bc48]
+### 3. Freeze of LCWRA and LCW elements for tax years 2026-27 to 2029-30[^c-cb07ea502f4ce0f87b1282e1bd50bc48]
 
 (1) Subsections (1) and (2) of section 150 of the [Social Security Administration Act 1992](https://www.legislation.gov.uk/ukpga/1992/5) (annual up-rating of benefits) do not apply, in the tax years ending with 5 April 2026, 5 April 2027, 5 April 2028 and 5 April 2029, to the LCWRA element or the LCW element.
 
@@ -108,7 +108,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - (a) “**the LCWRA element**” has the meaning given by regulation 27 of the [Universal Credit Regulations 2013](https://www.legislation.gov.uk/uksi/2013/376);
 - (b) “**the LCW element**” has the meaning given by regulation 27 of the [Universal Credit Regulations 2013](https://www.legislation.gov.uk/uksi/2013/376) (so far as saved by paragraph 8 of Schedule 2 to the Employment and Support Allowance and Universal Credit (Miscellaneous Amendments and Transitional and Savings Provisions) Regulations 2017).
 
-### 4. Protected LCWRA amount for tax years 2026-27 to 2029-30[^key-7b96af84e8fb80b85d5787bfb0ba0022]
+### 4. Protected LCWRA amount for tax years 2026-27 to 2029-30[^c-7b96af84e8fb80b85d5787bfb0ba0022]
 
 (1) Where it is necessary in order to achieve the result in subsection (2) for any of the tax years 2026-27 to 2029-30, the Secretary of State must exercise the power in section 9(2) or 12(3) of the [Welfare Reform Act 2012](https://www.legislation.gov.uk/ukpga/2012/5) to increase—
 
@@ -132,7 +132,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - (a) the “relevant CPI percentage” for a tax year is the percentage by which the consumer prices index for the September before the start of the tax year is higher than it was for the September before that (or 0% if it is not higher);
 - (b) the “**consumer prices index**” means the all items consumer prices index published by the Statistics Board.
 
-### 5. Legacy employment and support allowance payments[^key-59ed8cadc5f5716da16a6f36878c466e]
+### 5. Legacy employment and support allowance payments[^c-59ed8cadc5f5716da16a6f36878c466e]
 
 (1) Section 1 applies in relation to the amounts of the ESA IR personal allowance for tax years 2026-27 to 2029-30 as it applies in relation to the amounts of the standard allowance for those tax years, but as if the reference to the power in section 9(2) of the [Welfare Reform Act 2012](https://www.legislation.gov.uk/ukpga/2012/5) were to the power in section 4(2)(a) of the [Welfare Reform Act 2007](https://www.legislation.gov.uk/ukpga/2007/5).
 
@@ -165,13 +165,13 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Corresponding provision for Northern Ireland
 
-### 6. Corresponding provision for Northern Ireland[^key-ea23d7eef87b7820948f77c647475f04]
+### 6. Corresponding provision for Northern Ireland[^c-ea23d7eef87b7820948f77c647475f04]
 
 Schedule 2 makes provision for Northern Ireland which corresponds to that made by the previous provisions of this Act.
 
 ## Short title
 
-### 7. Short title[^key-090a63343fe83da0d77f36c4b481b70d]
+### 7. Short title[^c-090a63343fe83da0d77f36c4b481b70d]
 
 This Act may be cited as the Universal Credit Act 2025.
 
@@ -181,9 +181,9 @@ Schedules
 
 Section 2
 
-**1.**[^key-e50b22215ac5badbb058b3a475a85238] The [Universal Credit Regulations 2013](https://www.legislation.gov.uk/uksi/2013/376) are amended as follows.
+**1.**[^c-e50b22215ac5badbb058b3a475a85238] The [Universal Credit Regulations 2013](https://www.legislation.gov.uk/uksi/2013/376) are amended as follows.
 
-**2.**[^key-833b96954e0da3925eaa6e7f5591740e] In regulation 2 (interpretation), at the appropriate places insert—
+**2.**[^c-833b96954e0da3925eaa6e7f5591740e] In regulation 2 (interpretation), at the appropriate places insert—
 
 > - “**pre-2026 claimant**” has the meaning in regulation 27A(1);
 
@@ -193,7 +193,7 @@ Section 2
 
 .
 
-**3.**[^key-973511534541b3b1f900296fff309491] In regulation 27 (award to include LCWRA element)—
+**3.**[^c-973511534541b3b1f900296fff309491] In regulation 27 (award to include LCWRA element)—
 
 - (a) in paragraph (2), at the end insert
 
@@ -214,7 +214,7 @@ Section 2
     >
     > - (b) where the LCWRA element for each of them is a different amount, the LCWRA element to be included is the higher amount.
 
-**4.**[^key-6e69a28dcb5b9e22d996b2a123b66430] After regulation 27 insert—
+**4.**[^c-6e69a28dcb5b9e22d996b2a123b66430] After regulation 27 insert—
 
 > **27A. Meaning of “pre-2026 claimant”**
 >
@@ -228,9 +228,9 @@ Section 2
 > - (a) that begins because the financial condition in section 5(1)(b) or (2)(b) of the Act ceases to be met, and
 > - (b) that ends within the period of six months beginning with the day on which that condition ceased to be met.
 
-**5.**[^key-645baedcea304311128481cf2d2cd65f] In regulation 38 (introduction: capability for work or work-related activity), after “activity,” insert “or is a severe conditions criteria claimant,”.
+**5.**[^c-645baedcea304311128481cf2d2cd65f] In regulation 38 (introduction: capability for work or work-related activity), after “activity,” insert “or is a severe conditions criteria claimant,”.
 
-**6.**[^key-0e70856350c57463f975a2bef7a03b61] After regulation 40 (limited capability for work and work-related activity) insert—
+**6.**[^c-0e70856350c57463f975a2bef7a03b61] After regulation 40 (limited capability for work and work-related activity) insert—
 
 > **40A. Severe conditions criteria claimant**
 >
@@ -260,7 +260,7 @@ Section 2
 >   - (iii) section 1(1) of the [National Health Service (Scotland) Act 1978](https://www.legislation.gov.uk/ukpga/1978/29);
 > - (b) health and social care within the meaning of the [Health and Social Care (Reform) Act (Northern Ireland) 2009](https://www.legislation.gov.uk/nia/2009/1) provided for the purposes of the system promoted under section 2(1) of [that Act](https://www.legislation.gov.uk/nia/2009/1).
 
-**7.**[^key-2e10e7713266f73a2874fa77f8c63728] In regulation 41 (when an assessment may be carried out)—
+**7.**[^c-2e10e7713266f73a2874fa77f8c63728] In regulation 41 (when an assessment may be carried out)—
 
 - (a) in paragraph (1)—
   - (i) in sub-paragraph (a), after “activity” insert “or is a severe conditions criteria claimant”;
@@ -296,23 +296,23 @@ Section 2
   > - (a) the determination was made in ignorance of, or based on a mistake as to, some material fact, or
   > - (b) there has been a relevant change of circumstances in relation to the claimant’s physical or mental condition.
 
-**8.**[^key-de6efd5e024a486bf81dfa616e565806] In regulation 43 (information requirement)—
+**8.**[^c-de6efd5e024a486bf81dfa616e565806] In regulation 43 (information requirement)—
 
 - (a) in paragraph (1), in the opening words, after “activity” insert “or is a severe conditions criteria claimant”;
 - (b) in paragraph (3), for “, as the case may be, for work and work-related activity” substitute “for work and work-related activity or as not being a severe conditions criteria claimant (as the case may be)”.
 
-**9.**[^key-3b5091d6729c4c1b9e9a9871f197fe30] In regulation 44 (medical examination)—
+**9.**[^c-3b5091d6729c4c1b9e9a9871f197fe30] In regulation 44 (medical examination)—
 
 - (a) in paragraph (1), after “activity” insert “or is a severe conditions criteria claimant”;
 - (b) in paragraph (2), for “, as the case may be, for work and work-related activity” substitute “for work and work-related activity or as not being a severe conditions criteria claimant (as the case may be)”.
 
-**10.**[^key-2ec03bea2b919e9636b98f2ea1d02efa] In regulation 23 (introduction), in paragraph (2)(a) for “and” substitute “to”.
+**10.**[^c-2ec03bea2b919e9636b98f2ea1d02efa] In regulation 23 (introduction), in paragraph (2)(a) for “and” substitute “to”.
 
 ## Schedule 2 — Northern Ireland: corresponding provision
 
 Section 6
 
-### 1. Standard allowance for tax years 2026-27 to 2029-30[^key-07e8ea86900b4be98f2198eb3d595a0c]
+### 1. Standard allowance for tax years 2026-27 to 2029-30[^c-07e8ea86900b4be98f2198eb3d595a0c]
 
 (1) The Department for Communities in Northern Ireland must exercise a relevant power in order to secure that the amounts of the standard allowance for tax years 2026-27 to 2029-30 are at least the amounts calculated for each tax year in accordance with sub-paragraph (2).
 
@@ -355,7 +355,7 @@ Section 6
 - (a) “**tax year**” means the 12 months beginning with 6 April in any year;
 - (b) “**tax year 2025-26**” means the tax year beginning on 6 April 2025 (and any corresponding expression in which two years are similarly mentioned is to be read in the same way).
 
-### 2. LCWRA element for tax year 2026-27[^key-1a76851b407d5b24ba5818ee0b47b598]
+### 2. LCWRA element for tax year 2026-27[^c-1a76851b407d5b24ba5818ee0b47b598]
 
 (1) The [Universal Credit Regulations (Northern Ireland) 2016 (S.R. (N.I.) 2016 No. 216)](https://www.legislation.gov.uk/nisr/2016/216) are amended as follows.
 
@@ -493,7 +493,7 @@ Section 6
 
 (10) This paragraph comes into force on 6 April 2026 and has effect in relation to assessment periods commencing on or after that date, and for this purpose “**assessment period**” has the same meaning as in Part 2 of the [Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006 (N.I. 1))](https://www.legislation.gov.uk/nisi/2015/2006).
 
-### 3. Protected LCWRA amount for tax years 2026-27 to 2029-30[^key-68120a7853303766848528c37b401f0f]
+### 3. Protected LCWRA amount for tax years 2026-27 to 2029-30[^c-68120a7853303766848528c37b401f0f]
 
 (1) Where it is necessary in order to achieve the result in sub-paragraph (2) for any of the tax years 2026-27 to 2029-30, the Department for Communities in Northern Ireland must exercise the power in Article 14(2) or 17(3) of the [Welfare Reform (Northern Ireland) Order 2015](https://www.legislation.gov.uk/nisi/2015/2006) to increase—
 
@@ -517,7 +517,7 @@ Section 6
 - (a) the “relevant CPI percentage” for a tax year is the percentage by which the consumer prices index for the September before the start of the tax year is higher than it was for the September before that (or 0% if it is not higher);
 - (b) the “**consumer prices index**” means the all items consumer prices index published by the Statistics Board.
 
-### 4. Legacy employment and support allowance[^key-6cf69c22c72508c1ce90a63cf6fb52e5]
+### 4. Legacy employment and support allowance[^c-6cf69c22c72508c1ce90a63cf6fb52e5]
 
 (1) Paragraph 1 applies in relation to the amounts of the ESA IR personal allowance for tax years 2026-27 to 2029-30 as it applies in relation to the amounts of the standard allowance for those tax years, but as if the reference to the power in Article 14(2) of the [Welfare Reform (Northern Ireland) Order 2015](https://www.legislation.gov.uk/nisi/2015/2006) were to the power in section 4(2)(a) of the [Welfare Reform Act (Northern Ireland) 2007 (c. 2 (N.I.))](https://www.legislation.gov.uk/nia/2007/2).
 
@@ -541,44 +541,44 @@ Section 6
 
 ## Annotations
 
-[^key-266cc3f65cd6270e45349739da4acdf4]: Commencement: S. 1 in force at Royal Assent
+[^c-266cc3f65cd6270e45349739da4acdf4]: Commencement: S. 1 in force at Royal Assent
 
-[^key-03497ba0b7dacc169039d7a8f6bb0ac3]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2025/22/section/2) in force at 6.4.2026, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/22/section/2/3)
+[^c-03497ba0b7dacc169039d7a8f6bb0ac3]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2025/22/section/2) in force at 6.4.2026, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/22/section/2/3)
 
-[^key-cb07ea502f4ce0f87b1282e1bd50bc48]: Commencement: S. 3 in force at Royal Assent
+[^c-cb07ea502f4ce0f87b1282e1bd50bc48]: Commencement: S. 3 in force at Royal Assent
 
-[^key-7b96af84e8fb80b85d5787bfb0ba0022]: Commencement: S. 4 in force at Royal Assent
+[^c-7b96af84e8fb80b85d5787bfb0ba0022]: Commencement: S. 4 in force at Royal Assent
 
-[^key-59ed8cadc5f5716da16a6f36878c466e]: Commencement: S. 5 in force at Royal Assent
+[^c-59ed8cadc5f5716da16a6f36878c466e]: Commencement: S. 5 in force at Royal Assent
 
-[^key-ea23d7eef87b7820948f77c647475f04]: Commencement: S. 6 in force at Royal Assent
+[^c-ea23d7eef87b7820948f77c647475f04]: Commencement: S. 6 in force at Royal Assent
 
-[^key-090a63343fe83da0d77f36c4b481b70d]: Commencement: S. 7 in force at Royal Assent
+[^c-090a63343fe83da0d77f36c4b481b70d]: Commencement: S. 7 in force at Royal Assent
 
-[^key-e50b22215ac5badbb058b3a475a85238]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2025/22/schedule/1/paragraph/1) in force at 6.4.2026, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/22/section/2/3)
+[^c-e50b22215ac5badbb058b3a475a85238]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2025/22/schedule/1/paragraph/1) in force at 6.4.2026, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/22/section/2/3)
 
-[^key-833b96954e0da3925eaa6e7f5591740e]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2025/22/schedule/1/paragraph/2) in force at 6.4.2026, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/22/section/2/3)
+[^c-833b96954e0da3925eaa6e7f5591740e]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2025/22/schedule/1/paragraph/2) in force at 6.4.2026, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/22/section/2/3)
 
-[^key-973511534541b3b1f900296fff309491]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2025/22/schedule/1/paragraph/3) in force at 6.4.2026, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/22/section/2/3)
+[^c-973511534541b3b1f900296fff309491]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2025/22/schedule/1/paragraph/3) in force at 6.4.2026, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/22/section/2/3)
 
-[^key-6e69a28dcb5b9e22d996b2a123b66430]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2025/22/schedule/1/paragraph/4) in force at 6.4.2026, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/22/section/2/3)
+[^c-6e69a28dcb5b9e22d996b2a123b66430]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2025/22/schedule/1/paragraph/4) in force at 6.4.2026, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/22/section/2/3)
 
-[^key-645baedcea304311128481cf2d2cd65f]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2025/22/schedule/1/paragraph/5) in force at 6.4.2026, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/22/section/2/3)
+[^c-645baedcea304311128481cf2d2cd65f]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2025/22/schedule/1/paragraph/5) in force at 6.4.2026, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/22/section/2/3)
 
-[^key-0e70856350c57463f975a2bef7a03b61]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2025/22/schedule/1/paragraph/6) in force at 6.4.2026, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/22/section/2/3)
+[^c-0e70856350c57463f975a2bef7a03b61]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2025/22/schedule/1/paragraph/6) in force at 6.4.2026, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/22/section/2/3)
 
-[^key-2e10e7713266f73a2874fa77f8c63728]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2025/22/schedule/1/paragraph/7) in force at 6.4.2026, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/22/section/2/3)
+[^c-2e10e7713266f73a2874fa77f8c63728]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2025/22/schedule/1/paragraph/7) in force at 6.4.2026, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/22/section/2/3)
 
-[^key-de6efd5e024a486bf81dfa616e565806]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2025/22/schedule/1/paragraph/8) in force at 6.4.2026, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/22/section/2/3)
+[^c-de6efd5e024a486bf81dfa616e565806]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2025/22/schedule/1/paragraph/8) in force at 6.4.2026, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/22/section/2/3)
 
-[^key-3b5091d6729c4c1b9e9a9871f197fe30]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2025/22/schedule/1/paragraph/9) in force at 6.4.2026, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/22/section/2/3)
+[^c-3b5091d6729c4c1b9e9a9871f197fe30]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2025/22/schedule/1/paragraph/9) in force at 6.4.2026, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/22/section/2/3)
 
-[^key-2ec03bea2b919e9636b98f2ea1d02efa]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2025/22/schedule/1/paragraph/10) in force at 6.4.2026, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/22/section/2/3)
+[^c-2ec03bea2b919e9636b98f2ea1d02efa]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2025/22/schedule/1/paragraph/10) in force at 6.4.2026, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/22/section/2/3)
 
-[^key-07e8ea86900b4be98f2198eb3d595a0c]: Commencement: Sch. 2 para. 1 in force at Royal Assent
+[^c-07e8ea86900b4be98f2198eb3d595a0c]: Commencement: Sch. 2 para. 1 in force at Royal Assent
 
-[^key-1a76851b407d5b24ba5818ee0b47b598]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2025/22/schedule/2/paragraph/2) in force at 6.4.2026, see [Sch. 2 para. 2(10)](https://www.legislation.gov.uk/ukpga/2025/22/schedule/2/paragraph/2/10)
+[^c-1a76851b407d5b24ba5818ee0b47b598]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2025/22/schedule/2/paragraph/2) in force at 6.4.2026, see [Sch. 2 para. 2(10)](https://www.legislation.gov.uk/ukpga/2025/22/schedule/2/paragraph/2/10)
 
-[^key-68120a7853303766848528c37b401f0f]: Commencement: Sch. 2 para. 3 in force at Royal Assent
+[^c-68120a7853303766848528c37b401f0f]: Commencement: Sch. 2 para. 3 in force at Royal Assent
 
-[^key-6cf69c22c72508c1ce90a63cf6fb52e5]: Commencement: Sch. 2 para. 4 in force at Royal Assent
+[^c-6cf69c22c72508c1ce90a63cf6fb52e5]: Commencement: Sch. 2 para. 4 in force at Royal Assent

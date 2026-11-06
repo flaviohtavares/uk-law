@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Offences by partnerships[^key-bfa5c93967ad2d32da93686646daf9a9][^key-dfb9526f0bce6507d5d36562a13a86e2]
+## 132. Offences by partnerships[^c-bfa5c93967ad2d32da93686646daf9a9][^c-dfb9526f0bce6507d5d36562a13a86e2]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ the partner (as well as the partnership) commits the offence and is liable to be
 
 ## Annotations
 
-[^key-bfa5c93967ad2d32da93686646daf9a9]: Commencement: S. 132 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-bfa5c93967ad2d32da93686646daf9a9]: Commencement: S. 132 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-dfb9526f0bce6507d5d36562a13a86e2]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2022/31/section/132) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)
+[^c-dfb9526f0bce6507d5d36562a13a86e2]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2022/31/section/132) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)

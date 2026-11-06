@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Supplementary provision to be made by the Commissioners[^key-657d463d84c2a2d469d2570d0dfdce10]
+## 130. Supplementary provision to be made by the Commissioners[^c-657d463d84c2a2d469d2570d0dfdce10]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Where, in this Part, a person is required to account for acquisition VAT, import
 
 ## Annotations
 
-[^key-657d463d84c2a2d469d2570d0dfdce10]: Commencement: Reg. 130 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-657d463d84c2a2d469d2570d0dfdce10]: Commencement: Reg. 130 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

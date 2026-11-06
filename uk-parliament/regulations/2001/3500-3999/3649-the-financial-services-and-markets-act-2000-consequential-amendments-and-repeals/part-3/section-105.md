@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Additional voluntary contributions[^key-bcd2668c5b9c8eecf63e338eb0935846]
+## 105. Additional voluntary contributions[^c-bcd2668c5b9c8eecf63e338eb0935846]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,7 +76,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bcd2668c5b9c8eecf63e338eb0935846]: Commencement: Art. 105 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-bcd2668c5b9c8eecf63e338eb0935846]: Commencement: Art. 105 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00097]: Footnote: Section 9A was inserted by the [Judicial Pensions (NI) Order 1991 (NI 24)](https://www.legislation.gov.uk/nisi/1991/2631) Article 6(1)(b), 2.
 

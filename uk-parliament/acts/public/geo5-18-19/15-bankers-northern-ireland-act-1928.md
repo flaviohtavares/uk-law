@@ -43,7 +43,7 @@ And whereas the banks specified in the Schedule to this Act are the banks carryi
 
 And whereas it is expedient to give effect to the said agreement, and to restrict the putting into circulation in Northern Ireland of bank and other notes forming part of the currency of any country outside the United Kingdom, and otherwise to amend the[^c585937] Bankers (Ireland) Act 1845 in its application to Northern Ireland:
 
-## 1. Limit on fiduciary note issues in Northern Ireland.[^key-0f4c710c3c6e77a0d237b8d1ea932b9b]
+## 1. Limit on fiduciary note issues in Northern Ireland.[^c-0f4c710c3c6e77a0d237b8d1ea932b9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -51,7 +51,7 @@ And whereas it is expedient to give effect to the said agreement, and to restric
 
 It shall not be lawful for a banker in Northern Ireland to pay out or put in circulation any bank or other notes forming part of the currency of any country outside the United Kingdom, except in such circumstances and to such extent as the Treasury may by any general or special licence authorise; and if any banker pays out or puts into circulation any notes in contravention of this section, he shall for each such note be liable to forfeit the sum of five pounds.
 
-## 3. Issues of notes against coins.[^key-8978e4e50f8fedf1408530b9e037f06e]
+## 3. Issues of notes against coins.[^c-8978e4e50f8fedf1408530b9e037f06e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -63,7 +63,7 @@ It shall not be lawful for a banker in Northern Ireland to pay out or put in cir
 
 (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c585945]
 
-## SCHEDULE[^key-0f12722935a617fd2c506b06a36fa4e0]
+## SCHEDULE[^c-0f12722935a617fd2c506b06a36fa4e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -73,9 +73,9 @@ It shall not be lawful for a banker in Northern Ireland to pay out or put in cir
 
 [^c585937]: Marginal citation: [1845 c. 37](https://www.legislation.gov.uk/ukpga/1845/37).
 
-[^key-0f4c710c3c6e77a0d237b8d1ea932b9b]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/Geo5/18-19/15/section/1) repealed (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 214(3)(c)](https://www.legislation.gov.uk/ukpga/2009/1/section/214/3/c), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
+[^c-0f4c710c3c6e77a0d237b8d1ea932b9b]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/Geo5/18-19/15/section/1) repealed (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 214(3)(c)](https://www.legislation.gov.uk/ukpga/2009/1/section/214/3/c), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
 
-[^key-8978e4e50f8fedf1408530b9e037f06e]: Textual amendment: S. 3 repealed (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 214(3)(c)](https://www.legislation.gov.uk/ukpga/2009/1/section/214/3/c), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
+[^c-8978e4e50f8fedf1408530b9e037f06e]: Textual amendment: S. 3 repealed (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 214(3)(c)](https://www.legislation.gov.uk/ukpga/2009/1/section/214/3/c), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
 
 [^c585943]: Modification: Unreliable marginal note
 
@@ -83,4 +83,4 @@ It shall not be lawful for a banker in Northern Ireland to pay out or put in cir
 
 [^c585945]: Textual amendment: [S. 4(3)](https://www.legislation.gov.uk/ukpga/Geo5/18-19/15/section/4/3) repealed by [Statute Law Revision Act 1950 (c. 6)](https://www.legislation.gov.uk/ukpga/1950/6)
 
-[^key-0f12722935a617fd2c506b06a36fa4e0]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ukpga/Geo5/18-19/15/schedule) repealed (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 214(3)(c)](https://www.legislation.gov.uk/ukpga/2009/1/section/214/3/c), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
+[^c-0f12722935a617fd2c506b06a36fa4e0]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ukpga/Geo5/18-19/15/schedule) repealed (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 214(3)(c)](https://www.legislation.gov.uk/ukpga/2009/1/section/214/3/c), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)

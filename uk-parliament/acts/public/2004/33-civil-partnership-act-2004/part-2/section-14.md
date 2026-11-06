@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Issue of civil partnership schedule[^c20565091][^key-30a255610c30acfe21be426b35ad7e74]
+## 14. Issue of civil partnership schedule[^c20565091][^c-30a255610c30acfe21be426b35ad7e74]
 
 *Extent: E+W*
 
@@ -33,12 +33,12 @@ summary: ''
 
 (5) “**The relevant registration authority**” means the authority which first records that a notice of proposed civil partnership has been given by one of the proposed civil partners.
 
-(6)[^key-9953e5318658eedcfc1b79772707479b] This section has effect subject to section 14A.
+(6)[^c-9953e5318658eedcfc1b79772707479b] This section has effect subject to section 14A.
 
 ## Annotations
 
 [^c20565091]: Commencement: S. 14 wholly in force at 5.12.2005; s. 14 not in force at Royal Assent see s. 263; s. 14(2) in force at 15.4.2005 by [S.I. 2005/1112](https://www.legislation.gov.uk/uksi/2005/1112), [art. 2](https://www.legislation.gov.uk/uksi/2005/1112/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1112/schedule/1); s. 14(1)(3)-(5) in force at 5.12.2005 insofar as not already in force by [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-30a255610c30acfe21be426b35ad7e74]: Textual amendment: Ss. 9-9F substituted for s. 9 (20.10.2014 for specified purposes, 1.3.2015 in so far as not already in force) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/21) (with [Sch. 9 para. 66](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/66)); [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-30a255610c30acfe21be426b35ad7e74]: Textual amendment: Ss. 9-9F substituted for s. 9 (20.10.2014 for specified purposes, 1.3.2015 in so far as not already in force) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/21) (with [Sch. 9 para. 66](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/66)); [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
 
-[^key-9953e5318658eedcfc1b79772707479b]: Textual amendment: S. 14(6) inserted (1.3.2015) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 4 para. 26(1)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/26/1) (with [Sch. 9 para. 66](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/66)); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-9953e5318658eedcfc1b79772707479b]: Textual amendment: S. 14(6) inserted (1.3.2015) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 4 para. 26(1)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/26/1) (with [Sch. 9 para. 66](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/66)); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)

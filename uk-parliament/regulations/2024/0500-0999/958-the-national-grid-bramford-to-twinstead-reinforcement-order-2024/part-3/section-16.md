@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Access to works[^key-553d36b2719b4b5888e719a8b37e0cd7]
+## 16. Access to works[^c-553d36b2719b4b5888e719a8b37e0cd7]
 
 *Extent: E+W*
 
@@ -29,10 +29,10 @@ summary: ''
 
 (3) Any application for consent under sub-paragraph (1)(b) must include a statement that the provisions of paragraph (2) apply to that application.
 
-(4) If an application for consent under paragraph (1)(b)[^key-96cee24fd95b582c1843e4da26f86a15] does not include the statement required under paragraph (3), then the provisions of paragraph (2) will not apply to that application.
+(4) If an application for consent under paragraph (1)(b)[^c-96cee24fd95b582c1843e4da26f86a15] does not include the statement required under paragraph (3), then the provisions of paragraph (2) will not apply to that application.
 
 ## Annotations
 
-[^key-553d36b2719b4b5888e719a8b37e0cd7]: Commencement: Art. 16 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-553d36b2719b4b5888e719a8b37e0cd7]: Commencement: Art. 16 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-96cee24fd95b582c1843e4da26f86a15]: Textual amendment: Words in [art. 16(4)](https://www.legislation.gov.uk/uksi/2024/958/article/16/4) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-96cee24fd95b582c1843e4da26f86a15]: Textual amendment: Words in [art. 16(4)](https://www.legislation.gov.uk/uksi/2024/958/article/16/4) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1

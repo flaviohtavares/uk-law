@@ -26,11 +26,11 @@ Section 52
 
 #### Introductory
 
-**1.**[^key-4756c1672e70f1c6df86af6c5bea0117] The Football Spectators Act 1989 (c. 37) is amended as follows.
+**1.**[^c-4756c1672e70f1c6df86af6c5bea0117] The Football Spectators Act 1989 (c. 37) is amended as follows.
 
 #### Banning orders: bail conditions
 
-**2.**[^key-46eec026d1b49fcad9faa37a1b08a4d6] (1) In section 14A (banning orders on conviction of an offence), after subsection (4B) insert—
+**2.**[^c-46eec026d1b49fcad9faa37a1b08a4d6] (1) In section 14A (banning orders on conviction of an offence), after subsection (4B) insert—
 
 > (4BA) If the court adjourns or further adjourns any proceedings under subsection (4A) or (4B), the court may remand the offender.
 >
@@ -52,7 +52,7 @@ Section 52
 
 #### Appeals against decisions not to make banning orders
 
-**3.**[^key-387088f9b4168c82c79e58fc2367043f] (1) In section 14A (banning order made on conviction for an offence), after subsection (5) insert—
+**3.**[^c-387088f9b4168c82c79e58fc2367043f] (1) In section 14A (banning order made on conviction for an offence), after subsection (5) insert—
 
 > (5A) The prosecution has a right of appeal against a failure by the court to make a banning order under this section—
 >
@@ -71,7 +71,7 @@ Section 52
 
 #### Applications for banning orders under section 14B
 
-**4.**[^key-72b7648d533b14ab7025076ff15405bc] (1) In section 14B (banning orders made on a complaint)—
+**4.**[^c-72b7648d533b14ab7025076ff15405bc] (1) In section 14B (banning orders made on a complaint)—
 
 - (a) for subsection (1) substitute—
 
@@ -94,7 +94,7 @@ Section 52
 
 #### Notification obligations under banning orders
 
-**5.**[^key-cc4c37f7befb9c39b332e95382cdb148] (1) Section 14E (banning orders: general) is amended as follows.
+**5.**[^c-cc4c37f7befb9c39b332e95382cdb148] (1) Section 14E (banning orders: general) is amended as follows.
 
 (2) After subsection (2) insert—
 
@@ -142,17 +142,17 @@ Section 52
 
 #### Duration of banning orders
 
-**6.**[^key-96ecb73a7cb127b7bcca57b10a0d0f71] In section 14F(5) (duration of banning orders), for “three” substitute “ five ” and for “two” substitute “ three ”.
+**6.**[^c-96ecb73a7cb127b7bcca57b10a0d0f71] In section 14F(5) (duration of banning orders), for “three” substitute “ five ” and for “two” substitute “ three ”.
 
 #### Notices during control periods
 
-**7.**[^key-9b1a650cc4b448455dd04f8c8bf4b996] In section 19 (functions of enforcing authority and local police), after subsection (2E)(b) insert—
+**7.**[^c-9b1a650cc4b448455dd04f8c8bf4b996] In section 19 (functions of enforcing authority and local police), after subsection (2E)(b) insert—
 
 > - (c) must require him to notify the enforcing authority within the time period specified in the notice of each address at which he intends to stay, or has stayed, for one night or more in a period which is the control period in relation to a regulated football match.
 
 #### Deemed receipt of notices and other documents
 
-**8.**[^key-34bf37c44eabc04c060bd59593ecd1a1] (1) In section 25 (service of documents), after subsection (1) insert—
+**8.**[^c-34bf37c44eabc04c060bd59593ecd1a1] (1) In section 25 (service of documents), after subsection (1) insert—
 
 > (1A) A notice or other document served in accordance with subsection (1) on a person who is the subject of a banning order is to be deemed to be received by him at the time when it is served unless he proves otherwise.
 
@@ -160,7 +160,7 @@ Section 52
 
 #### New relevant offence
 
-**9.**[^key-01983eba11d726b490740e507583909a] (1) In paragraph 1 of Schedule 1 (offences), in sub-paragraphs (c), (k) and (q) after “under section” insert “ 4A or ”.
+**9.**[^c-01983eba11d726b490740e507583909a] (1) In paragraph 1 of Schedule 1 (offences), in sub-paragraphs (c), (k) and (q) after “under section” insert “ 4A or ”.
 
 (2) An offence is not a relevant offence by virtue of sub-paragraph (1) if it was committed before the commencement of this paragraph.
 
@@ -168,23 +168,23 @@ Section 52
 
 #### Meaning of “spectator” in Part 1
 
-**10.**[^key-5816bc6f81ab862e76881460945b6738] For section 1(6) of the Football Spectators Act 1989 (c. 37) (definition of “authorised spectator”) substitute—
+**10.**[^c-5816bc6f81ab862e76881460945b6738] For section 1(6) of the Football Spectators Act 1989 (c. 37) (definition of “authorised spectator”) substitute—
 
 > (6) A person is not to be regarded as a “**spectator**” in relation to a designated football match if the principal purpose of his being on the premises is to provide services in connection with the match, or to report on it.
 
 #### General provisions relating to licences to admit spectators
 
-**11.**[^key-d9ac091de61c408f1130d0eec5d3b091] In section 10(17) of that Act (licences to admit spectators: general), for “, the licensing authority or the Football Membership Authority” substitute “ or the licensing authority ”.
+**11.**[^c-d9ac091de61c408f1130d0eec5d3b091] In section 10(17) of that Act (licences to admit spectators: general), for “, the licensing authority or the Football Membership Authority” substitute “ or the licensing authority ”.
 
 #### Declarations of relevance
 
-**12.**[^key-d1feb1c4f18f389d7c4b414da9f69dfb] In section 23 of that Act (provisions about declarations of relevance), at the end insert—
+**12.**[^c-d1feb1c4f18f389d7c4b414da9f69dfb] In section 23 of that Act (provisions about declarations of relevance), at the end insert—
 
 > (5) In this section “**declaration of relevance**” means a declaration by a court for the purposes of Schedule 1 to this Act that an offence related to football matches, or that it related to one or more particular football matches.
 
 #### Periods relevant to football matches
 
-**13.**[^key-f28bd49df80f7264f75bc0888a67bf3c] For paragraph 4(2) of Schedule 1 to that Act (meaning of period relevant to a football match) substitute—
+**13.**[^c-f28bd49df80f7264f75bc0888a67bf3c] For paragraph 4(2) of Schedule 1 to that Act (meaning of period relevant to a football match) substitute—
 
 > (2) For the purposes of this Schedule each of the following periods is “relevant to” a football match to which this Schedule applies—
 >
@@ -197,7 +197,7 @@ Section 52
 
 #### Amendments of other enactments
 
-**14.**[^key-2d43064be336eb87c457692d6adacd13] (1) In each of the enactments specified in sub-paragraph (2), for “declaration of relevance under” substitute “ declaration of relevance, within the meaning of section 23 of ”.
+**14.**[^c-2d43064be336eb87c457692d6adacd13] (1) In each of the enactments specified in sub-paragraph (2), for “declaration of relevance under” substitute “ declaration of relevance, within the meaning of section 23 of ”.
 
 (2) Those provisions are—
 
@@ -206,7 +206,7 @@ Section 52
 
 (3) This paragraph does not apply in relation to declarations made before the commencement of paragraph 12.
 
-**15.**[^key-4bc51785d03c65a6a5c28af9735ac3aa] In section 3 of the Prosecution of Offences Act 1985 (c. 23) (functions of the Director of Public Prosecutions), in subsection (2) after paragraph (fa) insert—
+**15.**[^c-4bc51785d03c65a6a5c28af9735ac3aa] In section 3 of the Prosecution of Offences Act 1985 (c. 23) (functions of the Director of Public Prosecutions), in subsection (2) after paragraph (fa) insert—
 
 > - (faa) where it appears to him appropriate to do so, to have the conduct of applications made by him for orders under section 14B of the Football Spectators Act 1989 (banning orders made on complaint);
 
@@ -214,32 +214,32 @@ Section 52
 
 ## Annotations
 
-[^key-4756c1672e70f1c6df86af6c5bea0117]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/1) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
+[^c-4756c1672e70f1c6df86af6c5bea0117]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/1) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
 
-[^key-46eec026d1b49fcad9faa37a1b08a4d6]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/2) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
+[^c-46eec026d1b49fcad9faa37a1b08a4d6]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/2) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
 
-[^key-387088f9b4168c82c79e58fc2367043f]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/3) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
+[^c-387088f9b4168c82c79e58fc2367043f]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/3) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
 
-[^key-72b7648d533b14ab7025076ff15405bc]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/4) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
+[^c-72b7648d533b14ab7025076ff15405bc]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/4) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
 
-[^key-cc4c37f7befb9c39b332e95382cdb148]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/5) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
+[^c-cc4c37f7befb9c39b332e95382cdb148]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/5) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
 
-[^key-96ecb73a7cb127b7bcca57b10a0d0f71]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/6) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
+[^c-96ecb73a7cb127b7bcca57b10a0d0f71]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/6) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
 
-[^key-9b1a650cc4b448455dd04f8c8bf4b996]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/7) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
+[^c-9b1a650cc4b448455dd04f8c8bf4b996]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/7) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
 
-[^key-34bf37c44eabc04c060bd59593ecd1a1]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/8) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
+[^c-34bf37c44eabc04c060bd59593ecd1a1]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/8) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
 
-[^key-01983eba11d726b490740e507583909a]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/9) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
+[^c-01983eba11d726b490740e507583909a]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/9) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
 
-[^key-5816bc6f81ab862e76881460945b6738]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/10) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
+[^c-5816bc6f81ab862e76881460945b6738]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/10) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
 
-[^key-d9ac091de61c408f1130d0eec5d3b091]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/11) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
+[^c-d9ac091de61c408f1130d0eec5d3b091]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/11) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
 
-[^key-d1feb1c4f18f389d7c4b414da9f69dfb]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/12) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
+[^c-d1feb1c4f18f389d7c4b414da9f69dfb]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/12) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
 
-[^key-f28bd49df80f7264f75bc0888a67bf3c]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/13) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
+[^c-f28bd49df80f7264f75bc0888a67bf3c]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/13) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
 
-[^key-2d43064be336eb87c457692d6adacd13]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/14) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
+[^c-2d43064be336eb87c457692d6adacd13]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/14) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
 
-[^key-4bc51785d03c65a6a5c28af9735ac3aa]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/15) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
+[^c-4bc51785d03c65a6a5c28af9735ac3aa]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2006/38/schedule/3/paragraph/15) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)

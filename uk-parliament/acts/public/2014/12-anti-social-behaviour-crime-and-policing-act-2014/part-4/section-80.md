@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Power of court to make closure orders[^key-436d1c12cd1ca22fe8caa70e5890d396]
+## 80. Power of court to make closure orders[^c-436d1c12cd1ca22fe8caa70e5890d396]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 - (a) by a constable, if the closure notice was issued by a police officer;
 - (b) by the authority that issued the closure notice, if the notice was issued by a local authority;
-- (c)[^key-1edaca5bc7bdc3f4c3ee8d372d4d0c8c] by the provider that issued the closure notice, if the notice was issued by an RSH provider.
+- (c)[^c-1edaca5bc7bdc3f4c3ee8d372d4d0c8c] by the provider that issued the closure notice, if the notice was issued by an RSH provider.
 
 (3) The application must be heard by the magistrates' court not later than 48 hours after service of the closure notice.
 
@@ -59,6 +59,6 @@ The period may not exceed 3 months.
 
 ## Annotations
 
-[^key-436d1c12cd1ca22fe8caa70e5890d396]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2014/12/section/80) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
+[^c-436d1c12cd1ca22fe8caa70e5890d396]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2014/12/section/80) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
 
-[^key-1edaca5bc7bdc3f4c3ee8d372d4d0c8c]: Textual amendment: [S. 80(2)(c)](https://www.legislation.gov.uk/ukpga/2014/12/section/80/2/c) inserted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2026/20/schedule/2/paragraph/6); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/h)
+[^c-1edaca5bc7bdc3f4c3ee8d372d4d0c8c]: Textual amendment: [S. 80(2)(c)](https://www.legislation.gov.uk/ukpga/2014/12/section/80/2/c) inserted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2026/20/schedule/2/paragraph/6); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/h)

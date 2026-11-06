@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Confirmation decisions: penalties[^key-2157fd6f73908dbb7c9b7ff96ed37edd][^key-664571233f237b79a7a47b7bfb283b66]
+## 137. Confirmation decisions: penalties[^c-2157fd6f73908dbb7c9b7ff96ed37edd][^c-664571233f237b79a7a47b7bfb283b66]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2157fd6f73908dbb7c9b7ff96ed37edd]: Commencement: S. 137 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-2157fd6f73908dbb7c9b7ff96ed37edd]: Commencement: S. 137 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-664571233f237b79a7a47b7bfb283b66]: Commencement: [S. 137](https://www.legislation.gov.uk/ukpga/2023/50/section/137) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)
+[^c-664571233f237b79a7a47b7bfb283b66]: Commencement: [S. 137](https://www.legislation.gov.uk/ukpga/2023/50/section/137) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)

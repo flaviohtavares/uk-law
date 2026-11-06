@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 6. Registrar of tribunals: continuation[^key-a79b749574634c0dde7f079e5c3d4901]
+## 6. Registrar of tribunals: continuation[^c-a79b749574634c0dde7f079e5c3d4901]
 
 *Extent: E*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a79b749574634c0dde7f079e5c3d4901]: Commencement: S. 6 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-a79b749574634c0dde7f079e5c3d4901]: Commencement: S. 6 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

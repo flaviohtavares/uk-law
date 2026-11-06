@@ -44,10 +44,10 @@ summary: ''
 
 (6) For the purposes of this section the place where securities are situated is to be determined in accordance with sections 275(1) and (2)(b) and 275C of TCGA 1992.
 
-(7) Any claim under this section must be made not more than 4 years after the end of[^key-36d1fedd6bc7a01d77f2c324bf8a7f33] the tax year for which the profits would be chargeable to tax if no claim were made.
+(7) Any claim under this section must be made not more than 4 years after the end of[^c-36d1fedd6bc7a01d77f2c324bf8a7f33] the tax year for which the profits would be chargeable to tax if no claim were made.
 
 (8) A person's personal representatives may make any claim under this section which the person might have made.
 
 ## Annotations
 
-[^key-36d1fedd6bc7a01d77f2c324bf8a7f33]: Textual amendment: Words in s. 668(7) substituted (1.4.2010) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/118/2), [Sch. 39 para. 61](https://www.legislation.gov.uk/ukpga/2008/9/schedule/39/paragraph/61); [S.I. 2009/403](https://www.legislation.gov.uk/uksi/2009/403), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/403/article/2/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/403/article/10))
+[^c-36d1fedd6bc7a01d77f2c324bf8a7f33]: Textual amendment: Words in s. 668(7) substituted (1.4.2010) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/118/2), [Sch. 39 para. 61](https://www.legislation.gov.uk/ukpga/2008/9/schedule/39/paragraph/61); [S.I. 2009/403](https://www.legislation.gov.uk/uksi/2009/403), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/403/article/2/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/403/article/10))

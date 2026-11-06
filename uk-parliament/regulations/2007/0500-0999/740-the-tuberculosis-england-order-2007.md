@@ -33,7 +33,7 @@ Animals, England
 
 animal health
 
-The Tuberculosis (England) Order 2007 (revoked)[^key-bb21db3c352d06037724a8b15256b20f]
+The Tuberculosis (England) Order 2007 (revoked)[^c-bb21db3c352d06037724a8b15256b20f]
 
 Made
 
@@ -43,145 +43,145 @@ Coming into force
 
 6th April 2007
 
-[^key-bb21db3c352d06037724a8b15256b20f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bb21db3c352d06037724a8b15256b20f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement , application and expiry[^key-bb21db3c352d06037724a8b15256b20f]
+## 1. Title, commencement , application and expiry[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-bb21db3c352d06037724a8b15256b20f]
+## 2. Revocation[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-bb21db3c352d06037724a8b15256b20f]
+## 3. Interpretation[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3A. Approval of veterinary surgeons[^key-bb21db3c352d06037724a8b15256b20f]
+## 3A. Approval of veterinary surgeons[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Extension of definition of “disease” and power to slaughter on account of tuberculosis[^key-bb21db3c352d06037724a8b15256b20f]
+## 4. Extension of definition of “disease” and power to slaughter on account of tuberculosis[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Notification of disease in bovine animals[^key-bb21db3c352d06037724a8b15256b20f]
+## 5. Notification of disease in bovine animals[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Notification of disease in carcases[^key-bb21db3c352d06037724a8b15256b20f]
+## 6. Notification of disease in carcases[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Veterinary inquiry as to the existence of disease[^key-bb21db3c352d06037724a8b15256b20f]
+## 7. Veterinary inquiry as to the existence of disease[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Tuberculosis testing[^key-bb21db3c352d06037724a8b15256b20f]
+## 8. Tuberculosis testing[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Pre-Movement Testing[^key-bb21db3c352d06037724a8b15256b20f]
+## 9. Pre-Movement Testing[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Tuberculosis test records[^key-bb21db3c352d06037724a8b15256b20f]
+## 10. Tuberculosis test records[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Exempt markets[^key-bb21db3c352d06037724a8b15256b20f]
+## 11. Exempt markets[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Exempt finishing units, approved finishing units and approved collecting centres[^key-bb21db3c352d06037724a8b15256b20f]
+## 12. Exempt finishing units, approved finishing units and approved collecting centres[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Prohibitions[^key-bb21db3c352d06037724a8b15256b20f]
+## 13. Prohibitions[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Isolation and prohibition on movement of animals[^key-bb21db3c352d06037724a8b15256b20f]
+## 14. Isolation and prohibition on movement of animals[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Notification of intended slaughter of animals[^key-bb21db3c352d06037724a8b15256b20f]
+## 15. Notification of intended slaughter of animals[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Precautions against spread of infection[^key-bb21db3c352d06037724a8b15256b20f]
+## 16. Precautions against spread of infection[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Suspected animals in markets, shows etc.[^key-bb21db3c352d06037724a8b15256b20f]
+## 17. Suspected animals in markets, shows etc.[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Control of infection from other animals[^key-bb21db3c352d06037724a8b15256b20f]
+## 18. Control of infection from other animals[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Marking of bovine animals[^key-bb21db3c352d06037724a8b15256b20f]
+## 19. Marking of bovine animals[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Isolation of M. bovis in a laboratory[^key-bb21db3c352d06037724a8b15256b20f]
+## 20. Isolation of M. bovis in a laboratory[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21. General provisions as to notices, licences and approvals[^key-bb21db3c352d06037724a8b15256b20f]
+## 21. General provisions as to notices, licences and approvals[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 22. Production of licences[^key-bb21db3c352d06037724a8b15256b20f]
+## 22. Production of licences[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 23. Enforcement[^key-bb21db3c352d06037724a8b15256b20f]
+## 23. Enforcement[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24. Savings[^key-bb21db3c352d06037724a8b15256b20f]
+## 24. Savings[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25. Review[^key-bb21db3c352d06037724a8b15256b20f]
+## 25. Review[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bb21db3c352d06037724a8b15256b20f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bb21db3c352d06037724a8b15256b20f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Permitted Movements[^key-bb21db3c352d06037724a8b15256b20f]
+## SCHEDULE — Permitted Movements[^c-bb21db3c352d06037724a8b15256b20f]
 
 Article 9(3)(a)
 
-### 1. Movements to slaughter, exempt markets etc.[^key-bb21db3c352d06037724a8b15256b20f]
+### 1. Movements to slaughter, exempt markets etc.[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Common land[^key-bb21db3c352d06037724a8b15256b20f]
+### 2. Common land[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Movement within a sole occupancy group[^key-bb21db3c352d06037724a8b15256b20f]
+### 3. Movement within a sole occupancy group[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Movement for veterinary treatment[^key-bb21db3c352d06037724a8b15256b20f]
+### 4. Movement for veterinary treatment[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Movement to agricultural shows[^key-bb21db3c352d06037724a8b15256b20f]
+### 5. Movement to agricultural shows[^c-bb21db3c352d06037724a8b15256b20f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-bb21db3c352d06037724a8b15256b20f]EXPLANATORY NOTE
+[^c-bb21db3c352d06037724a8b15256b20f]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -213,4 +213,4 @@ A Regulatory Impact Assessment for this order has been prepared and placed in th
 
 ## Annotations
 
-[^key-bb21db3c352d06037724a8b15256b20f]: Textual amendment: Order revoked (1.10.2014) by [The Tuberculosis (England) Order 2014 (S.I. 2014/2383)](https://www.legislation.gov.uk/uksi/2014/2383), [art. 24(a)](https://www.legislation.gov.uk/uksi/2014/2383/article/24/a) (with [art. 25](https://www.legislation.gov.uk/uksi/2014/2383/article/25))
+[^c-bb21db3c352d06037724a8b15256b20f]: Textual amendment: Order revoked (1.10.2014) by [The Tuberculosis (England) Order 2014 (S.I. 2014/2383)](https://www.legislation.gov.uk/uksi/2014/2383), [art. 24(a)](https://www.legislation.gov.uk/uksi/2014/2383/article/24/a) (with [art. 25](https://www.legislation.gov.uk/uksi/2014/2383/article/25))

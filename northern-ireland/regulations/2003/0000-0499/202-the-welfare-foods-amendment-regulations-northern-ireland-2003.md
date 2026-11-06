@@ -31,7 +31,7 @@ summary: ''
 
 WELFARE FOODS
 
-The Welfare Foods (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^key-4e1601d4c314731a020dece16dfdd5b2]
+The Welfare Foods (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^c-4e1601d4c314731a020dece16dfdd5b2]
 
 Made
 
@@ -41,44 +41,44 @@ Coming into operation
 
 6th April 2003
 
-[^key-4e1601d4c314731a020dece16dfdd5b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e1601d4c314731a020dece16dfdd5b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-4e1601d4c314731a020dece16dfdd5b2]
+## 1. Citation, commencement and interpretation[^c-4e1601d4c314731a020dece16dfdd5b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 1 of the principal Regulations[^key-4e1601d4c314731a020dece16dfdd5b2]
+## 2. Amendment of regulation 1 of the principal Regulations[^c-4e1601d4c314731a020dece16dfdd5b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 2 of the principal Regulations[^key-4e1601d4c314731a020dece16dfdd5b2]
+## 3. Amendment of regulation 2 of the principal Regulations[^c-4e1601d4c314731a020dece16dfdd5b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 4 of the principal Regulations[^key-4e1601d4c314731a020dece16dfdd5b2]
+## 4. Amendment of regulation 4 of the principal Regulations[^c-4e1601d4c314731a020dece16dfdd5b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of Regulation 9 of the principal Regulations[^key-4e1601d4c314731a020dece16dfdd5b2]
+## 5. Amendment of Regulation 9 of the principal Regulations[^c-4e1601d4c314731a020dece16dfdd5b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of Regulation 14 of the principal Regulations[^key-4e1601d4c314731a020dece16dfdd5b2]
+## 6. Amendment of Regulation 14 of the principal Regulations[^c-4e1601d4c314731a020dece16dfdd5b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of Schedule 1 to the principal Regulation[^key-4e1601d4c314731a020dece16dfdd5b2]
+## 7. Amendment of Schedule 1 to the principal Regulation[^c-4e1601d4c314731a020dece16dfdd5b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4e1601d4c314731a020dece16dfdd5b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e1601d4c314731a020dece16dfdd5b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4e1601d4c314731a020dece16dfdd5b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e1601d4c314731a020dece16dfdd5b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4e1601d4c314731a020dece16dfdd5b2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/202) revoked (1.10.2004) by [The Welfare Foods (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/161)](https://www.legislation.gov.uk/nisr/2004/161), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2004/161/regulation/1/2), [6](https://www.legislation.gov.uk/nisr/2004/161/regulation/6)
+[^c-4e1601d4c314731a020dece16dfdd5b2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/202) revoked (1.10.2004) by [The Welfare Foods (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/161)](https://www.legislation.gov.uk/nisr/2004/161), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2004/161/regulation/1/2), [6](https://www.legislation.gov.uk/nisr/2004/161/regulation/6)

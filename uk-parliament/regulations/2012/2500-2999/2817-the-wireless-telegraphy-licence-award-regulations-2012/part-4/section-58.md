@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Release of information on primary bids in principal stage[^key-6191f6808691426403ddf023ead5f791]
+## 58. Release of information on primary bids in principal stage[^c-6191f6808691426403ddf023ead5f791]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ After the end of each primary bid round and before the start of the next primary
 
 ## Annotations
 
-[^key-6191f6808691426403ddf023ead5f791]: Commencement: Reg. 58 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-6191f6808691426403ddf023ead5f791]: Commencement: Reg. 58 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

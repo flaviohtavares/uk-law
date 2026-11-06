@@ -36,107 +36,107 @@ implementing Regulation (EC) No 295/2008 of the European Parliament and of the C
 
 (Text with EEA relevance) (revoked)
 
-[^key-7784507363cefda53b838c811928a4a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7784507363cefda53b838c811928a4a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-7784507363cefda53b838c811928a4a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-7784507363cefda53b838c811928a4a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-7784507363cefda53b838c811928a4a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-7784507363cefda53b838c811928a4a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-7784507363cefda53b838c811928a4a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-7784507363cefda53b838c811928a4a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-7784507363cefda53b838c811928a4a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-7784507363cefda53b838c811928a4a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-7784507363cefda53b838c811928a4a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-7784507363cefda53b838c811928a4a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7784507363cefda53b838c811928a4a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7784507363cefda53b838c811928a4a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — Quality reports and criteria for the evaluation of the quality of structural business statistics[^key-7784507363cefda53b838c811928a4a8]
+## ANNEX — Quality reports and criteria for the evaluation of the quality of structural business statistics[^c-7784507363cefda53b838c811928a4a8]
 
-[^key-7784507363cefda53b838c811928a4a8]SECTION I
+[^c-7784507363cefda53b838c811928a4a8]SECTION I
 
 **Quality reports**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7784507363cefda53b838c811928a4a8] SECTION II
+[^c-7784507363cefda53b838c811928a4a8] SECTION II
 
 **Timeline**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7784507363cefda53b838c811928a4a8]SECTION III
+[^c-7784507363cefda53b838c811928a4a8]SECTION III
 
 **Quality criteria**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7784507363cefda53b838c811928a4a8]1.
+[^c-7784507363cefda53b838c811928a4a8]1.
 
 *Relevance*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7784507363cefda53b838c811928a4a8]2.
+[^c-7784507363cefda53b838c811928a4a8]2.
 
 *Accuracy*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7784507363cefda53b838c811928a4a8]3.
+[^c-7784507363cefda53b838c811928a4a8]3.
 
 *Coherence*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7784507363cefda53b838c811928a4a8]4.
+[^c-7784507363cefda53b838c811928a4a8]4.
 
 *Comparability*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7784507363cefda53b838c811928a4a8]5.
+[^c-7784507363cefda53b838c811928a4a8]5.
 
 *Timeliness and punctuality*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7784507363cefda53b838c811928a4a8]6.
+[^c-7784507363cefda53b838c811928a4a8]6.
 
 *Accessibility and clarity*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7784507363cefda53b838c811928a4a8]SECTION IV
+[^c-7784507363cefda53b838c811928a4a8]SECTION IV
 
 **Series of quantitative indicators to be provided by Member States regarding accuracy (and reliability)**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7784507363cefda53b838c811928a4a8]1.
+[^c-7784507363cefda53b838c811928a4a8]1.
 
 *Coefficients of variation*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7784507363cefda53b838c811928a4a8]2.
+[^c-7784507363cefda53b838c811928a4a8]2.
 
 *Unit non-response*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7784507363cefda53b838c811928a4a8]SECTION V
+[^c-7784507363cefda53b838c811928a4a8]SECTION V
 
 **Technical format for transmission of the quality report and quality indicators**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7784507363cefda53b838c811928a4a8]1.
+[^c-7784507363cefda53b838c811928a4a8]1.
 
 *Dataset identifiers*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7784507363cefda53b838c811928a4a8]2.
+[^c-7784507363cefda53b838c811928a4a8]2.
 
 *Dataset structure*
 
@@ -144,4 +144,4 @@ implementing Regulation (EC) No 295/2008 of the European Parliament and of the C
 
 ## Annotations
 
-[^key-7784507363cefda53b838c811928a4a8]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 169](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/169); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7784507363cefda53b838c811928a4a8]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 169](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/169); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

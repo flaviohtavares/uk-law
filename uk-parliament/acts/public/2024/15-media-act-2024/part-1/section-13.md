@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Quotas: independent productions: commissioning code[^key-857e05e44db69e72836dab66079e4670][^key-cd5101ed3377f8c9360fee5cbf08a4e8][^key-62aa7e856c7d74eaa91dd044b3cd5bb0]
+## 13. Quotas: independent productions: commissioning code[^c-857e05e44db69e72836dab66079e4670][^c-cd5101ed3377f8c9360fee5cbf08a4e8][^c-62aa7e856c7d74eaa91dd044b3cd5bb0]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,8 +39,8 @@ summary: ''
 
 ## Annotations
 
-[^key-857e05e44db69e72836dab66079e4670]: Commencement: S. 13 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
+[^c-857e05e44db69e72836dab66079e4670]: Commencement: S. 13 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
 
-[^key-cd5101ed3377f8c9360fee5cbf08a4e8]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2024/15/section/13) in force at 23.8.2024 for specified purposes by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule)
+[^c-cd5101ed3377f8c9360fee5cbf08a4e8]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2024/15/section/13) in force at 23.8.2024 for specified purposes by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule)
 
-[^key-62aa7e856c7d74eaa91dd044b3cd5bb0]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2024/15/section/13) in force at 1.1.2026 in so far as not already in force by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/m)
+[^c-62aa7e856c7d74eaa91dd044b3cd5bb0]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2024/15/section/13) in force at 1.1.2026 in so far as not already in force by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/m)

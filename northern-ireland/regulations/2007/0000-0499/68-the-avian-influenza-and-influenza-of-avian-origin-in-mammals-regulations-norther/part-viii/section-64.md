@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 64. Poultry moved to premises outside a controlled zone other than for slaughter[^key-fdba1eaefa916bab6c4bd880dcbdfe62]
+## 64. Poultry moved to premises outside a controlled zone other than for slaughter[^c-fdba1eaefa916bab6c4bd880dcbdfe62]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fdba1eaefa916bab6c4bd880dcbdfe62]: Commencement: Reg. 64 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-fdba1eaefa916bab6c4bd880dcbdfe62]: Commencement: Reg. 64 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

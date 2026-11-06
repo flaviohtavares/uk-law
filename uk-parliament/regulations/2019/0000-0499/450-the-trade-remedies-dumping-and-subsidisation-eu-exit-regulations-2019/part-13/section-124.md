@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124.[^key-8224c8dcff0aba8895f3c531d8afbad9]
+## 124.[^c-8224c8dcff0aba8895f3c531d8afbad9]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ Regulation 78 (TRA's power to recommend acceptance of undertakings) has effect a
 
 ## Annotations
 
-[^key-8224c8dcff0aba8895f3c531d8afbad9]: Commencement: Reg. 124 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-8224c8dcff0aba8895f3c531d8afbad9]: Commencement: Reg. 124 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Duty to co-operate[^key-a24ccf5ca17966603b26e4431914b797]
+## 65. Duty to co-operate[^c-a24ccf5ca17966603b26e4431914b797]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ if the person considers that entering into such arrangements would facilitate th
 
 ## Annotations
 
-[^key-a24ccf5ca17966603b26e4431914b797]: Commencement: [S. 65](https://www.legislation.gov.uk/asc/2021/4/section/65) in force at 1.9.2022 by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 4(d)](https://www.legislation.gov.uk/wsi/2022/652/article/4/d)
+[^c-a24ccf5ca17966603b26e4431914b797]: Commencement: [S. 65](https://www.legislation.gov.uk/asc/2021/4/section/65) in force at 1.9.2022 by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 4(d)](https://www.legislation.gov.uk/wsi/2022/652/article/4/d)

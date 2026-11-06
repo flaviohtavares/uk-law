@@ -35,10 +35,10 @@ summary: ''
 
 (5) The amendments and repeals in Schedules 20 and 21 have the same extent as the enactments to which they refer.
 
-(6)[^key-81bdc301149bd93d3931f660be4f66f0] Her Majesty may by Order in Council direct that any of the provisions of this Act shall extend to the Isle of Man or any of the Channel Islands with such modifications, if any, as appear to Her Majesty to be appropriate.
+(6)[^c-81bdc301149bd93d3931f660be4f66f0] Her Majesty may by Order in Council direct that any of the provisions of this Act shall extend to the Isle of Man or any of the Channel Islands with such modifications, if any, as appear to Her Majesty to be appropriate.
 
 ## Annotations
 
 [^c16550431]: Subordinate legislation: [S. 204(2)](https://www.legislation.gov.uk/ukpga/1990/42/section/204/2): power of appointment partly exercised by [S.I. 1990/2347](https://www.legislation.gov.uk/uksi/1990/2347)
 
-[^key-81bdc301149bd93d3931f660be4f66f0]: Modification: [S. 204(6)](https://www.legislation.gov.uk/ukpga/1990/42/section/204/6): power extended (24.5.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 54(3)](https://www.legislation.gov.uk/ukpga/2024/15/section/54/3), [55(1)(b)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/1/b)
+[^c-81bdc301149bd93d3931f660be4f66f0]: Modification: [S. 204(6)](https://www.legislation.gov.uk/ukpga/1990/42/section/204/6): power extended (24.5.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 54(3)](https://www.legislation.gov.uk/ukpga/2024/15/section/54/3), [55(1)(b)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/1/b)

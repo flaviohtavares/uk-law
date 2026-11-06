@@ -50,7 +50,7 @@ In respect of the provisions in these Regulations relating to housing benefit an
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-f6d4058ff28932848471f96928f8e914]
+### 1. Citation and commencement[^c-f6d4058ff28932848471f96928f8e914]
 
 (1) These Regulations may be cited as the Social Security (Miscellaneous Amendments) Regulations 2012.
 
@@ -63,7 +63,7 @@ In respect of the provisions in these Regulations relating to housing benefit an
 
 (4) All other provisions of these Regulations come into force on 1st April 2012.
 
-### 2. Interpretation[^key-edd5d875328f5af8c143a1426579f78d]
+### 2. Interpretation[^c-edd5d875328f5af8c143a1426579f78d]
 
 In these Regulations—
 
@@ -74,7 +74,7 @@ In these Regulations—
 
 ## PART 2 — Amendments relating to paternity leave and paternity pay
 
-### 3. Amendments relating to paternity leave and paternity pay: income support[^key-77a2c4122a6b08deae7310a2caf42a26]
+### 3. Amendments relating to paternity leave and paternity pay: income support[^c-77a2c4122a6b08deae7310a2caf42a26]
 
 (1) The Income Support Regulations are amended as follows.
 
@@ -91,7 +91,7 @@ In these Regulations—
 
 (4) In paragraph 4A of Schedule 9[^f00011] (sums to be disregarded in the calculation of income other than earnings) for “statutory paternity pay” substitute “ordinary or additional statutory paternity pay”.
 
-### 4. Amendments relating to paternity leave and paternity pay: jobseeker’s allowance[^key-8c4ec6270b620f0dd9c4dbfe6842fc5a]
+### 4. Amendments relating to paternity leave and paternity pay: jobseeker’s allowance[^c-8c4ec6270b620f0dd9c4dbfe6842fc5a]
 
 (1) The Jobseeker’s Allowance Regulations 1996[^f00012] are amended as follows.
 
@@ -106,7 +106,7 @@ In these Regulations—
 - (a) in paragraph 4, for “statutory paternity pay” substitute “ordinary or additional statutory paternity pay”;
 - (b) in paragraph 5 for “statutory paternity pay” substitute “ordinary or additional statutory paternity pay”.
 
-### 5. Amendments relating to paternity leave and paternity pay: state pension credit[^key-01a0fca6fb5f223c8f3b79cd750399ec]
+### 5. Amendments relating to paternity leave and paternity pay: state pension credit[^c-01a0fca6fb5f223c8f3b79cd750399ec]
 
 (1) The State Pension Credit Regulations 2002[^f00015] are amended as follows.
 
@@ -130,7 +130,7 @@ In these Regulations—
 
 .
 
-### 6. Amendment relating to paternity leave: employment and support allowance[^key-08b7dc42d23aadd2df0b119593e2c2af]
+### 6. Amendment relating to paternity leave: employment and support allowance[^c-08b7dc42d23aadd2df0b119593e2c2af]
 
 In regulation 2(1) of the Employment and Support Allowance Regulations (interpretation) after the definition of “passenger” insert—
 
@@ -138,7 +138,7 @@ In regulation 2(1) of the Employment and Support Allowance Regulations (interpre
 
 .
 
-### 7. Amendments relating to paternity leave and paternity pay: housing benefit for those not of pensionable age[^key-b8bca9e442c62555360e70c535c49b67][^key-2c1558a7d1d7fbbeba6d0bba6075ff42]
+### 7. Amendments relating to paternity leave and paternity pay: housing benefit for those not of pensionable age[^c-b8bca9e442c62555360e70c535c49b67][^c-2c1558a7d1d7fbbeba6d0bba6075ff42]
 
 (1) The Housing Benefit Regulations are amended as follows.
 
@@ -157,7 +157,7 @@ In regulation 2(1) of the Employment and Support Allowance Regulations (interpre
 
 (5) In regulation 36(3)(d) (calculation of net earnings of employed earners) for “statutory paternity pay” substitute “ordinary or additional statutory paternity pay”.
 
-### 8. Amendments relating to paternity leave and paternity pay: housing benefit for those of pensionable age[^key-aac2cdb2337b23c697e1dd1e273eefc7][^key-528a8e74ebed5f035549035a02bdf212]
+### 8. Amendments relating to paternity leave and paternity pay: housing benefit for those of pensionable age[^c-aac2cdb2337b23c697e1dd1e273eefc7][^c-528a8e74ebed5f035549035a02bdf212]
 
 (1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^f00020] are amended as follows.
 
@@ -188,7 +188,7 @@ In regulation 2(1) of the Employment and Support Allowance Regulations (interpre
 
 (6) In regulation 36(2)(d) (calculation of net earnings of employed earners) for “statutory paternity pay” substitute “ordinary or additional statutory paternity pay”.
 
-### 9. Amendments relating to paternity leave and paternity pay: council tax benefit for those not of pensionable age[^key-2bcacaa552672b3cf7a49e66d7a0e066]
+### 9. Amendments relating to paternity leave and paternity pay: council tax benefit for those not of pensionable age[^c-2bcacaa552672b3cf7a49e66d7a0e066]
 
 (1) The Council Tax Benefit Regulations are amended as follows.
 
@@ -209,7 +209,7 @@ In regulation 2(1) of the Employment and Support Allowance Regulations (interpre
 
 (5) In regulation 26(3)(d) (calculation of net earnings of employed earners) for “statutory paternity pay” substitute “ordinary or additional statutory paternity pay”.
 
-### 10. Amendments relating to paternity leave and paternity pay: council tax benefit for those of pensionable age[^key-cb9e9b6dbb951db4cc1ede5808ac02b5]
+### 10. Amendments relating to paternity leave and paternity pay: council tax benefit for those of pensionable age[^c-cb9e9b6dbb951db4cc1ede5808ac02b5]
 
 (1) The Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^f00021] are amended as follows.
 
@@ -242,7 +242,7 @@ In regulation 2(1) of the Employment and Support Allowance Regulations (interpre
 
 ## PART 3 — Amendments relating to full-time, non-advanced education
 
-### 11. Amendments relating to full-time, non-advanced education: income support[^key-09533facd9087e20a8f20280efd8b3d1]
+### 11. Amendments relating to full-time, non-advanced education: income support[^c-09533facd9087e20a8f20280efd8b3d1]
 
 In paragraph 15A of Schedule 1B to the Income Support Regulations[^f00024] (prescribed categories of persons: persons under 21 with no parents, or living away from their parents, undertaking full-time, non-advanced education)—
 
@@ -284,7 +284,7 @@ In paragraph 15A of Schedule 1B to the Income Support Regulations[^f00024] (pres
   >
   >   and for this purpose, “course of advanced education” has the same meaning as in regulation 61(1)
 
-### 12. Amendments relating to full-time non-advanced education: housing benefit[^key-f88c8ad1db9f7e3e2f2b5736b72534b0][^key-70272c2e5e2072b85c9794b610e9eac9]
+### 12. Amendments relating to full-time non-advanced education: housing benefit[^c-f88c8ad1db9f7e3e2f2b5736b72534b0][^c-70272c2e5e2072b85c9794b610e9eac9]
 
 In regulation 56 of the Housing Benefit Regulations[^f00025] (full-time students to be treated as not liable to make payments in respect of a dwelling)—
 
@@ -302,7 +302,7 @@ In regulation 56 of the Housing Benefit Regulations[^f00025] (full-time students
 
   .
 
-### 13. Amendments relating to full-time non-advanced education: council tax benefit[^key-472c2b0f8bc43f26f06885345fe15d0e]
+### 13. Amendments relating to full-time non-advanced education: council tax benefit[^c-472c2b0f8bc43f26f06885345fe15d0e]
 
 In regulation 45 of the Council Tax Benefit Regulations[^f00026] (students who are excluded from entitlement to council tax benefit)—
 
@@ -322,7 +322,7 @@ In regulation 45 of the Council Tax Benefit Regulations[^f00026] (students who a
 
 ## PART 4 — Other amendments
 
-### 14. Amendment to the Income Support Regulations: persons in relevant education[^key-0e3ebaa5684fbe3c1a291a155c29f5f2]
+### 14. Amendment to the Income Support Regulations: persons in relevant education[^c-0e3ebaa5684fbe3c1a291a155c29f5f2]
 
 At the end of regulation 13(3)(b)(iii) of the Income Support Regulations (circumstances in which persons in relevant education are to be entitled to income support)[^f00027] add—
 
@@ -332,7 +332,7 @@ At the end of regulation 13(3)(b)(iii) of the Income Support Regulations (circum
 
 .
 
-### 15. Amendments to the Social Security (Claims and Payments) Regulations 1987[^key-fa2736de4fada5b5d8168f3b1b665ab0]
+### 15. Amendments to the Social Security (Claims and Payments) Regulations 1987[^c-fa2736de4fada5b5d8168f3b1b665ab0]
 
 (1) The Social Security (Claims and Payments) Regulations 1987[^f00028] are amended as follows.
 
@@ -356,39 +356,39 @@ At the end of regulation 13(3)(b)(iii) of the Income Support Regulations (circum
   - (ii) at the end of the definition of “water undertaker”[^f00034] add “or in respect of any area in Scotland, Scottish Water[^f00035]”;
 - (b) in paragraph 8(4) (maximum amount of payments to third parties)[^f00036], in sub-paragraph (b)(i), for “sub-paragraphs (a)(i) to (iii)” substitute “sub-paragraphs (a)(i) to (iv)”.
 
-### 16. Amendment to the Social Security (Payments on account, Overpayments and Recovery) Regulations 1988[^key-1a5b14b71b46491b09a68ae3cef1c4b1]
+### 16. Amendment to the Social Security (Payments on account, Overpayments and Recovery) Regulations 1988[^c-1a5b14b71b46491b09a68ae3cef1c4b1]
 
 In regulation 11(2)(b) of the Social Security (Payments on account, Overpayments and Recovery) Regulations 1988 (recovery of overpayments by automated or other direct credit transfer)[^f00037], for “before he agreed to the arrangement” substitute “before the arrangement came into effect”.
 
-### 17. Amendment to the Social Security and Child Support (Decisions and Appeals) Regulations 1999[^key-d271cdf59c91c48948070613dbde183e]
+### 17. Amendment to the Social Security and Child Support (Decisions and Appeals) Regulations 1999[^c-d271cdf59c91c48948070613dbde183e]
 
 In regulation 7 of the Social Security and Child Support (Decisions and Appeals) Regulations 1999[^f00038] (date from which a decision superseded under section 10 takes effect), in paragraph (7)(b)(ii)(aa), after “Income Support Regulations” insert “, regulation 2 of the Jobseeker’s Allowance Regulations”.
 
-### 18. Amendments to the Social Fund Winter Fuel Payment Regulations 2000[^key-b485ce02e4dd31982ca3c783dd56ec78]
+### 18. Amendments to the Social Fund Winter Fuel Payment Regulations 2000[^c-b485ce02e4dd31982ca3c783dd56ec78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Amendment to the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001[^key-891b0372ceceb3d6432e8da7e9868043]
+### 19. Amendment to the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001[^c-891b0372ceceb3d6432e8da7e9868043]
 
 In regulation 1(2) (interpretation) of the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001[^f00041], in the definition of “official error” for “sub-paragraphs (a) to (c)” substitute “sub-paragraph (a) or (b)”.
 
-### 20. Amendments to the Employment and Support Allowance Regulations[^key-625ce88955e95687ad2b86cfb9a61405][^key-e7c18a809e7dda6b255dd94c2d1aaaaa]
+### 20. Amendments to the Employment and Support Allowance Regulations[^c-625ce88955e95687ad2b86cfb9a61405][^c-e7c18a809e7dda6b255dd94c2d1aaaaa]
 
-(1)[^key-625ce88955e95687ad2b86cfb9a61405] The Employment and Support Allowance Regulations are amended as follows.
+(1)[^c-625ce88955e95687ad2b86cfb9a61405] The Employment and Support Allowance Regulations are amended as follows.
 
-(2)[^key-e7c18a809e7dda6b255dd94c2d1aaaaa] In regulation 8(2) (relaxation of the first contribution condition) [^f00042]—
+(2)[^c-e7c18a809e7dda6b255dd94c2d1aaaaa] In regulation 8(2) (relaxation of the first contribution condition) [^f00042]—
 
 - (a) at the end of sub-paragraph (c) add “or”;
 - (b) at the end of sub-paragraph (ca) omit “; or”; and
 - (c) omit sub-paragraph (d).
 
-(3)[^key-625ce88955e95687ad2b86cfb9a61405] In regulation 14 (meaning of education) [^f00043], after paragraph (2) insert—
+(3)[^c-625ce88955e95687ad2b86cfb9a61405] In regulation 14 (meaning of education) [^f00043], after paragraph (2) insert—
 
 > (2A) Paragraph (2) does not apply to any course of study which the claimant is required to attend for the purpose of meeting a requirement to undertake work-related activity.
 
 .
 
-### 21. Amendment to the Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010[^key-8aaddd5967f37785ee8f43565e02b092]
+### 21. Amendment to the Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010[^c-8aaddd5967f37785ee8f43565e02b092]
 
 In regulation 16 of the Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010[^f00044] (application of other enactments applying to employment and support allowances) after paragraph (1) insert—
 
@@ -411,11 +411,11 @@ Department for Work and Pensions
 
 8th March 2012
 
-## SCHEDULE — Powers exercised by the Secretary of State in the making of these Regulations[^key-69d2133fc61b0a8b68ab49779909486f]
+## SCHEDULE — Powers exercised by the Secretary of State in the making of these Regulations[^c-69d2133fc61b0a8b68ab49779909486f]
 
 Preamble
 
-[^key-69d2133fc61b0a8b68ab49779909486f]
+[^c-69d2133fc61b0a8b68ab49779909486f]
 
 - Sections 123(1)(a), (d) and (e), 124(1)(d) and (e), 131(3)(b), 136(3) and (5)(b), 136A(3), 137(1) and (2)(i), 138(2) and (4) and 175(1), (3) and (4) of the Social Security Contributions and Benefits Act 1992[^f00045]
 - Sections 5(1)(i), (m) and (p), 71(4), 189(1), (4) and (5) and 191 of the Social Security Administration Act 1992[^f00046]
@@ -473,9 +473,9 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^f00002]: Footnote: *See* section 176(1) of the Social Security Administration Act 1992.
 
-[^key-f6d4058ff28932848471f96928f8e914]: Commencement: Reg. 1 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
+[^c-f6d4058ff28932848471f96928f8e914]: Commencement: Reg. 1 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
 
-[^key-edd5d875328f5af8c143a1426579f78d]: Commencement: Reg. 2 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
+[^c-edd5d875328f5af8c143a1426579f78d]: Commencement: Reg. 2 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
 
 [^f00003]: Footnote: [S.I.2006/215](https://www.legislation.gov.uk/uksi/2006/215).
 
@@ -485,7 +485,7 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^f00006]: Footnote: S.I.987/1967.
 
-[^key-77a2c4122a6b08deae7310a2caf42a26]: Commencement: Reg. 3 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
+[^c-77a2c4122a6b08deae7310a2caf42a26]: Commencement: Reg. 3 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
 
 [^f00007]: Footnote: The definition of “paternity leave” is inserted by [S.I.2002/2689](https://www.legislation.gov.uk/uksi/2002/2689).
 
@@ -497,7 +497,7 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^f00011]: Footnote: Paragraph 4A is inserted by [S.I.1988/663](https://www.legislation.gov.uk/uksi/1988/663).
 
-[^key-8c4ec6270b620f0dd9c4dbfe6842fc5a]: Commencement: Reg. 4 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
+[^c-8c4ec6270b620f0dd9c4dbfe6842fc5a]: Commencement: Reg. 4 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
 
 [^f00012]: Footnote: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207).
 
@@ -505,7 +505,7 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^f00014]: Footnote: Paragraphs 4 and 5 are amended by [S.I.2002/2689](https://www.legislation.gov.uk/uksi/2002/2689).
 
-[^key-01a0fca6fb5f223c8f3b79cd750399ec]: Commencement: Reg. 5 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
+[^c-01a0fca6fb5f223c8f3b79cd750399ec]: Commencement: Reg. 5 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
 
 [^f00015]: Footnote: [S.I.2002/1792](https://www.legislation.gov.uk/uksi/2002/1792).
 
@@ -515,23 +515,23 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^f00018]: Footnote: Regulation 17A is inserted by [S.I.2002/3019](https://www.legislation.gov.uk/uksi/2002/3019) and amended by [S.I.2002/3197](https://www.legislation.gov.uk/uksi/2002/3197).
 
-[^key-08b7dc42d23aadd2df0b119593e2c2af]: Commencement: Reg. 6 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
+[^c-08b7dc42d23aadd2df0b119593e2c2af]: Commencement: Reg. 6 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
 
-[^key-b8bca9e442c62555360e70c535c49b67]: Commencement: Reg. 7 in force at 1.4.2012 for specified purposes, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/2/b)
+[^c-b8bca9e442c62555360e70c535c49b67]: Commencement: Reg. 7 in force at 1.4.2012 for specified purposes, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/2/b)
 
-[^key-2c1558a7d1d7fbbeba6d0bba6075ff42]: Commencement: Reg. 7 in force at 2.4.2012 in so far as not already in force, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/2/a)
+[^c-2c1558a7d1d7fbbeba6d0bba6075ff42]: Commencement: Reg. 7 in force at 2.4.2012 in so far as not already in force, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/2/a)
 
 [^f00019]: Footnote: Sections 171ZEA and 171ZEB are inserted by the Schedule to the Work and Families Act [2006 (c.18)](https://www.legislation.gov.uk/ukpga/2006/18).
 
-[^key-aac2cdb2337b23c697e1dd1e273eefc7]: Commencement: Reg. 8 in force at 1.4.2012 for specified purposes, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/2/b)
+[^c-aac2cdb2337b23c697e1dd1e273eefc7]: Commencement: Reg. 8 in force at 1.4.2012 for specified purposes, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/2/b)
 
-[^key-528a8e74ebed5f035549035a02bdf212]: Commencement: Reg. 8 in force at 2.4.2012 in so far as not already in force, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/2/a)
+[^c-528a8e74ebed5f035549035a02bdf212]: Commencement: Reg. 8 in force at 2.4.2012 in so far as not already in force, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/2/a)
 
 [^f00020]: Footnote: [S.I.2006/214](https://www.legislation.gov.uk/uksi/2006/214).
 
-[^key-2bcacaa552672b3cf7a49e66d7a0e066]: Commencement: Reg. 9 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
+[^c-2bcacaa552672b3cf7a49e66d7a0e066]: Commencement: Reg. 9 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
 
-[^key-cb9e9b6dbb951db4cc1ede5808ac02b5]: Commencement: Reg. 10 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
+[^c-cb9e9b6dbb951db4cc1ede5808ac02b5]: Commencement: Reg. 10 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
 
 [^f00021]: Footnote: [S.I.2006/216](https://www.legislation.gov.uk/uksi/2006/216).
 
@@ -539,25 +539,25 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^f00023]: Footnote: Sections 80AA and 80BB are inserted by section 3 of the Work and Families Act [2006 (c.18)](https://www.legislation.gov.uk/ukpga/2006/18).
 
-[^key-09533facd9087e20a8f20280efd8b3d1]: Commencement: Reg. 11 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
+[^c-09533facd9087e20a8f20280efd8b3d1]: Commencement: Reg. 11 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
 
 [^f00024]: Footnote: Schedule 1B is inserted by [S.I.1996/206](https://www.legislation.gov.uk/uksi/1996/206). Paragraph 15A is inserted by [S.I.2009/583](https://www.legislation.gov.uk/uksi/2009/583) and amended by [S.I.2009/2665](https://www.legislation.gov.uk/uksi/2009/2665).
 
-[^key-f88c8ad1db9f7e3e2f2b5736b72534b0]: Commencement: Reg. 12 in force at 1.4.2012 for specified purposes, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/2/b)
+[^c-f88c8ad1db9f7e3e2f2b5736b72534b0]: Commencement: Reg. 12 in force at 1.4.2012 for specified purposes, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/2/b)
 
-[^key-70272c2e5e2072b85c9794b610e9eac9]: Commencement: Reg. 12 in force at 2.4.2012 in so far as not already in force, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/2/a)
+[^c-70272c2e5e2072b85c9794b610e9eac9]: Commencement: Reg. 12 in force at 2.4.2012 in so far as not already in force, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/2/a)
 
 [^f00025]: Footnote: Regulation 56(2)(h) is substituted by [S.I. 2006/718](https://www.legislation.gov.uk/uksi/2006/718) and amended by [S.I.2009/583](https://www.legislation.gov.uk/uksi/2009/583). Paragraph (2A) is inserted by [S.I. 2009/583](https://www.legislation.gov.uk/uksi/2009/583) and amended by [S.I.2010/641](https://www.legislation.gov.uk/uksi/2010/641). There are other amendments to regulation 56 which are not material to these Regulations.
 
-[^key-472c2b0f8bc43f26f06885345fe15d0e]: Commencement: Reg. 13 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
+[^c-472c2b0f8bc43f26f06885345fe15d0e]: Commencement: Reg. 13 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
 
 [^f00026]: Footnote: Regulation 45(3)(h) is substituted by [S.I.2006/718](https://www.legislation.gov.uk/uksi/2006/718) and amended by [S.I.2009/583](https://www.legislation.gov.uk/uksi/2009/583). Paragraph (3A) is inserted by [S.I. 2009/583](https://www.legislation.gov.uk/uksi/2009/583) and amended by [S.I.2010/641](https://www.legislation.gov.uk/uksi/2010/641). There are other amendments to regulation 45 which are not material to these Regulations.
 
-[^key-0e3ebaa5684fbe3c1a291a155c29f5f2]: Commencement: Reg. 14 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
+[^c-0e3ebaa5684fbe3c1a291a155c29f5f2]: Commencement: Reg. 14 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
 
 [^f00027]: Footnote: Regulation 13(3) is amended by [S.I.1991/1559](https://www.legislation.gov.uk/uksi/1991/1559), and, in relation to England and Wales, by [S.I.1992/4680](https://www.legislation.gov.uk/uksi/1992/4680).
 
-[^key-fa2736de4fada5b5d8168f3b1b665ab0]: Commencement: Reg. 15 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
+[^c-fa2736de4fada5b5d8168f3b1b665ab0]: Commencement: Reg. 15 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
 
 [^f00028]: Footnote: [S.I.1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).
 
@@ -577,33 +577,33 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^f00036]: Footnote: Paragraph 8(4) is added by [S.I. 2006/2377](https://www.legislation.gov.uk/uksi/2006/2377) and amended by [S.I.2008/1554](https://www.legislation.gov.uk/uksi/2008/1554) and [2010/1907](https://www.legislation.gov.uk/uksi/2010/1907).
 
-[^key-1a5b14b71b46491b09a68ae3cef1c4b1]: Commencement: Reg. 16 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
+[^c-1a5b14b71b46491b09a68ae3cef1c4b1]: Commencement: Reg. 16 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
 
 [^f00037]: Footnote: [S.I.1988/664](https://www.legislation.gov.uk/uksi/1988/664). Regulation 11 is amended by [S.I.1999/2571](https://www.legislation.gov.uk/uksi/1999/2571) and [2005/34](https://www.legislation.gov.uk/uksi/2005/34).
 
-[^key-d271cdf59c91c48948070613dbde183e]: Commencement: Reg. 17 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
+[^c-d271cdf59c91c48948070613dbde183e]: Commencement: Reg. 17 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
 
 [^f00038]: Footnote: [S.I.1999/991](https://www.legislation.gov.uk/uksi/1999/991). Regulation 7(7) is substituted by [S.I.2006/832](https://www.legislation.gov.uk/uksi/2006/832).
 
-[^key-b485ce02e4dd31982ca3c783dd56ec78]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2012/757/regulation/18) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2)
+[^c-b485ce02e4dd31982ca3c783dd56ec78]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2012/757/regulation/18) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2)
 
-[^key-891b0372ceceb3d6432e8da7e9868043]: Commencement: Reg. 19 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
+[^c-891b0372ceceb3d6432e8da7e9868043]: Commencement: Reg. 19 in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
 
 [^f00041]: Footnote: [S.I. 2001/1002](https://www.legislation.gov.uk/uksi/2001/1002).
 
-[^key-625ce88955e95687ad2b86cfb9a61405]: Commencement: Reg. 20(1)(3) in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
+[^c-625ce88955e95687ad2b86cfb9a61405]: Commencement: Reg. 20(1)(3) in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
 
-[^key-e7c18a809e7dda6b255dd94c2d1aaaaa]: Commencement: [Reg. 20(2)](https://www.legislation.gov.uk/uksi/2012/757/regulation/20/2) in force at 1.5.2012, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/3)
+[^c-e7c18a809e7dda6b255dd94c2d1aaaaa]: Commencement: [Reg. 20(2)](https://www.legislation.gov.uk/uksi/2012/757/regulation/20/2) in force at 1.5.2012, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/3)
 
 [^f00042]: Footnote: Regulation 8 is amended by [S.I.2010/2446](https://www.legislation.gov.uk/uksi/2010/2446) and by [S.I.2011/2862](https://www.legislation.gov.uk/uksi/2011/2862).
 
 [^f00043]: Footnote: [S.I.2008/794](https://www.legislation.gov.uk/uksi/2008/794).
 
-[^key-8aaddd5967f37785ee8f43565e02b092]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2012/757/regulation/21) in force at 1.5.2012, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/3)
+[^c-8aaddd5967f37785ee8f43565e02b092]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2012/757/regulation/21) in force at 1.5.2012, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/3)
 
 [^f00044]: Footnote: [S.I.2010/1907](https://www.legislation.gov.uk/uksi/2010/1907) as amended by [S.I.2010/2430](https://www.legislation.gov.uk/uksi/2010/2430) and [S.I.2011/2425](https://www.legislation.gov.uk/uksi/2011/2425).
 
-[^key-69d2133fc61b0a8b68ab49779909486f]: Commencement: Sch. in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
+[^c-69d2133fc61b0a8b68ab49779909486f]: Commencement: Sch. in force at 1.4.2012, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4)
 
 [^f00045]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Sections 123(1)(e) and 131 are substituted respectively by paragraphs 1(1) and 4 of Schedule 9 to the Local Government Finance Act [1992 (c.14)](https://www.legislation.gov.uk/ukpga/1992/14) for the purpose of council tax benefit. Section 124(1)(d) is substituted and section 124(1)(e) added respectively by paragraph 30(4) and (5) of Schedule 2 to the Jobseekers Act [1995 (c.18)](https://www.legislation.gov.uk/ukpga/1995/18). Section 136A is inserted by paragraph 3 of Schedule 2 to the State Pension Credit Act [2002 (c.16)](https://www.legislation.gov.uk/ukpga/2002/16). Sections 137(1) and 138(4) are interpretation provisions and are cited for the meaning of the word “prescribed”. Section 175(1) and (4) are amended by paragraph 29 of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc) Act [1999 (c.2.)](https://www.legislation.gov.uk/ukpga/1999/2)
 

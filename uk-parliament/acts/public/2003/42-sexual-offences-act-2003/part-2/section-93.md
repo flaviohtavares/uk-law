@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Abolished homosexual offences (Extent: N.I.) (affected by repeal, see note)Acts which are no longer offences (Extent: N.I.)[^key-a70e1390f8ce2c17e2ed8c58fbcd5419]
+## 93. Abolished homosexual offences (Extent: N.I.) (affected by repeal, see note)Acts which are no longer offences (Extent: N.I.)[^c-a70e1390f8ce2c17e2ed8c58fbcd5419]
 
 *Extent: E+W+N.I.*
 
-Schedule 4 (procedure for ending notification requirements for abolished homosexual offences *(Extent: N.I.)* *(affected by repeal, see note)*[^key-516857ad994aec5f60e83f32528d305c] acts which are no longer offences *(Extent: N.I.)*) has effect.
+Schedule 4 (procedure for ending notification requirements for abolished homosexual offences *(Extent: N.I.)* *(affected by repeal, see note)*[^c-516857ad994aec5f60e83f32528d305c] acts which are no longer offences *(Extent: N.I.)*) has effect.
 
 ## Annotations
 
-[^key-a70e1390f8ce2c17e2ed8c58fbcd5419]: Textual amendment: S. 93 heading substituted (N.I.) (26.4.2013) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 3(2)(a)](https://www.legislation.gov.uk/nia/2013/7/section/3/2/a), [15(1)](https://www.legislation.gov.uk/nia/2013/7/section/15/1)
+[^c-a70e1390f8ce2c17e2ed8c58fbcd5419]: Textual amendment: S. 93 heading substituted (N.I.) (26.4.2013) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 3(2)(a)](https://www.legislation.gov.uk/nia/2013/7/section/3/2/a), [15(1)](https://www.legislation.gov.uk/nia/2013/7/section/15/1)
 
-[^key-516857ad994aec5f60e83f32528d305c]: Textual amendment: Words in s. 93 substituted (N.I.) (26.4.2013) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 3(2)(b)](https://www.legislation.gov.uk/nia/2013/7/section/3/2/b), [15(1)](https://www.legislation.gov.uk/nia/2013/7/section/15/1)
+[^c-516857ad994aec5f60e83f32528d305c]: Textual amendment: Words in s. 93 substituted (N.I.) (26.4.2013) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 3(2)(b)](https://www.legislation.gov.uk/nia/2013/7/section/3/2/b), [15(1)](https://www.legislation.gov.uk/nia/2013/7/section/15/1)

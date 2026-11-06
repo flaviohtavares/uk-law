@@ -41,9 +41,9 @@ summary: ''
 
   to a room;
 - “**Fixed building service**” means any part of or any controls associated with—
-  - (a) fixed internal or external lighting systems, but does not include emergency escape lighting or specialist process lighting; [^key-c4606fb14029efae173a10567ef2059b]...
-  - (b) fixed systems for heating (but excluding process heating), hot water service, air conditioning or mechanical ventilation; or[^key-27ceb9c51b27848ab25cbb57fc82bc65]
-  - (c) any combination of systems of the kinds referred to in paragraphs (a) and (b);[^key-28f585b689a54e6f7a51114ad66385f1]
+  - (a) fixed internal or external lighting systems, but does not include emergency escape lighting or specialist process lighting; [^c-c4606fb14029efae173a10567ef2059b]...
+  - (b) fixed systems for heating (but excluding process heating), hot water service, air conditioning or mechanical ventilation; or[^c-27ceb9c51b27848ab25cbb57fc82bc65]
+  - (c) any combination of systems of the kinds referred to in paragraphs (a) and (b);[^c-28f585b689a54e6f7a51114ad66385f1]
 - “**Flat**” means a dwelling on one or more storeys forming part of a building from some other part of which it is divided horizontally and includes a maisonette;
 - “**Floor area**” means, in relation to any building or part of that building, the aggregate area of every floor in that building or part of that building, calculated by reference to the finished internal faces of the walls enclosing the building or extension, or if at any point there is no such wall, by reference to the outermost edge of the floor;
 - “**Functional regulation**” means any regulation that sets a requirement but does not prescribe in the regulation a specific standard that should be attained;
@@ -120,18 +120,18 @@ summary: ''
 | m<sup>3</sup> | cubic metre |
 | mm | millimetre |
 | % | percent |
-| Mbps[^key-2b8fdd6875b9645cb82f06131f6f8723] | Megabits per second[^key-abf4a3bfededf19046fcf13df0d16e14] |
+| Mbps[^c-2b8fdd6875b9645cb82f06131f6f8723] | Megabits per second[^c-abf4a3bfededf19046fcf13df0d16e14] |
 
 ## Annotations
 
 [^c21256511]: Marginal citation: [S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594) Article 2 as amended by [S.I. 2005/1963 (N.I. 13)](https://www.legislation.gov.uk/nisi/2005/1963) Article 14(1) and Schedule 3, para. 2
 
-[^key-c4606fb14029efae173a10567ef2059b]: Textual amendment: Word in reg. 2(1)(a) deleted (25.2.2014) by [The Building (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/44)](https://www.legislation.gov.uk/nisr/2014/44), [regs. 1](https://www.legislation.gov.uk/nisr/2014/44/regulation/1), [5(1)(a)](https://www.legislation.gov.uk/nisr/2014/44/regulation/5/1/a) (with [reg. 3](https://www.legislation.gov.uk/nisr/2014/44/regulation/3))
+[^c-c4606fb14029efae173a10567ef2059b]: Textual amendment: Word in reg. 2(1)(a) deleted (25.2.2014) by [The Building (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/44)](https://www.legislation.gov.uk/nisr/2014/44), [regs. 1](https://www.legislation.gov.uk/nisr/2014/44/regulation/1), [5(1)(a)](https://www.legislation.gov.uk/nisr/2014/44/regulation/5/1/a) (with [reg. 3](https://www.legislation.gov.uk/nisr/2014/44/regulation/3))
 
-[^key-27ceb9c51b27848ab25cbb57fc82bc65]: Textual amendment: Word in reg. 2(1)(b) inserted (25.2.2014) by [The Building (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/44)](https://www.legislation.gov.uk/nisr/2014/44), [regs. 1](https://www.legislation.gov.uk/nisr/2014/44/regulation/1), [5(1)(b)](https://www.legislation.gov.uk/nisr/2014/44/regulation/5/1/b) (with [reg. 3](https://www.legislation.gov.uk/nisr/2014/44/regulation/3))
+[^c-27ceb9c51b27848ab25cbb57fc82bc65]: Textual amendment: Word in reg. 2(1)(b) inserted (25.2.2014) by [The Building (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/44)](https://www.legislation.gov.uk/nisr/2014/44), [regs. 1](https://www.legislation.gov.uk/nisr/2014/44/regulation/1), [5(1)(b)](https://www.legislation.gov.uk/nisr/2014/44/regulation/5/1/b) (with [reg. 3](https://www.legislation.gov.uk/nisr/2014/44/regulation/3))
 
-[^key-28f585b689a54e6f7a51114ad66385f1]: Textual amendment: Reg. 2(1)(c) inserted (25.2.2014) by [The Building (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/44)](https://www.legislation.gov.uk/nisr/2014/44), [regs. 1](https://www.legislation.gov.uk/nisr/2014/44/regulation/1), [5(1)(c)](https://www.legislation.gov.uk/nisr/2014/44/regulation/5/1/c) (with [reg. 3](https://www.legislation.gov.uk/nisr/2014/44/regulation/3))
+[^c-28f585b689a54e6f7a51114ad66385f1]: Textual amendment: Reg. 2(1)(c) inserted (25.2.2014) by [The Building (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/44)](https://www.legislation.gov.uk/nisr/2014/44), [regs. 1](https://www.legislation.gov.uk/nisr/2014/44/regulation/1), [5(1)(c)](https://www.legislation.gov.uk/nisr/2014/44/regulation/5/1/c) (with [reg. 3](https://www.legislation.gov.uk/nisr/2014/44/regulation/3))
 
-[^key-2b8fdd6875b9645cb82f06131f6f8723]: Textual amendment: Word in reg. 2(7) Table inserted (28.11.2016) by [The Building (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/412)](https://www.legislation.gov.uk/nisr/2016/412), [regs. 1](https://www.legislation.gov.uk/nisr/2016/412/regulation/1), [5(1)(a)](https://www.legislation.gov.uk/nisr/2016/412/regulation/5/1/a) (with [reg. 3](https://www.legislation.gov.uk/nisr/2016/412/regulation/3))
+[^c-2b8fdd6875b9645cb82f06131f6f8723]: Textual amendment: Word in reg. 2(7) Table inserted (28.11.2016) by [The Building (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/412)](https://www.legislation.gov.uk/nisr/2016/412), [regs. 1](https://www.legislation.gov.uk/nisr/2016/412/regulation/1), [5(1)(a)](https://www.legislation.gov.uk/nisr/2016/412/regulation/5/1/a) (with [reg. 3](https://www.legislation.gov.uk/nisr/2016/412/regulation/3))
 
-[^key-abf4a3bfededf19046fcf13df0d16e14]: Textual amendment: Words in reg. 2(7) Table inserted (28.11.2016) by [The Building (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/412)](https://www.legislation.gov.uk/nisr/2016/412), [regs. 1](https://www.legislation.gov.uk/nisr/2016/412/regulation/1), [5(1)(b)](https://www.legislation.gov.uk/nisr/2016/412/regulation/5/1/b) (with [reg. 3](https://www.legislation.gov.uk/nisr/2016/412/regulation/3))
+[^c-abf4a3bfededf19046fcf13df0d16e14]: Textual amendment: Words in reg. 2(7) Table inserted (28.11.2016) by [The Building (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/412)](https://www.legislation.gov.uk/nisr/2016/412), [regs. 1](https://www.legislation.gov.uk/nisr/2016/412/regulation/1), [5(1)(b)](https://www.legislation.gov.uk/nisr/2016/412/regulation/5/1/b) (with [reg. 3](https://www.legislation.gov.uk/nisr/2016/412/regulation/3))

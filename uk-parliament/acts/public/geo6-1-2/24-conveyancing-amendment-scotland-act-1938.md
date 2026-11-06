@@ -58,7 +58,7 @@ In subsection (1) of section seventeen of the Act of 1924, after the words “fo
 
 ## 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c589464]
 
-## 6. Provisions as to actions of declarator of irritancy.[^key-ba353de7156db8c7d08628e738f0703c]
+## 6. Provisions as to actions of declarator of irritancy.[^c-ba353de7156db8c7d08628e738f0703c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -71,11 +71,11 @@ In subsection (1) of section seventeen of the Act of 1924, after the words “fo
 
 (2)[^c589474] the Act of 1924 shall be amended by the addition after Schedule N thereto of a schedule in the form contained in the Schedule to this Act.
 
-## 8. Prohibition of subinfeudation annulled.[^key-26f04ee51a1aafe827f50ce869744ff9]
+## 8. Prohibition of subinfeudation annulled.[^c-26f04ee51a1aafe827f50ce869744ff9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Limitation of effect of conditions as to pre-emption.[^key-e6a493d89c7ebe9d06f0ad4afc6179c7]
+## 9. Limitation of effect of conditions as to pre-emption.[^c-e6a493d89c7ebe9d06f0ad4afc6179c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -133,15 +133,15 @@ With reference to the bond and disposition in security for the sum of (*insert d
 
 [^c589464]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/Geo6/1-2/24/section/5) repealed with savings by [Succession (Scotland) Act 1964 (c. 41)](https://www.legislation.gov.uk/ukpga/1964/41), [s. 34](https://www.legislation.gov.uk/ukpga/1964/41/section/34), [Sch. 3](https://www.legislation.gov.uk/ukpga/1964/41/schedule/3)
 
-[^key-ba353de7156db8c7d08628e738f0703c]: Textual amendment: S. 6 repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 18(2)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/18/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-ba353de7156db8c7d08628e738f0703c]: Textual amendment: S. 6 repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 18(2)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/18/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c589474]: Modification: The text of S. 2(1)(2), S. 4, 7(1), 7(2), Sch. is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
 [^c589475]: Marginal citation: 19 & 20 Vict. c. 79.
 
-[^key-26f04ee51a1aafe827f50ce869744ff9]: Textual amendment: S. 8 repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 18(2)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/18/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-26f04ee51a1aafe827f50ce869744ff9]: Textual amendment: S. 8 repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 18(2)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/18/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
-[^key-e6a493d89c7ebe9d06f0ad4afc6179c7]: Textual amendment: S. 9 repealed (28.11.2004) by [Title Conditions (Scotland) Act 2003 (asp 9)](https://www.legislation.gov.uk/asp/2003/9), [ss. 122(1)](https://www.legislation.gov.uk/asp/2003/9/section/122/1), [129(2)](https://www.legislation.gov.uk/asp/2003/9/section/129/2), [Sch. 15](https://www.legislation.gov.uk/asp/2003/9/schedule/15) (with [ss. 119](https://www.legislation.gov.uk/asp/2003/9/section/119), [121](https://www.legislation.gov.uk/asp/2003/9/section/121)) (see [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), art. 2)
+[^c-e6a493d89c7ebe9d06f0ad4afc6179c7]: Textual amendment: S. 9 repealed (28.11.2004) by [Title Conditions (Scotland) Act 2003 (asp 9)](https://www.legislation.gov.uk/asp/2003/9), [ss. 122(1)](https://www.legislation.gov.uk/asp/2003/9/section/122/1), [129(2)](https://www.legislation.gov.uk/asp/2003/9/section/129/2), [Sch. 15](https://www.legislation.gov.uk/asp/2003/9/schedule/15) (with [ss. 119](https://www.legislation.gov.uk/asp/2003/9/section/119), [121](https://www.legislation.gov.uk/asp/2003/9/section/121)) (see [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), art. 2)
 
 [^c589483]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/Geo6/1-2/24/section/10) repealed with savings by [Succession (Scotland) Act 1964 (c. 41)](https://www.legislation.gov.uk/ukpga/1964/41), [ss.1(1)](https://www.legislation.gov.uk/ukpga/1964/41/section/1/1), [34(2)](https://www.legislation.gov.uk/ukpga/1964/41/section/34/2), [Sch.3](https://www.legislation.gov.uk/ukpga/1964/41/schedule/3)
 

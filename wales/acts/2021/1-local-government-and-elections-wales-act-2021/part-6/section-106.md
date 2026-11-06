@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 106. Direction to take or not to take etc. a specified step[^key-c4b67007a5f39286a453e0b862078316]
+## 106. Direction to take or not to take etc. a specified step[^c-c4b67007a5f39286a453e0b862078316]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4b67007a5f39286a453e0b862078316]: Commencement: S. 106 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)
+[^c-c4b67007a5f39286a453e0b862078316]: Commencement: S. 106 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)

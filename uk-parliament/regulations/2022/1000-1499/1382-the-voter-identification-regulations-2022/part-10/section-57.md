@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Amendment of article 13A (combination of polls: National Assembly for Wales)[^key-26bdfa05a946b4d88e0f58620cdd96a2]
+## 57. Amendment of article 13A (combination of polls: National Assembly for Wales)[^c-26bdfa05a946b4d88e0f58620cdd96a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In article 13A—
 
 ## Annotations
 
-[^key-26bdfa05a946b4d88e0f58620cdd96a2]: Commencement: Reg. 57 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-26bdfa05a946b4d88e0f58620cdd96a2]: Commencement: Reg. 57 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

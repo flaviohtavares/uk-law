@@ -43,26 +43,26 @@ Coming into force
 
 6th March 2002
 
-[^key-4b1ce5cff701edcec796aa680f4b5bce][^key-f946d0eb908675eb631a8a8192d4890c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b1ce5cff701edcec796aa680f4b5bce][^c-f946d0eb908675eb631a8a8192d4890c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, extent and commencement[^key-4b1ce5cff701edcec796aa680f4b5bce][^key-f946d0eb908675eb631a8a8192d4890c]
+## 1. Title, extent and commencement[^c-4b1ce5cff701edcec796aa680f4b5bce][^c-f946d0eb908675eb631a8a8192d4890c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Animals and Animal Products (Import and Export) (England and Wales) Regulations 2000[^key-4b1ce5cff701edcec796aa680f4b5bce][^key-f946d0eb908675eb631a8a8192d4890c]
+## 2. Amendment of the Animals and Animal Products (Import and Export) (England and Wales) Regulations 2000[^c-4b1ce5cff701edcec796aa680f4b5bce][^c-f946d0eb908675eb631a8a8192d4890c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4b1ce5cff701edcec796aa680f4b5bce][^key-f946d0eb908675eb631a8a8192d4890c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b1ce5cff701edcec796aa680f4b5bce][^c-f946d0eb908675eb631a8a8192d4890c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4b1ce5cff701edcec796aa680f4b5bce][^key-f946d0eb908675eb631a8a8192d4890c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b1ce5cff701edcec796aa680f4b5bce][^c-f946d0eb908675eb631a8a8192d4890c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4b1ce5cff701edcec796aa680f4b5bce]: Textual amendment: Regulations revoked (E.) (13.4.2004) by [The Animals and Animal Products (Import and Export) Regulations 2004 (S.I. 2004/853)](https://www.legislation.gov.uk/uksi/2004/853), [reg. 35(f)](https://www.legislation.gov.uk/uksi/2004/853/regulation/35/f)
+[^c-4b1ce5cff701edcec796aa680f4b5bce]: Textual amendment: Regulations revoked (E.) (13.4.2004) by [The Animals and Animal Products (Import and Export) Regulations 2004 (S.I. 2004/853)](https://www.legislation.gov.uk/uksi/2004/853), [reg. 35(f)](https://www.legislation.gov.uk/uksi/2004/853/regulation/35/f)
 
-[^key-f946d0eb908675eb631a8a8192d4890c]: Textual amendment: Regulations revoked (W.) (30.4.2005) by [The Animals and Animal Products (Import and Export) (Wales) Regulations 2005 (S.I. 2005/1158)](https://www.legislation.gov.uk/uksi/2005/1158), [reg. 35(f)](https://www.legislation.gov.uk/uksi/2005/1158/regulation/35/f) (with [reg. 2](https://www.legislation.gov.uk/uksi/2005/1158/regulation/2))
+[^c-f946d0eb908675eb631a8a8192d4890c]: Textual amendment: Regulations revoked (W.) (30.4.2005) by [The Animals and Animal Products (Import and Export) (Wales) Regulations 2005 (S.I. 2005/1158)](https://www.legislation.gov.uk/uksi/2005/1158), [reg. 35(f)](https://www.legislation.gov.uk/uksi/2005/1158/regulation/35/f) (with [reg. 2](https://www.legislation.gov.uk/uksi/2005/1158/regulation/2))

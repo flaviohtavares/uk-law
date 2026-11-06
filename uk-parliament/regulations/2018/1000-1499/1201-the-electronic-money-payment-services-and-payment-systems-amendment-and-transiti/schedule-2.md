@@ -228,7 +228,7 @@ Regulation 3(1)
   ;
 - (c) for sub-paragraphs (2) and (3) substitute—
 
-  > (2) A Gibraltar-based firm is to be treated as having an entitlement, corresponding to the passport right deriving from the electronic money directive that such a firm had immediately before IP completion day[^key-1ff0111ecd87c8fa1c414c81ff524346], to establish a branch or provide services in the United Kingdom.
+  > (2) A Gibraltar-based firm is to be treated as having an entitlement, corresponding to the passport right deriving from the electronic money directive that such a firm had immediately before IP completion day[^c-1ff0111ecd87c8fa1c414c81ff524346], to establish a branch or provide services in the United Kingdom.
   >
   > (2A) Despite their amendment or revocation by the Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018, the provisions of these Regulations listed in sub-paragraph (2B), as they had effect immediately before IP completion day, continue to apply for the purposes of this paragraph.
   >
@@ -258,10 +258,10 @@ Regulation 3(1)
 
 (5) In paragraph 2—
 
-- (a) in sub-paragraph (1) for “its passport right,” substitute “ the passport right that such a firm had immediately before IP completion day[^key-9c30fbf27daa1993525aac504a9aeb57],”;
+- (a) in sub-paragraph (1) for “its passport right,” substitute “ the passport right that such a firm had immediately before IP completion day[^c-9c30fbf27daa1993525aac504a9aeb57],”;
 - (b) after sub-paragraph (1) insert—
 
-  > (1A) Despite their amendment or revocation by the Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018, the provisions of these Regulations listed in sub-paragraph (1B), as they had effect immediately before IP completion day[^key-411132504f642dc85f46aa14efb5c357], continue to apply for the purposes of this paragraph.
+  > (1A) Despite their amendment or revocation by the Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018, the provisions of these Regulations listed in sub-paragraph (1B), as they had effect immediately before IP completion day[^c-411132504f642dc85f46aa14efb5c357], continue to apply for the purposes of this paragraph.
   >
   > (1B) The provisions referred to in sub-paragraph (1A) are as follows—
   >
@@ -731,7 +731,7 @@ Regulation 3(1)
   ;
 - (b) for sub-paragraphs (2) and (3) substitute—
 
-  > (2) A Gibraltar-based firm is to be treated as having an entitlement, corresponding to the passport right deriving from the payment services directive that such a firm had immediately before IP completion day[^key-935c96abef6c80b59b9a9675779fca12], to establish a branch or provide services in the United Kingdom.
+  > (2) A Gibraltar-based firm is to be treated as having an entitlement, corresponding to the passport right deriving from the payment services directive that such a firm had immediately before IP completion day[^c-935c96abef6c80b59b9a9675779fca12], to establish a branch or provide services in the United Kingdom.
   >
   > (2A) Despite their amendment or revocation by the Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018, the provisions of these Regulations listed in sub-paragraph (2B) continue to apply, as they had effect immediately before IP completion day, for the purposes of this paragraph.
   >
@@ -760,10 +760,10 @@ Regulation 3(1)
 
 (5) In paragraph 2—
 
-- (a) in sub-paragraph (1) for “its passport right,” substitute “ the passport right that such a firm had immediately before IP completion day[^key-9e145abc792c354d440e0d89e67fab97], ”;
+- (a) in sub-paragraph (1) for “its passport right,” substitute “ the passport right that such a firm had immediately before IP completion day[^c-9e145abc792c354d440e0d89e67fab97], ”;
 - (b) after sub-paragraph (1) insert—
 
-  > (1A) Despite their amendment or revocation by the Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018, the provisions of these Regulations listed in sub-paragraph (1B) continue to apply, as they had effect immediately before IP completion day[^key-6b4e4c0c4dc98cafe6c9f4cdf1f57669], for the purposes of this paragraph.
+  > (1A) Despite their amendment or revocation by the Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018, the provisions of these Regulations listed in sub-paragraph (1B) continue to apply, as they had effect immediately before IP completion day[^c-6b4e4c0c4dc98cafe6c9f4cdf1f57669], for the purposes of this paragraph.
   >
   > (1B) The provisions referred to in sub-paragraph (1A) are as follows—
   >
@@ -851,11 +851,11 @@ Regulation 3(1)
 
 [^c23746601]: Commencement: Sch. 2 para. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-1ff0111ecd87c8fa1c414c81ff524346]: Textual amendment: Words in Sch. 2 para. 22(3)(c) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 6(a)(i)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/6/a/i)
+[^c-1ff0111ecd87c8fa1c414c81ff524346]: Textual amendment: Words in Sch. 2 para. 22(3)(c) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 6(a)(i)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/6/a/i)
 
-[^key-9c30fbf27daa1993525aac504a9aeb57]: Textual amendment: Words in Sch. 2 para. 22(5)(a) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 6(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/6/a/ii)
+[^c-9c30fbf27daa1993525aac504a9aeb57]: Textual amendment: Words in Sch. 2 para. 22(5)(a) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 6(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/6/a/ii)
 
-[^key-411132504f642dc85f46aa14efb5c357]: Textual amendment: Words in Sch. 2 para. 22(5)(b) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 6(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/6/a/iii)
+[^c-411132504f642dc85f46aa14efb5c357]: Textual amendment: Words in Sch. 2 para. 22(5)(b) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 6(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/6/a/iii)
 
 [^c23554171]: Commencement: Sch. 2 para. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
@@ -967,8 +967,8 @@ Regulation 3(1)
 
 [^c23746931]: Commencement: Sch. 2 para. 73 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-935c96abef6c80b59b9a9675779fca12]: Textual amendment: Words in Sch. 2 para. 73(3)(b) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 6(b)(i)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/6/b/i)
+[^c-935c96abef6c80b59b9a9675779fca12]: Textual amendment: Words in Sch. 2 para. 73(3)(b) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 6(b)(i)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/6/b/i)
 
-[^key-9e145abc792c354d440e0d89e67fab97]: Textual amendment: Words in Sch. 2 para. 73(5)(a) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 6(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/6/b/ii)
+[^c-9e145abc792c354d440e0d89e67fab97]: Textual amendment: Words in Sch. 2 para. 73(5)(a) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 6(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/6/b/ii)
 
-[^key-6b4e4c0c4dc98cafe6c9f4cdf1f57669]: Textual amendment: Words in Sch. 2 para. 73(5)(b) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 6(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/6/b/iii)
+[^c-6b4e4c0c4dc98cafe6c9f4cdf1f57669]: Textual amendment: Words in Sch. 2 para. 73(5)(b) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 6(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/6/b/iii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Taxation of returning officer’s account[^key-0c75b28237bf2aed8ac4a6b61042d59b]
+## 19. Taxation of returning officer’s account[^c-0c75b28237bf2aed8ac4a6b61042d59b]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c75b28237bf2aed8ac4a6b61042d59b]: Commencement: Art. 19 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-0c75b28237bf2aed8ac4a6b61042d59b]: Commencement: Art. 19 in force at 16.12.2015 in accordance with art. 1(1)

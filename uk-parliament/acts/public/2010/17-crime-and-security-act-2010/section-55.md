@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Power to restrict sale and supply of alcohol[^key-6de02fb081910ed8c4327a2cca800f11]
+## 55. Power to restrict sale and supply of alcohol[^c-6de02fb081910ed8c4327a2cca800f11]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6de02fb081910ed8c4327a2cca800f11]: Textual amendment: S. 55 repealed (31.10.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 119(4)](https://www.legislation.gov.uk/ukpga/2011/13/section/119/4), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2012/2670](https://www.legislation.gov.uk/uksi/2012/2670), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2670/article/2/a)
+[^c-6de02fb081910ed8c4327a2cca800f11]: Textual amendment: S. 55 repealed (31.10.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 119(4)](https://www.legislation.gov.uk/ukpga/2011/13/section/119/4), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2012/2670](https://www.legislation.gov.uk/uksi/2012/2670), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2670/article/2/a)

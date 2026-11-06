@@ -277,10 +277,10 @@ Section 139
 
 .
 
-(4)[^key-f113c6eacec5fcff525f2058693da4a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f113c6eacec5fcff525f2058693da4a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) This paragraph has effect in relation to shares acquired on or after 9th April 2003.
 
 ## Annotations
 
-[^key-f113c6eacec5fcff525f2058693da4a0]: Textual amendment: Sch. 21 para. 18(4) repealed (with effect in accordance with s. 88(11) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(11)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/11)
+[^c-f113c6eacec5fcff525f2058693da4a0]: Textual amendment: Sch. 21 para. 18(4) repealed (with effect in accordance with s. 88(11) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(11)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/11)

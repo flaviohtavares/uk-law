@@ -24,7 +24,7 @@ summary: ''
 
 - (a) regulation 214(1) (prohibition on sale etc of prescription only medicine otherwise than in accordance with prescription from appropriate practitioner);
 - (b) regulation 214(2) (prohibition on parenteral administration of prescription only medicine otherwise than by or under directions of appropriate practitioner);
-- (c) regulation 220 (prohibition on sale etc of medicinal product not subject to general sale [^key-01bca82fbafbeaf1cd502bd14e4d09b8]...);
+- (c) regulation 220 (prohibition on sale etc of medicinal product not subject to general sale [^c-01bca82fbafbeaf1cd502bd14e4d09b8]...);
 - (d) regulation 249 (prohibition on sale of prescription only medicine or pharmacy medicine by way of wholesale dealing to person not within Schedule 22);
 - (e) regulation 251 (compliance with standards specified in certain publications); or
 - (f) regulation 254 (prohibitions concerning traceability of treatment with advanced therapy medicinal products).
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01bca82fbafbeaf1cd502bd14e4d09b8]: Textual amendment: Words in [reg. 255(1)(c)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/255/1/c) omitted (7.1.2026) by virtue of [The Human Medicines (Authorisation by Pharmacists and Supervision by Pharmacy Technicians) Order 2025 (S.I. 2025/1249)](https://www.legislation.gov.uk/uksi/2025/1249), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/2)[(5)(c)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/5/c), [12(14)](https://www.legislation.gov.uk/uksi/2025/1249/article/12/14)
+[^c-01bca82fbafbeaf1cd502bd14e4d09b8]: Textual amendment: Words in [reg. 255(1)(c)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/255/1/c) omitted (7.1.2026) by virtue of [The Human Medicines (Authorisation by Pharmacists and Supervision by Pharmacy Technicians) Order 2025 (S.I. 2025/1249)](https://www.legislation.gov.uk/uksi/2025/1249), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/2)[(5)(c)](https://www.legislation.gov.uk/uksi/2025/1249/article/1/5/c), [12(14)](https://www.legislation.gov.uk/uksi/2025/1249/article/12/14)

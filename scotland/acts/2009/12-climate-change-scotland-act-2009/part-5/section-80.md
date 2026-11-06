@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Recyclable waste: facilities for deposit etc.[^key-8210973560f24a18e2b88a46bb90e3d5]
+## 80. Recyclable waste: facilities for deposit etc.[^c-8210973560f24a18e2b88a46bb90e3d5]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8210973560f24a18e2b88a46bb90e3d5]: Commencement: S. 80 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-8210973560f24a18e2b88a46bb90e3d5]: Commencement: S. 80 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)

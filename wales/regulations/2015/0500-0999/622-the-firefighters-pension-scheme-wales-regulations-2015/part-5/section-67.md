@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Entitlement to retirement pension[^key-139a03e881eac8b923cfc8c747de3caa]
+## 67. Entitlement to retirement pension[^c-139a03e881eac8b923cfc8c747de3caa]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-139a03e881eac8b923cfc8c747de3caa]: Commencement: Reg. 67 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-139a03e881eac8b923cfc8c747de3caa]: Commencement: Reg. 67 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

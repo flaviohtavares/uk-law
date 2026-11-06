@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Notice of appointment[^key-4c6d0d62a15a002f6a79697ce2d5efb2]
+## 21. Notice of appointment[^c-4c6d0d62a15a002f6a79697ce2d5efb2]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where a provisional bank liquidator has been appointed, the court shall notify t
 
 ## Annotations
 
-[^key-4c6d0d62a15a002f6a79697ce2d5efb2]: Commencement: Rule 21 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-4c6d0d62a15a002f6a79697ce2d5efb2]: Commencement: Rule 21 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

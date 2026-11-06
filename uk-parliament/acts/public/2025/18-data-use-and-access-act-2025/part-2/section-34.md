@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Power to refuse registration in the DVS register[^key-b58696af2b838b8c39a051dc53065ac7][^key-5be79df951f084492e2238339815b608]
+## 34. Power to refuse registration in the DVS register[^c-b58696af2b838b8c39a051dc53065ac7][^c-5be79df951f084492e2238339815b608]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b58696af2b838b8c39a051dc53065ac7]: Commencement: S. 34 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-b58696af2b838b8c39a051dc53065ac7]: Commencement: S. 34 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-5be79df951f084492e2238339815b608]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2025/18/section/34) in force at 1.12.2025 by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)
+[^c-5be79df951f084492e2238339815b608]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2025/18/section/34) in force at 1.12.2025 by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)

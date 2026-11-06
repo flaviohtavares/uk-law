@@ -35,18 +35,18 @@ amending Regulation (EU) No 454/2011 on the technical specification for interope
 
 (Text with EEA relevance) (revoked)
 
-[^key-9a7ea8df527e3d8a5175ca75fc608f88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9a7ea8df527e3d8a5175ca75fc608f88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-9a7ea8df527e3d8a5175ca75fc608f88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-9a7ea8df527e3d8a5175ca75fc608f88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-9a7ea8df527e3d8a5175ca75fc608f88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-9a7ea8df527e3d8a5175ca75fc608f88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9a7ea8df527e3d8a5175ca75fc608f88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9a7ea8df527e3d8a5175ca75fc608f88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-9a7ea8df527e3d8a5175ca75fc608f88]
+## ANNEX[^c-9a7ea8df527e3d8a5175ca75fc608f88]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9a7ea8df527e3d8a5175ca75fc608f88]: Textual amendment: Regulation revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)
+[^c-9a7ea8df527e3d8a5175ca75fc608f88]: Textual amendment: Regulation revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)

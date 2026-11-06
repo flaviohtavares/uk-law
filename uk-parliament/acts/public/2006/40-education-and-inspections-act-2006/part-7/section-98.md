@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Parenting orders in case of exclusion or misbehaviour[^key-b06b17d6786028998b36955d776e83e8][^key-f0ac7680f08e6eb7940a690e43d510b6][^key-6f26bfc8a6eb3a45eaf87d858d2e31e1]
+## 98. Parenting orders in case of exclusion or misbehaviour[^c-b06b17d6786028998b36955d776e83e8][^c-f0ac7680f08e6eb7940a690e43d510b6][^c-6f26bfc8a6eb3a45eaf87d858d2e31e1]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) In subsection (1), for “This section” substitute “ Subsection (2) ”.
 
-(3) In subsection (2), for “A local authority[^key-0ea7acc4831332590d0c9da4689eca3c]” substitute “ A relevant body ”.
+(3) In subsection (2), for “A local authority[^c-0ea7acc4831332590d0c9da4689eca3c]” substitute “ A relevant body ”.
 
 (4) After subsection (2) insert—
 
@@ -56,10 +56,10 @@ summary: ''
 
 ## Annotations
 
-[^key-b06b17d6786028998b36955d776e83e8]: Commencement: S. 98 in force at 1.9.2007 for E. by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c)
+[^c-b06b17d6786028998b36955d776e83e8]: Commencement: S. 98 in force at 1.9.2007 for E. by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c)
 
-[^key-f0ac7680f08e6eb7940a690e43d510b6]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2006/40/section/98) in force at 31.10.2010 for specified purposes for W. by [S.I. 2010/2543](https://www.legislation.gov.uk/wsi/2010/2543), [art. 2(h)](https://www.legislation.gov.uk/wsi/2010/2543/article/2/h)
+[^c-f0ac7680f08e6eb7940a690e43d510b6]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2006/40/section/98) in force at 31.10.2010 for specified purposes for W. by [S.I. 2010/2543](https://www.legislation.gov.uk/wsi/2010/2543), [art. 2(h)](https://www.legislation.gov.uk/wsi/2010/2543/article/2/h)
 
-[^key-6f26bfc8a6eb3a45eaf87d858d2e31e1]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2006/40/section/98) in force at 5.1.2011 for W. in so far as not already in force by [S.I. 2010/2543](https://www.legislation.gov.uk/wsi/2010/2543), [art. 3(a)](https://www.legislation.gov.uk/wsi/2010/2543/article/3/a)
+[^c-6f26bfc8a6eb3a45eaf87d858d2e31e1]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2006/40/section/98) in force at 5.1.2011 for W. in so far as not already in force by [S.I. 2010/2543](https://www.legislation.gov.uk/wsi/2010/2543), [art. 3(a)](https://www.legislation.gov.uk/wsi/2010/2543/article/3/a)
 
-[^key-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)
+[^c-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)

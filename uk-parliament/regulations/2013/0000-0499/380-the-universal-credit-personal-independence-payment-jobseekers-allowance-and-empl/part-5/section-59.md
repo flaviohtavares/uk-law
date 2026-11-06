@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 59. Direct payment to lender of deductions in respect of interest on secured loans[^key-043e7036d8bbd9946baf9261b257aeb1]
+## 59. Direct payment to lender of deductions in respect of interest on secured loans[^c-043e7036d8bbd9946baf9261b257aeb1]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-043e7036d8bbd9946baf9261b257aeb1]: Textual amendment: Reg. 59 omitted by S.I. 2017/725, Sch. 5 para. 8(a) (as inserted) (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(18)(e)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/e)
+[^c-043e7036d8bbd9946baf9261b257aeb1]: Textual amendment: Reg. 59 omitted by S.I. 2017/725, Sch. 5 para. 8(a) (as inserted) (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(18)(e)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/e)

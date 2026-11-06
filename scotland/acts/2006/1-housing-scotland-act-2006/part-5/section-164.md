@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 164. Joint licence holders[^key-a065bb70699d25fcefb8a2cd582cbaba]
+## 164. Joint licence holders[^c-a065bb70699d25fcefb8a2cd582cbaba]
 
 *Extent: S*
 
@@ -44,6 +44,6 @@ and references in this Part to an “applicant” or a “licence holder” are 
 
 ## Annotations
 
-[^key-a065bb70699d25fcefb8a2cd582cbaba]: Commencement: S. 164 in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-a065bb70699d25fcefb8a2cd582cbaba]: Commencement: S. 164 in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
 [^c1898087]: Textual amendment: Words in s. 164(3)(b)(iii) substituted (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/475/article/2/1), [Sch. 1 para. 17(2)(3)(d)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/17/2/3/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Statutory authority to override easements and other rights[^key-32c45dc951b76be6e1408a25d82956d1]
+## 19. Statutory authority to override easements and other rights[^c-32c45dc951b76be6e1408a25d82956d1]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ caused by the carrying out or use of the authorised development and the operatio
 
 ## Annotations
 
-[^key-32c45dc951b76be6e1408a25d82956d1]: Commencement: Art. 19 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-32c45dc951b76be6e1408a25d82956d1]: Commencement: Art. 19 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)

@@ -50,7 +50,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (4) Subsection (2) does not apply where specific provision to the contrary is made by Part 2 of Schedule 1.
 
-### 2. Disability Living Allowance Advisory Board for Northern Ireland[^key-5d040012fa1b6f287d00a18394548d17]
+### 2. Disability Living Allowance Advisory Board for Northern Ireland[^c-5d040012fa1b6f287d00a18394548d17]
 
 (1) The Disability Living Allowance Advisory Board for Northern Ireland is abolished.
 
@@ -72,7 +72,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (3) In this section “**the winding up order**” means the Pig Production Development Committee (Winding Up) Order (Northern Ireland) 2007 (No. 354).
 
-### 4. Enterprise Ulster[^key-4a69580da191d37a91371dd55f0d2165]
+### 4. Enterprise Ulster[^c-4a69580da191d37a91371dd55f0d2165]
 
 (1) In consequence of the dissolution order, the following statutory provisions are repealed—
 
@@ -100,7 +100,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Supplementary provisions
 
-### 6. Repeals[^c21529091][^key-e4862418b4edd31bfb60853c5c641cec]
+### 6. Repeals[^c21529091][^c-e4862418b4edd31bfb60853c5c641cec]
 
 The statutory provisions set out in Schedule 3 are repealed to the extent specified in the second column of that Schedule.
 
@@ -458,7 +458,7 @@ as the Department may determine.
 
 (2) In Schedule 1, omit paragraph 4.
 
-## SCHEDULE 2 — AMENDMENTS: THE DISABILITY LIVING ALLOWANCE ADVISORY BOARD FOR NORTHERN IRELAND[^key-2e3805e419ae44e018aadb0ce9d707c1]
+## SCHEDULE 2 — AMENDMENTS: THE DISABILITY LIVING ALLOWANCE ADVISORY BOARD FOR NORTHERN IRELAND[^c-2e3805e419ae44e018aadb0ce9d707c1]
 
 Section 2
 
@@ -483,7 +483,7 @@ Section 2
 
 **4.** In Schedule 1, in Part 7, omit the entry relating to the Disability Living Allowance Advisory Board for Northern Ireland.
 
-## SCHEDULE 3 — REPEALS[^c21529101][^key-deb197930bf488e0abff2b0aff7e9230]
+## SCHEDULE 3 — REPEALS[^c21529101][^c-deb197930bf488e0abff2b0aff7e9230]
 
 Section 6
 
@@ -515,18 +515,18 @@ Section 6
 
 ## Annotations
 
-[^key-5d040012fa1b6f287d00a18394548d17]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2009/3/section/2) in operation at 1.5.2015 by [S.R. 2015/230](https://www.legislation.gov.uk/nisr/2015/230), [art. 2(a)](https://www.legislation.gov.uk/nisr/2015/230/article/2/a)
+[^c-5d040012fa1b6f287d00a18394548d17]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2009/3/section/2) in operation at 1.5.2015 by [S.R. 2015/230](https://www.legislation.gov.uk/nisr/2015/230), [art. 2(a)](https://www.legislation.gov.uk/nisr/2015/230/article/2/a)
 
-[^key-4a69580da191d37a91371dd55f0d2165]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2009/3/section/4) in operation at 1.5.2015 by [S.R. 2015/230](https://www.legislation.gov.uk/nisr/2015/230), [art. 2(c)](https://www.legislation.gov.uk/nisr/2015/230/article/2/c)
+[^c-4a69580da191d37a91371dd55f0d2165]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2009/3/section/4) in operation at 1.5.2015 by [S.R. 2015/230](https://www.legislation.gov.uk/nisr/2015/230), [art. 2(c)](https://www.legislation.gov.uk/nisr/2015/230/article/2/c)
 
 [^c21529091]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2009/3/section/6) partly in operation; [s. 6](https://www.legislation.gov.uk/nia/2009/3/section/6) not in operation at Royal Assent see [s. 7(1)](https://www.legislation.gov.uk/nia/2009/3/section/7/1); [s. 6](https://www.legislation.gov.uk/nia/2009/3/section/6) in operation for certain purposes at 1.6.2009 by [S.R. 2009/172](https://www.legislation.gov.uk/nisr/2009/172), [art. 2(e)](https://www.legislation.gov.uk/nisr/2009/172/article/2/e)
 
-[^key-e4862418b4edd31bfb60853c5c641cec]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2009/3/section/6) in operation at 1.5.2015 for specified purposes by [S.R. 2015/230](https://www.legislation.gov.uk/nisr/2015/230), [art. 2(d)](https://www.legislation.gov.uk/nisr/2015/230/article/2/d)
+[^c-e4862418b4edd31bfb60853c5c641cec]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2009/3/section/6) in operation at 1.5.2015 for specified purposes by [S.R. 2015/230](https://www.legislation.gov.uk/nisr/2015/230), [art. 2(d)](https://www.legislation.gov.uk/nisr/2015/230/article/2/d)
 
 [^c21529741]: Subordinate legislation: [S. 7(1)](https://www.legislation.gov.uk/nia/2009/3/section/7/1) power partly exercised: 1.6.2009 appointed for specified provisions by [S.R. 2009/172](https://www.legislation.gov.uk/nisr/2009/172), [art. 2](https://www.legislation.gov.uk/nisr/2009/172/article/2)
 
-[^key-2e3805e419ae44e018aadb0ce9d707c1]: Commencement: Sch. 2 in operation at 1.5.2015 by [S.R. 2015/230](https://www.legislation.gov.uk/nisr/2015/230), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/230/article/2/b)
+[^c-2e3805e419ae44e018aadb0ce9d707c1]: Commencement: Sch. 2 in operation at 1.5.2015 by [S.R. 2015/230](https://www.legislation.gov.uk/nisr/2015/230), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/230/article/2/b)
 
 [^c21529101]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nia/2009/3/schedule/3) partly in operation; [Sch. 3](https://www.legislation.gov.uk/nia/2009/3/schedule/3) not in operation at Royal Assent see [s. 7(1)](https://www.legislation.gov.uk/nia/2009/3/section/7/1); [Sch. 3](https://www.legislation.gov.uk/nia/2009/3/schedule/3) in operation for certain purposes at 1.6.2009 by [S.R. 2009/172](https://www.legislation.gov.uk/nisr/2009/172), [art. 2(e)](https://www.legislation.gov.uk/nisr/2009/172/article/2/e)
 
-[^key-deb197930bf488e0abff2b0aff7e9230]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nia/2009/3/schedule/3) in operation at 1.5.2015 for specified purposes by [S.R. 2015/230](https://www.legislation.gov.uk/nisr/2015/230), [art. 2(d)](https://www.legislation.gov.uk/nisr/2015/230/article/2/d)
+[^c-deb197930bf488e0abff2b0aff7e9230]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nia/2009/3/schedule/3) in operation at 1.5.2015 for specified purposes by [S.R. 2015/230](https://www.legislation.gov.uk/nisr/2015/230), [art. 2(d)](https://www.legislation.gov.uk/nisr/2015/230/article/2/d)

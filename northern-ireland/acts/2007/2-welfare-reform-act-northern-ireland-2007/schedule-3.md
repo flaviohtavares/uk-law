@@ -143,7 +143,7 @@ Section 28.
 
 .
 
-(5)[^key-c9ccdf6cef30434e6cb7320706f035b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c9ccdf6cef30434e6cb7320706f035b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In section 69 (overpayments), in subsection (11) (benefits to which section applies), after paragraph (ab) insert—
 
@@ -180,7 +180,7 @@ Section 28.
 
 .
 
-(12)[^key-d5e7f36e6d48ec6de47a22b1041415b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-d5e7f36e6d48ec6de47a22b1041415b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (13) In section 116B (supply of other government information for fraud prevention and verification), in subsection (3)(b), after “the Jobseekers (Northern Ireland) Order 1995” insert “ , Part 1 of the Welfare Reform Act (Northern Ireland) 2007 ”.
 
@@ -549,9 +549,9 @@ Section 28.
 
 [^c21208731]: Commencement: Sch. 3 para. 4 wholly in operation at 27.10.2008; Sch. 3 para. 4 not in operation at Royal Assent see s. 60(1); Sch. 3 para. 4(1)(2)(28) in operation for certain purposes at 1.7.2008 and wholly in operation at 27.7.2008 by [S.R. 2008/276](https://www.legislation.gov.uk/nisr/2008/276), [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2008/276/article/2/2/a); Sch. 3 para. 4(3)-(8)(11) in operation for certain purposes at 1.7.2008 and wholly in operation at 27.10.2008 by [S.R. 2008/276](https://www.legislation.gov.uk/nisr/2008/276), [art. 2(2)(c)](https://www.legislation.gov.uk/nisr/2008/276/article/2/2/c), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2008/276/schedule/part/1); Sch. 3 para. 4 in operation at 27.10.2008 in so far as not already in operation by [S.R. 2008/276](https://www.legislation.gov.uk/nisr/2008/276), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2008/276/article/2/2/d), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2008/276/schedule/part/2)
 
-[^key-c9ccdf6cef30434e6cb7320706f035b4]: Textual amendment: [Sch. 3 para. 4(5)](https://www.legislation.gov.uk/nia/2007/2/schedule/3/paragraph/4/5) repealed (6.4.2018) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(1)](https://www.legislation.gov.uk/nisi/2016/999/article/2/1), [15(12)(e)](https://www.legislation.gov.uk/nisi/2016/999/article/15/12/e); [S.R. 2018/66](https://www.legislation.gov.uk/nisr/2018/66), [art. 2(1)](https://www.legislation.gov.uk/nisr/2018/66/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/nisr/2018/66/article/2/2)[(3)](https://www.legislation.gov.uk/nisr/2018/66/article/2/3))
+[^c-c9ccdf6cef30434e6cb7320706f035b4]: Textual amendment: [Sch. 3 para. 4(5)](https://www.legislation.gov.uk/nia/2007/2/schedule/3/paragraph/4/5) repealed (6.4.2018) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(1)](https://www.legislation.gov.uk/nisi/2016/999/article/2/1), [15(12)(e)](https://www.legislation.gov.uk/nisi/2016/999/article/15/12/e); [S.R. 2018/66](https://www.legislation.gov.uk/nisr/2018/66), [art. 2(1)](https://www.legislation.gov.uk/nisr/2018/66/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/nisr/2018/66/article/2/2)[(3)](https://www.legislation.gov.uk/nisr/2018/66/article/2/3))
 
-[^key-d5e7f36e6d48ec6de47a22b1041415b4]: Textual amendment: Sch. 3 para. 4(12) repealed (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 12](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/12); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(c)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/c)
+[^c-d5e7f36e6d48ec6de47a22b1041415b4]: Textual amendment: Sch. 3 para. 4(12) repealed (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 12](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/12); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(c)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/c)
 
 [^c21208741]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nia/2007/2/schedule/3/paragraph/6) wholly in operation at 27.10.2008; [Sch. 3 para. 6](https://www.legislation.gov.uk/nia/2007/2/schedule/3/paragraph/6) not in operation at Royal Assent see [s. 60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1); [Sch. 3 para. 6(1)(2)](https://www.legislation.gov.uk/nia/2007/2/schedule/3/paragraph/6/1/2) in operation for certain purposes at 1.7.2008 and wholly in operation at 27.10.2008 by [S.R. 2008/276](https://www.legislation.gov.uk/nisr/2008/276), [art. 2(2)(c)](https://www.legislation.gov.uk/nisr/2008/276/article/2/2/c), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2008/276/schedule/part/1); [Sch. 3 para. 6](https://www.legislation.gov.uk/nia/2007/2/schedule/3/paragraph/6) in operation at 27.10.2008 in so far as not already in operation by [S.R. 2008/276](https://www.legislation.gov.uk/nisr/2008/276), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2008/276/article/2/2/d), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2008/276/schedule/part/2)
 

@@ -27,8 +27,8 @@ summary: ''
 
 (2) Subsection (1) does not apply to the delaying or opening of a postal packet or the opening of a mail-bag under the authority of—
 
-- (a) this Act or any other enactment (including, in particular, in pursuance of a warrant issued under any other enactment), [^key-c8e422ca544ccbce0a8e3f5306b63f21]. . .
-- (b)[^key-c8e422ca544ccbce0a8e3f5306b63f21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) this Act or any other enactment (including, in particular, in pursuance of a warrant issued under any other enactment), [^c-c8e422ca544ccbce0a8e3f5306b63f21]. . .
+- (b)[^c-c8e422ca544ccbce0a8e3f5306b63f21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Subsection (1) does not apply to the delaying or opening of a postal packet in accordance with any terms and conditions applicable to its transmission by post.
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c10291691]: Commencement: S. 83 wholly in force at 26.3.2001, see s. 130 and [S.I. 2001/878](https://www.legislation.gov.uk/uksi/2001/878), [art. 2](https://www.legislation.gov.uk/uksi/2001/878/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/878/schedule) (subject to [arts. 3-17](https://www.legislation.gov.uk/uksi/2001/878/article/3))
 
-[^key-c8e422ca544ccbce0a8e3f5306b63f21]: Textual amendment: S. 83(2)(b) and word omitted (31.12.2020) by virtue of [The Postal and Parcel Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1417)](https://www.legislation.gov.uk/uksi/2018/1417), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1417/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1417/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c8e422ca544ccbce0a8e3f5306b63f21]: Textual amendment: S. 83(2)(b) and word omitted (31.12.2020) by virtue of [The Postal and Parcel Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1417)](https://www.legislation.gov.uk/uksi/2018/1417), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1417/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1417/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

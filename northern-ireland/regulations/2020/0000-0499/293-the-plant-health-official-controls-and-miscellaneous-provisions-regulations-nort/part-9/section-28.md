@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Powers of entry[^key-bc5e65f8bb1ee296bd8ac299a192761d]
+## 28. Powers of entry[^c-bc5e65f8bb1ee296bd8ac299a192761d]
 
 *Extent: N.I.*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc5e65f8bb1ee296bd8ac299a192761d]: Commencement: Reg. 28 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-bc5e65f8bb1ee296bd8ac299a192761d]: Commencement: Reg. 28 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

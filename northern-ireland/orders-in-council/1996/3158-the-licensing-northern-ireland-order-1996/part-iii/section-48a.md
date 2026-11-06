@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48A. Extension of permitted hours for major events[^key-c5046bef552c64b6eccac69f4604ec97]
+## 48A. Extension of permitted hours for major events[^c-c5046bef552c64b6eccac69f4604ec97]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5046bef552c64b6eccac69f4604ec97]: Textual amendment: [Arts. 48A](https://www.legislation.gov.uk/nisi/1996/3158/article/48A), [48B](https://www.legislation.gov.uk/nisi/1996/3158/article/48B) and cross-heading inserted (6.4.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 7(1)](https://www.legislation.gov.uk/nia/2021/7/section/7/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-c5046bef552c64b6eccac69f4604ec97]: Textual amendment: [Arts. 48A](https://www.legislation.gov.uk/nisi/1996/3158/article/48A), [48B](https://www.legislation.gov.uk/nisi/1996/3158/article/48B) and cross-heading inserted (6.4.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 7(1)](https://www.legislation.gov.uk/nia/2021/7/section/7/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)

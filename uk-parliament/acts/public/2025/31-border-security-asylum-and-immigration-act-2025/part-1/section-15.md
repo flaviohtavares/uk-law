@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Sections 13 and 14: meaning of “relevant article”[^key-c0ca724a073fbcf9e916b6340cada109][^key-964ddb0a8168bdd2183bf467320c47a2]
+## 15. Sections 13 and 14: meaning of “relevant article”[^c-c0ca724a073fbcf9e916b6340cada109][^c-964ddb0a8168bdd2183bf467320c47a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c0ca724a073fbcf9e916b6340cada109]: Commencement: S. 15 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
+[^c-c0ca724a073fbcf9e916b6340cada109]: Commencement: S. 15 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
 
-[^key-964ddb0a8168bdd2183bf467320c47a2]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2025/31/section/15) in force at 5.1.2026 in so far as not already in force by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/b)
+[^c-964ddb0a8168bdd2183bf467320c47a2]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2025/31/section/15) in force at 5.1.2026 in so far as not already in force by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/b)

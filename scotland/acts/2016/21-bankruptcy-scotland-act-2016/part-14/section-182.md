@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 182. Retention of documents by trustee under protected trust deed[^key-43f66b55b5bc5971cd664bc5789f4174]
+## 182. Retention of documents by trustee under protected trust deed[^c-43f66b55b5bc5971cd664bc5789f4174]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ The trustee under a protected trust deed must retain the following documents (or
 
 ## Annotations
 
-[^key-43f66b55b5bc5971cd664bc5789f4174]: Commencement: [S. 182](https://www.legislation.gov.uk/asp/2016/21/section/182) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-43f66b55b5bc5971cd664bc5789f4174]: Commencement: [S. 182](https://www.legislation.gov.uk/asp/2016/21/section/182) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

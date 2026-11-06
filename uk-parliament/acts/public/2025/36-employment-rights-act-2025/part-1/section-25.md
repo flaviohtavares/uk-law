@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Right not to be unfairly dismissed: qualifying period and compensation[^key-c24c4e3548f0a0775bc409379fab0fe0]
+## 25. Right not to be unfairly dismissed: qualifying period and compensation[^c-c24c4e3548f0a0775bc409379fab0fe0]
 
 *Extent: E+W+S*
 
@@ -31,10 +31,10 @@ summary: ''
 
 (4) In section 209 of that Act (powers to amend Act), in subsection (5), omit “108(1),”.
 
-(5)[^key-653383bd4697ae058fbb018bf679af19] Schedule 3 contains minor and consequential amendments relating to this section.
+(5)[^c-653383bd4697ae058fbb018bf679af19] Schedule 3 contains minor and consequential amendments relating to this section.
 
 ## Annotations
 
-[^key-c24c4e3548f0a0775bc409379fab0fe0]: Commencement: S. 25 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-c24c4e3548f0a0775bc409379fab0fe0]: Commencement: S. 25 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-653383bd4697ae058fbb018bf679af19]: Commencement: [S. 25(5)](https://www.legislation.gov.uk/ukpga/2025/36/section/25/5) in force at 1.7.2026 for specified purposes by [S.I. 2026/559](https://www.legislation.gov.uk/uksi/2026/559), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/559/regulation/2/a)
+[^c-653383bd4697ae058fbb018bf679af19]: Commencement: [S. 25(5)](https://www.legislation.gov.uk/ukpga/2025/36/section/25/5) in force at 1.7.2026 for specified purposes by [S.I. 2026/559](https://www.legislation.gov.uk/uksi/2026/559), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/559/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Further publicity for special reports[^key-222be80779e1f5a198f3301cc19c99a9]
+## 61. Further publicity for special reports[^c-222be80779e1f5a198f3301cc19c99a9]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-222be80779e1f5a198f3301cc19c99a9]: Commencement: [S. 61](https://www.legislation.gov.uk/anaw/2019/3/section/61) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-222be80779e1f5a198f3301cc19c99a9]: Commencement: [S. 61](https://www.legislation.gov.uk/anaw/2019/3/section/61) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

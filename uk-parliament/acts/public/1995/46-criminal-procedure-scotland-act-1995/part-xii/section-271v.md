@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 271V. Appeals[^key-ad57f6d736639648bab48cdff7b984da][^key-f19ec92dcab2752e44bde5d5e8fcf2e4]
+## 271V. Appeals[^c-ad57f6d736639648bab48cdff7b984da][^c-f19ec92dcab2752e44bde5d5e8fcf2e4]
 
 *Extent: S*
 
-(1) The prosecutor or the accused may appeal to the appropriate Appeal Court[^key-34e54f91e9efded86848d91f9fb9e8f1] against—
+(1) The prosecutor or the accused may appeal to the appropriate Appeal Court[^c-34e54f91e9efded86848d91f9fb9e8f1] against—
 
 - (a) the making of a witness anonymity order under section 271N,
 - (b) the kinds of measures that are required to be taken in relation to a witness under a witness anonymity order made under that section,
@@ -39,25 +39,25 @@ summary: ''
 (4) If an appeal is brought under this section—
 
 - (a) the period between the lodging of the appeal and its determination does not count towards any time limit applying in respect of the case,
-- (b) the court of first instance or the appropriate Appeal Court[^key-4884d93eb33e9ba078f679665c166ebb] may do either or both of the following—
+- (b) the court of first instance or the appropriate Appeal Court[^c-4884d93eb33e9ba078f679665c166ebb] may do either or both of the following—
   - (i) postpone or adjourn (or further adjourn) the trial diet,
   - (ii) extend any time limit applying in respect of the case.
 
 (5) An appeal under this section does not affect any right of appeal in relation to any other decision of any court in the criminal proceedings.
 
-(6)[^key-4a170d058d529a44c8d224d61b46e959] In this section, “appropriate Appeal Court” means—
+(6)[^c-4a170d058d529a44c8d224d61b46e959] In this section, “appropriate Appeal Court” means—
 
 - (a) in the case of an appeal under this section against a decision made in proceedings on indictment, the High Court;
 - (b) in the case of an appeal under this section against a decision made in summary proceedings, the Sheriff Appeal Court.
 
 ## Annotations
 
-[^key-ad57f6d736639648bab48cdff7b984da]: Textual amendment: Ss. 271N-271Z inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 90(1)](https://www.legislation.gov.uk/asp/2010/13/section/90/1), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-ad57f6d736639648bab48cdff7b984da]: Textual amendment: Ss. 271N-271Z inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 90(1)](https://www.legislation.gov.uk/asp/2010/13/section/90/1), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
-[^key-f19ec92dcab2752e44bde5d5e8fcf2e4]: Modification: Ss. 271N-271Z applied (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 90(3)](https://www.legislation.gov.uk/asp/2010/13/section/90/3)[(4)](https://www.legislation.gov.uk/asp/2010/13/section/90/4), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-f19ec92dcab2752e44bde5d5e8fcf2e4]: Modification: Ss. 271N-271Z applied (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 90(3)](https://www.legislation.gov.uk/asp/2010/13/section/90/3)[(4)](https://www.legislation.gov.uk/asp/2010/13/section/90/4), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
-[^key-34e54f91e9efded86848d91f9fb9e8f1]: Textual amendment: Words in s. 271V(1) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 5(10)(a)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/5/10/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-34e54f91e9efded86848d91f9fb9e8f1]: Textual amendment: Words in s. 271V(1) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 5(10)(a)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/5/10/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
 
-[^key-4884d93eb33e9ba078f679665c166ebb]: Textual amendment: Words in s. 271V(4)(b) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 5(10)(a)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/5/10/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-4884d93eb33e9ba078f679665c166ebb]: Textual amendment: Words in s. 271V(4)(b) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 5(10)(a)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/5/10/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
 
-[^key-4a170d058d529a44c8d224d61b46e959]: Textual amendment: S. 271V(6) inserted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 5(10)(b)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/5/10/b) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-4a170d058d529a44c8d224d61b46e959]: Textual amendment: S. 271V(6) inserted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 5(10)(b)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/5/10/b) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Supporting and developing staff[^key-48debd61564dcf26112f004d831a3764]
+## 24. Supporting and developing staff[^c-48debd61564dcf26112f004d831a3764]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48debd61564dcf26112f004d831a3764]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2019/762/regulation/24) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-48debd61564dcf26112f004d831a3764]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2019/762/regulation/24) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)

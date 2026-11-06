@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Power to substitute provisions for s. 158(2).[^key-142f84e7b7c41eebec11a43d1145d3b7]
+## 159. Power to substitute provisions for s. 158(2).[^c-142f84e7b7c41eebec11a43d1145d3b7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-142f84e7b7c41eebec11a43d1145d3b7]: Textual amendment: Ss. 158, 159 repealed (with savings) (6.4.1995) by [The Statutory Sick Pay Percentage Threshold Order 1995 (S.I. 1995/512)](https://www.legislation.gov.uk/uksi/1995/512), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1995/512/article/1/1), [5(a)](https://www.legislation.gov.uk/uksi/1995/512/article/5/a)
+[^c-142f84e7b7c41eebec11a43d1145d3b7]: Textual amendment: Ss. 158, 159 repealed (with savings) (6.4.1995) by [The Statutory Sick Pay Percentage Threshold Order 1995 (S.I. 1995/512)](https://www.legislation.gov.uk/uksi/1995/512), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1995/512/article/1/1), [5(a)](https://www.legislation.gov.uk/uksi/1995/512/article/5/a)

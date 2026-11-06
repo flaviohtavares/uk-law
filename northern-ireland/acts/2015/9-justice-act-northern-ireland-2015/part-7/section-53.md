@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53. Live links: witnesses outside the United Kingdom[^key-bd383bdf02ee012de1a584e634174e1a]
+## 53. Live links: witnesses outside the United Kingdom[^c-bd383bdf02ee012de1a584e634174e1a]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd383bdf02ee012de1a584e634174e1a]: Commencement: [S. 53](https://www.legislation.gov.uk/nia/2015/9/section/53) in operation at 31.10.2016 by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(g)](https://www.legislation.gov.uk/nisr/2016/387/article/2/g) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-bd383bdf02ee012de1a584e634174e1a]: Commencement: [S. 53](https://www.legislation.gov.uk/nia/2015/9/section/53) in operation at 31.10.2016 by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(g)](https://www.legislation.gov.uk/nisr/2016/387/article/2/g) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

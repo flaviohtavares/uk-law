@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Notes to the accounts[^key-6d8acbccfd93d5d0f8616e4aee889632]
+## 20. Notes to the accounts[^c-6d8acbccfd93d5d0f8616e4aee889632]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6d8acbccfd93d5d0f8616e4aee889632]: Commencement: Reg. 20 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-6d8acbccfd93d5d0f8616e4aee889632]: Commencement: Reg. 20 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
 
 [^f00034]: Footnote: Regulation 5A is inserted by regulation 32 of these Regulations.
 

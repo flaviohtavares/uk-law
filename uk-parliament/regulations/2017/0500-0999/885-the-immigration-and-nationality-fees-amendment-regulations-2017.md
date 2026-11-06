@@ -35,7 +35,7 @@ Immigration
 
 Nationality
 
-The Immigration and Nationality (Fees) (Amendment) Regulations 2017 (revoked)[^key-e4f697bc9ac55b4bc733eb87d6cb9876]
+The Immigration and Nationality (Fees) (Amendment) Regulations 2017 (revoked)[^c-e4f697bc9ac55b4bc733eb87d6cb9876]
 
 Made
 
@@ -49,56 +49,56 @@ Coming into force
 
 2nd October 2017
 
-[^key-e4f697bc9ac55b4bc733eb87d6cb9876]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e4f697bc9ac55b4bc733eb87d6cb9876]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e4f697bc9ac55b4bc733eb87d6cb9876]
+## 1. Citation and commencement[^c-e4f697bc9ac55b4bc733eb87d6cb9876]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Immigration and Nationality (Fees) Regulations 2017[^key-e4f697bc9ac55b4bc733eb87d6cb9876]
+## 2. Amendment of the Immigration and Nationality (Fees) Regulations 2017[^c-e4f697bc9ac55b4bc733eb87d6cb9876]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 3[^key-e4f697bc9ac55b4bc733eb87d6cb9876]
+## 3. Amendment of regulation 3[^c-e4f697bc9ac55b4bc733eb87d6cb9876]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 4[^key-e4f697bc9ac55b4bc733eb87d6cb9876]
+## 4. Amendment of regulation 4[^c-e4f697bc9ac55b4bc733eb87d6cb9876]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 15[^key-e4f697bc9ac55b4bc733eb87d6cb9876]
+## 5. Amendment of regulation 15[^c-e4f697bc9ac55b4bc733eb87d6cb9876]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of Schedule 1[^key-e4f697bc9ac55b4bc733eb87d6cb9876]
+## 6. Amendment of Schedule 1[^c-e4f697bc9ac55b4bc733eb87d6cb9876]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of Schedule 2[^key-e4f697bc9ac55b4bc733eb87d6cb9876]
+## 7. Amendment of Schedule 2[^c-e4f697bc9ac55b4bc733eb87d6cb9876]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of Schedule 3[^key-e4f697bc9ac55b4bc733eb87d6cb9876]
+## 8. Amendment of Schedule 3[^c-e4f697bc9ac55b4bc733eb87d6cb9876]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of Schedule 8[^key-e4f697bc9ac55b4bc733eb87d6cb9876]
+## 9. Amendment of Schedule 8[^c-e4f697bc9ac55b4bc733eb87d6cb9876]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of Schedule 9[^key-e4f697bc9ac55b4bc733eb87d6cb9876]
+## 10. Amendment of Schedule 9[^c-e4f697bc9ac55b4bc733eb87d6cb9876]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e4f697bc9ac55b4bc733eb87d6cb9876]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e4f697bc9ac55b4bc733eb87d6cb9876]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e4f697bc9ac55b4bc733eb87d6cb9876]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e4f697bc9ac55b4bc733eb87d6cb9876]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e4f697bc9ac55b4bc733eb87d6cb9876]: Textual amendment: Regulations revoked (6.4.2018) by [The Immigration and Nationality (Fees) Regulations 2018 (S.I. 2018/330)](https://www.legislation.gov.uk/uksi/2018/330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/330/regulation/1/2), [18(b)](https://www.legislation.gov.uk/uksi/2018/330/regulation/18/b)
+[^c-e4f697bc9ac55b4bc733eb87d6cb9876]: Textual amendment: Regulations revoked (6.4.2018) by [The Immigration and Nationality (Fees) Regulations 2018 (S.I. 2018/330)](https://www.legislation.gov.uk/uksi/2018/330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/330/regulation/1/2), [18(b)](https://www.legislation.gov.uk/uksi/2018/330/regulation/18/b)

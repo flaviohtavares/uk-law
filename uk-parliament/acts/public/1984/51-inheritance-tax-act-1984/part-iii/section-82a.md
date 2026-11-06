@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82A. Excluded property: property to which section 81 applies (new cases)[^key-efbb6fc2340d76a5533739f35eb546f1]
+## 82A. Excluded property: property to which section 81 applies (new cases)[^c-efbb6fc2340d76a5533739f35eb546f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-efbb6fc2340d76a5533739f35eb546f1]: Textual amendment: [S. 82A](https://www.legislation.gov.uk/ukpga/1984/51/section/82A) omitted (6.4.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 17](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/17), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
+[^c-efbb6fc2340d76a5533739f35eb546f1]: Textual amendment: [S. 82A](https://www.legislation.gov.uk/ukpga/1984/51/section/82A) omitted (6.4.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 17](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/17), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)

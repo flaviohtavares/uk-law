@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Dismissal of response or reply[^key-1e5f098275a2ccc7fdb85726dbb20ef1]
+## 29. Dismissal of response or reply[^c-1e5f098275a2ccc7fdb85726dbb20ef1]
 
 *Extent: E+W+S*
 
-(1) If the Tribunal considers that the response or reply, or part of it, does not contain any grounds on which the person advancing the response or reply relies or[^key-f96142829da8fa9df797ca26bb04e029] has no reasonable prospect of success the Tribunal must send a notice to the parties—
+(1) If the Tribunal considers that the response or reply, or part of it, does not contain any grounds on which the person advancing the response or reply relies or[^c-f96142829da8fa9df797ca26bb04e029] has no reasonable prospect of success the Tribunal must send a notice to the parties—
 
 - (a) setting out the Tribunal’s view and the reasons for it,
 - (b) ordering that the response or reply, or part of it, is dismissed on such date as is specified in the notice unless before that date the Tribunal has received written representations from the party advancing the response or reply explaining why the response or reply, or part of it, should not be dismissed, and
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1e5f098275a2ccc7fdb85726dbb20ef1]: Commencement: Rule 29 in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-1e5f098275a2ccc7fdb85726dbb20ef1]: Commencement: Rule 29 in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
-[^key-f96142829da8fa9df797ca26bb04e029]: Textual amendment: Words in rule 29(1) inserted (2.3.2026) by [The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026 (S.I. 2026/115)](https://www.legislation.gov.uk/uksi/2026/115), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/1/2), [8(8)](https://www.legislation.gov.uk/uksi/2026/115/rule/8/8)
+[^c-f96142829da8fa9df797ca26bb04e029]: Textual amendment: Words in rule 29(1) inserted (2.3.2026) by [The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026 (S.I. 2026/115)](https://www.legislation.gov.uk/uksi/2026/115), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/1/2), [8(8)](https://www.legislation.gov.uk/uksi/2026/115/rule/8/8)

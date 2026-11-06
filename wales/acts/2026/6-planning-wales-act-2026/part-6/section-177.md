@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 177. Time when liability arises[^key-f44a03445f253bf23afaec503b1fcf13]
+## 177. Time when liability arises[^c-f44a03445f253bf23afaec503b1fcf13]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f44a03445f253bf23afaec503b1fcf13]: Commencement: S. 177 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-f44a03445f253bf23afaec503b1fcf13]: Commencement: S. 177 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

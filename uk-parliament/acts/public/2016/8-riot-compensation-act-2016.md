@@ -38,7 +38,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Claims for compensation
 
-### 1. Claims for compensation for riot damage etc[^key-ac3f175396776a9494d4e9cbbd93496a]
+### 1. Claims for compensation for riot damage etc[^c-ac3f175396776a9494d4e9cbbd93496a]
 
 (1) Where—
 
@@ -71,7 +71,7 @@ the insurance company may claim compensation from the appropriate local policing
 - (b) a hospital where persons are detained under Part 2 or 3 of the Mental Health Act 1983;
 - (c) a removal centre, a short-term holding facility or pre-departure accommodation (within the meaning given by section 147 of the Immigration and Asylum Act 1999).
 
-### 2. Property in respect of which claims may be made[^key-6adf0c2ceb55e7e1fe5968c18604f884]
+### 2. Property in respect of which claims may be made[^c-6adf0c2ceb55e7e1fe5968c18604f884]
 
 (1) A claim may be made under section 1(1) only in respect of—
 
@@ -87,7 +87,7 @@ the insurance company may claim compensation from the appropriate local policing
 
 (3) Property falls within this subsection if it is property (other than a motor vehicle) which
 
-- (a)[^key-d26f94253b740f90abaceb8f3dba8fca] at the time of the riot was situated—
+- (a)[^c-d26f94253b740f90abaceb8f3dba8fca] at the time of the riot was situated—
   - (i) within a building,
   - (ii) within the curtilage of a building, or
   - (iii) on land being used for the purposes of a business carried on by the claimant, or
@@ -109,7 +109,7 @@ and for the purposes of this subsection as it applies to a claim under section 1
   - (b) a building in the course of construction;
 - “**motor vehicle**” means a mechanically propelled vehicle intended or adapted for use on roads.
 
-### 3. Regulations about claims procedure[^key-1adeedb1bdb42f8ed5b360dc1f2e9c21]
+### 3. Regulations about claims procedure[^c-1adeedb1bdb42f8ed5b360dc1f2e9c21]
 
 (1) The Secretary of State must make regulations about the procedure for making a claim under section 1.
 
@@ -135,7 +135,7 @@ and for the purposes of this subsection as it applies to a claim under section 1
 
 ## The decision-maker
 
-### 4. The decision-maker on a claim[^key-59230c39f9b069ee86221443b755019e]
+### 4. The decision-maker on a claim[^c-59230c39f9b069ee86221443b755019e]
 
 (1) The decision on a claim is to be made by the appropriate local policing body, except where—
 
@@ -153,7 +153,7 @@ and for the purposes of this subsection as it applies to a claim under section 1
 - (b) the types of claim in relation to which functions may be delegated (by reference to the nature of the property, the amount of the claim, the identity of the claimant or otherwise), and
 - (c) the payment and auditing of persons to whom functions are delegated.
 
-### 5. Transfer of claims to the Secretary of State[^key-f9cad76c3ddda62fd43a418fc242ed85]
+### 5. Transfer of claims to the Secretary of State[^c-f9cad76c3ddda62fd43a418fc242ed85]
 
 (1) The Secretary of State may direct a local policing body to transfer to the Secretary of State either or both of the following functions—
 
@@ -175,7 +175,7 @@ and for the purposes of this subsection as it applies to a claim under section 1
 
 (5) The Secretary of State must publish a direction made under this section.
 
-### 6. Delegation of Secretary of State's functions[^key-690c4c9005560481d93d1d6fea22a323]
+### 6. Delegation of Secretary of State's functions[^c-690c4c9005560481d93d1d6fea22a323]
 
 (1) The Secretary of State may by regulations establish a body in connection with a direction under section 5 that the Secretary of State has made, or is considering making (the “riot claims bureau”).
 
@@ -207,7 +207,7 @@ and for the purposes of this subsection as it applies to a claim under section 1
 
 ## Decisions on claims
 
-### 7. Decision on validity of claim[^key-904b2c33a408222d9a7bc9e77636596a]
+### 7. Decision on validity of claim[^c-904b2c33a408222d9a7bc9e77636596a]
 
 (1) Where a person makes a claim under section 1, the decision-maker must first decide whether the claim is valid.
 
@@ -222,7 +222,7 @@ and for the purposes of this subsection as it applies to a claim under section 1
 
 (4) Decision-makers must have regard to any guidance issued under subsection (3).
 
-### 8. Amount and payment of compensation[^key-a72db78fca8ed142a86f379238b26f84]
+### 8. Amount and payment of compensation[^c-a72db78fca8ed142a86f379238b26f84]
 
 (1) If the decision-maker decides that a claim is valid, the decision-maker must then decide the amount of compensation, up to a maximum of £1 million per claim (the “compensation cap”), that is fair and reasonable.
 
@@ -261,7 +261,7 @@ and for the purposes of this subsection as it applies to a claim under section 1
 
 (9) The Secretary of State may by regulations change the amount of the compensation cap for the time being specified in subsection (1).
 
-### 9. Reviews and appeals[^key-508b85d2b84aed3dedee40ad25e4412d]
+### 9. Reviews and appeals[^c-508b85d2b84aed3dedee40ad25e4412d]
 
 The Secretary of State must make regulations giving a person affected by a decision under section 7 or 8—
 
@@ -270,7 +270,7 @@ The Secretary of State must make regulations giving a person affected by a decis
 
 ## General
 
-### 10. Repeal of Riot (Damages) Act 1886 and consequential amendments etc[^key-fb19e2d55a4cb30667fe601c4dff69c4]
+### 10. Repeal of Riot (Damages) Act 1886 and consequential amendments etc[^c-fb19e2d55a4cb30667fe601c4dff69c4]
 
 (1) The Riot (Damages) Act 1886 is repealed.
 
@@ -328,14 +328,14 @@ Section 2
 
 ### Vehicles not insured for riot damage
 
-**1.**[^key-e9cbb0cb068c95d1d3649a3559b53802] A motor vehicle falls within this paragraph if, at the time of the riot—
+**1.**[^c-e9cbb0cb068c95d1d3649a3559b53802] A motor vehicle falls within this paragraph if, at the time of the riot—
 
 - (a) it was covered by a policy of insurance or a security in respect of third party risks that complied with the requirements of Part 6 of the Road Traffic Act 1988, but was not covered, or (disregarding any excess) not adequately covered, in respect of the damage, destruction or theft resulting from the riot, and
 - (b) the appropriate amount of vehicle excise duty had been paid in respect of the vehicle.
 
 ### Vehicles not insured because exempt from insurance requirement
 
-**2.**[^key-c1454b41aa2a370f7295b3f1c7661660] A motor vehicle falls within this paragraph if, at the time of the riot—
+**2.**[^c-c1454b41aa2a370f7295b3f1c7661660] A motor vehicle falls within this paragraph if, at the time of the riot—
 
 - (a) it fell within one of the exceptions to the requirements of Part 6 of the Road Traffic Act 1988 mentioned in section 144(1) or (2) of that Act,
 - (b) it was not covered by a policy of insurance or security in respect of the damage, destruction or theft resulting from the riot, and
@@ -343,40 +343,40 @@ Section 2
 
 ### Vehicles not kept or used on public road
 
-**3.**[^key-4cc8ab5ab36b0809705252ec461bae05] A motor vehicle falls within this paragraph if, at the time of the riot, the condition mentioned in section 144B(5) or (6A) of the Road Traffic Act 1988 was met in respect of the vehicle (vehicle not kept or used on public road).
+**3.**[^c-4cc8ab5ab36b0809705252ec461bae05] A motor vehicle falls within this paragraph if, at the time of the riot, the condition mentioned in section 144B(5) or (6A) of the Road Traffic Act 1988 was met in respect of the vehicle (vehicle not kept or used on public road).
 
 ### Vehicles part of stock in trade
 
-**4.**[^key-a74f5d1ae1b2e053fc9b562343e950b3] A motor vehicle falls within this paragraph if, at the time of the riot, it was part of the stock in trade of a business.
+**4.**[^c-a74f5d1ae1b2e053fc9b562343e950b3] A motor vehicle falls within this paragraph if, at the time of the riot, it was part of the stock in trade of a business.
 
 ## Annotations
 
-[^key-ac3f175396776a9494d4e9cbbd93496a]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2016/8/section/1) in force at 6.4.2017 by [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
+[^c-ac3f175396776a9494d4e9cbbd93496a]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2016/8/section/1) in force at 6.4.2017 by [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
 
-[^key-6adf0c2ceb55e7e1fe5968c18604f884]: Commencement: S. 2 in force at 6.4.2017 by [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
+[^c-6adf0c2ceb55e7e1fe5968c18604f884]: Commencement: S. 2 in force at 6.4.2017 by [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
 
-[^key-d26f94253b740f90abaceb8f3dba8fca]: Textual amendment: Words in s. 2(3) substituted (6.4.2017) by [The Riot Compensation Regulations 2017 (S.I. 2017/371)](https://www.legislation.gov.uk/uksi/2017/371), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2017/371/regulation/2)
+[^c-d26f94253b740f90abaceb8f3dba8fca]: Textual amendment: Words in s. 2(3) substituted (6.4.2017) by [The Riot Compensation Regulations 2017 (S.I. 2017/371)](https://www.legislation.gov.uk/uksi/2017/371), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/371/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2017/371/regulation/2)
 
-[^key-1adeedb1bdb42f8ed5b360dc1f2e9c21]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2016/8/section/3) in force at 6.4.2017 by [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
+[^c-1adeedb1bdb42f8ed5b360dc1f2e9c21]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2016/8/section/3) in force at 6.4.2017 by [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
 
-[^key-59230c39f9b069ee86221443b755019e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2016/8/section/4) in force at 6.4.2017 by [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
+[^c-59230c39f9b069ee86221443b755019e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2016/8/section/4) in force at 6.4.2017 by [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
 
-[^key-f9cad76c3ddda62fd43a418fc242ed85]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2016/8/section/5) in force at 6.4.2017 by [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
+[^c-f9cad76c3ddda62fd43a418fc242ed85]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2016/8/section/5) in force at 6.4.2017 by [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
 
-[^key-690c4c9005560481d93d1d6fea22a323]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2016/8/section/6) in force at 6.4.2017 by [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
+[^c-690c4c9005560481d93d1d6fea22a323]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2016/8/section/6) in force at 6.4.2017 by [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
 
-[^key-904b2c33a408222d9a7bc9e77636596a]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2016/8/section/7) in force at 6.4.2017 by [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
+[^c-904b2c33a408222d9a7bc9e77636596a]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2016/8/section/7) in force at 6.4.2017 by [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
 
-[^key-a72db78fca8ed142a86f379238b26f84]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2016/8/section/8) in force at 6.4.2017 by [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
+[^c-a72db78fca8ed142a86f379238b26f84]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2016/8/section/8) in force at 6.4.2017 by [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
 
-[^key-508b85d2b84aed3dedee40ad25e4412d]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2016/8/section/9) in force at 6.4.2017 by [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
+[^c-508b85d2b84aed3dedee40ad25e4412d]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2016/8/section/9) in force at 6.4.2017 by [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
 
-[^key-fb19e2d55a4cb30667fe601c4dff69c4]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2016/8/section/10) in force at 6.4.2017 by [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
+[^c-fb19e2d55a4cb30667fe601c4dff69c4]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2016/8/section/10) in force at 6.4.2017 by [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
 
-[^key-e9cbb0cb068c95d1d3649a3559b53802]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2016/8/schedule/paragraph/1) in force at 6.4.2017 by [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
+[^c-e9cbb0cb068c95d1d3649a3559b53802]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2016/8/schedule/paragraph/1) in force at 6.4.2017 by [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
 
-[^key-c1454b41aa2a370f7295b3f1c7661660]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2016/8/schedule/paragraph/2) in force at 6.4.2017 by [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
+[^c-c1454b41aa2a370f7295b3f1c7661660]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2016/8/schedule/paragraph/2) in force at 6.4.2017 by [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
 
-[^key-4cc8ab5ab36b0809705252ec461bae05]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2016/8/schedule/paragraph/3) in force at 6.4.2017 by [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
+[^c-4cc8ab5ab36b0809705252ec461bae05]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2016/8/schedule/paragraph/3) in force at 6.4.2017 by [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
 
-[^key-a74f5d1ae1b2e053fc9b562343e950b3]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2016/8/schedule/paragraph/4) in force at 6.4.2017 by [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
+[^c-a74f5d1ae1b2e053fc9b562343e950b3]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2016/8/schedule/paragraph/4) in force at 6.4.2017 by [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)

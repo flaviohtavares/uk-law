@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Time orders[^key-8aede28c20e0e4786a984545467bac80]
+## 16. Time orders[^c-8aede28c20e0e4786a984545467bac80]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8aede28c20e0e4786a984545467bac80]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2006/14/section/16) in force at 1.10.2008 by [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(3)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2007/3300/schedule/3)
+[^c-8aede28c20e0e4786a984545467bac80]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2006/14/section/16) in force at 1.10.2008 by [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(3)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2007/3300/schedule/3)

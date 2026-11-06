@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) This regulation, apart from paragraphs (7) and (9)[^key-acf9b887d3f2ebfa803783da0bb7f8b1], applies to any person entitled to benefit, other than a jobseeker's allowance, and any other person by whom, or on whose behalf, payments by way of such a benefit are receivable.
+(1) This regulation, apart from paragraphs (7) and (9)[^c-acf9b887d3f2ebfa803783da0bb7f8b1], applies to any person entitled to benefit, other than a jobseeker's allowance, and any other person by whom, or on whose behalf, payments by way of such a benefit are receivable.
 
 (2) Subject to regulation 8 of the Personal Independence Payment Regulations, a person to whom this regulation applies must supply in such manner as the Secretary of State may determine and within the period applicable under regulation 45(4)(a) of the Universal Credit, Personal Independence Payment, Jobseeker's Allowance and Employment and Support Allowance (Decisions and Appeals) Regulations 2013 [^c2167213] such information or evidence as the Secretary of State may require for determining whether a decision on the award of benefit should be revised under section 9 of the Social Security Act 1998 [^c2167214] or superseded under section 10 of that Act.
 
@@ -47,14 +47,14 @@ and must be sent or delivered to, or received at, the appropriate office.
 
 (8) Where the calculation of an award of universal credit includes, by virtue of regulation 29 of the Universal Credit Regulations, an amount in respect of the fact that a claimant has regular and substantial caring responsibilities for a severely disabled person, the Secretary of State may require a person to whom this regulation applies to furnish a declaration signed by such severely disabled person confirming the particulars respecting the severely disabled person which have been given by that person.
 
-(9)[^key-6b1b01a222397de681d6558f4bdb33b7] A landlord, in a case where a claimant’s award of universal credit includes an amount in respect of housing costs or where the award may be revised or superseded to include such an amount, must supply such information or evidence in connection with the award, or any question arising out of it, as the Secretary of State may require, and must do so within one month of being required to do so or such longer period as the Secretary of State considers reasonable.
+(9)[^c-6b1b01a222397de681d6558f4bdb33b7] A landlord, in a case where a claimant’s award of universal credit includes an amount in respect of housing costs or where the award may be revised or superseded to include such an amount, must supply such information or evidence in connection with the award, or any question arising out of it, as the Secretary of State may require, and must do so within one month of being required to do so or such longer period as the Secretary of State considers reasonable.
 
 ## Annotations
 
-[^key-acf9b887d3f2ebfa803783da0bb7f8b1]: Textual amendment: Words in reg. 38(1) substituted (13.7.2020) by [The Universal Credit (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/611)](https://www.legislation.gov.uk/uksi/2020/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/611/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/611/regulation/3/2/a)
+[^c-acf9b887d3f2ebfa803783da0bb7f8b1]: Textual amendment: Words in reg. 38(1) substituted (13.7.2020) by [The Universal Credit (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/611)](https://www.legislation.gov.uk/uksi/2020/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/611/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/611/regulation/3/2/a)
 
 [^c2167213]: Marginal citation: [S.I. 2013/381](https://www.legislation.gov.uk/uksi/2013/381).
 
 [^c2167214]: Marginal citation: [1998 c.14](https://www.legislation.gov.uk/ukpga/1998/14).
 
-[^key-6b1b01a222397de681d6558f4bdb33b7]: Textual amendment: Reg. 38(9) inserted (13.7.2020) by [The Universal Credit (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/611)](https://www.legislation.gov.uk/uksi/2020/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/611/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/611/regulation/3/2/b)
+[^c-6b1b01a222397de681d6558f4bdb33b7]: Textual amendment: Reg. 38(9) inserted (13.7.2020) by [The Universal Credit (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/611)](https://www.legislation.gov.uk/uksi/2020/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/611/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/611/regulation/3/2/b)

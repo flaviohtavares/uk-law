@@ -31,7 +31,7 @@ Section 1
 
 ### Status
 
-**2.**[^key-62081995559b4afb8609b023bae17b57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-62081995559b4afb8609b023bae17b57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.** Neither of the two bodies shall—
 
@@ -207,7 +207,7 @@ shall as soon as is practicable disclose the nature of his interest at a meeting
 
 ## Annotations
 
-[^key-62081995559b4afb8609b023bae17b57]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1990/35/schedule/1/paragraph/2) repealed (1.7.2011) by [Bribery Act 2010 (c. 23)](https://www.legislation.gov.uk/ukpga/2010/23), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/23/schedule/2) (with [ss. 16](https://www.legislation.gov.uk/ukpga/2010/23/section/16), [19(5)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/5)); [S.I. 2011/1418](https://www.legislation.gov.uk/uksi/2011/1418), [art. 2](https://www.legislation.gov.uk/uksi/2011/1418/article/2); [S.I. 2011/1418](https://www.legislation.gov.uk/uksi/2011/1418), [art. 2](https://www.legislation.gov.uk/uksi/2011/1418/article/2)
+[^c-62081995559b4afb8609b023bae17b57]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1990/35/schedule/1/paragraph/2) repealed (1.7.2011) by [Bribery Act 2010 (c. 23)](https://www.legislation.gov.uk/ukpga/2010/23), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/23/schedule/2) (with [ss. 16](https://www.legislation.gov.uk/ukpga/2010/23/section/16), [19(5)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/5)); [S.I. 2011/1418](https://www.legislation.gov.uk/uksi/2011/1418), [art. 2](https://www.legislation.gov.uk/uksi/2011/1418/article/2); [S.I. 2011/1418](https://www.legislation.gov.uk/uksi/2011/1418), [art. 2](https://www.legislation.gov.uk/uksi/2011/1418/article/2)
 
 [^c1031163]: Textual amendment: Words in [Sch. 1 para. 12(1)(2)](https://www.legislation.gov.uk/ukpga/1990/35/schedule/1/paragraph/12/1/2) repealed (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2), [4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 100(8)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/100/8), [Pt. IV](https://www.legislation.gov.uk/uksi/1999/1820/part/IV)
 

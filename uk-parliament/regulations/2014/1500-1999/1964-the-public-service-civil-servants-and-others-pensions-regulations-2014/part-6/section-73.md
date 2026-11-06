@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Meaning of “upper tier payment threshold”[^key-bb4834b1e4c86d6004e631a2020f3ac7]
+## 73. Meaning of “upper tier payment threshold”[^c-bb4834b1e4c86d6004e631a2020f3ac7]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ An active member of this scheme meets the upper tier threshold for payment of an
 
 ## Annotations
 
-[^key-bb4834b1e4c86d6004e631a2020f3ac7]: Commencement: [Reg. 73](https://www.legislation.gov.uk/uksi/2014/1964/regulation/73) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-bb4834b1e4c86d6004e631a2020f3ac7]: Commencement: [Reg. 73](https://www.legislation.gov.uk/uksi/2014/1964/regulation/73) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

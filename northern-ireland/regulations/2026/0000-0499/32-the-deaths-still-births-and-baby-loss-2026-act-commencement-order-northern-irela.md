@@ -37,11 +37,11 @@ Made
 
 The Department of Finance, in exercise of the powers conferred by section 12(1) of the Deaths, Still-Births and Baby Loss (Northern Ireland) Act 2026[^f00001], makes the following Order:
 
-## 1. Citation[^key-e086c238b613887b89e8c835afcaa433]
+## 1. Citation[^c-e086c238b613887b89e8c835afcaa433]
 
 This Order may be cited as the Deaths, Still-Births and Baby Loss (2026 Act) (Commencement) Order (Northern Ireland) 2026.
 
-## 2. Appointed Day[^key-011861165060ac2c8b02138906a37df7]
+## 2. Appointed Day[^c-011861165060ac2c8b02138906a37df7]
 
 The appointed day for the coming into operation of the following sections of the Deaths, Still-Births and Baby Loss (Northern Ireland) Act 2026 is 23rd March 2026 –
 
@@ -79,6 +79,6 @@ This Order brings into operation on 23rd March 2026 the following provisions of 
 
 [^f00001]: Footnote: [2026 c.2 (NI)](https://www.legislation.gov.uk/nia/2026/2)
 
-[^key-e086c238b613887b89e8c835afcaa433]: Commencement: Art. 1 in operation at made date
+[^c-e086c238b613887b89e8c835afcaa433]: Commencement: Art. 1 in operation at made date
 
-[^key-011861165060ac2c8b02138906a37df7]: Commencement: Art. 2 in operation at made date
+[^c-011861165060ac2c8b02138906a37df7]: Commencement: Art. 2 in operation at made date

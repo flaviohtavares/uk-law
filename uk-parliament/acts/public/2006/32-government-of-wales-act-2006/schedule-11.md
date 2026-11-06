@@ -22,47 +22,47 @@ summary: ''
 
 Section 162
 
-### Alteration of Senedd electoral regions[^key-60edd79c70d763519861630d1afb7962]
+### Alteration of Senedd electoral regions[^c-60edd79c70d763519861630d1afb7962]
 
-**1.**[^key-d5a7256964ba97a17bfa3166a09db5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d5a7256964ba97a17bfa3166a09db5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 2007 election to be election to Assembly constituted by this Act
 
 **2.** The 2007 election is an election to the Assembly constituted by this Act (and not that constituted by the Government of Wales Act 1998 (c. 38)).
 
-### ...[^key-ba1fd1f9ad731fb352a126f952a61c6d]
+### ...[^c-ba1fd1f9ad731fb352a126f952a61c6d]
 
-**3.**[^key-ba1fd1f9ad731fb352a126f952a61c6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ba1fd1f9ad731fb352a126f952a61c6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-ba1fd1f9ad731fb352a126f952a61c6d]
+### ...[^c-ba1fd1f9ad731fb352a126f952a61c6d]
 
-**4.**[^key-ba1fd1f9ad731fb352a126f952a61c6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ba1fd1f9ad731fb352a126f952a61c6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-ba1fd1f9ad731fb352a126f952a61c6d]
+### ...[^c-ba1fd1f9ad731fb352a126f952a61c6d]
 
-**5.**[^key-ba1fd1f9ad731fb352a126f952a61c6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ba1fd1f9ad731fb352a126f952a61c6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-ba1fd1f9ad731fb352a126f952a61c6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-ba1fd1f9ad731fb352a126f952a61c6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-ba1fd1f9ad731fb352a126f952a61c6d]
+### ...[^c-ba1fd1f9ad731fb352a126f952a61c6d]
 
-**7.**[^key-ba1fd1f9ad731fb352a126f952a61c6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-ba1fd1f9ad731fb352a126f952a61c6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Election orders
 
 **8.** An order under section 11 of the Government of Wales Act 1998 which is in force immediately before the commencement of the repeal of that section by this Act has effect after that time as if made under section 13 of this Act.
 
-### ...[^key-93bb84d00f7b500f31493d69615c2e2b]
+### ...[^c-93bb84d00f7b500f31493d69615c2e2b]
 
-**9.**[^key-93bb84d00f7b500f31493d69615c2e2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-93bb84d00f7b500f31493d69615c2e2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Disqualification Orders
 
 **10.** An Order in Council under section 12(1)(b) of the Government of Wales Act 1998 (c. 38) which is in force immediately before the commencement of the repeal of that provision by this Act has effect after that time as if made under section 16(1)(b) of this Act.
 
-### ...[^key-2eded4619920a767efcbde6666d9905e]
+### ...[^c-2eded4619920a767efcbde6666d9905e]
 
-**11.**[^key-2eded4619920a767efcbde6666d9905e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-2eded4619920a767efcbde6666d9905e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Remuneration of Assembly members etc.
 
@@ -89,29 +89,29 @@ Section 162
 
 **13.** An order under section 17 of the Government of Wales Act 1998 which is in force immediately before the commencement of the repeal of that section by this Act has effect after that time as if made under section 21.
 
-### ...[^key-9c7ffd73678e6b728f124841c91cdad5]
+### ...[^c-9c7ffd73678e6b728f124841c91cdad5]
 
-**14.**[^key-9c7ffd73678e6b728f124841c91cdad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-9c7ffd73678e6b728f124841c91cdad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-9c7ffd73678e6b728f124841c91cdad5]
+### ...[^c-9c7ffd73678e6b728f124841c91cdad5]
 
-**15.**[^key-9c7ffd73678e6b728f124841c91cdad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-9c7ffd73678e6b728f124841c91cdad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-9c7ffd73678e6b728f124841c91cdad5]
+### ...[^c-9c7ffd73678e6b728f124841c91cdad5]
 
-**16.**[^key-9c7ffd73678e6b728f124841c91cdad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-9c7ffd73678e6b728f124841c91cdad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-9c7ffd73678e6b728f124841c91cdad5]
+### ...[^c-9c7ffd73678e6b728f124841c91cdad5]
 
-**17.**[^key-9c7ffd73678e6b728f124841c91cdad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-9c7ffd73678e6b728f124841c91cdad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-9c7ffd73678e6b728f124841c91cdad5]
+### ...[^c-9c7ffd73678e6b728f124841c91cdad5]
 
-**18.**[^key-9c7ffd73678e6b728f124841c91cdad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-9c7ffd73678e6b728f124841c91cdad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-9c7ffd73678e6b728f124841c91cdad5]
+### ...[^c-9c7ffd73678e6b728f124841c91cdad5]
 
-**19.**[^key-9c7ffd73678e6b728f124841c91cdad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-9c7ffd73678e6b728f124841c91cdad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Standing orders
 
@@ -145,15 +145,15 @@ Section 162
 
 **21.** In relation to an offence committed before the coming into force of section 281(5) of the Criminal Justice Act 2003 (c. 44) the references in section 39(4)(b) and 40(3)(b) to 51 weeks are to three months.
 
-### ...[^key-687df6ca4387c5a686bdba8f32867a01]
+### ...[^c-687df6ca4387c5a686bdba8f32867a01]
 
-**22.**[^key-687df6ca4387c5a686bdba8f32867a01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-687df6ca4387c5a686bdba8f32867a01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-687df6ca4387c5a686bdba8f32867a01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-687df6ca4387c5a686bdba8f32867a01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-687df6ca4387c5a686bdba8f32867a01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-687df6ca4387c5a686bdba8f32867a01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-687df6ca4387c5a686bdba8f32867a01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-687df6ca4387c5a686bdba8f32867a01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Saving for existing instruments conferring or imposing functions
 
@@ -173,13 +173,13 @@ is to be treated after that time as if it were also contained in an order under 
 
 **27.** Orders under section 27 of the Government of Wales Act 1998 which are in force immediately before the commencement of the repeal of that section by this Act continue to have effect despite the commencement of that repeal.
 
-**28.** (1)[^key-2ce80848c76c90e5070257878c1162f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.** (1)[^c-2ce80848c76c90e5070257878c1162f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Regulations made under section 56 of the Finance Act 1973 (c. 51) by virtue of subsection (4) of that section which are in force immediately before the commencement of the repeal of that subsection by this Act continue to have effect after the commencement of that repeal as if made by virtue of subsection (5) of section 59 of this Act.
 
-### ...[^key-1358e9f22229e29ffcdc69492ec7c27e]
+### ...[^c-1358e9f22229e29ffcdc69492ec7c27e]
 
-**29.**[^key-1358e9f22229e29ffcdc69492ec7c27e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-1358e9f22229e29ffcdc69492ec7c27e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Transfer of Assembly functions
 
@@ -287,7 +287,7 @@ which are made exercisable by them by or by virtue of paragraph 30 or 31.
 - (b) contains (or confirms or approves) subordinate legislation relating to an English border area, or
 - (c) contains (or confirms or approves) subordinate legislation relating to a cross-border body (and not relating only to the exercise of functions, or the carrying on of activities, by the body in or with respect to Wales or a part of Wales).
 
-(6A)[^key-997f7ab08e6b0164d0cfc75a499b3287] References in sub-paragraph (6) to Wales include, in relation to a relevant function or activity of a cross-border body, the area of the Welsh zone beyond the seaward limit of the territorial sea.
+(6A)[^c-997f7ab08e6b0164d0cfc75a499b3287] References in sub-paragraph (6) to Wales include, in relation to a relevant function or activity of a cross-border body, the area of the Welsh zone beyond the seaward limit of the territorial sea.
 
 A function or activity of a cross-border body is “relevant” if it relates to fishing, fisheries or fish health.
 
@@ -372,7 +372,7 @@ Table 1
 
 | *Function* | *Description* |
 | --- | --- |
-| [^key-9d048d5001b8777fb3a7be663b18a00f]. . . | [^key-9d048d5001b8777fb3a7be663b18a00f]. . . |
+| [^c-9d048d5001b8777fb3a7be663b18a00f]. . . | [^c-9d048d5001b8777fb3a7be663b18a00f]. . . |
 | Section 45D of the School Standards and Framework Act 1998 (c. 31). | Power to repeal school funding provisions. |
 | Section 8(3) of the Care Standards Act 2000 (c. 14). | Power to confer functions in relation to Part 2 services in Wales. |
 | Section 72B(2) of that Act. | Power to amend list of persons reviewable by Commissioner. |
@@ -383,8 +383,8 @@ Table 1
 | Paragraph 2 of Schedule 2 to that Act. | Power to make provision about the appointment etc. of Commissioner. |
 | Section 68(1) of the Local Government Act 2000 (c. 22), if exercised to amend or repeal any enactment contained in an Act. | Power to confer functions on Public Services Ombudsman for Wales. |
 | Section 68(3) of that Act, if exercised to amend or repeal any enactment contained in an Act. | Power to make provision relating to Ombudsman's functions and expenses. |
-| [^key-4d44a6ec9e731798b74d6dff039de9da]. . . | [^key-4d44a6ec9e731798b74d6dff039de9da]. . . |
-| [^key-93233f7e6f001746a9e2ffdfe1e25423]. . . | [^key-93233f7e6f001746a9e2ffdfe1e25423]. . . |
+| [^c-4d44a6ec9e731798b74d6dff039de9da]. . . | [^c-4d44a6ec9e731798b74d6dff039de9da]. . . |
+| [^c-93233f7e6f001746a9e2ffdfe1e25423]. . . | [^c-93233f7e6f001746a9e2ffdfe1e25423]. . . |
 | Section 3(4) of the Health (Wales) Act 2003 (c. 4). | Power to transfer functions of Wales Centre for Health to Welsh Minister. |
 | Section 4(1) of that Act. | Power to establish Health Professions Wales (HPW). |
 | Section 4(3) of that Act. | Power to provide for HPW to carry out Welsh Ministers' functions. |
@@ -393,8 +393,8 @@ Table 1
 | Section 92(2) of that Act. | Power to repeal section 24(3) of the Housing Act 1985 (c. 68). |
 | Section 23(9) of the Anti-social Behaviour Act 2003 (c. 38). | Power to apply to Wales provisions about penalty notices in cases of truancy. |
 | Section 75(1) of the Health and Social Care (Community Health and Standards) Act 2003 (c. 43), if exercised to amend or repeal any part of the text of an Act. | Power to require prescribed persons to provide explanation of documents etc. |
-| [^key-41e1908d0a0fe2bab96c80e3d22a2de6]. . . | [^key-41e1908d0a0fe2bab96c80e3d22a2de6]. . . |
-| Section 33(3)(a)(ii) of the Higher Education Act 2004 (c. 8). *(Extent: E+W)* *(affected by repeal, see note)*[^key-caca9e535e495e9ed9868e1e18d6ca90] | Power to require institutions' plans to include provision relating to promotion of higher education. *(Extent: E+W)* *(affected by repeal, see note)*[^key-caca9e535e495e9ed9868e1e18d6ca90] |
+| [^c-41e1908d0a0fe2bab96c80e3d22a2de6]. . . | [^c-41e1908d0a0fe2bab96c80e3d22a2de6]. . . |
+| Section 33(3)(a)(ii) of the Higher Education Act 2004 (c. 8). *(Extent: E+W)* *(affected by repeal, see note)*[^c-caca9e535e495e9ed9868e1e18d6ca90] | Power to require institutions' plans to include provision relating to promotion of higher education. *(Extent: E+W)* *(affected by repeal, see note)*[^c-caca9e535e495e9ed9868e1e18d6ca90] |
 | Section 12(2) of the Public Audit (Wales) Act 2004 (c. 23). | Power to add to definition of “local government body in Wales”. |
 | Section 39(1) of that Act, if exercised so as to include a declaration that a contravention is an offence. | Power to make provision about publication etc. of accounts. |
 | Section 46(2) of that Act. | Power to apply sections 47 to 49 to other local government bodies. |
@@ -402,7 +402,7 @@ Table 1
 | Section 62(1) of the Education Act 2005 (c. 18), if exercised to amend or repeal an enactment. | Power to change inspection framework for Wales. |
 | Section 103(3) of that Act. | Power to repeal certain provisions in the Education Act 2002 (c. 32). |
 | Section 124(1) of that Act, if exercised to amend or repeal an enactment. | Power to make consequential etc. provision. |
-| [^key-946d5567d40194c6019ee1b151350ac3]. . . | [^key-946d5567d40194c6019ee1b151350ac3]. . . |
+| [^c-946d5567d40194c6019ee1b151350ac3]. . . | [^c-946d5567d40194c6019ee1b151350ac3]. . . |
 | Section 4(1) of the Commissioner for Older People (Wales) Act 2006.[^c20315011] | Power to amend Schedule 2 to that Act. |
 | Section 6(5) of that Act.[^c20315031] | Power to confer power on the Commissioner to require prescribed persons to provide information for the purposes of his functions under section 5. |
 | Section 7(1) of that Act.[^c20315051] | Power to amend Schedule 3 to that Act. |
@@ -429,9 +429,9 @@ Table 2
 | [^c20306061]. . . | [^c20306061]. . . |
 | [^c20306081]. . . | [^c20306081]. . . |
 | [^c20306101]. . . | [^c20306101]. . . |
-| [^key-a5fc6ff72ac07b46d888a8e41587ff8d]. . . | [^key-a5fc6ff72ac07b46d888a8e41587ff8d]. . . |
+| [^c-a5fc6ff72ac07b46d888a8e41587ff8d]. . . | [^c-a5fc6ff72ac07b46d888a8e41587ff8d]. . . |
 | Section 97D of the School Standards and Framework Act 1998.[^c20315151] | Power to make provision about the admission of children looked after by local authorities in Wales to maintained schools in Wales. |
-| [^key-a5fc6ff72ac07b46d888a8e41587ff8d]. . . | [^key-a5fc6ff72ac07b46d888a8e41587ff8d]. . . |
+| [^c-a5fc6ff72ac07b46d888a8e41587ff8d]. . . | [^c-a5fc6ff72ac07b46d888a8e41587ff8d]. . . |
 | Paragraph 13B(1) of Schedule 26 to that Act. | Power to prescribe period within which nursery inspection report must be made. |
 | Section 73(5) of the Care Standards Act 2000 (c. 14). | Power to confer power on the Commissioner to require information. |
 | Section 74(1) of that Act. | Power to provide for examination by Commissioner of particular cases. |
@@ -439,17 +439,17 @@ Table 2
 | Paragraph 6(4) of Schedule 2 to that Act. | Power to specify the financial years of Commissioner. |
 | Paragraph 8 of that Schedule. | Power to require Commissioner to make reports to Assembly. |
 | Paragraph 17 of that Schedule. | Power to add Commissioner to the Superannuation Act 1972 (c. 11). |
-| [^key-71c9d70a8498078804a70a77459757b2]. . . | [^key-71c9d70a8498078804a70a77459757b2]. . . |
-| Section 128(4)(b) and (c) of the[^key-798f3cab1e64ba1d259df25a258cbde0] [Learning and Skills Act 2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21). | Power about statement of proposed action. |
+| [^c-71c9d70a8498078804a70a77459757b2]. . . | [^c-71c9d70a8498078804a70a77459757b2]. . . |
+| Section 128(4)(b) and (c) of the[^c-798f3cab1e64ba1d259df25a258cbde0] [Learning and Skills Act 2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21). | Power about statement of proposed action. |
 | Section 68(1) of the Local Government Act 2000 (c. 22), unless exercised to amend or repeal any enactment contained in an Act. | Power to confer functions on Public Services Ombudsman for Wales. |
 | Section 68(3) of that Act, unless exercised to amend or repeal any enactment contained in an Act. | Power to make provision relating to Ombudsman's functions and expenses. |
-| [^key-a5fc6ff72ac07b46d888a8e41587ff8d]. . . | [^key-a5fc6ff72ac07b46d888a8e41587ff8d]. . . |
+| [^c-a5fc6ff72ac07b46d888a8e41587ff8d]. . . | [^c-a5fc6ff72ac07b46d888a8e41587ff8d]. . . |
 | Section 113A(1) of the Transport Act 2000.[^c20315171] | Power to modify the application of sections 108 to 111 of that Act in relation to local transport authorities whose areas are in Wales. |
-| [^key-a5fc6ff72ac07b46d888a8e41587ff8d]. . . | [^key-a5fc6ff72ac07b46d888a8e41587ff8d]. . . |
+| [^c-a5fc6ff72ac07b46d888a8e41587ff8d]. . . | [^c-a5fc6ff72ac07b46d888a8e41587ff8d]. . . |
 | [^c20402831]. . . | [^c20402831]. . . |
 | [^c20316101]. . . | [^c20316101]. . . |
 | [^c20316131]. . . | [^c20316131]. . . |
-| [^key-a5fc6ff72ac07b46d888a8e41587ff8d]. . . | [^key-a5fc6ff72ac07b46d888a8e41587ff8d]. . . |
+| [^c-a5fc6ff72ac07b46d888a8e41587ff8d]. . . | [^c-a5fc6ff72ac07b46d888a8e41587ff8d]. . . |
 | Section 197 of the Education Act 2002 (c. 32)[^M_F_b4af8ca6-6d1b-4226-b969-e1266ec1f1d1]. | Power relating to partnership agreements and statements. |
 | Section 198 of that Act. | Power relating to transition from primary to secondary school. |
 | Section 207(4) of that Act. | Power relating to adjustments between local authorities[^c20931611]. |
@@ -465,22 +465,22 @@ Table 2
 | Section 29(1) of the Waste and Emissions Trading Act 2003 (c. 33) | Power to require Welsh local authority to have waste management strategy. |
 | Section 30(1) of that Act. | Power to require Welsh local authority to provide information about waste. |
 | Section 75(1) of the Health and Social Care (Community Health and Standards) Act 2003 (c. 43), unless exercised to amend or repeal any part of the text of an Act. | Power to require prescribed persons to provide explanation of documents etc. |
-| [^key-a5fc6ff72ac07b46d888a8e41587ff8d]. . . | [^key-a5fc6ff72ac07b46d888a8e41587ff8d]. . . |
-| Section 62(4) of the Planning and Compulsory Purchase Act 2004 (c. 5). *(Extent: E+W)* *(affected by repeal, see note)*[^key-7cb3e4c36c6c4b4695c25729d225058c] | Power to prescribe form and content of local development plan. *(Extent: E+W)* *(affected by repeal, see note)*[^key-7cb3e4c36c6c4b4695c25729d225058c] |
-| Section 63(3)(a) of that Act. *(Extent: E+W)* *(affected by repeal, see note)*[^key-7cb3e4c36c6c4b4695c25729d225058c] | Power to prescribe persons to be included in community involvement scheme. *(Extent: E+W)* *(affected by repeal, see note)*[^key-7cb3e4c36c6c4b4695c25729d225058c] |
-| Section 63(7) of that Act. *(Extent: E+W)* *(affected by repeal, see note)*[^key-7cb3e4c36c6c4b4695c25729d225058c] | Power to prescribe requirements in relation to that scheme and local development plan. *(Extent: E+W)* *(affected by repeal, see note)*[^key-7cb3e4c36c6c4b4695c25729d225058c] |
-| Section 69(1) of that Act. *(Extent: E+W)* *(affected by repeal, see note)*[^key-7cb3e4c36c6c4b4695c25729d225058c] | Power to prescribe times for review of local development plan. *(Extent: E+W)* *(affected by repeal, see note)*[^key-7cb3e4c36c6c4b4695c25729d225058c] |
-| Section 69(3) of that Act. *(Extent: E+W)* *(affected by repeal, see note)*[^key-7cb3e4c36c6c4b4695c25729d225058c] | Power to prescribe form of, and publication requirements for, review. *(Extent: E+W)* *(affected by repeal, see note)*[^key-7cb3e4c36c6c4b4695c25729d225058c] |
-| Section 76(2) of that Act. *(Extent: E+W)* *(affected by repeal, see note)*[^key-7cb3e4c36c6c4b4695c25729d225058c] | Power to prescribe information to be contained in annual monitoring report. *(Extent: E+W)* *(affected by repeal, see note)*[^key-7cb3e4c36c6c4b4695c25729d225058c] |
-| Section 76(3) of that Act. *(Extent: E+W)* *(affected by repeal, see note)*[^key-7cb3e4c36c6c4b4695c25729d225058c] | Power to prescribe timing, form and content of report. *(Extent: E+W)* *(affected by repeal, see note)*[^key-7cb3e4c36c6c4b4695c25729d225058c] |
-| Section 77 of that Act. *(Extent: E+W)* *(affected by repeal, see note)*[^key-7cb3e4c36c6c4b4695c25729d225058c] | Power to make provision about functions conferred by Part 6. *(Extent: E+W)* *(affected by repeal, see note)*[^key-7cb3e4c36c6c4b4695c25729d225058c] |
-| Section 30(1)(b) of the Higher Education Act 2004 (c. 8). *(Extent: E+W)* *(affected by repeal, see note)*[^key-fd1d87029b2edba0ea38df895823f87b] | Power to designate “relevant authority”. *(Extent: E+W)* *(affected by repeal, see note)*[^key-fd1d87029b2edba0ea38df895823f87b] |
-| Section 38(2) of that Act. *(Extent: E+W)* *(affected by repeal, see note)*[^key-fd1d87029b2edba0ea38df895823f87b] | Power to prescribe maximum period during which relevant authority can refuse to approve institution's new plan. *(Extent: E+W)* *(affected by repeal, see note)*[^key-fd1d87029b2edba0ea38df895823f87b] |
-| [^key-a5fc6ff72ac07b46d888a8e41587ff8d]. . . | [^key-a5fc6ff72ac07b46d888a8e41587ff8d]. . . |
+| [^c-a5fc6ff72ac07b46d888a8e41587ff8d]. . . | [^c-a5fc6ff72ac07b46d888a8e41587ff8d]. . . |
+| Section 62(4) of the Planning and Compulsory Purchase Act 2004 (c. 5). *(Extent: E+W)* *(affected by repeal, see note)*[^c-7cb3e4c36c6c4b4695c25729d225058c] | Power to prescribe form and content of local development plan. *(Extent: E+W)* *(affected by repeal, see note)*[^c-7cb3e4c36c6c4b4695c25729d225058c] |
+| Section 63(3)(a) of that Act. *(Extent: E+W)* *(affected by repeal, see note)*[^c-7cb3e4c36c6c4b4695c25729d225058c] | Power to prescribe persons to be included in community involvement scheme. *(Extent: E+W)* *(affected by repeal, see note)*[^c-7cb3e4c36c6c4b4695c25729d225058c] |
+| Section 63(7) of that Act. *(Extent: E+W)* *(affected by repeal, see note)*[^c-7cb3e4c36c6c4b4695c25729d225058c] | Power to prescribe requirements in relation to that scheme and local development plan. *(Extent: E+W)* *(affected by repeal, see note)*[^c-7cb3e4c36c6c4b4695c25729d225058c] |
+| Section 69(1) of that Act. *(Extent: E+W)* *(affected by repeal, see note)*[^c-7cb3e4c36c6c4b4695c25729d225058c] | Power to prescribe times for review of local development plan. *(Extent: E+W)* *(affected by repeal, see note)*[^c-7cb3e4c36c6c4b4695c25729d225058c] |
+| Section 69(3) of that Act. *(Extent: E+W)* *(affected by repeal, see note)*[^c-7cb3e4c36c6c4b4695c25729d225058c] | Power to prescribe form of, and publication requirements for, review. *(Extent: E+W)* *(affected by repeal, see note)*[^c-7cb3e4c36c6c4b4695c25729d225058c] |
+| Section 76(2) of that Act. *(Extent: E+W)* *(affected by repeal, see note)*[^c-7cb3e4c36c6c4b4695c25729d225058c] | Power to prescribe information to be contained in annual monitoring report. *(Extent: E+W)* *(affected by repeal, see note)*[^c-7cb3e4c36c6c4b4695c25729d225058c] |
+| Section 76(3) of that Act. *(Extent: E+W)* *(affected by repeal, see note)*[^c-7cb3e4c36c6c4b4695c25729d225058c] | Power to prescribe timing, form and content of report. *(Extent: E+W)* *(affected by repeal, see note)*[^c-7cb3e4c36c6c4b4695c25729d225058c] |
+| Section 77 of that Act. *(Extent: E+W)* *(affected by repeal, see note)*[^c-7cb3e4c36c6c4b4695c25729d225058c] | Power to make provision about functions conferred by Part 6. *(Extent: E+W)* *(affected by repeal, see note)*[^c-7cb3e4c36c6c4b4695c25729d225058c] |
+| Section 30(1)(b) of the Higher Education Act 2004 (c. 8). *(Extent: E+W)* *(affected by repeal, see note)*[^c-fd1d87029b2edba0ea38df895823f87b] | Power to designate “relevant authority”. *(Extent: E+W)* *(affected by repeal, see note)*[^c-fd1d87029b2edba0ea38df895823f87b] |
+| Section 38(2) of that Act. *(Extent: E+W)* *(affected by repeal, see note)*[^c-fd1d87029b2edba0ea38df895823f87b] | Power to prescribe maximum period during which relevant authority can refuse to approve institution's new plan. *(Extent: E+W)* *(affected by repeal, see note)*[^c-fd1d87029b2edba0ea38df895823f87b] |
+| [^c-a5fc6ff72ac07b46d888a8e41587ff8d]. . . | [^c-a5fc6ff72ac07b46d888a8e41587ff8d]. . . |
 | Section 39(1) of the Public Audit (Wales) Act 2004 (c. 23)[^M_F_e98ed555-1dcf-4ac5-c4b9-f3a343f93057], unless exercised so as to include a declaration that a contravention is an offence. | Power to make provision about publication etc. of accounts. |
 | Section 52(2)(c) of that Act. | Power to specify documents to which right of access applies. |
-| Section 26(2)(f) of the Children Act 2004 (c. 31). *(Extent: E+W)* *(affected by repeal, see note)*[^key-e57c91efc4f9798f1e0a5138a8bbe850] | Power to make provision about implementation of children and young people's plans. *(Extent: E+W)* *(affected by repeal, see note)*[^key-e57c91efc4f9798f1e0a5138a8bbe850] |
-| Section 26(4) of that Act. *(Extent: E+W)* *(affected by repeal, see note)*[^key-e57c91efc4f9798f1e0a5138a8bbe850] | Power to require approval of such plans. *(Extent: E+W)* *(affected by repeal, see note)*[^key-e57c91efc4f9798f1e0a5138a8bbe850] |
+| Section 26(2)(f) of the Children Act 2004 (c. 31). *(Extent: E+W)* *(affected by repeal, see note)*[^c-e57c91efc4f9798f1e0a5138a8bbe850] | Power to make provision about implementation of children and young people's plans. *(Extent: E+W)* *(affected by repeal, see note)*[^c-e57c91efc4f9798f1e0a5138a8bbe850] |
+| Section 26(4) of that Act. *(Extent: E+W)* *(affected by repeal, see note)*[^c-e57c91efc4f9798f1e0a5138a8bbe850] | Power to require approval of such plans. *(Extent: E+W)* *(affected by repeal, see note)*[^c-e57c91efc4f9798f1e0a5138a8bbe850] |
 | Section 22(1) of the Education Act 2005 (c. 18). | Power to establish panel to advise on Chief Inspector's functions. |
 | Section 25(2) of that Act. | Power to prescribe categories of persons who may be registered inspectors. |
 | Section 25(3)(b) of that Act. | Power to prescribe fees for applications for registration. |
@@ -496,7 +496,7 @@ Table 2
 | Section 57(7)(a), (b) and (c) of that Act. | Power to require a person inspected to prepare written statement in response. |
 | Section 57(9) of that Act. | Power to make provision about inspection reports. |
 | Section 62(1) of that Act, unless exercised to amend or repeal an enactment. | Power to change inspection framework for Wales. |
-| [^key-800327711b9535764fc11a72c1144454]. . . | [^key-800327711b9535764fc11a72c1144454]. . . |
+| [^c-800327711b9535764fc11a72c1144454]. . . | [^c-800327711b9535764fc11a72c1144454]. . . |
 | Section 124(1) of that Act, unless exercised to amend or repeal an enactment. | Power to make consequential etc. provision. |
 | Paragraph 2 of Schedule 3 to that Act. | Power to make provision about appeals to, and procedure of, tribunals. |
 | Paragraph 3(2)(b) of Schedule 4 to that Act. | Power to prescribe persons who may not be members of inspection team. |
@@ -521,9 +521,9 @@ Table 2
 
 (6) This paragraph does not apply if the function was transferred as a result of the operation of paragraph 30(2)(b) (see paragraph 28 and section 59).
 
-### ...[^key-fd266504b34790666314080aa94948bd]
+### ...[^c-fd266504b34790666314080aa94948bd]
 
-**35A.**[^key-fd266504b34790666314080aa94948bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35A.**[^c-fd266504b34790666314080aa94948bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Transfers of Assembly functions: laying of reports and statements
 
@@ -673,16 +673,16 @@ is conclusive evidence of the transfer.
 
 (2) To the extent that any criminal liability of the Assembly is connected with property, rights and other liabilities transferred to the Assembly Commission by the National Assembly for Wales (Transfer of Property, Rights and Liabilities) Order 2007, that criminal liability is transferred to the Assembly Commission.
 
-(3) Subject to sub-paragraph (2), the criminal liability of the Assembly is transferred to the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government.
+(3) Subject to sub-paragraph (2), the criminal liability of the Assembly is transferred to the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government.
 
 (4) Paragraph 39(2) to (4) applies in relation to criminal liability transferred by this paragraph as it applies to a liability transferred by paragraph 39; and in that application of paragraph 39(2) to (4)—
 
 - “ **transfer time** ” means the time immediately after the end of the initial period;
-- “ **transferee of the transferred function** ” means the Assembly Commission or, as the case may be, the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government.
+- “ **transferee of the transferred function** ” means the Assembly Commission or, as the case may be, the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government.
 
 ### Staff of the Assembly
 
-**43.** (1) Subject as follows, at the end of the initial period the members of the staff of the Assembly constituted by the Government of Wales Act 1998 (c. 38) (“relevant employees”) are to be taken to have been appointed as members of the staff of the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government.
+**43.** (1) Subject as follows, at the end of the initial period the members of the staff of the Assembly constituted by the Government of Wales Act 1998 (c. 38) (“relevant employees”) are to be taken to have been appointed as members of the staff of the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government.
 
 (2) But the Secretary of State may by order make a scheme (“a transfer scheme”) for the transfer to the Assembly Commission of the rights, powers, duties and liabilities of the Assembly constituted by the Government of Wales Act 1998 in respect of[^c20306411] listed relevant employees under or in connection with[^c20306431] their contracts of employment at the end of the initial period.
 
@@ -788,9 +788,9 @@ is conclusive evidence of the transfer.
 
 **48.** (1) The National Action Plan for a Bilingual Wales (or Iaith Pawb) as it stands immediately before the coming into force of section 78 has effect after that time (with appropriate modifications) as if it were a strategy adopted under subsection (1) of that section.
 
-(2)[^key-665f9a4a4b8dd421e1ce4c8a9dca66ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-665f9a4a4b8dd421e1ce4c8a9dca66ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Sub-paragraph (1) does *(Extent: E+W)*[^key-b92b2ee03be91571b3c08e20ba3f5aad] not give rise to any obligation under section 78(6).
+(3) Sub-paragraph (1) does *(Extent: E+W)*[^c-b92b2ee03be91571b3c08e20ba3f5aad] not give rise to any obligation under section 78(6).
 
 (4) Section 78(8) does not apply in relation to the financial year ending with 31st March 2007.
 
@@ -808,39 +808,39 @@ is conclusive evidence of the transfer.
 
 (6) Section 79(7) has effect as if 2008 were the year following that in which an ordinary general election is held.
 
-### ...[^key-a670fc6d8c816d0707d53126ec057bab]
+### ...[^c-a670fc6d8c816d0707d53126ec057bab]
 
-**50.**[^key-a670fc6d8c816d0707d53126ec057bab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**50.**[^c-a670fc6d8c816d0707d53126ec057bab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**51.**[^key-a670fc6d8c816d0707d53126ec057bab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**51.**[^c-a670fc6d8c816d0707d53126ec057bab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Assembly Measures: criminal penalties
 
 **52.** (1) No term of imprisonment of more than six months is to be imposed on conviction of a summary offence created by or by virtue of an Assembly Measure if the offence is committed before the coming into force of section 281(5) of the Criminal Justice Act 2003 (c. 44).
 
-(2) No term of imprisonment of more than six months is to be imposed on summary conviction of an offence triable either way created by or by virtue of an Assembly Measure if the offence is committed before 2 May 2022[^key-edacfc94995a7d8bdc979e2eb8e7542c].
+(2) No term of imprisonment of more than six months is to be imposed on summary conviction of an offence triable either way created by or by virtue of an Assembly Measure if the offence is committed before 2 May 2022[^c-edacfc94995a7d8bdc979e2eb8e7542c].
 
-### ...[^key-cf87c0a8726febad14ede41100953768]
+### ...[^c-cf87c0a8726febad14ede41100953768]
 
-#### 53.[^key-cf87c0a8726febad14ede41100953768]
+#### 53.[^c-cf87c0a8726febad14ede41100953768]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**53A.**[^key-cf87c0a8726febad14ede41100953768] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**53A.**[^c-cf87c0a8726febad14ede41100953768] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**53B.**[^key-cf87c0a8726febad14ede41100953768] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**53B.**[^c-cf87c0a8726febad14ede41100953768] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-6d394bb64df677f99818837ce7eaea29]
+### ...[^c-6d394bb64df677f99818837ce7eaea29]
 
-**54.**[^key-6d394bb64df677f99818837ce7eaea29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**54.**[^c-6d394bb64df677f99818837ce7eaea29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-6d394bb64df677f99818837ce7eaea29]
+### ...[^c-6d394bb64df677f99818837ce7eaea29]
 
-**55.**[^key-6d394bb64df677f99818837ce7eaea29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**55.**[^c-6d394bb64df677f99818837ce7eaea29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-6d394bb64df677f99818837ce7eaea29]
+### ...[^c-6d394bb64df677f99818837ce7eaea29]
 
-**56.**[^key-6d394bb64df677f99818837ce7eaea29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**56.**[^c-6d394bb64df677f99818837ce7eaea29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Borrowing
 
@@ -853,27 +853,27 @@ is conclusive evidence of the transfer.
 
 is treated as outstanding in respect of the principal of sums borrowed under section 121.
 
-### ...[^key-58de88cf8dd2aacdc62d00ca6de8093c]
+### ...[^c-58de88cf8dd2aacdc62d00ca6de8093c]
 
-**58.**[^key-58de88cf8dd2aacdc62d00ca6de8093c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**58.**[^c-58de88cf8dd2aacdc62d00ca6de8093c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**59.**[^key-58de88cf8dd2aacdc62d00ca6de8093c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**59.**[^c-58de88cf8dd2aacdc62d00ca6de8093c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-58de88cf8dd2aacdc62d00ca6de8093c]
+### ...[^c-58de88cf8dd2aacdc62d00ca6de8093c]
 
-**60.**[^key-58de88cf8dd2aacdc62d00ca6de8093c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**60.**[^c-58de88cf8dd2aacdc62d00ca6de8093c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-58de88cf8dd2aacdc62d00ca6de8093c]
+### ...[^c-58de88cf8dd2aacdc62d00ca6de8093c]
 
-**61.**[^key-58de88cf8dd2aacdc62d00ca6de8093c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**61.**[^c-58de88cf8dd2aacdc62d00ca6de8093c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-58de88cf8dd2aacdc62d00ca6de8093c]
+### ...[^c-58de88cf8dd2aacdc62d00ca6de8093c]
 
-**62.**[^key-58de88cf8dd2aacdc62d00ca6de8093c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**62.**[^c-58de88cf8dd2aacdc62d00ca6de8093c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-58de88cf8dd2aacdc62d00ca6de8093c]
+### ...[^c-58de88cf8dd2aacdc62d00ca6de8093c]
 
-**63.**[^key-58de88cf8dd2aacdc62d00ca6de8093c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**63.**[^c-58de88cf8dd2aacdc62d00ca6de8093c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Preparation of Assembly's annual accounts for financial year ending 31st March 2007[^c20339841]
 
@@ -883,19 +883,19 @@ is treated as outstanding in respect of the principal of sums borrowed under sec
 
 **63B.** The function of the Assembly constituted by the Government of Wales Act 1998 under section 101A of that Act of preparing whole of government accounts for the financial year ending with 31st March 2007 shall transfer to the Welsh Ministers at the end of the initial period.
 
-### ...[^key-df10df96d777819a5f1100fb37013dc2]
+### ...[^c-df10df96d777819a5f1100fb37013dc2]
 
-**64.**[^key-df10df96d777819a5f1100fb37013dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**64.**[^c-df10df96d777819a5f1100fb37013dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Auditor General's staff[^c20335921]
 
 **64A.** The members of staff employed by the Auditor General immediately before the commencement of the repeal of section 92 of the Government of Wales Act 1998 are to be taken after that time to have been appointed to that employment under paragraph 7 of Schedule 8.
 
-### ...[^key-eb0f5ba2a800d99e83e6280eba747ee6]
+### ...[^c-eb0f5ba2a800d99e83e6280eba747ee6]
 
-**64B.**[^key-eb0f5ba2a800d99e83e6280eba747ee6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**64B.**[^c-eb0f5ba2a800d99e83e6280eba747ee6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**64C.**[^key-8568fcb467c4569e528dc2e6f3c8038f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**64C.**[^c-8568fcb467c4569e528dc2e6f3c8038f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Audit Committee reports
 
@@ -907,47 +907,47 @@ is treated as outstanding in respect of the principal of sums borrowed under sec
 
 (2) Section 135 of this Act applies to an examination carried out pursuant to sub-paragraph (1) as it applies to an examination of the kind mentioned in subsection (1) of that section.
 
-### ...[^key-fc57b546768c3dbb638d58555906f4da]
+### ...[^c-fc57b546768c3dbb638d58555906f4da]
 
-**64F.**[^key-fc57b546768c3dbb638d58555906f4da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**64F.**[^c-fc57b546768c3dbb638d58555906f4da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-b9c6f481c695406cc53c4850ff6486aa]
+### ...[^c-b9c6f481c695406cc53c4850ff6486aa]
 
-**64G.**[^key-b9c6f481c695406cc53c4850ff6486aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**64G.**[^c-b9c6f481c695406cc53c4850ff6486aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-c01819305adadc0338c8c88db2d893f3]
+### ...[^c-c01819305adadc0338c8c88db2d893f3]
 
-**65.**[^key-c01819305adadc0338c8c88db2d893f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**65.**[^c-c01819305adadc0338c8c88db2d893f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-2c55d01a4cbfb927bb645f9e05e2ecfd]
+### ...[^c-2c55d01a4cbfb927bb645f9e05e2ecfd]
 
-**66.**[^key-2c55d01a4cbfb927bb645f9e05e2ecfd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**66.**[^c-2c55d01a4cbfb927bb645f9e05e2ecfd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**67.**[^key-2c55d01a4cbfb927bb645f9e05e2ecfd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**67.**[^c-2c55d01a4cbfb927bb645f9e05e2ecfd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
 
-[^key-d5a7256964ba97a17bfa3166a09db5fc]: Textual amendment: Sch. 11 para. 1 repealed (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 13(2)(c)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/2/c), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Schs. 12](https://www.legislation.gov.uk/ukpga/2011/1/schedule/12)
+[^c-d5a7256964ba97a17bfa3166a09db5fc]: Textual amendment: Sch. 11 para. 1 repealed (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 13(2)(c)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/2/c), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Schs. 12](https://www.legislation.gov.uk/ukpga/2011/1/schedule/12)
 
-[^key-ba1fd1f9ad731fb352a126f952a61c6d]: Textual amendment: Sch. 11 paras. 3-7 and cross-headings omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/a)
+[^c-ba1fd1f9ad731fb352a126f952a61c6d]: Textual amendment: Sch. 11 paras. 3-7 and cross-headings omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/a)
 
-[^key-93bb84d00f7b500f31493d69615c2e2b]: Textual amendment: Sch. 11 para. 9 and cross-heading omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/b)
+[^c-93bb84d00f7b500f31493d69615c2e2b]: Textual amendment: Sch. 11 para. 9 and cross-heading omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/b)
 
-[^key-2eded4619920a767efcbde6666d9905e]: Textual amendment: Sch. 11 para. 11 and cross-heading omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(c)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/c)
+[^c-2eded4619920a767efcbde6666d9905e]: Textual amendment: Sch. 11 para. 11 and cross-heading omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(c)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/c)
 
-[^key-9c7ffd73678e6b728f124841c91cdad5]: Textual amendment: Sch. 11 paras. 14-19 and cross-headings omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(d)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/d)
+[^c-9c7ffd73678e6b728f124841c91cdad5]: Textual amendment: Sch. 11 paras. 14-19 and cross-headings omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(d)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/d)
 
-[^key-687df6ca4387c5a686bdba8f32867a01]: Textual amendment: Sch. 11 paras. 22-25 and cross-heading omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(e)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/e)
+[^c-687df6ca4387c5a686bdba8f32867a01]: Textual amendment: Sch. 11 paras. 22-25 and cross-heading omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(e)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/e)
 
-[^key-2ce80848c76c90e5070257878c1162f9]: Textual amendment: Sch. 11 para. 28(1) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(f)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/f)
+[^c-2ce80848c76c90e5070257878c1162f9]: Textual amendment: Sch. 11 para. 28(1) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(f)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/f)
 
-[^key-1358e9f22229e29ffcdc69492ec7c27e]: Textual amendment: Sch. 11 para. 29 and cross-heading omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(g)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/g)
+[^c-1358e9f22229e29ffcdc69492ec7c27e]: Textual amendment: Sch. 11 para. 29 and cross-heading omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(g)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/g)
 
 [^M_C_69641a96-73ee-4bae-fcb8-c99df3afc632]: Modification: Sch. 11 para. 32 excluded (2.5.2007) by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), arts. 1(3), 4, Sch. 2 para. 2
 
-[^key-997f7ab08e6b0164d0cfc75a499b3287]: Textual amendment: [Sch. 11 para. 33(6A)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/11/paragraph/33/6A) inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [ss. 45(6)](https://www.legislation.gov.uk/ukpga/2020/22/section/45/6), [54(2)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/2) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-997f7ab08e6b0164d0cfc75a499b3287]: Textual amendment: [Sch. 11 para. 33(6A)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/11/paragraph/33/6A) inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [ss. 45(6)](https://www.legislation.gov.uk/ukpga/2020/22/section/45/6), [54(2)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/2) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^c20314801]: Modification: Sch. 11 para. 34 excluded (1.4.2008) [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [ss. 50(10)(a)](https://www.legislation.gov.uk/ukpga/2007/12/section/50/10/a), [56](https://www.legislation.gov.uk/ukpga/2007/12/section/56); [S.I. 2008/745](https://www.legislation.gov.uk/uksi/2008/745), [art. 4](https://www.legislation.gov.uk/uksi/2008/745/article/4)
 
@@ -957,17 +957,17 @@ is treated as outstanding in respect of the principal of sums borrowed under sec
 
 [^c20315431]: Modification: Sch. 11 para. 35 excluded (1.4.2008) [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [ss. 50(10)(a)](https://www.legislation.gov.uk/ukpga/2007/12/section/50/10/a), [56](https://www.legislation.gov.uk/ukpga/2007/12/section/56); [S.I. 2008/745](https://www.legislation.gov.uk/uksi/2008/745), [art. 4](https://www.legislation.gov.uk/uksi/2008/745/article/4)
 
-[^key-9d048d5001b8777fb3a7be663b18a00f]: Textual amendment: Words in [Sch. 11 para. 35(3)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/11/paragraph/35/3) Table 1 omitted (18.10.2023) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b), [Sch. 2 para. 16](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/16); [S.I. 2023/1096](https://www.legislation.gov.uk/uksi/2023/1096), [art. 2(e)](https://www.legislation.gov.uk/uksi/2023/1096/article/2/e)
+[^c-9d048d5001b8777fb3a7be663b18a00f]: Textual amendment: Words in [Sch. 11 para. 35(3)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/11/paragraph/35/3) Table 1 omitted (18.10.2023) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b), [Sch. 2 para. 16](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/16); [S.I. 2023/1096](https://www.legislation.gov.uk/uksi/2023/1096), [art. 2(e)](https://www.legislation.gov.uk/uksi/2023/1096/article/2/e)
 
-[^key-4d44a6ec9e731798b74d6dff039de9da]: Textual amendment: Sch. 11 para. 35(3) Table 1: entry omitted (5.5.2022) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 8 para. 7](https://www.legislation.gov.uk/asc/2021/1/schedule/8/paragraph/7); [S.I. 2022/98](https://www.legislation.gov.uk/uksi/2022/98), [art. 2(b)](https://www.legislation.gov.uk/uksi/2022/98/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/98/article/3))
+[^c-4d44a6ec9e731798b74d6dff039de9da]: Textual amendment: Sch. 11 para. 35(3) Table 1: entry omitted (5.5.2022) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 8 para. 7](https://www.legislation.gov.uk/asc/2021/1/schedule/8/paragraph/7); [S.I. 2022/98](https://www.legislation.gov.uk/uksi/2022/98), [art. 2(b)](https://www.legislation.gov.uk/uksi/2022/98/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/98/article/3))
 
-[^key-93233f7e6f001746a9e2ffdfe1e25423]: Textual amendment: Words in [Sch. 11 para. 35(3)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/11/paragraph/35/3) Table 1 omitted (25.6.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 42](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/42)
+[^c-93233f7e6f001746a9e2ffdfe1e25423]: Textual amendment: Words in [Sch. 11 para. 35(3)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/11/paragraph/35/3) Table 1 omitted (25.6.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 42](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/42)
 
-[^key-41e1908d0a0fe2bab96c80e3d22a2de6]: Textual amendment: Words in Sch. 11 para. 35(3) Table 1 omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(h)(ii)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/h/ii)
+[^c-41e1908d0a0fe2bab96c80e3d22a2de6]: Textual amendment: Words in Sch. 11 para. 35(3) Table 1 omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(h)(ii)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/h/ii)
 
-[^key-caca9e535e495e9ed9868e1e18d6ca90]: Textual amendment: Words in Sch. 11 para. 35(3) Table 1 omitted (1.9.2015) by virtue of [Higher Education (Wales) Act 2015 (anaw 1)](https://www.legislation.gov.uk/anaw/2015/1), [s. 59(2)](https://www.legislation.gov.uk/anaw/2015/1/section/59/2), [Sch. para. 23(a)](https://www.legislation.gov.uk/anaw/2015/1/schedule/paragraph/23/a); [S.I. 2015/1327](https://www.legislation.gov.uk/wsi/2015/1327), [art. 5(s)(v)](https://www.legislation.gov.uk/wsi/2015/1327/article/5/s/v)
+[^c-caca9e535e495e9ed9868e1e18d6ca90]: Textual amendment: Words in Sch. 11 para. 35(3) Table 1 omitted (1.9.2015) by virtue of [Higher Education (Wales) Act 2015 (anaw 1)](https://www.legislation.gov.uk/anaw/2015/1), [s. 59(2)](https://www.legislation.gov.uk/anaw/2015/1/section/59/2), [Sch. para. 23(a)](https://www.legislation.gov.uk/anaw/2015/1/schedule/paragraph/23/a); [S.I. 2015/1327](https://www.legislation.gov.uk/wsi/2015/1327), [art. 5(s)(v)](https://www.legislation.gov.uk/wsi/2015/1327/article/5/s/v)
 
-[^key-946d5567d40194c6019ee1b151350ac3]: Textual amendment: Sch. 11 para. 35(3) Table 1: entry omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(1)(e)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/e), [Sch. 9 para. 50](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/50)
+[^c-946d5567d40194c6019ee1b151350ac3]: Textual amendment: Sch. 11 para. 35(3) Table 1: entry omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(1)(e)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/e), [Sch. 9 para. 50](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/50)
 
 [^c20315011]: Textual amendment: Sch. 11 para. 35(3) Table 1: entry inserted (2.5.2007) by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/3), [4](https://www.legislation.gov.uk/uksi/2007/1388/article/4), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2007/1388/schedule/2/paragraph/4)
 
@@ -1007,13 +1007,13 @@ is treated as outstanding in respect of the principal of sums borrowed under sec
 
 [^c20306101]: Textual amendment: Sch. 11 para. 35(4) Table 2: entry omitted (1.3.2007) by virtue of [Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [ss. 2](https://www.legislation.gov.uk/ukpga/2006/43/section/2), [8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 304(a)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/304/a) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
 
-[^key-a5fc6ff72ac07b46d888a8e41587ff8d]: Textual amendment: Words in Sch. 11 para. 35(3) Table 2 omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(i)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/i)
+[^c-a5fc6ff72ac07b46d888a8e41587ff8d]: Textual amendment: Words in Sch. 11 para. 35(3) Table 2 omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(i)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/i)
 
 [^c20315151]: Textual amendment: Sch. 11 para. 35(4) Table 2: entry inserted (2.5.2007) by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/3), [4](https://www.legislation.gov.uk/uksi/2007/1388/article/4), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2007/1388/schedule/2/paragraph/5)
 
-[^key-71c9d70a8498078804a70a77459757b2]: Textual amendment: Words in Sch. 11 para. 35(4) Table 2 omitted (1.4.2026) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 20(3)(a)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/20/3/a) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xxxix)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww/xxxix)
+[^c-71c9d70a8498078804a70a77459757b2]: Textual amendment: Words in Sch. 11 para. 35(4) Table 2 omitted (1.4.2026) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 20(3)(a)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/20/3/a) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xxxix)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww/xxxix)
 
-[^key-798f3cab1e64ba1d259df25a258cbde0]: Textual amendment: Words in Sch. 11 para. 35(4) Table 2 substituted (1.4.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 20(3)(b)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/20/3/b) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xxxix)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww/xxxix)
+[^c-798f3cab1e64ba1d259df25a258cbde0]: Textual amendment: Words in Sch. 11 para. 35(4) Table 2 substituted (1.4.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 20(3)(b)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/20/3/b) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xxxix)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww/xxxix)
 
 [^c20315171]: Textual amendment: Sch. 11 para. 35(4) Table 2: entry inserted (2.5.2007) by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/3), [4](https://www.legislation.gov.uk/uksi/2007/1388/article/4), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2007/1388/schedule/2/paragraph/5)
 
@@ -1027,19 +1027,19 @@ is treated as outstanding in respect of the principal of sums borrowed under sec
 
 [^c20931611]: Textual amendment: Sch. 11 para. 35(4): Table 2 words substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [5(1)](https://www.legislation.gov.uk/uksi/2010/1158/article/5/1), [Sch. 2 para. 59(3)(a)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/59/3/a)
 
-[^key-7cb3e4c36c6c4b4695c25729d225058c]: Textual amendment: Words in Sch. 11 para. 35(4) omitted (6.9.2015) by virtue of [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(a)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/a), [Sch. 7 para. 2](https://www.legislation.gov.uk/anaw/2015/4/schedule/7/paragraph/2)
+[^c-7cb3e4c36c6c4b4695c25729d225058c]: Textual amendment: Words in Sch. 11 para. 35(4) omitted (6.9.2015) by virtue of [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(a)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/a), [Sch. 7 para. 2](https://www.legislation.gov.uk/anaw/2015/4/schedule/7/paragraph/2)
 
-[^key-fd1d87029b2edba0ea38df895823f87b]: Textual amendment: Words in Sch. 11 para. 35(4) Table 2 omitted (1.9.2015) by virtue of [Higher Education (Wales) Act 2015 (anaw 1)](https://www.legislation.gov.uk/anaw/2015/1), [s. 59(2)](https://www.legislation.gov.uk/anaw/2015/1/section/59/2), [Sch. para. 23(b)](https://www.legislation.gov.uk/anaw/2015/1/schedule/paragraph/23/b); [S.I. 2015/1327](https://www.legislation.gov.uk/wsi/2015/1327), [art. 5(s)(v)](https://www.legislation.gov.uk/wsi/2015/1327/article/5/s/v)
+[^c-fd1d87029b2edba0ea38df895823f87b]: Textual amendment: Words in Sch. 11 para. 35(4) Table 2 omitted (1.9.2015) by virtue of [Higher Education (Wales) Act 2015 (anaw 1)](https://www.legislation.gov.uk/anaw/2015/1), [s. 59(2)](https://www.legislation.gov.uk/anaw/2015/1/section/59/2), [Sch. para. 23(b)](https://www.legislation.gov.uk/anaw/2015/1/schedule/paragraph/23/b); [S.I. 2015/1327](https://www.legislation.gov.uk/wsi/2015/1327), [art. 5(s)(v)](https://www.legislation.gov.uk/wsi/2015/1327/article/5/s/v)
 
 [^M_F_e98ed555-1dcf-4ac5-c4b9-f3a343f93057]: Textual amendment: Words in Sch. 11 para. 35(3) Table 2 substituted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(i)(x)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/i)
 
-[^key-e57c91efc4f9798f1e0a5138a8bbe850]: Textual amendment: Words in Sch. 11 para. 35(4) repealed (1.4.2016) by [Well-being of Future Generations (Wales) Act 2015 (anaw 2)](https://www.legislation.gov.uk/anaw/2015/2), [s. 56(2)](https://www.legislation.gov.uk/anaw/2015/2/section/56/2), [Sch. 4 para. 18](https://www.legislation.gov.uk/anaw/2015/2/schedule/4/paragraph/18); [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-e57c91efc4f9798f1e0a5138a8bbe850]: Textual amendment: Words in Sch. 11 para. 35(4) repealed (1.4.2016) by [Well-being of Future Generations (Wales) Act 2015 (anaw 2)](https://www.legislation.gov.uk/anaw/2015/2), [s. 56(2)](https://www.legislation.gov.uk/anaw/2015/2/section/56/2), [Sch. 4 para. 18](https://www.legislation.gov.uk/anaw/2015/2/schedule/4/paragraph/18); [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
 
 [^c20931651]: Textual amendment: Sch. 11 para. 35(4): Table 2 words substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [5(1)](https://www.legislation.gov.uk/uksi/2010/1158/article/5/1), [Sch. 2 para. 59(3)(b)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/59/3/b)
 
 [^c20931671]: Textual amendment: Sch. 11 para. 35(4): Table 2 words substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [5(1)](https://www.legislation.gov.uk/uksi/2010/1158/article/5/1), [Sch. 2 para. 59(3)(c)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/59/3/c)
 
-[^key-800327711b9535764fc11a72c1144454]: Textual amendment: Words in Sch. 11 para. 35(4) Table 2 omitted (1.4.2026) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 20(3)(c)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/20/3/c) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xxxix)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww/xxxix)
+[^c-800327711b9535764fc11a72c1144454]: Textual amendment: Words in Sch. 11 para. 35(4) Table 2 omitted (1.4.2026) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 20(3)(c)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/20/3/c) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xxxix)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww/xxxix)
 
 [^c20315211]: Textual amendment: Sch. 11 para. 35(4) Table 2: entry inserted (2.5.2007) by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/3), [4](https://www.legislation.gov.uk/uksi/2007/1388/article/4), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2007/1388/schedule/2/paragraph/5)
 
@@ -1063,11 +1063,11 @@ is treated as outstanding in respect of the principal of sums borrowed under sec
 
 [^c20315411]: Textual amendment: Sch. 11 para. 35(4) Table 2: entry inserted (2.5.2007) by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/3), [4](https://www.legislation.gov.uk/uksi/2007/1388/article/4), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2007/1388/schedule/2/paragraph/5)
 
-[^key-fd266504b34790666314080aa94948bd]: Textual amendment: Sch. 11 para. 35A and cross-heading omitted (31.12.2020) by virtue of [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 3 para. 49](https://www.legislation.gov.uk/ukpga/2018/16/schedule/3/paragraph/49) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/l) (with [regs. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10), [22](https://www.legislation.gov.uk/uksi/2020/1622/regulation/22))
+[^c-fd266504b34790666314080aa94948bd]: Textual amendment: Sch. 11 para. 35A and cross-heading omitted (31.12.2020) by virtue of [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 3 para. 49](https://www.legislation.gov.uk/ukpga/2018/16/schedule/3/paragraph/49) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/l) (with [regs. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10), [22](https://www.legislation.gov.uk/uksi/2020/1622/regulation/22))
 
 [^c20406931]: Textual amendment: Sch. 11 para. 42A and preceding cross-heading inserted by [The Government of Wales Act 2006 (Transitional Provisions) Order 2007 (S.I. 2007/1270)](https://www.legislation.gov.uk/uksi/2007/1270), [art. 2(3)](https://www.legislation.gov.uk/uksi/2007/1270/article/2/3), the amending provision coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see art. 1(2) of the amending Order and s. 161(5) of this Act
 
-[^key-546c29ecf72928d40cb76993691cfad4]: Textual amendment: Words in Act omitted (17.2.2015) by virtue of [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [s. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/2/a) (with [s. 4(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/3))
+[^c-546c29ecf72928d40cb76993691cfad4]: Textual amendment: Words in Act omitted (17.2.2015) by virtue of [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [s. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/2/a) (with [s. 4(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/3))
 
 [^c20306411]: Textual amendment: Words in Sch. 11 para. 43(2) substituted by [The National Assembly for Wales (Transfer of staff to Assembly Commission Scheme) Order 2007 (S.I. 2007/1169)](https://www.legislation.gov.uk/uksi/2007/1169), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/1169/article/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2007/1169/article/2/a), the amending S.I. coming into force immediately after "the 2007 election" (which was held on 3.5.2007)
 
@@ -1093,34 +1093,34 @@ is treated as outstanding in respect of the principal of sums borrowed under sec
 
 [^c20306731]: Textual amendment: Words in Sch. 11 para. 43(9) substituted by [The National Assembly for Wales (Transfer of staff to Assembly Commission Scheme) Order 2007 (S.I. 2007/1169)](https://www.legislation.gov.uk/uksi/2007/1169), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/1169/article/1/2), [2(h)](https://www.legislation.gov.uk/uksi/2007/1169/article/2/h), the amending S.I. coming into force immediately after "the 2007 election" (which was held on 3.5.2007)
 
-[^key-665f9a4a4b8dd421e1ce4c8a9dca66ac]: Textual amendment: Sch. 11 para. 48(2) omitted (31.3.2016) by virtue of [The Welsh Language (Wales) Measure 2011 (Consequential Provisions) Order 2016 (S.I. 2016/409)](https://www.legislation.gov.uk/wsi/2016/409), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/409/article/1/2), [2(b)(i)](https://www.legislation.gov.uk/wsi/2016/409/article/2/b/i)
+[^c-665f9a4a4b8dd421e1ce4c8a9dca66ac]: Textual amendment: Sch. 11 para. 48(2) omitted (31.3.2016) by virtue of [The Welsh Language (Wales) Measure 2011 (Consequential Provisions) Order 2016 (S.I. 2016/409)](https://www.legislation.gov.uk/wsi/2016/409), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/409/article/1/2), [2(b)(i)](https://www.legislation.gov.uk/wsi/2016/409/article/2/b/i)
 
-[^key-b92b2ee03be91571b3c08e20ba3f5aad]: Textual amendment: Words in Sch. 11 para. 48(3) substituted (31.3.2016) by [The Welsh Language (Wales) Measure 2011 (Consequential Provisions) Order 2016 (S.I. 2016/409)](https://www.legislation.gov.uk/wsi/2016/409), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/409/article/1/2), [2(b)(ii)](https://www.legislation.gov.uk/wsi/2016/409/article/2/b/ii)
+[^c-b92b2ee03be91571b3c08e20ba3f5aad]: Textual amendment: Words in Sch. 11 para. 48(3) substituted (31.3.2016) by [The Welsh Language (Wales) Measure 2011 (Consequential Provisions) Order 2016 (S.I. 2016/409)](https://www.legislation.gov.uk/wsi/2016/409), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/409/article/1/2), [2(b)(ii)](https://www.legislation.gov.uk/wsi/2016/409/article/2/b/ii)
 
-[^key-a670fc6d8c816d0707d53126ec057bab]: Textual amendment: Sch. 11 paras. 50, 51 and cross-heading omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(j)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/j)
+[^c-a670fc6d8c816d0707d53126ec057bab]: Textual amendment: Sch. 11 paras. 50, 51 and cross-heading omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(j)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/j)
 
-[^key-edacfc94995a7d8bdc979e2eb8e7542c]: Textual amendment: Words in [Sch. 11 para. 52(2)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/11/paragraph/52/2) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-edacfc94995a7d8bdc979e2eb8e7542c]: Textual amendment: Words in [Sch. 11 para. 52(2)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/11/paragraph/52/2) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-cf87c0a8726febad14ede41100953768]: Textual amendment: Sch. 11 paras. 53, 53A, 53B and cross-heading omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(k)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/k)
+[^c-cf87c0a8726febad14ede41100953768]: Textual amendment: Sch. 11 paras. 53, 53A, 53B and cross-heading omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(k)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/k)
 
-[^key-6d394bb64df677f99818837ce7eaea29]: Textual amendment: Sch. 11 paras. 54-56 and cross-headings omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(l)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/l)
+[^c-6d394bb64df677f99818837ce7eaea29]: Textual amendment: Sch. 11 paras. 54-56 and cross-headings omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(l)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/l)
 
-[^key-58de88cf8dd2aacdc62d00ca6de8093c]: Textual amendment: Sch. 11 paras. 58-63 and cross-headings omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(l)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/l)
+[^c-58de88cf8dd2aacdc62d00ca6de8093c]: Textual amendment: Sch. 11 paras. 58-63 and cross-headings omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(l)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/l)
 
 [^c20339841]: Textual amendment: Sch. 11 paras. 63A, 63B and cross-headings inserted (1.4.2007) by [The Government of Wales Act 2006 (Transitional Provisions) (Finance) Order 2007 (S.I. 2007/726)](https://www.legislation.gov.uk/uksi/2007/726), [art. 6](https://www.legislation.gov.uk/uksi/2007/726/article/6)
 
-[^key-df10df96d777819a5f1100fb37013dc2]: Textual amendment: Sch. 11 para. 64 and cross-heading omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(m)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/m)
+[^c-df10df96d777819a5f1100fb37013dc2]: Textual amendment: Sch. 11 para. 64 and cross-heading omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(m)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/m)
 
 [^c20335921]: Textual amendment: Sch. 11 paras. 64A-64G and cross-headings inserted (1.4.2007) by [The Government of Wales Act 2006 (Transitional Provisions) (Finance) Order 2007 (S.I. 2007/726)](https://www.legislation.gov.uk/uksi/2007/726), [art. 7](https://www.legislation.gov.uk/uksi/2007/726/article/7)
 
-[^key-eb0f5ba2a800d99e83e6280eba747ee6]: Textual amendment: Sch. 11 para. 64B and cross-heading omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(m)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/m)
+[^c-eb0f5ba2a800d99e83e6280eba747ee6]: Textual amendment: Sch. 11 para. 64B and cross-heading omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(m)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/m)
 
-[^key-8568fcb467c4569e528dc2e6f3c8038f]: Textual amendment: Sch. 11 para. 64C omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(m)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/m)
+[^c-8568fcb467c4569e528dc2e6f3c8038f]: Textual amendment: Sch. 11 para. 64C omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(m)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/m)
 
-[^key-fc57b546768c3dbb638d58555906f4da]: Textual amendment: Sch. 11 para. 64F and cross-heading omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(m)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/m)
+[^c-fc57b546768c3dbb638d58555906f4da]: Textual amendment: Sch. 11 para. 64F and cross-heading omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(m)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/m)
 
-[^key-b9c6f481c695406cc53c4850ff6486aa]: Textual amendment: Sch. 11 para. 64G and cross-heading omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(m)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/m)
+[^c-b9c6f481c695406cc53c4850ff6486aa]: Textual amendment: Sch. 11 para. 64G and cross-heading omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(m)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/m)
 
-[^key-c01819305adadc0338c8c88db2d893f3]: Textual amendment: Sch. 11 para. 65 and cross-heading omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(n)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/n)
+[^c-c01819305adadc0338c8c88db2d893f3]: Textual amendment: Sch. 11 para. 65 and cross-heading omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(n)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/n)
 
-[^key-2c55d01a4cbfb927bb645f9e05e2ecfd]: Textual amendment: Sch. 11 paras. 66, 67 and cross-heading omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(o)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/o)
+[^c-2c55d01a4cbfb927bb645f9e05e2ecfd]: Textual amendment: Sch. 11 paras. 66, 67 and cross-heading omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 58(o)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/58/o)

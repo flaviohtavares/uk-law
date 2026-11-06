@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Obstetric list[^key-b9603f6745c33d436bc4684896c6937f]
+## 30. Obstetric list[^c-b9603f6745c33d436bc4684896c6937f]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9603f6745c33d436bc4684896c6937f]: Commencement: Reg. 30 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-b9603f6745c33d436bc4684896c6937f]: Commencement: Reg. 30 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

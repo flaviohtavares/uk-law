@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Prior general information for framework contracts[^key-c2895bc6ddd587866ea113ab509df027]
+## SCHEDULE 4 — Prior general information for framework contracts[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Regulations 36(2), 40(1)
 
-**1.**[^key-c2895bc6ddd587866ea113ab509df027] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c2895bc6ddd587866ea113ab509df027] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-c2895bc6ddd587866ea113ab509df027] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c2895bc6ddd587866ea113ab509df027] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c2895bc6ddd587866ea113ab509df027] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c2895bc6ddd587866ea113ab509df027] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-c2895bc6ddd587866ea113ab509df027] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c2895bc6ddd587866ea113ab509df027] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-c2895bc6ddd587866ea113ab509df027] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c2895bc6ddd587866ea113ab509df027] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-c2895bc6ddd587866ea113ab509df027] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c2895bc6ddd587866ea113ab509df027] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-c2895bc6ddd587866ea113ab509df027] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c2895bc6ddd587866ea113ab509df027] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c2895bc6ddd587866ea113ab509df027]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/209) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-c2895bc6ddd587866ea113ab509df027]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/209) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

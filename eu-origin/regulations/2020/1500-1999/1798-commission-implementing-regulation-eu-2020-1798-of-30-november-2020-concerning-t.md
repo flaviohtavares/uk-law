@@ -35,18 +35,18 @@ concerning the authorisation of L-lysine monohydrochloride produced by *Coryneba
 
 (Text with EEA relevance) (revoked)
 
-[^key-f4451a7800d115a1e2895953d1b20592]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f4451a7800d115a1e2895953d1b20592]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-f4451a7800d115a1e2895953d1b20592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f4451a7800d115a1e2895953d1b20592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f4451a7800d115a1e2895953d1b20592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f4451a7800d115a1e2895953d1b20592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f4451a7800d115a1e2895953d1b20592]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f4451a7800d115a1e2895953d1b20592]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-f4451a7800d115a1e2895953d1b20592]
+## ANNEX[^c-f4451a7800d115a1e2895953d1b20592]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f4451a7800d115a1e2895953d1b20592]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 409](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/409) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-f4451a7800d115a1e2895953d1b20592]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 409](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/409) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

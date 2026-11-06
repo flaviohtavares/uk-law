@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 4(2)(*a*)(iii) and (iv), 7(1)(*e*) and 12(1)(*g*)
 
-**1.**[^key-751a401b88a2744cfd2887931a9cad30] The occupier of the cold store or re-packaging centre shall ensure that fresh meat is—
+**1.**[^c-751a401b88a2744cfd2887931a9cad30] The occupier of the cold store or re-packaging centre shall ensure that fresh meat is—
 
 - (a) kept at a constant internal temperature of not more than +7°C for carcases and cuts, +3°C for offal and −12°C for frozen fresh meat;
 - (b) handled, loaded, unloaded and stored in an hygienic manner and, in particular, that it is loaded and unloaded under cover;
@@ -30,7 +30,7 @@ Regulations 4(2)(*a*)(iii) and (iv), 7(1)(*e*) and 12(1)(*g*)
 - (d) identifiable as to origin while it is being stored; and
 - (e) made available for inspection on request by a Meat Inspector or OVS.
 
-**2.**[^key-4583d40b206c19327b75f73164032b96] The occupier of the cold store or re-packaging centre shall ensure that—
+**2.**[^c-4583d40b206c19327b75f73164032b96] The occupier of the cold store or re-packaging centre shall ensure that—
 
 - (a) where unwrapped fresh meat or fresh meat wrapped only in stockinette is brought into the cold store for freezing it is not stored on wooden pallets and that during freezing it is suspended from either a rail system or suitable frames of a material resistant to corrosion;
 - (b) unfit meat is not stored in the same room as other fresh meat;
@@ -40,6 +40,6 @@ Regulations 4(2)(*a*)(iii) and (iv), 7(1)(*e*) and 12(1)(*g*)
 
 ## Annotations
 
-[^key-751a401b88a2744cfd2887931a9cad30]: Commencement: Sch. 14 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-751a401b88a2744cfd2887931a9cad30]: Commencement: Sch. 14 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
-[^key-4583d40b206c19327b75f73164032b96]: Commencement: Sch. 14 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-4583d40b206c19327b75f73164032b96]: Commencement: Sch. 14 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

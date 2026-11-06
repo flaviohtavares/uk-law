@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Benefit of the Order[^key-eac58453a69234af9727331129d9c568]
+## 6. Benefit of the Order[^c-eac58453a69234af9727331129d9c568]
 
 *Extent: E+W*
 
@@ -42,7 +42,7 @@ except where paragraph (10) applies, in which case no consent of the Secretary o
 
 (6) The Secretary of State shall consult National Grid before giving consent to the transfer or grant to a person of any or all of the benefit of the provisions of this Order (excluding the deemed marine licences referred to in paragraph (3) above).
 
-(7) Where an agreement has been made in accordance with paragraph (2) or (3) references in this Order to the undertaker, except in paragraph (8), (9), or ([^key-741bd0ede437d7af942be737dc120468]1), include references to the transferee or lessee.
+(7) Where an agreement has been made in accordance with paragraph (2) or (3) references in this Order to the undertaker, except in paragraph (8), (9), or ([^c-741bd0ede437d7af942be737dc120468]1), include references to the transferee or lessee.
 
 (8) The exercise by a person of any benefits or rights conferred in accordance with any transfer or grant under paragraph (2) or (3) are subject to the same restrictions, liabilities and obligations as would apply under this Order if those benefits or rights were exercised by the undertaker.
 
@@ -64,7 +64,7 @@ except where paragraph (10) applies, in which case no consent of the Secretary o
 
 (11) The provisions of article 9 (street works), article 11 (stopping up of streets), article 18 (compulsory acquisition of land), article 20 (compulsory acquisition of rights and the imposition of restrictive covenants), article 26 (temporary use of land for carrying out the authorised project) and article 27 (temporary use of land for maintaining the authorised project) have effect only for the benefit of the named undertaker and a person who is a transferee or lessee and is also—
 
-- (a) in respect of Work Nos. 4C to 12B a person who holds a licence under section 6 of the 1989 Act[^key-96a714aa8014984ca1bec0713d6560bd]; or
+- (a) in respect of Work Nos. 4C to 12B a person who holds a licence under section 6 of the 1989 Act[^c-96a714aa8014984ca1bec0713d6560bd]; or
 - (b) in respect of functions under article 9 (street works) relating to a street, a street authority.
 
 (12) Prior to any transfer or grant under this article taking effect the undertaker must give notice in writing to the Secretary of State, and if such transfer or grant relates to the exercise of powers in their area, to the MMO and the relevant planning authority.
@@ -89,8 +89,8 @@ except where paragraph (10) applies, in which case no consent of the Secretary o
 
 ## Annotations
 
-[^key-eac58453a69234af9727331129d9c568]: Commencement: Art. 6 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-eac58453a69234af9727331129d9c568]: Commencement: Art. 6 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
 
-[^key-741bd0ede437d7af942be737dc120468]: Textual amendment: [Art. 6(7)](https://www.legislation.gov.uk/uksi/2021/1414/article/6/7) bracket inserted (12.8.2022) by [The Norfolk Boreas Offshore Wind Farm (Corrections) Order 2022 (S.I. 2022/901)](https://www.legislation.gov.uk/uksi/2022/901), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/901/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/901/schedule)
+[^c-741bd0ede437d7af942be737dc120468]: Textual amendment: [Art. 6(7)](https://www.legislation.gov.uk/uksi/2021/1414/article/6/7) bracket inserted (12.8.2022) by [The Norfolk Boreas Offshore Wind Farm (Corrections) Order 2022 (S.I. 2022/901)](https://www.legislation.gov.uk/uksi/2022/901), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/901/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/901/schedule)
 
-[^key-96a714aa8014984ca1bec0713d6560bd]: Textual amendment: Words in [art. 6(11)(a)](https://www.legislation.gov.uk/uksi/2021/1414/article/6/11/a) substituted (12.8.2022) by [The Norfolk Boreas Offshore Wind Farm (Corrections) Order 2022 (S.I. 2022/901)](https://www.legislation.gov.uk/uksi/2022/901), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/901/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/901/schedule)
+[^c-96a714aa8014984ca1bec0713d6560bd]: Textual amendment: Words in [art. 6(11)(a)](https://www.legislation.gov.uk/uksi/2021/1414/article/6/11/a) substituted (12.8.2022) by [The Norfolk Boreas Offshore Wind Farm (Corrections) Order 2022 (S.I. 2022/901)](https://www.legislation.gov.uk/uksi/2022/901), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/901/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/901/schedule)

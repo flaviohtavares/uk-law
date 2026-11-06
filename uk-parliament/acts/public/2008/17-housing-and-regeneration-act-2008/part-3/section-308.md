@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 308. Former right to buy and other flats: service charge loans[^key-90f0d681ea5dbdb8d0debe4c060b2c40][^key-19862ff30c5af2535a8d8e15d91ad8ca]
+## 308. Former right to buy and other flats: service charge loans[^c-90f0d681ea5dbdb8d0debe4c060b2c40][^c-19862ff30c5af2535a8d8e15d91ad8ca]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-90f0d681ea5dbdb8d0debe4c060b2c40]: Commencement: [S. 308](https://www.legislation.gov.uk/ukpga/2008/17/section/308) in force at 1.12.2008 for E. by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(8)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/8) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-90f0d681ea5dbdb8d0debe4c060b2c40]: Commencement: [S. 308](https://www.legislation.gov.uk/ukpga/2008/17/section/308) in force at 1.12.2008 for E. by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(8)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/8) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-19862ff30c5af2535a8d8e15d91ad8ca]: Commencement: [S. 308](https://www.legislation.gov.uk/ukpga/2008/17/section/308) in force at 19.8.2011 for W. by [S.I. 2011/1863](https://www.legislation.gov.uk/wsi/2011/1863), [art. 3(1)](https://www.legislation.gov.uk/wsi/2011/1863/article/3/1)
+[^c-19862ff30c5af2535a8d8e15d91ad8ca]: Commencement: [S. 308](https://www.legislation.gov.uk/ukpga/2008/17/section/308) in force at 19.8.2011 for W. by [S.I. 2011/1863](https://www.legislation.gov.uk/wsi/2011/1863), [art. 3(1)](https://www.legislation.gov.uk/wsi/2011/1863/article/3/1)

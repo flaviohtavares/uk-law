@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Specified capacities and criteria[^key-d6916735c2a084ac38f8122178b6986c]
+## 57. Specified capacities and criteria[^c-d6916735c2a084ac38f8122178b6986c]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6916735c2a084ac38f8122178b6986c]: Commencement: Reg. 57 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-d6916735c2a084ac38f8122178b6986c]: Commencement: Reg. 57 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

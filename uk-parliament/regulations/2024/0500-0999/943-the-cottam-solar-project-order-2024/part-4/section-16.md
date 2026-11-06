@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Discharge of water[^key-e4cecd11334f7356fb8af81038bd38fc]
+## 16. Discharge of water[^c-e4cecd11334f7356fb8af81038bd38fc]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (6) The undertaker must take such steps as are reasonably practicable to secure that any water discharged into a watercourse or public sewer or drain pursuant to this article is as free as may be practicable from gravel, soil or other solid substance, oil or matter in suspension.
 
-(7) This article does not authorise the entry into controlled waters (within the meaning given by section 104 of the Water Resources Act[^key-d6a2a816ca6cfd6b2c1eca628069bd30] 1991[^f00046]) of any matter whose entry or discharge into controlled waters requires a licence pursuant to the Environmental Permitting (England and Wales) Regulations 2016[^f00047].
+(7) This article does not authorise the entry into controlled waters (within the meaning given by section 104 of the Water Resources Act[^c-d6a2a816ca6cfd6b2c1eca628069bd30] 1991[^f00046]) of any matter whose entry or discharge into controlled waters requires a licence pursuant to the Environmental Permitting (England and Wales) Regulations 2016[^f00047].
 
 (8) In this article—
 
@@ -45,11 +45,11 @@ summary: ''
 
 ## Annotations
 
-[^key-e4cecd11334f7356fb8af81038bd38fc]: Commencement: Art. 16 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
+[^c-e4cecd11334f7356fb8af81038bd38fc]: Commencement: Art. 16 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
 
 [^f00045]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 
-[^key-d6a2a816ca6cfd6b2c1eca628069bd30]: Textual amendment: Word in [art. 16(7)](https://www.legislation.gov.uk/uksi/2024/943/article/16/7) inserted (26.11.2024) by [The Cottam Solar Project (Correction) Order 2024 (S.I. 2024/1222)](https://www.legislation.gov.uk/uksi/2024/1222), [art. 1](https://www.legislation.gov.uk/uksi/2024/1222/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1222/schedule)
+[^c-d6a2a816ca6cfd6b2c1eca628069bd30]: Textual amendment: Word in [art. 16(7)](https://www.legislation.gov.uk/uksi/2024/943/article/16/7) inserted (26.11.2024) by [The Cottam Solar Project (Correction) Order 2024 (S.I. 2024/1222)](https://www.legislation.gov.uk/uksi/2024/1222), [art. 1](https://www.legislation.gov.uk/uksi/2024/1222/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1222/schedule)
 
 [^f00046]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 

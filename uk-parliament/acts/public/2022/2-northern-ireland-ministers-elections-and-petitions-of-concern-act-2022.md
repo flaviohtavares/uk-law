@@ -37,7 +37,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Executive formation
 
-### 1. Period for making Ministerial appointments[^key-bc280e471427c81b2dbeadf632fd6739]
+### 1. Period for making Ministerial appointments[^c-bc280e471427c81b2dbeadf632fd6739]
 
 (1) The Northern Ireland Act 1998 is amended as follows.
 
@@ -69,7 +69,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (5) In consequence of the amendments made by this section, in the Northern Ireland (Stormont Agreement and Implementation Plan) Act 2016, omit section 6 and Schedule 1.
 
-### 2. Duration of Ministerial appointments[^key-21cd9c1b941b76ace6a6d87d758284b9]
+### 2. Duration of Ministerial appointments[^c-21cd9c1b941b76ace6a6d87d758284b9]
 
 (1) The Northern Ireland Act 1998 is amended as follows.
 
@@ -138,7 +138,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
   ;
 - (c) in sub-paragraph (14), after “sub-paragraph” insert “(A1) or”.
 
-### 3. Extraordinary Assembly elections[^key-0fe58fdb960c4e9c0842ecdb0d03716d]
+### 3. Extraordinary Assembly elections[^c-0fe58fdb960c4e9c0842ecdb0d03716d]
 
 (1) Section 32 of the Northern Ireland Act 1998 (extraordinary elections) is amended as follows.
 
@@ -182,7 +182,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (6) In subsection (4), for “or (3)” substitute “, (3) or (3B)”.
 
-### 4. Transitional provision[^key-0bbcd150339c6c584b238669c834fefc]
+### 4. Transitional provision[^c-0bbcd150339c6c584b238669c834fefc]
 
 (1) The amendments made by sections 1(2), (3) and (5) and 2(2) do not apply in a case where section 16A of the Northern Ireland Act 1998 applies as the result of an Assembly being elected before this Act comes into force.
 
@@ -201,7 +201,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Ministerial Code of Conduct
 
-### 5. Ministerial Code of Conduct[^key-8870d4f6042ed2636ec3c4d3bfbff753]
+### 5. Ministerial Code of Conduct[^c-8870d4f6042ed2636ec3c4d3bfbff753]
 
 (1) In Part 2 of Schedule 4 to the Northern Ireland Act 1998 (code of conduct), for paragraph 1 substitute—
 
@@ -231,7 +231,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Petitions of concern
 
-### 6. Petitions of concern[^key-e5dc75ab140f7db22c2156c74ccc5f94]
+### 6. Petitions of concern[^c-e5dc75ab140f7db22c2156c74ccc5f94]
 
 For section 42 of the Northern Ireland Act 1998 substitute—
 
@@ -276,43 +276,43 @@ For section 42 of the Northern Ireland Act 1998 substitute—
 
 ## Repeals and final provisions
 
-### 7. Repeal of spent provisions[^key-b6e4fe7bb760a83ee17f6f0f2445cfb1]
+### 7. Repeal of spent provisions[^c-b6e4fe7bb760a83ee17f6f0f2445cfb1]
 
 The following are repealed—
 
 - (a) the Northern Ireland (Executive Formation and Exercise of Functions) Act 2018;
 - (b) in the Northern Ireland (Executive Formation etc) Act 2019, sections 1 to 7.
 
-### 8. Extent[^key-d58829cbfa47a6e6184474f4fd406a2f]
+### 8. Extent[^c-d58829cbfa47a6e6184474f4fd406a2f]
 
 This Act extends to England and Wales, Scotland and Northern Ireland.
 
-### 9. Commencement[^key-1c139cdbd0fed401be3096be6b9410ec]
+### 9. Commencement[^c-1c139cdbd0fed401be3096be6b9410ec]
 
 This Act comes into force on the day on which it is passed.
 
-### 10. Short Title[^key-4661dea23f97335e938fe315b7cd6a2e]
+### 10. Short Title[^c-4661dea23f97335e938fe315b7cd6a2e]
 
 This Act may be cited as the Northern Ireland (Ministers, Elections and Petitions of Concern) Act 2022.
 
 ## Annotations
 
-[^key-bc280e471427c81b2dbeadf632fd6739]: Commencement: S. 1 in force at Royal Assent, see [s. 9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)
+[^c-bc280e471427c81b2dbeadf632fd6739]: Commencement: S. 1 in force at Royal Assent, see [s. 9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)
 
-[^key-21cd9c1b941b76ace6a6d87d758284b9]: Commencement: S. 2 in force at Royal Assent, see [s. 9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)
+[^c-21cd9c1b941b76ace6a6d87d758284b9]: Commencement: S. 2 in force at Royal Assent, see [s. 9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)
 
-[^key-0fe58fdb960c4e9c0842ecdb0d03716d]: Commencement: S. 3 in force at Royal Assent, see [s. 9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)
+[^c-0fe58fdb960c4e9c0842ecdb0d03716d]: Commencement: S. 3 in force at Royal Assent, see [s. 9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)
 
-[^key-0bbcd150339c6c584b238669c834fefc]: Commencement: S. 4 in force at Royal Assent, see [s. 9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)
+[^c-0bbcd150339c6c584b238669c834fefc]: Commencement: S. 4 in force at Royal Assent, see [s. 9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)
 
-[^key-8870d4f6042ed2636ec3c4d3bfbff753]: Commencement: S. 5 in force at Royal Assent, see [s. 9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)
+[^c-8870d4f6042ed2636ec3c4d3bfbff753]: Commencement: S. 5 in force at Royal Assent, see [s. 9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)
 
-[^key-e5dc75ab140f7db22c2156c74ccc5f94]: Commencement: S. 6 in force at Royal Assent, see [s. 9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)
+[^c-e5dc75ab140f7db22c2156c74ccc5f94]: Commencement: S. 6 in force at Royal Assent, see [s. 9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)
 
-[^key-b6e4fe7bb760a83ee17f6f0f2445cfb1]: Commencement: S. 7 in force at Royal Assent, see [s. 9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)
+[^c-b6e4fe7bb760a83ee17f6f0f2445cfb1]: Commencement: S. 7 in force at Royal Assent, see [s. 9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)
 
-[^key-d58829cbfa47a6e6184474f4fd406a2f]: Commencement: S. 8 in force at Royal Assent, see [s. 9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)
+[^c-d58829cbfa47a6e6184474f4fd406a2f]: Commencement: S. 8 in force at Royal Assent, see [s. 9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)
 
-[^key-1c139cdbd0fed401be3096be6b9410ec]: Commencement: S. 9 in force at Royal Assent, see [s. 9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)
+[^c-1c139cdbd0fed401be3096be6b9410ec]: Commencement: S. 9 in force at Royal Assent, see [s. 9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)
 
-[^key-4661dea23f97335e938fe315b7cd6a2e]: Commencement: S. 10 in force at Royal Assent, see [s. 9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)
+[^c-4661dea23f97335e938fe315b7cd6a2e]: Commencement: S. 10 in force at Royal Assent, see [s. 9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)

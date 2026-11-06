@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — FEES FOR PRACTICAL TESTS , UNITARY TESTS OR LARGE VEHICLE OFF ROAD MANOEUVRES TESTS: VEHICLES OF CATEGORIES OTHER THAN AM OR A[^key-91295f65e48c4073b64855da48fe6bf6][^key-7110611643b2dd4f211cbb3728e18a5e][^key-2c0fc7153b5811b36e3911589c281911]
+## SCHEDULE 5 — FEES FOR PRACTICAL TESTS , UNITARY TESTS OR LARGE VEHICLE OFF ROAD MANOEUVRES TESTS: VEHICLES OF CATEGORIES OTHER THAN AM OR A[^c-91295f65e48c4073b64855da48fe6bf6][^c-7110611643b2dd4f211cbb3728e18a5e][^c-2c0fc7153b5811b36e3911589c281911]
 
 *Extent: E+W+S*
 
@@ -33,14 +33,14 @@ Regulation 35
 </tbody>
 </table>
 
-[^key-fcdaa83b9a15fdf7e07e0431bf7982d0]
+[^c-fcdaa83b9a15fdf7e07e0431bf7982d0]
 
 ## Annotations
 
-[^key-91295f65e48c4073b64855da48fe6bf6]: Textual amendment: Schs. 5, 5A substituted for Sch. 5 (30.3.2009) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2009 (S.I. 2009/788)](https://www.legislation.gov.uk/uksi/2009/788), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/788/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/788/schedule/1) (with [reg. 33](https://www.legislation.gov.uk/uksi/2009/788/regulation/33))
+[^c-91295f65e48c4073b64855da48fe6bf6]: Textual amendment: Schs. 5, 5A substituted for Sch. 5 (30.3.2009) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2009 (S.I. 2009/788)](https://www.legislation.gov.uk/uksi/2009/788), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/788/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/788/schedule/1) (with [reg. 33](https://www.legislation.gov.uk/uksi/2009/788/regulation/33))
 
-[^key-7110611643b2dd4f211cbb3728e18a5e]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/1999/2864/schedule/5) heading substituted (15.5.2025) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2025 (S.I. 2025/505)](https://www.legislation.gov.uk/uksi/2025/505), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/505/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2025/505/regulation/2/3/a)
+[^c-7110611643b2dd4f211cbb3728e18a5e]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/1999/2864/schedule/5) heading substituted (15.5.2025) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2025 (S.I. 2025/505)](https://www.legislation.gov.uk/uksi/2025/505), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/505/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2025/505/regulation/2/3/a)
 
-[^key-2c0fc7153b5811b36e3911589c281911]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/1999/2864/schedule/5) heading substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 48(a)](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/48/a)
+[^c-2c0fc7153b5811b36e3911589c281911]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/1999/2864/schedule/5) heading substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 48(a)](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/48/a)
 
-[^key-fcdaa83b9a15fdf7e07e0431bf7982d0]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/1999/2864/schedule/5) Table substituted (15.5.2025) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2025 (S.I. 2025/505)](https://www.legislation.gov.uk/uksi/2025/505), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/505/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/505/regulation/2/3/b)
+[^c-fcdaa83b9a15fdf7e07e0431bf7982d0]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/1999/2864/schedule/5) Table substituted (15.5.2025) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2025 (S.I. 2025/505)](https://www.legislation.gov.uk/uksi/2025/505), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/505/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/505/regulation/2/3/b)

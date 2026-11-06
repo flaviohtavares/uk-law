@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Sheep Annual Premium (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^key-80b080f4b7258274b4aa8b3117411f08]
+The Sheep Annual Premium (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^c-80b080f4b7258274b4aa8b3117411f08]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 3rd December 2002
 
-[^key-80b080f4b7258274b4aa8b3117411f08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80b080f4b7258274b4aa8b3117411f08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-80b080f4b7258274b4aa8b3117411f08]
+## 1. Citation and commencement[^c-80b080f4b7258274b4aa8b3117411f08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-80b080f4b7258274b4aa8b3117411f08]
+## 2. Interpretation[^c-80b080f4b7258274b4aa8b3117411f08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments[^key-80b080f4b7258274b4aa8b3117411f08]
+## 3. Amendments[^c-80b080f4b7258274b4aa8b3117411f08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80b080f4b7258274b4aa8b3117411f08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80b080f4b7258274b4aa8b3117411f08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-80b080f4b7258274b4aa8b3117411f08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80b080f4b7258274b4aa8b3117411f08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-80b080f4b7258274b4aa8b3117411f08]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/368) revoked (12.5.2005) by [The Common Agricultural Policy Single Payment and Support Schemes Regulations (Northern Ireland) 2005 (S.R. 2005/256)](https://www.legislation.gov.uk/nisr/2005/256), [regs. 1](https://www.legislation.gov.uk/nisr/2005/256/regulation/1), [16(2)](https://www.legislation.gov.uk/nisr/2005/256/regulation/16), [Sch. 2](https://www.legislation.gov.uk/nisr/2005/256/schedule/2) (with [reg. 16(3)](https://www.legislation.gov.uk/nisr/2005/256/regulation/16))
+[^c-80b080f4b7258274b4aa8b3117411f08]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/368) revoked (12.5.2005) by [The Common Agricultural Policy Single Payment and Support Schemes Regulations (Northern Ireland) 2005 (S.R. 2005/256)](https://www.legislation.gov.uk/nisr/2005/256), [regs. 1](https://www.legislation.gov.uk/nisr/2005/256/regulation/1), [16(2)](https://www.legislation.gov.uk/nisr/2005/256/regulation/16), [Sch. 2](https://www.legislation.gov.uk/nisr/2005/256/schedule/2) (with [reg. 16(3)](https://www.legislation.gov.uk/nisr/2005/256/regulation/16))

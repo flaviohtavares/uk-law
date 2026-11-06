@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 9 — STATUS OF PUBLIC RIGHTS OF WAY CREATED OR IMPROVED[^key-3e51e601e30e7f99cb2f68eb6151043c]
+## SCHEDULE 9 — STATUS OF PUBLIC RIGHTS OF WAY CREATED OR IMPROVED[^c-3e51e601e30e7f99cb2f68eb6151043c]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ Article 18
 
 ## Annotations
 
-[^key-3e51e601e30e7f99cb2f68eb6151043c]: Commencement: Sch. 9 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-3e51e601e30e7f99cb2f68eb6151043c]: Commencement: Sch. 9 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)

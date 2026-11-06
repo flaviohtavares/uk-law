@@ -16,72 +16,72 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Consolidation of additional pension[^key-80f4497bea9c2a5b47df91999d858a0d]
+## SCHEDULE 3 — Consolidation of additional pension[^c-80f4497bea9c2a5b47df91999d858a0d]
 
 *Extent: E+W+S+N.I.*
 
 Section 3
 
-### Social Security Contributions and Benefits Act 1992 (c. 4)[^key-80f4497bea9c2a5b47df91999d858a0d]
+### Social Security Contributions and Benefits Act 1992 (c. 4)[^c-80f4497bea9c2a5b47df91999d858a0d]
 
 **Not yet in force.**
 
-**1.**[^key-80f4497bea9c2a5b47df91999d858a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-80f4497bea9c2a5b47df91999d858a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**2.**[^key-80f4497bea9c2a5b47df91999d858a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-80f4497bea9c2a5b47df91999d858a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**3.**[^key-80f4497bea9c2a5b47df91999d858a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-80f4497bea9c2a5b47df91999d858a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**4.**[^key-80f4497bea9c2a5b47df91999d858a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-80f4497bea9c2a5b47df91999d858a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**5.**[^key-80f4497bea9c2a5b47df91999d858a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-80f4497bea9c2a5b47df91999d858a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**6.**[^key-80f4497bea9c2a5b47df91999d858a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-80f4497bea9c2a5b47df91999d858a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**7.**[^key-80f4497bea9c2a5b47df91999d858a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-80f4497bea9c2a5b47df91999d858a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Social Security Administration Act 1992 (c. 5)[^key-80f4497bea9c2a5b47df91999d858a0d]
-
-**Not yet in force.**
-
-**8.**[^key-80f4497bea9c2a5b47df91999d858a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Pension Schemes Act 1993 (c. 48)[^key-80f4497bea9c2a5b47df91999d858a0d]
+### Social Security Administration Act 1992 (c. 5)[^c-80f4497bea9c2a5b47df91999d858a0d]
 
 **Not yet in force.**
 
-**9.**[^key-80f4497bea9c2a5b47df91999d858a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-80f4497bea9c2a5b47df91999d858a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Pension Schemes Act 1993 (c. 48)[^c-80f4497bea9c2a5b47df91999d858a0d]
 
 **Not yet in force.**
 
-**10.**[^key-80f4497bea9c2a5b47df91999d858a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-80f4497bea9c2a5b47df91999d858a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**11.**[^key-80f4497bea9c2a5b47df91999d858a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Pensions Act 2008 (c. 30)[^key-80f4497bea9c2a5b47df91999d858a0d]
+**10.**[^c-80f4497bea9c2a5b47df91999d858a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**12.**[^key-80f4497bea9c2a5b47df91999d858a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-80f4497bea9c2a5b47df91999d858a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Pensions Act 2008 (c. 30)[^c-80f4497bea9c2a5b47df91999d858a0d]
 
 **Not yet in force.**
 
-**13.**[^key-80f4497bea9c2a5b47df91999d858a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-80f4497bea9c2a5b47df91999d858a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Not yet in force.**
+
+**13.**[^c-80f4497bea9c2a5b47df91999d858a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-80f4497bea9c2a5b47df91999d858a0d]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/2011/19/schedule/3) repealed (1.10.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 97(b)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/97/b); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/ii)[(3)(c)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/3/c)
+[^c-80f4497bea9c2a5b47df91999d858a0d]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/2011/19/schedule/3) repealed (1.10.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 97(b)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/97/b); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/ii)[(3)(c)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/3/c)

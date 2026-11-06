@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Interpretation of Part 5[^key-57bdf35e0074e2fe13b1ec5ef1ba47b5]
+## 48. Interpretation of Part 5[^c-57bdf35e0074e2fe13b1ec5ef1ba47b5]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57bdf35e0074e2fe13b1ec5ef1ba47b5]: Commencement: Art. 48 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-57bdf35e0074e2fe13b1ec5ef1ba47b5]: Commencement: Art. 48 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

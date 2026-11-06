@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## 18. Food-producing animals: records of administration by a veterinary surgeon[^key-f7d07e050938f4c588a67c6643bc345c]
+## 18. Food-producing animals: records of administration by a veterinary surgeon[^c-f7d07e050938f4c588a67c6643bc345c]
 
 *Extent: E+W+S+NI*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7d07e050938f4c588a67c6643bc345c]: Textual amendment: Regulations revoked (1.10.2013) by [The Veterinary Medicines Regulations 2013 (S.I. 2013/2033)](https://www.legislation.gov.uk/uksi/2013/2033), regs. 1, [47(a)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/47/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/2033/regulation/3))
+[^c-f7d07e050938f4c588a67c6643bc345c]: Textual amendment: Regulations revoked (1.10.2013) by [The Veterinary Medicines Regulations 2013 (S.I. 2013/2033)](https://www.legislation.gov.uk/uksi/2013/2033), regs. 1, [47(a)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/47/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/2033/regulation/3))

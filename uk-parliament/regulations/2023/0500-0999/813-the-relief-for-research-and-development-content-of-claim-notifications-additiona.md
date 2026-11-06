@@ -46,15 +46,15 @@ Coming into force
 
 The Commissioners for His Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by paragraph 83EA of Schedule 18 to the Finance Act 1998[^f00001], section 132 of the Finance Act 1999[^f00002], sections 135 and 136 of the Finance Act 2002[^f00003] and section 1142A(2) of the Corporation Tax Act 2009[^f00004] and now exercisable by them[^f00005].
 
-## 1. Citation and commencement[^key-af6d302735ebe87b0194954675dca198]
+## 1. Citation and commencement[^c-af6d302735ebe87b0194954675dca198]
 
 These Regulations may be cited as the Relief for Research and Development (Content of Claim Notifications, Additional Information Requirements and Miscellaneous Amendments) Regulations 2023 and come into force on 8th August 2023.
 
-## 2. Claim notifications[^key-74a89c449143c9b52e4f22cd22e0956d]
+## 2. Claim notifications[^c-74a89c449143c9b52e4f22cd22e0956d]
 
 A claim notification under section 1142A of the Corporation Tax Act 2009 (requirement to make a claim notification) must include the information specified in Schedule 1.
 
-## 3. Additional information to be provided in relation to R&D claims[^key-e9d0b9b7e7eb56f8320a0d0378ffba91]
+## 3. Additional information to be provided in relation to R&D claims[^c-e9d0b9b7e7eb56f8320a0d0378ffba91]
 
 (1) This regulation applies in relation to a claim to which Part 9A of Schedule 18 to the Finance Act 1998 (procedure for claims for R&D relief) applies.
 
@@ -64,13 +64,13 @@ A claim notification under section 1142A of the Corporation Tax Act 2009 (requir
 
 (4) In Schedule 2—
 
-- [^key-864097fe0d1584af45544e91afe05bd4]...
+- [^c-864097fe0d1584af45544e91afe05bd4]...
 - “**CTA 2009**” means the Corporation Tax Act 2009;
 - “**employer’s PAYE reference**” has the meaning given by regulation 2(1) of the Income Tax (Pay As You Earn) Regulations 2003;
 - “**in-house expenditure**” means expenditure that is attributable to research and development undertaken by the company itself;
 - “**qualifying indirect activities**” has the meaning given in the Guidelines on the Meaning of Research and Development for Tax Purposes issued by the Secretary of State for Business and Trade on 7 March 2023.
 
-## 4. Amendment of the Income and Corporation Taxes (Electronic Communications) Regulations 2003[^key-77396868944bc301d218c6f8a7c09be4]
+## 4. Amendment of the Income and Corporation Taxes (Electronic Communications) Regulations 2003[^c-77396868944bc301d218c6f8a7c09be4]
 
 (1) The Income and Corporation Taxes (Electronic Communications) Regulations 2003[^f00007] are amended as follows.
 
@@ -108,18 +108,18 @@ Two of the Commissioners for His Majesty’s Revenue and Customs
 
 Regulation 2
 
-**1.**[^key-9ac8f7e1f1f2c72fccc5e3bd9e0a3a2d] A claim notification under section 1142A of the Corporation Tax Act 2009 (requirement to make a claim notification) must include the information specified in the Table in respect of—
+**1.**[^c-9ac8f7e1f1f2c72fccc5e3bd9e0a3a2d] A claim notification under section 1142A of the Corporation Tax Act 2009 (requirement to make a claim notification) must include the information specified in the Table in respect of—
 
 - (a) the company[^f00008],
 - (b) the company officer responsible for ensuring the accuracy of the information provided under this Schedule,
 - (c) any agent or tax adviser engaged by the company, or which has provided services to the company, in any capacity in relation to the R&D claim, and
 - (d) the R&D claim[^f00009].
 
-**2.**[^key-e95d7f135c4e9303408df801b3f1910f] This is the Table referred to in paragraph 1—
+**2.**[^c-e95d7f135c4e9303408df801b3f1910f] This is the Table referred to in paragraph 1—
 
 | Subject | Specified information |
 | --- | --- |
-| the company | - (a) registered name (or, if the company is not a registered company, formal name)[^key-93ed025423d8a6e38c452aca8ca4205a], and<br>- (b) unique taxpayer reference number. |
+| the company | - (a) registered name (or, if the company is not a registered company, formal name)[^c-93ed025423d8a6e38c452aca8ca4205a], and<br>- (b) unique taxpayer reference number. |
 | the company officer responsible for ensuring the accuracy of the information provided under this Schedule | - (a) name,<br>- (b) role in the company,<br>- (c) telephone number, and<br>- (d) email address. |
 | agent(s) or tax adviser(s) | - (a) name (or, if the agent or adviser is a registered company, its registered number if available),<br>- (b) agent reference number,<br>- (c) business or trading name,<br>- (d) address of principal place of business,<br>- (e) email address,<br>- (f) telephone number, and<br>- (g) agent role (acting on research and development claim only, or acting on both research and development claim and other tax matters). |
 | the R&D claim | - (a) the start date and the end date of the accounting period,<br>- (b) the start date and the end date of the period of account,<br>- (c) the number of research and development project(s), and<br>- (d) an overview of the research and development project(s) for the period of account. |
@@ -128,9 +128,9 @@ Regulation 2
 
 Regulation 3
 
-### Claimant’s details[^key-f24d3d61eb00c4b338fcae7b1f8a443b]
+### Claimant’s details[^c-f24d3d61eb00c4b338fcae7b1f8a443b]
 
-**1.**[^key-27e5811a0d948ca1eda8141aa6719fe8] (1) The following information in relation to the company—
+**1.**[^c-27e5811a0d948ca1eda8141aa6719fe8] (1) The following information in relation to the company—
 
 - (a) registered name (or, if the company is not a registered company, formal name);
 - (b) unique taxpayer reference number;
@@ -146,11 +146,11 @@ Regulation 3
 - (a) whether the company has, at any point during the accounting period to which the claim relates, carried on a trade that involves—
   - (i) trading in goods, or
   - (ii) the generation, transmission, distribution, supply, wholesale trading or cross-border exchange of electricity; and
-- (b) if not, whether the company wishes to rely on section 1112J(4) of CTA 2009[^key-867a5c0af1bb0775018179d2e41ec5ef].
+- (b) if not, whether the company wishes to rely on section 1112J(4) of CTA 2009[^c-867a5c0af1bb0775018179d2e41ec5ef].
 
 ### Responsible officer
 
-**2.**[^key-643a57c5b966f6af6f05bb846a7b84f1] The following information in relation to the officer of the company who is responsible for ensuring the accuracy of the information provided under this Schedule—
+**2.**[^c-643a57c5b966f6af6f05bb846a7b84f1] The following information in relation to the officer of the company who is responsible for ensuring the accuracy of the information provided under this Schedule—
 
 - (a) name;
 - (b) role in the company;
@@ -324,10 +324,10 @@ Whether the claim relies on the application of section 1058D or 1112E of CTA 200
 
 (1) If a positive answer was given under sub-paragraph (a) or (b) of paragraph 1(2)—
 
-- (a)[^key-0e8fcda639a2abf83990fb691184b7c1] a statement to the effect that any additional relief claimed by the company under Chapter 2 would be de minimis state aid, and
+- (a)[^c-0e8fcda639a2abf83990fb691184b7c1] a statement to the effect that any additional relief claimed by the company under Chapter 2 would be de minimis state aid, and
 - (b) the total value of de minimis state aid received by the company from the United Kingdom in the period of three years ending with the day on which the claim is made;
 
-(2)[^key-54c7bd2943d5d64e994cc4246a1bf877] For the purposes of sub-paragraph (1)—
+(2)[^c-54c7bd2943d5d64e994cc4246a1bf877] For the purposes of sub-paragraph (1)—
 
 - “**additional relief**” has the meaning given in section 1112J(3) of CTA 2009;
 - “**de minimis state aid**” means aid that is exempted from notification as described in section 1112J(2) of CTA 2009.
@@ -356,35 +356,35 @@ A Tax Information and Impact Note covering this instrument is published on the w
 
 [^f00005]: Footnote: By virtue of section 5(2) of the Commissioners for Revenue and Customs Act 2005 functions previously exercisable by the Commissioners of Inland Revenue are now exercisable by the Commissioners for His Majesty’s Revenue and Customs.
 
-[^key-af6d302735ebe87b0194954675dca198]: Commencement: Reg. 1 in force at 8.8.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/813/regulation/1)
+[^c-af6d302735ebe87b0194954675dca198]: Commencement: Reg. 1 in force at 8.8.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/813/regulation/1)
 
-[^key-74a89c449143c9b52e4f22cd22e0956d]: Commencement: Reg. 2 in force at 8.8.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/813/regulation/1)
+[^c-74a89c449143c9b52e4f22cd22e0956d]: Commencement: Reg. 2 in force at 8.8.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/813/regulation/1)
 
-[^key-e9d0b9b7e7eb56f8320a0d0378ffba91]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/813/regulation/3) substituted (2.10.2024) by [The Research and Development Relief (Information Requirements etc.) Regulations 2024 (S.I. 2024/950)](https://www.legislation.gov.uk/uksi/2024/950), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/950/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/950/regulation/2/1)
+[^c-e9d0b9b7e7eb56f8320a0d0378ffba91]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/813/regulation/3) substituted (2.10.2024) by [The Research and Development Relief (Information Requirements etc.) Regulations 2024 (S.I. 2024/950)](https://www.legislation.gov.uk/uksi/2024/950), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/950/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/950/regulation/2/1)
 
-[^key-864097fe0d1584af45544e91afe05bd4]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2023/813/regulation/3/4) omitted (with effect in accordance with s. 29(9) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 29(7)(a)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/7/a)[(9)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/9)
+[^c-864097fe0d1584af45544e91afe05bd4]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2023/813/regulation/3/4) omitted (with effect in accordance with s. 29(9) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 29(7)(a)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/7/a)[(9)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/9)
 
-[^key-77396868944bc301d218c6f8a7c09be4]: Commencement: Reg. 4 in force at 8.8.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/813/regulation/1)
+[^c-77396868944bc301d218c6f8a7c09be4]: Commencement: Reg. 4 in force at 8.8.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/813/regulation/1)
 
 [^f00007]: Footnote: [S.I. 2003/282](https://www.legislation.gov.uk/uksi/2003/282); relevantly amended by [S.I. 2009/3218](https://www.legislation.gov.uk/uksi/2009/3218), [2010/2942](https://www.legislation.gov.uk/uksi/2010/2942), [2014/489](https://www.legislation.gov.uk/uksi/2014/489), and [2023/221](https://www.legislation.gov.uk/uksi/2023/221).
 
-[^key-9ac8f7e1f1f2c72fccc5e3bd9e0a3a2d]: Commencement: Sch. 1 para. 1 in force at 8.8.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/813/regulation/1)
+[^c-9ac8f7e1f1f2c72fccc5e3bd9e0a3a2d]: Commencement: Sch. 1 para. 1 in force at 8.8.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/813/regulation/1)
 
 [^f00008]: Footnote: “company” is defined in section 1121 of the Corporation Tax Act [2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24).
 
 [^f00009]: Footnote: “R&D claim” is defined in section 1142B of the Corporation Tax Act [2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4). Section 1142B was inserted by paragraph 2(6) of Schedule 1 to the Finance (No. 2) Act 2023.
 
-[^key-e95d7f135c4e9303408df801b3f1910f]: Commencement: Sch. 1 para. 2 in force at 8.8.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/813/regulation/1)
+[^c-e95d7f135c4e9303408df801b3f1910f]: Commencement: Sch. 1 para. 2 in force at 8.8.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/813/regulation/1)
 
-[^key-93ed025423d8a6e38c452aca8ca4205a]: Textual amendment: Words in [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/uksi/2023/813/schedule/1/paragraph/2/a) inserted (2.10.2024) by [The Research and Development Relief (Information Requirements etc.) Regulations 2024 (S.I. 2024/950)](https://www.legislation.gov.uk/uksi/2024/950), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/950/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2024/950/regulation/3)
+[^c-93ed025423d8a6e38c452aca8ca4205a]: Textual amendment: Words in [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/uksi/2023/813/schedule/1/paragraph/2/a) inserted (2.10.2024) by [The Research and Development Relief (Information Requirements etc.) Regulations 2024 (S.I. 2024/950)](https://www.legislation.gov.uk/uksi/2024/950), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/950/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2024/950/regulation/3)
 
-[^key-f24d3d61eb00c4b338fcae7b1f8a443b]: Textual amendment: [Sch. 2 paras. 1-10](https://www.legislation.gov.uk/uksi/2023/813/schedule/2/paragraph/1) substituted for [Sch. 2](https://www.legislation.gov.uk/uksi/2023/813/schedule/2) [paras. 1, 2](https://www.legislation.gov.uk/uksi/2023/813/schedule/2/paragraph/1) (2.10.2024) by [The Research and Development Relief (Information Requirements etc.) Regulations 2024 (S.I. 2024/950)](https://www.legislation.gov.uk/uksi/2024/950), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/950/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/950/regulation/2/2)
+[^c-f24d3d61eb00c4b338fcae7b1f8a443b]: Textual amendment: [Sch. 2 paras. 1-10](https://www.legislation.gov.uk/uksi/2023/813/schedule/2/paragraph/1) substituted for [Sch. 2](https://www.legislation.gov.uk/uksi/2023/813/schedule/2) [paras. 1, 2](https://www.legislation.gov.uk/uksi/2023/813/schedule/2/paragraph/1) (2.10.2024) by [The Research and Development Relief (Information Requirements etc.) Regulations 2024 (S.I. 2024/950)](https://www.legislation.gov.uk/uksi/2024/950), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/950/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/950/regulation/2/2)
 
-[^key-27e5811a0d948ca1eda8141aa6719fe8]: Commencement: Sch. 2 para. 1 in force at 8.8.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/813/regulation/1)
+[^c-27e5811a0d948ca1eda8141aa6719fe8]: Commencement: Sch. 2 para. 1 in force at 8.8.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/813/regulation/1)
 
-[^key-867a5c0af1bb0775018179d2e41ec5ef]: Textual amendment: Words in [Sch. 2 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/813/schedule/2/paragraph/1/2/b) substituted (with effect in accordance with s. 29(9) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 29(7)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/7/b)[(9)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/9)
+[^c-867a5c0af1bb0775018179d2e41ec5ef]: Textual amendment: Words in [Sch. 2 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/813/schedule/2/paragraph/1/2/b) substituted (with effect in accordance with s. 29(9) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 29(7)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/7/b)[(9)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/9)
 
-[^key-643a57c5b966f6af6f05bb846a7b84f1]: Commencement: Sch. 2 para. 2 in force at 8.8.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/813/regulation/1)
+[^c-643a57c5b966f6af6f05bb846a7b84f1]: Commencement: Sch. 2 para. 2 in force at 8.8.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/813/regulation/1)
 
 [^f00010]: Footnote: For the requirement to register for value added tax see section 3 of, and Schedules 1 to 3A to, the Value Added Tax Act [1994 (c. 23)](https://www.legislation.gov.uk/ukpga/1994/23) and Part 2 of [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518).
 
@@ -414,6 +414,6 @@ A Tax Information and Impact Note covering this instrument is published on the w
 
 [^f00023]: Footnote: Available online at https://www.gov.uk/government/publications/guidelines-on-the-meaning-of-research-and-development-for-tax-purposes/meaning-of-research-and-development-for-tax-purposes-guidelines. A hard copy is available for inspection free of charge at the offices of HM Revenue and Customs at 100 Parliament Street, London, SW1A 2BQ.
 
-[^key-0e8fcda639a2abf83990fb691184b7c1]: Textual amendment: [Sch. 2 para. 10(1)(a)(b)](https://www.legislation.gov.uk/uksi/2023/813/schedule/2/paragraph/10/1/a/b) substituted (with effect in accordance with [s. 29(9)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/9) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 29(7)(c)(9)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/7/c/9)
+[^c-0e8fcda639a2abf83990fb691184b7c1]: Textual amendment: [Sch. 2 para. 10(1)(a)(b)](https://www.legislation.gov.uk/uksi/2023/813/schedule/2/paragraph/10/1/a/b) substituted (with effect in accordance with [s. 29(9)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/9) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 29(7)(c)(9)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/7/c/9)
 
-[^key-54c7bd2943d5d64e994cc4246a1bf877]: Textual amendment: [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2023/813/schedule/2/paragraph/10/2) substituted (with effect in accordance with [s. 29(9)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/9) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 29(7)(c)(9)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/7/c/9)
+[^c-54c7bd2943d5d64e994cc4246a1bf877]: Textual amendment: [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2023/813/schedule/2/paragraph/10/2) substituted (with effect in accordance with [s. 29(9)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/9) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 29(7)(c)(9)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/7/c/9)

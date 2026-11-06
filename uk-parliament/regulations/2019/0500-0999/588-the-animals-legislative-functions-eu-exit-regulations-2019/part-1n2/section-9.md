@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Council Regulation [(EC) No 1099/2009](https://www.legislation.gov.uk/eur/2009/1099) on the protection of animals at the time of killing[^key-e8e40726b6ecf2493197c7dbdefeaf8e]
+## 9. Council Regulation [(EC) No 1099/2009](https://www.legislation.gov.uk/eur/2009/1099) on the protection of animals at the time of killing[^c-e8e40726b6ecf2493197c7dbdefeaf8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 > - (a) for regulations applying in relation to England, the Secretary of State;
 > - (b) for regulations applying in relation to Wales, the Welsh Ministers;
 > - (c) for regulations applying in relation to Scotland, the Scottish Ministers;
-> - (d)[^key-12a31ba35d3771b668af948f147fd0e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (d)[^c-12a31ba35d3771b668af948f147fd0e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **2.**
 >
@@ -45,7 +45,7 @@ summary: ''
 >
 > - (a) for regulations applying in relation to Wales, the Welsh Ministers;
 > - (b) for regulations applying in relation to Scotland, the Scottish Ministers;
-> - (c)[^key-320e57c31341d6cd179ae9616519168a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (c)[^c-320e57c31341d6cd179ae9616519168a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 .
 
@@ -152,7 +152,7 @@ summary: ''
 >
 > For regulations made under this Regulation by the Scottish Ministers, see section 27 of the Interpretation and Legislative Reform (Scotland) Act 2010 [^c23643951].
 >
-> **3.[^key-a8d77cdd71a1d54262c313fbd48f2cc2]**
+> **3.[^c-a8d77cdd71a1d54262c313fbd48f2cc2]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
@@ -168,11 +168,11 @@ summary: ''
 >
 > Regulations made by the Scottish Ministers under this Regulation are subject to the negative procedure (see section 28 of the Interpretation and Legislative Reform (Scotland) Act 2010).
 >
-> **7.[^key-a8d77cdd71a1d54262c313fbd48f2cc2]**
+> **7.[^c-a8d77cdd71a1d54262c313fbd48f2cc2]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **8.[^key-b984e4b289b9061bd0f1a8d1ace82d26]**
+> **8.[^c-b984e4b289b9061bd0f1a8d1ace82d26]**
 >
 > Regulations made under this Regulation may—
 >
@@ -190,14 +190,14 @@ summary: ''
 
 ## Annotations
 
-[^key-e8e40726b6ecf2493197c7dbdefeaf8e]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e8e40726b6ecf2493197c7dbdefeaf8e]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-12a31ba35d3771b668af948f147fd0e4]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2019/588/regulation/9/3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [3(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/3/4/a/i)
+[^c-12a31ba35d3771b668af948f147fd0e4]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2019/588/regulation/9/3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [3(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/3/4/a/i)
 
-[^key-320e57c31341d6cd179ae9616519168a]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2019/588/regulation/9/3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [3(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/3/4/a/ii)
+[^c-320e57c31341d6cd179ae9616519168a]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2019/588/regulation/9/3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [3(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/3/4/a/ii)
 
 [^c23643951]: Marginal citation: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-a8d77cdd71a1d54262c313fbd48f2cc2]: Textual amendment: Words in [reg. 9(14)](https://www.legislation.gov.uk/uksi/2019/588/regulation/9/14) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [3(4)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/3/4/b/i)
+[^c-a8d77cdd71a1d54262c313fbd48f2cc2]: Textual amendment: Words in [reg. 9(14)](https://www.legislation.gov.uk/uksi/2019/588/regulation/9/14) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [3(4)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/3/4/b/i)
 
-[^key-b984e4b289b9061bd0f1a8d1ace82d26]: Textual amendment: Reg. 9(14): in text of inserted Art. 24a, second paras. 5, 6 renumbered as paras. 8, 9 (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [3(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/3/4/b/ii)
+[^c-b984e4b289b9061bd0f1a8d1ace82d26]: Textual amendment: Reg. 9(14): in text of inserted Art. 24a, second paras. 5, 6 renumbered as paras. 8, 9 (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [3(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/3/4/b/ii)

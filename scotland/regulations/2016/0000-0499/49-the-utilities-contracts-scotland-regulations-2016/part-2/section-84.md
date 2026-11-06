@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Conditions for performance of contracts[^key-0e5f5a201a7f0a9cee52ad1e8b33058e]
+## 84. Conditions for performance of contracts[^c-0e5f5a201a7f0a9cee52ad1e8b33058e]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e5f5a201a7f0a9cee52ad1e8b33058e]: Commencement: [Reg. 84](https://www.legislation.gov.uk/ssi/2016/49/regulation/84) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-0e5f5a201a7f0a9cee52ad1e8b33058e]: Commencement: [Reg. 84](https://www.legislation.gov.uk/ssi/2016/49/regulation/84) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

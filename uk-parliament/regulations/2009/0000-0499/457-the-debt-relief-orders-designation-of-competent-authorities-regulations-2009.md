@@ -48,15 +48,15 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 251U(4) of the Insolvency Act 1986[^f00001] makes the following Regulations:—
 
-## 1. Citation, commencement and interpretation[^key-2b69bb666ddbaa76ca29b0003a211879]
+## 1. Citation, commencement and interpretation[^c-2b69bb666ddbaa76ca29b0003a211879]
 
 These Regulations may be cited as the Debt Relief Orders (Designation of Competent Authorities) Regulations and come into force on 6th April 2009.
 
-**2.**[^key-ee116d74482e2170a21f90b0fafcd086] “The Act” means the Insolvency Act 1986.
+**2.**[^c-ee116d74482e2170a21f90b0fafcd086] “The Act” means the Insolvency Act 1986.
 
 ## PART I — Competent authorities
 
-### 3. Designated competent authorities[^key-36f150412a435523fa39e0e1fbb84d23]
+### 3. Designated competent authorities[^c-36f150412a435523fa39e0e1fbb84d23]
 
 (1) The Secretary of State may designate a body which appears to him to fall within paragraph (2) to be a competent authority for the purposes of granting approvals under section 251U of the Act.
 
@@ -68,7 +68,7 @@ These Regulations may be cited as the Debt Relief Orders (Designation of Compete
   - (ii) the provision to those intermediaries of education, training and development (including continuing education, training and development) in debt management or debt counselling services, and
 - (c) it appears to the Secretary of State that it is a fit and proper body to approve individuals to act as intermediaries between a person wishing to make an application for a debt relief order and the official receiver.
 
-### 4. Application for designation as a competent authority[^key-983f8addf34324faab34d85830f408e0]
+### 4. Application for designation as a competent authority[^c-983f8addf34324faab34d85830f408e0]
 
 (1) An application by a body (“the applicant body”) for designation as a competent authority for the purposes of granting approvals under section 251U of the Act (“the application”) shall be made to the Secretary of State in writing and contain—
 
@@ -108,7 +108,7 @@ These Regulations may be cited as the Debt Relief Orders (Designation of Compete
 
 (2) The application may be accompanied by further information in support of the application; and the Secretary of State may request the applicant body to supply further information or evidence.
 
-### 5. Fit and proper body[^key-ff45d19d6e3cb8c757b6532893a8adee]
+### 5. Fit and proper body[^c-ff45d19d6e3cb8c757b6532893a8adee]
 
 (1) A body may not be designated a competent authority unless it is a fit and proper body to act as such.
 
@@ -121,14 +121,14 @@ These Regulations may be cited as the Debt Relief Orders (Designation of Compete
   - (ii) a competent authority; or
 - (d) has entered into a company voluntary arrangement under Part 1 of the Act.
 
-### 6. Extent of designation[^key-c2b1a03906688335d392fc8fd5d26fb3]
+### 6. Extent of designation[^c-c2b1a03906688335d392fc8fd5d26fb3]
 
 The Secretary of State shall designate a competent authority by sending to the applicant body a letter of designation which shall contain—
 
 - (a) a statement that the applicant body as competent authority is designated to approve persons of any description (“unlimited designation”), or
 - (b) a statement that the applicant body as competent authority is designated to approve persons only of a particular description (“limited designation”) and the description of person to which the designation is limited.
 
-### 7. Withdrawal of designation as competent authority[^key-67c33bfb735684d371660099617366ef]
+### 7. Withdrawal of designation as competent authority[^c-67c33bfb735684d371660099617366ef]
 
 (1) The Secretary of State may at any time—
 
@@ -147,7 +147,7 @@ as may be required by him or her for the purpose of ensuring that the requiremen
 
 ## PART II — Approval of intermediaries
 
-### 8. Approval by competent authority[^key-d039ee25454142f394a443c5e96f2585]
+### 8. Approval by competent authority[^c-d039ee25454142f394a443c5e96f2585]
 
 (1) A competent authority may approve an individual to act as an intermediary between a person wishing to make an application for a debt relief order and the official receiver subject as follows.
 
@@ -156,7 +156,7 @@ as may be required by him or her for the purpose of ensuring that the requiremen
 - (a) if the individual makes an application to a competent authority to be approved as an intermediary in accordance with the Act and these regulations; and
 - (b) it appears to the competent authority that the individual is a fit and proper person to act as intermediary between a person wishing to make an application for a debt relief order and the official receiver.
 
-### 9. Ineligibility[^key-3556d6a873ad3928549a0b12ecca5509]
+### 9. Ineligibility[^c-3556d6a873ad3928549a0b12ecca5509]
 
 Individuals of any of the following descriptions are ineligible to be approved by a competent authority to act as intermediaries—
 
@@ -175,7 +175,7 @@ Individuals of any of the following descriptions are ineligible to be approved b
 - (m) individuals who, subject to any exemption from the requirement to possess or be covered by a relevant consumer credit licence which would otherwise apply to or in relation to them, neither possess nor are validly covered by such a licence; and
 - (n) individuals who are not covered, either individually or by way of a group policy, by public liability or personal indemnity insurance.
 
-### 10. Applications to a competent authority for approval to act as intermediary[^key-7d8f53f4e59c486c2bb55f275b9fb943]
+### 10. Applications to a competent authority for approval to act as intermediary[^c-7d8f53f4e59c486c2bb55f275b9fb943]
 
 (1) Applications to a competent authority by an individual for approval to act as an intermediary shall be in writing and contain—
 
@@ -196,9 +196,9 @@ Individuals of any of the following descriptions are ineligible to be approved b
 
 (2) In this regulation, “relevant body” means a body concerned with the regulation of persons who provide or ensure the provision of debt management or debt counselling services.
 
-(3) The application may be accompanied by further information in support of the application; and the competent authority may request the individual to supply further information or evidence[^key-2736560ea3dafa348854ec0c343e2e17].
+(3) The application may be accompanied by further information in support of the application; and the competent authority may request the individual to supply further information or evidence[^c-2736560ea3dafa348854ec0c343e2e17].
 
-### 11. Procedure for withdrawal of approval to act as intermediary[^key-280cec66ac7496b6bf0cc58823baec62]
+### 11. Procedure for withdrawal of approval to act as intermediary[^c-280cec66ac7496b6bf0cc58823baec62]
 
 A competent authority shall withdraw an approval to act as intermediary from any individual—
 
@@ -236,23 +236,23 @@ An impact assessment on debt relief orders was prepared for the debt relief orde
 
 [^f00001]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45). Section 251U is inserted by section 108(1) of, and Schedule 17 to, the Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-2b69bb666ddbaa76ca29b0003a211879]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/457/regulation/1) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/457/regulation/1)
+[^c-2b69bb666ddbaa76ca29b0003a211879]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/457/regulation/1) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/457/regulation/1)
 
-[^key-ee116d74482e2170a21f90b0fafcd086]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/457/regulation/2) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/457/regulation/1)
+[^c-ee116d74482e2170a21f90b0fafcd086]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/457/regulation/2) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/457/regulation/1)
 
-[^key-36f150412a435523fa39e0e1fbb84d23]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/457/regulation/3) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/457/regulation/1)
+[^c-36f150412a435523fa39e0e1fbb84d23]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/457/regulation/3) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/457/regulation/1)
 
-[^key-983f8addf34324faab34d85830f408e0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/457/regulation/4) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/457/regulation/1)
+[^c-983f8addf34324faab34d85830f408e0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/457/regulation/4) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/457/regulation/1)
 
-[^key-ff45d19d6e3cb8c757b6532893a8adee]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/457/regulation/5) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/457/regulation/1)
+[^c-ff45d19d6e3cb8c757b6532893a8adee]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/457/regulation/5) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/457/regulation/1)
 
-[^key-c2b1a03906688335d392fc8fd5d26fb3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/457/regulation/6) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/457/regulation/1)
+[^c-c2b1a03906688335d392fc8fd5d26fb3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/457/regulation/6) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/457/regulation/1)
 
-[^key-67c33bfb735684d371660099617366ef]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2009/457/regulation/7) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/457/regulation/1)
+[^c-67c33bfb735684d371660099617366ef]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2009/457/regulation/7) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/457/regulation/1)
 
-[^key-d039ee25454142f394a443c5e96f2585]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2009/457/regulation/8) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/457/regulation/1)
+[^c-d039ee25454142f394a443c5e96f2585]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2009/457/regulation/8) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/457/regulation/1)
 
-[^key-3556d6a873ad3928549a0b12ecca5509]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/457/regulation/9) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/457/regulation/1)
+[^c-3556d6a873ad3928549a0b12ecca5509]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/457/regulation/9) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/457/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405).
 
@@ -270,8 +270,8 @@ An impact assessment on debt relief orders was prepared for the debt relief orde
 
 [^f00009]: Footnote: [2005 c.9](https://www.legislation.gov.uk/ukpga/2005/9).
 
-[^key-7d8f53f4e59c486c2bb55f275b9fb943]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2009/457/regulation/10) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/457/regulation/1)
+[^c-7d8f53f4e59c486c2bb55f275b9fb943]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2009/457/regulation/10) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/457/regulation/1)
 
-[^key-2736560ea3dafa348854ec0c343e2e17]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2009/457/regulation/10/3) substituted (20.7.2009) by [The Debt Relief Orders (Designation of Competent Authorities) (Amendment) Regulations 2009 (S.I. 2009/1553)](https://www.legislation.gov.uk/uksi/2009/1553), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1553/regulation/1), [2](https://www.legislation.gov.uk/uksi/2009/1553/regulation/2)
+[^c-2736560ea3dafa348854ec0c343e2e17]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2009/457/regulation/10/3) substituted (20.7.2009) by [The Debt Relief Orders (Designation of Competent Authorities) (Amendment) Regulations 2009 (S.I. 2009/1553)](https://www.legislation.gov.uk/uksi/2009/1553), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1553/regulation/1), [2](https://www.legislation.gov.uk/uksi/2009/1553/regulation/2)
 
-[^key-280cec66ac7496b6bf0cc58823baec62]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/457/regulation/11) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/457/regulation/1)
+[^c-280cec66ac7496b6bf0cc58823baec62]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/457/regulation/11) in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/457/regulation/1)

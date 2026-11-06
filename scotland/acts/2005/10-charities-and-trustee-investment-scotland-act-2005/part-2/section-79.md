@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Interpretation of Part 2[^key-684b64e15207926530802a16c552d23a]
+## 79. Interpretation of Part 2[^c-684b64e15207926530802a16c552d23a]
 
 *Extent: S*
 
@@ -71,4 +71,4 @@ is or are entitled (whether directly or through one or more nominees) to exercis
 
 ## Annotations
 
-[^key-684b64e15207926530802a16c552d23a]: Commencement: S. 79 in force at 1.1.2006 by [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)
+[^c-684b64e15207926530802a16c552d23a]: Commencement: S. 79 in force at 1.1.2006 by [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)

@@ -40,28 +40,28 @@ Coming into operation
 
 The Lord Chancellor, after consultation with the Lord Chief Justice and with the concurrence of the Treasury, in exercise of the powers conferred on him by section 116(1) and (4) of the Judicature (Northern Ireland) Act 1978[^f00001], hereby makes the following Order:—
 
-## 1. Citation and commencement[^key-63c0342d24c16347b7d91236450645f9]
+## 1. Citation and commencement[^c-63c0342d24c16347b7d91236450645f9]
 
 This Order may be cited as the Supreme Court Fees Order (Northern Ireland) 1996 and shall come into operation on 1st April 1996.
 
-## 2. Interpretation[^key-0c62da46b1b33ac990d330227a0803c3]
+## 2. Interpretation[^c-0c62da46b1b33ac990d330227a0803c3]
 
 In this Order, unless the context otherwise requires—
 
 - (a) an Order or rule referred to by number means an Order or rule so numbered in the Rules of the Supreme Court (Northern Ireland) 1980[^f00002] and expressions defined in those Rules shall have the same meaning in this Order; and
 - (b) a fee or column referred to by number means the fee or column so numbered in the Schedule to this Order.
 
-## 3. Revocation[^key-84ce87f59a9e8df661fe9cff9d630bd0]
+## 3. Revocation[^c-84ce87f59a9e8df661fe9cff9d630bd0]
 
 The Supreme Court Fees Order (Northern Ireland) 1994[^f00003] and the Supreme Court Fees (Amendment) Order (Northern Ireland) 1995[^f00004] are hereby revoked.
 
-## 4. Fees to be taken in proceedings in the Supreme Court[^key-1531f2877f67b17946651da7e2d3327c]
+## 4. Fees to be taken in proceedings in the Supreme Court[^c-1531f2877f67b17946651da7e2d3327c]
 
 (1) The fees set out in column 2 shall be payable in proceedings in the Supreme Court in respect of the items set out opposite thereto in column 1.
 
 (2) Where it appears to the Lord Chancellor that the payment of any fee specified in the Schedule would, owing to the exceptional circumstances of the particular case, involve undue hardship, he may reduce or remit the fee in that case.
 
-## 5. Provisions of Order not to apply[^key-ae3bb6f8dbd98da71a25b5ccec6da54d]
+## 5. Provisions of Order not to apply[^c-ae3bb6f8dbd98da71a25b5ccec6da54d]
 
 The provisions of this Order shall not apply to—
 
@@ -69,11 +69,11 @@ The provisions of this Order shall not apply to—
 - (b) criminal proceedings (except proceedings on the Crown side of the Queen’s Bench Division to which the scale contained in the Schedule is applicable); and
 - (c) matrimonial proceedings.
 
-## 6. Fees in foreign convention proceedings[^key-5f59177617600be5e7f2dd2258743723]
+## 6. Fees in foreign convention proceedings[^c-5f59177617600be5e7f2dd2258743723]
 
 Where by any convention entered into by Her Majesty with any foreign power it is provided that no fee shall be required to be paid in respect of any proceedings, the fees specified in this Order shall not be taken in respect of those proceedings.
 
-## 7. Manner in which fees are to be taken[^key-1e481cd6d5fe5f81866fe2574e96ce89]
+## 7. Manner in which fees are to be taken[^c-1e481cd6d5fe5f81866fe2574e96ce89]
 
 (1) Subject to paragraph (4), the fees prescribed in the Schedule shall be taken in cash.
 
@@ -83,7 +83,7 @@ Where by any convention entered into by Her Majesty with any foreign power it is
 
 (4) Fees No. 25(*b*) and (*d*) (being certain fees payable in an Admiralty matter) shall be taken by transfer from money in court.
 
-## 8. Application of fees[^key-63ce78deaeaf569ad43cbdaea093c0a1]
+## 8. Application of fees[^c-63ce78deaeaf569ad43cbdaea093c0a1]
 
 All fees received by virtue of the Schedule shall, unless otherwise appropriated in aid, be paid into the Consolidated Fund
 
@@ -344,13 +344,13 @@ TABLE 2 (Fee No. 45)
 
 ### NOTES:
 
-**1.**[^key-3c3ed60b9ac17fb379e5c5360de66679] In relation to fees number 42 and 45, and their corresponding Tables, where income exceeds the lower limit of a band by less than the difference between the fees for that band and the next lower band, the fee charged shall be the fee for the lower band plus the amount by which the income exceeds the upper limit of the band. For example, in calculating fee No. 42 on a clear annual income of (£2,050) which exceeds the lower limit (£2,000) on Band (iii) by less than the difference (£75) between the fee (£150) on Band (iii) and the fee (£75) on Band (ii), the fee payable is—
+**1.**[^c-3c3ed60b9ac17fb379e5c5360de66679] In relation to fees number 42 and 45, and their corresponding Tables, where income exceeds the lower limit of a band by less than the difference between the fees for that band and the next lower band, the fee charged shall be the fee for the lower band plus the amount by which the income exceeds the upper limit of the band. For example, in calculating fee No. 42 on a clear annual income of (£2,050) which exceeds the lower limit (£2,000) on Band (iii) by less than the difference (£75) between the fee (£150) on Band (iii) and the fee (£75) on Band (ii), the fee payable is—
 
 - £75 (the fee on Band (ii))
 - \+ £50 (the amount by which the income exceeds £2,000)
 - £125
 
-**2.**[^key-82be523236c1b79c687f21f0d041b9e8] In relation to fee number 42—
+**2.**[^c-82be523236c1b79c687f21f0d041b9e8] In relation to fee number 42—
 
 (1) The annual administration fee shall be payable in respect of the clear annual income at the disposal of the patient from the date of issue of the first application for the appointment of a controller or other originating process until the termination of the proceedings.
 
@@ -360,9 +360,9 @@ TABLE 2 (Fee No. 45)
 
 (4) The clear annual income at the patient’s disposal, for the purposes of this fee does not include income which accrued and became payable to him more than six months prior to the date of the first application for the appointment of a controller or other originating process but which was received after that date.
 
-**3.**[^key-b16192898c65ac53d010280f97bccefe] Fees number 42 and 43 are not payable where an officer of the court is acting as controller for the patient.
+**3.**[^c-b16192898c65ac53d010280f97bccefe] Fees number 42 and 43 are not payable where an officer of the court is acting as controller for the patient.
 
-**4.**[^key-1d841b17756421a378e32f6aefb0ec21] In relation to fee number 43—
+**4.**[^c-1d841b17756421a378e32f6aefb0ec21] In relation to fee number 43—
 
 (1) “special case” means an order made by the court—
 
@@ -376,11 +376,11 @@ TABLE 2 (Fee No. 45)
 
 (4) Except when the court otherwise directs, no fee shall be payable under fee number 43 upon the sale or purchase of personal chattels or any investment for the time being authorised by law for the investment of trust property or in securities quoted in any stock exchange in the United Kingdom.
 
-**5.**[^key-a6f6b16e24b849c0a53dbc9b3152d72e] (1) In relation to fee number 44, the clear annual income at the patient’s disposal for the purpose of this fee does not include income which accrued and became payable to him more than six months prior to the date when the court’s jurisdiction was first exercised in relation to him.
+**5.**[^c-a6f6b16e24b849c0a53dbc9b3152d72e] (1) In relation to fee number 44, the clear annual income at the patient’s disposal for the purpose of this fee does not include income which accrued and became payable to him more than six months prior to the date when the court’s jurisdiction was first exercised in relation to him.
 
 (2) In relation to fee number 45, no annual fee shall be taken where the proceedings are terminated less than four weeks from the date of issue of the first application for the appointment of a controller.
 
-**6.**[^key-8e56b90116d022358cedd3c5913458f2] In relation to fees number 41(2), 41, 43 and 44, no fee shall be payable on any income by way of a war pension or war injuries (civilian) pension in respect of—
+**6.**[^c-8e56b90116d022358cedd3c5913458f2] In relation to fees number 41(2), 41, 43 and 44, no fee shall be payable on any income by way of a war pension or war injuries (civilian) pension in respect of—
 
 - (a) service in the armed forces of the Crown to which section 2 of the War Pensions Act 1920 applies; or
 - (b) service in the armed forces of the Crown after 2nd September 1939, or
@@ -401,36 +401,36 @@ This Order revokes and replaces the Supreme Court Fees Order (Northern Ireland) 
 
 [^f00001]: Footnote: [1978 c. 23](https://www.legislation.gov.uk/ukpga/1978/23)
 
-[^key-63c0342d24c16347b7d91236450645f9]: Commencement: Art. 1 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/100/article/1)
+[^c-63c0342d24c16347b7d91236450645f9]: Commencement: Art. 1 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/100/article/1)
 
-[^key-0c62da46b1b33ac990d330227a0803c3]: Commencement: Art. 2 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/100/article/1)
+[^c-0c62da46b1b33ac990d330227a0803c3]: Commencement: Art. 2 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/100/article/1)
 
 [^f00002]: Footnote: [S.R. 1980 No. 346](https://www.legislation.gov.uk/nisr/1980/346)
 
-[^key-84ce87f59a9e8df661fe9cff9d630bd0]: Commencement: Art. 3 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/100/article/1)
+[^c-84ce87f59a9e8df661fe9cff9d630bd0]: Commencement: Art. 3 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/100/article/1)
 
 [^f00003]: Footnote: [S.R. 1994 No. 283](https://www.legislation.gov.uk/nisr/1994/283)
 
 [^f00004]: Footnote: [S.R. 1995 No. 220](https://www.legislation.gov.uk/nisr/1995/220)
 
-[^key-1531f2877f67b17946651da7e2d3327c]: Commencement: Art. 4 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/100/article/1)
+[^c-1531f2877f67b17946651da7e2d3327c]: Commencement: Art. 4 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/100/article/1)
 
-[^key-ae3bb6f8dbd98da71a25b5ccec6da54d]: Commencement: Art. 5 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/100/article/1)
+[^c-ae3bb6f8dbd98da71a25b5ccec6da54d]: Commencement: Art. 5 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/100/article/1)
 
-[^key-5f59177617600be5e7f2dd2258743723]: Commencement: Art. 6 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/100/article/1)
+[^c-5f59177617600be5e7f2dd2258743723]: Commencement: Art. 6 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/100/article/1)
 
-[^key-1e481cd6d5fe5f81866fe2574e96ce89]: Commencement: Art. 7 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/100/article/1)
+[^c-1e481cd6d5fe5f81866fe2574e96ce89]: Commencement: Art. 7 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/100/article/1)
 
-[^key-63ce78deaeaf569ad43cbdaea093c0a1]: Commencement: Art. 8 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/100/article/1)
+[^c-63ce78deaeaf569ad43cbdaea093c0a1]: Commencement: Art. 8 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/100/article/1)
 
-[^key-3c3ed60b9ac17fb379e5c5360de66679]: Commencement: Sch. A(crossheading)(notes\_paragraph)(1) in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/100/article/1)
+[^c-3c3ed60b9ac17fb379e5c5360de66679]: Commencement: Sch. A(crossheading)(notes\_paragraph)(1) in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/100/article/1)
 
-[^key-82be523236c1b79c687f21f0d041b9e8]: Commencement: Sch. A(crossheading)(notes\_paragraph)(2) in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/100/article/1)
+[^c-82be523236c1b79c687f21f0d041b9e8]: Commencement: Sch. A(crossheading)(notes\_paragraph)(2) in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/100/article/1)
 
-[^key-b16192898c65ac53d010280f97bccefe]: Commencement: Sch. A(crossheading)(notes\_paragraph)(3) in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/100/article/1)
+[^c-b16192898c65ac53d010280f97bccefe]: Commencement: Sch. A(crossheading)(notes\_paragraph)(3) in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/100/article/1)
 
-[^key-1d841b17756421a378e32f6aefb0ec21]: Commencement: Sch. A(crossheading)(notes\_paragraph)(4) in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/100/article/1)
+[^c-1d841b17756421a378e32f6aefb0ec21]: Commencement: Sch. A(crossheading)(notes\_paragraph)(4) in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/100/article/1)
 
-[^key-a6f6b16e24b849c0a53dbc9b3152d72e]: Commencement: Sch. A(crossheading)(notes\_paragraph)(5) in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/100/article/1)
+[^c-a6f6b16e24b849c0a53dbc9b3152d72e]: Commencement: Sch. A(crossheading)(notes\_paragraph)(5) in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/100/article/1)
 
-[^key-8e56b90116d022358cedd3c5913458f2]: Commencement: Sch. A(crossheading)(notes\_paragraph)(6) in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/100/article/1)
+[^c-8e56b90116d022358cedd3c5913458f2]: Commencement: Sch. A(crossheading)(notes\_paragraph)(6) in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/100/article/1)

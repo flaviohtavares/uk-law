@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Sections 1 and 2: supplemental[^key-8fab4c703e7e839407d3beae5026a8ee]
+## 3. Sections 1 and 2: supplemental[^c-8fab4c703e7e839407d3beae5026a8ee]
 
 *Extent: E+W+S*
 
@@ -41,7 +41,7 @@ summary: ''
 
 (6) In so far as section 2 transfers to the successor company liabilities under contracts of employment—
 
-- (a) nothing in that section or this section shall affect the operation of the Transfer of Undertakings (Protection of Employment) Regulations 2006[^key-3eff91d74d53828eab165658d49fd094], and
+- (a) nothing in that section or this section shall affect the operation of the Transfer of Undertakings (Protection of Employment) Regulations 2006[^c-3eff91d74d53828eab165658d49fd094], and
 - (b) the Secretary of State shall not appoint the appointed day unless satisfied that sufficient notice has been given to enable compliance with any applicable requirement of those regulations.
 
 (7) An order under section 1 may include consequential, incidental or transitional provision.
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8fab4c703e7e839407d3beae5026a8ee]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2004/25/section/3) in force at 25.2.2011 by [S.I. 2011/462](https://www.legislation.gov.uk/uksi/2011/462), [art. 2](https://www.legislation.gov.uk/uksi/2011/462/article/2)
+[^c-8fab4c703e7e839407d3beae5026a8ee]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2004/25/section/3) in force at 25.2.2011 by [S.I. 2011/462](https://www.legislation.gov.uk/uksi/2011/462), [art. 2](https://www.legislation.gov.uk/uksi/2011/462/article/2)
 
-[^key-3eff91d74d53828eab165658d49fd094]: Textual amendment: Words in s. 3(6)(a) substituted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 1(j)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/1/j)
+[^c-3eff91d74d53828eab165658d49fd094]: Textual amendment: Words in s. 3(6)(a) substituted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 1(j)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/1/j)

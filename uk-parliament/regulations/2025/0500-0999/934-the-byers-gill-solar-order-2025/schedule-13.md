@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 13 — DOCUMENTS TO BE CERTIFIED[^key-e2811ba4842378b141214055a42c0cc3]
+## SCHEDULE 13 — DOCUMENTS TO BE CERTIFIED[^c-e2811ba4842378b141214055a42c0cc3]
 
 *Extent: E+W*
 
@@ -69,4 +69,4 @@ Article 36
 
 ## Annotations
 
-[^key-e2811ba4842378b141214055a42c0cc3]: Commencement: Sch. 13 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
+[^c-e2811ba4842378b141214055a42c0cc3]: Commencement: Sch. 13 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)

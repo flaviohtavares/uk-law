@@ -40,125 +40,125 @@ as regards emergency measures to prevent the introduction into and the spread wi
 
 (2012/270/EU) (revoked)
 
-[^key-228e13090fdd90c4bb32b6fcf29abb3a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-228e13090fdd90c4bb32b6fcf29abb3a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Prohibitions concerning Epitrix cucumeris (Harris), Epitrix papa sp. n., Epitrix subcrinita (Lec.) and Epitrix tuberis (Gentner)[^key-228e13090fdd90c4bb32b6fcf29abb3a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Introduction of potato tubers into the Union[^key-228e13090fdd90c4bb32b6fcf29abb3a]
+## Article 1. Prohibitions concerning Epitrix cucumeris (Harris), Epitrix papa sp. n., Epitrix subcrinita (Lec.) and Epitrix tuberis (Gentner)[^c-228e13090fdd90c4bb32b6fcf29abb3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Movement of potato tubers within the Union[^key-228e13090fdd90c4bb32b6fcf29abb3a]
+## Article 2. Introduction of potato tubers into the Union[^c-228e13090fdd90c4bb32b6fcf29abb3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3a. Requirements concerning vehicles, packaging, machinery and waste soil[^key-228e13090fdd90c4bb32b6fcf29abb3a]
+## Article 3. Movement of potato tubers within the Union[^c-228e13090fdd90c4bb32b6fcf29abb3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3b. Requirements concerning packing facilities located outside the demarcated areas concerned[^key-228e13090fdd90c4bb32b6fcf29abb3a]
+## Article 3a. Requirements concerning vehicles, packaging, machinery and waste soil[^c-228e13090fdd90c4bb32b6fcf29abb3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Surveys and notifications as regards the specified organisms[^key-228e13090fdd90c4bb32b6fcf29abb3a]
+## Article 3b. Requirements concerning packing facilities located outside the demarcated areas concerned[^c-228e13090fdd90c4bb32b6fcf29abb3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Demarcated areas and measures to be taken in such areas[^key-228e13090fdd90c4bb32b6fcf29abb3a]
+## Article 4. Surveys and notifications as regards the specified organisms[^c-228e13090fdd90c4bb32b6fcf29abb3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Compliance[^key-228e13090fdd90c4bb32b6fcf29abb3a]
+## Article 5. Demarcated areas and measures to be taken in such areas[^c-228e13090fdd90c4bb32b6fcf29abb3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Application[^key-228e13090fdd90c4bb32b6fcf29abb3a]
+## Article 6. Compliance[^c-228e13090fdd90c4bb32b6fcf29abb3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Addressees[^key-228e13090fdd90c4bb32b6fcf29abb3a]
+## Article 7. Application[^c-228e13090fdd90c4bb32b6fcf29abb3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I[^key-228e13090fdd90c4bb32b6fcf29abb3a]
-
-### SECTION 1 — Specific requirements for introduction into the Union[^key-228e13090fdd90c4bb32b6fcf29abb3a]
-
-[^key-228e13090fdd90c4bb32b6fcf29abb3a](1)
+## Article 8. Addressees[^c-228e13090fdd90c4bb32b6fcf29abb3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-228e13090fdd90c4bb32b6fcf29abb3a](2)
+## ANNEX I[^c-228e13090fdd90c4bb32b6fcf29abb3a]
+
+### SECTION 1 — Specific requirements for introduction into the Union[^c-228e13090fdd90c4bb32b6fcf29abb3a]
+
+[^c-228e13090fdd90c4bb32b6fcf29abb3a](1)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-228e13090fdd90c4bb32b6fcf29abb3a](2)
 
 The certificate shall include either the information in point (a) or in point (b):
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-228e13090fdd90c4bb32b6fcf29abb3a](3)
+[^c-228e13090fdd90c4bb32b6fcf29abb3a](3)
 
 The certificate shall include the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-228e13090fdd90c4bb32b6fcf29abb3a](4)
+[^c-228e13090fdd90c4bb32b6fcf29abb3a](4)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-228e13090fdd90c4bb32b6fcf29abb3a](5)
+[^c-228e13090fdd90c4bb32b6fcf29abb3a](5)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### SECTION 2 — Conditions for movement[^key-228e13090fdd90c4bb32b6fcf29abb3a]
+### SECTION 2 — Conditions for movement[^c-228e13090fdd90c4bb32b6fcf29abb3a]
 
-[^key-228e13090fdd90c4bb32b6fcf29abb3a] (1)
+[^c-228e13090fdd90c4bb32b6fcf29abb3a] (1)
 
 Potato tubers originating in demarcated areas within the Union may be moved from such areas into non-demarcated areas within the Union only if the following conditions are fulfilled:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-228e13090fdd90c4bb32b6fcf29abb3a] (2)
+[^c-228e13090fdd90c4bb32b6fcf29abb3a] (2)
 
 For the movement of potato tubers to the packing facility, as referred to in the second subparagraph of Article 3(1), in addition to point (1)(a), the following conditions shall be fulfilled:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-228e13090fdd90c4bb32b6fcf29abb3a] (3)
+[^c-228e13090fdd90c4bb32b6fcf29abb3a] (3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — DEMARCATED AREAS AND MEASURES, AS PROVIDED FOR IN ARTICLE 5[^key-228e13090fdd90c4bb32b6fcf29abb3a]
+## ANNEX II — DEMARCATED AREAS AND MEASURES, AS PROVIDED FOR IN ARTICLE 5[^c-228e13090fdd90c4bb32b6fcf29abb3a]
 
-[^key-228e13090fdd90c4bb32b6fcf29abb3a]SECTION 1
+[^c-228e13090fdd90c4bb32b6fcf29abb3a]SECTION 1
 
 **Establishment of demarcated areas**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-228e13090fdd90c4bb32b6fcf29abb3a](1)
+[^c-228e13090fdd90c4bb32b6fcf29abb3a](1)
 
 Demarcated areas shall consist of the following zones:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-228e13090fdd90c4bb32b6fcf29abb3a](2)
+[^c-228e13090fdd90c4bb32b6fcf29abb3a](2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-228e13090fdd90c4bb32b6fcf29abb3a] (3)
+[^c-228e13090fdd90c4bb32b6fcf29abb3a] (3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-228e13090fdd90c4bb32b6fcf29abb3a] (4)
+[^c-228e13090fdd90c4bb32b6fcf29abb3a] (4)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-228e13090fdd90c4bb32b6fcf29abb3a] (5)
+[^c-228e13090fdd90c4bb32b6fcf29abb3a] (5)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-228e13090fdd90c4bb32b6fcf29abb3a]SECTION 2
+[^c-228e13090fdd90c4bb32b6fcf29abb3a]SECTION 2
 
 **Measures in demarcated areas, as provided for in the second subparagraph of Article 5(1)**
 
@@ -166,4 +166,4 @@ Demarcated areas shall consist of the following zones:
 
 ## Annotations
 
-[^key-228e13090fdd90c4bb32b6fcf29abb3a]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/14) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-228e13090fdd90c4bb32b6fcf29abb3a]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/14) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

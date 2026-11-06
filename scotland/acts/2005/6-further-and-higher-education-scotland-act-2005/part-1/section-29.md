@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Educational use of certain property[^key-2792649e24283bfbd239e64c92bd7427]
+## 29. Educational use of certain property[^c-2792649e24283bfbd239e64c92bd7427]
 
 *Extent: S*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2792649e24283bfbd239e64c92bd7427]: Commencement: S. 29 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-2792649e24283bfbd239e64c92bd7427]: Commencement: S. 29 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)

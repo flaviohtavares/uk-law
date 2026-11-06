@@ -52,17 +52,17 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In relation to regulation 2, the Secretary of State has consulted in accordance with section 43(9) of the Police Reform Act 2002.
 
-## 1. Citation and commencement[^key-7f2615336bd42b8ce5bfa57c9405bf88]
+## 1. Citation and commencement[^c-7f2615336bd42b8ce5bfa57c9405bf88]
 
 These Regulations may be cited as the Local Policing Bodies (Consequential Amendments No. 2) Regulations 2012 and come into force on 22nd November 2012.
 
-## 2. Amendments to the Railway Safety Accreditation Scheme Regulations 2004[^key-b9e229a15a2ba0a52cb456d906085f8a]
+## 2. Amendments to the Railway Safety Accreditation Scheme Regulations 2004[^c-b9e229a15a2ba0a52cb456d906085f8a]
 
 (1) The Railway Safety Accreditation Scheme Regulations 2004[^f00003] are amended as follows.
 
 (2) In regulation 4(c) (consultation), for “police authorities” substitute “local policing bodies”.
 
-## 3. Amendments to the Infrastructure Planning (National Policy Statement Consultation) Regulations 2009[^key-4f0d9de65ab07b13df4485e1ca43da43]
+## 3. Amendments to the Infrastructure Planning (National Policy Statement Consultation) Regulations 2009[^c-4f0d9de65ab07b13df4485e1ca43da43]
 
 (1) The Infrastructure Planning (National Policy Statement Consultation) Regulations 2009[^f00004] are amended as follows.
 
@@ -74,7 +74,7 @@ These Regulations may be cited as the Local Policing Bodies (Consequential Amend
 
 (3) In regulation 3 (consultation), in Table 2, for “police authority” (in each place) substitute “police and crime commissioner”.
 
-## 4. Amendments to the Infrastructure Planning (Applications: Prescribed Forms and Procedures) Regulations 2009[^key-ef5a7f13ec93a377aa7847696ca38a5c]
+## 4. Amendments to the Infrastructure Planning (Applications: Prescribed Forms and Procedures) Regulations 2009[^c-ef5a7f13ec93a377aa7847696ca38a5c]
 
 (1) The Infrastructure Planning (Applications: Prescribed Forms and Procedures) Regulations 2009[^f00005] are amended as follows.
 
@@ -86,11 +86,11 @@ These Regulations may be cited as the Local Policing Bodies (Consequential Amend
 
 (3) In Schedule 1 (prescribed consultees), in the table, for “police authority” substitute “police and crime commissioner”.
 
-## 5. Amendments to the Infrastructure Planning (Interested Parties) Regulations 2010[^key-edef111c66105c21c777eb84bd92e7d2]
+## 5. Amendments to the Infrastructure Planning (Interested Parties) Regulations 2010[^c-edef111c66105c21c777eb84bd92e7d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendments to the Infrastructure Planning (Compulsory Acquisition) Regulations 2010[^key-b6db8f55c0aecfd0a8e97ed681b52425]
+## 6. Amendments to the Infrastructure Planning (Compulsory Acquisition) Regulations 2010[^c-b6db8f55c0aecfd0a8e97ed681b52425]
 
 (1) The Infrastructure Planning (Compulsory Acquisition) Regulations 2010[^f00007] are amended as follows.
 
@@ -102,7 +102,7 @@ These Regulations may be cited as the Local Policing Bodies (Consequential Amend
 
 (3) In the table in Schedule 2 (persons to be notified of the proposed provision), for “police authority” substitute “police and crime commissioner”.
 
-## 7. Amendments to the Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011[^key-9f12740941b30c12148df83a358ff035]
+## 7. Amendments to the Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011[^c-9f12740941b30c12148df83a358ff035]
 
 (1) The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011[^f00008] are amended as follows.
 
@@ -152,26 +152,26 @@ A full regulatory impact assessment has not been produced for these Regulations 
 
 [^f00002]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29). Sections 4, 37, 51, 56, 58, 59, 127 and 232 and Schedule 6 are amended by Schedule 13 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20). There are other amendments, but none is relevant.
 
-[^key-7f2615336bd42b8ce5bfa57c9405bf88]: Commencement: Reg. 1 in force at 22.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2732/regulation/1)
+[^c-7f2615336bd42b8ce5bfa57c9405bf88]: Commencement: Reg. 1 in force at 22.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2732/regulation/1)
 
-[^key-b9e229a15a2ba0a52cb456d906085f8a]: Commencement: Reg. 2 in force at 22.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2732/regulation/1)
+[^c-b9e229a15a2ba0a52cb456d906085f8a]: Commencement: Reg. 2 in force at 22.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2732/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2004/915](https://www.legislation.gov.uk/uksi/2004/915).
 
-[^key-4f0d9de65ab07b13df4485e1ca43da43]: Commencement: Reg. 3 in force at 22.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2732/regulation/1)
+[^c-4f0d9de65ab07b13df4485e1ca43da43]: Commencement: Reg. 3 in force at 22.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2732/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2009/1302](https://www.legislation.gov.uk/uksi/2009/1302). There are amendments to regulation 2 and Table 2 in regulation 3, but none is relevant.
 
-[^key-ef5a7f13ec93a377aa7847696ca38a5c]: Commencement: Reg. 4 in force at 22.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2732/regulation/1)
+[^c-ef5a7f13ec93a377aa7847696ca38a5c]: Commencement: Reg. 4 in force at 22.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2732/regulation/1)
 
 [^f00005]: Footnote: [S.I. 2009/2264](https://www.legislation.gov.uk/uksi/2009/2264). There are amendments to regulation 2(1) and the table in Schedule 1, but none is relevant.
 
-[^key-edef111c66105c21c777eb84bd92e7d2]: Textual amendment: Reg. 5 revoked (6.4.2015) by [The Infrastructure Planning (Interested Parties and Miscellaneous Prescribed Provisions) Regulations 2015 (S.I. 2015/462)](https://www.legislation.gov.uk/uksi/2015/462), [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/462/schedule/3) (with [reg. 10(2)](https://www.legislation.gov.uk/uksi/2015/462/regulation/10/2))
+[^c-edef111c66105c21c777eb84bd92e7d2]: Textual amendment: Reg. 5 revoked (6.4.2015) by [The Infrastructure Planning (Interested Parties and Miscellaneous Prescribed Provisions) Regulations 2015 (S.I. 2015/462)](https://www.legislation.gov.uk/uksi/2015/462), [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/462/schedule/3) (with [reg. 10(2)](https://www.legislation.gov.uk/uksi/2015/462/regulation/10/2))
 
-[^key-b6db8f55c0aecfd0a8e97ed681b52425]: Commencement: Reg. 6 in force at 22.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2732/regulation/1)
+[^c-b6db8f55c0aecfd0a8e97ed681b52425]: Commencement: Reg. 6 in force at 22.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2732/regulation/1)
 
 [^f00007]: Footnote: [S.I. 2010/104](https://www.legislation.gov.uk/uksi/2010/104).
 
-[^key-9f12740941b30c12148df83a358ff035]: Commencement: Reg. 7 in force at 22.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2732/regulation/1)
+[^c-9f12740941b30c12148df83a358ff035]: Commencement: Reg. 7 in force at 22.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2732/regulation/1)
 
 [^f00008]: Footnote: [S.I. 2011/2055](https://www.legislation.gov.uk/uksi/2011/2055). There are amendments to regulation 2(1), but none is relevant.

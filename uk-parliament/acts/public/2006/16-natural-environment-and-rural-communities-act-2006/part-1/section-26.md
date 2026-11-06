@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Transfers on dissolution of English Nature and Countryside Agency[^key-0b8710ed76be110d500bd857e9944084]
+## 26. Transfers on dissolution of English Nature and Countryside Agency[^c-0b8710ed76be110d500bd857e9944084]
 
 *Extent: E+W*
 
@@ -26,17 +26,17 @@ summary: ''
 
 - (a) Natural England,
 - (b) the Commission,
-- (c)[^key-b55ce3ba5304b1b4160601ccf6846453] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-b55ce3ba5304b1b4160601ccf6846453] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) a Minister of the Crown.
 
 (3) On the transfer date, the designated property, rights or liabilities are transferred and vest in accordance with the scheme.
 
-(4)[^key-3ea7e9a3dda9a28e87f01ed67d0092a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3ea7e9a3dda9a28e87f01ed67d0092a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0b8710ed76be110d500bd857e9944084]: Commencement: S. 26 in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-0b8710ed76be110d500bd857e9944084]: Commencement: S. 26 in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
-[^key-b55ce3ba5304b1b4160601ccf6846453]: Textual amendment: [S. 26(2)(c)](https://www.legislation.gov.uk/ukpga/2006/16/section/26/2/c) repealed (1.7.2012 at 0.02 a.m.) by [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/2011/24/schedule/6); [S.I. 2012/1662](https://www.legislation.gov.uk/uksi/2012/1662), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1662/article/2/2/b)
+[^c-b55ce3ba5304b1b4160601ccf6846453]: Textual amendment: [S. 26(2)(c)](https://www.legislation.gov.uk/ukpga/2006/16/section/26/2/c) repealed (1.7.2012 at 0.02 a.m.) by [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/2011/24/schedule/6); [S.I. 2012/1662](https://www.legislation.gov.uk/uksi/2012/1662), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1662/article/2/2/b)
 
-[^key-3ea7e9a3dda9a28e87f01ed67d0092a7]: Textual amendment: [S. 26(4)](https://www.legislation.gov.uk/ukpga/2006/16/section/26/4) repealed (1.7.2012 at 0.02 a.m.) by [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/2011/24/schedule/6); [S.I. 2012/1662](https://www.legislation.gov.uk/uksi/2012/1662), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1662/article/2/2/b)
+[^c-3ea7e9a3dda9a28e87f01ed67d0092a7]: Textual amendment: [S. 26(4)](https://www.legislation.gov.uk/ukpga/2006/16/section/26/4) repealed (1.7.2012 at 0.02 a.m.) by [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/2011/24/schedule/6); [S.I. 2012/1662](https://www.legislation.gov.uk/uksi/2012/1662), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1662/article/2/2/b)

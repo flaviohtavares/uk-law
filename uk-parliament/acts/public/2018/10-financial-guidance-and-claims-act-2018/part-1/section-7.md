@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Debt respite scheme: regulations[^key-b0a1f4217dbe83db21099feb1b3ef1fc]
+## 7. Debt respite scheme: regulations[^c-b0a1f4217dbe83db21099feb1b3ef1fc]
 
 *Extent: E+W+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 - (c) in England and Northern Ireland, or
 - (d) in England, Wales and Northern Ireland.
 
-(4A)[^key-cae2742f95c1583035cf3bdf7e40b27f] The regulations may include the following as part of the scheme so far as it applies in England and Wales—
+(4A)[^c-cae2742f95c1583035cf3bdf7e40b27f] The regulations may include the following as part of the scheme so far as it applies in England and Wales—
 
 - (a) provision about the involvement of creditors in the process of devising a plan for the repayment of some or all of an individual's debts;
 - (b) provision to protect an individual, during the period of a repayment plan, from being required to repay a debt to which the plan applies otherwise than in accordance with the plan;
@@ -45,7 +45,7 @@ summary: ''
 
 - (a) make different provision for different purposes,
 - (b) make different provision for different areas,
-- (ba)[^key-2a51eef4f6bab9c6594588e47b50b5ee] make provision binding the Crown,
+- (ba)[^c-2a51eef4f6bab9c6594588e47b50b5ee] make provision binding the Crown,
 - (c) make incidental, supplemental, consequential, transitional or saving provision, and
 - (d) apply to obligations entered into, or debts due to be repaid, before the regulations come into force.
 
@@ -65,8 +65,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b0a1f4217dbe83db21099feb1b3ef1fc]: Commencement: S. 7 in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/e)
+[^c-b0a1f4217dbe83db21099feb1b3ef1fc]: Commencement: S. 7 in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/e)
 
-[^key-cae2742f95c1583035cf3bdf7e40b27f]: Textual amendment: [S. 7(4A)](https://www.legislation.gov.uk/ukpga/2018/10/section/7/4A) inserted (E.W) (29.6.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [ss. 35(2)](https://www.legislation.gov.uk/ukpga/2021/22/section/35/2), [49(2)(c)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/2/c)
+[^c-cae2742f95c1583035cf3bdf7e40b27f]: Textual amendment: [S. 7(4A)](https://www.legislation.gov.uk/ukpga/2018/10/section/7/4A) inserted (E.W) (29.6.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [ss. 35(2)](https://www.legislation.gov.uk/ukpga/2021/22/section/35/2), [49(2)(c)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/2/c)
 
-[^key-2a51eef4f6bab9c6594588e47b50b5ee]: Textual amendment: [S. 7(5)(ba)](https://www.legislation.gov.uk/ukpga/2018/10/section/7/5/ba) inserted (29.6.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [ss. 35(3)](https://www.legislation.gov.uk/ukpga/2021/22/section/35/3), [49(2)(c)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/2/c)
+[^c-2a51eef4f6bab9c6594588e47b50b5ee]: Textual amendment: [S. 7(5)(ba)](https://www.legislation.gov.uk/ukpga/2018/10/section/7/5/ba) inserted (29.6.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [ss. 35(3)](https://www.legislation.gov.uk/ukpga/2021/22/section/35/3), [49(2)(c)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/2/c)

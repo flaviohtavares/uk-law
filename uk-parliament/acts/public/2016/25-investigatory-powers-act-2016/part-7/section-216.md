@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 216. Approval of major modifications by Judicial Commissioners[^key-a4da613f9cfd37d660244813e691195c]
+## 216. Approval of major modifications by Judicial Commissioners[^c-a4da613f9cfd37d660244813e691195c]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4da613f9cfd37d660244813e691195c]: Commencement: [S. 216](https://www.legislation.gov.uk/ukpga/2016/25/section/216) in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/c)
+[^c-a4da613f9cfd37d660244813e691195c]: Commencement: [S. 216](https://www.legislation.gov.uk/ukpga/2016/25/section/216) in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/c)

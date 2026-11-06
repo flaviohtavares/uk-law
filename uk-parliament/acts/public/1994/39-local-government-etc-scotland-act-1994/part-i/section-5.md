@@ -22,11 +22,11 @@ summary: ''
 
 (1)[^c21065151] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-911817e14a58b655ff77ff358e44caf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-911817e14a58b655ff77ff358e44caf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1B)[^key-af8b720a53e5659857e8ebe5044404ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1B)[^c-af8b720a53e5659857e8ebe5044404ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1C)[^key-30d5dbc5c2902669d4408c7f751455f1] After the ordinary election of councillors in 2017 the next ordinary election shall take place in 2022, and ordinary elections shall take place every fifth[^key-4d0ba97415d506b0e2a3644838a32068] year after that.
+(1C)[^c-30d5dbc5c2902669d4408c7f751455f1] After the ordinary election of councillors in 2017 the next ordinary election shall take place in 2022, and ordinary elections shall take place every fifth[^c-4d0ba97415d506b0e2a3644838a32068] year after that.
 
 (2)[^c21065541] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -46,13 +46,13 @@ summary: ''
 
 [^c21065151]: Textual amendment: S. 5(1) repealed (2.5.2007) by [Local Governance (Scotland) Act 2004 (asp 9)](https://www.legislation.gov.uk/asp/2004/9), [ss. 5(2)](https://www.legislation.gov.uk/asp/2004/9/section/5/2), [17(2)](https://www.legislation.gov.uk/asp/2004/9/section/17/2); [S.S.I. 2007/25](https://www.legislation.gov.uk/ssi/2007/25), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/25/article/2/2)
 
-[^key-911817e14a58b655ff77ff358e44caf4]: Textual amendment: S. 5(1A) repealed (14.5.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 2(1)(a)](https://www.legislation.gov.uk/asp/2020/12/section/2/1/a), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-911817e14a58b655ff77ff358e44caf4]: Textual amendment: S. 5(1A) repealed (14.5.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 2(1)(a)](https://www.legislation.gov.uk/asp/2020/12/section/2/1/a), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
-[^key-af8b720a53e5659857e8ebe5044404ff]: Textual amendment: S. 5(1B) repealed (14.5.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 2(1)(a)](https://www.legislation.gov.uk/asp/2020/12/section/2/1/a), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-af8b720a53e5659857e8ebe5044404ff]: Textual amendment: S. 5(1B) repealed (14.5.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 2(1)(a)](https://www.legislation.gov.uk/asp/2020/12/section/2/1/a), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
-[^key-30d5dbc5c2902669d4408c7f751455f1]: Textual amendment: S. 5(1C) inserted (31.3.2016) by [Scottish Elections (Dates) Act 2016 (asp 13)](https://www.legislation.gov.uk/asp/2016/13), [ss. 2(3)](https://www.legislation.gov.uk/asp/2016/13/section/2/3), [3](https://www.legislation.gov.uk/asp/2016/13/section/3)
+[^c-30d5dbc5c2902669d4408c7f751455f1]: Textual amendment: S. 5(1C) inserted (31.3.2016) by [Scottish Elections (Dates) Act 2016 (asp 13)](https://www.legislation.gov.uk/asp/2016/13), [ss. 2(3)](https://www.legislation.gov.uk/asp/2016/13/section/2/3), [3](https://www.legislation.gov.uk/asp/2016/13/section/3)
 
-[^key-4d0ba97415d506b0e2a3644838a32068]: Textual amendment: Word in s. 5(1C) substituted (14.5.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 2(1)(b)](https://www.legislation.gov.uk/asp/2020/12/section/2/1/b), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-4d0ba97415d506b0e2a3644838a32068]: Textual amendment: Word in s. 5(1C) substituted (14.5.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 2(1)(b)](https://www.legislation.gov.uk/asp/2020/12/section/2/1/b), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
 [^c21065541]: Textual amendment: S. 5(2) repealed (30.4.2010) by [Scottish Local Government (Elections) Act 2009 (asp 10)](https://www.legislation.gov.uk/asp/2009/10), [ss. 1(2)](https://www.legislation.gov.uk/asp/2009/10/section/1/2), [3(2)(3)](https://www.legislation.gov.uk/asp/2009/10/section/3/2/3), [Sch. para. 2](https://www.legislation.gov.uk/asp/2009/10/schedule/paragraph/2); [S.S.I. 2010/132](https://www.legislation.gov.uk/ssi/2010/132), [art. 2](https://www.legislation.gov.uk/ssi/2010/132/article/2)
 

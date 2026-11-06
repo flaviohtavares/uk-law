@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11AA. Modification of conditions under section 11A: early effective date[^key-2ea9d5c7b05c29c4015cb43e3b378e93]
+## 11AA. Modification of conditions under section 11A: early effective date[^c-2ea9d5c7b05c29c4015cb43e3b378e93]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ea9d5c7b05c29c4015cb43e3b378e93]: Textual amendment: [S. 11AA](https://www.legislation.gov.uk/ukpga/1989/29/section/11AA) inserted (E.W.S.) (30.4.2024) by [Smart Meters Act 2018 (c. 14)](https://www.legislation.gov.uk/ukpga/2018/14), [ss. 13(3)](https://www.legislation.gov.uk/ukpga/2018/14/section/13/3), [14(3)](https://www.legislation.gov.uk/ukpga/2018/14/section/14/3); [S.I. 2024/465](https://www.legislation.gov.uk/uksi/2024/465), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/465/regulation/2/c)
+[^c-2ea9d5c7b05c29c4015cb43e3b378e93]: Textual amendment: [S. 11AA](https://www.legislation.gov.uk/ukpga/1989/29/section/11AA) inserted (E.W.S.) (30.4.2024) by [Smart Meters Act 2018 (c. 14)](https://www.legislation.gov.uk/ukpga/2018/14), [ss. 13(3)](https://www.legislation.gov.uk/ukpga/2018/14/section/13/3), [14(3)](https://www.legislation.gov.uk/ukpga/2018/14/section/14/3); [S.I. 2024/465](https://www.legislation.gov.uk/uksi/2024/465), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/465/regulation/2/c)

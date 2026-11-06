@@ -36,7 +36,7 @@ and the agricultural proportion for any financial year of land values in that di
 
 (4) For the purposes of this section the annual value of a chargeable property shall be its annual value for the purposes of Chapter II of this Part.
 
-(5) For the purposes of this section the value of other land in an internal drainage district shall , subject to subsection (5ZA)[^key-952bbb4d8dfba36d78ac4aa08c37c5a8] be taken to be—
+(5) For the purposes of this section the value of other land in an internal drainage district shall , subject to subsection (5ZA)[^c-952bbb4d8dfba36d78ac4aa08c37c5a8] be taken to be—
 
 - (a) in the case of a hereditament shown in the local non-domestic rating list of a charging authority on 1st April 1990, one third of the relevant proportion of the rateable value shown for that hereditament in respect of that date in that list on 31st December 1992;
 - (b) in the case of domestic property shown in a valuation list on 31st March 1990, one third of the relevant proportion of the rateable value shown for it in the list on that date multiplied by a factor of 6.73;
@@ -50,7 +50,7 @@ and the agricultural proportion for any financial year of land values in that di
   - (i) the area of the land, expressed in hectares and parts of a hectare; by
   - (ii) such a unit value per hectare as represents the average value per hectare of all land to which those paragraphs do apply if the average is calculated by reference to the values determined in accordance with those paragraphs.
 
-(5ZA)[^key-24c327800e17823e4e2a4c1e5c9b66bc] The Secretary of State may by regulations make provision for the value of other land in an English internal drainage district to be determined in accordance with the regulations.
+(5ZA)[^c-24c327800e17823e4e2a4c1e5c9b66bc] The Secretary of State may by regulations make provision for the value of other land in an English internal drainage district to be determined in accordance with the regulations.
 
 (5ZB) The provision that may be made under subsection (5ZA) includes, in particular, provision—
 
@@ -91,12 +91,12 @@ and the agricultural proportion for any financial year of land values in that di
 
 ## Annotations
 
-[^key-952bbb4d8dfba36d78ac4aa08c37c5a8]: Textual amendment: Words in [s. 37(5)](https://www.legislation.gov.uk/ukpga/1991/59/section/37/5) inserted (29.9.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 94(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/94/2), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/988](https://www.legislation.gov.uk/uksi/2022/988), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/988/regulation/2/a)
+[^c-952bbb4d8dfba36d78ac4aa08c37c5a8]: Textual amendment: Words in [s. 37(5)](https://www.legislation.gov.uk/ukpga/1991/59/section/37/5) inserted (29.9.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 94(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/94/2), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/988](https://www.legislation.gov.uk/uksi/2022/988), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/988/regulation/2/a)
 
 [^c1415462]: Marginal citation: [S.I. 1968/1672](https://www.legislation.gov.uk/uksi/1968/1672).
 
 [^c1415463]: Textual amendment: [S. 37(5)(d)(e)](https://www.legislation.gov.uk/ukpga/1991/59/section/37/5/d/e) substituted (30.12.1992) for s. 37(5)(d) by [S.I. 1992/3079](https://www.legislation.gov.uk/uksi/1992/3079), [reg.3](https://www.legislation.gov.uk/uksi/1992/3079/regulation/3).
 
-[^key-24c327800e17823e4e2a4c1e5c9b66bc]: Textual amendment: [S. 37(5ZA)-(5ZH)](https://www.legislation.gov.uk/ukpga/1991/59/section/37/5ZA) inserted (29.9.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 94(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/94/3), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/988](https://www.legislation.gov.uk/uksi/2022/988), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/988/regulation/2/a)
+[^c-24c327800e17823e4e2a4c1e5c9b66bc]: Textual amendment: [S. 37(5ZA)-(5ZH)](https://www.legislation.gov.uk/ukpga/1991/59/section/37/5ZA) inserted (29.9.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 94(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/94/3), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/988](https://www.legislation.gov.uk/uksi/2022/988), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/988/regulation/2/a)
 
 [^c1415464]: Marginal citation: [1967 c. 9](https://www.legislation.gov.uk/ukpga/1967/9).

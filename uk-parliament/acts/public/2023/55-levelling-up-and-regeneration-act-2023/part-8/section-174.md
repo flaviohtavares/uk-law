@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Planning functions of urban development corporations[^key-4f06764f422c982ea00719fc4dfa59fc][^key-8320a2122317b87392d63dc077d526a6]
+## 174. Planning functions of urban development corporations[^c-4f06764f422c982ea00719fc4dfa59fc][^c-8320a2122317b87392d63dc077d526a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -88,6 +88,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4f06764f422c982ea00719fc4dfa59fc]: Commencement: S. 174 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-4f06764f422c982ea00719fc4dfa59fc]: Commencement: S. 174 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-8320a2122317b87392d63dc077d526a6]: Commencement: [S. 174](https://www.legislation.gov.uk/ukpga/2023/55/section/174) in force at 14.4.2026 by [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/a)
+[^c-8320a2122317b87392d63dc077d526a6]: Commencement: [S. 174](https://www.legislation.gov.uk/ukpga/2023/55/section/174) in force at 14.4.2026 by [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/a)

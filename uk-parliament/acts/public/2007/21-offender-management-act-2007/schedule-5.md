@@ -22,14 +22,14 @@ summary: ''
 
 Section 39
 
-### Part 1 — Probation services[^key-d4e31f2d6a9d6ea09158a0607d99757b][^key-10e06af38bb13fa6d35e8bef4947bfeb][^key-039b0fdd55f05122282358418f90c946][^key-f66c0a0f369e59e09289e69b42ebd402]
+### Part 1 — Probation services[^c-d4e31f2d6a9d6ea09158a0607d99757b][^c-10e06af38bb13fa6d35e8bef4947bfeb][^c-039b0fdd55f05122282358418f90c946][^c-f66c0a0f369e59e09289e69b42ebd402]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
 | Criminal Justice and Court Services Act 2000 (c. 43) | Sections 1 to 5.<br>In section 6(1), the words from “but” to the end.<br>Sections 8 to 10.<br>In section 18, subsection (2)(b), in subsection (3) the words “a local probation board or” and in subsection (4) the words “a probation committee”.<br>Section 20(2).<br>Section 21(5).<br>Sections 22 and 23.<br>In section 25, the definition of “approved premises”.<br>In section 78, the definition of “local probation board”.<br>Schedule 1. |
-| Local Government and Public Involvement in Health Act 2007 | In section 104(4)[^key-b88747add92db3bf11df7b56cd6dce8d], the word “and” after paragraph (i)(ii)[^key-fa9322f16297dc0a4e1ea44921b13aee]. |
+| Local Government and Public Involvement in Health Act 2007 | In section 104(4)[^c-b88747add92db3bf11df7b56cd6dce8d], the word “and” after paragraph (i)(ii)[^c-fa9322f16297dc0a4e1ea44921b13aee]. |
 
-### Part 2 — Prisons[^key-21bdccf925febe830f212337e24488e4][^key-9d5196cd9fce0d9e4983a4c515f43302]
+### Part 2 — Prisons[^c-21bdccf925febe830f212337e24488e4][^c-9d5196cd9fce0d9e4983a4c515f43302]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -39,7 +39,7 @@ Section 39
 | Criminal Justice and Public Order Act 1994 (c. 33) | Section 97(3).<br>In Schedule 10, paragraph 68. |
 | Freedom of Information Act 2000 (c. 36) | In Part 6 of Schedule 1, the entry relating to a board of visitors for a prison. |
 
-### Part 3 — Miscellaneous[^key-fb870ce860c04fda220f48638fd70663][^key-277c5c6d9754619317df8a0d458bae37]
+### Part 3 — Miscellaneous[^c-fb870ce860c04fda220f48638fd70663][^c-277c5c6d9754619317df8a0d458bae37]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -49,22 +49,22 @@ Section 39
 
 ## Annotations
 
-[^key-d4e31f2d6a9d6ea09158a0607d99757b]: Commencement: [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/21/schedule/5/part/1) in force at 1.4.2008 for specified purposes by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 3(n)](https://www.legislation.gov.uk/uksi/2008/504/article/3/n)
+[^c-d4e31f2d6a9d6ea09158a0607d99757b]: Commencement: [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/21/schedule/5/part/1) in force at 1.4.2008 for specified purposes by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 3(n)](https://www.legislation.gov.uk/uksi/2008/504/article/3/n)
 
-[^key-10e06af38bb13fa6d35e8bef4947bfeb]: Commencement: [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/21/schedule/5/part/1) in force at 1.4.2008 for specified purposes by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 4(1)(m)](https://www.legislation.gov.uk/uksi/2008/504/article/4/1/m)[(2)](https://www.legislation.gov.uk/uksi/2008/504/article/4/2)
+[^c-10e06af38bb13fa6d35e8bef4947bfeb]: Commencement: [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/21/schedule/5/part/1) in force at 1.4.2008 for specified purposes by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 4(1)(m)](https://www.legislation.gov.uk/uksi/2008/504/article/4/1/m)[(2)](https://www.legislation.gov.uk/uksi/2008/504/article/4/2)
 
-[^key-039b0fdd55f05122282358418f90c946]: Commencement: [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/21/schedule/5/part/1) in force at 1.4.2009 for specified purposes by [S.I. 2009/547](https://www.legislation.gov.uk/uksi/2009/547), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2009/547/article/2/1/m)[(2)](https://www.legislation.gov.uk/uksi/2009/547/article/2/2)
+[^c-039b0fdd55f05122282358418f90c946]: Commencement: [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/21/schedule/5/part/1) in force at 1.4.2009 for specified purposes by [S.I. 2009/547](https://www.legislation.gov.uk/uksi/2009/547), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2009/547/article/2/1/m)[(2)](https://www.legislation.gov.uk/uksi/2009/547/article/2/2)
 
-[^key-f66c0a0f369e59e09289e69b42ebd402]: Commencement: [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/21/schedule/5/part/1) in force at 1.4.2010 for specified purposes by [S.I. 2010/191](https://www.legislation.gov.uk/uksi/2010/191), [art. 2(13)](https://www.legislation.gov.uk/uksi/2010/191/article/2/13)
+[^c-f66c0a0f369e59e09289e69b42ebd402]: Commencement: [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/21/schedule/5/part/1) in force at 1.4.2010 for specified purposes by [S.I. 2010/191](https://www.legislation.gov.uk/uksi/2010/191), [art. 2(13)](https://www.legislation.gov.uk/uksi/2010/191/article/2/13)
 
-[^key-b88747add92db3bf11df7b56cd6dce8d]: Textual amendment: Words in [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/21/schedule/5/part/1) substituted (30.12.2007) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 118(5)(a)](https://www.legislation.gov.uk/ukpga/2007/28/section/118/5/a), [245(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/2)
+[^c-b88747add92db3bf11df7b56cd6dce8d]: Textual amendment: Words in [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/21/schedule/5/part/1) substituted (30.12.2007) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 118(5)(a)](https://www.legislation.gov.uk/ukpga/2007/28/section/118/5/a), [245(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/2)
 
-[^key-fa9322f16297dc0a4e1ea44921b13aee]: Textual amendment: Word in [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/21/schedule/5/part/1) substituted (30.12.2007) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 118(5)(b)](https://www.legislation.gov.uk/ukpga/2007/28/section/118/5/b), [245(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/2)
+[^c-fa9322f16297dc0a4e1ea44921b13aee]: Textual amendment: Word in [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/21/schedule/5/part/1) substituted (30.12.2007) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 118(5)(b)](https://www.legislation.gov.uk/ukpga/2007/28/section/118/5/b), [245(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/2)
 
-[^key-21bdccf925febe830f212337e24488e4]: Commencement: [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/21/schedule/5/part/2) in force at 1.11.2007 for specified purposes by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(t)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/t)
+[^c-21bdccf925febe830f212337e24488e4]: Commencement: [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/21/schedule/5/part/2) in force at 1.11.2007 for specified purposes by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(t)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/t)
 
-[^key-9d5196cd9fce0d9e4983a4c515f43302]: Commencement: [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/21/schedule/5/part/2) in force at 1.4.2008 for specified purposes by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 3(n)](https://www.legislation.gov.uk/uksi/2008/504/article/3/n)
+[^c-9d5196cd9fce0d9e4983a4c515f43302]: Commencement: [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/21/schedule/5/part/2) in force at 1.4.2008 for specified purposes by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 3(n)](https://www.legislation.gov.uk/uksi/2008/504/article/3/n)
 
-[^key-fb870ce860c04fda220f48638fd70663]: Commencement: [Sch. 5 Pt. 3](https://www.legislation.gov.uk/ukpga/2007/21/schedule/5/part/3) in force at 1.11.2007 for specified purposes by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/u)
+[^c-fb870ce860c04fda220f48638fd70663]: Commencement: [Sch. 5 Pt. 3](https://www.legislation.gov.uk/ukpga/2007/21/schedule/5/part/3) in force at 1.11.2007 for specified purposes by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/u)
 
-[^key-277c5c6d9754619317df8a0d458bae37]: Commencement: [Sch. 5 Pt. 3](https://www.legislation.gov.uk/ukpga/2007/21/schedule/5/part/3) in force at 1.5.2008 for specified purposes by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/3001/article/3/c)
+[^c-277c5c6d9754619317df8a0d458bae37]: Commencement: [Sch. 5 Pt. 3](https://www.legislation.gov.uk/ukpga/2007/21/schedule/5/part/3) in force at 1.5.2008 for specified purposes by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/3001/article/3/c)

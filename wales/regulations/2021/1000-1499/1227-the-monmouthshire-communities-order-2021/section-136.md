@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 136. Llangybi and Llanhennock — combination of communities and consequential change to community councils and electoral arrangements[^key-57e2c4705b6f0ea00b49c01d7515c043][^key-22f986afc642c2d18ff3c59652fe7ba6]
+## 136. Llangybi and Llanhennock — combination of communities and consequential change to community councils and electoral arrangements[^c-57e2c4705b6f0ea00b49c01d7515c043][^c-22f986afc642c2d18ff3c59652fe7ba6]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-57e2c4705b6f0ea00b49c01d7515c043]: Commencement: Art. 136 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-57e2c4705b6f0ea00b49c01d7515c043]: Commencement: Art. 136 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-22f986afc642c2d18ff3c59652fe7ba6]: Commencement: [Art. 136](https://www.legislation.gov.uk/wsi/2021/1227/article/136) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-22f986afc642c2d18ff3c59652fe7ba6]: Commencement: [Art. 136](https://www.legislation.gov.uk/wsi/2021/1227/article/136) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

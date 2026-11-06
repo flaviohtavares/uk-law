@@ -51,7 +51,7 @@ And whereas, in accordance with Article 51(4) of the 1998 Order, it appears to t
 
 Now, therefore, the Department in exercise of the powers conferred by Article 50(1) and (2) and Article 51(2) of the 1998 Order and now vested in it[^f00003] and of every other power enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-a78e752b152792d316fc0542777b2286]
+## 1. Citation, commencement and interpretation[^c-a78e752b152792d316fc0542777b2286]
 
 (1) This Order may be cited as the Fair Employment (Specification of Public Authorities) Order (Northern Ireland) 2004 and shall come into operation on 1st January 2005.
 
@@ -65,7 +65,7 @@ Now, therefore, the Department in exercise of the powers conferred by Article 50
 - “reservist” means a member of any reserve force who serves wholly or mainly in Northern Ireland; and
 - “United Kingdom civil servant” means any person serving wholly or mainly in Northern Ireland in the civil service of the Crown other than a Northern Ireland civil servant.
 
-## 2. Specification of public authorities[^key-4b9055901bd611c6319892b2853a22ab]
+## 2. Specification of public authorities[^c-4b9055901bd611c6319892b2853a22ab]
 
 For the purposes of Articles 52 to 61 of the 1998 Order: –
 
@@ -74,15 +74,15 @@ For the purposes of Articles 52 to 61 of the 1998 Order: –
 - (c) the Secretary of State for Defence shall be a public authority and all reservists and members of the home service forces shall be treated as employees of that authority; and
 - (d) the Chief Constable of the Police Service of Northern Ireland shall be a public authority and all members of the police shall be treated as employees of that authority.
 
-## 3.[^key-56860ee6e4a5bad686c0e32d5c6144ad]
+## 3.[^c-56860ee6e4a5bad686c0e32d5c6144ad]
 
 Each of the persons specified in Part I of the Schedule shall be a public authority for the purposes of Articles 52 to 65 of the 1998 Order.
 
-## 4.[^key-b36436220ef647aaedd0722b8cfcac20]
+## 4.[^c-b36436220ef647aaedd0722b8cfcac20]
 
 Each of the persons specified in Part II of the Schedule shall be a public authority for the purposes of Articles 62 to 65 of the 1998 Order.
 
-## 5. Revocation[^key-0d0b99052c7d83df6a8f4b8d29453fb6]
+## 5. Revocation[^c-0d0b99052c7d83df6a8f4b8d29453fb6]
 
 The following Orders are hereby revoked –
 
@@ -95,7 +95,7 @@ Gerard Mulligan
 
 A senior officer of the Office of the First Minister and deputy First Minister
 
-## SCHEDULE[^key-c2d76eb69e6685f1ab12117c4e2102e3]
+## SCHEDULE[^c-c2d76eb69e6685f1ab12117c4e2102e3]
 
 Articles 3 and 4
 
@@ -342,22 +342,22 @@ Article 5 revokes the Fair Employment (Specification of Public Authorities) (No.
 
 [^f00003]: Footnote: [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481); Article 4(a) and Schedule 2, Part I
 
-[^key-a78e752b152792d316fc0542777b2286]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2004/494/article/1) in operation at 1.1.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/494/article/1/1)
+[^c-a78e752b152792d316fc0542777b2286]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2004/494/article/1) in operation at 1.1.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/494/article/1/1)
 
 [^f00004]: Footnote: [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32)
 
 [^f00005]: Footnote: [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14)
 
-[^key-4b9055901bd611c6319892b2853a22ab]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2004/494/article/2) in operation at 1.1.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/494/article/1/1)
+[^c-4b9055901bd611c6319892b2853a22ab]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2004/494/article/2) in operation at 1.1.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/494/article/1/1)
 
-[^key-56860ee6e4a5bad686c0e32d5c6144ad]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2004/494/article/3) in operation at 1.1.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/494/article/1/1)
+[^c-56860ee6e4a5bad686c0e32d5c6144ad]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2004/494/article/3) in operation at 1.1.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/494/article/1/1)
 
-[^key-b36436220ef647aaedd0722b8cfcac20]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2004/494/article/4) in operation at 1.1.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/494/article/1/1)
+[^c-b36436220ef647aaedd0722b8cfcac20]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2004/494/article/4) in operation at 1.1.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/494/article/1/1)
 
-[^key-0d0b99052c7d83df6a8f4b8d29453fb6]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2004/494/article/5) in operation at 1.1.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/494/article/1/1)
+[^c-0d0b99052c7d83df6a8f4b8d29453fb6]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2004/494/article/5) in operation at 1.1.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/494/article/1/1)
 
 [^f00006]: Footnote: [S.R. 2000 No. 371](https://www.legislation.gov.uk/nisr/2000/371)
 
 [^f00007]: Footnote: [S.R. 2003 No. 521](https://www.legislation.gov.uk/nisr/2003/521)
 
-[^key-c2d76eb69e6685f1ab12117c4e2102e3]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/494/schedule) substituted (31.3.2025) by [The Fair Employment (Specification of Public Authorities) (Amendment) Order (Northern Ireland) 2025 (S.R. 2025/34)](https://www.legislation.gov.uk/nisr/2025/34), [arts. 1](https://www.legislation.gov.uk/nisr/2025/34/article/1), [2](https://www.legislation.gov.uk/nisr/2025/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2025/34/schedule)
+[^c-c2d76eb69e6685f1ab12117c4e2102e3]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/494/schedule) substituted (31.3.2025) by [The Fair Employment (Specification of Public Authorities) (Amendment) Order (Northern Ireland) 2025 (S.R. 2025/34)](https://www.legislation.gov.uk/nisr/2025/34), [arts. 1](https://www.legislation.gov.uk/nisr/2025/34/article/1), [2](https://www.legislation.gov.uk/nisr/2025/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2025/34/schedule)

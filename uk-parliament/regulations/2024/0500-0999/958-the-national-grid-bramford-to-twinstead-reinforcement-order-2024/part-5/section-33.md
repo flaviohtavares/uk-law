@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Acquisition of part of certain properties[^key-721d432ea833f1637a8051e429312aed]
+## 33. Acquisition of part of certain properties[^c-721d432ea833f1637a8051e429312aed]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ the notice to treat is deemed to be a notice to treat for the land subject to th
 
 ## Annotations
 
-[^key-721d432ea833f1637a8051e429312aed]: Commencement: Art. 33 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-721d432ea833f1637a8051e429312aed]: Commencement: Art. 33 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)

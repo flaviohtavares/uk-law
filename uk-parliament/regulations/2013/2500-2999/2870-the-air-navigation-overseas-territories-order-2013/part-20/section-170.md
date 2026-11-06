@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. Power to inspect and copy documents and records[^key-50f279f1840e0f483fd4610d1f1cfcb1]
+## 170. Power to inspect and copy documents and records[^c-50f279f1840e0f483fd4610d1f1cfcb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ An authorised person has the power to inspect and copy any certificate, licence,
 
 ## Annotations
 
-[^key-50f279f1840e0f483fd4610d1f1cfcb1]: Commencement: [Art. 170](https://www.legislation.gov.uk/uksi/2013/2870/article/170) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-50f279f1840e0f483fd4610d1f1cfcb1]: Commencement: [Art. 170](https://www.legislation.gov.uk/uksi/2013/2870/article/170) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

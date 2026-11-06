@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Termination rights, &c.[^key-ceb779c5633825e34c2fd5f5ccd65514]
+## 38. Termination rights, &c.[^c-ceb779c5633825e34c2fd5f5ccd65514]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ceb779c5633825e34c2fd5f5ccd65514]: Textual amendment: S. 38 omitted (1.1.2015) by virtue of [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [37](https://www.legislation.gov.uk/uksi/2014/3329/article/37)
+[^c-ceb779c5633825e34c2fd5f5ccd65514]: Textual amendment: S. 38 omitted (1.1.2015) by virtue of [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [37](https://www.legislation.gov.uk/uksi/2014/3329/article/37)

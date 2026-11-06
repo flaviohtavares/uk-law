@@ -24,7 +24,7 @@ summary: ''
 
 - (a) preliminary proceedings,
 - (b) appeal proceedings,
-- (c)[^key-8dce57115200f65e07513c8bd6d4a121] variation proceedings,
+- (c)[^c-8dce57115200f65e07513c8bd6d4a121] variation proceedings,
 
 but does not include the exercise of any power of the court otherwise than at a hearing.
 
@@ -38,7 +38,7 @@ but does not include the exercise of any power of the court otherwise than at a 
 - “**related proceedings**”, in relation to preliminary proceedings, means—
   - (a) appeal proceedings in respect of any charge to which the preliminary proceedings relate; and
   - (b) any further preliminary proceedings in relation to such appeal proceedings;
-- “[^key-d936959b650618edd1adfedcb01bbcd8]**variation proceedings**” means proceedings under Part 12A.
+- “[^c-d936959b650618edd1adfedcb01bbcd8]**variation proceedings**” means proceedings under Part 12A.
 
 (3) References in these Rules to a party to any proceedings are to—
 
@@ -50,7 +50,7 @@ but does not include the exercise of any power of the court otherwise than at a 
 
 - (a) in the case preliminary or appeal proceedings, an appellant;
 - (b) in the case of a hearing under rule 89 (certification of contempt of court), the person whose offence the court is to consider certifying;
-- (c)[^key-efd668a1c7585c4e9f2b21b5efa83eb1] in the case of variation proceedings, an offender in respect of whom a sentence which falls to be varied has been imposed or confirmed.
+- (c)[^c-efd668a1c7585c4e9f2b21b5efa83eb1] in the case of variation proceedings, an offender in respect of whom a sentence which falls to be varied has been imposed or confirmed.
 
 (5) In these Rules—
 
@@ -59,8 +59,8 @@ but does not include the exercise of any power of the court otherwise than at a 
 
 ## Annotations
 
-[^key-8dce57115200f65e07513c8bd6d4a121]: Textual amendment: [Rule 2(1)(c)](https://www.legislation.gov.uk/uksi/2009/1211/rule/2/1/c) inserted (13.11.2023) by [The Armed Forces (Amendment of Court Rules) Rules 2023 (S.I. 2023/1097)](https://www.legislation.gov.uk/uksi/2023/1097), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1097/rule/1/2), [7(1)(a)](https://www.legislation.gov.uk/uksi/2023/1097/rule/7/1/a)
+[^c-8dce57115200f65e07513c8bd6d4a121]: Textual amendment: [Rule 2(1)(c)](https://www.legislation.gov.uk/uksi/2009/1211/rule/2/1/c) inserted (13.11.2023) by [The Armed Forces (Amendment of Court Rules) Rules 2023 (S.I. 2023/1097)](https://www.legislation.gov.uk/uksi/2023/1097), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1097/rule/1/2), [7(1)(a)](https://www.legislation.gov.uk/uksi/2023/1097/rule/7/1/a)
 
-[^key-d936959b650618edd1adfedcb01bbcd8]: Textual amendment: Words in [rule 2(2)](https://www.legislation.gov.uk/uksi/2009/1211/rule/2/2) inserted (13.11.2023) by [The Armed Forces (Amendment of Court Rules) Rules 2023 (S.I. 2023/1097)](https://www.legislation.gov.uk/uksi/2023/1097), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1097/rule/1/2), [7(1)(b)](https://www.legislation.gov.uk/uksi/2023/1097/rule/7/1/b)
+[^c-d936959b650618edd1adfedcb01bbcd8]: Textual amendment: Words in [rule 2(2)](https://www.legislation.gov.uk/uksi/2009/1211/rule/2/2) inserted (13.11.2023) by [The Armed Forces (Amendment of Court Rules) Rules 2023 (S.I. 2023/1097)](https://www.legislation.gov.uk/uksi/2023/1097), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1097/rule/1/2), [7(1)(b)](https://www.legislation.gov.uk/uksi/2023/1097/rule/7/1/b)
 
-[^key-efd668a1c7585c4e9f2b21b5efa83eb1]: Textual amendment: [Rule 2(4)(c)](https://www.legislation.gov.uk/uksi/2009/1211/rule/2/4/c) inserted (13.11.2023) by [The Armed Forces (Amendment of Court Rules) Rules 2023 (S.I. 2023/1097)](https://www.legislation.gov.uk/uksi/2023/1097), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1097/rule/1/2), [7(1)(c)](https://www.legislation.gov.uk/uksi/2023/1097/rule/7/1/c)
+[^c-efd668a1c7585c4e9f2b21b5efa83eb1]: Textual amendment: [Rule 2(4)(c)](https://www.legislation.gov.uk/uksi/2009/1211/rule/2/4/c) inserted (13.11.2023) by [The Armed Forces (Amendment of Court Rules) Rules 2023 (S.I. 2023/1097)](https://www.legislation.gov.uk/uksi/2023/1097), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1097/rule/1/2), [7(1)(c)](https://www.legislation.gov.uk/uksi/2023/1097/rule/7/1/c)

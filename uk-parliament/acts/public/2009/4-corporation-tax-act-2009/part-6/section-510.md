@@ -27,7 +27,7 @@ summary: ''
 
 (2) In the case of diminishing shared ownership arrangements, Part 5 applies in relation to A as if—
 
-- (a) the consideration paid by the financier[^key-04e070012f63ed1bb17ae850292dff26] for the acquisition of financier’s[^key-5e5aad25b63e61040dc86a66392d580f] beneficial interest (“the acquisition consideration”) were the amount of a loan made by A to customer[^key-6eb3d434b04a4bc36d391d6221912fcc], and
+- (a) the consideration paid by the financier[^c-04e070012f63ed1bb17ae850292dff26] for the acquisition of financier’s[^c-5e5aad25b63e61040dc86a66392d580f] beneficial interest (“the acquisition consideration”) were the amount of a loan made by A to customer[^c-6eb3d434b04a4bc36d391d6221912fcc], and
 - (b) alternative finance return payable under the arrangements were interest payable on the loan.
 
 (3) In the case of deposit arrangements, Part 5 applies in relation to A as if—
@@ -44,11 +44,11 @@ summary: ''
 
 (6) In this section—
 
-- “[^key-7cf3c07f9facdf436b5dbec49253ed16]**the customer**” has the same meaning as in section 504 (see subsection (1) of that section) or 504A (see subsection (1) or (2) of that section),
+- “[^c-7cf3c07f9facdf436b5dbec49253ed16]**the customer**” has the same meaning as in section 504 (see subsection (1) of that section) or 504A (see subsection (1) or (2) of that section),
 - “**the depositor**” has the same meaning as in section 505 (see subsection (1) of that section),
-- “[^key-5203ea012c91ec8372cffa49c9b5804c]**the financier**” has the same meaning as in section 504 (see subsection (1) of that section) or 504A (see subsection (1) or (2) of that section),
-- [^key-74c939eb4bcb042771c1a7ed4a66ff35]...
-- [^key-74c939eb4bcb042771c1a7ed4a66ff35]...
+- “[^c-5203ea012c91ec8372cffa49c9b5804c]**the financier**” has the same meaning as in section 504 (see subsection (1) of that section) or 504A (see subsection (1) or (2) of that section),
+- [^c-74c939eb4bcb042771c1a7ed4a66ff35]...
+- [^c-74c939eb4bcb042771c1a7ed4a66ff35]...
 - “**the first purchaser**” has the same meaning as in section 503 (see subsection (1) of that section),
 - “**the first purchase price**” has the same meaning as in section 503 (see subsection (3) of that section),
 - “**the principal**” has the same meaning as in section 506 (see subsection (1) of that section), and
@@ -58,14 +58,14 @@ summary: ''
 
 ## Annotations
 
-[^key-04e070012f63ed1bb17ae850292dff26]: Textual amendment: Word in [s. 510(2)(a)](https://www.legislation.gov.uk/ukpga/2009/4/section/510/2/a) substituted (with effect in accordance with Sch. 7 para. 4 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 2(5)(a)(i)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/2/5/a/i), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4)
+[^c-04e070012f63ed1bb17ae850292dff26]: Textual amendment: Word in [s. 510(2)(a)](https://www.legislation.gov.uk/ukpga/2009/4/section/510/2/a) substituted (with effect in accordance with Sch. 7 para. 4 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 2(5)(a)(i)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/2/5/a/i), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4)
 
-[^key-5e5aad25b63e61040dc86a66392d580f]: Textual amendment: Word in [s. 510(2)(a)](https://www.legislation.gov.uk/ukpga/2009/4/section/510/2/a) substituted (with effect in accordance with Sch. 7 para. 4 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 2(5)(a)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/2/5/a/ii), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4)
+[^c-5e5aad25b63e61040dc86a66392d580f]: Textual amendment: Word in [s. 510(2)(a)](https://www.legislation.gov.uk/ukpga/2009/4/section/510/2/a) substituted (with effect in accordance with Sch. 7 para. 4 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 2(5)(a)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/2/5/a/ii), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4)
 
-[^key-6eb3d434b04a4bc36d391d6221912fcc]: Textual amendment: Word in [s. 510(2)(a)](https://www.legislation.gov.uk/ukpga/2009/4/section/510/2/a) substituted (with effect in accordance with Sch. 7 para. 4 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 2(5)(a)(iii)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/2/5/a/iii), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4)
+[^c-6eb3d434b04a4bc36d391d6221912fcc]: Textual amendment: Word in [s. 510(2)(a)](https://www.legislation.gov.uk/ukpga/2009/4/section/510/2/a) substituted (with effect in accordance with Sch. 7 para. 4 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 2(5)(a)(iii)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/2/5/a/iii), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4)
 
-[^key-7cf3c07f9facdf436b5dbec49253ed16]: Textual amendment: Words in [s. 510(6)](https://www.legislation.gov.uk/ukpga/2009/4/section/510/6) inserted (with effect in accordance with Sch. 7 para. 4 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 2(5)(b)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/2/5/b/ii), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4)
+[^c-7cf3c07f9facdf436b5dbec49253ed16]: Textual amendment: Words in [s. 510(6)](https://www.legislation.gov.uk/ukpga/2009/4/section/510/6) inserted (with effect in accordance with Sch. 7 para. 4 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 2(5)(b)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/2/5/b/ii), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4)
 
-[^key-5203ea012c91ec8372cffa49c9b5804c]: Textual amendment: Words in [s. 510(6)](https://www.legislation.gov.uk/ukpga/2009/4/section/510/6) inserted (with effect in accordance with Sch. 7 para. 4 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 2(5)(b)(iii)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/2/5/b/iii), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4)
+[^c-5203ea012c91ec8372cffa49c9b5804c]: Textual amendment: Words in [s. 510(6)](https://www.legislation.gov.uk/ukpga/2009/4/section/510/6) inserted (with effect in accordance with Sch. 7 para. 4 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 2(5)(b)(iii)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/2/5/b/iii), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4)
 
-[^key-74c939eb4bcb042771c1a7ed4a66ff35]: Textual amendment: Words in [s. 510(6)](https://www.legislation.gov.uk/ukpga/2009/4/section/510/6) omitted (with effect in accordance with Sch. 7 para. 4 of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 2(5)(b)(i)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/2/5/b/i), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4)
+[^c-74c939eb4bcb042771c1a7ed4a66ff35]: Textual amendment: Words in [s. 510(6)](https://www.legislation.gov.uk/ukpga/2009/4/section/510/6) omitted (with effect in accordance with Sch. 7 para. 4 of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 2(5)(b)(i)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/2/5/b/i), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4)

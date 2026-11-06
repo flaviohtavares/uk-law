@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Assault of retail worker[^key-7baa831ed6e0e7f812eda3038be73a2a]
+## 45. Assault of retail worker[^c-7baa831ed6e0e7f812eda3038be73a2a]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7baa831ed6e0e7f812eda3038be73a2a]: Commencement: S. 45 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-7baa831ed6e0e7f812eda3038be73a2a]: Commencement: S. 45 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

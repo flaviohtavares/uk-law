@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 112. Meaning of “approved Welsh apprenticeship agreement”[^key-843f4ac67dc008919c35846a213a4fe7][^key-28c4cf4a6dddefd5584b62fabd425883]
+## 112. Meaning of “approved Welsh apprenticeship agreement”[^c-843f4ac67dc008919c35846a213a4fe7][^c-28c4cf4a6dddefd5584b62fabd425883]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-843f4ac67dc008919c35846a213a4fe7]: Commencement: S. 112 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-843f4ac67dc008919c35846a213a4fe7]: Commencement: S. 112 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-28c4cf4a6dddefd5584b62fabd425883]: Commencement: [S. 112](https://www.legislation.gov.uk/asc/2022/1/section/112) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(gg)](https://www.legislation.gov.uk/wsi/2026/62/article/2/gg)
+[^c-28c4cf4a6dddefd5584b62fabd425883]: Commencement: [S. 112](https://www.legislation.gov.uk/asc/2022/1/section/112) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(gg)](https://www.legislation.gov.uk/wsi/2026/62/article/2/gg)

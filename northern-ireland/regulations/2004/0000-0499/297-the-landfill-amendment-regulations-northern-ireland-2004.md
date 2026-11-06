@@ -45,23 +45,23 @@ For all other purposes
 
 16th July 2005
 
-The Department of the Environment, in exercise of the powers conferred upon it by Article 4 of the Environment (Northern Ireland) Order 2002[^f00001], and of all other powers enabling it in that behalf and having, in accordance with Article 4(4) of that Order, consulted district councils and such bodies or persons appearing to it to be representative of the interests of district councils as it considers appropriate, such bodies and persons appearing to it to be representative of the interests of industry, agriculture and business it considers appropriate and such other bodies or persons as it considers appropriate, hereby makes the following Regulations:[^key-c6072d479ffd82acc7043100153dd05c]
+The Department of the Environment, in exercise of the powers conferred upon it by Article 4 of the Environment (Northern Ireland) Order 2002[^f00001], and of all other powers enabling it in that behalf and having, in accordance with Article 4(4) of that Order, consulted district councils and such bodies or persons appearing to it to be representative of the interests of district councils as it considers appropriate, such bodies and persons appearing to it to be representative of the interests of industry, agriculture and business it considers appropriate and such other bodies or persons as it considers appropriate, hereby makes the following Regulations:[^c-c6072d479ffd82acc7043100153dd05c]
 
-## 1. Citation and commencement[^key-90a932c880115bc817c085b9b677aad4]
+## 1. Citation and commencement[^c-90a932c880115bc817c085b9b677aad4]
 
 These Regulations may be cited as the Landfill (Amendment) Regulations (Northern Ireland) 2004 and shall come into operation for the purposes of Regulations 7, 8 and 9 on 16th July 2004 and for all other purposes on 16th July 2005.
 
-## 2. Interpretation[^key-2c55e8c07d0c35abc9749ccadbabde8b]
+## 2. Interpretation[^c-2c55e8c07d0c35abc9749ccadbabde8b]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00002] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
 (2) In these Regulations “the Landfill Regulations” means the Landfill Regulations (Northern Ireland) 2003[^f00003].
 
-## 3. Amendment of the Landfill Regulations[^key-b6c2d009def5f2155f23697f8de5cbc9]
+## 3. Amendment of the Landfill Regulations[^c-b6c2d009def5f2155f23697f8de5cbc9]
 
 The Landfill Regulations are amended in accordance with the following Regulations.
 
-## 4. Amendment of Part I (General)[^key-4b94531927a737f48d00b57b132ba412]
+## 4. Amendment of Part I (General)[^c-4b94531927a737f48d00b57b132ba412]
 
 (1) The following definitions are inserted at the appropriate places in regulation 2(2) –
 
@@ -78,7 +78,7 @@ The Landfill Regulations are amended in accordance with the following Regulation
 
 > - “relevant waste acceptance criteria” means in relation to a landfill, the waste acceptance criteria under Parts I and III of Schedule 1 which apply to the class of landfill to which that landfill belongs;
 
-## 5. Amendment of Part II (Landfill Permits)[^key-5cfceefdfce2cff6c4ba45cdf9767447]
+## 5. Amendment of Part II (Landfill Permits)[^c-5cfceefdfce2cff6c4ba45cdf9767447]
 
 (1) In regulation 9(1)(e) delete “as from the relevant date”.
 
@@ -114,15 +114,15 @@ The Landfill Regulations are amended in accordance with the following Regulation
 
 (6) In regulation 15(6) for “it” when it secondly appears substitute “he”.
 
-## 6. Amendment of Schedule 1 (Waste Acceptance Criteria)[^key-6c99a595dbdbb8a9f067258dddd547ac]
+## 6. Amendment of Schedule 1 (Waste Acceptance Criteria)[^c-6c99a595dbdbb8a9f067258dddd547ac]
 
 The Schedule (which substitutes a schedule for Schedule 1 of the Landfill Regulations) shall have effect.
 
-## 7. Amendment of Schedule 3 (Minimum Monitoring Procedures for Landfills)[^key-89f565f94baf194526eb80f45e433ace]
+## 7. Amendment of Schedule 3 (Minimum Monitoring Procedures for Landfills)[^c-89f565f94baf194526eb80f45e433ace]
 
 In paragraph 4(4) of Schedule 3 for “As” substitute “anionic surfactants”.
 
-## 8. Amendment of Schedule 4 (Transitional Provisions)[^key-3e008b90a9808af79b50867d98caf983]
+## 8. Amendment of Schedule 4 (Transitional Provisions)[^c-3e008b90a9808af79b50867d98caf983]
 
 (1) The following amendments are made to Schedule 4.
 
@@ -130,7 +130,7 @@ In paragraph 4(4) of Schedule 3 for “As” substitute “anionic surfactants�
 
 (3) In paragraph 3(4) for “sub-paragraph (3)(a)(i)” substitute “sub-paragraph (1)(14)”.
 
-## 9. Amendment of Schedule 5 (Amendments to Other Subordinate Legislation)[^key-8de9c4303b44557f7285e3777998f762]
+## 9. Amendment of Schedule 5 (Amendments to Other Subordinate Legislation)[^c-8de9c4303b44557f7285e3777998f762]
 
 (1) The following amendments are made to Schedule 5.
 
@@ -164,7 +164,7 @@ Department of the Environment
 
 Regulation 6
 
-**1.**[^key-732b62b0764b1d87dcb5aa38230a2601] For Schedule 1 of the Landfill Regulations substitute –
+**1.**[^c-732b62b0764b1d87dcb5aa38230a2601] For Schedule 1 of the Landfill Regulations substitute –
 
 > **SCHEDULE 1 — CRITERIA AND PROCEDURES FOR THE ACCEPTANCE OF WASTE AT LANDFILLS**
 >
@@ -625,35 +625,35 @@ Copies of the publication referred to in Part IV of the Schedule to these Regula
 
 [^f00001]: Footnote: S.I. [2002/3153 (N.I. 7)](https://www.legislation.gov.uk/nisi/2002/3153)
 
-[^key-c6072d479ffd82acc7043100153dd05c]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2004/297) modified (16.7.2005) by [The Hazardous Waste Regulations (Northern Ireland) 2005 (S.R. 2005/300)](https://www.legislation.gov.uk/nisr/2005/300), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/300/regulation/1/1), [Sch. 10 para. 10(2)](https://www.legislation.gov.uk/nisr/2005/300/schedule/10/paragraph/10/2)[(3)](https://www.legislation.gov.uk/nisr/2005/300/schedule/10/paragraph/10/3)
+[^c-c6072d479ffd82acc7043100153dd05c]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2004/297) modified (16.7.2005) by [The Hazardous Waste Regulations (Northern Ireland) 2005 (S.R. 2005/300)](https://www.legislation.gov.uk/nisr/2005/300), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/300/regulation/1/1), [Sch. 10 para. 10(2)](https://www.legislation.gov.uk/nisr/2005/300/schedule/10/paragraph/10/2)[(3)](https://www.legislation.gov.uk/nisr/2005/300/schedule/10/paragraph/10/3)
 
-[^key-90a932c880115bc817c085b9b677aad4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/297/regulation/1) in operation at 16.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/297/regulation/1)
+[^c-90a932c880115bc817c085b9b677aad4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/297/regulation/1) in operation at 16.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/297/regulation/1)
 
-[^key-2c55e8c07d0c35abc9749ccadbabde8b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/297/regulation/2) in operation at 16.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/297/regulation/1)
+[^c-2c55e8c07d0c35abc9749ccadbabde8b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/297/regulation/2) in operation at 16.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/297/regulation/1)
 
 [^f00002]: Footnote: [1954 c. 33 (N.I)](https://www.legislation.gov.uk/apni/1954/33)
 
 [^f00003]: Footnote: [S.R. 2003 No. 496](https://www.legislation.gov.uk/nisr/2003/496)
 
-[^key-b6c2d009def5f2155f23697f8de5cbc9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/297/regulation/3) in operation at 16.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/297/regulation/1)
+[^c-b6c2d009def5f2155f23697f8de5cbc9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/297/regulation/3) in operation at 16.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/297/regulation/1)
 
-[^key-4b94531927a737f48d00b57b132ba412]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2004/297/regulation/4) in operation at 16.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/297/regulation/1)
+[^c-4b94531927a737f48d00b57b132ba412]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2004/297/regulation/4) in operation at 16.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/297/regulation/1)
 
 [^f00004]: Footnote: The Decision in force at the date of making these Regulations is Commission Decision [2000/532/EC](https://www.legislation.gov.uk/european/decision/2000/0532) (O.J. No. L226, 6.9.2000, p. 3) as amended by Commission Decisions [2001/118/EC](https://www.legislation.gov.uk/european/decision/2001/0118) (O.J. No. L047, 16.2.2001, p. 1), [2001/119/EC](https://www.legislation.gov.uk/european/decision/2001/0119) (O.J. No. L047, 16.2.2001, p. 32) and [2001/573/EC](https://www.legislation.gov.uk/european/decision/2001/0573) (O.J. L203, 28.7.2001, p. 18)
 
 [^f00005]: Footnote: ISBN 0-11-62-11-16417
 
-[^key-5cfceefdfce2cff6c4ba45cdf9767447]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2004/297/regulation/5) in operation at 16.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/297/regulation/1)
+[^c-5cfceefdfce2cff6c4ba45cdf9767447]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2004/297/regulation/5) in operation at 16.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/297/regulation/1)
 
-[^key-6c99a595dbdbb8a9f067258dddd547ac]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2004/297/regulation/6) in operation at 16.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/297/regulation/1)
+[^c-6c99a595dbdbb8a9f067258dddd547ac]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2004/297/regulation/6) in operation at 16.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/297/regulation/1)
 
-[^key-89f565f94baf194526eb80f45e433ace]: Commencement: Reg. 7 in operation at 16.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/297/regulation/1)
+[^c-89f565f94baf194526eb80f45e433ace]: Commencement: Reg. 7 in operation at 16.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/297/regulation/1)
 
-[^key-3e008b90a9808af79b50867d98caf983]: Commencement: Reg. 8 in operation at 16.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/297/regulation/1)
+[^c-3e008b90a9808af79b50867d98caf983]: Commencement: Reg. 8 in operation at 16.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/297/regulation/1)
 
-[^key-8de9c4303b44557f7285e3777998f762]: Commencement: Reg. 9 in operation at 16.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/297/regulation/1)
+[^c-8de9c4303b44557f7285e3777998f762]: Commencement: Reg. 9 in operation at 16.7.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/297/regulation/1)
 
-[^key-732b62b0764b1d87dcb5aa38230a2601]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2004/297/schedule/paragraph/1) in operation at 16.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/297/regulation/1)
+[^c-732b62b0764b1d87dcb5aa38230a2601]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2004/297/schedule/paragraph/1) in operation at 16.7.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/297/regulation/1)
 
 [^f00006]: Footnote: Council Directive [91/689/EC](https://www.legislation.gov.uk/european/directive/1991/0689) (O.J. No. L377, 31.12.1991, p. 20) as amended by Council Directive [94/31/EC](https://www.legislation.gov.uk/european/directive/1994/0031) (O.J. No. L168, 2.7.94 p. 28)
 

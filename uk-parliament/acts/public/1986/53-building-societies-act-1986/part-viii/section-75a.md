@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75A. Business review[^key-ce3d8c061891cacaf79f6378e34cd190]
+## 75A. Business review[^c-ce3d8c061891cacaf79f6378e34cd190]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ consistent with the size and complexity of the business.
 
 ## Annotations
 
-[^key-ce3d8c061891cacaf79f6378e34cd190]: Textual amendment: S. 75A inserted (22.12.2004) (with effect in accordance with art. 1(2) of the amending S.I.) by [The Building Societies Act 1986 (International Accounting Standards and Other Accounting Amendments) Order 2004 (S.I. 2004/3380)](https://www.legislation.gov.uk/uksi/2004/3380), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3380/article/1), [4](https://www.legislation.gov.uk/uksi/2004/3380/article/4)
+[^c-ce3d8c061891cacaf79f6378e34cd190]: Textual amendment: S. 75A inserted (22.12.2004) (with effect in accordance with art. 1(2) of the amending S.I.) by [The Building Societies Act 1986 (International Accounting Standards and Other Accounting Amendments) Order 2004 (S.I. 2004/3380)](https://www.legislation.gov.uk/uksi/2004/3380), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3380/article/1), [4](https://www.legislation.gov.uk/uksi/2004/3380/article/4)

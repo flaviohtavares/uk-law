@@ -57,39 +57,39 @@ This Order is made in exercise of the powers conferred by sections 60(1), (2), (
 
 Her Majesty, by and with the advice of Her Privy Council, orders as follows:
 
-## 1. Citation and commencement[^key-9368af28032030cb2f0528b58fc53a02]
+## 1. Citation and commencement[^c-9368af28032030cb2f0528b58fc53a02]
 
 This Order may be cited as the Air Navigation (Amendment) Order 2017 and comes into force on 14th December 2017.
 
-## 2. Amendment of the Air Navigation Order 2016[^key-45f9afa7453f7bd6bc5bbf2ea0d50b20]
+## 2. Amendment of the Air Navigation Order 2016[^c-45f9afa7453f7bd6bc5bbf2ea0d50b20]
 
 The Air Navigation Order 2016[^f00003] is amended as follows.
 
-## 3. Categorisation as public transport or commercial operation[^key-e5b4dce1ca65bf6dc3873b25c5272262]
+## 3. Categorisation as public transport or commercial operation[^c-e5b4dce1ca65bf6dc3873b25c5272262]
 
 In article 6(1)—
 
 - (a) insert “of this Part” after “Chapter 2”; and
 - (b) omit sub-paragraph (a) including “or”.
 
-**4.**[^key-99eeca51d682ff291bfc07693c28a53d] In article 11(1)—
+**4.**[^c-99eeca51d682ff291bfc07693c28a53d] In article 11(1)—
 
 - (a) for “Part 4 and Part 5” substitute “Part 4, Part 5 and Part 6”;
 - (b) in sub-paragraph (b)—
   - (i) at the beginning insert “there has been no valuable consideration or”; and
   - (ii) omit “or the purpose of the flight”.
 
-**5.**[^key-b54c49b914f9caaa18b2a60e9c048412] In article 12—
+**5.**[^c-b54c49b914f9caaa18b2a60e9c048412] In article 12—
 
 - (a) after “if” insert “there has been no valuable consideration or”; and
 - (b) omit “or the purpose of the flight”.
 
-**6.**[^key-3a6c35c05741fa1f4eee36233d4381b1] In article 13(1)(a)—
+**6.**[^c-3a6c35c05741fa1f4eee36233d4381b1] In article 13(1)(a)—
 
 - (a) at the beginning insert “there has been no valuable consideration or”; and
 - (b) omit “or the purpose of the flight”.
 
-**7.**[^key-297aff47e430ddf0a02678e6f3d316b3] In article 14—
+**7.**[^c-297aff47e430ddf0a02678e6f3d316b3] In article 14—
 
 - (a) for “an commercial” substitute “a commercial”;
 - (b) in paragraph (a) omit “and which is made under and”; and
@@ -99,7 +99,7 @@ In article 6(1)—
 
   .
 
-## 8. Registration and marking[^key-0311f7781bf4071257a5a3c641611418]
+## 8. Registration and marking[^c-0311f7781bf4071257a5a3c641611418]
 
 For article 24(4) substitute—
 
@@ -107,31 +107,31 @@ For article 24(4) substitute—
 
 .
 
-**9.**[^key-c960525a6b7b6577ec1ea31d3b6d56b7] In article 25(3) for “article” substitute “Chapter”.
+**9.**[^c-c960525a6b7b6577ec1ea31d3b6d56b7] In article 25(3) for “article” substitute “Chapter”.
 
-## 10. Airworthiness[^key-14d3fbede83ee8f14b198787d7fca132]
+## 10. Airworthiness[^c-14d3fbede83ee8f14b198787d7fca132]
 
 In article 33(2)(g) omit “under article 269”.
 
-**11.**[^key-bd7c2c1302faba98b1c414b3d117641e] In article 37(4) omit “, as amended from time to time”.
+**11.**[^c-bd7c2c1302faba98b1c414b3d117641e] In article 37(4) omit “, as amended from time to time”.
 
-**12.**[^key-d5286d4fa5ad9c24afb32d82bf14a83c] In article 38(1) for “paragraph (2)” substitute “paragraph (3)”.
+**12.**[^c-d5286d4fa5ad9c24afb32d82bf14a83c] In article 38(1) for “paragraph (2)” substitute “paragraph (3)”.
 
-**13.**[^key-3cd5f02dbec0ce10d469d475d39e6014] In article 42(1)(b) for paragraph (i) substitute—
+**13.**[^c-3cd5f02dbec0ce10d469d475d39e6014] In article 42(1)(b) for paragraph (i) substitute—
 
 > - (i) for commercial operation other than commercial operation which consists of an aircraft flying for the purpose of a flying display, associated practice for a flying display, test and positioning flights or the exhibition or demonstration of the aircraft;
 
 .
 
-**14.**[^key-72d9998968faad8f6ffaad3cb799f80e] In article 49(2) omit “39,”.
+**14.**[^c-72d9998968faad8f6ffaad3cb799f80e] In article 49(2) omit “39,”.
 
-**15.**[^key-c0c4e6227f35530c62943a39cbe93830] In article 61(3) omit “, as amended from time to time”.
+**15.**[^c-c0c4e6227f35530c62943a39cbe93830] In article 61(3) omit “, as amended from time to time”.
 
-## 16. Operations[^key-dcf39bdc9ada7d799a3abd9d0ed82613]
+## 16. Operations[^c-dcf39bdc9ada7d799a3abd9d0ed82613]
 
 In article 65 after “Chapters 2” insert “(other than articles 77(1) and 79)”.
 
-**17.**[^key-bae4dbbacbef8690cca212321b1e56f8] In article 69—
+**17.**[^c-bae4dbbacbef8690cca212321b1e56f8] In article 69—
 
 - (a) for paragraph (2) substitute—
 
@@ -143,11 +143,11 @@ In article 65 after “Chapters 2” insert “(other than articles 77(1) and 79
   ; and
 - (b) in paragraph (8)(b) omit “the minimum equipment list or”.
 
-**18.**[^key-f70dc206b50f6fff3e35aa5f8f69eaa8] In article 70(4) for “136” substitute “137”.
+**18.**[^c-f70dc206b50f6fff3e35aa5f8f69eaa8] In article 70(4) for “136” substitute “137”.
 
-**19.**[^key-1259e5ebfb38e1bf61548906210b5488] In article 75 omit paragraph (3).
+**19.**[^c-1259e5ebfb38e1bf61548906210b5488] In article 75 omit paragraph (3).
 
-**20.**[^key-080321ad531ebd314d5ea972d242825b] In article 77—
+**20.**[^c-080321ad531ebd314d5ea972d242825b] In article 77—
 
 - (a) at the end of paragraph (2) insert “other than when flying for public transport”; and
 - (b) after paragraph (6) insert—
@@ -159,7 +159,7 @@ In article 65 after “Chapters 2” insert “(other than articles 77(1) and 79
 
   .
 
-**21.**[^key-fc8f8d52278df20ec9934793a1f40f2c] (1) Omit article 78.
+**21.**[^c-fc8f8d52278df20ec9934793a1f40f2c] (1) Omit article 78.
 
 (2) Before article 79 insert—
 
@@ -173,22 +173,22 @@ In article 65 after “Chapters 2” insert “(other than articles 77(1) and 79
 
 .
 
-**22.**[^key-aeb7a90eb958e7064dc23b26a806693c] In article 92—
+**22.**[^c-aeb7a90eb958e7064dc23b26a806693c] In article 92—
 
 - (a) in paragraphs (2) and (3) for each reference to “towed” substitute “ground towed”; and
 - (b) in paragraph (2)(b) omit “controlled airspace or”.
 
-**23.**[^key-913962eb94e87da8f739cb97c278e8a2] In article 93 for paragraph (2) substitute—
+**23.**[^c-913962eb94e87da8f739cb97c278e8a2] In article 93 for paragraph (2) substitute—
 
 > (2) In this article, a specified number of balloons counts as “simultaneously released at a single site” if released during a period of not more than 15 minutes from within an area not more than 1km square.
 
 .
 
-**24.**[^key-995c396d6904a91d3ad07aac5ed504d6] In article 105(3) for “(5)” substitute “(6)”.
+**24.**[^c-995c396d6904a91d3ad07aac5ed504d6] In article 105(3) for “(5)” substitute “(6)”.
 
-**25.**[^key-8a1a8af8886df9c492f2c139a849815e] In article 112(3) for “for every 50 or fraction of 50 passenger seats installed in the aircraft” substitute “and if there are 51 to 100 inclusive passenger seats installed, not less than two members and, if there are 101 to 150 inclusive passenger seats installed, not less than three members and so on”.
+**25.**[^c-8a1a8af8886df9c492f2c139a849815e] In article 112(3) for “for every 50 or fraction of 50 passenger seats installed in the aircraft” substitute “and if there are 51 to 100 inclusive passenger seats installed, not less than two members and, if there are 101 to 150 inclusive passenger seats installed, not less than three members and so on”.
 
-**26.**[^key-146561a451d1b24d5868120d5927a7c5] In article 119 after paragraph (4) insert—
+**26.**[^c-146561a451d1b24d5868120d5927a7c5] In article 119 after paragraph (4) insert—
 
 > (4A) Any equipment installed or carried in an aircraft must be installed, carried, maintained and adjusted so that such equipment—
 >
@@ -197,11 +197,11 @@ In article 65 after “Chapters 2” insert “(other than articles 77(1) and 79
 
 .
 
-**27.**[^key-225c5403042b4d0e43bb1e9cccec5414] In article 127(4) for “prescribe” substitute “make regulations prescribing”.
+**27.**[^c-225c5403042b4d0e43bb1e9cccec5414] In article 127(4) for “prescribe” substitute “make regulations prescribing”.
 
-**28.**[^key-08e259107bc8542a68c514307a19d434] In article 128(1) for “prescribe” substitute “make regulations prescribing”.
+**28.**[^c-08e259107bc8542a68c514307a19d434] In article 128(1) for “prescribe” substitute “make regulations prescribing”.
 
-**29.**[^key-3c333155e7c5967bbea8d408cc19653e] In article 134 after paragraph (4) insert—
+**29.**[^c-3c333155e7c5967bbea8d408cc19653e] In article 134 after paragraph (4) insert—
 
 > (5) The CAA must grant a police air operator’s certificate if it is satisfied that the applicant is competent to secure that the operation of aircraft of the types specified in the certificate will be as safe as is appropriate when flying on flights of the description and for the purposes specified, having regard in particular to the applicant’s—
 >
@@ -210,11 +210,11 @@ In article 65 after “Chapters 2” insert “(other than articles 77(1) and 79
 
 .
 
-## 30. Aircrew[^key-a77ee863e78156624035d9841e65599e]
+## 30. Aircrew[^c-a77ee863e78156624035d9841e65599e]
 
 In article 150(7) for “under this Order is” substitute “under this Order if”.
 
-**31.**[^key-6c3ace729b00b86603f2b643143fb06f] In article 166—
+**31.**[^c-6c3ace729b00b86603f2b643143fb06f] In article 166—
 
 - (a) in paragraph (1)—
   - (i) insert “(P)” after “a person”;
@@ -223,30 +223,30 @@ In article 150(7) for “under this Order is” substitute “under this Order i
 - (b) in paragraph (2) omit “or medical declaration in accordance with article 163(3)”; and
 - (c) in paragraph (3) omit “or declaration”.
 
-**32.**[^key-bc672c8331e7a5107a0c72ca9a90b9c1] In article 174(2) for “Article 176” substitute “Article 176(1)”.
+**32.**[^c-bc672c8331e7a5107a0c72ca9a90b9c1] In article 174(2) for “Article 176” substitute “Article 176(1)”.
 
-**33.**[^key-d249f78288336f2ab95c45c23c93db80] In article 175(3)(a) after “flight times” insert “, duty periods and rest periods”.
+**33.**[^c-d249f78288336f2ab95c45c23c93db80] In article 175(3)(a) after “flight times” insert “, duty periods and rest periods”.
 
-**34.**[^key-2e6024d310cb93129f5a6dbe53bde349] In article 176(1)—
+**34.**[^c-2e6024d310cb93129f5a6dbe53bde349] In article 176(1)—
 
 - (a) insert “(P)” after “a person”;
 - (b) for “they know or suspect they are” substitute “P knows or suspects P is”; and
 - (c) for “are likely” substitute “is likely”.
 
-## 35. Licensing of air traffic controllers[^key-ef22a60517571c153f84fbe3b0ce4c8a]
+## 35. Licensing of air traffic controllers[^c-ef22a60517571c153f84fbe3b0ce4c8a]
 
 In article 188—
 
 - (a) omit paragraphs (1) and (3); and
 - (b) in paragraph (4) for “referred to in paragraphs (1), (2) and (3)” substitute “referred to in paragraph (2)”.
 
-**36.**[^key-44de8366f78e188192e76379877e3864] Omit articles 189 to 197.
+**36.**[^c-44de8366f78e188192e76379877e3864] Omit articles 189 to 197.
 
-## 37. Air traffic services[^key-c27a1e9e8aae7fa2973886bcbbec57b4]
+## 37. Air traffic services[^c-c27a1e9e8aae7fa2973886bcbbec57b4]
 
 In article 198 for “Part” substitute “Chapter”.
 
-## 38. Documents and records[^key-fda498f723c321b82c2da00a8c0bb610]
+## 38. Documents and records[^c-fda498f723c321b82c2da00a8c0bb610]
 
 In article 229—
 
@@ -257,18 +257,18 @@ In article 229—
   ; and
 - (b) omit paragraph (4).
 
-**39.**[^key-4a714bbb1f72351e2b3f7bfb20f8ab14] In article 231—
+**39.**[^c-4a714bbb1f72351e2b3f7bfb20f8ab14] In article 231—
 
 - (a) in paragraph (1) for “, (5), (6) or (7)” substitute “or (5)”; and
 - (b) in paragraph (2) for “4(12)” substitute “4(13)”.
 
-**40.**[^key-29326fcbdbe188f8ed8689b5a4f42eb8] For article 238(2) substitute—
+**40.**[^c-29326fcbdbe188f8ed8689b5a4f42eb8] For article 238(2) substitute—
 
 > (2) Subject to paragraph (3), if the first operator ceases to be the operator of an aircraft, they must continue to preserve the document or record until paragraphs (4), (5) and (6) have been complied with, as appropriate.
 
 .
 
-## 41. Competent authority[^key-8325965365f2fc4ba1af6fdee7bf27d6]
+## 41. Competent authority[^c-8325965365f2fc4ba1af6fdee7bf27d6]
 
 For article 270(5) substitute—
 
@@ -276,7 +276,7 @@ For article 270(5) substitute—
 
 .
 
-## 42. Definitions[^key-6a8ef621255a616ae5070b4b3028f963]
+## 42. Definitions[^c-6a8ef621255a616ae5070b4b3028f963]
 
 In Schedule 1—
 
@@ -303,7 +303,7 @@ In Schedule 1—
   ; and
 - (j) in the definition of “Self-propelled hang-glider”, in paragraph (c) for “maximum take-off mass” substitute “maximum unladen weight”.
 
-**43.**[^key-250eb2686b0ed13b7929480789d32a15] In Schedule 5—
+**43.**[^c-250eb2686b0ed13b7929480789d32a15] In Schedule 5—
 
 - (a) in paragraph 1(1)(c) for “aeroplane” substitute “aircraft”;
 - (b) in paragraph 1(2) after sub-paragraph (c) insert—
@@ -319,9 +319,9 @@ In Schedule 1—
 
   .
 
-**44.**[^key-d721236986d02d9ebe1e6f29a1892999] In Schedule 7 omit paragraph 5(2).
+**44.**[^c-d721236986d02d9ebe1e6f29a1892999] In Schedule 7 omit paragraph 5(2).
 
-## 45. Instructor certificates[^key-e4565de141e33f7a61df446016681767]
+## 45. Instructor certificates[^c-e4565de141e33f7a61df446016681767]
 
 In Schedule 8, Part 2, Chapter 1, Section 3—
 
@@ -330,7 +330,7 @@ In Schedule 8, Part 2, Chapter 1, Section 3—
   - (i) in paragraph (1) for “25 solo flights by students” substitute “25 student pilot solo flight exercises”; and
   - (ii) in paragraph (2) omit “and on the recommendation of the supervising flight instructor (helicopter)”.
 
-## 46. Maintenance of licence privileges[^key-b1f353d4a9714c3ae13b69402207ac16]
+## 46. Maintenance of licence privileges[^c-b1f353d4a9714c3ae13b69402207ac16]
 
 (1) In Schedule 8, Part 3, Chapter 1—
 
@@ -365,11 +365,11 @@ In Schedule 8, Part 2, Chapter 1, Section 3—
 
   .
 
-## 47. Public Transport – Operational Requirements[^key-793a013f2ba55df02eda9b39ee991888]
+## 47. Public Transport – Operational Requirements[^c-793a013f2ba55df02eda9b39ee991888]
 
 In Schedule 9, Part 1, paragraph 1(s) for “78(3)” substitute “78A(2)”.
 
-## 48. Documentation[^key-af00405cc39e11c68e1882f6d6e9cb13]
+## 48. Documentation[^c-af00405cc39e11c68e1882f6d6e9cb13]
 
 In Schedule 10—
 
@@ -391,7 +391,7 @@ In Schedule 10—
 
   .
 
-## 49. Penalties[^key-6f9a9e31f4b1f165eb82ca56c16723d0]
+## 49. Penalties[^c-6f9a9e31f4b1f165eb82ca56c16723d0]
 
 In Schedule 13, Part 1, Chapter 1—
 
@@ -413,7 +413,7 @@ In Schedule 13, Part 1, Chapter 1—
 
   .
 
-**50.**[^key-7132e54566b224a14a1b67845900fdbd] In Schedule 13, Part 1, Chapter 8 after the entry for NCO.GEN.150 insert—
+**50.**[^c-7132e54566b224a14a1b67845900fdbd] In Schedule 13, Part 1, Chapter 8 after the entry for NCO.GEN.150 insert—
 
 > |  |  |
 > | --- | --- |
@@ -421,7 +421,7 @@ In Schedule 13, Part 1, Chapter 1—
 
 .
 
-**51.**[^key-664f50b40fb8ea109a9cf92f9c942c34] After Schedule 13, Part 1, Chapter 8 insert—
+**51.**[^c-664f50b40fb8ea109a9cf92f9c942c34] After Schedule 13, Part 1, Chapter 8 insert—
 
 > **CHAPTER 9**
 >
@@ -445,7 +445,7 @@ In Schedule 13, Part 1, Chapter 1—
 
 .
 
-**52.**[^key-fd9fc39baadacc06e7fd6b8f3007b12c] In Schedule 13, Part 2, Chapter 1—
+**52.**[^c-fd9fc39baadacc06e7fd6b8f3007b12c] In Schedule 13, Part 2, Chapter 1—
 
 - (a) in the entry for article 42(1), after “42(1)” insert “(other than sub-paragraph (b)(ii))”;
 - (b) after the entry for article 44(2) insert—
@@ -493,9 +493,9 @@ In Schedule 13, Part 1, Chapter 1—
 
   *.*
 
-**53.**[^key-fcdc2817c832656874e20da49242f5fe] In Schedule 13, Part 2, Chapter 6 in the column headed “Provision of SERA”, for the entry “5005 (other than (g))” substitute “5005 (other than (g) and (i))”.
+**53.**[^c-fcdc2817c832656874e20da49242f5fe] In Schedule 13, Part 2, Chapter 6 in the column headed “Provision of SERA”, for the entry “5005 (other than (g))” substitute “5005 (other than (g) and (i))”.
 
-**54.**[^key-3eae90a8f6152a944d6d14329c7d4219] In Schedule 13, Part 2, Chapter 9, after the entry for NCO.IDE.B.150 insert—
+**54.**[^c-3eae90a8f6152a944d6d14329c7d4219] In Schedule 13, Part 2, Chapter 9, after the entry for NCO.IDE.B.150 insert—
 
 > |  |  |
 > | --- | --- |
@@ -517,7 +517,7 @@ In Schedule 13, Part 1, Chapter 1—
 
 .
 
-**55.**[^key-95eeea46dcfda95a70cadada560e9273] After Schedule 13, Part 2, Chapter 9 add—
+**55.**[^c-95eeea46dcfda95a70cadada560e9273] After Schedule 13, Part 2, Chapter 9 add—
 
 > **CHAPTER 10**
 >
@@ -635,7 +635,7 @@ In Schedule 13, Part 1, Chapter 1—
 
 .
 
-**56.**[^key-104a7bf765dfea808604a6b8da85ad40] In Schedule 13, Part 3, Chapter 1—
+**56.**[^c-104a7bf765dfea808604a6b8da85ad40] In Schedule 13, Part 3, Chapter 1—
 
 - (a) after the entry for article 37(3) insert—
 
@@ -661,7 +661,7 @@ In Schedule 13, Part 1, Chapter 1—
 - (d) in the entry for article 188(1), for “188(1)” substitute “188(2)”; and
 - (e) omit the entries for articles 191 and 192.
 
-**57.**[^key-0bd6b4e28acae31028458544c4d222df] For Schedule 13, Part 3, Chapter 4 substitute—
+**57.**[^c-0bd6b4e28acae31028458544c4d222df] For Schedule 13, Part 3, Chapter 4 substitute—
 
 > **CHAPTER 4**
 >
@@ -673,7 +673,7 @@ In Schedule 13, Part 1, Chapter 1—
 
 .
 
-**58.**[^key-4ff62e8ce44162d8712b143154459592] For Schedule 13, Part 3, Chapter 7 substitute—
+**58.**[^c-4ff62e8ce44162d8712b143154459592] For Schedule 13, Part 3, Chapter 7 substitute—
 
 > **CHAPTER 7**
 >
@@ -689,7 +689,7 @@ In Schedule 13, Part 1, Chapter 1—
 
 .
 
-**59.**[^key-bc3b368c7e427fab66161b6ebeef45a9] In Schedule 13, Part 3, Chapter 10, after the entry for NCO.OP.185 insert—
+**59.**[^c-bc3b368c7e427fab66161b6ebeef45a9] In Schedule 13, Part 3, Chapter 10, after the entry for NCO.OP.185 insert—
 
 > |  |  |
 > | --- | --- |
@@ -699,7 +699,7 @@ In Schedule 13, Part 1, Chapter 1—
 
 .
 
-**60.**[^key-7f0e1f8b5d65e5bebee8e1ed3fd4db1a] After Schedule 13, Part 3, Chapter 10 insert—
+**60.**[^c-7f0e1f8b5d65e5bebee8e1ed3fd4db1a] After Schedule 13, Part 3, Chapter 10 insert—
 
 > **CHAPTER 11**
 >
@@ -766,130 +766,130 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) has been amended by the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51), section 27(1)(a); and section 3(3) and Part 1 of the Schedule to the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). Paragraph 1A of Schedule 2 was inserted by the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), section 28.
 
-[^key-9368af28032030cb2f0528b58fc53a02]: Commencement: Art. 1 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-9368af28032030cb2f0528b58fc53a02]: Commencement: Art. 1 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-45f9afa7453f7bd6bc5bbf2ea0d50b20]: Commencement: Art. 2 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-45f9afa7453f7bd6bc5bbf2ea0d50b20]: Commencement: Art. 2 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
 [^f00003]: Footnote: [S.I. 2016/765](https://www.legislation.gov.uk/uksi/2016/765).
 
-[^key-e5b4dce1ca65bf6dc3873b25c5272262]: Commencement: Art. 3 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-e5b4dce1ca65bf6dc3873b25c5272262]: Commencement: Art. 3 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-99eeca51d682ff291bfc07693c28a53d]: Commencement: Art. 4 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-99eeca51d682ff291bfc07693c28a53d]: Commencement: Art. 4 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-b54c49b914f9caaa18b2a60e9c048412]: Commencement: Art. 5 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-b54c49b914f9caaa18b2a60e9c048412]: Commencement: Art. 5 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-3a6c35c05741fa1f4eee36233d4381b1]: Commencement: Art. 6 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-3a6c35c05741fa1f4eee36233d4381b1]: Commencement: Art. 6 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-297aff47e430ddf0a02678e6f3d316b3]: Commencement: Art. 7 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-297aff47e430ddf0a02678e6f3d316b3]: Commencement: Art. 7 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-0311f7781bf4071257a5a3c641611418]: Commencement: Art. 8 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-0311f7781bf4071257a5a3c641611418]: Commencement: Art. 8 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-c960525a6b7b6577ec1ea31d3b6d56b7]: Commencement: Art. 9 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-c960525a6b7b6577ec1ea31d3b6d56b7]: Commencement: Art. 9 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-14d3fbede83ee8f14b198787d7fca132]: Commencement: Art. 10 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-14d3fbede83ee8f14b198787d7fca132]: Commencement: Art. 10 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-bd7c2c1302faba98b1c414b3d117641e]: Commencement: Art. 11 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-bd7c2c1302faba98b1c414b3d117641e]: Commencement: Art. 11 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-d5286d4fa5ad9c24afb32d82bf14a83c]: Commencement: Art. 12 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-d5286d4fa5ad9c24afb32d82bf14a83c]: Commencement: Art. 12 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-3cd5f02dbec0ce10d469d475d39e6014]: Commencement: Art. 13 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-3cd5f02dbec0ce10d469d475d39e6014]: Commencement: Art. 13 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-72d9998968faad8f6ffaad3cb799f80e]: Commencement: Art. 14 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-72d9998968faad8f6ffaad3cb799f80e]: Commencement: Art. 14 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-c0c4e6227f35530c62943a39cbe93830]: Commencement: Art. 15 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-c0c4e6227f35530c62943a39cbe93830]: Commencement: Art. 15 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-dcf39bdc9ada7d799a3abd9d0ed82613]: Commencement: Art. 16 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-dcf39bdc9ada7d799a3abd9d0ed82613]: Commencement: Art. 16 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-bae4dbbacbef8690cca212321b1e56f8]: Commencement: Art. 17 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-bae4dbbacbef8690cca212321b1e56f8]: Commencement: Art. 17 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-f70dc206b50f6fff3e35aa5f8f69eaa8]: Commencement: Art. 18 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-f70dc206b50f6fff3e35aa5f8f69eaa8]: Commencement: Art. 18 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-1259e5ebfb38e1bf61548906210b5488]: Commencement: Art. 19 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-1259e5ebfb38e1bf61548906210b5488]: Commencement: Art. 19 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-080321ad531ebd314d5ea972d242825b]: Commencement: Art. 20 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-080321ad531ebd314d5ea972d242825b]: Commencement: Art. 20 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-fc8f8d52278df20ec9934793a1f40f2c]: Commencement: Art. 21 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-fc8f8d52278df20ec9934793a1f40f2c]: Commencement: Art. 21 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-aeb7a90eb958e7064dc23b26a806693c]: Commencement: Art. 22 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-aeb7a90eb958e7064dc23b26a806693c]: Commencement: Art. 22 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-913962eb94e87da8f739cb97c278e8a2]: Commencement: Art. 23 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-913962eb94e87da8f739cb97c278e8a2]: Commencement: Art. 23 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-995c396d6904a91d3ad07aac5ed504d6]: Commencement: Art. 24 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-995c396d6904a91d3ad07aac5ed504d6]: Commencement: Art. 24 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-8a1a8af8886df9c492f2c139a849815e]: Commencement: Art. 25 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-8a1a8af8886df9c492f2c139a849815e]: Commencement: Art. 25 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-146561a451d1b24d5868120d5927a7c5]: Commencement: Art. 26 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-146561a451d1b24d5868120d5927a7c5]: Commencement: Art. 26 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-225c5403042b4d0e43bb1e9cccec5414]: Commencement: Art. 27 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-225c5403042b4d0e43bb1e9cccec5414]: Commencement: Art. 27 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-08e259107bc8542a68c514307a19d434]: Commencement: Art. 28 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-08e259107bc8542a68c514307a19d434]: Commencement: Art. 28 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-3c333155e7c5967bbea8d408cc19653e]: Commencement: Art. 29 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-3c333155e7c5967bbea8d408cc19653e]: Commencement: Art. 29 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-a77ee863e78156624035d9841e65599e]: Commencement: Art. 30 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-a77ee863e78156624035d9841e65599e]: Commencement: Art. 30 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-6c3ace729b00b86603f2b643143fb06f]: Commencement: Art. 31 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-6c3ace729b00b86603f2b643143fb06f]: Commencement: Art. 31 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-bc672c8331e7a5107a0c72ca9a90b9c1]: Commencement: Art. 32 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-bc672c8331e7a5107a0c72ca9a90b9c1]: Commencement: Art. 32 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-d249f78288336f2ab95c45c23c93db80]: Commencement: Art. 33 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-d249f78288336f2ab95c45c23c93db80]: Commencement: Art. 33 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-2e6024d310cb93129f5a6dbe53bde349]: Commencement: Art. 34 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-2e6024d310cb93129f5a6dbe53bde349]: Commencement: Art. 34 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-ef22a60517571c153f84fbe3b0ce4c8a]: Commencement: Art. 35 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-ef22a60517571c153f84fbe3b0ce4c8a]: Commencement: Art. 35 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-44de8366f78e188192e76379877e3864]: Commencement: Art. 36 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-44de8366f78e188192e76379877e3864]: Commencement: Art. 36 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-c27a1e9e8aae7fa2973886bcbbec57b4]: Commencement: Art. 37 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-c27a1e9e8aae7fa2973886bcbbec57b4]: Commencement: Art. 37 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-fda498f723c321b82c2da00a8c0bb610]: Commencement: Art. 38 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-fda498f723c321b82c2da00a8c0bb610]: Commencement: Art. 38 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-4a714bbb1f72351e2b3f7bfb20f8ab14]: Commencement: Art. 39 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-4a714bbb1f72351e2b3f7bfb20f8ab14]: Commencement: Art. 39 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-29326fcbdbe188f8ed8689b5a4f42eb8]: Commencement: Art. 40 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-29326fcbdbe188f8ed8689b5a4f42eb8]: Commencement: Art. 40 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-8325965365f2fc4ba1af6fdee7bf27d6]: Commencement: Art. 41 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-8325965365f2fc4ba1af6fdee7bf27d6]: Commencement: Art. 41 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-6a8ef621255a616ae5070b4b3028f963]: Commencement: Art. 42 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-6a8ef621255a616ae5070b4b3028f963]: Commencement: Art. 42 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
 [^f00004]: Footnote: O.J. No. L 63, 6.3.2015, p.1.
 
 [^f00005]: Footnote: O.J. No. L 296, 25.10.2012, p.1.
 
-[^key-250eb2686b0ed13b7929480789d32a15]: Commencement: Art. 43 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-250eb2686b0ed13b7929480789d32a15]: Commencement: Art. 43 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-d721236986d02d9ebe1e6f29a1892999]: Commencement: Art. 44 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-d721236986d02d9ebe1e6f29a1892999]: Commencement: Art. 44 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-e4565de141e33f7a61df446016681767]: Commencement: Art. 45 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-e4565de141e33f7a61df446016681767]: Commencement: Art. 45 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-b1f353d4a9714c3ae13b69402207ac16]: Commencement: Art. 46 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-b1f353d4a9714c3ae13b69402207ac16]: Commencement: Art. 46 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-793a013f2ba55df02eda9b39ee991888]: Commencement: Art. 47 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-793a013f2ba55df02eda9b39ee991888]: Commencement: Art. 47 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-af00405cc39e11c68e1882f6d6e9cb13]: Commencement: Art. 48 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-af00405cc39e11c68e1882f6d6e9cb13]: Commencement: Art. 48 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
 [^f00006]: Footnote: [1982 c.16](https://www.legislation.gov.uk/ukpga/1982/16); section 108(1) was amended by the Airports Act [1986 (c.31)](https://www.legislation.gov.uk/ukpga/1986/31), section 83(1) and Schedule 4, paragraph 8(2).
 
-[^key-6f9a9e31f4b1f165eb82ca56c16723d0]: Commencement: Art. 49 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-6f9a9e31f4b1f165eb82ca56c16723d0]: Commencement: Art. 49 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-7132e54566b224a14a1b67845900fdbd]: Commencement: Art. 50 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-7132e54566b224a14a1b67845900fdbd]: Commencement: Art. 50 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-664f50b40fb8ea109a9cf92f9c942c34]: Commencement: Art. 51 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-664f50b40fb8ea109a9cf92f9c942c34]: Commencement: Art. 51 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-fd9fc39baadacc06e7fd6b8f3007b12c]: Commencement: Art. 52 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-fd9fc39baadacc06e7fd6b8f3007b12c]: Commencement: Art. 52 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-fcdc2817c832656874e20da49242f5fe]: Commencement: Art. 53 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-fcdc2817c832656874e20da49242f5fe]: Commencement: Art. 53 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-3eae90a8f6152a944d6d14329c7d4219]: Commencement: Art. 54 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-3eae90a8f6152a944d6d14329c7d4219]: Commencement: Art. 54 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-95eeea46dcfda95a70cadada560e9273]: Commencement: Art. 55 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-95eeea46dcfda95a70cadada560e9273]: Commencement: Art. 55 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-104a7bf765dfea808604a6b8da85ad40]: Commencement: Art. 56 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-104a7bf765dfea808604a6b8da85ad40]: Commencement: Art. 56 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-0bd6b4e28acae31028458544c4d222df]: Commencement: Art. 57 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-0bd6b4e28acae31028458544c4d222df]: Commencement: Art. 57 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-4ff62e8ce44162d8712b143154459592]: Commencement: Art. 58 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-4ff62e8ce44162d8712b143154459592]: Commencement: Art. 58 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-bc3b368c7e427fab66161b6ebeef45a9]: Commencement: Art. 59 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-bc3b368c7e427fab66161b6ebeef45a9]: Commencement: Art. 59 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
 
-[^key-7f0e1f8b5d65e5bebee8e1ed3fd4db1a]: Commencement: Art. 60 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)
+[^c-7f0e1f8b5d65e5bebee8e1ed3fd4db1a]: Commencement: Art. 60 in force at 14.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1)

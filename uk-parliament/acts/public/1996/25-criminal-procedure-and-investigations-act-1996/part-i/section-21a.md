@@ -37,7 +37,7 @@ summary: ''
 
 (4) In preparing the code, the Secretary of State shall consult—
 
-- (za)[^c19142491] the National Police Chiefs' Council[^key-41f13d72b617311213e1c05332424b22] ;
+- (za)[^c19142491] the National Police Chiefs' Council[^c-41f13d72b617311213e1c05332424b22] ;
 - (a) to the extent the code applies to England and Wales—
   - (i) [^c19142511]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) the General Council of the Bar;
@@ -78,6 +78,6 @@ is relevant to any question arising in the proceedings, the provision or failure
 
 [^c19142491]: Textual amendment: S. 21A(4)(za) inserted (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 6](https://www.legislation.gov.uk/ukpga/2006/48/section/6), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 4 para. 9(a)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/4/paragraph/9/a); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(d)](https://www.legislation.gov.uk/uksi/2007/709/article/3/d)
 
-[^key-41f13d72b617311213e1c05332424b22]: Textual amendment: Words in s. 21A(4)(za) substituted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 14 paras. 4](https://www.legislation.gov.uk/ukpga/2017/3/schedule/14/paragraph/4), [5(b)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/14/paragraph/5/b); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 41](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/41)
+[^c-41f13d72b617311213e1c05332424b22]: Textual amendment: Words in s. 21A(4)(za) substituted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 14 paras. 4](https://www.legislation.gov.uk/ukpga/2017/3/schedule/14/paragraph/4), [5(b)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/14/paragraph/5/b); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 41](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/41)
 
 [^c19142511]: Textual amendment: S. 21A(4)(a)(i) repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 6](https://www.legislation.gov.uk/ukpga/2006/48/section/6), [52](https://www.legislation.gov.uk/ukpga/2006/48/section/52), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 4 para. 9(b)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/4/paragraph/9/b), [Sch. 15 Pt. 1(B)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/B); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(d)(r)](https://www.legislation.gov.uk/uksi/2007/709/article/3/d/r)

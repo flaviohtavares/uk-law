@@ -32,7 +32,7 @@ summary: ''
 
 Banks And Banking
 
-The Deposit Guarantee Scheme (Amendment) Regulations 2015 (revoked)[^key-f0a6a8dd6443ab5ecd6f4a6894d649e6]
+The Deposit Guarantee Scheme (Amendment) Regulations 2015 (revoked)[^c-f0a6a8dd6443ab5ecd6f4a6894d649e6]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 at 1.00 p.m. on 3rd July 2015
 
-[^key-f0a6a8dd6443ab5ecd6f4a6894d649e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0a6a8dd6443ab5ecd6f4a6894d649e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f0a6a8dd6443ab5ecd6f4a6894d649e6]
+## 1. Citation and commencement[^c-f0a6a8dd6443ab5ecd6f4a6894d649e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Deposit Guarantee Scheme Regulations[^key-f0a6a8dd6443ab5ecd6f4a6894d649e6]
+## 2. Amendment of the Deposit Guarantee Scheme Regulations[^c-f0a6a8dd6443ab5ecd6f4a6894d649e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0a6a8dd6443ab5ecd6f4a6894d649e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0a6a8dd6443ab5ecd6f4a6894d649e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f0a6a8dd6443ab5ecd6f4a6894d649e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0a6a8dd6443ab5ecd6f4a6894d649e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f0a6a8dd6443ab5ecd6f4a6894d649e6]: Textual amendment: Regulations revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/e), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/4)
+[^c-f0a6a8dd6443ab5ecd6f4a6894d649e6]: Textual amendment: Regulations revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/e), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/4)

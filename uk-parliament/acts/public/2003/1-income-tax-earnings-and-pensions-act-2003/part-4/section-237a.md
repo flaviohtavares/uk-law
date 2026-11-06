@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 237A. Vehicle-battery charging[^key-6ade9b7312f69ad4f934384260daa07a]
+## 237A. Vehicle-battery charging[^c-6ade9b7312f69ad4f934384260daa07a]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ade9b7312f69ad4f934384260daa07a]: Textual amendment: [S. 237A](https://www.legislation.gov.uk/ukpga/2003/1/section/237A) inserted (with effect in accordance with s. 8(2) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2019/1/section/8/1)
+[^c-6ade9b7312f69ad4f934384260daa07a]: Textual amendment: [S. 237A](https://www.legislation.gov.uk/ukpga/2003/1/section/237A) inserted (with effect in accordance with s. 8(2) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2019/1/section/8/1)

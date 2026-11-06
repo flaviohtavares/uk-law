@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Storage and transport[^key-858488a89cb65a91a8398020468dfb06]
+## 60. Storage and transport[^c-858488a89cb65a91a8398020468dfb06]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Each importer and distributor must ensure that, while a civil explosive is their
 
 ## Annotations
 
-[^key-858488a89cb65a91a8398020468dfb06]: Textual amendment: Pt. 13 (regs. 39-77) substituted for Pt. 13 (regs. 39-42) (and therefore original regs. 43, 44 renumbered as new regs. 78, 79, new reg. 80 substituted for original reg. 45 and original regs. 46-49 renumbered as new regs. 81-84) (20.4.2016) by [The Explosives Regulations 2014 (Amendment) Regulations 2016 (S.I. 2016/315)](https://www.legislation.gov.uk/uksi/2016/315), [regs. 1](https://www.legislation.gov.uk/uksi/2016/315/regulation/1), [7](https://www.legislation.gov.uk/uksi/2016/315/regulation/7), [8](https://www.legislation.gov.uk/uksi/2016/315/regulation/8), [9](https://www.legislation.gov.uk/uksi/2016/315/regulation/9) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/315/regulation/2/1), [15](https://www.legislation.gov.uk/uksi/2016/315/regulation/15))
+[^c-858488a89cb65a91a8398020468dfb06]: Textual amendment: Pt. 13 (regs. 39-77) substituted for Pt. 13 (regs. 39-42) (and therefore original regs. 43, 44 renumbered as new regs. 78, 79, new reg. 80 substituted for original reg. 45 and original regs. 46-49 renumbered as new regs. 81-84) (20.4.2016) by [The Explosives Regulations 2014 (Amendment) Regulations 2016 (S.I. 2016/315)](https://www.legislation.gov.uk/uksi/2016/315), [regs. 1](https://www.legislation.gov.uk/uksi/2016/315/regulation/1), [7](https://www.legislation.gov.uk/uksi/2016/315/regulation/7), [8](https://www.legislation.gov.uk/uksi/2016/315/regulation/8), [9](https://www.legislation.gov.uk/uksi/2016/315/regulation/9) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/315/regulation/2/1), [15](https://www.legislation.gov.uk/uksi/2016/315/regulation/15))

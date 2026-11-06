@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 269. Payments made by employers and members to occupational pension schemes[^key-a668d3dcdc85cf51e2c5a35189ff6bad]
+## 269. Payments made by employers and members to occupational pension schemes[^c-a668d3dcdc85cf51e2c5a35189ff6bad]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a668d3dcdc85cf51e2c5a35189ff6bad]: Commencement: S. 269 in force at 1.7.2005 for specified purposes and 6.4.2006 in so far as not already in force by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(15)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/15), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2005/1720/schedule/part/2)
+[^c-a668d3dcdc85cf51e2c5a35189ff6bad]: Commencement: S. 269 in force at 1.7.2005 for specified purposes and 6.4.2006 in so far as not already in force by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(15)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/15), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2005/1720/schedule/part/2)

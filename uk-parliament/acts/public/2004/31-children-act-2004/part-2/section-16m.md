@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16M. Child death reviews[^key-43ff5b245671d85122c11d70e776f6fe]
+## 16M. Child death reviews[^c-43ff5b245671d85122c11d70e776f6fe]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43ff5b245671d85122c11d70e776f6fe]: Textual amendment: S. 16M and cross-heading inserted (29.6.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 24](https://www.legislation.gov.uk/ukpga/2017/16/section/24), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/m)
+[^c-43ff5b245671d85122c11d70e776f6fe]: Textual amendment: S. 16M and cross-heading inserted (29.6.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 24](https://www.legislation.gov.uk/ukpga/2017/16/section/24), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/m)

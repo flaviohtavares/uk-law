@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) In the circumstances mentioned in subsection (2) below, the FCA or the PRA[^key-b157c2219f4ce93db3f21bb8dcd04af2] may—
+(1) In the circumstances mentioned in subsection (2) below, the FCA or the PRA[^c-b157c2219f4ce93db3f21bb8dcd04af2] may—
 
 - (a) appoint one or more competent inspectors to investigate and report on the affairs of a friendly society; or
 - (b) call a special meeting of a friendly society to consider its affairs; or
@@ -74,14 +74,14 @@ but paragraph (a) above shall not apply to a registered society with branches (r
 
 and the provisions of this subsection and any direction given under it shall have effect notwithstanding anything in the rules of the society.
 
-(11) In this section “**the corresponding Companies Act limit**”, in relation to security for the payment of the costs of an investigation, is £5,000 or such other sum as is specified for the time being in an order under section 431(4) of the [^c15383571]Companies Act 1985 [^key-ad11dfa42c00f8cac2688a92ab5c243a]....
+(11) In this section “**the corresponding Companies Act limit**”, in relation to security for the payment of the costs of an investigation, is £5,000 or such other sum as is specified for the time being in an order under section 431(4) of the [^c15383571]Companies Act 1985 [^c-ad11dfa42c00f8cac2688a92ab5c243a]....
 
 ## Annotations
 
 [^c15383441]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/1992/40/section/66) wholly in force; [s. 66](https://www.legislation.gov.uk/ukpga/1992/40/section/66) not in force at Royal Assent see [s. 126(2)](https://www.legislation.gov.uk/ukpga/1992/40/section/126/2); [s. 66](https://www.legislation.gov.uk/ukpga/1992/40/section/66) in force for certain purposes at 13.1.1993 by [S.I. 1993/16](https://www.legislation.gov.uk/uksi/1993/16), [art. 2](https://www.legislation.gov.uk/uksi/1993/16/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1993/16/schedule/1); [s. 66](https://www.legislation.gov.uk/ukpga/1992/40/section/66) in force for all remaining purposes at 28.4.1993 by 1993/1186, art. 2(2), Sch. 2
 
-[^key-b157c2219f4ce93db3f21bb8dcd04af2]: Textual amendment: Words in [s. 66](https://www.legislation.gov.uk/ukpga/1992/40/section/66) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 26](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/26) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-b157c2219f4ce93db3f21bb8dcd04af2]: Textual amendment: Words in [s. 66](https://www.legislation.gov.uk/ukpga/1992/40/section/66) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 26](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/26) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15383571]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 
-[^key-ad11dfa42c00f8cac2688a92ab5c243a]: Textual amendment: Words in [s. 66(11)](https://www.legislation.gov.uk/ukpga/1992/40/section/66/11) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 133(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/133/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-ad11dfa42c00f8cac2688a92ab5c243a]: Textual amendment: Words in [s. 66(11)](https://www.legislation.gov.uk/ukpga/1992/40/section/66/11) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 133(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/133/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

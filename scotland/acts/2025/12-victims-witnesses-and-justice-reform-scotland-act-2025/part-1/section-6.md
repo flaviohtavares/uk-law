@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Power to work with others[^key-228820deed47ca3baa78dc3ec8496baf]
+## 6. Power to work with others[^c-228820deed47ca3baa78dc3ec8496baf]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-228820deed47ca3baa78dc3ec8496baf]: Commencement: S. 6 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-228820deed47ca3baa78dc3ec8496baf]: Commencement: S. 6 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

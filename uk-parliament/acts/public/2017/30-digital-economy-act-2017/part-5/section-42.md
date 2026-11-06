@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Information disclosed by the Revenue and Customs[^key-8490bb8011ea4c8a61ab6798c634e174][^key-42f7d43f1e023d7875d45d930a92c6cd][^key-a7a772babd91a02dd80677101e0fd767][^key-714d05f3bcd825736e772d7cfdd22463]
+## 42. Information disclosed by the Revenue and Customs[^c-8490bb8011ea4c8a61ab6798c634e174][^c-42f7d43f1e023d7875d45d930a92c6cd][^c-a7a772babd91a02dd80677101e0fd767][^c-714d05f3bcd825736e772d7cfdd22463]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,10 +35,10 @@ summary: ''
 
 ## Annotations
 
-[^key-8490bb8011ea4c8a61ab6798c634e174]: Commencement: S. 42 in force at 1.4.2018 for specified purposes by [S.I. 2018/342](https://www.legislation.gov.uk/wsi/2018/342), [reg. 3(1)(f)](https://www.legislation.gov.uk/wsi/2018/342/regulation/3/1/f)
+[^c-8490bb8011ea4c8a61ab6798c634e174]: Commencement: S. 42 in force at 1.4.2018 for specified purposes by [S.I. 2018/342](https://www.legislation.gov.uk/wsi/2018/342), [reg. 3(1)(f)](https://www.legislation.gov.uk/wsi/2018/342/regulation/3/1/f)
 
-[^key-42f7d43f1e023d7875d45d930a92c6cd]: Commencement: S. 42 in force at 1.5.2018 for E.W.S. by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/h)
+[^c-42f7d43f1e023d7875d45d930a92c6cd]: Commencement: S. 42 in force at 1.5.2018 for E.W.S. by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/h)
 
-[^key-a7a772babd91a02dd80677101e0fd767]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2017/30/section/42) in force at 12.2.2026 for N.I. by [S.I. 2026/126](https://www.legislation.gov.uk/uksi/2026/126), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/126/regulation/2/d)
+[^c-a7a772babd91a02dd80677101e0fd767]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2017/30/section/42) in force at 12.2.2026 for N.I. by [S.I. 2026/126](https://www.legislation.gov.uk/uksi/2026/126), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/126/regulation/2/d)
 
-[^key-714d05f3bcd825736e772d7cfdd22463]: Modification: Pt. 5 Ch. 1: functions made exercisable concurrently (30.9.2020) by [The Transfer of Functions (Digital Government) Order 2020 (S.I. 2020/940)](https://www.legislation.gov.uk/uksi/2020/940), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/940/article/1/2), [2](https://www.legislation.gov.uk/uksi/2020/940/article/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/940/article/5))
+[^c-714d05f3bcd825736e772d7cfdd22463]: Modification: Pt. 5 Ch. 1: functions made exercisable concurrently (30.9.2020) by [The Transfer of Functions (Digital Government) Order 2020 (S.I. 2020/940)](https://www.legislation.gov.uk/uksi/2020/940), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/940/article/1/2), [2](https://www.legislation.gov.uk/uksi/2020/940/article/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/940/article/5))

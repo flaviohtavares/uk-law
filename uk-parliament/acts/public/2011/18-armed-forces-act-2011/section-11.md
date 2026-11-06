@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-13a3d76f915e7c7bd70bf256b1aeca74][^key-a316142d9553d607a05415c357e097db] After section 93 of AFA 2006 insert—
+(1)[^c-13a3d76f915e7c7bd70bf256b1aeca74][^c-a316142d9553d607a05415c357e097db] After section 93 of AFA 2006 insert—
 
 > **CHAPTER 3A — Testing for alcohol and drugs on suspicion of offence**
 >
@@ -256,12 +256,12 @@ summary: ''
 >
 > (2) In this Chapter any reference to a service policeman includes a Royal Navy coxswain.
 
-(2)[^key-76e8fb42645f9bf4caace635cbe9ae7f] In consequence of the provision made by subsection (1), sections 306 and 307 of AFA 2006 (testing for alcohol and drugs after serious incident) are repealed.
+(2)[^c-76e8fb42645f9bf4caace635cbe9ae7f] In consequence of the provision made by subsection (1), sections 306 and 307 of AFA 2006 (testing for alcohol and drugs after serious incident) are repealed.
 
 ## Annotations
 
-[^key-13a3d76f915e7c7bd70bf256b1aeca74]: Commencement: [S. 11(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/11/1) in force in so far as not already in force at 1.11.2013 by [S.I. 2013/2501](https://www.legislation.gov.uk/uksi/2013/2501), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/2501/article/3/b)
+[^c-13a3d76f915e7c7bd70bf256b1aeca74]: Commencement: [S. 11(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/11/1) in force in so far as not already in force at 1.11.2013 by [S.I. 2013/2501](https://www.legislation.gov.uk/uksi/2013/2501), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/2501/article/3/b)
 
-[^key-a316142d9553d607a05415c357e097db]: Commencement: [S. 11(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/11/1) in force for specified purposes at 8.3.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/669/article/3/c)
+[^c-a316142d9553d607a05415c357e097db]: Commencement: [S. 11(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/11/1) in force for specified purposes at 8.3.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/669/article/3/c)
 
-[^key-76e8fb42645f9bf4caace635cbe9ae7f]: Commencement: [S. 11(2)](https://www.legislation.gov.uk/ukpga/2011/18/section/11/2) in force at 1.11.2013 by [S.I. 2013/2501](https://www.legislation.gov.uk/uksi/2013/2501), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/2501/article/3/b)
+[^c-76e8fb42645f9bf4caace635cbe9ae7f]: Commencement: [S. 11(2)](https://www.legislation.gov.uk/ukpga/2011/18/section/11/2) in force at 1.11.2013 by [S.I. 2013/2501](https://www.legislation.gov.uk/uksi/2013/2501), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/2501/article/3/b)

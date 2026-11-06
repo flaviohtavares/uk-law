@@ -111,7 +111,7 @@ In accordance with section 3(5) of that Act, the Department of Finance and Perso
 - [Section 39 — Refusal to be medically examined](part-4/section-39.md)
 - [Section 39A — Elections and Chapter 4A](part-4/section-39a.md)
 
-#### CHAPTER 4A — Ill-health benefits 2015 – 2024[^key-a007457b7a119191fe5203b67f26cd77]
+#### CHAPTER 4A — Ill-health benefits 2015 – 2024[^c-a007457b7a119191fe5203b67f26cd77]
 
 - [Section 39B — Application of this Chapter](part-4/section-39b.md)
 - [Section 39C — Provision of information](part-4/section-39c.md)
@@ -528,4 +528,4 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^c22511481]: Marginal citation: 2014\. c35.
 
-[^key-a007457b7a119191fe5203b67f26cd77]: Textual amendment: Regs. 39A-39I inserted (with effect in accordance with reg. 1) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/190)](https://www.legislation.gov.uk/nisr/2025/190), [regs. 1](https://www.legislation.gov.uk/nisr/2025/190/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2025/190/regulation/2/3)
+[^c-a007457b7a119191fe5203b67f26cd77]: Textual amendment: Regs. 39A-39I inserted (with effect in accordance with reg. 1) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/190)](https://www.legislation.gov.uk/nisr/2025/190), [regs. 1](https://www.legislation.gov.uk/nisr/2025/190/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2025/190/regulation/2/3)

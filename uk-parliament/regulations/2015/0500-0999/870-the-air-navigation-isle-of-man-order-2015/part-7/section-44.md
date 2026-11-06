@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Licence holder not to act a member of flight crew when unfit[^key-0a9dbcd57f9788fbd4138152d3d9b7e5]
+## 44. Licence holder not to act a member of flight crew when unfit[^c-0a9dbcd57f9788fbd4138152d3d9b7e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person must not act as a member of the flight crew of an aircraft registered i
 
 ## Annotations
 
-[^key-0a9dbcd57f9788fbd4138152d3d9b7e5]: Commencement: [Art. 44](https://www.legislation.gov.uk/uksi/2015/870/article/44) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-0a9dbcd57f9788fbd4138152d3d9b7e5]: Commencement: [Art. 44](https://www.legislation.gov.uk/uksi/2015/870/article/44) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

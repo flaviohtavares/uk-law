@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Maintenance of authorised development[^key-b3b9b46a6c174da79cf71e37b6f8b662]
+## 4. Maintenance of authorised development[^c-b3b9b46a6c174da79cf71e37b6f8b662]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3b9b46a6c174da79cf71e37b6f8b662]: Commencement: Art. 4 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-b3b9b46a6c174da79cf71e37b6f8b662]: Commencement: Art. 4 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)

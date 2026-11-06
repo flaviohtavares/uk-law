@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 41. Provisions as to parish churches[^key-8500e429b43826acead2bbd1cb8ed22d]
+## 41. Provisions as to parish churches[^c-8500e429b43826acead2bbd1cb8ed22d]
 
 *Extent: E*
 
@@ -52,4 +52,4 @@ In this subsection “register books” and “records” have respectively the 
 
 ## Annotations
 
-[^key-8500e429b43826acead2bbd1cb8ed22d]: Commencement: S. 41 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-8500e429b43826acead2bbd1cb8ed22d]: Commencement: S. 41 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

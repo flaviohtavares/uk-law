@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 8/ATODLEN 8 — Form of consignee’s return to producer or holder/Ffurf ateb y traddodai i’r cynhyrchydd neu’r deiliad[^key-7ebb83cba35b496b6fd6b05e283fb39d]
+## SCHEDULE 8/ATODLEN 8 — Form of consignee’s return to producer or holder/Ffurf ateb y traddodai i’r cynhyrchydd neu’r deiliad[^c-7ebb83cba35b496b6fd6b05e283fb39d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Regulation/Rheoliad 54
 
 ## Annotations
 
-[^key-7ebb83cba35b496b6fd6b05e283fb39d]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/wsi/2005/1806/schedule/8) substituted (14.8.2019) by [The Hazardous Waste (Wales) (Amendment) Regulations 2019 (S.I. 2019/1165)](https://www.legislation.gov.uk/wsi/2019/1165), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1165/regulation/1/2), [Sch.](https://www.legislation.gov.uk/wsi/2019/1165/schedule)
+[^c-7ebb83cba35b496b6fd6b05e283fb39d]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/wsi/2005/1806/schedule/8) substituted (14.8.2019) by [The Hazardous Waste (Wales) (Amendment) Regulations 2019 (S.I. 2019/1165)](https://www.legislation.gov.uk/wsi/2019/1165), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1165/regulation/1/2), [Sch.](https://www.legislation.gov.uk/wsi/2019/1165/schedule)

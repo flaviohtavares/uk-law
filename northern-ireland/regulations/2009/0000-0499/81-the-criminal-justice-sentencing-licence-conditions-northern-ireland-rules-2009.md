@@ -44,32 +44,32 @@ To be laid before Parliament
 
 The Secretary of State makes the following Rules in exercise of the powers conferred by Article 24(1) and (3) of the Criminal Justice (Northern Ireland) Order 2008[^f00001], and having regard to the purposes of the supervision of offenders while on licence set out in Article 24(8) of that Order.
 
-## 1. Citation, commencement and interpretation[^key-cd7c826a4c5d5ae8f967029acf36826b]
+## 1. Citation, commencement and interpretation[^c-cd7c826a4c5d5ae8f967029acf36826b]
 
 (1) These Rules may be cited as the Criminal Justice (Sentencing) (Licence Conditions) (Northern Ireland) Rules 2009 and shall come into operation on 1 April 2009.
 
 (2) In these Rules “the Order” means the Criminal Justice (Northern Ireland) Order 2008.
 
-- “supervising officer” means a probation officer or such other person or organisation for the time being responsible for supervising specific offenders on licence in accordance with arrangements made by the Department of Justice;[^key-729868b363aabd521a6eddc36fdef18d]
+- “supervising officer” means a probation officer or such other person or organisation for the time being responsible for supervising specific offenders on licence in accordance with arrangements made by the Department of Justice;[^c-729868b363aabd521a6eddc36fdef18d]
 
-## 2. Standard Conditions of Licence[^key-40e570cfa79037d161b82173c7693c6a]
+## 2. Standard Conditions of Licence[^c-40e570cfa79037d161b82173c7693c6a]
 
 (1) The conditions set out in paragraphs (2) and (3) are the standard conditions prescribed for the purposes of Article 24(1) of the Order.
 
 (2) The prisoner must —
 
-- (a) Keep in touch with the supervising officer[^key-cabfe787f7928b8186a4d71fc5bcba05] as instructed by the supervising officer ;
-- (b) Receive visits from the supervising officer[^key-e01ff99373935f4320c9d77b1c58c697] as instructed by the supervising officer ;
-- (c) Permanently reside at an address approved by the supervising officer[^key-336d3ffbbd55bd28426d87fbb0ba7865] and obtain the prior permission of the supervising officer for any change of address;
-- (d) Undertake such work, including voluntary work, as approved by the supervising officer[^key-943d2abfd7634d1998d8cf3c6e653d72] , and obtain the prior permission of the supervising officer for any proposed change; and
-- (e) Not travel outside the United Kingdom, the Channel Islands or the Isle of Man without the prior permission of the supervising officer[^key-0ad9c99ca4972ac98b519c4997820b0c] , except where the prisoner is deported or removed from the United Kingdom in accordance with the Immigration Act 1971[^f00002]or the Immigration and Asylum Act 1999[^f00003].
+- (a) Keep in touch with the supervising officer[^c-cabfe787f7928b8186a4d71fc5bcba05] as instructed by the supervising officer ;
+- (b) Receive visits from the supervising officer[^c-e01ff99373935f4320c9d77b1c58c697] as instructed by the supervising officer ;
+- (c) Permanently reside at an address approved by the supervising officer[^c-336d3ffbbd55bd28426d87fbb0ba7865] and obtain the prior permission of the supervising officer for any change of address;
+- (d) Undertake such work, including voluntary work, as approved by the supervising officer[^c-943d2abfd7634d1998d8cf3c6e653d72] , and obtain the prior permission of the supervising officer for any proposed change; and
+- (e) Not travel outside the United Kingdom, the Channel Islands or the Isle of Man without the prior permission of the supervising officer[^c-0ad9c99ca4972ac98b519c4997820b0c] , except where the prisoner is deported or removed from the United Kingdom in accordance with the Immigration Act 1971[^f00002]or the Immigration and Asylum Act 1999[^f00003].
 
 (3) The prisoner must not —
 
 - (a) Behave in a way which undermines the purposes of the release on licence, which are the protection of the public, the prevention of re-offending and the rehabilitation of the offender;
 - (b) Commit any offence.
 
-## 3. Other Conditions of Licence[^key-47c4f4785480e86f146ab121693a933f]
+## 3. Other Conditions of Licence[^c-47c4f4785480e86f146ab121693a933f]
 
 (1) Conditions of a kind set out in paragraph (2) are prescribed for the purposes of Article 24(3)(b) of the Order.
 
@@ -83,7 +83,7 @@ The Secretary of State makes the following Rules in exercise of the powers confe
 - (f) A requirement that the prisoner complies with a curfew arrangement;
 - (g) A requirement that the prisoner complies with an electronic monitoring arrangement;
 - (h) A restriction on the prisoner’s freedom of movement which is not a requirement referred to in sub-paragraph (f);
-- (i) Any other requirement relating to the prisoner’s supervision in the community by a supervising officer[^key-8568867a0f3a409a7746caa41ec34cc3] .
+- (i) Any other requirement relating to the prisoner’s supervision in the community by a supervising officer[^c-8568867a0f3a409a7746caa41ec34cc3] .
 
 (3) For the purpose of these Rules, “curfew arrangement”, means an arrangement under which a prisoner is required to remain at a specific place for a specified period of time which is not an arrangement contained in a condition imposed by Article 26(1) of the Order.
 
@@ -103,26 +103,26 @@ These Rules prescribe the standard and other conditions which may be contained i
 
 [^f00001]: Footnote: [S1 2008/1216 (NI)](https://www.legislation.gov.uk/nisi/2008/1216)
 
-[^key-cd7c826a4c5d5ae8f967029acf36826b]: Commencement: Rule 1 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/81/rule/1/1)
+[^c-cd7c826a4c5d5ae8f967029acf36826b]: Commencement: Rule 1 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/81/rule/1/1)
 
-[^key-729868b363aabd521a6eddc36fdef18d]: Textual amendment: Words in [rule 1](https://www.legislation.gov.uk/nisr/2009/81/rule/1) inserted (6.9.2021) by [The Criminal Justice (Sentencing) (Licence Conditions) (Northern Ireland) (Amendment) Rules 2021 (S.R. 2021/183)](https://www.legislation.gov.uk/nisr/2021/183), [art. 2(2)](https://www.legislation.gov.uk/nisr/2021/183/article/2/2), [rule 1](https://www.legislation.gov.uk/nisr/2021/183/rule/1)
+[^c-729868b363aabd521a6eddc36fdef18d]: Textual amendment: Words in [rule 1](https://www.legislation.gov.uk/nisr/2009/81/rule/1) inserted (6.9.2021) by [The Criminal Justice (Sentencing) (Licence Conditions) (Northern Ireland) (Amendment) Rules 2021 (S.R. 2021/183)](https://www.legislation.gov.uk/nisr/2021/183), [art. 2(2)](https://www.legislation.gov.uk/nisr/2021/183/article/2/2), [rule 1](https://www.legislation.gov.uk/nisr/2021/183/rule/1)
 
-[^key-40e570cfa79037d161b82173c7693c6a]: Commencement: Rule 2 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/81/rule/1/1)
+[^c-40e570cfa79037d161b82173c7693c6a]: Commencement: Rule 2 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/81/rule/1/1)
 
-[^key-cabfe787f7928b8186a4d71fc5bcba05]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2009/81/rule/2) substituted (6.9.2021) by [The Criminal Justice (Sentencing) (Licence Conditions) (Northern Ireland) (Amendment) Rules 2021 (S.R. 2021/183)](https://www.legislation.gov.uk/nisr/2021/183), [art. 3](https://www.legislation.gov.uk/nisr/2021/183/article/3), [rule 1](https://www.legislation.gov.uk/nisr/2021/183/rule/1)
+[^c-cabfe787f7928b8186a4d71fc5bcba05]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2009/81/rule/2) substituted (6.9.2021) by [The Criminal Justice (Sentencing) (Licence Conditions) (Northern Ireland) (Amendment) Rules 2021 (S.R. 2021/183)](https://www.legislation.gov.uk/nisr/2021/183), [art. 3](https://www.legislation.gov.uk/nisr/2021/183/article/3), [rule 1](https://www.legislation.gov.uk/nisr/2021/183/rule/1)
 
-[^key-e01ff99373935f4320c9d77b1c58c697]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2009/81/rule/2) substituted (6.9.2021) by [The Criminal Justice (Sentencing) (Licence Conditions) (Northern Ireland) (Amendment) Rules 2021 (S.R. 2021/183)](https://www.legislation.gov.uk/nisr/2021/183), [art. 3](https://www.legislation.gov.uk/nisr/2021/183/article/3), [rule 1](https://www.legislation.gov.uk/nisr/2021/183/rule/1)
+[^c-e01ff99373935f4320c9d77b1c58c697]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2009/81/rule/2) substituted (6.9.2021) by [The Criminal Justice (Sentencing) (Licence Conditions) (Northern Ireland) (Amendment) Rules 2021 (S.R. 2021/183)](https://www.legislation.gov.uk/nisr/2021/183), [art. 3](https://www.legislation.gov.uk/nisr/2021/183/article/3), [rule 1](https://www.legislation.gov.uk/nisr/2021/183/rule/1)
 
-[^key-336d3ffbbd55bd28426d87fbb0ba7865]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2009/81/rule/2) substituted (6.9.2021) by [The Criminal Justice (Sentencing) (Licence Conditions) (Northern Ireland) (Amendment) Rules 2021 (S.R. 2021/183)](https://www.legislation.gov.uk/nisr/2021/183), [art. 3](https://www.legislation.gov.uk/nisr/2021/183/article/3), [rule 1](https://www.legislation.gov.uk/nisr/2021/183/rule/1)
+[^c-336d3ffbbd55bd28426d87fbb0ba7865]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2009/81/rule/2) substituted (6.9.2021) by [The Criminal Justice (Sentencing) (Licence Conditions) (Northern Ireland) (Amendment) Rules 2021 (S.R. 2021/183)](https://www.legislation.gov.uk/nisr/2021/183), [art. 3](https://www.legislation.gov.uk/nisr/2021/183/article/3), [rule 1](https://www.legislation.gov.uk/nisr/2021/183/rule/1)
 
-[^key-943d2abfd7634d1998d8cf3c6e653d72]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2009/81/rule/2) substituted (6.9.2021) by [The Criminal Justice (Sentencing) (Licence Conditions) (Northern Ireland) (Amendment) Rules 2021 (S.R. 2021/183)](https://www.legislation.gov.uk/nisr/2021/183), [art. 3](https://www.legislation.gov.uk/nisr/2021/183/article/3), [rule 1](https://www.legislation.gov.uk/nisr/2021/183/rule/1)
+[^c-943d2abfd7634d1998d8cf3c6e653d72]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2009/81/rule/2) substituted (6.9.2021) by [The Criminal Justice (Sentencing) (Licence Conditions) (Northern Ireland) (Amendment) Rules 2021 (S.R. 2021/183)](https://www.legislation.gov.uk/nisr/2021/183), [art. 3](https://www.legislation.gov.uk/nisr/2021/183/article/3), [rule 1](https://www.legislation.gov.uk/nisr/2021/183/rule/1)
 
-[^key-0ad9c99ca4972ac98b519c4997820b0c]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2009/81/rule/2) substituted (6.9.2021) by [The Criminal Justice (Sentencing) (Licence Conditions) (Northern Ireland) (Amendment) Rules 2021 (S.R. 2021/183)](https://www.legislation.gov.uk/nisr/2021/183), [art. 3](https://www.legislation.gov.uk/nisr/2021/183/article/3), [rule 1](https://www.legislation.gov.uk/nisr/2021/183/rule/1)
+[^c-0ad9c99ca4972ac98b519c4997820b0c]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2009/81/rule/2) substituted (6.9.2021) by [The Criminal Justice (Sentencing) (Licence Conditions) (Northern Ireland) (Amendment) Rules 2021 (S.R. 2021/183)](https://www.legislation.gov.uk/nisr/2021/183), [art. 3](https://www.legislation.gov.uk/nisr/2021/183/article/3), [rule 1](https://www.legislation.gov.uk/nisr/2021/183/rule/1)
 
 [^f00002]: Footnote: [1971 C.77](https://www.legislation.gov.uk/ukpga/1971/77)
 
 [^f00003]: Footnote: [1999 C.33](https://www.legislation.gov.uk/ukpga/1999/33)
 
-[^key-47c4f4785480e86f146ab121693a933f]: Commencement: Rule 3 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/81/rule/1/1)
+[^c-47c4f4785480e86f146ab121693a933f]: Commencement: Rule 3 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/81/rule/1/1)
 
-[^key-8568867a0f3a409a7746caa41ec34cc3]: Textual amendment: Words in [rule 3](https://www.legislation.gov.uk/nisr/2009/81/rule/3) substituted (6.9.2021) by [The Criminal Justice (Sentencing) (Licence Conditions) (Northern Ireland) (Amendment) Rules 2021 (S.R. 2021/183)](https://www.legislation.gov.uk/nisr/2021/183), [art. 4](https://www.legislation.gov.uk/nisr/2021/183/article/4), [rule 1](https://www.legislation.gov.uk/nisr/2021/183/rule/1)
+[^c-8568867a0f3a409a7746caa41ec34cc3]: Textual amendment: Words in [rule 3](https://www.legislation.gov.uk/nisr/2009/81/rule/3) substituted (6.9.2021) by [The Criminal Justice (Sentencing) (Licence Conditions) (Northern Ireland) (Amendment) Rules 2021 (S.R. 2021/183)](https://www.legislation.gov.uk/nisr/2021/183), [art. 4](https://www.legislation.gov.uk/nisr/2021/183/article/4), [rule 1](https://www.legislation.gov.uk/nisr/2021/183/rule/1)

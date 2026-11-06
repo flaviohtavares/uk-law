@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Notice of intention to withdraw or suspend authorisation under section 29 of the Financial Services Act: time for reference not expired[^key-8ca9ea62ed5bf6257fd95361d1029fc3]
+## 10. Notice of intention to withdraw or suspend authorisation under section 29 of the Financial Services Act: time for reference not expired[^c-8ca9ea62ed5bf6257fd95361d1029fc3]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ the notice has effect after commencement as if it were a notice given under sect
 
 ## Annotations
 
-[^key-8ca9ea62ed5bf6257fd95361d1029fc3]: Commencement: Art. 10 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-8ca9ea62ed5bf6257fd95361d1029fc3]: Commencement: Art. 10 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

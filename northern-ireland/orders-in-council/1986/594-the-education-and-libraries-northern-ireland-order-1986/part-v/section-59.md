@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 59. Provisions supplementary to Article 58[^key-905014674b009ada320c715b4def1491][^key-f880cd2d01b5fc4191aa399ca0f11685]
+## 59. Provisions supplementary to Article 58[^c-905014674b009ada320c715b4def1491][^c-f880cd2d01b5fc4191aa399ca0f11685]
 
 *Extent: N.I.*
 
@@ -31,7 +31,7 @@ as the Department may determine.
 
 (3) The Department may, in such circumstances as it thinks fit, direct—
 
-- (a) that paragraph (1) of Article 58 shall not apply to the Authority[^key-b411148a1ff6ad3f10e8cd22b37183f6];
+- (a) that paragraph (1) of Article 58 shall not apply to the Authority[^c-b411148a1ff6ad3f10e8cd22b37183f6];
 - (b) that paragraph (5) of Article 58 shall not apply to the trustees or Board of Governors of a voluntary grammar school or to the Board of Governors of a grant‐maintained integrated school.
 
 [^c17007911]... .
@@ -42,12 +42,12 @@ as the Department may determine.
 
 ## Annotations
 
-[^key-905014674b009ada320c715b4def1491]: Modification: [Art. 59](https://www.legislation.gov.uk/nisi/1986/594/article/59) power to disapply or modify conferred (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 17 para. 17](https://www.legislation.gov.uk/ukpga/2020/7/schedule/17/paragraph/17) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
+[^c-905014674b009ada320c715b4def1491]: Modification: [Art. 59](https://www.legislation.gov.uk/nisi/1986/594/article/59) power to disapply or modify conferred (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 17 para. 17](https://www.legislation.gov.uk/ukpga/2020/7/schedule/17/paragraph/17) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
 
-[^key-f880cd2d01b5fc4191aa399ca0f11685]: Modification: [Art. 59](https://www.legislation.gov.uk/nisi/1986/594/article/59) expiry of earlier affecting provision 2020 c. 7, Sch. 16 para. 17 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-f880cd2d01b5fc4191aa399ca0f11685]: Modification: [Art. 59](https://www.legislation.gov.uk/nisi/1986/594/article/59) expiry of earlier affecting provision 2020 c. 7, Sch. 16 para. 17 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
 [^c17007901]: Textual amendment: [1997 NI 15](https://www.legislation.gov.uk/nisi/1997)
 
 [^c17007911]: Textual amendment: [1989 NI 20](https://www.legislation.gov.uk/nisi/1989)
 
-[^key-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

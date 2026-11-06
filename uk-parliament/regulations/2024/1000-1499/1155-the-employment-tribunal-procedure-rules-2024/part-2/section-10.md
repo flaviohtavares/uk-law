@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Presenting the claim[^key-4d5e0b5b817e622db4301d27fe4dc786]
+## 10. Presenting the claim[^c-4d5e0b5b817e622db4301d27fe4dc786]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d5e0b5b817e622db4301d27fe4dc786]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2024/1155/rule/10) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-4d5e0b5b817e622db4301d27fe4dc786]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2024/1155/rule/10) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Retirement date for holders of judicial offices etc[^key-781faf7e53d09f334677978ed33e60f7]
+## 121. Retirement date for holders of judicial offices etc[^c-781faf7e53d09f334677978ed33e60f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 1 makes provision about the retirement date for holders of judicial off
 
 ## Annotations
 
-[^key-781faf7e53d09f334677978ed33e60f7]: Commencement: S. 121 in force at Royal Assent, see [s. 131(1)(4)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1/4)(a)(i)
+[^c-781faf7e53d09f334677978ed33e60f7]: Commencement: S. 121 in force at Royal Assent, see [s. 131(1)(4)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1/4)(a)(i)

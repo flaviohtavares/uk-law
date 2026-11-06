@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Review of Part 9B and Part S of Schedule 1[^key-793864e3e349ad58832cb9f472fede4d]
+## 56. Review of Part 9B and Part S of Schedule 1[^c-793864e3e349ad58832cb9f472fede4d]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-793864e3e349ad58832cb9f472fede4d]: Textual amendment: [Reg. 56](https://www.legislation.gov.uk/uksi/2010/2214/regulation/56) inserted (E.) (15.6.2022) by [The Building Regulations etc. (Amendment) (England) (No. 2) Regulations 2021 (S.I. 2021/1392)](https://www.legislation.gov.uk/uksi/2021/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1392/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2021/1392/regulation/2/4) (with [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/1392/regulation/1/4), [4](https://www.legislation.gov.uk/uksi/2021/1392/regulation/4))
+[^c-793864e3e349ad58832cb9f472fede4d]: Textual amendment: [Reg. 56](https://www.legislation.gov.uk/uksi/2010/2214/regulation/56) inserted (E.) (15.6.2022) by [The Building Regulations etc. (Amendment) (England) (No. 2) Regulations 2021 (S.I. 2021/1392)](https://www.legislation.gov.uk/uksi/2021/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1392/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2021/1392/regulation/2/4) (with [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/1392/regulation/1/4), [4](https://www.legislation.gov.uk/uksi/2021/1392/regulation/4))

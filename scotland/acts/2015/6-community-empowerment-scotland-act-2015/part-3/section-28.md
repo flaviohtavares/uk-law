@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Duty to establish and maintain outcome improvement process[^key-0e96683c738c30b99fb61587d968586e]
+## 28. Duty to establish and maintain outcome improvement process[^c-0e96683c738c30b99fb61587d968586e]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ A public service authority that gives notice under section 26(5) must—
 
 ## Annotations
 
-[^key-0e96683c738c30b99fb61587d968586e]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2015/6/section/28) in force at 1.4.2017 by [S.S.I. 2017/40](https://www.legislation.gov.uk/ssi/2017/40), [art. 2](https://www.legislation.gov.uk/ssi/2017/40/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/40/schedule)
+[^c-0e96683c738c30b99fb61587d968586e]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2015/6/section/28) in force at 1.4.2017 by [S.S.I. 2017/40](https://www.legislation.gov.uk/ssi/2017/40), [art. 2](https://www.legislation.gov.uk/ssi/2017/40/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/40/schedule)

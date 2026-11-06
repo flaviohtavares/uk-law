@@ -31,7 +31,7 @@ summary: ''
 
 Court Of Session
 
-Act of Sederunt (Rules of the Court of Session Amendment No. 6) (Terrorist Asset-Freezing etc. Act 2010) 2010 (revoked)[^key-1a72a88f29b0155c2d876cbd941f7c5d]
+Act of Sederunt (Rules of the Court of Session Amendment No. 6) (Terrorist Asset-Freezing etc. Act 2010) 2010 (revoked)[^c-1a72a88f29b0155c2d876cbd941f7c5d]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 21st December 2010
 
-[^key-1a72a88f29b0155c2d876cbd941f7c5d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a72a88f29b0155c2d876cbd941f7c5d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement etc.[^key-1a72a88f29b0155c2d876cbd941f7c5d]
+## 1. Citation, commencement etc.[^c-1a72a88f29b0155c2d876cbd941f7c5d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Terrorist Asset-Freezing etc. Act 2010[^key-1a72a88f29b0155c2d876cbd941f7c5d]
+## 2. Terrorist Asset-Freezing etc. Act 2010[^c-1a72a88f29b0155c2d876cbd941f7c5d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1a72a88f29b0155c2d876cbd941f7c5d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a72a88f29b0155c2d876cbd941f7c5d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1a72a88f29b0155c2d876cbd941f7c5d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a72a88f29b0155c2d876cbd941f7c5d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1a72a88f29b0155c2d876cbd941f7c5d]: Textual amendment: Instrument revoked (29.3.2019) by [Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Sanctions and Anti-Money Laundering) 2019 (S.S.I. 2019/72)](https://www.legislation.gov.uk/ssi/2019/72), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/72/paragraph/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2019/72/paragraph/3/1) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/72/paragraph/4))
+[^c-1a72a88f29b0155c2d876cbd941f7c5d]: Textual amendment: Instrument revoked (29.3.2019) by [Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Sanctions and Anti-Money Laundering) 2019 (S.S.I. 2019/72)](https://www.legislation.gov.uk/ssi/2019/72), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/72/paragraph/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2019/72/paragraph/3/1) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/72/paragraph/4))

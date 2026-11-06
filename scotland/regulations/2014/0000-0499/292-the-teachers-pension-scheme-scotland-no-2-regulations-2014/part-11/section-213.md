@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 213. Guaranteed minimum pension[^key-18799d36b0337a648f9c965acd07d858]
+## 213. Guaranteed minimum pension[^c-18799d36b0337a648f9c965acd07d858]
 
 *Extent: S*
 
@@ -56,7 +56,7 @@ summary: ''
 
 ## Annotations
 
-[^key-18799d36b0337a648f9c965acd07d858]: Commencement: [Reg. 213](https://www.legislation.gov.uk/ssi/2014/292/regulation/213) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-18799d36b0337a648f9c965acd07d858]: Commencement: [Reg. 213](https://www.legislation.gov.uk/ssi/2014/292/regulation/213) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
 [^f00037]: Footnote: Section 14 was amended by PA 1995, Schedules 5 and 7: section 15A was inserted by WRPA 1999, section 32; section 16 was amended by PA 1995, Schedule 5 and by WRPA 1999, Schedule 2.
 

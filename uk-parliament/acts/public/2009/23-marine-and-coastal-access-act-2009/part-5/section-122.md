@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Amendment, revocation and review of orders designating MCZs[^c2007881][^key-1471286656cdc6029731e5c7c47be9f6][^key-abb0f2511ea32c491cef7fe18a3d9d06][^key-abb0f2511ea32c491cef7fe18a3d9d06]
+## 122. Amendment, revocation and review of orders designating MCZs[^c2007881][^c-1471286656cdc6029731e5c7c47be9f6][^c-abb0f2511ea32c491cef7fe18a3d9d06][^c-abb0f2511ea32c491cef7fe18a3d9d06]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ that the order should be amended or revoked.
 
 [^c2007881]: Commencement: S. 122 partly in force; s. 122 in force for specified purposes at Royal Assent see s. 324(1)(c); s. 122 in force for further specified purposes at 12.1.2010 see s. 324(2)(b)(i)
 
-[^key-1471286656cdc6029731e5c7c47be9f6]: Commencement: S. 122 in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/a)
+[^c-1471286656cdc6029731e5c7c47be9f6]: Commencement: S. 122 in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/a)
 
-[^key-abb0f2511ea32c491cef7fe18a3d9d06]: Modification: Pt. 5 Ch. 1 applied (with modifications) by S.I. 1994/2716, reg. 36(3)(4) (as substituted (E.W.) (12.1.2010 for specified purposes, 12.12.2014 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/b/i), [Sch. 11 para. 4(1)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/11/paragraph/4/1); [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b))
+[^c-abb0f2511ea32c491cef7fe18a3d9d06]: Modification: Pt. 5 Ch. 1 applied (with modifications) by S.I. 1994/2716, reg. 36(3)(4) (as substituted (E.W.) (12.1.2010 for specified purposes, 12.12.2014 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/b/i), [Sch. 11 para. 4(1)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/11/paragraph/4/1); [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b))

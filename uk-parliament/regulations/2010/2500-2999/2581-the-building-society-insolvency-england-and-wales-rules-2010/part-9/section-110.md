@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 110. Resignation of the building society liquidator[^key-e0272184214fe5137397e41c26fed2cd]
+## 110. Resignation of the building society liquidator[^c-e0272184214fe5137397e41c26fed2cd]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0272184214fe5137397e41c26fed2cd]: Commencement: Rule 110 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-e0272184214fe5137397e41c26fed2cd]: Commencement: Rule 110 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

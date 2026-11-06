@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Officer responsible for financial administration of certain authorities.[^key-5f6f1cce943f89380cd502934432040e]
+## 6. Officer responsible for financial administration of certain authorities.[^c-5f6f1cce943f89380cd502934432040e]
 
 *Extent: E+W+S*
 
@@ -68,7 +68,7 @@ and any such regulations may contain such incidental provision and such suppleme
 
 ## Annotations
 
-[^key-5f6f1cce943f89380cd502934432040e]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1989/42/part/I) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2023/1432/article/5/4)
+[^c-5f6f1cce943f89380cd502934432040e]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1989/42/part/I) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2023/1432/article/5/4)
 
 [^c15263431]: Marginal citation: 1897 c. cxxxiii.
 

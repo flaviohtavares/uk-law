@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 112. Assistance for part-time courses[^key-27505fb5f18490517212ae844eb76f34]
+## 112. Assistance for part-time courses[^c-27505fb5f18490517212ae844eb76f34]
 
 *Extent: N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-27505fb5f18490517212ae844eb76f34]: Commencement: [Reg. 112](https://www.legislation.gov.uk/nisr/2007/195/regulation/112) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-27505fb5f18490517212ae844eb76f34]: Commencement: [Reg. 112](https://www.legislation.gov.uk/nisr/2007/195/regulation/112) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
 [^f00059]: Footnote: [1980 c.44](https://www.legislation.gov.uk/ukpga/1980/44); section 73(f) was amended by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 29(1) and the Education (Graduate Endowment and Student Support) (Scotland) Act [2001 (asp 6)](https://www.legislation.gov.uk/asp/2001/6), section 3(2). Section 73B was inserted by section 29(2) of the Teaching and Higher Education Act 1998. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46)

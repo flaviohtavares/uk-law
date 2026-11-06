@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**101.**[^key-90bd795851cbca4396a797894d62fa0b] In section 59 (provision of accommodation by voluntary organisations)—
+**101.**[^c-90bd795851cbca4396a797894d62fa0b] In section 59 (provision of accommodation by voluntary organisations)—
 
 - (a) in subsection (3A)[^f00123] after “Regulations” insert “made in relation to England”;
 - (b) after subsection (3A) insert—
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-90bd795851cbca4396a797894d62fa0b]: Commencement: Reg. 101 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-90bd795851cbca4396a797894d62fa0b]: Commencement: Reg. 101 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00123]: Footnote: Subsection (3A) was inserted into section 59 by the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), Schedule 1, paragraph 2(1) and (6).

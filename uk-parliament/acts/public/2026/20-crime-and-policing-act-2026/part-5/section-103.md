@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Intimate image material: reporting and registration[^key-4c68cf6d0f900cb25c6124b4c87f6a5a][^key-59e65d3c89fe9afab8517ac15d80b1e7]
+## 103. Intimate image material: reporting and registration[^c-4c68cf6d0f900cb25c6124b4c87f6a5a][^c-59e65d3c89fe9afab8517ac15d80b1e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 14 makes provision about the reporting and registration of intimate ima
 
 ## Annotations
 
-[^key-4c68cf6d0f900cb25c6124b4c87f6a5a]: Commencement: S. 103 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-4c68cf6d0f900cb25c6124b4c87f6a5a]: Commencement: S. 103 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-59e65d3c89fe9afab8517ac15d80b1e7]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2026/20/section/103) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(k)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/k)
+[^c-59e65d3c89fe9afab8517ac15d80b1e7]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2026/20/section/103) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(k)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/k)

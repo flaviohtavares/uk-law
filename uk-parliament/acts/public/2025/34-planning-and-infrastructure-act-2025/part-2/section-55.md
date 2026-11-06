@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Directions giving deemed planning permission: special regard to heritage assets[^key-e0aeb739ca4f7a48e916da6ba5d67ef6][^key-c283528c4098802b0c55a1e88c15fe05]
+## 55. Directions giving deemed planning permission: special regard to heritage assets[^c-e0aeb739ca4f7a48e916da6ba5d67ef6][^c-c283528c4098802b0c55a1e88c15fe05]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e0aeb739ca4f7a48e916da6ba5d67ef6]: Commencement: S. 55(1) in force at 18.12.2026, see [s. 118(2)(d)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/d)(i)
+[^c-e0aeb739ca4f7a48e916da6ba5d67ef6]: Commencement: S. 55(1) in force at 18.12.2026, see [s. 118(2)(d)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/d)(i)
 
-[^key-c283528c4098802b0c55a1e88c15fe05]: Commencement: S. 55(2) comes into force in accordance with s. 118(2)(d)(ii)
+[^c-c283528c4098802b0c55a1e88c15fe05]: Commencement: S. 55(2) comes into force in accordance with s. 118(2)(d)(ii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27A. Regulation 27A Pensionable earnings: scheme years 2015/16 to 2023/24[^key-25a3414c9a6b0ee41623dbce06a9e8aa]
+## 27A. Regulation 27A Pensionable earnings: scheme years 2015/16 to 2023/24[^c-25a3414c9a6b0ee41623dbce06a9e8aa]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25a3414c9a6b0ee41623dbce06a9e8aa]: Textual amendment: [Reg. 27A](https://www.legislation.gov.uk/ssi/2015/94/regulation/27A) inserted (with effect from 1.4.2025) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/2), [23](https://www.legislation.gov.uk/ssi/2025/259/regulation/23)
+[^c-25a3414c9a6b0ee41623dbce06a9e8aa]: Textual amendment: [Reg. 27A](https://www.legislation.gov.uk/ssi/2015/94/regulation/27A) inserted (with effect from 1.4.2025) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/2), [23](https://www.legislation.gov.uk/ssi/2025/259/regulation/23)

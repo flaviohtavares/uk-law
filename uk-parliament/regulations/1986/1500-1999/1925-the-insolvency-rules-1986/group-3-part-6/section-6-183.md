@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.183. Application by interested party under s. 316[^key-0220b7a71a5457436f3fb80dc006ac01]
+## 6.183. Application by interested party under s. 316[^c-0220b7a71a5457436f3fb80dc006ac01]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ If within the period of 28 days mentioned in section 316(1) the trustee applies 
 
 ## Annotations
 
-[^key-0220b7a71a5457436f3fb80dc006ac01]: Commencement: [Rule 6.183](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.183) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-0220b7a71a5457436f3fb80dc006ac01]: Commencement: [Rule 6.183](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.183) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00186]: Marginal citation: \[FORM 6.62\]

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Working jointly with specified persons[^key-b0b570a026696b74744cb92b2a082e2d]
+## 66. Working jointly with specified persons[^c-b0b570a026696b74744cb92b2a082e2d]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0b570a026696b74744cb92b2a082e2d]: Commencement: [S. 66](https://www.legislation.gov.uk/anaw/2019/3/section/66) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-b0b570a026696b74744cb92b2a082e2d]: Commencement: [S. 66](https://www.legislation.gov.uk/anaw/2019/3/section/66) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

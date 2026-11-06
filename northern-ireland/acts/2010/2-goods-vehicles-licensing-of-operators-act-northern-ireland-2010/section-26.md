@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Revocation, disqualification, etc: supplementary provisions[^key-54625ac630f87a2b6186cd426df4957b]
+## 26. Revocation, disqualification, etc: supplementary provisions[^c-54625ac630f87a2b6186cd426df4957b]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ shall not take effect until the expiry of the time within which an appeal may be
 
 ## Annotations
 
-[^key-54625ac630f87a2b6186cd426df4957b]: Commencement: S. 26 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-54625ac630f87a2b6186cd426df4957b]: Commencement: S. 26 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))

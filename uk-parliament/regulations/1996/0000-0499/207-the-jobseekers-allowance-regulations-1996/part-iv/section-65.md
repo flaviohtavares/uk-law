@@ -27,12 +27,12 @@ summary: ''
 
 (4) Paragraphs (1), (2) and (3) do not apply to a young person falling within regulation 61(1)(a) or (f).
 
-(5) Paragraphs (1) and (2) do not apply to a young person [^key-1eb4754cb3d8dd5240550eafe5f08d81]... who has had his jobseeker’s allowance reduced in accordance with regulation 63 or regulation 68 because he has done an act or omission falling within section 19A(2)(a), (d), (e), (f) or (g) or section 19(2)(c) or (d) or in accordance with section 19(2)(a) or (b)[^key-265f1c5c079d822b728aa6fe2b37bed0] read with Part V but paragraph (3) does apply to such a young person.
+(5) Paragraphs (1) and (2) do not apply to a young person [^c-1eb4754cb3d8dd5240550eafe5f08d81]... who has had his jobseeker’s allowance reduced in accordance with regulation 63 or regulation 68 because he has done an act or omission falling within section 19A(2)(a), (d), (e), (f) or (g) or section 19(2)(c) or (d) or in accordance with section 19(2)(a) or (b)[^c-265f1c5c079d822b728aa6fe2b37bed0] read with Part V but paragraph (3) does apply to such a young person.
 
 (6) “Training" in section 7 and in this regulation means suitable training.
 
 ## Annotations
 
-[^key-1eb4754cb3d8dd5240550eafe5f08d81]: Textual amendment: Words in [reg. 65(5)](https://www.legislation.gov.uk/uksi/1996/207/regulation/65/5) omitted (22.10.2012) by virtue of [The Jobseeker’s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [5(15)(a)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/5/15/a)
+[^c-1eb4754cb3d8dd5240550eafe5f08d81]: Textual amendment: Words in [reg. 65(5)](https://www.legislation.gov.uk/uksi/1996/207/regulation/65/5) omitted (22.10.2012) by virtue of [The Jobseeker’s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [5(15)(a)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/5/15/a)
 
-[^key-265f1c5c079d822b728aa6fe2b37bed0]: Textual amendment: Words in [reg. 65(5)](https://www.legislation.gov.uk/uksi/1996/207/regulation/65/5) substituted (22.10.2012) by [The Jobseeker’s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [5(15)(b)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/5/15/b)
+[^c-265f1c5c079d822b728aa6fe2b37bed0]: Textual amendment: Words in [reg. 65(5)](https://www.legislation.gov.uk/uksi/1996/207/regulation/65/5) substituted (22.10.2012) by [The Jobseeker’s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [5(15)(b)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/5/15/b)

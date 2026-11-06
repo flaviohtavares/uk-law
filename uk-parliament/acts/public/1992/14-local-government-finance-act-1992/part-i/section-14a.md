@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14A. Regulations about powers to require information[^key-1151965ed2e5155fc93de0ef2beb4cac]
+## 14A. Regulations about powers to require information[^c-1151965ed2e5155fc93de0ef2beb4cac]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ with such modifications as the appropriate authority thinks fit.
 
 ## Annotations
 
-[^key-1151965ed2e5155fc93de0ef2beb4cac]: Textual amendment: Ss. 14A-14D inserted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2012/17/section/14/2)
+[^c-1151965ed2e5155fc93de0ef2beb4cac]: Textual amendment: Ss. 14A-14D inserted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2012/17/section/14/2)

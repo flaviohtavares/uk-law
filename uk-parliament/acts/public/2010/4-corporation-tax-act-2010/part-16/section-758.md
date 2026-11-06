@@ -28,7 +28,7 @@ summary: ''
 - (b) the borrower or a person connected with the borrower makes a disposal of an asset (“the security”) to or for the benefit of the lender or a person connected with the lender, and
 - (c) the lender or a person connected with the lender is entitled to payments in respect of the security.
 
-(2A)[^key-24d1be347708963a2ede8c0cdafc7b45] For the purposes of subsection (2)(c) it does not matter if an entitlement of the lender or a person connected with the lender is subject to any condition.
+(2A)[^c-24d1be347708963a2ede8c0cdafc7b45] For the purposes of subsection (2)(c) it does not matter if an entitlement of the lender or a person connected with the lender is subject to any condition.
 
 (3) Condition B is that in accordance with generally accepted accounting practice—
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24d1be347708963a2ede8c0cdafc7b45]: Textual amendment: S. 758(2A) inserted (with effect in accordance with Sch. 13 para. 42 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 13 para. 38](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/paragraph/38)
+[^c-24d1be347708963a2ede8c0cdafc7b45]: Textual amendment: S. 758(2A) inserted (with effect in accordance with Sch. 13 para. 42 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 13 para. 38](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/paragraph/38)

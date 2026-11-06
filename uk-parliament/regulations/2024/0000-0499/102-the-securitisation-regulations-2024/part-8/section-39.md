@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Imposition of temporary ban on STS notifications[^key-338a2e857e29d17797a914b56e79b43b]
+## 39. Imposition of temporary ban on STS notifications[^c-338a2e857e29d17797a914b56e79b43b]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ the FCA may, for such period as it considers appropriate, temporarily ban the or
 
 ## Annotations
 
-[^key-338a2e857e29d17797a914b56e79b43b]: Commencement: Reg. 39 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-338a2e857e29d17797a914b56e79b43b]: Commencement: Reg. 39 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)

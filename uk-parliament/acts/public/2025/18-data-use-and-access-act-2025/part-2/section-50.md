@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Trust mark for use by registered persons[^key-56d8eaf44d200b7015c41f8afe525b13][^key-b0d10b077971bbec523a760dcf60b5f2]
+## 50. Trust mark for use by registered persons[^c-56d8eaf44d200b7015c41f8afe525b13][^c-b0d10b077971bbec523a760dcf60b5f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-56d8eaf44d200b7015c41f8afe525b13]: Commencement: S. 50 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-56d8eaf44d200b7015c41f8afe525b13]: Commencement: S. 50 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-b0d10b077971bbec523a760dcf60b5f2]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2025/18/section/50) in force at 1.12.2025 by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)
+[^c-b0d10b077971bbec523a760dcf60b5f2]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2025/18/section/50) in force at 1.12.2025 by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)

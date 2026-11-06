@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Collective investment schemes with property divided into separate parts.[^key-caa9acfa578b19f19d3608f8f6009e5f]
+## 102. Collective investment schemes with property divided into separate parts.[^c-caa9acfa578b19f19d3608f8f6009e5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-caa9acfa578b19f19d3608f8f6009e5f]: Textual amendment: S. 102 omitted (8.6.2013) by virtue of [The Collective Investment Schemes (Tax Transparent Funds, Exchanges, Mergers and Schemes of Reconstruction) Regulations 2013 (S.I. 2013/1400)](https://www.legislation.gov.uk/uksi/2013/1400), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2013/1400/regulation/9) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/2))
+[^c-caa9acfa578b19f19d3608f8f6009e5f]: Textual amendment: S. 102 omitted (8.6.2013) by virtue of [The Collective Investment Schemes (Tax Transparent Funds, Exchanges, Mergers and Schemes of Reconstruction) Regulations 2013 (S.I. 2013/1400)](https://www.legislation.gov.uk/uksi/2013/1400), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2013/1400/regulation/9) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 154. Administrator to allow inspection of proofs[^key-7f4167dda21b69866051653a3c7fc461]
+## 154. Administrator to allow inspection of proofs[^c-7f4167dda21b69866051653a3c7fc461]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f4167dda21b69866051653a3c7fc461]: Commencement: [Rule 154](https://www.legislation.gov.uk/uksi/2011/1301/rule/154) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-7f4167dda21b69866051653a3c7fc461]: Commencement: [Rule 154](https://www.legislation.gov.uk/uksi/2011/1301/rule/154) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

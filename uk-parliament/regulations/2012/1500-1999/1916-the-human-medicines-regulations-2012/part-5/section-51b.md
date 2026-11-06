@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51B. Application for UKMA(UK) relating to generic medicinal products[^key-8f23afe585553ed30e55b6fa5cb26539]
+## 51B. Application for UKMA(UK) relating to generic medicinal products[^c-8f23afe585553ed30e55b6fa5cb26539]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f23afe585553ed30e55b6fa5cb26539]: Textual amendment: [Reg. 51B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/51B) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2024/832/regulation/36)
+[^c-8f23afe585553ed30e55b6fa5cb26539]: Textual amendment: [Reg. 51B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/51B) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2024/832/regulation/36)

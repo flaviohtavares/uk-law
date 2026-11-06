@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Liability of officers of body corporate etc[^key-ed5190b71c43372052a757c256d0e7c0][^key-10021170cddee19dfcc686cf6fabd922][^key-251d277cb66ba9d42777e1b61f49f427]
+## 40. Liability of officers of body corporate etc[^c-ed5190b71c43372052a757c256d0e7c0][^c-10021170cddee19dfcc686cf6fabd922][^c-251d277cb66ba9d42777e1b61f49f427]
 
 *Extent: E+W*
 
@@ -42,8 +42,8 @@ In the Building Act 1984 before section 113 insert—
 
 ## Annotations
 
-[^key-ed5190b71c43372052a757c256d0e7c0]: Commencement: S. 40 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(iii)(c)
+[^c-ed5190b71c43372052a757c256d0e7c0]: Commencement: S. 40 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(iii)(c)
 
-[^key-10021170cddee19dfcc686cf6fabd922]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2022/30/section/40) in force at 1.10.2023 except in relation to W. by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/j)
+[^c-10021170cddee19dfcc686cf6fabd922]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2022/30/section/40) in force at 1.10.2023 except in relation to W. by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/j)
 
-[^key-251d277cb66ba9d42777e1b61f49f427]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2022/30/section/40) in force at 6.4.2024 for W. by [S.I. 2024/207](https://www.legislation.gov.uk/wsi/2024/207), [reg. 2(d)(i)](https://www.legislation.gov.uk/wsi/2024/207/regulation/2/d/i) (with [regs. 3](https://www.legislation.gov.uk/wsi/2024/207/regulation/3), [4](https://www.legislation.gov.uk/wsi/2024/207/regulation/4), [8-12](https://www.legislation.gov.uk/wsi/2024/207/regulation/8))
+[^c-251d277cb66ba9d42777e1b61f49f427]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2022/30/section/40) in force at 6.4.2024 for W. by [S.I. 2024/207](https://www.legislation.gov.uk/wsi/2024/207), [reg. 2(d)(i)](https://www.legislation.gov.uk/wsi/2024/207/regulation/2/d/i) (with [regs. 3](https://www.legislation.gov.uk/wsi/2024/207/regulation/3), [4](https://www.legislation.gov.uk/wsi/2024/207/regulation/4), [8-12](https://www.legislation.gov.uk/wsi/2024/207/regulation/8))

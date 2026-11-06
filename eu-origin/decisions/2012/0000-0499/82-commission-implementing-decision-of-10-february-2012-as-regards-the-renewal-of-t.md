@@ -42,99 +42,99 @@ as regards the renewal of the authorisation for continued marketing of products 
 
 (2012/82/EU) (revoked)
 
-[^key-2841626737b1605391e1478ec6fadec6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2841626737b1605391e1478ec6fadec6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Genetically modified organism and unique identifier[^key-2841626737b1605391e1478ec6fadec6]
+## Article 1. Genetically modified organism and unique identifier[^c-2841626737b1605391e1478ec6fadec6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Authorisation[^key-2841626737b1605391e1478ec6fadec6]
+## Article 2. Authorisation[^c-2841626737b1605391e1478ec6fadec6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Labelling[^key-2841626737b1605391e1478ec6fadec6]
+## Article 3. Labelling[^c-2841626737b1605391e1478ec6fadec6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Monitoring for environmental effects[^key-2841626737b1605391e1478ec6fadec6]
+## Article 4. Monitoring for environmental effects[^c-2841626737b1605391e1478ec6fadec6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Register[^key-2841626737b1605391e1478ec6fadec6]
+## Article 5. Register[^c-2841626737b1605391e1478ec6fadec6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Authorisation holder[^key-2841626737b1605391e1478ec6fadec6]
+## Article 6. Authorisation holder[^c-2841626737b1605391e1478ec6fadec6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Repeal[^key-2841626737b1605391e1478ec6fadec6]
+## Article 7. Repeal[^c-2841626737b1605391e1478ec6fadec6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Validity[^key-2841626737b1605391e1478ec6fadec6]
+## Article 8. Validity[^c-2841626737b1605391e1478ec6fadec6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Addressee[^key-2841626737b1605391e1478ec6fadec6]
+## Article 9. Addressee[^c-2841626737b1605391e1478ec6fadec6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-2841626737b1605391e1478ec6fadec6]
+## ANNEX[^c-2841626737b1605391e1478ec6fadec6]
 
-[^key-2841626737b1605391e1478ec6fadec6](a)
+[^c-2841626737b1605391e1478ec6fadec6](a)
 
 **Applicant and authorisation holder**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2841626737b1605391e1478ec6fadec6](b)
+[^c-2841626737b1605391e1478ec6fadec6](b)
 
 **Designation and specification of the products**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2841626737b1605391e1478ec6fadec6](c)
+[^c-2841626737b1605391e1478ec6fadec6](c)
 
 **Labelling**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2841626737b1605391e1478ec6fadec6](d)
+[^c-2841626737b1605391e1478ec6fadec6](d)
 
 **Method for detection**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2841626737b1605391e1478ec6fadec6](e)
+[^c-2841626737b1605391e1478ec6fadec6](e)
 
 **Unique identifier**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2841626737b1605391e1478ec6fadec6](f)
+[^c-2841626737b1605391e1478ec6fadec6](f)
 
 **Information required under Annex II to the Cartagena Protocol on Biosafety to the Convention on Biological Diversity**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2841626737b1605391e1478ec6fadec6](g)
+[^c-2841626737b1605391e1478ec6fadec6](g)
 
 **Conditions or restrictions on the placing on the market, use or handling of the products**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2841626737b1605391e1478ec6fadec6](h)
+[^c-2841626737b1605391e1478ec6fadec6](h)
 
 **Monitoring plan**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2841626737b1605391e1478ec6fadec6](i)
+[^c-2841626737b1605391e1478ec6fadec6](i)
 
 **Post-market monitoring requirements for the use of the food for human consumption**
 
@@ -142,4 +142,4 @@ as regards the renewal of the authorisation for continued marketing of products 
 
 ## Annotations
 
-[^key-2841626737b1605391e1478ec6fadec6]: Textual amendment: Decision revoked (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 6 para. 12](https://www.legislation.gov.uk/uksi/2025/361/schedule/6/paragraph/12) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-2841626737b1605391e1478ec6fadec6]: Textual amendment: Decision revoked (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 6 para. 12](https://www.legislation.gov.uk/uksi/2025/361/schedule/6/paragraph/12) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

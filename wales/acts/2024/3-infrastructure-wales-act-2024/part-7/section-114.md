@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 114. Order to permit steps required by notice of unauthorised development[^key-c3bb12449e18b835108ed7e97fa497d2][^key-7214331015d833e138f8f2be6af29e48]
+## 114. Order to permit steps required by notice of unauthorised development[^c-c3bb12449e18b835108ed7e97fa497d2][^c-7214331015d833e138f8f2be6af29e48]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c3bb12449e18b835108ed7e97fa497d2]: Commencement: S. 114 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-c3bb12449e18b835108ed7e97fa497d2]: Commencement: S. 114 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-7214331015d833e138f8f2be6af29e48]: Commencement: [S. 114](https://www.legislation.gov.uk/asc/2024/3/section/114) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-7214331015d833e138f8f2be6af29e48]: Commencement: [S. 114](https://www.legislation.gov.uk/asc/2024/3/section/114) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)

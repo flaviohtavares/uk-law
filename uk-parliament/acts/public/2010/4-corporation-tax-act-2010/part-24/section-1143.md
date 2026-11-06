@@ -25,9 +25,9 @@ summary: ''
 - (a) a fixed place of business is maintained there for the purpose of carrying on activities for the company, or
 - (b) an agent carries on activities there for and on behalf of the company.
 
-(2) The condition is that, in relation to the business of the company as a whole, the activities carried on are only of a preparatory or auxiliary character and are not part of a fragmented business operation[^key-204993b21ee25020693287775baa5cd5].
+(2) The condition is that, in relation to the business of the company as a whole, the activities carried on are only of a preparatory or auxiliary character and are not part of a fragmented business operation[^c-204993b21ee25020693287775baa5cd5].
 
-(2A)[^key-01403a67b456a5c136891c91e026cec7] Activities are “part of a fragmented business operation” if—
+(2A)[^c-01403a67b456a5c136891c91e026cec7] Activities are “part of a fragmented business operation” if—
 
 - (a) they are carried on (whether at the same place or at different places in the same territory) by the company or a person closely related to the company,
 - (b) they constitute complementary functions that are part of a cohesive business operation, and
@@ -40,7 +40,7 @@ summary: ''
 
 (2C) A person who is not a company is to be treated for the purposes of subsection (2B)(b) as having a permanent establishment in a territory if, were the person a company, the person would have a permanent establishment in the territory.
 
-(2CA)[^key-ad08406fbac8cac497b186e106dd67d1] For the purposes of this section, one person (“**A**”) is closely related to another person (“**B**”) if, based on all the relevant facts and circumstances, A has control of B or A and B are under the control of the same persons, including if the 50% investment condition is met in relation to A and B.
+(2CA)[^c-ad08406fbac8cac497b186e106dd67d1] For the purposes of this section, one person (“**A**”) is closely related to another person (“**B**”) if, based on all the relevant facts and circumstances, A has control of B or A and B are under the control of the same persons, including if the 50% investment condition is met in relation to A and B.
 
 (2E) The 50% investment condition is met in relation to A and B if—
 
@@ -49,7 +49,7 @@ summary: ''
 
 and section 259ND of TIOPA 2010 (meaning of “50% investment”) applies for the purposes of determining whether a person has a “50% investment".
 
-(3) In this section[^key-066a260b3c17836dc0091949e80e1306] “activities of a preparatory or auxiliary character” include (without prejudice to the generality of that expression)—
+(3) In this section[^c-066a260b3c17836dc0091949e80e1306] “activities of a preparatory or auxiliary character” include (without prejudice to the generality of that expression)—
 
 - (a) the use of facilities for the purpose of storage, display or delivery of goods or merchandise belonging to the company,
 - (b) the maintenance of a stock of goods or merchandise belonging to the company for the purpose of storage, display or delivery,
@@ -58,10 +58,10 @@ and section 259ND of TIOPA 2010 (meaning of “50% investment”) applies for th
 
 ## Annotations
 
-[^key-204993b21ee25020693287775baa5cd5]: Textual amendment: Words in s. 1143(2) inserted (with effect in accordance with s. 21(5)(6) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 21(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/21/2)
+[^c-204993b21ee25020693287775baa5cd5]: Textual amendment: Words in s. 1143(2) inserted (with effect in accordance with s. 21(5)(6) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 21(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/21/2)
 
-[^key-01403a67b456a5c136891c91e026cec7]: Textual amendment: S. 1143(2A)-(2E) inserted (with effect in accordance with s. 21(5)(6) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2019/1/section/21/3)
+[^c-01403a67b456a5c136891c91e026cec7]: Textual amendment: S. 1143(2A)-(2E) inserted (with effect in accordance with s. 21(5)(6) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2019/1/section/21/3)
 
-[^key-ad08406fbac8cac497b186e106dd67d1]: Textual amendment: [S. 1143(2CA)](https://www.legislation.gov.uk/ukpga/2010/4/section/1143/2CA) substituted for s. 1143(2D) (for chargeable periods beginning on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 14](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/14), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-ad08406fbac8cac497b186e106dd67d1]: Textual amendment: [S. 1143(2CA)](https://www.legislation.gov.uk/ukpga/2010/4/section/1143/2CA) substituted for s. 1143(2D) (for chargeable periods beginning on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 14](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/14), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
 
-[^key-066a260b3c17836dc0091949e80e1306]: Textual amendment: Words in s. 1143(3) substituted (with effect in accordance with s. 21(5)(6) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 21(4)](https://www.legislation.gov.uk/ukpga/2019/1/section/21/4)
+[^c-066a260b3c17836dc0091949e80e1306]: Textual amendment: Words in s. 1143(3) substituted (with effect in accordance with s. 21(5)(6) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 21(4)](https://www.legislation.gov.uk/ukpga/2019/1/section/21/4)

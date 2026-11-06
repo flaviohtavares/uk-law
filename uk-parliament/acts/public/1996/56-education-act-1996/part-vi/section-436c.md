@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 436C. Content and maintenance of registers[^key-ab685345cb00f1ccfab1b3d5aa5e0e98]
+## 436C. Content and maintenance of registers[^c-ab685345cb00f1ccfab1b3d5aa5e0e98]
 
 *Extent: E+W*
 
@@ -80,4 +80,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab685345cb00f1ccfab1b3d5aa5e0e98]: Textual amendment: Ss. 436B-436G and cross-heading inserted (29.4.2026 but only in relation to the power to make regulations conferred by ss. 436B, 436C, 436E, 436F, otherwise prosp.) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 38(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/38/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-ab685345cb00f1ccfab1b3d5aa5e0e98]: Textual amendment: Ss. 436B-436G and cross-heading inserted (29.4.2026 but only in relation to the power to make regulations conferred by ss. 436B, 436C, 436E, 436F, otherwise prosp.) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 38(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/38/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)

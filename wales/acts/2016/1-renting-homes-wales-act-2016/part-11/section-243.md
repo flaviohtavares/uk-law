@@ -28,9 +28,9 @@ summary: ''
 - (b) a county borough council, and
 - (c) a police and crime commissioner for a police area in Wales.
 
-(3) “Local housing authority” (other than in paragraph 10A and[^key-ed38e5c953044314cb88122f03dc06d4] paragraph 12 of Schedule 2) means a county council for an area in Wales or a county borough council.
+(3) “Local housing authority” (other than in paragraph 10A and[^c-ed38e5c953044314cb88122f03dc06d4] paragraph 12 of Schedule 2) means a county council for an area in Wales or a county borough council.
 
-(4)[^key-6a73c79f1bb8bedb65c016bde3db64fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6a73c79f1bb8bedb65c016bde3db64fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) “**New town corporation**” has the same meaning as in the Housing Act 1985 (c. 68) (see section 4 of that Act).
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ed38e5c953044314cb88122f03dc06d4]: Textual amendment: Words in [s. 243(3)](https://www.legislation.gov.uk/anaw/2016/1/section/243/3) inserted (30.11.2023) by [The Renting Homes (Wales) Act 2016 and Homelessness (Suitability of Accommodation) (Wales) Order 2015 (Amendment) Regulations 2023 (S.I. 2023/1277)](https://www.legislation.gov.uk/wsi/2023/1277), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/1277/regulation/1/1), [2(3)](https://www.legislation.gov.uk/wsi/2023/1277/regulation/2/3)
+[^c-ed38e5c953044314cb88122f03dc06d4]: Textual amendment: Words in [s. 243(3)](https://www.legislation.gov.uk/anaw/2016/1/section/243/3) inserted (30.11.2023) by [The Renting Homes (Wales) Act 2016 and Homelessness (Suitability of Accommodation) (Wales) Order 2015 (Amendment) Regulations 2023 (S.I. 2023/1277)](https://www.legislation.gov.uk/wsi/2023/1277), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2023/1277/regulation/1/1), [2(3)](https://www.legislation.gov.uk/wsi/2023/1277/regulation/2/3)
 
-[^key-6a73c79f1bb8bedb65c016bde3db64fb]: Textual amendment: [S. 243(4)](https://www.legislation.gov.uk/anaw/2016/1/section/243/4) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 16(3)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/16/3)
+[^c-6a73c79f1bb8bedb65c016bde3db64fb]: Textual amendment: [S. 243(4)](https://www.legislation.gov.uk/anaw/2016/1/section/243/4) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 16(3)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/16/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7A. Duty to co-operate with the Scottish Fiscal Commission[^key-2bea74a552039508a346af1cab9b60fa]
+## 7A. Duty to co-operate with the Scottish Fiscal Commission[^c-2bea74a552039508a346af1cab9b60fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Office must, so far as necessary for the performance of the Scottish Fiscal 
 
 ## Annotations
 
-[^key-2bea74a552039508a346af1cab9b60fa]: Textual amendment: [S. 7A](https://www.legislation.gov.uk/ukpga/2011/4/section/7A) inserted (1.4.2017) by [The Scottish Fiscal Commission Act 2016 (Consequential Provisions and Modifications) Order 2017 (S.I. 2017/241)](https://www.legislation.gov.uk/uksi/2017/241), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/241/article/1/2), [4](https://www.legislation.gov.uk/uksi/2017/241/article/4)
+[^c-2bea74a552039508a346af1cab9b60fa]: Textual amendment: [S. 7A](https://www.legislation.gov.uk/ukpga/2011/4/section/7A) inserted (1.4.2017) by [The Scottish Fiscal Commission Act 2016 (Consequential Provisions and Modifications) Order 2017 (S.I. 2017/241)](https://www.legislation.gov.uk/uksi/2017/241), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/241/article/1/2), [4](https://www.legislation.gov.uk/uksi/2017/241/article/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Exercise and delegation of functions[^key-a0252409a82b6a3b8b12e3f1bab6ad42][^key-17ded2507e207e9bbb201aa5bcbd31a3]
+## 106. Exercise and delegation of functions[^c-a0252409a82b6a3b8b12e3f1bab6ad42][^c-17ded2507e207e9bbb201aa5bcbd31a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,6 +78,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a0252409a82b6a3b8b12e3f1bab6ad42]: Commencement: S. 106 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-a0252409a82b6a3b8b12e3f1bab6ad42]: Commencement: S. 106 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-17ded2507e207e9bbb201aa5bcbd31a3]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2024/13/section/106) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-17ded2507e207e9bbb201aa5bcbd31a3]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2024/13/section/106) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

@@ -55,7 +55,7 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
 - (a) section 116(1) (civil penalties for incorrect statements and failures to disclose information) for the purpose only of prescribing amounts under section 115C(2) or 115D(1) or (2) of the Administration Act; and
 - (b) section 116(2).
 
-(2) 6th June 2012 is the day appointed for the coming into force of sections 122, 123 and 125[^key-ca6403f86d353542ee30b8eda6464437] of the Act (administration of tax credits).
+(2) 6th June 2012 is the day appointed for the coming into force of sections 122, 123 and 125[^c-ca6403f86d353542ee30b8eda6464437] of the Act (administration of tax credits).
 
 (3) 10th June 2012 is the day appointed for the coming into force of the following provisions of the Act—
 
@@ -77,7 +77,7 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
 - (b) section 105(4) (amendments to section 115B of the Administration Act); and
 - (c) section 116(1) (civil penalties for incorrect statements and failures to disclose information), in so far as not already in force.
 
-(6)[^key-e2429109450a71b475aa2995f9c3a3a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-e2429109450a71b475aa2995f9c3a3a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Signed by authority of the Secretary of State for Work and Pensions.
 
@@ -151,10 +151,10 @@ The following provisions of the Act have been or will be brought into force by c
 
 [^c2125300]: Marginal citation: [Section 115B(4)](https://www.legislation.gov.uk/uksi/2012/1246/section/115B/4) is substituted (and section 115B(4A) inserted) by section 105(4) of the Act. Sections 115C and 115D are inserted by section 116(1) of the Act.
 
-[^key-ca6403f86d353542ee30b8eda6464437]: Textual amendment: Words in art. 2(2) substituted (31.5.2012) by [The Welfare Reform Act 2012 (Commencement No. 2) (Amendment) Order 2012 (S.I. 2012/1440)](https://www.legislation.gov.uk/uksi/2012/1440), [art. 2](https://www.legislation.gov.uk/uksi/2012/1440/article/2)
+[^c-ca6403f86d353542ee30b8eda6464437]: Textual amendment: Words in art. 2(2) substituted (31.5.2012) by [The Welfare Reform Act 2012 (Commencement No. 2) (Amendment) Order 2012 (S.I. 2012/1440)](https://www.legislation.gov.uk/uksi/2012/1440), [art. 2](https://www.legislation.gov.uk/uksi/2012/1440/article/2)
 
 [^c2125301]: Marginal citation: Section 71ZC(1) applies to the penalties by virtue of sections 115B(4A), 115C(5) and 115D(5) of the Administration Act.
 
 [^c2125302]: Marginal citation: Section 71ZE applies to the penalties by virtue of sections 115B(4A), 115C(5) and 115D(5) of the Administration Act.
 
-[^key-e2429109450a71b475aa2995f9c3a3a6]: Textual amendment: [Art. 2(6)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/6) revoked (4.10.2012) by [The Welfare Reform Act 2012 (Commencement No.4) Order 2012 (S.I. 2012/2530)](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(7)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/7)
+[^c-e2429109450a71b475aa2995f9c3a3a6]: Textual amendment: [Art. 2(6)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/6) revoked (4.10.2012) by [The Welfare Reform Act 2012 (Commencement No.4) Order 2012 (S.I. 2012/2530)](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(7)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/7)

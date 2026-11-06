@@ -18,8 +18,8 @@ summary: ''
 
 (1) This Chapter applies to an overseas company to which this Part applies that—
 
-- (a) is required by its parent law to prepare, have audited and disclose accounts, [^key-aaf363b5e3f4f68c9d720a2a6f942c34]...
-- (b)[^key-aaf363b5e3f4f68c9d720a2a6f942c34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) is required by its parent law to prepare, have audited and disclose accounts, [^c-aaf363b5e3f4f68c9d720a2a6f942c34]...
+- (b)[^c-aaf363b5e3f4f68c9d720a2a6f942c34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In relation to a company to which this Chapter applies—
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aaf363b5e3f4f68c9d720a2a6f942c34]: Textual amendment: [Reg. 31(1)(b)](https://www.legislation.gov.uk/uksi/2009/1801/regulation/31/1/b) and word omitted (31.12.2020) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 24](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aaf363b5e3f4f68c9d720a2a6f942c34]: Textual amendment: [Reg. 31(1)(b)](https://www.legislation.gov.uk/uksi/2009/1801/regulation/31/1/b) and word omitted (31.12.2020) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 24](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

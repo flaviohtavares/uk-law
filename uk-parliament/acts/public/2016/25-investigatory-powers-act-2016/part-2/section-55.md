@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Additional safeguards for items subject to legal privilege[^key-334100323f0f55acccccfe84dbd6f84e]
+## 55. Additional safeguards for items subject to legal privilege[^c-334100323f0f55acccccfe84dbd6f84e]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-334100323f0f55acccccfe84dbd6f84e]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2016/25/section/55) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(r)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/r) (with [reg. 15(4)(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/15/4/a))
+[^c-334100323f0f55acccccfe84dbd6f84e]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2016/25/section/55) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(r)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/r) (with [reg. 15(4)(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/15/4/a))

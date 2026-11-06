@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Interpretation[^key-89b5bf854799b56fe56ab9b379d3849a]
+## 2. Interpretation[^c-89b5bf854799b56fe56ab9b379d3849a]
 
 *Extent: N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 - “abandoned mine” means—
   - (a) a mine to which section 129 of the 1969 Act applied immediately before the date on which these Regulations came into operation; or
   - (b) a mine in respect of which a notice of abandonment has been given;
-- “[^key-5db97da17915a88e0f5aae3cae8b9e18]**action level**” in relation to respirable dust, means a concentration in air equal to or greater than 3mg/m<sup>3</sup> as a time-weighted average over a 40 hour period;
+- “[^c-5db97da17915a88e0f5aae3cae8b9e18]**action level**” in relation to respirable dust, means a concentration in air equal to or greater than 3mg/m<sup>3</sup> as a time-weighted average over a 40 hour period;
 - “appoint” in relation to a person means appoint in writing with a statement summarising the person’s duties and authority;
 - “auxiliary fan” means a fan used or intended to be used at a mine wholly or mainly for ventilating a heading, drift or blind end;
 - “competent” in relation to a person means a person with sufficient training and experience, or knowledge and other qualities, to enable that person properly to undertake the duties assigned to that person;
@@ -92,7 +92,7 @@ summary: ''
 
 ## Annotations
 
-[^key-89b5bf854799b56fe56ab9b379d3849a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2016/427/regulation/2) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-89b5bf854799b56fe56ab9b379d3849a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2016/427/regulation/2) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
 
 [^f00006]: Footnote: [1969. c.6 (N.I.)](https://www.legislation.gov.uk/apni/1969/6)
 
@@ -100,7 +100,7 @@ summary: ''
 
 [^f00008]: Footnote: [S.R. 2006 No.425](https://www.legislation.gov.uk/nisr/2006/425) as amended by [S.R. 2009 No. 248](https://www.legislation.gov.uk/nisr/2009/248)
 
-[^key-5db97da17915a88e0f5aae3cae8b9e18]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/427/regulation/2/1) substituted (21.3.2022) by [The Mines (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/9)](https://www.legislation.gov.uk/nisr/2022/9), [regs. 1](https://www.legislation.gov.uk/nisr/2022/9/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2022/9/regulation/2/2)
+[^c-5db97da17915a88e0f5aae3cae8b9e18]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/427/regulation/2/1) substituted (21.3.2022) by [The Mines (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/9)](https://www.legislation.gov.uk/nisr/2022/9), [regs. 1](https://www.legislation.gov.uk/nisr/2022/9/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2022/9/regulation/2/2)
 
 [^f00009]: Footnote: [S.R. 2003 No.34](https://www.legislation.gov.uk/nisr/2003/34) as amended by [S.R. 2003 No. 288](https://www.legislation.gov.uk/nisr/2003/288) and [S.R. 2005 No. 165](https://www.legislation.gov.uk/nisr/2005/165)
 

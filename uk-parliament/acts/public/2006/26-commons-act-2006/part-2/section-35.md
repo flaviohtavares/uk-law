@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Rules: supplementary[^key-2f2b630bfe57d394c39ebab57f240c58]
+## 35. Rules: supplementary[^c-2f2b630bfe57d394c39ebab57f240c58]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f2b630bfe57d394c39ebab57f240c58]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2006/26/section/35) in force at 20.1.2010 for E. by [S.I. 2010/61](https://www.legislation.gov.uk/uksi/2010/61), [art. 2](https://www.legislation.gov.uk/uksi/2010/61/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/61/article/3))
+[^c-2f2b630bfe57d394c39ebab57f240c58]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2006/26/section/35) in force at 20.1.2010 for E. by [S.I. 2010/61](https://www.legislation.gov.uk/uksi/2010/61), [art. 2](https://www.legislation.gov.uk/uksi/2010/61/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/61/article/3))

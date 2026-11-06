@@ -30,7 +30,7 @@ summary: ''
 
 .
 
-(4)[^key-7f07dd055ae10a74fa0b0da3c178c727] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7f07dd055ae10a74fa0b0da3c178c727] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) This section has effect in relation to instruments executed after the day on which this Act is passed.
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c14054801]: Marginal citation: [1986 c. 41](https://www.legislation.gov.uk/ukpga/1986/41).
 
-[^key-7f07dd055ae10a74fa0b0da3c178c727]: Textual amendment: [S. 127(4)](https://www.legislation.gov.uk/ukpga/2000/17/section/127/4) omitted (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 5(2)(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/5/2/c) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-7f07dd055ae10a74fa0b0da3c178c727]: Textual amendment: [S. 127(4)](https://www.legislation.gov.uk/ukpga/2000/17/section/127/4) omitted (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 5(2)(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/5/2/c) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))

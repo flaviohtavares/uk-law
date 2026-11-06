@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Tissue sample becoming part of medical records of deceased person[^key-967b79294e4c07bab3f7deb8dadc22d6]
+## 38. Tissue sample becoming part of medical records of deceased person[^c-967b79294e4c07bab3f7deb8dadc22d6]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-967b79294e4c07bab3f7deb8dadc22d6]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2006/4/section/38) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-967b79294e4c07bab3f7deb8dadc22d6]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2006/4/section/38) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

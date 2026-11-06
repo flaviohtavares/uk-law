@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 288A. Costs orders and expenses orders[^key-ca4f603a056a7e2b5fef5a40c0dfd597]
+## 288A. Costs orders and expenses orders[^c-ca4f603a056a7e2b5fef5a40c0dfd597]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca4f603a056a7e2b5fef5a40c0dfd597]: Textual amendment: S. 288A and cross-heading inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 190(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/190/1), [255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g) (with [s. 190(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/190/2))
+[^c-ca4f603a056a7e2b5fef5a40c0dfd597]: Textual amendment: S. 288A and cross-heading inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 190(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/190/1), [255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g) (with [s. 190(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/190/2))

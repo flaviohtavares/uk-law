@@ -24,11 +24,11 @@ summary: ''
 
 (introduced by section 45(8))
 
-### 1. Preparation of order[^key-95f85212d22be0182bcc6460da5e64b5]
+### 1. Preparation of order[^c-95f85212d22be0182bcc6460da5e64b5]
 
 A local development order must be prepared in accordance with the procedure specified in regulations.
 
-### 2. Power of the Welsh Ministers to direct authority to modify order before adoption[^key-8d530b5bf646702ba3aa5dd5febd3a0e]
+### 2. Power of the Welsh Ministers to direct authority to modify order before adoption[^c-8d530b5bf646702ba3aa5dd5febd3a0e]
 
 (1) If the Welsh Ministers consider that a local development order being prepared by a planning authority is unsatisfactory, they may at any time before the order is adopted direct the authority to modify the order in accordance with the direction.
 
@@ -36,7 +36,7 @@ A local development order must be prepared in accordance with the procedure spec
 
 (3) The planning authority must not adopt the order unless the Welsh Ministers give notice that they are satisfied that the authority has complied with the direction.
 
-### 3. Power to direct authority to submit order for approval[^key-a252c34c91d9e71684151926f4ce2cad]
+### 3. Power to direct authority to submit order for approval[^c-a252c34c91d9e71684151926f4ce2cad]
 
 (1) At any time before a local development order is adopted by a planning authority, the Welsh Ministers may direct the authority to submit the order (or a part of it) to them for their approval.
 
@@ -48,7 +48,7 @@ A local development order must be prepared in accordance with the procedure spec
 
 (5) The Welsh Ministers must give reasons for their decision.
 
-### 4. Revision of order after adoption[^key-479673cddff71eb0b9438ffd74688735]
+### 4. Revision of order after adoption[^c-479673cddff71eb0b9438ffd74688735]
 
 (1) A planning authority may at any time revise a local development order made by the authority.
 
@@ -56,7 +56,7 @@ A local development order must be prepared in accordance with the procedure spec
 
 (3) Section 45 and this Schedule apply to the revision of a local development order as they apply to the preparation of the order.
 
-### 5. Revocation of order[^key-525c727534cd3c680aaec4384a3f8a57]
+### 5. Revocation of order[^c-525c727534cd3c680aaec4384a3f8a57]
 
 (1) A planning authority may at any time revoke a local development order made by the authority.
 
@@ -74,13 +74,13 @@ A local development order must be prepared in accordance with the procedure spec
 
 (8) If the Welsh Ministers revoke a local development order, they must state their reasons for doing so.
 
-### 6. Annual monitoring report[^key-1eda4c31d160d446dccc02c75158119e]
+### 6. Annual monitoring report[^c-1eda4c31d160d446dccc02c75158119e]
 
 (1) A report made by a planning authority under section 35 must include a report about the extent to which a local development order made by the authority is achieving its purposes.
 
 (2) Regulations may make provision about the form and content of the report as it relates to a local development order.
 
-### 7. Regulations[^key-f45804736dddf1a26918501b39bb7934]
+### 7. Regulations[^c-f45804736dddf1a26918501b39bb7934]
 
 (1) Regulations may make provision in connection with the preparation, submission, approval, adoption, withdrawal, revision and revocation of a local development order.
 
@@ -93,16 +93,16 @@ A local development order must be prepared in accordance with the procedure spec
 
 ## Annotations
 
-[^key-95f85212d22be0182bcc6460da5e64b5]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-95f85212d22be0182bcc6460da5e64b5]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-8d530b5bf646702ba3aa5dd5febd3a0e]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-8d530b5bf646702ba3aa5dd5febd3a0e]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-a252c34c91d9e71684151926f4ce2cad]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-a252c34c91d9e71684151926f4ce2cad]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-479673cddff71eb0b9438ffd74688735]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-479673cddff71eb0b9438ffd74688735]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-525c727534cd3c680aaec4384a3f8a57]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-525c727534cd3c680aaec4384a3f8a57]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-1eda4c31d160d446dccc02c75158119e]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-1eda4c31d160d446dccc02c75158119e]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-f45804736dddf1a26918501b39bb7934]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-f45804736dddf1a26918501b39bb7934]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

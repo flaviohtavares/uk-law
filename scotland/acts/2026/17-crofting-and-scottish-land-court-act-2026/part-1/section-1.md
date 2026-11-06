@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. General functions of the Commission[^key-1e138f1965ba99e86362f9242f7b9c88]
+## 1. General functions of the Commission[^c-1e138f1965ba99e86362f9242f7b9c88]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e138f1965ba99e86362f9242f7b9c88]: Commencement: S. 1 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-1e138f1965ba99e86362f9242f7b9c88]: Commencement: S. 1 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

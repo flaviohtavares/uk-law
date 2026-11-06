@@ -48,17 +48,17 @@ The Scottish Ministers make the following Rules in exercise of the powers confer
 
 In accordance with section 44(2) of, and paragraph 24(1) of Schedule 7 to, the Tribunals, Courts and Enforcement Act 2007[^f00002] they have consulted with the Administrative Justice and Tribunals Council and its Scottish Committee.
 
-## 1. Citation, commencement and interpretation[^key-de8434abb7b290234455fd0568175192]
+## 1. Citation, commencement and interpretation[^c-de8434abb7b290234455fd0568175192]
 
-(1) These Rules may be cited as the Additional Support Needs Tribunals for Scotland (Practice and Procedure) Amendment Rules 2010 and come into force on 14th November[^key-b797108b2c4d53618384bde0f376a609] 2010.
+(1) These Rules may be cited as the Additional Support Needs Tribunals for Scotland (Practice and Procedure) Amendment Rules 2010 and come into force on 14th November[^c-b797108b2c4d53618384bde0f376a609] 2010.
 
 (2) In these Rules, “the principal Rules” means the Additional Support Needs Tribunals for Scotland (Practice and Procedure) Rules 2006[^f00003].
 
-## 2. Amendment of the Additional Support Needs Tribunals for Scotland (Practice and Procedure) Rules 2006[^key-63c9004650fac8f6d6d0aaf56e2ef6fa]
+## 2. Amendment of the Additional Support Needs Tribunals for Scotland (Practice and Procedure) Rules 2006[^c-63c9004650fac8f6d6d0aaf56e2ef6fa]
 
 The principal Rules are amended in accordance with rules 3 to 21.
 
-## 3. Amendment of rule 2[^key-2fafdf8a1e5736ffb1c3d4f91700d78c]
+## 3. Amendment of rule 2[^c-2fafdf8a1e5736ffb1c3d4f91700d78c]
 
 In rule 2 (interpretation)—
 
@@ -69,7 +69,7 @@ In rule 2 (interpretation)—
 
   .
 
-## 4. Amendment of rule 5[^key-e106b5fbb7c54b21deace79d55a158d9]
+## 4. Amendment of rule 5[^c-e106b5fbb7c54b21deace79d55a158d9]
 
 In rule 5(1) (reference) insert at the end—
 
@@ -77,7 +77,7 @@ In rule 5(1) (reference) insert at the end—
 
 .
 
-## 5. Amendment of rule 8[^key-d85377fea791eeeaa7e465ec1456ef4a]
+## 5. Amendment of rule 8[^c-d85377fea791eeeaa7e465ec1456ef4a]
 
 In rule 8 (case statement period and statement of appellant’s case)—
 
@@ -112,7 +112,7 @@ In rule 8 (case statement period and statement of appellant’s case)—
 
   .
 
-## 6. Amendment of rule 9[^key-edf75482c2366e4d7bfb557839b9b3c3]
+## 6. Amendment of rule 9[^c-edf75482c2366e4d7bfb557839b9b3c3]
 
 In rule 9 (distribution of documents by Secretary)—
 
@@ -130,7 +130,7 @@ In rule 9 (distribution of documents by Secretary)—
 
   .
 
-## 7. Amendment of rule 10[^key-36378618dd04869dfb85b3306e31abf8]
+## 7. Amendment of rule 10[^c-36378618dd04869dfb85b3306e31abf8]
 
 In rule 10(1) (response) delete “No later than the end of the case statement period” and insert after “Secretary”—
 
@@ -138,7 +138,7 @@ In rule 10(1) (response) delete “No later than the end of the case statement p
 
 .
 
-## 8. Amendment of rule 11[^key-35ce8b51ca6a76ec79d8e48467390038]
+## 8. Amendment of rule 11[^c-35ce8b51ca6a76ec79d8e48467390038]
 
 In rule 11(1)(a) (withdrawal of reference) after “appellant” insert—
 
@@ -146,14 +146,14 @@ In rule 11(1)(a) (withdrawal of reference) after “appellant” insert—
 
 .
 
-## 9. Amendment of rule 21[^key-cbb516e67677dfd384c4e593a2a0c7a2]
+## 9. Amendment of rule 21[^c-cbb516e67677dfd384c4e593a2a0c7a2]
 
 In rule 21(1) (recovery of documents)—
 
 - (a) after “Tribunal” insert “or a convener”;
 - (b) after “its” insert “or his or her”.
 
-## 10. Amendment of rule 22[^key-b634f088906c334801b5d0bf8e09e9f9]
+## 10. Amendment of rule 22[^c-b634f088906c334801b5d0bf8e09e9f9]
 
 In rule 22 (witnesses and citation of witnesses)—
 
@@ -166,11 +166,11 @@ In rule 22 (witnesses and citation of witnesses)—
 
   .
 
-## 11. Revocation of rule 23[^key-1ec06ec1e97fa1a80530510f60f73c3f]
+## 11. Revocation of rule 23[^c-1ec06ec1e97fa1a80530510f60f73c3f]
 
 Delete rule 23 (evidence by telephone, video link or other means).
 
-## 12. Amendment of rule 24[^key-880981be7decf8212388f889f148400e]
+## 12. Amendment of rule 24[^c-880981be7decf8212388f889f148400e]
 
 In rule 24 (expert evidence)—
 
@@ -179,7 +179,7 @@ In rule 24 (expert evidence)—
   - (i) after “Tribunal” insert “or a convener”; and
   - (ii) after “it” insert “, he or she”.
 
-## 13. Insertion of rule 24A[^key-7d5613566e09bc35e6dee1de33e2aac3]
+## 13. Insertion of rule 24A[^c-7d5613566e09bc35e6dee1de33e2aac3]
 
 After rule 24 insert—
 
@@ -191,7 +191,7 @@ After rule 24 insert—
 
 .
 
-## 14. Amendment of rule 26[^key-8b68e87e7e0ef7b686e6e8340815718e]
+## 14. Amendment of rule 26[^c-8b68e87e7e0ef7b686e6e8340815718e]
 
 In rule 26 (power to decide reference without hearing)—
 
@@ -214,18 +214,18 @@ In rule 26 (power to decide reference without hearing)—
 
   .
 
-## 15. Amendment of rule 27[^key-7bca9349c01e879f9299b9e89a655e4a]
+## 15. Amendment of rule 27[^c-7bca9349c01e879f9299b9e89a655e4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Amendment of rule 28[^key-0868b086397b140f47b19ff2b469b3ff]
+## 16. Amendment of rule 28[^c-0868b086397b140f47b19ff2b469b3ff]
 
 In rule 28 (conduct of the hearing)—
 
 - (a) delete paragraph (2); and
 - (b) in paragraph (8) for “rule 27(5)” substitute “rule 27(7)”.
 
-## 17. Amendment of rule 29[^key-1a924cd23131f63d6c0c4996611aa938]
+## 17. Amendment of rule 29[^c-1a924cd23131f63d6c0c4996611aa938]
 
 In rule 29 (evidence at hearing) after paragraph (2) insert—
 
@@ -233,18 +233,18 @@ In rule 29 (evidence at hearing) after paragraph (2) insert—
 
 .
 
-## 18. Amendment of rule 38[^key-2dfd67d5cf7a2312c2eb5bf165af8c4e]
+## 18. Amendment of rule 38[^c-2dfd67d5cf7a2312c2eb5bf165af8c4e]
 
 In rule 38 (orders of the Court)—
 
 - (a) in paragraph (2) for the words from “a period” to “each may” substitute “such period as a convener may specify each party may”; and
 - (b) in paragraph (3)(b) for the words from “a period” to “writing)” substitute “such period as the convener may specify”.
 
-## 19. Amendment of rule 44[^key-7ad6fe10a1f2698094b90cce161925a3]
+## 19. Amendment of rule 44[^c-7ad6fe10a1f2698094b90cce161925a3]
 
 In rule 44 (register) at the end of paragraph (2)(c) insert “and any hearing at which the convener sat alone”.
 
-## 20. Insertion of rule 45A[^key-8e75a37177089a0d1743b3398e6eeeb2]
+## 20. Insertion of rule 45A[^c-8e75a37177089a0d1743b3398e6eeeb2]
 
 After rule 45 insert—
 
@@ -277,7 +277,7 @@ After rule 45 insert—
 
 .
 
-## 21. Amendment of Rule 49 (signature of documents)[^key-c9852f159f8cc87a593335916592c8c9]
+## 21. Amendment of Rule 49 (signature of documents)[^c-c9852f159f8cc87a593335916592c8c9]
 
 In rule 49(b) insert at the beginning “Subject to rule 5(1)”.
 
@@ -337,48 +337,48 @@ Rule 21 makes an amendment to rule 49 in consequence of rule 4.
 
 [^f00002]: Footnote: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-de8434abb7b290234455fd0568175192]: Commencement: [Rule 1](https://www.legislation.gov.uk/ssi/2010/152/rule/1) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
+[^c-de8434abb7b290234455fd0568175192]: Commencement: [Rule 1](https://www.legislation.gov.uk/ssi/2010/152/rule/1) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
 
-[^key-b797108b2c4d53618384bde0f376a609]: Textual amendment: Words in rule 1(1) substituted (15.8.2010) by [The Additional Support Needs Tribunals for Scotland (Practice and Procedure) Amendment (No. 2) Rules 2010 (S.S.I. 2010/274)](https://www.legislation.gov.uk/ssi/2010/274), [rules 1](https://www.legislation.gov.uk/ssi/2010/274/article/1), [2](https://www.legislation.gov.uk/ssi/2010/274/article/2)
+[^c-b797108b2c4d53618384bde0f376a609]: Textual amendment: Words in rule 1(1) substituted (15.8.2010) by [The Additional Support Needs Tribunals for Scotland (Practice and Procedure) Amendment (No. 2) Rules 2010 (S.S.I. 2010/274)](https://www.legislation.gov.uk/ssi/2010/274), [rules 1](https://www.legislation.gov.uk/ssi/2010/274/article/1), [2](https://www.legislation.gov.uk/ssi/2010/274/article/2)
 
 [^f00003]: Footnote: [S.S.I. 2006/88](https://www.legislation.gov.uk/ssi/2006/88).
 
-[^key-63c9004650fac8f6d6d0aaf56e2ef6fa]: Commencement: [Rule 2](https://www.legislation.gov.uk/ssi/2010/152/rule/2) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
+[^c-63c9004650fac8f6d6d0aaf56e2ef6fa]: Commencement: [Rule 2](https://www.legislation.gov.uk/ssi/2010/152/rule/2) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
 
-[^key-2fafdf8a1e5736ffb1c3d4f91700d78c]: Commencement: [Rule 3](https://www.legislation.gov.uk/ssi/2010/152/rule/3) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
+[^c-2fafdf8a1e5736ffb1c3d4f91700d78c]: Commencement: [Rule 3](https://www.legislation.gov.uk/ssi/2010/152/rule/3) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
 
-[^key-e106b5fbb7c54b21deace79d55a158d9]: Commencement: [Rule 4](https://www.legislation.gov.uk/ssi/2010/152/rule/4) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
+[^c-e106b5fbb7c54b21deace79d55a158d9]: Commencement: [Rule 4](https://www.legislation.gov.uk/ssi/2010/152/rule/4) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
 
-[^key-d85377fea791eeeaa7e465ec1456ef4a]: Commencement: [Rule 5](https://www.legislation.gov.uk/ssi/2010/152/rule/5) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
+[^c-d85377fea791eeeaa7e465ec1456ef4a]: Commencement: [Rule 5](https://www.legislation.gov.uk/ssi/2010/152/rule/5) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
 
-[^key-edf75482c2366e4d7bfb557839b9b3c3]: Commencement: [Rule 6](https://www.legislation.gov.uk/ssi/2010/152/rule/6) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
+[^c-edf75482c2366e4d7bfb557839b9b3c3]: Commencement: [Rule 6](https://www.legislation.gov.uk/ssi/2010/152/rule/6) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
 
-[^key-36378618dd04869dfb85b3306e31abf8]: Commencement: [Rule 7](https://www.legislation.gov.uk/ssi/2010/152/rule/7) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
+[^c-36378618dd04869dfb85b3306e31abf8]: Commencement: [Rule 7](https://www.legislation.gov.uk/ssi/2010/152/rule/7) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
 
-[^key-35ce8b51ca6a76ec79d8e48467390038]: Commencement: [Rule 8](https://www.legislation.gov.uk/ssi/2010/152/rule/8) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
+[^c-35ce8b51ca6a76ec79d8e48467390038]: Commencement: [Rule 8](https://www.legislation.gov.uk/ssi/2010/152/rule/8) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
 
-[^key-cbb516e67677dfd384c4e593a2a0c7a2]: Commencement: [Rule 9](https://www.legislation.gov.uk/ssi/2010/152/rule/9) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
+[^c-cbb516e67677dfd384c4e593a2a0c7a2]: Commencement: [Rule 9](https://www.legislation.gov.uk/ssi/2010/152/rule/9) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
 
-[^key-b634f088906c334801b5d0bf8e09e9f9]: Commencement: [Rule 10](https://www.legislation.gov.uk/ssi/2010/152/rule/10) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
+[^c-b634f088906c334801b5d0bf8e09e9f9]: Commencement: [Rule 10](https://www.legislation.gov.uk/ssi/2010/152/rule/10) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
 
-[^key-1ec06ec1e97fa1a80530510f60f73c3f]: Commencement: [Rule 11](https://www.legislation.gov.uk/ssi/2010/152/rule/11) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
+[^c-1ec06ec1e97fa1a80530510f60f73c3f]: Commencement: [Rule 11](https://www.legislation.gov.uk/ssi/2010/152/rule/11) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
 
-[^key-880981be7decf8212388f889f148400e]: Commencement: [Rule 12](https://www.legislation.gov.uk/ssi/2010/152/rule/12) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
+[^c-880981be7decf8212388f889f148400e]: Commencement: [Rule 12](https://www.legislation.gov.uk/ssi/2010/152/rule/12) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
 
-[^key-7d5613566e09bc35e6dee1de33e2aac3]: Commencement: [Rule 13](https://www.legislation.gov.uk/ssi/2010/152/rule/13) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
+[^c-7d5613566e09bc35e6dee1de33e2aac3]: Commencement: [Rule 13](https://www.legislation.gov.uk/ssi/2010/152/rule/13) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
 
-[^key-8b68e87e7e0ef7b686e6e8340815718e]: Commencement: [Rule 14](https://www.legislation.gov.uk/ssi/2010/152/rule/14) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
+[^c-8b68e87e7e0ef7b686e6e8340815718e]: Commencement: [Rule 14](https://www.legislation.gov.uk/ssi/2010/152/rule/14) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
 
-[^key-7bca9349c01e879f9299b9e89a655e4a]: Textual amendment: Rule 15 omitted (19.8.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 84](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/84)
+[^c-7bca9349c01e879f9299b9e89a655e4a]: Textual amendment: Rule 15 omitted (19.8.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 84](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/84)
 
-[^key-0868b086397b140f47b19ff2b469b3ff]: Commencement: [Rule 16](https://www.legislation.gov.uk/ssi/2010/152/rule/16) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
+[^c-0868b086397b140f47b19ff2b469b3ff]: Commencement: [Rule 16](https://www.legislation.gov.uk/ssi/2010/152/rule/16) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
 
-[^key-1a924cd23131f63d6c0c4996611aa938]: Commencement: [Rule 17](https://www.legislation.gov.uk/ssi/2010/152/rule/17) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
+[^c-1a924cd23131f63d6c0c4996611aa938]: Commencement: [Rule 17](https://www.legislation.gov.uk/ssi/2010/152/rule/17) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
 
-[^key-2dfd67d5cf7a2312c2eb5bf165af8c4e]: Commencement: [Rule 18](https://www.legislation.gov.uk/ssi/2010/152/rule/18) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
+[^c-2dfd67d5cf7a2312c2eb5bf165af8c4e]: Commencement: [Rule 18](https://www.legislation.gov.uk/ssi/2010/152/rule/18) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
 
-[^key-7ad6fe10a1f2698094b90cce161925a3]: Commencement: [Rule 19](https://www.legislation.gov.uk/ssi/2010/152/rule/19) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
+[^c-7ad6fe10a1f2698094b90cce161925a3]: Commencement: [Rule 19](https://www.legislation.gov.uk/ssi/2010/152/rule/19) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
 
-[^key-8e75a37177089a0d1743b3398e6eeeb2]: Commencement: [Rule 20](https://www.legislation.gov.uk/ssi/2010/152/rule/20) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
+[^c-8e75a37177089a0d1743b3398e6eeeb2]: Commencement: [Rule 20](https://www.legislation.gov.uk/ssi/2010/152/rule/20) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
 
-[^key-c9852f159f8cc87a593335916592c8c9]: Commencement: [Rule 21](https://www.legislation.gov.uk/ssi/2010/152/rule/21) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))
+[^c-c9852f159f8cc87a593335916592c8c9]: Commencement: [Rule 21](https://www.legislation.gov.uk/ssi/2010/152/rule/21) in force at 14.11.2010, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2010/152/rule/1/1) (as amended by S.S.I. 2010/274, [rules 1](https://www.legislation.gov.uk/ssi/2010/274/rule/1), [2](https://www.legislation.gov.uk/ssi/2010/274/rule/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Content of notice imposing a conduct requirement[^key-7b3c098662fd78bdb52185c554c4c960][^key-30dc2bd4a6d094409f80e2abca02aac2]
+## 21. Content of notice imposing a conduct requirement[^c-7b3c098662fd78bdb52185c554c4c960][^c-30dc2bd4a6d094409f80e2abca02aac2]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ A notice under section 19(1) or (2) must include, in relation to each conduct re
 
 ## Annotations
 
-[^key-7b3c098662fd78bdb52185c554c4c960]: Commencement: S. 21 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-7b3c098662fd78bdb52185c554c4c960]: Commencement: S. 21 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-30dc2bd4a6d094409f80e2abca02aac2]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2024/13/section/21) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-30dc2bd4a6d094409f80e2abca02aac2]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2024/13/section/21) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

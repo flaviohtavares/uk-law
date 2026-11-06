@@ -48,7 +48,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 The Secretary of State has been designated for the purposes of that section in relation to measures relating to food (including drink) including the primary production of food [^c17957721].
 
-As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c17957731] there has been open and transparent public consultation during the preparation of the following Regulations.[^key-b6737c2821d9bd46e62a1678cdd003f5]
+As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c17957731] there has been open and transparent public consultation during the preparation of the following Regulations.[^c-b6737c2821d9bd46e62a1678cdd003f5]
 
 ## 1. Title, commencement and application
 
@@ -64,16 +64,16 @@ These Regulations—
 
 - “**the Act**” means the Food Safety Act 1990 [^c17957741];
 - “**authorised officer**” in relation to an enforcement authority, means any person (whether or not an officer of the authority) who is authorised by them in writing, either generally or specially, to act in matters arising under these Regulations;
-- [^key-aaaeab2105f4ab42de8403bbc74ca1cb]...
+- [^c-aaaeab2105f4ab42de8403bbc74ca1cb]...
 - “**Directive 89/108**” means Council Directive [89/108/EEC](https://www.legislation.gov.uk/european/directive/1989/0108) on the approximation of the laws of Member States relating to quick-frozen foodstuffs for human consumption [^c17957761];
 - “**Directive 92/2**” means Commission Directive [92/2/EEC](https://www.legislation.gov.uk/european/directive/1992/0002) laying down the sampling procedure and the Community method of analysis for the official control of the temperatures of quick-frozen foods intended for human consumption [^c17957771];
 - “**enforcement authority**” means the authority which, by virtue of regulation 9(5), is responsible for executing and enforcing these Regulations;
 - “**food**” has the meaning that it bears in Regulation 178/2002;
 - “**food authority**” has the meaning it bears by virtue of section 5(1) of the Act, except that it does not include the appropriate Treasurer referred to in section 5(1)(c) of the Act (which deals with the Inner Temple and Middle Temple);
-- “**local distribution**”, in relation to any product, means that part of the distribution chain in which the product is delivered to the point of placing on the market for retail purposes (such placing on the market to include placing on the market to a mass caterer[^key-9f2e74abf957798418ecf5c3d76c4fab]);
-- “[^key-f6e1ca99d991948d08d0bb69d623a01b]**mass caterer**” has the meaning given by Article 2(2)(d) of Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers;
+- “**local distribution**”, in relation to any product, means that part of the distribution chain in which the product is delivered to the point of placing on the market for retail purposes (such placing on the market to include placing on the market to a mass caterer[^c-9f2e74abf957798418ecf5c3d76c4fab]);
+- “[^c-f6e1ca99d991948d08d0bb69d623a01b]**mass caterer**” has the meaning given by Article 2(2)(d) of Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers;
 - “**placing on the market**” has the meaning that it bears in Regulation 178/2002 and “**placed on the market**” and “**place on the market**” shall be construed accordingly;
-- “**prepackaging**” shall be construed in accordance with the definition of “prepacked” in Article 2(2)(e) of Regulation ([^key-de92fc4846e2aadc416af1a2a1bb9d48]EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers but with the words “placed on the market” being substituted for the words “offered for sale”;
+- “**prepackaging**” shall be construed in accordance with the definition of “prepacked” in Article 2(2)(e) of Regulation ([^c-de92fc4846e2aadc416af1a2a1bb9d48]EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers but with the words “placed on the market” being substituted for the words “offered for sale”;
 - “**quick-frozen foodstuff**” means a product–
   - (a) comprising food which has undergone a freezing process known as “quick-freezing” whereby the zone of maximum crystallisation is crossed as rapidly as possible, depending on the type of product; and
   - (b) which is labelled for the purpose of placing on the market to indicate that it has undergone that process,
@@ -83,7 +83,7 @@ These Regulations—
 - “**Regulation 37/2005**” means Commission Regulation [(EC) No. 37/2005](https://www.legislation.gov.uk/european/regulation/2005/0037) on the monitoring of temperatures in the means of transport, warehousing and storage of quick-frozen foodstuffs intended for human consumption [^c17957781];
 - “**retail display cabinet**” means any cabinet from which a quick-frozen foodstuff is placed on the market for retail purposes or in the course of a cash-and-carry business;
 - “**specified Community provision**” means any provision of Regulation 37/2005 that is specified in column 1 of Schedule 1 and whose subject-matter is described in column 2 of that Schedule; and
-- “[^key-8756082593c5e06f0ff90e9f6f10b537]**ultimate consumer**” has the same meaning as “**final consumer**” in point 18 of Article 3 of Regulation 178/2002.
+- “[^c-8756082593c5e06f0ff90e9f6f10b537]**ultimate consumer**” has the same meaning as “**final consumer**” in point 18 of Article 3 of Regulation 178/2002.
 
 (2) Unless the context otherwise requires, any expression used both in these Regulations and in Directive 89/108, Directive 92/2 or Regulation 37/2005 has the meaning that it bears in Directive 89/108, Directive 92/2 or Regulation 37/2005, as the case may be.
 
@@ -108,14 +108,14 @@ No person shall place any quick-frozen foodstuff intended for the ultimate consu
 
 ## 5. Marking or labelling of quick-frozen foodstuffs
 
-(1) No person shall place on the market any food intended for the ultimate consumer or any mass caterer[^key-36b2b93bac5efe5ed4567db452b8b658] where its marking or labelling contravenes paragraph (2) or (3) and no person shall place on the market any food intended for any other person where its marking or labelling contravenes paragraph (2) or (4).
+(1) No person shall place on the market any food intended for the ultimate consumer or any mass caterer[^c-36b2b93bac5efe5ed4567db452b8b658] where its marking or labelling contravenes paragraph (2) or (3) and no person shall place on the market any food intended for any other person where its marking or labelling contravenes paragraph (2) or (4).
 
-(2) The description “quick-frozen” or its equivalent in any other language[^key-241beade9d9c9b0bfaa80d78720897e9] shall only be used in the labelling for the purpose of the placing on the market of—
+(2) The description “quick-frozen” or its equivalent in any other language[^c-241beade9d9c9b0bfaa80d78720897e9] shall only be used in the labelling for the purpose of the placing on the market of—
 
 - (a) a quick-frozen foodstuff; or
 - (b) a food which by virtue of that labelling becomes a quick-frozen foodstuff.
 
-(3) A quick-frozen foodstuff intended for supply, without further processing, to the ultimate consumer or to a mass caterer[^key-a9012950a6005ab90e75c42cc5d1755b] shall, in addition to the description “quick-frozen” (and, as the intending supplier may see fit, its equivalent in any other language[^key-75598e7b4ad5ff53bad707d8cf4f2ffe]) added to its sales name, be marked or labelled on its packaging, container or wrapping, or on a label attached thereto, with-
+(3) A quick-frozen foodstuff intended for supply, without further processing, to the ultimate consumer or to a mass caterer[^c-a9012950a6005ab90e75c42cc5d1755b] shall, in addition to the description “quick-frozen” (and, as the intending supplier may see fit, its equivalent in any other language[^c-75598e7b4ad5ff53bad707d8cf4f2ffe]) added to its sales name, be marked or labelled on its packaging, container or wrapping, or on a label attached thereto, with-
 
 - (a) an indication of the date of minimum durability;
 - (b) an indication of the maximum period during which it is advisable to store it;
@@ -127,10 +127,10 @@ No person shall place any quick-frozen foodstuff intended for the ultimate consu
 - (d) a reference allowing identification of the batch to which it belongs; and
 - (e) a clear message of the type “do not refreeze after defrosting”.
 
-(4) Any other quick-frozen foodstuff shall, in addition to the description “quick-frozen” (and, as the supplier may see fit, its equivalent in any other language[^key-91c94a9f9292cd264dbe6fd50f04cddd]) added to its sales name, be marked or labelled on its packaging, container or wrapping, or on a label attached thereto, with-
+(4) Any other quick-frozen foodstuff shall, in addition to the description “quick-frozen” (and, as the supplier may see fit, its equivalent in any other language[^c-91c94a9f9292cd264dbe6fd50f04cddd]) added to its sales name, be marked or labelled on its packaging, container or wrapping, or on a label attached thereto, with-
 
 - (a) a reference allowing identification of the batch to which it belongs; and
-- (b) the name or business name and address of the manufacturer or packer, or of a person established within the United Kingdom[^key-56198754a40146d854fb931793e1f57d] who places that foodstuff on the market.
+- (b) the name or business name and address of the manufacturer or packer, or of a person established within the United Kingdom[^c-56198754a40146d854fb931793e1f57d] who places that foodstuff on the market.
 
 ## 6. Equipment
 
@@ -180,12 +180,12 @@ The following provisions of the Act shall apply for the purposes of these Regula
 
 In so far as they apply in relation to England, the Quick-frozen Foodstuffs Regulations 1990 [^c17957861] are revoked.
 
-## 12. Transitional provisions: withdrawal from the EU[^key-50204ff0fca0c5d7e1104eca28d22766]
+## 12. Transitional provisions: withdrawal from the EU[^c-50204ff0fca0c5d7e1104eca28d22766]
 
 For the purpose of regulation 9(1), a person is not considered to have contravened or failed to comply with regulation 5(1) if—
 
 - (a) a product does not comply with regulation 5(4)(b);
-- (b) the alleged contravention would relate to a product that was placed on the market on or after the day on which the Food and Feed Safety (Miscellaneous Amendments and Transitional Provisions) Regulations 2022 came into force and before 1 January 2024[^key-ecfe0ce647296aae79ea8fbbaa2da76d]; and
+- (b) the alleged contravention would relate to a product that was placed on the market on or after the day on which the Food and Feed Safety (Miscellaneous Amendments and Transitional Provisions) Regulations 2022 came into force and before 1 January 2024[^c-ecfe0ce647296aae79ea8fbbaa2da76d]; and
 - (c) the matter constituting the alleged contravention would not have constituted a contravention of these Regulations as they applied immediately before IP completion day.
 
 Signed by authority of the Secretary of State for Health
@@ -296,25 +296,25 @@ The requirements are that —
 
 [^c17957731]: Marginal citation: OJ No. L31, 1.2.2002, p.1, as last amended as at the making of this instrument by Commission Regulation (EC) No. 575/2006 amending Regulation (EC) No. 178/2002 of the European Parliament and of the Council as regards the number and names of the permanent Scientific Panels of the European Food Safety Authority (OJ No. L100, 8.4.2006, p.3).
 
-[^key-b6737c2821d9bd46e62a1678cdd003f5]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2007/191) applied in part (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-b6737c2821d9bd46e62a1678cdd003f5]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2007/191) applied in part (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
 [^c17957741]: Marginal citation: [1990 c.16](https://www.legislation.gov.uk/ukpga/1990/16).
 
-[^key-aaaeab2105f4ab42de8403bbc74ca1cb]: Textual amendment: Words in reg. 2(1) omitted (13.12.2014) by virtue of [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 43(a)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/43/a)
+[^c-aaaeab2105f4ab42de8403bbc74ca1cb]: Textual amendment: Words in reg. 2(1) omitted (13.12.2014) by virtue of [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 43(a)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/43/a)
 
 [^c17957761]: Marginal citation: OJ No. L40, 11.2.89, p.34, as last amended as at the making of this instrument by Council Directive 2006/107/EC adapting Directive 89/108/EEC relating to quick-frozen foodstuffs for human consumption and Directive 2000/13/EC of the European Parliament and of the Council relating to the labelling, presentation and advertising of foodstuffs, by reason of the accession of Bulgaria and Romania (OJ No. L363, 20.12.2006, p.411).
 
 [^c17957771]: Marginal citation: OJ No. L34, 11.2.92, p.30.
 
-[^key-9f2e74abf957798418ecf5c3d76c4fab]: Textual amendment: Words in reg. 2(1) substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 43(b)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/43/b)
+[^c-9f2e74abf957798418ecf5c3d76c4fab]: Textual amendment: Words in reg. 2(1) substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 43(b)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/43/b)
 
-[^key-f6e1ca99d991948d08d0bb69d623a01b]: Textual amendment: Words in reg. 2(1) inserted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 43(c)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/43/c)
+[^c-f6e1ca99d991948d08d0bb69d623a01b]: Textual amendment: Words in reg. 2(1) inserted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 43(c)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/43/c)
 
-[^key-de92fc4846e2aadc416af1a2a1bb9d48]: Textual amendment: Words in reg. 2(1) substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 43(d)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/43/d)
+[^c-de92fc4846e2aadc416af1a2a1bb9d48]: Textual amendment: Words in reg. 2(1) substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 43(d)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/43/d)
 
 [^c17957781]: Marginal citation: OJ No. L10, 13.1.2005, p.18.
 
-[^key-8756082593c5e06f0ff90e9f6f10b537]: Textual amendment: Words in reg. 2(1) substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 43(e)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/43/e)
+[^c-8756082593c5e06f0ff90e9f6f10b537]: Textual amendment: Words in reg. 2(1) substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 43(e)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/43/e)
 
 [^c17957791]: Marginal citation: [1984 c.22](https://www.legislation.gov.uk/ukpga/1984/22); section 7(3)(d) was substituted by paragraph 27 of Schedule 3 to the [Food Safety Act 1990 (1990 c.16)](https://www.legislation.gov.uk/ukpga/1990/16).
 
@@ -322,17 +322,17 @@ The requirements are that —
 
 [^c17957811]: Marginal citation: [1985 c.51](https://www.legislation.gov.uk/ukpga/1985/51); paragraph 15(6) was amended by paragraph 31(b) of Schedule 3 to the Food Safety Act 1990.
 
-[^key-36b2b93bac5efe5ed4567db452b8b658]: Textual amendment: Words in reg. 5(1) substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 44](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/44)
+[^c-36b2b93bac5efe5ed4567db452b8b658]: Textual amendment: Words in reg. 5(1) substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 44](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/44)
 
-[^key-241beade9d9c9b0bfaa80d78720897e9]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2007/191/regulation/5/2) substituted (31.12.2020) by [The Quick-frozen Foodstuffs (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/462)](https://www.legislation.gov.uk/uksi/2019/462), [regs. 1](https://www.legislation.gov.uk/uksi/2019/462/regulation/1), [3](https://www.legislation.gov.uk/uksi/2019/462/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-241beade9d9c9b0bfaa80d78720897e9]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2007/191/regulation/5/2) substituted (31.12.2020) by [The Quick-frozen Foodstuffs (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/462)](https://www.legislation.gov.uk/uksi/2019/462), [regs. 1](https://www.legislation.gov.uk/uksi/2019/462/regulation/1), [3](https://www.legislation.gov.uk/uksi/2019/462/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a9012950a6005ab90e75c42cc5d1755b]: Textual amendment: Words in reg. 5(3) substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 44](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/44)
+[^c-a9012950a6005ab90e75c42cc5d1755b]: Textual amendment: Words in reg. 5(3) substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 44](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/44)
 
-[^key-75598e7b4ad5ff53bad707d8cf4f2ffe]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2007/191/regulation/5/3) substituted (31.12.2020) by [The Quick-frozen Foodstuffs (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/462)](https://www.legislation.gov.uk/uksi/2019/462), [regs. 1](https://www.legislation.gov.uk/uksi/2019/462/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/462/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-75598e7b4ad5ff53bad707d8cf4f2ffe]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2007/191/regulation/5/3) substituted (31.12.2020) by [The Quick-frozen Foodstuffs (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/462)](https://www.legislation.gov.uk/uksi/2019/462), [regs. 1](https://www.legislation.gov.uk/uksi/2019/462/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/462/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-91c94a9f9292cd264dbe6fd50f04cddd]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/2007/191/regulation/5/4) substituted (31.12.2020) by [The Quick-frozen Foodstuffs (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/462)](https://www.legislation.gov.uk/uksi/2019/462), [regs. 1](https://www.legislation.gov.uk/uksi/2019/462/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/462/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-91c94a9f9292cd264dbe6fd50f04cddd]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/2007/191/regulation/5/4) substituted (31.12.2020) by [The Quick-frozen Foodstuffs (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/462)](https://www.legislation.gov.uk/uksi/2019/462), [regs. 1](https://www.legislation.gov.uk/uksi/2019/462/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/462/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-56198754a40146d854fb931793e1f57d]: Textual amendment: Words in [reg. 5(4)(b)](https://www.legislation.gov.uk/uksi/2007/191/regulation/5/4/b) substituted (31.12.2020) by [The Quick-frozen Foodstuffs (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/462)](https://www.legislation.gov.uk/uksi/2019/462), [regs. 1](https://www.legislation.gov.uk/uksi/2019/462/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/462/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-56198754a40146d854fb931793e1f57d]: Textual amendment: Words in [reg. 5(4)(b)](https://www.legislation.gov.uk/uksi/2007/191/regulation/5/4/b) substituted (31.12.2020) by [The Quick-frozen Foodstuffs (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/462)](https://www.legislation.gov.uk/uksi/2019/462), [regs. 1](https://www.legislation.gov.uk/uksi/2019/462/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/462/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c17957821]: Marginal citation: [Section 21](https://www.legislation.gov.uk/uksi/2007/191/section/21) was amended by [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
 
@@ -344,8 +344,8 @@ The requirements are that —
 
 [^c17957861]: Marginal citation: [S.I. 1990/2615](https://www.legislation.gov.uk/uksi/1990/2615).
 
-[^key-50204ff0fca0c5d7e1104eca28d22766]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2007/191/regulation/12) inserted (29.3.2022) by [The Food and Feed Safety (Miscellaneous Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/377)](https://www.legislation.gov.uk/uksi/2022/377), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/377/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2022/377/regulation/2/2)
+[^c-50204ff0fca0c5d7e1104eca28d22766]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2007/191/regulation/12) inserted (29.3.2022) by [The Food and Feed Safety (Miscellaneous Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/377)](https://www.legislation.gov.uk/uksi/2022/377), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/377/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2022/377/regulation/2/2)
 
-[^key-ecfe0ce647296aae79ea8fbbaa2da76d]: Textual amendment: Words in [reg. 12(b)](https://www.legislation.gov.uk/uksi/2007/191/regulation/12/b) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (England) Regulations 2022 (S.I. 2022/938)](https://www.legislation.gov.uk/uksi/2022/938), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/938/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/938/regulation/2)
+[^c-ecfe0ce647296aae79ea8fbbaa2da76d]: Textual amendment: Words in [reg. 12(b)](https://www.legislation.gov.uk/uksi/2007/191/regulation/12/b) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (England) Regulations 2022 (S.I. 2022/938)](https://www.legislation.gov.uk/uksi/2022/938), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/938/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/938/regulation/2)
 
 [^c17957871]: Marginal citation: OJ No. L40, 11.12.89, p.34, as last amended as at the making of this instrument by Council Directive 2006/107/EC adapting Directive 89/108/EEC relating to quick-frozen foodstuffs for human consumption and Directive 2000/13/EC of the European Parliament and of the Council relating to the labelling, presentation and advertising of foodstuffs, by reason of the accession of Bulgaria and Romania (OJ No. L363, 20.12.2006, p.411).

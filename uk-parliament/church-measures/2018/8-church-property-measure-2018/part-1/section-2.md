@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 2. Construction, purchase or improvement of parsonage house[^key-0fb34fa125630507141721b00b8e9134]
+## 2. Construction, purchase or improvement of parsonage house[^c-0fb34fa125630507141721b00b8e9134]
 
 *Extent: E*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0fb34fa125630507141721b00b8e9134]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2018/8/section/2) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-0fb34fa125630507141721b00b8e9134]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2018/8/section/2) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

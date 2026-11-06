@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 59A. Requirement to provide applicant credit cover: Transitional provision[^key-697a8b3e917e2d9f6408fc1e6879ffcf]
+## 59A. Requirement to provide applicant credit cover: Transitional provision[^c-697a8b3e917e2d9f6408fc1e6879ffcf]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-697a8b3e917e2d9f6408fc1e6879ffcf]: Textual amendment: [Reg. 59A](https://www.legislation.gov.uk/uksi/2014/2043/regulation/59A) inserted (17.7.2026) by [The Electricity Capacity (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/850)](https://www.legislation.gov.uk/uksi/2026/850), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/850/regulation/1/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2026/850/schedule/1/paragraph/11)
+[^c-697a8b3e917e2d9f6408fc1e6879ffcf]: Textual amendment: [Reg. 59A](https://www.legislation.gov.uk/uksi/2014/2043/regulation/59A) inserted (17.7.2026) by [The Electricity Capacity (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/850)](https://www.legislation.gov.uk/uksi/2026/850), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/850/regulation/1/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2026/850/schedule/1/paragraph/11)

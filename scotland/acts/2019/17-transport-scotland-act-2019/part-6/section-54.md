@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Double parking prohibition[^key-ebfd980e16b9e99d8903fc9057fc0697]
+## 54. Double parking prohibition[^c-ebfd980e16b9e99d8903fc9057fc0697]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebfd980e16b9e99d8903fc9057fc0697]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2019/17/section/54) in force at 11.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-ebfd980e16b9e99d8903fc9057fc0697]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2019/17/section/54) in force at 11.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)

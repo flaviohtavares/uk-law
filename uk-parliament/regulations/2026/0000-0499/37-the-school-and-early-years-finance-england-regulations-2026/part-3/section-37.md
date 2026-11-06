@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Differential funding[^key-ab9e7dd61e4fc8fa6f388659274601df]
+## 37. Differential funding[^c-ab9e7dd61e4fc8fa6f388659274601df]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ a local authority may use factors or criteria which differentiate between differ
 
 ## Annotations
 
-[^key-ab9e7dd61e4fc8fa6f388659274601df]: Commencement: Reg. 37 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-ab9e7dd61e4fc8fa6f388659274601df]: Commencement: Reg. 37 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)

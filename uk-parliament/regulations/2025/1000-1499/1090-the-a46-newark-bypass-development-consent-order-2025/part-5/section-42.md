@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Apparatus and rights of statutory undertakers in stopped up streets[^key-121d16a5727dfb2677d142e26ac8dc38]
+## 42. Apparatus and rights of statutory undertakers in stopped up streets[^c-121d16a5727dfb2677d142e26ac8dc38]
 
 *Extent: E+W*
 
@@ -58,6 +58,6 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 ## Annotations
 
-[^key-121d16a5727dfb2677d142e26ac8dc38]: Commencement: Art. 42 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-121d16a5727dfb2677d142e26ac8dc38]: Commencement: Art. 42 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
 
 [^f00092]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). Section 151 was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).

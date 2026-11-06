@@ -27,9 +27,9 @@ summary: ''
 - (a) to enter the building or place at any time, whether by day or night, on any day, and search for, seize, and detain or remove any such thing, and
 - (b) so far as is necessary for the purpose of such entry, search, seizure, detention or removal, to break open any door, window or container and force and remove any other impediment or obstruction.
 
-(2A)[^key-7f29bab04f889a1638297817f1ba05cb] The power in subsection (2)(a) includes power to search for and remove documents relating to any such thing (including documents about title, storage and movement).
+(2A)[^c-7f29bab04f889a1638297817f1ba05cb] The power in subsection (2)(a) includes power to search for and remove documents relating to any such thing (including documents about title, storage and movement).
 
-(3) Where there are reasonable grounds to suspect that any still, vessel, utensil, spirits or materials for the manufacture of spirits or vaping products[^key-1b2a9481a8f97033fd5ec4203071ff81] is or are unlawfully kept or deposited in any building or place, subsections (1), (2) and (2A)[^key-de1d5cabb2b0d7eef5b5d3b7769d44b9] above apply in relation to any constable as they would apply in relation to an officer.
+(3) Where there are reasonable grounds to suspect that any still, vessel, utensil, spirits or materials for the manufacture of spirits or vaping products[^c-1b2a9481a8f97033fd5ec4203071ff81] is or are unlawfully kept or deposited in any building or place, subsections (1), (2) and (2A)[^c-de1d5cabb2b0d7eef5b5d3b7769d44b9] above apply in relation to any constable as they would apply in relation to an officer.
 
 (4) The powers conferred by a warrant under this section are exercisable until the end of the period of one month beginning with the day on which the warrant is issued.
 
@@ -39,8 +39,8 @@ summary: ''
 
 [^c14781441]: Textual amendment: S. 161 and s. 161A substituted for s. 161 (28.7.2000) by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 25](https://www.legislation.gov.uk/ukpga/2000/17/section/25)
 
-[^key-7f29bab04f889a1638297817f1ba05cb]: Textual amendment: S. 161A(2A) inserted (1.4.2011) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 29(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/29/2), [Sch. 13 para. 16(2)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/13/paragraph/16/2); [S.I. 2011/777](https://www.legislation.gov.uk/uksi/2011/777), [art. 2](https://www.legislation.gov.uk/uksi/2011/777/article/2)
+[^c-7f29bab04f889a1638297817f1ba05cb]: Textual amendment: S. 161A(2A) inserted (1.4.2011) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 29(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/29/2), [Sch. 13 para. 16(2)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/13/paragraph/16/2); [S.I. 2011/777](https://www.legislation.gov.uk/uksi/2011/777), [art. 2](https://www.legislation.gov.uk/uksi/2011/777/article/2)
 
-[^key-1b2a9481a8f97033fd5ec4203071ff81]: Textual amendment: Words in s. 161A(3) inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 15 para. 3(f)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/15/paragraph/3/f)
+[^c-1b2a9481a8f97033fd5ec4203071ff81]: Textual amendment: Words in s. 161A(3) inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 15 para. 3(f)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/15/paragraph/3/f)
 
-[^key-de1d5cabb2b0d7eef5b5d3b7769d44b9]: Textual amendment: Words in s. 161A(3) substituted (1.4.2011) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 29(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/29/2), [Sch. 13 para. 16(3)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/13/paragraph/16/3); [S.I. 2011/777](https://www.legislation.gov.uk/uksi/2011/777), [art. 2](https://www.legislation.gov.uk/uksi/2011/777/article/2)
+[^c-de1d5cabb2b0d7eef5b5d3b7769d44b9]: Textual amendment: Words in s. 161A(3) substituted (1.4.2011) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 29(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/29/2), [Sch. 13 para. 16(3)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/13/paragraph/16/3); [S.I. 2011/777](https://www.legislation.gov.uk/uksi/2011/777), [art. 2](https://www.legislation.gov.uk/uksi/2011/777/article/2)

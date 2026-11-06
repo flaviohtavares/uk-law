@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 182. Meaning of “entitlement day” (repayment of balance of contributions)[^key-a6279772cff44761bfcf914cfd77b5a9]
+## 182. Meaning of “entitlement day” (repayment of balance of contributions)[^c-a6279772cff44761bfcf914cfd77b5a9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The entitlement day for repayment of the balance of contributions is one month a
 
 ## Annotations
 
-[^key-a6279772cff44761bfcf914cfd77b5a9]: Commencement: [Reg. 182](https://www.legislation.gov.uk/ssi/2014/292/regulation/182) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-a6279772cff44761bfcf914cfd77b5a9]: Commencement: [Reg. 182](https://www.legislation.gov.uk/ssi/2014/292/regulation/182) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

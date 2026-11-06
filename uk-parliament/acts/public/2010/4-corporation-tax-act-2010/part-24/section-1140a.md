@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1140A. Introduction[^key-7c9ee32d7e6e4d1368c4f066804bf1fa]
+## 1140A. Introduction[^c-7c9ee32d7e6e4d1368c4f066804bf1fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c9ee32d7e6e4d1368c4f066804bf1fa]: Textual amendment: [S. 1140A](https://www.legislation.gov.uk/ukpga/2010/4/section/1140A) inserted (for chargeable periods beginning on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 11](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/11), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-7c9ee32d7e6e4d1368c4f066804bf1fa]: Textual amendment: [S. 1140A](https://www.legislation.gov.uk/ukpga/2010/4/section/1140A) inserted (for chargeable periods beginning on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 11](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/11), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)

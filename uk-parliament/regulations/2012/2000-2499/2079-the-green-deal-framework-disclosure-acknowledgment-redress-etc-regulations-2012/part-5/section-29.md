@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Conditions to be met for energy plans to be green deal plans[^key-37bbda91b2aecdd7c9b41363f427cb65]
+## 29. Conditions to be met for energy plans to be green deal plans[^c-37bbda91b2aecdd7c9b41363f427cb65]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ An energy plan is not a green deal plan unless the conditions in regulations 30 
 
 ## Annotations
 
-[^key-37bbda91b2aecdd7c9b41363f427cb65]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2012/2079/regulation/29) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)
+[^c-37bbda91b2aecdd7c9b41363f427cb65]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2012/2079/regulation/29) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)

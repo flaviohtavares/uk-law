@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Involvement of insurance companies with plans and accounts[^key-256797d22dcf595ec2b4bd8e0c4ce15f]
+## 22. Involvement of insurance companies with plans and accounts[^c-256797d22dcf595ec2b4bd8e0c4ce15f]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In section 333B(9) (involvement of insurance companies with plans and accounts)[
 
 ## Annotations
 
-[^key-256797d22dcf595ec2b4bd8e0c4ce15f]: Commencement: Art. 22 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-256797d22dcf595ec2b4bd8e0c4ce15f]: Commencement: Art. 22 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00026]: Footnote: Section 333B was inserted by section 77 of the Finance Act 1998.

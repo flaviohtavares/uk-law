@@ -22,11 +22,11 @@ summary: ''
 
 (1) Regulations shall make provision for the establishment and maintenance of a register for the purposes of this Part.
 
-(1A)[^key-3e615b403d835da7ce8199f066559953] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-3e615b403d835da7ce8199f066559953] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1B)[^key-3e615b403d835da7ce8199f066559953] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1B)[^c-3e615b403d835da7ce8199f066559953] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1C)[^key-3e615b403d835da7ce8199f066559953] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1C)[^c-3e615b403d835da7ce8199f066559953] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) An application to be registered in respect of any description of driving instruction must be made to the officer of the Department (in this Part referred to as “**the Registrar**”) by whom the register is, on behalf of the Department, compiled and maintained.
 
@@ -42,4 +42,4 @@ summary: ''
 
 [^M_I_5d6cc88c-4bcb-48b6-bafb-32e251aaa05c]: Commencement: Art. 51(1)-(5) in operation at 2.8.2010 by [S.R. 2010/226](https://www.legislation.gov.uk/nisr/2010/226), [art. 2](https://www.legislation.gov.uk/nisr/2010/226/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2010/226/schedule) (as amended by [S.R. 2012/337](https://www.legislation.gov.uk/nisr/2012/337), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/337/article/2/a))
 
-[^key-3e615b403d835da7ce8199f066559953]: Textual amendment: [Art. 51(1A)-(1C)](https://www.legislation.gov.uk/nisi/2007/916/article/51/1A) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 6(5)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/6/5)
+[^c-3e615b403d835da7ce8199f066559953]: Textual amendment: [Art. 51(1A)-(1C)](https://www.legislation.gov.uk/nisi/2007/916/article/51/1A) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 6(5)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/6/5)

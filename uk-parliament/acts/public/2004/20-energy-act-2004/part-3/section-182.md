@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 182. Additional inspectors[^key-5eaf6f1f4a2e09dfa8f51afa8ca5134d][^key-e3fbf9874d0e06ac672993772902d700]
+## 182. Additional inspectors[^c-5eaf6f1f4a2e09dfa8f51afa8ca5134d][^c-e3fbf9874d0e06ac672993772902d700]
 
 *Extent: E+W*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5eaf6f1f4a2e09dfa8f51afa8ca5134d]: Commencement: [S. 182](https://www.legislation.gov.uk/ukpga/2004/20/section/182) in force at 6.4.2007 by [S.I. 2007/1091](https://www.legislation.gov.uk/uksi/2007/1091), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1091/article/2/a)
+[^c-5eaf6f1f4a2e09dfa8f51afa8ca5134d]: Commencement: [S. 182](https://www.legislation.gov.uk/ukpga/2004/20/section/182) in force at 6.4.2007 by [S.I. 2007/1091](https://www.legislation.gov.uk/uksi/2007/1091), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1091/article/2/a)
 
-[^key-e3fbf9874d0e06ac672993772902d700]: Modification: Ss. 171-196: power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 50](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/50)
+[^c-e3fbf9874d0e06ac672993772902d700]: Modification: Ss. 171-196: power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 50](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/50)

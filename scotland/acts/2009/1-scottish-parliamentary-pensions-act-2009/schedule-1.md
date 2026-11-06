@@ -124,7 +124,7 @@ summary: ''
 
 #### Member-nominated trustees
 
-**13.**[^key-6380ff0315f6522b9512ebaf56f6df47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-6380ff0315f6522b9512ebaf56f6df47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Procedure
 
@@ -368,7 +368,7 @@ where—
 
 (2) Where an individual's annual MSP pension (including any enhancement made by virtue of other scheme rules) exceeds the individual's annual MSP pension cap, the annual MSP pension payable to the individual is to be reduced to the individual's annual MSP pension cap.
 
-An individual's “annual MSP pension cap” is two-thirds of the individual's final salary as an MSP (ignoring any reduction in final salary by virtue of section 82[^key-2a47565563c06fef766d86ecf2a7f622] of the Scotland Act 1998 (c. 46)).
+An individual's “annual MSP pension cap” is two-thirds of the individual's final salary as an MSP (ignoring any reduction in final salary by virtue of section 82[^c-2a47565563c06fef766d86ecf2a7f622] of the Scotland Act 1998 (c. 46)).
 
 #### Amount of office-holder pension
 
@@ -550,7 +550,7 @@ This rule does not affect the date from which a scheme pension is payable.
 | *Condition 4* | At the time of stopping work the deferred pensioner would be entitled to a scheme pension but for the fact that the deferred pensioner is not yet 65 years old. |
 | *Condition 5* | The health condition prevents the deferred pensioner from doing gainful work. |
 | *Condition 6* | The health condition is expected to be permanent and to continue to prevent the deferred pensioner from doing gainful work. |
-| *Condition 7* | The application is accompanied by evidence that a doctor is satisfied that conditions 5 and 6[^key-d467c4ac214ba5762d979b711f202c90] are met. |
+| *Condition 7* | The application is accompanied by evidence that a doctor is satisfied that conditions 5 and 6[^c-d467c4ac214ba5762d979b711f202c90] are met. |
 
 #### Amount of serious ill-health pension
 
@@ -981,7 +981,7 @@ in the same way as it applies in relation to an individual aged under 64.
 | *Condition 3* | The Fund trustees have given the individual a statement of entitlement in pursuance of section 93A of the Pension Schemes Act 1993 (c. 48). |
 | *Condition 4* | The individual gives the Fund trustees notice (a “transfer-out notice”)—<br>- (a) specifying the way in which the transferable sum is to be transferred, and<br>- (b) setting out any other information which the Fund trustees may reasonably require in relation to the transfer. |
 | *Condition 5* | The transfer-out notice is given before the later of—<br>- (a) the day falling 6 months after the individual stopped being a participating member, and<br>- (b) the individual's 64th birthday. |
-| *Condition 6* | The transfer-out notice is given within 3 months of the guarantee date relating to the statement of entitlement (see section 93A(4)[^key-9a61ac0e25c6f067878d9bff6384320d] of the Pension Schemes Act 1993 (c. 48)). |
+| *Condition 6* | The transfer-out notice is given within 3 months of the guarantee date relating to the statement of entitlement (see section 93A(4)[^c-9a61ac0e25c6f067878d9bff6384320d] of the Pension Schemes Act 1993 (c. 48)). |
 | *Condition 7* | The way in which the transferable sum is to be transferred is permitted by section 95(2) of the Pension Schemes Act 1993 (c. 48). |
 | *Condition 8* | The transfer—<br>- (a) would be a recognised transfer for the purposes of section 169 of the Finance Act 2004 (c. 12), and<br>- (b) is not prohibited by any other enactment. |
 
@@ -1090,7 +1090,7 @@ in the same way as it applies in relation to an individual aged under 64.
 | *Condition 4* | The applicant has given the Fund trustees any information that they reasonably require in relation to the application. |
 | *Condition 5* | Rule 89 does not require the Fund trustees to reject the application. |
 
-(2) An accepted application is revocable by the member giving notice to the Fund trustees[^key-9c6913a5ca3d819e5b7f13862d9e5d80] .
+(2) An accepted application is revocable by the member giving notice to the Fund trustees[^c-9c6913a5ca3d819e5b7f13862d9e5d80] .
 
 (3) The person responsible for paying the participating member's salary must—
 
@@ -1108,7 +1108,7 @@ in the same way as it applies in relation to an individual aged under 64.
 
 (7) Where added years are bought by an office-holder member who is not an MSP, the increase in reckonable service is, for the purposes of rule 39(3), to be attributed to the period in office being served when the added years are bought.
 
-#### Revocation of accepted application[^key-d064ec0a130aedb523ae62ec32aefc17]
+#### Revocation of accepted application[^c-d064ec0a130aedb523ae62ec32aefc17]
 
 **85A.** (1) This rule applies—
 
@@ -1243,7 +1243,7 @@ where—
 - (d) a right to be paid a lump sum instead of a pension where the member has not yet received a pension and is not expected to live for longer than one year because of a health condition,
 - (e) a right to be paid a lump sum instead of a pension where that lump sum would be a trivial commutation lump sum for the purposes of Part 1 of Schedule 29 to the Finance Act 2004 (c. 12),
 - (f) where a pension credit member dies within 5 years of first receiving a pension, a right to have the pension paid to a surviving partner, dependant children or personal representatives for the remainder of the 5 year period,
-- (g) where a pension credit member dies before first receiving a pension, a right to have a lump sum paid to a surviving partner, dependant children or personal representatives of an amount equal to 25% of the cash equivalent of the benefits attributable to the corresponding pension credit (within the meaning of Chapter 1 of Part 4ZA[^key-c0582b3a44871020ef6e506ab1fe7efc] to the Pension Schemes Act 1993 (c. 48)).
+- (g) where a pension credit member dies before first receiving a pension, a right to have a lump sum paid to a surviving partner, dependant children or personal representatives of an amount equal to 25% of the cash equivalent of the benefits attributable to the corresponding pension credit (within the meaning of Chapter 1 of Part 4ZA[^c-c0582b3a44871020ef6e506ab1fe7efc] to the Pension Schemes Act 1993 (c. 48)).
 
 (3) An individual's benefits as a pension credit member are to be provided separately from any other benefits to which the individual may be entitled under the scheme.
 
@@ -1278,7 +1278,7 @@ where—
 
 **95.** The following adjustments are to be made when doing the calculation set out in rule 38(1) in respect of any individual who was a dual mandate MSP during any period in which the individual was an MSP member—
 
-- (a) any reduction in final salary by virtue of section 82[^key-ddba19a61468e3d8c6fd90ae0f699363] of the Scotland Act 1998 (c. 46) is to be ignored,
+- (a) any reduction in final salary by virtue of section 82[^c-ddba19a61468e3d8c6fd90ae0f699363] of the Scotland Act 1998 (c. 46) is to be ignored,
 - (b) when determining A, any period of reckonable service as an MSP in respect of which the individual—
   - (i) made lower rate scheme member contributions, and
   - (ii) was a dual mandate MSP,
@@ -1571,18 +1571,18 @@ and references to the annual amount of an individual's scheme pension are to be 
 
 ## Annotations
 
-[^key-6380ff0315f6522b9512ebaf56f6df47]: Textual amendment: [Sch. 1 rule 13](https://www.legislation.gov.uk/asp/2009/1/schedule/1/rule/13) omitted (11.2.2011) by virtue of [The Scottish Parliamentary Pensions Act 2009 (Modifications to the Scottish Parliamentary Pensions Scheme) Resolution 2011 (S.S.I. 2011/244)](https://www.legislation.gov.uk/ssi/2011/244), Annex para. 1
+[^c-6380ff0315f6522b9512ebaf56f6df47]: Textual amendment: [Sch. 1 rule 13](https://www.legislation.gov.uk/asp/2009/1/schedule/1/rule/13) omitted (11.2.2011) by virtue of [The Scottish Parliamentary Pensions Act 2009 (Modifications to the Scottish Parliamentary Pensions Scheme) Resolution 2011 (S.S.I. 2011/244)](https://www.legislation.gov.uk/ssi/2011/244), Annex para. 1
 
-[^key-2a47565563c06fef766d86ecf2a7f622]: Textual amendment: Word in sch. 1 rule 38(2) substituted (20.3.2026) by [The Scottish Elections (Representation and Reform) Act 2025 (Consequential Provision) Regulations 2026 (S.S.I. 2026/151)](https://www.legislation.gov.uk/ssi/2026/151), [regs. 1](https://www.legislation.gov.uk/ssi/2026/151/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2026/151/regulation/2/2/a)
+[^c-2a47565563c06fef766d86ecf2a7f622]: Textual amendment: Word in sch. 1 rule 38(2) substituted (20.3.2026) by [The Scottish Elections (Representation and Reform) Act 2025 (Consequential Provision) Regulations 2026 (S.S.I. 2026/151)](https://www.legislation.gov.uk/ssi/2026/151), [regs. 1](https://www.legislation.gov.uk/ssi/2026/151/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2026/151/regulation/2/2/a)
 
-[^key-d467c4ac214ba5762d979b711f202c90]: Textual amendment: Words in sch. 1 rule 49 substituted (11.2.2011) by [The Scottish Parliamentary Pensions Act 2009 (Modifications to the Scottish Parliamentary Pensions Scheme) Resolution 2011 (S.S.I. 2011/244)](https://www.legislation.gov.uk/ssi/2011/244), Annex para. 2
+[^c-d467c4ac214ba5762d979b711f202c90]: Textual amendment: Words in sch. 1 rule 49 substituted (11.2.2011) by [The Scottish Parliamentary Pensions Act 2009 (Modifications to the Scottish Parliamentary Pensions Scheme) Resolution 2011 (S.S.I. 2011/244)](https://www.legislation.gov.uk/ssi/2011/244), Annex para. 2
 
-[^key-9a61ac0e25c6f067878d9bff6384320d]: Textual amendment: Words in [sch. 1 para. 75](https://www.legislation.gov.uk/asp/2009/1/schedule/1/paragraph/75) substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 43(2)](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/43/2) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-9a61ac0e25c6f067878d9bff6384320d]: Textual amendment: Words in [sch. 1 para. 75](https://www.legislation.gov.uk/asp/2009/1/schedule/1/paragraph/75) substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 43(2)](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/43/2) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
 
-[^key-9c6913a5ca3d819e5b7f13862d9e5d80]: Textual amendment: Words in [sch. 1 rule 85(2)](https://www.legislation.gov.uk/asp/2009/1/schedule/1/rule/85/2) substituted (11.2.2011) by [The Scottish Parliamentary Pensions Act 2009 (Modifications to the Scottish Parliamentary Pensions Scheme) Resolution 2011 (S.S.I. 2011/244)](https://www.legislation.gov.uk/ssi/2011/244), Annex para. 3
+[^c-9c6913a5ca3d819e5b7f13862d9e5d80]: Textual amendment: Words in [sch. 1 rule 85(2)](https://www.legislation.gov.uk/asp/2009/1/schedule/1/rule/85/2) substituted (11.2.2011) by [The Scottish Parliamentary Pensions Act 2009 (Modifications to the Scottish Parliamentary Pensions Scheme) Resolution 2011 (S.S.I. 2011/244)](https://www.legislation.gov.uk/ssi/2011/244), Annex para. 3
 
-[^key-d064ec0a130aedb523ae62ec32aefc17]: Textual amendment: Sch. 1 rule 85A and cross-heading inserted (11.2.2011) by [The Scottish Parliamentary Pensions Act 2009 (Modifications to the Scottish Parliamentary Pensions Scheme) Resolution 2011 (S.S.I. 2011/244)](https://www.legislation.gov.uk/ssi/2011/244), Annex para. 4
+[^c-d064ec0a130aedb523ae62ec32aefc17]: Textual amendment: Sch. 1 rule 85A and cross-heading inserted (11.2.2011) by [The Scottish Parliamentary Pensions Act 2009 (Modifications to the Scottish Parliamentary Pensions Scheme) Resolution 2011 (S.S.I. 2011/244)](https://www.legislation.gov.uk/ssi/2011/244), Annex para. 4
 
-[^key-c0582b3a44871020ef6e506ab1fe7efc]: Textual amendment: Words in [sch. 1 para. 91(2)(g)](https://www.legislation.gov.uk/asp/2009/1/schedule/1/paragraph/91/2/g) substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 43(3)](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/43/3) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-c0582b3a44871020ef6e506ab1fe7efc]: Textual amendment: Words in [sch. 1 para. 91(2)(g)](https://www.legislation.gov.uk/asp/2009/1/schedule/1/paragraph/91/2/g) substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 43(3)](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/43/3) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
 
-[^key-ddba19a61468e3d8c6fd90ae0f699363]: Textual amendment: Word in sch. 1 rule 95 substituted (20.3.2026) by [The Scottish Elections (Representation and Reform) Act 2025 (Consequential Provision) Regulations 2026 (S.S.I. 2026/151)](https://www.legislation.gov.uk/ssi/2026/151), [regs. 1](https://www.legislation.gov.uk/ssi/2026/151/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2026/151/regulation/2/2/b)
+[^c-ddba19a61468e3d8c6fd90ae0f699363]: Textual amendment: Word in sch. 1 rule 95 substituted (20.3.2026) by [The Scottish Elections (Representation and Reform) Act 2025 (Consequential Provision) Regulations 2026 (S.S.I. 2026/151)](https://www.legislation.gov.uk/ssi/2026/151), [regs. 1](https://www.legislation.gov.uk/ssi/2026/151/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2026/151/regulation/2/2/b)

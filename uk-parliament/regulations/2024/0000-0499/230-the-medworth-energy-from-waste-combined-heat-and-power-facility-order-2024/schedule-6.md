@@ -22,7 +22,7 @@ summary: ''
 
 Article 12
 
-### PART 1 — THOSE PARTS OF THE ACCESS TO BE MAINTAINED AT THE PUBLIC EXPENSE[^key-ed005dfa4eee49d1eb59bfd720e9ea8b]
+### PART 1 — THOSE PARTS OF THE ACCESS TO BE MAINTAINED AT THE PUBLIC EXPENSE[^c-ed005dfa4eee49d1eb59bfd720e9ea8b]
 
 Table 4
 
@@ -37,7 +37,7 @@ Table 4
 | In the County of Cambridgeshire | New Bridge Lane (public highway) | Access to the area shown coloured orange and marked A11 on sheet 1 of the access and public rights of way plan to the extent that such access is or will be located within the public highway |
 | In the County of Cambridgeshire | Broadend Road (public highway) | Access to the area shown coloured orange and marked A12 on sheet 4 of the access and public rights of way plan to the extent that such access is or will be located within the public highway |
 
-### PART 2 — THOSE PARTS OF THE ACCESS TO BE MAINTAINED BY THE STREET AUTHORITY[^key-9621f84d1eaa44a814204f39f0053e88]
+### PART 2 — THOSE PARTS OF THE ACCESS TO BE MAINTAINED BY THE STREET AUTHORITY[^c-9621f84d1eaa44a814204f39f0053e88]
 
 Table 5
 
@@ -49,7 +49,7 @@ Table 5
 | In the County of Cambridgeshire | New Bridge Lane (public highway) | Access to the area shown coloured orange and marked A7 on sheet 1 of the access and public rights of way plan to the extent that such access is or will be located outside of the public highway |
 | In the County of Cambridgeshire | New Bridge Lane (public highway) | Access to the area shown coloured orange and marked A8 on sheet 1 of the access and public rights of way plan to the extent that such access is or will be located outside of the public highway |
 
-### PART 3 — THOSE WORKS TO RESTORE THE TEMPORARY ACCESSES WHICH WILL BE MAINTAINED BY THE STREET AUTHORITY[^key-475167e8cf81aa5ed5227d6424746a8e]
+### PART 3 — THOSE WORKS TO RESTORE THE TEMPORARY ACCESSES WHICH WILL BE MAINTAINED BY THE STREET AUTHORITY[^c-475167e8cf81aa5ed5227d6424746a8e]
 
 Table 6
 
@@ -64,8 +64,8 @@ Table 6
 
 ## Annotations
 
-[^key-ed005dfa4eee49d1eb59bfd720e9ea8b]: Commencement: Sch. 6 Pt. 1 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-ed005dfa4eee49d1eb59bfd720e9ea8b]: Commencement: Sch. 6 Pt. 1 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-9621f84d1eaa44a814204f39f0053e88]: Commencement: Sch. 6 Pt. 2 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-9621f84d1eaa44a814204f39f0053e88]: Commencement: Sch. 6 Pt. 2 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-475167e8cf81aa5ed5227d6424746a8e]: Commencement: Sch. 6 Pt. 3 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-475167e8cf81aa5ed5227d6424746a8e]: Commencement: Sch. 6 Pt. 3 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)

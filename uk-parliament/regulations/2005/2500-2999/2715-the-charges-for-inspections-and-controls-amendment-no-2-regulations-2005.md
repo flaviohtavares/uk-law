@@ -32,7 +32,7 @@ summary: ''
 
 FOOD
 
-The Charges for Inspections and Controls (Amendment) (No. 2) Regulations 2005 (revoked)[^key-40649360286a480447191529ddda03af]
+The Charges for Inspections and Controls (Amendment) (No. 2) Regulations 2005 (revoked)[^c-40649360286a480447191529ddda03af]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 31st October 2005
 
-[^key-40649360286a480447191529ddda03af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-40649360286a480447191529ddda03af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-40649360286a480447191529ddda03af]
+## 1. Title and commencement[^c-40649360286a480447191529ddda03af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-40649360286a480447191529ddda03af]
+## 2. Amendment[^c-40649360286a480447191529ddda03af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-40649360286a480447191529ddda03af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-40649360286a480447191529ddda03af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-40649360286a480447191529ddda03af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-40649360286a480447191529ddda03af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-40649360286a480447191529ddda03af]: Textual amendment: Regulations revoked (1.10.2006) by [The Charges for Residues Surveillance Regulations 2006 (S.I. 2006/2285)](https://www.legislation.gov.uk/uksi/2006/2285), [reg. 1](https://www.legislation.gov.uk/uksi/2006/2285/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2285/schedule/2) (with [reg. 6](https://www.legislation.gov.uk/uksi/2006/2285/regulation/6))
+[^c-40649360286a480447191529ddda03af]: Textual amendment: Regulations revoked (1.10.2006) by [The Charges for Residues Surveillance Regulations 2006 (S.I. 2006/2285)](https://www.legislation.gov.uk/uksi/2006/2285), [reg. 1](https://www.legislation.gov.uk/uksi/2006/2285/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2285/schedule/2) (with [reg. 6](https://www.legislation.gov.uk/uksi/2006/2285/regulation/6))

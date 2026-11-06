@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 83. Areas[^key-e50ed27e66fa7234372db7b1c921a8ee]
+## Article 83. Areas[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e50ed27e66fa7234372db7b1c921a8ee]: Textual amendment: Repealed (with saving) by [Regulation (EU) No 1307/2013 of the European Parliament and of the Council of 17 December 2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy and repealing Council Regulation (EC) No 637/2008 and Council Regulation (EC) No 73/2009, Art. 72](https://www.legislation.gov.uk/eur/2013/1307) and, in so far as still in force, specified provisions revoked and amended (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/paragraph/1) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/paragraph/2))
+[^c-e50ed27e66fa7234372db7b1c921a8ee]: Textual amendment: Repealed (with saving) by [Regulation (EU) No 1307/2013 of the European Parliament and of the Council of 17 December 2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy and repealing Council Regulation (EC) No 637/2008 and Council Regulation (EC) No 73/2009, Art. 72](https://www.legislation.gov.uk/eur/2013/1307) and, in so far as still in force, specified provisions revoked and amended (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/paragraph/1) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/paragraph/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Detention of seized cash[^key-dfbaa27d2fe530869e8f849f743b89c7]
+## 64. Detention of seized cash[^c-dfbaa27d2fe530869e8f849f743b89c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfbaa27d2fe530869e8f849f743b89c7]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2009/26/section/64) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(i)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/i)
+[^c-dfbaa27d2fe530869e8f849f743b89c7]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2009/26/section/64) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(i)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/i)

@@ -16,46 +16,46 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 12A — Children’s Certificates: Supplementary Provisions[^key-08dfeba7c89d3df57009a817dae195d1]
+## SCHEDULE 12A — Children’s Certificates: Supplementary Provisions[^c-08dfeba7c89d3df57009a817dae195d1]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-### Applications[^key-08dfeba7c89d3df57009a817dae195d1]
+### Applications[^c-08dfeba7c89d3df57009a817dae195d1]
 
-**1.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Refusal[^key-08dfeba7c89d3df57009a817dae195d1]
+### Refusal[^c-08dfeba7c89d3df57009a817dae195d1]
 
-**3.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Conditions[^key-08dfeba7c89d3df57009a817dae195d1]
+### Conditions[^c-08dfeba7c89d3df57009a817dae195d1]
 
-**4.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### When operational[^key-08dfeba7c89d3df57009a817dae195d1]
+### When operational[^c-08dfeba7c89d3df57009a817dae195d1]
 
-**5.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Duration[^key-08dfeba7c89d3df57009a817dae195d1]
+### Duration[^c-08dfeba7c89d3df57009a817dae195d1]
 
-**6.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Appeals[^key-08dfeba7c89d3df57009a817dae195d1]
+### Appeals[^c-08dfeba7c89d3df57009a817dae195d1]
 
-**10.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-08dfeba7c89d3df57009a817dae195d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-08dfeba7c89d3df57009a817dae195d1]: Textual amendment: Act repealed (17.7.2003 for the purpose of the repeal of ss. 66, 67, Sch. 8, 24.11.2005 in so far as not already in force) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2003/1911](https://www.legislation.gov.uk/uksi/2003/1911), [art. 2](https://www.legislation.gov.uk/uksi/2003/1911/article/2); S.I. 2005/3056
+[^c-08dfeba7c89d3df57009a817dae195d1]: Textual amendment: Act repealed (17.7.2003 for the purpose of the repeal of ss. 66, 67, Sch. 8, 24.11.2005 in so far as not already in force) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2003/1911](https://www.legislation.gov.uk/uksi/2003/1911), [art. 2](https://www.legislation.gov.uk/uksi/2003/1911/article/2); S.I. 2005/3056

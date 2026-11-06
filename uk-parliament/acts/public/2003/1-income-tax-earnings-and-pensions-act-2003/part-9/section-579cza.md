@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 579CZA. Exemption for beneficiaries' income withdrawal in some cases[^key-f93ffaacc714ca167fbc40bf51a37462][^key-cc94000b3530d1b96b38cfce476e5e9b]
+## 579CZA. Exemption for beneficiaries' income withdrawal in some cases[^c-f93ffaacc714ca167fbc40bf51a37462][^c-cc94000b3530d1b96b38cfce476e5e9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,7 +53,7 @@ and here “**beneficiary**” means dependant, nominee or successor.
 - (a) any of the sums or assets that make up the new fund—
   - (i) became newly-designated dependant funds under paragraph 22A(2)(b) of Schedule 28 to FA 2004 or as a result of the operation of any of paragraphs 22B to 22D of that Schedule, or
   - (ii) arise, or (directly or indirectly) derive, from any such newly-designated dependant funds or from sums or assets which so arise or derive,
-- (b)[^key-e6766c10ae0e3f2f8571dd5c4211e7df] before 6 April 2015—
+- (b)[^c-e6766c10ae0e3f2f8571dd5c4211e7df] before 6 April 2015—
   - (i) any payment of dependants' income withdrawal in respect of the deceased member was made to the person from, or
   - (ii) any payment in respect of the deceased member was made to the person of a dependants' short-term annuity purchased using sums or assets out of,
 
@@ -84,8 +84,8 @@ section 579A does apply to dependants' income withdrawal or nominees' income wit
 
 ## Annotations
 
-[^key-f93ffaacc714ca167fbc40bf51a37462]: Textual amendment: S. 579CZA inserted (with effect in accordance with Sch. 2 para. 25(7) of the amending Act) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 2 para. 25(5)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/2/paragraph/25/5)
+[^c-f93ffaacc714ca167fbc40bf51a37462]: Textual amendment: S. 579CZA inserted (with effect in accordance with Sch. 2 para. 25(7) of the amending Act) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 2 para. 25(5)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/2/paragraph/25/5)
 
-[^key-cc94000b3530d1b96b38cfce476e5e9b]: Textual amendment: Pt. 9 Ch. 5A inserted (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1), [Sch. 31 para. 6](https://www.legislation.gov.uk/ukpga/2004/12/schedule/31/paragraph/6) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-cc94000b3530d1b96b38cfce476e5e9b]: Textual amendment: Pt. 9 Ch. 5A inserted (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1), [Sch. 31 para. 6](https://www.legislation.gov.uk/ukpga/2004/12/schedule/31/paragraph/6) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
 
-[^key-e6766c10ae0e3f2f8571dd5c4211e7df]: Textual amendment: [S. 579CZA(5)(b)](https://www.legislation.gov.uk/ukpga/2003/1/section/579CZA/5/b) substituted (with effect in accordance with Sch. 4 para. 23(2) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 4 para. 23(1)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/4/paragraph/23/1)
+[^c-e6766c10ae0e3f2f8571dd5c4211e7df]: Textual amendment: [S. 579CZA(5)(b)](https://www.legislation.gov.uk/ukpga/2003/1/section/579CZA/5/b) substituted (with effect in accordance with Sch. 4 para. 23(2) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 4 para. 23(1)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/4/paragraph/23/1)

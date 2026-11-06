@@ -31,30 +31,30 @@ Consolidated Fund Act 2003 (repealed)
 
 2003 c. 2
 
-[^key-1679a641dc6ef023e8b98100d86782a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1679a641dc6ef023e8b98100d86782a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Use of resources for the year ending on 31st March 2002[^key-1679a641dc6ef023e8b98100d86782a3][^key-1679a641dc6ef023e8b98100d86782a3]
+## 1. Use of resources for the year ending on 31st March 2002[^c-1679a641dc6ef023e8b98100d86782a3][^c-1679a641dc6ef023e8b98100d86782a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Issue out of the Consolidated Fund for the year ending on 31st March 2002[^key-1679a641dc6ef023e8b98100d86782a3][^key-1679a641dc6ef023e8b98100d86782a3]
+## 2. Issue out of the Consolidated Fund for the year ending on 31st March 2002[^c-1679a641dc6ef023e8b98100d86782a3][^c-1679a641dc6ef023e8b98100d86782a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Use of resources for the year ending on 31st March 2003[^key-1679a641dc6ef023e8b98100d86782a3][^key-1679a641dc6ef023e8b98100d86782a3]
+## 3. Use of resources for the year ending on 31st March 2003[^c-1679a641dc6ef023e8b98100d86782a3][^c-1679a641dc6ef023e8b98100d86782a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Issue out of the Consolidated Fund for the year ending on 31st March 2003[^key-1679a641dc6ef023e8b98100d86782a3][^key-1679a641dc6ef023e8b98100d86782a3]
+## 4. Issue out of the Consolidated Fund for the year ending on 31st March 2003[^c-1679a641dc6ef023e8b98100d86782a3][^c-1679a641dc6ef023e8b98100d86782a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Short title[^key-1679a641dc6ef023e8b98100d86782a3][^key-1679a641dc6ef023e8b98100d86782a3]
+## 5. Short title[^c-1679a641dc6ef023e8b98100d86782a3][^c-1679a641dc6ef023e8b98100d86782a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1679a641dc6ef023e8b98100d86782a3]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2003/2) repealed (20.7.2005) by [Appropriation (No. 3) Act 2005 (c. 21)](https://www.legislation.gov.uk/ukpga/2005/21), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/21/schedule/3)
+[^c-1679a641dc6ef023e8b98100d86782a3]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2003/2) repealed (20.7.2005) by [Appropriation (No. 3) Act 2005 (c. 21)](https://www.legislation.gov.uk/ukpga/2005/21), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/21/schedule/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Defence: lawful disclosure of information held by Revenue and Customs[^key-76faf7badd228e443f30e500a06e9066]
+## 45. Defence: lawful disclosure of information held by Revenue and Customs[^c-76faf7badd228e443f30e500a06e9066]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ It is a defence for a person charged with an offence under regulation 44 to prov
 
 ## Annotations
 
-[^key-76faf7badd228e443f30e500a06e9066]: Commencement: Reg. 45 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-76faf7badd228e443f30e500a06e9066]: Commencement: Reg. 45 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)

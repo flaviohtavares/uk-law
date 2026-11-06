@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 144. Llanover — change of electoral ward name[^key-a719e3a30c098e529c07420f396b265c][^key-9fa1ae2da54bf4fb7b8387577f5476b3]
+## 144. Llanover — change of electoral ward name[^c-a719e3a30c098e529c07420f396b265c][^c-9fa1ae2da54bf4fb7b8387577f5476b3]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The electoral ward of Llanover as changed by this Order is re-named Gobion Fawr.
 
 ## Annotations
 
-[^key-a719e3a30c098e529c07420f396b265c]: Commencement: Art. 144 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-a719e3a30c098e529c07420f396b265c]: Commencement: Art. 144 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-9fa1ae2da54bf4fb7b8387577f5476b3]: Commencement: [Art. 144](https://www.legislation.gov.uk/wsi/2021/1227/article/144) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-9fa1ae2da54bf4fb7b8387577f5476b3]: Commencement: [Art. 144](https://www.legislation.gov.uk/wsi/2021/1227/article/144) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

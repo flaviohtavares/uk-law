@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Subsequent sanction notices[^key-53cb7efa9a286e9c45bb141c6afbe06b]
+## 54. Subsequent sanction notices[^c-53cb7efa9a286e9c45bb141c6afbe06b]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53cb7efa9a286e9c45bb141c6afbe06b]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2016/20/section/54) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-53cb7efa9a286e9c45bb141c6afbe06b]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2016/20/section/54) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

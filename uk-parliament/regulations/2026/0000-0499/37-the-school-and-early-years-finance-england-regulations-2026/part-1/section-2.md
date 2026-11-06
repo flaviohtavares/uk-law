@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Revocation[^key-5fffcd2be3d24cb4e383136d5e1b5f66]
+## 2. Revocation[^c-5fffcd2be3d24cb4e383136d5e1b5f66]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ With the exception of regulation 45, the School and Early Years Finance and Chil
 
 ## Annotations
 
-[^key-5fffcd2be3d24cb4e383136d5e1b5f66]: Commencement: Reg. 2 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-5fffcd2be3d24cb4e383136d5e1b5f66]: Commencement: Reg. 2 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
 
 [^f00049]: Footnote: [S.I. 2024/66](https://www.legislation.gov.uk/uksi/2024/66).

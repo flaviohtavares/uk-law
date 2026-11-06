@@ -43,7 +43,7 @@ summary: ''
 
 (8) Subsection (7) does not apply to—
 
-- (a) sections 85, *(Extent: S)* *(affected by repeal, see note)*[^key-07a614a8fb5286143357f2aa502e6590] 113(3), 114 and 121(a),
+- (a) sections 85, *(Extent: S)* *(affected by repeal, see note)*[^c-07a614a8fb5286143357f2aa502e6590] 113(3), 114 and 121(a),
 - (b) paragraphs 8 and 53 of Schedule 7, and
 - (c) the entries in Schedule 8 relating to—
   - (i) the Fire Services Act 1947 (c. 41),
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07a614a8fb5286143357f2aa502e6590]: Textual amendment: Word in s. 129(8)(a) repealed (S.) (7.10.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 157(2)](https://www.legislation.gov.uk/asp/2010/17/section/157/2), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2011/339](https://www.legislation.gov.uk/ssi/2011/339), [art. 2](https://www.legislation.gov.uk/ssi/2011/339/article/2)
+[^c-07a614a8fb5286143357f2aa502e6590]: Textual amendment: Word in s. 129(8)(a) repealed (S.) (7.10.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 157(2)](https://www.legislation.gov.uk/asp/2010/17/section/157/2), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2011/339](https://www.legislation.gov.uk/ssi/2011/339), [art. 2](https://www.legislation.gov.uk/ssi/2011/339/article/2)

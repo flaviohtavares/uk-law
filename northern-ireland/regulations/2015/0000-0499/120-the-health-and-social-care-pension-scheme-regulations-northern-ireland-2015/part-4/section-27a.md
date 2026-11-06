@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27A. Regulation 27A Pensionable earnings: scheme years 2015/16 to 2023/24[^key-b9fb14d0b30386f9d1bd570520563512]
+## 27A. Regulation 27A Pensionable earnings: scheme years 2015/16 to 2023/24[^c-b9fb14d0b30386f9d1bd570520563512]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9fb14d0b30386f9d1bd570520563512]: Textual amendment: [Reg. 27A](https://www.legislation.gov.uk/nisr/2015/120/regulation/27A) inserted (18.6.2025) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2025 (S.R. 2025/100)](https://www.legislation.gov.uk/nisr/2025/100), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2), [22](https://www.legislation.gov.uk/nisr/2025/100/regulation/22)
+[^c-b9fb14d0b30386f9d1bd570520563512]: Textual amendment: [Reg. 27A](https://www.legislation.gov.uk/nisr/2015/120/regulation/27A) inserted (18.6.2025) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2025 (S.R. 2025/100)](https://www.legislation.gov.uk/nisr/2025/100), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2), [22](https://www.legislation.gov.uk/nisr/2025/100/regulation/22)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Transitional provision: slaughterhouses (layout, construction and equipment)[^key-5c0d02d76704a02aed028caa3b940b30]
+## 45. Transitional provision: slaughterhouses (layout, construction and equipment)[^c-5c0d02d76704a02aed028caa3b940b30]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c0d02d76704a02aed028caa3b940b30]: Commencement: [Reg. 45](https://www.legislation.gov.uk/wsi/2014/951/regulation/45) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-5c0d02d76704a02aed028caa3b940b30]: Commencement: [Reg. 45](https://www.legislation.gov.uk/wsi/2014/951/regulation/45) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

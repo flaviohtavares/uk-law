@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Gaming machines on licensed betting premises[^key-f4b06e6daa6d2abc842781be0c810a5d]
+## 58. Gaming machines on licensed betting premises[^c-f4b06e6daa6d2abc842781be0c810a5d]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f4b06e6daa6d2abc842781be0c810a5d]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2017/4/section/58) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/l)
+[^c-f4b06e6daa6d2abc842781be0c810a5d]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2017/4/section/58) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/l)

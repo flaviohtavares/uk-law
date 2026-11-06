@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Police complaints[^key-b53bbbc7dd9518c81ca9f374b076aa36]
+## 45. Police complaints[^c-b53bbbc7dd9518c81ca9f374b076aa36]
 
 *Extent: E+W+S+N.I.*
 
@@ -81,4 +81,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b53bbbc7dd9518c81ca9f374b076aa36]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2023/41/section/45) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)
+[^c-b53bbbc7dd9518c81ca9f374b076aa36]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2023/41/section/45) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)

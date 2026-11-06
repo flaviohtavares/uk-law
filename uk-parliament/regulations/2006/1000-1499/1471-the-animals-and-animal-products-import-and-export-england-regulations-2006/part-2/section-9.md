@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Approval of centres and teams for the purposes of Council Directive [92/65/EEC](https://www.legislation.gov.uk/eudr/1992/65) and of laboratories for the purposes of Council Directive [2009/158/EC](https://www.legislation.gov.uk/eudr/2009/158)[^key-efec508bd317d4537b18a46347a58bfc]
+## 9. Approval of centres and teams for the purposes of Council Directive [92/65/EEC](https://www.legislation.gov.uk/eudr/1992/65) and of laboratories for the purposes of Council Directive [2009/158/EC](https://www.legislation.gov.uk/eudr/2009/158)[^c-efec508bd317d4537b18a46347a58bfc]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-efec508bd317d4537b18a46347a58bfc]: Textual amendment: Regulations revoked (25.5.2011) by [The Trade in Animals and Related Products Regulations 2011 (S.I. 2011/1197)](https://www.legislation.gov.uk/uksi/2011/1197), [reg. 44(f)](https://www.legislation.gov.uk/uksi/2011/1197/regulation/44/f) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/1197/regulation/3))
+[^c-efec508bd317d4537b18a46347a58bfc]: Textual amendment: Regulations revoked (25.5.2011) by [The Trade in Animals and Related Products Regulations 2011 (S.I. 2011/1197)](https://www.legislation.gov.uk/uksi/2011/1197), [reg. 44(f)](https://www.legislation.gov.uk/uksi/2011/1197/regulation/44/f) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/1197/regulation/3))

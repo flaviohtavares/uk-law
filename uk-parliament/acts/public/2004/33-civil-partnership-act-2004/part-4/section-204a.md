@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 204A. Ceremonies and events to mark civil partnerships: protection from compulsion[^key-b383e79ee30bd1006f67fc3c29c12201]
+## 204A. Ceremonies and events to mark civil partnerships: protection from compulsion[^c-b383e79ee30bd1006f67fc3c29c12201]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ where the reason for not doing that thing is that the body or person does not wi
 
 ## Annotations
 
-[^key-b383e79ee30bd1006f67fc3c29c12201]: Textual amendment: S. 204A inserted (N.I.) (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2020/742/regulation/12)
+[^c-b383e79ee30bd1006f67fc3c29c12201]: Textual amendment: S. 204A inserted (N.I.) (1.9.2020) by [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2020/742/regulation/12)

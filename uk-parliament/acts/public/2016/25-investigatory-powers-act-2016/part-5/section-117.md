@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Renewal of warrants[^key-cb8ea5360640e78bbb3ec02676a722e0][^key-c22078434eecdac9c7ef098b70856e27]
+## 117. Renewal of warrants[^c-cb8ea5360640e78bbb3ec02676a722e0][^c-c22078434eecdac9c7ef098b70856e27]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cb8ea5360640e78bbb3ec02676a722e0]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2016/25/section/117) in force at 27.6.2018 for specified purposes by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 9(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/9/g)
+[^c-cb8ea5360640e78bbb3ec02676a722e0]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2016/25/section/117) in force at 27.6.2018 for specified purposes by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 9(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/9/g)
 
-[^key-c22078434eecdac9c7ef098b70856e27]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2016/25/section/117) in force at 5.12.2018 in so far as not already in force by [S.I. 2018/1246](https://www.legislation.gov.uk/uksi/2018/1246), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/1246/regulation/3/b)
+[^c-c22078434eecdac9c7ef098b70856e27]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2016/25/section/117) in force at 5.12.2018 in so far as not already in force by [S.I. 2018/1246](https://www.legislation.gov.uk/uksi/2018/1246), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/1246/regulation/3/b)

@@ -111,7 +111,7 @@ In regulation 2 (interpretation and application)–
 
   .
 
-### 5.[^key-915e8646f9b63ec277f77a76bed4d500]
+### 5.[^c-915e8646f9b63ec277f77a76bed4d500]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -580,7 +580,7 @@ Regulations 20 and 21 set out the transitional arrangements which are necessary 
 
 [^c5352851]: Marginal citation: O.J. L 236, 23.9.03, p.33.
 
-[^key-915e8646f9b63ec277f77a76bed4d500]: Textual amendment: Reg. 5 revoked (16.8.2012) by [The Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2012 (S.S.I. 2012/228)](https://www.legislation.gov.uk/ssi/2012/228), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/228/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2012/228/schedule)
+[^c-915e8646f9b63ec277f77a76bed4d500]: Textual amendment: Reg. 5 revoked (16.8.2012) by [The Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2012 (S.S.I. 2012/228)](https://www.legislation.gov.uk/ssi/2012/228), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/228/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2012/228/schedule)
 
 [^c5352861]: Marginal citation: O.J. No. L 206, 22.7.92, p.7.
 

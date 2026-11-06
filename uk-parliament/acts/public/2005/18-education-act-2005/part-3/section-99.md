@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Transitional and transitory provisions relating to Part 3[^key-710ce92c142a67f22aba40e407044a11][^c12025711]
+## 99. Transitional and transitory provisions relating to Part 3[^c-710ce92c142a67f22aba40e407044a11][^c12025711]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-710ce92c142a67f22aba40e407044a11]: Textual amendment: [S. 99](https://www.legislation.gov.uk/ukpga/2005/18/section/99) repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 5 para. 31](https://www.legislation.gov.uk/ukpga/2011/21/schedule/5/paragraph/31); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-710ce92c142a67f22aba40e407044a11]: Textual amendment: [S. 99](https://www.legislation.gov.uk/ukpga/2005/18/section/99) repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 5 para. 31](https://www.legislation.gov.uk/ukpga/2011/21/schedule/5/paragraph/31); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
 [^c12025711]: Commencement: S. 99 partly in force; s. 99 in force for certain purposes at Royal Assent, see s. 125(1)(b)

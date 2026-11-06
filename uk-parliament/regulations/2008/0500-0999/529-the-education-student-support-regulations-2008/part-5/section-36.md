@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Old system students[^key-a58aa748b3740acc0a3b4e372a2dc135]
+## 36. Old system students[^c-a58aa748b3740acc0a3b4e372a2dc135]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ The following grants are available to an old system student in connection with a
 
 ## Annotations
 
-[^key-a58aa748b3740acc0a3b4e372a2dc135]: Commencement: Reg. 36 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-a58aa748b3740acc0a3b4e372a2dc135]: Commencement: Reg. 36 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

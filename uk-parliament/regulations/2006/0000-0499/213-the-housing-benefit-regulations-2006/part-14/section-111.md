@@ -26,8 +26,8 @@ A relevant authority which holds relevant information—
   - (i) a local authority;
   - (ii) a person providing services to a local authority; or
   - (iii) a person authorised to exercise any function of a local authority relating to housing benefit; and
-- (b)[^key-a6b9f0a5b767694565fa92c45a758b1e] may, if the relevant authority is the Secretary of State or a person providing services to the Secretary of State, continue to hold a record of such information, whether as supplied or obtained or recorded, for such period as he considers appropriate.
+- (b)[^c-a6b9f0a5b767694565fa92c45a758b1e] may, if the relevant authority is the Secretary of State or a person providing services to the Secretary of State, continue to hold a record of such information, whether as supplied or obtained or recorded, for such period as he considers appropriate.
 
 ## Annotations
 
-[^key-a6b9f0a5b767694565fa92c45a758b1e]: Textual amendment: Reg. 111(b) substituted (31.10.2007) by [The Social Security (Claims and Information) Regulations 2007 (S.I. 2007/2911)](https://www.legislation.gov.uk/uksi/2007/2911), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/1/1), [7(7)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/7/7)
+[^c-a6b9f0a5b767694565fa92c45a758b1e]: Textual amendment: Reg. 111(b) substituted (31.10.2007) by [The Social Security (Claims and Information) Regulations 2007 (S.I. 2007/2911)](https://www.legislation.gov.uk/uksi/2007/2911), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/1/1), [7(7)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/7/7)

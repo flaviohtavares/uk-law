@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-b812598d200c60328f45ec775e35c14f] In section 66 of FSMA 2000 (disciplinary powers)—
+(1)[^c-b812598d200c60328f45ec775e35c14f] In section 66 of FSMA 2000 (disciplinary powers)—
 
 - (a) after subsection (1) insert—
 
@@ -32,7 +32,7 @@ summary: ''
   ;
 - (b) omit subsections (2), (2A), (6) and (7).
 
-(2)[^key-ce86af46acaa5c0a6667337cd64bd5f3][^key-b51b886f18a83dbae4843ce9fa4f32a5] After that section insert—
+(2)[^c-ce86af46acaa5c0a6667337cd64bd5f3][^c-b51b886f18a83dbae4843ce9fa4f32a5] After that section insert—
 
 > **66A. Misconduct: action by the FCA**
 >
@@ -130,8 +130,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b812598d200c60328f45ec775e35c14f]: Commencement: S. 32(1) in force at 7.3.2016 by [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/c) (as amended by [S.I. 2015/2055](https://www.legislation.gov.uk/uksi/2015/2055), art. 2(3) and with savings and transitional provisions in [S.I. 2015/492](https://www.legislation.gov.uk/uksi/2015/492) (as amended by [S.I. 2015/1660](https://www.legislation.gov.uk/uksi/2015/1660)))
+[^c-b812598d200c60328f45ec775e35c14f]: Commencement: S. 32(1) in force at 7.3.2016 by [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/c) (as amended by [S.I. 2015/2055](https://www.legislation.gov.uk/uksi/2015/2055), art. 2(3) and with savings and transitional provisions in [S.I. 2015/492](https://www.legislation.gov.uk/uksi/2015/492) (as amended by [S.I. 2015/1660](https://www.legislation.gov.uk/uksi/2015/1660)))
 
-[^key-ce86af46acaa5c0a6667337cd64bd5f3]: Commencement: S. 32(2) in force at 10.5.2016 by [S.I. 2016/568](https://www.legislation.gov.uk/uksi/2016/568), [art. 2](https://www.legislation.gov.uk/uksi/2016/568/article/2)
+[^c-ce86af46acaa5c0a6667337cd64bd5f3]: Commencement: S. 32(2) in force at 10.5.2016 by [S.I. 2016/568](https://www.legislation.gov.uk/uksi/2016/568), [art. 2](https://www.legislation.gov.uk/uksi/2016/568/article/2)
 
-[^key-b51b886f18a83dbae4843ce9fa4f32a5]: Commencement: [S. 32(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/32/2) in force at 7.3.2017 for specified purposes by [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/e) (as inserted by S.I. 2015/2055, art. 2(4) and with savings and transitional provisions in S.I. 2015/492 (as amended by S.I. 2015/1660))
+[^c-b51b886f18a83dbae4843ce9fa4f32a5]: Commencement: [S. 32(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/32/2) in force at 7.3.2017 for specified purposes by [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/e) (as inserted by S.I. 2015/2055, art. 2(4) and with savings and transitional provisions in S.I. 2015/492 (as amended by S.I. 2015/1660))

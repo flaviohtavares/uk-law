@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.157. Resignation[^key-a1c6b3d026880f9bbc5d4a54aef2009f]
+## 6.157. Resignation[^c-a1c6b3d026880f9bbc5d4a54aef2009f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A member of the creditors' committee may resign by notice in writing delivered t
 
 ## Annotations
 
-[^key-a1c6b3d026880f9bbc5d4a54aef2009f]: Commencement: [Rule 6.157](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.157) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-a1c6b3d026880f9bbc5d4a54aef2009f]: Commencement: [Rule 6.157](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.157) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

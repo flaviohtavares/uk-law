@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Method of payment of fees[^key-3eaf04ecc681b1ff404adfebf1f09aa3]
+## 38. Method of payment of fees[^c-3eaf04ecc681b1ff404adfebf1f09aa3]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3eaf04ecc681b1ff404adfebf1f09aa3]: Textual amendment: [Reg. 38](https://www.legislation.gov.uk/uksi/1988/1478/regulation/38) omitted (31.10.1989) by virtue of [The Goods Vehicles (Plating and Testing) (Amendment) (No. 2) Regulations 1989 (S.I. 1989/1693)](https://www.legislation.gov.uk/uksi/1989/1693), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1693/regulation/1), [9](https://www.legislation.gov.uk/uksi/1989/1693/regulation/9)
+[^c-3eaf04ecc681b1ff404adfebf1f09aa3]: Textual amendment: [Reg. 38](https://www.legislation.gov.uk/uksi/1988/1478/regulation/38) omitted (31.10.1989) by virtue of [The Goods Vehicles (Plating and Testing) (Amendment) (No. 2) Regulations 1989 (S.I. 1989/1693)](https://www.legislation.gov.uk/uksi/1989/1693), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1693/regulation/1), [9](https://www.legislation.gov.uk/uksi/1989/1693/regulation/9)

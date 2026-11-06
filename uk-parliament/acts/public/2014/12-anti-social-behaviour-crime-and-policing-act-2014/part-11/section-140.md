@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Appointment of chief officers of police[^key-7c1a8df27ec62e4a59a5a5be36669eea]
+## 140. Appointment of chief officers of police[^c-7c1a8df27ec62e4a59a5a5be36669eea]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c1a8df27ec62e4a59a5a5be36669eea]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2014/12/section/140) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/a)
+[^c-7c1a8df27ec62e4a59a5a5be36669eea]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2014/12/section/140) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/a)

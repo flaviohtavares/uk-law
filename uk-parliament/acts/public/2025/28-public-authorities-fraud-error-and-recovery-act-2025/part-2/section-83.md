@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 83. Offence of delay, obstruction etc[^key-0301cd0b83f5dba6686fbe4c902a5966]
+## 83. Offence of delay, obstruction etc[^c-0301cd0b83f5dba6686fbe4c902a5966]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ In the Social Security Administration Act 1992, in section 111 (delay, obstructi
 
 ## Annotations
 
-[^key-0301cd0b83f5dba6686fbe4c902a5966]: Commencement: S. 83 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-0301cd0b83f5dba6686fbe4c902a5966]: Commencement: S. 83 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 782C. Volunteers etc: compensation for lost employment income[^key-6fe99a1652b0c8edc70258f86a4de050]
+## 782C. Volunteers etc: compensation for lost employment income[^c-6fe99a1652b0c8edc70258f86a4de050]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6fe99a1652b0c8edc70258f86a4de050]: Textual amendment: [S. 782C](https://www.legislation.gov.uk/ukpga/2005/5/section/782C) inserted (6.4.2018) by [The Enactment of Extra-Statutory Concessions Order 2018 (S.I. 2018/282)](https://www.legislation.gov.uk/uksi/2018/282), [arts. 1](https://www.legislation.gov.uk/uksi/2018/282/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/282/article/3/4)
+[^c-6fe99a1652b0c8edc70258f86a4de050]: Textual amendment: [S. 782C](https://www.legislation.gov.uk/ukpga/2005/5/section/782C) inserted (6.4.2018) by [The Enactment of Extra-Statutory Concessions Order 2018 (S.I. 2018/282)](https://www.legislation.gov.uk/uksi/2018/282), [arts. 1](https://www.legislation.gov.uk/uksi/2018/282/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/282/article/3/4)

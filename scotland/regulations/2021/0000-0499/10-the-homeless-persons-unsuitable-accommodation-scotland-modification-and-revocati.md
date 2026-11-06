@@ -46,13 +46,13 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred on them by section 29(3) and (4) of the Housing (Scotland) Act 1987 [^c24418171] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and expiry[^key-12c843724917feb7e3c1c18d474a56da]
+## 1. Citation, commencement and expiry[^c-12c843724917feb7e3c1c18d474a56da]
 
 (1) This Order may be cited as the Homeless Persons (Unsuitable Accommodation) (Scotland) (Modification and Revocation) (Coronavirus) Order 2021 and comes into force on 31 January 2021.
 
-(2) Article 2 expires on 30 September 2021[^key-088a2e109885e64a0493464fb4da6d1b].
+(2) Article 2 expires on 30 September 2021[^c-088a2e109885e64a0493464fb4da6d1b].
 
-## 2. Modification of the Homeless Persons (Unsuitable Accommodation) (Scotland) Order 2014[^key-337a6185ac66ad93c5e0006d4938a401]
+## 2. Modification of the Homeless Persons (Unsuitable Accommodation) (Scotland) Order 2014[^c-337a6185ac66ad93c5e0006d4938a401]
 
 (1) The Homeless Persons (Unsuitable Accommodation) (Scotland) Order 2014 [^c24418181] applies, in relation to accommodation provided to an applicant under section 29 of the Housing (Scotland) Act 1987 while this article is in force, in accordance with the modifications in paragraphs (2) and (3).
 
@@ -87,7 +87,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
   .
 
-## 3. Revocation[^key-16772383325ff809a4b2b1a2185abab5]
+## 3. Revocation[^c-16772383325ff809a4b2b1a2185abab5]
 
 (1) The Homeless Persons (Unsuitable Accommodation) (Scotland) Amendment Order 2020 [^c24418191] is revoked.
 
@@ -115,15 +115,15 @@ Article 3 revokes the Homeless Persons (Unsuitable Accommodation) (Scotland) Ame
 
 [^c24418171]: Marginal citation: [1987 c.26](https://www.legislation.gov.uk/ukpga/1987/26). Subsections (3) and (4) of section 29 were inserted by section 9(1)(b) of the [Homelessness etc. (Scotland) Act 2003 (asp 10)](https://www.legislation.gov.uk/asp/2003/10). There are amendments to section 29 that are not relevant to this Order.
 
-[^key-12c843724917feb7e3c1c18d474a56da]: Commencement: Art. 1 in force at 31.1.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/10/article/1/1)
+[^c-12c843724917feb7e3c1c18d474a56da]: Commencement: Art. 1 in force at 31.1.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/10/article/1/1)
 
-[^key-088a2e109885e64a0493464fb4da6d1b]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/ssi/2021/10/article/1/2) substituted (29.6.2021) by [The Homeless Persons (Unsuitable Accommodation) (Scotland) (Modification and Revocation) (Coronavirus) Amendment Order 2021 (S.S.I. 2021/222)](https://www.legislation.gov.uk/ssi/2021/222), [arts. 1](https://www.legislation.gov.uk/ssi/2021/222/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/222/article/2/2)
+[^c-088a2e109885e64a0493464fb4da6d1b]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/ssi/2021/10/article/1/2) substituted (29.6.2021) by [The Homeless Persons (Unsuitable Accommodation) (Scotland) (Modification and Revocation) (Coronavirus) Amendment Order 2021 (S.S.I. 2021/222)](https://www.legislation.gov.uk/ssi/2021/222), [arts. 1](https://www.legislation.gov.uk/ssi/2021/222/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/222/article/2/2)
 
-[^key-337a6185ac66ad93c5e0006d4938a401]: Commencement: Art. 2 in force at 31.1.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/10/article/1/1)
+[^c-337a6185ac66ad93c5e0006d4938a401]: Commencement: Art. 2 in force at 31.1.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/10/article/1/1)
 
 [^c24418181]: Marginal citation: [S.S.I. 2014/243](https://www.legislation.gov.uk/ssi/2014/243).
 
-[^key-16772383325ff809a4b2b1a2185abab5]: Commencement: Art. 3 in force at 31.1.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/10/article/1/1)
+[^c-16772383325ff809a4b2b1a2185abab5]: Commencement: Art. 3 in force at 31.1.2021, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2021/10/article/1/1)
 
 [^c24418191]: Marginal citation: [S.S.I. 2020/139](https://www.legislation.gov.uk/ssi/2020/139).
 

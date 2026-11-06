@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 742B. Value of certain benefits[^key-03a6790467dd0e74deda10f4a84069f5]
+## 742B. Value of certain benefits[^c-03a6790467dd0e74deda10f4a84069f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Sections 742C to 742E apply where it is necessary, for the purpose of calculatin
 
 ## Annotations
 
-[^key-03a6790467dd0e74deda10f4a84069f5]: Textual amendment: Ss. 742B-742E and cross-heading inserted (with effect in accordance with Sch. 9 para. 3 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2017/32/schedule/9/paragraph/2)
+[^c-03a6790467dd0e74deda10f4a84069f5]: Textual amendment: Ss. 742B-742E and cross-heading inserted (with effect in accordance with Sch. 9 para. 3 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2017/32/schedule/9/paragraph/2)

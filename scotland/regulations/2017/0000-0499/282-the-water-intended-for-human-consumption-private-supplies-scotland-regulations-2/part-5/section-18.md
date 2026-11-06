@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Monitoring[^key-9291e86f97a379ec65bf7fde7995479a]
+## 18. Monitoring[^c-9291e86f97a379ec65bf7fde7995479a]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ the enforcing authority must ensure that monitoring is carried out to establish 
 
 ## Annotations
 
-[^key-9291e86f97a379ec65bf7fde7995479a]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2017/282/regulation/18) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-9291e86f97a379ec65bf7fde7995479a]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2017/282/regulation/18) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

@@ -26,13 +26,13 @@ summary: ''
 | --- | --- |
 | Lord of Appeal in Ordinary | The senior Lord of Appeal in Ordinary |
 | Judge of the Supreme Court of England and Wales, or Circuit judge | The Lord Chief Justice of England and Wales |
-| Judge of the Court of Session, sheriff principal , sheriff or summary sheriff[^key-16a248ff7d8426041128dfc70f76e898] | The Lord President of the Court of Session |
+| Judge of the Court of Session, sheriff principal , sheriff or summary sheriff[^c-16a248ff7d8426041128dfc70f76e898] | The Lord President of the Court of Session |
 | Judge of the Supreme Court of Northern Ireland, or county court judge in Northern Ireland | The Lord Chief Justice of Northern Ireland |
 
-(2) In this section “ *(Extent: S)* *(affected by repeal, see note)*[^key-2aca6028bfab6c28a7e4944848587144] **sheriff principal *(Extent: S)* *(affected by repeal, see note)*[^key-2aca6028bfab6c28a7e4944848587144]** ” and “ *(Extent: S)* *(affected by repeal, see note)*[^key-2aca6028bfab6c28a7e4944848587144] **sheriff *(Extent: S)* *(affected by repeal, see note)*[^key-2aca6028bfab6c28a7e4944848587144]** ” have the same meaning as in the Sheriff Courts (Scotland) Act 1971 (c. 58). *(Extent: S)* *(affected by repeal, see note)*[^key-2aca6028bfab6c28a7e4944848587144]
+(2) In this section “ *(Extent: S)* *(affected by repeal, see note)*[^c-2aca6028bfab6c28a7e4944848587144] **sheriff principal *(Extent: S)* *(affected by repeal, see note)*[^c-2aca6028bfab6c28a7e4944848587144]** ” and “ *(Extent: S)* *(affected by repeal, see note)*[^c-2aca6028bfab6c28a7e4944848587144] **sheriff *(Extent: S)* *(affected by repeal, see note)*[^c-2aca6028bfab6c28a7e4944848587144]** ” have the same meaning as in the Sheriff Courts (Scotland) Act 1971 (c. 58). *(Extent: S)* *(affected by repeal, see note)*[^c-2aca6028bfab6c28a7e4944848587144]
 
 ## Annotations
 
-[^key-16a248ff7d8426041128dfc70f76e898]: Textual amendment: Words in s. 10(1) substituted (S.) (1.4.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions) Order 2015 (S.S.I. 2015/150)](https://www.legislation.gov.uk/ssi/2015/150), [art. 1](https://www.legislation.gov.uk/ssi/2015/150/article/1), [Sch. para. 8(2)](https://www.legislation.gov.uk/ssi/2015/150/schedule/paragraph/8/2)
+[^c-16a248ff7d8426041128dfc70f76e898]: Textual amendment: Words in s. 10(1) substituted (S.) (1.4.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions) Order 2015 (S.S.I. 2015/150)](https://www.legislation.gov.uk/ssi/2015/150), [art. 1](https://www.legislation.gov.uk/ssi/2015/150/article/1), [Sch. para. 8(2)](https://www.legislation.gov.uk/ssi/2015/150/schedule/paragraph/8/2)
 
-[^key-2aca6028bfab6c28a7e4944848587144]: Textual amendment: S. 10(2) repealed (S.) (1.4.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions) Order 2015 (S.S.I. 2015/150)](https://www.legislation.gov.uk/ssi/2015/150), [art. 1](https://www.legislation.gov.uk/ssi/2015/150/article/1), [Sch. para. 8(3)](https://www.legislation.gov.uk/ssi/2015/150/schedule/paragraph/8/3)
+[^c-2aca6028bfab6c28a7e4944848587144]: Textual amendment: S. 10(2) repealed (S.) (1.4.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions) Order 2015 (S.S.I. 2015/150)](https://www.legislation.gov.uk/ssi/2015/150), [art. 1](https://www.legislation.gov.uk/ssi/2015/150/article/1), [Sch. para. 8(3)](https://www.legislation.gov.uk/ssi/2015/150/schedule/paragraph/8/3)

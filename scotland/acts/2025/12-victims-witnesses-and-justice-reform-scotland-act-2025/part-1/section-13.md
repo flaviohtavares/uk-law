@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Investigations: witnesses and documents[^key-aaaad7c5c8c364c16085fd6596bc772d]
+## 13. Investigations: witnesses and documents[^c-aaaad7c5c8c364c16085fd6596bc772d]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aaaad7c5c8c364c16085fd6596bc772d]: Commencement: S. 13 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-aaaad7c5c8c364c16085fd6596bc772d]: Commencement: S. 13 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

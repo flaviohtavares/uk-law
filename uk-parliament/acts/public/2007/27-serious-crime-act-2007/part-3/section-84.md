@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Powers for prosecutors to appear in cash recovery proceedings[^key-d061751b1d07ffa21468ce9c09eb746c]
+## 84. Powers for prosecutors to appear in cash recovery proceedings[^c-d061751b1d07ffa21468ce9c09eb746c]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,12 +40,12 @@ summary: ''
 
 > (3A) Subsection (3) does not apply to the functions of the Director of Public Prosecutions for Northern Ireland and the Director of Revenue and Customs Prosecutions under section 302A.
 
-(3)[^key-0ba8099a8080c055de9c25dd4b8bbdcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0ba8099a8080c055de9c25dd4b8bbdcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-0ba8099a8080c055de9c25dd4b8bbdcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-0ba8099a8080c055de9c25dd4b8bbdcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d061751b1d07ffa21468ce9c09eb746c]: Commencement: S. 84 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(h)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/h)
+[^c-d061751b1d07ffa21468ce9c09eb746c]: Commencement: S. 84 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(h)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/h)
 
-[^key-0ba8099a8080c055de9c25dd4b8bbdcc]: Textual amendment: [S. 84(3)](https://www.legislation.gov.uk/ukpga/2007/27/section/84/3)[(4)](https://www.legislation.gov.uk/ukpga/2007/27/section/84/4) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 51](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/51)
+[^c-0ba8099a8080c055de9c25dd4b8bbdcc]: Textual amendment: [S. 84(3)](https://www.legislation.gov.uk/ukpga/2007/27/section/84/3)[(4)](https://www.legislation.gov.uk/ukpga/2007/27/section/84/4) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 51](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/51)

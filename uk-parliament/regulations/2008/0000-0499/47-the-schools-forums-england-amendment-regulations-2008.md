@@ -48,13 +48,13 @@ Coming into force
 
 The Secretary of State for Children, Schools and Families makes the following Regulations in exercise of the powers conferred by sections 47A and 138(7) of the School Standards and Framework Act 1998[^f00001].
 
-## 1. Citation, commencement and application[^key-6ee47b8c9cc2c3016947c5c6c31203de]
+## 1. Citation, commencement and application[^c-6ee47b8c9cc2c3016947c5c6c31203de]
 
 (1) These Regulations may be cited as the Schools Forums (England) (Amendment) Regulations 2008 and come into force on 11th February 2008.
 
 (2) These Regulations apply only in relation to England.
 
-## 2. Amendment of the Schools Forums (England) Regulations 2002[^key-3e16f280437d9b61ef8b72a555452672]
+## 2. Amendment of the Schools Forums (England) Regulations 2002[^c-3e16f280437d9b61ef8b72a555452672]
 
 (1) The Schools Forums (England) Regulations 2002[^f00002] are amended as follows.
 
@@ -159,9 +159,9 @@ Regulation 2(10) revokes regulation 7. The obligation upon local education autho
 
 [^f00001]: Footnote: [1998 c.31](https://www.legislation.gov.uk/ukpga/1998/31). Section 47A was inserted by section 43 of the Education Act [2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32), and has been amended by section 101 of, and paragraph 7 of Schedule 16 to, the Education Act [2005 (c.18)](https://www.legislation.gov.uk/ukpga/2005/18) and sections 57 and 184 of, and paragraphs 2(1), (3) and (4) of Schedule 5 to and Part 6 of Schedule 18 to, the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40).
 
-[^key-6ee47b8c9cc2c3016947c5c6c31203de]: Commencement: Reg. 1 in force at 11.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/47/regulation/1/1)
+[^c-6ee47b8c9cc2c3016947c5c6c31203de]: Commencement: Reg. 1 in force at 11.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/47/regulation/1/1)
 
-[^key-3e16f280437d9b61ef8b72a555452672]: Commencement: Reg. 2 in force at 11.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/47/regulation/1/1)
+[^c-3e16f280437d9b61ef8b72a555452672]: Commencement: Reg. 2 in force at 11.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/47/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2002/2114](https://www.legislation.gov.uk/uksi/2002/2114) as amended by [S.I. 2004/447](https://www.legislation.gov.uk/uksi/2004/447) and [S.I. 2005/3299](https://www.legislation.gov.uk/uksi/2005/3299).
 

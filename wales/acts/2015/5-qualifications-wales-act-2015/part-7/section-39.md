@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Monetary penalties: appeals[^key-e44e33d4375658349fa5afe044cae30c]
+## 39. Monetary penalties: appeals[^c-e44e33d4375658349fa5afe044cae30c]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e44e33d4375658349fa5afe044cae30c]: Commencement: [S. 39](https://www.legislation.gov.uk/anaw/2015/5/section/39) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-e44e33d4375658349fa5afe044cae30c]: Commencement: [S. 39](https://www.legislation.gov.uk/anaw/2015/5/section/39) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

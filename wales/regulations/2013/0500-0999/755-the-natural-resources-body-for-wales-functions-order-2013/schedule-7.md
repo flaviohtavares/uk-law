@@ -109,7 +109,7 @@ Notwithstanding the repeal by this Order of Schedules 8 and 9 to the 1990 Act, t
 
 #### 9. Control of Major Accident Hazards Regulations 1999
 
-(1)[^key-8b15ef6431968ac34d58dbee57014a4a] This paragraph applies for the purposes of regulation 21(1)(c) of the Control of Major Accident Hazards Regulations 2015.
+(1)[^c-8b15ef6431968ac34d58dbee57014a4a] This paragraph applies for the purposes of regulation 21(1)(c) of the Control of Major Accident Hazards Regulations 2015.
 
 (2) Where—
 
@@ -119,7 +119,7 @@ Notwithstanding the repeal by this Order of Schedules 8 and 9 to the 1990 Act, t
 
 then the report or notification sent to the Environment Agency is deemed to have been sent to the appropriate agency.
 
-(3)[^key-9136219c46c532662bf401a4e00d62e0] In this paragraph, “**appropriate agency**”, “**establishment**” and “**safety report**” have the meanings given by regulation 2(1) of the Control of Major Accident Hazards Regulations 2015.
+(3)[^c-9136219c46c532662bf401a4e00d62e0] In this paragraph, “**appropriate agency**”, “**establishment**” and “**safety report**” have the meanings given by regulation 2(1) of the Control of Major Accident Hazards Regulations 2015.
 
 #### 10. Forest Reproductive Material (Great Britain) Regulations 2002
 
@@ -183,9 +183,9 @@ In this Part, “**the relevant period**” (“***y cyfnod perthnasol***”) me
 
 [^c21771651]: Marginal citation: [S.I. 2003/3242](https://www.legislation.gov.uk/uksi/2003/3242) as amended by [S.I. 2005/2035](https://www.legislation.gov.uk/uksi/2005/2035), [S.I](https://www.legislation.gov.uk/uksi/2005/2035/section/I). 2007/3538, [S.I. 2008/1097](https://www.legislation.gov.uk/uksi/2008/1097) (partly as from 14/05/08, fully as from 24/03/15), [S.I. 2010/630](https://www.legislation.gov.uk/uksi/2010/630) (C. 42), [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556) (C. 19).
 
-[^key-8b15ef6431968ac34d58dbee57014a4a]: Textual amendment: [Sch. 7 para. 9(1)](https://www.legislation.gov.uk/wsi/2013/755/schedule/7/paragraph/9/1) substituted (1.6.2015) by [The Control of Major Accident Hazards Regulations 2015 (S.I. 2015/483)](https://www.legislation.gov.uk/uksi/2015/483), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/483/regulation/1/1), [Sch. 6 para. 8(2)(a)](https://www.legislation.gov.uk/uksi/2015/483/schedule/6/paragraph/8/2/a) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/483/regulation/3/2))
+[^c-8b15ef6431968ac34d58dbee57014a4a]: Textual amendment: [Sch. 7 para. 9(1)](https://www.legislation.gov.uk/wsi/2013/755/schedule/7/paragraph/9/1) substituted (1.6.2015) by [The Control of Major Accident Hazards Regulations 2015 (S.I. 2015/483)](https://www.legislation.gov.uk/uksi/2015/483), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/483/regulation/1/1), [Sch. 6 para. 8(2)(a)](https://www.legislation.gov.uk/uksi/2015/483/schedule/6/paragraph/8/2/a) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/483/regulation/3/2))
 
-[^key-9136219c46c532662bf401a4e00d62e0]: Textual amendment: [Sch. 7 para. 9(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/7/paragraph/9/3) substituted (1.6.2015) by [The Control of Major Accident Hazards Regulations 2015 (S.I. 2015/483)](https://www.legislation.gov.uk/uksi/2015/483), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/483/regulation/1/1), [Sch. 6 para. 8(2)(b)](https://www.legislation.gov.uk/uksi/2015/483/schedule/6/paragraph/8/2/b) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/483/regulation/3/2))
+[^c-9136219c46c532662bf401a4e00d62e0]: Textual amendment: [Sch. 7 para. 9(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/7/paragraph/9/3) substituted (1.6.2015) by [The Control of Major Accident Hazards Regulations 2015 (S.I. 2015/483)](https://www.legislation.gov.uk/uksi/2015/483), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/483/regulation/1/1), [Sch. 6 para. 8(2)(b)](https://www.legislation.gov.uk/uksi/2015/483/schedule/6/paragraph/8/2/b) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/483/regulation/3/2))
 
 [^c21771671]: Marginal citation: [S.I. 2002/3026](https://www.legislation.gov.uk/uksi/2002/3026) as amended by [S.I. 2006/2530](https://www.legislation.gov.uk/uksi/2006/2530).
 

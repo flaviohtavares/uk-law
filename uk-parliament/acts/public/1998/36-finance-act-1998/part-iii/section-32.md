@@ -44,7 +44,7 @@ summary: ''
 
 (4) The provision which may be made by virtue of subsection (2)(c) above includes provision for or in connection with the recovery of corporation tax from a company which has a prescribed relationship or connection with a company whose liability to corporation tax is or has been discharged by the set-off of unrelieved surplus advance corporation tax.
 
-(5)[^key-6fd10b410fbc12a0baf9656ccd016d79] The provision which may be made by regulations under this section includes provision for or in connection with enabling unrelieved surplus advance corporation tax to be set against liability to a sum charged at step 5 in section 371BC(1) of the Taxation (International and Other Provisions) Act 2010 (controlled foreign companies) as if it were an amount of corporation tax for an accounting period.
+(5)[^c-6fd10b410fbc12a0baf9656ccd016d79] The provision which may be made by regulations under this section includes provision for or in connection with enabling unrelieved surplus advance corporation tax to be set against liability to a sum charged at step 5 in section 371BC(1) of the Taxation (International and Other Provisions) Act 2010 (controlled foreign companies) as if it were an amount of corporation tax for an accounting period.
 
 (6) In this section “**unrelieved surplus advance corporation tax**” means the advance corporation tax (if any) which, apart from sub-paragraph (3) of paragraph 12[^c16419981] of Schedule 3 to this Act but otherwise in accordance with that paragraph, would be treated by virtue of section 239(4) of the Taxes Act 1988 as paid in respect of distributions made by a company in the first accounting period of the company to begin on or after 6th April 1999.
 
@@ -74,6 +74,6 @@ as the Treasury think necessary or expedient for or in connection with giving ef
 
 ## Annotations
 
-[^key-6fd10b410fbc12a0baf9656ccd016d79]: Textual amendment: [S. 32(5)](https://www.legislation.gov.uk/ukpga/1998/36/section/32/5) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 16](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/16) (with [Sch. 20 para. 50(9)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/50/9))
+[^c-6fd10b410fbc12a0baf9656ccd016d79]: Textual amendment: [S. 32(5)](https://www.legislation.gov.uk/ukpga/1998/36/section/32/5) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 16](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/16) (with [Sch. 20 para. 50(9)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/50/9))
 
 [^c16419981]: Textual amendment: Words in s. 32(6) substituted (*retrospective* to 31.7.1998) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 91(4)(6)](https://www.legislation.gov.uk/ukpga/1999/16/section/91/4/6)

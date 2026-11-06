@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The Department of Justice[^key-7826710cd488235e63ff0ee96fdf67ef] may by regulations provide for the transfer to the employment of the Board of any person to whom this section applies.
+(1) The Department of Justice[^c-7826710cd488235e63ff0ee96fdf67ef] may by regulations provide for the transfer to the employment of the Board of any person to whom this section applies.
 
 (2) Subject to subsection (3), this section applies to any person who immediately before such date as may be prescribed in regulations under subsection (1) (“**the prescribed date**”) is—
 
@@ -34,7 +34,7 @@ summary: ''
 
 (4) Subsections (5)(b) and (6) of section 4 shall apply in relation to persons transferred to the employment of the Board under this section as they apply in relation to persons employed by the Board under that section who are not senior employees.
 
-(5) Before making any regulations under this section the Department of Justice[^key-d3e242ca32bda91a1cd78534cd34f2eb] shall consult—
+(5) Before making any regulations under this section the Department of Justice[^c-d3e242ca32bda91a1cd78534cd34f2eb] shall consult—
 
 - (a) the Board;
 - (b) the Chief Constable; and
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7826710cd488235e63ff0ee96fdf67ef]: Textual amendment: Words in s. 5(1) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 43](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/43) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-7826710cd488235e63ff0ee96fdf67ef]: Textual amendment: Words in s. 5(1) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 43](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/43) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-d3e242ca32bda91a1cd78534cd34f2eb]: Textual amendment: Words in s. 5(5) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 43](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/43) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-d3e242ca32bda91a1cd78534cd34f2eb]: Textual amendment: Words in s. 5(5) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 43](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/43) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

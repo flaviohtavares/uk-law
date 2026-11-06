@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12.3. Defendant’s notice to continue[^key-253fec5ad7e4ce9c9b805f218bfe6ff6]
+## 12.3. Defendant’s notice to continue[^c-253fec5ad7e4ce9c9b805f218bfe6ff6]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-253fec5ad7e4ce9c9b805f218bfe6ff6]: Commencement: [Rule 12.3](https://www.legislation.gov.uk/uksi/2025/909/rule/12.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-253fec5ad7e4ce9c9b805f218bfe6ff6]: Commencement: [Rule 12.3](https://www.legislation.gov.uk/uksi/2025/909/rule/12.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

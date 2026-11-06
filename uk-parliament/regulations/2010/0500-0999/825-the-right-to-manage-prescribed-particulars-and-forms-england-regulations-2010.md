@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State[^f00001], in exercise of the powers conferred by sections 78(2)(d) and (3), 80(8) and (9), 84(2), 92(3) and (7) and 178(1)(a), (b) and (c) of the Commonhold and Leasehold Reform Act 2002[^f00002]**,** makes the following Regulations:
 
-## 1. Citation, commencement and application[^key-1ce726c434d88aeb22792deee3097fa0]
+## 1. Citation, commencement and application[^c-1ce726c434d88aeb22792deee3097fa0]
 
 (1) These Regulations may be cited as the Right to Manage (Prescribed Particulars and Forms) (England) Regulations 2010 and shall come into force on 19<sup>h</sup> April 2010.
 
 (2) These Regulations apply in relation to premises in England only.
 
-## 2. Interpretation[^key-7ec2b4772982b88458421988677d4111]
+## 2. Interpretation[^c-7ec2b4772982b88458421988677d4111]
 
 In these Regulations—
 
@@ -61,7 +61,7 @@ In these Regulations—
 - “RTM premises” means premises as regards which a RTM company intends to acquire the right to manage[^f00004];
 - “third party”, in relation to RTM premises, means a person who is party to a lease of the whole or any part of the premises otherwise than as landlord or tenant[^f00005].
 
-## 3. Additional content of notice of invitation to participate[^key-fa89caa47a34413cd18dda960c66550f]
+## 3. Additional content of notice of invitation to participate[^c-fa89caa47a34413cd18dda960c66550f]
 
 (1) A notice of invitation to participate shall contain, in addition to the statements and information referred to in section 78(2)(a) to (c) of the 2002 Act (notice inviting participation), the particulars mentioned in paragraph (2).
 
@@ -88,7 +88,7 @@ In these Regulations—
 - (i) a statement that, if the recipient of the notice (of invitation to participate) does not fully understand its purpose or implications, he is advised to seek professional help; and
 - (j) the information provided in the notes to the form set out in Schedule 1 to these Regulations.
 
-## 4. Additional content of claim notice[^key-4d827010fb5f446207126476fb123bc0]
+## 4. Additional content of claim notice[^c-4d827010fb5f446207126476fb123bc0]
 
 A claim notice shall contain, in addition to the particulars required by section 80(2) to (7) (contents of claim notice) of the 2002 Act—
 
@@ -104,28 +104,28 @@ A claim notice shall contain, in addition to the particulars required by section
 - (d) a statement that a person who receives the notice but does not fully understand its purpose, is advised to seek professional help; and
 - (e) the information provided in the notes to the form set out in Schedule 2 to these Regulations.
 
-## 5. Additional content of counter-notice[^key-b1e8c51e3085d681fd42f7ee8a8cea42]
+## 5. Additional content of counter-notice[^c-b1e8c51e3085d681fd42f7ee8a8cea42]
 
 A counter-notice shall contain (in addition to the statement referred to in paragraph (a) or (b) of section 84(2) (counter-notices) of the 2002 Act)—
 
-- (a) a statement that, where the RTM company has been given one or more counter-notices containing such a statement as is mentioned in paragraph (b) of section 84(2) of the 2002 Act, the company may apply to a [^key-93a9b48db760c20f2da4bc1f08e7acb6]... tribunal for a determination that, on the date on which notice of the claim was given, the company was entitled to acquire the right to manage the premises specified in the claim notice;
+- (a) a statement that, where the RTM company has been given one or more counter-notices containing such a statement as is mentioned in paragraph (b) of section 84(2) of the 2002 Act, the company may apply to a [^c-93a9b48db760c20f2da4bc1f08e7acb6]... tribunal for a determination that, on the date on which notice of the claim was given, the company was entitled to acquire the right to manage the premises specified in the claim notice;
 - (b) a statement that, where the RTM company has been given one or more counter-notices containing such a statement as is mentioned in paragraph (b) of section 84(2) of the 2002 Act, the company does not acquire the right to manage the premises specified in the claim notice unless—
-  - (i) on an application to a [^key-6122dd575e4cd2a7ea97a709e55d266c]... tribunal, it is finally determined[^f00012] that the company was entitled to acquire the right to manage the premises; or
+  - (i) on an application to a [^c-6122dd575e4cd2a7ea97a709e55d266c]... tribunal, it is finally determined[^f00012] that the company was entitled to acquire the right to manage the premises; or
   - (ii) the person by whom the counter-notice was given agrees, or the persons by whom the counter-notices were given agree, in writing that the company was so entitled; and
 - (c) the information provided in the notes to the form set out in Schedule 3 to these Regulations.
 
-## 6. Additional content of contractor notice[^key-fbf63b6015cc9047b8c784ad8026adf4]
+## 6. Additional content of contractor notice[^c-fbf63b6015cc9047b8c784ad8026adf4]
 
 A contractor notice[^f00013] shall contain (in addition to the particulars referred to in paragraphs (a) to (d) of section 92(3) (duties to give notice of contracts) of the 2002 Act) the statement that, should the person to whom the notice is given wish to provide to the RTM company services which, as the contractor party, it has provided to the manager party[^f00014] under the contract, it is advised to contact the RTM company at the address given in the notice.
 
-## 7. Additional content of contract notice[^key-b8c0ad4a84df27a596f024191cbd77e2]
+## 7. Additional content of contract notice[^c-b8c0ad4a84df27a596f024191cbd77e2]
 
 A contract notice shall contain (in addition to the particulars referred to in section 92(7)(a) of the 2002 Act)—
 
 - (a) the address of the person who is the contractor party, or sub-contractor party[^f00015], under the contract of which particulars are given in the notice; and
 - (b) a statement that, should the RTM company wish to avail itself of the services which the contractor party, or sub-contractor party, has provided to the manager party under that contract, it is advised to contact the contractor party, or sub-contractor party, at the address given in the notice.
 
-## 8. Form of notices[^key-1f40b9dafb989dca33c083dbeca6b038]
+## 8. Form of notices[^c-1f40b9dafb989dca33c083dbeca6b038]
 
 (1) Notices of invitation to participate shall be in the form set out in Schedule 1 to these Regulations.
 
@@ -133,7 +133,7 @@ A contract notice shall contain (in addition to the particulars referred to in s
 
 (3) Counter-notices shall be in the form set out in Schedule 3 to these Regulations.
 
-## 9. Revocation and transitional provision[^key-acc24505e185f98e426027acf651d566]
+## 9. Revocation and transitional provision[^c-acc24505e185f98e426027acf651d566]
 
 (1) The Right to Manage (Prescribed Particulars and Forms) (England) Regulations 2003 (“the 2003 Regulations”) are revoked[^f00016].
 
@@ -147,7 +147,7 @@ Department for Communities and Local Government
 
 17th March 2010
 
-## SCHEDULE 1 — FORM OF NOTICE OF INVITATION TO PARTICIPATE[^key-c129903740e11c05f6f2d7ca8565e56e]
+## SCHEDULE 1 — FORM OF NOTICE OF INVITATION TO PARTICIPATE[^c-c129903740e11c05f6f2d7ca8565e56e]
 
 Regulations 3 and 8(1)
 
@@ -157,7 +157,7 @@ Regulations 3 and 8(1)
 >
 > [image: see source](https://www.legislation.gov.uk/uksi/2010/825/images/uksi_20100825_en_001) [image: see source](https://www.legislation.gov.uk/uksi/2010/825/images/uksi_20100825_en_002) [image: see source](https://www.legislation.gov.uk/uksi/2010/825/images/uksi_20100825_en_003) [image: see source](https://www.legislation.gov.uk/uksi/2010/825/images/uksi_20100825_en_004)
 
-## SCHEDULE 2 — FORM OF CLAIM NOTICE[^key-86b61d6702ca507bc060d1b5b8c06660][^key-eff493576aec97d8e8860171dd02e0c0]
+## SCHEDULE 2 — FORM OF CLAIM NOTICE[^c-86b61d6702ca507bc060d1b5b8c06660][^c-eff493576aec97d8e8860171dd02e0c0]
 
 Regulations 4 and 8(2)
 
@@ -167,7 +167,7 @@ Regulations 4 and 8(2)
 >
 > [image: see source](https://www.legislation.gov.uk/uksi/2010/825/images/uksi_20100825_en_005)[image: see source](https://www.legislation.gov.uk/uksi/2010/825/images/uksi_20100825_en_006)[image: see source](https://www.legislation.gov.uk/uksi/2010/825/images/uksi_20100825_en_007)
 
-## SCHEDULE 3 — FORM OF COUNTER-NOTICE[^key-3abb3c0647a5d1d86cb0f091171642a3][^key-6d0eb9e4bdc98b657b818cd35d869234]
+## SCHEDULE 3 — FORM OF COUNTER-NOTICE[^c-3abb3c0647a5d1d86cb0f091171642a3][^c-6d0eb9e4bdc98b657b818cd35d869234]
 
 Regulations 5 and 8(3)
 
@@ -207,9 +207,9 @@ An impact assessment has not been prepared for this document.
 
 [^f00002]: Footnote: [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15).
 
-[^key-1ce726c434d88aeb22792deee3097fa0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/825/regulation/1) in force at 19.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/825/regulation/1/1)
+[^c-1ce726c434d88aeb22792deee3097fa0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/825/regulation/1) in force at 19.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/825/regulation/1/1)
 
-[^key-7ec2b4772982b88458421988677d4111]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/825/regulation/2) in force at 19.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/825/regulation/1/1)
+[^c-7ec2b4772982b88458421988677d4111]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/825/regulation/2) in force at 19.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/825/regulation/1/1)
 
 [^f00003]: Footnote: As to “landlord” *seealso* section 112(2), (3) and (5) of the 2002 Act.
 
@@ -217,7 +217,7 @@ An impact assessment has not been prepared for this document.
 
 [^f00005]: Footnote: As to “tenant” *see* section 112(2), (3) and (5) of the 2002 Act.
 
-[^key-fa89caa47a34413cd18dda960c66550f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/825/regulation/3) in force at 19.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/825/regulation/1/1)
+[^c-fa89caa47a34413cd18dda960c66550f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/825/regulation/3) in force at 19.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/825/regulation/1/1)
 
 [^f00006]: Footnote: *See* section 15 of the Companies Act [2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46).
 
@@ -225,7 +225,7 @@ An impact assessment has not been prepared for this document.
 
 [^f00008]: Footnote: As to premises to which Chapter 1 of Part 2 of the 2002 Act applies, *see* section 72 (and Schedule 6). As to “flat” and “unit” *see* section 112(1). As to “lease” *see* section 112(2). As to “qualifying tenant”, *see* sections 75 and 112(4) and (5).
 
-[^key-4d827010fb5f446207126476fb123bc0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/825/regulation/4) in force at 19.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/825/regulation/1/1)
+[^c-4d827010fb5f446207126476fb123bc0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/825/regulation/4) in force at 19.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/825/regulation/1/1)
 
 [^f00009]: Footnote: As to the circumstances in which there is no dispute about entitlement; *see* section 90(3) of the 2002 Act.
 
@@ -233,36 +233,36 @@ An impact assessment has not been prepared for this document.
 
 [^f00011]: Footnote: *See* section 90 of the 2002 Act.
 
-[^key-b1e8c51e3085d681fd42f7ee8a8cea42]: Commencement: Reg. 5 in force at 19.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/825/regulation/1/1)
+[^c-b1e8c51e3085d681fd42f7ee8a8cea42]: Commencement: Reg. 5 in force at 19.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/825/regulation/1/1)
 
-[^key-93a9b48db760c20f2da4bc1f08e7acb6]: Textual amendment: Words in reg. 5(a) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/42) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-93a9b48db760c20f2da4bc1f08e7acb6]: Textual amendment: Words in reg. 5(a) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/42) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-6122dd575e4cd2a7ea97a709e55d266c]: Textual amendment: Words in reg. 5(b)(i) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/42) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-6122dd575e4cd2a7ea97a709e55d266c]: Textual amendment: Words in reg. 5(b)(i) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/42) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^f00012]: Footnote: *See* section 84(7) and (8) of the 2002 Act.
 
-[^key-fbf63b6015cc9047b8c784ad8026adf4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/825/regulation/6) in force at 19.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/825/regulation/1/1)
+[^c-fbf63b6015cc9047b8c784ad8026adf4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/825/regulation/6) in force at 19.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/825/regulation/1/1)
 
 [^f00013]: Footnote: *See* section 92(1)(a) of the 2002 Act.
 
 [^f00014]: Footnote: *See* section 91(2)(a) of the 2002 Act.
 
-[^key-b8c0ad4a84df27a596f024191cbd77e2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/825/regulation/7) in force at 19.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/825/regulation/1/1)
+[^c-b8c0ad4a84df27a596f024191cbd77e2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/825/regulation/7) in force at 19.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/825/regulation/1/1)
 
 [^f00015]: Footnote: As to “sub-contractor party” *see* section 92(4) of the 2002 Act.
 
-[^key-1f40b9dafb989dca33c083dbeca6b038]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/825/regulation/8) in force at 19.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/825/regulation/1/1)
+[^c-1f40b9dafb989dca33c083dbeca6b038]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/825/regulation/8) in force at 19.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/825/regulation/1/1)
 
-[^key-acc24505e185f98e426027acf651d566]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/825/regulation/9) in force at 19.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/825/regulation/1/1)
+[^c-acc24505e185f98e426027acf651d566]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/825/regulation/9) in force at 19.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/825/regulation/1/1)
 
 [^f00016]: Footnote: [SI 2003/1988](https://www.legislation.gov.uk/uksi/2003/1988).
 
-[^key-c129903740e11c05f6f2d7ca8565e56e]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2010/825/schedule/1) in force at 19.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/825/regulation/1/1)
+[^c-c129903740e11c05f6f2d7ca8565e56e]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2010/825/schedule/1) in force at 19.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/825/regulation/1/1)
 
-[^key-86b61d6702ca507bc060d1b5b8c06660]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2010/825/schedule/2) in force at 19.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/825/regulation/1/1)
+[^c-86b61d6702ca507bc060d1b5b8c06660]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2010/825/schedule/2) in force at 19.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/825/regulation/1/1)
 
-[^key-eff493576aec97d8e8860171dd02e0c0]: Textual amendment: Sch. 2 Note 1: words “leasehold valuation” omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 43](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/43) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-eff493576aec97d8e8860171dd02e0c0]: Textual amendment: Sch. 2 Note 1: words “leasehold valuation” omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 43](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/43) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-3abb3c0647a5d1d86cb0f091171642a3]: Commencement: Sch. 3 in force at 19.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/825/regulation/1/1)
+[^c-3abb3c0647a5d1d86cb0f091171642a3]: Commencement: Sch. 3 in force at 19.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/825/regulation/1/1)
 
-[^key-6d0eb9e4bdc98b657b818cd35d869234]: Textual amendment: Sch. 3 paras. 2, 3, Note 2: words “leasehold valuation” omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/44) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-6d0eb9e4bdc98b657b818cd35d869234]: Textual amendment: Sch. 3 paras. 2, 3, Note 2: words “leasehold valuation” omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/44) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

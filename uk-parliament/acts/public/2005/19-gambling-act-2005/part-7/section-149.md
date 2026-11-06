@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Enforcement of costs orders[^key-fc27845ab6f90c89801139f10c6f71a7]
+## 149. Enforcement of costs orders[^c-fc27845ab6f90c89801139f10c6f71a7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc27845ab6f90c89801139f10c6f71a7]: Textual amendment: [S. 149](https://www.legislation.gov.uk/ukpga/2005/19/section/149) omitted (18.1.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 2 para. 102](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/102) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
+[^c-fc27845ab6f90c89801139f10c6f71a7]: Textual amendment: [S. 149](https://www.legislation.gov.uk/ukpga/2005/19/section/149) omitted (18.1.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 2 para. 102](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/102) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))

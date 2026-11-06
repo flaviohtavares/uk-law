@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Designation of competent authorities[^key-f9de280916656d5b4ff6501535cdab89]
+## 6. Designation of competent authorities[^c-f9de280916656d5b4ff6501535cdab89]
 
 *Extent: E+W*
 
@@ -32,11 +32,11 @@ summary: ''
   - (b) wood in the form of chips, particles, shavings, sawdust, wood waste or scrap;
   - (c) conifer trees over 3m in height;
   - (d) bark which has been removed or become detached from, or from part of, a living, felled or fallen tree;
-- “**forestry professional operator**” (“***gweithredwr proffesiynol coedwigaeth***”) means a professional operator who carries out one or more of the following activities, but no other activities described in Article 2(9) of the [^key-50746cc33bfb1a7f451f338f11e48654]... Plant Health Regulation—
+- “**forestry professional operator**” (“***gweithredwr proffesiynol coedwigaeth***”) means a professional operator who carries out one or more of the following activities, but no other activities described in Article 2(9) of the [^c-50746cc33bfb1a7f451f338f11e48654]... Plant Health Regulation—
   - (a) the introduction of forestry material into Wales;
-  - (b) the storage, aggregation or movement of forestry material within Wales, the movement of forestry material into Wales from another part of Great Britain or a CD territory[^key-2ed2f382b8a4c10b753340aaf3a9efac] or the movement of forestry material from Wales to another part of Great Britain or a CD territory;
+  - (b) the storage, aggregation or movement of forestry material within Wales, the movement of forestry material into Wales from another part of Great Britain or a CD territory[^c-2ed2f382b8a4c10b753340aaf3a9efac] or the movement of forestry material from Wales to another part of Great Britain or a CD territory;
   - (c) the export of forestry material from Wales to a third country;
-  - (ca) the introduction of forestry material into Northern Ireland from Wales;[^key-1cfdaffc91c9dd1cedd2efe07666fcab]
+  - (ca) the introduction of forestry material into Northern Ireland from Wales;[^c-1cfdaffc91c9dd1cedd2efe07666fcab]
   - (d) the treatment and marking of wood packaging material or forestry material in accordance with Annex 1 to ISPM 15 or the repair of wood packaging material in Wales;
   - (e) the introduction of tree pests into Wales, the movement of tree pests within Wales or the holding or multiplication of tree pests in Wales, for official testing, scientific or educational purposes, trials, varietal selection or breeding;
   - (f) the introduction of trees or forestry material into Wales or the movement of trees or forestry material within Wales, for use in official testing, scientific or educational purposes, trials, varietal selection or breeding;
@@ -47,10 +47,10 @@ summary: ''
 
 ## Annotations
 
-[^key-f9de280916656d5b4ff6501535cdab89]: Commencement: Reg. 6 in force at 27.3.2020, see reg. 1
+[^c-f9de280916656d5b4ff6501535cdab89]: Commencement: Reg. 6 in force at 27.3.2020, see reg. 1
 
-[^key-50746cc33bfb1a7f451f338f11e48654]: Textual amendment: Word in reg. 6(2) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1628)](https://www.legislation.gov.uk/wsi/2020/1628), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/1/2/b), [5(2)(a)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/5/2/a)
+[^c-50746cc33bfb1a7f451f338f11e48654]: Textual amendment: Word in reg. 6(2) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1628)](https://www.legislation.gov.uk/wsi/2020/1628), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/1/2/b), [5(2)(a)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/5/2/a)
 
-[^key-2ed2f382b8a4c10b753340aaf3a9efac]: Textual amendment: Words in reg. 6(2) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1628)](https://www.legislation.gov.uk/wsi/2020/1628), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/1/2/b), [5(2)(b)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/5/2/b)
+[^c-2ed2f382b8a4c10b753340aaf3a9efac]: Textual amendment: Words in reg. 6(2) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1628)](https://www.legislation.gov.uk/wsi/2020/1628), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/1/2/b), [5(2)(b)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/5/2/b)
 
-[^key-1cfdaffc91c9dd1cedd2efe07666fcab]: Textual amendment: Words in reg. 6(2) inserted (31.12.2020) by [The Plant Health (Amendment etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1628)](https://www.legislation.gov.uk/wsi/2020/1628), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/1/2/b), [5(2)(c)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/5/2/c)
+[^c-1cfdaffc91c9dd1cedd2efe07666fcab]: Textual amendment: Words in reg. 6(2) inserted (31.12.2020) by [The Plant Health (Amendment etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1628)](https://www.legislation.gov.uk/wsi/2020/1628), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/1/2/b), [5(2)(c)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/5/2/c)

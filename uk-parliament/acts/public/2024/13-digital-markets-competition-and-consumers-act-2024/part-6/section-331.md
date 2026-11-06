@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 331. Data protection[^key-a596e36f64ec0729b9c09f82540be734]
+## 331. Data protection[^c-a596e36f64ec0729b9c09f82540be734]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a596e36f64ec0729b9c09f82540be734]: Commencement: S. 331 in force at Royal Assent, see [s. 339(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/b)
+[^c-a596e36f64ec0729b9c09f82540be734]: Commencement: S. 331 in force at Royal Assent, see [s. 339(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/b)

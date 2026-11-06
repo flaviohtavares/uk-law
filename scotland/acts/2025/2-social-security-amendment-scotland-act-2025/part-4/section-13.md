@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Assistance given in error: reviews and appeals[^key-b8c0b3ad8cec3df61d60e68088b31a28]
+## 13. Assistance given in error: reviews and appeals[^c-b8c0b3ad8cec3df61d60e68088b31a28]
 
 *Extent: S*
 
@@ -260,4 +260,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8c0b3ad8cec3df61d60e68088b31a28]: Commencement: S. 13 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
+[^c-b8c0b3ad8cec3df61d60e68088b31a28]: Commencement: S. 13 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)

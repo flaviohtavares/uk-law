@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers make the following Regulations in exercise of the powers conferred on the Secretary of State by sections 42(5)[^f00001], 64(3)(b), 143(1) and (2) of, and paragraph 2(8) and (9) of Schedule 6 to the Local Government Finance Act 1988 and now vested in them so far as exercisable in relation to Wales[^f00002].
 
-## 1. Title, commencement, application and interpretation[^key-1f337902f8b62a9d0cb913a5c056ec52]
+## 1. Title, commencement, application and interpretation[^c-1f337902f8b62a9d0cb913a5c056ec52]
 
 (1) The title of these Regulations is the Non-Domestic Rating (Miscellaneous Provisions) (Wales) Regulations 2017 and they come into force on 1<sup></sup>April 2017.
 
@@ -56,9 +56,9 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 - “the Act”(“*y Ddeddf*”) means the Local Government Finance Act 1988;
 - “the 1989 Regulations” (“*Rheoliadau 1989*”) means the Non-Domestic Rating (Miscellaneous Provisions) Regulations 1989[^f00003];
 - “hereditament” (“*hereditament*”) means a hereditament in Wales; and
-- “list” (“*rhestr*”) means a local rating list compiled by the valuation officer for a billing authority in Wales under section 41ZA[^key-5014992a434996bb235731970f855aa3] of the Act.
+- “list” (“*rhestr*”) means a local rating list compiled by the valuation officer for a billing authority in Wales under section 41ZA[^c-5014992a434996bb235731970f855aa3] of the Act.
 
-## 2. Information in local rating lists[^key-5bffb691446150d37f9d11edba2363cf]
+## 2. Information in local rating lists[^c-5bffb691446150d37f9d11edba2363cf]
 
 (1) In respect of each hereditament shown in a list, the list must contain the following information—
 
@@ -70,7 +70,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 (3) A list must show on any day in which it is in force the total of rateable values shown in the list in accordance with section 42(4) of the Act.
 
-## 3. Valuation of mines and quarries[^key-5f51a5d97799e9337f7bdac1ca51db63]
+## 3. Valuation of mines and quarries[^c-5f51a5d97799e9337f7bdac1ca51db63]
 
 (1) This regulation applies to any hereditament—
 
@@ -90,7 +90,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 - any reference to a mine or quarry includes a reference to a well or bore-hole, or to a well and bore-hole combined; and
 - unless the context otherwise requires, expressions which are also used in the Mines and Quarries Act 1954[^f00006] have the same meanings as in that Act.
 
-## 4. Cross-boundary property in Wales[^key-19b854aace2e94f3f38cc8453b9cf783]
+## 4. Cross-boundary property in Wales[^c-19b854aace2e94f3f38cc8453b9cf783]
 
 (1) This regulation applies to any unit of property in Wales (“relevant property”) which comprises separate hereditaments solely by reason of being divided by a boundary between billing authorities.
 
@@ -115,13 +115,13 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 - “relevant period” (“*cyfnod perthnasol*”) means the period beginning with the relevant day and ending when a new local rating list is compiled; and
 - “relevant valuation officer” (“*swyddog prisio perthnasol*”) means the valuation officer for a billing authority within whose area any part of the relevant property is situated.
 
-## 5. Consequential amendments[^key-7924ff501e8bf6ee479256616462567f]
+## 5. Consequential amendments[^c-7924ff501e8bf6ee479256616462567f]
 
 (1) In regulation 1(2) of the Business Improvement Districts (Wales) Regulations 2005[^f00007], in the definition of “hereditament” for “any hereditament to which regulation 6 of the Non-Domestic Rating (Miscellaneous Provisions) Regulations 1989” substitute “any hereditament to which regulation 4 of the Non-Domestic Rating (Miscellaneous Provisions) (Wales) Regulations 2017”.
 
 (2) In regulation 4(2) of the Central Rating List (Wales) Regulations 2005[^f00008], for “Regulation 6 of the Non-Domestic Rating (Miscellaneous Provisions) Regulations 1989 (cross-boundary hereditaments)” substitute “Regulation 4 of the Non-Domestic Rating (Miscellaneous Provisions) (Wales) Regulations 2017 (cross-boundary property in Wales)”.
 
-## 6. Consequential amendments to the 1989 Regulations[^key-043d8e0ee5890322b98fe4b532e8baba]
+## 6. Consequential amendments to the 1989 Regulations[^c-043d8e0ee5890322b98fe4b532e8baba]
 
 (1) The 1989 Regulations are amended as follows.
 
@@ -138,7 +138,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 (3) In regulation 6(1) after “any unit of property” insert “in England”.
 
-## 7. Revocation[^key-2410f3cb1d34f725ccd3977757223e14]
+## 7. Revocation[^c-2410f3cb1d34f725ccd3977757223e14]
 
 Article 3 of the Local Government Reorganisation (Wales) (Finance) (Miscellaneous Amendments and Transitional Provisions) Order 1996[^f00009] is revoked.
 
@@ -172,30 +172,30 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: The powers of the Secretary of State were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and are now vested in the Welsh Ministers by virtue of section 162 of, and paragraph 30(1) of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-1f337902f8b62a9d0cb913a5c056ec52]: Commencement: Reg. 1 in force at 1.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/327/regulation/1/1)
+[^c-1f337902f8b62a9d0cb913a5c056ec52]: Commencement: Reg. 1 in force at 1.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/327/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 1989/1060](https://www.legislation.gov.uk/uksi/1989/1060).
 
-[^key-5014992a434996bb235731970f855aa3]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/327/regulation/1/3) substituted (16.11.2024) by [The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/998)](https://www.legislation.gov.uk/wsi/2024/998), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/998/regulation/1/3), [18](https://www.legislation.gov.uk/wsi/2024/998/regulation/18)
+[^c-5014992a434996bb235731970f855aa3]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/327/regulation/1/3) substituted (16.11.2024) by [The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/998)](https://www.legislation.gov.uk/wsi/2024/998), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/998/regulation/1/3), [18](https://www.legislation.gov.uk/wsi/2024/998/regulation/18)
 
-[^key-5bffb691446150d37f9d11edba2363cf]: Commencement: Reg. 2 in force at 1.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/327/regulation/1/1)
+[^c-5bffb691446150d37f9d11edba2363cf]: Commencement: Reg. 2 in force at 1.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/327/regulation/1/1)
 
 [^f00005]: Footnote: The Non-Domestic Rating (Alteration of Lists and Appeals) (Wales) Regulations ([S.I. 2005/758](https://www.legislation.gov.uk/uksi/2005/758)) prescribe the procedure for appeals.
 
-[^key-5f51a5d97799e9337f7bdac1ca51db63]: Commencement: Reg. 3 in force at 1.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/327/regulation/1/1)
+[^c-5f51a5d97799e9337f7bdac1ca51db63]: Commencement: Reg. 3 in force at 1.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/327/regulation/1/1)
 
 [^f00006]: Footnote: [1954 c. 70](https://www.legislation.gov.uk/ukpga/1954/70).
 
-[^key-19b854aace2e94f3f38cc8453b9cf783]: Commencement: Reg. 4 in force at 1.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/327/regulation/1/1)
+[^c-19b854aace2e94f3f38cc8453b9cf783]: Commencement: Reg. 4 in force at 1.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/327/regulation/1/1)
 
-[^key-7924ff501e8bf6ee479256616462567f]: Commencement: Reg. 5 in force at 1.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/327/regulation/1/1)
+[^c-7924ff501e8bf6ee479256616462567f]: Commencement: Reg. 5 in force at 1.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/327/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 2005/1312](https://www.legislation.gov.uk/uksi/2005/1312).
 
 [^f00008]: Footnote: [S.I. 2005/422](https://www.legislation.gov.uk/uksi/2005/422).
 
-[^key-043d8e0ee5890322b98fe4b532e8baba]: Commencement: Reg. 6 in force at 1.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/327/regulation/1/1)
+[^c-043d8e0ee5890322b98fe4b532e8baba]: Commencement: Reg. 6 in force at 1.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/327/regulation/1/1)
 
-[^key-2410f3cb1d34f725ccd3977757223e14]: Commencement: Reg. 7 in force at 1.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/327/regulation/1/1)
+[^c-2410f3cb1d34f725ccd3977757223e14]: Commencement: Reg. 7 in force at 1.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/327/regulation/1/1)
 
 [^f00009]: Footnote: [S.I. 1996/619](https://www.legislation.gov.uk/uksi/1996/619).

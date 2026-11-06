@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2G. Contracting-out[^key-8f10ad6b4e32a43c45ad49bbe71bca8f]
+## 2G. Contracting-out[^c-8f10ad6b4e32a43c45ad49bbe71bca8f]
 
 *Extent: N.I.*
 
@@ -83,4 +83,4 @@ the authorised person is entitled to treat the contract as repudiated by the Dep
 
 ## Annotations
 
-[^key-8f10ad6b4e32a43c45ad49bbe71bca8f]: Textual amendment: Ss. 2D-2H inserted (13.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 2(2)](https://www.legislation.gov.uk/nia/2010/13/section/2/2), [36(1)(a)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/a)
+[^c-8f10ad6b4e32a43c45ad49bbe71bca8f]: Textual amendment: Ss. 2D-2H inserted (13.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 2(2)](https://www.legislation.gov.uk/nia/2010/13/section/2/2), [36(1)(a)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/a)

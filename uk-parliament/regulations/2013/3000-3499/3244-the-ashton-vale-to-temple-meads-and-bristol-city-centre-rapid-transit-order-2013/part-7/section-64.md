@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 64. Certification of plans, etc.[^key-630587cf46f66634c023ea1b740d3f96]
+## 64. Certification of plans, etc.[^c-630587cf46f66634c023ea1b740d3f96]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The promoter must, as soon as practicable after the making of this Order, submit
 
 ## Annotations
 
-[^key-630587cf46f66634c023ea1b740d3f96]: Commencement: Art. 64 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-630587cf46f66634c023ea1b740d3f96]: Commencement: Art. 64 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

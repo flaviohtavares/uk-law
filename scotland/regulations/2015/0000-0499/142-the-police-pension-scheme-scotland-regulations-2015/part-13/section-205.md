@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 205. Forfeiture and set-off: procedure[^key-9163221e644c4afbc942ceac72c6e943]
+## 205. Forfeiture and set-off: procedure[^c-9163221e644c4afbc942ceac72c6e943]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9163221e644c4afbc942ceac72c6e943]: Commencement: Reg. 205 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-9163221e644c4afbc942ceac72c6e943]: Commencement: Reg. 205 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

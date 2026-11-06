@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Duty to further the conservation of biodiversity[^key-c89b97aa44277abb8e1c989c71b4c2c3][^key-46bea26bfe60d1d7b7572d2e823b3c5c]
+## 1. Duty to further the conservation of biodiversity[^c-c89b97aa44277abb8e1c989c71b4c2c3][^c-46bea26bfe60d1d7b7572d2e823b3c5c]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c89b97aa44277abb8e1c989c71b4c2c3]: Commencement: S. 1 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-c89b97aa44277abb8e1c989c71b4c2c3]: Commencement: S. 1 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
 
-[^key-46bea26bfe60d1d7b7572d2e823b3c5c]: Modification: S. 1 modified (31.10.2009) by [Climate Change (Scotland) Act 2009 (asp 12)](https://www.legislation.gov.uk/asp/2009/12), [ss. 59(4)](https://www.legislation.gov.uk/asp/2009/12/section/59/4), [100(2)](https://www.legislation.gov.uk/asp/2009/12/section/100/2) (with [s. 95](https://www.legislation.gov.uk/asp/2009/12/section/95)); [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-46bea26bfe60d1d7b7572d2e823b3c5c]: Modification: S. 1 modified (31.10.2009) by [Climate Change (Scotland) Act 2009 (asp 12)](https://www.legislation.gov.uk/asp/2009/12), [ss. 59(4)](https://www.legislation.gov.uk/asp/2009/12/section/59/4), [100(2)](https://www.legislation.gov.uk/asp/2009/12/section/100/2) (with [s. 95](https://www.legislation.gov.uk/asp/2009/12/section/95)); [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)

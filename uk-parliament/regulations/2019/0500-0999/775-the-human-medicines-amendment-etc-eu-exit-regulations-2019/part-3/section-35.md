@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Amendment of regulation 44 (requirement for wholesale dealers to deal only with specified persons)[^key-88c52dee63783edc6c046d0f80a09633]
+## 35. Amendment of regulation 44 (requirement for wholesale dealers to deal only with specified persons)[^c-88c52dee63783edc6c046d0f80a09633]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,8 +24,8 @@ summary: ''
 
 (2) In paragraph (2)—
 
-- (a)[^key-70350c49a6f80d3b83f6beec74abe70e] in sub-paragraph (b), for “another EEA State” substitute “an approved country for import (in the case of a licence holder in Great Britain) or by an EEA State (in the case of a licence holder in Northern Ireland)”; and
-- (b)[^key-2580bdcb8a5b32501167a4e3ba4af4ea] for sub-paragraph (c) substitute—
+- (a)[^c-70350c49a6f80d3b83f6beec74abe70e] in sub-paragraph (b), for “another EEA State” substitute “an approved country for import (in the case of a licence holder in Great Britain) or by an EEA State (in the case of a licence holder in Northern Ireland)”; and
+- (b)[^c-2580bdcb8a5b32501167a4e3ba4af4ea] for sub-paragraph (c) substitute—
 
   > - (c) where the medicinal product is directly received—
   >   - (i) in the case of a licence holder in Great Britain, from a country that is not an approved country for import (“A”), for export to a country that is not an approved country for import (“B”), and
@@ -35,7 +35,7 @@ summary: ''
 
   .
 
-(3)[^key-4fa08f4c66e8d51c83a0250b9e4c0c5f] For paragraph (5)(b) substitute—
+(3)[^c-4fa08f4c66e8d51c83a0250b9e4c0c5f] For paragraph (5)(b) substitute—
 
 > - (b) the holder of an authorisation granted by—
 >   - (i) in the case of a licence holder in Great Britain, the appropriate authority of an approved country for import;
@@ -45,7 +45,7 @@ summary: ''
 
 .
 
-(4)[^key-ed27a43e39a798ad899c3c0ed53f9feb] For paragraph (5)(e) substitute—
+(4)[^c-ed27a43e39a798ad899c3c0ed53f9feb] For paragraph (5)(e) substitute—
 
 > - (e) in relation to supply—
 >   - (i) in the case of a licence holder in Great Britain to persons in countries other than approved countries for import, a person who is authorised or entitled to receive medicinal products for wholesale distribution or supply to the public in accordance with the applicable legal and administrative provisions of the country to which the product is supplied;
@@ -56,9 +56,9 @@ summary: ''
 (5) In paragraph (6)—
 
 - (a) insert “ and ” at the end of sub-paragraph (c); and
-- (b)[^key-b34fcad53f5dd718fd9ed860454812dc] in sub-paragraph (e) after “of the 2001 Directive” insert “, in the case of a licence holder in Northern Ireland.”.
+- (b)[^c-b34fcad53f5dd718fd9ed860454812dc] in sub-paragraph (e) after “of the 2001 Directive” insert “, in the case of a licence holder in Northern Ireland.”.
 
-(6)[^key-0c31ba198286a3d3e3d203f34645a8f5] After paragraph (7) insert—
+(6)[^c-0c31ba198286a3d3e3d203f34645a8f5] After paragraph (7) insert—
 
 > (8) A licence holder in Great Britain may only obtain a medicinal product in respect of which a UKMA(GB) was granted under the unfettered access route if the product satisfies the definition of qualifying Northern Ireland goods.
 >
@@ -76,18 +76,18 @@ summary: ''
 
 ## Annotations
 
-[^key-88c52dee63783edc6c046d0f80a09633]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-88c52dee63783edc6c046d0f80a09633]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23884611]: Marginal citation: Regulation 44 was amended by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855), 2015/1503 and 2016/186.
 
-[^key-70350c49a6f80d3b83f6beec74abe70e]: Textual amendment: Reg. 35(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 25(a)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/25/a/i)
+[^c-70350c49a6f80d3b83f6beec74abe70e]: Textual amendment: Reg. 35(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 25(a)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/25/a/i)
 
-[^key-2580bdcb8a5b32501167a4e3ba4af4ea]: Textual amendment: Reg. 35(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 25(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/25/a/ii)
+[^c-2580bdcb8a5b32501167a4e3ba4af4ea]: Textual amendment: Reg. 35(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 25(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/25/a/ii)
 
-[^key-4fa08f4c66e8d51c83a0250b9e4c0c5f]: Textual amendment: Reg. 35(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 25(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/25/b)
+[^c-4fa08f4c66e8d51c83a0250b9e4c0c5f]: Textual amendment: Reg. 35(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 25(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/25/b)
 
-[^key-ed27a43e39a798ad899c3c0ed53f9feb]: Textual amendment: Reg. 35(4) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 25(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/25/c)
+[^c-ed27a43e39a798ad899c3c0ed53f9feb]: Textual amendment: Reg. 35(4) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 25(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/25/c)
 
-[^key-b34fcad53f5dd718fd9ed860454812dc]: Textual amendment: Reg. 35(5)(b) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 25(d)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/25/d)
+[^c-b34fcad53f5dd718fd9ed860454812dc]: Textual amendment: Reg. 35(5)(b) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 25(d)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/25/d)
 
-[^key-0c31ba198286a3d3e3d203f34645a8f5]: Textual amendment: Reg. 35(6) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 25(e)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/25/e)
+[^c-0c31ba198286a3d3e3d203f34645a8f5]: Textual amendment: Reg. 35(6) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 25(e)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/25/e)

@@ -31,33 +31,33 @@ summary: ''
 
 CRIMINAL LAW
 
-The Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (Commencement No. 7) Order 2009 (revoked)[^key-26afd5e4dd7f6ed66ac3374b3880fd10]
+The Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (Commencement No. 7) Order 2009 (revoked)[^c-26afd5e4dd7f6ed66ac3374b3880fd10]
 
 Made
 
 19th March 2009
 
-[^key-26afd5e4dd7f6ed66ac3374b3880fd10]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26afd5e4dd7f6ed66ac3374b3880fd10]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-26afd5e4dd7f6ed66ac3374b3880fd10]
+## 1. Citation[^c-26afd5e4dd7f6ed66ac3374b3880fd10]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-26afd5e4dd7f6ed66ac3374b3880fd10]
+## 2. Interpretation[^c-26afd5e4dd7f6ed66ac3374b3880fd10]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Commencement[^key-26afd5e4dd7f6ed66ac3374b3880fd10]
+## 3. Commencement[^c-26afd5e4dd7f6ed66ac3374b3880fd10]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-26afd5e4dd7f6ed66ac3374b3880fd10]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26afd5e4dd7f6ed66ac3374b3880fd10]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-26afd5e4dd7f6ed66ac3374b3880fd10]
+## SCHEDULE[^c-26afd5e4dd7f6ed66ac3374b3880fd10]
 
 Article 3
 
@@ -65,12 +65,12 @@ Article 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-26afd5e4dd7f6ed66ac3374b3880fd10]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26afd5e4dd7f6ed66ac3374b3880fd10]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-26afd5e4dd7f6ed66ac3374b3880fd10]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26afd5e4dd7f6ed66ac3374b3880fd10]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-26afd5e4dd7f6ed66ac3374b3880fd10]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2009/116) revoked (10.6.2009) by [The Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (Commencement No. 7) Revocation Order 2009 (S.S.I. 2009/238)](https://www.legislation.gov.uk/ssi/2009/238), [art. 1(2)](https://www.legislation.gov.uk/ssi/2009/238/article/1/2)
+[^c-26afd5e4dd7f6ed66ac3374b3880fd10]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2009/116) revoked (10.6.2009) by [The Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (Commencement No. 7) Revocation Order 2009 (S.S.I. 2009/238)](https://www.legislation.gov.uk/ssi/2009/238), [art. 1(2)](https://www.legislation.gov.uk/ssi/2009/238/article/1/2)

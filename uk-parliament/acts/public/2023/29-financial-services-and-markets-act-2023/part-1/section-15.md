@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Permanent implementation of arrangements tested under an FMI sandbox[^key-06493e6120d1952076e8e80a51d5e57b][^key-c7bee53c520406de48b44657a54b5da3]
+## 15. Permanent implementation of arrangements tested under an FMI sandbox[^c-06493e6120d1952076e8e80a51d5e57b][^c-c7bee53c520406de48b44657a54b5da3]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-06493e6120d1952076e8e80a51d5e57b]: Commencement: S. 15 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-06493e6120d1952076e8e80a51d5e57b]: Commencement: S. 15 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-c7bee53c520406de48b44657a54b5da3]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2023/29/section/15) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(j)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/j)
+[^c-c7bee53c520406de48b44657a54b5da3]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2023/29/section/15) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(j)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/j)

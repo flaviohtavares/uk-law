@@ -46,17 +46,17 @@ The Department of Agriculture, Environment and Rural Affairs[^f00001], in exerci
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-93e5a456fdf27b5fdda961c1ad3b4083]
+### 1. Citation and commencement[^c-93e5a456fdf27b5fdda961c1ad3b4083]
 
 These Regulations may be cited as the Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2026 and shall come into operation on 1st September 2026.
 
-### 2. Amendment of The Agriculture (Student Fees) Regulations (Northern Ireland) 2023[^key-6e704f6f61d1f04f120bc7644ce3d3c5]
+### 2. Amendment of The Agriculture (Student Fees) Regulations (Northern Ireland) 2023[^c-6e704f6f61d1f04f120bc7644ce3d3c5]
 
 The Agriculture (Student Fees) Regulations (Northern Ireland) 2023[^f00003] are amended in accordance with regulations 3 to 5.
 
 ## PART 2 — AMENDMENT TO STUDENT FEE FRAMEWORKS
 
-### 3. Amendment to Part 3 (student fee frameworks)[^key-1f12828459e744cf27885df782d36bfc]
+### 3. Amendment to Part 3 (student fee frameworks)[^c-1f12828459e744cf27885df782d36bfc]
 
 In Part 3 (student fee frameworks), for regulation 9 (2022 legacy fee framework), substitute—
 
@@ -70,7 +70,7 @@ In Part 3 (student fee frameworks), for regulation 9 (2022 legacy fee framework)
 
 ## PART 3 — AMENDMENT TO STUDENT CATEGORIES
 
-### 4. Amendments to Part 4 (student categories)[^key-38b7bd901cd8426f72988687d38f4803]
+### 4. Amendments to Part 4 (student categories)[^c-38b7bd901cd8426f72988687d38f4803]
 
 In Part 4 (student categories)—
 
@@ -89,7 +89,7 @@ In Part 4 (student categories)—
 
 ## PART 4 — AMENDMENT TO STUDENT FEE AMOUNTS
 
-### 5. Amendment to Schedule 1 (student fee amounts)[^key-56e6fc1105fca02e543363f52075bda2]
+### 5. Amendment to Schedule 1 (student fee amounts)[^c-56e6fc1105fca02e543363f52075bda2]
 
 In Schedule 1 (student fee amounts), substitute the table as follows—
 
@@ -130,7 +130,7 @@ In Schedule 1 (student fee amounts), substitute the table as follows—
 > | FC33 | 955 |
 > | FC34 | 955 |
 
-### 6. Amendment of The Agriculture (Student Fees) (Amendment) Regulations 2025[^key-b500cba654e6b86f1d8df9957d12b4ae]
+### 6. Amendment of The Agriculture (Student Fees) (Amendment) Regulations 2025[^c-b500cba654e6b86f1d8df9957d12b4ae]
 
 Regulation 4 of The Agriculture (Student Fees) (Amendment) Regulations 2025[^f00004] is revoked.
 
@@ -166,18 +166,18 @@ Regulation 6 revokes regulation 4 of the 2025 Regulations that substituted the n
 
 [^f00002]: Footnote: [1949 c.2 (N.I.)](https://www.legislation.gov.uk/apni/1949/2). Section 5A(1) and (2) was inserted by Article 42(1) of the Education (Northern Ireland) Order 2006 ([S.I. 2006/1915 (N.I. 11)](https://www.legislation.gov.uk/nisi/2006/1915))
 
-[^key-93e5a456fdf27b5fdda961c1ad3b4083]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2026/135/regulation/1) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/135/regulation/1)
+[^c-93e5a456fdf27b5fdda961c1ad3b4083]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2026/135/regulation/1) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/135/regulation/1)
 
-[^key-6e704f6f61d1f04f120bc7644ce3d3c5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2026/135/regulation/2) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/135/regulation/1)
+[^c-6e704f6f61d1f04f120bc7644ce3d3c5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2026/135/regulation/2) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/135/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2023 No. 98](https://www.legislation.gov.uk/nisr/2023/98)
 
-[^key-1f12828459e744cf27885df782d36bfc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2026/135/regulation/3) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/135/regulation/1)
+[^c-1f12828459e744cf27885df782d36bfc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2026/135/regulation/3) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/135/regulation/1)
 
-[^key-38b7bd901cd8426f72988687d38f4803]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2026/135/regulation/4) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/135/regulation/1)
+[^c-38b7bd901cd8426f72988687d38f4803]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2026/135/regulation/4) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/135/regulation/1)
 
-[^key-56e6fc1105fca02e543363f52075bda2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2026/135/regulation/5) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/135/regulation/1)
+[^c-56e6fc1105fca02e543363f52075bda2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2026/135/regulation/5) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/135/regulation/1)
 
-[^key-b500cba654e6b86f1d8df9957d12b4ae]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2026/135/regulation/6) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/135/regulation/1)
+[^c-b500cba654e6b86f1d8df9957d12b4ae]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2026/135/regulation/6) in operation at 1.9.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/135/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2025 No. 112](https://www.legislation.gov.uk/nisr/2025/112)

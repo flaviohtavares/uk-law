@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30D. Interest and payment of instalments.[^key-d81e4378756652221004dbe3280ac8b2][^c14421851]
+## 30D. Interest and payment of instalments.[^c-d81e4378756652221004dbe3280ac8b2][^c14421851]
 
 *Extent: E+W+S*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d81e4378756652221004dbe3280ac8b2]: Modification: Ss. 28-30F applied (with modifications) by 1995 c. 45, s. 12(5) (as substituted (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 92(10)](https://www.legislation.gov.uk/ukpga/2011/16/section/92/10), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/ii))
+[^c-d81e4378756652221004dbe3280ac8b2]: Modification: Ss. 28-30F applied (with modifications) by 1995 c. 45, s. 12(5) (as substituted (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 92(10)](https://www.legislation.gov.uk/ukpga/2011/16/section/92/10), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/ii))
 
 [^c14421851]: Textual amendment: Ss. 30A-30F inserted (20.12.2000 for specified purposes otherwise 1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2000/27/section/95/1); [S.I. 2000/3343](https://www.legislation.gov.uk/uksi/2000/3343), [art. 2](https://www.legislation.gov.uk/uksi/2000/3343/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/3343/schedule) (subject to transitional provisions in [arts. 3-15](https://www.legislation.gov.uk/uksi/2000/3343/article/3)); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/3266/article/1/2), [2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 

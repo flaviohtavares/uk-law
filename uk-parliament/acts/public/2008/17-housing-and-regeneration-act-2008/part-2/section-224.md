@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 224. Withdrawal[^key-d91677349234d0351be48dcd1f2158df]
+## 224. Withdrawal[^c-d91677349234d0351be48dcd1f2158df]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The regulator may withdraw an enforcement notice by notice to the registered pro
 
 ## Annotations
 
-[^key-d91677349234d0351be48dcd1f2158df]: Commencement: S. 224 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-d91677349234d0351be48dcd1f2158df]: Commencement: S. 224 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Land Commissioners: delegation of functions[^key-a10985990febdaca4689d0d46675e187]
+## 23. Land Commissioners: delegation of functions[^c-a10985990febdaca4689d0d46675e187]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a10985990febdaca4689d0d46675e187]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2016/18/section/23) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)
+[^c-a10985990febdaca4689d0d46675e187]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2016/18/section/23) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)

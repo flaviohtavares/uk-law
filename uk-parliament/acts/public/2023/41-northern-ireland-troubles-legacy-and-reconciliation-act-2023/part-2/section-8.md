@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Admissibility of material in civil proceedings[^key-f125402de4b3c0c6a9730a8186fa6d42]
+## 8. Admissibility of material in civil proceedings[^c-f125402de4b3c0c6a9730a8186fa6d42]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f125402de4b3c0c6a9730a8186fa6d42]: Commencement: S. 8 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-f125402de4b3c0c6a9730a8186fa6d42]: Commencement: S. 8 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)

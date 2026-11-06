@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58.[^key-ec049fdade3e589da166f8f2a55ad82b]
+## 58.[^c-ec049fdade3e589da166f8f2a55ad82b]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ In Article 3(i), for the words from “which have a historic” to the end subst
 
 ## Annotations
 
-[^key-ec049fdade3e589da166f8f2a55ad82b]: Commencement: Reg. 58 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-ec049fdade3e589da166f8f2a55ad82b]: Commencement: Reg. 58 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23621131]: Marginal citation: S.R. [2009 No. 91](https://www.legislation.gov.uk/ukcm/2009/91), amended by S.R. [2016 No. 343](https://www.legislation.gov.uk/ukcm/2016/343).

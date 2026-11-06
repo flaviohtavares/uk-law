@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Authority to dispose of property[^key-4ecd6b6de0174a01a1eb37fb14c8c5af]
+## 36. Authority to dispose of property[^c-4ecd6b6de0174a01a1eb37fb14c8c5af]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ecd6b6de0174a01a1eb37fb14c8c5af]: Commencement: [Rule 36](https://www.legislation.gov.uk/uksi/2013/3208/rule/36) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-4ecd6b6de0174a01a1eb37fb14c8c5af]: Commencement: [Rule 36](https://www.legislation.gov.uk/uksi/2013/3208/rule/36) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

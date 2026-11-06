@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Permanent light on tidal works[^key-372bb589299d51673302b8e417446990]
+## 39. Permanent light on tidal works[^c-372bb589299d51673302b8e417446990]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ After the completion of a tidal work, the undertaker must at the outer extremity
 
 ## Annotations
 
-[^key-372bb589299d51673302b8e417446990]: Commencement: Art. 39 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-372bb589299d51673302b8e417446990]: Commencement: Art. 39 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Information required by the Adjudicator[^key-d99b47527d9aae23cb756f2955e892fe]
+## 61. Information required by the Adjudicator[^c-d99b47527d9aae23cb756f2955e892fe]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d99b47527d9aae23cb756f2955e892fe]: Commencement: Reg. 61 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-d99b47527d9aae23cb756f2955e892fe]: Commencement: Reg. 61 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

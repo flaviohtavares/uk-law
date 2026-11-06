@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Provision of polling stations[^key-b030736a214ee35359be94c2ab7594ae]
+## 18. Provision of polling stations[^c-b030736a214ee35359be94c2ab7594ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b030736a214ee35359be94c2ab7594ae]: Commencement: Reg. 18 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-b030736a214ee35359be94c2ab7594ae]: Commencement: Reg. 18 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Defences: general[^key-cfa50f80eaa438800b608311e9e424c7]
+## 65. Defences: general[^c-cfa50f80eaa438800b608311e9e424c7]
 
 *Extent: E+W+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfa50f80eaa438800b608311e9e424c7]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2008/4/section/65) in force at 26.1.2009 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/2/c)
+[^c-cfa50f80eaa438800b608311e9e424c7]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2008/4/section/65) in force at 26.1.2009 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/2/c)

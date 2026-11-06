@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 241A. EEA furnished holiday lettings[^key-2ccb5dafd09bc3eea7893e7163e2ee80][^key-f83c4fecb02447b37727fd3ebec298e5]
+## 241A. EEA furnished holiday lettings[^c-2ccb5dafd09bc3eea7893e7163e2ee80][^c-f83c4fecb02447b37727fd3ebec298e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2ccb5dafd09bc3eea7893e7163e2ee80]: Textual amendment: S. 241A omitted (with effect in accordance with Sch. 5 para. 13 of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 10(4)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/10/4/b), [13](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/13) (with [Sch. 5 paras. 14](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/14), [15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-2ccb5dafd09bc3eea7893e7163e2ee80]: Textual amendment: S. 241A omitted (with effect in accordance with Sch. 5 para. 13 of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 10(4)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/10/4/b), [13](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/13) (with [Sch. 5 paras. 14](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/14), [15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
 
-[^key-f83c4fecb02447b37727fd3ebec298e5]: Modification: S. 241A excluded (with effect in accordance with Sch. 5 para. 20(1) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/20)
+[^c-f83c4fecb02447b37727fd3ebec298e5]: Modification: S. 241A excluded (with effect in accordance with Sch. 5 para. 20(1) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/20)

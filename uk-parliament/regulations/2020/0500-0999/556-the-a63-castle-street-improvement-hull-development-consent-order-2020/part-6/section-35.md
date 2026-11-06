@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Felling or lopping of trees and removal of hedgerows[^key-30cf1c47fbc678fb1996922f9b478b95]
+## 35. Felling or lopping of trees and removal of hedgerows[^c-30cf1c47fbc678fb1996922f9b478b95]
 
 *Extent: E+W*
 
@@ -25,10 +25,10 @@ summary: ''
 - (a) from obstructing or interfering with the construction, maintenance or operation of the authorised development or any apparatus used in connection with the authorised development; or
 - (b) from constituting a danger to persons using the authorised development.
 
-(2) In carrying out any activity authorised by paragraph (1), the undertaker[^key-92b8ca7b766a077e6e6ccab00aad69d9]—
+(2) In carrying out any activity authorised by paragraph (1), the undertaker[^c-92b8ca7b766a077e6e6ccab00aad69d9]—
 
 - (a) must do no unnecessary damage to any tree or shrub;
-- (b) must not fell or lop any tree or shrub within or overhanging land within the Order limits or cut back its roots if the tree or shrub is identified as being retained in the environmental[^key-346a0f5e0d243d9411e4088401a58ae6] statement unless the undertaker reasonably believes it to be necessary to do so for the purposes of the construction or operation of the authorised development and provided that the Secretary of State is satisfied that the felling, lopping or cutting back of roots would not give rise to any materially new or materially different environmental effects in comparison with those reported in the environmental statement; and
+- (b) must not fell or lop any tree or shrub within or overhanging land within the Order limits or cut back its roots if the tree or shrub is identified as being retained in the environmental[^c-346a0f5e0d243d9411e4088401a58ae6] statement unless the undertaker reasonably believes it to be necessary to do so for the purposes of the construction or operation of the authorised development and provided that the Secretary of State is satisfied that the felling, lopping or cutting back of roots would not give rise to any materially new or materially different environmental effects in comparison with those reported in the environmental statement; and
 - (c) must pay compensation to any person for any loss or damage arising from such activity.
 
 (3) The undertaker may, for the purposes of carrying out the authorised development but subject to paragraph (2), remove any hedgerow within the Order limits that is required to be removed.
@@ -39,10 +39,10 @@ summary: ''
 
 ## Annotations
 
-[^key-30cf1c47fbc678fb1996922f9b478b95]: Commencement: Art. 35 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-30cf1c47fbc678fb1996922f9b478b95]: Commencement: Art. 35 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
 
-[^key-92b8ca7b766a077e6e6ccab00aad69d9]: Textual amendment: Word in [art. 35(2)](https://www.legislation.gov.uk/uksi/2020/556/article/35/2) substituted (29.10.2020) by [The A63 Castle Street Improvement Hull (Correction) Order 2020 (S.I. 2020/1184)](https://www.legislation.gov.uk/uksi/2020/1184), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1184/article/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2020/1184/article/2/5/a)
+[^c-92b8ca7b766a077e6e6ccab00aad69d9]: Textual amendment: Word in [art. 35(2)](https://www.legislation.gov.uk/uksi/2020/556/article/35/2) substituted (29.10.2020) by [The A63 Castle Street Improvement Hull (Correction) Order 2020 (S.I. 2020/1184)](https://www.legislation.gov.uk/uksi/2020/1184), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1184/article/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2020/1184/article/2/5/a)
 
-[^key-346a0f5e0d243d9411e4088401a58ae6]: Textual amendment: Word in [art. 35(2)(b)](https://www.legislation.gov.uk/uksi/2020/556/article/35/2/b) substituted (29.10.2020) by [The A63 Castle Street Improvement Hull (Correction) Order 2020 (S.I. 2020/1184)](https://www.legislation.gov.uk/uksi/2020/1184), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1184/article/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/1184/article/2/5/b)
+[^c-346a0f5e0d243d9411e4088401a58ae6]: Textual amendment: Word in [art. 35(2)(b)](https://www.legislation.gov.uk/uksi/2020/556/article/35/2/b) substituted (29.10.2020) by [The A63 Castle Street Improvement Hull (Correction) Order 2020 (S.I. 2020/1184)](https://www.legislation.gov.uk/uksi/2020/1184), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1184/article/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/1184/article/2/5/b)
 
 [^c24104391]: Marginal citation: [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160).

@@ -146,8 +146,8 @@ In these Rules, where the context so admits, the expression—
 - (a) a claim for asylum;
 - (b) an application for, or for the variation of, leave to enter or remain in the United Kingdom;
 - (c) an application for British nationality;
-- (d) a claim for a right of admission into the United Kingdom under a provision of retained EU law[^key-4c141559380f64816119ade251d0c167];
-- (e) a claim for a right of residence in the United Kingdom under a provision of retained EU law[^key-f5d7e4d2c0db179a2b933d801f633c2b];
+- (d) a claim for a right of admission into the United Kingdom under a provision of retained EU law[^c-4c141559380f64816119ade251d0c167];
+- (e) a claim for a right of residence in the United Kingdom under a provision of retained EU law[^c-f5d7e4d2c0db179a2b933d801f633c2b];
 - (f) the proposed removal or deportation of the detained person from the United Kingdom;
 - (g) an application for bail under the Immigration Acts or under the Special Immigration Appeals Commission Act 1997;
 - (h) an appeal against, or an application for judicial review in relation to, any decision taken in connection with a matter referred to in paragraphs (a) to (g).
@@ -318,7 +318,7 @@ There shall, so far as reasonably practicable, be available for the personal use
 
 (5) Detained persons will be given the opportunity of being present when any correspondence is opened or read and shall be given reasons in advance if any correspondence is to be opened, read or stopped under paragraph (4).
 
-(6) Without prejudice to paragraph (2), if a detained person does not have the necessary funds to do so, the Secretary of State shall bear the postage expense of any letter to the European Court of Human Rights, [^key-942d0b36abd7ec7a1e0db2809393987c]... the High Court, the Court of Session, the Special Immigration Appeals Commission , the First-tier Tribunal or the Upper Tribunal[^key-0d91309a620d74f8b4f75dd6a3e748b6] (or any court entitled to hear an appeal against a decision of those bodies).
+(6) Without prejudice to paragraph (2), if a detained person does not have the necessary funds to do so, the Secretary of State shall bear the postage expense of any letter to the European Court of Human Rights, [^c-942d0b36abd7ec7a1e0db2809393987c]... the High Court, the Court of Session, the Special Immigration Appeals Commission , the First-tier Tribunal or the Upper Tribunal[^c-0d91309a620d74f8b4f75dd6a3e748b6] (or any court entitled to hear an appeal against a decision of those bodies).
 
 #### 28. Visits
 
@@ -371,7 +371,7 @@ The legal adviser or representative of any detained person in any legal proceedi
 
 #### 33. Medical practitioner and health care team
 
-(1) Every detention centre shall have a medical practitioner, who shall be vocationally trained as a general practitioner and a fully registered person within the meaning of the Medical Act 1983[^c15596751] who holds a licence to practise[^key-d919806995f8cdb470571b6f801000eb].
+(1) Every detention centre shall have a medical practitioner, who shall be vocationally trained as a general practitioner and a fully registered person within the meaning of the Medical Act 1983[^c15596751] who holds a licence to practise[^c-d919806995f8cdb470571b6f801000eb].
 
 (2) Every detention centre shall have a health care team (of which the medical practitioner will be a member), which shall be responsible for the care of the physical and mental health of the detained persons at that centre.
 
@@ -417,7 +417,7 @@ The legal adviser or representative of any detained person in any legal proceedi
 
 (5) The medical practitioner shall pay special attention to any detained person whose mental condition appears to require it, and make any special arrangements (including counselling arrangements) which appear necessary for his supervision or care.
 
-(6)[^key-2fe4a7cfa528834958323c9df21d11f4] For the purposes of paragraph (3), “torture” means any act by which a perpetrator intentionally inflicts severe pain or suffering on a victim in a situation in which—
+(6)[^c-2fe4a7cfa528834958323c9df21d11f4] For the purposes of paragraph (3), “torture” means any act by which a perpetrator intentionally inflicts severe pain or suffering on a victim in a situation in which—
 
 - (a) the perpetrator has control (whether mental or physical) over the victim, and
 - (b) as a result of that control, the victim is powerless to resist.
@@ -765,16 +765,16 @@ These Rules make provision for the regulation and management of detention centre
 
 [^c15596741]: Marginal citation: [1971 c. 38](https://www.legislation.gov.uk/ukpga/1971/38).
 
-[^key-4c141559380f64816119ade251d0c167]: Textual amendment: Words in rule 9(3)(d) substituted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [26(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/26/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4c141559380f64816119ade251d0c167]: Textual amendment: Words in rule 9(3)(d) substituted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [26(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/26/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f5d7e4d2c0db179a2b933d801f633c2b]: Textual amendment: Words in rule 9(3)(e) substituted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [26(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/26/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f5d7e4d2c0db179a2b933d801f633c2b]: Textual amendment: Words in rule 9(3)(e) substituted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [26(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/26/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-942d0b36abd7ec7a1e0db2809393987c]: Textual amendment: Words in rule 27(6) omitted (31.12.2020) by virtue of [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [26(3)](https://www.legislation.gov.uk/uksi/2019/745/regulation/26/3) (with [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2019/745/schedule/2/paragraph/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-942d0b36abd7ec7a1e0db2809393987c]: Textual amendment: Words in rule 27(6) omitted (31.12.2020) by virtue of [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [26(3)](https://www.legislation.gov.uk/uksi/2019/745/regulation/26/3) (with [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2019/745/schedule/2/paragraph/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0d91309a620d74f8b4f75dd6a3e748b6]: Textual amendment: Words in rule. 27(6) substituted (15.2.2010) by [The Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 (S.I. 2010/21)](https://www.legislation.gov.uk/uksi/2010/21), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2010/21/schedule/2/paragraph/1)
+[^c-0d91309a620d74f8b4f75dd6a3e748b6]: Textual amendment: Words in rule. 27(6) substituted (15.2.2010) by [The Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 (S.I. 2010/21)](https://www.legislation.gov.uk/uksi/2010/21), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2010/21/schedule/2/paragraph/1)
 
 [^c15596751]: Marginal citation: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54).
 
-[^key-d919806995f8cdb470571b6f801000eb]: Textual amendment: Words in rule 33(1) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Medical Act 1983 (Amendment) Order 2002 (S.I. 2002/3135)](https://www.legislation.gov.uk/uksi/2002/3135), [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/2), [Sch. 1 para. 47](https://www.legislation.gov.uk/uksi/2002/3135/schedule/1/paragraph/47) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3135/schedule/2))
+[^c-d919806995f8cdb470571b6f801000eb]: Textual amendment: Words in rule 33(1) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Medical Act 1983 (Amendment) Order 2002 (S.I. 2002/3135)](https://www.legislation.gov.uk/uksi/2002/3135), [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/2), [Sch. 1 para. 47](https://www.legislation.gov.uk/uksi/2002/3135/schedule/1/paragraph/47) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3135/schedule/2))
 
-[^key-2fe4a7cfa528834958323c9df21d11f4]: Textual amendment: [Rule 35(6)](https://www.legislation.gov.uk/uksi/2001/238/rule/35/6) inserted (2.7.2018) by [The Detention Centre (Amendment) Rules 2018 (S.I. 2018/411)](https://www.legislation.gov.uk/uksi/2018/411), [rules 1](https://www.legislation.gov.uk/uksi/2018/411/rule/1), [2](https://www.legislation.gov.uk/uksi/2018/411/rule/2)
+[^c-2fe4a7cfa528834958323c9df21d11f4]: Textual amendment: [Rule 35(6)](https://www.legislation.gov.uk/uksi/2001/238/rule/35/6) inserted (2.7.2018) by [The Detention Centre (Amendment) Rules 2018 (S.I. 2018/411)](https://www.legislation.gov.uk/uksi/2018/411), [rules 1](https://www.legislation.gov.uk/uksi/2018/411/rule/1), [2](https://www.legislation.gov.uk/uksi/2018/411/rule/2)

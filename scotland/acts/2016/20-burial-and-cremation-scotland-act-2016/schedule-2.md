@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 2 — REPEALS[^key-bf5b9bf717951d1ffc1dff797cfd0607][^key-a13af61f5667a24028409d3d75547bf5]
+## SCHEDULE 2 — REPEALS[^c-bf5b9bf717951d1ffc1dff797cfd0607][^c-a13af61f5667a24028409d3d75547bf5]
 
 *Extent: S*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bf5b9bf717951d1ffc1dff797cfd0607]: Commencement: Sch. 2 in force at 28.12.2016 for specified purposes by [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417), [reg. 2](https://www.legislation.gov.uk/ssi/2016/417/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/417/schedule) (with [regs. 3](https://www.legislation.gov.uk/ssi/2016/417/regulation/3), [4](https://www.legislation.gov.uk/ssi/2016/417/regulation/4))
+[^c-bf5b9bf717951d1ffc1dff797cfd0607]: Commencement: Sch. 2 in force at 28.12.2016 for specified purposes by [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417), [reg. 2](https://www.legislation.gov.uk/ssi/2016/417/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/417/schedule) (with [regs. 3](https://www.legislation.gov.uk/ssi/2016/417/regulation/3), [4](https://www.legislation.gov.uk/ssi/2016/417/regulation/4))
 
-[^key-a13af61f5667a24028409d3d75547bf5]: Commencement: [Sch. 2](https://www.legislation.gov.uk/asp/2016/20/schedule/2) in force at 4.4.2019 in so far as not already in force by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-a13af61f5667a24028409d3d75547bf5]: Commencement: [Sch. 2](https://www.legislation.gov.uk/asp/2016/20/schedule/2) in force at 4.4.2019 in so far as not already in force by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))

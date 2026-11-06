@@ -32,7 +32,7 @@ summary: ''
 
 Social Security
 
-The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) (No. 2) Regulations 2009 (revoked)[^key-893af7845f7d619eba464576d76aeb81]
+The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) (No. 2) Regulations 2009 (revoked)[^c-893af7845f7d619eba464576d76aeb81]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st April 2009
 
-[^key-893af7845f7d619eba464576d76aeb81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-893af7845f7d619eba464576d76aeb81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-893af7845f7d619eba464576d76aeb81]
+## 1. Citation and Commencement[^c-893af7845f7d619eba464576d76aeb81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the National Insurance Contributions (Application of Part 7 of the Finance Act 2004) Regulations 2007[^key-893af7845f7d619eba464576d76aeb81]
+## 2. Amendments to the National Insurance Contributions (Application of Part 7 of the Finance Act 2004) Regulations 2007[^c-893af7845f7d619eba464576d76aeb81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-893af7845f7d619eba464576d76aeb81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-893af7845f7d619eba464576d76aeb81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-893af7845f7d619eba464576d76aeb81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-893af7845f7d619eba464576d76aeb81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-893af7845f7d619eba464576d76aeb81]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/612) revoked (1.9.2012) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) Regulations 2012 (S.I. 2012/1868)](https://www.legislation.gov.uk/uksi/2012/1868), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1), [29(d)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/29/d)
+[^c-893af7845f7d619eba464576d76aeb81]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/612) revoked (1.9.2012) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) Regulations 2012 (S.I. 2012/1868)](https://www.legislation.gov.uk/uksi/2012/1868), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1), [29(d)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/29/d)

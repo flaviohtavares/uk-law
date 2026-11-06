@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25ZA. Postponing gain or loss under section 25(3): interests in UK land[^key-275e517a79aaee87271263ac31e4e1cc]
+## 25ZA. Postponing gain or loss under section 25(3): interests in UK land[^c-275e517a79aaee87271263ac31e4e1cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-275e517a79aaee87271263ac31e4e1cc]: Textual amendment: S. 25ZA substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/26)
+[^c-275e517a79aaee87271263ac31e4e1cc]: Textual amendment: S. 25ZA substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/26)

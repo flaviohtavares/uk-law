@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 56. Investigations: further provisions[^key-863917fb6edc8417368ddcf795c91713]
+## 56. Investigations: further provisions[^c-863917fb6edc8417368ddcf795c91713]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ as may be determined by the Commissioner.
 
 ## Annotations
 
-[^key-863917fb6edc8417368ddcf795c91713]: Commencement: S. 56 in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153) , [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2) , [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-863917fb6edc8417368ddcf795c91713]: Commencement: S. 56 in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153) , [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2) , [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Conspiracy to commit offences outwith Scotland[^key-09865eb1afc3ebc8e7566e110bf4d11c]
+## 50. Conspiracy to commit offences outwith Scotland[^c-09865eb1afc3ebc8e7566e110bf4d11c]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09865eb1afc3ebc8e7566e110bf4d11c]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2010/13/section/50) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-09865eb1afc3ebc8e7566e110bf4d11c]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2010/13/section/50) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

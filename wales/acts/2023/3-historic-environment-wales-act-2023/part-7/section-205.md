@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 205. Service of notices and other documents: general[^key-87e3e7628ce114683a9af28997be664e][^key-2245c20019a25f3a4a4f4ec5d79f2a8a]
+## 205. Service of notices and other documents: general[^c-87e3e7628ce114683a9af28997be664e][^c-2245c20019a25f3a4a4f4ec5d79f2a8a]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-87e3e7628ce114683a9af28997be664e]: Commencement: S. 205 not in force at Royal Assent, see [s. 212](https://www.legislation.gov.uk/asc/2023/3/section/212)
+[^c-87e3e7628ce114683a9af28997be664e]: Commencement: S. 205 not in force at Royal Assent, see [s. 212](https://www.legislation.gov.uk/asc/2023/3/section/212)
 
-[^key-2245c20019a25f3a4a4f4ec5d79f2a8a]: Commencement: [S. 205](https://www.legislation.gov.uk/asc/2023/3/section/205) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-2245c20019a25f3a4a4f4ec5d79f2a8a]: Commencement: [S. 205](https://www.legislation.gov.uk/asc/2023/3/section/205) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

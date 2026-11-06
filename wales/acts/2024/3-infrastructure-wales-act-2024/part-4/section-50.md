@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Assessors[^key-1c8cb5c061aceb20cd204108c723d4e1][^key-408d190452386533b5ba22e7134f81d0]
+## 50. Assessors[^c-1c8cb5c061aceb20cd204108c723d4e1][^c-408d190452386533b5ba22e7134f81d0]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1c8cb5c061aceb20cd204108c723d4e1]: Commencement: S. 50 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-1c8cb5c061aceb20cd204108c723d4e1]: Commencement: S. 50 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-408d190452386533b5ba22e7134f81d0]: Commencement: [S. 50](https://www.legislation.gov.uk/asc/2024/3/section/50) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/698/article/3/b)
+[^c-408d190452386533b5ba22e7134f81d0]: Commencement: [S. 50](https://www.legislation.gov.uk/asc/2024/3/section/50) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/698/article/3/b)

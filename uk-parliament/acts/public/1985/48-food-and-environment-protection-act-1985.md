@@ -41,7 +41,7 @@ An Act to authorise the making in an emergency of orders specifying activities w
 
 #### 1. Power to make emergency orders.
 
-(1)[^c1002147][^key-c578e6d1c4affb933d91e832b2abd30c] If in the opinion of the designating authority—
+(1)[^c1002147][^c-c578e6d1c4affb933d91e832b2abd30c] If in the opinion of the designating authority—
 
 - (a)[^c1002148] there exist or may exist circumstances which are likely to create a hazard to human health through human consumption of food;and
 - (b) in consequence food which is or may be in the future in an area—
@@ -109,7 +109,7 @@ shall be laid before Parliament after being made.
 
 (11) No order under subsection (4) above shall be made unless a draft of the order has been laid before and approved by resolution of each House of Parliament.
 
-(12)[^c1002157] Where an order under this section is made by the Scottish Ministers, or is made on their behalf by the Food Standards Agency in accordance with an arrangement made under section 17 of the Food Standards Act 1999 *(Extent: S.)* *(affected by repeal, see note)*[^key-632606e9a4d3762df54b33ba40d01ee1] [^c1002158], this section shall have effect subject to the following modifications–
+(12)[^c1002157] Where an order under this section is made by the Scottish Ministers, or is made on their behalf by the Food Standards Agency in accordance with an arrangement made under section 17 of the Food Standards Act 1999 *(Extent: S.)* *(affected by repeal, see note)*[^c-632606e9a4d3762df54b33ba40d01ee1] [^c1002158], this section shall have effect subject to the following modifications–
 
 - (a) any reference to Parliament or to a House of Parliament shall be construed as a reference to the Scottish Parliament; and
 - (b) in subsection (9), for “Parliament is dissolved or prorogued or during which both Houses are adjourned” there shall be substituted “the Scottish Parliament is dissolved or is in recess”.
@@ -143,13 +143,13 @@ shall be guilty of an offence.
 
 *Extent: S.*
 
-(7)[^key-9c24bf1e55f32360b7aef4e22c485cae] In the application of this section to Scotland, the references to the Food Standards Agency are to be ignored.
+(7)[^c-9c24bf1e55f32360b7aef4e22c485cae] In the application of this section to Scotland, the references to the Food Standards Agency are to be ignored.
 
 ### Investigation and enforcement
 
 #### 3. Authorisation of investigating officers and enforcement officers.
 
-(1)[^key-1ad244b42ac6ed41fe7a4272125bdfd1] A designating authority[^c1002190] may authorise—
+(1)[^c-1ad244b42ac6ed41fe7a4272125bdfd1] A designating authority[^c1002190] may authorise—
 
 - (a) persons (in this Act referred to as “investigating officers”) to conduct investigations for the purpose of determining—
   - (i) whether any of the powers conferred by this Part of this Act should be exercised ; and
@@ -158,7 +158,7 @@ shall be guilty of an offence.
   - (i) emergency orders ; and
   - (ii) directions under section 2 above.
 
-(2)[^key-1ad244b42ac6ed41fe7a4272125bdfd1] A designating authority may authorise an investigating officer or an enforcement officer who is not an officer of his department to perform any the designating authority’s[^c1002192] functions under this Part of this Act which he could perform if it were an officer of the department ; and an officer performing such functions in pursuance of such an authorisation is to be treated in relation to their performance as if he were an officer of the department.
+(2)[^c-1ad244b42ac6ed41fe7a4272125bdfd1] A designating authority may authorise an investigating officer or an enforcement officer who is not an officer of his department to perform any the designating authority’s[^c1002192] functions under this Part of this Act which he could perform if it were an officer of the department ; and an officer performing such functions in pursuance of such an authorisation is to be treated in relation to their performance as if he were an officer of the department.
 
 (3) An authorisation under subsection (1) or (2) above may be given subject to such limitations as may be specified in the instrument containing it ; and this Act shall be construed, in reference to a person whose authorisation has been given subject to limitations, as subject to those limitations.
 
@@ -209,37 +209,37 @@ shall be guilty of an offence.
 
 ### Licensing
 
-#### 5. Requirement of licences for deposit of substances and articles in the sea etc.[^c1002202][^key-b224d8bd53d2d1b301e4c56bcaecddd5]
+#### 5. Requirement of licences for deposit of substances and articles in the sea etc.[^c1002202][^c-b224d8bd53d2d1b301e4c56bcaecddd5]
 
 Subject to the following provisions of this Part of this Act, a licence under this Part of this Act is needed—
 
-- (a) for the deposit of substances or articles within the Scottish inshore region[^key-846546ecd75072ec899fb876890f2171] , either in the sea or under the seabed—
+- (a) for the deposit of substances or articles within the Scottish inshore region[^c-846546ecd75072ec899fb876890f2171] , either in the sea or under the seabed—
   - (i) from a vehicle, vessel, aircraft, hovercraft or marine structure ;
   - (ii) from a container floating in the sea ; or
   - (iii) from a structure on land constricted or adapted wholly or mainly for the purpose of depositing solids in the sea ;
-- (b)[^key-817eaba72c8080f4208eef10e490ab13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-817eaba72c8080f4208eef10e490ab13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c)(d) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c1002204]
 - (e) for the scuttling of vessels—
-  - (i) in the Scottish inshore region[^key-d3547e01b4bd22176b81d999be3593d8] ; [^key-94ef52e69d49555efa08197e7a603801]...
-  - (ii)[^key-94ef52e69d49555efa08197e7a603801] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) in the Scottish inshore region[^c-d3547e01b4bd22176b81d999be3593d8] ; [^c-94ef52e69d49555efa08197e7a603801]...
+  - (ii)[^c-94ef52e69d49555efa08197e7a603801] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c1002207]
-- (f) for the loading of a vessel, aircraft, hovercraft, marine structure or floating container in Scotland or the Scottish inshore region[^key-0553eaeea8eb81fbb4eb10aed2bead67] with substances or articles for deposit anywhere in the sea or under the sea-bed ;
-- (g) for the loading of a vehicle in Scotland[^key-8857fa0a100cf011c55d45d362aab603] with substances or articles for deposit from that vehicle as mentioned in paragraph (a) [^c1002208]. . . above ; and
-- (h) for the towing or propelling from Scotland or the Scottish inshore region[^key-a466a82fb0dc89fb472b497fbd5d0aea] of a vessel for scuttling anywhere at sea.
+- (f) for the loading of a vessel, aircraft, hovercraft, marine structure or floating container in Scotland or the Scottish inshore region[^c-0553eaeea8eb81fbb4eb10aed2bead67] with substances or articles for deposit anywhere in the sea or under the sea-bed ;
+- (g) for the loading of a vehicle in Scotland[^c-8857fa0a100cf011c55d45d362aab603] with substances or articles for deposit from that vehicle as mentioned in paragraph (a) [^c1002208]. . . above ; and
+- (h) for the towing or propelling from Scotland or the Scottish inshore region[^c-a466a82fb0dc89fb472b497fbd5d0aea] of a vessel for scuttling anywhere at sea.
 
 #### 6. Requirement for licences for incineration at sea etc.[^c1002209]
 
 (1) Subject to the following provisions of this Part of this Act, a licence is needed—
 
 - (a) for the incineration of substances or articles on a vessel or marine structure—
-  - (i) in the Scottish inshore region[^key-5459c7fe5f9879774256415f2d90eb79] ; [^key-eac045900465f608485485cc21390a10]...
-  - (ii)[^key-eac045900465f608485485cc21390a10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) in the Scottish inshore region[^c-5459c7fe5f9879774256415f2d90eb79] ; [^c-eac045900465f608485485cc21390a10]...
+  - (ii)[^c-eac045900465f608485485cc21390a10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c1002212]
-- (b) for the loading of a vessel or marine structure in Scotland or the Scottish inshore region[^key-3b869096aa42bf63f68d7ea569b04156] with substances or articles for incineration anywhere at sea.
+- (b) for the loading of a vessel or marine structure in Scotland or the Scottish inshore region[^c-3b869096aa42bf63f68d7ea569b04156] with substances or articles for incineration anywhere at sea.
 
 (2) In this Act “**incineration**” means any combustion of substances and materials for the purpose of their thermal destruction.
 
-**6A (Extent: S).**[^key-9e512f6ebf4efba3d57920c969a6ebea] A licence under this Part of this Act is needed for an operation only if it is an operation to which, by virtue of section *(Extent: S)* 34 of the Marine (Scotland) Act 2010, Part *(Extent: S)* 4 of that Act does not apply. *(Extent: S)*
+**6A (Extent: S).**[^c-9e512f6ebf4efba3d57920c969a6ebea] A licence under this Part of this Act is needed for an operation only if it is an operation to which, by virtue of section *(Extent: S)* 34 of the Marine (Scotland) Act 2010, Part *(Extent: S)* 4 of that Act does not apply. *(Extent: S)*
 
 #### 7. Exemptions.[^c1002216]
 
@@ -261,18 +261,18 @@ Subject to the following provisions of this Part of this Act, a licence under th
 
 #### 7A. Application of Part II: further provisions.[^c1002219]
 
-(1)[^key-280c79b9214dd64293ca0433e71bf4de] Nothing in this Part of this Act shall apply to anything done—
+(1)[^c-280c79b9214dd64293ca0433e71bf4de] Nothing in this Part of this Act shall apply to anything done—
 
 - (a) for the purpose of constructing or maintaining a pipeline as respects any part of which an authorisation (within the meaning of Part III of the Petroleum Act 1998) is in force; or
 - (b) for the purpose of establishing or maintaining an offshore installation within the meaning of Part IV of that Act.
 
-(2)[^key-87562620ca6f1c654672420a7dd21812] Nothing in this Part of this Act applies to anything done in the course of carrying on an activity for which a licence under section 4 or 18 of the Energy Act 2008 is required (gas unloading, storage and recovery, and carbon dioxide storage).
+(2)[^c-87562620ca6f1c654672420a7dd21812] Nothing in this Part of this Act applies to anything done in the course of carrying on an activity for which a licence under section 4 or 18 of the Energy Act 2008 is required (gas unloading, storage and recovery, and carbon dioxide storage).
 
 (3) For this purpose, activities are to be regarded as activities for which such a licence is required if, by virtue of such a licence, they are activities which may be carried on only with the consent of the Secretary of State or another person.
 
-(4) Subsection (2) does not apply in relation to anything done in the course of carrying out an activity for which a licence under section 4 of the Energy Act 2008 is required in, under or over the Scottish inshore region.[^key-f2904165f3b8bc129bedfee2f2fb6436]
+(4) Subsection (2) does not apply in relation to anything done in the course of carrying out an activity for which a licence under section 4 of the Energy Act 2008 is required in, under or over the Scottish inshore region.[^c-f2904165f3b8bc129bedfee2f2fb6436]
 
-(5)[^key-c63377ab3ddd9573fa888330c8feafc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c63377ab3ddd9573fa888330c8feafc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 8. Licences.[^c1002221]
 
@@ -297,11 +297,11 @@ Subject to the following provisions of this Part of this Act, a licence under th
 - (a) may include in any licence provisions requiring—
   - (i) that no operation authorised by the licence shall be carried out until the licensing authority has given such further consent to or approval of the operation as the licence may specify; and
   - (ii) that automatic equipment shall be used for recording such information relating to any operation of deposit, scuttling or incineration mentioned in the licence as the licensing authority may specify; and
-- (b) may include in a licence which only authorises operations such as are mentioned in section 5(f) or (h) above or section 6(1)(b) above provisions requiring that any operation of deposit, scuttling or incineration which is mentioned in it shall take place at a specified site, whether in the Scottish inshore region[^key-dcd41054b7b2447b510270f3af0c7c31] or not.
+- (b) may include in a licence which only authorises operations such as are mentioned in section 5(f) or (h) above or section 6(1)(b) above provisions requiring that any operation of deposit, scuttling or incineration which is mentioned in it shall take place at a specified site, whether in the Scottish inshore region[^c-dcd41054b7b2447b510270f3af0c7c31] or not.
 
 (5) A licensing authority may require an applicant for a licence to supply such information and permit such examinations and tests as in the opinion of the authority may be necessary or expedient to enable the authority to decide whether a licence should be issued to the applicant and the provisions which any licence that is issued to him ought to contain.
 
-(6) Where automatic recording equipment is used in accordance with a provision included in a licence by virtue of subsection (4)(a) above, any record produced by means of the equipment shall, in any proceedings under this Part of this Act, be [^key-cbcc27e4580827eb721e3d5a3b0892d9]... sufficient evidence, of the matters appearing from the record.
+(6) Where automatic recording equipment is used in accordance with a provision included in a licence by virtue of subsection (4)(a) above, any record produced by means of the equipment shall, in any proceedings under this Part of this Act, be [^c-cbcc27e4580827eb721e3d5a3b0892d9]... sufficient evidence, of the matters appearing from the record.
 
 (7) A licensing authority may require an applicant for a licence, on making his application, to pay a reasonable fee in respect of the administrative expenses of processing his application.
 
@@ -313,7 +313,7 @@ Subject to the following provisions of this Part of this Act, a licence under th
 - (b) of checking the manner in which operations for which a licence is needed have been or are being conducted; and
 - (c) of monitoring the effect of such operations.
 
-(9)[^key-e76670b7ae96f0199558ad1a238cdb12] Fees under this section shall be determined on principles settled by the Ministers with the consent of the Treasury and after consultation with organisations appearing to the Ministers to represent persons who are likely to apply for licences.
+(9)[^c-e76670b7ae96f0199558ad1a238cdb12] Fees under this section shall be determined on principles settled by the Ministers with the consent of the Treasury and after consultation with organisations appearing to the Ministers to represent persons who are likely to apply for licences.
 
 (10) A licensing authority may vary or revoke a licence which the authority has issued if it appears to the authority that there has been a breach of any of its provisions.
 
@@ -329,9 +329,9 @@ Subject to the following provisions of this Part of this Act, a licence under th
 
 (12) Schedule 3 to this Act shall have effect.
 
-#### 8A. Electronic communications apparatus: operations in tidal waters etc[^key-17a804486abb54b12873ea924d3fed2c]
+#### 8A. Electronic communications apparatus: operations in tidal waters etc[^c-17a804486abb54b12873ea924d3fed2c]
 
-(1) The Scottish Ministers must not issue a licence to carry out any operation which amounts to, or involves the exercise of, a right conferred by Part 9 of Schedule 3A of the Communications Act 2003 (the electronic communications code)[^key-f9e20a78e918a5cc30809b18cb55b4b7] unless they are satisfied that adequate compensation arrangements have been made.
+(1) The Scottish Ministers must not issue a licence to carry out any operation which amounts to, or involves the exercise of, a right conferred by Part 9 of Schedule 3A of the Communications Act 2003 (the electronic communications code)[^c-f9e20a78e918a5cc30809b18cb55b4b7] unless they are satisfied that adequate compensation arrangements have been made.
 
 (2) For the purposes of subsection (1) “adequate compensation arrangements” are adequate arrangements for compensating any persons—
 
@@ -342,7 +342,7 @@ Subject to the following provisions of this Part of this Act, a licence under th
 
 #### 9. Offences relating to licensing system.[^c1002223]
 
-(1) Subject to subsections (3) , (4)[^key-c6a8210c1c4cb015635ea62898c78db3] and (8)[^key-62ba548259f707afa11d6814fd5b1ede] below, a person who—
+(1) Subject to subsections (3) , (4)[^c-c6a8210c1c4cb015635ea62898c78db3] and (8)[^c-62ba548259f707afa11d6814fd5b1ede] below, a person who—
 
 - (a) except in pursuance of a licence and in accordance with its provisions, does anything for which a licence is needed; or
 - (b) causes or permits any other person to do any such thing except in pursuance of a licence and in accordance with its provisions,
@@ -372,20 +372,20 @@ shall be guilty of an offence.
   - (ii) was not a reasonable step to take in the circumstances; or
 - (b) that it was necessary for one of those purposes but the necessity was due to the fault of the defendant.
 
-(5)[^key-1c4d93513a270b98525038f420205464] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-1c4d93513a270b98525038f420205464] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-1c4d93513a270b98525038f420205464] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-1c4d93513a270b98525038f420205464] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-1c4d93513a270b98525038f420205464] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-1c4d93513a270b98525038f420205464] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-908a9f211647115d59269f810822efec] It shall be a defence for a person charged with an offence under subsection (1) in relation to any operation to prove that—
+(8)[^c-908a9f211647115d59269f810822efec] It shall be a defence for a person charged with an offence under subsection (1) in relation to any operation to prove that—
 
-- (a) for the purposes of Part 10 of Schedule 3A of the Communications Act 2003 (the electronic communications code)[^key-bf2840938d658b457c5086f6607ccbe5] (undertaker's works), the person is the operator or a relevant undertaker, and
+- (a) for the purposes of Part 10 of Schedule 3A of the Communications Act 2003 (the electronic communications code)[^c-bf2840938d658b457c5086f6607ccbe5] (undertaker's works), the person is the operator or a relevant undertaker, and
 - (b) the activity was carried out for the purpose of executing emergency works, within the meaning of that code.
 
-[^key-0862664eaccf941b6fb4c68fd4b27d03]...
+[^c-0862664eaccf941b6fb4c68fd4b27d03]...
 
-#### 10. Power to take remedial action.[^c1002227][^key-6e5e74be33c32381578b4df5eb86f49c]
+#### 10. Power to take remedial action.[^c1002227][^c-6e5e74be33c32381578b4df5eb86f49c]
 
 (1)[^c1002228] A licensing authority[^c1002229] may carry out any operation which appears to him to be necessary or expedient for the purpose of protecting the marine environment, the living resources which it supports and human health, or of preventing interference with legitimate use of the sea, in any case where anything for which a licence is needed appears to have been done otherwise than in pursuance of a licence and in accordance with its provisions.
 
@@ -399,12 +399,12 @@ shall be guilty of an offence.
 
 (2) Subject to the following provisions of this Act, a person so authorised may enter—
 
-- (a) land and vehicles in Scotland[^key-279d2ecd023a46d143973f67e54d424d] ;
-- (b)[^key-347c1845f5f42c75a71d80074907d52c] vessels, aircraft, hovercraft and marine structures in Scotland or within the Scottish inshore region,
+- (a) land and vehicles in Scotland[^c-279d2ecd023a46d143973f67e54d424d] ;
+- (b)[^c-347c1845f5f42c75a71d80074907d52c] vessels, aircraft, hovercraft and marine structures in Scotland or within the Scottish inshore region,
 
 if he has reasonable grounds for believing that any substances or articles intended to be deposited in the sea or under the sea-bed or incinerated on a vessel or marine structure at sea are or have been present there.
 
-(3) A person so authorised may board any vessel within the Scottish inshore region[^key-9bafde549d3f2f6dfb13835ca9e69a8f]
+(3) A person so authorised may board any vessel within the Scottish inshore region[^c-9bafde549d3f2f6dfb13835ca9e69a8f]
 
 if it appears to him that it is intended to be scuttled.
 
@@ -425,7 +425,7 @@ if it appears to him that it is intended to be scuttled.
 
 ### Miscellaneous
 
-#### 13. Powers of Ministers to test and to charge for testing.[^c1002241][^key-bb2fd912d396d6d902f1962c6b48d14d]
+#### 13. Powers of Ministers to test and to charge for testing.[^c1002241][^c-bb2fd912d396d6d902f1962c6b48d14d]
 
 (1) At the request of any person either of the Ministers may conduct tests for the purpose of ascertaining the probable effect on the marine environment and the living resources which it supports of using for the purpose of treating oil on the surface of the sea any substance produced for that purpose.
 
@@ -500,7 +500,7 @@ if it appears to him that it is intended to be scuttled.
 
 ## Part III — Pesticides Etc.
 
-### 16. Control of pesticides etc.[^key-c809518d3bc83aacef2ff97a109dba6b][^key-f280d1edddc0f7db618bcee4471a7e63]
+### 16. Control of pesticides etc.[^c-c809518d3bc83aacef2ff97a109dba6b][^c-f280d1edddc0f7db618bcee4471a7e63]
 
 (1) The provisions of this Part of this Act shall have effect—
 
@@ -534,7 +534,7 @@ and references in this Part of this Act to the general purposes of this Part of 
 - (h) provide that, if any pesticide has been imported into the United Kingdom in contravention of any of the specified prohibitions or of any such condition, either of the Ministers may require that it shall be removed out of the United Kingdom;
 - (j)[^c1002292] provide for information to be made available to the public, subject to—
   - (i) any condition that the Ministers consider appropriate; and
-  - (ii)[^key-8bf66a4beab7f4c043109b0af63e6358] payment of such amount as the Ministers may, with the consent of the Treasury, determine as representing the cost reasonably attributable to the supply of the information;
+  - (ii)[^c-8bf66a4beab7f4c043109b0af63e6358] payment of such amount as the Ministers may, with the consent of the Treasury, determine as representing the cost reasonably attributable to the supply of the information;
 - (k) specify how much pesticide or pesticide residue may be left in any crop, food or feeding stuff; and
 - (l) direct that, if there is more pesticide or pesticide residue in any crop, food or feeding stuff than the proportion specified by virtue of paragraph (k) above, either of the Ministers shall have power—
   - (i) to seize or dispose of the crop, food or feeding stuff in question or to require that some other person shall dispose of it;
@@ -565,18 +565,18 @@ and in this Part of this Act “**regulations**” means regulations under this 
 
 (6) Regulations shall be made by statutory instrument and no regulations shall be made unless a draft of them has been laid before and approved by resolution of each House of Parliament.
 
-(7)[^key-e2c8eee17c2e146a1066e6c10c6165f5][^c1002294] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-e2c8eee17c2e146a1066e6c10c6165f5][^c1002294] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-9efc74aa8fdb5cc0cf7939f688a164f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-9efc74aa8fdb5cc0cf7939f688a164f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-428a809cacd6fec8200f55eec2230199] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-428a809cacd6fec8200f55eec2230199] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9A)[^c1002296] The Ministers—
 
 - (a) shall consult the Food Standards Agency as to regulations which they contemplate making; and
 - (b) shall from time to time consult that Agency as to the general approach to be taken by them in relation to the giving, revocation or suspension of approvals and the imposition of conditions on approvals (including the identification of circumstances in which it may be desirable for the Agency to be consulted in relation to particular cases).
 
-(10) If it appears to the Ministers that regulations which they contemplate making are likely to affect the health or safety of persons at work, it shall be their duty to consult the Health and Safety Executive[^key-45878483b22d95216ee30ec5265ff03d] concerning them.
+(10) If it appears to the Ministers that regulations which they contemplate making are likely to affect the health or safety of persons at work, it shall be their duty to consult the Health and Safety Executive[^c-45878483b22d95216ee30ec5265ff03d] concerning them.
 
 (11) Either of the Ministers may require the provision of such information by importers, exporters, manufacturers, distributors or users of a pesticide as he considers to be necessary—
 
@@ -605,7 +605,7 @@ and in this Part of this Act “**regulations**” means regulations under this 
 
 - (a) under section 8(b) of the [^c1002298]Protection of Animals Act 1911;
 - (b) under section 7(b) of the [^c1002299]Protection of Animals (Scotland) Act 1912; or
-- (c) under section 22(2)(b) of the *(Extent: N.I.)* *(affected by repeal, see note)*[^key-cf5da9b6e5c6a123177c9bb1318f6b3e] [^c1002300] Welfare of Animals Act (Northern Ireland) 1972, *(Extent: N.I.)* *(affected by repeal, see note)*[^key-cf5da9b6e5c6a123177c9bb1318f6b3e]
+- (c) under section 22(2)(b) of the *(Extent: N.I.)* *(affected by repeal, see note)*[^c-cf5da9b6e5c6a123177c9bb1318f6b3e] [^c1002300] Welfare of Animals Act (Northern Ireland) 1972, *(Extent: N.I.)* *(affected by repeal, see note)*[^c-cf5da9b6e5c6a123177c9bb1318f6b3e]
 
 (each of which restricts the placing on land of poison and poisonous substances) for the person charged to show that he acted in accordance with an approval.
 
@@ -629,7 +629,7 @@ and in this Part of this Act “**regulations**” means regulations under this 
 
 as if it were a pesticide.
 
-### 17. Codes of practice.[^key-2d0924d4375ab58cdc56726abcd13639]
+### 17. Codes of practice.[^c-2d0924d4375ab58cdc56726abcd13639]
 
 (1) The Ministers may from time to time after consultation with such persons or bodies as seem to them representative of the interests concerned—
 
@@ -657,7 +657,7 @@ as if it were a pesticide.
 - (b) subsection (4)(a) shall cease to have effect; and
 - (c) in subsection (4)(b) the reference to any time during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than four days shall be read as if it were a reference to any time during which the Scottish Parliament is dissolved or is in recess for more than four days.
 
-### 18. Payments for general purposes of Part III.[^key-9dbc1cd60d2aecdf496bf23eb4ec1fa0][^c1002303][^c1002302]
+### 18. Payments for general purposes of Part III.[^c-9dbc1cd60d2aecdf496bf23eb4ec1fa0][^c1002303][^c1002302]
 
 (1) Either of the Ministers may require an applicant for the approval of a pesticide under this Part of this Act, on making his application, to pay a fee as a contribution to the cost of handling and evaluating it.
 
@@ -667,7 +667,7 @@ as if it were a pesticide.
 - (b) of the collection of information under section 16(11) above and the processing of information supplied under that subsection; and
 - (c) of monitoring the effect of the use of pesticides in the United Kingdom.
 
-(3)[^key-22aa5845d30846347361c298b89cc06a] Amounts to be paid under this section shall be determined on principles settled by the Ministers with the consent of the Treasury and after consultation with organisations appearing to the Ministers to represent persons who are likely to apply for approvals.
+(3)[^c-22aa5845d30846347361c298b89cc06a] Amounts to be paid under this section shall be determined on principles settled by the Ministers with the consent of the Treasury and after consultation with organisations appearing to the Ministers to represent persons who are likely to apply for approvals.
 
 (4) Without prejudice to the generality of subsection (3) above, the Ministers may settle that any such amount is to be calculated by reference to either or both of the following—
 
@@ -685,7 +685,7 @@ as if it were a pesticide.
 
 (8) All payments under this section are payments for the general purposes of this Part of this Act and may be used accordingly.
 
-### 19. Enforcement powers.[^c1002311][^key-d7111fd0baf213e39141b6071f9f1f45][^key-a38c6d2c954dd3a038eb929b2d3e1c03][^key-694852df5ae7e136471bc754138546d0][^key-881eeaed32a70332057feea5d8867abd][^key-4aa27afe8952313e513a2ce4447860af][^key-fa99606c10e8178d0fe46a176626f31d][^key-48d8144c1c7ea90eb2cd6a3f182074fd]
+### 19. Enforcement powers.[^c1002311][^c-d7111fd0baf213e39141b6071f9f1f45][^c-a38c6d2c954dd3a038eb929b2d3e1c03][^c-694852df5ae7e136471bc754138546d0][^c-881eeaed32a70332057feea5d8867abd][^c-4aa27afe8952313e513a2ce4447860af][^c-fa99606c10e8178d0fe46a176626f31d][^c-48d8144c1c7ea90eb2cd6a3f182074fd]
 
 (1)[^c1002312] Subject to the following provisions of this section, the powers conferred by this section (including Schedule 2 to this Act) (“the enforcement powers”) may be exercised—
 
@@ -777,7 +777,7 @@ he may serve on that person a notice stating that he is of that opinion, specify
 
 (2A)[^c1002321] A person guilty of an offence under section 9(1) shall be liable—
 
-- (a) on summary conviction, to a fine of an amount not exceeding £50,000 *(Extent: E+W)* *(affected by repeal, see note)*[^key-3e51d80fd01ef2c7fdec25b6fce876b1]a fine *(Extent: E+W)*; and
+- (a) on summary conviction, to a fine of an amount not exceeding £50,000 *(Extent: E+W)* *(affected by repeal, see note)*[^c-3e51d80fd01ef2c7fdec25b6fce876b1]a fine *(Extent: E+W)*; and
 - (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or to both.
 
 (3) A person guilty of an offence to which this subsection applies shall be liable—
@@ -787,15 +787,15 @@ he may serve on that person a notice stating that he is of that opinion, specify
 
 (4) The offences to which subsection (3) above applies are offences under sections 9(2) and 16(12) above.
 
-(5)[^key-c4d98596f6a9a46e7a5ab3dfe800d956][^key-1843416204fbee25f41ca9745d231d25][^key-d00fac507b8e38ebbb581404cc803c5f] A person guilty of an offence under Schedule 2 to this Act shall be liable on summary conviction to a fine of an amount not exceeding level 5 on the standard scale.
+(5)[^c-c4d98596f6a9a46e7a5ab3dfe800d956][^c-1843416204fbee25f41ca9745d231d25][^c-d00fac507b8e38ebbb581404cc803c5f] A person guilty of an offence under Schedule 2 to this Act shall be liable on summary conviction to a fine of an amount not exceeding level 5 on the standard scale.
 
 (6) Where an offence under this Act which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and be liable to be proceeded against and punished accordingly.
 
 (7) Where the affairs of a body corporate are managed by its members, subsection (6) above shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
 
-(8)[^key-be9d93abb3faea314e0c5d39406d7d13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-be9d93abb3faea314e0c5d39406d7d13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. General defence of due diligence.[^c1002322][^key-40c6fbdd3945f1099b96d9c05059ada4][^key-6501be2d9474421a02049c50bed97dbc][^key-771199383a235e7ac7b11e9dd52f5b5c]
+### 22. General defence of due diligence.[^c1002322][^c-40c6fbdd3945f1099b96d9c05059ada4][^c-6501be2d9474421a02049c50bed97dbc][^c-771199383a235e7ac7b11e9dd52f5b5c]
 
 (1) In any proceedings for an offence under this Act it is a defence for the person charged to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
 
@@ -820,9 +820,9 @@ and in either case that he took all such steps as were reasonably open to him to
 
 (1) In this Act, unless the context otherwise requires—
 
-[^key-a52f937dcd0dd4ec09a5eba431834f2b]...
+[^c-a52f937dcd0dd4ec09a5eba431834f2b]...
 
-- (...)[^key-a52f937dcd0dd4ec09a5eba431834f2b]
+- (...)[^c-a52f937dcd0dd4ec09a5eba431834f2b]
   - “ **agricultural** ” is to be construed in accordance with section 109(3) of the Agriculture Act 1947, section 86(3) of the [^c1002364] Agriculture (Scotland) Act [^c1002365] 1948 or section 43(1) of the [^c1002366] Agriculture Act (Northern Ireland) 1949;
   - “ **British aircraft** ” means an aircraft registered in the United Kingdom;
   - “ **British fishery limits** ” has the meaning assigned to it by the [^c1002367] Fishery Limits Act 1976;
@@ -833,7 +833,7 @@ and in either case that he took all such steps as were reasonably open to him to
   - “ **captain** ”, in relation to a hovercraft, means the person who is designated by the operator to be in charge of it during any journey, or, failing such designation, the person who is for the time being lawfully in charge of it;
   - “ **commander** ”, in relation to an aircraft, means the member of the flight crew designated as commander of that aircraft by the operator, or, failing such designation, the person who is for the time being the pilot in command of the aircraft;
   - “ **Convention State** ” means a state which is a party to the London Convention or the Oslo Convention;
-  - [^key-63ef169201a5444c6cf1aaa73ea27a5a]...
+  - [^c-63ef169201a5444c6cf1aaa73ea27a5a]...
   - “ **creature** ” means any living organism other than a human being or a plant;
   - “ **crops** ” includes any form of vegetable produce;
   - “ **designated area** ” and “ **designating authority** ” have the meanings assigned to them by section 1(2) above;
@@ -860,11 +860,11 @@ and “ **fishing** ” includes fishing for shellfish;
 
 “licensing authority” means,[^c1002372]
 
-- (a)[^key-8ca275da781a9bb8f73c0ec5b6560e7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-8ca275da781a9bb8f73c0ec5b6560e7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in relation to Scotland–
-  - (i) as regards operations, so far as relating to oil and gas exploration and exploitation, to which a licence would relate and which would be, or have been, carried out in waters within the Scottish inshore region[^key-6a7ff47114b42101d4f4762fcbcaa6be] but lying outside controlled waters within the meaning of section 3OA(1) of the Control of Pollution Act 1974 [^c1002373] or which commence in Scotland, the Secretary of State;
-  - (ii) as regards operations falling within the subject matter of Part VI of the Merchant Shipping Act 1995 [^c1002374] , to which a licence would relate and which would be, or have been, carried out in the Scottish inshore region[^key-33620b284d5ae3b7548025d4bb5c1194] , the Secretary of State;
-  - (iii) as regards any other operations to which a licence would relate and which would be, or have been, carried out in the Scottish inshore region or which commence in Scotland, the Secretary of State [^key-71ff7d8081e7084cde374ce6979ebd9b] ...;
+  - (i) as regards operations, so far as relating to oil and gas exploration and exploitation, to which a licence would relate and which would be, or have been, carried out in waters within the Scottish inshore region[^c-6a7ff47114b42101d4f4762fcbcaa6be] but lying outside controlled waters within the meaning of section 3OA(1) of the Control of Pollution Act 1974 [^c1002373] or which commence in Scotland, the Secretary of State;
+  - (ii) as regards operations falling within the subject matter of Part VI of the Merchant Shipping Act 1995 [^c1002374] , to which a licence would relate and which would be, or have been, carried out in the Scottish inshore region[^c-33620b284d5ae3b7548025d4bb5c1194] , the Secretary of State;
+  - (iii) as regards any other operations to which a licence would relate and which would be, or have been, carried out in the Scottish inshore region or which commence in Scotland, the Secretary of State [^c-71ff7d8081e7084cde374ce6979ebd9b] ...;
   - “ **the London Convention** ” means the Convention on the Prevention of Maritime Pollution by Dumping of Wastes and Other Matter concluded at London in December 1972;
   - “ **marine structure** ” means a platform or other man-made structure at sea, other than a pipe-line;
   - “ **master** ”, in relation to any vessel, includes the person for the time being in charge of the vessel;
@@ -872,7 +872,7 @@ and “ **fishing** ” includes fishing for shellfish;
   - “ **the Oslo Convention** ” means the Convention for the Prevention of Marine Pollution by Dumping from Ships and Aircraft concluded at Oslo in February 1972;
   - “ **pest** ”, “ **pesticide** ” and “ **pesticide residue** ” are to be construed in accordance with section 16 above;
   - “ **plants** ” means any form of vegetable matter, while it is growing and after it has been harvested, gathered, felled or picked, and in particular, but without prejudice to the generality of this definition, includes—
-  - “[^key-2a9b5b92a7db3f4c5423a1e883560a72] **Scottish inshore region** ” has the same meaning as in the Marine and Coastal Access Act 2009 (see section 322 of that Act);
+  - “[^c-2a9b5b92a7db3f4c5423a1e883560a72] **Scottish inshore region** ” has the same meaning as in the Marine and Coastal Access Act 2009 (see section 322 of that Act);
 - (a) agricultural crops;
 - (b) trees and bushes grown for purposes other than those of agriculture;
 - (c) wild plants; and
@@ -884,14 +884,14 @@ and “ **fishing** ” includes fishing for shellfish;
 - “ **shellfish** ” includes crustaceans and molluscs of any kind;
 - [^c1002376] . . .
 - [^c1002376] . . .
-- [^key-e9723effeb7c9f2150285cc92aad1e13] ...
+- [^c-e9723effeb7c9f2150285cc92aad1e13] ...
 - “ **vessel** ” has the meaning assigned to “ship” by the Merchant Shipping Act 1995 .
 
 (2) Any reference in this Act to the London Convention or the Oslo Convention is a reference to it as it has effect from time to time.
 
-(2A)[^key-c7fb1953a09da034e36f7f9e862c5741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-c7fb1953a09da034e36f7f9e862c5741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-cb3305e74b8006042eecaabe0a26a129] Any power conferred by this Act to make orders or regulations may be exercised—
+(3)[^c-cb3305e74b8006042eecaabe0a26a129] Any power conferred by this Act to make orders or regulations may be exercised—
 
 - (a) either in relation to all cases to which the power extends, or in relation to all those cases subject to specified exceptions, or in relation to any specified cases or classes of case; and
 - (b) so as to make, as respects the cases in relation to which it is exercised—
@@ -913,7 +913,7 @@ and “ **fishing** ” includes fishing for shellfish;
 - (b) for any reference to the Ministers or either of them in section 16(2)(g) and (l) , 16(13A)[^c1002427], 17, . . . [^c1002428] and 19(1) above there is substituted a reference to any Northern Ireland Department;
 - (c) for any reference to Parliament, each or either House of Parliament or both Houses of Parliament, there is substituted a reference to the Northern Ireland Assembly;
 - (d) for any reference to the Treasury there is substituted a reference to the Department of Finance and Personnel for Northern Ireland;
-- (e) in section 16(10), for the reference to the the Health and Safety Executive[^key-cf717e7de6bc45ff78eb80863b0b6a10] there is substituted a reference to the Health and Safety Agency for Northern Ireland; and
+- (e) in section 16(10), for the reference to the the Health and Safety Executive[^c-cf717e7de6bc45ff78eb80863b0b6a10] there is substituted a reference to the Health and Safety Agency for Northern Ireland; and
 - (f) section 17(4)(a) is omitted.
 
 (2A)[^c1002429] In the application of section 16 as respects transferred matters in Northern Ireland, for subsection (6) of section 16 substitute—
@@ -923,9 +923,9 @@ and “ **fishing** ” includes fishing for shellfish;
 - (a) if contained in a statutory rule which includes any regulations made under section 2(2) of the [^c1002430] European Communities Act 1972, shall be subject to negative resolution within the meaning of section 41(6) of the [^c1002431] Interpretation Act Northern Ireland) 1954;
 - (b) in any other case, shall not be made unless a draft of them has been laid before and approved by resolution of the Northern Ireland Assembly. ”.
 
-(3)[^key-ddfb1cdf5175652adc4f8fb6de8d9309] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ddfb1cdf5175652adc4f8fb6de8d9309] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) In section 20 above [^key-0ff19da9cd3947bf9ec6928904f61863]...—
+(4) In section 20 above [^c-0ff19da9cd3947bf9ec6928904f61863]...—
 
 - (a) any reference to the Crown includes a reference to the Crown in right of Her Majesty’s Government in Northern Ireland; and
 - (b) “**government department**” includes a Northern Ireland department.
@@ -938,11 +938,11 @@ and “ **fishing** ” includes fishing for shellfish;
 
 (6) In this section “**transferred matters**” has the meaning assigned to it by section 43(2) of the [^c1002436]Northern Ireland Constitution Act 1973.
 
-### 26. Channel Islands etc.[^key-ef9c3ce05ed43a70f68f89110fd8c682]
+### 26. Channel Islands etc.[^c-ef9c3ce05ed43a70f68f89110fd8c682]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Commencement.[^key-4dfaa5385056f78472bd7e4e1f80c77f]
+### 27. Commencement.[^c-4dfaa5385056f78472bd7e4e1f80c77f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -991,7 +991,7 @@ Section 1.
 
 **4.**[^c1002439] A prohibition of a kind specified in paragraph 3 above shall apply in every part of the United Kingdom and United Kingdom waters.
 
-## SCHEDULE 2 — Officers and their Powers[^c1002441][^key-9ae694bad49c8cd293f86990db54d63e][^key-0a288b36e35d631225755ff05b3f8433][^key-7515f970e8961a396267e81d0854dc41][^key-1b1efdf4ca68f5f2a85844dcb517eb3a]
+## SCHEDULE 2 — Officers and their Powers[^c1002441][^c-9ae694bad49c8cd293f86990db54d63e][^c-0a288b36e35d631225755ff05b3f8433][^c-7515f970e8961a396267e81d0854dc41][^c-1b1efdf4ca68f5f2a85844dcb517eb3a]
 
 Sections 4, 11 and 19.
 
@@ -1001,11 +1001,11 @@ Sections 4, 11 and 19.
 
 - (a) an investigating officer;
 - (b) an enforcement officer; and
-- (c)[^c1002442][^key-73c5aba276ebbf96e61a291e03656610][^key-686cceeaddfdb400949add28fadbe7c6][^key-81da3f452ec41252b360e108daf5dc5e][^key-7fa184ffdd67966301ecf4da19eae924] a person authorised to enforce Part II or III of this Act.
+- (c)[^c1002442][^c-73c5aba276ebbf96e61a291e03656610][^c-686cceeaddfdb400949add28fadbe7c6][^c-81da3f452ec41252b360e108daf5dc5e][^c-7fa184ffdd67966301ecf4da19eae924] a person authorised to enforce Part II or III of this Act.
 
 ### Assistants for officers etc.
 
-**2.**[^c1002443][^key-35fe7e491c6fc6d9fe94823512ee0c60][^key-a94340874f8cafb4f197a742e3969b58][^key-d58b259fc455a897340f10e371d302cf][^key-759206cb7313691c7ab868114f7c1c93] (1) An officer may take with him, to assist him in performing his functions—
+**2.**[^c1002443][^c-35fe7e491c6fc6d9fe94823512ee0c60][^c-a94340874f8cafb4f197a742e3969b58][^c-d58b259fc455a897340f10e371d302cf][^c-759206cb7313691c7ab868114f7c1c93] (1) An officer may take with him, to assist him in performing his functions—
 
 - (a) any other person; and
 - (b) any equipment or materials.
@@ -1026,7 +1026,7 @@ Sections 4, 11 and 19.
 - (a) the person (if any) nominated under sub-paragraph (2); and
 - (b) any person authorised by the officer to be present.
 
-(4) A person is not to be excused from complying with a requirement under sub-paragraph (1) on the ground that to do so might incriminate him or his spouse or civil partner[^key-c1b1b54e1376b6e034f9bd13cfeadc94] of an offence; but a statement or admission made in complying is not admissible in evidence against either of them in proceedings for any offence.
+(4) A person is not to be excused from complying with a requirement under sub-paragraph (1) on the ground that to do so might incriminate him or his spouse or civil partner[^c-c1b1b54e1376b6e034f9bd13cfeadc94] of an offence; but a statement or admission made in complying is not admissible in evidence against either of them in proceedings for any offence.
 
 ### Powers in relation to vessels, aircraft etc.
 
@@ -1060,7 +1060,7 @@ Sections 4, 11 and 19.
 
 ### Containers etc.
 
-**4.**[^c1002449][^key-7722b95387eec9e2ef50baaa2310fe42][^key-7d246c6c123c4744d9017e7e1ff192e5][^key-505fc3b428ad6f6f9fec7fe3b35671fc][^key-0dd8136c49c86c8adbccca61b93d3a48] (1)[^c1002450]Without prejudice to his powers under any other provision of this Act, in order to perform his functions an officer—
+**4.**[^c1002449][^c-7722b95387eec9e2ef50baaa2310fe42][^c-7d246c6c123c4744d9017e7e1ff192e5][^c-505fc3b428ad6f6f9fec7fe3b35671fc][^c-0dd8136c49c86c8adbccca61b93d3a48] (1)[^c1002450]Without prejudice to his powers under any other provision of this Act, in order to perform his functions an officer—
 
 - (a) may open any container;
 - (b) may carry out searches, inspections, measurements and tests;
@@ -1074,7 +1074,7 @@ Sections 4, 11 and 19.
 
 ### Evidence of officers’ authority
 
-**5.**[^c1002452][^key-7722b95387eec9e2ef50baaa2310fe42][^key-7d246c6c123c4744d9017e7e1ff192e5][^key-505fc3b428ad6f6f9fec7fe3b35671fc][^key-0dd8136c49c86c8adbccca61b93d3a48] (1) An officer shall be furnished with a certificate of his authorisation, and when he proposes to perform any function under this Act, it shall be his duty, if so requested, to produce that certificate.
+**5.**[^c1002452][^c-7722b95387eec9e2ef50baaa2310fe42][^c-7d246c6c123c4744d9017e7e1ff192e5][^c-505fc3b428ad6f6f9fec7fe3b35671fc][^c-0dd8136c49c86c8adbccca61b93d3a48] (1) An officer shall be furnished with a certificate of his authorisation, and when he proposes to perform any function under this Act, it shall be his duty, if so requested, to produce that certificate.
 
 (2) It shall also be his duty, if so requested, to state—
 
@@ -1086,11 +1086,11 @@ Sections 4, 11 and 19.
 
 ### Time of performance of functions
 
-**6.**[^c1002453][^key-7722b95387eec9e2ef50baaa2310fe42][^key-7d246c6c123c4744d9017e7e1ff192e5][^key-505fc3b428ad6f6f9fec7fe3b35671fc][^key-0dd8136c49c86c8adbccca61b93d3a48] An officer must perform his functions under this Act at a reasonable hour unless it appears to the officer that there are grounds for suspecting that the purpose of their performance may be frustrated if he seeks to perform them at a reasonable hour.
+**6.**[^c1002453][^c-7722b95387eec9e2ef50baaa2310fe42][^c-7d246c6c123c4744d9017e7e1ff192e5][^c-505fc3b428ad6f6f9fec7fe3b35671fc][^c-0dd8136c49c86c8adbccca61b93d3a48] An officer must perform his functions under this Act at a reasonable hour unless it appears to the officer that there are grounds for suspecting that the purpose of their performance may be frustrated if he seeks to perform them at a reasonable hour.
 
 ### Entry into dwellings
 
-**7.**[^c1002454][^key-7722b95387eec9e2ef50baaa2310fe42][^key-7d246c6c123c4744d9017e7e1ff192e5][^key-505fc3b428ad6f6f9fec7fe3b35671fc][^key-0dd8136c49c86c8adbccca61b93d3a48] (1) An officer may only enter a dwelling for the purpose of performing his functions under this Act if a justice has issued a warrant authorising him to enter and search that dwelling.
+**7.**[^c1002454][^c-7722b95387eec9e2ef50baaa2310fe42][^c-7d246c6c123c4744d9017e7e1ff192e5][^c-505fc3b428ad6f6f9fec7fe3b35671fc][^c-0dd8136c49c86c8adbccca61b93d3a48] (1) An officer may only enter a dwelling for the purpose of performing his functions under this Act if a justice has issued a warrant authorising him to enter and search that dwelling.
 
 (2) A justice may only issue such a warrant if on an application made by the officer he is satisfied—
 
@@ -1110,11 +1110,11 @@ Sections 4, 11 and 19.
 
 ### Power of officer to use reasonable force
 
-**8.**[^c1002457][^key-7722b95387eec9e2ef50baaa2310fe42][^key-7d246c6c123c4744d9017e7e1ff192e5][^key-505fc3b428ad6f6f9fec7fe3b35671fc][^key-0dd8136c49c86c8adbccca61b93d3a48] An officer may use reasonable force, if necessary, in the performance of his functions.
+**8.**[^c1002457][^c-7722b95387eec9e2ef50baaa2310fe42][^c-7d246c6c123c4744d9017e7e1ff192e5][^c-505fc3b428ad6f6f9fec7fe3b35671fc][^c-0dd8136c49c86c8adbccca61b93d3a48] An officer may use reasonable force, if necessary, in the performance of his functions.
 
 ### Protection of officers
 
-**9.**[^c1002458][^key-7722b95387eec9e2ef50baaa2310fe42][^key-7d246c6c123c4744d9017e7e1ff192e5][^key-505fc3b428ad6f6f9fec7fe3b35671fc][^key-0dd8136c49c86c8adbccca61b93d3a48] An officer shall not be liable in any civil or criminal proceedings for anything done in the purported performance of his functions under this Act if the court is satisfied that the act was done in good faith and that there were reasonable grounds for doing it.
+**9.**[^c1002458][^c-7722b95387eec9e2ef50baaa2310fe42][^c-7d246c6c123c4744d9017e7e1ff192e5][^c-505fc3b428ad6f6f9fec7fe3b35671fc][^c-0dd8136c49c86c8adbccca61b93d3a48] An officer shall not be liable in any civil or criminal proceedings for anything done in the purported performance of his functions under this Act if the court is satisfied that the act was done in good faith and that there were reasonable grounds for doing it.
 
 ### Offences
 
@@ -1133,49 +1133,49 @@ Sections 4, 11 and 19.
 
 Section 8.
 
-**1.**[^key-ba3e08356f1d3adf609aef8ad25a0bea] If within 28 days of the issue of a licence the person to whom it is issued requests the licensing authority to give him notice in writing of the reasons for the inclusion of any provision in it, the authority shall comply with his request within 28 days of receiving it.
+**1.**[^c-ba3e08356f1d3adf609aef8ad25a0bea] If within 28 days of the issue of a licence the person to whom it is issued requests the licensing authority to give him notice in writing of the reasons for the inclusion of any provision in it, the authority shall comply with his request within 28 days of receiving it.
 
-**2.**[^key-4b5e5706c8c111c091a1608f510e1e9b] On issuing a licence to a person a licensing authority shall notify him of the effect of paragraph 1 above.
+**2.**[^c-4b5e5706c8c111c091a1608f510e1e9b] On issuing a licence to a person a licensing authority shall notify him of the effect of paragraph 1 above.
 
 **3.** If a licensing authority refuses an application for a licence, the authority shall give the applicant notice in writing of the reasons for the refusal.
 
 **4.** If a licensing authority varies or revokes a licence without the holder’s consent, the authority shall give the holder notice in writing of the reasons for the variation or revocation.
 
-**5.**[^key-45b3b2a812dbc24127c14996c7028e96] If within 28 days of receipt of a notice under this Schedule giving a licensing authority’s reasons the person to whom it is given makes written representations to the authority concerning the matter to which the notice related, the authority shall constitute a committee to consider his representations.
+**5.**[^c-45b3b2a812dbc24127c14996c7028e96] If within 28 days of receipt of a notice under this Schedule giving a licensing authority’s reasons the person to whom it is given makes written representations to the authority concerning the matter to which the notice related, the authority shall constitute a committee to consider his representations.
 
-**6.**[^key-45b3b2a812dbc24127c14996c7028e96] A notice under this Schedule giving a licensing authority’s reasons shall state the effect of paragraph 5 above.
+**6.**[^c-45b3b2a812dbc24127c14996c7028e96] A notice under this Schedule giving a licensing authority’s reasons shall state the effect of paragraph 5 above.
 
-**7.**[^key-45b3b2a812dbc24127c14996c7028e96] Each licensing authority shall draw up and from time to time revise a panel of persons who are specially qualified in the authority’s opinion to be members of committees constituted under this Schedule, and any such committee constituted by an authority shall be drawn from members of the authority’s panel.
+**7.**[^c-45b3b2a812dbc24127c14996c7028e96] Each licensing authority shall draw up and from time to time revise a panel of persons who are specially qualified in the authority’s opinion to be members of committees constituted under this Schedule, and any such committee constituted by an authority shall be drawn from members of the authority’s panel.
 
-**8.**[^key-45b3b2a812dbc24127c14996c7028e96] If a licensing authority constitutes a committee, the authority shall appoint one of the members of the committee to be its chairman.
+**8.**[^c-45b3b2a812dbc24127c14996c7028e96] If a licensing authority constitutes a committee, the authority shall appoint one of the members of the committee to be its chairman.
 
 *Extent: E+W+S*
 
-**9.**[^key-45b3b2a812dbc24127c14996c7028e96] It shall be the duty of the chairman--
+**9.**[^c-45b3b2a812dbc24127c14996c7028e96] It shall be the duty of the chairman--
 
 - (a) to serve on the person who made the representations a notice requiring him to state within 14 days of receipt of the notice whether he wishes to make oral representations to the committee; and
 - (b) to serve on him, not earlier than the date of the notice under paragraph (a) above, notice of the place, date and time of the meeting of the committee.
 
-**10.**[^key-45b3b2a812dbc24127c14996c7028e96] A notice under paragraph 9(b) above shall not specify a date for the meeting of the committee earlier than 21 days from the date of the notice, unless the person who made the representations has agreed to an earlier meeting.
+**10.**[^c-45b3b2a812dbc24127c14996c7028e96] A notice under paragraph 9(b) above shall not specify a date for the meeting of the committee earlier than 21 days from the date of the notice, unless the person who made the representations has agreed to an earlier meeting.
 
-**11.**[^key-45b3b2a812dbc24127c14996c7028e96] If he expresses a wish to make oral representations, the committee shall afford him an opportunity of doing so, either in person or by any person authorised by him in that behalf.
+**11.**[^c-45b3b2a812dbc24127c14996c7028e96] If he expresses a wish to make oral representations, the committee shall afford him an opportunity of doing so, either in person or by any person authorised by him in that behalf.
 
-**12.**[^key-45b3b2a812dbc24127c14996c7028e96] The committee shall consider--
+**12.**[^c-45b3b2a812dbc24127c14996c7028e96] The committee shall consider--
 
 - (a) the reasons given by the authority under this Schedule; and
 - (b) any representations made under this Schedule,
 
 and shall make a report to the licensing authority after the close of their consideration, giving their findings of fact and their recommendations, and the licensing authority shall reconsider the decision of the authority to which the representations relate in the light of the report.
 
-**13.**[^key-45b3b2a812dbc24127c14996c7028e96] The licensing authority shall notify the person who made the representations of the result of the authority’s reconsideration and the reasons for it and shall send him a copy of the committee’s report.
+**13.**[^c-45b3b2a812dbc24127c14996c7028e96] The licensing authority shall notify the person who made the representations of the result of the authority’s reconsideration and the reasons for it and shall send him a copy of the committee’s report.
 
-**14.**[^key-45b3b2a812dbc24127c14996c7028e96] Subject to paragraph 15 below, a licensing authority may pay to a person who makes representations under this Schedule such sum as the authority considers appropriate in respect of costs or expenses incurred by that person in connection with the making of the representations and of any hearing relating to them by a committee.
+**14.**[^c-45b3b2a812dbc24127c14996c7028e96] Subject to paragraph 15 below, a licensing authority may pay to a person who makes representations under this Schedule such sum as the authority considers appropriate in respect of costs or expenses incurred by that person in connection with the making of the representations and of any hearing relating to them by a committee.
 
-**15.**[^key-45b3b2a812dbc24127c14996c7028e96] No payment shall be made in a case where the result of the reconsideration is that the authority confirms the original decision without modification.
+**15.**[^c-45b3b2a812dbc24127c14996c7028e96] No payment shall be made in a case where the result of the reconsideration is that the authority confirms the original decision without modification.
 
-**16.**[^key-45b3b2a812dbc24127c14996c7028e96] A licensing authority may make arrangements for securing that such of the authority’s officers as the authority considers are required are available to assist a committee constituted by the authority under this Schedule.
+**16.**[^c-45b3b2a812dbc24127c14996c7028e96] A licensing authority may make arrangements for securing that such of the authority’s officers as the authority considers are required are available to assist a committee constituted by the authority under this Schedule.
 
-**17.**[^key-45b3b2a812dbc24127c14996c7028e96] A licensing authority may pay--
+**17.**[^c-45b3b2a812dbc24127c14996c7028e96] A licensing authority may pay--
 
 - (a) such fees and allowances for members of such committees;
 - (b) such other expenses of such committees,
@@ -1220,45 +1220,45 @@ as the authority may, with the consent of the Treasury, determine.
 
 **15.** The place from which it was intended that it should be taken to that site.
 
-## SCHEDULE 5 — The Advisory Committee[^key-968a189afa2ac84afa12225440cddc9a]
+## SCHEDULE 5 — The Advisory Committee[^c-968a189afa2ac84afa12225440cddc9a]
 
 Section 16.
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-968a189afa2ac84afa12225440cddc9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-968a189afa2ac84afa12225440cddc9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1A.**[^key-968a189afa2ac84afa12225440cddc9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1A.**[^c-968a189afa2ac84afa12225440cddc9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**2.**[^key-968a189afa2ac84afa12225440cddc9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-968a189afa2ac84afa12225440cddc9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**3.**[^key-968a189afa2ac84afa12225440cddc9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-968a189afa2ac84afa12225440cddc9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**4.**[^key-968a189afa2ac84afa12225440cddc9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-968a189afa2ac84afa12225440cddc9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**5.**[^key-968a189afa2ac84afa12225440cddc9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-968a189afa2ac84afa12225440cddc9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**6.**[^key-968a189afa2ac84afa12225440cddc9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-968a189afa2ac84afa12225440cddc9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**7.**[^key-968a189afa2ac84afa12225440cddc9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-968a189afa2ac84afa12225440cddc9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**8.**[^key-968a189afa2ac84afa12225440cddc9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-968a189afa2ac84afa12225440cddc9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -1274,7 +1274,7 @@ Section 16.
 
 [^c1002147]: Modification: S. 1(1) amended (1.4.2000) by [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28), [s. 17(1)(a)](https://www.legislation.gov.uk/ukpga/1999/28/section/17/1/a), (with s. 38); [S.I. 2000/1066](https://www.legislation.gov.uk/uksi/2000/1066), [art. 2](https://www.legislation.gov.uk/uksi/2000/1066/article/2)
 
-[^key-c578e6d1c4affb933d91e832b2abd30c]: Modification: [S. 1(1)](https://www.legislation.gov.uk/ukpga/1985/48/section/1/1) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-c578e6d1c4affb933d91e832b2abd30c]: Modification: [S. 1(1)](https://www.legislation.gov.uk/ukpga/1985/48/section/1/1) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
 [^c1002148]: Textual amendment: S. 1(1)(a) substituted (*retrosp.*) by [Food Safety Act 1990 (c. 16, SIF 53:1, 2)](https://www.legislation.gov.uk/ukpga/1990/16), [ss. 51(1)(2)(a)](https://www.legislation.gov.uk/ukpga/1990/16/section/51/1/2/a), [54](https://www.legislation.gov.uk/ukpga/1990/16/section/54)
 
@@ -1296,7 +1296,7 @@ Section 16.
 
 [^c1002157]: Textual amendment: S. 1(12) inserted (27.7.2000) by [S.I. 2000/2040](https://www.legislation.gov.uk/uksi/2000/2040), [art. 2](https://www.legislation.gov.uk/uksi/2000/2040/article/2), [Sch. Pt. I para. 12](https://www.legislation.gov.uk/uksi/2000/2040/schedule/part/I/paragraph/12)
 
-[^key-632606e9a4d3762df54b33ba40d01ee1]: Textual amendment: Words in [s. 1(12)](https://www.legislation.gov.uk/ukpga/1985/48/section/1/12) repealed (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [s. 63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2), [Sch. para. 2(2)](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/2/2) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-632606e9a4d3762df54b33ba40d01ee1]: Textual amendment: Words in [s. 1(12)](https://www.legislation.gov.uk/ukpga/1985/48/section/1/12) repealed (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [s. 63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2), [Sch. para. 2(2)](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/2/2) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
 [^c1002158]: Textual amendment: [1999 c.28](https://www.legislation.gov.uk/ukpga/1999/28).
 
@@ -1322,9 +1322,9 @@ Section 16.
 
 [^c1002186]: Textual amendment: Words in s. 2(5)(6) substituted (1.4.2000) by [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28), [ss. 40(1)(2)](https://www.legislation.gov.uk/ukpga/1999/28/section/40/1/2), [Sch. 5 para. 6(4)(c)(iii)](https://www.legislation.gov.uk/ukpga/1999/28/schedule/5/paragraph/6/4/c/iii) (with [ss. 38](https://www.legislation.gov.uk/ukpga/1999/28/section/38), [40(2)](https://www.legislation.gov.uk/ukpga/1999/28/section/40/2)); [S.I. 2000/1066](https://www.legislation.gov.uk/uksi/2000/1066), [art. 2](https://www.legislation.gov.uk/uksi/2000/1066/article/2)
 
-[^key-9c24bf1e55f32360b7aef4e22c485cae]: Textual amendment: [S. 2(7)](https://www.legislation.gov.uk/ukpga/1985/48/section/2/7) inserted (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [s. 63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2), [Sch. para. 2(3)](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/2/3) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-9c24bf1e55f32360b7aef4e22c485cae]: Textual amendment: [S. 2(7)](https://www.legislation.gov.uk/ukpga/1985/48/section/2/7) inserted (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [s. 63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2), [Sch. para. 2(3)](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/2/3) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-1ad244b42ac6ed41fe7a4272125bdfd1]: Modification: S. 3(1)(2) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-1ad244b42ac6ed41fe7a4272125bdfd1]: Modification: S. 3(1)(2) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
 [^c1002190]: Textual amendment: Words in s. 3 substituted (30.6.1999) by [S.I. 1999/1756](https://www.legislation.gov.uk/uksi/1999/1756), [art. 2](https://www.legislation.gov.uk/uksi/1999/1756/article/2), [Sch. para. 10(6)](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/10/6) (with [art. 8](https://www.legislation.gov.uk/uksi/1999/1756/article/8)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178)
 
@@ -1340,41 +1340,41 @@ Section 16.
 
     S.5 amended (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [art. 4](https://www.legislation.gov.uk/uksi/1999/1750/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/1999/1750/schedule/3) (with [s. 7](https://www.legislation.gov.uk/uksi/1999/1750/section/7)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178)
 
-[^key-b224d8bd53d2d1b301e4c56bcaecddd5]: Modification: S. 5 excluded (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 14 para. 9](https://www.legislation.gov.uk/ukpga/2008/18/schedule/14/paragraph/9)
+[^c-b224d8bd53d2d1b301e4c56bcaecddd5]: Modification: S. 5 excluded (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 14 para. 9](https://www.legislation.gov.uk/ukpga/2008/18/schedule/14/paragraph/9)
 
-[^key-846546ecd75072ec899fb876890f2171]: Textual amendment: Words in s. 5(a) substituted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/2/a) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-846546ecd75072ec899fb876890f2171]: Textual amendment: Words in s. 5(a) substituted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/2/a) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
-[^key-817eaba72c8080f4208eef10e490ab13]: Textual amendment: S. 5(b) repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/2/b), [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)[(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
+[^c-817eaba72c8080f4208eef10e490ab13]: Textual amendment: S. 5(b) repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/2/b), [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)[(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
 
 [^c1002204]: Textual amendment: S. 5(c)(d) repealed (1.4.2015 for S.) by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [ss. 146(2)(b)](https://www.legislation.gov.uk/ukpga/1990/43/section/146/2/b), [162](https://www.legislation.gov.uk/ukpga/1990/43/section/162), [Sch. 16 Pt. VIII](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/VIII); S.S.I. 2015/72, art. 2(3)
 
-[^key-d3547e01b4bd22176b81d999be3593d8]: Textual amendment: Words in s. 5(e)(i) substituted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(2)(c)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/2/c) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-d3547e01b4bd22176b81d999be3593d8]: Textual amendment: Words in s. 5(e)(i) substituted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(2)(c)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/2/c) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
-[^key-94ef52e69d49555efa08197e7a603801]: Textual amendment: S. 5(e)(ii) and word repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(2)(d)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/2/d), [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)[(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
+[^c-94ef52e69d49555efa08197e7a603801]: Textual amendment: S. 5(e)(ii) and word repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(2)(d)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/2/d), [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)[(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
 
 [^c1002207]: Textual amendment: S. 5(e)(iii) repealed (1.4.2015 for S.) by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [ss. 146(2)(c)(ii)](https://www.legislation.gov.uk/ukpga/1990/43/section/146/2/c/ii), [162](https://www.legislation.gov.uk/ukpga/1990/43/section/162), [Sch. 16 Pt. VIII](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/VIII); S.S.I. 2015/72, art. 2(3)
 
-[^key-0553eaeea8eb81fbb4eb10aed2bead67]: Textual amendment: Words in s. 5(f) substituted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(2)(e)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/2/e) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-0553eaeea8eb81fbb4eb10aed2bead67]: Textual amendment: Words in s. 5(f) substituted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(2)(e)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/2/e) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
-[^key-8857fa0a100cf011c55d45d362aab603]: Textual amendment: Word in s. 5(g) substituted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(2)(f)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/2/f) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-8857fa0a100cf011c55d45d362aab603]: Textual amendment: Word in s. 5(g) substituted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(2)(f)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/2/f) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
 [^c1002208]: Textual amendment: Words in s. 5(g) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt.II](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/II)
 
-[^key-a466a82fb0dc89fb472b497fbd5d0aea]: Textual amendment: Words in s. 5(h) substituted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(2)(g)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/2/g) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-a466a82fb0dc89fb472b497fbd5d0aea]: Textual amendment: Words in s. 5(h) substituted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(2)(g)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/2/g) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
 [^c1002209]: Modification: S. 6 power to transfer functions conferred (1.12.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 22(1)(c)(5)](https://www.legislation.gov.uk/ukpga/1998/38/section/22/1/c/5), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1998/38/schedule/3/part/I), [para. 4(1)(a)](https://www.legislation.gov.uk/ukpga/1998/38/paragraph/4/1/a) (with [ss. 139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2789](https://www.legislation.gov.uk/uksi/1998/2789), [art. 2](https://www.legislation.gov.uk/uksi/1998/2789/article/2)
 
     S. 6 amended (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [art. 4](https://www.legislation.gov.uk/uksi/1999/1750/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/1999/1750/schedule/3) (with [s. 7](https://www.legislation.gov.uk/uksi/1999/1750/section/7)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178)
 
-[^key-5459c7fe5f9879774256415f2d90eb79]: Textual amendment: Words in s. 6(1)(a)(i) substituted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(3)(a)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/3/a) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-5459c7fe5f9879774256415f2d90eb79]: Textual amendment: Words in s. 6(1)(a)(i) substituted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(3)(a)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/3/a) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
-[^key-eac045900465f608485485cc21390a10]: Textual amendment: S. 6(1)(a)(ii) and word repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(3)(b)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/3/b), [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)[(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
+[^c-eac045900465f608485485cc21390a10]: Textual amendment: S. 6(1)(a)(ii) and word repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(3)(b)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/3/b), [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)[(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
 
 [^c1002212]: Textual amendment: S. 6(1)(a)(iii) repealed (1.4.2015 for S.) by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [ss. 146(3)(b)](https://www.legislation.gov.uk/ukpga/1990/43/section/146/3/b), [162](https://www.legislation.gov.uk/ukpga/1990/43/section/162), [Sch. 16 Pt. VIII](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/VIII); S.S.I. 2015/72, art. 2(3)
 
-[^key-3b869096aa42bf63f68d7ea569b04156]: Textual amendment: Words in s. 6(1)(b) substituted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(3)(c)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/3/c) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-3b869096aa42bf63f68d7ea569b04156]: Textual amendment: Words in s. 6(1)(b) substituted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(3)(c)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/3/c) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
-[^key-9e512f6ebf4efba3d57920c969a6ebea]: Textual amendment: [S. 6A](https://www.legislation.gov.uk/ukpga/1985/48/section/6A) inserted (S.) (6.4.2011) by [The Marine (Scotland) Act 2010 (Transitional and Consequential Provisions) Order 2011 (S.S.I. 2011/202)](https://www.legislation.gov.uk/ssi/2011/202), [arts. 1](https://www.legislation.gov.uk/ssi/2011/202/article/1), [10](https://www.legislation.gov.uk/ssi/2011/202/article/10)
+[^c-9e512f6ebf4efba3d57920c969a6ebea]: Textual amendment: [S. 6A](https://www.legislation.gov.uk/ukpga/1985/48/section/6A) inserted (S.) (6.4.2011) by [The Marine (Scotland) Act 2010 (Transitional and Consequential Provisions) Order 2011 (S.S.I. 2011/202)](https://www.legislation.gov.uk/ssi/2011/202), [arts. 1](https://www.legislation.gov.uk/ssi/2011/202/article/1), [10](https://www.legislation.gov.uk/ssi/2011/202/article/10)
 
 [^c1002216]: Modification: S. 7 power to transfer functions conferred (1.12.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 22(1)(c)(5)](https://www.legislation.gov.uk/ukpga/1998/38/section/22/1/c/5), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1998/38/schedule/3/part/I), [para. 4(1)(a)](https://www.legislation.gov.uk/ukpga/1998/38/paragraph/4/1/a) (with [ss. 139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2789](https://www.legislation.gov.uk/uksi/1998/2789), [art. 2](https://www.legislation.gov.uk/uksi/1998/2789/article/2)
 
@@ -1386,47 +1386,47 @@ Section 16.
 
 [^c1002219]: Textual amendment: S. 7A inserted (15.2.1999) by [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17), [s. 50](https://www.legislation.gov.uk/ukpga/1998/17/section/50), [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/1998/17/schedule/4/paragraph/20) (with [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/ukpga/1998/17/schedule/3/paragraph/5/1)); [S.I. 1999/161](https://www.legislation.gov.uk/uksi/1999/161), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/161/article/2/1)
 
-[^key-280c79b9214dd64293ca0433e71bf4de]: Textual amendment: S. 7A(1): s. 7A renumbered as s. 7A(1) (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/1/paragraph/2/a); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(iii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/iii)
+[^c-280c79b9214dd64293ca0433e71bf4de]: Textual amendment: S. 7A(1): s. 7A renumbered as s. 7A(1) (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/1/paragraph/2/a); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(iii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/iii)
 
-[^key-87562620ca6f1c654672420a7dd21812]: Textual amendment: S. 7A(2)-(5) inserted (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/1/paragraph/2/b); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(iii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/iii)
+[^c-87562620ca6f1c654672420a7dd21812]: Textual amendment: S. 7A(2)-(5) inserted (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/1/paragraph/2/b); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(iii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/iii)
 
-[^key-f2904165f3b8bc129bedfee2f2fb6436]: Textual amendment: Words in s. 7A(4) substituted for s. 7A(4)(a)(b) (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/4/a) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-f2904165f3b8bc129bedfee2f2fb6436]: Textual amendment: Words in s. 7A(4) substituted for s. 7A(4)(a)(b) (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/4/a) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
-[^key-c63377ab3ddd9573fa888330c8feafc7]: Textual amendment: S. 7A(5) repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/4/b), [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)[(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
+[^c-c63377ab3ddd9573fa888330c8feafc7]: Textual amendment: S. 7A(5) repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/4/b), [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)[(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
 
 [^c1002221]: Modification: S. 8 power to transfer functions conferred (1.12.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 22(1)(c)(5)](https://www.legislation.gov.uk/ukpga/1998/38/section/22/1/c/5), [Sch. 3 Pt.I](https://www.legislation.gov.uk/ukpga/1998/38/schedule/3/part/I), [para. 4(1)(a)](https://www.legislation.gov.uk/ukpga/1998/38/paragraph/4/1/a) (with [ss. 139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2789](https://www.legislation.gov.uk/uksi/1998/2789), [art. 2](https://www.legislation.gov.uk/uksi/1998/2789/article/2)
 
-[^key-dcd41054b7b2447b510270f3af0c7c31]: Textual amendment: Words in [s. 8(4)(b)](https://www.legislation.gov.uk/ukpga/1985/48/section/8/4/b) substituted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(5)(a)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/5/a) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-dcd41054b7b2447b510270f3af0c7c31]: Textual amendment: Words in [s. 8(4)(b)](https://www.legislation.gov.uk/ukpga/1985/48/section/8/4/b) substituted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(5)(a)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/5/a) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
-[^key-cbcc27e4580827eb721e3d5a3b0892d9]: Textual amendment: Words in [s. 8(6)](https://www.legislation.gov.uk/ukpga/1985/48/section/8/6) repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(5)(b)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/5/b), [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)[(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
+[^c-cbcc27e4580827eb721e3d5a3b0892d9]: Textual amendment: Words in [s. 8(6)](https://www.legislation.gov.uk/ukpga/1985/48/section/8/6) repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(5)(b)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/5/b), [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)[(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
 
-[^key-e76670b7ae96f0199558ad1a238cdb12]: Modification: S. 8(9) applied (with modifications) (24.6.2007) by [The Marine Works (Environmental Impact Assessment) Regulations 2007 (S.I. 2007/1518)](https://www.legislation.gov.uk/uksi/2007/1518), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1518/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2007/1518/regulation/3/4)
+[^c-e76670b7ae96f0199558ad1a238cdb12]: Modification: S. 8(9) applied (with modifications) (24.6.2007) by [The Marine Works (Environmental Impact Assessment) Regulations 2007 (S.I. 2007/1518)](https://www.legislation.gov.uk/uksi/2007/1518), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1518/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2007/1518/regulation/3/4)
 
 [^c1002222]: Textual amendment: S. 8(11A)(11B) inserted (1.4.2000) by [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28), [s. 18](https://www.legislation.gov.uk/ukpga/1999/28/section/18), [Sch. 3 Pt. III para. 16(4)](https://www.legislation.gov.uk/ukpga/1999/28/schedule/3/part/III/paragraph/16/4) (with [s. 38](https://www.legislation.gov.uk/ukpga/1999/28/section/38)); [S.I. 2000/1066](https://www.legislation.gov.uk/uksi/2000/1066), [art. 2](https://www.legislation.gov.uk/uksi/2000/1066/article/2)
 
-[^key-17a804486abb54b12873ea924d3fed2c]: Textual amendment: S. 8A inserted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/5) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-17a804486abb54b12873ea924d3fed2c]: Textual amendment: S. 8A inserted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/5) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
-[^key-f9e20a78e918a5cc30809b18cb55b4b7]: Textual amendment: Words in [s. 8A(1)](https://www.legislation.gov.uk/ukpga/1985/48/section/8A/2) substituted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/22); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
+[^c-f9e20a78e918a5cc30809b18cb55b4b7]: Textual amendment: Words in [s. 8A(1)](https://www.legislation.gov.uk/ukpga/1985/48/section/8A/2) substituted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/22); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
 
 [^c1002223]: Modification: S. 9 power to transfer functions conferred (1.12.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 22(1)(c)(5)](https://www.legislation.gov.uk/ukpga/1998/38/section/22/1/c/5), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1998/38/schedule/3/part/I), [para. 4(1)(a)](https://www.legislation.gov.uk/ukpga/1998/38/paragraph/4/1/a) (with [ss. 139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2789](https://www.legislation.gov.uk/uksi/1998/2789), [art. 2](https://www.legislation.gov.uk/uksi/1998/2789/article/2)
 
-[^key-c6a8210c1c4cb015635ea62898c78db3]: Textual amendment: Word in s. 9(1) substituted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(6)(a)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/6/a) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-c6a8210c1c4cb015635ea62898c78db3]: Textual amendment: Word in s. 9(1) substituted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(6)(a)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/6/a) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
-[^key-62ba548259f707afa11d6814fd5b1ede]: Textual amendment: Words in s. 9(1) inserted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 6(2)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/6/2) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-62ba548259f707afa11d6814fd5b1ede]: Textual amendment: Words in s. 9(1) inserted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 6(2)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/6/2) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
-[^key-1c4d93513a270b98525038f420205464]: Textual amendment: S. 9(5)-(7) repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(6)(b)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/6/b), [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)[(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
+[^c-1c4d93513a270b98525038f420205464]: Textual amendment: S. 9(5)-(7) repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(6)(b)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/6/b), [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)[(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
 
-[^key-908a9f211647115d59269f810822efec]: Textual amendment: S. 9(8) inserted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 6(3)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/6/3) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-908a9f211647115d59269f810822efec]: Textual amendment: S. 9(8) inserted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 6(3)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/6/3) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
-[^key-bf2840938d658b457c5086f6607ccbe5]: Textual amendment: Words in s. 9(8)(a) substituted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 23(a)](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/23/a); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
+[^c-bf2840938d658b457c5086f6607ccbe5]: Textual amendment: Words in s. 9(8)(a) substituted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 23(a)](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/23/a); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
 
-[^key-0862664eaccf941b6fb4c68fd4b27d03]: Textual amendment: Words in s. 9(8) omitted (28.12.2017) by virtue of [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 23(b)](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/23/b); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
+[^c-0862664eaccf941b6fb4c68fd4b27d03]: Textual amendment: Words in s. 9(8) omitted (28.12.2017) by virtue of [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 23(b)](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/23/b); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
 
 [^c1002227]: Modification: S. 10 power to transfer functions conferred (1.12.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 22(1)(c)(5)](https://www.legislation.gov.uk/ukpga/1998/38/section/22/1/c/5), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1998/38/schedule/3/part/I), [para. 4(1)(a)](https://www.legislation.gov.uk/ukpga/1998/38/paragraph/4/1/a) (with [ss. 139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2789](https://www.legislation.gov.uk/uksi/1998/2789), [art. 2](https://www.legislation.gov.uk/uksi/1998/2789/article/2)
 
     S. 10 amended (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [art. 4](https://www.legislation.gov.uk/uksi/1999/1750/article/4), [Sch 3](https://www.legislation.gov.uk/uksi/1999/1750/schedule/3) ( with art. 7); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178)
 
-[^key-6e5e74be33c32381578b4df5eb86f49c]: Modification: S. 10 continued (S.) (6.4.2011) by [The Marine (Scotland) Act 2010 (Transitional and Consequential Provisions) Order 2011 (S.S.I. 2011/202)](https://www.legislation.gov.uk/ssi/2011/202), [arts. 1](https://www.legislation.gov.uk/ssi/2011/202/article/1), [7](https://www.legislation.gov.uk/ssi/2011/202/article/7)
+[^c-6e5e74be33c32381578b4df5eb86f49c]: Modification: S. 10 continued (S.) (6.4.2011) by [The Marine (Scotland) Act 2010 (Transitional and Consequential Provisions) Order 2011 (S.S.I. 2011/202)](https://www.legislation.gov.uk/ssi/2011/202), [arts. 1](https://www.legislation.gov.uk/ssi/2011/202/article/1), [7](https://www.legislation.gov.uk/ssi/2011/202/article/7)
 
 [^c1002228]: Modification: S. 10(1) modified (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 5](https://www.legislation.gov.uk/uksi/1999/672/article/5), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/672/schedule/2)
 
@@ -1438,11 +1438,11 @@ Section 16.
 
 [^c1002235]: Textual amendment: Words in s. 11(1) substituted (30.6.1999) by [S.I. 1999/1756](https://www.legislation.gov.uk/uksi/1999/1756), [art. 2](https://www.legislation.gov.uk/uksi/1999/1756/article/2), [Sch. para. 10(9)](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/10/9) (with [art. 8](https://www.legislation.gov.uk/uksi/1999/1756/article/8)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178)
 
-[^key-279d2ecd023a46d143973f67e54d424d]: Textual amendment: Word in s. 11(2)(a) substituted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(7)(a)(i)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/7/a/i) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-279d2ecd023a46d143973f67e54d424d]: Textual amendment: Word in s. 11(2)(a) substituted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(7)(a)(i)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/7/a/i) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
-[^key-347c1845f5f42c75a71d80074907d52c]: Textual amendment: S. 11(2)(b) substituted for s. 11(2)(b)(c) (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(7)(a)(ii)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/7/a/ii) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-347c1845f5f42c75a71d80074907d52c]: Textual amendment: S. 11(2)(b) substituted for s. 11(2)(b)(c) (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(7)(a)(ii)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/7/a/ii) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
-[^key-9bafde549d3f2f6dfb13835ca9e69a8f]: Textual amendment: Words in s. 11(3) substituted for s. 11(2)(a)(b) (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(7)(b)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/7/b) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-9bafde549d3f2f6dfb13835ca9e69a8f]: Textual amendment: Words in s. 11(3) substituted for s. 11(2)(a)(b) (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(7)(b)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/7/b) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
 [^c1002239]: Modification: S. 12 power to transfer functions conferred (1.12.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 22(1)(c)(5)](https://www.legislation.gov.uk/ukpga/1998/38/section/22/1/c/5), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1998/38/schedule/3/part/I), [para. 4(1)(a)](https://www.legislation.gov.uk/ukpga/1998/38/paragraph/4/1/a) (with [ss. 139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2789](https://www.legislation.gov.uk/uksi/1998/2789), [art. 2](https://www.legislation.gov.uk/uksi/1998/2789/article/2)
 
@@ -1450,7 +1450,7 @@ Section 16.
 
 [^c1002241]: Modification: S. 13 power to transfer functions conferred (1.12.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 22(1)(c)(5)](https://www.legislation.gov.uk/ukpga/1998/38/section/22/1/c/5), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1998/38/schedule/3/part/I), [para. 4(1)(a)](https://www.legislation.gov.uk/ukpga/1998/38/paragraph/4/1/a) (with [ss. 139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2789](https://www.legislation.gov.uk/uksi/1998/2789), [art. 3](https://www.legislation.gov.uk/uksi/1998/2789/article/3)
 
-[^key-bb2fd912d396d6d902f1962c6b48d14d]: Modification: [S. 13](https://www.legislation.gov.uk/ukpga/1985/48/section/13) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-bb2fd912d396d6d902f1962c6b48d14d]: Modification: [S. 13](https://www.legislation.gov.uk/ukpga/1985/48/section/13) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
 [^c1002247]: Modification: S. 14 extended (with modifications) (22.8.1997) by [S.I. 1997/1770](https://www.legislation.gov.uk/uksi/1997/1770), [art. 3](https://www.legislation.gov.uk/uksi/1997/1770/article/3)
 
@@ -1478,9 +1478,9 @@ Section 16.
 
 [^c1002267]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-c809518d3bc83aacef2ff97a109dba6b]: Modification: S. 16 transfer of functions (23.3.2005) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849), [art. 1](https://www.legislation.gov.uk/uksi/2005/849/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/849/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/849/article/6))
+[^c-c809518d3bc83aacef2ff97a109dba6b]: Modification: S. 16 transfer of functions (23.3.2005) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849), [art. 1](https://www.legislation.gov.uk/uksi/2005/849/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/849/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/849/article/6))
 
-[^key-f280d1edddc0f7db618bcee4471a7e63]: Modification: [S. 16](https://www.legislation.gov.uk/ukpga/1985/48/section/16) functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [21(1)](https://www.legislation.gov.uk/uksi/2018/644/article/21/1)
+[^c-f280d1edddc0f7db618bcee4471a7e63]: Modification: [S. 16](https://www.legislation.gov.uk/ukpga/1985/48/section/16) functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [21(1)](https://www.legislation.gov.uk/uksi/2018/644/article/21/1)
 
 [^c1002290]: Textual amendment: Words in s. 16(2)(g) inserted (9.9.1998) by [1998 c. 26](https://www.legislation.gov.uk/ukpga/1998/26), [ss. 1(1)(2)(a)](https://www.legislation.gov.uk/ukpga/1998/26/section/1/1/2/a), [3(b)](https://www.legislation.gov.uk/ukpga/1998/26/section/3/b)
 
@@ -1488,21 +1488,21 @@ Section 16.
 
 [^c1002292]: Textual amendment: S. 16(2)(j) substituted (9.9.1998) by [1998 c. 26](https://www.legislation.gov.uk/ukpga/1998/26), [ss. 1(1)(3)](https://www.legislation.gov.uk/ukpga/1998/26/section/1/1/3), [3(b)](https://www.legislation.gov.uk/ukpga/1998/26/section/3/b)
 
-[^key-8bf66a4beab7f4c043109b0af63e6358]: Modification: [S. 16(2)(j)(ii)](https://www.legislation.gov.uk/ukpga/1985/48/section/16/2/j/ii) functions modified (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [21(2)](https://www.legislation.gov.uk/uksi/2018/644/article/21/2)
+[^c-8bf66a4beab7f4c043109b0af63e6358]: Modification: [S. 16(2)(j)(ii)](https://www.legislation.gov.uk/ukpga/1985/48/section/16/2/j/ii) functions modified (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [21(2)](https://www.legislation.gov.uk/uksi/2018/644/article/21/2)
 
 [^c1002293]: Textual amendment: S. 16(2A) inserted (9.9.1998) by [1998 c. 26](https://www.legislation.gov.uk/ukpga/1998/26), [ss. 1(1)(4)](https://www.legislation.gov.uk/ukpga/1998/26/section/1/1/4), [3(b)](https://www.legislation.gov.uk/ukpga/1998/26/section/3/b)
 
-[^key-e2c8eee17c2e146a1066e6c10c6165f5]: Textual amendment: [S. 16(7)](https://www.legislation.gov.uk/ukpga/1985/48/section/16/7) repealed (27.3.2015) by [The Public Bodies (Abolition of the Advisory Committees on Pesticides) Order 2015 (S.I. 2015/978)](https://www.legislation.gov.uk/uksi/2015/978), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/978/article/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2015/978/schedule/part/1)
+[^c-e2c8eee17c2e146a1066e6c10c6165f5]: Textual amendment: [S. 16(7)](https://www.legislation.gov.uk/ukpga/1985/48/section/16/7) repealed (27.3.2015) by [The Public Bodies (Abolition of the Advisory Committees on Pesticides) Order 2015 (S.I. 2015/978)](https://www.legislation.gov.uk/uksi/2015/978), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/978/article/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2015/978/schedule/part/1)
 
 [^c1002294]: Modification: S. 16(7) modified (1.7.1999) by [S.I. 1999/1747](https://www.legislation.gov.uk/uksi/1999/1747), [art. 3](https://www.legislation.gov.uk/uksi/1999/1747/article/3), [Sch. 2 Pt. II para. 3](https://www.legislation.gov.uk/uksi/1999/1747/schedule/2/part/II/paragraph/3); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178)
 
-[^key-9efc74aa8fdb5cc0cf7939f688a164f1]: Textual amendment: [S. 16(8)](https://www.legislation.gov.uk/ukpga/1985/48/section/16/8) repealed (27.3.2015) by [The Public Bodies (Abolition of the Advisory Committees on Pesticides) Order 2015 (S.I. 2015/978)](https://www.legislation.gov.uk/uksi/2015/978), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/978/article/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2015/978/schedule/part/1)
+[^c-9efc74aa8fdb5cc0cf7939f688a164f1]: Textual amendment: [S. 16(8)](https://www.legislation.gov.uk/ukpga/1985/48/section/16/8) repealed (27.3.2015) by [The Public Bodies (Abolition of the Advisory Committees on Pesticides) Order 2015 (S.I. 2015/978)](https://www.legislation.gov.uk/uksi/2015/978), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/978/article/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2015/978/schedule/part/1)
 
-[^key-428a809cacd6fec8200f55eec2230199]: Textual amendment: [S. 16(9)](https://www.legislation.gov.uk/ukpga/1985/48/section/16/9) repealed (27.3.2015) by [The Public Bodies (Abolition of the Advisory Committees on Pesticides) Order 2015 (S.I. 2015/978)](https://www.legislation.gov.uk/uksi/2015/978), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/978/article/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2015/978/schedule/part/1)
+[^c-428a809cacd6fec8200f55eec2230199]: Textual amendment: [S. 16(9)](https://www.legislation.gov.uk/ukpga/1985/48/section/16/9) repealed (27.3.2015) by [The Public Bodies (Abolition of the Advisory Committees on Pesticides) Order 2015 (S.I. 2015/978)](https://www.legislation.gov.uk/uksi/2015/978), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/978/article/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2015/978/schedule/part/1)
 
 [^c1002296]: Textual amendment: S.19(9A) inserted (1.4.2000) by [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28), [s. 18](https://www.legislation.gov.uk/ukpga/1999/28/section/18), [Sch. 3 Pt. III para. 16(5)](https://www.legislation.gov.uk/ukpga/1999/28/schedule/3/part/III/paragraph/16/5) (with [s. 38](https://www.legislation.gov.uk/ukpga/1999/28/section/38)); [S.I. 2000/1066](https://www.legislation.gov.uk/uksi/2000/1066), [art. 2](https://www.legislation.gov.uk/uksi/2000/1066/article/2)
 
-[^key-45878483b22d95216ee30ec5265ff03d]: Textual amendment: Words in s. 16(10) substituted (1.4.2008) by [Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/960/schedule/2))
+[^c-45878483b22d95216ee30ec5265ff03d]: Textual amendment: Words in s. 16(10) substituted (1.4.2008) by [Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/960/schedule/2))
 
 [^c1002297]: Textual amendment: S. 16(13A) inserted by [Pesticides (Fees and Enforcement) Act 1989 (c. 27, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1989/27), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1989/27/section/1/2)
 
@@ -1510,21 +1510,21 @@ Section 16.
 
 [^c1002299]: Marginal citation: [1912 c. 14](https://www.legislation.gov.uk/ukpga/1912/14).
 
-[^key-cf5da9b6e5c6a123177c9bb1318f6b3e]: Textual amendment: S. 16(14)(c) repealed (N.I.) (2.4.2012) by [Welfare of Animals Act (Northern Ireland) 2011 (c. 16)](https://www.legislation.gov.uk/nia/2011/16), [s. 59](https://www.legislation.gov.uk/nia/2011/16/section/59), [Sch. 5](https://www.legislation.gov.uk/nia/2011/16/schedule/5) (with [ss. 1(2)](https://www.legislation.gov.uk/nia/2011/16/section/1/2), [52(1)](https://www.legislation.gov.uk/nia/2011/16/section/52/1), [53](https://www.legislation.gov.uk/nia/2011/16/section/53), [54](https://www.legislation.gov.uk/nia/2011/16/section/54)); [S.R. 2012/154](https://www.legislation.gov.uk/nisr/2012/154), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/154/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/154/schedule/2)
+[^c-cf5da9b6e5c6a123177c9bb1318f6b3e]: Textual amendment: S. 16(14)(c) repealed (N.I.) (2.4.2012) by [Welfare of Animals Act (Northern Ireland) 2011 (c. 16)](https://www.legislation.gov.uk/nia/2011/16), [s. 59](https://www.legislation.gov.uk/nia/2011/16/section/59), [Sch. 5](https://www.legislation.gov.uk/nia/2011/16/schedule/5) (with [ss. 1(2)](https://www.legislation.gov.uk/nia/2011/16/section/1/2), [52(1)](https://www.legislation.gov.uk/nia/2011/16/section/52/1), [53](https://www.legislation.gov.uk/nia/2011/16/section/53), [54](https://www.legislation.gov.uk/nia/2011/16/section/54)); [S.R. 2012/154](https://www.legislation.gov.uk/nisr/2012/154), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/154/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/154/schedule/2)
 
 [^c1002300]: Marginal citation: [1972 c. 7](https://www.legislation.gov.uk/ukpga/1972/7). (N.I.).
 
-[^key-2d0924d4375ab58cdc56726abcd13639]: Modification: [S. 17](https://www.legislation.gov.uk/ukpga/1985/48/section/17) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-2d0924d4375ab58cdc56726abcd13639]: Modification: [S. 17](https://www.legislation.gov.uk/ukpga/1985/48/section/17) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
 [^c1002301]: Textual amendment: [S. 17(8)](https://www.legislation.gov.uk/ukpga/1985/48/section/17/8) inserted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [art. 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 81](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/81); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178) art. 3
 
-[^key-9dbc1cd60d2aecdf496bf23eb4ec1fa0]: Modification: [S. 18](https://www.legislation.gov.uk/ukpga/1985/48/section/18) functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [21(1)](https://www.legislation.gov.uk/uksi/2018/644/article/21/1)
+[^c-9dbc1cd60d2aecdf496bf23eb4ec1fa0]: Modification: [S. 18](https://www.legislation.gov.uk/ukpga/1985/48/section/18) functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [21(1)](https://www.legislation.gov.uk/uksi/2018/644/article/21/1)
 
 [^c1002303]: Modification: [S. 18](https://www.legislation.gov.uk/ukpga/1985/48/section/18) modified (1.1.2002) by [S.I. 2001/3898](https://www.legislation.gov.uk/uksi/2001/3898), [reg. 2](https://www.legislation.gov.uk/uksi/2001/3898/regulation/2)
 
 [^c1002302]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/1985/48/section/18) substituted by [Pesticides (Fees and Enforcement) Act 1989 (c. 27, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1989/27), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1989/27/section/1/1)
 
-[^key-22aa5845d30846347361c298b89cc06a]: Modification: [S. 18(3)](https://www.legislation.gov.uk/ukpga/1985/48/section/18/3) functions modified (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [21(2)](https://www.legislation.gov.uk/uksi/2018/644/article/21/2)
+[^c-22aa5845d30846347361c298b89cc06a]: Modification: [S. 18(3)](https://www.legislation.gov.uk/ukpga/1985/48/section/18/3) functions modified (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [21(2)](https://www.legislation.gov.uk/uksi/2018/644/article/21/2)
 
 [^c1002311]: Modification: S. 19 applied (with modifications) (E.W.S.) (17.4.1995) by [S.I. 1995/887](https://www.legislation.gov.uk/uksi/1995/887), [reg. 24(1)](https://www.legislation.gov.uk/uksi/1995/887/regulation/24/1)
 
@@ -1532,19 +1532,19 @@ Section 16.
 
     S. 19 applied (with modifications) (E.W.) (1.2.2000) by [S.I. 1999/3483](https://www.legislation.gov.uk/uksi/1999/3483), [reg. 4(6)](https://www.legislation.gov.uk/uksi/1999/3483/regulation/4/6)
 
-[^key-d7111fd0baf213e39141b6071f9f1f45]: Modification: S. 19 applied (with modifications) (E.W.) (31.12.2003) by [Plant Protection Products Regulations 2003 (S.I. 2003/3241)](https://www.legislation.gov.uk/uksi/2003/3241), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3241/regulation/1), [24(1)](https://www.legislation.gov.uk/uksi/2003/3241/regulation/24/1)
+[^c-d7111fd0baf213e39141b6071f9f1f45]: Modification: S. 19 applied (with modifications) (E.W.) (31.12.2003) by [Plant Protection Products Regulations 2003 (S.I. 2003/3241)](https://www.legislation.gov.uk/uksi/2003/3241), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3241/regulation/1), [24(1)](https://www.legislation.gov.uk/uksi/2003/3241/regulation/24/1)
 
-[^key-a38c6d2c954dd3a038eb929b2d3e1c03]: Modification: S. 19 applied (with modifications) (S.) (31.12.2003) by [Plant Protection Products (Scotland) Regulations 2003 (S.S.I. 2003/579)](https://www.legislation.gov.uk/ssi/2003/579), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/579/regulation/1/1), [24](https://www.legislation.gov.uk/ssi/2003/579/regulation/24)
+[^c-a38c6d2c954dd3a038eb929b2d3e1c03]: Modification: S. 19 applied (with modifications) (S.) (31.12.2003) by [Plant Protection Products (Scotland) Regulations 2003 (S.S.I. 2003/579)](https://www.legislation.gov.uk/ssi/2003/579), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/579/regulation/1/1), [24](https://www.legislation.gov.uk/ssi/2003/579/regulation/24)
 
-[^key-694852df5ae7e136471bc754138546d0]: Modification: S. 19 applied (with modifications) (S.) (1.7.2005) by [Plant Protection Products (Scotland) Regulations 2005 (S.S.I. 2005/331)](https://www.legislation.gov.uk/ssi/2005/331), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/331/regulation/1/1), [24](https://www.legislation.gov.uk/ssi/2005/331/regulation/24) (with [Sch. 4](https://www.legislation.gov.uk/ssi/2005/331/schedule/4))
+[^c-694852df5ae7e136471bc754138546d0]: Modification: S. 19 applied (with modifications) (S.) (1.7.2005) by [Plant Protection Products (Scotland) Regulations 2005 (S.S.I. 2005/331)](https://www.legislation.gov.uk/ssi/2005/331), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/331/regulation/1/1), [24](https://www.legislation.gov.uk/ssi/2005/331/regulation/24) (with [Sch. 4](https://www.legislation.gov.uk/ssi/2005/331/schedule/4))
 
-[^key-881eeaed32a70332057feea5d8867abd]: Modification: S. 19 applied (with modifications) (E.W.) (1.7.2005) by [Plant Protection Products Regulations 2005 (S.I. 2005/1435)](https://www.legislation.gov.uk/uksi/2005/1435), [art. 1](https://www.legislation.gov.uk/uksi/2005/1435/article/1)[reg. 24](https://www.legislation.gov.uk/uksi/2005/1435/regulation/24)
+[^c-881eeaed32a70332057feea5d8867abd]: Modification: S. 19 applied (with modifications) (E.W.) (1.7.2005) by [Plant Protection Products Regulations 2005 (S.I. 2005/1435)](https://www.legislation.gov.uk/uksi/2005/1435), [art. 1](https://www.legislation.gov.uk/uksi/2005/1435/article/1)[reg. 24](https://www.legislation.gov.uk/uksi/2005/1435/regulation/24)
 
-[^key-4aa27afe8952313e513a2ce4447860af]: Modification: S. 19 applied (with modifications) (S.) (22.12.2005) by [Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (Scotland) Regulations 2005 (S.S.I. 2005/599)](https://www.legislation.gov.uk/ssi/2005/599), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/599/regulation/1/1), [3(6)](https://www.legislation.gov.uk/ssi/2005/599/regulation/3/6)
+[^c-4aa27afe8952313e513a2ce4447860af]: Modification: S. 19 applied (with modifications) (S.) (22.12.2005) by [Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (Scotland) Regulations 2005 (S.S.I. 2005/599)](https://www.legislation.gov.uk/ssi/2005/599), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/599/regulation/1/1), [3(6)](https://www.legislation.gov.uk/ssi/2005/599/regulation/3/6)
 
-[^key-fa99606c10e8178d0fe46a176626f31d]: Modification: S. 19 applied (with modifications) (E.W.) (22.12.2005) by [Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) Regulations 2005 (S.I. 2005/3286)](https://www.legislation.gov.uk/uksi/2005/3286), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3286/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2005/3286/regulation/3/6)
+[^c-fa99606c10e8178d0fe46a176626f31d]: Modification: S. 19 applied (with modifications) (E.W.) (22.12.2005) by [Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) Regulations 2005 (S.I. 2005/3286)](https://www.legislation.gov.uk/uksi/2005/3286), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3286/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2005/3286/regulation/3/6)
 
-[^key-48d8144c1c7ea90eb2cd6a3f182074fd]: Modification: S. 19 applied (N.I.) (30.6.2006) by [Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) Regulations (Northern Ireland) 2006 (S.R. 2006/220)](https://www.legislation.gov.uk/nisr/2006/220), [regs. 1](https://www.legislation.gov.uk/nisr/2006/220/regulation/1), [3(6)](https://www.legislation.gov.uk/nisr/2006/220/regulation/3/6)
+[^c-48d8144c1c7ea90eb2cd6a3f182074fd]: Modification: S. 19 applied (N.I.) (30.6.2006) by [Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) Regulations (Northern Ireland) 2006 (S.R. 2006/220)](https://www.legislation.gov.uk/nisr/2006/220), [regs. 1](https://www.legislation.gov.uk/nisr/2006/220/regulation/1), [3(6)](https://www.legislation.gov.uk/nisr/2006/220/regulation/3/6)
 
 [^c1002312]: Textual amendment: S. 19(1)(1A)-(1D) substituted for s.19(1) by [Pesticides (Fees and Enforcement) Act 1989 (c. 27, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1989/27), [s. 2(1)(3)](https://www.legislation.gov.uk/ukpga/1989/27/section/2/1/3)
 
@@ -1564,27 +1564,27 @@ Section 16.
 
 [^c1002321]: Textual amendment: S. 21(2A) inserted by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 146(6)(b)](https://www.legislation.gov.uk/ukpga/1990/43/section/146/6/b)
 
-[^key-3e51d80fd01ef2c7fdec25b6fce876b1]: Textual amendment: Words in s. 21(2A)(a) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 16](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/16) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-3e51d80fd01ef2c7fdec25b6fce876b1]: Textual amendment: Words in s. 21(2A)(a) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 16](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/16) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-c4d98596f6a9a46e7a5ab3dfe800d956]: Modification: S. 21(5) applied (with modifications) (E.W.) (22.12.2005) by [Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) Regulations 2005 (S.I. 2005/3286)](https://www.legislation.gov.uk/uksi/2005/3286), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3286/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2005/3286/regulation/3/6)
+[^c-c4d98596f6a9a46e7a5ab3dfe800d956]: Modification: S. 21(5) applied (with modifications) (E.W.) (22.12.2005) by [Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) Regulations 2005 (S.I. 2005/3286)](https://www.legislation.gov.uk/uksi/2005/3286), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3286/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2005/3286/regulation/3/6)
 
-[^key-1843416204fbee25f41ca9745d231d25]: Modification: S. 21(5) applied (with modifications) (S.) (22.12.2005) by [Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (Scotland) Regulations 2005 (S.S.I. 2005/599)](https://www.legislation.gov.uk/ssi/2005/599), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/599/regulation/1/1), [3(6)](https://www.legislation.gov.uk/ssi/2005/599/regulation/3/6)
+[^c-1843416204fbee25f41ca9745d231d25]: Modification: S. 21(5) applied (with modifications) (S.) (22.12.2005) by [Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (Scotland) Regulations 2005 (S.S.I. 2005/599)](https://www.legislation.gov.uk/ssi/2005/599), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/599/regulation/1/1), [3(6)](https://www.legislation.gov.uk/ssi/2005/599/regulation/3/6)
 
-[^key-d00fac507b8e38ebbb581404cc803c5f]: Modification: S. 21(5) applied (N.I.) (30.6.2006) by [Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) Regulations (Northern Ireland) 2006 (S.R. 2006/220)](https://www.legislation.gov.uk/nisr/2006/220), [regs. 1](https://www.legislation.gov.uk/nisr/2006/220/regulation/1), [3(6)](https://www.legislation.gov.uk/nisr/2006/220/regulation/3/6)
+[^c-d00fac507b8e38ebbb581404cc803c5f]: Modification: S. 21(5) applied (N.I.) (30.6.2006) by [Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) Regulations (Northern Ireland) 2006 (S.R. 2006/220)](https://www.legislation.gov.uk/nisr/2006/220), [regs. 1](https://www.legislation.gov.uk/nisr/2006/220/regulation/1), [3(6)](https://www.legislation.gov.uk/nisr/2006/220/regulation/3/6)
 
-[^key-be9d93abb3faea314e0c5d39406d7d13]: Textual amendment: S. 21(8) repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(8)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/8), [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)[(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
+[^c-be9d93abb3faea314e0c5d39406d7d13]: Textual amendment: S. 21(8) repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 8 para. 2(8)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/8), [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111), [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6), [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)[(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
 
 [^c1002322]: Modification: S. 22 applied (with modifications) (1.2.2000) by [S.I. 1999/3483](https://www.legislation.gov.uk/uksi/1999/3483), [reg. 4(6)](https://www.legislation.gov.uk/uksi/1999/3483/regulation/4/6)
 
     S. 22 applied (1.2.2000) by [S.S.I. 2000/22](https://www.legislation.gov.uk/ssi/2000/22), [art. 4(5)](https://www.legislation.gov.uk/ssi/2000/22/article/4/5)
 
-[^key-40c6fbdd3945f1099b96d9c05059ada4]: Modification: S. 22 applied (with modifications) (E.W.) (22.12.2005) by [Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) Regulations 2005 (S.I. 2005/3286)](https://www.legislation.gov.uk/uksi/2005/3286), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3286/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2005/3286/regulation/3/6)
+[^c-40c6fbdd3945f1099b96d9c05059ada4]: Modification: S. 22 applied (with modifications) (E.W.) (22.12.2005) by [Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) Regulations 2005 (S.I. 2005/3286)](https://www.legislation.gov.uk/uksi/2005/3286), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3286/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2005/3286/regulation/3/6)
 
-[^key-6501be2d9474421a02049c50bed97dbc]: Modification: S. 22 applied (with modifications) (S.) (22.12.2005) by [Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (Scotland) Regulations 2005 (S.S.I. 2005/599)](https://www.legislation.gov.uk/ssi/2005/599), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/599/regulation/1/1), [3(6)](https://www.legislation.gov.uk/ssi/2005/599/regulation/3/6)
+[^c-6501be2d9474421a02049c50bed97dbc]: Modification: S. 22 applied (with modifications) (S.) (22.12.2005) by [Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (Scotland) Regulations 2005 (S.S.I. 2005/599)](https://www.legislation.gov.uk/ssi/2005/599), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/599/regulation/1/1), [3(6)](https://www.legislation.gov.uk/ssi/2005/599/regulation/3/6)
 
-[^key-771199383a235e7ac7b11e9dd52f5b5c]: Modification: S. 22 applied (N.I.) (30.6.2006) by [Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) Regulations (Northern Ireland) 2006 (S.R. 2006/220)](https://www.legislation.gov.uk/nisr/2006/220), [regs. 1](https://www.legislation.gov.uk/nisr/2006/220/regulation/1), [3(6)](https://www.legislation.gov.uk/nisr/2006/220/regulation/3/6)
+[^c-771199383a235e7ac7b11e9dd52f5b5c]: Modification: S. 22 applied (N.I.) (30.6.2006) by [Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) Regulations (Northern Ireland) 2006 (S.R. 2006/220)](https://www.legislation.gov.uk/nisr/2006/220), [regs. 1](https://www.legislation.gov.uk/nisr/2006/220/regulation/1), [3(6)](https://www.legislation.gov.uk/nisr/2006/220/regulation/3/6)
 
-[^key-a52f937dcd0dd4ec09a5eba431834f2b]: Textual amendment: Words in s. 24(1) repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23) , [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3) , [Sch. 8 para. 2(9)(a)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/9/a) , [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111) , [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6) , [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3) ); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556) , [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a) [(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
+[^c-a52f937dcd0dd4ec09a5eba431834f2b]: Textual amendment: Words in s. 24(1) repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23) , [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3) , [Sch. 8 para. 2(9)(a)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/9/a) , [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111) , [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6) , [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3) ); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556) , [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a) [(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
 
 [^c1002364]: Marginal citation: [1948 c. 45](https://www.legislation.gov.uk/ukpga/1948/45) .
 
@@ -1596,7 +1596,7 @@ Section 16.
 
 [^c1002368]: Textual amendment: Words in s. 24(1) substituted (1.1.1996) by [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21) , [ss. 314(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/2) , [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2) , [Sch. 13 para. 75](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/75) (with s. 312(1))
 
-[^key-63ef169201a5444c6cf1aaa73ea27a5a]: Textual amendment: Words in s. 24(1) repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23) , [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3) , [Sch. 8 para. 2(9)(b)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/9/b) , [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111) , [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6) , [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3) ); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556) , [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a) [(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
+[^c-63ef169201a5444c6cf1aaa73ea27a5a]: Textual amendment: Words in s. 24(1) repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23) , [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3) , [Sch. 8 para. 2(9)(b)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/9/b) , [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111) , [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6) , [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3) ); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556) , [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a) [(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
 
 [^c1002369]: Textual amendment: Words substituted by [Food Safety Act 1990 (c. 16, SIF 53:1, 2)](https://www.legislation.gov.uk/ukpga/1990/16) , [s. 59(1)](https://www.legislation.gov.uk/ukpga/1990/16/section/59/1) , [Sch. 3 para. 29(a)](https://www.legislation.gov.uk/ukpga/1990/16/schedule/3/paragraph/29/a)
 
@@ -1606,29 +1606,29 @@ Section 16.
 
 [^c1002372]: Textual amendment: S. 24: definition of “licensing authority”substituted (30.6.1999) by [S.I. 1999/1756](https://www.legislation.gov.uk/uksi/1999/1756) , [art. 2 Sch. para. 10(11)(b)](https://www.legislation.gov.uk/uksi/1999/1756/article/2/schedule/paragraph/10/11/b) (with [art. 8](https://www.legislation.gov.uk/uksi/1999/1756/article/8) ); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178)
 
-[^key-8ca275da781a9bb8f73c0ec5b6560e7a]: Textual amendment: Words in s. 24(1) repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23) , [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3) , [Sch. 8 para. 2(9)(c)(i)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/9/c/i) , [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111) , [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6) , [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3) ); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556) , [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a) [(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
+[^c-8ca275da781a9bb8f73c0ec5b6560e7a]: Textual amendment: Words in s. 24(1) repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23) , [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3) , [Sch. 8 para. 2(9)(c)(i)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/9/c/i) , [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111) , [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6) , [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3) ); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556) , [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a) [(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
 
-[^key-6a7ff47114b42101d4f4762fcbcaa6be]: Textual amendment: Words in s. 24(1) substituted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23) , [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3) , [Sch. 8 para. 2(9)(c)(ii)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/9/c/ii) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111) , [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6) , [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3) ); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556) , [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-6a7ff47114b42101d4f4762fcbcaa6be]: Textual amendment: Words in s. 24(1) substituted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23) , [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3) , [Sch. 8 para. 2(9)(c)(ii)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/9/c/ii) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111) , [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6) , [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3) ); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556) , [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
 [^c1002373]: Textual amendment: [1974 c.40](https://www.legislation.gov.uk/ukpga/1974/40) . Section 3OA(1) was inserted by the Water Act 1989, (c. 15), Schedule 23.
 
 [^c1002374]: Textual amendment: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21) .
 
-[^key-33620b284d5ae3b7548025d4bb5c1194]: Textual amendment: Words in s. 24(1) substituted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23) , [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3) , [Sch. 8 para. 2(9)(c)(iii)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/9/c/iii) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111) , [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6) , [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3) ); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556) , [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-33620b284d5ae3b7548025d4bb5c1194]: Textual amendment: Words in s. 24(1) substituted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23) , [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3) , [Sch. 8 para. 2(9)(c)(iii)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/9/c/iii) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111) , [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6) , [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3) ); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556) , [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
-[^key-71ff7d8081e7084cde374ce6979ebd9b]: Textual amendment: Words in s. 24(1) repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23) , [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3) , [Sch. 8 para. 2(9)(c)(iv)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/9/c/iv) , [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111) , [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6) , [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3) ); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556) , [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a) [(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
+[^c-71ff7d8081e7084cde374ce6979ebd9b]: Textual amendment: Words in s. 24(1) repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23) , [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3) , [Sch. 8 para. 2(9)(c)(iv)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/9/c/iv) , [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111) , [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6) , [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3) ); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556) , [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a) [(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
 
-[^key-2a9b5b92a7db3f4c5423a1e883560a72]: Textual amendment: Words in s. 24(1) inserted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23) , [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3) , [Sch. 8 para. 2(9)(d)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/9/d) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111) , [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6) , [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3) ); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556) , [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-2a9b5b92a7db3f4c5423a1e883560a72]: Textual amendment: Words in s. 24(1) inserted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23) , [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3) , [Sch. 8 para. 2(9)(d)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/9/d) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111) , [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6) , [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3) ); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556) , [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
 [^c1002375]: Textual amendment: S. 24: definition of “Scottish Zone”inserted (30.6.1999) by [S.I. 1999/1756](https://www.legislation.gov.uk/uksi/1999/1756) , [art. 2 Sch. para. 10(11)(c)](https://www.legislation.gov.uk/uksi/1999/1756/article/2/schedule/paragraph/10/11/c) (with [art. 8](https://www.legislation.gov.uk/uksi/1999/1756/article/8) ); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178)
 
 [^c1002376]: Textual amendment: Definitions of "the standard scale" and "the statutory maximum" repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50) , [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1) , [Sch. 1 Pt. XIV](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/XIV) Group 2
 
-[^key-e9723effeb7c9f2150285cc92aad1e13]: Textual amendment: Words in s. 24(1) repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23) , [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3) , [Sch. 8 para. 2(9)(e)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/9/e) , [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111) , [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6) , [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3) ); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556) , [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a) [(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
+[^c-e9723effeb7c9f2150285cc92aad1e13]: Textual amendment: Words in s. 24(1) repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23) , [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3) , [Sch. 8 para. 2(9)(e)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2/9/e) , [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) (with [ss. 111](https://www.legislation.gov.uk/ukpga/2009/23/section/111) , [323(6)](https://www.legislation.gov.uk/ukpga/2009/23/section/323/6) , [Sch. 9 Pts. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/9/part/3) ); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556) , [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a) [(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
 
-[^key-c7fb1953a09da034e36f7f9e862c5741]: Textual amendment: S. 24(2A) repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23) , [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3) , [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) ; [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556) , [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
+[^c-c7fb1953a09da034e36f7f9e862c5741]: Textual amendment: S. 24(2A) repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23) , [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3) , [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2) ; [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556) , [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
 
-[^key-cb3305e74b8006042eecaabe0a26a129]: Modification: S. 24(3) transfer of functions (23.3.2005) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849) , [art. 1](https://www.legislation.gov.uk/uksi/2005/849/article/1) , [Sch.](https://www.legislation.gov.uk/uksi/2005/849/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/849/article/6) )
+[^c-cb3305e74b8006042eecaabe0a26a129]: Modification: S. 24(3) transfer of functions (23.3.2005) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849) , [art. 1](https://www.legislation.gov.uk/uksi/2005/849/article/1) , [Sch.](https://www.legislation.gov.uk/uksi/2005/849/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/849/article/6) )
 
 [^c1002423]: Textual amendment: S. 25(2)(za) substituted (1.4.2000) by [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28), [s. 40(1)](https://www.legislation.gov.uk/ukpga/1999/28/section/40/1), [Sch. 5 para. 6(6)(a)](https://www.legislation.gov.uk/ukpga/1999/28/schedule/5/paragraph/6/6/a) (with [ss. 38](https://www.legislation.gov.uk/ukpga/1999/28/section/38), [40(2)](https://www.legislation.gov.uk/ukpga/1999/28/section/40/2)); [S.I. 2000/1066](https://www.legislation.gov.uk/uksi/2000/1066), [art. 2](https://www.legislation.gov.uk/uksi/2000/1066/article/2)
 
@@ -1642,7 +1642,7 @@ Section 16.
 
 [^c1002428]: Textual amendment: “18(3)” repealed by [Pesticides (Fees and Enforcement) Act 1989 (c. 27, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1989/27), [s. 1(3)(b)](https://www.legislation.gov.uk/ukpga/1989/27/section/1/3/b)
 
-[^key-cf717e7de6bc45ff78eb80863b0b6a10]: Textual amendment: Words in s. 25(2)(e) substituted (1.4.2008) by [Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/960/schedule/2))
+[^c-cf717e7de6bc45ff78eb80863b0b6a10]: Textual amendment: Words in s. 25(2)(e) substituted (1.4.2008) by [Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/960/schedule/2))
 
 [^c1002429]: Textual amendment: S. 25(2A) inserted (9.9.1998) by [1998 c. 26](https://www.legislation.gov.uk/ukpga/1998/26), [ss. 1(1)(5)](https://www.legislation.gov.uk/ukpga/1998/26/section/1/1/5), [3(b)](https://www.legislation.gov.uk/ukpga/1998/26/section/3/b)
 
@@ -1650,9 +1650,9 @@ Section 16.
 
 [^c1002431]: Marginal citation: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
-[^key-ddfb1cdf5175652adc4f8fb6de8d9309]: Textual amendment: S. 25(3) repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
+[^c-ddfb1cdf5175652adc4f8fb6de8d9309]: Textual amendment: S. 25(3) repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
 
-[^key-0ff19da9cd3947bf9ec6928904f61863]: Textual amendment: Words in [s. 25(4)](https://www.legislation.gov.uk/ukpga/1985/48/section/25/4) repealed (27.3.2015) by [The Public Bodies (Abolition of the Advisory Committees on Pesticides) Order 2015 (S.I. 2015/978)](https://www.legislation.gov.uk/uksi/2015/978), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/978/article/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2015/978/schedule/part/1)
+[^c-0ff19da9cd3947bf9ec6928904f61863]: Textual amendment: Words in [s. 25(4)](https://www.legislation.gov.uk/ukpga/1985/48/section/25/4) repealed (27.3.2015) by [The Public Bodies (Abolition of the Advisory Committees on Pesticides) Order 2015 (S.I. 2015/978)](https://www.legislation.gov.uk/uksi/2015/978), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/978/article/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2015/978/schedule/part/1)
 
 [^c1002433]: Textual amendment: S. 25(4A) inserted by [Food Safety Act 1990 (c. 16, SIF 53:1, 2)](https://www.legislation.gov.uk/ukpga/1990/16), [ss. 54](https://www.legislation.gov.uk/ukpga/1990/16/section/54), [59(1)](https://www.legislation.gov.uk/ukpga/1990/16/section/59/1), [Sch. 3 para. 30](https://www.legislation.gov.uk/ukpga/1990/16/schedule/3/paragraph/30)
 
@@ -1662,9 +1662,9 @@ Section 16.
 
 [^c1002436]: Marginal citation: [1973 c. 36](https://www.legislation.gov.uk/ukpga/1973/36).
 
-[^key-ef9c3ce05ed43a70f68f89110fd8c682]: Textual amendment: [S. 26](https://www.legislation.gov.uk/ukpga/1985/48/section/26) repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
+[^c-ef9c3ce05ed43a70f68f89110fd8c682]: Textual amendment: [S. 26](https://www.legislation.gov.uk/ukpga/1985/48/section/26) repealed (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/2); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/d)
 
-[^key-4dfaa5385056f78472bd7e4e1f80c77f]: Textual amendment: [S. 27](https://www.legislation.gov.uk/ukpga/1985/48/section/27) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-4dfaa5385056f78472bd7e4e1f80c77f]: Textual amendment: [S. 27](https://www.legislation.gov.uk/ukpga/1985/48/section/27) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c1002438]: Textual amendment: Words in [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/1985/48/schedule/1/paragraph/3) repealed (30.6.1999) by [S.I. 1999/1756](https://www.legislation.gov.uk/uksi/1999/1756), [art. 2 Sch. para. 10(12)](https://www.legislation.gov.uk/uksi/1999/1756/article/2/schedule/paragraph/10/12) (with [art. 8](https://www.legislation.gov.uk/uksi/1999/1756/article/8)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178)
 
@@ -1672,37 +1672,37 @@ Section 16.
 
 [^c1002441]: Modification: Sch. 2 applied (E.W.) (with modifications) (1.2.2000) by [S.I. 1999/3483](https://www.legislation.gov.uk/uksi/1999/3483), [reg. 4(6) Sch. 2](https://www.legislation.gov.uk/uksi/1999/3483/regulation/4/6/schedule/2) applied (1.2.2000) by [S.S.I. 2000/22](https://www.legislation.gov.uk/ssi/2000/22), [art. 4(5)](https://www.legislation.gov.uk/ssi/2000/22/article/4/5)
 
-[^key-9ae694bad49c8cd293f86990db54d63e]: Modification: Sch. 2 applied (with modifications) (S.) (22.12.2005) by [Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (Scotland) Regulations 2005 (S.S.I. 2005/599)](https://www.legislation.gov.uk/ssi/2005/599), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/599/regulation/1/1), [3(6)](https://www.legislation.gov.uk/ssi/2005/599/regulation/3/6)
+[^c-9ae694bad49c8cd293f86990db54d63e]: Modification: Sch. 2 applied (with modifications) (S.) (22.12.2005) by [Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (Scotland) Regulations 2005 (S.S.I. 2005/599)](https://www.legislation.gov.uk/ssi/2005/599), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/599/regulation/1/1), [3(6)](https://www.legislation.gov.uk/ssi/2005/599/regulation/3/6)
 
-[^key-0a288b36e35d631225755ff05b3f8433]: Modification: Sch. 2 applied (with modifications) (E.W.) (22.12.2005) by [Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) Regulations 2005 (S.I. 2005/3286)](https://www.legislation.gov.uk/uksi/2005/3286), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3286/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2005/3286/regulation/3/6)
+[^c-0a288b36e35d631225755ff05b3f8433]: Modification: Sch. 2 applied (with modifications) (E.W.) (22.12.2005) by [Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) Regulations 2005 (S.I. 2005/3286)](https://www.legislation.gov.uk/uksi/2005/3286), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3286/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2005/3286/regulation/3/6)
 
-[^key-7515f970e8961a396267e81d0854dc41]: Modification: Sch. 2 applied (30.6.2006) by [Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) Regulations (Northern Ireland) 2006 (S.R. 2006/220)](https://www.legislation.gov.uk/nisr/2006/220), [regs. 1](https://www.legislation.gov.uk/nisr/2006/220/regulation/1), [3(6)](https://www.legislation.gov.uk/nisr/2006/220/regulation/3/6)
+[^c-7515f970e8961a396267e81d0854dc41]: Modification: Sch. 2 applied (30.6.2006) by [Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) Regulations (Northern Ireland) 2006 (S.R. 2006/220)](https://www.legislation.gov.uk/nisr/2006/220), [regs. 1](https://www.legislation.gov.uk/nisr/2006/220/regulation/1), [3(6)](https://www.legislation.gov.uk/nisr/2006/220/regulation/3/6)
 
-[^key-1b1efdf4ca68f5f2a85844dcb517eb3a]: Modification: Sch. 2 applied (E.W.) (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 44(4)](https://www.legislation.gov.uk/ukpga/2006/16/section/44/4), [107(3)(b)](https://www.legislation.gov.uk/ukpga/2006/16/section/107/3/b); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-1b1efdf4ca68f5f2a85844dcb517eb3a]: Modification: Sch. 2 applied (E.W.) (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 44(4)](https://www.legislation.gov.uk/ukpga/2006/16/section/44/4), [107(3)(b)](https://www.legislation.gov.uk/ukpga/2006/16/section/107/3/b); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
 [^c1002442]: Modification: [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/ukpga/1985/48/schedule/2/paragraph/1/c) applied (with modifications) (E.W.S.) (17.4.1995) by [S.I. 1995/887](https://www.legislation.gov.uk/uksi/1995/887), [reg. 24(1)](https://www.legislation.gov.uk/uksi/1995/887/regulation/24/1)
 
-[^key-73c5aba276ebbf96e61a291e03656610]: Modification: [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/ukpga/1985/48/schedule/2/paragraph/1/c) applied (with modifications) (E.W.) (31.12.2003) by [Plant Protection Products Regulations 2003 (S.I. 2003/3241)](https://www.legislation.gov.uk/uksi/2003/3241), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3241/regulation/1), [24(1)](https://www.legislation.gov.uk/uksi/2003/3241/regulation/24/1)
+[^c-73c5aba276ebbf96e61a291e03656610]: Modification: [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/ukpga/1985/48/schedule/2/paragraph/1/c) applied (with modifications) (E.W.) (31.12.2003) by [Plant Protection Products Regulations 2003 (S.I. 2003/3241)](https://www.legislation.gov.uk/uksi/2003/3241), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3241/regulation/1), [24(1)](https://www.legislation.gov.uk/uksi/2003/3241/regulation/24/1)
 
-[^key-686cceeaddfdb400949add28fadbe7c6]: Modification: [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/ukpga/1985/48/schedule/2/paragraph/1/c) applied (with modifications) (S.) (31.12.2003) by [Plant Protection Products (Scotland) Regulations 2003 (S.S.I. 2003/579)](https://www.legislation.gov.uk/ssi/2003/579), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/579/regulation/1/1), [24](https://www.legislation.gov.uk/ssi/2003/579/regulation/24)
+[^c-686cceeaddfdb400949add28fadbe7c6]: Modification: [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/ukpga/1985/48/schedule/2/paragraph/1/c) applied (with modifications) (S.) (31.12.2003) by [Plant Protection Products (Scotland) Regulations 2003 (S.S.I. 2003/579)](https://www.legislation.gov.uk/ssi/2003/579), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/579/regulation/1/1), [24](https://www.legislation.gov.uk/ssi/2003/579/regulation/24)
 
-[^key-81da3f452ec41252b360e108daf5dc5e]: Modification: [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/ukpga/1985/48/schedule/2/paragraph/1/c) applied (with modifications) (S.) (1.7.2005) by [Plant Protection Products (Scotland) Regulations 2005 (S.S.I. 2005/331)](https://www.legislation.gov.uk/ssi/2005/331), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/331/regulation/1/1), [24](https://www.legislation.gov.uk/ssi/2005/331/regulation/24) (with [Sch. 4](https://www.legislation.gov.uk/ssi/2005/331/schedule/4))
+[^c-81da3f452ec41252b360e108daf5dc5e]: Modification: [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/ukpga/1985/48/schedule/2/paragraph/1/c) applied (with modifications) (S.) (1.7.2005) by [Plant Protection Products (Scotland) Regulations 2005 (S.S.I. 2005/331)](https://www.legislation.gov.uk/ssi/2005/331), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/331/regulation/1/1), [24](https://www.legislation.gov.uk/ssi/2005/331/regulation/24) (with [Sch. 4](https://www.legislation.gov.uk/ssi/2005/331/schedule/4))
 
-[^key-7fa184ffdd67966301ecf4da19eae924]: Modification: [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/ukpga/1985/48/schedule/2/paragraph/1/c) applied (with modifications) (E.W.) (1.7.2005) by [Plant Protection Products Regulations 2005 (S.I. 2005/1435)](https://www.legislation.gov.uk/uksi/2005/1435), [art. 1](https://www.legislation.gov.uk/uksi/2005/1435/article/1)[reg. 24](https://www.legislation.gov.uk/uksi/2005/1435/regulation/24)
+[^c-7fa184ffdd67966301ecf4da19eae924]: Modification: [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/ukpga/1985/48/schedule/2/paragraph/1/c) applied (with modifications) (E.W.) (1.7.2005) by [Plant Protection Products Regulations 2005 (S.I. 2005/1435)](https://www.legislation.gov.uk/uksi/2005/1435), [art. 1](https://www.legislation.gov.uk/uksi/2005/1435/article/1)[reg. 24](https://www.legislation.gov.uk/uksi/2005/1435/regulation/24)
 
 [^c1002443]: Modification: Sch. 2 para. 2 applied (with modifications) (E.W.S.) (17.4.1995) by [S.I. 1995/887](https://www.legislation.gov.uk/uksi/1995/887), [reg. 24(1)](https://www.legislation.gov.uk/uksi/1995/887/regulation/24/1)
 
-[^key-35fe7e491c6fc6d9fe94823512ee0c60]: Modification: Sch. 2 para. 2 applied (with modifications) (S.) (31.12.2003) by [Plant Protection Products (Scotland) Regulations 2003 (S.S.I. 2003/579)](https://www.legislation.gov.uk/ssi/2003/579), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/579/regulation/1/1), [24](https://www.legislation.gov.uk/ssi/2003/579/regulation/24)
+[^c-35fe7e491c6fc6d9fe94823512ee0c60]: Modification: Sch. 2 para. 2 applied (with modifications) (S.) (31.12.2003) by [Plant Protection Products (Scotland) Regulations 2003 (S.S.I. 2003/579)](https://www.legislation.gov.uk/ssi/2003/579), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/579/regulation/1/1), [24](https://www.legislation.gov.uk/ssi/2003/579/regulation/24)
 
-[^key-a94340874f8cafb4f197a742e3969b58]: Modification: Sch. 2 para. 2 applied (with modifications) (E.W.) (31.12.2003) by [Plant Protection Products Regulations 2003 (S.I. 2003/3241)](https://www.legislation.gov.uk/uksi/2003/3241), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3241/regulation/1), [24(1)](https://www.legislation.gov.uk/uksi/2003/3241/regulation/24/1)
+[^c-a94340874f8cafb4f197a742e3969b58]: Modification: Sch. 2 para. 2 applied (with modifications) (E.W.) (31.12.2003) by [Plant Protection Products Regulations 2003 (S.I. 2003/3241)](https://www.legislation.gov.uk/uksi/2003/3241), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3241/regulation/1), [24(1)](https://www.legislation.gov.uk/uksi/2003/3241/regulation/24/1)
 
-[^key-d58b259fc455a897340f10e371d302cf]: Modification: Sch. 2 para. 2 applied (with modifications) (E.W.) (1.7.2005) by [Plant Protection Products Regulations 2005 (S.I. 2005/1435)](https://www.legislation.gov.uk/uksi/2005/1435), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1435/article/1), [24](https://www.legislation.gov.uk/uksi/2005/1435/regulation/24)
+[^c-d58b259fc455a897340f10e371d302cf]: Modification: Sch. 2 para. 2 applied (with modifications) (E.W.) (1.7.2005) by [Plant Protection Products Regulations 2005 (S.I. 2005/1435)](https://www.legislation.gov.uk/uksi/2005/1435), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1435/article/1), [24](https://www.legislation.gov.uk/uksi/2005/1435/regulation/24)
 
-[^key-759206cb7313691c7ab868114f7c1c93]: Modification: Sch. 2 para. 2 applied (with modifications) (S.) (1.7.2005) by [Plant Protection Products (Scotland) Regulations 2005 (S.S.I. 2005/331)](https://www.legislation.gov.uk/ssi/2005/331), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/331/regulation/1/1), [24](https://www.legislation.gov.uk/ssi/2005/331/regulation/24) (with [Sch. 4](https://www.legislation.gov.uk/ssi/2005/331/schedule/4))
+[^c-759206cb7313691c7ab868114f7c1c93]: Modification: Sch. 2 para. 2 applied (with modifications) (S.) (1.7.2005) by [Plant Protection Products (Scotland) Regulations 2005 (S.S.I. 2005/331)](https://www.legislation.gov.uk/ssi/2005/331), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/331/regulation/1/1), [24](https://www.legislation.gov.uk/ssi/2005/331/regulation/24) (with [Sch. 4](https://www.legislation.gov.uk/ssi/2005/331/schedule/4))
 
 [^c1002444]: Textual amendment: Sch. 2 para. 2A inserted (9.9.1998) by [1998 c. 26](https://www.legislation.gov.uk/ukpga/1998/26), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/1998/26/section/2/2), [3(b)](https://www.legislation.gov.uk/ukpga/1998/26/section/3/b)
 
-[^key-c1b1b54e1376b6e034f9bd13cfeadc94]: Textual amendment: Words in [Sch. 2 para. 2A(4)](https://www.legislation.gov.uk/ukpga/1985/48/schedule/2/paragraph/2A/4) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 109](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/109); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)
+[^c-c1b1b54e1376b6e034f9bd13cfeadc94]: Textual amendment: Words in [Sch. 2 para. 2A(4)](https://www.legislation.gov.uk/ukpga/1985/48/schedule/2/paragraph/2A/4) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 109](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/109); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)
 
 [^c1002445]: Modification: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/1985/48/schedule/2/paragraph/3) extended (with modifications) (22.8.1997) by [S.I. 1997/1770](https://www.legislation.gov.uk/uksi/1997/1770), [art. 5](https://www.legislation.gov.uk/uksi/1997/1770/article/5)
 
@@ -1712,13 +1712,13 @@ Section 16.
 
 [^c1002449]: Modification: Sch. 2 para. 4 applied (with modifications) (E.W.S.) (17.4.1995) by [S.I. 1995/887](https://www.legislation.gov.uk/uksi/1995/887), [reg. 24(1)](https://www.legislation.gov.uk/uksi/1995/887/regulation/24/1)
 
-[^key-7722b95387eec9e2ef50baaa2310fe42]: Modification: Sch. 2 paras. 4-9 applied (with modifications) (E.W.) (31.12.2003) by [Plant Protection Products Regulations 2003 (S.I. 2003/3241)](https://www.legislation.gov.uk/uksi/2003/3241), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3241/regulation/1), [24(1)](https://www.legislation.gov.uk/uksi/2003/3241/regulation/24/1)
+[^c-7722b95387eec9e2ef50baaa2310fe42]: Modification: Sch. 2 paras. 4-9 applied (with modifications) (E.W.) (31.12.2003) by [Plant Protection Products Regulations 2003 (S.I. 2003/3241)](https://www.legislation.gov.uk/uksi/2003/3241), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3241/regulation/1), [24(1)](https://www.legislation.gov.uk/uksi/2003/3241/regulation/24/1)
 
-[^key-7d246c6c123c4744d9017e7e1ff192e5]: Modification: Sch. 2 paras. 4-9 applied (with modifications) (S.) (31.12.2003) by [Plant Protection Products (Scotland) Regulations 2003 (S.S.I. 2003/579)](https://www.legislation.gov.uk/ssi/2003/579), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/579/regulation/1/1), [24](https://www.legislation.gov.uk/ssi/2003/579/regulation/24)
+[^c-7d246c6c123c4744d9017e7e1ff192e5]: Modification: Sch. 2 paras. 4-9 applied (with modifications) (S.) (31.12.2003) by [Plant Protection Products (Scotland) Regulations 2003 (S.S.I. 2003/579)](https://www.legislation.gov.uk/ssi/2003/579), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/579/regulation/1/1), [24](https://www.legislation.gov.uk/ssi/2003/579/regulation/24)
 
-[^key-505fc3b428ad6f6f9fec7fe3b35671fc]: Modification: Sch. 2 paras. 4-9 applied (with modifications) (E.W.) (1.7.2005) by [Plant Protection Products Regulations 2005 (S.I. 2005/1435)](https://www.legislation.gov.uk/uksi/2005/1435), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1435/article/1), [24](https://www.legislation.gov.uk/uksi/2005/1435/regulation/24)
+[^c-505fc3b428ad6f6f9fec7fe3b35671fc]: Modification: Sch. 2 paras. 4-9 applied (with modifications) (E.W.) (1.7.2005) by [Plant Protection Products Regulations 2005 (S.I. 2005/1435)](https://www.legislation.gov.uk/uksi/2005/1435), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1435/article/1), [24](https://www.legislation.gov.uk/uksi/2005/1435/regulation/24)
 
-[^key-0dd8136c49c86c8adbccca61b93d3a48]: Modification: Sch. 2 paras. 4-9 applied (with modifications) (S.) (1.7.2005) by [Plant Protection Products (Scotland) Regulations 2005 (S.S.I. 2005/331)](https://www.legislation.gov.uk/ssi/2005/331), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/331/regulation/1/1), [24](https://www.legislation.gov.uk/ssi/2005/331/regulation/24) (with [Sch. 4](https://www.legislation.gov.uk/ssi/2005/331/schedule/4))
+[^c-0dd8136c49c86c8adbccca61b93d3a48]: Modification: Sch. 2 paras. 4-9 applied (with modifications) (S.) (1.7.2005) by [Plant Protection Products (Scotland) Regulations 2005 (S.S.I. 2005/331)](https://www.legislation.gov.uk/ssi/2005/331), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/331/regulation/1/1), [24](https://www.legislation.gov.uk/ssi/2005/331/regulation/24) (with [Sch. 4](https://www.legislation.gov.uk/ssi/2005/331/schedule/4))
 
 [^c1002450]: Textual amendment: S. 4 renumbered as s. 4(1) (9.9.1998) by [1998 c. 26](https://www.legislation.gov.uk/ukpga/1998/26), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/1998/26/section/2/3), [3(b)](https://www.legislation.gov.uk/ukpga/1998/26/section/3/b)
 
@@ -1740,12 +1740,12 @@ Section 16.
 
 [^c1002459]: Modification: Sch. 3 amended (1.7.1999) by 1999/1750, art. 4, Sch. 3 (with art. 7); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178)
 
-[^key-ba3e08356f1d3adf609aef8ad25a0bea]: Modification: Sch. 3 para. 1 excluded (1.3.2010 for E.W.) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 149(5)](https://www.legislation.gov.uk/ukpga/2008/29/section/149/5), [241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(e)](https://www.legislation.gov.uk/uksi/2010/101/article/4/e) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-ba3e08356f1d3adf609aef8ad25a0bea]: Modification: Sch. 3 para. 1 excluded (1.3.2010 for E.W.) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 149(5)](https://www.legislation.gov.uk/ukpga/2008/29/section/149/5), [241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(e)](https://www.legislation.gov.uk/uksi/2010/101/article/4/e) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-4b5e5706c8c111c091a1608f510e1e9b]: Modification: Sch. 3 para. 2 excluded (1.3.2010 for E.W.) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 149(5)](https://www.legislation.gov.uk/ukpga/2008/29/section/149/5), [241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(e)](https://www.legislation.gov.uk/uksi/2010/101/article/4/e) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-4b5e5706c8c111c091a1608f510e1e9b]: Modification: Sch. 3 para. 2 excluded (1.3.2010 for E.W.) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 149(5)](https://www.legislation.gov.uk/ukpga/2008/29/section/149/5), [241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(e)](https://www.legislation.gov.uk/uksi/2010/101/article/4/e) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-45b3b2a812dbc24127c14996c7028e96]: Modification: Sch. 3 paras. 5-17 continued (S.) (6.4.2011) by [The Marine (Scotland) Act 2010 (Transitional and Consequential Provisions) Order 2011 (S.S.I. 2011/202)](https://www.legislation.gov.uk/ssi/2011/202), [arts. 1](https://www.legislation.gov.uk/ssi/2011/202/article/1), [6](https://www.legislation.gov.uk/ssi/2011/202/article/6)
+[^c-45b3b2a812dbc24127c14996c7028e96]: Modification: Sch. 3 paras. 5-17 continued (S.) (6.4.2011) by [The Marine (Scotland) Act 2010 (Transitional and Consequential Provisions) Order 2011 (S.S.I. 2011/202)](https://www.legislation.gov.uk/ssi/2011/202), [arts. 1](https://www.legislation.gov.uk/ssi/2011/202/article/1), [6](https://www.legislation.gov.uk/ssi/2011/202/article/6)
 
 [^c1002460]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ukpga/1985/48/schedule/4) repealed (*prosp.*) by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [ss. 162](https://www.legislation.gov.uk/ukpga/1990/43/section/162), [164(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/164/3), [Sch. 16 Pt. VIII](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/VIII)
 
-[^key-968a189afa2ac84afa12225440cddc9a]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/ukpga/1985/48/schedule/5) repealed (27.3.2015) by [The Public Bodies (Abolition of the Advisory Committees on Pesticides) Order 2015 (S.I. 2015/978)](https://www.legislation.gov.uk/uksi/2015/978), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/978/article/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2015/978/schedule/part/1)
+[^c-968a189afa2ac84afa12225440cddc9a]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/ukpga/1985/48/schedule/5) repealed (27.3.2015) by [The Public Bodies (Abolition of the Advisory Committees on Pesticides) Order 2015 (S.I. 2015/978)](https://www.legislation.gov.uk/uksi/2015/978), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/978/article/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2015/978/schedule/part/1)

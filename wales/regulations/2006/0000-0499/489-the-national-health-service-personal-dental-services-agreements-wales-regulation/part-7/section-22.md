@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Commencement of agreement[^key-4d12ca743097d55020710879d23e9b1c]
+## 22. Commencement of agreement[^c-4d12ca743097d55020710879d23e9b1c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The agreement will provide for services to be provided under it from any date af
 
 ## Annotations
 
-[^key-4d12ca743097d55020710879d23e9b1c]: Commencement: Reg. 22 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-4d12ca743097d55020710879d23e9b1c]: Commencement: Reg. 22 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)

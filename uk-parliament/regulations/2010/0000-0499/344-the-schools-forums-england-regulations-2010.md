@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The Schools Forums (England) Regulations 2010 (revoked)[^key-758ab75483288667b56a3edcb78fa138]
+The Schools Forums (England) Regulations 2010 (revoked)[^c-758ab75483288667b56a3edcb78fa138]
 
 Made
 
@@ -46,68 +46,68 @@ Coming into force
 
 1st April 2010
 
-[^key-758ab75483288667b56a3edcb78fa138]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-758ab75483288667b56a3edcb78fa138]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-758ab75483288667b56a3edcb78fa138]
+## 1. Citation, commencement, application and interpretation[^c-758ab75483288667b56a3edcb78fa138]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocations[^key-758ab75483288667b56a3edcb78fa138]
+## 2. Revocations[^c-758ab75483288667b56a3edcb78fa138]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Constitution of schools forum[^key-758ab75483288667b56a3edcb78fa138]
+## 3. Constitution of schools forum[^c-758ab75483288667b56a3edcb78fa138]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Membership: general[^key-758ab75483288667b56a3edcb78fa138]
+## 4. Membership: general[^c-758ab75483288667b56a3edcb78fa138]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Schools members[^key-758ab75483288667b56a3edcb78fa138]
+## 5. Schools members[^c-758ab75483288667b56a3edcb78fa138]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Academies members[^key-758ab75483288667b56a3edcb78fa138]
+## 6. Academies members[^c-758ab75483288667b56a3edcb78fa138]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Non-schools members[^key-758ab75483288667b56a3edcb78fa138]
+## 7. Non-schools members[^c-758ab75483288667b56a3edcb78fa138]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Meetings and proceedings of schools forum[^key-758ab75483288667b56a3edcb78fa138]
+## 8. Meetings and proceedings of schools forum[^c-758ab75483288667b56a3edcb78fa138]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Consultation on contracts[^key-758ab75483288667b56a3edcb78fa138]
+## 9. Consultation on contracts[^c-758ab75483288667b56a3edcb78fa138]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Consultation on financial issues[^key-758ab75483288667b56a3edcb78fa138]
+## 10. Consultation on financial issues[^c-758ab75483288667b56a3edcb78fa138]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Information about consultations[^key-758ab75483288667b56a3edcb78fa138]
+## 11. Information about consultations[^c-758ab75483288667b56a3edcb78fa138]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Charging of schools forum’s expenses[^key-758ab75483288667b56a3edcb78fa138]
+## 12. Charging of schools forum’s expenses[^c-758ab75483288667b56a3edcb78fa138]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Members’ expenses[^key-758ab75483288667b56a3edcb78fa138]
+## 13. Members’ expenses[^c-758ab75483288667b56a3edcb78fa138]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-758ab75483288667b56a3edcb78fa138]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-758ab75483288667b56a3edcb78fa138]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-758ab75483288667b56a3edcb78fa138]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-758ab75483288667b56a3edcb78fa138]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-758ab75483288667b56a3edcb78fa138]: Textual amendment: Regulations revoked (1.10.2012) by [The Schools Forums (England) Regulations 2012 (S.I. 2012/2261)](https://www.legislation.gov.uk/uksi/2012/2261), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2261/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2012/2261/regulation/2)
+[^c-758ab75483288667b56a3edcb78fa138]: Textual amendment: Regulations revoked (1.10.2012) by [The Schools Forums (England) Regulations 2012 (S.I. 2012/2261)](https://www.legislation.gov.uk/uksi/2012/2261), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2261/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2012/2261/regulation/2)

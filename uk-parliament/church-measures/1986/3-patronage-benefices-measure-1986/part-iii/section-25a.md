@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25A. Exercise of patronage where registered patron disqualified[^key-2760ad3fdbc1beb1471de27239a48ee1]
+## 25A. Exercise of patronage where registered patron disqualified[^c-2760ad3fdbc1beb1471de27239a48ee1]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2760ad3fdbc1beb1471de27239a48ee1]: Textual amendment: [S. 25A](https://www.legislation.gov.uk/ukcm/1986/3/section/25A) inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 8](https://www.legislation.gov.uk/ukcm/2024/1/section/8), [22(2)(f)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/f)
+[^c-2760ad3fdbc1beb1471de27239a48ee1]: Textual amendment: [S. 25A](https://www.legislation.gov.uk/ukcm/1986/3/section/25A) inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 8](https://www.legislation.gov.uk/ukcm/2024/1/section/8), [22(2)(f)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/f)

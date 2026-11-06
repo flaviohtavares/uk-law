@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Amendment of regulation C2[^key-702137a66a46fdfc7f64c07385ec5b46]
+## 4. Amendment of regulation C2[^c-702137a66a46fdfc7f64c07385ec5b46]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In regulation C2 (meaning of “pensionable service”), in paragraph (5), for �
 
 ## Annotations
 
-[^key-702137a66a46fdfc7f64c07385ec5b46]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/364/regulation/4) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-702137a66a46fdfc7f64c07385ec5b46]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/364/regulation/4) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

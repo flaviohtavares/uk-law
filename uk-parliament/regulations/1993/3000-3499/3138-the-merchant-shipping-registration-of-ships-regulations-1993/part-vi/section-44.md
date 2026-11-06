@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Form of bill of sale[^key-d44311a7a28dc204f624bc6016b3541e]
+## 44. Form of bill of sale[^c-d44311a7a28dc204f624bc6016b3541e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Every bill of sale effecting a transfer of a registered ship or a share in a shi
 
 ## Annotations
 
-[^key-d44311a7a28dc204f624bc6016b3541e]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/1993/3138/regulation/44) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-d44311a7a28dc204f624bc6016b3541e]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/1993/3138/regulation/44) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

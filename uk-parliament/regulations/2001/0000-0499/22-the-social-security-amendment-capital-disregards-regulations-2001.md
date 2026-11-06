@@ -50,8 +50,8 @@ There shall be added as—
 
 - (a) paragraph 61 of Schedule 10 to the Income Support (General) Regulations 1987 [^c1559235] (capital to be disregarded);
 - (b) paragraph 56 of Schedule 8 to the Jobseeker’s Allowance Regulations 1996 [^c1559236];
-- (c) paragraph 64 of Schedule 5 to the Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^key-9130e4cb64c3befd96c15733f23fda8f][^c1559237];
-- (d) paragraph 64 of Schedule 5 to the Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^key-9130e4cb64c3befd96c15733f23fda8f][^c1559238],
+- (c) paragraph 64 of Schedule 5 to the Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^c-9130e4cb64c3befd96c15733f23fda8f][^c1559237];
+- (d) paragraph 64 of Schedule 5 to the Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^c-9130e4cb64c3befd96c15733f23fda8f][^c1559238],
 
 the following paragraph—
 
@@ -96,7 +96,7 @@ These Regulations do not impose a charge on business.
 
 [^c1559236]: Marginal citation: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207); paragraph 55 was added by [S.I. 2000/637](https://www.legislation.gov.uk/uksi/2000/637).
 
-[^key-9130e4cb64c3befd96c15733f23fda8f]: Textual amendment: [Reg. 2(c)(d)](https://www.legislation.gov.uk/uksi/2001/22/regulation/2/c/d) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-9130e4cb64c3befd96c15733f23fda8f]: Textual amendment: [Reg. 2(c)(d)](https://www.legislation.gov.uk/uksi/2001/22/regulation/2/c/d) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1559237]: Marginal citation: [S.I. 1992/1814](https://www.legislation.gov.uk/uksi/1992/1814); paragraph 62 was added by [S.I. 2000/724](https://www.legislation.gov.uk/uksi/2000/724).
 

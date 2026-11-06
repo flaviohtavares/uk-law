@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Information about union membership and employment in bargaining unit[^key-eba556bbc1747ee9051ca692b81bac98]
+## 19. Information about union membership and employment in bargaining unit[^c-eba556bbc1747ee9051ca692b81bac98]
 
 *Extent: E+W+S*
 
@@ -57,4 +57,4 @@ After paragraph 170 of Schedule A1 to the 1992 Act insert—
 
 ## Annotations
 
-[^key-eba556bbc1747ee9051ca692b81bac98]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2004/24/section/19) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule)
+[^c-eba556bbc1747ee9051ca692b81bac98]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2004/24/section/19) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule)

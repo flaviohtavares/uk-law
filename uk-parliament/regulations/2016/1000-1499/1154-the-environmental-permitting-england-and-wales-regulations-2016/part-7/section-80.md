@@ -33,10 +33,10 @@ summary: ''
 - (d) the End-of-Life Vehicles Directive,
 - (e) the Energy Efficiency Directive,
 - (f) the Groundwater Directive,
-- (g)[^key-ba91c2c1d16cc500adc01f82dc8e66d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-ba91c2c1d16cc500adc01f82dc8e66d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h) the Industrial Emissions Directive,
 - (i) the Landfill Directive,
-- (ai)[^key-1547e703369e1ae102487224f3c99aeb] the Medium Combustion Plant Directive,
+- (ai)[^c-1547e703369e1ae102487224f3c99aeb] the Medium Combustion Plant Directive,
 - (j) the Mining Waste Directive,
 - (k) PVR I,
 - (l) PVR II,
@@ -59,8 +59,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ba91c2c1d16cc500adc01f82dc8e66d8]: Textual amendment: [Reg. 80(2)(g)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/80/2/g) omitted (2.5.2018) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [regs. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [5](https://www.legislation.gov.uk/uksi/2018/428/regulation/5)
+[^c-ba91c2c1d16cc500adc01f82dc8e66d8]: Textual amendment: [Reg. 80(2)(g)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/80/2/g) omitted (2.5.2018) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2018 (S.I. 2018/428)](https://www.legislation.gov.uk/uksi/2018/428), [regs. 1](https://www.legislation.gov.uk/uksi/2018/428/regulation/1), [5](https://www.legislation.gov.uk/uksi/2018/428/regulation/5)
 
-[^key-1547e703369e1ae102487224f3c99aeb]: Textual amendment: Reg. 80(2)(ai) inserted (30.1.2018) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [12](https://www.legislation.gov.uk/uksi/2018/110/regulation/12)
+[^c-1547e703369e1ae102487224f3c99aeb]: Textual amendment: Reg. 80(2)(ai) inserted (30.1.2018) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [12](https://www.legislation.gov.uk/uksi/2018/110/regulation/12)
 
 [^c23192891]: Marginal citation: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).

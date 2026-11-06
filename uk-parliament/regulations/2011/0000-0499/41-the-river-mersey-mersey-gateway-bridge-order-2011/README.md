@@ -53,7 +53,7 @@ The Secretary of State is satisfied that the provision of an alternative right o
 
 Notice of the Secretary of State’s determination was published in the London Gazette on 23rd December 2010.
 
-The Secretary of State, in exercise of the powers conferred by sections 3 and 5 of, and paragraphs 1 to 5, 7, 8, 10 to 13 and 15 to 17 of Schedule 1 to, the 1992 Act, makes the following Order—[^key-d5b7038388ccb4351a61ae2edfa5fe9e]
+The Secretary of State, in exercise of the powers conferred by sections 3 and 5 of, and paragraphs 1 to 5, 7, 8, 10 to 13 and 15 to 17 of Schedule 1 to, the 1992 Act, makes the following Order—[^c-d5b7038388ccb4351a61ae2edfa5fe9e]
 
 ## Contents
 
@@ -231,4 +231,4 @@ A copy of the works plans and the land plans and book of reference mentioned in 
 
 [^f00003]: Footnote: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
 
-[^key-d5b7038388ccb4351a61ae2edfa5fe9e]: Modification: [Order](https://www.legislation.gov.uk/uksi/2011/41) modified (1.2.2011) by 1965 c. 56, s. 8(1) (as substituted by [The River Mersey (Mersey Gateway Bridge) Order 2011 (S.I. 2011/41)](https://www.legislation.gov.uk/uksi/2011/41), [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1), [Sch. 6 para. 5](https://www.legislation.gov.uk/uksi/2011/41/schedule/6/paragraph/5) (with [art. 51](https://www.legislation.gov.uk/uksi/2011/41/article/51), [Sch. 10 paras. 68](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/68), [85](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/85)))
+[^c-d5b7038388ccb4351a61ae2edfa5fe9e]: Modification: [Order](https://www.legislation.gov.uk/uksi/2011/41) modified (1.2.2011) by 1965 c. 56, s. 8(1) (as substituted by [The River Mersey (Mersey Gateway Bridge) Order 2011 (S.I. 2011/41)](https://www.legislation.gov.uk/uksi/2011/41), [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1), [Sch. 6 para. 5](https://www.legislation.gov.uk/uksi/2011/41/schedule/6/paragraph/5) (with [art. 51](https://www.legislation.gov.uk/uksi/2011/41/article/51), [Sch. 10 paras. 68](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/68), [85](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/85)))

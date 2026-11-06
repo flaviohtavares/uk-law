@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Additional terms[^key-6859db7cab3686032d27f421adabb62d]
+## 28. Additional terms[^c-6859db7cab3686032d27f421adabb62d]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6859db7cab3686032d27f421adabb62d]: Commencement: [S. 28](https://www.legislation.gov.uk/anaw/2016/1/section/28) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-6859db7cab3686032d27f421adabb62d]: Commencement: [S. 28](https://www.legislation.gov.uk/anaw/2016/1/section/28) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Procurement and patient choice: consequential amendments etc[^key-7e403042ad67e6258bbd4c2493ede7d7][^key-8920fedbe3d3d5eca9e9c1a7ba718d11]
+## 80. Procurement and patient choice: consequential amendments etc[^c-7e403042ad67e6258bbd4c2493ede7d7][^c-8920fedbe3d3d5eca9e9c1a7ba718d11]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7e403042ad67e6258bbd4c2493ede7d7]: Commencement: S. 80 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-7e403042ad67e6258bbd4c2493ede7d7]: Commencement: S. 80 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-8920fedbe3d3d5eca9e9c1a7ba718d11]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2022/31/section/80) in force at 1.1.2024 by [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/3/c) (with [reg. 5(1)-(5)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/5/1))
+[^c-8920fedbe3d3d5eca9e9c1a7ba718d11]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2022/31/section/80) in force at 1.1.2024 by [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/3/c) (with [reg. 5(1)-(5)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/5/1))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Transitional provision: Treasury licences[^key-7deb0a0de179f9e95e5018bbb296a417]
+## 69. Transitional provision: Treasury licences[^c-7deb0a0de179f9e95e5018bbb296a417]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ is to be treated on and after the relevant date as a reference to the correspond
 
 ## Annotations
 
-[^key-7deb0a0de179f9e95e5018bbb296a417]: Commencement: Reg. 69 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
+[^c-7deb0a0de179f9e95e5018bbb296a417]: Commencement: Reg. 69 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)

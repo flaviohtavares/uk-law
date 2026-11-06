@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 145. Power to require owner to meet costs of preservation works[^key-2bd665f4d07fcc231fc3e8fdbc81f594][^key-451f3632251d4d809947701d169f8d41]
+## 145. Power to require owner to meet costs of preservation works[^c-2bd665f4d07fcc231fc3e8fdbc81f594][^c-451f3632251d4d809947701d169f8d41]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2bd665f4d07fcc231fc3e8fdbc81f594]: Commencement: S. 145 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-2bd665f4d07fcc231fc3e8fdbc81f594]: Commencement: S. 145 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-451f3632251d4d809947701d169f8d41]: Commencement: [S. 145](https://www.legislation.gov.uk/asc/2023/3/section/145) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-451f3632251d4d809947701d169f8d41]: Commencement: [S. 145](https://www.legislation.gov.uk/asc/2023/3/section/145) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Expenditure which is not to be allocated to single ship pool[^key-661b09f8253ca07c6d062cb971343de3]
+## 128. Expenditure which is not to be allocated to single ship pool[^c-661b09f8253ca07c6d062cb971343de3]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-661b09f8253ca07c6d062cb971343de3]: Modification: Pt. 2 modified (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/9/1/a)
+[^c-661b09f8253ca07c6d062cb971343de3]: Modification: Pt. 2 modified (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/9/1/a)

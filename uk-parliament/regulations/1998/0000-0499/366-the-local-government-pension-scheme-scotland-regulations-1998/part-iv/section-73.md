@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 73. Appropriate funds[^key-389ba4354a9481fe377eb323cd6f837b]
+## 73. Appropriate funds[^c-389ba4354a9481fe377eb323cd6f837b]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-389ba4354a9481fe377eb323cd6f837b]: Commencement: Reg. 73 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-389ba4354a9481fe377eb323cd6f837b]: Commencement: Reg. 73 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

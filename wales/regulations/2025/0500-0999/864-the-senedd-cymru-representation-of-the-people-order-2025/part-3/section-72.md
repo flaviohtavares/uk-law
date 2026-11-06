@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Disturbances at Senedd election meetings[^key-d7e3a0c65d799b4601229cc02a90953b]
+## 72. Disturbances at Senedd election meetings[^c-d7e3a0c65d799b4601229cc02a90953b]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7e3a0c65d799b4601229cc02a90953b]: Commencement: Art. 72 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-d7e3a0c65d799b4601229cc02a90953b]: Commencement: Art. 72 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

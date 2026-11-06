@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Service of notices[^key-e1029139b543d7409321bd6192fc9dbd]
+## 35. Service of notices[^c-e1029139b543d7409321bd6192fc9dbd]
 
 *Extent: E+W*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e1029139b543d7409321bd6192fc9dbd]: Commencement: Art. 35 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-e1029139b543d7409321bd6192fc9dbd]: Commencement: Art. 35 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
 [^f00034]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 291. Commencement of consecutive term of service detention awarded by CO[^key-a0f595dd35517a200bce7ea9a097351b][^key-c981b85a1522da92affb7bea73c21e25]
+## 291. Commencement of consecutive term of service detention awarded by CO[^c-a0f595dd35517a200bce7ea9a097351b][^c-c981b85a1522da92affb7bea73c21e25]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ the award takes effect from the end of the initial sentence.
 
 ## Annotations
 
-[^key-a0f595dd35517a200bce7ea9a097351b]: Commencement: S. 291 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-a0f595dd35517a200bce7ea9a097351b]: Commencement: S. 291 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-c981b85a1522da92affb7bea73c21e25]: Commencement: S. 291 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-c981b85a1522da92affb7bea73c21e25]: Commencement: S. 291 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

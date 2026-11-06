@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Repeal of offence of giving false information to registration officer[^key-f160ea6f2bdcc2753275f72eb8d3281b]
+## 3. Repeal of offence of giving false information to registration officer[^c-f160ea6f2bdcc2753275f72eb8d3281b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In regulation 23 omit paragraph (3)(b) and the “, or” preceding it.
 
 ## Annotations
 
-[^key-f160ea6f2bdcc2753275f72eb8d3281b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2006/2910/regulation/3) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-f160ea6f2bdcc2753275f72eb8d3281b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2006/2910/regulation/3) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)

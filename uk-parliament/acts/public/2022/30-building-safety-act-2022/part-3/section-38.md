@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Compliance and stop notices[^key-fa29a6a926d5eca892f8b4aa720a5083][^key-2430c250898991f656a55c5125fa522d][^key-6d39298198efdbcdc66e1a425b0c05c4][^key-540e120207cfcac75106214a16b07f22][^key-458827b0beba8cf25321f9b16ae7d118]
+## 38. Compliance and stop notices[^c-fa29a6a926d5eca892f8b4aa720a5083][^c-2430c250898991f656a55c5125fa522d][^c-6d39298198efdbcdc66e1a425b0c05c4][^c-540e120207cfcac75106214a16b07f22][^c-458827b0beba8cf25321f9b16ae7d118]
 
 *Extent: E+W*
 
@@ -133,12 +133,12 @@ summary: ''
 
 ## Annotations
 
-[^key-fa29a6a926d5eca892f8b4aa720a5083]: Commencement: S. 38 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(iii)(c)
+[^c-fa29a6a926d5eca892f8b4aa720a5083]: Commencement: S. 38 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(iii)(c)
 
-[^key-2430c250898991f656a55c5125fa522d]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2022/30/section/38) in force at 6.4.2023 for specified purposes except in relation to W. by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(q)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/q)
+[^c-2430c250898991f656a55c5125fa522d]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2022/30/section/38) in force at 6.4.2023 for specified purposes except in relation to W. by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(q)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/q)
 
-[^key-6d39298198efdbcdc66e1a425b0c05c4]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2022/30/section/38) in force at 5.9.2023 for specified purposes for W. by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(v)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/v)
+[^c-6d39298198efdbcdc66e1a425b0c05c4]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2022/30/section/38) in force at 5.9.2023 for specified purposes for W. by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(v)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/v)
 
-[^key-540e120207cfcac75106214a16b07f22]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2022/30/section/38) in force at 1.10.2023 in so far as not already in force except in relation to W. by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/h)
+[^c-540e120207cfcac75106214a16b07f22]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2022/30/section/38) in force at 1.10.2023 in so far as not already in force except in relation to W. by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/h)
 
-[^key-458827b0beba8cf25321f9b16ae7d118]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2022/30/section/38) in force at 1.7.2026 for W. in so far as not already in force by [S.I. 2025/1368](https://www.legislation.gov.uk/wsi/2025/1368), [reg. 2(d)](https://www.legislation.gov.uk/wsi/2025/1368/regulation/2/d)
+[^c-458827b0beba8cf25321f9b16ae7d118]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2022/30/section/38) in force at 1.7.2026 for W. in so far as not already in force by [S.I. 2025/1368](https://www.legislation.gov.uk/wsi/2025/1368), [reg. 2(d)](https://www.legislation.gov.uk/wsi/2025/1368/regulation/2/d)

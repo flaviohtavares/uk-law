@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1021. Section 1020: exceptions[^key-22f12e6b7b48e5c5d74d4d3b5a0adef8]
+## 1021. Section 1020: exceptions[^c-22f12e6b7b48e5c5d74d4d3b5a0adef8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22f12e6b7b48e5c5d74d4d3b5a0adef8]: Textual amendment: S. 1021 repealed (with effect in accordance with s. 33(6) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 33(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/33/4)
+[^c-22f12e6b7b48e5c5d74d4d3b5a0adef8]: Textual amendment: S. 1021 repealed (with effect in accordance with s. 33(6) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 33(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/33/4)

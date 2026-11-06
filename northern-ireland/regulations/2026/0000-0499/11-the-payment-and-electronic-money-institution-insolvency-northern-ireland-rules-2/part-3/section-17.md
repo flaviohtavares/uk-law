@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Notice requiring statement of affairs[^key-f09d6310bdd09c4652a0c89d518441f0]
+## 17. Notice requiring statement of affairs[^c-f09d6310bdd09c4652a0c89d518441f0]
 
 *Extent: N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f09d6310bdd09c4652a0c89d518441f0]: Commencement: [Rule 17](https://www.legislation.gov.uk/nisr/2026/11/rule/17) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-f09d6310bdd09c4652a0c89d518441f0]: Commencement: [Rule 17](https://www.legislation.gov.uk/nisr/2026/11/rule/17) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
 
 [^f00010]: Footnote: Article 199 was amended by [S.I. 2011/245](https://www.legislation.gov.uk/uksi/2011/245)

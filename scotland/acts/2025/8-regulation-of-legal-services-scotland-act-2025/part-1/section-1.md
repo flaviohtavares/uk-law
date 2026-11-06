@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Overview of the regulatory framework[^key-0f92c1fd62fffd88a8737c95faade74f][^key-d29787c99cd8d6557bcdf60d5a5715a4]
+## 1. Overview of the regulatory framework[^c-0f92c1fd62fffd88a8737c95faade74f][^c-d29787c99cd8d6557bcdf60d5a5715a4]
 
 *Extent: S*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0f92c1fd62fffd88a8737c95faade74f]: Commencement: S. 1 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-0f92c1fd62fffd88a8737c95faade74f]: Commencement: S. 1 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-d29787c99cd8d6557bcdf60d5a5715a4]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2025/8/section/1) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-d29787c99cd8d6557bcdf60d5a5715a4]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2025/8/section/1) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

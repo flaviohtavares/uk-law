@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Application of Part[^key-2133d2762ae0e348371b610d3a515311]
+## 40. Application of Part[^c-2133d2762ae0e348371b610d3a515311]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ This Part applies in relation to any licence or contract (whenever made) under w
 
 ## Annotations
 
-[^key-2133d2762ae0e348371b610d3a515311]: Commencement: [S. 40](https://www.legislation.gov.uk/anaw/2013/6/section/40) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/c) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-2133d2762ae0e348371b610d3a515311]: Commencement: [S. 40](https://www.legislation.gov.uk/anaw/2013/6/section/40) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/c) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

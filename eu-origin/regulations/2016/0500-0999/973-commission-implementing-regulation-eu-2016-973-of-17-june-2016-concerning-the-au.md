@@ -36,18 +36,18 @@ concerning the authorisation of zinc bislysinate as a feed additive for all anim
 
 (Text with EEA relevance) (revoked)
 
-[^key-a59104ea99eebc89f6a5d60585fb1419]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a59104ea99eebc89f6a5d60585fb1419]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-a59104ea99eebc89f6a5d60585fb1419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a59104ea99eebc89f6a5d60585fb1419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a59104ea99eebc89f6a5d60585fb1419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a59104ea99eebc89f6a5d60585fb1419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a59104ea99eebc89f6a5d60585fb1419]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a59104ea99eebc89f6a5d60585fb1419]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-a59104ea99eebc89f6a5d60585fb1419]
+## ANNEX[^c-a59104ea99eebc89f6a5d60585fb1419]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a59104ea99eebc89f6a5d60585fb1419]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 202](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/202) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-a59104ea99eebc89f6a5d60585fb1419]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 202](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/202) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

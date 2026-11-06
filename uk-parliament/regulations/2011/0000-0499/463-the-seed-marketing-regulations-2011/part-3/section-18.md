@@ -41,8 +41,8 @@ Permitted mixtures
 </tbody>
 </table>
 
-[^key-bc1e24920cb4c834cda1835ee276d7f1]
+[^c-bc1e24920cb4c834cda1835ee276d7f1]
 
 ## Annotations
 
-[^key-bc1e24920cb4c834cda1835ee276d7f1]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/uksi/2011/463/regulation/18) substituted (6.1.2012) by [The Seed Marketing (Amendment) Regulations 2011 (S.I. 2011/2992)](https://www.legislation.gov.uk/uksi/2011/2992), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2992/regulation/1), [4](https://www.legislation.gov.uk/uksi/2011/2992/regulation/4)
+[^c-bc1e24920cb4c834cda1835ee276d7f1]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/uksi/2011/463/regulation/18) substituted (6.1.2012) by [The Seed Marketing (Amendment) Regulations 2011 (S.I. 2011/2992)](https://www.legislation.gov.uk/uksi/2011/2992), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2992/regulation/1), [4](https://www.legislation.gov.uk/uksi/2011/2992/regulation/4)

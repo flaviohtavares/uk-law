@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181. Power to make regulations[^key-879c4eabe39ad5cf366ac7cb347af982]
+## 181. Power to make regulations[^c-879c4eabe39ad5cf366ac7cb347af982]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-879c4eabe39ad5cf366ac7cb347af982]: Commencement: Art. 181 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-879c4eabe39ad5cf366ac7cb347af982]: Commencement: Art. 181 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

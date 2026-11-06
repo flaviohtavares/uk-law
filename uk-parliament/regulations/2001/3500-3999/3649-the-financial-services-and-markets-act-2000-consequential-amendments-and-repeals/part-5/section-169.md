@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. The register maintained under the Consumer Credit Act 1974[^key-4f4e346fd5746cc40198310bed633e45]
+## 169. The register maintained under the Consumer Credit Act 1974[^c-4f4e346fd5746cc40198310bed633e45]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In section 35 of the Consumer Credit Act 1974 (the register), after subsection (
 
 ## Annotations
 
-[^key-4f4e346fd5746cc40198310bed633e45]: Commencement: Art. 169 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-4f4e346fd5746cc40198310bed633e45]: Commencement: Art. 169 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

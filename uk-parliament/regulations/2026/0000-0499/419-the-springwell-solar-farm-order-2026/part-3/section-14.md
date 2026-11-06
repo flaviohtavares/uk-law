@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Claimed public right of way[^key-071edf3a6448ffb0b3cf0b818cd7de0b]
+## 14. Claimed public right of way[^c-071edf3a6448ffb0b3cf0b818cd7de0b]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-071edf3a6448ffb0b3cf0b818cd7de0b]: Commencement: Art. 14 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-071edf3a6448ffb0b3cf0b818cd7de0b]: Commencement: Art. 14 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)

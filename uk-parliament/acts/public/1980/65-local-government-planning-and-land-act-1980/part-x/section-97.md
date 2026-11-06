@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Secretary of State’s power to require information.[^key-06afe59ca97abaa70e1c1a38877031a6][^key-d9d4ef8afddfb0a6dd29b774f4b16281][^c13874281]
+## 97. Secretary of State’s power to require information.[^c-06afe59ca97abaa70e1c1a38877031a6][^c-d9d4ef8afddfb0a6dd29b774f4b16281][^c13874281]
 
 *Extent: E+W*
 
@@ -28,8 +28,8 @@ summary: ''
 
 ## Annotations
 
-[^key-06afe59ca97abaa70e1c1a38877031a6]: Modification: S. 97 excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/5)
+[^c-06afe59ca97abaa70e1c1a38877031a6]: Modification: S. 97 excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/5)
 
-[^key-d9d4ef8afddfb0a6dd29b774f4b16281]: Modification: [S. 97](https://www.legislation.gov.uk/ukpga/1980/65/section/97) excluded (29.6.2026) by [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13), [Sch. 10A para. 45](https://www.legislation.gov.uk/ukpga/2011/13/schedule/10A/paragraph/45) (as inserted by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 24](https://www.legislation.gov.uk/ukpga/2026/23/schedule/24) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)))
+[^c-d9d4ef8afddfb0a6dd29b774f4b16281]: Modification: [S. 97](https://www.legislation.gov.uk/ukpga/1980/65/section/97) excluded (29.6.2026) by [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13), [Sch. 10A para. 45](https://www.legislation.gov.uk/ukpga/2011/13/schedule/10A/paragraph/45) (as inserted by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 24](https://www.legislation.gov.uk/ukpga/2026/23/schedule/24) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)))
 
 [^c13874281]: Textual amendment: S. 97 substituted by [Local Government Act 1988 (c. 9, SIF 81:1, 2)](https://www.legislation.gov.uk/ukpga/1988/9), [s. 31(2)](https://www.legislation.gov.uk/ukpga/1988/9/section/31/2), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/1988/9/schedule/5/paragraph/3)

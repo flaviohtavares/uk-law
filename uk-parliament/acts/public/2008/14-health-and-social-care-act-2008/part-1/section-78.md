@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Use of information etc.[^key-7b8bbf4963b02dd7f426bfce88f77be5]
+## 78. Use of information etc.[^c-7b8bbf4963b02dd7f426bfce88f77be5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Information obtained by, or documents or records produced to, the Commission in 
 
 ## Annotations
 
-[^key-7b8bbf4963b02dd7f426bfce88f77be5]: Commencement: S. 78 in force at 1.10.2008 by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/2497/article/2/i)
+[^c-7b8bbf4963b02dd7f426bfce88f77be5]: Commencement: S. 78 in force at 1.10.2008 by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/2497/article/2/i)

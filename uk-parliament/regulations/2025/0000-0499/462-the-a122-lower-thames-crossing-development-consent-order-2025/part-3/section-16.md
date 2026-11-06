@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Clearways, speed limits and prohibitions[^key-6c03ccf45a6dfa16989e13212f9eece5]
+## 16. Clearways, speed limits and prohibitions[^c-6c03ccf45a6dfa16989e13212f9eece5]
 
 *Extent: E+W*
 
@@ -62,7 +62,7 @@ except that no speed limit imposed by or under paragraph (1)(a) or (b) applies t
 
 (7) In this article—
 
-- “**a traffic sign which indicates that the national speed limit is in force**” means a traffic sign of the type shown in diagram 671 in Part 2 (signs and road markings indicating speed limits) of Schedule 10 (signs for speed limits) to the Traffic Signs Regulations[^key-376725e9f9c725921344b8e920c90217] and General Directions;
+- “**a traffic sign which indicates that the national speed limit is in force**” means a traffic sign of the type shown in diagram 671 in Part 2 (signs and road markings indicating speed limits) of Schedule 10 (signs for speed limits) to the Traffic Signs Regulations[^c-376725e9f9c725921344b8e920c90217] and General Directions;
 - “**national speed limit**” has the meaning given by Schedule 1 (definitions)[^f00069] to the Traffic Signs Regulations and General Directions 2016;
 - “**road**” includes the adjacent hard shoulder and verge;
 - “**speed limit sign**” means a traffic sign of the type shown in diagram 670 in Part 2 of Schedule 10 or diagram 6001 in Part 2 (matrix signs and light signals for motorways and all-purpose dual carriageway roads) of Schedule 15 (matrix signs and light signals for the control of moving traffic on motorways and dual carriageway roads) to the Traffic Signs Regulations and General Directions 2016 which is—
@@ -74,7 +74,7 @@ except that no speed limit imposed by or under paragraph (1)(a) or (b) applies t
 
 ## Annotations
 
-[^key-6c03ccf45a6dfa16989e13212f9eece5]: Commencement: Art. 16 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-6c03ccf45a6dfa16989e13212f9eece5]: Commencement: Art. 16 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
 [^f00065]: Footnote: [S.I. 2011/935](https://www.legislation.gov.uk/uksi/2011/935).
 
@@ -84,6 +84,6 @@ except that no speed limit imposed by or under paragraph (1)(a) or (b) applies t
 
 [^f00068]: Footnote: [S.I. 2012/936](https://www.legislation.gov.uk/uksi/2012/936), amended by [S.I. 2013/3108](https://www.legislation.gov.uk/uksi/2013/3108) and [S.I. 2015/643](https://www.legislation.gov.uk/uksi/2015/643).
 
-[^key-376725e9f9c725921344b8e920c90217]: Textual amendment: Words in [art. 16(7)](https://www.legislation.gov.uk/uksi/2025/462/article/16/7) substituted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
+[^c-376725e9f9c725921344b8e920c90217]: Textual amendment: Words in [art. 16(7)](https://www.legislation.gov.uk/uksi/2025/462/article/16/7) substituted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
 
 [^f00069]: Footnote: [S.I. 2016/362](https://www.legislation.gov.uk/uksi/2016/362), amended by [S.I. 2017/1011](https://www.legislation.gov.uk/uksi/2017/1011), [S.I. 2017/1086](https://www.legislation.gov.uk/uksi/2017/1086), [S.I. 2018/161](https://www.legislation.gov.uk/uksi/2018/161), [S.I. 2020/663](https://www.legislation.gov.uk/uksi/2020/663), [S.I. 2021/75](https://www.legislation.gov.uk/uksi/2021/75), [S.I. 2022/111](https://www.legislation.gov.uk/uksi/2022/111), [S.I. 2023/783](https://www.legislation.gov.uk/uksi/2023/783) and [S.I. 2023/1112](https://www.legislation.gov.uk/uksi/2023/1112).

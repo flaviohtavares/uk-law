@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Private rights[^key-0c6b26eb49f1935f22ac865d732e446f]
+## 19. Private rights[^c-0c6b26eb49f1935f22ac865d732e446f]
 
 *Extent: E+W+S*
 
@@ -64,4 +64,4 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 ## Annotations
 
-[^key-0c6b26eb49f1935f22ac865d732e446f]: Commencement: Art. 19 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-0c6b26eb49f1935f22ac865d732e446f]: Commencement: Art. 19 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)

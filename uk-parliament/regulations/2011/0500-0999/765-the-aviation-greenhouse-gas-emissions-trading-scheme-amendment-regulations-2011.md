@@ -32,7 +32,7 @@ summary: ''
 
 Climate Change
 
-The Aviation Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2011 (revoked)[^key-668a69f06fcb3e21be34439ab20501bc]
+The Aviation Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2011 (revoked)[^c-668a69f06fcb3e21be34439ab20501bc]
 
 Made
 
@@ -46,27 +46,27 @@ Coming into force
 
 25th March 2011
 
-[^key-668a69f06fcb3e21be34439ab20501bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-668a69f06fcb3e21be34439ab20501bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-668a69f06fcb3e21be34439ab20501bc]
+## 1. Citation, commencement and interpretation[^c-668a69f06fcb3e21be34439ab20501bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Aviation Greenhouse Gas Emissions Trading Scheme Regulations 2010[^key-668a69f06fcb3e21be34439ab20501bc]
+## 2. Amendment of the Aviation Greenhouse Gas Emissions Trading Scheme Regulations 2010[^c-668a69f06fcb3e21be34439ab20501bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-668a69f06fcb3e21be34439ab20501bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-668a69f06fcb3e21be34439ab20501bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-668a69f06fcb3e21be34439ab20501bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-668a69f06fcb3e21be34439ab20501bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-668a69f06fcb3e21be34439ab20501bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-668a69f06fcb3e21be34439ab20501bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-668a69f06fcb3e21be34439ab20501bc]EXPLANATORY NOTE
+[^c-668a69f06fcb3e21be34439ab20501bc]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -90,7 +90,7 @@ A full impact assessment of the costs and benefits of this instrument is availab
 
 ## Annotations
 
-[^key-668a69f06fcb3e21be34439ab20501bc]: Textual amendment: Regulations revoked (1.1.2013) by [The Greenhouse Gas Emissions Trading Scheme Regulations 2012 (S.I. 2012/3038)](https://www.legislation.gov.uk/uksi/2012/3038), [reg. 85(e)](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85/e) (with [regs. 85](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85), [87](https://www.legislation.gov.uk/uksi/2012/3038/regulation/87), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3038/schedule/1))
+[^c-668a69f06fcb3e21be34439ab20501bc]: Textual amendment: Regulations revoked (1.1.2013) by [The Greenhouse Gas Emissions Trading Scheme Regulations 2012 (S.I. 2012/3038)](https://www.legislation.gov.uk/uksi/2012/3038), [reg. 85(e)](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85/e) (with [regs. 85](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85), [87](https://www.legislation.gov.uk/uksi/2012/3038/regulation/87), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3038/schedule/1))
 
 [^f00007]: Footnote: OJ No L 275, 25.10.03, p. 32.
 

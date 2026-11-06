@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Lease extensions under the LRA 1967 on payment of premium at peppercorn rent[^key-709d52168539cba4914a8f65c32d98d0]
+## 34. Lease extensions under the LRA 1967 on payment of premium at peppercorn rent[^c-709d52168539cba4914a8f65c32d98d0]
 
 *Extent: E+W*
 
@@ -80,4 +80,4 @@ Section 14A (referred to in subsection (2)(a)) is inserted by section 35 of this
 
 ## Annotations
 
-[^key-709d52168539cba4914a8f65c32d98d0]: Commencement: S. 34 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-709d52168539cba4914a8f65c32d98d0]: Commencement: S. 34 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

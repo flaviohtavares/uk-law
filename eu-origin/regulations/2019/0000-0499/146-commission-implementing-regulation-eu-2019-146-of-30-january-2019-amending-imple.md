@@ -35,18 +35,18 @@ amending Implementing Regulation (EU) 2015/502, concerning the authorisation of 
 
 (Text with EEA relevance) (revoked)
 
-[^key-bbb14b9c32f3b3659e1bbc90ffd19015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bbb14b9c32f3b3659e1bbc90ffd19015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Amendments to Implementing Regulation (EU) 2015/502[^key-bbb14b9c32f3b3659e1bbc90ffd19015]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Entry into force[^key-bbb14b9c32f3b3659e1bbc90ffd19015]
+## Article 1. Amendments to Implementing Regulation (EU) 2015/502[^c-bbb14b9c32f3b3659e1bbc90ffd19015]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bbb14b9c32f3b3659e1bbc90ffd19015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 2. Entry into force[^c-bbb14b9c32f3b3659e1bbc90ffd19015]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-bbb14b9c32f3b3659e1bbc90ffd19015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bbb14b9c32f3b3659e1bbc90ffd19015]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 8 Pt. 1 para. 41](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/1/paragraph/41)
+[^c-bbb14b9c32f3b3659e1bbc90ffd19015]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 8 Pt. 1 para. 41](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/1/paragraph/41)

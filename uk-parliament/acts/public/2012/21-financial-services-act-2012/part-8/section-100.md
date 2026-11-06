@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-a626961ab5416c8b7dc5d156d5c67a22][^key-60ea30f98652387996a2e36a7370c3d4] The Banking Act 2009 is amended as follows.
+(1)[^c-a626961ab5416c8b7dc5d156d5c67a22][^c-60ea30f98652387996a2e36a7370c3d4] The Banking Act 2009 is amended as follows.
 
-(2)[^key-c13e7cf4f42a32a76390747d52c68706] In section 1 (overview), for the entry in the Table relating to sections 82 and 83 substitute—
+(2)[^c-c13e7cf4f42a32a76390747d52c68706] In section 1 (overview), for the entry in the Table relating to sections 82 and 83 substitute—
 
 > |  |  |
 > | --- | --- |
@@ -30,11 +30,11 @@ summary: ''
 
 .
 
-(3)[^key-c13e7cf4f42a32a76390747d52c68706] In section 20 (directors), after subsection (1) insert—
+(3)[^c-c13e7cf4f42a32a76390747d52c68706] In section 20 (directors), after subsection (1) insert—
 
 > (1A) Subsection (1) also applies to a director of any undertaking which is a banking group company in respect of a specified bank.
 
-(4)[^key-c13e7cf4f42a32a76390747d52c68706] After section 36 insert—
+(4)[^c-c13e7cf4f42a32a76390747d52c68706] After section 36 insert—
 
 > **36A. Directors**
 >
@@ -49,7 +49,7 @@ summary: ''
 >
 > (3) Appointments under subsection (1)(d) are to be on terms and conditions agreed with the Bank of England.
 
-(5)[^key-d3557c5704383ca8b514197dd0ffe974][^key-60ea30f98652387996a2e36a7370c3d4] For the italic heading before section 82 substitute “ *Groups* ”, and after that heading insert—
+(5)[^c-d3557c5704383ca8b514197dd0ffe974][^c-60ea30f98652387996a2e36a7370c3d4] For the italic heading before section 82 substitute “ *Groups* ”, and after that heading insert—
 
 > **81B. Sale to commercial purchaser and transfer to bridge bank**
 >
@@ -120,13 +120,13 @@ summary: ''
 >
 > (7) Expressions defined in the Companies Act 2006 have the same meaning in section 81B and this section as in that Act.
 
-(6)[^key-a626961ab5416c8b7dc5d156d5c67a22][^key-60ea30f98652387996a2e36a7370c3d4] In the Table in section 259 (statutory instruments), in Part 1 after the entry relating to section 78 insert—
+(6)[^c-a626961ab5416c8b7dc5d156d5c67a22][^c-60ea30f98652387996a2e36a7370c3d4] In the Table in section 259 (statutory instruments), in Part 1 after the entry relating to section 78 insert—
 
 > |  |  |  |
 > | --- | --- | --- |
 > | 81D | Meaning of “banking group company” | Draft affirmative resolution (except for urgent cases) |
 
-(7)[^key-a626961ab5416c8b7dc5d156d5c67a22][^key-60ea30f98652387996a2e36a7370c3d4] In the Table in section 261 (index of defined terms), after the entry relating to “bank insolvency order” insert—
+(7)[^c-a626961ab5416c8b7dc5d156d5c67a22][^c-60ea30f98652387996a2e36a7370c3d4] In the Table in section 261 (index of defined terms), after the entry relating to “bank insolvency order” insert—
 
 > |  |  |
 > | --- | --- |
@@ -136,10 +136,10 @@ summary: ''
 
 ## Annotations
 
-[^key-a626961ab5416c8b7dc5d156d5c67a22]: Commencement: [S. 100(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/100/1)[(6)](https://www.legislation.gov.uk/ukpga/2012/21/section/100/6)[(7)](https://www.legislation.gov.uk/ukpga/2012/21/section/100/7) in force at 5.6.2014 for specified purposes by [S.I. 2014/1447](https://www.legislation.gov.uk/uksi/2014/1447), [art. 2(a)(c)](https://www.legislation.gov.uk/uksi/2014/1447/article/2/a/c)
+[^c-a626961ab5416c8b7dc5d156d5c67a22]: Commencement: [S. 100(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/100/1)[(6)](https://www.legislation.gov.uk/ukpga/2012/21/section/100/6)[(7)](https://www.legislation.gov.uk/ukpga/2012/21/section/100/7) in force at 5.6.2014 for specified purposes by [S.I. 2014/1447](https://www.legislation.gov.uk/uksi/2014/1447), [art. 2(a)(c)](https://www.legislation.gov.uk/uksi/2014/1447/article/2/a/c)
 
-[^key-60ea30f98652387996a2e36a7370c3d4]: Commencement: [S. 100(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/100/1) [(5)-(7)](https://www.legislation.gov.uk/ukpga/2012/21/section/100/5) in force at 1.8.2014 in so far as not already in force by [S.I. 2014/1847](https://www.legislation.gov.uk/uksi/2014/1847), [art. 2](https://www.legislation.gov.uk/uksi/2014/1847/article/2)
+[^c-60ea30f98652387996a2e36a7370c3d4]: Commencement: [S. 100(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/100/1) [(5)-(7)](https://www.legislation.gov.uk/ukpga/2012/21/section/100/5) in force at 1.8.2014 in so far as not already in force by [S.I. 2014/1847](https://www.legislation.gov.uk/uksi/2014/1847), [art. 2](https://www.legislation.gov.uk/uksi/2014/1847/article/2)
 
-[^key-c13e7cf4f42a32a76390747d52c68706]: Commencement: [S. 100(2)-(4)](https://www.legislation.gov.uk/ukpga/2012/21/section/100/2) in force at 1.8.2014 by [S.I. 2014/1847](https://www.legislation.gov.uk/uksi/2014/1847), [art. 2](https://www.legislation.gov.uk/uksi/2014/1847/article/2)
+[^c-c13e7cf4f42a32a76390747d52c68706]: Commencement: [S. 100(2)-(4)](https://www.legislation.gov.uk/ukpga/2012/21/section/100/2) in force at 1.8.2014 by [S.I. 2014/1847](https://www.legislation.gov.uk/uksi/2014/1847), [art. 2](https://www.legislation.gov.uk/uksi/2014/1847/article/2)
 
-[^key-d3557c5704383ca8b514197dd0ffe974]: Commencement: [S. 100(5)](https://www.legislation.gov.uk/ukpga/2012/21/section/100/5) in force at 5.6.2014 for specified purposes by [S.I. 2014/1447](https://www.legislation.gov.uk/uksi/2014/1447), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1447/article/2/b)
+[^c-d3557c5704383ca8b514197dd0ffe974]: Commencement: [S. 100(5)](https://www.legislation.gov.uk/ukpga/2012/21/section/100/5) in force at 5.6.2014 for specified purposes by [S.I. 2014/1447](https://www.legislation.gov.uk/uksi/2014/1447), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1447/article/2/b)

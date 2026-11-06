@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Notification of applications to neighbourhood planning bodies[^c22730291][^key-3a913041e2673ec91399f9fa2edee118]
+## 2. Notification of applications to neighbourhood planning bodies[^c22730291][^c-3a913041e2673ec91399f9fa2edee118]
 
 *Extent: E+W*
 
@@ -98,4 +98,4 @@ summary: ''
 
 [^c22730291]: Commencement: S. 2 in force for specified purposes at Royal Assent, see s. 46
 
-[^key-3a913041e2673ec91399f9fa2edee118]: Commencement: S. 2 in force at 31.1.2018 in so far as not already in force by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/38/regulation/3/a)
+[^c-3a913041e2673ec91399f9fa2edee118]: Commencement: S. 2 in force at 31.1.2018 in so far as not already in force by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/38/regulation/3/a)

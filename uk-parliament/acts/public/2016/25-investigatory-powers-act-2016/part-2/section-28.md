@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Confidential journalistic material[^key-206e19f98cb98e50a55261c1616e839a]
+## 28. Confidential journalistic material[^c-206e19f98cb98e50a55261c1616e839a]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-206e19f98cb98e50a55261c1616e839a]: Commencement: S. 28 in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/652/regulation/3/l)
+[^c-206e19f98cb98e50a55261c1616e839a]: Commencement: S. 28 in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/652/regulation/3/l)

@@ -34,7 +34,7 @@ Wildlife
 
 Marine Management
 
-The Conservation of Habitats and Species (Amendment) Regulations 2011 (revoked)[^key-cba9c1baae2fa18b01b4b6a3c25c79ba]
+The Conservation of Habitats and Species (Amendment) Regulations 2011 (revoked)[^c-cba9c1baae2fa18b01b4b6a3c25c79ba]
 
 Made
 
@@ -48,51 +48,51 @@ Coming into force
 
 6th April 2011
 
-[^key-cba9c1baae2fa18b01b4b6a3c25c79ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cba9c1baae2fa18b01b4b6a3c25c79ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, interpretation and extent[^key-cba9c1baae2fa18b01b4b6a3c25c79ba]
+## 1. Title, commencement, interpretation and extent[^c-cba9c1baae2fa18b01b4b6a3c25c79ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the 2010 Regulations[^key-cba9c1baae2fa18b01b4b6a3c25c79ba]
+## 2. Amendments to the 2010 Regulations[^c-cba9c1baae2fa18b01b4b6a3c25c79ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to regulation 2[^key-cba9c1baae2fa18b01b4b6a3c25c79ba]
+## 3. Amendments to regulation 2[^c-cba9c1baae2fa18b01b4b6a3c25c79ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Classification of sites as special protection areas[^key-cba9c1baae2fa18b01b4b6a3c25c79ba]
+## 4. Classification of sites as special protection areas[^c-cba9c1baae2fa18b01b4b6a3c25c79ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to regulation 35[^key-cba9c1baae2fa18b01b4b6a3c25c79ba]
+## 5. Amendments to regulation 35[^c-cba9c1baae2fa18b01b4b6a3c25c79ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendments to regulation 59[^key-cba9c1baae2fa18b01b4b6a3c25c79ba]
+## 6. Amendments to regulation 59[^c-cba9c1baae2fa18b01b4b6a3c25c79ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendments to regulation 67[^key-cba9c1baae2fa18b01b4b6a3c25c79ba]
+## 7. Amendments to regulation 67[^c-cba9c1baae2fa18b01b4b6a3c25c79ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendments to regulation 100[^key-cba9c1baae2fa18b01b4b6a3c25c79ba]
+## 8. Amendments to regulation 100[^c-cba9c1baae2fa18b01b4b6a3c25c79ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Marine planning[^key-cba9c1baae2fa18b01b4b6a3c25c79ba]
+## 9. Marine planning[^c-cba9c1baae2fa18b01b4b6a3c25c79ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cba9c1baae2fa18b01b4b6a3c25c79ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cba9c1baae2fa18b01b4b6a3c25c79ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-cba9c1baae2fa18b01b4b6a3c25c79ba]EXPLANATORY NOTE
+[^c-cba9c1baae2fa18b01b4b6a3c25c79ba]EXPLANATORY NOTE
 
 (This note is not part of these Regulations)
 
@@ -112,7 +112,7 @@ A transposition note and full impact assessment of the effect that this instrume
 
 ## Annotations
 
-[^key-cba9c1baae2fa18b01b4b6a3c25c79ba]: Textual amendment: Regulations revoked (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), reg. 1(2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/1012/schedule/7)
+[^c-cba9c1baae2fa18b01b4b6a3c25c79ba]: Textual amendment: Regulations revoked (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), reg. 1(2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/1012/schedule/7)
 
 [^f00013]: Footnote: OJ No L206, 22.7.1992, p.7, last amended by Council Directive [2006/105/EC](https://www.legislation.gov.uk/european/directive/2006/0105) (OJ No L 363, 20.12.2006, p.368).
 

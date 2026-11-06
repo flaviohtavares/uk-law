@@ -29,7 +29,7 @@ summary: ''
 - “ammunition” means ammunition for any firearm except blank cartridges which are not more than 25.4 millimetres in diameter measured immediately in front of the rim or cannelure of the base of the cartridge and includes—
   - (a) grenades, bombs and other like missiles, whether capable of use with a firearm or not; and
   - (b) prohibited ammunition;
-- [^key-c06e455a5a1b9fe6fb9107bbc2c219df]...
+- [^c-c06e455a5a1b9fe6fb9107bbc2c219df]...
 - “appropriate fee” shall be construed in accordance with Article 75(2);
 - “armed forces” means any of the naval, military or air forces of the Crown;
 - “Article 7 authority” has the meaning given by Article 22(1);
@@ -54,7 +54,7 @@ summary: ''
 - “imitation firearm” means anything which has the appearance of being a firearm, whether or not it is capable of discharging any shot, bullet or other missile;
 - “mental disorder” has the same meaning as in the Mental Health (Northern Ireland) Order 1986 (NI 4);
 - “[^c21953561] **the Minister of Justice** ” means the Minister in charge of the Department of Justice;
-- “prohibited weapon” and “prohibited ammunition” respectively mean a weapon and ammunition prohibited under Article 45 (including, in the case of weapons, any devices falling within paragraph (1)(fa) of that Article and,[^key-9108e80caffc2e053c160e582752cc7f] in the case of ammunition, any missiles falling within paragraph (2)(g) of that Article);
+- “prohibited weapon” and “prohibited ammunition” respectively mean a weapon and ammunition prohibited under Article 45 (including, in the case of weapons, any devices falling within paragraph (1)(fa) of that Article and,[^c-9108e80caffc2e053c160e582752cc7f] in the case of ammunition, any missiles falling within paragraph (2)(g) of that Article);
 - “readable” means—
   - (a) visible and legible; or
   - (b) capable of being readily produced in a visible and legible form;
@@ -67,7 +67,7 @@ summary: ''
 - “self-loading” and “pump action”, in relation to any firearm, mean respectively that it is designed or adapted (otherwise than as mentioned in Article 45(1)(a)) so that it is automatically reloaded or that it is so designed or adapted that it is reloaded by the manual operation of the fore-end or forestock of the firearm;
 - “shotgun” means a smoothbore firearm with a barrel not less than 60.96 centimetres in length, not being an air gun;
 - “shotgun certificate” means a certificate granted in Great Britain under section 28 of the Firearms Act 1968 (c. 27) and authorising a person to possess shotguns;
-- “[^key-038c00593e27174da844d514bd8845fd]**shotgun club**” means a club established for the purpose of promoting and practising skill in the use of shotguns;
+- “[^c-038c00593e27174da844d514bd8845fd]**shotgun club**” means a club established for the purpose of promoting and practising skill in the use of shotguns;
 - “slaughtering instrument” means a firearm which is specially designed or adapted for the instantaneous slaughter or killing of animals or for the instantaneous stunning of animals with a view to slaughtering or killing them;[^M_F_5dfa4732-049f-420f-e3be-d2a863b85b3d]
 - “statutory provision” has the meaning given by section 1(f) of the Interpretation Act (Northern Ireland) 1954 (c. 33);
 - “transfer” includes let on hire, give, lend and part with possession;
@@ -99,15 +99,15 @@ or it satisfies the requirements of section 8 of the Firearms (Amendment) Act 19
 
 ## Annotations
 
-[^key-c06e455a5a1b9fe6fb9107bbc2c219df]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/2004/702/article/2/2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/5/2)
+[^c-c06e455a5a1b9fe6fb9107bbc2c219df]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/2004/702/article/2/2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/5/2)
 
 [^c21953561]: Textual amendment: Art. 2(2): definition of "the Minister of Justice" inserted (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [9](https://www.legislation.gov.uk/uksi/2010/976/article/9), [Sch. 11 para. 2](https://www.legislation.gov.uk/uksi/2010/976/schedule/11/paragraph/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
-[^key-9108e80caffc2e053c160e582752cc7f]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/2004/702/article/2/2) inserted (14.7.2021) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 55(4)](https://www.legislation.gov.uk/ukpga/2019/17/section/55/4), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/g)
+[^c-9108e80caffc2e053c160e582752cc7f]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/2004/702/article/2/2) inserted (14.7.2021) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 55(4)](https://www.legislation.gov.uk/ukpga/2019/17/section/55/4), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/g)
 
 [^c17102671]: Textual amendment: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 
-[^key-038c00593e27174da844d514bd8845fd]: Textual amendment: Words in art. 2(2) inserted (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/1/1)
+[^c-038c00593e27174da844d514bd8845fd]: Textual amendment: Words in art. 2(2) inserted (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/1/1)
 
 [^M_F_5dfa4732-049f-420f-e3be-d2a863b85b3d]: Textual amendment: Words in art. 2(2) substituted (21.5.2014) by The Welfare of Animals at the [Time of Killing Regulations (Northern Ireland) 2014 (S.R. 2014/107)](https://www.legislation.gov.uk/nisr/2014/107), [reg. 1](https://www.legislation.gov.uk/nisr/2014/107/regulation/1), [Sch. 6 para. 1(2)](https://www.legislation.gov.uk/nisr/2014/107/schedule/6/paragraph/1/2)
 

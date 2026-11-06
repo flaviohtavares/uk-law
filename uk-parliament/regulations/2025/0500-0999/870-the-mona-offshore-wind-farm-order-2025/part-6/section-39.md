@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Protective provisions[^key-78f06191d4b980868874fe6f1b9c9f8f]
+## 39. Protective provisions[^c-78f06191d4b980868874fe6f1b9c9f8f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 10 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-78f06191d4b980868874fe6f1b9c9f8f]: Commencement: Art. 39 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-78f06191d4b980868874fe6f1b9c9f8f]: Commencement: Art. 39 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. The inspection function[^key-d7777513f1f177a59cc68160661db661][^key-5d50c4e792e77625473305a957a4961e]
+## 38. The inspection function[^c-d7777513f1f177a59cc68160661db661][^c-5d50c4e792e77625473305a957a4961e]
 
 *Extent: S*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d7777513f1f177a59cc68160661db661]: Commencement: S. 38 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-d7777513f1f177a59cc68160661db661]: Commencement: S. 38 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-5d50c4e792e77625473305a957a4961e]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2025/11/section/38) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
+[^c-5d50c4e792e77625473305a957a4961e]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2025/11/section/38) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)

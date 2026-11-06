@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Drink[^key-a5d127f990c5c8c5413c7abf9bc864c8]
+## 6. Drink[^c-a5d127f990c5c8c5413c7abf9bc864c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ such as coffee flavouring syrup, sugar syrup or hot sauce.
 
 ## Annotations
 
-[^key-a5d127f990c5c8c5413c7abf9bc864c8]: Commencement: Reg. 6 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-a5d127f990c5c8c5413c7abf9bc864c8]: Commencement: Reg. 6 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

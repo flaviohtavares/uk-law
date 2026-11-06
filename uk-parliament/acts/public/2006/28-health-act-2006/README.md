@@ -40,7 +40,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### Part 1 — Smoking
 
-#### Chapter 1 — Smoke-free premises, places and vehicles in England[^key-59b08a6167eb75c6539f65e6ff5d2139][^key-a5761c7da10485fdee6d01c01290895d]
+#### Chapter 1 — Smoke-free premises, places and vehicles in England[^c-59b08a6167eb75c6539f65e6ff5d2139][^c-a5761c7da10485fdee6d01c01290895d]
 
 ##### Introduction
 
@@ -89,7 +89,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 12 — Interpretation and territorial sea](part-1/section-12.md)
 
-#### Chapter 2 — Age for sale of tobacco etc.[^key-682bac920ab39653842c15352a000540]
+#### Chapter 2 — Age for sale of tobacco etc.[^c-682bac920ab39653842c15352a000540]
 
 *Extent: E+W*
 
@@ -298,10 +298,10 @@ SCHEDULES
 
 ## Annotations
 
-[^key-59b08a6167eb75c6539f65e6ff5d2139]: Modification: Pt. 1 Ch. 1 modified (30.5.2007) by [National Assembly for Wales Commission (Crown Status) (No.2) Order 2007 (S.I. 2007/1353)](https://www.legislation.gov.uk/uksi/2007/1353), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/1353/article/1/2), [7](https://www.legislation.gov.uk/uksi/2007/1353/article/7)
+[^c-59b08a6167eb75c6539f65e6ff5d2139]: Modification: Pt. 1 Ch. 1 modified (30.5.2007) by [National Assembly for Wales Commission (Crown Status) (No.2) Order 2007 (S.I. 2007/1353)](https://www.legislation.gov.uk/uksi/2007/1353), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/1353/article/1/2), [7](https://www.legislation.gov.uk/uksi/2007/1353/article/7)
 
-[^key-a5761c7da10485fdee6d01c01290895d]: Textual amendment: Words in [Pt. 1 Ch. 1](https://www.legislation.gov.uk/ukpga/2006/28/part/1/chapter/1) heading inserted (1.3.2021) by [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/anaw/2017/2/schedule/2/paragraph/2); [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-a5761c7da10485fdee6d01c01290895d]: Textual amendment: Words in [Pt. 1 Ch. 1](https://www.legislation.gov.uk/ukpga/2006/28/part/1/chapter/1) heading inserted (1.3.2021) by [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/anaw/2017/2/schedule/2/paragraph/2); [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
 
-[^key-682bac920ab39653842c15352a000540]: Textual amendment: [Pt. 1 Ch. 2](https://www.legislation.gov.uk/ukpga/2006/28/part/1/chapter/2) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/12) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))
+[^c-682bac920ab39653842c15352a000540]: Textual amendment: [Pt. 1 Ch. 2](https://www.legislation.gov.uk/ukpga/2006/28/part/1/chapter/2) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/12) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))
 
 [^M_F_e5f70398-338c-42ab-e8a1-fbde8d18593a]: Textual amendment: Pt. 5 repealed (31.10.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 279(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/279/2), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4) (with [Sch. 20 para. 8](https://www.legislation.gov.uk/ukpga/2012/7/schedule/20/paragraph/8)); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/3)

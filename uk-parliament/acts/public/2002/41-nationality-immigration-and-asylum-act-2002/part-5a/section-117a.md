@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117A. Application of this Part[^key-c676280bde9f131c35ca8c3c12468619]
+## 117A. Application of this Part[^c-c676280bde9f131c35ca8c3c12468619]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c676280bde9f131c35ca8c3c12468619]: Textual amendment: Pt. 5A inserted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 19](https://www.legislation.gov.uk/ukpga/2014/22/section/19), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(o)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/o)
+[^c-c676280bde9f131c35ca8c3c12468619]: Textual amendment: Pt. 5A inserted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 19](https://www.legislation.gov.uk/ukpga/2014/22/section/19), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(o)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/o)

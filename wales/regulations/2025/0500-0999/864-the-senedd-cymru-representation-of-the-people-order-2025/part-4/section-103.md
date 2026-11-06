@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 103. Special case for determination of High Court[^key-31fc388b3669883640010b832b983cbe]
+## 103. Special case for determination of High Court[^c-31fc388b3669883640010b832b983cbe]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31fc388b3669883640010b832b983cbe]: Commencement: Art. 103 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-31fc388b3669883640010b832b983cbe]: Commencement: Art. 103 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

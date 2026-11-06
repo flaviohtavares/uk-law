@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Compulsory acquisition hearings[^key-7eee3947d7311c74a8c1daf538372832]
+## 92. Compulsory acquisition hearings[^c-7eee3947d7311c74a8c1daf538372832]
 
 *Extent: E+W+S*
 
 (1) This section applies where the application includes a request for an order granting development consent to authorise compulsory acquisition of land or of an interest in or right over land (a “compulsory acquisition request”).
 
-(2) The Examining authority must fix, and cause each affected person to be informed of, the deadline by which an affected person must notify the Secretary of State[^key-8a47295c5a30daa3ad17e1e9e0fd660b] that the person wishes a compulsory acquisition hearing to be held.
+(2) The Examining authority must fix, and cause each affected person to be informed of, the deadline by which an affected person must notify the Secretary of State[^c-8a47295c5a30daa3ad17e1e9e0fd660b] that the person wishes a compulsory acquisition hearing to be held.
 
 (3) If the Secretary of State receives notification from at least one affected person before the deadline, the Examining authority must cause a compulsory acquisition hearing to be held.
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7eee3947d7311c74a8c1daf538372832]: Commencement: S. 92 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/101/article/3/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-7eee3947d7311c74a8c1daf538372832]: Commencement: S. 92 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/101/article/3/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-8a47295c5a30daa3ad17e1e9e0fd660b]: Textual amendment: Words in [s. 92](https://www.legislation.gov.uk/ukpga/2008/29/section/92) substituted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 39](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/39); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
+[^c-8a47295c5a30daa3ad17e1e9e0fd660b]: Textual amendment: Words in [s. 92](https://www.legislation.gov.uk/ukpga/2008/29/section/92) substituted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 39](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/39); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)

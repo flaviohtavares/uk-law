@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Consent to transfer benefit of this Order[^key-e6b058d0a678b86d6ec21fc29c393069]
+## 8. Consent to transfer benefit of this Order[^c-e6b058d0a678b86d6ec21fc29c393069]
 
 *Extent: E+W+S*
 
@@ -54,14 +54,14 @@ summary: ''
   - (iv) payment of compensation into court in lieu of settlement of all such claims has taken place; or
   - (v) it has been determined by a tribunal or court of competent jurisdiction in respect of all claims that no compensation is payable.
 
-(8) Where the consent of the Secretary of State is not required under paragraph (7)[^key-c5a4962437f1b25f17c1b863dd2c4ff3], the undertaker must notify the Secretary of State and, where the transfer or grant relates to the STDC area, STDC and Teesworks Limited in writing before transferring or granting a benefit referred to in paragraph (1) or (2).
+(8) Where the consent of the Secretary of State is not required under paragraph (7)[^c-c5a4962437f1b25f17c1b863dd2c4ff3], the undertaker must notify the Secretary of State and, where the transfer or grant relates to the STDC area, STDC and Teesworks Limited in writing before transferring or granting a benefit referred to in paragraph (1) or (2).
 
 (9) The notification referred to in paragraph (8) must state—
 
 - (a) the name and contact details of the person to whom the benefit of the powers are to be transferred or granted;
 - (b) subject to paragraph (8), the date on which the transfer is expected to take effect;
 - (c) the powers to be transferred or granted;
-- (d) [^key-488ec431650bab207a2ee4cfc37df7dd]... the restrictions, liabilities and obligations that are to apply to the person exercising the powers transferred or granted; and
+- (d) [^c-488ec431650bab207a2ee4cfc37df7dd]... the restrictions, liabilities and obligations that are to apply to the person exercising the powers transferred or granted; and
 - (e) where relevant, a plan showing the works or areas to which the transfer or grant relates.
 
 (10) The date specified under paragraph (9)(b) must not be earlier than the expiry of five working days from the date of the receipt of the notice.
@@ -72,12 +72,12 @@ summary: ''
 
 ## Annotations
 
-[^key-e6b058d0a678b86d6ec21fc29c393069]: Commencement: Art. 8 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-e6b058d0a678b86d6ec21fc29c393069]: Commencement: Art. 8 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
 [^f00031]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6 was amended by section 30 of the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), and by section 89(3) of the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20). There are other amendments to this section that are not relevant to this Order.
 
 [^f00032]: Footnote: Section 7 was amended by section 5 of the Gas Act [1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45) and section 76(2) of the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27). There are other amendments to the section that are not relevant to this Order.
 
-[^key-c5a4962437f1b25f17c1b863dd2c4ff3]: Textual amendment: Words in [art. 8(8)](https://www.legislation.gov.uk/uksi/2024/174/article/8/8) substituted (21.12.2024) by [The Net Zero Teesside (Correction) Order 2024 (S.I. 2024/1384)](https://www.legislation.gov.uk/uksi/2024/1384), [art. 1](https://www.legislation.gov.uk/uksi/2024/1384/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1384/schedule) Table
+[^c-c5a4962437f1b25f17c1b863dd2c4ff3]: Textual amendment: Words in [art. 8(8)](https://www.legislation.gov.uk/uksi/2024/174/article/8/8) substituted (21.12.2024) by [The Net Zero Teesside (Correction) Order 2024 (S.I. 2024/1384)](https://www.legislation.gov.uk/uksi/2024/1384), [art. 1](https://www.legislation.gov.uk/uksi/2024/1384/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1384/schedule) Table
 
-[^key-488ec431650bab207a2ee4cfc37df7dd]: Textual amendment: Words in [art. 8(9)(d)](https://www.legislation.gov.uk/uksi/2024/174/article/8/9/d) omitted (21.12.2024) by virtue of [The Net Zero Teesside (Correction) Order 2024 (S.I. 2024/1384)](https://www.legislation.gov.uk/uksi/2024/1384), [art. 1](https://www.legislation.gov.uk/uksi/2024/1384/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1384/schedule) Table
+[^c-488ec431650bab207a2ee4cfc37df7dd]: Textual amendment: Words in [art. 8(9)(d)](https://www.legislation.gov.uk/uksi/2024/174/article/8/9/d) omitted (21.12.2024) by virtue of [The Net Zero Teesside (Correction) Order 2024 (S.I. 2024/1384)](https://www.legislation.gov.uk/uksi/2024/1384), [art. 1](https://www.legislation.gov.uk/uksi/2024/1384/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1384/schedule) Table

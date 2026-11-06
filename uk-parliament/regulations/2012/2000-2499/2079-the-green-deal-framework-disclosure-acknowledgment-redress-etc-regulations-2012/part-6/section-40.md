@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Terms of the plan which are to bind or benefit the bill payer or a subsequent bill payer[^key-c2bfff5ff49243e35a66f3ed9cfc1c25]
+## 40. Terms of the plan which are to bind or benefit the bill payer or a subsequent bill payer[^c-c2bfff5ff49243e35a66f3ed9cfc1c25]
 
 *Extent: E+W+S*
 
@@ -61,4 +61,4 @@ but only whilst P is the bill payer.
 
 ## Annotations
 
-[^key-c2bfff5ff49243e35a66f3ed9cfc1c25]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2012/2079/regulation/40) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)
+[^c-c2bfff5ff49243e35a66f3ed9cfc1c25]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2012/2079/regulation/40) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)

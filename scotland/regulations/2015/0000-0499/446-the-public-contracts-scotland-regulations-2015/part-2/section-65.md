@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Recognition of official lists of approved economic operators and certification by certification bodies.[^key-d321a2bef6e0d0b528a1aeff32ffdff6]
+## 65. Recognition of official lists of approved economic operators and certification by certification bodies.[^c-d321a2bef6e0d0b528a1aeff32ffdff6]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d321a2bef6e0d0b528a1aeff32ffdff6]: Textual amendment: [Reg. 65](https://www.legislation.gov.uk/ssi/2015/446/regulation/65) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(46)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/46) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-d321a2bef6e0d0b528a1aeff32ffdff6]: Textual amendment: [Reg. 65](https://www.legislation.gov.uk/ssi/2015/446/regulation/65) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(46)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/46) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

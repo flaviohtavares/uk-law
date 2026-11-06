@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Registrar’s power to change names containing computer code[^key-fb1ed5a44921b0e94c19d6f0e2efdc05][^key-d570e6ab1db5ce4b701c1367e3db4dee]
+## 19. Registrar’s power to change names containing computer code[^c-fb1ed5a44921b0e94c19d6f0e2efdc05][^c-d570e6ab1db5ce4b701c1367e3db4dee]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fb1ed5a44921b0e94c19d6f0e2efdc05]: Commencement: S. 19 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-fb1ed5a44921b0e94c19d6f0e2efdc05]: Commencement: S. 19 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-d570e6ab1db5ce4b701c1367e3db4dee]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2023/56/section/19) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/o)
+[^c-d570e6ab1db5ce4b701c1367e3db4dee]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2023/56/section/19) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/o)

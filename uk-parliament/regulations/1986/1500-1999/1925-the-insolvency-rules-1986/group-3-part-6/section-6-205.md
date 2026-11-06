@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.205. Court's order on application[^key-d15745cb1384e7dbfd383276215aa3d9]
+## 6.205. Court's order on application[^c-d15745cb1384e7dbfd383276215aa3d9]
 
 *Extent: E+W*
 
@@ -24,13 +24,13 @@ summary: ''
 
 (2) The court may at the same time, having regard to any representations made by the trustee on the hearing of the application—
 
-- (a) include in the order provision varying an income payments order or an income payments agreement[^key-f73ee1cb0e9581da486a4b73926ab5bd] already in force in respect of the bankrupt, or
+- (a) include in the order provision varying an income payments order or an income payments agreement[^c-f73ee1cb0e9581da486a4b73926ab5bd] already in force in respect of the bankrupt, or
 - (b) if no income payments order is in force, make one.
 
 (3) Whether or not the application is granted, copies of the order shall be sent by the court to the bankrupt, the trustee and the official receiver.
 
 ## Annotations
 
-[^key-d15745cb1384e7dbfd383276215aa3d9]: Commencement: [Rule 6.205](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.205) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-d15745cb1384e7dbfd383276215aa3d9]: Commencement: [Rule 6.205](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.205) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-f73ee1cb0e9581da486a4b73926ab5bd]: Textual amendment: Words in [rule 6.205(2)(a)](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.205/2/a) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/41)
+[^c-f73ee1cb0e9581da486a4b73926ab5bd]: Textual amendment: Words in [rule 6.205(2)(a)](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.205/2/a) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/41)

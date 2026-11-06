@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Late payment of retirement index adjustment[^key-d6829d80fdde22bd5f1253e537e1ac3d]
+## 120. Late payment of retirement index adjustment[^c-d6829d80fdde22bd5f1253e537e1ac3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Nothing in these Regulations requires any part of a pension attributable to a re
 
 ## Annotations
 
-[^key-d6829d80fdde22bd5f1253e537e1ac3d]: Commencement: Reg. 120 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-d6829d80fdde22bd5f1253e537e1ac3d]: Commencement: Reg. 120 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

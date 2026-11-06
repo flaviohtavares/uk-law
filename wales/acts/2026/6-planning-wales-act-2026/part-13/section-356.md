@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 356. Power of the Secretary of State to acquire land identified in national policy statement[^key-6c64c9a119dc3bb55219e6686a3fad97]
+## 356. Power of the Secretary of State to acquire land identified in national policy statement[^c-6c64c9a119dc3bb55219e6686a3fad97]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Where a blight notice has been served in respect of land falling within paragrap
 
 ## Annotations
 
-[^key-6c64c9a119dc3bb55219e6686a3fad97]: Commencement: S. 356 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-6c64c9a119dc3bb55219e6686a3fad97]: Commencement: S. 356 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

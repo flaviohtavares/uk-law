@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Encouraging or assisting suicide (Northern Ireland)[^key-fcc86a85478dd50094a966e5d22bc42a]
+## 60. Encouraging or assisting suicide (Northern Ireland)[^c-fcc86a85478dd50094a966e5d22bc42a]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fcc86a85478dd50094a966e5d22bc42a]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2009/25/section/60) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/3)
+[^c-fcc86a85478dd50094a966e5d22bc42a]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2009/25/section/60) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/3)

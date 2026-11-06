@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159A. Application of rules about restructuring and dissolution[^key-fb5f5cd1dad3fa5314bdb5538ccc72aa]
+## 159A. Application of rules about restructuring and dissolution[^c-fb5f5cd1dad3fa5314bdb5538ccc72aa]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This group of sections does not apply to local authorities.
 
 ## Annotations
 
-[^key-fb5f5cd1dad3fa5314bdb5538ccc72aa]: Textual amendment: S. 159A inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/33)
+[^c-fb5f5cd1dad3fa5314bdb5538ccc72aa]: Textual amendment: S. 159A inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/33)

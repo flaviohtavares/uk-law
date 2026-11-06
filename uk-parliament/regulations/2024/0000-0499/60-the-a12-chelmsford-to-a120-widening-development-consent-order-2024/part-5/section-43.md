@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Apparatus and rights of statutory undertakers in stopped up streets[^key-571db71ce3b12dea795b84fbde8562d3]
+## 43. Apparatus and rights of statutory undertakers in stopped up streets[^c-571db71ce3b12dea795b84fbde8562d3]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 ## Annotations
 
-[^key-571db71ce3b12dea795b84fbde8562d3]: Commencement: Art. 43 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-571db71ce3b12dea795b84fbde8562d3]: Commencement: Art. 43 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
 [^f00088]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).

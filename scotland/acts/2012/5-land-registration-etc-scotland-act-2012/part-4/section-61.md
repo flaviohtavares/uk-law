@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Effect of advance notice: further provision[^key-cfc242b5efb6d27a2ad74203b35110c6][^key-5cbb0f26650b67617e67c8a5b9d3efe3][^key-5cbb0f26650b67617e67c8a5b9d3efe3]
+## 61. Effect of advance notice: further provision[^c-cfc242b5efb6d27a2ad74203b35110c6][^c-5cbb0f26650b67617e67c8a5b9d3efe3][^c-5cbb0f26650b67617e67c8a5b9d3efe3]
 
 *Extent: S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cfc242b5efb6d27a2ad74203b35110c6]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2012/5/section/61) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-cfc242b5efb6d27a2ad74203b35110c6]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2012/5/section/61) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-5cbb0f26650b67617e67c8a5b9d3efe3]: Modification: Pt. 4 applied (with modifications) (8.12.2014) by [The Land Registration etc. (Scotland) Act 2012 (Incidental, Consequential and Transitional) Order 2014 (S.S.I. 2014/190)](https://www.legislation.gov.uk/ssi/2014/190), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/190/article/1/2), [4](https://www.legislation.gov.uk/ssi/2014/190/article/4)
+[^c-5cbb0f26650b67617e67c8a5b9d3efe3]: Modification: Pt. 4 applied (with modifications) (8.12.2014) by [The Land Registration etc. (Scotland) Act 2012 (Incidental, Consequential and Transitional) Order 2014 (S.S.I. 2014/190)](https://www.legislation.gov.uk/ssi/2014/190), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/190/article/1/2), [4](https://www.legislation.gov.uk/ssi/2014/190/article/4)

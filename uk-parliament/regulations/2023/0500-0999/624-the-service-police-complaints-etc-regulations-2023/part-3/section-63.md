@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Power of the Commissioner to require re-investigation[^key-cdd5e19512acd1235ed850f207274665]
+## 63. Power of the Commissioner to require re-investigation[^c-cdd5e19512acd1235ed850f207274665]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ the Commissioner may make a further determination under this regulation (to repl
 
 ## Annotations
 
-[^key-cdd5e19512acd1235ed850f207274665]: Commencement: Reg. 63 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-cdd5e19512acd1235ed850f207274665]: Commencement: Reg. 63 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

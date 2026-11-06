@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Notice: referral to an interim orders panel[^key-0535c8e761d17b70deab764c71abf7fa]
+## 124. Notice: referral to an interim orders panel[^c-0535c8e761d17b70deab764c71abf7fa]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Where a person refers a matter to an interim orders panel under section 118(2)(b
 
 ## Annotations
 
-[^key-0535c8e761d17b70deab764c71abf7fa]: Commencement: [S. 124](https://www.legislation.gov.uk/anaw/2016/2/section/124) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-0535c8e761d17b70deab764c71abf7fa]: Commencement: [S. 124](https://www.legislation.gov.uk/anaw/2016/2/section/124) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

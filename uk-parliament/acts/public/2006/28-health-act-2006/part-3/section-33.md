@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Orders under s.60 of the Health Act 1999[^key-109acb0c3255b0f11e27d6c3c755614a]
+## 33. Orders under s.60 of the Health Act 1999[^c-109acb0c3255b0f11e27d6c3c755614a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In Schedule 3 to the Health Act 1999 (c. 8) (which makes further provision about
 
 ## Annotations
 
-[^key-109acb0c3255b0f11e27d6c3c755614a]: Commencement: S. 33 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 3](https://www.legislation.gov.uk/uksi/2006/2603/article/3)
+[^c-109acb0c3255b0f11e27d6c3c755614a]: Commencement: S. 33 in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 3](https://www.legislation.gov.uk/uksi/2006/2603/article/3)

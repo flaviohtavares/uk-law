@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Appeals against determinations[^key-3de1930493af6b9f45a60c9cf47f2a33]
+## 13. Appeals against determinations[^c-3de1930493af6b9f45a60c9cf47f2a33]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 1 (appeals against determinations) has effect.
 
 ## Annotations
 
-[^key-3de1930493af6b9f45a60c9cf47f2a33]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2012/19/section/13) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-3de1930493af6b9f45a60c9cf47f2a33]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2012/19/section/13) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

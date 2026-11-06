@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Amendment and Modification of statutory provisions[^key-95cdc38b308a2601e9252179ecd8aad8]
+## 37. Amendment and Modification of statutory provisions[^c-95cdc38b308a2601e9252179ecd8aad8]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Rookery South (Resource Recovery Facility) Order 2011 is to be amended for t
 
 ## Annotations
 
-[^key-95cdc38b308a2601e9252179ecd8aad8]: Commencement: Art. 37 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
+[^c-95cdc38b308a2601e9252179ecd8aad8]: Commencement: Art. 37 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)

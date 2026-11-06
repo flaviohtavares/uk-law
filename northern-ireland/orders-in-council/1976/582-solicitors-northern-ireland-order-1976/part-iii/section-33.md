@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Regulations as to keeping of accounts by solicitors[^key-6b025d6fd02bf0e7e54913ce9b53e10f]
+## 33. Regulations as to keeping of accounts by solicitors[^c-6b025d6fd02bf0e7e54913ce9b53e10f]
 
 *Extent: N.I.*
 
@@ -42,7 +42,7 @@ and such regulations shall not apply to a solicitor who holds an office to which
 
 ## Annotations
 
-[^key-6b025d6fd02bf0e7e54913ce9b53e10f]: Modification: [Art. 33](https://www.legislation.gov.uk/nisi/1976/582/article/33) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(i)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/i)
+[^c-6b025d6fd02bf0e7e54913ce9b53e10f]: Modification: [Art. 33](https://www.legislation.gov.uk/nisi/1976/582/article/33) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(i)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/i)
 
 [^c17113481]: Textual amendment: [1989 NI 14](https://www.legislation.gov.uk/1989/ni14)
 

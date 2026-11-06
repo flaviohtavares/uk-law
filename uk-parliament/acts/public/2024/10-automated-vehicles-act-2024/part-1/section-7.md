@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Transition demands[^key-688a723b9172a4f1d25016d1f84ed8a4]
+## 7. Transition demands[^c-688a723b9172a4f1d25016d1f84ed8a4]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-688a723b9172a4f1d25016d1f84ed8a4]: Commencement: S. 7 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-688a723b9172a4f1d25016d1f84ed8a4]: Commencement: S. 7 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

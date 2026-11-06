@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Recovery of costs of new connections[^key-c0e2ad47c5f3dc3824d307b4bab03a8e]
+## 43. Recovery of costs of new connections[^c-c0e2ad47c5f3dc3824d307b4bab03a8e]
 
 *Extent: E+W+S*
 
 (1) Where any apparatus of a public utility undertaker or of a public communications provider is removed under article 41 (statutory undertakers) any person who is the owner or occupier of premises to which a supply was given from that apparatus is entitled to recover from the undertaker compensation in respect of expenditure reasonably incurred by that person, in consequence of the removal, for the purpose of effecting a connection between the premises and any other apparatus from which a supply is given.
 
-(2) Paragraph (1) does not apply in the case of the removal of a public sewer but where such a sewer is removed under article 41 (statutory undertakers)[^key-daa781caa55e0786a69ca29b2e49d3c9], any person who is—
+(2) Paragraph (1) does not apply in the case of the removal of a public sewer but where such a sewer is removed under article 41 (statutory undertakers)[^c-daa781caa55e0786a69ca29b2e49d3c9], any person who is—
 
 - (a) the owner or occupier of premises the drains of which communicated with that sewer; or
 - (b) the owner of a private sewer which communicated with that sewer,
@@ -38,6 +38,6 @@ is entitled to recover from the undertaker compensation in respect of expenditur
 
 ## Annotations
 
-[^key-c0e2ad47c5f3dc3824d307b4bab03a8e]: Commencement: Art. 43 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
+[^c-c0e2ad47c5f3dc3824d307b4bab03a8e]: Commencement: Art. 43 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
 
-[^key-daa781caa55e0786a69ca29b2e49d3c9]: Textual amendment: Words in [art. 43(2)](https://www.legislation.gov.uk/uksi/2026/537/article/43/2) substituted (27.5.2026) by [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)
+[^c-daa781caa55e0786a69ca29b2e49d3c9]: Textual amendment: Words in [art. 43(2)](https://www.legislation.gov.uk/uksi/2026/537/article/43/2) substituted (27.5.2026) by [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)

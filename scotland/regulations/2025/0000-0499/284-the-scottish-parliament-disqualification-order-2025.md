@@ -54,19 +54,19 @@ In accordance with section 115(1) and paragraphs 1 and 2 of schedule 7 of that A
 
 Accordingly, His Majesty is pleased, by and with the advice of His Privy Council, to order as follows:
 
-## 1. Citation and commencement[^key-4d1e539142bd03ee2e70722e5a22e21b]
+## 1. Citation and commencement[^c-4d1e539142bd03ee2e70722e5a22e21b]
 
 This Order may be cited as the Scottish Parliament (Disqualification) Order 2025 and comes into force on the day after the day on which it is made.
 
-## 2. Specified office-holders[^key-aaaa452b885eaf2578cd9e7e516b9471]
+## 2. Specified office-holders[^c-aaaa452b885eaf2578cd9e7e516b9471]
 
 An office-holder of a description specified in Part 1 of the schedule is disqualified from being a member of the Scottish Parliament.
 
-## 3.[^key-fa733e1e580ae342d7d07d8c7fed289c]
+## 3.[^c-fa733e1e580ae342d7d07d8c7fed289c]
 
 An office-holder of a description specified in column 1 of Part 2 of the schedule is disqualified from being a member of the Scottish Parliament for any constituency specified in relation to that office-holder in column 2 of that Part of the schedule and for any region specified in relation to that office-holder in column 3 of that Part of the schedule.
 
-## 4. Revocation of the Scottish Parliament (Disqualification) Order 2020[^key-018338befa59ed3c624a8b9ba8f1733d]
+## 4. Revocation of the Scottish Parliament (Disqualification) Order 2020[^c-018338befa59ed3c624a8b9ba8f1733d]
 
 The Scottish Parliament (Disqualification) Order 2020[^f00003] is revoked.
 
@@ -78,7 +78,7 @@ Clerk of the Privy Council
 
 Articles 2 and 3
 
-### PART 1 — OFFICE-HOLDERS DISQUALIFIED FROM BEING A MEMBER OF THE SCOTTISH PARLIAMENT[^key-3d922f045b79b205fc33bddab7326665]
+### PART 1 — OFFICE-HOLDERS DISQUALIFIED FROM BEING A MEMBER OF THE SCOTTISH PARLIAMENT[^c-3d922f045b79b205fc33bddab7326665]
 
 Adjudicator appointed by the Commissioners for His Majesty’s Revenue and Customs.
 
@@ -264,7 +264,7 @@ Any member of an Industrial Court established in Northern Ireland.
 
 Any member of the Industrial Injuries Advisory Council.
 
-Any member of the Information Commission.[^key-454b3588fc1392b4dad14219b30b2eae]
+Any member of the Information Commission.[^c-454b3588fc1392b4dad14219b30b2eae]
 
 Any member of an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006[^f00013].
 
@@ -906,7 +906,7 @@ Independent monitor appointed under section 119B(2) of the Police Act 1997[^f000
 
 Independent reviewer of terrorism legislation appointed under section 36(1) of the Terrorism Act 2006[^f00065].
 
-[^key-c5356e5a6892afe074f6469b3bd2b0b8]...
+[^c-c5356e5a6892afe074f6469b3bd2b0b8]...
 
 Inspectors of burial, of cremation or of funeral directors in Scotland appointed under section 89 of the Burial and Cremation (Scotland) Act 2016[^f00066].
 
@@ -1170,7 +1170,7 @@ The Trustees, and the Director, of The Theatres Trust.
 
 Welsh Language Commissioner and Deputy Welsh Language Commissioner.
 
-### PART 2 — OFFICE-HOLDERS DISQUALIFIED FOR PARTICULAR CONSTITUENCIES AND REGIONS[^key-3336393d3db90aaab50e4345dd66818a]
+### PART 2 — OFFICE-HOLDERS DISQUALIFIED FOR PARTICULAR CONSTITUENCIES AND REGIONS[^c-3336393d3db90aaab50e4345dd66818a]
 
 | ***Column 1***<br>***Office-holders*** | ***Column 2***<br>***Constituencies*** | ***Column 3***<br>***Region*** |
 | --- | --- | --- |
@@ -1191,17 +1191,17 @@ The Order revokes and replaces the Scottish Parliament (Disqualification) Order 
 
 [^f00002]: Footnote: Section 115(1) and paragraphs 1 and 2 of schedule 7 have been modified by paragraph 5(2) of schedule 3 of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-4d1e539142bd03ee2e70722e5a22e21b]: Commencement: Art. 1 in force at 16.10.2025, see [art. 1](https://www.legislation.gov.uk/ssi/2025/284/article/1)
+[^c-4d1e539142bd03ee2e70722e5a22e21b]: Commencement: Art. 1 in force at 16.10.2025, see [art. 1](https://www.legislation.gov.uk/ssi/2025/284/article/1)
 
-[^key-aaaa452b885eaf2578cd9e7e516b9471]: Commencement: Art. 2 in force at 16.10.2025, see [art. 1](https://www.legislation.gov.uk/ssi/2025/284/article/1)
+[^c-aaaa452b885eaf2578cd9e7e516b9471]: Commencement: Art. 2 in force at 16.10.2025, see [art. 1](https://www.legislation.gov.uk/ssi/2025/284/article/1)
 
-[^key-fa733e1e580ae342d7d07d8c7fed289c]: Commencement: Art. 3 in force at 16.10.2025, see [art. 1](https://www.legislation.gov.uk/ssi/2025/284/article/1)
+[^c-fa733e1e580ae342d7d07d8c7fed289c]: Commencement: Art. 3 in force at 16.10.2025, see [art. 1](https://www.legislation.gov.uk/ssi/2025/284/article/1)
 
-[^key-018338befa59ed3c624a8b9ba8f1733d]: Commencement: Art. 4 in force at 16.10.2025, see [art. 1](https://www.legislation.gov.uk/ssi/2025/284/article/1)
+[^c-018338befa59ed3c624a8b9ba8f1733d]: Commencement: Art. 4 in force at 16.10.2025, see [art. 1](https://www.legislation.gov.uk/ssi/2025/284/article/1)
 
 [^f00003]: Footnote: [S.S.I. 2020/321](https://www.legislation.gov.uk/ssi/2020/321) as amended by [S.I. 2022/634](https://www.legislation.gov.uk/uksi/2022/634), [S.I. 2023/98](https://www.legislation.gov.uk/uksi/2023/98), and [S.I. 2023/368](https://www.legislation.gov.uk/uksi/2023/368).
 
-[^key-3d922f045b79b205fc33bddab7326665]: Commencement: Sch. Pt. 1 in force at 16.10.2025, see [art. 1](https://www.legislation.gov.uk/ssi/2025/284/article/1)
+[^c-3d922f045b79b205fc33bddab7326665]: Commencement: Sch. Pt. 1 in force at 16.10.2025, see [art. 1](https://www.legislation.gov.uk/ssi/2025/284/article/1)
 
 [^f00004]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31).
 
@@ -1221,7 +1221,7 @@ The Order revokes and replaces the Scottish Parliament (Disqualification) Order 
 
 [^f00012]: Footnote: [2014 asp 19](https://www.legislation.gov.uk/asp/2014/19).
 
-[^key-454b3588fc1392b4dad14219b30b2eae]: Textual amendment: Words in [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/284/schedule/part/1) inserted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 33(a)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/33/a); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-454b3588fc1392b4dad14219b30b2eae]: Textual amendment: Words in [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/284/schedule/part/1) inserted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 33(a)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/33/a); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
 [^f00013]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41). Chapter A3 was inserted by the section 19(2) of the Health and Care Act [2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31).
 
@@ -1329,7 +1329,7 @@ The Order revokes and replaces the Scottish Parliament (Disqualification) Order 
 
 [^f00065]: Footnote: [2006 c. 11](https://www.legislation.gov.uk/ukpga/2006/11).
 
-[^key-c5356e5a6892afe074f6469b3bd2b0b8]: Textual amendment: Words in [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/284/schedule/part/1) omitted (30.9.2026) by virtue of [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 33(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/33/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-c5356e5a6892afe074f6469b3bd2b0b8]: Textual amendment: Words in [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/284/schedule/part/1) omitted (30.9.2026) by virtue of [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 33(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/33/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
 [^f00066]: Footnote: [2016 asp 20](https://www.legislation.gov.uk/asp/2016/20).
 
@@ -1403,4 +1403,4 @@ The Order revokes and replaces the Scottish Parliament (Disqualification) Order 
 
 [^f00101]: Footnote: [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14).
 
-[^key-3336393d3db90aaab50e4345dd66818a]: Commencement: Sch. Pt. 2 in force at 16.10.2025, see [art. 1](https://www.legislation.gov.uk/ssi/2025/284/article/1)
+[^c-3336393d3db90aaab50e4345dd66818a]: Commencement: Sch. Pt. 2 in force at 16.10.2025, see [art. 1](https://www.legislation.gov.uk/ssi/2025/284/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3AAA. Conditions for the imposition of electronic monitoring requirements: children and young persons released on bail in extradition proceedings[^key-aaa0034dcb5f11ebec789cac623f64a8]
+## 3AAA. Conditions for the imposition of electronic monitoring requirements: children and young persons released on bail in extradition proceedings[^c-aaa0034dcb5f11ebec789cac623f64a8]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) The second condition is that—
 
-- (a) the conduct constituting the offence to which the extradition proceedings relate, or one or more of those offences, would, if committed in England and Wales, constitute a violent , sexual or terrorism[^key-e8854a598caf3869a1ab2cb83a19d915] offence or an offence punishable in the case of an adult with imprisonment for a term of fourteen years or more, or
+- (a) the conduct constituting the offence to which the extradition proceedings relate, or one or more of those offences, would, if committed in England and Wales, constitute a violent , sexual or terrorism[^c-e8854a598caf3869a1ab2cb83a19d915] offence or an offence punishable in the case of an adult with imprisonment for a term of fourteen years or more, or
 - (b) the offence or offences to which the extradition proceedings relate, together with any other imprisonable offences of which the child or young person has been convicted in any proceedings—
   - (i) amount, or
   - (ii) would, if the child or young person were convicted of that offence or those offences, amount,
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aaa0034dcb5f11ebec789cac623f64a8]: Textual amendment: S. 3AAA inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2012/10/schedule/11/paragraph/5); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/i)
+[^c-aaa0034dcb5f11ebec789cac623f64a8]: Textual amendment: S. 3AAA inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2012/10/schedule/11/paragraph/5); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/i)
 
-[^key-e8854a598caf3869a1ab2cb83a19d915]: Textual amendment: Words in s. 3AAA(3)(a) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 3(4)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/3/4) (with [s. 25(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/3)[(4)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/4))
+[^c-e8854a598caf3869a1ab2cb83a19d915]: Textual amendment: Words in s. 3AAA(3)(a) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 3(4)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/3/4) (with [s. 25(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/3)[(4)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/4))

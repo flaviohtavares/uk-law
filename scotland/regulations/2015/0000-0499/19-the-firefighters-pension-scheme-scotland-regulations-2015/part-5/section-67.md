@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Early payment of retirement pension to deferred member[^key-063f45c656ef55382cde5c1729bf6d38]
+## 67. Early payment of retirement pension to deferred member[^c-063f45c656ef55382cde5c1729bf6d38]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ A deferred member who has not reached deferred pension age is entitled to immedi
 
 ## Annotations
 
-[^key-063f45c656ef55382cde5c1729bf6d38]: Commencement: [Reg. 67](https://www.legislation.gov.uk/ssi/2015/19/regulation/67) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-063f45c656ef55382cde5c1729bf6d38]: Commencement: [Reg. 67](https://www.legislation.gov.uk/ssi/2015/19/regulation/67) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

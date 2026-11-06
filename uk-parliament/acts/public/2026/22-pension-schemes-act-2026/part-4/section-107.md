@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Validity of certain alterations to NI salary-related contracted-out pension schemes: wound up schemes and other special cases[^key-84391e72ecc696ffe82f2e98cddf795c]
+## 107. Validity of certain alterations to NI salary-related contracted-out pension schemes: wound up schemes and other special cases[^c-84391e72ecc696ffe82f2e98cddf795c]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84391e72ecc696ffe82f2e98cddf795c]: Commencement: S. 107 in force at Royal Assent, see [s. 133(8)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/8)
+[^c-84391e72ecc696ffe82f2e98cddf795c]: Commencement: S. 107 in force at Royal Assent, see [s. 133(8)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/8)

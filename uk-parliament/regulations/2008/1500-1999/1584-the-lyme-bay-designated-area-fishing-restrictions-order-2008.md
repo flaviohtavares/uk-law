@@ -72,7 +72,7 @@ This Order may be cited as the Lyme Bay Designated Area (Fishing Restrictions) O
 
 (1) For the purpose of enforcing this Order, a British sea‑fishery officer has the powers set out in this article in relation to a fishing boat to which the prohibition in article 2 applies.
 
-(2) A British sea‑fishery officer may go on board the boat, with or without persons assigned to assist in that officer’s duties, and may require it to stop and do anything else that will facilitate boarding [^key-d431a8149ae69685869d18ad5daec413]....
+(2) A British sea‑fishery officer may go on board the boat, with or without persons assigned to assist in that officer’s duties, and may require it to stop and do anything else that will facilitate boarding [^c-d431a8149ae69685869d18ad5daec413]....
 
 (3) A British sea‑fishery officer may require the attendance of the master and other persons on board and may make any examination and inquiry as appears to the officer to be necessary for the purpose of enforcing this Order, and in particular may—
 
@@ -117,4 +117,4 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00003]: Footnote: A plan of the area, for illustrative purposes only, is published on the Defra website at www.defra.gov.uk.
 
-[^key-d431a8149ae69685869d18ad5daec413]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2008/1584/article/3/2) omitted (31.7.2009) by virtue of [Lyme Bay Designated Area (Fishing Restrictions) (Amendment) Order 2009 (S.I. 2009/1675)](https://www.legislation.gov.uk/uksi/2009/1675), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1675/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/1675/article/2/2)
+[^c-d431a8149ae69685869d18ad5daec413]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2008/1584/article/3/2) omitted (31.7.2009) by virtue of [Lyme Bay Designated Area (Fishing Restrictions) (Amendment) Order 2009 (S.I. 2009/1675)](https://www.legislation.gov.uk/uksi/2009/1675), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1675/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/1675/article/2/2)

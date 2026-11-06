@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Construction and maintenance of new or altered means of access[^key-4d38fd61a31d389e66019c0bf52428d9]
+## 11. Construction and maintenance of new or altered means of access[^c-4d38fd61a31d389e66019c0bf52428d9]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d38fd61a31d389e66019c0bf52428d9]: Commencement: Art. 11 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
+[^c-4d38fd61a31d389e66019c0bf52428d9]: Commencement: Art. 11 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)

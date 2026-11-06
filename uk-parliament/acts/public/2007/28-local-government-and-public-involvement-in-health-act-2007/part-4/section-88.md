@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Existing parishes under review[^key-e57feffb0d85672d64e9cd0273ee888b][^key-8ab9bba8a740b60865e7f0a1d84366f0][^key-5e5f9a880cff82f912a6361ae5313b33]
+## 88. Existing parishes under review[^c-e57feffb0d85672d64e9cd0273ee888b][^c-8ab9bba8a740b60865e7f0a1d84366f0][^c-5e5f9a880cff82f912a6361ae5313b33]
 
 *Extent: E+W*
 
@@ -47,8 +47,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e57feffb0d85672d64e9cd0273ee888b]: Commencement: S. 88 in force at 13.2.2008 by [S.I. 2008/337](https://www.legislation.gov.uk/uksi/2008/337), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/337/article/2/b)
+[^c-e57feffb0d85672d64e9cd0273ee888b]: Commencement: S. 88 in force at 13.2.2008 by [S.I. 2008/337](https://www.legislation.gov.uk/uksi/2008/337), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/337/article/2/b)
 
-[^key-8ab9bba8a740b60865e7f0a1d84366f0]: Modification: [S. 88](https://www.legislation.gov.uk/ukpga/2007/28/section/88): functions made exercisable (18.3.2022) by [The North Yorkshire (Structural Changes) Order 2022 (S.I. 2022/328)](https://www.legislation.gov.uk/uksi/2022/328), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/328/article/1/1), [7(3)(f)](https://www.legislation.gov.uk/uksi/2022/328/article/7/3/f)
+[^c-8ab9bba8a740b60865e7f0a1d84366f0]: Modification: [S. 88](https://www.legislation.gov.uk/ukpga/2007/28/section/88): functions made exercisable (18.3.2022) by [The North Yorkshire (Structural Changes) Order 2022 (S.I. 2022/328)](https://www.legislation.gov.uk/uksi/2022/328), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/328/article/1/1), [7(3)(f)](https://www.legislation.gov.uk/uksi/2022/328/article/7/3/f)
 
-[^key-5e5f9a880cff82f912a6361ae5313b33]: Modification: [S. 88](https://www.legislation.gov.uk/ukpga/2007/28/section/88) applied (18.3.2022) by [The Cumbria (Structural Changes) Order 2022 (S.I. 2022/331)](https://www.legislation.gov.uk/uksi/2022/331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/331/article/1/1), [17(e)](https://www.legislation.gov.uk/uksi/2022/331/article/17/e)
+[^c-5e5f9a880cff82f912a6361ae5313b33]: Modification: [S. 88](https://www.legislation.gov.uk/ukpga/2007/28/section/88) applied (18.3.2022) by [The Cumbria (Structural Changes) Order 2022 (S.I. 2022/331)](https://www.legislation.gov.uk/uksi/2022/331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/331/article/1/1), [17(e)](https://www.legislation.gov.uk/uksi/2022/331/article/17/e)

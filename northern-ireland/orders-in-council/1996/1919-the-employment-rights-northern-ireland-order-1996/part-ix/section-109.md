@@ -38,10 +38,10 @@ summary: ''
 - (a) seniority, pension rights and similar rights;
 - (b) terms and conditions of employment on return.
 
-(5)[^key-afbf6979597a2e8f3e3c403d20392abb] In this Article, “**prescribed**” means prescribed by the regulations made under Article 108.
+(5)[^c-afbf6979597a2e8f3e3c403d20392abb] In this Article, “**prescribed**” means prescribed by the regulations made under Article 108.
 
 ## Annotations
 
 [^c22340171]: Textual amendment: [1999 NI 9](https://www.legislation.gov.uk/nisi/1999)
 
-[^key-afbf6979597a2e8f3e3c403d20392abb]: Textual amendment: [Art. 109(5)](https://www.legislation.gov.uk/nisi/1996/1919/article/109/5) added (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(8)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/8); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/d)
+[^c-afbf6979597a2e8f3e3c403d20392abb]: Textual amendment: [Art. 109(5)](https://www.legislation.gov.uk/nisi/1996/1919/article/109/5) added (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(8)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/8); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/d)

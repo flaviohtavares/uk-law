@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 159. Modifications of Article 4 of the Order[^key-32d10b7f38994980c760e4cbf4805f7a]
+## 159. Modifications of Article 4 of the Order[^c-32d10b7f38994980c760e4cbf4805f7a]
 
 *Extent: N.I.*
 
@@ -33,6 +33,6 @@ Article 4 of the Order (the contribution-based conditions) shall apply to share 
 
 ## Annotations
 
-[^key-32d10b7f38994980c760e4cbf4805f7a]: Commencement: Reg. 159 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-32d10b7f38994980c760e4cbf4805f7a]: Commencement: Reg. 159 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00122]: Footnote: [S.R. 1979 No. 186](https://www.legislation.gov.uk/nisr/1979/186); relevant amending regulations are [S.R. 1996 No. 58](https://www.legislation.gov.uk/nisr/1996/58)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4[^key-f663c38b8df5fc5250daaf6b01d70a58]
+## SCHEDULE 4[^c-f663c38b8df5fc5250daaf6b01d70a58]
 
 *Extent: E+W+S*
 
@@ -38,7 +38,7 @@ Rates of benefits, etc
 </tbody>
 </table>
 
-### PART II — BEREAVEMENT PAYMENT[^key-708b196fb1911130953f23bcc9be4561]
+### PART II — BEREAVEMENT PAYMENT[^c-708b196fb1911130953f23bcc9be4561]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -64,7 +64,7 @@ Rates of benefits, etc
 </tbody>
 </table>
 
-[^key-8785c622abc6ffad7304aa75b2942e68]
+[^c-8785c622abc6ffad7304aa75b2942e68]
 
 ### PART IV — INCREASES FOR DEPENDANTS
 
@@ -125,10 +125,10 @@ Rates of benefits, etc
 
 ## Annotations
 
-[^key-f663c38b8df5fc5250daaf6b01d70a58]: Textual amendment: Sums in Sch. 4 amended and confirmed (except for Sch. 4 Pt. 3 para. 5 and with exceptions for S. in Sch. 4 Pts. 3-5 as set out in art. 1(2) of the amending S.I.) (1.4.2026 for specified purposes, 6.4.2026 in so far as not already in force, and with effect in accordance with arts. 1(4)(5), 7 of the amending S.I.) by [The Social Security Benefits Up Rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(b)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/b), [3](https://www.legislation.gov.uk/uksi/2026/148/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/148/schedule/1)
+[^c-f663c38b8df5fc5250daaf6b01d70a58]: Textual amendment: Sums in Sch. 4 amended and confirmed (except for Sch. 4 Pt. 3 para. 5 and with exceptions for S. in Sch. 4 Pts. 3-5 as set out in art. 1(2) of the amending S.I.) (1.4.2026 for specified purposes, 6.4.2026 in so far as not already in force, and with effect in accordance with arts. 1(4)(5), 7 of the amending S.I.) by [The Social Security Benefits Up Rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(b)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/b), [3](https://www.legislation.gov.uk/uksi/2026/148/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/148/schedule/1)
 
     Specified sums in Sch. 4 Pts. 3-5 amended and confirmed (S.) (6.4.2026 for specified purposes, 9.4.2026 in so far as not already in force and with effect in accordance with arts. 2-6 of the amending S.S.I.) by [The Social Security Up-rating (Scotland) Order 2026 (S.S.I. 2026/171)](https://www.legislation.gov.uk/ssi/2026/171), [arts. 1(2)-(4)](https://www.legislation.gov.uk/ssi/2026/171/article/1/made), [2-6](https://www.legislation.gov.uk/ssi/2026/171/article/2/made), [sch.](https://www.legislation.gov.uk/ssi/2026/171/schedule/made)
 
-[^key-708b196fb1911130953f23bcc9be4561]: Textual amendment: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/ukpga/1992/4/schedule/4/part/2) omitted (6.4.2017) by virtue of [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1), [Sch. 16 para. 19](https://www.legislation.gov.uk/ukpga/2014/19/schedule/16/paragraph/19); [S.I. 2017/297](https://www.legislation.gov.uk/uksi/2017/297), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/297/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2017/297/article/4), [5](https://www.legislation.gov.uk/uksi/2017/297/article/5))
+[^c-708b196fb1911130953f23bcc9be4561]: Textual amendment: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/ukpga/1992/4/schedule/4/part/2) omitted (6.4.2017) by virtue of [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1), [Sch. 16 para. 19](https://www.legislation.gov.uk/ukpga/2014/19/schedule/16/paragraph/19); [S.I. 2017/297](https://www.legislation.gov.uk/uksi/2017/297), [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/297/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2017/297/article/4), [5](https://www.legislation.gov.uk/uksi/2017/297/article/5))
 
-[^key-8785c622abc6ffad7304aa75b2942e68]: Textual amendment: Sum in [Sch. 4 Pt. III para. 5](https://www.legislation.gov.uk/ukpga/1992/4/schedule/4/part/III/paragraph/5) substituted (6.4.2026) by [The Child Benefit and Guardian’s Allowance Up-rating Order 2026 (S.I. 2026/232)](https://www.legislation.gov.uk/uksi/2026/232), [arts. 1](https://www.legislation.gov.uk/uksi/2026/232/article/1), [3](https://www.legislation.gov.uk/uksi/2026/232/article/3)
+[^c-8785c622abc6ffad7304aa75b2942e68]: Textual amendment: Sum in [Sch. 4 Pt. III para. 5](https://www.legislation.gov.uk/ukpga/1992/4/schedule/4/part/III/paragraph/5) substituted (6.4.2026) by [The Child Benefit and Guardian’s Allowance Up-rating Order 2026 (S.I. 2026/232)](https://www.legislation.gov.uk/uksi/2026/232), [arts. 1](https://www.legislation.gov.uk/uksi/2026/232/article/1), [3](https://www.legislation.gov.uk/uksi/2026/232/article/3)

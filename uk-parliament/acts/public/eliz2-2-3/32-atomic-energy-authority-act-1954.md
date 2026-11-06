@@ -69,7 +69,7 @@ An Act to provide for the setting up of an Atomic Energy Authority for the Unite
 - (a) to produce, use and dispose of atomic energy and carry out research into any matters connected therewith;
 - (b) to manufacture or otherwise produce, buy or otherwise acquire, store and transport any articles which in the opinion of the Authority are, or are likely to be, required for or in connection with the production or use of atomic energy or such research as aforesaid, and to dispose of any articles manufactured, produced, bought or acquired by them;
 - (c) to manufacture or otherwise produce, buy or otherwise acquire, treat, store, transport and dispose of any radioactive substances;
-- (d)[^key-b244b5023e43de332ad850e0d070ad53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-b244b5023e43de332ad850e0d070ad53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) to make arrangements with universities and other institutions or persons for the conduct of research into matters connected with atomic energy or radioactive substances and, with the approval of the Lord President of the Council and the Treasury, to make grants or loans to universities and other institutions or persons engaged in the production or use of atomic energy or radioactive substances or in research into matters connected with atomic energy or radioactive substances;
 - (f) to distribute information relating to, and educate and train persons in matters connected with, atomic energy or radioactive substances:
 
@@ -122,7 +122,7 @@ Provided that the Authority may be authorised under this subsection to purchase 
 
 (5) Section 4 of the Building Act 1984[^c6192661] (which exempts from building byelaws buildings of statutory undertakers other than houses, offices and showrooms) shall apply in relation to the Authority as it applies in relation to statutory undertakers.
 
-(6) No requirements or restrictions imposed [^key-0a0c986c65858184212adc4a71e8827e]... by or under the corresponding provisions of any local Act, as to the erection, placing or making of buildings, erections or excavations, or the reconstruction of or alterations to buildings, and no requirement imposed by or under any enactment or by virtue of the common law as to the submission of plans and specifications and the giving of notices to a local authority or the presentation of a petition to a dean of guild court or any body exercising the functions of a dean of guild court, shall apply in relation to any building in Scotland belonging to or in the occupation of the Authority:
+(6) No requirements or restrictions imposed [^c-0a0c986c65858184212adc4a71e8827e]... by or under the corresponding provisions of any local Act, as to the erection, placing or making of buildings, erections or excavations, or the reconstruction of or alterations to buildings, and no requirement imposed by or under any enactment or by virtue of the common law as to the submission of plans and specifications and the giving of notices to a local authority or the presentation of a petition to a dean of guild court or any body exercising the functions of a dean of guild court, shall apply in relation to any building in Scotland belonging to or in the occupation of the Authority:
 
 Provided that the exemption conferred by this subsection shall not extend to dwelling-houses.
 
@@ -142,7 +142,7 @@ Provided that the Authority may be authorised under this subsection to purchase 
 
 (5) Section seventy-one of the [^c6192761]Public Health Act 1936 (which exempts from building byelaws buildings of statutory undertakers other than houses, offices and showrooms) shall apply in relation to the Authority as it applies in relation to statutory undertakers.
 
-(6)[^c6192771] No requirements or restrictions imposed [^key-ba517f908ae7dcc2a0113f8a60091e18]... by or under the corresponding provisions of any local Act, as to the erection, placing or making of buildings, erections or excavations, or the reconstruction of or alterations to buildings, and no requirement imposed by or under any enactment or by virtue of the common law as to the submission of plans and specifications and the giving of notices to a local authority or the presentation of a petition to a dean of guild court or any body exercising the functions of a dean of guild court, shall apply in relation to any building in Scotland belonging to or in the occupation of the Authority:
+(6)[^c6192771] No requirements or restrictions imposed [^c-ba517f908ae7dcc2a0113f8a60091e18]... by or under the corresponding provisions of any local Act, as to the erection, placing or making of buildings, erections or excavations, or the reconstruction of or alterations to buildings, and no requirement imposed by or under any enactment or by virtue of the common law as to the submission of plans and specifications and the giving of notices to a local authority or the presentation of a petition to a dean of guild court or any body exercising the functions of a dean of guild court, shall apply in relation to any building in Scotland belonging to or in the occupation of the Authority:
 
 Provided that the exemption conferred by this subsection shall not extend to dwelling-houses.
 
@@ -152,20 +152,20 @@ Provided that the exemption conferred by this subsection shall not extend to dwe
 
 (2)[^c6193071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Where any place belonging to or used for the purposes of the Authority is a prohibited place within the meaning of Part 1 of the National Security Act 2023, no person other than—[^key-89051b7421aaca088c0dc09b40717c68]
+(3) Where any place belonging to or used for the purposes of the Authority is a prohibited place within the meaning of Part 1 of the National Security Act 2023, no person other than—[^c-89051b7421aaca088c0dc09b40717c68]
 
 - (a) a constable acting in the execution of his duty as such; or
 - (b) an officer of customs and excise or inland revenue, acting in the execution of his duty as such; or[^c6193091]
-- (bb) a person designated as an inspector of the International Atomic Energy Agency under article 85 of the Agreement made on 6th September 1976 for the application of Safeguards in the United Kingdom in connection with the Treaty on the Non-Proliferation of Nuclear Weapons (Cmnd. 6730) or under Article 11 of the Additional Protocol (within the meaning of the Nuclear Safeguards Act 2000)[^key-2605c04c4e1cdbb9aa9a2162e6d93f52]
+- (bb) a person designated as an inspector of the International Atomic Energy Agency under article 85 of the Agreement made on 6th September 1976 for the application of Safeguards in the United Kingdom in connection with the Treaty on the Non-Proliferation of Nuclear Weapons (Cmnd. 6730) or under Article 11 of the Additional Protocol (within the meaning of the Nuclear Safeguards Act 2000)[^c-2605c04c4e1cdbb9aa9a2162e6d93f52]
 - (c) an officer of any government department specially authorised in that behalf by or on behalf of a Minister of the Crown or a member of staff of the Scottish Administration specially authorised in that behalf by or on behalf of the Scottish Ministers,[^c6193101],
 
-shall be entitled to exercise any right of entry (whether arising by virtue of any statutory provision or otherwise) upon that place[^key-e499ef1698d5ec5e4d6b3bc371000730] except with the consent of the Authority and in accordance with any conditions imposed by them:
+shall be entitled to exercise any right of entry (whether arising by virtue of any statutory provision or otherwise) upon that place[^c-e499ef1698d5ec5e4d6b3bc371000730] except with the consent of the Authority and in accordance with any conditions imposed by them:
 
 Provided that any person aggrieved by a refusal by the Authority to consent to, or by conditions imposed on, the exercise of any such right of entry may apply to the Lord President of the Council who may, if he thinks fit, himself authorise the exercise of the right subject to such conditions, if any, as he may think fit to impose.
 
 (4) The enactments specified in the Third Schedule to this Act shall have effect subject to the provisions set out in that Schedule for modifying or adapting those enactments consequentially on the establishment of the Authority.
 
-(5) It is hereby declared that, save as otherwise expressly provided in this Act, the Authority are not to be treated for the purposes of the enactments and rules of law relating to the privileges of the Crown as a body exercising functions on behalf of the Crown [^key-cea60be03f9eacbb3e1c3873a034138f]...
+(5) It is hereby declared that, save as otherwise expressly provided in this Act, the Authority are not to be treated for the purposes of the enactments and rules of law relating to the privileges of the Crown as a body exercising functions on behalf of the Crown [^c-cea60be03f9eacbb3e1c3873a034138f]...
 
 ## 7. Machinery for settling terms and conditions of employment of staff etc.
 
@@ -201,7 +201,7 @@ Provided that any person aggrieved by a refusal by the Authority to consent to, 
 
 (4) Subsection (2) of section five shall not apply.
 
-(5)[^key-35216184d174e2cc09ba921483d6e586] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-35216184d174e2cc09ba921483d6e586] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) For subsections (5) and (6) of section five, there shall be substituted the following subsection—
 
@@ -209,7 +209,7 @@ Provided that any person aggrieved by a refusal by the Authority to consent to, 
 
 (7) The reference in subsection (2) of section seven of this Act to the Minister of Labour and National Service shall, in relation to any agreement affecting employment in Northern Ireland, be construed as including a reference to the Minister of Labour and National Insurance for Northern Ireland.
 
-(8)[^key-dd987b02d94c8a16d26616a3d1467c69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-dd987b02d94c8a16d26616a3d1467c69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) For the reference in the Third Schedule to the [^c6193291]Factories Acts 1937 [^c6193301] and 1948, there shall be substituted a reference to the [^c6193311]Factories Acts (Northern Ireland) 1938 [^c6193321] and 1949.
 
@@ -227,7 +227,7 @@ SCHEDULES
 
 **3.** The quorum of the Authority shall be three or such number, not being less than three, as the Authority may from time to time determine.
 
-**4.**[^key-84ab1b82e0dc6292ab1535f90bfa7e62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-84ab1b82e0dc6292ab1535f90bfa7e62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **5.** (1) A member of the Authority who is in any way directly or indirectly interested in a contract made or proposed to be made by the Authority shall, as soon as possible after the relevant circumstances have come to his knowledge, disclose the nature of his interest at a meeting of the Authority.
 
@@ -243,7 +243,7 @@ SCHEDULES
 (2)[^c6193351] The Authority shall—
 
 - (a) pay to their officers and other persons employed by them such remuneration as the Authority may determine; and
-- (b)[^key-48515334a1cc58947ce5fe5d01a99c51][^key-09abac00e37ab4b721bef9adaa0a15f2] as regards any officers or persons employed in whose case it may be determined by the Authority with the approval of the Lord President of the Council so to do, pay to or in respect of them such pensions, or provide and maintain for them such pension schemes (whether contributory or not), as may be so determined.
+- (b)[^c-48515334a1cc58947ce5fe5d01a99c51][^c-09abac00e37ab4b721bef9adaa0a15f2] as regards any officers or persons employed in whose case it may be determined by the Authority with the approval of the Lord President of the Council so to do, pay to or in respect of them such pensions, or provide and maintain for them such pension schemes (whether contributory or not), as may be so determined.
 
 (3)[^c6193351] Where any officer of or person employed by the Authority, being a participant in any pension scheme applicable to his office or employment, becomes a member of the Authority, he may be treated for the purposes of the pension scheme as if his service as a member of the Authority were service as a officer of or person employed by the Authority, and his rights under the scheme shall not be affected by any provision of this Act which requires that the pensions or payments towards the provision of pensions to be paid or made in the case of members of the Authority shall be determined by the Lord President of the Council with the approval of the Treasury.
 
@@ -265,7 +265,7 @@ Provided that this paragraph shall not apply to any property, rights or liabilit
 
 **2.** Any instrument shall, so far as may be necessary for or in consequence of the transfer effected by paragraph 1 of this Schedule, have effect as if references to, or which are to be construed as references to, the Lord President of the Council or any department or organisation maintained by him for the purposes of his functions under the [^c6193391]Atomic Energy Act 1946 and the [^c6193401]Radioactive Substances Act 1948 were or, as the case may require, included references to the Authority and their organisation.
 
-**3.**[^key-a5487314dd15d1d513e149cf6f0d7899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a5487314dd15d1d513e149cf6f0d7899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.** A certificate issued by the Lord President of the Council that any property vested in the Lord President of the Council immediately before the appointed day was or was not transferred to the Authority by paragraph 1 of this Schedule shall be conclusive evidence that that property was or was not so transferred.
 
@@ -275,7 +275,7 @@ Sections 6, 9.
 
 ### The Atomic Energy Act 1946
 
-[^key-258a359c9a24089f93c298474236e1d4]...
+[^c-258a359c9a24089f93c298474236e1d4]...
 
 Sections ten and eleven shall not apply to anything done by or to the Authority.
 
@@ -283,15 +283,15 @@ In section twelve, in subsection (2), after the word “inspect” there shall b
 
 In section thirteen, after the words “the Minister” there shall be inserted the words “or the United Kingdom Atomic Energy Authority”.
 
-[^key-c5fe9d32f0cd2aed9955cc161d83ded8]...
+[^c-c5fe9d32f0cd2aed9955cc161d83ded8]...
 
-[^key-6f242a4748fd9b5fe576754f57b00e4d]...
+[^c-6f242a4748fd9b5fe576754f57b00e4d]...
 
 ### Enactments relating to Official Secrets and Protection of Property
 
 . . . [^c6193421]
 
-[^key-e055a77cd4fd98246d3db85e7e046e22] . . .
+[^c-e055a77cd4fd98246d3db85e7e046e22] . . .
 
 ### Other Enactments
 
@@ -337,7 +337,7 @@ In subsection (2) of section forty-six of the [^c6193551]Patents Act 1949 after 
 
 [^c6192301]: Modification: S. 2(2) extended by [Science and Technology Act 1965 (c. 4)](https://www.legislation.gov.uk/ukpga/1965/4), [s. 4(1)](https://www.legislation.gov.uk/ukpga/1965/4/section/4/1), [Radiological Protection Act 1970 (c. 46)](https://www.legislation.gov.uk/ukpga/1970/46), [s. 3(2)](https://www.legislation.gov.uk/ukpga/1970/46/section/3/2) and [Control of Pollution Act 1974 (c. 40)](https://www.legislation.gov.uk/ukpga/1974/40), [s. 101](https://www.legislation.gov.uk/ukpga/1974/40/section/101); restricted by [Atomic Energy Authority (Weapons Group) Act 1973 (c. 4)](https://www.legislation.gov.uk/ukpga/1973/4), [s. 6(1)](https://www.legislation.gov.uk/ukpga/1973/4/section/6/1)
 
-[^key-b244b5023e43de332ad850e0d070ad53]: Textual amendment: S. 2(2)(d) repealed (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-b244b5023e43de332ad850e0d070ad53]: Textual amendment: S. 2(2)(d) repealed (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
 [^c6192311]: Modification: Functions of Minister of Supply under this Act now exercisable by Secretary of State: 1959/1768 (1959 I, p. 1793), 1967/155, 1970/1537 and 1971/719
 
@@ -375,7 +375,7 @@ In subsection (2) of section forty-six of the [^c6193551]Patents Act 1949 after 
 
 [^c6192661]: Textual amendment: Words in s. 4 substituted (E.W.) (1.12.1984) by [Building Act 1984 (c. 55, SIF 15)](https://www.legislation.gov.uk/ukpga/1984/55), [s. 133(1)](https://www.legislation.gov.uk/ukpga/1984/55/section/133/1), [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/1984/55/schedule/6/paragraph/4)
 
-[^key-0a0c986c65858184212adc4a71e8827e]: Textual amendment: Words in s. 5(6) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-0a0c986c65858184212adc4a71e8827e]: Textual amendment: Words in s. 5(6) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
 
 [^c6192691]: Extent: This version of this provision extends to Scotland and Northern Ireland only; a separate version has been created for England and Wales only.
 
@@ -393,21 +393,21 @@ In subsection (2) of section forty-six of the [^c6193551]Patents Act 1949 after 
 
 [^c6192771]: Modification: Dean of guild courts abolished by [Local Government (Scotland) Act 1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), [s. 227](https://www.legislation.gov.uk/ukpga/1973/65/section/227) and, unless otherwise provided, functions thereof now exercisable by authority responsible for building control in the area concerned
 
-[^key-ba517f908ae7dcc2a0113f8a60091e18]: Textual amendment: Words in s. 5(6) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-ba517f908ae7dcc2a0113f8a60091e18]: Textual amendment: Words in s. 5(6) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
 
 [^c6193071]: Textual amendment: S. 6(2) repealed with savings by [Income and Corporation Taxes Act 1970 (c. 10)](https://www.legislation.gov.uk/ukpga/1970/10), [ss. 538](https://www.legislation.gov.uk/ukpga/1970/10/section/538), [539](https://www.legislation.gov.uk/ukpga/1970/10/section/539), [Sch. 16](https://www.legislation.gov.uk/ukpga/1970/10/schedule/16)
 
-[^key-89051b7421aaca088c0dc09b40717c68]: Textual amendment: Words in [s. 6(3)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/32/section/6/3) substituted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/2/a)
+[^c-89051b7421aaca088c0dc09b40717c68]: Textual amendment: Words in [s. 6(3)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/32/section/6/3) substituted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/2/a)
 
 [^c6193091]: Textual amendment: S. 6(3)(*bb*) and the word “or” immediately preceding it added by [Nuclear Safeguards and Electricity (Finance) Act 1978 (c. 25, SIF 8)](https://www.legislation.gov.uk/ukpga/1978/25), [s. 2(3)](https://www.legislation.gov.uk/ukpga/1978/25/section/2/3)(*a*)
 
-[^key-2605c04c4e1cdbb9aa9a2162e6d93f52]: Textual amendment: Words in s. 6(3)(bb) inserted (1.5.2004) by [Nuclear Safeguards Act 2000 (c. 5)](https://www.legislation.gov.uk/ukpga/2000/5), [ss. 11(1)](https://www.legislation.gov.uk/ukpga/2000/5/section/11/1), [12(2)](https://www.legislation.gov.uk/ukpga/2000/5/section/12/2) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2000/5/section/12/3)); [S.I. 2004/1242](https://www.legislation.gov.uk/uksi/2004/1242), [arts. 2](https://www.legislation.gov.uk/uksi/2004/1242/article/2), [3](https://www.legislation.gov.uk/uksi/2004/1242/article/3)
+[^c-2605c04c4e1cdbb9aa9a2162e6d93f52]: Textual amendment: Words in s. 6(3)(bb) inserted (1.5.2004) by [Nuclear Safeguards Act 2000 (c. 5)](https://www.legislation.gov.uk/ukpga/2000/5), [ss. 11(1)](https://www.legislation.gov.uk/ukpga/2000/5/section/11/1), [12(2)](https://www.legislation.gov.uk/ukpga/2000/5/section/12/2) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2000/5/section/12/3)); [S.I. 2004/1242](https://www.legislation.gov.uk/uksi/2004/1242), [arts. 2](https://www.legislation.gov.uk/uksi/2004/1242/article/2), [3](https://www.legislation.gov.uk/uksi/2004/1242/article/3)
 
 [^c6193101]: Textual amendment: Words in s. 6(3)(c) added (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [art. 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 28](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/28) (with [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)).
 
-[^key-e499ef1698d5ec5e4d6b3bc371000730]: Textual amendment: Words in [s. 6(3)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/32/section/6/3) substituted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/2/b)
+[^c-e499ef1698d5ec5e4d6b3bc371000730]: Textual amendment: Words in [s. 6(3)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/32/section/6/3) substituted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/2/b)
 
-[^key-cea60be03f9eacbb3e1c3873a034138f]: Textual amendment: Words in s. 6(5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-cea60be03f9eacbb3e1c3873a034138f]: Textual amendment: Words in s. 6(5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
 [^c6193201]: Modification: Functions of Minister of Labour and National Service now exercisable by Secretary of State: [S.I. 1959/1769](https://www.legislation.gov.uk/uksi/1959/1769) (1959 I, p. 1735), 1968/729 and 1970/1537
 
@@ -421,9 +421,9 @@ In subsection (2) of section forty-six of the [^c6193551]Patents Act 1949 after 
 
 [^c6193251]: Textual amendment: Words substituted by [Acquisition of Land Act 1981 (c. 67, SIF 28:1)](https://www.legislation.gov.uk/ukpga/1981/67), [s. 34](https://www.legislation.gov.uk/ukpga/1981/67/section/34), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/1981/67/schedule/4/paragraph/1) Table (subject to transitional savings in Sch. 5)
 
-[^key-35216184d174e2cc09ba921483d6e586]: Textual amendment: S. 9(5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-35216184d174e2cc09ba921483d6e586]: Textual amendment: S. 9(5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-dd987b02d94c8a16d26616a3d1467c69]: Textual amendment: S. 9(8) repealed (1.4.2005) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+[^c-dd987b02d94c8a16d26616a3d1467c69]: Textual amendment: S. 9(8) repealed (1.4.2005) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
 
 [^c6193291]: Marginal citation: [1937 c. 67](https://www.legislation.gov.uk/ukpga/1937/67).
 
@@ -437,13 +437,13 @@ In subsection (2) of section forty-six of the [^c6193551]Patents Act 1949 after 
 
 [^c6193341]: Marginal citation: [1948 c. 37](https://www.legislation.gov.uk/ukpga/1948/37).
 
-[^key-84ab1b82e0dc6292ab1535f90bfa7e62]: Textual amendment: [Para. 4](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/32/schedule/FIRST/paragraph/4) repealed (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-84ab1b82e0dc6292ab1535f90bfa7e62]: Textual amendment: [Para. 4](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/32/schedule/FIRST/paragraph/4) repealed (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
 [^c6193351]: Modification: Para. 7(2) extended by [Radiological Protection Act 1970 (c. 46)](https://www.legislation.gov.uk/ukpga/1970/46), [s. 2(3)](https://www.legislation.gov.uk/ukpga/1970/46/section/2/3), [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/ukpga/1970/46/schedule/1/paragraph/13/3); Functions of Treasury under para. 7(3) now again exercisable by Treasury: [S.I. 1968/1656](https://www.legislation.gov.uk/uksi/1968/1656) and 1981/1670, art. 2(1)(*c*)
 
-[^key-48515334a1cc58947ce5fe5d01a99c51]: Modification: Para. 7(2)(b) modified (27.7.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2004/20/schedule/1/paragraph/6); [S.I. 2004/1973](https://www.legislation.gov.uk/uksi/2004/1973), [art. 2](https://www.legislation.gov.uk/uksi/2004/1973/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/1973/schedule)
+[^c-48515334a1cc58947ce5fe5d01a99c51]: Modification: Para. 7(2)(b) modified (27.7.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2004/20/schedule/1/paragraph/6); [S.I. 2004/1973](https://www.legislation.gov.uk/uksi/2004/1973), [art. 2](https://www.legislation.gov.uk/uksi/2004/1973/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/1973/schedule)
 
-[^key-09abac00e37ab4b721bef9adaa0a15f2]: Modification: Para. 7(2)(b) extended (E.W.S.) (1.4.2005) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 10 para. 7(1)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/7/1); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+[^c-09abac00e37ab4b721bef9adaa0a15f2]: Modification: Para. 7(2)(b) extended (E.W.S.) (1.4.2005) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 10 para. 7(1)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/10/paragraph/7/1); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
 
 [^c6193371]: Marginal citation: [1946 c. 80](https://www.legislation.gov.uk/ukpga/1946/80).
 
@@ -453,19 +453,19 @@ In subsection (2) of section forty-six of the [^c6193551]Patents Act 1949 after 
 
 [^c6193401]: Marginal citation: [1948 c. 37](https://www.legislation.gov.uk/ukpga/1948/37).
 
-[^key-a5487314dd15d1d513e149cf6f0d7899]: Textual amendment: [Sch. SECOND para. 3](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/32/schedule/SECOND/paragraph/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-a5487314dd15d1d513e149cf6f0d7899]: Textual amendment: [Sch. SECOND para. 3](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/32/schedule/SECOND/paragraph/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
 [^c6193411]: Modification: The text of Sch. 3 is in the form in which it was originally enacted: it was not wholly reproduced in Statutes in Force and, except as specified, does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-258a359c9a24089f93c298474236e1d4]: Textual amendment: Words in Third Sch. omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 15(3)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/15/3/a)
+[^c-258a359c9a24089f93c298474236e1d4]: Textual amendment: Words in Third Sch. omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 15(3)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/15/3/a)
 
-[^key-c5fe9d32f0cd2aed9955cc161d83ded8]: Textual amendment: Words in Third Sch. omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 15(3)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/15/3/b)
+[^c-c5fe9d32f0cd2aed9955cc161d83ded8]: Textual amendment: Words in Third Sch. omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 15(3)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/15/3/b)
 
-[^key-6f242a4748fd9b5fe576754f57b00e4d]: Textual amendment: Words in Third Sch. omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 15(3)(c)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/15/3/c)
+[^c-6f242a4748fd9b5fe576754f57b00e4d]: Textual amendment: Words in Third Sch. omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 15(3)(c)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/15/3/c)
 
 [^c6193421]: Textual amendment: Words repealed by [Official Secrets Act 1989 (c. 6, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1989/6), [s. 16(4)](https://www.legislation.gov.uk/ukpga/1989/6/section/16/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/1989/6/schedule/2)
 
-[^key-e055a77cd4fd98246d3db85e7e046e22]: Textual amendment: Words repealed (1.4.2005) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+[^c-e055a77cd4fd98246d3db85e7e046e22]: Textual amendment: Words repealed (1.4.2005) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
 
 [^c6193511]: Marginal citation: [1875 c. 17](https://www.legislation.gov.uk/ukpga/1875/17).
 

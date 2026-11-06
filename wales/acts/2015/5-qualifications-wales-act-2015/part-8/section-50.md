@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Grants[^key-602d79a7658a47672ad91e5538c5400e]
+## 50. Grants[^c-602d79a7658a47672ad91e5538c5400e]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-602d79a7658a47672ad91e5538c5400e]: Commencement: [S. 50](https://www.legislation.gov.uk/anaw/2015/5/section/50) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-602d79a7658a47672ad91e5538c5400e]: Commencement: [S. 50](https://www.legislation.gov.uk/anaw/2015/5/section/50) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

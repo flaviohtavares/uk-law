@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Application of Chapter[^key-979d2ac17373c30cc92d714f87774db6]
+## 1. Application of Chapter[^c-979d2ac17373c30cc92d714f87774db6]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-979d2ac17373c30cc92d714f87774db6]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2016/21/section/1) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)
+[^c-979d2ac17373c30cc92d714f87774db6]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2016/21/section/1) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)

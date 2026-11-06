@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Transitional provision: disqualifications relating to sexual offences etc.[^key-80bd9c5d116d121b66156f06b4d06989][^key-efa9a409f8c07d49f63eb50bd1fbd38b]
+## 19. Transitional provision: disqualifications relating to sexual offences etc.[^c-80bd9c5d116d121b66156f06b4d06989][^c-efa9a409f8c07d49f63eb50bd1fbd38b]
 
 *Extent: S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-80bd9c5d116d121b66156f06b4d06989]: Commencement: S. 19 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-80bd9c5d116d121b66156f06b4d06989]: Commencement: S. 19 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-efa9a409f8c07d49f63eb50bd1fbd38b]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2025/4/section/19) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)
+[^c-efa9a409f8c07d49f63eb50bd1fbd38b]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2025/4/section/19) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)

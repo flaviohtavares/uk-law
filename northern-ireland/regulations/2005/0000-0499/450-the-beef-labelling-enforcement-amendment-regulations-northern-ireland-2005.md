@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Beef Labelling (Enforcement) (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^key-e1eb8aa9e66b1df0db3047ea3328f12b]
+The Beef Labelling (Enforcement) (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^c-e1eb8aa9e66b1df0db3047ea3328f12b]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 14th November 2005
 
-[^key-e1eb8aa9e66b1df0db3047ea3328f12b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e1eb8aa9e66b1df0db3047ea3328f12b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e1eb8aa9e66b1df0db3047ea3328f12b]
+## 1. Citation and commencement[^c-e1eb8aa9e66b1df0db3047ea3328f12b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-e1eb8aa9e66b1df0db3047ea3328f12b]
+## 2. Interpretation[^c-e1eb8aa9e66b1df0db3047ea3328f12b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Beef Labelling (Enforcement) Regulations (Northern Ireland) 2001[^key-e1eb8aa9e66b1df0db3047ea3328f12b]
+## 3. Amendments to the Beef Labelling (Enforcement) Regulations (Northern Ireland) 2001[^c-e1eb8aa9e66b1df0db3047ea3328f12b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e1eb8aa9e66b1df0db3047ea3328f12b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e1eb8aa9e66b1df0db3047ea3328f12b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e1eb8aa9e66b1df0db3047ea3328f12b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e1eb8aa9e66b1df0db3047ea3328f12b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e1eb8aa9e66b1df0db3047ea3328f12b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/450) revoked (2.2.2009) by [The Beef and Veal Labelling Regulations (Northern Ireland) 2009 (S.R. 2009/2)](https://www.legislation.gov.uk/nisr/2009/2), [regs. 1](https://www.legislation.gov.uk/nisr/2009/2/regulation/1), [12](https://www.legislation.gov.uk/nisr/2009/2/regulation/12)
+[^c-e1eb8aa9e66b1df0db3047ea3328f12b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/450) revoked (2.2.2009) by [The Beef and Veal Labelling Regulations (Northern Ireland) 2009 (S.R. 2009/2)](https://www.legislation.gov.uk/nisr/2009/2), [regs. 1](https://www.legislation.gov.uk/nisr/2009/2/regulation/1), [12](https://www.legislation.gov.uk/nisr/2009/2/regulation/12)

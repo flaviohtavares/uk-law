@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 459. Payments for benefit of family members[^key-4da631c48c3e6530a91837b3e2921f78]
+## 459. Payments for benefit of family members[^c-4da631c48c3e6530a91837b3e2921f78]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4da631c48c3e6530a91837b3e2921f78]: Textual amendment: S. 459 omitted (17.7.2012) (with effect in accordance with Sch. 39 para. 32(6) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 32(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/32/1)
+[^c-4da631c48c3e6530a91837b3e2921f78]: Textual amendment: S. 459 omitted (17.7.2012) (with effect in accordance with Sch. 39 para. 32(6) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 32(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/32/1)

@@ -34,7 +34,7 @@ An Act to set up a register of overseas entities and their beneficial owners and
 
 \[15th March 2022\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-bd590831a2256e20a6de86da9be7a596]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-bd590831a2256e20a6de86da9be7a596]
 
 ## Contents
 
@@ -260,4 +260,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-bd590831a2256e20a6de86da9be7a596]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2022/10): power to amend conferred (26.10.2023 for specified purposes) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 178(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/178/1), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
+[^c-bd590831a2256e20a6de86da9be7a596]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2022/10): power to amend conferred (26.10.2023 for specified purposes) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 178(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/178/1), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)

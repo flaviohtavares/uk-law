@@ -39,7 +39,7 @@ Made
 
 The Secretary of State makes the following Order, in exercise of the powers conferred by sections 91(1) and 94(3) and (6) of, and Schedule 12 to, the Water Act 2014[^f00001].
 
-## 1. Citation and interpretation[^key-331cd066124b688ad7793a55521af166]
+## 1. Citation and interpretation[^c-331cd066124b688ad7793a55521af166]
 
 (1) This Order may be cited as the Water Act 2014 (Commencement No. 2 and Transitional Provisions) Order 2014.
 
@@ -48,7 +48,7 @@ The Secretary of State makes the following Order, in exercise of the powers conf
 - “the 1991 Act” means the Water Industry Act 1991[^f00002];
 - “the 2014 Act” means the Water Act 2014.
 
-## 2. Provisions in Part 1 of the 2014 Act coming into force on 1st January 2015[^key-88401d671054231c595b6bb6b5ffbecf]
+## 2. Provisions in Part 1 of the 2014 Act coming into force on 1st January 2015[^c-88401d671054231c595b6bb6b5ffbecf]
 
 (1) Subject to article 3, the following provisions in Part 1 of the 2014 Act (water industry) come into force on 1st January 2015[^f00003]—
 
@@ -72,15 +72,15 @@ The Secretary of State makes the following Order, in exercise of the powers conf
   - (iv) paragraph 120(2)(b); and
   - (v) paragraph 120(3) so far as it relates to sections 8 and 86ZA of the 1991 Act[^f00004].
 
-## 3. Transitional provisions[^key-086daa28b198b23b9b2f46a22f407061]
+## 3. Transitional provisions[^c-086daa28b198b23b9b2f46a22f407061]
 
-(1)[^key-965d8dd8518ce2eb5b2ef7e847758678] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-965d8dd8518ce2eb5b2ef7e847758678] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Until paragraph 5 of Schedule 2 to the 2014 Act comes into force so far as it relates to section 66E of the 1991 Act, the reference to rules under section 66E in section 144ZE(1)(a) of the 1991 Act (as inserted by section 38 of the 2014 Act) has effect as if section 66E of the 1991 Act as substituted is in force.
 
 (3) In paragraph (1), “old water supply licensee” means a person who is the holder for the time being of an “old water supply licence” as defined in paragraph 11 of Schedule 11 to the 2014 Act[^f00005].
 
-## 4. Provisions in Part 4 of the 2014 Act coming into force on 1st January 2015[^key-59528c657b9b03a4ef0246b316aa7240]
+## 4. Provisions in Part 4 of the 2014 Act coming into force on 1st January 2015[^c-59528c657b9b03a4ef0246b316aa7240]
 
 The following provisions in Part 4 of the 2014 Act (flood insurance) come into force on 1st January 2015—
 
@@ -134,20 +134,20 @@ The following provisions of the 2014 Act were brought into force by a commenceme
 
 [^f00001]: Footnote: [2014 c.21](https://www.legislation.gov.uk/ukpga/2014/21). The power in section 94(3) to appoint a day on which the remaining provisions of the 2014 Act come into force is vested in the “appropriate authority”. Section 94(6) provides that the appropriate authority is the Secretary of State except as stated in the table in Schedule 12.
 
-[^key-331cd066124b688ad7793a55521af166]: Commencement: Art. 1 in force at made date
+[^c-331cd066124b688ad7793a55521af166]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56).
 
-[^key-88401d671054231c595b6bb6b5ffbecf]: Commencement: Art. 2 in force at made date
+[^c-88401d671054231c595b6bb6b5ffbecf]: Commencement: Art. 2 in force at made date
 
 [^f00003]: Footnote: The Secretary of State is the appropriate authority for the purposes of sections 23 and 38 in relation to wholly or mainly English undertakers.
 
 [^f00004]: Footnote: Section 8 was amended by section 40(3) of the Competition and Service (Utilities) Act [1992 (c.43)](https://www.legislation.gov.uk/ukpga/1992/43), section 36(2) of the Water Act [2003 (c.37)](https://www.legislation.gov.uk/ukpga/2003/37) and section 13 of the 2014 Act. Section 86ZA was inserted by section 40(1) of the 2014 Act.
 
-[^key-086daa28b198b23b9b2f46a22f407061]: Commencement: Art. 3 in force at made date
+[^c-086daa28b198b23b9b2f46a22f407061]: Commencement: Art. 3 in force at made date
 
-[^key-965d8dd8518ce2eb5b2ef7e847758678]: Textual amendment: [Art. 3(1)](https://www.legislation.gov.uk/uksi/2014/3320/article/3/1) revoked (1.4.2016) by [The Water Act 2014 (Commencement No. 6, Transitional Provisions and Savings) Order 2016 (S.I. 2016/465)](https://www.legislation.gov.uk/uksi/2016/465), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2016/465/schedule/2/paragraph/6/a)
+[^c-965d8dd8518ce2eb5b2ef7e847758678]: Textual amendment: [Art. 3(1)](https://www.legislation.gov.uk/uksi/2014/3320/article/3/1) revoked (1.4.2016) by [The Water Act 2014 (Commencement No. 6, Transitional Provisions and Savings) Order 2016 (S.I. 2016/465)](https://www.legislation.gov.uk/uksi/2016/465), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2016/465/schedule/2/paragraph/6/a)
 
 [^f00005]: Footnote: “Old water supply licence” is defined as “a water supply licence granted under old section 17A” (of the 1991 Act).
 
-[^key-59528c657b9b03a4ef0246b316aa7240]: Commencement: Art. 4 in force at made date
+[^c-59528c657b9b03a4ef0246b316aa7240]: Commencement: Art. 4 in force at made date

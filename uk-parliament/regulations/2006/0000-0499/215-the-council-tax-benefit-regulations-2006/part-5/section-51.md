@@ -55,8 +55,8 @@ and, in all cases, from the weekly amount so apportioned there shall be disregar
 
 (5) There shall be deducted from the amount of income taken into account under paragraph (4)—
 
-- (a) the sum of £303[^M_F_edaedc0a-55db-4ec2-a7f3-8b94fb3a5590] per academic year[^key-9e14bab8fdf357b4577ada2b6426d437] in respect of travel costs; and
-- (b) the sum of £390[^M_F_e2b7698d-8763-4611-e486-124ca25ae797] per academic year[^key-9787fa1618d7b2a13d090550abe7e9e4] towards the cost of books and equipment,
+- (a) the sum of £303[^M_F_edaedc0a-55db-4ec2-a7f3-8b94fb3a5590] per academic year[^c-9e14bab8fdf357b4577ada2b6426d437] in respect of travel costs; and
+- (b) the sum of £390[^M_F_e2b7698d-8763-4611-e486-124ca25ae797] per academic year[^c-9787fa1618d7b2a13d090550abe7e9e4] towards the cost of books and equipment,
 
 whether or not any such costs are incurred.
 
@@ -66,8 +66,8 @@ whether or not any such costs are incurred.
 
 [^M_F_edaedc0a-55db-4ec2-a7f3-8b94fb3a5590]: Textual amendment: Sum in reg. 51(5)(a) substituted (1.8.2009 for specified purposes and 1.9.2009 otherwise) by [The Social Security (Students and Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1575)](https://www.legislation.gov.uk/uksi/2009/1575), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2009/1575/regulation/1/3), [2(3)(4)](https://www.legislation.gov.uk/uksi/2009/1575/regulation/2/3)
 
-[^key-9e14bab8fdf357b4577ada2b6426d437]: Textual amendment: Words in [reg. 51(5)(a)](https://www.legislation.gov.uk/uksi/2006/215/regulation/51/5/a) substituted (1.8.2007 for specified purposes and 1.9.2007 otherwise) by [Social Security (Students and Income-related Benefits) Amendment Regulations 2007 (S.I. 2007/1632)](https://www.legislation.gov.uk/uksi/2007/1632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/1632/regulation/1/3), [5(3)(a)](https://www.legislation.gov.uk/uksi/2007/1632/regulation/5/3/a)
+[^c-9e14bab8fdf357b4577ada2b6426d437]: Textual amendment: Words in [reg. 51(5)(a)](https://www.legislation.gov.uk/uksi/2006/215/regulation/51/5/a) substituted (1.8.2007 for specified purposes and 1.9.2007 otherwise) by [Social Security (Students and Income-related Benefits) Amendment Regulations 2007 (S.I. 2007/1632)](https://www.legislation.gov.uk/uksi/2007/1632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/1632/regulation/1/3), [5(3)(a)](https://www.legislation.gov.uk/uksi/2007/1632/regulation/5/3/a)
 
 [^M_F_e2b7698d-8763-4611-e486-124ca25ae797]: Textual amendment: Sum in reg. 51(5)(b) substituted (1.8.2009 for specified purposes and 1.9.2009 otherwise) by [The Social Security (Students and Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1575)](https://www.legislation.gov.uk/uksi/2009/1575), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2009/1575/regulation/1/3), [2(2)(4)](https://www.legislation.gov.uk/uksi/2009/1575/regulation/2/2)
 
-[^key-9787fa1618d7b2a13d090550abe7e9e4]: Textual amendment: Words in [reg. 51(5)(b)](https://www.legislation.gov.uk/uksi/2006/215/regulation/51/5/b) substituted (1.8.2007 for specified purposes and 1.9.2007 otherwise) by [Social Security (Students and Income-related Benefits) Amendment Regulations 2007 (S.I. 2007/1632)](https://www.legislation.gov.uk/uksi/2007/1632), [regs.1(3)](https://www.legislation.gov.uk/uksi/2007/1632/regulation/1/3), [5(3)(b)](https://www.legislation.gov.uk/uksi/2007/1632/regulation/5/3/b)
+[^c-9787fa1618d7b2a13d090550abe7e9e4]: Textual amendment: Words in [reg. 51(5)(b)](https://www.legislation.gov.uk/uksi/2006/215/regulation/51/5/b) substituted (1.8.2007 for specified purposes and 1.9.2007 otherwise) by [Social Security (Students and Income-related Benefits) Amendment Regulations 2007 (S.I. 2007/1632)](https://www.legislation.gov.uk/uksi/2007/1632), [regs.1(3)](https://www.legislation.gov.uk/uksi/2007/1632/regulation/1/3), [5(3)(b)](https://www.legislation.gov.uk/uksi/2007/1632/regulation/5/3/b)

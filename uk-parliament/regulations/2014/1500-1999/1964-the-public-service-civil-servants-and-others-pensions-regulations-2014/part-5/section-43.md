@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Amount of pension for a scheme year[^key-a917b509cc02f821a0aef3665657a1c6]
+## 43. Amount of pension for a scheme year[^c-a917b509cc02f821a0aef3665657a1c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,10 +39,10 @@ summary: ''
 - (a) standard earned pension (if any); and
 - (b) earned pension attributable to the exercise of an effective pension age option or an enhanced effective pension age option (if any).
 
-(9)[^key-e3d89c547717a7218bb3db05252f668f] For the purpose of paragraph (4), in respect of a period of assumed pay under this scheme, “pensionable earnings” means the member’s assumed pay.
+(9)[^c-e3d89c547717a7218bb3db05252f668f] For the purpose of paragraph (4), in respect of a period of assumed pay under this scheme, “pensionable earnings” means the member’s assumed pay.
 
 ## Annotations
 
-[^key-a917b509cc02f821a0aef3665657a1c6]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2014/1964/regulation/43) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-a917b509cc02f821a0aef3665657a1c6]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2014/1964/regulation/43) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
-[^key-e3d89c547717a7218bb3db05252f668f]: Textual amendment: [Reg. 43(9)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/43/9) inserted (with effect from 1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2018 (S.I. 2018/537)](https://www.legislation.gov.uk/uksi/2018/537), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/537/regulation/1/2/b), [14](https://www.legislation.gov.uk/uksi/2018/537/regulation/14)
+[^c-e3d89c547717a7218bb3db05252f668f]: Textual amendment: [Reg. 43(9)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/43/9) inserted (with effect from 1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2018 (S.I. 2018/537)](https://www.legislation.gov.uk/uksi/2018/537), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/537/regulation/1/2/b), [14](https://www.legislation.gov.uk/uksi/2018/537/regulation/14)

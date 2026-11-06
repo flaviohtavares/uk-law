@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Making an allocation election[^key-65f08e9fdbe4aa09d9e0ff792bdba08c]
+## 73. Making an allocation election[^c-65f08e9fdbe4aa09d9e0ff792bdba08c]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65f08e9fdbe4aa09d9e0ff792bdba08c]: Commencement: [Reg. 73](https://www.legislation.gov.uk/ssi/2015/19/regulation/73) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-65f08e9fdbe4aa09d9e0ff792bdba08c]: Commencement: [Reg. 73](https://www.legislation.gov.uk/ssi/2015/19/regulation/73) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

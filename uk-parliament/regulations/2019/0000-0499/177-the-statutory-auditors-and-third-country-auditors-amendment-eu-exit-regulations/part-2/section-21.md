@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21.[^key-09981e818bac08d5193793f6d9b9f60d]
+## 21.[^c-09981e818bac08d5193793f6d9b9f60d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ In section 1253DD (agreement of EEA competent authority) [^c23586451]—
 
 ## Annotations
 
-[^key-09981e818bac08d5193793f6d9b9f60d]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-09981e818bac08d5193793f6d9b9f60d]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23586451]: Marginal citation: Section 1253DD was inserted by regulation 15(1) of [S.I. 2007/3494](https://www.legislation.gov.uk/uksi/2007/3494), and substituted by regulation 2 of [S.I. 2010/2537](https://www.legislation.gov.uk/uksi/2010/2537). Subsection (1) was amended by paragraph 47(1) of Schedule 3 to [S.I. 2016/649](https://www.legislation.gov.uk/uksi/2016/649).
 

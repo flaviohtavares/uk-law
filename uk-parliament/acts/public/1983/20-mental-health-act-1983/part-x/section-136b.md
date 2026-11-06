@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136B. Extension of detention[^key-06582044496ed1666d472b610d8d9206]
+## 136B. Extension of detention[^c-06582044496ed1666d472b610d8d9206]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06582044496ed1666d472b610d8d9206]: Textual amendment: S. 136B inserted (31.1.2017 for specified purposes, 11.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 82(4)](https://www.legislation.gov.uk/ukpga/2017/3/section/82/4), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/1017](https://www.legislation.gov.uk/uksi/2017/1017), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/1017/regulation/3/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1017/regulation/4))
+[^c-06582044496ed1666d472b610d8d9206]: Textual amendment: S. 136B inserted (31.1.2017 for specified purposes, 11.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 82(4)](https://www.legislation.gov.uk/ukpga/2017/3/section/82/4), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/1017](https://www.legislation.gov.uk/uksi/2017/1017), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/1017/regulation/3/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1017/regulation/4))

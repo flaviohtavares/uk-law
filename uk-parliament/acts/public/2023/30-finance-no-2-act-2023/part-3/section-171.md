@@ -30,7 +30,7 @@ its adjusted profits for that period are to be reduced (but not below nil) by th
 (2) Condition A is that the qualifying dividend is subject to tax in the hands of the dividend recipient for a taxable period that ends within 12 months of the end of the ultimate parent’s accounting period and—
 
 - (a) its recipient is subject to tax on the full amount of the dividend at a nominal rate equal to, or in excess of, 15%,
-- (b) it is reasonable to expect that the sum of the [^key-eeca3b71b77b0c89ce976e3b9e6f4196]... covered taxes payable by the ultimate parent in respect of the profits represented by the dividend and taxes payable by the dividend recipient in respect of the dividend income is at least the amount given by multiplying the amount of that income by 15%, or
+- (b) it is reasonable to expect that the sum of the [^c-eeca3b71b77b0c89ce976e3b9e6f4196]... covered taxes payable by the ultimate parent in respect of the profits represented by the dividend and taxes payable by the dividend recipient in respect of the dividend income is at least the amount given by multiplying the amount of that income by 15%, or
 - (c) the ultimate parent is a supply cooperative and the recipient is an individual.
 
 (3) For the purposes of subsection (2) patronage dividends made by a supply cooperative are subject to tax to the extent they reduce an expense or cost that is deductible in the computation of the recipient’s taxable income.
@@ -47,7 +47,7 @@ its adjusted profits for that period are to be reduced (but not below nil) by th
 - (c) a non-profit organisation, or
 - (d) a pension fund that is not a pension services entity.
 
-(6) Where the adjusted[^key-2540de49198df0d66de0215ba9344151] profits of the ultimate parent of a multinational group for an accounting period are reduced as a result of subsection (1)—
+(6) Where the adjusted[^c-2540de49198df0d66de0215ba9344151] profits of the ultimate parent of a multinational group for an accounting period are reduced as a result of subsection (1)—
 
 - (a) its covered tax balance, excluding any tax in respect of which a deduction for the dividend was allowed, is—
   - (i) in the case of a positive covered tax balance, to be reduced by the same proportion that adjusted profits were reduced, or
@@ -86,6 +86,6 @@ But a reduction of adjusted profits may not be made more than once in respect of
 
 ## Annotations
 
-[^key-eeca3b71b77b0c89ce976e3b9e6f4196]: Textual amendment: Word in s. 171(2)(b) omitted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 56(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/56/a), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-eeca3b71b77b0c89ce976e3b9e6f4196]: Textual amendment: Word in s. 171(2)(b) omitted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 56(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/56/a), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-2540de49198df0d66de0215ba9344151]: Textual amendment: Word in s. 171(6) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 56(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/56/b), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-2540de49198df0d66de0215ba9344151]: Textual amendment: Word in s. 171(6) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 56(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/56/b), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)

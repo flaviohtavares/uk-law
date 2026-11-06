@@ -16,24 +16,24 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Provisions for securing that a pipe-line is so used as to reduce necessity for construction of others.[^c7376551][^key-81be2ed3da44b9d888161781a814825d]
+## 10. Provisions for securing that a pipe-line is so used as to reduce necessity for construction of others.[^c7376551][^c-81be2ed3da44b9d888161781a814825d]
 
 *Extent: E+W+S*
 
 (1) An application with respect to
 
 - (a)[^c7376561] a gas pipe-line; or
-- (b)[^key-c4d6de1da6d52fa8e6913591ce60eac7] any other pipe-line which—
+- (b)[^c-c4d6de1da6d52fa8e6913591ce60eac7] any other pipe-line which—
   - (i) is constructed pursuant to a pipe-line construction authorisation; and
   - (ii) does not fall within subsection (1A);
 
-(1A)[^key-eec4ca77df20ce44ce800f984360b255] The following pipe-lines fall within this subsection—
+(1A)[^c-eec4ca77df20ce44ce800f984360b255] The following pipe-lines fall within this subsection—
 
 - (a) an upstream petroleum pipe-line;
 - (b) a carbon dioxide pipe-line;
 - (c) a pipe-line comprised in a gas interconnector.
 
-(2) Where an application with respect to a pipe-line is made under subsection (1)[^key-e83417d1ab0729bc96f6dd237d2ae289] to the Minister he shall serve on the owner of the line and the applicant notice of the time (being some time not less than twenty-one days from the date of the service of the notice) at which the question of conferring on the applicant the right sought by him will be considered by the Minister, and the owner and the applicant shall be entitled to be heard when that question is so considered.
+(2) Where an application with respect to a pipe-line is made under subsection (1)[^c-e83417d1ab0729bc96f6dd237d2ae289] to the Minister he shall serve on the owner of the line and the applicant notice of the time (being some time not less than twenty-one days from the date of the service of the notice) at which the question of conferring on the applicant the right sought by him will be considered by the Minister, and the owner and the applicant shall be entitled to be heard when that question is so considered.
 
 (3) If after taking the question aforesaid into consideration the Minister is satisfied that the line could, without prejudice to the proper and efficient operation thereof for the purpose of the conveyance on behalf of the owner thereof, in the quantity required by him, of the kind of thing, or things of the class, which it is designed to convey, be so operated as to permit of the conveyance thereby on behalf of the applicant of the kind of thing, or things of the class, the right to the conveyance of which is sought by the applicant, he shall declare that he is so satisfied.
 
@@ -61,15 +61,15 @@ Accordingly, a diversion which required such an authorisation shall be treated f
 
     S. 10: certain functions exercisable (30.6.1999) by [S.I. 1999/1756](https://www.legislation.gov.uk/uksi/1999/1756), [arts. 1](https://www.legislation.gov.uk/uksi/1999/1756/article/1), [2](https://www.legislation.gov.uk/uksi/1999/1756/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/1) (with [art. 8](https://www.legislation.gov.uk/uksi/1999/1756/article/8))
 
-[^key-81be2ed3da44b9d888161781a814825d]: Modification: S. 10 applied (30.4.2015) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 126(3)(a)](https://www.legislation.gov.uk/ukpga/2013/32/section/126/3/a), [156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1) (with [s. 130](https://www.legislation.gov.uk/ukpga/2013/32/section/130)); [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/817/article/2/a)
+[^c-81be2ed3da44b9d888161781a814825d]: Modification: S. 10 applied (30.4.2015) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 126(3)(a)](https://www.legislation.gov.uk/ukpga/2013/32/section/126/3/a), [156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1) (with [s. 130](https://www.legislation.gov.uk/ukpga/2013/32/section/130)); [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/817/article/2/a)
 
 [^c7376561]: Textual amendment: Words and s. 10(1)(a)(b) substituted for words in s. 10(1) (10.8.2000) by [S.I. 2000/1937](https://www.legislation.gov.uk/uksi/2000/1937), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/1937/regulation/2/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2000/1937/schedule/1/paragraph/3)
 
-[^key-c4d6de1da6d52fa8e6913591ce60eac7]: Textual amendment: S. 10(1)(b) substituted (16.9.2011) by [The Storage of Carbon Dioxide (Access to Infrastructure) Regulations 2011 (S.I. 2011/2305)](https://www.legislation.gov.uk/uksi/2011/2305), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1), [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/2011/2305/schedule/paragraph/4/a)
+[^c-c4d6de1da6d52fa8e6913591ce60eac7]: Textual amendment: S. 10(1)(b) substituted (16.9.2011) by [The Storage of Carbon Dioxide (Access to Infrastructure) Regulations 2011 (S.I. 2011/2305)](https://www.legislation.gov.uk/uksi/2011/2305), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1), [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/2011/2305/schedule/paragraph/4/a)
 
-[^key-eec4ca77df20ce44ce800f984360b255]: Textual amendment: S. 10(1A) inserted (16.9.2011) by [The Storage of Carbon Dioxide (Access to Infrastructure) Regulations 2011 (S.I. 2011/2305)](https://www.legislation.gov.uk/uksi/2011/2305), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1), [Sch. para. 4(b)](https://www.legislation.gov.uk/uksi/2011/2305/schedule/paragraph/4/b)
+[^c-eec4ca77df20ce44ce800f984360b255]: Textual amendment: S. 10(1A) inserted (16.9.2011) by [The Storage of Carbon Dioxide (Access to Infrastructure) Regulations 2011 (S.I. 2011/2305)](https://www.legislation.gov.uk/uksi/2011/2305), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1), [Sch. para. 4(b)](https://www.legislation.gov.uk/uksi/2011/2305/schedule/paragraph/4/b)
 
-[^key-e83417d1ab0729bc96f6dd237d2ae289]: Textual amendment: Words in s. 10(2) substituted (16.9.2011) by [The Storage of Carbon Dioxide (Access to Infrastructure) Regulations 2011 (S.I. 2011/2305)](https://www.legislation.gov.uk/uksi/2011/2305), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1), [Sch. para. 4(c)](https://www.legislation.gov.uk/uksi/2011/2305/schedule/paragraph/4/c)
+[^c-e83417d1ab0729bc96f6dd237d2ae289]: Textual amendment: Words in s. 10(2) substituted (16.9.2011) by [The Storage of Carbon Dioxide (Access to Infrastructure) Regulations 2011 (S.I. 2011/2305)](https://www.legislation.gov.uk/uksi/2011/2305), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1), [Sch. para. 4(c)](https://www.legislation.gov.uk/uksi/2011/2305/schedule/paragraph/4/c)
 
 [^c7376571]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289F](https://www.legislation.gov.uk/ukpga/1975/21/section/289F), [289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)
 

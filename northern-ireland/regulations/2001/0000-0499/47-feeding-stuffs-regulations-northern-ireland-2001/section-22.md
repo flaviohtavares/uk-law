@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Enforcement of provisions made under section 2(2) of the European Communities Act 1972[^key-da928af1a49f038172df5b73d8d15b79]
+## 22. Enforcement of provisions made under section 2(2) of the European Communities Act 1972[^c-da928af1a49f038172df5b73d8d15b79]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Insofar as any provision of these Regulations is made under section 2(2) of the 
 
 ## Annotations
 
-[^key-da928af1a49f038172df5b73d8d15b79]: Commencement: Reg. 22 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-da928af1a49f038172df5b73d8d15b79]: Commencement: Reg. 22 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)

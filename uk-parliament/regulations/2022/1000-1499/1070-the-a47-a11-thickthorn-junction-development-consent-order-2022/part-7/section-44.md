@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Defence to proceedings in respect of statutory nuisance[^key-7f085516ca2a036f9c09e1c4ed97fb68]
+## 44. Defence to proceedings in respect of statutory nuisance[^c-7f085516ca2a036f9c09e1c4ed97fb68]
 
 *Extent: E+W+S*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7f085516ca2a036f9c09e1c4ed97fb68]: Commencement: Art. 44 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-7f085516ca2a036f9c09e1c4ed97fb68]: Commencement: Art. 44 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
 [^f00082]: Footnote: Section 82 was amended by section 5(2) of the Noise and Statutory Nuisance Act [1993 (c. 40)](https://www.legislation.gov.uk/ukpga/1993/40) and section 107 of, and paragraph 6(b)(vi) of Schedule 17 to, the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25). There are further amendments to section 82 which are not relevant to this Order.
 

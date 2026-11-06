@@ -35,52 +35,52 @@ on the application of Article 101(3) of the Treaty on the Functioning of the Eur
 
 (Text with EEA relevance) (revoked)
 
-[^key-2ae81382009df5da6dfe229da19b6a86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ae81382009df5da6dfe229da19b6a86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## CHAPTER I — COMMON PROVISIONS[^key-2ae81382009df5da6dfe229da19b6a86]
+## CHAPTER I — COMMON PROVISIONS[^c-2ae81382009df5da6dfe229da19b6a86]
 
-### Article 1. Definitions[^key-2ae81382009df5da6dfe229da19b6a86]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## CHAPTER II — VERTICAL AGREEMENTS RELATING TO THE PURCHASE, SALE OR RESALE OF NEW MOTOR VEHICLES[^key-2ae81382009df5da6dfe229da19b6a86]
-
-### Article 2. Application of Regulation (EC) No 1400/2002[^key-2ae81382009df5da6dfe229da19b6a86]
+### Article 1. Definitions[^c-2ae81382009df5da6dfe229da19b6a86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 3. Application of Regulation (EU) No 330/2010[^key-2ae81382009df5da6dfe229da19b6a86]
+## CHAPTER II — VERTICAL AGREEMENTS RELATING TO THE PURCHASE, SALE OR RESALE OF NEW MOTOR VEHICLES[^c-2ae81382009df5da6dfe229da19b6a86]
+
+### Article 2. Application of Regulation (EC) No 1400/2002[^c-2ae81382009df5da6dfe229da19b6a86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — VERTICAL AGREEMENTS RELATING TO THE MOTOR VEHICLE AFTERMARKET[^key-2ae81382009df5da6dfe229da19b6a86]
-
-### Article 4. Exemption[^key-2ae81382009df5da6dfe229da19b6a86]
+### Article 3. Application of Regulation (EU) No 330/2010[^c-2ae81382009df5da6dfe229da19b6a86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 5. Restrictions that remove the benefit of the block exemption — hardcore restrictions[^key-2ae81382009df5da6dfe229da19b6a86]
+## CHAPTER III — VERTICAL AGREEMENTS RELATING TO THE MOTOR VEHICLE AFTERMARKET[^c-2ae81382009df5da6dfe229da19b6a86]
+
+### Article 4. Exemption[^c-2ae81382009df5da6dfe229da19b6a86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER IV — FINAL PROVISIONS[^key-2ae81382009df5da6dfe229da19b6a86]
-
-### Article 6. Non-application of this Regulation[^key-2ae81382009df5da6dfe229da19b6a86]
+### Article 5. Restrictions that remove the benefit of the block exemption — hardcore restrictions[^c-2ae81382009df5da6dfe229da19b6a86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Monitoring and evaluation report[^key-2ae81382009df5da6dfe229da19b6a86]
+## CHAPTER IV — FINAL PROVISIONS[^c-2ae81382009df5da6dfe229da19b6a86]
+
+### Article 6. Non-application of this Regulation[^c-2ae81382009df5da6dfe229da19b6a86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Period of validity[^key-2ae81382009df5da6dfe229da19b6a86]
+### Article 7. Monitoring and evaluation report[^c-2ae81382009df5da6dfe229da19b6a86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2ae81382009df5da6dfe229da19b6a86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Article 8. Period of validity[^c-2ae81382009df5da6dfe229da19b6a86]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-2ae81382009df5da6dfe229da19b6a86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2ae81382009df5da6dfe229da19b6a86]: Textual amendment: Regulation revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-2ae81382009df5da6dfe229da19b6a86]: Textual amendment: Regulation revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

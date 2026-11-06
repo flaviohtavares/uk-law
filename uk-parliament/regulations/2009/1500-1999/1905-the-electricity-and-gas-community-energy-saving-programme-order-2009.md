@@ -151,12 +151,12 @@ In this Order—
 - (a) under section 6(1)(d) of the Electricity Act 1989 and that person satisfies paragraph (2) or (3) in respect of the supply of electricity; or
 - (b) under section 7A of the Gas Act 1986 and that person satisfies paragraph (2) or (3) in respect of the supply of gas.
 
-(2)[^key-400a4b10f16044ef35e689af1b128690] A person must supply—
+(2)[^c-400a4b10f16044ef35e689af1b128690] A person must supply—
 
 - (a) at least 50,000 domestic customers on 31st December of the year 2008, 2009 or 2010; or
 - (b) at least 250,000 domestic customers on 31st December 2011.
 
-(3)[^key-57daa017bfe3a868f4098859842fbfa2] A company that belongs to a group of companies must supply domestic customers and—
+(3)[^c-57daa017bfe3a868f4098859842fbfa2] A company that belongs to a group of companies must supply domestic customers and—
 
 - (a) on 31st December of the year 2008, 2009 or 2010 the number of domestic customers of that company and of other companies in the group must be at least 50,000; or
 - (b) on 31st December 2011 the number of domestic customers of that company and of other companies in the group must be at least 250,000.
@@ -359,7 +359,7 @@ Table 2 – Calculation of X when the Authority is undertaking a review
 - (b) zero for each 31st December in the years 2008 and 2009; and
 - (c) the number of domestic customers supplied by that supplier on 31st December 2011.
 
-(6)[^key-11a56fa6276db69ea9aa13dd2dbd2ea1] The number of domestic customers under paragraph (3)(b) on each 31st December subsequent to the commencement of the obligation period is deemed to be zero where—
+(6)[^c-11a56fa6276db69ea9aa13dd2dbd2ea1] The number of domestic customers under paragraph (3)(b) on each 31st December subsequent to the commencement of the obligation period is deemed to be zero where—
 
 - (a) in respect of any 31st December other than 31st December 2011—
   - (i) a supplier belongs to a group of companies and that group has fewer than 50,000 domestic customers on that date; or
@@ -368,7 +368,7 @@ Table 2 – Calculation of X when the Authority is undertaking a review
   - (i) a supplier belongs to a group of companies and that group has fewer than 250,000 domestic customers on that date; or
   - (ii) for any other supplier, that supplier has fewer than 250,000 domestic customers on that date.
 
-(6A)[^key-886911c8e9eb103b2a25fc434a5d5a26] The number of domestic customers under paragraph (4)(a) is deemed to be zero where—
+(6A)[^c-886911c8e9eb103b2a25fc434a5d5a26] The number of domestic customers under paragraph (4)(a) is deemed to be zero where—
 
 - (a) a supplier belongs to a group of companies and that group has fewer than 50,000 domestic customers on 31st December 2010; or
 - (b) for any other supplier, that supplier has fewer than 50,000 domestic customers on 31st December 2010.
@@ -745,13 +745,13 @@ An impact assessment has been prepared in respect of this Order and copies can b
 
 [^c19790941]: Marginal citation: [2004 c.20](https://www.legislation.gov.uk/ukpga/2004/20).
 
-[^key-400a4b10f16044ef35e689af1b128690]: Textual amendment: Art. 5(2) substituted (22.12.2011) by [The Electricity and Gas (Carbon Emissions and Community Energy Saving) (Amendment) Order 2011 (S.I. 2011/3062)](https://www.legislation.gov.uk/uksi/2011/3062), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3062/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2011/3062/article/7/2)
+[^c-400a4b10f16044ef35e689af1b128690]: Textual amendment: Art. 5(2) substituted (22.12.2011) by [The Electricity and Gas (Carbon Emissions and Community Energy Saving) (Amendment) Order 2011 (S.I. 2011/3062)](https://www.legislation.gov.uk/uksi/2011/3062), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3062/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2011/3062/article/7/2)
 
-[^key-57daa017bfe3a868f4098859842fbfa2]: Textual amendment: Art. 5(3) substituted (22.12.2011) by [The Electricity and Gas (Carbon Emissions and Community Energy Saving) (Amendment) Order 2011 (S.I. 2011/3062)](https://www.legislation.gov.uk/uksi/2011/3062), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3062/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2011/3062/article/7/3)
+[^c-57daa017bfe3a868f4098859842fbfa2]: Textual amendment: Art. 5(3) substituted (22.12.2011) by [The Electricity and Gas (Carbon Emissions and Community Energy Saving) (Amendment) Order 2011 (S.I. 2011/3062)](https://www.legislation.gov.uk/uksi/2011/3062), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3062/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2011/3062/article/7/3)
 
-[^key-11a56fa6276db69ea9aa13dd2dbd2ea1]: Textual amendment: [Art. 13(6)](https://www.legislation.gov.uk/uksi/2009/1905/article/13/6) substituted (22.12.2011) by [The Electricity and Gas (Carbon Emissions and Community Energy Saving) (Amendment) Order 2011 (S.I. 2011/3062)](https://www.legislation.gov.uk/uksi/2011/3062), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3062/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2011/3062/article/8/2)
+[^c-11a56fa6276db69ea9aa13dd2dbd2ea1]: Textual amendment: [Art. 13(6)](https://www.legislation.gov.uk/uksi/2009/1905/article/13/6) substituted (22.12.2011) by [The Electricity and Gas (Carbon Emissions and Community Energy Saving) (Amendment) Order 2011 (S.I. 2011/3062)](https://www.legislation.gov.uk/uksi/2011/3062), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3062/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2011/3062/article/8/2)
 
-[^key-886911c8e9eb103b2a25fc434a5d5a26]: Textual amendment: [Art. 13(6A)](https://www.legislation.gov.uk/uksi/2009/1905/article/13/6A)[(6B)](https://www.legislation.gov.uk/uksi/2009/1905/article/13/6B) inserted (22.12.2011) by [The Electricity and Gas (Carbon Emissions and Community Energy Saving) (Amendment) Order 2011 (S.I. 2011/3062)](https://www.legislation.gov.uk/uksi/2011/3062), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3062/article/1), [8(3)](https://www.legislation.gov.uk/uksi/2011/3062/article/8/3)
+[^c-886911c8e9eb103b2a25fc434a5d5a26]: Textual amendment: [Art. 13(6A)](https://www.legislation.gov.uk/uksi/2009/1905/article/13/6A)[(6B)](https://www.legislation.gov.uk/uksi/2009/1905/article/13/6B) inserted (22.12.2011) by [The Electricity and Gas (Carbon Emissions and Community Energy Saving) (Amendment) Order 2011 (S.I. 2011/3062)](https://www.legislation.gov.uk/uksi/2011/3062), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3062/article/1), [8(3)](https://www.legislation.gov.uk/uksi/2011/3062/article/8/3)
 
 [^c19790951]: Marginal citation: [S.I. 2008/188](https://www.legislation.gov.uk/uksi/2008/188), as amended by the Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009, [S.I. 2009/1904](https://www.legislation.gov.uk/uksi/2009/1904).
 

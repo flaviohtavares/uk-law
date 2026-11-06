@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 213Z11. Compensation[^key-9c617700803fb83acc47c3b52cf46ec6]
+## 213Z11. Compensation[^c-9c617700803fb83acc47c3b52cf46ec6]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 (6) If the account freezing order was applied for by a constable, the compensation is to be paid as follows—
 
 - (a) in the case of a constable of a police force in England and Wales, it is to be paid out of the police fund from which the expenses of the police force are met;
-- (b) in the case of a constable of the Police Service of Scotland, it is to be paid by the Scottish Police Authority ;[^key-e9496e175cc3fc848da15587e17c1b40]
+- (b) in the case of a constable of the Police Service of Scotland, it is to be paid by the Scottish Police Authority ;[^c-e9496e175cc3fc848da15587e17c1b40]
 - (c) in the case of a police officer within the meaning of the Police (Northern Ireland) Act 2000, it is to be paid out of money provided by the Chief Constable of the Police Service of Northern Ireland.
 
 (7) If the account freezing order was applied for by an SFO officer, the compensation is to be paid by the Director of the Serious Fraud Office.
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9c617700803fb83acc47c3b52cf46ec6]: Textual amendment: [Pt. 5B](https://www.legislation.gov.uk/uksi/2005/3181/part/5B) inserted (12.11.2019) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [31](https://www.legislation.gov.uk/uksi/2018/1078/article/31)
+[^c-9c617700803fb83acc47c3b52cf46ec6]: Textual amendment: [Pt. 5B](https://www.legislation.gov.uk/uksi/2005/3181/part/5B) inserted (12.11.2019) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [31](https://www.legislation.gov.uk/uksi/2018/1078/article/31)
 
-[^key-e9496e175cc3fc848da15587e17c1b40]: Textual amendment: [Art. 213Z11(6)(c)](https://www.legislation.gov.uk/uksi/2005/3181/article/213Z11/6/c) inserted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [28](https://www.legislation.gov.uk/uksi/2021/638/article/28)
+[^c-e9496e175cc3fc848da15587e17c1b40]: Textual amendment: [Art. 213Z11(6)(c)](https://www.legislation.gov.uk/uksi/2005/3181/article/213Z11/6/c) inserted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [28](https://www.legislation.gov.uk/uksi/2021/638/article/28)

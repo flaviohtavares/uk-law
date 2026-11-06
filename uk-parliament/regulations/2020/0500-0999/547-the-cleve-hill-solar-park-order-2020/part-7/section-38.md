@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Protective provisions[^key-4bd76feac127acc43dcbc6531458d026]
+## 38. Protective provisions[^c-4bd76feac127acc43dcbc6531458d026]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 7 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-4bd76feac127acc43dcbc6531458d026]: Commencement: Art. 38 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-4bd76feac127acc43dcbc6531458d026]: Commencement: Art. 38 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 78. Deferment of accrued earned pension attributable to a transfer payment[^key-e6f9cf6c316d31118a8ac126ae4190de]
+## 78. Deferment of accrued earned pension attributable to a transfer payment[^c-e6f9cf6c316d31118a8ac126ae4190de]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6f9cf6c316d31118a8ac126ae4190de]: Commencement: [Reg. 78](https://www.legislation.gov.uk/nisr/2014/290/regulation/78) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-e6f9cf6c316d31118a8ac126ae4190de]: Commencement: [Reg. 78](https://www.legislation.gov.uk/nisr/2014/290/regulation/78) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

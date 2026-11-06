@@ -44,7 +44,7 @@ Section 21(1).
 
 **10.**[^M_C_57f9ce8e-1de9-4db2-b933-ceafcc9478af] Relieving from the excise duty chargeable on hydrocarbon oil produced in the United Kingdom any such oil intended for exportation or shipment as stores.
 
-**10A.**[^M_C_57f9ce8e-1de9-4db2-b933-ceafcc9478af][^key-f285125691363edfe004dfc3e49747aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10A.**[^M_C_57f9ce8e-1de9-4db2-b933-ceafcc9478af][^c-f285125691363edfe004dfc3e49747aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **10B.**[^M_C_57f9ce8e-1de9-4db2-b933-ceafcc9478af][^c11251991] Conferring power to require information relating to the supply or use of aviation gasoline to be given by producers, dealers and users.
 
@@ -118,7 +118,7 @@ In this Part of this Schedule “**the excise duty**” means the excise duty ch
 
 [^M_C_57f9ce8e-1de9-4db2-b933-ceafcc9478af]: Modification: Sch. 3 paras. 6-11 modified by [S.I. 2004/2065](https://www.legislation.gov.uk/uksi/2004/2065), [reg. 3(2)(g)](https://www.legislation.gov.uk/uksi/2004/2065/regulation/3/2/g) (as inserted (1.4.2008) by [The Hydrocarbon Oil, Biofuels and Other Fuel Substitutes (Determination of Composition of a Substance and Miscellaneous Amendments) Regulations 2008 (S.I. 2008/753)](https://www.legislation.gov.uk/uksi/2008/753), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/753/regulation/1/2), [8(2)(c)](https://www.legislation.gov.uk/uksi/2008/753/regulation/8/2/c))
 
-[^key-f285125691363edfe004dfc3e49747aa]: Textual amendment: Sch. 3 para. 10A omitted (1.11.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 6 paras. 7](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/7), [21](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/21)
+[^c-f285125691363edfe004dfc3e49747aa]: Textual amendment: Sch. 3 para. 10A omitted (1.11.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 6 paras. 7](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/7), [21](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/21)
 
 [^c11251991]: Textual amendment: Sch. 3 Pt. I paras. 10A-C inserted by [Finance Act 1992 (c. 39)](https://www.legislation.gov.uk/ukpga/1992/39), [s. 4(5)](https://www.legislation.gov.uk/ukpga/1992/39/section/4/5)
 

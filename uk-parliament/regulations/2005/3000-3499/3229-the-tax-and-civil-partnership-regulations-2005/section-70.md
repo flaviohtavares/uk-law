@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70.[^key-c70d52221cc601d7d304de42ac2a9e59]
+## 70.[^c-c70d52221cc601d7d304de42ac2a9e59]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 381 (further relief for individuals for losses in early years of trad
 
 ## Annotations
 
-[^key-c70d52221cc601d7d304de42ac2a9e59]: Commencement: Reg. 70 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-c70d52221cc601d7d304de42ac2a9e59]: Commencement: Reg. 70 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

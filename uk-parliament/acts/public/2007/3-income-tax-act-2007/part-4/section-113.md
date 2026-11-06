@@ -46,11 +46,11 @@ summary: ''
 
 (7) If this subsection applies—
 
-- (a) the restrictions under sections 66 and 74(1) do not apply in relation to the amounts of loss treated by this section as having been made in the current tax year, [^key-1a0a0a5b4723db73c8563985a976bae5]...
-- (b)[^key-1a0a0a5b4723db73c8563985a976bae5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the restrictions under sections 66 and 74(1) do not apply in relation to the amounts of loss treated by this section as having been made in the current tax year, [^c-1a0a0a5b4723db73c8563985a976bae5]...
+- (b)[^c-1a0a0a5b4723db73c8563985a976bae5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In subsection (1)(b) the reference to amounts of loss does not include amounts of loss which have been treated by section 109 as having been made in any previous tax year.
 
 ## Annotations
 
-[^key-1a0a0a5b4723db73c8563985a976bae5]: Textual amendment: [S. 113(7)(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/113/7/b) and word omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 53](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/53), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
+[^c-1a0a0a5b4723db73c8563985a976bae5]: Textual amendment: [S. 113(7)(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/113/7/b) and word omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 53](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/53), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)

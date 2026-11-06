@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Client money protection schemes: approval or designation[^key-923d97563dbbbca828dec70e9bdcce29]
+## 134. Client money protection schemes: approval or designation[^c-923d97563dbbbca828dec70e9bdcce29]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 - (c) conditions which must be complied with by administrators of approved or designated client money protection schemes (including conditions requiring the issue of certificates for the purposes of regulations under section 133(3) and about the form of those certificates);
 - (d) the withdrawal of approval or revocation of a designation.
 
-(3)[^key-d1e4a57a9d4ca8a098167d46b91fc576] Regulations under this section may confer a discretion on the Secretary of State in connection with—
+(3)[^c-d1e4a57a9d4ca8a098167d46b91fc576] Regulations under this section may confer a discretion on the Secretary of State in connection with—
 
 - (a) the approval or designation of a client money protection scheme,
 - (b) conditions which must be complied with by the administrator of such a scheme,
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-923d97563dbbbca828dec70e9bdcce29]: Commencement: S. 134 in force at 19.3.2018 by [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/251/regulation/3/b)
+[^c-923d97563dbbbca828dec70e9bdcce29]: Commencement: S. 134 in force at 19.3.2018 by [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/251/regulation/3/b)
 
-[^key-d1e4a57a9d4ca8a098167d46b91fc576]: Textual amendment: [S. 134(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/134/3) inserted (1.6.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2019/4/section/21/2), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1); [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(t)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/t)
+[^c-d1e4a57a9d4ca8a098167d46b91fc576]: Textual amendment: [S. 134(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/134/3) inserted (1.6.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2019/4/section/21/2), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1); [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(t)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/t)

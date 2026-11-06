@@ -43,11 +43,11 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 
 ## PART I — PRELIMINARY
 
-### 1. Citation and commencement[^key-005f4c77954ba5f953520532d1e5915d]
+### 1. Citation and commencement[^c-005f4c77954ba5f953520532d1e5915d]
 
 These Regulations may be cited as the Motor Vehicle Testing Regulations (Northern Ireland) 2003 and shall come into operation on 1st August 2003.
 
-### 2. Interpretation[^key-5357536bd54572707c6f2cc0c933b2b9]
+### 2. Interpretation[^c-5357536bd54572707c6f2cc0c933b2b9]
 
 (1) In these Regulations –
 
@@ -89,7 +89,7 @@ These Regulations may be cited as the Motor Vehicle Testing Regulations (Norther
 
 (4) For the purposes of these Regulations the provisions of regulation 2(4) of the Construction and Use Regulations shall apply for determining when a motor vehicle is first used.
 
-### 3. The prescribed statutory requirements[^key-d7934425883f3690b5d594e558fb2aa9]
+### 3. The prescribed statutory requirements[^c-d7934425883f3690b5d594e558fb2aa9]
 
 (1) The prescribed statutory requirements for the purposes of Article 61(1)(a) of the Order are in relation to any vehicle in a Class specified in an item in column 2 of the Table, the requirements specified in that item in column 3 of the Table, and in these Regulations those requirements are referred to as “the prescribed statutory requirements”.
 
@@ -113,11 +113,11 @@ TABLE
 
 (2) Subject to the provisions of these Regulations, every vehicle to which these Regulations apply and which is submitted for examination in accordance with the provisions of these Regulations shall be examined for the purpose of ascertaining whether those of the prescribed statutory requirements which are applicable to the vehicle have been complied with at the date of the examination.
 
-### 4. Condition of vehicles[^key-3889be298e1bb5459acfa0a12e4b10ba]
+### 4. Condition of vehicles[^c-3889be298e1bb5459acfa0a12e4b10ba]
 
 For the purposes of Article 61(1)(b) of the Order the requirement in relation to a vehicle to which these Regulations apply is that the condition of the vehicle should not be such that its use on a road would involve a danger of injury to any person, having regard, in particular, to the items described in Schedule 3, and in these Regulations that requirement is referred to as “the condition requirement”.
 
-### 5. Classification of vehicles and application of Regulations[^key-99ee56df70e6cf41bf0065dffadb6348]
+### 5. Classification of vehicles and application of Regulations[^c-99ee56df70e6cf41bf0065dffadb6348]
 
 (1) For the purposes of these Regulations motor vehicles to which they apply are classified as follows –
 
@@ -177,7 +177,7 @@ For the purposes of Article 61(1)(b) of the Order the requirement in relation to
     - (i) has not undergone an examination and been found to comply with the prescribed statutory requirements referred to in item 34 in paragraph 5(c) of Schedule 2; or
     - (ii) has undergone an examination and been found so to comply but is fitted in a vehicle in respect of which no test certificate has been issued to the effect that that is the case.
 
-### 6. Exemptions[^key-bc2959510e69f97df98c498c23cf0fc3]
+### 6. Exemptions[^c-bc2959510e69f97df98c498c23cf0fc3]
 
 (1) Article 63 of the Order does not apply to the following vehicles –
 
@@ -229,7 +229,7 @@ and for the purposes of this sub-paragraph “public road” means a road which 
 - (e) where the vehicle has been detained or seized by a police constable, for police purposes connected with such detention or seizure;
 - (f) where the vehicle has been removed, detained or seized or condemned as forfeited under any provision of the Customs and Excise Management Act 1979[^f00029] for any purpose authorised by an officer of Customs and Excise;
 - (g) for the purpose of testing it by a motor trader as defined in section 62(1) of the 1994 Act, to whom a trade licence has been issued under section 11 of the 1994 Act, during the course of, or after completion of repairs carried out to that vehicle by that motor trader;
-- (h)[^key-e01fccd0d66ae2d7801332e996f8a103] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .; and
+- (h)[^c-e01fccd0d66ae2d7801332e996f8a103] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .; and
 - (i) being a goods vehicle first used before 1st January 1960, which is used unladen and not drawing a laden trailer, and a trailer manufactured before 1st January 1960 and used unladen,
 
 is exempt from Article 63(1).
@@ -238,24 +238,24 @@ is exempt from Article 63(1).
 
 ## PART II — EXAMINATIONS
 
-### 7. Manner of making application for examinations, and fees[^key-ea2a7aea3aa9442bc7458e559eb457db]
+### 7. Manner of making application for examinations, and fees[^c-ea2a7aea3aa9442bc7458e559eb457db]
 
 (1) Any person wishing to have an examination carried out on a vehicle shall make application for that purpose to the Department.
 
 (2) Every person making an application under paragraph (1) shall provide such particulars as the Department may reasonably require and the appropriate fee as determined in accordance with paragraph 1 of Schedule 1.
 
-### 8. Time of application for tests[^key-71a522a3052335133ba57e6397da7e13]
+### 8. Time of application for tests[^c-71a522a3052335133ba57e6397da7e13]
 
 Every application for an examination of a vehicle shall be made –
 
 - (a) at least one month before the date on which the applicant desires to submit the vehicle for the examination; and
 - (b) not more than three months before the last day by which the vehicle is required by these Regulations to be submitted for the examination.
 
-### 9. Notice of place and time of examinations[^key-4d3379aec610022538dc406fbe71f3eb]
+### 9. Notice of place and time of examinations[^c-4d3379aec610022538dc406fbe71f3eb]
 
 As soon as reasonably practicable after the date of the receipt of an application for an examination and the appropriate fee for that examination the Department shall issue notice to the applicant of the vehicle testing centre at which the examination is to take place and the date and time reserved by the Department for that examination.
 
-### 10. Requirements as to vehicles submitted for examinations[^key-59a77f10672a5cbb1878a8424aef1107]
+### 10. Requirements as to vehicles submitted for examinations[^c-59a77f10672a5cbb1878a8424aef1107]
 
 (1) On being notified by the Department, the applicant shall present the vehicle for inspection in clean condition, together with the registration book and previous test certificate or licence, if any, at the time and centre specified in the notice.
 
@@ -269,7 +269,7 @@ As soon as reasonably practicable after the date of the receipt of an applicatio
 - (f) the vehicle, or any motor vehicle by which it is accompanied, emits substantial quantities of avoidable smoke; or
 - (g) an examiner is not able to complete the inspection due to the failure of a part of the vehicle, or any vehicle by which it is drawn or intended to be drawn, which renders the vehicle, or any such accompanying vehicle incapable of being moved in safety under the power of the vehicle or, as the case may be, of the accompanying vehicle.
 
-### 11. Application for re-examinations[^key-d6206643fa3de46e0fb06c5319cdae83]
+### 11. Application for re-examinations[^c-d6206643fa3de46e0fb06c5319cdae83]
 
 (1) Where, under regulation 12, a notification of the refusal of a test certificate in respect of a vehicle is issued, the vehicle may be submitted at a vehicle testing centre for a re-examination.
 
@@ -281,14 +281,14 @@ As soon as reasonably practicable after the date of the receipt of an applicatio
 
 (5) Where an application is made under paragraph (2) within 21 days from the date of service of the notice and the vehicle is presented for re-examination on a date and a time appointed by the Department, and some or all of the statutory requirements which were not complied with in the original examination relate to item 34 in paragraph 5(c) of Schedule 2, the fee payable is the appropriate fee determined in accordance with paragraph 3 of Schedule 1.
 
-### 12. Examinations, and issue of test certificates (or notices of refusal)[^key-15b5b1d04004a801434ce110157ddfb3]
+### 12. Examinations, and issue of test certificates (or notices of refusal)[^c-15b5b1d04004a801434ce110157ddfb3]
 
 On the submission of a vehicle for an examination the Department shall arrange for a vehicle to undergo that examination, and when that examination has been completed there shall be issued –
 
 - (a) where the vehicle is found to comply with the prescribed statutory requirements and the condition requirement, a test certificate, or
 - (b) where the vehicle is found not to comply with the prescribed statutory requirements or the condition requirement, a notice of refusal of a test certificate.
 
-### 13. Re-examination procedure, and issue of test certificates (or notices of refusal)[^key-3114625408f6bee1403a4fdc666a8bca]
+### 13. Re-examination procedure, and issue of test certificates (or notices of refusal)[^c-3114625408f6bee1403a4fdc666a8bca]
 
 (1) Where a vehicle is submitted for a re-examination at a vehicle testing centre in circumstances where the fee for the re-examination is payable under paragraph (4) of regulation 11 a vehicle examiner shall in carrying out the examination be under an obligation only to examine the vehicle for the purpose of ascertaining whether it complies with the particular items of the prescribed statutory requirements or the condition requirement with which it was shown in the notice of a refusal of a test certificate not to comply.
 
@@ -303,7 +303,7 @@ On the submission of a vehicle for an examination the Department shall arrange f
 
 (5) The person submitting the vehicle for re-examination shall produce the notification of refusal and the registration book relating to the vehicle, and the Department shall not be required to carry out the re-examination unless the notification of refusal and the registration book are produced.
 
-### 14. Form of test certificates and notices of refusal[^key-b4f005a5f863de808f84dc99c9276336]
+### 14. Form of test certificates and notices of refusal[^c-b4f005a5f863de808f84dc99c9276336]
 
 (1) Test certificates and notices of refusal of a test certificate issued under regulation 12 or 13 shall contain –
 
@@ -313,13 +313,13 @@ On the submission of a vehicle for an examination the Department shall arrange f
 
 (2) Test certificates issued under regulation 12 or 13 shall be signed by a vehicle examiner.
 
-### 15. Removal of vehicle submitted for examination[^key-4bbfd588ab7027745afa07a33cad9ff5]
+### 15. Removal of vehicle submitted for examination[^c-4bbfd588ab7027745afa07a33cad9ff5]
 
 A person presenting a vehicle for examination shall cause it to be removed from the vehicle testing centre before the end of the day on which the examination is completed.
 
 ## PART III — APPEALS
 
-### 16. Appeal on refusal of a test certificate[^key-145cb874e4bc4c5859fc18ca399567fa]
+### 16. Appeal on refusal of a test certificate[^c-145cb874e4bc4c5859fc18ca399567fa]
 
 - (l) An appeal under Article 61(4) of the Order shall be made in writing on a form issued by the Department and shall be sent, together with the appropriate fee determined in accordance with paragraph 1 of Schedule 1, to the Department within fourteen days from the date of issue of the notification of refusal.
 
@@ -332,7 +332,7 @@ A person presenting a vehicle for examination shall cause it to be removed from 
 
 and the Department shall not be required to carry out the examination unless the notification of refusal and registration book are produced and such information is given.
 
-### 17. Repayment of fee on appeal[^key-431e220edd03d51f642daa0708dfa39a]
+### 17. Repayment of fee on appeal[^c-431e220edd03d51f642daa0708dfa39a]
 
 (1) After the completion of the examination for the purpose of the appeal, the Department shall repay to the appellant the whole or part of the fee paid on the appeal where it appears to the Department that there were substantial grounds for contesting the whole or part of the decision appealed.
 
@@ -342,7 +342,7 @@ and the Department shall not be required to carry out the examination unless the
 
 ## PART IV — OTHER MATTERS
 
-### 18. Duplicate test certificates[^key-550b1131c8df1e97ee2cfea1c19ff127]
+### 18. Duplicate test certificates[^c-550b1131c8df1e97ee2cfea1c19ff127]
 
 (1) If a test certificate has been lost or defaced, an application for the issue of a duplicate of the original certificate may be made.
 
@@ -350,7 +350,7 @@ and the Department shall not be required to carry out the examination unless the
 
 (3) No such search need be made if the original certificate was issued more than thirteen months previously or if the applicant does not furnish with his application the approximate date of its issue, together with particulars of the registration mark of the vehicle to which the certificate relates and also either the address or identity of the vehicle testing centre at which the original certificate was issued.
 
-### 19. Suspension or revocation of test certificates[^key-4383ba0efeec00c56aec949fa5336144]
+### 19. Suspension or revocation of test certificates[^c-4383ba0efeec00c56aec949fa5336144]
 
 (1) The Department may suspend or revoke a test certificate if –
 
@@ -363,7 +363,7 @@ and the Department shall not be required to carry out the examination unless the
 - (a) the Department shall serve on the owner written notice of such suspension or revocation and the test certificate shall be deemed to be suspended or revoked as from the date of such service; and
 - (b) the owner shall deliver the test certificate to the vehicle testing centre specified in the notice within 7 days of the date of service of the notice.
 
-### 19A. Certificates of temporary exemption[^key-b33f80788194b634c457c3cceda352a4]
+### 19A. Certificates of temporary exemption[^c-b33f80788194b634c457c3cceda352a4]
 
 (1) The Department may issue in respect of a vehicle a certificate of temporary exemption, by virtue of which that vehicle shall not, during the period specified in the certificate be subject to the provisions of Article 63(1) of the 1995 Order, where it is satisfied that –
 
@@ -378,16 +378,16 @@ and the Department shall not be required to carry out the examination unless the
 
 (3) For the purposes of paragraph (1)(a) “exceptional circumstances” means a failure in the supply of essential services or other unexpected happening, a fire, an accident or industrial action.
 
-### 20. Production of test certificate on application for licence[^key-7b9406f671a1ba282da86f2406ebf640]
+### 20. Production of test certificate on application for licence[^c-7b9406f671a1ba282da86f2406ebf640]
 
-(1) Where an application is made for a licence under the 1994 Act for a motor vehicle to which Article 63(2)(a) of the Order applies, the licence shall not be granted unless there is produced a current test certificate or effective certificate of temporary exemption.[^key-429270a2c86c7665e58eeb63247125dd]
+(1) Where an application is made for a licence under the 1994 Act for a motor vehicle to which Article 63(2)(a) of the Order applies, the licence shall not be granted unless there is produced a current test certificate or effective certificate of temporary exemption.[^c-429270a2c86c7665e58eeb63247125dd]
 
 (2) Where an application is made for a licence under the 1994 Act for a motor vehicle to which Article 63(2)(b) of the Order applies, the licence shall not be granted unless –
 
-- (a) there is produced a current test certificate or effective certificate of temporary exemption[^key-4f7f7a94a98d3598b92ae69f2cab8cce]; or
-- (b)[^key-52097c0fc5ecf67334bf2c484d4fb5c4] the owner of the vehicle declares in writing the year in which the vehicle was manufactured, and a period of 4 years, or such other period specified by an order made by the Department under Article 63(9) of the Order, from the date of manufacture has not expired.
+- (a) there is produced a current test certificate or effective certificate of temporary exemption[^c-4f7f7a94a98d3598b92ae69f2cab8cce]; or
+- (b)[^c-52097c0fc5ecf67334bf2c484d4fb5c4] the owner of the vehicle declares in writing the year in which the vehicle was manufactured, and a period of 4 years, or such other period specified by an order made by the Department under Article 63(9) of the Order, from the date of manufacture has not expired.
 
-### 21. General provisions as to repayment of fees[^key-ee6dbd1db801b1ce3503c4bc407358e4]
+### 21. General provisions as to repayment of fees[^c-ee6dbd1db801b1ce3503c4bc407358e4]
 
 (1) The fees paid in pursuance of regulation 7(2) or 11(3) or (4) shall be repaid –
 
@@ -398,19 +398,19 @@ and the Department shall not be required to carry out the examination unless the
 
 (2) In this regulation “exceptional circumstances” means an accident, a fire, a failure in the supply of fuel or electricity or other unexpected happening (excluding a breakdown or mechanical defect in a vehicle or non-delivery of spare parts therefore).
 
-### 22. Fee payable for test under Article 75(5) or inspection under Article 81 of the Order[^key-400e45179687b19b2b0be99fc3bcc6ca]
+### 22. Fee payable for test under Article 75(5) or inspection under Article 81 of the Order[^c-400e45179687b19b2b0be99fc3bcc6ca]
 
 (1) The fee payable for a test under Article 75(5) of the Order is the appropriate fee determined in accordance with paragraph 5 of Schedule 1.
 
 (2) The fee payable for an inspection under Article 81 of the Order is the appropriate fee determined in accordance with paragraph 4 or 5, as the case may be, of Schedule 1.
 
-### 23. Computation of time[^key-a4484dee4eaa4b09d08a47f3793b2ad3]
+### 23. Computation of time[^c-a4484dee4eaa4b09d08a47f3793b2ad3]
 
 (1) Save in regulations 11(4), 16(1), 19(2)(b) and 21(1)(d) (insofar as it relates to 7 days), no period of time prescribed in these Regulations shall include any day which is a Saturday, Sunday or public holiday.
 
 (2) For the purposes of these Regulations “public holiday” shall not include Good Friday and shall include Easter Tuesday.
 
-### 24. Revocation[^key-10ab30fbd32cccbb9f9abe6c5b4214ce]
+### 24. Revocation[^c-10ab30fbd32cccbb9f9abe6c5b4214ce]
 
 The Regulations specified in Schedule 4 are hereby revoked.
 
@@ -422,7 +422,7 @@ A senior officer of the
 
 Department of the Environment
 
-## SCHEDULE 1 — FEES[^key-a25bd57ffd4b3a709c1343323a1b014e]
+## SCHEDULE 1 — FEES[^c-a25bd57ffd4b3a709c1343323a1b014e]
 
 Regulations 7(2), 11(3), (4) and (5), 16(1), 18(2) and 22
 
@@ -497,7 +497,7 @@ Regulations 7(2), 11(3), (4) and (5), 16(1), 18(2) and 22
 
 Regulation 3(1)
 
-**1.**[^key-a66f88f574db4468d5ee617a70dc7e79]
+**1.**[^c-a66f88f574db4468d5ee617a70dc7e79]
 
 - (a) The requirements contained in the following provisions of the Construction and Use Regulations:
 
@@ -533,7 +533,7 @@ Regulation 3(1)
 
 ### THE PRESCRIBED STATUTORY REQUIREMENTS FOR VEHICLES IN CLASS III
 
-**2.**[^key-581a7c8430a38ef2b50b86ada4b320f9]
+**2.**[^c-581a7c8430a38ef2b50b86ada4b320f9]
 
 - (a) The requirements specified in items 1 to 5, 7 to 9 and 11 to 19, in paragraph 1.
 - (b) The requirements contained in the following provisions of the Construction and Use Regulations:
@@ -556,7 +556,7 @@ Regulation 3(1)
 
 ### THE PRESCRIBED STATUTORY REQUIREMENTS FOR VEHICLES IN CLASS IV
 
-**3.**[^key-6364f850376e8c7e2138c2ccf9ed4f97]
+**3.**[^c-6364f850376e8c7e2138c2ccf9ed4f97]
 
 - (a) The requirements specified in items 1 to 5, 7 to 9 and 11 to 28 in paragraphs 1 and 2.
 - (b) The requirements contained in the following provisions of the Construction and Use Regulations:
@@ -571,7 +571,7 @@ Regulation 3(1)
 
 ### THE PRESCRIBED STATUTORY REQUIREMENTS FOR VEHICLES IN CLASS V
 
-**4.**[^key-4612c8eaea59090f1c13152268cdf201]
+**4.**[^c-4612c8eaea59090f1c13152268cdf201]
 
 - (a) The requirements specified in items 1 to 5, 7 to 9, 11 to 30 and 32 in paragraphs 1 to 3.
 - (b) The requirements of paragraph 3(c).
@@ -583,7 +583,7 @@ Regulation 3(1)
 
 ### THE PRESCRIBED STATUTORY REQUIREMENTS FOR VEHICLES IN CLASS VA
 
-**5.**[^key-f8829f43b1449ad555c6a12f472f1888]
+**5.**[^c-f8829f43b1449ad555c6a12f472f1888]
 
 - (a) The requirements specified in items 1 to 5, 7 to 9, 11 to 30, 32 and 33 in paragraphs 1 to 4.
 - (b) The requirements of paragraph 3(c).
@@ -595,7 +595,7 @@ Regulation 3(1)
 
 ### THE PRESCRIBED STATUTORY REQUIREMENTS FOR VEHICLES IN CLASS VI
 
-**6.**[^key-0afe2413d3c7833e5f52feb73c476859]
+**6.**[^c-0afe2413d3c7833e5f52feb73c476859]
 
 - (a) The requirements specified in items 1 to 5, 7 to 9, 11 to 30, 32 and 33 in paragraphs 1 to 4.
 - (b) For minibuses of a type mentioned in regulation 50 of the Construction and Use Regulations, the requirements specified in Schedules 6 and 7 to those Regulations.
@@ -603,12 +603,12 @@ Regulation 3(1)
 
 ### THE PRESCRIBED STATUTORY REQUIREMENTS FOR VEHICLES IN CLASS VIA
 
-**7.**[^key-7021f4c7b60d98de13b8b07f809983c0]
+**7.**[^c-7021f4c7b60d98de13b8b07f809983c0]
 
 - (a) The requirements specified in items 1 to 5, 7 to 9, 11 to 30 and 32 to 34 in paragraphs 1 to 5.
 - (b) The requirements of paragraphs 6(b) and (c).
 
-## SCHEDULE 3 — CONDITION OF VEHICLES[^key-7bdfd614b823ac0e1633957fe203ed57]
+## SCHEDULE 3 — CONDITION OF VEHICLES[^c-7bdfd614b823ac0e1633957fe203ed57]
 
 Regulation 4
 
@@ -638,7 +638,7 @@ Regulation 4
 - seat belts;
 - entrances and exits.
 
-## SCHEDULE 4 — REGULATIONS REVOKED[^key-496a27915c252b8b97c2da8de86a7b58]
+## SCHEDULE 4 — REGULATIONS REVOKED[^c-496a27915c252b8b97c2da8de86a7b58]
 
 Regulation 24
 
@@ -666,9 +666,9 @@ Any person who acts in contravention of the Regulations shall be guilty of an of
 
 [^f00001]: Footnote: [S.I. 1995/2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994); *see* Article 2(2) for the definition of “the Department” and “prescribed”
 
-[^key-005f4c77954ba5f953520532d1e5915d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-005f4c77954ba5f953520532d1e5915d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
-[^key-5357536bd54572707c6f2cc0c933b2b9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2003/303/regulation/2) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-5357536bd54572707c6f2cc0c933b2b9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2003/303/regulation/2) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
 [^f00002]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22)
 
@@ -680,11 +680,11 @@ Any person who acts in contravention of the Regulations shall be guilty of an of
 
 [^f00006]: Footnote: Article 79A was inserted by Part II of Sch. 3 to [S.I. 1991/197 (N.I. 3)](https://www.legislation.gov.uk/nisi/1991/197)
 
-[^key-d7934425883f3690b5d594e558fb2aa9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/303/regulation/3) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-d7934425883f3690b5d594e558fb2aa9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/303/regulation/3) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
-[^key-3889be298e1bb5459acfa0a12e4b10ba]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2003/303/regulation/4) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-3889be298e1bb5459acfa0a12e4b10ba]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2003/303/regulation/4) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
-[^key-99ee56df70e6cf41bf0065dffadb6348]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2003/303/regulation/5) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-99ee56df70e6cf41bf0065dffadb6348]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2003/303/regulation/5) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
 [^f00007]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52)
 
@@ -720,7 +720,7 @@ Any person who acts in contravention of the Regulations shall be guilty of an of
 
 [^f00023]: Footnote: By an instrument of accession dated 14th January 1963 deposited with the Secretary General of the United Nations on 15th January 1963
 
-[^key-bc2959510e69f97df98c498c23cf0fc3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2003/303/regulation/6) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-bc2959510e69f97df98c498c23cf0fc3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2003/303/regulation/6) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
 [^f00024]: Footnote: [S.R. & O. (N.I.) 1963 No. 79](https://www.legislation.gov.uk/nisro/1963/79)
 
@@ -734,70 +734,70 @@ Any person who acts in contravention of the Regulations shall be guilty of an of
 
 [^f00029]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2)
 
-[^key-e01fccd0d66ae2d7801332e996f8a103]: Textual amendment: [Reg. 6(2)(h)](https://www.legislation.gov.uk/nisr/2003/303/regulation/6/2/h) omitted (24.11.2005) by [The Motor Vehicle Testing (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/409)](https://www.legislation.gov.uk/nisr/2005/409), [regs. 1](https://www.legislation.gov.uk/nisr/2005/409/regulation/1), [2](https://www.legislation.gov.uk/nisr/2005/409/regulation/2)
+[^c-e01fccd0d66ae2d7801332e996f8a103]: Textual amendment: [Reg. 6(2)(h)](https://www.legislation.gov.uk/nisr/2003/303/regulation/6/2/h) omitted (24.11.2005) by [The Motor Vehicle Testing (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/409)](https://www.legislation.gov.uk/nisr/2005/409), [regs. 1](https://www.legislation.gov.uk/nisr/2005/409/regulation/1), [2](https://www.legislation.gov.uk/nisr/2005/409/regulation/2)
 
-[^key-ea2a7aea3aa9442bc7458e559eb457db]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2003/303/regulation/7) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-ea2a7aea3aa9442bc7458e559eb457db]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2003/303/regulation/7) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
-[^key-71a522a3052335133ba57e6397da7e13]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2003/303/regulation/8) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-71a522a3052335133ba57e6397da7e13]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2003/303/regulation/8) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
-[^key-4d3379aec610022538dc406fbe71f3eb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2003/303/regulation/9) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-4d3379aec610022538dc406fbe71f3eb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2003/303/regulation/9) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
-[^key-59a77f10672a5cbb1878a8424aef1107]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2003/303/regulation/10) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-59a77f10672a5cbb1878a8424aef1107]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2003/303/regulation/10) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
-[^key-d6206643fa3de46e0fb06c5319cdae83]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2003/303/regulation/11) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-d6206643fa3de46e0fb06c5319cdae83]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2003/303/regulation/11) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
-[^key-15b5b1d04004a801434ce110157ddfb3]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2003/303/regulation/12) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-15b5b1d04004a801434ce110157ddfb3]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2003/303/regulation/12) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
-[^key-3114625408f6bee1403a4fdc666a8bca]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2003/303/regulation/13) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-3114625408f6bee1403a4fdc666a8bca]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2003/303/regulation/13) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
-[^key-b4f005a5f863de808f84dc99c9276336]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2003/303/regulation/14) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-b4f005a5f863de808f84dc99c9276336]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2003/303/regulation/14) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
-[^key-4bbfd588ab7027745afa07a33cad9ff5]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2003/303/regulation/15) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-4bbfd588ab7027745afa07a33cad9ff5]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2003/303/regulation/15) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
-[^key-145cb874e4bc4c5859fc18ca399567fa]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2003/303/regulation/16) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-145cb874e4bc4c5859fc18ca399567fa]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2003/303/regulation/16) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
-[^key-431e220edd03d51f642daa0708dfa39a]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2003/303/regulation/17) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-431e220edd03d51f642daa0708dfa39a]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2003/303/regulation/17) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
-[^key-550b1131c8df1e97ee2cfea1c19ff127]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2003/303/regulation/18) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-550b1131c8df1e97ee2cfea1c19ff127]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2003/303/regulation/18) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
-[^key-4383ba0efeec00c56aec949fa5336144]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2003/303/regulation/19) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-4383ba0efeec00c56aec949fa5336144]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2003/303/regulation/19) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
-[^key-b33f80788194b634c457c3cceda352a4]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/nisr/2003/303/regulation/19A) inserted (9.8.2004) by [Motor Vehicle Testing (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/321)](https://www.legislation.gov.uk/nisr/2004/321), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/321/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2004/321/regulation/2)
+[^c-b33f80788194b634c457c3cceda352a4]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/nisr/2003/303/regulation/19A) inserted (9.8.2004) by [Motor Vehicle Testing (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/321)](https://www.legislation.gov.uk/nisr/2004/321), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/321/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2004/321/regulation/2)
 
-[^key-7b9406f671a1ba282da86f2406ebf640]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2003/303/regulation/20) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-7b9406f671a1ba282da86f2406ebf640]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2003/303/regulation/20) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
-[^key-429270a2c86c7665e58eeb63247125dd]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/nisr/2003/303/regulation/20/1) inserted (9.8.2004) by [Motor Vehicle Testing (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/321)](https://www.legislation.gov.uk/nisr/2004/321), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/321/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2004/321/regulation/3/2)
+[^c-429270a2c86c7665e58eeb63247125dd]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/nisr/2003/303/regulation/20/1) inserted (9.8.2004) by [Motor Vehicle Testing (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/321)](https://www.legislation.gov.uk/nisr/2004/321), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/321/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2004/321/regulation/3/2)
 
-[^key-4f7f7a94a98d3598b92ae69f2cab8cce]: Textual amendment: Words in [reg. 20(2)(a)](https://www.legislation.gov.uk/nisr/2003/303/regulation/20/2/a) inserted (9.8.2004) by [Motor Vehicle Testing (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/321)](https://www.legislation.gov.uk/nisr/2004/321), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/321/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2004/321/regulation/3/3)
+[^c-4f7f7a94a98d3598b92ae69f2cab8cce]: Textual amendment: Words in [reg. 20(2)(a)](https://www.legislation.gov.uk/nisr/2003/303/regulation/20/2/a) inserted (9.8.2004) by [Motor Vehicle Testing (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/321)](https://www.legislation.gov.uk/nisr/2004/321), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/321/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2004/321/regulation/3/3)
 
-[^key-52097c0fc5ecf67334bf2c484d4fb5c4]: Textual amendment: [Reg. 20(2)(b)](https://www.legislation.gov.uk/nisr/2003/303/regulation/20/2/b) substituted (1.1.2004) by [Motor Vehicles Testing (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/518)](https://www.legislation.gov.uk/nisr/2003/518), [regs. 1](https://www.legislation.gov.uk/nisr/2003/518/regulation/1), [2](https://www.legislation.gov.uk/nisr/2003/518/regulation/2)
+[^c-52097c0fc5ecf67334bf2c484d4fb5c4]: Textual amendment: [Reg. 20(2)(b)](https://www.legislation.gov.uk/nisr/2003/303/regulation/20/2/b) substituted (1.1.2004) by [Motor Vehicles Testing (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/518)](https://www.legislation.gov.uk/nisr/2003/518), [regs. 1](https://www.legislation.gov.uk/nisr/2003/518/regulation/1), [2](https://www.legislation.gov.uk/nisr/2003/518/regulation/2)
 
-[^key-ee6dbd1db801b1ce3503c4bc407358e4]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2003/303/regulation/21) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-ee6dbd1db801b1ce3503c4bc407358e4]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2003/303/regulation/21) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
-[^key-400e45179687b19b2b0be99fc3bcc6ca]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2003/303/regulation/22) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-400e45179687b19b2b0be99fc3bcc6ca]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2003/303/regulation/22) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
-[^key-a4484dee4eaa4b09d08a47f3793b2ad3]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2003/303/regulation/23) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-a4484dee4eaa4b09d08a47f3793b2ad3]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2003/303/regulation/23) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
-[^key-10ab30fbd32cccbb9f9abe6c5b4214ce]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2003/303/regulation/24) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-10ab30fbd32cccbb9f9abe6c5b4214ce]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2003/303/regulation/24) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
-[^key-a25bd57ffd4b3a709c1343323a1b014e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2003/303/schedule/1) substituted (1.10.2005) by [The Motor Vehicle Testing (Amendment) (Fees) Regulations (Northern Ireland) 2005 (S.R. 2005/404)](https://www.legislation.gov.uk/nisr/2005/404), [regs. 1](https://www.legislation.gov.uk/nisr/2005/404/regulation/1), [2](https://www.legislation.gov.uk/nisr/2005/404/regulation/2)
+[^c-a25bd57ffd4b3a709c1343323a1b014e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2003/303/schedule/1) substituted (1.10.2005) by [The Motor Vehicle Testing (Amendment) (Fees) Regulations (Northern Ireland) 2005 (S.R. 2005/404)](https://www.legislation.gov.uk/nisr/2005/404), [regs. 1](https://www.legislation.gov.uk/nisr/2005/404/regulation/1), [2](https://www.legislation.gov.uk/nisr/2005/404/regulation/2)
 
-[^key-a66f88f574db4468d5ee617a70dc7e79]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2003/303/schedule/2/paragraph/1) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-a66f88f574db4468d5ee617a70dc7e79]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2003/303/schedule/2/paragraph/1) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
 [^f00030]: Footnote: [S.R. & O. 1973 No. 490](https://www.legislation.gov.uk/nisro/1973/490); relevant amending Regulations are [S.I. 1976/2180](https://www.legislation.gov.uk/uksi/1976/2180)
 
-[^key-581a7c8430a38ef2b50b86ada4b320f9]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2003/303/schedule/2/paragraph/2) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-581a7c8430a38ef2b50b86ada4b320f9]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2003/303/schedule/2/paragraph/2) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
-[^key-6364f850376e8c7e2138c2ccf9ed4f97]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2003/303/schedule/2/paragraph/3) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-6364f850376e8c7e2138c2ccf9ed4f97]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2003/303/schedule/2/paragraph/3) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
-[^key-4612c8eaea59090f1c13152268cdf201]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2003/303/schedule/2/paragraph/4) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-4612c8eaea59090f1c13152268cdf201]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2003/303/schedule/2/paragraph/4) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
-[^key-f8829f43b1449ad555c6a12f472f1888]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2003/303/schedule/2/paragraph/5) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-f8829f43b1449ad555c6a12f472f1888]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2003/303/schedule/2/paragraph/5) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
-[^key-0afe2413d3c7833e5f52feb73c476859]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2003/303/schedule/2/paragraph/6) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-0afe2413d3c7833e5f52feb73c476859]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2003/303/schedule/2/paragraph/6) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
-[^key-7021f4c7b60d98de13b8b07f809983c0]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2003/303/schedule/2/paragraph/7) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-7021f4c7b60d98de13b8b07f809983c0]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2003/303/schedule/2/paragraph/7) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
-[^key-7bdfd614b823ac0e1633957fe203ed57]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2003/303/schedule/3) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-7bdfd614b823ac0e1633957fe203ed57]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2003/303/schedule/3) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
 
-[^key-496a27915c252b8b97c2da8de86a7b58]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2003/303/schedule/4) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)
+[^c-496a27915c252b8b97c2da8de86a7b58]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2003/303/schedule/4) in operation at 1.8.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1)

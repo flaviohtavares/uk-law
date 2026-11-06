@@ -58,8 +58,8 @@ the Secretary of State may, if paragraph (8) applies, determine afresh whether t
 - (b) the Secretary of State wishes to determine whether the previous determination of limited capability for work or that the claimant is to be treated as having limited capability for work, was made in ignorance of, or was based on a mistake as to, some material fact; or
 - (c) at least three months have passed since the date on which the claimant was determined to have limited capability for work or to be treated as having limited capability for work.
 
-(9)[^key-e28c557a937ebdec8ae9428c049ca9b6] For the purposes of paragraph (8)(a), doing work for payment or in expectation of payment, or doing voluntary work, is not a relevant change of circumstances.
+(9)[^c-e28c557a937ebdec8ae9428c049ca9b6] For the purposes of paragraph (8)(a), doing work for payment or in expectation of payment, or doing voluntary work, is not a relevant change of circumstances.
 
 ## Annotations
 
-[^key-e28c557a937ebdec8ae9428c049ca9b6]: Textual amendment: [Reg. 15(9)](https://www.legislation.gov.uk/uksi/2013/379/regulation/15/9) inserted (30.4.2026) by [The Universal Credit, Personal Independence Payment and Employment and Support Allowance (Amendment) Regulations 2026 (S.I. 2026/395)](https://www.legislation.gov.uk/uksi/2026/395), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/395/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2026/395/regulation/4/2)
+[^c-e28c557a937ebdec8ae9428c049ca9b6]: Textual amendment: [Reg. 15(9)](https://www.legislation.gov.uk/uksi/2013/379/regulation/15/9) inserted (30.4.2026) by [The Universal Credit, Personal Independence Payment and Employment and Support Allowance (Amendment) Regulations 2026 (S.I. 2026/395)](https://www.legislation.gov.uk/uksi/2026/395), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/395/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2026/395/regulation/4/2)

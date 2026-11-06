@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.45. Shorthand writers[^key-466b06dc1c22a96978a97241ad795277]
+## 4.45. Shorthand writers[^c-466b06dc1c22a96978a97241ad795277]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-466b06dc1c22a96978a97241ad795277]: Commencement: Rule 4.45 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-466b06dc1c22a96978a97241ad795277]: Commencement: Rule 4.45 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

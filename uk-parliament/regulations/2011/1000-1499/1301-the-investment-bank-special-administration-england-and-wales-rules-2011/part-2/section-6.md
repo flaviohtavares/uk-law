@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Content of application[^key-0de36499d4db369d69e739cc3295a9e6]
+## 6. Content of application[^c-0de36499d4db369d69e739cc3295a9e6]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0de36499d4db369d69e739cc3295a9e6]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2011/1301/rule/6) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-0de36499d4db369d69e739cc3295a9e6]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2011/1301/rule/6) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

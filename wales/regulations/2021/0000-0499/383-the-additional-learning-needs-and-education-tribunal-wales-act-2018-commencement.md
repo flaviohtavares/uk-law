@@ -31,7 +31,7 @@ summary: ''
 
 Education, Wales
 
-[^key-1b7ad9dd0ded823bda86555a2f5ac209]The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 4 and Transitional and Saving Provisions) Order 2021 (revoked)
+[^c-1b7ad9dd0ded823bda86555a2f5ac209]The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 4 and Transitional and Saving Provisions) Order 2021 (revoked)
 
 Made
 
@@ -41,52 +41,52 @@ Made
 
 **No longer in force.**
 
-## 1. Title and interpretation[^key-1b7ad9dd0ded823bda86555a2f5ac209]
+## 1. Title and interpretation[^c-1b7ad9dd0ded823bda86555a2f5ac209]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Meaning of identified special educational needs[^key-1b7ad9dd0ded823bda86555a2f5ac209]
+## 2. Meaning of identified special educational needs[^c-1b7ad9dd0ded823bda86555a2f5ac209]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Provisions coming into force on 1 September 2021[^key-1b7ad9dd0ded823bda86555a2f5ac209]
+## 3. Provisions coming into force on 1 September 2021[^c-1b7ad9dd0ded823bda86555a2f5ac209]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Saving provision[^key-1b7ad9dd0ded823bda86555a2f5ac209]
+## 4. Saving provision[^c-1b7ad9dd0ded823bda86555a2f5ac209]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of new law[^key-1b7ad9dd0ded823bda86555a2f5ac209]
+## 5. Application of new law[^c-1b7ad9dd0ded823bda86555a2f5ac209]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-1b7ad9dd0ded823bda86555a2f5ac209]
+## 6.[^c-1b7ad9dd0ded823bda86555a2f5ac209]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-1b7ad9dd0ded823bda86555a2f5ac209]
+## 7.[^c-1b7ad9dd0ded823bda86555a2f5ac209]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Right to ask to transfer to new law[^key-1b7ad9dd0ded823bda86555a2f5ac209]
+## 8. Right to ask to transfer to new law[^c-1b7ad9dd0ded823bda86555a2f5ac209]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Regard to special educational provision when preparing an individual development plan[^key-1b7ad9dd0ded823bda86555a2f5ac209]
+## 9. Regard to special educational provision when preparing an individual development plan[^c-1b7ad9dd0ded823bda86555a2f5ac209]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1b7ad9dd0ded823bda86555a2f5ac209]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b7ad9dd0ded823bda86555a2f5ac209]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1b7ad9dd0ded823bda86555a2f5ac209]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b7ad9dd0ded823bda86555a2f5ac209]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1b7ad9dd0ded823bda86555a2f5ac209]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b7ad9dd0ded823bda86555a2f5ac209]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1b7ad9dd0ded823bda86555a2f5ac209]: Textual amendment: Order revoked (12.8.2021) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Amendment of Commencement Order No. 2 and Revocation of Commencement Order No. 3 and Commencement Order No. 4) Order 2021 (S.I. 2021/938)](https://www.legislation.gov.uk/wsi/2021/938), [art. 4](https://www.legislation.gov.uk/wsi/2021/938/article/4)
+[^c-1b7ad9dd0ded823bda86555a2f5ac209]: Textual amendment: Order revoked (12.8.2021) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Amendment of Commencement Order No. 2 and Revocation of Commencement Order No. 3 and Commencement Order No. 4) Order 2021 (S.I. 2021/938)](https://www.legislation.gov.uk/wsi/2021/938), [art. 4](https://www.legislation.gov.uk/wsi/2021/938/article/4)

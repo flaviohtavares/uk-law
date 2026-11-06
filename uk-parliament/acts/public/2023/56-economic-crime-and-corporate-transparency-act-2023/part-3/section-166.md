@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Material unavailable for public inspection: verification information[^key-6716f33a495238f98bc79f77f3124e92]
+## 166. Material unavailable for public inspection: verification information[^c-6716f33a495238f98bc79f77f3124e92]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ In section 16 of the Economic Crime (Transparency and Enforcement) Act 2022 (ver
 
 ## Annotations
 
-[^key-6716f33a495238f98bc79f77f3124e92]: Commencement: S. 166 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-6716f33a495238f98bc79f77f3124e92]: Commencement: S. 166 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

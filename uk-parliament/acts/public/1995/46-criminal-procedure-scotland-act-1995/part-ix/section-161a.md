@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161A. Verdict of guilty or not guilty[^key-f839d8188fae6da7aa49dde6ea593770]
+## 161A. Verdict of guilty or not guilty[^c-f839d8188fae6da7aa49dde6ea593770]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In respect of each charge, the court must deliver a verdict of either—
 
 ## Annotations
 
-[^key-f839d8188fae6da7aa49dde6ea593770]: Textual amendment: S. 161A inserted (1.1.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 66(2)](https://www.legislation.gov.uk/asp/2025/12/section/66/2), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2025/393](https://www.legislation.gov.uk/ssi/2025/393), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/393/regulation/2/1/c) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/393/regulation/3))
+[^c-f839d8188fae6da7aa49dde6ea593770]: Textual amendment: S. 161A inserted (1.1.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 66(2)](https://www.legislation.gov.uk/asp/2025/12/section/66/2), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2025/393](https://www.legislation.gov.uk/ssi/2025/393), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/393/regulation/2/1/c) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/393/regulation/3))

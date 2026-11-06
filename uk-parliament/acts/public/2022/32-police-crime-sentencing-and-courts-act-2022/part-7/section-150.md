@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Increases in maximum daily curfew hours and curfew requirement period[^key-5a27680134e650af1fe8875c63354879]
+## 150. Increases in maximum daily curfew hours and curfew requirement period[^c-5a27680134e650af1fe8875c63354879]
 
 *Extent: E+W*
 
@@ -55,7 +55,7 @@ summary: ''
 
 (7) The Criminal Justice Act 2003 is amended in accordance with subsections (8) and (9).
 
-(8)[^key-6898c5c8a6a8ed6f081c666a5f673d9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-6898c5c8a6a8ed6f081c666a5f673d9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) In Schedule 31 (default orders: modification of provisions relating to community orders), in paragraph 3—
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5a27680134e650af1fe8875c63354879]: Commencement: S. 150 in force at 28.6.2022, see [s. 208(5)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/q)
+[^c-5a27680134e650af1fe8875c63354879]: Commencement: S. 150 in force at 28.6.2022, see [s. 208(5)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/q)
 
-[^key-6898c5c8a6a8ed6f081c666a5f673d9c]: Textual amendment: [S. 150(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/150/8) omitted (11.5.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1), [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/16) (with [s. 34(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/4)[(5)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/5)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
+[^c-6898c5c8a6a8ed6f081c666a5f673d9c]: Textual amendment: [S. 150(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/150/8) omitted (11.5.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1), [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/16) (with [s. 34(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/4)[(5)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/5)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)

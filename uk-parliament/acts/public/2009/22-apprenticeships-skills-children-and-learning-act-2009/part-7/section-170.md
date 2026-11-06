@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. Duty not to impose or maintain unnecessary burdens[^key-51be1781b1e38d39cc6d4f2486706650]
+## 170. Duty not to impose or maintain unnecessary burdens[^c-51be1781b1e38d39cc6d4f2486706650]
 
 *Extent: E+W+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51be1781b1e38d39cc6d4f2486706650]: Commencement: S. 170 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-51be1781b1e38d39cc6d4f2486706650]: Commencement: S. 170 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)

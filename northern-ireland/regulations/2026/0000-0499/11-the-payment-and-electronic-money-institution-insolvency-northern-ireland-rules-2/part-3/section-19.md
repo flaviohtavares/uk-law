@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Details of the asset pool, safeguarding measures and reconciliation[^key-d322f9783746694e686496c0acc05e8a]
+## 19. Details of the asset pool, safeguarding measures and reconciliation[^c-d322f9783746694e686496c0acc05e8a]
 
 *Extent: N.I.*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d322f9783746694e686496c0acc05e8a]: Commencement: [Rule 19](https://www.legislation.gov.uk/nisr/2026/11/rule/19) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-d322f9783746694e686496c0acc05e8a]: Commencement: [Rule 19](https://www.legislation.gov.uk/nisr/2026/11/rule/19) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
 
 [^f00011]: Footnote: [S.I. 2017/752](https://www.legislation.gov.uk/uksi/2017/752), amended by [S.I. 2017/1173](https://www.legislation.gov.uk/uksi/2017/1173), [2018/1021](https://www.legislation.gov.uk/uksi/2018/1021). There are other amending instruments but none is relevant.
 

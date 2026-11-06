@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Certification of plans etc.[^key-3df3b02f230a38c78181590484f13a34]
+## 48. Certification of plans etc.[^c-3df3b02f230a38c78181590484f13a34]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The promoter must, as soon as practicable after the making of this Order, submit
 
 ## Annotations
 
-[^key-3df3b02f230a38c78181590484f13a34]: Commencement: Art. 48 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-3df3b02f230a38c78181590484f13a34]: Commencement: Art. 48 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

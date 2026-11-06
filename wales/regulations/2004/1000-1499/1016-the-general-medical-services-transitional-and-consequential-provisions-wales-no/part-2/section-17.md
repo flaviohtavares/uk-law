@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Independent nurse prescribers and supplementary prescribers[^key-62cbbeb899a51a3a8d1ae0147d961b3d]
+## 17. Independent nurse prescribers and supplementary prescribers[^c-62cbbeb899a51a3a8d1ae0147d961b3d]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-62cbbeb899a51a3a8d1ae0147d961b3d]: Commencement: Art. 17 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-62cbbeb899a51a3a8d1ae0147d961b3d]: Commencement: Art. 17 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00026]: Footnote: Paragraph 28A was inserted by [S.I. 1999/326](https://www.legislation.gov.uk/uksi/1999/326).
 

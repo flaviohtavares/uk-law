@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Objective of education administration[^key-3b0ada8f6da0e2386a04949c981fcf0f]
+## 16. Objective of education administration[^c-3b0ada8f6da0e2386a04949c981fcf0f]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b0ada8f6da0e2386a04949c981fcf0f]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2017/19/section/16) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-3b0ada8f6da0e2386a04949c981fcf0f]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2017/19/section/16) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

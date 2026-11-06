@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Meetings of committees[^key-e44563c316486cbdb7846044ebc1e41b]
+## 72. Meetings of committees[^c-e44563c316486cbdb7846044ebc1e41b]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 
 but where the chair of the committee so determines on the ground that there are matters demanding urgent consideration, it is sufficient if the written notice of the meeting states that fact and the notice, agenda and reports or other papers to be considered at the meeting are given within such shorter period as that person directs or decides (as the case may be).
 
-(3A)[^key-b0f0ed0aa6fa58e58a415fa9034456d8] Committee meetings may be held by remote access provided that the following conditions are met—
+(3A)[^c-b0f0ed0aa6fa58e58a415fa9034456d8] Committee meetings may be held by remote access provided that the following conditions are met—
 
 - (a) the participants will be able to fully make representations or discharge their functions (as the case may be);
 - (b) the participants agree to the meeting being held using remote access;
@@ -57,6 +57,6 @@ but where the chair of the committee so determines on the ground that there are 
 
 ## Annotations
 
-[^key-e44563c316486cbdb7846044ebc1e41b]: Commencement: Reg. 72 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-e44563c316486cbdb7846044ebc1e41b]: Commencement: Reg. 72 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
 
-[^key-b0f0ed0aa6fa58e58a415fa9034456d8]: Textual amendment: [Reg. 72(3A)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/72/3A) inserted (18.12.2020) by [The Federation of Maintained Schools (Wales) (Amendment) Regulations 2020 (S.I. 2020/1328)](https://www.legislation.gov.uk/wsi/2020/1328), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1328/regulation/1), [3(4)](https://www.legislation.gov.uk/wsi/2020/1328/regulation/3/4)
+[^c-b0f0ed0aa6fa58e58a415fa9034456d8]: Textual amendment: [Reg. 72(3A)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/72/3A) inserted (18.12.2020) by [The Federation of Maintained Schools (Wales) (Amendment) Regulations 2020 (S.I. 2020/1328)](https://www.legislation.gov.uk/wsi/2020/1328), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1328/regulation/1), [3(4)](https://www.legislation.gov.uk/wsi/2020/1328/regulation/3/4)

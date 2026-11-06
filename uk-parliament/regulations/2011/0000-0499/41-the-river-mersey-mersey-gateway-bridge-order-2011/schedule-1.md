@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — SCHEDULED WORKS[^key-5dffa3e9079e4364df76dc9b29da8602]
+## SCHEDULE 1 — SCHEDULED WORKS[^c-5dffa3e9079e4364df76dc9b29da8602]
 
 *Extent: E+W+S*
 
 Article 4
 
-[^key-5dffa3e9079e4364df76dc9b29da8602]
+[^c-5dffa3e9079e4364df76dc9b29da8602]
 
 Borough of Halton
 
@@ -58,4 +58,4 @@ Borough of Halton
 
 ## Annotations
 
-[^key-5dffa3e9079e4364df76dc9b29da8602]: Commencement: Sch. 1 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-5dffa3e9079e4364df76dc9b29da8602]: Commencement: Sch. 1 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

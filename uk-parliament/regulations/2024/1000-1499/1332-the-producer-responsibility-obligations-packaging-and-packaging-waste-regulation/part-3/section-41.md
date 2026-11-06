@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Certification obligation[^key-c9d9c2522dcccd18946a86601a8d9fce]
+## 41. Certification obligation[^c-c9d9c2522dcccd18946a86601a8d9fce]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9d9c2522dcccd18946a86601a8d9fce]: Commencement: Reg. 41 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-c9d9c2522dcccd18946a86601a8d9fce]: Commencement: Reg. 41 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

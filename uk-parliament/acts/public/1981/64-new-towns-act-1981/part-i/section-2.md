@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Reduction of designated areas.[^key-71c220867c54c1a878514e58abb40e59]
+## 2. Reduction of designated areas.[^c-71c220867c54c1a878514e58abb40e59]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ he is satisfied that it is expedient to make the order.
 
 ## Annotations
 
-[^key-71c220867c54c1a878514e58abb40e59]: Modification: S. 2 modified (E.) (24.7.2018) by [The New Towns Act 1981 (Local Authority Oversight) Regulations 2018 (S.I. 2018/891)](https://www.legislation.gov.uk/uksi/2018/891), [regs. 1](https://www.legislation.gov.uk/uksi/2018/891/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2018/891/regulation/5/a)
+[^c-71c220867c54c1a878514e58abb40e59]: Modification: S. 2 modified (E.) (24.7.2018) by [The New Towns Act 1981 (Local Authority Oversight) Regulations 2018 (S.I. 2018/891)](https://www.legislation.gov.uk/uksi/2018/891), [regs. 1](https://www.legislation.gov.uk/uksi/2018/891/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2018/891/regulation/5/a)
 
 [^c253130]: Textual amendment: Words in s. 2(1)(b) inserted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 66(6)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/6), [Sch. 16 para. 63(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/63/1)(with ss. 54(5)(7), 55(5), 66(7), Sch. 17 paras. 22(1), 23(2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)
 

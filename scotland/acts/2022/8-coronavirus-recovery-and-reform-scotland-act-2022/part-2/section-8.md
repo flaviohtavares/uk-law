@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Regulations on continuing operation of educational establishments[^key-9f3e838e0a5b6aed96b78c7ca3f47d0f]
+## 8. Regulations on continuing operation of educational establishments[^c-9f3e838e0a5b6aed96b78c7ca3f47d0f]
 
 *Extent: S*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f3e838e0a5b6aed96b78c7ca3f47d0f]: Commencement: S. 8 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-9f3e838e0a5b6aed96b78c7ca3f47d0f]: Commencement: S. 8 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

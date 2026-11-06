@@ -287,7 +287,7 @@ No person shall sell or consign for sale fodder produced in a protection zone un
 
 (3) Transport of dung or manure complies with this sub-paragraph where it is to an establishment for treatment to destroy the disease virus and under the authority of a licence granted by an inspector.
 
-(4) The occupier of premises to which dung or manure is transported by authority of a licence granted under sub-paragraph (3) shall ensure that it is treated in accordance with Articles 15 and 32 of Regulation[^key-84aa2c43f969f5df9d276beda3b91e2c] [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) and Articles 10 and 22 of and Section 2 of Chapter I of Annex XI to Regulation (EU) No. 142/2011 .
+(4) The occupier of premises to which dung or manure is transported by authority of a licence granted under sub-paragraph (3) shall ensure that it is treated in accordance with Articles 15 and 32 of Regulation[^c-84aa2c43f969f5df9d276beda3b91e2c] [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) and Articles 10 and 22 of and Section 2 of Chapter I of Annex XI to Regulation (EU) No. 142/2011 .
 
 (5) Transport of dung or manure for spreading complies with this sub-paragraph if it satisfies the following requirements—
 
@@ -327,9 +327,9 @@ No person shall sell or consign for sale fodder produced in a protection zone un
 
 (2) No person shall sell or consign for sale meat to which this paragraph applies or move such meat out of a protection zone unless—
 
-- (a) it was produced more than 21 days before the earliest infection date in the protection zone; and[^key-e9a8a21484ee4559f6accf03fb9c18a7]
-- (b) after production, it was at all times stored and transported separately from meat to which this paragraph applies produced on or after that date; [^key-d3d679d44dd345d4c08c81dbb2de1d86]...
-- (c)[^key-d3d679d44dd345d4c08c81dbb2de1d86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) it was produced more than 21 days before the earliest infection date in the protection zone; and[^c-e9a8a21484ee4559f6accf03fb9c18a7]
+- (b) after production, it was at all times stored and transported separately from meat to which this paragraph applies produced on or after that date; [^c-d3d679d44dd345d4c08c81dbb2de1d86]...
+- (c)[^c-d3d679d44dd345d4c08c81dbb2de1d86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 22. Fresh meat etc. produced on premises in a protection zone
 
@@ -643,7 +643,7 @@ except under the authority of a licence granted by the Secretary of State.
 
 (3) Transport of dung or manure complies with this sub-paragraph where it is to an establishment for treatment to destroy the disease virus and under the authority of a licence granted by the Secretary of State.
 
-(4) The occupier of any premises to which dung or manure is transported by authority of a licence granted under sub-paragraph (3) shall ensure that it is treated in accordance with Articles 15 and 32 of Regulation[^key-a37b752c2cbfa427228130786e6ca743] [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) and Articles 10 and 22 of and Section 2 of Chapter I of Annex XI to Regulation (EU) No. 142/2011 .
+(4) The occupier of any premises to which dung or manure is transported by authority of a licence granted under sub-paragraph (3) shall ensure that it is treated in accordance with Articles 15 and 32 of Regulation[^c-a37b752c2cbfa427228130786e6ca743] [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) and Articles 10 and 22 of and Section 2 of Chapter I of Annex XI to Regulation (EU) No. 142/2011 .
 
 (5) Transport of dung or manure complies with this sub-paragraph if—
 
@@ -687,14 +687,14 @@ except under the authority of a licence granted by the Secretary of State.
 
 [^f00025]: Footnote: [1990, c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
-[^key-84aa2c43f969f5df9d276beda3b91e2c]: Textual amendment: Words in Sch. 5 para. 20(4) substituted (23.3.2011) by [The Animal By-Products (Enforcement) (England) Regulations 2011 (S.I. 2011/881)](https://www.legislation.gov.uk/uksi/2011/881), [reg. 1](https://www.legislation.gov.uk/uksi/2011/881/regulation/1), [Sch. 2 para. 8(5)(a)](https://www.legislation.gov.uk/uksi/2011/881/schedule/2/paragraph/8/5/a); and words in Sch. 5 para. 20(4) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Animal By-Products (Enforcement) (England) Regulations 2013 (S.I. 2013/2952)](https://www.legislation.gov.uk/uksi/2013/2952), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2952/regulation/1/2), [Sch. 2 para. 2(5)(a)](https://www.legislation.gov.uk/uksi/2013/2952/schedule/2/paragraph/2/5/a)(SI 2011/881, Sch 2 para 8(2) revoked (12.12.2013) by SI 2013/2952, reg. 28(d))
+[^c-84aa2c43f969f5df9d276beda3b91e2c]: Textual amendment: Words in Sch. 5 para. 20(4) substituted (23.3.2011) by [The Animal By-Products (Enforcement) (England) Regulations 2011 (S.I. 2011/881)](https://www.legislation.gov.uk/uksi/2011/881), [reg. 1](https://www.legislation.gov.uk/uksi/2011/881/regulation/1), [Sch. 2 para. 8(5)(a)](https://www.legislation.gov.uk/uksi/2011/881/schedule/2/paragraph/8/5/a); and words in Sch. 5 para. 20(4) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Animal By-Products (Enforcement) (England) Regulations 2013 (S.I. 2013/2952)](https://www.legislation.gov.uk/uksi/2013/2952), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2952/regulation/1/2), [Sch. 2 para. 2(5)(a)](https://www.legislation.gov.uk/uksi/2013/2952/schedule/2/paragraph/2/5/a)(SI 2011/881, Sch 2 para 8(2) revoked (12.12.2013) by SI 2013/2952, reg. 28(d))
 
-[^key-e9a8a21484ee4559f6accf03fb9c18a7]: Textual amendment: Word in [Sch. 5 para. 21(2)(a)](https://www.legislation.gov.uk/uksi/2006/182/schedule/5/paragraph/21/2/a) inserted (21.12.2021) by [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2021/1472/article/2/6/a)
+[^c-e9a8a21484ee4559f6accf03fb9c18a7]: Textual amendment: Word in [Sch. 5 para. 21(2)(a)](https://www.legislation.gov.uk/uksi/2006/182/schedule/5/paragraph/21/2/a) inserted (21.12.2021) by [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2021/1472/article/2/6/a)
 
-[^key-d3d679d44dd345d4c08c81dbb2de1d86]: Textual amendment: [Sch. 5 para. 21(2)(c)](https://www.legislation.gov.uk/uksi/2006/182/schedule/5/paragraph/21/2/c) omitted (21.12.2021) by virtue of [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2021/1472/article/2/6/b)
+[^c-d3d679d44dd345d4c08c81dbb2de1d86]: Textual amendment: [Sch. 5 para. 21(2)(c)](https://www.legislation.gov.uk/uksi/2006/182/schedule/5/paragraph/21/2/c) omitted (21.12.2021) by virtue of [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2021/1472/article/2/6/b)
 
 [^f00027]: Footnote: S.I. [1998/463](https://www.legislation.gov.uk/uksi/1998/463).
 
 [^f00028]: Footnote: S.I. [1998/463](https://www.legislation.gov.uk/uksi/1998/463).
 
-[^key-a37b752c2cbfa427228130786e6ca743]: Textual amendment: Words in Sch. 5 para. 33(4) substituted (23.3.2011) by [The Animal By-Products (Enforcement) (England) Regulations 2011 (S.I. 2011/881)](https://www.legislation.gov.uk/uksi/2011/881), [reg. 1](https://www.legislation.gov.uk/uksi/2011/881/regulation/1), [Sch. 2 para. 8(5)(b)](https://www.legislation.gov.uk/uksi/2011/881/schedule/2/paragraph/8/5/b); and words in Sch. 5 para. 33(4) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Animal By-Products (Enforcement) (England) Regulations 2013 (S.I. 2013/2952)](https://www.legislation.gov.uk/uksi/2013/2952), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2952/regulation/1/2), [Sch. 2 para. 2(5)(b)](https://www.legislation.gov.uk/uksi/2013/2952/schedule/2/paragraph/2/5/b)(SI 2011/881, Sch 2 para 8(2) revoked (12.12.2013) by SI 2013/2952, reg. 28(d))
+[^c-a37b752c2cbfa427228130786e6ca743]: Textual amendment: Words in Sch. 5 para. 33(4) substituted (23.3.2011) by [The Animal By-Products (Enforcement) (England) Regulations 2011 (S.I. 2011/881)](https://www.legislation.gov.uk/uksi/2011/881), [reg. 1](https://www.legislation.gov.uk/uksi/2011/881/regulation/1), [Sch. 2 para. 8(5)(b)](https://www.legislation.gov.uk/uksi/2011/881/schedule/2/paragraph/8/5/b); and words in Sch. 5 para. 33(4) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Animal By-Products (Enforcement) (England) Regulations 2013 (S.I. 2013/2952)](https://www.legislation.gov.uk/uksi/2013/2952), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2952/regulation/1/2), [Sch. 2 para. 2(5)(b)](https://www.legislation.gov.uk/uksi/2013/2952/schedule/2/paragraph/2/5/b)(SI 2011/881, Sch 2 para 8(2) revoked (12.12.2013) by SI 2013/2952, reg. 28(d))

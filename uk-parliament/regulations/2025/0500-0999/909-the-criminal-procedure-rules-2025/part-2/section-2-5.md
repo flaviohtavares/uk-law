@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.5. Exercise of functions of the Court of Appeal[^key-ec5a8a5e74e146fd1b262510406b889c]
+## 2.5. Exercise of functions of the Court of Appeal[^c-ec5a8a5e74e146fd1b262510406b889c]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ec5a8a5e74e146fd1b262510406b889c]: Commencement: [Rule 2.5](https://www.legislation.gov.uk/uksi/2025/909/rule/2.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-ec5a8a5e74e146fd1b262510406b889c]: Commencement: [Rule 2.5](https://www.legislation.gov.uk/uksi/2025/909/rule/2.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00054]: Footnote: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19); section 31A was inserted by section 6 of the Criminal Appeal Act [1995 (c. 35)](https://www.legislation.gov.uk/ukpga/1995/35) and amended by sections 87 and 109 of, and Schedule 10 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) and paragraphs 86 and 88 of Schedule 36 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44). Section 31C was inserted by section 87 of the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) and amended by sections 47 and 149 of, and paragraphs 1 and 12 of Schedule 8 and part 3 of Schedule 28 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4).
 

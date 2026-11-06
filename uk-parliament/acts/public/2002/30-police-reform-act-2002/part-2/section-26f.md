@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26F. The Independent Commission for Reconciliation and Information Recovery[^key-dfcc812a45c37b40af7f144f30630bd8]
+## 26F. The Independent Commission for Reconciliation and Information Recovery[^c-dfcc812a45c37b40af7f144f30630bd8]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfcc812a45c37b40af7f144f30630bd8]: Textual amendment: [S. 26F](https://www.legislation.gov.uk/ukpga/2002/30/section/26F) inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4), [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2023/41/schedule/13/paragraph/6) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
+[^c-dfcc812a45c37b40af7f144f30630bd8]: Textual amendment: [S. 26F](https://www.legislation.gov.uk/ukpga/2002/30/section/26F) inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4), [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2023/41/schedule/13/paragraph/6) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))

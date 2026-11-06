@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Designated sites: access[^key-2c18c1619868467f03b06e8ca2a707cd]
+## 131. Designated sites: access[^c-2c18c1619868467f03b06e8ca2a707cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ in or on any building or land, if the appropriate person consents.
 
 ## Annotations
 
-[^key-2c18c1619868467f03b06e8ca2a707cd]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2005/15/section/131) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(n)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/n)
+[^c-2c18c1619868467f03b06e8ca2a707cd]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2005/15/section/131) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(n)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/n)

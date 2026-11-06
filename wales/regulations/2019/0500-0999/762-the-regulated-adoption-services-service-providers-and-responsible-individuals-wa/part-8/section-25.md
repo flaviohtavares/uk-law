@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Compliance with code of practice[^key-317d8b395835a6dba1d930592c83b68b]
+## 25. Compliance with code of practice[^c-317d8b395835a6dba1d930592c83b68b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The service provider must adhere to the code of practice on the standards of con
 
 ## Annotations
 
-[^key-317d8b395835a6dba1d930592c83b68b]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2019/762/regulation/25) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-317d8b395835a6dba1d930592c83b68b]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2019/762/regulation/25) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)

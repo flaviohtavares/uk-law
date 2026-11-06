@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — Protection of Certain Mammals (Extent: S) (affected by repeal, see note) Amendment of Acts In Relation To Night Shooting of Hares and Rabbits (Extent: S)[^key-facecdd1c99bfae73e318cabc797128c]
+## SCHEDULE 7 — Protection of Certain Mammals (Extent: S) (affected by repeal, see note) Amendment of Acts In Relation To Night Shooting of Hares and Rabbits (Extent: S)[^c-facecdd1c99bfae73e318cabc797128c]
 
 *Extent: E+W+S*
 
@@ -161,7 +161,7 @@ summary: ''
 
 ## Annotations
 
-[^key-facecdd1c99bfae73e318cabc797128c]: Textual amendment: Sch. 7 heading substituted (S.) (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 11(4)(a)](https://www.legislation.gov.uk/asp/2011/6/section/11/4/a), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/b)
+[^c-facecdd1c99bfae73e318cabc797128c]: Textual amendment: Sch. 7 heading substituted (S.) (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 11(4)(a)](https://www.legislation.gov.uk/asp/2011/6/section/11/4/a), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/b)
 
 [^c4955581]: Marginal citation: [1880 c. 47](https://www.legislation.gov.uk/ukpga/1880/47) .
 

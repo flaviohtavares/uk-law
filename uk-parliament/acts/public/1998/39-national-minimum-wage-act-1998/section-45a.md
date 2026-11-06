@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45A. Persons discharging fines by unpaid work[^key-3af8d08e2443618e8d97c4dbcdfd60b4]
+## 45A. Persons discharging fines by unpaid work[^c-3af8d08e2443618e8d97c4dbcdfd60b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person does not qualify for the national minimum wage in respect of any work t
 
 ## Annotations
 
-[^key-3af8d08e2443618e8d97c4dbcdfd60b4]: Textual amendment: S. 45A inserted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 382](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/382); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-3af8d08e2443618e8d97c4dbcdfd60b4]: Textual amendment: S. 45A inserted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 382](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/382); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)

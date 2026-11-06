@@ -22,84 +22,84 @@ summary: ''
 
 Section 52
 
-### Part 1 — Income tax[^key-094c8dcf946725eed8da218157762c12]
+### Part 1 — Income tax[^c-094c8dcf946725eed8da218157762c12]
 
 **No longer in force.**
 
-#### FA 2004[^key-094c8dcf946725eed8da218157762c12]
+#### FA 2004[^c-094c8dcf946725eed8da218157762c12]
 
-**1.**[^key-094c8dcf946725eed8da218157762c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-094c8dcf946725eed8da218157762c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### ITTOIA 2005[^key-094c8dcf946725eed8da218157762c12]
+#### ITTOIA 2005[^c-094c8dcf946725eed8da218157762c12]
 
-**2.**[^key-094c8dcf946725eed8da218157762c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-094c8dcf946725eed8da218157762c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### ITA 2007[^key-094c8dcf946725eed8da218157762c12]
+#### ITA 2007[^c-094c8dcf946725eed8da218157762c12]
 
-**3.**[^key-094c8dcf946725eed8da218157762c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-094c8dcf946725eed8da218157762c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Commencement[^key-094c8dcf946725eed8da218157762c12]
+#### Commencement[^c-094c8dcf946725eed8da218157762c12]
 
-**4.**[^key-094c8dcf946725eed8da218157762c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-094c8dcf946725eed8da218157762c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-094c8dcf946725eed8da218157762c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-094c8dcf946725eed8da218157762c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-094c8dcf946725eed8da218157762c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-094c8dcf946725eed8da218157762c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 2 — Corporation tax[^key-a8f23921b12a3ad89492a7d3472afca3]
-
-**No longer in force.**
-
-#### CTA 2009[^key-a8f23921b12a3ad89492a7d3472afca3]
-
-**7.**[^key-a8f23921b12a3ad89492a7d3472afca3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### CTA 2010[^key-a8f23921b12a3ad89492a7d3472afca3]
-
-**8.**[^key-a8f23921b12a3ad89492a7d3472afca3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Commencement[^key-a8f23921b12a3ad89492a7d3472afca3]
-
-**9.**[^key-a8f23921b12a3ad89492a7d3472afca3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**10.**[^key-a8f23921b12a3ad89492a7d3472afca3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**11.**[^key-a8f23921b12a3ad89492a7d3472afca3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Part 3 — Capital allowances[^key-598b615bc419e5d2e2e54ff9fea61354]
+### Part 2 — Corporation tax[^c-a8f23921b12a3ad89492a7d3472afca3]
 
 **No longer in force.**
 
-#### CAA 2001[^key-598b615bc419e5d2e2e54ff9fea61354]
+#### CTA 2009[^c-a8f23921b12a3ad89492a7d3472afca3]
 
-**12.**[^key-598b615bc419e5d2e2e54ff9fea61354] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-a8f23921b12a3ad89492a7d3472afca3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Commencement[^key-598b615bc419e5d2e2e54ff9fea61354]
+#### CTA 2010[^c-a8f23921b12a3ad89492a7d3472afca3]
 
-**13.**[^key-598b615bc419e5d2e2e54ff9fea61354] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-a8f23921b12a3ad89492a7d3472afca3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 4 — Chargeable gains[^key-7a6118af525dc3f1ab8d052f5c32f05c]
+#### Commencement[^c-a8f23921b12a3ad89492a7d3472afca3]
+
+**9.**[^c-a8f23921b12a3ad89492a7d3472afca3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^c-a8f23921b12a3ad89492a7d3472afca3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^c-a8f23921b12a3ad89492a7d3472afca3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 3 — Capital allowances[^c-598b615bc419e5d2e2e54ff9fea61354]
 
 **No longer in force.**
 
-#### TCGA 1992[^key-7a6118af525dc3f1ab8d052f5c32f05c]
+#### CAA 2001[^c-598b615bc419e5d2e2e54ff9fea61354]
 
-**14.**[^key-7a6118af525dc3f1ab8d052f5c32f05c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-598b615bc419e5d2e2e54ff9fea61354] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Commencement etc[^key-7a6118af525dc3f1ab8d052f5c32f05c]
+#### Commencement[^c-598b615bc419e5d2e2e54ff9fea61354]
 
-**15.**[^key-7a6118af525dc3f1ab8d052f5c32f05c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-598b615bc419e5d2e2e54ff9fea61354] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-7a6118af525dc3f1ab8d052f5c32f05c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Part 4 — Chargeable gains[^c-7a6118af525dc3f1ab8d052f5c32f05c]
 
-**17.**[^key-7a6118af525dc3f1ab8d052f5c32f05c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**No longer in force.**
+
+#### TCGA 1992[^c-7a6118af525dc3f1ab8d052f5c32f05c]
+
+**14.**[^c-7a6118af525dc3f1ab8d052f5c32f05c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Commencement etc[^c-7a6118af525dc3f1ab8d052f5c32f05c]
+
+**15.**[^c-7a6118af525dc3f1ab8d052f5c32f05c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.**[^c-7a6118af525dc3f1ab8d052f5c32f05c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17.**[^c-7a6118af525dc3f1ab8d052f5c32f05c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-094c8dcf946725eed8da218157762c12]: Textual amendment: [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/14/part/1) repealed (for the purposes of income tax in relation to the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 4(c)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/4/c), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-094c8dcf946725eed8da218157762c12]: Textual amendment: [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/14/part/1) repealed (for the purposes of income tax in relation to the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 4(c)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/4/c), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
 
-[^key-a8f23921b12a3ad89492a7d3472afca3]: Textual amendment: [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2011/11/schedule/14/part/2) repealed (for the purposes of corporation tax in relation to accounting periods beginning on or after 1.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 7(c)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/7/c), [12(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/2) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-a8f23921b12a3ad89492a7d3472afca3]: Textual amendment: [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2011/11/schedule/14/part/2) repealed (for the purposes of corporation tax in relation to accounting periods beginning on or after 1.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 7(c)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/7/c), [12(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/2) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
 
-[^key-598b615bc419e5d2e2e54ff9fea61354]: Textual amendment: [Sch. 14 Pt. 3](https://www.legislation.gov.uk/ukpga/2011/11/schedule/14/part/3) repealed (for the purposes of corporation tax, in relation to accounting periods beginning on or after 1.4.2025 and, for the purposes of income tax, in relation to periods of account beginning on or after 6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 9(e)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/9/e), [12(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/3) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-598b615bc419e5d2e2e54ff9fea61354]: Textual amendment: [Sch. 14 Pt. 3](https://www.legislation.gov.uk/ukpga/2011/11/schedule/14/part/3) repealed (for the purposes of corporation tax, in relation to accounting periods beginning on or after 1.4.2025 and, for the purposes of income tax, in relation to periods of account beginning on or after 6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 9(e)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/9/e), [12(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/3) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
 
-[^key-7a6118af525dc3f1ab8d052f5c32f05c]: Textual amendment: [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/11/schedule/14/part/4) repealed (with effect in accordance with Sch. 5 para. 13 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 11(h)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/11/h), [13](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/13) (with [Sch. 5 paras. 14](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/14), [15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-7a6118af525dc3f1ab8d052f5c32f05c]: Textual amendment: [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/11/schedule/14/part/4) repealed (with effect in accordance with Sch. 5 para. 13 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 11(h)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/11/h), [13](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/13) (with [Sch. 5 paras. 14](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/14), [15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))

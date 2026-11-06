@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Application to court to remove postal administrator from office[^key-87965d132468db9f81968533741db14e]
+## 64. Application to court to remove postal administrator from office[^c-87965d132468db9f81968533741db14e]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87965d132468db9f81968533741db14e]: Commencement: Rule 64 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-87965d132468db9f81968533741db14e]: Commencement: Rule 64 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

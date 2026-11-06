@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 176. Transitional provisions[^key-09c04596d61109c4467e54aa4b5b976c]
+## 176. Transitional provisions[^c-09c04596d61109c4467e54aa4b5b976c]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 2 has effect.
 
 ## Annotations
 
-[^key-09c04596d61109c4467e54aa4b5b976c]: Commencement: [Reg. 176](https://www.legislation.gov.uk/ssi/2015/19/regulation/176) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-09c04596d61109c4467e54aa4b5b976c]: Commencement: [Reg. 176](https://www.legislation.gov.uk/ssi/2015/19/regulation/176) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

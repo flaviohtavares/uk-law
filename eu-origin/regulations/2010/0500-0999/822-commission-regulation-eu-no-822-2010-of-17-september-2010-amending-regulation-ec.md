@@ -35,35 +35,35 @@ amending Regulation (EC) No 198/2006 implementing Regulation (EC) No 1552/2005 o
 
 (Text with EEA relevance) (revoked)
 
-[^key-cb49aa43c9ba04f653f1a64415d7fac2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb49aa43c9ba04f653f1a64415d7fac2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-cb49aa43c9ba04f653f1a64415d7fac2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-cb49aa43c9ba04f653f1a64415d7fac2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-cb49aa43c9ba04f653f1a64415d7fac2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-cb49aa43c9ba04f653f1a64415d7fac2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cb49aa43c9ba04f653f1a64415d7fac2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb49aa43c9ba04f653f1a64415d7fac2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-cb49aa43c9ba04f653f1a64415d7fac2]
+## ANNEX[^c-cb49aa43c9ba04f653f1a64415d7fac2]
 
-[^key-cb49aa43c9ba04f653f1a64415d7fac2]1.
+[^c-cb49aa43c9ba04f653f1a64415d7fac2]1.
 
 Annex I to Regulation (EC) No 198/2006 is replaced by the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cb49aa43c9ba04f653f1a64415d7fac2]2.
+[^c-cb49aa43c9ba04f653f1a64415d7fac2]2.
 
 Annex II to Regulation (EC) No 198/2006 is replaced by the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cb49aa43c9ba04f653f1a64415d7fac2]3.
+[^c-cb49aa43c9ba04f653f1a64415d7fac2]3.
 
 Annex III to Regulation (EC) No 198/2006 is replaced by the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cb49aa43c9ba04f653f1a64415d7fac2]4.
+[^c-cb49aa43c9ba04f653f1a64415d7fac2]4.
 
 Annex V to Regulation (EC) No 198/2006 is replaced by the following:
 
@@ -71,4 +71,4 @@ Annex V to Regulation (EC) No 198/2006 is replaced by the following:
 
 ## Annotations
 
-[^key-cb49aa43c9ba04f653f1a64415d7fac2]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 177](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/177); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cb49aa43c9ba04f653f1a64415d7fac2]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 177](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/177); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 109. Purchase notice where consent is refused, granted subject to conditions, modified or revoked[^key-594005f635f07114c6ebb559601fb217][^key-773f137f633b1e1de8cd9dc6f2c35430]
+## 109. Purchase notice where consent is refused, granted subject to conditions, modified or revoked[^c-594005f635f07114c6ebb559601fb217][^c-773f137f633b1e1de8cd9dc6f2c35430]
 
 *Extent: E+W*
 
@@ -64,6 +64,6 @@ the owner may serve a purchase notice on the planning authority in whose area th
 
 ## Annotations
 
-[^key-594005f635f07114c6ebb559601fb217]: Commencement: S. 109 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-594005f635f07114c6ebb559601fb217]: Commencement: S. 109 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-773f137f633b1e1de8cd9dc6f2c35430]: Commencement: [S. 109](https://www.legislation.gov.uk/asc/2023/3/section/109) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-773f137f633b1e1de8cd9dc6f2c35430]: Commencement: [S. 109](https://www.legislation.gov.uk/asc/2023/3/section/109) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

@@ -37,7 +37,7 @@ An Act to amend the law in relation to the making and disposing and importation 
 
 (1) Any person who manufactures, sells or hires or offers for sale or hire, or exposes or has in his possession for the purpose of sale or hire[^c6234181] or lends or gives to any other person—
 
-- (a)[^key-a81b2c541a37ba92bd3c0ce8ed7ebbcd] any knife which has a blade which opens automatically—
+- (a)[^c-a81b2c541a37ba92bd3c0ce8ed7ebbcd] any knife which has a blade which opens automatically—
   - (i) from the closed position to the fully opened position, or
   - (ii) from a partially opened position to the fully opened position,
 
@@ -46,7 +46,7 @@ An Act to amend the law in relation to the making and disposing and importation 
 
 shall be guilty of an offence and shall be liable on summary conviction to imprisonment for a term not exceeding six months or to a fine not exceeding level 4 on the standard scale or to both such imprisonment and fine[^M_F_0d31668f-a381-4ee3-ab92-863c6367b9e1].
 
-(1A)[^key-966fd52ec573e0a36492468291dbe73a] Any person who possesses any knife of a kind described in subsection (1) is guilty of an offence.
+(1A)[^c-966fd52ec573e0a36492468291dbe73a] Any person who possesses any knife of a kind described in subsection (1) is guilty of an offence.
 
 (1B) A person guilty of an offence under subsection (1A) is liable—
 
@@ -55,9 +55,9 @@ shall be guilty of an offence and shall be liable on summary conviction to impri
 
 (1C) In relation to an offence committed before the coming into force of section 281(5) of the Criminal Justice Act 2003, subsection (1B)(a) has effect as if the reference to 51 weeks were to 6 months.
 
-(2)[^c6234231] The importation of any knife of a kind described in subsection (1)[^key-7399ef975de2d642cbe137b1a37e7616] is hereby prohibited.
+(2)[^c6234231] The importation of any knife of a kind described in subsection (1)[^c-7399ef975de2d642cbe137b1a37e7616] is hereby prohibited.
 
-(3)[^key-2da005e08c878ad9f75d66d76a08ed6f] It is a defence for a person charged in respect of any conduct of that person relating to a knife of a kind described in subsection (1)—
+(3)[^c-2da005e08c878ad9f75d66d76a08ed6f] It is a defence for a person charged in respect of any conduct of that person relating to a knife of a kind described in subsection (1)—
 
 - (a) with an offence under subsection (1), or
 - (b) with an offence under section 50(2) or (3) of the Customs and Excise Management Act 1979,
@@ -91,16 +91,16 @@ to show that the conduct was only for the purposes of making the knife available
 
 [^c6234181]: Textual amendment: Words inserted by [Restriction of Offensive Weapons Act 1961 (c. 22)](https://www.legislation.gov.uk/ukpga/1961/22), [s. 1](https://www.legislation.gov.uk/ukpga/1961/22/section/1)
 
-[^key-a81b2c541a37ba92bd3c0ce8ed7ebbcd]: Textual amendment: S. 1(1)(a) substituted (14.7.2021) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 43(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/43/1), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/a)
+[^c-a81b2c541a37ba92bd3c0ce8ed7ebbcd]: Textual amendment: S. 1(1)(a) substituted (14.7.2021) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 43(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/43/1), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/a)
 
 [^M_F_0d31668f-a381-4ee3-ab92-863c6367b9e1]: Textual amendment: Words substituted (S.) by virtue of [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289E–289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289E); and (E.W.) by virtue of [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 35](https://www.legislation.gov.uk/ukpga/1982/48/section/35), [37](https://www.legislation.gov.uk/ukpga/1982/48/section/37), [38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46)
 
-[^key-966fd52ec573e0a36492468291dbe73a]: Textual amendment: [S. 1(1A)-(1C)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/37/section/1/1A) inserted (14.7.2021 for E.W., 27.3.2023 for S.) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 44(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/2), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/b); [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/a)
+[^c-966fd52ec573e0a36492468291dbe73a]: Textual amendment: [S. 1(1A)-(1C)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/37/section/1/1A) inserted (14.7.2021 for E.W., 27.3.2023 for S.) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 44(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/2), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/b); [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/a)
 
 [^c6234231]: Modification: S. 1(2) extended to Northern Ireland by [Restriction of Offensive Weapons Act 1961 (c. 22)](https://www.legislation.gov.uk/ukpga/1961/22), [s. 2](https://www.legislation.gov.uk/ukpga/1961/22/section/2)
 
-[^key-7399ef975de2d642cbe137b1a37e7616]: Textual amendment: Words in [s. 1(2)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/37/section/1/2) substituted (14.7.2021 for E.W., 27.3.2023 for S.) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 44(3)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/3), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/b); [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/a)
+[^c-7399ef975de2d642cbe137b1a37e7616]: Textual amendment: Words in [s. 1(2)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/37/section/1/2) substituted (14.7.2021 for E.W., 27.3.2023 for S.) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 44(3)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/3), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/b); [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/a)
 
-[^key-2da005e08c878ad9f75d66d76a08ed6f]: Textual amendment: [S. 1(3)-(8)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/37/section/1/3) inserted (10.12.2020 for E.W. for specified purposes, 14.7.2021 for E.W. in so far as not already in force, 14.7.2021 for S. for specified purposes, 27.3.2023 for S. in so far as not already in force) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 44(4)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/4), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.I. 2020/1480](https://www.legislation.gov.uk/uksi/2020/1480), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1480/regulation/2); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/b)[(c)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/c); [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/a)
+[^c-2da005e08c878ad9f75d66d76a08ed6f]: Textual amendment: [S. 1(3)-(8)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/37/section/1/3) inserted (10.12.2020 for E.W. for specified purposes, 14.7.2021 for E.W. in so far as not already in force, 14.7.2021 for S. for specified purposes, 27.3.2023 for S. in so far as not already in force) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 44(4)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/4), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.I. 2020/1480](https://www.legislation.gov.uk/uksi/2020/1480), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1480/regulation/2); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/b)[(c)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/c); [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/a)
 
 [^c6234241]: Modification: [S. 2(3)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/37/section/2/3) excluded by [Restriction of Offensive Weapons Act 1961 (c. 22)](https://www.legislation.gov.uk/ukpga/1961/22), [s. 2](https://www.legislation.gov.uk/ukpga/1961/22/section/2)

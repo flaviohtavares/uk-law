@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S*
 
-[^key-3da51a7ccee498b45f10d3dca8d46bed]
+[^c-3da51a7ccee498b45f10d3dca8d46bed]
 
 ## Annotations
 
 [^c13739131]: Textual amendment: Ss. 68-70 repealed (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1/3), [Sch. 22 para. 85](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/85), [Sch.24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art.3](https://www.legislation.gov.uk/uksi/1996/186/article/3).
 
-[^key-3da51a7ccee498b45f10d3dca8d46bed]: Modification: Pt. 2 modified (S.) (27.3.2011) by [The Waste Management Licensing (Scotland) Regulations 2011 (S.S.I. 2011/228)](https://www.legislation.gov.uk/ssi/2011/228), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/228/regulation/1/1), [sch. 4 para. 11](https://www.legislation.gov.uk/ssi/2011/228/schedule/4/paragraph/11) (with [regs. 31-33](https://www.legislation.gov.uk/ssi/2011/228/regulation/31))
+[^c-3da51a7ccee498b45f10d3dca8d46bed]: Modification: Pt. 2 modified (S.) (27.3.2011) by [The Waste Management Licensing (Scotland) Regulations 2011 (S.S.I. 2011/228)](https://www.legislation.gov.uk/ssi/2011/228), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/228/regulation/1/1), [sch. 4 para. 11](https://www.legislation.gov.uk/ssi/2011/228/schedule/4/paragraph/11) (with [regs. 31-33](https://www.legislation.gov.uk/ssi/2011/228/regulation/31))

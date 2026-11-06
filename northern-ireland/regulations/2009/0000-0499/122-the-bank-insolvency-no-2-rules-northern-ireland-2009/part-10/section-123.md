@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 123. Resignation[^key-09a3430a75ead291dddce6a2fb003f41]
+## 123. Resignation[^c-09a3430a75ead291dddce6a2fb003f41]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.168 of the 1991 Rules.
 
 ## Annotations
 
-[^key-09a3430a75ead291dddce6a2fb003f41]: Commencement: Rule 123 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-09a3430a75ead291dddce6a2fb003f41]: Commencement: Rule 123 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

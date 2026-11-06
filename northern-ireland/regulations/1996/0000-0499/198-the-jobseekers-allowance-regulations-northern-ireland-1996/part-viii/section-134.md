@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 134. Relationship with amounts to be disregarded under Schedule 6[^key-cda6e3a35381de9ab03cc70f93057ea0]
+## 134. Relationship with amounts to be disregarded under Schedule 6[^c-cda6e3a35381de9ab03cc70f93057ea0]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ No part of a student’s covenant income or grant income shall be disregarded un
 
 ## Annotations
 
-[^key-cda6e3a35381de9ab03cc70f93057ea0]: Commencement: Reg. 134 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-cda6e3a35381de9ab03cc70f93057ea0]: Commencement: Reg. 134 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Deduction and payment of contributions[^key-29138cd7338472fab13dfdd65cf2490e]
+## 114. Deduction and payment of contributions[^c-29138cd7338472fab13dfdd65cf2490e]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-29138cd7338472fab13dfdd65cf2490e]: Commencement: [Reg. 114](https://www.legislation.gov.uk/uksi/2014/2848/regulation/114) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-29138cd7338472fab13dfdd65cf2490e]: Commencement: [Reg. 114](https://www.legislation.gov.uk/uksi/2014/2848/regulation/114) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
 [^f00049]: Footnote: [1951 c.65](https://www.legislation.gov.uk/ukpga/1951/65).

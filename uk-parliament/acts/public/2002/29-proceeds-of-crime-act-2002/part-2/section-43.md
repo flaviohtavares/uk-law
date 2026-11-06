@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Appeal to Court of Appeal[^key-a3bb1ac883a929f331900b1f6df31c53]
+## 43. Appeal to Court of Appeal[^c-a3bb1ac883a929f331900b1f6df31c53]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3bb1ac883a929f331900b1f6df31c53]: Textual amendment: S. 43 omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 31(9)(c)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/31/9/c); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-a3bb1ac883a929f331900b1f6df31c53]: Textual amendment: S. 43 omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 31(9)(c)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/31/9/c); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)

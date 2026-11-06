@@ -425,11 +425,11 @@ In regulation 2 of the Republic of Mali (European Union Financial Sanctions) Reg
 
 In regulation 2 of the Venezuela (European Union Financial Sanctions) Regulations 2017 [^c23429791] (interpretation), in the definition of “relevant institution” in paragraph (1), omit paragraph (b) (but not the final “or”).
 
-#### 93. Andrey Lugovoy and Dmitri Kovtun Freezing Order 2020[^M_I_7821329a-d649-436f-801b-88e1c6f103ce][^key-c06846d7b59686fdba8a146a0c90ce63]
+#### 93. Andrey Lugovoy and Dmitri Kovtun Freezing Order 2020[^M_I_7821329a-d649-436f-801b-88e1c6f103ce][^c-c06846d7b59686fdba8a146a0c90ce63]
 
-In article 2 of the Andrey Lugovoy and Dmitri Kovtun Freezing Order 2020[^key-6d093b04b55de1ea2e1472bcd3da5aab] (interpretation), in paragraph (2)—
+In article 2 of the Andrey Lugovoy and Dmitri Kovtun Freezing Order 2020[^c-6d093b04b55de1ea2e1472bcd3da5aab] (interpretation), in paragraph (2)—
 
-- (a)[^key-d68cc150491995d1a46a89d49a23e126] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-d68cc150491995d1a46a89d49a23e126] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) omit sub-paragraph (b) and the “and” before it.
 
 #### 94. Burma (European Union Financial Sanctions) Regulations 2018[^M_I_adfe058f-2bc9-470c-c2b4-e86cb7be0eec]
@@ -804,11 +804,11 @@ In regulation 2 of the Burma (European Union Financial Sanctions) Regulations 20
 
 [^M_I_7821329a-d649-436f-801b-88e1c6f103ce]: Commencement: Sch. para. 93 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-c06846d7b59686fdba8a146a0c90ce63]: Textual amendment: Words in Sch. para. 93 heading substituted (19.1.2020) by [The Andrey Lugovoy and Dmitri Kovtun Freezing Order 2020 (S.I. 2020/36)](https://www.legislation.gov.uk/uksi/2020/36), [arts. 1](https://www.legislation.gov.uk/uksi/2020/36/article/1), [13(3)](https://www.legislation.gov.uk/uksi/2020/36/article/13/3)
+[^c-c06846d7b59686fdba8a146a0c90ce63]: Textual amendment: Words in Sch. para. 93 heading substituted (19.1.2020) by [The Andrey Lugovoy and Dmitri Kovtun Freezing Order 2020 (S.I. 2020/36)](https://www.legislation.gov.uk/uksi/2020/36), [arts. 1](https://www.legislation.gov.uk/uksi/2020/36/article/1), [13(3)](https://www.legislation.gov.uk/uksi/2020/36/article/13/3)
 
-[^key-6d093b04b55de1ea2e1472bcd3da5aab]: Textual amendment: Words in Sch. para. 93 substituted (19.1.2020) by [The Andrey Lugovoy and Dmitri Kovtun Freezing Order 2020 (S.I. 2020/36)](https://www.legislation.gov.uk/uksi/2020/36), [arts. 1](https://www.legislation.gov.uk/uksi/2020/36/article/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/2020/36/article/13/2/a)
+[^c-6d093b04b55de1ea2e1472bcd3da5aab]: Textual amendment: Words in Sch. para. 93 substituted (19.1.2020) by [The Andrey Lugovoy and Dmitri Kovtun Freezing Order 2020 (S.I. 2020/36)](https://www.legislation.gov.uk/uksi/2020/36), [arts. 1](https://www.legislation.gov.uk/uksi/2020/36/article/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/2020/36/article/13/2/a)
 
-[^key-d68cc150491995d1a46a89d49a23e126]: Textual amendment: Sch. para. 93(a) omitted (19.1.2020) by virtue of [The Andrey Lugovoy and Dmitri Kovtun Freezing Order 2020 (S.I. 2020/36)](https://www.legislation.gov.uk/uksi/2020/36), [arts. 1](https://www.legislation.gov.uk/uksi/2020/36/article/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/2020/36/article/13/2/b)
+[^c-d68cc150491995d1a46a89d49a23e126]: Textual amendment: Sch. para. 93(a) omitted (19.1.2020) by virtue of [The Andrey Lugovoy and Dmitri Kovtun Freezing Order 2020 (S.I. 2020/36)](https://www.legislation.gov.uk/uksi/2020/36), [arts. 1](https://www.legislation.gov.uk/uksi/2020/36/article/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/2020/36/article/13/2/b)
 
 [^M_I_adfe058f-2bc9-470c-c2b4-e86cb7be0eec]: Commencement: Sch. para. 94 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 

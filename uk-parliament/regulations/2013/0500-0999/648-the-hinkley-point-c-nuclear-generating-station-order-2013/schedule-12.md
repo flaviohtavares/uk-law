@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 12 — Land of which temporary possession may be taken[^key-d8babe9484d38a5b5b8e7e3cfba88efe]
+## SCHEDULE 12 — Land of which temporary possession may be taken[^c-d8babe9484d38a5b5b8e7e3cfba88efe]
 
 *Extent: E+W+S*
 
@@ -56,10 +56,10 @@ Article 33
 </tbody>
 </table>
 
-[^key-30ddd4e77b098ee4db0e9703d1f28ede][^key-30ddd4e77b098ee4db0e9703d1f28ede][^key-30ddd4e77b098ee4db0e9703d1f28ede]
+[^c-30ddd4e77b098ee4db0e9703d1f28ede][^c-30ddd4e77b098ee4db0e9703d1f28ede][^c-30ddd4e77b098ee4db0e9703d1f28ede]
 
 ## Annotations
 
-[^key-d8babe9484d38a5b5b8e7e3cfba88efe]: Commencement: Sch. 12 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-d8babe9484d38a5b5b8e7e3cfba88efe]: Commencement: Sch. 12 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
 
-[^key-30ddd4e77b098ee4db0e9703d1f28ede]: Textual amendment: Words in [Sch. 12](https://www.legislation.gov.uk/uksi/2013/648/schedule/12) table omitted (18.8.2017) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2017 (S.I. 2017/843)](https://www.legislation.gov.uk/uksi/2017/843), [arts. 1](https://www.legislation.gov.uk/uksi/2017/843/article/1), [11](https://www.legislation.gov.uk/uksi/2017/843/article/11)
+[^c-30ddd4e77b098ee4db0e9703d1f28ede]: Textual amendment: Words in [Sch. 12](https://www.legislation.gov.uk/uksi/2013/648/schedule/12) table omitted (18.8.2017) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2017 (S.I. 2017/843)](https://www.legislation.gov.uk/uksi/2017/843), [arts. 1](https://www.legislation.gov.uk/uksi/2017/843/article/1), [11](https://www.legislation.gov.uk/uksi/2017/843/article/11)

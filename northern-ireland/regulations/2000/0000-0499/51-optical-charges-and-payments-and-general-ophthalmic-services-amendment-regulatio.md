@@ -41,7 +41,7 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety[^f00001], in exercise of the powers conferred on it by Articles 62, 98, and 106 of, and Schedule 15 to, the Health and Personal Social Services (Northern Ireland) Order 1972[^f00002] and of all other powers enabling it in that behalf, with the approval of the Department of Finance and Personnel, and after consultation with such organisations as appeared to the Department to be representative of medical practitioners practising as ophthalmic medical practitioners, and ophthalmic opticians, as required by Article 62(3) of the said Order, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-56bb099739a9b07a3c65f4e44251b25f]
+## 1. Citation, commencement and interpretation[^c-56bb099739a9b07a3c65f4e44251b25f]
 
 (1) These Regulations may be cited as the Optical Charges and Payments and General Ophthalmic Services (Amendment) Regulations (Northern Ireland) 2000 and shall come into operation on 1st April 2000.
 
@@ -50,7 +50,7 @@ The Department of Health, Social Services and Public Safety[^f00001], in exercis
 - (a) “the 1997 Regulations” means the Health and Personal Social Services (Optical Charges and Payments) Regulations (Northern Ireland) 1997[^f00003];
 - (b) “the 1986 Regulations” means the General Ophthalmic Services Regulations (Northern Ireland) 1986[^f00004].
 
-## 2. Amendment of regulation 1 of the 1997 Regulations[^key-de5597dc2e0eb054c9d8eb3f30dd294c]
+## 2. Amendment of regulation 1 of the 1997 Regulations[^c-de5597dc2e0eb054c9d8eb3f30dd294c]
 
 In regulation 1 of the 1997 Regulations (citation, commencement and interpretation)—
 
@@ -61,14 +61,14 @@ In regulation 1 of the 1997 Regulations (citation, commencement and interpretati
   ; and
 - (b) in the definition of “health service sight test fee”, for the amount “£40·33” there shall be substituted “£41·54” and for the amount “£14·57” there shall be substituted “£15·01”.
 
-## 3. Amendment of regulation 2 of the 1997 Regulations[^key-f914b35aad5fabe2bc20c4377a3e1aa2]
+## 3. Amendment of regulation 2 of the 1997 Regulations[^c-f914b35aad5fabe2bc20c4377a3e1aa2]
 
 In regulation 2 of the 1997 Regulations (charges for optical appliances supplied by an HSS trust)—
 
 - (a) in paragraph (3) for “£42·00” there shall be substituted “£42·80”; and
 - (b) in paragraph (5)(*b*) for “£51·50” and “£83·70” in both places where they occur there shall be substituted “£52·50” and “£85·40” respectively.
 
-## 4. Amendment of regulation 8 of the 1997 Regulations[^key-c6ba87964bc750e5cadacb324fcf6fd7]
+## 4. Amendment of regulation 8 of the 1997 Regulations[^c-c6ba87964bc750e5cadacb324fcf6fd7]
 
 In regulation 8 of the 1997 Regulations in paragraph (2) after sub-paragraph (*a*) there shall be inserted—
 
@@ -76,18 +76,18 @@ In regulation 8 of the 1997 Regulations in paragraph (2) after sub-paragraph (*a
 
 .
 
-## 5. Amendment of regulation 15 of the 1997 Regulations[^key-213365893c6d464f6b968501dc386f10]
+## 5. Amendment of regulation 15 of the 1997 Regulations[^c-213365893c6d464f6b968501dc386f10]
 
 In regulation 15 of the 1997 Regulations in paragraph (1)(*b*), for “8(2)(*b*)” there shall be substituted “8(2)(*aa*), (*b*),”.
 
-## 6. Amendment of regulation 19 of the 1997 Regulations[^key-2041b7bd62fcec7110b3fc07f8472094]
+## 6. Amendment of regulation 19 of the 1997 Regulations[^c-2041b7bd62fcec7110b3fc07f8472094]
 
 In regulation 19 of the 1997 Regulations (redemption value of voucher for replacement or repair)—
 
 - (a) in paragraph (1)(*b*) for “£42·00” there shall be substituted “£42·80”; and
 - (b) in paragraph (3) for “£10·80” there shall be substituted “£11·00”.
 
-## 7. Amendment of Schedules to the 1997 Regulations[^key-278269dd673d94853cc09091b340b6ab]
+## 7. Amendment of Schedules to the 1997 Regulations[^c-278269dd673d94853cc09091b340b6ab]
 
 (1) In Schedule 1 to the 1997 Regulations (voucher letter codes and face values — supply and replacement)[^f00006] in column 3 (face value of voucher) for each amount specified in column 1 of the Table below (old amount) there shall be substituted the amount specified in relation to it in column 2 of that Table (new amount).
 
@@ -127,7 +127,7 @@ TABLE
 
 (3) For Schedule 3 to the 1997 Regulations (voucher values — repair)[^f00007] there shall be substituted the Schedule 3 set out in the Schedule.
 
-## 8. Amendment of the 1986 Regulations[^key-88d226f405b42188a80cf9e5567972ec]
+## 8. Amendment of the 1986 Regulations[^c-88d226f405b42188a80cf9e5567972ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -149,11 +149,11 @@ A Senior Officer of the
 
 Department of Finance and Personnel
 
-## SCHEDULE — Schedule 3 to the 1997 Regulations as substituted by these Regulations[^key-49a35455ef9dbf7e981e2a13d2586c88]
+## SCHEDULE — Schedule 3 to the 1997 Regulations as substituted by these Regulations[^c-49a35455ef9dbf7e981e2a13d2586c88]
 
 Regulation 7(3)
 
-[^key-49a35455ef9dbf7e981e2a13d2586c88]
+[^c-49a35455ef9dbf7e981e2a13d2586c88]
 
 > **SCHEDULE 3 — Voucher Value — Repair**
 >
@@ -205,30 +205,30 @@ Regulation 8 amends paragraphs 4(2) and 6(2) of Schedule 1 to the 1986 Regulatio
 
 [^f00002]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265) as amended by S.I. [1984/1158 (N.I. 8)](https://www.legislation.gov.uk/nisi/1984/1158) Article 3(2) and paragraph 3 of Schedule 1; S.I. [1988/2249 (N.I. 24)](https://www.legislation.gov.uk/nisi/1988/2249) paragraphs 4 and 5 of Article 8, and S.I. [1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194) Article 34 and Part II of Schedule 5; there are other amendments which are not relevant
 
-[^key-56bb099739a9b07a3c65f4e44251b25f]: Commencement: Reg. 1 in operation at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/51/regulation/1/1)
+[^c-56bb099739a9b07a3c65f4e44251b25f]: Commencement: Reg. 1 in operation at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/51/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1997 No. 191](https://www.legislation.gov.uk/nisr/1997/191); relevant amending Instrument is [S.R. 1999 No. 177](https://www.legislation.gov.uk/nisr/1999/177)
 
 [^f00004]: Footnote: [S.R. 1986 No. 163](https://www.legislation.gov.uk/nisr/1986/163) as amended by [S.R. 1988 No. 110](https://www.legislation.gov.uk/nisr/1988/110)
 
-[^key-de5597dc2e0eb054c9d8eb3f30dd294c]: Commencement: Reg. 2 in operation at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/51/regulation/1/1)
+[^c-de5597dc2e0eb054c9d8eb3f30dd294c]: Commencement: Reg. 2 in operation at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/51/regulation/1/1)
 
-[^key-f914b35aad5fabe2bc20c4377a3e1aa2]: Commencement: Reg. 3 in operation at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/51/regulation/1/1)
+[^c-f914b35aad5fabe2bc20c4377a3e1aa2]: Commencement: Reg. 3 in operation at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/51/regulation/1/1)
 
-[^key-c6ba87964bc750e5cadacb324fcf6fd7]: Commencement: Reg. 4 in operation at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/51/regulation/1/1)
+[^c-c6ba87964bc750e5cadacb324fcf6fd7]: Commencement: Reg. 4 in operation at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/51/regulation/1/1)
 
 [^f00005]: Footnote: Paragraph 2A was inserted by S.I. [1984/1150 (N.I. 8)](https://www.legislation.gov.uk/nisi/1984/1150) Article 3(2) and paragraph 3 of Schedule 1
 
-[^key-213365893c6d464f6b968501dc386f10]: Commencement: Reg. 5 in operation at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/51/regulation/1/1)
+[^c-213365893c6d464f6b968501dc386f10]: Commencement: Reg. 5 in operation at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/51/regulation/1/1)
 
-[^key-2041b7bd62fcec7110b3fc07f8472094]: Commencement: Reg. 6 in operation at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/51/regulation/1/1)
+[^c-2041b7bd62fcec7110b3fc07f8472094]: Commencement: Reg. 6 in operation at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/51/regulation/1/1)
 
-[^key-278269dd673d94853cc09091b340b6ab]: Commencement: Reg. 7 in operation at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/51/regulation/1/1)
+[^c-278269dd673d94853cc09091b340b6ab]: Commencement: Reg. 7 in operation at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/51/regulation/1/1)
 
 [^f00006]: Footnote: Schedule 1 is substituted by Part I of the Schedule to [S.R. 1999 No. 111](https://www.legislation.gov.uk/nisr/1999/111)
 
 [^f00007]: Footnote: Schedule 3 is substituted by Part II of the Schedule to [S.R. 1999 No. 111](https://www.legislation.gov.uk/nisr/1999/111)
 
-[^key-88d226f405b42188a80cf9e5567972ec]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2000/51/regulation/8) revoked (9.11.2007) by [General Ophthalmic Services Regulations (Northern Ireland) 2007 (S.R. 2007/436)](https://www.legislation.gov.uk/nisr/2007/436), [regs. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1), [23(1)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2007/436/schedule/3) (with [reg. 23(2)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/2))
+[^c-88d226f405b42188a80cf9e5567972ec]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2000/51/regulation/8) revoked (9.11.2007) by [General Ophthalmic Services Regulations (Northern Ireland) 2007 (S.R. 2007/436)](https://www.legislation.gov.uk/nisr/2007/436), [regs. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1), [23(1)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2007/436/schedule/3) (with [reg. 23(2)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/2))
 
-[^key-49a35455ef9dbf7e981e2a13d2586c88]: Commencement: Sch. in operation at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/51/regulation/1/1)
+[^c-49a35455ef9dbf7e981e2a13d2586c88]: Commencement: Sch. in operation at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/51/regulation/1/1)

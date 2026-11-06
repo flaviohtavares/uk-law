@@ -46,19 +46,19 @@ Coming into force
 
 The Lord Chancellor, in exercise of the powers conferred by section 99(1) of the Senior Courts Act 1981[^f00001], having consulted the Lord Chief Justice in accordance with that section, makes the following Order:
 
-## 1. Commencement, citation and interpretation[^key-a1a1862370d8aa36d7af76ae2b0e11e4]
+## 1. Commencement, citation and interpretation[^c-a1a1862370d8aa36d7af76ae2b0e11e4]
 
 (1) This Order may be cited as the Civil Courts Order 2014 and shall come into force on 22nd April 2014.
 
-(2)[^key-03c8c20c20f2c50396f27bfc49e61de8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-03c8c20c20f2c50396f27bfc49e61de8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. District Registries of the High Court[^key-da20d30859aa7b2c9af8f0713fe9b2bc]
+## 2. District Registries of the High Court[^c-da20d30859aa7b2c9af8f0713fe9b2bc]
 
 (1) There shall be a district registry at each of the places specified in the first column of the Schedule to this Order.
 
-(2) The name of every place so specified shall be the name of the district registry at that place, except that [^key-22943b2e5c827a6be36f327a6eaed7ba]... the name of the district registry at Chatham shall be the Medway District Registry, the name of the district registry at Margate shall be the Thanet District Registry and the name of the district registry at Torquay shall be the Torquay and Newton Abbot District Registry.
+(2) The name of every place so specified shall be the name of the district registry at that place, except that [^c-22943b2e5c827a6be36f327a6eaed7ba]... the name of the district registry at Chatham shall be the Medway District Registry, the name of the district registry at Margate shall be the Thanet District Registry and the name of the district registry at Torquay shall be the Torquay and Newton Abbot District Registry.
 
-(3)[^key-7253a86f43e1f7f3416e5d8d5739d7e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7253a86f43e1f7f3416e5d8d5739d7e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The district of each district registry shall be the area comprising the areas served by the hearing centres of the County Court named in the second column of the Schedule to this Order opposite the name of the place at which the district registry is situated.
 
@@ -72,7 +72,7 @@ Ministry of Justice
 
 27th March 2014
 
-## SCHEDULE[^key-a629705b5daac61e6d088ef8044be89b]
+## SCHEDULE[^c-a629705b5daac61e6d088ef8044be89b]
 
 Article 2
 
@@ -84,41 +84,41 @@ Article 2
 | Barnstaple | Barnstaple |
 | Barrow-in-Furness | Barrow-in-Furness |
 | Basingstoke | Basingstoke |
-| Bath | Bath<br>[^key-1fb8296f90050a4d2a944f47c6c0ffcf]... |
+| Bath | Bath<br>[^c-1fb8296f90050a4d2a944f47c6c0ffcf]... |
 | Bedford | Bedford |
 | Birkenhead | Birkenhead |
-| Birmingham [^key-49652f9fede19e572166c0c98832ae24]... | Birmingham |
+| Birmingham [^c-49652f9fede19e572166c0c98832ae24]... | Birmingham |
 | Blackburn | Blackburn |
 | Blackpool | Blackpool |
 | Blackwood | Blackwood |
-| [^key-18d5926d440d5d4ef2215fc9d664f6d6]. . . | [^M_F_d11a07c6-2fce-47ae-9c0d-12435da8af32]. . . |
+| [^c-18d5926d440d5d4ef2215fc9d664f6d6]. . . | [^M_F_d11a07c6-2fce-47ae-9c0d-12435da8af32]. . . |
 | Boston | Boston |
 | Bournemouth | Bournemouth and Poole |
 | Bradford | Bradford |
-| [^key-f46587c175d8bb3a4f9c0a60fae5962b]. . . | [^key-f46587c175d8bb3a4f9c0a60fae5962b]. . . |
-| [^key-f46587c175d8bb3a4f9c0a60fae5962b]. . . | [^key-f46587c175d8bb3a4f9c0a60fae5962b]...<br>Neath and Port Talbot |
+| [^c-f46587c175d8bb3a4f9c0a60fae5962b]. . . | [^c-f46587c175d8bb3a4f9c0a60fae5962b]. . . |
+| [^c-f46587c175d8bb3a4f9c0a60fae5962b]. . . | [^c-f46587c175d8bb3a4f9c0a60fae5962b]...<br>Neath and Port Talbot |
 | Brighton | Brighton<br>Lewes |
-| Bristol [^key-49652f9fede19e572166c0c98832ae24]... | Bristol<br>Weston-super-Mare |
-| Burnley | [^key-f378a8435d1473a19cfd0cde0dbd2069]...<br>Burnley |
-| [^key-349e93cf90527e46f0705c2d03a8e330]. . . | [^M_F_2b699c03-bd9f-4404-b196-291f615103ac]. . . |
-| Bury[^key-b95364e7bd8a6168f4c6971124f6464b] St. Edmunds | Bury St. Edmunds |
-| Caernarfon [^key-49652f9fede19e572166c0c98832ae24]... | Caernarfon<br>[^key-f378a8435d1473a19cfd0cde0dbd2069]...<br>Porthmadog |
+| Bristol [^c-49652f9fede19e572166c0c98832ae24]... | Bristol<br>Weston-super-Mare |
+| Burnley | [^c-f378a8435d1473a19cfd0cde0dbd2069]...<br>Burnley |
+| [^c-349e93cf90527e46f0705c2d03a8e330]. . . | [^M_F_2b699c03-bd9f-4404-b196-291f615103ac]. . . |
+| Bury[^c-b95364e7bd8a6168f4c6971124f6464b] St. Edmunds | Bury St. Edmunds |
+| Caernarfon [^c-49652f9fede19e572166c0c98832ae24]... | Caernarfon<br>[^c-f378a8435d1473a19cfd0cde0dbd2069]...<br>Porthmadog |
 | Cambridge | Cambridge |
 | Canterbury | Canterbury |
-| Cardiff [^key-49652f9fede19e572166c0c98832ae24]... | Cardiff |
+| Cardiff [^c-49652f9fede19e572166c0c98832ae24]... | Cardiff |
 | Carlisle | Carlisle |
 | Carmarthen | Carmarthen<br>Llanelli |
 | Chatham | Medway<br>Dartford |
 | Chelmsford | Chelmsford<br>Hertford |
 | Chester | Chester |
 | Chesterfield | Chesterfield |
-| [^key-95d90a2d1dcf84ec9407d1158e03208d]. . . | [^key-941264c5863939f87104d5686a97582e]. . . |
-| [^key-fa79c33c026dbfc7a927cc418c10ede1]. . . | [^key-941264c5863939f87104d5686a97582e]. . . |
-| Coventry | [^key-704e1be925b2208a4c3630e332d82bc6]...<br>Coventry<br>Nuneaton<br>Warwick |
+| [^c-95d90a2d1dcf84ec9407d1158e03208d]. . . | [^c-941264c5863939f87104d5686a97582e]. . . |
+| [^c-fa79c33c026dbfc7a927cc418c10ede1]. . . | [^c-941264c5863939f87104d5686a97582e]. . . |
+| Coventry | [^c-704e1be925b2208a4c3630e332d82bc6]...<br>Coventry<br>Nuneaton<br>Warwick |
 | Crewe | Crewe |
 | Croydon | Bromley<br>Croydon |
 | Darlington | Darlington |
-| Derby | [^key-f378a8435d1473a19cfd0cde0dbd2069]...<br>Derby |
+| Derby | [^c-f378a8435d1473a19cfd0cde0dbd2069]...<br>Derby |
 | Doncaster | Doncaster<br>Rotherham |
 | Dudley | Dudley |
 | Durham | Durham |
@@ -126,56 +126,56 @@ Article 2
 | Exeter | Exeter |
 | Gloucester | Gloucester and Cheltenham |
 | Great Grimsby | Great Grimsby |
-| Guildford | Aldershot and Farnham<br>Guildford<br>[^key-af6cbe8b704d75300d1f94ebd7c96cf8]... |
-| [^key-11f9f5c406fbb9e8fad64da792cabfc7]. . . | [^key-bc9322311747c65520dee7cc94d6f4d7]. . . |
+| Guildford | Aldershot and Farnham<br>Guildford<br>[^c-af6cbe8b704d75300d1f94ebd7c96cf8]... |
+| [^c-11f9f5c406fbb9e8fad64da792cabfc7]. . . | [^c-bc9322311747c65520dee7cc94d6f4d7]. . . |
 | Harrogate | Harrogate |
-| [^key-e265a4452612baaeb3e8f8db4c37de74]. . . | [^M_F_34cc925f-1237-48bf-e509-c8628ecf869c]. . . |
+| [^c-e265a4452612baaeb3e8f8db4c37de74]. . . | [^M_F_34cc925f-1237-48bf-e509-c8628ecf869c]. . . |
 | Hastings | Hastings |
 | Haverfordwest | Haverfordwest |
 | Hereford | Hereford |
 | Huddersfield | Huddersfield |
 | Ipswich | Ipswich |
-| [^key-949ebcf5dac0233180feb4a17540e96f]. . . | [^M_F_2994ed03-d1c9-46d6-e853-330aef8d08e1]. . . |
-| [^key-f46587c175d8bb3a4f9c0a60fae5962b]. . . | [^key-f46587c175d8bb3a4f9c0a60fae5962b]. . . |
+| [^c-949ebcf5dac0233180feb4a17540e96f]. . . | [^M_F_2994ed03-d1c9-46d6-e853-330aef8d08e1]. . . |
+| [^c-f46587c175d8bb3a4f9c0a60fae5962b]. . . | [^c-f46587c175d8bb3a4f9c0a60fae5962b]. . . |
 | Kingston-upon-Hull | Kingston-upon-Hull |
 | Lancaster | Lancaster |
-| Leeds [^key-49652f9fede19e572166c0c98832ae24]... | Leeds |
+| Leeds [^c-49652f9fede19e572166c0c98832ae24]... | Leeds |
 | Leicester | Leicester<br>Loughborough |
 | Lincoln | Lincoln |
-| Liverpool [^key-49652f9fede19e572166c0c98832ae24]... | Liverpool |
-| [^key-11b9b028f5c89d68e852813b171d341d]. . . | [^key-32d15314d2f72ce51d8f1e4db25a1980]. . . |
+| Liverpool [^c-49652f9fede19e572166c0c98832ae24]... | Liverpool |
+| [^c-11b9b028f5c89d68e852813b171d341d]. . . | [^c-32d15314d2f72ce51d8f1e4db25a1980]. . . |
 | Luton | Luton |
-| [^key-f46587c175d8bb3a4f9c0a60fae5962b]. . . | [^key-f46587c175d8bb3a4f9c0a60fae5962b]. . . |
+| [^c-f46587c175d8bb3a4f9c0a60fae5962b]. . . | [^c-f46587c175d8bb3a4f9c0a60fae5962b]. . . |
 | Maidstone | Maidstone |
-| Manchester [^key-49652f9fede19e572166c0c98832ae24]... | [^key-f378a8435d1473a19cfd0cde0dbd2069]...<br>Manchester |
+| Manchester [^c-49652f9fede19e572166c0c98832ae24]... | [^c-f378a8435d1473a19cfd0cde0dbd2069]...<br>Manchester |
 | Mansfield | Mansfield |
 | Margate | Thanet |
 | Merthyr Tydfil | Merthyr Tydfil |
 | Middlesbrough | Middlesbrough |
 | Milton Keynes | Aylesbury<br>Milton Keynes |
-| Mold [^key-49652f9fede19e572166c0c98832ae24]... | Mold |
-| Newcastle-upon-Tyne [^key-49652f9fede19e572166c0c98832ae24]... | [^key-f378a8435d1473a19cfd0cde0dbd2069]...<br>Newcastle-upon-Tyne |
+| Mold [^c-49652f9fede19e572166c0c98832ae24]... | Mold |
+| Newcastle-upon-Tyne [^c-49652f9fede19e572166c0c98832ae24]... | [^c-f378a8435d1473a19cfd0cde0dbd2069]...<br>Newcastle-upon-Tyne |
 | Newport (Gwent) | Newport (Gwent) |
 | Newport (Isle of Wight) | Newport (Isle of Wight) |
-| Northampton | [^key-9032589355d83bc76043bec4ce8cc4e5]...<br>Northampton |
+| Northampton | [^c-9032589355d83bc76043bec4ce8cc4e5]...<br>Northampton |
 | Norwich | Norwich |
 | Nottingham | Nottingham |
-| [^key-c7c0a96429ce4f567103e9d9f1569e24]. . . | [^M_F_e5dce2f3-56bf-4ae3-859e-1e738ef09cb9]...<br>[^key-f378a8435d1473a19cfd0cde0dbd2069]... |
+| [^c-c7c0a96429ce4f567103e9d9f1569e24]. . . | [^M_F_e5dce2f3-56bf-4ae3-859e-1e738ef09cb9]...<br>[^c-f378a8435d1473a19cfd0cde0dbd2069]... |
 | Oxford | Oxford |
 | Peterborough | Peterborough |
 | Plymouth | Plymouth |
 | Pontypridd | Pontypridd |
 | Portsmouth | Portsmouth |
-| Port Talbot[^key-55e1fc950f6676c37c77fec188fa1585] | Port Talbot |
+| Port Talbot[^c-55e1fc950f6676c37c77fec188fa1585] | Port Talbot |
 | Prestatyn | Prestatyn |
-| Preston [^key-49652f9fede19e572166c0c98832ae24]... | Preston |
+| Preston [^c-49652f9fede19e572166c0c98832ae24]... | Preston |
 | Reading | Reading<br>Slough |
-| [^key-f46587c175d8bb3a4f9c0a60fae5962b]. . . | [^key-f46587c175d8bb3a4f9c0a60fae5962b]. . . |
+| [^c-f46587c175d8bb3a4f9c0a60fae5962b]. . . | [^c-f46587c175d8bb3a4f9c0a60fae5962b]. . . |
 | Romford | Basildon<br>Romford |
 | St Helens | St Helens |
 | Salisbury | Salisbury |
 | Scarborough | Scarborough |
-| [^key-8bfd9a1cd041d6b417a17384ca1a5a3e]. . . | [^M_F_d60f1b1b-06de-4126-b59a-02142d18c0f6]. . . |
+| [^c-8bfd9a1cd041d6b417a17384ca1a5a3e]. . . | [^M_F_d60f1b1b-06de-4126-b59a-02142d18c0f6]. . . |
 | Sheffield | Sheffield |
 | Skipton | Skipton |
 | Southampton | Southampton |
@@ -191,10 +191,10 @@ Article 2
 | Telford | Telford |
 | Torquay | Torquay and Newton Abbot |
 | Truro | Bodmin<br>Truro |
-| [^key-54a593ba83b1c51274d4347e13d6d917]. . . | [^M_F_8643d0ee-8470-4995-df37-94c504952ae4]. . . |
+| [^c-54a593ba83b1c51274d4347e13d6d917]. . . | [^M_F_8643d0ee-8470-4995-df37-94c504952ae4]. . . |
 | Wakefield | Wakefield |
 | Walsall | Walsall |
-| [^key-f46587c175d8bb3a4f9c0a60fae5962b]. . . | [^key-f46587c175d8bb3a4f9c0a60fae5962b]. . . |
+| [^c-f46587c175d8bb3a4f9c0a60fae5962b]. . . | [^c-f46587c175d8bb3a4f9c0a60fae5962b]. . . |
 | Welshpool | Welshpool and Newtown |
 | Weymouth | Weymouth |
 | Wigan | Wigan |
@@ -225,74 +225,74 @@ The Insolvency (Commencement of Proceedings) and Insolvency Rules 1986 (Amendmen
 
 [^f00001]: Footnote: [1981 c.54](https://www.legislation.gov.uk/ukpga/1981/54). Section 99 was amended by the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4), section 15(1) and Schedule 4, Part 1, paragraphs 114 and 143(1), (2) and (3).
 
-[^key-a1a1862370d8aa36d7af76ae2b0e11e4]: Commencement: Art. 1 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/819/article/1/1)
+[^c-a1a1862370d8aa36d7af76ae2b0e11e4]: Commencement: Art. 1 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/819/article/1/1)
 
-[^key-03c8c20c20f2c50396f27bfc49e61de8]: Textual amendment: Art. 1(2) omitted (1.10.2026) by virtue of [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2026/723/schedule/2/paragraph/14/2)
+[^c-03c8c20c20f2c50396f27bfc49e61de8]: Textual amendment: Art. 1(2) omitted (1.10.2026) by virtue of [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2026/723/schedule/2/paragraph/14/2)
 
-[^key-da20d30859aa7b2c9af8f0713fe9b2bc]: Commencement: Art. 2 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/819/article/1/1)
+[^c-da20d30859aa7b2c9af8f0713fe9b2bc]: Commencement: Art. 2 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/819/article/1/1)
 
-[^key-22943b2e5c827a6be36f327a6eaed7ba]: Textual amendment: Words in art. 2(2) omitted (31.10.2016) by virtue of [The Civil Courts (Amendment) Order 2016 (S.I. 2016/974)](https://www.legislation.gov.uk/uksi/2016/974), [arts. 1](https://www.legislation.gov.uk/uksi/2016/974/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/974/article/2/2)
+[^c-22943b2e5c827a6be36f327a6eaed7ba]: Textual amendment: Words in art. 2(2) omitted (31.10.2016) by virtue of [The Civil Courts (Amendment) Order 2016 (S.I. 2016/974)](https://www.legislation.gov.uk/uksi/2016/974), [arts. 1](https://www.legislation.gov.uk/uksi/2016/974/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/974/article/2/2)
 
-[^key-7253a86f43e1f7f3416e5d8d5739d7e6]: Textual amendment: Art. 2(3) omitted (1.10.2026) by virtue of [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/uksi/2026/723/schedule/2/paragraph/14/3)
+[^c-7253a86f43e1f7f3416e5d8d5739d7e6]: Textual amendment: Art. 2(3) omitted (1.10.2026) by virtue of [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/uksi/2026/723/schedule/2/paragraph/14/3)
 
-[^key-a629705b5daac61e6d088ef8044be89b]: Commencement: Sch. in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/819/article/1/1)
+[^c-a629705b5daac61e6d088ef8044be89b]: Commencement: Sch. in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/819/article/1/1)
 
-[^key-1fb8296f90050a4d2a944f47c6c0ffcf]: Textual amendment: Words in Sch. omitted (30.4.2019) by virtue of [The Civil Courts (Amendment) Order 2019 (S.I. 2019/889)](https://www.legislation.gov.uk/uksi/2019/889), [arts. 1](https://www.legislation.gov.uk/uksi/2019/889/article/1), [2(2)(c)(i)](https://www.legislation.gov.uk/uksi/2019/889/article/2/2/c/i)
+[^c-1fb8296f90050a4d2a944f47c6c0ffcf]: Textual amendment: Words in Sch. omitted (30.4.2019) by virtue of [The Civil Courts (Amendment) Order 2019 (S.I. 2019/889)](https://www.legislation.gov.uk/uksi/2019/889), [arts. 1](https://www.legislation.gov.uk/uksi/2019/889/article/1), [2(2)(c)(i)](https://www.legislation.gov.uk/uksi/2019/889/article/2/2/c/i)
 
-[^key-49652f9fede19e572166c0c98832ae24]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/2014/819/schedule) omitted (1.10.2026) by virtue of [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 2 para. 14(4)](https://www.legislation.gov.uk/uksi/2026/723/schedule/2/paragraph/14/4)
+[^c-49652f9fede19e572166c0c98832ae24]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/2014/819/schedule) omitted (1.10.2026) by virtue of [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 2 para. 14(4)](https://www.legislation.gov.uk/uksi/2026/723/schedule/2/paragraph/14/4)
 
-[^key-18d5926d440d5d4ef2215fc9d664f6d6]: Textual amendment: Word in Sch. omitted (2.6.2017) by virtue of [The Civil Courts (Amendment) Order 2017 (S.I. 2017/574)](https://www.legislation.gov.uk/uksi/2017/574), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2017/574/article/1/b), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/574/article/2/2/a/ii)
+[^c-18d5926d440d5d4ef2215fc9d664f6d6]: Textual amendment: Word in Sch. omitted (2.6.2017) by virtue of [The Civil Courts (Amendment) Order 2017 (S.I. 2017/574)](https://www.legislation.gov.uk/uksi/2017/574), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2017/574/article/1/b), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/574/article/2/2/a/ii)
 
 [^M_F_d11a07c6-2fce-47ae-9c0d-12435da8af32]: Textual amendment: Word in Sch. omitted (2.6.2017) by virtue of [The Civil Courts (Amendment) Order 2017 (S.I. 2017/574)](https://www.legislation.gov.uk/uksi/2017/574), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2017/574/article/2/2/b)
 
-[^key-f46587c175d8bb3a4f9c0a60fae5962b]: Textual amendment: Words in Sch. omitted (31.10.2016) by virtue of [The Civil Courts (Amendment) Order 2016 (S.I. 2016/974)](https://www.legislation.gov.uk/uksi/2016/974), [arts. 1](https://www.legislation.gov.uk/uksi/2016/974/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2016/974/article/2/3/a)
+[^c-f46587c175d8bb3a4f9c0a60fae5962b]: Textual amendment: Words in Sch. omitted (31.10.2016) by virtue of [The Civil Courts (Amendment) Order 2016 (S.I. 2016/974)](https://www.legislation.gov.uk/uksi/2016/974), [arts. 1](https://www.legislation.gov.uk/uksi/2016/974/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2016/974/article/2/3/a)
 
-[^key-f378a8435d1473a19cfd0cde0dbd2069]: Textual amendment: Words in Sch. omitted (31.10.2016) by virtue of [The Civil Courts (Amendment) Order 2016 (S.I. 2016/974)](https://www.legislation.gov.uk/uksi/2016/974), [arts. 1](https://www.legislation.gov.uk/uksi/2016/974/article/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2016/974/article/2/3/d)
+[^c-f378a8435d1473a19cfd0cde0dbd2069]: Textual amendment: Words in Sch. omitted (31.10.2016) by virtue of [The Civil Courts (Amendment) Order 2016 (S.I. 2016/974)](https://www.legislation.gov.uk/uksi/2016/974), [arts. 1](https://www.legislation.gov.uk/uksi/2016/974/article/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2016/974/article/2/3/d)
 
-[^key-349e93cf90527e46f0705c2d03a8e330]: Textual amendment: Word in Sch. omitted (2.6.2017) by virtue of [The Civil Courts (Amendment) Order 2017 (S.I. 2017/574)](https://www.legislation.gov.uk/uksi/2017/574), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2017/574/article/1/b), [2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2017/574/article/2/2/a/iii)
+[^c-349e93cf90527e46f0705c2d03a8e330]: Textual amendment: Word in Sch. omitted (2.6.2017) by virtue of [The Civil Courts (Amendment) Order 2017 (S.I. 2017/574)](https://www.legislation.gov.uk/uksi/2017/574), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2017/574/article/1/b), [2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2017/574/article/2/2/a/iii)
 
 [^M_F_2b699c03-bd9f-4404-b196-291f615103ac]: Textual amendment: Word in Sch. omitted (12.5.2017) by virtue of [The Civil Courts (Amendment) Order 2017 (S.I. 2017/574)](https://www.legislation.gov.uk/uksi/2017/574), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2017/574/article/2/2/b)
 
-[^key-b95364e7bd8a6168f4c6971124f6464b]: Textual amendment: Words in Sch. substituted (31.10.2016) by [The Civil Courts (Amendment) Order 2016 (S.I. 2016/974)](https://www.legislation.gov.uk/uksi/2016/974), [arts. 1](https://www.legislation.gov.uk/uksi/2016/974/article/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2016/974/article/2/3/b)
+[^c-b95364e7bd8a6168f4c6971124f6464b]: Textual amendment: Words in Sch. substituted (31.10.2016) by [The Civil Courts (Amendment) Order 2016 (S.I. 2016/974)](https://www.legislation.gov.uk/uksi/2016/974), [arts. 1](https://www.legislation.gov.uk/uksi/2016/974/article/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2016/974/article/2/3/b)
 
-[^key-95d90a2d1dcf84ec9407d1158e03208d]: Textual amendment: Word in Sch. omitted (30.4.2019) by virtue of [The Civil Courts (Amendment) Order 2019 (S.I. 2019/889)](https://www.legislation.gov.uk/uksi/2019/889), [arts. 1](https://www.legislation.gov.uk/uksi/2019/889/article/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/889/article/2/2/a/i)
+[^c-95d90a2d1dcf84ec9407d1158e03208d]: Textual amendment: Word in Sch. omitted (30.4.2019) by virtue of [The Civil Courts (Amendment) Order 2019 (S.I. 2019/889)](https://www.legislation.gov.uk/uksi/2019/889), [arts. 1](https://www.legislation.gov.uk/uksi/2019/889/article/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/889/article/2/2/a/i)
 
-[^key-941264c5863939f87104d5686a97582e]: Textual amendment: Words in Sch. omitted (30.4.2019) by virtue of [The Civil Courts (Amendment) Order 2019 (S.I. 2019/889)](https://www.legislation.gov.uk/uksi/2019/889), [arts. 1](https://www.legislation.gov.uk/uksi/2019/889/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/889/article/2/2/b)
+[^c-941264c5863939f87104d5686a97582e]: Textual amendment: Words in Sch. omitted (30.4.2019) by virtue of [The Civil Courts (Amendment) Order 2019 (S.I. 2019/889)](https://www.legislation.gov.uk/uksi/2019/889), [arts. 1](https://www.legislation.gov.uk/uksi/2019/889/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/889/article/2/2/b)
 
-[^key-fa79c33c026dbfc7a927cc418c10ede1]: Textual amendment: Word in Sch. omitted (30.4.2019) by virtue of [The Civil Courts (Amendment) Order 2019 (S.I. 2019/889)](https://www.legislation.gov.uk/uksi/2019/889), [arts. 1](https://www.legislation.gov.uk/uksi/2019/889/article/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/889/article/2/2/a/ii)
+[^c-fa79c33c026dbfc7a927cc418c10ede1]: Textual amendment: Word in Sch. omitted (30.4.2019) by virtue of [The Civil Courts (Amendment) Order 2019 (S.I. 2019/889)](https://www.legislation.gov.uk/uksi/2019/889), [arts. 1](https://www.legislation.gov.uk/uksi/2019/889/article/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/889/article/2/2/a/ii)
 
-[^key-704e1be925b2208a4c3630e332d82bc6]: Textual amendment: Word in Sch. omitted (30.4.2019) by virtue of [The Civil Courts (Amendment) Order 2019 (S.I. 2019/889)](https://www.legislation.gov.uk/uksi/2019/889), [arts. 1](https://www.legislation.gov.uk/uksi/2019/889/article/1), [2(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/889/article/2/2/c/ii)
+[^c-704e1be925b2208a4c3630e332d82bc6]: Textual amendment: Word in Sch. omitted (30.4.2019) by virtue of [The Civil Courts (Amendment) Order 2019 (S.I. 2019/889)](https://www.legislation.gov.uk/uksi/2019/889), [arts. 1](https://www.legislation.gov.uk/uksi/2019/889/article/1), [2(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/889/article/2/2/c/ii)
 
-[^key-af6cbe8b704d75300d1f94ebd7c96cf8]: Textual amendment: Word in Sch. omitted (31.3.2017) by virtue of [The Civil Courts (Amendment No. 2) Order 2016 (S.I. 2016/1068)](https://www.legislation.gov.uk/uksi/2016/1068), [arts. 1(f)](https://www.legislation.gov.uk/uksi/2016/1068/article/1/f), [2(2)(c)](https://www.legislation.gov.uk/uksi/2016/1068/article/2/2/c)
+[^c-af6cbe8b704d75300d1f94ebd7c96cf8]: Textual amendment: Word in Sch. omitted (31.3.2017) by virtue of [The Civil Courts (Amendment No. 2) Order 2016 (S.I. 2016/1068)](https://www.legislation.gov.uk/uksi/2016/1068), [arts. 1(f)](https://www.legislation.gov.uk/uksi/2016/1068/article/1/f), [2(2)(c)](https://www.legislation.gov.uk/uksi/2016/1068/article/2/2/c)
 
-[^key-11f9f5c406fbb9e8fad64da792cabfc7]: Textual amendment: Word in Sch. omitted (28.11.2016) by virtue of [The Civil Courts (Amendment No. 2) Order 2016 (S.I. 2016/1068)](https://www.legislation.gov.uk/uksi/2016/1068), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2016/1068/article/1/a), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2016/1068/article/2/2/a/i)
+[^c-11f9f5c406fbb9e8fad64da792cabfc7]: Textual amendment: Word in Sch. omitted (28.11.2016) by virtue of [The Civil Courts (Amendment No. 2) Order 2016 (S.I. 2016/1068)](https://www.legislation.gov.uk/uksi/2016/1068), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2016/1068/article/1/a), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2016/1068/article/2/2/a/i)
 
-[^key-bc9322311747c65520dee7cc94d6f4d7]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/2014/819/schedule) omitted (28.11.2016) by virtue of [The Civil Courts (Amendment No. 2) Order 2016 (S.I. 2016/1068)](https://www.legislation.gov.uk/uksi/2016/1068), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2016/1068/article/2/2/b)
+[^c-bc9322311747c65520dee7cc94d6f4d7]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/2014/819/schedule) omitted (28.11.2016) by virtue of [The Civil Courts (Amendment No. 2) Order 2016 (S.I. 2016/1068)](https://www.legislation.gov.uk/uksi/2016/1068), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2016/1068/article/2/2/b)
 
-[^key-e265a4452612baaeb3e8f8db4c37de74]: Textual amendment: Word in Sch. omitted (30.1.2017) by virtue of [The Civil Courts (Amendment No. 2) Order 2016 (S.I. 2016/1068)](https://www.legislation.gov.uk/uksi/2016/1068), [arts. 1(d)](https://www.legislation.gov.uk/uksi/2016/1068/article/1/d), [2(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2016/1068/article/2/2/a/iv)
+[^c-e265a4452612baaeb3e8f8db4c37de74]: Textual amendment: Word in Sch. omitted (30.1.2017) by virtue of [The Civil Courts (Amendment No. 2) Order 2016 (S.I. 2016/1068)](https://www.legislation.gov.uk/uksi/2016/1068), [arts. 1(d)](https://www.legislation.gov.uk/uksi/2016/1068/article/1/d), [2(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2016/1068/article/2/2/a/iv)
 
 [^M_F_34cc925f-1237-48bf-e509-c8628ecf869c]: Textual amendment: Words in Sch. omitted (30.1.2017) by virtue of [The Civil Courts (Amendment No. 2) Order 2016 (S.I. 2016/1068)](https://www.legislation.gov.uk/uksi/2016/1068), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2016/1068/article/2/2/b)
 
-[^key-949ebcf5dac0233180feb4a17540e96f]: Textual amendment: Word in Sch. omitted (30.6.2017) by virtue of [The Civil Courts (Amendment) Order 2017 (S.I. 2017/574)](https://www.legislation.gov.uk/uksi/2017/574), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2017/574/article/1/c), [2(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2017/574/article/2/2/a/iv)
+[^c-949ebcf5dac0233180feb4a17540e96f]: Textual amendment: Word in Sch. omitted (30.6.2017) by virtue of [The Civil Courts (Amendment) Order 2017 (S.I. 2017/574)](https://www.legislation.gov.uk/uksi/2017/574), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2017/574/article/1/c), [2(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2017/574/article/2/2/a/iv)
 
 [^M_F_2994ed03-d1c9-46d6-e853-330aef8d08e1]: Textual amendment: Word in Sch. omitted (2.6.2017) by virtue of [The Civil Courts (Amendment) Order 2017 (S.I. 2017/574)](https://www.legislation.gov.uk/uksi/2017/574), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2017/574/article/2/2/b)
 
-[^key-11b9b028f5c89d68e852813b171d341d]: Textual amendment: Word in Sch. omitted (12.5.2017) by virtue of [The Civil Courts (Amendment) Order 2017 (S.I. 2017/574)](https://www.legislation.gov.uk/uksi/2017/574), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2017/574/article/1/a), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2017/574/article/2/2/a/i)
+[^c-11b9b028f5c89d68e852813b171d341d]: Textual amendment: Word in Sch. omitted (12.5.2017) by virtue of [The Civil Courts (Amendment) Order 2017 (S.I. 2017/574)](https://www.legislation.gov.uk/uksi/2017/574), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2017/574/article/1/a), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2017/574/article/2/2/a/i)
 
-[^key-32d15314d2f72ce51d8f1e4db25a1980]: Textual amendment: Words in Sch. omitted (12.5.2017) by virtue of [The Civil Courts (Amendment) Order 2017 (S.I. 2017/574)](https://www.legislation.gov.uk/uksi/2017/574), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2017/574/article/2/2/b)
+[^c-32d15314d2f72ce51d8f1e4db25a1980]: Textual amendment: Words in Sch. omitted (12.5.2017) by virtue of [The Civil Courts (Amendment) Order 2017 (S.I. 2017/574)](https://www.legislation.gov.uk/uksi/2017/574), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2017/574/article/2/2/b)
 
-[^key-9032589355d83bc76043bec4ce8cc4e5]: Textual amendment: Words in Sch. omitted (7.7.2017) by virtue of [The Civil Courts (Amendment) Order 2017 (S.I. 2017/574)](https://www.legislation.gov.uk/uksi/2017/574), [arts. 1(f)](https://www.legislation.gov.uk/uksi/2017/574/article/1/f), [2(2)(c)](https://www.legislation.gov.uk/uksi/2017/574/article/2/2/c)
+[^c-9032589355d83bc76043bec4ce8cc4e5]: Textual amendment: Words in Sch. omitted (7.7.2017) by virtue of [The Civil Courts (Amendment) Order 2017 (S.I. 2017/574)](https://www.legislation.gov.uk/uksi/2017/574), [arts. 1(f)](https://www.legislation.gov.uk/uksi/2017/574/article/1/f), [2(2)(c)](https://www.legislation.gov.uk/uksi/2017/574/article/2/2/c)
 
-[^key-c7c0a96429ce4f567103e9d9f1569e24]: Textual amendment: Word in Sch. omitted (14.7.2017) by virtue of [The Civil Courts (Amendment) Order 2017 (S.I. 2017/574)](https://www.legislation.gov.uk/uksi/2017/574), [arts. 1(d)](https://www.legislation.gov.uk/uksi/2017/574/article/1/d), [2(2)(a)(v)](https://www.legislation.gov.uk/uksi/2017/574/article/2/2/a/v)
+[^c-c7c0a96429ce4f567103e9d9f1569e24]: Textual amendment: Word in Sch. omitted (14.7.2017) by virtue of [The Civil Courts (Amendment) Order 2017 (S.I. 2017/574)](https://www.legislation.gov.uk/uksi/2017/574), [arts. 1(d)](https://www.legislation.gov.uk/uksi/2017/574/article/1/d), [2(2)(a)(v)](https://www.legislation.gov.uk/uksi/2017/574/article/2/2/a/v)
 
 [^M_F_e5dce2f3-56bf-4ae3-859e-1e738ef09cb9]: Textual amendment: Word in Sch. omitted (2.6.2017) by virtue of [The Civil Courts (Amendment) Order 2017 (S.I. 2017/574)](https://www.legislation.gov.uk/uksi/2017/574), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2017/574/article/2/2/b)
 
-[^key-55e1fc950f6676c37c77fec188fa1585]: Textual amendment: Words in Sch. inserted (31.10.2016) by [The Civil Courts (Amendment) Order 2016 (S.I. 2016/974)](https://www.legislation.gov.uk/uksi/2016/974), [arts. 1](https://www.legislation.gov.uk/uksi/2016/974/article/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2016/974/article/2/3/c)
+[^c-55e1fc950f6676c37c77fec188fa1585]: Textual amendment: Words in Sch. inserted (31.10.2016) by [The Civil Courts (Amendment) Order 2016 (S.I. 2016/974)](https://www.legislation.gov.uk/uksi/2016/974), [arts. 1](https://www.legislation.gov.uk/uksi/2016/974/article/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2016/974/article/2/3/c)
 
-[^key-8bfd9a1cd041d6b417a17384ca1a5a3e]: Textual amendment: Words in Sch. omitted (13.1.2017) by virtue of [The Civil Courts (Amendment No. 2) Order 2016 (S.I. 2016/1068)](https://www.legislation.gov.uk/uksi/2016/1068), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2016/1068/article/1/c), [2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2016/1068/article/2/2/a/iii)
+[^c-8bfd9a1cd041d6b417a17384ca1a5a3e]: Textual amendment: Words in Sch. omitted (13.1.2017) by virtue of [The Civil Courts (Amendment No. 2) Order 2016 (S.I. 2016/1068)](https://www.legislation.gov.uk/uksi/2016/1068), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2016/1068/article/1/c), [2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2016/1068/article/2/2/a/iii)
 
 [^M_F_d60f1b1b-06de-4126-b59a-02142d18c0f6]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/2014/819/schedule) omitted (13.1.2017) by virtue of [The Civil Courts (Amendment No. 2) Order 2016 (S.I. 2016/1068)](https://www.legislation.gov.uk/uksi/2016/1068), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2016/1068/article/2/2/b)
 
-[^key-54a593ba83b1c51274d4347e13d6d917]: Textual amendment: Word in Sch. omitted (6.12.2016) by virtue of [The Civil Courts (Amendment No. 2) Order 2016 (S.I. 2016/1068)](https://www.legislation.gov.uk/uksi/2016/1068), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2016/1068/article/1/b), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/1068/article/2/2/a/ii)
+[^c-54a593ba83b1c51274d4347e13d6d917]: Textual amendment: Word in Sch. omitted (6.12.2016) by virtue of [The Civil Courts (Amendment No. 2) Order 2016 (S.I. 2016/1068)](https://www.legislation.gov.uk/uksi/2016/1068), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2016/1068/article/1/b), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/1068/article/2/2/a/ii)
 
 [^M_F_8643d0ee-8470-4995-df37-94c504952ae4]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/819/schedule) omitted (6.12.2016) by virtue of [The Civil Courts (Amendment No. 2) Order 2016 (S.I. 2016/1068)](https://www.legislation.gov.uk/uksi/2016/1068), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2016/1068/article/2/2/b)

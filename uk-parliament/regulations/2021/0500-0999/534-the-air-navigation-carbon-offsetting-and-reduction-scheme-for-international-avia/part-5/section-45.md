@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Authorised persons[^key-c04136bcc05df1e3e2965b749a26fa59]
+## 45. Authorised persons[^c-c04136bcc05df1e3e2965b749a26fa59]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c04136bcc05df1e3e2965b749a26fa59]: Commencement: Art. 45 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-c04136bcc05df1e3e2965b749a26fa59]: Commencement: Art. 45 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)

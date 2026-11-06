@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety in exercise of the powers conferred by sections 7, 10, 22 and 31 of the Misuse of Drugs Act 1971[^f00001], as adapted by section 38 of that Act and now vested in it[^f00002] and of every other power enabling it in that behalf and after consultation with the Advisory Council on the Misuse of Drugs in accordance with section 31(3) of that Act, hereby makes the following regulations:—
 
-## 1. Citation and commencement[^key-3c3fbecfb3c852b00fbfb279f4e3d0b4]
+## 1. Citation and commencement[^c-3c3fbecfb3c852b00fbfb279f4e3d0b4]
 
 These regulations may be cited as the Misuse of Drugs Regulations (Northern Ireland) 2002 and shall come into force on 1st February 2002.
 
-## 2. Interpretation[^key-d1c531fffd536626d69230500c2302b5]
+## 2. Interpretation[^c-d1c531fffd536626d69230500c2302b5]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these regulations as it applies to a measure of the Northern Ireland Assembly.
 
@@ -74,11 +74,11 @@ These regulations may be cited as the Misuse of Drugs Regulations (Northern Irel
 
 (2) In these regulations any reference to a regulation or schedule shall be construed as a reference to a regulation contained in these regulations or, as the case may be, to a schedule to these regulations, and any reference in a regulation or schedule to a paragraph shall be construed as a reference to a paragraph of that regulation or schedule.
 
-## 3. Specification of controlled drugs for purposes of regulations[^key-e49a03289f2a566395bc92d51fdc3ec6]
+## 3. Specification of controlled drugs for purposes of regulations[^c-e49a03289f2a566395bc92d51fdc3ec6]
 
 Schedules 1 to 5 shall have effect for the purpose of specifying the controlled drugs to which certain provisions of these regulations apply.
 
-## 4. Exceptions for drugs in Schedules 4 and 5 and poppy-straw[^key-7c11757e301486ff5296cc23c7b9ca7b]
+## 4. Exceptions for drugs in Schedules 4 and 5 and poppy-straw[^c-7c11757e301486ff5296cc23c7b9ca7b]
 
 (1) Section 3(1) of the Act (which prohibits the importation and exportation of controlled drugs) shall not have effect in relation to the drugs specified in Schedule 5.
 
@@ -93,11 +93,11 @@ Schedules 1 to 5 shall have effect for the purpose of specifying the controlled 
 
 (5) Sections 3(1), 4(1) and 5(1) of the Act shall not have effect in relation to any exempt product.
 
-## 5. Licences to produce etc controlled drugs[^key-d1971c1a2a6a735038494669589283f1]
+## 5. Licences to produce etc controlled drugs[^c-d1971c1a2a6a735038494669589283f1]
 
 Where any person is authorised by a licence of the Department issued under this regulation and for the time being in force to produce, supply, offer to supply or have in his possession any controlled drug, it shall not by virtue of section 4(1) or 5(1) of the Act be unlawful for that person to produce, supply, offer to supply or have in his possession that drug in accordance with the terms of the licence and in compliance with any conditions attached to the licence.
 
-## 6. General authority to supply and possess[^key-8944fb1f7efee44240d763688c96b275]
+## 6. General authority to supply and possess[^c-8944fb1f7efee44240d763688c96b275]
 
 (1) Notwithstanding the provisions of section 4(1)(*b*) of the Act, any person who is lawfully in possession of a controlled drug may supply that drug to the person from whom he obtained it.
 
@@ -120,7 +120,7 @@ Where any person is authorised by a licence of the Department issued under this 
 - (e) a person engaged in the work of any laboratory to which the drug has been sent for forensic examination when acting in the course of his duty as a person so engaged;
 - (f) a person engaged in conveying the drug to a person who may lawfully have that drug in his possession.
 
-## 7. Administration of drugs in Schedules 2, 3, 4 and 5[^key-1efd95ddee000f6d0d90578d8d6fe936]
+## 7. Administration of drugs in Schedules 2, 3, 4 and 5[^c-1efd95ddee000f6d0d90578d8d6fe936]
 
 (1) Any person may administer to another any drug specified in Schedule 5.
 
@@ -128,7 +128,7 @@ Where any person is authorised by a licence of the Department issued under this 
 
 (3) Any person other than a doctor or dentist may administer to a patient, in accordance with the directions of a doctor or dentist, any drug specified in Schedule 2, 3 or 4.
 
-## 8. Production and supply of drugs in Schedules 2 and 5[^key-a17a0e20ad8c8a32f430be30da5db95a]
+## 8. Production and supply of drugs in Schedules 2 and 5[^c-a17a0e20ad8c8a32f430be30da5db95a]
 
 (1) Notwithstanding the provisions of section 4(1)(*a*) of the Act—
 
@@ -174,7 +174,7 @@ may supply or offer to supply any drug specified in Schedule 2 or 5—
 - (b) the Health and Safety at Work (Northern Ireland) Order 1978[^f00014]; or
 - (c) the Merchant Shipping Act 1995.
 
-## 9. Production and supply of drugs in Schedules 3 and 4[^key-12833335044a24b0ad7acfdc716b06b4]
+## 9. Production and supply of drugs in Schedules 3 and 4[^c-12833335044a24b0ad7acfdc716b06b4]
 
 (1) Notwithstanding the provisions of section 4(1)(*a*) of the Act—
 
@@ -223,7 +223,7 @@ may supply or offer to supply any drug specified in Schedule 3, or any drug spec
 
 (6) Notwithstanding the provisions of section 4(1)(*b*) of the Act, a person in charge of a laboratory may, when acting in his capacity as such, supply or offer to supply any drug specified in Schedule 3 which is required for use as a buffering agent in chemical analysis to any person who may lawfully have that drug in his possession.
 
-## 10. Possession of drugs in Schedules 2, 3 and 4[^key-166ee111c87bd3b36498a06d411dcde1]
+## 10. Possession of drugs in Schedules 2, 3 and 4[^c-166ee111c87bd3b36498a06d411dcde1]
 
 (1) Notwithstanding the provisions of section 5(1) of the Act—
 
@@ -259,7 +259,7 @@ to have in his possession any drug other than such a drug as is mentioned in the
 
 (6) The foregoing provisions of this regulation are without prejudice to the provisions of regulation 4(3)(*a*).
 
-## 11. Exemption for midwives[^key-744ca95ca6926e835ce5f8354608d308]
+## 11. Exemption for midwives[^c-744ca95ca6926e835ce5f8354608d308]
 
 (1) Notwithstanding the provisions of sections 4(1)(*b*) and 5(1) of the Act, a registered midwife who has, in accordance with the provisions of rules made under section 14(1)(*b*) of the Act of 1997, notified to the local supervising authority her intention to practise may, subject to the provisions of this regulation—
 
@@ -279,15 +279,15 @@ any controlled drug which she may, under and in accordance with the provisions o
   - (b) for the purposes of paragraph (2), a person appointed under and in accordance with section 15 of the Act of 1997 by that authority to exercise supervision over registered midwives within their area, who is for the time being authorised as aforesaid;
 - “midwife’s supply order” means an order in writing specifying the name and occupation of the midwife obtaining the drug, the purpose for which it is required and the total quantity to be obtained.
 
-## 12. Cultivation under licence of Cannabis plant[^key-c9e1e71e65aec7a90aa727063f4ff3df]
+## 12. Cultivation under licence of Cannabis plant[^c-c9e1e71e65aec7a90aa727063f4ff3df]
 
 Where any person is authorised by a licence of the Department issued under this regulation and for the time being in force to cultivate plants of the genus *Cannabis*, it shall not by virtue of section 6 of the Act be unlawful for that person to cultivate any such plant in accordance with the terms of the licence and in compliance with any conditions attached to the licence.
 
-## 13. Approval of premises for cannabis smoking for research purposes[^key-95889f78c929ff779c08bd7a0bf711d2]
+## 13. Approval of premises for cannabis smoking for research purposes[^c-95889f78c929ff779c08bd7a0bf711d2]
 
 Section 8 of the Act (which makes it an offence for the occupier of premises to permit certain activities there) shall not have effect in relation to the smoking of cannabis or cannabis resin for the purposes of research on any premises for the time being approved for the purpose under this regulation by the Department.
 
-## 14. Documents to be obtained by supplier of controlled drugs[^key-c4924a444dece73fc81023a4b430b007]
+## 14. Documents to be obtained by supplier of controlled drugs[^c-c4924a444dece73fc81023a4b430b007]
 
 (1) Where a person (hereafter in this paragraph referred to as “the supplier”), not being a practitioner, supplies a controlled drug otherwise than on a prescription, the supplier shall not deliver the drug to a person who—
 
@@ -339,7 +339,7 @@ and any requisition obtained for the purposes of this paragraph shall be retaine
   - (iii) is premixed in a kit;
 - (c) any exempt product.
 
-## 15. Form of prescriptions[^key-f30cf318523eaa2fbeaf748120b31574]
+## 15. Form of prescriptions[^c-f30cf318523eaa2fbeaf748120b31574]
 
 (1) Subject to the provisions of this regulation, a person shall not issue a prescription containing a controlled drug other than a drug specified in Schedule 4 or 5 or temazepam unless the prescription complies with the following requirements, that is to say, it shall—
 
@@ -363,7 +363,7 @@ and any requisition obtained for the purposes of this paragraph shall be retaine
 
 (3) In the case of a prescription issued for the treatment of a patient in a hospital or nursing home, it shall be a sufficient compliance with paragraph (1)(*e*) if the prescription is written on the patient’s bed card or case sheet.
 
-## 16. Provisions as to supply on prescription[^key-04be342934a6426791b0c149c6952e25]
+## 16. Provisions as to supply on prescription[^c-04be342934a6426791b0c149c6952e25]
 
 (1) A person shall not supply a controlled drug other than a drug specified in Schedule 4 or 5 on a prescription—
 
@@ -380,11 +380,11 @@ and any requisition obtained for the purposes of this paragraph shall be retaine
 - (a) paragraph (1) shall have effect as if for the requirement contained in sub-paragraph (*e*) thereof there were substituted a requirement that the occasion on which the first instalment is supplied shall not be later than thirteen weeks after the date specified in the prescription;
 - (b) paragraph (2) shall have effect as if for the words “at the time of the supply” there were substituted the words “on each occasion on which an instalment is supplied”.
 
-## 17. Exemption for certain prescriptions[^key-7dcc2c1ea004dd8c442cde6592d6d84a]
+## 17. Exemption for certain prescriptions[^c-7dcc2c1ea004dd8c442cde6592d6d84a]
 
 Nothing in regulations 15 and 16 shall have effect in relation to a prescription issued for the purposes of a scheme for testing the quality or amount of the drugs, preparations and appliances supplied under the Health and Personal Social Services (Northern Ireland) Order 1972 and the regulations made thereunder or to any prescriptions issued for the purposes of the Medicines Act 1968 to a sampling officer within the meaning of that Act.
 
-## 18. Marking of bottles and other containers[^key-5a222c01423f038d938b82126467b0cc]
+## 18. Marking of bottles and other containers[^c-5a222c01423f038d938b82126467b0cc]
 
 (1) Subject to paragraph (2), no person shall supply a controlled drug otherwise than in a bottle, package or other container which is plainly marked—
 
@@ -406,7 +406,7 @@ Nothing in regulations 15 and 16 shall have effect in relation to a prescription
 
 (3) In this regulation, the expressions “clinical trial” and “medicinal test on animals” have the same meanings as in the Medicines Act 1968.
 
-## 19. Record-keeping requirements in respect of drugs in Schedules 1 and 2[^key-3967c8415df98185099ac1154f4c5aa3]
+## 19. Record-keeping requirements in respect of drugs in Schedules 1 and 2[^c-3967c8415df98185099ac1154f4c5aa3]
 
 (1) Subject to paragraph (3) and regulation 21, every person authorised by or under regulation 5 or 8 to supply any drug specified in Schedule 1 or 2 shall comply with the following requirements, that is to say—
 
@@ -421,7 +421,7 @@ Nothing in regulations 15 and 16 shall have effect in relation to a prescription
 - (b) a person licensed under regulation 5 to supply any drug, where the licence so directs; or
 - (c) the sister or acting sister for the time being in charge of a ward, theatre or other department in a hospital or nursing home.
 
-## 20. Requirements as to registers[^key-6e5110c2d758b3605e1b1386a9789afd]
+## 20. Requirements as to registers[^c-6e5110c2d758b3605e1b1386a9789afd]
 
 Any person required to keep a register under regulation 19 shall comply with the following requirements, that is to say—
 
@@ -433,7 +433,7 @@ Any person required to keep a register under regulation 19 shall comply with the
 - (f) a separate register shall be kept in respect of each premises at which the person required to keep the register carries on his business or occupation, but subject to that not more than one register shall be kept at one time in respect of each class of drugs in respect of which he is required to keep a separate register, so, however, that a separate register may, with the approval of the Department, be kept in respect of each department of the business carried on by him;
 - (g) every such register in which entries are currently being made shall be kept at the premises to which it relates.
 
-## 21. Record-keeping requirements in respect of drugs in Schedule 2 in particular cases[^key-eff2ca944c6911681723430167be71fd]
+## 21. Record-keeping requirements in respect of drugs in Schedule 2 in particular cases[^c-eff2ca944c6911681723430167be71fd]
 
 (1) Where a drug specified in Schedule 2 is supplied in accordance with regulation 8(5)(*a*)(i) to any person on a ship, an entry in the official log book required to be kept under the Merchant Shipping Act 1995 or, in the case of a ship which is not required to carry such an official logbook, a report signed by the master of the ship, shall, notwithstanding anything in these regulations, be a sufficient record of the supply if the entry or report specifies the drug supplied and, in the case of a report, it is delivered as soon as may be to a superintendent at a Marine Office established and maintained under the Merchant Shipping Act 1995.
 
@@ -444,7 +444,7 @@ Any person required to keep a register under regulation 19 shall comply with the
 - (a) on each occasion on which she obtains a supply of such a drug, enter in a book kept by her and used solely for the purposes of this paragraph the date, the name and address of the person from whom the drug was obtained, the amount obtained and the form in which it was obtained; and
 - (b) on administering such a drug to a patient, enter in the said book as soon as practicable the name and address of the patient, the amount administered and the form in which it was administered.
 
-## 22. Record-keeping requirements in respect of drugs in Schedules 3 and 4[^key-c1b5188715d63066d080980450a41fea]
+## 22. Record-keeping requirements in respect of drugs in Schedules 3 and 4[^c-c1b5188715d63066d080980450a41fea]
 
 (1) Every person who is authorised under regulation 5 or 9(1)(*c*) to produce any drug specified in Schedule 3 or 4 shall make a record of each quantity of such a drug produced by him.
 
@@ -454,7 +454,7 @@ Any person required to keep a register under regulation 19 shall comply with the
 
 (4) Paragraph (2) shall not have effect in relation to a person licensed under the Act to import or export any drug where the licence so directs.
 
-## 23. Preservation of registers, books and other documents[^key-916f63e34936b04fd22bee025721edc0]
+## 23. Preservation of registers, books and other documents[^c-916f63e34936b04fd22bee025721edc0]
 
 (1) All registers and books kept in pursuance of regulation 19 or 21(3) shall be preserved for a period of two years from the date on which the last entry therein is made.
 
@@ -462,7 +462,7 @@ Any person required to keep a register under regulation 19 shall comply with the
 
 (3) Every requisition, order or prescription (other than a health prescription) on which a controlled drug is supplied in pursuance of these regulations shall be preserved for a period of two years from the date on which the last delivery under it was made.
 
-## 24. Preservation of records relating to drugs in Schedules 3 and 5[^key-c486cd5fefbc6db388e438b3287a0ba1]
+## 24. Preservation of records relating to drugs in Schedules 3 and 5[^c-c486cd5fefbc6db388e438b3287a0ba1]
 
 (1) A producer of any drug specified in Schedule 3 or 5 and a wholesale dealer in any such drug shall keep every invoice or other like record issued in respect of each quantity of such a drug obtained by him and in respect of each quantity of such a drug supplied by him.
 
@@ -476,11 +476,11 @@ Any person required to keep a register under regulation 19 shall comply with the
 
 (6) Every document kept in pursuance of this regulation (other than a health prescription) shall be preserved for a period of two years from the date on which it is issued, except that the keeping of a copy of the document made at any time during the said period of two years shall be treated for the purposes of this paragraph as if it were the keeping of the original document.
 
-## 25. Exempt products[^key-f0cfc566fde2804b2d4d86685c546bdc]
+## 25. Exempt products[^c-f0cfc566fde2804b2d4d86685c546bdc]
 
 Nothing in regulations 19 to 24 shall have effect in relation to any exempt product.
 
-## 26. Furnishing of information with respect to controlled drugs[^key-bf5fb9d96c509951b21869f9f69b6c56]
+## 26. Furnishing of information with respect to controlled drugs[^c-bf5fb9d96c509951b21869f9f69b6c56]
 
 (1) The persons specified in paragraph (2) shall on demand made by the Department or by any person authorised in writing by the Department in that behalf—
 
@@ -501,7 +501,7 @@ Nothing in regulations 19 to 24 shall have effect in relation to any exempt prod
 
 (3) Nothing in this regulation shall require the furnishing of personal records which a person has acquired or created in the course of his profession or occupation and which he holds in confidence; and in this paragraph “personal records” means documentary and other records concerning an individual (whether living or dead) who can be identified from them and relating to his physical or mental health.
 
-## 27. Destruction of controlled drugs[^key-bf9d98a5d5cf41dbaebd8556f0c314ad]
+## 27. Destruction of controlled drugs[^c-bf9d98a5d5cf41dbaebd8556f0c314ad]
 
 (1) No person who is required by any provision of, or by any term or condition of a licence having effect under, these regulations to keep records with respect to a drug specified in Schedule 1, 2, 3 or 4 shall destroy such a drug or cause such a drug to be destroyed except in the presence of and in accordance with any directions given by a person authorised (whether personally or as a member of a class) for the purposes of this paragraph by the Department hereafter in this regulation referred to as an “authorised person”).
 
@@ -515,7 +515,7 @@ Nothing in regulations 19 to 24 shall have effect in relation to any exempt prod
 
 (6) Nothing in paragraph (1) or (3) shall apply to the destruction of a drug which has been supplied to a practitioner or pharmacist for that purpose in pursuance of regulation 6(2) or (3).
 
-## 28. Revocations[^key-a802ad3a053986b64d02f89eeeedcbce]
+## 28. Revocations[^c-a802ad3a053986b64d02f89eeeedcbce]
 
 (1) The regulations specified in Schedule 7 are hereby revoked.
 
@@ -538,7 +538,7 @@ Department of Health, Social Services and Public Safety
 
 Regulation 3
 
-**1.**[^key-6c8f9626bf2c7440b96036803716e676] The following substances and products, namely—
+**1.**[^c-6c8f9626bf2c7440b96036803716e676] The following substances and products, namely—
 
 - (a)
   - Bufotenine
@@ -616,19 +616,19 @@ Regulation 3
   - (iv) by replacement of the 4-ethoxycarbonyl by any other alkoxycarbonyl or any alkoxyalkyl or acyloxy group;
   - (v) by formation of an *N*-oxide or of a quaternary base.
 
-**2.**[^key-34a18d469c1ab22c7d3d6f849656834d] Any stereoisomeric form of a substance specified in paragraph 1.
+**2.**[^c-34a18d469c1ab22c7d3d6f849656834d] Any stereoisomeric form of a substance specified in paragraph 1.
 
-**3.**[^key-33fa10030135da47ca3fbba37fb8baa5] Any ester or ether of a substance specified in paragraph 1 or 2.
+**3.**[^c-33fa10030135da47ca3fbba37fb8baa5] Any ester or ether of a substance specified in paragraph 1 or 2.
 
-**4.**[^key-97c7a3637eb453a6fcf6ee5cab39a76b] Any salt of a substance specified in any of paragraphs 1 to 3.
+**4.**[^c-97c7a3637eb453a6fcf6ee5cab39a76b] Any salt of a substance specified in any of paragraphs 1 to 3.
 
-**5.**[^key-d7acf98a9ba9bec79c324a4070844ebf] Any preparation or other product containing a substance or product specified in any of paragraphs 1 to 4, not being a preparation specified in Schedule 5.
+**5.**[^c-d7acf98a9ba9bec79c324a4070844ebf] Any preparation or other product containing a substance or product specified in any of paragraphs 1 to 4, not being a preparation specified in Schedule 5.
 
 ## SCHEDULE 2 — CONTROLLED DRUGS SUBJECT TO THE REQUIREMENTS OF REGULATIONS 14, 15, 16, 18, 19, 20, 21, 23, 26 and 27
 
 Regulation 3
 
-**1.**[^key-87374bc50e8eaecb536ef0c4f7450790] The following substances and products, namely:—
+**1.**[^c-87374bc50e8eaecb536ef0c4f7450790] The following substances and products, namely:—
 
 - Acetorphine
 - Alfentanil
@@ -729,15 +729,15 @@ Regulation 3
 - 1-Methyl-4-phenylpiperidine-4-carboxylic acid
 - 4-Phenylpiperidine-4-carboxylic acid ethyl ester
 
-**2.**[^key-7d12652df02acef7943c6512d450a375] Any stereoisomeric form of a substance specified in paragraph 1 not being dextromethorphan or dextrorphan.
+**2.**[^c-7d12652df02acef7943c6512d450a375] Any stereoisomeric form of a substance specified in paragraph 1 not being dextromethorphan or dextrorphan.
 
-**3.**[^key-b0e7e77a5dfd7f67fe96cdfb624e7803] Any ester or ether of a substance specified in paragraph 1 or 2, not being a substance specified in paragraph 6.
+**3.**[^c-b0e7e77a5dfd7f67fe96cdfb624e7803] Any ester or ether of a substance specified in paragraph 1 or 2, not being a substance specified in paragraph 6.
 
-**4.**[^key-28f1d50b202575c4a725d4073a4e982b] Any salt of a substance specified in any of paragraphs 1 to 3.
+**4.**[^c-28f1d50b202575c4a725d4073a4e982b] Any salt of a substance specified in any of paragraphs 1 to 3.
 
-**5.**[^key-b3d407bee1d764f9f04318c9cfcc059f] Any preparation or other product containing a substance or product specified in any of paragraphs 1 to 4, not being a preparation specified in Schedule 5.
+**5.**[^c-b3d407bee1d764f9f04318c9cfcc059f] Any preparation or other product containing a substance or product specified in any of paragraphs 1 to 4, not being a preparation specified in Schedule 5.
 
-**6.**[^key-fae895320d80b32b6d52cf25ffdbd576] The following substances and products, namely—
+**6.**[^c-fae895320d80b32b6d52cf25ffdbd576] The following substances and products, namely—
 
 - Acetyldihydrocodeine
 - Amphetamine
@@ -760,17 +760,17 @@ Regulation 3
 - Propiram
 - Quinalbarbitone
 
-**7.**[^key-25da4c6c55bf98a4847c6e701ac672a1] Any stereoisomeric form of a substance specified in paragraph 6.
+**7.**[^c-25da4c6c55bf98a4847c6e701ac672a1] Any stereoisomeric form of a substance specified in paragraph 6.
 
-**8.**[^key-855bb5abbeec1ad591e872980c0e1813] Any salt of a substance specified in paragraph 6 or 7.
+**8.**[^c-855bb5abbeec1ad591e872980c0e1813] Any salt of a substance specified in paragraph 6 or 7.
 
-**9.**[^key-ac62f2910005ec78d30f78cfead3ea30] Any preparation or other product containing a substance or product specified in any of paragraphs 6 to 8, not being a preparation specified in Schedule 5.
+**9.**[^c-ac62f2910005ec78d30f78cfead3ea30] Any preparation or other product containing a substance or product specified in any of paragraphs 6 to 8, not being a preparation specified in Schedule 5.
 
 ## SCHEDULE 3 — CONTROLLED DRUGS SUBJECT TO THE REQUIREMENTS OF REGULATIONS 14, 15 (EXCEPT TEMAZEPAM), 16, 18, 22, 23, 24, 26 and 27
 
 Regulation 3
 
-**1.**[^key-87a0e247c625ef8f3ee45655ed05007e] The following substances, namely:—
+**1.**[^c-87a0e247c625ef8f3ee45655ed05007e] The following substances, namely:—
 
 - (a)
   - Benzphetamine
@@ -793,11 +793,11 @@ Regulation 3
   - Temazepam
 - (b) any 5, 5 disubstituted barbituric acid not being quinalbarbitone.
 
-**2.**[^key-70a7427479cb11d636bb8b2a5ece2c75] Any stereoisomeric form of a substance specified in paragraph 1 not being phenylpropanolamine.
+**2.**[^c-70a7427479cb11d636bb8b2a5ece2c75] Any stereoisomeric form of a substance specified in paragraph 1 not being phenylpropanolamine.
 
-**3.**[^key-f9d8fbbd5c516e115bf39945ac5d24c3] Any salt of a substance specified in paragraph 1 or 2.
+**3.**[^c-f9d8fbbd5c516e115bf39945ac5d24c3] Any salt of a substance specified in paragraph 1 or 2.
 
-**4.**[^key-15ce4b81d9312945c163d51f6e85af12] Any preparation or other product containing a substance specified in any of paragraphs 1 to 3, not being a preparation specified in Schedule 5.
+**4.**[^c-15ce4b81d9312945c163d51f6e85af12] Any preparation or other product containing a substance specified in any of paragraphs 1 to 3, not being a preparation specified in Schedule 5.
 
 ## SCHEDULE 4
 
@@ -805,7 +805,7 @@ Regulation 3
 
 ### Part I — Controlled Drugs subject to the requirements of Regulations 22, 23, 26 and 27
 
-**1.**[^key-c73e7d571df2be0ad895cdff5237dd83] The following substances and products, namely—
+**1.**[^c-c73e7d571df2be0ad895cdff5237dd83] The following substances and products, namely—
 
 - Alprazolam
 - Aminorex
@@ -849,15 +849,15 @@ Regulation 3
 - Tetrazepam
 - Triazolam
 
-**2.**[^key-0491952dcc070807b457f30fd05bcd69] Any stereoisomeric form of a substance specified in paragraph 1.
+**2.**[^c-0491952dcc070807b457f30fd05bcd69] Any stereoisomeric form of a substance specified in paragraph 1.
 
-**3.**[^key-b03b525fb23a237a4c36c86764e15682] Any salt of a substance specified in paragraph 1 or 2.
+**3.**[^c-b03b525fb23a237a4c36c86764e15682] Any salt of a substance specified in paragraph 1 or 2.
 
-**4.**[^key-90c064c74a1996dba9f8b29ad2c11f7e] Any preparation or other product containing a substance or product specified in any of paragraphs 1 to 3, not being a preparation specified in Schedule 5.
+**4.**[^c-90c064c74a1996dba9f8b29ad2c11f7e] Any preparation or other product containing a substance or product specified in any of paragraphs 1 to 3, not being a preparation specified in Schedule 5.
 
 ### Part II — Controlled Drugs excepted from the Prohibition on possession when in the form a Medicinal product;excluded from application of offences arising from the probition on importation and exportation when imported or exported in the form of a medicinal product by any person for administration to himself; and subject to the requirements of regulations 22, 23, 26 and 27
 
-**1.**[^key-5a612c7fbe6ae510a48b0eed9af51146] The following substances, namely—
+**1.**[^c-5a612c7fbe6ae510a48b0eed9af51146] The following substances, namely—
 
 - Atamestane
 - Bolandiol
@@ -908,16 +908,16 @@ Regulation 3
 - Thiomesterone
 - Trenbolone
 
-**2.**[^key-7642e3e8248630d72185958d491a917e] Any compound (not being Trilostane or a compound for the time being specified in paragraph 1 of this Part of this Schedule) structurally derived from 17-hydroxyandrostan-3-one or from 17-hydroxyestran-3-one by modification in any of the following ways, that is to say—
+**2.**[^c-7642e3e8248630d72185958d491a917e] Any compound (not being Trilostane or a compound for the time being specified in paragraph 1 of this Part of this Schedule) structurally derived from 17-hydroxyandrostan-3-one or from 17-hydroxyestran-3-one by modification in any of the following ways, that is to say—
 
 - (a) by further substitution at position 17 by a methyl or ethyl group;
 - (b) by substitution to any extent at one or more of positions 1, 2, 4, 6, 7, 9, 11 or 16, but at no other position;
 - (c) by unsaturation in the carbocyclic ring system to any extent, provided that there are no more than two ethylenic bonds in any one carbocyclic ring;
 - (d) by fusion of ring A with a heterocyclic system.
 
-**3.**[^key-8a1635ea9915faf6c7f5ad9e3289ba11] Any substance which is an ester or ether (or, where more than one hydroxyl function is available, both an ester and an ether) of a substance specified in paragraph 1 or described in paragraph 2 of this Part of this Schedule.
+**3.**[^c-8a1635ea9915faf6c7f5ad9e3289ba11] Any substance which is an ester or ether (or, where more than one hydroxyl function is available, both an ester and an ether) of a substance specified in paragraph 1 or described in paragraph 2 of this Part of this Schedule.
 
-**4.**[^key-968854fb1f40c177c8e9290bb8eed333] The following substances, namely—
+**4.**[^c-968854fb1f40c177c8e9290bb8eed333] The following substances, namely—
 
 - Chorionic Gonadotrophin (HCG)
 - Clenbuterol
@@ -926,45 +926,45 @@ Regulation 3
 - Somatrem
 - Somatropin
 
-**5.**[^key-d32726fc106877a2674a8e6cdb85ff09] Any stereoisomeric form of a substance specified or described in any of paragraphs 1 to 4 of this Part of this Schedule.
+**5.**[^c-d32726fc106877a2674a8e6cdb85ff09] Any stereoisomeric form of a substance specified or described in any of paragraphs 1 to 4 of this Part of this Schedule.
 
-**6.**[^key-dd91d3610880c6aa83a4eeedc59315a2] Any salt of a substance specified or described in any of paragraphs 1 to 5 of this Part of this Schedule.
+**6.**[^c-dd91d3610880c6aa83a4eeedc59315a2] Any salt of a substance specified or described in any of paragraphs 1 to 5 of this Part of this Schedule.
 
-**7.**[^key-6db7b55de014ea2690ac4654050fb286] Any preparation or other product containing a substance or product specified or described in any of paragraphs 1 to 6 of this Part of this Schedule, not being a preparation specified in Schedule 5.
+**7.**[^c-6db7b55de014ea2690ac4654050fb286] Any preparation or other product containing a substance or product specified or described in any of paragraphs 1 to 6 of this Part of this Schedule, not being a preparation specified in Schedule 5.
 
 ## SCHEDULE 5 — CONTROLLED DRUGS EXCEPTED FROM THE PROHIBITION ON IMPORTATION, EXPORTATION AND POSSESSION AND SUBJECT TO THE REQUIREMENTS OF REGULATIONS 24 and 26
 
 Regulation 3
 
-**1.**[^key-9106906e49e039247b3c63446ecd7607] (1) Any preparation of one or more of the substances to which this paragraph applies, not being a preparation designed for administration by injection, when compounded with one or more other active or inert ingredients and containing a total of not more than 100 milligrams of the substance or substances (calculated as base) per dosage unit or with a total concentration of not more than 2.5% (calculated as base) in undivided preparations.
+**1.**[^c-9106906e49e039247b3c63446ecd7607] (1) Any preparation of one or more of the substances to which this paragraph applies, not being a preparation designed for administration by injection, when compounded with one or more other active or inert ingredients and containing a total of not more than 100 milligrams of the substance or substances (calculated as base) per dosage unit or with a total concentration of not more than 2.5% (calculated as base) in undivided preparations.
 
 (2) The substances to which this paragraph applies are acetyldihydrocodeine, codeine, dihydrocodeine, ethylmorphine, nicocodine, nicodicodine (6-nicotinoyldihydrocodeine), norcodeine and pholcodine and their respective salts.
 
-**2.**[^key-5532db0278224bf15211b797d3bc6d08] Any preparation of cocaine containing not more than 0.1% of cocaine calculated as cocaine base, being a preparation compounded with one or more other active or inert ingredients in such a way that the cocaine cannot be recovered by readily applicable means or in a yield which would constitute a risk to health.
+**2.**[^c-5532db0278224bf15211b797d3bc6d08] Any preparation of cocaine containing not more than 0.1% of cocaine calculated as cocaine base, being a preparation compounded with one or more other active or inert ingredients in such a way that the cocaine cannot be recovered by readily applicable means or in a yield which would constitute a risk to health.
 
-**3.**[^key-09f6994b17f3f0ad499f08e92253ec3d] Any preparation of medicinal opium or of morphine containing (in either case) not more than 0.2% of morphine calculated as anhydrous morphine base, being a preparation compounded with one or more other active or inert ingredients in such a way that the opium or, as the case may be, the morphine cannot be recovered by readily applicable means or in a yield which would constitute a risk to health.
+**3.**[^c-09f6994b17f3f0ad499f08e92253ec3d] Any preparation of medicinal opium or of morphine containing (in either case) not more than 0.2% of morphine calculated as anhydrous morphine base, being a preparation compounded with one or more other active or inert ingredients in such a way that the opium or, as the case may be, the morphine cannot be recovered by readily applicable means or in a yield which would constitute a risk to health.
 
-**4.**[^key-1305f9270e056f1428971b7912ef6884] Any preparation of dextropropoxyphene, being a preparation designed for oral administration, containing not more than 135 milligrams of dextropropoxyphene (calculated as base) per dosage unit or with a total concentration of not more than 2.5% (calculated as base) in undivided preparations.
+**4.**[^c-1305f9270e056f1428971b7912ef6884] Any preparation of dextropropoxyphene, being a preparation designed for oral administration, containing not more than 135 milligrams of dextropropoxyphene (calculated as base) per dosage unit or with a total concentration of not more than 2.5% (calculated as base) in undivided preparations.
 
-**5.**[^key-ff2b249c1e9e1af61c21fc47d44494bf] Any preparation of difenoxin containing, per dosage unit, not more than 0.5 milligrams of difenoxin and a quantity of atropine sulphate equivalent to at least 5% of the dose of difenoxin.
+**5.**[^c-ff2b249c1e9e1af61c21fc47d44494bf] Any preparation of difenoxin containing, per dosage unit, not more than 0.5 milligrams of difenoxin and a quantity of atropine sulphate equivalent to at least 5% of the dose of difenoxin.
 
-**6.**[^key-83ca2eba6a9f29b3c6f8a35f4c53577c] Any preparation of diphenoxylate containing, per dosage unit, not more than 2.5 milligrams of diphenoxylate calculated as base, and a quantity of atropine sulphate equivalent to at least 1% of the dose of diphenoxylate.
+**6.**[^c-83ca2eba6a9f29b3c6f8a35f4c53577c] Any preparation of diphenoxylate containing, per dosage unit, not more than 2.5 milligrams of diphenoxylate calculated as base, and a quantity of atropine sulphate equivalent to at least 1% of the dose of diphenoxylate.
 
-**7.**[^key-27b7ccbc2ea9c80b95975d0088051f52] Any preparation of propiram containing, per dosage unit, not more than 100 milligrams of propiram calculated as base and compounded with at least the same amount (by weight) of methylcellulose.
+**7.**[^c-27b7ccbc2ea9c80b95975d0088051f52] Any preparation of propiram containing, per dosage unit, not more than 100 milligrams of propiram calculated as base and compounded with at least the same amount (by weight) of methylcellulose.
 
-**8.**[^key-473c46dcdf6df9e9a348462ccb51e2b0] Any powder of ipecacuanha and opium comprising—
+**8.**[^c-473c46dcdf6df9e9a348462ccb51e2b0] Any powder of ipecacuanha and opium comprising—
 
 - 10% opium, in powder,
 - 10% ipecacuanha root, in powder, well mixed with
 - 80% of any other powdered ingredient containing no controlled drug.
 
-**9.**[^key-1704dc857c15777b2b5415cffda94611] Any mixture containing one or more of the preparations specified in paragraphs 1 to 8, being a mixture of which none of the other ingredients is a controlled drug.
+**9.**[^c-1704dc857c15777b2b5415cffda94611] Any mixture containing one or more of the preparations specified in paragraphs 1 to 8, being a mixture of which none of the other ingredients is a controlled drug.
 
 ## SCHEDULE 6 — FORM OF REGISTER
 
 Regulation 19
 
-### Part I — Entries to be made in case of obtaining[^key-f3db0cdcdd16a34db19ef6ddaa4f1230]
+### Part I — Entries to be made in case of obtaining[^c-f3db0cdcdd16a34db19ef6ddaa4f1230]
 
 <table>
 <thead>
@@ -976,7 +976,7 @@ Regulation 19
 </tbody>
 </table>
 
-### Part II — Entries to be made in case of supply[^key-db66f8fc4b4ad9d9fae15d84677d7cd6]
+### Part II — Entries to be made in case of supply[^c-db66f8fc4b4ad9d9fae15d84677d7cd6]
 
 <table>
 <thead>
@@ -988,7 +988,7 @@ Regulation 19
 </tbody>
 </table>
 
-## SCHEDULE 7 — REGULATIONS REVOKED[^key-14bf965ad53aaf26b8e15eb77746cb85]
+## SCHEDULE 7 — REGULATIONS REVOKED[^c-14bf965ad53aaf26b8e15eb77746cb85]
 
 Regulation 28
 
@@ -1017,9 +1017,9 @@ Two changes of substance are made by the regulations. One is the addition of thi
 
 [^f00002]: Footnote: By [S.R. & O. (N.I.) 1973 No. 504](https://www.legislation.gov.uk/nisro/1973/504) Art. 5(*a*)
 
-[^key-3c3fbecfb3c852b00fbfb279f4e3d0b4]: Commencement: Reg. 1 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-3c3fbecfb3c852b00fbfb279f4e3d0b4]: Commencement: Reg. 1 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-d1c531fffd536626d69230500c2302b5]: Commencement: Reg. 2 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-d1c531fffd536626d69230500c2302b5]: Commencement: Reg. 2 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
@@ -1039,148 +1039,148 @@ Two changes of substance are made by the regulations. One is the addition of thi
 
 [^f00011]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2)
 
-[^key-e49a03289f2a566395bc92d51fdc3ec6]: Commencement: Reg. 3 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-e49a03289f2a566395bc92d51fdc3ec6]: Commencement: Reg. 3 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-7c11757e301486ff5296cc23c7b9ca7b]: Commencement: Reg. 4 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-7c11757e301486ff5296cc23c7b9ca7b]: Commencement: Reg. 4 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-d1971c1a2a6a735038494669589283f1]: Commencement: Reg. 5 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-d1971c1a2a6a735038494669589283f1]: Commencement: Reg. 5 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-8944fb1f7efee44240d763688c96b275]: Commencement: Reg. 6 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-8944fb1f7efee44240d763688c96b275]: Commencement: Reg. 6 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
 [^f00012]: Footnote: [S.I. 1985/171 (N.I. 2)](https://www.legislation.gov.uk/nisi/1985/171)
 
-[^key-1efd95ddee000f6d0d90578d8d6fe936]: Commencement: Reg. 7 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-1efd95ddee000f6d0d90578d8d6fe936]: Commencement: Reg. 7 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-a17a0e20ad8c8a32f430be30da5db95a]: Commencement: Reg. 8 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-a17a0e20ad8c8a32f430be30da5db95a]: Commencement: Reg. 8 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
 [^f00013]: Footnote: [S.I. 1991/762 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762)
 
 [^f00014]: Footnote: [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039)
 
-[^key-12833335044a24b0ad7acfdc716b06b4]: Commencement: Reg. 9 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-12833335044a24b0ad7acfdc716b06b4]: Commencement: Reg. 9 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-166ee111c87bd3b36498a06d411dcde1]: Commencement: Reg. 10 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-166ee111c87bd3b36498a06d411dcde1]: Commencement: Reg. 10 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-744ca95ca6926e835ce5f8354608d308]: Commencement: Reg. 11 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-744ca95ca6926e835ce5f8354608d308]: Commencement: Reg. 11 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
 [^f00015]: Footnote: [1997 c. 24](https://www.legislation.gov.uk/ukpga/1997/24)
 
-[^key-c9e1e71e65aec7a90aa727063f4ff3df]: Commencement: Reg. 12 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-c9e1e71e65aec7a90aa727063f4ff3df]: Commencement: Reg. 12 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-95889f78c929ff779c08bd7a0bf711d2]: Commencement: Reg. 13 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-95889f78c929ff779c08bd7a0bf711d2]: Commencement: Reg. 13 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-c4924a444dece73fc81023a4b430b007]: Commencement: Reg. 14 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-c4924a444dece73fc81023a4b430b007]: Commencement: Reg. 14 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-f30cf318523eaa2fbeaf748120b31574]: Commencement: Reg. 15 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-f30cf318523eaa2fbeaf748120b31574]: Commencement: Reg. 15 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-04be342934a6426791b0c149c6952e25]: Commencement: Reg. 16 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-04be342934a6426791b0c149c6952e25]: Commencement: Reg. 16 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-7dcc2c1ea004dd8c442cde6592d6d84a]: Commencement: Reg. 17 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-7dcc2c1ea004dd8c442cde6592d6d84a]: Commencement: Reg. 17 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-5a222c01423f038d938b82126467b0cc]: Commencement: Reg. 18 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-5a222c01423f038d938b82126467b0cc]: Commencement: Reg. 18 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-3967c8415df98185099ac1154f4c5aa3]: Commencement: Reg. 19 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-3967c8415df98185099ac1154f4c5aa3]: Commencement: Reg. 19 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-6e5110c2d758b3605e1b1386a9789afd]: Commencement: Reg. 20 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-6e5110c2d758b3605e1b1386a9789afd]: Commencement: Reg. 20 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-eff2ca944c6911681723430167be71fd]: Commencement: Reg. 21 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-eff2ca944c6911681723430167be71fd]: Commencement: Reg. 21 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
 [^f00016]: Footnote: [S.I. 1972/1542](https://www.legislation.gov.uk/uksi/1972/1542)
 
-[^key-c1b5188715d63066d080980450a41fea]: Commencement: Reg. 22 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-c1b5188715d63066d080980450a41fea]: Commencement: Reg. 22 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-916f63e34936b04fd22bee025721edc0]: Commencement: Reg. 23 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-916f63e34936b04fd22bee025721edc0]: Commencement: Reg. 23 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-c486cd5fefbc6db388e438b3287a0ba1]: Commencement: Reg. 24 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-c486cd5fefbc6db388e438b3287a0ba1]: Commencement: Reg. 24 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-f0cfc566fde2804b2d4d86685c546bdc]: Commencement: Reg. 25 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-f0cfc566fde2804b2d4d86685c546bdc]: Commencement: Reg. 25 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-bf5fb9d96c509951b21869f9f69b6c56]: Commencement: Reg. 26 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-bf5fb9d96c509951b21869f9f69b6c56]: Commencement: Reg. 26 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-bf9d98a5d5cf41dbaebd8556f0c314ad]: Commencement: Reg. 27 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-bf9d98a5d5cf41dbaebd8556f0c314ad]: Commencement: Reg. 27 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-a802ad3a053986b64d02f89eeeedcbce]: Commencement: Reg. 28 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-a802ad3a053986b64d02f89eeeedcbce]: Commencement: Reg. 28 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
 [^f00017]: Footnote: [S.R. 1986 No. 52](https://www.legislation.gov.uk/nisr/1986/52)
 
-[^key-6c8f9626bf2c7440b96036803716e676]: Commencement: Sch. 1 para. 1 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-6c8f9626bf2c7440b96036803716e676]: Commencement: Sch. 1 para. 1 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-34a18d469c1ab22c7d3d6f849656834d]: Commencement: Sch. 1 para. 2 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-34a18d469c1ab22c7d3d6f849656834d]: Commencement: Sch. 1 para. 2 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-33fa10030135da47ca3fbba37fb8baa5]: Commencement: Sch. 1 para. 3 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-33fa10030135da47ca3fbba37fb8baa5]: Commencement: Sch. 1 para. 3 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-97c7a3637eb453a6fcf6ee5cab39a76b]: Commencement: Sch. 1 para. 4 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-97c7a3637eb453a6fcf6ee5cab39a76b]: Commencement: Sch. 1 para. 4 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-d7acf98a9ba9bec79c324a4070844ebf]: Commencement: Sch. 1 para. 5 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-d7acf98a9ba9bec79c324a4070844ebf]: Commencement: Sch. 1 para. 5 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-87374bc50e8eaecb536ef0c4f7450790]: Commencement: Sch. 2 para. 1 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-87374bc50e8eaecb536ef0c4f7450790]: Commencement: Sch. 2 para. 1 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-7d12652df02acef7943c6512d450a375]: Commencement: Sch. 2 para. 2 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-7d12652df02acef7943c6512d450a375]: Commencement: Sch. 2 para. 2 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-b0e7e77a5dfd7f67fe96cdfb624e7803]: Commencement: Sch. 2 para. 3 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-b0e7e77a5dfd7f67fe96cdfb624e7803]: Commencement: Sch. 2 para. 3 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-28f1d50b202575c4a725d4073a4e982b]: Commencement: Sch. 2 para. 4 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-28f1d50b202575c4a725d4073a4e982b]: Commencement: Sch. 2 para. 4 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-b3d407bee1d764f9f04318c9cfcc059f]: Commencement: Sch. 2 para. 5 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-b3d407bee1d764f9f04318c9cfcc059f]: Commencement: Sch. 2 para. 5 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-fae895320d80b32b6d52cf25ffdbd576]: Commencement: Sch. 2 para. 6 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-fae895320d80b32b6d52cf25ffdbd576]: Commencement: Sch. 2 para. 6 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-25da4c6c55bf98a4847c6e701ac672a1]: Commencement: Sch. 2 para. 7 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-25da4c6c55bf98a4847c6e701ac672a1]: Commencement: Sch. 2 para. 7 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-855bb5abbeec1ad591e872980c0e1813]: Commencement: Sch. 2 para. 8 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-855bb5abbeec1ad591e872980c0e1813]: Commencement: Sch. 2 para. 8 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-ac62f2910005ec78d30f78cfead3ea30]: Commencement: Sch. 2 para. 9 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-ac62f2910005ec78d30f78cfead3ea30]: Commencement: Sch. 2 para. 9 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-87a0e247c625ef8f3ee45655ed05007e]: Commencement: Sch. 3 para. 1 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-87a0e247c625ef8f3ee45655ed05007e]: Commencement: Sch. 3 para. 1 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-70a7427479cb11d636bb8b2a5ece2c75]: Commencement: Sch. 3 para. 2 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-70a7427479cb11d636bb8b2a5ece2c75]: Commencement: Sch. 3 para. 2 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-f9d8fbbd5c516e115bf39945ac5d24c3]: Commencement: Sch. 3 para. 3 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-f9d8fbbd5c516e115bf39945ac5d24c3]: Commencement: Sch. 3 para. 3 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-15ce4b81d9312945c163d51f6e85af12]: Commencement: Sch. 3 para. 4 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-15ce4b81d9312945c163d51f6e85af12]: Commencement: Sch. 3 para. 4 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-c73e7d571df2be0ad895cdff5237dd83]: Commencement: Sch. 4 Pt. I para. 1 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-c73e7d571df2be0ad895cdff5237dd83]: Commencement: Sch. 4 Pt. I para. 1 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-0491952dcc070807b457f30fd05bcd69]: Commencement: Sch. 4 Pt. I para. 2 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-0491952dcc070807b457f30fd05bcd69]: Commencement: Sch. 4 Pt. I para. 2 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-b03b525fb23a237a4c36c86764e15682]: Commencement: Sch. 4 Pt. I para. 3 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-b03b525fb23a237a4c36c86764e15682]: Commencement: Sch. 4 Pt. I para. 3 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-90c064c74a1996dba9f8b29ad2c11f7e]: Commencement: Sch. 4 Pt. I para. 4 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-90c064c74a1996dba9f8b29ad2c11f7e]: Commencement: Sch. 4 Pt. I para. 4 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-5a612c7fbe6ae510a48b0eed9af51146]: Commencement: Sch. 4 Pt. II para. 1 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-5a612c7fbe6ae510a48b0eed9af51146]: Commencement: Sch. 4 Pt. II para. 1 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-7642e3e8248630d72185958d491a917e]: Commencement: Sch. 4 Pt. II para. 2 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-7642e3e8248630d72185958d491a917e]: Commencement: Sch. 4 Pt. II para. 2 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-8a1635ea9915faf6c7f5ad9e3289ba11]: Commencement: Sch. 4 Pt. II para. 3 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-8a1635ea9915faf6c7f5ad9e3289ba11]: Commencement: Sch. 4 Pt. II para. 3 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-968854fb1f40c177c8e9290bb8eed333]: Commencement: Sch. 4 Pt. II para. 4 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-968854fb1f40c177c8e9290bb8eed333]: Commencement: Sch. 4 Pt. II para. 4 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-d32726fc106877a2674a8e6cdb85ff09]: Commencement: Sch. 4 para. 5 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-d32726fc106877a2674a8e6cdb85ff09]: Commencement: Sch. 4 para. 5 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-dd91d3610880c6aa83a4eeedc59315a2]: Commencement: Sch. 4 para. 6 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-dd91d3610880c6aa83a4eeedc59315a2]: Commencement: Sch. 4 para. 6 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-6db7b55de014ea2690ac4654050fb286]: Commencement: Sch. 4 para. 7 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-6db7b55de014ea2690ac4654050fb286]: Commencement: Sch. 4 para. 7 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-9106906e49e039247b3c63446ecd7607]: Commencement: Sch. 5 para. 1 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-9106906e49e039247b3c63446ecd7607]: Commencement: Sch. 5 para. 1 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-5532db0278224bf15211b797d3bc6d08]: Commencement: Sch. 5 para. 2 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-5532db0278224bf15211b797d3bc6d08]: Commencement: Sch. 5 para. 2 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-09f6994b17f3f0ad499f08e92253ec3d]: Commencement: Sch. 5 para. 3 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-09f6994b17f3f0ad499f08e92253ec3d]: Commencement: Sch. 5 para. 3 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-1305f9270e056f1428971b7912ef6884]: Commencement: Sch. 5 para. 4 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-1305f9270e056f1428971b7912ef6884]: Commencement: Sch. 5 para. 4 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-ff2b249c1e9e1af61c21fc47d44494bf]: Commencement: Sch. 5 para. 5 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-ff2b249c1e9e1af61c21fc47d44494bf]: Commencement: Sch. 5 para. 5 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-83ca2eba6a9f29b3c6f8a35f4c53577c]: Commencement: Sch. 5 para. 6 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-83ca2eba6a9f29b3c6f8a35f4c53577c]: Commencement: Sch. 5 para. 6 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-27b7ccbc2ea9c80b95975d0088051f52]: Commencement: Sch. 5 para. 7 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-27b7ccbc2ea9c80b95975d0088051f52]: Commencement: Sch. 5 para. 7 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-473c46dcdf6df9e9a348462ccb51e2b0]: Commencement: Sch. 5 para. 8 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-473c46dcdf6df9e9a348462ccb51e2b0]: Commencement: Sch. 5 para. 8 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-1704dc857c15777b2b5415cffda94611]: Commencement: Sch. 5 para. 9 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-1704dc857c15777b2b5415cffda94611]: Commencement: Sch. 5 para. 9 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-f3db0cdcdd16a34db19ef6ddaa4f1230]: Commencement: Sch. 6 Pt. I in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-f3db0cdcdd16a34db19ef6ddaa4f1230]: Commencement: Sch. 6 Pt. I in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-db66f8fc4b4ad9d9fae15d84677d7cd6]: Commencement: Sch. 6 Pt. II in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-db66f8fc4b4ad9d9fae15d84677d7cd6]: Commencement: Sch. 6 Pt. II in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
 
-[^key-14bf965ad53aaf26b8e15eb77746cb85]: Commencement: Sch. 7 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)
+[^c-14bf965ad53aaf26b8e15eb77746cb85]: Commencement: Sch. 7 in operation at 1.2.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/1/regulation/1)

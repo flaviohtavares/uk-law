@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Assignment stage[^key-8c8377ba29108406018e02746a67dc9e]
+## 72. Assignment stage[^c-8c8377ba29108406018e02746a67dc9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ there shall be one further round of bidding (“assignment stage round”) in ac
 
 ## Annotations
 
-[^key-8c8377ba29108406018e02746a67dc9e]: Commencement: Reg. 72 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-8c8377ba29108406018e02746a67dc9e]: Commencement: Reg. 72 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

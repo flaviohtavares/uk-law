@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 5 — REVOCATIONS[^key-45364a793b71b5f1018092016bb2eebd]
+## SCHEDULE 5 — REVOCATIONS[^c-45364a793b71b5f1018092016bb2eebd]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ Article 6
 
 ## Annotations
 
-[^key-45364a793b71b5f1018092016bb2eebd]: Commencement: Sch. 5 in force at 14.2.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/50/article/1/1)
+[^c-45364a793b71b5f1018092016bb2eebd]: Commencement: Sch. 5 in force at 14.2.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/50/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181. Sharing information[^key-72eedae9c67ba69f27cb0b05c1960ef8]
+## 181. Sharing information[^c-72eedae9c67ba69f27cb0b05c1960ef8]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72eedae9c67ba69f27cb0b05c1960ef8]: Commencement: [S. 181](https://www.legislation.gov.uk/anaw/2016/2/section/181) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(h)](https://www.legislation.gov.uk/wsi/2017/309/article/2/h) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-72eedae9c67ba69f27cb0b05c1960ef8]: Commencement: [S. 181](https://www.legislation.gov.uk/anaw/2016/2/section/181) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(h)](https://www.legislation.gov.uk/wsi/2017/309/article/2/h) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

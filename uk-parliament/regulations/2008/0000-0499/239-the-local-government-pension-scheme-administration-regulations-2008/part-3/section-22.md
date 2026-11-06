@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Applications to make absence contributions[^key-c7e7f74fa787a979cc9c057e7abc3d09]
+## 22. Applications to make absence contributions[^c-c7e7f74fa787a979cc9c057e7abc3d09]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7e7f74fa787a979cc9c057e7abc3d09]: Commencement: Reg. 22 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-c7e7f74fa787a979cc9c057e7abc3d09]: Commencement: Reg. 22 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

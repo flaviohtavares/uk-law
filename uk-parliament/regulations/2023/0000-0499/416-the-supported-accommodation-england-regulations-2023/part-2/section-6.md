@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. The accommodation standard[^key-153a7443697caa69e5422d36589f6f96]
+## 6. The accommodation standard[^c-153a7443697caa69e5422d36589f6f96]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-153a7443697caa69e5422d36589f6f96]: Commencement: Reg. 6 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-153a7443697caa69e5422d36589f6f96]: Commencement: Reg. 6 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)

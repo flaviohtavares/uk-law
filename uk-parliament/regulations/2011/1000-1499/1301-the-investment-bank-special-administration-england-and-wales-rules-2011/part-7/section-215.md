@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 215. Notification and advertisement of appointment of replacement administrator[^key-bf04d20f9d972ca75895d091313322c9]
+## 215. Notification and advertisement of appointment of replacement administrator[^c-bf04d20f9d972ca75895d091313322c9]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf04d20f9d972ca75895d091313322c9]: Commencement: [Rule 215](https://www.legislation.gov.uk/uksi/2011/1301/rule/215) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-bf04d20f9d972ca75895d091313322c9]: Commencement: [Rule 215](https://www.legislation.gov.uk/uksi/2011/1301/rule/215) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

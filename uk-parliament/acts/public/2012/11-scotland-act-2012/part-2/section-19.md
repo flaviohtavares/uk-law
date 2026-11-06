@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Misuse of drugs[^key-c94092c0ee180739dbfcaad858d8a07d]
+## 19. Misuse of drugs[^c-c94092c0ee180739dbfcaad858d8a07d]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c94092c0ee180739dbfcaad858d8a07d]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2012/11/section/19) in force at 31.10.2012 by [S.I. 2012/2516](https://www.legislation.gov.uk/uksi/2012/2516), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2516/article/2/d)
+[^c-c94092c0ee180739dbfcaad858d8a07d]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2012/11/section/19) in force at 31.10.2012 by [S.I. 2012/2516](https://www.legislation.gov.uk/uksi/2012/2516), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2516/article/2/d)

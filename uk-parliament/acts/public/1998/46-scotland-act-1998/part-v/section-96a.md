@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96A. Provision of information to the Office for Budget Responsibility[^key-2cfd64573cb6ff29ffbe71c37c5231e6]
+## 96A. Provision of information to the Office for Budget Responsibility[^c-2cfd64573cb6ff29ffbe71c37c5231e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2cfd64573cb6ff29ffbe71c37c5231e6]: Textual amendment: [S. 96A](https://www.legislation.gov.uk/ukpga/1998/46/section/96A) inserted (1.4.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2016/11/section/21/2), [72(5)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/5); [S.I. 2016/1178](https://www.legislation.gov.uk/uksi/2016/1178), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/1178/regulation/2/b)
+[^c-2cfd64573cb6ff29ffbe71c37c5231e6]: Textual amendment: [S. 96A](https://www.legislation.gov.uk/ukpga/1998/46/section/96A) inserted (1.4.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2016/11/section/21/2), [72(5)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/5); [S.I. 2016/1178](https://www.legislation.gov.uk/uksi/2016/1178), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/1178/regulation/2/b)

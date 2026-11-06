@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Amendment of the Barnsley, Doncaster, Rotherham and Sheffield Combined Authority (Election of Mayor) Order 2016[^key-5c3c9b298ea0067482408d2045d869e8]
+## 3. Amendment of the Barnsley, Doncaster, Rotherham and Sheffield Combined Authority (Election of Mayor) Order 2016[^c-5c3c9b298ea0067482408d2045d869e8]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5c3c9b298ea0067482408d2045d869e8]: Commencement: Art. 3 in force at 21.3.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2)
+[^c-5c3c9b298ea0067482408d2045d869e8]: Commencement: Art. 3 in force at 21.3.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2)
 
 [^f00010]: Footnote: [S.I. 2016/800](https://www.legislation.gov.uk/uksi/2016/800). Article 3 was amended by [S.I. 2017/432](https://www.legislation.gov.uk/uksi/2017/432).

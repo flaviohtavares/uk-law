@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 86. Required period condition: further provision[^key-fdafa3b62afa5d089ecf14504b03ae98]
+## 86. Required period condition: further provision[^c-fdafa3b62afa5d089ecf14504b03ae98]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fdafa3b62afa5d089ecf14504b03ae98]: Commencement: [Art. 86](https://www.legislation.gov.uk/nisi/2015/2006/article/86) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(5)(b)](https://www.legislation.gov.uk/nisr/2016/215/article/2/5/b)
+[^c-fdafa3b62afa5d089ecf14504b03ae98]: Commencement: [Art. 86](https://www.legislation.gov.uk/nisi/2015/2006/article/86) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(5)(b)](https://www.legislation.gov.uk/nisr/2016/215/article/2/5/b)

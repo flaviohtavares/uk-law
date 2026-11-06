@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Information about employees to be contained in notice of industrial action[^key-bc9d3824dd49bb5f9c6acf5bdccfbd88]
+## 25. Information about employees to be contained in notice of industrial action[^c-bc9d3824dd49bb5f9c6acf5bdccfbd88]
 
 *Extent: E+W+S*
 
@@ -85,4 +85,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc9d3824dd49bb5f9c6acf5bdccfbd88]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2004/24/section/25) in force at 1.10.2005 by [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/2419/article/3/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2005/2419/article/7))
+[^c-bc9d3824dd49bb5f9c6acf5bdccfbd88]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2004/24/section/25) in force at 1.10.2005 by [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/2419/article/3/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2005/2419/article/7))

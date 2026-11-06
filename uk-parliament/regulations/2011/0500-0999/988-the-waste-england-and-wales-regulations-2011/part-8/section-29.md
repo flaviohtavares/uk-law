@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Procedure for registration[^key-318dc2ff9f2449d378b7ca7164047af8]
+## 29. Procedure for registration[^c-318dc2ff9f2449d378b7ca7164047af8]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,9 +34,9 @@ summary: ''
 (5) Registration may be refused if, in the opinion of the appropriate body—
 
 - (a) it is undesirable for the applicant to be authorised to transport controlled waste or to act as a broker or dealer of controlled waste (as the case may be); and
-- (b) the applicant or another relevant person has been convicted of a relevant offence[^key-cf86aa7b4e0c1584106f8aca5de4936a]
+- (b) the applicant or another relevant person has been convicted of a relevant offence[^c-cf86aa7b4e0c1584106f8aca5de4936a]
 
-(5A)[^key-f991b16ad92b9dbad80bbf07cab95705] A “relevant offence” means an offence under—
+(5A)[^c-f991b16ad92b9dbad80bbf07cab95705] A “relevant offence” means an offence under—
 
 - (a) the Scrap Metal Dealers Act 1964,
 - (b) section 1, 8, 9, 10, 11, 17, 18, 22 or 25 of the Theft Act 1968, where the offence relates to scrap metal or is an environment-related offence,
@@ -47,7 +47,7 @@ summary: ''
 - (g) section 85, 202 or 206 of the Water Resources Act 1991,
 - (h) the Transfrontier Shipment of Waste Regulations 1994,
 - (i) section 110 of the Environment Act 1995,
-- (j) the Control of Major Accident Hazards Regulations 2015[^key-f8209793a5748b951769e6cf8cb35903],
+- (j) the Control of Major Accident Hazards Regulations 2015[^c-f8209793a5748b951769e6cf8cb35903],
 - (k) the Pollution Prevention and Control (England and Wales) Regulations 2000,
 - (l) Part 1 of the Vehicles (Crimes) Act 2001,
 - (m) regulation 17(1) of the Landfill (England and Wales) Regulations 2002,
@@ -64,7 +64,7 @@ summary: ''
 - (x) section 146 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012,
 - (y) the Waste Electrical and Electronic Equipment Regulations 2013,
 - (z) the Scrap Metal Dealers Act 2013.
-- (z1)[^key-884b2819a9d00c75575d0ef55b916def] regulation 38 of the Environmental Permitting (England and Wales) Regulations 2016.
+- (z1)[^c-884b2819a9d00c75575d0ef55b916def] regulation 38 of the Environmental Permitting (England and Wales) Regulations 2016.
 
 (5B) A relevant offence also includes—
 
@@ -84,7 +84,7 @@ summary: ''
 
 (6) On registration the appropriate body must provide a certificate of registration to the applicant.
 
-(6A)[^key-201ba1b7d10c1fb2b665842b4560d705] The appropriate body must, on payment of a reasonable charge, provide any person who has been provided with a certificate of registration under paragraph (6) with a copy of the certificate if requested.
+(6A)[^c-201ba1b7d10c1fb2b665842b4560d705] The appropriate body must, on payment of a reasonable charge, provide any person who has been provided with a certificate of registration under paragraph (6) with a copy of the certificate if requested.
 
 (6B) The appropriate body must ensure that any copy is numbered and marked so as to show that it is a copy of the certificate and that it has been provided by the appropriate body under this regulation.
 
@@ -97,14 +97,14 @@ summary: ''
 
 ## Annotations
 
-[^key-318dc2ff9f2449d378b7ca7164047af8]: Textual amendment: Reg. 29 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 406](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/406) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-318dc2ff9f2449d378b7ca7164047af8]: Textual amendment: Reg. 29 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 406](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/406) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-cf86aa7b4e0c1584106f8aca5de4936a]: Textual amendment: Reg. 29(5)(b) substituted (6.4.2014) by [The Waste (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/656)](https://www.legislation.gov.uk/uksi/2014/656), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/656/regulation/1/1/b), [4(a)](https://www.legislation.gov.uk/uksi/2014/656/regulation/4/a)
+[^c-cf86aa7b4e0c1584106f8aca5de4936a]: Textual amendment: Reg. 29(5)(b) substituted (6.4.2014) by [The Waste (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/656)](https://www.legislation.gov.uk/uksi/2014/656), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/656/regulation/1/1/b), [4(a)](https://www.legislation.gov.uk/uksi/2014/656/regulation/4/a)
 
-[^key-f991b16ad92b9dbad80bbf07cab95705]: Textual amendment: Reg. 29(5A)-(5C) inserted (6.4.2014) by [The Waste (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/656)](https://www.legislation.gov.uk/uksi/2014/656), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/656/regulation/1/1/b), [4(b)](https://www.legislation.gov.uk/uksi/2014/656/regulation/4/b)
+[^c-f991b16ad92b9dbad80bbf07cab95705]: Textual amendment: Reg. 29(5A)-(5C) inserted (6.4.2014) by [The Waste (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/656)](https://www.legislation.gov.uk/uksi/2014/656), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/656/regulation/1/1/b), [4(b)](https://www.legislation.gov.uk/uksi/2014/656/regulation/4/b)
 
-[^key-f8209793a5748b951769e6cf8cb35903]: Textual amendment: Word in reg. 29(5A)(j) substituted (1.6.2015) by [The Control of Major Accident Hazards Regulations 2015 (S.I. 2015/483)](https://www.legislation.gov.uk/uksi/2015/483), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/483/regulation/1/1), [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/2015/483/schedule/6/paragraph/6) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/483/regulation/3/2))
+[^c-f8209793a5748b951769e6cf8cb35903]: Textual amendment: Word in reg. 29(5A)(j) substituted (1.6.2015) by [The Control of Major Accident Hazards Regulations 2015 (S.I. 2015/483)](https://www.legislation.gov.uk/uksi/2015/483), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/483/regulation/1/1), [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/2015/483/schedule/6/paragraph/6) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/483/regulation/3/2))
 
-[^key-884b2819a9d00c75575d0ef55b916def]: Textual amendment: Reg. 29(5A)(z1) inserted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 36(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/36/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-884b2819a9d00c75575d0ef55b916def]: Textual amendment: Reg. 29(5A)(z1) inserted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 36(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/36/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-201ba1b7d10c1fb2b665842b4560d705]: Textual amendment: Reg. 29(6A)(6B) inserted (6.4.2014) by [The Waste (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/656)](https://www.legislation.gov.uk/uksi/2014/656), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/656/regulation/1/1/b), [4(c)](https://www.legislation.gov.uk/uksi/2014/656/regulation/4/c)
+[^c-201ba1b7d10c1fb2b665842b4560d705]: Textual amendment: Reg. 29(6A)(6B) inserted (6.4.2014) by [The Waste (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/656)](https://www.legislation.gov.uk/uksi/2014/656), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/656/regulation/1/1/b), [4(c)](https://www.legislation.gov.uk/uksi/2014/656/regulation/4/c)

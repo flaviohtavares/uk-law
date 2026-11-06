@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Administration in relation to insolvent partnership[^key-724f5bd77a596ba088e1ec1bb6a10993]
+## 6. Administration in relation to insolvent partnership[^c-724f5bd77a596ba088e1ec1bb6a10993]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ summary: ''
 
 (5) The provisions referred to in paragraph (4) are—
 
-- (za)[^key-0f991734b004b7b1eac6851705673fa9] section 176AZA in Part IV,
+- (za)[^c-0f991734b004b7b1eac6851705673fa9] section 176AZA in Part IV,
 - (a) Part VI,
 - (b) Part VII (with the exception of section 250),
 - (c) Part XII,
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-724f5bd77a596ba088e1ec1bb6a10993]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/1994/2421/part/3) substituted (1.7.2005) by [The Insolvent Partnerships (Amendment) Order 2005 (S.I. 2005/1516)](https://www.legislation.gov.uk/uksi/2005/1516), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/1516/article/1/1), [3](https://www.legislation.gov.uk/uksi/2005/1516/article/3) (with [art. 2](https://www.legislation.gov.uk/uksi/2005/1516/article/2))
+[^c-724f5bd77a596ba088e1ec1bb6a10993]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/1994/2421/part/3) substituted (1.7.2005) by [The Insolvent Partnerships (Amendment) Order 2005 (S.I. 2005/1516)](https://www.legislation.gov.uk/uksi/2005/1516), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/1516/article/1/1), [3](https://www.legislation.gov.uk/uksi/2005/1516/article/3) (with [art. 2](https://www.legislation.gov.uk/uksi/2005/1516/article/2))
 
-[^key-0f991734b004b7b1eac6851705673fa9]: Textual amendment: [Art. 6(5)(za)](https://www.legislation.gov.uk/uksi/1994/2421/article/6/5/za) inserted (19.12.2018) by [The Banks and Building Societies (Priorities on Insolvency) Order 2018 (revoked) 2018 (S.I. 2018/1244)](https://www.legislation.gov.uk/uksi/2018/1244), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1244/article/1/2), [17](https://www.legislation.gov.uk/uksi/2018/1244/article/17) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/1244/article/3))
+[^c-0f991734b004b7b1eac6851705673fa9]: Textual amendment: [Art. 6(5)(za)](https://www.legislation.gov.uk/uksi/1994/2421/article/6/5/za) inserted (19.12.2018) by [The Banks and Building Societies (Priorities on Insolvency) Order 2018 (revoked) 2018 (S.I. 2018/1244)](https://www.legislation.gov.uk/uksi/2018/1244), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1244/article/1/2), [17](https://www.legislation.gov.uk/uksi/2018/1244/article/17) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/1244/article/3))

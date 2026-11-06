@@ -24,7 +24,7 @@ Section 44
 
 ### PART 1 — England and Wales: investigations and inquests
 
-#### 1. Coroners and Justice Act 2009[^key-f90c96b967a8379ceb819d369a771071]
+#### 1. Coroners and Justice Act 2009[^c-f90c96b967a8379ceb819d369a771071]
 
 (1) After section 11 of the Coroners and Justice Act 2009 insert—
 
@@ -78,7 +78,7 @@ Section 44
 > - “**inquest**” means the inquest that forms part of an investigation;
 > - “**investigation**” means an investigation under this Part.
 
-#### 2. Coroners Act 1988[^key-b0fb72abc0c10c111def8b6d3d8dfb75]
+#### 2. Coroners Act 1988[^c-b0fb72abc0c10c111def8b6d3d8dfb75]
 
 (1) In section 13 of the Coroners Act 1988 (order to hold investigation), after subsection (4) insert—
 
@@ -88,7 +88,7 @@ Section 44
 
 ### PART 2 — Scotland: inquiries and investigations
 
-#### 3. Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016[^key-e409c2f70bed32e01ee6daa9cf411b12]
+#### 3. Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016[^c-e409c2f70bed32e01ee6daa9cf411b12]
 
 (1) After section 7 of the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act [2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2) insert—
 
@@ -138,8 +138,8 @@ Section 44
 
 ## Annotations
 
-[^key-f90c96b967a8379ceb819d369a771071]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2023/41/schedule/11/paragraph/1) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)
+[^c-f90c96b967a8379ceb819d369a771071]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2023/41/schedule/11/paragraph/1) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)
 
-[^key-b0fb72abc0c10c111def8b6d3d8dfb75]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2023/41/schedule/11/paragraph/2) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)
+[^c-b0fb72abc0c10c111def8b6d3d8dfb75]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2023/41/schedule/11/paragraph/2) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)
 
-[^key-e409c2f70bed32e01ee6daa9cf411b12]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2023/41/schedule/11/paragraph/3) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)
+[^c-e409c2f70bed32e01ee6daa9cf411b12]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2023/41/schedule/11/paragraph/3) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)

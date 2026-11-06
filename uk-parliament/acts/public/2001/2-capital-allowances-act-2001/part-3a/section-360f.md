@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 360F. Interest acquired on completion of conversion[^key-e55c9e0cbb84c78796990128c4d86b99]
+## 360F. Interest acquired on completion of conversion[^c-e55c9e0cbb84c78796990128c4d86b99]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ is treated as having had that interest when the expenditure was incurred.
 
 ## Annotations
 
-[^key-e55c9e0cbb84c78796990128c4d86b99]: Textual amendment: Pt. 3A inserted (11.4.2007 with effect in accordance with s. 92 of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2005/7/schedule/6/paragraph/1); [S.I. 2007/949](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
+[^c-e55c9e0cbb84c78796990128c4d86b99]: Textual amendment: Pt. 3A inserted (11.4.2007 with effect in accordance with s. 92 of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2005/7/schedule/6/paragraph/1); [S.I. 2007/949](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)

@@ -239,7 +239,7 @@ Section 314.
 | 1981 c.10. | Merchant Shipping Act 1981. | The whole Act. |
 | 1981 c.52. | Belize Act 1981. | In Schedule 1, paragraph 4(a). |
 |  |  | In Schedule 2, paragraph 4. |
-| 1981 c.54. | Senior Courts Act 1981[^key-b15b92e2a52b6e626dccc5ccedc5b71f]. | In section 153(4)(d), the words from “section 13(1)” to “1974”. |
+| 1981 c.54. | Senior Courts Act 1981[^c-b15b92e2a52b6e626dccc5ccedc5b71f]. | In section 153(4)(d), the words from “section 13(1)” to “1974”. |
 |  |  | In Schedule 5, the entries relating to the Merchant Shipping (Oil Pollution) Act 1971 and the Merchant Shipping Act 1974. |
 | S.I. 1981/226 (NI 6). | Judgments Enforcement (Northern Ireland) Order 1981. | In Schedule 2, paragraph 17. |
 | S.I. 1981/1675 (NI 26). | Magistrates’ Courts (Northern Ireland) Order 1981. | In Part I of Schedule 6, paragraphs 18 and 19. |
@@ -295,4 +295,4 @@ The repeals in the Crown Proceedings Act 1947 apply in relation to Her Majesty�
 
 [^c14530251]: Commencement: Sch. 12 partly in force: Sch. 12 in force at 1.1.1996 (see s. 316(2)) except as mentioned in s. 314(1)(3), Sch. 14 para. 5
 
-[^key-b15b92e2a52b6e626dccc5ccedc5b71f]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-b15b92e2a52b6e626dccc5ccedc5b71f]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)

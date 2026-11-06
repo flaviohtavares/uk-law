@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Reprimands and warnings.[^key-93bacd636628d0c1eee36878bb4b0248]
+## 65. Reprimands and warnings.[^c-93bacd636628d0c1eee36878bb4b0248]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93bacd636628d0c1eee36878bb4b0248]: Textual amendment: S. 65 omitted (8.4.2013) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 135(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/135/1), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [s. 135(4)-(7)](https://www.legislation.gov.uk/ukpga/2012/10/section/135/4)); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(d)](https://www.legislation.gov.uk/uksi/2013/453/article/4/d)
+[^c-93bacd636628d0c1eee36878bb4b0248]: Textual amendment: S. 65 omitted (8.4.2013) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 135(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/135/1), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [s. 135(4)-(7)](https://www.legislation.gov.uk/ukpga/2012/10/section/135/4)); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(d)](https://www.legislation.gov.uk/uksi/2013/453/article/4/d)

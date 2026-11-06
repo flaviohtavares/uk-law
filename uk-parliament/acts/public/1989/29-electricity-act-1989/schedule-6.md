@@ -33,14 +33,14 @@ the supplier shall not charge the customer for the alteration or replacement.
 
 ### Non-payment of suppliers’ charges
 
-**2.** (1) Where a customer has not, within the requisite period, made all the relevant payments[^key-830c477ab529cecbf209da1d7b045ed4], the supplier may—
+**2.** (1) Where a customer has not, within the requisite period, made all the relevant payments[^c-830c477ab529cecbf209da1d7b045ed4], the supplier may—
 
 - (a) install a pre-payment meter on the premises; or
 - (b) disconnect the premises,
 
 and the supplier may recover any expenses incurred in so doing from the customer.
 
-(1A)[^key-b95aec99181cd68b6d58063c1732fe27] A payment is a relevant payment for the purposes of sub-paragraph (1) if it is due from the customer to an electricity supplier—
+(1A)[^c-b95aec99181cd68b6d58063c1732fe27] A payment is a relevant payment for the purposes of sub-paragraph (1) if it is due from the customer to an electricity supplier—
 
 - (a) in respect of the supply of electricity to any premises or the provision of an electricity meter; or
 - (b) under a green deal plan (within the meaning of section 1 of the Energy Act 2011) in respect of the premises.
@@ -50,7 +50,7 @@ and the supplier may recover any expenses incurred in so doing from the customer
 - (a) as respects any amount which is genuinely in dispute (disregarding for this purpose a dispute under section 39 or regulations made under it); and
 - (b) unless not less than seven working days’ notice has been given to the occupier of the premises (or the owner of the premises if they are unoccupied) of his intention to exercise it.
 
-(3) In this paragraph the “**requisite period**” means the period of 28 days after the making by the supplier of a demand in writing for the relevant payments to be made[^key-614c568315943d38694eee7826f3dc4a].
+(3) In this paragraph the “**requisite period**” means the period of 28 days after the making by the supplier of a demand in writing for the relevant payments to be made[^c-614c568315943d38694eee7826f3dc4a].
 
 ### Deemed contracts in certain cases
 
@@ -86,7 +86,7 @@ whichever is the earlier.
 (10) As soon as practicable after an electricity supplier makes a scheme under this paragraph, or a revision of such a scheme, he shall—
 
 - (a) publish, in such manner as he considers appropriate for bringing it to the attention of persons likely to be affected by it, a notice stating the effect of the scheme or revision;
-- (b) send a copy of the scheme or revision to the Authority , to[^key-3c2b25411c5d7e619a9a108a5322ea45] Citizens Advice and to Consumer Scotland[^key-616935746a19d39a28230c837574bcd9]; and
+- (b) send a copy of the scheme or revision to the Authority , to[^c-3c2b25411c5d7e619a9a108a5322ea45] Citizens Advice and to Consumer Scotland[^c-616935746a19d39a28230c837574bcd9]; and
 - (c) if so requested by any other person, send such a copy to that person without charge to him.
 
 ### Supplies of electricity illegally taken
@@ -211,22 +211,22 @@ any officer or other person authorised by the supplier may at all reasonable tim
 (2) Anything to which this paragraph applies—
 
 - (a) shall be deemed not to be landlord’s fixtures, notwithstanding that they may be fixed or fastened to any part of any premises; and
-- (b) shall not in England and Wales be subject to distress or be liable to be taken control of under Schedule 12 to the Tribunals, Courts and Enforcement Act 2007, or[^key-f41c460c3a8ca56a9f822ab5138f295d] to be taken in execution under process of any court or any proceedings in bankruptcy against the person in whose possession they may be.
+- (b) shall not in England and Wales be subject to distress or be liable to be taken control of under Schedule 12 to the Tribunals, Courts and Enforcement Act 2007, or[^c-f41c460c3a8ca56a9f822ab5138f295d] to be taken in execution under process of any court or any proceedings in bankruptcy against the person in whose possession they may be.
 
 ## Annotations
 
 [^c4119381]: Textual amendment: Sch. 6 substituted (20.12.2000 for specified purposes and otherwise 1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 51(2)](https://www.legislation.gov.uk/ukpga/2000/27/section/51/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2000/27/schedule/4); [S.I. 2000/3343](https://www.legislation.gov.uk/uksi/2000/3343), [art. 2](https://www.legislation.gov.uk/uksi/2000/3343/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/3343/schedule) (subject to transitional provisions in [arts. 3-15](https://www.legislation.gov.uk/uksi/2000/3343/article/3)) (as amended by [S.I. 2001/1780](https://www.legislation.gov.uk/uksi/2001/1780), [art. 2](https://www.legislation.gov.uk/uksi/2001/1780/article/2)); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-12](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-830c477ab529cecbf209da1d7b045ed4]: Textual amendment: Words in Sch. 6 para. 2(1) substituted (28.1.2013) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 24(3)](https://www.legislation.gov.uk/ukpga/2011/16/section/24/3), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/125/article/3/a)
+[^c-830c477ab529cecbf209da1d7b045ed4]: Textual amendment: Words in Sch. 6 para. 2(1) substituted (28.1.2013) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 24(3)](https://www.legislation.gov.uk/ukpga/2011/16/section/24/3), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/125/article/3/a)
 
-[^key-b95aec99181cd68b6d58063c1732fe27]: Textual amendment: Sch. 6 para. 2(1A) inserted (28.1.2013) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 24(4)](https://www.legislation.gov.uk/ukpga/2011/16/section/24/4), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/125/article/3/a)
+[^c-b95aec99181cd68b6d58063c1732fe27]: Textual amendment: Sch. 6 para. 2(1A) inserted (28.1.2013) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 24(4)](https://www.legislation.gov.uk/ukpga/2011/16/section/24/4), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/125/article/3/a)
 
-[^key-614c568315943d38694eee7826f3dc4a]: Textual amendment: Words in Sch. 6 para. 2(3) substituted (28.1.2013) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 24(5)](https://www.legislation.gov.uk/ukpga/2011/16/section/24/5), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/125/article/3/a)
+[^c-614c568315943d38694eee7826f3dc4a]: Textual amendment: Words in Sch. 6 para. 2(3) substituted (28.1.2013) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 24(5)](https://www.legislation.gov.uk/ukpga/2011/16/section/24/5), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/125/article/3/a)
 
-[^key-3c2b25411c5d7e619a9a108a5322ea45]: Textual amendment: Words in Sch. 6 para. 3(10)(b) substituted (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 5(21)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/5/21) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
+[^c-3c2b25411c5d7e619a9a108a5322ea45]: Textual amendment: Words in Sch. 6 para. 3(10)(b) substituted (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 5(21)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/5/21) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
 
-[^key-616935746a19d39a28230c837574bcd9]: Textual amendment: Words in [Sch. 6 para. 3(10)(b)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/6/paragraph/3/10/b) substituted (13.1.2022) by [The Consumer Scotland Act 2020 (Consequential Provisions and Modifications) Order 2022 (S.I. 2022/34)](https://www.legislation.gov.uk/uksi/2022/34), [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/34/article/1/1), [Sch. para. 3(19)](https://www.legislation.gov.uk/uksi/2022/34/schedule/paragraph/3/19) (with [art. 5](https://www.legislation.gov.uk/uksi/2022/34/article/5))
+[^c-616935746a19d39a28230c837574bcd9]: Textual amendment: Words in [Sch. 6 para. 3(10)(b)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/6/paragraph/3/10/b) substituted (13.1.2022) by [The Consumer Scotland Act 2020 (Consequential Provisions and Modifications) Order 2022 (S.I. 2022/34)](https://www.legislation.gov.uk/uksi/2022/34), [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/34/article/1/1), [Sch. para. 3(19)](https://www.legislation.gov.uk/uksi/2022/34/schedule/paragraph/3/19) (with [art. 5](https://www.legislation.gov.uk/uksi/2022/34/article/5))
 
 [^c4121141]: Marginal citation: [1954 c. 1](https://www.legislation.gov.uk/ukpga/1954/1).
 
-[^key-f41c460c3a8ca56a9f822ab5138f295d]: Textual amendment: Words in Sch. 6 para. 11(2)(b) inserted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 90](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/90) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-f41c460c3a8ca56a9f822ab5138f295d]: Textual amendment: Words in Sch. 6 para. 11(2)(b) inserted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 90](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/90) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)

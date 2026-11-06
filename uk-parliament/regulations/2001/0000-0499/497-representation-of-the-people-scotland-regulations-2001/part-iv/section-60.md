@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Inquiries by registration officer[^key-8d380bfd38aee9f80161fc030b86f139]
+## 60. Inquiries by registration officer[^c-8d380bfd38aee9f80161fc030b86f139]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ for the purpose of determining whether there has been a material change of circu
 
 ## Annotations
 
-[^key-8d380bfd38aee9f80161fc030b86f139]: Commencement: Reg. 60 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
+[^c-8d380bfd38aee9f80161fc030b86f139]: Commencement: Reg. 60 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)

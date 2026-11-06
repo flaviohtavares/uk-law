@@ -28,8 +28,8 @@ Regulation 26(2)
 
 In this Schedule—
 
-- “approved premises” means hostels which receive grants for housing support services under Article 4 of the Housing Support Services (Northern Ireland) Order 2002 in respect of offenders, with bed spaces allocated for criminal justice referrals;[^key-4beb7676aa5e92b94be0720f7db5de38]
-- “**care home**” means a residential care home as defined in Article 10 of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 [^c22824761] , or a nursing home as defined in Article 11 of that Order[^key-331d077dec607ae0d2c1c82f8a7c09b1] and includes an independent hospital;
+- “approved premises” means hostels which receive grants for housing support services under Article 4 of the Housing Support Services (Northern Ireland) Order 2002 in respect of offenders, with bed spaces allocated for criminal justice referrals;[^c-4beb7676aa5e92b94be0720f7db5de38]
+- “**care home**” means a residential care home as defined in Article 10 of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 [^c22824761] , or a nursing home as defined in Article 11 of that Order[^c-331d077dec607ae0d2c1c82f8a7c09b1] and includes an independent hospital;
 - “**equity sharing lease**” has the meaning given in regulation 27(6) (amount of the housing costs element – renters and owner-occupiers);
 - “**exempt accommodation**” has the meaning given in paragraph 4(9) of Schedule 3 to the Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 [^c22824771];
 - “**housing association**” has the meaning given by Article 3 of the Housing (Northern Ireland) Order 1992 [^c22824781];
@@ -59,8 +59,8 @@ The following are excluded from being “rent payments”—
 - (c) payments in respect of approved premises;
 - (d) payments in respect of a care home;
 - (e) payments in respect of accommodation specified in paragraph 4;
-- (ea)[^key-c9a0c3cd4f71552a96dbd439a658847f] payments in respect of accommodation specified in paragraph 4A;
-- (f) payments which, are owner-occupier payments within the meaning of Schedule 1 to the Loans for Mortgage Interest Regulations (Northern Ireland) 2017[^key-7e47a0d7e2cc0a4d853537d8aa667f0c];
+- (ea)[^c-c9a0c3cd4f71552a96dbd439a658847f] payments in respect of accommodation specified in paragraph 4A;
+- (f) payments which, are owner-occupier payments within the meaning of Schedule 1 to the Loans for Mortgage Interest Regulations (Northern Ireland) 2017[^c-7e47a0d7e2cc0a4d853537d8aa667f0c];
 - (g) payments which, are service charge payments within the meaning of paragraph 8.
 
 #### 4. Specified accommodation
@@ -93,7 +93,7 @@ The following are excluded from being “rent payments”—
   - (b) registered charity, or
   - (c) voluntary organisation.
 
-#### 4A. Temporary Accommodation[^key-e7c9abfc14ab4dcfffbb54bbc1f1520a]
+#### 4A. Temporary Accommodation[^c-e7c9abfc14ab4dcfffbb54bbc1f1520a]
 
 (1) The accommodation referred to in paragraph (3)(ea) is accommodation which falls within Case 1 or Case 2.
 
@@ -119,15 +119,15 @@ The following are excluded from being “rent payments”—
 
 ### Owner-occupier payments
 
-#### 5. Owner-occupier payments[^key-2824e3011e1074cf1a9fb855cd1c7616]
+#### 5. Owner-occupier payments[^c-2824e3011e1074cf1a9fb855cd1c7616]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Meaning of “loan interest payments”[^key-2824e3011e1074cf1a9fb855cd1c7616]
+#### 6. Meaning of “loan interest payments”[^c-2824e3011e1074cf1a9fb855cd1c7616]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Meaning of “alternative finance payments”[^key-2824e3011e1074cf1a9fb855cd1c7616]
+#### 7. Meaning of “alternative finance payments”[^c-2824e3011e1074cf1a9fb855cd1c7616]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -148,7 +148,7 @@ The following are excluded from being “rent payments”—
 
 (3) Payments are excluded by this sub-paragraph where—
 
-- (a) a qualifying loan within the meaning of regulation 2 of the Loans for Mortgage Interest Regulations (Northern Ireland) 2017[^key-b3f83244cb08d206cd6b8403a1b90cfb] was taken out for the purposes of making the payments, or
+- (a) a qualifying loan within the meaning of regulation 2 of the Loans for Mortgage Interest Regulations (Northern Ireland) 2017[^c-b3f83244cb08d206cd6b8403a1b90cfb] was taken out for the purposes of making the payments, or
 - (b) the services or facilities to which the payments relate are provided for the use or benefit of any person occupying—
   - (i) a tent,
   - (ii) approved premises,
@@ -165,7 +165,7 @@ The following are excluded from being “rent payments”—
 
 (1) This paragraph applies for the purposes of calculating the amount of the housing costs element to be included in a claimant's award of universal credit but only as regards calculations made under—
 
-- (a) Part 5 of Schedule 4 (social rented sector[^key-e98ce568bf9caec19ab38323b9cbc1f2]...); or
+- (a) Part 5 of Schedule 4 (social rented sector[^c-e98ce568bf9caec19ab38323b9cbc1f2]...); or
 - (b) Schedule 5 (housing costs element for owner-occupiers).
 
 (2) The following are the conditions referred to in paragraph 8(1)(c).
@@ -207,11 +207,11 @@ Payments within this category are specific to the particular accommodation occup
 
 ## Annotations
 
-[^key-4beb7676aa5e92b94be0720f7db5de38]: Textual amendment: Words in Sch. 1 para. 1 substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/3), [9(16)(a)](https://www.legislation.gov.uk/nisr/2017/116/regulation/9/16/a)
+[^c-4beb7676aa5e92b94be0720f7db5de38]: Textual amendment: Words in Sch. 1 para. 1 substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/3), [9(16)(a)](https://www.legislation.gov.uk/nisr/2017/116/regulation/9/16/a)
 
 [^c22824761]: Marginal citation: [S.I. 2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431).
 
-[^key-331d077dec607ae0d2c1c82f8a7c09b1]: Textual amendment: Words in Sch. 1 para. 1 inserted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/3), [9(16)(b)](https://www.legislation.gov.uk/nisr/2017/116/regulation/9/16/b)
+[^c-331d077dec607ae0d2c1c82f8a7c09b1]: Textual amendment: Words in Sch. 1 para. 1 inserted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/3), [9(16)(b)](https://www.legislation.gov.uk/nisr/2017/116/regulation/9/16/b)
 
 [^c22824771]: Marginal citation: [S.R. 2006/407](https://www.legislation.gov.uk/nisr/2006/407).
 
@@ -219,14 +219,14 @@ Payments within this category are specific to the particular accommodation occup
 
 [^c22824791]: Marginal citation: [2008 c. 12 (N.I.)](https://www.legislation.gov.uk/nia/2008/12) as amended by [2013 c. 3 (N.I)](https://www.legislation.gov.uk/nia/2013/3).
 
-[^key-c9a0c3cd4f71552a96dbd439a658847f]: Textual amendment: [Sch. 1 para. 3(ea)](https://www.legislation.gov.uk/nisr/2016/216/schedule/1/paragraph/3/ea) inserted (8.5.2018) by [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(18)(a)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/18/a) (with [reg. 10(1)](https://www.legislation.gov.uk/nisr/2018/92/regulation/10/1))
+[^c-c9a0c3cd4f71552a96dbd439a658847f]: Textual amendment: [Sch. 1 para. 3(ea)](https://www.legislation.gov.uk/nisr/2016/216/schedule/1/paragraph/3/ea) inserted (8.5.2018) by [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(18)(a)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/18/a) (with [reg. 10(1)](https://www.legislation.gov.uk/nisr/2018/92/regulation/10/1))
 
-[^key-7e47a0d7e2cc0a4d853537d8aa667f0c]: Textual amendment: Words in Sch. 1 para. 3(f) substituted (6.4.2018) by [The Loans for Mortgage Interest Regulations (Northern Ireland) 2017 (S.R. 2017/176)](https://www.legislation.gov.uk/nisr/2017/176), [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2017/176/regulation/1/2/a), [Sch. 5 para. 5(e)(i)](https://www.legislation.gov.uk/nisr/2017/176/schedule/5/paragraph/5/e/i) (with [regs. 18(2)](https://www.legislation.gov.uk/nisr/2017/176/regulation/18/2), [19](https://www.legislation.gov.uk/nisr/2017/176/regulation/19), [19A](https://www.legislation.gov.uk/nisr/2017/176/regulation/19A), [20](https://www.legislation.gov.uk/nisr/2017/176/regulation/20))
+[^c-7e47a0d7e2cc0a4d853537d8aa667f0c]: Textual amendment: Words in Sch. 1 para. 3(f) substituted (6.4.2018) by [The Loans for Mortgage Interest Regulations (Northern Ireland) 2017 (S.R. 2017/176)](https://www.legislation.gov.uk/nisr/2017/176), [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2017/176/regulation/1/2/a), [Sch. 5 para. 5(e)(i)](https://www.legislation.gov.uk/nisr/2017/176/schedule/5/paragraph/5/e/i) (with [regs. 18(2)](https://www.legislation.gov.uk/nisr/2017/176/regulation/18/2), [19](https://www.legislation.gov.uk/nisr/2017/176/regulation/19), [19A](https://www.legislation.gov.uk/nisr/2017/176/regulation/19A), [20](https://www.legislation.gov.uk/nisr/2017/176/regulation/20))
 
-[^key-e7c9abfc14ab4dcfffbb54bbc1f1520a]: Textual amendment: [Sch. 1 para. 4A](https://www.legislation.gov.uk/nisr/2016/216/schedule/1/paragraph/4A) inserted (8.5.2018) by [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(18)(b)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/18/b) (with [reg. 10(1)](https://www.legislation.gov.uk/nisr/2018/92/regulation/10/1))
+[^c-e7c9abfc14ab4dcfffbb54bbc1f1520a]: Textual amendment: [Sch. 1 para. 4A](https://www.legislation.gov.uk/nisr/2016/216/schedule/1/paragraph/4A) inserted (8.5.2018) by [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(18)(b)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/18/b) (with [reg. 10(1)](https://www.legislation.gov.uk/nisr/2018/92/regulation/10/1))
 
-[^key-2824e3011e1074cf1a9fb855cd1c7616]: Textual amendment: Sch. 1 paras. 5-7 omitted (6.4.2018) by virtue of [The Loans for Mortgage Interest Regulations (Northern Ireland) 2017 (S.R. 2017/176)](https://www.legislation.gov.uk/nisr/2017/176), [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2017/176/regulation/1/2/a), [Sch. 5 para. 5(e)(ii)](https://www.legislation.gov.uk/nisr/2017/176/schedule/5/paragraph/5/e/ii) (with [regs. 18(2)](https://www.legislation.gov.uk/nisr/2017/176/regulation/18/2), [19](https://www.legislation.gov.uk/nisr/2017/176/regulation/19), [19A](https://www.legislation.gov.uk/nisr/2017/176/regulation/19A), [20](https://www.legislation.gov.uk/nisr/2017/176/regulation/20))
+[^c-2824e3011e1074cf1a9fb855cd1c7616]: Textual amendment: Sch. 1 paras. 5-7 omitted (6.4.2018) by virtue of [The Loans for Mortgage Interest Regulations (Northern Ireland) 2017 (S.R. 2017/176)](https://www.legislation.gov.uk/nisr/2017/176), [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2017/176/regulation/1/2/a), [Sch. 5 para. 5(e)(ii)](https://www.legislation.gov.uk/nisr/2017/176/schedule/5/paragraph/5/e/ii) (with [regs. 18(2)](https://www.legislation.gov.uk/nisr/2017/176/regulation/18/2), [19](https://www.legislation.gov.uk/nisr/2017/176/regulation/19), [19A](https://www.legislation.gov.uk/nisr/2017/176/regulation/19A), [20](https://www.legislation.gov.uk/nisr/2017/176/regulation/20))
 
-[^key-b3f83244cb08d206cd6b8403a1b90cfb]: Textual amendment: Words in [Sch. 1 para. 8(3)(a)](https://www.legislation.gov.uk/nisr/2016/216/schedule/1/paragraph/8/3/a) substituted (6.4.2018) by [The Loans for Mortgage Interest Regulations (Northern Ireland) 2017 (S.R. 2017/176)](https://www.legislation.gov.uk/nisr/2017/176), [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2017/176/regulation/1/2/a), [Sch. 5 para. 5(e)(iii)](https://www.legislation.gov.uk/nisr/2017/176/schedule/5/paragraph/5/e/iii) (with [regs. 18(2)](https://www.legislation.gov.uk/nisr/2017/176/regulation/18/2), [19](https://www.legislation.gov.uk/nisr/2017/176/regulation/19), [19A](https://www.legislation.gov.uk/nisr/2017/176/regulation/19A), [20](https://www.legislation.gov.uk/nisr/2017/176/regulation/20))
+[^c-b3f83244cb08d206cd6b8403a1b90cfb]: Textual amendment: Words in [Sch. 1 para. 8(3)(a)](https://www.legislation.gov.uk/nisr/2016/216/schedule/1/paragraph/8/3/a) substituted (6.4.2018) by [The Loans for Mortgage Interest Regulations (Northern Ireland) 2017 (S.R. 2017/176)](https://www.legislation.gov.uk/nisr/2017/176), [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2017/176/regulation/1/2/a), [Sch. 5 para. 5(e)(iii)](https://www.legislation.gov.uk/nisr/2017/176/schedule/5/paragraph/5/e/iii) (with [regs. 18(2)](https://www.legislation.gov.uk/nisr/2017/176/regulation/18/2), [19](https://www.legislation.gov.uk/nisr/2017/176/regulation/19), [19A](https://www.legislation.gov.uk/nisr/2017/176/regulation/19A), [20](https://www.legislation.gov.uk/nisr/2017/176/regulation/20))
 
-[^key-e98ce568bf9caec19ab38323b9cbc1f2]: Textual amendment: Words in [Sch. 1 para. 9(1)(a)](https://www.legislation.gov.uk/nisr/2016/216/schedule/1/paragraph/9/1/a) omitted (8.5.2018) by virtue of [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(18)(c)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/18/c) (with [reg. 10(1)](https://www.legislation.gov.uk/nisr/2018/92/regulation/10/1))
+[^c-e98ce568bf9caec19ab38323b9cbc1f2]: Textual amendment: Words in [Sch. 1 para. 9(1)(a)](https://www.legislation.gov.uk/nisr/2016/216/schedule/1/paragraph/9/1/a) omitted (8.5.2018) by virtue of [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(18)(c)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/18/c) (with [reg. 10(1)](https://www.legislation.gov.uk/nisr/2018/92/regulation/10/1))

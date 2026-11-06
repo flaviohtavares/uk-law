@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 215. Other formalities[^key-4c29c989158741b561dd14d385e28e0a][^key-6d14c570c55165a4da205656bf4d91da]
+## 215. Other formalities[^c-4c29c989158741b561dd14d385e28e0a][^c-6d14c570c55165a4da205656bf4d91da]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ Regulations may make provision about the manner of, or procedure to be followed 
 
 ## Annotations
 
-[^key-4c29c989158741b561dd14d385e28e0a]: Commencement: S. 215 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-4c29c989158741b561dd14d385e28e0a]: Commencement: S. 215 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-6d14c570c55165a4da205656bf4d91da]: Commencement: [S. 215](https://www.legislation.gov.uk/ukpga/2023/55/section/215) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/q)
+[^c-6d14c570c55165a4da205656bf4d91da]: Commencement: [S. 215](https://www.legislation.gov.uk/ukpga/2023/55/section/215) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/q)

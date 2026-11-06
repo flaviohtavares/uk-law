@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-0a982650c2f6b221eb5ec4662d584745] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-0a982650c2f6b221eb5ec4662d584745] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Schedule 15 (amendments of enactments relating to that Board in consequence of subsection (1)) has effect.
 
 ## Annotations
 
-[^key-0a982650c2f6b221eb5ec4662d584745]: Textual amendment: [S. 129(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/129/1) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 51(2)(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/51/2/a)
+[^c-0a982650c2f6b221eb5ec4662d584745]: Textual amendment: [S. 129(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/129/1) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 51(2)(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/51/2/a)

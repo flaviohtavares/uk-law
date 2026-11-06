@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 102. Transfer of staff etc.[^key-a00e112fe4d28c5bdc17fc4bac51d689][^key-5981e9029e61fe6392387f7f31b3abae]
+## 102. Transfer of staff etc.[^c-a00e112fe4d28c5bdc17fc4bac51d689][^c-5981e9029e61fe6392387f7f31b3abae]
 
 *Extent: S*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a00e112fe4d28c5bdc17fc4bac51d689]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2010/8/section/102) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-a00e112fe4d28c5bdc17fc4bac51d689]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2010/8/section/102) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-5981e9029e61fe6392387f7f31b3abae]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2010/8/section/102) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-5981e9029e61fe6392387f7f31b3abae]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2010/8/section/102) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

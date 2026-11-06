@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Closing the tunnel crossing[^key-a37e815447bd8559119c3a61e833f889]
+## 36. Closing the tunnel crossing[^c-a37e815447bd8559119c3a61e833f889]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a37e815447bd8559119c3a61e833f889]: Commencement: Art. 36 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-a37e815447bd8559119c3a61e833f889]: Commencement: Art. 36 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

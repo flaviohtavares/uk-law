@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 247. Preliminary[^key-ef2816e396da87a6807efd4ffc22ce96]
+## 247. Preliminary[^c-ef2816e396da87a6807efd4ffc22ce96]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef2816e396da87a6807efd4ffc22ce96]: Commencement: Rule 247 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-ef2816e396da87a6807efd4ffc22ce96]: Commencement: Rule 247 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

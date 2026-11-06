@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Penalty for contravening notice relating to encrypted information[^key-023d9ef1ee926af871b24916039bf1fe]
+## 26. Penalty for contravening notice relating to encrypted information[^c-023d9ef1ee926af871b24916039bf1fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-023d9ef1ee926af871b24916039bf1fe]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2009/26/section/26) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(e)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/e)
+[^c-023d9ef1ee926af871b24916039bf1fe]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2009/26/section/26) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(e)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Assessing the quality of, and the standards applied to, higher education[^key-5bb2694864fe3152c69d6d400187c6b0][^key-b76c1dc6f70eacf0f6ea6144d5e8acd9]
+## 23. Assessing the quality of, and the standards applied to, higher education[^c-5bb2694864fe3152c69d6d400187c6b0][^c-b76c1dc6f70eacf0f6ea6144d5e8acd9]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 - (a) must relate only to the standards applied in respect of matters for which there are sector-recognised standards, and
 - (b) must assess those standards against sector-recognised standards only.
 
-(4)[^key-d782e7996bddc99ff41b15d865da8b3b] The factors that may be taken into account for the purposes of an assessment, under subsection (2)(a) or (b), of the quality of higher education provided by an institution include the student outcomes of the institution.
+(4)[^c-d782e7996bddc99ff41b15d865da8b3b] The factors that may be taken into account for the purposes of an assessment, under subsection (2)(a) or (b), of the quality of higher education provided by an institution include the student outcomes of the institution.
 
 (5) The student outcomes of an institution may be measured by any means (whether qualitative or quantitative) that the OfS considers appropriate, including by reference to the extent to which—
 
@@ -59,8 +59,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5bb2694864fe3152c69d6d400187c6b0]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2017/29/section/23) in force at 1.1.2018 for specified purposes by [S.I. 2017/1146](https://www.legislation.gov.uk/uksi/2017/1146), [reg. 3(6)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/3/6)[(7)(b)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/3/7/b)
+[^c-5bb2694864fe3152c69d6d400187c6b0]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2017/29/section/23) in force at 1.1.2018 for specified purposes by [S.I. 2017/1146](https://www.legislation.gov.uk/uksi/2017/1146), [reg. 3(6)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/3/6)[(7)(b)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/3/7/b)
 
-[^key-b76c1dc6f70eacf0f6ea6144d5e8acd9]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2017/29/section/23) in force at 1.4.2018 in so far as not already in force by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/c)
+[^c-b76c1dc6f70eacf0f6ea6144d5e8acd9]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2017/29/section/23) in force at 1.4.2018 in so far as not already in force by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/c)
 
-[^key-d782e7996bddc99ff41b15d865da8b3b]: Textual amendment: [S. 23(4)-(9)](https://www.legislation.gov.uk/ukpga/2017/29/section/23/4) inserted (28.6.2022) by [Skills and Post-16 Education Act 2022 (c. 21)](https://www.legislation.gov.uk/ukpga/2022/21), [ss. 18](https://www.legislation.gov.uk/ukpga/2022/21/section/18), [36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
+[^c-d782e7996bddc99ff41b15d865da8b3b]: Textual amendment: [S. 23(4)-(9)](https://www.legislation.gov.uk/ukpga/2017/29/section/23/4) inserted (28.6.2022) by [Skills and Post-16 Education Act 2022 (c. 21)](https://www.legislation.gov.uk/ukpga/2022/21), [ss. 18](https://www.legislation.gov.uk/ukpga/2022/21/section/18), [36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)

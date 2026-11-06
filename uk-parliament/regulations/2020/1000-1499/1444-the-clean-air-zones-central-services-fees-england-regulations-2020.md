@@ -48,7 +48,7 @@ Coming into force
 
 The Secretary of State, with the consent of the Treasury and in exercise of the powers conferred by section 56(1) and (2) of the Finance Act 1973[^f00001], makes the following Regulations.
 
-## 1. Citation, commencement, extent and application[^key-8af4b7155942e1277d7469a9b4e004b5]
+## 1. Citation, commencement, extent and application[^c-8af4b7155942e1277d7469a9b4e004b5]
 
 (1) These Regulations may be cited as the Clean Air Zones Central Services (Fees) (England) Regulations 2020.
 
@@ -56,7 +56,7 @@ The Secretary of State, with the consent of the Treasury and in exercise of the 
 
 (3) They extend to England and Wales, but apply in England only.
 
-## 2. Interpretation[^key-ea75aa4bc8bd3bc4e6db3be59eb85adf]
+## 2. Interpretation[^c-ea75aa4bc8bd3bc4e6db3be59eb85adf]
 
 (1) In these Regulations—
 
@@ -83,7 +83,7 @@ The Secretary of State, with the consent of the Treasury and in exercise of the 
 - (a) in respect of Condition 1, the direction was given before or after these Regulations come into force;
 - (b) in respect of Condition 3, the charging scheme was made before or after these Regulations come into force.
 
-## 3. Fees—use of clean air zones central services[^key-5c9a46a90f2e0040bedb3043ff198747]
+## 3. Fees—use of clean air zones central services[^c-5c9a46a90f2e0040bedb3043ff198747]
 
 (1) A relevant charging authority is, or relevant charging authorities are, liable to pay to the Secretary of State a fee—
 
@@ -93,9 +93,9 @@ The Secretary of State, with the consent of the Treasury and in exercise of the 
 (2) The circumstances are when—
 
 - (a) a person pays one or more charges in relation to the charging scheme made by the relevant charging authority or relevant charging authorities (as the case may be) by a payment processed by the clean air zones central services (a “processed payment”);
-- (b) the processed payment is made in the period starting on 1st January 2021 and ending at the end of 31st March 2031[^key-647f6e0b0a05a39825653e44cbec4bb5].
+- (b) the processed payment is made in the period starting on 1st January 2021 and ending at the end of 31st March 2031[^c-647f6e0b0a05a39825653e44cbec4bb5].
 
-(3) The amount is, in relation to a processed payment, £4[^key-dc314ea0a2d585e595bb49bc7c8a8675] per charge covered by the processed payment.
+(3) The amount is, in relation to a processed payment, £4[^c-dc314ea0a2d585e595bb49bc7c8a8675] per charge covered by the processed payment.
 
 (4) Liabilities under paragraph (1)—
 
@@ -143,9 +143,9 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00001]: Footnote: [1973 c. 51](https://www.legislation.gov.uk/ukpga/1973/51). Section 56(1) was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and will be amended by section 23(5), and Schedule 8, paragraph 17, of the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-8af4b7155942e1277d7469a9b4e004b5]: Commencement: Reg. 1 in force at 31.12.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1444/regulation/1/2)
+[^c-8af4b7155942e1277d7469a9b4e004b5]: Commencement: Reg. 1 in force at 31.12.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1444/regulation/1/2)
 
-[^key-ea75aa4bc8bd3bc4e6db3be59eb85adf]: Commencement: Reg. 2 in force at 31.12.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1444/regulation/1/2)
+[^c-ea75aa4bc8bd3bc4e6db3be59eb85adf]: Commencement: Reg. 2 in force at 31.12.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1444/regulation/1/2)
 
 [^f00002]: Footnote: [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38). Section 163 was amended by section 103 of, and paragraphs 1 and 2 of Schedule 5 to, the Local Transport Act [2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26) and paragraphs 95 and 102 of Schedule 6 to the Local Democracy, Economic Development and Construction Act [2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20).
 
@@ -153,8 +153,8 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00004]: Footnote: [S.I. 2010/1001](https://www.legislation.gov.uk/uksi/2010/1001).
 
-[^key-5c9a46a90f2e0040bedb3043ff198747]: Commencement: Reg. 3 in force at 31.12.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1444/regulation/1/2)
+[^c-5c9a46a90f2e0040bedb3043ff198747]: Commencement: Reg. 3 in force at 31.12.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1444/regulation/1/2)
 
-[^key-647f6e0b0a05a39825653e44cbec4bb5]: Textual amendment: Word in [reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1444/regulation/3/2/b) substituted (1.9.2026) by [The Clean Air Zones Central Services (Fees) (England) (Amendment) Regulations 2026 (S.I. 2026/714)](https://www.legislation.gov.uk/uksi/2026/714), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/714/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2026/714/regulation/2/2)
+[^c-647f6e0b0a05a39825653e44cbec4bb5]: Textual amendment: Word in [reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1444/regulation/3/2/b) substituted (1.9.2026) by [The Clean Air Zones Central Services (Fees) (England) (Amendment) Regulations 2026 (S.I. 2026/714)](https://www.legislation.gov.uk/uksi/2026/714), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/714/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2026/714/regulation/2/2)
 
-[^key-dc314ea0a2d585e595bb49bc7c8a8675]: Textual amendment: Sum in reg. 3(3) substituted (1.9.2026) by [The Clean Air Zones Central Services (Fees) (England) (Amendment) Regulations 2026 (S.I. 2026/714)](https://www.legislation.gov.uk/uksi/2026/714), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/714/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/714/regulation/2/3)
+[^c-dc314ea0a2d585e595bb49bc7c8a8675]: Textual amendment: Sum in reg. 3(3) substituted (1.9.2026) by [The Clean Air Zones Central Services (Fees) (England) (Amendment) Regulations 2026 (S.I. 2026/714)](https://www.legislation.gov.uk/uksi/2026/714), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/714/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/714/regulation/2/3)

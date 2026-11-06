@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E8. Enhancement of retirement benefits in case of incapacity[^key-dd2a09316ee1c4d0964f5a10b6d0d1a9]
+## E8. Enhancement of retirement benefits in case of incapacity[^c-dd2a09316ee1c4d0964f5a10b6d0d1a9]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd2a09316ee1c4d0964f5a10b6d0d1a9]: Commencement: Reg. E8 in operation at 2.11.1998, see reg. A1
+[^c-dd2a09316ee1c4d0964f5a10b6d0d1a9]: Commencement: Reg. E8 in operation at 2.11.1998, see reg. A1

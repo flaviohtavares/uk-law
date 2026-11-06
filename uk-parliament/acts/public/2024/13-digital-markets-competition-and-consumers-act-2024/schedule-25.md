@@ -22,7 +22,7 @@ summary: ''
 
 Section 295
 
-### Part 1 — List of exempt persons[^key-3aaadb9c614a4edc18d7398b3e687a08][^key-5fd7c1253fc9d0194a0b55192df43241]
+### Part 1 — List of exempt persons[^c-3aaadb9c614a4edc18d7398b3e687a08][^c-5fd7c1253fc9d0194a0b55192df43241]
 
 - The Commission for Local Administration in England (also known as the Local Government and Social Care Ombudsman) and each Local Commissioner within the meaning of section 23(3) of the Local Government Act 1974
 - The Consumer Council for Water
@@ -36,7 +36,7 @@ Section 295
 - The Scottish Legal Complaints Commission
 - The Scottish Public Services Ombudsman
 
-### Part 2 — Exempt redress schemes[^key-c86b1aa4b10c5bee1bbb8115c543a16a][^key-9a628966f7b9764224cc2aa49387ae5f]
+### Part 2 — Exempt redress schemes[^c-c86b1aa4b10c5bee1bbb8115c543a16a][^c-9a628966f7b9764224cc2aa49387ae5f]
 
 - An approved estate agents redress scheme
 - An approved postal operators redress scheme
@@ -49,7 +49,7 @@ Section 295
 
 ### Part 3 — Supplementary
 
-**1.**[^key-50b981dd478836e20185365d078937c5][^key-fc01c48a3555e8272ccf379458b6641e] In this Schedule—
+**1.**[^c-50b981dd478836e20185365d078937c5][^c-fc01c48a3555e8272ccf379458b6641e] In this Schedule—
 
 - “**approved estate agents redress scheme**” means an approved redress scheme within the meaning of section 23A of the Estate Agents Act 1979;
 - “**approved postal operators redress scheme**” means an approved redress scheme for investigating and determining complaints about postal operators (see section 52 of the Postal Services Act 2011);
@@ -61,14 +61,14 @@ Section 295
 
 ## Annotations
 
-[^key-3aaadb9c614a4edc18d7398b3e687a08]: Commencement: Sch. 25 Pt. 1 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-3aaadb9c614a4edc18d7398b3e687a08]: Commencement: Sch. 25 Pt. 1 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-5fd7c1253fc9d0194a0b55192df43241]: Commencement: [Sch. 25 Pt. 1](https://www.legislation.gov.uk/ukpga/2024/13/schedule/25/part/1) in force at 6.4.2026 by [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/3)
+[^c-5fd7c1253fc9d0194a0b55192df43241]: Commencement: [Sch. 25 Pt. 1](https://www.legislation.gov.uk/ukpga/2024/13/schedule/25/part/1) in force at 6.4.2026 by [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/3)
 
-[^key-c86b1aa4b10c5bee1bbb8115c543a16a]: Commencement: Sch. 25 Pt. 2 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-c86b1aa4b10c5bee1bbb8115c543a16a]: Commencement: Sch. 25 Pt. 2 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-9a628966f7b9764224cc2aa49387ae5f]: Commencement: [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2024/13/schedule/25/part/2) in force at 6.4.2026 by [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/3)
+[^c-9a628966f7b9764224cc2aa49387ae5f]: Commencement: [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2024/13/schedule/25/part/2) in force at 6.4.2026 by [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/3)
 
-[^key-50b981dd478836e20185365d078937c5]: Commencement: Sch. 25 para. 1 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-50b981dd478836e20185365d078937c5]: Commencement: Sch. 25 para. 1 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-fc01c48a3555e8272ccf379458b6641e]: Commencement: [Sch. 25 para. 1](https://www.legislation.gov.uk/ukpga/2024/13/schedule/25/paragraph/1) in force at 6.4.2026 by [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/3)
+[^c-fc01c48a3555e8272ccf379458b6641e]: Commencement: [Sch. 25 para. 1](https://www.legislation.gov.uk/ukpga/2024/13/schedule/25/paragraph/1) in force at 6.4.2026 by [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/3)

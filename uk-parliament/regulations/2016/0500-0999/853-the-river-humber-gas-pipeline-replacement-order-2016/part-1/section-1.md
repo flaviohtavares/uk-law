@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-847af715cdef5a9647f538d28f987fbf]
+## 1. Citation and commencement[^c-847af715cdef5a9647f538d28f987fbf]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the River Humber Gas Pipeline Replacement Order 2016 
 
 ## Annotations
 
-[^key-847af715cdef5a9647f538d28f987fbf]: Commencement: Art. 1 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-847af715cdef5a9647f538d28f987fbf]: Commencement: Art. 1 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)

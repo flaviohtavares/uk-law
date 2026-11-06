@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Construction products[^key-8ba4026e1e428712d888d8e0150abf01]
+## 146. Construction products[^c-8ba4026e1e428712d888d8e0150abf01]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 11 contains provision for regulations relating to construction products
 
 ## Annotations
 
-[^key-8ba4026e1e428712d888d8e0150abf01]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2022/30/section/146) in force at 28.6.2022, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)
+[^c-8ba4026e1e428712d888d8e0150abf01]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2022/30/section/146) in force at 28.6.2022, see [s. 170(3)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/d)

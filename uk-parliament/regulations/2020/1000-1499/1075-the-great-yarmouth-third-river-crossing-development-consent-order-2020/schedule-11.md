@@ -24,14 +24,14 @@ Article 51(4)
 
 ### PART 1 — PRELIMINARY
 
-#### 1. Citation and commencement[^key-b1fd1cbba13f714a1c3071f02fee84a5]
+#### 1. Citation and commencement[^c-b1fd1cbba13f714a1c3071f02fee84a5]
 
 These byelaws—
 
 - (a) may be cited as the Great Yarmouth Third River Crossing Byelaws 2020; and
 - (b) have effect as set out in article 51 (byelaws) of the Great Yarmouth Third Crossing Development Consent Order 2020.
 
-#### 2. Interpretation[^key-54f6e2b5037e0ee9c170dde7d291bf6d]
+#### 2. Interpretation[^c-54f6e2b5037e0ee9c170dde7d291bf6d]
 
 (1) In these byelaws unless the context otherwise requires—
 
@@ -67,14 +67,14 @@ These byelaws—
 
 ### PART 2 — CONDUCT AND BEHAVIOUR
 
-#### 3. Smoking, etc.[^key-6f69bb4e4ddec10749ea2a7ba4c09cc7]
+#### 3. Smoking, etc.[^c-6f69bb4e4ddec10749ea2a7ba4c09cc7]
 
 Whilst on the new bridge a person must not—
 
 - (a) smoke or carry an item that is alight including a lit cigar, cigarette, cigarillo, pipe, match or lighter; or
 - (b) use a vaporiser.
 
-#### 4. Unacceptable behaviour[^key-40059d71ecb31d6282a31417372425d8]
+#### 4. Unacceptable behaviour[^c-40059d71ecb31d6282a31417372425d8]
 
 A person must not—
 
@@ -106,7 +106,7 @@ A person must not—
 
 ### PART 3 — ACCESS AND TRAFFIC
 
-#### 5. Unauthorised access and loitering[^key-ff773e40091ea1cd9ebe0db5546c3dac]
+#### 5. Unauthorised access and loitering[^c-ff773e40091ea1cd9ebe0db5546c3dac]
 
 (1) A person must not enter, attempt to enter or remain in any part of the new bridge area where that would contravene a direction of an authorised person or a notice displayed by the undertaker which prohibits or restricts access.
 
@@ -120,7 +120,7 @@ A person must not—
 - (b) in contravention of a notice displayed by the undertaker; or
 - (c) whenever the new bridge is in the process of opening or closing.
 
-#### 6. Traffic regulation[^key-748ef3ff3c40c801a30299387d36ad22]
+#### 6. Traffic regulation[^c-748ef3ff3c40c801a30299387d36ad22]
 
 (1) A person (other than an authorised person or a person acting with the consent of an authorised person) must not use or cause to be used within the new bridge area a barrow, cart, rickshaw or animal-drawn means of conveyance except if it is conveyed as the load or part of the load of a motor vehicle which is lawfully proceeding within the new bridge area.
 
@@ -162,7 +162,7 @@ A person must not—
 
 ### PART 4 — GENERAL
 
-#### 7. Saving for authorised persons[^key-c9f10a90fb1124ade94cf59e31286ecc]
+#### 7. Saving for authorised persons[^c-c9f10a90fb1124ade94cf59e31286ecc]
 
 (1) Nothing in these byelaws prevents an authorised person from undertaking an activity which would otherwise be prohibited by these byelaws provided such activity is undertaken in the execution of that person's duties as an authorised person.
 
@@ -173,9 +173,9 @@ A person must not—
 
 ## Annotations
 
-[^key-b1fd1cbba13f714a1c3071f02fee84a5]: Commencement: Sch. 11 para. 1 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-b1fd1cbba13f714a1c3071f02fee84a5]: Commencement: Sch. 11 para. 1 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-54f6e2b5037e0ee9c170dde7d291bf6d]: Commencement: Sch. 11 para. 2 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-54f6e2b5037e0ee9c170dde7d291bf6d]: Commencement: Sch. 11 para. 2 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
 [^c24294941]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
@@ -191,14 +191,14 @@ A person must not—
 
 [^c24295001]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-6f69bb4e4ddec10749ea2a7ba4c09cc7]: Commencement: Sch. 11 para. 3 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-6f69bb4e4ddec10749ea2a7ba4c09cc7]: Commencement: Sch. 11 para. 3 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-40059d71ecb31d6282a31417372425d8]: Commencement: Sch. 11 para. 4 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-40059d71ecb31d6282a31417372425d8]: Commencement: Sch. 11 para. 4 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-ff773e40091ea1cd9ebe0db5546c3dac]: Commencement: Sch. 11 para. 5 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-ff773e40091ea1cd9ebe0db5546c3dac]: Commencement: Sch. 11 para. 5 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-748ef3ff3c40c801a30299387d36ad22]: Commencement: Sch. 11 para. 6 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-748ef3ff3c40c801a30299387d36ad22]: Commencement: Sch. 11 para. 6 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
 [^c24295011]: Marginal citation: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
 
-[^key-c9f10a90fb1124ade94cf59e31286ecc]: Commencement: Sch. 11 para. 7 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-c9f10a90fb1124ade94cf59e31286ecc]: Commencement: Sch. 11 para. 7 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

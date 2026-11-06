@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Applications for registration: information to be included[^key-2706d3d636c861e8e3c6a52747f76b3a]
+## 8. Applications for registration: information to be included[^c-2706d3d636c861e8e3c6a52747f76b3a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In a case where one or more persons makes an application for registration and th
 
 ## Annotations
 
-[^key-2706d3d636c861e8e3c6a52747f76b3a]: Commencement: Reg. 8 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-2706d3d636c861e8e3c6a52747f76b3a]: Commencement: Reg. 8 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

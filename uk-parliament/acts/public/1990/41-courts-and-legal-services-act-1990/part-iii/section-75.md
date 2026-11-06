@@ -25,7 +25,7 @@ No person holding as a full-time appointment any of the offices listed in Schedu
 - (a) provide any advocacy or litigation services (in any jurisdiction);
 - (b) provide any conveyancing or probate services;
 - (ba)[^c19966551] carry on any notarial activities (within the meaning of the Legal Services Act 2007);
-- (c) practise as a barrister, solicitor, public notary , licensed conveyancer or licensed CLC practitioner[^key-88eeb96f3cfa416f8dba78a324b32390] , or be indirectly concerned in any such practice;
+- (c) practise as a barrister, solicitor, public notary , licensed conveyancer or licensed CLC practitioner[^c-88eeb96f3cfa416f8dba78a324b32390] , or be indirectly concerned in any such practice;
 - (d) practise as an advocate or solicitor in Scotland, or be indirectly concerned in any such practice; or
 - (e) act for any remuneration to himself as an arbitrator or umpire.
 
@@ -35,4 +35,4 @@ No person holding as a full-time appointment any of the offices listed in Schedu
 
 [^c19966551]: Textual amendment: S. 75(ba) inserted (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 208](https://www.legislation.gov.uk/ukpga/2007/29/section/208), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 21 para. 95](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/95) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/h) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 
-[^key-88eeb96f3cfa416f8dba78a324b32390]: Textual amendment: Words in [s. 75(c)](https://www.legislation.gov.uk/ukpga/1990/41/section/75/c) substituted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 11](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/11); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-88eeb96f3cfa416f8dba78a324b32390]: Textual amendment: Words in [s. 75(c)](https://www.legislation.gov.uk/ukpga/1990/41/section/75/c) substituted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 11](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/11); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)

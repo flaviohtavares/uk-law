@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Diversion of flow of water[^key-f1ab29b643c7624738301e397f88d677]
+## 12. Diversion of flow of water[^c-f1ab29b643c7624738301e397f88d677]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Agency may by means of the authorised works divert, intercept, stop up or ot
 
 ## Annotations
 
-[^key-f1ab29b643c7624738301e397f88d677]: Commencement: Art. 12 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-f1ab29b643c7624738301e397f88d677]: Commencement: Art. 12 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

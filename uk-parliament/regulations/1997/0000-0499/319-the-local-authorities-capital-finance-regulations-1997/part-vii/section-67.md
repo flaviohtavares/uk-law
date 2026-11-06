@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Grants and advances to housing associations[^key-5e8e57cd6fe0eef589df16170774f112]
+## 67. Grants and advances to housing associations[^c-5e8e57cd6fe0eef589df16170774f112]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ the reserved part shall be 100 per cent. if the reserved part of a repayment of 
 
 ## Annotations
 
-[^key-5e8e57cd6fe0eef589df16170774f112]: Commencement: Reg. 67 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-5e8e57cd6fe0eef589df16170774f112]: Commencement: Reg. 67 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00064]: Footnote: [1985 c. 69](https://www.legislation.gov.uk/ukpga/1985/69).
 

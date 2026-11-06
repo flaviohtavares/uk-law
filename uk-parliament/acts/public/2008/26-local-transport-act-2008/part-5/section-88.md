@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Conferral of a power to direct[^c1952778][^key-53de50e0eb62e3e23ec5f4870c5333ff]
+## 88. Conferral of a power to direct[^c1952778][^c-53de50e0eb62e3e23ec5f4870c5333ff]
 
 *Extent: E+W*
 
 (1) The Secretary of State may by order confer on—
 
 - (a) an ITA, or
-- (b) an authority which has been designated as a local transport authority by an order under section 90 or 91 of this Act or section 106 or 107 of the Local Democracy, Economic Development and Construction Act 2009[^key-e39620020929daef2c08d7354d44689a],
+- (b) an authority which has been designated as a local transport authority by an order under section 90 or 91 of this Act or section 106 or 107 of the Local Democracy, Economic Development and Construction Act 2009[^c-e39620020929daef2c08d7354d44689a],
 
 a power to give a direction about the exercise of an eligible power.
 
@@ -62,7 +62,7 @@ a power to give a direction about the exercise of an eligible power.
 
 (9) A power of direction under this section may be conferred subject to conditions.
 
-(10)[^key-6b31b7cf2e1a4367d6f2f09c80ba44fe] Any direction given by virtue of this section—
+(10)[^c-6b31b7cf2e1a4367d6f2f09c80ba44fe] Any direction given by virtue of this section—
 
 - (a) must be given in writing and may be varied or revoked by a further direction in writing, and
 - (b) may make different provision for different cases and different provision for different areas.
@@ -75,8 +75,8 @@ a power to give a direction about the exercise of an eligible power.
 
 [^c1952778]: Commencement: S. 88 partly in force; s. 88 in force at Royal Assent for certain purposes see [s. 134](https://www.legislation.gov.uk/ukpga/2008/26/section/134)
 
-[^key-53de50e0eb62e3e23ec5f4870c5333ff]: Commencement: S. 88 in force at 9.2.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-53de50e0eb62e3e23ec5f4870c5333ff]: Commencement: S. 88 in force at 9.2.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
-[^key-e39620020929daef2c08d7354d44689a]: Textual amendment: Words in s. 88(1)(b) inserted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 126](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/126); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/c)
+[^c-e39620020929daef2c08d7354d44689a]: Textual amendment: Words in s. 88(1)(b) inserted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 126](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/126); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/c)
 
-[^key-6b31b7cf2e1a4367d6f2f09c80ba44fe]: Modification: S. 88(10) applied (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 104(3)(a)](https://www.legislation.gov.uk/ukpga/2009/20/section/104/3/a), [148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/a)
+[^c-6b31b7cf2e1a4367d6f2f09c80ba44fe]: Modification: S. 88(10) applied (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 104(3)(a)](https://www.legislation.gov.uk/ukpga/2009/20/section/104/3/a), [148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/a)

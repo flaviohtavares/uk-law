@@ -44,26 +44,26 @@ These Regulations may be cited as the Social Security and Child Support (Decisio
 
 ## 2. Amendment of regulation 36 of the Social Security and Child Support (Decisions and Appeals) Regulations 1999
 
-In regulation 36 of the Social Security and Child Support (Decisions and Appeals) Regulations 1999— *(Extent: E+W)* *(affected by repeal, see note)*[^key-d5cfa3fbc9446ebbb88d6c4cbd417697]
+In regulation 36 of the Social Security and Child Support (Decisions and Appeals) Regulations 1999— *(Extent: E+W)* *(affected by repeal, see note)*[^c-d5cfa3fbc9446ebbb88d6c4cbd417697]
 
-(a (Extent: E+W) (affected by repeal, see note))[^key-d5cfa3fbc9446ebbb88d6c4cbd417697] for paragraph (2) there shall be substituted the following paragraph— *(Extent: E+W)* *(affected by repeal, see note)*[^key-d5cfa3fbc9446ebbb88d6c4cbd417697]
+(a (Extent: E+W) (affected by repeal, see note))[^c-d5cfa3fbc9446ebbb88d6c4cbd417697] for paragraph (2) there shall be substituted the following paragraph— *(Extent: E+W)* *(affected by repeal, see note)*[^c-d5cfa3fbc9446ebbb88d6c4cbd417697]
 
-(2 (Extent: E+W) (affected by repeal, see note))[^key-d5cfa3fbc9446ebbb88d6c4cbd417697] Subject to paragraphs (3) to (5), an appeal tribunal shall consist of a legally qualified panel member and— *(Extent: E+W)* *(affected by repeal, see note)*[^key-d5cfa3fbc9446ebbb88d6c4cbd417697]
+(2 (Extent: E+W) (affected by repeal, see note))[^c-d5cfa3fbc9446ebbb88d6c4cbd417697] Subject to paragraphs (3) to (5), an appeal tribunal shall consist of a legally qualified panel member and— *(Extent: E+W)* *(affected by repeal, see note)*[^c-d5cfa3fbc9446ebbb88d6c4cbd417697]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-d5cfa3fbc9446ebbb88d6c4cbd417697] a medically qualified panel member where— *(Extent: E+W)* *(affected by repeal, see note)*[^key-d5cfa3fbc9446ebbb88d6c4cbd417697]
-- (i (Extent: E+W) (affected by repeal, see note))[^key-d5cfa3fbc9446ebbb88d6c4cbd417697] the issue, or one of the issues, raised on the appeal is whether the all work test is satisfied; or *(Extent: E+W)* *(affected by repeal, see note)*[^key-d5cfa3fbc9446ebbb88d6c4cbd417697]
-- (ii (Extent: E+W) (affected by repeal, see note))[^key-d5cfa3fbc9446ebbb88d6c4cbd417697] the appeal is made under section 11(1)(b) of the 1997 Act; or *(Extent: E+W)* *(affected by repeal, see note)*[^key-d5cfa3fbc9446ebbb88d6c4cbd417697]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-d5cfa3fbc9446ebbb88d6c4cbd417697] one medically qualified panel member or two such members or one medically qualified panel member and an additional member drawn from the panel for the purposes described in paragraph (5) below where— *(Extent: E+W)* *(affected by repeal, see note)*[^key-d5cfa3fbc9446ebbb88d6c4cbd417697]
-- (i (Extent: E+W) (affected by repeal, see note))[^key-d5cfa3fbc9446ebbb88d6c4cbd417697] the issue, or one of the issues, raised on the appeal relates to either industrial injuries benefit under Part V of the Contributions and Benefits Act or severe disablement allowance under section 68 of that Act; or *(Extent: E+W)* *(affected by repeal, see note)*[^key-d5cfa3fbc9446ebbb88d6c4cbd417697]
-- (ii (Extent: E+W) (affected by repeal, see note))[^key-d5cfa3fbc9446ebbb88d6c4cbd417697] the appeal is made under section 4 of the Vaccine Damage Payments Act. *(Extent: E+W)* *(affected by repeal, see note)*[^key-d5cfa3fbc9446ebbb88d6c4cbd417697]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-d5cfa3fbc9446ebbb88d6c4cbd417697] a medically qualified panel member where— *(Extent: E+W)* *(affected by repeal, see note)*[^c-d5cfa3fbc9446ebbb88d6c4cbd417697]
+- (i (Extent: E+W) (affected by repeal, see note))[^c-d5cfa3fbc9446ebbb88d6c4cbd417697] the issue, or one of the issues, raised on the appeal is whether the all work test is satisfied; or *(Extent: E+W)* *(affected by repeal, see note)*[^c-d5cfa3fbc9446ebbb88d6c4cbd417697]
+- (ii (Extent: E+W) (affected by repeal, see note))[^c-d5cfa3fbc9446ebbb88d6c4cbd417697] the appeal is made under section 11(1)(b) of the 1997 Act; or *(Extent: E+W)* *(affected by repeal, see note)*[^c-d5cfa3fbc9446ebbb88d6c4cbd417697]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-d5cfa3fbc9446ebbb88d6c4cbd417697] one medically qualified panel member or two such members or one medically qualified panel member and an additional member drawn from the panel for the purposes described in paragraph (5) below where— *(Extent: E+W)* *(affected by repeal, see note)*[^c-d5cfa3fbc9446ebbb88d6c4cbd417697]
+- (i (Extent: E+W) (affected by repeal, see note))[^c-d5cfa3fbc9446ebbb88d6c4cbd417697] the issue, or one of the issues, raised on the appeal relates to either industrial injuries benefit under Part V of the Contributions and Benefits Act or severe disablement allowance under section 68 of that Act; or *(Extent: E+W)* *(affected by repeal, see note)*[^c-d5cfa3fbc9446ebbb88d6c4cbd417697]
+- (ii (Extent: E+W) (affected by repeal, see note))[^c-d5cfa3fbc9446ebbb88d6c4cbd417697] the appeal is made under section 4 of the Vaccine Damage Payments Act. *(Extent: E+W)* *(affected by repeal, see note)*[^c-d5cfa3fbc9446ebbb88d6c4cbd417697]
 
-(b (Extent: E+W) (affected by repeal, see note))[^key-d5cfa3fbc9446ebbb88d6c4cbd417697] in paragraph (5), for the words “paragraphs (1), (2) or” there shall be substituted the words “paragraph (1), (2)(a) or”; and *(Extent: E+W)* *(affected by repeal, see note)*[^key-d5cfa3fbc9446ebbb88d6c4cbd417697]
+(b (Extent: E+W) (affected by repeal, see note))[^c-d5cfa3fbc9446ebbb88d6c4cbd417697] in paragraph (5), for the words “paragraphs (1), (2) or” there shall be substituted the words “paragraph (1), (2)(a) or”; and *(Extent: E+W)* *(affected by repeal, see note)*[^c-d5cfa3fbc9446ebbb88d6c4cbd417697]
 
-(c (Extent: E+W) (affected by repeal, see note))[^key-d5cfa3fbc9446ebbb88d6c4cbd417697] after paragraph (6) there shall be added the following paragraph— *(Extent: E+W)* *(affected by repeal, see note)*[^key-d5cfa3fbc9446ebbb88d6c4cbd417697]
+(c (Extent: E+W) (affected by repeal, see note))[^c-d5cfa3fbc9446ebbb88d6c4cbd417697] after paragraph (6) there shall be added the following paragraph— *(Extent: E+W)* *(affected by repeal, see note)*[^c-d5cfa3fbc9446ebbb88d6c4cbd417697]
 
-- (7 (Extent: E+W) (affected by repeal, see note))[^key-d5cfa3fbc9446ebbb88d6c4cbd417697] In paragraph (2)(a)(i) above, “all work test” has the meaning it bears in regulation 2(1) of the Social Security (Incapacity for Work) (General) Regulations 1995 *(Extent: E+W)* *(affected by repeal, see note)*[^key-d5cfa3fbc9446ebbb88d6c4cbd417697]
+- (7 (Extent: E+W) (affected by repeal, see note))[^c-d5cfa3fbc9446ebbb88d6c4cbd417697] In paragraph (2)(a)(i) above, “all work test” has the meaning it bears in regulation 2(1) of the Social Security (Incapacity for Work) (General) Regulations 1995 *(Extent: E+W)* *(affected by repeal, see note)*[^c-d5cfa3fbc9446ebbb88d6c4cbd417697]
 
-  . *(Extent: E+W)* *(affected by repeal, see note)*[^key-d5cfa3fbc9446ebbb88d6c4cbd417697]
+  . *(Extent: E+W)* *(affected by repeal, see note)*[^c-d5cfa3fbc9446ebbb88d6c4cbd417697]
 
 Signed by authority of the Secretary of State for Social Security.
 
@@ -101,4 +101,4 @@ These Regulations do not impose a charge on business.
 
 [^c1641407]: Marginal citation: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
 
-[^key-d5cfa3fbc9446ebbb88d6c4cbd417697]: Textual amendment: Reg. 2 revoked () (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2) (with [arts. 3(3)(a)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/3/a), [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4))
+[^c-d5cfa3fbc9446ebbb88d6c4cbd417697]: Textual amendment: Reg. 2 revoked () (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2) (with [arts. 3(3)(a)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/3/a), [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4))

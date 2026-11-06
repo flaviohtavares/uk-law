@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Release on licence of certain violent or sexual offenders: service offences[^key-fa47d49800088c341397cd0d7259407d]
+## 25. Release on licence of certain violent or sexual offenders: service offences[^c-fa47d49800088c341397cd0d7259407d]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa47d49800088c341397cd0d7259407d]: Commencement: S. 25 in force at Royal Assent, see [s. 49(3)(a)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/a)
+[^c-fa47d49800088c341397cd0d7259407d]: Commencement: S. 25 in force at Royal Assent, see [s. 49(3)(a)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/a)

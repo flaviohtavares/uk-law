@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. Overseas relationship dissolved etc before 13th January 2020: treatment as civil partnership[^key-6d709e5c2dd82638b06f7ec60994ec05]
+## 170. Overseas relationship dissolved etc before 13th January 2020: treatment as civil partnership[^c-6d709e5c2dd82638b06f7ec60994ec05]
 
 *Extent: N.I.*
 
@@ -46,7 +46,7 @@ The following provisions are specified for the purposes of section 215(5H)(b) of
 
 ## Annotations
 
-[^key-6d709e5c2dd82638b06f7ec60994ec05]: Commencement: Reg. 170 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-6d709e5c2dd82638b06f7ec60994ec05]: Commencement: Reg. 170 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00278]: Footnote: Section 215(5H) is inserted by these Regulations.
 

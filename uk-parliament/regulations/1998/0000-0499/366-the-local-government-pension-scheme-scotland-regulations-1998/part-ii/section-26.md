@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Ill-health[^key-65f5ce44728df6394a24c8094c1bcf4d]
+## 26. Ill-health[^c-65f5ce44728df6394a24c8094c1bcf4d]
 
 *Extent: E+W+S*
 
@@ -41,6 +41,6 @@ is entitled to an ill-health grant (but not a pension), unless paragraph (4) app
 
 ## Annotations
 
-[^key-65f5ce44728df6394a24c8094c1bcf4d]: Commencement: Reg. 26 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-65f5ce44728df6394a24c8094c1bcf4d]: Commencement: Reg. 26 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00015]: Footnote: S.I. [1998/192](https://www.legislation.gov.uk/uksi/1998/192).

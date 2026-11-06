@@ -71,27 +71,27 @@ and, in the sidenote, for “retirement benefits” substitute “ benefits unde
 
 ### Secured pension funds
 
-**3.**[^key-deb19932a0cb6faeef625571e36b3607] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-deb19932a0cb6faeef625571e36b3607] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-deb19932a0cb6faeef625571e36b3607] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-deb19932a0cb6faeef625571e36b3607] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Liability
 
-**5.**[^key-deb19932a0cb6faeef625571e36b3607] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-deb19932a0cb6faeef625571e36b3607] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-deb19932a0cb6faeef625571e36b3607] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-deb19932a0cb6faeef625571e36b3607] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Delivery of accounts
 
-**7.**[^key-deb19932a0cb6faeef625571e36b3607] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-deb19932a0cb6faeef625571e36b3607] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Payment
 
-**8.**[^key-deb19932a0cb6faeef625571e36b3607] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-deb19932a0cb6faeef625571e36b3607] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Interest
 
-**9.**[^key-deb19932a0cb6faeef625571e36b3607] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-deb19932a0cb6faeef625571e36b3607] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Interpretation
 
@@ -103,7 +103,7 @@ and, in the sidenote, for “retirement benefits” substitute “ benefits unde
 
 .
 
-(3)[^key-e3cffb218fe9469720fc33588b48aaa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e3cffb218fe9469720fc33588b48aaa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Rates of tax
 
@@ -111,14 +111,14 @@ and, in the sidenote, for “retirement benefits” substitute “ benefits unde
 
 ### Transitional
 
-**12.**[^key-377e19204c5682eff0273e9366f611fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-377e19204c5682eff0273e9366f611fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-deb19932a0cb6faeef625571e36b3607]: Textual amendment: Sch. 22 paras. 3-9 omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 84(b)(i)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/b/i)
+[^c-deb19932a0cb6faeef625571e36b3607]: Textual amendment: Sch. 22 paras. 3-9 omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 84(b)(i)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/b/i)
 
-[^key-e3cffb218fe9469720fc33588b48aaa6]: Textual amendment: Sch. 22 para. 10(3) omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 84(b)(i)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/b/i)
+[^c-e3cffb218fe9469720fc33588b48aaa6]: Textual amendment: Sch. 22 para. 10(3) omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 84(b)(i)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/b/i)
 
 [^c19559741]: Textual amendment: Sch. 22 para. 11 repealed (with effect in accordance with [Sch. 19](https://www.legislation.gov.uk/ukpga/2007/11/schedule/19) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 114](https://www.legislation.gov.uk/ukpga/2007/11/section/114), {Sch. 27 Pt. 3(1) Note}
 
-[^key-377e19204c5682eff0273e9366f611fa]: Textual amendment: Sch. 22 para. 12 omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 84(b)(i)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/b/i)
+[^c-377e19204c5682eff0273e9366f611fa]: Textual amendment: Sch. 22 para. 12 omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 84(b)(i)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/b/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## G11. Dependent surviving civil partner's pension[^key-194d3ad7902a3e1b681725a6e8ce5c46]
+## G11. Dependent surviving civil partner's pension[^c-194d3ad7902a3e1b681725a6e8ce5c46]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-194d3ad7902a3e1b681725a6e8ce5c46]: Textual amendment: [Reg. G11](https://www.legislation.gov.uk/ssi/2011/117/regulation/G11) omitted (with effect in accordance with reg. 1(7) of the amending S.S.I.) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [9](https://www.legislation.gov.uk/ssi/2021/102/regulation/9)
+[^c-194d3ad7902a3e1b681725a6e8ce5c46]: Textual amendment: [Reg. G11](https://www.legislation.gov.uk/ssi/2011/117/regulation/G11) omitted (with effect in accordance with reg. 1(7) of the amending S.S.I.) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [9](https://www.legislation.gov.uk/ssi/2021/102/regulation/9)

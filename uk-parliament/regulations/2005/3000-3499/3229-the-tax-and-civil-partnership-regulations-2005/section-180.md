@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180.[^key-8889ecc9b7c93d3432ad6beff5ce1ec0]
+## 180.[^c-8889ecc9b7c93d3432ad6beff5ce1ec0]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In Part 2 of Schedule 28 (pension death benefit rules: defined benefits and mone
 
 ## Annotations
 
-[^key-8889ecc9b7c93d3432ad6beff5ce1ec0]: Commencement: Reg. 180 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-8889ecc9b7c93d3432ad6beff5ce1ec0]: Commencement: Reg. 180 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

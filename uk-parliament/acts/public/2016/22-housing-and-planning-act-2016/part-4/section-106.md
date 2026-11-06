@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Making of ordinary administration orders[^key-b9e0f1a37edc33235e5aab6f1e7b399d]
+## 106. Making of ordinary administration orders[^c-b9e0f1a37edc33235e5aab6f1e7b399d]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies if a person other than the Secretary of State makes an ordinary administration application in relation to a private registered provider that is—
 
-- (a) a company, [^key-dcc8348528c1e0004cd7942491d7b8bd]...
-- (aa)[^key-e2a4ba99a172c073c9dbb4ddff81042b] a limited liability partnership, or
+- (a) a company, [^c-dcc8348528c1e0004cd7942491d7b8bd]...
+- (aa)[^c-e2a4ba99a172c073c9dbb4ddff81042b] a limited liability partnership, or
 - (b) a charitable incorporated organisation within the meaning of Part 11 of the Charities Act 2011.
 
 (2) The court must dismiss the application if—
@@ -38,7 +38,7 @@ summary: ''
   - (ii) the Regulator of Social Housing has waived the notice requirement in sub-paragraph (i), and
 - (b) there is no application for a housing administration order which is outstanding.
 
-(3A)[^key-c33898c2e3d8eba382bb147d6e25e317] A notice under subsection (3) must—
+(3A)[^c-c33898c2e3d8eba382bb147d6e25e317] A notice under subsection (3) must—
 
 - (a) be given in writing,
 - (b) be signed by, or on behalf of, the person who made the ordinary administration application,
@@ -61,10 +61,10 @@ summary: ''
 
 ## Annotations
 
-[^key-b9e0f1a37edc33235e5aab6f1e7b399d]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2016/22/section/106) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)
+[^c-b9e0f1a37edc33235e5aab6f1e7b399d]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2016/22/section/106) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)
 
-[^key-dcc8348528c1e0004cd7942491d7b8bd]: Textual amendment: Word in [s. 106(1)(a)](https://www.legislation.gov.uk/ukpga/2016/22/section/106/1/a) omitted (1.4.2024) by virtue of [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/ukpga/2023/36/schedule/1/paragraph/7/a); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(w)(ii)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/w/ii)
+[^c-dcc8348528c1e0004cd7942491d7b8bd]: Textual amendment: Word in [s. 106(1)(a)](https://www.legislation.gov.uk/ukpga/2016/22/section/106/1/a) omitted (1.4.2024) by virtue of [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/ukpga/2023/36/schedule/1/paragraph/7/a); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(w)(ii)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/w/ii)
 
-[^key-e2a4ba99a172c073c9dbb4ddff81042b]: Textual amendment: [S. 106(1)(aa)](https://www.legislation.gov.uk/ukpga/2016/22/section/106/1/aa) inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/ukpga/2023/36/schedule/1/paragraph/7/b); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(w)(ii)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/w/ii)
+[^c-e2a4ba99a172c073c9dbb4ddff81042b]: Textual amendment: [S. 106(1)(aa)](https://www.legislation.gov.uk/ukpga/2016/22/section/106/1/aa) inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/ukpga/2023/36/schedule/1/paragraph/7/b); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(w)(ii)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/w/ii)
 
-[^key-c33898c2e3d8eba382bb147d6e25e317]: Textual amendment: [S. 106(3A)-(3C)](https://www.legislation.gov.uk/ukpga/2016/22/section/106/3A) inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2023/36/schedule/2/paragraph/4); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(x)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/x)
+[^c-c33898c2e3d8eba382bb147d6e25e317]: Textual amendment: [S. 106(3A)-(3C)](https://www.legislation.gov.uk/ukpga/2016/22/section/106/3A) inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2023/36/schedule/2/paragraph/4); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(x)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/x)

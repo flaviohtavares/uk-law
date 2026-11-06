@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Financial services and funds relating to restricted goods and restricted technology[^key-542060ccd61e37627efc9367275b1518]
+## 33. Financial services and funds relating to restricted goods and restricted technology[^c-542060ccd61e37627efc9367275b1518]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-542060ccd61e37627efc9367275b1518]: Commencement: Reg. 33 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-542060ccd61e37627efc9367275b1518]: Commencement: Reg. 33 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

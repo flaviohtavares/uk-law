@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Limited extension of firearm certificates etc[^c22719701][^key-7cf177a3f7780b1b262ecb325a587a0f]
+## 131. Limited extension of firearm certificates etc[^c22719701][^c-7cf177a3f7780b1b262ecb325a587a0f]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^c22719701]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2017/3/section/131)in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-7cf177a3f7780b1b262ecb325a587a0f]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2017/3/section/131) in force at 17.4.2018 in so far as not already in force by [S.I. 2018/456](https://www.legislation.gov.uk/uksi/2018/456), [reg. 4](https://www.legislation.gov.uk/uksi/2018/456/regulation/4)
+[^c-7cf177a3f7780b1b262ecb325a587a0f]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2017/3/section/131) in force at 17.4.2018 in so far as not already in force by [S.I. 2018/456](https://www.legislation.gov.uk/uksi/2018/456), [reg. 4](https://www.legislation.gov.uk/uksi/2018/456/regulation/4)

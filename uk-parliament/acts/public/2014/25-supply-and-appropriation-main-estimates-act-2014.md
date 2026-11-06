@@ -35,7 +35,7 @@ An Act to authorise the use of resources for the year ending with 31 March 2015;
 
 WEREAS the Commons of the United Kingdom in Parliament assembled have resolved to authorise the use of resources and the issue of sums out of the Consolidated Fund towards making good the supply which they have granted to Her Majesty in this Session of Parliament:—
 
-Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-a2738b01338d120a9761f1d372458430]
+Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-a2738b01338d120a9761f1d372458430]
 
 ## 1. Main authorisation for use of resources for 2014-15
 
@@ -1075,4 +1075,4 @@ The Local Government Boundary Commission for England The Local Government Bounda
 
 ## Annotations
 
-[^key-a2738b01338d120a9761f1d372458430]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2014/25) modified (with effect in accordance with s. 7(8) of the amending Act) by [Supply and Appropriation (Anticipation and Adjustments) Act 2017 (c. 8)](https://www.legislation.gov.uk/ukpga/2017/8), [s. 7](https://www.legislation.gov.uk/ukpga/2017/8/section/7), [Sch. 3](https://www.legislation.gov.uk/ukpga/2017/8/schedule/3)
+[^c-a2738b01338d120a9761f1d372458430]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2014/25) modified (with effect in accordance with s. 7(8) of the amending Act) by [Supply and Appropriation (Anticipation and Adjustments) Act 2017 (c. 8)](https://www.legislation.gov.uk/ukpga/2017/8), [s. 7](https://www.legislation.gov.uk/ukpga/2017/8/section/7), [Sch. 3](https://www.legislation.gov.uk/ukpga/2017/8/schedule/3)

@@ -81,11 +81,11 @@ The measures provided for in this Decision are in accordance with the opinion of
 
 HAS ADOPTED THIS DECISION:
 
-**Article 1.** 1. The various veterinary and public and animal health certificates required for the import of live animals, semen, embryo, ova and products of animal origin into Great Britain, and the certificates for transit through Great Britain of products of animal origin, are in the form published by the appropriate authority from time to time[^key-d17cb4ff245c2f492eb3057afb886fe3].
+**Article 1.** 1. The various veterinary and public and animal health certificates required for the import of live animals, semen, embryo, ova and products of animal origin into Great Britain, and the certificates for transit through Great Britain of products of animal origin, are in the form published by the appropriate authority from time to time[^c-d17cb4ff245c2f492eb3057afb886fe3].
 
-2.[^key-10785f3d4f42eaa7a72748cf866db20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-10785f3d4f42eaa7a72748cf866db20f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-3.[^key-67b74dd6ede1ca8f535e6acec41b3b03] All model certificates, declarations, health attestations, animal transport certificates and any other specific animal health conditions, in the form published by the appropriate authority from time to time, are recognised for use by third countries for export into the relevant part of Great Britain.
+3.[^c-67b74dd6ede1ca8f535e6acec41b3b03] All model certificates, declarations, health attestations, animal transport certificates and any other specific animal health conditions, in the form published by the appropriate authority from time to time, are recognised for use by third countries for export into the relevant part of Great Britain.
 
 (4.) In this Article:
 
@@ -94,9 +94,9 @@ HAS ADOPTED THIS DECISION:
   - ((b)) in relation to Scotland, the Scottish Ministers;
 - — “**third country**” means any country or territory other than the British Islands.
 
-**Article 2.**[^key-4102ac8d2550a45e3830c78206f1900d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-4102ac8d2550a45e3830c78206f1900d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-4c89c732b7be176bc2ffb5f727fe536d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-4c89c732b7be176bc2ffb5f727fe536d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Done at Brussels, 16 April 2007.
 
@@ -106,59 +106,59 @@ Markos Kyprianou
 
 *Member of the Commission*
 
-## ANNEX I[^key-b66b1289fe03e5b3f86735970031794f]
+## ANNEX I[^c-b66b1289fe03e5b3f86735970031794f]
 
 **No longer in force.**
 
-### Part I: — live animals model[^key-b66b1289fe03e5b3f86735970031794f]
+### Part I: — live animals model[^c-b66b1289fe03e5b3f86735970031794f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part I: — products model[^key-b66b1289fe03e5b3f86735970031794f]
+### Part I: — products model[^c-b66b1289fe03e5b3f86735970031794f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part I: — transit/storage products model[^key-b66b1289fe03e5b3f86735970031794f]
+### Part I: — transit/storage products model[^c-b66b1289fe03e5b3f86735970031794f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part I: — semen, embryos and ova model[^key-b66b1289fe03e5b3f86735970031794f]
+### Part I: — semen, embryos and ova model[^c-b66b1289fe03e5b3f86735970031794f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part II[^key-b66b1289fe03e5b3f86735970031794f]
+### Part II[^c-b66b1289fe03e5b3f86735970031794f]
 
 [image: see source](https://www.legislation.gov.uk/eudn/2007/240/images/eudn_20070240_2007-04-16_en_005)
 
-[^key-b66b1289fe03e5b3f86735970031794f]EXPLANATORY NOTES ON THE VETERINARY CERTIFICATE FOR THE IMPORT OF LIVE ANIMALS, SEMEN, EMBRYOS, OVA AND PRODUCTS OF ANIMAL ORIGIN INTO THE EUROPEAN COMMUNITY
+[^c-b66b1289fe03e5b3f86735970031794f]EXPLANATORY NOTES ON THE VETERINARY CERTIFICATE FOR THE IMPORT OF LIVE ANIMALS, SEMEN, EMBRYOS, OVA AND PRODUCTS OF ANIMAL ORIGIN INTO THE EUROPEAN COMMUNITY
 
 **General:** Please complete the certificate in capitals. To positively indicate any option, please tick or insert an X.
 
 Where mentioned, the ISO codes use the two-letter country code in compliance with the international standard ISO 3166 alpha-2.
 
-[^key-b66b1289fe03e5b3f86735970031794f]Part I —
+[^c-b66b1289fe03e5b3f86735970031794f]Part I —
 
 Information on the consignment shipped
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b66b1289fe03e5b3f86735970031794f]Part II —
+[^c-b66b1289fe03e5b3f86735970031794f]Part II —
 
 Certification
 
-[^key-b66b1289fe03e5b3f86735970031794f]Box II.
+[^c-b66b1289fe03e5b3f86735970031794f]Box II.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b66b1289fe03e5b3f86735970031794f]Box II.a.
+[^c-b66b1289fe03e5b3f86735970031794f]Box II.a.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b66b1289fe03e5b3f86735970031794f]Box II.b.
+[^c-b66b1289fe03e5b3f86735970031794f]Box II.b.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — List of references to legislation on veterinary and health certificates[^key-b81a32825258b113d2aba4970e296a88]
+## ANNEX II — List of references to legislation on veterinary and health certificates[^c-b81a32825258b113d2aba4970e296a88]
 
 **No longer in force.**
 
@@ -192,16 +192,16 @@ Certification
 
 [^f00013]: Footnote: [OJ L 49, 19.2.2004, p. 11](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.049.01.0011.01.ENG). Regulation as amended by Regulation (EC) No 585/2004 ([OJ L 91, 30.3.2004, p. 17](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.091.01.0017.01.ENG)).
 
-[^key-d17cb4ff245c2f492eb3057afb886fe3]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/2007/240/article/1/1) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [48(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/48/2/a) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-d17cb4ff245c2f492eb3057afb886fe3]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/2007/240/article/1/1) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [48(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/48/2/a) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-10785f3d4f42eaa7a72748cf866db20f]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/eudn/2007/240/article/1/2) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [48(2)(b)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/48/2/b) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-10785f3d4f42eaa7a72748cf866db20f]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/eudn/2007/240/article/1/2) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [48(2)(b)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/48/2/b) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-67b74dd6ede1ca8f535e6acec41b3b03]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/eudn/2007/240/article/1/3)[(4)](https://www.legislation.gov.uk/eudn/2007/240/article/1/4) substituted for [Art. 1(3)](https://www.legislation.gov.uk/eudn/2007/240/article/1/3) (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [48(2)(c)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/48/2/c) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-67b74dd6ede1ca8f535e6acec41b3b03]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/eudn/2007/240/article/1/3)[(4)](https://www.legislation.gov.uk/eudn/2007/240/article/1/4) substituted for [Art. 1(3)](https://www.legislation.gov.uk/eudn/2007/240/article/1/3) (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [48(2)(c)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/48/2/c) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-4102ac8d2550a45e3830c78206f1900d]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2007/240/article/2) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [48(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/48/3) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-4102ac8d2550a45e3830c78206f1900d]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2007/240/article/2) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [48(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/48/3) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-4c89c732b7be176bc2ffb5f727fe536d]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/2007/240/article/3) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [48(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/48/3) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-4c89c732b7be176bc2ffb5f727fe536d]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/2007/240/article/3) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [48(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/48/3) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-b66b1289fe03e5b3f86735970031794f]: Textual amendment: [Annex 1](https://www.legislation.gov.uk/eudn/2007/240/annex/I) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [48(4)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/48/4) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-b66b1289fe03e5b3f86735970031794f]: Textual amendment: [Annex 1](https://www.legislation.gov.uk/eudn/2007/240/annex/I) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [48(4)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/48/4) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-b81a32825258b113d2aba4970e296a88]: Textual amendment: [Annex 2](https://www.legislation.gov.uk/eudn/2007/240/annex/II) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [48(4)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/48/4) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-b81a32825258b113d2aba4970e296a88]: Textual amendment: [Annex 2](https://www.legislation.gov.uk/eudn/2007/240/annex/II) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [48(4)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/48/4) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))

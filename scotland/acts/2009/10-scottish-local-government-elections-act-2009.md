@@ -34,7 +34,7 @@ An Act of the Scottish Parliament to make provision as respects the year in whic
 
 The Bill for this Act of the Scottish Parliament was passed by the Parliament on 17th June 2009 and received Royal Assent on 21st July 2009
 
-## 1. Year of local government elections[^key-4afef1d79009789739da617c4eb90503]
+## 1. Year of local government elections[^c-4afef1d79009789739da617c4eb90503]
 
 (1) In section 5 of the Local Government etc. (Scotland) Act 1994 (c. 39) (elections etc. of councillors), after subsection (1) insert—
 
@@ -46,7 +46,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (2) The schedule to this Act, which contains consequential modifications and the repeal of certain enactments already obsolete or unnecessary, has effect.
 
-## 2. Voting information from local government elections[^key-19ba91d82dab3f2034bb7df8943275ff]
+## 2. Voting information from local government elections[^c-19ba91d82dab3f2034bb7df8943275ff]
 
 (1) In the Local Governance (Scotland) Act 2004 (asp 9), after section 3 insert—
 
@@ -90,7 +90,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Representation of the People Act 1983 (c. 2)
 
-**1.**[^key-17625181974314c5644732c5c5b50737] (1) Section 43 of the Representation of the People Act 1983 (day of ordinary local elections in Scotland, and other timing provisions) is amended in accordance with this paragraph.
+**1.**[^c-17625181974314c5644732c5c5b50737] (1) Section 43 of the Representation of the People Act 1983 (day of ordinary local elections in Scotland, and other timing provisions) is amended in accordance with this paragraph.
 
 (2) In subsection (1B)—
 
@@ -104,20 +104,20 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Local Government etc. (Scotland) Act 1994 (c. 39)
 
-**2.**[^key-50a6edb789a21d12a4177739b6ecf310] In section 5 of the Local Government etc. (Scotland) Act 1994, subsections (2) and (3) are repealed.
+**2.**[^c-50a6edb789a21d12a4177739b6ecf310] In section 5 of the Local Government etc. (Scotland) Act 1994, subsections (2) and (3) are repealed.
 
 ### Scottish Local Government (Elections) Act 2002 (asp 1)
 
-**3.**[^key-f2d80a6808caf77d6e3f71bd292885ef] Section 1 of the Scottish Local Government (Elections) Act 2002 is repealed.
+**3.**[^c-f2d80a6808caf77d6e3f71bd292885ef] Section 1 of the Scottish Local Government (Elections) Act 2002 is repealed.
 
 ## Annotations
 
-[^key-4afef1d79009789739da617c4eb90503]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2009/10/section/1) in force at 30.4.2010 by [S.S.I. 2010/132](https://www.legislation.gov.uk/ssi/2010/132), [art. 2](https://www.legislation.gov.uk/ssi/2010/132/article/2)
+[^c-4afef1d79009789739da617c4eb90503]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2009/10/section/1) in force at 30.4.2010 by [S.S.I. 2010/132](https://www.legislation.gov.uk/ssi/2010/132), [art. 2](https://www.legislation.gov.uk/ssi/2010/132/article/2)
 
-[^key-19ba91d82dab3f2034bb7df8943275ff]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2009/10/section/2) in force at 30.4.2010 by [S.S.I. 2010/132](https://www.legislation.gov.uk/ssi/2010/132), [art. 2](https://www.legislation.gov.uk/ssi/2010/132/article/2)
+[^c-19ba91d82dab3f2034bb7df8943275ff]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2009/10/section/2) in force at 30.4.2010 by [S.S.I. 2010/132](https://www.legislation.gov.uk/ssi/2010/132), [art. 2](https://www.legislation.gov.uk/ssi/2010/132/article/2)
 
-[^key-17625181974314c5644732c5c5b50737]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2009/10/schedule/paragraph/1) in force at 30.4.2010 by [S.S.I. 2010/132](https://www.legislation.gov.uk/ssi/2010/132), [art. 2](https://www.legislation.gov.uk/ssi/2010/132/article/2)
+[^c-17625181974314c5644732c5c5b50737]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2009/10/schedule/paragraph/1) in force at 30.4.2010 by [S.S.I. 2010/132](https://www.legislation.gov.uk/ssi/2010/132), [art. 2](https://www.legislation.gov.uk/ssi/2010/132/article/2)
 
-[^key-50a6edb789a21d12a4177739b6ecf310]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2009/10/schedule/paragraph/2) in force at 30.4.2010 by [S.S.I. 2010/132](https://www.legislation.gov.uk/ssi/2010/132), [art. 2](https://www.legislation.gov.uk/ssi/2010/132/article/2)
+[^c-50a6edb789a21d12a4177739b6ecf310]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2009/10/schedule/paragraph/2) in force at 30.4.2010 by [S.S.I. 2010/132](https://www.legislation.gov.uk/ssi/2010/132), [art. 2](https://www.legislation.gov.uk/ssi/2010/132/article/2)
 
-[^key-f2d80a6808caf77d6e3f71bd292885ef]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2009/10/schedule/paragraph/3) in force at 30.4.2010 by [S.S.I. 2010/132](https://www.legislation.gov.uk/ssi/2010/132), [art. 2](https://www.legislation.gov.uk/ssi/2010/132/article/2)
+[^c-f2d80a6808caf77d6e3f71bd292885ef]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2009/10/schedule/paragraph/3) in force at 30.4.2010 by [S.S.I. 2010/132](https://www.legislation.gov.uk/ssi/2010/132), [art. 2](https://www.legislation.gov.uk/ssi/2010/132/article/2)

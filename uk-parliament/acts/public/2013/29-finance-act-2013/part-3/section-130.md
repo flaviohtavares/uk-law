@@ -27,7 +27,7 @@ summary: ''
 
 (2) The question whether or not the alterations make the building or part unsuitable for use as a dwelling is one of fact (but see subsection (3)).
 
-(3) The building or part will not be regarded as having become unsuitable for use as a dwelling as a result of the alterations at any time unless by that time any planning permission , development consent or infrastructure consent[^key-65350958443fb3d0632f9a8e68f8a2db] required for the alterations has been granted (and the alterations have been made in accordance with any such permission or consent).
+(3) The building or part will not be regarded as having become unsuitable for use as a dwelling as a result of the alterations at any time unless by that time any planning permission , development consent or infrastructure consent[^c-65350958443fb3d0632f9a8e68f8a2db] required for the alterations has been granted (and the alterations have been made in accordance with any such permission or consent).
 
 (4) In this section “**planning permission**” has the meaning given by the relevant planning enactment.
 
@@ -39,13 +39,13 @@ summary: ''
 
 (6) In this section—
 
-- (a)[^key-3cee5952b8329d1f5b3fa2a1ac66575b] “**development consent**” means development consent under the Planning Act 2008.
-- (b)[^key-218b3c3fa73740ac01f1c8b4ea64f331] “**infrastructure consent**” means infrastructure consent under the Infrastructure (Wales) Act 2024.
+- (a)[^c-3cee5952b8329d1f5b3fa2a1ac66575b] “**development consent**” means development consent under the Planning Act 2008.
+- (b)[^c-218b3c3fa73740ac01f1c8b4ea64f331] “**infrastructure consent**” means infrastructure consent under the Infrastructure (Wales) Act 2024.
 
 ## Annotations
 
-[^key-65350958443fb3d0632f9a8e68f8a2db]: Textual amendment: Words in [s. 130(3)](https://www.legislation.gov.uk/ukpga/2013/29/section/130/3) substituted (16.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential Amendments) Order 2025 (S.I. 2025/1330)](https://www.legislation.gov.uk/uksi/2025/1330), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2025/1330/article/1/3), [4(a)](https://www.legislation.gov.uk/uksi/2025/1330/article/4/a)
+[^c-65350958443fb3d0632f9a8e68f8a2db]: Textual amendment: Words in [s. 130(3)](https://www.legislation.gov.uk/ukpga/2013/29/section/130/3) substituted (16.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential Amendments) Order 2025 (S.I. 2025/1330)](https://www.legislation.gov.uk/uksi/2025/1330), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2025/1330/article/1/3), [4(a)](https://www.legislation.gov.uk/uksi/2025/1330/article/4/a)
 
-[^key-3cee5952b8329d1f5b3fa2a1ac66575b]: Textual amendment: Words in s. 130(6) renumbered as s. 130(6)(a) (16.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential Amendments) Order 2025 (S.I. 2025/1330)](https://www.legislation.gov.uk/uksi/2025/1330), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2025/1330/article/1/3), [4(b)(i)](https://www.legislation.gov.uk/uksi/2025/1330/article/4/b/i)
+[^c-3cee5952b8329d1f5b3fa2a1ac66575b]: Textual amendment: Words in s. 130(6) renumbered as s. 130(6)(a) (16.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential Amendments) Order 2025 (S.I. 2025/1330)](https://www.legislation.gov.uk/uksi/2025/1330), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2025/1330/article/1/3), [4(b)(i)](https://www.legislation.gov.uk/uksi/2025/1330/article/4/b/i)
 
-[^key-218b3c3fa73740ac01f1c8b4ea64f331]: Textual amendment: [S. 130(6)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/130/6/b) inserted (16.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential Amendments) Order 2025 (S.I. 2025/1330)](https://www.legislation.gov.uk/uksi/2025/1330), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2025/1330/article/1/3), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1330/article/4/b/ii)
+[^c-218b3c3fa73740ac01f1c8b4ea64f331]: Textual amendment: [S. 130(6)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/130/6/b) inserted (16.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential Amendments) Order 2025 (S.I. 2025/1330)](https://www.legislation.gov.uk/uksi/2025/1330), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2025/1330/article/1/3), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1330/article/4/b/ii)

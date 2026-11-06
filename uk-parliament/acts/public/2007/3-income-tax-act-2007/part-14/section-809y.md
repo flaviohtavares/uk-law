@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809Y. Property that ceases to be exempt property treated as remitted[^key-d22f65c468935a2cf97760c287b43072][^key-ecbfc597f6653475e871ac196657f259][^key-3c7dd0ba1b37a7977a79cace5dd20e2d]
+## 809Y. Property that ceases to be exempt property treated as remitted[^c-d22f65c468935a2cf97760c287b43072][^c-ecbfc597f6653475e871ac196657f259][^c-3c7dd0ba1b37a7977a79cace5dd20e2d]
 
 *Extent: E+W+S+N.I.*
 
 (1) Property that ceases to be exempt property is to be treated as having been remitted to the United Kingdom at the time it ceases to be exempt property.
 
-(2) Property ceases to be exempt property in any[^key-1ca662af84d9bd9d88c32cc9859375f1] of the following cases.
+(2) Property ceases to be exempt property in any[^c-1ca662af84d9bd9d88c32cc9859375f1] of the following cases.
 
 (3) The first case is where the whole or part of the exempt property is sold, or otherwise converted into money, whilst it is in the United Kingdom.
 
@@ -32,7 +32,7 @@ summary: ''
 - (b) ceases to meet that rule, or all of those rules, whilst it is in the United Kingdom, and
 - (c) does not meet any other relevant rule.
 
-(4A)[^key-3b1a0e4e351e41cdbff21bcc2bf823e3] Where exempt property has been lost, stolen or destroyed, the first and second cases do not apply in relation to the property during any period—
+(4A)[^c-3b1a0e4e351e41cdbff21bcc2bf823e3] Where exempt property has been lost, stolen or destroyed, the first and second cases do not apply in relation to the property during any period—
 
 - (a) beginning with the time at which it was lost, stolen or destroyed, and
 - (b) (if lost or stolen) ending with the time at which it is recovered.
@@ -54,7 +54,7 @@ summary: ''
   - (c) the repair rule, and
   - (d) the temporary importation rule.
 
-(6)[^key-6e1d7aa57992b1ebd7dd12a240f39e34] Subsection (1) does not apply to property that ceases to be exempt property by virtue of the first or second case[^key-022dbdec4db8d19a39b67a2ee89262d0] if—
+(6)[^c-6e1d7aa57992b1ebd7dd12a240f39e34] Subsection (1) does not apply to property that ceases to be exempt property by virtue of the first or second case[^c-022dbdec4db8d19a39b67a2ee89262d0] if—
 
 - (a) the property, or anything into which it is converted, is used by a relevant person to make a qualifying investment within the period of 45 days beginning with the day on which it ceased to be exempt property, and
 - (b) the remittance basis user makes a claim for relief under this subsection on or before the first anniversary of the 31 January following the tax year in which the property ceases to be exempt property.
@@ -78,16 +78,16 @@ summary: ''
 
 ## Annotations
 
-[^key-d22f65c468935a2cf97760c287b43072]: Modification: Ss. 809L-809Z6 applied by 2005 c. 5, s. 643I(9) (as inserted (with effect for the tax year 2018-19 and subsequent years) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 10 paras. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/11), [21(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/21/1) (with [Sch. 11 para. 22](https://www.legislation.gov.uk/ukpga/2018/3/schedule/11/paragraph/22)))
+[^c-d22f65c468935a2cf97760c287b43072]: Modification: Ss. 809L-809Z6 applied by 2005 c. 5, s. 643I(9) (as inserted (with effect for the tax year 2018-19 and subsequent years) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 10 paras. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/11), [21(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/21/1) (with [Sch. 11 para. 22](https://www.legislation.gov.uk/ukpga/2018/3/schedule/11/paragraph/22)))
 
-[^key-ecbfc597f6653475e871ac196657f259]: Modification: Ss. 809L-809Z6 applied by 2005 c. 5, s. 643A(6) (as inserted (with effect for the tax year 2018-19 and subsequent years) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 10 paras. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/11), [21(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/21/1) (with [Sch. 11 para. 22](https://www.legislation.gov.uk/ukpga/2018/3/schedule/11/paragraph/22)))
+[^c-ecbfc597f6653475e871ac196657f259]: Modification: Ss. 809L-809Z6 applied by 2005 c. 5, s. 643A(6) (as inserted (with effect for the tax year 2018-19 and subsequent years) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 10 paras. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/11), [21(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/21/1) (with [Sch. 11 para. 22](https://www.legislation.gov.uk/ukpga/2018/3/schedule/11/paragraph/22)))
 
-[^key-3c7dd0ba1b37a7977a79cace5dd20e2d]: Textual amendment: Pt. 14 Ch. A1 inserted (21.7.2008 with effect in accordance with Sch. 7 para. 81 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/1) (with [Sch. 7 paras. 85-89](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/85))
+[^c-3c7dd0ba1b37a7977a79cace5dd20e2d]: Textual amendment: Pt. 14 Ch. A1 inserted (21.7.2008 with effect in accordance with Sch. 7 para. 81 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/1) (with [Sch. 7 paras. 85-89](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/85))
 
-[^key-1ca662af84d9bd9d88c32cc9859375f1]: Textual amendment: Word in s. 809Y(2) substituted (with effect in accordance with Sch. 7 paras. 10, 11 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 7 para. 3(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/7/paragraph/3/2)
+[^c-1ca662af84d9bd9d88c32cc9859375f1]: Textual amendment: Word in s. 809Y(2) substituted (with effect in accordance with Sch. 7 paras. 10, 11 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 7 para. 3(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/7/paragraph/3/2)
 
-[^key-3b1a0e4e351e41cdbff21bcc2bf823e3]: Textual amendment: S. 809Y(4A)(4B) inserted (with effect in accordance with Sch. 7 para. 9 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 7 para. 3(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/7/paragraph/3/3)
+[^c-3b1a0e4e351e41cdbff21bcc2bf823e3]: Textual amendment: S. 809Y(4A)(4B) inserted (with effect in accordance with Sch. 7 para. 9 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 7 para. 3(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/7/paragraph/3/3)
 
-[^key-6e1d7aa57992b1ebd7dd12a240f39e34]: Textual amendment: Ss. 809Y(6)-(10) inserted (17.7.2012) (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2012/14/schedule/12/paragraph/10)
+[^c-6e1d7aa57992b1ebd7dd12a240f39e34]: Textual amendment: Ss. 809Y(6)-(10) inserted (17.7.2012) (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2012/14/schedule/12/paragraph/10)
 
-[^key-022dbdec4db8d19a39b67a2ee89262d0]: Textual amendment: Words in s. 809Y(6) inserted (with effect in accordance with Sch. 7 para. 9 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 7 para. 3(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/7/paragraph/3/4)
+[^c-022dbdec4db8d19a39b67a2ee89262d0]: Textual amendment: Words in s. 809Y(6) inserted (with effect in accordance with Sch. 7 para. 9 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 7 para. 3(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/7/paragraph/3/4)

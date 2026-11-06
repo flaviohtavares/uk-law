@@ -44,7 +44,7 @@ Coming into force
 
 [^c1974432]In accordance with section 48(4A) of that Act, they have had regard to relevant advice given by the Food Standards Agency .
 
-There has been consultation as required by Article 9 of Regulation EC No. 178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c1974433].[^key-138b95e5b6a38f7b810815cad6c22a51]
+There has been consultation as required by Article 9 of Regulation EC No. 178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c1974433].[^c-138b95e5b6a38f7b810815cad6c22a51]
 
 ## 1. Citation, commencement and extent
 
@@ -71,14 +71,14 @@ These Regulations do not apply to—
 (1) In these Regulations—
 
 - “**the Act**” means the Food Safety Act 1990;
-- “**the Agency**” means the Food Standards Scotland[^key-16393949c3c01a7a0a10fc4b1e5d3dc3];
+- “**the Agency**” means the Food Standards Scotland[^c-16393949c3c01a7a0a10fc4b1e5d3dc3];
 - “**approval**” includes a licence;
 - “**approved**” includes “licensed”;
-- “[^key-3578c39dab982d8ac8b09de8993d7dff]**import**” means to introduce from a country outside the United Kingdom;
+- “[^c-3578c39dab982d8ac8b09de8993d7dff]**import**” means to introduce from a country outside the United Kingdom;
 - “**ionising radiation**” means any gamma rays, X‑rays or corpuscular radiations which are capable of producing ions either directly or indirectly;
 - “**irradiated**” means treated by ionising radiation, and similar expressions shall be construed accordingly;
 - “licence” except in regulation 7(a)(ii)(bb) means a licence granted by the Agency in accordance with Schedule 2 to a person and a facility to irradiate food and “**licensed**” and “**licensee**” shall be construed accordingly;
-- “[^key-f4260833f90288df51d79a815df77caf]**official reference number**” in relation to a facility means the reference number allocated and listed for approved irradiation facilities in schedules 3 and 4;
+- “[^c-f4260833f90288df51d79a815df77caf]**official reference number**” in relation to a facility means the reference number allocated and listed for approved irradiation facilities in schedules 3 and 4;
 - “**sell**” includes possess, offer, expose and advertise for sale, and “**sale**” shall be construed accordingly.
 
 (2) For the purposes of these Regulations—
@@ -134,16 +134,16 @@ These Regulations do not apply to—
 (1) No person may import any irradiated food into Scotland for the purpose of sale unless—
 
 - (a) it falls within a permitted category of food;
-- (b)[^key-a151da56f1f700361bba1c28a7b31cee] it has been irradiated in one of the facilities listed in the table in schedule 3 or the table in schedule 4;
+- (b)[^c-a151da56f1f700361bba1c28a7b31cee] it has been irradiated in one of the facilities listed in the table in schedule 3 or the table in schedule 4;
 - (c) it is properly irradiated food; and
 - (d) the requirements of paragraph (2) or (3) are complied with.
 
-(2) Where the food was irradiated in an approved irradiation facility listed in schedule 3[^key-59d1ad0417fa6dd411e7145ee9845d46], it must be accompanied by documents containing—
+(2) Where the food was irradiated in an approved irradiation facility listed in schedule 3[^c-59d1ad0417fa6dd411e7145ee9845d46], it must be accompanied by documents containing—
 
 - (a) either the name and address of the facility which carried out the irradiation, or its official reference number; and
 - (b) the information specified in paragraph 15(1)(a) to (d) and (2)(d) of Part 3 of Schedule 2.
 
-(3) Where the food was irradiated in an approved irradiation facility listed in schedule 4[^key-a4e9c5cea48b2fff491a2d9ddbc44765], it must comply with the following conditions:—
+(3) Where the food was irradiated in an approved irradiation facility listed in schedule 4[^c-a4e9c5cea48b2fff491a2d9ddbc44765], it must comply with the following conditions:—
 
 - (a) it is accompanied by documents containing the name and address of the facility in which it was irradiated and the information specified in paragraph 15(1) of Part 3 of Schedule 2; and
 - (b) in the case of food other than dried aromatic herbs, spices or vegetable seasonings—
@@ -211,7 +211,7 @@ No person may sell food which or any part of which has been irradiated unless—
 
 (1) Any person who contravenes or fails to comply with any of the provisions of these Regulations or, for the purposes of these Regulations, makes any false statement or uses any document containing a false statement either recklessly or knowing it to be false, is guilty of an offence and is liable—
 
-- (a) on summary conviction to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding 12 months[^key-1ef047fc78d92e058719e3f644f96b8e] or both; and
+- (a) on summary conviction to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding 12 months[^c-1ef047fc78d92e058719e3f644f96b8e] or both; and
 - (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or both.
 
 (2) Any licensee who contravenes or fails to comply with any condition of a licence, is guilty of an offence and is liable—
@@ -463,7 +463,7 @@ and may contain conditions.
 **15.** (1) A licensee must record for each batch of food irradiated by the licensee—
 
 - (a) the nature and quantity of food in the batch;
-- (b)[^key-0defc48b540b0b0a6294299fb459ce01] its batch number;
+- (b)[^c-0defc48b540b0b0a6294299fb459ce01] its batch number;
 - (c) the name and address of each consignor and consignee of food within the batch;
 - (d) the date on which the batch was irradiated;
 - (e) any microbiological information relating to food within the batch;
@@ -542,7 +542,7 @@ and shall state in outline the effect of the matter to which it relates.
 
 **26.** Except as provided by section 43 of the Act (continuance on death), a licence is not transferable.
 
-## SCHEDULE 3 — List of Facilities in Member States and the United Kingdom[^key-83f7a1f723cb73baf301b9faf320ef1e][^key-41c4abed31597869031893c0c9438eb2]
+## SCHEDULE 3 — List of Facilities in Member States and the United Kingdom[^c-83f7a1f723cb73baf301b9faf320ef1e][^c-41c4abed31597869031893c0c9438eb2]
 
 Regulations 3(1) and 5(1)(b)(i)
 
@@ -674,7 +674,7 @@ Regulations 3(1) and 5(1)(b)(i)
 |  | Wilts SN2 8XS |
 |  | United Kingdom |
 
-## SCHEDULE 4 — LIST OF APPROVED FACILITIES IN COUNTRIES OUTSIDE THE UNITED KINGDOM AND EUROPEAN UNION[^key-62d6e1a5ab6c3924a18105ba007602ea][^key-832db387593c6c2aacb717d3491480cf]
+## SCHEDULE 4 — LIST OF APPROVED FACILITIES IN COUNTRIES OUTSIDE THE UNITED KINGDOM AND EUROPEAN UNION[^c-62d6e1a5ab6c3924a18105ba007602ea][^c-832db387593c6c2aacb717d3491480cf]
 
 Regulation 5(1)(b)(ii)
 
@@ -788,23 +788,23 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c1974433]: Marginal citation: O.J. No. L 31, 1.2.02, p.1, as amended by Regulation (EC) No. 1642/2003 of the European Parliament and of the Council (O.J. No. L 245, 29.9.03, p.4) Commission Regulation (EC) No. 575/2006 (O.J. No. L 100, 7.4.06, p.3), and Commission Regulation (EC) No. 202/2008 (O.J. No. L 60, 5.3.2008, p.17).
 
-[^key-138b95e5b6a38f7b810815cad6c22a51]: Modification: Regulations applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-138b95e5b6a38f7b810815cad6c22a51]: Modification: Regulations applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
-[^key-16393949c3c01a7a0a10fc4b1e5d3dc3]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2009/261/regulation/3/1) substituted (1.4.2015) by [The Food (Scotland) Act 2015 (Consequential and Transitional Provisions) Order 2015 (S.S.I. 2015/100)](https://www.legislation.gov.uk/ssi/2015/100), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/100/article/1/2), [2](https://www.legislation.gov.uk/ssi/2015/100/article/2), [sch. para. 23](https://www.legislation.gov.uk/ssi/2015/100/schedule/paragraph/23)
+[^c-16393949c3c01a7a0a10fc4b1e5d3dc3]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2009/261/regulation/3/1) substituted (1.4.2015) by [The Food (Scotland) Act 2015 (Consequential and Transitional Provisions) Order 2015 (S.S.I. 2015/100)](https://www.legislation.gov.uk/ssi/2015/100), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/100/article/1/2), [2](https://www.legislation.gov.uk/ssi/2015/100/article/2), [sch. para. 23](https://www.legislation.gov.uk/ssi/2015/100/schedule/paragraph/23)
 
-[^key-3578c39dab982d8ac8b09de8993d7dff]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2009/261/regulation/3) substituted (31.12.2020) by [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/ssi/2019/52/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3578c39dab982d8ac8b09de8993d7dff]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2009/261/regulation/3) substituted (31.12.2020) by [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/ssi/2019/52/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f4260833f90288df51d79a815df77caf]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2009/261/regulation/3) substituted (31.12.2020) by [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/ssi/2019/52/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f4260833f90288df51d79a815df77caf]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2009/261/regulation/3) substituted (31.12.2020) by [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/ssi/2019/52/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a151da56f1f700361bba1c28a7b31cee]: Textual amendment: [Reg. 5(1)(b)](https://www.legislation.gov.uk/ssi/2009/261/regulation/5/1/b) substituted (31.12.2020) by [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [6(3)(a)](https://www.legislation.gov.uk/ssi/2019/52/regulation/6/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a151da56f1f700361bba1c28a7b31cee]: Textual amendment: [Reg. 5(1)(b)](https://www.legislation.gov.uk/ssi/2009/261/regulation/5/1/b) substituted (31.12.2020) by [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [6(3)(a)](https://www.legislation.gov.uk/ssi/2019/52/regulation/6/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-59d1ad0417fa6dd411e7145ee9845d46]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/ssi/2009/261/regulation/5/2) substituted (31.12.2020) by [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [6(3)(b)](https://www.legislation.gov.uk/ssi/2019/52/regulation/6/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-59d1ad0417fa6dd411e7145ee9845d46]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/ssi/2009/261/regulation/5/2) substituted (31.12.2020) by [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [6(3)(b)](https://www.legislation.gov.uk/ssi/2019/52/regulation/6/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a4e9c5cea48b2fff491a2d9ddbc44765]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/ssi/2009/261/regulation/5/3) substituted (31.12.2020) by [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [6(3)(c)](https://www.legislation.gov.uk/ssi/2019/52/regulation/6/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a4e9c5cea48b2fff491a2d9ddbc44765]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/ssi/2009/261/regulation/5/3) substituted (31.12.2020) by [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [6(3)(c)](https://www.legislation.gov.uk/ssi/2019/52/regulation/6/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c1974434]: Marginal citation: O.J. No. L 66, 13.3.1999, p.16, as amended by Regulation (EC) No. 1882/2003 (O.J. No. L 284, 31.10.2003, p.1).
 
-[^key-1ef047fc78d92e058719e3f644f96b8e]: Textual amendment: Words in [reg. 10(1)(a)](https://www.legislation.gov.uk/ssi/2009/261/regulation/10/1/a) substituted (20.10.2010) by [The Food Irradiation (Scotland) Amendment Regulations 2010 (S.S.I. 2010/328)](https://www.legislation.gov.uk/ssi/2010/328), [regs. 1](https://www.legislation.gov.uk/ssi/2010/328/regulation/1), [3](https://www.legislation.gov.uk/ssi/2010/328/regulation/3) (with [reg. 7](https://www.legislation.gov.uk/ssi/2010/328/regulation/7))
+[^c-1ef047fc78d92e058719e3f644f96b8e]: Textual amendment: Words in [reg. 10(1)(a)](https://www.legislation.gov.uk/ssi/2009/261/regulation/10/1/a) substituted (20.10.2010) by [The Food Irradiation (Scotland) Amendment Regulations 2010 (S.S.I. 2010/328)](https://www.legislation.gov.uk/ssi/2010/328), [regs. 1](https://www.legislation.gov.uk/ssi/2010/328/regulation/1), [3](https://www.legislation.gov.uk/ssi/2010/328/regulation/3) (with [reg. 7](https://www.legislation.gov.uk/ssi/2010/328/regulation/7))
 
 [^c1974435]: Marginal citation: Section 36A was inserted by section 40 of, and Schedule 5 to, the [Food Standards Act 1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28).
 
@@ -820,14 +820,14 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c1974441]: Marginal citation: A copy of the Code of Practice may be obtained from the Codex Alimentarius Commission, Food and Agriculture Organisation of the United Nations, Vialle della Terme di Caracalla, 0010, Rome.
 
-[^key-0defc48b540b0b0a6294299fb459ce01]: Textual amendment: [Sch. 2 para. 15(1)(b)](https://www.legislation.gov.uk/ssi/2009/261/schedule/2/paragraph/15/1/b) substituted (20.10.2010) by [The Food Irradiation (Scotland) Amendment Regulations 2010 (S.S.I. 2010/328)](https://www.legislation.gov.uk/ssi/2010/328), [regs. 1](https://www.legislation.gov.uk/ssi/2010/328/regulation/1), [4](https://www.legislation.gov.uk/ssi/2010/328/regulation/4)
+[^c-0defc48b540b0b0a6294299fb459ce01]: Textual amendment: [Sch. 2 para. 15(1)(b)](https://www.legislation.gov.uk/ssi/2009/261/schedule/2/paragraph/15/1/b) substituted (20.10.2010) by [The Food Irradiation (Scotland) Amendment Regulations 2010 (S.S.I. 2010/328)](https://www.legislation.gov.uk/ssi/2010/328), [regs. 1](https://www.legislation.gov.uk/ssi/2010/328/regulation/1), [4](https://www.legislation.gov.uk/ssi/2010/328/regulation/4)
 
-[^key-83f7a1f723cb73baf301b9faf320ef1e]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ssi/2009/261/schedule/3) heading substituted (31.12.2020) by S.S.I. 2019/52, reg. 6(4) (as substituted by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [5(3)](https://www.legislation.gov.uk/ssi/2020/372/regulation/5/3))
+[^c-83f7a1f723cb73baf301b9faf320ef1e]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ssi/2009/261/schedule/3) heading substituted (31.12.2020) by S.S.I. 2019/52, reg. 6(4) (as substituted by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [5(3)](https://www.legislation.gov.uk/ssi/2020/372/regulation/5/3))
 
-[^key-41c4abed31597869031893c0c9438eb2]: Textual amendment: Sch. 3 substituted (20.10.2010) by [The Food Irradiation (Scotland) Amendment Regulations 2010 (S.S.I. 2010/328)](https://www.legislation.gov.uk/ssi/2010/328), [reg. 1](https://www.legislation.gov.uk/ssi/2010/328/regulation/1), [sch. 1](https://www.legislation.gov.uk/ssi/2010/328/schedule/1)
+[^c-41c4abed31597869031893c0c9438eb2]: Textual amendment: Sch. 3 substituted (20.10.2010) by [The Food Irradiation (Scotland) Amendment Regulations 2010 (S.S.I. 2010/328)](https://www.legislation.gov.uk/ssi/2010/328), [reg. 1](https://www.legislation.gov.uk/ssi/2010/328/regulation/1), [sch. 1](https://www.legislation.gov.uk/ssi/2010/328/schedule/1)
 
-[^key-62d6e1a5ab6c3924a18105ba007602ea]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ssi/2009/261/schedule/3) substituted (20.10.2010) by [The Food Irradiation (Scotland) Amendment Regulations 2010 (S.S.I. 2010/328)](https://www.legislation.gov.uk/ssi/2010/328), [reg. 1](https://www.legislation.gov.uk/ssi/2010/328/regulation/1), [sch. 2](https://www.legislation.gov.uk/ssi/2010/328/schedule/2)
+[^c-62d6e1a5ab6c3924a18105ba007602ea]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ssi/2009/261/schedule/3) substituted (20.10.2010) by [The Food Irradiation (Scotland) Amendment Regulations 2010 (S.S.I. 2010/328)](https://www.legislation.gov.uk/ssi/2010/328), [reg. 1](https://www.legislation.gov.uk/ssi/2010/328/regulation/1), [sch. 2](https://www.legislation.gov.uk/ssi/2010/328/schedule/2)
 
-[^key-832db387593c6c2aacb717d3491480cf]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2009/261/schedule/4) heading inserted (31.12.2020) by [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [6(5)](https://www.legislation.gov.uk/ssi/2019/52/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-832db387593c6c2aacb717d3491480cf]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2009/261/schedule/4) heading inserted (31.12.2020) by [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [6(5)](https://www.legislation.gov.uk/ssi/2019/52/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c1974442]: Marginal citation: Published on the Commission website via http://ec.europa.eu/food/food/biosafety/irradiation.comm\_legisl\_en.pdf. A hard copy may be obtained from the European Commission, Directorate General for Health and Consumers, B-1049 Brussels, Belgium.

@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-60817b510e77afbec76db49d4098c291] Schedule 24 to FA 2007 (penalties for errors) is amended in accordance with subsections (2) to (4).
+(1)[^c-60817b510e77afbec76db49d4098c291] Schedule 24 to FA 2007 (penalties for errors) is amended in accordance with subsections (2) to (4).
 
-(2)[^key-60817b510e77afbec76db49d4098c291] In the Table in paragraph 1, after the entry relating to accounts in connection with a partnership return insert—
+(2)[^c-60817b510e77afbec76db49d4098c291] In the Table in paragraph 1, after the entry relating to accounts in connection with a partnership return insert—
 
 > |  |  |
 > | --- | --- |
 > | Apprenticeship levy | Return under regulations under section 105 of FA 2016. |
 
-(3)[^key-60817b510e77afbec76db49d4098c291] In paragraph 13—
+(3)[^c-60817b510e77afbec76db49d4098c291] In paragraph 13—
 
 - (a) in sub-paragraph (1ZA), after “CIS returns,” insert “ or for two or more penalties relating to apprenticeship levy returns, ”;
 - (b) in sub-paragraph (1ZD), after the entry relating to “a CIS return” insert—
@@ -37,7 +37,7 @@ summary: ''
 
   .
 
-(4)[^key-60817b510e77afbec76db49d4098c291] In paragraph 21C, after “capital gains tax)” insert “ and amounts payable on account of apprenticeship levy ”.
+(4)[^c-60817b510e77afbec76db49d4098c291] In paragraph 21C, after “capital gains tax)” insert “ and amounts payable on account of apprenticeship levy ”.
 
 (5) Schedule 55 to FA 2009 (penalty for failure to make returns etc) is amended in accordance with subsections (6) to (8).
 
@@ -86,4 +86,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60817b510e77afbec76db49d4098c291]: Commencement: [S. 113(1)-(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/113/1) in force at 6.4.2017 for the purposes of the amendments made by those subsections by [S.I. 2017/355](https://www.legislation.gov.uk/uksi/2017/355), [reg. 2](https://www.legislation.gov.uk/uksi/2017/355/regulation/2)
+[^c-60817b510e77afbec76db49d4098c291]: Commencement: [S. 113(1)-(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/113/1) in force at 6.4.2017 for the purposes of the amendments made by those subsections by [S.I. 2017/355](https://www.legislation.gov.uk/uksi/2017/355), [reg. 2](https://www.legislation.gov.uk/uksi/2017/355/regulation/2)

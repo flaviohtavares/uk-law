@@ -32,7 +32,7 @@ summary: ''
 
 - (a) must be in writing;
 - (b) may be general or specific;
-- (c) may, in addition to any conditions required by this Order, be made subject to such conditions as the person granting the licence considers necessary to control avian influenza or influenza of avian origin[^key-c3d6828f18603a81938d9b5d4992001a]; and
+- (c) may, in addition to any conditions required by this Order, be made subject to such conditions as the person granting the licence considers necessary to control avian influenza or influenza of avian origin[^c-c3d6828f18603a81938d9b5d4992001a]; and
 - (d) may be amended, suspended or revoked, in writing, at any time.
 
 (3) Notices under this Order—
@@ -52,7 +52,7 @@ summary: ''
 
 (6) Licences granted in Scotland or Wales for activities which could be licensed in England under this Order have effect in England as if they were licences granted under this Order but an inspector acting under the direction of the Secretary of State may serve a notice on any person moving any thing under the authority of such a licence, directing him to move it or to keep it on premises specified in the notice or move it out of England.
 
-(7) Premises in Scotland, Wales and Northern Ireland designated respectively by the Scottish Ministers, the National Assembly for Wales or by the Department of Agriculture, Environment and Rural Affairs, Northern Ireland[^key-cf086753196febf8c9c1540d900dc3d4] for the same purposes as they may be designated under this Order are deemed to be designated by the Secretary of State for the purposes of this Order.
+(7) Premises in Scotland, Wales and Northern Ireland designated respectively by the Scottish Ministers, the National Assembly for Wales or by the Department of Agriculture, Environment and Rural Affairs, Northern Ireland[^c-cf086753196febf8c9c1540d900dc3d4] for the same purposes as they may be designated under this Order are deemed to be designated by the Secretary of State for the purposes of this Order.
 
 (8) A person moving anything under the authority of a specific licence granted under this Order must—
 
@@ -76,6 +76,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c3d6828f18603a81938d9b5d4992001a]: Textual amendment: Words in [art. 4(2)(c)](https://www.legislation.gov.uk/uksi/2006/2702/article/4/2/c) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/4/a)
+[^c-c3d6828f18603a81938d9b5d4992001a]: Textual amendment: Words in [art. 4(2)(c)](https://www.legislation.gov.uk/uksi/2006/2702/article/4/2/c) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/4/a)
 
-[^key-cf086753196febf8c9c1540d900dc3d4]: Textual amendment: Words in art. 4(7) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [34(4)](https://www.legislation.gov.uk/uksi/2018/575/regulation/34/4)
+[^c-cf086753196febf8c9c1540d900dc3d4]: Textual amendment: Words in art. 4(7) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [34(4)](https://www.legislation.gov.uk/uksi/2018/575/regulation/34/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32A. Meaning of number-based interpersonal communications service[^key-a5a8db454d2e79fb8b4aa48b47711025]
+## 32A. Meaning of number-based interpersonal communications service[^c-a5a8db454d2e79fb8b4aa48b47711025]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5a8db454d2e79fb8b4aa48b47711025]: Textual amendment: S. 32A inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/7)
+[^c-a5a8db454d2e79fb8b4aa48b47711025]: Textual amendment: S. 32A inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/7)

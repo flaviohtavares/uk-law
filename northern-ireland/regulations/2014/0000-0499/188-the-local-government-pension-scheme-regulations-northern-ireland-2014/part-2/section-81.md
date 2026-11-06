@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 81. First instance determinations: ill-health[^key-716a222787d9926212a5bc33c354c29b]
+## 81. First instance determinations: ill-health[^c-716a222787d9926212a5bc33c354c29b]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-716a222787d9926212a5bc33c354c29b]: Modification: Regs. 79-89 applied (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [23](https://www.legislation.gov.uk/nisr/2014/189/regulation/23)
+[^c-716a222787d9926212a5bc33c354c29b]: Modification: Regs. 79-89 applied (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [23](https://www.legislation.gov.uk/nisr/2014/189/regulation/23)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Reconsideration by the TRA[^key-faab4d9407040d3b71f75dfaf1b4806b][^key-124b90039d1fc93c9e028b87350067a3]
+## 13. Reconsideration by the TRA[^c-faab4d9407040d3b71f75dfaf1b4806b][^c-124b90039d1fc93c9e028b87350067a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,7 +48,7 @@ summary: ''
 - (c) information supplied to it further to a request made under paragraph (2);
 - (d) information obtained from secondary sources.
 
-(7A)[^key-7f2c544cd51c02668261ba8750f67c61] In reconsidering an original decision, where paragraph (7B) applies, the TRA must take into account any notice published or public notice issued following the early review referred to in paragraph (7B).
+(7A)[^c-7f2c544cd51c02668261ba8750f67c61] In reconsidering an original decision, where paragraph (7B) applies, the TRA must take into account any notice published or public notice issued following the early review referred to in paragraph (7B).
 
 (7B) This paragraph applies where the TRA—
 
@@ -63,8 +63,8 @@ summary: ''
 
 ## Annotations
 
-[^key-faab4d9407040d3b71f75dfaf1b4806b]: Commencement: Reg. 13 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)
+[^c-faab4d9407040d3b71f75dfaf1b4806b]: Commencement: Reg. 13 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)
 
-[^key-124b90039d1fc93c9e028b87350067a3]: Modification: [Reg. 13](https://www.legislation.gov.uk/uksi/2019/910/regulation/13) modified (2.3.2022) by [The Trade Remedies (Review and Reconsideration of Transitioned Trade Remedies) Regulations 2022 (S.I. 2022/113)](https://www.legislation.gov.uk/uksi/2022/113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/113/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2022/113/regulation/7/3/b), [18](https://www.legislation.gov.uk/uksi/2022/113/regulation/18) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/113/regulation/3))
+[^c-124b90039d1fc93c9e028b87350067a3]: Modification: [Reg. 13](https://www.legislation.gov.uk/uksi/2019/910/regulation/13) modified (2.3.2022) by [The Trade Remedies (Review and Reconsideration of Transitioned Trade Remedies) Regulations 2022 (S.I. 2022/113)](https://www.legislation.gov.uk/uksi/2022/113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/113/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2022/113/regulation/7/3/b), [18](https://www.legislation.gov.uk/uksi/2022/113/regulation/18) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/113/regulation/3))
 
-[^key-7f2c544cd51c02668261ba8750f67c61]: Textual amendment: [Reg. 13(7A)-(7C)](https://www.legislation.gov.uk/uksi/2019/910/regulation/13/7A) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [40](https://www.legislation.gov.uk/uksi/2024/545/regulation/40)
+[^c-7f2c544cd51c02668261ba8750f67c61]: Textual amendment: [Reg. 13(7A)-(7C)](https://www.legislation.gov.uk/uksi/2019/910/regulation/13/7A) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [40](https://www.legislation.gov.uk/uksi/2024/545/regulation/40)

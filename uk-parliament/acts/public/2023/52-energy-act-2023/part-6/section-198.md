@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198. Regulations under Part 6[^key-2244b0ab22b58744c7b6b648d702a339][^key-fc325b4eec2ec2859186073658f8dbe8]
+## 198. Regulations under Part 6[^c-2244b0ab22b58744c7b6b648d702a339][^c-fc325b4eec2ec2859186073658f8dbe8]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2244b0ab22b58744c7b6b648d702a339]: Commencement: S. 198 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-2244b0ab22b58744c7b6b648d702a339]: Commencement: S. 198 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-fc325b4eec2ec2859186073658f8dbe8]: Commencement: [S. 198](https://www.legislation.gov.uk/ukpga/2023/52/section/198) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(viii)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/viii)
+[^c-fc325b4eec2ec2859186073658f8dbe8]: Commencement: [S. 198](https://www.legislation.gov.uk/ukpga/2023/52/section/198) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(viii)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/viii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 681A. Foreign benefits of consular employees[^key-47c057b67fa3e69c0682465b5237e7dd]
+## 681A. Foreign benefits of consular employees[^c-47c057b67fa3e69c0682465b5237e7dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 (3) Condition B is that the officer or employee is not engaged in any trade, profession, vocation or employment in the United Kingdom, otherwise than as a consular officer or employee of the state in question.
 
-(4)[^key-761a40d118e2b24cc069dbc5d651ddf8] Condition C is that—
+(4)[^c-761a40d118e2b24cc069dbc5d651ddf8] Condition C is that—
 
 - (a) the officer or employee is a permanent employee of that state, or
 - (b) the officer or employee was non-UK resident for each of the 2 tax years preceding the tax year in which the officer or employee became a consular officer or employee in the United Kingdom of that state.
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-47c057b67fa3e69c0682465b5237e7dd]: Textual amendment: S. 681A inserted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 614](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/614) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-47c057b67fa3e69c0682465b5237e7dd]: Textual amendment: S. 681A inserted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 614](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/614) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-761a40d118e2b24cc069dbc5d651ddf8]: Textual amendment: [S. 681A(4)](https://www.legislation.gov.uk/ukpga/2003/1/section/681A/4) substituted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 39(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/39/1) (with [Sch. 46 para. 39(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/39/2))
+[^c-761a40d118e2b24cc069dbc5d651ddf8]: Textual amendment: [S. 681A(4)](https://www.legislation.gov.uk/ukpga/2003/1/section/681A/4) substituted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 39(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/39/1) (with [Sch. 46 para. 39(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/39/2))

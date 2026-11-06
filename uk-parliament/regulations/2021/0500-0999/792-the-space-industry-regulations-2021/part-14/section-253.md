@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 253. Regulator may share information[^key-a4362e0b385346578656c76b40dddb7a]
+## 253. Regulator may share information[^c-a4362e0b385346578656c76b40dddb7a]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ for the purposes set out in section 26(2).
 
 ## Annotations
 
-[^key-a4362e0b385346578656c76b40dddb7a]: Commencement: Reg. 253 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-a4362e0b385346578656c76b40dddb7a]: Commencement: Reg. 253 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00069]: Footnote: See definition in section 16(1) of the Space Industry Act 2018.

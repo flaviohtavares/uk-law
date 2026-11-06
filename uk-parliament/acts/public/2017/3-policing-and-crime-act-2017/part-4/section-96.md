@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Application of maritime enforcement powers: general[^c22719321][^key-0912d186af4d43c2067021dc44ab3bcb]
+## 96. Application of maritime enforcement powers: general[^c22719321][^c-0912d186af4d43c2067021dc44ab3bcb]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 [^c22719321]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2017/3/section/96) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-0912d186af4d43c2067021dc44ab3bcb]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2017/3/section/96) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/227/article/2/e)
+[^c-0912d186af4d43c2067021dc44ab3bcb]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2017/3/section/96) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/227/article/2/e)

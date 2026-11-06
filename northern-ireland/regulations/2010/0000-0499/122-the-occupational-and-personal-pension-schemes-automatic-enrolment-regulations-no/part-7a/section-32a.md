@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32A. Effect of a certificate under section 28[^key-dffb89b4fcb87c9c0f583cb7b572d605]
+## 32A. Effect of a certificate under section 28[^c-dffb89b4fcb87c9c0f583cb7b572d605]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Subject to regulation 32H, a scheme to which section 28 (certification that qual
 
 ## Annotations
 
-[^key-dffb89b4fcb87c9c0f583cb7b572d605]: Textual amendment: Pt. 7A inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/237)](https://www.legislation.gov.uk/nisr/2012/237), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/237/regulation/1/1/a), [2(3)](https://www.legislation.gov.uk/nisr/2012/237/regulation/2/3)
+[^c-dffb89b4fcb87c9c0f583cb7b572d605]: Textual amendment: Pt. 7A inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/237)](https://www.legislation.gov.uk/nisr/2012/237), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/237/regulation/1/1/a), [2(3)](https://www.legislation.gov.uk/nisr/2012/237/regulation/2/3)

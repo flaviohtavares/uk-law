@@ -39,7 +39,7 @@ summary: ''
 
 (5) In any case where a direction is given under regulation 130 for the forfeiture of a member's benefits, this regulation applies as if the amount specified in the statement of entitlement were reduced by an amount equal to the value of the benefits forfeited, as determined by the Scheme actuary.
 
-(6) In respect of an applicant who falls within regulation 93(4)[^key-ecbc390c8b3923f095e1176b60fc4371] —
+(6) In respect of an applicant who falls within regulation 93(4)[^c-ecbc390c8b3923f095e1176b60fc4371] —
 
 - (a) in the case of an application that requires the guaranteed cash equivalent transfer value payment to be made to a registered occupational pension scheme or a registered personal pension scheme, an application under paragraph (1) may only be made if—
   - (i) the applicant became a member of that scheme not later than the end of the period of 12 months beginning with the day after the date on which the member ceased to be in the pensionable service in which the rights accrued (“the leaving date”), and
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ecbc390c8b3923f095e1176b60fc4371]: Textual amendment: Words in [reg. 96(6)](https://www.legislation.gov.uk/nisr/2008/256/regulation/96/6) substituted (1.4.2015) by [The Health and Personal Social Services (Superannuation Scheme, Additional Voluntary Contributions and Injury Benefits), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/121)](https://www.legislation.gov.uk/nisr/2015/121), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/121/regulation/1/2), [29](https://www.legislation.gov.uk/nisr/2015/121/regulation/29)
+[^c-ecbc390c8b3923f095e1176b60fc4371]: Textual amendment: Words in [reg. 96(6)](https://www.legislation.gov.uk/nisr/2008/256/regulation/96/6) substituted (1.4.2015) by [The Health and Personal Social Services (Superannuation Scheme, Additional Voluntary Contributions and Injury Benefits), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/121)](https://www.legislation.gov.uk/nisr/2015/121), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/121/regulation/1/2), [29](https://www.legislation.gov.uk/nisr/2015/121/regulation/29)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Supplementary guidance[^key-5d15ae174b62234cfa83ae2225697344]
+## 9. Supplementary guidance[^c-5d15ae174b62234cfa83ae2225697344]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Section 22 of the Town and Country Planning (Scotland) Act 1997 and the italic h
 
 ## Annotations
 
-[^key-5d15ae174b62234cfa83ae2225697344]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2019/13/section/9) in force at 12.2.2023 by [S.S.I. 2023/10](https://www.legislation.gov.uk/ssi/2023/10), [reg. 3(2)(b)](https://www.legislation.gov.uk/ssi/2023/10/regulation/3/2/b) (with [reg. 4](https://www.legislation.gov.uk/ssi/2023/10/regulation/4))
+[^c-5d15ae174b62234cfa83ae2225697344]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2019/13/section/9) in force at 12.2.2023 by [S.S.I. 2023/10](https://www.legislation.gov.uk/ssi/2023/10), [reg. 3(2)(b)](https://www.legislation.gov.uk/ssi/2023/10/regulation/3/2/b) (with [reg. 4](https://www.legislation.gov.uk/ssi/2023/10/regulation/4))

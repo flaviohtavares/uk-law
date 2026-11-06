@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Providing false information or documents: national security etc defence[^key-83eeb9e6fc727990f050003de72aeab2][^key-785bf5a3cbc3aa96b1211695b57403e5]
+## 141. Providing false information or documents: national security etc defence[^c-83eeb9e6fc727990f050003de72aeab2][^c-785bf5a3cbc3aa96b1211695b57403e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-83eeb9e6fc727990f050003de72aeab2]: Commencement: S. 141 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-83eeb9e6fc727990f050003de72aeab2]: Commencement: S. 141 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-785bf5a3cbc3aa96b1211695b57403e5]: Commencement: [S. 141](https://www.legislation.gov.uk/ukpga/2025/36/section/141) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(42)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/42)
+[^c-785bf5a3cbc3aa96b1211695b57403e5]: Commencement: [S. 141](https://www.legislation.gov.uk/ukpga/2025/36/section/141) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(42)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/42)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Pension protection lump sum death benefit[^key-e103f026e3e6c761eb38a4838b220fea]
+## 125. Pension protection lump sum death benefit[^c-e103f026e3e6c761eb38a4838b220fea]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e103f026e3e6c761eb38a4838b220fea]: Commencement: [Reg. 125](https://www.legislation.gov.uk/uksi/2014/1964/regulation/125) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-e103f026e3e6c761eb38a4838b220fea]: Commencement: [Reg. 125](https://www.legislation.gov.uk/uksi/2014/1964/regulation/125) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
 [^f00067]: Footnote: Paragraph 14 was amended by the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11) Schedule 16 paragraphs 32 and 34.
 

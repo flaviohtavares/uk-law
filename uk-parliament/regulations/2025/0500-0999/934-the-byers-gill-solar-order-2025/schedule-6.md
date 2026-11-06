@@ -22,7 +22,7 @@ summary: ''
 
 Article 15
 
-### PART 1 — PERMANENT MEANS OF ACCESS TO WORKS[^key-1478242f0d254d69c677b79ac9095c26]
+### PART 1 — PERMANENT MEANS OF ACCESS TO WORKS[^c-1478242f0d254d69c677b79ac9095c26]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street* | *(3)*<br>*Description of means of access* |
 | --- | --- | --- |
@@ -35,7 +35,7 @@ Article 15
 | Parish of Great Stainton | Unnamed road to the west of The Green, Bishopton | The provision of a permanent means of access to the authorised development from an unnamed road to the west of The Green, Bishopton, as shown as point E1 on sheet 9 of the street works, public rights of way and access plans. |
 | Parish of Great Stainton | Unnamed road adjacent to Bishopton Beck | The provision of a permanent means of access to the authorised development from an unnamed road adjacent to Bishopton Beck, Bishopton, as shown as point F1 on sheet 10 of the street works, public rights of way and access plans. |
 
-### PART 2 — TEMPORARY MEANS OF ACCESS TO WORKS[^key-58b3e97d0ca207b3be9774944a0e7999]
+### PART 2 — TEMPORARY MEANS OF ACCESS TO WORKS[^c-58b3e97d0ca207b3be9774944a0e7999]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street* | *(3)*<br>*Description of means of access* |
 | --- | --- | --- |
@@ -43,6 +43,6 @@ Article 15
 
 ## Annotations
 
-[^key-1478242f0d254d69c677b79ac9095c26]: Commencement: Sch. 6 Pt. 1 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
+[^c-1478242f0d254d69c677b79ac9095c26]: Commencement: Sch. 6 Pt. 1 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
 
-[^key-58b3e97d0ca207b3be9774944a0e7999]: Commencement: Sch. 6 Pt. 2 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
+[^c-58b3e97d0ca207b3be9774944a0e7999]: Commencement: Sch. 6 Pt. 2 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)

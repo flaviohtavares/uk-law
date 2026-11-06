@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Earnings of self-employed earners[^key-345c9b6e9648a1f8f89b9e44d3823cb3]
+## 20. Earnings of self-employed earners[^c-345c9b6e9648a1f8f89b9e44d3823cb3]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-345c9b6e9648a1f8f89b9e44d3823cb3]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1988/1890/regulation/20) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-345c9b6e9648a1f8f89b9e44d3823cb3]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1988/1890/regulation/20) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
 
 [^f00046]: Footnote: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50); section 2 was substituted by section 25 of the Employment Act [1988 (c. 19)](https://www.legislation.gov.uk/ukpga/1988/19).

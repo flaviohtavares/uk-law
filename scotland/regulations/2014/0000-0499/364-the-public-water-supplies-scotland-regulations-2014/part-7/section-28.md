@@ -27,7 +27,7 @@ summary: ''
 - (a) the Drinking Water Quality Regulator for Scotland;
 - (b) every appropriate health board;
 - (c) every appropriate local authority;
-- (d) Consumer Scotland[^key-93249e811c098b66fc65b983070b67f8];
+- (d) Consumer Scotland[^c-93249e811c098b66fc65b983070b67f8];
 - (e) Scottish Water; and
 - (f) the Water Industry Commissioner for Scotland,
 
@@ -47,4 +47,4 @@ but they may revoke or modify any such authorisation without the need for this p
 
 ## Annotations
 
-[^key-93249e811c098b66fc65b983070b67f8]: Textual amendment: Words in [reg. 28(2)(d)](https://www.legislation.gov.uk/ssi/2014/364/regulation/28/2/d) substituted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [13](https://www.legislation.gov.uk/ssi/2022/387/regulation/13)
+[^c-93249e811c098b66fc65b983070b67f8]: Textual amendment: Words in [reg. 28(2)(d)](https://www.legislation.gov.uk/ssi/2014/364/regulation/28/2/d) substituted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [13](https://www.legislation.gov.uk/ssi/2022/387/regulation/13)

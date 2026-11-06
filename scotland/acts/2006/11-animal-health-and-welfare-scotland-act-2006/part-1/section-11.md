@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Livestock genotypes: specification, breeding and slaughter[^key-566d39d734ecba0e64c412b9704498e2]
+## 11. Livestock genotypes: specification, breeding and slaughter[^c-566d39d734ecba0e64c412b9704498e2]
 
 *Extent: S*
 
@@ -248,4 +248,4 @@ After Part 2A of the 1981 Act there is inserted—
 
 ## Annotations
 
-[^key-566d39d734ecba0e64c412b9704498e2]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2006/11/section/11) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-566d39d734ecba0e64c412b9704498e2]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2006/11/section/11) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

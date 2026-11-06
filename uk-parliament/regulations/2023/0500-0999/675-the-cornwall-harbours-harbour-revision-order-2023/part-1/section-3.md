@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Incorporation of provisions of Harbours, Docks and Piers Clauses Act 1847[^key-afcd5e86c07741a5f5df80165e5c5051]
+## 3. Incorporation of provisions of Harbours, Docks and Piers Clauses Act 1847[^c-afcd5e86c07741a5f5df80165e5c5051]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afcd5e86c07741a5f5df80165e5c5051]: Commencement: Art. 3 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-afcd5e86c07741a5f5df80165e5c5051]: Commencement: Art. 3 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

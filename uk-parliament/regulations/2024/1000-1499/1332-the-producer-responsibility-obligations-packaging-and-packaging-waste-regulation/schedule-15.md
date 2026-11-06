@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 137
 
-### 1. Record-keeping obligations[^key-82a301b2ae668eba5da11374e0323281]
+### 1. Record-keeping obligations[^c-82a301b2ae668eba5da11374e0323281]
 
 (1) This paragraph applies where—
 
@@ -41,7 +41,7 @@ Regulation 137
 - (a) “**specified**” means specified in the Regulations in question;
 - (b) “**the revocation date**” means the date of revocation of the provision of the 2007 Regulations, 2007 (NI) Regulations or 2023 Data Regulations in question.
 
-### 2. Producers: transitional reporting obligations for 2024 data[^key-a0db9beac6c40e1c4dd3bfee22c7e14a]
+### 2. Producers: transitional reporting obligations for 2024 data[^c-a0db9beac6c40e1c4dd3bfee22c7e14a]
 
 (1) In a report under regulation 35 for a period of 6 or 12 months ending on 31st December 2024, a large producer (“**LP**”) must, instead of reporting the information specified in Table 2 in regulation 35(1), report to the appropriate agency, subject to sub-paragraph (2), the information which LP would have been required to report under the 2023 Data Regulations for that period if those Regulations had not been revoked.
 
@@ -88,7 +88,7 @@ must report that information to the appropriate agency on or before 1st December
   - (a) 1st April 2024, in relation to a producer who was established in England, Wales or Scotland for the purposes of the 2023 Data Regulations;
   - (b) 1st May 2024, in relation to a producer who was established in Northern Ireland for the purposes of the 2023 Data Regulations.
 
-### 3. Producers: amendment of reports submitted under the 2023 Data Regulations[^key-14679872963b207d2699b21ff3433912]
+### 3. Producers: amendment of reports submitted under the 2023 Data Regulations[^c-14679872963b207d2699b21ff3433912]
 
 (1) This sub-paragraph applies where—
 
@@ -127,7 +127,7 @@ must report that information to the appropriate agency on or before 1st December
 
 (8) In this paragraph, “**non-consumer shipment packaging**” has the same meaning as in paragraph 2(3).
 
-### 4. Producers: transitional reporting obligations for 2025 data[^key-67459f729ce57ce1ec8df6711dd50c37]
+### 4. Producers: transitional reporting obligations for 2025 data[^c-67459f729ce57ce1ec8df6711dd50c37]
 
 (1) Sub-paragraph (2) applies if the date on which regulations 34 to 36 come into force (“**the commencement date**”) is after 1st January 2025.
 
@@ -138,7 +138,7 @@ must report that information to the appropriate agency on or before 1st December
   - (i) for the period from the commencement date to 30th June 2025, in the case of information which, but for this paragraph, the producer would be required to report for a period of 6 months beginning on 1st January 2025;
   - (ii) for the period from the commencement date to 31st December 2025, in the case of information which, but for this paragraph, the producer would be required to report for a period of 12 months beginning on 1st January 2025.
 
-### 5. Producers: scaling up of data reported for part of a reporting period[^key-27d2a799f11a856f1044bbeb8a6f9133]
+### 5. Producers: scaling up of data reported for part of a reporting period[^c-27d2a799f11a856f1044bbeb8a6f9133]
 
 (1) This paragraph applies—
 
@@ -173,7 +173,7 @@ where—
   - (iii) paragraph 2 of this Schedule;
 - (b) in relation to a reporting period in 2025, under regulation 35 or 36 of, and Schedule 4 to, these Regulations.
 
-### 6. Producers: transitional packaging[^key-d4285e023ff42de5f199c7d30e75aade]
+### 6. Producers: transitional packaging[^c-d4285e023ff42de5f199c7d30e75aade]
 
 (1) Where a report submitted by a large producer (“**PR**”) under regulation 35 in relation to a period ending on 31st December 2024 (a “regulation 35 report”) includes information about transitional packaging, PR may choose to submit a report to the appropriate agency containing the information in sub-paragraph (2).
 
@@ -197,7 +197,7 @@ where—
 
 (6) The modification is that, in calculating the value of X for the packaging category for the purposes of the formula in paragraph 2(1) of Schedule 5, there shall be excluded from the amount of the transitional packaging in that packaging category which PR supplied in the reporting period a proportion of that amount equal to the value of P for that packaging category as calculated in accordance with sub-paragraph (2).
 
-### 7. Producers: calculation of disposal fees[^key-f9b7cb3ce73ccb9df0100c13220fa9fa]
+### 7. Producers: calculation of disposal fees[^c-f9b7cb3ce73ccb9df0100c13220fa9fa]
 
 (1) The scheme administrator may, for the purpose of calculating disposal fees and administration fees payable by producers for the 2025 assessment year, use data reported to the appropriate agency by or in relation to producers under the 2023 Data Regulations, and the appropriate agency may share such data with the scheme administrator for that purpose.
 
@@ -214,7 +214,7 @@ where—
 
 (4) In sub-paragraph (2), references to “scaled-up amounts” have the meaning given in paragraph 5(2).
 
-### 8. Producers: approved persons[^key-f23fb22167ca86984ecab08f367d4332]
+### 8. Producers: approved persons[^c-f23fb22167ca86984ecab08f367d4332]
 
 (1) This sub-paragraph applies where, in relation to a producer, a person has been approved by the appropriate agency under—
 
@@ -225,7 +225,7 @@ for the purposes specified in that regulation, and that approval remained in eff
 
 (2) Where sub-paragraph (1) applies, that person is to be treated as an approved person of the producer for the purposes of these Regulations, unless the producer informs the appropriate agency otherwise by a notice under regulation 132(2)(b).
 
-### 9. Compliance schemes[^key-67b3cac9d9e8f46d192ff786b73321c3]
+### 9. Compliance schemes[^c-67b3cac9d9e8f46d192ff786b73321c3]
 
 (1) Where a compliance scheme has been approved under the 2007 Regulations or the 2007 (NI) Regulations and that approval remains in effect immediately before Part 4 of these Regulations comes into force, the compliance scheme is to be treated as having been approved for the purposes of these Regulations until 1st February 2026 unless—
 
@@ -234,7 +234,7 @@ for the purposes specified in that regulation, and that approval remained in eff
 
 (2) The scheme operator of a compliance scheme referred to in sub-paragraph (1) is subject to the obligations imposed on scheme operators under these Regulations.
 
-### 10. Reprocessors, exporters, PRNs and PERNs[^key-8a0344dd6efba62f7ca38cc284298c8f]
+### 10. Reprocessors, exporters, PRNs and PERNs[^c-8a0344dd6efba62f7ca38cc284298c8f]
 
 (1) Notwithstanding the revocation of Part 5 of the 2007 Regulations and Part 5 of the 2007 (NI) Regulations on 1st January 2026—
 
@@ -251,7 +251,7 @@ for the purposes specified in that regulation, and that approval remained in eff
 
 (5) A producer or compliance scheme may rely on PRNs and PERNs acquired from a reprocessor or exporter accredited under Part 5 of the 2007 Regulations or Part 5 of the 2007 (NI) Regulations in the year to 31st December 2025, to demonstrate compliance with their recycling obligations under these Regulations in 2025 or 2026.
 
-### 11. Information notices[^key-8b9c83e71a0c5cd14c9575d5977f8a4a]
+### 11. Information notices[^c-8b9c83e71a0c5cd14c9575d5977f8a4a]
 
 (1) Any information notice served by the appropriate agency on a person continues to have effect on and after the relevant date notwithstanding the revocation of the provision under which it was served, and is to be treated on and after the relevant date as if it were a notice under regulation 110 of these Regulations.
 
@@ -270,7 +270,7 @@ for the purposes specified in that regulation, and that approval remained in eff
   - (i) the date on which this paragraph comes into force, except in relation to an information notice referred to in sub-paragraph (ii);
   - (ii) 1st January 2026, in relation to an information notice under regulation 31(3)(c), (d) or (e) of the 2007 Regulations or the 2007 (NI) Regulations.
 
-### 12. Appropriate agencies: reports[^key-dcf3171662b0d2dca65532a41cbd0ef4]
+### 12. Appropriate agencies: reports[^c-dcf3171662b0d2dca65532a41cbd0ef4]
 
 (1) Each appropriate agency must publish by 31st May 2025 a report setting out the monitoring and enforcement activities it has carried out in 2024 under—
 
@@ -281,9 +281,9 @@ for the purposes specified in that regulation, and that approval remained in eff
 
 ## Annotations
 
-[^key-82a301b2ae668eba5da11374e0323281]: Commencement: Sch. 15 para. 1 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-82a301b2ae668eba5da11374e0323281]: Commencement: Sch. 15 para. 1 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-a0db9beac6c40e1c4dd3bfee22c7e14a]: Commencement: Sch. 15 para. 2 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-a0db9beac6c40e1c4dd3bfee22c7e14a]: Commencement: Sch. 15 para. 2 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
 [^f00092]: Footnote: [S.I. 2024/359](https://www.legislation.gov.uk/uksi/2024/359).
 
@@ -293,22 +293,22 @@ for the purposes specified in that regulation, and that approval remained in eff
 
 [^f00095]: Footnote: [S.R. 2024 No. 80](https://www.legislation.gov.uk/nisr/2024/80).
 
-[^key-14679872963b207d2699b21ff3433912]: Commencement: Sch. 15 para. 3 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-14679872963b207d2699b21ff3433912]: Commencement: Sch. 15 para. 3 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-67459f729ce57ce1ec8df6711dd50c37]: Commencement: Sch. 15 para. 4 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-67459f729ce57ce1ec8df6711dd50c37]: Commencement: Sch. 15 para. 4 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-27d2a799f11a856f1044bbeb8a6f9133]: Commencement: Sch. 15 para. 5 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-27d2a799f11a856f1044bbeb8a6f9133]: Commencement: Sch. 15 para. 5 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-d4285e023ff42de5f199c7d30e75aade]: Commencement: Sch. 15 para. 6 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-d4285e023ff42de5f199c7d30e75aade]: Commencement: Sch. 15 para. 6 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-f9b7cb3ce73ccb9df0100c13220fa9fa]: Commencement: Sch. 15 para. 7 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-f9b7cb3ce73ccb9df0100c13220fa9fa]: Commencement: Sch. 15 para. 7 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-f23fb22167ca86984ecab08f367d4332]: Commencement: Sch. 15 para. 8 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-f23fb22167ca86984ecab08f367d4332]: Commencement: Sch. 15 para. 8 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-67b3cac9d9e8f46d192ff786b73321c3]: Commencement: Sch. 15 para. 9 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-67b3cac9d9e8f46d192ff786b73321c3]: Commencement: Sch. 15 para. 9 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-8a0344dd6efba62f7ca38cc284298c8f]: Commencement: Sch. 15 para. 10 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-8a0344dd6efba62f7ca38cc284298c8f]: Commencement: Sch. 15 para. 10 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-8b9c83e71a0c5cd14c9575d5977f8a4a]: Commencement: Sch. 15 para. 11 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-8b9c83e71a0c5cd14c9575d5977f8a4a]: Commencement: Sch. 15 para. 11 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-dcf3171662b0d2dca65532a41cbd0ef4]: Commencement: Sch. 15 para. 12 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-dcf3171662b0d2dca65532a41cbd0ef4]: Commencement: Sch. 15 para. 12 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

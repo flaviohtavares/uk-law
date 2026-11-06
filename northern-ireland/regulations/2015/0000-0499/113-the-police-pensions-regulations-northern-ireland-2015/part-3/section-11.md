@@ -22,7 +22,7 @@ summary: ''
 
 (1) Subject to regulation 13 (police pension board: conflicts of interest) the Police Pension Board is to consist of the following members who are to be entitled to vote in its proceedings (“voting members”)
 
-- (a) an independent chair appointed by the scheme manager[^key-2629456f146dcad6670939dfd3503b53]...;
+- (a) an independent chair appointed by the scheme manager[^c-2629456f146dcad6670939dfd3503b53]...;
 - (b) at least 4 and no more than 12 persons to be appointed by the chair with scheme manager approval.
 
 (2) The chair must not be an employer representative nor a member representative [^c22511881].
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2629456f146dcad6670939dfd3503b53]: Textual amendment: Words in [reg. 11(1)(a)](https://www.legislation.gov.uk/nisr/2015/113/regulation/11/1/a) omitted (1.4.2024) by virtue of [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [5](https://www.legislation.gov.uk/nisr/2024/38/regulation/5)
+[^c-2629456f146dcad6670939dfd3503b53]: Textual amendment: Words in [reg. 11(1)(a)](https://www.legislation.gov.uk/nisr/2015/113/regulation/11/1/a) omitted (1.4.2024) by virtue of [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [5](https://www.legislation.gov.uk/nisr/2024/38/regulation/5)
 
 [^c22511881]: Marginal citation: See section 5(7) of the Act for meaning of “employer representatives” and “member representatives”.

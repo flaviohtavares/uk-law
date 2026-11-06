@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 110. Power of building safety authority to give fixed penalty notices[^key-bf37a73454bd85d48737617ca77fd381]
+## 110. Power of building safety authority to give fixed penalty notices[^c-bf37a73454bd85d48737617ca77fd381]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf37a73454bd85d48737617ca77fd381]: Commencement: S. 110 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-bf37a73454bd85d48737617ca77fd381]: Commencement: S. 110 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

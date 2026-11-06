@@ -33,12 +33,12 @@ summary: ''
 
 (5) Anything done in connection with the termination or intended termination of a business is treated as being done in the course or furtherance of that business.
 
-(6) The disposition of a business , or part of a business,[^key-ed864a7bbb939985bfa549e277b0f296] as a going concern, or of the assets or liabilities of the business or part of the business[^key-ecbd7b8db53b12661a8599844078e821] (whether or not in connection with its reorganisation or winding up), is a supply made in the course or furtherance of the business.
+(6) The disposition of a business , or part of a business,[^c-ed864a7bbb939985bfa549e277b0f296] as a going concern, or of the assets or liabilities of the business or part of the business[^c-ecbd7b8db53b12661a8599844078e821] (whether or not in connection with its reorganisation or winding up), is a supply made in the course or furtherance of the business.
 
 ## Annotations
 
 [^c15294681]: Textual amendment: S. 94(3) repealed (1.12.1999) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [ss. 20](https://www.legislation.gov.uk/ukpga/1999/16/section/20), [139](https://www.legislation.gov.uk/ukpga/1999/16/section/139), [Sch. 20 Pt. II(2)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/20/part/II/2), Note; [S.I. 1999/2769](https://www.legislation.gov.uk/uksi/1999/2769), [art. 2](https://www.legislation.gov.uk/uksi/1999/2769/article/2)
 
-[^key-ed864a7bbb939985bfa549e277b0f296]: Textual amendment: Words in s. 94(6) inserted (with effect in accordance with s. 100(10) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 100(7)(a)](https://www.legislation.gov.uk/ukpga/2007/11/section/100/7/a)
+[^c-ed864a7bbb939985bfa549e277b0f296]: Textual amendment: Words in s. 94(6) inserted (with effect in accordance with s. 100(10) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 100(7)(a)](https://www.legislation.gov.uk/ukpga/2007/11/section/100/7/a)
 
-[^key-ecbd7b8db53b12661a8599844078e821]: Textual amendment: Words in s. 94(6) substituted (with effect in accordance with s. 100(10) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 100(7)(b)](https://www.legislation.gov.uk/ukpga/2007/11/section/100/7/b)
+[^c-ecbd7b8db53b12661a8599844078e821]: Textual amendment: Words in s. 94(6) substituted (with effect in accordance with s. 100(10) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 100(7)(b)](https://www.legislation.gov.uk/ukpga/2007/11/section/100/7/b)

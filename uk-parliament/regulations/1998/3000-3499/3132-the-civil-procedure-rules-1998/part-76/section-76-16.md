@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76.16. Modification of Part 52 (appeals)[^key-aff08cb562443cad7c83cb0da0e8e7a6]
+## 76.16. Modification of Part 52 (appeals)[^c-aff08cb562443cad7c83cb0da0e8e7a6]
 
 *Extent: E+W*
 
@@ -28,21 +28,21 @@ summary: ''
 
 (2) The following rules do not apply to appeals to the Court of Appeal—
 
-- (a) rule 52.12[^key-1faedcba0771bf1dd16a9b5bd01fed50] (appellant’s notice); and
-- (b) rule 52.13[^key-4d4521a513ee4efabffb8c7c5e08d9ef] (respondent’s notice); but
+- (a) rule 52.12[^c-1faedcba0771bf1dd16a9b5bd01fed50] (appellant’s notice); and
+- (b) rule 52.13[^c-4d4521a513ee4efabffb8c7c5e08d9ef] (respondent’s notice); but
 
 the provisions of rules 76.13 and 76.15 shall apply with appropriate modifications.
 
-(3) Rule 52.2 (all parties to comply with Practice Directions 52A to 52E) apply[^key-f27bc1f6015ac15b47aee2f2a42ed17d], but the parties shall not be required to comply with paragraphs 6.3 to 6.6 of Practice Direction 52B and paragraph 28 of Practice Direction 52C[^key-4b95618a94dc45bef73657fd67cace49].
+(3) Rule 52.2 (all parties to comply with Practice Directions 52A to 52E) apply[^c-f27bc1f6015ac15b47aee2f2a42ed17d], but the parties shall not be required to comply with paragraphs 6.3 to 6.6 of Practice Direction 52B and paragraph 28 of Practice Direction 52C[^c-4b95618a94dc45bef73657fd67cace49].
 
 ## Annotations
 
-[^key-aff08cb562443cad7c83cb0da0e8e7a6]: Textual amendment: [Pt. 76](https://www.legislation.gov.uk/uksi/1998/3132/part/76) inserted (14.3.2005) by [The Civil Procedure (Amendment No. 2) Rules 2005 (S.I. 2005/656)](https://www.legislation.gov.uk/uksi/2005/656), [rule 1](https://www.legislation.gov.uk/uksi/2005/656/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/656/schedule)
+[^c-aff08cb562443cad7c83cb0da0e8e7a6]: Textual amendment: [Pt. 76](https://www.legislation.gov.uk/uksi/1998/3132/part/76) inserted (14.3.2005) by [The Civil Procedure (Amendment No. 2) Rules 2005 (S.I. 2005/656)](https://www.legislation.gov.uk/uksi/2005/656), [rule 1](https://www.legislation.gov.uk/uksi/2005/656/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/656/schedule)
 
-[^key-1faedcba0771bf1dd16a9b5bd01fed50]: Textual amendment: Word in [rule 76.16(2)(a)](https://www.legislation.gov.uk/uksi/1998/3132/rule/76) substituted (3.10.2016) by virtue of [The Civil Procedure (Amendment No. 3) Rules 2016 (S.I. 2016/788)](https://www.legislation.gov.uk/uksi/2016/788), [rules 2](https://www.legislation.gov.uk/uksi/2016/788/rule/2), [13(2)(a)](https://www.legislation.gov.uk/uksi/2016/788/rule/13/2/a)
+[^c-1faedcba0771bf1dd16a9b5bd01fed50]: Textual amendment: Word in [rule 76.16(2)(a)](https://www.legislation.gov.uk/uksi/1998/3132/rule/76) substituted (3.10.2016) by virtue of [The Civil Procedure (Amendment No. 3) Rules 2016 (S.I. 2016/788)](https://www.legislation.gov.uk/uksi/2016/788), [rules 2](https://www.legislation.gov.uk/uksi/2016/788/rule/2), [13(2)(a)](https://www.legislation.gov.uk/uksi/2016/788/rule/13/2/a)
 
-[^key-4d4521a513ee4efabffb8c7c5e08d9ef]: Textual amendment: Word in [rule 76.16(2)(b)](https://www.legislation.gov.uk/uksi/1998/3132/rule/76.16/2/c) substituted (3.10.2016) by virtue of [The Civil Procedure (Amendment No. 3) Rules 2016 (S.I. 2016/788)](https://www.legislation.gov.uk/uksi/2016/788), [rules 2](https://www.legislation.gov.uk/uksi/2016/788/rule/2), [13(2)(b)](https://www.legislation.gov.uk/uksi/2016/788/rule/13/2/b)
+[^c-4d4521a513ee4efabffb8c7c5e08d9ef]: Textual amendment: Word in [rule 76.16(2)(b)](https://www.legislation.gov.uk/uksi/1998/3132/rule/76.16/2/c) substituted (3.10.2016) by virtue of [The Civil Procedure (Amendment No. 3) Rules 2016 (S.I. 2016/788)](https://www.legislation.gov.uk/uksi/2016/788), [rules 2](https://www.legislation.gov.uk/uksi/2016/788/rule/2), [13(2)(b)](https://www.legislation.gov.uk/uksi/2016/788/rule/13/2/b)
 
-[^key-f27bc1f6015ac15b47aee2f2a42ed17d]: Textual amendment: Words in [rule 76.16(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/76.16/3) substituted (1.10.2012) by [The Civil Procedure (Amendment No.2) Rules 2012 (S.I. 2012/2208)](https://www.legislation.gov.uk/uksi/2012/2208), [rules 1](https://www.legislation.gov.uk/uksi/2012/2208/article/1), [13(b)(i)](https://www.legislation.gov.uk/uksi/2012/2208/rule/13/b/i)
+[^c-f27bc1f6015ac15b47aee2f2a42ed17d]: Textual amendment: Words in [rule 76.16(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/76.16/3) substituted (1.10.2012) by [The Civil Procedure (Amendment No.2) Rules 2012 (S.I. 2012/2208)](https://www.legislation.gov.uk/uksi/2012/2208), [rules 1](https://www.legislation.gov.uk/uksi/2012/2208/article/1), [13(b)(i)](https://www.legislation.gov.uk/uksi/2012/2208/rule/13/b/i)
 
-[^key-4b95618a94dc45bef73657fd67cace49]: Textual amendment: Words in [rule 76.16(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/76.16/3) substituted (1.10.2012) by [The Civil Procedure (Amendment No.2) Rules 2012 (S.I. 2012/2208)](https://www.legislation.gov.uk/uksi/2012/2208), [rules 1](https://www.legislation.gov.uk/uksi/2012/2208/article/1), [13(b)(ii)](https://www.legislation.gov.uk/uksi/2012/2208/rule/13/b/ii)
+[^c-4b95618a94dc45bef73657fd67cace49]: Textual amendment: Words in [rule 76.16(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/76.16/3) substituted (1.10.2012) by [The Civil Procedure (Amendment No.2) Rules 2012 (S.I. 2012/2208)](https://www.legislation.gov.uk/uksi/2012/2208), [rules 1](https://www.legislation.gov.uk/uksi/2012/2208/article/1), [13(b)(ii)](https://www.legislation.gov.uk/uksi/2012/2208/rule/13/b/ii)

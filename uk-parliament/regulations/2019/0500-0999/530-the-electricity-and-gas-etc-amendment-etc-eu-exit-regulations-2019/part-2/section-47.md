@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47.[^key-0301e4737d9aacf370a7ae52abf8e1f0]
+## 47.[^c-0301e4737d9aacf370a7ae52abf8e1f0]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 - (a) in paragraph (a)—
   - (i) omit “preliminary”;
-  - (ii) for “an applicant should be certified” substitute “ [^key-06f809cae3fc7c973330aa835695419c]... to certify an applicant ”;
+  - (ii) for “an applicant should be certified” substitute “ [^c-06f809cae3fc7c973330aa835695419c]... to certify an applicant ”;
 - (b) omit paragraph (b).
 
 (3) In subsection (2), omit “decide that the applicant should be certified, or”.
@@ -41,7 +41,7 @@ summary: ''
 
 (5) After subsection (8) insert—
 
-> (9) For the purposes of subsection (4), Article 9(9) of the Electricity Directive is to be treated as if the comparison with the provisions of Chapter 5 of the Electricity Directive were a comparison with the provisions of Chapter 5 as they applied in relation to a member State immediately before IP completion day[^key-a556d949ad8cd797213666920f63c94a].
+> (9) For the purposes of subsection (4), Article 9(9) of the Electricity Directive is to be treated as if the comparison with the provisions of Chapter 5 of the Electricity Directive were a comparison with the provisions of Chapter 5 as they applied in relation to a member State immediately before IP completion day[^c-a556d949ad8cd797213666920f63c94a].
 >
 > (10) For the purposes of subsection (5), the references to Article 13(1) and (2) of the Electricity Directive are to be treated as references to those provisions with the following modifications—
 >
@@ -55,8 +55,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0301e4737d9aacf370a7ae52abf8e1f0]: Commencement: Reg. 47 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-0301e4737d9aacf370a7ae52abf8e1f0]: Commencement: Reg. 47 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-06f809cae3fc7c973330aa835695419c]: Textual amendment: Word in reg. 47(2)(a)(ii) omitted (15.9.2020) by virtue of [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(18)(a)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/18/a)
+[^c-06f809cae3fc7c973330aa835695419c]: Textual amendment: Word in reg. 47(2)(a)(ii) omitted (15.9.2020) by virtue of [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(18)(a)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/18/a)
 
-[^key-a556d949ad8cd797213666920f63c94a]: Textual amendment: Words in reg. 47(5) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(18)(b)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/18/b)
+[^c-a556d949ad8cd797213666920f63c94a]: Textual amendment: Words in reg. 47(5) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(18)(b)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/18/b)

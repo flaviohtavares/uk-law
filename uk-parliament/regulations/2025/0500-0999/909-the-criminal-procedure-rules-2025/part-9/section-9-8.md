@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9.8. Adult defendant: request for plea[^key-dbc703c25c69e4dcf1e608cdb6c1692d]
+## 9.8. Adult defendant: request for plea[^c-dbc703c25c69e4dcf1e608cdb6c1692d]
 
 *Extent: E+W*
 
@@ -49,7 +49,7 @@ summary: ''
 
 ## Annotations
 
-[^key-dbc703c25c69e4dcf1e608cdb6c1692d]: Commencement: [Rule 9.8](https://www.legislation.gov.uk/uksi/2025/909/rule/9.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-dbc703c25c69e4dcf1e608cdb6c1692d]: Commencement: [Rule 9.8](https://www.legislation.gov.uk/uksi/2025/909/rule/9.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00275]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 22 was amended by sections 38 and 170(2) of, and Schedule 16 to, the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33), section 68 of, and paragraph 6 of Schedule 8 to, the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53), section 2(2) of the Aggravated Vehicle Taking Act [1992 (c. 11)](https://www.legislation.gov.uk/ukpga/1992/11) and sections 46 and 168(3) of, and Schedule 11 to, the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33).
 

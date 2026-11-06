@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Environmental targets: effect[^key-ab7565e16c308b79adfc3b3d739bc7c8][^key-7e1f3512bee846a40ab4008cb724aed8]
+## 5. Environmental targets: effect[^c-ab7565e16c308b79adfc3b3d739bc7c8][^c-7e1f3512bee846a40ab4008cb724aed8]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ It is the duty of the Secretary of State to ensure that—
 
 ## Annotations
 
-[^key-ab7565e16c308b79adfc3b3d739bc7c8]: Commencement: S. 5 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-ab7565e16c308b79adfc3b3d739bc7c8]: Commencement: S. 5 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-7e1f3512bee846a40ab4008cb724aed8]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2021/30/section/5) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/a)
+[^c-7e1f3512bee846a40ab4008cb724aed8]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2021/30/section/5) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/a)

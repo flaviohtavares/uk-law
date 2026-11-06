@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 61. Representation of corporations at meetings[^key-2a5b65ecd5129470317f2b6222214e2b]
+## 61. Representation of corporations at meetings[^c-2a5b65ecd5129470317f2b6222214e2b]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a5b65ecd5129470317f2b6222214e2b]: Commencement: S. 61 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-2a5b65ecd5129470317f2b6222214e2b]: Commencement: S. 61 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

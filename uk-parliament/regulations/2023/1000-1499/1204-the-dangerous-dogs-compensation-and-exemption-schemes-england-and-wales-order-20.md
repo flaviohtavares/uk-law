@@ -48,7 +48,7 @@ The Secretary of State makes this Order in exercise of the powers conferred by s
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and extent[^key-7b4baa6240078e0b4cfca24182140696]
+### 1. Citation, commencement and extent[^c-7b4baa6240078e0b4cfca24182140696]
 
 (1) This Order may be cited as the Dangerous Dogs (Compensation and Exemption Schemes) (England and Wales) Order 2023.
 
@@ -56,7 +56,7 @@ The Secretary of State makes this Order in exercise of the powers conferred by s
 
 (3) This Order extends to England and Wales.
 
-### 2. Interpretation[^key-ffdfd546bd3a08c9c88ff09fc3819291]
+### 2. Interpretation[^c-ffdfd546bd3a08c9c88ff09fc3819291]
 
 In this Order—
 
@@ -66,7 +66,7 @@ In this Order—
 
 ## PART 2 — Compensation scheme
 
-### 3. Application for compensation[^key-c212ae15dcb3f979e3d92cf09a390d70]
+### 3. Application for compensation[^c-c212ae15dcb3f979e3d92cf09a390d70]
 
 (1) A person who owns a dog and arranges for the dog to be euthanised by a veterinarian before the appointed day may apply to the Secretary of State for the payment of the sums specified in paragraph (3).
 
@@ -94,11 +94,11 @@ In this Order—
 
 ## PART 3 — Exemption Scheme
 
-### 4. Interpretation of this Part[^key-5f443ca5edcc3363c9a9454c60fcc595]
+### 4. Interpretation of this Part[^c-5f443ca5edcc3363c9a9454c60fcc595]
 
 In this Part, “**certificate of exemption**” means a certificate issued under article 6 or any replacement certificate issued under article 11(1).
 
-### 5. Exemption from the prohibition in section 1(3) of the Act[^key-b6a76a1568f24a120c8fc95b4ab7d109]
+### 5. Exemption from the prohibition in section 1(3) of the Act[^c-b6a76a1568f24a120c8fc95b4ab7d109]
 
 (1) The prohibition in section 1(3) of the Act does not apply to a dog if—
 
@@ -110,7 +110,7 @@ In this Part, “**certificate of exemption**” means a certificate issued unde
 - (a) the failure to comply with any condition attached to the certificate of exemption; or
 - (b) the date specified in a notice of withdrawal issued by the Secretary of State under article 11(2).
 
-### 6. Application for a certificate of exemption[^key-11426b1cad75ff4f4c7685af41de6fdb]
+### 6. Application for a certificate of exemption[^c-11426b1cad75ff4f4c7685af41de6fdb]
 
 (1) A natural person may apply to the Secretary of State for a certificate of exemption in respect of a dog if the person is 16 years or older and owns the dog.
 
@@ -129,7 +129,7 @@ In this Part, “**certificate of exemption**” means a certificate issued unde
 - (a) in the case of an application which is sent by post or by email, the application and the application fee is received by the Secretary of State on or before 15th January 2024;
 - (b) in the case of an application which is submitted through the online portal that is made available for any application under this article, the application and the application fee is submitted on or before 12 noon on 31st January 2024.
 
-### 7. Certificate of exemption[^key-b3d4f239ca45e379f856b1d39ecd62c7]
+### 7. Certificate of exemption[^c-b3d4f239ca45e379f856b1d39ecd62c7]
 
 A certificate of exemption must—
 
@@ -139,39 +139,39 @@ A certificate of exemption must—
   - (i) to keep the dog at the same address as the holder except for any 30 days in a 12-month period;
   - (ii) to notify the Secretary of State of any proposed change of address (other than in respect of any changes of address in the 30 days referred in paragraph (i));
   - (iii) to notify the Secretary of State of the death or export of the dog;
-  - (iv)[^key-545fb89b11fa55a95f694a7bcce8f65f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv)[^c-545fb89b11fa55a95f694a7bcce8f65f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (v) to keep the dog muzzled and on a lead when in a public place;
   - (vi) to keep the dog in sufficiently secure conditions to prevent its escape;
   - (vii) to provide access to the dog for the purposes of reading a microchip on request by a person specified in section 5(1) of the Act[^f00008];
-  - (viii)[^key-3098bfadd84f634c2061c2c370357763] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (viii)[^c-3098bfadd84f634c2061c2c370357763] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ix) to produce to a person specified in section 5(1) of the Act the certificate of exemption within five days of being requested to do so by that person;
   - (x) to satisfy the Secretary of State that the requirement in article 9 has been met in respect of the dog; and
   - (xi) where applicable, to satisfy the Secretary of State that the requirements in article 10 have been met in respect of the dog.
 
-### 8. Third-party insurance[^key-a5b003fa36a5bc142cea806d9f802023]
+### 8. Third-party insurance[^c-a5b003fa36a5bc142cea806d9f802023]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Neutering[^key-79ca243fb1a9291667450e0b3c3ab2dc]
+### 9. Neutering[^c-79ca243fb1a9291667450e0b3c3ab2dc]
 
-(A1)[^key-c7497cb0d8255c66cfec826c2d9199a8] The holder of a certificate of exemption in respect of a dog that was at least 12 months old on the appointed day must—
+(A1)[^c-c7497cb0d8255c66cfec826c2d9199a8] The holder of a certificate of exemption in respect of a dog that was at least 12 months old on the appointed day must—
 
 - (a) ensure that the dog is neutered on or before the relevant date; and
 - (b) provide the Secretary of State, on or before 26th July 2024, with such evidence as the Secretary of State may reasonably require which confirms that the dog was neutered in accordance with sub-paragraph (a).
 
-(1) The holder of a certificate of exemption in respect of a dog that was less than 12 months old on the appointed day[^key-85566e60849985f18280545b79e8a338] must, on or before the relevant date, provide the Secretary of State with such evidence as the Secretary of State may reasonably require that the dog in respect of which the certificate has been issued has been neutered.
+(1) The holder of a certificate of exemption in respect of a dog that was less than 12 months old on the appointed day[^c-85566e60849985f18280545b79e8a338] must, on or before the relevant date, provide the Secretary of State with such evidence as the Secretary of State may reasonably require that the dog in respect of which the certificate has been issued has been neutered.
 
-(2) In this article[^key-4254150a271976e4a04c2ff166a77461]—
+(2) In this article[^c-4254150a271976e4a04c2ff166a77461]—
 
 - “**neutered**” means—
   - (a) in relation to a male dog, castrated;
   - (b) in relation to a female dog, spayed;
 - “**relevant date**” means—
   - (a) in relation to a dog that was at least 12 months old on the appointed day, 30th June 2024;
-  - (b) in relation to a dog that was at least 7 months old but less than 12 months old on the appointed day, 31st December 2024;[^key-1647224b7822d711f4c133bb9f139028]
+  - (b) in relation to a dog that was at least 7 months old but less than 12 months old on the appointed day, 31st December 2024;[^c-1647224b7822d711f4c133bb9f139028]
   - (c) in relation to a dog that was less than 7 months old on the appointed day, 30th June 2025.
 
-### 10. Microchipping[^key-c1ed55230ecd7a1c6cf31a3f06779358]
+### 10. Microchipping[^c-c1ed55230ecd7a1c6cf31a3f06779358]
 
 (1) This article applies where—
 
@@ -192,7 +192,7 @@ A certificate of exemption must—
 - (a) regulation 4(1) of the Microchipping of Cats and Dogs (England) Regulations 2023[^f00010]; or
 - (b) regulation 3(2) of the Microchipping of Dogs (Wales) Regulations 2015[^f00011].
 
-### 11. Further provision about certificates of exemption[^key-4ae72b4042a28824fb0a3c1fabf07ca0]
+### 11. Further provision about certificates of exemption[^c-4ae72b4042a28824fb0a3c1fabf07ca0]
 
 (1) The Secretary of State may issue a new certificate of exemption to replace an existing certificate of exemption that was issued in respect of a dog where—
 
@@ -235,11 +235,11 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [1991 c. 65](https://www.legislation.gov.uk/ukpga/1991/65).
 
-[^key-7b4baa6240078e0b4cfca24182140696]: Commencement: Art. 1 in force at 14.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1204/article/1/2)
+[^c-7b4baa6240078e0b4cfca24182140696]: Commencement: Art. 1 in force at 14.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1204/article/1/2)
 
-[^key-ffdfd546bd3a08c9c88ff09fc3819291]: Commencement: Art. 2 in force at 14.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1204/article/1/2)
+[^c-ffdfd546bd3a08c9c88ff09fc3819291]: Commencement: Art. 2 in force at 14.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1204/article/1/2)
 
-[^key-c212ae15dcb3f979e3d92cf09a390d70]: Commencement: Art. 3 in force at 14.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1204/article/1/2)
+[^c-c212ae15dcb3f979e3d92cf09a390d70]: Commencement: Art. 3 in force at 14.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1204/article/1/2)
 
 [^f00002]: Footnote: [1951 c. 35](https://www.legislation.gov.uk/ukpga/1951/35) (14 & 15 Geo 6); section 1(1) was repealed with saving provision in relation to England by regulation 27(1) of, and paragraph 2(2) of Schedule 9 to, [S.I. 2018/486](https://www.legislation.gov.uk/uksi/2018/486), and in relation to Wales by regulation 25 of, and paragraph 1 of Schedule 5 to, [S.I. 2021/416 (W. 135)](https://www.legislation.gov.uk/wsi/2021/416).
 
@@ -253,36 +253,36 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00007]: Footnote: [1966 c. 36](https://www.legislation.gov.uk/ukpga/1966/36); section 2(2) was amended by paragraph 1 of the Schedule to [S.I. 2003/2919](https://www.legislation.gov.uk/uksi/2003/2919), paragraph 2(a) and (b) of the Schedule to [S.I. 2008/1824](https://www.legislation.gov.uk/uksi/2008/1824) and regulation 2(3) of [S.I. 2019/454](https://www.legislation.gov.uk/uksi/2019/454).
 
-[^key-5f443ca5edcc3363c9a9454c60fcc595]: Commencement: Art. 4 in force at 14.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1204/article/1/2)
+[^c-5f443ca5edcc3363c9a9454c60fcc595]: Commencement: Art. 4 in force at 14.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1204/article/1/2)
 
-[^key-b6a76a1568f24a120c8fc95b4ab7d109]: Commencement: Art. 5 in force at 14.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1204/article/1/2)
+[^c-b6a76a1568f24a120c8fc95b4ab7d109]: Commencement: Art. 5 in force at 14.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1204/article/1/2)
 
-[^key-11426b1cad75ff4f4c7685af41de6fdb]: Commencement: Art. 6 in force at 14.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1204/article/1/2)
+[^c-11426b1cad75ff4f4c7685af41de6fdb]: Commencement: Art. 6 in force at 14.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1204/article/1/2)
 
-[^key-b3d4f239ca45e379f856b1d39ecd62c7]: Commencement: Art. 7 in force at 14.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1204/article/1/2)
+[^c-b3d4f239ca45e379f856b1d39ecd62c7]: Commencement: Art. 7 in force at 14.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1204/article/1/2)
 
-[^key-545fb89b11fa55a95f694a7bcce8f65f]: Textual amendment: [Art. 7(c)(iv)](https://www.legislation.gov.uk/uksi/2023/1204/article/7/c/iv) omitted (5.12.2024) by virtue of [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) (No. 2) Order 2024 (S.I. 2024/1149)](https://www.legislation.gov.uk/uksi/2024/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1149/article/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2024/1149/article/3/2/a)
+[^c-545fb89b11fa55a95f694a7bcce8f65f]: Textual amendment: [Art. 7(c)(iv)](https://www.legislation.gov.uk/uksi/2023/1204/article/7/c/iv) omitted (5.12.2024) by virtue of [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) (No. 2) Order 2024 (S.I. 2024/1149)](https://www.legislation.gov.uk/uksi/2024/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1149/article/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2024/1149/article/3/2/a)
 
 [^f00008]: Footnote: Section 5(1)(c) was amended in relation to England and Wales by section 106(5) of the Anti-social, Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12).
 
-[^key-3098bfadd84f634c2061c2c370357763]: Textual amendment: [Art. 7(c)(viii)](https://www.legislation.gov.uk/uksi/2023/1204/article/7/c/viii) omitted (1.7.2026) by virtue of [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) Order 2026 (S.I. 2026/602)](https://www.legislation.gov.uk/uksi/2026/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/602/article/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2026/602/article/3/2/b)
+[^c-3098bfadd84f634c2061c2c370357763]: Textual amendment: [Art. 7(c)(viii)](https://www.legislation.gov.uk/uksi/2023/1204/article/7/c/viii) omitted (1.7.2026) by virtue of [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) Order 2026 (S.I. 2026/602)](https://www.legislation.gov.uk/uksi/2026/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/602/article/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2026/602/article/3/2/b)
 
-[^key-a5b003fa36a5bc142cea806d9f802023]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2023/1204/article/8) omitted (1.7.2026) by virtue of [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) Order 2026 (S.I. 2026/602)](https://www.legislation.gov.uk/uksi/2026/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/602/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2026/602/article/3/3)
+[^c-a5b003fa36a5bc142cea806d9f802023]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2023/1204/article/8) omitted (1.7.2026) by virtue of [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) Order 2026 (S.I. 2026/602)](https://www.legislation.gov.uk/uksi/2026/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/602/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2026/602/article/3/3)
 
-[^key-79ca243fb1a9291667450e0b3c3ab2dc]: Commencement: Art. 9 in force at 14.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1204/article/1/2)
+[^c-79ca243fb1a9291667450e0b3c3ab2dc]: Commencement: Art. 9 in force at 14.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1204/article/1/2)
 
-[^key-c7497cb0d8255c66cfec826c2d9199a8]: Textual amendment: [Art. 9(A1)](https://www.legislation.gov.uk/uksi/2023/1204/article/9/A1) inserted (20.6.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) Order 2024 (S.I. 2024/721)](https://www.legislation.gov.uk/uksi/2024/721), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/721/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/721/article/2/2/a)
+[^c-c7497cb0d8255c66cfec826c2d9199a8]: Textual amendment: [Art. 9(A1)](https://www.legislation.gov.uk/uksi/2023/1204/article/9/A1) inserted (20.6.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) Order 2024 (S.I. 2024/721)](https://www.legislation.gov.uk/uksi/2024/721), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/721/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/721/article/2/2/a)
 
-[^key-85566e60849985f18280545b79e8a338]: Textual amendment: Words in [art. 9(1)](https://www.legislation.gov.uk/uksi/2023/1204/article/9/1) inserted (20.6.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) Order 2024 (S.I. 2024/721)](https://www.legislation.gov.uk/uksi/2024/721), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/721/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/721/article/2/2/b)
+[^c-85566e60849985f18280545b79e8a338]: Textual amendment: Words in [art. 9(1)](https://www.legislation.gov.uk/uksi/2023/1204/article/9/1) inserted (20.6.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) Order 2024 (S.I. 2024/721)](https://www.legislation.gov.uk/uksi/2024/721), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/721/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/721/article/2/2/b)
 
-[^key-4254150a271976e4a04c2ff166a77461]: Textual amendment: Words in [art. 9(2)](https://www.legislation.gov.uk/uksi/2023/1204/article/9/2) substituted (20.6.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) Order 2024 (S.I. 2024/721)](https://www.legislation.gov.uk/uksi/2024/721), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/721/article/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2024/721/article/2/2/c)
+[^c-4254150a271976e4a04c2ff166a77461]: Textual amendment: Words in [art. 9(2)](https://www.legislation.gov.uk/uksi/2023/1204/article/9/2) substituted (20.6.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) Order 2024 (S.I. 2024/721)](https://www.legislation.gov.uk/uksi/2024/721), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/721/article/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2024/721/article/2/2/c)
 
-[^key-1647224b7822d711f4c133bb9f139028]: Textual amendment: Words in [art. 9(2)](https://www.legislation.gov.uk/uksi/2023/1204/article/9/2) substituted (5.12.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) (No. 2) Order 2024 (S.I. 2024/1149)](https://www.legislation.gov.uk/uksi/2024/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1149/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2024/1149/article/3/3)
+[^c-1647224b7822d711f4c133bb9f139028]: Textual amendment: Words in [art. 9(2)](https://www.legislation.gov.uk/uksi/2023/1204/article/9/2) substituted (5.12.2024) by [The Dangerous Dogs (Exemption Schemes) (England and Wales) (Amendment) (No. 2) Order 2024 (S.I. 2024/1149)](https://www.legislation.gov.uk/uksi/2024/1149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1149/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2024/1149/article/3/3)
 
-[^key-c1ed55230ecd7a1c6cf31a3f06779358]: Commencement: Art. 10 in force at 14.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1204/article/1/2)
+[^c-c1ed55230ecd7a1c6cf31a3f06779358]: Commencement: Art. 10 in force at 14.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1204/article/1/2)
 
 [^f00010]: Footnote: [S.I. 2023/468](https://www.legislation.gov.uk/uksi/2023/468).
 
 [^f00011]: Footnote: [S.I. 2015/1990 (W. 300)](https://www.legislation.gov.uk/wsi/2015/1990).
 
-[^key-4ae72b4042a28824fb0a3c1fabf07ca0]: Commencement: Art. 11 in force at 14.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1204/article/1/2)
+[^c-4ae72b4042a28824fb0a3c1fabf07ca0]: Commencement: Art. 11 in force at 14.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1204/article/1/2)

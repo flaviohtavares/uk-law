@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105A. Provision of information to Secretary of State[^key-efdcf582613d1eb3ebc914f77aeb770d]
+## 105A. Provision of information to Secretary of State[^c-efdcf582613d1eb3ebc914f77aeb770d]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ for the purpose of providing information under the regulations.
 
 ## Annotations
 
-[^key-efdcf582613d1eb3ebc914f77aeb770d]: Textual amendment: [S. 105A](https://www.legislation.gov.uk/ukpga/2014/12/section/105A) and cross-heading inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 7](https://www.legislation.gov.uk/ukpga/2026/20/section/7), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/b)
+[^c-efdcf582613d1eb3ebc914f77aeb770d]: Textual amendment: [S. 105A](https://www.legislation.gov.uk/ukpga/2014/12/section/105A) and cross-heading inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 7](https://www.legislation.gov.uk/ukpga/2026/20/section/7), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/b)

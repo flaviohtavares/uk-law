@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Procedure for making, etc. of byelaws[^key-89e7ba0e810a75480851e36a7daea9e2]
+## 28. Procedure for making, etc. of byelaws[^c-89e7ba0e810a75480851e36a7daea9e2]
 
 *Extent: E+W+S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-89e7ba0e810a75480851e36a7daea9e2]: Commencement: Art. 28 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-89e7ba0e810a75480851e36a7daea9e2]: Commencement: Art. 28 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
 
 [^f00013]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).

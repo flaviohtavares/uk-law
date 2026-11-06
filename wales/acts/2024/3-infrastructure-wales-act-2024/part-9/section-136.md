@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 136. Giving notices and other documents[^key-eb0b5c79ef6062109f75834d1c5a224f]
+## 136. Giving notices and other documents[^c-eb0b5c79ef6062109f75834d1c5a224f]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb0b5c79ef6062109f75834d1c5a224f]: Commencement: S. 136 in force at 4.6.2024, see [s. 147(1)(c)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/c)
+[^c-eb0b5c79ef6062109f75834d1c5a224f]: Commencement: S. 136 in force at 4.6.2024, see [s. 147(1)(c)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/c)

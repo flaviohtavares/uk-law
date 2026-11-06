@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Continuation of tenancy under Part II of the Landlord and Tenant Act 1954[^key-7167312075d735a7330422dbe2c63afe]
+## 50. Continuation of tenancy under Part II of the Landlord and Tenant Act 1954[^c-7167312075d735a7330422dbe2c63afe]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7167312075d735a7330422dbe2c63afe]: Commencement: Reg. 50 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-7167312075d735a7330422dbe2c63afe]: Commencement: Reg. 50 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00043]: Footnote: [1954 c. 56](https://www.legislation.gov.uk/ukpga/1954/56).

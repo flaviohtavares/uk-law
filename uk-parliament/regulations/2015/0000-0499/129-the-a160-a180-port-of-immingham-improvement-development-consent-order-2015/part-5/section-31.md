@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Apparatus and rights of statutory undertakers in stopped up streets[^key-80a45eb65bdb69beac8803a2330c2e4f]
+## 31. Apparatus and rights of statutory undertakers in stopped up streets[^c-80a45eb65bdb69beac8803a2330c2e4f]
 
 *Extent: E+W*
 
@@ -58,6 +58,6 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 ## Annotations
 
-[^key-80a45eb65bdb69beac8803a2330c2e4f]: Commencement: Art. 31 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)
+[^c-80a45eb65bdb69beac8803a2330c2e4f]: Commencement: Art. 31 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)
 
 [^f00032]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).

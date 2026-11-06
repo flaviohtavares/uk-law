@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Re-determination and appeal deadlines in exceptional circumstances[^key-a07e647a0fce7b3d109c2c5b81e5c3bf]
+## 5. Re-determination and appeal deadlines in exceptional circumstances[^c-a07e647a0fce7b3d109c2c5b81e5c3bf]
 
 *Extent: S*
 
@@ -112,4 +112,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a07e647a0fce7b3d109c2c5b81e5c3bf]: Commencement: S. 5 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
+[^c-a07e647a0fce7b3d109c2c5b81e5c3bf]: Commencement: S. 5 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)

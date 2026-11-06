@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Transfers of property etc[^key-fec700888484b959b87f4fc2806f1543]
+## 18. Transfers of property etc[^c-fec700888484b959b87f4fc2806f1543]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fec700888484b959b87f4fc2806f1543]: Commencement: Art. 18 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-fec700888484b959b87f4fc2806f1543]: Commencement: Art. 18 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00031]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47).

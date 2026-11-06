@@ -107,11 +107,11 @@ Section 63.
 
 (a) in subsection (1)(a) for “section 12 of the Sale of Goods Act 1893” substitute “ section 12 of the Sale of Goods Act 1979 ”;
 
-(b)[^key-edf6e7cdeb26853ffd9918d390d42bb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(b)[^c-edf6e7cdeb26853ffd9918d390d42bb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **20.** In section 14 of the Unfair Contract Terms Act 1977, in the definition of “goods”, for “the Sale of Goods Act 1893” subsitute “ the Sale of Goods Act 1979 ”.
 
-**21.** In section 20(1)(a) [^key-42d3e42e2ad84e7d4198055a49d43ec6]... of the Unfair Contract Terms Act 1977 for “1893” substitute [^key-42d3e42e2ad84e7d4198055a49d43ec6]... “ 1979 ”.
+**21.** In section 20(1)(a) [^c-42d3e42e2ad84e7d4198055a49d43ec6]... of the Unfair Contract Terms Act 1977 for “1893” substitute [^c-42d3e42e2ad84e7d4198055a49d43ec6]... “ 1979 ”.
 
 **22.** In section 25(1) of the Unfair Contract Terms Act 1977, in the definition of “goods”, for “the Sale of Goods Act 1893” substitute “ the Sale of Goods Act 1979 ”.
 
@@ -125,6 +125,6 @@ Section 63.
 
 [^c1108995]: Marginal citation: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39)
 
-[^key-edf6e7cdeb26853ffd9918d390d42bb8]: Textual amendment: [Sch. 2 para. 19(b)](https://www.legislation.gov.uk/ukpga/1979/54/schedule/2/paragraph/19/b) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 4 para. 39(a)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/4/paragraph/39/a); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-edf6e7cdeb26853ffd9918d390d42bb8]: Textual amendment: [Sch. 2 para. 19(b)](https://www.legislation.gov.uk/ukpga/1979/54/schedule/2/paragraph/19/b) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 4 para. 39(a)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/4/paragraph/39/a); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
-[^key-42d3e42e2ad84e7d4198055a49d43ec6]: Textual amendment: Words in [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/1979/54/schedule/2/paragraph/21) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 4 para. 39(b)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/4/paragraph/39/b); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-42d3e42e2ad84e7d4198055a49d43ec6]: Textual amendment: Words in [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/1979/54/schedule/2/paragraph/21) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 4 para. 39(b)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/4/paragraph/39/b); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 211. Application of Articles 107 to 109 TFEU[^key-6b933803bd42b420b0aed621284a1d05]
+## Article 211. Application of Articles 107 to 109 TFEU[^c-6b933803bd42b420b0aed621284a1d05]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b933803bd42b420b0aed621284a1d05]: Textual amendment: [Art. 211](https://www.legislation.gov.uk/eur/2013/1308/article/211) omitted (31.12.2020) by virtue of [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/uksi/2020/1470/schedule/1/paragraph/6/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-6b933803bd42b420b0aed621284a1d05]: Textual amendment: [Art. 211](https://www.legislation.gov.uk/eur/2013/1308/article/211) omitted (31.12.2020) by virtue of [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/uksi/2020/1470/schedule/1/paragraph/6/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))

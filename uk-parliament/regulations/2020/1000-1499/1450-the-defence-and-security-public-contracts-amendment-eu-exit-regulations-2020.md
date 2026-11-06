@@ -34,7 +34,7 @@ Exiting The European Union
 
 Public Procurement
 
-The Defence and Security Public Contracts (Amendment) (EU Exit) Regulations 2020 (revoked)[^key-83cc059a66abcf3ca907754697a9ea7c]
+The Defence and Security Public Contracts (Amendment) (EU Exit) Regulations 2020 (revoked)[^c-83cc059a66abcf3ca907754697a9ea7c]
 
 Made
 
@@ -42,28 +42,28 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-83cc059a66abcf3ca907754697a9ea7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-83cc059a66abcf3ca907754697a9ea7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-83cc059a66abcf3ca907754697a9ea7c]
+## 1. Citation and commencement[^c-83cc059a66abcf3ca907754697a9ea7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments of the Defence and Security Public Contracts Regulations 2011[^key-83cc059a66abcf3ca907754697a9ea7c]
+## 2. Amendments of the Defence and Security Public Contracts Regulations 2011[^c-83cc059a66abcf3ca907754697a9ea7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments of The Defence and Security Public Contracts (Amendment) (EU Exit) Regulations 2019[^key-83cc059a66abcf3ca907754697a9ea7c]
+## 3. Amendments of The Defence and Security Public Contracts (Amendment) (EU Exit) Regulations 2019[^c-83cc059a66abcf3ca907754697a9ea7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-83cc059a66abcf3ca907754697a9ea7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-83cc059a66abcf3ca907754697a9ea7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-83cc059a66abcf3ca907754697a9ea7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-83cc059a66abcf3ca907754697a9ea7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-83cc059a66abcf3ca907754697a9ea7c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/1450) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
+[^c-83cc059a66abcf3ca907754697a9ea7c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/1450) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)

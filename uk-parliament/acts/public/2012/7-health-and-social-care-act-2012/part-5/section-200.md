@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 200. Care Trusts[^key-af57563479399284c5f1a2762c112fa3][^c2191340]
+## 200. Care Trusts[^c-af57563479399284c5f1a2762c112fa3][^c2191340]
 
 *Extent: E+W*
 
@@ -94,12 +94,12 @@ summary: ''
 
 (14) A Primary Care Trust or NHS trust which, after the commencement of subsection (5), has its designation as a Care Trust revoked must notify the Secretary of State of that revocation.
 
-(15)[^key-c5793150b53c7809ee96840cd8212b4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(15)[^c-c5793150b53c7809ee96840cd8212b4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-af57563479399284c5f1a2762c112fa3]: Commencement: [S. 200](https://www.legislation.gov.uk/ukpga/2012/7/section/200) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-af57563479399284c5f1a2762c112fa3]: Commencement: [S. 200](https://www.legislation.gov.uk/ukpga/2012/7/section/200) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c2191340]: Commencement: [S. 200](https://www.legislation.gov.uk/ukpga/2012/7/section/200) partly in force; [s. 200](https://www.legislation.gov.uk/ukpga/2012/7/section/200) in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)
 
-[^key-c5793150b53c7809ee96840cd8212b4c]: Textual amendment: [S. 200(15)](https://www.legislation.gov.uk/ukpga/2012/7/section/200/15) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2022/31/schedule/7/paragraph/11); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-c5793150b53c7809ee96840cd8212b4c]: Textual amendment: [S. 200(15)](https://www.legislation.gov.uk/ukpga/2012/7/section/200/15) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2022/31/schedule/7/paragraph/11); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

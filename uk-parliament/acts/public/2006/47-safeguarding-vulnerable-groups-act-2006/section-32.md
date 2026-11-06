@@ -49,8 +49,8 @@ summary: ''
 
 (9) If B consents to the provision of information to A under section 30 the consent also has effect as consent to any application by A to be registered in relation to B under this section.
 
-(10)[^key-7a6eb651b65a8e78f6236b83ada092ab] The Secretary of State may prescribe the form, manner and contents of an application for the purposes of this section (including the form and manner of a declaration contained in such an application).
+(10)[^c-7a6eb651b65a8e78f6236b83ada092ab] The Secretary of State may prescribe the form, manner and contents of an application for the purposes of this section (including the form and manner of a declaration contained in such an application).
 
 ## Annotations
 
-[^key-7a6eb651b65a8e78f6236b83ada092ab]: Commencement: S. 32(10) in force at 19.5.2008 for specified purposes by [S.I. 2008/1320](https://www.legislation.gov.uk/uksi/2008/1320), [art. 4(g)](https://www.legislation.gov.uk/uksi/2008/1320/article/4/g)
+[^c-7a6eb651b65a8e78f6236b83ada092ab]: Commencement: S. 32(10) in force at 19.5.2008 for specified purposes by [S.I. 2008/1320](https://www.legislation.gov.uk/uksi/2008/1320), [art. 4(g)](https://www.legislation.gov.uk/uksi/2008/1320/article/4/g)

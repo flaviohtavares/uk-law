@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 80. Offences by bodies corporate etc.[^key-8f75d8af09cb52c2d8d476023159d054]
+## 80. Offences by bodies corporate etc.[^c-8f75d8af09cb52c2d8d476023159d054]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Section 400 of the Act (offences by bodies corporate etc.) applies to an offence
 
 ## Annotations
 
-[^key-8f75d8af09cb52c2d8d476023159d054]: Commencement: [Reg. 80](https://www.legislation.gov.uk/nisr/2004/335/regulation/80) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-8f75d8af09cb52c2d8d476023159d054]: Commencement: [Reg. 80](https://www.legislation.gov.uk/nisr/2004/335/regulation/80) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

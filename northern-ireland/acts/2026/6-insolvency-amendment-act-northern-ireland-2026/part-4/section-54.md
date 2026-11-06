@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 54. Early dissolution[^key-2c89e6afc1b9a8c61d46af540cb4485e]
+## 54. Early dissolution[^c-2c89e6afc1b9a8c61d46af540cb4485e]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In Article 167 (early dissolution), in paragraph (2), after “creditors” inse
 
 ## Annotations
 
-[^key-2c89e6afc1b9a8c61d46af540cb4485e]: Commencement: S. 54 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-2c89e6afc1b9a8c61d46af540cb4485e]: Commencement: S. 54 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

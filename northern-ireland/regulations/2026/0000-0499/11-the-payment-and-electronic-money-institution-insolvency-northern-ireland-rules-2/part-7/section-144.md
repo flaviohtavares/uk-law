@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 144. Declaration of a dividend[^key-a4c36339cd4e39578e4b6ffef48c498a]
+## 144. Declaration of a dividend[^c-a4c36339cd4e39578e4b6ffef48c498a]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4c36339cd4e39578e4b6ffef48c498a]: Commencement: [Rule 144](https://www.legislation.gov.uk/nisr/2026/11/rule/144) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-a4c36339cd4e39578e4b6ffef48c498a]: Commencement: [Rule 144](https://www.legislation.gov.uk/nisr/2026/11/rule/144) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

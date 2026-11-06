@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Judicial Pension Board: membership[^key-d48606bdafd47bc3549fd1b16d9d5ad0]
+## 7. Judicial Pension Board: membership[^c-d48606bdafd47bc3549fd1b16d9d5ad0]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d48606bdafd47bc3549fd1b16d9d5ad0]: Commencement: Reg. 7 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-d48606bdafd47bc3549fd1b16d9d5ad0]: Commencement: Reg. 7 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
 [^f00032]: Footnote: [2000 c. 20](https://www.legislation.gov.uk/ukpga/2000/20).

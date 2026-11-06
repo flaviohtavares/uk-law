@@ -44,13 +44,13 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 64(1), 68(4)(*c*)(i), 70(4), 71(6), 122(1), 129(1) and (2), 131(1) and 133(2)(*a*) and (*i*) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and section 5(1)(*s*) of the Social Security Administration (Northern Ireland) Act 1992[^f00002] and of all other powers enabling it in that behalf, with the consent of the Department of the Environment for Northern Ireland[^f00003] in so far as relates to regulations 5 and 11 of these Regulations, and after agreement by the Social Security Advisory Committee that proposals to make these Regulations should not be referred to it[^f00004], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-71bfdf58984f156d050ca2340b166cc0]
+## 1. Citation, commencement and interpretation[^c-71bfdf58984f156d050ca2340b166cc0]
 
 (1) These Regulations may be cited as the Social Security (Persons from Abroad) (Miscellaneous Amendments) Regulations (Northern Ireland) 1996 and shall come into operation on 5th February 1996.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
-## 2. Amendment of the Social Security (Invalid Care Allowance) Regulations[^key-d48b4f3b8f6505e7b8124d24733f8dc4]
+## 2. Amendment of the Social Security (Invalid Care Allowance) Regulations[^c-d48b4f3b8f6505e7b8124d24733f8dc4]
 
 In regulation 9 of the Social Security (Invalid Care Allowance) Regulations (Northern Ireland) 1976[^f00006] (conditions relating to residence and presence in Northern Ireland)—
 
@@ -72,7 +72,7 @@ In regulation 9 of the Social Security (Invalid Care Allowance) Regulations (Nor
 
   .
 
-## 3. Amendment of the Social Security (Severe Disablement Allowance) Regulations[^key-f05938c9d34fd7bcd53fbebd32d746c2]
+## 3. Amendment of the Social Security (Severe Disablement Allowance) Regulations[^c-f05938c9d34fd7bcd53fbebd32d746c2]
 
 In regulation 3 of the Social Security (Severe Disablement Allowance) Regulations (Northern Ireland) 1984[^f00013] (conditions relating to residence and presence)—
 
@@ -94,7 +94,7 @@ In regulation 3 of the Social Security (Severe Disablement Allowance) Regulation
 
   .
 
-## 4. Amendment of the Income Support (General) Regulations[^key-7193b8626516091315e2ea970467f555]
+## 4. Amendment of the Income Support (General) Regulations[^c-7193b8626516091315e2ea970467f555]
 
 (1) The Income Support (General) Regulations (Northern Ireland) 1987[^f00014] shall be amended in accordance with paragraphs (2) to (4).
 
@@ -105,15 +105,15 @@ In regulation 3 of the Social Security (Severe Disablement Allowance) Regulation
 
 .
 
-(3)[^key-9834fcde80eb8c1a69843fbb7dc57efb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9834fcde80eb8c1a69843fbb7dc57efb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-9834fcde80eb8c1a69843fbb7dc57efb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-9834fcde80eb8c1a69843fbb7dc57efb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Housing Benefit (General) Regulations[^key-d0a0e6b6c5081cb5e184476dd5852c75]
+## 5. Amendment of the Housing Benefit (General) Regulations[^c-d0a0e6b6c5081cb5e184476dd5852c75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Family Credit (General) Regulations[^key-153d01b7cd48bcd6018f66f9bebfbbaa]
+## 6. Amendment of the Family Credit (General) Regulations[^c-153d01b7cd48bcd6018f66f9bebfbbaa]
 
 In regulation 3 of the Family Credit (General) Regulations (Northern Ireland) 1987[^f00020] (circumstances in which a person is treated as being or as not being in Northern Ireland)—
 
@@ -135,11 +135,11 @@ In regulation 3 of the Family Credit (General) Regulations (Northern Ireland) 19
 
   .
 
-## 7. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations[^key-bfd0368bb6cd6272a89ec82f68026864]
+## 7. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations[^c-bfd0368bb6cd6272a89ec82f68026864]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of the Social Security (Attendance Allowance) Regulations[^key-c906865393e5a1ac1a396c8c1f54109a]
+## 8. Amendment of the Social Security (Attendance Allowance) Regulations[^c-c906865393e5a1ac1a396c8c1f54109a]
 
 In regulation 2 of the Social Security (Attendance Allowance) Regulations (Northern Ireland) 1992[^f00022] (conditions as to residence and presence in Northern Ireland)—
 
@@ -162,7 +162,7 @@ In regulation 2 of the Social Security (Attendance Allowance) Regulations (North
 
   .
 
-## 9. Amendment of the Social Security (Disability Living Allowance) Regulations[^key-7d4b037b79a07d7314f46a90c68fc855]
+## 9. Amendment of the Social Security (Disability Living Allowance) Regulations[^c-7d4b037b79a07d7314f46a90c68fc855]
 
 In regulation 2 of the Social Security (Disability Living Allowance) Regulations (Northern Ireland) 1992[^f00023] (conditions as to residence and presence in Northern Ireland)—
 
@@ -185,7 +185,7 @@ In regulation 2 of the Social Security (Disability Living Allowance) Regulations
 
   .
 
-## 10. Amendment of the Disability Working Allowance (General) Regulations[^key-c4891e0f48d9bb58c9b426a59d7ecb5f]
+## 10. Amendment of the Disability Working Allowance (General) Regulations[^c-c4891e0f48d9bb58c9b426a59d7ecb5f]
 
 In regulation 5 of the Disability Working Allowance (General) Regulations (Northern Ireland) 1992[^f00024] (circumstances in which a person is treated as being or as not being in Northern Ireland)—
 
@@ -207,18 +207,18 @@ In regulation 5 of the Disability Working Allowance (General) Regulations (North
 
   .
 
-## 11. Saving[^key-75e582e5985be79aceba1056af500d78]
+## 11. Saving[^c-75e582e5985be79aceba1056af500d78]
 
-(1)[^key-483040535710c8fb4732e43f5546b685] Where, before the coming into operation of these Regulations, a person who becomes an asylum seeker under regulation 70(3A)( *(affected by repeal, see note)*[^key-483040535710c8fb4732e43f5546b685]*a*) of the *(affected by repeal, see note)*[^key-483040535710c8fb4732e43f5546b685] Income Support Regulations *(affected by repeal, see note)*[^key-483040535710c8fb4732e43f5546b685] or regulation 7A(5)( *(affected by repeal, see note)*[^key-483040535710c8fb4732e43f5546b685]*a*)(i) of the *(affected by repeal, see note)*[^key-483040535710c8fb4732e43f5546b685] Housing Benefit Regulations *(affected by repeal, see note)*[^key-483040535710c8fb4732e43f5546b685] is entitled to benefit under any of those Regulations, those provisions of those Regulations shall have effect as if regulation 4(2) and (3)( *(affected by repeal, see note)*[^key-483040535710c8fb4732e43f5546b685]*b*)(i) or 5( *(affected by repeal, see note)*[^key-483040535710c8fb4732e43f5546b685]*a*) and ( *(affected by repeal, see note)*[^key-483040535710c8fb4732e43f5546b685]*b*) of these Regulations had not been made. *(affected by repeal, see note)*[^key-483040535710c8fb4732e43f5546b685]
+(1)[^c-483040535710c8fb4732e43f5546b685] Where, before the coming into operation of these Regulations, a person who becomes an asylum seeker under regulation 70(3A)( *(affected by repeal, see note)*[^c-483040535710c8fb4732e43f5546b685]*a*) of the *(affected by repeal, see note)*[^c-483040535710c8fb4732e43f5546b685] Income Support Regulations *(affected by repeal, see note)*[^c-483040535710c8fb4732e43f5546b685] or regulation 7A(5)( *(affected by repeal, see note)*[^c-483040535710c8fb4732e43f5546b685]*a*)(i) of the *(affected by repeal, see note)*[^c-483040535710c8fb4732e43f5546b685] Housing Benefit Regulations *(affected by repeal, see note)*[^c-483040535710c8fb4732e43f5546b685] is entitled to benefit under any of those Regulations, those provisions of those Regulations shall have effect as if regulation 4(2) and (3)( *(affected by repeal, see note)*[^c-483040535710c8fb4732e43f5546b685]*b*)(i) or 5( *(affected by repeal, see note)*[^c-483040535710c8fb4732e43f5546b685]*a*) and ( *(affected by repeal, see note)*[^c-483040535710c8fb4732e43f5546b685]*b*) of these Regulations had not been made. *(affected by repeal, see note)*[^c-483040535710c8fb4732e43f5546b685]
 
-(2) Where, before the coming into operation of these Regulations, a person, in respect of whom an undertaking was given by another person to be responsible for his maintenance and accommodation, claimed benefit to which he is entitled or is receiving benefit, under the *(affected by repeal, see note)*[^key-483040535710c8fb4732e43f5546b685] Income Support Regulations *(affected by repeal, see note)*[^key-483040535710c8fb4732e43f5546b685] or the *(affected by repeal, see note)*[^key-483040535710c8fb4732e43f5546b685] Housing Benefit Regulations *(affected by repeal, see note)*[^key-483040535710c8fb4732e43f5546b685], those Regulations shall have effect as if regulation 4 or 5 of these Regulations had not been made. *(affected by repeal, see note)*[^key-483040535710c8fb4732e43f5546b685]
+(2) Where, before the coming into operation of these Regulations, a person, in respect of whom an undertaking was given by another person to be responsible for his maintenance and accommodation, claimed benefit to which he is entitled or is receiving benefit, under the *(affected by repeal, see note)*[^c-483040535710c8fb4732e43f5546b685] Income Support Regulations *(affected by repeal, see note)*[^c-483040535710c8fb4732e43f5546b685] or the *(affected by repeal, see note)*[^c-483040535710c8fb4732e43f5546b685] Housing Benefit Regulations *(affected by repeal, see note)*[^c-483040535710c8fb4732e43f5546b685], those Regulations shall have effect as if regulation 4 or 5 of these Regulations had not been made. *(affected by repeal, see note)*[^c-483040535710c8fb4732e43f5546b685]
 
-(3)[^key-9c5fd4b251bedfa4c06ac71b712f58e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9c5fd4b251bedfa4c06ac71b712f58e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) In this regulation— *(affected by repeal, see note)*[^key-483040535710c8fb4732e43f5546b685]
+(4) In this regulation— *(affected by repeal, see note)*[^c-483040535710c8fb4732e43f5546b685]
 
-- “the *(affected by repeal, see note)*[^key-483040535710c8fb4732e43f5546b685] Housing Benefit Regulations *(affected by repeal, see note)*[^key-483040535710c8fb4732e43f5546b685]” means the Housing Benefit (General) Regulations (Northern Ireland) 1987; *(affected by repeal, see note)*[^key-483040535710c8fb4732e43f5546b685]
-- “the *(affected by repeal, see note)*[^key-483040535710c8fb4732e43f5546b685] Income Support Regulations *(affected by repeal, see note)*[^key-483040535710c8fb4732e43f5546b685]” means the Income Support (General) Regulations (Northern Ireland) 1987. *(affected by repeal, see note)*[^key-483040535710c8fb4732e43f5546b685]
+- “the *(affected by repeal, see note)*[^c-483040535710c8fb4732e43f5546b685] Housing Benefit Regulations *(affected by repeal, see note)*[^c-483040535710c8fb4732e43f5546b685]” means the Housing Benefit (General) Regulations (Northern Ireland) 1987; *(affected by repeal, see note)*[^c-483040535710c8fb4732e43f5546b685]
+- “the *(affected by repeal, see note)*[^c-483040535710c8fb4732e43f5546b685] Income Support Regulations *(affected by repeal, see note)*[^c-483040535710c8fb4732e43f5546b685]” means the Income Support (General) Regulations (Northern Ireland) 1987. *(affected by repeal, see note)*[^c-483040535710c8fb4732e43f5546b685]
 
 Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland on
 
@@ -256,11 +256,11 @@ In so far as these Regulations are required, for the purposes of regulations 5 a
 
 [^f00004]: Footnote: *See* section 150(1)(*b*) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-71bfdf58984f156d050ca2340b166cc0]: Commencement: Reg. 1 in operation at 5.2.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/11/regulation/1/1)
+[^c-71bfdf58984f156d050ca2340b166cc0]: Commencement: Reg. 1 in operation at 5.2.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/11/regulation/1/1)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-d48b4f3b8f6505e7b8124d24733f8dc4]: Commencement: Reg. 2 in operation at 5.2.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/11/regulation/1/1)
+[^c-d48b4f3b8f6505e7b8124d24733f8dc4]: Commencement: Reg. 2 in operation at 5.2.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/11/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1976 No. 99](https://www.legislation.gov.uk/nisr/1976/99); relevant amending regulations are [S.R. 1977 No. 73](https://www.legislation.gov.uk/nisr/1977/73) and [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6)
 
@@ -276,11 +276,11 @@ In so far as these Regulations are required, for the purposes of regulations 5 a
 
 [^f00012]: Footnote: The title of the Treaty of Rome was amended by article G(1) of the Treaty on European Union
 
-[^key-f05938c9d34fd7bcd53fbebd32d746c2]: Commencement: Reg. 3 in operation at 5.2.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/11/regulation/1/1)
+[^c-f05938c9d34fd7bcd53fbebd32d746c2]: Commencement: Reg. 3 in operation at 5.2.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/11/regulation/1/1)
 
 [^f00013]: Footnote: [S.R. 1984 No. 317](https://www.legislation.gov.uk/nisr/1984/317); relevant amending regulations are [S.R. 1991 No. 333](https://www.legislation.gov.uk/nisr/1991/333), [S.R. 1992 No. 114](https://www.legislation.gov.uk/nisr/1992/114) and [S.R. 1994 No. 462](https://www.legislation.gov.uk/nisr/1994/462)
 
-[^key-7193b8626516091315e2ea970467f555]: Commencement: Reg. 4 in operation at 5.2.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/11/regulation/1/1)
+[^c-7193b8626516091315e2ea970467f555]: Commencement: Reg. 4 in operation at 5.2.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/11/regulation/1/1)
 
 [^f00014]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending regulations are [S.R. 1993 Nos. 120](https://www.legislation.gov.uk/nisr/1993/120) and [311](https://www.legislation.gov.uk/nisr/1993/311)
 
@@ -288,30 +288,30 @@ In so far as these Regulations are required, for the purposes of regulations 5 a
 
 [^f00016]: Footnote: The Convention relating to the Status of Refugees done at Geneva on 28th July 1951 and the Protocol to that Convention
 
-[^key-9834fcde80eb8c1a69843fbb7dc57efb]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/1996/11/regulation/4/3)[(4)](https://www.legislation.gov.uk/nisr/1996/11/regulation/4/4) revoked (25.1.2010) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/6)](https://www.legislation.gov.uk/nisr/2010/6), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2010/6/schedule/part/1) (with [reg. 2(2)-(4)](https://www.legislation.gov.uk/nisr/2010/6/regulation/2/2))
+[^c-9834fcde80eb8c1a69843fbb7dc57efb]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/1996/11/regulation/4/3)[(4)](https://www.legislation.gov.uk/nisr/1996/11/regulation/4/4) revoked (25.1.2010) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/6)](https://www.legislation.gov.uk/nisr/2010/6), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2010/6/schedule/part/1) (with [reg. 2(2)-(4)](https://www.legislation.gov.uk/nisr/2010/6/regulation/2/2))
 
-[^key-d0a0e6b6c5081cb5e184476dd5852c75]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/1996/11/regulation/5) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-d0a0e6b6c5081cb5e184476dd5852c75]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/1996/11/regulation/5) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-153d01b7cd48bcd6018f66f9bebfbbaa]: Commencement: Reg. 6 in operation at 5.2.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/11/regulation/1/1)
+[^c-153d01b7cd48bcd6018f66f9bebfbbaa]: Commencement: Reg. 6 in operation at 5.2.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/11/regulation/1/1)
 
 [^f00020]: Footnote: [S.R. 1987 No. 463](https://www.legislation.gov.uk/nisr/1987/463); relevant amending regulations are [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6)
 
-[^key-bfd0368bb6cd6272a89ec82f68026864]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/1996/11/regulation/7) revoked (coming into operation in accordance with reg. 1(2) of the amending Rule) by [The Social Security (Payments on Account of Benefit) Regulations (Northern Ireland) 2016 (S.R. 2016/223)](https://www.legislation.gov.uk/nisr/2016/223), [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/2/c), [Sch.](https://www.legislation.gov.uk/nisr/2016/223/schedule) (with [reg. 19(2)](https://www.legislation.gov.uk/nisr/2016/223/regulation/19/2))
+[^c-bfd0368bb6cd6272a89ec82f68026864]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/1996/11/regulation/7) revoked (coming into operation in accordance with reg. 1(2) of the amending Rule) by [The Social Security (Payments on Account of Benefit) Regulations (Northern Ireland) 2016 (S.R. 2016/223)](https://www.legislation.gov.uk/nisr/2016/223), [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/2/c), [Sch.](https://www.legislation.gov.uk/nisr/2016/223/schedule) (with [reg. 19(2)](https://www.legislation.gov.uk/nisr/2016/223/regulation/19/2))
 
-[^key-c906865393e5a1ac1a396c8c1f54109a]: Commencement: Reg. 8 in operation at 5.2.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/11/regulation/1/1)
+[^c-c906865393e5a1ac1a396c8c1f54109a]: Commencement: Reg. 8 in operation at 5.2.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/11/regulation/1/1)
 
 [^f00022]: Footnote: [S.R. 1992 No. 20](https://www.legislation.gov.uk/nisr/1992/20), to which there are amendments not relevant to these regulations
 
-[^key-7d4b037b79a07d7314f46a90c68fc855]: Commencement: Reg. 9 in operation at 5.2.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/11/regulation/1/1)
+[^c-7d4b037b79a07d7314f46a90c68fc855]: Commencement: Reg. 9 in operation at 5.2.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/11/regulation/1/1)
 
 [^f00023]: Footnote: [S.R. 1992 No. 32](https://www.legislation.gov.uk/nisr/1992/32); relevant amending regulations are [S.R. 1993 No. 340](https://www.legislation.gov.uk/nisr/1993/340)
 
-[^key-c4891e0f48d9bb58c9b426a59d7ecb5f]: Commencement: Reg. 10 in operation at 5.2.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/11/regulation/1/1)
+[^c-c4891e0f48d9bb58c9b426a59d7ecb5f]: Commencement: Reg. 10 in operation at 5.2.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/11/regulation/1/1)
 
 [^f00024]: Footnote: [S.R. 1992 No. 78](https://www.legislation.gov.uk/nisr/1992/78), to which there are amendments not relevant to these regulations
 
-[^key-75e582e5985be79aceba1056af500d78]: Commencement: Reg. 11 in operation at 5.2.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/11/regulation/1/1)
+[^c-75e582e5985be79aceba1056af500d78]: Commencement: Reg. 11 in operation at 5.2.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/11/regulation/1/1)
 
-[^key-483040535710c8fb4732e43f5546b685]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/nisr/1996/11/regulation/11) revoked in part (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-483040535710c8fb4732e43f5546b685]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/nisr/1996/11/regulation/11) revoked in part (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-9c5fd4b251bedfa4c06ac71b712f58e6]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/nisr/1996/11/regulation/11/3) revoked (3.4.2000) by [The Social Security (Immigration and Asylum) Consequential Amendments Regulations (Northern Ireland) 2000 (S.R. 2000/71)](https://www.legislation.gov.uk/nisr/2000/71), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1), [12(2)](https://www.legislation.gov.uk/nisr/2000/71/regulation/12/2) (with [reg. 11(8)](https://www.legislation.gov.uk/nisr/2000/71/regulation/11/8))
+[^c-9c5fd4b251bedfa4c06ac71b712f58e6]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/nisr/1996/11/regulation/11/3) revoked (3.4.2000) by [The Social Security (Immigration and Asylum) Consequential Amendments Regulations (Northern Ireland) 2000 (S.R. 2000/71)](https://www.legislation.gov.uk/nisr/2000/71), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1), [12(2)](https://www.legislation.gov.uk/nisr/2000/71/regulation/12/2) (with [reg. 11(8)](https://www.legislation.gov.uk/nisr/2000/71/regulation/11/8))

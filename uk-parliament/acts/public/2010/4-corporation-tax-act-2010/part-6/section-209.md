@@ -22,10 +22,10 @@ summary: ''
 
 (1) For the purposes of this Chapter the value of the net benefit to a charity is—
 
-- (a) the relevant[^key-708e096b68252086208420f855e5991d] value of the qualifying investment, or
+- (a) the relevant[^c-708e096b68252086208420f855e5991d] value of the qualifying investment, or
 - (b) if the charity is, or becomes, subject to a disposal-related obligation, the relevant value of the qualifying investment reduced by the total amount of the disposal-related liabilities of the charity.
 
-(1A)[^key-000582fb2edaa5901f614bd413e2a74f] In subsection (1) “ **relevant value** ” means—
+(1A)[^c-000582fb2edaa5901f614bd413e2a74f] In subsection (1) “ **relevant value** ” means—
 
 - (a) where subsection (1B) applies, the lower of the market value and the acquisition value, and
 - (b) otherwise, the market value.
@@ -41,14 +41,14 @@ summary: ''
 (2) This section is supplemented by—
 
 - (a) section 210 (market value of qualifying investments),
-- (aa)[^key-935452da5a462cf737c2d2c4d5e3228d] section 210A (acquisition value of qualifying investments),
+- (aa)[^c-935452da5a462cf737c2d2c4d5e3228d] section 210A (acquisition value of qualifying investments),
 - (b) section 211 (meaning of disposal-related obligation), and
 - (c) section 212 (meaning and amount of disposal-related liability).
 
 ## Annotations
 
-[^key-708e096b68252086208420f855e5991d]: Textual amendment: Word in s. 209(1) substituted (with effect in accordance with Sch. 7 paras. 9, 10 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 7 para. 6(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/7/paragraph/6/2)
+[^c-708e096b68252086208420f855e5991d]: Textual amendment: Word in s. 209(1) substituted (with effect in accordance with Sch. 7 paras. 9, 10 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 7 para. 6(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/7/paragraph/6/2)
 
-[^key-000582fb2edaa5901f614bd413e2a74f]: Textual amendment: S. 209(1A)-(1C) inserted (with effect in accordance with Sch. 7 paras. 9, 10 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 7 para. 6(3)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/7/paragraph/6/3)
+[^c-000582fb2edaa5901f614bd413e2a74f]: Textual amendment: S. 209(1A)-(1C) inserted (with effect in accordance with Sch. 7 paras. 9, 10 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 7 para. 6(3)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/7/paragraph/6/3)
 
-[^key-935452da5a462cf737c2d2c4d5e3228d]: Textual amendment: S. 209(2)(aa) inserted (with effect in accordance with Sch. 7 paras. 9, 10 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 7 para. 6(4)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/7/paragraph/6/4)
+[^c-935452da5a462cf737c2d2c4d5e3228d]: Textual amendment: S. 209(2)(aa) inserted (with effect in accordance with Sch. 7 paras. 9, 10 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 7 para. 6(4)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/7/paragraph/6/4)

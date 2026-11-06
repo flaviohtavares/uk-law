@@ -22,10 +22,10 @@ summary: ''
 
 (1) A worker may present a complaint to an employment tribunal[^c14515011] that his employer has made a deduction from his wages in contravention of section 68—
 
-- (a) within the period of six[^key-d27fedd1352ec474ed892732ccb68290] months beginning with the date of the payment of the wages from which the deduction, or (if the complaint relates to more than one deduction) the last of the deductions, was made, or
+- (a) within the period of six[^c-d27fedd1352ec474ed892732ccb68290] months beginning with the date of the payment of the wages from which the deduction, or (if the complaint relates to more than one deduction) the last of the deductions, was made, or
 - (b) where the tribunal is satisfied that it was not reasonably practicable for the complaint to be presented within that period, within such further period as the tribunal considers reasonable.
 
-(1A)[^key-4804074b63ec6fac5f91095dd8e5a81c] Section 292A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of subsection (1)(a).
+(1A)[^c-4804074b63ec6fac5f91095dd8e5a81c] Section 292A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of subsection (1)(a).
 
 (2)[^c14515021] Where a tribunal finds that a complaint under this section is well founded, it shall make a declaration to that effect and shall order the employer to pay to the worker the whole amount of the deduction, less any such part of the amount as has already been paid to the worker by the employer.
 
@@ -43,9 +43,9 @@ summary: ''
 
 [^c14515011]: Textual amendment: Words in s. 68A(1)(3) substituted (1.8.1998) by [1998 c. 8](https://www.legislation.gov.uk/ukpga/1998/8), [s. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2/a) (with [s. 16(2)](https://www.legislation.gov.uk/ukpga/1998/8/section/16/2)); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)
 
-[^key-d27fedd1352ec474ed892732ccb68290]: Textual amendment: Word in [s. 68A(1)(a)](https://www.legislation.gov.uk/ukpga/1992/52/section/68A/1/a) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 2(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/2/3); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-d27fedd1352ec474ed892732ccb68290]: Textual amendment: Word in [s. 68A(1)(a)](https://www.legislation.gov.uk/ukpga/1992/52/section/68A/1/a) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 2(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/2/3); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-4804074b63ec6fac5f91095dd8e5a81c]: Textual amendment: [S. 68A(1A)](https://www.legislation.gov.uk/ukpga/1992/52/section/68A/1A) inserted (6.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2013/24/schedule/2/paragraph/3); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(g)](https://www.legislation.gov.uk/uksi/2014/253/article/3/g)
+[^c-4804074b63ec6fac5f91095dd8e5a81c]: Textual amendment: [S. 68A(1A)](https://www.legislation.gov.uk/ukpga/1992/52/section/68A/1A) inserted (6.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2013/24/schedule/2/paragraph/3); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(g)](https://www.legislation.gov.uk/uksi/2014/253/article/3/g)
 
 [^c14515021]: Textual amendment: S. 68A(2) substituted (23.6.1998) by [S.I. 1998/1529](https://www.legislation.gov.uk/uksi/1998/1529), [arts. 2(2)](https://www.legislation.gov.uk/uksi/1998/1529/article/2/2), [3](https://www.legislation.gov.uk/uksi/1998/1529/article/3)
 

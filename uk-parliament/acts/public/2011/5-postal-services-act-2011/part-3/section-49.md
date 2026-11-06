@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Essential conditions[^key-d8b420a02800aff43e00c72e2ffd8d37]
+## 49. Essential conditions[^c-d8b420a02800aff43e00c72e2ffd8d37]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8b420a02800aff43e00c72e2ffd8d37]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2011/5/section/49) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-d8b420a02800aff43e00c72e2ffd8d37]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2011/5/section/49) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

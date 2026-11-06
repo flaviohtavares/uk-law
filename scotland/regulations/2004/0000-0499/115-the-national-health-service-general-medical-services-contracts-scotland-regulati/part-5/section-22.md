@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Finance[^key-3ea51d00e864fecfa7e4cfe0d94212dd]
+## 22. Finance[^c-3ea51d00e864fecfa7e4cfe0d94212dd]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3ea51d00e864fecfa7e4cfe0d94212dd]: Commencement: Reg. 22 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-3ea51d00e864fecfa7e4cfe0d94212dd]: Commencement: Reg. 22 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00053]: Footnote: Section 17M was inserted into the Act by section 4 of the 2004 Act.

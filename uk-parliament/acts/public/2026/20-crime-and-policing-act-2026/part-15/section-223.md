@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 223. Applications without notice[^key-23cc49a47aa68186bb80c5106ce33c48]
+## 223. Applications without notice[^c-23cc49a47aa68186bb80c5106ce33c48]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23cc49a47aa68186bb80c5106ce33c48]: Commencement: S. 223 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-23cc49a47aa68186bb80c5106ce33c48]: Commencement: S. 223 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

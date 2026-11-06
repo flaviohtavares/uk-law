@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Amendments of the Financial Services and Markets Act 2000[^key-f2665ea9ee762356d6c1b2d404b1b3af]
+## 38. Amendments of the Financial Services and Markets Act 2000[^c-f2665ea9ee762356d6c1b2d404b1b3af]
 
 *Extent: E+W+S*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2665ea9ee762356d6c1b2d404b1b3af]: Commencement: S. 38 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)
+[^c-f2665ea9ee762356d6c1b2d404b1b3af]: Commencement: S. 38 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)

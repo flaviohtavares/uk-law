@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Personal reliefs for non-resident EEA nationals.[^key-0af83b9aca71580dbed5c77398866795]
+## 145. Personal reliefs for non-resident EEA nationals.[^c-0af83b9aca71580dbed5c77398866795]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0af83b9aca71580dbed5c77398866795]: Textual amendment: [S. 145](https://www.legislation.gov.uk/ukpga/1996/8/section/145) omitted (with effect in accordance with s. 70(4) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 70(3)](https://www.legislation.gov.uk/ukpga/2008/9/section/70/3)
+[^c-0af83b9aca71580dbed5c77398866795]: Textual amendment: [S. 145](https://www.legislation.gov.uk/ukpga/1996/8/section/145) omitted (with effect in accordance with s. 70(4) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 70(3)](https://www.legislation.gov.uk/ukpga/2008/9/section/70/3)

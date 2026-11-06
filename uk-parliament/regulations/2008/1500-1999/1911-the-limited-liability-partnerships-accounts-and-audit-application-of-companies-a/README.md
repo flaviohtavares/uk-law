@@ -42,7 +42,7 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 15 and 17 of the Limited Liability Partnerships Act 2000 [^c19348581] and sections 1210(1)(h) and 1292(2) of the Companies Act 2006 [^c19348591].
 
-In accordance with section 17(4) and (5)(b) of the Limited Liability Partnerships Act 2000 and sections 1290 and 1292(4) of the Companies Act 2006, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.[^key-0494d1cdd5e4305a51a450d34964f754][^key-15055e073b8f5931cda35aba77a00d21]
+In accordance with section 17(4) and (5)(b) of the Limited Liability Partnerships Act 2000 and sections 1290 and 1292(4) of the Companies Act 2006, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.[^c-0494d1cdd5e4305a51a450d34964f754][^c-15055e073b8f5931cda35aba77a00d21]
 
 ## Contents
 
@@ -81,11 +81,11 @@ In accordance with section 17(4) and (5)(b) of the Limited Liability Partnership
 - [Section 12 — Approval and signing of accounts](part-5/section-12.md)
 - [Section 12A — Strategic report](part-5/section-12a.md)
 
-### PART 5A — ENERGY AND CARBON REPORT[^key-5672f5e9669c132bd5ffabd95bc526cc]
+### PART 5A — ENERGY AND CARBON REPORT[^c-5672f5e9669c132bd5ffabd95bc526cc]
 
 - [Section 12B — Energy and carbon report](part-5a/section-12b.md)
 
-### PART 6 — PUBLICATION OF ACCOUNTS AND REPORTS[^key-3a91c43ce70eceb39809c39c65dafab0]
+### PART 6 — PUBLICATION OF ACCOUNTS AND REPORTS[^c-3a91c43ce70eceb39809c39c65dafab0]
 
 *Extent: E+W+S+N.I.*
 
@@ -94,7 +94,7 @@ In accordance with section 17(4) and (5)(b) of the Limited Liability Partnership
 - [Section 15 — Right of member or debenture holder to copies of accounts and reports](part-6/section-15.md)
 - [Section 16 — Requirements in connection with publication of accounts and reports](part-6/section-16.md)
 
-### PART 7 — FILING OF ACCOUNTS AND REPORTS[^key-1ed7f6c9a2092982df797b12d044f290]
+### PART 7 — FILING OF ACCOUNTS AND REPORTS[^c-1ed7f6c9a2092982df797b12d044f290]
 
 *Extent: E+W+S+N.I.*
 
@@ -106,14 +106,14 @@ In accordance with section 17(4) and (5)(b) of the Limited Liability Partnership
 - [Section 21 — Approval and signing of abbreviated accounts](part-7/section-21.md)
 - [Section 22 — Failure to file accounts and reports](part-7/section-22.md)
 
-### PART 8 — REVISION OF DEFECTIVE ACCOUNTS AND REPORTS[^key-75c0ab3eeff8e90f45ab7eacfea0605f]
+### PART 8 — REVISION OF DEFECTIVE ACCOUNTS AND REPORTS[^c-75c0ab3eeff8e90f45ab7eacfea0605f]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 23 — Revision of defective accounts , strategic report or energy and carbon report](part-8/section-23.md)
 - [Section 24 — Disclosure of information](part-8/section-24.md)
 
-### PART 9 — ACCOUNTS AND REPORTS: SUPPLEMENTARY PROVISIONS[^key-01dd1834bb9a547488af6911d57dd460]
+### PART 9 — ACCOUNTS AND REPORTS: SUPPLEMENTARY PROVISIONS[^c-01dd1834bb9a547488af6911d57dd460]
 
 *Extent: E+W+S+N.I.*
 
@@ -243,16 +243,16 @@ An Impact Assessment of the effect that these Regulations will have on the costs
 
 [^c19348591]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-0494d1cdd5e4305a51a450d34964f754]: Modification: Regulations applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
+[^c-0494d1cdd5e4305a51a450d34964f754]: Modification: Regulations applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
 
-[^key-15055e073b8f5931cda35aba77a00d21]: Modification: Regulations modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
+[^c-15055e073b8f5931cda35aba77a00d21]: Modification: Regulations modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
 
-[^key-5672f5e9669c132bd5ffabd95bc526cc]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2008/1911/part/5A) inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [10](https://www.legislation.gov.uk/uksi/2018/1155/regulation/10)
+[^c-5672f5e9669c132bd5ffabd95bc526cc]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2008/1911/part/5A) inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [10](https://www.legislation.gov.uk/uksi/2018/1155/regulation/10)
 
-[^key-3a91c43ce70eceb39809c39c65dafab0]: Textual amendment: Words in [Pt. 6](https://www.legislation.gov.uk/uksi/2008/1911/part/6) heading substituted (with effect for financial years beginning on or after 6.4.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [regs. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [5](https://www.legislation.gov.uk/uksi/2021/153/regulation/5)
+[^c-3a91c43ce70eceb39809c39c65dafab0]: Textual amendment: Words in [Pt. 6](https://www.legislation.gov.uk/uksi/2008/1911/part/6) heading substituted (with effect for financial years beginning on or after 6.4.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [regs. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [5](https://www.legislation.gov.uk/uksi/2021/153/regulation/5)
 
-[^key-1ed7f6c9a2092982df797b12d044f290]: Textual amendment: Words in [Pt. 7](https://www.legislation.gov.uk/uksi/2008/1911/part/7) heading substituted (with effect for financial years beginning on or after 6.4.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [regs. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [10](https://www.legislation.gov.uk/uksi/2021/153/regulation/10)
+[^c-1ed7f6c9a2092982df797b12d044f290]: Textual amendment: Words in [Pt. 7](https://www.legislation.gov.uk/uksi/2008/1911/part/7) heading substituted (with effect for financial years beginning on or after 6.4.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [regs. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [10](https://www.legislation.gov.uk/uksi/2021/153/regulation/10)
 
-[^key-75c0ab3eeff8e90f45ab7eacfea0605f]: Textual amendment: Words in [Pt. 8](https://www.legislation.gov.uk/uksi/2008/1911/part/8) heading substituted (with effect for financial years beginning on or after 6.4.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [regs. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [14](https://www.legislation.gov.uk/uksi/2021/153/regulation/14)
+[^c-75c0ab3eeff8e90f45ab7eacfea0605f]: Textual amendment: Words in [Pt. 8](https://www.legislation.gov.uk/uksi/2008/1911/part/8) heading substituted (with effect for financial years beginning on or after 6.4.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [regs. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [14](https://www.legislation.gov.uk/uksi/2021/153/regulation/14)
 
-[^key-01dd1834bb9a547488af6911d57dd460]: Textual amendment: Words in [Pt. 9](https://www.legislation.gov.uk/uksi/2008/1911/part/9) heading inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [23](https://www.legislation.gov.uk/uksi/2018/1155/regulation/23)
+[^c-01dd1834bb9a547488af6911d57dd460]: Textual amendment: Words in [Pt. 9](https://www.legislation.gov.uk/uksi/2008/1911/part/9) heading inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [23](https://www.legislation.gov.uk/uksi/2018/1155/regulation/23)

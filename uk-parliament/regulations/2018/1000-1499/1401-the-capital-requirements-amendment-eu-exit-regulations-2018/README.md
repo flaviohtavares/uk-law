@@ -34,7 +34,7 @@ Exiting The European Union
 
 Financial Services And Markets
 
-The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (revoked)[^key-0c673ad1d0b2c0780cec06a72f7c5bf9]
+The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (revoked)[^c-0c673ad1d0b2c0780cec06a72f7c5bf9]
 
 Made
 
@@ -42,18 +42,18 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-0c673ad1d0b2c0780cec06a72f7c5bf9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c673ad1d0b2c0780cec06a72f7c5bf9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introduction[^key-0c673ad1d0b2c0780cec06a72f7c5bf9]
+### PART 1 — Introduction[^c-0c673ad1d0b2c0780cec06a72f7c5bf9]
 
 **No longer in force.**
 
 - [Section 1 — Citation and commencement](part-1/section-1.md)
 - [Section 2 — Interpretation](part-1/section-2.md)
 
-### PART 2 — Amendment of secondary legislation: European Communities Act 1972[^key-0c673ad1d0b2c0780cec06a72f7c5bf9]
+### PART 2 — Amendment of secondary legislation: European Communities Act 1972[^c-0c673ad1d0b2c0780cec06a72f7c5bf9]
 
 **No longer in force.**
 
@@ -62,13 +62,13 @@ Coming into force in accordance with regulation 1
 - [Section 5 — 2013 Reporting Regulations](part-2/section-5.md)
 - [Section 6 — 2014 Regulations](part-2/section-6.md)
 
-### PART 3 — Amendment of secondary legislation: European Union (Withdrawal) Act 2018[^key-0c673ad1d0b2c0780cec06a72f7c5bf9]
+### PART 3 — Amendment of secondary legislation: European Union (Withdrawal) Act 2018[^c-0c673ad1d0b2c0780cec06a72f7c5bf9]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER 1 — Amendment of 2008 Regulations[^key-0c673ad1d0b2c0780cec06a72f7c5bf9]
+#### CHAPTER 1 — Amendment of 2008 Regulations[^c-0c673ad1d0b2c0780cec06a72f7c5bf9]
 
 **No longer in force.**
 
@@ -76,7 +76,7 @@ Coming into force in accordance with regulation 1
 - [Section 8 — Regulation 2 (eligible property)](part-3/section-8.md)
 - [Section 9 — Regulation 41 (notification of the Commission)](part-3/section-9.md)
 
-#### CHAPTER 2 — Amendment of 2013 Regulations[^key-0c673ad1d0b2c0780cec06a72f7c5bf9]
+#### CHAPTER 2 — Amendment of 2013 Regulations[^c-0c673ad1d0b2c0780cec06a72f7c5bf9]
 
 **No longer in force.**
 
@@ -100,7 +100,7 @@ Coming into force in accordance with regulation 1
 - [Section 27 — Regulation 39 (meaning of “permission” and “protected item” in this part)](part-3/section-27.md)
 - [Section 28 — Regulation 45 (misleading the PRA or FCA)](part-3/section-28.md)
 
-#### CHAPTER 3 — Amendment of the 2013 Reporting Regulations[^key-0c673ad1d0b2c0780cec06a72f7c5bf9]
+#### CHAPTER 3 — Amendment of the 2013 Reporting Regulations[^c-0c673ad1d0b2c0780cec06a72f7c5bf9]
 
 **No longer in force.**
 
@@ -110,7 +110,7 @@ Coming into force in accordance with regulation 1
 - [Section 32 — Regulation 3 (interim reporting obligation)](part-3/section-32.md)
 - [Section 33 — Regulation 5 (prior disclosure: prevention of duplication)](part-3/section-33.md)
 
-#### CHAPTER 4 — Amendment of the 2014 Regulations[^key-0c673ad1d0b2c0780cec06a72f7c5bf9]
+#### CHAPTER 4 — Amendment of the 2014 Regulations[^c-0c673ad1d0b2c0780cec06a72f7c5bf9]
 
 *Extent: E+W+S+N.I.*
 
@@ -149,11 +149,11 @@ Coming into force in accordance with regulation 1
 - [Section 60 — Part 5A (Systemic Risk Buffer)](part-3/section-60.md)
 - [Section 60A — Combined buffer requirement](part-3/section-60a.md)
 
-### PART 4 — Amendment of retained direct EU legislation[^key-0c673ad1d0b2c0780cec06a72f7c5bf9]
+### PART 4 — Amendment of retained direct EU legislation[^c-0c673ad1d0b2c0780cec06a72f7c5bf9]
 
 **No longer in force.**
 
-#### CHAPTER 1 — Amendment of the Capital Requirements Regulation[^key-0c673ad1d0b2c0780cec06a72f7c5bf9]
+#### CHAPTER 1 — Amendment of the Capital Requirements Regulation[^c-0c673ad1d0b2c0780cec06a72f7c5bf9]
 
 **No longer in force.**
 
@@ -317,14 +317,14 @@ Coming into force in accordance with regulation 1
 - [Section 218 — Annex II (types of derivative)](part-4/section-218.md)
 - [Section 219 — Annex III (items subject to supplementary reporting of liquid assets)](part-4/section-219.md)
 
-#### CHAPTER 2 — Amendment of Capital Requirements Regulation to transfer powers to the Treasury[^key-0c673ad1d0b2c0780cec06a72f7c5bf9]
+#### CHAPTER 2 — Amendment of Capital Requirements Regulation to transfer powers to the Treasury[^c-0c673ad1d0b2c0780cec06a72f7c5bf9]
 
 **No longer in force.**
 
 - [Section 220 — General transfer of powers to the Treasury](part-4/section-220.md)
 - [Section 221 — Specific transfer of powers to the Treasury](part-4/section-221.md)
 
-#### CHAPTER 3 — Amendment of Capital Requirements Regulation to transfer powers to the FCA and PRA[^key-0c673ad1d0b2c0780cec06a72f7c5bf9]
+#### CHAPTER 3 — Amendment of Capital Requirements Regulation to transfer powers to the FCA and PRA[^c-0c673ad1d0b2c0780cec06a72f7c5bf9]
 
 **No longer in force.**
 
@@ -333,7 +333,7 @@ Coming into force in accordance with regulation 1
 - [Section 224 — Other functions transferred](part-4/section-224.md)
 - [Section 225 — Amendment to use of term “competent authorities”](part-4/section-225.md)
 
-#### CHAPTER 4 — Amendment of Liquidity Commission Delegated Regulation[^key-0c673ad1d0b2c0780cec06a72f7c5bf9]
+#### CHAPTER 4 — Amendment of Liquidity Commission Delegated Regulation[^c-0c673ad1d0b2c0780cec06a72f7c5bf9]
 
 **No longer in force.**
 
@@ -364,7 +364,7 @@ Coming into force in accordance with regulation 1
 - [Section 250 — Article 36 (transitional provision for Member State-sponsored impaired asset management agencies)](part-4/section-250.md)
 - [Section 251 — Final provision](part-4/section-251.md)
 
-#### CHAPTER 5 — Amendment of G-SII Commission Delegated Regulation[^key-0c673ad1d0b2c0780cec06a72f7c5bf9]
+#### CHAPTER 5 — Amendment of G-SII Commission Delegated Regulation[^c-0c673ad1d0b2c0780cec06a72f7c5bf9]
 
 **No longer in force.**
 
@@ -376,12 +376,12 @@ Coming into force in accordance with regulation 1
 
 **No longer in force.**
 
-[^key-0c673ad1d0b2c0780cec06a72f7c5bf9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c673ad1d0b2c0780cec06a72f7c5bf9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
-[^key-0c673ad1d0b2c0780cec06a72f7c5bf9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c673ad1d0b2c0780cec06a72f7c5bf9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0c673ad1d0b2c0780cec06a72f7c5bf9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/1401) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-0c673ad1d0b2c0780cec06a72f7c5bf9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/1401) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. When electricity used in a permitted way for NIROCs certifying matters within Article 54(5) or (6) of the Energy Order[^key-d851054bb19e940a9462abc5aba8421d]
+## 16. When electricity used in a permitted way for NIROCs certifying matters within Article 54(5) or (6) of the Energy Order[^c-d851054bb19e940a9462abc5aba8421d]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d851054bb19e940a9462abc5aba8421d]: Commencement: Art. 16 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-d851054bb19e940a9462abc5aba8421d]: Commencement: Art. 16 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)

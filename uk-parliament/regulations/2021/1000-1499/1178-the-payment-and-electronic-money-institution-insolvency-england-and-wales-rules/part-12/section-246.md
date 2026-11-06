@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 246. Provable debts[^key-ae630848cc7e92553013057f2cc2adb9]
+## 246. Provable debts[^c-ae630848cc7e92553013057f2cc2adb9]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ae630848cc7e92553013057f2cc2adb9]: Commencement: Rule 246 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-ae630848cc7e92553013057f2cc2adb9]: Commencement: Rule 246 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
 
 [^f00026]: Footnote: [2002 c. 9](https://www.legislation.gov.uk/ukpga/2002/9).
 

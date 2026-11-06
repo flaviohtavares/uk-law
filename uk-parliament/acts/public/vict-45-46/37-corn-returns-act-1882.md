@@ -29,103 +29,103 @@ Corn Returns Act 1882 (repealed)
 
 1882 c.37
 
-[^key-1dbde86628992b4691c23ad9f9d89d1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1dbde86628992b4691c23ad9f9d89d1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Short title.[^key-1dbde86628992b4691c23ad9f9d89d1e][^key-1dbde86628992b4691c23ad9f9d89d1e]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Extent of Act.[^key-1dbde86628992b4691c23ad9f9d89d1e][^key-1dbde86628992b4691c23ad9f9d89d1e]
+## 1. Short title.[^c-1dbde86628992b4691c23ad9f9d89d1e][^c-1dbde86628992b4691c23ad9f9d89d1e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-1dbde86628992b4691c23ad9f9d89d1e][^key-1dbde86628992b4691c23ad9f9d89d1e]
-
-**May not be in force at this date. Check the source.**
-
-## 4. Return from towns of purchases of British corn, and publication of average price.[^key-1dbde86628992b4691c23ad9f9d89d1e][^key-1dbde86628992b4691c23ad9f9d89d1e]
+## 2. Extent of Act.[^c-1dbde86628992b4691c23ad9f9d89d1e][^c-1dbde86628992b4691c23ad9f9d89d1e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-1dbde86628992b4691c23ad9f9d89d1e][^key-1dbde86628992b4691c23ad9f9d89d1e]
+## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-1dbde86628992b4691c23ad9f9d89d1e][^c-1dbde86628992b4691c23ad9f9d89d1e]
 
 **May not be in force at this date. Check the source.**
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 7. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-1dbde86628992b4691c23ad9f9d89d1e][^key-1dbde86628992b4691c23ad9f9d89d1e]
-
-**May not be in force at this date. Check the source.**
-
-## 8.[^key-1dbde86628992b4691c23ad9f9d89d1e][^key-1dbde86628992b4691c23ad9f9d89d1e]
-
-**May not be in force at this date. Check the source.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 9. Computation and publication of averages by Board of Trade.[^key-1dbde86628992b4691c23ad9f9d89d1e][^key-1dbde86628992b4691c23ad9f9d89d1e]
+## 4. Return from towns of purchases of British corn, and publication of average price.[^c-1dbde86628992b4691c23ad9f9d89d1e][^c-1dbde86628992b4691c23ad9f9d89d1e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-1dbde86628992b4691c23ad9f9d89d1e][^key-1dbde86628992b4691c23ad9f9d89d1e]
+## 5.[^c-1dbde86628992b4691c23ad9f9d89d1e][^c-1dbde86628992b4691c23ad9f9d89d1e]
 
 **May not be in force at this date. Check the source.**
 
-## 11. Penalty for failure to make return.[^key-1dbde86628992b4691c23ad9f9d89d1e][^key-1dbde86628992b4691c23ad9f9d89d1e]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-1dbde86628992b4691c23ad9f9d89d1e][^c-1dbde86628992b4691c23ad9f9d89d1e]
+
+**May not be in force at this date. Check the source.**
+
+## 8.[^c-1dbde86628992b4691c23ad9f9d89d1e][^c-1dbde86628992b4691c23ad9f9d89d1e]
+
+**May not be in force at this date. Check the source.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Computation and publication of averages by Board of Trade.[^c-1dbde86628992b4691c23ad9f9d89d1e][^c-1dbde86628992b4691c23ad9f9d89d1e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Penalty for false return.[^key-1dbde86628992b4691c23ad9f9d89d1e][^key-1dbde86628992b4691c23ad9f9d89d1e]
+## 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-1dbde86628992b4691c23ad9f9d89d1e][^c-1dbde86628992b4691c23ad9f9d89d1e]
+
+**May not be in force at this date. Check the source.**
+
+## 11. Penalty for failure to make return.[^c-1dbde86628992b4691c23ad9f9d89d1e][^c-1dbde86628992b4691c23ad9f9d89d1e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-1dbde86628992b4691c23ad9f9d89d1e][^key-1dbde86628992b4691c23ad9f9d89d1e]
-
-**May not be in force at this date. Check the source.**
-
-## 14. Regulations as to execution of Act and supply of books, &c.[^key-1dbde86628992b4691c23ad9f9d89d1e][^key-1dbde86628992b4691c23ad9f9d89d1e]
+## 12. Penalty for false return.[^c-1dbde86628992b4691c23ad9f9d89d1e][^c-1dbde86628992b4691c23ad9f9d89d1e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Expenses.[^key-1dbde86628992b4691c23ad9f9d89d1e][^key-1dbde86628992b4691c23ad9f9d89d1e]
+## 13. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-1dbde86628992b4691c23ad9f9d89d1e][^c-1dbde86628992b4691c23ad9f9d89d1e]
+
+**May not be in force at this date. Check the source.**
+
+## 14. Regulations as to execution of Act and supply of books, &c.[^c-1dbde86628992b4691c23ad9f9d89d1e][^c-1dbde86628992b4691c23ad9f9d89d1e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-1dbde86628992b4691c23ad9f9d89d1e][^key-1dbde86628992b4691c23ad9f9d89d1e]
-
-**May not be in force at this date. Check the source.**
-
-## 17. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-1dbde86628992b4691c23ad9f9d89d1e][^key-1dbde86628992b4691c23ad9f9d89d1e]
-
-**May not be in force at this date. Check the source.**
-
-## 18. Definitions.[^key-1dbde86628992b4691c23ad9f9d89d1e][^key-1dbde86628992b4691c23ad9f9d89d1e]
+## 15. Expenses.[^c-1dbde86628992b4691c23ad9f9d89d1e][^c-1dbde86628992b4691c23ad9f9d89d1e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-1dbde86628992b4691c23ad9f9d89d1e][^key-1dbde86628992b4691c23ad9f9d89d1e]
+## 16. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-1dbde86628992b4691c23ad9f9d89d1e][^c-1dbde86628992b4691c23ad9f9d89d1e]
 
 **May not be in force at this date. Check the source.**
 
-## SCHEDULE[^key-1dbde86628992b4691c23ad9f9d89d1e]
+## 17. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-1dbde86628992b4691c23ad9f9d89d1e][^c-1dbde86628992b4691c23ad9f9d89d1e]
+
+**May not be in force at this date. Check the source.**
+
+## 18. Definitions.[^c-1dbde86628992b4691c23ad9f9d89d1e][^c-1dbde86628992b4691c23ad9f9d89d1e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 19. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-1dbde86628992b4691c23ad9f9d89d1e][^c-1dbde86628992b4691c23ad9f9d89d1e]
+
+**May not be in force at this date. Check the source.**
+
+## SCHEDULE[^c-1dbde86628992b4691c23ad9f9d89d1e]
 
 **No longer in force.**
 
@@ -133,4 +133,4 @@ Corn Returns Act 1882 (repealed)
 
 ## Annotations
 
-[^key-1dbde86628992b4691c23ad9f9d89d1e]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/45-46/37) repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
+[^c-1dbde86628992b4691c23ad9f9d89d1e]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/45-46/37) repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))

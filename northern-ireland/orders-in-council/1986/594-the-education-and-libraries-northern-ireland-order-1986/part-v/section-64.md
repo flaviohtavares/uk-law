@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) If it appears to the Authority[^key-b411148a1ff6ad3f10e8cd22b37183f6] that a child who is a registered pupil at a school is being employed in such manner as to be prejudicial to his health or otherwise to render him unfit to obtain the full benefit of the education provided for him, the Authority may, by notice in writing served on the employer, prohibit him from employing the child or impose such restrictions on his employment of the child as appears to it to be expedient in the interests of the child.
+(1) If it appears to the Authority[^c-b411148a1ff6ad3f10e8cd22b37183f6] that a child who is a registered pupil at a school is being employed in such manner as to be prejudicial to his health or otherwise to render him unfit to obtain the full benefit of the education provided for him, the Authority may, by notice in writing served on the employer, prohibit him from employing the child or impose such restrictions on his employment of the child as appears to it to be expedient in the interests of the child.
 
 (2) A board may, by notice in writing served on the parent or employer of a child who is a registered pupil at a school, require the parent or employer to furnish to the Authority , within such time as may be specified in the notice, such information as appears to the Authority to be necessary for the purpose of enabling it to ascertain whether the child is being employed in such a manner as to render him unfit to obtain the full benefit of the education provided for him.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

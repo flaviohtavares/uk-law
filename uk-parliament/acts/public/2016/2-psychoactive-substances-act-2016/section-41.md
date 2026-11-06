@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Powers of examination, etc[^key-af5b63a804a7202efa5a9c6a1bc557e9]
+## 41. Powers of examination, etc[^c-af5b63a804a7202efa5a9c6a1bc557e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ the officer may, so far as is reasonably necessary for that purpose, break open 
 
 ## Annotations
 
-[^key-af5b63a804a7202efa5a9c6a1bc557e9]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2016/2/section/41) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-af5b63a804a7202efa5a9c6a1bc557e9]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2016/2/section/41) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

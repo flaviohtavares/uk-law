@@ -23,9 +23,9 @@ summary: ''
 (1) A canvass under section 10(1A) must be conducted in—
 
 - (a) the year 2010, unless the Secretary of State makes an order providing that the requirement in this paragraph does not apply;
-- (aa)[^key-f736f486c86b0b95911c4483812cee2c] the year 2021;
+- (aa)[^c-f736f486c86b0b95911c4483812cee2c] the year 2021;
 - (ab) the year 2030;
-- (b) every tenth year following 2030[^key-d91fbd03c384a843b568a8991f4e1389].
+- (b) every tenth year following 2030[^c-d91fbd03c384a843b568a8991f4e1389].
 
 (2) A canvass under section 10(1A) must be conducted in an intervening year if—
 
@@ -37,9 +37,9 @@ summary: ''
 (4) “**Intervening year**” means a year other than—
 
 - (a) 2010,
-- (b)[^key-a69c325ea13e2d90eee752302ba19e95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-a69c325ea13e2d90eee752302ba19e95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) if no canvass under section 10(1A) is conducted before the end of 2015, 2016,
-- (d)[^key-4f29a01f33301b350bafa6ec4abf9d4a] 2021,
+- (d)[^c-4f29a01f33301b350bafa6ec4abf9d4a] 2021,
 - (e) 2030, and
 - (f) every tenth year following 2030.
 
@@ -60,10 +60,10 @@ summary: ''
 
 [^c19418891]: Textual amendment: S. 10ZA inserted (1.12.2006) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 3](https://www.legislation.gov.uk/ukpga/2006/33/section/3), [31](https://www.legislation.gov.uk/ukpga/2006/33/section/31); [S.I. 2006/2688](https://www.legislation.gov.uk/uksi/2006/2688), [art. 3(1)(2)(a)](https://www.legislation.gov.uk/uksi/2006/2688/article/3/1/2/a)
 
-[^key-f736f486c86b0b95911c4483812cee2c]: Textual amendment: S. 10ZA(1)(aa)(ab) inserted (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 64(2)(a)](https://www.legislation.gov.uk/ukpga/2020/7/section/64/2/a), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1)
+[^c-f736f486c86b0b95911c4483812cee2c]: Textual amendment: S. 10ZA(1)(aa)(ab) inserted (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 64(2)(a)](https://www.legislation.gov.uk/ukpga/2020/7/section/64/2/a), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1)
 
-[^key-d91fbd03c384a843b568a8991f4e1389]: Textual amendment: Word in s. 10ZA(1)(b) substituted (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 64(2)(b)](https://www.legislation.gov.uk/ukpga/2020/7/section/64/2/b), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1)
+[^c-d91fbd03c384a843b568a8991f4e1389]: Textual amendment: Word in s. 10ZA(1)(b) substituted (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 64(2)(b)](https://www.legislation.gov.uk/ukpga/2020/7/section/64/2/b), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1)
 
-[^key-a69c325ea13e2d90eee752302ba19e95]: Textual amendment: S. 10ZA(4)(b) and following word omitted (25.3.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 64(3)(a)](https://www.legislation.gov.uk/ukpga/2020/7/section/64/3/a), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1)
+[^c-a69c325ea13e2d90eee752302ba19e95]: Textual amendment: S. 10ZA(4)(b) and following word omitted (25.3.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 64(3)(a)](https://www.legislation.gov.uk/ukpga/2020/7/section/64/3/a), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1)
 
-[^key-4f29a01f33301b350bafa6ec4abf9d4a]: Textual amendment: S. 10ZA(4)(d)-(f) inserted (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 64(3)(b)](https://www.legislation.gov.uk/ukpga/2020/7/section/64/3/b), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1)
+[^c-4f29a01f33301b350bafa6ec4abf9d4a]: Textual amendment: S. 10ZA(4)(d)-(f) inserted (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 64(3)(b)](https://www.legislation.gov.uk/ukpga/2020/7/section/64/3/b), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1)

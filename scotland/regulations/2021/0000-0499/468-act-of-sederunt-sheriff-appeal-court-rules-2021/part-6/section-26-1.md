@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26.1. Application and interpretation of this Chapter[^key-e6a7c3969211689ab380253cdc289a0d]
+## 26.1. Application and interpretation of this Chapter[^c-e6a7c3969211689ab380253cdc289a0d]
 
 *Extent: S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e6a7c3969211689ab380253cdc289a0d]: Commencement: Para. 26.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-e6a7c3969211689ab380253cdc289a0d]: Commencement: Para. 26.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
 
 [^f00032]: Footnote: [2004 asp 3](https://www.legislation.gov.uk/asp/2004/3), amended by the Children’s Hearings (Scotland) Act [2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), section 176 and schedule 6, paragraph 1; the Victims and Witnesses (Scotland) Act [2014 (asp 1)](https://www.legislation.gov.uk/asp/2014/1), section 22 and is prospectively amended by the Children (Scotland) Act [2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), sections 4 and 5.

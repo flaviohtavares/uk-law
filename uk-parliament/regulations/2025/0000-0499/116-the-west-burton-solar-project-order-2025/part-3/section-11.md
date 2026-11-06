@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Temporary prohibition or restriction of use of streets and public rights of way[^key-b691e1fa47a572283f3ce746d1b3c28a]
+## 11. Temporary prohibition or restriction of use of streets and public rights of way[^c-b691e1fa47a572283f3ce746d1b3c28a]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b691e1fa47a572283f3ce746d1b3c28a]: Commencement: Art. 11 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-b691e1fa47a572283f3ce746d1b3c28a]: Commencement: Art. 11 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)

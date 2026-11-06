@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Construction and maintenance of new, altered or diverted streets and other structures[^key-c3951bc74572f774624d01dbb3b37791]
+## 11. Construction and maintenance of new, altered or diverted streets and other structures[^c-c3951bc74572f774624d01dbb3b37791]
 
 *Extent: E+W*
 
 (1) Any highway (other than a trunk road or special road) to be constructed under this Order must be completed to the reasonable satisfaction of the local highway authority in whose area the highway lies and, unless otherwise agreed in writing between the undertaker and the local highway authority, the highway including any culverts or other structures laid under it, must be maintained by and at the expense of the local highway authority from its completion.
 
-(2) Where a highway (other than a trunk road or special road) is altered or diverted under this Order, the altered or diverted part of the highway must be[^key-00c0578c6812aff9e95a588d28143653] completed to the reasonable satisfaction of the local highway authority in whose area the highway lies and, unless otherwise agreed in writing between the undertaker and the local highway authority, be maintained by and at the expense of the local highway authority from its completion.
+(2) Where a highway (other than a trunk road or special road) is altered or diverted under this Order, the altered or diverted part of the highway must be[^c-00c0578c6812aff9e95a588d28143653] completed to the reasonable satisfaction of the local highway authority in whose area the highway lies and, unless otherwise agreed in writing between the undertaker and the local highway authority, be maintained by and at the expense of the local highway authority from its completion.
 
-(3) Where a street which is not, and is not intended to be a highway is constructed, altered or diverted under this Order, the street (or part of the street as the case may be) must, when completed to the reasonable satisfaction of the street authority[^key-6f960763703a06b643e9a1b8307bc690] and, unless otherwise agreed in writing, be maintained by and at the expense of the undertaker for a period of 12 months from its completion and at the expiry of that period by and at the expense of the street authority.
+(3) Where a street which is not, and is not intended to be a highway is constructed, altered or diverted under this Order, the street (or part of the street as the case may be) must, when completed to the reasonable satisfaction of the street authority[^c-6f960763703a06b643e9a1b8307bc690] and, unless otherwise agreed in writing, be maintained by and at the expense of the undertaker for a period of 12 months from its completion and at the expiry of that period by and at the expense of the street authority.
 
 (4) In the case of a bridge constructed under this Order to carry a highway (other than a trunk road or special road) over a trunk road or special road, the highway surface (being those elements over the waterproofing membrane) must be maintained by and at the expense of the local highway authority unless otherwise agreed in writing between the undertaker and the local highway authority, and the remainder of the bridge, including the waterproofing membrane, and structure below, must be maintained by and at the expense of the undertaker.
 
@@ -42,8 +42,8 @@ but for the purposes of such a defence it is not relevant to prove that the unde
 
 ## Annotations
 
-[^key-c3951bc74572f774624d01dbb3b37791]: Commencement: Art. 11 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
+[^c-c3951bc74572f774624d01dbb3b37791]: Commencement: Art. 11 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
 
-[^key-00c0578c6812aff9e95a588d28143653]: Textual amendment: Words in [art. 11(2)](https://www.legislation.gov.uk/uksi/2022/573/article/11/2) substituted (7.2.2024) by [The M25 Junction 28 Development Consent (Correction) Order 2024 (S.I. 2024/129)](https://www.legislation.gov.uk/uksi/2024/129), [art. 1](https://www.legislation.gov.uk/uksi/2024/129/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/129/schedule)
+[^c-00c0578c6812aff9e95a588d28143653]: Textual amendment: Words in [art. 11(2)](https://www.legislation.gov.uk/uksi/2022/573/article/11/2) substituted (7.2.2024) by [The M25 Junction 28 Development Consent (Correction) Order 2024 (S.I. 2024/129)](https://www.legislation.gov.uk/uksi/2024/129), [art. 1](https://www.legislation.gov.uk/uksi/2024/129/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/129/schedule)
 
-[^key-6f960763703a06b643e9a1b8307bc690]: Textual amendment: Word in [art. 11(3)](https://www.legislation.gov.uk/uksi/2022/573/article/11/3) substituted (7.2.2024) by [The M25 Junction 28 Development Consent (Correction) Order 2024 (S.I. 2024/129)](https://www.legislation.gov.uk/uksi/2024/129), [art. 1](https://www.legislation.gov.uk/uksi/2024/129/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/129/schedule)
+[^c-6f960763703a06b643e9a1b8307bc690]: Textual amendment: Word in [art. 11(3)](https://www.legislation.gov.uk/uksi/2022/573/article/11/3) substituted (7.2.2024) by [The M25 Junction 28 Development Consent (Correction) Order 2024 (S.I. 2024/129)](https://www.legislation.gov.uk/uksi/2024/129), [art. 1](https://www.legislation.gov.uk/uksi/2024/129/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/129/schedule)

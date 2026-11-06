@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Protection of abandonment funds from creditors[^key-066f5a69605206994d9eefc0f541127e]
+## 74. Protection of abandonment funds from creditors[^c-066f5a69605206994d9eefc0f541127e]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-066f5a69605206994d9eefc0f541127e]: Commencement: S. 74 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/2/b/i)
+[^c-066f5a69605206994d9eefc0f541127e]: Commencement: S. 74 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/2/b/i)

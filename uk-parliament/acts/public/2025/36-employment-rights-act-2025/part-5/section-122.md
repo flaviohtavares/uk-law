@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Means of giving notice under section 119[^key-3f58310a59e4141c4494d98b29e5c5f4][^key-a67c2be24d6a38537d1e71f0cbdfa387]
+## 122. Means of giving notice under section 119[^c-3f58310a59e4141c4494d98b29e5c5f4][^c-a67c2be24d6a38537d1e71f0cbdfa387]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3f58310a59e4141c4494d98b29e5c5f4]: Commencement: S. 122 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-3f58310a59e4141c4494d98b29e5c5f4]: Commencement: S. 122 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-a67c2be24d6a38537d1e71f0cbdfa387]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2025/36/section/122) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(23)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/23)
+[^c-a67c2be24d6a38537d1e71f0cbdfa387]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2025/36/section/122) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(23)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/23)

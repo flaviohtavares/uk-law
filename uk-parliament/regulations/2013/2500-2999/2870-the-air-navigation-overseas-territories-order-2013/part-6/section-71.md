@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Gliders, kites and parascending parachutes[^key-674aa192f4a5f552fbb063b63acbdb22]
+## 71. Gliders, kites and parascending parachutes[^c-674aa192f4a5f552fbb063b63acbdb22]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-674aa192f4a5f552fbb063b63acbdb22]: Commencement: [Art. 71](https://www.legislation.gov.uk/uksi/2013/2870/article/71) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-674aa192f4a5f552fbb063b63acbdb22]: Commencement: [Art. 71](https://www.legislation.gov.uk/uksi/2013/2870/article/71) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

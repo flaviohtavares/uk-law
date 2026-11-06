@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Transfer of functions of pre-commencement regulators[^key-416802e6b17989757b5d656115858096][^key-55624ae96091020f8714f4cc1b9e7066]
+## 2. Transfer of functions of pre-commencement regulators[^c-416802e6b17989757b5d656115858096][^c-55624ae96091020f8714f4cc1b9e7066]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-416802e6b17989757b5d656115858096]: Commencement: S. 2 in force at 29.12.2003 for specified purposes by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1)[(3)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-416802e6b17989757b5d656115858096]: Commencement: S. 2 in force at 29.12.2003 for specified purposes by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1)[(3)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-55624ae96091020f8714f4cc1b9e7066]: Commencement: S. 2 in force at 1.4.2004 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 4(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/4/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/3142/schedule/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11)) (as amended (4.3.2004) by [S.I. 2004/545](https://www.legislation.gov.uk/uksi/2004/545), art. 2(2)(3)(a))
+[^c-55624ae96091020f8714f4cc1b9e7066]: Commencement: S. 2 in force at 1.4.2004 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 4(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/4/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/3142/schedule/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11)) (as amended (4.3.2004) by [S.I. 2004/545](https://www.legislation.gov.uk/uksi/2004/545), art. 2(2)(3)(a))

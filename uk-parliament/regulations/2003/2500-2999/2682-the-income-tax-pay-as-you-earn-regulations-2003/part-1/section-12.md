@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Application to other payers and payees[^key-af162bdd666bd5db48b7a221dc1e5088]
+## 12. Application to other payers and payees[^c-af162bdd666bd5db48b7a221dc1e5088]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,8 +30,8 @@ summary: ''
 
 |  |  |
 | --- | --- |
-| [^key-215c2b06633f5fe0990419d46c8093df]. . . | [^key-215c2b06633f5fe0990419d46c8093df]. . . |
-| [^key-215c2b06633f5fe0990419d46c8093df]. . . | [^key-215c2b06633f5fe0990419d46c8093df]. . . |
+| [^c-215c2b06633f5fe0990419d46c8093df]. . . | [^c-215c2b06633f5fe0990419d46c8093df]. . . |
+| [^c-215c2b06633f5fe0990419d46c8093df]. . . | [^c-215c2b06633f5fe0990419d46c8093df]. . . |
 | regulation 85 to 88 | employers: annual return of other earnings |
 | regulation 90 | quarterly return if car becomes available or unavailable |
 | regulation 91 | termination awards: information to be provided |
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-af162bdd666bd5db48b7a221dc1e5088]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2003/2682/regulation/12) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
+[^c-af162bdd666bd5db48b7a221dc1e5088]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2003/2682/regulation/12) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
 
-[^key-215c2b06633f5fe0990419d46c8093df]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/12/2) omitted (6.4.2014) by virtue of [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/4), [7](https://www.legislation.gov.uk/uksi/2013/521/regulation/7)
+[^c-215c2b06633f5fe0990419d46c8093df]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/12/2) omitted (6.4.2014) by virtue of [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/4), [7](https://www.legislation.gov.uk/uksi/2013/521/regulation/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Caldicot — community ward electoral arrangements[^key-70562f1096490044130438073d6899ed][^key-75982c01f42186698d5335ebb5f8eef2]
+## 51. Caldicot — community ward electoral arrangements[^c-70562f1096490044130438073d6899ed][^c-75982c01f42186698d5335ebb5f8eef2]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ In the community of Caldicot the number of councillors to be elected for—
 
 ## Annotations
 
-[^key-70562f1096490044130438073d6899ed]: Commencement: Art. 51 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-70562f1096490044130438073d6899ed]: Commencement: Art. 51 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-75982c01f42186698d5335ebb5f8eef2]: Commencement: [Art. 51](https://www.legislation.gov.uk/wsi/2021/1227/article/51) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-75982c01f42186698d5335ebb5f8eef2]: Commencement: [Art. 51](https://www.legislation.gov.uk/wsi/2021/1227/article/51) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

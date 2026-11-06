@@ -22,7 +22,7 @@ summary: ''
 
 Article 12(3), 13(2), 44(3) and 45(2)
 
-### Part 1 — Percentage of total car registrations for the purpose of calculating CRTS allowances[^key-ec9c2f93f58925ced768331529adb37d]
+### Part 1 — Percentage of total car registrations for the purpose of calculating CRTS allowances[^c-ec9c2f93f58925ced768331529adb37d]
 
 | Scheme year | Percentage of total car registrations for the purpose of calculating CRTS allowances |
 | --- | --- |
@@ -34,7 +34,7 @@ Article 12(3), 13(2), 44(3) and 45(2)
 | 2029 | 34% |
 | 2030 | 20% |
 
-### Part 2 — Percentage of total van registrations for the purpose of calculating VRTS allowances[^key-59236f01e13caa27c8f57ce02e1ef084]
+### Part 2 — Percentage of total van registrations for the purpose of calculating VRTS allowances[^c-59236f01e13caa27c8f57ce02e1ef084]
 
 | Scheme year | Percentage of total van registrations for the purpose of calculating VRTS allowances |
 | --- | --- |
@@ -48,6 +48,6 @@ Article 12(3), 13(2), 44(3) and 45(2)
 
 ## Annotations
 
-[^key-ec9c2f93f58925ced768331529adb37d]: Commencement: Sch. 6 Pt. 1 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-ec9c2f93f58925ced768331529adb37d]: Commencement: Sch. 6 Pt. 1 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-59236f01e13caa27c8f57ce02e1ef084]: Commencement: Sch. 6 Pt. 2 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-59236f01e13caa27c8f57ce02e1ef084]: Commencement: Sch. 6 Pt. 2 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

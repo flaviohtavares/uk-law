@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Notification of winners[^key-7183fcca396051a5ac8f3e3f90365f60]
+## 14. Notification of winners[^c-7183fcca396051a5ac8f3e3f90365f60]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The holders of winning bonds must be notified—
 
 ## Annotations
 
-[^key-7183fcca396051a5ac8f3e3f90365f60]: Commencement: Reg. 14 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-7183fcca396051a5ac8f3e3f90365f60]: Commencement: Reg. 14 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

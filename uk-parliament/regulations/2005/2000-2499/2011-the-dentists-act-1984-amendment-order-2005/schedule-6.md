@@ -26,11 +26,11 @@ Article 49
 
 ### PART 1 — Primary Legislation
 
-#### 1. The National Health Service Act 1977[^key-9820ae8b7de7d6358db100225927bf33]
+#### 1. The National Health Service Act 1977[^c-9820ae8b7de7d6358db100225927bf33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. The National Health Service (Scotland) Act 1978[^key-11dc806e0689639157bf0e8aea0c34f5]
+#### 2. The National Health Service (Scotland) Act 1978[^c-11dc806e0689639157bf0e8aea0c34f5]
 
 (1) The National Health Service (Scotland) Act 1978[^f00021] is amended as follows.
 
@@ -77,7 +77,7 @@ Article 49
 
 .
 
-#### 3. The Value Added Tax Act 1994[^key-7ad36a6a6c1f4e4f000c10f449c0bb62]
+#### 3. The Value Added Tax Act 1994[^c-7ad36a6a6c1f4e4f000c10f449c0bb62]
 
 In Schedule 9 to the Value Added Tax Act 1994[^f00025] (exemptions), in Group 7 (health and welfare) for item 2(b) substitute—
 
@@ -85,7 +85,7 @@ In Schedule 9 to the Value Added Tax Act 1994[^f00025] (exemptions), in Group 7 
 
 .
 
-#### 4. The National Health Service Reform and Health Care Professions Act 2002[^key-a027f6c71ff667460f7a80aafee09991]
+#### 4. The National Health Service Reform and Health Care Professions Act 2002[^c-a027f6c71ff667460f7a80aafee09991]
 
 In section 29 of the National Health Service Reform and Health Care Professions Act 2002[^f00026] (reference of disciplinary cases by Council to court), for paragraph (e) of subsection (1) substitute—
 
@@ -93,7 +93,7 @@ In section 29 of the National Health Service Reform and Health Care Professions 
 
 .
 
-#### 5. The Income Tax (Earnings and Pensions) Act 2003[^key-524058c612234fbf2a6bd294a38eb665]
+#### 5. The Income Tax (Earnings and Pensions) Act 2003[^c-524058c612234fbf2a6bd294a38eb665]
 
 In section 343(2) of the Income Tax (Earnings and Pensions) Act 2003[^f00027] (deduction for professional membership fees), for paragraph 1(c) of the Table substitute—
 
@@ -103,7 +103,7 @@ In section 343(2) of the Income Tax (Earnings and Pensions) Act 2003[^f00027] (d
 
 ### PART 2 — Secondary legislation
 
-#### 6. The Health and Personal Social Services (Northern Ireland) Order 1972[^key-0b1a93f48fd99b681f34b5e4c3435792]
+#### 6. The Health and Personal Social Services (Northern Ireland) Order 1972[^c-0b1a93f48fd99b681f34b5e4c3435792]
 
 (1) The Health and Personal Social Services (Northern Ireland) Order 1972[^f00028] is amended as follows.
 
@@ -141,11 +141,11 @@ In section 343(2) of the Income Tax (Earnings and Pensions) Act 2003[^f00027] (d
 
 .
 
-#### 7. The Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^key-9a66887105e0ac4f8b2e41786674a956]
+#### 7. The Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^c-9a66887105e0ac4f8b2e41786674a956]
 
 In the Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^f00031], in Part I of Schedule 1 (excepted professions), in paragraph 4, for “dental auxiliary” substitute “dental therapist”.
 
-#### 8. The National Health Service (General Dental Services) Regulations 1992[^key-484c6e273912d6a3499a0275776b9d4a]
+#### 8. The National Health Service (General Dental Services) Regulations 1992[^c-484c6e273912d6a3499a0275776b9d4a]
 
 (1) The National Health Service (General Dental Services) Regulations 1992[^f00032] are amended as follows.
 
@@ -209,28 +209,28 @@ In the Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^f00031], in
 
 (7) In Part I of Schedule 2 (information and undertaking to be included in an application for inclusion in the dental list), in paragraph 15, for “dental auxiliary whose work the dentist intends to direct” substitute “dental care professional who the dentist intends will assist him in providing general dental services”.
 
-#### 9. The National Health Service Pension Scheme Regulations 1995[^key-3f84dd87c508d09cb00ea1e3ac38465a]
+#### 9. The National Health Service Pension Scheme Regulations 1995[^c-3f84dd87c508d09cb00ea1e3ac38465a]
 
 In the National Health Service Pension Scheme Regulations 1995[^f00033], in regulation A2 (interpretation)—
 
 - (a) in the definition of “dental hygienist”, for “included in the roll of dental hygienists referred to in regulation 21 of the Dental Auxiliaries Regulations 1986” substitute “registered in the dental care professionals register established under section 36B of the Dentists Act 1984 under the title of dental hygienist”; and
 - (b) in the definition of “dental therapist”, for “included in the roll of dental therapists referred to in regulation 25 of the Dental Auxiliaries Regulations 1986” substitute “registered in the dental care professionals register established under section 36B of the Dentists Act 1984 under the title of dental therapist”.
 
-#### 10. The National Health Service Superannuation Scheme (Scotland) Regulations 1995[^key-9bf8d5a341c4d198734f97bf953ea88d]
+#### 10. The National Health Service Superannuation Scheme (Scotland) Regulations 1995[^c-9bf8d5a341c4d198734f97bf953ea88d]
 
 In the National Health Service Superannuation Scheme (Scotland) Regulations 1995[^f00034], in regulation A2 (interpretation), in paragraph (4)—
 
 - (a) in the entry in the column containing the definition of “dental hygienist”, for “included in the roll of dental hygienists referred to in regulation 21 of the Dental Auxiliaries Regulations 1986” substitute “registered in the dental care professionals register established under section 36B of the Dentists Act 1984 under the title of dental hygienist”; and
 - (b) in the entry in the column containing the definition of “dental therapist”, for “included in the roll of dental therapists referred to in regulation 25 of the Dental Auxiliaries Regulations 1986” substitute “registered in the dental care professionals register established under section 36B of the Dentists Act 1984 under the title of dental therapist”.
 
-#### 11. The National Health Service (Injury Benefits) Regulations 1995[^key-53d4c9fcd0f896cf40eee64a93a92010]
+#### 11. The National Health Service (Injury Benefits) Regulations 1995[^c-53d4c9fcd0f896cf40eee64a93a92010]
 
 In the National Health Service (Injury Benefits) Regulations 1995[^f00035], in regulation 2(1) (interpretation)—
 
 - (a) in the definition of “dental hygienist”, for “included in the roll of dental hygienists referred to in regulation 21 of the Dental Auxiliaries Regulations 1986” substitute “registered in the dental care professionals register established under section 36B of the Dentists Act 1984 under the title of dental hygienist”; and
 - (b) in the definition of “dental therapist”, for “included in the roll of dental therapists referred to in regulation 25 of the Dental Auxiliaries Regulations 1986” substitute “registered in the dental care professionals register established under section 36B of the Dentists Act 1984 under the title of dental therapist”.
 
-#### 12. The National Health Service (General Dental Services) (Scotland) Regulations 1996[^key-d359baffe2452ba94d867ec55c72f83a]
+#### 12. The National Health Service (General Dental Services) (Scotland) Regulations 1996[^c-d359baffe2452ba94d867ec55c72f83a]
 
 (1) The National Health Service (General Dental Services) (Scotland) Regulations 1996[^f00036] are amended as follows.
 
@@ -295,18 +295,18 @@ In the National Health Service (Injury Benefits) Regulations 1995[^f00035], in r
 
 (7) In Part I of Schedule 2 (information and undertaking to be included in an application for inclusion in Part A of the dental list), in paragraph 16, for “dental auxiliary whose work the dentist intends to direct” substitute “dental care professional who the dentist intends will assist him in providing general dental services”.
 
-#### 13. The National Health Service (Scotland) (Injury Benefits) Regulations 1998[^key-a593841688d00c0d355f1c73cd98ebe3]
+#### 13. The National Health Service (Scotland) (Injury Benefits) Regulations 1998[^c-a593841688d00c0d355f1c73cd98ebe3]
 
 In the National Health Service (Scotland) (Injury Benefits) Regulations 1998[^f00037], in regulation 2(1) (interpretation)—
 
 - (a) in the definition of “dental hygienist”, for “included in the roll of dental hygienists referred to in regulation 21 of the Dental Auxiliaries Regulations 1986” substitute “registered in the dental care professionals register established under section 36B of the Dentists Act 1984 under the title of dental hygienist”; and
 - (b) in the definition of “dental therapist”, for “included in the roll of dental therapists referred to in regulation 25 of the Dental Auxiliaries Regulations 1986” substitute “registered in the dental care professionals register established under section 36B of the Dentists Act 1984 under the title of dental therapist”.
 
-#### 14. The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2003[^key-25611445586548f5fba4d2057e3860c1]
+#### 14. The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2003[^c-25611445586548f5fba4d2057e3860c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. The National Health Service (General Dental Services Supplementary List) and (General Dental Services) Amendment Regulations 2003[^key-f59f03911fc9b86190c0979932e1238e]
+#### 15. The National Health Service (General Dental Services Supplementary List) and (General Dental Services) Amendment Regulations 2003[^c-f59f03911fc9b86190c0979932e1238e]
 
 (1) The National Health Service (General Dental Services Supplementary List) and (General Dental Services) Amendment Regulations 2003[^f00039] are amended as follows.
 
@@ -354,9 +354,9 @@ In the National Health Service (Scotland) (Injury Benefits) Regulations 1998[^f0
 
 ## Annotations
 
-[^key-9820ae8b7de7d6358db100225927bf33]: Textual amendment: [Sch. 6 para. 1](https://www.legislation.gov.uk/uksi/2005/2011/schedule/6/paragraph/1) revoked (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4)
+[^c-9820ae8b7de7d6358db100225927bf33]: Textual amendment: [Sch. 6 para. 1](https://www.legislation.gov.uk/uksi/2005/2011/schedule/6/paragraph/1) revoked (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4)
 
-[^key-11dc806e0689639157bf0e8aea0c34f5]: Commencement: Sch. 6 para. 2 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-11dc806e0689639157bf0e8aea0c34f5]: Commencement: Sch. 6 para. 2 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
 
 [^f00021]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
 
@@ -366,19 +366,19 @@ In the National Health Service (Scotland) (Injury Benefits) Regulations 1998[^f0
 
 [^f00024]: Footnote: Paragraph 6A was inserted by the Health and Social Services and Social Security Adjudications Act [1983 (c. 41)](https://www.legislation.gov.uk/ukpga/1983/41), section 16(b), and amended by the Dentists Act 1984, section 54(1) and Schedule 5, paragraphs 12 and 14.
 
-[^key-7ad36a6a6c1f4e4f000c10f449c0bb62]: Commencement: Sch. 6 para. 3 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-7ad36a6a6c1f4e4f000c10f449c0bb62]: Commencement: Sch. 6 para. 3 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
 
 [^f00025]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).
 
-[^key-a027f6c71ff667460f7a80aafee09991]: Commencement: Sch. 6 para. 4 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-a027f6c71ff667460f7a80aafee09991]: Commencement: Sch. 6 para. 4 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
 
 [^f00026]: Footnote: [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17). Section 29(1) was amended by S.I. [2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and [2004/1771](https://www.legislation.gov.uk/uksi/2004/1771) and prospectively amended by S.I. [2005/848](https://www.legislation.gov.uk/uksi/2005/848).
 
-[^key-524058c612234fbf2a6bd294a38eb665]: Commencement: Sch. 6 para. 5 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-524058c612234fbf2a6bd294a38eb665]: Commencement: Sch. 6 para. 5 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
 
 [^f00027]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1); the Table was amended by S.I. [2003/1652](https://www.legislation.gov.uk/uksi/2003/1652), [2004/1360](https://www.legislation.gov.uk/uksi/2004/1360) and [2005/1091](https://www.legislation.gov.uk/uksi/2005/1091).
 
-[^key-0b1a93f48fd99b681f34b5e4c3435792]: Commencement: Sch. 6 para. 6 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-0b1a93f48fd99b681f34b5e4c3435792]: Commencement: Sch. 6 para. 6 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
 
 [^f00028]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265).
 
@@ -386,36 +386,36 @@ In the National Health Service (Scotland) (Injury Benefits) Regulations 1998[^f0
 
 [^f00030]: Footnote: Sub-paragraph (2C) of paragraph 12 was inserted by S.I. [1986/2229 (N.I. 24)](https://www.legislation.gov.uk/nisi/1986/2229).
 
-[^key-9a66887105e0ac4f8b2e41786674a956]: Commencement: Sch. 6 para. 7 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-9a66887105e0ac4f8b2e41786674a956]: Commencement: Sch. 6 para. 7 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
 
 [^f00031]: Footnote: S.I. [1975/1023](https://www.legislation.gov.uk/uksi/1975/1023).
 
-[^key-484c6e273912d6a3499a0275776b9d4a]: Commencement: Sch. 6 para. 8 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-484c6e273912d6a3499a0275776b9d4a]: Commencement: Sch. 6 para. 8 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
 
 [^f00032]: Footnote: S.I. [1992/661](https://www.legislation.gov.uk/uksi/1992/661); the relevant amending instruments are S.I. [1998/1648](https://www.legislation.gov.uk/uksi/1998/1648), [2001/289](https://www.legislation.gov.uk/uksi/2001/289), [2133](https://www.legislation.gov.uk/uksi/2001/2133), [3963](https://www.legislation.gov.uk/uksi/2001/3963), [4000](https://www.legislation.gov.uk/uksi/2001/4000) and [2002/2469](https://www.legislation.gov.uk/uksi/2002/2469).
 
-[^key-3f84dd87c508d09cb00ea1e3ac38465a]: Commencement: Sch. 6 para. 9 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-3f84dd87c508d09cb00ea1e3ac38465a]: Commencement: Sch. 6 para. 9 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
 
 [^f00033]: Footnote: S.I. [1995/300](https://www.legislation.gov.uk/uksi/1995/300); the relevant amending instrument is S.I. [1998/2216](https://www.legislation.gov.uk/uksi/1998/2216).
 
-[^key-9bf8d5a341c4d198734f97bf953ea88d]: Commencement: Sch. 6 para. 10 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-9bf8d5a341c4d198734f97bf953ea88d]: Commencement: Sch. 6 para. 10 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
 
 [^f00034]: Footnote: S.I. [1995/365](https://www.legislation.gov.uk/uksi/1995/365).
 
-[^key-53d4c9fcd0f896cf40eee64a93a92010]: Commencement: Sch. 6 para. 11 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-53d4c9fcd0f896cf40eee64a93a92010]: Commencement: Sch. 6 para. 11 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
 
 [^f00035]: Footnote: S.I. [1995/866](https://www.legislation.gov.uk/uksi/1995/866); the relevant amending instrument is S.I. [1998/2217](https://www.legislation.gov.uk/uksi/1998/2217).
 
-[^key-d359baffe2452ba94d867ec55c72f83a]: Commencement: Sch. 6 para. 12 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-d359baffe2452ba94d867ec55c72f83a]: Commencement: Sch. 6 para. 12 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
 
 [^f00036]: Footnote: S.I. [1996/177](https://www.legislation.gov.uk/uksi/1996/177); the relevant amending instruments are S.I. [1998/1663](https://www.legislation.gov.uk/uksi/1998/1663), [S.S.I. 1999/51](https://www.legislation.gov.uk/ssi/1999/51), S.I. [1999/724](https://www.legislation.gov.uk/uksi/1999/724), [S.S.I. 2000/188](https://www.legislation.gov.uk/ssi/2000/188) and [S.S.I. 2004/37](https://www.legislation.gov.uk/ssi/2004/37).
 
-[^key-a593841688d00c0d355f1c73cd98ebe3]: Commencement: Sch. 6 para. 13 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-a593841688d00c0d355f1c73cd98ebe3]: Commencement: Sch. 6 para. 13 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
 
 [^f00037]: Footnote: S.I. [1998/1594](https://www.legislation.gov.uk/uksi/1998/1594).
 
-[^key-25611445586548f5fba4d2057e3860c1]: Textual amendment: [Sch. 6 para. 14](https://www.legislation.gov.uk/uksi/2005/2011/schedule/6/paragraph/14) revoked (14.2.2013) by [The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013 (S.S.I. 2013/50)](https://www.legislation.gov.uk/ssi/2013/50), [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/50/article/1/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/50/schedule/5)
+[^c-25611445586548f5fba4d2057e3860c1]: Textual amendment: [Sch. 6 para. 14](https://www.legislation.gov.uk/uksi/2005/2011/schedule/6/paragraph/14) revoked (14.2.2013) by [The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013 (S.S.I. 2013/50)](https://www.legislation.gov.uk/ssi/2013/50), [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/50/article/1/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/50/schedule/5)
 
-[^key-f59f03911fc9b86190c0979932e1238e]: Commencement: Sch. 6 para. 15 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-f59f03911fc9b86190c0979932e1238e]: Commencement: Sch. 6 para. 15 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
 
 [^f00039]: Footnote: S.I. [2003/250](https://www.legislation.gov.uk/uksi/2003/250).

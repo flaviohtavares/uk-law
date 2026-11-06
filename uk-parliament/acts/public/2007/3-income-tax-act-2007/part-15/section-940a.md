@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 940A. No appropriate bond or combination of bonds[^key-7d6ec040e90438542354a6e987bbc77b]
+## 940A. No appropriate bond or combination of bonds[^c-7d6ec040e90438542354a6e987bbc77b]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d6ec040e90438542354a6e987bbc77b]: Textual amendment: S. 940A inserted (21.7.2008 with effect in accordance with s. 134(5) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/134/4)
+[^c-7d6ec040e90438542354a6e987bbc77b]: Textual amendment: S. 940A inserted (21.7.2008 with effect in accordance with s. 134(5) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/134/4)

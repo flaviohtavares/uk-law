@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Amendment of regulation B3[^key-d51ac412dc7ff62674899f8d87e69c2a]
+## 4. Amendment of regulation B3[^c-d51ac412dc7ff62674899f8d87e69c2a]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d51ac412dc7ff62674899f8d87e69c2a]: Commencement: Reg. 4 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-d51ac412dc7ff62674899f8d87e69c2a]: Commencement: Reg. 4 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

@@ -44,7 +44,7 @@ A draft of the instrument has been laid before Parliament and a period of forty 
 
 The Commission makes the following Order in exercise of the power conferred by section 59(1) of the Act.
 
-## 1. Citation and commencement, extent and application[^key-a590479b98e05581d2039c9dd15838f3]
+## 1. Citation and commencement, extent and application[^c-a590479b98e05581d2039c9dd15838f3]
 
 (1) This Order may be cited as the Redditch (Electoral Changes) Order 2023.
 
@@ -57,13 +57,13 @@ The Commission makes the following Order in exercise of the power conferred by s
 
 (4) This Order extends to England and Wales but applies in relation to England only.
 
-## 2. Interpretation[^key-04ba048e129e1eed87714e899adb0673]
+## 2. Interpretation[^c-04ba048e129e1eed87714e899adb0673]
 
 (1) In this Order, “**the map**” means the map marked “Map referred to in the Redditch (Electoral Changes) Order 2023”, held by the Local Government Boundary Commission for England[^f00005].
 
 (2) Where a boundary is shown on the map as running along a road, railway line, footway, watercourse or similar geographical feature, it is to be treated as running along the centre line of the feature.
 
-## 3. Wards of the borough of Redditch and number of councillors[^key-fc6c113090a3efe496f006f31a1080c7][^key-ce2b0e2c799771a7964feffe66cab97e]
+## 3. Wards of the borough of Redditch and number of councillors[^c-fc6c113090a3efe496f006f31a1080c7][^c-ce2b0e2c799771a7964feffe66cab97e]
 
 (1) The existing wards of the borough of Redditch are abolished.
 
@@ -73,7 +73,7 @@ The Commission makes the following Order in exercise of the power conferred by s
 
 (4) The number of councillors to be elected for each ward is three.
 
-## 4. Elections of the borough of Redditch[^key-5cc8b2eec76d27c16d40bb7211e281e7][^key-2b32e8f09ea64cbd437cbfe6a37ddead]
+## 4. Elections of the borough of Redditch[^c-5cc8b2eec76d27c16d40bb7211e281e7][^c-2b32e8f09ea64cbd437cbfe6a37ddead]
 
 (1) Elections of all councillors for each ward of the borough of Redditch are to be held simultaneously on the ordinary day of election of councillors in England in 2024.
 
@@ -112,23 +112,23 @@ Local Government Boundary Commission for England
 
 Article 3
 
-**1.**[^key-0246cf0675d3d9b00a74a05d409db2a2][^key-57030e7f54bf0c40c93bf328616a6ea6] Astwood Bank & Feckenham
+**1.**[^c-0246cf0675d3d9b00a74a05d409db2a2][^c-57030e7f54bf0c40c93bf328616a6ea6] Astwood Bank & Feckenham
 
-**2.**[^key-c9463c8036626419d0ee1e3478c8427a][^key-8151243a994f41cea4ad9ed3abd26899] Batchley & Brockhill
+**2.**[^c-c9463c8036626419d0ee1e3478c8427a][^c-8151243a994f41cea4ad9ed3abd26899] Batchley & Brockhill
 
-**3.**[^key-ef6a899661ba773f8f7ced4288610c9d][^key-e0edb74ba60c98836787940bb5ac0ea1] Central
+**3.**[^c-ef6a899661ba773f8f7ced4288610c9d][^c-e0edb74ba60c98836787940bb5ac0ea1] Central
 
-**4.**[^key-b49d27be42dcce4935a353769d1d5101][^key-d022ac0b620a536ae3df8ad5b4c7d0a3] Greenlands & Lakeside
+**4.**[^c-b49d27be42dcce4935a353769d1d5101][^c-d022ac0b620a536ae3df8ad5b4c7d0a3] Greenlands & Lakeside
 
-**5.**[^key-13ca661bc572dceb794513cbd7dd0b2e][^key-93ccf8f62dee23c06af1bdac6f0c25e9] Headless Cross & Oakenshaw
+**5.**[^c-13ca661bc572dceb794513cbd7dd0b2e][^c-93ccf8f62dee23c06af1bdac6f0c25e9] Headless Cross & Oakenshaw
 
-**6.**[^key-9c23e1aea53e02f8526e7178bad3e29b][^key-7db002fb4937ff1da917774508da4a7b] Matchborough & Woodrow
+**6.**[^c-9c23e1aea53e02f8526e7178bad3e29b][^c-7db002fb4937ff1da917774508da4a7b] Matchborough & Woodrow
 
-**7.**[^key-a7fc4038b529878eb9b6ce6a4495c74d][^key-f1ec91c5dafdcb79426cbc8c0f037284] North
+**7.**[^c-a7fc4038b529878eb9b6ce6a4495c74d][^c-f1ec91c5dafdcb79426cbc8c0f037284] North
 
-**8.**[^key-eedd7acb2ac53341879ea8a8e833681d][^key-b4d018cb734e7c96e4dac4819016c46d] Webheath & Callow Hill
+**8.**[^c-eedd7acb2ac53341879ea8a8e833681d][^c-b4d018cb734e7c96e4dac4819016c46d] Webheath & Callow Hill
 
-**9.**[^key-d76d406140e9d6cb8152edcbd70f3493][^key-28a112f9bbbc6c1d52ac046544f1788f] Winyates
+**9.**[^c-d76d406140e9d6cb8152edcbd70f3493][^c-28a112f9bbbc6c1d52ac046544f1788f] Winyates
 
 EXPLANATORY NOTE
 
@@ -154,54 +154,54 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00003]: Footnote: The report is available for inspection at reasonable times at the principal office of the Local Government Boundary Commission for England, 1st Floor, Windsor House, 50 Victoria Street, London, SW1H 0TL. It is also accessible online at https://www.lgbce.org.uk/all-reviews/redditch.
 
-[^key-a590479b98e05581d2039c9dd15838f3]: Commencement: Art. 1 in force at 15.6.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/654/article/1/2)
+[^c-a590479b98e05581d2039c9dd15838f3]: Commencement: Art. 1 in force at 15.6.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/654/article/1/2)
 
 [^f00004]: Footnote: The ordinary day of election of councillors in England is prescribed by section 37(1) of the Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2), as amended by section 18(2) of the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), renumbered by paragraph 5 of Schedule 3 to the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), and further amended by section 6(16) of the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).
 
-[^key-04ba048e129e1eed87714e899adb0673]: Commencement: Art. 2 in force at 15.6.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/654/article/1/2)
+[^c-04ba048e129e1eed87714e899adb0673]: Commencement: Art. 2 in force at 15.6.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/654/article/1/2)
 
 [^f00005]: Footnote: Prints of the map are available for inspection at reasonable times at the principal office of the Local Government Boundary Commission for England, 1st Floor, Windsor House, 50 Victoria Street, London, SW1H 0TL. It is also accessible online at https://www.lgbce.org.uk/all-reviews/redditch.
 
-[^key-fc6c113090a3efe496f006f31a1080c7]: Commencement: Art. 3 in force at 15.10.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/a)
+[^c-fc6c113090a3efe496f006f31a1080c7]: Commencement: Art. 3 in force at 15.10.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/a)
 
-[^key-ce2b0e2c799771a7964feffe66cab97e]: Commencement: Art. 3 in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/b)
+[^c-ce2b0e2c799771a7964feffe66cab97e]: Commencement: Art. 3 in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/b)
 
-[^key-5cc8b2eec76d27c16d40bb7211e281e7]: Commencement: Art. 4 in force at 15.10.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/a)
+[^c-5cc8b2eec76d27c16d40bb7211e281e7]: Commencement: Art. 4 in force at 15.10.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/a)
 
-[^key-2b32e8f09ea64cbd437cbfe6a37ddead]: Commencement: Art. 4 in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/b)
+[^c-2b32e8f09ea64cbd437cbfe6a37ddead]: Commencement: Art. 4 in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/b)
 
-[^key-0246cf0675d3d9b00a74a05d409db2a2]: Commencement: Sch. para. 1 in force at 15.6.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/a)
+[^c-0246cf0675d3d9b00a74a05d409db2a2]: Commencement: Sch. para. 1 in force at 15.6.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/a)
 
-[^key-57030e7f54bf0c40c93bf328616a6ea6]: Commencement: Sch. para. 1 in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/b)
+[^c-57030e7f54bf0c40c93bf328616a6ea6]: Commencement: Sch. para. 1 in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/b)
 
-[^key-c9463c8036626419d0ee1e3478c8427a]: Commencement: Sch. para. 2 in force at 15.6.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/a)
+[^c-c9463c8036626419d0ee1e3478c8427a]: Commencement: Sch. para. 2 in force at 15.6.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/a)
 
-[^key-8151243a994f41cea4ad9ed3abd26899]: Commencement: Sch. para. 2 in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/b)
+[^c-8151243a994f41cea4ad9ed3abd26899]: Commencement: Sch. para. 2 in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/b)
 
-[^key-ef6a899661ba773f8f7ced4288610c9d]: Commencement: Sch. para. 3 in force at 15.6.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/a)
+[^c-ef6a899661ba773f8f7ced4288610c9d]: Commencement: Sch. para. 3 in force at 15.6.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/a)
 
-[^key-e0edb74ba60c98836787940bb5ac0ea1]: Commencement: Sch. para. 3 in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/b)
+[^c-e0edb74ba60c98836787940bb5ac0ea1]: Commencement: Sch. para. 3 in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/b)
 
-[^key-b49d27be42dcce4935a353769d1d5101]: Commencement: Sch. para. 4 in force at 15.6.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/a)
+[^c-b49d27be42dcce4935a353769d1d5101]: Commencement: Sch. para. 4 in force at 15.6.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/a)
 
-[^key-d022ac0b620a536ae3df8ad5b4c7d0a3]: Commencement: Sch. para. 4 in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/b)
+[^c-d022ac0b620a536ae3df8ad5b4c7d0a3]: Commencement: Sch. para. 4 in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/b)
 
-[^key-13ca661bc572dceb794513cbd7dd0b2e]: Commencement: Sch. para. 5 in force at 15.6.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/a)
+[^c-13ca661bc572dceb794513cbd7dd0b2e]: Commencement: Sch. para. 5 in force at 15.6.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/a)
 
-[^key-93ccf8f62dee23c06af1bdac6f0c25e9]: Commencement: Sch. para. 5 in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/b)
+[^c-93ccf8f62dee23c06af1bdac6f0c25e9]: Commencement: Sch. para. 5 in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/b)
 
-[^key-9c23e1aea53e02f8526e7178bad3e29b]: Commencement: Sch. para. 6 in force at 15.6.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/a)
+[^c-9c23e1aea53e02f8526e7178bad3e29b]: Commencement: Sch. para. 6 in force at 15.6.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/a)
 
-[^key-7db002fb4937ff1da917774508da4a7b]: Commencement: Sch. para. 6 in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/a)
+[^c-7db002fb4937ff1da917774508da4a7b]: Commencement: Sch. para. 6 in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/a)
 
-[^key-a7fc4038b529878eb9b6ce6a4495c74d]: Commencement: Sch. para. 7 in force at 15.6.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/a)
+[^c-a7fc4038b529878eb9b6ce6a4495c74d]: Commencement: Sch. para. 7 in force at 15.6.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/a)
 
-[^key-f1ec91c5dafdcb79426cbc8c0f037284]: Commencement: Sch. para. 7 in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/b)
+[^c-f1ec91c5dafdcb79426cbc8c0f037284]: Commencement: Sch. para. 7 in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/b)
 
-[^key-eedd7acb2ac53341879ea8a8e833681d]: Commencement: Sch. para. 8 in force at 15.6.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/a)
+[^c-eedd7acb2ac53341879ea8a8e833681d]: Commencement: Sch. para. 8 in force at 15.6.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/a)
 
-[^key-b4d018cb734e7c96e4dac4819016c46d]: Commencement: Sch. para. 8 in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/b)
+[^c-b4d018cb734e7c96e4dac4819016c46d]: Commencement: Sch. para. 8 in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/b)
 
-[^key-d76d406140e9d6cb8152edcbd70f3493]: Commencement: Sch. para. 9 in force at 15.6.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/a)
+[^c-d76d406140e9d6cb8152edcbd70f3493]: Commencement: Sch. para. 9 in force at 15.6.2023 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/a)
 
-[^key-28a112f9bbbc6c1d52ac046544f1788f]: Commencement: Sch. para. 9 in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/b)
+[^c-28a112f9bbbc6c1d52ac046544f1788f]: Commencement: Sch. para. 9 in force at 2.5.2024 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/654/article/1/3/b)

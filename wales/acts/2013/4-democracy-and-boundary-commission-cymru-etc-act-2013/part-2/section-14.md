@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1A)[^key-893b6920de19d6dc6eabd6f9b85a8d98] The Welsh Ministers may give a direction to the Commission in relation to the exercise of the Commission’s functions under any enactment, except in relation to the exercise of functions under—
+(1A)[^c-893b6920de19d6dc6eabd6f9b85a8d98] The Welsh Ministers may give a direction to the Commission in relation to the exercise of the Commission’s functions under any enactment, except in relation to the exercise of functions under—
 
 - (a) Part 2A (co-ordination of electoral administration);
 - (b) Part 3A (functions relating to Senedd constituency boundary reviews).
@@ -31,10 +31,10 @@ summary: ''
 
 (2) A direction given by the Welsh Ministers under this Act may be varied or revoked by a subsequent direction.
 
-(3)[^key-9ad856198d8f51b79998614be263b293] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9ad856198d8f51b79998614be263b293] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-893b6920de19d6dc6eabd6f9b85a8d98]: Textual amendment: S. 14(1A)-(1C) substituted for s. 14(1) (1.1.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4), [Sch. 1 para. 1(3)(a)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/1/3/a); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(b)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/b)
+[^c-893b6920de19d6dc6eabd6f9b85a8d98]: Textual amendment: S. 14(1A)-(1C) substituted for s. 14(1) (1.1.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4), [Sch. 1 para. 1(3)(a)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/1/3/a); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(b)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/b)
 
-[^key-9ad856198d8f51b79998614be263b293]: Textual amendment: S. 14(3) omitted (1.1.2025) by virtue of [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4), [Sch. 1 para. 1(3)(b)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/1/3/b); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(b)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/b)
+[^c-9ad856198d8f51b79998614be263b293]: Textual amendment: S. 14(3) omitted (1.1.2025) by virtue of [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4), [Sch. 1 para. 1(3)(b)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/1/3/b); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(b)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Protective provisions[^key-de45f5dcca8e378416875916be3e4b79]
+## 42. Protective provisions[^c-de45f5dcca8e378416875916be3e4b79]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 10 (protective provisions) to this Order has effect.
 
 ## Annotations
 
-[^key-de45f5dcca8e378416875916be3e4b79]: Commencement: Art. 42 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-de45f5dcca8e378416875916be3e4b79]: Commencement: Art. 42 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)

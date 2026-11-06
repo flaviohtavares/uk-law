@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 136B. Extension of certain periods of temporary release – coronavirus[^key-bd20d7fde153cd0705e6a40f383e66aa]
+## 136B. Extension of certain periods of temporary release – coronavirus[^c-bd20d7fde153cd0705e6a40f383e66aa]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd20d7fde153cd0705e6a40f383e66aa]: Textual amendment: [Rule 136B](https://www.legislation.gov.uk/ssi/2011/331/rule/136B) inserted (7.4.2020 at 2.15 p.m.) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2020 (S.S.I. 2020/122)](https://www.legislation.gov.uk/ssi/2020/122), [rules 1](https://www.legislation.gov.uk/ssi/2020/122/rule/1), [2(24)](https://www.legislation.gov.uk/ssi/2020/122/rule/2/24)
+[^c-bd20d7fde153cd0705e6a40f383e66aa]: Textual amendment: [Rule 136B](https://www.legislation.gov.uk/ssi/2011/331/rule/136B) inserted (7.4.2020 at 2.15 p.m.) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2020 (S.S.I. 2020/122)](https://www.legislation.gov.uk/ssi/2020/122), [rules 1](https://www.legislation.gov.uk/ssi/2020/122/rule/1), [2(24)](https://www.legislation.gov.uk/ssi/2020/122/rule/2/24)

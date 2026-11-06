@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. Administration of workmen’s compensation etc.[^key-01357d0425362e48f3f1e8700dd6084d]
+## 161. Administration of workmen’s compensation etc.[^c-01357d0425362e48f3f1e8700dd6084d]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01357d0425362e48f3f1e8700dd6084d]: Textual amendment: [S. 161](https://www.legislation.gov.uk/ukpga/1992/8/section/161) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 6](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/6); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/234/article/3/3)
+[^c-01357d0425362e48f3f1e8700dd6084d]: Textual amendment: [S. 161](https://www.legislation.gov.uk/ukpga/1992/8/section/161) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 6](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/6); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/234/article/3/3)

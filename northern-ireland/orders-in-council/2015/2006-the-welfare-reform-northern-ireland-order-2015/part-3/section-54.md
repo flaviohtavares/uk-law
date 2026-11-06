@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 54. Consequential amendments[^key-88712ce17dff4e88940f5773aa9bbf4f]
+## 54. Consequential amendments[^c-88712ce17dff4e88940f5773aa9bbf4f]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 7 contains consequential amendments relating to Articles 50 to 52.
 
 ## Annotations
 
-[^key-88712ce17dff4e88940f5773aa9bbf4f]: Commencement: [Art. 54](https://www.legislation.gov.uk/nisi/2015/2006/article/54) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/3/a/ii)
+[^c-88712ce17dff4e88940f5773aa9bbf4f]: Commencement: [Art. 54](https://www.legislation.gov.uk/nisi/2015/2006/article/54) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/3/a/ii)

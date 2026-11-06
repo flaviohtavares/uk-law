@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Offences under sections 42(1)(d) and 52(1)(c): further remedies[^key-ca18bd6a5fef95aa33554a5e9927c37c]
+## 72. Offences under sections 42(1)(d) and 52(1)(c): further remedies[^c-ca18bd6a5fef95aa33554a5e9927c37c]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca18bd6a5fef95aa33554a5e9927c37c]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2011/9/section/72) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
+[^c-ca18bd6a5fef95aa33554a5e9927c37c]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2011/9/section/72) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))

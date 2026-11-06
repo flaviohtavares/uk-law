@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Guidance on exercise of police powers in respect of trespassers on land etc[^key-bb0c60eeee17c4d3384c7129c002022d]
+## 85. Guidance on exercise of police powers in respect of trespassers on land etc[^c-bb0c60eeee17c4d3384c7129c002022d]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ After section 62E of the Criminal Justice and Public Order Act 1994 insert—
 
 ## Annotations
 
-[^key-bb0c60eeee17c4d3384c7129c002022d]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2022/32/section/85) in force at 28.6.2022, see [s. 208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)
+[^c-bb0c60eeee17c4d3384c7129c002022d]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2022/32/section/85) in force at 28.6.2022, see [s. 208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)

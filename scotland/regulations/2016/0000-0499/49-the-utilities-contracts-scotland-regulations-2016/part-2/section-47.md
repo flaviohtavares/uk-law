@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Innovation Partnership[^key-0d122e7da358cace04bddefe33d4e0d3]
+## 47. Innovation Partnership[^c-0d122e7da358cace04bddefe33d4e0d3]
 
 *Extent: S*
 
@@ -52,7 +52,7 @@ provided that the utility has indicated in the procurement documents those possi
 
 (11) The minimum time period for the receipt of requests to participate—
 
-- (a) other than in exceptional circumstances, shall be 30 days from the date on which the contract notice is submitted[^key-5ba688c2f6c044686ab26201827f7ccc] for publication; and
+- (a) other than in exceptional circumstances, shall be 30 days from the date on which the contract notice is submitted[^c-5ba688c2f6c044686ab26201827f7ccc] for publication; and
 - (b) shall, in any event, not be less than 15 days from that date.
 
 (12) A utility may limit the number of suitable candidates to be invited to participate in the procedure in accordance with regulation 76(2) (criteria for qualitative selection).
@@ -76,7 +76,7 @@ provided that the utility has indicated in the procurement documents those possi
 
 (19) Any agreement referred to in paragraph (18) must not take the form of a general waiver but must be given with reference to the intended communication of specific information.
 
-(20) A utility may conduct negotiations during innovation partnership procedures in successive stages in order to reduce the number of tenders to be negotiated only by applying the award criteria specified in the contract notice [^key-1ffc07a90fabc16b815b84cf1da4c518]... or another procurement document.
+(20) A utility may conduct negotiations during innovation partnership procedures in successive stages in order to reduce the number of tenders to be negotiated only by applying the award criteria specified in the contract notice [^c-1ffc07a90fabc16b815b84cf1da4c518]... or another procurement document.
 
 (21) The utility must indicate in the contract notice or in another procurement document whether it will use the option described in paragraph (20).
 
@@ -90,8 +90,8 @@ provided that the utility has indicated in the procurement documents those possi
 
 ## Annotations
 
-[^key-0d122e7da358cace04bddefe33d4e0d3]: Commencement: [Reg. 47](https://www.legislation.gov.uk/ssi/2016/49/regulation/47) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-0d122e7da358cace04bddefe33d4e0d3]: Commencement: [Reg. 47](https://www.legislation.gov.uk/ssi/2016/49/regulation/47) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
 
-[^key-5ba688c2f6c044686ab26201827f7ccc]: Textual amendment: Word in [reg. 47(11)(a)](https://www.legislation.gov.uk/ssi/2016/49/regulation/47/11/a) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(32)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/32) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-5ba688c2f6c044686ab26201827f7ccc]: Textual amendment: Word in [reg. 47(11)(a)](https://www.legislation.gov.uk/ssi/2016/49/regulation/47/11/a) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(32)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/32) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
-[^key-1ffc07a90fabc16b815b84cf1da4c518]: Textual amendment: Words in [reg. 47(20)](https://www.legislation.gov.uk/ssi/2016/49/regulation/47/20) omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [5(11)](https://www.legislation.gov.uk/ssi/2023/124/regulation/5/11) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
+[^c-1ffc07a90fabc16b815b84cf1da4c518]: Textual amendment: Words in [reg. 47(20)](https://www.legislation.gov.uk/ssi/2016/49/regulation/47/20) omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [5(11)](https://www.legislation.gov.uk/ssi/2023/124/regulation/5/11) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))

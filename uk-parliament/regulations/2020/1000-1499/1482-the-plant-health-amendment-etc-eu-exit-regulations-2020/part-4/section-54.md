@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Revocations[^key-69d8d526a603b2da1b97580703e83783][^M_I_710d1c69-3441-4b86-ab12-56cea8925313]
+## 54. Revocations[^c-69d8d526a603b2da1b97580703e83783][^M_I_710d1c69-3441-4b86-ab12-56cea8925313]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ The following are revoked—
 
 ## Annotations
 
-[^key-69d8d526a603b2da1b97580703e83783]: Commencement: Reg. 54(a)(b) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/a)
+[^c-69d8d526a603b2da1b97580703e83783]: Commencement: Reg. 54(a)(b) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/a)
 
 [^M_I_710d1c69-3441-4b86-ab12-56cea8925313]: Commencement: Reg. 54(c) in force at 31.12.2020 on IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19.1. Application of this Chapter[^key-301efb6e51b5cfbabbd0f1ea72c0513d]
+## 19.1. Application of this Chapter[^c-301efb6e51b5cfbabbd0f1ea72c0513d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ This Chapter applies to any appeal in which the Court has power to order a perso
 
 ## Annotations
 
-[^key-301efb6e51b5cfbabbd0f1ea72c0513d]: Commencement: Para. 19.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-301efb6e51b5cfbabbd0f1ea72c0513d]: Commencement: Para. 19.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

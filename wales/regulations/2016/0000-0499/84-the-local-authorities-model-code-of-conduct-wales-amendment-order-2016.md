@@ -51,7 +51,7 @@ The Welsh Ministers are satisfied that, as required by section 50(4)(a) of that 
 
 Accordingly, the Welsh Ministers make the following Order:
 
-## 1. Title, commencement, application and interpretation[^key-a4d0a3223648a8ae5c09827eba46a8a3]
+## 1. Title, commencement, application and interpretation[^c-a4d0a3223648a8ae5c09827eba46a8a3]
 
 (1) The title of this Order is the Local Authorities (Model Code of Conduct) (Wales) (Amendment) Order 2016 and it comes into force on 1 April 2016.
 
@@ -62,7 +62,7 @@ Accordingly, the Welsh Ministers make the following Order:
 - “the 2008 Order” (“*Gorchymyn 2008*”) means the Local Authorities (Model Code of Conduct) (Wales) Order 2008[^f00004];
 - “relevant authority” (“*awdurdod perthnasol*”) has the meaning set out in Part 1 of the model code in the Schedule to the 2008 Order.
 
-## 2. Amendment of the Schedule to the 2008 Order[^key-c268f6c2369fcce65486dc20428e14bc]
+## 2. Amendment of the Schedule to the 2008 Order[^c-c268f6c2369fcce65486dc20428e14bc]
 
 (1) The model code in the Schedule to the 2008 Order is amended as follows.
 
@@ -166,11 +166,11 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00003]: Footnote: [S.I. 2001/2276 (W. 166)](https://www.legislation.gov.uk/wsi/2001/2276) as amended by [S.I. 2005/2929 (W. 214)](https://www.legislation.gov.uk/wsi/2005/2929).
 
-[^key-a4d0a3223648a8ae5c09827eba46a8a3]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2016/84/article/1) in force at 1.4.2016, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2016/84/article/1/1)
+[^c-a4d0a3223648a8ae5c09827eba46a8a3]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2016/84/article/1) in force at 1.4.2016, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2016/84/article/1/1)
 
 [^f00004]: Footnote: [S.I. 2008/788 (W. 82)](https://www.legislation.gov.uk/wsi/2008/788).
 
-[^key-c268f6c2369fcce65486dc20428e14bc]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2016/84/article/2) in force at 1.4.2016, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2016/84/article/1/1)
+[^c-c268f6c2369fcce65486dc20428e14bc]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2016/84/article/2) in force at 1.4.2016, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2016/84/article/1/1)
 
 [^f00005]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Payments under this Part[^key-cb7f06ebc0cb96d13673c763607a23a7]
+## 89. Payments under this Part[^c-cb7f06ebc0cb96d13673c763607a23a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb7f06ebc0cb96d13673c763607a23a7]: Commencement: [Reg. 89](https://www.legislation.gov.uk/uksi/2014/2336/regulation/89) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-cb7f06ebc0cb96d13673c763607a23a7]: Commencement: [Reg. 89](https://www.legislation.gov.uk/uksi/2014/2336/regulation/89) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

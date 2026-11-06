@@ -52,9 +52,9 @@ The Scottish Ministers, in exercise of the powers conferred by section 44(1)(b) 
 - “**acupuncture**” means the insertion of needles into living tissue for remedial or therapeutic purposes;
 - “**cosmetic body piercing**” means the perforation of the skin and underlying tissue in order to create a tunnel in the skin through which jewellery may be inserted;
 - “**electrolysis**” means the removal of body hair by electrocution of the hair roots with an electrified needle;
-- “regulated health care professional” means a member of a profession regulated by a body mentioned in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002;[^key-3afcf3b3385d0f5654ea01e0c6da59f1]
-- [^key-d051e9ea4325162c2f88093789b9a63c]...
-- [^key-d051e9ea4325162c2f88093789b9a63c]...
+- “regulated health care professional” means a member of a profession regulated by a body mentioned in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002;[^c-3afcf3b3385d0f5654ea01e0c6da59f1]
+- [^c-d051e9ea4325162c2f88093789b9a63c]...
+- [^c-d051e9ea4325162c2f88093789b9a63c]...
 - “**skin piercing**” includes any of the following–
   - (a) acupuncture;
   - (b) cosmetic body piercing; or
@@ -66,7 +66,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 44(1)(b) 
 (1) The activity specified in paragraph (2) is hereby designated as an activity for which a licence under Part I of the 1982 Act shall be required, but no such licence shall be required–
 
 - (a) in respect of the carrying on of that activity before 1st April 2006; or
-- (b)[^key-57e1a7f76e5900fea76abb31b4a6a135] for the carrying on of that activity by a regulated health care professional.
+- (b)[^c-57e1a7f76e5900fea76abb31b4a6a135] for the carrying on of that activity by a regulated health care professional.
 
 (2) The activity referred to in paragraph (1) is the carrying on of a business which provides skin piercing or tattooing.
 
@@ -140,12 +140,12 @@ Article 3
   > - (a) for the carrying on of a business which provides skin piercing or tattooing; and
   > - (b) where the activity is to be carried out wholly or mainly in premises,
   >
-  > the licensing authority shall not grant the licence unless it is satisfied that–[^key-8ee16dfd87d299aadbf2305eedf45e55]
+  > the licensing authority shall not grant the licence unless it is satisfied that–[^c-8ee16dfd87d299aadbf2305eedf45e55]
   >
   > - (i) in the case where the business provides only ear piercing and no other kind of skin piercing or tattooing the conditions in sub-paragraph (2BA) below are met; and
   > - (ii) in all other cases the conditions in sub-paragraph (2B) below are met.
   >
-  > (2B) The conditions referred to in sub-paragraph (2A) (ii) above[^key-4e10648cc7f9e3daee06c8d21cdce5cf] are that–
+  > (2B) The conditions referred to in sub-paragraph (2A) (ii) above[^c-4e10648cc7f9e3daee06c8d21cdce5cf] are that–
   >
   > - (a) separate rooms are provided for–
   >   - (i) the waiting area; and
@@ -155,7 +155,7 @@ Article 3
   >   - (ii) that skin piercing will not be carried out on any child under the age of 16 unless accompanied by a person who has parental rights and responsibilities in respect of that child and who has also given their consent in writing to the skin piercing; and
   >   - (iii) that tattooing will not be carried out on any person under the age of 18;
   > - (c) the room to be used for the purposes of carrying out the skin piercing or tattooing has the following facilities–
-  >   - (i) a wash-hand basin[^key-1e8a18eb8651c519c7cbbe4b0f1eea77] with hot and cold running water and which uses non-hand operated taps;
+  >   - (i) a wash-hand basin[^c-1e8a18eb8651c519c7cbbe4b0f1eea77] with hot and cold running water and which uses non-hand operated taps;
   >   - (ii) a paper towel holder containing paper towels;
   >   - (iii) a soap dispenser containing soap;
   >   - (iv) a washable bench or chair with disposable paper sheet;
@@ -163,14 +163,14 @@ Article 3
   >   - (vi) a waste bucket with a pedal operated lid;
   >   - (vii) a sharps container for storage of needles after use; and
   >   - (viii) a first aid kit;
-  > - (ca)[^key-afced6bfc9f966cbd36d3bf6320b6dd0] there is a general purpose sink with hot and cold running water on the premises separate from the wash-hand basin required under sub-paragraph (2B)(c)(i) above;
-  > - (d)[^key-8524191f2ba517634eaede2b8d0b9fa2] unless only disposable instruments are used within the premises for skin piercing or tattooing, the following equipment is stored and properly maintained for use on the premises–
+  > - (ca)[^c-afced6bfc9f966cbd36d3bf6320b6dd0] there is a general purpose sink with hot and cold running water on the premises separate from the wash-hand basin required under sub-paragraph (2B)(c)(i) above;
+  > - (d)[^c-8524191f2ba517634eaede2b8d0b9fa2] unless only disposable instruments are used within the premises for skin piercing or tattooing, the following equipment is stored and properly maintained for use on the premises–
   >   - (i) ultrasonic cleaners;
   >   - (ii) instrument baths; and
   >   - (iii) autoclaves and autoclaves pouches; and
   > - (e) the premises are well ventilated and illuminated for the purposes of skin piercing and tattooing.
   >
-  > (2BA)[^key-5422234f562db52ac626a51bed4268bf] The conditions referred to in sub-paragraph (2A) (i) above are that–
+  > (2BA)[^c-5422234f562db52ac626a51bed4268bf] The conditions referred to in sub-paragraph (2A) (i) above are that–
   >
   > - (a) a separate area with a washable chair with disposable paper sheet has been designated for the carrying out of ear piercing;
   > - (b) the designated area has displayed a notice advising–
@@ -184,25 +184,25 @@ Article 3
   >   - (vi) a waste bucket with a pedal operated lid; and
   > - (d) the premises are well ventilated and illuminated.
   >
-  > (2C) Without prejudice to the generality of sub paragraph (2) above or the requirements of sub-paragraphs (2A), (2B) and (2BA) above[^key-14c3d5045621dc223aa22ae78a3a1ce2], where a licensing authority grants or renews a licence for the carrying on of a business which provides skin piercing or tattooing and the activity is to be carried out wholly or mainly in premises, the following conditions shall be imposed–
+  > (2C) Without prejudice to the generality of sub paragraph (2) above or the requirements of sub-paragraphs (2A), (2B) and (2BA) above[^c-14c3d5045621dc223aa22ae78a3a1ce2], where a licensing authority grants or renews a licence for the carrying on of a business which provides skin piercing or tattooing and the activity is to be carried out wholly or mainly in premises, the following conditions shall be imposed–
   >
   > - (a) the accommodation and facilities within the premises are to be maintained in good repair and in a good state of cleanliness;
   > - (b) only sterile single use disposable needles may be used for skin piercing or tattooing;
-  > - (c) for the purposes of tattooing, only sterile pigment dispensed into single use pots[^key-b708469ba96102bdca3dd800d83a71aa] or ink pre–packed in single use vials may be used;
-  > - (d) the activity of tattooing or skin piercing (other than acupuncture)[^key-6018346d05380a53b4aab23015f2bf44] must be carried out by an operator wearing disposable non latex gloves[^key-8352e0a284a862a2e703c11f84b70c04], which must be changed for each client;
-  > - (da)[^key-2641456b4084e0892154e26e25bad1ef] subject to paragraph (db), the activity of acupuncture must be carried out by an operator who has washed their hands immediately before carrying out the activity of acupuncture on each client;
-  > - (db)[^key-891e35b5ea5020620f6e242c712f518f] the activity of acupuncture must be carried out by an operator wearing disposable non latex gloves that have not previously been used with another client where—
+  > - (c) for the purposes of tattooing, only sterile pigment dispensed into single use pots[^c-b708469ba96102bdca3dd800d83a71aa] or ink pre–packed in single use vials may be used;
+  > - (d) the activity of tattooing or skin piercing (other than acupuncture)[^c-6018346d05380a53b4aab23015f2bf44] must be carried out by an operator wearing disposable non latex gloves[^c-8352e0a284a862a2e703c11f84b70c04], which must be changed for each client;
+  > - (da)[^c-2641456b4084e0892154e26e25bad1ef] subject to paragraph (db), the activity of acupuncture must be carried out by an operator who has washed their hands immediately before carrying out the activity of acupuncture on each client;
+  > - (db)[^c-891e35b5ea5020620f6e242c712f518f] the activity of acupuncture must be carried out by an operator wearing disposable non latex gloves that have not previously been used with another client where—
   >   - (i) the operator has an open lesion on their hands,
   >   - (ii) the operator is handling items that may be contaminated with blood or other body fluids, or
   >   - (iii) the client is bleeding or has an open lesion on an exposed part of the client’s body,
-  > - (e)[^key-1c7e86db1407b315faf641ee6f5591d3] a supply of the following must be maintained–
+  > - (e)[^c-1c7e86db1407b315faf641ee6f5591d3] a supply of the following must be maintained–
   >   - (i) disposable non latex gloves;
   >   - (ii) sterile single-use disposable needles; and
   >   - (iii) where tattooing is provided within the premises, disposable razors;
-  > - (f) any equipment which is not disposable shall be sterilised, if practicable, or[^key-2863403f7eb4f23c4a0bb757923641eb] thoroughly cleaned with fresh disinfectant after each use;
+  > - (f) any equipment which is not disposable shall be sterilised, if practicable, or[^c-2863403f7eb4f23c4a0bb757923641eb] thoroughly cleaned with fresh disinfectant after each use;
   > - (g) skin piercing shall not be carried out on a child under the age of 16 unless accompanied by a person who has parental rights and responsibilities in respect of that child and who has also given their consent in writing to the skin piercing;
   > - (h) any equipment which is disposable must be disposed of immediately after use in an appropriate waste receptacle;
-  > - (i)[^key-350a698623223691d616a4ce3ea8b21a] for ear piercing–
+  > - (i)[^c-350a698623223691d616a4ce3ea8b21a] for ear piercing–
   >   - (i) a sterile cartridge for ear piercing; and
   >   - (ii) pre-sterilised jewellery supplied in packaging which indicates the part of the body for which it is intended,
   >
@@ -213,21 +213,21 @@ Article 3
   >   - (ii) the risks of the procedure; and
   >   - (iii) the after care requirements of the procedure.
   >
-  > (2D) Without prejudice to the generality of sub–paragraph (2) above [^key-c4ad7592cac6aa1f3c0ce88a19111a30]..., where a licensing authority grants or renews a licence for the carrying on of a business which provides skin piercing or tattooing and the activity is not to be carried out wholly or mainly in premises, the following conditions shall be imposed–
+  > (2D) Without prejudice to the generality of sub–paragraph (2) above [^c-c4ad7592cac6aa1f3c0ce88a19111a30]..., where a licensing authority grants or renews a licence for the carrying on of a business which provides skin piercing or tattooing and the activity is not to be carried out wholly or mainly in premises, the following conditions shall be imposed–
   >
-  > - (a) disposable non latex gloves[^key-0575d99be3e503f499c35e14494f3355] must , except for the activity of acupuncture,[^key-9a31c70eed4767ee8d146b1ceacbd264] be worn and changed for each client;
-  > - (aa)[^key-24281a5940bf306071d2574461420a55] subject to paragraph (ab), the activity of acupuncture must be carried out by an operator who has washed their hands immediately before carrying out the activity of acupuncture on each client;
-  > - (ab)[^key-92dfcd1483c396ab6434e87981d3a6bb] the activity of acupuncture must be carried out by an operator wearing disposable non latex gloves that have not previously been used with another client where—
+  > - (a) disposable non latex gloves[^c-0575d99be3e503f499c35e14494f3355] must , except for the activity of acupuncture,[^c-9a31c70eed4767ee8d146b1ceacbd264] be worn and changed for each client;
+  > - (aa)[^c-24281a5940bf306071d2574461420a55] subject to paragraph (ab), the activity of acupuncture must be carried out by an operator who has washed their hands immediately before carrying out the activity of acupuncture on each client;
+  > - (ab)[^c-92dfcd1483c396ab6434e87981d3a6bb] the activity of acupuncture must be carried out by an operator wearing disposable non latex gloves that have not previously been used with another client where—
   >   - (i) the operator has an open lesion on their hands,
   >   - (ii) the operator is handling items that may be contaminated with blood or other body fluids, or
   >   - (iii) the client is bleeding or has an open lesion on an exposed part of the client’s body,
-  > - (b) the skin piercing or tattooing may only be carried out through use of disposable razors or sterile single use disposable needles[^key-76e9c40dd306ef55c2a0a0bd77b09c2b];
-  > - (ba)[^key-a35cee6bc21f31fe43bdc914ad7652de] for the purposes of tattooing, only sterile pigment dispensed into single use pots or ink pre-packed in single use vials may be used;
+  > - (b) the skin piercing or tattooing may only be carried out through use of disposable razors or sterile single use disposable needles[^c-76e9c40dd306ef55c2a0a0bd77b09c2b];
+  > - (ba)[^c-a35cee6bc21f31fe43bdc914ad7652de] for the purposes of tattooing, only sterile pigment dispensed into single use pots or ink pre-packed in single use vials may be used;
   > - (c) any seating used for the skin piercing or tattooing must be washable and covered with a disposable paper sheet which shall be renewed after each use;
-  > - (d) any equipment which is not disposable shall be sterilised, if practicable, or[^key-f4a72c3fcd697f7c1dd87336a18fd745] thoroughly cleaned with fresh disinfectant after each use;
+  > - (d) any equipment which is not disposable shall be sterilised, if practicable, or[^c-f4a72c3fcd697f7c1dd87336a18fd745] thoroughly cleaned with fresh disinfectant after each use;
   > - (e) any equipment which is disposable must be disposed of immediately after use in an appropriate waste receptacle;
   > - (f) for tongue piercing, a sterilised clamp must be used;
-  > - (g)[^key-d4c636d092970fd6598e7f4f256b8bea] for ear piercing–
+  > - (g)[^c-d4c636d092970fd6598e7f4f256b8bea] for ear piercing–
   >   - (i) a sterile cartridge for ear piercing, and
   >   - (ii) pre-sterilised jewellery supplied in packaging which indicates the part of the body for which it is intended,
   >
@@ -289,62 +289,62 @@ The Order requires the designated activity to be licensed as from 1st April 2006
 
 [^c15343901]: Marginal citation: [1982 c. 45](https://www.legislation.gov.uk/ukpga/1982/45); the functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-3afcf3b3385d0f5654ea01e0c6da59f1]: Textual amendment: Words in art. 1(2) inserted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2006/604/article/2/2/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
+[^c-3afcf3b3385d0f5654ea01e0c6da59f1]: Textual amendment: Words in art. 1(2) inserted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2006/604/article/2/2/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
 
-[^key-d051e9ea4325162c2f88093789b9a63c]: Textual amendment: Words in art. 1(2) omitted (12.12.2006) by virtue of [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2006/604/article/2/2/a) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
+[^c-d051e9ea4325162c2f88093789b9a63c]: Textual amendment: Words in art. 1(2) omitted (12.12.2006) by virtue of [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2006/604/article/2/2/a) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
 
-[^key-57e1a7f76e5900fea76abb31b4a6a135]: Textual amendment: [Art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2006/43/article/2/b) substituted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2006/604/article/2/3) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
+[^c-57e1a7f76e5900fea76abb31b4a6a135]: Textual amendment: [Art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2006/43/article/2/b) substituted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2006/604/article/2/3) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
 
 [^c15343931]: Marginal citation: [Section 7(1)](https://www.legislation.gov.uk/ssi/2006/43/section/7/1) was amended by the [Entertainments (Increased Penalties) Act 1990 (c. 20)](https://www.legislation.gov.uk/ukpga/1990/20), [section 2(1)](https://www.legislation.gov.uk/ukpga/1990/20/section/2/1); the reference in section 7(1) to a fine not exceeding £500 became a reference to a fine not exceeding level 4 on the standard scale by virtue of section 289[G of the Criminal Procedure (Scotland) Act 1975 (c. 21)](https://www.legislation.gov.uk/ukpga/1975/21), which section by consolidation became section 225 of the [Criminal Procedure (Scotland) Act 1995 (c. 46)](https://www.legislation.gov.uk/ukpga/1995/46).
 
 [^c15343941]: Marginal citation: The reference in section 6(4) to a fine not exceeding £200 became a reference to a fine not exceeding level 3 on the standard scale by virtue of section 289[G of the Criminal Procedure (Scotland) Act 1975 (c. 21)](https://www.legislation.gov.uk/ukpga/1975/21), which section by consolidation became section 225 of the [Criminal Procedure (Scotland) Act 1995 (c. 46)](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-8ee16dfd87d299aadbf2305eedf45e55]: Textual amendment: Words in sch. para. 5(b) substituted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/a) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
+[^c-8ee16dfd87d299aadbf2305eedf45e55]: Textual amendment: Words in sch. para. 5(b) substituted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/a) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
 
-[^key-4e10648cc7f9e3daee06c8d21cdce5cf]: Textual amendment: Words in sch. para. 5(b) substituted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
+[^c-4e10648cc7f9e3daee06c8d21cdce5cf]: Textual amendment: Words in sch. para. 5(b) substituted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
 
-[^key-1e8a18eb8651c519c7cbbe4b0f1eea77]: Textual amendment: Words in sch. para. 5(b) substituted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/c) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
+[^c-1e8a18eb8651c519c7cbbe4b0f1eea77]: Textual amendment: Words in sch. para. 5(b) substituted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/c) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
 
-[^key-afced6bfc9f966cbd36d3bf6320b6dd0]: Textual amendment: Words in sch. para. 5(b) inserted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(d)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/d) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
+[^c-afced6bfc9f966cbd36d3bf6320b6dd0]: Textual amendment: Words in sch. para. 5(b) inserted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(d)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/d) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
 
-[^key-8524191f2ba517634eaede2b8d0b9fa2]: Textual amendment: Words in sch. para. 5(b) inserted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(e)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/e) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
+[^c-8524191f2ba517634eaede2b8d0b9fa2]: Textual amendment: Words in sch. para. 5(b) inserted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(e)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/e) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
 
-[^key-5422234f562db52ac626a51bed4268bf]: Textual amendment: Words in sch. para. 5(b) inserted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(f)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/f) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
+[^c-5422234f562db52ac626a51bed4268bf]: Textual amendment: Words in sch. para. 5(b) inserted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(f)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/f) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
 
-[^key-14c3d5045621dc223aa22ae78a3a1ce2]: Textual amendment: Words in sch. para. 5(b) substituted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(g)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/g) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
+[^c-14c3d5045621dc223aa22ae78a3a1ce2]: Textual amendment: Words in sch. para. 5(b) substituted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(g)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/g) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
 
-[^key-b708469ba96102bdca3dd800d83a71aa]: Textual amendment: Words in sch. para. 5(b) inserted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(h)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/h) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
+[^c-b708469ba96102bdca3dd800d83a71aa]: Textual amendment: Words in sch. para. 5(b) inserted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(h)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/h) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
 
-[^key-6018346d05380a53b4aab23015f2bf44]: Textual amendment: Words in sch. para. 5(b) inserted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(i)(i)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/i/i) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
+[^c-6018346d05380a53b4aab23015f2bf44]: Textual amendment: Words in sch. para. 5(b) inserted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(i)(i)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/i/i) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
 
-[^key-8352e0a284a862a2e703c11f84b70c04]: Textual amendment: Words in sch. para. 5(b) substituted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(i)(ii)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/i/ii) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
+[^c-8352e0a284a862a2e703c11f84b70c04]: Textual amendment: Words in sch. para. 5(b) substituted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(i)(ii)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/i/ii) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
 
-[^key-2641456b4084e0892154e26e25bad1ef]: Textual amendment: Words in sch. para. 5(b) inserted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(j)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/j) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
+[^c-2641456b4084e0892154e26e25bad1ef]: Textual amendment: Words in sch. para. 5(b) inserted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(j)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/j) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
 
-[^key-891e35b5ea5020620f6e242c712f518f]: Textual amendment: Words in sch. para. 5(b) substituted (26.3.2026) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2026 (S.S.I. 2026/162)](https://www.legislation.gov.uk/ssi/2026/162), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/162/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2026/162/article/2/2/a)
+[^c-891e35b5ea5020620f6e242c712f518f]: Textual amendment: Words in sch. para. 5(b) substituted (26.3.2026) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2026 (S.S.I. 2026/162)](https://www.legislation.gov.uk/ssi/2026/162), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/162/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2026/162/article/2/2/a)
 
-[^key-1c7e86db1407b315faf641ee6f5591d3]: Textual amendment: Words in sch. para. 5(b) substituted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(k)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/k) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
+[^c-1c7e86db1407b315faf641ee6f5591d3]: Textual amendment: Words in sch. para. 5(b) substituted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(k)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/k) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
 
-[^key-2863403f7eb4f23c4a0bb757923641eb]: Textual amendment: Words in sch. para. 5(b) inserted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(l)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/l) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
+[^c-2863403f7eb4f23c4a0bb757923641eb]: Textual amendment: Words in sch. para. 5(b) inserted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(l)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/l) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
 
-[^key-350a698623223691d616a4ce3ea8b21a]: Textual amendment: Words in sch. para. 5(b) substituted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(m)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/m) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
+[^c-350a698623223691d616a4ce3ea8b21a]: Textual amendment: Words in sch. para. 5(b) substituted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(m)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/m) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
 
-[^key-c4ad7592cac6aa1f3c0ce88a19111a30]: Textual amendment: Words in sch. para. 5(b) omitted (12.12.2006) by virtue of [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(n)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/n) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
+[^c-c4ad7592cac6aa1f3c0ce88a19111a30]: Textual amendment: Words in sch. para. 5(b) omitted (12.12.2006) by virtue of [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(n)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/n) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
 
-[^key-0575d99be3e503f499c35e14494f3355]: Textual amendment: Words in sch. para. 5(b) substituted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(o)(i)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/o/i) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
+[^c-0575d99be3e503f499c35e14494f3355]: Textual amendment: Words in sch. para. 5(b) substituted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(o)(i)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/o/i) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
 
-[^key-9a31c70eed4767ee8d146b1ceacbd264]: Textual amendment: Words in sch. para. 5(b) inserted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(o)(ii)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/o/ii) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
+[^c-9a31c70eed4767ee8d146b1ceacbd264]: Textual amendment: Words in sch. para. 5(b) inserted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(o)(ii)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/o/ii) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
 
-[^key-24281a5940bf306071d2574461420a55]: Textual amendment: Words in sch. para. 5(b) inserted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(p)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/p) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
+[^c-24281a5940bf306071d2574461420a55]: Textual amendment: Words in sch. para. 5(b) inserted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(p)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/p) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
 
-[^key-92dfcd1483c396ab6434e87981d3a6bb]: Textual amendment: Words in sch. para. 5(b) substituted (26.3.2026) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2026 (S.S.I. 2026/162)](https://www.legislation.gov.uk/ssi/2026/162), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/162/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2026/162/article/2/2/b)
+[^c-92dfcd1483c396ab6434e87981d3a6bb]: Textual amendment: Words in sch. para. 5(b) substituted (26.3.2026) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2026 (S.S.I. 2026/162)](https://www.legislation.gov.uk/ssi/2026/162), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/162/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2026/162/article/2/2/b)
 
-[^key-76e9c40dd306ef55c2a0a0bd77b09c2b]: Textual amendment: Words in sch. para. 5(b) substituted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(q)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/q) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
+[^c-76e9c40dd306ef55c2a0a0bd77b09c2b]: Textual amendment: Words in sch. para. 5(b) substituted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(q)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/q) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
 
-[^key-a35cee6bc21f31fe43bdc914ad7652de]: Textual amendment: Words in sch. para. 5(b) inserted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(r)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/r) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
+[^c-a35cee6bc21f31fe43bdc914ad7652de]: Textual amendment: Words in sch. para. 5(b) inserted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(r)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/r) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
 
-[^key-f4a72c3fcd697f7c1dd87336a18fd745]: Textual amendment: Words in sch. para. 5(b) inserted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(s)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/s) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
+[^c-f4a72c3fcd697f7c1dd87336a18fd745]: Textual amendment: Words in sch. para. 5(b) inserted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(s)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/s) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
 
-[^key-d4c636d092970fd6598e7f4f256b8bea]: Textual amendment: Words in sch. para. 5(b) substituted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(t)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/t) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
+[^c-d4c636d092970fd6598e7f4f256b8bea]: Textual amendment: Words in sch. para. 5(b) substituted (12.12.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Amendment Order 2006 (S.S.I. 2006/604)](https://www.legislation.gov.uk/ssi/2006/604), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/604/article/1/1), [2(4)(t)](https://www.legislation.gov.uk/ssi/2006/604/article/2/4/t) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/604/article/3))
 
 [^c15343951]: Marginal citation: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36).

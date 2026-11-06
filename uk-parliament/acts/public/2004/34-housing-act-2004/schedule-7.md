@@ -37,7 +37,7 @@ Section 132
 (5) Sub-paragraphs (6) and (7) apply where—
 
 - (a) a final EDMO (“the final EDMO”) has been made under section 136 so as to replace the order (“the interim EDMO”), but
-- (b) the final EDMO has not come into force because of an appeal to the appropriate tribunal[^key-b7b6c9aa9ef1d811ec70988af7c40920] under paragraph 26 against the making of the final EDMO.
+- (b) the final EDMO has not come into force because of an appeal to the appropriate tribunal[^c-b7b6c9aa9ef1d811ec70988af7c40920] under paragraph 26 against the making of the final EDMO.
 
 (6) If the date on which the final EDMO comes into force in relation to the dwelling following the disposal of the appeal is later than the date on which the interim EDMO would cease to have effect apart from this sub-paragraph, the interim EDMO continues in force until that later date.
 
@@ -58,7 +58,7 @@ Section 132
 - (c) may create one or more of the following—
   - (i) an interest in the dwelling which, as far as possible, has all the incidents of a leasehold, or
   - (ii) a right in the nature of a licence to occupy part of the dwelling;
-- (d) may apply to the appropriate tribunal[^key-0a4c6716621b2e86d2bc64834323d4d7] for an order under paragraph 22 determining a lease or licence of the dwelling.
+- (d) may apply to the appropriate tribunal[^c-0a4c6716621b2e86d2bc64834323d4d7] for an order under paragraph 22 determining a lease or licence of the dwelling.
 
 (4) But the authority may not under sub-paragraph (3)(c) create any interest or right in the nature of a lease or licence unless—
 
@@ -205,7 +205,7 @@ Paragraph 26(1)(c) enables an appeal to be brought where the order does not prov
 - (a) keep full accounts of their income and expenditure in respect of the dwelling; and
 - (b) afford to the relevant proprietor, and to any other person who has an estate or interest in the dwelling, all reasonable facilities for inspecting, taking copies of and verifying those accounts.
 
-(7) The relevant proprietor may apply to the appropriate tribunal[^key-ba8a7f6a4d16fed5c98e57e840b15e1b] for an order—
+(7) The relevant proprietor may apply to the appropriate tribunal[^c-ba8a7f6a4d16fed5c98e57e840b15e1b] for an order—
 
 - (a) declaring that an amount shown in the accounts as expenditure of the authority does not constitute relevant expenditure (see sub-paragraph (2));
 - (b) requiring the authority to make such financial adjustments (in the accounts and otherwise) as are necessary to reflect the tribunal’s declaration.
@@ -280,13 +280,13 @@ the order accordingly ceases to have effect on that date.
 (6) Sub-paragraphs (7) and (8) apply where—
 
 - (a) a new final EDMO (“**the new order**”) has been made so as to replace the order (“**the existing order**”), but
-- (b) the new order has not come into force because of an appeal to the appropriate tribunal[^key-361a8ef1f54d5504e9ad188c55cbdee0] under paragraph 26 against the making of that order.
+- (b) the new order has not come into force because of an appeal to the appropriate tribunal[^c-361a8ef1f54d5504e9ad188c55cbdee0] under paragraph 26 against the making of that order.
 
 (7) If the date on which the new order comes into force in relation to the dwelling following the disposal of the appeal is later than the date on which the existing order would cease to have effect apart from this sub-paragraph, the existing order continues in force until that later date.
 
 (8) If, on the application of the authority, the tribunal makes an order providing for the existing order to continue in force, pending the disposal of the appeal, until a date later than that on which it would cease to have effect apart from this sub-paragraph, the existing order accordingly continues in force until that later date.
 
-(9) This paragraph has effect subject to paragraphs 15 and 16 (variation or revocation of orders) and to the power of revocation exercisable by the appropriate tribunal[^key-d12e832b4358ffa5088e667c72c98ab2] on an appeal made under paragraph 26 or 30.
+(9) This paragraph has effect subject to paragraphs 15 and 16 (variation or revocation of orders) and to the power of revocation exercisable by the appropriate tribunal[^c-d12e832b4358ffa5088e667c72c98ab2] on an appeal made under paragraph 26 or 30.
 
 #### General effect of final EDMOs
 
@@ -301,16 +301,16 @@ the order accordingly ceases to have effect on that date.
 - (c) may create one or more of the following—
   - (i) an interest in the dwelling which, as far as possible, has all the incidents of a leasehold, or
   - (ii) a right in the nature of a licence to occupy part of the dwelling;
-- (d) may apply to the appropriate tribunal[^key-43f5845471a94a558b6d7a34e6f46dcd] for an order under paragraph 22 determining a lease or licence of the dwelling.
+- (d) may apply to the appropriate tribunal[^c-43f5845471a94a558b6d7a34e6f46dcd] for an order under paragraph 22 determining a lease or licence of the dwelling.
 
 (4) The powers of the authority under sub-paragraph (3)(c) are restricted as follows—
 
 - (a) they may not create any interest or right in the nature of a lease or licence—
   - (i) which is for a fixed term expiring after the date on which the order is due to expire, or
-  - (ii) (subject to paragraph (b)) *(affected by repeal, see note)*[^key-a638c43ae0d98a64138c7ca8e6b4c854] which is terminable by notice to quit, or an equivalent notice, of more than 4 weeks,
+  - (ii) (subject to paragraph (b)) *(affected by repeal, see note)*[^c-a638c43ae0d98a64138c7ca8e6b4c854] which is terminable by notice to quit, or an equivalent notice, of more than 4 weeks,
 
   unless consent in writing has been given by the relevant proprietor;
-- (b)[^key-516f576273da897ee300541599ae87a5] they may create an interest in the nature of an assured shorthold tenancy without any such consent so long as it is created before the beginning of the period of 6 months that ends with the date on which the order is due to expire. *(affected by repeal, see note)*[^key-516f576273da897ee300541599ae87a5]
+- (b)[^c-516f576273da897ee300541599ae87a5] they may create an interest in the nature of an assured shorthold tenancy without any such consent so long as it is created before the beginning of the period of 6 months that ends with the date on which the order is due to expire. *(affected by repeal, see note)*[^c-516f576273da897ee300541599ae87a5]
 - (b) paragraph (a) does not apply to the creation of an interest in the nature of an assured tenancy within the meaning of the Housing Act 1988.
 
 (5) The authority—
@@ -469,7 +469,7 @@ except to the extent that any of those rights or remedies would prevent the loca
 
 #### Application to residential property tribunal in respect of breach of management scheme
 
-**14.**[^c2052072] (1) An affected person may apply to the appropriate tribunal[^key-380005141e36042bb12469ecc9ed9a7e] for an order requiring the local housing authority to manage a dwelling in accordance with the management scheme contained in a final EDMO made in respect of the dwelling.
+**14.**[^c2052072] (1) An affected person may apply to the appropriate tribunal[^c-380005141e36042bb12469ecc9ed9a7e] for an order requiring the local housing authority to manage a dwelling in accordance with the management scheme contained in a final EDMO made in respect of the dwelling.
 
 (2) On such an application the tribunal may, if it considers it appropriate to do so, make an order—
 
@@ -485,7 +485,7 @@ except to the extent that any of those rights or remedies would prevent the loca
 (4) In this paragraph “**affected person**” means—
 
 - (a) the relevant proprietor, and
-- (b) any third party to whom compensation is payable by virtue of an order under section 134(4) or 138(2) or a decision of the authority under section 136(4) or 138(3) or who was a lessor, lessee, licensor or licensee under a lease or licence determined by an order of the appropriate tribunal[^key-e4c21c7d5057908901d0b5ba613f4d92] under paragraph 22 and to whom compensation is payable by virtue of an order under sub-paragraph (5) of that paragraph.
+- (b) any third party to whom compensation is payable by virtue of an order under section 134(4) or 138(2) or a decision of the authority under section 136(4) or 138(3) or who was a lessor, lessee, licensor or licensee under a lease or licence determined by an order of the appropriate tribunal[^c-e4c21c7d5057908901d0b5ba613f4d92] under paragraph 22 and to whom compensation is payable by virtue of an order under sub-paragraph (5) of that paragraph.
 
 #### Variation or revocation of final EDMOs
 
@@ -629,9 +629,9 @@ they must, on a request by the relevant proprietor, give up possession of the fu
 
 (3) In this paragraph “**furniture**” includes fittings and other articles.
 
-#### Power of a ... tribunal to determine certain leases and licences[^key-a9fef08ddc9432cfadbd9fa4466c7ca3]
+#### Power of a ... tribunal to determine certain leases and licences[^c-a9fef08ddc9432cfadbd9fa4466c7ca3]
 
-**22.**[^c2052112] (1) The appropriate tribunal[^key-4ca7733eaf531a90fce8ef1f8ffef519] may make an order determining a lease or licence to which this paragraph applies if—
+**22.**[^c2052112] (1) The appropriate tribunal[^c-4ca7733eaf531a90fce8ef1f8ffef519] may make an order determining a lease or licence to which this paragraph applies if—
 
 - (a) the case falls within sub-paragraph (3) or (4), and
 - (b) the tribunal are satisfied that the dwelling is not being occupied and that the local housing authority need to have the right to possession of the dwelling in order to secure that the dwelling becomes occupied.
@@ -650,7 +650,7 @@ they must, on a request by the relevant proprietor, give up possession of the fu
 (4) A case falls within this sub-paragraph if—
 
 - (a) the local housing authority have applied to the residential property tribunal under section 133 for an order authorising them to make an interim EDMO in respect of the dwelling and an order determining the lease or licence, and
-- (b) the appropriate tribunal[^key-8d833b5d1d0238a2635852d003ac2e6e] has decided to authorise the authority to make an interim EDMO in respect of the dwelling.
+- (b) the appropriate tribunal[^c-8d833b5d1d0238a2635852d003ac2e6e] has decided to authorise the authority to make an interim EDMO in respect of the dwelling.
 
 (5) An order under this paragraph may include provision requiring the local housing authority to pay such amount or amounts to one or more of the lessor, lessee, licensor or licensee by way of compensation in respect of the determination of the lease or licence as the tribunal determines.
 
@@ -758,7 +758,7 @@ as from the termination date.
 
 #### Appeals: decisions relating to EDMOs
 
-**26.**[^c2052131] (1) A relevant person may appeal to the appropriate tribunal[^key-3619da68673b2c03f8e22aa12ce3f46d] against—
+**26.**[^c2052131] (1) A relevant person may appeal to the appropriate tribunal[^c-3619da68673b2c03f8e22aa12ce3f46d] against—
 
 - (a) a decision of the local housing authority to make a final EDMO,
 - (b) the terms of a final EDMO (including the terms of the management scheme contained in it), or
@@ -767,7 +767,7 @@ as from the termination date.
 (2) Where an appeal is made under sub-paragraph (1)(c)—
 
 - (a) the appeal may be brought at any time while the order is in force (with the result that nothing in sub-paragraph (3) or paragraph 27 applies in relation to the appeal); and
-- (b) the powers of the appropriate tribunal[^key-e2d93c83a74395edd0bc2a8f44a17880] under paragraph 28 are limited to determining whether the order should be varied by the tribunal so as to include a term providing for the matter or matters in question, and (if so) what provision should be made by the term.
+- (b) the powers of the appropriate tribunal[^c-e2d93c83a74395edd0bc2a8f44a17880] under paragraph 28 are limited to determining whether the order should be varied by the tribunal so as to include a term providing for the matter or matters in question, and (if so) what provision should be made by the term.
 
 (3) If no appeal is brought under this paragraph in respect of a final EDMO within the time allowed by paragraph 27 for making such an appeal, the order is final and conclusive as to the matters which could have been raised on appeal.
 
@@ -777,11 +777,11 @@ as from the termination date.
 
 (2) Any such appeal must be made within the period of 28 days beginning with the date specified in the notice under paragraph 7(5) of Schedule 6 (as applied by section 136(5)) as the date on which the order was made.
 
-(3) The appropriate tribunal[^key-18ed284e540672c08c36152c69250d51] may allow an appeal to be made to it after the end of the period mentioned in sub-paragraph (2) if it is satisfied that there is a good reason for the failure to appeal before the end of that period (and for any delay since then in applying for permission to appeal out of time).
+(3) The appropriate tribunal[^c-18ed284e540672c08c36152c69250d51] may allow an appeal to be made to it after the end of the period mentioned in sub-paragraph (2) if it is satisfied that there is a good reason for the failure to appeal before the end of that period (and for any delay since then in applying for permission to appeal out of time).
 
-#### Appeals: powers of ... tribunal on appeal under paragraph 26[^key-740f3abab72eaed6d55aaaa1ff6e7d69]
+#### Appeals: powers of ... tribunal on appeal under paragraph 26[^c-740f3abab72eaed6d55aaaa1ff6e7d69]
 
-**28.**[^c2052139] (1) This paragraph applies to an appeal to the appropriate tribunal[^key-331ac87859ad1abcc755162ecd82df36] under paragraph 26 in respect of an interim EDMO or a final EDMO.
+**28.**[^c2052139] (1) This paragraph applies to an appeal to the appropriate tribunal[^c-331ac87859ad1abcc755162ecd82df36] under paragraph 26 in respect of an interim EDMO or a final EDMO.
 
 (2) The appeal—
 
@@ -811,7 +811,7 @@ as from the termination date.
 
 #### Right to appeal against decision or refusal to vary or revoke EDMO
 
-**30.**[^c2052142] A relevant person may appeal to the appropriate tribunal[^key-f1ee407df09e437679f08a484249d5cd] against—
+**30.**[^c2052142] A relevant person may appeal to the appropriate tribunal[^c-f1ee407df09e437679f08a484249d5cd] against—
 
 - (a) a decision of a local housing authority to vary or revoke an interim EDMO or a final EDMO, or
 - (b) a refusal of a local housing authority to vary or revoke an interim EDMO or a final EDMO.
@@ -822,11 +822,11 @@ as from the termination date.
 
 (2) Any such appeal must be made before the end of the period of 28 days beginning with the date specified in the notice under paragraph 11, 16, 19 or 22 of Schedule 6 (as applied by paragraph 8 or 17 of this Schedule (as the case may be)) as the date on which the decision concerned was made.
 
-(3) The appropriate tribunal[^key-77f6c4fd459130e023cd105f8c1ee4b7] may allow an appeal to be made to it after the end of the period mentioned in sub-paragraph (2) if it is satisfied that there is a good reason for the failure to appeal before the end of that period (and for any delay since then in applying for permission to appeal out of time).
+(3) The appropriate tribunal[^c-77f6c4fd459130e023cd105f8c1ee4b7] may allow an appeal to be made to it after the end of the period mentioned in sub-paragraph (2) if it is satisfied that there is a good reason for the failure to appeal before the end of that period (and for any delay since then in applying for permission to appeal out of time).
 
-#### Powers of ... tribunal on appeal under paragraph 30[^key-724144c9c5e23f437601c6d843ce515a]
+#### Powers of ... tribunal on appeal under paragraph 30[^c-724144c9c5e23f437601c6d843ce515a]
 
-**32.**[^c2052146] (1) This paragraph applies to an appeal to the appropriate tribunal[^key-a10c213c696f4154557e570c82f16aaa] under paragraph 30 against a decision to vary or revoke, or (as the case may be) to refuse to vary or revoke, an interim EDMO or final EDMO.
+**32.**[^c2052146] (1) This paragraph applies to an appeal to the appropriate tribunal[^c-a10c213c696f4154557e570c82f16aaa] under paragraph 30 against a decision to vary or revoke, or (as the case may be) to refuse to vary or revoke, an interim EDMO or final EDMO.
 
 (2) The appeal—
 
@@ -860,7 +860,7 @@ as from the termination date.
 
 **34.**[^c2052152] (1) This paragraph applies where a local housing authority have made a decision under section 136(4) or 138(3) as to whether compensation should be paid to a third party in respect of any interference with his rights in consequence of a final EDMO.
 
-(2) The third party may appeal to the appropriate tribunal[^key-62e73b2f78d78120320782c5ce256268] against—
+(2) The third party may appeal to the appropriate tribunal[^c-62e73b2f78d78120320782c5ce256268] against—
 
 - (a) a decision by the authority not to pay compensation to him, or
 - (b) a decision of the authority so far as relating to the amount of compensation that should be paid.
@@ -874,9 +874,9 @@ as from the termination date.
 - (a) where the decision is made before the final EDMO is made, within the period of 28 days beginning with the date specified in the notice under paragraph 7(5) of Schedule 6 (as applied by section 136(5)) as the date on which the order was made, or
 - (b) in any other case, within the period of 28 days beginning with the date the authority notifies the third party under section 138(4).
 
-(3) The appropriate tribunal[^key-ba5f5e8e0d4ddec04cf6ae3a0cf933cf] may allow an appeal to be made to it after the end of the period mentioned in sub-paragraph (2) if it is satisfied that there is good reason for the failure to appeal before the end of that period (and for any delay since then in applying for permission to appeal out of time).
+(3) The appropriate tribunal[^c-ba5f5e8e0d4ddec04cf6ae3a0cf933cf] may allow an appeal to be made to it after the end of the period mentioned in sub-paragraph (2) if it is satisfied that there is good reason for the failure to appeal before the end of that period (and for any delay since then in applying for permission to appeal out of time).
 
-#### Powers of ... tribunal on appeal under paragraph 34[^key-316b35522f1b9e2889bc5a7cc6b6a4aa]
+#### Powers of ... tribunal on appeal under paragraph 34[^c-316b35522f1b9e2889bc5a7cc6b6a4aa]
 
 **36.**[^c2052156] (1) This paragraph applies in relation to an appeal under paragraph 34 against a decision of a local housing authority not to pay compensation to a third party or as to the amount of compensation to be paid.
 
@@ -897,11 +897,11 @@ as from the termination date.
 
 [^c2052021]: Commencement: Sch. 7 para. 1 wholly in force at 16.6.2006; Sch. 7 para. 1 not in force at Royal Assent see s. 270(4)(5); Sch. 7 para. 1 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 7 para. 1 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-b7b6c9aa9ef1d811ec70988af7c40920]: Textual amendment: Words in Sch. 7 para. 1(5)(b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-b7b6c9aa9ef1d811ec70988af7c40920]: Textual amendment: Words in Sch. 7 para. 1(5)(b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2052022]: Commencement: Sch. 7 para. 2 wholly in force at 16.6.2006; Sch. 7 para. 2 not in force at Royal Assent see s. 270(4)(5); Sch. 7 para. 2 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 7 para. 2 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-0a4c6716621b2e86d2bc64834323d4d7]: Textual amendment: Words in Sch. 7 para. 2(3)(d) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-0a4c6716621b2e86d2bc64834323d4d7]: Textual amendment: Words in Sch. 7 para. 2(3)(d) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c693777]: Commencement: Sch. 7 para. 3 wholly in force at 16.6.2006; Sch. 7 para. 3 in force for certain purposes at Royal Assent see s. 270(2)(b); Sch. 7 para. 3 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); Sch. 7 para. 3 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
@@ -909,7 +909,7 @@ as from the termination date.
 
 [^c2052027]: Commencement: Sch. 7 para. 5 wholly in force at 16.6.2006; Sch. 7 para. 5 not in force at Royal Assent see s. 270(4)(5); Sch. 7 para. 5 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 7 para. 5 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-ba8a7f6a4d16fed5c98e57e840b15e1b]: Textual amendment: Words in Sch. 7 para. 5(7) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-ba8a7f6a4d16fed5c98e57e840b15e1b]: Textual amendment: Words in Sch. 7 para. 5(7) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2052042]: Commencement: Sch. 7 para. 6 wholly in force at 16.6.2006; Sch. 7 para. 6 not in force at Royal Assent see s. 270(4)(5); Sch. 7 para. 6 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); Sch. 7 para. 6 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
@@ -919,17 +919,17 @@ as from the termination date.
 
 [^c2052056]: Commencement: Sch. 7 para. 9 wholly in force at 16.6.2006; Sch. 7 para. 9 not in force at Royal Assent see s. 270(4)(5); Sch. 7 para. 9 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 7 para. 9 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-361a8ef1f54d5504e9ad188c55cbdee0]: Textual amendment: Words in Sch. 7 para. 9(6)(b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-361a8ef1f54d5504e9ad188c55cbdee0]: Textual amendment: Words in Sch. 7 para. 9(6)(b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-d12e832b4358ffa5088e667c72c98ab2]: Textual amendment: Words in Sch. 7 para. 9(9) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-d12e832b4358ffa5088e667c72c98ab2]: Textual amendment: Words in Sch. 7 para. 9(9) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2052057]: Commencement: Sch. 7 para. 10 wholly in force at 16.6.2006; Sch. 7 para. 10 not in force at Royal Assent see s. 270(4)(5); Sch. 7 para. 10 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 7 para. 10 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-43f5845471a94a558b6d7a34e6f46dcd]: Textual amendment: Words in Sch. 7 para. 10(3)(d) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-43f5845471a94a558b6d7a34e6f46dcd]: Textual amendment: Words in Sch. 7 para. 10(3)(d) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-a638c43ae0d98a64138c7ca8e6b4c854]: Textual amendment: Words in Sch. 7 para. 10(4)(a)(ii) omitted (1.5.2026 for specified purposes) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [s. 145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8), [Sch. 2 para. 66(a)](https://www.legislation.gov.uk/ukpga/2025/26/schedule/2/paragraph/66/a) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/c)
+[^c-a638c43ae0d98a64138c7ca8e6b4c854]: Textual amendment: Words in Sch. 7 para. 10(4)(a)(ii) omitted (1.5.2026 for specified purposes) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [s. 145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8), [Sch. 2 para. 66(a)](https://www.legislation.gov.uk/ukpga/2025/26/schedule/2/paragraph/66/a) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/c)
 
-[^key-516f576273da897ee300541599ae87a5]: Textual amendment: Sch. 7 para. 10(4)(b) substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [s. 145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8), [Sch. 2 para. 66(b)](https://www.legislation.gov.uk/ukpga/2025/26/schedule/2/paragraph/66/b) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/c)
+[^c-516f576273da897ee300541599ae87a5]: Textual amendment: Sch. 7 para. 10(4)(b) substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [s. 145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8), [Sch. 2 para. 66(b)](https://www.legislation.gov.uk/ukpga/2025/26/schedule/2/paragraph/66/b) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/c)
 
 [^c693778]: Commencement: Sch. 7 para. 11 wholly in force at 16.6.2006; Sch. 7 para. 11 in force at for certain purposes at Royal Assent see s. 270(2)(b); Sch. 7 para. 11 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); Sch. 7 para. 11 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
@@ -939,9 +939,9 @@ as from the termination date.
 
 [^c2052072]: Commencement: Sch. 7 para. 14 wholly in force at 16.6.2006; Sch. 7 para. 14 not in force at Royal Assent see s. 270(4)(5); Sch. 7 para. 14 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 7 para. 14 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-380005141e36042bb12469ecc9ed9a7e]: Textual amendment: Words in Sch. 7 para. 14(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-380005141e36042bb12469ecc9ed9a7e]: Textual amendment: Words in Sch. 7 para. 14(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-e4c21c7d5057908901d0b5ba613f4d92]: Textual amendment: Words in Sch. 7 para. 14(4)(b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(c)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/c) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-e4c21c7d5057908901d0b5ba613f4d92]: Textual amendment: Words in Sch. 7 para. 14(4)(b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(c)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/c) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2052075]: Commencement: Sch. 7 para. 15 wholly in force at 16.6.2006; Sch. 7 para. 15 not in force at Royal Assent see s. 270(4)(5); Sch. 7 para. 15 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); Sch. 7 para. 15 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
@@ -957,13 +957,13 @@ as from the termination date.
 
 [^c2052108]: Commencement: Sch. 7 para. 21 wholly in force at 16.6.2006; Sch. 7 para. 21 not in force at Royal Assent see s. 270(4)(5); Sch. 7 para. 21 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 7 para. 21 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-a9fef08ddc9432cfadbd9fa4466c7ca3]: Textual amendment: Words in Sch. 7 para. 22 heading omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(d)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/d) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-a9fef08ddc9432cfadbd9fa4466c7ca3]: Textual amendment: Words in Sch. 7 para. 22 heading omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(d)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/d) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2052112]: Commencement: Sch. 7 para. 22 wholly in force at 16.6.2006; Sch. 7 para. 22 not in force at Royal Assent see s. 270(4)(5); Sch. 7 para. 22 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 7 para. 22 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-4ca7733eaf531a90fce8ef1f8ffef519]: Textual amendment: Words in Sch. 7 para. 22(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-4ca7733eaf531a90fce8ef1f8ffef519]: Textual amendment: Words in Sch. 7 para. 22(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-8d833b5d1d0238a2635852d003ac2e6e]: Textual amendment: Words in Sch. 7 para. 22(4)(b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(c)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/c) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-8d833b5d1d0238a2635852d003ac2e6e]: Textual amendment: Words in Sch. 7 para. 22(4)(b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(c)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/c) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2052115]: Commencement: Sch. 7 para. 23 wholly in force at 16.6.2006; Sch. 7 para. 23 not in force at Royal Assent see s. 270(4)(5); Sch. 7 para. 23 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 7 para. 23 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
@@ -973,19 +973,19 @@ as from the termination date.
 
 [^c2052131]: Commencement: Sch. 7 para. 26 wholly in force at 16.6.2006; Sch. 7 para. 26 not in force at Royal Assent see s. 270(4)(5); Sch. 7 para. 26 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 7 para. 26 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-3619da68673b2c03f8e22aa12ce3f46d]: Textual amendment: Words in Sch. 7 para. 26(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-3619da68673b2c03f8e22aa12ce3f46d]: Textual amendment: Words in Sch. 7 para. 26(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-e2d93c83a74395edd0bc2a8f44a17880]: Textual amendment: Words in Sch. 7 para. 26(2)(b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(c)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/c) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-e2d93c83a74395edd0bc2a8f44a17880]: Textual amendment: Words in Sch. 7 para. 26(2)(b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(c)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/c) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2052138]: Commencement: Sch. 7 para. 27 wholly in force at 16.6.2006; Sch. 7 para. 27 not in force at Royal Assent see s. 270(4)(5); Sch. 7 para. 27 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 7 para. 27 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-18ed284e540672c08c36152c69250d51]: Textual amendment: Words in Sch. 7 para. 27(3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-18ed284e540672c08c36152c69250d51]: Textual amendment: Words in Sch. 7 para. 27(3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-740f3abab72eaed6d55aaaa1ff6e7d69]: Textual amendment: Words in Sch. 7 para. 28 heading omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(d)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/d) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-740f3abab72eaed6d55aaaa1ff6e7d69]: Textual amendment: Words in Sch. 7 para. 28 heading omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(d)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/d) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2052139]: Commencement: Sch. 7 para. 28 wholly in force at 16.6.2006; Sch. 7 para. 28 not in force at Royal Assent see s. 270(4)(5); Sch. 7 para. 28 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 7 para. 28 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-331ac87859ad1abcc755162ecd82df36]: Textual amendment: Words in Sch. 7 para. 28(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-331ac87859ad1abcc755162ecd82df36]: Textual amendment: Words in Sch. 7 para. 28(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2052140]: Commencement: Sch. 7 para. 29 wholly in force at 16.6.2006; Sch. 7 para. 29 not in force at Royal Assent see s. 270(4)(5); Sch. 7 para. 29 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 7 para. 29 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
@@ -993,17 +993,17 @@ as from the termination date.
 
 [^c2052142]: Commencement: Sch. 7 para. 30 wholly in force at 16.6.2006; Sch. 7 para. 30 not in force at Royal Assent see s. 270(4)(5); Sch. 7 para. 30 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 7 para. 30 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-f1ee407df09e437679f08a484249d5cd]: Textual amendment: Words in Sch. 7 para. 30 substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-f1ee407df09e437679f08a484249d5cd]: Textual amendment: Words in Sch. 7 para. 30 substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2052145]: Commencement: Sch. 7 para. 31 wholly in force at 16.6.2006; Sch. 7 para. 31 not in force at Royal Assent see s. 270(4)(5); Sch. 7 para. 31 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 7 para. 31 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-77f6c4fd459130e023cd105f8c1ee4b7]: Textual amendment: Words in Sch. 7 para. 31(3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-77f6c4fd459130e023cd105f8c1ee4b7]: Textual amendment: Words in Sch. 7 para. 31(3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-724144c9c5e23f437601c6d843ce515a]: Textual amendment: Words in Sch. 7 para. 32 heading omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(d)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/d) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-724144c9c5e23f437601c6d843ce515a]: Textual amendment: Words in Sch. 7 para. 32 heading omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(d)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/d) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2052146]: Commencement: Sch. 7 para. 32 wholly in force at 16.6.2006; Sch. 7 para. 32 not in force at Royal Assent see s. 270(4)(5); Sch. 7 para. 32 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 7 para. 32 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-a10c213c696f4154557e570c82f16aaa]: Textual amendment: Words in Sch. 7 para. 32(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-a10c213c696f4154557e570c82f16aaa]: Textual amendment: Words in Sch. 7 para. 32(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2052151]: Commencement: Sch. 7 para. 33 wholly in force at 16.6.2006; Sch. 7 para. 33 not in force at Royal Assent see s. 270(4)(5); Sch. 7 para. 33 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 7 para. 33 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
@@ -1011,13 +1011,13 @@ as from the termination date.
 
 [^c2052152]: Commencement: Sch. 7 para. 34 wholly in force at 16.6.2006; Sch. 7 para. 34 not in force at Royal Assent see s. 270(4)(5); Sch. 7 para. 34 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 7 para. 34 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-62e73b2f78d78120320782c5ce256268]: Textual amendment: Words in Sch. 7 para. 34(2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-62e73b2f78d78120320782c5ce256268]: Textual amendment: Words in Sch. 7 para. 34(2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2052155]: Commencement: Sch. 7 para. 35 wholly in force at 16.6.2006; Sch. 7 para. 35 not in force at Royal Assent see s. 270(4)(5); Sch. 7 para. 35 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 7 para. 35 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-ba5f5e8e0d4ddec04cf6ae3a0cf933cf]: Textual amendment: Words in Sch. 7 para. 35(3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-ba5f5e8e0d4ddec04cf6ae3a0cf933cf]: Textual amendment: Words in Sch. 7 para. 35(3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-316b35522f1b9e2889bc5a7cc6b6a4aa]: Textual amendment: Words in Sch. 7 para. 36 heading omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(d)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/d) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-316b35522f1b9e2889bc5a7cc6b6a4aa]: Textual amendment: Words in Sch. 7 para. 36 heading omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 186(d)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/186/d) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2052156]: Commencement: Sch. 7 para. 36 wholly in force at 16.6.2006; Sch. 7 para. 36 not in force at Royal Assent see s. 270(4)(5); Sch. 7 para. 36 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 7 para. 36 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 

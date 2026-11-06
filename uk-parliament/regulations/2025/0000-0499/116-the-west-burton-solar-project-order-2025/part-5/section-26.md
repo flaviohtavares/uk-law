@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Power to override easements and other rights[^key-c6f4ac8185e46af722451790435ddf05]
+## 26. Power to override easements and other rights[^c-c6f4ac8185e46af722451790435ddf05]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6f4ac8185e46af722451790435ddf05]: Commencement: Art. 26 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-c6f4ac8185e46af722451790435ddf05]: Commencement: Art. 26 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)

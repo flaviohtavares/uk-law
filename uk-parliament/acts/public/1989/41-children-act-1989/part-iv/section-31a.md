@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31A. Care orders: care plans[^key-b4489953b014e237f92ffb86c4129f69][^c15164691]
+## 31A. Care orders: care plans[^c-b4489953b014e237f92ffb86c4129f69][^c15164691]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b4489953b014e237f92ffb86c4129f69]: Modification: S. 31A modified (1.11.2012) by [Parental Responsibility and Measures for the Protection of Children (International Obligations) (England and Wales and Northern Ireland) Regulations 2010 (S.I. 2010/1898)](https://www.legislation.gov.uk/uksi/2010/1898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/5/3/b)
+[^c-b4489953b014e237f92ffb86c4129f69]: Modification: S. 31A modified (1.11.2012) by [Parental Responsibility and Measures for the Protection of Children (International Obligations) (England and Wales and Northern Ireland) Regulations 2010 (S.I. 2010/1898)](https://www.legislation.gov.uk/uksi/2010/1898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/5/3/b)
 
 [^c15164691]: Textual amendment: S. 31A inserted (7.12.2004 for specified purposes and otherwise 30.12.2005) by [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 121(2)](https://www.legislation.gov.uk/ukpga/2002/38/section/121/2), [148](https://www.legislation.gov.uk/ukpga/2002/38/section/148) (with [s. 121(3)](https://www.legislation.gov.uk/ukpga/2002/38/section/121/3), [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(m)(xii)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/m/xii); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(k)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/k)

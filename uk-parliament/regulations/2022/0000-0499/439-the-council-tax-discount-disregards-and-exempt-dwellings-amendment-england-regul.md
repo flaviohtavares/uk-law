@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 4, 113(1) and 116(1) of, and paragraph 11 of Schedule 1 to, the Local Government Finance Act 1992[^f00001], makes the following Regulations.
 
-## 1. Citation, commencement, extent and application[^key-7eb341ab1e6ebdbfed4c74950844076b]
+## 1. Citation, commencement, extent and application[^c-7eb341ab1e6ebdbfed4c74950844076b]
 
 (1) These Regulations may be cited as the Council Tax (Discount Disregards and Exempt Dwellings) (Amendment) (England) Regulations 2022 and come into force on 12th April 2022.
 
@@ -54,7 +54,7 @@ The Secretary of State, in exercise of the powers conferred by sections 4, 113(1
 
 (3) Regulation 3 applies in relation to billing authorities in England only.
 
-## 2. Amendment of the Council Tax (Additional Provisions for Discount Disregards) Regulations 1992[^key-9f09ba539cc263ac127563c08ce08360]
+## 2. Amendment of the Council Tax (Additional Provisions for Discount Disregards) Regulations 1992[^c-9f09ba539cc263ac127563c08ce08360]
 
 In regulation 3(1) (persons of other descriptions: England) of the Council Tax (Additional Provisions for Discount Disregards) Regulations 1992[^f00002] at the end insert—
 
@@ -64,7 +64,7 @@ In regulation 3(1) (persons of other descriptions: England) of the Council Tax (
 
 .
 
-## 3. Amendment of the Council Tax (Exempt Dwellings) Order 1992[^key-49d0a8e6f9e362a691bd0275207514b4][^key-20901fdaab748983e12732e3b2cba3fb]
+## 3. Amendment of the Council Tax (Exempt Dwellings) Order 1992[^c-49d0a8e6f9e362a691bd0275207514b4][^c-20901fdaab748983e12732e3b2cba3fb]
 
 (1) The Council Tax (Exempt Dwellings) Order 1992[^f00004] is amended as follows.
 
@@ -129,17 +129,17 @@ A regulatory impact assessment has not been prepared as this instrument amends a
 
 [^f00001]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14).
 
-[^key-7eb341ab1e6ebdbfed4c74950844076b]: Commencement: Reg. 1 in force at 12.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/439/regulation/1/1)
+[^c-7eb341ab1e6ebdbfed4c74950844076b]: Commencement: Reg. 1 in force at 12.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/439/regulation/1/1)
 
-[^key-9f09ba539cc263ac127563c08ce08360]: Commencement: Reg. 2 in force at 12.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/439/regulation/1/1)
+[^c-9f09ba539cc263ac127563c08ce08360]: Commencement: Reg. 2 in force at 12.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/439/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 1992/552](https://www.legislation.gov.uk/uksi/1992/552); amended by [S.I. 1992/2942](https://www.legislation.gov.uk/uksi/1992/2942), [1993/149](https://www.legislation.gov.uk/uksi/1993/149), [1995/620](https://www.legislation.gov.uk/uksi/1995/620), [1997/657](https://www.legislation.gov.uk/uksi/1997/657) and [2019/431](https://www.legislation.gov.uk/uksi/2019/431). There are other amendments not relevant to this instrument.
 
 [^f00003]: Footnote: https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-ukraine-scheme. The Immigration Rules are laid down under section 3(2) of the Immigration Act [1971 (c. 77)](https://www.legislation.gov.uk/ukpga/1971/77). The rules in relation to the Homes for Ukraine Sponsorship Scheme are set out at UKR 11.1 to UKR 20.2 of the appendix. “**Permission to enter**” and “**permission to stay**” are defined at rule 6.2 of the Immigration Rules: Introduction ( https://www.gov.uk/guidance/immigration-rules/immigration-rules-introduction#intro6).
 
-[^key-49d0a8e6f9e362a691bd0275207514b4]: Commencement: Reg. 3 in force at 12.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/439/regulation/1/1)
+[^c-49d0a8e6f9e362a691bd0275207514b4]: Commencement: Reg. 3 in force at 12.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/439/regulation/1/1)
 
-[^key-20901fdaab748983e12732e3b2cba3fb]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/439/regulation/3) amendments extended to W. (21.7.2022) by [The Council Tax (Amendments Relating to Discount Disregards and Exempt Dwellings) (Wales) Regulations 2022 (S.I. 2022/722)](https://www.legislation.gov.uk/wsi/2022/722), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/722/regulation/1/2), [3(1)](https://www.legislation.gov.uk/wsi/2022/722/regulation/3/1) (with [reg. 3(2)-(5)](https://www.legislation.gov.uk/wsi/2022/722/regulation/3/2))
+[^c-20901fdaab748983e12732e3b2cba3fb]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/439/regulation/3) amendments extended to W. (21.7.2022) by [The Council Tax (Amendments Relating to Discount Disregards and Exempt Dwellings) (Wales) Regulations 2022 (S.I. 2022/722)](https://www.legislation.gov.uk/wsi/2022/722), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/722/regulation/1/2), [3(1)](https://www.legislation.gov.uk/wsi/2022/722/regulation/3/1) (with [reg. 3(2)-(5)](https://www.legislation.gov.uk/wsi/2022/722/regulation/3/2))
 
 [^f00004]: Footnote: [S.I. 1992/558](https://www.legislation.gov.uk/uksi/1992/558); amended by [S.I. 1993/150](https://www.legislation.gov.uk/uksi/1993/150), [1994/539](https://www.legislation.gov.uk/uksi/1994/539), [1995/619](https://www.legislation.gov.uk/uksi/1995/619), [1997/656](https://www.legislation.gov.uk/uksi/1997/656), [1998/291](https://www.legislation.gov.uk/uksi/1998/291), [1999/536](https://www.legislation.gov.uk/uksi/1999/536), [2003/3121](https://www.legislation.gov.uk/uksi/2003/3121), [2005/2865](https://www.legislation.gov.uk/uksi/2005/2865), [2012/2965](https://www.legislation.gov.uk/uksi/2012/2965) and [2019/1458](https://www.legislation.gov.uk/uksi/2019/1458).
 

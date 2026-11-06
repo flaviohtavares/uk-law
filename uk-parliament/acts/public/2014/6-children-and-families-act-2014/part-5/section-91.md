@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Purchase of tobacco ... etc. on behalf of persons under 18[^key-93a22aa4e6ac36b80146ba3cb91801f0][^key-a6aea4dc12d68200dd2ba070bea9bb4d][^key-58f2b55df2986a2e3b151de281adb8c7]
+## 91. Purchase of tobacco ... etc. on behalf of persons under 18[^c-93a22aa4e6ac36b80146ba3cb91801f0][^c-a6aea4dc12d68200dd2ba070bea9bb4d][^c-58f2b55df2986a2e3b151de281adb8c7]
 
 *Extent: E+W*
 
-(1) A person aged 18 or over who buys or attempts to buy tobacco or cigarette papers[^key-0ebee867f0b57358749d050f2abcd4a5] on behalf of an individual aged under 18 commits an offence.
+(1) A person aged 18 or over who buys or attempts to buy tobacco or cigarette papers[^c-0ebee867f0b57358749d050f2abcd4a5] on behalf of an individual aged under 18 commits an offence.
 
 (2) Where a person is charged with an offence under this section it is a defence—
 
@@ -31,7 +31,7 @@ summary: ''
 
 (4) A local weights and measures authority in England and Wales must enforce the provisions of this section in its area.
 
-(5)[^key-11c065005a5895379eb018d724f4b6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-11c065005a5895379eb018d724f4b6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Section 11 of, and Schedule 2 to, the Health Act 2006 (offence of obstruction of enforcement officers and powers of entry etc) apply for the purposes of this section as they apply for the purposes of Chapter 1 of Part 1 of that Act but with the following modifications—
 
@@ -43,18 +43,18 @@ summary: ''
 
 (7) “Tobacco” has the same meaning in this section as in section 7 of the Children and Young Persons Act 1933 (offence of selling tobacco to children).
 
-(8)[^key-a974c037e260bebd99544664c28ce9c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-a974c037e260bebd99544664c28ce9c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-93a22aa4e6ac36b80146ba3cb91801f0]: Commencement: S. 91 in force at 1.10.2014 for specified purposes by [S.I. 2014/2609](https://www.legislation.gov.uk/uksi/2014/2609), [art. 2](https://www.legislation.gov.uk/uksi/2014/2609/article/2)
+[^c-93a22aa4e6ac36b80146ba3cb91801f0]: Commencement: S. 91 in force at 1.10.2014 for specified purposes by [S.I. 2014/2609](https://www.legislation.gov.uk/uksi/2014/2609), [art. 2](https://www.legislation.gov.uk/uksi/2014/2609/article/2)
 
-[^key-a6aea4dc12d68200dd2ba070bea9bb4d]: Commencement: S. 91 in force at 1.10.2015 in so far as not already in force by [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 3](https://www.legislation.gov.uk/uksi/2015/375/article/3)
+[^c-a6aea4dc12d68200dd2ba070bea9bb4d]: Commencement: S. 91 in force at 1.10.2015 in so far as not already in force by [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 3](https://www.legislation.gov.uk/uksi/2015/375/article/3)
 
-[^key-58f2b55df2986a2e3b151de281adb8c7]: Textual amendment: Words in s. 91 heading omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 20(2)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/20/2) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))
+[^c-58f2b55df2986a2e3b151de281adb8c7]: Textual amendment: Words in s. 91 heading omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 20(2)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/20/2) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))
 
-[^key-0ebee867f0b57358749d050f2abcd4a5]: Textual amendment: Words in s. 91(1) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 20(3)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/20/3) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))
+[^c-0ebee867f0b57358749d050f2abcd4a5]: Textual amendment: Words in s. 91(1) substituted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 20(3)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/20/3) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))
 
-[^key-11c065005a5895379eb018d724f4b6de]: Textual amendment: S. 91(5) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 20(4)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/20/4) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))
+[^c-11c065005a5895379eb018d724f4b6de]: Textual amendment: S. 91(5) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 20(4)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/20/4) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))
 
-[^key-a974c037e260bebd99544664c28ce9c6]: Textual amendment: S. 91(8) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 20(5)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/20/5) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))
+[^c-a974c037e260bebd99544664c28ce9c6]: Textual amendment: S. 91(8) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 20(5)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/20/5) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))

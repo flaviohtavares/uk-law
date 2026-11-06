@@ -47,11 +47,11 @@ The Treasury, in exercise of the powers conferred upon them by paragraphs 4(2)(b
 
 ## PART 1 — INTRODUCTORY
 
-### 1. Citation and commencement[^key-349441191976ec70be69678b6f09214b]
+### 1. Citation and commencement[^c-349441191976ec70be69678b6f09214b]
 
 These Regulations may be cited as the Community Investment Tax Relief (Accreditation of Community Development Finance Institutions) Regulations 2003 and shall come into force on 13th February 2003.
 
-### 2. Interpretation[^key-0763671daefe7a809422345ffefbec9f]
+### 2. Interpretation[^c-0763671daefe7a809422345ffefbec9f]
 
 In these Regulations—
 
@@ -73,21 +73,21 @@ In these Regulations—
 
 ## PART 2 — APPLICATION AND CRITERIA FOR ACCREDITATION
 
-### 3. Criteria for accreditation[^key-6c093d02ae21016c02932291d0fb3f82]
+### 3. Criteria for accreditation[^c-6c093d02ae21016c02932291d0fb3f82]
 
 For the purposes of paragraph 4(2)(b) of Part 2 of Schedule 16 to the Finance Act 2002 the criteria to be satisfied for accreditation are specified in Part 2 (Application and Criteria for Accreditation) of the Material Concerning the Accreditation of Community Development Finance Institutions published by the Secretary of State.
 
-### 4. Notification of accreditation or refusal[^key-b71f1751f24ff8a9ac71c2a2cefdd7d5]
+### 4. Notification of accreditation or refusal[^c-b71f1751f24ff8a9ac71c2a2cefdd7d5]
 
 The Secretary of State must give notice to a body of the grant of an accreditation specifying the date of the grant of accreditation and the date on which the period of accreditation begins.
 
-**5.**[^key-05c13378d0ecd5c936e6efb865677471] The Secretary of State must give notice to a body of a refusal to grant accreditation specifying the date of the refusal and the reasons for the refusal.
+**5.**[^c-05c13378d0ecd5c936e6efb865677471] The Secretary of State must give notice to a body of a refusal to grant accreditation specifying the date of the refusal and the reasons for the refusal.
 
 ## PART 3 — TERMS AND CONDITIONS OF ACCREDITATION
 
-**6.**[^key-8059a50e562d722f5fb9585f65148a03] An accreditation is subject to the terms set out in this Part.
+**6.**[^c-8059a50e562d722f5fb9585f65148a03] An accreditation is subject to the terms set out in this Part.
 
-### 7. Publication of details[^key-8b2a89c8ab3809178aca276eaab536ba]
+### 7. Publication of details[^c-8b2a89c8ab3809178aca276eaab536ba]
 
 (1) It is a term of accreditation that the CDFI agrees to the publication of the information specified in paragraph (2) in a list which the Secretary of State may publish from time to time.
 
@@ -108,7 +108,7 @@ within 30 days of the relevant change.
 
 (4) The CDFI is liable to a penalty of £100 payable to the Small Business Service for each failure to notify a change to the specified information in accordance with paragraph (3) unless the Investment Director is satisfied that the CDFI had a reasonable excuse for failing to notify the change.
 
-### 8. General CDFI investment terms[^key-6fb054f1e1007fe12901046de88d43d6]
+### 8. General CDFI investment terms[^c-6fb054f1e1007fe12901046de88d43d6]
 
 It is a term of accreditation that—
 
@@ -116,7 +116,7 @@ It is a term of accreditation that—
 - (b) on or before the second anniversary of the accreditation date, at least 50% of the amount of the investment fund is invested in relevant investments in qualifying enterprises; and
 - (c) on or before the third anniversary of the accreditation date and at all times thereafter, at least 75% of the amount of the investment fund is invested in relevant investments in qualifying enterprises.
 
-### 9. Meaning of the “investment fund”[^key-845977566c88b7efd6b2f26ba209f915]
+### 9. Meaning of the “investment fund”[^c-845977566c88b7efd6b2f26ba209f915]
 
 (1) The amount of the investment fund at a given date (“the relevant date”) is the sum of—
 
@@ -130,7 +130,7 @@ Here—
 
 (2) For the purpose of paragraph (1) where a qualifying investment is a loan which authorises the CDFI to draw down amounts of the loan over a period of time, the amount of the qualifying investment is the amount drawn down at the relevant date.
 
-### 10. Meaning of “qualifying enterprise”[^key-f4c55d75b00e71c61aea5d6366750340]
+### 10. Meaning of “qualifying enterprise”[^c-f4c55d75b00e71c61aea5d6366750340]
 
 (1) For the purposes of these Regulations an enterprise is a qualifying enterprise if—
 
@@ -159,7 +159,7 @@ Here—
 
 (2) For the purpose of paragraph (1)(a), a “small or medium sized enterprise” shall be interpreted in accordance with paragraph 2 of Schedule 20 to the Finance Act 2000[^f00002].
 
-### 11. Meaning of “relevant investment”[^key-e16a527005e7b79f5618ffdf715d347a]
+### 11. Meaning of “relevant investment”[^c-e16a527005e7b79f5618ffdf715d347a]
 
 (1) Subject to paragraph (4), for the purposes of these Regulations a relevant investment is an investment made by the CDFI in an enterprise where—
 
@@ -177,7 +177,7 @@ Here—
 
 (4) The investments specified in Schedule 1 are not relevant investments.
 
-### 12. Limits on qualifying investments[^key-4aace8b8b87fd918f468cd8c07c028ed]
+### 12. Limits on qualifying investments[^c-4aace8b8b87fd918f468cd8c07c028ed]
 
 (1) The CDFI must give notice to the Investment Director at least one month before entering into any arrangements or commitments with the aim of increasing qualifying investments in the CDFI to more than 125% of the amount stated in its application for accreditation (“the 125% limit).
 
@@ -190,7 +190,7 @@ Here—
 
 the Investment Director may treat all or some of the investments made by the CDFI after the date on which the qualifying investments exceed the 125% limit as not being relevant investments for the purposes of regulation 8 up to an amount equal to the amount by which the qualifying investments exceed the 125% limit.
 
-### 13. Reporting requirements[^key-da0b292810ca6d61d0fac35cb67189f3]
+### 13. Reporting requirements[^c-da0b292810ca6d61d0fac35cb67189f3]
 
 (1) The CDFI must make an annual report to the Small Business Service—
 
@@ -205,7 +205,7 @@ the Investment Director may treat all or some of the investments made by the CDF
 
 (5) Paragraph (4) does not apply if in the opinion of the Investment Director the CDFI had reasonable excuse for failing to make an annual return.
 
-### 14. Tax relief certificate[^key-42d715153e9624b89794612011241b12]
+### 14. Tax relief certificate[^c-42d715153e9624b89794612011241b12]
 
 (1) Subject to paragraph (2), the CDFI must issue a tax relief certificate to the investor or its nominee within 30 days of receiving an investment from an individual or a company.
 
@@ -213,7 +213,7 @@ the Investment Director may treat all or some of the investments made by the CDF
 
 ## PART 4 — GENERAL PROVISIONS
 
-### 15. Withdrawal of accreditation[^key-a2c92f61c0466375cb526c230db2c0c9]
+### 15. Withdrawal of accreditation[^c-a2c92f61c0466375cb526c230db2c0c9]
 
 (1) The Secretary of State must withdraw the CDFI’s accreditation—
 
@@ -238,7 +238,7 @@ the Investment Director may treat all or some of the investments made by the CDF
 
 (6) For the purpose of paragraph (5) “specified period” means the five years immediately preceding the date from which accreditation is withdrawn.
 
-### 16. Appeals against refusal to grant accreditation or withdrawal of accreditation[^key-be6c5ccac84dac757b9902c7442fd064]
+### 16. Appeals against refusal to grant accreditation or withdrawal of accreditation[^c-be6c5ccac84dac757b9902c7442fd064]
 
 (1) An appeal to the Special Commissioners may be brought against a refusal to grant accreditation or a withdrawal of accreditation.
 
@@ -272,11 +272,11 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 regulation 11(4)
 
-### 1. General Investments[^key-62a5f52aa519f25b4b3446f32e08ed64]
+### 1. General Investments[^c-62a5f52aa519f25b4b3446f32e08ed64]
 
 Any investment which benefits directly or indirectly from the security offered by a Phoenix Fund guarantee or by any similar publicly-funded underwriting or guarantee arrangement.
 
-**2.**[^key-477ab72c36db8f26a28f6b7c6250ff46] (1) Any loan to a profit-distributing enterprise—
+**2.**[^c-477ab72c36db8f26a28f6b7c6250ff46] (1) Any loan to a profit-distributing enterprise—
 
 - (a) which is not made on terms that are equivalent to those offered by conventional sources of finance, or
 - (b) as a consequence of which, and for so long as, the total amount of loans to that enterprise exceeds £100,000 (“the £100,000 limit”).
@@ -288,11 +288,11 @@ Any investment which benefits directly or indirectly from the security offered b
 
 the Investment Director shall determine which of those loans shall not constitute relevant investments so that the amount of relevant investments in the enterprise approximates to but does not exceed the £100,000 limit.
 
-**3.**[^key-6ebee54136f5564574a6ac2e0b6e1a67] (1) Any loan to a profit-distributing enterprise which is not made at market rates or above, or, where interest is not charged on loans the fee structure is not at an equivalent level.
+**3.**[^c-6ebee54136f5564574a6ac2e0b6e1a67] (1) Any loan to a profit-distributing enterprise which is not made at market rates or above, or, where interest is not charged on loans the fee structure is not at an equivalent level.
 
 (2) In paragraph (1) “market rate” means the European Commission’s Hurdle Rate, which is the Reference Rate (as published at http://europa.eu.int/comm/competition/state\_aid/others/reference\_rates.html) plus four percentage points, or more.
 
-**4.**[^key-5b1b2577b10d7691005b250a62468f03] (1) Any loan to or equity investment in a non-profit-distributing enterprise for the purposes of undertaking community projects as a consequence of which, and for so long as, the total amount invested in that enterprise exceeds £250,000 (“the £250,000 limit”).
+**4.**[^c-5b1b2577b10d7691005b250a62468f03] (1) Any loan to or equity investment in a non-profit-distributing enterprise for the purposes of undertaking community projects as a consequence of which, and for so long as, the total amount invested in that enterprise exceeds £250,000 (“the £250,000 limit”).
 
 (2) For the purpose of paragraph (1) “community projects” means—
 
@@ -307,23 +307,23 @@ the Investment Director shall determine which of those loans shall not constitut
 
 the Investment Director shall determine which of those loans or investments shall not constitute relevant investments so that the amount of relevant investments in the enterprise approximates to but does not exceed the £250,000 limit.
 
-**5.**[^key-0546b925996db8a8326f82deb380ab22] Any investment in an enterprise as a consequence of which, and for so long as, the total amount invested by the CDFI in that enterprise exceeds 20% of the amount of the investment fund at—
+**5.**[^c-0546b925996db8a8326f82deb380ab22] Any investment in an enterprise as a consequence of which, and for so long as, the total amount invested by the CDFI in that enterprise exceeds 20% of the amount of the investment fund at—
 
 - (a) for the first year following accreditation, the date the investment is made by the CDFI, and
 - (b) thereafter, the immediately preceding anniversary of the accreditation date.
 
-**6.**[^key-bb29b0bb0e407c310beaeb15de8e0789] (1) Any investment in an enterprise within Case 2 of regulation 10 as a consequence of which, and for so long as—
+**6.**[^c-bb29b0bb0e407c310beaeb15de8e0789] (1) Any investment in an enterprise within Case 2 of regulation 10 as a consequence of which, and for so long as—
 
 - (a) the total amount invested out of the investment fund by the CDFI in enterprises in Case 2 exceeds the amount invested in enterprises within Cases 1 and 3; or
 - (b) the number of investments out of the investment fund by the CDFI in enterprises in Case 2 exceeds the number of investments in enterprises within Cases 1 and 3.
 
 (2) For the purposes of paragraph (1) an investment in an enterprise which is within both Case 2 and Case 3 shall be treated as being only within Case 3.
 
-### 7. Property investments, which are not relevant investments[^key-e0eabb29fc3be5aa56a10cb921b8a5af]
+### 7. Property investments, which are not relevant investments[^c-e0eabb29fc3be5aa56a10cb921b8a5af]
 
 Any investment which funds directly or indirectly the acquisition, construction or development of residential property.
 
-**8.**[^key-b516840d3bed154b4a21c77ab539e360] (1) Any investment which funds directly or indirectly the acquisition, construction or development of non-residential property where, on the next anniversary of the date on which the CDFI was granted accreditation, in consequence of that investment—
+**8.**[^c-b516840d3bed154b4a21c77ab539e360] (1) Any investment which funds directly or indirectly the acquisition, construction or development of non-residential property where, on the next anniversary of the date on which the CDFI was granted accreditation, in consequence of that investment—
 
 - (a) the total amount of investment within Case 1 below exceeds the amount of relevant investments other than those in Case 1, or
 - (b) the total amount of investment within Case 2 below exceeds one half of the relevant investments within Case 1.
@@ -337,16 +337,16 @@ Any investment which funds directly or indirectly the acquisition, construction 
 
 (2) For the purposes of paragraph (1) where a investment is a loan which authorises the CDFI to draw down amounts of the loan over a period of time, the amount of the investment is the amount drawn down at the relevant date.
 
-### 9. Investments by retail community investment finance institutions[^key-17824a10244d5f16ced52df76268f87c]
+### 9. Investments by retail community investment finance institutions[^c-17824a10244d5f16ced52df76268f87c]
 
 Where the CDFI has been accredited as a retail community investment finance institution, any investment in another CDFI or in any other body whose objective is to provide finance for enterprises in or for disadvantaged communities where, as a consequence of that investment, and for so long as, for more than three months the total amount invested in such bodies exceeds 10% of the amount of the investment fund at—
 
 - (a) for the first year following accreditation, the date the investment is made by the CDFI, and
 - (b) thereafter, the immediately preceding anniversary of the accreditation date.
 
-**10.**[^key-0d8f966274ca8d304a92b274b852c4a5] Any investment by a retail community investment finance institution in a body other than a CDFI whose objective is to provide finance for enterprises in or for disadvantaged communities as a consequence of which, and for so long as, the total amount of investment in such enterprises exceeds £250,000.
+**10.**[^c-0d8f966274ca8d304a92b274b852c4a5] Any investment by a retail community investment finance institution in a body other than a CDFI whose objective is to provide finance for enterprises in or for disadvantaged communities as a consequence of which, and for so long as, the total amount of investment in such enterprises exceeds £250,000.
 
-### 11. Investments by wholesale CDFIs[^key-1fd4f90b51fc2b2027773303fd7a2022]
+### 11. Investments by wholesale CDFIs[^c-1fd4f90b51fc2b2027773303fd7a2022]
 
 (1) Any investment made by a wholesale CDFI in an enterprise where as a consequence of which, and for so long as, the total amount of investment in that enterprise exceeds—
 
@@ -397,58 +397,58 @@ Schedule 1 sets out investments which are not relevant investments.
 
 [^f00001]: Footnote: [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23).
 
-[^key-349441191976ec70be69678b6f09214b]: Commencement: Reg. 1 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
+[^c-349441191976ec70be69678b6f09214b]: Commencement: Reg. 1 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
 
-[^key-0763671daefe7a809422345ffefbec9f]: Commencement: Reg. 2 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
+[^c-0763671daefe7a809422345ffefbec9f]: Commencement: Reg. 2 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
 
-[^key-6c093d02ae21016c02932291d0fb3f82]: Commencement: Reg. 3 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
+[^c-6c093d02ae21016c02932291d0fb3f82]: Commencement: Reg. 3 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
 
-[^key-b71f1751f24ff8a9ac71c2a2cefdd7d5]: Commencement: Reg. 4 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
+[^c-b71f1751f24ff8a9ac71c2a2cefdd7d5]: Commencement: Reg. 4 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
 
-[^key-05c13378d0ecd5c936e6efb865677471]: Commencement: Reg. 5 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
+[^c-05c13378d0ecd5c936e6efb865677471]: Commencement: Reg. 5 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
 
-[^key-8059a50e562d722f5fb9585f65148a03]: Commencement: Reg. 6 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
+[^c-8059a50e562d722f5fb9585f65148a03]: Commencement: Reg. 6 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
 
-[^key-8b2a89c8ab3809178aca276eaab536ba]: Commencement: Reg. 7 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
+[^c-8b2a89c8ab3809178aca276eaab536ba]: Commencement: Reg. 7 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
 
-[^key-6fb054f1e1007fe12901046de88d43d6]: Commencement: Reg. 8 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
+[^c-6fb054f1e1007fe12901046de88d43d6]: Commencement: Reg. 8 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
 
-[^key-845977566c88b7efd6b2f26ba209f915]: Commencement: Reg. 9 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
+[^c-845977566c88b7efd6b2f26ba209f915]: Commencement: Reg. 9 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
 
-[^key-f4c55d75b00e71c61aea5d6366750340]: Commencement: Reg. 10 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
+[^c-f4c55d75b00e71c61aea5d6366750340]: Commencement: Reg. 10 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
 
 [^f00002]: Footnote: [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17).
 
-[^key-e16a527005e7b79f5618ffdf715d347a]: Commencement: Reg. 11 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
+[^c-e16a527005e7b79f5618ffdf715d347a]: Commencement: Reg. 11 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
 
-[^key-4aace8b8b87fd918f468cd8c07c028ed]: Commencement: Reg. 12 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
+[^c-4aace8b8b87fd918f468cd8c07c028ed]: Commencement: Reg. 12 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
 
-[^key-da0b292810ca6d61d0fac35cb67189f3]: Commencement: Reg. 13 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
+[^c-da0b292810ca6d61d0fac35cb67189f3]: Commencement: Reg. 13 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
 
-[^key-42d715153e9624b89794612011241b12]: Commencement: Reg. 14 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
+[^c-42d715153e9624b89794612011241b12]: Commencement: Reg. 14 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
 
-[^key-a2c92f61c0466375cb526c230db2c0c9]: Commencement: Reg. 15 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
+[^c-a2c92f61c0466375cb526c230db2c0c9]: Commencement: Reg. 15 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
 
-[^key-be6c5ccac84dac757b9902c7442fd064]: Commencement: Reg. 16 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
+[^c-be6c5ccac84dac757b9902c7442fd064]: Commencement: Reg. 16 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
 
-[^key-62a5f52aa519f25b4b3446f32e08ed64]: Commencement: Sch. 1 para. 1 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
+[^c-62a5f52aa519f25b4b3446f32e08ed64]: Commencement: Sch. 1 para. 1 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
 
-[^key-477ab72c36db8f26a28f6b7c6250ff46]: Commencement: Sch. 1 para. 2 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
+[^c-477ab72c36db8f26a28f6b7c6250ff46]: Commencement: Sch. 1 para. 2 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
 
-[^key-6ebee54136f5564574a6ac2e0b6e1a67]: Commencement: Sch. 1 para. 3 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
+[^c-6ebee54136f5564574a6ac2e0b6e1a67]: Commencement: Sch. 1 para. 3 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
 
-[^key-5b1b2577b10d7691005b250a62468f03]: Commencement: Sch. 1 para. 4 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
+[^c-5b1b2577b10d7691005b250a62468f03]: Commencement: Sch. 1 para. 4 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
 
-[^key-0546b925996db8a8326f82deb380ab22]: Commencement: Sch. 1 para. 5 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
+[^c-0546b925996db8a8326f82deb380ab22]: Commencement: Sch. 1 para. 5 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
 
-[^key-bb29b0bb0e407c310beaeb15de8e0789]: Commencement: Sch. 1 para. 6 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
+[^c-bb29b0bb0e407c310beaeb15de8e0789]: Commencement: Sch. 1 para. 6 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
 
-[^key-e0eabb29fc3be5aa56a10cb921b8a5af]: Commencement: Sch. 1 para. 7 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
+[^c-e0eabb29fc3be5aa56a10cb921b8a5af]: Commencement: Sch. 1 para. 7 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
 
-[^key-b516840d3bed154b4a21c77ab539e360]: Commencement: Sch. 1 para. 8 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
+[^c-b516840d3bed154b4a21c77ab539e360]: Commencement: Sch. 1 para. 8 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
 
-[^key-17824a10244d5f16ced52df76268f87c]: Commencement: Sch. 1 para. 9 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
+[^c-17824a10244d5f16ced52df76268f87c]: Commencement: Sch. 1 para. 9 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
 
-[^key-0d8f966274ca8d304a92b274b852c4a5]: Commencement: Sch. 1 para. 10 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
+[^c-0d8f966274ca8d304a92b274b852c4a5]: Commencement: Sch. 1 para. 10 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
 
-[^key-1fd4f90b51fc2b2027773303fd7a2022]: Commencement: Sch. 1 para. 11 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)
+[^c-1fd4f90b51fc2b2027773303fd7a2022]: Commencement: Sch. 1 para. 11 in force at 13.2.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/96/regulation/1)

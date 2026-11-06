@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 100. Section 99: transitional provision[^key-96ac50743bc9b0b240e8a87ff976cb29][^key-49dc2e14f46a5cb969713346c2a58abd]
+## 100. Section 99: transitional provision[^c-96ac50743bc9b0b240e8a87ff976cb29][^c-49dc2e14f46a5cb969713346c2a58abd]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-96ac50743bc9b0b240e8a87ff976cb29]: Commencement: S. 100 in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
+[^c-96ac50743bc9b0b240e8a87ff976cb29]: Commencement: S. 100 in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
 
-[^key-49dc2e14f46a5cb969713346c2a58abd]: Commencement: S. 100 in force at 27.10.2006 for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/uksi/2006/2797), [art. 2(s)](https://www.legislation.gov.uk/uksi/2006/2797/article/2/s)
+[^c-49dc2e14f46a5cb969713346c2a58abd]: Commencement: S. 100 in force at 27.10.2006 for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/uksi/2006/2797), [art. 2(s)](https://www.legislation.gov.uk/uksi/2006/2797/article/2/s)

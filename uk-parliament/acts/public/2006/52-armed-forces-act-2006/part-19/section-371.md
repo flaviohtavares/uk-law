@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 371. Naval chaplains[^key-705ea6e56cc2bff605cd956bc7d6811e][^key-3a3fc8584c3b73cf6ba3b916229e6b7b]
+## 371. Naval chaplains[^c-705ea6e56cc2bff605cd956bc7d6811e][^c-3a3fc8584c3b73cf6ba3b916229e6b7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ as may be prescribed by the regulations include references to a naval chaplain o
 
 ## Annotations
 
-[^key-705ea6e56cc2bff605cd956bc7d6811e]: Commencement: S. 371 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-705ea6e56cc2bff605cd956bc7d6811e]: Commencement: S. 371 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-3a3fc8584c3b73cf6ba3b916229e6b7b]: Commencement: S. 371 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-3a3fc8584c3b73cf6ba3b916229e6b7b]: Commencement: S. 371 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

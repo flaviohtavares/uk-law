@@ -31,7 +31,7 @@ summary: ''
 
 RATES
 
-Non-Domestic Rating (Unoccupied Property) Regulations (Northern Ireland) 2004 (revoked)[^key-0e7d0829a676f966c3a3111231606ee3]
+Non-Domestic Rating (Unoccupied Property) Regulations (Northern Ireland) 2004 (revoked)[^c-0e7d0829a676f966c3a3111231606ee3]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into operation
 
 1st April 2004
 
-[^key-0e7d0829a676f966c3a3111231606ee3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0e7d0829a676f966c3a3111231606ee3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0e7d0829a676f966c3a3111231606ee3]
+## 1. Citation and commencement[^c-0e7d0829a676f966c3a3111231606ee3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-0e7d0829a676f966c3a3111231606ee3]
+## 2. Interpretation[^c-0e7d0829a676f966c3a3111231606ee3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Property liable for unoccupied property rate[^key-0e7d0829a676f966c3a3111231606ee3]
+## 3. Property liable for unoccupied property rate[^c-0e7d0829a676f966c3a3111231606ee3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0e7d0829a676f966c3a3111231606ee3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0e7d0829a676f966c3a3111231606ee3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0e7d0829a676f966c3a3111231606ee3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0e7d0829a676f966c3a3111231606ee3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0e7d0829a676f966c3a3111231606ee3]: Textual amendment: Regulations revoked (1.4.2007) by [The Non-Domestic Rating (Unoccupied Hereditaments) Regulations (Northern Ireland) 2007 (S.R. 2007/119)](https://www.legislation.gov.uk/nisr/2007/119), [regs. 1](https://www.legislation.gov.uk/nisr/2007/119/regulation/1), [4](https://www.legislation.gov.uk/nisr/2007/119/regulation/4)
+[^c-0e7d0829a676f966c3a3111231606ee3]: Textual amendment: Regulations revoked (1.4.2007) by [The Non-Domestic Rating (Unoccupied Hereditaments) Regulations (Northern Ireland) 2007 (S.R. 2007/119)](https://www.legislation.gov.uk/nisr/2007/119), [regs. 1](https://www.legislation.gov.uk/nisr/2007/119/regulation/1), [4](https://www.legislation.gov.uk/nisr/2007/119/regulation/4)

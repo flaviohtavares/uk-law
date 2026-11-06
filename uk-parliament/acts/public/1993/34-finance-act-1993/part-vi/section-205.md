@@ -27,9 +27,9 @@ summary: ''
 - (a) after “income tax,” there shall be inserted “ corporation tax (including advance corporation tax) ”;
 - (b) the words “car tax” shall be omitted.
 
-(3)[^key-5ee384fe7dc8345e419b092d95ea4f3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5ee384fe7dc8345e419b092d95ea4f3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-2d75802ed62a53860ff600215ece59c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2d75802ed62a53860ff600215ece59c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 1(4) (resolution to cease to have statutory effect unless Bill read a second time within twenty-five sitting days) for “twenty-five” there shall be substituted “ thirty ”.
 
@@ -44,6 +44,6 @@ summary: ''
 
 [^c15156301]: Marginal citation: [1968 c. 2](https://www.legislation.gov.uk/ukpga/1968/2).
 
-[^key-5ee384fe7dc8345e419b092d95ea4f3d]: Textual amendment: [S. 205(3)](https://www.legislation.gov.uk/ukpga/1993/34/section/205/3) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-5ee384fe7dc8345e419b092d95ea4f3d]: Textual amendment: [S. 205(3)](https://www.legislation.gov.uk/ukpga/1993/34/section/205/3) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
-[^key-2d75802ed62a53860ff600215ece59c9]: Textual amendment: S. 205(4) repealed (30.12.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 88(8)(a)](https://www.legislation.gov.uk/ukpga/2011/11/section/88/8/a)[(9)](https://www.legislation.gov.uk/ukpga/2011/11/section/88/9) (with [s. 88(10)](https://www.legislation.gov.uk/ukpga/2011/11/section/88/10)); [S.I. 2011/2934](https://www.legislation.gov.uk/uksi/2011/2934), [art. 2](https://www.legislation.gov.uk/uksi/2011/2934/article/2)
+[^c-2d75802ed62a53860ff600215ece59c9]: Textual amendment: S. 205(4) repealed (30.12.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 88(8)(a)](https://www.legislation.gov.uk/ukpga/2011/11/section/88/8/a)[(9)](https://www.legislation.gov.uk/ukpga/2011/11/section/88/9) (with [s. 88(10)](https://www.legislation.gov.uk/ukpga/2011/11/section/88/10)); [S.I. 2011/2934](https://www.legislation.gov.uk/uksi/2011/2934), [art. 2](https://www.legislation.gov.uk/uksi/2011/2934/article/2)

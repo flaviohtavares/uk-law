@@ -42,21 +42,21 @@ Coming into force in accordance with regulation 1
 
 [^c23629691]The Treasury make these Regulations in exercise of the powers conferred by section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 .
 
-In accordance with paragraph 1(1) of Schedule 7 to that Act a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.[^key-668ef3c94b485fa0967c85c61c5548cd][^key-a641409d999309d2f4326fd864068400]
+In accordance with paragraph 1(1) of Schedule 7 to that Act a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.[^c-668ef3c94b485fa0967c85c61c5548cd][^c-a641409d999309d2f4326fd864068400]
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-4cdfc8d31837b6e5d6a76974748f8b11]
+### 1. Citation and commencement[^c-4cdfc8d31837b6e5d6a76974748f8b11]
 
 These Regulations may be cited as the Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019 and come into force on exit day.
 
-### 2. Interpretation[^key-0b33e264c1e558e449890cfae730071e]
+### 2. Interpretation[^c-0b33e264c1e558e449890cfae730071e]
 
 In these Regulations “**SFT regulation**” means Regulation (EU) 2015/2365 of the European Parliament and of the Council of 25 November 2015 on transparency of securities financing transactions and of reuse and amending Regulation (EU) No 648/2012.
 
 ## PART 2 — Amendment of subordinate legislation
 
-### 3. Amendment of the Financial Services and Markets Act 2000 (Transparency of Securities Financing Transactions and of Reuse) Regulations 2016[^key-3d4201f0c4151c90246f2a97e2e27dfd]
+### 3. Amendment of the Financial Services and Markets Act 2000 (Transparency of Securities Financing Transactions and of Reuse) Regulations 2016[^c-3d4201f0c4151c90246f2a97e2e27dfd]
 
 (1) The Financial Services and Markets Act 2000 (Transparency of Securities Financing Transactions and of Reuse) Regulations 2016 [^c23629701] are amended as follows.
 
@@ -66,11 +66,11 @@ In these Regulations “**SFT regulation**” means Regulation (EU) 2015/2365 of
 
 ## PART 3 — Amendment of retained direct EU legislation
 
-### 4. Amendment of the SFT regulation[^key-f84e68fbb709dbd51ef92535f6f455b4]
+### 4. Amendment of the SFT regulation[^c-f84e68fbb709dbd51ef92535f6f455b4]
 
 The SFT regulation is amended as follows.
 
-### 5.[^key-579166bdad85f1e8d70a97a7ce2c3c2c]
+### 5.[^c-579166bdad85f1e8d70a97a7ce2c3c2c]
 
 (1) In Articles 2 to 20, for “Union” in each place it occurs substitute “ United Kingdom ”.
 
@@ -78,7 +78,7 @@ The SFT regulation is amended as follows.
 
 (3) The amendments made by paragraph (1) do not apply to occurrences of “Union” or “ESMA” amended by another provision within these Regulations.
 
-### 6.[^key-5ebc936fba696194adc3f11411ed0f9c]
+### 6.[^c-5ebc936fba696194adc3f11411ed0f9c]
 
 In Article 2—
 
@@ -110,7 +110,7 @@ In Article 2—
 
   .
 
-### 7.[^key-0f380e76eae0b81bed8a42b18251f0a3]
+### 7.[^c-0f380e76eae0b81bed8a42b18251f0a3]
 
 In Article 3—
 
@@ -119,14 +119,14 @@ In Article 3—
   > - (a) an investment firm within the meaning given in Article 2(1A) [^c23629721] of MIFIR which:
   >   - (i) has its registered office or head office in the United Kingdom;
   >   - (ii) has permission under Part 4A of the FSMA to carry on regulated activities relating to investment services and activities (as defined in Article 2(1)(2) of the MIFIR) in the United Kingdom;
-  >   - (iii) would require authorisation under Directive 2014/65/EU [^c23629731] (as it had effect immediately before IP completion day[^key-fcc3187984b65fb4472c5acd62087355]) if it had its registered office (or if it does not have a registered office, its head offices) in an EEA state; and
+  >   - (iii) would require authorisation under Directive 2014/65/EU [^c23629731] (as it had effect immediately before IP completion day[^c-fcc3187984b65fb4472c5acd62087355]) if it had its registered office (or if it does not have a registered office, its head offices) in an EEA state; and
   >   - (iv) is not a firm which has permission under Part 4A of the FSMA to carry on regulated activities as an exempt investment firm, within the meaning of regulation 8 of the Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 [^c23629741];
   > - (b) a credit institution which is a CRR firm (within the definition in Article 4(1)(2A) [^c23629751] of the Capital Requirements Regulation);
   > - (c) an insurance undertaking or a reinsurance undertaking;
   > - (d) a UK UCITS (within the definition in section 237(3) [^c23629761] of the FSMA) and, where relevant, its management company (within the definition in section 237(2) [^c23629771] of the FSMA);
   > - (e) an occupational pension scheme within the meaning of section 1(1) of the Pension Schemes Act 1993 [^c23629781];
   > - (f) an AIF managed by AIFMs (within the definition in regulation 4 of the Alternative Investment Fund Managers Regulations 2013) authorised or registered in accordance with those Regulations;
-  > - (g) a CCP authorised in accordance with Regulation (EU) No 648/2012 as[^key-1f8d579727ee07038ed88e798ecc2567] it forms part of retained EU law[^key-f58e146b9a74b948f62c90b9a72efcfe];
+  > - (g) a CCP authorised in accordance with Regulation (EU) No 648/2012 as[^c-1f8d579727ee07038ed88e798ecc2567] it forms part of retained EU law[^c-f58e146b9a74b948f62c90b9a72efcfe];
 
   ;
 - (b) in paragraph (12), for “Article 5 of Directive [2002/47/EC](https://www.legislation.gov.uk/eudr/2002/47)” substitute “ regulation 16 of the Financial Collateral Arrangements (No.2) Regulations 2003 [^c23629791] ”;
@@ -157,7 +157,7 @@ In Article 3—
   >
   > (29) “**open ended investment company**” has the meaning given by section 236 of the FSMA;
   >
-  > (30) any reference in this Regulation to a sourcebook is to a sourcebook in the Handbook of Rules and Guidance published by the FCA under FSMA as in force on IP completion day[^key-24722875a88f260a72b89a3ca07514cc][^c23629831];
+  > (30) any reference in this Regulation to a sourcebook is to a sourcebook in the Handbook of Rules and Guidance published by the FCA under FSMA as in force on IP completion day[^c-24722875a88f260a72b89a3ca07514cc][^c23629831];
   >
   > (31) “**UCITS**” has the meaning given in section 236A [^c23629841] of the FSMA;
   >
@@ -165,7 +165,7 @@ In Article 3—
 
   .
 
-### 8.[^key-a1707026ff97b46758e51546bdefd4a7]
+### 8.[^c-a1707026ff97b46758e51546bdefd4a7]
 
 In Article 4—
 
@@ -213,7 +213,7 @@ In Article 4—
     ;
   - (iv) omit from “ESMA shall submit those draft implementing technical standards” to the end.
 
-### 9.[^key-5289e554855183d0b27c98d8b2cb4f51]
+### 9.[^c-5289e554855183d0b27c98d8b2cb4f51]
 
 In Article 5—
 
@@ -224,22 +224,22 @@ In Article 5—
   - (i) for “ESMA shall develop draft implementing” substitute “ the FCA may make ”;
   - (ii) omit from “ESMA shall submit those draft implementing” to the end.
 
-### 10.[^key-c05749a2177c9816b75c917eafb131be]
+### 10.[^c-c05749a2177c9816b75c917eafb131be]
 
 Omit Article 6.
 
-### 11.[^key-3eff4068a92d8e8dfc10ce9bd2b46e83]
+### 11.[^c-3eff4068a92d8e8dfc10ce9bd2b46e83]
 
 In Article 8—
 
 - (a) in paragraph (1) omit the second subparagraph;
 - (b) omit paragraph (2).
 
-### 12.[^key-29422b4dd3c4d3b15a09d688d0b20740]
+### 12.[^c-29422b4dd3c4d3b15a09d688d0b20740]
 
 Omit Article 9.
 
-### 13.[^key-1d4ace23f399147d230aae506e2d4403]
+### 13.[^c-1d4ace23f399147d230aae506e2d4403]
 
 For Article 10 substitute—
 
@@ -365,7 +365,7 @@ For Article 10 substitute—
 
 .
 
-### 14.[^key-0af002f6f537107346cf41748b35bc5a]
+### 14.[^c-0af002f6f537107346cf41748b35bc5a]
 
 In Article 11—
 
@@ -374,7 +374,7 @@ In Article 11—
   - (ii) omit from “as well as the reimbursement of any costs” to “shall be construed as references to paragraph 2 of this Article”;
 - (b) in paragraph (2) for “The Commission shall be empowered to adopt a delegated act in accordance with Article 30 to” substitute “ The Treasury may, by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament, ”.
 
-### 15.[^key-13e996cf9d8c3af1771fcdc487ec0b5a]
+### 15.[^c-13e996cf9d8c3af1771fcdc487ec0b5a]
 
 In Article 12—
 
@@ -409,7 +409,7 @@ In Article 12—
   - (ii) in the first subparagraph after point (d), omit “draft regulatory”;
   - (iii) omit from “ESMA shall submit those draft regulatory technical standards” to the end.
 
-### 16.[^key-2db9bd048e86be128ac8aa86e9651bfe]
+### 16.[^c-2db9bd048e86be128ac8aa86e9651bfe]
 
 In Article 13—
 
@@ -422,7 +422,7 @@ In Article 13—
     - (bb) for “develop draft regulatory” substitute “ make ”;
   - (ii) omit the second subparagraph.
 
-### 17.[^key-2789fe2bb7629e671526e41e488da895]
+### 17.[^c-2789fe2bb7629e671526e41e488da895]
 
 In Article 14—
 
@@ -433,18 +433,18 @@ In Article 14—
   - (i) in the first subparagraph, for “Directives [2009/65/EC](https://www.legislation.gov.uk/eudr/2009/65) and 2011/61/EU, develop draft regulatory” substitute “ the UK law in relation to collective investment undertakings, make ”;
   - (ii) omit the third subparagraph.
 
-### 18.[^key-c299c2bc40eec47f7251486a4652eda5]
+### 18.[^c-c299c2bc40eec47f7251486a4652eda5]
 
 In Article 15—
 
 - (a) in paragraph (1), for “Article 5 of Directive [2002/47/EC](https://www.legislation.gov.uk/eudr/2002/47)” in both places it occurs substitute “ regulation 16 of the Financial Collateral Arrangements (No.2) Regulations 2003 ”;
 - (b) in paragraph (3), omit from “stricter sectoral legislation” to “and to”.
 
-### 19.[^key-9fa970e50f13dfdfd500ba25a16c64cc]
+### 19.[^c-9fa970e50f13dfdfd500ba25a16c64cc]
 
 Omit Articles 16 and 17.
 
-### 20.[^key-b18b8af4562044ad9d69d0c237959393]
+### 20.[^c-b18b8af4562044ad9d69d0c237959393]
 
 In Article 18—
 
@@ -463,7 +463,7 @@ In Article 18—
 
   .
 
-### 21.[^key-0d6c119c28fe2a1836171621f9413759]
+### 21.[^c-0d6c119c28fe2a1836171621f9413759]
 
 In Article 19—
 
@@ -479,7 +479,7 @@ In Article 19—
   - (ii) in point (b)(i), omit “and any other Union authority that exercises responsibilities as a result of any delegation of tasks pursuant to Article 9(1)”;
   - (iii) omit from “ESMA shall apply Regulation [(EC) No 45/2001](https://www.legislation.gov.uk/eur/2001/45)” to the end.
 
-### 22.[^key-b810e6cbf8c687b47c556ab76cd8ba77]
+### 22.[^c-b810e6cbf8c687b47c556ab76cd8ba77]
 
 In Article 21—
 
@@ -488,9 +488,9 @@ In Article 21—
 - (c) in paragraph (2)—
   - (i) for “adopted an implementing act” substitute “ made regulations ”;
   - (ii) omit from “That implementing act shall be adopted in accordance” to the end;
-  - (iii)[^key-84c40c01ea97613b9b9f34b4575cb334] omit the final sub-paragraph.
+  - (iii)[^c-84c40c01ea97613b9b9f34b4575cb334] omit the final sub-paragraph.
 
-### 23.[^key-15d1ab24dbc1a69062baa7de82961396]
+### 23.[^c-15d1ab24dbc1a69062baa7de82961396]
 
 For Article 22 substitute—
 
@@ -515,26 +515,26 @@ For Article 22 substitute—
 
 .
 
-### 24.[^key-77eb930fd1b383efb17e005faf9a3751]
+### 24.[^c-77eb930fd1b383efb17e005faf9a3751]
 
-Omit Articles 23 to 33[^key-4003de8debebb2bde4374fee59789d8e].
+Omit Articles 23 to 33[^c-4003de8debebb2bde4374fee59789d8e].
 
 ## PART 4 — SPECIFIC PROVISION FOR TRADE REPOSITORIES
 
 ### CHAPTER 1 — PRELIMINARY
 
-#### 25. Interpretation of Part 4[^key-a19ffd0bbd31c3511ecd4227f65ae134]
+#### 25. Interpretation of Part 4[^c-a19ffd0bbd31c3511ecd4227f65ae134]
 
 In this Part—
 
-- “the FCA” means the Financial Conduct Authority;[^key-57e0dee677fed8d89240b3512834f5af]
+- “the FCA” means the Financial Conduct Authority;[^c-57e0dee677fed8d89240b3512834f5af]
 - “FSMA” means the Financial Services and Markets Act 2000;
 - “**the TRATP Regulations**” means the Trade Repositories (Amendment and Transitional Provision) (EU Exit) Regulations 2018 [^c23629851];
 - “**trade repository**” has the meaning given in Article 3(1) of the SFT regulation;
 - “**trade repository activities**” means the activities of centrally collecting and maintaining records of derivatives;
 - “**the Tribunal**” means the Upper Tribunal.
 
-### CHAPTER 1A — SUPERVISION OF TRADE REPOSITORIES[^key-1c3b89884be060e7bd90bf26d64e7479]
+### CHAPTER 1A — SUPERVISION OF TRADE REPOSITORIES[^c-1c3b89884be060e7bd90bf26d64e7479]
 
 #### 25A. Supervision of trade repositories
 
@@ -594,9 +594,9 @@ it must give the trade repository written notice.
 
 (14) A trade repository may refer to the Tribunal the FCA’s decision to impose a requirement under this regulation.
 
-### CHAPTER 2 — ENFORCEMENT PROVISIONS RELATING TO TRADE REPOSITORIES[^key-71386f0a1783ddb4fbfa0d5bce1e6be8]
+### CHAPTER 2 — ENFORCEMENT PROVISIONS RELATING TO TRADE REPOSITORIES[^c-71386f0a1783ddb4fbfa0d5bce1e6be8]
 
-#### 26. Warning notice[^key-1b993fc87d5397dae48d500f9195a8e8]
+#### 26. Warning notice[^c-1b993fc87d5397dae48d500f9195a8e8]
 
 (1) If the FCA proposes to—
 
@@ -609,7 +609,7 @@ it must give the trade repository a warning notice.
 
 (3) A warning notice about a proposal to impose a penalty must state the amount of the penalty.
 
-#### 27. Decision notice[^key-5d7fe05649efb429277ed8741d7de7f4]
+#### 27. Decision notice[^c-5d7fe05649efb429277ed8741d7de7f4]
 
 (1) If, having considered any representations made in response to the warning notice, the FCA decides to—
 
@@ -631,17 +631,17 @@ the trade repository may refer the matter to the Tribunal.
 
 (5) After a statement under regulation 28 is published, the FCA must send a copy of it to the trade repository concerned and to any person to whom a copy of the decision notice was given under section 393(4) of the FSMA (third party rights) (as applied by regulation 37).
 
-#### 28. Public censure[^key-25a1f2c9bdcdff70d9f70ffe8f05ea11]
+#### 28. Public censure[^c-25a1f2c9bdcdff70d9f70ffe8f05ea11]
 
 If the FCA considers that a trade repository has contravened a requirement imposed by or under this Part, the SFT regulation or the TRATP Regulations, the FCA may publish a statement to that effect.
 
-#### 29. Financial penalties[^key-97992e82768c12a9dd8509e55b6501b9]
+#### 29. Financial penalties[^c-97992e82768c12a9dd8509e55b6501b9]
 
 (1) If the FCA considers that a trade repository has contravened a requirement imposed by or under this Part, the SFT regulation or the TRATP Regulations, it may impose a penalty of such amount as it considers appropriate on the trade repository.
 
 (2) A penalty imposed under this regulation is payable to the FCA and may be recovered as a debt owed to the FCA.
 
-#### 30. Statement of policy[^key-d28bb143fbb7030f26e68616da719764]
+#### 30. Statement of policy[^c-d28bb143fbb7030f26e68616da719764]
 
 (1) The FCA must prepare and issue a statement of policy with respect to—
 
@@ -665,7 +665,7 @@ If the FCA considers that a trade repository has contravened a requirement impos
 
 (8) In exercising, or deciding whether to exercise, its power under regulation 29 in the case of any particular contravention, the FCA must have regard to any statement of policy published by it under this regulation and in force at the time when the contravention in question occurred.
 
-#### 31. Statement of policy: procedure[^key-66113b8817d9396bde7d48108256fef3]
+#### 31. Statement of policy: procedure[^c-66113b8817d9396bde7d48108256fef3]
 
 (1) Before the FCA issues a statement under regulation 30, the FCA must publish a draft of the proposed statement in the way appearing to the FCA to be best calculated to bring it to the attention of the public.
 
@@ -684,7 +684,7 @@ If the FCA considers that a trade repository has contravened a requirement impos
 
 (7) This regulation also applies to a proposal to alter or replace a statement.
 
-#### 32. Powers to issue guidance[^key-de3d126577e97ad8b4e4e61da5739440]
+#### 32. Powers to issue guidance[^c-de3d126577e97ad8b4e4e61da5739440]
 
 (1) The FCA may give guidance consisting of such information and advice as it considers appropriate in respect of—
 
@@ -698,7 +698,7 @@ If the FCA considers that a trade repository has contravened a requirement impos
 - (b) offer copies of its published guidance for sale at a reasonable price;
 - (c) if it gives guidance in response to a request made by any person, make a reasonable charge for that guidance.
 
-#### 33. Injunctions[^key-6159fb399f4ccf5eacc3268d92e4152a]
+#### 33. Injunctions[^c-6159fb399f4ccf5eacc3268d92e4152a]
 
 (1) If, on the application of the FCA, the court is satisfied—
 
@@ -727,7 +727,7 @@ it may make an order restraining (or in Scotland an interdict prohibiting) them 
 
 ### CHAPTER 3 — APPLICATION OF THE FSMA FOR THE PURPOSES OF THIS PART, THE SFT REGULATION AND THE TRATP REGULATIONS
 
-#### 34. Application of Part 9 of the FSMA (hearings and appeals)[^key-906a62bdeaf5ffb54899e9d96d07c76b]
+#### 34. Application of Part 9 of the FSMA (hearings and appeals)[^c-906a62bdeaf5ffb54899e9d96d07c76b]
 
 (1) Part 9 of the FSMA (hearings and appeals) applies in respect of a reference to the Tribunal under this Part, under the FSMA as applied by this Part or under the SFT regulation, as it applies in respect of a reference to the Tribunal under the FSMA but with the following modifications.
 
@@ -771,7 +771,7 @@ it may make an order restraining (or in Scotland an interdict prohibiting) them 
 - (a) in paragraph (a) omit “or the PRA”;
 - (b) omit paragraphs (b) and (c).
 
-#### 35. Application of Part 9A of the FSMA (rules and guidance)[^key-25ec170baf0df350d77180fddcb6c8cb]
+#### 35. Application of Part 9A of the FSMA (rules and guidance)[^c-25ec170baf0df350d77180fddcb6c8cb]
 
 (1) The provisions of Part 9A of the FSMA (rules and guidance) specified in the following paragraphs apply but with the following modifications.
 
@@ -815,7 +815,7 @@ it may make an order restraining (or in Scotland an interdict prohibiting) them 
 - (a) each reference to a regulator is a reference to the FCA;
 - (b) each reference to either regulator is a reference to the FCA only.
 
-(7A)[^key-1fe59309b5b45b472182076e8a0717f5] In section 138H (verification of rules)—
+(7A)[^c-1fe59309b5b45b472182076e8a0717f5] In section 138H (verification of rules)—
 
 - (a) each reference to a regulator is a reference to the FCA;
 - (a) each reference to either regulator is a reference to the FCA only.
@@ -842,7 +842,7 @@ it may make an order restraining (or in Scotland an interdict prohibiting) them 
   ;
 - (b) omit subsection (6).
 
-#### 36. Application of Part 11 of the FSMA (information gathering and investigations)[^key-680d28ba0ce7ec1cf93b316750998229][^key-d145e2c54a4a14ff47b088a6e90d5562]
+#### 36. Application of Part 11 of the FSMA (information gathering and investigations)[^c-680d28ba0ce7ec1cf93b316750998229][^c-d145e2c54a4a14ff47b088a6e90d5562]
 
 (1) Part 11 of the FSMA (information gathering and investigations), other than sections 165A, 165B, 165C, 169A and 173, applies with respect to the discharge by the FCA of its functions under this Part and the SFT regulation as it applies with respect to the discharge by the FCA of its functions under the FSMA but with the following modifications.
 
@@ -975,7 +975,7 @@ it may make an order restraining (or in Scotland an interdict prohibiting) them 
   - (i) in paragraph (a), omit “87C, 87J,” and “,165A, 169A”;
   - (ii) in paragraph (b), omit “,173”.
 
-#### 37. Application of Part 26 of the FSMA (notices)[^key-8da80fd7331c0909b6e21c1a4da5c472]
+#### 37. Application of Part 26 of the FSMA (notices)[^c-8da80fd7331c0909b6e21c1a4da5c472]
 
 (1) Part 26 of the FSMA (notices), other than sections 391A, 391B, 391C, 391D and 391E, applies with respect to the giving of notices under this Part, under the FSMA as applied by this Part and under the SFT regulation as it applies with respect to the giving of notices under the FSMA but with the following modifications.
 
@@ -1053,7 +1053,7 @@ it may make an order restraining (or in Scotland an interdict prohibiting) them 
 
   .
 
-#### 38. Application of Part 27 of the FSMA (offences)[^key-69842663503be0bdb40c250aaeb535f0][^key-99bb461c7801ed712d21a1803257cd6d]
+#### 38. Application of Part 27 of the FSMA (offences)[^c-69842663503be0bdb40c250aaeb535f0][^c-99bb461c7801ed712d21a1803257cd6d]
 
 (1) Part 27 of the FSMA applies with respect to the discharge by the FCA of its functions under—
 
@@ -1070,7 +1070,7 @@ as it applies with respect to the discharge by it of its functions under the FSM
 
 .
 
-#### 39. Application of Schedule 1ZA to the FSMA (the Financial Conduct Authority)[^key-089eb44b2e3da6f9bd0d0bd13072abd3][^key-9acb3294443d81c0b68523c85cca36ed]
+#### 39. Application of Schedule 1ZA to the FSMA (the Financial Conduct Authority)[^c-089eb44b2e3da6f9bd0d0bd13072abd3][^c-9acb3294443d81c0b68523c85cca36ed]
 
 (1) Paragraphs 19 to 21 (penalties) of Schedule 1ZA to the FSMA apply with respect to the discharge by the FCA of its functions under that Act as applied by this Chapter of this Part as they apply with respect to the discharge by it of its functions under the FSMA but with the following modifications.
 
@@ -1106,33 +1106,33 @@ An impact assessment of the effect that this instrument, and certain other instr
 
 [^c23629691]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-668ef3c94b485fa0967c85c61c5548cd]: Modification: Regulations modified (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)(4)(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/1/4/5) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-668ef3c94b485fa0967c85c61c5548cd]: Modification: Regulations modified (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)(4)(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/1/4/5) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a641409d999309d2f4326fd864068400]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/542): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-a641409d999309d2f4326fd864068400]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/542): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-4cdfc8d31837b6e5d6a76974748f8b11]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-4cdfc8d31837b6e5d6a76974748f8b11]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-0b33e264c1e558e449890cfae730071e]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-0b33e264c1e558e449890cfae730071e]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-3d4201f0c4151c90246f2a97e2e27dfd]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3d4201f0c4151c90246f2a97e2e27dfd]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23629701]: Marginal citation: [S.I. 2016/715](https://www.legislation.gov.uk/uksi/2016/715).
 
-[^key-f84e68fbb709dbd51ef92535f6f455b4]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f84e68fbb709dbd51ef92535f6f455b4]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-579166bdad85f1e8d70a97a7ce2c3c2c]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-579166bdad85f1e8d70a97a7ce2c3c2c]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-5ebc936fba696194adc3f11411ed0f9c]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-5ebc936fba696194adc3f11411ed0f9c]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23629711]: Marginal citation: [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).
 
-[^key-0f380e76eae0b81bed8a42b18251f0a3]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-0f380e76eae0b81bed8a42b18251f0a3]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23629721]: Marginal citation: Article 2(1A) is prospectively inserted by the Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018 [S.I. 2018/1403](https://www.legislation.gov.uk/uksi/2018/1403) which comes into force on exit day.
 
 [^c23629731]: Marginal citation: Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU Text with EEA relevance.
 
-[^key-fcc3187984b65fb4472c5acd62087355]: Textual amendment: Words in reg. 7(a) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 30(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/30/a)
+[^c-fcc3187984b65fb4472c5acd62087355]: Textual amendment: Words in reg. 7(a) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 30(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/30/a)
 
 [^c23629741]: Marginal citation: [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701).
 
@@ -1144,9 +1144,9 @@ An impact assessment of the effect that this instrument, and certain other instr
 
 [^c23629781]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48). Section 1 was amended by the Pensions Act [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35).
 
-[^key-1f8d579727ee07038ed88e798ecc2567]: Textual amendment: Words in reg. 7(a) inserted (25.6.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/2/c), [8](https://www.legislation.gov.uk/uksi/2020/646/regulation/8)
+[^c-1f8d579727ee07038ed88e798ecc2567]: Textual amendment: Words in reg. 7(a) inserted (25.6.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/2/c), [8](https://www.legislation.gov.uk/uksi/2020/646/regulation/8)
 
-[^key-f58e146b9a74b948f62c90b9a72efcfe]: Textual amendment: Words in reg. 7(a) substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [56(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/56/2)
+[^c-f58e146b9a74b948f62c90b9a72efcfe]: Textual amendment: Words in reg. 7(a) substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [56(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/56/2)
 
 [^c23629791]: Marginal citation: [S.I. 2003/3226](https://www.legislation.gov.uk/uksi/2003/3226). Regulation 16 was amended by [S.I. 2010/2993](https://www.legislation.gov.uk/uksi/2010/2993).
 
@@ -1156,92 +1156,92 @@ An impact assessment of the effect that this instrument, and certain other instr
 
 [^c23629821]: Marginal citation: The definition of “management company” was inserted by [S.I. 2011/1613](https://www.legislation.gov.uk/uksi/2011/1613). The definition of “the operator” was amended by [S.I. 2011/1613](https://www.legislation.gov.uk/uksi/2011/1613) and [S.I. 2013/1388](https://www.legislation.gov.uk/uksi/2013/1388).
 
-[^key-24722875a88f260a72b89a3ca07514cc]: Textual amendment: Words in reg. 7(f) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 30(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/30/f)
+[^c-24722875a88f260a72b89a3ca07514cc]: Textual amendment: Words in reg. 7(f) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 30(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/30/f)
 
 [^c23629831]: Marginal citation: Sourcebooks made by the Financial Conduct Authority are available on https://www.handbook.fca.org.uk/handbook and copies of the rules referred to can be obtained from the Financial Conduct Authority, 12 Endeavour Square, London E20 1JN, where it is also available for inspection.
 
 [^c23629841]: Marginal citation: Section 236A is prospectively inserted by the [Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325) which come into force on exit day.
 
-[^key-a1707026ff97b46758e51546bdefd4a7]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a1707026ff97b46758e51546bdefd4a7]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-5289e554855183d0b27c98d8b2cb4f51]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-5289e554855183d0b27c98d8b2cb4f51]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-c05749a2177c9816b75c917eafb131be]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-c05749a2177c9816b75c917eafb131be]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-3eff4068a92d8e8dfc10ce9bd2b46e83]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3eff4068a92d8e8dfc10ce9bd2b46e83]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-29422b4dd3c4d3b15a09d688d0b20740]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-29422b4dd3c4d3b15a09d688d0b20740]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-1d4ace23f399147d230aae506e2d4403]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1d4ace23f399147d230aae506e2d4403]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-0af002f6f537107346cf41748b35bc5a]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-0af002f6f537107346cf41748b35bc5a]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-13e996cf9d8c3af1771fcdc487ec0b5a]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-13e996cf9d8c3af1771fcdc487ec0b5a]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-2db9bd048e86be128ac8aa86e9651bfe]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-2db9bd048e86be128ac8aa86e9651bfe]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-2789fe2bb7629e671526e41e488da895]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-2789fe2bb7629e671526e41e488da895]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-c299c2bc40eec47f7251486a4652eda5]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-c299c2bc40eec47f7251486a4652eda5]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-9fa970e50f13dfdfd500ba25a16c64cc]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-9fa970e50f13dfdfd500ba25a16c64cc]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-b18b8af4562044ad9d69d0c237959393]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b18b8af4562044ad9d69d0c237959393]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-0d6c119c28fe2a1836171621f9413759]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-0d6c119c28fe2a1836171621f9413759]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-b810e6cbf8c687b47c556ab76cd8ba77]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b810e6cbf8c687b47c556ab76cd8ba77]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-84c40c01ea97613b9b9f34b4575cb334]: Textual amendment: Reg. 22(c)(iii) inserted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [56(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/56/3)
+[^c-84c40c01ea97613b9b9f34b4575cb334]: Textual amendment: Reg. 22(c)(iii) inserted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [56(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/56/3)
 
-[^key-15d1ab24dbc1a69062baa7de82961396]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-15d1ab24dbc1a69062baa7de82961396]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-77eb930fd1b383efb17e005faf9a3751]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-77eb930fd1b383efb17e005faf9a3751]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-4003de8debebb2bde4374fee59789d8e]: Textual amendment: Word in reg. 24 substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [56(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/56/4)
+[^c-4003de8debebb2bde4374fee59789d8e]: Textual amendment: Word in reg. 24 substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [56(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/56/4)
 
-[^key-a19ffd0bbd31c3511ecd4227f65ae134]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a19ffd0bbd31c3511ecd4227f65ae134]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-57e0dee677fed8d89240b3512834f5af]: Textual amendment: Words in reg. 25 inserted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [56(5)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/56/5)
+[^c-57e0dee677fed8d89240b3512834f5af]: Textual amendment: Words in reg. 25 inserted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [56(5)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/56/5)
 
 [^c23629851]: Marginal citation: [S.I. 2018/1318](https://www.legislation.gov.uk/uksi/2018/1318).
 
-[^key-1c3b89884be060e7bd90bf26d64e7479]: Textual amendment: Pt. 4 Ch. 1A inserted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [56(6)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/56/6)
+[^c-1c3b89884be060e7bd90bf26d64e7479]: Textual amendment: Pt. 4 Ch. 1A inserted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [56(6)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/56/6)
 
-[^key-71386f0a1783ddb4fbfa0d5bce1e6be8]: Modification: Pt. 4 Ch. 2 applied (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [28(a)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/28/a)
+[^c-71386f0a1783ddb4fbfa0d5bce1e6be8]: Modification: Pt. 4 Ch. 2 applied (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [28(a)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/28/a)
 
-[^key-1b993fc87d5397dae48d500f9195a8e8]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1b993fc87d5397dae48d500f9195a8e8]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-5d7fe05649efb429277ed8741d7de7f4]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-5d7fe05649efb429277ed8741d7de7f4]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-25a1f2c9bdcdff70d9f70ffe8f05ea11]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-25a1f2c9bdcdff70d9f70ffe8f05ea11]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-97992e82768c12a9dd8509e55b6501b9]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-97992e82768c12a9dd8509e55b6501b9]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-d28bb143fbb7030f26e68616da719764]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d28bb143fbb7030f26e68616da719764]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-66113b8817d9396bde7d48108256fef3]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-66113b8817d9396bde7d48108256fef3]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-de3d126577e97ad8b4e4e61da5739440]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-de3d126577e97ad8b4e4e61da5739440]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-6159fb399f4ccf5eacc3268d92e4152a]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-6159fb399f4ccf5eacc3268d92e4152a]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-906a62bdeaf5ffb54899e9d96d07c76b]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-906a62bdeaf5ffb54899e9d96d07c76b]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-25ec170baf0df350d77180fddcb6c8cb]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-25ec170baf0df350d77180fddcb6c8cb]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-1fe59309b5b45b472182076e8a0717f5]: Textual amendment: Reg. 35(7A) inserted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [56(7)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/56/7)
+[^c-1fe59309b5b45b472182076e8a0717f5]: Textual amendment: Reg. 35(7A) inserted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [56(7)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/56/7)
 
-[^key-680d28ba0ce7ec1cf93b316750998229]: Modification: Reg. 36 applied (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [28(b)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/28/b)
+[^c-680d28ba0ce7ec1cf93b316750998229]: Modification: Reg. 36 applied (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [28(b)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/28/b)
 
-[^key-d145e2c54a4a14ff47b088a6e90d5562]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d145e2c54a4a14ff47b088a6e90d5562]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-8da80fd7331c0909b6e21c1a4da5c472]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-8da80fd7331c0909b6e21c1a4da5c472]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-69842663503be0bdb40c250aaeb535f0]: Modification: Reg. 38 applied (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [28(c)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/28/c)
+[^c-69842663503be0bdb40c250aaeb535f0]: Modification: Reg. 38 applied (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [28(c)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/28/c)
 
-[^key-99bb461c7801ed712d21a1803257cd6d]: Commencement: Reg. 38 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-99bb461c7801ed712d21a1803257cd6d]: Commencement: Reg. 38 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-089eb44b2e3da6f9bd0d0bd13072abd3]: Modification: Reg. 39 applied (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [28(d)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/28/d)
+[^c-089eb44b2e3da6f9bd0d0bd13072abd3]: Modification: Reg. 39 applied (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [28(d)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/28/d)
 
-[^key-9acb3294443d81c0b68523c85cca36ed]: Commencement: Reg. 39 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-9acb3294443d81c0b68523c85cca36ed]: Commencement: Reg. 39 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

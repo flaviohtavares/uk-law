@@ -22,9 +22,9 @@ summary: ''
 
 In the case of a trade carried on by an individual which consists of or includes the exploitation of films—
 
-- (a) see section 115[^key-e2912a69c71581171ed55165f3eca7dd] for a restriction on sideways relief if the trade was carried on by the individual as a partner in a firm, and
+- (a) see section 115[^c-e2912a69c71581171ed55165f3eca7dd] for a restriction on sideways relief if the trade was carried on by the individual as a partner in a firm, and
 - (b) see section 796 for a charge to income tax if the individual made a loss in the trade (whether carried on alone or as a partner in a firm) for which sideways relief is claimed.
 
 ## Annotations
 
-[^key-e2912a69c71581171ed55165f3eca7dd]: Textual amendment: Words in s. 82(a) substituted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 6](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/6), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21)
+[^c-e2912a69c71581171ed55165f3eca7dd]: Textual amendment: Words in s. 82(a) substituted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 6](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/6), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259NEA. Priority[^key-51eccea191f73da4a1c0723afab7f456][^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259NEA. Priority[^c-51eccea191f73da4a1c0723afab7f456][^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ For the purposes of this Part, the provisions of Part 10 (corporate interest res
 
 ## Annotations
 
-[^key-51eccea191f73da4a1c0723afab7f456]: Textual amendment: S. 259NEA and cross-heading inserted (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/20)
+[^c-51eccea191f73da4a1c0723afab7f456]: Textual amendment: S. 259NEA and cross-heading inserted (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/20)
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)

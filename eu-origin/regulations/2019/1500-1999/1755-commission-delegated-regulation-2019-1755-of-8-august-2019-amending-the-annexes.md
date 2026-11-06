@@ -33,22 +33,22 @@ of 8 August 2019
 
 amending the Annexes to Regulation (EC) No 1059/2003 of the European Parliament and of the Council on the establishment of a common classification of territorial units for statistics (NUTS) (revoked)
 
-[^key-56c7e6afeb2f65bbf07df1215984631b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-56c7e6afeb2f65bbf07df1215984631b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-56c7e6afeb2f65bbf07df1215984631b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-56c7e6afeb2f65bbf07df1215984631b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-56c7e6afeb2f65bbf07df1215984631b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-56c7e6afeb2f65bbf07df1215984631b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56c7e6afeb2f65bbf07df1215984631b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-56c7e6afeb2f65bbf07df1215984631b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-56c7e6afeb2f65bbf07df1215984631b]
+## ANNEX[^c-56c7e6afeb2f65bbf07df1215984631b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-56c7e6afeb2f65bbf07df1215984631b]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 112](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/112)
+[^c-56c7e6afeb2f65bbf07df1215984631b]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 112](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/112)

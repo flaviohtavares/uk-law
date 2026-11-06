@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25.1. When this Part applies[^key-c3278694665fae2038e68de7a743f0de]
+## 25.1. When this Part applies[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25.2. General powers and requirements[^key-c3278694665fae2038e68de7a743f0de]
+## 25.2. General powers and requirements[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25.3. Application for ruling on procedure, evidence or other question of law[^key-c3278694665fae2038e68de7a743f0de]
+## 25.3. Application for ruling on procedure, evidence or other question of law[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25.4. Procedure on plea of guilty[^key-c3278694665fae2038e68de7a743f0de]
+## 25.4. Procedure on plea of guilty[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -48,7 +48,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25.5. Application to vacate a guilty plea[^key-c3278694665fae2038e68de7a743f0de]
+## 25.5. Application to vacate a guilty plea[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -56,7 +56,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25.6. Selecting the jury[^key-c3278694665fae2038e68de7a743f0de]
+## 25.6. Selecting the jury[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -64,7 +64,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25.7. Discharging jurors[^key-c3278694665fae2038e68de7a743f0de]
+## 25.7. Discharging jurors[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -72,7 +72,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25.8. Objecting to jurors[^key-c3278694665fae2038e68de7a743f0de]
+## 25.8. Objecting to jurors[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -80,7 +80,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25.9. Procedure on plea of not guilty[^key-c3278694665fae2038e68de7a743f0de]
+## 25.9. Procedure on plea of not guilty[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -88,7 +88,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25.10. Defendant unfit to plead[^key-c3278694665fae2038e68de7a743f0de]
+## 25.10. Defendant unfit to plead[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -96,7 +96,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25.11. Evidence of a witness in person[^key-c3278694665fae2038e68de7a743f0de]
+## 25.11. Evidence of a witness in person[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -104,7 +104,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25.12. Evidence of a witness in writing[^key-c3278694665fae2038e68de7a743f0de]
+## 25.12. Evidence of a witness in writing[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -112,7 +112,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25.13. Evidence by admission[^key-c3278694665fae2038e68de7a743f0de]
+## 25.13. Evidence by admission[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -120,7 +120,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25.14. Directions to the jury and taking the verdict[^key-c3278694665fae2038e68de7a743f0de]
+## 25.14. Directions to the jury and taking the verdict[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -128,7 +128,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25.15. Conviction or acquittal without a jury[^key-c3278694665fae2038e68de7a743f0de]
+## 25.15. Conviction or acquittal without a jury[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -136,7 +136,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25.16. Procedure if the court convicts[^key-c3278694665fae2038e68de7a743f0de]
+## 25.16. Procedure if the court convicts[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -144,7 +144,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25.17. Provision of documents for the court[^key-c3278694665fae2038e68de7a743f0de]
+## 25.17. Provision of documents for the court[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -152,7 +152,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25.18. Duty of court officer[^key-c3278694665fae2038e68de7a743f0de]
+## 25.18. Duty of court officer[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -162,6 +162,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c3278694665fae2038e68de7a743f0de]: Textual amendment: Rules revoked (5.10.2020) by [The Criminal Procedure Rules 2020 (S.I. 2020/759)](https://www.legislation.gov.uk/uksi/2020/759), [preamble](https://www.legislation.gov.uk/uksi/2020/759/introduction)
+[^c-c3278694665fae2038e68de7a743f0de]: Textual amendment: Rules revoked (5.10.2020) by [The Criminal Procedure Rules 2020 (S.I. 2020/759)](https://www.legislation.gov.uk/uksi/2020/759), [preamble](https://www.legislation.gov.uk/uksi/2020/759/introduction)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

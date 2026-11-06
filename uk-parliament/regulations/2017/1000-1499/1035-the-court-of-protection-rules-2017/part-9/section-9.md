@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject to paragraph (3), applications[^key-bbb3b70c2f78452321a3b5765c6f216f] to the court to start proceedings must be made in accordance with this Part and, as applicable, Parts 7 and 8[^key-6894d79c9d6bf53adc5ba8e2f02e25d7] and the relevant practice directions.
+(1) Subject to paragraph (3), applications[^c-bbb3b70c2f78452321a3b5765c6f216f] to the court to start proceedings must be made in accordance with this Part and, as applicable, Parts 7 and 8[^c-6894d79c9d6bf53adc5ba8e2f02e25d7] and the relevant practice directions.
 
 (2) The appropriate forms must be used in the cases to which they apply, with such variations as the case requires, but not so as to omit any information or guidance which any form gives to the intended recipient.
 
-(3)[^key-01b9fa0c40efbf03f2b5cc485e735cc1] Practice Direction 9H makes additional and different provision for property and affairs deputyship applications.
+(3)[^c-01b9fa0c40efbf03f2b5cc485e735cc1] Practice Direction 9H makes additional and different provision for property and affairs deputyship applications.
 
 ## 9.2. When proceedings are started
 
@@ -240,8 +240,8 @@ A person who wishes to be removed as a party to the proceedings must apply to th
 
 ## Annotations
 
-[^key-bbb3b70c2f78452321a3b5765c6f216f]: Textual amendment: Words in [rule 9.1(1)](https://www.legislation.gov.uk/uksi/2017/1035/rule/9.1/1) substituted (1.1.2023) by [The Court of Protection (Amendment) Rules 2022 (S.I. 2022/1192)](https://www.legislation.gov.uk/uksi/2022/1192), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1192/rule/1/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2022/1192/rule/4/a/i)
+[^c-bbb3b70c2f78452321a3b5765c6f216f]: Textual amendment: Words in [rule 9.1(1)](https://www.legislation.gov.uk/uksi/2017/1035/rule/9.1/1) substituted (1.1.2023) by [The Court of Protection (Amendment) Rules 2022 (S.I. 2022/1192)](https://www.legislation.gov.uk/uksi/2022/1192), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1192/rule/1/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2022/1192/rule/4/a/i)
 
-[^key-6894d79c9d6bf53adc5ba8e2f02e25d7]: Textual amendment: Words in [rule 9.1(1)](https://www.legislation.gov.uk/uksi/2017/1035/rule/9.1/1) substituted (1.1.2023) by [The Court of Protection (Amendment) Rules 2022 (S.I. 2022/1192)](https://www.legislation.gov.uk/uksi/2022/1192), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1192/rule/1/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1192/rule/4/a/ii)
+[^c-6894d79c9d6bf53adc5ba8e2f02e25d7]: Textual amendment: Words in [rule 9.1(1)](https://www.legislation.gov.uk/uksi/2017/1035/rule/9.1/1) substituted (1.1.2023) by [The Court of Protection (Amendment) Rules 2022 (S.I. 2022/1192)](https://www.legislation.gov.uk/uksi/2022/1192), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1192/rule/1/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1192/rule/4/a/ii)
 
-[^key-01b9fa0c40efbf03f2b5cc485e735cc1]: Textual amendment: [Rule 9.1(3)](https://www.legislation.gov.uk/uksi/2017/1035/rule/9.1/3) inserted (1.1.2023) by [The Court of Protection (Amendment) Rules 2022 (S.I. 2022/1192)](https://www.legislation.gov.uk/uksi/2022/1192), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1192/rule/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2022/1192/rule/4/b)
+[^c-01b9fa0c40efbf03f2b5cc485e735cc1]: Textual amendment: [Rule 9.1(3)](https://www.legislation.gov.uk/uksi/2017/1035/rule/9.1/3) inserted (1.1.2023) by [The Court of Protection (Amendment) Rules 2022 (S.I. 2022/1192)](https://www.legislation.gov.uk/uksi/2022/1192), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1192/rule/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2022/1192/rule/4/b)

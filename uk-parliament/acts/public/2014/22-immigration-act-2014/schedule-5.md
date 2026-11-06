@@ -24,7 +24,7 @@ Section 54
 
 ### Introduction
 
-**1.**[^key-795e759af1a10053f92406ac906ef4d4] (1) This Schedule sets out the kinds of regulations which may be made by the Secretary of State under section 54(2).
+**1.**[^c-795e759af1a10053f92406ac906ef4d4] (1) This Schedule sets out the kinds of regulations which may be made by the Secretary of State under section 54(2).
 
 (2) In this Schedule—
 
@@ -33,7 +33,7 @@ Section 54
 
 ### Notices
 
-**2.**[^key-8bd5bff036ea13bea875d4665a9a701a] (1) The Secretary of State may make regulations which make provision about the giving of relevant notices.
+**2.**[^c-8bd5bff036ea13bea875d4665a9a701a] (1) The Secretary of State may make regulations which make provision about the giving of relevant notices.
 
 (2) Regulations under this paragraph may, in particular, provide that a relevant notice given in accordance with the regulations is to be presumed to have been received by the person to whom it is given.
 
@@ -46,7 +46,7 @@ Section 54
 
 ### Evidence
 
-**3.**[^key-277e82dc1c31a885d2f78a52302069e0] (1) The Secretary of State may make regulations about the supply of evidence in accordance with a relevant evidence provision.
+**3.**[^c-277e82dc1c31a885d2f78a52302069e0] (1) The Secretary of State may make regulations about the supply of evidence in accordance with a relevant evidence provision.
 
 (2) Regulations under this paragraph may, in particular, make provision about—
 
@@ -66,7 +66,7 @@ Section 54
 
 ### Change of address
 
-**4.**[^key-7f2bc41e370ac9aa252e6df675a728fa] (1) The Secretary of State may, by regulations, make provision about the giving to the Secretary of State of—
+**4.**[^c-7f2bc41e370ac9aa252e6df675a728fa] (1) The Secretary of State may, by regulations, make provision about the giving to the Secretary of State of—
 
 - (a) notice of a relevant person's usual address, if the person's notified usual address changes;
 - (b) notice of a relevant person's UK contact address, if the person's notified usual address is not in the United Kingdom;
@@ -88,7 +88,7 @@ Section 54
 
 ### Referral
 
-**5.**[^key-4b6b6d4b0c85cc1b6a5105bfd9a48d9d] (1) The Secretary of State may make regulations requiring a person to act in accordance with the regulations when complying with a duty of referral.
+**5.**[^c-4b6b6d4b0c85cc1b6a5105bfd9a48d9d] (1) The Secretary of State may make regulations requiring a person to act in accordance with the regulations when complying with a duty of referral.
 
 (2) The regulations may, in particular, make provision about—
 
@@ -107,7 +107,7 @@ Section 54
 
 ### Applications for shortening of waiting period
 
-**6.**[^key-30cf135367dd26ad2d2a0027e92a4cde] (1) The Secretary of State may make regulations about the making, and granting, of applications for the shortening of a waiting period in cases where a proposed Scottish or Northern Ireland marriage or civil partnership is referred to the Secretary of State in accordance with a duty of referral.
+**6.**[^c-30cf135367dd26ad2d2a0027e92a4cde] (1) The Secretary of State may make regulations about the making, and granting, of applications for the shortening of a waiting period in cases where a proposed Scottish or Northern Ireland marriage or civil partnership is referred to the Secretary of State in accordance with a duty of referral.
 
 (2) Regulations may be made under this paragraph—
 
@@ -121,14 +121,14 @@ Section 54
 
 ## Annotations
 
-[^key-795e759af1a10053f92406ac906ef4d4]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2014/22/schedule/5/paragraph/1) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(h)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/h)
+[^c-795e759af1a10053f92406ac906ef4d4]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2014/22/schedule/5/paragraph/1) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(h)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/h)
 
-[^key-8bd5bff036ea13bea875d4665a9a701a]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2014/22/schedule/5/paragraph/2) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(h)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/h)
+[^c-8bd5bff036ea13bea875d4665a9a701a]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2014/22/schedule/5/paragraph/2) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(h)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/h)
 
-[^key-277e82dc1c31a885d2f78a52302069e0]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2014/22/schedule/5/paragraph/3) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(h)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/h)
+[^c-277e82dc1c31a885d2f78a52302069e0]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2014/22/schedule/5/paragraph/3) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(h)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/h)
 
-[^key-7f2bc41e370ac9aa252e6df675a728fa]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2014/22/schedule/5/paragraph/4) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(h)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/h)
+[^c-7f2bc41e370ac9aa252e6df675a728fa]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2014/22/schedule/5/paragraph/4) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(h)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/h)
 
-[^key-4b6b6d4b0c85cc1b6a5105bfd9a48d9d]: Commencement: Sch. 5 para. 5 in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(h)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/h)
+[^c-4b6b6d4b0c85cc1b6a5105bfd9a48d9d]: Commencement: Sch. 5 para. 5 in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(h)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/h)
 
-[^key-30cf135367dd26ad2d2a0027e92a4cde]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2014/22/schedule/5/paragraph/6) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(h)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/h)
+[^c-30cf135367dd26ad2d2a0027e92a4cde]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2014/22/schedule/5/paragraph/6) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(h)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/h)

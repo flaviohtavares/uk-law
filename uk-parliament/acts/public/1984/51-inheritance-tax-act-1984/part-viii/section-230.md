@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 230. Acceptance of property in satisfaction of tax.[^c19467921][^c13614191][^key-eaa28e222a244a016e94643f74d8bf99]
+## 230. Acceptance of property in satisfaction of tax.[^c19467921][^c13614191][^c-eaa28e222a244a016e94643f74d8bf99]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 - (a) if the Board have determined to accept or have accepted that building in satisfaction or part satisfaction of tax or of estate duty, or
 - (b) if the building or any interest in it belongs to Her Majesty in right of the Crown or of the Duchy of Lancaster, or belongs to the Duchy of Cornwall or belongs to a Government department or is held for the purposes of a Government department, or
-- (c) if the building is one of which the Secretary of State is guardian under the [^c13614211]Ancient Monuments and Archaeological Areas Act 1979 , or of which the Welsh Ministers are guardians under Part 2 of the Historic Environment (Wales) Act 2023[^key-aef1e8d0d0067be7fec11ddf4412c71e] or of which the Department of the Environment for Northern Ireland is guardian under the Historic Monuments and Archaeological Objects (Northern Ireland) Order 1995[^c13614221], or
+- (c) if the building is one of which the Secretary of State is guardian under the [^c13614211]Ancient Monuments and Archaeological Areas Act 1979 , or of which the Welsh Ministers are guardians under Part 2 of the Historic Environment (Wales) Act 2023[^c-aef1e8d0d0067be7fec11ddf4412c71e] or of which the Department of the Environment for Northern Ireland is guardian under the Historic Monuments and Archaeological Objects (Northern Ireland) Order 1995[^c13614221], or
 - (d) if the building belongs to any body within Schedule 3 to this Act,
 
 in any case where it appears to the Secretary of State desirable for the objects to remain associated with the building.
@@ -60,13 +60,13 @@ and in determining under subsection (4) above whether an object or collection or
 
     S. 230: transfer of functions (S.) (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/1/1), [2](https://www.legislation.gov.uk/uksi/1999/1750/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1750/schedule/1); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 
-[^key-eaa28e222a244a016e94643f74d8bf99]: Modification: S. 230 functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-eaa28e222a244a016e94643f74d8bf99]: Modification: S. 230 functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
 [^c13614201]: Textual amendment: Words in s. 230(1)(3)(4)(a)(b) substituted (3.7.1992) by [S.I. 1992/1311](https://www.legislation.gov.uk/uksi/1992/1311), [art. 12(2)](https://www.legislation.gov.uk/uksi/1992/1311/article/12/2), [Sch. 2 para. 6(2)(3)(4)](https://www.legislation.gov.uk/uksi/1992/1311/schedule/2/paragraph/6/2/3/4).
 
 [^c13614211]: Marginal citation: [1979 c.46](https://www.legislation.gov.uk/ukpga/1979/46).
 
-[^key-aef1e8d0d0067be7fec11ddf4412c71e]: Textual amendment: Words in s. 230(3)(c) inserted (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 59](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/59) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-aef1e8d0d0067be7fec11ddf4412c71e]: Textual amendment: Words in s. 230(3)(c) inserted (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 59](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/59) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
 [^c13614221]: Textual amendment: Words in s. 230(3)(c) substituted (29.8.1995) by [S.I. 1995/1625 (N.I. 9)](https://www.legislation.gov.uk/nisi/1995/1625), [art. 45(1)](https://www.legislation.gov.uk/nisi/1995/1625/article/45/1), [Sch. 3 para. 1(1)(2)(e)](https://www.legislation.gov.uk/nisi/1995/1625/schedule/3/paragraph/1/1/2/e)
 

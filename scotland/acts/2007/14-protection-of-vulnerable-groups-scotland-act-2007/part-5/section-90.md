@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Crown application[^key-611c0de8c1495dfc30ad41dbf0819c67]
+## 90. Crown application[^c-611c0de8c1495dfc30ad41dbf0819c67]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-611c0de8c1495dfc30ad41dbf0819c67]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2007/14/section/90) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
+[^c-611c0de8c1495dfc30ad41dbf0819c67]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2007/14/section/90) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)

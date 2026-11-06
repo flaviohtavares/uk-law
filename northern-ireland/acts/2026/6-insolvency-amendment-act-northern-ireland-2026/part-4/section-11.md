@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Creditor consent for the purposes of Article 13CB[^key-7b88c65849089a0d6ef19ab9a3f9475c]
+## 11. Creditor consent for the purposes of Article 13CB[^c-7b88c65849089a0d6ef19ab9a3f9475c]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b88c65849089a0d6ef19ab9a3f9475c]: Commencement: S. 11 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-7b88c65849089a0d6ef19ab9a3f9475c]: Commencement: S. 11 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Outcome of a section 52 review[^key-3febd6a74311b43e9b945ce2ab9e7e7f]
+## 53. Outcome of a section 52 review[^c-3febd6a74311b43e9b945ce2ab9e7e7f]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3febd6a74311b43e9b945ce2ab9e7e7f]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2021/15/section/53) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-3febd6a74311b43e9b945ce2ab9e7e7f]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2021/15/section/53) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

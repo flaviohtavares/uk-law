@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 397. Interpretation of the 1989 Regulations[^key-d1c0ca991a23d65d33f7ba58bbcf9f57]
+## 397. Interpretation of the 1989 Regulations[^c-d1c0ca991a23d65d33f7ba58bbcf9f57]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,7 +52,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d1c0ca991a23d65d33f7ba58bbcf9f57]: Commencement: Art. 397 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-d1c0ca991a23d65d33f7ba58bbcf9f57]: Commencement: Art. 397 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00286]: Footnote: [1979 c. 34](https://www.legislation.gov.uk/ukpga/1979/34).
 

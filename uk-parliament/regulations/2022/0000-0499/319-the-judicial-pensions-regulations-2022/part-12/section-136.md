@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Modifying provisions and amendments[^key-8e7d7dbcd9a7bf93a2c11cc9b71b144c]
+## 136. Modifying provisions and amendments[^c-8e7d7dbcd9a7bf93a2c11cc9b71b144c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3 has effect.
 
 ## Annotations
 
-[^key-8e7d7dbcd9a7bf93a2c11cc9b71b144c]: Commencement: Reg. 136 in force for specified purposes at 18.3.2022 by virtue of reg. 1(2)
+[^c-8e7d7dbcd9a7bf93a2c11cc9b71b144c]: Commencement: Reg. 136 in force for specified purposes at 18.3.2022 by virtue of reg. 1(2)

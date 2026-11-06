@@ -89,7 +89,7 @@ Section 582(2).
 | 1987 c.15. | Reverter of Sites Act 1987. | Section 8(1). |
 | 1988 c.40. | Education Reform Act 1988. | Part I. |
 |  |  | Section 120(5) and (9). |
-|  |  | In section 210, in each of subsections (1) and (3)(d) the words “local authorities[^key-df82d42709314c7296748c08b3554faa] or”. |
+|  |  | In section 210, in each of subsections (1) and (3)(d) the words “local authorities[^c-df82d42709314c7296748c08b3554faa] or”. |
 |  |  | In section 211, paragraphs (a) and (b) and the words “the school or”. |
 |  |  | Sections 212 and 213. |
 |  |  | In section 218, in subsection (1) in each of paragraphs (e) and (f) the words “schools and” and paragraph (g), in subsection (7) the words from “or, in such cases” to “the funding authority” and the words “school or” (where first occurring) and “any school or”, and subsections (8) and (13). |
@@ -166,4 +166,4 @@ Section 582(2).
 
 ## Annotations
 
-[^key-df82d42709314c7296748c08b3554faa]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/3) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-df82d42709314c7296748c08b3554faa]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/3) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))

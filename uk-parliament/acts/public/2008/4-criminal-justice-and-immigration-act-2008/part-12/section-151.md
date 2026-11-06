@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Effect of amendments to criminal justice provisions applied for purposes of service law[^key-e242edb67dd93913ffd80d70864a23c0]
+## 151. Effect of amendments to criminal justice provisions applied for purposes of service law[^c-e242edb67dd93913ffd80d70864a23c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e242edb67dd93913ffd80d70864a23c0]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2008/4/section/151) in force at 31.10.2009 by [S.I. 2009/2606](https://www.legislation.gov.uk/uksi/2009/2606), [art. 3(g)](https://www.legislation.gov.uk/uksi/2009/2606/article/3/g)
+[^c-e242edb67dd93913ffd80d70864a23c0]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2008/4/section/151) in force at 31.10.2009 by [S.I. 2009/2606](https://www.legislation.gov.uk/uksi/2009/2606), [art. 3(g)](https://www.legislation.gov.uk/uksi/2009/2606/article/3/g)

@@ -35,22 +35,22 @@ amending Regulation (EC) No 794/2004 as regards the notification forms and infor
 
 (Text with EEA relevance) (revoked)
 
-[^key-f3c9af5f89ce31d10cbab2ce2fee96f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f3c9af5f89ce31d10cbab2ce2fee96f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-f3c9af5f89ce31d10cbab2ce2fee96f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f3c9af5f89ce31d10cbab2ce2fee96f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f3c9af5f89ce31d10cbab2ce2fee96f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f3c9af5f89ce31d10cbab2ce2fee96f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f3c9af5f89ce31d10cbab2ce2fee96f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f3c9af5f89ce31d10cbab2ce2fee96f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I[^key-f3c9af5f89ce31d10cbab2ce2fee96f1]
+## ANNEX I[^c-f3c9af5f89ce31d10cbab2ce2fee96f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-f3c9af5f89ce31d10cbab2ce2fee96f1]
+## ANNEX II[^c-f3c9af5f89ce31d10cbab2ce2fee96f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f3c9af5f89ce31d10cbab2ce2fee96f1]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(r)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/r) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-f3c9af5f89ce31d10cbab2ce2fee96f1]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(r)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/r) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))

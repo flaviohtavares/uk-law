@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 105. Financial support for research and innovation[^key-42337f5d5b8df2e6c2d18ebce554dc21][^key-866ca6274703ba24854afb574275b342]
+## 105. Financial support for research and innovation[^c-42337f5d5b8df2e6c2d18ebce554dc21][^c-866ca6274703ba24854afb574275b342]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-42337f5d5b8df2e6c2d18ebce554dc21]: Commencement: S. 105 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-42337f5d5b8df2e6c2d18ebce554dc21]: Commencement: S. 105 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-866ca6274703ba24854afb574275b342]: Commencement: [S. 105](https://www.legislation.gov.uk/asc/2022/1/section/105) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(ll)](https://www.legislation.gov.uk/wsi/2023/919/article/3/ll)
+[^c-866ca6274703ba24854afb574275b342]: Commencement: [S. 105](https://www.legislation.gov.uk/asc/2022/1/section/105) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(ll)](https://www.legislation.gov.uk/wsi/2023/919/article/3/ll)

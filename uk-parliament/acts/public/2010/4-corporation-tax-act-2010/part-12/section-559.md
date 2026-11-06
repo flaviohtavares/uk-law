@@ -43,25 +43,25 @@ summary: ''
 
 (5) Condition D is that the date specified in the notice under section 523 or 524 (as the case may be) is the same as that on which the exiting company ceases to be a member of Group 1.
 
-(6) A company may give a notice under section 523 or 524 in accordance with subsection (4) even if it does not expect to meet conditions C, E and F[^key-f777898a8e98931db5a9c60bf3704cb4] in section 528 throughout accounting period 1.
+(6) A company may give a notice under section 523 or 524 in accordance with subsection (4) even if it does not expect to meet conditions C, E and F[^c-f777898a8e98931db5a9c60bf3704cb4] in section 528 throughout accounting period 1.
 
 (7) If this section applies, the exiting company is to be treated as a member of a group UK REIT (or as a company UK REIT) during the period of 6 months beginning with the time when it ceases to be a member of Group 1.
 
 (8) If this section applies, the following provisions do not have effect—
 
 - sections 536 and 537 (effects of entry),
-- [^key-cdd68e00aee6e11fe57386f25275206d]... and
+- [^c-cdd68e00aee6e11fe57386f25275206d]... and
 - sections 579 and 580 (effects of cessation).
 
-(9) But if, at the end of the period of 6 months mentioned in subsection (7) conditions C, E and F[^key-89c6b73ffe9368b99c459008da1c99ea] in section 528 are not met in relation to the principal company of Group 2 or the exiting company (as the case may be)—
+(9) But if, at the end of the period of 6 months mentioned in subsection (7) conditions C, E and F[^c-89c6b73ffe9368b99c459008da1c99ea] in section 528 are not met in relation to the principal company of Group 2 or the exiting company (as the case may be)—
 
 - (a) this section does not apply, and
 - (b) the exiting company is to be treated as having ceased to be a member of a group UK REIT (or a company UK REIT) on the date on which it ceased to be a member of Group 1.
 
 ## Annotations
 
-[^key-f777898a8e98931db5a9c60bf3704cb4]: Textual amendment: Words in s. 559(6) substituted (with effect in accordance with Sch. 4 para. 13(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/6)
+[^c-f777898a8e98931db5a9c60bf3704cb4]: Textual amendment: Words in s. 559(6) substituted (with effect in accordance with Sch. 4 para. 13(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/6)
 
-[^key-cdd68e00aee6e11fe57386f25275206d]: Textual amendment: Words in s. 559(8) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/37/1)
+[^c-cdd68e00aee6e11fe57386f25275206d]: Textual amendment: Words in s. 559(8) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/37/1)
 
-[^key-89c6b73ffe9368b99c459008da1c99ea]: Textual amendment: Words in s. 559(9) substituted (with effect in accordance with Sch. 4 para. 13(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/6)
+[^c-89c6b73ffe9368b99c459008da1c99ea]: Textual amendment: Words in s. 559(9) substituted (with effect in accordance with Sch. 4 para. 13(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Authorisation by adult's nearest relative[^key-570668f73618bd6b349c8cda4b926915]
+## 7. Authorisation by adult's nearest relative[^c-570668f73618bd6b349c8cda4b926915]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-570668f73618bd6b349c8cda4b926915]: Textual amendment: S. 7 repealed (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 11(3)](https://www.legislation.gov.uk/asp/2019/11/section/11/3), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-570668f73618bd6b349c8cda4b926915]: Textual amendment: S. 7 repealed (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 11(3)](https://www.legislation.gov.uk/asp/2019/11/section/11/3), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)

@@ -35,14 +35,14 @@ amending Council Decision of 16 December 1980 setting up the Consultative Commit
 
 (2008/182/Euratom) (revoked)
 
-[^key-f63e04c3578a6269d9034307effdd9a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f63e04c3578a6269d9034307effdd9a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Sole Article.**[^key-f63e04c3578a6269d9034307effdd9a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Sole Article.**[^c-f63e04c3578a6269d9034307effdd9a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f63e04c3578a6269d9034307effdd9a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f63e04c3578a6269d9034307effdd9a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f63e04c3578a6269d9034307effdd9a1]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-f63e04c3578a6269d9034307effdd9a1]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

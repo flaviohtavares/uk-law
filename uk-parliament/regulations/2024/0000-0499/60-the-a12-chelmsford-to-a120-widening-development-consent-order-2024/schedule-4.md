@@ -36,9 +36,9 @@ In relating this Schedule to the streets, rights of way and access plans and the
 
   (as shown in the key on the streets, rights of way and access plans) and are given a reference label (a capital letter in a circle) and will be a road unless the word ‘footpath’, ‘bridleway’, ‘footway’ or ‘cycle track’ appears beneath its reference letter in column (4) of Part 2 or column (2) of Part 3 of this Schedule.
 - (c) Private means of access to be stopped up, as described in column (2) of Parts 4 and 6 of this Schedule, are shown by solid black shading (as shown in the key on the streets, rights of way and access plans) over the extent of stopping up described in column (3) of Parts 4 and 6 of this Schedule, and are given a reference label (a lower case letter in a circle).
-- (d) New private means of access to be substituted for[^key-d14d5b91d335f157dfc41e6b0e3de215] a private means of access to be stopped up (or which are otherwise to be provided), as are included in column (4) of Part 4 and column (2) of Part 5 of this Schedule, are shown by black line hatching (as shown in the key on the streets, rights of way and access plans) and are given a reference label (a number in a circle).
+- (d) New private means of access to be substituted for[^c-d14d5b91d335f157dfc41e6b0e3de215] a private means of access to be stopped up (or which are otherwise to be provided), as are included in column (4) of Part 4 and column (2) of Part 5 of this Schedule, are shown by black line hatching (as shown in the key on the streets, rights of way and access plans) and are given a reference label (a number in a circle).
 
-### PART 1 — HIGHWAYS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-1df8790b9caecb97490350c56f2314bf]
+### PART 1 — HIGHWAYS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-1df8790b9caecb97490350c56f2314bf]
 
 <table>
 <thead>
@@ -62,7 +62,7 @@ In relating this Schedule to the streets, rights of way and access plans and the
 </tbody>
 </table>
 
-### PART 2 — HIGHWAYS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-a2efca6eaf91acfaaed71458a1f738fc]
+### PART 2 — HIGHWAYS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-a2efca6eaf91acfaaed71458a1f738fc]
 
 <table>
 <thead>
@@ -174,9 +174,9 @@ In relating this Schedule to the streets, rights of way and access plans and the
 </tbody>
 </table>
 
-[^key-17b952a22f618b8d50b86d147894c6a1][^key-33a060d2ff75d057b587fb9a8f3faf5b]
+[^c-17b952a22f618b8d50b86d147894c6a1][^c-33a060d2ff75d057b587fb9a8f3faf5b]
 
-### PART 3 — NEW HIGHWAYS WHICH ARE OTHERWISE TO BE PROVIDED[^key-ed89fe9d7938f8d8afd19132c6c59e4c]
+### PART 3 — NEW HIGHWAYS WHICH ARE OTHERWISE TO BE PROVIDED[^c-ed89fe9d7938f8d8afd19132c6c59e4c]
 
 <table>
 <thead>
@@ -486,9 +486,9 @@ In relating this Schedule to the streets, rights of way and access plans and the
 </tbody>
 </table>
 
-[^key-478c763ba5c40439cad8c68bab270cf3]
+[^c-478c763ba5c40439cad8c68bab270cf3]
 
-### PART 4 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-2a5440fd3dac954513ca48a7e343f220]
+### PART 4 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-2a5440fd3dac954513ca48a7e343f220]
 
 <table>
 <thead>
@@ -524,7 +524,7 @@ In relating this Schedule to the streets, rights of way and access plans and the
 </tbody>
 </table>
 
-### PART 5 — NEW PRIVATE MEANS OF ACCESS WHICH ARE TO BE PROVIDED[^key-d2f686ef507ff46db9d1e7b473d2947c]
+### PART 5 — NEW PRIVATE MEANS OF ACCESS WHICH ARE TO BE PROVIDED[^c-d2f686ef507ff46db9d1e7b473d2947c]
 
 <table>
 <thead>
@@ -725,9 +725,9 @@ In relating this Schedule to the streets, rights of way and access plans and the
 </tbody>
 </table>
 
-[^key-b4582c2f5b5ddb296fa84d9554f48f67]
+[^c-b4582c2f5b5ddb296fa84d9554f48f67]
 
-### PART 6 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-15e6f3efad2b387de073d394adbb5ab3]
+### PART 6 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-15e6f3efad2b387de073d394adbb5ab3]
 
 <table>
 <thead>
@@ -756,24 +756,24 @@ In relating this Schedule to the streets, rights of way and access plans and the
 
 ## Annotations
 
-[^key-d14d5b91d335f157dfc41e6b0e3de215]: Textual amendment: Words in Sch. 4 substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-d14d5b91d335f157dfc41e6b0e3de215]: Textual amendment: Words in Sch. 4 substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
-[^key-1df8790b9caecb97490350c56f2314bf]: Commencement: Sch. 4 Pt. 1 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-1df8790b9caecb97490350c56f2314bf]: Commencement: Sch. 4 Pt. 1 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
-[^key-a2efca6eaf91acfaaed71458a1f738fc]: Commencement: Sch. 4 Pt. 2 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-a2efca6eaf91acfaaed71458a1f738fc]: Commencement: Sch. 4 Pt. 2 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
-[^key-17b952a22f618b8d50b86d147894c6a1]: Textual amendment: Word in Sch. 4 Pt. 2 Table omitted (25.4.2025) by virtue of [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-17b952a22f618b8d50b86d147894c6a1]: Textual amendment: Word in Sch. 4 Pt. 2 Table omitted (25.4.2025) by virtue of [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
-[^key-33a060d2ff75d057b587fb9a8f3faf5b]: Textual amendment: Words in Sch. 4 Pt. 2 Table substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-33a060d2ff75d057b587fb9a8f3faf5b]: Textual amendment: Words in Sch. 4 Pt. 2 Table substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
-[^key-ed89fe9d7938f8d8afd19132c6c59e4c]: Commencement: Sch. 4 Pt. 3 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-ed89fe9d7938f8d8afd19132c6c59e4c]: Commencement: Sch. 4 Pt. 3 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
-[^key-478c763ba5c40439cad8c68bab270cf3]: Textual amendment: Words in Sch. 4 Pt. 3 Table substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-478c763ba5c40439cad8c68bab270cf3]: Textual amendment: Words in Sch. 4 Pt. 3 Table substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
-[^key-2a5440fd3dac954513ca48a7e343f220]: Commencement: Sch. 4 Pt. 4 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-2a5440fd3dac954513ca48a7e343f220]: Commencement: Sch. 4 Pt. 4 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
-[^key-d2f686ef507ff46db9d1e7b473d2947c]: Commencement: Sch. 4 Pt. 5 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-d2f686ef507ff46db9d1e7b473d2947c]: Commencement: Sch. 4 Pt. 5 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
-[^key-b4582c2f5b5ddb296fa84d9554f48f67]: Textual amendment: Word in Sch. 4 Pt. 5 Table omitted (25.4.2025) by virtue of [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-b4582c2f5b5ddb296fa84d9554f48f67]: Textual amendment: Word in Sch. 4 Pt. 5 Table omitted (25.4.2025) by virtue of [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
-[^key-15e6f3efad2b387de073d394adbb5ab3]: Commencement: Sch. 4 Pt. 6 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-15e6f3efad2b387de073d394adbb5ab3]: Commencement: Sch. 4 Pt. 6 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)

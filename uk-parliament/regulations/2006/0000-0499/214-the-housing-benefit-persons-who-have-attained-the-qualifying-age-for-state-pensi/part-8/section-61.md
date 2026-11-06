@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
 
-## 61. Calculation of weekly amounts[^key-5ec38cf5a83b71f5107fa2f0de865810]
+## 61. Calculation of weekly amounts[^c-5ec38cf5a83b71f5107fa2f0de865810]
 
 (1) A person’s entitlement to housing benefit in any benefit week shall be calculated in accordance with the following provisions of this regulation.
 
@@ -43,7 +43,7 @@ summary: ''
 
 (6) Any amount determined under these Regulations may, if it is appropriate, be rounded to the nearest whole penny by disregarding any amount less than half a penny and treating any amount of half a penny or more as a whole penny.
 
-(7)[^key-342fc1449cfc340916ea22efa0ce50a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-342fc1449cfc340916ea22efa0ce50a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In this regulation “daily rent” shall mean the amount determined by dividing by 7 the amount determined under whichever sub-paragraph of paragraph (2) is appropriate in each case.
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5ec38cf5a83b71f5107fa2f0de865810]: Textual amendment: Reg. 61-62 substituted (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2007/2869/regulation/16)
+[^c-5ec38cf5a83b71f5107fa2f0de865810]: Textual amendment: Reg. 61-62 substituted (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2007/2869/regulation/16)
 
-[^key-342fc1449cfc340916ea22efa0ce50a7]: Textual amendment: Reg. 61(7) omitted (6.10.2008) by virtue of [Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [6(4)(b)](https://www.legislation.gov.uk/uksi/2008/959/regulation/6/4/b)
+[^c-342fc1449cfc340916ea22efa0ce50a7]: Textual amendment: Reg. 61(7) omitted (6.10.2008) by virtue of [Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [6(4)(b)](https://www.legislation.gov.uk/uksi/2008/959/regulation/6/4/b)

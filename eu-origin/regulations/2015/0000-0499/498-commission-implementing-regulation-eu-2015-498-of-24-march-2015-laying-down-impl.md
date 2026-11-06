@@ -35,40 +35,40 @@ laying down implementing technical standards with regard to the supervisory appr
 
 (Text with EEA relevance) (revoked)
 
-[^key-41d0ea792062ba4e606d6063e6059e99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-41d0ea792062ba4e606d6063e6059e99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Application for approval of the use of undertaking-specific parameters[^key-41d0ea792062ba4e606d6063e6059e99]
+## Article 1. Application for approval of the use of undertaking-specific parameters[^c-41d0ea792062ba4e606d6063e6059e99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Accuracy of the results[^key-41d0ea792062ba4e606d6063e6059e99]
+## Article 2. Accuracy of the results[^c-41d0ea792062ba4e606d6063e6059e99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Supervisory authority's assessment of the choice of the parameters and the method to calculate the parameters[^key-41d0ea792062ba4e606d6063e6059e99]
+## Article 3. Supervisory authority's assessment of the choice of the parameters and the method to calculate the parameters[^c-41d0ea792062ba4e606d6063e6059e99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Assessment of the application[^key-41d0ea792062ba4e606d6063e6059e99]
+## Article 4. Assessment of the application[^c-41d0ea792062ba4e606d6063e6059e99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Decision on the application[^key-41d0ea792062ba4e606d6063e6059e99]
+## Article 5. Decision on the application[^c-41d0ea792062ba4e606d6063e6059e99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Revocation of approval by the supervisory authority[^key-41d0ea792062ba4e606d6063e6059e99]
+## Article 6. Revocation of approval by the supervisory authority[^c-41d0ea792062ba4e606d6063e6059e99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Entry into force[^key-41d0ea792062ba4e606d6063e6059e99]
+## Article 7. Entry into force[^c-41d0ea792062ba4e606d6063e6059e99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-41d0ea792062ba4e606d6063e6059e99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-41d0ea792062ba4e606d6063e6059e99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-41d0ea792062ba4e606d6063e6059e99]: Textual amendment: Regulation revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [Sch.](https://www.legislation.gov.uk/uksi/2024/620/schedule) (with savings in relation to a Gibraltar group or a Gibraltar undertaking in [S.I. 2024/1083](https://www.legislation.gov.uk/uksi/2024/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2024/1083/regulation/3))
+[^c-41d0ea792062ba4e606d6063e6059e99]: Textual amendment: Regulation revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [Sch.](https://www.legislation.gov.uk/uksi/2024/620/schedule) (with savings in relation to a Gibraltar group or a Gibraltar undertaking in [S.I. 2024/1083](https://www.legislation.gov.uk/uksi/2024/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2024/1083/regulation/3))

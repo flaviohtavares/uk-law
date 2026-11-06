@@ -22,7 +22,7 @@ summary: ''
 
 (1) Sections 157 to 160, 166 to 168, 171, 173 and 205 do not extend to Scotland.
 
-(2) Sections151B,[^key-f6e9b5f012514fef128ba798bde88235] 154, 198, 200 and 201 extend to England and Wales only.
+(2) Sections151B,[^c-f6e9b5f012514fef128ba798bde88235] 154, 198, 200 and 201 extend to England and Wales only.
 
 (3) Sections 183 and 199 extend to Scotland only.
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6e9b5f012514fef128ba798bde88235]: Textual amendment: Word in s. 226(2) inserted (21.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 123](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/123) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(t)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/t)
+[^c-f6e9b5f012514fef128ba798bde88235]: Textual amendment: Word in s. 226(2) inserted (21.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 123](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/123) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(t)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/t)

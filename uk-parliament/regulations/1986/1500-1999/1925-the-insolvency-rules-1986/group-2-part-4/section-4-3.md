@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.3. Time-limits[^key-2a6d46cdf357f826b1036e205e75f36a]
+## 4.3. Time-limits[^c-2a6d46cdf357f826b1036e205e75f36a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where by any provision of the Act or the Rules about winding up, the time for do
 
 ## Annotations
 
-[^key-2a6d46cdf357f826b1036e205e75f36a]: Commencement: [Rule 4.3](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.3) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-2a6d46cdf357f826b1036e205e75f36a]: Commencement: [Rule 4.3](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.3) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 189. Places of safety: restrictions on use of police stations[^key-30c3f607bb37493e45e8dde77250136c]
+## 189. Places of safety: restrictions on use of police stations[^c-30c3f607bb37493e45e8dde77250136c]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30c3f607bb37493e45e8dde77250136c]: Commencement: S. 189 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-30c3f607bb37493e45e8dde77250136c]: Commencement: S. 189 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

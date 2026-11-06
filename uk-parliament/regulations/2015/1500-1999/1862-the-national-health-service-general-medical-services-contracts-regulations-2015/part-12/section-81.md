@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The contractor and NHS England[^key-27a783e1510d45f884edbc32ee2f5c83] must make reasonable efforts to communicate and co-operate with each other with a view to resolving any dispute which arises out of or in connection with the contract before referring the dispute for determination in accordance with the NHS dispute resolution procedure (or, where applicable, before commencing court proceedings).
+(1) The contractor and NHS England[^c-27a783e1510d45f884edbc32ee2f5c83] must make reasonable efforts to communicate and co-operate with each other with a view to resolving any dispute which arises out of or in connection with the contract before referring the dispute for determination in accordance with the NHS dispute resolution procedure (or, where applicable, before commencing court proceedings).
 
 (2) Paragraph (1) does not apply to a dispute relating to the assignment of patients to a closed list which falls to be determined under the NHS dispute resolution procedure by virtue of paragraph 42(1) of Schedule 3 where it is not practicable for the parties to attempt local resolution before the expiry of the period of seven days specified in paragraph 42(4) of that Schedule.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27a783e1510d45f884edbc32ee2f5c83]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-27a783e1510d45f884edbc32ee2f5c83]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

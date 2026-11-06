@@ -35,11 +35,11 @@ summary: ''
 
 (6) For the purposes of subsections (2) to (4)—
 
-- (a)[^key-e8edc5e8431410a0f983da0935ccf396] Part 10 (corporate interest restriction),
+- (a)[^c-e8edc5e8431410a0f983da0935ccf396] Part 10 (corporate interest restriction),
 - (b) paragraph E of the list in section 1000(1) of CTA 2010 (excessive interest etc treated as a distribution),
 
 are to be disregarded.
 
 ## Annotations
 
-[^key-e8edc5e8431410a0f983da0935ccf396]: Textual amendment: [S. 155(6)(a)](https://www.legislation.gov.uk/ukpga/2010/8/section/155/6/a) substituted (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/14)
+[^c-e8edc5e8431410a0f983da0935ccf396]: Textual amendment: [S. 155(6)(a)](https://www.legislation.gov.uk/ukpga/2010/8/section/155/6/a) substituted (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/14)

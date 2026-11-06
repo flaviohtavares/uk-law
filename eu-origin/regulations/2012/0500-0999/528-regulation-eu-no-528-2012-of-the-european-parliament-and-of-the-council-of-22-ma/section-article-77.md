@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 77. Appeals[^key-2a1a730ec3601ab9bbe62314c2f98553]
+## Article 77. Appeals[^c-2a1a730ec3601ab9bbe62314c2f98553]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a1a730ec3601ab9bbe62314c2f98553]: Textual amendment: [Art. 77](https://www.legislation.gov.uk/eur/2012/528/article/77) substituted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 119](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/119) (as amended by [S.I. 2020/1567](https://www.legislation.gov.uk/uksi/2020/1567), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2020/1567/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2a1a730ec3601ab9bbe62314c2f98553]: Textual amendment: [Art. 77](https://www.legislation.gov.uk/eur/2012/528/article/77) substituted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 119](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/119) (as amended by [S.I. 2020/1567](https://www.legislation.gov.uk/uksi/2020/1567), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2020/1567/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

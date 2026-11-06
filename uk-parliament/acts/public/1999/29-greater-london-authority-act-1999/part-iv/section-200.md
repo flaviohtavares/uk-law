@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where it considers that to do so is best calculated to meet any need relating to transport in or around, or to or from, Greater London, Transport for London may enter into an access contract to which section 18 of the [^c12803501]Railways Act 1993 applies, notwithstanding—
 
-- (a) that such a contract can only be entered into on terms approved (with or without modification) by the Office of Rail and Road[^key-90cfe61b2b1868c87811f34d84dd0970] and pursuant to directions given by the Office of Rail and Road under that section; and
+- (a) that such a contract can only be entered into on terms approved (with or without modification) by the Office of Rail and Road[^c-90cfe61b2b1868c87811f34d84dd0970] and pursuant to directions given by the Office of Rail and Road under that section; and
 - (b) that the terms of the contract may confer on the Office of Rail and Road powers to determine the manner in which Transport for London is to exercise its functions in relation to the contract.
 
 (2) The duty imposed on the Mayor by section 174 above accordingly also has effect subject, as respects the power conferred on Transport for London by subsection (1) above, to the powers of the Office of Rail and Road under section 18 of the [^c12803511]Railways Act 1993.
@@ -35,7 +35,7 @@ summary: ''
 >
 > (1) Where it considers that to do so is best calculated to meet any need relating to transport in or around, or to or from, Greater London, London Regional Transport may enter into an access contract to which section 18 of the [^c12803531]Railways Act 1993 applies, notwithstanding—
 >
-> - (a) that such a contract can only be entered into on terms approved (with or without modification) by the Office of Rail Regulation[^key-9530b528f3063eba96a017be7e10db05] and pursuant to directions given by the Office of Rail Regulation under that section; and
+> - (a) that such a contract can only be entered into on terms approved (with or without modification) by the Office of Rail Regulation[^c-9530b528f3063eba96a017be7e10db05] and pursuant to directions given by the Office of Rail Regulation under that section; and
 > - (b) that the terms of the contract may confer on the Office of Rail Regulation powers to determine the manner in which London Regional Transport is to exercise its functions in relation to the contract.
 >
 > (2) The duties imposed on London Regional Transport by sections 2 and 8 of this Act accordingly also have effect subject, as respects the power conferred by subsection (1) above, to the powers of the Office of Rail Regulation under section 18 of the [^c12803541]Railways Act 1993.
@@ -52,7 +52,7 @@ summary: ''
 
 [^c12803501]: Marginal citation: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
 
-[^key-90cfe61b2b1868c87811f34d84dd0970]: Textual amendment: Words in s. 200(1)(2) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(n)(ii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/4/n/ii)
+[^c-90cfe61b2b1868c87811f34d84dd0970]: Textual amendment: Words in s. 200(1)(2) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(n)(ii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/4/n/ii)
 
 [^c12803511]: Marginal citation: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
 
@@ -60,7 +60,7 @@ summary: ''
 
 [^c12803531]: Marginal citation: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
 
-[^key-9530b528f3063eba96a017be7e10db05]: Textual amendment: Words in s. 200 substituted (5.7.2004) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [Sch. 2 para. 19(q)](https://www.legislation.gov.uk/ukpga/2003/20/schedule/2/paragraph/19/q); [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 4(g)](https://www.legislation.gov.uk/uksi/2004/827/article/4/g)
+[^c-9530b528f3063eba96a017be7e10db05]: Textual amendment: Words in s. 200 substituted (5.7.2004) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [Sch. 2 para. 19(q)](https://www.legislation.gov.uk/ukpga/2003/20/schedule/2/paragraph/19/q); [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 4(g)](https://www.legislation.gov.uk/uksi/2004/827/article/4/g)
 
 [^c12803541]: Marginal citation: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
 

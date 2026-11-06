@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 102. Pre-commencement adoptions: information[^key-d18cb153f2b3a0e6104467fd9abcb25a]
+## 102. Pre-commencement adoptions: information[^c-d18cb153f2b3a0e6104467fd9abcb25a]
 
 *Extent: N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d18cb153f2b3a0e6104467fd9abcb25a]: Commencement: S. 102 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-d18cb153f2b3a0e6104467fd9abcb25a]: Commencement: S. 102 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

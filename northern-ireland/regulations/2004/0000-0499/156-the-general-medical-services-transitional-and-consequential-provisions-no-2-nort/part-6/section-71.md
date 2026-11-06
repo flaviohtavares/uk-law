@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 71. Sub-contracting of out of hours services under general medical services contracts[^key-553dc13d3c9e0a3e8f8fd8f02e7f7f51]
+## 71. Sub-contracting of out of hours services under general medical services contracts[^c-553dc13d3c9e0a3e8f8fd8f02e7f7f51]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-553dc13d3c9e0a3e8f8fd8f02e7f7f51]: Commencement: Art. 71 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-553dc13d3c9e0a3e8f8fd8f02e7f7f51]: Commencement: Art. 71 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

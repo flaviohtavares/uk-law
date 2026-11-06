@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12ZC. Single return in respect of two or more non-resident CGT disposals[^key-f29ecde2ca6fb18bb8faee15b4c8cf3f]
+## 12ZC. Single return in respect of two or more non-resident CGT disposals[^c-f29ecde2ca6fb18bb8faee15b4c8cf3f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f29ecde2ca6fb18bb8faee15b4c8cf3f]: Textual amendment: Ss. 12ZA-12ZN and cross-heading omitted (with effect in accordance with Sch. 2 para. 32(1) of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 2 para. 25(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/2/paragraph/25/3) (with [Sch. 2 para. 32(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/2/paragraph/32/2))
+[^c-f29ecde2ca6fb18bb8faee15b4c8cf3f]: Textual amendment: Ss. 12ZA-12ZN and cross-heading omitted (with effect in accordance with Sch. 2 para. 32(1) of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 2 para. 25(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/2/paragraph/25/3) (with [Sch. 2 para. 32(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/2/paragraph/32/2))

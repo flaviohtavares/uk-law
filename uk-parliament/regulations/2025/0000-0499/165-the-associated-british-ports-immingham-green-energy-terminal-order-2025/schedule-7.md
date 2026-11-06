@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 7 — PUBLIC RIGHTS OF WAY TO BE PERMANENTLY STOPPED UP[^key-c7fd8f4dc164819b9ed26624926f1332]
+## SCHEDULE 7 — PUBLIC RIGHTS OF WAY TO BE PERMANENTLY STOPPED UP[^c-c7fd8f4dc164819b9ed26624926f1332]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Article 12
 
 ## Annotations
 
-[^key-c7fd8f4dc164819b9ed26624926f1332]: Commencement: Sch. 7 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-c7fd8f4dc164819b9ed26624926f1332]: Commencement: Sch. 7 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

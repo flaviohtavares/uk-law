@@ -31,7 +31,7 @@ Section 91
 (2) Accordingly—
 
 - (a) in section 231B of ICTA, in subsection (4)—
-  - (i)[^key-aef02333453ad37e93a04f40060d9ea0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-aef02333453ad37e93a04f40060d9ea0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) omit paragraph (d) (and the “and” before it), and
 - (b) the following provisions are repealed—
   - (i) in ITA 2007, paragraph 379 of Schedule 1;
@@ -78,4 +78,4 @@ Section 91
 
 ## Annotations
 
-[^key-aef02333453ad37e93a04f40060d9ea0]: Textual amendment: [Sch. 26 para. 1(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/26/paragraph/1/2/a/i) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 69(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/69/b)
+[^c-aef02333453ad37e93a04f40060d9ea0]: Textual amendment: [Sch. 26 para. 1(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/26/paragraph/1/2/a/i) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 69(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/69/b)

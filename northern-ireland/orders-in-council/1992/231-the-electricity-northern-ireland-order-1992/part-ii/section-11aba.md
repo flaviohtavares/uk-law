@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11ABA. Conditions on transmission and distribution licences relating to priority dispatch[^key-7fb2bab2be998decd57cd4ceffbd96dd]
+## 11ABA. Conditions on transmission and distribution licences relating to priority dispatch[^c-7fb2bab2be998decd57cd4ceffbd96dd]
 
 *Extent: N.I.*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7fb2bab2be998decd57cd4ceffbd96dd]: Textual amendment: Art. 11ABA substituted for art. 11AB (1.4.2021) by [The Electricity (Priority Dispatch) Regulations (Northern Ireland) 2020 (S.R. 2020/306)](https://www.legislation.gov.uk/nisr/2020/306), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/306/regulation/1/3), [3(1)](https://www.legislation.gov.uk/nisr/2020/306/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2020/306/regulation/3/2)[(3)](https://www.legislation.gov.uk/nisr/2020/306/regulation/3/3))
+[^c-7fb2bab2be998decd57cd4ceffbd96dd]: Textual amendment: Art. 11ABA substituted for art. 11AB (1.4.2021) by [The Electricity (Priority Dispatch) Regulations (Northern Ireland) 2020 (S.R. 2020/306)](https://www.legislation.gov.uk/nisr/2020/306), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/306/regulation/1/3), [3(1)](https://www.legislation.gov.uk/nisr/2020/306/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2020/306/regulation/3/2)[(3)](https://www.legislation.gov.uk/nisr/2020/306/regulation/3/3))

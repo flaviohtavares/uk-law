@@ -30,13 +30,13 @@ summary: ''
 - (a) if D dies in service, it is the annual rate of additional (self only) pension payable as at D's death;
 - (b) if D dies as a pensioner member—
   - (i) where a phased retirement pension became payable before D's death, it is the annual rate of additional (self only) pension which would have been payable as at D's death if D had applied under regulation 94 to receive additional pension with the phased retirement earned pension; and
-  - (ii) where a retirement pension other than a phased retirement pension became payable before D's death, it is the annual rate of additional (self only) pension payable as at D's death; [^key-89689c9df03d206f06057a8150fd8f39]...
-- (c)[^key-c7061e54785e4aeb8da580a31d8b0570] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) where a retirement pension other than a phased retirement pension became payable before D's death, it is the annual rate of additional (self only) pension payable as at D's death; [^c-89689c9df03d206f06057a8150fd8f39]...
+- (c)[^c-c7061e54785e4aeb8da580a31d8b0570] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Part 2 of Schedule 2 makes further provision in relation to payment of additional pension in respect of a member who dies in service.
 
 ## Annotations
 
-[^key-89689c9df03d206f06057a8150fd8f39]: Textual amendment: Word in [reg. 147(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/512/regulation/147/2/b/ii) omitted (1.4.2015) by virtue of [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2014/2652/regulation/11/a)
+[^c-89689c9df03d206f06057a8150fd8f39]: Textual amendment: Word in [reg. 147(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/512/regulation/147/2/b/ii) omitted (1.4.2015) by virtue of [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2014/2652/regulation/11/a)
 
-[^key-c7061e54785e4aeb8da580a31d8b0570]: Textual amendment: [Reg. 147(2)(c)](https://www.legislation.gov.uk/uksi/2014/512/regulation/147/2/c) omitted (1.4.2015) by virtue of [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2014/2652/regulation/11/b)
+[^c-c7061e54785e4aeb8da580a31d8b0570]: Textual amendment: [Reg. 147(2)(c)](https://www.legislation.gov.uk/uksi/2014/512/regulation/147/2/c) omitted (1.4.2015) by virtue of [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2014/2652/regulation/11/b)

@@ -33,14 +33,14 @@ of 15 May 2014
 
 amending Regulation (EU) No 1215/2012 as regards the rules to be applied with respect to the Unified Patent Court and the Benelux Court of Justice (revoked)
 
-[^key-7d5788a577c84f7958f5dc65ae872d3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7d5788a577c84f7958f5dc65ae872d3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-7d5788a577c84f7958f5dc65ae872d3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-7d5788a577c84f7958f5dc65ae872d3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-7d5788a577c84f7958f5dc65ae872d3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-7d5788a577c84f7958f5dc65ae872d3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d5788a577c84f7958f5dc65ae872d3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7d5788a577c84f7958f5dc65ae872d3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7d5788a577c84f7958f5dc65ae872d3c]: Textual amendment: Regulation revoked (31.12.2020) by [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [90](https://www.legislation.gov.uk/uksi/2019/479/regulation/90) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7d5788a577c84f7958f5dc65ae872d3c]: Textual amendment: Regulation revoked (31.12.2020) by [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [90](https://www.legislation.gov.uk/uksi/2019/479/regulation/90) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

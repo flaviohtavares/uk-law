@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 342. Repeal of spent provisions[^key-370416eeeffc41455cd66e4a897d05d3]
+## 342. Repeal of spent provisions[^c-370416eeeffc41455cd66e4a897d05d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The following provisions of the Criminal Justice Act 1993 (which are spent) are 
 
 ## Annotations
 
-[^key-370416eeeffc41455cd66e4a897d05d3]: Commencement: Art. 342 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-370416eeeffc41455cd66e4a897d05d3]: Commencement: Art. 342 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

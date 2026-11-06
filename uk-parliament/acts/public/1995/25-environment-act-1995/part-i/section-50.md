@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Government guarantees of a new Agency’s borrowing.[^key-b4f295453d20723ccf419c28d6802a95]
+## 50. Government guarantees of a new Agency’s borrowing.[^c-b4f295453d20723ccf419c28d6802a95]
 
 *Extent: E+W+S*
 
@@ -35,7 +35,7 @@ and the consent of the Treasury shall be required for the giving of a direction 
 
 ## Annotations
 
-[^key-b4f295453d20723ccf419c28d6802a95]: Modification: Ss. 47-52 functions cease to be exercisable (with effect in accordance with art. 1(3) of the amending S.I.) by [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [8](https://www.legislation.gov.uk/uksi/2013/1821/article/8) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
+[^c-b4f295453d20723ccf419c28d6802a95]: Modification: Ss. 47-52 functions cease to be exercisable (with effect in accordance with art. 1(3) of the amending S.I.) by [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [8](https://www.legislation.gov.uk/uksi/2013/1821/article/8) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
 
 [^c14537721]: Textual amendment: Words in s. 50(1) inserted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2), [4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 120(4)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/120/4); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 

@@ -31,7 +31,7 @@ summary: ''
 
 NATIONAL ASSISTANCE SERVICES, WALES
 
-The National Assistance (Sums for Personal Requirements) (Assessment of Resources and Miscellaneous Amendments) (Wales) Regulations 2012 (revoked)[^key-c8db3256d0a0e5ae3db1d05e0c1c1b97]
+The National Assistance (Sums for Personal Requirements) (Assessment of Resources and Miscellaneous Amendments) (Wales) Regulations 2012 (revoked)[^c-c8db3256d0a0e5ae3db1d05e0c1c1b97]
 
 Made
 
@@ -45,36 +45,36 @@ Coming into force
 
 9 April 2012
 
-[^key-c8db3256d0a0e5ae3db1d05e0c1c1b97]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8db3256d0a0e5ae3db1d05e0c1c1b97]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-c8db3256d0a0e5ae3db1d05e0c1c1b97]
+## 1. Title, commencement and application[^c-c8db3256d0a0e5ae3db1d05e0c1c1b97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Sums needed for personal requirements[^key-c8db3256d0a0e5ae3db1d05e0c1c1b97]
+## 2. Sums needed for personal requirements[^c-c8db3256d0a0e5ae3db1d05e0c1c1b97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-c8db3256d0a0e5ae3db1d05e0c1c1b97]
+## 3. Revocation[^c-c8db3256d0a0e5ae3db1d05e0c1c1b97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 20A of the National Assistance (Assessment of Resources) Regulations 1992[^key-c8db3256d0a0e5ae3db1d05e0c1c1b97]
+## 4. Amendment of regulation 20A of the National Assistance (Assessment of Resources) Regulations 1992[^c-c8db3256d0a0e5ae3db1d05e0c1c1b97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the National Assistance (Residential Accommodation) (Additional Payments, Relevant Contributions and Assessment of Resources) (Wales) Regulations 2003[^key-c8db3256d0a0e5ae3db1d05e0c1c1b97]
+## 5. Amendment of the National Assistance (Residential Accommodation) (Additional Payments, Relevant Contributions and Assessment of Resources) (Wales) Regulations 2003[^c-c8db3256d0a0e5ae3db1d05e0c1c1b97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c8db3256d0a0e5ae3db1d05e0c1c1b97]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8db3256d0a0e5ae3db1d05e0c1c1b97]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c8db3256d0a0e5ae3db1d05e0c1c1b97]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8db3256d0a0e5ae3db1d05e0c1c1b97]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c8db3256d0a0e5ae3db1d05e0c1c1b97]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2012/842) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)
+[^c-c8db3256d0a0e5ae3db1d05e0c1c1b97]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2012/842) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20A. Reporting of intimate image content[^key-3da9aa403921973de4cc15034836bbb1]
+## 20A. Reporting of intimate image content[^c-3da9aa403921973de4cc15034836bbb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3da9aa403921973de4cc15034836bbb1]: Textual amendment: S. 20A inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 100(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/100/3), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
+[^c-3da9aa403921973de4cc15034836bbb1]: Textual amendment: S. 20A inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 100(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/100/3), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)

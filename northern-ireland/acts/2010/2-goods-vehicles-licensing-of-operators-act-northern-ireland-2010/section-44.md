@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Detention of vehicle used without operator's licence[^key-e8a8207a9846384c64325faf30a96216][^key-d50d666608ff21396f81a64c9db48802]
+## 44. Detention of vehicle used without operator's licence[^c-e8a8207a9846384c64325faf30a96216][^c-d50d666608ff21396f81a64c9db48802]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ Schedule 2 (which relates to the detention, removal and disposal of goods vehicl
 
 ## Annotations
 
-[^key-e8a8207a9846384c64325faf30a96216]: Commencement: S. 44 in operation at 22.6.2012 for specified purposes by [S.R. 2012/247](https://www.legislation.gov.uk/nisr/2012/247), [art. 2](https://www.legislation.gov.uk/nisr/2012/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/247/schedule)
+[^c-e8a8207a9846384c64325faf30a96216]: Commencement: S. 44 in operation at 22.6.2012 for specified purposes by [S.R. 2012/247](https://www.legislation.gov.uk/nisr/2012/247), [art. 2](https://www.legislation.gov.uk/nisr/2012/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/247/schedule)
 
-[^key-d50d666608ff21396f81a64c9db48802]: Commencement: S. 44 in operation at 1.7.2012 in so far as not already in operation by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-d50d666608ff21396f81a64c9db48802]: Commencement: S. 44 in operation at 1.7.2012 in so far as not already in operation by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))

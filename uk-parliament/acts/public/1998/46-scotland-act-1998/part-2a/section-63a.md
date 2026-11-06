@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63A. Permanence of the Scottish Parliament and Scottish Government[^key-fe59fc8c3c0229901f4e92a596a3a300]
+## 63A. Permanence of the Scottish Parliament and Scottish Government[^c-fe59fc8c3c0229901f4e92a596a3a300]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe59fc8c3c0229901f4e92a596a3a300]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/ukpga/1998/46/part/2A) inserted (23.3.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 1](https://www.legislation.gov.uk/ukpga/2016/11/section/1), [72(1)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/1/a)
+[^c-fe59fc8c3c0229901f4e92a596a3a300]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/ukpga/1998/46/part/2A) inserted (23.3.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 1](https://www.legislation.gov.uk/ukpga/2016/11/section/1), [72(1)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/1/a)

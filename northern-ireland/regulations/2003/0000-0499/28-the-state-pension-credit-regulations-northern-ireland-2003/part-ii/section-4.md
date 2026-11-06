@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Persons receiving treatment outside Northern Ireland[^key-58ab6f5228419ce2b9c8c34e83fc6f86]
+## 4. Persons receiving treatment outside Northern Ireland[^c-58ab6f5228419ce2b9c8c34e83fc6f86]
 
 *Extent: N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-58ab6f5228419ce2b9c8c34e83fc6f86]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2003/28/regulation/4) in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/28/regulation/1/1)
+[^c-58ab6f5228419ce2b9c8c34e83fc6f86]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2003/28/regulation/4) in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/28/regulation/1/1)
 
 [^f00021]: Footnote: Article 5 was amended by the Mental Health (Northern Ireland) Order S.I. [1986/595 (N.I. 14)](https://www.legislation.gov.uk/nisi/1986/595) and the Health and Social Security (Northern Ireland) Order (S.I. [1984/1158 (N.I. 18)](https://www.legislation.gov.uk/nisi/1984/1158))
 

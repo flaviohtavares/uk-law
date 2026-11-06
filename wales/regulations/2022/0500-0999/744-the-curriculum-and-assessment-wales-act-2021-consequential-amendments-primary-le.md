@@ -41,7 +41,7 @@ The Welsh Ministers, in exercise of the powers conferred by sections 74(1) and 7
 
 A draft of these Regulations has been laid before, and approved by a resolution of, Senedd Cymru as required under section 75(2) of that Act.
 
-## 1. Title and commencement[^key-7ae85c5efdec84a9015f75417a666cc4]
+## 1. Title and commencement[^c-7ae85c5efdec84a9015f75417a666cc4]
 
 (1) The title of these Regulations is the Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022.
 
@@ -59,7 +59,7 @@ A draft of these Regulations has been laid before, and approved by a resolution 
 - (d) on 1 September 2025 for a child or pupil in year 10, and
 - (e) on 1 September 2026 for a child or pupil in years 11 to 13.
 
-## 2. Interpretation[^key-3a66ea75bcf791db70aebd2397fb2713]
+## 2. Interpretation[^c-3a66ea75bcf791db70aebd2397fb2713]
 
 In these Regulations—
 
@@ -96,11 +96,11 @@ In these Regulations—
 - “**year 13**” (“***blwyddyn 13***”) means the year group in which the majority of pupils attain the age of 18;
 - “**year group**” (“***grŵp blwyddyn***”) means a group of children or pupils at a setting the majority of whom will, in a particular academic year, attain the same age.
 
-## 3. Amendments to the Curriculum and Assessment (Wales) Act 2021[^key-020643b851b112a53427ffb5a24449da]
+## 3. Amendments to the Curriculum and Assessment (Wales) Act 2021[^c-020643b851b112a53427ffb5a24449da]
 
 Schedule 1 contains amendments to the Curriculum and Assessment (Wales) Act 2021.
 
-## 4. Amendments to primary legislation[^key-4b7cc96f7ac7709ed6b830b7b76642e9]
+## 4. Amendments to primary legislation[^c-4b7cc96f7ac7709ed6b830b7b76642e9]
 
 Schedule 2 contains amendments to primary legislation.
 
@@ -114,7 +114,7 @@ Minister for Education and Welsh Language, one of the Welsh Ministers
 
 Regulation 3
 
-**1.**[^key-1ac9a4f3fdeeb4b82ef424be6ff6a264] (1) The Curriculum and Assessment (Wales) Act 2021 is amended as follows.
+**1.**[^c-1ac9a4f3fdeeb4b82ef424be6ff6a264] (1) The Curriculum and Assessment (Wales) Act 2021 is amended as follows.
 
 (2) In section 13 (Welsh Ministers’ duty to publish a curriculum), in subsection (2), omit “, and any requirement imposed under section 25”.
 
@@ -128,7 +128,7 @@ Regulation 3
 
 Regulation 4
 
-### 1. Children Act [1989 (c. 41)](https://www.legislation.gov.uk/ukpga/1989/41)[^key-d873e37f2431a10cc16c15668652ef5a][^key-24ee3885a2d9b7fbcf7c1e99a35eb9df][^key-a500fc95b1694e8fe9aa0de8525ade9c][^key-42664d4143e0138e0324f71e1eeb520f][^key-02002343f4605fa46fd1d879e54572e2]
+### 1. Children Act [1989 (c. 41)](https://www.legislation.gov.uk/ukpga/1989/41)[^c-d873e37f2431a10cc16c15668652ef5a][^c-24ee3885a2d9b7fbcf7c1e99a35eb9df][^c-a500fc95b1694e8fe9aa0de8525ade9c][^c-42664d4143e0138e0324f71e1eeb520f][^c-02002343f4605fa46fd1d879e54572e2]
 
 (1) The Children Act 1989 is amended as follows.
 
@@ -156,7 +156,7 @@ Regulation 4
   >   - (i) the teaching group in which the child is regularly taught at school, or
   >   - (ii) where there are two or more such groups, the group designated by the head teacher of the child’s school.
 
-### 2. Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56)[^key-c6c66a9731165d46d6b558be8a239120][^key-7cfbea35bcec626e92fc8c526631104a][^key-56e1e383bdc3528a0306d3c2892ee8f6][^key-38c6b60693d0097b12a8a1943fc9f36d][^key-3d55115f924fcd04e218ded2c32782c8]
+### 2. Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56)[^c-c6c66a9731165d46d6b558be8a239120][^c-7cfbea35bcec626e92fc8c526631104a][^c-56e1e383bdc3528a0306d3c2892ee8f6][^c-38c6b60693d0097b12a8a1943fc9f36d][^c-3d55115f924fcd04e218ded2c32782c8]
 
 (1) The Education Act 1996 is amended as follows.
 
@@ -278,7 +278,7 @@ Regulation 4
 - (a) in paragraph (a), omit “in relation to England”;
 - (b) omit paragraph (b) and the “and” before it.
 
-### 3. Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44)[^key-ca85ba556d0f3e1a2b000924929227ef][^key-78431bb4c3624acc7a8cc367d6a10250][^key-4dec2626ad7179e1d126b08412549dfe][^key-f6a75345a753a6e0b9f96a8ef3929cb9][^key-891bf32f46ed849e476af2bbbc6f5ea2]
+### 3. Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44)[^c-ca85ba556d0f3e1a2b000924929227ef][^c-78431bb4c3624acc7a8cc367d6a10250][^c-4dec2626ad7179e1d126b08412549dfe][^c-f6a75345a753a6e0b9f96a8ef3929cb9][^c-891bf32f46ed849e476af2bbbc6f5ea2]
 
 (1) The Education Act 1997 is amended as follows.
 
@@ -394,7 +394,7 @@ Regulation 4
   ;
 - (d) in subsection (2), omit “43, 44 or”.
 
-### 4. School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31)[^key-1004891bebd168dabfbf5a2c2d803b05][^key-1ec8b9f2e43a4ecbcfa92e51a2b7af97][^key-1289715710bd229c3ee5d5e5018d5f66][^key-ade991875f6e4441846869877564e1ef][^key-121e71042dce7d15bef28bfdd91c995a]
+### 4. School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31)[^c-1004891bebd168dabfbf5a2c2d803b05][^c-1ec8b9f2e43a4ecbcfa92e51a2b7af97][^c-1289715710bd229c3ee5d5e5018d5f66][^c-ade991875f6e4441846869877564e1ef][^c-121e71042dce7d15bef28bfdd91c995a]
 
 (1) The School Standards and Framework Act 1998 is amended as follows.
 
@@ -511,7 +511,7 @@ Regulation 4
 
   > (2) In sub-paragraph (1), the four purposes of a curriculum for the children mentioned in paragraph (ad) are those set out in section 2(1) of the Curriculum and Assessment (Wales) Act 2021.
 
-### 5. Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21)[^key-2a6a27e2a2c72b5e9103972144ec534e][^key-1dff43657de861a5012dc49f50b8a7ca][^key-daebb32e8a4c0969510aba8cf38714a0][^key-36afce781aaede3003551974d4966ce0][^key-97d8444a87acf0b4b2989d107a394141]
+### 5. Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21)[^c-2a6a27e2a2c72b5e9103972144ec534e][^c-1dff43657de861a5012dc49f50b8a7ca][^c-daebb32e8a4c0969510aba8cf38714a0][^c-36afce781aaede3003551974d4966ce0][^c-97d8444a87acf0b4b2989d107a394141]
 
 (1) The Learning and Skills Act 2000 is amended as follows.
 
@@ -527,7 +527,7 @@ Regulation 4
 
 (3) In section 33N (the local curriculum: interpretation), in subsection (1), omit the definition of “fourth key stage”.
 
-### 6. Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32)[^key-ce88ca899ab4a520e75a4031d47d669a][^key-8e37b83ecfa3bb5f827bacddab43f737][^key-e09f415cc2acf5f442b47e937e70631a][^key-6b0eaa392417b76988a404c6318c7259][^key-eed5bfa0bc8c3c8dd0784cfe560ef4b2]
+### 6. Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32)[^c-ce88ca899ab4a520e75a4031d47d669a][^c-8e37b83ecfa3bb5f827bacddab43f737][^c-e09f415cc2acf5f442b47e937e70631a][^c-6b0eaa392417b76988a404c6318c7259][^c-eed5bfa0bc8c3c8dd0784cfe560ef4b2]
 
 (1) The Education Act 2002 is amended as follows.
 
@@ -579,11 +579,11 @@ Regulation 4
   - (ii) in sub-paragraph (3), omit “or 109”;
 - (d) in paragraph 57, in sub-paragraph (b), in the definition of “the National Curriculum”, omit “, and (b) in relation to Wales, the National Curriculum for Wales”.
 
-### 7. Nationality, Immigration and Asylum Act [2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41)[^key-528d509f1b34fc3519de8a6ba379ac99][^key-8e777e5a67717e316f4901468ed74469][^key-84c51653781abf3d01cacbe63a0272c0][^key-3e6e3ac326d06a0ffa36e1a16db2b17e][^key-f73d0b682e4bc28f727c8649b9d3fb00]
+### 7. Nationality, Immigration and Asylum Act [2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41)[^c-528d509f1b34fc3519de8a6ba379ac99][^c-8e777e5a67717e316f4901468ed74469][^c-84c51653781abf3d01cacbe63a0272c0][^c-3e6e3ac326d06a0ffa36e1a16db2b17e][^c-f73d0b682e4bc28f727c8649b9d3fb00]
 
 In section 36 (education: general) of the Nationality, Immigration and Asylum Act 2002, in subsection (5), in paragraph (c), after “section 19” insert “or 19A”.
 
-### 8. Education Act [2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18)[^key-c82114f74db78aecacd50e6c8135aa59][^key-26263474a43a92a67ed672ba88ec5822][^key-6be6feb976000f29ee977ed209004992][^key-3c8cebe63646d1dbc09b6038252494d8][^key-5addec1303111f303ff9da0369057798]
+### 8. Education Act [2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18)[^c-c82114f74db78aecacd50e6c8135aa59][^c-26263474a43a92a67ed672ba88ec5822][^c-6be6feb976000f29ee977ed209004992][^c-3c8cebe63646d1dbc09b6038252494d8][^c-5addec1303111f303ff9da0369057798]
 
 (1) The Education Act 2005 is amended as follows.
 
@@ -627,18 +627,18 @@ In section 36 (education: general) of the Nationality, Immigration and Asylum Ac
   >   - (i) any provisions of the school’s trust deed that relate to teaching and learning in respect of the mandatory element of Religion, Values and Ethics, or
   >   - (ii) the tenets of the religion or religious denomination specified in relation to the school in an order under section 68A of the School Standards and Framework Act 1998.
 
-### 9. Safeguarding Vulnerable Groups Act [2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47)[^key-ba0dc58fcf2a7e81b9a2f97691b6afb5][^key-dff129dec02bf9b28f5f61a54b5409b5][^key-a67073b1853e8c764794112528cbc475][^key-5d3e26b02c78bc60a2cbf1fe5367c3d3][^key-8a8e058c16d2038b2f0a713d4780fc70]
+### 9. Safeguarding Vulnerable Groups Act [2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47)[^c-ba0dc58fcf2a7e81b9a2f97691b6afb5][^c-dff129dec02bf9b28f5f61a54b5409b5][^c-a67073b1853e8c764794112528cbc475][^c-5d3e26b02c78bc60a2cbf1fe5367c3d3][^c-8a8e058c16d2038b2f0a713d4780fc70]
 
 In Schedule 4 to the Safeguarding Vulnerable Groups Act 2006 (regulated activity)—
 
 - (a) in paragraph 1(9B)(m), for “religious” substitute “denominational”;
 - (b) in paragraph 3, in sub-paragraph (1), in paragraph (aa), for “19(2) or (2B)” substitute “19(2B) or 19A(2)”.
 
-### 10. Learner Travel (Wales) Measure 2008 (nawm 2)[^key-7a9b5ca50e055c9d3a2d86666ac28016][^key-079f48638bdf27462233af7c39e1c4c2][^key-3a79ae680f1d585f8d1efa16242773ce][^key-c079fd197ebba168658d05b781b2df6b][^key-eb7b241b1a86b79ea516f8328025c43c]
+### 10. Learner Travel (Wales) Measure 2008 (nawm 2)[^c-7a9b5ca50e055c9d3a2d86666ac28016][^c-079f48638bdf27462233af7c39e1c4c2][^c-3a79ae680f1d585f8d1efa16242773ce][^c-c079fd197ebba168658d05b781b2df6b][^c-eb7b241b1a86b79ea516f8328025c43c]
 
 In section 1 of the Learner Travel (Wales) Measure 2008 (main terms used in this Measure), in subsection (4), in paragraph (f), for “19(1)” substitute “19A(1)”.
 
-### 11. Learning and Skills (Wales) Measure 2009 (nawm 1)[^key-671b2a5dae59eb71bd28956b65fbb256][^key-6e1f3d0631ceb6ca85926962b8a0541f][^key-afb07c13a1d99cb0ba9acaa6a01717ab][^key-2bd3b465c8fee0c2afed814083fcbf56][^key-49e692268bfce72eacc957d0aa48d2fc]
+### 11. Learning and Skills (Wales) Measure 2009 (nawm 1)[^c-671b2a5dae59eb71bd28956b65fbb256][^c-6e1f3d0631ceb6ca85926962b8a0541f][^c-afb07c13a1d99cb0ba9acaa6a01717ab][^c-2bd3b465c8fee0c2afed814083fcbf56][^c-49e692268bfce72eacc957d0aa48d2fc]
 
 (1) The Learning and Skills (Wales) Measure 2009 is amended as follows.
 
@@ -651,7 +651,7 @@ In section 1 of the Learner Travel (Wales) Measure 2008 (main terms used in this
 - (a) omit the italic heading before paragraph 21;
 - (b) omit paragraphs 21 and 22.
 
-### 12. Education (Wales) Measure 2011 (nawm 7)[^key-cc979c098872d5ae2a0d7b232d943703][^key-d2989af3718daac9f75e1b6c3cca45ef][^key-e4b5a889a1fe45dec366fa4a9e408ec7][^key-b176a371dfe46271c0ef5f5452a4bd31][^key-cc68d116cc2cd1032ffcebb060f047b0]
+### 12. Education (Wales) Measure 2011 (nawm 7)[^c-cc979c098872d5ae2a0d7b232d943703][^c-d2989af3718daac9f75e1b6c3cca45ef][^c-e4b5a889a1fe45dec366fa4a9e408ec7][^c-b176a371dfe46271c0ef5f5452a4bd31][^c-cc68d116cc2cd1032ffcebb060f047b0]
 
 (1) The Education (Wales) Measure 2011 is amended as follows.
 
@@ -664,11 +664,11 @@ In section 1 of the Learner Travel (Wales) Measure 2008 (main terms used in this
 
 (3) In section 5 (powers to collaborate), in subsection (1), in paragraph (c), for “section 116J of the Education Act 2002, or” substitute “section 65 of the Curriculum and Assessment (Wales) Act 2021,”.
 
-### 13. Protection of Freedoms Act [2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9)[^key-86c647c2b726a4ab29fad790533d0269][^key-f5c5196e2d9fb726a53384195275b340][^key-95315b2a1e8bff2f9cb64ec663bca96d][^key-12e2321debacc81650e6991372fadeeb][^key-45e0b4f784ea336b25a0a378c00d87f9]
+### 13. Protection of Freedoms Act [2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9)[^c-86c647c2b726a4ab29fad790533d0269][^c-f5c5196e2d9fb726a53384195275b340][^c-95315b2a1e8bff2f9cb64ec663bca96d][^c-12e2321debacc81650e6991372fadeeb][^c-45e0b4f784ea336b25a0a378c00d87f9]
 
 In section 28 of the Protection of Freedoms Act 2012 (interpretation: Chapter 2), in subsection (9), for “19(2)” substitute “19A(2)”.
 
-### 14. School Standards and Organisation (Wales) Act 2013 (anaw 1)[^key-20f2dc914250514aaada38c32d17b643][^key-5ff0ed8628f0deed0c8e9e21cc6fb0cd][^key-c904ed8cd359594a403e2e27e4ac1907][^key-20ea2988cae0b0a07612e0b6a33378cf][^key-86c94c8900065a0b0397515ad51a9b54]
+### 14. School Standards and Organisation (Wales) Act 2013 (anaw 1)[^c-20f2dc914250514aaada38c32d17b643][^c-5ff0ed8628f0deed0c8e9e21cc6fb0cd][^c-c904ed8cd359594a403e2e27e4ac1907][^c-20ea2988cae0b0a07612e0b6a33378cf][^c-86c94c8900065a0b0397515ad51a9b54]
 
 (1) The School Standards and Organisation (Wales) Act 2013 is amended as follows.
 
@@ -685,14 +685,14 @@ In section 28 of the Protection of Freedoms Act 2012 (interpretation: Chapter 2)
 
 (3) In Schedule 5 (minor and consequential amendments), in paragraph 2, omit sub-paragraph (8).
 
-### 15. Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2)[^key-49eb24f5d28d6b0bfcf3cbc95792d5b5][^key-33af90192823ddc47b11f625d772bf32][^key-ea44d41936dd2618a77a92a44713ee50][^key-40379cb1f7f5311ef2c004c72ec251ad][^key-5b67fb72dacfc7cc9e9decc5392df7dd]
+### 15. Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2)[^c-49eb24f5d28d6b0bfcf3cbc95792d5b5][^c-33af90192823ddc47b11f625d772bf32][^c-ea44d41936dd2618a77a92a44713ee50][^c-40379cb1f7f5311ef2c004c72ec251ad][^c-5b67fb72dacfc7cc9e9decc5392df7dd]
 
 In Schedule 4 to the Criminal Justice and Courts Act 2015 (ill-treatment or wilful neglect: excluded health care)—
 
 - (a) in paragraph 2, in sub-paragraph (b), after “section 19” insert “or 19A”;
 - (b) in paragraph 3, in sub-paragraph (f), for “section 19” substitute “sections 19 and 19A”.
 
-### 16. Counter-Terrorism and Security Act [2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6)[^key-7d653c09adc84e393c617701ff6a3c80][^key-a5f41081394c5d0f2f0c5518e37b99cf][^key-6a35940d52014ed2a29fb12c967e50a5][^key-fc6ab9c9ce52b82e82b43217bfd201ec][^key-b882468bedc6aeabe1efe4ba6b480f0f]
+### 16. Counter-Terrorism and Security Act [2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6)[^c-7d653c09adc84e393c617701ff6a3c80][^c-a5f41081394c5d0f2f0c5518e37b99cf][^c-6a35940d52014ed2a29fb12c967e50a5][^c-fc6ab9c9ce52b82e82b43217bfd201ec][^c-b882468bedc6aeabe1efe4ba6b480f0f]
 
 (1) The Counter-Terrorism and Security Act 2015 is amended as follows.
 
@@ -700,7 +700,7 @@ In Schedule 4 to the Criminal Justice and Courts Act 2015 (ill-treatment or wilf
 
 (3) In Schedule 7 (partners of local panels), in the entry under the heading “Education, child care etc” that begins with “A person with whom arrangements have been made”, after “19” insert “or 19A”.
 
-### 17. Social Services and Well-being (Wales) Act 2014 (anaw 4)[^key-6b45982ed3a3370ad1deac02b7d19964][^key-3ba968048e9e14c89a2dbe6a4f357787][^key-519324a23acd3428d48fb5b3880f74f4][^key-a4be7252e4d37e1c4adeb80bb424cb75][^key-02be760965a619c60e69c668fb9d6618]
+### 17. Social Services and Well-being (Wales) Act 2014 (anaw 4)[^c-6b45982ed3a3370ad1deac02b7d19964][^c-3ba968048e9e14c89a2dbe6a4f357787][^c-519324a23acd3428d48fb5b3880f74f4][^c-a4be7252e4d37e1c4adeb80bb424cb75][^c-02be760965a619c60e69c668fb9d6618]
 
 (1) The Social Services and Well-being (Wales) Act 2014 is amended as follows.
 
@@ -728,7 +728,7 @@ In Schedule 4 to the Criminal Justice and Courts Act 2015 (ill-treatment or wilf
   >   - (i) the teaching group in which the child is regularly taught at school, or
   >   - (ii) where there are two or more such groups, the group designated by the head teacher of the child’s school.
 
-### 18. Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)[^key-b01e3c27f66420dd1810b85d930f7bdd][^key-eba7f7a0ad8cf0c20770aa34157da50e][^key-762275357f0f5212dc6719859baf5b39][^key-dcf222abec50fa954bf87a7674fdbec5][^key-064645fe50ba826bb19d298202c2f2de]
+### 18. Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)[^c-b01e3c27f66420dd1810b85d930f7bdd][^c-eba7f7a0ad8cf0c20770aa34157da50e][^c-762275357f0f5212dc6719859baf5b39][^c-dcf222abec50fa954bf87a7674fdbec5][^c-064645fe50ba826bb19d298202c2f2de]
 
 (1) The Additional Learning Needs and Education Tribunal (Wales) Act 2018 is amended as follows.
 
@@ -764,196 +764,196 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2021 asc 4](https://www.legislation.gov.uk/asc/2021/4). See section 82(1) for the definition of “regulations”.
 
-[^key-7ae85c5efdec84a9015f75417a666cc4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/744/regulation/1) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/2)
+[^c-7ae85c5efdec84a9015f75417a666cc4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/744/regulation/1) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/2)
 
-[^key-3a66ea75bcf791db70aebd2397fb2713]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/744/regulation/2) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/2)
+[^c-3a66ea75bcf791db70aebd2397fb2713]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/744/regulation/2) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/2)
 
 [^f00002]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
 [^f00003]: Footnote: Subsection (1) was amended by section 57(1) of, and paragraph 9 of Schedule 7 to, the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44) and subsections (1) and (1A) were further amended by section 215(1) of, and paragraph 34 of Schedule 21 to, the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32).
 
-[^key-020643b851b112a53427ffb5a24449da]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/744/regulation/3) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/2)
+[^c-020643b851b112a53427ffb5a24449da]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/744/regulation/3) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/2)
 
-[^key-4b7cc96f7ac7709ed6b830b7b76642e9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/744/regulation/4) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/2)
+[^c-4b7cc96f7ac7709ed6b830b7b76642e9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/744/regulation/4) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/2)
 
-[^key-1ac9a4f3fdeeb4b82ef424be6ff6a264]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2022/744/schedule/1/paragraph/1) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/2)
+[^c-1ac9a4f3fdeeb4b82ef424be6ff6a264]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2022/744/schedule/1/paragraph/1) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/2)
 
-[^key-d873e37f2431a10cc16c15668652ef5a]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/1) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-d873e37f2431a10cc16c15668652ef5a]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/1) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-24ee3885a2d9b7fbcf7c1e99a35eb9df]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/1) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-24ee3885a2d9b7fbcf7c1e99a35eb9df]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/1) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-a500fc95b1694e8fe9aa0de8525ade9c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/1) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-a500fc95b1694e8fe9aa0de8525ade9c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/1) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-42664d4143e0138e0324f71e1eeb520f]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/1) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-42664d4143e0138e0324f71e1eeb520f]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/1) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-02002343f4605fa46fd1d879e54572e2]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/1) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-02002343f4605fa46fd1d879e54572e2]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/1) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-c6c66a9731165d46d6b558be8a239120]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/2) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-c6c66a9731165d46d6b558be8a239120]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/2) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-7cfbea35bcec626e92fc8c526631104a]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/2) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-7cfbea35bcec626e92fc8c526631104a]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/2) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-56e1e383bdc3528a0306d3c2892ee8f6]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/2) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-56e1e383bdc3528a0306d3c2892ee8f6]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/2) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-38c6b60693d0097b12a8a1943fc9f36d]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/2) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-38c6b60693d0097b12a8a1943fc9f36d]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/2) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-3d55115f924fcd04e218ded2c32782c8]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/2) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-3d55115f924fcd04e218ded2c32782c8]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/2) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-ca85ba556d0f3e1a2b000924929227ef]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/3) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-ca85ba556d0f3e1a2b000924929227ef]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/3) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-78431bb4c3624acc7a8cc367d6a10250]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/3) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-78431bb4c3624acc7a8cc367d6a10250]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/3) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-4dec2626ad7179e1d126b08412549dfe]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/3) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-4dec2626ad7179e1d126b08412549dfe]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/3) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-f6a75345a753a6e0b9f96a8ef3929cb9]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/3) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-f6a75345a753a6e0b9f96a8ef3929cb9]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/3) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-891bf32f46ed849e476af2bbbc6f5ea2]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/3) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-891bf32f46ed849e476af2bbbc6f5ea2]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/3) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-1004891bebd168dabfbf5a2c2d803b05]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/4) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-1004891bebd168dabfbf5a2c2d803b05]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/4) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-1ec8b9f2e43a4ecbcfa92e51a2b7af97]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/4) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-1ec8b9f2e43a4ecbcfa92e51a2b7af97]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/4) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-1289715710bd229c3ee5d5e5018d5f66]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/4) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-1289715710bd229c3ee5d5e5018d5f66]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/4) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-ade991875f6e4441846869877564e1ef]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/4) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-ade991875f6e4441846869877564e1ef]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/4) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-121e71042dce7d15bef28bfdd91c995a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/4) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-121e71042dce7d15bef28bfdd91c995a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/4) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-2a6a27e2a2c72b5e9103972144ec534e]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/5) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-2a6a27e2a2c72b5e9103972144ec534e]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/5) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-1dff43657de861a5012dc49f50b8a7ca]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/5) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-1dff43657de861a5012dc49f50b8a7ca]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/5) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-daebb32e8a4c0969510aba8cf38714a0]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/5) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-daebb32e8a4c0969510aba8cf38714a0]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/5) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-36afce781aaede3003551974d4966ce0]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/5) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-36afce781aaede3003551974d4966ce0]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/5) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-97d8444a87acf0b4b2989d107a394141]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/5) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-97d8444a87acf0b4b2989d107a394141]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/5) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-ce88ca899ab4a520e75a4031d47d669a]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/6) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-ce88ca899ab4a520e75a4031d47d669a]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/6) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-8e37b83ecfa3bb5f827bacddab43f737]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/6) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-8e37b83ecfa3bb5f827bacddab43f737]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/6) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-e09f415cc2acf5f442b47e937e70631a]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/6) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-e09f415cc2acf5f442b47e937e70631a]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/6) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-6b0eaa392417b76988a404c6318c7259]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/6) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-6b0eaa392417b76988a404c6318c7259]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/6) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-eed5bfa0bc8c3c8dd0784cfe560ef4b2]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/6) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-eed5bfa0bc8c3c8dd0784cfe560ef4b2]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/6) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-528d509f1b34fc3519de8a6ba379ac99]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/7) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-528d509f1b34fc3519de8a6ba379ac99]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/7) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-8e777e5a67717e316f4901468ed74469]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/7) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-8e777e5a67717e316f4901468ed74469]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/7) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-84c51653781abf3d01cacbe63a0272c0]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/7) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-84c51653781abf3d01cacbe63a0272c0]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/7) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-3e6e3ac326d06a0ffa36e1a16db2b17e]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/7) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-3e6e3ac326d06a0ffa36e1a16db2b17e]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/7) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-f73d0b682e4bc28f727c8649b9d3fb00]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/7) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-f73d0b682e4bc28f727c8649b9d3fb00]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/7) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-c82114f74db78aecacd50e6c8135aa59]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/8) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-c82114f74db78aecacd50e6c8135aa59]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/8) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-26263474a43a92a67ed672ba88ec5822]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/8) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-26263474a43a92a67ed672ba88ec5822]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/8) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-6be6feb976000f29ee977ed209004992]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/8) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-6be6feb976000f29ee977ed209004992]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/8) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-3c8cebe63646d1dbc09b6038252494d8]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/8) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-3c8cebe63646d1dbc09b6038252494d8]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/8) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-5addec1303111f303ff9da0369057798]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/8) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-5addec1303111f303ff9da0369057798]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/8) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-ba0dc58fcf2a7e81b9a2f97691b6afb5]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/9) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-ba0dc58fcf2a7e81b9a2f97691b6afb5]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/9) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-dff129dec02bf9b28f5f61a54b5409b5]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/9) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-dff129dec02bf9b28f5f61a54b5409b5]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/9) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-a67073b1853e8c764794112528cbc475]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/9) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-a67073b1853e8c764794112528cbc475]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/9) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-5d3e26b02c78bc60a2cbf1fe5367c3d3]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/9) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-5d3e26b02c78bc60a2cbf1fe5367c3d3]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/9) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-8a8e058c16d2038b2f0a713d4780fc70]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/9) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-8a8e058c16d2038b2f0a713d4780fc70]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/9) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-7a9b5ca50e055c9d3a2d86666ac28016]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/10) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-7a9b5ca50e055c9d3a2d86666ac28016]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/10) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-079f48638bdf27462233af7c39e1c4c2]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/10) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-079f48638bdf27462233af7c39e1c4c2]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/10) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-3a79ae680f1d585f8d1efa16242773ce]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/10) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-3a79ae680f1d585f8d1efa16242773ce]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/10) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-c079fd197ebba168658d05b781b2df6b]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/10) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-c079fd197ebba168658d05b781b2df6b]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/10) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-eb7b241b1a86b79ea516f8328025c43c]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/10) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-eb7b241b1a86b79ea516f8328025c43c]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/10) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-671b2a5dae59eb71bd28956b65fbb256]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/11) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-671b2a5dae59eb71bd28956b65fbb256]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/11) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-6e1f3d0631ceb6ca85926962b8a0541f]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/11) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-6e1f3d0631ceb6ca85926962b8a0541f]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/11) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-afb07c13a1d99cb0ba9acaa6a01717ab]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/11) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-afb07c13a1d99cb0ba9acaa6a01717ab]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/11) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-2bd3b465c8fee0c2afed814083fcbf56]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/11) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-2bd3b465c8fee0c2afed814083fcbf56]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/11) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-49e692268bfce72eacc957d0aa48d2fc]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/11) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-49e692268bfce72eacc957d0aa48d2fc]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/11) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-cc979c098872d5ae2a0d7b232d943703]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/12) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-cc979c098872d5ae2a0d7b232d943703]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/12) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-d2989af3718daac9f75e1b6c3cca45ef]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/12) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-d2989af3718daac9f75e1b6c3cca45ef]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/12) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-e4b5a889a1fe45dec366fa4a9e408ec7]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/12) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-e4b5a889a1fe45dec366fa4a9e408ec7]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/12) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-b176a371dfe46271c0ef5f5452a4bd31]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/12) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-b176a371dfe46271c0ef5f5452a4bd31]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/12) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-cc68d116cc2cd1032ffcebb060f047b0]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/12) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-cc68d116cc2cd1032ffcebb060f047b0]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/12) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-86c647c2b726a4ab29fad790533d0269]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/13) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-86c647c2b726a4ab29fad790533d0269]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/13) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-f5c5196e2d9fb726a53384195275b340]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/13) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-f5c5196e2d9fb726a53384195275b340]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/13) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-95315b2a1e8bff2f9cb64ec663bca96d]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/13) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-95315b2a1e8bff2f9cb64ec663bca96d]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/13) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-12e2321debacc81650e6991372fadeeb]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/13) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-12e2321debacc81650e6991372fadeeb]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/13) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-45e0b4f784ea336b25a0a378c00d87f9]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/13) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-45e0b4f784ea336b25a0a378c00d87f9]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/13) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-20f2dc914250514aaada38c32d17b643]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/14) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-20f2dc914250514aaada38c32d17b643]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/14) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-5ff0ed8628f0deed0c8e9e21cc6fb0cd]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/14) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-5ff0ed8628f0deed0c8e9e21cc6fb0cd]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/14) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-c904ed8cd359594a403e2e27e4ac1907]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/14) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-c904ed8cd359594a403e2e27e4ac1907]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/14) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-20ea2988cae0b0a07612e0b6a33378cf]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/14) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-20ea2988cae0b0a07612e0b6a33378cf]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/14) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-86c94c8900065a0b0397515ad51a9b54]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/14) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-86c94c8900065a0b0397515ad51a9b54]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/14) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-49eb24f5d28d6b0bfcf3cbc95792d5b5]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/15) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-49eb24f5d28d6b0bfcf3cbc95792d5b5]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/15) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-33af90192823ddc47b11f625d772bf32]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/15) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-33af90192823ddc47b11f625d772bf32]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/15) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-ea44d41936dd2618a77a92a44713ee50]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/15) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-ea44d41936dd2618a77a92a44713ee50]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/15) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-40379cb1f7f5311ef2c004c72ec251ad]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/15) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-40379cb1f7f5311ef2c004c72ec251ad]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/15) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-5b67fb72dacfc7cc9e9decc5392df7dd]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/15) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-5b67fb72dacfc7cc9e9decc5392df7dd]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/15) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-7d653c09adc84e393c617701ff6a3c80]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/16) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-7d653c09adc84e393c617701ff6a3c80]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/16) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-a5f41081394c5d0f2f0c5518e37b99cf]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/16) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-a5f41081394c5d0f2f0c5518e37b99cf]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/16) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-6a35940d52014ed2a29fb12c967e50a5]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/16) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-6a35940d52014ed2a29fb12c967e50a5]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/16) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-fc6ab9c9ce52b82e82b43217bfd201ec]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/16) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-fc6ab9c9ce52b82e82b43217bfd201ec]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/16) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-b882468bedc6aeabe1efe4ba6b480f0f]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/16) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-b882468bedc6aeabe1efe4ba6b480f0f]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/16) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-6b45982ed3a3370ad1deac02b7d19964]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/17) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-6b45982ed3a3370ad1deac02b7d19964]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/17) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-3ba968048e9e14c89a2dbe6a4f357787]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/17) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-3ba968048e9e14c89a2dbe6a4f357787]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/17) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-519324a23acd3428d48fb5b3880f74f4]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/17) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-519324a23acd3428d48fb5b3880f74f4]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/17) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-a4be7252e4d37e1c4adeb80bb424cb75]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/17) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-a4be7252e4d37e1c4adeb80bb424cb75]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/17) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-02be760965a619c60e69c668fb9d6618]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/17) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-02be760965a619c60e69c668fb9d6618]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/17) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-b01e3c27f66420dd1810b85d930f7bdd]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/18) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-b01e3c27f66420dd1810b85d930f7bdd]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/18) in force at 1.9.2022 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-eba7f7a0ad8cf0c20770aa34157da50e]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/18) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-eba7f7a0ad8cf0c20770aa34157da50e]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/18) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-762275357f0f5212dc6719859baf5b39]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/18) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-762275357f0f5212dc6719859baf5b39]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/18) in force at 1.9.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-dcf222abec50fa954bf87a7674fdbec5]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/18) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-dcf222abec50fa954bf87a7674fdbec5]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/18) in force at 1.9.2025 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
 
-[^key-064645fe50ba826bb19d298202c2f2de]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/18) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)
+[^c-064645fe50ba826bb19d298202c2f2de]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/18) in force at 1.9.2026 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3)

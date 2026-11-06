@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 136. General duties of bank liquidator[^key-aa922f7db99adc03b895b8a43a6173ba]
+## 136. General duties of bank liquidator[^c-aa922f7db99adc03b895b8a43a6173ba]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.179 of the 1986 Rules.
 
 ## Annotations
 
-[^key-aa922f7db99adc03b895b8a43a6173ba]: Commencement: Rule 136 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-aa922f7db99adc03b895b8a43a6173ba]: Commencement: Rule 136 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

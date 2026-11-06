@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Approval of qualifications that are not priority qualifications[^key-720413c341412cb2140c3cba653b5af3]
+## 19. Approval of qualifications that are not priority qualifications[^c-720413c341412cb2140c3cba653b5af3]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-720413c341412cb2140c3cba653b5af3]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2015/5/section/19) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-720413c341412cb2140c3cba653b5af3]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2015/5/section/19) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

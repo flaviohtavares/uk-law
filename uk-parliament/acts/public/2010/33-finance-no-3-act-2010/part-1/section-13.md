@@ -32,9 +32,9 @@ summary: ''
 - (a) in subsection (1)(b), for “conditions A to D” substitute “ conditions A, C and D ”, and
 - (b) omit subsection (3) (condition B: same intellectual property condition).
 
-(4)[^key-315399ea0d07820d8680ea6c9a5b1ff3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-315399ea0d07820d8680ea6c9a5b1ff3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-315399ea0d07820d8680ea6c9a5b1ff3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-315399ea0d07820d8680ea6c9a5b1ff3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Omit section 1139 (meaning of “intellectual property”).
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-315399ea0d07820d8680ea6c9a5b1ff3]: Textual amendment: [S. 13(4)](https://www.legislation.gov.uk/ukpga/2010/33/section/13/4)[(5)](https://www.legislation.gov.uk/ukpga/2010/33/section/13/5) omitted (with effect in accordance with Sch. 15 para. 28 29 of the commencing Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 15 para. 25](https://www.legislation.gov.uk/ukpga/2013/29/schedule/15/paragraph/25)
+[^c-315399ea0d07820d8680ea6c9a5b1ff3]: Textual amendment: [S. 13(4)](https://www.legislation.gov.uk/ukpga/2010/33/section/13/4)[(5)](https://www.legislation.gov.uk/ukpga/2010/33/section/13/5) omitted (with effect in accordance with Sch. 15 para. 28 29 of the commencing Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 15 para. 25](https://www.legislation.gov.uk/ukpga/2013/29/schedule/15/paragraph/25)

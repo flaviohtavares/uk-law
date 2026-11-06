@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Fire authority leases[^key-9f17b977c60660db54a61cb9d50789fc]
+## 33. Fire authority leases[^c-9f17b977c60660db54a61cb9d50789fc]
 
 *Extent: E+W*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9f17b977c60660db54a61cb9d50789fc]: Commencement: Reg. 33 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-9f17b977c60660db54a61cb9d50789fc]: Commencement: Reg. 33 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00032]: Footnote: [1947 c. 41](https://www.legislation.gov.uk/ukpga/1947/41).
 

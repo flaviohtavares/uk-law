@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Records relating to dissolved or deregistered limited partnerships[^key-fba8ac487b61ec656f38127a5babfa4a]
+## 138. Records relating to dissolved or deregistered limited partnerships[^c-fba8ac487b61ec656f38127a5babfa4a]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ After section 16A of the Limited Partnerships Act 1907 (inserted by section 137 
 
 ## Annotations
 
-[^key-fba8ac487b61ec656f38127a5babfa4a]: Commencement: S. 138 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-fba8ac487b61ec656f38127a5babfa4a]: Commencement: S. 138 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Power to enter Crown land in connection with examination[^key-d74975554e1723e88d598f950a748c47][^key-2746f91e080e07f925faf8354573ddde]
+## 46. Power to enter Crown land in connection with examination[^c-d74975554e1723e88d598f950a748c47][^c-2746f91e080e07f925faf8354573ddde]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d74975554e1723e88d598f950a748c47]: Commencement: S. 46 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-d74975554e1723e88d598f950a748c47]: Commencement: S. 46 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-2746f91e080e07f925faf8354573ddde]: Commencement: [S. 46](https://www.legislation.gov.uk/asc/2024/3/section/46) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/698/article/3/b)
+[^c-2746f91e080e07f925faf8354573ddde]: Commencement: [S. 46](https://www.legislation.gov.uk/asc/2024/3/section/46) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/698/article/3/b)

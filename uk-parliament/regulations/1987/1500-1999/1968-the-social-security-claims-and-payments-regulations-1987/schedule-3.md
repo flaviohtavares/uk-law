@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3 — DURATION OF DISALLOWANCE[^key-4e6222f2ad67e5790dc3b41bade0c02e]
+## SCHEDULE 3 — DURATION OF DISALLOWANCE[^c-4e6222f2ad67e5790dc3b41bade0c02e]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Regulation 18(1)
 
 ## Annotations
 
-[^key-4e6222f2ad67e5790dc3b41bade0c02e]: Textual amendment: Sch. 3 omitted (7.10.1996) by virtue of [The Social Security (Claims and Payments) (Jobseekers Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/1460)](https://www.legislation.gov.uk/uksi/1996/1460), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1460/regulation/1), [2(21)](https://www.legislation.gov.uk/uksi/1996/1460/regulation/2/21)
+[^c-4e6222f2ad67e5790dc3b41bade0c02e]: Textual amendment: Sch. 3 omitted (7.10.1996) by virtue of [The Social Security (Claims and Payments) (Jobseekers Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/1460)](https://www.legislation.gov.uk/uksi/1996/1460), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1460/regulation/1), [2(21)](https://www.legislation.gov.uk/uksi/1996/1460/regulation/2/21)

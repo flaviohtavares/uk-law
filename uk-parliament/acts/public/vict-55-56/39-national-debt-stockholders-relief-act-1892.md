@@ -39,7 +39,7 @@ An Act to amend the National Debt Act 1870.
 
 (1) Any person who, at the time of the balance being struck for a dividend on stock, is entered in a relevant register[^c575669] as a stockholder shall, as between himself and any transferee of the stock, be entitled to the then current half-year’s or quarter’s dividend.
 
-(2) Subject to subsections (3) and (4) below, the Registrar of Government Stock[^key-e39b5eb831c90e83311e5a13ce398805] may—
+(2) Subject to subsections (3) and (4) below, the Registrar of Government Stock[^c-e39b5eb831c90e83311e5a13ce398805] may—
 
 - (a) strike the balance for a dividend on stock before the day on which the dividend is payable, and
 - (b) strike the balances for dividends on stock at times such that the interval between—
@@ -94,7 +94,7 @@ In the following cases, namely,—
 - (b) Where an infant holds stock jointly with a person under legal disability; and
 - (c) Where stock has by mistake been brought in or transferred into the sole name of an infant,
 
-the Registrar of Government Stock[^key-b03e6cadaaf54da99cc7c2bd86d7d724] may, at the request in writing of the parent, guardian, or next friend of the infant, receive the dividends and apply them to the purchase of like stock, and the stock so purchased shall be added to the original investment.
+the Registrar of Government Stock[^c-b03e6cadaaf54da99cc7c2bd86d7d724] may, at the request in writing of the parent, guardian, or next friend of the infant, receive the dividends and apply them to the purchase of like stock, and the stock so purchased shall be added to the original investment.
 
 ## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c575674]
 
@@ -104,7 +104,7 @@ the Registrar of Government Stock[^key-b03e6cadaaf54da99cc7c2bd86d7d724] may, at
 
 ## 7. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c575678]
 
-## 8. Application to stocks transferable in registers kept by Registrar of Government Stock[^key-7ad7bbce52c6ddc044144ceb77cf9214]
+## 8. Application to stocks transferable in registers kept by Registrar of Government Stock[^c-7ad7bbce52c6ddc044144ceb77cf9214]
 
 This Act shall apply to all stock for the time being transferable—
 
@@ -113,7 +113,7 @@ This Act shall apply to all stock for the time being transferable—
 
 except so far as there is anything to the contrary in any Act under which the stock was created.
 
-## 9. Meaning of Bank.[^key-9ccc9e93fb38b3fe18eee1e5f51126a6][^c575682]
+## 9. Meaning of Bank.[^c-9ccc9e93fb38b3fe18eee1e5f51126a6][^c575682]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -131,7 +131,7 @@ This Act may be cited as the National Debt (Stockholders Relief) Act 1892, and s
 
 [^c575669]: Textual amendment: Words in s. 2(1) substituted (26.11.2001) by [S.I. 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755), [reg. 51](https://www.legislation.gov.uk/uksi/2001/3755/regulation/51), [Sch. 7 Pt. I para. 2](https://www.legislation.gov.uk/uksi/2001/3755/schedule/7/part/I/paragraph/2) (with [regs. 39](https://www.legislation.gov.uk/uksi/2001/3755/regulation/39), [45](https://www.legislation.gov.uk/uksi/2001/3755/regulation/45))
 
-[^key-e39b5eb831c90e83311e5a13ce398805]: Textual amendment: Words in [s. 2(2)](https://www.legislation.gov.uk/ukpga/Vict/55-56/39/section/2/2) substituted (1.7.2004) by [Government Stock (Consequential and Transitional Provision) (No.2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. para. 7(2)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/7/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-e39b5eb831c90e83311e5a13ce398805]: Textual amendment: Words in [s. 2(2)](https://www.legislation.gov.uk/ukpga/Vict/55-56/39/section/2/2) substituted (1.7.2004) by [Government Stock (Consequential and Transitional Provision) (No.2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. para. 7(2)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/7/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
 [^c575670]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
@@ -141,7 +141,7 @@ This Act may be cited as the National Debt (Stockholders Relief) Act 1892, and s
 
 [^c575673]: Modification: S. 3 extended retrospectively by [East India Loans Act 1937 (c. 14)](https://www.legislation.gov.uk/ukpga/1937/14), [s. 2(4)](https://www.legislation.gov.uk/ukpga/1937/14/section/2/4)
 
-[^key-b03e6cadaaf54da99cc7c2bd86d7d724]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/ukpga/Vict/55-56/39/section/3) substituted (1.7.2004) by [Government Stock (Consequential and Transitional Provision) (No.2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. para. 7(3)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/7/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-b03e6cadaaf54da99cc7c2bd86d7d724]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/ukpga/Vict/55-56/39/section/3) substituted (1.7.2004) by [Government Stock (Consequential and Transitional Provision) (No.2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. para. 7(3)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/7/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
 [^c575674]: Textual amendment: [Ss. 4](https://www.legislation.gov.uk/ukpga/Vict/55-56/39/section/4), [6](https://www.legislation.gov.uk/ukpga/Vict/55-56/39/section/6) repealed by [Statute Law Revision Act 1950 (c. 6)](https://www.legislation.gov.uk/ukpga/1950/6)
 
@@ -151,9 +151,9 @@ This Act may be cited as the National Debt (Stockholders Relief) Act 1892, and s
 
 [^c575678]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/Vict/55-56/39/section/7) repealed by [Statute Law (Repeals) Act 1986 (c. 12)](https://www.legislation.gov.uk/ukpga/1986/12),s. 1(1), Sch. 1 Pt.III
 
-[^key-7ad7bbce52c6ddc044144ceb77cf9214]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/Vict/55-56/39/section/8) substituted (1.7.2004) by [Government Stock (Consequential and Transitional Provision) (No.2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. para. 7(4)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/7/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-7ad7bbce52c6ddc044144ceb77cf9214]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/Vict/55-56/39/section/8) substituted (1.7.2004) by [Government Stock (Consequential and Transitional Provision) (No.2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. para. 7(4)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/7/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
-[^key-9ccc9e93fb38b3fe18eee1e5f51126a6]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/Vict/55-56/39/section/9) omitted (1.7.2004) by virtue of [Government Stock (Consequential and Transitional Provision) (No.2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. para. 7(5)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/7/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-9ccc9e93fb38b3fe18eee1e5f51126a6]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/Vict/55-56/39/section/9) omitted (1.7.2004) by virtue of [Government Stock (Consequential and Transitional Provision) (No.2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. para. 7(5)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/7/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
 [^c575682]: Modification: S. 9 extended retrospectively by [East India Loans Act 1937 (c. 14)](https://www.legislation.gov.uk/ukpga/1937/14), [s. 2(4)](https://www.legislation.gov.uk/ukpga/1937/14/section/2/4)
 

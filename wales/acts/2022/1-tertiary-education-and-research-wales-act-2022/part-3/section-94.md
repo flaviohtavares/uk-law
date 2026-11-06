@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 94. Education and training for eligible persons over 19[^key-95a695728f160f1f0691d1894d2cb989][^key-cf44dfc5a0a27e1bb3804161b7d3e8ca]
+## 94. Education and training for eligible persons over 19[^c-95a695728f160f1f0691d1894d2cb989][^c-cf44dfc5a0a27e1bb3804161b7d3e8ca]
 
 *Extent: E+W*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-95a695728f160f1f0691d1894d2cb989]: Commencement: S. 94 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-95a695728f160f1f0691d1894d2cb989]: Commencement: S. 94 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-cf44dfc5a0a27e1bb3804161b7d3e8ca]: Commencement: [S. 94](https://www.legislation.gov.uk/asc/2022/1/section/94) in force at 1.4.2024 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 5](https://www.legislation.gov.uk/wsi/2023/919/article/5)
+[^c-cf44dfc5a0a27e1bb3804161b7d3e8ca]: Commencement: [S. 94](https://www.legislation.gov.uk/asc/2022/1/section/94) in force at 1.4.2024 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 5](https://www.legislation.gov.uk/wsi/2023/919/article/5)

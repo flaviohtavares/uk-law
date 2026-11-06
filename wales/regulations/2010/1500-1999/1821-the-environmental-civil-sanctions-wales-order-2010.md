@@ -47,21 +47,21 @@ The Welsh Ministers have consulted the Secretary of State in accordance with sec
 
 The Welsh Ministers are satisfied, in accordance with section 66 of that Act, that the Environment Agency (who is the regulator for the purpose of this Order) will act in accordance with the principles referred to in section 5(2) of that Act in exercising a power conferred by this Order.
 
-A draft of this Order has been laid before, and approved by resolution of, the National Assembly for Wales in accordance with section 61(2) of that Act.[^key-07480247634d25cd6191452ea0f7b1fd]
+A draft of this Order has been laid before, and approved by resolution of, the National Assembly for Wales in accordance with section 61(2) of that Act.[^c-07480247634d25cd6191452ea0f7b1fd]
 
 ## PART 1 — Introduction
 
-### 1. Title, application and commencement[^key-bf16047c94dc762c955e8f47fcac6cd1]
+### 1. Title, application and commencement[^c-bf16047c94dc762c955e8f47fcac6cd1]
 
 The title of this Order is the Environmental Civil Sanctions (Wales) Order 2010; it applies in relation to Wales and comes into force on 15 July 2010.
 
-### 2. Regulator[^key-5d5f796fffd2e426715fe6af5cf21f32]
+### 2. Regulator[^c-5d5f796fffd2e426715fe6af5cf21f32]
 
-The Natural Resources Body for Wales[^key-7d2f18d498b1ee21101476be7c05008f] is the regulator for the purposes of this Order.
+The Natural Resources Body for Wales[^c-7d2f18d498b1ee21101476be7c05008f] is the regulator for the purposes of this Order.
 
 ## PART 2 — Civil sanctions, notices and undertakings
 
-### 3. Civil sanctions, notices and undertakings[^key-26a88c5afecf4afd6622cf959fa9bcc5]
+### 3. Civil sanctions, notices and undertakings[^c-26a88c5afecf4afd6622cf959fa9bcc5]
 
 (1) Schedule 1 makes provision for fixed monetary penalties.
 
@@ -73,11 +73,11 @@ The Natural Resources Body for Wales[^key-7d2f18d498b1ee21101476be7c05008f] is t
 
 (5) Those terms not defined in the Regulatory Enforcement and Sanctions Act 2008 have the meanings specified in those Schedules.
 
-### 4. Scope[^key-b08eabd3a3057bce164451d66ee92468]
+### 4. Scope[^c-b08eabd3a3057bce164451d66ee92468]
 
 Schedule 5 sets out the provisions creating the offences to which this Order relates.
 
-### 5. Combination of sanctions[^key-b187f0b3d35723d8da16ab9f6fe1c1d8]
+### 5. Combination of sanctions[^c-b187f0b3d35723d8da16ab9f6fe1c1d8]
 
 (1) A regulator may not serve a notice of intent relating to a fixed monetary penalty if a variable monetary penalty has been imposed or a compliance notice, restoration notice or stop notice has been served on that person relating to the same act or omission.
 
@@ -88,11 +88,11 @@ Schedule 5 sets out the provisions creating the offences to which this Order rel
 
 ## PART 3 — Non-compliance and enforcement
 
-### 6. Recovery of payments[^key-a2e15e0d12edb8663e622aedfe3602af]
+### 6. Recovery of payments[^c-a2e15e0d12edb8663e622aedfe3602af]
 
 The regulator may recover any fixed monetary penalty, variable monetary penalty or non-compliance penalty on the order of a court, as if payable under a court order.
 
-### 7. Non-compliance penalties[^key-44fd7eaeaca76fe9ccd21a9c654e1c18]
+### 7. Non-compliance penalties[^c-44fd7eaeaca76fe9ccd21a9c654e1c18]
 
 (1) If a person fails to comply with a compliance notice, a restoration notice or a third party undertaking, the regulator may serve a notice on that person imposing a monetary penalty (“a non-compliance penalty”) in respect of the same offence irrespective of whether a variable monetary penalty was also imposed in respect of that offence.
 
@@ -122,7 +122,7 @@ The regulator may recover any fixed monetary penalty, variable monetary penalty 
 - (d) that the amount of the penalty was unreasonable;
 - (e) any other similar reason.
 
-### 8. Enforcement cost recovery notices[^key-d85bda6e4722b7a79c7acfff5968c59d]
+### 8. Enforcement cost recovery notices[^c-d85bda6e4722b7a79c7acfff5968c59d]
 
 (1) A regulator may serve a notice (“an enforcement cost recovery notice”) on a person on whom a variable monetary penalty notice, compliance notice, restoration notice or stop notice has been served requiring that person to pay the costs incurred by the regulator in relation to the imposition of that notice up to the time of its imposition.
 
@@ -153,7 +153,7 @@ The regulator may recover any fixed monetary penalty, variable monetary penalty 
 
 ## PART 4 — Administration
 
-### 9. Withdrawing or amending a notice[^key-92b33985da4d92f5c4d5134f3b74f77a]
+### 9. Withdrawing or amending a notice[^c-92b33985da4d92f5c4d5134f3b74f77a]
 
 A regulator may at any time in writing—
 
@@ -161,7 +161,7 @@ A regulator may at any time in writing—
 - (b) withdraw a variable monetary penalty notice, a non-compliance penalty notice or an enforcement cost recovery notice or reduce the amount specified in the notice;
 - (c) withdraw a compliance notice, restoration notice or stop notice or amend the steps specified in the notice so as to reduce the amount of work necessary to comply with the notice.
 
-### 10. Appeals[^key-23fd447bc741831515382a303928b5ba]
+### 10. Appeals[^c-23fd447bc741831515382a303928b5ba]
 
 (1) An appeal under this Order is to the First-tier Tribunal.
 
@@ -181,7 +181,7 @@ A regulator may at any time in writing—
 - (d) take such steps as the regulator could take in relation to the act or omission giving rise to the requirement or notice;
 - (e) remit the decision whether to confirm the requirement or notice, or any matter relating to that decision, to the regulator.
 
-### 11. Guidance as to use of civil sanctions[^key-bba0c78306863346937cbe8ea41f9327]
+### 11. Guidance as to use of civil sanctions[^c-bba0c78306863346937cbe8ea41f9327]
 
 (1) Where power is conferred on a regulator in this Order to impose a civil sanction in relation to an offence—
 
@@ -211,7 +211,7 @@ A regulator may at any time in writing—
 - (b) the circumstances in which it may not be imposed; and
 - (c) rights of appeal.
 
-### 12. Additional guidance[^key-349ef95f54dde4a6d5b8fb7deea8ce31]
+### 12. Additional guidance[^c-349ef95f54dde4a6d5b8fb7deea8ce31]
 
 The regulator must issue guidance relating to the use of non-compliance penalties and enforcement cost recovery notices specifying—
 
@@ -220,11 +220,11 @@ The regulator must issue guidance relating to the use of non-compliance penaltie
 - (c) matters to be taken into account in establishing the amount involved;
 - (d) rights of appeal.
 
-### 13. Consultation on guidance[^key-d7289f34f219a50113b99ff60880d7c0]
+### 13. Consultation on guidance[^c-d7289f34f219a50113b99ff60880d7c0]
 
 The regulator must consult such persons as it considers appropriate before publishing any guidance or revised guidance under this Order.
 
-### 14. Publication of enforcement action[^key-4b1e606c2cfe3d73574134d849f4b81a]
+### 14. Publication of enforcement action[^c-4b1e606c2cfe3d73574134d849f4b81a]
 
 (1) Where a power is conferred on a regulator to impose a civil sanction under this Order in relation to an offence, the regulator must from time to time publish reports specifying—
 
@@ -247,7 +247,7 @@ Minister for Environment, Sustainability and Housing, one of the Welsh Ministers
 
 Article 3
 
-### 1. Power to impose a fixed monetary penalty[^key-35476e7b99f7cd42b504593bb5dd6590]
+### 1. Power to impose a fixed monetary penalty[^c-35476e7b99f7cd42b504593bb5dd6590]
 
 (1) A regulator may by notice impose a fixed monetary penalty on a person in relation to an offence under a provision specified in Schedule 5 if the table in that Schedule indicates that such penalty is possible for that offence.
 
@@ -255,7 +255,7 @@ Article 3
 
 (3) The amount of penalty to be paid to the regulator as a fixed monetary penalty is £100 for an individual or £300 for a body corporate.
 
-### 2. Notice of intent[^key-38b60eb4a3c79c52569c6996061343b4]
+### 2. Notice of intent[^c-38b60eb4a3c79c52569c6996061343b4]
 
 (1) Where a regulator proposes to impose a fixed monetary penalty on a person, the regulator must serve on that person a notice of what is proposed (a “notice of intent”).
 
@@ -269,15 +269,15 @@ Article 3
   - (ii) the right to make representations and objections within 28 days beginning with the day on which the notice of intent was received;
   - (iii) the circumstances in which the regulator may not impose the requirement (including any defences relating to the offence in relation to which the notice is served).
 
-### 3. Discharge of liability[^key-b248aeffaf4a2e7bbc78230b39e262d2]
+### 3. Discharge of liability[^c-b248aeffaf4a2e7bbc78230b39e262d2]
 
 The penalty is discharged if a person who receives a notice of intent pays 50% of the amount of the penalty within 28 days beginning with the day on which the notice was received.
 
-### 4. Making representations and objections[^key-f9e88dbc6d5386c817c935cee6a42515]
+### 4. Making representations and objections[^c-f9e88dbc6d5386c817c935cee6a42515]
 
 A person on whom a notice of intent is served may within 28 days beginning with the day on which the notice was received make written representations and objections to the regulator in relation to the proposed imposition of the fixed monetary penalty.
 
-### 5. Service of final notice[^key-924afc84882565291d0a6ccbcb57679a]
+### 5. Service of final notice[^c-924afc84882565291d0a6ccbcb57679a]
 
 (1) If the person who has received a notice of intent does not discharge liability within 28 days the regulator may serve a final notice imposing a fixed monetary penalty.
 
@@ -285,7 +285,7 @@ A person on whom a notice of intent is served may within 28 days beginning with 
 
 (3) A regulator who serves a final notice relating to a fixed monetary penalty may not serve any other notice under this Order in relation to the offence.
 
-### 6. Contents of final notice[^key-92d585e9feee619de22875fa958007ad]
+### 6. Contents of final notice[^c-92d585e9feee619de22875fa958007ad]
 
 A final notice must include information as to—
 
@@ -297,11 +297,11 @@ A final notice must include information as to—
 - (f) rights of appeal; and
 - (g) the consequences of non-payment.
 
-### 7. Discount for early payment[^key-58742455980d4a0dfdab1a14730e0adc]
+### 7. Discount for early payment[^c-58742455980d4a0dfdab1a14730e0adc]
 
 If a person who was served with a notice of intent made representations or objections concerning that notice within the time limit, that person may discharge the final notice by paying 50% of the penalty within 28 days beginning with the day on which the final notice was received.
 
-### 8. Grounds of appeal[^key-44348832047cc70ea841f7ccb8c5fc3a]
+### 8. Grounds of appeal[^c-44348832047cc70ea841f7ccb8c5fc3a]
 
 (1) The person receiving the final notice may appeal against it.
 
@@ -312,7 +312,7 @@ If a person who was served with a notice of intent made representations or objec
 - (c) that the decision was unreasonable;
 - (d) any other similar reason.
 
-### 9. Non-payment after 56 days[^key-c8127a20a77a07d2f937258e5c5523dc]
+### 9. Non-payment after 56 days[^c-c8127a20a77a07d2f937258e5c5523dc]
 
 (1) The penalty must be paid within 56 days of receipt of the final notice.
 
@@ -320,7 +320,7 @@ If a person who was served with a notice of intent made representations or objec
 
 (3) In the case of an appeal it is payable within 28 days of the determination of the appeal (if the appeal is unsuccessful), and if it is not paid within 28 days the amount of the penalty is increased by 50%.
 
-### 10. Criminal proceedings[^key-30e9e69f66fc9b2780d25e9da6e7f82f]
+### 10. Criminal proceedings[^c-30e9e69f66fc9b2780d25e9da6e7f82f]
 
 (1) If a notice of intent for a fixed monetary penalty is served on any person—
 
@@ -333,7 +333,7 @@ If a person who was served with a notice of intent made representations or objec
 
 Article 3
 
-### 1. Imposition of a variable monetary penalty, compliance notice or restoration notice[^key-f98d82e31d63ca4edf1e497a322b792f]
+### 1. Imposition of a variable monetary penalty, compliance notice or restoration notice[^c-f98d82e31d63ca4edf1e497a322b792f]
 
 (1) A regulator may by notice impose—
 
@@ -356,7 +356,7 @@ the amount of the variable monetary penalty may not exceed the maximum amount (i
 
 (5) Before serving a notice relating to a variable monetary penalty the regulator may require the person to provide such information as is reasonable to establish the amount of any financial benefit arising as a result of the offence.
 
-### 2. Notice of intent[^key-64be70bdb4674d31e1be44ae0082c10b]
+### 2. Notice of intent[^c-64be70bdb4674d31e1be44ae0082c10b]
 
 (1) Where a regulator proposes to impose a requirement under this Schedule on a person, the regulator must serve on that person a notice of what is proposed (a “notice of intent”).
 
@@ -376,17 +376,17 @@ the amount of the variable monetary penalty may not exceed the maximum amount (i
   - (i) the right to make representations and objections within 28 days beginning with the day on which the notice of intent was received;
   - (ii) the circumstances in which the regulator may not impose the penalty (including any defences relating to the offence in relation to which the notice is served).
 
-### 3. Making representations and objections[^key-2f8ef5ea96b68fdf2798e2200be6ea06]
+### 3. Making representations and objections[^c-2f8ef5ea96b68fdf2798e2200be6ea06]
 
 A person on whom a notice of intent is served may within 28 days beginning with the day on which the notice was received make written representations and objections to the regulator in relation to the proposed imposition of a variable monetary penalty, restoration notice or compliance notice.
 
-### 4. Third party undertakings[^key-a40776226876f6220aba26148d0aad58]
+### 4. Third party undertakings[^c-a40776226876f6220aba26148d0aad58]
 
 (1) A person on whom a notice of intent is served may offer an undertaking as to action to be taken by that person (including the payment of a sum of money) to benefit any person affected by the offence (“a third party undertaking”).
 
 (2) The regulator may accept or reject such a third party undertaking.
 
-### 5. Final notice[^key-351f9bf1c985b49724aa049fe9c95170]
+### 5. Final notice[^c-351f9bf1c985b49724aa049fe9c95170]
 
 (1) After the end of the period for making representations and objections, the regulator must decide whether to—
 
@@ -399,7 +399,7 @@ A person on whom a notice of intent is served may within 28 days beginning with 
 
 (4) The regulator may not impose a final notice on a person where the regulator is satisfied that the person would not, by reason of any defence, be liable to be convicted of the offence to which the notice relates.
 
-### 6. Contents of final notice — variable monetary penalty[^key-4ab1e65cfb0103f7bbf1d032e057f793]
+### 6. Contents of final notice — variable monetary penalty[^c-4ab1e65cfb0103f7bbf1d032e057f793]
 
 A final notice for a variable monetary penalty must include information as to—
 
@@ -410,7 +410,7 @@ A final notice for a variable monetary penalty must include information as to—
 - (e) rights of appeal; and
 - (f) the consequences of failing to comply with the notice.
 
-### 7. Contents of final notice — compliance notice or restoration notice[^key-cc58c0e294ba028d5e3bc3e4912905a4]
+### 7. Contents of final notice — compliance notice or restoration notice[^c-cc58c0e294ba028d5e3bc3e4912905a4]
 
 A final notice relating to a compliance notice or restoration notice must include information as to—
 
@@ -419,7 +419,7 @@ A final notice relating to a compliance notice or restoration notice must includ
 - (c) the rights of appeal; and
 - (d) the consequences of failing to comply with the notice.
 
-### 8. Appeals against a final notice[^key-8093271e09041c824e67d06a3a75b75f]
+### 8. Appeals against a final notice[^c-8093271e09041c824e67d06a3a75b75f]
 
 (1) The person receiving the final notice may appeal against it.
 
@@ -432,7 +432,7 @@ A final notice relating to a compliance notice or restoration notice must includ
 - (e) that the decision was unreasonable for any other reason;
 - (f) any other similar reason.
 
-### 9. Criminal proceedings[^key-811c75304f8e7ca2674ca3ced8901fb4]
+### 9. Criminal proceedings[^c-811c75304f8e7ca2674ca3ced8901fb4]
 
 (1) If—
 
@@ -453,7 +453,7 @@ that person may not at any time be convicted of the offence in respect of the ac
 
 Article 3
 
-### 1. Stop notices[^key-9ef9e38d8d817c5512d89cdf61e773d5]
+### 1. Stop notices[^c-9ef9e38d8d817c5512d89cdf61e773d5]
 
 (1) The regulator may serve a stop notice on any person in accordance with this Schedule in relation to an offence under a provision specified in Schedule 5 if the table in that Schedule indicates that such notice is possible for that offence.
 
@@ -476,7 +476,7 @@ Article 3
 - (a) human health,
 - (b) the environment (including the health of animals and plants).
 
-### 2. Contents of a stop notice[^key-826209ef7e7224c16b5f59dd0b2e9db0]
+### 2. Contents of a stop notice[^c-826209ef7e7224c16b5f59dd0b2e9db0]
 
 A stop notice must include information as to—
 
@@ -485,7 +485,7 @@ A stop notice must include information as to—
 - (c) rights of appeal; and
 - (d) the consequences of non-compliance.
 
-### 3. Appeals[^key-b092858917bcc4d5699549fe3fbcb4ca]
+### 3. Appeals[^c-b092858917bcc4d5699549fe3fbcb4ca]
 
 (1) The person on whom a stop notice is served may appeal against the decision to serve it.
 
@@ -499,7 +499,7 @@ A stop notice must include information as to—
 - (f) that the person would not, by reason of any defence, have been liable to be convicted of the offence had the stop notice not been served;
 - (g) any other similar reason.
 
-### 4. Completion certificates[^key-6ab18eacda59c17404c23c6b167a2be7]
+### 4. Completion certificates[^c-6ab18eacda59c17404c23c6b167a2be7]
 
 (1) Where, after service of a stop notice, the regulator is satisfied that the person has taken the steps specified in the notice, the regulator must issue a certificate to that effect (a “completion certificate”).
 
@@ -516,7 +516,7 @@ A stop notice must include information as to—
 - (c) the decision was unfair or unreasonable;
 - (d) the decision was wrong for any other similar reason.
 
-### 5. Compensation[^key-50304b4c73c85f7c2e5b700035dc3cb2]
+### 5. Compensation[^c-50304b4c73c85f7c2e5b700035dc3cb2]
 
 (1) A regulator must compensate a person for loss suffered as the result of the service of a stop notice or a refusal to issue a completion certificate if that person has suffered loss as a result of the notice or refusal and—
 
@@ -530,24 +530,24 @@ A stop notice must include information as to—
 - (b) on the grounds that the amount offered was based on incorrect facts;
 - (c) for any other similar reason.
 
-### 6. Offences[^key-962fe234768290901a869257ba3b385d]
+### 6. Offences[^c-962fe234768290901a869257ba3b385d]
 
 (1) Where a person to whom a stop notice is issued does not comply with it within the time limit specified in the notice, the person is guilty of an offence and liable—
 
 - (a) on summary conviction, to a fine[^M_F_8a7fa319-262d-4e32-9831-4cd72ebe583f], or imprisonment for a term not exceeding the general limit in a magistrates’ court[^M_F_5bb38203-8977-41cd-c2d1-d75ed6e482f3], or both, or
 - (b) on conviction on indictment, to imprisonment for a term not exceeding two years, or a fine, or both.
 
-(2) In the application of this paragraph in relation to an offence committed before the commencement of paragraph 24(2) of Schedule 22 to the Sentencing Act 2020[^key-e3cd1a063f6d1f5fb6f5f66479704170] the reference in sub-paragraph (1)(a) to the general limit in a magistrates’ court[^M_F_0b11ff4e-53eb-439e-a28b-65473956e4f3] is to be read as a reference to six months.
+(2) In the application of this paragraph in relation to an offence committed before the commencement of paragraph 24(2) of Schedule 22 to the Sentencing Act 2020[^c-e3cd1a063f6d1f5fb6f5f66479704170] the reference in sub-paragraph (1)(a) to the general limit in a magistrates’ court[^M_F_0b11ff4e-53eb-439e-a28b-65473956e4f3] is to be read as a reference to six months.
 
 ## SCHEDULE 4 — Enforcement undertakings
 
 Article 3
 
-### 1. Enforcement undertakings[^key-bc23c97a17535acf2447767442cabfc3]
+### 1. Enforcement undertakings[^c-bc23c97a17535acf2447767442cabfc3]
 
 A regulator may accept an enforcement undertaking from a person in a case where the regulator has reasonable grounds to suspect that the person has committed an offence under a provision specified in Schedule 5 and the table in that Schedule indicates that an enforcement undertaking may be accepted in relation to that offence.
 
-### 2. Form and content of an enforcement undertaking[^key-f4514e5185096977bd01da044b4aaaa0]
+### 2. Form and content of an enforcement undertaking[^c-f4514e5185096977bd01da044b4aaaa0]
 
 (1) An enforcement undertaking must be in writing and must specify—
 
@@ -566,14 +566,14 @@ A regulator may accept an enforcement undertaking from a person in a case where 
 
 (4) The enforcement undertaking may be varied, or the period within which the action must be completed may be extended, if both parties agree in writing.
 
-### 3. Acceptance of an enforcement undertaking[^key-2a6898aa8da4ae3c22afd83bbb8dd785]
+### 3. Acceptance of an enforcement undertaking[^c-2a6898aa8da4ae3c22afd83bbb8dd785]
 
 If a regulator has accepted an enforcement undertaking then, unless the person from whom the undertaking is accepted has failed to comply with the undertaking or any part of it—
 
 - (a) that person may not at any time be convicted of the offence in respect of the act or omission to which the undertaking relates;
 - (b) the regulator may not impose on that person any fixed monetary penalty, variable monetary penalty, compliance notice or restoration notice in respect of that act or omission.
 
-### 4. General provisions on enforcement undertakings[^key-bf695edf9687c2fb1cb1a71368b7e8c3]
+### 4. General provisions on enforcement undertakings[^c-bf695edf9687c2fb1cb1a71368b7e8c3]
 
 (1) A regulator must establish and publish the procedure for entering into an enforcement undertaking.
 
@@ -581,7 +581,7 @@ If a regulator has accepted an enforcement undertaking then, unless the person f
 
 (3) When it accepts an undertaking the regulator may publish it in whatever manner it sees fit.
 
-### 5. Discharge of an enforcement undertaking[^key-0951d0dd4777eb676ca07296ad55746d]
+### 5. Discharge of an enforcement undertaking[^c-0951d0dd4777eb676ca07296ad55746d]
 
 (1) A regulator who is satisfied that an enforcement undertaking has been complied with must issue a certificate to that effect.
 
@@ -598,13 +598,13 @@ If a regulator has accepted an enforcement undertaking then, unless the person f
 - (c) was unfair or unreasonable;
 - (d) was wrong for any other similar reason.
 
-### 6. Inaccurate, incomplete or misleading information[^key-131e732048399ed94f53f4b054b735ce]
+### 6. Inaccurate, incomplete or misleading information[^c-131e732048399ed94f53f4b054b735ce]
 
 (1) A person who has given inaccurate, misleading or incomplete information in relation to an enforcement undertaking is regarded as not having complied with it.
 
 (2) A regulator may by notice in writing revoke a certificate issued under paragraph 5 if it was issued on the basis of inaccurate, incomplete or misleading information.
 
-### 7. Non-compliance with an enforcement undertaking[^key-3f5a534fa603e7eaad8471f0266fc416]
+### 7. Non-compliance with an enforcement undertaking[^c-3f5a534fa603e7eaad8471f0266fc416]
 
 (1) If an enforcement undertaking is not complied with the regulator may either—
 
@@ -617,11 +617,11 @@ in respect of the relevant offence.
 
 (3) Criminal proceedings for offences triable summarily to which an enforcement undertaking relates may be instituted at any time up to six months from the date when the regulator notifies the person that such person has failed to comply with that undertaking.
 
-## SCHEDULE 5 — Offences[^key-4d32a751d1fef6c68c05f7d9c5932c16]
+## SCHEDULE 5 — Offences[^c-4d32a751d1fef6c68c05f7d9c5932c16]
 
 Article 4
 
-[^key-4d32a751d1fef6c68c05f7d9c5932c16]
+[^c-4d32a751d1fef6c68c05f7d9c5932c16]
 
 In the following table—
 
@@ -711,113 +711,113 @@ An impact assessment has been prepared for this Order. A copy can be obtained fr
 
 [^f00001]: Footnote: [2008 c. 13](https://www.legislation.gov.uk/ukpga/2008/13); *see* section 71(1) for the definition of “prescribed”, and section 74 for the definition of “Welsh ministerial matter”.
 
-[^key-07480247634d25cd6191452ea0f7b1fd]: Modification: Order applied (with effect in accordance with reg. 1(4)(5) of the amending S.I.) by [The Water Resources (Control of Pollution) (Oil Storage) (Wales) Regulations 2016 (S.I. 2016/359)](https://www.legislation.gov.uk/uksi/2016/359), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/359/regulation/1/3), [10(3)](https://www.legislation.gov.uk/uksi/2016/359/regulation/10/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/359/regulation/3))
+[^c-07480247634d25cd6191452ea0f7b1fd]: Modification: Order applied (with effect in accordance with reg. 1(4)(5) of the amending S.I.) by [The Water Resources (Control of Pollution) (Oil Storage) (Wales) Regulations 2016 (S.I. 2016/359)](https://www.legislation.gov.uk/uksi/2016/359), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/359/regulation/1/3), [10(3)](https://www.legislation.gov.uk/uksi/2016/359/regulation/10/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/359/regulation/3))
 
-[^key-bf16047c94dc762c955e8f47fcac6cd1]: Commencement: Art. 1 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-bf16047c94dc762c955e8f47fcac6cd1]: Commencement: Art. 1 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-5d5f796fffd2e426715fe6af5cf21f32]: Commencement: Art. 2 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-5d5f796fffd2e426715fe6af5cf21f32]: Commencement: Art. 2 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-7d2f18d498b1ee21101476be7c05008f]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2010/1821/article/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 60](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/60) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-7d2f18d498b1ee21101476be7c05008f]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2010/1821/article/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 60](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/60) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-26a88c5afecf4afd6622cf959fa9bcc5]: Commencement: Art. 3 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-26a88c5afecf4afd6622cf959fa9bcc5]: Commencement: Art. 3 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-b08eabd3a3057bce164451d66ee92468]: Commencement: Art. 4 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-b08eabd3a3057bce164451d66ee92468]: Commencement: Art. 4 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-b187f0b3d35723d8da16ab9f6fe1c1d8]: Commencement: Art. 5 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-b187f0b3d35723d8da16ab9f6fe1c1d8]: Commencement: Art. 5 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-a2e15e0d12edb8663e622aedfe3602af]: Commencement: Art. 6 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-a2e15e0d12edb8663e622aedfe3602af]: Commencement: Art. 6 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-44fd7eaeaca76fe9ccd21a9c654e1c18]: Commencement: Art. 7 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-44fd7eaeaca76fe9ccd21a9c654e1c18]: Commencement: Art. 7 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-d85bda6e4722b7a79c7acfff5968c59d]: Commencement: Art. 8 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-d85bda6e4722b7a79c7acfff5968c59d]: Commencement: Art. 8 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-92b33985da4d92f5c4d5134f3b74f77a]: Commencement: Art. 9 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-92b33985da4d92f5c4d5134f3b74f77a]: Commencement: Art. 9 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-23fd447bc741831515382a303928b5ba]: Commencement: Art. 10 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-23fd447bc741831515382a303928b5ba]: Commencement: Art. 10 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-bba0c78306863346937cbe8ea41f9327]: Commencement: Art. 11 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-bba0c78306863346937cbe8ea41f9327]: Commencement: Art. 11 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-349ef95f54dde4a6d5b8fb7deea8ce31]: Commencement: Art. 12 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-349ef95f54dde4a6d5b8fb7deea8ce31]: Commencement: Art. 12 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-d7289f34f219a50113b99ff60880d7c0]: Commencement: Art. 13 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-d7289f34f219a50113b99ff60880d7c0]: Commencement: Art. 13 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-4b1e606c2cfe3d73574134d849f4b81a]: Commencement: Art. 14 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-4b1e606c2cfe3d73574134d849f4b81a]: Commencement: Art. 14 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-35476e7b99f7cd42b504593bb5dd6590]: Commencement: Sch. 1 para. 1 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-35476e7b99f7cd42b504593bb5dd6590]: Commencement: Sch. 1 para. 1 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-38b60eb4a3c79c52569c6996061343b4]: Commencement: Sch. 1 para. 2 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-38b60eb4a3c79c52569c6996061343b4]: Commencement: Sch. 1 para. 2 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-b248aeffaf4a2e7bbc78230b39e262d2]: Commencement: Sch. 1 para. 3 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-b248aeffaf4a2e7bbc78230b39e262d2]: Commencement: Sch. 1 para. 3 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-f9e88dbc6d5386c817c935cee6a42515]: Commencement: Sch. 1 para. 4 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-f9e88dbc6d5386c817c935cee6a42515]: Commencement: Sch. 1 para. 4 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-924afc84882565291d0a6ccbcb57679a]: Commencement: Sch. 1 para. 5 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-924afc84882565291d0a6ccbcb57679a]: Commencement: Sch. 1 para. 5 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-92d585e9feee619de22875fa958007ad]: Commencement: Sch. 1 para. 6 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-92d585e9feee619de22875fa958007ad]: Commencement: Sch. 1 para. 6 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-58742455980d4a0dfdab1a14730e0adc]: Commencement: Sch. 1 para. 7 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-58742455980d4a0dfdab1a14730e0adc]: Commencement: Sch. 1 para. 7 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-44348832047cc70ea841f7ccb8c5fc3a]: Commencement: Sch. 1 para. 8 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-44348832047cc70ea841f7ccb8c5fc3a]: Commencement: Sch. 1 para. 8 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-c8127a20a77a07d2f937258e5c5523dc]: Commencement: Sch. 1 para. 9 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-c8127a20a77a07d2f937258e5c5523dc]: Commencement: Sch. 1 para. 9 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-30e9e69f66fc9b2780d25e9da6e7f82f]: Commencement: Sch. 1 para. 10 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-30e9e69f66fc9b2780d25e9da6e7f82f]: Commencement: Sch. 1 para. 10 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-f98d82e31d63ca4edf1e497a322b792f]: Commencement: Sch. 2 para. 1 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-f98d82e31d63ca4edf1e497a322b792f]: Commencement: Sch. 2 para. 1 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
 [^M_F_34bb2c88-be19-4570-f2df-be59eb44242e]: Textual amendment: Words in Sch. 2 para. 1(4) inserted (12.3.2015) by The Legal Aid, Sentencing and Punishment of Offenders 2012 (Fines on Summary Conviction) Regulations ([S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664)), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1), [Sch. 5 para. 20](https://www.legislation.gov.uk/uksi/2015/664/schedule/5/paragraph/20) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5))
 
-[^key-64be70bdb4674d31e1be44ae0082c10b]: Commencement: Sch. 2 para. 2 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-64be70bdb4674d31e1be44ae0082c10b]: Commencement: Sch. 2 para. 2 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-2f8ef5ea96b68fdf2798e2200be6ea06]: Commencement: Sch. 2 para. 3 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-2f8ef5ea96b68fdf2798e2200be6ea06]: Commencement: Sch. 2 para. 3 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-a40776226876f6220aba26148d0aad58]: Commencement: Sch. 2 para. 4 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-a40776226876f6220aba26148d0aad58]: Commencement: Sch. 2 para. 4 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-351f9bf1c985b49724aa049fe9c95170]: Commencement: Sch. 2 para. 5 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-351f9bf1c985b49724aa049fe9c95170]: Commencement: Sch. 2 para. 5 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-4ab1e65cfb0103f7bbf1d032e057f793]: Commencement: Sch. 2 para. 6 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-4ab1e65cfb0103f7bbf1d032e057f793]: Commencement: Sch. 2 para. 6 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-cc58c0e294ba028d5e3bc3e4912905a4]: Commencement: Sch. 2 para. 7 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-cc58c0e294ba028d5e3bc3e4912905a4]: Commencement: Sch. 2 para. 7 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-8093271e09041c824e67d06a3a75b75f]: Commencement: Sch. 2 para. 8 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-8093271e09041c824e67d06a3a75b75f]: Commencement: Sch. 2 para. 8 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-811c75304f8e7ca2674ca3ced8901fb4]: Commencement: Sch. 2 para. 9 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-811c75304f8e7ca2674ca3ced8901fb4]: Commencement: Sch. 2 para. 9 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-9ef9e38d8d817c5512d89cdf61e773d5]: Commencement: Sch. 3 para. 1 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-9ef9e38d8d817c5512d89cdf61e773d5]: Commencement: Sch. 3 para. 1 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-826209ef7e7224c16b5f59dd0b2e9db0]: Commencement: Sch. 3 para. 2 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-826209ef7e7224c16b5f59dd0b2e9db0]: Commencement: Sch. 3 para. 2 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-b092858917bcc4d5699549fe3fbcb4ca]: Commencement: Sch. 3 para. 3 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-b092858917bcc4d5699549fe3fbcb4ca]: Commencement: Sch. 3 para. 3 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-6ab18eacda59c17404c23c6b167a2be7]: Commencement: Sch. 3 para. 4 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-6ab18eacda59c17404c23c6b167a2be7]: Commencement: Sch. 3 para. 4 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-50304b4c73c85f7c2e5b700035dc3cb2]: Commencement: Sch. 3 para. 5 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-50304b4c73c85f7c2e5b700035dc3cb2]: Commencement: Sch. 3 para. 5 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-962fe234768290901a869257ba3b385d]: Commencement: Sch. 3 para. 6 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-962fe234768290901a869257ba3b385d]: Commencement: Sch. 3 para. 6 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
 [^M_F_8a7fa319-262d-4e32-9831-4cd72ebe583f]: Textual amendment: Words in Sch. 3 para. 6(1)(a) substituted (12.3.2015) by The Legal Aid, Sentencing and Punishment of Offenders 2012 (Fines on Summary Conviction) Regulations ([S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664)), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1), [Sch. 4 para. 83](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/83) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5))
 
 [^M_F_5bb38203-8977-41cd-c2d1-d75ed6e482f3]: Textual amendment: Words in Sch. 3 para. 6(1)(a) substituted (7.2.2023) by virtue of [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2015/664/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/664/schedule/part/2)
 
-[^key-e3cd1a063f6d1f5fb6f5f66479704170]: Textual amendment: Words in [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/wsi/2010/1821/schedule/3/paragraph/6/2) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 446(1)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/446/1) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e3cd1a063f6d1f5fb6f5f66479704170]: Textual amendment: Words in [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/wsi/2010/1821/schedule/3/paragraph/6/2) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 446(1)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/446/1) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^M_F_0b11ff4e-53eb-439e-a28b-65473956e4f3]: Textual amendment: Words in Sch. 3 para. 6(2) substituted (7.2.2023) by virtue of [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
 
-[^key-bc23c97a17535acf2447767442cabfc3]: Commencement: Sch. 4 para. 1 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-bc23c97a17535acf2447767442cabfc3]: Commencement: Sch. 4 para. 1 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-f4514e5185096977bd01da044b4aaaa0]: Commencement: Sch. 4 para. 2 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-f4514e5185096977bd01da044b4aaaa0]: Commencement: Sch. 4 para. 2 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-2a6898aa8da4ae3c22afd83bbb8dd785]: Commencement: Sch. 4 para. 3 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-2a6898aa8da4ae3c22afd83bbb8dd785]: Commencement: Sch. 4 para. 3 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-bf695edf9687c2fb1cb1a71368b7e8c3]: Commencement: Sch. 4 para. 4 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-bf695edf9687c2fb1cb1a71368b7e8c3]: Commencement: Sch. 4 para. 4 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-0951d0dd4777eb676ca07296ad55746d]: Commencement: Sch. 4 para. 5 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-0951d0dd4777eb676ca07296ad55746d]: Commencement: Sch. 4 para. 5 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-131e732048399ed94f53f4b054b735ce]: Commencement: Sch. 4 para. 6 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-131e732048399ed94f53f4b054b735ce]: Commencement: Sch. 4 para. 6 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-3f5a534fa603e7eaad8471f0266fc416]: Commencement: Sch. 4 para. 7 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-3f5a534fa603e7eaad8471f0266fc416]: Commencement: Sch. 4 para. 7 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
-[^key-4d32a751d1fef6c68c05f7d9c5932c16]: Commencement: Sch. 5 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
+[^c-4d32a751d1fef6c68c05f7d9c5932c16]: Commencement: Sch. 5 in force at 15.7.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/1821/article/1)
 
 [^f00003]: Footnote: [1975 c. 51](https://www.legislation.gov.uk/ukpga/1975/51); section 2(1) was amended by the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), section 216(1), (2)(a) and (b); section 2(2) was amended by the Marine and Coastal Access Act 2009, section 216(1), (3)(a) and (b); section 4(1) was amended by the Marine and Coastal Access Act 2009, section 321, Schedule 22, Part 5 (B); section 14(8) was substituted by the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), section 105, Schedule 15, paragraph 13; section 15(2) was amended by the Environment Act 1995, section 105, Schedule 15, paragraph 14(2); section 27 was amended by the Marine and Coastal Access Act 2009, section 233(1), Schedule 16, paragraphs 1 and 11.
 

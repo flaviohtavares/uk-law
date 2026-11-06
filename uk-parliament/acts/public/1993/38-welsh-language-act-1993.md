@@ -33,29 +33,29 @@ Welsh Language Act 1993
 
 \[21st October 1993\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-20d2536a146bc0c50ee58399fa5e0e5a]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-20d2536a146bc0c50ee58399fa5e0e5a]
 
 ## Part I — THE BOARD
 
-### 1. Establishment of the Board.[^key-537b3b9d744494d7ec2e5529de7915d0]
+### 1. Establishment of the Board.[^c-537b3b9d744494d7ec2e5529de7915d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Membership of the Board.[^key-7c7fc8638a56e116a2277d006df540c2]
+### 2. Membership of the Board.[^c-7c7fc8638a56e116a2277d006df540c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Functions of the Board.[^key-0cdb62436efc997dc460df601e6de465][^key-3583dc127700a4cc30493bd7598c837a][^key-094550b31865820f9ab1e2fba5bf8fb1][^key-bcb30bdee7fdbf106d7ce0155218e8f9]
+### 3. Functions of the Board.[^c-0cdb62436efc997dc460df601e6de465][^c-3583dc127700a4cc30493bd7598c837a][^c-094550b31865820f9ab1e2fba5bf8fb1][^c-bcb30bdee7fdbf106d7ce0155218e8f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 4. Supplementary provisions about the Board.
 
-(1)[^key-11e83822c7ca4362a851c7edfc5aeb8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-11e83822c7ca4362a851c7edfc5aeb8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-84dea36f2e81a90da8572c17d9d3c9b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-84dea36f2e81a90da8572c17d9d3c9b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part II — WELSH LANGUAGE SCHEME[^key-897a0b3933dbf33ac07593e7390cdbbe][^key-0de2dbcc4c802d3b652a21d7882364ff][^key-2e4115f57b1ad76908b29d15373a2bf1]
+## Part II — WELSH LANGUAGE SCHEME[^c-897a0b3933dbf33ac07593e7390cdbbe][^c-0de2dbcc4c802d3b652a21d7882364ff][^c-2e4115f57b1ad76908b29d15373a2bf1]
 
 ### Duty to prepare schemes
 
@@ -82,7 +82,7 @@ shall prepare a scheme specifying the measures which it proposes to take, for th
 - (b) a joint committee of two or more bodies within paragraph (a) above;
 - (c) a joint board of which the members are two or more bodies within paragraph (a) above;
 - (ca)[^c268211] a National Park authority;
-- (d)[^key-25b1e50ff62e54531ca8f08261f2d8d0] a police and crime commissioner;
+- (d)[^c-25b1e50ff62e54531ca8f08261f2d8d0] a police and crime commissioner;
 - (e)[^c2021549] a fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies;
 - (f)[^c268213] [^c2022374]. . . a Special Health Authority established under section 28 of the National Health Service Act 2006 or section 22 of the National Health Service (Wales) Act 2006[^c2021662] ;
 - (ff)[^c444785] a Local Health Board established under section 11 of the National Health Service (Wales) Act 2006[^c2021663] ;
@@ -91,7 +91,7 @@ shall prepare a scheme specifying the measures which it proposes to take, for th
 - (i) a Community Health Council established under section 182 of the National Health Service (Wales) Act 2006[^c2021665][^c2021541] ;
 - (ia)[^c2021565] the Wales Centre for Health;
 - (j) [^c2021580]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (k)[^key-77ebe971f27927759e1383f150f8a58d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^c-77ebe971f27927759e1383f150f8a58d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (l)[^c268218] the governing body of a community, foundation or voluntary school or a community or foundation special school (within the meaning of the School Standards and Framework Act 1998);
 - (m) a further education corporation established under section 15 or 16 of the [^c268219]Further and Higher Education Act 1992;
 - (n) a higher education corporation established under section 121 or 122 of the [^c268220]Education Reform Act 1988;
@@ -104,7 +104,7 @@ shall prepare a scheme specifying the measures which it proposes to take, for th
 
 (2) The power to make an order under this section shall be exercisable by statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-#### 6. Meaning of “public body”.[^key-2e4115f57b1ad76908b29d15373a2bf1]
+#### 6. Meaning of “public body”.[^c-2e4115f57b1ad76908b29d15373a2bf1]
 
 *Extent: S+N.I.*
 
@@ -335,7 +335,7 @@ in accordance with such scales and subject to such conditions as may be determin
 
 ### Statutory names, forms etc
 
-#### 25. Powers to give Welsh names to statutory bodies etc.[^key-d23c8b5acc3539bfedc6848c666aa0a8]
+#### 25. Powers to give Welsh names to statutory bodies etc.[^c-d23c8b5acc3539bfedc6848c666aa0a8]
 
 (1) Where a name is conferred by an Act of Parliament on any body, office or place, the appropriate Minister may by order confer on the body, office or place an alternative name in Welsh.
 
@@ -343,7 +343,7 @@ in accordance with such scales and subject to such conditions as may be determin
 
 (3)[^c268222] Subsection (1) above does not apply in relation to a name conferred on any area or local authority by the [^c268223]Local Government Act 1972.
 
-#### 26. Powers to prescribe Welsh forms.[^c444790][^key-950e9e42f67b187cc3a87a765626ebf8][^key-870834b2dd6dd7fb16f5838221dda926][^key-ec3c4199dcaa13dca5f1b9bcd695a584]
+#### 26. Powers to prescribe Welsh forms.[^c444790][^c-950e9e42f67b187cc3a87a765626ebf8][^c-870834b2dd6dd7fb16f5838221dda926][^c-ec3c4199dcaa13dca5f1b9bcd695a584]
 
 (1) This section applies where an Act of Parliament specifies, or confers power to specify,—
 
@@ -352,7 +352,7 @@ in accordance with such scales and subject to such conditions as may be determin
 
 which is to be or may be used for an official or public purpose or for any other purpose where the consequences in law of any act depend on the form used.
 
-(2)[^key-9b3aad43c966e45293b46d9fc950caaf] Where the Act itself specifies the form of the document or the form of words, the appropriate Minister may by order prescribe—
+(2)[^c-9b3aad43c966e45293b46d9fc950caaf] Where the Act itself specifies the form of the document or the form of words, the appropriate Minister may by order prescribe—
 
 - (a) a form of the document in Welsh, or partly in Welsh and partly in English or, as the case may be,
 - (b) a form of words in Welsh,
@@ -393,7 +393,7 @@ shall apply in relation to both versions.
 
 (5) Any question arising under paragraphs (a) and (b) of subsection (4) above shall be determined by the Treasury; and in that subsection “**Minister**” includes the Treasury, the Commissioners of Customs and Excise and the Commissioners of Inland Revenue.
 
-#### 28. Industrial and provident societies.[^key-a4b9fff50c793e4fdb4e8152955e0114]
+#### 28. Industrial and provident societies.[^c-a4b9fff50c793e4fdb4e8152955e0114]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -417,11 +417,11 @@ In section 351 of the [^c268228]Companies Act 1985, subsections (3) and (4) (whi
 
 ### Charities
 
-#### 32. Registered charities.[^key-4d58e4475e6eb90ecf4dea5525247abc]
+#### 32. Registered charities.[^c-4d58e4475e6eb90ecf4dea5525247abc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 33. Statement of charitable status.[^key-4d58e4475e6eb90ecf4dea5525247abc]
+#### 33. Statement of charitable status.[^c-4d58e4475e6eb90ecf4dea5525247abc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -429,11 +429,11 @@ In section 351 of the [^c268228]Companies Act 1985, subsections (3) and (4) (whi
 
 #### 34. Notices.
 
-(1)[^key-5419e79373b18f644839ade6c1487987] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-5419e79373b18f644839ade6c1487987] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-7f9b44b06fcc9f880e72ee964e8631af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7f9b44b06fcc9f880e72ee964e8631af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-831657100f80b6d25a430dbac42bf160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-831657100f80b6d25a430dbac42bf160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 35. Repeals and consequential amendments.[^c268230]
 
@@ -465,79 +465,79 @@ This Act may be cited as the Welsh Language Act 1993.
 
 SCHEDULES
 
-## SCHEDULE 1 — THE BOARD[^key-45c2d4a5b79c918148eead8621997724]
+## SCHEDULE 1 — THE BOARD[^c-45c2d4a5b79c918148eead8621997724]
 
 Section 4.
 
-### Members[^key-45c2d4a5b79c918148eead8621997724]
+### Members[^c-45c2d4a5b79c918148eead8621997724]
 
 **No longer in force.**
 
-**1.**[^key-45c2d4a5b79c918148eead8621997724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-45c2d4a5b79c918148eead8621997724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-45c2d4a5b79c918148eead8621997724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-45c2d4a5b79c918148eead8621997724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Remuneration of members[^key-45c2d4a5b79c918148eead8621997724]
-
-**No longer in force.**
-
-**3.**[^key-45c2d4a5b79c918148eead8621997724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Parliamentary disqualification[^key-45c2d4a5b79c918148eead8621997724]
+### Remuneration of members[^c-45c2d4a5b79c918148eead8621997724]
 
 **No longer in force.**
 
-**4.**[^key-45c2d4a5b79c918148eead8621997724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-45c2d4a5b79c918148eead8621997724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Parliamentary Commissioner[^key-45c2d4a5b79c918148eead8621997724]
-
-**No longer in force.**
-
-**5.**[^key-45c2d4a5b79c918148eead8621997724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Procedure[^key-45c2d4a5b79c918148eead8621997724]
+### Parliamentary disqualification[^c-45c2d4a5b79c918148eead8621997724]
 
 **No longer in force.**
 
-**6.**[^key-45c2d4a5b79c918148eead8621997724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-45c2d4a5b79c918148eead8621997724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Evidence[^key-45c2d4a5b79c918148eead8621997724]
-
-**No longer in force.**
-
-**7.**[^key-45c2d4a5b79c918148eead8621997724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Staff[^key-45c2d4a5b79c918148eead8621997724]
+### Parliamentary Commissioner[^c-45c2d4a5b79c918148eead8621997724]
 
 **No longer in force.**
 
-**8.**[^key-45c2d4a5b79c918148eead8621997724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-45c2d4a5b79c918148eead8621997724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-45c2d4a5b79c918148eead8621997724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Status[^key-45c2d4a5b79c918148eead8621997724]
+### Procedure[^c-45c2d4a5b79c918148eead8621997724]
 
 **No longer in force.**
 
-**10.**[^key-45c2d4a5b79c918148eead8621997724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-45c2d4a5b79c918148eead8621997724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Expenses[^key-45c2d4a5b79c918148eead8621997724]
-
-**No longer in force.**
-
-**11.**[^key-45c2d4a5b79c918148eead8621997724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Accounts[^key-45c2d4a5b79c918148eead8621997724]
+### Evidence[^c-45c2d4a5b79c918148eead8621997724]
 
 **No longer in force.**
 
-**12.**[^key-45c2d4a5b79c918148eead8621997724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-45c2d4a5b79c918148eead8621997724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Annual reports[^key-45c2d4a5b79c918148eead8621997724]
+### Staff[^c-45c2d4a5b79c918148eead8621997724]
 
 **No longer in force.**
 
-**13.**[^key-45c2d4a5b79c918148eead8621997724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-45c2d4a5b79c918148eead8621997724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^c-45c2d4a5b79c918148eead8621997724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Status[^c-45c2d4a5b79c918148eead8621997724]
+
+**No longer in force.**
+
+**10.**[^c-45c2d4a5b79c918148eead8621997724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Expenses[^c-45c2d4a5b79c918148eead8621997724]
+
+**No longer in force.**
+
+**11.**[^c-45c2d4a5b79c918148eead8621997724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Accounts[^c-45c2d4a5b79c918148eead8621997724]
+
+**No longer in force.**
+
+**12.**[^c-45c2d4a5b79c918148eead8621997724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Annual reports[^c-45c2d4a5b79c918148eead8621997724]
+
+**No longer in force.**
+
+**13.**[^c-45c2d4a5b79c918148eead8621997724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — Repeals[^c268241]
 
@@ -563,29 +563,29 @@ Section 35.
 
 [^c2022372]: Modification: Act modified (30.5.2007) by [The National Assembly for Wales Commission (Crown Status) (No. 2) Order 2007 (S.I. 2007/1353)](https://www.legislation.gov.uk/uksi/2007/1353), [art. 6(1)](https://www.legislation.gov.uk/uksi/2007/1353/article/6/1)
 
-[^key-20d2536a146bc0c50ee58399fa5e0e5a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1993/38) modified (1.4.2012) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [s. 156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2), [Sch. 12 para. 4](https://www.legislation.gov.uk/mwa/2011/1/schedule/12/paragraph/4); [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/969/article/2/b)
+[^c-20d2536a146bc0c50ee58399fa5e0e5a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1993/38) modified (1.4.2012) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [s. 156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2), [Sch. 12 para. 4](https://www.legislation.gov.uk/mwa/2011/1/schedule/12/paragraph/4); [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/969/article/2/b)
 
-[^key-537b3b9d744494d7ec2e5529de7915d0]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1993/38/section/1) repealed (1.4.2012) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [ss. 143(5)(a)](https://www.legislation.gov.uk/mwa/2011/1/section/143/5/a), [156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2); [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(p)](https://www.legislation.gov.uk/wsi/2012/969/article/2/p)
+[^c-537b3b9d744494d7ec2e5529de7915d0]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1993/38/section/1) repealed (1.4.2012) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [ss. 143(5)(a)](https://www.legislation.gov.uk/mwa/2011/1/section/143/5/a), [156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2); [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(p)](https://www.legislation.gov.uk/wsi/2012/969/article/2/p)
 
-[^key-7c7fc8638a56e116a2277d006df540c2]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1993/38/section/2) repealed (1.4.2012) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [ss. 143(5)(b)](https://www.legislation.gov.uk/mwa/2011/1/section/143/5/b), [156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2); [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(p)](https://www.legislation.gov.uk/wsi/2012/969/article/2/p)
+[^c-7c7fc8638a56e116a2277d006df540c2]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1993/38/section/2) repealed (1.4.2012) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [ss. 143(5)(b)](https://www.legislation.gov.uk/mwa/2011/1/section/143/5/b), [156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2); [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(p)](https://www.legislation.gov.uk/wsi/2012/969/article/2/p)
 
-[^key-0cdb62436efc997dc460df601e6de465]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1993/38/section/3) repealed (1.6.2012 , 6.7.2015 for S.N.I. in so far as not already in force, 7.7.2015 for E.W. in so far as not already in force) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [ss. 144(3)(a)](https://www.legislation.gov.uk/mwa/2011/1/section/144/3/a), [156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2); [S.I. 2012/1423](https://www.legislation.gov.uk/wsi/2012/1423), [art. 2(c)](https://www.legislation.gov.uk/wsi/2012/1423/article/2/c); [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [arts. 2(a)](https://www.legislation.gov.uk/wsi/2015/1413/article/2/a), [3(e)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/e)
+[^c-0cdb62436efc997dc460df601e6de465]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1993/38/section/3) repealed (1.6.2012 , 6.7.2015 for S.N.I. in so far as not already in force, 7.7.2015 for E.W. in so far as not already in force) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [ss. 144(3)(a)](https://www.legislation.gov.uk/mwa/2011/1/section/144/3/a), [156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2); [S.I. 2012/1423](https://www.legislation.gov.uk/wsi/2012/1423), [art. 2(c)](https://www.legislation.gov.uk/wsi/2012/1423/article/2/c); [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [arts. 2(a)](https://www.legislation.gov.uk/wsi/2015/1413/article/2/a), [3(e)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/e)
 
-[^key-3583dc127700a4cc30493bd7598c837a]: Modification: S. 3: transfer of functions (1.4.2012) by [The Welsh Language (Wales) Measure 2011 (Transfer of functions, Transitional and Consequential Provisions) Order 2012 (No. 990)](https://www.legislation.gov.uk/wsi/2012/990), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2012/990/article/1/2), [3](https://www.legislation.gov.uk/wsi/2012/990/article/3)
+[^c-3583dc127700a4cc30493bd7598c837a]: Modification: S. 3: transfer of functions (1.4.2012) by [The Welsh Language (Wales) Measure 2011 (Transfer of functions, Transitional and Consequential Provisions) Order 2012 (No. 990)](https://www.legislation.gov.uk/wsi/2012/990), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2012/990/article/1/2), [3](https://www.legislation.gov.uk/wsi/2012/990/article/3)
 
-[^key-094550b31865820f9ab1e2fba5bf8fb1]: Modification: S. 3: transfer of functions (1.4.2012) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [ss. 143(2)](https://www.legislation.gov.uk/mwa/2011/1/section/143/2), [156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2); [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(p)](https://www.legislation.gov.uk/wsi/2012/969/article/2/p)
+[^c-094550b31865820f9ab1e2fba5bf8fb1]: Modification: S. 3: transfer of functions (1.4.2012) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [ss. 143(2)](https://www.legislation.gov.uk/mwa/2011/1/section/143/2), [156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2); [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(p)](https://www.legislation.gov.uk/wsi/2012/969/article/2/p)
 
-[^key-bcb30bdee7fdbf106d7ce0155218e8f9]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/1993/38/section/3) functions abolished (1.6.2012 , 7.7.2015 in so far as not already in force) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [ss. 144(1)](https://www.legislation.gov.uk/mwa/2011/1/section/144/1), [156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2); [S.I. 2012/1423](https://www.legislation.gov.uk/wsi/2012/1423), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/1423/article/2/b); [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/e)
+[^c-bcb30bdee7fdbf106d7ce0155218e8f9]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/1993/38/section/3) functions abolished (1.6.2012 , 7.7.2015 in so far as not already in force) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [ss. 144(1)](https://www.legislation.gov.uk/mwa/2011/1/section/144/1), [156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2); [S.I. 2012/1423](https://www.legislation.gov.uk/wsi/2012/1423), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/1423/article/2/b); [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/e)
 
-[^key-11e83822c7ca4362a851c7edfc5aeb8f]: Textual amendment: [S. 4(1)](https://www.legislation.gov.uk/ukpga/1993/38/section/4/1) repealed (1.4.2012) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [ss. 144(3)(b)](https://www.legislation.gov.uk/mwa/2011/1/section/144/3/b), [156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2); [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(p)](https://www.legislation.gov.uk/wsi/2012/969/article/2/p)
+[^c-11e83822c7ca4362a851c7edfc5aeb8f]: Textual amendment: [S. 4(1)](https://www.legislation.gov.uk/ukpga/1993/38/section/4/1) repealed (1.4.2012) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [ss. 144(3)(b)](https://www.legislation.gov.uk/mwa/2011/1/section/144/3/b), [156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2); [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(p)](https://www.legislation.gov.uk/wsi/2012/969/article/2/p)
 
-[^key-84dea36f2e81a90da8572c17d9d3c9b0]: Textual amendment: S. 4(2) repealed (1.4.2012) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [ss. 143(5)(c)](https://www.legislation.gov.uk/mwa/2011/1/section/143/5/c), [156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2); [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(p)](https://www.legislation.gov.uk/wsi/2012/969/article/2/p)
+[^c-84dea36f2e81a90da8572c17d9d3c9b0]: Textual amendment: S. 4(2) repealed (1.4.2012) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [ss. 143(5)(c)](https://www.legislation.gov.uk/mwa/2011/1/section/143/5/c), [156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2); [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(p)](https://www.legislation.gov.uk/wsi/2012/969/article/2/p)
 
-[^key-897a0b3933dbf33ac07593e7390cdbbe]: Modification: Pt. II transfer of functions (1.4.2012) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [ss. 143(4)](https://www.legislation.gov.uk/mwa/2011/1/section/143/4), [156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2); [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(p)](https://www.legislation.gov.uk/wsi/2012/969/article/2/p)
+[^c-897a0b3933dbf33ac07593e7390cdbbe]: Modification: Pt. II transfer of functions (1.4.2012) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [ss. 143(4)](https://www.legislation.gov.uk/mwa/2011/1/section/143/4), [156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2); [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(p)](https://www.legislation.gov.uk/wsi/2012/969/article/2/p)
 
-[^key-0de2dbcc4c802d3b652a21d7882364ff]: Modification: Pt. II excluded (7.7.2015) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [ss. 144(2)](https://www.legislation.gov.uk/mwa/2011/1/section/144/2), [156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2); [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/e)
+[^c-0de2dbcc4c802d3b652a21d7882364ff]: Modification: Pt. II excluded (7.7.2015) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [ss. 144(2)](https://www.legislation.gov.uk/mwa/2011/1/section/144/2), [156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2); [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/e)
 
-[^key-2e4115f57b1ad76908b29d15373a2bf1]: Textual amendment: Pt. 2 repealed (6.7.2015 for S.N.I.) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [ss. 145(2)(a)](https://www.legislation.gov.uk/mwa/2011/1/section/145/2/a), [156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2); [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 2(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/2/b)
+[^c-2e4115f57b1ad76908b29d15373a2bf1]: Textual amendment: Pt. 2 repealed (6.7.2015 for S.N.I.) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [ss. 145(2)(a)](https://www.legislation.gov.uk/mwa/2011/1/section/145/2/a), [156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2); [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 2(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/2/b)
 
 [^c2021562]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland and Northern Ireland only
 
@@ -593,7 +593,7 @@ Section 35.
 
 [^c268211]: Textual amendment: S. 6(1)(ca) inserted (23.11.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 78](https://www.legislation.gov.uk/ukpga/1995/25/section/78), [Sch. 10 para. 37](https://www.legislation.gov.uk/ukpga/1995/25/schedule/10/paragraph/37); [S.I. 1995/2950](https://www.legislation.gov.uk/uksi/1995/2950), [art. 2(1)](https://www.legislation.gov.uk/uksi/1995/2950/article/2/1)
 
-[^key-25b1e50ff62e54531ca8f08261f2d8d0]: Textual amendment: S. 6(d) substituted (22.11.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 213](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/213); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)
+[^c-25b1e50ff62e54531ca8f08261f2d8d0]: Textual amendment: S. 6(d) substituted (22.11.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 213](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/213); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)
 
 [^c2021549]: Textual amendment: Words in s. 6(1)(e) substituted (E.W.) (1.10.2004 for E. and 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [ss. 53](https://www.legislation.gov.uk/ukpga/2004/21/section/53), [61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 84](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/84); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3)); [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
 
@@ -619,7 +619,7 @@ Section 35.
 
 [^c2021580]: Textual amendment: S. 6(1)(j) omitted (1.4.2006) by virtue of [The National Council for Education and Training for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3238)](https://www.legislation.gov.uk/uksi/2005/3238), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/3238/article/1/1), [9(1)](https://www.legislation.gov.uk/uksi/2005/3238/article/9/1), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2005/3238/schedule/1/paragraph/29) (with transitional provision in [art. 7](https://www.legislation.gov.uk/uksi/2005/3238/article/7))
 
-[^key-77ebe971f27927759e1383f150f8a58d]: Textual amendment: S. 6(1)(k) omitted (W.) (1.8.2024) by virtue of [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments) Regulations 2024 (S.I. 2024/803)](https://www.legislation.gov.uk/wsi/2024/803), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/803/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2024/803/regulation/3/2)
+[^c-77ebe971f27927759e1383f150f8a58d]: Textual amendment: S. 6(1)(k) omitted (W.) (1.8.2024) by virtue of [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments) Regulations 2024 (S.I. 2024/803)](https://www.legislation.gov.uk/wsi/2024/803), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/803/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2024/803/regulation/3/2)
 
 [^c268218]: Textual amendment: S. 6(1)(l) substituted (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1), [Sch. 30 para. 50](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/50); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1)
 
@@ -635,7 +635,7 @@ Section 35.
 
 [^c2021590]: Textual amendment: [S. 23(2)](https://www.legislation.gov.uk/ukpga/1993/38/section/23/2) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 4 para. 232(4)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/232/4); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(v)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/v)
 
-[^key-d23c8b5acc3539bfedc6848c666aa0a8]: Modification: [S. 25](https://www.legislation.gov.uk/ukpga/1993/38/section/25) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-d23c8b5acc3539bfedc6848c666aa0a8]: Modification: [S. 25](https://www.legislation.gov.uk/ukpga/1993/38/section/25) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
 [^c268222]: Textual amendment: [S. 25(3)](https://www.legislation.gov.uk/ukpga/1993/38/section/25/3) substituted (3.4.1995) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 66(2)(6)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/2/6), [Sch. 16 para. 106(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/106/2); [S.I. 1995/852](https://www.legislation.gov.uk/uksi/1995/852), [art. 9(1)](https://www.legislation.gov.uk/uksi/1995/852/article/9/1), [Sch. 5](https://www.legislation.gov.uk/uksi/1995/852/schedule/5)
 
@@ -643,15 +643,15 @@ Section 35.
 
 [^c444790]: Modification: [S. 26](https://www.legislation.gov.uk/ukpga/1993/38/section/26) applied (24.10.2002) by [European Parliamentary Elections Act 2002 (c. 24)](https://www.legislation.gov.uk/ukpga/2002/24), [ss. 7(5)](https://www.legislation.gov.uk/ukpga/2002/24/section/7/5), [18(2)](https://www.legislation.gov.uk/ukpga/2002/24/section/18/2)
 
-[^key-950e9e42f67b187cc3a87a765626ebf8]: Modification: [S. 26](https://www.legislation.gov.uk/ukpga/1993/38/section/26) applied (26.3.2015) by [Recall of MPs Act 2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25), [ss. 21(5)](https://www.legislation.gov.uk/ukpga/2015/25/section/21/5), [24(1)(e)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/1/e)
+[^c-950e9e42f67b187cc3a87a765626ebf8]: Modification: [S. 26](https://www.legislation.gov.uk/ukpga/1993/38/section/26) applied (26.3.2015) by [Recall of MPs Act 2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25), [ss. 21(5)](https://www.legislation.gov.uk/ukpga/2015/25/section/21/5), [24(1)(e)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/1/e)
 
-[^key-870834b2dd6dd7fb16f5838221dda926]: Modification: [S. 26](https://www.legislation.gov.uk/ukpga/1993/38/section/26) applied (17.12.2015) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [ss. 9(6)](https://www.legislation.gov.uk/ukpga/2015/36/section/9/6), [13(1)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/1)
+[^c-870834b2dd6dd7fb16f5838221dda926]: Modification: [S. 26](https://www.legislation.gov.uk/ukpga/1993/38/section/26) applied (17.12.2015) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [ss. 9(6)](https://www.legislation.gov.uk/ukpga/2015/36/section/9/6), [13(1)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/1)
 
-[^key-ec3c4199dcaa13dca5f1b9bcd695a584]: Modification: [S. 26](https://www.legislation.gov.uk/ukpga/1993/38/section/26) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-ec3c4199dcaa13dca5f1b9bcd695a584]: Modification: [S. 26](https://www.legislation.gov.uk/ukpga/1993/38/section/26) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
-[^key-9b3aad43c966e45293b46d9fc950caaf]: Modification: [S. 26(2)](https://www.legislation.gov.uk/ukpga/1993/38/section/26/2) applied (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/2/paragraph/10/4)
+[^c-9b3aad43c966e45293b46d9fc950caaf]: Modification: [S. 26(2)](https://www.legislation.gov.uk/ukpga/1993/38/section/26/2) applied (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/2/paragraph/10/4)
 
-[^key-a4b9fff50c793e4fdb4e8152955e0114]: Textual amendment: [S. 28](https://www.legislation.gov.uk/ukpga/1993/38/section/28) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-a4b9fff50c793e4fdb4e8152955e0114]: Textual amendment: [S. 28](https://www.legislation.gov.uk/ukpga/1993/38/section/28) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
 [^c268225]: Marginal citation: [1979 c. 34](https://www.legislation.gov.uk/ukpga/1979/34).
 
@@ -659,13 +659,13 @@ Section 35.
 
 [^c268228]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 
-[^key-4d58e4475e6eb90ecf4dea5525247abc]: Textual amendment: Ss. 32, 33 repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-4d58e4475e6eb90ecf4dea5525247abc]: Textual amendment: Ss. 32, 33 repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-5419e79373b18f644839ade6c1487987]: Textual amendment: [S. 34(1)](https://www.legislation.gov.uk/ukpga/1993/38/section/34/1) repealed (6.7.2015 for S.N.I.) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [ss. 145(2)(b)](https://www.legislation.gov.uk/mwa/2011/1/section/145/2/b), [156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2); [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 2(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/2/b)
+[^c-5419e79373b18f644839ade6c1487987]: Textual amendment: [S. 34(1)](https://www.legislation.gov.uk/ukpga/1993/38/section/34/1) repealed (6.7.2015 for S.N.I.) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [ss. 145(2)(b)](https://www.legislation.gov.uk/mwa/2011/1/section/145/2/b), [156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2); [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 2(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/2/b)
 
-[^key-7f9b44b06fcc9f880e72ee964e8631af]: Textual amendment: S. 34(2) repealed (1.4.2012) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [ss. 143(5)(d)](https://www.legislation.gov.uk/mwa/2011/1/section/143/5/d), [156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2); [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(p)](https://www.legislation.gov.uk/wsi/2012/969/article/2/p)
+[^c-7f9b44b06fcc9f880e72ee964e8631af]: Textual amendment: S. 34(2) repealed (1.4.2012) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [ss. 143(5)(d)](https://www.legislation.gov.uk/mwa/2011/1/section/143/5/d), [156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2); [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(p)](https://www.legislation.gov.uk/wsi/2012/969/article/2/p)
 
-[^key-831657100f80b6d25a430dbac42bf160]: Textual amendment: [S. 34(3)](https://www.legislation.gov.uk/ukpga/1993/38/section/34/3) repealed (6.7.2015 for S.N.I.) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [ss. 145(2)(b)](https://www.legislation.gov.uk/mwa/2011/1/section/145/2/b), [156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2); [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 2(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/2/b)
+[^c-831657100f80b6d25a430dbac42bf160]: Textual amendment: [S. 34(3)](https://www.legislation.gov.uk/ukpga/1993/38/section/34/3) repealed (6.7.2015 for S.N.I.) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [ss. 145(2)(b)](https://www.legislation.gov.uk/mwa/2011/1/section/145/2/b), [156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2); [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 2(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/2/b)
 
 [^c268230]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/1993/38/section/35) wholly in force; [S. 35](https://www.legislation.gov.uk/ukpga/1993/38/section/35) partly in force at 21.12.1993 see [s. 36(1)](https://www.legislation.gov.uk/ukpga/1993/38/section/36/1); [S. 35(2)](https://www.legislation.gov.uk/ukpga/1993/38/section/35/2) wholly in force at 1.2.1994 by [S.I. 1994/115](https://www.legislation.gov.uk/uksi/1994/115), [art. 2(2)](https://www.legislation.gov.uk/uksi/1994/115/article/2/2)
 
@@ -679,6 +679,6 @@ Section 35.
 
 [^c268236]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 
-[^key-45c2d4a5b79c918148eead8621997724]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1993/38/schedule/1) repealed (1.4.2012) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [ss. 143(5)(e)](https://www.legislation.gov.uk/mwa/2011/1/section/143/5/e), [156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2); [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(p)](https://www.legislation.gov.uk/wsi/2012/969/article/2/p)
+[^c-45c2d4a5b79c918148eead8621997724]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1993/38/schedule/1) repealed (1.4.2012) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [ss. 143(5)(e)](https://www.legislation.gov.uk/mwa/2011/1/section/143/5/e), [156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2); [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(p)](https://www.legislation.gov.uk/wsi/2012/969/article/2/p)
 
 [^c268241]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/1993/38/schedule/2) wholly in force: Sch. 2 partly in force at 21.12.1993 see [s. 36(1)](https://www.legislation.gov.uk/ukpga/1993/38/section/36/1); [Sch. 2](https://www.legislation.gov.uk/ukpga/1993/38/schedule/2) wholly in force for specified purposes at 1.2.1994 by [S.I. 1994/115](https://www.legislation.gov.uk/uksi/1994/115), [art. 2(2)](https://www.legislation.gov.uk/uksi/1994/115/article/2/2)

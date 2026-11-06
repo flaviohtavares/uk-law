@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Inspection of premises, etc.[^key-88dd6b97e44861c00f4ddee4f24b2744]
+## 14. Inspection of premises, etc.[^c-88dd6b97e44861c00f4ddee4f24b2744]
 
 *Extent: N.I.*
 
@@ -56,4 +56,4 @@ relating to the discharge of any of the adoption agency’s functions in relatio
 
 ## Annotations
 
-[^key-88dd6b97e44861c00f4ddee4f24b2744]: Commencement: S. 14 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-88dd6b97e44861c00f4ddee4f24b2744]: Commencement: S. 14 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

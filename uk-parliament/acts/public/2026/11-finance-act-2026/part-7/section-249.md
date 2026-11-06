@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 249. Commencement[^key-65f3dec413d9ade615fa4e472f7ba6de]
+## 249. Commencement[^c-65f3dec413d9ade615fa4e472f7ba6de]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65f3dec413d9ade615fa4e472f7ba6de]: Commencement: S. 249 in force at Royal Assent, see [s. 249(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/249/1)
+[^c-65f3dec413d9ade615fa4e472f7ba6de]: Commencement: S. 249 in force at Royal Assent, see [s. 249(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/249/1)

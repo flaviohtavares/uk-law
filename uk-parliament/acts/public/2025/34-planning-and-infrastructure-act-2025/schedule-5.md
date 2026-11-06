@@ -24,9 +24,9 @@ Section 96
 
 ### Part 1 — Ramsar sites: amendments to the Habitats Regulations 2017
 
-**1.**[^key-5f04e0e5e35465ace165f9eb6caacfe6][^key-6f9ce6e9e19503a6b9132f92b422613d] The Conservation of Habitats and Species Regulations 2017 ([S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012)) are amended as follows.
+**1.**[^c-5f04e0e5e35465ace165f9eb6caacfe6][^c-6f9ce6e9e19503a6b9132f92b422613d] The Conservation of Habitats and Species Regulations 2017 ([S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012)) are amended as follows.
 
-**2.**[^key-b2a3e3871a1110cf899b0ed0c4eeeceb][^key-eec253a3c39f14aeb0980df4533821c8] In regulation 3 (interpretation), in paragraph (1)—
+**2.**[^c-b2a3e3871a1110cf899b0ed0c4eeeceb][^c-eec253a3c39f14aeb0980df4533821c8] In regulation 3 (interpretation), in paragraph (1)—
 
 - (a) after the definition of “marine area” insert—
 
@@ -44,7 +44,7 @@ Section 96
 
   .
 
-**3.**[^key-d0b478975dc0d83301fd3ffa3e41b41a][^key-1163b19b6fe495502322041b8ce7c7f2] In regulation 24 (assessment of implications for European sites)—
+**3.**[^c-d0b478975dc0d83301fd3ffa3e41b41a][^c-1163b19b6fe495502322041b8ce7c7f2] In regulation 24 (assessment of implications for European sites)—
 
 - (a) after paragraph (2) insert—
 
@@ -60,7 +60,7 @@ Section 96
   ;
 - (b) in the heading, at the end insert “and certain Ramsar sites”.
 
-**4.**[^key-8cd0088c0bcc6b5e46c4597a7d52038b][^key-ce7a90141afe41a7b75bc17406ff433f] In regulation 25 (sites of special scientific interest which become European sites: duty to review)—
+**4.**[^c-8cd0088c0bcc6b5e46c4597a7d52038b][^c-ce7a90141afe41a7b75bc17406ff433f] In regulation 25 (sites of special scientific interest which become European sites: duty to review)—
 
 - (a) in paragraph (1)—
   - (i) after “where” insert
@@ -82,9 +82,9 @@ Section 96
   - (ii) in sub-paragraph (b), after “24(2)” insert “or (2B)”;
 - (c) in the heading, after “European sites” insert “or Ramsar sites”.
 
-**5.**[^key-82ec114651f5d50092627ce4bd55ca84][^key-876d04ce927cfa752ff84dbe93469d60] In the italic heading before regulation 63, for “and European offshore marine sites” substitute “, European offshore marine sites and certain Ramsar sites”.
+**5.**[^c-82ec114651f5d50092627ce4bd55ca84][^c-876d04ce927cfa752ff84dbe93469d60] In the italic heading before regulation 63, for “and European offshore marine sites” substitute “, European offshore marine sites and certain Ramsar sites”.
 
-**6.**[^key-74d31ddf8704ea112deae59c63d85aa5][^key-11c6d5f996a89ada97b7a5f10bd3a13e] In regulation 63 (assessment of implications for European sites and European offshore marine sites)—
+**6.**[^c-74d31ddf8704ea112deae59c63d85aa5][^c-11c6d5f996a89ada97b7a5f10bd3a13e] In regulation 63 (assessment of implications for European sites and European offshore marine sites)—
 
 - (a) after paragraph (1) insert—
 
@@ -100,20 +100,20 @@ Section 96
 - (c) in paragraph (9), for “paragraph (1)” substitute “paragraphs (1) and (1A)”;
 - (d) in the heading, for “and European offshore marine sites” substitute “, European offshore marine sites and certain Ramsar sites”.
 
-**7.**[^key-bba6093d5c4e76788c8c8146a543d4e2][^key-f4c4cbdd056686ca2e35bd30db275b25] In regulation 64 (considerations of overriding public interest), in paragraph (1), after “European site” insert “, the Ramsar site”.
+**7.**[^c-bba6093d5c4e76788c8c8146a543d4e2][^c-f4c4cbdd056686ca2e35bd30db275b25] In regulation 64 (considerations of overriding public interest), in paragraph (1), after “European site” insert “, the Ramsar site”.
 
-**8.**[^key-5830e16c88a119d2dc4edc4c0ff0be3c][^key-da23b891058a9a926ab7f3108acaec8d] In regulation 65 (review of existing decisions and consents) in paragraph (1)—
+**8.**[^c-5830e16c88a119d2dc4edc4c0ff0be3c][^c-da23b891058a9a926ab7f3108acaec8d] In regulation 65 (review of existing decisions and consents) in paragraph (1)—
 
 - (a) after “European site” insert “, a Ramsar site”;
 - (b) after “63(1)” insert “or (1A)”.
 
-**9.**[^key-6665d4cbcf346a503f3ce195d4e4c258][^key-90398085bdd4c7a9b2ab3316c8fab64d] In regulation 67 (co-ordination where more than one competent authority involved)—
+**9.**[^c-6665d4cbcf346a503f3ce195d4e4c258][^c-90398085bdd4c7a9b2ab3316c8fab64d] In regulation 67 (co-ordination where more than one competent authority involved)—
 
 - (a) in paragraph (2), after “(1)” insert “or (1A)”;
 - (b) in paragraph (3)(a), after “European site” insert “, a Ramsar site”;
 - (c) in paragraph (3)(b), after “European site” insert “, a Ramsar site”.
 
-**10.**[^key-02044ac115d6d1314bb1647419c21ae4][^key-eb2cb7668b787b0a62004a122d17e48c] In regulation 68—
+**10.**[^c-02044ac115d6d1314bb1647419c21ae4][^c-eb2cb7668b787b0a62004a122d17e48c] In regulation 68—
 
 - (a) the existing text becomes paragraph (1);
 - (b) at the end insert—
@@ -125,16 +125,16 @@ Section 96
   >
   > the appropriate authority must secure that any necessary compensatory measures are taken to ensure that the overall coherence of the national Ramsar site series is protected.
 
-**11.**[^key-58ef03ecc341e2cfce8e4adcbafe012f][^key-0a87270565a4536e5c2dd8edeca622d2] In regulation 70 (grant of planning permission)—
+**11.**[^c-58ef03ecc341e2cfce8e4adcbafe012f][^c-0a87270565a4536e5c2dd8edeca622d2] In regulation 70 (grant of planning permission)—
 
 - (a) in paragraph (2), after “European site” insert “, a Ramsar site”;
 - (b) in paragraph (3), after “European site” insert “, a Ramsar site”.
 
-**12.**[^key-1d1fcf2d787b8d67e10eac9e01080853][^key-03b79b10637f69fedb2d7b3607a16ecb] In regulation 72 (planning permission: consideration on review), in paragraph (3), after “European site” insert “, a Ramsar site”.
+**12.**[^c-1d1fcf2d787b8d67e10eac9e01080853][^c-03b79b10637f69fedb2d7b3607a16ecb] In regulation 72 (planning permission: consideration on review), in paragraph (3), after “European site” insert “, a Ramsar site”.
 
-**13.**[^key-3364b6d99f2358efe303ed5676612d66][^key-ef2059ca0c2197b72c355b1f7a0bebe1] In regulation 73 (planning permission: effect of orders made on review), in paragraph (6), after “European site” insert “, a Ramsar site”.
+**13.**[^c-3364b6d99f2358efe303ed5676612d66][^c-ef2059ca0c2197b72c355b1f7a0bebe1] In regulation 73 (planning permission: effect of orders made on review), in paragraph (6), after “European site” insert “, a Ramsar site”.
 
-**14.**[^key-7e2949a10efb27c464ccebd11905afde] (1)[^key-2f7207deb32e9166d6a4d3d302c8d8ce] In regulation 75 (general development orders)—
+**14.**[^c-7e2949a10efb27c464ccebd11905afde] (1)[^c-2f7207deb32e9166d6a4d3d302c8d8ce] In regulation 75 (general development orders)—
 
 - (a) the existing text becomes paragraph (1);
 - (b) at the end insert—
@@ -148,17 +148,17 @@ Section 96
 
 (2) In regulation 75(2) (as inserted by sub-paragraph (1)), after “force” insert “or a street vote development order”.
 
-**15.**[^key-a8b20993d56341da1641ceb639108635][^key-934a3017997a19d3bf2f5f72e5ecfd98] In regulation 76 (general development orders: opinion of appropriate nature conservation body), in paragraph (7), for “75(a)” substitute “75(1)(a) or (2)(a)”.
+**15.**[^c-a8b20993d56341da1641ceb639108635][^c-934a3017997a19d3bf2f5f72e5ecfd98] In regulation 76 (general development orders: opinion of appropriate nature conservation body), in paragraph (7), for “75(a)” substitute “75(1)(a) or (2)(a)”.
 
-**16.**[^key-a6a59c25f95574580324f2e82bd89b09][^key-ff7b2b5a39b7754b960cc302e0d0d6f3] In regulation 77 (general development orders: approval of local planning authority), in paragraph (6), after “European site” insert “, the Ramsar site”.
+**16.**[^c-a6a59c25f95574580324f2e82bd89b09][^c-ff7b2b5a39b7754b960cc302e0d0d6f3] In regulation 77 (general development orders: approval of local planning authority), in paragraph (6), after “European site” insert “, the Ramsar site”.
 
-**17.**[^key-fe4b576583b67beea04276ed9075bde4][^key-52907dd315754bd71b881dd9ba31d670] In regulation 79 (special development orders), in paragraph (4)(b), after “European site” insert “, a Ramsar site”.
+**17.**[^c-fe4b576583b67beea04276ed9075bde4][^c-52907dd315754bd71b881dd9ba31d670] In regulation 79 (special development orders), in paragraph (4)(b), after “European site” insert “, a Ramsar site”.
 
-**18.**[^key-62c831fbc6ea494c12c9da57821545fe][^key-ef3a2ab5b33da096ae5d4493e96a60c8] In regulation 80 (local development orders), in paragraph (4)(b), after “European site” insert “, a Ramsar site”.
+**18.**[^c-62c831fbc6ea494c12c9da57821545fe][^c-ef3a2ab5b33da096ae5d4493e96a60c8] In regulation 80 (local development orders), in paragraph (4)(b), after “European site” insert “, a Ramsar site”.
 
-**19.**[^key-02d0dccf084dad8fd75f4aa7d479258a][^key-96a4c2b8f06af32ce12d426c4492fa11] In regulation 81 (neighbourhood development orders), in paragraph (4)(b), after “European site” insert “, a Ramsar site”.
+**19.**[^c-02d0dccf084dad8fd75f4aa7d479258a][^c-96a4c2b8f06af32ce12d426c4492fa11] In regulation 81 (neighbourhood development orders), in paragraph (4)(b), after “European site” insert “, a Ramsar site”.
 
-**20.**[^key-998b1206ae4768543b8cfdb4ba3e10cd][^key-2f6af0d253599d4ef5eca21929638b4d] In regulation 82 (simplified planning zones)—
+**20.**[^c-998b1206ae4768543b8cfdb4ba3e10cd][^c-2f6af0d253599d4ef5eca21929638b4d] In regulation 82 (simplified planning zones)—
 
 - (a) after paragraph (2) insert—
 
@@ -172,7 +172,7 @@ Section 96
   ;
 - (b) in paragraph (5)(b), after “European site” insert “, a Ramsar site”.
 
-**21.**[^key-433bf3c23ac8997721b07eb7a233c68b][^key-917ee8cfecfd0c253546a5ed8090e066] In regulation 83 (enterprise zones)—
+**21.**[^c-433bf3c23ac8997721b07eb7a233c68b][^c-917ee8cfecfd0c253546a5ed8090e066] In regulation 83 (enterprise zones)—
 
 - (a) after paragraph (2) insert—
 
@@ -191,15 +191,15 @@ Section 96
   ;
 - (c) in paragraph (5)(b), after “European site” insert “, a Ramsar site”.
 
-**22.**[^key-a8610645eb2d60b18ceafca6ee7ead1c][^key-b8ba00867c940c689841f37773eb1da0] In regulation 84 (grant of development consent), in paragraph (2), after “European site” insert “, a Ramsar site”.
+**22.**[^c-a8610645eb2d60b18ceafca6ee7ead1c][^c-b8ba00867c940c689841f37773eb1da0] In regulation 84 (grant of development consent), in paragraph (2), after “European site” insert “, a Ramsar site”.
 
-**23.**[^key-134ac3de40cd7f47c6963502ef74d9a9][^key-77388f71d6ee05c577796ef9368194c3] In regulation 85 (development consent: review), in paragraph (1)(a), after “European site” insert “, a Ramsar site”.
+**23.**[^c-134ac3de40cd7f47c6963502ef74d9a9][^c-77388f71d6ee05c577796ef9368194c3] In regulation 85 (development consent: review), in paragraph (1)(a), after “European site” insert “, a Ramsar site”.
 
-**24.**[^key-8fd2df09e80c94307bff52c90b21beb9][^key-ffed832851e4413df249cb7e821b40d1] In regulation 85A (assumptions to be made about nutrient pollution standards: general), in paragraph (6)(a), after “63(1)” insert “or (1A)”.
+**24.**[^c-8fd2df09e80c94307bff52c90b21beb9][^c-ffed832851e4413df249cb7e821b40d1] In regulation 85A (assumptions to be made about nutrient pollution standards: general), in paragraph (6)(a), after “63(1)” insert “or (1A)”.
 
-**25.**[^key-25fcda96d9bca1d7209765692ceb589f][^key-a5ae47930530a2727928d36e91b16fb6] In regulation 87 (construction or improvement of highways or roads), in paragraph (2)(b), after “European site” insert “, a Ramsar site”.
+**25.**[^c-25fcda96d9bca1d7209765692ceb589f][^c-a5ae47930530a2727928d36e91b16fb6] In regulation 87 (construction or improvement of highways or roads), in paragraph (2)(b), after “European site” insert “, a Ramsar site”.
 
-**26.**[^key-b8fd5da998005267fbd5c8a4ede84651][^key-12b7aa2f84f3412c65bcad218a7d8881] In regulation 88 (cycle tracks and other ancillary works), at end insert—
+**26.**[^c-b8fd5da998005267fbd5c8a4ede84651][^c-12b7aa2f84f3412c65bcad218a7d8881] In regulation 88 (cycle tracks and other ancillary works), at end insert—
 
 > (4) Section 3(10) of that Act is not to be taken to deem planning permission to be granted for development wholly in England which—
 >
@@ -208,42 +208,42 @@ Section 96
 >
 > whether or not the development authorised by the permission has been begun, unless the competent authority has agreed to the plan or project in accordance with the assessment provisions.
 
-**27.**[^key-8ba477ae2fd2c03a414729352550e20b][^key-df833841de2a83dd855d1ceb277fa478] In regulation 89 (consents under Electricity Act 1989: application of assessment and review provisions)—
+**27.**[^c-8ba477ae2fd2c03a414729352550e20b][^c-df833841de2a83dd855d1ceb277fa478] In regulation 89 (consents under Electricity Act 1989: application of assessment and review provisions)—
 
 - (a) in paragraph (2), after “European site” insert “, a Ramsar site”;
 - (b) in paragraph (6), after “European site” insert “, a Ramsar site”;
 - (c) in paragraph (8), after “European site” insert “, a Ramsar site”.
 
-**28.**[^key-18eb3e74b9d41751b2b0968045dc4a68][^key-121fbf8bc3b4e6433ba19f4b2913a38b] In regulation 93 (authorisations under Pipe-lines Act 1962: application of assessment and review provisions)—
+**28.**[^c-18eb3e74b9d41751b2b0968045dc4a68][^c-121fbf8bc3b4e6433ba19f4b2913a38b] In regulation 93 (authorisations under Pipe-lines Act 1962: application of assessment and review provisions)—
 
 - (a) in paragraph (2), after “European site” insert “, a Ramsar site”;
 - (b) in paragraph (3)(a)(ii), after “European site” insert “, a Ramsar site”;
 - (c) in paragraph (4), after “European site” insert “, a Ramsar site”.
 
-**29.**[^key-5987fdef624d05c270410197bf00fc38][^key-5d2219d63302086d210527726f32e4da] In regulation 97 (orders under Transport and Works Act 1992: application of assessment and review provisions)—
+**29.**[^c-5987fdef624d05c270410197bf00fc38][^c-5d2219d63302086d210527726f32e4da] In regulation 97 (orders under Transport and Works Act 1992: application of assessment and review provisions)—
 
 - (a) in paragraph (2), after “European site” insert “, a Ramsar site”;
 - (b) in paragraph (3), after “European site” insert “, a Ramsar site”;
 - (c) in paragraph (4), after “European site” insert “, a Ramsar site”.
 
-**30.**[^key-413d3b46fe180920347f6c98d56aa08e][^key-da8f4779316fe6b08a83e8882c41f40d] In regulation 101 (environmental permits)—
+**30.**[^c-413d3b46fe180920347f6c98d56aa08e][^c-da8f4779316fe6b08a83e8882c41f40d] In regulation 101 (environmental permits)—
 
 - (a) in paragraph (2), after “European site” insert “, a Ramsar site”;
 - (b) in paragraph (4), after “European site” insert “, a Ramsar site”.
 
-**31.**[^key-4c5240ef373826fcc13ec5042cdc1f5f][^key-ce326fe22258abcb3a40decbb32cfd0c] In regulation 102 (abstraction and works authorised under water legislation)—
+**31.**[^c-4c5240ef373826fcc13ec5042cdc1f5f][^c-ce326fe22258abcb3a40decbb32cfd0c] In regulation 102 (abstraction and works authorised under water legislation)—
 
 - (a) in paragraph (3), after “European site” insert “, a Ramsar site”;
 - (b) in paragraph (6), after “European site” insert “, a Ramsar site”.
 
-**32.**[^key-685f6265dc8f62d9bfdc4923a9b8e364][^key-a99799d455d6876278284696aecda122] In regulation 103 (marine works)—
+**32.**[^c-685f6265dc8f62d9bfdc4923a9b8e364][^c-a99799d455d6876278284696aecda122] In regulation 103 (marine works)—
 
 - (a) in paragraph (2), after “European site” insert “, a Ramsar site”;
 - (b) in paragraph (4), after “European site” insert “, a Ramsar site”.
 
-**33.**[^key-52e95b77a8f345286c07e0dd1f284800][^key-5d2119b943a5565afab1b4a2e147c76d] In regulation 104 (derogations in relation to nitrate pollution prevention legislation), in paragraph (2), after “European site” insert “, a Ramsar site”.
+**33.**[^c-52e95b77a8f345286c07e0dd1f284800][^c-5d2119b943a5565afab1b4a2e147c76d] In regulation 104 (derogations in relation to nitrate pollution prevention legislation), in paragraph (2), after “European site” insert “, a Ramsar site”.
 
-**34.**[^key-be74a3ac567a291feaff662860f57a64][^key-e30b2f2671f9bd54b687a0c54dec6555] In regulation 105 (assessment of implications for European sites and European offshore marine sites)—
+**34.**[^c-be74a3ac567a291feaff662860f57a64][^c-e30b2f2671f9bd54b687a0c54dec6555] In regulation 105 (assessment of implications for European sites and European offshore marine sites)—
 
 - (a) after paragraph (1) insert—
 
@@ -258,35 +258,35 @@ Section 96
 - (b) in paragraph (4), after “European site” insert “, the Ramsar site”;
 - (c) in the heading, for “and European offshore marine sites” substitute “, European offshore marine sites and certain Ramsar sites”.
 
-**35.**[^key-c5515e90107a99b9164bf42b3ffb59c2][^key-2936876bb5b6de4810c9f60dfcd86450] In regulation 106 (assessment of implications for European site: neighbourhood development plans)—
+**35.**[^c-c5515e90107a99b9164bf42b3ffb59c2][^c-2936876bb5b6de4810c9f60dfcd86450] In regulation 106 (assessment of implications for European site: neighbourhood development plans)—
 
 - (a) in paragraph (3), after “European site” insert “or Ramsar site”;
 - (b) in the heading, for “site” substitute “sites and Ramsar sites”.
 
-**36.**[^key-d99e5713bdebab788e20a1ab7928de3d][^key-835da12c29f059a47f17b6182922318d] In regulation 107 (considerations of overriding public interest), in paragraph (1), after “European site” insert “, the Ramsar site”.
+**36.**[^c-d99e5713bdebab788e20a1ab7928de3d][^c-835da12c29f059a47f17b6182922318d] In regulation 107 (considerations of overriding public interest), in paragraph (1), after “European site” insert “, the Ramsar site”.
 
-**37.**[^key-b9e96ba9c6d02e72504b9b337e8ef2be][^key-a8f29b465a27b44738716ee799041d96] In regulation 108 (co-ordination for land use plan prepared by more than one authority)—
+**37.**[^c-b9e96ba9c6d02e72504b9b337e8ef2be][^c-a8f29b465a27b44738716ee799041d96] In regulation 108 (co-ordination for land use plan prepared by more than one authority)—
 
 - (a) in paragraph (2), after “(1)” insert “or (1A)”;
 - (b) in paragraph (3), after “105(1)” insert “or (1A)”;
 - (c) in paragraph (3)(a), after “European site” insert “, a Ramsar site”;
 - (d) in paragraph (3)(b), after “European site” insert “, a Ramsar site”.
 
-**38.**[^key-2c8a1e8ffd16475d942ece9e54c242ef][^key-1b64d4b0c6e0d9eca1f95d7b022c5c4c] In regulation 109 (compensatory measures)—
+**38.**[^c-2c8a1e8ffd16475d942ece9e54c242ef][^c-1b64d4b0c6e0d9eca1f95d7b022c5c4c] In regulation 109 (compensatory measures)—
 
 - (a) the existing text becomes paragraph (1);
 - (b) at the end insert—
 
   > (2) Where in accordance with regulation 107 a land use plan is given effect notwithstanding a negative assessment of the implications for a Ramsar site, the appropriate authority must secure that any necessary compensatory measures are taken to ensure that the overall coherence of the national Ramsar site series is protected.
 
-**39.**[^key-15b9cefbbcf91a0432cd278a5cd077b9][^key-2b52e84e51848ffd887cedaab1f5003c] In regulation 110A (assessments under this Chapter: required assumptions)—
+**39.**[^c-15b9cefbbcf91a0432cd278a5cd077b9][^c-2b52e84e51848ffd887cedaab1f5003c] In regulation 110A (assessments under this Chapter: required assumptions)—
 
 - (a) in paragraph (5)(a), after “105(1)” insert “or (1A)”;
 - (b) in paragraph (5)(b), after “105(1)” insert “or (1A)”.
 
 ### Part 2 — Minor and consequential amendments related to Part 3
 
-#### 40. Wildlife and Countryside Act 1981[^key-a3db61bc2233a00fa0178a7bd538be9d][^key-7eed999d5e5688dcd8ed8e1993624e71]
+#### 40. Wildlife and Countryside Act 1981[^c-a3db61bc2233a00fa0178a7bd538be9d][^c-7eed999d5e5688dcd8ed8e1993624e71]
 
 (1) Section 16 of the Wildlife and Countryside Act 1981 (power to grant licences) is amended as follows (see also section 117(2) (extent of this paragraph is England and Wales only)).
 
@@ -305,11 +305,11 @@ Section 96
 
 (5) In subsection (9), in the words before paragraph (a), after “subsections” insert “(8ZA),”.
 
-#### 41. Town and Country Planning Act 1990[^key-9b81db2498ad3410977f8472c823a17e][^key-7b4c7d5358f276c342682e30e64fedb4]
+#### 41. Town and Country Planning Act 1990[^c-9b81db2498ad3410977f8472c823a17e][^c-7b4c7d5358f276c342682e30e64fedb4]
 
 The Town and Country Planning Act 1990 is amended as follows.
 
-**42.**[^key-2276694033bb1f9a9494a61d99e6e66c][^key-8450e608176dbea3c7f01ee1d515e686] In section 74A (deemed discharge of planning conditions), in subsection (2A)—
+**42.**[^c-2276694033bb1f9a9494a61d99e6e66c][^c-8450e608176dbea3c7f01ee1d515e686] In section 74A (deemed discharge of planning conditions), in subsection (2A)—
 
 - (a) after “to” insert
 
@@ -324,7 +324,7 @@ The Town and Country Planning Act 1990 is amended as follows.
   >
   > - (b) a condition that Natural England has requested under Part 3 of the Planning and Infrastructure Act 2025 (see sections 61(10) and 95 of that Act).
 
-**43.**[^key-78497f2158cc4a0dc57dc86bb80d6eaf][^key-ed942d4aff23ddb20ab65849e10ac727] In section 100ZA (restrictions on power to impose planning conditions in England), in subsection (6), after “apply” insert
+**43.**[^c-78497f2158cc4a0dc57dc86bb80d6eaf][^c-ed942d4aff23ddb20ab65849e10ac727] In section 100ZA (restrictions on power to impose planning conditions in England), in subsection (6), after “apply” insert
 
 > —
 >
@@ -333,7 +333,7 @@ The Town and Country Planning Act 1990 is amended as follows.
 
 .
 
-#### 44. Protection of Badgers Act 1992[^key-eb7ab583b09f98f8d642d90f476074dc][^key-4728490e432415c9f4976be7ee6a80ca]
+#### 44. Protection of Badgers Act 1992[^c-eb7ab583b09f98f8d642d90f476074dc][^c-4728490e432415c9f4976be7ee6a80ca]
 
 (1) Section 10 of the Protection of Badgers Act 1992 (licences) is amended as follows (see also section 117(2) (extent of this paragraph is England and Wales only)).
 
@@ -379,7 +379,7 @@ The Town and Country Planning Act 1990 is amended as follows.
 > - (a) that there is no other satisfactory solution, and
 > - (b) that the grant of the licence is not detrimental to the survival of any population of badgers.
 
-#### 45. Marine and Coastal Access Act 2009[^key-127798d891ec555b3ce739489240d32c][^key-0b47d3b4a6d528ad7421478622f87085]
+#### 45. Marine and Coastal Access Act 2009[^c-127798d891ec555b3ce739489240d32c][^c-0b47d3b4a6d528ad7421478622f87085]
 
 (1) The Marine and Coastal Access Act 2009 is amended as follows.
 
@@ -393,7 +393,7 @@ The Town and Country Planning Act 1990 is amended as follows.
 
 .
 
-#### 46. Environmental Assessment of Plans and Programmes Regulations 2004[^key-258be357885ff0f1563403898f048a2d][^key-77c8114b5f27de1b1a61d1b8636861e5]
+#### 46. Environmental Assessment of Plans and Programmes Regulations 2004[^c-258be357885ff0f1563403898f048a2d][^c-77c8114b5f27de1b1a61d1b8636861e5]
 
 In the Environmental Assessment of Plans and Programmes Regulations 2004 ([S.I. 2004/1633](https://www.legislation.gov.uk/uksi/2004/1633)), in regulation 5 (environmental assessment for plans and programmes: first formal preparatory act on or after 21 July 2004), in paragraph (5) (plans in relation to which assessments are not required under the regulations), after paragraph (a) insert—
 
@@ -401,11 +401,11 @@ In the Environmental Assessment of Plans and Programmes Regulations 2004 ([S.I. 
 
 .
 
-#### 47. Conservation of Habitats and Species Regulations 2017[^key-bf986f4402a267c79e290010dd90359a][^key-48ede51cf1b4c31f32de70c3dda1a5c1]
+#### 47. Conservation of Habitats and Species Regulations 2017[^c-bf986f4402a267c79e290010dd90359a][^c-48ede51cf1b4c31f32de70c3dda1a5c1]
 
 The Conservation of Habitats and Species Regulations 2017 ([S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012)) are amended as follows.
 
-**48.**[^key-995f75c0c86ee819821e4bccc5a0856a][^key-2a6f6b2166f10cf004fc2afcf3c9cf88] In regulation 9 (duties relating to compliance with the Directives)—
+**48.**[^c-995f75c0c86ee819821e4bccc5a0856a][^c-2a6f6b2166f10cf004fc2afcf3c9cf88] In regulation 9 (duties relating to compliance with the Directives)—
 
 - (a) after paragraph (2) insert—
 
@@ -416,14 +416,14 @@ The Conservation of Habitats and Species Regulations 2017 ([S.I. 2017/1012](http
 
   > (3A) Paragraph (3) does not apply to functions exercised by a competent authority in connection with an environmental delivery plan within the meaning of Part 3 of the Planning and Infrastructure Act 2025.
 
-**49.**[^key-590432925651c726b6f37117f9ce429f][^key-d28a22ffbbb01609576f6e4137b0f5cd] In regulation 55 (licences for certain activities relating to animals or plants), after paragraph (10) insert—
+**49.**[^c-590432925651c726b6f37117f9ce429f][^c-d28a22ffbbb01609576f6e4137b0f5cd] In regulation 55 (licences for certain activities relating to animals or plants), after paragraph (10) insert—
 
 > (10A) The maximum time period for a licence set out in paragraph (10) does not apply to—
 >
 > - (a) a licence granted to Natural England to facilitate the carrying out of any conservation measures within the meaning of Part 3 of the Planning and Infrastructure Act 2025, or
 > - (b) a licence that, by virtue of paragraph 4 of Schedule 3 to the Planning and Infrastructure Act 2025, is treated as having been granted to a developer under regulation 55.
 
-**50.**[^key-868739e6dd8ccd9c2ffb8850289c94c5][^key-1bf387ec721bc145c4c412172eb0b0a9] In regulation 58 (relevant licensing body)—
+**50.**[^c-868739e6dd8ccd9c2ffb8850289c94c5][^c-1bf387ec721bc145c4c412172eb0b0a9] In regulation 58 (relevant licensing body)—
 
 - (a) in paragraph (2), at the beginning insert “Subject to paragraph (2A),”;
 - (b) after paragraph (2) insert—
@@ -445,222 +445,222 @@ The Conservation of Habitats and Species Regulations 2017 ([S.I. 2017/1012](http
 
   > (7) In paragraph (2A), “**conservation measure**” has the same meaning as in Part 3 of the Planning and Infrastructure Act 2025 (development and nature recovery).
 
-**51.**[^key-21086c2b6b3d25ea3e944dbf3a1257af][^key-48b6ac2ee384b396a4354b52ee046164] In regulation 62 (application of the provisions of Chapter 1 of Part 6), after paragraph (1) insert—
+**51.**[^c-21086c2b6b3d25ea3e944dbf3a1257af][^c-48b6ac2ee384b396a4354b52ee046164] In regulation 62 (application of the provisions of Chapter 1 of Part 6), after paragraph (1) insert—
 
 > (1A) But the requirements of the assessment provisions and the review provisions do not apply in relation to an environmental delivery plan or any conservation measures under it.
 >
 > (1B) In paragraph (1A), “**environmental delivery plan**” and “**conservation measures**” have the same meaning as in Part 3 of the Planning and Infrastructure Act 2025 (development and nature recovery).
 
-**52.**[^key-056dcaa769103d2c820271f3223c7972][^key-a2ab6c0ffbca32456ba5431b93e1da4a] In regulation 63 (assessment of implications for European sites etc), in paragraph (7), at the end insert—
+**52.**[^c-056dcaa769103d2c820271f3223c7972][^c-a2ab6c0ffbca32456ba5431b93e1da4a] In regulation 63 (assessment of implications for European sites etc), in paragraph (7), at the end insert—
 
 > See also paragraph 1 of Schedule 3 to the Planning and Infrastructure Act 2025 (environmental delivery plans: effect on environmental obligations).
 
 ## Annotations
 
-[^key-5f04e0e5e35465ace165f9eb6caacfe6]: Commencement: Sch. 5 para. 1 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-5f04e0e5e35465ace165f9eb6caacfe6]: Commencement: Sch. 5 para. 1 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-6f9ce6e9e19503a6b9132f92b422613d]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/1) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-6f9ce6e9e19503a6b9132f92b422613d]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/1) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-b2a3e3871a1110cf899b0ed0c4eeeceb]: Commencement: Sch. 5 para. 2 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-b2a3e3871a1110cf899b0ed0c4eeeceb]: Commencement: Sch. 5 para. 2 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-eec253a3c39f14aeb0980df4533821c8]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/2) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-eec253a3c39f14aeb0980df4533821c8]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/2) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-d0b478975dc0d83301fd3ffa3e41b41a]: Commencement: Sch. 5 para. 3 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-d0b478975dc0d83301fd3ffa3e41b41a]: Commencement: Sch. 5 para. 3 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-1163b19b6fe495502322041b8ce7c7f2]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/3) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-1163b19b6fe495502322041b8ce7c7f2]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/3) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-8cd0088c0bcc6b5e46c4597a7d52038b]: Commencement: Sch. 5 para. 4 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-8cd0088c0bcc6b5e46c4597a7d52038b]: Commencement: Sch. 5 para. 4 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-ce7a90141afe41a7b75bc17406ff433f]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/4) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-ce7a90141afe41a7b75bc17406ff433f]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/4) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-82ec114651f5d50092627ce4bd55ca84]: Commencement: Sch. 5 para. 5 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-82ec114651f5d50092627ce4bd55ca84]: Commencement: Sch. 5 para. 5 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-876d04ce927cfa752ff84dbe93469d60]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/5) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-876d04ce927cfa752ff84dbe93469d60]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/5) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-74d31ddf8704ea112deae59c63d85aa5]: Commencement: Sch. 5 para. 6 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-74d31ddf8704ea112deae59c63d85aa5]: Commencement: Sch. 5 para. 6 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-11c6d5f996a89ada97b7a5f10bd3a13e]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/6) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-11c6d5f996a89ada97b7a5f10bd3a13e]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/6) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-bba6093d5c4e76788c8c8146a543d4e2]: Commencement: Sch. 5 para. 7 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-bba6093d5c4e76788c8c8146a543d4e2]: Commencement: Sch. 5 para. 7 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-f4c4cbdd056686ca2e35bd30db275b25]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/7) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-f4c4cbdd056686ca2e35bd30db275b25]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/7) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-5830e16c88a119d2dc4edc4c0ff0be3c]: Commencement: Sch. 5 para. 8 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-5830e16c88a119d2dc4edc4c0ff0be3c]: Commencement: Sch. 5 para. 8 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-da23b891058a9a926ab7f3108acaec8d]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/8) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-da23b891058a9a926ab7f3108acaec8d]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/8) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-6665d4cbcf346a503f3ce195d4e4c258]: Commencement: Sch. 5 para. 9 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-6665d4cbcf346a503f3ce195d4e4c258]: Commencement: Sch. 5 para. 9 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-90398085bdd4c7a9b2ab3316c8fab64d]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/9) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-90398085bdd4c7a9b2ab3316c8fab64d]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/9) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-02044ac115d6d1314bb1647419c21ae4]: Commencement: Sch. 5 para. 10 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-02044ac115d6d1314bb1647419c21ae4]: Commencement: Sch. 5 para. 10 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-eb2cb7668b787b0a62004a122d17e48c]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/10) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-eb2cb7668b787b0a62004a122d17e48c]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/10) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-58ef03ecc341e2cfce8e4adcbafe012f]: Commencement: Sch. 5 para. 11 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-58ef03ecc341e2cfce8e4adcbafe012f]: Commencement: Sch. 5 para. 11 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-0a87270565a4536e5c2dd8edeca622d2]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/11) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-0a87270565a4536e5c2dd8edeca622d2]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/11) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-1d1fcf2d787b8d67e10eac9e01080853]: Commencement: Sch. 5 para. 12 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-1d1fcf2d787b8d67e10eac9e01080853]: Commencement: Sch. 5 para. 12 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-03b79b10637f69fedb2d7b3607a16ecb]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/12) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-03b79b10637f69fedb2d7b3607a16ecb]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/12) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-3364b6d99f2358efe303ed5676612d66]: Commencement: Sch. 5 para. 13 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-3364b6d99f2358efe303ed5676612d66]: Commencement: Sch. 5 para. 13 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-ef2059ca0c2197b72c355b1f7a0bebe1]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/13) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-ef2059ca0c2197b72c355b1f7a0bebe1]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/13) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-7e2949a10efb27c464ccebd11905afde]: Commencement: Sch. 5 para. 14 not in force at Royal Assent and Sch. 14 para. 14(2) comes into force in accordance with s. 118(3), see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-7e2949a10efb27c464ccebd11905afde]: Commencement: Sch. 5 para. 14 not in force at Royal Assent and Sch. 14 para. 14(2) comes into force in accordance with s. 118(3), see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-2f7207deb32e9166d6a4d3d302c8d8ce]: Commencement: [Sch. 5 para. 14(1)](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/14/1) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-2f7207deb32e9166d6a4d3d302c8d8ce]: Commencement: [Sch. 5 para. 14(1)](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/14/1) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-a8b20993d56341da1641ceb639108635]: Commencement: Sch. 5 para. 15 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-a8b20993d56341da1641ceb639108635]: Commencement: Sch. 5 para. 15 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-934a3017997a19d3bf2f5f72e5ecfd98]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/15) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-934a3017997a19d3bf2f5f72e5ecfd98]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/15) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-a6a59c25f95574580324f2e82bd89b09]: Commencement: Sch. 5 para. 16 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-a6a59c25f95574580324f2e82bd89b09]: Commencement: Sch. 5 para. 16 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-ff7b2b5a39b7754b960cc302e0d0d6f3]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/16) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-ff7b2b5a39b7754b960cc302e0d0d6f3]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/16) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-fe4b576583b67beea04276ed9075bde4]: Commencement: Sch. 5 para. 17 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-fe4b576583b67beea04276ed9075bde4]: Commencement: Sch. 5 para. 17 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-52907dd315754bd71b881dd9ba31d670]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/17) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-52907dd315754bd71b881dd9ba31d670]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/17) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-62c831fbc6ea494c12c9da57821545fe]: Commencement: Sch. 5 para. 18 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-62c831fbc6ea494c12c9da57821545fe]: Commencement: Sch. 5 para. 18 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-ef3a2ab5b33da096ae5d4493e96a60c8]: Commencement: [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/18) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-ef3a2ab5b33da096ae5d4493e96a60c8]: Commencement: [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/18) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-02d0dccf084dad8fd75f4aa7d479258a]: Commencement: Sch. 5 para. 19 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-02d0dccf084dad8fd75f4aa7d479258a]: Commencement: Sch. 5 para. 19 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-96a4c2b8f06af32ce12d426c4492fa11]: Commencement: [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/19) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-96a4c2b8f06af32ce12d426c4492fa11]: Commencement: [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/19) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-998b1206ae4768543b8cfdb4ba3e10cd]: Commencement: Sch. 5 para. 20 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-998b1206ae4768543b8cfdb4ba3e10cd]: Commencement: Sch. 5 para. 20 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-2f6af0d253599d4ef5eca21929638b4d]: Commencement: [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/20) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-2f6af0d253599d4ef5eca21929638b4d]: Commencement: [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/20) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-433bf3c23ac8997721b07eb7a233c68b]: Commencement: Sch. 5 para. 21 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-433bf3c23ac8997721b07eb7a233c68b]: Commencement: Sch. 5 para. 21 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-917ee8cfecfd0c253546a5ed8090e066]: Commencement: [Sch. 5 para. 21](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/21) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-917ee8cfecfd0c253546a5ed8090e066]: Commencement: [Sch. 5 para. 21](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/21) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-a8610645eb2d60b18ceafca6ee7ead1c]: Commencement: Sch. 5 para. 22 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-a8610645eb2d60b18ceafca6ee7ead1c]: Commencement: Sch. 5 para. 22 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-b8ba00867c940c689841f37773eb1da0]: Commencement: [Sch. 5 para. 22](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/22) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-b8ba00867c940c689841f37773eb1da0]: Commencement: [Sch. 5 para. 22](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/22) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-134ac3de40cd7f47c6963502ef74d9a9]: Commencement: Sch. 5 para. 23 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-134ac3de40cd7f47c6963502ef74d9a9]: Commencement: Sch. 5 para. 23 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-77388f71d6ee05c577796ef9368194c3]: Commencement: [Sch. 5 para. 23](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/23) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-77388f71d6ee05c577796ef9368194c3]: Commencement: [Sch. 5 para. 23](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/23) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-8fd2df09e80c94307bff52c90b21beb9]: Commencement: Sch. 5 para. 24 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-8fd2df09e80c94307bff52c90b21beb9]: Commencement: Sch. 5 para. 24 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-ffed832851e4413df249cb7e821b40d1]: Commencement: [Sch. 5 para. 24](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/24) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-ffed832851e4413df249cb7e821b40d1]: Commencement: [Sch. 5 para. 24](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/24) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-25fcda96d9bca1d7209765692ceb589f]: Commencement: Sch. 5 para. 25 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-25fcda96d9bca1d7209765692ceb589f]: Commencement: Sch. 5 para. 25 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-a5ae47930530a2727928d36e91b16fb6]: Commencement: [Sch. 5 para. 25](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/25) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-a5ae47930530a2727928d36e91b16fb6]: Commencement: [Sch. 5 para. 25](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/25) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-b8fd5da998005267fbd5c8a4ede84651]: Commencement: Sch. 5 para. 26 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-b8fd5da998005267fbd5c8a4ede84651]: Commencement: Sch. 5 para. 26 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-12b7aa2f84f3412c65bcad218a7d8881]: Commencement: [Sch. 5 para. 26](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/26) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-12b7aa2f84f3412c65bcad218a7d8881]: Commencement: [Sch. 5 para. 26](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/26) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-8ba477ae2fd2c03a414729352550e20b]: Commencement: Sch. 5 para. 27 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-8ba477ae2fd2c03a414729352550e20b]: Commencement: Sch. 5 para. 27 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-df833841de2a83dd855d1ceb277fa478]: Commencement: [Sch. 5 para. 27](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/27) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-df833841de2a83dd855d1ceb277fa478]: Commencement: [Sch. 5 para. 27](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/27) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-18eb3e74b9d41751b2b0968045dc4a68]: Commencement: Sch. 5 para. 28 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-18eb3e74b9d41751b2b0968045dc4a68]: Commencement: Sch. 5 para. 28 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-121fbf8bc3b4e6433ba19f4b2913a38b]: Commencement: [Sch. 5 para. 28](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/28) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-121fbf8bc3b4e6433ba19f4b2913a38b]: Commencement: [Sch. 5 para. 28](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/28) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-5987fdef624d05c270410197bf00fc38]: Commencement: Sch. 5 para. 29 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-5987fdef624d05c270410197bf00fc38]: Commencement: Sch. 5 para. 29 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-5d2219d63302086d210527726f32e4da]: Commencement: [Sch. 5 para. 29](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/29) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-5d2219d63302086d210527726f32e4da]: Commencement: [Sch. 5 para. 29](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/29) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-413d3b46fe180920347f6c98d56aa08e]: Commencement: Sch. 5 para. 30 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-413d3b46fe180920347f6c98d56aa08e]: Commencement: Sch. 5 para. 30 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-da8f4779316fe6b08a83e8882c41f40d]: Commencement: [Sch. 5 para. 30](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/30) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-da8f4779316fe6b08a83e8882c41f40d]: Commencement: [Sch. 5 para. 30](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/30) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-4c5240ef373826fcc13ec5042cdc1f5f]: Commencement: Sch. 5 para. 31 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-4c5240ef373826fcc13ec5042cdc1f5f]: Commencement: Sch. 5 para. 31 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-ce326fe22258abcb3a40decbb32cfd0c]: Commencement: [Sch. 5 para. 31](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/31) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-ce326fe22258abcb3a40decbb32cfd0c]: Commencement: [Sch. 5 para. 31](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/31) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-685f6265dc8f62d9bfdc4923a9b8e364]: Commencement: Sch. 5 para. 32 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-685f6265dc8f62d9bfdc4923a9b8e364]: Commencement: Sch. 5 para. 32 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-a99799d455d6876278284696aecda122]: Commencement: [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/32) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-a99799d455d6876278284696aecda122]: Commencement: [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/32) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-52e95b77a8f345286c07e0dd1f284800]: Commencement: Sch. 5 para. 33 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-52e95b77a8f345286c07e0dd1f284800]: Commencement: Sch. 5 para. 33 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-5d2119b943a5565afab1b4a2e147c76d]: Commencement: [Sch. 5 para. 33](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/33) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-5d2119b943a5565afab1b4a2e147c76d]: Commencement: [Sch. 5 para. 33](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/33) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-be74a3ac567a291feaff662860f57a64]: Commencement: Sch. 5 para. 34 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-be74a3ac567a291feaff662860f57a64]: Commencement: Sch. 5 para. 34 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-e30b2f2671f9bd54b687a0c54dec6555]: Commencement: [Sch. 5 para. 34](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/34) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-e30b2f2671f9bd54b687a0c54dec6555]: Commencement: [Sch. 5 para. 34](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/34) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-c5515e90107a99b9164bf42b3ffb59c2]: Commencement: Sch. 5 para. 35 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-c5515e90107a99b9164bf42b3ffb59c2]: Commencement: Sch. 5 para. 35 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-2936876bb5b6de4810c9f60dfcd86450]: Commencement: [Sch. 5 para. 35](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/35) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-2936876bb5b6de4810c9f60dfcd86450]: Commencement: [Sch. 5 para. 35](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/35) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-d99e5713bdebab788e20a1ab7928de3d]: Commencement: Sch. 5 para. 36 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-d99e5713bdebab788e20a1ab7928de3d]: Commencement: Sch. 5 para. 36 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-835da12c29f059a47f17b6182922318d]: Commencement: [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/36) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-835da12c29f059a47f17b6182922318d]: Commencement: [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/36) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-b9e96ba9c6d02e72504b9b337e8ef2be]: Commencement: Sch. 5 para. 37 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-b9e96ba9c6d02e72504b9b337e8ef2be]: Commencement: Sch. 5 para. 37 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-a8f29b465a27b44738716ee799041d96]: Commencement: [Sch. 5 para. 37](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/37) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-a8f29b465a27b44738716ee799041d96]: Commencement: [Sch. 5 para. 37](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/37) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-2c8a1e8ffd16475d942ece9e54c242ef]: Commencement: Sch. 5 para. 38 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-2c8a1e8ffd16475d942ece9e54c242ef]: Commencement: Sch. 5 para. 38 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-1b64d4b0c6e0d9eca1f95d7b022c5c4c]: Commencement: [Sch. 5 para. 38](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/38) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-1b64d4b0c6e0d9eca1f95d7b022c5c4c]: Commencement: [Sch. 5 para. 38](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/38) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-15b9cefbbcf91a0432cd278a5cd077b9]: Commencement: Sch. 5 para. 39 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-15b9cefbbcf91a0432cd278a5cd077b9]: Commencement: Sch. 5 para. 39 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-2b52e84e51848ffd887cedaab1f5003c]: Commencement: [Sch. 5 para. 39](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/39) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-2b52e84e51848ffd887cedaab1f5003c]: Commencement: [Sch. 5 para. 39](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/39) in force at 21.5.2026 by [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
 
-[^key-a3db61bc2233a00fa0178a7bd538be9d]: Commencement: Sch. 5 para. 40 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-a3db61bc2233a00fa0178a7bd538be9d]: Commencement: Sch. 5 para. 40 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-7eed999d5e5688dcd8ed8e1993624e71]: Commencement: [Sch. 5 para. 40](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/40) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
+[^c-7eed999d5e5688dcd8ed8e1993624e71]: Commencement: [Sch. 5 para. 40](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/40) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
 
-[^key-9b81db2498ad3410977f8472c823a17e]: Commencement: Sch. 5 para. 41 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-9b81db2498ad3410977f8472c823a17e]: Commencement: Sch. 5 para. 41 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-7b4c7d5358f276c342682e30e64fedb4]: Commencement: [Sch. 5 para. 41](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/41) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
+[^c-7b4c7d5358f276c342682e30e64fedb4]: Commencement: [Sch. 5 para. 41](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/41) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
 
-[^key-2276694033bb1f9a9494a61d99e6e66c]: Commencement: Sch. 5 para. 42 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-2276694033bb1f9a9494a61d99e6e66c]: Commencement: Sch. 5 para. 42 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-8450e608176dbea3c7f01ee1d515e686]: Commencement: [Sch. 5 para. 42](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/42) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
+[^c-8450e608176dbea3c7f01ee1d515e686]: Commencement: [Sch. 5 para. 42](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/42) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
 
-[^key-78497f2158cc4a0dc57dc86bb80d6eaf]: Commencement: Sch. 5 para. 43 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-78497f2158cc4a0dc57dc86bb80d6eaf]: Commencement: Sch. 5 para. 43 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-ed942d4aff23ddb20ab65849e10ac727]: Commencement: [Sch. 5 para. 43](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/43) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
+[^c-ed942d4aff23ddb20ab65849e10ac727]: Commencement: [Sch. 5 para. 43](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/43) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
 
-[^key-eb7ab583b09f98f8d642d90f476074dc]: Commencement: Sch. 5 para. 44 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-eb7ab583b09f98f8d642d90f476074dc]: Commencement: Sch. 5 para. 44 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-4728490e432415c9f4976be7ee6a80ca]: Commencement: [Sch. 5 para. 44](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/44) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
+[^c-4728490e432415c9f4976be7ee6a80ca]: Commencement: [Sch. 5 para. 44](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/44) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
 
-[^key-127798d891ec555b3ce739489240d32c]: Commencement: Sch. 5 para. 45 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-127798d891ec555b3ce739489240d32c]: Commencement: Sch. 5 para. 45 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-0b47d3b4a6d528ad7421478622f87085]: Commencement: [Sch. 5 para. 45](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/45) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
+[^c-0b47d3b4a6d528ad7421478622f87085]: Commencement: [Sch. 5 para. 45](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/45) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
 
-[^key-258be357885ff0f1563403898f048a2d]: Commencement: Sch. 5 para. 46 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-258be357885ff0f1563403898f048a2d]: Commencement: Sch. 5 para. 46 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-77c8114b5f27de1b1a61d1b8636861e5]: Commencement: [Sch. 5 para. 46](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/46) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
+[^c-77c8114b5f27de1b1a61d1b8636861e5]: Commencement: [Sch. 5 para. 46](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/46) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
 
-[^key-bf986f4402a267c79e290010dd90359a]: Commencement: Sch. 5 para. 47 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-bf986f4402a267c79e290010dd90359a]: Commencement: Sch. 5 para. 47 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-48ede51cf1b4c31f32de70c3dda1a5c1]: Commencement: [Sch. 5 para. 47](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/47) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
+[^c-48ede51cf1b4c31f32de70c3dda1a5c1]: Commencement: [Sch. 5 para. 47](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/47) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
 
-[^key-995f75c0c86ee819821e4bccc5a0856a]: Commencement: Sch. 5 para. 48 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-995f75c0c86ee819821e4bccc5a0856a]: Commencement: Sch. 5 para. 48 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-2a6f6b2166f10cf004fc2afcf3c9cf88]: Commencement: [Sch. 5 para. 48](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/48) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
+[^c-2a6f6b2166f10cf004fc2afcf3c9cf88]: Commencement: [Sch. 5 para. 48](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/48) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
 
-[^key-590432925651c726b6f37117f9ce429f]: Commencement: Sch. 5 para. 49 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-590432925651c726b6f37117f9ce429f]: Commencement: Sch. 5 para. 49 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-d28a22ffbbb01609576f6e4137b0f5cd]: Commencement: [Sch. 5 para. 49](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/49) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
+[^c-d28a22ffbbb01609576f6e4137b0f5cd]: Commencement: [Sch. 5 para. 49](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/49) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
 
-[^key-868739e6dd8ccd9c2ffb8850289c94c5]: Commencement: Sch. 5 para. 50 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-868739e6dd8ccd9c2ffb8850289c94c5]: Commencement: Sch. 5 para. 50 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-1bf387ec721bc145c4c412172eb0b0a9]: Commencement: [Sch. 5 para. 50](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/50) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
+[^c-1bf387ec721bc145c4c412172eb0b0a9]: Commencement: [Sch. 5 para. 50](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/50) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
 
-[^key-21086c2b6b3d25ea3e944dbf3a1257af]: Commencement: Sch. 5 para. 51 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-21086c2b6b3d25ea3e944dbf3a1257af]: Commencement: Sch. 5 para. 51 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-48b6ac2ee384b396a4354b52ee046164]: Commencement: [Sch. 5 para. 51](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/51) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
+[^c-48b6ac2ee384b396a4354b52ee046164]: Commencement: [Sch. 5 para. 51](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/51) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
 
-[^key-056dcaa769103d2c820271f3223c7972]: Commencement: Sch. 5 para. 52 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-056dcaa769103d2c820271f3223c7972]: Commencement: Sch. 5 para. 52 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-a2ab6c0ffbca32456ba5431b93e1da4a]: Commencement: [Sch. 5 para. 52](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/52) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
+[^c-a2ab6c0ffbca32456ba5431b93e1da4a]: Commencement: [Sch. 5 para. 52](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/52) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)

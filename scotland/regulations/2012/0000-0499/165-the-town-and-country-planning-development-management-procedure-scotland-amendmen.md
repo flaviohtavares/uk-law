@@ -32,7 +32,7 @@ summary: ''
 
 Town And Country Planning
 
-The Town and Country Planning (Development Management Procedure) (Scotland) Amendment Regulations 2012 (revoked)[^key-6a8a1e65fc9737c0cea603438982a5a2]
+The Town and Country Planning (Development Management Procedure) (Scotland) Amendment Regulations 2012 (revoked)[^c-6a8a1e65fc9737c0cea603438982a5a2]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st July 2012
 
-[^key-6a8a1e65fc9737c0cea603438982a5a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a8a1e65fc9737c0cea603438982a5a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-6a8a1e65fc9737c0cea603438982a5a2]
+## 1. Citation, commencement and application[^c-6a8a1e65fc9737c0cea603438982a5a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2008[^key-6a8a1e65fc9737c0cea603438982a5a2]
+## 2. Amendment of the Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2008[^c-6a8a1e65fc9737c0cea603438982a5a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6a8a1e65fc9737c0cea603438982a5a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a8a1e65fc9737c0cea603438982a5a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6a8a1e65fc9737c0cea603438982a5a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a8a1e65fc9737c0cea603438982a5a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6a8a1e65fc9737c0cea603438982a5a2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2012/165) revoked (30.6.2013) by [The Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013 (S.S.I. 2013/155)](https://www.legislation.gov.uk/ssi/2013/155), [reg. 1](https://www.legislation.gov.uk/ssi/2013/155/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2013/155/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2013/155/regulation/2), [49](https://www.legislation.gov.uk/ssi/2013/155/regulation/49), [51(2)-(4)](https://www.legislation.gov.uk/ssi/2013/155/regulation/51/2))
+[^c-6a8a1e65fc9737c0cea603438982a5a2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2012/165) revoked (30.6.2013) by [The Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013 (S.S.I. 2013/155)](https://www.legislation.gov.uk/ssi/2013/155), [reg. 1](https://www.legislation.gov.uk/ssi/2013/155/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2013/155/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2013/155/regulation/2), [49](https://www.legislation.gov.uk/ssi/2013/155/regulation/49), [51(2)-(4)](https://www.legislation.gov.uk/ssi/2013/155/regulation/51/2))

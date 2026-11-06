@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Viability report[^key-e2a4936148d0a35251dde7d9427f186c]
+## 10. Viability report[^c-e2a4936148d0a35251dde7d9427f186c]
 
 *Extent: E+W+S*
 
@@ -37,7 +37,7 @@ summary: ''
 (4) The document described at paragraph (3)(b) must include an explanation of—
 
 - (a) the assumptions used by the scheme actuary in carrying out the tests in regulation 11(2)(c) or (d) (as the case may be) and how the use of those assumptions is justified;
-- (b)[^key-1ebeefbf75d26ebd746154123abd44de] the conclusions reached by the scheme actuary on—
+- (b)[^c-1ebeefbf75d26ebd746154123abd44de] the conclusions reached by the scheme actuary on—
   - (i) the matters contained in regulation 11(2);
   - (ii) whether the rules of the scheme meet the requirements of section 18 of the Act (calculation of benefits) and the requirements of regulation 17; and
 - (c) the testing or modelling being considered by the trustees including the results of such testing or modelling.
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e2a4936148d0a35251dde7d9427f186c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2022/255/regulation/10) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-e2a4936148d0a35251dde7d9427f186c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2022/255/regulation/10) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-1ebeefbf75d26ebd746154123abd44de]: Textual amendment: [Reg. 10(4)(b)](https://www.legislation.gov.uk/uksi/2022/255/regulation/10/4/b) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [66](https://www.legislation.gov.uk/uksi/2025/1313/regulation/66)
+[^c-1ebeefbf75d26ebd746154123abd44de]: Textual amendment: [Reg. 10(4)(b)](https://www.legislation.gov.uk/uksi/2022/255/regulation/10/4/b) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [66](https://www.legislation.gov.uk/uksi/2025/1313/regulation/66)

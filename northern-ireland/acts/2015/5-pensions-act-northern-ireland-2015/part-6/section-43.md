@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Disclosure of information about transaction costs to members etc.[^key-f9b0e7b729d03180fdee322b81172a9e]
+## 43. Disclosure of information about transaction costs to members etc.[^c-f9b0e7b729d03180fdee322b81172a9e]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ In section 109 of the Pension Schemes Act (disclosure of information about schem
 
 ## Annotations
 
-[^key-f9b0e7b729d03180fdee322b81172a9e]: Commencement: [S. 43](https://www.legislation.gov.uk/nia/2015/5/section/43) in operation at 9.3.2018 by [S.R. 2018/41](https://www.legislation.gov.uk/nisr/2018/41), [art. 2(1)](https://www.legislation.gov.uk/nisr/2018/41/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/nisr/2018/41/article/2/2))
+[^c-f9b0e7b729d03180fdee322b81172a9e]: Commencement: [S. 43](https://www.legislation.gov.uk/nia/2015/5/section/43) in operation at 9.3.2018 by [S.R. 2018/41](https://www.legislation.gov.uk/nisr/2018/41), [art. 2(1)](https://www.legislation.gov.uk/nisr/2018/41/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/nisr/2018/41/article/2/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Transitional, supplementary and saving provisions etc[^key-a74f4a9729f6dac220d4211c03870a1b]
+## 33. Transitional, supplementary and saving provisions etc[^c-a74f4a9729f6dac220d4211c03870a1b]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a74f4a9729f6dac220d4211c03870a1b]: Commencement: S. 33 in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(t)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/t)
+[^c-a74f4a9729f6dac220d4211c03870a1b]: Commencement: S. 33 in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(t)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/t)

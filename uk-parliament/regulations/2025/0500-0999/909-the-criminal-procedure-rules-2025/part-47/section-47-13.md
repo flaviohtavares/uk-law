@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.13. Content of application for a disclosure order or information order under the Terrorism Act 2000 or the National Security Act 2023[^key-86a3934b0bd16ec7e411cff59c0b2e8c]
+## 47.13. Content of application for a disclosure order or information order under the Terrorism Act 2000 or the National Security Act 2023[^c-86a3934b0bd16ec7e411cff59c0b2e8c]
 
 *Extent: E+W*
 
@@ -102,7 +102,7 @@ summary: ''
 
 ## Annotations
 
-[^key-86a3934b0bd16ec7e411cff59c0b2e8c]: Commencement: Rule 47.13 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-86a3934b0bd16ec7e411cff59c0b2e8c]: Commencement: Rule 47.13 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01151]: Footnote: [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11); section 17A was inserted by section 42 of the Counter-Terrorism and Security Act [2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6).
 

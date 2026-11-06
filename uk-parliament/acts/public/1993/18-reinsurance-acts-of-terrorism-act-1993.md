@@ -50,13 +50,13 @@ An Act to provide for the payment out of money provided by Parliament or into th
 
 (1) This Act applies to arrangements under which the Treasury[^c8608491]. . . undertake[^c8608511] to any extent the liability of reinsuring risks against—
 
-- (a) loss of or damage to property in Great Britain resulting from or consequential upon acts of terrorism; [^key-de7ca92963a8f48d71045e1467486cc0]...
-- (b) any loss which is consequential on loss or damage falling within paragraph (a) above; and[^key-e35d7db795bd90d1665a2b654d40853e]
+- (a) loss of or damage to property in Great Britain resulting from or consequential upon acts of terrorism; [^c-de7ca92963a8f48d71045e1467486cc0]...
+- (b) any loss which is consequential on loss or damage falling within paragraph (a) above; and[^c-e35d7db795bd90d1665a2b654d40853e]
 - (c) any loss which falls within subsection (1A);
 
 and to the extent that the arrangements relate to events occurring before as well as after an agreement of reinsurance comes into being, the reference in section 1(1) above to the obligations of the Treasury shall be construed accordingly.
 
-(1A)[^key-44542524f3ab777e4acaf652ca481b25] Loss falls within this subsection if—
+(1A)[^c-44542524f3ab777e4acaf652ca481b25] Loss falls within this subsection if—
 
 - (a) it results from interruption to business carried on in Great Britain, and
 - (b) the interruption results from or is consequential upon acts of terrorism.
@@ -65,7 +65,7 @@ and to the extent that the arrangements relate to events occurring before as wel
 
 (3) In subsection (2) above “**organisation**” includes any association or combination of persons.
 
-## 2A. Directions[^key-76497df2724c2bedf130e34c46deae63]
+## 2A. Directions[^c-76497df2724c2bedf130e34c46deae63]
 
 (1) A relevant person must comply with any directions given to it by the Treasury under this section.
 
@@ -141,10 +141,10 @@ and to the extent that the arrangements relate to events occurring before as wel
 
 [^c8608511]: Textual amendment: Word in s. 2(1) substituted (5.1.1998) by [S.I. 1997/2781](https://www.legislation.gov.uk/uksi/1997/2781), [art. 8(1)](https://www.legislation.gov.uk/uksi/1997/2781/article/8/1), [Sch. Pt. II para. 123(b)](https://www.legislation.gov.uk/uksi/1997/2781/schedule/part/II/paragraph/123/b) (with saving in [art. 7](https://www.legislation.gov.uk/uksi/1997/2781/article/7))
 
-[^key-de7ca92963a8f48d71045e1467486cc0]: Textual amendment: Word in s. 2(1)(a) omitted (12.2.2019) by virtue of [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 21(2)(a)](https://www.legislation.gov.uk/ukpga/2019/3/section/21/2/a), [27(1)(a)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/1/a)
+[^c-de7ca92963a8f48d71045e1467486cc0]: Textual amendment: Word in s. 2(1)(a) omitted (12.2.2019) by virtue of [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 21(2)(a)](https://www.legislation.gov.uk/ukpga/2019/3/section/21/2/a), [27(1)(a)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/1/a)
 
-[^key-e35d7db795bd90d1665a2b654d40853e]: Textual amendment: S. 2(1)(c) and word inserted (12.2.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 21(2)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/21/2/b), [27(1)(a)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/1/a)
+[^c-e35d7db795bd90d1665a2b654d40853e]: Textual amendment: S. 2(1)(c) and word inserted (12.2.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 21(2)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/21/2/b), [27(1)(a)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/1/a)
 
-[^key-44542524f3ab777e4acaf652ca481b25]: Textual amendment: S. 2(1A) inserted (12.2.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 21(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/21/3), [27(1)(a)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/1/a)
+[^c-44542524f3ab777e4acaf652ca481b25]: Textual amendment: S. 2(1A) inserted (12.2.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 21(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/21/3), [27(1)(a)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/1/a)
 
-[^key-76497df2724c2bedf130e34c46deae63]: Textual amendment: [Ss. 2A](https://www.legislation.gov.uk/ukpga/1993/18/section/2A), [2B](https://www.legislation.gov.uk/ukpga/1993/18/section/2B) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 74(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/74/2), [86(2)(j)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/j)
+[^c-76497df2724c2bedf130e34c46deae63]: Textual amendment: [Ss. 2A](https://www.legislation.gov.uk/ukpga/1993/18/section/2A), [2B](https://www.legislation.gov.uk/ukpga/1993/18/section/2B) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 74(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/74/2), [86(2)(j)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/j)

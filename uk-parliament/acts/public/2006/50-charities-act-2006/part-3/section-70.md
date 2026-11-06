@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Power of relevant Minister to give financial assistance to charitable, benevolent or philanthropic institutions[^key-b79a6ff22246ce8a065f42f697138ebb][^key-09ef5997a50327a204faa188a0854894][^key-81e24d8de0ed8d00fcbdfde9459bd145]
+## 70. Power of relevant Minister to give financial assistance to charitable, benevolent or philanthropic institutions[^c-b79a6ff22246ce8a065f42f697138ebb][^c-09ef5997a50327a204faa188a0854894][^c-81e24d8de0ed8d00fcbdfde9459bd145]
 
 *Extent: E+W*
 
@@ -65,14 +65,14 @@ but do not prevent the functions concerned from being exercised by a relevant Mi
 - (a) a charity, or
 - (b) an institution (other than a charity) which is established for charitable, benevolent or philanthropic purposes.
 
-(11) In this section “**relevant Minister**” means the Secretary of State or the Minister for the Cabinet Office[^key-f006390aa9aa0a2850dc16bb9065e89d].
+(11) In this section “**relevant Minister**” means the Secretary of State or the Minister for the Cabinet Office[^c-f006390aa9aa0a2850dc16bb9065e89d].
 
 ## Annotations
 
-[^key-b79a6ff22246ce8a065f42f697138ebb]: Commencement: S. 70 in force at 1.4.2007 by [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 3](https://www.legislation.gov.uk/uksi/2007/309/article/3)
+[^c-b79a6ff22246ce8a065f42f697138ebb]: Commencement: S. 70 in force at 1.4.2007 by [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 3](https://www.legislation.gov.uk/uksi/2007/309/article/3)
 
-[^key-09ef5997a50327a204faa188a0854894]: Modification: S. 70 functions made exercisable concurrently (12.10.2007) by [Transfer of Functions (Equality) Order 2007 (S.I. 2007/2914)](https://www.legislation.gov.uk/uksi/2007/2914), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2007/2914/article/3/4/b)
+[^c-09ef5997a50327a204faa188a0854894]: Modification: S. 70 functions made exercisable concurrently (12.10.2007) by [Transfer of Functions (Equality) Order 2007 (S.I. 2007/2914)](https://www.legislation.gov.uk/uksi/2007/2914), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2007/2914/article/3/4/b)
 
-[^key-81e24d8de0ed8d00fcbdfde9459bd145]: Modification: S. 70 functions ceased to be exercisable concurrently (18.8.2010) by [Transfer of Functions (Equality) Order 2010 (S.I. 2010/1839)](https://www.legislation.gov.uk/uksi/2010/1839), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1839/article/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2010/1839/article/3/2/b)
+[^c-81e24d8de0ed8d00fcbdfde9459bd145]: Modification: S. 70 functions ceased to be exercisable concurrently (18.8.2010) by [Transfer of Functions (Equality) Order 2010 (S.I. 2010/1839)](https://www.legislation.gov.uk/uksi/2010/1839), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1839/article/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2010/1839/article/3/2/b)
 
-[^key-f006390aa9aa0a2850dc16bb9065e89d]: Textual amendment: Words in [s. 70(11)](https://www.legislation.gov.uk/ukpga/2006/50/section/70/11) substituted (18.8.2010) by [Transfer of Functions (Equality) Order 2010 (S.I. 2010/1839)](https://www.legislation.gov.uk/uksi/2010/1839), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1839/article/1/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/1839/schedule/paragraph/8)
+[^c-f006390aa9aa0a2850dc16bb9065e89d]: Textual amendment: Words in [s. 70(11)](https://www.legislation.gov.uk/ukpga/2006/50/section/70/11) substituted (18.8.2010) by [Transfer of Functions (Equality) Order 2010 (S.I. 2010/1839)](https://www.legislation.gov.uk/uksi/2010/1839), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1839/article/1/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/1839/schedule/paragraph/8)

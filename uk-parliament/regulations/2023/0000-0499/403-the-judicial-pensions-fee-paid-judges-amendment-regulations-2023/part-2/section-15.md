@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Amendment of regulation 13[^key-ef07fdb89beeaa74a36753ff70a23e91]
+## 15. Amendment of regulation 13[^c-ef07fdb89beeaa74a36753ff70a23e91]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ In regulation 13—
 
 ## Annotations
 
-[^key-ef07fdb89beeaa74a36753ff70a23e91]: Commencement: Reg. 15 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-ef07fdb89beeaa74a36753ff70a23e91]: Commencement: Reg. 15 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

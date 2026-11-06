@@ -41,28 +41,28 @@ The Welsh Ministers, in exercise of the powers conferred by sections 23C(5B) and
 
 In accordance with section 104A(3) and (4)[^f00002] of that Act, a draft of these Regulations was laid before, and approved by resolution of, the National Assembly for Wales.
 
-## 1. Title, commencement and application[^key-8e12df9050ff7d7d132920c2bfc3081e]
+## 1. Title, commencement and application[^c-8e12df9050ff7d7d132920c2bfc3081e]
 
 (1) The title of these Regulations is the Children Act 1989 (Higher Education Bursary) (Wales) Regulations 2011.
 
 (2) These Regulations come into force on the day after the day on which they are made and apply in relation to Wales.
 
-## 2. Interpretation[^key-1563d8443b44c4afb1a0b54d1130cc7b]
+## 2. Interpretation[^c-1563d8443b44c4afb1a0b54d1130cc7b]
 
 In these Regulations “the 1989 Act” (“*Deddf 1989*”) means the Children Act 1989.
 
-## 3. Relevant amount[^key-b6e14f12c64945d6759df241107f0750]
+## 3. Relevant amount[^c-b6e14f12c64945d6759df241107f0750]
 
 “The relevant amount” (“*y swm perthnasol*”) for the purposes of section 23C(5A) of the 1989 Act is prescribed as £2,000.
 
-## 4. Meaning of “higher education”[^key-2b6d847383e6d97107833798d33eb77b]
+## 4. Meaning of “higher education”[^c-2b6d847383e6d97107833798d33eb77b]
 
 (1) “Higher education” (“*addysg uwch*”) for the purposes of section 23C(5A) of the 1989 Act is prescribed as a course of education that is—
 
 - (a) one of the following—
   - (i) a first degree;
   - (ii) a course for the Diploma of Higher Education;
-  - (iii) a course for the Higher National Diploma of the Business and Technician Education Council or Qualifications Scotland[^key-e77fc4f36ff2bc900d54a5b4623d163d];
+  - (iii) a course for the Higher National Diploma of the Business and Technician Education Council or Qualifications Scotland[^c-e77fc4f36ff2bc900d54a5b4623d163d];
   - (iv) a course for the initial training of teachers;
   - (v) a course for the further training of youth and community workers;
   - (vi) a course (for entry to which a first degree or equivalent qualification is not normally required) in preparation for a professional examination at a higher level;
@@ -72,9 +72,9 @@ In these Regulations “the 1989 Act” (“*Deddf 1989*”) means the Children 
 (2) For the purposes of sub-paragraph (vi) an examination at a higher level is one that is of a standard higher than—
 
 - (a) the examination at advanced level for the General Certificate of Education or the examination at higher level for the Scottish Certificate of Education; or
-- (b) the examination for the National Certificate or the National Diploma of the Business and Technician Education Council or Qualifications Scotland[^key-e0247a2230f0f95ff4eccf174cde96a8].
+- (b) the examination for the National Certificate or the National Diploma of the Business and Technician Education Council or Qualifications Scotland[^c-e0247a2230f0f95ff4eccf174cde96a8].
 
-## 5. Provision as to the payment of the relevant amount[^key-da23a7f57e8888cb6620150de0b6640a]
+## 5. Provision as to the payment of the relevant amount[^c-da23a7f57e8888cb6620150de0b6640a]
 
 (1) The local authority[^f00005] may pay the relevant amount to a former relevant child as a lump sum or by instalments.
 
@@ -96,7 +96,7 @@ In these Regulations “the 1989 Act” (“*Deddf 1989*”) means the Children 
 
 (5) The local authority may withhold payment of any unpaid balance of the relevant amount during any period when the former relevant child is not pursuing higher education in accordance with the pathway plan[^f00006] for that person.
 
-## 6. Recovery of the relevant amount by the local authority[^key-8baec71ea62b57e52c300f67e2d07a22]
+## 6. Recovery of the relevant amount by the local authority[^c-8baec71ea62b57e52c300f67e2d07a22]
 
 The local authority may recover the whole of the relevant amount or any part of it from a person to whom payment has been made if there has been a mistake as to the eligibility of that person for the payment.
 
@@ -132,26 +132,26 @@ A regulatory impact assessment has been prepared in connection with these Regula
 
 [^f00002]: Footnote: Section 104A of the 1989 Act was inserted by section 39 of and paragraphs 1 and 26 of Schedule 3 to the 2008 Act. Section 104A (3) and (4) provide that the first regulations to be made in exercise of the power conferred by section 23C(5B)(b) shall not be made by the Welsh Ministers unless a draft of the statutory instrument has been laid before and approved by resolution of the National Assembly for Wales.
 
-[^key-8e12df9050ff7d7d132920c2bfc3081e]: Commencement: Reg. 1 in force at 17.3.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/823/regulation/1/2)
+[^c-8e12df9050ff7d7d132920c2bfc3081e]: Commencement: Reg. 1 in force at 17.3.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/823/regulation/1/2)
 
-[^key-1563d8443b44c4afb1a0b54d1130cc7b]: Commencement: Reg. 2 in force at 17.3.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/823/regulation/1/2)
+[^c-1563d8443b44c4afb1a0b54d1130cc7b]: Commencement: Reg. 2 in force at 17.3.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/823/regulation/1/2)
 
-[^key-b6e14f12c64945d6759df241107f0750]: Commencement: Reg. 3 in force at 17.3.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/823/regulation/1/2)
+[^c-b6e14f12c64945d6759df241107f0750]: Commencement: Reg. 3 in force at 17.3.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/823/regulation/1/2)
 
-[^key-2b6d847383e6d97107833798d33eb77b]: Commencement: Reg. 4 in force at 17.3.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/823/regulation/1/2)
+[^c-2b6d847383e6d97107833798d33eb77b]: Commencement: Reg. 4 in force at 17.3.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/823/regulation/1/2)
 
-[^key-e77fc4f36ff2bc900d54a5b4623d163d]: Textual amendment: Words in reg. 4(1)(a)(iii) substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/1350)](https://www.legislation.gov.uk/uksi/2025/1350), [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/1350/article/1/4), [Sch. para. 11(2)(a)](https://www.legislation.gov.uk/uksi/2025/1350/schedule/paragraph/11/2/a); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-e77fc4f36ff2bc900d54a5b4623d163d]: Textual amendment: Words in reg. 4(1)(a)(iii) substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/1350)](https://www.legislation.gov.uk/uksi/2025/1350), [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/1350/article/1/4), [Sch. para. 11(2)(a)](https://www.legislation.gov.uk/uksi/2025/1350/schedule/paragraph/11/2/a); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
 
 [^f00003]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30). At the time of making these Regulations relevant Regulations are the Assembly Learning Grants and Loans (Higher Education) (Wales) Regulations 2009 ([S.I. 2009/2737](https://www.legislation.gov.uk/uksi/2009/2737)) and the Education (Student Support) (Dance and Drama) Regulations 1999 ([S.I. 1999/2263](https://www.legislation.gov.uk/uksi/1999/2263)).
 
 [^f00004]: Footnote: “Former relevant child” is defined in section 23C(1) of the 1989 Act. These Regulations relate to a former relevant child for whom a local authority in Wales was last responsible.
 
-[^key-e0247a2230f0f95ff4eccf174cde96a8]: Textual amendment: Words in reg. 4(2)(b) substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/1350)](https://www.legislation.gov.uk/uksi/2025/1350), [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/1350/article/1/4), [Sch. para. 11(3)(a)](https://www.legislation.gov.uk/uksi/2025/1350/schedule/paragraph/11/3/a); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-e0247a2230f0f95ff4eccf174cde96a8]: Textual amendment: Words in reg. 4(2)(b) substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/1350)](https://www.legislation.gov.uk/uksi/2025/1350), [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/1350/article/1/4), [Sch. para. 11(3)(a)](https://www.legislation.gov.uk/uksi/2025/1350/schedule/paragraph/11/3/a); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
 
-[^key-da23a7f57e8888cb6620150de0b6640a]: Commencement: Reg. 5 in force at 17.3.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/823/regulation/1/2)
+[^c-da23a7f57e8888cb6620150de0b6640a]: Commencement: Reg. 5 in force at 17.3.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/823/regulation/1/2)
 
 [^f00005]: Footnote: “The local authority” is the council of a county or county borough in Wales that was last responsible for a former relevant child.
 
 [^f00006]: Footnote: “Pathway plan” is defined in section 23E of the 1989 Act, inserted by section 3 of the Children (Leaving Care) Act [2000 (c. 35)](https://www.legislation.gov.uk/ukpga/2000/35).
 
-[^key-8baec71ea62b57e52c300f67e2d07a22]: Commencement: Reg. 6 in force at 17.3.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/823/regulation/1/2)
+[^c-8baec71ea62b57e52c300f67e2d07a22]: Commencement: Reg. 6 in force at 17.3.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/823/regulation/1/2)

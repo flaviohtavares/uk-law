@@ -35,7 +35,7 @@ summary: ''
 
 (6) A disclosure falls within this subsection if—
 
-- (a) it could not reasonably have become known before the relevant date in the normal course of business to persons carrying on business in the geographical area comprising the United Kingdom and the European Economic Area[^key-1570b7349ebaf07deaba3342e7bd9a68] and specialising in the sector concerned;
+- (a) it could not reasonably have become known before the relevant date in the normal course of business to persons carrying on business in the geographical area comprising the United Kingdom and the European Economic Area[^c-1570b7349ebaf07deaba3342e7bd9a68] and specialising in the sector concerned;
 - (b) it was made to a person other than the designer, or any successor in title of his, under conditions of confidentiality (whether express or implied);
 - (c) it was made by the designer, or any successor in title of his, during the period of 12 months immediately preceding the relevant date;
 - (d) it was made by a person other than the designer, or any successor in title of his, during the period of 12 months immediately preceding the relevant date in consequence of information provided or other action taken by the designer or any successor in title of his; or
@@ -54,4 +54,4 @@ summary: ''
 
 [^c9301]: Textual amendment: Ss. 1-1D substituted (9.12.2001) for s. 1 by [S.I. 2001/3949](https://www.legislation.gov.uk/uksi/2001/3949), [reg. 2](https://www.legislation.gov.uk/uksi/2001/3949/regulation/2) (with transitional provisions in [regs. 10-14](https://www.legislation.gov.uk/uksi/2001/3949/regulation/10))
 
-[^key-1570b7349ebaf07deaba3342e7bd9a68]: Textual amendment: Words in [s. 1B(6)(a)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/1B/6/a) substituted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/8/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1570b7349ebaf07deaba3342e7bd9a68]: Textual amendment: Words in [s. 1B(6)(a)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/section/1B/6/a) substituted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/8/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155A. Notification of registration[^key-fff215e196dbbc7400b657fc09ab2114]
+## 155A. Notification of registration[^c-fff215e196dbbc7400b657fc09ab2114]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fff215e196dbbc7400b657fc09ab2114]: Textual amendment: S. 155A inserted (N.I.) (16.11.2012) by [Civil Registration Act (Northern Ireland) 2011 (c. 20)](https://www.legislation.gov.uk/nia/2011/20), [ss. 24(2)](https://www.legislation.gov.uk/nia/2011/20/section/24/2), [34](https://www.legislation.gov.uk/nia/2011/20/section/34); [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-fff215e196dbbc7400b657fc09ab2114]: Textual amendment: S. 155A inserted (N.I.) (16.11.2012) by [Civil Registration Act (Northern Ireland) 2011 (c. 20)](https://www.legislation.gov.uk/nia/2011/20), [ss. 24(2)](https://www.legislation.gov.uk/nia/2011/20/section/24/2), [34](https://www.legislation.gov.uk/nia/2011/20/section/34); [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)

@@ -71,11 +71,11 @@ an appeal may be made to a valuation tribunal.
 (9) The regulations may include provision that where—
 
 - (a) the listing officer for a billing authority has informed the authority of an alteration of the list; and
-- (b) a copy of the list has been deposited by the authority under section 22(8) , 22A(10)[^c18761651] , 22B(10) or 22B(10A)(a)[^key-fd889b0f966cc8a022aaf0d6ebd23aa2] above,
+- (b) a copy of the list has been deposited by the authority under section 22(8) , 22A(10)[^c18761651] , 22B(10) or 22B(10A)(a)[^c-fd889b0f966cc8a022aaf0d6ebd23aa2] above,
 
 the authority must alter the copy accordingly.
 
-(9A)[^key-3f86395d5b3ff9990176dd7abf2e5aa7] The regulations may include provision that where—
+(9A)[^c-3f86395d5b3ff9990176dd7abf2e5aa7] The regulations may include provision that where—
 
 - (a) the listing officer for a billing authority has informed the authority of an alteration of the list; and
 - (b) the authority keeps the copy list electronically under section 22B(10A)(b),
@@ -93,6 +93,6 @@ the authority must alter the copy accordingly.
 
 [^c18761651]: Textual amendment: Words in s. 24(9)(b) substituted (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 127(1)](https://www.legislation.gov.uk/ukpga/2003/26/section/127/1), [Sch. 7 para. 46](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/46)
 
-[^key-fd889b0f966cc8a022aaf0d6ebd23aa2]: Textual amendment: Words in [s. 24(9)](https://www.legislation.gov.uk/ukpga/1992/14/section/24/9) substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 20(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/20/2/a), [23(2)(i)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/i)
+[^c-fd889b0f966cc8a022aaf0d6ebd23aa2]: Textual amendment: Words in [s. 24(9)](https://www.legislation.gov.uk/ukpga/1992/14/section/24/9) substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 20(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/20/2/a), [23(2)(i)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/i)
 
-[^key-3f86395d5b3ff9990176dd7abf2e5aa7]: Textual amendment: [S. 24(9A)](https://www.legislation.gov.uk/ukpga/1992/14/section/24/9A) inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 20(2)(b)](https://www.legislation.gov.uk/asc/2024/6/section/20/2/b), [23(2)(i)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/i)
+[^c-3f86395d5b3ff9990176dd7abf2e5aa7]: Textual amendment: [S. 24(9A)](https://www.legislation.gov.uk/ukpga/1992/14/section/24/9A) inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 20(2)(b)](https://www.legislation.gov.uk/asc/2024/6/section/20/2/b), [23(2)(i)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/i)

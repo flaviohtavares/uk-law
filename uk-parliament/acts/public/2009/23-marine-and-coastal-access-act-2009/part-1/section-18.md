@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Maximum duration of agreement[^key-1dfbcaebc0fcbb115a9a3f10a0b36ae3]
+## 18. Maximum duration of agreement[^c-1dfbcaebc0fcbb115a9a3f10a0b36ae3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The maximum period for which an agreement may authorise the MMO or an eligible b
 
 ## Annotations
 
-[^key-1dfbcaebc0fcbb115a9a3f10a0b36ae3]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2009/23/section/18) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/2)
+[^c-1dfbcaebc0fcbb115a9a3f10a0b36ae3]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2009/23/section/18) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/2)

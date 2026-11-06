@@ -24,7 +24,7 @@ summary: ''
 
 - (a) in payment of the amount due or recoverable on foot of a judgment; or
 - (b) in payment of any one or more than one instalment due under an instalment order under Article 30 or under paragraph (3); or
-- (c) in payment of an amount due under an order for the periodical payment of money made by the High Court or a [^key-dd2a0c409f044f3359d097b98acb2491]... county court in the exercise of its matrimonial jurisdiction or by the High Court or a[^c16847651] [^key-dd2a0c409f044f3359d097b98acb2491]... county court in the exercise of its civil partnership jurisdiction.
+- (c) in payment of an amount due under an order for the periodical payment of money made by the High Court or a [^c-dd2a0c409f044f3359d097b98acb2491]... county court in the exercise of its matrimonial jurisdiction or by the High Court or a[^c16847651] [^c-dd2a0c409f044f3359d097b98acb2491]... county court in the exercise of its civil partnership jurisdiction.
 
 (2) A person shall not be committed to prison under paragraph (1)—
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-dd2a0c409f044f3359d097b98acb2491]: Textual amendment: Words in art. 107(1)(c) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 84(7)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/84/7), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-dd2a0c409f044f3359d097b98acb2491]: Textual amendment: Words in art. 107(1)(c) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 84(7)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/84/7), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c16847651]: Textual amendment: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 

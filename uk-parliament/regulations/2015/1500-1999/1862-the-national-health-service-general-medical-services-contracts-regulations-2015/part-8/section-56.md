@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject to paragraphs (1A), (2) and (3)[^key-468d8fe6aae4db6bca7f1d0eb22e9e6a] and to the restrictions on prescribing in regulations 61 and 62, a prescriber must order any drugs, medicines or appliances which are needed for the treatment of any patient who is receiving treatment under the contract by—
+(1) Subject to paragraphs (1A), (2) and (3)[^c-468d8fe6aae4db6bca7f1d0eb22e9e6a] and to the restrictions on prescribing in regulations 61 and 62, a prescriber must order any drugs, medicines or appliances which are needed for the treatment of any patient who is receiving treatment under the contract by—
 
 - (a) issuing to the patient a non-electronic prescription form or a non-electronic repeatable prescription completed in accordance with paragraph (6); or
 - (b) creating and transmitting an electronic prescription in circumstances to which regulation 57(1) applies,
 
 and a non-electronic prescription form, non-electronic repeatable prescription or electronic prescription that is for health service use must not be used in any other circumstances.
 
-(1A)[^key-36d47ba50c0f325feaba7da04ab88a5b] If, on a particular occasion when a drug, medicine or appliance is needed as mentioned in paragraph (1)—
+(1A)[^c-36d47ba50c0f325feaba7da04ab88a5b] If, on a particular occasion when a drug, medicine or appliance is needed as mentioned in paragraph (1)—
 
 - (a) the prescriber is able, without delay, to order the drug, medicine or appliance by means of an electronic prescription;
 - (b) the Electronic Prescription Service software that the prescriber would use for that purpose provides for the creation and transmission of electronic prescriptions without the need for a nominated dispenser; and
@@ -46,27 +46,27 @@ the prescriber must create and transmit an electronic prescription for that drug
 
 (2) A healthcare professional must order any home oxygen services which are needed for the treatment of a patient who is receiving treatment under the contract by issuing a home oxygen order form.
 
-(3) During an outbreak of an illness for which a listed prescription item[^key-1d7b063d2f8cc028d0feeba32dece379] may be used for a treatment or for prophylaxis, if—
+(3) During an outbreak of an illness for which a listed prescription item[^c-1d7b063d2f8cc028d0feeba32dece379] may be used for a treatment or for prophylaxis, if—
 
-- (a) the Secretary of State or NHS England[^key-27a783e1510d45f884edbc32ee2f5c83] has made arrangements for the distribution of a listed prescription item free of charge; and
+- (a) the Secretary of State or NHS England[^c-27a783e1510d45f884edbc32ee2f5c83] has made arrangements for the distribution of a listed prescription item free of charge; and
 - (b) that listed prescription item is needed for treatment or prophylaxis of any patient who is receiving treatment under the contract,
 
-a prescriber may order that listed prescription item by using a listed prescription items[^key-17882cf37195d52ce7accb2e013cb99b] voucher and must sign that listed prescription items voucher (with an electronic signature, if an electronic form is used)[^key-e0b31e29d93f87d7fa8b457a6a4a7e7d] if one is used.
+a prescriber may order that listed prescription item by using a listed prescription items[^c-17882cf37195d52ce7accb2e013cb99b] voucher and must sign that listed prescription items voucher (with an electronic signature, if an electronic form is used)[^c-e0b31e29d93f87d7fa8b457a6a4a7e7d] if one is used.
 
-(4) During an outbreak of an illness for which a listed prescription item[^key-a592c0aa15882a697ec086c4ada0d96f] may be used for a treatment or for prophylaxis, if—
+(4) During an outbreak of an illness for which a listed prescription item[^c-a592c0aa15882a697ec086c4ada0d96f] may be used for a treatment or for prophylaxis, if—
 
 - (a) the Secretary of State or NHS England has made arrangements for the distribution of a listed prescription item free of charge;
 - (b) those arrangements contain criteria set out in a protocol which enable persons who are not prescribers to identify the symptoms of, and whether there is a need for treatment of that disease or for or prophylaxis;
-- (c) a person acting on behalf of the contractor, who is not a prescriber but who is authorised by NHS England to order listed prescription items[^key-1aa2996481bb7614d2c2e36df78b1f90], has applied the criteria referred to in sub-paragraph (b) to a patient who is receiving treatment under the contract; and
+- (c) a person acting on behalf of the contractor, who is not a prescriber but who is authorised by NHS England to order listed prescription items[^c-1aa2996481bb7614d2c2e36df78b1f90], has applied the criteria referred to in sub-paragraph (b) to a patient who is receiving treatment under the contract; and
 - (d) having applied the criteria, that person has concluded that the listed prescription item is needed for the treatment or prophylaxis of the patient,
 
-that person may order that listed prescription item by using a listed prescription items voucher and must sign that listed prescription items[^key-928b225b67ba441f39477fb6c3bb735a] voucher (with an electronic signature, if an electronic form is used) if one is used.
+that person may order that listed prescription item by using a listed prescription items voucher and must sign that listed prescription items[^c-928b225b67ba441f39477fb6c3bb735a] voucher (with an electronic signature, if an electronic form is used) if one is used.
 
 (5) A prescriber may only order drugs, medicines or appliances on a repeatable prescription where the drugs, medicines or appliances are to be provided more than once.
 
 *Extent: E*
 
-(5A)[^key-bbae51e2e9867365fae0d88ada9de3c2] A prescriber must only order one prescription item on a prescription form or repeatable prescription that is used by the prescriber for ordering a listed HRT prescription item.
+(5A)[^c-bbae51e2e9867365fae0d88ada9de3c2] A prescriber must only order one prescription item on a prescription form or repeatable prescription that is used by the prescriber for ordering a listed HRT prescription item.
 
 (5B (Extent: E)) For the purposes of paragraph (5A), “ *(Extent: E)***listed HRT prescription item *(Extent: E)***” is to be construed in accordance with regulation 17A(1)(a) of the National Health Service (Charges for Drugs and Appliances) Regulations 2015, read with regulation 17A(7) of those Regulations. *(Extent: E)*
 
@@ -107,25 +107,25 @@ that person may order that listed prescription item by using a listed prescripti
 
 ## Annotations
 
-[^key-468d8fe6aae4db6bca7f1d0eb22e9e6a]: Textual amendment: Words in reg. 56(1) substituted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [17(2)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/17/2)
+[^c-468d8fe6aae4db6bca7f1d0eb22e9e6a]: Textual amendment: Words in reg. 56(1) substituted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [17(2)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/17/2)
 
-[^key-36d47ba50c0f325feaba7da04ab88a5b]: Textual amendment: Reg. 56(1A)(1B) inserted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [17(3)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/17/3)
+[^c-36d47ba50c0f325feaba7da04ab88a5b]: Textual amendment: Reg. 56(1A)(1B) inserted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [17(3)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/17/3)
 
-[^key-1d7b063d2f8cc028d0feeba32dece379]: Textual amendment: Words in [reg. 56(3)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/56/3) substituted (21.12.2021) by [The National Health Service (Charges, Primary Medical Services and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Further Amendments) Regulations 2021 (S.I. 2021/1346)](https://www.legislation.gov.uk/uksi/2021/1346), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/1/2/a), [17(2)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/17/2/a)
+[^c-1d7b063d2f8cc028d0feeba32dece379]: Textual amendment: Words in [reg. 56(3)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/56/3) substituted (21.12.2021) by [The National Health Service (Charges, Primary Medical Services and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Further Amendments) Regulations 2021 (S.I. 2021/1346)](https://www.legislation.gov.uk/uksi/2021/1346), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/1/2/a), [17(2)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/17/2/a)
 
-[^key-27a783e1510d45f884edbc32ee2f5c83]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-27a783e1510d45f884edbc32ee2f5c83]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-17882cf37195d52ce7accb2e013cb99b]: Textual amendment: Words in [reg. 56(3)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/56/3) substituted (21.12.2021) by [The National Health Service (Charges, Primary Medical Services and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Further Amendments) Regulations 2021 (S.I. 2021/1346)](https://www.legislation.gov.uk/uksi/2021/1346), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/1/2/a), [17(2)(b)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/17/2/b)
+[^c-17882cf37195d52ce7accb2e013cb99b]: Textual amendment: Words in [reg. 56(3)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/56/3) substituted (21.12.2021) by [The National Health Service (Charges, Primary Medical Services and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Further Amendments) Regulations 2021 (S.I. 2021/1346)](https://www.legislation.gov.uk/uksi/2021/1346), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/1/2/a), [17(2)(b)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/17/2/b)
 
-[^key-e0b31e29d93f87d7fa8b457a6a4a7e7d]: Textual amendment: Words in [reg. 56(3)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/56/3) inserted (21.12.2021) by [The National Health Service (Charges, Primary Medical Services and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Further Amendments) Regulations 2021 (S.I. 2021/1346)](https://www.legislation.gov.uk/uksi/2021/1346), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/1/2/a), [17(2)(c)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/17/2/c)
+[^c-e0b31e29d93f87d7fa8b457a6a4a7e7d]: Textual amendment: Words in [reg. 56(3)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/56/3) inserted (21.12.2021) by [The National Health Service (Charges, Primary Medical Services and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Further Amendments) Regulations 2021 (S.I. 2021/1346)](https://www.legislation.gov.uk/uksi/2021/1346), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/1/2/a), [17(2)(c)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/17/2/c)
 
-[^key-a592c0aa15882a697ec086c4ada0d96f]: Textual amendment: Words in [reg. 56(4)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/56/4) substituted (21.12.2021) by [The National Health Service (Charges, Primary Medical Services and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Further Amendments) Regulations 2021 (S.I. 2021/1346)](https://www.legislation.gov.uk/uksi/2021/1346), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/1/2/a), [17(3)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/17/3/a)
+[^c-a592c0aa15882a697ec086c4ada0d96f]: Textual amendment: Words in [reg. 56(4)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/56/4) substituted (21.12.2021) by [The National Health Service (Charges, Primary Medical Services and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Further Amendments) Regulations 2021 (S.I. 2021/1346)](https://www.legislation.gov.uk/uksi/2021/1346), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/1/2/a), [17(3)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/17/3/a)
 
-[^key-1aa2996481bb7614d2c2e36df78b1f90]: Textual amendment: Words in [reg. 56(4)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/56/4) substituted (21.12.2021) by [The National Health Service (Charges, Primary Medical Services and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Further Amendments) Regulations 2021 (S.I. 2021/1346)](https://www.legislation.gov.uk/uksi/2021/1346), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/1/2/a), [17(3)(b)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/17/3/b)
+[^c-1aa2996481bb7614d2c2e36df78b1f90]: Textual amendment: Words in [reg. 56(4)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/56/4) substituted (21.12.2021) by [The National Health Service (Charges, Primary Medical Services and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Further Amendments) Regulations 2021 (S.I. 2021/1346)](https://www.legislation.gov.uk/uksi/2021/1346), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/1/2/a), [17(3)(b)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/17/3/b)
 
-[^key-928b225b67ba441f39477fb6c3bb735a]: Textual amendment: Words in [reg. 56(4)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/56/4) inserted (21.12.2021) by [The National Health Service (Charges, Primary Medical Services and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Further Amendments) Regulations 2021 (S.I. 2021/1346)](https://www.legislation.gov.uk/uksi/2021/1346), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/1/2/a), [17(3)(c)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/17/3/c)
+[^c-928b225b67ba441f39477fb6c3bb735a]: Textual amendment: Words in [reg. 56(4)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/56/4) inserted (21.12.2021) by [The National Health Service (Charges, Primary Medical Services and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Further Amendments) Regulations 2021 (S.I. 2021/1346)](https://www.legislation.gov.uk/uksi/2021/1346), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/1/2/a), [17(3)(c)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/17/3/c)
 
-[^key-bbae51e2e9867365fae0d88ada9de3c2]: Textual amendment: [Reg. 56(5A)(5B)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/56/5A/5B) inserted (1.4.2023) by [The National Health Service (Amendments Relating to Pre-Payment Certificates, Hormone Replacement Therapy Treatments and Medicines Shortages) Regulations 2023 (S.I. 2023/171)](https://www.legislation.gov.uk/uksi/2023/171), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/171/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2023/171/regulation/13)
+[^c-bbae51e2e9867365fae0d88ada9de3c2]: Textual amendment: [Reg. 56(5A)(5B)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/56/5A/5B) inserted (1.4.2023) by [The National Health Service (Amendments Relating to Pre-Payment Certificates, Hormone Replacement Therapy Treatments and Medicines Shortages) Regulations 2023 (S.I. 2023/171)](https://www.legislation.gov.uk/uksi/2023/171), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/171/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2023/171/regulation/13)
 
 [^c22714781]: Marginal citation: [S.I. 2001/3998](https://www.legislation.gov.uk/uksi/2001/3998). Schedule 2 was amended by [S.I. 2003/1432](https://www.legislation.gov.uk/uksi/2003/1432), [S.I](https://www.legislation.gov.uk/uksi/2003/1432/section/I). 2009/3136, [S.I. 2011/448](https://www.legislation.gov.uk/uksi/2011/448), [S.I](https://www.legislation.gov.uk/uksi/2011/448/section/I). 2014/1275 and 3277 and [S.I. 2015/891](https://www.legislation.gov.uk/uksi/2015/891).
 

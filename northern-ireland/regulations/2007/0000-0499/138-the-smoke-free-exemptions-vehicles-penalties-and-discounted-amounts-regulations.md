@@ -46,7 +46,7 @@ The Department of Health, Social Services and Public Safety[^f00001], makes the 
 
 ## PART 1 — GENERAL
 
-### 1. Citation, commencement and interpretation[^key-60337028809b530ce53066af85d39703]
+### 1. Citation, commencement and interpretation[^c-60337028809b530ce53066af85d39703]
 
 (1) These Regulations may be cited as the Smoke-free (Exemptions, Vehicles, Penalties and Discounted Amounts) Regulations (Northern Ireland) 2007 and shall come into operation on 30th April 2007.
 
@@ -56,11 +56,11 @@ The Department of Health, Social Services and Public Safety[^f00001], makes the 
 
 ## PART 2 — EXEMPTIONS
 
-### 2. Application of Part 2[^key-4f5bf266c080371ceded5ad71f6a76c8]
+### 2. Application of Part 2[^c-4f5bf266c080371ceded5ad71f6a76c8]
 
 The exemptions in this Part apply only to premises that would be smoke-free under Article 3 of the Order if those exemptions had not been made.
 
-### 3. Private accommodation[^key-6b39577097703205ec998d4953ec9c11]
+### 3. Private accommodation[^c-6b39577097703205ec998d4953ec9c11]
 
 (1) A private dwelling is not smoke-free except for any part of it which is—
 
@@ -79,7 +79,7 @@ The exemptions in this Part apply only to premises that would be smoke-free unde
 
 (3) In this regulation, “private dwelling” includes self-contained residential accommodation for temporary or holiday use and any garage, outhouse or other structure for the exclusive use of persons living in the dwelling.
 
-### 4. Accommodation for guests and club members[^key-1b391983a6a18966647e685cd35fb936]
+### 4. Accommodation for guests and club members[^c-1b391983a6a18966647e685cd35fb936]
 
 (1) A designated bedroom in a hotel, guest house, inn, hostel or members' club is not smoke-free.
 
@@ -94,7 +94,7 @@ The exemptions in this Part apply only to premises that would be smoke-free unde
   - (f) is clearly marked as a bedroom in which smoking is permitted; and
 - “bedroom” does not include any dormitory or other room that a person in charge of premises makes available under separate arrangements for persons to share at the same time.
 
-### 5. Other residential accommodation[^key-04b21f3752193fc7b556dc35c63eca5b]
+### 5. Other residential accommodation[^c-04b21f3752193fc7b556dc35c63eca5b]
 
 (1) A designated room that is used as accommodation for persons aged 16 years or over in the premises specified in paragraph (2) is not smoke-free.
 
@@ -115,7 +115,7 @@ The exemptions in this Part apply only to premises that would be smoke-free unde
 - “nursing home” has the same meaning as in Article 11 of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003[^f00003]; and
 - “residential care home” has the same meaning as in Article 10 of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003.
 
-### 6. Prisons, Young Offenders Centres and Remand Centres[^key-d6e07cd02dbb33de34931593d602bd9b]
+### 6. Prisons, Young Offenders Centres and Remand Centres[^c-d6e07cd02dbb33de34931593d602bd9b]
 
 (1) A prison, young offenders centre or remand centre is not smoke-free.
 
@@ -132,7 +132,7 @@ The exemptions in this Part apply only to premises that would be smoke-free unde
 - (c) that comprises any premises used solely or mainly for the purposes of physical recreation of persons other than those detained;
 - (d) that comprises any premises reserved as a visitors centre, that is a place for friends or family of a person detained to obtain advice or services.
 
-### 7. Temporary exemption for Police detention cells or interview rooms[^key-dffb6671b1efc2d02fc5744986e397b6]
+### 7. Temporary exemption for Police detention cells or interview rooms[^c-dffb6671b1efc2d02fc5744986e397b6]
 
 (1) A designated room which is a detention cell or interview room is not smoke-free.
 
@@ -149,13 +149,13 @@ The exemptions in this Part apply only to premises that would be smoke-free unde
 
 (3) Paragraphs (1) and (2) shall cease to have effect on 30th April 2008.
 
-### 8. Temporary exemption for Police exercise areas[^key-d823d59695a11fec76cb743477f0a535]
+### 8. Temporary exemption for Police exercise areas[^c-d823d59695a11fec76cb743477f0a535]
 
 (1) Any area of a police station which is enclosed or substantially enclosed for the purposes of Article 3(5) of the Order is not smoke-free if it is wholly or mainly used for the exercise of persons under detention in the police station.
 
 (2) Paragraph (1) shall cease to have effect on 30th April 2008.
 
-### 9. Specialist tobacconists[^key-01aa81dffb0ddcbe005b076bbad009db]
+### 9. Specialist tobacconists[^c-01aa81dffb0ddcbe005b076bbad009db]
 
 (1) The shop of a specialist tobacconist that is being used by persons who are sampling cigars and pipe tobacco is not smoke-free for the duration of that sampling if it—
 
@@ -166,7 +166,7 @@ The exemptions in this Part apply only to premises that would be smoke-free unde
 
 (2) In this regulation “cigar” has the same meaning as in the Tobacco Products (Description of Products) Order 2003[^f00006] and “specialist tobacconist” has the same meaning as in section 6(2) of the Tobacco Advertising and Promotion Act 2002[^f00007].
 
-### 10. Research and testing facilities[^key-1b0b3b3101715747dc5788ab6c64b933]
+### 10. Research and testing facilities[^c-1b0b3b3101715747dc5788ab6c64b933]
 
 (1) A designated room in a research or testing facility is not smoke-free whilst it is being used for any research or tests specified in paragraph (2).
 
@@ -186,7 +186,7 @@ The exemptions in this Part apply only to premises that would be smoke-free unde
 - (d) does not have any door that opens onto smoke-free premises which is not mechanically closed immediately after use; and
 - (e) is clearly marked as a room in which smoking is permitted.
 
-### 11. Temporary exemption for mental health units[^key-ac081a8375f8c4405860f5961de00d40]
+### 11. Temporary exemption for mental health units[^c-ac081a8375f8c4405860f5961de00d40]
 
 (1) A designated room for the use of patients aged 16 years or over in residential accommodation in a mental health unit is not smoke-free.
 
@@ -204,20 +204,20 @@ The exemptions in this Part apply only to premises that would be smoke-free unde
 
 ## PART 3 — VEHICLES
 
-### 12. Enclosed vehicles[^key-64cdbe8cc7bc96a602f05116da00cbd4]
+### 12. Enclosed vehicles[^c-64cdbe8cc7bc96a602f05116da00cbd4]
 
 (1) Subject to the following paragraphs of this regulation, an enclosed vehicle and any enclosed part of a vehicle is smoke-free if it is used—
 
 - (a) by members of the public or a section of the public (whether or not for reward or hire); or
 - (b) in the course of paid or voluntary work by more than one person (even if those persons use the vehicle at different times, or only intermittently).
 
-(1A)[^key-28b04a806e9aed43004a647d2c3ae976] A vehicle that is not smoke-free by virtue of paragraph (1), or any part of such a vehicle, is smoke-free if-
+(1A)[^c-28b04a806e9aed43004a647d2c3ae976] A vehicle that is not smoke-free by virtue of paragraph (1), or any part of such a vehicle, is smoke-free if-
 
 - (a) it is enclosed,
 - (b) there is more than one person present in the vehicle, and
 - (c) a person under the age of 18 is present in the vehicle.
 
-(2) A vehicle or part of a vehicle is enclosed for the purposes of paragraphs (1) and (1A)[^key-ccf66501e1f310aae50a977d565c6b55] where it is enclosed wholly or partly by a roof and by any door or window that may be opened.
+(2) A vehicle or part of a vehicle is enclosed for the purposes of paragraphs (1) and (1A)[^c-ccf66501e1f310aae50a977d565c6b55] where it is enclosed wholly or partly by a roof and by any door or window that may be opened.
 
 (3) Except where paragraph (4) applies, “roof” in paragraph (2) includes any fixed or moveable structure or device which is capable of covering all or part of the vehicle, including any canvas, fabric or other covering.
 
@@ -228,7 +228,7 @@ The exemptions in this Part apply only to premises that would be smoke-free unde
 - (a) owns it; or
 - (b) has a right to use it which is not restricted to a particular journey.
 
-(6)[^key-9f0264e7a936af3b74637927ba6eb793] Paragraph (1A) does not apply to-
+(6)[^c-9f0264e7a936af3b74637927ba6eb793] Paragraph (1A) does not apply to-
 
 - (a) a caravan or motor caravan that is stationary and not on a road; or
 - (b) a caravan or motor caravan that is stationary, is on a road and is being used as living accommodation.
@@ -241,14 +241,14 @@ The exemptions in this Part apply only to premises that would be smoke-free unde
 
 ## PART 4 — PENALTIES
 
-### 13. Penalties and discounted amounts[^key-286083adca04db15e597bd8eb9be7b60]
+### 13. Penalties and discounted amounts[^c-286083adca04db15e597bd8eb9be7b60]
 
 (1) In respect of an offence alleged under Article 7(5) of the Order—
 
 - (a) the amount of the penalty specified for the purposes of paragraph 5 of Schedule 1 to the Order is £200;
 - (b) the discounted amount specified for the purposes of paragraph 8 of Schedule 1 to the Order is £150.
 
-(2) In respect of an offence alleged under Article 8(2) or 9(3)[^key-5edb15918be9de438bad470f8611133b] of the Order—
+(2) In respect of an offence alleged under Article 8(2) or 9(3)[^c-5edb15918be9de438bad470f8611133b] of the Order—
 
 - (a) the amount of the penalty specified for the purposes of paragraphs 5 of Schedule 1 to the Order is £50;
 - (b) the discounted amount specified for the purposes of paragraph 8 of Schedule 1 to the Order is £30.
@@ -303,48 +303,48 @@ Regulation 13(2) provides that where the fixed penalty procedure is used for an 
 
 [^f00002]: Footnote: S.I. [2006/2957 (N.I. 20)](https://www.legislation.gov.uk/nisi/2006/2957)
 
-[^key-60337028809b530ce53066af85d39703]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/138/regulation/1) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
+[^c-60337028809b530ce53066af85d39703]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/138/regulation/1) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
 
-[^key-4f5bf266c080371ceded5ad71f6a76c8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/138/regulation/2) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
+[^c-4f5bf266c080371ceded5ad71f6a76c8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/138/regulation/2) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
 
-[^key-6b39577097703205ec998d4953ec9c11]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/138/regulation/3) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
+[^c-6b39577097703205ec998d4953ec9c11]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/138/regulation/3) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
 
-[^key-1b391983a6a18966647e685cd35fb936]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/138/regulation/4) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
+[^c-1b391983a6a18966647e685cd35fb936]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/138/regulation/4) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
 
-[^key-04b21f3752193fc7b556dc35c63eca5b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/138/regulation/5) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
+[^c-04b21f3752193fc7b556dc35c63eca5b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/138/regulation/5) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
 
 [^f00003]: Footnote: S.I. [2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431)
 
-[^key-d6e07cd02dbb33de34931593d602bd9b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/138/regulation/6) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
+[^c-d6e07cd02dbb33de34931593d602bd9b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/138/regulation/6) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
 
 [^f00004]: Footnote: [1953. c. 18](https://www.legislation.gov.uk/apni/1953/18) Section 47 was amended by Article 14(1) of, and paragraphs 9 and 10 of Schedule 1 to, and Article 14(2) of, and Schedule 2 to, the Treatment of Offenders (Northern Ireland) Order 1989 (S.I. [1989/1344 (N.I. 15)](https://www.legislation.gov.uk/nisi/1989/1344)) and Article 65(1) of, and paragraph 1 of Schedule 5 to, the Criminal Justice (Children) (Northern Ireland) Order 1998 (S.I. [1998/1504 (N.I. 9)](https://www.legislation.gov.uk/nisi/1998/1504))
 
 [^f00005]: Footnote: [1968 c. 29](https://www.legislation.gov.uk/apni/1968/29). Section 2(a) was substituted by Article 13 of the Treatment of Offenders (Northern Ireland) Order 1989 (S.I. [1989/1344 (N.I. 15)](https://www.legislation.gov.uk/nisi/1989/1344)). Section 2(a) and (b) were amended by Article 65(1) of, and paragraph 3(a) and (b) of Schedule 5 to, the Criminal Justice (Children) (Northern Ireland) Order 1998 (S.I. [1998/1504 (N.I. 9)](https://www.legislation.gov.uk/nisi/1998/1504))
 
-[^key-dffb6671b1efc2d02fc5744986e397b6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/138/regulation/7) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
+[^c-dffb6671b1efc2d02fc5744986e397b6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/138/regulation/7) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
 
-[^key-d823d59695a11fec76cb743477f0a535]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2007/138/regulation/8) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
+[^c-d823d59695a11fec76cb743477f0a535]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2007/138/regulation/8) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
 
-[^key-01aa81dffb0ddcbe005b076bbad009db]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2007/138/regulation/9) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
+[^c-01aa81dffb0ddcbe005b076bbad009db]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2007/138/regulation/9) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
 
 [^f00006]: Footnote: S.I. [2003/1471](https://www.legislation.gov.uk/uksi/2003/1471); *see* Article 5 and the Schedule
 
 [^f00007]: Footnote: [2002 c. 36](https://www.legislation.gov.uk/ukpga/2002/36)
 
-[^key-1b0b3b3101715747dc5788ab6c64b933]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2007/138/regulation/10) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
+[^c-1b0b3b3101715747dc5788ab6c64b933]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2007/138/regulation/10) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
 
-[^key-ac081a8375f8c4405860f5961de00d40]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2007/138/regulation/11) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
+[^c-ac081a8375f8c4405860f5961de00d40]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2007/138/regulation/11) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
 
 [^f00008]: Footnote: S.I. [1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595)
 
-[^key-64cdbe8cc7bc96a602f05116da00cbd4]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2007/138/regulation/12) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
+[^c-64cdbe8cc7bc96a602f05116da00cbd4]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2007/138/regulation/12) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
 
-[^key-28b04a806e9aed43004a647d2c3ae976]: Textual amendment: [Reg. 12(1A)](https://www.legislation.gov.uk/nisr/2007/138/regulation/12/1A) inserted (1.2.2022) by [The Smoke-Free (Private Vehicles) Regulations (Northern Ireland) 2021 (S.R. 2021/328)](https://www.legislation.gov.uk/nisr/2021/328), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/328/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2021/328/regulation/2/2/a)
+[^c-28b04a806e9aed43004a647d2c3ae976]: Textual amendment: [Reg. 12(1A)](https://www.legislation.gov.uk/nisr/2007/138/regulation/12/1A) inserted (1.2.2022) by [The Smoke-Free (Private Vehicles) Regulations (Northern Ireland) 2021 (S.R. 2021/328)](https://www.legislation.gov.uk/nisr/2021/328), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/328/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2021/328/regulation/2/2/a)
 
-[^key-ccf66501e1f310aae50a977d565c6b55]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/nisr/2007/138/regulation/12/2) substituted (1.2.2022) by [The Smoke-Free (Private Vehicles) Regulations (Northern Ireland) 2021 (S.R. 2021/328)](https://www.legislation.gov.uk/nisr/2021/328), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/328/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2021/328/regulation/2/2/b)
+[^c-ccf66501e1f310aae50a977d565c6b55]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/nisr/2007/138/regulation/12/2) substituted (1.2.2022) by [The Smoke-Free (Private Vehicles) Regulations (Northern Ireland) 2021 (S.R. 2021/328)](https://www.legislation.gov.uk/nisr/2021/328), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/328/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2021/328/regulation/2/2/b)
 
-[^key-9f0264e7a936af3b74637927ba6eb793]: Textual amendment: [Reg. 12(6)](https://www.legislation.gov.uk/nisr/2007/138/regulation/12/6)[(7)](https://www.legislation.gov.uk/nisr/2007/138/regulation/12/7) inserted (1.2.2022) by [The Smoke-Free (Private Vehicles) Regulations (Northern Ireland) 2021 (S.R. 2021/328)](https://www.legislation.gov.uk/nisr/2021/328), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/328/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2021/328/regulation/2/2/c)
+[^c-9f0264e7a936af3b74637927ba6eb793]: Textual amendment: [Reg. 12(6)](https://www.legislation.gov.uk/nisr/2007/138/regulation/12/6)[(7)](https://www.legislation.gov.uk/nisr/2007/138/regulation/12/7) inserted (1.2.2022) by [The Smoke-Free (Private Vehicles) Regulations (Northern Ireland) 2021 (S.R. 2021/328)](https://www.legislation.gov.uk/nisr/2021/328), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/328/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2021/328/regulation/2/2/c)
 
-[^key-286083adca04db15e597bd8eb9be7b60]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2007/138/regulation/13) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
+[^c-286083adca04db15e597bd8eb9be7b60]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2007/138/regulation/13) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/138/regulation/1/1)
 
-[^key-5edb15918be9de438bad470f8611133b]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/nisr/2007/138/regulation/13/2) inserted (1.2.2022) by [The Smoke-Free (Private Vehicles) Regulations (Northern Ireland) 2021 (S.R. 2021/328)](https://www.legislation.gov.uk/nisr/2021/328), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/328/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2021/328/regulation/2/3)
+[^c-5edb15918be9de438bad470f8611133b]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/nisr/2007/138/regulation/13/2) inserted (1.2.2022) by [The Smoke-Free (Private Vehicles) Regulations (Northern Ireland) 2021 (S.R. 2021/328)](https://www.legislation.gov.uk/nisr/2021/328), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/328/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2021/328/regulation/2/3)

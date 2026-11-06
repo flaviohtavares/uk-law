@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Amendment to regulation 257E[^key-dc2fe6af9ab98abb804241d069ffe7fe]
+## 115. Amendment to regulation 257E[^c-dc2fe6af9ab98abb804241d069ffe7fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 257E (regulation-making power as to certain forms of labelling)[^f
 
 ## Annotations
 
-[^key-dc2fe6af9ab98abb804241d069ffe7fe]: Commencement: [Reg. 115](https://www.legislation.gov.uk/uksi/2024/832/regulation/115) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-dc2fe6af9ab98abb804241d069ffe7fe]: Commencement: [Reg. 115](https://www.legislation.gov.uk/uksi/2024/832/regulation/115) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00122]: Footnote: Regulation 257E was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775).

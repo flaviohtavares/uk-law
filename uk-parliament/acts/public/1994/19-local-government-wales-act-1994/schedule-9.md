@@ -71,7 +71,7 @@ Section 22(3).
 
 *Extent: E+W*
 
-**6.**[^key-94a61882e842253484defe52cb7ddda2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-94a61882e842253484defe52cb7ddda2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Riding Establishments Act 1964 (c. 70)
 
@@ -262,7 +262,7 @@ for “a” immediately before “county council” substitute “ an English �
 
 [^c10521121]: Textual amendment: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/1994/19/schedule/9/paragraph/4) repealed (6.1.1997) by [S.I. 1996/3097](https://www.legislation.gov.uk/uksi/1996/3097), [art. 3(1)(e)](https://www.legislation.gov.uk/uksi/1996/3097/article/3/1/e)
 
-[^key-94a61882e842253484defe52cb7ddda2]: Textual amendment: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/1994/19/schedule/9/paragraph/6) repealed (1.10.2013) by [Scrap Metal Dealers Act 2013 (c. 10)](https://www.legislation.gov.uk/ukpga/2013/10), [ss. 19(1)(b)](https://www.legislation.gov.uk/ukpga/2013/10/section/19/1/b), [23(2)](https://www.legislation.gov.uk/ukpga/2013/10/section/23/2); [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/r) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1966/article/5))
+[^c-94a61882e842253484defe52cb7ddda2]: Textual amendment: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/1994/19/schedule/9/paragraph/6) repealed (1.10.2013) by [Scrap Metal Dealers Act 2013 (c. 10)](https://www.legislation.gov.uk/ukpga/2013/10), [ss. 19(1)(b)](https://www.legislation.gov.uk/ukpga/2013/10/section/19/1/b), [23(2)](https://www.legislation.gov.uk/ukpga/2013/10/section/23/2); [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/r) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1966/article/5))
 
 [^c10521211]: Textual amendment: [Sch. 9 para. 17](https://www.legislation.gov.uk/ukpga/1994/19/schedule/9/paragraph/17) partly in force; [Sch. 9 para. 17](https://www.legislation.gov.uk/ukpga/1994/19/schedule/9/paragraph/17) not in force at Royal Assent see [s. 66](https://www.legislation.gov.uk/ukpga/1994/19/section/66); [Sch. 9 para. 17(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/9/paragraph/17/1) in force for certain purposes, Sch. 9 para. 17(2)(3)(5)-(13) in force at 1.4.1996 by [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 3](https://www.legislation.gov.uk/uksi/1996/396/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/396/schedule/1)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57A. Obligation to update information supplied in connection with parallel import licence application[^key-fabc456677c0e87b020e8435d0fac105]
+## 57A. Obligation to update information supplied in connection with parallel import licence application[^c-fabc456677c0e87b020e8435d0fac105]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fabc456677c0e87b020e8435d0fac105]: Textual amendment: Reg. 57A inserted (E.W.S.) (1.10.2014) by [The Human Medicines (Amendment) (No. 2) Regulations 2014 (S.I. 2014/1878)](https://www.legislation.gov.uk/uksi/2014/1878), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1878/regulation/1), [7](https://www.legislation.gov.uk/uksi/2014/1878/regulation/7) and reg. 57A inserted (N.I.) (1.10.2014) by [The Human Medicines (Amendment) (No. 2) Regulations 2014 (S.R. 2014/324)](https://www.legislation.gov.uk/nisr/2014/324), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/324/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2014/324/regulation/7)
+[^c-fabc456677c0e87b020e8435d0fac105]: Textual amendment: Reg. 57A inserted (E.W.S.) (1.10.2014) by [The Human Medicines (Amendment) (No. 2) Regulations 2014 (S.I. 2014/1878)](https://www.legislation.gov.uk/uksi/2014/1878), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1878/regulation/1), [7](https://www.legislation.gov.uk/uksi/2014/1878/regulation/7) and reg. 57A inserted (N.I.) (1.10.2014) by [The Human Medicines (Amendment) (No. 2) Regulations 2014 (S.R. 2014/324)](https://www.legislation.gov.uk/nisr/2014/324), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/324/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2014/324/regulation/7)

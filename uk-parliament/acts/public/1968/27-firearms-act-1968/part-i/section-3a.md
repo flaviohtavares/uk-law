@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3A. Possessing component parts of ammunition with intent to manufacture[^key-10b1b1752064cbd46b160ed4541c58c3]
+## 3A. Possessing component parts of ammunition with intent to manufacture[^c-10b1b1752064cbd46b160ed4541c58c3]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10b1b1752064cbd46b160ed4541c58c3]: Textual amendment: S. 3A inserted (1.5.2025) by [Firearms Act 2023 (c. 49)](https://www.legislation.gov.uk/ukpga/2023/49), [ss. 2](https://www.legislation.gov.uk/ukpga/2023/49/section/2), [3(3)](https://www.legislation.gov.uk/ukpga/2023/49/section/3/3); [S.I. 2025/535](https://www.legislation.gov.uk/uksi/2025/535), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/535/regulation/2/b)
+[^c-10b1b1752064cbd46b160ed4541c58c3]: Textual amendment: S. 3A inserted (1.5.2025) by [Firearms Act 2023 (c. 49)](https://www.legislation.gov.uk/ukpga/2023/49), [ss. 2](https://www.legislation.gov.uk/ukpga/2023/49/section/2), [3(3)](https://www.legislation.gov.uk/ukpga/2023/49/section/3/3); [S.I. 2025/535](https://www.legislation.gov.uk/uksi/2025/535), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/535/regulation/2/b)

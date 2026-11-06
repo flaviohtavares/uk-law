@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116A. Intentional destruction etc of documents[^key-a303affa0f8860eea8d13353a89ba4dd]
+## 116A. Intentional destruction etc of documents[^c-a303affa0f8860eea8d13353a89ba4dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a303affa0f8860eea8d13353a89ba4dd]: Textual amendment: [S. 116A](https://www.legislation.gov.uk/ukpga/2002/40/section/116A) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 10 para. 23](https://www.legislation.gov.uk/ukpga/2024/13/schedule/10/paragraph/23); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(14)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/14) (with [Sch. paras. 14(1)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/14/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/14/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-a303affa0f8860eea8d13353a89ba4dd]: Textual amendment: [S. 116A](https://www.legislation.gov.uk/ukpga/2002/40/section/116A) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 10 para. 23](https://www.legislation.gov.uk/ukpga/2024/13/schedule/10/paragraph/23); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(14)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/14) (with [Sch. paras. 14(1)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/14/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/14/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))

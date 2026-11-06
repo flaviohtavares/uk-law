@@ -35,74 +35,74 @@ amending the Annexes to Regulations (EC) No 1983/2003, (EC) No 1738/2005, (EC) N
 
 (Text with EEA relevance) (revoked)
 
-[^key-1bd9c6832e5074c12d7e5051cc8493f2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1bd9c6832e5074c12d7e5051cc8493f2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Amendment to Regulation (EC) No 1983/2003[^key-1bd9c6832e5074c12d7e5051cc8493f2]
+## Article 1. Amendment to Regulation (EC) No 1983/2003[^c-1bd9c6832e5074c12d7e5051cc8493f2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Amendment to Regulation (EC) No 1738/2005[^key-1bd9c6832e5074c12d7e5051cc8493f2]
+## Article 2. Amendment to Regulation (EC) No 1738/2005[^c-1bd9c6832e5074c12d7e5051cc8493f2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Amendment to Regulation (EC) No 698/2006[^key-1bd9c6832e5074c12d7e5051cc8493f2]
+## Article 3. Amendment to Regulation (EC) No 698/2006[^c-1bd9c6832e5074c12d7e5051cc8493f2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Amendment to Regulation (EC) No 377/2008[^key-1bd9c6832e5074c12d7e5051cc8493f2]
+## Article 4. Amendment to Regulation (EC) No 377/2008[^c-1bd9c6832e5074c12d7e5051cc8493f2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Amendment to Regulation (EU) No 823/2010[^key-1bd9c6832e5074c12d7e5051cc8493f2]
+## Article 5. Amendment to Regulation (EU) No 823/2010[^c-1bd9c6832e5074c12d7e5051cc8493f2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-1bd9c6832e5074c12d7e5051cc8493f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-1bd9c6832e5074c12d7e5051cc8493f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1bd9c6832e5074c12d7e5051cc8493f2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1bd9c6832e5074c12d7e5051cc8493f2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — Amendment to Regulation (EC) No 377/2008[^key-1bd9c6832e5074c12d7e5051cc8493f2]
+## ANNEX I — Amendment to Regulation (EC) No 377/2008[^c-1bd9c6832e5074c12d7e5051cc8493f2]
 
-[^key-1bd9c6832e5074c12d7e5051cc8493f2](1)
+[^c-1bd9c6832e5074c12d7e5051cc8493f2](1)
 
 In Annex III the instructions for the codification of the variables ‘HATLEVEL’, ‘HATFIELD’, and ‘HATYEAR’ shall be replaced by the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1bd9c6832e5074c12d7e5051cc8493f2](2)
+[^c-1bd9c6832e5074c12d7e5051cc8493f2](2)
 
 In Annex III the variable ‘EDUCFILD’ and the instructions for the codification of the variable ‘EDUCLEVL’ shall be replaced by the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Amendment to Regulation (EU) No 823/2010[^key-1bd9c6832e5074c12d7e5051cc8493f2]
+## ANNEX II — Amendment to Regulation (EU) No 823/2010[^c-1bd9c6832e5074c12d7e5051cc8493f2]
 
-[^key-1bd9c6832e5074c12d7e5051cc8493f2](1)
+[^c-1bd9c6832e5074c12d7e5051cc8493f2](1)
 
 In Annex I the instructions for the codification of the variables ‘HATLEVEL’, ‘HATFIELD’, ‘HATYEAR’, ‘HATVOC’, ‘HATOTHER’, ‘HATOTHER\_LEVEL’, ‘HATOTHER\_VOC’, ‘HATOTHER\_FIELD’, ‘HATCOMP’ and ‘HATCOMPHIGH’ shall be replaced by the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1bd9c6832e5074c12d7e5051cc8493f2](2)
+[^c-1bd9c6832e5074c12d7e5051cc8493f2](2)
 
 In Annex I the instructions for the codification of the variables ‘DROPHIGH’, ‘DROPLEVEL’ and ‘DROPVOC’ shall be replaced by the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1bd9c6832e5074c12d7e5051cc8493f2](3)
+[^c-1bd9c6832e5074c12d7e5051cc8493f2](3)
 
 In Annex I the instructions for the codification of the variables ‘FEDLEVEL’, ‘FEDFIELD’ and ‘FEDVOC’ shall be replaced by the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1bd9c6832e5074c12d7e5051cc8493f2](4)
+[^c-1bd9c6832e5074c12d7e5051cc8493f2](4)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1bd9c6832e5074c12d7e5051cc8493f2]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 216](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/216); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1bd9c6832e5074c12d7e5051cc8493f2]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 216](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/216); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

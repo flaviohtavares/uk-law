@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46A. Notice of barred status[^key-da3890ac1704b9007e57c1881b4abcee]
+## 46A. Notice of barred status[^c-da3890ac1704b9007e57c1881b4abcee]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da3890ac1704b9007e57c1881b4abcee]: Textual amendment: [S. 46A](https://www.legislation.gov.uk/asp/2007/14/section/46A) inserted (1.4.2025) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [ss. 79](https://www.legislation.gov.uk/asp/2020/13/section/79), [97](https://www.legislation.gov.uk/asp/2020/13/section/97) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-da3890ac1704b9007e57c1881b4abcee]: Textual amendment: [S. 46A](https://www.legislation.gov.uk/asp/2007/14/section/46A) inserted (1.4.2025) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [ss. 79](https://www.legislation.gov.uk/asp/2020/13/section/79), [97](https://www.legislation.gov.uk/asp/2020/13/section/97) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

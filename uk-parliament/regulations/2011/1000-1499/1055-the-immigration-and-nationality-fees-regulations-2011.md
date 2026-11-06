@@ -34,7 +34,7 @@ Immigration
 
 Nationality
 
-The Immigration and Nationality (Fees) Regulations 2011 (revoked)[^key-9bc80e5a883a17278049038b7f454c36]
+The Immigration and Nationality (Fees) Regulations 2011 (revoked)[^c-9bc80e5a883a17278049038b7f454c36]
 
 Made
 
@@ -44,126 +44,126 @@ Coming into force
 
 6th April 2011
 
-[^key-9bc80e5a883a17278049038b7f454c36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9bc80e5a883a17278049038b7f454c36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-9bc80e5a883a17278049038b7f454c36]
+## 1. Citation, commencement and interpretation[^c-9bc80e5a883a17278049038b7f454c36]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Fees for applications for leave in the United Kingdom[^key-9bc80e5a883a17278049038b7f454c36]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**5.**[^key-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**6.**[^key-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**10.**[^key-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 11. Dependants of applicants for limited leave to remain[^key-9bc80e5a883a17278049038b7f454c36]
+## 3. Fees for applications for leave in the United Kingdom[^c-9bc80e5a883a17278049038b7f454c36]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Indefinite Leave to Remain[^key-9bc80e5a883a17278049038b7f454c36]
+**4.**[^c-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^c-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^c-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^c-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^c-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^c-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^c-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 11. Dependants of applicants for limited leave to remain[^c-9bc80e5a883a17278049038b7f454c36]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 14. Exceptions in respect of fees for leave to remain applications[^key-9bc80e5a883a17278049038b7f454c36]
+## 12. Indefinite Leave to Remain[^c-9bc80e5a883a17278049038b7f454c36]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**17.**[^key-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**18.**[^key-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**19.**[^key-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**20.**[^key-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**21.**[^key-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 22. Fees for nationality applications[^key-9bc80e5a883a17278049038b7f454c36]
+## 14. Exceptions in respect of fees for leave to remain applications[^c-9bc80e5a883a17278049038b7f454c36]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24. Fees for applications for sponsor licences[^key-9bc80e5a883a17278049038b7f454c36]
+**16.**[^c-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25. Fees for entry clearance applications[^key-9bc80e5a883a17278049038b7f454c36]
+**18.**[^c-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 26. Exceptions and waivers in respect of fees for entry clearance applications[^key-9bc80e5a883a17278049038b7f454c36]
+**20.**[^c-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 28. Fees for transfer of conditions[^key-9bc80e5a883a17278049038b7f454c36]
+## 22. Fees for nationality applications[^c-9bc80e5a883a17278049038b7f454c36]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 29. Fee for the expedited provision of documents under Part 3 of the Immigration (European Economic Area) Regulations 2006 at Public Enquiry Offices[^key-9bc80e5a883a17278049038b7f454c36]
+**23.**[^c-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 24. Fees for applications for sponsor licences[^c-9bc80e5a883a17278049038b7f454c36]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 30. Fee for applications made on a premium case working basis[^key-9bc80e5a883a17278049038b7f454c36]
+## 25. Fees for entry clearance applications[^c-9bc80e5a883a17278049038b7f454c36]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**31.**[^key-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 32. Fee for the provision of services outside office hours[^key-9bc80e5a883a17278049038b7f454c36]
+## 26. Exceptions and waivers in respect of fees for entry clearance applications[^c-9bc80e5a883a17278049038b7f454c36]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.**[^key-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 34. Fee for the process of issuing a certificate of sponsorship[^key-9bc80e5a883a17278049038b7f454c36]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 35. Fees in respect of applications involving the exercise of consular functions[^key-9bc80e5a883a17278049038b7f454c36]
+## 28. Fees for transfer of conditions[^c-9bc80e5a883a17278049038b7f454c36]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**36.**[^key-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 37. Consequences of failing to pay the specified fee[^key-9bc80e5a883a17278049038b7f454c36]
+## 29. Fee for the expedited provision of documents under Part 3 of the Immigration (European Economic Area) Regulations 2006 at Public Enquiry Offices[^c-9bc80e5a883a17278049038b7f454c36]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 38. Revocation[^key-9bc80e5a883a17278049038b7f454c36]
+## 30. Fee for applications made on a premium case working basis[^c-9bc80e5a883a17278049038b7f454c36]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9bc80e5a883a17278049038b7f454c36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 32. Fee for the provision of services outside office hours[^c-9bc80e5a883a17278049038b7f454c36]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**33.**[^c-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 34. Fee for the process of issuing a certificate of sponsorship[^c-9bc80e5a883a17278049038b7f454c36]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 35. Fees in respect of applications involving the exercise of consular functions[^c-9bc80e5a883a17278049038b7f454c36]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**36.**[^c-9bc80e5a883a17278049038b7f454c36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 37. Consequences of failing to pay the specified fee[^c-9bc80e5a883a17278049038b7f454c36]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 38. Revocation[^c-9bc80e5a883a17278049038b7f454c36]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-9bc80e5a883a17278049038b7f454c36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9bc80e5a883a17278049038b7f454c36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9bc80e5a883a17278049038b7f454c36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9bc80e5a883a17278049038b7f454c36]: Textual amendment: Regulations revoked (6.4.2012) by [The Immigration and Nationality (Fees) Regulations 2012 (S.I. 2012/971)](https://www.legislation.gov.uk/uksi/2012/971), [regs. 1](https://www.legislation.gov.uk/uksi/2012/971/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/971/regulation/8)
+[^c-9bc80e5a883a17278049038b7f454c36]: Textual amendment: Regulations revoked (6.4.2012) by [The Immigration and Nationality (Fees) Regulations 2012 (S.I. 2012/971)](https://www.legislation.gov.uk/uksi/2012/971), [regs. 1](https://www.legislation.gov.uk/uksi/2012/971/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/971/regulation/8)

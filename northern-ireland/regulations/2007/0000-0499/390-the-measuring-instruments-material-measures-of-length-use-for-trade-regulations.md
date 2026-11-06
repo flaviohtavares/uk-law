@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Enterprise, Trade and Investment[^f00001] makes the following Regulations in exercise of the powers conferred by Article 13(1) of the Weights and Measures (Northern Ireland) Order 1981[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-b5feaf7332c856263e8bebd63c255674]
+## 1. Citation and commencement[^c-b5feaf7332c856263e8bebd63c255674]
 
 These Regulations may be cited as the Measuring Instruments (Material Measures of Length) (Use for Trade) Regulations (Northern Ireland) 2007 and shall come into operation on 15th October 2007.
 
-## 2. Interpretation[^key-472a6ab2430db20f4f95afdd1c216f16]
+## 2. Interpretation[^c-472a6ab2430db20f4f95afdd1c216f16]
 
 In these Regulations—
 
@@ -54,11 +54,11 @@ In these Regulations—
 - “material measure of length” means an instrument comprising scale marks whose distances are given in legal units of length; and
 - “place on the market” means making available for the first time in a member State a material measure of length intended for an end user, whether for reward or free of charge.
 
-## 2A.[^key-f487066e0404c67a6171c0ba999834b1]
+## 2A.[^c-f487066e0404c67a6171c0ba999834b1]
 
 In these Regulations a reference to member State includes Norway, Iceland or Liechtenstein.
 
-## 3. Application[^key-607c66448554fb66821e2c5986d81b81]
+## 3. Application[^c-607c66448554fb66821e2c5986d81b81]
 
 (1) Subject to paragraphs (2) and (3), these Regulations apply to any material measure of length referred to in regulation 3(1) of the 2006 Regulations.
 
@@ -69,7 +69,7 @@ In these Regulations a reference to member State includes Norway, Iceland or Lie
 
 (3) These Regulations do not apply to a material measure of length to which the 2006 Regulations do not apply by virtue of regulation 3(3) to (5) thereof.
 
-## 4. Requirements for use for trade[^key-ec2b510989816bd72b02174f0275cc21]
+## 4. Requirements for use for trade[^c-ec2b510989816bd72b02174f0275cc21]
 
 A person shall not use for trade a material measure of length unless—
 
@@ -77,7 +77,7 @@ A person shall not use for trade a material measure of length unless—
 - (b) the measure operates within twice the limits of maximum permissible error set out in paragraph 14 of Schedule 1 to the 2006 Regulations; and
 - (c) the requirements of regulation 5 are complied with.
 
-## 5. Manner of use[^key-3e5cf3534f11a57f6ac6ae560a636852]
+## 5. Manner of use[^c-3e5cf3534f11a57f6ac6ae560a636852]
 
 (1) Where a material measure of length is marked with a temperature range, it shall not be used for trade in temperatures outside that range.
 
@@ -107,18 +107,18 @@ The Regulations have been notified to the European Commission in draft pursuant 
 
 [^f00003]: Footnote: By [S.I. 1982/846 (N.I. 11)](https://www.legislation.gov.uk/nisi/1982/846) Art. 4
 
-[^key-b5feaf7332c856263e8bebd63c255674]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/390/regulation/1) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/390/regulation/1)
+[^c-b5feaf7332c856263e8bebd63c255674]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/390/regulation/1) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/390/regulation/1)
 
-[^key-472a6ab2430db20f4f95afdd1c216f16]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/390/regulation/2) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/390/regulation/1)
+[^c-472a6ab2430db20f4f95afdd1c216f16]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/390/regulation/2) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/390/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2006/1267](https://www.legislation.gov.uk/uksi/2006/1267)
 
-[^key-f487066e0404c67a6171c0ba999834b1]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/nisr/2007/390/regulation/2A) inserted (17.3.2008) by [The Measuring Instruments (Use for Trade) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/52)](https://www.legislation.gov.uk/nisr/2008/52), [regs. 1](https://www.legislation.gov.uk/nisr/2008/52/regulation/1), [2](https://www.legislation.gov.uk/nisr/2008/52/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2008/52/schedule)
+[^c-f487066e0404c67a6171c0ba999834b1]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/nisr/2007/390/regulation/2A) inserted (17.3.2008) by [The Measuring Instruments (Use for Trade) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/52)](https://www.legislation.gov.uk/nisr/2008/52), [regs. 1](https://www.legislation.gov.uk/nisr/2008/52/regulation/1), [2](https://www.legislation.gov.uk/nisr/2008/52/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2008/52/schedule)
 
-[^key-607c66448554fb66821e2c5986d81b81]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/390/regulation/3) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/390/regulation/1)
+[^c-607c66448554fb66821e2c5986d81b81]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/390/regulation/3) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/390/regulation/1)
 
 [^f00005]: Footnote: [S.R. 1986 No. 308](https://www.legislation.gov.uk/nisr/1986/308) as amended by [S.R. 1995 No. 228](https://www.legislation.gov.uk/nisr/1995/228) and [S.R. 1999 No. 160](https://www.legislation.gov.uk/nisr/1999/160)
 
-[^key-ec2b510989816bd72b02174f0275cc21]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/390/regulation/4) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/390/regulation/1)
+[^c-ec2b510989816bd72b02174f0275cc21]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/390/regulation/4) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/390/regulation/1)
 
-[^key-3e5cf3534f11a57f6ac6ae560a636852]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/390/regulation/5) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/390/regulation/1)
+[^c-3e5cf3534f11a57f6ac6ae560a636852]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/390/regulation/5) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/390/regulation/1)

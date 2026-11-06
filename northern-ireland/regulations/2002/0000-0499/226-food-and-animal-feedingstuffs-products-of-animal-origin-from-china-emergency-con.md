@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-Food and Animal Feedingstuffs (Products of Animal Origin from China) (Emergency Control) Regulations (Northern Ireland) 2002 (revoked)[^key-3eda0365f3ca5e493d9962d2fb98895b]
+Food and Animal Feedingstuffs (Products of Animal Origin from China) (Emergency Control) Regulations (Northern Ireland) 2002 (revoked)[^c-3eda0365f3ca5e493d9962d2fb98895b]
 
 Made
 
@@ -41,40 +41,40 @@ Coming into operation
 
 28th June 2002
 
-[^key-3eda0365f3ca5e493d9962d2fb98895b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3eda0365f3ca5e493d9962d2fb98895b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3eda0365f3ca5e493d9962d2fb98895b]
+## 1. Citation and commencement[^c-3eda0365f3ca5e493d9962d2fb98895b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-3eda0365f3ca5e493d9962d2fb98895b]
+## 2. Interpretation[^c-3eda0365f3ca5e493d9962d2fb98895b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition of importation and offence[^key-3eda0365f3ca5e493d9962d2fb98895b]
+## 3. Prohibition of importation and offence[^c-3eda0365f3ca5e493d9962d2fb98895b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-3eda0365f3ca5e493d9962d2fb98895b]
+## 4. Enforcement[^c-3eda0365f3ca5e493d9962d2fb98895b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various provisions of the Order[^key-3eda0365f3ca5e493d9962d2fb98895b]
+## 5. Application of various provisions of the Order[^c-3eda0365f3ca5e493d9962d2fb98895b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation of the Food and Animal Feedingstuffs (Products of Animal Origin from China) (Control) Regulations (Northern Ireland) 2002[^key-3eda0365f3ca5e493d9962d2fb98895b]
+## 6. Revocation of the Food and Animal Feedingstuffs (Products of Animal Origin from China) (Control) Regulations (Northern Ireland) 2002[^c-3eda0365f3ca5e493d9962d2fb98895b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3eda0365f3ca5e493d9962d2fb98895b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3eda0365f3ca5e493d9962d2fb98895b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3eda0365f3ca5e493d9962d2fb98895b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3eda0365f3ca5e493d9962d2fb98895b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3eda0365f3ca5e493d9962d2fb98895b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/226) revoked (6.12.2002) by [Products of Animal Origin (Third Country Imports) Regulations (Northern Ireland) 2002 (revoked) 2002 (S.R. 2002/340)](https://www.legislation.gov.uk/nisr/2002/340), [regs. 1](https://www.legislation.gov.uk/nisr/2002/340/regulation/1), [62(2)](https://www.legislation.gov.uk/nisr/2002/340/regulation/62/2)
+[^c-3eda0365f3ca5e493d9962d2fb98895b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/226) revoked (6.12.2002) by [Products of Animal Origin (Third Country Imports) Regulations (Northern Ireland) 2002 (revoked) 2002 (S.R. 2002/340)](https://www.legislation.gov.uk/nisr/2002/340), [regs. 1](https://www.legislation.gov.uk/nisr/2002/340/regulation/1), [62(2)](https://www.legislation.gov.uk/nisr/2002/340/regulation/62/2)

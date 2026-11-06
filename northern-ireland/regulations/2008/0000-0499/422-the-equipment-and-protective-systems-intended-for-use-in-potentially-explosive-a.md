@@ -31,7 +31,7 @@ summary: ''
 
 Health And Safety
 
-The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^key-c83e9c061a1d6efe84017bfea4033ed7]
+The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^c-c83e9c061a1d6efe84017bfea4033ed7]
 
 Made
 
@@ -41,34 +41,34 @@ Coming into operation
 
 1st December 2008
 
-[^key-c83e9c061a1d6efe84017bfea4033ed7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c83e9c061a1d6efe84017bfea4033ed7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c83e9c061a1d6efe84017bfea4033ed7]
+## 1. Citation and commencement[^c-c83e9c061a1d6efe84017bfea4033ed7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-c83e9c061a1d6efe84017bfea4033ed7]
+## 2. Interpretation[^c-c83e9c061a1d6efe84017bfea4033ed7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Regulations[^key-c83e9c061a1d6efe84017bfea4033ed7]
+## 3. Amendment of the principal Regulations[^c-c83e9c061a1d6efe84017bfea4033ed7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Consequential amendment of the Provision and Use of Work Equipment Regulations (Northern Ireland) 1999[^key-c83e9c061a1d6efe84017bfea4033ed7]
+## 4. Consequential amendment of the Provision and Use of Work Equipment Regulations (Northern Ireland) 1999[^c-c83e9c061a1d6efe84017bfea4033ed7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocations[^key-c83e9c061a1d6efe84017bfea4033ed7]
+## 5. Revocations[^c-c83e9c061a1d6efe84017bfea4033ed7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c83e9c061a1d6efe84017bfea4033ed7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c83e9c061a1d6efe84017bfea4033ed7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c83e9c061a1d6efe84017bfea4033ed7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c83e9c061a1d6efe84017bfea4033ed7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c83e9c061a1d6efe84017bfea4033ed7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/422) revoked (10.7.2017) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (S.R. 2017/90)](https://www.legislation.gov.uk/nisr/2017/90), [Sch. 8](https://www.legislation.gov.uk/nisr/2017/90/schedule/8) (with [reg. 72(3)](https://www.legislation.gov.uk/nisr/2017/90/regulation/72/3)) (as amended by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696), [reg. 35(a)](https://www.legislation.gov.uk/uksi/2019/696/regulation/35/a))
+[^c-c83e9c061a1d6efe84017bfea4033ed7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/422) revoked (10.7.2017) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (S.R. 2017/90)](https://www.legislation.gov.uk/nisr/2017/90), [Sch. 8](https://www.legislation.gov.uk/nisr/2017/90/schedule/8) (with [reg. 72(3)](https://www.legislation.gov.uk/nisr/2017/90/regulation/72/3)) (as amended by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696), [reg. 35(a)](https://www.legislation.gov.uk/uksi/2019/696/regulation/35/a))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Applications for acceptance as a temporary resident[^key-2427130bbf75525581f402ce4e904361]
+## 10. Applications for acceptance as a temporary resident[^c-2427130bbf75525581f402ce4e904361]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where, on or before 31st March 2004, a person had applied to a relevant medical 
 
 ## Annotations
 
-[^key-2427130bbf75525581f402ce4e904361]: Commencement: Art. 10 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-2427130bbf75525581f402ce4e904361]: Commencement: Art. 10 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

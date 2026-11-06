@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Height keeping performance – aircraft registered in the Isle of Man[^key-b0f7e530051211d2f9082e0f3317a540]
+## 66. Height keeping performance – aircraft registered in the Isle of Man[^c-b0f7e530051211d2f9082e0f3317a540]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0f7e530051211d2f9082e0f3317a540]: Commencement: [Art. 66](https://www.legislation.gov.uk/uksi/2015/870/article/66) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-b0f7e530051211d2f9082e0f3317a540]: Commencement: [Art. 66](https://www.legislation.gov.uk/uksi/2015/870/article/66) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

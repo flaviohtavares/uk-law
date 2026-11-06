@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Duty of the Harbour Authority[^key-49c735ea075c4d1cb73b495f19028e28]
+## 34. Duty of the Harbour Authority[^c-49c735ea075c4d1cb73b495f19028e28]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ It shall be the duty of the Harbour Authority on completion of the whole or any 
 
 ## Annotations
 
-[^key-49c735ea075c4d1cb73b495f19028e28]: Commencement: Art. 34 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-49c735ea075c4d1cb73b495f19028e28]: Commencement: Art. 34 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

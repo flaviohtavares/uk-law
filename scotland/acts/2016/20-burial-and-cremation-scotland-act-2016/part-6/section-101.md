@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 101. Acquisition of land[^key-36a102e4dd37c0c7f17c1a5791f8a3df]
+## 101. Acquisition of land[^c-36a102e4dd37c0c7f17c1a5791f8a3df]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In the Local Government (Scotland) Act 1973, in section 70(1) (acquisition of la
 
 ## Annotations
 
-[^key-36a102e4dd37c0c7f17c1a5791f8a3df]: Commencement: [S. 101](https://www.legislation.gov.uk/asp/2016/20/section/101) in force at 28.12.2016 by [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417), [reg. 2](https://www.legislation.gov.uk/ssi/2016/417/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/417/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/417/regulation/4))
+[^c-36a102e4dd37c0c7f17c1a5791f8a3df]: Commencement: [S. 101](https://www.legislation.gov.uk/asp/2016/20/section/101) in force at 28.12.2016 by [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417), [reg. 2](https://www.legislation.gov.uk/ssi/2016/417/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/417/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/417/regulation/4))

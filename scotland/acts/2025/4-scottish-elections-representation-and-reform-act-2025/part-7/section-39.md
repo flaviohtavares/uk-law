@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Pilot schemes under the Scottish Local Government (Elections) Act 2002[^key-9b8b0da98bed9f68af11e34822dac694][^key-032c09786dc446628509b98c75d9f7ca]
+## 39. Pilot schemes under the Scottish Local Government (Elections) Act 2002[^c-9b8b0da98bed9f68af11e34822dac694][^c-032c09786dc446628509b98c75d9f7ca]
 
 *Extent: S*
 
@@ -86,6 +86,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9b8b0da98bed9f68af11e34822dac694]: Commencement: S. 39 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-9b8b0da98bed9f68af11e34822dac694]: Commencement: S. 39 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-032c09786dc446628509b98c75d9f7ca]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2025/4/section/39) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
+[^c-032c09786dc446628509b98c75d9f7ca]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2025/4/section/39) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 228. Costs and expenses of witnesses[^key-4acf396b3913366697dc2160c31ed797]
+## 228. Costs and expenses of witnesses[^c-4acf396b3913366697dc2160c31ed797]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Except as directed by the court, no allowance as a witness in any examination or
 
 ## Annotations
 
-[^key-4acf396b3913366697dc2160c31ed797]: Commencement: [Rule 228](https://www.legislation.gov.uk/nisr/2026/11/rule/228) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-4acf396b3913366697dc2160c31ed797]: Commencement: [Rule 228](https://www.legislation.gov.uk/nisr/2026/11/rule/228) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

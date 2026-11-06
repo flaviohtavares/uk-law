@@ -45,7 +45,7 @@ the authority may serve a second such notice on the person having control of or 
 - (c) the right to appeal against the decision under subsection (7), and
 - (d) the period within which an appeal may be made under that subsection.
 
-(7) The person concerned may appeal to the appropriate tribunal[^key-417695a69b91c756fb0f9f4e80fb7d2e] against the decision within the period of 28 days beginning with the date specified under subsection (6) as the date on which it was made.
+(7) The person concerned may appeal to the appropriate tribunal[^c-417695a69b91c756fb0f9f4e80fb7d2e] against the decision within the period of 28 days beginning with the date specified under subsection (6) as the date on which it was made.
 
 (8) Such an appeal—
 
@@ -61,4 +61,4 @@ the authority may serve a second such notice on the person having control of or 
 
 [^c2051404]: Commencement: S. 86 wholly in force at 16.6.2006; s. 86 not in force at Royal Assent see s. 270(4)(5); s. 86 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); s. 86 in force for W. at 16.6.2006 by [S. I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-417695a69b91c756fb0f9f4e80fb7d2e]: Textual amendment: Words in s. 86(7) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 156](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/156) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-417695a69b91c756fb0f9f4e80fb7d2e]: Textual amendment: Words in s. 86(7) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 156](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/156) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

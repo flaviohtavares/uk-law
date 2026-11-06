@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Capping of costs: environmental cases[^key-008d1e2126e28ec2b4c46be2ab64c33e]
+## 90. Capping of costs: environmental cases[^c-008d1e2126e28ec2b4c46be2ab64c33e]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-008d1e2126e28ec2b4c46be2ab64c33e]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2015/2/section/90) in force at 8.8.2016 by [S.I. 2016/717](https://www.legislation.gov.uk/uksi/2016/717), [art. 3(f)](https://www.legislation.gov.uk/uksi/2016/717/article/3/f) (with [art. 7](https://www.legislation.gov.uk/uksi/2016/717/article/7))
+[^c-008d1e2126e28ec2b4c46be2ab64c33e]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2015/2/section/90) in force at 8.8.2016 by [S.I. 2016/717](https://www.legislation.gov.uk/uksi/2016/717), [art. 3(f)](https://www.legislation.gov.uk/uksi/2016/717/article/3/f) (with [art. 7](https://www.legislation.gov.uk/uksi/2016/717/article/7))

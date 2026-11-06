@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Directions under section 128: notification[^key-3db71ac65c456c163f2f9f35d81d3d84]
+## 131. Directions under section 128: notification[^c-3db71ac65c456c163f2f9f35d81d3d84]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where the appropriate authority gives a direction under section 128(1), or varie
 
 ## Annotations
 
-[^key-3db71ac65c456c163f2f9f35d81d3d84]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2008/25/section/131) in force at 8.9.2014 by [S.I. 2014/2379](https://www.legislation.gov.uk/uksi/2014/2379), [art. 2(f)](https://www.legislation.gov.uk/uksi/2014/2379/article/2/f)
+[^c-3db71ac65c456c163f2f9f35d81d3d84]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2008/25/section/131) in force at 8.9.2014 by [S.I. 2014/2379](https://www.legislation.gov.uk/uksi/2014/2379), [art. 2(f)](https://www.legislation.gov.uk/uksi/2014/2379/article/2/f)

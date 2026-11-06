@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Decision 2015/6674/EU establishing a common format for the submission of Member State reports on the implementation of Directive [2004/42/EC](https://www.legislation.gov.uk/eudr/2004/42) of the European Parliament and of the Council on the limitation of emissions of volatile organic compounds due to the use of organic solvents in certain paints and varnishes and vehicle refinishing products[^key-1a191817c6f4e55c71ef8e460af64190]
+## 15. Decision 2015/6674/EU establishing a common format for the submission of Member State reports on the implementation of Directive [2004/42/EC](https://www.legislation.gov.uk/eudr/2004/42) of the European Parliament and of the Council on the limitation of emissions of volatile organic compounds due to the use of organic solvents in certain paints and varnishes and vehicle refinishing products[^c-1a191817c6f4e55c71ef8e460af64190]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1a191817c6f4e55c71ef8e460af64190]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1a191817c6f4e55c71ef8e460af64190]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23497601]: Marginal citation: [S.I. 2012/1715](https://www.legislation.gov.uk/uksi/2012/1715), to which there are amendments not relevant to these Regulations.

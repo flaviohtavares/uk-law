@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Property, goods, services etc. provided free of charge or at a discount[^key-e10aaf4901f36901d56c987f75a85f7c]
+## 60. Property, goods, services etc. provided free of charge or at a discount[^c-e10aaf4901f36901d56c987f75a85f7c]
 
 *Extent: S*
 
@@ -27,7 +27,7 @@ summary: ''
   - (ii) property, goods, services or facilities is or are provided for the use or benefit of the candidate free of charge or at a discount of more than 10 per cent of the commercial rate for the use of the property or for the provision of the goods, services or facilities; and
 - (b) the property, goods, services or facilities is or are made use of by or on behalf of the candidate in circumstances such that, if any expenses were to be (or are) actually incurred by or on behalf of the candidate in respect of that use, they would be (or are) election expenses incurred by or on behalf of the candidate.
 
-(1A)[^key-efb7fd19a773e7dae5a7a6e97f0f6903] For the purposes of paragraph (1)(b), property, goods, services or facilities are made use of on behalf of a candidate only if their use on behalf of the candidate is directed, authorised or encouraged by the candidate or the candidate’s election agent.
+(1A)[^c-efb7fd19a773e7dae5a7a6e97f0f6903] For the purposes of paragraph (1)(b), property, goods, services or facilities are made use of on behalf of a candidate only if their use on behalf of the candidate is directed, authorised or encouraged by the candidate or the candidate’s election agent.
 
 (2) Where this article applies, and subject to article 58(2)—
 
@@ -58,6 +58,6 @@ as is reasonably attributable to the use made of the property, goods, services o
 
 ## Annotations
 
-[^key-e10aaf4901f36901d56c987f75a85f7c]: Commencement: Art. 60 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-e10aaf4901f36901d56c987f75a85f7c]: Commencement: Art. 60 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-efb7fd19a773e7dae5a7a6e97f0f6903]: Textual amendment: [Art. 60(1A)](https://www.legislation.gov.uk/ssi/2015/425/article/60/1A) inserted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2025 (S.S.I. 2025/313)](https://www.legislation.gov.uk/ssi/2025/313), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/313/article/1/1), [7](https://www.legislation.gov.uk/ssi/2025/313/article/7)
+[^c-efb7fd19a773e7dae5a7a6e97f0f6903]: Textual amendment: [Art. 60(1A)](https://www.legislation.gov.uk/ssi/2015/425/article/60/1A) inserted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2025 (S.S.I. 2025/313)](https://www.legislation.gov.uk/ssi/2025/313), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/313/article/1/1), [7](https://www.legislation.gov.uk/ssi/2025/313/article/7)

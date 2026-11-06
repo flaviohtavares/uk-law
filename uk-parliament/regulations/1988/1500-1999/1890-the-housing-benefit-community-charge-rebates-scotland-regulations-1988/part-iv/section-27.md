@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Capital limit[^key-5d18b42c34baba741ca840af17f91af7]
+## 27. Capital limit[^c-5d18b42c34baba741ca840af17f91af7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ For the purposes of section 22(6) of the Act as it applies to housing benefit (n
 
 ## Annotations
 
-[^key-5d18b42c34baba741ca840af17f91af7]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1988/1890/regulation/27) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-5d18b42c34baba741ca840af17f91af7]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1988/1890/regulation/27) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

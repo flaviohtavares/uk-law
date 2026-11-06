@@ -26,7 +26,7 @@ summary: ''
 
 1996 No. 1919 (N.I. 16)
 
-The Employment Rights (Northern Ireland) Order 1996 [^c22359571][^c22385931][^c22385941][^c22540981][^c17620801][^key-dba5d40258ea8f505139f1a6ed66d8d3][^key-e456cb98f52cc1fc032276a1c04fe63f][^key-4d7825e1d07f29ea9bc53a5eebc76737][^key-cddb33027747c9ec69e2cdec422667e5][^key-cddb33027747c9ec69e2cdec422667e5][^key-371d016892ce1b9c4b153e2f25323a11][^key-60520f509c4f0a8883d393d175b7c24e]
+The Employment Rights (Northern Ireland) Order 1996 [^c22359571][^c22385931][^c22385941][^c22540981][^c17620801][^c-dba5d40258ea8f505139f1a6ed66d8d3][^c-e456cb98f52cc1fc032276a1c04fe63f][^c-4d7825e1d07f29ea9bc53a5eebc76737][^c-cddb33027747c9ec69e2cdec422667e5][^c-cddb33027747c9ec69e2cdec422667e5][^c-371d016892ce1b9c4b153e2f25323a11][^c-60520f509c4f0a8883d393d175b7c24e]
 
 23rd July 1996
 
@@ -155,7 +155,7 @@ The Employment Rights (Northern Ireland) Order 1996 [^c22359571][^c22385931][^c2
 
 - [Section 59 — Meaning of “wages” etc.](part-iv/section-59.md)
 
-### PART IVA — ZERO HOURS WORKERS[^key-76f7c92732ab6c0fa7e1b90b0d58ea88]
+### PART IVA — ZERO HOURS WORKERS[^c-76f7c92732ab6c0fa7e1b90b0d58ea88]
 
 - [Section 59A — Zero hours workers](part-iva/section-59a.md)
 
@@ -250,25 +250,25 @@ The Employment Rights (Northern Ireland) Order 1996 [^c22359571][^c22385931][^c2
 - [Section 85ZC — Complaints to industrial tribunals: agency workers](part-vii/section-85zc.md)
 - [Section 85ZD — Agency workers: supplementary](part-vii/section-85zd.md)
 
-#### Accompanying to ante-natal appointments[^key-00e00d8edbe359062bf6e90e94c1983e]
+#### Accompanying to ante-natal appointments[^c-00e00d8edbe359062bf6e90e94c1983e]
 
 - [Section 85ZE — Right to time off to accompany to ante-natal appointments](part-vii/section-85ze.md)
 - [Section 85ZF — Complaint to industrial tribunal](part-vii/section-85zf.md)
 
-#### Accompanying to ante-natal appointments: agency workers[^key-00e00d8edbe359062bf6e90e94c1983e]
+#### Accompanying to ante-natal appointments: agency workers[^c-00e00d8edbe359062bf6e90e94c1983e]
 
 - [Section 85ZG — Right to time off to accompany to ante-natal appointments: agency workers](part-vii/section-85zg.md)
 - [Section 85ZH — Complaint to industrial tribunal: agency workers](part-vii/section-85zh.md)
 - [Section 85ZI — Agency workers: supplementary](part-vii/section-85zi.md)
 
-#### Adoption appointments[^key-044959d395ae1270a75914ab239ed056]
+#### Adoption appointments[^c-044959d395ae1270a75914ab239ed056]
 
 - [Section 85ZJ — Right to paid time off to attend adoption appointments](part-vii/section-85zj.md)
 - [Section 85ZK — Right to remuneration for time off under Article 85ZJ](part-vii/section-85zk.md)
 - [Section 85ZL — Right to unpaid time off to attend adoption appointments](part-vii/section-85zl.md)
 - [Section 85ZM — Complaint to industrial tribunal](part-vii/section-85zm.md)
 
-#### Adoption appointments: agency workers[^key-044959d395ae1270a75914ab239ed056]
+#### Adoption appointments: agency workers[^c-044959d395ae1270a75914ab239ed056]
 
 - [Section 85ZN — Right to paid time off to attend adoption appointments: agency workers](part-vii/section-85zn.md)
 - [Section 85ZO — Right to remuneration for time off under Article 85ZN](part-vii/section-85zo.md)
@@ -363,7 +363,7 @@ The Employment Rights (Northern Ireland) Order 1996 [^c22359571][^c22385931][^c2
 - [Section 107C — Redundancy and dismissal](part-ix/section-107c.md)
 - [Section 107D — Chapter IA: supplemental](part-ix/section-107d.md)
 
-#### CHAPTER 1B — SHARED PARENTAL LEAVE[^key-19972f31637f696df1d9548fa61c1b9b][^c22340171]
+#### CHAPTER 1B — SHARED PARENTAL LEAVE[^c-19972f31637f696df1d9548fa61c1b9b][^c22340171]
 
 - [Section 107E — Entitlement to shared parental leave: birth](part-ix/section-107e.md)
 - [Section 107F — Entitlement to leave under Article 107E: further provision](part-ix/section-107f.md)
@@ -429,7 +429,7 @@ The Employment Rights (Northern Ireland) Order 1996 [^c22359571][^c22385931][^c2
 - [Section 124 — Right to written statement of reasons for dismissal](part-x/section-124.md)
 - [Section 125 — Complaints to industrial tribunal](part-x/section-125.md)
 
-### PART XI — UNFAIR DISMISSAL[^c20294021][^c20294041][^c20294061][^c20661081][^c22359591][^c22542401][^key-6f7f06993e0993fb60fe4e6c3891595a][^key-efc1d3b321f22ae61b9a73170b5488bd][^key-44dec4e20daebd3912833547b92960d3][^key-8afeca0069f19e5bdde0f33f3babb302]
+### PART XI — UNFAIR DISMISSAL[^c20294021][^c20294041][^c20294061][^c20661081][^c22359591][^c22542401][^c-6f7f06993e0993fb60fe4e6c3891595a][^c-efc1d3b321f22ae61b9a73170b5488bd][^c-44dec4e20daebd3912833547b92960d3][^c-8afeca0069f19e5bdde0f33f3babb302]
 
 #### CHAPTER I — RIGHT NOT TO BE UNFAIRLY DISMISSED
 
@@ -708,7 +708,7 @@ The Employment Rights (Northern Ireland) Order 1996 [^c22359571][^c22385931][^c2
 - [Section 249 — Rights and liabilities accruing after death](part-xv/section-249.md)
 - [Section 249A — Time limits in relation to certain mediated cross-border disputes](part-xv/section-249a.md)
 
-##### Extension of certain time limits[^key-7b64b2f713786cf86c11f3cbac9933b5]
+##### Extension of certain time limits[^c-7b64b2f713786cf86c11f3cbac9933b5]
 
 - [Section 249B — Extension of time limits to facilitate conciliation before institution of proceedings](part-xv/section-249b.md)
 
@@ -787,17 +787,17 @@ SCHEDULES
 
 [^c17620801]: Textual amendment: functions transfered SR 1999/481
 
-[^key-dba5d40258ea8f505139f1a6ed66d8d3]: Modification: Order excluded (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 5 para. 15(1)(2)(d)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/5/paragraph); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(m)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/m)
+[^c-dba5d40258ea8f505139f1a6ed66d8d3]: Modification: Order excluded (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 5 para. 15(1)(2)(d)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/5/paragraph); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(m)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/m)
 
-[^key-e456cb98f52cc1fc032276a1c04fe63f]: Modification: Order applied (with modifications) (6.4.2022) by [The Parental Bereavement Leave Regulations (Northern Ireland) 2022 (S.R. 2022/166)](https://www.legislation.gov.uk/nisr/2022/166), [regs. 1](https://www.legislation.gov.uk/nisr/2022/166/regulation/1), [15](https://www.legislation.gov.uk/nisr/2022/166/regulation/15)
+[^c-e456cb98f52cc1fc032276a1c04fe63f]: Modification: Order applied (with modifications) (6.4.2022) by [The Parental Bereavement Leave Regulations (Northern Ireland) 2022 (S.R. 2022/166)](https://www.legislation.gov.uk/nisr/2022/166), [regs. 1](https://www.legislation.gov.uk/nisr/2022/166/regulation/1), [15](https://www.legislation.gov.uk/nisr/2022/166/regulation/15)
 
-[^key-4d7825e1d07f29ea9bc53a5eebc76737]: Modification: Order applied (with modifications) (3.10.2022) by [The Parental Bereavement Leave (No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/237)](https://www.legislation.gov.uk/nisr/2022/237), [regs. 1](https://www.legislation.gov.uk/nisr/2022/237/regulation/1), [15](https://www.legislation.gov.uk/nisr/2022/237/regulation/15) (with [regs. 16-21](https://www.legislation.gov.uk/nisr/2022/237/regulation/16))
+[^c-4d7825e1d07f29ea9bc53a5eebc76737]: Modification: Order applied (with modifications) (3.10.2022) by [The Parental Bereavement Leave (No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/237)](https://www.legislation.gov.uk/nisr/2022/237), [regs. 1](https://www.legislation.gov.uk/nisr/2022/237/regulation/1), [15](https://www.legislation.gov.uk/nisr/2022/237/regulation/15) (with [regs. 16-21](https://www.legislation.gov.uk/nisr/2022/237/regulation/16))
 
-[^key-cddb33027747c9ec69e2cdec422667e5]: Modification: Order applied (with modifications) (2.4.2023) by [The Parental Bereavement Leave Regulations (Northern Ireland) 2023 (S.R. 2023/55)](https://www.legislation.gov.uk/nisr/2023/55), [regs. 1](https://www.legislation.gov.uk/nisr/2023/55/regulation/1), [15](https://www.legislation.gov.uk/nisr/2023/55/regulation/15) (with [regs. 16-21](https://www.legislation.gov.uk/nisr/2023/55/regulation/16))
+[^c-cddb33027747c9ec69e2cdec422667e5]: Modification: Order applied (with modifications) (2.4.2023) by [The Parental Bereavement Leave Regulations (Northern Ireland) 2023 (S.R. 2023/55)](https://www.legislation.gov.uk/nisr/2023/55), [regs. 1](https://www.legislation.gov.uk/nisr/2023/55/regulation/1), [15](https://www.legislation.gov.uk/nisr/2023/55/regulation/15) (with [regs. 16-21](https://www.legislation.gov.uk/nisr/2023/55/regulation/16))
 
-[^key-371d016892ce1b9c4b153e2f25323a11]: Modification: Order applied (with modifications) (29.9.2023) by [The Parental Bereavement Leave (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/156)](https://www.legislation.gov.uk/nisr/2023/156), [regs. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1), [15](https://www.legislation.gov.uk/nisr/2023/156/regulation/15) (with [regs. 16-21](https://www.legislation.gov.uk/nisr/2023/156/regulation/16))
+[^c-371d016892ce1b9c4b153e2f25323a11]: Modification: Order applied (with modifications) (29.9.2023) by [The Parental Bereavement Leave (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/156)](https://www.legislation.gov.uk/nisr/2023/156), [regs. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1), [15](https://www.legislation.gov.uk/nisr/2023/156/regulation/15) (with [regs. 16-21](https://www.legislation.gov.uk/nisr/2023/156/regulation/16))
 
-[^key-60520f509c4f0a8883d393d175b7c24e]: Modification: Order applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(2)(f)(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/2/f/4))
+[^c-60520f509c4f0a8883d393d175b7c24e]: Modification: Order applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(2)(f)(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/2/f/4))
 
 [^c20261331]: Modification: [Pt. I Ch. IV](https://www.legislation.gov.uk/nisi/1996/1919/part/I/chapter/IV) (arts. 16-25) applied (6.4.2006) by [Occupational and Personal Pension Schemes (Consultation by Employers) Regulations (Northern Ireland) 2006 (S.R. 2006/48)](https://www.legislation.gov.uk/nisr/2006/48), [reg. 17](https://www.legislation.gov.uk/nisr/2006/48/regulation/17), [Sch. para. 3(2)](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/3/2)
 
@@ -811,7 +811,7 @@ SCHEDULES
 
 [^c22359581]: Modification: [Pt. I Ch. IV](https://www.legislation.gov.uk/nisi/1996/1919/part/I/chapter/IV) (arts. 16-25) applied (1.10.2009) by European Public Limited-[Liability Company (Employee Involvement) (Northern Ireland) Regulations 2009 (S.I. 2009/2402)](https://www.legislation.gov.uk/uksi/2009/2402), [reg. 27(2)](https://www.legislation.gov.uk/uksi/2009/2402/regulation/27/2) (with [reg. 39](https://www.legislation.gov.uk/uksi/2009/2402/regulation/39))
 
-[^key-76f7c92732ab6c0fa7e1b90b0d58ea88]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/nisi/1996/1919/part/4A) inserted (20.9.2021) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 18](https://www.legislation.gov.uk/nia/2016/15/section/18), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2021/253](https://www.legislation.gov.uk/nisr/2021/253), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/253/article/2/c)
+[^c-76f7c92732ab6c0fa7e1b90b0d58ea88]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/nisi/1996/1919/part/4A) inserted (20.9.2021) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 18](https://www.legislation.gov.uk/nia/2016/15/section/18), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2021/253](https://www.legislation.gov.uk/nisr/2021/253), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/253/article/2/c)
 
 [^c22339971]: Textual amendment: [1998 NI 17](https://www.legislation.gov.uk/nisi/1998)
 
@@ -821,9 +821,9 @@ SCHEDULES
 
 [^c22541971]: Textual amendment: Arts. 85ZA-85ZD and preceding cross-heading inserted (5.12.2011) by [Agency Workers Regulations (Northern Ireland) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/10)
 
-[^key-00e00d8edbe359062bf6e90e94c1983e]: Textual amendment: Arts. 85ZE-85ZI and cross-headings inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 15(2)](https://www.legislation.gov.uk/nia/2015/1/section/15/2), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(l)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/l)
+[^c-00e00d8edbe359062bf6e90e94c1983e]: Textual amendment: Arts. 85ZE-85ZI and cross-headings inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 15(2)](https://www.legislation.gov.uk/nia/2015/1/section/15/2), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(l)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/l)
 
-[^key-044959d395ae1270a75914ab239ed056]: Textual amendment: Arts. 85ZJ-85ZS and cross-headings inserted (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 17(2)](https://www.legislation.gov.uk/nia/2015/1/section/17/2), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(1)(e)](https://www.legislation.gov.uk/nisr/2015/86/article/4/1/e)
+[^c-044959d395ae1270a75914ab239ed056]: Textual amendment: Arts. 85ZJ-85ZS and cross-headings inserted (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 17(2)](https://www.legislation.gov.uk/nia/2015/1/section/17/2), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(1)(e)](https://www.legislation.gov.uk/nisr/2015/86/article/4/1/e)
 
 [^c22340091]: Textual amendment: [1999 NI 9](https://www.legislation.gov.uk/nisi/1999)
 
@@ -837,7 +837,7 @@ SCHEDULES
 
 [^c21418651]: Textual amendment: [2002 NI 2](https://www.legislation.gov.uk/nisi/2002)
 
-[^key-19972f31637f696df1d9548fa61c1b9b]: Textual amendment: Pt. 9 Ch. 1B inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 2(2)](https://www.legislation.gov.uk/nia/2015/1/section/2/2), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(b)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/b)
+[^c-19972f31637f696df1d9548fa61c1b9b]: Textual amendment: Pt. 9 Ch. 1B inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 2(2)](https://www.legislation.gov.uk/nia/2015/1/section/2/2), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(b)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/b)
 
 [^c20289071]: Textual amendment: [2002 NI 2](https://www.legislation.gov.uk/nisi/2002)
 
@@ -857,13 +857,13 @@ SCHEDULES
 
 [^c22542401]: Modification: [Pt. 11](https://www.legislation.gov.uk/nisi/1996/1919/part/11) (arts. 126-169A) modified (5.12.2011) by [Agency Workers Regulations (Northern Ireland) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 17](https://www.legislation.gov.uk/nisr/2011/350/regulation/17)
 
-[^key-6f7f06993e0993fb60fe4e6c3891595a]: Modification: [Pt. 11](https://www.legislation.gov.uk/nisi/1996/1919/part/11) modified (6.4.2022) by [The Parental Bereavement Leave Regulations (Northern Ireland) 2022 (S.R. 2022/166)](https://www.legislation.gov.uk/nisr/2022/166), [regs. 1](https://www.legislation.gov.uk/nisr/2022/166/regulation/1), [13(1)](https://www.legislation.gov.uk/nisr/2022/166/regulation/13/1)
+[^c-6f7f06993e0993fb60fe4e6c3891595a]: Modification: [Pt. 11](https://www.legislation.gov.uk/nisi/1996/1919/part/11) modified (6.4.2022) by [The Parental Bereavement Leave Regulations (Northern Ireland) 2022 (S.R. 2022/166)](https://www.legislation.gov.uk/nisr/2022/166), [regs. 1](https://www.legislation.gov.uk/nisr/2022/166/regulation/1), [13(1)](https://www.legislation.gov.uk/nisr/2022/166/regulation/13/1)
 
-[^key-efc1d3b321f22ae61b9a73170b5488bd]: Modification: [Pt. 11](https://www.legislation.gov.uk/nisi/1996/1919/part/11) modified (3.10.2022) by [The Parental Bereavement Leave (No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/237)](https://www.legislation.gov.uk/nisr/2022/237), [regs. 1](https://www.legislation.gov.uk/nisr/2022/237/regulation/1), [13(1)](https://www.legislation.gov.uk/nisr/2022/237/regulation/13/1) (with [regs. 16-21](https://www.legislation.gov.uk/nisr/2022/237/regulation/16))
+[^c-efc1d3b321f22ae61b9a73170b5488bd]: Modification: [Pt. 11](https://www.legislation.gov.uk/nisi/1996/1919/part/11) modified (3.10.2022) by [The Parental Bereavement Leave (No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/237)](https://www.legislation.gov.uk/nisr/2022/237), [regs. 1](https://www.legislation.gov.uk/nisr/2022/237/regulation/1), [13(1)](https://www.legislation.gov.uk/nisr/2022/237/regulation/13/1) (with [regs. 16-21](https://www.legislation.gov.uk/nisr/2022/237/regulation/16))
 
-[^key-44dec4e20daebd3912833547b92960d3]: Modification: [Pt. 11](https://www.legislation.gov.uk/nisi/1996/1919/part/11) modified (2.4.2023) by [The Parental Bereavement Leave Regulations (Northern Ireland) 2023 (S.R. 2023/55)](https://www.legislation.gov.uk/nisr/2023/55), [regs. 1](https://www.legislation.gov.uk/nisr/2023/55/regulation/1), [13(1)](https://www.legislation.gov.uk/nisr/2023/55/regulation/13/1) (with [regs. 16-21](https://www.legislation.gov.uk/nisr/2023/55/regulation/16))
+[^c-44dec4e20daebd3912833547b92960d3]: Modification: [Pt. 11](https://www.legislation.gov.uk/nisi/1996/1919/part/11) modified (2.4.2023) by [The Parental Bereavement Leave Regulations (Northern Ireland) 2023 (S.R. 2023/55)](https://www.legislation.gov.uk/nisr/2023/55), [regs. 1](https://www.legislation.gov.uk/nisr/2023/55/regulation/1), [13(1)](https://www.legislation.gov.uk/nisr/2023/55/regulation/13/1) (with [regs. 16-21](https://www.legislation.gov.uk/nisr/2023/55/regulation/16))
 
-[^key-8afeca0069f19e5bdde0f33f3babb302]: Modification: [Pt. XI](https://www.legislation.gov.uk/nisi/1996/1919/part/XI) modified (29.9.2023) by [The Parental Bereavement Leave (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/156)](https://www.legislation.gov.uk/nisr/2023/156), [regs. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1), [13(1)](https://www.legislation.gov.uk/nisr/2023/156/regulation/13/1) (with [regs. 16-21](https://www.legislation.gov.uk/nisr/2023/156/regulation/16))
+[^c-8afeca0069f19e5bdde0f33f3babb302]: Modification: [Pt. XI](https://www.legislation.gov.uk/nisi/1996/1919/part/XI) modified (29.9.2023) by [The Parental Bereavement Leave (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/156)](https://www.legislation.gov.uk/nisr/2023/156), [regs. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1), [13(1)](https://www.legislation.gov.uk/nisr/2023/156/regulation/13/1) (with [regs. 16-21](https://www.legislation.gov.uk/nisr/2023/156/regulation/16))
 
 [^c20489971]: Textual amendment: Arts. 130ZA-130ZH and crossheadings preceding and following said arts. inserted (1.10.2006) by The Employment Equality (Age) Regulations (Northern Ireland) ([S.R. 2006/261](https://www.legislation.gov.uk/nisr/2006/261)), regs. 1(1), 53(1), {Sch. 7 para. 3(4)}
 
@@ -873,6 +873,6 @@ SCHEDULES
 
 [^c20307381]: Modification: [Pt. XIV](https://www.legislation.gov.uk/nisi/1996/1919/part/XIV) (arts. 227-235) applied (6.4.2006) by [Service Provision Change (Protection of Employment) Regulations (Northern Ireland) 2006 (S.R. 2006/177)](https://www.legislation.gov.uk/nisr/2006/177), [reg. 8(3)(4)](https://www.legislation.gov.uk/nisr/2006/177/regulation/8/3/4)
 
-[^key-7b64b2f713786cf86c11f3cbac9933b5]: Textual amendment: Art. 249B and cross-heading inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 41](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/41); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-7b64b2f713786cf86c11f3cbac9933b5]: Textual amendment: Art. 249B and cross-heading inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 41](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/41); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
 [^c17622051]: Textual amendment: prosp. in pt. inserted by [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21) for the purpose of rights conferred on employees by virtue of regulations under s. 25

@@ -32,7 +32,7 @@ summary: ''
 
 Infrastructure Planning
 
-The Infrastructure Planning (Interested Parties) Regulations 2010 (revoked)[^key-daf459271fc592b725aa9579334f0647]
+The Infrastructure Planning (Interested Parties) Regulations 2010 (revoked)[^c-daf459271fc592b725aa9579334f0647]
 
 Made
 
@@ -46,31 +46,31 @@ Coming into force
 
 1st March 2010
 
-[^key-daf459271fc592b725aa9579334f0647]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-daf459271fc592b725aa9579334f0647]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-daf459271fc592b725aa9579334f0647]
+## 1. Citation and commencement[^c-daf459271fc592b725aa9579334f0647]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-daf459271fc592b725aa9579334f0647]
+## 2. Interpretation[^c-daf459271fc592b725aa9579334f0647]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Statutory party[^key-daf459271fc592b725aa9579334f0647]
+## 3. Statutory party[^c-daf459271fc592b725aa9579334f0647]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Relevant representation[^key-daf459271fc592b725aa9579334f0647]
+## 4. Relevant representation[^c-daf459271fc592b725aa9579334f0647]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daf459271fc592b725aa9579334f0647]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-daf459271fc592b725aa9579334f0647]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-daf459271fc592b725aa9579334f0647]
+## SCHEDULE[^c-daf459271fc592b725aa9579334f0647]
 
 Regulation 3(a)
 
@@ -78,10 +78,10 @@ Regulation 3(a)
 
 **May not be in force at this date. Check the source.**
 
-[^key-daf459271fc592b725aa9579334f0647]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-daf459271fc592b725aa9579334f0647]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-daf459271fc592b725aa9579334f0647]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/102) revoked (6.4.2015) by [The Infrastructure Planning (Interested Parties and Miscellaneous Prescribed Provisions) Regulations 2015 (S.I. 2015/462)](https://www.legislation.gov.uk/uksi/2015/462), [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/462/schedule/3) (with [reg. 10(2)](https://www.legislation.gov.uk/uksi/2015/462/regulation/10/2))
+[^c-daf459271fc592b725aa9579334f0647]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/102) revoked (6.4.2015) by [The Infrastructure Planning (Interested Parties and Miscellaneous Prescribed Provisions) Regulations 2015 (S.I. 2015/462)](https://www.legislation.gov.uk/uksi/2015/462), [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/462/schedule/3) (with [reg. 10(2)](https://www.legislation.gov.uk/uksi/2015/462/regulation/10/2))
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

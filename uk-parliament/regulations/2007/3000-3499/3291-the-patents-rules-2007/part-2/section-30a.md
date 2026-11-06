@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30A. Fee for the grant of a patent under section 18(4)[^key-ff4b6c9505a54c577de3e945584c18d8]
+## 30A. Fee for the grant of a patent under section 18(4)[^c-ff4b6c9505a54c577de3e945584c18d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ the applicant must pay a fee for the grant of the patent under section 18(4).
 
 ## Annotations
 
-[^key-ff4b6c9505a54c577de3e945584c18d8]: Textual amendment: [Rule 30A](https://www.legislation.gov.uk/uksi/2007/3291/rule/30A) inserted (6.4.2018) by [The Patents and Patents (Fees) (Amendment) Rules 2017 (S.I. 2017/1100)](https://www.legislation.gov.uk/uksi/2017/1100), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1100/rule/1/1), [3](https://www.legislation.gov.uk/uksi/2017/1100/rule/3) (with [rule 11](https://www.legislation.gov.uk/uksi/2017/1100/rule/11))
+[^c-ff4b6c9505a54c577de3e945584c18d8]: Textual amendment: [Rule 30A](https://www.legislation.gov.uk/uksi/2007/3291/rule/30A) inserted (6.4.2018) by [The Patents and Patents (Fees) (Amendment) Rules 2017 (S.I. 2017/1100)](https://www.legislation.gov.uk/uksi/2017/1100), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1100/rule/1/1), [3](https://www.legislation.gov.uk/uksi/2017/1100/rule/3) (with [rule 11](https://www.legislation.gov.uk/uksi/2017/1100/rule/11))

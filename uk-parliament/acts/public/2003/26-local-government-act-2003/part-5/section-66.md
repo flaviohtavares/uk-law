@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Rating of meters[^key-42dce716c0a0fec198efa32296cd0c48][^key-c1dd168bed2501f3592bc25e28220c0a]
+## 66. Rating of meters[^c-42dce716c0a0fec198efa32296cd0c48][^c-c1dd168bed2501f3592bc25e28220c0a]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-42dce716c0a0fec198efa32296cd0c48]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2003/26/section/66) in force at 27.11.2003 for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/wsi/2003/3034), [art. 2](https://www.legislation.gov.uk/wsi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/wsi/2003/3034/schedule/1/part/I)
+[^c-42dce716c0a0fec198efa32296cd0c48]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2003/26/section/66) in force at 27.11.2003 for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/wsi/2003/3034), [art. 2](https://www.legislation.gov.uk/wsi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/wsi/2003/3034/schedule/1/part/I)
 
-[^key-c1dd168bed2501f3592bc25e28220c0a]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2003/26/section/66) in force at 1.4.2005 for E. by [S.I. 2004/3132](https://www.legislation.gov.uk/uksi/2004/3132), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2004/3132/article/3/2/b)
+[^c-c1dd168bed2501f3592bc25e28220c0a]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2003/26/section/66) in force at 1.4.2005 for E. by [S.I. 2004/3132](https://www.legislation.gov.uk/uksi/2004/3132), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2004/3132/article/3/2/b)

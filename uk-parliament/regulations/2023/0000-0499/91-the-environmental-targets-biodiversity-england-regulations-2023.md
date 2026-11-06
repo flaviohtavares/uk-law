@@ -50,7 +50,7 @@ In accordance with sections 4(8) and 143(5)(b) of the 2021 Act, a draft of these
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement, extent and application[^key-6f11937e9a2e3cc6961248b14b77faaf]
+### 1. Citation, commencement, extent and application[^c-6f11937e9a2e3cc6961248b14b77faaf]
 
 (1) These Regulations may be cited as the Environmental Targets (Biodiversity) (England) Regulations 2023.
 
@@ -58,7 +58,7 @@ In accordance with sections 4(8) and 143(5)(b) of the 2021 Act, a draft of these
 
 (3) These Regulations extend to England and Wales but apply in relation to England only, including the territorial sea adjacent to England.
 
-### 2. Interpretation[^key-38a4576291adea260b768104b5a24c06]
+### 2. Interpretation[^c-38a4576291adea260b768104b5a24c06]
 
 In these Regulations—
 
@@ -72,7 +72,7 @@ In these Regulations—
   - (a) for the purposes of Part 2 of these Regulations, in the 2022 Red List Index for England; or
   - (b) for the purposes of Part 4 of these Regulations, in Schedule 2.
 
-### 3. Biodiversity targets[^key-a72769c2b028c3dacdf280516c045ce0]
+### 3. Biodiversity targets[^c-a72769c2b028c3dacdf280516c045ce0]
 
 (1) Regulations 4, 7 and 14 specify targets for the purposes of the Secretary of State’s duty in section 1 of the 2021 Act to set a long-term target in respect of biodiversity.
 
@@ -80,11 +80,11 @@ In these Regulations—
 
 ## PART 2 — Long-term biodiversity target: species’ extinction risk
 
-### 4. Species’ extinction risk target[^key-04e74608873ad237c6c8134fb1b6506d]
+### 4. Species’ extinction risk target[^c-04e74608873ad237c6c8134fb1b6506d]
 
 The long-term biodiversity target for species’ extinction risk is to reduce the risk of species’ extinction by 2042, when compared to the risk of species’ extinction in 2022.
 
-### 5. Measurement of species’ extinction risk target[^key-86c2cb0b19c649c1079244e344f67979]
+### 5. Measurement of species’ extinction risk target[^c-86c2cb0b19c649c1079244e344f67979]
 
 (1) The target in regulation 4 is met by 31st December 2042 if the extinction risk value for 2042 calculated in accordance with paragraph (2) has a greater value than the baseline value, with the extinction risk value for 2042 and the baseline value being expressed as values in a range from 1 to 0 where—
 
@@ -103,17 +103,17 @@ The long-term biodiversity target for species’ extinction risk is to reduce th
 - (a) a species is considered to be of Least Concern when it is classified as such for the purposes of calculating the 2022 Red List Index for England;
 - (b) a species is Regionally Extinct when it is classified as such for the purposes of calculating the 2022 Red List Index for England.
 
-### 6. Reporting date for the species’ extinction risk target[^key-901b58fcddc846bd15e47d440ff46bef]
+### 6. Reporting date for the species’ extinction risk target[^c-901b58fcddc846bd15e47d440ff46bef]
 
 For the purposes of section 6(1) of the 2021 Act (environmental targets: reporting duties), the reporting date for the target in regulation 4 is 1st July 2043.
 
 ## PART 3 — Long-term biodiversity target: wildlife-rich habitat restoration or creation
 
-### 7. Wildlife-rich habitat restoration or creation target[^key-fa4fadda8af7ebe34c2380ef278acb2e]
+### 7. Wildlife-rich habitat restoration or creation target[^c-fa4fadda8af7ebe34c2380ef278acb2e]
 
 The long-term biodiversity target for the restoration or creation of wildlife-rich habitat is that on or after the day these Regulations come into force, in excess of 500,000 hectares of a range of wildlife-rich habitats are to be restored or created by 31st December 2042.
 
-### 8. Measurement of the habitat restoration or creation target[^key-1d7ba8ec1494e73c4bb7e86883704bd2]
+### 8. Measurement of the habitat restoration or creation target[^c-1d7ba8ec1494e73c4bb7e86883704bd2]
 
 (1) In order to measure the area of wildlife-rich habitat which is restored or created, the Secretary of State must obtain information about action that has been or is being undertaken in order to restore or create the wildlife-rich habitat on or after the day on which these Regulations come into force, including information about—
 
@@ -138,11 +138,11 @@ The long-term biodiversity target for the restoration or creation of wildlife-ri
 - (a) to develop one or more specific wildlife-rich habitat types; or
 - (b) to allow a dynamic mosaic of wildlife-rich habitats to develop through the restoration of natural processes and ecosystems.
 
-### 9. Reporting date for the wildlife-rich habitat restoration or creation target[^key-9c6f30c28c89f5f02ba46639b5cef769]
+### 9. Reporting date for the wildlife-rich habitat restoration or creation target[^c-9c6f30c28c89f5f02ba46639b5cef769]
 
 For the purposes of section 6(1) of the 2021 Act, the reporting date for the target in regulation 7 is 1st December 2043.
 
-### 10. Interpretation of Part 3[^key-fc77189336a9f0316098be58ea26678e]
+### 10. Interpretation of Part 3[^c-fc77189336a9f0316098be58ea26678e]
 
 In this Part—
 
@@ -169,13 +169,13 @@ In this Part—
 
 ### CHAPTER 1 — 2030 Species abundance target
 
-#### 11. 2030 species abundance target[^key-91fa05518ad718c2815ffaef9aead2e9]
+#### 11. 2030 species abundance target[^c-91fa05518ad718c2815ffaef9aead2e9]
 
 (1) The 2030 species abundance target is that the overall relative species abundance index on the specified date indicates that the decline in the abundance of species has been halted.
 
 (2) The specified date for the 2030 species abundance target described in paragraph (1) is 31st December 2030.
 
-#### 12. Measurement of 2030 species abundance target[^key-daa1633bd2fda4e07fb04790ac0716ee]
+#### 12. Measurement of 2030 species abundance target[^c-daa1633bd2fda4e07fb04790ac0716ee]
 
 (1) The 2030 species abundance target is to be measured by calculating the difference between the overall relative species abundance index for the years 2029 and 2030 in order to establish whether the overall relative species abundance index for the year 2030 is the same as, or higher than, the overall relative species abundance index for the year 2029.
 
@@ -203,20 +203,20 @@ In this Part—
 
 (6) For the purposes of paragraph (4), an index is only to be used if it is calculated using the same methodology each year.
 
-#### 13. Reporting date for the 2030 species abundance target[^key-63e45de28b4a6c39b29a88b5646f690d]
+#### 13. Reporting date for the 2030 species abundance target[^c-63e45de28b4a6c39b29a88b5646f690d]
 
 For the purposes of section 6(1) of the 2021 Act, the reporting date for the target in regulation 11 is 15th April 2032.
 
 ### CHAPTER 2 — Species abundance: long-term target
 
-#### 14. Long-term biodiversity target to reverse the decline of species abundance[^key-79fdf75ef9bf6db418980e20c04a04b7]
+#### 14. Long-term biodiversity target to reverse the decline of species abundance[^c-79fdf75ef9bf6db418980e20c04a04b7]
 
 The long-term biodiversity target to reverse the decline of species abundance is that the overall relative species abundance index by 31st December 2042 is—
 
 - (a) higher than the overall relative species abundance index for 31st December 2022; and
 - (b) at least 10% higher than the overall relative species abundance index for 31st December 2030 (the specified date for the 2030 species abundance target).
 
-#### 15. Measurement of the long-term biodiversity target to reverse the decline of species abundance[^key-d8406537a488c952b096765fe5c82b0c]
+#### 15. Measurement of the long-term biodiversity target to reverse the decline of species abundance[^c-d8406537a488c952b096765fe5c82b0c]
 
 (1) The long-term biodiversity target to reverse the decline of species abundance is to be measured by calculating the overall relative species abundance index for the following dates—
 
@@ -226,7 +226,7 @@ The long-term biodiversity target to reverse the decline of species abundance is
 
 (2) Regulation 12(2) to (6) applies in relation to the measurement of the long-term biodiversity target to reverse the decline of species abundance as it applies to the measurement of the 2030 species abundance target described in regulation 11.
 
-#### 16. Reporting date for the long-term biodiversity target to reverse the decline of species abundance[^key-8a5a429fae2c1b84693397b88744817f]
+#### 16. Reporting date for the long-term biodiversity target to reverse the decline of species abundance[^c-8a5a429fae2c1b84693397b88744817f]
 
 For the purposes of section 6(1) of the 2021 Act, the reporting date for the target in regulation 14 is 15th April 2044.
 
@@ -238,7 +238,7 @@ Department for Environment, Food and Rural Affairs
 
 29th January 2023
 
-## SCHEDULE 1 — Types of wildlife-rich habitat[^key-10e50e46e25e15c08a884557c3c2ae35]
+## SCHEDULE 1 — Types of wildlife-rich habitat[^c-10e50e46e25e15c08a884557c3c2ae35]
 
 Regulation 10
 
@@ -287,7 +287,7 @@ Regulation 10
 | Sublittoral sediment | Subtidal sand |
 | Sublittoral sediment | Subtidal seagrass beds |
 
-## SCHEDULE 2 — Species for the targets relating to the abundance of species[^key-c64ca5d230fa19f68f840007282c0512]
+## SCHEDULE 2 — Species for the targets relating to the abundance of species[^c-c64ca5d230fa19f68f840007282c0512]
 
 Regulation 12
 
@@ -1524,29 +1524,29 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2021 c. 30](https://www.legislation.gov.uk/ukpga/2021/30).
 
-[^key-6f11937e9a2e3cc6961248b14b77faaf]: Commencement: Reg. 1 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
+[^c-6f11937e9a2e3cc6961248b14b77faaf]: Commencement: Reg. 1 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
 
-[^key-38a4576291adea260b768104b5a24c06]: Commencement: Reg. 2 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
+[^c-38a4576291adea260b768104b5a24c06]: Commencement: Reg. 2 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
 
 [^f00002]: Footnote: The 2022 Red List Index for England may be found at http://publications.naturalengland.org.uk/publication/6315201438941184 . A printed copy of the 2022 Red List Index for England may be obtained from Natural England, County Hall, Spetchley Road, Worcester WR5 2NP.
 
-[^key-a72769c2b028c3dacdf280516c045ce0]: Commencement: Reg. 3 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
+[^c-a72769c2b028c3dacdf280516c045ce0]: Commencement: Reg. 3 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
 
-[^key-04e74608873ad237c6c8134fb1b6506d]: Commencement: Reg. 4 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
+[^c-04e74608873ad237c6c8134fb1b6506d]: Commencement: Reg. 4 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
 
-[^key-86c2cb0b19c649c1079244e344f67979]: Commencement: Reg. 5 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
+[^c-86c2cb0b19c649c1079244e344f67979]: Commencement: Reg. 5 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
 
 [^f00003]: Footnote: An explanation of how the 2022 Red List Index for England is calculated can be found in the document named “Outcome Indicator Framework for England’s 25 Year Environment Plan: D5 Conservation status of our native species – Technical background document for D5 Conservation status of our native species” published in October 2022, which can be found online at http://publications.naturalengland.org.uk/publication/6315201438941184 . A printed copy of this document may be obtained from Natural England, County Hall, Spetchley Road, Worcester WR5 2NP.
 
-[^key-901b58fcddc846bd15e47d440ff46bef]: Commencement: Reg. 6 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
+[^c-901b58fcddc846bd15e47d440ff46bef]: Commencement: Reg. 6 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
 
-[^key-fa4fadda8af7ebe34c2380ef278acb2e]: Commencement: Reg. 7 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
+[^c-fa4fadda8af7ebe34c2380ef278acb2e]: Commencement: Reg. 7 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
 
-[^key-1d7ba8ec1494e73c4bb7e86883704bd2]: Commencement: Reg. 8 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
+[^c-1d7ba8ec1494e73c4bb7e86883704bd2]: Commencement: Reg. 8 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
 
-[^key-9c6f30c28c89f5f02ba46639b5cef769]: Commencement: Reg. 9 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
+[^c-9c6f30c28c89f5f02ba46639b5cef769]: Commencement: Reg. 9 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
 
-[^key-fc77189336a9f0316098be58ea26678e]: Commencement: Reg. 10 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
+[^c-fc77189336a9f0316098be58ea26678e]: Commencement: Reg. 10 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012), as amended by [S.I. 2019/579](https://www.legislation.gov.uk/uksi/2019/579).
 
@@ -1556,22 +1556,22 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00007]: Footnote: [2006 c.16](https://www.legislation.gov.uk/ukpga/2006/16). Section 41 is amended by section 102(8) of the 2021 Act. The list published by the Secretary of State in accordance with section 41 can be found in the document entitled “List of habitats and species of principal importance in England” published on 8th September 2022 and updated on 29th November 2022. This document can be found online at https://www.gov.uk/government/publications/habitats-and-species-of-principal-importance-in-england . A printed copy of this document may be obtained from the Department for the Environment, Food and Rural Affairs, Seacole Building, 2 Marsham Street, London SW1P 4DF.
 
-[^key-91fa05518ad718c2815ffaef9aead2e9]: Commencement: Reg. 11 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
+[^c-91fa05518ad718c2815ffaef9aead2e9]: Commencement: Reg. 11 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
 
-[^key-daa1633bd2fda4e07fb04790ac0716ee]: Commencement: Reg. 12 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
+[^c-daa1633bd2fda4e07fb04790ac0716ee]: Commencement: Reg. 12 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
 
 [^f00008]: Footnote: If the value of the relative species abundance index is 50, this means that the abundance of that species has decreased by 50% compared to the first year of measurement. If the value of the relative species abundance index is 200, this means that the abundance of that species has doubled compared to the first year of measurement.
 
-[^key-63e45de28b4a6c39b29a88b5646f690d]: Commencement: Reg. 13 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
+[^c-63e45de28b4a6c39b29a88b5646f690d]: Commencement: Reg. 13 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
 
-[^key-79fdf75ef9bf6db418980e20c04a04b7]: Commencement: Reg. 14 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
+[^c-79fdf75ef9bf6db418980e20c04a04b7]: Commencement: Reg. 14 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
 
-[^key-d8406537a488c952b096765fe5c82b0c]: Commencement: Reg. 15 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
+[^c-d8406537a488c952b096765fe5c82b0c]: Commencement: Reg. 15 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
 
-[^key-8a5a429fae2c1b84693397b88744817f]: Commencement: Reg. 16 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
+[^c-8a5a429fae2c1b84693397b88744817f]: Commencement: Reg. 16 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
 
-[^key-10e50e46e25e15c08a884557c3c2ae35]: Commencement: Sch. 1 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
+[^c-10e50e46e25e15c08a884557c3c2ae35]: Commencement: Sch. 1 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
 
-[^key-c64ca5d230fa19f68f840007282c0512]: Commencement: Sch. 2 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
+[^c-c64ca5d230fa19f68f840007282c0512]: Commencement: Sch. 2 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/91/regulation/1/2)
 
 [^f00009]: Footnote: The common name or names given in the second column of this Schedule are included by way of guidance only.

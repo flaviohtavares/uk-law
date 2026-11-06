@@ -856,9 +856,9 @@ Section 168(1).
 
 (2) In paragraph 18 of that Schedule, for the words “5 or 11” there shall be substituted the words “ 5, 11 or 14B ”.
 
-(3)[^key-38ca1487402de84cf25c734abd6939d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-38ca1487402de84cf25c734abd6939d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**97.**[^key-bf4cbd258c19d3d33ac3951ffa2d492d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**97.**[^c-bf4cbd258c19d3d33ac3951ffa2d492d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part IV — Amendments of other enactments
 
@@ -870,22 +870,22 @@ Section 168(1).
 
 *Extent: E+W+S*
 
-**99.**[^c14152221] (1 (Extent: S) (affected by repeal, see note))[^key-f54923d23b424143202a44422068a0b7] The Fire Services Act 1947 is amended as follows. *(Extent: S)* *(affected by repeal, see note)*[^key-f54923d23b424143202a44422068a0b7]
+**99.**[^c14152221] (1 (Extent: S) (affected by repeal, see note))[^c-f54923d23b424143202a44422068a0b7] The Fire Services Act 1947 is amended as follows. *(Extent: S)* *(affected by repeal, see note)*[^c-f54923d23b424143202a44422068a0b7]
 
-(2 (Extent: S) (affected by repeal, see note))[^key-f54923d23b424143202a44422068a0b7] In section 3(2) (supplementary powers of fire authorities; provisions as to exercise of power to place fire alarms in public places), for the words from the beginning to “maintaining the road;” or, in Scotland, “of the roads authority;” substitute— *(Extent: S)* *(affected by repeal, see note)*[^key-f54923d23b424143202a44422068a0b7]
+(2 (Extent: S) (affected by repeal, see note))[^c-f54923d23b424143202a44422068a0b7] In section 3(2) (supplementary powers of fire authorities; provisions as to exercise of power to place fire alarms in public places), for the words from the beginning to “maintaining the road;” or, in Scotland, “of the roads authority;” substitute— *(Extent: S)* *(affected by repeal, see note)*[^c-f54923d23b424143202a44422068a0b7]
 
-> (2 (Extent: S) (affected by repeal, see note))[^key-f54923d23b424143202a44422068a0b7] Before exercising the powers conferred by subsection (1)(c) above in relation to a highway for which they are not the highway authority or, in Scotland, a public road for which they are not the roads authority, a fire authority shall obtain the consent of the highway or roads authority; *(Extent: S)* *(affected by repeal, see note)*[^key-f54923d23b424143202a44422068a0b7]
+> (2 (Extent: S) (affected by repeal, see note))[^c-f54923d23b424143202a44422068a0b7] Before exercising the powers conferred by subsection (1)(c) above in relation to a highway for which they are not the highway authority or, in Scotland, a public road for which they are not the roads authority, a fire authority shall obtain the consent of the highway or roads authority; *(Extent: S)* *(affected by repeal, see note)*[^c-f54923d23b424143202a44422068a0b7]
 
-. *(Extent: S)* *(affected by repeal, see note)*[^key-f54923d23b424143202a44422068a0b7]
+. *(Extent: S)* *(affected by repeal, see note)*[^c-f54923d23b424143202a44422068a0b7]
 
-(3 (Extent: S) (affected by repeal, see note))[^key-f54923d23b424143202a44422068a0b7] In section 38(1) (interpretation)— *(Extent: S)* *(affected by repeal, see note)*[^key-f54923d23b424143202a44422068a0b7]
+(3 (Extent: S) (affected by repeal, see note))[^c-f54923d23b424143202a44422068a0b7] In section 38(1) (interpretation)— *(Extent: S)* *(affected by repeal, see note)*[^c-f54923d23b424143202a44422068a0b7]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-f54923d23b424143202a44422068a0b7] at the appropriate place insert— *(Extent: S)* *(affected by repeal, see note)*[^key-f54923d23b424143202a44422068a0b7]
+- (a (Extent: S) (affected by repeal, see note))[^c-f54923d23b424143202a44422068a0b7] at the appropriate place insert— *(Extent: S)* *(affected by repeal, see note)*[^c-f54923d23b424143202a44422068a0b7]
 
-  > “ *(Extent: S)* *(affected by repeal, see note)*[^key-f54923d23b424143202a44422068a0b7]**highway authority *(Extent: S)* *(affected by repeal, see note)*[^key-f54923d23b424143202a44422068a0b7]**” has the same meaning as in the Highways Act 1980; *(Extent: S)* *(affected by repeal, see note)*[^key-f54923d23b424143202a44422068a0b7]
+  > “ *(Extent: S)* *(affected by repeal, see note)*[^c-f54923d23b424143202a44422068a0b7]**highway authority *(Extent: S)* *(affected by repeal, see note)*[^c-f54923d23b424143202a44422068a0b7]**” has the same meaning as in the Highways Act 1980; *(Extent: S)* *(affected by repeal, see note)*[^c-f54923d23b424143202a44422068a0b7]
 
-  ; and *(Extent: S)* *(affected by repeal, see note)*[^key-f54923d23b424143202a44422068a0b7]
-- (b (Extent: S) (affected by repeal, see note))[^key-f54923d23b424143202a44422068a0b7] in the definition of “road” for the words “Public Utilities Street Works Act 1950” substitute *(Extent: S)* *(affected by repeal, see note)*[^key-f54923d23b424143202a44422068a0b7] “Part IV of the New Roads and Street Works Act 1991” *(Extent: S)* *(affected by repeal, see note)*[^key-f54923d23b424143202a44422068a0b7]. *(Extent: S)* *(affected by repeal, see note)*[^key-f54923d23b424143202a44422068a0b7]
+  ; and *(Extent: S)* *(affected by repeal, see note)*[^c-f54923d23b424143202a44422068a0b7]
+- (b (Extent: S) (affected by repeal, see note))[^c-f54923d23b424143202a44422068a0b7] in the definition of “road” for the words “Public Utilities Street Works Act 1950” substitute *(Extent: S)* *(affected by repeal, see note)*[^c-f54923d23b424143202a44422068a0b7] “Part IV of the New Roads and Street Works Act 1991” *(Extent: S)* *(affected by repeal, see note)*[^c-f54923d23b424143202a44422068a0b7]. *(Extent: S)* *(affected by repeal, see note)*[^c-f54923d23b424143202a44422068a0b7]
 
 #### Land Powers (Defence) Act 1958 (c.30)
 
@@ -1478,15 +1478,15 @@ Section 168(1).
 
 [^c14152181]: Commencement: [Sch. 8 para. 96](https://www.legislation.gov.uk/ukpga/1991/22/schedule/8/paragraph/96) wholly in force; [Sch. 8 para. 96](https://www.legislation.gov.uk/ukpga/1991/22/schedule/8/paragraph/96) in force at 21.10.1991, see [s. 170(1)](https://www.legislation.gov.uk/ukpga/1991/22/section/170/1) and [S.I. 1991/2286](https://www.legislation.gov.uk/uksi/1991/2286), [art. 2(1)](https://www.legislation.gov.uk/uksi/1991/2286/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2286/schedule/1)
 
-[^key-38ca1487402de84cf25c734abd6939d6]: Textual amendment: [Sch. 8 para. 96(3)](https://www.legislation.gov.uk/ukpga/1991/22/schedule/8/paragraph/96/3) repealed (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [s. 30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4), [sch. 3](https://www.legislation.gov.uk/asp/2007/8/schedule/3); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-38ca1487402de84cf25c734abd6939d6]: Textual amendment: [Sch. 8 para. 96(3)](https://www.legislation.gov.uk/ukpga/1991/22/schedule/8/paragraph/96/3) repealed (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [s. 30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4), [sch. 3](https://www.legislation.gov.uk/asp/2007/8/schedule/3); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-bf4cbd258c19d3d33ac3951ffa2d492d]: Textual amendment: [Sch. 8 para. 97](https://www.legislation.gov.uk/ukpga/1991/22/schedule/8/paragraph/97) repealed (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [s. 30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4), [sch. 3](https://www.legislation.gov.uk/asp/2007/8/schedule/3); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-bf4cbd258c19d3d33ac3951ffa2d492d]: Textual amendment: [Sch. 8 para. 97](https://www.legislation.gov.uk/ukpga/1991/22/schedule/8/paragraph/97) repealed (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [s. 30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4), [sch. 3](https://www.legislation.gov.uk/asp/2007/8/schedule/3); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
 [^c14180171]: Textual amendment: [Sch. 8 para. 98](https://www.legislation.gov.uk/ukpga/1991/22/schedule/8/paragraph/98) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt. XV](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/XV) Group 3
 
 [^c14152221]: Commencement: [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/1991/22/schedule/8/paragraph/99) wholly in force: Sch. 8 para. 99(1)(2) in force (S.) at 01.11.1991 see [s. 170(1)](https://www.legislation.gov.uk/ukpga/1991/22/section/170/1) and [S.I. 1991/2286](https://www.legislation.gov.uk/uksi/1991/2286), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/2286/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1991/2286/schedule/2); [Sch. 8 para. 99(1)(2)](https://www.legislation.gov.uk/ukpga/1991/22/schedule/8/paragraph/99/1/2) in force (E.W.) and Sch. 8 para. 99(3)(a) wholly in force at 01.11.1991 by [S.I. 1991/2288](https://www.legislation.gov.uk/uksi/1991/2288), [art. 3](https://www.legislation.gov.uk/uksi/1991/2288/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1991/2288/schedule); [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/1991/22/schedule/8/paragraph/99) wholly in force at 1.1.1993 (E.W.) by [S.I. 1992/2984](https://www.legislation.gov.uk/uksi/1992/2984), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/2984/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/2984/schedule/2) and (S.) by [S.I. 1992/2990](https://www.legislation.gov.uk/uksi/1992/2990), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/2990/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/2990/schedule/2)
 
-[^key-f54923d23b424143202a44422068a0b7]: Textual amendment: [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/1991/22/schedule/8/paragraph/99) repealed (S.) (2.8.2005) by [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5), [s. 90](https://www.legislation.gov.uk/asp/2005/5/section/90), [sch. 4](https://www.legislation.gov.uk/asp/2005/5/schedule/4) (with [s. 77](https://www.legislation.gov.uk/asp/2005/5/section/77)); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2(k)](https://www.legislation.gov.uk/ssi/2005/392/article/2/k)
+[^c-f54923d23b424143202a44422068a0b7]: Textual amendment: [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/1991/22/schedule/8/paragraph/99) repealed (S.) (2.8.2005) by [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5), [s. 90](https://www.legislation.gov.uk/asp/2005/5/section/90), [sch. 4](https://www.legislation.gov.uk/asp/2005/5/schedule/4) (with [s. 77](https://www.legislation.gov.uk/asp/2005/5/section/77)); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2(k)](https://www.legislation.gov.uk/ssi/2005/392/article/2/k)
 
 [^c14152231]: Commencement: [Sch. 8 para. 100](https://www.legislation.gov.uk/ukpga/1991/22/schedule/8/paragraph/100) partly in force: Sch. 8 para. 100 in force at 1.1.1993 by s. 170(1) and (E.W.) by [S.I. 1992/2984](https://www.legislation.gov.uk/uksi/1992/2984), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/2984/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/2984/schedule/2); (S.) by [S.I. 1992/2990](https://www.legislation.gov.uk/uksi/1992/2990), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/2990/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/2990/schedule/2)
 

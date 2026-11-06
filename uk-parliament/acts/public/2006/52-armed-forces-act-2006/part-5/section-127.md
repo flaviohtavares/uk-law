@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Directions by DSP barring further proceedings[^key-1c8025353affab4c84369fb6acdcfeb4][^key-16d751799816a0676bc5a8ced4fbfdcd]
+## 127. Directions by DSP barring further proceedings[^c-1c8025353affab4c84369fb6acdcfeb4][^c-16d751799816a0676bc5a8ced4fbfdcd]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1c8025353affab4c84369fb6acdcfeb4]: Commencement: S. 127 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-1c8025353affab4c84369fb6acdcfeb4]: Commencement: S. 127 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-16d751799816a0676bc5a8ced4fbfdcd]: Commencement: S. 127 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-16d751799816a0676bc5a8ced4fbfdcd]: Commencement: S. 127 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

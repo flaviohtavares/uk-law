@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Consideration of matters by Negotiating Body[^key-0bcbf5d5e2b012881213f2e0c8015303][^key-fabc7ce894f45cb93bb96da30381fb1c]
+## 43. Consideration of matters by Negotiating Body[^c-0bcbf5d5e2b012881213f2e0c8015303][^c-fabc7ce894f45cb93bb96da30381fb1c]
 
 *Extent: E+W+S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0bcbf5d5e2b012881213f2e0c8015303]: Commencement: S. 43 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-0bcbf5d5e2b012881213f2e0c8015303]: Commencement: S. 43 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-fabc7ce894f45cb93bb96da30381fb1c]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2025/36/section/43) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(13)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/13)
+[^c-fabc7ce894f45cb93bb96da30381fb1c]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2025/36/section/43) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(13)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/13)

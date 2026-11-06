@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Time limit for exercise of powers to possess land temporarily or to acquire land compulsorily[^key-2e67d2aa96ed51bf810e2fe244960791]
+## 22. Time limit for exercise of powers to possess land temporarily or to acquire land compulsorily[^c-2e67d2aa96ed51bf810e2fe244960791]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e67d2aa96ed51bf810e2fe244960791]: Commencement: Art. 22 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)
+[^c-2e67d2aa96ed51bf810e2fe244960791]: Commencement: Art. 22 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)

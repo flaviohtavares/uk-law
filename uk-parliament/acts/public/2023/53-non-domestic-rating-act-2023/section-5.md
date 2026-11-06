@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 5. Frequency with which lists are compiled[^key-4c4f12f1fd99a18b1e935a3241a94d86]
+## 5. Frequency with which lists are compiled[^c-4c4f12f1fd99a18b1e935a3241a94d86]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c4f12f1fd99a18b1e935a3241a94d86]: Commencement: S. 5 in force at Royal Assent, see [s. 19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)
+[^c-4c4f12f1fd99a18b1e935a3241a94d86]: Commencement: S. 5 in force at Royal Assent, see [s. 19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)

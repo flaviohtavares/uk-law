@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection
 
-The Pollution Prevention and Control (Scotland) Amendment Regulations 2011 (revoked)[^key-ed3f7c82728ca6993c8bd31dcbed8e85]
+The Pollution Prevention and Control (Scotland) Amendment Regulations 2011 (revoked)[^c-ed3f7c82728ca6993c8bd31dcbed8e85]
 
 Made
 
@@ -46,92 +46,92 @@ Coming into force
 
 4th October 2011
 
-[^key-ed3f7c82728ca6993c8bd31dcbed8e85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ed3f7c82728ca6993c8bd31dcbed8e85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ed3f7c82728ca6993c8bd31dcbed8e85]
+## 1. Citation and commencement[^c-ed3f7c82728ca6993c8bd31dcbed8e85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Pollution Prevention and Control (Scotland) Regulations 2000[^key-ed3f7c82728ca6993c8bd31dcbed8e85]
+## 2. Amendment of the Pollution Prevention and Control (Scotland) Regulations 2000[^c-ed3f7c82728ca6993c8bd31dcbed8e85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-ed3f7c82728ca6993c8bd31dcbed8e85]
+## 3.[^c-ed3f7c82728ca6993c8bd31dcbed8e85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-ed3f7c82728ca6993c8bd31dcbed8e85]
+## 4.[^c-ed3f7c82728ca6993c8bd31dcbed8e85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-ed3f7c82728ca6993c8bd31dcbed8e85]
+## 5.[^c-ed3f7c82728ca6993c8bd31dcbed8e85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-ed3f7c82728ca6993c8bd31dcbed8e85]
+## 6.[^c-ed3f7c82728ca6993c8bd31dcbed8e85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-ed3f7c82728ca6993c8bd31dcbed8e85]
+## 7.[^c-ed3f7c82728ca6993c8bd31dcbed8e85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-ed3f7c82728ca6993c8bd31dcbed8e85]
+## 8.[^c-ed3f7c82728ca6993c8bd31dcbed8e85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-ed3f7c82728ca6993c8bd31dcbed8e85]
+## 9.[^c-ed3f7c82728ca6993c8bd31dcbed8e85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-ed3f7c82728ca6993c8bd31dcbed8e85]
+## 10.[^c-ed3f7c82728ca6993c8bd31dcbed8e85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-ed3f7c82728ca6993c8bd31dcbed8e85]
+## 11.[^c-ed3f7c82728ca6993c8bd31dcbed8e85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-ed3f7c82728ca6993c8bd31dcbed8e85]
+## 12.[^c-ed3f7c82728ca6993c8bd31dcbed8e85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13.[^key-ed3f7c82728ca6993c8bd31dcbed8e85]
+## 13.[^c-ed3f7c82728ca6993c8bd31dcbed8e85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14.[^key-ed3f7c82728ca6993c8bd31dcbed8e85]
+## 14.[^c-ed3f7c82728ca6993c8bd31dcbed8e85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15.[^key-ed3f7c82728ca6993c8bd31dcbed8e85]
+## 15.[^c-ed3f7c82728ca6993c8bd31dcbed8e85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16.[^key-ed3f7c82728ca6993c8bd31dcbed8e85]
+## 16.[^c-ed3f7c82728ca6993c8bd31dcbed8e85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17.[^key-ed3f7c82728ca6993c8bd31dcbed8e85]
+## 17.[^c-ed3f7c82728ca6993c8bd31dcbed8e85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18.[^key-ed3f7c82728ca6993c8bd31dcbed8e85]
+## 18.[^c-ed3f7c82728ca6993c8bd31dcbed8e85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19.[^key-ed3f7c82728ca6993c8bd31dcbed8e85]
+## 19.[^c-ed3f7c82728ca6993c8bd31dcbed8e85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ed3f7c82728ca6993c8bd31dcbed8e85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ed3f7c82728ca6993c8bd31dcbed8e85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ed3f7c82728ca6993c8bd31dcbed8e85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ed3f7c82728ca6993c8bd31dcbed8e85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ed3f7c82728ca6993c8bd31dcbed8e85]: Textual amendment: Regulations revoked (7.1.2013) by [The Pollution Prevention and Control (Scotland) Regulations 2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1/2), [sch. 12](https://www.legislation.gov.uk/ssi/2012/360/schedule/12) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))
+[^c-ed3f7c82728ca6993c8bd31dcbed8e85]: Textual amendment: Regulations revoked (7.1.2013) by [The Pollution Prevention and Control (Scotland) Regulations 2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1/2), [sch. 12](https://www.legislation.gov.uk/ssi/2012/360/schedule/12) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))

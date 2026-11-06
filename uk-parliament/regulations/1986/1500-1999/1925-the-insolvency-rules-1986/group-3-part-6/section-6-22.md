@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.22. Amendment of petition[^key-18d8248dcedfefd0eab55578e6362402]
+## 6.22. Amendment of petition[^c-18d8248dcedfefd0eab55578e6362402]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ With the leave of the court (given on such terms, if any, as the court thinks fi
 
 ## Annotations
 
-[^key-18d8248dcedfefd0eab55578e6362402]: Commencement: [Rule 6.22](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.22) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-18d8248dcedfefd0eab55578e6362402]: Commencement: [Rule 6.22](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.22) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -48,13 +48,13 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with section 101(6) of the Energy Act 2013, the Secretary of State has consulted the Office for Nuclear Regulation and such other persons as the Secretary of State considers it appropriate to consult.
 
-## 1. Citation and commencement[^key-a462c4b574eba5286ce9a443e79eace4]
+## 1. Citation and commencement[^c-a462c4b574eba5286ce9a443e79eace4]
 
 (1) These Regulations may be cited as the Nuclear Safeguards (Fees) Regulations 2021.
 
 (2) These Regulations come into force on 1st April 2022.
 
-## 2. Interpretation[^key-440cd42a4edb664b925d35d816d239d1]
+## 2. Interpretation[^c-440cd42a4edb664b925d35d816d239d1]
 
 In these Regulations—
 
@@ -68,7 +68,7 @@ In these Regulations—
 - “**qualifying nuclear facility with limited operation**” has the meaning set out in regulation 2 of the Nuclear Safeguards Regulations; and
 - “**qualifying nuclear material**” has the meaning set out in section 76A(6) of the 2013 Act and includes the “fissionable material” specified in regulation 2(2) of the Nuclear Safeguards (Fissionable Material and Relevant International Agreements) (EU Exit) Regulations 2019[^f00005].
 
-## 3. Fees payable by the operator to the ONR in connection with functions carried out under the 2000 Act, the Nuclear Safeguards Regulations and the 2013 Act[^key-4508f1112248959dc2f7de101d6bf6f1]
+## 3. Fees payable by the operator to the ONR in connection with functions carried out under the 2000 Act, the Nuclear Safeguards Regulations and the 2013 Act[^c-4508f1112248959dc2f7de101d6bf6f1]
 
 (1) The operator must pay a fee to the ONR where the ONR carries out a function described in column 2 of Schedule 1, under or in connection with the provision of the 2000 Act set out in column 1 of that Schedule.
 
@@ -83,9 +83,9 @@ In these Regulations—
 
 (5) No fee is payable for the carrying out of functions under paragraphs (1) to (4) where the functions relate to a qualifying nuclear facility with limited operation.
 
-## 4. Regulation 3 supplementary provisions[^key-4bde93d6a784766844c6bf396a2111d5]
+## 4. Regulation 3 supplementary provisions[^c-4bde93d6a784766844c6bf396a2111d5]
 
-(1) The fees referred to in regulation 3 must be determined by the ONR so as to recover[^key-5a5b5c52f85b49583a84c256d065ba7e] the costs reasonably incurred by the ONR in performing the functions for which the fees are payable.
+(1) The fees referred to in regulation 3 must be determined by the ONR so as to recover[^c-5a5b5c52f85b49583a84c256d065ba7e] the costs reasonably incurred by the ONR in performing the functions for which the fees are payable.
 
 (2) The ONR must send an invoice to the person who must pay the fee, and such invoice must state the functions performed and the costs incurred during the period to which the statement relates.
 
@@ -100,7 +100,7 @@ In these Regulations—
   - (i) the inspector undertaking the investigation submits a report to the Procurator Fiscal for his decision as to whether a prosecution should be brought; or
   - (ii) the Procurator Fiscal intervenes in the investigation, whichever is sooner.
 
-## 5. Review[^key-6350000f0444827362974c50afb746d0]
+## 5. Review[^c-6350000f0444827362974c50afb746d0]
 
 (1) The Secretary of State must from time to time—
 
@@ -128,7 +128,7 @@ Department for Business, Energy and Industrial Strategy
 
 9th December 2021
 
-## SCHEDULE 1[^key-c8be0912335e878a03e6ca490f006a3c]
+## SCHEDULE 1[^c-c8be0912335e878a03e6ca490f006a3c]
 
 Regulation 3(1)
 
@@ -138,7 +138,7 @@ Fees payable by the operator to the ONR in respect of functions carried out by t
 | --- | --- |
 | Section 5(4) | An authorised officer accompanying an Agency inspector while he is exercising a power under section 5 of the 2000 Act. |
 
-## SCHEDULE 2[^key-e1a40e48dbb51979ceaf6b62bcd71975]
+## SCHEDULE 2[^c-e1a40e48dbb51979ceaf6b62bcd71975]
 
 Regulation 3(2)
 
@@ -146,9 +146,9 @@ Fees payable by the operator to the ONR in respect of functions carried out by t
 
 | **Column 1**<br>**Provision of the Nuclear Safeguards Regulations** | **Column 2**<br>**Function of the ONR** |
 | --- | --- |
-| Regulation 3(2), (2A),[^key-e06b2dc8a502edb57ffe32957de395e4] (3) and (5): Declaration of design information[^key-e221ffedf4f57c1b87ce58d86686c9b8] | Receipt and consideration of the design information of a qualifying nuclear facility together with any changes in design information, or request for, receipt and consideration of any further details, explanations, amplifications or clarifications of information forming part of the design information under regulation 3(5). |
+| Regulation 3(2), (2A),[^c-e06b2dc8a502edb57ffe32957de395e4] (3) and (5): Declaration of design information[^c-e221ffedf4f57c1b87ce58d86686c9b8] | Receipt and consideration of the design information of a qualifying nuclear facility together with any changes in design information, or request for, receipt and consideration of any further details, explanations, amplifications or clarifications of information forming part of the design information under regulation 3(5). |
 | Regulation 4(1) to (4): Programme of activities | Receipt and consideration of an annual outline programme of activities, including for the taking of a physical inventory together with any change which affects or may affect the outline programme of activities or the taking of a physical inventory. |
-| Regulation 5(1), (2), (5) and (7)[^key-bdfc40e62f2515c52cab972cf72d885e]: Particular safeguard provisions | Consideration and imposition of particular safeguard provisions on an operator in respect of a qualifying nuclear facility and any amendment or withdrawal of such provisions[^key-c6128b7093816c974539ead51c98d9ec].<br>Provision of written notice of the particular safeguard provisions, or any subsequent amendment or withdrawal, to the operator under regulation 5(2) or (7)[^key-28eaf4cef4e90928e7a6be3de25a68d2]. |
+| Regulation 5(1), (2), (5) and (7)[^c-bdfc40e62f2515c52cab972cf72d885e]: Particular safeguard provisions | Consideration and imposition of particular safeguard provisions on an operator in respect of a qualifying nuclear facility and any amendment or withdrawal of such provisions[^c-c6128b7093816c974539ead51c98d9ec].<br>Provision of written notice of the particular safeguard provisions, or any subsequent amendment or withdrawal, to the operator under regulation 5(2) or (7)[^c-28eaf4cef4e90928e7a6be3de25a68d2]. |
 | Regulation 6(5): Accountancy and control | Request and consideration of the operating records referred to in regulation 10 and of the accounting records referred to in regulation 11. |
 | Regulation 7(3) and (5): Accountancy and control plan | Receipt, consideration and approval of the whole or part of an accountancy and control plan. |
 | Regulation 8(1) to (4): Replacement, amendment and revocation of accountancy and control plan | Receipt, consideration and approval of an amendment to an accountancy and control plan. |
@@ -159,18 +159,18 @@ Fees payable by the operator to the ONR in respect of functions carried out by t
 | Regulation 14(1) to (4): Inventory change report | Receipt and consideration of an inventory change report in respect of all qualifying nuclear material for each material balance area. |
 | Regulation 15(1): Material balance report and physical inventory listing | Receipt and consideration of a material balance report and physical inventory listing. |
 | Regulation 16(1) and (2): Special report | Request, receipt and consideration of a special report in the case of an unusual occurrence, as described in regulation 17(1) or loss or delay during transport as described in regulation 23.<br>Request and consideration of further details or explanations in connection with a special report. |
-| Regulation 17(2) and (3): Unusual occurrences | Receipt and consideration of a special report concerning a loss[^key-53856794baf93e831fc9ea81d11e16ed] of qualifying nuclear material or a sudden change in containment conditions or anything that leads to an unusual occurrence.<br>Receipt and consideration of a statement of the causes of an unusual occurrence. |
+| Regulation 17(2) and (3): Unusual occurrences | Receipt and consideration of a special report concerning a loss[^c-53856794baf93e831fc9ea81d11e16ed] of qualifying nuclear material or a sudden change in containment conditions or anything that leads to an unusual occurrence.<br>Receipt and consideration of a statement of the causes of an unusual occurrence. |
 | Regulation 18(2): Reporting of nuclear transformations | Consideration of whether the particular safeguard provisions, imposed under regulation 5, should specify alternative procedures for recording and reporting nuclear transformations and consideration of what alternative procedures should be specified. |
 | Regulation 21(1) and (3): Exports | Receipt and consideration of a notification of the export of any qualifying nuclear material outside the United Kingdom where the consignment exceeds one effective kilogram or where a qualifying nuclear facility transfers a total quantity of materials to the same State that could exceed one effective kilogram in any consecutive period of twelve months, even though no single consignment exceeds one effective kilogram.<br>Consideration and agreement of special arrangements concerning the form and transmission of notifications under regulation 21(3), required for reasons of physical protection. |
 | Regulation 22(1) and (3): Imports | Receipt and consideration of a notification of the import of any qualifying nuclear material into the United Kingdom where the consignment exceeds one effective kilogram or where a qualifying nuclear facility transfers a total quantity of materials from the same State that could exceed one effective kilogram in any consecutive period of twelve months, even though no single consignment exceeds one effective kilogram.<br>Consideration and agreement of special arrangements concerning the form and transmission of the notification under regulation 22(3), required for reasons of physical protection. |
 | Regulation 24: Communication of change of date | Receipt and consideration of a notification of any change of dates for packing before transfer, transport or unpacking of qualifying nuclear material which have been given in a notification of export or import of qualifying nuclear material under regulations 21 or 22. |
-| [^key-2f8686d97a894354f914bd20235e5022]. . . | [^key-2f8686d97a894354f914bd20235e5022]. . . |
-| Regulation 29(2) and (4)[^key-f289dc90669eec89cc6cea7e482a937f]: Stock list and accounting records for conditioned and retained waste | Request, receipt and consideration of stock lists of conditioned and retained waste.[^key-225f4e1f7f50f5e3412126fbf7e12c35] Specification of requirements for reporting the processing of retained waste if specified in the particular safeguard provisions imposed by the ONR under regulation 5. |
+| [^c-2f8686d97a894354f914bd20235e5022]. . . | [^c-2f8686d97a894354f914bd20235e5022]. . . |
+| Regulation 29(2) and (4)[^c-f289dc90669eec89cc6cea7e482a937f]: Stock list and accounting records for conditioned and retained waste | Request, receipt and consideration of stock lists of conditioned and retained waste.[^c-225f4e1f7f50f5e3412126fbf7e12c35] Specification of requirements for reporting the processing of retained waste if specified in the particular safeguard provisions imposed by the ONR under regulation 5. |
 | Regulation 30(1): Transfers of conditioned waste | Receipt and consideration of reports/information on shipments or exports of conditioned waste to a qualifying nuclear facility or outside the United Kingdom or of receipts or imports of conditioned waste from a qualifying nuclear facility or installation without a material balance area code or which is located outside the United Kingdom. |
 | Regulation 35(c): Communication with the ONR | Agreement with an operator of the method of communication with the ONR. |
 | Regulation 36(1) and (2): Safeguards Equipment | Consultation with an operator on what safeguards equipment is appropriate for a qualifying nuclear facility and notification of additional safeguards required. |
 | Regulation 38: Interference with safeguards equipment | Provision of permission to a person to take action in connection with the operation of any safeguards equipment in a qualifying nuclear facility which results in the safeguards equipment providing information on qualifying nuclear material that is significantly different from the information which the equipment would have provided had the action not occurred. |
-| Regulation 39(1), (2), (3) and (4): Inspections by the ONR | For the purpose of ensuring compliance with the requirements of the Nuclear Safeguards Regulations—<br>- (a) examination of the records kept by an operator in accordance with the requirements of the Nuclear Safeguards Regulations;<br>- (b) the making of independent measurements of any qualifying nuclear material;<br>- (c) the application and making use of surveillance and containment measures together with any other objective methods of monitoring which the ONR considers to be reasonable;<br>- (d) the observation that samples of qualifying nuclear material at key measurement points for accounting purposes are taken in accordance with procedures which produce representative samples;<br>- (e) the observation of the treatment and analysis of the samples and the obtaining of duplicates of such samples;<br>- (f) the verification of the functioning and calibration of an operator’s instruments used to measure or control qualifying nuclear material, including observation of calibration activities and assessing whether the measurements of qualifying nuclear material at key measurement points are representative;<br>- (g) making such observations or measurements necessary to verify the accuracy of design information[^key-5af151152276be9c90f16e1a4571780b] and any changes to them declared under regulation 3 or 31. Writing to an operator to require the operator to—<br>  - (a) take additional measurements or samples of the qualifying nuclear material for the ONR’s use;<br>  - (b) analyse the ONR’s standard analytical samples;<br>  - (c) use appropriate absolute standards in the operator’s equipment and calibrating instruments;<br>  - (d) carry out additional calibrations to the relevant equipment or instruments.<br>Application of the ONR seals and other identifying and tamper-indicating devices to containments of qualifying nuclear material.<br>Writing to an operator to require the operator to send, within a reasonable timescale specified by the ONR, any samples of qualifying nuclear material which have been taken for the ONR’s use to a location specified by the ONR. |
+| Regulation 39(1), (2), (3) and (4): Inspections by the ONR | For the purpose of ensuring compliance with the requirements of the Nuclear Safeguards Regulations—<br>- (a) examination of the records kept by an operator in accordance with the requirements of the Nuclear Safeguards Regulations;<br>- (b) the making of independent measurements of any qualifying nuclear material;<br>- (c) the application and making use of surveillance and containment measures together with any other objective methods of monitoring which the ONR considers to be reasonable;<br>- (d) the observation that samples of qualifying nuclear material at key measurement points for accounting purposes are taken in accordance with procedures which produce representative samples;<br>- (e) the observation of the treatment and analysis of the samples and the obtaining of duplicates of such samples;<br>- (f) the verification of the functioning and calibration of an operator’s instruments used to measure or control qualifying nuclear material, including observation of calibration activities and assessing whether the measurements of qualifying nuclear material at key measurement points are representative;<br>- (g) making such observations or measurements necessary to verify the accuracy of design information[^c-5af151152276be9c90f16e1a4571780b] and any changes to them declared under regulation 3 or 31. Writing to an operator to require the operator to—<br>  - (a) take additional measurements or samples of the qualifying nuclear material for the ONR’s use;<br>  - (b) analyse the ONR’s standard analytical samples;<br>  - (c) use appropriate absolute standards in the operator’s equipment and calibrating instruments;<br>  - (d) carry out additional calibrations to the relevant equipment or instruments.<br>Application of the ONR seals and other identifying and tamper-indicating devices to containments of qualifying nuclear material.<br>Writing to an operator to require the operator to send, within a reasonable timescale specified by the ONR, any samples of qualifying nuclear material which have been taken for the ONR’s use to a location specified by the ONR. |
 | Regulation 42(1): Provision of information to the Agency | Providing to the Agency information supplied by an operator to the ONR under the Regulations, and which the United Kingdom is required to supply to the Agency. |
 
 EXPLANATORY NOTE
@@ -201,9 +201,9 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2013 c. 32](https://www.legislation.gov.uk/ukpga/2013/32). Part 3 of the Act, which relates to Nuclear Regulation, was amended by the Nuclear Safeguards Act [2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15). Part 3 contains other amendments which are not relevant to these Regulations.
 
-[^key-a462c4b574eba5286ce9a443e79eace4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2021/1406/regulation/1) in force at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1406/regulation/1/2)
+[^c-a462c4b574eba5286ce9a443e79eace4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2021/1406/regulation/1) in force at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1406/regulation/1/2)
 
-[^key-440cd42a4edb664b925d35d816d239d1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/1406/regulation/2) in force at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1406/regulation/1/2)
+[^c-440cd42a4edb664b925d35d816d239d1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/1406/regulation/2) in force at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1406/regulation/1/2)
 
 [^f00002]: Footnote: [2000 c. 5](https://www.legislation.gov.uk/ukpga/2000/5).
 
@@ -213,36 +213,36 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00005]: Footnote: [S.I. 2019/195](https://www.legislation.gov.uk/uksi/2019/195).
 
-[^key-4508f1112248959dc2f7de101d6bf6f1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2021/1406/regulation/3) in force at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1406/regulation/1/2)
+[^c-4508f1112248959dc2f7de101d6bf6f1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2021/1406/regulation/3) in force at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1406/regulation/1/2)
 
-[^key-4bde93d6a784766844c6bf396a2111d5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2021/1406/regulation/4) in force at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1406/regulation/1/2)
+[^c-4bde93d6a784766844c6bf396a2111d5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2021/1406/regulation/4) in force at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1406/regulation/1/2)
 
-[^key-5a5b5c52f85b49583a84c256d065ba7e]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2021/1406/regulation/4/1) substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2026/835/regulation/35)
+[^c-5a5b5c52f85b49583a84c256d065ba7e]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2021/1406/regulation/4/1) substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2026/835/regulation/35)
 
-[^key-6350000f0444827362974c50afb746d0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2021/1406/regulation/5) in force at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1406/regulation/1/2)
+[^c-6350000f0444827362974c50afb746d0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2021/1406/regulation/5) in force at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1406/regulation/1/2)
 
 [^f00006]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-c8be0912335e878a03e6ca490f006a3c]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2021/1406/schedule/1) in force at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1406/regulation/1/2)
+[^c-c8be0912335e878a03e6ca490f006a3c]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2021/1406/schedule/1) in force at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1406/regulation/1/2)
 
-[^key-e1a40e48dbb51979ceaf6b62bcd71975]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1406/schedule/2) in force at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1406/regulation/1/2)
+[^c-e1a40e48dbb51979ceaf6b62bcd71975]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1406/schedule/2) in force at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1406/regulation/1/2)
 
-[^key-e06b2dc8a502edb57ffe32957de395e4]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1406/schedule/2) inserted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [36(a)(i)](https://www.legislation.gov.uk/uksi/2026/835/regulation/36/a/i)
+[^c-e06b2dc8a502edb57ffe32957de395e4]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1406/schedule/2) inserted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [36(a)(i)](https://www.legislation.gov.uk/uksi/2026/835/regulation/36/a/i)
 
-[^key-e221ffedf4f57c1b87ce58d86686c9b8]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1406/schedule/2) substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [36(a)(ii)](https://www.legislation.gov.uk/uksi/2026/835/regulation/36/a/ii)
+[^c-e221ffedf4f57c1b87ce58d86686c9b8]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1406/schedule/2) substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [36(a)(ii)](https://www.legislation.gov.uk/uksi/2026/835/regulation/36/a/ii)
 
-[^key-bdfc40e62f2515c52cab972cf72d885e]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1406/schedule/2) substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [36(b)(i)](https://www.legislation.gov.uk/uksi/2026/835/regulation/36/b/i)
+[^c-bdfc40e62f2515c52cab972cf72d885e]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1406/schedule/2) substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [36(b)(i)](https://www.legislation.gov.uk/uksi/2026/835/regulation/36/b/i)
 
-[^key-c6128b7093816c974539ead51c98d9ec]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1406/schedule/2) inserted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [36(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2026/835/regulation/36/b/ii/aa)
+[^c-c6128b7093816c974539ead51c98d9ec]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1406/schedule/2) inserted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [36(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2026/835/regulation/36/b/ii/aa)
 
-[^key-28eaf4cef4e90928e7a6be3de25a68d2]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1406/schedule/2) substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [36(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2026/835/regulation/36/b/ii/bb)
+[^c-28eaf4cef4e90928e7a6be3de25a68d2]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1406/schedule/2) substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [36(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2026/835/regulation/36/b/ii/bb)
 
-[^key-53856794baf93e831fc9ea81d11e16ed]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1406/schedule/2) substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [36(c)](https://www.legislation.gov.uk/uksi/2026/835/regulation/36/c)
+[^c-53856794baf93e831fc9ea81d11e16ed]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1406/schedule/2) substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [36(c)](https://www.legislation.gov.uk/uksi/2026/835/regulation/36/c)
 
-[^key-2f8686d97a894354f914bd20235e5022]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1406/schedule/2) omitted (10.7.2026) by virtue of [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [36(d)](https://www.legislation.gov.uk/uksi/2026/835/regulation/36/d)
+[^c-2f8686d97a894354f914bd20235e5022]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1406/schedule/2) omitted (10.7.2026) by virtue of [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [36(d)](https://www.legislation.gov.uk/uksi/2026/835/regulation/36/d)
 
-[^key-f289dc90669eec89cc6cea7e482a937f]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1406/schedule/2) substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [36(e)(i)](https://www.legislation.gov.uk/uksi/2026/835/regulation/36/e/i)
+[^c-f289dc90669eec89cc6cea7e482a937f]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1406/schedule/2) substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [36(e)(i)](https://www.legislation.gov.uk/uksi/2026/835/regulation/36/e/i)
 
-[^key-225f4e1f7f50f5e3412126fbf7e12c35]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1406/schedule/2) inserted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [36(e)(ii)](https://www.legislation.gov.uk/uksi/2026/835/regulation/36/e/ii)
+[^c-225f4e1f7f50f5e3412126fbf7e12c35]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1406/schedule/2) inserted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [36(e)(ii)](https://www.legislation.gov.uk/uksi/2026/835/regulation/36/e/ii)
 
-[^key-5af151152276be9c90f16e1a4571780b]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1406/schedule/2) substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [36(f)](https://www.legislation.gov.uk/uksi/2026/835/regulation/36/f)
+[^c-5af151152276be9c90f16e1a4571780b]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1406/schedule/2) substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [36(f)](https://www.legislation.gov.uk/uksi/2026/835/regulation/36/f)

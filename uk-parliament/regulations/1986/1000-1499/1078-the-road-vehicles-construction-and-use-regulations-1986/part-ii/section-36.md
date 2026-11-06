@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Maintenance of speedometers[^key-d186986d86cbe95e46eb9627dc97971d]
+## 36. Maintenance of speedometers[^c-d186986d86cbe95e46eb9627dc97971d]
 
 *Extent: E+W+S*
 
 (1) Every instrument for indicating speed fitted to a motor vehicle—
 
 - (a) in compliance with the requirements of regulation 35(1) or (3); or
-- (b) to which regulation 35(2)(h) relates and which is not, under the EU Tachographs Regulation[^key-a712a31ec3a244f1b946a2c6c4527e6a], required to be equipped with the recording equipment mentioned in that paragraph,
+- (b) to which regulation 35(2)(h) relates and which is not, under the EU Tachographs Regulation[^c-a712a31ec3a244f1b946a2c6c4527e6a], required to be equipped with the recording equipment mentioned in that paragraph,
 
 shall be kept free from any obstruction which might prevent its being easily read and shall at all material times be maintained in good working order.
 
@@ -34,6 +34,6 @@ shall be kept free from any obstruction which might prevent its being easily rea
 
 ## Annotations
 
-[^key-d186986d86cbe95e46eb9627dc97971d]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1986/1078/regulation/36) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-d186986d86cbe95e46eb9627dc97971d]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1986/1078/regulation/36) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-a712a31ec3a244f1b946a2c6c4527e6a]: Textual amendment: Words in [reg. 36(1)(b)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/36/1/b) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2016/248/regulation/15/3)
+[^c-a712a31ec3a244f1b946a2c6c4527e6a]: Textual amendment: Words in [reg. 36(1)(b)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/36/1/b) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2016/248/regulation/15/3)

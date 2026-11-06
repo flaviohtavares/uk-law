@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Illegal money lending[^key-8a68e3008c639dee1257f8414b197074]
+## 29. Illegal money lending[^c-8a68e3008c639dee1257f8414b197074]
 
 *Extent: E+W+S+N.I.*
 
@@ -91,4 +91,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a68e3008c639dee1257f8414b197074]: Commencement: S. 29 in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(w)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/w)
+[^c-8a68e3008c639dee1257f8414b197074]: Commencement: S. 29 in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(w)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/w)

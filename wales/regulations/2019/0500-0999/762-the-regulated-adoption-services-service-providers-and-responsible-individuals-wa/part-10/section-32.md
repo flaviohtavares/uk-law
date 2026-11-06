@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Conflicts of interest[^key-66cc1db4b01e6e5724775aaaaf2a62ec]
+## 32. Conflicts of interest[^c-66cc1db4b01e6e5724775aaaaf2a62ec]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The service provider must have effective arrangements in place to identify, reco
 
 ## Annotations
 
-[^key-66cc1db4b01e6e5724775aaaaf2a62ec]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2019/762/regulation/32) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-66cc1db4b01e6e5724775aaaaf2a62ec]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2019/762/regulation/32) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)

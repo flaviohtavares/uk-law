@@ -37,15 +37,15 @@ Made
 
 The Secretary of State for Children, Schools and Families makes the following Order in exercise of powers conferred by section 15 of the Education and Inspections Act 2006[^f00001]:
 
-## 1. Citation and commencement[^key-d3ba3c253d9e38817d52e00c03b2aa8a]
+## 1. Citation and commencement[^c-d3ba3c253d9e38817d52e00c03b2aa8a]
 
 This Order may be cited as The Designation of Rural Primary Schools (England) Order 2008 and comes into force on 28<sup>th</sup> July 2008.
 
-## 2. Designation of rural primary schools.[^key-138b1ad7ba38a0084f05cd69dd2cde02]
+## 2. Designation of rural primary schools.[^c-138b1ad7ba38a0084f05cd69dd2cde02]
 
 The schools published on the Department for Children, Schools and Families’ website in a list called “Designated Rural Primary Schools” on 28th July 2008 are designated as rural primary schools in England.
 
-## 3. Revocation[^key-8f3803a6b1df84bc6c6e83f3a069199d]
+## 3. Revocation[^c-8f3803a6b1df84bc6c6e83f3a069199d]
 
 The Designation of Rural Primary Schools (England) Order 2007[^f00002] is revoked.
 
@@ -75,10 +75,10 @@ School Organisation Unit, Independent Schools & School Organisation, DCSF, Mowde
 
 [^f00001]: Footnote: [2006 c.40](https://www.legislation.gov.uk/ukpga/2006/40).
 
-[^key-d3ba3c253d9e38817d52e00c03b2aa8a]: Commencement: Art. 1 in force at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2035/article/1)
+[^c-d3ba3c253d9e38817d52e00c03b2aa8a]: Commencement: Art. 1 in force at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2035/article/1)
 
-[^key-138b1ad7ba38a0084f05cd69dd2cde02]: Commencement: Art. 2 in force at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2035/article/1)
+[^c-138b1ad7ba38a0084f05cd69dd2cde02]: Commencement: Art. 2 in force at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2035/article/1)
 
-[^key-8f3803a6b1df84bc6c6e83f3a069199d]: Commencement: Art. 3 in force at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2035/article/1)
+[^c-8f3803a6b1df84bc6c6e83f3a069199d]: Commencement: Art. 3 in force at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2035/article/1)
 
 [^f00002]: Footnote: [S.I. 2007/817](https://www.legislation.gov.uk/uksi/2007/817).

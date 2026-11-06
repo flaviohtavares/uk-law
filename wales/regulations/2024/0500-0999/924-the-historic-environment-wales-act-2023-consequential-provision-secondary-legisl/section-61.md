@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**61.**[^key-5a0253d5a9d6ae8d3a45976f65cd84c9] In Schedule 4, after the table, under the heading “Interpretation of Table”, paragraph (h)(i), for “section 1(11) of the Ancient Monuments and Archaeological Areas Act 1979” substitute “section 3(7) of the Historic Environment (Wales) Act 2023”.
+**61.**[^c-5a0253d5a9d6ae8d3a45976f65cd84c9] In Schedule 4, after the table, under the heading “Interpretation of Table”, paragraph (h)(i), for “section 1(11) of the Ancient Monuments and Archaeological Areas Act 1979” substitute “section 3(7) of the Historic Environment (Wales) Act 2023”.
 
 ## Annotations
 
-[^key-5a0253d5a9d6ae8d3a45976f65cd84c9]: Commencement: [Reg. 61](https://www.legislation.gov.uk/wsi/2024/924/regulation/61) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-5a0253d5a9d6ae8d3a45976f65cd84c9]: Commencement: [Reg. 61](https://www.legislation.gov.uk/wsi/2024/924/regulation/61) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

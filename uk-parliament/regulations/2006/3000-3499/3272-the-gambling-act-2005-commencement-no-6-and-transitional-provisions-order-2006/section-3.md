@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Repeal of the Betting, Gaming and Lotteries Act 1963[^key-5881881a4716ae3a59afba057a10591a]
+## 3. Repeal of the Betting, Gaming and Lotteries Act 1963[^c-5881881a4716ae3a59afba057a10591a]
 
 *Extent: E+W+S*
 
@@ -29,7 +29,7 @@ summary: ''
   which has effect immediately before that date; and
 - (b) for all other purposes except as provided in the following provisions of this article.
 
-(2) The 1963 Act is to continue to have effect on and after 1st September 2007 in so far as is necessary to continue to give effect to section 31[^key-d4dc655627143839b870c15a76046d63] of that Act[^f00006].
+(2) The 1963 Act is to continue to have effect on and after 1st September 2007 in so far as is necessary to continue to give effect to section 31[^c-d4dc655627143839b870c15a76046d63] of that Act[^f00006].
 
 (3) The 1963 Act is to continue to have effect on and after 1st September 2007 for the purposes of enabling any of the following applications to be determined (including, where appropriate, by way of appeal), where the application is made but not determined before that date—
 
@@ -51,11 +51,11 @@ summary: ''
 
 ## Annotations
 
-[^key-5881881a4716ae3a59afba057a10591a]: Commencement: Art. 3 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-5881881a4716ae3a59afba057a10591a]: Commencement: Art. 3 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
 [^f00005]: Footnote: Amendments have been made to Schedule 2 which are not relevant to this Order.
 
-[^key-d4dc655627143839b870c15a76046d63]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/3272/article/3/2) substituted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [4](https://www.legislation.gov.uk/uksi/2007/2169/article/4)
+[^c-d4dc655627143839b870c15a76046d63]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/3272/article/3/2) substituted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [4](https://www.legislation.gov.uk/uksi/2007/2169/article/4)
 
 [^f00006]: Footnote: Provision is made for the repeal of sections 12, 14, 15 and 24 to 30 by the Horserace Betting and Olympic Lottery Act [2004 (c. 25)](https://www.legislation.gov.uk/ukpga/2004/25); see in particular section 15(1)(a), and section 38 and Schedule 6.
 

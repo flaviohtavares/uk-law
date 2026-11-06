@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 67. Vehicle identification numbers[^key-c83e893f3c14ccf232822295a016feb2]
+## 67. Vehicle identification numbers[^c-c83e893f3c14ccf232822295a016feb2]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ Provided that the information required under sub-paragraph *(c)* above may be sh
 
 ## Annotations
 
-[^key-c83e893f3c14ccf232822295a016feb2]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/1986/1078/regulation/67) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-c83e893f3c14ccf232822295a016feb2]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/1986/1078/regulation/67) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

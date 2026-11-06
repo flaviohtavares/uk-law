@@ -45,7 +45,7 @@ Coming into Operation
 
 6th July 1981
 
-The Lord Chancellor, in exercise of the power conferred on him by section 144 of the Magistrates' Courts Act 1980[^f00001], as extended by section 145 of that Act, after consultation with the Rule Committee appointed under the said section 144, hereby makes the following Rules:—[^key-49c43ff94c06033e2437082fa6674e8d][^key-ec5207bbd06ca6e563cf69992171939c][^key-80efb592a41ba52f58f1f86257376719][^key-f5ca096d937989fe6175106bfd14279d]
+The Lord Chancellor, in exercise of the power conferred on him by section 144 of the Magistrates' Courts Act 1980[^f00001], as extended by section 145 of that Act, after consultation with the Rule Committee appointed under the said section 144, hereby makes the following Rules:—[^c-49c43ff94c06033e2437082fa6674e8d][^c-ec5207bbd06ca6e563cf69992171939c][^c-80efb592a41ba52f58f1f86257376719][^c-f5ca096d937989fe6175106bfd14279d]
 
 ## Contents
 
@@ -92,7 +92,7 @@ The Lord Chancellor, in exercise of the power conferred on him by section 144 of
 - [Section 15 — Adjournment of trial of information](part-4/section-15.md)
 - [Section 16 — Record of Adjudication](part-4/section-16.md)
 
-### DOMESTIC ABUSE PROTECTION ORDERS[^key-295f1d310815174439d9d930600aecb3]
+### DOMESTIC ABUSE PROTECTION ORDERS[^c-295f1d310815174439d9d930600aecb3]
 
 - [Section 17 — Application for order after giving domestic abuse protection notice](part-5/section-17.md)
 - [Section 18 — Notice of proposed terms of order](part-5/section-18.md)
@@ -352,14 +352,14 @@ Rule 57 (which deals with transfer of fine orders) is amended in consequence of 
 
 [^f00001]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-49c43ff94c06033e2437082fa6674e8d]: Modification: Rules modified (27.9.1989) by [The Magistrates' Courts (Extradition) Rules 1989 (S.I. 1989/1597)](https://www.legislation.gov.uk/uksi/1989/1597), [rules 1](https://www.legislation.gov.uk/uksi/1989/1597/rule/1), [3](https://www.legislation.gov.uk/uksi/1989/1597/rule/3)
+[^c-49c43ff94c06033e2437082fa6674e8d]: Modification: Rules modified (27.9.1989) by [The Magistrates' Courts (Extradition) Rules 1989 (S.I. 1989/1597)](https://www.legislation.gov.uk/uksi/1989/1597), [rules 1](https://www.legislation.gov.uk/uksi/1989/1597/rule/1), [3](https://www.legislation.gov.uk/uksi/1989/1597/rule/3)
 
-[^key-ec5207bbd06ca6e563cf69992171939c]: Modification: Rules modified in part (1.1.1992) by [The Solicitors' Incorporated Practices Order 1991 (S.I. 1991/2684)](https://www.legislation.gov.uk/uksi/1991/2684), [arts. 1](https://www.legislation.gov.uk/uksi/1991/2684/article/1), [4](https://www.legislation.gov.uk/uksi/1991/2684/article/4), [5](https://www.legislation.gov.uk/uksi/1991/2684/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2684/schedule/1)
+[^c-ec5207bbd06ca6e563cf69992171939c]: Modification: Rules modified in part (1.1.1992) by [The Solicitors' Incorporated Practices Order 1991 (S.I. 1991/2684)](https://www.legislation.gov.uk/uksi/1991/2684), [arts. 1](https://www.legislation.gov.uk/uksi/1991/2684/article/1), [4](https://www.legislation.gov.uk/uksi/1991/2684/article/4), [5](https://www.legislation.gov.uk/uksi/1991/2684/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2684/schedule/1)
 
-[^key-80efb592a41ba52f58f1f86257376719]: Modification: Rules modified (1.9.2001) by [The Magistrates' Courts (International Criminal Court) (Forms) Rules 2001 (S.I. 2001/2600)](https://www.legislation.gov.uk/uksi/2001/2600), [rules 1](https://www.legislation.gov.uk/uksi/2001/2600/rule/1), [3](https://www.legislation.gov.uk/uksi/2001/2600/rule/3)
+[^c-80efb592a41ba52f58f1f86257376719]: Modification: Rules modified (1.9.2001) by [The Magistrates' Courts (International Criminal Court) (Forms) Rules 2001 (S.I. 2001/2600)](https://www.legislation.gov.uk/uksi/2001/2600), [rules 1](https://www.legislation.gov.uk/uksi/2001/2600/rule/1), [3](https://www.legislation.gov.uk/uksi/2001/2600/rule/3)
 
-[^key-f5ca096d937989fe6175106bfd14279d]: Modification: [Rules](https://www.legislation.gov.uk/uksi/1981/552) applied in part (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [8(1)](https://www.legislation.gov.uk/uksi/2011/2866/article/8/1)[(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/8/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2866/schedule/2)
+[^c-f5ca096d937989fe6175106bfd14279d]: Modification: [Rules](https://www.legislation.gov.uk/uksi/1981/552) applied in part (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [8(1)](https://www.legislation.gov.uk/uksi/2011/2866/article/8/1)[(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/8/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2866/schedule/2)
 
-[^key-295f1d310815174439d9d930600aecb3]: Textual amendment: [Rules 17-23](https://www.legislation.gov.uk/uksi/1981/552/rule/17) and cross-heading (previously omitted by virtue of [S.I. 2021/626](https://www.legislation.gov.uk/uksi/2021/626), [rule 2(12)(c)(d)](https://www.legislation.gov.uk/uksi/2021/626/rule/2/12/c/d)) inserted (8.4.2024) by [The Magistrates’ Courts (Amendment) Rules 2024 (S.I. 2024/254)](https://www.legislation.gov.uk/uksi/2024/254), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/254/rule/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2024/254/rule/2/6)
+[^c-295f1d310815174439d9d930600aecb3]: Textual amendment: [Rules 17-23](https://www.legislation.gov.uk/uksi/1981/552/rule/17) and cross-heading (previously omitted by virtue of [S.I. 2021/626](https://www.legislation.gov.uk/uksi/2021/626), [rule 2(12)(c)(d)](https://www.legislation.gov.uk/uksi/2021/626/rule/2/12/c/d)) inserted (8.4.2024) by [The Magistrates’ Courts (Amendment) Rules 2024 (S.I. 2024/254)](https://www.legislation.gov.uk/uksi/2024/254), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/254/rule/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2024/254/rule/2/6)
 
 [^M_F_51584e4b-33a0-4a40-f69a-ad123954a297]: Textual amendment: [Rule 34](https://www.legislation.gov.uk/uksi/1981/552/rule/34) cross-heading substituted (8.4.2024) by [The Magistrates’ Courts (Amendment) Rules 2024 (S.I. 2024/254)](https://www.legislation.gov.uk/uksi/2024/254), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/254/rule/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2024/254/rule/2/7)

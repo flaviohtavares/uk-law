@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Duty to register local government electors[^key-c64e3a016eb2d8ce56709f39fe6214bc]
+## 3. Duty to register local government electors[^c-c64e3a016eb2d8ce56709f39fe6214bc]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c64e3a016eb2d8ce56709f39fe6214bc]: Commencement: S. 3 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-c64e3a016eb2d8ce56709f39fe6214bc]: Commencement: S. 3 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)

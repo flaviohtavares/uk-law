@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Decision notices[^key-0a45785f0a1efc170c4ae845eee7e580][^key-678b2b27ec5ddd184ea4551aaec8073c]
+## 77. Decision notices[^c-0a45785f0a1efc170c4ae845eee7e580][^c-678b2b27ec5ddd184ea4551aaec8073c]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0a45785f0a1efc170c4ae845eee7e580]: Commencement: S. 77 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-0a45785f0a1efc170c4ae845eee7e580]: Commencement: S. 77 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-678b2b27ec5ddd184ea4551aaec8073c]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2025/21/section/77) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(iii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/iii)
+[^c-678b2b27ec5ddd184ea4551aaec8073c]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2025/21/section/77) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(iii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/iii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143E. Powers to make rules applying to parent undertakings[^key-bd67ac6625e8b346806ee8e45f8d282f]
+## 143E. Powers to make rules applying to parent undertakings[^c-bd67ac6625e8b346806ee8e45f8d282f]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,16 +36,16 @@ summary: ''
 - (a) in relation to authorised parent undertakings, in exercise of its power to make general rules, and
 - (b) in relation to non-authorised parent undertakings, where such rules appear to it to be necessary or expedient for the purpose of advancing one or more of its operational objectives.
 
-(5) Section 143D(4) applies[^key-40325017909947b3ac2b2ee31c6a50c9] in relation to rules made by the FCA in exercise of the powers conferred by, or described in, this section as it applies[^key-427c4b2b6957b2ca45a547fad7414f89] in relation to rules made in the performance of the FCA's duties under that section.
+(5) Section 143D(4) applies[^c-40325017909947b3ac2b2ee31c6a50c9] in relation to rules made by the FCA in exercise of the powers conferred by, or described in, this section as it applies[^c-427c4b2b6957b2ca45a547fad7414f89] in relation to rules made in the performance of the FCA's duties under that section.
 
-(6) Section 143D [^key-9599d00ce7fb8e30f488e6cca19b0668]... (7), (8) and (9) apply in relation to rules made under this section applying to non-authorised parent undertakings as they apply in relation to rules made under section 143D(3).
+(6) Section 143D [^c-9599d00ce7fb8e30f488e6cca19b0668]... (7), (8) and (9) apply in relation to rules made under this section applying to non-authorised parent undertakings as they apply in relation to rules made under section 143D(3).
 
 ## Annotations
 
-[^key-bd67ac6625e8b346806ee8e45f8d282f]: Textual amendment: Pt. 9C inserted (1.7.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2021/22/schedule/2/paragraph/1); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2021/671/regulation/4/b)
+[^c-bd67ac6625e8b346806ee8e45f8d282f]: Textual amendment: Pt. 9C inserted (1.7.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2021/22/schedule/2/paragraph/1); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2021/671/regulation/4/b)
 
-[^key-40325017909947b3ac2b2ee31c6a50c9]: Textual amendment: Word in s. 143E(5) substituted (1.1.2024) by [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [2(5)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/2/5/a/i)
+[^c-40325017909947b3ac2b2ee31c6a50c9]: Textual amendment: Word in s. 143E(5) substituted (1.1.2024) by [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [2(5)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/2/5/a/i)
 
-[^key-427c4b2b6957b2ca45a547fad7414f89]: Textual amendment: Words in s. 143E(5) substituted (1.1.2024) by [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [2(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/2/5/a/ii)
+[^c-427c4b2b6957b2ca45a547fad7414f89]: Textual amendment: Words in s. 143E(5) substituted (1.1.2024) by [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [2(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/2/5/a/ii)
 
-[^key-9599d00ce7fb8e30f488e6cca19b0668]: Textual amendment: Word in s. 143E(6) omitted (1.1.2024) by virtue of [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/2/5/b)
+[^c-9599d00ce7fb8e30f488e6cca19b0668]: Textual amendment: Word in s. 143E(6) omitted (1.1.2024) by virtue of [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/2/5/b)

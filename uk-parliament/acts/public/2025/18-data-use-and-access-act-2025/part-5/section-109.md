@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. The PEC Regulations[^key-7108dca8124834995ad99da6e44fc529][^key-eb3cad2e8114fe8c3d034bcf60ca664b]
+## 109. The PEC Regulations[^c-7108dca8124834995ad99da6e44fc529][^c-eb3cad2e8114fe8c3d034bcf60ca664b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In this Chapter, “**the PEC Regulations**” means the Privacy and Electronic 
 
 ## Annotations
 
-[^key-7108dca8124834995ad99da6e44fc529]: Commencement: S. 109 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-7108dca8124834995ad99da6e44fc529]: Commencement: S. 109 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-eb3cad2e8114fe8c3d034bcf60ca664b]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2025/18/section/109) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/n)
+[^c-eb3cad2e8114fe8c3d034bcf60ca664b]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2025/18/section/109) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/n)

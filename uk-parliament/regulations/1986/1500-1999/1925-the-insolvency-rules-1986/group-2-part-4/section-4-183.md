@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.183. Division of unsold assets[^key-84bbeef2fefb5aab6f7f3ecd0aa05378]
+## 4.183. Division of unsold assets[^c-84bbeef2fefb5aab6f7f3ecd0aa05378]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Without prejudice to provisions of the Act about disclaimer, the liquidator may,
 
 ## Annotations
 
-[^key-84bbeef2fefb5aab6f7f3ecd0aa05378]: Commencement: [Rule 4.183](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.183) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-84bbeef2fefb5aab6f7f3ecd0aa05378]: Commencement: [Rule 4.183](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.183) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Deprivation orders in connection with offence under section 46(2)[^key-c0b6a0bd301b97cb51d78c8016a3667f]
+## 47. Deprivation orders in connection with offence under section 46(2)[^c-c0b6a0bd301b97cb51d78c8016a3667f]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0b6a0bd301b97cb51d78c8016a3667f]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2006/45/section/47) in force at 12.12.2007 by [S.S.I. 2007/519](https://www.legislation.gov.uk/ssi/2007/519), [art. 2](https://www.legislation.gov.uk/ssi/2007/519/article/2)
+[^c-c0b6a0bd301b97cb51d78c8016a3667f]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2006/45/section/47) in force at 12.12.2007 by [S.S.I. 2007/519](https://www.legislation.gov.uk/ssi/2007/519), [art. 2](https://www.legislation.gov.uk/ssi/2007/519/article/2)

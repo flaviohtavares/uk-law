@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Operational matters in relation to approved bodies[^M_E_5939a7e8-2aca-4230-ca1c-386693c20213][^key-bd4616107a483524ba7b3ed99bd47f64]
+## 50. Operational matters in relation to approved bodies[^M_E_5939a7e8-2aca-4230-ca1c-386693c20213][^c-bd4616107a483524ba7b3ed99bd47f64]
 
 *Extent: E+W+S*
 
@@ -45,6 +45,6 @@ The Secretary of State may authorise the United Kingdom Accreditation Service to
 
 [^M_E_5939a7e8-2aca-4230-ca1c-386693c20213]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-bd4616107a483524ba7b3ed99bd47f64]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2016/1092/part/4) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 21 para. 30](https://www.legislation.gov.uk/uksi/2019/696/schedule/21/paragraph/30) (with [Sch. 21 para. 37](https://www.legislation.gov.uk/uksi/2019/696/schedule/21/paragraph/37)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/j)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bd4616107a483524ba7b3ed99bd47f64]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2016/1092/part/4) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 21 para. 30](https://www.legislation.gov.uk/uksi/2019/696/schedule/21/paragraph/30) (with [Sch. 21 para. 37](https://www.legislation.gov.uk/uksi/2019/696/schedule/21/paragraph/37)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/j)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_59ec493e-a405-4179-ad64-2a2b389a9812]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only

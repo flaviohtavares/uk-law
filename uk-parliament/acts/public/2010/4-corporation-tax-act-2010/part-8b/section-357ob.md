@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357OB. Northern Ireland intangibles credits and debits: SMEs that are Northern Ireland employers[^key-daff5b22d7ee6f395950067d2a1daa9d][^key-380f76c5b7e024c80f6fc5acce1d63bf]
+## 357OB. Northern Ireland intangibles credits and debits: SMEs that are Northern Ireland employers[^c-daff5b22d7ee6f395950067d2a1daa9d][^c-380f76c5b7e024c80f6fc5acce1d63bf]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies to a company that—
 
-- (a) is a Northern Ireland company in an accounting period by virtue of the SME[^key-9b37a3b2813435f51bb2625a8bba3020] (Northern Ireland employer) condition in section 357KA, and
+- (a) is a Northern Ireland company in an accounting period by virtue of the SME[^c-9b37a3b2813435f51bb2625a8bba3020] (Northern Ireland employer) condition in section 357KA, and
 - (b) carries on a trade which is a qualifying trade by virtue of section 357KB(1) (trade other than excluded trade).
 
 (2) If the company does not carry on an excluded activity—
@@ -54,8 +54,8 @@ summary: ''
 
 ## Annotations
 
-[^key-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
+[^c-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
 
-[^key-380f76c5b7e024c80f6fc5acce1d63bf]: Textual amendment: Words in s. 357OB heading inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 10(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/10/2)
+[^c-380f76c5b7e024c80f6fc5acce1d63bf]: Textual amendment: Words in s. 357OB heading inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 10(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/10/2)
 
-[^key-9b37a3b2813435f51bb2625a8bba3020]: Textual amendment: Words in [s. 357OB(1)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/357OB/1/a) substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 10(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/10/3)
+[^c-9b37a3b2813435f51bb2625a8bba3020]: Textual amendment: Words in [s. 357OB(1)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/357OB/1/a) substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 10(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/10/3)

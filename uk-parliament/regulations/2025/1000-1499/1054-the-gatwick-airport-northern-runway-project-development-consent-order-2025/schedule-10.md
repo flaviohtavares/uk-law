@@ -22,7 +22,7 @@ summary: ''
 
 Article 39
 
-### PART 1 — SPECIAL CATEGORY LAND TO BE PERMANENTLY ACQUIRED[^key-6902a1ce7721501e84993a29abe49571]
+### PART 1 — SPECIAL CATEGORY LAND TO BE PERMANENTLY ACQUIRED[^c-6902a1ce7721501e84993a29abe49571]
 
 <table>
 <thead>
@@ -34,7 +34,7 @@ Article 39
 </tbody>
 </table>
 
-### PART 2 — LAND TO BE LAID OUT AS REPLACEMENT OPEN SPACE[^key-097d4b09e9fc93913bdf547a11373611]
+### PART 2 — LAND TO BE LAID OUT AS REPLACEMENT OPEN SPACE[^c-097d4b09e9fc93913bdf547a11373611]
 
 <table>
 <thead>
@@ -46,7 +46,7 @@ Article 39
 </tbody>
 </table>
 
-### PART 3 — SPECIAL CATEGORY LAND OVER WHICH RIGHTS WILL BE ACQUIRED[^key-1435be3c115c808e565f09cc8ecde0a9]
+### PART 3 — SPECIAL CATEGORY LAND OVER WHICH RIGHTS WILL BE ACQUIRED[^c-1435be3c115c808e565f09cc8ecde0a9]
 
 <table>
 <thead>
@@ -63,8 +63,8 @@ Article 39
 
 ## Annotations
 
-[^key-6902a1ce7721501e84993a29abe49571]: Commencement: Sch. 10 Pt. 1 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-6902a1ce7721501e84993a29abe49571]: Commencement: Sch. 10 Pt. 1 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
-[^key-097d4b09e9fc93913bdf547a11373611]: Commencement: Sch. 10 Pt. 2 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-097d4b09e9fc93913bdf547a11373611]: Commencement: Sch. 10 Pt. 2 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
-[^key-1435be3c115c808e565f09cc8ecde0a9]: Commencement: Sch. 10 Pt. 3 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-1435be3c115c808e565f09cc8ecde0a9]: Commencement: Sch. 10 Pt. 3 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)

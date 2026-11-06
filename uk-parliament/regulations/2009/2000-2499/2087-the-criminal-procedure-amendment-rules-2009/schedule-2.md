@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2[^key-0f5d09bacc732e4ebd7bd36500d98bce]
+## SCHEDULE 2[^c-0f5d09bacc732e4ebd7bd36500d98bce]
 
 *Extent: E+W*
 
@@ -470,7 +470,7 @@ Rule 7
 
 ## Annotations
 
-[^key-0f5d09bacc732e4ebd7bd36500d98bce]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2087/schedule/2) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
+[^c-0f5d09bacc732e4ebd7bd36500d98bce]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2087/schedule/2) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
 
 [^f00024]: Footnote: [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11); paragraph 5 of Schedule 5 is to be amended by section 65 of, and paragraph 9 of Schedule 4 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) from a date to be appointed; paragraph 10 of Schedule 5 was amended by sections 65 and 109 of, and paragraph 9 of Schedule 4 and paragraph 389 of Schedule 8 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39).
 

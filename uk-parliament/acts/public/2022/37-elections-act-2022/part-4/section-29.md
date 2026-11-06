@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Code of practice on controls relating to third parties[^key-df1dd61b20e415f4a353b52639171c28][^key-1e23f2b31f12b347ba1894bd57e0b1ba]
+## 29. Code of practice on controls relating to third parties[^c-df1dd61b20e415f4a353b52639171c28][^c-1e23f2b31f12b347ba1894bd57e0b1ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -102,6 +102,6 @@ summary: ''
 
 ## Annotations
 
-[^key-df1dd61b20e415f4a353b52639171c28]: Commencement: S. 29 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-df1dd61b20e415f4a353b52639171c28]: Commencement: S. 29 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-1e23f2b31f12b347ba1894bd57e0b1ba]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2022/37/section/29) in force at 24.11.2022 by [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
+[^c-1e23f2b31f12b347ba1894bd57e0b1ba]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2022/37/section/29) in force at 24.11.2022 by [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)

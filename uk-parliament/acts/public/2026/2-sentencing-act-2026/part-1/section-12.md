@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Removal of requirement to specify maximum number of days[^key-63f62f0012cf33e43a4378b95a8569e4][^key-44e505f6d4d40018ac816d9b21d08a8e]
+## 12. Removal of requirement to specify maximum number of days[^c-63f62f0012cf33e43a4378b95a8569e4][^c-44e505f6d4d40018ac816d9b21d08a8e]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In paragraph 4 of Schedule 9 to the Sentencing Code (meaning of rehabilitation a
 
 ## Annotations
 
-[^key-63f62f0012cf33e43a4378b95a8569e4]: Commencement: S. 12 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-63f62f0012cf33e43a4378b95a8569e4]: Commencement: S. 12 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-44e505f6d4d40018ac816d9b21d08a8e]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2026/2/section/12) in force at 1.10.2026 by [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/a) (as amended by S.I. 2026/948, [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))
+[^c-44e505f6d4d40018ac816d9b21d08a8e]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2026/2/section/12) in force at 1.10.2026 by [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/a) (as amended by S.I. 2026/948, [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. People who lack capacity[^c2090547][^key-712b40487de37456f3a4bb4b6cf9d627]
+## 2. People who lack capacity[^c2090547][^c-712b40487de37456f3a4bb4b6cf9d627]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ is exercisable in relation to a person under 16.
 
 [^c2090547]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2005/9/section/2) wholly in force at 1.10.2007; [s. 2](https://www.legislation.gov.uk/ukpga/2005/9/section/2) not in force at Royal Assent see [s. 68(1)-(3)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1); [s. 2](https://www.legislation.gov.uk/ukpga/2005/9/section/2) in force for certain purposes at 1.4.2007 by [S.I. 2007/563](https://www.legislation.gov.uk/uksi/2007/563), [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2007/563/article/1/2/3), [2(2)(b)(3)](https://www.legislation.gov.uk/uksi/2007/563/article/2/2/b/3) and s. 2 in force otherwise at 1.10.2007 by [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/2/b)
 
-[^key-712b40487de37456f3a4bb4b6cf9d627]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/2005/9/section/2) applied (temp.) (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) Regulations 2014 (S.I. 2014/2936)](https://www.legislation.gov.uk/uksi/2014/2936), [regs. 1(5)(6)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/1/5), [8(3)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/8/3)
+[^c-712b40487de37456f3a4bb4b6cf9d627]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/2005/9/section/2) applied (temp.) (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) Regulations 2014 (S.I. 2014/2936)](https://www.legislation.gov.uk/uksi/2014/2936), [regs. 1(5)(6)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/1/5), [8(3)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/8/3)

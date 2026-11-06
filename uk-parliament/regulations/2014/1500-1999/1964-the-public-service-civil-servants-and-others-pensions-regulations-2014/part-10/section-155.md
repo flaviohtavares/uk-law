@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Bulk transfers out[^key-01f843678896b43e06cbe1a673922c83]
+## 155. Bulk transfers out[^c-01f843678896b43e06cbe1a673922c83]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01f843678896b43e06cbe1a673922c83]: Commencement: [Reg. 155](https://www.legislation.gov.uk/uksi/2014/1964/regulation/155) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-01f843678896b43e06cbe1a673922c83]: Commencement: [Reg. 155](https://www.legislation.gov.uk/uksi/2014/1964/regulation/155) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

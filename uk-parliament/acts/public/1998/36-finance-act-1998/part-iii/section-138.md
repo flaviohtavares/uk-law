@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Pre-entry losses.[^key-9448ca1b78d4d82552ea74d1c75f78e0]
+## 138. Pre-entry losses.[^c-9448ca1b78d4d82552ea74d1c75f78e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9448ca1b78d4d82552ea74d1c75f78e0]: Textual amendment: S. 138 repealed (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 10(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/10/b)
+[^c-9448ca1b78d4d82552ea74d1c75f78e0]: Textual amendment: S. 138 repealed (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 10(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/10/b)

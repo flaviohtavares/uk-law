@@ -23,7 +23,7 @@ summary: ''
 (1) This Part imposes charges to income tax under—
 
 - (a) Chapter 2 (receipts from intellectual property),
-- (aa)[^key-1b97ea68fc5a483379d2089752845b0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^c-1b97ea68fc5a483379d2089752845b0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) Chapter 3 (films and sound recordings: non-trade businesses),
 - (c) Chapter 4 (certain telecommunication rights: non-trading income),
 - (d) Chapter 5 (settlements: amounts treated as income of settlor),
@@ -31,7 +31,7 @@ summary: ''
 - (f) Chapter 7 (annual payments not otherwise charged), and
 - (g) Chapter 8 (income not otherwise charged).
 
-(2) Part 6 deals with exemptions from the charges under this Part [^key-3f40d435a9f5e4bde80afc4b50ab107c]....
+(2) Part 6 deals with exemptions from the charges under this Part [^c-3f40d435a9f5e4bde80afc4b50ab107c]....
 
 (3) See, in particular, any exemptions mentioned in the Chapters of this Part.
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1b97ea68fc5a483379d2089752845b0a]: Textual amendment: [S. 574(1)(aa)](https://www.legislation.gov.uk/ukpga/2005/5/section/574/1/aa) omitted (with effect in accordance with s. 20(12) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 20(2)(a)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/2/a)[(12)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/12)
+[^c-1b97ea68fc5a483379d2089752845b0a]: Textual amendment: [S. 574(1)(aa)](https://www.legislation.gov.uk/ukpga/2005/5/section/574/1/aa) omitted (with effect in accordance with s. 20(12) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 20(2)(a)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/2/a)[(12)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/12)
 
-[^key-3f40d435a9f5e4bde80afc4b50ab107c]: Textual amendment: Words in [s. 574(2)](https://www.legislation.gov.uk/ukpga/2005/5/section/574/2) omitted (with effect in accordance with s. 20(12) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/2/b)[(12)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/12)
+[^c-3f40d435a9f5e4bde80afc4b50ab107c]: Textual amendment: Words in [s. 574(2)](https://www.legislation.gov.uk/ukpga/2005/5/section/574/2) omitted (with effect in accordance with s. 20(12) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/2/b)[(12)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/12)

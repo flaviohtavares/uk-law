@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 105. Regulations under section 95(1): requirements[^key-f1ab35f1ddcc674c278e7d1bf8b7a22a]
+## 105. Regulations under section 95(1): requirements[^c-f1ab35f1ddcc674c278e7d1bf8b7a22a]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1ab35f1ddcc674c278e7d1bf8b7a22a]: Commencement: [S. 105](https://www.legislation.gov.uk/asp/2016/20/section/105) in force at 2.6.2023 by [S.S.I. 2023/145](https://www.legislation.gov.uk/ssi/2023/145), [reg. 2](https://www.legislation.gov.uk/ssi/2023/145/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/145/schedule)
+[^c-f1ab35f1ddcc674c278e7d1bf8b7a22a]: Commencement: [S. 105](https://www.legislation.gov.uk/asp/2016/20/section/105) in force at 2.6.2023 by [S.S.I. 2023/145](https://www.legislation.gov.uk/ssi/2023/145), [reg. 2](https://www.legislation.gov.uk/ssi/2023/145/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/145/schedule)

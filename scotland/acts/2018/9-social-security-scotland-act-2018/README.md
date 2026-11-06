@@ -151,7 +151,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 51 — Determination on basis of ongoing entitlement](part-2/section-51.md)
 - [Section 52 — Determination without application](part-2/section-52.md)
 
-##### Coronavirus: relaxation of deadlines[^key-43f4a119620dc6df03b51dfb27acd9e6]
+##### Coronavirus: relaxation of deadlines[^c-43f4a119620dc6df03b51dfb27acd9e6]
 
 *Extent: S*
 
@@ -193,7 +193,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 62 — Presumption for purposes of sections 41, 48 and 61](part-2/section-62.md)
 
-##### Non-disclosure of health information[^key-de5be5a2749259d1ba86a0a074b5ff8b]
+##### Non-disclosure of health information[^c-de5be5a2749259d1ba86a0a074b5ff8b]
 
 - [Section 62A — Non-disclosure of information about individual's health](part-2/section-62a.md)
 
@@ -215,11 +215,11 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 70 — Liability of deceased's estate](part-2/section-70.md)
 
-#### CHAPTER 6 — OFFENCES[^key-5c5deb1b16de670500b1bee3ab6bbd38]
+#### CHAPTER 6 — OFFENCES[^c-5c5deb1b16de670500b1bee3ab6bbd38]
 
 *Extent: S*
 
-##### ...[^key-e0bbf6e3dbd36ec3eeff121f1bd9e646]
+##### ...[^c-e0bbf6e3dbd36ec3eeff121f1bd9e646]
 
 - [Section 71 — Offence of trying to obtain assistance by deceit](part-2/section-71.md)
 - [Section 72 — Offence of failing to notify](part-2/section-72.md)
@@ -233,7 +233,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 75 — Power to make provision about investigations](part-2/section-75.md)
 - [Section 76 — Code of practice on investigations](part-2/section-76.md)
 
-#### ...[^key-3daa4793edf319c1cd2619e21559d3b7]
+#### ...[^c-3daa4793edf319c1cd2619e21559d3b7]
 
 *Extent: S*
 
@@ -283,7 +283,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 85 — Information-sharing](part-4/section-85.md)
 
-#### Appointees[^key-9d2461510b0bd76499829f6329d129d8]
+#### Appointees[^c-9d2461510b0bd76499829f6329d129d8]
 
 *Extent: S*
 
@@ -298,7 +298,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 86 — Agency arrangements for housing assistance](part-4/section-86.md)
 
-#### Uprating for inflation[^key-f432f452365d8433f488ceb16b6359aa]
+#### Uprating for inflation[^c-f432f452365d8433f488ceb16b6359aa]
 
 *Extent: S*
 
@@ -309,13 +309,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 87 — Report to the Scottish Parliament on exercise of right to appeal](part-4/section-87.md)
 
-#### Assistance given in error: First-tier Tribunal's jurisdiction[^key-6cd7db4973c9ee0918404f9ebe7ca16f][^M_F_9fd1212e-34e4-4753-d67a-7f13a9240224]
+#### Assistance given in error: First-tier Tribunal's jurisdiction[^c-6cd7db4973c9ee0918404f9ebe7ca16f][^M_F_9fd1212e-34e4-4753-d67a-7f13a9240224]
 
 *Extent: S*
 
 - [Section 87A — Power to transfer jurisdiction from sheriff to tribunal](part-4/section-87a.md)
 
-#### Information for audit of social security system[^key-15473c52603be604652a346d4fb5b7af]
+#### Information for audit of social security system[^c-15473c52603be604652a346d4fb5b7af]
 
 - [Section 87B — Obtaining information for audit](part-4/section-87b.md)
 - [Section 87C — Right to seek withdrawal of information request](part-4/section-87c.md)
@@ -331,7 +331,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 92 — Local authorities need not make payments if not funded](part-5/section-92.md)
 - [Section 93 — Power to modify section 88](part-5/section-93.md)
 
-### Part 5A — Care experience assistance[^key-230d1c8d1b4f5812a3977364d4ac39f2]
+### Part 5A — Care experience assistance[^c-230d1c8d1b4f5812a3977364d4ac39f2]
 
 - [Section 93A — Scheme to provide care experience assistance](part-5a/section-93a.md)
 
@@ -364,32 +364,32 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-43f4a119620dc6df03b51dfb27acd9e6]: Textual amendment: Ss. 52A, 52B and cross-heading inserted (7.4.2020) by [Coronavirus (Scotland) Act 2020 (asp 7)](https://www.legislation.gov.uk/asp/2020/7), [s. 17(1)](https://www.legislation.gov.uk/asp/2020/7/section/17/1), [sch. 7 para. 4](https://www.legislation.gov.uk/asp/2020/7/schedule/7/paragraph/4) (with [ss. 11-13](https://www.legislation.gov.uk/asp/2020/7/section/11))
+[^c-43f4a119620dc6df03b51dfb27acd9e6]: Textual amendment: Ss. 52A, 52B and cross-heading inserted (7.4.2020) by [Coronavirus (Scotland) Act 2020 (asp 7)](https://www.legislation.gov.uk/asp/2020/7), [s. 17(1)](https://www.legislation.gov.uk/asp/2020/7/section/17/1), [sch. 7 para. 4](https://www.legislation.gov.uk/asp/2020/7/schedule/7/paragraph/4) (with [ss. 11-13](https://www.legislation.gov.uk/asp/2020/7/section/11))
 
 [^M_F_c411b7ba-0b48-464f-f828-788e92e052f6]: Textual amendment: S. 84C: s. 53 and cross-heading renumbered as s. 84C and cross-heading (26.7.2021) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 9(2)](https://www.legislation.gov.uk/asp/2020/18/section/9/2), [18(2)(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/2/3) (with [s. 10](https://www.legislation.gov.uk/asp/2020/18/section/10)); [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/c)
 
-[^key-de5be5a2749259d1ba86a0a074b5ff8b]: Textual amendment: S. 62A and cross-heading inserted (26.7.2021) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 3(2)](https://www.legislation.gov.uk/asp/2020/18/section/3/2), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/b)
+[^c-de5be5a2749259d1ba86a0a074b5ff8b]: Textual amendment: S. 62A and cross-heading inserted (26.7.2021) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 3(2)](https://www.legislation.gov.uk/asp/2020/18/section/3/2), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/b)
 
-[^key-5c5deb1b16de670500b1bee3ab6bbd38]: Textual amendment: Pt. 2 Ch. 6 title substituted (11.11.2020) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 5(2)](https://www.legislation.gov.uk/asp/2020/18/section/5/2), [18(1)](https://www.legislation.gov.uk/asp/2020/18/section/18/1) (with [s. 6](https://www.legislation.gov.uk/asp/2020/18/section/6))
+[^c-5c5deb1b16de670500b1bee3ab6bbd38]: Textual amendment: Pt. 2 Ch. 6 title substituted (11.11.2020) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 5(2)](https://www.legislation.gov.uk/asp/2020/18/section/5/2), [18(1)](https://www.legislation.gov.uk/asp/2020/18/section/18/1) (with [s. 6](https://www.legislation.gov.uk/asp/2020/18/section/6))
 
-[^key-e0bbf6e3dbd36ec3eeff121f1bd9e646]: Textual amendment: S. 71 crossheading omitted (11.11.2020) by virtue of [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 5(3)](https://www.legislation.gov.uk/asp/2020/18/section/5/3), [18(1)](https://www.legislation.gov.uk/asp/2020/18/section/18/1) (with [s. 6](https://www.legislation.gov.uk/asp/2020/18/section/6))
+[^c-e0bbf6e3dbd36ec3eeff121f1bd9e646]: Textual amendment: S. 71 crossheading omitted (11.11.2020) by virtue of [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 5(3)](https://www.legislation.gov.uk/asp/2020/18/section/5/3), [18(1)](https://www.legislation.gov.uk/asp/2020/18/section/18/1) (with [s. 6](https://www.legislation.gov.uk/asp/2020/18/section/6))
 
 [^M_F_96fc23fb-b9a3-492a-b511-b310f9e8e8ec]: Textual amendment: S. 75 and cross-heading renumbered as s. 84A and cross-heading (11.11.2020) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 5(4)](https://www.legislation.gov.uk/asp/2020/18/section/5/4), [18(1)](https://www.legislation.gov.uk/asp/2020/18/section/18/1) (with [s. 6](https://www.legislation.gov.uk/asp/2020/18/section/6))
 
-[^key-3daa4793edf319c1cd2619e21559d3b7]: Textual amendment: [Pt. 2 Ch. 7](https://www.legislation.gov.uk/asp/2018/9/part/2/chapter/7) title omitted (11.10.2021) by virtue of [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 7(2)](https://www.legislation.gov.uk/asp/2020/18/section/7/2), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3) (with [s. 8](https://www.legislation.gov.uk/asp/2020/18/section/8)); [S.S.I. 2021/338](https://www.legislation.gov.uk/ssi/2021/338), [reg. 2](https://www.legislation.gov.uk/ssi/2021/338/regulation/2)
+[^c-3daa4793edf319c1cd2619e21559d3b7]: Textual amendment: [Pt. 2 Ch. 7](https://www.legislation.gov.uk/asp/2018/9/part/2/chapter/7) title omitted (11.10.2021) by virtue of [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 7(2)](https://www.legislation.gov.uk/asp/2020/18/section/7/2), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3) (with [s. 8](https://www.legislation.gov.uk/asp/2020/18/section/8)); [S.S.I. 2021/338](https://www.legislation.gov.uk/ssi/2021/338), [reg. 2](https://www.legislation.gov.uk/ssi/2021/338/regulation/2)
 
 [^M_F_f84f904f-86b9-44ae-eafa-5557faee4bba]: Textual amendment: S. 84A: s. 75 and cross-heading renumbered as s. 84A and cross-heading (11.11.2020) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 5(4)](https://www.legislation.gov.uk/ssi/2018/250/section/5/4), [18(1)](https://www.legislation.gov.uk/ssi/2018/250/section/18/1) (with [s. 6](https://www.legislation.gov.uk/ssi/2018/250/section/6))
 
 [^M_F_e94016db-69f9-4e6b-a936-bc508a9eb49b]: Textual amendment: S. 84C: s. 53 and cross-heading renumbered as s. 84C and cross-heading (26.7.2021) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 9(2)](https://www.legislation.gov.uk/asp/2020/18/section/9/2), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3) (with [s. 10](https://www.legislation.gov.uk/asp/2020/18/section/10)); [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/c)
 
-[^key-9d2461510b0bd76499829f6329d129d8]: Textual amendment: S. 85A and cross-heading inserted (11.11.2020) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 1(2)](https://www.legislation.gov.uk/asp/2020/18/section/1/2), [18(1)](https://www.legislation.gov.uk/asp/2020/18/section/18/1)
+[^c-9d2461510b0bd76499829f6329d129d8]: Textual amendment: S. 85A and cross-heading inserted (11.11.2020) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 1(2)](https://www.legislation.gov.uk/asp/2020/18/section/1/2), [18(1)](https://www.legislation.gov.uk/asp/2020/18/section/18/1)
 
-[^key-f432f452365d8433f488ceb16b6359aa]: Textual amendment: [S. 86A](https://www.legislation.gov.uk/asp/2018/9/section/86A) cross-heading inserted (11.10.2021) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 7(5)](https://www.legislation.gov.uk/asp/2020/18/section/7/5), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3) (with [s. 8](https://www.legislation.gov.uk/asp/2020/18/section/8)); [S.S.I. 2021/338](https://www.legislation.gov.uk/ssi/2021/338), [reg. 2](https://www.legislation.gov.uk/ssi/2021/338/regulation/2)
+[^c-f432f452365d8433f488ceb16b6359aa]: Textual amendment: [S. 86A](https://www.legislation.gov.uk/asp/2018/9/section/86A) cross-heading inserted (11.10.2021) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 7(5)](https://www.legislation.gov.uk/asp/2020/18/section/7/5), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3) (with [s. 8](https://www.legislation.gov.uk/asp/2020/18/section/8)); [S.S.I. 2021/338](https://www.legislation.gov.uk/ssi/2021/338), [reg. 2](https://www.legislation.gov.uk/ssi/2021/338/regulation/2)
 
 [^M_F_9fd1212e-34e4-4753-d67a-7f13a9240224]: Textual amendment: S. 86A: s. 77 renumbered as s. 86A (11.10.2021) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 7(3)](https://www.legislation.gov.uk/asp/2020/18/section/7/3), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3) (with [s. 8](https://www.legislation.gov.uk/asp/2020/18/section/8)); [S.S.I. 2021/338](https://www.legislation.gov.uk/ssi/2021/338), [reg. 2](https://www.legislation.gov.uk/ssi/2021/338/regulation/2)
 
-[^key-6cd7db4973c9ee0918404f9ebe7ca16f]: Textual amendment: S. 87A and cross-heading inserted (11.11.2020) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 14(3)](https://www.legislation.gov.uk/asp/2020/18/section/14/3), [18(1)](https://www.legislation.gov.uk/asp/2020/18/section/18/1)
+[^c-6cd7db4973c9ee0918404f9ebe7ca16f]: Textual amendment: S. 87A and cross-heading inserted (11.11.2020) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 14(3)](https://www.legislation.gov.uk/asp/2020/18/section/14/3), [18(1)](https://www.legislation.gov.uk/asp/2020/18/section/18/1)
 
-[^key-15473c52603be604652a346d4fb5b7af]: Textual amendment: [Ss. 87B-87E](https://www.legislation.gov.uk/asp/2018/9/section/87B) and cross-heading inserted (15.12.2025 for specified purposes) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 18(2)](https://www.legislation.gov.uk/asp/2025/2/section/18/2), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/377](https://www.legislation.gov.uk/ssi/2025/377), [reg. 2](https://www.legislation.gov.uk/ssi/2025/377/regulation/2)
+[^c-15473c52603be604652a346d4fb5b7af]: Textual amendment: [Ss. 87B-87E](https://www.legislation.gov.uk/asp/2018/9/section/87B) and cross-heading inserted (15.12.2025 for specified purposes) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 18(2)](https://www.legislation.gov.uk/asp/2025/2/section/18/2), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/377](https://www.legislation.gov.uk/ssi/2025/377), [reg. 2](https://www.legislation.gov.uk/ssi/2025/377/regulation/2)
 
-[^key-230d1c8d1b4f5812a3977364d4ac39f2]: Textual amendment: Pt. 5A inserted (10.5.2025) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 2(2)](https://www.legislation.gov.uk/asp/2025/2/section/2/2), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)
+[^c-230d1c8d1b4f5812a3977364d4ac39f2]: Textual amendment: Pt. 5A inserted (10.5.2025) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 2(2)](https://www.legislation.gov.uk/asp/2025/2/section/2/2), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)

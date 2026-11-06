@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — Application of these Regulations to the Crown[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+## SCHEDULE 4 — Application of these Regulations to the Crown[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 *Extent: E+W*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Regulation 11
 
-### 1. Crown application[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### 1. Crown application[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Contravention of these Regulations by the Crown[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### 2. Contravention of these Regulations by the Crown[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Entry to Crown premises[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### 3. Entry to Crown premises[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Service on certain Crown operators[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### 4. Service on certain Crown operators[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4ad98ce386a488f02e2210ec9e21b3b6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/3538) revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/1)
+[^c-4ad98ce386a488f02e2210ec9e21b3b6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/3538) revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41A. Accommodation in specified conditions – coronavirus[^key-56bd0138ba33cfca34896600fb80170d]
+## 41A. Accommodation in specified conditions – coronavirus[^c-56bd0138ba33cfca34896600fb80170d]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56bd0138ba33cfca34896600fb80170d]: Textual amendment: [Rule 41A](https://www.legislation.gov.uk/ssi/2011/331/rule/41A) inserted (7.4.2020 at 2.15 p.m.) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2020 (S.S.I. 2020/122)](https://www.legislation.gov.uk/ssi/2020/122), [rules 1](https://www.legislation.gov.uk/ssi/2020/122/rule/1), [2(10)](https://www.legislation.gov.uk/ssi/2020/122/rule/2/10)
+[^c-56bd0138ba33cfca34896600fb80170d]: Textual amendment: [Rule 41A](https://www.legislation.gov.uk/ssi/2011/331/rule/41A) inserted (7.4.2020 at 2.15 p.m.) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2020 (S.S.I. 2020/122)](https://www.legislation.gov.uk/ssi/2020/122), [rules 1](https://www.legislation.gov.uk/ssi/2020/122/rule/1), [2(10)](https://www.legislation.gov.uk/ssi/2020/122/rule/2/10)

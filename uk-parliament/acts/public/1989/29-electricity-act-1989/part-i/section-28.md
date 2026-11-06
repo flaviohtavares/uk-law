@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Power to require information etc.[^key-e1bce7f0e8d798e8ae3816cb161b62bb][^key-540afd65dd3edb45e923d55035bb73cc][^key-9a72de45f432c034cb1c767380f08562][^key-31495bd4070a0cbdaa07485ef1b81c6f]
+## 28. Power to require information etc.[^c-e1bce7f0e8d798e8ae3816cb161b62bb][^c-540afd65dd3edb45e923d55035bb73cc][^c-9a72de45f432c034cb1c767380f08562][^c-31495bd4070a0cbdaa07485ef1b81c6f]
 
 *Extent: E+W+S*
 
-(1) Where it appears to the Authority that a[^c4112781] regulated person[^key-e615515538f58cabf1dcd48eba323dfe] —
+(1) Where it appears to the Authority that a[^c4112781] regulated person[^c-e615515538f58cabf1dcd48eba323dfe] —
 
 - (a) may be contravening, or may have contravened, any relevant condition or requirement; or
 - (b) may be failing, or may have failed, to achieve any standard of performance prescribed under section 39 or 39A,
 
-the Authority may, for any purpose connected with such of its functions under section 25 or 27A to 27O[^key-b466a9f010750b5edb96f59d4f05f1a9] as are exercisable in relation to that matter, serve a notice under subsection (2) below on any person.
+the Authority may, for any purpose connected with such of its functions under section 25 or 27A to 27O[^c-b466a9f010750b5edb96f59d4f05f1a9] as are exercisable in relation to that matter, serve a notice under subsection (2) below on any person.
 
 (2) A notice under this subsection is a notice signed by the Director and—
 
@@ -50,19 +50,19 @@ the Authority may, for any purpose connected with such of its functions under se
 
 ## Annotations
 
-[^key-e1bce7f0e8d798e8ae3816cb161b62bb]: Modification: Ss. 25-28 applied (1.4.2005) by [The Renewables Obligation (Scotland) Order 2005 (S.S.I. 2005/185)](https://www.legislation.gov.uk/ssi/2005/185), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2005/185/article/1/1), [18(22)](https://www.legislation.gov.uk/ssi/2005/185/article/18/22)
+[^c-e1bce7f0e8d798e8ae3816cb161b62bb]: Modification: Ss. 25-28 applied (1.4.2005) by [The Renewables Obligation (Scotland) Order 2005 (S.S.I. 2005/185)](https://www.legislation.gov.uk/ssi/2005/185), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2005/185/article/1/1), [18(22)](https://www.legislation.gov.uk/ssi/2005/185/article/18/22)
 
-[^key-540afd65dd3edb45e923d55035bb73cc]: Modification: Ss. 25-28 applied (1.4.2006) by [The Renewables Obligation (Scotland) Order 2006 (S.S.I. 2006/173)](https://www.legislation.gov.uk/ssi/2006/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/173/article/1/1), [24(8)](https://www.legislation.gov.uk/ssi/2006/173/article/24/8)
+[^c-540afd65dd3edb45e923d55035bb73cc]: Modification: Ss. 25-28 applied (1.4.2006) by [The Renewables Obligation (Scotland) Order 2006 (S.S.I. 2006/173)](https://www.legislation.gov.uk/ssi/2006/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/173/article/1/1), [24(8)](https://www.legislation.gov.uk/ssi/2006/173/article/24/8)
 
-[^key-9a72de45f432c034cb1c767380f08562]: Modification: Ss. 25-28 applied (with modifications) (S.) (1.4.2007) by [The Renewables Obligation (Scotland) Order 2007 (S.S.I. 2007/267)](https://www.legislation.gov.uk/ssi/2007/267), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2007/267/article/1/1), [31](https://www.legislation.gov.uk/ssi/2007/267/article/31)
+[^c-9a72de45f432c034cb1c767380f08562]: Modification: Ss. 25-28 applied (with modifications) (S.) (1.4.2007) by [The Renewables Obligation (Scotland) Order 2007 (S.S.I. 2007/267)](https://www.legislation.gov.uk/ssi/2007/267), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2007/267/article/1/1), [31](https://www.legislation.gov.uk/ssi/2007/267/article/31)
 
-[^key-31495bd4070a0cbdaa07485ef1b81c6f]: Modification: Ss. 25-28 applied (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [74(6)](https://www.legislation.gov.uk/uksi/2015/1947/article/74/6)
+[^c-31495bd4070a0cbdaa07485ef1b81c6f]: Modification: Ss. 25-28 applied (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [74(6)](https://www.legislation.gov.uk/uksi/2015/1947/article/74/6)
 
 [^c4112781]: Textual amendment: Words and s. 28(1)(a)(b) substituted for words in s. 28(1) (1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 59(2)](https://www.legislation.gov.uk/ukpga/2000/27/section/59/2); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-e615515538f58cabf1dcd48eba323dfe]: Textual amendment: Words in s. 28(1) substituted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [39(3)(h)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/39/3/h)
+[^c-e615515538f58cabf1dcd48eba323dfe]: Textual amendment: Words in s. 28(1) substituted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [39(3)(h)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/39/3/h)
 
-[^key-b466a9f010750b5edb96f59d4f05f1a9]: Textual amendment: Word in s. 28(1) substituted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(2)(h)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2/h), [Sch. 14 para. 2(5)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/14/paragraph/3/5)
+[^c-b466a9f010750b5edb96f59d4f05f1a9]: Textual amendment: Word in s. 28(1) substituted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(2)(h)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2/h), [Sch. 14 para. 2(5)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/14/paragraph/3/5)
 
 [^c4112791]: Textual amendment: S. 28(2A) inserted (20.12.2000) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 108](https://www.legislation.gov.uk/ukpga/2000/27/section/108), [Sch. 6 Pt. II para. 29(2)](https://www.legislation.gov.uk/ukpga/2000/27/schedule/6/part/II/paragraph/29/2); [S.I. 2000/3343](https://www.legislation.gov.uk/uksi/2000/3343), [art. 2](https://www.legislation.gov.uk/uksi/2000/3343/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/3343/schedule) (subject to transitional provisions in [arts. 3-15](https://www.legislation.gov.uk/uksi/2000/3343/article/3)) (as amended by [S.I. 2001/1780](https://www.legislation.gov.uk/uksi/2001/1780), [art. 2](https://www.legislation.gov.uk/uksi/2001/1780/article/2))
 

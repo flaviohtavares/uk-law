@@ -37,74 +37,74 @@ providing for a derogation from certain provisions of Council Directive 2000/29/
 
 (2005/477/EC) (revoked)
 
-[^key-bd4ae81a514442e6c1d7288db35ed5e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bd4ae81a514442e6c1d7288db35ed5e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-bd4ae81a514442e6c1d7288db35ed5e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-bd4ae81a514442e6c1d7288db35ed5e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-bd4ae81a514442e6c1d7288db35ed5e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-bd4ae81a514442e6c1d7288db35ed5e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-bd4ae81a514442e6c1d7288db35ed5e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-bd4ae81a514442e6c1d7288db35ed5e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-bd4ae81a514442e6c1d7288db35ed5e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-bd4ae81a514442e6c1d7288db35ed5e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bd4ae81a514442e6c1d7288db35ed5e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bd4ae81a514442e6c1d7288db35ed5e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Specific conditions applying to plants of Vitis L., other than fruits, originating in Croatia benefiting from the derogation provided for in Article 1[^key-bd4ae81a514442e6c1d7288db35ed5e7]
+## ANNEX — Specific conditions applying to plants of Vitis L., other than fruits, originating in Croatia benefiting from the derogation provided for in Article 1[^c-bd4ae81a514442e6c1d7288db35ed5e7]
 
-[^key-bd4ae81a514442e6c1d7288db35ed5e7]1.
+[^c-bd4ae81a514442e6c1d7288db35ed5e7]1.
 
 The plants shall be propagating material in the form of dormant buds of the varieties Babić, Borgonja, Dišeča belina, Graševina, Grk, Hrvatica, Kraljevina, Malvazija istarska, Maraština, Malvasija, Muškat momjanski, Muškat ruža porečki, Plavac mali, Plavina-Plavka, Pošip, Škrlet, Teran, Trnjak, Plavac veli, Vugava or Žlahtina that shall be:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bd4ae81a514442e6c1d7288db35ed5e7]2.
+[^c-bd4ae81a514442e6c1d7288db35ed5e7]2.
 
 The plants shall be accompanied by a phytosanitary certificate issued in Croatia in accordance with Article 13(1) of Directive 2000/29/EC, on the basis of the examination laid down therein, confirming, in particular, freedom from the following harmful organisms:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bd4ae81a514442e6c1d7288db35ed5e7]3.
+[^c-bd4ae81a514442e6c1d7288db35ed5e7]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bd4ae81a514442e6c1d7288db35ed5e7]4.
+[^c-bd4ae81a514442e6c1d7288db35ed5e7]4.
 
 The plants shall be introduced through points of entry designated for the purpose by the Member State in which they are situated.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bd4ae81a514442e6c1d7288db35ed5e7]5.
+[^c-bd4ae81a514442e6c1d7288db35ed5e7]5.
 
 Prior to introduction into the Community, the importer shall be officially informed of the conditions laid down in points 1 to 4; the said importer shall notify details of each introduction sufficiently in advance to the responsible official bodies in the Member State of introduction and that Member State, without delay, shall convey the details of the notification to the Commission, indicating:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bd4ae81a514442e6c1d7288db35ed5e7]6.
+[^c-bd4ae81a514442e6c1d7288db35ed5e7]6.
 
 The inspections, including testing, as appropriate, required pursuant to Article 13 of Directive 2000/29/EC and in accordance with provisions laid down in the present Decision, shall be made by the responsible official bodies of the Member State making use of this authorisation, and where appropriate, in cooperation with the responsible official bodies of the Member State where the plants are to be stored.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bd4ae81a514442e6c1d7288db35ed5e7]7.
+[^c-bd4ae81a514442e6c1d7288db35ed5e7]7.
 
 The plants shall be grafted only at premises officially registered and approved for the purposes of this authorisation.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bd4ae81a514442e6c1d7288db35ed5e7]8.
+[^c-bd4ae81a514442e6c1d7288db35ed5e7]8.
 
 At the premises referred to in point 7:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bd4ae81a514442e6c1d7288db35ed5e7]9.
+[^c-bd4ae81a514442e6c1d7288db35ed5e7]9.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bd4ae81a514442e6c1d7288db35ed5e7]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-bd4ae81a514442e6c1d7288db35ed5e7]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

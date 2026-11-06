@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Power to give fixed penalty notices[^key-7d2733c7a06219ef11fe2adbbd6317ca][^key-b9ba1823c888e3211b57a7543c5ec8d0][^key-60e99afb0200b1018ff12ef1bc481002][^key-5f93ed1554be25e2900d9caa3923bdb4]
+## 6. Power to give fixed penalty notices[^c-7d2733c7a06219ef11fe2adbbd6317ca][^c-b9ba1823c888e3211b57a7543c5ec8d0][^c-60e99afb0200b1018ff12ef1bc481002][^c-5f93ed1554be25e2900d9caa3923bdb4]
 
 *Extent: E+W*
 
@@ -60,10 +60,10 @@ is evidence of the facts stated.
 
 ## Annotations
 
-[^key-7d2733c7a06219ef11fe2adbbd6317ca]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2005/16/section/6) in force at 14.3.2006 for specified purposes for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/795/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/795/schedule/1)
+[^c-7d2733c7a06219ef11fe2adbbd6317ca]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2005/16/section/6) in force at 14.3.2006 for specified purposes for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/795/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/795/schedule/1)
 
-[^key-b9ba1823c888e3211b57a7543c5ec8d0]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2005/16/section/6) in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 3](https://www.legislation.gov.uk/wsi/2006/768/article/3)
+[^c-b9ba1823c888e3211b57a7543c5ec8d0]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2005/16/section/6) in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 3](https://www.legislation.gov.uk/wsi/2006/768/article/3)
 
-[^key-60e99afb0200b1018ff12ef1bc481002]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2005/16/section/6) in force at 6.4.2006 for E. in so far as not already in force by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
+[^c-60e99afb0200b1018ff12ef1bc481002]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2005/16/section/6) in force at 6.4.2006 for E. in so far as not already in force by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
 
-[^key-5f93ed1554be25e2900d9caa3923bdb4]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2005/16/section/6) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. in so far as not already in force by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(a)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/a)
+[^c-5f93ed1554be25e2900d9caa3923bdb4]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2005/16/section/6) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. in so far as not already in force by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(a)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/a)

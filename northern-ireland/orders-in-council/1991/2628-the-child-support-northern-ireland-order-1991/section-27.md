@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Where a person who is alleged to be a parent of the child with respect to whom an application for a maintenance calculation[^c21006911] has been made [^key-984302c5483303c6e53d14e6fe4253af]... (“the alleged parent”) denies that he is one of the child's parents, the Department[^c16851041] shall not make a maintenance calculation on the assumption that the alleged parent is one of the child's parents unless the case falls within one of those set out in paragraph (2).
+(1) Where a person who is alleged to be a parent of the child with respect to whom an application for a maintenance calculation[^c21006911] has been made [^c-984302c5483303c6e53d14e6fe4253af]... (“the alleged parent”) denies that he is one of the child's parents, the Department[^c16851041] shall not make a maintenance calculation on the assumption that the alleged parent is one of the child's parents unless the case falls within one of those set out in paragraph (2).
 
 (2) The Cases are—
 
@@ -29,7 +29,7 @@ CASE A1[^c20958161]
 Where—
 
 - (a) the child is habitually resident in Northern Ireland;
-- (b) the Department is satisfied that the alleged parent is a man who was married to, or the civil partner of,[^key-a481d838c8972601080f77b5e8dcdb1d] the child's mother at some time in the period beginning with the conception and ending with the birth of the child; and
+- (b) the Department is satisfied that the alleged parent is a man who was married to, or the civil partner of,[^c-a481d838c8972601080f77b5e8dcdb1d] the child's mother at some time in the period beginning with the conception and ending with the birth of the child; and
 - (c) the child has not been adopted.
 
 CASE A2
@@ -51,9 +51,9 @@ CASE A
 
 Where the alleged parent is a parent of the child in question by virtue of having adopted him.
 
-CASE B[^key-0d42684ba05ef96e90d24c0a5a74b217]
+CASE B[^c-0d42684ba05ef96e90d24c0a5a74b217]
 
-Where the alleged parent is a parent of the child in question by virtue of an order under section 30 of the Human Fertilisation and Embryology Act 1990 or section 54 or 54A[^key-9350f292d3f90ee0c1d4f53258bebdf2] of the Human Fertilisation and Embryology Act 2008 (parental orders).
+Where the alleged parent is a parent of the child in question by virtue of an order under section 30 of the Human Fertilisation and Embryology Act 1990 or section 54 or 54A[^c-9350f292d3f90ee0c1d4f53258bebdf2] of the Human Fertilisation and Embryology Act 2008 (parental orders).
 
 CASE B1
 
@@ -95,17 +95,17 @@ Where—
 
 [^c21006911]: Textual amendment: Words in [art. 27(1)](https://www.legislation.gov.uk/nisi/1991/2628/article/27/1) substituted (3.3.2003 for specified purposes) by [Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4)](https://www.legislation.gov.uk/nia/2000/4), [ss. 1(2)(a)](https://www.legislation.gov.uk/nia/2000/4/section/1/2/a), [68(2)](https://www.legislation.gov.uk/nia/2000/4/section/68/2); [S.R. 2003/53](https://www.legislation.gov.uk/nisr/2003/53), [art. 3(1)](https://www.legislation.gov.uk/nisr/2003/53/article/3/1), [Sch.](https://www.legislation.gov.uk/nisr/2003/53/schedule)
 
-[^key-984302c5483303c6e53d14e6fe4253af]: Textual amendment: Words in [art. 27(1)](https://www.legislation.gov.uk/nisi/1991/2628/article/27/1) repealed (27.10.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 5](https://www.legislation.gov.uk/nia/2008/10/schedule/5) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2008/399](https://www.legislation.gov.uk/nisr/2008/399), [art. 2(2)(d)(i)](https://www.legislation.gov.uk/nisr/2008/399/article/2/2/d/i) (with [art. 3](https://www.legislation.gov.uk/nisr/2008/399/article/3))
+[^c-984302c5483303c6e53d14e6fe4253af]: Textual amendment: Words in [art. 27(1)](https://www.legislation.gov.uk/nisi/1991/2628/article/27/1) repealed (27.10.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 5](https://www.legislation.gov.uk/nia/2008/10/schedule/5) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2008/399](https://www.legislation.gov.uk/nisr/2008/399), [art. 2(2)(d)(i)](https://www.legislation.gov.uk/nisr/2008/399/article/2/2/d/i) (with [art. 3](https://www.legislation.gov.uk/nisr/2008/399/article/3))
 
 [^c16851041]: Textual amendment: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 
 [^c20958161]: Textual amendment: [2000 c. 4 (NI)](https://www.legislation.gov.uk/nia/2000/4)
 
-[^key-a481d838c8972601080f77b5e8dcdb1d]: Textual amendment: Words in [art. 27(2)(b)](https://www.legislation.gov.uk/nisi/1991/2628/article/27/2/b) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [64(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/64/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-a481d838c8972601080f77b5e8dcdb1d]: Textual amendment: Words in [art. 27(2)(b)](https://www.legislation.gov.uk/nisi/1991/2628/article/27/2/b) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [64(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/64/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-0d42684ba05ef96e90d24c0a5a74b217]: Textual amendment: Words in [art. 27](https://www.legislation.gov.uk/nisi/1991/2628/article/27) substituted (6.4.2009 for specified purposes, 6.4.2010 in so far as not already in operation) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 6 para. 69](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/69); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(d)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule)); [S.I. 2010/987](https://www.legislation.gov.uk/uksi/2010/987), [art. 2(g)](https://www.legislation.gov.uk/uksi/2010/987/article/2/g)
+[^c-0d42684ba05ef96e90d24c0a5a74b217]: Textual amendment: Words in [art. 27](https://www.legislation.gov.uk/nisi/1991/2628/article/27) substituted (6.4.2009 for specified purposes, 6.4.2010 in so far as not already in operation) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 6 para. 69](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/69); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(d)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule)); [S.I. 2010/987](https://www.legislation.gov.uk/uksi/2010/987), [art. 2(g)](https://www.legislation.gov.uk/uksi/2010/987/article/2/g)
 
-[^key-9350f292d3f90ee0c1d4f53258bebdf2]: Textual amendment: Words in [art. 27(2)](https://www.legislation.gov.uk/nisi/1991/2628/article/27/2) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/6)
+[^c-9350f292d3f90ee0c1d4f53258bebdf2]: Textual amendment: Words in [art. 27(2)](https://www.legislation.gov.uk/nisi/1991/2628/article/27/2) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/6)
 
 [^c20958211]: Textual amendment: [1995 NI 2](https://www.legislation.gov.uk/1995/ni2)
 

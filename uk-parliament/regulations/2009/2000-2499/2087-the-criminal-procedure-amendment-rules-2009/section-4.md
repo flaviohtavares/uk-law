@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**4.**[^key-0248bbb091402e726b0eb1674dcd6f92] After rule 3.8 (3) (Case preparation and progression), insert—
+**4.**[^c-0248bbb091402e726b0eb1674dcd6f92] After rule 3.8 (3) (Case preparation and progression), insert—
 
 > (4) In order to prepare for the trial, the court must take every reasonable step to encourage and to facilitate the attendance of witnesses when they are needed.
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0248bbb091402e726b0eb1674dcd6f92]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2009/2087/article/4) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
+[^c-0248bbb091402e726b0eb1674dcd6f92]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2009/2087/article/4) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)

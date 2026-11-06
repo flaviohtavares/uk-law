@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Transfer schemes in connection with transfer of primary care functions[^key-30acd2a2336457524a63b8258e307cb0]
+## 23. Transfer schemes in connection with transfer of primary care functions[^c-30acd2a2336457524a63b8258e307cb0]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30acd2a2336457524a63b8258e307cb0]: Commencement: S. 23 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-30acd2a2336457524a63b8258e307cb0]: Commencement: S. 23 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)

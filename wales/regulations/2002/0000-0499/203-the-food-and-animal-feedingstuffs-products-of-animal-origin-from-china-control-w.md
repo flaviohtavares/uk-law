@@ -33,7 +33,7 @@ FOOD, WALES
 
 AGRICULTURE, WALES
 
-The Food and Animal Feedingstuffs (Products of Animal Origin from China) (Control) (Wales) Regulations 2002 (revoked)[^key-1745fda0e5d1985bacafb7d75f0fc8e7]
+The Food and Animal Feedingstuffs (Products of Animal Origin from China) (Control) (Wales) Regulations 2002 (revoked)[^c-1745fda0e5d1985bacafb7d75f0fc8e7]
 
 Made
 
@@ -43,40 +43,40 @@ Coming into force
 
 2nd February 2002
 
-[^key-1745fda0e5d1985bacafb7d75f0fc8e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1745fda0e5d1985bacafb7d75f0fc8e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-1745fda0e5d1985bacafb7d75f0fc8e7]
+## 1. Title, commencement and extent[^c-1745fda0e5d1985bacafb7d75f0fc8e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-1745fda0e5d1985bacafb7d75f0fc8e7]
+## 2. Interpretation[^c-1745fda0e5d1985bacafb7d75f0fc8e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Disapplication[^key-1745fda0e5d1985bacafb7d75f0fc8e7]
+## 3. Disapplication[^c-1745fda0e5d1985bacafb7d75f0fc8e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prohibition of importation and offence[^key-1745fda0e5d1985bacafb7d75f0fc8e7]
+## 4. Prohibition of importation and offence[^c-1745fda0e5d1985bacafb7d75f0fc8e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Enforcement[^key-1745fda0e5d1985bacafb7d75f0fc8e7]
+## 5. Enforcement[^c-1745fda0e5d1985bacafb7d75f0fc8e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Application of various provisions of the Act[^key-1745fda0e5d1985bacafb7d75f0fc8e7]
+## 6. Application of various provisions of the Act[^c-1745fda0e5d1985bacafb7d75f0fc8e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1745fda0e5d1985bacafb7d75f0fc8e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1745fda0e5d1985bacafb7d75f0fc8e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1745fda0e5d1985bacafb7d75f0fc8e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1745fda0e5d1985bacafb7d75f0fc8e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1745fda0e5d1985bacafb7d75f0fc8e7]: Textual amendment: Regulations revoked (12.7.2002) by [The Food and Animal Feedingstuffs (Products of Animal Origin from China) (Emergency Control) (Wales) Regulations 2002 (S.I. 2002/1798)](https://www.legislation.gov.uk/uksi/2002/1798), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/1798/regulation/6), [6](https://www.legislation.gov.uk/uksi/2002/1798/regulation/6)
+[^c-1745fda0e5d1985bacafb7d75f0fc8e7]: Textual amendment: Regulations revoked (12.7.2002) by [The Food and Animal Feedingstuffs (Products of Animal Origin from China) (Emergency Control) (Wales) Regulations 2002 (S.I. 2002/1798)](https://www.legislation.gov.uk/uksi/2002/1798), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/1798/regulation/6), [6](https://www.legislation.gov.uk/uksi/2002/1798/regulation/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Control of donations to candidates.[^c10575051][^key-07701b572f71e49e814c8a7aa1ec258a]
+## 130. Control of donations to candidates.[^c10575051][^c-07701b572f71e49e814c8a7aa1ec258a]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,14 +45,14 @@ summary: ''
 
 (3) The provisions set out in Schedule 16 shall be inserted as Schedule 2A to that Act.
 
-(4)[^key-b17c6bde99d241dd4716b16c4d842e93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-b17c6bde99d241dd4716b16c4d842e93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c10575051]: Commencement: S. 130 wholly in force at 1.7.2001; s. 130 not in force at Royal Assent, see s. 163(2); s. 130 in force at 1.7.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 4](https://www.legislation.gov.uk/uksi/2001/222/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/222/schedule/2) (with [Sch. 2 Pt. II para. 1](https://www.legislation.gov.uk/uksi/2001/222/schedule/2/part/II/paragraph/1))
 
-[^key-07701b572f71e49e814c8a7aa1ec258a]: Modification: S. 130 applied (S.) (29.9.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 21(1)](https://www.legislation.gov.uk/asp/2020/12/section/21/1), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2021/311](https://www.legislation.gov.uk/ssi/2021/311), [reg. 2](https://www.legislation.gov.uk/ssi/2021/311/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/311/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/311/regulation/3))
+[^c-07701b572f71e49e814c8a7aa1ec258a]: Modification: S. 130 applied (S.) (29.9.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 21(1)](https://www.legislation.gov.uk/asp/2020/12/section/21/1), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2021/311](https://www.legislation.gov.uk/ssi/2021/311), [reg. 2](https://www.legislation.gov.uk/ssi/2021/311/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/311/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/311/regulation/3))
 
 [^c10575061]: Marginal citation: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2).
 
-[^key-b17c6bde99d241dd4716b16c4d842e93]: Textual amendment: [S. 130(4)](https://www.legislation.gov.uk/ukpga/2000/41/section/130/4) repealed (29.9.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 21(1)](https://www.legislation.gov.uk/asp/2020/12/section/21/1), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2021/311](https://www.legislation.gov.uk/ssi/2021/311), [reg. 2](https://www.legislation.gov.uk/ssi/2021/311/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/311/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/311/regulation/3))
+[^c-b17c6bde99d241dd4716b16c4d842e93]: Textual amendment: [S. 130(4)](https://www.legislation.gov.uk/ukpga/2000/41/section/130/4) repealed (29.9.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 21(1)](https://www.legislation.gov.uk/asp/2020/12/section/21/1), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2021/311](https://www.legislation.gov.uk/ssi/2021/311), [reg. 2](https://www.legislation.gov.uk/ssi/2021/311/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/311/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/311/regulation/3))

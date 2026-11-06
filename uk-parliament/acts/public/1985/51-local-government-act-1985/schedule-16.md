@@ -53,7 +53,7 @@ Section 102.
 
 ### The Local Government, Planning and Land Act 1980 (c.65)
 
-**9.**[^key-ccde9a5633d43bf6591000a41e39fe49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-ccde9a5633d43bf6591000a41e39fe49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Representation of the People Act 1983 (c.2)
 
@@ -71,6 +71,6 @@ Section 102.
 
 [^c3170461]: Textual amendment: [Sch. 16 paras. 4-6](https://www.legislation.gov.uk/ukpga/1985/51/schedule/16/paragraph/4) repealed (31.10.1992) by [Local Government Act 1992 (c. 19)](https://www.legislation.gov.uk/ukpga/1992/19), [s. 29](https://www.legislation.gov.uk/ukpga/1992/19/section/29), [Sch. 4](https://www.legislation.gov.uk/ukpga/1992/19/schedule/4), [Pt.II](https://www.legislation.gov.uk/ukpga/1992/19/part/II); [S.I. 1992/2371](https://www.legislation.gov.uk/uksi/1992/2371), [art.2](https://www.legislation.gov.uk/uksi/1992/2371/article/2)
 
-[^key-ccde9a5633d43bf6591000a41e39fe49]: Textual amendment: [Sch. 16 para. 9](https://www.legislation.gov.uk/ukpga/1985/51/schedule/16/paragraph/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
+[^c-ccde9a5633d43bf6591000a41e39fe49]: Textual amendment: [Sch. 16 para. 9](https://www.legislation.gov.uk/ukpga/1985/51/schedule/16/paragraph/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
 
 [^c3170471]: Textual amendment: [Sch. 16 para. 10](https://www.legislation.gov.uk/ukpga/1985/51/schedule/16/paragraph/10) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [Sch. 1 Pt. X](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/X) Group 1.

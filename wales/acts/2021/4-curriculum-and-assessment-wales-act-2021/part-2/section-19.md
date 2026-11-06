@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Introduction[^key-550493789420f567d3b454d2072e3cf9][^key-8cb6d6ae106fc5aa02506a29865639f8][^key-076e2e49a4507b40bdd1f45fdf11df5a][^key-934e61cf697c7f428ed11e183fc15465][^key-d36da6124e7c5de2762d7f6c2b462888]
+## 19. Introduction[^c-550493789420f567d3b454d2072e3cf9][^c-8cb6d6ae106fc5aa02506a29865639f8][^c-076e2e49a4507b40bdd1f45fdf11df5a][^c-934e61cf697c7f428ed11e183fc15465][^c-d36da6124e7c5de2762d7f6c2b462888]
 
 *Extent: E+W*
 
@@ -35,12 +35,12 @@ summary: ''
 
 ## Annotations
 
-[^key-550493789420f567d3b454d2072e3cf9]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2021/4/section/19) in force at 1.9.2022 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 5(1)](https://www.legislation.gov.uk/wsi/2022/652/article/5/1)[(2)(a)](https://www.legislation.gov.uk/wsi/2022/652/article/5/2/a), [Sch.](https://www.legislation.gov.uk/wsi/2022/652/schedule)
+[^c-550493789420f567d3b454d2072e3cf9]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2021/4/section/19) in force at 1.9.2022 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 5(1)](https://www.legislation.gov.uk/wsi/2022/652/article/5/1)[(2)(a)](https://www.legislation.gov.uk/wsi/2022/652/article/5/2/a), [Sch.](https://www.legislation.gov.uk/wsi/2022/652/schedule)
 
-[^key-8cb6d6ae106fc5aa02506a29865639f8]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2021/4/section/19) in force at 1.9.2023 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 6(1)](https://www.legislation.gov.uk/wsi/2022/652/article/6/1)[(2)(a)](https://www.legislation.gov.uk/wsi/2022/652/article/6/2/a)
+[^c-8cb6d6ae106fc5aa02506a29865639f8]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2021/4/section/19) in force at 1.9.2023 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 6(1)](https://www.legislation.gov.uk/wsi/2022/652/article/6/1)[(2)(a)](https://www.legislation.gov.uk/wsi/2022/652/article/6/2/a)
 
-[^key-076e2e49a4507b40bdd1f45fdf11df5a]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2021/4/section/19) in force at 1.9.2024 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 7(a)](https://www.legislation.gov.uk/wsi/2022/652/article/7/a)
+[^c-076e2e49a4507b40bdd1f45fdf11df5a]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2021/4/section/19) in force at 1.9.2024 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 7(a)](https://www.legislation.gov.uk/wsi/2022/652/article/7/a)
 
-[^key-934e61cf697c7f428ed11e183fc15465]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2021/4/section/19) in force at 1.9.2025 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 8(a)](https://www.legislation.gov.uk/wsi/2022/652/article/8/a)
+[^c-934e61cf697c7f428ed11e183fc15465]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2021/4/section/19) in force at 1.9.2025 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 8(a)](https://www.legislation.gov.uk/wsi/2022/652/article/8/a)
 
-[^key-d36da6124e7c5de2762d7f6c2b462888]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2021/4/section/19) in force at 1.9.2026 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(a)](https://www.legislation.gov.uk/wsi/2022/652/article/9/a)
+[^c-d36da6124e7c5de2762d7f6c2b462888]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2021/4/section/19) in force at 1.9.2026 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(a)](https://www.legislation.gov.uk/wsi/2022/652/article/9/a)

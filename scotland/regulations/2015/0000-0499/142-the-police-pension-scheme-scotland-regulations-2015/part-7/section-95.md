@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 95. Deferment of added pension attributable to recent payments[^key-d826759e75abbf711142acb682b4099b]
+## 95. Deferment of added pension attributable to recent payments[^c-d826759e75abbf711142acb682b4099b]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d826759e75abbf711142acb682b4099b]: Commencement: Reg. 95 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-d826759e75abbf711142acb682b4099b]: Commencement: Reg. 95 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

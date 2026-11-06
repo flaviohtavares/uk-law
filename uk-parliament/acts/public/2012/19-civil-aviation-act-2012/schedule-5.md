@@ -24,7 +24,7 @@ Section 55
 
 ### Appeals against penalties
 
-**1.**[^key-2923d3d8820bd6e8092d81bfa209337f] (1) A person may appeal to the Competition Appeal Tribunal against a penalty imposed on the person under section 51 or 52.
+**1.**[^c-2923d3d8820bd6e8092d81bfa209337f] (1) A person may appeal to the Competition Appeal Tribunal against a penalty imposed on the person under section 51 or 52.
 
 (2) The appeal may be against one or more of the following—
 
@@ -37,7 +37,7 @@ Section 55
 
 ### Decisions on appeal
 
-**2.**[^key-0b31a173fdba9e9bffb58e19e09e48dd] (1) The Competition Appeal Tribunal may allow an appeal under paragraph 1 only to the extent that it is satisfied that the decision appealed against was wrong on one or more of the following grounds—
+**2.**[^c-0b31a173fdba9e9bffb58e19e09e48dd] (1) The Competition Appeal Tribunal may allow an appeal under paragraph 1 only to the extent that it is satisfied that the decision appealed against was wrong on one or more of the following grounds—
 
 - (a) that the decision was based on an error of fact;
 - (b) that the decision was wrong in law;
@@ -56,7 +56,7 @@ Section 55
 
 ### Further appeals
 
-**3.**[^key-b623bfee161def74560e82de4f83c639] (1) An appeal lies to the appropriate court on a point of law arising from a decision of the Competition Appeal Tribunal under paragraph 2, including a direction.
+**3.**[^c-b623bfee161def74560e82de4f83c639] (1) An appeal lies to the appropriate court on a point of law arising from a decision of the Competition Appeal Tribunal under paragraph 2, including a direction.
 
 (2) An appeal under this paragraph may be brought by a party to the proceedings before the Competition Appeal Tribunal.
 
@@ -72,8 +72,8 @@ Section 55
 
 ## Annotations
 
-[^key-2923d3d8820bd6e8092d81bfa209337f]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2012/19/schedule/5/paragraph/1) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-2923d3d8820bd6e8092d81bfa209337f]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2012/19/schedule/5/paragraph/1) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-0b31a173fdba9e9bffb58e19e09e48dd]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2012/19/schedule/5/paragraph/2) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-0b31a173fdba9e9bffb58e19e09e48dd]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2012/19/schedule/5/paragraph/2) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-b623bfee161def74560e82de4f83c639]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2012/19/schedule/5/paragraph/3) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-b623bfee161def74560e82de4f83c639]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2012/19/schedule/5/paragraph/3) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

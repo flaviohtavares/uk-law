@@ -22,7 +22,7 @@ summary: ''
 
 Section 68
 
-### 1. Prohibition of parking[^key-bb3fe28597cd6d24b5c6b2fe44a27291]
+### 1. Prohibition of parking[^c-bb3fe28597cd6d24b5c6b2fe44a27291]
 
 (1) The Secretary of State may make regulations for the purpose of giving each English local transport authority the power to impose a prohibition on the parking of motor vehicles on the footways and verges which form part of the relevant highways in the authority’s area.
 
@@ -36,14 +36,14 @@ Section 68
 
 (6) Paragraphs 2 to 9 deal with particular kinds of provision that may be made by parking regulations.
 
-### 2. Imposition of, and publicity for, a parking prohibition[^key-64c694a1b3fa2c036b1042a4d77c7ece]
+### 2. Imposition of, and publicity for, a parking prohibition[^c-64c694a1b3fa2c036b1042a4d77c7ece]
 
 Parking regulations may make provision about—
 
 - (a) the process by which, and manner in which, the power to prohibit parking is exercisable;
 - (b) the manner in which the imposition of a parking prohibition may or must be publicised.
 
-### 3. Exclusions: roads etc[^key-0a7a6b4a08e4858595fa9ac7226a8e18]
+### 3. Exclusions: roads etc[^c-0a7a6b4a08e4858595fa9ac7226a8e18]
 
 (1) Parking regulations may exclude particular descriptions of relevant highways or parts of relevant highways from parking prohibitions (including parts of relevant highways designated by, or by virtue of, an Act or secondary legislation as a place where parking is permitted).
 
@@ -56,7 +56,7 @@ from a parking prohibition.
 
 (3) Parking regulations made in accordance with this paragraph may provide for an exclusion to apply only if particular conditions are met.
 
-### 4. Exclusions: vehicles and usage[^key-287a2c05c663c7126aacc0e9245e1300]
+### 4. Exclusions: vehicles and usage[^c-287a2c05c663c7126aacc0e9245e1300]
 
 (1) Parking regulations may exclude any of the following from parking prohibitions—
 
@@ -65,7 +65,7 @@ from a parking prohibition.
 
 (2) Parking regulations made in accordance with this paragraph may provide for an exclusion to apply only if particular conditions are met.
 
-### 5. Traffic signs[^key-53cb4d3077fe19e285563989ff8c9ac9]
+### 5. Traffic signs[^c-53cb4d3077fe19e285563989ff8c9ac9]
 
 (1) Parking regulations may make provision about traffic signs relating to parking prohibitions (“relevant traffic signs”).
 
@@ -87,11 +87,11 @@ from a parking prohibition.
   - (c) a metropolitan district council;
 - “**traffic sign**” has the same meaning as in the Road Traffic Regulation Act 1984 (see section 64 of that Act).
 
-### 6. Defences[^key-ec1a2adaa3061f2a207388bba09b031a]
+### 6. Defences[^c-ec1a2adaa3061f2a207388bba09b031a]
 
 Parking regulations may provide for defences to contraventions of a parking prohibition.
 
-### 7. Consultation and guidance[^key-a76d7e5cd0baadc99225043c2e7407c2]
+### 7. Consultation and guidance[^c-a76d7e5cd0baadc99225043c2e7407c2]
 
 (1) Parking regulations may require English local transport authorities to carry out consultation in connection with the exercise of functions under parking regulations.
 
@@ -100,7 +100,7 @@ Parking regulations may provide for defences to contraventions of a parking proh
 - (a) may give the Secretary of State power to issue guidance;
 - (b) may require a person to whom the guidance is directed to have regard to it.
 
-### 8. Enforcement[^key-cb8473d41eb602d349c77e80d18d7d58]
+### 8. Enforcement[^c-cb8473d41eb602d349c77e80d18d7d58]
 
 (1) Schedule 7 to the Traffic Management Act 2004 (road traffic contraventions subject to civil enforcement) is amended in accordance with this paragraph.
 
@@ -108,18 +108,18 @@ Parking regulations may provide for defences to contraventions of a parking proh
 
 > (3) Outside Greater London there is a parking contravention in relation to a vehicle if it is parked in contravention of a prohibition imposed by an English local transport authority in accordance with regulations made under Schedule (*Prohibition of parking on footways and verges*) to the English Devolution and Community Empowerment Act 2026 (parking on footways and verges).
 
-### 9. Repeal of existing legislation[^key-b05bd84b7c427e121a79a088b7b0080b]
+### 9. Repeal of existing legislation[^c-b05bd84b7c427e121a79a088b7b0080b]
 
 Parking regulations may repeal an Act if, or to the extent that, it prohibits the parking of motor vehicles on footways and verges, or any similar part of a road, whether or not a relevant highway as defined in paragraph 11, in England, or any part of England, outside Greater London.
 
-### 10. Crown application[^key-aa9dcad6353652b6bddc73c94f9b39b3]
+### 10. Crown application[^c-aa9dcad6353652b6bddc73c94f9b39b3]
 
 This Schedule applies to the parking of—
 
 - (a) motor vehicles in the public service of the Crown that are required to be registered under the Vehicle Excise and Registration Act 1994, and
 - (b) motor vehicles belonging to, or used for the purposes of, a Minister of the Crown or Government department.
 
-### 11. Interpretation[^key-5ee857dcab0631eac5ccafae3b09d5e6]
+### 11. Interpretation[^c-5ee857dcab0631eac5ccafae3b09d5e6]
 
 In this Schedule—
 
@@ -141,24 +141,24 @@ In this Schedule—
 
 ## Annotations
 
-[^key-bb3fe28597cd6d24b5c6b2fe44a27291]: Commencement: Sch. 32 para. 1 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-bb3fe28597cd6d24b5c6b2fe44a27291]: Commencement: Sch. 32 para. 1 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
 
-[^key-64c694a1b3fa2c036b1042a4d77c7ece]: Commencement: Sch. 32 para. 2 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-64c694a1b3fa2c036b1042a4d77c7ece]: Commencement: Sch. 32 para. 2 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
 
-[^key-0a7a6b4a08e4858595fa9ac7226a8e18]: Commencement: Sch. 32 para. 3 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-0a7a6b4a08e4858595fa9ac7226a8e18]: Commencement: Sch. 32 para. 3 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
 
-[^key-287a2c05c663c7126aacc0e9245e1300]: Commencement: Sch. 32 para. 4 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-287a2c05c663c7126aacc0e9245e1300]: Commencement: Sch. 32 para. 4 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
 
-[^key-53cb4d3077fe19e285563989ff8c9ac9]: Commencement: Sch. 32 para. 5 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-53cb4d3077fe19e285563989ff8c9ac9]: Commencement: Sch. 32 para. 5 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
 
-[^key-ec1a2adaa3061f2a207388bba09b031a]: Commencement: Sch. 32 para. 6 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-ec1a2adaa3061f2a207388bba09b031a]: Commencement: Sch. 32 para. 6 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
 
-[^key-a76d7e5cd0baadc99225043c2e7407c2]: Commencement: Sch. 32 para. 7 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-a76d7e5cd0baadc99225043c2e7407c2]: Commencement: Sch. 32 para. 7 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
 
-[^key-cb8473d41eb602d349c77e80d18d7d58]: Commencement: Sch. 32 para. 8 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-cb8473d41eb602d349c77e80d18d7d58]: Commencement: Sch. 32 para. 8 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
 
-[^key-b05bd84b7c427e121a79a088b7b0080b]: Commencement: Sch. 32 para. 9 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-b05bd84b7c427e121a79a088b7b0080b]: Commencement: Sch. 32 para. 9 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
 
-[^key-aa9dcad6353652b6bddc73c94f9b39b3]: Commencement: Sch. 32 para. 10 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-aa9dcad6353652b6bddc73c94f9b39b3]: Commencement: Sch. 32 para. 10 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
 
-[^key-5ee857dcab0631eac5ccafae3b09d5e6]: Commencement: Sch. 32 para. 11 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-5ee857dcab0631eac5ccafae3b09d5e6]: Commencement: Sch. 32 para. 11 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)

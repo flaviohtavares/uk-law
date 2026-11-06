@@ -323,8 +323,8 @@ If, without reasonable excuse, a person removes, …[^c16816801], a notice or ot
 
 None of the following provisions, that is to say,—
 
-- (a)[^key-c0d4745d6c8b8bcd53ea5815f0b94bbf] Part 7 of the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (statutory nuisances);
-- (b) section 48 of the Public Health (Ireland) Act 1878[^key-193f965cc1314d95af7a9f25550e24ba] and section 22 of the Public Health Acts Amendment Act 1890 [^m00003] (provision of sanitary conveniences in certain workplaces);
+- (a)[^c-c0d4745d6c8b8bcd53ea5815f0b94bbf] Part 7 of the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (statutory nuisances);
+- (b) section 48 of the Public Health (Ireland) Act 1878[^c-193f965cc1314d95af7a9f25550e24ba] and section 22 of the Public Health Acts Amendment Act 1890 [^m00003] (provision of sanitary conveniences in certain workplaces);
 - (c) section 39 of the Public Health Acts Amendment Act 1907 [^m00004] (provision and conversion of closet accommodation);
 
 *Para.(d) rep. by 1969 c.13 (NI)*
@@ -479,9 +479,9 @@ A person required by or under a local Act to effect any alterations to, or to an
 
 [^c16816851]: Textual amendment: [1965 c.20 (NI)](https://www.legislation.gov.uk/apni/1965/20)
 
-[^key-c0d4745d6c8b8bcd53ea5815f0b94bbf]: Textual amendment: S. 72(a) substituted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 6(a)](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/6/a); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-c0d4745d6c8b8bcd53ea5815f0b94bbf]: Textual amendment: S. 72(a) substituted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 6(a)](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/6/a); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-193f965cc1314d95af7a9f25550e24ba]: Textual amendment: Words in [s. 72(b)](https://www.legislation.gov.uk/apni/1966/26/section/72/b) substituted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 6(b)](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/6/b); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-193f965cc1314d95af7a9f25550e24ba]: Textual amendment: Words in [s. 72(b)](https://www.legislation.gov.uk/apni/1966/26/section/72/b) substituted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 6(b)](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/6/b); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
 [^m00003]: Marginal citation: 1890 c.59
 

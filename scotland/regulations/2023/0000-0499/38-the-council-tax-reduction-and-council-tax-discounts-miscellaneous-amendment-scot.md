@@ -48,15 +48,15 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-fd65049516fb4e82942ee01917472c68]
+### 1. Citation and commencement[^c-fd65049516fb4e82942ee01917472c68]
 
 These Regulations may be cited as the Council Tax Reduction and Council Tax (Discounts) (Miscellaneous Amendment) (Scotland) Regulations 2023 and come into force on 1 April 2023.
 
 ## PART 2 — Amendment of the Council Tax Reduction (Scotland) Regulations 2021
 
-**2.**[^key-5751a2e321191dcee31f70c33cd8baa2] The Council Tax Reduction (Scotland) Regulations 2021[^f00002] are amended in accordance with regulations 3 to 21.
+**2.**[^c-5751a2e321191dcee31f70c33cd8baa2] The Council Tax Reduction (Scotland) Regulations 2021[^f00002] are amended in accordance with regulations 3 to 21.
 
-### 3. General amendments[^key-7eb4f74c9d4ccdb574a61055793bd984]
+### 3. General amendments[^c-7eb4f74c9d4ccdb574a61055793bd984]
 
 In regulation 3(1) (application), for sub-paragraph (b) substitute—
 
@@ -66,9 +66,9 @@ In regulation 3(1) (application), for sub-paragraph (b) substitute—
 
 .
 
-**4.**[^key-f7e08af11007cafc27bc828ea6dc4bcc] In regulation 4 (interpretation), in the definition of “employment and support allowance”, omit “(removing references to an income-based allowance)”.
+**4.**[^c-f7e08af11007cafc27bc828ea6dc4bcc] In regulation 4 (interpretation), in the definition of “employment and support allowance”, omit “(removing references to an income-based allowance)”.
 
-**5.**[^key-b1cdffe2d7a156f886ebcce539b062e9] In regulation 8 (meaning of “**non-dependant**”)—
+**5.**[^c-b1cdffe2d7a156f886ebcce539b062e9] In regulation 8 (meaning of “**non-dependant**”)—
 
 - (a) in paragraph (2)—
   - (i) at the end of sub-paragraph ( e ), omit “or”,
@@ -98,7 +98,7 @@ In regulation 3(1) (application), for sub-paragraph (b) substitute—
 
   .
 
-**6.**[^key-3a924c68096f7ec48a9aebf06563614f] In regulation 16(6) (persons not entitled to council tax reduction: persons treated as not being in Great Britain)—
+**6.**[^c-3a924c68096f7ec48a9aebf06563614f] In regulation 16(6) (persons not entitled to council tax reduction: persons treated as not being in Great Britain)—
 
 - (a) in sub-paragraph (f), omit from “where that leave is” to the end of that sub-paragraph,
 - (b) at the end of sub-paragraph (k), omit “or”,
@@ -113,38 +113,38 @@ In regulation 3(1) (application), for sub-paragraph (b) substitute—
 
   .
 
-**7.**[^key-985910a7d5376d80bb22ce579f9aa1cc] In regulation 20(3)(j) (persons not entitled to council tax reduction: students)—
+**7.**[^c-985910a7d5376d80bb22ce579f9aa1cc] In regulation 20(3)(j) (persons not entitled to council tax reduction: students)—
 
 - (a) after “in respect of whom” insert “, on account of the student’s disability by reason of deafness”,
 - (b) omit “on account of the student’s disability by reason of deafness” at the end of head (v).
 
-**8.**[^key-4fdfed8b4f5f8b581c815c990d3c5263] In regulation 34A (changes of circumstances in cases involving an award of universal credit)[^f00012]—
+**8.**[^c-4fdfed8b4f5f8b581c815c990d3c5263] In regulation 34A (changes of circumstances in cases involving an award of universal credit)[^f00012]—
 
 - (a) in paragraph (2)(b) for “claim” substitute “award”,
 - (b) in paragraphs (3) and (4) for “claim for”, in each place where it occurs, substitute “award of”.
 
-**9.**[^key-b169b5f7b3fefa5ab1b77ba0d723306f] In regulation 41(1) (average weekly unearned income), omit “and nothing in this paragraph authorises a relevant authority to disregard any income other than that specified in these Regulations”.
+**9.**[^c-b169b5f7b3fefa5ab1b77ba0d723306f] In regulation 41(1) (average weekly unearned income), omit “and nothing in this paragraph authorises a relevant authority to disregard any income other than that specified in these Regulations”.
 
-**10.**[^key-e5e576c65756e7c7862101edb028ebf3] In regulation 42(2)(a) (calculation of income on a weekly basis (applicants with an award of universal credit)), for “Chapter” substitute “Part”.
+**10.**[^c-e5e576c65756e7c7862101edb028ebf3] In regulation 42(2)(a) (calculation of income on a weekly basis (applicants with an award of universal credit)), for “Chapter” substitute “Part”.
 
-**11.**[^key-7861ee02a4be87692384103f6e42ddee] In regulation 44(2) (meaning of assessment period) for “and 41 (average weekly unearned income)” substitute “, 41 (average weekly unearned income) and 41A (calculation of average weekly income from tax credits)”.
+**11.**[^c-7861ee02a4be87692384103f6e42ddee] In regulation 44(2) (meaning of assessment period) for “and 41 (average weekly unearned income)” substitute “, 41 (average weekly unearned income) and 41A (calculation of average weekly income from tax credits)”.
 
-**12.**[^key-bd14f782089b5acf672797bf35985736] In regulation 47 (calculation of earned income in an assessment period), after paragraph (3) insert—
+**12.**[^c-bd14f782089b5acf672797bf35985736] In regulation 47 (calculation of earned income in an assessment period), after paragraph (3) insert—
 
 > (4) In this regulation, “**trade dispute**” has the meaning given in section 244 of the Trade Union and Labour Relations (Consolidation) Act 1992[^f00013].
 
 .
 
-**13.**[^key-bf071bf9891a1f6ab4f454513207cffd] In regulation 51(5) (self-employed earnings), for “paragraphs (6) to (10)” substitute “paragraphs (6) to (11)”.
+**13.**[^c-bf071bf9891a1f6ab4f454513207cffd] In regulation 51(5) (self-employed earnings), for “paragraphs (6) to (10)” substitute “paragraphs (6) to (11)”.
 
-**14.**[^key-8c6009c3b81212bc99a31544619a4366] In regulation 57 (meaning of “**unearned income**”)—
+**14.**[^c-8c6009c3b81212bc99a31544619a4366] In regulation 57 (meaning of “**unearned income**”)—
 
 - (a) in paragraph (1)(b)(iii) —
   - (i) before “employment” insert “contributory”,
   - (ii) omit “(removing references to an income-based allowance)”,
 - (b) in paragraph (4) for “paragraph (1)(b)(v)” substitute “paragraph (1)(b)(vi)”.
 
-**15.**[^key-d9986155a6be5512507c156fd60484fe] In regulation 77(12) (treatment of childcare charges (applicants with no award of universal credit))—
+**15.**[^c-d9986155a6be5512507c156fd60484fe] In regulation 77(12) (treatment of childcare charges (applicants with no award of universal credit))—
 
 - (a) after sub-paragraph (g) insert—
 
@@ -153,7 +153,7 @@ In regulation 3(1) (application), for sub-paragraph (b) substitute—
   ,
 - (b) in sub-paragraph (h) for “(f) or (g)” substitute “(f), (g) or (ga)”.
 
-**16.**[^key-0a8dd4b49fdc363a26943c3537aba41d] In schedule 1 (applicable amount), in paragraph 14(1) (enhanced disability premium)—
+**16.**[^c-0a8dd4b49fdc363a26943c3537aba41d] In schedule 1 (applicable amount), in paragraph 14(1) (enhanced disability premium)—
 
 - (a) in head (d) for “or a member of the applicant’s family” substitute “or the applicant’s partner”,
 - (b) in head (e), at the end, omit “or”,
@@ -165,9 +165,9 @@ In regulation 3(1) (application), for sub-paragraph (b) substitute—
 
   .
 
-**17.**[^key-d493d6ea6a89bfb28672b9bd2cacdc1a] In schedule 4 (capital to be disregarded), in paragraphs 16 to 18, for “26 weeks”, in each place where it occurs, substitute “6 months”.
+**17.**[^c-d493d6ea6a89bfb28672b9bd2cacdc1a] In schedule 4 (capital to be disregarded), in paragraphs 16 to 18, for “26 weeks”, in each place where it occurs, substitute “6 months”.
 
-### 18. Uprating[^key-be8fb6790f2bba8d2e9b000be37220d9]
+### 18. Uprating[^c-be8fb6790f2bba8d2e9b000be37220d9]
 
 In regulation 90 (non-dependant deductions)[^f00015]—
 
@@ -185,9 +185,9 @@ In regulation 90 (non-dependant deductions)[^f00015]—
     - (bb) “£490.00” substitute “£517.00”, and
     - (cc) “£11.15” substitute “£12.30.”
 
-**19.**[^key-0b93882cd70cd6d6d1d723af7d4bb4b0] In regulation 98(2)(b) (amount of a transitional family premium)[^f00016], for “£17.85” substitute “£18.53”.
+**19.**[^c-0b93882cd70cd6d6d1d723af7d4bb4b0] In regulation 98(2)(b) (amount of a transitional family premium)[^f00016], for “£17.85” substitute “£18.53”.
 
-**20.**[^key-64befedf17a5d57a58bec16d5cddeca8] In schedule 1 (applicable amount)[^f00017]—
+**20.**[^c-64befedf17a5d57a58bec16d5cddeca8] In schedule 1 (applicable amount)[^f00017]—
 
 - (a) in the table in paragraph 1 (applicable amount for the purposes of regulation 35(a)), for—
   - (i) “£77.00” in each place where it occurs substitute “£84.80”,
@@ -236,7 +236,7 @@ In regulation 90 (non-dependant deductions)[^f00015]—
 - (j) in paragraph 23 (amount of work-related activity component), for “£30.60” substitute “£33.70”, and
 - (k) in paragraph 24 (amount of support component), for “£40.60” substitute “£44.70”.
 
-**21.**[^key-b2ca62861ad559e46d791cc611aba443] In schedule 2 (amount of second adult rebate)[^f00021], in the table in paragraph 1 (determination of the second adult rebate in respect of a day for the purposes of regulation 91)—
+**21.**[^c-b2ca62861ad559e46d791cc611aba443] In schedule 2 (amount of second adult rebate)[^f00021], in the table in paragraph 1 (determination of the second adult rebate in respect of a day for the purposes of regulation 91)—
 
 - (a) in entry (b)(i) for “£224.00” substitute “£237.00”, and
 - (b) in entry (b)(ii) for —
@@ -245,9 +245,9 @@ In regulation 90 (non-dependant deductions)[^f00015]—
 
 ## PART 3 — Amendment of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012
 
-**22.**[^key-bec18be2f2e4763864c246fa9dac8622] The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^f00022] are amended in accordance with regulations 23 to 28.
+**22.**[^c-bec18be2f2e4763864c246fa9dac8622] The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^f00022] are amended in accordance with regulations 23 to 28.
 
-### 23. General amendments[^key-2a1e44a2fee475a789f306bb30a8d631]
+### 23. General amendments[^c-2a1e44a2fee475a789f306bb30a8d631]
 
 In regulation 3 (non-dependants)—
 
@@ -279,17 +279,17 @@ In regulation 3 (non-dependants)—
 
   .
 
-**24.**[^key-517dcca70b87cfa915c34972f8922dd5] In regulation 16(5)(l)(ii) (persons not entitled to council tax reduction: persons treated as not being in Great Britain), after “1971” insert—
+**24.**[^c-517dcca70b87cfa915c34972f8922dd5] In regulation 16(5)(l)(ii) (persons not entitled to council tax reduction: persons treated as not being in Great Britain), after “1971” insert—
 
 > or, in accordance with section 3ZA of that Act[^f00030], does not require a right of abode
 
 .
 
-### 25. Uprating[^key-21d9c2845a102ca0fda81ac1a3108348]
+### 25. Uprating[^c-21d9c2845a102ca0fda81ac1a3108348]
 
 In regulation 20 (applicable amount)[^f00031], in paragraph (e) for “£17.85” substitute “£18.53”.
 
-**26.**[^key-3831491c0e5ac787013d345a8860d070] In regulation 48 (non-dependant deductions)[^f00032]—
+**26.**[^c-3831491c0e5ac787013d345a8860d070] In regulation 48 (non-dependant deductions)[^f00032]—
 
 - (a) in paragraph (1)—
   - (i) in sub-paragraph (a) for “£13.30” substitute “£14.65”, and
@@ -305,7 +305,7 @@ In regulation 20 (applicable amount)[^f00031], in paragraph (e) for “£17.85�
     - (bb) “£490.00” substitute “£517.00”, and
     - (cc) “£11.15” substitute “£12.30”.
 
-**27.**[^key-58c058570b4206abb3ea2d87550654e0] In schedule 1 (applicable amount)[^f00033]—
+**27.**[^c-58c058570b4206abb3ea2d87550654e0] In schedule 1 (applicable amount)[^f00033]—
 
 - (a) in the table in paragraph 2 (personal allowances for the purposes of regulation 20(a))—
   - (i) in entry (1)(b) for “£197.10 ” substitute “£217.00”,
@@ -320,7 +320,7 @@ In regulation 20 (applicable amount)[^f00031], in paragraph (e) for “£17.85�
   - (iv) in entry (3) for “£68.04” substitute “£74.69”, and
   - (v) in entry (4) for “£38.85” substitute “£42.75”.
 
-**28.**[^key-58bf13204319a38fb6f9a54c9a6bd519] In schedule 5 (amount of alternative maximum council tax reduction)[^f00034], in the table in paragraph 1—
+**28.**[^c-58bf13204319a38fb6f9a54c9a6bd519] In schedule 5 (amount of alternative maximum council tax reduction)[^f00034], in the table in paragraph 1—
 
 - (a) in entry (b)(i) for “£224.00” substitute “£237.00”, and
 - (b) in entry (b)(ii)—
@@ -329,7 +329,7 @@ In regulation 20 (applicable amount)[^f00031], in paragraph (e) for “£17.85�
 
 ## PART 4 — Amendment of the Council Tax (Discounts) (Scotland) Regulations 1992
 
-**29.**[^key-dd395f0df56fa2429183e14933f2e879] (1) The Council Tax (Discounts) (Scotland) Regulations 1992[^f00035] are amended in accordance with paragraph (2).
+**29.**[^c-dd395f0df56fa2429183e14933f2e879] (1) The Council Tax (Discounts) (Scotland) Regulations 1992[^f00035] are amended in accordance with paragraph (2).
 
 (2) In the schedule—
 
@@ -414,17 +414,17 @@ Part 4 amends the Discount Regulations so that a person coming to the UK from Uk
 
 [^f00001]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14). Section 80 and paragraph 1 of schedule 2 were amended by paragraph 176 of schedule 13 of the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39). There are other amendments to section 80 and amendments to section 113(1) and (2) that are not relevant to these Regulations. The functions of the Secretary of State, in so far as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-fd65049516fb4e82942ee01917472c68]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-fd65049516fb4e82942ee01917472c68]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
-[^key-5751a2e321191dcee31f70c33cd8baa2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2023/38/regulation/2) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-5751a2e321191dcee31f70c33cd8baa2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2023/38/regulation/2) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2021/249](https://www.legislation.gov.uk/ssi/2021/249), which was relevantly amended by [S.S.I. 2022/52](https://www.legislation.gov.uk/ssi/2022/52), [S.S.I. 2022/125](https://www.legislation.gov.uk/ssi/2022/125), [S.S.I. 2022/161](https://www.legislation.gov.uk/ssi/2022/161) and [S.S.I. 2022/271](https://www.legislation.gov.uk/ssi/2022/271).
 
-[^key-7eb4f74c9d4ccdb574a61055793bd984]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2023/38/regulation/3) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-7eb4f74c9d4ccdb574a61055793bd984]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2023/38/regulation/3) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
-[^key-f7e08af11007cafc27bc828ea6dc4bcc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2023/38/regulation/4) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-f7e08af11007cafc27bc828ea6dc4bcc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2023/38/regulation/4) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
-[^key-b1cdffe2d7a156f886ebcce539b062e9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2023/38/regulation/5) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-b1cdffe2d7a156f886ebcce539b062e9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2023/38/regulation/5) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
 [^f00003]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77). The rules in relation to the Homes for Ukraine Sponsorship Scheme are set out at UKR 11.1 to UKR 20.2 of Appendix Ukraine Scheme of the Immigration Rules (HC 395).“**Permission to enter**” and “**permission to stay**” are defined at rule 6.2 of the Immigration Rules: Introduction.
 
@@ -442,49 +442,49 @@ Part 4 amends the Discount Regulations so that a person coming to the UK from Uk
 
 [^f00009]: Footnote: https://www.gov.uk/government/publications/uk-resettlement-schemes-factsheet-march-2021/vulnerable-persons-and-vulnerable-childrens-resettlement-schemes-factsheet-march-2021
 
-[^key-3a924c68096f7ec48a9aebf06563614f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2023/38/regulation/6) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-3a924c68096f7ec48a9aebf06563614f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2023/38/regulation/6) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
 [^f00010]: Footnote: Section 2 was amended by section 39(2) of the British Nationality Act [1981 (c. 61)](https://www.legislation.gov.uk/ukpga/1981/61) and [S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745).
 
 [^f00011]: Footnote: Section 3ZA was inserted by section 2(2) of the Immigration and Social Security Co-ordination (EU Withdrawal) Act [2020 (c. 20)](https://www.legislation.gov.uk/ukpga/2020/20).
 
-[^key-985910a7d5376d80bb22ce579f9aa1cc]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2023/38/regulation/7) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-985910a7d5376d80bb22ce579f9aa1cc]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2023/38/regulation/7) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
-[^key-4fdfed8b4f5f8b581c815c990d3c5263]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2023/38/regulation/8) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-4fdfed8b4f5f8b581c815c990d3c5263]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2023/38/regulation/8) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
 [^f00012]: Footnote: Regulation 34A was inserted by [S.S.I. 2022/52](https://www.legislation.gov.uk/ssi/2022/52).
 
-[^key-b169b5f7b3fefa5ab1b77ba0d723306f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2023/38/regulation/9) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-b169b5f7b3fefa5ab1b77ba0d723306f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2023/38/regulation/9) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
-[^key-e5e576c65756e7c7862101edb028ebf3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2023/38/regulation/10) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-e5e576c65756e7c7862101edb028ebf3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2023/38/regulation/10) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
-[^key-7861ee02a4be87692384103f6e42ddee]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2023/38/regulation/11) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-7861ee02a4be87692384103f6e42ddee]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2023/38/regulation/11) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
-[^key-bd14f782089b5acf672797bf35985736]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2023/38/regulation/12) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-bd14f782089b5acf672797bf35985736]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2023/38/regulation/12) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
 [^f00013]: Footnote: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 
-[^key-bf071bf9891a1f6ab4f454513207cffd]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2023/38/regulation/13) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-bf071bf9891a1f6ab4f454513207cffd]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2023/38/regulation/13) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
-[^key-8c6009c3b81212bc99a31544619a4366]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2023/38/regulation/14) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-8c6009c3b81212bc99a31544619a4366]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2023/38/regulation/14) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
-[^key-d9986155a6be5512507c156fd60484fe]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2023/38/regulation/15) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-d9986155a6be5512507c156fd60484fe]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2023/38/regulation/15) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
 [^f00014]: Footnote: [S.S.I. 2022/54](https://www.legislation.gov.uk/ssi/2022/54).
 
-[^key-0a8dd4b49fdc363a26943c3537aba41d]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2023/38/regulation/16) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-0a8dd4b49fdc363a26943c3537aba41d]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2023/38/regulation/16) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
-[^key-d493d6ea6a89bfb28672b9bd2cacdc1a]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2023/38/regulation/17) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-d493d6ea6a89bfb28672b9bd2cacdc1a]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2023/38/regulation/17) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
-[^key-be8fb6790f2bba8d2e9b000be37220d9]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2023/38/regulation/18) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-be8fb6790f2bba8d2e9b000be37220d9]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2023/38/regulation/18) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
 [^f00015]: Footnote: Regulation 90 was amended by [S.S.I. 2022/52](https://www.legislation.gov.uk/ssi/2022/52).
 
-[^key-0b93882cd70cd6d6d1d723af7d4bb4b0]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2023/38/regulation/19) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-0b93882cd70cd6d6d1d723af7d4bb4b0]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2023/38/regulation/19) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
 [^f00016]: Footnote: Regulation 98 was amended by [S.S.I. 2022/52](https://www.legislation.gov.uk/ssi/2022/52).
 
-[^key-64befedf17a5d57a58bec16d5cddeca8]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2023/38/regulation/20) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-64befedf17a5d57a58bec16d5cddeca8]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2023/38/regulation/20) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
 [^f00017]: Footnote: Schedule 1 was relevantly amended by [S.S.I. 2022/52](https://www.legislation.gov.uk/ssi/2022/52) and [S.S.I. 2022/161](https://www.legislation.gov.uk/ssi/2022/161).
 
@@ -494,15 +494,15 @@ Part 4 amends the Discount Regulations so that a person coming to the UK from Uk
 
 [^f00020]: Footnote: Paragraph 4D was inserted by [S.S.I. 2022/161](https://www.legislation.gov.uk/ssi/2022/161).
 
-[^key-b2ca62861ad559e46d791cc611aba443]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2023/38/regulation/21) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-b2ca62861ad559e46d791cc611aba443]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2023/38/regulation/21) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
 [^f00021]: Footnote: Schedule 2 was amended by [S.S.I. 2022/52](https://www.legislation.gov.uk/ssi/2022/52).
 
-[^key-bec18be2f2e4763864c246fa9dac8622]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2023/38/regulation/22) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-bec18be2f2e4763864c246fa9dac8622]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2023/38/regulation/22) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
 [^f00022]: Footnote: [S.S.I. 2012/319](https://www.legislation.gov.uk/ssi/2012/319), relevantly amended by [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49), [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142), [S.S.I. 2014/35](https://www.legislation.gov.uk/ssi/2014/35), [S.S.I. 2015/46](https://www.legislation.gov.uk/ssi/2015/46), [S.S.I. 2016/81](https://www.legislation.gov.uk/ssi/2016/81), [S.S.I. 2016/253](https://www.legislation.gov.uk/ssi/2016/253), [S.S.I. 2017/41](https://www.legislation.gov.uk/ssi/2017/41), [S.S.I. 2018/69](https://www.legislation.gov.uk/ssi/2018/69), [S.S.I. 2019/29](https://www.legislation.gov.uk/ssi/2019/29), [S.S.I. 2020/25](https://www.legislation.gov.uk/ssi/2020/25), [S.S.I. 2021/51](https://www.legislation.gov.uk/ssi/2021/51), [S.S.I. 2022/52](https://www.legislation.gov.uk/ssi/2022/52), [S.S.I. 2022/125](https://www.legislation.gov.uk/ssi/2022/125), [S.S.I. 2022/108](https://www.legislation.gov.uk/ssi/2022/108) and [S.S.I. 2022/271](https://www.legislation.gov.uk/ssi/2022/271).
 
-[^key-2a1e44a2fee475a789f306bb30a8d631]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2023/38/regulation/23) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-2a1e44a2fee475a789f306bb30a8d631]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2023/38/regulation/23) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
 [^f00023]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77). The rules in relation to the Homes for Ukraine Sponsorship Scheme are set out at UKR 11.1 to UKR 20.2 of Appendix Ukraine Scheme of the Immigration Rules (HC 395). “**Permission to enter**” and “**permission to stay**” are defined at rule 6.2 of the Immigration Rules: Introduction.
 
@@ -520,27 +520,27 @@ Part 4 amends the Discount Regulations so that a person coming to the UK from Uk
 
 [^f00029]: Footnote: https://www.gov.uk/government/publications/uk-resettlement-schemes-factsheet-march-2021/vulnerable-persons-and-vulnerable-childrens-resettlement-schemes-factsheet-march-2021.
 
-[^key-517dcca70b87cfa915c34972f8922dd5]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2023/38/regulation/24) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-517dcca70b87cfa915c34972f8922dd5]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2023/38/regulation/24) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
 [^f00030]: Footnote: Section 3ZA was inserted by section 2(2) of the Immigration and Social Security Co-ordination (EU Withdrawal) Act [2020 (c. 20)](https://www.legislation.gov.uk/ukpga/2020/20).
 
-[^key-21d9c2845a102ca0fda81ac1a3108348]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2023/38/regulation/25) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-21d9c2845a102ca0fda81ac1a3108348]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2023/38/regulation/25) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
 [^f00031]: Footnote: Regulation 20 was amended by [S.S.I. 2016/81](https://www.legislation.gov.uk/ssi/2016/81), [S.S.I. 2020/25](https://www.legislation.gov.uk/ssi/2020/25), [S.S.I. 2021/51](https://www.legislation.gov.uk/ssi/2021/51) and [S.S.I. 2022/52](https://www.legislation.gov.uk/ssi/2022/52).
 
-[^key-3831491c0e5ac787013d345a8860d070]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2023/38/regulation/26) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-3831491c0e5ac787013d345a8860d070]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2023/38/regulation/26) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
 [^f00032]: Footnote: Regulation 48 was relevantly amended by [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49), [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142), [S.S.I. 2014/35](https://www.legislation.gov.uk/ssi/2014/35), [S.S.I. 2015/46](https://www.legislation.gov.uk/ssi/2015/46), [S.S.I. 2016/81](https://www.legislation.gov.uk/ssi/2016/81), [S.S.I. 2017/41](https://www.legislation.gov.uk/ssi/2017/41), [S.S.I. 2018/69](https://www.legislation.gov.uk/ssi/2018/69), [S.S.I. 2019/29](https://www.legislation.gov.uk/ssi/2019/29), [S.S.I. 2020/25](https://www.legislation.gov.uk/ssi/2020/25), [S.S.I. 2021/51](https://www.legislation.gov.uk/ssi/2021/51) and [S.S.I. 2022/52](https://www.legislation.gov.uk/ssi/2022/52).
 
-[^key-58c058570b4206abb3ea2d87550654e0]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2023/38/regulation/27) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-58c058570b4206abb3ea2d87550654e0]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2023/38/regulation/27) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
 [^f00033]: Footnote: Schedule 1 was relevantly amended by [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49), [S.S.I. 2014/35](https://www.legislation.gov.uk/ssi/2014/35), [S.S.I. 2015/46](https://www.legislation.gov.uk/ssi/2015/46), [S.S.I. 2016/81](https://www.legislation.gov.uk/ssi/2016/81), [S.S.I. 2016/253](https://www.legislation.gov.uk/ssi/2016/253), [S.S.I. 2017/41](https://www.legislation.gov.uk/ssi/2017/41), [S.S.I. 2018/69](https://www.legislation.gov.uk/ssi/2018/69), [S.S.I. 2019/29](https://www.legislation.gov.uk/ssi/2019/29), [S.S.I. 2020/25](https://www.legislation.gov.uk/ssi/2020/25), [S.S.I. 2021/51](https://www.legislation.gov.uk/ssi/2021/51) and [S.S.I. 2022/52](https://www.legislation.gov.uk/ssi/2022/52).
 
-[^key-58bf13204319a38fb6f9a54c9a6bd519]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2023/38/regulation/28) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-58bf13204319a38fb6f9a54c9a6bd519]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2023/38/regulation/28) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
 [^f00034]: Footnote: Schedule 5 was relevantly amended by [S.S.I. 2013/287](https://www.legislation.gov.uk/ssi/2013/287), [S.S.I. 2020/25](https://www.legislation.gov.uk/ssi/2020/25) and [S.S.I. 2022/52](https://www.legislation.gov.uk/ssi/2022/52).
 
-[^key-dd395f0df56fa2429183e14933f2e879]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2023/38/regulation/29) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
+[^c-dd395f0df56fa2429183e14933f2e879]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2023/38/regulation/29) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1)
 
 [^f00035]: Footnote: [S.I. 1992/1409](https://www.legislation.gov.uk/uksi/1992/1409).
 

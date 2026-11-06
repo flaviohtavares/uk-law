@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5A. Further provision about reports on Welsh elections[^key-b8039ed1c7d48d914d85176cf248d7d3]
+## 5A. Further provision about reports on Welsh elections[^c-b8039ed1c7d48d914d85176cf248d7d3]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) a report under section 5 relating to a Senedd Cymru general election;
 - (b) a report under subsection (1).
 
-(3) [^key-f3114c77c62d744ddd0d52156933f21b]
+(3) [^c-f3114c77c62d744ddd0d52156933f21b]
 
 The report must include a description of the steps taken by returning officers to assist persons with disabilities that would otherwise adversely affect their right to vote at the election.
 
@@ -40,6 +40,6 @@ The report must include a description of the steps taken by returning officers t
 
 ## Annotations
 
-[^key-b8039ed1c7d48d914d85176cf248d7d3]: Textual amendment: S. 5A inserted (W.) (18.7.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 24(2)](https://www.legislation.gov.uk/asc/2024/5/section/24/2), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2025/846](https://www.legislation.gov.uk/wsi/2025/846), [art. 2](https://www.legislation.gov.uk/wsi/2025/846/article/2)
+[^c-b8039ed1c7d48d914d85176cf248d7d3]: Textual amendment: S. 5A inserted (W.) (18.7.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 24(2)](https://www.legislation.gov.uk/asc/2024/5/section/24/2), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2025/846](https://www.legislation.gov.uk/wsi/2025/846), [art. 2](https://www.legislation.gov.uk/wsi/2025/846/article/2)
 
-[^key-f3114c77c62d744ddd0d52156933f21b]: Modification: S. 5A(3) applied (temp.) (18.7.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 24(3)](https://www.legislation.gov.uk/asc/2024/5/section/24/3), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2025/846](https://www.legislation.gov.uk/wsi/2025/846), [art. 2](https://www.legislation.gov.uk/wsi/2025/846/article/2)
+[^c-f3114c77c62d744ddd0d52156933f21b]: Modification: S. 5A(3) applied (temp.) (18.7.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 24(3)](https://www.legislation.gov.uk/asc/2024/5/section/24/3), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2025/846](https://www.legislation.gov.uk/wsi/2025/846), [art. 2](https://www.legislation.gov.uk/wsi/2025/846/article/2)

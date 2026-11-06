@@ -1227,7 +1227,7 @@ SCHEDULES
 
 #### Public Notaries Act 1843 (c.90)
 
-**3.**[^key-cdecb7425abda84d0a7634ad38062789] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cdecb7425abda84d0a7634ad38062789] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Inclosure Acts 1849 and 1852
 
@@ -1250,7 +1250,7 @@ SCHEDULES
 
 #### Seal Fishery Act 1875 (c.18)
 
-**8.**[^key-3a41c84ae2cf5fcd289b7c8dd447e3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-3a41c84ae2cf5fcd289b7c8dd447e3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Supreme Court Act 1981 (c.54)
 
@@ -1350,7 +1350,7 @@ for the words “two justices or the sheriff” substitute “ the Lands Tribuna
 
 #### Official Secrets Act 1920 (c.75)
 
-**21.**[^key-2972fb308ac4bbadc94c5720192a2135] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-2972fb308ac4bbadc94c5720192a2135] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Road Traffic Act 1930 (c.43)
 
@@ -1421,13 +1421,13 @@ for the words “two justices or the sheriff” substitute “ the Lands Tribuna
 
 [^c20352401]: Textual amendment: [Sch. 2 Pt. 1 para. 1](https://www.legislation.gov.uk/ukpga/1993/50/schedule/2/part/1/paragraph/1) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2008/12/section/1/1), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)
 
-[^key-cdecb7425abda84d0a7634ad38062789]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/1993/50/schedule/2/paragraph/3) repealed (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(i)(ix)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/i/ix)
+[^c-cdecb7425abda84d0a7634ad38062789]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/1993/50/schedule/2/paragraph/3) repealed (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(i)(ix)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/i/ix)
 
 [^c13314261]: Marginal citation: [1849 c.83](https://www.legislation.gov.uk/ukpga/1849/83).
 
 [^c13314271]: Marginal citation: [1852 c.79](https://www.legislation.gov.uk/ukpga/1852/79).
 
-[^key-3a41c84ae2cf5fcd289b7c8dd447e3d4]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/1993/50/schedule/2/paragraph/8) repealed (1.4.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 5(C)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/C); [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/12)
+[^c-3a41c84ae2cf5fcd289b7c8dd447e3d4]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/1993/50/schedule/2/paragraph/8) repealed (1.4.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 5(C)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/C); [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/12)
 
 [^c13314281]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/1993/50/schedule/2/paragraph/9) repealed (27.9.1999) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [ss. 106](https://www.legislation.gov.uk/ukpga/1999/22/section/106), [108(3)](https://www.legislation.gov.uk/ukpga/1999/22/section/108/3), [Sch. 15 Pt. III](https://www.legislation.gov.uk/ukpga/1999/22/schedule/15/part/III) (with [s. 107](https://www.legislation.gov.uk/ukpga/1999/22/section/107), [Sch. 14 paras. 7(2)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/7/2), [36(9)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/36/9))
 
@@ -1451,7 +1451,7 @@ for the words “two justices or the sheriff” substitute “ the Lands Tribuna
 
 [^c13314391]: Marginal citation: [1887 c.26](https://www.legislation.gov.uk/ukpga/1887/26).
 
-[^key-2972fb308ac4bbadc94c5720192a2135]: Textual amendment: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/1993/50/schedule/2/paragraph/21) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/12)
+[^c-2972fb308ac4bbadc94c5720192a2135]: Textual amendment: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/1993/50/schedule/2/paragraph/21) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/12)
 
 [^c13314401]: Marginal citation: [1952 c.50](https://www.legislation.gov.uk/ukpga/1952/50).
 

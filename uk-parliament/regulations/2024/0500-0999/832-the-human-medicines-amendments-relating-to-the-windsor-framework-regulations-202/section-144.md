@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Amendment to Schedule 30[^key-a2466f4a2772c003f64ceb760a655116]
+## 144. Amendment to Schedule 30[^c-a2466f4a2772c003f64ceb760a655116]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In Schedule 30 (particulars for advertisements to persons qualified to prescribe
 
 ## Annotations
 
-[^key-a2466f4a2772c003f64ceb760a655116]: Commencement: [Reg. 144](https://www.legislation.gov.uk/uksi/2024/832/regulation/144) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-a2466f4a2772c003f64ceb760a655116]: Commencement: [Reg. 144](https://www.legislation.gov.uk/uksi/2024/832/regulation/144) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00151]: Footnote: Paragraphs 1, 2 and 6 of Schedule 30 were amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

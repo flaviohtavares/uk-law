@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-7bc6cabd422998cf08ea2040fed89093]
+## 2. Interpretation[^c-7bc6cabd422998cf08ea2040fed89093]
 
 *Extent: E+W+S*
 
 (1) In these Regulations—
 
-- “carcase” , other than in England, *(Extent: E+W)*[^key-63da880412b967168cf8e02d795075d9] means a carcase or part of a carcase of a pig, but does not include a sample taken from a carcase;
+- “carcase” , other than in England, *(Extent: E+W)*[^c-63da880412b967168cf8e02d795075d9] means a carcase or part of a carcase of a pig, but does not include a sample taken from a carcase;
 - “Chief Veterinary Officer” means the Chief Veterinary Officer for England, Scotland or Wales dependent upon where disease is present;
 - “contact premises” means premises that are designated as contact premises under regulation 8(1);
 - “Council [Directive 92/119/EEC](https://www.legislation.gov.uk/european/directive/1992/0119)” means Council [Directive 92/119/EEC](https://www.legislation.gov.uk/european/directive/1992/0119) introducing general Community measures for the control of certain animal diseases and specific measures relating to swine vesicular disease as amended from time to time;
@@ -39,10 +39,10 @@ summary: ''
   - (c) swine vesicular disease;
 - “equipment”, except in regulation 34(9)(a), means any equipment that has been in contact with pigs or faeces, blood or other bodily fluids from a pig;
 - “feral pig” means any non-captive pig which is living in the wild;
-- “infected premises” means premises that have been designated as infected premises under regulation 10 or regulation 10A *(Extent: E+W)*[^key-ef98afc487d9ac044ee63fc03f52ecc1];
+- “infected premises” means premises that have been designated as infected premises under regulation 10 or regulation 10A *(Extent: E+W)*[^c-ef98afc487d9ac044ee63fc03f52ecc1];
 - “inspector” means a person appointed to be an inspector for the purposes of the Animal Health Act 1981[^f00013] by an appropriate authority or by a local authority, and, when used in relation to an officer of the appropriate authority, includes a veterinary inspector;
 - “keeper” means any person who owns or is responsible for a pig, whether on a permanent or temporary basis;
-- “ *(Extent: E+W)*[^key-a7f842e4444c012ffa014cdc3e4038c1]**licensing officer *(Extent: E+W)***” means— *(Extent: E+W)*
+- “ *(Extent: E+W)*[^c-a7f842e4444c012ffa014cdc3e4038c1]**licensing officer *(Extent: E+W)***” means— *(Extent: E+W)*
   - (a) a veterinary inspector; or *(Extent: E+W)*
   - (b) an inspector or officer of the Secretary of State acting under the instructions of a veterinary inspector; *(Extent: E+W)*
 - “livestock” means any hoofed animals other than equidae;
@@ -50,7 +50,7 @@ summary: ''
   - (a) in England—
     - (i) where there is an authority which is the sole principal council for its local government area (“a unitary authority”), that authority;
     - (ii) where there is not a unitary authority—
-      - (aa) [^key-96a0cae28ba93e92b734ad2273fdfd4e]...
+      - (aa) [^c-96a0cae28ba93e92b734ad2273fdfd4e]...
       - (bb) in a non-metropolitan county, the county council;
       - (cc) in each London borough, the council of that borough; or
       - (dd) in the City of London, the Common Council;
@@ -60,7 +60,7 @@ summary: ''
 - “occupier” means any person having day-to-day responsibility for the premises or for any pigs on the premises;
 - “pig” means any animal of the *Suidae* family;
 - “premises” includes any land, building or other place;
-- “ *(Extent: E+W)*[^key-bc40982ccf4786a55fb097a32d552c06]**Restricted Zone *(Extent: E+W)***” means a restricted zone 1, a restricted zone 2 or a restricted zone 3; *(Extent: E+W)*
+- “ *(Extent: E+W)*[^c-bc40982ccf4786a55fb097a32d552c06]**Restricted Zone *(Extent: E+W)***” means a restricted zone 1, a restricted zone 2 or a restricted zone 3; *(Extent: E+W)*
 - “ *(Extent: E+W)***restricted zone 1 *(Extent: E+W)***” means a restricted zone 1 declared under regulation 27A; *(Extent: E+W)*
 - “ *(Extent: E+W)***restricted zone 2 *(Extent: E+W)***” means a restricted zone 2 declared under regulation 27A; *(Extent: E+W)*
 - “ *(Extent: E+W)***restricted zone 3 *(Extent: E+W)***” means a restricted zone 3 declared under regulation 27A; *(Extent: E+W)*
@@ -89,13 +89,13 @@ summary: ''
 
 *Extent: E+W*
 
-(4)[^key-978f56408266988b2775045b2a89ca12] Paragraphs (2)(b) and (3) do not apply in relation to England.
+(4)[^c-978f56408266988b2775045b2a89ca12] Paragraphs (2)(b) and (3) do not apply in relation to England.
 
 ## Annotations
 
-[^key-7bc6cabd422998cf08ea2040fed89093]: Commencement: Reg. 2 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
+[^c-7bc6cabd422998cf08ea2040fed89093]: Commencement: Reg. 2 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
 
-[^key-63da880412b967168cf8e02d795075d9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/2/1) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2026/475/article/3/2/a/i)
+[^c-63da880412b967168cf8e02d795075d9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/2/1) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2026/475/article/3/2/a/i)
 
 [^f00007]: Footnote: [S.I. 2008/465](https://www.legislation.gov.uk/uksi/2008/465), amended by [S.I. 2009/1297](https://www.legislation.gov.uk/uksi/2009/1297), [2012/2897](https://www.legislation.gov.uk/uksi/2012/2897).
 
@@ -109,16 +109,16 @@ summary: ''
 
 [^f00012]: Footnote: OJ No L 143, 11.6.2003, p.5.
 
-[^key-ef98afc487d9ac044ee63fc03f52ecc1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/2/1) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/475/article/3/2/a/ii)
+[^c-ef98afc487d9ac044ee63fc03f52ecc1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/2/1) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/475/article/3/2/a/ii)
 
 [^f00013]: Footnote: Section 89 of the Animal Health Act [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22). Functions conferred under that Act on “the Ministers” (as defined in section 86) are now exercisable in relation to England by the Secretary of State. Functions of “the Ministers” were transferred, so far as exercisable by the Secretaries of State for Scotland and Wales, to the Minister of Agriculture, Fisheries and Food by the Transfer of Functions (Agriculture and Food) Order 1999 ([S.I. 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141)). Functions of the Minister of Agriculture, Fisheries and Food were then transferred to the Secretary of State by the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
 
-[^key-a7f842e4444c012ffa014cdc3e4038c1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/2/1) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/475/article/3/2/a/iii)
+[^c-a7f842e4444c012ffa014cdc3e4038c1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/2/1) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/475/article/3/2/a/iii)
 
-[^key-96a0cae28ba93e92b734ad2273fdfd4e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/2/1) omitted (29.4.2026) by virtue of [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2026/475/article/3/2/a/iv)
+[^c-96a0cae28ba93e92b734ad2273fdfd4e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/2/1) omitted (29.4.2026) by virtue of [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2026/475/article/3/2/a/iv)
 
 [^f00014]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39) amended by the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), section 120(1) and Schedule 22, paragraph 232(1).
 
-[^key-bc40982ccf4786a55fb097a32d552c06]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/2/1) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(2)(a)(v)](https://www.legislation.gov.uk/uksi/2026/475/article/3/2/a/v)
+[^c-bc40982ccf4786a55fb097a32d552c06]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/2/1) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(2)(a)(v)](https://www.legislation.gov.uk/uksi/2026/475/article/3/2/a/v)
 
-[^key-978f56408266988b2775045b2a89ca12]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/2/4) inserted (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2026/475/article/3/2/b)
+[^c-978f56408266988b2775045b2a89ca12]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/2/4) inserted (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2026/475/article/3/2/b)

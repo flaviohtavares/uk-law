@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Decisions in the Tribunal[^key-3fd9e4e7bdd9435222cd830abcb8cc4a]
+## 39. Decisions in the Tribunal[^c-3fd9e4e7bdd9435222cd830abcb8cc4a]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fd9e4e7bdd9435222cd830abcb8cc4a]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2014/10/section/39) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-3fd9e4e7bdd9435222cd830abcb8cc4a]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2014/10/section/39) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

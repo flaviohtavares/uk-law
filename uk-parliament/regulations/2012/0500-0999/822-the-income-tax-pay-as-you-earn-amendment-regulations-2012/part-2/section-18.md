@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Late presentation of Form P45[^key-c8ae4ebf4e12c54ada6019fe6926111f]
+## 18. Late presentation of Form P45[^c-c8ae4ebf4e12c54ada6019fe6926111f]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ In regulation 51 (late presentation of Form P45)—
 
 ## Annotations
 
-[^key-c8ae4ebf4e12c54ada6019fe6926111f]: Commencement: Reg. 18 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-c8ae4ebf4e12c54ada6019fe6926111f]: Commencement: Reg. 18 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

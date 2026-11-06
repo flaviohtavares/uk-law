@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 538A. Power to direct participation in international surveys[^key-9748ecc21b73731dd5c87271c5884048]
+## 538A. Power to direct participation in international surveys[^c-9748ecc21b73731dd5c87271c5884048]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Secretary of State may direct the governing body of a community, foundation 
 
 ## Annotations
 
-[^key-9748ecc21b73731dd5c87271c5884048]: Textual amendment: S. 538A inserted (1.2.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 20](https://www.legislation.gov.uk/ukpga/2011/21/section/20), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
+[^c-9748ecc21b73731dd5c87271c5884048]: Textual amendment: S. 538A inserted (1.2.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 20](https://www.legislation.gov.uk/ukpga/2011/21/section/20), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)

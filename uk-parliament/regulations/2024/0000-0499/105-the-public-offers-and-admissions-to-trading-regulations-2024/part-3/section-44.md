@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Appointment by FCA of persons to carry out investigations[^key-6454c6ef5ade5b818ee79ee23433b762]
+## 44. Appointment by FCA of persons to carry out investigations[^c-6454c6ef5ade5b818ee79ee23433b762]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6454c6ef5ade5b818ee79ee23433b762]: Textual amendment: [Reg. 44](https://www.legislation.gov.uk/uksi/2024/105/regulation/44) substituted (3.11.2025) by [The Public Offers and Admissions to Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2025/1076/regulation/2)
+[^c-6454c6ef5ade5b818ee79ee23433b762]: Textual amendment: [Reg. 44](https://www.legislation.gov.uk/uksi/2024/105/regulation/44) substituted (3.11.2025) by [The Public Offers and Admissions to Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2025/1076/regulation/2)

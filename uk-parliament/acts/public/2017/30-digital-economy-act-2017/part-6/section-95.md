@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Electronic programme guides and public service channels[^key-636ea716d4a859e8377db4b599cd16a3]
+## 95. Electronic programme guides and public service channels[^c-636ea716d4a859e8377db4b599cd16a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-636ea716d4a859e8377db4b599cd16a3]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2017/30/section/95) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/z)
+[^c-636ea716d4a859e8377db4b599cd16a3]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2017/30/section/95) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/z)

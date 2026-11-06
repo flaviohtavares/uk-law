@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Interpretation: general[^key-da3dc5e04991959e303de64a3d312c8e]
+## 3. Interpretation: general[^c-da3dc5e04991959e303de64a3d312c8e]
 
 *Extent: E+W+S*
 
@@ -47,7 +47,7 @@ summary: ''
 - “lateral projection”, in relation to a load carried on a vehicle, has the meaning given in article 5(1);
 - “the Lighting Regulations” means the Road Vehicles Lighting Regulations 1989[^f00015];
 - “local excavation vehicle” has the meaning given in paragraph 1 of Schedule 10 to this Order;
-- “[^key-cb4f292949e50e424984f66869c635f9]**longer semi-trailer**” means a semi-trailer, (other than an abnormal indivisible load vehicle, a low loader or a stepframe low loader), in respect of which the longitudinal distance from the axis of the king pin to the rear of the trailer exceeds—
+- “[^c-cb4f292949e50e424984f66869c635f9]**longer semi-trailer**” means a semi-trailer, (other than an abnormal indivisible load vehicle, a low loader or a stepframe low loader), in respect of which the longitudinal distance from the axis of the king pin to the rear of the trailer exceeds—
   - (a) 12.5 metres, in the case of a car transporter, or
   - (b) 12 metres, in any other case
 - (but a semi-trailer which is capable of extension is only a longer semi-trailer when extended so that it exceeds the above distances);
@@ -57,7 +57,7 @@ summary: ''
 - “motorway” means a special road which—
   - (a) in England or Wales (except as otherwise provided by or under regulations made under, or having effect as if made under, section 17 of the Road Traffic Regulation Act 1984[^f00017]) can be used by traffic only of Class I or II as specified in Schedule 4 to Highways Act 1980[^f00018]: or
   - (b) in Scotland can be used by traffic only of Class I or Class II as specified in Schedule 3 to the Roads (Scotland) Act 1984[^f00019];
-- “[^key-25c1f7b1c7ca2fbf63e452a0ac40dd72]**operator**” means—
+- “[^c-25c1f7b1c7ca2fbf63e452a0ac40dd72]**operator**” means—
   - (a) a person who holds an operator’s licence in respect of a longer semi-trailer under section 2 of the Goods Vehicles (Licensing of Operators) Act 1995;
   - (b) if there is no such person, the driver of the motor vehicle towing the longer semi-trailer where the towing vehicle belongs to the driver or is in the driver’s possession under an agreement for hire or hire-purchase, or a loan;
   - (c) in any other case, the person whose employee or agent the driver of the towing vehicle is;
@@ -70,9 +70,9 @@ summary: ''
 - “rearward projection”, in relation to a load carried on a vehicle, has the meaning given in article 6(2);
 - “recognised category of special vehicles” has the meaning given in article 8(2);
 - “road recovery vehicle” has the meaning given in paragraph 1 of Schedule 4 to this Order;
-- “[^key-29cff1c8100606ce7623f346c517be5f]**semi-trailer**” has the same meaning as in regulation 3 of the Construction and Use Regulations
+- “[^c-29cff1c8100606ce7623f346c517be5f]**semi-trailer**” has the same meaning as in regulation 3 of the Construction and Use Regulations
 - “special type agricultural vehicle” has the meaning given in article 19(2);
-- “[^key-5c226add428d2d3b8816e54aa8546d33]**stepframe low loader**” has the same meaning as in regulation 3 of the Construction and Use Regulations;
+- “[^c-5c226add428d2d3b8816e54aa8546d33]**stepframe low loader**” has the same meaning as in regulation 3 of the Construction and Use Regulations;
 - “track-laying”, in relation to a vehicle, has the same meaning as in the Construction and Use Regulations;
 - “trailer of category O4” means a trailer of category O4 (trailers over 10,000 kilograms maximum weight), as defined in Annex II of Council Directive [70/156/EEC](https://www.legislation.gov.uk/european/directive/1970/0156) on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers;
 - “vehicle-combination” means a motor vehicle towing one or more trailers, any trailer or trailers towed by it and any other motor vehicle used for the purpose of assisting the propulsion of the trailer or trailers on the road;
@@ -88,7 +88,7 @@ summary: ''
 
 ## Annotations
 
-[^key-da3dc5e04991959e303de64a3d312c8e]: Commencement: Art. 3 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-da3dc5e04991959e303de64a3d312c8e]: Commencement: Art. 3 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
 [^f00011]: Footnote: S.I. [1998/3111](https://www.legislation.gov.uk/uksi/1998/3111).
 
@@ -100,7 +100,7 @@ summary: ''
 
 [^f00015]: Footnote: S.I. [1989/1796](https://www.legislation.gov.uk/uksi/1989/1796).
 
-[^key-cb4f292949e50e424984f66869c635f9]: Textual amendment: Words in art. 3(1) inserted (31.5.2023) by [The Road Vehicles (Authorisation of Special Types) (General) (Amendment) Order 2023 (S.I. 2023/524)](https://www.legislation.gov.uk/uksi/2023/524), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/524/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2023/524/article/3/a)
+[^c-cb4f292949e50e424984f66869c635f9]: Textual amendment: Words in art. 3(1) inserted (31.5.2023) by [The Road Vehicles (Authorisation of Special Types) (General) (Amendment) Order 2023 (S.I. 2023/524)](https://www.legislation.gov.uk/uksi/2023/524), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/524/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2023/524/article/3/a)
 
 [^f00016]: Footnote: OJ No. L 42, 23.2.1970, p. 1. Annex II of the Directive was substituted by Directive [92/5053/EC](https://www.legislation.gov.uk/european/directive/1992/5053).
 
@@ -110,8 +110,8 @@ summary: ''
 
 [^f00019]: Footnote: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).
 
-[^key-25c1f7b1c7ca2fbf63e452a0ac40dd72]: Textual amendment: Words in art. 3(1) inserted (31.5.2023) by [The Road Vehicles (Authorisation of Special Types) (General) (Amendment) Order 2023 (S.I. 2023/524)](https://www.legislation.gov.uk/uksi/2023/524), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/524/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2023/524/article/3/b)
+[^c-25c1f7b1c7ca2fbf63e452a0ac40dd72]: Textual amendment: Words in art. 3(1) inserted (31.5.2023) by [The Road Vehicles (Authorisation of Special Types) (General) (Amendment) Order 2023 (S.I. 2023/524)](https://www.legislation.gov.uk/uksi/2023/524), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/524/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2023/524/article/3/b)
 
-[^key-29cff1c8100606ce7623f346c517be5f]: Textual amendment: Words in art. 3(1) inserted (31.5.2023) by [The Road Vehicles (Authorisation of Special Types) (General) (Amendment) Order 2023 (S.I. 2023/524)](https://www.legislation.gov.uk/uksi/2023/524), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/524/article/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2023/524/article/3/c)
+[^c-29cff1c8100606ce7623f346c517be5f]: Textual amendment: Words in art. 3(1) inserted (31.5.2023) by [The Road Vehicles (Authorisation of Special Types) (General) (Amendment) Order 2023 (S.I. 2023/524)](https://www.legislation.gov.uk/uksi/2023/524), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/524/article/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2023/524/article/3/c)
 
-[^key-5c226add428d2d3b8816e54aa8546d33]: Textual amendment: Words in art. 3(1) inserted (31.5.2023) by [The Road Vehicles (Authorisation of Special Types) (General) (Amendment) Order 2023 (S.I. 2023/524)](https://www.legislation.gov.uk/uksi/2023/524), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/524/article/1/1), [3(d)](https://www.legislation.gov.uk/uksi/2023/524/article/3/d)
+[^c-5c226add428d2d3b8816e54aa8546d33]: Textual amendment: Words in art. 3(1) inserted (31.5.2023) by [The Road Vehicles (Authorisation of Special Types) (General) (Amendment) Order 2023 (S.I. 2023/524)](https://www.legislation.gov.uk/uksi/2023/524), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/524/article/1/1), [3(d)](https://www.legislation.gov.uk/uksi/2023/524/article/3/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Entitlement to stage payments.[^c11254351][^key-27cfbad8be3eef0931747447e4151b93]
+## 109. Entitlement to stage payments.[^c11254351][^c-27cfbad8be3eef0931747447e4151b93]
 
 *Extent: E+W+S*
 
@@ -29,12 +29,12 @@ summary: ''
 
 (3) In the absence of such agreement, the relevant provisions of the Scheme for Construction Contracts apply.
 
-(4) References in the following sections to a payment provided for by the contract[^key-41c3e31a2615488792e2430185147120] include a payment by virtue of this section.
+(4) References in the following sections to a payment provided for by the contract[^c-41c3e31a2615488792e2430185147120] include a payment by virtue of this section.
 
 ## Annotations
 
 [^c11254351]: Commencement: S. 109 wholly in force; s. 109 not in force at Royal Assent see s. 150; s. 109 in force at 1.5.1998 by (E.W.) [S.I. 1998/650](https://www.legislation.gov.uk/uksi/1998/650), [art. 2](https://www.legislation.gov.uk/uksi/1998/650/article/2) and (S.) [S.I. 1998/894](https://www.legislation.gov.uk/uksi/1998/894), [art. 2](https://www.legislation.gov.uk/uksi/1998/894/article/2)
 
-[^key-27cfbad8be3eef0931747447e4151b93]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1996/53/part/2) excluded (E.W.) (5.5.2023) by [The Construction Contracts (Exclusion) (Wales) Order 2023 (S.I. 2023/475)](https://www.legislation.gov.uk/uksi/2023/475), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/475/article/1/3), [3](https://www.legislation.gov.uk/uksi/2023/475/article/3)
+[^c-27cfbad8be3eef0931747447e4151b93]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1996/53/part/2) excluded (E.W.) (5.5.2023) by [The Construction Contracts (Exclusion) (Wales) Order 2023 (S.I. 2023/475)](https://www.legislation.gov.uk/uksi/2023/475), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/475/article/1/3), [3](https://www.legislation.gov.uk/uksi/2023/475/article/3)
 
-[^key-41c3e31a2615488792e2430185147120]: Textual amendment: Words in s. 109(4) substituted (1.10.2011 for E.W., 1.11.2011 for S.) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 143(1)](https://www.legislation.gov.uk/ukpga/2009/20/section/143/1), [148(8)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/8), [149](https://www.legislation.gov.uk/ukpga/2009/20/section/149) (with [s. 149(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/149/3)[(4)](https://www.legislation.gov.uk/ukpga/2009/20/section/149/4)); [S.I. 2011/1582](https://www.legislation.gov.uk/uksi/2011/1582), [art. 2](https://www.legislation.gov.uk/uksi/2011/1582/article/2); [S.I. 2011/1597](https://www.legislation.gov.uk/uksi/2011/1597), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1597/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1597/article/3), S.S.I. 2011/291, art. 2
+[^c-41c3e31a2615488792e2430185147120]: Textual amendment: Words in s. 109(4) substituted (1.10.2011 for E.W., 1.11.2011 for S.) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 143(1)](https://www.legislation.gov.uk/ukpga/2009/20/section/143/1), [148(8)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/8), [149](https://www.legislation.gov.uk/ukpga/2009/20/section/149) (with [s. 149(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/149/3)[(4)](https://www.legislation.gov.uk/ukpga/2009/20/section/149/4)); [S.I. 2011/1582](https://www.legislation.gov.uk/uksi/2011/1582), [art. 2](https://www.legislation.gov.uk/uksi/2011/1582/article/2); [S.I. 2011/1597](https://www.legislation.gov.uk/uksi/2011/1597), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1597/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1597/article/3), S.S.I. 2011/291, art. 2

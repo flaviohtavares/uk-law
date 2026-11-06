@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 105. Overpayments of college fee loan[^key-d9859981038eb25e051d1278bf22eb36]
+## 105. Overpayments of college fee loan[^c-d9859981038eb25e051d1278bf22eb36]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Any overpayment of college fee loan is recoverable by the Department from the co
 
 ## Annotations
 
-[^key-d9859981038eb25e051d1278bf22eb36]: Commencement: [Reg. 105](https://www.legislation.gov.uk/nisr/2007/195/regulation/105) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-d9859981038eb25e051d1278bf22eb36]: Commencement: [Reg. 105](https://www.legislation.gov.uk/nisr/2007/195/regulation/105) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

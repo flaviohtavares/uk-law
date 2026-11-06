@@ -36,8 +36,8 @@ summary: ''
 
 (4) Paragraph (2) is subject to regulation 301 (advertisements for registered homoeopathic medicinal products).
 
-(5)[^key-de8745137d35cd20bc49107569a97110] Paragraph (2)(d) is subject to regulation 291A (campaigns relating to the suspected or confirmed spread of pathogenic agents etc.).
+(5)[^c-de8745137d35cd20bc49107569a97110] Paragraph (2)(d) is subject to regulation 291A (campaigns relating to the suspected or confirmed spread of pathogenic agents etc.).
 
 ## Annotations
 
-[^key-de8745137d35cd20bc49107569a97110]: Textual amendment: Reg. 291(5) inserted (6.11.2020) by [The Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2020 (S.I. 2020/1125)](https://www.legislation.gov.uk/uksi/2020/1125), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2020/1125/regulation/23) and reg. 291(5) inserted (N.I.) (6.11.2020) by [The Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2020 (S.R. 2020/349)](https://www.legislation.gov.uk/nisr/2020/349), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/349/regulation/1/2), [23](https://www.legislation.gov.uk/nisr/2020/349/regulation/23)
+[^c-de8745137d35cd20bc49107569a97110]: Textual amendment: Reg. 291(5) inserted (6.11.2020) by [The Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2020 (S.I. 2020/1125)](https://www.legislation.gov.uk/uksi/2020/1125), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2020/1125/regulation/23) and reg. 291(5) inserted (N.I.) (6.11.2020) by [The Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2020 (S.R. 2020/349)](https://www.legislation.gov.uk/nisr/2020/349), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/349/regulation/1/2), [23](https://www.legislation.gov.uk/nisr/2020/349/regulation/23)

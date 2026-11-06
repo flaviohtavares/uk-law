@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Special provisions relating to statutory undertakers[^key-e626c6313093755ff23334fbf573b4c8]
+## 46. Special provisions relating to statutory undertakers[^c-e626c6313093755ff23334fbf573b4c8]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ has effect.
 
 ## Annotations
 
-[^key-e626c6313093755ff23334fbf573b4c8]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2018/5/section/46) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 82](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/82) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-e626c6313093755ff23334fbf573b4c8]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2018/5/section/46) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 82](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/82) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

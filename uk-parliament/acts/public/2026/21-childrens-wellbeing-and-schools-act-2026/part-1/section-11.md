@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Children in temporary accommodation[^key-26ff219913b860fa13a3f140d9c07994][^key-b198b75ff0091e33004457151d3c19e0]
+## 11. Children in temporary accommodation[^c-26ff219913b860fa13a3f140d9c07994][^c-b198b75ff0091e33004457151d3c19e0]
 
 *Extent: E+W*
 
@@ -84,6 +84,6 @@ summary: ''
 
 ## Annotations
 
-[^key-26ff219913b860fa13a3f140d9c07994]: Commencement: S. 11 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
+[^c-26ff219913b860fa13a3f140d9c07994]: Commencement: S. 11 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
 
-[^key-b198b75ff0091e33004457151d3c19e0]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2026/21/section/11) in force at 1.9.2026 in so far as not already in force by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2026/803/regulation/5/a)
+[^c-b198b75ff0091e33004457151d3c19e0]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2026/21/section/11) in force at 1.9.2026 in so far as not already in force by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2026/803/regulation/5/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16D. Modifications under section 16C: procedural requirements[^key-eed91a56e3034351df7a51db5d4d836e]
+## 16D. Modifications under section 16C: procedural requirements[^c-eed91a56e3034351df7a51db5d4d836e]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eed91a56e3034351df7a51db5d4d836e]: Textual amendment: Ss. 16C, 16D inserted (24.4.2025) by [Water (Special Measures) Act 2025 (c. 5)](https://www.legislation.gov.uk/ukpga/2025/5), [ss. 15](https://www.legislation.gov.uk/ukpga/2025/5/section/15), [17(5)(d)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/5/d)
+[^c-eed91a56e3034351df7a51db5d4d836e]: Textual amendment: Ss. 16C, 16D inserted (24.4.2025) by [Water (Special Measures) Act 2025 (c. 5)](https://www.legislation.gov.uk/ukpga/2025/5), [ss. 15](https://www.legislation.gov.uk/ukpga/2025/5/section/15), [17(5)(d)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/5/d)

@@ -24,14 +24,14 @@ Section 11
 
 ### Approval required for strategy
 
-**1.**[^key-16a6343ab256d9906e9cbc6375d12c25] Subject to paragraph 3(6), a strategy prepared or revised by the NDA has effect only if it is approved—
+**1.**[^c-16a6343ab256d9906e9cbc6375d12c25] Subject to paragraph 3(6), a strategy prepared or revised by the NDA has effect only if it is approved—
 
 - (a) by the Secretary of State; and
 - (b) to the extent that it relates to responsibilities of the NDA falling within section 6(2), also by the Scottish Ministers.
 
 ### Initial strategy
 
-**2.**[^key-8ab9179d810a9390cb2bc53b483b5648] The NDA must—
+**2.**[^c-8ab9179d810a9390cb2bc53b483b5648] The NDA must—
 
 - (a) prepare its first strategy, and
 - (b) submit a draft of it for approval,
@@ -40,7 +40,7 @@ before the end of the twelve months beginning with the commencement of section 1
 
 ### Strategy reviews and revisions
 
-**3.**[^key-579f653a6bc0fa8bbacc3285dc347f16] (1) The NDA must carry out and complete a review of its strategy before the end of each review period.
+**3.**[^c-579f653a6bc0fa8bbacc3285dc347f16] (1) The NDA must carry out and complete a review of its strategy before the end of each review period.
 
 (2) If, in consequence of such a review, the NDA decides that it is necessary to revise its strategy, it must submit the draft of its proposed revision for approval.
 
@@ -78,7 +78,7 @@ is an obligation to submit it as soon as reasonably practicable after the comple
 
 ### Consultation by NDA
 
-**4.**[^key-2f3dc22553a724b4f45cfc20b0a70069] (1) Before—
+**4.**[^c-2f3dc22553a724b4f45cfc20b0a70069] (1) Before—
 
 - (a) preparing a strategy,
 - (b) revising a strategy in a manner requiring approval, or
@@ -88,10 +88,10 @@ the NDA must consult the persons listed in sub-paragraph (2).
 
 (2) Those persons are—
 
-- (za)[^key-0a0f864ce729e2680567fddaa6572e69] the Office for Nuclear Regulation;
+- (za)[^c-0a0f864ce729e2680567fddaa6572e69] the Office for Nuclear Regulation;
 - (a) the Health and Safety Executive;
 - (b) the Environment Agency;
-- (ba)[^key-3d080fe84959b77ba4034285e33fb772] the Natural Resources Body for Wales;
+- (ba)[^c-3d080fe84959b77ba4034285e33fb772] the Natural Resources Body for Wales;
 - (c) the Scottish Environment Protection Agency;
 - (d) such persons with responsibilities in relation to nuclear security as have been nominated for the purposes of this sub-paragraph by the Secretary of State;
 - (e) every local authority whose area includes a designated installation, designated site or designated facility or a locality affected by activities at such an installation, site or facility;
@@ -114,7 +114,7 @@ the NDA must consult the persons listed in sub-paragraph (2).
 
 ### Approval of strategy
 
-**5.**[^key-a722a0fc55fad0c4d5b7d61f2b245bbb] (1) This paragraph applies where—
+**5.**[^c-a722a0fc55fad0c4d5b7d61f2b245bbb] (1) This paragraph applies where—
 
 - (a) anything is submitted for approval under this Schedule; or
 - (b) the NDA’s current strategy is submitted for the renewal of the strategy’s approval.
@@ -155,10 +155,10 @@ it takes effect as the approved strategy of the NDA from the time of the giving 
 (9) Before giving a direction under sub-paragraph (7), the Secretary of State and the Scottish Ministers or (as the case may be) the Secretary of State must consult—
 
 - (a) the NDA;
-- (aa)[^key-bb002ce70924697148a04981f7c3f03c] the Office for Nuclear Regulation;
+- (aa)[^c-bb002ce70924697148a04981f7c3f03c] the Office for Nuclear Regulation;
 - (b) the Health and Safety Executive;
 - (c) the Environment Agency;
-- (ca)[^key-758e2f9caeb95d216c6b7e3688234027] the Natural Resources Body for Wales;
+- (ca)[^c-758e2f9caeb95d216c6b7e3688234027] the Natural Resources Body for Wales;
 - (d) the Scottish Environment Protection Agency; and
 - (e) such persons with responsibilities in relation to nuclear security as have been nominated for the purposes of this sub-paragraph by the Secretary of State.
 
@@ -173,7 +173,7 @@ the Secretary of State or the Scottish Ministers may refuse approval without giv
 
 ### Publication of strategy
 
-**6.**[^key-57e48cf9a477ed045724297a4a67922b] (1) The NDA must publish its approved strategy in the manner which, in its opinion, is most appropriate for bringing it to the attention of persons likely to be affected by it.
+**6.**[^c-57e48cf9a477ed045724297a4a67922b] (1) The NDA must publish its approved strategy in the manner which, in its opinion, is most appropriate for bringing it to the attention of persons likely to be affected by it.
 
 (2) Where it revises that strategy, it must so publish the revised strategy.
 
@@ -192,22 +192,22 @@ the Secretary of State or the Scottish Ministers may refuse approval without giv
 
 ## Annotations
 
-[^key-16a6343ab256d9906e9cbc6375d12c25]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/2/paragraph/1) in force at 31.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/442/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/442/schedule/2)
+[^c-16a6343ab256d9906e9cbc6375d12c25]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/2/paragraph/1) in force at 31.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/442/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/442/schedule/2)
 
-[^key-8ab9179d810a9390cb2bc53b483b5648]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2004/20/schedule/2/paragraph/2) in force at 31.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/442/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/442/schedule/2)
+[^c-8ab9179d810a9390cb2bc53b483b5648]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2004/20/schedule/2/paragraph/2) in force at 31.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/442/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/442/schedule/2)
 
-[^key-579f653a6bc0fa8bbacc3285dc347f16]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2004/20/schedule/2/paragraph/3) in force at 31.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/442/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/442/schedule/2)
+[^c-579f653a6bc0fa8bbacc3285dc347f16]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2004/20/schedule/2/paragraph/3) in force at 31.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/442/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/442/schedule/2)
 
-[^key-2f3dc22553a724b4f45cfc20b0a70069]: Commencement: Sch. 2 para. 4 in force at 31.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/442/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/442/schedule/2)
+[^c-2f3dc22553a724b4f45cfc20b0a70069]: Commencement: Sch. 2 para. 4 in force at 31.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/442/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/442/schedule/2)
 
-[^key-0a0f864ce729e2680567fddaa6572e69]: Textual amendment: [Sch. 2 para. 4(2)(za)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/2/paragraph/4/2/za) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 79(2)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/79/2); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-0a0f864ce729e2680567fddaa6572e69]: Textual amendment: [Sch. 2 para. 4(2)(za)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/2/paragraph/4/2/za) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 79(2)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/79/2); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-3d080fe84959b77ba4034285e33fb772]: Textual amendment: Sch. 2 para. 4(2)(ba) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 427(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/427/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-3d080fe84959b77ba4034285e33fb772]: Textual amendment: Sch. 2 para. 4(2)(ba) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 427(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/427/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-a722a0fc55fad0c4d5b7d61f2b245bbb]: Commencement: Sch. 2 para. 5 in force at 31.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/442/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/442/schedule/2)
+[^c-a722a0fc55fad0c4d5b7d61f2b245bbb]: Commencement: Sch. 2 para. 5 in force at 31.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/442/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/442/schedule/2)
 
-[^key-bb002ce70924697148a04981f7c3f03c]: Textual amendment: [Sch. 2 para. 5(9)(aa)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/2/paragraph/5/9/aa) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 79(3)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/79/3); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-bb002ce70924697148a04981f7c3f03c]: Textual amendment: [Sch. 2 para. 5(9)(aa)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/2/paragraph/5/9/aa) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 79(3)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/79/3); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-758e2f9caeb95d216c6b7e3688234027]: Textual amendment: Sch. 2 para. 5(9)(ca) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 427(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/427/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-758e2f9caeb95d216c6b7e3688234027]: Textual amendment: Sch. 2 para. 5(9)(ca) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 427(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/427/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-57e48cf9a477ed045724297a4a67922b]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2004/20/schedule/2/paragraph/6) in force at 31.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/442/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/442/schedule/2)
+[^c-57e48cf9a477ed045724297a4a67922b]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2004/20/schedule/2/paragraph/6) in force at 31.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/442/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/442/schedule/2)

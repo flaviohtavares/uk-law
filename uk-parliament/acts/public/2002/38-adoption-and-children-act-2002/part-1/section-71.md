@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Property devolving with peerages etc.[^key-2bb6018e6edbd41385a83b559760fb13][^key-b27ea205c059af3552ef5a0aaf2a7a53]
+## 71. Property devolving with peerages etc.[^c-2bb6018e6edbd41385a83b559760fb13][^c-b27ea205c059af3552ef5a0aaf2a7a53]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2bb6018e6edbd41385a83b559760fb13]: Commencement: S. 71 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/d) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-2bb6018e6edbd41385a83b559760fb13]: Commencement: S. 71 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/d) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
 
-[^key-b27ea205c059af3552ef5a0aaf2a7a53]: Modification: S. 71 applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2010/985/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/985/schedule/1)
+[^c-b27ea205c059af3552ef5a0aaf2a7a53]: Modification: S. 71 applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2010/985/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/985/schedule/1)

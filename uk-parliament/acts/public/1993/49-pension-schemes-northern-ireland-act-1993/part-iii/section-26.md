@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Securing of liability for protected rights.[^key-f4a6397abde0a88ec98032d368a3ee83]
+## 26. Securing of liability for protected rights.[^c-f4a6397abde0a88ec98032d368a3ee83]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f4a6397abde0a88ec98032d368a3ee83]: Textual amendment: S. 26 repealed (6.4.2012) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 85(3)(d)](https://www.legislation.gov.uk/nia/2008/13/section/85/3/d), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/nia/2008/13/schedule/10/part/3) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2012/119](https://www.legislation.gov.uk/nisr/2012/119), [art. 2(a)(c)](https://www.legislation.gov.uk/nisr/2012/119/article/2/a/c)
+[^c-f4a6397abde0a88ec98032d368a3ee83]: Textual amendment: S. 26 repealed (6.4.2012) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 85(3)(d)](https://www.legislation.gov.uk/nia/2008/13/section/85/3/d), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/nia/2008/13/schedule/10/part/3) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2012/119](https://www.legislation.gov.uk/nisr/2012/119), [art. 2(a)(c)](https://www.legislation.gov.uk/nisr/2012/119/article/2/a/c)

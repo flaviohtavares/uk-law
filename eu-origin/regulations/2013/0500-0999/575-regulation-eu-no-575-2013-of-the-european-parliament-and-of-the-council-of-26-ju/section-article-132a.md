@@ -16,10 +16,10 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 132a. Approaches for calculating risk-weighted exposure amounts of CIUs[^key-75cd79cadb7dff75f57cb262352863a0]
+## Article 132a. Approaches for calculating risk-weighted exposure amounts of CIUs[^c-75cd79cadb7dff75f57cb262352863a0]
 
 *Extent: E+W+S+N.I.*
 
 ## Annotations
 
-[^key-75cd79cadb7dff75f57cb262352863a0]: Textual amendment: [Art. 132a](https://www.legislation.gov.uk/eur/2013/575/article/132a) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [6(3)(c)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/6/3/c)
+[^c-75cd79cadb7dff75f57cb262352863a0]: Textual amendment: [Art. 132a](https://www.legislation.gov.uk/eur/2013/575/article/132a) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [6(3)(c)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/6/3/c)

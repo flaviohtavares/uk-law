@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39A. Delegation by Ministers[^key-a0d01aa8b1de63d046ce13d93c70b95e]
+## 39A. Delegation by Ministers[^c-a0d01aa8b1de63d046ce13d93c70b95e]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0d01aa8b1de63d046ce13d93c70b95e]: Textual amendment: S. 39A and cross-heading inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 223(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/223/2), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(cc)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/cc) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-a0d01aa8b1de63d046ce13d93c70b95e]: Textual amendment: S. 39A and cross-heading inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 223(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/223/2), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(cc)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/cc) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))

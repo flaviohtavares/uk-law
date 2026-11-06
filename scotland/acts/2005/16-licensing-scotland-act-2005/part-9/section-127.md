@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 127. Power to prohibit sale of alcohol on trains[^key-70219acc1f9e7ae9ce6da2b4b7fbaccd]
+## 127. Power to prohibit sale of alcohol on trains[^c-70219acc1f9e7ae9ce6da2b4b7fbaccd]
 
 *Extent: S*
 
@@ -34,7 +34,7 @@ make an order under subsection (2).
 
 (3) An order under subsection (2) has no effect in relation to any railway vehicle unless a copy of it has been given by a senior police officer to the train operator (or each train operator) responsible for the vehicle.
 
-(4) A person who [^key-f9dfed8a6f1bdb7057a4ba458e3bb105]...—
+(4) A person who [^c-f9dfed8a6f1bdb7057a4ba458e3bb105]...—
 
 - (a) sells or attempts to sell alcohol in breach of an order under subsection (2), or
 - (b) allows the sale of alcohol in breach of such an order,
@@ -54,6 +54,6 @@ commits an offence.
 
 ## Annotations
 
-[^key-70219acc1f9e7ae9ce6da2b4b7fbaccd]: Commencement: S. 127 in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-70219acc1f9e7ae9ce6da2b4b7fbaccd]: Commencement: S. 127 in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
 
-[^key-f9dfed8a6f1bdb7057a4ba458e3bb105]: Textual amendment: Word in s. 127(4) repealed (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 195(2)(h)](https://www.legislation.gov.uk/asp/2010/13/section/195/2/h), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-f9dfed8a6f1bdb7057a4ba458e3bb105]: Textual amendment: Word in s. 127(4) repealed (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 195(2)(h)](https://www.legislation.gov.uk/asp/2010/13/section/195/2/h), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

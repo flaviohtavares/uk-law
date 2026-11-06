@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Publishing advertisements[^key-9b6568b72dd18fa7039e74c97770d0d5]
+## 118. Publishing advertisements[^c-9b6568b72dd18fa7039e74c97770d0d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b6568b72dd18fa7039e74c97770d0d5]: Commencement: S. 118 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
+[^c-9b6568b72dd18fa7039e74c97770d0d5]: Commencement: S. 118 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)

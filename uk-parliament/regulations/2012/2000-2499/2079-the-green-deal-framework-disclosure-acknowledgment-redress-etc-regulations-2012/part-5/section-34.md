@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. No restriction on change of gas or electricity supplier[^key-554a4e43cb053cea4408773775853982]
+## 34. No restriction on change of gas or electricity supplier[^c-554a4e43cb053cea4408773775853982]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The energy plan must not restrict a bill payer from changing gas or electricity 
 
 ## Annotations
 
-[^key-554a4e43cb053cea4408773775853982]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2012/2079/regulation/34) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)
+[^c-554a4e43cb053cea4408773775853982]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2012/2079/regulation/34) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)

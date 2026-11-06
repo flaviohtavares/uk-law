@@ -47,7 +47,7 @@ Coming into force
 
 The Secretary of State for the Environment, as respects England, the Secretary of State for Scotland, as respects Scotland, and the Secretary of State for Wales, as respects Wales, in exercise of the powers conferred upon them by sections 2(2)(a) and 190(1) of the Local Government and Housing Act 1989[^f00001], and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-**1.**[^key-fef1ad808cba89a0d0b0db44df1d165f] (1) These Regulations may be cited as the Local Government (Politically Restricted Posts) (No. 2) Regulations 1990 and shall come into force on 8th August 1990.
+**1.**[^c-fef1ad808cba89a0d0b0db44df1d165f] (1) These Regulations may be cited as the Local Government (Politically Restricted Posts) (No. 2) Regulations 1990 and shall come into force on 8th August 1990.
 
 (2) In these Regulations —
 
@@ -58,7 +58,7 @@ The Secretary of State for the Environment, as respects England, the Secretary o
 - “the Scottish Council’s Scheme” means the Scottish Council’s Scheme of Salaries and Conditions of Service; and
 - “scheme terms” means the terms and conditions of appointment or employment specified, as respects posts in England and Wales, in the National Joint Council’s Scheme and, as respects posts in Scotland, in the Scottish Council’s Scheme.
 
-**2.**[^key-aae64cc0b18ad1349bb0e24d0fdfb68c] (1) Subject to paragraphs (2) and (3), the amount for the purposes of section 2(2) of the Act is (so long as it is higher than £19,500) such amount as is published from time to time—
+**2.**[^c-aae64cc0b18ad1349bb0e24d0fdfb68c] (1) Subject to paragraphs (2) and (3), the amount for the purposes of section 2(2) of the Act is (so long as it is higher than £19,500) such amount as is published from time to time—
 
 - (a) as respects full-time posts under a local authority in England or Wales, by the National Joint Council; or
 - (b) as respects full-time posts under a local authority in Scotland, by the Scottish Council,
@@ -94,7 +94,7 @@ as described in the National Joint Council’s Scheme, and
 
 as described in the Scottish Council’s Scheme.
 
-**3.**[^key-13de8414ba13a6521209355cbe4f292a] The Local Government (Politically Restricted Posts) Regulations 1990[^f00002] are hereby revoked.
+**3.**[^c-13de8414ba13a6521209355cbe4f292a] The Local Government (Politically Restricted Posts) Regulations 1990[^f00002] are hereby revoked.
 
 Chris Patten
 
@@ -129,10 +129,10 @@ The Regulations revoke the Local Government (Politically Restricted Posts) Regul
 
 [^f00001]: Footnote: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^key-fef1ad808cba89a0d0b0db44df1d165f]: Commencement: Reg. 1 in force at 8.8.1990, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1990/1447/regulation/1/1)
+[^c-fef1ad808cba89a0d0b0db44df1d165f]: Commencement: Reg. 1 in force at 8.8.1990, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1990/1447/regulation/1/1)
 
-[^key-aae64cc0b18ad1349bb0e24d0fdfb68c]: Commencement: Reg. 2 in force at 8.8.1990, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1990/1447/regulation/1/1)
+[^c-aae64cc0b18ad1349bb0e24d0fdfb68c]: Commencement: Reg. 2 in force at 8.8.1990, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1990/1447/regulation/1/1)
 
-[^key-13de8414ba13a6521209355cbe4f292a]: Commencement: Reg. 3 in force at 8.8.1990, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1990/1447/regulation/1/1)
+[^c-13de8414ba13a6521209355cbe4f292a]: Commencement: Reg. 3 in force at 8.8.1990, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1990/1447/regulation/1/1)
 
 [^f00002]: Footnote: S.I. [1990/42](https://www.legislation.gov.uk/uksi/1990/42).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Conditions for exercise of search and seizure powers[^key-9eea0f2508052b55edde581014fedd33]
+## 22. Conditions for exercise of search and seizure powers[^c-9eea0f2508052b55edde581014fedd33]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9eea0f2508052b55edde581014fedd33]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2015/9/section/22) in force at 1.3.2016 by [S.S.I. 2016/11](https://www.legislation.gov.uk/ssi/2016/11), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2016/11/regulation/2/g)
+[^c-9eea0f2508052b55edde581014fedd33]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2015/9/section/22) in force at 1.3.2016 by [S.S.I. 2016/11](https://www.legislation.gov.uk/ssi/2016/11), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2016/11/regulation/2/g)

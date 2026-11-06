@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Acquisition of subsoil or airspace only[^key-2d695be4211c288ebe587be66b52995f]
+## 30. Acquisition of subsoil or airspace only[^c-2d695be4211c288ebe587be66b52995f]
 
 *Extent: E+W+S*
 
-(1) The undertaker may acquire compulsorily so much of, or such rights in, the subsoil or airspace of the land referred to in paragraph (1)[^key-9562e55533610122c5c679f628716df5] of article 24 (compulsory acquisition of land) or article 26 (compulsory acquisition of rights) as may be required for any purpose for which that land may be acquired under that provision instead of acquiring the whole of the land.
+(1) The undertaker may acquire compulsorily so much of, or such rights in, the subsoil or airspace of the land referred to in paragraph (1)[^c-9562e55533610122c5c679f628716df5] of article 24 (compulsory acquisition of land) or article 26 (compulsory acquisition of rights) as may be required for any purpose for which that land may be acquired under that provision instead of acquiring the whole of the land.
 
 (2) Where the undertaker acquires any part of, or rights in, the subsoil or airspace of land under paragraph (1), the undertaker is not required to acquire an interest in any other part of the land.
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2d695be4211c288ebe587be66b52995f]: Commencement: Art. 30 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-2d695be4211c288ebe587be66b52995f]: Commencement: Art. 30 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
 
-[^key-9562e55533610122c5c679f628716df5]: Textual amendment: Words in [art. 30(1)](https://www.legislation.gov.uk/uksi/2025/362/article/30/1) substituted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)
+[^c-9562e55533610122c5c679f628716df5]: Textual amendment: Words in [art. 30(1)](https://www.legislation.gov.uk/uksi/2025/362/article/30/1) substituted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)

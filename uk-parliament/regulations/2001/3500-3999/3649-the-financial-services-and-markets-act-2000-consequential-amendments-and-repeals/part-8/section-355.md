@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 355. Transfer of engagements of registered social landlord[^key-8e9028942a07010581b91f3a9511dda7]
+## 355. Transfer of engagements of registered social landlord[^c-8e9028942a07010581b91f3a9511dda7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 48(3) of the Housing Act 1996 (copy of transfer of engagements of soc
 
 ## Annotations
 
-[^key-8e9028942a07010581b91f3a9511dda7]: Commencement: Art. 355 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-8e9028942a07010581b91f3a9511dda7]: Commencement: Art. 355 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

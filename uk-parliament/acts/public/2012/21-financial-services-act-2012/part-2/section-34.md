@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Repeal of special competition regime[^key-4d2b4ea0883a45702e89485e16ca011a]
+## 34. Repeal of special competition regime[^c-4d2b4ea0883a45702e89485e16ca011a]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In Part 18 of FSMA 2000 (recognised investment exchanges and clearing houses)—
 
 ## Annotations
 
-[^key-4d2b4ea0883a45702e89485e16ca011a]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2012/21/section/34) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-4d2b4ea0883a45702e89485e16ca011a]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2012/21/section/34) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

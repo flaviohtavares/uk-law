@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Specified ships[^key-5aa050f4a3f6c83b027944342833e0fd]
+## 60. Specified ships[^c-5aa050f4a3f6c83b027944342833e0fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 14 of the 2018 Act (“specified ships”), in subsection (6), omit p
 
 ## Annotations
 
-[^key-5aa050f4a3f6c83b027944342833e0fd]: Commencement: S. 60 in force at Royal Assent, see [s. 69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-5aa050f4a3f6c83b027944342833e0fd]: Commencement: S. 60 in force at Royal Assent, see [s. 69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)

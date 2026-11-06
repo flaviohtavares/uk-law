@@ -4725,7 +4725,7 @@ Section 18
 
 **125.** In section 138 (deferment of balancing charge arising when there is a disposal event in respect of a ship: limit on amount of deferral) in subsection (2)(b) after “45” insert “ , 45A or 45B ”.
 
-**126.**[^key-d2e14b6cdae9f7ab3d95010e5a9fa7b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**126.**[^c-d2e14b6cdae9f7ab3d95010e5a9fa7b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Energy Act 2004
 
@@ -4959,7 +4959,7 @@ Section 18
 - (a) after “37” insert “ or 45A ”, and
 - (b) after “Part 5” insert “ or Part 5A ”.
 
-**155.**[^key-8cc430ee5634b5ce42ac3f69bf6e21a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**155.**[^c-8cc430ee5634b5ce42ac3f69bf6e21a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **156.** (1) Section 95 (write-off of government investment: meaning of “carry forward losses”) is amended as follows.
 
@@ -5089,7 +5089,7 @@ Section 18
 - (c) in row 5, omit from “, but excluding” to the end, and
 - (d) in row 6, omit from “and treated” to the end.
 
-**172.**[^key-1b0e2d86bcf54717113f5c771fed05ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**172.**[^c-1b0e2d86bcf54717113f5c771fed05ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **173.** (1) Section 888 (restrictions on leasing partnership losses) is amended as follows.
 
@@ -5413,8 +5413,8 @@ Section 18
 
 ## Annotations
 
-[^key-d2e14b6cdae9f7ab3d95010e5a9fa7b9]: Textual amendment: Sch. 4 para. 126 repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/a)[(c)(xiii)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/c/xiii)
+[^c-d2e14b6cdae9f7ab3d95010e5a9fa7b9]: Textual amendment: Sch. 4 para. 126 repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/a)[(c)(xiii)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/c/xiii)
 
-[^key-8cc430ee5634b5ce42ac3f69bf6e21a2]: Textual amendment: Sch. 4 para. 155 repealed (for the purposes of corporation tax in relation to accounting periods beginning on or after 1.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 7(e)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/7/e), [12(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/2) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-8cc430ee5634b5ce42ac3f69bf6e21a2]: Textual amendment: Sch. 4 para. 155 repealed (for the purposes of corporation tax in relation to accounting periods beginning on or after 1.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 7(e)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/7/e), [12(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/2) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
 
-[^key-1b0e2d86bcf54717113f5c771fed05ad]: Textual amendment: [Sch. 4 para. 172](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/172) omitted (with effect in accordance with Sch. 10 para. 32 of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 10 para. 31(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/10/paragraph/31/2)
+[^c-1b0e2d86bcf54717113f5c771fed05ad]: Textual amendment: [Sch. 4 para. 172](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/172) omitted (with effect in accordance with Sch. 10 para. 32 of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 10 para. 31(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/10/paragraph/31/2)

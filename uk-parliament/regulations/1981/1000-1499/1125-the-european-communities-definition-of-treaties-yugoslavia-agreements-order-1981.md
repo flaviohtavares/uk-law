@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Definition of Treaties) (Yugoslavia Agreements) Order 1981 (revoked)[^key-128c813b77e288058af2a4b21b236f25]
+The European Communities (Definition of Treaties) (Yugoslavia Agreements) Order 1981 (revoked)[^c-128c813b77e288058af2a4b21b236f25]
 
 Laid before Parliament in draft
 
@@ -41,24 +41,24 @@ Made
 
 Coming into operation in accordance with Article 1
 
-[^key-128c813b77e288058af2a4b21b236f25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-128c813b77e288058af2a4b21b236f25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-128c813b77e288058af2a4b21b236f25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-128c813b77e288058af2a4b21b236f25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-128c813b77e288058af2a4b21b236f25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-128c813b77e288058af2a4b21b236f25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-128c813b77e288058af2a4b21b236f25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-128c813b77e288058af2a4b21b236f25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-128c813b77e288058af2a4b21b236f25]
+## SCHEDULE[^c-128c813b77e288058af2a4b21b236f25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-128c813b77e288058af2a4b21b236f25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-128c813b77e288058af2a4b21b236f25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-128c813b77e288058af2a4b21b236f25]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1981/1125) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-128c813b77e288058af2a4b21b236f25]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1981/1125) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

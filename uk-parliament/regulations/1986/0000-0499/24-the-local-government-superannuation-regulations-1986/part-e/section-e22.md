@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E22. Pensionable remuneration[^key-e8b40ed526293cd8ca2abfeedcb85e8b]
+## E22. Pensionable remuneration[^c-e8b40ed526293cd8ca2abfeedcb85e8b]
 
 *Extent: E+W+S*
 
@@ -100,6 +100,6 @@ his pensionable remuneration is to be determined by reference to those earnings.
 
 ## Annotations
 
-[^key-e8b40ed526293cd8ca2abfeedcb85e8b]: Commencement: [Reg. E22](https://www.legislation.gov.uk/uksi/1986/24/regulation/E22) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-e8b40ed526293cd8ca2abfeedcb85e8b]: Commencement: [Reg. E22](https://www.legislation.gov.uk/uksi/1986/24/regulation/E22) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00042]: Footnote: [1975 c.14](https://www.legislation.gov.uk/ukpga/1975/14).

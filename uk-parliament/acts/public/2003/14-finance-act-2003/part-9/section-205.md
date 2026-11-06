@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Any power to make subordinate legislation for or in connection with the making of payments conferred in relation to a taxation (or duty)[^key-85f755b562fbff20cc02a53d687c6c83] matter on—
+(1) Any power to make subordinate legislation for or in connection with the making of payments conferred in relation to a taxation (or duty)[^c-85f755b562fbff20cc02a53d687c6c83] matter on—
 
-- (a) the Commissioners for Her Majesty's Revenue and Customs[^key-cc24a7dbffe2994913a91f1b82f6be33], or
+- (a) the Commissioners for Her Majesty's Revenue and Customs[^c-cc24a7dbffe2994913a91f1b82f6be33], or
 - (b) the Treasury,
 
 includes power to make any such provision in relation to the making of those payments as could be made in exercise of the power conferred by section 204.
@@ -35,6 +35,6 @@ includes power to make any such provision in relation to the making of those pay
 
 ## Annotations
 
-[^key-85f755b562fbff20cc02a53d687c6c83]: Textual amendment: Words in s. 205(1) inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 94(8)(a)](https://www.legislation.gov.uk/ukpga/2007/11/section/94/8/a)
+[^c-85f755b562fbff20cc02a53d687c6c83]: Textual amendment: Words in s. 205(1) inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 94(8)(a)](https://www.legislation.gov.uk/ukpga/2007/11/section/94/8/a)
 
-[^key-cc24a7dbffe2994913a91f1b82f6be33]: Textual amendment: Words in s. 205(1) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 94(8)(b)](https://www.legislation.gov.uk/ukpga/2007/11/section/94/8/b)
+[^c-cc24a7dbffe2994913a91f1b82f6be33]: Textual amendment: Words in s. 205(1) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 94(8)(b)](https://www.legislation.gov.uk/ukpga/2007/11/section/94/8/b)

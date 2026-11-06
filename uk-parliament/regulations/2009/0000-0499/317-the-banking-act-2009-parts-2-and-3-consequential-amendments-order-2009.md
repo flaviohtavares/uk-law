@@ -48,7 +48,7 @@ Coming into force
 
 [^c19572301]The Treasury, in exercise of the powers conferred by sections 135 and 168 of the Banking Act 2009 , make the following Order.
 
-The powers in sections 135 and 168 of the Banking Act 2009 are being exercised for the first time and the Treasury is satisfied, in accordance with section 259(4) of that Act, that it is necessary to exercise it without laying a draft for approval.[^key-34addaa26e7b037aa2e9e61189515e58]
+The powers in sections 135 and 168 of the Banking Act 2009 are being exercised for the first time and the Treasury is satisfied, in accordance with section 259(4) of that Act, that it is necessary to exercise it without laying a draft for approval.[^c-34addaa26e7b037aa2e9e61189515e58]
 
 ## PART 1 — Introduction
 
@@ -166,7 +166,7 @@ sections 1139 and 1140 (service of documents on company, directors, secretaries 
 - (a) paragraph 30 is to be read so as to include the 2009 Act in the list of enactments in that paragraph, and
 - (b) paragraph 52 is to be read so as to include the 2009 Act in the list of enactments in that paragraph.
 
-### 7. Dormant Bank and Building Society Accounts Act 2008[^key-0b03eba90bfc53b1f6d8070d7b67cb4d]
+### 7. Dormant Bank and Building Society Accounts Act 2008[^c-0b03eba90bfc53b1f6d8070d7b67cb4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -320,7 +320,7 @@ Insolvency Practitioners and Insolvency Account (Fees) Order (Northern Ireland) 
 
 Land Registration (Scotland) Rules 2006 [^c19573061]
 
-[^key-5ea265cfdac0ae3936bafcd6517a2c4c]...
+[^c-5ea265cfdac0ae3936bafcd6517a2c4c]...
 
 Regulated Covered Bonds Regulations 2008 [^c19573081]
 
@@ -342,7 +342,7 @@ An impact assessment of the effect of the 2009 Act is available on HM Treasury's
 
 [^c19572301]: Marginal citation: [2009 c.1](https://www.legislation.gov.uk/ukpga/2009/1).
 
-[^key-34addaa26e7b037aa2e9e61189515e58]: Modification: [Order](https://www.legislation.gov.uk/uksi/2009/317) applied (with modifications) (29.3.2009) by [The Building Societies (Insolvency and Special Administration) Order 2009 (S.I. 2009/805)](https://www.legislation.gov.uk/uksi/2009/805), [art. 18](https://www.legislation.gov.uk/uksi/2009/805/article/18), [Sch. 2 paras. 1(a)](https://www.legislation.gov.uk/uksi/2009/805/schedule/2/paragraph/1/a), [2](https://www.legislation.gov.uk/uksi/2009/805/schedule/2/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2009/805/schedule/2/paragraph/3)
+[^c-34addaa26e7b037aa2e9e61189515e58]: Modification: [Order](https://www.legislation.gov.uk/uksi/2009/317) applied (with modifications) (29.3.2009) by [The Building Societies (Insolvency and Special Administration) Order 2009 (S.I. 2009/805)](https://www.legislation.gov.uk/uksi/2009/805), [art. 18](https://www.legislation.gov.uk/uksi/2009/805/article/18), [Sch. 2 paras. 1(a)](https://www.legislation.gov.uk/uksi/2009/805/schedule/2/paragraph/1/a), [2](https://www.legislation.gov.uk/uksi/2009/805/schedule/2/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2009/805/schedule/2/paragraph/3)
 
 [^c19572311]: Marginal citation: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
 
@@ -374,7 +374,7 @@ An impact assessment of the effect of the 2009 Act is available on HM Treasury's
 
 [^c19572451]: Marginal citation: [Part 2](https://www.legislation.gov.uk/uksi/2009/317/part/2) of Schedule 11A was inserted by [S.I. 2007/3494](https://www.legislation.gov.uk/uksi/2007/3494), [regulation 8(2)](https://www.legislation.gov.uk/uksi/2007/3494/regulation/8/2) and Schedule.
 
-[^key-0b03eba90bfc53b1f6d8070d7b67cb4d]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2009/317/article/7) omitted (6.6.2022) by virtue of [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/17); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-0b03eba90bfc53b1f6d8070d7b67cb4d]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2009/317/article/7) omitted (6.6.2022) by virtue of [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3), [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2022/5/schedule/1/paragraph/17); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
 [^c19572471]: Marginal citation: [S.I. 2005/590](https://www.legislation.gov.uk/uksi/2005/590).
 
@@ -496,6 +496,6 @@ An impact assessment of the effect of the 2009 Act is available on HM Treasury's
 
 [^c19573061]: Marginal citation: [S.S.I. 2006/485](https://www.legislation.gov.uk/ssi/2006/485).
 
-[^key-5ea265cfdac0ae3936bafcd6517a2c4c]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2009/317/schedule) omitted (31.12.2020) by virtue of [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 3 para. 21](https://www.legislation.gov.uk/uksi/2019/348/schedule/3/paragraph/21); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5ea265cfdac0ae3936bafcd6517a2c4c]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2009/317/schedule) omitted (31.12.2020) by virtue of [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 3 para. 21](https://www.legislation.gov.uk/uksi/2019/348/schedule/3/paragraph/21); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19573081]: Marginal citation: [S.I. 2008/346](https://www.legislation.gov.uk/uksi/2008/346).

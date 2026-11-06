@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 491A. Claims in relation to certain reliefs[^key-db73ee1ac1cda312061aad13827e073c]
+## 491A. Claims in relation to certain reliefs[^c-db73ee1ac1cda312061aad13827e073c]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ as they apply to claims to which that section applies.
 
 ## Annotations
 
-[^key-db73ee1ac1cda312061aad13827e073c]: Textual amendment: S. 491A and cross-heading inserted (retrospective to 8.4.2010) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 15 paras. 4](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/4), [17(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/17/1)
+[^c-db73ee1ac1cda312061aad13827e073c]: Textual amendment: S. 491A and cross-heading inserted (retrospective to 8.4.2010) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 15 paras. 4](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/4), [17(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/17/1)

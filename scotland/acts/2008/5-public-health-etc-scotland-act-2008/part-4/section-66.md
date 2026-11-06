@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Absconding from quarantine[^key-0006cbe819ba35d000c5fd3226b5de7c]
+## 66. Absconding from quarantine[^c-0006cbe819ba35d000c5fd3226b5de7c]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ that person is liable to be taken into custody by a person mentioned in subsecti
 
 ## Annotations
 
-[^key-0006cbe819ba35d000c5fd3226b5de7c]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2008/5/section/66) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-0006cbe819ba35d000c5fd3226b5de7c]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2008/5/section/66) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

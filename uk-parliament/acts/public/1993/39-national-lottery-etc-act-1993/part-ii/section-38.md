@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Grants to charities etc.[^key-02490f5a5f15d8719f079204601c5481]
+## 38. Grants to charities etc.[^c-02490f5a5f15d8719f079204601c5481]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02490f5a5f15d8719f079204601c5481]: Textual amendment: [Ss. 37-39](https://www.legislation.gov.uk/ukpga/1993/39/section/37) repealed (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 19(6)(a)](https://www.legislation.gov.uk/ukpga/2006/23/section/19/6/a), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/23/schedule/3); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(d)(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/d/e)
+[^c-02490f5a5f15d8719f079204601c5481]: Textual amendment: [Ss. 37-39](https://www.legislation.gov.uk/ukpga/1993/39/section/37) repealed (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 19(6)(a)](https://www.legislation.gov.uk/ukpga/2006/23/section/19/6/a), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/23/schedule/3); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(d)(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/d/e)

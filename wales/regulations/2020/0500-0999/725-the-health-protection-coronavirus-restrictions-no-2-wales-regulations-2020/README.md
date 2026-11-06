@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-The Health Protection (Coronavirus Restrictions) (No. 2) (Wales) Regulations 2020 (revoked)[^key-93dcb98f9cfc14af7b2f6a5c52583a51]
+The Health Protection (Coronavirus Restrictions) (No. 2) (Wales) Regulations 2020 (revoked)[^c-93dcb98f9cfc14af7b2f6a5c52583a51]
 
 Approved by Senedd Cymru
 
@@ -45,11 +45,11 @@ at 6.00 p.m. on 10 July 2020
 
 Coming into force in accordance with regulation 1(3) and (4)
 
-[^key-93dcb98f9cfc14af7b2f6a5c52583a51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-93dcb98f9cfc14af7b2f6a5c52583a51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introduction[^key-93dcb98f9cfc14af7b2f6a5c52583a51]
+### PART 1 — Introduction[^c-93dcb98f9cfc14af7b2f6a5c52583a51]
 
 *Extent: E+W*
 
@@ -62,7 +62,7 @@ Coming into force in accordance with regulation 1(3) and (4)
 - [Section 4 — Review](part-1/section-4.md)
 - [Section 5 — Expiry](part-1/section-5.md)
 
-### PART 2 — Closure of businesses and premises[^key-93dcb98f9cfc14af7b2f6a5c52583a51]
+### PART 2 — Closure of businesses and premises[^c-93dcb98f9cfc14af7b2f6a5c52583a51]
 
 *Extent: E+W*
 
@@ -75,7 +75,7 @@ Coming into force in accordance with regulation 1(3) and (4)
 - [Section 10 — Closure of ... community centres](part-2/section-10.md)
 - [Section 11 — Closure of certain public paths and access land](part-2/section-11.md)
 
-### PART 3 — Minimising risk of exposure to coronavirus at open premises and while working[^key-93dcb98f9cfc14af7b2f6a5c52583a51]
+### PART 3 — Minimising risk of exposure to coronavirus at open premises and while working[^c-93dcb98f9cfc14af7b2f6a5c52583a51]
 
 *Extent: E+W*
 
@@ -88,7 +88,7 @@ Coming into force in accordance with regulation 1(3) and (4)
 - [Section 12B — Requirement to wear face covering in certain indoor public places](part-3/section-12b.md)
 - [Section 13 — Guidance on minimising exposure](part-3/section-13.md)
 
-### PART 4 — Gathering with other people[^key-93dcb98f9cfc14af7b2f6a5c52583a51]
+### PART 4 — Gathering with other people[^c-93dcb98f9cfc14af7b2f6a5c52583a51]
 
 *Extent: E+W*
 
@@ -98,7 +98,7 @@ Coming into force in accordance with regulation 1(3) and (4)
 - [Section 14A — Restriction on outdoor gatherings](part-4/section-14a.md)
 - [Section 14B — Restriction on organising certain unlicensed music events](part-4/section-14b.md)
 
-### PART 4A — Local restrictions[^key-93dcb98f9cfc14af7b2f6a5c52583a51]
+### PART 4A — Local restrictions[^c-93dcb98f9cfc14af7b2f6a5c52583a51]
 
 *Extent: E+W*
 
@@ -106,7 +106,7 @@ Coming into force in accordance with regulation 1(3) and (4)
 
 - [Section 14C — Local health protection areas](part-4a/section-14c.md)
 
-### PART 4B — Travel restrictions[^key-93dcb98f9cfc14af7b2f6a5c52583a51]
+### PART 4B — Travel restrictions[^c-93dcb98f9cfc14af7b2f6a5c52583a51]
 
 **No longer in force.**
 
@@ -114,7 +114,7 @@ Coming into force in accordance with regulation 1(3) and (4)
 - [Section 15 — Exception for organised outdoor activities](part-4b/section-15.md)
 - [Section 16 — Requirement to continue to work from home where practicable](part-4b/section-16.md)
 
-### PART 5 — Enforcement[^key-93dcb98f9cfc14af7b2f6a5c52583a51]
+### PART 5 — Enforcement[^c-93dcb98f9cfc14af7b2f6a5c52583a51]
 
 *Extent: E+W*
 
@@ -141,14 +141,14 @@ Coming into force in accordance with regulation 1(3) and (4)
 
 **No longer in force.**
 
-[^key-93dcb98f9cfc14af7b2f6a5c52583a51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-93dcb98f9cfc14af7b2f6a5c52583a51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-93dcb98f9cfc14af7b2f6a5c52583a51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-93dcb98f9cfc14af7b2f6a5c52583a51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-93dcb98f9cfc14af7b2f6a5c52583a51]: Textual amendment: Regulations revoked (23.10.2020 at 6.00 p.m.) by [The Health Protection (Coronavirus Restrictions) (No. 3) (Wales) Regulations 2020 (S.I. 2020/1149)](https://www.legislation.gov.uk/wsi/2020/1149), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1149/regulation/1), [34(1)(a)](https://www.legislation.gov.uk/wsi/2020/1149/regulation/34/1/a) (with [regs. 2](https://www.legislation.gov.uk/wsi/2020/1149/regulation/2), [34(2)](https://www.legislation.gov.uk/wsi/2020/1149/regulation/34/2))
+[^c-93dcb98f9cfc14af7b2f6a5c52583a51]: Textual amendment: Regulations revoked (23.10.2020 at 6.00 p.m.) by [The Health Protection (Coronavirus Restrictions) (No. 3) (Wales) Regulations 2020 (S.I. 2020/1149)](https://www.legislation.gov.uk/wsi/2020/1149), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1149/regulation/1), [34(1)(a)](https://www.legislation.gov.uk/wsi/2020/1149/regulation/34/1/a) (with [regs. 2](https://www.legislation.gov.uk/wsi/2020/1149/regulation/2), [34(2)](https://www.legislation.gov.uk/wsi/2020/1149/regulation/34/2))

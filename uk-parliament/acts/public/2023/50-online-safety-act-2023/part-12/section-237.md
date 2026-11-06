@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 237. Index of defined terms[^key-a2c68776b52874024cd78c884aedb53e]
+## 237. Index of defined terms[^c-a2c68776b52874024cd78c884aedb53e]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ The following table sets out terms defined or explained for this Act or for a Pa
 | the Convention | section 236 |
 | country | section 236 |
 | CSEA content (in Part 3) | section 59 |
-| the data protection legislation[^key-5efe2411aca541a4b94a03118071cf9f] | section 236 |
+| the data protection legislation[^c-5efe2411aca541a4b94a03118071cf9f] | section 236 |
 | document | section 236 |
 | encounter (content) (except in Part 10) | section 236 |
 | entity | section 236 |
@@ -57,7 +57,7 @@ The following table sets out terms defined or explained for this Act or for a Pa
 | initial charging year (in Part 6) | section 90 |
 | interested person | section 227 |
 | internet service | section 228 (see also section 204(1)) |
-| intimate image content (in Part 3)[^key-7da9baca0a7aa5fae1fa3917ab7d0c31] | section 59 |
+| intimate image content (in Part 3)[^c-7da9baca0a7aa5fae1fa3917ab7d0c31] | section 59 |
 | journalistic content (in Part 3) | section 19 |
 | likely to be accessed by children (in Part 3) | section 37 |
 | measure | section 236 |
@@ -110,8 +110,8 @@ The following table sets out terms defined or explained for this Act or for a Pa
 
 ## Annotations
 
-[^key-a2c68776b52874024cd78c884aedb53e]: Commencement: S. 237 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)
+[^c-a2c68776b52874024cd78c884aedb53e]: Commencement: S. 237 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)
 
-[^key-5efe2411aca541a4b94a03118071cf9f]: Textual amendment: Words in s. 237 inserted (30.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(11)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/11), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)
+[^c-5efe2411aca541a4b94a03118071cf9f]: Textual amendment: Words in s. 237 inserted (30.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(11)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/11), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)
 
-[^key-7da9baca0a7aa5fae1fa3917ab7d0c31]: Textual amendment: Words in s. 237 inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 101(9)](https://www.legislation.gov.uk/ukpga/2026/20/section/101/9), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
+[^c-7da9baca0a7aa5fae1fa3917ab7d0c31]: Textual amendment: Words in s. 237 inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 101(9)](https://www.legislation.gov.uk/ukpga/2026/20/section/101/9), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)

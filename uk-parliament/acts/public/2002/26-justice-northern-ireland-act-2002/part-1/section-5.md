@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Appointment to listed judicial offices[^key-4cf283c28b98c57639577383363532f8]
+## 5. Appointment to listed judicial offices[^c-4cf283c28b98c57639577383363532f8]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3 (which is about the making of appointments to listed judicial offices
 
 ## Annotations
 
-[^key-4cf283c28b98c57639577383363532f8]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/2002/26/section/5) substituted (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2009/3/schedule/3/paragraph/3) (with [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/12)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-4cf283c28b98c57639577383363532f8]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/2002/26/section/5) substituted (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2009/3/schedule/3/paragraph/3) (with [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/12)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)

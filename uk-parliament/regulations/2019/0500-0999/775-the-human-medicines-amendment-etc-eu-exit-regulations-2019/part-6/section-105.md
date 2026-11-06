@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Amendment of regulation 113 (obligation to notify placing on the market etc)[^key-f543ea25d9530620a0388e1eff22459a]
+## 105. Amendment of regulation 113 (obligation to notify placing on the market etc)[^c-f543ea25d9530620a0388e1eff22459a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 113(3A) [^c23885061], omit “in accordance with article 123(2) of
 
 ## Annotations
 
-[^key-f543ea25d9530620a0388e1eff22459a]: Commencement: Reg. 105 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f543ea25d9530620a0388e1eff22459a]: Commencement: Reg. 105 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23885061]: Marginal citation: Paragraph (3A) was inserted by [S.I. 2013/2593](https://www.legislation.gov.uk/uksi/2013/2593).

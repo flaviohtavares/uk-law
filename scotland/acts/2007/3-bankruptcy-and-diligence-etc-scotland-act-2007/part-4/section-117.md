@@ -36,7 +36,7 @@ summary: ''
   - (ii) by any other security or diligence ranking prior to or *pari passu* with the land attachment; and
 - (b) where part of the land has been sold, a report on that sale under section 113(1) of this Act.
 
-(4) A copy of an application under subsection (2) above must be served by an officer of court[^key-b4b6e53200432bf9f4ac889d514edcd7] on—
+(4) A copy of an application under subsection (2) above must be served by an officer of court[^c-b4b6e53200432bf9f4ac889d514edcd7] on—
 
 - (a) the debtor;
 - (b) where the debtor does not own the land, the owner;
@@ -76,4 +76,4 @@ the sheriff may, without further intimation, grant decree of foreclosure.
 
 [^c2028583]: Commencement: S. 117 partly in force; s. 117 not in force at Royal Assent see s. 227; s. 117(2)(7)(b)(8)(a) in force for certain purposes at 1.4.2008 by [S.S.I. 2008/115](https://www.legislation.gov.uk/ssi/2008/115), [art. 3(4)](https://www.legislation.gov.uk/ssi/2008/115/article/3/4), [Sch. 3](https://www.legislation.gov.uk/ssi/2008/115/schedule/3) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2008/115/article/4), [10](https://www.legislation.gov.uk/ssi/2008/115/article/10))
 
-[^key-b4b6e53200432bf9f4ac889d514edcd7]: Textual amendment: Words in [s. 117(4)](https://www.legislation.gov.uk/asp/2007/3/section/117/4) substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 25(a)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/25/a); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-b4b6e53200432bf9f4ac889d514edcd7]: Textual amendment: Words in [s. 117(4)](https://www.legislation.gov.uk/asp/2007/3/section/117/4) substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 25(a)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/25/a); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)

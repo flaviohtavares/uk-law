@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Amendments to Part 3 of Schedule 2 (LLP required to prepare group accounts: information on related undertakings required whether preparing non-IAS or IAS accounts)[^key-58f2bffb99d0ebfb23f8e10fd34b2c82]
+## 59. Amendments to Part 3 of Schedule 2 (LLP required to prepare group accounts: information on related undertakings required whether preparing non-IAS or IAS accounts)[^c-58f2bffb99d0ebfb23f8e10fd34b2c82]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ In Part 3 of Schedule 2 (LLP required to prepare group accounts: information on 
 
 ## Annotations
 
-[^key-58f2bffb99d0ebfb23f8e10fd34b2c82]: Commencement: Reg. 59 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-58f2bffb99d0ebfb23f8e10fd34b2c82]: Commencement: Reg. 59 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

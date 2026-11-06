@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 446UA. Pre-acquisition avoidance cases[^key-8794da21c9545233d3ac69554e94b0bd][^key-50a0c1b5a35931f04337ef6a4d73c721]
+## 446UA. Pre-acquisition avoidance cases[^c-8794da21c9545233d3ac69554e94b0bd][^c-50a0c1b5a35931f04337ef6a4d73c721]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8794da21c9545233d3ac69554e94b0bd]: Textual amendment: [S. 446UA](https://www.legislation.gov.uk/ukpga/2003/1/section/446UA) inserted (with effect in accordance with Sch. 2 para. 15(2) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2005/22/schedule/2/paragraph/15)
+[^c-8794da21c9545233d3ac69554e94b0bd]: Textual amendment: [S. 446UA](https://www.legislation.gov.uk/ukpga/2003/1/section/446UA) inserted (with effect in accordance with Sch. 2 para. 15(2) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2005/22/schedule/2/paragraph/15)
 
-[^key-50a0c1b5a35931f04337ef6a4d73c721]: Textual amendment: Pt. 7 Ch. 3C inserted (with effect in accordance with Sch. 22 para. 7(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 7(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/7/1)
+[^c-50a0c1b5a35931f04337ef6a4d73c721]: Textual amendment: Pt. 7 Ch. 3C inserted (with effect in accordance with Sch. 22 para. 7(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 7(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/7/1)

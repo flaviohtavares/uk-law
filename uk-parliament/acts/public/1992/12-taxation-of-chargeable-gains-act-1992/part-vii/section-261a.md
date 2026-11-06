@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 261A. Disposal of know-how as part of disposal of all or part of a trade[^key-14a58f2756ba02d98d41c78a17e523ef]
+## 261A. Disposal of know-how as part of disposal of all or part of a trade[^c-14a58f2756ba02d98d41c78a17e523ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ the consideration is treated for capital gains tax purposes in the same way.
 
 ## Annotations
 
-[^key-14a58f2756ba02d98d41c78a17e523ef]: Textual amendment: S. 261A and cross-heading inserted (with effect in accordance with s. 883(1) of the amending Act) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 444](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/444) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-14a58f2756ba02d98d41c78a17e523ef]: Textual amendment: S. 261A and cross-heading inserted (with effect in accordance with s. 883(1) of the amending Act) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 444](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/444) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))

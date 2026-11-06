@@ -24,7 +24,7 @@ summary: ''
 
 (2) The appeal is to be treated as if it was determined in favour of the appellant and the First-tier Tribunal is not required to make an order.
 
-(3)[^key-0bc8b75919efba7ed260316dca9b9e32] If the appeal is made under section 51(2)(a) or (d) of the Act, the local authority must, within 2 weeks of the date it notified the First-tier Tribunal under paragraph (1), notify the child’s parent or the young person that it must make the EHC needs assessment or reassessment.
+(3)[^c-0bc8b75919efba7ed260316dca9b9e32] If the appeal is made under section 51(2)(a) or (d) of the Act, the local authority must, within 2 weeks of the date it notified the First-tier Tribunal under paragraph (1), notify the child’s parent or the young person that it must make the EHC needs assessment or reassessment.
 
 (3A) If following the EHC needs assessment or reassessment, the local authority—
 
@@ -45,7 +45,7 @@ summary: ''
 
 (6A) If the appeal is made under section 51(2)(f) of the Act, the local authority must continue to maintain the EHC plan, and where the local authority has also agreed to amend the EHC plan, the local authority must amend it within 5 weeks of the date it notified the First-tier Tribunal under paragraph (1).
 
-(7) The local authority need not comply with the time limits specified in paragraphs (3) [^key-76517a26948591185f5e66384ccf2477]... or (6) if it is impractical to do so because—
+(7) The local authority need not comply with the time limits specified in paragraphs (3) [^c-76517a26948591185f5e66384ccf2477]... or (6) if it is impractical to do so because—
 
 - (a) exceptional personal circumstances affect the child or their parent or the young person during the relevant period;
 - (b) the child or their parent or the young person are absent from the area of the local authority for a continuous period of not less than 2 weeks during the relevant period; or
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0bc8b75919efba7ed260316dca9b9e32]: Textual amendment: Reg. 45(3)-(6A) substituted for reg. 45(3)-(6) (23.3.2015) by [The Special Educational Needs and Disability (Amendment) Regulations 2015 (S.I. 2015/359)](https://www.legislation.gov.uk/uksi/2015/359), [regs. 1](https://www.legislation.gov.uk/uksi/2015/359/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2015/359/regulation/8/a)
+[^c-0bc8b75919efba7ed260316dca9b9e32]: Textual amendment: Reg. 45(3)-(6A) substituted for reg. 45(3)-(6) (23.3.2015) by [The Special Educational Needs and Disability (Amendment) Regulations 2015 (S.I. 2015/359)](https://www.legislation.gov.uk/uksi/2015/359), [regs. 1](https://www.legislation.gov.uk/uksi/2015/359/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2015/359/regulation/8/a)
 
-[^key-76517a26948591185f5e66384ccf2477]: Textual amendment: Word in reg. 45(7) omitted (23.3.2015) by virtue of [The Special Educational Needs and Disability (Amendment) Regulations 2015 (S.I. 2015/359)](https://www.legislation.gov.uk/uksi/2015/359), [regs. 1](https://www.legislation.gov.uk/uksi/2015/359/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2015/359/regulation/8/b)
+[^c-76517a26948591185f5e66384ccf2477]: Textual amendment: Word in reg. 45(7) omitted (23.3.2015) by virtue of [The Special Educational Needs and Disability (Amendment) Regulations 2015 (S.I. 2015/359)](https://www.legislation.gov.uk/uksi/2015/359), [regs. 1](https://www.legislation.gov.uk/uksi/2015/359/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2015/359/regulation/8/b)

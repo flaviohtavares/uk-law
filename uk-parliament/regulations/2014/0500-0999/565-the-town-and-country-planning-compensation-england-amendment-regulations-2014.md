@@ -32,7 +32,7 @@ summary: ''
 
 Town And Country Planning, England
 
-The Town and Country Planning (Compensation) (England) (Amendment) Regulations 2014 (revoked)[^key-6424abc7511579b538d1adbac04d4b54]
+The Town and Country Planning (Compensation) (England) (Amendment) Regulations 2014 (revoked)[^c-6424abc7511579b538d1adbac04d4b54]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 6th April 2014
 
-[^key-6424abc7511579b538d1adbac04d4b54]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6424abc7511579b538d1adbac04d4b54]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-6424abc7511579b538d1adbac04d4b54]
+## 1. Citation, commencement and application[^c-6424abc7511579b538d1adbac04d4b54]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to prescribed development[^key-6424abc7511579b538d1adbac04d4b54]
+## 2. Amendments to prescribed development[^c-6424abc7511579b538d1adbac04d4b54]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6424abc7511579b538d1adbac04d4b54]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6424abc7511579b538d1adbac04d4b54]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6424abc7511579b538d1adbac04d4b54]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6424abc7511579b538d1adbac04d4b54]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6424abc7511579b538d1adbac04d4b54]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/565) revoked (15.4.2015) by [The Town and Country Planning (Compensation) (England) Regulations 2015 (S.I. 2015/598)](https://www.legislation.gov.uk/uksi/2015/598), [reg. 7](https://www.legislation.gov.uk/uksi/2015/598/regulation/7)
+[^c-6424abc7511579b538d1adbac04d4b54]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/565) revoked (15.4.2015) by [The Town and Country Planning (Compensation) (England) Regulations 2015 (S.I. 2015/598)](https://www.legislation.gov.uk/uksi/2015/598), [reg. 7](https://www.legislation.gov.uk/uksi/2015/598/regulation/7)

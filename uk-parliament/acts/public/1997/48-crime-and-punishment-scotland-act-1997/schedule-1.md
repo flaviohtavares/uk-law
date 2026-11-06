@@ -103,7 +103,7 @@ Section 62(1).
 
 *Extent: S*
 
-**9.**[^key-2bd1f4d7f02065c033fb7599c2d0cd93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-2bd1f4d7f02065c033fb7599c2d0cd93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Repatriation of Prisoners Act 1984 (c.47)[^c441727]
 
@@ -122,7 +122,7 @@ Section 62(1).
 
   .
 
-(3)[^key-cb598e6fc90b1be0dc2eaa3a5739d294] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-cb598e6fc90b1be0dc2eaa3a5739d294] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Foster Children (Scotland) Act 1984 (c.56)
 
@@ -259,7 +259,7 @@ Section 62(1).
 
 **13.** (1) The Prisons (Scotland) Act 1989 shall be amended in accordance with this paragraph.
 
-(2)[^key-5bfaf1e02d71e0dec54e46e811459cc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5bfaf1e02d71e0dec54e46e811459cc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3)[^c441738] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -372,7 +372,7 @@ Section 62(1).
 - (a) in subsection (1), at the beginning there shall be inserted the words “ Subject to section 205A of the [^c441764]Criminal Procedure (Scotland) Act 1995 (imprisonment for life on further conviction of certain offences), ”; and
 - (b) in subsection (6) (definition of “**like offence**” for purposes of that section), for the words “section 10(1) of this Act” there shall be substituted the words “ section 9(1) of this Act ”.
 
-(3)[^key-3c62d82b6262230b7d5c6273e41bb8d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3c62d82b6262230b7d5c6273e41bb8d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 19(3) (vehicles in relation to which certain offences relating to alcohol at sporting events may be committed), for the word “principle” there shall be substituted the word “ principal ”.
 
@@ -404,7 +404,7 @@ Section 62(1).
 
 **19.** (1) The Criminal Procedure (Consequential Provisions)(Scotland) Act 1995 shall be amended in accordance with this paragraph.
 
-(2)[^key-4ac8be77e5551dc218190ee16e80c466] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4ac8be77e5551dc218190ee16e80c466] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In Schedule 4 (minor and consequential amendments)—
 
@@ -417,7 +417,7 @@ Section 62(1).
 
 *Extent: S*
 
-**20.**[^key-b050aca0d5d813317ed66256a90bb99d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-b050aca0d5d813317ed66256a90bb99d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Criminal Procedure (Scotland) Act 1995 (c.46.)[^c441767]
 
@@ -567,11 +567,11 @@ Section 62(1).
 
 .
 
-(27)[^key-90870df3e56bdcfbfb83202333449aad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(27)[^c-90870df3e56bdcfbfb83202333449aad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(28)[^key-90870df3e56bdcfbfb83202333449aad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(28)[^c-90870df3e56bdcfbfb83202333449aad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(29)[^key-90870df3e56bdcfbfb83202333449aad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(29)[^c-90870df3e56bdcfbfb83202333449aad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (30) In section 234A (non-harassment orders), subsection (5) shall cease to have effect.
 
@@ -625,7 +625,7 @@ Section 62(1).
 
 [^c441709]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/9) partly in force; [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/9) not in force at Royal Assent see [s. 65(2)](https://www.legislation.gov.uk/ukpga/1997/48/section/65/2); [Sch. 1 para. 9(1)(3)(b)(4)-(6)](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/9/1/3/b/4)(10)(14) in force at 1.8.1997 by [S.I. 1997/1712](https://www.legislation.gov.uk/uksi/1997/1712), [art. 3](https://www.legislation.gov.uk/uksi/1997/1712/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1997/1712/schedule) (with [arts 4](https://www.legislation.gov.uk/uksi/1997/1712/article/4), [5](https://www.legislation.gov.uk/uksi/1997/1712/article/5)); [Sch. 1 para. 9(2)(3)(a)(8)(9)(15)(16)](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/9/2/3/a/8/9/15/16) in force at 1.1.1998 by [S.I. 1997/2323](https://www.legislation.gov.uk/uksi/1997/2323), [art. 4](https://www.legislation.gov.uk/uksi/1997/2323/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1997/2323/schedule/2)
 
-[^key-2bd1f4d7f02065c033fb7599c2d0cd93]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/9) repealed (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-2bd1f4d7f02065c033fb7599c2d0cd93]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/9) repealed (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
 [^c441727]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/10) partly in force; [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/10) not in force at Royal Assent see [s. 65(2)](https://www.legislation.gov.uk/ukpga/1997/48/section/65/2); [Sch. 1 para. 10(1)(2)(b)](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/10/1/2/b) in force at 1.8.1997 by [S.I. 1997/1712](https://www.legislation.gov.uk/uksi/1997/1712), [art. 3](https://www.legislation.gov.uk/uksi/1997/1712/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1997/1712/schedule) (with [arts. 4](https://www.legislation.gov.uk/uksi/1997/1712/article/4), [5](https://www.legislation.gov.uk/uksi/1997/1712/article/5)); [Sch. 1 para. 10(3)](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/10/3) in force at 20.10.1997 by [S.I. 1997/2323](https://www.legislation.gov.uk/uksi/1997/2323), [art. 3](https://www.legislation.gov.uk/uksi/1997/2323/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1997/2323/schedule/1)
 
@@ -633,7 +633,7 @@ Section 62(1).
 
 [^c441731]: Marginal citation: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-cb598e6fc90b1be0dc2eaa3a5739d294]: Textual amendment: [Sch. 1 para. 10(3)](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/10/3) repealed (18.12.2003) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(2)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/2), [Sch. 37 Pt. 8](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/8)
+[^c-cb598e6fc90b1be0dc2eaa3a5739d294]: Textual amendment: [Sch. 1 para. 10(3)](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/10/3) repealed (18.12.2003) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(2)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/2), [Sch. 37 Pt. 8](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/8)
 
 [^c441732]: Marginal citation: [1937 c.37](https://www.legislation.gov.uk/ukpga/1937/37).
 
@@ -643,7 +643,7 @@ Section 62(1).
 
 [^c441735]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/13) partly in force; [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/13) not in force at Royal Assent see [s. 65(2)](https://www.legislation.gov.uk/ukpga/1997/48/section/65/2); [Sch. 1 para. 13(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/13/1/2/4) in force at 1.1.1998 by [S.I. 1997/2323](https://www.legislation.gov.uk/uksi/1997/2323), [art. 4](https://www.legislation.gov.uk/uksi/1997/2323/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1997/2323/schedule/2)
 
-[^key-5bfaf1e02d71e0dec54e46e811459cc0]: Textual amendment: [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/13/2) repealed (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [art. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [Sch. para. 6(b)](https://www.legislation.gov.uk/ssi/2015/39/schedule/paragraph/6/b)
+[^c-5bfaf1e02d71e0dec54e46e811459cc0]: Textual amendment: [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/13/2) repealed (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [art. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [Sch. para. 6(b)](https://www.legislation.gov.uk/ssi/2015/39/schedule/paragraph/6/b)
 
 [^c441738]: Textual amendment: Sch. 1 para. 13(3) repealed (30.9.1998) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [ss. 119](https://www.legislation.gov.uk/ukpga/1998/37/section/119), [120(2)](https://www.legislation.gov.uk/ukpga/1998/37/section/120/2), [Sch. 8 para. 141(1)(a)](https://www.legislation.gov.uk/ukpga/1998/37/schedule/8/paragraph/141/1/a), [Sch. 10](https://www.legislation.gov.uk/ukpga/1998/37/schedule/10); [S.I. 1998/2327](https://www.legislation.gov.uk/uksi/1998/2327), [art. 2(1)(y)(aa)(2)(pp)(3)(y)](https://www.legislation.gov.uk/uksi/1998/2327/article/2/1/y/aa/2/pp/3/y)
 
@@ -665,11 +665,11 @@ Section 62(1).
 
 [^c441764]: Marginal citation: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-3c62d82b6262230b7d5c6273e41bb8d1]: Textual amendment: [Sch. 1 para. 18(3)](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/18/3) repealed (1.12.2010) by [Sexual Offences (Scotland) Act 2009 (asp 9)](https://www.legislation.gov.uk/asp/2009/9), [s. 62(2)](https://www.legislation.gov.uk/asp/2009/9/section/62/2), [Sch. 6](https://www.legislation.gov.uk/asp/2009/9/schedule/6); [S.S.I. 2010/357](https://www.legislation.gov.uk/ssi/2010/357), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/357/article/2/a)
+[^c-3c62d82b6262230b7d5c6273e41bb8d1]: Textual amendment: [Sch. 1 para. 18(3)](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/18/3) repealed (1.12.2010) by [Sexual Offences (Scotland) Act 2009 (asp 9)](https://www.legislation.gov.uk/asp/2009/9), [s. 62(2)](https://www.legislation.gov.uk/asp/2009/9/section/62/2), [Sch. 6](https://www.legislation.gov.uk/asp/2009/9/schedule/6); [S.S.I. 2010/357](https://www.legislation.gov.uk/ssi/2010/357), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/357/article/2/a)
 
-[^key-4ac8be77e5551dc218190ee16e80c466]: Textual amendment: [Sch. 1 para. 19(2)](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/19/2) repealed (3.11.2006) by [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2006 (S.S.I. 2006/536)](https://www.legislation.gov.uk/ssi/2006/536), [art. 1](https://www.legislation.gov.uk/ssi/2006/536/article/1), [Sch. 3](https://www.legislation.gov.uk/ssi/2006/536/schedule/3)
+[^c-4ac8be77e5551dc218190ee16e80c466]: Textual amendment: [Sch. 1 para. 19(2)](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/19/2) repealed (3.11.2006) by [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2006 (S.S.I. 2006/536)](https://www.legislation.gov.uk/ssi/2006/536), [art. 1](https://www.legislation.gov.uk/ssi/2006/536/article/1), [Sch. 3](https://www.legislation.gov.uk/ssi/2006/536/schedule/3)
 
-[^key-b050aca0d5d813317ed66256a90bb99d]: Textual amendment: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/20) repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 33(b)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/33/b), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/b)[(2)](https://www.legislation.gov.uk/ssi/2003/210/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2003/210/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2003/210/article/7))
+[^c-b050aca0d5d813317ed66256a90bb99d]: Textual amendment: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/20) repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 33(b)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/33/b), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/b)[(2)](https://www.legislation.gov.uk/ssi/2003/210/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2003/210/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2003/210/article/7))
 
 [^c441767]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/21) partly in force; [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/21) not in force at Royal Assent see [s. 65(2)](https://www.legislation.gov.uk/ukpga/1997/48/section/65/2); [Sch. 1 para. 21(1)(2)(4)(9)-(15)](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/21/1/2/4/9)(17)(19)-(22)(30)(32)(34)(b) in force at 1.8.1997 by [S.I. 1997/1712](https://www.legislation.gov.uk/uksi/1997/1712), [art. 3](https://www.legislation.gov.uk/uksi/1997/1712/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1997/1712/schedule) (with [arts. 4](https://www.legislation.gov.uk/uksi/1997/1712/article/4), [5](https://www.legislation.gov.uk/uksi/1997/1712/article/5)); [Sch. 1 para. 21(33)(a)](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/21/33/a) in force at 20.10.1997 by [S.I. 1997/2323](https://www.legislation.gov.uk/uksi/1997/2323), [art. 3](https://www.legislation.gov.uk/uksi/1997/2323/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1997/2323/schedule/1); [Sch. 1 para. 21(23)(25)(31)](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/21/23/25/31) in force for certain purposes at 20.10.1997 by [S.I. 1997/2323](https://www.legislation.gov.uk/uksi/1997/2323), [art. 3](https://www.legislation.gov.uk/uksi/1997/2323/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1997/2323/schedule); [Sch. 1 para. 21(5)(8)(35)](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/21/5/8/35) in force at 1.1.1998 by [S.I. 1997/2323](https://www.legislation.gov.uk/uksi/1997/2323), [art. 4](https://www.legislation.gov.uk/uksi/1997/2323/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1997/2323/schedule/2); [Sch. 1 para. 21(16)(18)(26)(33)(b)(34)(a)](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/21/16/18/26/33/b/34/a) in force at 1.4.1999 by [S.I. 1999/652](https://www.legislation.gov.uk/uksi/1999/652), [art. 2](https://www.legislation.gov.uk/uksi/1999/652/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/652/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/1999/652/article/3))
 
@@ -677,4 +677,4 @@ Section 62(1).
 
 [^c441770]: Marginal citation: [1984 c.36](https://www.legislation.gov.uk/ukpga/1984/36).
 
-[^key-90870df3e56bdcfbfb83202333449aad]: Textual amendment: Sch. 1 para. 21(27)-(29) repealed (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 2 para. 41(b)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/41/b); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))
+[^c-90870df3e56bdcfbfb83202333449aad]: Textual amendment: Sch. 1 para. 21(27)-(29) repealed (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 2 para. 41(b)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/41/b); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))

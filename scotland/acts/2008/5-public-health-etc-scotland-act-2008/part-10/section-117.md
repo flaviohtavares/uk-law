@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 117. Disclosure of information[^key-7196dd65a48f525aa6edb9fe922eed08]
+## 117. Disclosure of information[^c-7196dd65a48f525aa6edb9fe922eed08]
 
 *Extent: S*
 
@@ -36,13 +36,13 @@ summary: ''
 
 (5) Information may be disclosed under subsection (1) or (2) despite any prohibition or restriction on such disclosure imposed by or under any enactment or rule of law.
 
-(6) But subsection (5) does not affect the application of the data protection legislation[^key-a704986fa972ec564f8b38c2ff562054] to disclosure of information under subsection (1) or (2).
+(6) But subsection (5) does not affect the application of the data protection legislation[^c-a704986fa972ec564f8b38c2ff562054] to disclosure of information under subsection (1) or (2).
 
 (7) No person is to be subject to any civil or criminal liability in consequence of any disclosure made by virtue of this section.
 
-(7A)[^key-2a65663022b93c3bd4a461a217fc3229] In this section, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
+(7A)[^c-2a65663022b93c3bd4a461a217fc3229] In this section, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
 
-(8)[^key-d143dd0d514ed0e0dcf55dda5597a19a] In this section, “**relevant authority**” means—
+(8)[^c-d143dd0d514ed0e0dcf55dda5597a19a] In this section, “**relevant authority**” means—
 
 - (a) a health board;
 - (b) a special health board;
@@ -64,10 +64,10 @@ must have regard to any guidance given by the Scottish Ministers.
 
 ## Annotations
 
-[^key-7196dd65a48f525aa6edb9fe922eed08]: Commencement: S. 117 in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-7196dd65a48f525aa6edb9fe922eed08]: Commencement: S. 117 in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
 
-[^key-a704986fa972ec564f8b38c2ff562054]: Textual amendment: Words in [s. 117(6)](https://www.legislation.gov.uk/asp/2008/5/section/117/6) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 155(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/155/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-a704986fa972ec564f8b38c2ff562054]: Textual amendment: Words in [s. 117(6)](https://www.legislation.gov.uk/asp/2008/5/section/117/6) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 155(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/155/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-2a65663022b93c3bd4a461a217fc3229]: Textual amendment: [S. 117(7A)](https://www.legislation.gov.uk/asp/2008/5/section/117/7A) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 155(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/155/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-2a65663022b93c3bd4a461a217fc3229]: Textual amendment: [S. 117(7A)](https://www.legislation.gov.uk/asp/2008/5/section/117/7A) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 155(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/155/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-d143dd0d514ed0e0dcf55dda5597a19a]: Textual amendment: S. 117(8)(da) inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 17 para. 37(b)](https://www.legislation.gov.uk/asp/2010/8/schedule/17/paragraph/37/b); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-d143dd0d514ed0e0dcf55dda5597a19a]: Textual amendment: S. 117(8)(da) inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 17 para. 37(b)](https://www.legislation.gov.uk/asp/2010/8/schedule/17/paragraph/37/b); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

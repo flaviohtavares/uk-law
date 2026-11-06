@@ -44,13 +44,13 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 A draft of these Regulations has been laid before, and approved by, both Houses of Parliament in accordance with paragraph 8F(1) of Schedule 7 to the European Union (Withdrawal) Act 2018, and sections 2(6), 3(3), 6(4), 77(5) and 77(6) of the Product Security and Telecommunications Infrastructure Act 2022.
 
-## 1. Citation, commencement and extent[^key-59eb4816a26f171574a561f95a5d1f4e]
+## 1. Citation, commencement and extent[^c-59eb4816a26f171574a561f95a5d1f4e]
 
 (1) These Regulations may be cited as the Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) Regulations 2023.
 
 (2) These Regulations come into force on 29th April 2024 and extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Interpretation[^key-de14b0f44050dd4638b27e09208b89da]
+## 2. Interpretation[^c-de14b0f44050dd4638b27e09208b89da]
 
 (1) In these Regulations—
 
@@ -58,52 +58,52 @@ A draft of these Regulations has been laid before, and approved by, both Houses 
 - “**ETSI EN 303 645**” means the European Standard on Cyber Security for Consumer Internet of Things: Baseline Requirements (ETSI EN 303 645 V2.1.1 (19th June 2020))[^f00003];
 - “**hardware**” means a physical electronic information system, or parts thereof, capable of processing, storing or transmitting digital data;
 - “**ISO/IEC 29147**” means the ISO/IEC 29147:2018 Information technology - Security techniques - Vulnerability disclosure standard (2nd edition, 2018)[^f00004];
-- “[^key-35162a6fba2d715d8c3946283ef6cc3c]**Japan JC-STAR STAR-1**” means the Labeling Scheme based on Japan Cyber-Security Technical Assessment Requirements (JC-STAR) STAR-1 Conformance Requirements and Assessment Methods published by the Information-technology Promotion Agency, Japan (JST-CR-01-01-2024R1, December 2024);
+- “[^c-35162a6fba2d715d8c3946283ef6cc3c]**Japan JC-STAR STAR-1**” means the Labeling Scheme based on Japan Cyber-Security Technical Assessment Requirements (JC-STAR) STAR-1 Conformance Requirements and Assessment Methods published by the Information-technology Promotion Agency, Japan (JST-CR-01-01-2024R1, December 2024);
 - “**manufacturer’s intended purpose**” means the use for which the product is intended according to the data provided by the manufacturer, including on the label, in the instructions for use, or in promotional or sales materials or statements;
 - “**security update**” means a software update that protects or enhances the security of a product, including a software update that addresses security issues which have been discovered by or reported to the manufacturer.
 - “**Singapore Cybersecurity Labelling Scheme**” means the Cybersecurity Labelling Scheme published by the Cyber Security Agency of Singapore, the specifications for which are in document CCC SP-151-2 CLS(IoT) Scheme Specifications (version 1.4, April 2025).
 
 (2) References in these Regulations to sections, except where otherwise specified, are to sections of the Product Security and Telecommunications Infrastructure Act 2022.
 
-## 3. Security requirements for manufacturers[^key-fbde693593284c9724dc097ae0e47ef4]
+## 3. Security requirements for manufacturers[^c-fbde693593284c9724dc097ae0e47ef4]
 
 Schedule 1 specifies security requirements that apply to manufacturers of relevant connectable products for the purposes of section 1 (power to specify security requirements).
 
-## 4. Deemed compliance with security requirements[^key-3739c7c48325d705c37bbdbe441ba5de]
+## 4. Deemed compliance with security requirements[^c-3739c7c48325d705c37bbdbe441ba5de]
 
 Schedule 2 specifies the conditions under which a manufacturer is to be treated as having complied with a security requirement for the purposes of section 3 (power to deem compliance with security requirements).
 
-## 4A. Deemed compliance with the requirement to have a relevant connectable product accompanied by a statement of compliance[^key-7c30942ad4d6d3c049e2dd40bff86261]
+## 4A. Deemed compliance with the requirement to have a relevant connectable product accompanied by a statement of compliance[^c-7c30942ad4d6d3c049e2dd40bff86261]
 
 Schedule 2A specifies the conditions under which a manufacturer is to be treated as having complied with the requirement to have a relevant connectable product accompanied by a statement of compliance for the purposes of section 9 (statements of compliance).
 
-## 5. Multiple manufacturers[^key-85ac38b3802a203fafa5328b5055a0b8]
+## 5. Multiple manufacturers[^c-85ac38b3802a203fafa5328b5055a0b8]
 
 Where there is more than one manufacturer of a relevant connectable product, each manufacturer must meet any relevant security requirement specified in Schedule 1 or satisfy the conditions for deemed compliance in relation to that requirement in Schedule 2.
 
-## 6. Excepted products[^key-cfcab5ada80242390dcd138887f86b09]
+## 6. Excepted products[^c-cfcab5ada80242390dcd138887f86b09]
 
 Schedule 3 specifies excepted products for the purposes of section 6 (excepted products).
 
-## 7. Minimum information required for statement of compliance[^key-84273b6d2a09c300c4d05ec59e6295b8]
+## 7. Minimum information required for statement of compliance[^c-84273b6d2a09c300c4d05ec59e6295b8]
 
 Schedule 4 specifies the information that the statement of compliance must include for the purpose of section 9 (statements of compliance).
 
-## 8. Manufacturer retention of statement of compliance[^key-52f94435ade2d5cdcb414d2416d7aee1]
+## 8. Manufacturer retention of statement of compliance[^c-52f94435ade2d5cdcb414d2416d7aee1]
 
 Where a statement of compliance is required under section 9(2) (statements of compliance) to make a relevant connectable product available in the United Kingdom, the manufacturer of the product must retain a copy of the statement of compliance relating to the product for whichever is the longer of—
 
 - (a) a period of 10 years beginning with the date on which the statement of compliance was issued, and
 - (b) the defined support period for the product set out in the statement of compliance.
 
-## 9. Importer retention of statement of compliance[^key-aa83aceb249bde55db7839ad50afbe12]
+## 9. Importer retention of statement of compliance[^c-aa83aceb249bde55db7839ad50afbe12]
 
 Where a statement of compliance is required under section 15(2) (statements of compliance) to make a product available in the United Kingdom, the importer of the product must retain a copy of the statement of compliance relating to the product for whichever is the longer of—
 
 - (a) a period of 10 years beginning with the date on which the statement of compliance was issued, and
 - (b) the defined support period for the product set out in the statement of compliance.
 
-## 10. Review[^key-051469a31114f71f61696c7bcb8a1165]
+## 10. Review[^c-051469a31114f71f61696c7bcb8a1165]
 
 (1) The Secretary of State must from time to time—
 
@@ -128,7 +128,7 @@ Schedules
 
 Regulation 3
 
-### 1. Passwords[^key-bedba24cc88671bee1fdbf8beede7cd4]
+### 1. Passwords[^c-bedba24cc88671bee1fdbf8beede7cd4]
 
 (1) The following sub-paragraphs apply to—
 
@@ -168,7 +168,7 @@ Regulation 3
 - “**secret key**” means a cryptographic key intended to be known only by the person (“**P**”) who encrypted or authorised the encrypting of the data, and any person authorised by P;
 - “**unique per product**” means unique for each individual product of a given product class or type.
 
-### 2. Information on how to report security issues[^key-35dd45a964eb2d85d5cdde6083d4d971]
+### 2. Information on how to report security issues[^c-35dd45a964eb2d85d5cdde6083d4d971]
 
 (1) The following sub-paragraphs apply to—
 
@@ -194,7 +194,7 @@ Regulation 3
 - (c) free of charge; and
 - (d) without requesting the provision of P’s personal information.
 
-### 3. Information on minimum security update periods[^key-496282f7963a55abc5b586eca4a7c313]
+### 3. Information on minimum security update periods[^c-496282f7963a55abc5b586eca4a7c313]
 
 (1) The following sub-paragraphs apply to—
 
@@ -208,7 +208,7 @@ Regulation 3
 
 (2) The defined support period must be published.
 
-(3) If a manufacturer extends the minimum length of time for which security updates will be provided, creating a new defined support period, the new defined support period[^key-12f9aa98b5750d2bc4e7b386a520c32b] must be published as soon as is practicable.
+(3) If a manufacturer extends the minimum length of time for which security updates will be provided, creating a new defined support period, the new defined support period[^c-12f9aa98b5750d2bc4e7b386a520c32b] must be published as soon as is practicable.
 
 (4) The information in sub-paragraphs (2) and (3) must be accessible, clear and transparent, and must be made available to a person (“**P**”)—
 
@@ -231,21 +231,21 @@ Regulation 3
 
 Regulation 4
 
-### 1. Passwords[^key-9c78108dfbe94b078233e4b18c996df6]
+### 1. Passwords[^c-9c78108dfbe94b078233e4b18c996df6]
 
-(1) A manufacturer is to be treated as complying with the security requirement at paragraph 1 of Schedule 1 where any of the conditions in sub-paragraphs (2) to (4) are[^key-7c14488964f73a7dc6ef9e53fa85c0f9] met.
+(1) A manufacturer is to be treated as complying with the security requirement at paragraph 1 of Schedule 1 where any of the conditions in sub-paragraphs (2) to (4) are[^c-7c14488964f73a7dc6ef9e53fa85c0f9] met.
 
-(2) Condition A is that[^key-f6363384a148e090f2fcc6ef573446d9] the manufacturer complies with provision 5.1-1 of ETSI EN 303 645 and, where relevant, provision 5.1-2 of ETSI EN 303 645 as if those provisions apply to the categories of hardware and software specified in paragraph 1(1) of Schedule 1.
+(2) Condition A is that[^c-f6363384a148e090f2fcc6ef573446d9] the manufacturer complies with provision 5.1-1 of ETSI EN 303 645 and, where relevant, provision 5.1-2 of ETSI EN 303 645 as if those provisions apply to the categories of hardware and software specified in paragraph 1(1) of Schedule 1.
 
-(3)[^key-3eb9b99691a1e9d43ec5e64356686193] Condition B is that the relevant connectable product, of which they are the manufacturer, is currently assigned a conformance label under the Japan JC-STAR STAR-1 as an indicator of compliance with the requirements set out in JC-STAR STAR-1, and that label has not expired.
+(3)[^c-3eb9b99691a1e9d43ec5e64356686193] Condition B is that the relevant connectable product, of which they are the manufacturer, is currently assigned a conformance label under the Japan JC-STAR STAR-1 as an indicator of compliance with the requirements set out in JC-STAR STAR-1, and that label has not expired.
 
 (4) Condition C is that the relevant connectable product, of which they are the manufacturer, is currently awarded a label under any level of the Singapore Cybersecurity Labelling Scheme as an indicator of compliance with the requirements set out in that scheme, and that label has not expired.
 
-### 2. Information on how to report security issues[^key-320dfe4e2c7182f21a16429ff3ab6e8d]
+### 2. Information on how to report security issues[^c-320dfe4e2c7182f21a16429ff3ab6e8d]
 
-(1) A manufacturer is to be treated as complying with the security requirement at paragraph 2 of Schedule 1 where any of the conditions in sub-paragraphs (2) to (2B) are[^key-41c95fdc4aab769618ce73f7724b0b2d] met.
+(1) A manufacturer is to be treated as complying with the security requirement at paragraph 2 of Schedule 1 where any of the conditions in sub-paragraphs (2) to (2B) are[^c-41c95fdc4aab769618ce73f7724b0b2d] met.
 
-(2) Condition A is that[^key-c45799954ccc170ce4c8ff79287e813e] the manufacturer complies with—
+(2) Condition A is that[^c-c45799954ccc170ce4c8ff79287e813e] the manufacturer complies with—
 
 - (a) provision 5.2-1 of ETSI EN 303 645; or
 - (b) subject to sub-paragraphs (3) and (4), the following paragraphs of ISO/IEC 29147—
@@ -255,7 +255,7 @@ Regulation 4
 
 as if the provision of ETSI EN 303 645 or the paragraphs of ISO/IEC29147 apply to the categories of hardware and software specified in paragraph 2(1) of Schedule 1.
 
-(2A)[^key-dc3bde40e7de7a52f773ff09209dadf0] Condition B is that the relevant connectable product, of which they are the manufacturer, is currently assigned a conformance label under the Japan JC-STAR STAR-1 as an indicator of compliance with the requirements set out in JC-STAR STAR-1, and that label has not expired.
+(2A)[^c-dc3bde40e7de7a52f773ff09209dadf0] Condition B is that the relevant connectable product, of which they are the manufacturer, is currently assigned a conformance label under the Japan JC-STAR STAR-1 as an indicator of compliance with the requirements set out in JC-STAR STAR-1, and that label has not expired.
 
 (2B) Condition C is that the relevant connectable product, of which they are the manufacturer, is currently awarded a label under any level of the Singapore Cybersecurity Labelling Scheme as an indicator of compliance with the requirements set out in that scheme, and that label has not expired.
 
@@ -272,13 +272,13 @@ as if the provision of ETSI EN 303 645 or the paragraphs of ISO/IEC29147 apply t
 - (c) free of charge; and
 - (d) without requesting the provision of P’s personal information.
 
-### 3. Information on minimum security update periods[^key-3b969363bfe91eee362681e2dbb3c861]
+### 3. Information on minimum security update periods[^c-3b969363bfe91eee362681e2dbb3c861]
 
-(1) A manufacturer is to be treated as complying with the security requirement at paragraph 3 of Schedule 1 where any of the conditions in sub-paragraphs (2) to (2B) are[^key-b97eb1ef6fced392721b61d0882465a0] met.
+(1) A manufacturer is to be treated as complying with the security requirement at paragraph 3 of Schedule 1 where any of the conditions in sub-paragraphs (2) to (2B) are[^c-b97eb1ef6fced392721b61d0882465a0] met.
 
-(2) Condition A is that[^key-1611e4ee9d255257395c8a228916df2c], subject to sub-paragraphs (3), (5) and (6) of paragraph 3 of Schedule 1 and to sub-paragraphs (3) and (4), the manufacturer complies with provision 5.3-13 of ETSI EN 303 645 as if that provision applies to the categories of hardware and software specified in paragraph 3(1) of Schedule 1.
+(2) Condition A is that[^c-1611e4ee9d255257395c8a228916df2c], subject to sub-paragraphs (3), (5) and (6) of paragraph 3 of Schedule 1 and to sub-paragraphs (3) and (4), the manufacturer complies with provision 5.3-13 of ETSI EN 303 645 as if that provision applies to the categories of hardware and software specified in paragraph 3(1) of Schedule 1.
 
-(2A)[^key-939bbcf17f90ce0ebec104b02de1bb7e] Condition B is that the relevant connectable product, of which they are the manufacturer, is currently assigned a conformance label under the Japan JC-STAR STAR-1 as an indicator of compliance with the requirements set out in JC-STAR STAR-1, and that label has not expired.
+(2A)[^c-939bbcf17f90ce0ebec104b02de1bb7e] Condition B is that the relevant connectable product, of which they are the manufacturer, is currently assigned a conformance label under the Japan JC-STAR STAR-1 as an indicator of compliance with the requirements set out in JC-STAR STAR-1, and that label has not expired.
 
 (2B) Condition C is that the relevant connectable product, of which they are the manufacturer, is currently awarded a label under any level of the Singapore Cybersecurity Labelling Scheme as an indicator of compliance with the requirements set out in that scheme, and that label has not expired.
 
@@ -292,7 +292,7 @@ as if the provision of ETSI EN 303 645 or the paragraphs of ISO/IEC29147 apply t
 - (d) without requesting the provision of P’s personal information; and
 - (e) in such a way that is understandable by a reader without prior technical knowledge.
 
-## Schedule 2A — Conditions for deemed compliance with the requirement to have a relevant connectable product accompanied by a statement of compliance[^key-94aa56177313c7024d167ff6247c14ae]
+## Schedule 2A — Conditions for deemed compliance with the requirement to have a relevant connectable product accompanied by a statement of compliance[^c-94aa56177313c7024d167ff6247c14ae]
 
 Regulation 4A
 
@@ -306,7 +306,7 @@ Regulation 4A
 
 Regulation 6
 
-### 1. Products made available to be supplied in Northern Ireland[^key-54f6a2b90f7c82fb9e118f9b6fb63e7e]
+### 1. Products made available to be supplied in Northern Ireland[^c-54f6a2b90f7c82fb9e118f9b6fb63e7e]
 
 (1) Products are excepted under this paragraph if they are products to which relevant legislation applies and are made available for supply in Northern Ireland.
 
@@ -322,7 +322,7 @@ Regulation 6
 - “**free movement article**” means an article that does not permit Member States to prohibit, restrict, or impede the making available of the product where the product complies with that legislation;
 - “**Windsor Framework**” has the same meaning as in Joint Declaration No. 1/2023 of the EU and the United Kingdom in the Withdrawal Agreement Joint Committee of 24 March 2023.
 
-### 2. Charge points for electric vehicles[^key-135c08759f04fd26be4d83050abf9ed0]
+### 2. Charge points for electric vehicles[^c-135c08759f04fd26be4d83050abf9ed0]
 
 (1) Products are excepted under this paragraph if they are charge points to which the 2021 Regulations[^f00006] apply.
 
@@ -335,13 +335,13 @@ Regulation 6
 - “**the 2021 Regulations**” mean the Electric Vehicles (Smart Charge Points) Regulations 2021[^f00007];
 - “**charge point**” has the meaning given in section 9(1) of the Automated and Electric Vehicles Act 2018[^f00008].
 
-### 3. Medical devices[^key-2a51fe89483bd59a4710cc1614188a03]
+### 3. Medical devices[^c-2a51fe89483bd59a4710cc1614188a03]
 
 (1) Products are excepted under this paragraph if they are products to which the Medical Devices Regulations 2002[^f00009] apply.
 
 (2) But a relevant connectable product on which software to which those Regulations apply is installed or operable is not an excepted product under this paragraph.
 
-### 4. Smart meter products[^key-baaa484aa7cf796cd95c670852fefcd7]
+### 4. Smart meter products[^c-baaa484aa7cf796cd95c670852fefcd7]
 
 (1) Products are excepted under this paragraph if they are products—
 
@@ -352,7 +352,7 @@ Regulation 6
 
 (2) In this paragraph, “**assurance scheme**” means the commercial product assurance scheme administered by the National Cyber Security Centre or any other successor scheme.
 
-### 5. Computers[^key-8188ec92b4404c308ca84f82a8262084]
+### 5. Computers[^c-8188ec92b4404c308ca84f82a8262084]
 
 (1) Products are excepted under this paragraph if they are computers which are—
 
@@ -362,7 +362,7 @@ Regulation 6
 
 (2) But products listed in sub-paragraph (1) which, according to the manufacturer’s intended purpose, are designed exclusively for children under 14 years old are not excepted products.
 
-### 6. Motor vehicles[^key-ef795b5ae19c082f01c921f7529b016c]
+### 6. Motor vehicles[^c-ef795b5ae19c082f01c921f7529b016c]
 
 Products are excepted in Great Britain under this paragraph if they are products to which [Regulation (EU) 2018/858](https://www.legislation.gov.uk/european/regulation/2018/0858) of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles applies.
 
@@ -378,7 +378,7 @@ Products are excepted in Great Britain under this paragraph if they are products
 
 Regulation 7
 
-**1.**[^key-3b5b3355d5db428026dea01601857378] (1) The statement of compliance must include the following information—
+**1.**[^c-3b5b3355d5db428026dea01601857378] (1) The statement of compliance must include the following information—
 
 - (a) product (type, batch);
 - (b) name and address of each manufacturer of the product and, where applicable, each authorised representative;
@@ -418,73 +418,73 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00002]: Footnote: [2022 c. 46](https://www.legislation.gov.uk/ukpga/2022/46).
 
-[^key-59eb4816a26f171574a561f95a5d1f4e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
+[^c-59eb4816a26f171574a561f95a5d1f4e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
 
-[^key-de14b0f44050dd4638b27e09208b89da]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/1007/regulation/2) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
+[^c-de14b0f44050dd4638b27e09208b89da]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/1007/regulation/2) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
 
 [^f00003]: Footnote: The European Standard on Cyber Security for Consumer Internet of Things: Baseline Requirements (ETSI EN 303 645 V2.1.1 (19th June 2020)) is the standard set by the European Telecommunications Standards Institute for standardisation of Cyber Security for Consumer Internet of Things Products. The standard is available free of charge at https://www.etsi.org/deliver/etsi\_en/303600\_303699/303645/02.01.01\_60/en\_303645v020101p.pdf. A copy can also be inspected free of charge by appointment by contacting the Office for Product Safety and Standards at Stanton Avenue, Teddington, Middlesex, TW11 0JZ or by email at OPSS.enquiries@beis.gov.uk.
 
 [^f00004]: Footnote: The ISO/IEC 29147:2018 Information technology - Security techniques - Vulnerability disclosure standard (2nd edition, 2018) is the standard set by the International Organization for standardisation, among other things, for vulnerability disclosure. A copy can be inspected free of charge by appointment by contacting the Office for Product Safety and Standards at Stanton Avenue, Teddington, Middlesex, TW11 0JZ or by email at OPSS.enquiries@beis.gov.uk.
 
-[^key-35162a6fba2d715d8c3946283ef6cc3c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/2/1) inserted (4.12.2025) by [The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1267)](https://www.legislation.gov.uk/uksi/2025/1267), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2025/1267/regulation/3)
+[^c-35162a6fba2d715d8c3946283ef6cc3c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/2/1) inserted (4.12.2025) by [The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1267)](https://www.legislation.gov.uk/uksi/2025/1267), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2025/1267/regulation/3)
 
-[^key-fbde693593284c9724dc097ae0e47ef4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/1007/regulation/3) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
+[^c-fbde693593284c9724dc097ae0e47ef4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/1007/regulation/3) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
 
-[^key-3739c7c48325d705c37bbdbe441ba5de]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/1007/regulation/4) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
+[^c-3739c7c48325d705c37bbdbe441ba5de]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/1007/regulation/4) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
 
-[^key-7c30942ad4d6d3c049e2dd40bff86261]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2023/1007/regulation/4A) inserted (4.12.2025) by [The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1267)](https://www.legislation.gov.uk/uksi/2025/1267), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2025/1267/regulation/4)
+[^c-7c30942ad4d6d3c049e2dd40bff86261]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2023/1007/regulation/4A) inserted (4.12.2025) by [The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1267)](https://www.legislation.gov.uk/uksi/2025/1267), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2025/1267/regulation/4)
 
-[^key-85ac38b3802a203fafa5328b5055a0b8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/1007/regulation/5) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
+[^c-85ac38b3802a203fafa5328b5055a0b8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/1007/regulation/5) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
 
-[^key-cfcab5ada80242390dcd138887f86b09]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/1007/regulation/6) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
+[^c-cfcab5ada80242390dcd138887f86b09]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/1007/regulation/6) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
 
-[^key-84273b6d2a09c300c4d05ec59e6295b8]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/1007/regulation/7) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
+[^c-84273b6d2a09c300c4d05ec59e6295b8]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/1007/regulation/7) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
 
-[^key-52f94435ade2d5cdcb414d2416d7aee1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/1007/regulation/8) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
+[^c-52f94435ade2d5cdcb414d2416d7aee1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/1007/regulation/8) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
 
-[^key-aa83aceb249bde55db7839ad50afbe12]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/1007/regulation/9) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
+[^c-aa83aceb249bde55db7839ad50afbe12]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/1007/regulation/9) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
 
-[^key-051469a31114f71f61696c7bcb8a1165]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2023/1007/regulation/10) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
+[^c-051469a31114f71f61696c7bcb8a1165]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2023/1007/regulation/10) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
 
-[^key-bedba24cc88671bee1fdbf8beede7cd4]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/1007/schedule/1/paragraph/1) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
+[^c-bedba24cc88671bee1fdbf8beede7cd4]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/1007/schedule/1/paragraph/1) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
 
-[^key-35dd45a964eb2d85d5cdde6083d4d971]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2023/1007/schedule/1/paragraph/2) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
+[^c-35dd45a964eb2d85d5cdde6083d4d971]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2023/1007/schedule/1/paragraph/2) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
 
-[^key-496282f7963a55abc5b586eca4a7c313]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2023/1007/schedule/1/paragraph/3) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
+[^c-496282f7963a55abc5b586eca4a7c313]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2023/1007/schedule/1/paragraph/3) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
 
-[^key-12f9aa98b5750d2bc4e7b386a520c32b]: Textual amendment: Word in [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/uksi/2023/1007/schedule/1/paragraph/3/3) inserted (25.2.2025) by [The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) Regulations 2025 (S.I. 2025/211)](https://www.legislation.gov.uk/uksi/2025/211), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/211/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2025/211/regulation/3)
+[^c-12f9aa98b5750d2bc4e7b386a520c32b]: Textual amendment: Word in [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/uksi/2023/1007/schedule/1/paragraph/3/3) inserted (25.2.2025) by [The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) Regulations 2025 (S.I. 2025/211)](https://www.legislation.gov.uk/uksi/2025/211), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/211/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2025/211/regulation/3)
 
 [^f00005]: Footnote: [S.I. 2008/1277](https://www.legislation.gov.uk/uksi/2008/1277).
 
-[^key-9c78108dfbe94b078233e4b18c996df6]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/1) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
+[^c-9c78108dfbe94b078233e4b18c996df6]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/1) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
 
-[^key-7c14488964f73a7dc6ef9e53fa85c0f9]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/1/1) substituted (4.12.2025) by [The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1267)](https://www.legislation.gov.uk/uksi/2025/1267), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/5/2)
+[^c-7c14488964f73a7dc6ef9e53fa85c0f9]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/1/1) substituted (4.12.2025) by [The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1267)](https://www.legislation.gov.uk/uksi/2025/1267), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/5/2)
 
-[^key-f6363384a148e090f2fcc6ef573446d9]: Textual amendment: Words in [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/1/2) substituted (4.12.2025) by [The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1267)](https://www.legislation.gov.uk/uksi/2025/1267), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/5/3)
+[^c-f6363384a148e090f2fcc6ef573446d9]: Textual amendment: Words in [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/1/2) substituted (4.12.2025) by [The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1267)](https://www.legislation.gov.uk/uksi/2025/1267), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/5/3)
 
-[^key-3eb9b99691a1e9d43ec5e64356686193]: Textual amendment: [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/1/3)[(4)](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/1/4) inserted (4.12.2025) by [The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1267)](https://www.legislation.gov.uk/uksi/2025/1267), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/5/4)
+[^c-3eb9b99691a1e9d43ec5e64356686193]: Textual amendment: [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/1/3)[(4)](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/1/4) inserted (4.12.2025) by [The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1267)](https://www.legislation.gov.uk/uksi/2025/1267), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/5/4)
 
-[^key-320dfe4e2c7182f21a16429ff3ab6e8d]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/2) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
+[^c-320dfe4e2c7182f21a16429ff3ab6e8d]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/2) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
 
-[^key-41c95fdc4aab769618ce73f7724b0b2d]: Textual amendment: Words in [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/2/1) substituted (4.12.2025) by [The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1267)](https://www.legislation.gov.uk/uksi/2025/1267), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/6/2)
+[^c-41c95fdc4aab769618ce73f7724b0b2d]: Textual amendment: Words in [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/2/1) substituted (4.12.2025) by [The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1267)](https://www.legislation.gov.uk/uksi/2025/1267), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/6/2)
 
-[^key-c45799954ccc170ce4c8ff79287e813e]: Textual amendment: Words in [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/2/2) substituted (4.12.2025) by [The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1267)](https://www.legislation.gov.uk/uksi/2025/1267), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/6/3)
+[^c-c45799954ccc170ce4c8ff79287e813e]: Textual amendment: Words in [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/2/2) substituted (4.12.2025) by [The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1267)](https://www.legislation.gov.uk/uksi/2025/1267), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/6/3)
 
-[^key-dc3bde40e7de7a52f773ff09209dadf0]: Textual amendment: [Sch. 2 para. 2(2A)](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/2/2A)[(2B)](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/2/2B) inserted (4.12.2025) by [The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1267)](https://www.legislation.gov.uk/uksi/2025/1267), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/6/4)
+[^c-dc3bde40e7de7a52f773ff09209dadf0]: Textual amendment: [Sch. 2 para. 2(2A)](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/2/2A)[(2B)](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/2/2B) inserted (4.12.2025) by [The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1267)](https://www.legislation.gov.uk/uksi/2025/1267), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/6/4)
 
-[^key-3b969363bfe91eee362681e2dbb3c861]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/3) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
+[^c-3b969363bfe91eee362681e2dbb3c861]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/3) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
 
-[^key-b97eb1ef6fced392721b61d0882465a0]: Textual amendment: Words in [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/3/1) substituted (4.12.2025) by [The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1267)](https://www.legislation.gov.uk/uksi/2025/1267), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/7/2)
+[^c-b97eb1ef6fced392721b61d0882465a0]: Textual amendment: Words in [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/3/1) substituted (4.12.2025) by [The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1267)](https://www.legislation.gov.uk/uksi/2025/1267), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/7/2)
 
-[^key-1611e4ee9d255257395c8a228916df2c]: Textual amendment: Words in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/3/2) substituted (4.12.2025) by [The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1267)](https://www.legislation.gov.uk/uksi/2025/1267), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/7/3)
+[^c-1611e4ee9d255257395c8a228916df2c]: Textual amendment: Words in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/3/2) substituted (4.12.2025) by [The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1267)](https://www.legislation.gov.uk/uksi/2025/1267), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/7/3)
 
-[^key-939bbcf17f90ce0ebec104b02de1bb7e]: Textual amendment: [Sch. 2 para. 3(2A)](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/3/2A)[(2B)](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/3/2B) inserted (4.12.2025) by [The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1267)](https://www.legislation.gov.uk/uksi/2025/1267), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/7/4)
+[^c-939bbcf17f90ce0ebec104b02de1bb7e]: Textual amendment: [Sch. 2 para. 3(2A)](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/3/2A)[(2B)](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2/paragraph/3/2B) inserted (4.12.2025) by [The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1267)](https://www.legislation.gov.uk/uksi/2025/1267), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/7/4)
 
-[^key-94aa56177313c7024d167ff6247c14ae]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2A) inserted (4.12.2025) by [The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1267)](https://www.legislation.gov.uk/uksi/2025/1267), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2025/1267/regulation/8)
+[^c-94aa56177313c7024d167ff6247c14ae]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/uksi/2023/1007/schedule/2A) inserted (4.12.2025) by [The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1267)](https://www.legislation.gov.uk/uksi/2025/1267), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1267/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2025/1267/regulation/8)
 
-[^key-54f6a2b90f7c82fb9e118f9b6fb63e7e]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2023/1007/schedule/3/paragraph/1) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
+[^c-54f6a2b90f7c82fb9e118f9b6fb63e7e]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2023/1007/schedule/3/paragraph/1) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
 
-[^key-135c08759f04fd26be4d83050abf9ed0]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2023/1007/schedule/3/paragraph/2) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
+[^c-135c08759f04fd26be4d83050abf9ed0]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2023/1007/schedule/3/paragraph/2) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 2021/1467](https://www.legislation.gov.uk/uksi/2021/1467).
 
@@ -492,18 +492,18 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00008]: Footnote: [2018 c. 18](https://www.legislation.gov.uk/ukpga/2018/18).
 
-[^key-2a51fe89483bd59a4710cc1614188a03]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2023/1007/schedule/3/paragraph/3) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
+[^c-2a51fe89483bd59a4710cc1614188a03]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2023/1007/schedule/3/paragraph/3) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618).
 
-[^key-baaa484aa7cf796cd95c670852fefcd7]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2023/1007/schedule/3/paragraph/4) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
+[^c-baaa484aa7cf796cd95c670852fefcd7]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2023/1007/schedule/3/paragraph/4) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
 
 [^f00010]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Section 7AB was inserted by regulation 21 of the Electricity and Gas (Smart Meters Licensable Activity) Order 2012 ([S.I. 2012/2400](https://www.legislation.gov.uk/uksi/2012/2400)).
 
 [^f00011]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Relevant amendments to section 6 were made by regulation 6 of the Electricity and Gas (Smart Meters Licensable Activity) Order 2012 ([S.I. 2012/2400](https://www.legislation.gov.uk/uksi/2012/2400)).
 
-[^key-8188ec92b4404c308ca84f82a8262084]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2023/1007/schedule/3/paragraph/5) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
+[^c-8188ec92b4404c308ca84f82a8262084]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2023/1007/schedule/3/paragraph/5) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
 
-[^key-ef795b5ae19c082f01c921f7529b016c]: Textual amendment: [Sch. 3 paras. 6-8](https://www.legislation.gov.uk/uksi/2023/1007/schedule/3/paragraph/6) inserted (25.2.2025) by [The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) Regulations 2025 (S.I. 2025/211)](https://www.legislation.gov.uk/uksi/2025/211), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/211/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2025/211/regulation/4)
+[^c-ef795b5ae19c082f01c921f7529b016c]: Textual amendment: [Sch. 3 paras. 6-8](https://www.legislation.gov.uk/uksi/2023/1007/schedule/3/paragraph/6) inserted (25.2.2025) by [The Product Security and Telecommunications Infrastructure (Security Requirements for Relevant Connectable Products) (Amendment) Regulations 2025 (S.I. 2025/211)](https://www.legislation.gov.uk/uksi/2025/211), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/211/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2025/211/regulation/4)
 
-[^key-3b5b3355d5db428026dea01601857378]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2023/1007/schedule/4/paragraph/1) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)
+[^c-3b5b3355d5db428026dea01601857378]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2023/1007/schedule/4/paragraph/1) in force at 29.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1007/regulation/1/2)

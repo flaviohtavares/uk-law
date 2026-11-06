@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 50. Schemes for the alteration of diocesan boundaries[^key-bd3350b075c5157cfc8076b1fea0d1e8]
+## 50. Schemes for the alteration of diocesan boundaries[^c-bd3350b075c5157cfc8076b1fea0d1e8]
 
 *Extent: E*
 
@@ -29,4 +29,4 @@ Provided that the powers conferred by this section shall be subject to any limit
 
 ## Annotations
 
-[^key-bd3350b075c5157cfc8076b1fea0d1e8]: Commencement: S. 50 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-bd3350b075c5157cfc8076b1fea0d1e8]: Commencement: S. 50 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

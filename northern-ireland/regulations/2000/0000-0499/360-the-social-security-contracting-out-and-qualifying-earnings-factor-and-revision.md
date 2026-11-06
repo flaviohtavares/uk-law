@@ -41,7 +41,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by sections 44A(5) and 177(2) to (4) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and now vested in it[^f00002], and the powers conferred on it by section 34(5) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000[^f00003] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-ce83b1207d7a03891654091e636fd2a7]
+## 1. Citation, commencement and interpretation[^c-ce83b1207d7a03891654091e636fd2a7]
 
 (1) These Regulations may be cited as the Social Security (Contracting-out and Qualifying Earnings Factor and Revision of Relevant Pensions) Regulations (Northern Ireland) 2000 and shall come into operation on 29th December 2000.
 
@@ -54,11 +54,11 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Modification of the application of section 44(5A) of the 1992 Act[^key-0e0fbf363778bd0071c41e0a2f06799a]
+## 2. Modification of the application of section 44(5A) of the 1992 Act[^c-0e0fbf363778bd0071c41e0a2f06799a]
 
 (1) Where, by virtue of section 44A(1) of the 1993 Act, section 44(6) of the 1992 Act[^f00006] has effect for the tax year 2000-01 or any later tax year, in relation to some but not all of the earnings of an earner, the application of section 44(5A) of the 1992 Act[^f00007] is modified for that year in accordance with this regulation.
 
-(2) In a case where the year is one in which the amount of a Class 1 contribution in respect of the earnings paid to or for the benefit of an earner in a tax week was reduced[^key-aeb53009353b432344f6021f98accfc0] under section 37 (as it then had effect)[^key-c55887560153e54611ba8d409e5d74c7] or 38A of the 1993 Act[^f00008] (reduced rates of Class 1 contributions for earners in contracted-out employment and reduced rates of Class 1 contributions, and rebates, for members of money purchase contracted-out schemes) subsection (5A) of section 44 of the 1992 Act is modified so that the qualifying earnings factor for the purposes of paragraph (*a*) of that sub-section shall be calculated by applying the formula—
+(2) In a case where the year is one in which the amount of a Class 1 contribution in respect of the earnings paid to or for the benefit of an earner in a tax week was reduced[^c-aeb53009353b432344f6021f98accfc0] under section 37 (as it then had effect)[^c-c55887560153e54611ba8d409e5d74c7] or 38A of the 1993 Act[^f00008] (reduced rates of Class 1 contributions for earners in contracted-out employment and reduced rates of Class 1 contributions, and rebates, for members of money purchase contracted-out schemes) subsection (5A) of section 44 of the 1992 Act is modified so that the qualifying earnings factor for the purposes of paragraph (*a*) of that sub-section shall be calculated by applying the formula—
 
 [formula: see source](https://www.legislation.gov.uk/nisr/2000/360)
 
@@ -69,7 +69,7 @@ where—
 
 (3) In a case where the year is one in which an amount is paid in respect of an earner under section 41(1) of the 1993 Act[^f00009] (minimum contributions towards appropriate personal pension schemes) subsection (5A) of section 44 of the 1992 Act is modified so that the qualifying earnings factor for the purposes of paragraph (*a*) of that subsection shall be zero.
 
-## 3. Revision of relevant pensions[^key-7eda17a764364fd76c466f51e58c0374]
+## 3. Revision of relevant pensions[^c-7eda17a764364fd76c466f51e58c0374]
 
 (1) Where, by virtue of section 34(3) of the 2000 Act any relevant pension has been calculated by reference to section 44(5) of the 1992 Act[^f00010] as modified by regulations under section 44A(5) of the 1993 Act, the calculation of that pension shall be revised by applying the formula set out in regulation 2(2).
 
@@ -99,26 +99,26 @@ Regulation 3 provides that a relevant pension calculated in accordance with sect
 
 [^f00003]: Footnote: [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)
 
-[^key-ce83b1207d7a03891654091e636fd2a7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/360/regulation/1) in operation at 29.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/360/regulation/1/1)
+[^c-ce83b1207d7a03891654091e636fd2a7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/360/regulation/1) in operation at 29.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/360/regulation/1/1)
 
 [^f00004]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-0e0fbf363778bd0071c41e0a2f06799a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/360/regulation/2) in operation at 29.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/360/regulation/1/1)
+[^c-0e0fbf363778bd0071c41e0a2f06799a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/360/regulation/2) in operation at 29.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/360/regulation/1/1)
 
 [^f00006]: Footnote: *See* paragraphs 1 to 3 of Schedule 4 to the Social Security (Consequential Provisions) (Northern Ireland) Act [1992 (c. 9)](https://www.legislation.gov.uk/ukpga/1992/9) and Article 125(2) and (4) to (6) of the Pensions (Northern Ireland) Order 1995
 
 [^f00007]: Footnote: Section 44(5A) was substituted by Article 125(1) of the Pensions (Northern Ireland) Order 1995. *See also* paragraphs (4) to (6) of that Article
 
-[^key-aeb53009353b432344f6021f98accfc0]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2000/360/regulation/2/2) substituted (6.4.2016) by [The Pensions (2015 Act) (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order (Northern Ireland) 2016 (S.R. 2016/158)](https://www.legislation.gov.uk/nisr/2016/158), [arts. 1(a)](https://www.legislation.gov.uk/nisr/2016/158/article/1/a), [18(a)](https://www.legislation.gov.uk/nisr/2016/158/article/18/a)
+[^c-aeb53009353b432344f6021f98accfc0]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2000/360/regulation/2/2) substituted (6.4.2016) by [The Pensions (2015 Act) (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order (Northern Ireland) 2016 (S.R. 2016/158)](https://www.legislation.gov.uk/nisr/2016/158), [arts. 1(a)](https://www.legislation.gov.uk/nisr/2016/158/article/1/a), [18(a)](https://www.legislation.gov.uk/nisr/2016/158/article/18/a)
 
-[^key-c55887560153e54611ba8d409e5d74c7]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2000/360/regulation/2/2) inserted (6.4.2016) by [The Pensions (2015 Act) (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order (Northern Ireland) 2016 (S.R. 2016/158)](https://www.legislation.gov.uk/nisr/2016/158), [arts. 1(a)](https://www.legislation.gov.uk/nisr/2016/158/article/1/a), [18(b)](https://www.legislation.gov.uk/nisr/2016/158/article/18/b)
+[^c-c55887560153e54611ba8d409e5d74c7]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2000/360/regulation/2/2) inserted (6.4.2016) by [The Pensions (2015 Act) (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order (Northern Ireland) 2016 (S.R. 2016/158)](https://www.legislation.gov.uk/nisr/2016/158), [arts. 1(a)](https://www.legislation.gov.uk/nisr/2016/158/article/1/a), [18(b)](https://www.legislation.gov.uk/nisr/2016/158/article/18/b)
 
 [^f00008]: Footnote: Section 37 was amended by paragraph 95 of Schedule 6 to the Social Security (Northern Ireland) Order 1998 (S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)), paragraph 6 of Schedule 10 to the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30) and paragraph 50 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 (S.I. [1999/671](https://www.legislation.gov.uk/uksi/1999/671)). Section 38A was inserted by Article 134(4) of the Pensions (Northern Ireland) Order 1995 and amended by paragraph 96 of Schedule 6 to the Social Security (Northern Ireland) Order 1998, paragraph 52 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 and paragraph 7 of Schedule 10 to the Welfare Reform and Pensions Act 1999
 
 [^f00009]: Footnote: Section 41(1) was substituted by Article 135(2) of the Pensions (Northern Ireland) Order 1995 and amended by paragraph 56 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999
 
-[^key-7eda17a764364fd76c466f51e58c0374]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/360/regulation/3) in operation at 29.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/360/regulation/1/1)
+[^c-7eda17a764364fd76c466f51e58c0374]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/360/regulation/3) in operation at 29.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/360/regulation/1/1)
 
 [^f00010]: Footnote: *See* Article 125(1) and (4) to (6) of the Pensions (Northern Ireland) Order 1995

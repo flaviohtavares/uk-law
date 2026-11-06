@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Imitation poll cards and notifications[^key-3d2b2e90edead96864f8fb846b4ad8bc]
+## 70. Imitation poll cards and notifications[^c-3d2b2e90edead96864f8fb846b4ad8bc]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d2b2e90edead96864f8fb846b4ad8bc]: Commencement: Art. 70 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-3d2b2e90edead96864f8fb846b4ad8bc]: Commencement: Art. 70 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

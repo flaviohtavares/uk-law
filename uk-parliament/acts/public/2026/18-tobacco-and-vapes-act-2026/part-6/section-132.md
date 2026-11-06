@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Audiovisual services and radio broadcasting[^key-d7882c1a1a28f009d36dfc0daeb422fa]
+## 132. Audiovisual services and radio broadcasting[^c-d7882c1a1a28f009d36dfc0daeb422fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ This Part does not apply in relation to anything included in—
 
 ## Annotations
 
-[^key-d7882c1a1a28f009d36dfc0daeb422fa]: Commencement: S. 132 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
+[^c-d7882c1a1a28f009d36dfc0daeb422fa]: Commencement: S. 132 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)

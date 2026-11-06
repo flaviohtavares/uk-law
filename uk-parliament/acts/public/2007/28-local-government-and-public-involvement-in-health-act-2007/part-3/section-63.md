@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Discharge of functions[^key-4904480d5076f2fbf94402c2af73b4df]
+## 63. Discharge of functions[^c-4904480d5076f2fbf94402c2af73b4df]
 
 *Extent: E+W*
 
@@ -47,7 +47,7 @@ summary: ''
 - (a) for “an elected mayor” substitute “ a senior executive member ”;
 - (b) for “the elected mayor” substitute “ the senior executive member ”.
 
-(8)[^key-4f6236b1637715d1ea7420c9757480ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-4f6236b1637715d1ea7420c9757480ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) In section 15—
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4904480d5076f2fbf94402c2af73b4df]: Commencement: S. 63 in force at 30.12.2007, see s. 245(2)
+[^c-4904480d5076f2fbf94402c2af73b4df]: Commencement: S. 63 in force at 30.12.2007, see s. 245(2)
 
-[^key-4f6236b1637715d1ea7420c9757480ae]: Textual amendment: [S. 63(8)](https://www.legislation.gov.uk/ukpga/2007/28/section/63/8) repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/c)
+[^c-4f6236b1637715d1ea7420c9757480ae]: Textual amendment: [S. 63(8)](https://www.legislation.gov.uk/ukpga/2007/28/section/63/8) repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/c)

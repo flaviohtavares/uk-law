@@ -66,18 +66,18 @@ In these Regulations—
 
 ## 3. Labelling requirements
 
-(1) Paragraph (2)[^key-7d6baef6d1d0be0f45fc24c96b13cfb6] applies to each of the following fuels—
+(1) Paragraph (2)[^c-7d6baef6d1d0be0f45fc24c96b13cfb6] applies to each of the following fuels—
 
 - (a) bioethanol;
 - (b) biodiesel;
-- (c) any blend containing more than 10%[^key-89808c51101def532e5262b89b32a6a8] by volume of bioethanol[^key-c3de7020f572ac9a97bf40e5e4f35ff9].
-- (d)[^key-b867fc537f8ef85b67ad328bb328d5da] any blend containing more than 7% by volume of biodiesel.
+- (c) any blend containing more than 10%[^c-89808c51101def532e5262b89b32a6a8] by volume of bioethanol[^c-c3de7020f572ac9a97bf40e5e4f35ff9].
+- (d)[^c-b867fc537f8ef85b67ad328bb328d5da] any blend containing more than 7% by volume of biodiesel.
 
-(2) No person shall sell, or offer for sale, to the ultimate consumer any fuel to which this paragraph[^key-9512f691a547edf705d6aeddf09cc179] applies, unless the words, “Not suitable for all vehicles: consult vehicle manufacturer before use” are displayed prominently on any dispenser from which such fuel is sold or offered for sale to the ultimate consumer.
+(2) No person shall sell, or offer for sale, to the ultimate consumer any fuel to which this paragraph[^c-9512f691a547edf705d6aeddf09cc179] applies, unless the words, “Not suitable for all vehicles: consult vehicle manufacturer before use” are displayed prominently on any dispenser from which such fuel is sold or offered for sale to the ultimate consumer.
 
-(3)[^key-270d7c89775457444d4bc8361fb2c762] No person shall sell, or offer for sale, to the ultimate consumer before 1st April 2010 any blend containing more than 5% but not more than 7% by volume of biodiesel unless the words “Contains up to 7% biodiesel” are displayed prominently on any dispenser from which such fuel is sold or offered for sale to the ultimate consumer.
+(3)[^c-270d7c89775457444d4bc8361fb2c762] No person shall sell, or offer for sale, to the ultimate consumer before 1st April 2010 any blend containing more than 5% but not more than 7% by volume of biodiesel unless the words “Contains up to 7% biodiesel” are displayed prominently on any dispenser from which such fuel is sold or offered for sale to the ultimate consumer.
 
-(4)[^key-46eb151039a0dc1d128da3506c5950f0] A person must not sell, or offer for sale, to the ultimate consumer any blend containing more than 5% but not more than 10% by volume of bioethanol, unless the words “Suitable for most petrol vehicles: check before use” are displayed prominently on any dispenser from which such blend is sold or offered for sale to the ultimate consumer.
+(4)[^c-46eb151039a0dc1d128da3506c5950f0] A person must not sell, or offer for sale, to the ultimate consumer any blend containing more than 5% but not more than 10% by volume of bioethanol, unless the words “Suitable for most petrol vehicles: check before use” are displayed prominently on any dispenser from which such blend is sold or offered for sale to the ultimate consumer.
 
 ## 4. Penalties and enforcement
 
@@ -107,14 +107,14 @@ Regulation 4(2)
 
 (1) Subject to sub-paragraphs (2) to (4), in proceedings against any person for any offence under these Regulations it shall be a defence for that person to show that he took all reasonable steps and exercised all due diligence to avoid committing the offence.
 
-(2) Where in any proceedings [^key-ea8f3648de6f002affaa9be7779b34ce]... against any person for such an offence the defence provided by sub-paragraph (1) above involves an allegation that the commission of the offence was due to—
+(2) Where in any proceedings [^c-ea8f3648de6f002affaa9be7779b34ce]... against any person for such an offence the defence provided by sub-paragraph (1) above involves an allegation that the commission of the offence was due to—
 
 - (a) the act or default of another; or
 - (b) reliance on information given by another,
 
 that person shall not, without the leave of the court, be entitled to rely on the defence unless, not less than seven clear days before the hearing of the proceedings (or, in Scotland the trial diet), he has served a notice under sub-paragraph (3) on the person bringing the proceedings.
 
-(3) A notice under this sub-paragraph shall give such information identifying or assisting in the identification of the person who committed the act or default or gave the information as is in the possession of the person who is the subject of the proceedings[^key-c9bcb9facf293a496fce8f9ddac7eccd].
+(3) A notice under this sub-paragraph shall give such information identifying or assisting in the identification of the person who committed the act or default or gave the information as is in the possession of the person who is the subject of the proceedings[^c-c9bcb9facf293a496fce8f9ddac7eccd].
 
 (4) A person shall not be entitled to rely on the defence provided by sub-paragraph (1) by reason of his reliance on information supplied by another, unless he shows that it was reasonable in all the circumstances for him to have relied on the information, having regard in particular to —
 
@@ -168,7 +168,7 @@ exercise any of the powers set out in sub-paragraph (2).
 (4) If a justice of the peace is satisfied by any written information on oath—
 
 - (a) that there are reasonable grounds for believing either—
-  - (i)[^key-25e76cfa22305c5550dcfbf1a9e71873] that any sample or records, which a duly authorised officer has power under this paragraph to seize or require to be produced, is or are on any premises and that its or their seizure or production is likely to disclose evidence of the commission of an offence under these Regulations; or
+  - (i)[^c-25e76cfa22305c5550dcfbf1a9e71873] that any sample or records, which a duly authorised officer has power under this paragraph to seize or require to be produced, is or are on any premises and that its or their seizure or production is likely to disclose evidence of the commission of an offence under these Regulations; or
   - (ii) that any offence under these Regulations has been, is being, or is about to be committed on any premises; and
 - (b) either—
   - (i) that admission to the premises has been or is likely to be refused and that notice of intention to apply for a warrant under this sub-paragraph has been given to the occupier; or
@@ -191,13 +191,13 @@ the justice may by warrant under his hand, which shall continue in force for a p
 
 (8) A person who is not a duly authorised officer of an enforcement authority shall not purport to act as such under this paragraph.
 
-(9) In the application of this paragraph to Scotland, the reference in sub-paragraph (4) to a justice of the peace shall include a reference to a sheriff and the reference to any written information on oath shall be construed as a reference to any evidence on oath.[^key-630c9b6a2c7bc8cc97cdcee7969e1c71]
+(9) In the application of this paragraph to Scotland, the reference in sub-paragraph (4) to a justice of the peace shall include a reference to a sheriff and the reference to any written information on oath shall be construed as a reference to any evidence on oath.[^c-630c9b6a2c7bc8cc97cdcee7969e1c71]
 
-(10) In the application of this paragraph to Northern Ireland, the reference in sub-paragraph (4) to a justice of the peace shall include a reference to a lay magistrate and the reference to any written information on oath shall be construed as a reference to any complaint on oath.[^key-f6a26919a0f432c4d9866c445e2b30a4]
+(10) In the application of this paragraph to Northern Ireland, the reference in sub-paragraph (4) to a justice of the peace shall include a reference to a lay magistrate and the reference to any written information on oath shall be construed as a reference to any complaint on oath.[^c-f6a26919a0f432c4d9866c445e2b30a4]
 
 #### 5. Appeals against detention of a sample or records
 
-(1) Any person having an interest in a sample or records which is or[^key-b30dc8c3f8951cee8de1c87d4689c1b3] are for the time being detained under paragraph 4 (Powers of search etc.) by an enforcement authority or by a duly authorised officer of an enforcement authority may apply for an order requiring the sample [^key-cb27f81cc760f91fd92c322d4b0f29c0]... or records to be released to him or to another person.
+(1) Any person having an interest in a sample or records which is or[^c-b30dc8c3f8951cee8de1c87d4689c1b3] are for the time being detained under paragraph 4 (Powers of search etc.) by an enforcement authority or by a duly authorised officer of an enforcement authority may apply for an order requiring the sample [^c-cb27f81cc760f91fd92c322d4b0f29c0]... or records to be released to him or to another person.
 
 (2) An application under this paragraph may be made–
 
@@ -207,13 +207,13 @@ the justice may by warrant under his hand, which shall continue in force for a p
 
 (3) A magistrates' court or the sheriff shall not make an order under sub-paragraph (1) unless the court or sheriff is satisfied–
 
-- (a) that proceedings have not been brought for an offence in respect of a contravention of any provision of these Regulations [^key-1017334fd1dfd76f35738c61abeade6b]... or having been brought, have been concluded; and
+- (a) that proceedings have not been brought for an offence in respect of a contravention of any provision of these Regulations [^c-1017334fd1dfd76f35738c61abeade6b]... or having been brought, have been concluded; and
 - (b) where no such proceedings have been brought, that more than six months have elapsed since the seizure was carried out.
 
-(4) Any person aggrieved by an order made under this paragraph by a magistrates' court or sheriff[^key-c67192dcf457e8aa54f03e09d833ad65] or by a decision of such a court or sheriff not to make such an order, may appeal against that order or decision–
+(4) Any person aggrieved by an order made under this paragraph by a magistrates' court or sheriff[^c-c67192dcf457e8aa54f03e09d833ad65] or by a decision of such a court or sheriff not to make such an order, may appeal against that order or decision–
 
 - (a) in England and Wales, to the Crown Court;
-- (b) in Scotland, to the sheriff principal[^key-fc9121a275dcebc1e9be7d7a3901a21c]; or
+- (b) in Scotland, to the sheriff principal[^c-fc9121a275dcebc1e9be7d7a3901a21c]; or
 - (c) in Northern Ireland to a county court.
 
 (5) In England and Wales or in Northern Ireland, an order made under this paragraph may contain such provision as appears to the court to be appropriate for delaying the coming into force of the order pending the making and determination of any appeal (including any application under section 111 of the Magistrates' Courts Act 1980 [^c5293111] or article 146 of the Magistrates' Courts (Northern Ireland) Order 1981 [^c5293121] (statement of case)).
@@ -280,41 +280,41 @@ Copies of the Directive can be obtained from the Stationery Office.
 
 [^c5293101]: Marginal citation: [1985 c. 72](https://www.legislation.gov.uk/ukpga/1985/72), as amended by paragraph 75 of Schedule 16 to the [Local Government (Wales) Act 1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19) and paragraph 144 of Schedule 13 to the [Local Government etc. (Scotland) Act 1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-7d6baef6d1d0be0f45fc24c96b13cfb6]: Textual amendment: Words in reg. 3(1) substituted (8.1.2010) by [The Biofuel (Labelling) (Amendment) Regulations 2009 (S.I. 2009/3277)](https://www.legislation.gov.uk/uksi/2009/3277), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3277/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2009/3277/regulation/3/2/a)
+[^c-7d6baef6d1d0be0f45fc24c96b13cfb6]: Textual amendment: Words in reg. 3(1) substituted (8.1.2010) by [The Biofuel (Labelling) (Amendment) Regulations 2009 (S.I. 2009/3277)](https://www.legislation.gov.uk/uksi/2009/3277), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3277/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2009/3277/regulation/3/2/a)
 
-[^key-89808c51101def532e5262b89b32a6a8]: Textual amendment: Word in [reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/2004/3349/regulation/3/1/c) substituted (12.8.2021) by [The Motor Fuel (Composition and Content) and the Biofuel (Labelling) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/894)](https://www.legislation.gov.uk/uksi/2021/894), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/894/regulation/1/2), [13(a)](https://www.legislation.gov.uk/uksi/2021/894/regulation/13/a)
+[^c-89808c51101def532e5262b89b32a6a8]: Textual amendment: Word in [reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/2004/3349/regulation/3/1/c) substituted (12.8.2021) by [The Motor Fuel (Composition and Content) and the Biofuel (Labelling) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/894)](https://www.legislation.gov.uk/uksi/2021/894), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/894/regulation/1/2), [13(a)](https://www.legislation.gov.uk/uksi/2021/894/regulation/13/a)
 
-[^key-c3de7020f572ac9a97bf40e5e4f35ff9]: Textual amendment: Word in reg. 3(1)(c) substituted (8.1.2010) by [The Biofuel (Labelling) (Amendment) Regulations 2009 (S.I. 2009/3277)](https://www.legislation.gov.uk/uksi/2009/3277), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3277/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2009/3277/regulation/3/2/b)
+[^c-c3de7020f572ac9a97bf40e5e4f35ff9]: Textual amendment: Word in reg. 3(1)(c) substituted (8.1.2010) by [The Biofuel (Labelling) (Amendment) Regulations 2009 (S.I. 2009/3277)](https://www.legislation.gov.uk/uksi/2009/3277), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3277/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2009/3277/regulation/3/2/b)
 
-[^key-b867fc537f8ef85b67ad328bb328d5da]: Textual amendment: Reg. 3(1)(d) added (8.1.2010) by [The Biofuel (Labelling) (Amendment) Regulations 2009 (S.I. 2009/3277)](https://www.legislation.gov.uk/uksi/2009/3277), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3277/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2009/3277/regulation/3/3)
+[^c-b867fc537f8ef85b67ad328bb328d5da]: Textual amendment: Reg. 3(1)(d) added (8.1.2010) by [The Biofuel (Labelling) (Amendment) Regulations 2009 (S.I. 2009/3277)](https://www.legislation.gov.uk/uksi/2009/3277), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3277/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2009/3277/regulation/3/3)
 
-[^key-9512f691a547edf705d6aeddf09cc179]: Textual amendment: Words in reg. 3(2) substituted (8.1.2010) by [The Biofuel (Labelling) (Amendment) Regulations 2009 (S.I. 2009/3277)](https://www.legislation.gov.uk/uksi/2009/3277), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3277/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2009/3277/regulation/3/4)
+[^c-9512f691a547edf705d6aeddf09cc179]: Textual amendment: Words in reg. 3(2) substituted (8.1.2010) by [The Biofuel (Labelling) (Amendment) Regulations 2009 (S.I. 2009/3277)](https://www.legislation.gov.uk/uksi/2009/3277), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3277/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2009/3277/regulation/3/4)
 
-[^key-270d7c89775457444d4bc8361fb2c762]: Textual amendment: Reg. 3(3) added (8.1.2010) by [The Biofuel (Labelling) (Amendment) Regulations 2009 (S.I. 2009/3277)](https://www.legislation.gov.uk/uksi/2009/3277), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3277/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2009/3277/regulation/3/5)
+[^c-270d7c89775457444d4bc8361fb2c762]: Textual amendment: Reg. 3(3) added (8.1.2010) by [The Biofuel (Labelling) (Amendment) Regulations 2009 (S.I. 2009/3277)](https://www.legislation.gov.uk/uksi/2009/3277), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3277/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2009/3277/regulation/3/5)
 
-[^key-46eb151039a0dc1d128da3506c5950f0]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2004/3349/regulation/3/4) inserted (12.8.2021) by [The Motor Fuel (Composition and Content) and the Biofuel (Labelling) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/894)](https://www.legislation.gov.uk/uksi/2021/894), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/894/regulation/1/2), [13(b)](https://www.legislation.gov.uk/uksi/2021/894/regulation/13/b)
+[^c-46eb151039a0dc1d128da3506c5950f0]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2004/3349/regulation/3/4) inserted (12.8.2021) by [The Motor Fuel (Composition and Content) and the Biofuel (Labelling) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/894)](https://www.legislation.gov.uk/uksi/2021/894), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/894/regulation/1/2), [13(b)](https://www.legislation.gov.uk/uksi/2021/894/regulation/13/b)
 
-[^key-ea8f3648de6f002affaa9be7779b34ce]: Textual amendment: Words in Sch. para. 1(2) omitted (1.2.2006) by virtue of [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/2)
+[^c-ea8f3648de6f002affaa9be7779b34ce]: Textual amendment: Words in Sch. para. 1(2) omitted (1.2.2006) by virtue of [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/2)
 
-[^key-c9bcb9facf293a496fce8f9ddac7eccd]: Textual amendment: Words in Sch. para. 1(3) substituted (1.2.2006) by [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/3)
+[^c-c9bcb9facf293a496fce8f9ddac7eccd]: Textual amendment: Words in Sch. para. 1(3) substituted (1.2.2006) by [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/3)
 
 [^M_F_52353ef5-76dc-41fd-e515-5179029bc45e]: Textual amendment: Words in Sch. para. 2(1) substituted (8.1.2010) by [The Biofuel (Labelling) (Amendment) Regulations 2009 (S.I. 2009/3277)](https://www.legislation.gov.uk/uksi/2009/3277), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3277/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/3277/regulation/4)
 
-[^key-25e76cfa22305c5550dcfbf1a9e71873]: Textual amendment: Sch. para. 4(4)(a)(i) substituted (1.2.2006) by [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/4)
+[^c-25e76cfa22305c5550dcfbf1a9e71873]: Textual amendment: Sch. para. 4(4)(a)(i) substituted (1.2.2006) by [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/4)
 
-[^key-630c9b6a2c7bc8cc97cdcee7969e1c71]: Textual amendment: Words in Sch. para. 4(9) substituted (1.2.2006) by [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/5)
+[^c-630c9b6a2c7bc8cc97cdcee7969e1c71]: Textual amendment: Words in Sch. para. 4(9) substituted (1.2.2006) by [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/5)
 
-[^key-f6a26919a0f432c4d9866c445e2b30a4]: Textual amendment: Words in Sch. para. 4(10) substituted (1.2.2006) by [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/6)
+[^c-f6a26919a0f432c4d9866c445e2b30a4]: Textual amendment: Words in Sch. para. 4(10) substituted (1.2.2006) by [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/6)
 
-[^key-b30dc8c3f8951cee8de1c87d4689c1b3]: Textual amendment: Words in Sch. para. 5(1) inserted (1.2.2006) by [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/7/a)
+[^c-b30dc8c3f8951cee8de1c87d4689c1b3]: Textual amendment: Words in Sch. para. 5(1) inserted (1.2.2006) by [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/7/a)
 
-[^key-cb27f81cc760f91fd92c322d4b0f29c0]: Textual amendment: Words in Sch. para. 5(1) omitted (1.2.2006) by virtue of [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/7/b)
+[^c-cb27f81cc760f91fd92c322d4b0f29c0]: Textual amendment: Words in Sch. para. 5(1) omitted (1.2.2006) by virtue of [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/7/b)
 
-[^key-1017334fd1dfd76f35738c61abeade6b]: Textual amendment: Words in Sch. para. 5(3)(a) omitted (1.2.2006) by virtue of [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/8)
+[^c-1017334fd1dfd76f35738c61abeade6b]: Textual amendment: Words in Sch. para. 5(3)(a) omitted (1.2.2006) by virtue of [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/8)
 
-[^key-c67192dcf457e8aa54f03e09d833ad65]: Textual amendment: Words in Sch. para. 5(4) inserted (1.2.2006) by [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(9)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/9)
+[^c-c67192dcf457e8aa54f03e09d833ad65]: Textual amendment: Words in Sch. para. 5(4) inserted (1.2.2006) by [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(9)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/9)
 
-[^key-fc9121a275dcebc1e9be7d7a3901a21c]: Textual amendment: Words in Sch. para. 5(4)(b) substituted (1.2.2006) by [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/10)
+[^c-fc9121a275dcebc1e9be7d7a3901a21c]: Textual amendment: Words in Sch. para. 5(4)(b) substituted (1.2.2006) by [The Biofuel (Labelling) (Amendment) Regulations 2005 (S.I. 2005/3355)](https://www.legislation.gov.uk/uksi/2005/3355), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3355/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/2005/3355/regulation/2/10)
 
 [^c5293111]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 

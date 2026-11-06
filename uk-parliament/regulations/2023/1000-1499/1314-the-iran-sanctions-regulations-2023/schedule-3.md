@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 25
 
-### 1. Interception and monitoring equipment[^key-550861a62e2abf8ce7fe6497b6843fcd]
+### 1. Interception and monitoring equipment[^c-550861a62e2abf8ce7fe6497b6843fcd]
 
 Any goods which can perform any of the following functions (whether individually or as part of a system)—
 
@@ -41,13 +41,13 @@ Any goods which can perform any of the following functions (whether individually
 - (m) WEP and WPA code breaking;
 - (n) interception of VoIP (including proprietary and standard protocols).
 
-**2.**[^key-78ab34152c8eec96d2fcacff6a1cf87b] Any software which can perform any of the functions described in paragraph 1(a) to (n) (whether individually or as part of a system).
+**2.**[^c-78ab34152c8eec96d2fcacff6a1cf87b] Any software which can perform any of the functions described in paragraph 1(a) to (n) (whether individually or as part of a system).
 
-### 3. Other software and other technology[^key-30eb96029070ac676c619ff6d216d2f2]
+### 3. Other software and other technology[^c-30eb96029070ac676c619ff6d216d2f2]
 
 Any software or other technology which is specially designed for the development, production or use of any goods or software described in paragraph 1 or 2.
 
-### 4. Interpretation[^key-6621ee9d417a2c1f5b8acea2b9f20039]
+### 4. Interpretation[^c-6621ee9d417a2c1f5b8acea2b9f20039]
 
 For the purposes of this Schedule, the following terms have the meaning given to them in the Dual-Use Regulation—
 
@@ -57,7 +57,7 @@ For the purposes of this Schedule, the following terms have the meaning given to
 - “technology”;
 - “use”.
 
-### 5. Acronyms and abbreviations used in this Schedule[^key-9b86cf68eaace1a4005335d53fa1161b]
+### 5. Acronyms and abbreviations used in this Schedule[^c-9b86cf68eaace1a4005335d53fa1161b]
 
 The acronyms and abbreviations used in this Schedule have the following meaning—
 
@@ -85,12 +85,12 @@ The acronyms and abbreviations used in this Schedule have the following meaning�
 
 ## Annotations
 
-[^key-550861a62e2abf8ce7fe6497b6843fcd]: Commencement: Sch. 3 para. 1 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-550861a62e2abf8ce7fe6497b6843fcd]: Commencement: Sch. 3 para. 1 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-78ab34152c8eec96d2fcacff6a1cf87b]: Commencement: Sch. 3 para. 2 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-78ab34152c8eec96d2fcacff6a1cf87b]: Commencement: Sch. 3 para. 2 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-30eb96029070ac676c619ff6d216d2f2]: Commencement: Sch. 3 para. 3 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-30eb96029070ac676c619ff6d216d2f2]: Commencement: Sch. 3 para. 3 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-6621ee9d417a2c1f5b8acea2b9f20039]: Commencement: Sch. 3 para. 4 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-6621ee9d417a2c1f5b8acea2b9f20039]: Commencement: Sch. 3 para. 4 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-9b86cf68eaace1a4005335d53fa1161b]: Commencement: Sch. 3 para. 5 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-9b86cf68eaace1a4005335d53fa1161b]: Commencement: Sch. 3 para. 5 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

@@ -22,7 +22,7 @@ summary: ''
 
 Section 16
 
-### PART 1 — Voting system for parliamentary elections[^key-f0564ff1c5ffcb354395b1ece44bb20e]
+### PART 1 — Voting system for parliamentary elections[^c-f0564ff1c5ffcb354395b1ece44bb20e]
 
 **Not yet in force.**
 
@@ -41,4 +41,4 @@ Section 16
 
 ## Annotations
 
-[^key-f0564ff1c5ffcb354395b1ece44bb20e]: Textual amendment: [Sch. 12 Pt. 1](https://www.legislation.gov.uk/ukpga/2011/1/schedule/12/part/1) repealed (8.7.2011) by [Parliamentary Voting System and Constituencies Act 2011 (Repeal of Alternative Vote Provisions) Order 2011 (S.I. 2011/1702)](https://www.legislation.gov.uk/uksi/2011/1702), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1702/article/1), [2(c)](https://www.legislation.gov.uk/uksi/2011/1702/article/2/c)
+[^c-f0564ff1c5ffcb354395b1ece44bb20e]: Textual amendment: [Sch. 12 Pt. 1](https://www.legislation.gov.uk/ukpga/2011/1/schedule/12/part/1) repealed (8.7.2011) by [Parliamentary Voting System and Constituencies Act 2011 (Repeal of Alternative Vote Provisions) Order 2011 (S.I. 2011/1702)](https://www.legislation.gov.uk/uksi/2011/1702), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1702/article/1), [2(c)](https://www.legislation.gov.uk/uksi/2011/1702/article/2/c)

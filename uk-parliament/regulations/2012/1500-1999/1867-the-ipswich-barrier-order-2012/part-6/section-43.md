@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Protection of certain persons[^key-0919f4308210db04d0074391909ce272]
+## 43. Protection of certain persons[^c-0919f4308210db04d0074391909ce272]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 6 (provisions relating to statutory undertakers etc.) has effect.
 
 ## Annotations
 
-[^key-0919f4308210db04d0074391909ce272]: Commencement: Art. 43 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-0919f4308210db04d0074391909ce272]: Commencement: Art. 43 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

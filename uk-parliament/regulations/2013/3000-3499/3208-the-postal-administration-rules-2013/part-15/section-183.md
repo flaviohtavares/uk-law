@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 183. The Gazette—general[^key-34658e5670f2670c598a36e55d0c4897]
+## 183. The Gazette—general[^c-34658e5670f2670c598a36e55d0c4897]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34658e5670f2670c598a36e55d0c4897]: Commencement: [Rule 183](https://www.legislation.gov.uk/uksi/2013/3208/rule/183) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-34658e5670f2670c598a36e55d0c4897]: Commencement: [Rule 183](https://www.legislation.gov.uk/uksi/2013/3208/rule/183) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

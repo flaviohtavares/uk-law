@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Residential tenancies granted to employees[^key-bc6fc707abd205f6ac950b7730cba913][^key-b07fd878756bef9430a32245f1746a96]
+## 22. Residential tenancies granted to employees[^c-bc6fc707abd205f6ac950b7730cba913][^c-b07fd878756bef9430a32245f1746a96]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ In section 118 of the Charities Act 2011 (meaning of “**connected person**” 
 
 ## Annotations
 
-[^key-bc6fc707abd205f6ac950b7730cba913]: Commencement: S. 22 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-bc6fc707abd205f6ac950b7730cba913]: Commencement: S. 22 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-b07fd878756bef9430a32245f1746a96]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2022/6/section/22) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/11)
+[^c-b07fd878756bef9430a32245f1746a96]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2022/6/section/22) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/11)

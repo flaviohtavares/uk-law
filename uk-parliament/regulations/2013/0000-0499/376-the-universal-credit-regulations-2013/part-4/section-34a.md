@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34A. Charges attributable to an assessment period[^key-56e18daef2850e455730e7efe9f5070e]
+## 34A. Charges attributable to an assessment period[^c-56e18daef2850e455730e7efe9f5070e]
 
 *Extent: E+W+S*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) those charges are paid in that assessment period for relevant childcare in respect of a previous assessment period;or
 - (c) those charges were paid in either of the two previous assessment periods for relevant childcare in respect of that assessment period.
 
-(2)[^key-687ab274aa7eddc8b5f8ae8b72e1f6fe] For the purposes of paragraph (1)(c), where a claimant pays charges for relevant childcare in advance, the amount which they have paid in respect of any assessment period is to be calculated as follows: *Step 1* Take the total amount of the advance payment (leaving out of account any amount referred to in regulation 34(2)). *Step 2* Apply the formula—
+(2)[^c-687ab274aa7eddc8b5f8ae8b72e1f6fe] For the purposes of paragraph (1)(c), where a claimant pays charges for relevant childcare in advance, the amount which they have paid in respect of any assessment period is to be calculated as follows: *Step 1* Take the total amount of the advance payment (leaving out of account any amount referred to in regulation 34(2)). *Step 2* Apply the formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2013/376)
 
@@ -42,6 +42,6 @@ AP is the number of days covered by the payment which also fall within the asses
 
 ## Annotations
 
-[^key-56e18daef2850e455730e7efe9f5070e]: Textual amendment: Reg. 34A inserted (26.11.2014) by [The Universal Credit (Digital Service) Amendment Regulations 2014 (S.I. 2014/2887)](https://www.legislation.gov.uk/uksi/2014/2887), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2887/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2014/2887/regulation/2/4) (with [reg. 5](https://www.legislation.gov.uk/uksi/2014/2887/regulation/5))
+[^c-56e18daef2850e455730e7efe9f5070e]: Textual amendment: Reg. 34A inserted (26.11.2014) by [The Universal Credit (Digital Service) Amendment Regulations 2014 (S.I. 2014/2887)](https://www.legislation.gov.uk/uksi/2014/2887), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2887/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2014/2887/regulation/2/4) (with [reg. 5](https://www.legislation.gov.uk/uksi/2014/2887/regulation/5))
 
-[^key-687ab274aa7eddc8b5f8ae8b72e1f6fe]: Modification: Reg. 34A(2) sum maintained (coming into force in accordance with art. 1(2)(o) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2017 (S.I. 2017/260)](https://www.legislation.gov.uk/uksi/2017/260), [arts. 1(2)(o)](https://www.legislation.gov.uk/uksi/2017/260/article/1/2/o), [28(4)](https://www.legislation.gov.uk/uksi/2017/260/article/28/4), [Sch. 17](https://www.legislation.gov.uk/uksi/2017/260/schedule/17)
+[^c-687ab274aa7eddc8b5f8ae8b72e1f6fe]: Modification: Reg. 34A(2) sum maintained (coming into force in accordance with art. 1(2)(o) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2017 (S.I. 2017/260)](https://www.legislation.gov.uk/uksi/2017/260), [arts. 1(2)(o)](https://www.legislation.gov.uk/uksi/2017/260/article/1/2/o), [28(4)](https://www.legislation.gov.uk/uksi/2017/260/article/28/4), [Sch. 17](https://www.legislation.gov.uk/uksi/2017/260/schedule/17)

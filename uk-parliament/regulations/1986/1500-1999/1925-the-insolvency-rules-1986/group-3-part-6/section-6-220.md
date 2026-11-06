@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.220. Certificate of discharge[^key-2fa7160bc24e117cb5847dc1851ec0eb]
+## 6.220. Certificate of discharge[^c-2fa7160bc24e117cb5847dc1851ec0eb]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2fa7160bc24e117cb5847dc1851ec0eb]: Commencement: [Rule 6.220](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.220) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-2fa7160bc24e117cb5847dc1851ec0eb]: Commencement: [Rule 6.220](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.220) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00198]: Marginal citation: \[FORM 6.77\]

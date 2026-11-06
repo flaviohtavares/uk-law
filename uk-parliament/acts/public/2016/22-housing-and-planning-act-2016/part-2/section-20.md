@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Revocation or variation of banning orders[^key-a128e45c63ca1aeb45d64b5c1fee054c]
+## 20. Revocation or variation of banning orders[^c-a128e45c63ca1aeb45d64b5c1fee054c]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a128e45c63ca1aeb45d64b5c1fee054c]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2016/22/section/20) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)
+[^c-a128e45c63ca1aeb45d64b5c1fee054c]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2016/22/section/20) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)

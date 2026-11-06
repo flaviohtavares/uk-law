@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Fee payable for the disclosure by the registrar of secured information to a specified public authority[^key-58838797c8a6ad8e5c68daf1775c15cc]
+## 46. Fee payable for the disclosure by the registrar of secured information to a specified public authority[^c-58838797c8a6ad8e5c68daf1775c15cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58838797c8a6ad8e5c68daf1775c15cc]: Textual amendment: [Reg. 46](https://www.legislation.gov.uk/uksi/2017/694/regulation/46) omitted (21.3.2024) by virtue of [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 8(6)](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/8/6)
+[^c-58838797c8a6ad8e5c68daf1775c15cc]: Textual amendment: [Reg. 46](https://www.legislation.gov.uk/uksi/2017/694/regulation/46) omitted (21.3.2024) by virtue of [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 8(6)](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/8/6)

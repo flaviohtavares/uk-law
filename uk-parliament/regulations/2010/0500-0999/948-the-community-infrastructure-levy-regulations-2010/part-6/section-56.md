@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Exceptional circumstances: notification requirements[^key-832ba530178e3632839afc9325a2facd]
+## 56. Exceptional circumstances: notification requirements[^c-832ba530178e3632839afc9325a2facd]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 
 - (a) issue a statement giving notice to that effect and stating the last day on which it will accept claims for relief for exceptional circumstances;
 - (b) publish the statement on its website;
-- (c)[^key-772c16d5cf2b371e58d473cd261e69b6] make the document available for inspection—
+- (c)[^c-772c16d5cf2b371e58d473cd261e69b6] make the document available for inspection—
   - (i) at its principal office, and
   - (ii) at the places at which the document mentioned in paragraph (1) was made available for inspection under paragraph (1)(c)(ii), or, if the charging authority considers that any such places are no longer appropriate, such other places within its area as it considers appropriate; and
 - (d) send a copy of the statement to the collecting authority (if it is not the charging authority).
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-832ba530178e3632839afc9325a2facd]: Commencement: Reg. 56 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-832ba530178e3632839afc9325a2facd]: Commencement: Reg. 56 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
-[^key-772c16d5cf2b371e58d473cd261e69b6]: Textual amendment: [Reg. 56(2)(c)](https://www.legislation.gov.uk/uksi/2010/948/regulation/56/2/c) substituted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [7(12)](https://www.legislation.gov.uk/uksi/2014/385/regulation/7/12)
+[^c-772c16d5cf2b371e58d473cd261e69b6]: Textual amendment: [Reg. 56(2)(c)](https://www.legislation.gov.uk/uksi/2010/948/regulation/56/2/c) substituted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [7(12)](https://www.legislation.gov.uk/uksi/2014/385/regulation/7/12)

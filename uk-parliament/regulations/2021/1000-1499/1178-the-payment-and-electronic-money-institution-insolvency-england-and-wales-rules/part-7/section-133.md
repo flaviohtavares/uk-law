@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 133. Debt in a foreign currency[^key-4075ee52e9ecd429c7164735bbc09eb6]
+## 133. Debt in a foreign currency[^c-4075ee52e9ecd429c7164735bbc09eb6]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4075ee52e9ecd429c7164735bbc09eb6]: Commencement: Rule 133 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-4075ee52e9ecd429c7164735bbc09eb6]: Commencement: Rule 133 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

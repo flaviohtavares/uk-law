@@ -78,16 +78,16 @@ the arrangements are to be regarded as DTA tax avoidance arrangements for the pu
 (9) Where—
 
 - (a) a royalty is paid on or after 28 June 2016,
-- (b) the right in respect of which the royalty is paid was created or assigned before that day under arrangements (within the meaning of section 917A of ITA 2007) entered into before that day[^key-7ece5c9683866ac2fe58569d76fbe574],
-- (c)[^key-6a98a5f6ead13934691d35182feab710] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and
+- (b) the right in respect of which the royalty is paid was created or assigned before that day under arrangements (within the meaning of section 917A of ITA 2007) entered into before that day[^c-7ece5c9683866ac2fe58569d76fbe574],
+- (c)[^c-6a98a5f6ead13934691d35182feab710] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and
 - (d) it is reasonable to conclude that the main purpose, or one of the main purposes, of any person connected with the creation or assignment of the right was to take advantage, by means of that creation or assignment, of the law of any territory giving effect to Council Directive [2003/49/EC](https://www.legislation.gov.uk/eudr/2003/49) of 3rd June 2003 on a common system of taxation applicable to interest and royalty payments made between associated companies of different member States,
 
-the arrangements are to be regarded as DTA tax avoidance arrangements for the purposes of section 917A of ITA 2007[^key-99266831e54b25ce0aa116088d804770].
+the arrangements are to be regarded as DTA tax avoidance arrangements for the purposes of section 917A of ITA 2007[^c-99266831e54b25ce0aa116088d804770].
 
 ## Annotations
 
-[^key-7ece5c9683866ac2fe58569d76fbe574]: Textual amendment: Words in s. 42(9)(b) inserted (with effect in accordance with s. 34(8) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 34(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/34/6/a)
+[^c-7ece5c9683866ac2fe58569d76fbe574]: Textual amendment: Words in s. 42(9)(b) inserted (with effect in accordance with s. 34(8) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 34(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/34/6/a)
 
-[^key-6a98a5f6ead13934691d35182feab710]: Textual amendment: S. 42(9)(c) omitted (with effect in accordance with s. 34(8) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 34(6)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/34/6/b)
+[^c-6a98a5f6ead13934691d35182feab710]: Textual amendment: S. 42(9)(c) omitted (with effect in accordance with s. 34(8) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 34(6)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/34/6/b)
 
-[^key-99266831e54b25ce0aa116088d804770]: Textual amendment: Words in s. 42(9) substituted (with effect in accordance with s. 34(8) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 34(6)(c)](https://www.legislation.gov.uk/ukpga/2021/26/section/34/6/c)
+[^c-99266831e54b25ce0aa116088d804770]: Textual amendment: Words in s. 42(9) substituted (with effect in accordance with s. 34(8) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 34(6)(c)](https://www.legislation.gov.uk/ukpga/2021/26/section/34/6/c)

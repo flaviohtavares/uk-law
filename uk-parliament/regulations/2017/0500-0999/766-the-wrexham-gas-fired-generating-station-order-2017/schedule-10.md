@@ -22,7 +22,7 @@ summary: ''
 
 Article 37
 
-**1.**[^key-0964e93b3932d5c7d36180a71c36f0f1] (1) Where an application has been made to the relevant authority for any consent, agreement or approval required by a requirement (including agreement or approval in respect of part of a requirement) included in this Order the relevant authority must give notice to the undertaker of their decision on the application within a period of eight weeks beginning with—
+**1.**[^c-0964e93b3932d5c7d36180a71c36f0f1] (1) Where an application has been made to the relevant authority for any consent, agreement or approval required by a requirement (including agreement or approval in respect of part of a requirement) included in this Order the relevant authority must give notice to the undertaker of their decision on the application within a period of eight weeks beginning with—
 
 - (a) the day immediately following that on which the application is received by the authority;
 - (b) the day immediately following that on which further information has been supplied by the undertaker under paragraph 2; or
@@ -44,7 +44,7 @@ Article 37
 
 (7) Where an application is made to the relevant planning authority for any consent, agreement or approval required by an article or requirement in this Order and the relevant planning authority intends to consult NRW and Dŵr Cymru Cyfyngedig in relation to that application, the undertaker must as soon as reasonably practicable comply with any direction from the relevant planning authority to provide a copy of the materials provided in support of the application to each body specified in the direction.
 
-### 2. Further information[^key-a3d5a5244b0ec3285a9dacfde0bced52]
+### 2. Further information[^c-a3d5a5244b0ec3285a9dacfde0bced52]
 
 (1) In relation to any part of the application to which this Schedule applies, the relevant authority has the right to request such further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -52,7 +52,7 @@ Article 37
 
 (3) Where further information is requested under this paragraph 2 in relation to part only of an application, that part is to be treated as separate from the remainder of the application for the purposes of calculating time periods in paragraph 1(1)(b), paragraph 1(3) and this paragraph 2.
 
-### 3. Appeals[^key-7535d84c3e8b407388af705433dcfe4b]
+### 3. Appeals[^c-7535d84c3e8b407388af705433dcfe4b]
 
 (1) The undertaker may appeal in the event that—
 
@@ -93,14 +93,14 @@ and may deal with the application as if it had been made to him in the first ins
 
 (11) On application by the relevant authority or the undertaker, the appointed person may give directions as to the costs of the appeal parties and as to the parties by whom the costs of the appeal are to be paid. In considering whether to make any such direction and the terms on which it is to be made, the appointed person must have regard to Planning Practice Guidance: Appeals (March 2014) or any circular or guidance which may from time to time replace it.
 
-**4.**[^key-357221df6e953f863813a3981efa329c] In this Schedule “relevant authority” means the relevant planning authority, relevant highway authority, traffic authority, street authority, or the owner of a watercourse, sewer or drain as may be appropriate to the consent, agreement or approval sought.
+**4.**[^c-357221df6e953f863813a3981efa329c] In this Schedule “relevant authority” means the relevant planning authority, relevant highway authority, traffic authority, street authority, or the owner of a watercourse, sewer or drain as may be appropriate to the consent, agreement or approval sought.
 
 ## Annotations
 
-[^key-0964e93b3932d5c7d36180a71c36f0f1]: Commencement: Sch. 10 para. 1 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-0964e93b3932d5c7d36180a71c36f0f1]: Commencement: Sch. 10 para. 1 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
 
-[^key-a3d5a5244b0ec3285a9dacfde0bced52]: Commencement: Sch. 10 para. 2 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-a3d5a5244b0ec3285a9dacfde0bced52]: Commencement: Sch. 10 para. 2 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
 
-[^key-7535d84c3e8b407388af705433dcfe4b]: Commencement: Sch. 10 para. 3 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-7535d84c3e8b407388af705433dcfe4b]: Commencement: Sch. 10 para. 3 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
 
-[^key-357221df6e953f863813a3981efa329c]: Commencement: Sch. 10 para. 4 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-357221df6e953f863813a3981efa329c]: Commencement: Sch. 10 para. 4 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Repeal of spent provisions[^key-9ab0e5360f948003b3e4c7f5cfa508ae]
+## 38. Repeal of spent provisions[^c-9ab0e5360f948003b3e4c7f5cfa508ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ The following provisions of the Companies Consolidation (Consequential Provision
 
 ## Annotations
 
-[^key-9ab0e5360f948003b3e4c7f5cfa508ae]: Commencement: Art. 38 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-9ab0e5360f948003b3e4c7f5cfa508ae]: Commencement: Art. 38 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 643EA. Onward gifts from non-residents or qualifying new residents[^key-b77a5353fef7aa5be1185c315d2f1429][^key-53dd1d32fe87071ab4e6e05e1e106b63]
+## 643EA. Onward gifts from non-residents or qualifying new residents[^c-b77a5353fef7aa5be1185c315d2f1429][^c-53dd1d32fe87071ab4e6e05e1e106b63]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b77a5353fef7aa5be1185c315d2f1429]: Textual amendment: [S. 643EA](https://www.legislation.gov.uk/ukpga/2005/5/section/643EA) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 17](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/17), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1) (with [Sch. 12 para. 71](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/71))
+[^c-b77a5353fef7aa5be1185c315d2f1429]: Textual amendment: [S. 643EA](https://www.legislation.gov.uk/ukpga/2005/5/section/643EA) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 17](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/17), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1) (with [Sch. 12 para. 71](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/71))
 
-[^key-53dd1d32fe87071ab4e6e05e1e106b63]: Textual amendment: Ss. 643A-643N and cross-heading inserted (with effect in accordance with Sch. 10 para. 21 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/11) (with [Sch. 10 para. 22](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/22))
+[^c-53dd1d32fe87071ab4e6e05e1e106b63]: Textual amendment: Ss. 643A-643N and cross-heading inserted (with effect in accordance with Sch. 10 para. 21 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/11) (with [Sch. 10 para. 22](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/22))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Right to appeal against Authority’s demand[^key-82ba2227b2ecdd71096405379a73567d]
+## 54. Right to appeal against Authority’s demand[^c-82ba2227b2ecdd71096405379a73567d]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82ba2227b2ecdd71096405379a73567d]: Commencement: S. 54 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-82ba2227b2ecdd71096405379a73567d]: Commencement: S. 54 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

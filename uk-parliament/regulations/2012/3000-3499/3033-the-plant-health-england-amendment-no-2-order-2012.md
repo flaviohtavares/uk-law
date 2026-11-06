@@ -32,7 +32,7 @@ summary: ''
 
 Plant Health, England
 
-The Plant Health (England) (Amendment) (No.2) Order 2012 (revoked)[^key-c40aa67b89a2c840d44cf155db58a276]
+The Plant Health (England) (Amendment) (No.2) Order 2012 (revoked)[^c-c40aa67b89a2c840d44cf155db58a276]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 7th December 2012
 
-[^key-c40aa67b89a2c840d44cf155db58a276]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c40aa67b89a2c840d44cf155db58a276]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-c40aa67b89a2c840d44cf155db58a276]
+## 1. Title and commencement[^c-c40aa67b89a2c840d44cf155db58a276]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (England) Order 2005[^key-c40aa67b89a2c840d44cf155db58a276]
+## 2. Amendment of the Plant Health (England) Order 2005[^c-c40aa67b89a2c840d44cf155db58a276]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c40aa67b89a2c840d44cf155db58a276]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c40aa67b89a2c840d44cf155db58a276]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c40aa67b89a2c840d44cf155db58a276]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c40aa67b89a2c840d44cf155db58a276]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c40aa67b89a2c840d44cf155db58a276]: Textual amendment: Order revoked (1.7.2015) by [The Plant Health (England) Order 2015 (revoked) 2015 (S.I. 2015/610)](https://www.legislation.gov.uk/uksi/2015/610), [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/610/article/1/b), [Sch. 18](https://www.legislation.gov.uk/uksi/2015/610/schedule/18)
+[^c-c40aa67b89a2c840d44cf155db58a276]: Textual amendment: Order revoked (1.7.2015) by [The Plant Health (England) Order 2015 (revoked) 2015 (S.I. 2015/610)](https://www.legislation.gov.uk/uksi/2015/610), [art. 1(b)](https://www.legislation.gov.uk/uksi/2015/610/article/1/b), [Sch. 18](https://www.legislation.gov.uk/uksi/2015/610/schedule/18)

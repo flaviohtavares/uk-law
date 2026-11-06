@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Amendment of article 3 of the Energy Act 2008 (Consequential Modifications) (Offshore Environmental Protection) Order 2010[^key-99af892c00d5779e391d162f6c206750]
+## 60. Amendment of article 3 of the Energy Act 2008 (Consequential Modifications) (Offshore Environmental Protection) Order 2010[^c-99af892c00d5779e391d162f6c206750]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ For article 3(5) of the Energy Act 2008 (Consequential Modifications) (Offshore 
 
 ## Annotations
 
-[^key-99af892c00d5779e391d162f6c206750]: Commencement: Reg. 60 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-99af892c00d5779e391d162f6c206750]: Commencement: Reg. 60 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
 
 [^f00027]: Footnote: [S.I. 2010/1513](https://www.legislation.gov.uk/uksi/2010/1513). Article 3 of this instrument was amended by [S.I. 2010/912](https://www.legislation.gov.uk/uksi/2010/912) and [SI 2016/1042](https://www.legislation.gov.uk/uksi/2016/1042).

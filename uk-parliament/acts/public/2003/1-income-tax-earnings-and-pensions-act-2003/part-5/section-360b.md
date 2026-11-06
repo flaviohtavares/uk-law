@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 360B. Additional household expenses[^key-628b73d36d5651b7720558bb85de9ecf]
+## 360B. Additional household expenses[^c-628b73d36d5651b7720558bb85de9ecf]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-628b73d36d5651b7720558bb85de9ecf]: Textual amendment: [S. 360B](https://www.legislation.gov.uk/ukpga/2003/1/section/360B) inserted (for the tax year 2026-27 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 21](https://www.legislation.gov.uk/ukpga/2026/11/section/21)
+[^c-628b73d36d5651b7720558bb85de9ecf]: Textual amendment: [S. 360B](https://www.legislation.gov.uk/ukpga/2003/1/section/360B) inserted (for the tax year 2026-27 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 21](https://www.legislation.gov.uk/ukpga/2026/11/section/21)

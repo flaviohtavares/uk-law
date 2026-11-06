@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 426. Charge on occurrence of chargeable event[^key-070a79afdd5048639efb19720520cf9b]
+## 426. Charge on occurrence of chargeable event[^c-070a79afdd5048639efb19720520cf9b]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-62a517af1554b1c231e03358a6a46bc2] If a chargeable event occurs in relation to the employment-related securities, the taxable amount counts as employment income of the employee for the relevant tax year.
+(1)[^c-62a517af1554b1c231e03358a6a46bc2] If a chargeable event occurs in relation to the employment-related securities, the taxable amount counts as employment income of the employee for the relevant tax year.
 
 (2) For this purpose—
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-070a79afdd5048639efb19720520cf9b]: Textual amendment: Pt. 7 Ch. 2 substituted (1.9.2003 with effect in accordance with Sch. 22 para. 3(2)-(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 3(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/3/1); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
+[^c-070a79afdd5048639efb19720520cf9b]: Textual amendment: Pt. 7 Ch. 2 substituted (1.9.2003 with effect in accordance with Sch. 22 para. 3(2)-(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 3(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/3/1); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
 
-[^key-62a517af1554b1c231e03358a6a46bc2]: Textual amendment: S. 426(1)-(3) substituted for s. 426(1)-(4) (1.9.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 85(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/85/2), [Sch. 16 para. 1(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/16/paragraph/1/2); [S.I. 2004/1945](https://www.legislation.gov.uk/uksi/2004/1945), [art. 2](https://www.legislation.gov.uk/uksi/2004/1945/article/2)
+[^c-62a517af1554b1c231e03358a6a46bc2]: Textual amendment: S. 426(1)-(3) substituted for s. 426(1)-(4) (1.9.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 85(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/85/2), [Sch. 16 para. 1(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/16/paragraph/1/2); [S.I. 2004/1945](https://www.legislation.gov.uk/uksi/2004/1945), [art. 2](https://www.legislation.gov.uk/uksi/2004/1945/article/2)

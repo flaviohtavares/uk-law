@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 16 — Repeals[^c11436771][^key-da80c35f01764a5f6aef9c5ae836745e]
+## SCHEDULE 16 — Repeals[^c11436771][^c-da80c35f01764a5f6aef9c5ae836745e]
 
 *Extent: E+W+S+N.I.*
 
@@ -96,4 +96,4 @@ Section 169(3).
 
 [^c11436771]: Commencement: Sch. 16 partly in force; Sch. 16 not in force at Royal Assent, see s. 170(4); Sch. 16 in force for certain purposes at: 14.2.2000 by [S.I. 2000/168](https://www.legislation.gov.uk/uksi/2000/168), [art. 2](https://www.legislation.gov.uk/uksi/2000/168/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/168/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2000/168/article/3)); 1.3.2000 and 3.4.2000 by [S.I. 2000/464](https://www.legislation.gov.uk/uksi/2000/464), [art. 2](https://www.legislation.gov.uk/uksi/2000/464/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/464/schedule); 2.10.2000 by [S.I. 2000/2444](https://www.legislation.gov.uk/uksi/2000/2444), [art. 2](https://www.legislation.gov.uk/uksi/2000/2444/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2444/schedule/1) (subject to [arts. 3](https://www.legislation.gov.uk/uksi/2000/2444/article/3), [4](https://www.legislation.gov.uk/uksi/2000/2444/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/2444/schedule/2)); 1.1.2001 by [S.I. 2000/2698](https://www.legislation.gov.uk/uksi/2000/2698), [art. 2](https://www.legislation.gov.uk/uksi/2000/2698/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/2698/schedule) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2000/2698/article/3)) (as amended by [S.I. 2000/3099](https://www.legislation.gov.uk/uksi/2000/3099), [art. 4](https://www.legislation.gov.uk/uksi/2000/3099/article/4)); 11.12.2000 by [S.I. 2000/3099](https://www.legislation.gov.uk/uksi/2000/3099), [art. 2](https://www.legislation.gov.uk/uksi/2000/3099/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/3099/schedule); 8.12.2002 by [S.I. 2002/2815](https://www.legislation.gov.uk/uksi/2002/2815), [art. 2](https://www.legislation.gov.uk/uksi/2002/2815/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2815/schedule)
 
-[^key-da80c35f01764a5f6aef9c5ae836745e]: Commencement: Sch. 16 in force at 30.6.2003 for specified purposes by [S.I. 2003/1469](https://www.legislation.gov.uk/uksi/2003/1469), [art. 2](https://www.legislation.gov.uk/uksi/2003/1469/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1469/schedule)
+[^c-da80c35f01764a5f6aef9c5ae836745e]: Commencement: Sch. 16 in force at 30.6.2003 for specified purposes by [S.I. 2003/1469](https://www.legislation.gov.uk/uksi/2003/1469), [art. 2](https://www.legislation.gov.uk/uksi/2003/1469/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1469/schedule)

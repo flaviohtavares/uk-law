@@ -50,7 +50,7 @@ The Secretary of State[^f00001] makes these Regulations in exercise of the power
 
 ## Part 1 — General
 
-### 1. Citation, commencement and extent[^key-30f58e8fa85c8a4acb5610a1a2b99e25]
+### 1. Citation, commencement and extent[^c-30f58e8fa85c8a4acb5610a1a2b99e25]
 
 (1) These Regulations may be cited as the Global Human Rights and International Humanitarian Law Sanctions Regulations 2026.
 
@@ -58,7 +58,7 @@ The Secretary of State[^f00001] makes these Regulations in exercise of the power
 
 (3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Interpretation[^key-6c68d539158a11cbdf1ca5718cd538b5]
+### 2. Interpretation[^c-6c68d539158a11cbdf1ca5718cd538b5]
 
 In these Regulations—
 
@@ -70,7 +70,7 @@ In these Regulations—
 - “**Treasury licence**” means a licence under regulation 26(1) (Treasury licences);
 - “**United Kingdom person**” has the same meaning as in section 21 (extra-territorial application) of the Act.
 
-### 3. Application of prohibitions and requirements outside the United Kingdom[^key-6e2dad3d65a047f9d2255da4c98674a0]
+### 3. Application of prohibitions and requirements outside the United Kingdom[^c-6e2dad3d65a047f9d2255da4c98674a0]
 
 (1) A United Kingdom person may contravene a relevant prohibition by conduct wholly or partly outside the United Kingdom.
 
@@ -93,7 +93,7 @@ In these Regulations—
 
 (7) Nothing in this regulation is to be taken to prevent a relevant prohibition or a relevant requirement from applying to conduct (by any person) in the United Kingdom.
 
-### 4. Purposes[^key-10359b80678e8d11eec1ca1e7c3a41dd]
+### 4. Purposes[^c-10359b80678e8d11eec1ca1e7c3a41dd]
 
 (1) The purposes of the regulations contained in this instrument are to deter, and provide accountability for, activities falling within paragraphs (2) to (4).
 
@@ -119,7 +119,7 @@ whether or not the activity is carried out by or on behalf of a State.
 
 ## Part 2 — Designation of persons
 
-### 5. Power to designate persons[^key-b737ae84634820fe043dbb07975c41e6]
+### 5. Power to designate persons[^c-b737ae84634820fe043dbb07975c41e6]
 
 (1) The Secretary of State may designate persons by name for the purposes of any of the following—
 
@@ -140,7 +140,7 @@ whether or not the activity is carried out by or on behalf of a State.
 - (a) persons who are designated by name under paragraph (1) for the purposes of that particular regulation, and
 - (b) where the Secretary of State makes provision under paragraph (2) that persons of a specified description are designated persons for the purposes of that regulation, persons of that description.
 
-### 6. Conditions for designation of persons by name[^key-6e9e25bc65e7d900d7d339ccff5461b0]
+### 6. Conditions for designation of persons by name[^c-6e9e25bc65e7d900d7d339ccff5461b0]
 
 (1) The Secretary of State may choose whether to designate a person under regulation 5(1) (power to designate persons by name) under—
 
@@ -180,7 +180,7 @@ whether or not the activity is carried out by or on behalf of a State.
 
 (12) In this regulation, “**involved person**” has the meaning given in regulation 8 (designation criteria: meaning of “involved person”).
 
-### 7. Conditions for designation of persons by description[^key-994980f4e1c5d681fff6ea10a332a421]
+### 7. Conditions for designation of persons by description[^c-994980f4e1c5d681fff6ea10a332a421]
 
 (1) The Secretary of State may choose whether to designate persons under regulation 5(2) (power to designate persons by description) under—
 
@@ -228,7 +228,7 @@ whether or not the activity is carried out by or on behalf of a State.
 - “**involved person**” has the meaning given in regulation 8 (designation criteria: meaning of “involved person”);
 - “**organisation**” includes any body, association or combination of persons.
 
-### 8. Designation criteria: meaning of “involved person”[^key-3abdb0f064c397f6ae52dc50f7ee4f5a]
+### 8. Designation criteria: meaning of “involved person”[^c-3abdb0f064c397f6ae52dc50f7ee4f5a]
 
 (1) For the purposes of regulations 6(8) (conditions for the designation of persons by name) and 7(9) (conditions for the designation of persons by description), an “**involved person**” means a person who—
 
@@ -254,7 +254,7 @@ whether or not the activity is carried out by or on behalf of a State.
 
 (5) Any reference in this regulation to being involved in an activity includes being so involved wherever any actions constituting the involvement take place.
 
-### 9. Meaning of “owned or controlled directly or indirectly”[^key-78aa42749bd505b0d75595f89607664c]
+### 9. Meaning of “owned or controlled directly or indirectly”[^c-78aa42749bd505b0d75595f89607664c]
 
 (1) A person who is not an individual (“**C**”) is “owned or controlled directly or indirectly” by another person (“**P**”) if either of the following two conditions is met (or both are met).
 
@@ -268,7 +268,7 @@ whether or not the activity is carried out by or on behalf of a State.
 
 (4) The second condition is that it is reasonable, having regard to all the circumstances, to expect that P would (if P chose to) be able, in most cases or in significant respects, by whatever means and whether directly or indirectly, to achieve the result that affairs of C are conducted in accordance with P's wishes.
 
-### 10. Notification and publicity where power to designate by name is used[^key-e9ab468f4bd53a15f661cd1ce8a50a01]
+### 10. Notification and publicity where power to designate by name is used[^c-e9ab468f4bd53a15f661cd1ce8a50a01]
 
 (1) Paragraph (2) applies where the Secretary of State—
 
@@ -340,7 +340,7 @@ whether or not the activity is carried out by or on behalf of a State.
 - “**condition B**” means the condition set out in regulation 6(9);
 - “**condition C**” means the condition set out in regulation 6(10).
 
-### 11. Notification and publicity where power to designate by description is used[^key-43a79cb5378c0e29b5905f7ff24468e5]
+### 11. Notification and publicity where power to designate by description is used[^c-43a79cb5378c0e29b5905f7ff24468e5]
 
 (1) Paragraph (2) applies where the Secretary of State—
 
@@ -410,7 +410,7 @@ whether or not the activity is carried out by or on behalf of a State.
 - “**condition D**” means the condition set out in regulation 7(10);
 - “**condition E**” means the condition set out in regulation 7(11).
 
-### 12. Confidential information in certain cases where designation power used[^key-cb52d9f2a576ec89022ef0a4de5480e3]
+### 12. Confidential information in certain cases where designation power used[^c-cb52d9f2a576ec89022ef0a4de5480e3]
 
 (1) Where the Secretary of State in accordance with regulation 10(7)(b) (notification and publicity where power to designate by name is used) or regulation 11(7)(b) (notification and publicity where power to designate by description is used) informs only certain persons of a designation, variation or revocation and (in the case of a designation) of the contents of the statement of reasons, or the statement to be given under regulation 10(3)(b) or 11(3)(b), the Secretary of State may specify that any of that information is to be treated as confidential.
 
@@ -445,11 +445,11 @@ grant an injunction (in Scotland, an interdict) to prevent a breach of the prohi
 
 ## Part 3 — Finance
 
-### 13. Meaning of “designated person” in Part 3[^key-f8d6a4e3a8b297bed346ad8199a65ab7]
+### 13. Meaning of “designated person” in Part 3[^c-f8d6a4e3a8b297bed346ad8199a65ab7]
 
 In this Part, a “**designated person**” means a person who is designated under regulation 5 (power to designate persons) for the purposes of regulations 14 to 18 (asset-freeze etc).
 
-### 14. Asset-freeze in relation to designated persons[^key-a01ca945eb009ca8a7beeea5096d1a0c]
+### 14. Asset-freeze in relation to designated persons[^c-a01ca945eb009ca8a7beeea5096d1a0c]
 
 (1) A person (“**P**”) must not deal with funds or economic resources owned, held or controlled by a designated person if P knows, or has reasonable cause to suspect, that P is dealing with such funds or economic resources.
 
@@ -477,7 +477,7 @@ In this Part, a “**designated person**” means a person who is designated und
 
 (8) For the avoidance of doubt, the reference in paragraph (1) to a designated person includes P if P is a designated person.
 
-### 15. Making funds available to designated persons[^key-b51261f81773b43a178d5137a327ede3]
+### 15. Making funds available to designated persons[^c-b51261f81773b43a178d5137a327ede3]
 
 (1) A person (“**P**”) must not make funds available directly or indirectly to a designated person if P knows, or has reasonable cause to suspect, that P is making the funds so available.
 
@@ -487,7 +487,7 @@ In this Part, a “**designated person**” means a person who is designated und
 
 (4) The reference in paragraph (1) to making funds available indirectly to a designated person includes, in particular, a reference to making them available to a person who is owned or controlled directly or indirectly (within the meaning of regulation 9 (meaning of “**owned or controlled directly or indirectly**”)) by the designated person.
 
-### 16. Making funds available for benefit of designated persons[^key-75ffaea77b6f00e622ecae7fc2eb7b68]
+### 16. Making funds available for benefit of designated persons[^c-75ffaea77b6f00e622ecae7fc2eb7b68]
 
 (1) A person (“**P**”) must not make funds available to any person for the benefit of a designated person if P knows, or has reasonable cause to suspect, that P is making the funds so available.
 
@@ -502,7 +502,7 @@ In this Part, a “**designated person**” means a person who is designated und
 - (a) funds are made available for the benefit of a designated person only if that person thereby obtains, or is able to obtain, a significant financial benefit, and
 - (b) “**financial benefit**” includes the discharge (or partial discharge) of a financial obligation for which the designated person is wholly or partly responsible.
 
-### 17. Making economic resources available to designated persons[^key-8ee0742aef6848f9f8e6e352ae375d6d]
+### 17. Making economic resources available to designated persons[^c-8ee0742aef6848f9f8e6e352ae375d6d]
 
 (1) A person (“**P**”) must not make economic resources available directly or indirectly to a designated person if P knows, or has reasonable cause to suspect—
 
@@ -515,7 +515,7 @@ In this Part, a “**designated person**” means a person who is designated und
 
 (4) The reference in paragraph (1) to making economic resources available indirectly to a designated person includes, in particular, a reference to making them available to a person who is owned or controlled directly or indirectly (within the meaning of regulation 9 (meaning of “**owned or controlled directly or indirectly**”)) by the designated person.
 
-### 18. Making economic resources available for benefit of designated persons[^key-ef1697a7eb22c4ee2c2f9da0df1b49df]
+### 18. Making economic resources available for benefit of designated persons[^c-ef1697a7eb22c4ee2c2f9da0df1b49df]
 
 (1) A person (“**P**”) must not make economic resources available to any person for the benefit of a designated person if P knows, or has reasonable cause to suspect, that P is making the economic resources so available.
 
@@ -530,7 +530,7 @@ In this Part, a “**designated person**” means a person who is designated und
 - (a) economic resources are made available for the benefit of a designated person only if that person thereby obtains, or is able to obtain, a significant financial benefit, and
 - (b) “**financial benefit**” includes the discharge (or partial discharge) of a financial obligation for which the designated person is wholly or partly responsible.
 
-### 19. Circumventing etc. prohibitions[^key-1c6778437d9c5089ec2ba5995f5c476e]
+### 19. Circumventing etc. prohibitions[^c-1c6778437d9c5089ec2ba5995f5c476e]
 
 (1) A person must not intentionally participate in activities knowing that the object or effect of them is (whether directly or indirectly)—
 
@@ -541,7 +541,7 @@ In this Part, a “**designated person**” means a person who is designated und
 
 ## Part 4 — Director disqualification sanctions
 
-### 20. Director disqualification sanctions[^key-d686a1180f7924b03fa427fb8c823d3a]
+### 20. Director disqualification sanctions[^c-d686a1180f7924b03fa427fb8c823d3a]
 
 A person who is designated under regulation 5 (power to designate persons) for the purposes of this regulation is subject to director disqualification sanctions for the purposes of—
 
@@ -550,13 +550,13 @@ A person who is designated under regulation 5 (power to designate persons) for t
 
 ## Part 5 — Immigration
 
-### 21. Immigration[^key-57ea23320bf83ce29c926baad23bbc9b]
+### 21. Immigration[^c-57ea23320bf83ce29c926baad23bbc9b]
 
 A person who is designated under regulation 5 (power to designate persons) for the purposes of this regulation is an excluded person for the purposes of section 8B (persons excluded from the United Kingdom under certain instruments) of the Immigration Act 1971[^f00005].
 
 ## Part 6 — Exceptions and licences
 
-### 22. Finance: exceptions from prohibitions[^key-4b59013ef7b7b298fd28b102b811f370]
+### 22. Finance: exceptions from prohibitions[^c-4b59013ef7b7b298fd28b102b811f370]
 
 (1) The prohibition in regulation 14 (asset-freeze in relation to designated persons) is not contravened by an independent person (“**P**”) transferring to another person a legal or equitable interest in funds or economic resources where, immediately before the transfer, the interest—
 
@@ -593,7 +593,7 @@ A person who is designated under regulation 5 (power to designate persons) for t
 - (a) references to a designated person are to be read as including a person (“**C**”) who is owned or controlled directly or indirectly by the designated person (“**D**”) in accordance with regulation 9 (meaning of “**owned or controlled directly or indirectly**”), and
 - (b) in respect of C, the reference in paragraph (5) to the “date on which the person became a designated person” is to be read as the date on which D became a designated person.
 
-### 23. Finance: exception from prohibitions for required payments[^key-e5488865aa4d7d178e3f2e7c2bdc02f0]
+### 23. Finance: exception from prohibitions for required payments[^c-e5488865aa4d7d178e3f2e7c2bdc02f0]
 
 (1) This regulation applies to required payments within the meaning of paragraph (2).
 
@@ -671,7 +671,7 @@ A person who is designated under regulation 5 (power to designate persons) for t
 - “**scheme manager**” has the meaning given in section 212 (the scheme manager) of the Financial Services and Markets Act 2000[^f00030];
 - “**sponsor**” has the meaning given in section 88(2) (sponsors) of the Financial Services and Markets Act 2000[^f00031].
 
-### 24. Finance: exception for authorised conduct in a relevant country[^key-ed2ef04f1808e873e4907258ed42c3f3]
+### 24. Finance: exception for authorised conduct in a relevant country[^c-ed2ef04f1808e873e4907258ed42c3f3]
 
 (1) Where a person's conduct in a relevant country would, in the absence of this regulation, contravene a prohibition in any of regulations 14 to 18 (asset-freeze etc.) (“the relevant prohibition”), the relevant prohibition is not contravened if the conduct is authorised by a licence or other authorisation which is—
 
@@ -684,7 +684,7 @@ A person who is designated under regulation 5 (power to designate persons) for t
 - (b) the Isle of Man;
 - (c) any British overseas territory.
 
-### 25. Exception for acts done for purposes of national security or prevention of serious crime[^key-570ceb7ec91ea9df91b9fd5c25804abb]
+### 25. Exception for acts done for purposes of national security or prevention of serious crime[^c-570ceb7ec91ea9df91b9fd5c25804abb]
 
 (1) Where an act would, in the absence of this paragraph, be prohibited by regulation 12(2) (confidentiality) or any prohibition in Part 3 (Finance), that prohibition does not apply to the act if the act is one which a responsible officer has determined would be in the interests of—
 
@@ -698,13 +698,13 @@ A person who is designated under regulation 5 (power to designate persons) for t
 
 (3) In this regulation, “**responsible officer**” means a person in the service of the Crown or holding office under the Crown, acting in the course of that person's duty.
 
-### 26. Treasury licences[^key-9f9ad6391e8a9b184e84c5e0b44fb984]
+### 26. Treasury licences[^c-9f9ad6391e8a9b184e84c5e0b44fb984]
 
 (1) The prohibitions in regulations 14 to 18 (asset-freeze etc.) do not apply to anything done under the authority of a licence issued by the Treasury under this paragraph.
 
 (2) The Treasury may issue a licence which authorises acts by a particular person only where the Treasury consider that it is appropriate to issue the licence for a purpose set out in Schedule 2 (Treasury licences: purposes).
 
-### 27. Director disqualification licences[^key-68a51210105989e896a4480affd34ec0]
+### 27. Director disqualification licences[^c-68a51210105989e896a4480affd34ec0]
 
 The Secretary of State may issue a licence in relation to any person who is designated under regulation 5 (power to designate persons) for the purposes of regulation 20 (director disqualification sanctions) providing that the prohibitions in—
 
@@ -713,7 +713,7 @@ The Secretary of State may issue a licence in relation to any person who is desi
 
 do not apply to anything done under the authority of that licence.
 
-### 28. Licences: general provisions[^key-a9d07f1aaf6af121c3d68d37299d1162]
+### 28. Licences: general provisions[^c-a9d07f1aaf6af121c3d68d37299d1162]
 
 (1) This regulation applies in relation to Treasury licences and director disqualification licences.
 
@@ -732,7 +732,7 @@ do not apply to anything done under the authority of that licence.
 
 (7) A person who issues, varies, revokes or suspends a general licence or a licence which authorises acts by persons of a particular description must take such steps as that person considers appropriate to publicise the issue, variation, revocation or suspension of the licence.
 
-### 29. Notices[^key-d2d11c4ee5eeef6748c9b85fbde9bc54]
+### 29. Notices[^c-d2d11c4ee5eeef6748c9b85fbde9bc54]
 
 (1) This regulation applies in relation to a notice required by regulation 28(6) (licences: general provisions) to be given to a person.
 
@@ -763,7 +763,7 @@ do not apply to anything done under the authority of that licence.
   - (b) in relation to a partnership, means a partner or a person who has the control or management of the partnership business;
 - “**registered company**” means a company registered under the enactments relating to companies for the time being in force in the United Kingdom.
 
-### 30. Finance: licensing offences[^key-83e917eaff4ae7e9b8d333addf4f4018]
+### 30. Finance: licensing offences[^c-83e917eaff4ae7e9b8d333addf4f4018]
 
 (1) A person (“**P**”) commits an offence if P knowingly or recklessly—
 
@@ -774,7 +774,7 @@ for the purpose of obtaining a Treasury licence (whether for P or anyone else).
 
 (2) A person who purports to act under the authority of a Treasury licence but who fails to comply with any condition of the licence commits an offence.
 
-### 31. Director disqualification: licensing offences[^key-22fe8a3772f3d325610509d5815e19e7]
+### 31. Director disqualification: licensing offences[^c-22fe8a3772f3d325610509d5815e19e7]
 
 (1) A person (“**P**”) commits an offence if P knowingly or recklessly—
 
@@ -787,7 +787,7 @@ for the purpose of obtaining a director disqualification licence (whether for P 
 
 (3) A licence in respect of which an offence under paragraph (1) has been committed is to be treated as void from the time at which it was issued.
 
-### 32. Section 8B(1) to (3) of the Immigration Act 1971: directions[^key-0a69464e53423d5d4c5088a2b741bd07]
+### 32. Section 8B(1) to (3) of the Immigration Act 1971: directions[^c-0a69464e53423d5d4c5088a2b741bd07]
 
 (1) The Secretary of State may direct that, in relation to any person within regulation 21 (immigration) whose name is specified, or who is of a specified description, section 8B(1) and (2) (persons excluded from the United Kingdom under certain instruments) of the Immigration Act 1971, or section 8B(3) of that Act, have effect subject to specified exceptions.
 
@@ -804,7 +804,7 @@ for the purpose of obtaining a director disqualification licence (whether for P 
 
 ## Part 7 — Information and records
 
-### 33. Finance: reporting obligations[^key-b347b7f33f2e1d993d31baef908495c1]
+### 33. Finance: reporting obligations[^c-b347b7f33f2e1d993d31baef908495c1]
 
 (1) A relevant firm must inform the Treasury as soon as practicable if—
 
@@ -847,7 +847,7 @@ for the purpose of obtaining a director disqualification licence (whether for P 
 - “**relevant firm**” is to be read in accordance with regulation 35 (“relevant firm”);
 - “**relevant institution**” has the same meaning as it has in regulation 22.
 
-### 34. Finance: reporting obligations for required payments[^key-d0da6765c663d4b0b57862a6579c597f]
+### 34. Finance: reporting obligations for required payments[^c-d0da6765c663d4b0b57862a6579c597f]
 
 (1) A designated person must inform the Treasury without delay if they make a required payment.
 
@@ -863,7 +863,7 @@ for the purpose of obtaining a director disqualification licence (whether for P 
 - “**reimbursement payment**” has the meaning given in regulation 23(8) (finance: exception from prohibitions for required payments);
 - “**required payment**” has the meaning given in regulation 23(2).
 
-### 35. “Relevant firm”[^key-6d4f709d884030657de8edea8f57e7eb]
+### 35. “Relevant firm”[^c-6d4f709d884030657de8edea8f57e7eb]
 
 (1) The following are relevant firms for the purposes of regulation 33 (finance: reporting obligations for required payments)—
 
@@ -975,7 +975,7 @@ for the purpose of obtaining a director disqualification licence (whether for P 
   - (ii) in the course of storing works of art where the value of the works of art so stored for a person amounts to £10,000 or more;
 - (f) in the case of a relevant firm within any other provision of paragraph (1), in the course of carrying on an activity mentioned in that provision.
 
-### 36. Finance: powers to request information[^key-f12cf4462ece866fd01f7866d5aaa8c0]
+### 36. Finance: powers to request information[^c-f12cf4462ece866fd01f7866d5aaa8c0]
 
 (1) The Treasury may request a designated person to provide information about—
 
@@ -1022,7 +1022,7 @@ for the purpose of obtaining a director disqualification licence (whether for P 
 
 (13) Expressions used in this regulation have the same meaning as they have in Part 3.
 
-### 37. Finance: production of documents[^key-424f789b284e40720c96827625da8458]
+### 37. Finance: production of documents[^c-424f789b284e40720c96827625da8458]
 
 (1) A request under regulation 36 (finance: powers to request information) may include a request to produce specified documents or documents of a specified description.
 
@@ -1043,7 +1043,7 @@ for the purpose of obtaining a director disqualification licence (whether for P 
 
 (4) In this regulation, “**designated person**” has the same meaning as it has in Part 3 (Finance).
 
-### 38. Finance: information offences[^key-b7fd2eb0bbab15517be2ffc3aa759d1b]
+### 38. Finance: information offences[^c-b7fd2eb0bbab15517be2ffc3aa759d1b]
 
 (1) A person commits an offence, if that person—
 
@@ -1054,7 +1054,7 @@ for the purpose of obtaining a director disqualification licence (whether for P 
 
 (2) Where a person is convicted of an offence under this regulation, the court may make an order requiring that person, within such period as may be specified in the order, to comply with the request.
 
-### 39. Disclosure of information[^key-622c07879ee46822134fe92ace721a8f]
+### 39. Disclosure of information[^c-622c07879ee46822134fe92ace721a8f]
 
 (1) The Secretary of State or the Treasury may, in accordance with this regulation, disclose—
 
@@ -1099,7 +1099,7 @@ for the purpose of obtaining a director disqualification licence (whether for P 
 
 (6) In paragraph (1)(b), the reference to information includes information obtained at a time when any provision of these Regulations is not in force.
 
-### 40. Finance: disclosure to the Treasury[^key-3bd68dd92408a9f61bddaa5a1deaad8d]
+### 40. Finance: disclosure to the Treasury[^c-3bd68dd92408a9f61bddaa5a1deaad8d]
 
 (1) A relevant public authority may disclose information to the Treasury if the disclosure is made for the purpose of enabling or assisting the Treasury to discharge any of its functions in connection with any sanctions regulations[^f00043] contained in these Regulations.
 
@@ -1125,7 +1125,7 @@ for the purpose of obtaining a director disqualification licence (whether for P 
   - (c) in relation to Scotland, a council constituted under [section 2](https://www.legislation.gov.uk/ukpga/1994/39/section/2) (constitution of councils) of the [Local Government etc. (Scotland) Act 1994](https://www.legislation.gov.uk/ukpga/1994/39/contents)[^f00045];
   - (d) in relation to Northern Ireland, a district council.
 
-### 41. Part 7: supplementary[^key-5f0f2e1fe6f3c97d8c635728ecfc214e]
+### 41. Part 7: supplementary[^c-5f0f2e1fe6f3c97d8c635728ecfc214e]
 
 (1) A disclosure of information under regulation 39 (disclosure of information) or 40 (finance: disclosure to the Treasury) does not breach any restriction on such disclosure imposed by statute or otherwise.
 
@@ -1147,7 +1147,7 @@ for the purpose of obtaining a director disqualification licence (whether for P 
 
 ## Part 8 — Enforcement
 
-### 42. Penalties for offences[^key-0a4ae60c02f01d720708527b5de06277]
+### 42. Penalties for offences[^c-0a4ae60c02f01d720708527b5de06277]
 
 (1) A person who commits an offence under any provision of Part 3 (Finance) or regulation 30 (finance: licensing offences) is liable—
 
@@ -1169,7 +1169,7 @@ for the purpose of obtaining a director disqualification licence (whether for P 
 - (b) on summary conviction in Scotland, to imprisonment for a term not exceeding 6 months or a fine not exceeding level 5 on the standard scale (or both);
 - (c) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding 6 months or a fine not exceeding level 5 on the standard scale (or both).
 
-### 43. Liability of officers of bodies corporate etc.[^key-02042055cf0fce52701f4a426c55b95d]
+### 43. Liability of officers of bodies corporate etc.[^c-02042055cf0fce52701f4a426c55b95d]
 
 (1) Where an offence under these Regulations, committed by a body corporate—
 
@@ -1187,7 +1187,7 @@ that person as well as the body corporate is guilty of the offence and is liable
   - (i) where the body’s affairs are managed by its members, to a member of the body;
   - (ii) in any other case, to a member of the governing body.
 
-### 44. Jurisdiction to try offences[^key-2e322281fa72ee00e0e948cf4aa482c1]
+### 44. Jurisdiction to try offences[^c-2e322281fa72ee00e0e948cf4aa482c1]
 
 (1) Wherever an offence under these Regulations is committed (whether in the United Kingdom or outside the United Kingdom)—
 
@@ -1201,7 +1201,7 @@ that person as well as the body corporate is guilty of the offence and is liable
 
 (3) In paragraph (2), “**sheriff court district**” is to be read in accordance with the Criminal Procedure (Scotland) Act 1995 (see section 307(1) (interpretation) of that Act)[^f00048].
 
-### 45. Procedure for offences by unincorporated bodies[^key-4b3383442f56ba912a015e3ca21c6d46]
+### 45. Procedure for offences by unincorporated bodies[^c-4b3383442f56ba912a015e3ca21c6d46]
 
 (1) Paragraphs (2) and (3) apply if it is alleged that an offence under these Regulations has been committed by an unincorporated body (as opposed to by a member of the body).
 
@@ -1216,7 +1216,7 @@ that person as well as the body corporate is guilty of the offence and is liable
 
 (4) A fine imposed on an unincorporated body on its conviction of an offence under these Regulations is to be paid out of the funds of the body.
 
-### 46. Time limit for proceedings for summary offences[^key-452f94cdfbd4d32ed71487ce74ef9e7d]
+### 46. Time limit for proceedings for summary offences[^c-452f94cdfbd4d32ed71487ce74ef9e7d]
 
 (1) Proceedings for an offence under these Regulations which is triable only summarily may be brought within the period of 12 months beginning with the date on which evidence sufficient in the opinion of the prosecutor to justify the proceedings comes to the prosecutor's knowledge.
 
@@ -1229,17 +1229,17 @@ that person as well as the body corporate is guilty of the offence and is liable
 - (a) [section 136](https://www.legislation.gov.uk/ukpga/1995/46/section/136) [(3)](https://www.legislation.gov.uk/ukpga/1995/46/section/136) (date of commencement of summary proceedings) of the [Criminal Procedure (Scotland) Act 1995](https://www.legislation.gov.uk/ukpga/1995/46/contents)[^f00053] applies for the purposes of this regulation as it applies for the purposes of [that section](https://www.legislation.gov.uk/ukpga/1995/46/section/136), and
 - (b) references in this regulation to the prosecutor are to be treated as references to the Lord Advocate.
 
-### 47. Application of Chapter 1 of Part 2 of the Serious Organised Crime and Police Act 2005[^key-a3e65e3cbc483921d382fd573811fcd9]
+### 47. Application of Chapter 1 of Part 2 of the Serious Organised Crime and Police Act 2005[^c-a3e65e3cbc483921d382fd573811fcd9]
 
 Chapter 1 of Part 2 (Investigatory powers) of the Serious Organised Crime and Police Act 2005[^f00054] applies to any offence under Part 3 (Finance) or regulation 30 (finance: licensing offences).
 
 ## Part 9 — Revocation and transitional provision
 
-### 48. Revocation of the Global Human Rights Sanctions Regulations[^key-8d34a97efebc34d780824216e1f26b91]
+### 48. Revocation of the Global Human Rights Sanctions Regulations[^c-8d34a97efebc34d780824216e1f26b91]
 
 The Global Human Rights Sanctions Regulations 2020[^f00055] are revoked.
 
-### 49. Transitional provision: designations[^key-5e9672d88913d11f185245256de722b1]
+### 49. Transitional provision: designations[^c-5e9672d88913d11f185245256de722b1]
 
 (1) This regulation applies to a person (“**P**”) who, immediately before the relevant date, was designated by the Secretary of State under regulation 5 (power to designate persons) of the 2020 Regulations for the purposes of—
 
@@ -1261,7 +1261,7 @@ The Global Human Rights Sanctions Regulations 2020[^f00055] are revoked.
 - (b) regulation 22(5) (finance: exceptions from prohibitions), and
 - (c) paragraph 8(a) of Schedule 2 (Treasury licences: purposes).
 
-### 50. Transitional provision: Treasury licences[^key-32406af764b99f43ad6d8ba948000469]
+### 50. Transitional provision: Treasury licences[^c-32406af764b99f43ad6d8ba948000469]
 
 (1) Paragraphs (2) to (4) apply to a licence which—
 
@@ -1285,7 +1285,7 @@ and such a licence is referred to in this regulation as an “**existing Treasur
 
 (6) The application is to be treated on and after the relevant date as an application for a licence, or for the variation of a licence (as the case may be), under regulation 26(1).
 
-### 51. Transitional provision: director disqualification licences[^key-dcc7aec23d331c2a41414f1f9cc683a6]
+### 51. Transitional provision: director disqualification licences[^c-dcc7aec23d331c2a41414f1f9cc683a6]
 
 (1) Paragraphs (2) to (4) apply to a licence granted by the Secretary of State which—
 
@@ -1309,7 +1309,7 @@ and such a licence is referred to in this regulation as an “**existing directo
 
 (6) The application is to be treated on and after the relevant date as an application for a licence, or for the variation of a licence (as the case may be), under regulation 27.
 
-### 52. Interpretation of Part 9[^key-22871e340fd5b9e24ade2495191ef7bc]
+### 52. Interpretation of Part 9[^c-22871e340fd5b9e24ade2495191ef7bc]
 
 In this Part—
 
@@ -1330,17 +1330,17 @@ SCHEDULES
 
 Regulation 9(3)
 
-### 1. Application of Schedule[^key-78647ffa1c074fad504d9fd6866805a7]
+### 1. Application of Schedule[^c-78647ffa1c074fad504d9fd6866805a7]
 
 (1) The rules set out in the following paragraphs of this Schedule apply for the purpose of interpreting regulation 9(2) (meaning of “**owned or controlled directly or indirectly**”).
 
 (2) They also apply for the purpose of interpreting this Schedule.
 
-### 2. Joint interests[^key-fbf7aafe0bfe1c87b4867aa7eaf6adbf]
+### 2. Joint interests[^c-fbf7aafe0bfe1c87b4867aa7eaf6adbf]
 
 If two or more persons each hold a share or right jointly, each of them is treated as holding that share or right.
 
-### 3. Joint arrangements[^key-c94cc81884385d8c870355383b42ddbc]
+### 3. Joint arrangements[^c-c94cc81884385d8c870355383b42ddbc]
 
 (1) If shares or rights held by a person and shares or rights held by another person are the subject of a joint arrangement between those persons, each of them is treated as holding the combined shares or rights of both of them.
 
@@ -1348,7 +1348,7 @@ If two or more persons each hold a share or right jointly, each of them is treat
 
 (3) “**Arrangement**” has the meaning given by paragraph 12 of this Schedule.
 
-### 4. Calculating shareholdings[^key-544e059e5cc0bc531d5cf95f635bf3a4]
+### 4. Calculating shareholdings[^c-544e059e5cc0bc531d5cf95f635bf3a4]
 
 (1) In relation to a person who has a share capital, a reference to holding “more than 50% of the shares” in that person is to holding shares comprised in the issued share capital of that person of a nominal value exceeding (in aggregate) 50% of that share capital.
 
@@ -1357,7 +1357,7 @@ If two or more persons each hold a share or right jointly, each of them is treat
 - (a) a reference to holding shares in that person is to holding a right or rights to share in the capital or, as the case may be, profits of that person;
 - (b) a reference to holding “more than 50% of the shares” in that person is to holding a right or rights to share in more than 50% of the capital or, as the case may be, profits of that person.
 
-### 5. Voting rights[^key-50f3b4305211a787fba646d8d5ef23a5]
+### 5. Voting rights[^c-50f3b4305211a787fba646d8d5ef23a5]
 
 (1) A reference to the voting rights in a person is to the rights conferred on shareholders in respect of their shares (or, in the case of a person not having a share capital, on members) to vote at general meetings of the person on all or substantially all matters.
 
@@ -1366,15 +1366,15 @@ If two or more persons each hold a share or right jointly, each of them is treat
 - (a) a reference to holding voting rights in the person is to be read as a reference to holding rights in relation to the person that are equivalent to those of a person entitled to exercise voting rights in a company;
 - (b) a reference to holding “more than 50% of the voting rights” in the person is to be read as a reference to holding the right under the constitution of the person to block changes to the overall policy of the person or to the terms of its constitution.
 
-**6.**[^key-6a837e06f4fcca0403a5ae40a658b7c0] In applying regulation 9(2) (meaning of “**owned or controlled directly or indirectly**”) and this Schedule, the voting rights in a person are to be reduced by any rights held by the person itself.
+**6.**[^c-6a837e06f4fcca0403a5ae40a658b7c0] In applying regulation 9(2) (meaning of “**owned or controlled directly or indirectly**”) and this Schedule, the voting rights in a person are to be reduced by any rights held by the person itself.
 
-### 7. Rights to appoint or remove members of the board[^key-657236c9318924de4a8b7ab80b50f55c]
+### 7. Rights to appoint or remove members of the board[^c-657236c9318924de4a8b7ab80b50f55c]
 
 A reference to the right to appoint or remove a majority of the board of directors of a person is to the right to appoint or remove directors holding a majority of the voting rights at meetings of the board on all or substantially all matters.
 
-**8.**[^key-81805ba92416764604ffe2a52445e140] A reference to a board of directors, in the case of a person who does not have such a board, is to be read as a reference to the equivalent management body of that person.
+**8.**[^c-81805ba92416764604ffe2a52445e140] A reference to a board of directors, in the case of a person who does not have such a board, is to be read as a reference to the equivalent management body of that person.
 
-### 9. Shares or rights held “indirectly”[^key-1f7f3136cd675f3748ca36d100a238b4]
+### 9. Shares or rights held “indirectly”[^c-1f7f3136cd675f3748ca36d100a238b4]
 
 (1) A person holds a share “indirectly” if the person has a majority stake in another person and that other person—
 
@@ -1402,11 +1402,11 @@ A reference to the right to appoint or remove a majority of the board of directo
 - (a) any person's appointment as director follows necessarily from that person's appointment as director of A, or
 - (b) the directorship is held by A itself.
 
-### 10. Shares held by nominees[^key-330215d80f45fddaf4af197269f8fde4]
+### 10. Shares held by nominees[^c-330215d80f45fddaf4af197269f8fde4]
 
 A share held by a person as nominee for another is to be treated as held by the other (and not by the nominee).
 
-### 11. Rights treated as held by person who controls their exercise[^key-2c6c5d45934a490547ede5f79fb58e94]
+### 11. Rights treated as held by person who controls their exercise[^c-2c6c5d45934a490547ede5f79fb58e94]
 
 (1) Where a person controls a right, the right is to be treated as held by that person (and not by the person who in fact holds the right, unless that person also controls it).
 
@@ -1416,12 +1416,12 @@ A share held by a person as nominee for another is to be treated as held by the 
 - (b) in accordance with that person's directions or instructions, or
 - (c) with that person's consent or concurrence.
 
-**12.**[^key-0253333edfcc67cd7d7b73358ca94f75] “**Arrangement**” includes—
+**12.**[^c-0253333edfcc67cd7d7b73358ca94f75] “**Arrangement**” includes—
 
 - (a) any scheme, agreement or understanding, whether or not it is legally enforceable, and
 - (b) any convention, custom or practice of any kind.
 
-### 13. Rights exercisable only in certain circumstances etc.[^key-ea8880f78e637fee8a3fb57be42fdceb]
+### 13. Rights exercisable only in certain circumstances etc.[^c-ea8880f78e637fee8a3fb57be42fdceb]
 
 (1) Rights that are exercisable only in certain circumstances are to be taken into account only—
 
@@ -1438,7 +1438,7 @@ A share held by a person as nominee for another is to be treated as held by the 
 
 (4) Rights that are normally exercisable but are temporarily incapable of exercise are to continue to be taken into account.
 
-### 14. Rights attached to shares held by way of security[^key-1a55937ac4c4b92d31853dea14edb3ad]
+### 14. Rights attached to shares held by way of security[^c-1a55937ac4c4b92d31853dea14edb3ad]
 
 Rights attached to shares held by way of security provided by a person are to be treated for the purposes of this Schedule as held by that person—
 
@@ -1449,7 +1449,7 @@ Rights attached to shares held by way of security provided by a person are to be
 
 Regulation 26(2)
 
-### 1. Interpretation[^key-db30f20b6c059a1a1099a9d6a70d649a]
+### 1. Interpretation[^c-db30f20b6c059a1a1099a9d6a70d649a]
 
 (1) In this Schedule—
 
@@ -1461,7 +1461,7 @@ Regulation 26(2)
 
 (3) When determining for the purposes of paragraph 8 when a person became a designated person, C is to be treated as having become a designated person at the same time as P.
 
-### 2. Basic needs[^key-f37ac2bf074b2b2b021f423a9ce78eee]
+### 2. Basic needs[^c-f37ac2bf074b2b2b021f423a9ce78eee]
 
 (1) To enable the basic needs of a designated person, or (in the case of an individual) any dependent family member of such a person, to be met.
 
@@ -1494,14 +1494,14 @@ Regulation 26(2)
   - (d) any child or other descendant of the designated person;
   - (e) any person who is a brother or sister of the designated person, or a child or other descendant of such a person.
 
-### 3. Legal services[^key-320904252a4d3e875de2d02200121d93]
+### 3. Legal services[^c-320904252a4d3e875de2d02200121d93]
 
 To enable the payment of—
 
 - (a) reasonable professional fees for the provision of legal services, or
 - (b) reasonable expenses associated with the provision of legal services.
 
-### 4. Maintenance of frozen funds and economic resources[^key-ef1f9947155d7a0d6e74f0dc17d1a424]
+### 4. Maintenance of frozen funds and economic resources[^c-ef1f9947155d7a0d6e74f0dc17d1a424]
 
 To enable the payment of—
 
@@ -1510,29 +1510,29 @@ To enable the payment of—
 
 arising from the routine holding or maintenance of frozen funds or economic resources.
 
-### 5. Extraordinary expenses[^key-e9ce72a42cfd59440b76a028f95feb66]
+### 5. Extraordinary expenses[^c-e9ce72a42cfd59440b76a028f95feb66]
 
 To enable an extraordinary expense of a designated person to be met.
 
-### 6. Judicial decisions etc.[^key-f350f2d41afe689f02f92c75bf10e368]
+### 6. Judicial decisions etc.[^c-f350f2d41afe689f02f92c75bf10e368]
 
 To enable the implementation or satisfaction (in whole or in part) of a judicial, administrative or arbitral decision or lien which is enforceable in the United Kingdom (the “judicial decision”), provided that—
 
 - (a) where funds or economic resources are made available to a designated person, they are credited to a frozen account or otherwise frozen by virtue of regulation 14 (asset-freeze in relation to designated persons);
 - (b) where funds or economic resources are made available by a person (including a designated person) to a designated person to enable the implementation or satisfaction of a judicial decision, no other designated person benefits, directly or indirectly.
 
-### 7. Extraordinary situation[^key-6061edade2757d82f346062ba0bd4e2d]
+### 7. Extraordinary situation[^c-6061edade2757d82f346062ba0bd4e2d]
 
 To enable anything to be done to deal with an extraordinary situation.
 
-### 8. Prior obligations[^key-aa9b5fa7b77637075009e5c3cf2a42cf]
+### 8. Prior obligations[^c-aa9b5fa7b77637075009e5c3cf2a42cf]
 
 To enable the satisfaction of an obligation of a designated person (whether arising under a contract, other agreement or otherwise), provided that—
 
 - (a) the obligation arose before the date on which the person became a designated person, and
 - (b) no payments are made to another designated person, whether directly or indirectly.
 
-### 9. Diplomatic missions etc.[^key-964f6e70c36c7d7cd6c3edfa094501fd]
+### 9. Diplomatic missions etc.[^c-964f6e70c36c7d7cd6c3edfa094501fd]
 
 (1) To enable anything to be done in order that the functions of a diplomatic mission or consular post, or of an international organisation enjoying immunities in accordance with international law, may be carried out.
 
@@ -1541,13 +1541,13 @@ To enable the satisfaction of an obligation of a designated person (whether aris
 - “**consular post**” has the same meaning as in the Vienna Convention on Consular Relations done at Vienna on 24 April 1963[^f00056], and any reference to the functions of a consular post is to be read in accordance with that Convention;
 - “**diplomatic mission**” and any reference to the functions of a diplomatic mission are to be read in accordance with the Vienna Convention on Diplomatic Relations done at Vienna on 18 April 1961[^f00057].
 
-### 10. Humanitarian assistance activity[^key-f3a91278235094b2e9651b01afaa5cab]
+### 10. Humanitarian assistance activity[^c-f3a91278235094b2e9651b01afaa5cab]
 
 (1) To enable anything to be done in connection with the performance of any humanitarian assistance activity.
 
 (2) In sub-paragraph (1), “**humanitarian assistance activity**” includes the work of international and non-governmental organisations carrying out relief activities for the benefit of the civilian population of a country.
 
-### 11. Insolvency[^key-0d327fb90afbe2ed2f6fb95e228fca6c]
+### 11. Insolvency[^c-0d327fb90afbe2ed2f6fb95e228fca6c]
 
 (1) To enable anything to be done in connection with—
 
@@ -1608,55 +1608,55 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: [2018 c. 13](https://www.legislation.gov.uk/ukpga/2018/13). Section 17(5)(b)(i) (enforcement) is amended by the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), Schedule 24, paragraph 443(1). Sections 1, 11 and 16 are amended by the Economic Crime (Transparency and Enforcement) Act [2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), sections 57, 58, 59 and 65. Section 3A and 15(3A) and (3B) were inserted by the Economic Crime and Corporate Transparency Act [2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), section 35(3) and is in force only for the limited purpose of conferring power to make regulations.
 
-[^key-30f58e8fa85c8a4acb5610a1a2b99e25]: Commencement: Reg. 1 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-30f58e8fa85c8a4acb5610a1a2b99e25]: Commencement: Reg. 1 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-6c68d539158a11cbdf1ca5718cd538b5]: Commencement: Reg. 2 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-6c68d539158a11cbdf1ca5718cd538b5]: Commencement: Reg. 2 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-6e2dad3d65a047f9d2255da4c98674a0]: Commencement: Reg. 3 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-6e2dad3d65a047f9d2255da4c98674a0]: Commencement: Reg. 3 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-10359b80678e8d11eec1ca1e7c3a41dd]: Commencement: Reg. 4 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-10359b80678e8d11eec1ca1e7c3a41dd]: Commencement: Reg. 4 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-b737ae84634820fe043dbb07975c41e6]: Commencement: Reg. 5 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-b737ae84634820fe043dbb07975c41e6]: Commencement: Reg. 5 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-6e9e25bc65e7d900d7d339ccff5461b0]: Commencement: Reg. 6 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-6e9e25bc65e7d900d7d339ccff5461b0]: Commencement: Reg. 6 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-994980f4e1c5d681fff6ea10a332a421]: Commencement: Reg. 7 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-994980f4e1c5d681fff6ea10a332a421]: Commencement: Reg. 7 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-3abdb0f064c397f6ae52dc50f7ee4f5a]: Commencement: Reg. 8 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-3abdb0f064c397f6ae52dc50f7ee4f5a]: Commencement: Reg. 8 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-78aa42749bd505b0d75595f89607664c]: Commencement: Reg. 9 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-78aa42749bd505b0d75595f89607664c]: Commencement: Reg. 9 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-e9ab468f4bd53a15f661cd1ce8a50a01]: Commencement: Reg. 10 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-e9ab468f4bd53a15f661cd1ce8a50a01]: Commencement: Reg. 10 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-43a79cb5378c0e29b5905f7ff24468e5]: Commencement: Reg. 11 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-43a79cb5378c0e29b5905f7ff24468e5]: Commencement: Reg. 11 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-cb52d9f2a576ec89022ef0a4de5480e3]: Commencement: Reg. 12 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-cb52d9f2a576ec89022ef0a4de5480e3]: Commencement: Reg. 12 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-f8d6a4e3a8b297bed346ad8199a65ab7]: Commencement: Reg. 13 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-f8d6a4e3a8b297bed346ad8199a65ab7]: Commencement: Reg. 13 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-a01ca945eb009ca8a7beeea5096d1a0c]: Commencement: Reg. 14 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-a01ca945eb009ca8a7beeea5096d1a0c]: Commencement: Reg. 14 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-b51261f81773b43a178d5137a327ede3]: Commencement: Reg. 15 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-b51261f81773b43a178d5137a327ede3]: Commencement: Reg. 15 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-75ffaea77b6f00e622ecae7fc2eb7b68]: Commencement: Reg. 16 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-75ffaea77b6f00e622ecae7fc2eb7b68]: Commencement: Reg. 16 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-8ee0742aef6848f9f8e6e352ae375d6d]: Commencement: Reg. 17 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-8ee0742aef6848f9f8e6e352ae375d6d]: Commencement: Reg. 17 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-ef1697a7eb22c4ee2c2f9da0df1b49df]: Commencement: Reg. 18 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-ef1697a7eb22c4ee2c2f9da0df1b49df]: Commencement: Reg. 18 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-1c6778437d9c5089ec2ba5995f5c476e]: Commencement: Reg. 19 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-1c6778437d9c5089ec2ba5995f5c476e]: Commencement: Reg. 19 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-d686a1180f7924b03fa427fb8c823d3a]: Commencement: Reg. 20 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-d686a1180f7924b03fa427fb8c823d3a]: Commencement: Reg. 20 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
 [^f00003]: Footnote: [1986 c. 46](https://www.legislation.gov.uk/ukpga/1986/46). Section 11A was inserted the Economic Crime and Corporate Transparency Act 2023, section 36.
 
 [^f00004]: Footnote: [S.I. 2002/3150 (N.I. 4)](https://www.legislation.gov.uk/nisi/2002/3150). Article 15A was inserted by the Economic Crime and Corporate Transparency Act 2023, section 38.
 
-[^key-57ea23320bf83ce29c926baad23bbc9b]: Commencement: Reg. 21 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-57ea23320bf83ce29c926baad23bbc9b]: Commencement: Reg. 21 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
 [^f00005]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77). Section 8B was inserted by the Immigration and Asylum Act [1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33), section 8, and amended by the Immigration Act [2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), section 76, and by the Sanctions and Anti-Money Laundering Act 2018, section 59 and Part 1 of Schedule 3.
 
-[^key-4b59013ef7b7b298fd28b102b811f370]: Commencement: Reg. 22 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-4b59013ef7b7b298fd28b102b811f370]: Commencement: Reg. 22 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
 [^f00006]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8/contents). [Section 142D](https://www.legislation.gov.uk/ukpga/2000/8/section/142D) was inserted by the [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33/contents), section 4(1).
 
@@ -1670,7 +1670,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00011]: Footnote: Schedule 2 was amended by the [Regulation of Financial Services (Land Transactions) Act 2005 (c. 24)](https://www.legislation.gov.uk/ukpga/2005/24/contents), section 1; the [Dormant Bank and Building Society Accounts Act 2008 (c. 31)](https://www.legislation.gov.uk/ukpga/2008/31/contents), section 15 and Schedule 2, paragraph 1; the [Financial Services Act 2012](https://www.legislation.gov.uk/ukpga/2012/21/contents), sections 7(2) to (5) and 8; the [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10/contents), section 27(13); [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881/contents); [S.I. 2018/135](https://www.legislation.gov.uk/uksi/2018/135/contents); and [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632/contents).
 
-[^key-e5488865aa4d7d178e3f2e7c2bdc02f0]: Commencement: Reg. 23 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-e5488865aa4d7d178e3f2e7c2bdc02f0]: Commencement: Reg. 23 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
 [^f00012]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8); section 213 was amended by the Banking Act [2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), section 170(2); by the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), section 122(3) and Schedules 2, 8 and 10; [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701); [S.I. 2018/1149](https://www.legislation.gov.uk/uksi/2018/1149); [S.I. 2022/466](https://www.legislation.gov.uk/uksi/2022/466).
 
@@ -1712,29 +1712,29 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00031]: Footnote: Section 88 was amended by the Financial Services Act 2012, section 16(2) and 16(3).
 
-[^key-ed2ef04f1808e873e4907258ed42c3f3]: Commencement: Reg. 24 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-ed2ef04f1808e873e4907258ed42c3f3]: Commencement: Reg. 24 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-570ceb7ec91ea9df91b9fd5c25804abb]: Commencement: Reg. 25 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-570ceb7ec91ea9df91b9fd5c25804abb]: Commencement: Reg. 25 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-9f9ad6391e8a9b184e84c5e0b44fb984]: Commencement: Reg. 26 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-9f9ad6391e8a9b184e84c5e0b44fb984]: Commencement: Reg. 26 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-68a51210105989e896a4480affd34ec0]: Commencement: Reg. 27 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-68a51210105989e896a4480affd34ec0]: Commencement: Reg. 27 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-a9d07f1aaf6af121c3d68d37299d1162]: Commencement: Reg. 28 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-a9d07f1aaf6af121c3d68d37299d1162]: Commencement: Reg. 28 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-d2d11c4ee5eeef6748c9b85fbde9bc54]: Commencement: Reg. 29 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-d2d11c4ee5eeef6748c9b85fbde9bc54]: Commencement: Reg. 29 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-83e917eaff4ae7e9b8d333addf4f4018]: Commencement: Reg. 30 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-83e917eaff4ae7e9b8d333addf4f4018]: Commencement: Reg. 30 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-22fe8a3772f3d325610509d5815e19e7]: Commencement: Reg. 31 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-22fe8a3772f3d325610509d5815e19e7]: Commencement: Reg. 31 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-0a69464e53423d5d4c5088a2b741bd07]: Commencement: Reg. 32 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-0a69464e53423d5d4c5088a2b741bd07]: Commencement: Reg. 32 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-b347b7f33f2e1d993d31baef908495c1]: Commencement: Reg. 33 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-b347b7f33f2e1d993d31baef908495c1]: Commencement: Reg. 33 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-d0da6765c663d4b0b57862a6579c597f]: Commencement: Reg. 34 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-d0da6765c663d4b0b57862a6579c597f]: Commencement: Reg. 34 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-6d4f709d884030657de8edea8f57e7eb]: Commencement: Reg. 35 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-6d4f709d884030657de8edea8f57e7eb]: Commencement: Reg. 35 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
 [^f00032]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46/contents).
 
@@ -1754,19 +1754,19 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00040]: Footnote: Section 1210 was amended by [S.I. 2008/565](https://www.legislation.gov.uk/uksi/2008/565/contents); [S.I. 2008/567](https://www.legislation.gov.uk/uksi/2008/567/contents); [S.I. 2008/1950](https://www.legislation.gov.uk/uksi/2008/1950/contents); [S.I. 2011/99](https://www.legislation.gov.uk/uksi/2011/99/contents); [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809/contents); [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115/contents); [S.I. 2017/516](https://www.legislation.gov.uk/uksi/2017/516/contents); [S.I. 2017/1164](https://www.legislation.gov.uk/uksi/2017/1164/contents); and [S.I. 2019/177](https://www.legislation.gov.uk/uksi/2019/177/contents).
 
-[^key-f12cf4462ece866fd01f7866d5aaa8c0]: Commencement: Reg. 36 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-f12cf4462ece866fd01f7866d5aaa8c0]: Commencement: Reg. 36 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-424f789b284e40720c96827625da8458]: Commencement: Reg. 37 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-424f789b284e40720c96827625da8458]: Commencement: Reg. 37 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-b7fd2eb0bbab15517be2ffc3aa759d1b]: Commencement: Reg. 38 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-b7fd2eb0bbab15517be2ffc3aa759d1b]: Commencement: Reg. 38 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-622c07879ee46822134fe92ace721a8f]: Commencement: Reg. 39 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-622c07879ee46822134fe92ace721a8f]: Commencement: Reg. 39 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
 [^f00041]: Footnote: [2017 c. 3](https://www.legislation.gov.uk/ukpga/2017/3/contents). Section 146 was amended by the [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10/contents), section 54.
 
 [^f00042]: Footnote: Section 1(8) of the Act defines an “international obligation” as an obligation of the United Kingdom created or arising by or under any international agreement.
 
-[^key-3bd68dd92408a9f61bddaa5a1deaad8d]: Commencement: Reg. 40 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-3bd68dd92408a9f61bddaa5a1deaad8d]: Commencement: Reg. 40 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
 [^f00043]: Footnote: “**Sanctions regulations**” has the meaning given in section 1(5) of the Sanctions and Anti-Money Laundering Act 2018; section 1(5) was amended by the Economic Crime and Corporate Transparency Act 2023, section 35(2).
 
@@ -1774,21 +1774,21 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00045]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39/contents). Section 2 has been amended by the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25/contents), [Schedule 22](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22), [paragraph 232](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/232).
 
-[^key-5f0f2e1fe6f3c97d8c635728ecfc214e]: Commencement: Reg. 41 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-5f0f2e1fe6f3c97d8c635728ecfc214e]: Commencement: Reg. 41 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
 [^f00046]: Footnote: [2016 c. 25](https://www.legislation.gov.uk/ukpga/2016/25/contents). Amendments have been made most recently by the Sanctions and Anti-Money Laundering Act 2018, section 59(4), Schedule 3, paragraph 7; the [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3/contents), Schedule 4, paragraph 33; the Crime (Overseas Production Orders) Act 2019 (c. 5), section 16; the Armed Forces Act 2021, (c. 35), section 24(1) and Schedule 5, paragraphs 44 and 45 and Schedule 4, paragraph 2; the [Finance (No. 2) Act 2023 (c. 30), section 352](https://www.legislation.gov.uk/ukpga/2023/30/section/352); the National Security Act 2023 (c. 32), Schedule 18, paragraph 10; the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41), Schedule 13, paragraph 9; [S.I. 2018/378](https://www.legislation.gov.uk/uksi/2018/378/contents); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652/contents); [S.I. 2018/905](https://www.legislation.gov.uk/uksi/2018/905/contents); [S.I. 2018/1123](https://www.legislation.gov.uk/uksi/2018/1123/contents); [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419/contents); [S.I. 2019/742](https://www.legislation.gov.uk/uksi/2019/742/contents); [S.I. 2019/939](https://www.legislation.gov.uk/uksi/2019/939/contents); [S.I. 2020/661](https://www.legislation.gov.uk/uksi/2020/661/contents); [S.I. 2020/360](https://www.legislation.gov.uk/uksi/2020/360/contents); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792/contents); [S.I. 2023/149](https://www.legislation.gov.uk/uksi/2023/149/contents); [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621/contents); and [S.I. 2024/514](https://www.legislation.gov.uk/uksi/2024/514/contents).
 
 [^f00047]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12/contents). There are amendments to this Act that are not relevant to these Regulations.
 
-[^key-0a4ae60c02f01d720708527b5de06277]: Commencement: Reg. 42 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-0a4ae60c02f01d720708527b5de06277]: Commencement: Reg. 42 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-02042055cf0fce52701f4a426c55b95d]: Commencement: Reg. 43 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-02042055cf0fce52701f4a426c55b95d]: Commencement: Reg. 43 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-2e322281fa72ee00e0e948cf4aa482c1]: Commencement: Reg. 44 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-2e322281fa72ee00e0e948cf4aa482c1]: Commencement: Reg. 44 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
 [^f00048]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-4b3383442f56ba912a015e3ca21c6d46]: Commencement: Reg. 45 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-4b3383442f56ba912a015e3ca21c6d46]: Commencement: Reg. 45 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
 [^f00049]: Footnote: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86) as amended by the Statute Law (Repeals) Act [2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), section 1(1) and Schedule 1, Part 17. Other amendments have been made to section 33 that are not relevant to these Regulations.
 
@@ -1798,79 +1798,79 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00052]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
 
-[^key-452f94cdfbd4d32ed71487ce74ef9e7d]: Commencement: Reg. 46 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-452f94cdfbd4d32ed71487ce74ef9e7d]: Commencement: Reg. 46 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
 [^f00053]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46/contents).
 
-[^key-a3e65e3cbc483921d382fd573811fcd9]: Commencement: Reg. 47 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-a3e65e3cbc483921d382fd573811fcd9]: Commencement: Reg. 47 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
 [^f00054]: Footnote: [2005 c. 15](https://www.legislation.gov.uk/ukpga/2005/15). Chapter 1 of Part 2 has been amended by the Terrorism Act [2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11), section 33(3) and (4); the Northern Ireland (Miscellaneous Provisions) Act [2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), sections 26(2) and 30(2) and Schedules 3 and 5; the Bribery Act [2010 (c. 23)](https://www.legislation.gov.uk/ukpga/2010/23), section 17(2) and Schedule 1; the Criminal Justice and Licensing (Scotland) Act [2010 (asp. 13)](https://www.legislation.gov.uk/asp/2010/13), section 203 and Schedule 7, paragraph 77; the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), section 15 and Schedule 8, paragraphs 157 and 159; the Criminal Finances Act [2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), section 51(1); the Sanctions and Anti-Money Laundering Act 2018, section 59(4) and Schedule 3, paragraph 4; the Economic Crime and Corporate Transparency Act [2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), section 206; [S.I. 2006/1629](https://www.legislation.gov.uk/uksi/2006/1629); [S.I. 2014/834](https://www.legislation.gov.uk/uksi/2014/834); and [S.I. 2023/149](https://www.legislation.gov.uk/uksi/2023/149).
 
-[^key-8d34a97efebc34d780824216e1f26b91]: Commencement: Reg. 48 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-8d34a97efebc34d780824216e1f26b91]: Commencement: Reg. 48 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
 [^f00055]: Footnote: [S.I. 2020/680](https://www.legislation.gov.uk/uksi/2020/680).
 
-[^key-5e9672d88913d11f185245256de722b1]: Commencement: Reg. 49 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-5e9672d88913d11f185245256de722b1]: Commencement: Reg. 49 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-32406af764b99f43ad6d8ba948000469]: Commencement: Reg. 50 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-32406af764b99f43ad6d8ba948000469]: Commencement: Reg. 50 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-dcc7aec23d331c2a41414f1f9cc683a6]: Commencement: Reg. 51 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-dcc7aec23d331c2a41414f1f9cc683a6]: Commencement: Reg. 51 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-22871e340fd5b9e24ade2495191ef7bc]: Commencement: Reg. 52 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-22871e340fd5b9e24ade2495191ef7bc]: Commencement: Reg. 52 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-78647ffa1c074fad504d9fd6866805a7]: Commencement: Sch. 1 para. 1 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-78647ffa1c074fad504d9fd6866805a7]: Commencement: Sch. 1 para. 1 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-fbf7aafe0bfe1c87b4867aa7eaf6adbf]: Commencement: Sch. 1 para. 2 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-fbf7aafe0bfe1c87b4867aa7eaf6adbf]: Commencement: Sch. 1 para. 2 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-c94cc81884385d8c870355383b42ddbc]: Commencement: Sch. 1 para. 3 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-c94cc81884385d8c870355383b42ddbc]: Commencement: Sch. 1 para. 3 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-544e059e5cc0bc531d5cf95f635bf3a4]: Commencement: Sch. 1 para. 4 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-544e059e5cc0bc531d5cf95f635bf3a4]: Commencement: Sch. 1 para. 4 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-50f3b4305211a787fba646d8d5ef23a5]: Commencement: Sch. 1 para. 5 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-50f3b4305211a787fba646d8d5ef23a5]: Commencement: Sch. 1 para. 5 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-6a837e06f4fcca0403a5ae40a658b7c0]: Commencement: Sch. 1 para. 6 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-6a837e06f4fcca0403a5ae40a658b7c0]: Commencement: Sch. 1 para. 6 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-657236c9318924de4a8b7ab80b50f55c]: Commencement: Sch. 1 para. 7 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-657236c9318924de4a8b7ab80b50f55c]: Commencement: Sch. 1 para. 7 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-81805ba92416764604ffe2a52445e140]: Commencement: Sch. 1 para. 8 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-81805ba92416764604ffe2a52445e140]: Commencement: Sch. 1 para. 8 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-1f7f3136cd675f3748ca36d100a238b4]: Commencement: Sch. 1 para. 9 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-1f7f3136cd675f3748ca36d100a238b4]: Commencement: Sch. 1 para. 9 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-330215d80f45fddaf4af197269f8fde4]: Commencement: Sch. 1 para. 10 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-330215d80f45fddaf4af197269f8fde4]: Commencement: Sch. 1 para. 10 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-2c6c5d45934a490547ede5f79fb58e94]: Commencement: Sch. 1 para. 11 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-2c6c5d45934a490547ede5f79fb58e94]: Commencement: Sch. 1 para. 11 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-0253333edfcc67cd7d7b73358ca94f75]: Commencement: Sch. 1 para. 12 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-0253333edfcc67cd7d7b73358ca94f75]: Commencement: Sch. 1 para. 12 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-ea8880f78e637fee8a3fb57be42fdceb]: Commencement: Sch. 1 para. 13 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-ea8880f78e637fee8a3fb57be42fdceb]: Commencement: Sch. 1 para. 13 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-1a55937ac4c4b92d31853dea14edb3ad]: Commencement: Sch. 1 para. 14 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-1a55937ac4c4b92d31853dea14edb3ad]: Commencement: Sch. 1 para. 14 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-db30f20b6c059a1a1099a9d6a70d649a]: Commencement: Sch. 2 para. 1 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-db30f20b6c059a1a1099a9d6a70d649a]: Commencement: Sch. 2 para. 1 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-f37ac2bf074b2b2b021f423a9ce78eee]: Commencement: Sch. 2 para. 2 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-f37ac2bf074b2b2b021f423a9ce78eee]: Commencement: Sch. 2 para. 2 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-320904252a4d3e875de2d02200121d93]: Commencement: Sch. 2 para. 3 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-320904252a4d3e875de2d02200121d93]: Commencement: Sch. 2 para. 3 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-ef1f9947155d7a0d6e74f0dc17d1a424]: Commencement: Sch. 2 para. 4 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-ef1f9947155d7a0d6e74f0dc17d1a424]: Commencement: Sch. 2 para. 4 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-e9ce72a42cfd59440b76a028f95feb66]: Commencement: Sch. 2 para. 5 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-e9ce72a42cfd59440b76a028f95feb66]: Commencement: Sch. 2 para. 5 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-f350f2d41afe689f02f92c75bf10e368]: Commencement: Sch. 2 para. 6 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-f350f2d41afe689f02f92c75bf10e368]: Commencement: Sch. 2 para. 6 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-6061edade2757d82f346062ba0bd4e2d]: Commencement: Sch. 2 para. 7 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-6061edade2757d82f346062ba0bd4e2d]: Commencement: Sch. 2 para. 7 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-aa9b5fa7b77637075009e5c3cf2a42cf]: Commencement: Sch. 2 para. 8 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-aa9b5fa7b77637075009e5c3cf2a42cf]: Commencement: Sch. 2 para. 8 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-964f6e70c36c7d7cd6c3edfa094501fd]: Commencement: Sch. 2 para. 9 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-964f6e70c36c7d7cd6c3edfa094501fd]: Commencement: Sch. 2 para. 9 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
 [^f00056]: Footnote: United Nations Treaty Series, vol. 596, p. 261.
 
 [^f00057]: Footnote: United Nations Treaty Series, vol. 500, p. 95.
 
-[^key-f3a91278235094b2e9651b01afaa5cab]: Commencement: Sch. 2 para. 10 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-f3a91278235094b2e9651b01afaa5cab]: Commencement: Sch. 2 para. 10 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
-[^key-0d327fb90afbe2ed2f6fb95e228fca6c]: Commencement: Sch. 2 para. 11 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
+[^c-0d327fb90afbe2ed2f6fb95e228fca6c]: Commencement: Sch. 2 para. 11 in force at 15.10.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/1071/regulation/1/2)
 
 [^f00058]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45); Part A1 was inserted by the Corporate Insolvency and Governance Act 2020, section 1(1).
 

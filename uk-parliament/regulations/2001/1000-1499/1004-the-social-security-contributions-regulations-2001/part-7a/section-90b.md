@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90B. Proof of content of electronic delivery[^key-1ab31b2bc581b84dd904b2af96d1cb94]
+## 90B. Proof of content of electronic delivery[^c-1ab31b2bc581b84dd904b2af96d1cb94]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ab31b2bc581b84dd904b2af96d1cb94]: Textual amendment: Pt. 7A inserted (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2004/770/regulation/23)
+[^c-1ab31b2bc581b84dd904b2af96d1cb94]: Textual amendment: Pt. 7A inserted (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2004/770/regulation/23)

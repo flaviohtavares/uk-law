@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Byelaws[^key-dc467857684d47343724196a109da67d]
+## 46. Byelaws[^c-dc467857684d47343724196a109da67d]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc467857684d47343724196a109da67d]: Commencement: [S. 46](https://www.legislation.gov.uk/nia/2011/23/section/46) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-dc467857684d47343724196a109da67d]: Commencement: [S. 46](https://www.legislation.gov.uk/nia/2011/23/section/46) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

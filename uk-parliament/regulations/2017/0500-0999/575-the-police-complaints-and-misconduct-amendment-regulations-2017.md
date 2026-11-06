@@ -32,7 +32,7 @@ summary: ''
 
 Police, England And Wales
 
-The Police (Complaints and Misconduct) (Amendment) Regulations 2017 (revoked)[^key-1e887c0ace15aa483ef9a1f82397264e]
+The Police (Complaints and Misconduct) (Amendment) Regulations 2017 (revoked)[^c-1e887c0ace15aa483ef9a1f82397264e]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 22nd May 2017
 
-[^key-1e887c0ace15aa483ef9a1f82397264e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e887c0ace15aa483ef9a1f82397264e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1e887c0ace15aa483ef9a1f82397264e]
+## 1. Citation and commencement[^c-1e887c0ace15aa483ef9a1f82397264e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Police (Complaints and Misconduct) Regulations 2012[^key-1e887c0ace15aa483ef9a1f82397264e]
+## 2. Amendments to the Police (Complaints and Misconduct) Regulations 2012[^c-1e887c0ace15aa483ef9a1f82397264e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e887c0ace15aa483ef9a1f82397264e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e887c0ace15aa483ef9a1f82397264e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1e887c0ace15aa483ef9a1f82397264e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e887c0ace15aa483ef9a1f82397264e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1e887c0ace15aa483ef9a1f82397264e]: Textual amendment: Regulations revoked (1.2.2020) by [The Police (Complaints and Misconduct) Regulations 2020 (S.I. 2020/2)](https://www.legislation.gov.uk/uksi/2020/2), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1), [2(1)(d)](https://www.legislation.gov.uk/uksi/2020/2/regulation/2/1/d) (with [reg. 2(2)-(4)](https://www.legislation.gov.uk/uksi/2020/2/regulation/2/2))
+[^c-1e887c0ace15aa483ef9a1f82397264e]: Textual amendment: Regulations revoked (1.2.2020) by [The Police (Complaints and Misconduct) Regulations 2020 (S.I. 2020/2)](https://www.legislation.gov.uk/uksi/2020/2), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/2/regulation/1/1), [2(1)(d)](https://www.legislation.gov.uk/uksi/2020/2/regulation/2/1/d) (with [reg. 2(2)-(4)](https://www.legislation.gov.uk/uksi/2020/2/regulation/2/2))

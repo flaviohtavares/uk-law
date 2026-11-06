@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Instruments of payment[^key-a9595ce34a4379498c1e6c17fa9c657d]
+## 47. Instruments of payment[^c-a9595ce34a4379498c1e6c17fa9c657d]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9595ce34a4379498c1e6c17fa9c657d]: Textual amendment: Reg. 47 and heading substituted (10.4.2006) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2006 (S.I. 2006/832)](https://www.legislation.gov.uk/uksi/2006/832), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/832/regulation/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2006/832/regulation/2/12)
+[^c-a9595ce34a4379498c1e6c17fa9c657d]: Textual amendment: Reg. 47 and heading substituted (10.4.2006) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2006 (S.I. 2006/832)](https://www.legislation.gov.uk/uksi/2006/832), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/832/regulation/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2006/832/regulation/2/12)

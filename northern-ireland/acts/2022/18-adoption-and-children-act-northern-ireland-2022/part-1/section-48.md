@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Adoption by one person[^key-13f71cf448f5684a7993eb8926d15c96]
+## 48. Adoption by one person[^c-13f71cf448f5684a7993eb8926d15c96]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ and, where the court makes an adoption order on such an application, the court m
 
 ## Annotations
 
-[^key-13f71cf448f5684a7993eb8926d15c96]: Commencement: S. 48 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-13f71cf448f5684a7993eb8926d15c96]: Commencement: S. 48 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

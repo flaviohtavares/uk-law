@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Savings in connection with powers of the Secretary of State[^key-c6b7ffb8bcab7df3b6de2cd427b8f17c]
+## 9. Savings in connection with powers of the Secretary of State[^c-c6b7ffb8bcab7df3b6de2cd427b8f17c]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6b7ffb8bcab7df3b6de2cd427b8f17c]: Commencement: Art. 9 in force at made date
+[^c-c6b7ffb8bcab7df3b6de2cd427b8f17c]: Commencement: Art. 9 in force at made date

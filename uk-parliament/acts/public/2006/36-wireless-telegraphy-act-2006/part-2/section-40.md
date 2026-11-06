@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Repeated contravention[^key-ac06995716180c96ca4f699ea65b6ba2]
+## 40. Repeated contravention[^c-ac06995716180c96ca4f699ea65b6ba2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac06995716180c96ca4f699ea65b6ba2]: Textual amendment: S. 40 omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/14) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-ac06995716180c96ca4f699ea65b6ba2]: Textual amendment: S. 40 omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/14) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))

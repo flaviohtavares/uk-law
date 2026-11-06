@@ -46,7 +46,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 (2) In subsection (1), “**the emergency period**” means the period—
 
 - (a) beginning with the day after the day on which this Act receives Royal Assent, and
-- (b) ending with 4th May 2022[^key-7a24a736e6e0c738876ffe5f22490b92].
+- (b) ending with 4th May 2022[^c-7a24a736e6e0c738876ffe5f22490b92].
 
 (3) The Department may by regulations amend the date specified in subsection (2)(b) to another specified date.
 
@@ -115,4 +115,4 @@ This Act may be cited as the Private Tenancies (Coronavirus Modifications)Act (N
 
 ## Annotations
 
-[^key-7a24a736e6e0c738876ffe5f22490b92]: Textual amendment: Words in [s. 1(2)(b)](https://www.legislation.gov.uk/nia/2020/2/section/1/2/b) substituted (29.9.2021) by [The Private Tenancies (Coronavirus Modifications) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/242)](https://www.legislation.gov.uk/nisr/2021/242), [regs. 1](https://www.legislation.gov.uk/nisr/2021/242/regulation/1), [2](https://www.legislation.gov.uk/nisr/2021/242/regulation/2)
+[^c-7a24a736e6e0c738876ffe5f22490b92]: Textual amendment: Words in [s. 1(2)(b)](https://www.legislation.gov.uk/nia/2020/2/section/1/2/b) substituted (29.9.2021) by [The Private Tenancies (Coronavirus Modifications) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/242)](https://www.legislation.gov.uk/nisr/2021/242), [regs. 1](https://www.legislation.gov.uk/nisr/2021/242/regulation/1), [2](https://www.legislation.gov.uk/nisr/2021/242/regulation/2)

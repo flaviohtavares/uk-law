@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Creditors’ meeting where winding up converted under Article 82[^key-0c1a01368011e190201abfa06e6f9ce4]
+## 34. Creditors’ meeting where winding up converted under Article 82[^c-0c1a01368011e190201abfa06e6f9ce4]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Omit Article 88 (creditors’ meeting where winding up converted under Article 8
 
 ## Annotations
 
-[^key-0c1a01368011e190201abfa06e6f9ce4]: Commencement: S. 34 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-0c1a01368011e190201abfa06e6f9ce4]: Commencement: S. 34 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

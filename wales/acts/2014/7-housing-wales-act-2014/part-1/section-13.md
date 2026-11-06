@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Offence of appointing an unlicensed agent[^key-a870cffae3b3a7823b56ea55249723d8]
+## 13. Offence of appointing an unlicensed agent[^c-a870cffae3b3a7823b56ea55249723d8]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a870cffae3b3a7823b56ea55249723d8]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2014/7/section/13) in force at 23.11.2016 by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)
+[^c-a870cffae3b3a7823b56ea55249723d8]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2014/7/section/13) in force at 23.11.2016 by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)

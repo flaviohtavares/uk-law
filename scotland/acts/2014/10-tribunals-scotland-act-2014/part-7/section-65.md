@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Additional powers[^key-80bd82df1845ed3d91c812aa7fcbed6e]
+## 65. Additional powers[^c-80bd82df1845ed3d91c812aa7fcbed6e]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80bd82df1845ed3d91c812aa7fcbed6e]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2014/10/section/65) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-80bd82df1845ed3d91c812aa7fcbed6e]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2014/10/section/65) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

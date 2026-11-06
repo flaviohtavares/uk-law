@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31.[^key-81593e532ecd4616e660347c247a0a7e]
+## 31.[^c-81593e532ecd4616e660347c247a0a7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,10 +28,10 @@ summary: ''
 
 (4) After subsection (5) insert—
 
-> (6) The requirement in subsection (5)(a) applies only in relation to principles laid down, or decisions made, by the European Court before IP completion day[^key-9d77faaefd37de2ff700d0bb4132dcc4].
+> (6) The requirement in subsection (5)(a) applies only in relation to principles laid down, or decisions made, by the European Court before IP completion day[^c-9d77faaefd37de2ff700d0bb4132dcc4].
 
 ## Annotations
 
-[^key-81593e532ecd4616e660347c247a0a7e]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-81593e532ecd4616e660347c247a0a7e]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-9d77faaefd37de2ff700d0bb4132dcc4]: Textual amendment: Words in [reg. 31(4)](https://www.legislation.gov.uk/uksi/2019/479/regulation/31/4) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)(d)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2/d)
+[^c-9d77faaefd37de2ff700d0bb4132dcc4]: Textual amendment: Words in [reg. 31(4)](https://www.legislation.gov.uk/uksi/2019/479/regulation/31/4) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)(d)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2/d)

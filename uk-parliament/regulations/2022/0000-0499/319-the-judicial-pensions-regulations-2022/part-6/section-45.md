@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Qualifying service[^key-a390bb5b3c65d39ae28b1cfe4d5ee640]
+## 45. Qualifying service[^c-a390bb5b3c65d39ae28b1cfe4d5ee640]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a390bb5b3c65d39ae28b1cfe4d5ee640]: Commencement: Reg. 45 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-a390bb5b3c65d39ae28b1cfe4d5ee640]: Commencement: Reg. 45 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

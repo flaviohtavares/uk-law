@@ -28,9 +28,9 @@ Where a local authority place a child who is looked after by them in terms of se
 - (b) agree with the person in charge of the residential establishment arrangements for–
   - (i) ensuring that the child's welfare is safeguarded and promoted;
   - (ii) ensuring that the child receives such provision for their development and control as is conducive to their best interests;
-  - (iii) contact between the child and their family including any sibling of the child[^key-077c5727d94e8b08832bbfcc4e28252c]; and
+  - (iii) contact between the child and their family including any sibling of the child[^c-077c5727d94e8b08832bbfcc4e28252c]; and
   - (iv) ensuring that the child receives adequate and efficient education.
 
 ## Annotations
 
-[^key-077c5727d94e8b08832bbfcc4e28252c]: Textual amendment: Words in [reg. 35(b)(iii)](https://www.legislation.gov.uk/ssi/2009/210/regulation/35/b/iii) inserted (26.7.2021) by [The Looked After Children (Scotland) Amendment Regulations 2021 (S.S.I. 2021/103)](https://www.legislation.gov.uk/ssi/2021/103), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2021/103/regulation/1/3), [3(10)](https://www.legislation.gov.uk/ssi/2021/103/regulation/3/10)
+[^c-077c5727d94e8b08832bbfcc4e28252c]: Textual amendment: Words in [reg. 35(b)(iii)](https://www.legislation.gov.uk/ssi/2009/210/regulation/35/b/iii) inserted (26.7.2021) by [The Looked After Children (Scotland) Amendment Regulations 2021 (S.S.I. 2021/103)](https://www.legislation.gov.uk/ssi/2021/103), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2021/103/regulation/1/3), [3(10)](https://www.legislation.gov.uk/ssi/2021/103/regulation/3/10)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Creative Scotland: modifications of enactments[^key-5a8d2b12b0338d1a53394979d687c388]
+## 43. Creative Scotland: modifications of enactments[^c-5a8d2b12b0338d1a53394979d687c388]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 10 (which contains modifications of enactments consequential on this Pa
 
 ## Annotations
 
-[^key-5a8d2b12b0338d1a53394979d687c388]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2010/8/section/43) in force at 1.7.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/221/article/3/1)
+[^c-5a8d2b12b0338d1a53394979d687c388]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2010/8/section/43) in force at 1.7.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/221/article/3/1)

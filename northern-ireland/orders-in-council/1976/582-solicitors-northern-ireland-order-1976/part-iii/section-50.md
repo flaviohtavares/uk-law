@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50. Application of Bankers' Books Evidence Act 1879[^key-5be9c47f8b24d514d3b938a8199c61f2]
+## 50. Application of Bankers' Books Evidence Act 1879[^c-5be9c47f8b24d514d3b938a8199c61f2]
 
 *Extent: N.I.*
 
@@ -24,7 +24,7 @@ An application to or an inquiry or other proceeding before the Tribunal[^c171146
 
 ## Annotations
 
-[^key-5be9c47f8b24d514d3b938a8199c61f2]: Modification: [Art. 50](https://www.legislation.gov.uk/nisi/1976/582/article/50) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(aa)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/aa)
+[^c-5be9c47f8b24d514d3b938a8199c61f2]: Modification: [Art. 50](https://www.legislation.gov.uk/nisi/1976/582/article/50) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(aa)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/aa)
 
 [^c17114681]: Textual amendment: [1989 NI 14](https://www.legislation.gov.uk/1989/ni14)
 

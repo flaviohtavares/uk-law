@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Duty to report appointment of manager to the workforce and service regulators[^key-a82aa5441d65e3d149c57b5fd8451bb2]
+## 41. Duty to report appointment of manager to the workforce and service regulators[^c-a82aa5441d65e3d149c57b5fd8451bb2]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a82aa5441d65e3d149c57b5fd8451bb2]: Commencement: [Reg. 41](https://www.legislation.gov.uk/wsi/2019/165/regulation/41) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-a82aa5441d65e3d149c57b5fd8451bb2]: Commencement: [Reg. 41](https://www.legislation.gov.uk/wsi/2019/165/regulation/41) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)

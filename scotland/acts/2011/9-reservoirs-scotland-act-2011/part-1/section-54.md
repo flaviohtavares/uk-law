@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Incident reporting[^key-1991156a549c3c819751661a5ab05f2c]
+## 54. Incident reporting[^c-1991156a549c3c819751661a5ab05f2c]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1991156a549c3c819751661a5ab05f2c]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2011/9/section/54) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)
+[^c-1991156a549c3c819751661a5ab05f2c]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2011/9/section/54) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)

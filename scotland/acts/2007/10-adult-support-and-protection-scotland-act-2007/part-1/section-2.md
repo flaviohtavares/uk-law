@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Principles for performing Part 1 functions[^key-1549ba821a07abf068907b2f8fef46c1]
+## 2. Principles for performing Part 1 functions[^c-1549ba821a07abf068907b2f8fef46c1]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ A public body or office-holder performing a function under this Part in relation
 
 ## Annotations
 
-[^key-1549ba821a07abf068907b2f8fef46c1]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2007/10/section/2) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-1549ba821a07abf068907b2f8fef46c1]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2007/10/section/2) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

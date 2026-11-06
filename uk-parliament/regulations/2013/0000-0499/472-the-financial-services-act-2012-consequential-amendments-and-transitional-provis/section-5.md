@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Amendments of subordinate legislation (references to Part X of the Financial Services and Markets Act 2000)[^key-21c3467a73486483c0b6998da7f362b5]
+## 5. Amendments of subordinate legislation (references to Part X of the Financial Services and Markets Act 2000)[^c-21c3467a73486483c0b6998da7f362b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In subordinate legislation for references to Part X of the Financial Services an
 
 ## Annotations
 
-[^key-21c3467a73486483c0b6998da7f362b5]: Commencement: Art. 5 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-21c3467a73486483c0b6998da7f362b5]: Commencement: Art. 5 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)

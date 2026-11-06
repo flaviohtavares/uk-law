@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Access to works[^key-e3697435da0b8ab1c235eeebf42fd897]
+## 12. Access to works[^c-e3697435da0b8ab1c235eeebf42fd897]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3697435da0b8ab1c235eeebf42fd897]: Commencement: Art. 12 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-e3697435da0b8ab1c235eeebf42fd897]: Commencement: Art. 12 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)

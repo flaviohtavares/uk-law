@@ -32,7 +32,7 @@ An Act to provide for increasing the limits in transferred provisions which allo
 
 \[21st March 1967\]
 
-## 1. Increase in amounts disposable on death without representation.[^c1160342][^key-6498f212c8101399dd0ae14727dbd9df]
+## 1. Increase in amounts disposable on death without representation.[^c1160342][^c-6498f212c8101399dd0ae14727dbd9df]
 
 In the transferred provisions listed in Schedule 1, of which—
 
@@ -42,7 +42,7 @@ In the transferred provisions listed in Schedule 1, of which—
 
 the said limit shall in each case be £500[^c1160343] instead of the limit specified in the transferred provision; and for references to the limits of £100 or, as the case may be, £200 in those transferred provisions there shall accordingly be substituted references to £500[^c1160343].
 
-## 2. Increase in amounts disposable on death by nomination.[^c1160345][^key-b0a08bb1b28c86de7e962df2dd06634c]
+## 2. Increase in amounts disposable on death by nomination.[^c1160345][^c-b0a08bb1b28c86de7e962df2dd06634c]
 
 (1) In the transferred provisions listed in Schedule 2 (which enable a person by nomination to dispose of property on his death up to a limit of £200) the said limit shall in each case be £500[^c1160346] instead of £200; and for references to the limit of £200 in those provisions there shall accordingly be substituted references to £500[^c1160346].
 
@@ -156,13 +156,13 @@ Section 2.
 
 [^c1160342]: Textual amendment: Mod. by SR 2004/68
 
-[^key-6498f212c8101399dd0ae14727dbd9df]: Modification: [S. 1](https://www.legislation.gov.uk/apni/1967/5/section/1) modified (8.12.2020) by [The Administration of Estates (Small Payments) (Increase of Limit) Order (Northern Ireland) 2020 (S.R. 2020/280)](https://www.legislation.gov.uk/nisr/2020/280), [arts. 1](https://www.legislation.gov.uk/nisr/2020/280/article/1), [2(a)](https://www.legislation.gov.uk/nisr/2020/280/article/2/a)
+[^c-6498f212c8101399dd0ae14727dbd9df]: Modification: [S. 1](https://www.legislation.gov.uk/apni/1967/5/section/1) modified (8.12.2020) by [The Administration of Estates (Small Payments) (Increase of Limit) Order (Northern Ireland) 2020 (S.R. 2020/280)](https://www.legislation.gov.uk/nisr/2020/280), [arts. 1](https://www.legislation.gov.uk/nisr/2020/280/article/1), [2(a)](https://www.legislation.gov.uk/nisr/2020/280/article/2/a)
 
 [^c1160343]: Textual amendment: Increased to £5,000 for deaths after 31.3.1985, SR 1985/9
 
 [^c1160345]: Textual amendment: Mod. by SR 2004/68
 
-[^key-b0a08bb1b28c86de7e962df2dd06634c]: Modification: [S. 2](https://www.legislation.gov.uk/apni/1967/5/section/2) modified (8.12.2020) by [The Administration of Estates (Small Payments) (Increase of Limit) Order (Northern Ireland) 2020 (S.R. 2020/280)](https://www.legislation.gov.uk/nisr/2020/280), [arts. 1](https://www.legislation.gov.uk/nisr/2020/280/article/1), [2(a)](https://www.legislation.gov.uk/nisr/2020/280/article/2/a)
+[^c-b0a08bb1b28c86de7e962df2dd06634c]: Modification: [S. 2](https://www.legislation.gov.uk/apni/1967/5/section/2) modified (8.12.2020) by [The Administration of Estates (Small Payments) (Increase of Limit) Order (Northern Ireland) 2020 (S.R. 2020/280)](https://www.legislation.gov.uk/nisr/2020/280), [arts. 1](https://www.legislation.gov.uk/nisr/2020/280/article/1), [2(a)](https://www.legislation.gov.uk/nisr/2020/280/article/2/a)
 
 [^c1160346]: Textual amendment: Increased to £5,000 for nominations effected after 31.3.1985, SR 1985/9
 

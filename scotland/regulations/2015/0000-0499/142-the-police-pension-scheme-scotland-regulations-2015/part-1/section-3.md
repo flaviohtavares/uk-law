@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Members of the police service in Northern Ireland[^key-cde1f19a25e5fad7d8af7e79090c7fa6]
+## 3. Members of the police service in Northern Ireland[^c-cde1f19a25e5fad7d8af7e79090c7fa6]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ For the purpose of these Regulations, the following persons are members of the p
 
 ## Annotations
 
-[^key-cde1f19a25e5fad7d8af7e79090c7fa6]: Commencement: Reg. 3 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-cde1f19a25e5fad7d8af7e79090c7fa6]: Commencement: Reg. 3 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00024]: Footnote: [2000 c.32 (N.I.)](https://www.legislation.gov.uk/nia/2000/32).

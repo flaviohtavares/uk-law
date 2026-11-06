@@ -34,7 +34,7 @@ Animals
 
 Animal Health
 
-The Northern Ireland Poultry Health Assurance Scheme (Fees) Order (Northern Ireland) 2011 (revoked)[^key-53a172422143b163406f3df08d6c626b]
+The Northern Ireland Poultry Health Assurance Scheme (Fees) Order (Northern Ireland) 2011 (revoked)[^c-53a172422143b163406f3df08d6c626b]
 
 Made
 
@@ -44,54 +44,54 @@ Coming into operation
 
 1st January 2012
 
-[^key-53a172422143b163406f3df08d6c626b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53a172422143b163406f3df08d6c626b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-53a172422143b163406f3df08d6c626b]
+## 1. Citation and commencement[^c-53a172422143b163406f3df08d6c626b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-53a172422143b163406f3df08d6c626b]
+## 2. Interpretation[^c-53a172422143b163406f3df08d6c626b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Fees[^key-53a172422143b163406f3df08d6c626b]
+## 3. Fees[^c-53a172422143b163406f3df08d6c626b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-53a172422143b163406f3df08d6c626b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53a172422143b163406f3df08d6c626b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-53a172422143b163406f3df08d6c626b]
+## SCHEDULE[^c-53a172422143b163406f3df08d6c626b]
 
 Article 3
 
-### PART I — FEES[^key-53a172422143b163406f3df08d6c626b]
+### PART I — FEES[^c-53a172422143b163406f3df08d6c626b]
 
-#### 1. Registration fee[^key-53a172422143b163406f3df08d6c626b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Annual membership fee[^key-53a172422143b163406f3df08d6c626b]
+#### 1. Registration fee[^c-53a172422143b163406f3df08d6c626b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Re-inspection fee[^key-53a172422143b163406f3df08d6c626b]
+#### 2. Annual membership fee[^c-53a172422143b163406f3df08d6c626b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Supplementary audit inspection fee[^key-53a172422143b163406f3df08d6c626b]
+#### 3. Re-inspection fee[^c-53a172422143b163406f3df08d6c626b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — THE NORTHERN IRELAND POULTRY HEALTH ASSURANCE SCHEME FEES[^key-53a172422143b163406f3df08d6c626b]
+#### 4. Supplementary audit inspection fee[^c-53a172422143b163406f3df08d6c626b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-53a172422143b163406f3df08d6c626b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### PART II — THE NORTHERN IRELAND POULTRY HEALTH ASSURANCE SCHEME FEES[^c-53a172422143b163406f3df08d6c626b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-53a172422143b163406f3df08d6c626b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-53a172422143b163406f3df08d6c626b]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2011/435) revoked (27.8.2012) by [The Northern Ireland Poultry Health Assurance Scheme (Fees) Order (Northern Ireland) 2012 (S.R. 2012/305)](https://www.legislation.gov.uk/nisr/2012/305), [art. 5](https://www.legislation.gov.uk/nisr/2012/305/article/5)
+[^c-53a172422143b163406f3df08d6c626b]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2011/435) revoked (27.8.2012) by [The Northern Ireland Poultry Health Assurance Scheme (Fees) Order (Northern Ireland) 2012 (S.R. 2012/305)](https://www.legislation.gov.uk/nisr/2012/305), [art. 5](https://www.legislation.gov.uk/nisr/2012/305/article/5)

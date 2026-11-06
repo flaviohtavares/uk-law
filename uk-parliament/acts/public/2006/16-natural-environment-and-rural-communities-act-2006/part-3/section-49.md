@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Registration etc. of certain captive birds[^key-60b6ddd99e88f275d2217506b1fc0401]
+## 49. Registration etc. of certain captive birds[^c-60b6ddd99e88f275d2217506b1fc0401]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In section 7 of the 1981 Act (registration etc. of certain captive birds), in su
 
 ## Annotations
 
-[^key-60b6ddd99e88f275d2217506b1fc0401]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2006/16/section/49) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-60b6ddd99e88f275d2217506b1fc0401]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2006/16/section/49) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

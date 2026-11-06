@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Food (Peanuts from China) (Emergency Control) (Wales) Regulations 2002 (revoked)[^key-918d8d39d9401230afd3b1f5cb5320df]
+The Food (Peanuts from China) (Emergency Control) (Wales) Regulations 2002 (revoked)[^c-918d8d39d9401230afd3b1f5cb5320df]
 
 Made
 
@@ -41,36 +41,36 @@ Coming into force
 
 26 March 2002
 
-[^key-918d8d39d9401230afd3b1f5cb5320df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-918d8d39d9401230afd3b1f5cb5320df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-918d8d39d9401230afd3b1f5cb5320df]
+## 1. Citation, commencement and application[^c-918d8d39d9401230afd3b1f5cb5320df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-918d8d39d9401230afd3b1f5cb5320df]
+## 2. Interpretation[^c-918d8d39d9401230afd3b1f5cb5320df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition of import[^key-918d8d39d9401230afd3b1f5cb5320df]
+## 3. Prohibition of import[^c-918d8d39d9401230afd3b1f5cb5320df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-918d8d39d9401230afd3b1f5cb5320df]
+## 4. Enforcement[^c-918d8d39d9401230afd3b1f5cb5320df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application etc. of various provisions of the Act[^key-918d8d39d9401230afd3b1f5cb5320df]
+## 5. Application etc. of various provisions of the Act[^c-918d8d39d9401230afd3b1f5cb5320df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-918d8d39d9401230afd3b1f5cb5320df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-918d8d39d9401230afd3b1f5cb5320df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-918d8d39d9401230afd3b1f5cb5320df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-918d8d39d9401230afd3b1f5cb5320df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-918d8d39d9401230afd3b1f5cb5320df]: Textual amendment: Regulations revoked (9.9.2002) by [The Food (Peanuts from China) (Emergency Control) (Wales) (No. 2) Regulations 2002 (S.I. 2002/2295)](https://www.legislation.gov.uk/uksi/2002/2295), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2295/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2002/2295/regulation/7)
+[^c-918d8d39d9401230afd3b1f5cb5320df]: Textual amendment: Regulations revoked (9.9.2002) by [The Food (Peanuts from China) (Emergency Control) (Wales) (No. 2) Regulations 2002 (S.I. 2002/2295)](https://www.legislation.gov.uk/uksi/2002/2295), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2295/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2002/2295/regulation/7)

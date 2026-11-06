@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 9 — Applications for UK-issued ECM certificates by entities in charge of maintenance[^key-59c72af0240a50edbd3d10e5343f3412]
+## SCHEDULE 9 — Applications for UK-issued ECM certificates by entities in charge of maintenance[^c-59c72af0240a50edbd3d10e5343f3412]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,6 +63,6 @@ Regulation 18A(4)
 
 ## Annotations
 
-[^key-59c72af0240a50edbd3d10e5343f3412]: Textual amendment: Schs. 8-11 inserted (31.12.2020) by [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [reg. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/837/schedule/paragraph/1) (as amended in Sch. 11 paras. 14, 16, 17 by S.I. 2019/1310, [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 1 paras. 2, 3, 4](https://www.legislation.gov.uk/uksi/2019/1310/schedule/1/paragraph/2/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-59c72af0240a50edbd3d10e5343f3412]: Textual amendment: Schs. 8-11 inserted (31.12.2020) by [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [reg. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/837/schedule/paragraph/1) (as amended in Sch. 11 paras. 14, 16, 17 by S.I. 2019/1310, [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 1 paras. 2, 3, 4](https://www.legislation.gov.uk/uksi/2019/1310/schedule/1/paragraph/2/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23831711]: Marginal citation: The operative provisions of Commission Regulation (EU) No 445/2011 are substantially reproduced in Schedule 10.

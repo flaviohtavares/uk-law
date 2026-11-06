@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.6. Extradition hearing[^key-dc9c8ac727e51d4f8527379f5c19d2b2]
+## 50.6. Extradition hearing[^c-dc9c8ac727e51d4f8527379f5c19d2b2]
 
 *Extent: E+W*
 
@@ -69,6 +69,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dc9c8ac727e51d4f8527379f5c19d2b2]: Commencement: [Rule 50.6](https://www.legislation.gov.uk/uksi/2025/909/rule/50.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-dc9c8ac727e51d4f8527379f5c19d2b2]: Commencement: [Rule 50.6](https://www.legislation.gov.uk/uksi/2025/909/rule/50.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01336]: Footnote: [2003 c. 41](https://www.legislation.gov.uk/ukpga/2003/41); section 11 was amended by paragraphs 3 and 4 of Schedule 13 to the Police and Justice Act [2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), paragraphs 1 and 2 of Schedule 20 to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) and sections 156, 157, 158 and 181 of, and paragraph 104 of Schedule 11 to, the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12). Section 21 was amended by paragraph 16 of Schedule 13 to the Police and Justice Act [2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48). Section 21B was inserted by section 159 of the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), section 26 was amended by section 160 of that Act, sections 36A and 36B were inserted by section 161 of that Act and sections 64 and 65 were substituted by section 164 of that Act.

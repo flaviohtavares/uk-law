@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Non-disclosable convictions[^key-fa6b9b276448ecc192b1c32d5b12afb5][^key-725bdc9aa8d32225f81e4aaa9b853321]
+## 9. Non-disclosable convictions[^c-fa6b9b276448ecc192b1c32d5b12afb5][^c-725bdc9aa8d32225f81e4aaa9b853321]
 
 *Extent: S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fa6b9b276448ecc192b1c32d5b12afb5]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2020/13/section/9) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
+[^c-fa6b9b276448ecc192b1c32d5b12afb5]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2020/13/section/9) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
 
-[^key-725bdc9aa8d32225f81e4aaa9b853321]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2020/13/section/9) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-725bdc9aa8d32225f81e4aaa9b853321]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2020/13/section/9) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

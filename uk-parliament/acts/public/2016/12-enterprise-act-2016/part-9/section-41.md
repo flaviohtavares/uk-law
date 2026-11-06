@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Restriction on public sector exit payments[^key-1b2bbe1f0a0bd1686ef6626e7d274fda]
+## 41. Restriction on public sector exit payments[^c-1b2bbe1f0a0bd1686ef6626e7d274fda]
 
 *Extent: E+W+S+N.I.*
 
@@ -162,4 +162,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b2bbe1f0a0bd1686ef6626e7d274fda]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2016/12/section/41) in force at 1.2.2017 by [S.I. 2017/70](https://www.legislation.gov.uk/uksi/2017/70), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/70/regulation/2/b)
+[^c-1b2bbe1f0a0bd1686ef6626e7d274fda]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2016/12/section/41) in force at 1.2.2017 by [S.I. 2017/70](https://www.legislation.gov.uk/uksi/2017/70), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/70/regulation/2/b)

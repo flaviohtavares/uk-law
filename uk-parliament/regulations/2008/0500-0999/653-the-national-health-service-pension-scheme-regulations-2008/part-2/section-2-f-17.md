@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.F.17. Transfers across from the 1995 Section[^key-6ad9519151ca3310cce953d20b5a1379][^key-8daecf8775bfc4820f3c9a326b175d65]
+## 2.F.17. Transfers across from the 1995 Section[^c-6ad9519151ca3310cce953d20b5a1379][^c-8daecf8775bfc4820f3c9a326b175d65]
 
 *Extent: E+W*
 
-(1) An active member who is entitled to have a cash equivalent value calculated in respect of the entirety of the member’s rights under the 1995 Section, pursuant to regulation M7 of the 1995 Regulations, may apply to convert that cash equivalent value into rights under this Section of the[^key-301da2421b369438edcae460eb0640a9] Scheme.
+(1) An active member who is entitled to have a cash equivalent value calculated in respect of the entirety of the member’s rights under the 1995 Section, pursuant to regulation M7 of the 1995 Regulations, may apply to convert that cash equivalent value into rights under this Section of the[^c-301da2421b369438edcae460eb0640a9] Scheme.
 
 (2) An application under paragraph (1)—
 
@@ -43,8 +43,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6ad9519151ca3310cce953d20b5a1379]: Textual amendment: [Reg. 2.F.17](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.F.17) and cross-heading inserted (1.10.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [45](https://www.legislation.gov.uk/uksi/2008/2263/regulation/45) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
+[^c-6ad9519151ca3310cce953d20b5a1379]: Textual amendment: [Reg. 2.F.17](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.F.17) and cross-heading inserted (1.10.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [45](https://www.legislation.gov.uk/uksi/2008/2263/regulation/45) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
 
-[^key-8daecf8775bfc4820f3c9a326b175d65]: Textual amendment: Words in [reg. 2.F.17](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.F.17) substituted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/2)
+[^c-8daecf8775bfc4820f3c9a326b175d65]: Textual amendment: Words in [reg. 2.F.17](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.F.17) substituted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/2)
 
-[^key-301da2421b369438edcae460eb0640a9]: Textual amendment: Words in [reg. 2.F.17](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.F.17/1) inserted (1.10.2009) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/5)
+[^c-301da2421b369438edcae460eb0640a9]: Textual amendment: Words in [reg. 2.F.17](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.F.17/1) inserted (1.10.2009) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/5)

@@ -24,49 +24,49 @@ Sections 1 and 42(3).
 
 ### Part I — The General Council
 
-#### ...[^key-e60dd753a0824aa00fb1d63bb461da45]
+#### ...[^c-e60dd753a0824aa00fb1d63bb461da45]
 
-**1.**[^key-e60dd753a0824aa00fb1d63bb461da45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e60dd753a0824aa00fb1d63bb461da45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e60dd753a0824aa00fb1d63bb461da45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e60dd753a0824aa00fb1d63bb461da45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e60dd753a0824aa00fb1d63bb461da45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e60dd753a0824aa00fb1d63bb461da45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e60dd753a0824aa00fb1d63bb461da45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e60dd753a0824aa00fb1d63bb461da45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-e60dd753a0824aa00fb1d63bb461da45][^c10495691] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e60dd753a0824aa00fb1d63bb461da45][^c10495691] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-e60dd753a0824aa00fb1d63bb461da45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e60dd753a0824aa00fb1d63bb461da45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-e60dd753a0824aa00fb1d63bb461da45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e60dd753a0824aa00fb1d63bb461da45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-e60dd753a0824aa00fb1d63bb461da45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e60dd753a0824aa00fb1d63bb461da45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### ...[^key-e60dd753a0824aa00fb1d63bb461da45]
+#### ...[^c-e60dd753a0824aa00fb1d63bb461da45]
 
-**9.**[^key-e60dd753a0824aa00fb1d63bb461da45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-e60dd753a0824aa00fb1d63bb461da45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-e60dd753a0824aa00fb1d63bb461da45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-e60dd753a0824aa00fb1d63bb461da45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### ...[^key-e60dd753a0824aa00fb1d63bb461da45]
+#### ...[^c-e60dd753a0824aa00fb1d63bb461da45]
 
-**11.**[^key-e60dd753a0824aa00fb1d63bb461da45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-e60dd753a0824aa00fb1d63bb461da45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11A.**[^key-e60dd753a0824aa00fb1d63bb461da45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11A.**[^c-e60dd753a0824aa00fb1d63bb461da45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### ...[^key-e60dd753a0824aa00fb1d63bb461da45]
+#### ...[^c-e60dd753a0824aa00fb1d63bb461da45]
 
-**12.**[^key-e60dd753a0824aa00fb1d63bb461da45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-e60dd753a0824aa00fb1d63bb461da45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### ...[^key-e60dd753a0824aa00fb1d63bb461da45]
+#### ...[^c-e60dd753a0824aa00fb1d63bb461da45]
 
-**13.**[^key-e60dd753a0824aa00fb1d63bb461da45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-e60dd753a0824aa00fb1d63bb461da45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### ...[^key-e60dd753a0824aa00fb1d63bb461da45]
+#### ...[^c-e60dd753a0824aa00fb1d63bb461da45]
 
-**14.**[^key-e60dd753a0824aa00fb1d63bb461da45][^c10495701] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-e60dd753a0824aa00fb1d63bb461da45][^c10495701] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 1A. Membership: general[^key-e60dd753a0824aa00fb1d63bb461da45]
+##### 1A. Membership: general[^c-e60dd753a0824aa00fb1d63bb461da45]
 
 (1) The General Council shall consist of—
 
@@ -79,9 +79,9 @@ Sections 1 and 42(3).
 
 (3) The Privy Council shall ensure that, at any time, at least one member of the General Council lives or works wholly or mainly in each of England, Scotland, Wales and Northern Ireland.
 
-(4)[^key-aba5c3fcb74a3932b7afc8445c7371e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-aba5c3fcb74a3932b7afc8445c7371e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 1B. Matters for the order of the Privy Council under section 1(4)[^key-e60dd753a0824aa00fb1d63bb461da45]
+##### 1B. Matters for the order of the Privy Council under section 1(4)[^c-e60dd753a0824aa00fb1d63bb461da45]
 
 (1) An order under section 1(4) shall include provision with regard to—
 
@@ -108,13 +108,13 @@ Sections 1 and 42(3).
 
 (4) An order under section 1(4) may make different provision for different cases or different classes of case and may contain such incidental, consequential, transitional, transitory, saving or supplementary provisions as appear to the Privy Council to be necessary or expedient.
 
-##### 1C. Registration of members’ private interests[^key-e60dd753a0824aa00fb1d63bb461da45]
+##### 1C. Registration of members’ private interests[^c-e60dd753a0824aa00fb1d63bb461da45]
 
 (1) The General Council must establish and maintain a system for the declaration and registration of private interests of its members.
 
 (2) The General Council must publish in such manner as it sees fit entries recorded in the register of members’ private interests.
 
-##### 1D. Duties of co-operation etc.[^key-e60dd753a0824aa00fb1d63bb461da45]
+##### 1D. Duties of co-operation etc.[^c-e60dd753a0824aa00fb1d63bb461da45]
 
 (1) In exercising its functions, the General Council shall—
 
@@ -149,11 +149,11 @@ Sections 1 and 42(3).
 - (h) to abolish any of its committees, other than a statutory committee, or any sub-committee of any of its committees;
 - (i) to delegate to any of its committees any functions of the General Council other than any power to make rules.
 
-(2A)[^key-2231ad6b655125cc9037dab1c8a6b908] Standing orders of the General Council may make provision with regard to the provisional suspension of a member of the General Council from office, pending the taking of a decision about the suspension or removal from office of the member in accordance with the provisions of an order under section 1(4).
+(2A)[^c-2231ad6b655125cc9037dab1c8a6b908] Standing orders of the General Council may make provision with regard to the provisional suspension of a member of the General Council from office, pending the taking of a decision about the suspension or removal from office of the member in accordance with the provisions of an order under section 1(4).
 
-(3)[^key-9774411c261c9c88c034e1e97afce417] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9774411c261c9c88c034e1e97afce417] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-9774411c261c9c88c034e1e97afce417] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-9774411c261c9c88c034e1e97afce417] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Subject to any provision made by or under this Act, the General Council may regulate its own procedure.
 
@@ -161,7 +161,7 @@ Sections 1 and 42(3).
 
 #### General
 
-**16.**[^c10495731] (1)[^key-be18db77df0289690718953f2f3134f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c10495731] (1)[^c-be18db77df0289690718953f2f3134f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The General Council shall make provision by rules as to the procedure for such appointments , and as to the suspension and removal from office of the persons appointed[^M_F_a2bfadf0-036b-446f-d514-3df41269353d].
 
@@ -177,13 +177,13 @@ Sections 1 and 42(3).
 
 **18.**[^c10495751] A person shall not be prevented from being a member of a statutory committee merely because he has previously been a member of that committee.
 
-**19.**[^key-15ade1b2a8fb8a5e05cca702beda24a8][^c10495761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-15ade1b2a8fb8a5e05cca702beda24a8][^c10495761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **20.**[^c10495771] The General Council may by rules make provision with respect to any sub-committee of a statutory committee including, in particular, provision as to the functions and powers to be conferred on the sub-committee, its composition and its relationship with the statutory committee.
 
-**21.**[^c10495781] (1) The General Council may[^key-ed6cd85867b9478a1eb5cc80b1fa4986] make rules regulating the procedure of the statutory committees and their sub-committees (if any) including, in particular, provision as to rules of evidence to be observed in proceedings before any such committee or sub-committee.
+**21.**[^c10495781] (1) The General Council may[^c-ed6cd85867b9478a1eb5cc80b1fa4986] make rules regulating the procedure of the statutory committees and their sub-committees (if any) including, in particular, provision as to rules of evidence to be observed in proceedings before any such committee or sub-committee.
 
-(2) Subject to any provision made by or under this Act,[^c10495791] including provision made by standing orders of the General Council by virtue of paragraph 15(2)(g),[^key-cf76f73c136f9d93dca67b3830727516] each statutory committee and any sub-committee of such a committee may regulate its own procedure.
+(2) Subject to any provision made by or under this Act,[^c10495791] including provision made by standing orders of the General Council by virtue of paragraph 15(2)(g),[^c-cf76f73c136f9d93dca67b3830727516] each statutory committee and any sub-committee of such a committee may regulate its own procedure.
 
 **22.**[^c10495801] (1) If it appears to the General Council that any statutory committee is failing to perform its functions adequately, the General Council may give a direction as to the proper performance of those functions.
 
@@ -199,71 +199,71 @@ Sections 1 and 42(3).
 
 #### The Education Committee
 
-**25.**[^key-d0de550cb8bee2b4534c53563b696925] The General Council shall by rules make provision with regard to the constitution of the Education Committee, and those rules shall include provision with regard to—
+**25.**[^c-d0de550cb8bee2b4534c53563b696925] The General Council shall by rules make provision with regard to the constitution of the Education Committee, and those rules shall include provision with regard to—
 
 - (a) its size and membership;
 - (b) its chair, including the deputising arrangements for its chair; and
 - (c) the quorum at its meetings.
 
-**26.**[^key-546aa0390b18fcca87c1f7a6f70b7040] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-546aa0390b18fcca87c1f7a6f70b7040] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-95421d86694763d563f49c372eca8f99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-95421d86694763d563f49c372eca8f99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**28.**[^key-887727d385c440bd43672d21b8bf75b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-887727d385c440bd43672d21b8bf75b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**29.**[^key-4a35bb72fe2b157d6b569611cfe726d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-4a35bb72fe2b157d6b569611cfe726d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Investigating Committee
 
-**30.**[^c10495831][^key-97d2c904fad6e15247d15c3fb006808c] The General Council shall by rules make provision with regard to the constitution of the Investigating Committee, and those rules shall include provision with regard to—
+**30.**[^c10495831][^c-97d2c904fad6e15247d15c3fb006808c] The General Council shall by rules make provision with regard to the constitution of the Investigating Committee, and those rules shall include provision with regard to—
 
 - (a) its size and membership;
 - (b) its chair, including the deputising arrangements for its chair; and
 - (c) the quorum at its meetings.
 
-**30A.**[^key-37325b0398788b588683ee4267e38b05] Where rules under paragraph 30 provide for one or more panels of members of the Investigating Committee to perform functions of the Committee, the provision required by paragraph 30(c) includes provision with regard to the quorum at meetings of those panels.
+**30A.**[^c-37325b0398788b588683ee4267e38b05] Where rules under paragraph 30 provide for one or more panels of members of the Investigating Committee to perform functions of the Committee, the provision required by paragraph 30(c) includes provision with regard to the quorum at meetings of those panels.
 
-**31.**[^key-c30357b91efdb91784ec2827b205188b][^c10495841] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-c30357b91efdb91784ec2827b205188b][^c10495841] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**32.**[^key-0dcd0398379c00a3292797fbe8e478ae][^c10495851] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-0dcd0398379c00a3292797fbe8e478ae][^c10495851] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.**[^key-80fc7fc9f1591065787437d1defe7197][^c10495861] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-80fc7fc9f1591065787437d1defe7197][^c10495861] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Professional Conduct Committee
 
-**34.**[^c10495871][^key-858bfa4f5cc8028f7b3b20e697467e9d] The General Council shall by rules make provision with regard to the constitution of the Professional Conduct Committee, and those rules shall include provision with regard to—
+**34.**[^c10495871][^c-858bfa4f5cc8028f7b3b20e697467e9d] The General Council shall by rules make provision with regard to the constitution of the Professional Conduct Committee, and those rules shall include provision with regard to—
 
 - (a) its size and membership;
 - (b) its chair, including the deputising arrangements for its chair; and
 - (c) the quorum at its meetings.
 
-**34A.**[^key-d7041005e34ffbf0ece46a6632a424b0] Where rules under paragraph 34 provide for one or more panels of members of the Professional Conduct Committee to perform functions of the Committee, the provision required by paragraph 34(c) includes provision with regard to the quorum at meetings of those panels.
+**34A.**[^c-d7041005e34ffbf0ece46a6632a424b0] Where rules under paragraph 34 provide for one or more panels of members of the Professional Conduct Committee to perform functions of the Committee, the provision required by paragraph 34(c) includes provision with regard to the quorum at meetings of those panels.
 
-**34B.**[^key-29b04163cfb675dddb0e331746a8c277] In exercising a function under section 8 or 22, the Professional Conduct Committee (or any panel by which the function is exercisable as mentioned in paragraph 34A) must have regard to the over-arching objective of the General Council under section 1(3A) (read with section 1(3B)).
+**34B.**[^c-29b04163cfb675dddb0e331746a8c277] In exercising a function under section 8 or 22, the Professional Conduct Committee (or any panel by which the function is exercisable as mentioned in paragraph 34A) must have regard to the over-arching objective of the General Council under section 1(3A) (read with section 1(3B)).
 
-**35.**[^key-4bdb8cb52107f9fc40ded60ac54a4538][^c10495881] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-4bdb8cb52107f9fc40ded60ac54a4538][^c10495881] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**36.**[^key-7efe9317864b9f2b4c3d601ca8dfe612][^c10495891] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-7efe9317864b9f2b4c3d601ca8dfe612][^c10495891] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**37.**[^key-cbee4cd5cf83b1f81d20f603faa57c95][^c10495901] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-cbee4cd5cf83b1f81d20f603faa57c95][^c10495901] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Health Committee
 
-**38.**[^c10495911][^key-ce971ff07b5e27a0cc6becb52bde80b9] The General Council shall by rules make provision with regard to the constitution of the Health Committee, and those rules shall include provision with regard to—
+**38.**[^c10495911][^c-ce971ff07b5e27a0cc6becb52bde80b9] The General Council shall by rules make provision with regard to the constitution of the Health Committee, and those rules shall include provision with regard to—
 
 - (a) its size and membership;
 - (b) its chair, including the deputising arrangements for its chair; and
 - (c) the quorum at its meetings.
 
-**38A.**[^key-dd8cae4838fa47e8049caa038f2ec02d] Where rules under paragraph 38 provide for one or more panels of members of the Health Committee to perform functions of the Committee, the provision required by paragraph 38(c) includes provision with regard to the quorum at meetings of those panels.
+**38A.**[^c-dd8cae4838fa47e8049caa038f2ec02d] Where rules under paragraph 38 provide for one or more panels of members of the Health Committee to perform functions of the Committee, the provision required by paragraph 38(c) includes provision with regard to the quorum at meetings of those panels.
 
-**38B.**[^key-fead01621fa01266d680fe4a14d2e432] In exercising a function under section 23, the Health Committee (or any panel by which the function is exercisable as mentioned in paragraph 38A) must have regard to the over-arching objective of the General Council under section 1(3A) (read with section 1(3B)).
+**38B.**[^c-fead01621fa01266d680fe4a14d2e432] In exercising a function under section 23, the Health Committee (or any panel by which the function is exercisable as mentioned in paragraph 38A) must have regard to the over-arching objective of the General Council under section 1(3A) (read with section 1(3B)).
 
-**39.**[^key-6488bec9ef75eb8c5dc2ee3a5dbf1305][^c10495921] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**39.**[^c-6488bec9ef75eb8c5dc2ee3a5dbf1305][^c10495921] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**40.**[^key-eb7f5294b84b731bd8a6e297d5501bc3][^c10495931] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-eb7f5294b84b731bd8a6e297d5501bc3][^c10495931] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**41.**[^key-29e90f29b0a3339eab154096efd76d37][^c10495941] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41.**[^c-29e90f29b0a3339eab154096efd76d37][^c10495941] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part III — Transitional Provisions
 
@@ -343,23 +343,23 @@ Sections 1 and 42(3).
 
 ## Annotations
 
-[^key-e60dd753a0824aa00fb1d63bb461da45]: Textual amendment: Sch. Pt. I paras. 1A-1D substituted for Sch. paras. 1-14 (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(2)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/2); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
+[^c-e60dd753a0824aa00fb1d63bb461da45]: Textual amendment: Sch. Pt. I paras. 1A-1D substituted for Sch. paras. 1-14 (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(2)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/2); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
 
 [^c10495691]: Modification: Sch. Pt. I para. 5 modified (14.1.1997) by [S.I. 1997/34](https://www.legislation.gov.uk/uksi/1997/34), [art. 3(a)](https://www.legislation.gov.uk/uksi/1997/34/article/3/a)
 
 [^c10495701]: Commencement: Sch. Pt I para. 14 wholly in force at 3.3.2002; Sch. Pt. I para. 14 not in force at Royal Assent see s. 42(2)(4)(5); Sch. Pt. I para. 14(2)(3)(a)-(c) in force at 14.1.1997 by [S.I. 1997/34](https://www.legislation.gov.uk/uksi/1997/34), [art. 2](https://www.legislation.gov.uk/uksi/1997/34/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/34/schedule); Sch. Pt. I para. 14(5)(b) in force at 1.4.1998 by [S.I. 1998/872](https://www.legislation.gov.uk/uksi/1998/872), [art. 2(1)(j)](https://www.legislation.gov.uk/uksi/1998/872/article/2/1/j); Sch. Pt. I para. 14(1)(3)(d)(4)(5)(a) in force at 3.3.2002 in so far as not already in force, by [S.I. 2002/500](https://www.legislation.gov.uk/uksi/2002/500), [art. 2](https://www.legislation.gov.uk/uksi/2002/500/article/2)
 
-[^key-aba5c3fcb74a3932b7afc8445c7371e1]: Textual amendment: Sch. para. 1A(4) omitted (31.10.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 20 para. 6(d)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/20/paragraph/6/d); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/3)
+[^c-aba5c3fcb74a3932b7afc8445c7371e1]: Textual amendment: Sch. para. 1A(4) omitted (31.10.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 20 para. 6(d)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/20/paragraph/6/d); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/3)
 
 [^c10495721]: Textual amendment: Sch. Pt. I para. 15(2)(ee) inserted (5.7.1994) by [1994 c. 17](https://www.legislation.gov.uk/ukpga/1994/17), [s. 42](https://www.legislation.gov.uk/ukpga/1994/17/section/42), [Sch. 2 para. 10(2)(4)](https://www.legislation.gov.uk/ukpga/1994/17/schedule/2/paragraph/10/2/4)
 
-[^key-2231ad6b655125cc9037dab1c8a6b908]: Textual amendment: Sch. para. 15(2A) inserted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(3)(a)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/3/a); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
+[^c-2231ad6b655125cc9037dab1c8a6b908]: Textual amendment: Sch. para. 15(2A) inserted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(3)(a)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/3/a); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
 
-[^key-9774411c261c9c88c034e1e97afce417]: Textual amendment: Sch. paras. 15(3)(4) omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(3)(b)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/3/b); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
+[^c-9774411c261c9c88c034e1e97afce417]: Textual amendment: Sch. paras. 15(3)(4) omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(3)(b)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/3/b); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
 
 [^c10495731]: Commencement: Sch. Pt. II para. 16 wholly in force at 8.3.2000; Sch. Pt. II para. 16 not in force at Royal Assent see s. 42(2)(4)(5); Sch. Pt. II para. 16 in force for specified purposes at 1.4.1998 by [S.I. 1998/872](https://www.legislation.gov.uk/uksi/1998/872), [art. 2(1)(j)(2)(b)](https://www.legislation.gov.uk/uksi/1998/872/article/2/1/j/2/b); Sch. Pt. II para. 16 in force for further specified purposes at 5.7.1999 by [S.I. 1999/1767](https://www.legislation.gov.uk/uksi/1999/1767), [art. 2(i)(i)](https://www.legislation.gov.uk/uksi/1999/1767/article/2/i/i); Sch. Pt. II para. 16 in force at 8.3.2000 insofar as not already in force by [S.I. 2000/217](https://www.legislation.gov.uk/uksi/2000/217), [art. 2](https://www.legislation.gov.uk/uksi/2000/217/article/2)
 
-[^key-be18db77df0289690718953f2f3134f1]: Textual amendment: Sch. Pt. II para. 16(1) omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(4)(a)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/4/a); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
+[^c-be18db77df0289690718953f2f3134f1]: Textual amendment: Sch. Pt. II para. 16(1) omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(4)(a)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/4/a); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
 
 [^M_F_a2bfadf0-036b-446f-d514-3df41269353d]: Textual amendment: Words in Sch. Pt. II para. 16(2) inserted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(4)(b)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/4/a); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
 
@@ -369,7 +369,7 @@ Sections 1 and 42(3).
 
 [^c10495751]: Commencement: Sch. Pt. II para. 18 wholly in force at 8.3.2000; Sch. Pt. II para. 18 not in force at Royal Assent see s. 42(2)(4)(5); Sch. Pt. II para. 18 in force for specified purposes at 1.4.1998 by [S.I. 1998/872](https://www.legislation.gov.uk/uksi/1998/872), [art. 2(1)(j)(2)(b)](https://www.legislation.gov.uk/uksi/1998/872/article/2/1/j/2/b); Sch. Pt. II para. 18 in force for certain purposes at 5.7.1999 by 1999/1767, art. 2(h)(i); Sch. Pt. II para. 18 in force at 8.3.2000 insofar as not already in force by [S.I. 2000/217](https://www.legislation.gov.uk/uksi/2000/217), [art. 2](https://www.legislation.gov.uk/uksi/2000/217/article/2)
 
-[^key-15ade1b2a8fb8a5e05cca702beda24a8]: Textual amendment: Sch. para. 19 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(5)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/5); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
+[^c-15ade1b2a8fb8a5e05cca702beda24a8]: Textual amendment: Sch. para. 19 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(5)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/5); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
 
 [^c10495761]: Commencement: Sch. Pt. II para. 19 wholly in force at 8.3.2000; Sch. Pt. II para. 19 not in force at Royal Assent see s. 42(2)(4)(5); Sch. Pt. II para. 19 in force for specified purposes at 1.4.1998 by [S.I. 1998/872](https://www.legislation.gov.uk/uksi/1998/872), [art. 2(1)(j)(2)(b)](https://www.legislation.gov.uk/uksi/1998/872/article/2/1/j/2/b); Sch. Pt. II para 19 in force for certain purposes at 5.7.1999 by [S.I. 1999/1767](https://www.legislation.gov.uk/uksi/1999/1767), [art. 2(i)(i)](https://www.legislation.gov.uk/uksi/1999/1767/article/2/i/i); Sch. Pt. II para. 19 in force at 8.3.2000 insofar as not already in force by [S.I. 2000/217](https://www.legislation.gov.uk/uksi/2000/217), [art. 2](https://www.legislation.gov.uk/uksi/2000/217/article/2)
 
@@ -377,11 +377,11 @@ Sections 1 and 42(3).
 
 [^c10495781]: Commencement: Sch. Pt. II para. 21 wholly in force at 8.3.2000; Sch. Pt. II para. 21 not in force at Royal Assent see s. 42(2)(4)(5); Sch. Pt. II para. 21 in force for specified purposes at 1.4.1998 by [S.I. 1998/872](https://www.legislation.gov.uk/uksi/1998/872), [art. 2(1)(j)(2)(b)](https://www.legislation.gov.uk/uksi/1998/872/article/2/1/j/2/b); Sch. Pt. II para. 21 in force for certain purposes at 5.7.1999 by [S.I. 1999/1767](https://www.legislation.gov.uk/uksi/1999/1767), [art. 2(i)(i)](https://www.legislation.gov.uk/uksi/1999/1767/article/2/i/i); Sch. Pt. II para. 21 in force at 8.3.2000 insofar as not already in force by [S.I. 2000/217](https://www.legislation.gov.uk/uksi/2000/217), [art. 2](https://www.legislation.gov.uk/uksi/2000/217/article/2)
 
-[^key-ed6cd85867b9478a1eb5cc80b1fa4986]: Textual amendment: Word in Sch. Pt. II para. 21(1) substituted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(6)(a)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/6/a); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
+[^c-ed6cd85867b9478a1eb5cc80b1fa4986]: Textual amendment: Word in Sch. Pt. II para. 21(1) substituted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(6)(a)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/6/a); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
 
 [^c10495791]: Textual amendment: Words in Sch. Pt. II para. 21(2) substituted (5.7.1994) by [1994 c. 17](https://www.legislation.gov.uk/ukpga/1994/17), [s. 42](https://www.legislation.gov.uk/ukpga/1994/17/section/42), [Sch. 2 para. 10(3)](https://www.legislation.gov.uk/ukpga/1994/17/schedule/2/paragraph/10/3)
 
-[^key-cf76f73c136f9d93dca67b3830727516]: Textual amendment: Words in Sch. Pt. II para. 21(2) inserted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(6)(b)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/6/b); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
+[^c-cf76f73c136f9d93dca67b3830727516]: Textual amendment: Words in Sch. Pt. II para. 21(2) inserted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(6)(b)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/6/b); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
 
 [^c10495801]: Commencement: Sch. Pt. II para. 22 wholly in force at 8.3.2000; Sch. Pt. II para. 22 not in force at Royal Assent see s. 42(2)(4)(5); Sch. Pt. II para. 22 in force for specified purposes at 1.4.1998 by [S.I. 1998/872](https://www.legislation.gov.uk/uksi/1998/872), [art. 2(1)(j)(2)(b)](https://www.legislation.gov.uk/uksi/1998/872/article/2/1/j/2/b); Sch. Pt. II para. 22 in force for certain purposes at 5.7.1999 by [S.I. 1999/1767](https://www.legislation.gov.uk/uksi/1999/1767), [art. 2(i)(i)](https://www.legislation.gov.uk/uksi/1999/1767/article/2/i/i); Sch. Pt. II para. 22 in force at 8.3.2000 insofar as not already in force by [S.I. 2000/217](https://www.legislation.gov.uk/uksi/2000/217), [art. 2](https://www.legislation.gov.uk/uksi/2000/217/article/2)
 
@@ -389,70 +389,70 @@ Sections 1 and 42(3).
 
 [^c10495821]: Commencement: Sch. Pt. II para. 24 wholly in force at 8.3.2000; Sch. Pt. II para. 24 not in force at Royal Assent see s. 42(2)(4)(5); Sch. Pt. II para. 24(1) in force for specified purposes at 1.4.1998 by [S.I. 1998/872](https://www.legislation.gov.uk/uksi/1998/872), [art. 2(1)(j)(2)(b)](https://www.legislation.gov.uk/uksi/1998/872/article/2/1/j/2/b); Sch. Pt. II para. 24(1) in force for certain purposes at 5.7.1999 by [S.I. 1999/1767](https://www.legislation.gov.uk/uksi/1999/1767), [art. 2(i)(i)](https://www.legislation.gov.uk/uksi/1999/1767/article/2/i/i); Sch. Pt. II para. 24 in force at 8.3.2000 insofar as not already in force by [S.I. 2000/217](https://www.legislation.gov.uk/uksi/2000/217), [art. 2](https://www.legislation.gov.uk/uksi/2000/217/article/2)
 
-[^key-d0de550cb8bee2b4534c53563b696925]: Textual amendment: Sch. para. 25 substituted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(7)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/7); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
+[^c-d0de550cb8bee2b4534c53563b696925]: Textual amendment: Sch. para. 25 substituted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(7)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/7); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
 
-[^key-546aa0390b18fcca87c1f7a6f70b7040]: Textual amendment: Sch. para. 26 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(8)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/8); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
+[^c-546aa0390b18fcca87c1f7a6f70b7040]: Textual amendment: Sch. para. 26 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(8)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/8); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
 
-[^key-95421d86694763d563f49c372eca8f99]: Textual amendment: Sch. para. 27 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(8)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/8); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
+[^c-95421d86694763d563f49c372eca8f99]: Textual amendment: Sch. para. 27 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(8)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/8); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
 
-[^key-887727d385c440bd43672d21b8bf75b7]: Textual amendment: Sch. para. 28 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(8)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/8); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
+[^c-887727d385c440bd43672d21b8bf75b7]: Textual amendment: Sch. para. 28 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(8)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/8); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
 
-[^key-4a35bb72fe2b157d6b569611cfe726d5]: Textual amendment: Sch. para. 29 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(8)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/8); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
+[^c-4a35bb72fe2b157d6b569611cfe726d5]: Textual amendment: Sch. para. 29 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(8)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/8); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
 
 [^c10495831]: Commencement: Sch. Pt. II para. 30 wholly in force at 5.7.1999; Sch. Pt. II para. 30 not in force at Royal Assent see s. 42(2)(4)(5); Sch. Pt. II para. 30 in force for specified purposes at 1.4.1998 by [S.I. 1998/872](https://www.legislation.gov.uk/uksi/1998/872), [art. 2(1)(j)(2)(b)](https://www.legislation.gov.uk/uksi/1998/872/article/2/1/j/2/b); Sch. Pt. II para. 30 in force at 5.7.1999 insofar as not already in force by S.I 1999/1767, art. 2(h)(ii).
 
-[^key-97d2c904fad6e15247d15c3fb006808c]: Textual amendment: Sch. para. 30 substituted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(9)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/9); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
+[^c-97d2c904fad6e15247d15c3fb006808c]: Textual amendment: Sch. para. 30 substituted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(9)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/9); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
 
-[^key-37325b0398788b588683ee4267e38b05]: Textual amendment: Sch. para. 30A inserted (14.5.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/f), [Sch. 5 para. 1(a)](https://www.legislation.gov.uk/uksi/2009/1182/schedule/5/paragraph/1/a) (with [arts. 9](https://www.legislation.gov.uk/uksi/2009/1182/article/9), [10](https://www.legislation.gov.uk/uksi/2009/1182/article/10))
+[^c-37325b0398788b588683ee4267e38b05]: Textual amendment: Sch. para. 30A inserted (14.5.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/f), [Sch. 5 para. 1(a)](https://www.legislation.gov.uk/uksi/2009/1182/schedule/5/paragraph/1/a) (with [arts. 9](https://www.legislation.gov.uk/uksi/2009/1182/article/9), [10](https://www.legislation.gov.uk/uksi/2009/1182/article/10))
 
-[^key-c30357b91efdb91784ec2827b205188b]: Textual amendment: Sch. para. 31 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(10)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/10); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
+[^c-c30357b91efdb91784ec2827b205188b]: Textual amendment: Sch. para. 31 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(10)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/10); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
 
 [^c10495841]: Commencement: Sch. Pt. II para. 31 wholly in force at 5.7.1999; Sch. Pt. II para. 31 not in force at Royal Assent see s. 42(2)(4)(5); Sch. Pt. II para. 31 in force for specified purposes at 1.4.1998 by [S.I. 1998/872](https://www.legislation.gov.uk/uksi/1998/872), [art. 2(1)(j)(2)(b)](https://www.legislation.gov.uk/uksi/1998/872/article/2/1/j/2/b); Sch. Pt. II para. 31 in force at 5.7.1999 insofar as not already in force by [S.I. 1999/1767](https://www.legislation.gov.uk/uksi/1999/1767), [art. 2(h)(ii)](https://www.legislation.gov.uk/uksi/1999/1767/article/2/h/ii)
 
-[^key-0dcd0398379c00a3292797fbe8e478ae]: Textual amendment: Sch. para. 32 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(10)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/10); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
+[^c-0dcd0398379c00a3292797fbe8e478ae]: Textual amendment: Sch. para. 32 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(10)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/10); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
 
 [^c10495851]: Commencement: Sch. Pt. II para. 32 wholly in force at 5.7.1999; Sch. Pt. II para. 32 not in force at Royal Assent see s. 42(2)(4)(5); Sch. Pt. II para. 32 in force for specified purposes at 1.4.1998 by [S.I. 1998/872](https://www.legislation.gov.uk/uksi/1998/872), [art. 2(1)(j)(2)(b)](https://www.legislation.gov.uk/uksi/1998/872/article/2/1/j/2/b); Sch. Pt II para. 32 in force at 5.7.1999 insofar as not already in force by [S.I. 1999/1767](https://www.legislation.gov.uk/uksi/1999/1767), [art. 2(h)(ii)](https://www.legislation.gov.uk/uksi/1999/1767/article/2/h/ii).
 
-[^key-80fc7fc9f1591065787437d1defe7197]: Textual amendment: Sch. para. 33 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(10)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/10); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
+[^c-80fc7fc9f1591065787437d1defe7197]: Textual amendment: Sch. para. 33 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(10)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/10); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
 
 [^c10495861]: Commencement: Sch. Pt. II para. 33 wholly in force at 5.7.1999; Sch. Pt. II para. 33 not in force at Royal Assent see s. 42(2)(4)(5); Sch. Pt. II para. 33 in force for specified purposes at 1.4.1998 by [S.I. 1998/872](https://www.legislation.gov.uk/uksi/1998/872), [art. 2(1)(j)(2)(b)](https://www.legislation.gov.uk/uksi/1998/872/article/2/1/j/2/b); Sch. Pt II para 33 in force at 5.7.1999 insofar as not already in force by [S.I. 1999/1767](https://www.legislation.gov.uk/uksi/1999/1767), [art. 2](https://www.legislation.gov.uk/uksi/1999/1767/article/2) (h)(ii).
 
 [^c10495871]: Commencement: Sch. Pt. II para. 34 wholly in force at 8.3.2000; Sch. Pt. II para. 34 not in force at Royal Assent see s. 42(2)(4)(5); Sch. Pt. II para. 34 in force for specified purposes at 1.4.1998 by [S.I. 1998/872](https://www.legislation.gov.uk/uksi/1998/872), [art. 2(1)(j)(2)(b)](https://www.legislation.gov.uk/uksi/1998/872/article/2/1/j/2/b); Sch. Pt. II para. 34 in force at 8.3.2000 insofar as not already in force by [S.I. 2000/217](https://www.legislation.gov.uk/uksi/2000/217), [art. 2](https://www.legislation.gov.uk/uksi/2000/217/article/2)
 
-[^key-858bfa4f5cc8028f7b3b20e697467e9d]: Textual amendment: Sch. para. 34 substituted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(11)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/11); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
+[^c-858bfa4f5cc8028f7b3b20e697467e9d]: Textual amendment: Sch. para. 34 substituted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(11)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/11); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
 
-[^key-d7041005e34ffbf0ece46a6632a424b0]: Textual amendment: Sch. para. 34A inserted (14.5.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/f), [Sch. 5 para. 1(b)](https://www.legislation.gov.uk/uksi/2009/1182/schedule/5/paragraph/1/b) (with [arts. 9](https://www.legislation.gov.uk/uksi/2009/1182/article/9), [10](https://www.legislation.gov.uk/uksi/2009/1182/article/10))
+[^c-d7041005e34ffbf0ece46a6632a424b0]: Textual amendment: Sch. para. 34A inserted (14.5.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/f), [Sch. 5 para. 1(b)](https://www.legislation.gov.uk/uksi/2009/1182/schedule/5/paragraph/1/b) (with [arts. 9](https://www.legislation.gov.uk/uksi/2009/1182/article/9), [10](https://www.legislation.gov.uk/uksi/2009/1182/article/10))
 
-[^key-29b04163cfb675dddb0e331746a8c277]: Textual amendment: [Sch. para. 34B](https://www.legislation.gov.uk/ukpga/1993/21/schedule/paragraph/34B) inserted (26.9.2016) by [Health and Social Care (Safety and Quality) Act 2015 (c. 28)](https://www.legislation.gov.uk/ukpga/2015/28), [s. 6(4)](https://www.legislation.gov.uk/ukpga/2015/28/section/6/4), [Sch. para. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/3/3/a); [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)
+[^c-29b04163cfb675dddb0e331746a8c277]: Textual amendment: [Sch. para. 34B](https://www.legislation.gov.uk/ukpga/1993/21/schedule/paragraph/34B) inserted (26.9.2016) by [Health and Social Care (Safety and Quality) Act 2015 (c. 28)](https://www.legislation.gov.uk/ukpga/2015/28), [s. 6(4)](https://www.legislation.gov.uk/ukpga/2015/28/section/6/4), [Sch. para. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/3/3/a); [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)
 
-[^key-4bdb8cb52107f9fc40ded60ac54a4538]: Textual amendment: Sch. para. 35 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(12)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/12); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
+[^c-4bdb8cb52107f9fc40ded60ac54a4538]: Textual amendment: Sch. para. 35 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(12)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/12); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
 
 [^c10495881]: Commencement: Sch. Pt. II para. 35 wholly in force at 8.3.2000; Sch. Pt. II para. 35 not in force at Royal Assent see s. 42(2)(4)(5); Sch. Pt. II para. 35 in force for specified purposes at 1.4.1998 by [S.I. 1998/872](https://www.legislation.gov.uk/uksi/1998/872), [art. 2(1)(j)(2)(b)](https://www.legislation.gov.uk/uksi/1998/872/article/2/1/j/2/b); Sch. Pt. II para. 35 in force at 8.3.2000 insofar as not already in force by [S.I. 2000/217](https://www.legislation.gov.uk/uksi/2000/217), [art. 2](https://www.legislation.gov.uk/uksi/2000/217/article/2)
 
-[^key-7efe9317864b9f2b4c3d601ca8dfe612]: Textual amendment: Sch. para. 36 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(12)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/12); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
+[^c-7efe9317864b9f2b4c3d601ca8dfe612]: Textual amendment: Sch. para. 36 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(12)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/12); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
 
 [^c10495891]: Commencement: Sch. Pt. II para. 36 wholly in force at 8.3.2000; Sch. Pt. II para. 36 not in force at Royal Assent see s. 42(2)(4)(5); Sch. Pt. II para. 36 in force for specified purposes at 1.4.1998 by [S.I. 1998/872](https://www.legislation.gov.uk/uksi/1998/872), [art. 2(1)(j)(2)(b)](https://www.legislation.gov.uk/uksi/1998/872/article/2/1/j/2/b); Sch. Pt. II para. 36 in force at 8.3.2000 insofar as not already in force by [S.I. 2000/217](https://www.legislation.gov.uk/uksi/2000/217), [art. 2](https://www.legislation.gov.uk/uksi/2000/217/article/2)
 
-[^key-cbee4cd5cf83b1f81d20f603faa57c95]: Textual amendment: Sch. para. 37 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(12)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/12); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
+[^c-cbee4cd5cf83b1f81d20f603faa57c95]: Textual amendment: Sch. para. 37 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(12)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/12); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
 
 [^c10495901]: Commencement: Sch. Pt. II para. 37 wholly in force at 8.3.2000; Sch. Pt. II para. 37 not in force at Royal Assent see s. 42(2)(4)(5); Sch. Pt. II para. 37 in force for specified purposes at 1.4.1998 by [S.I. 1998/872](https://www.legislation.gov.uk/uksi/1998/872), [art. 2(1)(j)(2)(b)](https://www.legislation.gov.uk/uksi/1998/872/article/2/1/j/2/b); Sch. Pt. II para. 37 in force at 8.3.2000 insofar as not already in force by [S.I. 2000/217](https://www.legislation.gov.uk/uksi/2000/217), [art. 2](https://www.legislation.gov.uk/uksi/2000/217/article/2)
 
 [^c10495911]: Commencement: Sch. Pt. II para. 38 wholly in force at 8.3.2000; Sch. Pt. II para. 38 not in force at Royal Assent see s. 42(2)(4)(5); Sch. Pt. II para. 38 in force for specified purposes at 1.4.1998 by [S.I. 1998/872](https://www.legislation.gov.uk/uksi/1998/872), [art. 2(1)(j)(2)(b)](https://www.legislation.gov.uk/uksi/1998/872/article/2/1/j/2/b); Sch. Pt. II para. 38 in force at 8.3.2000 insofar as not already in force by [S.I. 2000/217](https://www.legislation.gov.uk/uksi/2000/217), [art. 2](https://www.legislation.gov.uk/uksi/2000/217/article/2)
 
-[^key-ce971ff07b5e27a0cc6becb52bde80b9]: Textual amendment: Sch. para. 38 substituted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(13)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/13); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
+[^c-ce971ff07b5e27a0cc6becb52bde80b9]: Textual amendment: Sch. para. 38 substituted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(13)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/13); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
 
-[^key-dd8cae4838fa47e8049caa038f2ec02d]: Textual amendment: Sch. para. 38A inserted (14.5.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/f), [Sch. 5 para. 1(c)](https://www.legislation.gov.uk/uksi/2009/1182/schedule/5/paragraph/1/c) (with [arts. 9](https://www.legislation.gov.uk/uksi/2009/1182/article/9), [10](https://www.legislation.gov.uk/uksi/2009/1182/article/10))
+[^c-dd8cae4838fa47e8049caa038f2ec02d]: Textual amendment: Sch. para. 38A inserted (14.5.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/f), [Sch. 5 para. 1(c)](https://www.legislation.gov.uk/uksi/2009/1182/schedule/5/paragraph/1/c) (with [arts. 9](https://www.legislation.gov.uk/uksi/2009/1182/article/9), [10](https://www.legislation.gov.uk/uksi/2009/1182/article/10))
 
-[^key-fead01621fa01266d680fe4a14d2e432]: Textual amendment: [Sch. para. 38B](https://www.legislation.gov.uk/ukpga/1993/21/schedule/paragraph/38B) inserted (26.9.2016) by [Health and Social Care (Safety and Quality) Act 2015 (c. 28)](https://www.legislation.gov.uk/ukpga/2015/28), [s. 6(4)](https://www.legislation.gov.uk/ukpga/2015/28/section/6/4), [Sch. para. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/3/3/b); [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)
+[^c-fead01621fa01266d680fe4a14d2e432]: Textual amendment: [Sch. para. 38B](https://www.legislation.gov.uk/ukpga/1993/21/schedule/paragraph/38B) inserted (26.9.2016) by [Health and Social Care (Safety and Quality) Act 2015 (c. 28)](https://www.legislation.gov.uk/ukpga/2015/28), [s. 6(4)](https://www.legislation.gov.uk/ukpga/2015/28/section/6/4), [Sch. para. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/3/3/b); [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)
 
-[^key-6488bec9ef75eb8c5dc2ee3a5dbf1305]: Textual amendment: Sch. para. 39 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(14)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/14); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
+[^c-6488bec9ef75eb8c5dc2ee3a5dbf1305]: Textual amendment: Sch. para. 39 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(14)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/14); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
 
 [^c10495921]: Commencement: Sch. Pt. II para. 39 wholly in force at 8.3.2000; Sch. Pt. II para. 39 not in force at Royal Assent see s. 42(2)(4)(5); Sch. Pt. II para. 39 in force for specified purposes at 1.4.1998 by [S.I. 1998/872](https://www.legislation.gov.uk/uksi/1998/872), [art. 2(1)(j)(2)(b)](https://www.legislation.gov.uk/uksi/1998/872/article/2/1/j/2/b); Sch. Pt. II para. 39 in force at 8.3.2000 insofar as not already in force by [S.I. 2000/217](https://www.legislation.gov.uk/uksi/2000/217), [art. 2](https://www.legislation.gov.uk/uksi/2000/217/article/2)
 
-[^key-eb7f5294b84b731bd8a6e297d5501bc3]: Textual amendment: Sch. para. 40 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(14)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/14); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
+[^c-eb7f5294b84b731bd8a6e297d5501bc3]: Textual amendment: Sch. para. 40 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(14)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/14); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
 
 [^c10495931]: Commencement: Sch. Pt. II para. 40 wholly in force at 8.3.2000; Sch. Pt. II para. 40 not in force at Royal Assent see s. 42(2)(4)(5); Sch. Pt. II para. 40 in force for specified purposes at 1.4.1998 by [S.I. 1998/872](https://www.legislation.gov.uk/uksi/1998/872), [art. 2(1)(j)(2)(b)](https://www.legislation.gov.uk/uksi/1998/872/article/2/1/j/2/b); Sch. Pt. II para. 40 in force at 8.3.2000 insofar as not already in force by [S.I. 2000/217](https://www.legislation.gov.uk/uksi/2000/217), [art. 2](https://www.legislation.gov.uk/uksi/2000/217/article/2)
 
-[^key-29e90f29b0a3339eab154096efd76d37]: Textual amendment: Sch. para. 41 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(14)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/14); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
+[^c-29e90f29b0a3339eab154096efd76d37]: Textual amendment: Sch. para. 41 omitted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 3 para. 9(14)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/3/paragraph/9/14); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/b/i)
 
 [^c10495941]: Commencement: Sch. Pt. II para. 41 wholly in force at 8.3.2000; Sch. Pt. II para. 41 not in force at Royal Assent see s. 42(2)(4)(5); Sch. Pt. II para. 41 in force for specified purposes at 1.4.1998 by [S.I. 1998/872](https://www.legislation.gov.uk/uksi/1998/872), [art. 2(1)(j)(2)(b)](https://www.legislation.gov.uk/uksi/1998/872/article/2/1/j/2/b); Sch. Pt. II para. 41 in force at 8.3.2000 insofar as not already in force by [S.I. 2000/217](https://www.legislation.gov.uk/uksi/2000/217), [art. 2](https://www.legislation.gov.uk/uksi/2000/217/article/2)

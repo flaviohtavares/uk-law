@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W*
 
-Regulations shall make provision for the payment by the Secretary of State to persons other than local authorities[^key-df82d42709314c7296748c08b3554faa] of grants in respect of expenditure incurred or to be incurred by them—
+Regulations shall make provision for the payment by the Secretary of State to persons other than local authorities[^c-df82d42709314c7296748c08b3554faa] of grants in respect of expenditure incurred or to be incurred by them—
 
 - (a) for the purposes of, or in connection with, the provision (or proposed provision) of educational services, or
 - (b) for the purposes of educational research.
 
 ## Annotations
 
-[^key-df82d42709314c7296748c08b3554faa]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/3) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-df82d42709314c7296748c08b3554faa]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/3) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))

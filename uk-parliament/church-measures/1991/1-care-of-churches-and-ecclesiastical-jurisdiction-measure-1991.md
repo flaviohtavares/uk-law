@@ -33,43 +33,43 @@ A Measure passed by the General Synod of the Church of England to make provision
 
 \[25th July 1991\] [^c922796]
 
-## Part I — GENERAL PRINCIPLE[^key-61a0da106548fcaf2a1e7486e07a10e4]
+## Part I — GENERAL PRINCIPLE[^c-61a0da106548fcaf2a1e7486e07a10e4]
 
 **No longer in force.**
 
-### 1. Duty to have regard to church’s purpose.[^key-61a0da106548fcaf2a1e7486e07a10e4]
+### 1. Duty to have regard to church’s purpose.[^c-61a0da106548fcaf2a1e7486e07a10e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part II — CARE, INSPECTION AND ACCOUNTABILITY[^key-b30470cb86511a449dab7be82d0ad7f2]
+## Part II — CARE, INSPECTION AND ACCOUNTABILITY[^c-b30470cb86511a449dab7be82d0ad7f2]
 
 **No longer in force.**
 
-### 2. Diocesan advisory committees.[^key-b30470cb86511a449dab7be82d0ad7f2]
+### 2. Diocesan advisory committees.[^c-b30470cb86511a449dab7be82d0ad7f2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment of Inspection of Churches Measure 1955.[^key-b30470cb86511a449dab7be82d0ad7f2]
+### 3. Amendment of Inspection of Churches Measure 1955.[^c-b30470cb86511a449dab7be82d0ad7f2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Duties of churchwardens as to recording of information about churches.[^key-b30470cb86511a449dab7be82d0ad7f2]
+### 4. Duties of churchwardens as to recording of information about churches.[^c-b30470cb86511a449dab7be82d0ad7f2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Duties of churchwardens as to fabric etc. of churches.[^key-b30470cb86511a449dab7be82d0ad7f2]
+### 5. Duties of churchwardens as to fabric etc. of churches.[^c-b30470cb86511a449dab7be82d0ad7f2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Provisions relating to trees in churchyards.[^key-b30470cb86511a449dab7be82d0ad7f2]
+### 6. Provisions relating to trees in churchyards.[^c-b30470cb86511a449dab7be82d0ad7f2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Payment of expenses in connection with ruins.[^key-b30470cb86511a449dab7be82d0ad7f2]
+### 7. Payment of expenses in connection with ruins.[^c-b30470cb86511a449dab7be82d0ad7f2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part III — ECCLESIASTICAL JURISDICTION[^key-aff3d6090a4499c28b299f28b2e09e41][^key-5853a8fc932c7496cd5b6cbee3c12b79]
+## Part III — ECCLESIASTICAL JURISDICTION[^c-aff3d6090a4499c28b299f28b2e09e41][^c-5853a8fc932c7496cd5b6cbee3c12b79]
 
 ### 8. Amendment of Ecclesiastical Jurisdiction Measure 1963.
 
@@ -77,85 +77,85 @@ A Measure passed by the General Synod of the Church of England to make provision
 
 (2) The amendment made by paragraph 2(c)(ii) of that Schedule (which relates to the retirement age of chancellors) shall not have effect in relation to any appointment to the office of chancellor of a diocese made before the coming into operation of that amendment.
 
-### 9. Amendment of Ecclesiastical Judges and Legal Officers Measure 1976.[^key-ce8308572893cf06a3ad53b6b0840510]
+### 9. Amendment of Ecclesiastical Judges and Legal Officers Measure 1976.[^c-ce8308572893cf06a3ad53b6b0840510]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Amendment of Ecclesiastical Fees Measure 1986.[^key-ce8308572893cf06a3ad53b6b0840510]
+### 10. Amendment of Ecclesiastical Fees Measure 1986.[^c-ce8308572893cf06a3ad53b6b0840510]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. General provisions as to faculty jurisdiction.[^key-ce8308572893cf06a3ad53b6b0840510]
+### 11. General provisions as to faculty jurisdiction.[^c-ce8308572893cf06a3ad53b6b0840510]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Grant of faculties, etc.[^key-ce8308572893cf06a3ad53b6b0840510]
+### 12. Grant of faculties, etc.[^c-ce8308572893cf06a3ad53b6b0840510]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Orders against persons responsible for defaults.[^key-ce8308572893cf06a3ad53b6b0840510]
+### 13. Orders against persons responsible for defaults.[^c-ce8308572893cf06a3ad53b6b0840510]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Powers of archdeacons.[^key-ce8308572893cf06a3ad53b6b0840510]
+### 14. Powers of archdeacons.[^c-ce8308572893cf06a3ad53b6b0840510]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Consultation with diocesan advisory committees.[^key-ce8308572893cf06a3ad53b6b0840510]
+### 15. Consultation with diocesan advisory committees.[^c-ce8308572893cf06a3ad53b6b0840510]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Parties.[^key-ce8308572893cf06a3ad53b6b0840510]
+### 16. Parties.[^c-ce8308572893cf06a3ad53b6b0840510]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Faculties for demolition of churches.[^key-ce8308572893cf06a3ad53b6b0840510]
+### 17. Faculties for demolition of churches.[^c-ce8308572893cf06a3ad53b6b0840510]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Emergency demolition of churches.[^key-ce8308572893cf06a3ad53b6b0840510]
+### 18. Emergency demolition of churches.[^c-ce8308572893cf06a3ad53b6b0840510]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18A. Erection of buildings on disused burial grounds[^key-ce8308572893cf06a3ad53b6b0840510]
+### 18A. Erection of buildings on disused burial grounds[^c-ce8308572893cf06a3ad53b6b0840510]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18B. Power of Rule Committee to prescribe matters not requiring a faculty[^key-ce8308572893cf06a3ad53b6b0840510]
+### 18B. Power of Rule Committee to prescribe matters not requiring a faculty[^c-ce8308572893cf06a3ad53b6b0840510]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18C. Power of chancellor to make further provision[^key-ce8308572893cf06a3ad53b6b0840510]
+### 18C. Power of chancellor to make further provision[^c-ce8308572893cf06a3ad53b6b0840510]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Meaning of “church”.[^key-ce8308572893cf06a3ad53b6b0840510]
+### 19. Meaning of “church”.[^c-ce8308572893cf06a3ad53b6b0840510]
 
 **No longer in force.**
 
@@ -163,73 +163,73 @@ A Measure passed by the General Synod of the Church of England to make provision
 
 ## Part IV — MISCELLANEOUS AND GENERAL
 
-### 20. Discussion and reporting of defaults.[^key-ce8308572893cf06a3ad53b6b0840510]
+### 20. Discussion and reporting of defaults.[^c-ce8308572893cf06a3ad53b6b0840510]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Deposit of articles in places of safety.[^key-ce8308572893cf06a3ad53b6b0840510]
+### 21. Deposit of articles in places of safety.[^c-ce8308572893cf06a3ad53b6b0840510]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Power of bishop to remove legal effects of consecration.[^key-ce8308572893cf06a3ad53b6b0840510]
+### 22. Power of bishop to remove legal effects of consecration.[^c-ce8308572893cf06a3ad53b6b0840510]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Application of section 22 in relation to Crown land.[^key-ce8308572893cf06a3ad53b6b0840510]
+### 23. Application of section 22 in relation to Crown land.[^c-ce8308572893cf06a3ad53b6b0840510]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Repeal of s.4 of Parish Notices Act 1837.[^key-ce8308572893cf06a3ad53b6b0840510]
+### 24. Repeal of s.4 of Parish Notices Act 1837.[^c-ce8308572893cf06a3ad53b6b0840510]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Rule Committee.[^key-ce8308572893cf06a3ad53b6b0840510]
+### 25. Rule Committee.[^c-ce8308572893cf06a3ad53b6b0840510]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Functions of Rule Committee.[^key-ce8308572893cf06a3ad53b6b0840510]
+### 26. Functions of Rule Committee.[^c-ce8308572893cf06a3ad53b6b0840510]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Supplementary provisions as to rules.[^key-ce8308572893cf06a3ad53b6b0840510]
+### 27. Supplementary provisions as to rules.[^c-ce8308572893cf06a3ad53b6b0840510]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. General provisions as to orders by bishops.[^key-ce8308572893cf06a3ad53b6b0840510]
+### 28. General provisions as to orders by bishops.[^c-ce8308572893cf06a3ad53b6b0840510]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Diocesan registrars’ fees.[^key-ce8308572893cf06a3ad53b6b0840510]
+### 29. Diocesan registrars’ fees.[^c-ce8308572893cf06a3ad53b6b0840510]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Service of notices and orders.[^key-ce8308572893cf06a3ad53b6b0840510]
+### 30. Service of notices and orders.[^c-ce8308572893cf06a3ad53b6b0840510]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 31. Interpretation.[^key-ce8308572893cf06a3ad53b6b0840510]
+### 31. Interpretation.[^c-ce8308572893cf06a3ad53b6b0840510]
 
 **No longer in force.**
 
@@ -406,24 +406,24 @@ Section 8.
 
 **1.** The [^c922874]Ecclesiastical Jurisdiction Measure 1963 shall be amended as follows.
 
-**2.**[^key-f86493ad9480acf4af19ab80e1f6ddd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f86493ad9480acf4af19ab80e1f6ddd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.** In section 3 (judges of the Arches and Chancery Courts)—
 
 - (a) in subsection (1) for the words “five in number” there shall be substituted the words “ as set out in subsection (2) of this section ”;
-- (b)[^key-888dc25633e27c2d03152afc60b2171c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-888dc25633e27c2d03152afc60b2171c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-888dc25633e27c2d03152afc60b2171c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-888dc25633e27c2d03152afc60b2171c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-888dc25633e27c2d03152afc60b2171c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-888dc25633e27c2d03152afc60b2171c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-888dc25633e27c2d03152afc60b2171c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-888dc25633e27c2d03152afc60b2171c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) in subsection (7) for the words from the beginning to “appointed” there shall be substituted the words “ A person appointed under paragraph (b) or (c) of subsection (2) of this section ”.
 
-**4.**[^key-2a00623825e945386fc828f7385d2d39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2a00623825e945386fc828f7385d2d39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-2a00623825e945386fc828f7385d2d39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2a00623825e945386fc828f7385d2d39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-2a00623825e945386fc828f7385d2d39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-2a00623825e945386fc828f7385d2d39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-2a00623825e945386fc828f7385d2d39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-2a00623825e945386fc828f7385d2d39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.** In section 47 (proceedings in Arches and Chancery Courts) for subsection (1) there shall be substituted the following subsection—
 
@@ -452,43 +452,43 @@ Section 8.
 
 .
 
-## SCHEDULE 5 — AMENDMENT OF ECCLESIASTICAL JUDGES AND LEGAL OFFICERS MEASURE 1976[^key-4edfe6e2c1a7c5b52cf69f429b651e70]
+## SCHEDULE 5 — AMENDMENT OF ECCLESIASTICAL JUDGES AND LEGAL OFFICERS MEASURE 1976[^c-4edfe6e2c1a7c5b52cf69f429b651e70]
 
 **No longer in force.**
 
 Section 9.
 
-**1.**[^key-4edfe6e2c1a7c5b52cf69f429b651e70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4edfe6e2c1a7c5b52cf69f429b651e70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4edfe6e2c1a7c5b52cf69f429b651e70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4edfe6e2c1a7c5b52cf69f429b651e70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4edfe6e2c1a7c5b52cf69f429b651e70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4edfe6e2c1a7c5b52cf69f429b651e70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 6 — AMENDMENT OF ECCLESIASTICAL FEES MEASURE 1986[^key-7c53efddd4f63fa5796d88a6928f5ff3]
+## SCHEDULE 6 — AMENDMENT OF ECCLESIASTICAL FEES MEASURE 1986[^c-7c53efddd4f63fa5796d88a6928f5ff3]
 
 **No longer in force.**
 
 Section 10.
 
-**1.**[^key-7c53efddd4f63fa5796d88a6928f5ff3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-7c53efddd4f63fa5796d88a6928f5ff3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7c53efddd4f63fa5796d88a6928f5ff3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7c53efddd4f63fa5796d88a6928f5ff3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7c53efddd4f63fa5796d88a6928f5ff3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7c53efddd4f63fa5796d88a6928f5ff3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-7c53efddd4f63fa5796d88a6928f5ff3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7c53efddd4f63fa5796d88a6928f5ff3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 7 — MINOR AND CONSEQUENTIAL AMENDMENTS
 
 Section 32(1).
 
-### ...[^key-4fe93ddb375afa59f5fc49e12767249e]
+### ...[^c-4fe93ddb375afa59f5fc49e12767249e]
 
-**1.**[^key-4fe93ddb375afa59f5fc49e12767249e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4fe93ddb375afa59f5fc49e12767249e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4fe93ddb375afa59f5fc49e12767249e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4fe93ddb375afa59f5fc49e12767249e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4fe93ddb375afa59f5fc49e12767249e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4fe93ddb375afa59f5fc49e12767249e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Synodical Government Measure 1969
 
@@ -499,11 +499,11 @@ Section 32(1).
 
 ### Pastoral Measure 1983
 
-**5.**[^key-bf6d0df7b169cd47ca73665d5057beb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-bf6d0df7b169cd47ca73665d5057beb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-fcbfc0c56660e344d452931c0f8adc19]
+### ...[^c-fcbfc0c56660e344d452931c0f8adc19]
 
-**6.**[^key-fcbfc0c56660e344d452931c0f8adc19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-fcbfc0c56660e344d452931c0f8adc19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 8 — ACT AND MEASURES REPEALED
 
@@ -522,36 +522,36 @@ Section 32(2).
 
 [^c922796]: Commencement: This Measure not in force at Royal Assent see [s. 33(2)](https://www.legislation.gov.uk/ukcm/1991/1/section/33/2); Measure wholly in force at 1.3.1993 see[Instrument dated 16.2.1993 made by the Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1993-02-16).
 
-[^key-61a0da106548fcaf2a1e7486e07a10e4]: Textual amendment: [Pt. I](https://www.legislation.gov.uk/ukcm/1991/1/part/I) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [s. 36(2)(b)](https://www.legislation.gov.uk/ukcm/2018/3/section/36/2/b), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-61a0da106548fcaf2a1e7486e07a10e4]: Textual amendment: [Pt. I](https://www.legislation.gov.uk/ukcm/1991/1/part/I) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [s. 36(2)(b)](https://www.legislation.gov.uk/ukcm/2018/3/section/36/2/b), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-b30470cb86511a449dab7be82d0ad7f2]: Textual amendment: [Pt. II](https://www.legislation.gov.uk/ukcm/1991/1/part/II) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [s. 49](https://www.legislation.gov.uk/ukcm/2018/3/section/49), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-b30470cb86511a449dab7be82d0ad7f2]: Textual amendment: [Pt. II](https://www.legislation.gov.uk/ukcm/1991/1/part/II) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [s. 49](https://www.legislation.gov.uk/ukcm/2018/3/section/49), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-aff3d6090a4499c28b299f28b2e09e41]: Modification: Pt. III excluded (9.6.2009) by [Nottingham Express Transit System Order 2009 (S.I. 2009/1300)](https://www.legislation.gov.uk/uksi/2009/1300), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1), [5(10)](https://www.legislation.gov.uk/uksi/2009/1300/article/5/10) (with [Sch. 13 para. 14(2)](https://www.legislation.gov.uk/uksi/2009/1300/schedule/13/paragraph/14/2), [Sch. 14 para. 19](https://www.legislation.gov.uk/uksi/2009/1300/schedule/14/paragraph/19))
+[^c-aff3d6090a4499c28b299f28b2e09e41]: Modification: Pt. III excluded (9.6.2009) by [Nottingham Express Transit System Order 2009 (S.I. 2009/1300)](https://www.legislation.gov.uk/uksi/2009/1300), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1), [5(10)](https://www.legislation.gov.uk/uksi/2009/1300/article/5/10) (with [Sch. 13 para. 14(2)](https://www.legislation.gov.uk/uksi/2009/1300/schedule/13/paragraph/14/2), [Sch. 14 para. 19](https://www.legislation.gov.uk/uksi/2009/1300/schedule/14/paragraph/19))
 
-[^key-5853a8fc932c7496cd5b6cbee3c12b79]: Modification: [Pt. III](https://www.legislation.gov.uk/ukcm/1991/1/part/III) excluded (12.1.2016) by [The London Underground (Bank Station Capacity Upgrade) Order 2015 (S.I. 2015/2044)](https://www.legislation.gov.uk/uksi/2015/2044), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1), [5](https://www.legislation.gov.uk/uksi/2015/2044/article/5)
+[^c-5853a8fc932c7496cd5b6cbee3c12b79]: Modification: [Pt. III](https://www.legislation.gov.uk/ukcm/1991/1/part/III) excluded (12.1.2016) by [The London Underground (Bank Station Capacity Upgrade) Order 2015 (S.I. 2015/2044)](https://www.legislation.gov.uk/uksi/2015/2044), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1), [5](https://www.legislation.gov.uk/uksi/2015/2044/article/5)
 
 [^c922805]: Marginal citation: [1963 No. 1](https://www.legislation.gov.uk/ukcm/1963/1).
 
-[^key-ce8308572893cf06a3ad53b6b0840510]: Textual amendment: [Ss. 9-31](https://www.legislation.gov.uk/ukcm/1991/1/section/9) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-ce8308572893cf06a3ad53b6b0840510]: Textual amendment: [Ss. 9-31](https://www.legislation.gov.uk/ukcm/1991/1/section/9) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
 [^c922873]: Marginal citation: [1955 No. 1](https://www.legislation.gov.uk/ukcm/1955/1).
 
 [^c922874]: Marginal citation: [1963 No.1](https://www.legislation.gov.uk/ukcm/1963/1).
 
-[^key-f86493ad9480acf4af19ab80e1f6ddd1]: Textual amendment: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukcm/1991/1/schedule/4/paragraph/2) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-f86493ad9480acf4af19ab80e1f6ddd1]: Textual amendment: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukcm/1991/1/schedule/4/paragraph/2) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-888dc25633e27c2d03152afc60b2171c]: Textual amendment: [Sch. 4 para. 3(b)-(e)](https://www.legislation.gov.uk/ukcm/1991/1/schedule/4/paragraph/3/b/e) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-888dc25633e27c2d03152afc60b2171c]: Textual amendment: [Sch. 4 para. 3(b)-(e)](https://www.legislation.gov.uk/ukcm/1991/1/schedule/4/paragraph/3/b/e) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-2a00623825e945386fc828f7385d2d39]: Textual amendment: [Sch. 4 paras. 4-7](https://www.legislation.gov.uk/ukcm/1991/1/schedule/4/paragraph/4) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-2a00623825e945386fc828f7385d2d39]: Textual amendment: [Sch. 4 paras. 4-7](https://www.legislation.gov.uk/ukcm/1991/1/schedule/4/paragraph/4) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-4edfe6e2c1a7c5b52cf69f429b651e70]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/ukcm/1991/1/schedule/5) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-4edfe6e2c1a7c5b52cf69f429b651e70]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/ukcm/1991/1/schedule/5) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-7c53efddd4f63fa5796d88a6928f5ff3]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/ukcm/1991/1/schedule/6) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-7c53efddd4f63fa5796d88a6928f5ff3]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/ukcm/1991/1/schedule/6) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-4fe93ddb375afa59f5fc49e12767249e]: Textual amendment: [Sch. 7 paras. 1-3 and cross-heading](https://www.legislation.gov.uk/ukcm/1991/1/schedule/7/crossheading/faculty-jurisdiction-measure-1964) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-4fe93ddb375afa59f5fc49e12767249e]: Textual amendment: [Sch. 7 paras. 1-3 and cross-heading](https://www.legislation.gov.uk/ukcm/1991/1/schedule/7/crossheading/faculty-jurisdiction-measure-1964) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
 [^c922878]: Marginal citation: [1969 No. 2](https://www.legislation.gov.uk/ukcm/1969/2).
 
-[^key-bf6d0df7b169cd47ca73665d5057beb9]: Textual amendment: Sch. 7 para. 5 repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Sch. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [2012 No. 1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-bf6d0df7b169cd47ca73665d5057beb9]: Textual amendment: Sch. 7 para. 5 repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Sch. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [2012 No. 1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-fcbfc0c56660e344d452931c0f8adc19]: Textual amendment: [Sch. 7 para. 6 and cross-heading](https://www.legislation.gov.uk/ukcm/1991/1/schedule/7/crossheading/care-of-cathedrals-measure-1990) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-fcbfc0c56660e344d452931c0f8adc19]: Textual amendment: [Sch. 7 para. 6 and cross-heading](https://www.legislation.gov.uk/ukcm/1991/1/schedule/7/crossheading/care-of-cathedrals-measure-1990) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Meaning of “coasting ship”[^key-7f493aa5ff40252d2d41247b02f4f0e4]
+## 69. Meaning of “coasting ship”[^c-7f493aa5ff40252d2d41247b02f4f0e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ is, or is not, to be deemed to be carrying goods coastwise.
 
 ## Annotations
 
-[^key-7f493aa5ff40252d2d41247b02f4f0e4]: Textual amendment: [S. 69](https://www.legislation.gov.uk/ukpga/1979/2/section/69) substituted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 71](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/71) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-7f493aa5ff40252d2d41247b02f4f0e4]: Textual amendment: [S. 69](https://www.legislation.gov.uk/ukpga/1979/2/section/69) substituted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 71](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/71) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)

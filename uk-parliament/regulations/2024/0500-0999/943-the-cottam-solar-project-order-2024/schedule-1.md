@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-[^key-c9f7df14916ca077604865c47dbc71c1]... Article 3
+[^c-c9f7df14916ca077604865c47dbc71c1]... Article 3
 
-**1.**[^key-74c750f8bfc0fd2d54bc77bc2da81509] In this Schedule—
+**1.**[^c-74c750f8bfc0fd2d54bc77bc2da81509] In this Schedule—
 
 - “**energy storage**” means equipment used for the storage of electrical energy;
 - “**inverter**” means electrical equipment required to convert direct current power to alternating current;
@@ -74,7 +74,7 @@ and associated development within the meaning of section 115(2) of the 2008 Act 
 
 **Work No. 3**— an energy storage facility comprising—
 
-- (a) battery energy storage cells with automatic fire suppression system or dry pipe sprinkler[^key-e2c146105c016757229a477eeae8b851] system;
+- (a) battery energy storage cells with automatic fire suppression system or dry pipe sprinkler[^c-e2c146105c016757229a477eeae8b851] system;
 - (b) a structure protecting the battery energy storage cells comprised in Work No. 3(a) and ancillary equipment, being either one container or multiple containers joined to each other, mounted on a reinforced concrete foundation slab or concrete piling;
 - (c) interconnection units including heating, ventilation and air conditioning or liquid cooling systems and temperature management either housed within the containers comprised in Work No. 3(b), attached to the side or top of each of the containers, or located separate from but near to each of the containers;
 - (d) conversion units including inverters, transformers, switchgear and energy management system;
@@ -296,8 +296,8 @@ and further associated development comprising such other works or operations as 
 
 ## Annotations
 
-[^key-c9f7df14916ca077604865c47dbc71c1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2024/943/schedule/1) omitted (26.11.2024) by virtue of [The Cottam Solar Project (Correction) Order 2024 (S.I. 2024/1222)](https://www.legislation.gov.uk/uksi/2024/1222), [art. 1](https://www.legislation.gov.uk/uksi/2024/1222/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1222/schedule)
+[^c-c9f7df14916ca077604865c47dbc71c1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2024/943/schedule/1) omitted (26.11.2024) by virtue of [The Cottam Solar Project (Correction) Order 2024 (S.I. 2024/1222)](https://www.legislation.gov.uk/uksi/2024/1222), [art. 1](https://www.legislation.gov.uk/uksi/2024/1222/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1222/schedule)
 
-[^key-74c750f8bfc0fd2d54bc77bc2da81509]: Commencement: Sch. 1 para. 1 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
+[^c-74c750f8bfc0fd2d54bc77bc2da81509]: Commencement: Sch. 1 para. 1 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
 
-[^key-e2c146105c016757229a477eeae8b851]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2024/943/schedule/1) substituted (26.11.2024) by [The Cottam Solar Project (Correction) Order 2024 (S.I. 2024/1222)](https://www.legislation.gov.uk/uksi/2024/1222), [art. 1](https://www.legislation.gov.uk/uksi/2024/1222/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1222/schedule)
+[^c-e2c146105c016757229a477eeae8b851]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2024/943/schedule/1) substituted (26.11.2024) by [The Cottam Solar Project (Correction) Order 2024 (S.I. 2024/1222)](https://www.legislation.gov.uk/uksi/2024/1222), [art. 1](https://www.legislation.gov.uk/uksi/2024/1222/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1222/schedule)

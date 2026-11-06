@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.185. Disclaimer presumed valid and effective[^key-3a95d43dc3a12871d3837c0764a8bb51]
+## 6.185. Disclaimer presumed valid and effective[^c-3a95d43dc3a12871d3837c0764a8bb51]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any disclaimer of property by the trustee is presumed valid and effective, unles
 
 ## Annotations
 
-[^key-3a95d43dc3a12871d3837c0764a8bb51]: Commencement: [Rule 6.185](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.185) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-3a95d43dc3a12871d3837c0764a8bb51]: Commencement: [Rule 6.185](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.185) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

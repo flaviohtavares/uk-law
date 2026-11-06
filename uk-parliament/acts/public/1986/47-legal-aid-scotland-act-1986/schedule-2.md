@@ -47,7 +47,7 @@ and in relation to proceedings—
 
 **2.** For the purposes of section 13 of this Act, proceedings in the European Court of Justice on a reference, under Article 267 of the Treaty on the Functioning of the European Union[^M_F_3ceafab0-91b3-4fb8-fbe8-ecb5ee9c750a], made by a court mentioned in paragraph 1 above are part of the proceedings in the court making the reference.
 
-#### 2A. Proceedings before the First-tier Tribunal for Scotland[^key-5e4736b6fdf97767c008077701595d22]
+#### 2A. Proceedings before the First-tier Tribunal for Scotland[^c-5e4736b6fdf97767c008077701595d22]
 
 The proceedings before the First-tier Tribunal for Scotland mentioned in paragraph 1 are—
 
@@ -74,7 +74,7 @@ The proceedings before the Upper Tribunal mentioned in paragraph 1 are those ar
 - (c)[^M_F_ef67f999-b820-490f-c428-3f904528e044] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) petitions by a debtor for the sequestration of his estate under section 2(1)(a) of the Bankruptcy (Scotland) Act 2016[^M_F_d35f5598-21fa-4442-a155-4c7c964e0921] .
 
-**3A.**[^key-7b21e2274ba19f9f8e27a95e51b4b95c] Civil legal aid shall not be available in relation to the following categories of simple procedure case (within the meaning of section 72(9) of the Courts Reform (Scotland) Act 2014) at first instance, namely—
+**3A.**[^c-7b21e2274ba19f9f8e27a95e51b4b95c] Civil legal aid shall not be available in relation to the following categories of simple procedure case (within the meaning of section 72(9) of the Courts Reform (Scotland) Act 2014) at first instance, namely—
 
 - (a) proceedings for payment of a sum of money not exceeding £3,000 (exclusive of interest and expenses), other than—
   - (i) proceedings in respect of aliment or interim aliment, and
@@ -118,7 +118,7 @@ The proceedings before the Upper Tribunal mentioned in paragraph 1 are those ar
 
 [^M_F_3ceafab0-91b3-4fb8-fbe8-ecb5ee9c750a]: Textual amendment: Words in Sch 2. para. 2 substituted (1.8.2012) by [The Treaty of Lisbon (Changes in Terminology or Numbering) Order 2012 (S.I. 2012/1809)](https://www.legislation.gov.uk/uksi/2012/1809), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2012/1809/schedule/part/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/2))
 
-[^key-5e4736b6fdf97767c008077701595d22]: Textual amendment: [Sch. 2 Pt. 1 para. 2A](https://www.legislation.gov.uk/ukpga/1986/47/schedule/2/paragraph/2A) inserted (1.12.2017) by [The Legal Aid (Scotland) Act 1986 Amendment Regulations 2017 (S.S.I. 2017/397)](https://www.legislation.gov.uk/ssi/2017/397), [regs. 1](https://www.legislation.gov.uk/ssi/2017/397/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2017/397/regulation/3/3)
+[^c-5e4736b6fdf97767c008077701595d22]: Textual amendment: [Sch. 2 Pt. 1 para. 2A](https://www.legislation.gov.uk/ukpga/1986/47/schedule/2/paragraph/2A) inserted (1.12.2017) by [The Legal Aid (Scotland) Act 1986 Amendment Regulations 2017 (S.S.I. 2017/397)](https://www.legislation.gov.uk/ssi/2017/397), [regs. 1](https://www.legislation.gov.uk/ssi/2017/397/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2017/397/regulation/3/3)
 
 [^c20859481]: Textual amendment: Sch. 2 Pt. 1 para. 3 inserted (9.6.2010) by [The Advice and Assistance and Civil Legal Aid (Transfer of Tribunal Functions) (No. 2) (Scotland) Regulations 2010 (S.S.I. 2010/239)](https://www.legislation.gov.uk/ssi/2010/239), [reg. 3(4)](https://www.legislation.gov.uk/ssi/2010/239/regulation/3/4)
 
@@ -134,7 +134,7 @@ The proceedings before the Upper Tribunal mentioned in paragraph 1 are those ar
 
 [^M_F_d35f5598-21fa-4442-a155-4c7c964e0921]: Textual amendment: Sch. 2 Pt. II para. 3(d) words substituted (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), s.237(2), sch. 8 para 10; [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), reg. 2.
 
-[^key-7b21e2274ba19f9f8e27a95e51b4b95c]: Textual amendment: Sch. 2 Pt. II paras. 3A, 3B inserted (28.11.2016) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 23(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/23/3); [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2016/291/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2016/291/article/3/3))
+[^c-7b21e2274ba19f9f8e27a95e51b4b95c]: Textual amendment: Sch. 2 Pt. II paras. 3A, 3B inserted (28.11.2016) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 23(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/23/3); [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2016/291/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2016/291/article/3/3))
 
 [^c14068171]: Textual amendment: Sch. 2 Pt. II paras. 4, 5 added by [Debtors (Scotland) Act 1987 (c. 18, SIF 45:2)](https://www.legislation.gov.uk/ukpga/1987/18), [ss. 98](https://www.legislation.gov.uk/ukpga/1987/18/section/98), [108(2)](https://www.legislation.gov.uk/ukpga/1987/18/section/108/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/1987/18/schedule/1/paragraph/5)
 

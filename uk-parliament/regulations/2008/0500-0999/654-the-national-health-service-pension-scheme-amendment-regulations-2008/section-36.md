@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Substitution of regulation K1[^key-af78a367a012679408b5cdf76764ff50]
+## 36. Substitution of regulation K1[^c-af78a367a012679408b5cdf76764ff50]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ For regulation K1 (contracting-out conditions to be overriding) substitute—
 
 ## Annotations
 
-[^key-af78a367a012679408b5cdf76764ff50]: Commencement: Reg. 36 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-af78a367a012679408b5cdf76764ff50]: Commencement: Reg. 36 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3D. Meaning of “plan 4 loan”[^key-0dab0ab49ec96437facf6c12476fbd0a]
+## 3D. Meaning of “plan 4 loan”[^c-0dab0ab49ec96437facf6c12476fbd0a]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ A “plan 4 loan” is a loan—
 
 ## Annotations
 
-[^key-0dab0ab49ec96437facf6c12476fbd0a]: Textual amendment: Regs. 3A-3E inserted (6.4.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [6](https://www.legislation.gov.uk/uksi/2022/1335/regulation/6)
+[^c-0dab0ab49ec96437facf6c12476fbd0a]: Textual amendment: Regs. 3A-3E inserted (6.4.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [6](https://www.legislation.gov.uk/uksi/2022/1335/regulation/6)

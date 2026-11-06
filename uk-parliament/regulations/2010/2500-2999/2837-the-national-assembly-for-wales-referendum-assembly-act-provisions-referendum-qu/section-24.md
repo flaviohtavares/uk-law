@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Non-domestic rating: premises used for referendum purposes[^key-190d0752e389d5028bba216132834671]
+## 24. Non-domestic rating: premises used for referendum purposes[^c-190d0752e389d5028bba216132834671]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ Section 65(6) of the Local Government Finance Act 1988[^f00022] (occupation for 
 
 ## Annotations
 
-[^key-190d0752e389d5028bba216132834671]: Commencement: Art. 24 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-190d0752e389d5028bba216132834671]: Commencement: Art. 24 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00022]: Footnote: [1988 c.41](https://www.legislation.gov.uk/ukpga/1988/41).

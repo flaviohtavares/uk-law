@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Interpretation[^key-e31eae8465f1bfe07970052c39134eec]
+## 114. Interpretation[^c-e31eae8465f1bfe07970052c39134eec]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ In this Part and in Schedule 13—
 
 ## Annotations
 
-[^key-e31eae8465f1bfe07970052c39134eec]: Commencement: Reg. 114 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-e31eae8465f1bfe07970052c39134eec]: Commencement: Reg. 114 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

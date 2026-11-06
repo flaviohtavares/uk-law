@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety[^f00001] in exercise of the powers conferred on it by Articles 2(2) and 47(2) of the Food Safety (Northern Ireland) Order 1991[^f00002] and of all other powers enabling it in that behalf, having had regard in accordance with Article 47(3A) of the said Order to relevant advice given by the Food Standards Agency and after consultation in accordance with Article 47(3) and (3B) of the said Order and as required by Article 9 of Regulation (EC) No.178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003], hereby makes the following Order:
 
-## 1. Citation and commencement[^key-2f38a0d27feccf2739f80178ec69e0d1]
+## 1. Citation and commencement[^c-2f38a0d27feccf2739f80178ec69e0d1]
 
 This Order may be cited as the Food Safety (Ships and Aircraft) Order (Northern Ireland) 2004 and shall come into operation on 20th April 2004.
 
-## 2. Interpretation[^key-86660832bf18cfc8534dd9bc1719a96d]
+## 2. Interpretation[^c-86660832bf18cfc8534dd9bc1719a96d]
 
 In this Order –
 
@@ -56,17 +56,17 @@ In this Order –
   - (b) excursions which last not more than one day, start and end in Northern Ireland and do not involve calling at any place outside Northern Ireland;
 - “innocent passage” has the same meaning as it has for the purposes of Part II Section 3A of the United Nations Convention on the Law of the Sea;
 - “internal waters” has the same meaning as it has for the purposes of Article 8(1) of the United Nations Convention on the Law of the Sea;
-- [^key-ca5ecae86e8f2b94566896a64a13edb2]...
+- [^c-ca5ecae86e8f2b94566896a64a13edb2]...
   - (a) [^f00004]
   - (b) [^f00005]
 - “sovereign immune ship or aircraft” means a ship or aircraft belonging to a State other than the United Kingdom and which is not in use for commercial purposes;
 - “territorial sea” has the same meaning as it has for the purposes of the Territorial Sea Act 1987[^f00006].
 
-## 3. Ships and aircraft as premises for specified purposes[^key-4568728433b25d87de24b952abf9e981]
+## 3. Ships and aircraft as premises for specified purposes[^c-4568728433b25d87de24b952abf9e981]
 
 “Premises” shall include any ship or aircraft of a description specified in the Schedule for any purpose of the 1991 Order or Regulations or orders made under it as is specified in that Schedule in relation to that ship or aircraft.
 
-## 4. Revocation[^key-ccdc527cb5ddeef18f8553811f1969bf]
+## 4. Revocation[^c-ccdc527cb5ddeef18f8553811f1969bf]
 
 The Food Safety (1991 Order) (Specified Ships and Aircraft) Order (Northern Ireland) 1991[^f00007] is hereby revoked.
 
@@ -82,12 +82,12 @@ Department of Health, Social Services and Public Safety
 
 Article 3
 
-**1.**[^key-adfc2760cd3f46e18811a5afa9f66e7d] Any home-going ship for the purpose of applying the 1991 Order and any Regulations or orders made under it.
+**1.**[^c-adfc2760cd3f46e18811a5afa9f66e7d] Any home-going ship for the purpose of applying the 1991 Order and any Regulations or orders made under it.
 
-**2.**[^key-c731737064224168db42410cef739474] Any other ship or any aircraft, which is not an exempt ship or aircraft –
+**2.**[^c-c731737064224168db42410cef739474] Any other ship or any aircraft, which is not an exempt ship or aircraft –
 
 - (a) for the purpose of ascertaining whether there is in the ship or aircraft any food imported as part of the cargo in contravention of the provisions of Regulations made under Part II of the 1991 Order;
-- (b)[^key-95c9132e709b69fc03fcd60f64b8677e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-95c9132e709b69fc03fcd60f64b8677e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) for the purpose of applying Articles 10 and 11 of the 1991 Order,
 
 and references to “premises” in Articles 3, 4, 29 and 33 of the 1991 Order shall include any ship or aircraft of a description specified in this paragraph in relation to any purposes specified in this paragraph.
@@ -110,11 +110,11 @@ The Order –
 
 [^f00003]: Footnote: O.J. No. L31, 1.2.2002, p. 1
 
-[^key-2f38a0d27feccf2739f80178ec69e0d1]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2004/99/article/1) in operation at 20.4.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/99/article/1)
+[^c-2f38a0d27feccf2739f80178ec69e0d1]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2004/99/article/1) in operation at 20.4.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/99/article/1)
 
-[^key-86660832bf18cfc8534dd9bc1719a96d]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2004/99/article/2) in operation at 20.4.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/99/article/1)
+[^c-86660832bf18cfc8534dd9bc1719a96d]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2004/99/article/2) in operation at 20.4.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/99/article/1)
 
-[^key-ca5ecae86e8f2b94566896a64a13edb2]: Textual amendment: [Words in Reg. 2](https://www.legislation.gov.uk/nisr/2004/99/regulation/2) revoked (1.1.2006) by [The Food Hygiene Regulations (Northern Ireland) 2005 (S.R. 2005/356)](https://www.legislation.gov.uk/nisr/2005/356), [regs. 1](https://www.legislation.gov.uk/nisr/2005/356/regulation/1), [29](https://www.legislation.gov.uk/nisr/2005/356/regulation/29), [Sch. 7](https://www.legislation.gov.uk/nisr/2005/356/schedule/7)
+[^c-ca5ecae86e8f2b94566896a64a13edb2]: Textual amendment: [Words in Reg. 2](https://www.legislation.gov.uk/nisr/2004/99/regulation/2) revoked (1.1.2006) by [The Food Hygiene Regulations (Northern Ireland) 2005 (S.R. 2005/356)](https://www.legislation.gov.uk/nisr/2005/356), [regs. 1](https://www.legislation.gov.uk/nisr/2005/356/regulation/1), [29](https://www.legislation.gov.uk/nisr/2005/356/regulation/29), [Sch. 7](https://www.legislation.gov.uk/nisr/2005/356/schedule/7)
 
 [^f00004]: Footnote: [S.R. 1995 No. 360](https://www.legislation.gov.uk/nisr/1995/360), as amended by [S.R. 1996 No. 286](https://www.legislation.gov.uk/nisr/1996/286), [S.R.1997 Nos. 493](https://www.legislation.gov.uk/nisr/1997/493), [494](https://www.legislation.gov.uk/nisr/1997/494), [495](https://www.legislation.gov.uk/nisr/1997/495), [496](https://www.legislation.gov.uk/nisr/1997/496) and [499](https://www.legislation.gov.uk/nisr/1997/499), [S.R. 1998 No. 207](https://www.legislation.gov.uk/nisr/1998/207), [S.R. 1999 Nos. 284](https://www.legislation.gov.uk/nisr/1999/284) and [301](https://www.legislation.gov.uk/nisr/1999/301), [S.R. 2000 No. 78](https://www.legislation.gov.uk/nisr/2000/78) and [S.R. 2001 No. 85](https://www.legislation.gov.uk/nisr/2001/85)
 
@@ -122,17 +122,17 @@ The Order –
 
 [^f00006]: Footnote: [1987 c. 49](https://www.legislation.gov.uk/ukpga/1987/49)
 
-[^key-4568728433b25d87de24b952abf9e981]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2004/99/article/3) in operation at 20.4.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/99/article/1)
+[^c-4568728433b25d87de24b952abf9e981]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2004/99/article/3) in operation at 20.4.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/99/article/1)
 
-[^key-ccdc527cb5ddeef18f8553811f1969bf]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2004/99/article/4) in operation at 20.4.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/99/article/1)
+[^c-ccdc527cb5ddeef18f8553811f1969bf]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2004/99/article/4) in operation at 20.4.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/99/article/1)
 
 [^f00007]: Footnote: [S.R. 1991 No. 481](https://www.legislation.gov.uk/nisr/1991/481)
 
-[^key-adfc2760cd3f46e18811a5afa9f66e7d]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2004/99/schedule/paragraph/1) in operation at 20.4.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/99/article/1)
+[^c-adfc2760cd3f46e18811a5afa9f66e7d]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2004/99/schedule/paragraph/1) in operation at 20.4.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/99/article/1)
 
-[^key-c731737064224168db42410cef739474]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2004/99/schedule/paragraph/2) in operation at 20.4.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/99/article/1)
+[^c-c731737064224168db42410cef739474]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2004/99/schedule/paragraph/2) in operation at 20.4.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/99/article/1)
 
-[^key-95c9132e709b69fc03fcd60f64b8677e]: Textual amendment: [Sch. para. 2(b)](https://www.legislation.gov.uk/nisr/2004/99/schedule/paragraph/2/b) revoked (1.1.2006) by [The Food Hygiene Regulations (Northern Ireland) 2005 (S.R. 2005/356)](https://www.legislation.gov.uk/nisr/2005/356), [regs. 1](https://www.legislation.gov.uk/nisr/2005/356/regulation/1), [29](https://www.legislation.gov.uk/nisr/2005/356/regulation/29), [Sch. 7](https://www.legislation.gov.uk/nisr/2005/356/schedule/7)
+[^c-95c9132e709b69fc03fcd60f64b8677e]: Textual amendment: [Sch. para. 2(b)](https://www.legislation.gov.uk/nisr/2004/99/schedule/paragraph/2/b) revoked (1.1.2006) by [The Food Hygiene Regulations (Northern Ireland) 2005 (S.R. 2005/356)](https://www.legislation.gov.uk/nisr/2005/356), [regs. 1](https://www.legislation.gov.uk/nisr/2005/356/regulation/1), [29](https://www.legislation.gov.uk/nisr/2005/356/regulation/29), [Sch. 7](https://www.legislation.gov.uk/nisr/2005/356/schedule/7)
 
 [^f00008]: Footnote: O.J. No. L175, 19.7.93, p. 1, as amended by Directive 96/3 (O.J. No. L21, 27.1.96, p. 42) and Directive 98/28 (O.J. No. L140, 12.5.98, p. 10)
 

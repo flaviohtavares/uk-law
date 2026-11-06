@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 19. Commissions of review: continuation[^key-b3c8e04c30b57a2872a35fbffd9ad5a1]
+## 19. Commissions of review: continuation[^c-b3c8e04c30b57a2872a35fbffd9ad5a1]
 
 *Extent: E*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3c8e04c30b57a2872a35fbffd9ad5a1]: Commencement: [S. 19](https://www.legislation.gov.uk/ukcm/2018/3/section/19) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-b3c8e04c30b57a2872a35fbffd9ad5a1]: Commencement: [S. 19](https://www.legislation.gov.uk/ukcm/2018/3/section/19) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

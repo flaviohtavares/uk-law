@@ -46,11 +46,11 @@ The Department of Justice makes the following Order in exercise of the powers co
 
 In accordance with section 4(7) of the 2015 Act, the Department of Justice has consulted with the Lady Chief Justice of Northern Ireland.
 
-## 1. Title and Commencement[^key-8303ce2fddad49d9e01273d77e9b5ae4]
+## 1. Title and Commencement[^c-8303ce2fddad49d9e01273d77e9b5ae4]
 
 This Order may be cited as the Lay Magistrates (Eligibility) Order (Northern Ireland) 2024 and shall come into operation on the day after the day it is made.
 
-## 2. Eligibility of persons for reappointment as Lay Magistrates[^key-39651b0a2e7f43625e1c9ecb4721f3b3]
+## 2. Eligibility of persons for reappointment as Lay Magistrates[^c-39651b0a2e7f43625e1c9ecb4721f3b3]
 
 A person may be reappointed as a lay magistrate if—
 
@@ -78,8 +78,8 @@ This Order makes provision for criteria for the reappointment of lay magistrates
 
 [^f00002]: Footnote: [2022 c.7](https://www.legislation.gov.uk/ukpga/2022/7).
 
-[^key-8303ce2fddad49d9e01273d77e9b5ae4]: Commencement: Art. 1 in operation at 1.5.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/102/article/1)
+[^c-8303ce2fddad49d9e01273d77e9b5ae4]: Commencement: Art. 1 in operation at 1.5.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/102/article/1)
 
-[^key-39651b0a2e7f43625e1c9ecb4721f3b3]: Commencement: Art. 2 in operation at 1.5.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/102/article/1)
+[^c-39651b0a2e7f43625e1c9ecb4721f3b3]: Commencement: Art. 2 in operation at 1.5.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/102/article/1)
 
 [^f00003]: Footnote: [S.R. 2004 No. 246](https://www.legislation.gov.uk/nisr/2004/246).

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-2190ea7443bfd6291b5e82adbb48ade7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-2190ea7443bfd6291b5e82adbb48ade7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) These Regulations shall not apply to wells to which the Borehole Sites and Operations Regulations 1995 apply.
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2190ea7443bfd6291b5e82adbb48ade7]: Textual amendment: Reg. 4(1) omitted (19.7.2015) by virtue of [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 36](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/36), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-2190ea7443bfd6291b5e82adbb48ade7]: Textual amendment: Reg. 4(1) omitted (19.7.2015) by virtue of [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 36](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/36), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))

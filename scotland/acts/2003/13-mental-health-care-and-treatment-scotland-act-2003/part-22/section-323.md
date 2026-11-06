@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 323. Suspension of decision of Tribunal pending determination of certain appeals[^key-be15fea01691e35fb84d7c5448652520]
+## 323. Suspension of decision of Tribunal pending determination of certain appeals[^c-be15fea01691e35fb84d7c5448652520]
 
 *Extent: S*
 
@@ -27,11 +27,11 @@ summary: ''
 
 (2) An order under subsection (1) above has the effect of continuing the patient’s detention—
 
-- (a) in a case where no appeal is made to the Supreme Court[^key-ce7bf205ab54b9260d634542f5f9888e] against the decision of the Court of Session under section 322(2) of this Act, until the expiry of the time allowed to so appeal to the Supreme Court; or
+- (a) in a case where no appeal is made to the Supreme Court[^c-ce7bf205ab54b9260d634542f5f9888e] against the decision of the Court of Session under section 322(2) of this Act, until the expiry of the time allowed to so appeal to the Supreme Court; or
 - (b) in a case where such an appeal is made, until it is abandoned or finally determined.
 
 ## Annotations
 
-[^key-be15fea01691e35fb84d7c5448652520]: Commencement: S. 323 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-be15fea01691e35fb84d7c5448652520]: Commencement: S. 323 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-ce7bf205ab54b9260d634542f5f9888e]: Textual amendment: Words in [s. 323(2)(a)](https://www.legislation.gov.uk/asp/2003/13/section/323/2/a) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 83](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/83); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-ce7bf205ab54b9260d634542f5f9888e]: Textual amendment: Words in [s. 323(2)(a)](https://www.legislation.gov.uk/asp/2003/13/section/323/2/a) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 83](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/83); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)

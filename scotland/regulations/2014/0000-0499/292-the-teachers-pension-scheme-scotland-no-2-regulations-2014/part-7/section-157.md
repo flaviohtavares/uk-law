@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 157. Payment of death grant[^key-2977e497c684b852e1f5bd910ef77bc0]
+## 157. Payment of death grant[^c-2977e497c684b852e1f5bd910ef77bc0]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ On the death of a pension credit member, the death grant must be paid—
 
 ## Annotations
 
-[^key-2977e497c684b852e1f5bd910ef77bc0]: Commencement: [Reg. 157](https://www.legislation.gov.uk/ssi/2014/292/regulation/157) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-2977e497c684b852e1f5bd910ef77bc0]: Commencement: [Reg. 157](https://www.legislation.gov.uk/ssi/2014/292/regulation/157) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

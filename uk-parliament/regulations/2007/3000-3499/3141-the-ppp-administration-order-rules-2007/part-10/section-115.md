@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 115. Introductory[^key-5c8b755a45e6024735c7780cee8dd4df]
+## 115. Introductory[^c-5c8b755a45e6024735c7780cee8dd4df]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Part of these Rules has effect for their interpretation and application; an
 
 ## Annotations
 
-[^key-5c8b755a45e6024735c7780cee8dd4df]: Commencement: [Rule 115](https://www.legislation.gov.uk/uksi/2007/3141/rule/115) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-5c8b755a45e6024735c7780cee8dd4df]: Commencement: [Rule 115](https://www.legislation.gov.uk/uksi/2007/3141/rule/115) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

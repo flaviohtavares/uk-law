@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in respect of matters relating to electronic communications, in exercise of the powers conferred by that section makes the following Regulations.
 
-## 1. Citation and commencement[^key-b08711bae94e5e1f560dbfe4e6aae1d5]
+## 1. Citation and commencement[^c-b08711bae94e5e1f560dbfe4e6aae1d5]
 
 These Regulations may be cited as the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2016 and shall come into force on 16th May 2016.
 
-## 2. Amendment of the Privacy and Electronic Communications (EC Directive) Regulations 2003[^key-b3aaa87ba8941f02bf82c1c8c4a27594]
+## 2. Amendment of the Privacy and Electronic Communications (EC Directive) Regulations 2003[^c-b3aaa87ba8941f02bf82c1c8c4a27594]
 
 (1) The Privacy and Electronic Communications (EC Directive) Regulations 2003[^f00003] are amended as follows.
 
@@ -102,8 +102,8 @@ A full impact assessment has not been produced for this instrument as no impact,
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and section 3 of, and Part 1 of the Schedule to, the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7).
 
-[^key-b08711bae94e5e1f560dbfe4e6aae1d5]: Commencement: Reg. 1 in force at 16.5.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/524/regulation/1)
+[^c-b08711bae94e5e1f560dbfe4e6aae1d5]: Commencement: Reg. 1 in force at 16.5.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/524/regulation/1)
 
-[^key-b3aaa87ba8941f02bf82c1c8c4a27594]: Commencement: Reg. 2 in force at 16.5.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/524/regulation/1)
+[^c-b3aaa87ba8941f02bf82c1c8c4a27594]: Commencement: Reg. 2 in force at 16.5.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/524/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2003/2426](https://www.legislation.gov.uk/uksi/2003/2426), as amended by [S.I. 2004/1039](https://www.legislation.gov.uk/uksi/2004/1039), [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22), [S.I. 2011/1208](https://www.legislation.gov.uk/uksi/2011/1208) and [S.I. 2015/355](https://www.legislation.gov.uk/uksi/2015/355).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Commencement of BID arrangements[^key-2904e740c06ebd7487279655445c3efc][^key-04f09cd9a69a4db65c01fd84dc8d6325]
+## 44. Commencement of BID arrangements[^c-2904e740c06ebd7487279655445c3efc][^c-04f09cd9a69a4db65c01fd84dc8d6325]
 
 *Extent: S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2904e740c06ebd7487279655445c3efc]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2006/17/section/44) in force at 6.2.2007 for specified purposes by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)
+[^c-2904e740c06ebd7487279655445c3efc]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2006/17/section/44) in force at 6.2.2007 for specified purposes by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)
 
-[^key-04f09cd9a69a4db65c01fd84dc8d6325]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2006/17/section/44) in force at 1.4.2007 in so far as not already in force by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-04f09cd9a69a4db65c01fd84dc8d6325]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2006/17/section/44) in force at 1.4.2007 in so far as not already in force by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)

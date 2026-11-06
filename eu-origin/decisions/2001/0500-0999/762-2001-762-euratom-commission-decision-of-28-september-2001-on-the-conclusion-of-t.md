@@ -31,10 +31,10 @@ summary: ''
 
 of 28 September 2001 on the conclusion of two cooperation agreements between the European Atomic Energy Community and the Russian Federation in the field of nuclear safety and in the field of controlled nuclear fusion (notified under document number C(2001) 2901) (revoked)
 
-[^key-d87670ddbe887472e0d94ee4dc841472]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d87670ddbe887472e0d94ee4dc841472]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-d87670ddbe887472e0d94ee4dc841472] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-d87670ddbe887472e0d94ee4dc841472] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d87670ddbe887472e0d94ee4dc841472]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-d87670ddbe887472e0d94ee4dc841472]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

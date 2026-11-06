@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Action by enforcing authority[^key-6976ca94c174cdd990830cc26199c432]
+## 79. Action by enforcing authority[^c-6976ca94c174cdd990830cc26199c432]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6976ca94c174cdd990830cc26199c432]: Commencement: Reg. 79 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-6976ca94c174cdd990830cc26199c432]: Commencement: Reg. 79 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
 
 [^f00013]: Footnote: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43); section 58 was amended by the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), Schedule 10 paragraph 40.
 

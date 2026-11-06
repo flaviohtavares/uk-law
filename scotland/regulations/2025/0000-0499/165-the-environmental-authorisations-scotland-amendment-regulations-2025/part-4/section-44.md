@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Transitional and savings provisions[^key-f91139f31ad262c1a7f8fbdd05a705cd]
+## 44. Transitional and savings provisions[^c-f91139f31ad262c1a7f8fbdd05a705cd]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 23 makes transitional and savings provisions.
 
 ## Annotations
 
-[^key-f91139f31ad262c1a7f8fbdd05a705cd]: Commencement: [Reg. 44](https://www.legislation.gov.uk/ssi/2025/165/regulation/44) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-f91139f31ad262c1a7f8fbdd05a705cd]: Commencement: [Reg. 44](https://www.legislation.gov.uk/ssi/2025/165/regulation/44) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Temporary use of land for maintaining the authorised development[^key-046fe509357364cfcf7ee4cf1e981525]
+## 41. Temporary use of land for maintaining the authorised development[^c-046fe509357364cfcf7ee4cf1e981525]
 
 *Extent: E+W*
 
@@ -45,7 +45,7 @@ and in such circumstances, the undertaker may enter the land under paragraph (1)
 
 (6) Before giving up possession of land of which temporary possession has been taken under this article, the undertaker must remove all temporary works and restore the land to the reasonable satisfaction of the owners of the land.
 
-(7) Any dispute as to the removal of temporary works and restoration of land under paragraph (6)[^key-516149d036a5614740538337f1190118] does not prevent the undertaker giving up possession of the land.
+(7) Any dispute as to the removal of temporary works and restoration of land under paragraph (6)[^c-516149d036a5614740538337f1190118] does not prevent the undertaker giving up possession of the land.
 
 (8) The undertaker must pay compensation to the owners and occupiers of land of which temporary possession is taken under this article for any loss or damage arising from the exercise in relation to the land of the powers conferred by this article.
 
@@ -61,6 +61,6 @@ and in such circumstances, the undertaker may enter the land under paragraph (1)
 
 ## Annotations
 
-[^key-046fe509357364cfcf7ee4cf1e981525]: Commencement: Art. 41 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-046fe509357364cfcf7ee4cf1e981525]: Commencement: Art. 41 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
-[^key-516149d036a5614740538337f1190118]: Textual amendment: Words in art. 41(7) substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-516149d036a5614740538337f1190118]: Textual amendment: Words in art. 41(7) substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)

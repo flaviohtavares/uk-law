@@ -96,13 +96,13 @@ In this Schedule—
 - (a) matter included in the discharge is received by the sending undertaker into a sewer or works vested in it, and
 - (b) it was bound (either conditionally or subject to conditions which were observed) to receive that matter into that sewer or works.
 
-(5) In relation to Wales, a sewerage undertaker[^key-9482fe70cc10647585e8b61e39a3affc] is not guilty of an offence under regulation 38(1) in relation to a water discharge activity that consists of a discharge of sewage effluent from a sewer or works vested in it if—
+(5) In relation to Wales, a sewerage undertaker[^c-9482fe70cc10647585e8b61e39a3affc] is not guilty of an offence under regulation 38(1) in relation to a water discharge activity that consists of a discharge of sewage effluent from a sewer or works vested in it if—
 
 - (a) the contravention is attributable to a discharge which another person caused or knowingly permitted to be made into the sewer or works,
 - (b) the undertaker either was not bound to receive the discharge into the sewer or works or was bound to receive it there subject to conditions which were not observed, and
 - (c) the undertaker could not reasonably have been expected to prevent the discharge into the sewer or works.
 
-(5A)[^key-fa057052683f8851aa210dc216972517] In relation to England, a sewerage undertaker is not guilty of an offence under regulation 38(1) or (2) in relation to a water discharge activity that consists of a discharge of sewage effluent from a sewer or works vested in it if—
+(5A)[^c-fa057052683f8851aa210dc216972517] In relation to England, a sewerage undertaker is not guilty of an offence under regulation 38(1) or (2) in relation to a water discharge activity that consists of a discharge of sewage effluent from a sewer or works vested in it if—
 
 - (a) the contravention is attributable to a discharge which another person caused or knowingly permitted to be made into the sewer or works,
 - (b) the undertaker either was not bound to receive the discharge into the sewer or works or was bound to receive it there subject to conditions which were not observed, and
@@ -114,6 +114,6 @@ In this Schedule—
 
 [^c23193681]: Marginal citation: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56); section 110A was inserted by section 45 of the [Competition and Service (Utilities) Act 1992 (c. 43)](https://www.legislation.gov.uk/ukpga/1992/43) and substituted by section 9(1) of the [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21).
 
-[^key-9482fe70cc10647585e8b61e39a3affc]: Textual amendment: Words in [Sch. 21 para. 6(5)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/21/paragraph/6/5) substituted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2023/651/regulation/6/a)
+[^c-9482fe70cc10647585e8b61e39a3affc]: Textual amendment: Words in [Sch. 21 para. 6(5)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/21/paragraph/6/5) substituted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2023/651/regulation/6/a)
 
-[^key-fa057052683f8851aa210dc216972517]: Textual amendment: [Sch. 21 para. 6(5A)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/21/paragraph/6/5A) inserted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2023/651/regulation/6/b)
+[^c-fa057052683f8851aa210dc216972517]: Textual amendment: [Sch. 21 para. 6(5A)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/21/paragraph/6/5A) inserted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2023/651/regulation/6/b)

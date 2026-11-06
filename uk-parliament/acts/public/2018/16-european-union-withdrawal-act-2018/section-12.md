@@ -20,21 +20,21 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-0c4abda58cd486aa6e54f2a7543e3afd][^key-4a188372abf440e0d21117f56a8f6c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-0c4abda58cd486aa6e54f2a7543e3afd][^c-4a188372abf440e0d21117f56a8f6c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-0c4abda58cd486aa6e54f2a7543e3afd][^key-ba1add542fab56eb2087b2bc86b4145d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0c4abda58cd486aa6e54f2a7543e3afd][^c-ba1add542fab56eb2087b2bc86b4145d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-0c4abda58cd486aa6e54f2a7543e3afd][^key-4a188372abf440e0d21117f56a8f6c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0c4abda58cd486aa6e54f2a7543e3afd][^c-4a188372abf440e0d21117f56a8f6c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-0c4abda58cd486aa6e54f2a7543e3afd][^key-ba1add542fab56eb2087b2bc86b4145d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-0c4abda58cd486aa6e54f2a7543e3afd][^c-ba1add542fab56eb2087b2bc86b4145d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-0c4abda58cd486aa6e54f2a7543e3afd][^key-4a188372abf440e0d21117f56a8f6c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-0c4abda58cd486aa6e54f2a7543e3afd][^c-4a188372abf440e0d21117f56a8f6c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-0c4abda58cd486aa6e54f2a7543e3afd][^key-ba1add542fab56eb2087b2bc86b4145d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-0c4abda58cd486aa6e54f2a7543e3afd][^c-ba1add542fab56eb2087b2bc86b4145d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-ba1add542fab56eb2087b2bc86b4145d] Part 1 of Schedule 3 (which makes corresponding provision in relation to executive competence to that made by subsections (1) to (6) in relation to legislative competence) has effect.
+(7)[^c-ba1add542fab56eb2087b2bc86b4145d] Part 1 of Schedule 3 (which makes corresponding provision in relation to executive competence to that made by subsections (1) to (6) in relation to legislative competence) has effect.
 
-(8)[^key-7b50b52e74ee445b137c4217601471a2][^key-ba1add542fab56eb2087b2bc86b4145d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-7b50b52e74ee445b137c4217601471a2][^c-ba1add542fab56eb2087b2bc86b4145d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) A Minister of the Crown may by regulations—
 
@@ -44,13 +44,13 @@ summary: ''
   - (iii) section 6A or 24(3) to (15) of the Northern Ireland Act 1998, or
 - (b) modify any enactment in consequence of any such repeal.
 
-(10)[^key-fe5b71eecaa6bb8ef6ab47dd1abc3906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-fe5b71eecaa6bb8ef6ab47dd1abc3906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-e53e8deeae1e5ae001309ca8d379e312] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-e53e8deeae1e5ae001309ca8d379e312] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-ba1add542fab56eb2087b2bc86b4145d] Part 3 of Schedule 3 (which contains amendments of devolution legislation not dealt with elsewhere) has effect.
+(12)[^c-ba1add542fab56eb2087b2bc86b4145d] Part 3 of Schedule 3 (which contains amendments of devolution legislation not dealt with elsewhere) has effect.
 
-(13)[^key-738901511e58f30d351f469af5aa0237] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-738901511e58f30d351f469af5aa0237] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -58,16 +58,16 @@ summary: ''
 
 [^c23327441]: Commencement: S. 12(9)-(11)(13) in force at 4.7.2018 by [S.I. 2018/808](https://www.legislation.gov.uk/uksi/2018/808), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/808/regulation/3/c)
 
-[^key-0c4abda58cd486aa6e54f2a7543e3afd]: Textual amendment: [S. 12(1)-(6)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/1) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2022/357/regulation/6/2)
+[^c-0c4abda58cd486aa6e54f2a7543e3afd]: Textual amendment: [S. 12(1)-(6)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/1) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2022/357/regulation/6/2)
 
-[^key-4a188372abf440e0d21117f56a8f6c31]: Commencement: [S. 12(1)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/1)[(3)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/3)[(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/5) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/g) (with [reg. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10))
+[^c-4a188372abf440e0d21117f56a8f6c31]: Commencement: [S. 12(1)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/1)[(3)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/3)[(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/5) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/g) (with [reg. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10))
 
-[^key-ba1add542fab56eb2087b2bc86b4145d]: Commencement: [S. 12(2)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/2)[(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/4)[(6)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/6)[(7)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/7)[(8)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/8)[(12)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/12) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/g) (with [reg. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10))
+[^c-ba1add542fab56eb2087b2bc86b4145d]: Commencement: [S. 12(2)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/2)[(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/4)[(6)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/6)[(7)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/7)[(8)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/8)[(12)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/12) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/g) (with [reg. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10))
 
-[^key-7b50b52e74ee445b137c4217601471a2]: Textual amendment: [S. 12(8)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/8) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2022/357/regulation/6/2)
+[^c-7b50b52e74ee445b137c4217601471a2]: Textual amendment: [S. 12(8)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/8) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2022/357/regulation/6/2)
 
-[^key-fe5b71eecaa6bb8ef6ab47dd1abc3906]: Textual amendment: [S. 12(10)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/10) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2022/357/regulation/6/2)
+[^c-fe5b71eecaa6bb8ef6ab47dd1abc3906]: Textual amendment: [S. 12(10)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/10) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2022/357/regulation/6/2)
 
-[^key-e53e8deeae1e5ae001309ca8d379e312]: Textual amendment: [S. 12(11)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/11) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2022/357/regulation/6/2)
+[^c-e53e8deeae1e5ae001309ca8d379e312]: Textual amendment: [S. 12(11)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/11) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2022/357/regulation/6/2)
 
-[^key-738901511e58f30d351f469af5aa0237]: Textual amendment: [S. 12(13)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/13) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2022/357/regulation/6/2)
+[^c-738901511e58f30d351f469af5aa0237]: Textual amendment: [S. 12(13)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/13) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2022/357/regulation/6/2)

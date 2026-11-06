@@ -62,25 +62,25 @@ These Regulations may be cited as the Water Environment (River Basin Management 
 
 - “**the Act**” means the Water Environment and Water Services (Scotland) Act 2003;
 - “**artificial or heavily modified body of surface water**” means a body of surface water designated as artificial or heavily modified in accordance with regulation 4;
-- “[^key-01a7e15d641cd10e7740ae11f3bdef4a]**assimilated law**” has the meaning given by section 6(7) of the European Union (Withdrawal) Act 2018;
+- “[^c-01a7e15d641cd10e7740ae11f3bdef4a]**assimilated law**” has the meaning given by section 6(7) of the European Union (Withdrawal) Act 2018;
 - “**body of surface water**” has the meaning given in section 28 of the Act;
 - “**environmental objective**” means an objective set under section 9(1)(a)(i) of the Act;
-- “[^key-e16095d3be63eb25b02a1503fb8f4164]**the Groundwater Directive**” means Directive [2006/118/EC](https://www.legislation.gov.uk/eudr/2006/118) of the European Parliament and of the Council on the protection of groundwater against pollution and deterioration, as amended by Commission Directive 2014/80/EU,
-- “[^key-f95050ee46a9008b1640faa138773f5d]**groundwater hazardous substance**” means a substance identified in accordance with regulation 24A,
-- “[^key-6490077770a0abfe3519e42d6a3a03c0]**pollutant** ” means any substance or heat liable to cause pollution to the water environment, including those listed in the schedule,
-- “[^key-08361ae1a604f3b2761385e8e87b9061]**the Priority Substances Directive**” means Directive [2008/105/EC](https://www.legislation.gov.uk/eudr/2008/105) of the European Parliament and of the Council on environmental quality standards in the field of water policy, amending and subsequently repealing Council Directives [82/176/EEC](https://www.legislation.gov.uk/eudr/1982/176), [83/513/EEC](https://www.legislation.gov.uk/eudr/1983/513), [84/156/EEC](https://www.legislation.gov.uk/eudr/1984/156), [84/491/EEC](https://www.legislation.gov.uk/eudr/1984/491), [86/280/EEC](https://www.legislation.gov.uk/eudr/1986/280) and amending Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council, as amended by Directive 2013/39/EU of the European Parliament and of the Council,
+- “[^c-e16095d3be63eb25b02a1503fb8f4164]**the Groundwater Directive**” means Directive [2006/118/EC](https://www.legislation.gov.uk/eudr/2006/118) of the European Parliament and of the Council on the protection of groundwater against pollution and deterioration, as amended by Commission Directive 2014/80/EU,
+- “[^c-f95050ee46a9008b1640faa138773f5d]**groundwater hazardous substance**” means a substance identified in accordance with regulation 24A,
+- “[^c-6490077770a0abfe3519e42d6a3a03c0]**pollutant** ” means any substance or heat liable to cause pollution to the water environment, including those listed in the schedule,
+- “[^c-08361ae1a604f3b2761385e8e87b9061]**the Priority Substances Directive**” means Directive [2008/105/EC](https://www.legislation.gov.uk/eudr/2008/105) of the European Parliament and of the Council on environmental quality standards in the field of water policy, amending and subsequently repealing Council Directives [82/176/EEC](https://www.legislation.gov.uk/eudr/1982/176), [83/513/EEC](https://www.legislation.gov.uk/eudr/1983/513), [84/156/EEC](https://www.legislation.gov.uk/eudr/1984/156), [84/491/EEC](https://www.legislation.gov.uk/eudr/1984/491), [86/280/EEC](https://www.legislation.gov.uk/eudr/1986/280) and amending Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council, as amended by Directive 2013/39/EU of the European Parliament and of the Council,
 - “**programme of measures**” means a programme prepared under section 9(1)(b) of the Act;
-- [^key-537d4cd852b0096d7f647894d6c5bdca]...
+- [^c-537d4cd852b0096d7f647894d6c5bdca]...
 - “**river basin district**” means an area designated as such by order under section 4(1) of the Act;
 - “**river basin management plan**” means such a plan approved by the Scottish Ministers under section 13 of the Act (including that section as applied by section 14(4));
 - “**SEPA**” means the Scottish Environment Protection Agency;
-- “[^key-db2b50fa81609a7e87f3b5dddca4ec31]**substance**” includes any chemical element and its compounds (including bacteria and other pathogens),
+- “[^c-db2b50fa81609a7e87f3b5dddca4ec31]**substance**” includes any chemical element and its compounds (including bacteria and other pathogens),
 - “**water environment**” has the meaning given in section 3 of the Act; and
-- “the Water Framework Directive” means[^key-cb59448fcad1fd144f9e13f7127d1f88] [Directive 2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy as last amended by Commission Directive 2014/101/EU.
+- “the Water Framework Directive” means[^c-cb59448fcad1fd144f9e13f7127d1f88] [Directive 2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy as last amended by Commission Directive 2014/101/EU.
 
 (2) Unless the context otherwise requires, any other word or expression which is used in both these Regulations and the Water Framework Directive (and which is not otherwise defined in these Regulations or in Part 1 of the Act) has the meaning given in that Directive.
 
-(3)[^key-0f39639bd7836c927c389e5d58ad50e4] For the purposes of these Regulations—
+(3)[^c-0f39639bd7836c927c389e5d58ad50e4] For the purposes of these Regulations—
 
 - (a) the Water Framework Directive is to be interpreted in accordance with Part 1 (the Directive) of schedule 5 (interpretation of Directives for the purposes of Part 1) of the Act,
 - (b) the Groundwater Directive is to be interpreted in accordance with Part 2 (the Groundwater Directive) of schedule 5 of the Act,
@@ -95,7 +95,7 @@ These Regulations may be cited as the Water Environment (River Basin Management 
 
 ### 3. Setting of environmental objectives
 
-(1) The objectives set under section 9(1)(a)(i) (environmental objectives) of the Act must, subject to the application of regulations 5 to 10 and 17[^key-367bab8bf5074efb6340c5c06fbceb3f]—
+(1) The objectives set under section 9(1)(a)(i) (environmental objectives) of the Act must, subject to the application of regulations 5 to 10 and 17[^c-367bab8bf5074efb6340c5c06fbceb3f]—
 
 - (a) for surface water—
   - (i) prevent deterioration of the status of each body of surface water;
@@ -107,7 +107,7 @@ These Regulations may be cited as the Water Environment (River Basin Management 
   - (ii) prevent or limit the input of pollutants into groundwater [^c21941791];
   - (iii) enhance and restore each body of groundwater, and ensure a balance between abstraction and recharge of groundwater, with the aim of achieving good groundwater status by 22nd December 2015; and
   - (iv) reverse any significant and sustained upward trend in the concentration of any pollutant resulting from the impact of human activity in order to progressively reduce pollution of groundwater; and
-- (c) in addition, for each area and body of water falling within section 7(4) (protected areas) of the Act, achieve compliance with any standards and objectives required by or under any assimilated[^key-561019a671f4cac560981e03b9003c75][^key-492e9d9525cde19be70b5306ca0676af] law described in that section by 22nd December 2015, unless otherwise specified in the assimilated[^key-efecdf7a0b7b86495962b4229fd57b84] law by virtue of which the area or body of water is protected.
+- (c) in addition, for each area and body of water falling within section 7(4) (protected areas) of the Act, achieve compliance with any standards and objectives required by or under any assimilated[^c-561019a671f4cac560981e03b9003c75][^c-492e9d9525cde19be70b5306ca0676af] law described in that section by 22nd December 2015, unless otherwise specified in the assimilated[^c-efecdf7a0b7b86495962b4229fd57b84] law by virtue of which the area or body of water is protected.
 
 (2) Where two or more of the objectives set pursuant to paragraph (1) apply to the same body of water, to the extent that any of those objectives conflict, the most stringent is to apply.
 
@@ -189,7 +189,7 @@ For the purposes of these Regulations and Part 1 of the Act (in particular secti
 Regulations 4 to 9 must not be applied in a way that—
 
 - (a) permanently excludes or compromises the achievement of the environmental objectives set in relation to any other body of water within the same river basin district; or
-- (b) is inconsistent with the implementation of any assimilated[^key-6b82849f43808117526e73c7338f22a9][^key-408bfea10a408b96de6d1e0dc0138041] law relating to the environment.
+- (b) is inconsistent with the implementation of any assimilated[^c-6b82849f43808117526e73c7338f22a9][^c-408bfea10a408b96de6d1e0dc0138041] law relating to the environment.
 
 ### 11. Waters used for the abstraction of drinking water
 
@@ -203,7 +203,7 @@ For each body of water identified under section 6(1) (bodies of water used for t
 - (b) for surface water—
   - (i) cover the volume and level or rate of flow to the extent relevant to ecological status (or, where relevant, ecological potential) and chemical status;
   - (ii) cover the ecological status (or, in the case of an artificial or heavily modified body of water, ecological potential) and chemical status; and
-  - (iii) enable the classification of each body of surface water in accordance with Annex V to the Water Framework Directive[^key-a12787c928d30eb8ba54a6d254c65120];
+  - (iii) enable the classification of each body of surface water in accordance with Annex V to the Water Framework Directive[^c-a12787c928d30eb8ba54a6d254c65120];
 - (c) for groundwater—
   - (i) cover monitoring of the chemical and quantitative status;
   - (ii) enable a reliable assessment of the groundwater status, including assessment of the available groundwater resource; and
@@ -218,7 +218,7 @@ For each body of water identified under section 6(1) (bodies of water used for t
 
 (1) Each programme of measures must include the following measures (as further specified and qualified by Article 11(3) of the Water Framework Directive) [^c21941801]—
 
-- (a) measures required under[^key-dd5746d0bab39d023dae65317081ed2b] assimilated[^key-58e84bd12b72769c7fb796275d8ae569] law for the protection of water;
+- (a) measures required under[^c-dd5746d0bab39d023dae65317081ed2b] assimilated[^c-58e84bd12b72769c7fb796275d8ae569] law for the protection of water;
 - (b) measures deemed appropriate for the purposes of regulation 15;
 - (c) measures to promote an efficient and sustainable water use to avoid compromising the achievement of the environmental objectives set pursuant to regulation 3(1);
 - (d) measures to meet the requirements of regulation 11 and those of Article 7(2) (waters used for the abstraction of drinking water) of the Water Framework Directive;
@@ -235,7 +235,7 @@ For each body of water identified under section 6(1) (bodies of water used for t
   - (iii) injection of natural gas or liquefied petroleum gas for storage purposes into—
     - (aa) geological formations which, for natural reasons, are permanently unsuitable for other purposes; or
     - (bb) other geological formations where there is an overriding need for security of gas supply and the injection is such as to prevent any present or future danger of deterioration in the quality of any receiving groundwater;
-  - (iv) injection of carbon dioxide streams for storage purposes into geological formations which, for natural reasons, are permanently unsuitable for other purposes, provided that such injection is made in accordance with the[^key-f6b6dd167ec670662813e00a377bbd79] assimilated[^key-440de666645eb0a4998816dc3c02bf8d] law which implemented Directive [2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) of the European Parliament and of the Council on the geological storage of carbon dioxide [^c21941811] [^key-233ecae8f24bdb3ad702090e67843b54]...;
+  - (iv) injection of carbon dioxide streams for storage purposes into geological formations which, for natural reasons, are permanently unsuitable for other purposes, provided that such injection is made in accordance with the[^c-f6b6dd167ec670662813e00a377bbd79] assimilated[^c-440de666645eb0a4998816dc3c02bf8d] law which implemented Directive [2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) of the European Parliament and of the Council on the geological storage of carbon dioxide [^c21941811] [^c-233ecae8f24bdb3ad702090e67843b54]...;
   - (v) construction, civil engineering and building works and similar activities on or in the ground which come into contact with groundwater; and
   - (vi) discharges of small quantities of substances for scientific purposes for characterisation, protection or remediation of a body of water limited to the amount strictly necessary for the purposes concerned,
 
@@ -258,7 +258,7 @@ For each body of water identified under section 6(1) (bodies of water used for t
 - (b) SEPA in exercising its functions under the relevant enactments; and
 - (c) each responsible authority in exercising its designated functions.
 
-(4A)[^key-bae2b8271cee8be88734b44977f16bd5] In implementing any measure pursuant to paragraph (4), the Scottish Ministers, SEPA or a responsible authority, as the case may be, must—
+(4A)[^c-bae2b8271cee8be88734b44977f16bd5] In implementing any measure pursuant to paragraph (4), the Scottish Ministers, SEPA or a responsible authority, as the case may be, must—
 
 - (a) ensure that the application of measures taken pursuant to paragraph (1) does not lead directly or indirectly to increased pollution of surface waters;
 - (b) take all appropriate steps not to increase pollution of marine waters; and
@@ -294,7 +294,7 @@ For each body of water identified under section 6(1) (bodies of water used for t
   - (ii) in addition to the information which is required to be included by regulations 5, 6, 7, 8 and 9, identification of instances where use has been made of those regulations;
 - (f) along with the summary of the programme required by paragraph 6 of the schedule—
   - (i) the ways in which the environmental objectives set pursuant to regulation 3(1) are to be achieved;
-  - (ii) a summary of the measures required under[^key-1e2945b5b31416fca53e0695525c6eac] assimilated[^key-0b71dfb35eb8bf342d00c5ba556d143c] law for the protection of water;
+  - (ii) a summary of the measures required under[^c-1e2945b5b31416fca53e0695525c6eac] assimilated[^c-0b71dfb35eb8bf342d00c5ba556d143c] law for the protection of water;
   - (iii) a report on the practical steps and measures taken to apply the principle of recovery of the costs of water services in accordance with regulation 15;
   - (iv) a summary of the measures taken to protect each body of water (used for the abstraction of drinking water) identified in accordance with section 6 (water used for abstraction) of the Act;
   - (v) a summary of the controls on the abstraction and impoundment of water (including registration and the circumstances in which exemptions from the controls apply);
@@ -332,7 +332,7 @@ For each body of water identified under section 6(1) (bodies of water used for t
 
 ## PART 3 — SPECIFIC MEASURES AGAINST POLLUTION OF WATER
 
-### 16. Interpretation of Part 3[^key-e061c547a8566344dbb2e02a221e8455]
+### 16. Interpretation of Part 3[^c-e061c547a8566344dbb2e02a221e8455]
 
 (1) In this Part—
 
@@ -345,14 +345,14 @@ For each body of water identified under section 6(1) (bodies of water used for t
 - “matrix” means a compartment of the aquatic environment, namely water, sediment or biota;
 - “Part A” means Part A of Annex I to the Priority Substances Directive (as read with the definitions and notes contained in that Part);
 - “Part B” means Part B of Annex I to the Priority Substances Directive;
-- [^key-c1d3016f925dc64b31fe004031a73b0e]...
+- [^c-c1d3016f925dc64b31fe004031a73b0e]...
 - “watch list” means the watch list of substances established under Article 8b(1) and (2) of the Priority Substances Directive.
 
 (2) For the purposes of this Part, the limit of quantification may be calculated using an appropriate standard or sample, and may be obtained from the lowest calibration point on the calibration curve, excluding the blank.
 
-(3)[^key-c701308ae3b2bc1ff6844117f7ee608a] When interpreting Directive [2009/90/EC](https://www.legislation.gov.uk/eudr/2009/90) for the purposes of this Part, a reference to one or more member States in a provision imposing an obligation, or conferring a discretion, on a member State or member States is to be read as a reference to SEPA.
+(3)[^c-c701308ae3b2bc1ff6844117f7ee608a] When interpreting Directive [2009/90/EC](https://www.legislation.gov.uk/eudr/2009/90) for the purposes of this Part, a reference to one or more member States in a provision imposing an obligation, or conferring a discretion, on a member State or member States is to be read as a reference to SEPA.
 
-### 17. Environmental quality standards for bodies of surface water[^key-b0bc27f059779aea034971239897d0f6]
+### 17. Environmental quality standards for bodies of surface water[^c-b0bc27f059779aea034971239897d0f6]
 
 (1) Subject to paragraph (2), SEPA must, for each body of surface water within a river basin district, apply the EQS in Part A in accordance with the requirements in Part B.
 
@@ -421,8 +421,8 @@ For each body of water identified under section 6(1) (bodies of water used for t
 
 (15) SEPA must ensure—
 
-- (a) that the river basin management plan (or the next update of it) contains the results and impact of the measures taken to prevent chemical pollution of surface water; [^key-60f82021bb930d4045aad3e129ef119d]...
-- (b)[^key-25f96eea6ddf2209bd10a3ab5f4c1dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) that the river basin management plan (or the next update of it) contains the results and impact of the measures taken to prevent chemical pollution of surface water; [^c-60f82021bb930d4045aad3e129ef119d]...
+- (b)[^c-25f96eea6ddf2209bd10a3ab5f4c1dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (16) SEPA must—
 
@@ -433,7 +433,7 @@ For each body of water identified under section 6(1) (bodies of water used for t
 
 ### 18. Designation of mixing zones
 
-(1) SEPA may designate a mixing zone adjacent to any point of discharge to the water environment which is a regulated activity[^key-8173b2c7b0432fd882fd7a62db52967f] .
+(1) SEPA may designate a mixing zone adjacent to any point of discharge to the water environment which is a regulated activity[^c-8173b2c7b0432fd882fd7a62db52967f] .
 
 (2) SEPA must ensure that the extent of any such zone is—
 
@@ -447,7 +447,7 @@ For each body of water identified under section 6(1) (bodies of water used for t
 - (a) the approaches and methodologies applied to define such zones; and
 - (b) measures taken with a view to reducing the extent of the mixing zones in the future.
 
-(5)[^key-2c5d359471cb80ca927e7274b7018b31] In paragraph (1), “**regulated activity**” has the meaning given in regulation 3 of the Environmental Authorisations (Scotland) Regulations 2018.
+(5)[^c-2c5d359471cb80ca927e7274b7018b31] In paragraph (1), “**regulated activity**” has the meaning given in regulation 3 of the Environmental Authorisations (Scotland) Regulations 2018.
 
 ### 19. Register of emissions, discharges and losses
 
@@ -469,11 +469,11 @@ For each body of water identified under section 6(1) (bodies of water used for t
 - “**the Northumbria River Basin District**” means the area identified by regulation 3(1) of the Water Environment (Water Framework Directive) (Northumbria River Basin District) Regulations 2003 [^c21941861]; and
 - “**the Solway Tweed River Basin District**” means the area identified by regulation 3(1) of the Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004 [^c21941871].
 
-### 19A. Coordination[^key-aab64e7cbed46fd4e7ec049c85381d5c]
+### 19A. Coordination[^c-aab64e7cbed46fd4e7ec049c85381d5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19B. Watch list[^key-b758df062d2ed6e7f3d3527ffe3ca13c]
+### 19B. Watch list[^c-b758df062d2ed6e7f3d3527ffe3ca13c]
 
 (1) SEPA must monitor each substance in the watch list at selected representative monitoring stations for a period of at least 12 months (“the monitoring period”).
 
@@ -501,7 +501,7 @@ For each body of water identified under section 6(1) (bodies of water used for t
 
 - “**background level**” means the concentration of a substance or the value of an indicator in a body of groundwater corresponding to no, or only very minor, anthropogenic alterations to undisturbed conditions;
 - “**baseline level**” means the average value measured at least during the reference years 2007 and 2008 on the basis of monitoring in accordance with a programme prepared under section 8(2) (monitoring) of the Act or, in the case of substances identified after these reference years, during the first period for which a representative period of monitoring data is available;
-- [^key-c2f7dd1bb112e86ed18aaadc7c8880e8]...
+- [^c-c2f7dd1bb112e86ed18aaadc7c8880e8]...
 - “**groundwater quality standard**” means an environmental quality standard expressed as the concentration of a particular pollutant, group of pollutants or indicator of pollution in groundwater, which should not be exceeded in order to protect human health and the environment;
 - “**input of pollutants into groundwater**” means the direct or indirect introduction of pollutants into groundwater as a result of human activity;
 - “**significant and sustained upward trend**” means any statistically and environmentally significant increase of concentration of a pollutant, group of pollutants, or indicator of pollution in groundwater for which trend reversal is identified as being necessary in accordance with regulation 23; and
@@ -522,7 +522,7 @@ For each body of water identified under section 6(1) (bodies of water used for t
 
 - (a) the threshold values which apply for the purposes of paragraph (1);
 - (b) any changes to those threshold values since the plan was last approved; and
-- (c) [^key-ab7cd4961f474c1a4fe56f29d7143ece]...the information set out in Part C of Annex II to the Groundwater Directive.
+- (c) [^c-ab7cd4961f474c1a4fe56f29d7143ece]...the information set out in Part C of Annex II to the Groundwater Directive.
 
 ### 22. Procedure for assessing groundwater chemical status
 
@@ -574,7 +574,7 @@ For each body of water identified under section 6(1) (bodies of water used for t
 
 (2) For the purposes of paragraph (1), inputs of pollutants from diffuse sources of pollution having an impact on the groundwater chemical status must be taken into account whenever technically possible.
 
-(3) Without prejudice to any more stringent requirement in assimilated[^key-b6b8ba5e89483ea4c307f80af3173395][^key-51ff630bcebad0a131d5b10f23cce1c8] law, paragraph (1) does not apply to the input of pollutants that are—
+(3) Without prejudice to any more stringent requirement in assimilated[^c-b6b8ba5e89483ea4c307f80af3173395][^c-51ff630bcebad0a131d5b10f23cce1c8] law, paragraph (1) does not apply to the input of pollutants that are—
 
 - (a) the result of direct discharges authorised in accordance with regulation 13(1)(j);
 - (b) considered by SEPA to be of a quantity and concentration so small as to obviate any present or future danger of deterioration in the quality of the receiving groundwater;
@@ -589,7 +589,7 @@ For each body of water identified under section 6(1) (bodies of water used for t
 
 provided that efficient monitoring of each body of groundwater concerned, in accordance with section 2.4.2 (surveillance monitoring) of Annex V to the Water Framework Directive, or other appropriate monitoring, is being carried out.
 
-### 24A. Identification of groundwater hazardous substances[^key-85b4695d20ce93c1a1bad15039e8a30a]
+### 24A. Identification of groundwater hazardous substances[^c-85b4695d20ce93c1a1bad15039e8a30a]
 
 (1) SEPA must identify—
 
@@ -619,7 +619,7 @@ In the Water Environment (Register of Protected Areas) (Scotland) Regulations 20
 
 In the Marine Strategy Regulations 2010 [^c21941911], in Schedule 2, omit “The Surface Waters (Shellfish) (Classification) (Scotland) Regulations 1997”.
 
-### 27. Amendment of the Water Environment (Controlled Activities) (Scotland) Regulations 2011[^key-30d5cd8e3ef894f64d9c8d2f65cc03ae]
+### 27. Amendment of the Water Environment (Controlled Activities) (Scotland) Regulations 2011[^c-30d5cd8e3ef894f64d9c8d2f65cc03ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -655,7 +655,7 @@ St Andrew's House,
 
 Edinburgh
 
-## SCHEDULE — INDICATIVE LIST OF THE MAIN POLLUTANTS[^key-39111239740741b4b4b7efa9d380d5af]
+## SCHEDULE — INDICATIVE LIST OF THE MAIN POLLUTANTS[^c-39111239740741b4b4b7efa9d380d5af]
 
 Regulation 24A
 
@@ -712,75 +712,75 @@ The powers in section 2(2) of the European Communities Act 1972 (c. 68) (“**th
 
 [^c21941751]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“**the 1998 Act**”), Schedule 8, paragraph 15(3) (which was amended by section 27(4) of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) (“**the 2006 Act**”)). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), [Sch](https://www.legislation.gov.uk/ukpga/2008/7/schedule)edule, Part 1. The functions conferred upon the Minister of the Crown under section 2(2), so far as they are exercisable within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act.
 
-[^key-01a7e15d641cd10e7740ae11f3bdef4a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/2/1) inserted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 24(2)(a)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/24/2/a)
+[^c-01a7e15d641cd10e7740ae11f3bdef4a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/2/1) inserted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 24(2)(a)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/24/2/a)
 
-[^key-e16095d3be63eb25b02a1503fb8f4164]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/2/1) inserted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(2)(a)(i)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e16095d3be63eb25b02a1503fb8f4164]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/2/1) inserted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(2)(a)(i)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f95050ee46a9008b1640faa138773f5d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/2/1) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [41(2)(a)](https://www.legislation.gov.uk/ssi/2025/165/regulation/41/2/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-f95050ee46a9008b1640faa138773f5d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/2/1) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [41(2)(a)](https://www.legislation.gov.uk/ssi/2025/165/regulation/41/2/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-6490077770a0abfe3519e42d6a3a03c0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/2/1) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [41(2)(b)](https://www.legislation.gov.uk/ssi/2025/165/regulation/41/2/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-6490077770a0abfe3519e42d6a3a03c0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/2/1) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [41(2)(b)](https://www.legislation.gov.uk/ssi/2025/165/regulation/41/2/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-08361ae1a604f3b2761385e8e87b9061]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/2/1) inserted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-08361ae1a604f3b2761385e8e87b9061]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/2/1) inserted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-537d4cd852b0096d7f647894d6c5bdca]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/2/1) omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 24(2)(b)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/24/2/b)
+[^c-537d4cd852b0096d7f647894d6c5bdca]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/2/1) omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 24(2)(b)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/24/2/b)
 
-[^key-db2b50fa81609a7e87f3b5dddca4ec31]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/2/1) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [41(2)(c)](https://www.legislation.gov.uk/ssi/2025/165/regulation/41/2/c) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-db2b50fa81609a7e87f3b5dddca4ec31]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/2/1) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [41(2)(c)](https://www.legislation.gov.uk/ssi/2025/165/regulation/41/2/c) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-cb59448fcad1fd144f9e13f7127d1f88]: Textual amendment: Words in reg. 2(1) substituted (14.9.2015) by [The Water Environment (River Basin Management Planning etc.) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/211)](https://www.legislation.gov.uk/ssi/2015/211), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2), [2(a)](https://www.legislation.gov.uk/ssi/2015/211/regulation/2/a)
+[^c-cb59448fcad1fd144f9e13f7127d1f88]: Textual amendment: Words in reg. 2(1) substituted (14.9.2015) by [The Water Environment (River Basin Management Planning etc.) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/211)](https://www.legislation.gov.uk/ssi/2015/211), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2), [2(a)](https://www.legislation.gov.uk/ssi/2015/211/regulation/2/a)
 
-[^key-0f39639bd7836c927c389e5d58ad50e4]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/ssi/2013/323/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2013/323/regulation/2/4) inserted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0f39639bd7836c927c389e5d58ad50e4]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/ssi/2013/323/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2013/323/regulation/2/4) inserted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-367bab8bf5074efb6340c5c06fbceb3f]: Textual amendment: Words in reg. 3(1) inserted (14.9.2015) by [The Water Environment (River Basin Management Planning etc.) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/211)](https://www.legislation.gov.uk/ssi/2015/211), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2), [2(b)](https://www.legislation.gov.uk/ssi/2015/211/regulation/2/b)
+[^c-367bab8bf5074efb6340c5c06fbceb3f]: Textual amendment: Words in reg. 3(1) inserted (14.9.2015) by [The Water Environment (River Basin Management Planning etc.) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/211)](https://www.legislation.gov.uk/ssi/2015/211), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2), [2(b)](https://www.legislation.gov.uk/ssi/2015/211/regulation/2/b)
 
 [^c21941791]: Marginal citation: Regulation 24 requires certain measures to be included in a programme of measures in order to achieve this objective.
 
-[^key-561019a671f4cac560981e03b9003c75]: Textual amendment: Word in [reg. 3(1)(c)](https://www.legislation.gov.uk/ssi/2013/323/regulation/3/1/c) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 24(3)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/24/3)
+[^c-561019a671f4cac560981e03b9003c75]: Textual amendment: Word in [reg. 3(1)(c)](https://www.legislation.gov.uk/ssi/2013/323/regulation/3/1/c) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 24(3)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/24/3)
 
-[^key-492e9d9525cde19be70b5306ca0676af]: Textual amendment: Words in [reg. 3(1)(c)](https://www.legislation.gov.uk/ssi/2013/323/regulation/3/1/c) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-492e9d9525cde19be70b5306ca0676af]: Textual amendment: Words in [reg. 3(1)(c)](https://www.legislation.gov.uk/ssi/2013/323/regulation/3/1/c) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-efecdf7a0b7b86495962b4229fd57b84]: Textual amendment: Words in [reg. 3(1)(c)](https://www.legislation.gov.uk/ssi/2013/323/regulation/3/1/c) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-efecdf7a0b7b86495962b4229fd57b84]: Textual amendment: Words in [reg. 3(1)(c)](https://www.legislation.gov.uk/ssi/2013/323/regulation/3/1/c) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6b82849f43808117526e73c7338f22a9]: Textual amendment: Word in [reg. 10(b)](https://www.legislation.gov.uk/ssi/2013/323/regulation/10/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 24(4)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/24/4)
+[^c-6b82849f43808117526e73c7338f22a9]: Textual amendment: Word in [reg. 10(b)](https://www.legislation.gov.uk/ssi/2013/323/regulation/10/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 24(4)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/24/4)
 
-[^key-408bfea10a408b96de6d1e0dc0138041]: Textual amendment: Words in [reg. 10(b)](https://www.legislation.gov.uk/ssi/2013/323/regulation/10/b) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(4)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-408bfea10a408b96de6d1e0dc0138041]: Textual amendment: Words in [reg. 10(b)](https://www.legislation.gov.uk/ssi/2013/323/regulation/10/b) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(4)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a12787c928d30eb8ba54a6d254c65120]: Textual amendment: Words in reg. 12(1)(b)(iii) substituted (14.9.2015) by [The Water Environment (River Basin Management Planning etc.) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/211)](https://www.legislation.gov.uk/ssi/2015/211), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2), [2(c)](https://www.legislation.gov.uk/ssi/2015/211/regulation/2/c)
+[^c-a12787c928d30eb8ba54a6d254c65120]: Textual amendment: Words in reg. 12(1)(b)(iii) substituted (14.9.2015) by [The Water Environment (River Basin Management Planning etc.) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/211)](https://www.legislation.gov.uk/ssi/2015/211), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2), [2(c)](https://www.legislation.gov.uk/ssi/2015/211/regulation/2/c)
 
 [^c21941801]: Marginal citation: See also regulation 24.
 
-[^key-dd5746d0bab39d023dae65317081ed2b]: Textual amendment: Words in [reg. 13(1)(a)](https://www.legislation.gov.uk/ssi/2013/323/regulation/13/1/a) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(5)(a)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dd5746d0bab39d023dae65317081ed2b]: Textual amendment: Words in [reg. 13(1)(a)](https://www.legislation.gov.uk/ssi/2013/323/regulation/13/1/a) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(5)(a)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-58e84bd12b72769c7fb796275d8ae569]: Textual amendment: Word in [reg. 13(1)(a)](https://www.legislation.gov.uk/ssi/2013/323/regulation/13/1/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 24(5)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/24/5)
+[^c-58e84bd12b72769c7fb796275d8ae569]: Textual amendment: Word in [reg. 13(1)(a)](https://www.legislation.gov.uk/ssi/2013/323/regulation/13/1/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 24(5)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/24/5)
 
-[^key-f6b6dd167ec670662813e00a377bbd79]: Textual amendment: Words in [reg. 13(1)(j)(iv)](https://www.legislation.gov.uk/ssi/2013/323/regulation/13/1/j/iv) inserted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(5)(b)(i)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/5/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f6b6dd167ec670662813e00a377bbd79]: Textual amendment: Words in [reg. 13(1)(j)(iv)](https://www.legislation.gov.uk/ssi/2013/323/regulation/13/1/j/iv) inserted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(5)(b)(i)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/5/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-440de666645eb0a4998816dc3c02bf8d]: Textual amendment: Word in [reg. 13(1)(j)(iv)](https://www.legislation.gov.uk/ssi/2013/323/regulation/13/1/j/iv) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 24(6)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/24/6)
+[^c-440de666645eb0a4998816dc3c02bf8d]: Textual amendment: Word in [reg. 13(1)(j)(iv)](https://www.legislation.gov.uk/ssi/2013/323/regulation/13/1/j/iv) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 24(6)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/24/6)
 
 [^c21941811]: Marginal citation: OJ L 140, 5.6.2009, p.114, as amended by Directive 2011/92/EU of the European Parliament and of the Council (OJ L 26, 28.1.2012, p.1).
 
-[^key-233ecae8f24bdb3ad702090e67843b54]: Textual amendment: Words in [reg. 13(1)(j)(iv)](https://www.legislation.gov.uk/ssi/2013/323/regulation/13/1/j/iv) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(5)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/5/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-233ecae8f24bdb3ad702090e67843b54]: Textual amendment: Words in [reg. 13(1)(j)(iv)](https://www.legislation.gov.uk/ssi/2013/323/regulation/13/1/j/iv) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(5)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/5/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bae2b8271cee8be88734b44977f16bd5]: Textual amendment: [Reg. 13(4A)](https://www.legislation.gov.uk/ssi/2013/323/regulation/13/4A) inserted (1.1.2018) by [The Water Environment (Miscellaneous) (Scotland) Regulations 2017 (S.S.I. 2017/389)](https://www.legislation.gov.uk/ssi/2017/389), [regs. 1](https://www.legislation.gov.uk/ssi/2017/389/regulation/1), [8](https://www.legislation.gov.uk/ssi/2017/389/regulation/8)
+[^c-bae2b8271cee8be88734b44977f16bd5]: Textual amendment: [Reg. 13(4A)](https://www.legislation.gov.uk/ssi/2013/323/regulation/13/4A) inserted (1.1.2018) by [The Water Environment (Miscellaneous) (Scotland) Regulations 2017 (S.S.I. 2017/389)](https://www.legislation.gov.uk/ssi/2017/389), [regs. 1](https://www.legislation.gov.uk/ssi/2017/389/regulation/1), [8](https://www.legislation.gov.uk/ssi/2017/389/regulation/8)
 
-[^key-1e2945b5b31416fca53e0695525c6eac]: Textual amendment: Words in [reg. 14(1)(f)(ii)](https://www.legislation.gov.uk/ssi/2013/323/regulation/14/1/f/ii) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(6)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1e2945b5b31416fca53e0695525c6eac]: Textual amendment: Words in [reg. 14(1)(f)(ii)](https://www.legislation.gov.uk/ssi/2013/323/regulation/14/1/f/ii) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(6)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0b71dfb35eb8bf342d00c5ba556d143c]: Textual amendment: Word in [reg. 14(1)(f)(ii)](https://www.legislation.gov.uk/ssi/2013/323/regulation/14/1/f/ii) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 24(7)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/24/7)
+[^c-0b71dfb35eb8bf342d00c5ba556d143c]: Textual amendment: Word in [reg. 14(1)(f)(ii)](https://www.legislation.gov.uk/ssi/2013/323/regulation/14/1/f/ii) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 24(7)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/24/7)
 
-[^key-e061c547a8566344dbb2e02a221e8455]: Textual amendment: Reg. 16 and cross-heading substituted (14.9.2015) by [The Water Environment (River Basin Management Planning etc.) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/211)](https://www.legislation.gov.uk/ssi/2015/211), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2), [3(a)](https://www.legislation.gov.uk/ssi/2015/211/regulation/3/a)
+[^c-e061c547a8566344dbb2e02a221e8455]: Textual amendment: Reg. 16 and cross-heading substituted (14.9.2015) by [The Water Environment (River Basin Management Planning etc.) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/211)](https://www.legislation.gov.uk/ssi/2015/211), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2), [3(a)](https://www.legislation.gov.uk/ssi/2015/211/regulation/3/a)
 
-[^key-c1d3016f925dc64b31fe004031a73b0e]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/16/1) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(7)(a)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c1d3016f925dc64b31fe004031a73b0e]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/16/1) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(7)(a)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c701308ae3b2bc1ff6844117f7ee608a]: Textual amendment: [Reg. 16(3)](https://www.legislation.gov.uk/ssi/2013/323/regulation/16/3) inserted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(7)(b)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c701308ae3b2bc1ff6844117f7ee608a]: Textual amendment: [Reg. 16(3)](https://www.legislation.gov.uk/ssi/2013/323/regulation/16/3) inserted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(7)(b)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b0bc27f059779aea034971239897d0f6]: Textual amendment: Reg. 17 and cross-heading substituted (14.9.2015) by [The Water Environment (River Basin Management Planning etc.) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/211)](https://www.legislation.gov.uk/ssi/2015/211), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2), [3(b)](https://www.legislation.gov.uk/ssi/2015/211/regulation/3/b) (with [reg. 6](https://www.legislation.gov.uk/ssi/2015/211/regulation/6))
+[^c-b0bc27f059779aea034971239897d0f6]: Textual amendment: Reg. 17 and cross-heading substituted (14.9.2015) by [The Water Environment (River Basin Management Planning etc.) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/211)](https://www.legislation.gov.uk/ssi/2015/211), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2), [3(b)](https://www.legislation.gov.uk/ssi/2015/211/regulation/3/b) (with [reg. 6](https://www.legislation.gov.uk/ssi/2015/211/regulation/6))
 
-[^key-60f82021bb930d4045aad3e129ef119d]: Textual amendment: Word in [reg. 17(15)](https://www.legislation.gov.uk/ssi/2013/323/regulation/17/15) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(8)(i)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/8/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-60f82021bb930d4045aad3e129ef119d]: Textual amendment: Word in [reg. 17(15)](https://www.legislation.gov.uk/ssi/2013/323/regulation/17/15) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(8)(i)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/8/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-25f96eea6ddf2209bd10a3ab5f4c1dcb]: Textual amendment: [Reg. 17(15)(b)](https://www.legislation.gov.uk/ssi/2013/323/regulation/17/15/b) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(8)(ii)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/8/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-25f96eea6ddf2209bd10a3ab5f4c1dcb]: Textual amendment: [Reg. 17(15)(b)](https://www.legislation.gov.uk/ssi/2013/323/regulation/17/15/b) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(8)(ii)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/8/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8173b2c7b0432fd882fd7a62db52967f]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/18/1) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 23(a)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/23/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-8173b2c7b0432fd882fd7a62db52967f]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/18/1) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 23(a)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/23/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-2c5d359471cb80ca927e7274b7018b31]: Textual amendment: [Reg. 18(5)](https://www.legislation.gov.uk/ssi/2013/323/regulation/18/5) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 23(b)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/23/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-2c5d359471cb80ca927e7274b7018b31]: Textual amendment: [Reg. 18(5)](https://www.legislation.gov.uk/ssi/2013/323/regulation/18/5) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 23(b)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/23/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^c21941851]: Marginal citation: OJ L 230, 19.8.91, p.1, as last amended by Commission Implementing Directive 2011/60/EU (OJ L 136, 24.5.2011, p.58).
 
@@ -788,27 +788,27 @@ The powers in section 2(2) of the European Communities Act 1972 (c. 68) (“**th
 
 [^c21941871]: Marginal citation: [S.I. 2004/99](https://www.legislation.gov.uk/uksi/2004/99).
 
-[^key-aab64e7cbed46fd4e7ec049c85381d5c]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/ssi/2013/323/regulation/19A) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(9)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aab64e7cbed46fd4e7ec049c85381d5c]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/ssi/2013/323/regulation/19A) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(9)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b758df062d2ed6e7f3d3527ffe3ca13c]: Textual amendment: Regs. 19A, 19B inserted (14.9.2015) by [The Water Environment (River Basin Management Planning etc.) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/211)](https://www.legislation.gov.uk/ssi/2015/211), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2), [3(c)](https://www.legislation.gov.uk/ssi/2015/211/regulation/3/c)
+[^c-b758df062d2ed6e7f3d3527ffe3ca13c]: Textual amendment: Regs. 19A, 19B inserted (14.9.2015) by [The Water Environment (River Basin Management Planning etc.) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/211)](https://www.legislation.gov.uk/ssi/2015/211), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2), [3(c)](https://www.legislation.gov.uk/ssi/2015/211/regulation/3/c)
 
-[^key-c2f7dd1bb112e86ed18aaadc7c8880e8]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/20/1) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(10)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c2f7dd1bb112e86ed18aaadc7c8880e8]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/20/1) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(10)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ab7cd4961f474c1a4fe56f29d7143ece]: Textual amendment: Words in reg. 21(4)(c) omitted (14.9.2015) by virtue of [The Water Environment (River Basin Management Planning etc.) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/211)](https://www.legislation.gov.uk/ssi/2015/211), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2), [4(b)](https://www.legislation.gov.uk/ssi/2015/211/regulation/4/b)
+[^c-ab7cd4961f474c1a4fe56f29d7143ece]: Textual amendment: Words in reg. 21(4)(c) omitted (14.9.2015) by virtue of [The Water Environment (River Basin Management Planning etc.) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/211)](https://www.legislation.gov.uk/ssi/2015/211), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2), [4(b)](https://www.legislation.gov.uk/ssi/2015/211/regulation/4/b)
 
 [^c21941891]: Marginal citation: See also regulation 13.
 
-[^key-b6b8ba5e89483ea4c307f80af3173395]: Textual amendment: Word in [reg. 24(3)](https://www.legislation.gov.uk/ssi/2013/323/regulation/24/3) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 24(8)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/24/8)
+[^c-b6b8ba5e89483ea4c307f80af3173395]: Textual amendment: Word in [reg. 24(3)](https://www.legislation.gov.uk/ssi/2013/323/regulation/24/3) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 24(8)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/24/8)
 
-[^key-51ff630bcebad0a131d5b10f23cce1c8]: Textual amendment: Words in [reg. 24(3)](https://www.legislation.gov.uk/ssi/2013/323/regulation/24/3) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(11)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-51ff630bcebad0a131d5b10f23cce1c8]: Textual amendment: Words in [reg. 24(3)](https://www.legislation.gov.uk/ssi/2013/323/regulation/24/3) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(11)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-85b4695d20ce93c1a1bad15039e8a30a]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/ssi/2013/323/regulation/24A) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [41(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/41/3) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-85b4695d20ce93c1a1bad15039e8a30a]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/ssi/2013/323/regulation/24A) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [41(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/41/3) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^c21941901]: Marginal citation: [S.S.I. 2004/516](https://www.legislation.gov.uk/ssi/2004/516), as amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
 [^c21941911]: Marginal citation: [S.I. 2010/1627](https://www.legislation.gov.uk/uksi/2010/1627).
 
-[^key-30d5cd8e3ef894f64d9c8d2f65cc03ae]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/ssi/2013/323/regulation/27) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-30d5cd8e3ef894f64d9c8d2f65cc03ae]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/ssi/2013/323/regulation/27) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^c21941951]: Marginal citation: [S.I. 1999/1380](https://www.legislation.gov.uk/uksi/1999/1380).
 
@@ -836,4 +836,4 @@ The powers in section 2(2) of the European Communities Act 1972 (c. 68) (“**th
 
 [^c21942071]: Marginal citation: [S.I. 2007/19](https://www.legislation.gov.uk/uksi/2007/19).
 
-[^key-39111239740741b4b4b7efa9d380d5af]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2013/323/schedule) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 20](https://www.legislation.gov.uk/ssi/2025/165/schedule/20) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-39111239740741b4b4b7efa9d380d5af]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2013/323/schedule) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 20](https://www.legislation.gov.uk/ssi/2025/165/schedule/20) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

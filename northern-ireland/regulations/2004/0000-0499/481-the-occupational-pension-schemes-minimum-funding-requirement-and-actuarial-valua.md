@@ -31,7 +31,7 @@ summary: ''
 
 PENSIONS
 
-The Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^key-45883ca9c1d02b1ca396566ee23e1a5e]
+The Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^c-45883ca9c1d02b1ca396566ee23e1a5e]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into operation
 
 21st December 2004
 
-[^key-45883ca9c1d02b1ca396566ee23e1a5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45883ca9c1d02b1ca396566ee23e1a5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-45883ca9c1d02b1ca396566ee23e1a5e]
+## 1. Citation and commencement[^c-45883ca9c1d02b1ca396566ee23e1a5e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations[^key-45883ca9c1d02b1ca396566ee23e1a5e]
+## 2. Amendment of the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations[^c-45883ca9c1d02b1ca396566ee23e1a5e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-45883ca9c1d02b1ca396566ee23e1a5e]
+## 3. Revocation[^c-45883ca9c1d02b1ca396566ee23e1a5e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-45883ca9c1d02b1ca396566ee23e1a5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45883ca9c1d02b1ca396566ee23e1a5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-45883ca9c1d02b1ca396566ee23e1a5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45883ca9c1d02b1ca396566ee23e1a5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-45883ca9c1d02b1ca396566ee23e1a5e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/481) revoked (30.12.2005) by [The Occupational Pension Schemes (Scheme Funding) Regulations (Northern Ireland) 2005 (S.R. 2005/568)](https://www.legislation.gov.uk/nisr/2005/568), [reg. 1](https://www.legislation.gov.uk/nisr/2005/568/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2005/568/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/nisr/2005/568/schedule/4))
+[^c-45883ca9c1d02b1ca396566ee23e1a5e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/481) revoked (30.12.2005) by [The Occupational Pension Schemes (Scheme Funding) Regulations (Northern Ireland) 2005 (S.R. 2005/568)](https://www.legislation.gov.uk/nisr/2005/568), [reg. 1](https://www.legislation.gov.uk/nisr/2005/568/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2005/568/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/nisr/2005/568/schedule/4))

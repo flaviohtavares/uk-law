@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Civil recovery management receivers[^key-eb0e77ab02b05338c83cf64fb750e922]
+## 83. Civil recovery management receivers[^c-eb0e77ab02b05338c83cf64fb750e922]
 
 *Extent: E+W+S+N.I.*
 
@@ -102,4 +102,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb0e77ab02b05338c83cf64fb750e922]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2007/27/section/83) in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(h)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/h)
+[^c-eb0e77ab02b05338c83cf64fb750e922]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2007/27/section/83) in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(h)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/h)

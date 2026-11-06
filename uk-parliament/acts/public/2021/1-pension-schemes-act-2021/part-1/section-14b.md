@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14B. Unconnected multiple employer schemes: scheme proprietor[^key-d278fac873d3bf7f2731a9a1a97b09a5]
+## 14B. Unconnected multiple employer schemes: scheme proprietor[^c-d278fac873d3bf7f2731a9a1a97b09a5]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d278fac873d3bf7f2731a9a1a97b09a5]: Textual amendment: [Ss. 14A-14D](https://www.legislation.gov.uk/ukpga/2021/1/section/14A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2025/1313/regulation/10)
+[^c-d278fac873d3bf7f2731a9a1a97b09a5]: Textual amendment: [Ss. 14A-14D](https://www.legislation.gov.uk/ukpga/2021/1/section/14A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2025/1313/regulation/10)

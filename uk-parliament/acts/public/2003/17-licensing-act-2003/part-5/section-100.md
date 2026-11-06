@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where it is proposed to use premises for one or more licensable activities during a period not exceeding 168 hours[^key-84ac22ea7da7752fd87d9d3b5e6d06b1], an individual may give to the relevant licensing authority notice of that proposal (a “temporary event notice”).
+(1) Where it is proposed to use premises for one or more licensable activities during a period not exceeding 168 hours[^c-84ac22ea7da7752fd87d9d3b5e6d06b1], an individual may give to the relevant licensing authority notice of that proposal (a “temporary event notice”).
 
 (2) In this Act, the “**premises user**”, in relation to a temporary event notice, is the individual who gave the notice.
 
@@ -35,7 +35,7 @@ summary: ''
 (5) Those matters are—
 
 - (a) the licensable activities to which the proposal mentioned in subsection (1) relates (“the relevant licensable activities”),
-- (b) the period (not exceeding 168 hours[^key-2d386f9ff801fbd656d8e89a3c222c56]) during which it is proposed to use the premises for those activities (“the event period”),
+- (b) the period (not exceeding 168 hours[^c-2d386f9ff801fbd656d8e89a3c222c56]) during which it is proposed to use the premises for those activities (“the event period”),
 - (c) the times during the event period when the premises user proposes that those licensable activities shall take place,
 - (d) the maximum number of persons (being a number less than 500) which the premises user proposes should, during those times, be allowed on the premises at the same time,
 - (e) where the relevant licensable activities include the supply of alcohol, whether supplies are proposed to be for consumption on the premises or off the premises, or both, and
@@ -45,8 +45,8 @@ summary: ''
 
 (7) The temporary event notice—
 
-- (a)[^key-9027e100a7a4bb53b5ea1d9689149870] must be given in accordance with section 100A, and
-- (b) must be accompanied by the prescribed fee when it is given by the premises user to the relevant licensing authority.[^key-8d0b06ed2f358ce18ded139681e75181]
+- (a)[^c-9027e100a7a4bb53b5ea1d9689149870] must be given in accordance with section 100A, and
+- (b) must be accompanied by the prescribed fee when it is given by the premises user to the relevant licensing authority.[^c-8d0b06ed2f358ce18ded139681e75181]
 
 (8) The Secretary of State may, by order—
 
@@ -62,10 +62,10 @@ summary: ''
 
 [^c21006881]: Commencement: S. 100(4)(5)(f)(7)(b)(8) in force at 16.12.2003 by [S.I. 2003/3222](https://www.legislation.gov.uk/uksi/2003/3222), [art. 2](https://www.legislation.gov.uk/uksi/2003/3222/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3222/schedule) and s. 100 in force otherwise at 10.11.2005 by [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/1)
 
-[^key-84ac22ea7da7752fd87d9d3b5e6d06b1]: Textual amendment: Words in s. 100(1) substituted (22.3.2012 for specified purposes, 25.4.2012 in so far as not already in force) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 115(2)(a)](https://www.legislation.gov.uk/ukpga/2011/13/section/115/2/a), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 115(4)](https://www.legislation.gov.uk/ukpga/2011/13/section/115/4)); [S.I. 2012/896](https://www.legislation.gov.uk/uksi/2012/896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/896/article/2/g); S.I. 2012/1129, art. 2(d)
+[^c-84ac22ea7da7752fd87d9d3b5e6d06b1]: Textual amendment: Words in s. 100(1) substituted (22.3.2012 for specified purposes, 25.4.2012 in so far as not already in force) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 115(2)(a)](https://www.legislation.gov.uk/ukpga/2011/13/section/115/2/a), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 115(4)](https://www.legislation.gov.uk/ukpga/2011/13/section/115/4)); [S.I. 2012/896](https://www.legislation.gov.uk/uksi/2012/896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/896/article/2/g); S.I. 2012/1129, art. 2(d)
 
-[^key-2d386f9ff801fbd656d8e89a3c222c56]: Textual amendment: Words in s. 100(5)(b) substituted (22.3.2012 for specified purposes, 25.4.2012 in so far as not already in force) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 115(2)(b)](https://www.legislation.gov.uk/ukpga/2011/13/section/115/2/b), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 115(4)](https://www.legislation.gov.uk/ukpga/2011/13/section/115/4)); [S.I. 2012/896](https://www.legislation.gov.uk/uksi/2012/896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/896/article/2/g); S.I. 2012/1129, art. 2(d)
+[^c-2d386f9ff801fbd656d8e89a3c222c56]: Textual amendment: Words in s. 100(5)(b) substituted (22.3.2012 for specified purposes, 25.4.2012 in so far as not already in force) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 115(2)(b)](https://www.legislation.gov.uk/ukpga/2011/13/section/115/2/b), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 115(4)](https://www.legislation.gov.uk/ukpga/2011/13/section/115/4)); [S.I. 2012/896](https://www.legislation.gov.uk/uksi/2012/896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/896/article/2/g); S.I. 2012/1129, art. 2(d)
 
-[^key-9027e100a7a4bb53b5ea1d9689149870]: Textual amendment: S. 100(7)(a) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 114(3)(a)](https://www.legislation.gov.uk/ukpga/2011/13/section/114/3/a), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 114(13)](https://www.legislation.gov.uk/ukpga/2011/13/section/114/13)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-9027e100a7a4bb53b5ea1d9689149870]: Textual amendment: S. 100(7)(a) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 114(3)(a)](https://www.legislation.gov.uk/ukpga/2011/13/section/114/3/a), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 114(13)](https://www.legislation.gov.uk/ukpga/2011/13/section/114/13)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
 
-[^key-8d0b06ed2f358ce18ded139681e75181]: Textual amendment: Words in s. 100(7)(b) inserted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 114(3)(b)](https://www.legislation.gov.uk/ukpga/2011/13/section/114/3/b), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 114(13)](https://www.legislation.gov.uk/ukpga/2011/13/section/114/13)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-8d0b06ed2f358ce18ded139681e75181]: Textual amendment: Words in s. 100(7)(b) inserted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 114(3)(b)](https://www.legislation.gov.uk/ukpga/2011/13/section/114/3/b), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 114(13)](https://www.legislation.gov.uk/ukpga/2011/13/section/114/13)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)

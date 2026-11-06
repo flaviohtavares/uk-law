@@ -22,7 +22,7 @@ summary: ''
 
 Section 146
 
-### Part 1 — Politically restricted posts[^key-5e0275bbee1173704bc5bc8b44861f7b]
+### Part 1 — Politically restricted posts[^c-5e0275bbee1173704bc5bc8b44861f7b]
 
 <table>
 <tbody>
@@ -41,7 +41,7 @@ Section 146
 | --- | --- |
 | Audit Commission Act 1998 (c. 18) | Section 31. |
 
-### Part 3 — Local government boundary and electoral change[^key-f639800f8e169cafa43a83f4211a339d]
+### Part 3 — Local government boundary and electoral change[^c-f639800f8e169cafa43a83f4211a339d]
 
 <table>
 <tbody>
@@ -75,7 +75,7 @@ Section 146
 </tbody>
 </table>
 
-### Part 4 — Regional strategy[^key-e9eda4d115e3501f4d3a131b6d5980da]
+### Part 4 — Regional strategy[^c-e9eda4d115e3501f4d3a131b6d5980da]
 
 <table>
 <tbody>
@@ -102,7 +102,7 @@ Section 146
 </tbody>
 </table>
 
-### Part 5 — Construction contracts[^key-ba2ab3f2a0cb87ae1a7b21bc8617712d]
+### Part 5 — Construction contracts[^c-ba2ab3f2a0cb87ae1a7b21bc8617712d]
 
 <table>
 <tbody>
@@ -115,10 +115,10 @@ Section 146
 
 ## Annotations
 
-[^key-5e0275bbee1173704bc5bc8b44861f7b]: Commencement: Sch. 7 Pt. 1 in force at 12.1.2010, see ss. 146(3)(a), [148(1)(d)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/1/d)
+[^c-5e0275bbee1173704bc5bc8b44861f7b]: Commencement: Sch. 7 Pt. 1 in force at 12.1.2010, see ss. 146(3)(a), [148(1)(d)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/1/d)
 
-[^key-f639800f8e169cafa43a83f4211a339d]: Commencement: Sch. 7 Pt. 3 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(hh)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/hh)
+[^c-f639800f8e169cafa43a83f4211a339d]: Commencement: Sch. 7 Pt. 3 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(hh)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/hh)
 
-[^key-e9eda4d115e3501f4d3a131b6d5980da]: Commencement: Sch. 7 Pt. 4 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ii)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ii)
+[^c-e9eda4d115e3501f4d3a131b6d5980da]: Commencement: Sch. 7 Pt. 4 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ii)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ii)
 
-[^key-ba2ab3f2a0cb87ae1a7b21bc8617712d]: Commencement: Sch. 7 Pt. 5 in force at 1.11.2011 for S. by [S.S.I. 2011/337](https://www.legislation.gov.uk/ssi/2011/337), [art. 2](https://www.legislation.gov.uk/ssi/2011/337/article/2)
+[^c-ba2ab3f2a0cb87ae1a7b21bc8617712d]: Commencement: Sch. 7 Pt. 5 in force at 1.11.2011 for S. by [S.S.I. 2011/337](https://www.legislation.gov.uk/ssi/2011/337), [art. 2](https://www.legislation.gov.uk/ssi/2011/337/article/2)

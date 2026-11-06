@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Publication of minutes and papers[^key-6a8a85dea145565a5440a0a92cb68e12]
+## 60. Publication of minutes and papers[^c-6a8a85dea145565a5440a0a92cb68e12]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a8a85dea145565a5440a0a92cb68e12]: Commencement: Reg. 60 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-6a8a85dea145565a5440a0a92cb68e12]: Commencement: Reg. 60 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

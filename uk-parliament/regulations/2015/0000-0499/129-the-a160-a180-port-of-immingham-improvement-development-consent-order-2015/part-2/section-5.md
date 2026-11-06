@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Limits of deviation[^key-b0e6348d11cc799c6c84f304e039d418]
+## 5. Limits of deviation[^c-b0e6348d11cc799c6c84f304e039d418]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0e6348d11cc799c6c84f304e039d418]: Commencement: Art. 5 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)
+[^c-b0e6348d11cc799c6c84f304e039d418]: Commencement: Art. 5 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)

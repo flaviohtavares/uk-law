@@ -23,7 +23,7 @@ summary: ''
 (1) For the tax year 2015-16—
 
 - (a) the amount specified in section 10(5) of ITA 2007 (basic rate limit) is replaced with “ £31,785 ”, and
-- (b) the amount specified in section 35(1) (personal allowance) is replaced with “£10,600”[^key-53e7dbb8b39919ce331d41da83451280].
+- (b) the amount specified in section 35(1) (personal allowance) is replaced with “£10,600”[^c-53e7dbb8b39919ce331d41da83451280].
 
 (2) Accordingly, for that tax year—
 
@@ -45,16 +45,16 @@ summary: ''
 
 (8) In section 57 of that Act (indexation of allowances)—
 
-- (a) in subsection (1)(a), for “1948” substitute “ 1938 ”, [^key-00be584c1424e1391e414b218c7ac6c0]...
-- (aa)[^key-4351b78467f5b18c3ca5fa79b6b5caee] in subsection (1)(h), omit “36(2),”, and
+- (a) in subsection (1)(a), for “1948” substitute “ 1938 ”, [^c-00be584c1424e1391e414b218c7ac6c0]...
+- (aa)[^c-4351b78467f5b18c3ca5fa79b6b5caee] in subsection (1)(h), omit “36(2),”, and
 - (b) in subsection (4) omit “36(2),”.
 
 (9) The amendments made by subsections (3) to (8) have effect for the tax year 2015-16 and subsequent tax years.
 
 ## Annotations
 
-[^key-53e7dbb8b39919ce331d41da83451280]: Textual amendment: Sum in s. 2(1)(b) substituted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/11/section/3/2)
+[^c-53e7dbb8b39919ce331d41da83451280]: Textual amendment: Sum in s. 2(1)(b) substituted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2015/11/section/3/2)
 
-[^key-00be584c1424e1391e414b218c7ac6c0]: Textual amendment: Word in s. 2(8)(a) omitted (with effect in accordance with s. 3(5) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2015/11/section/3/3)
+[^c-00be584c1424e1391e414b218c7ac6c0]: Textual amendment: Word in s. 2(8)(a) omitted (with effect in accordance with s. 3(5) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2015/11/section/3/3)
 
-[^key-4351b78467f5b18c3ca5fa79b6b5caee]: Textual amendment: S. 2(8)(aa) inserted (with effect in accordance with s. 3(5) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2015/11/section/3/3)
+[^c-4351b78467f5b18c3ca5fa79b6b5caee]: Textual amendment: S. 2(8)(aa) inserted (with effect in accordance with s. 3(5) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2015/11/section/3/3)

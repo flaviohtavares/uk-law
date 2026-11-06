@@ -22,7 +22,7 @@ summary: ''
 
 In regulation 77 (records of an SE transferred under Article 8(11) or a public company ceasing to exist under Article 29(1) and (2)) [^c23528731]—
 
-- (a) for the heading substitute “ records of an SE transferred under Article 8 of the EC Regulation (as it had effect immediately before IP completion day[^key-c98f952549d93f8116a2845ca713bae2]) ”;
+- (a) for the heading substitute “ records of an SE transferred under Article 8 of the EC Regulation (as it had effect immediately before IP completion day[^c-c98f952549d93f8116a2845ca713bae2]) ”;
 - (b) for paragraph (1) substitute—
 
   > (1) Where the registration of an SE is deleted under regulation 12A(5) following a transfer of its registered office to another Member State, the records of that SE kept by the registrar must continue to be kept by her for a period of twenty years following such a deletion.
@@ -38,4 +38,4 @@ In regulation 77 (records of an SE transferred under Article 8(11) or a public c
 
 [^c23528731]: Marginal citation: Regulation 77 was amended by [S.I. 2014/2382](https://www.legislation.gov.uk/uksi/2014/2382).
 
-[^key-c98f952549d93f8116a2845ca713bae2]: Textual amendment: Words in [reg. 24(a)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/24/a) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2020/523/regulation/3/c)
+[^c-c98f952549d93f8116a2845ca713bae2]: Textual amendment: Words in [reg. 24(a)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/24/a) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2020/523/regulation/3/c)

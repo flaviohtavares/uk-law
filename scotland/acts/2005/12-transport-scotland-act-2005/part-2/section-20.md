@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Directions as to timing of road works[^key-e62e42d1b532c4744f3abb9a0ff34ca8]
+## 20. Directions as to timing of road works[^c-e62e42d1b532c4744f3abb9a0ff34ca8]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e62e42d1b532c4744f3abb9a0ff34ca8]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2005/12/section/20) in force at 1.4.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-e62e42d1b532c4744f3abb9a0ff34ca8]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2005/12/section/20) in force at 1.4.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)

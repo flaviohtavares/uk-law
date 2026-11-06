@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Qualifying for retirement benefits[^key-5fb526df93c275e89f3f92cf51cf0c0d]
+## 79. Qualifying for retirement benefits[^c-5fb526df93c275e89f3f92cf51cf0c0d]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fb526df93c275e89f3f92cf51cf0c0d]: Commencement: [Reg. 79](https://www.legislation.gov.uk/ssi/2014/292/regulation/79) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-5fb526df93c275e89f3f92cf51cf0c0d]: Commencement: [Reg. 79](https://www.legislation.gov.uk/ssi/2014/292/regulation/79) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

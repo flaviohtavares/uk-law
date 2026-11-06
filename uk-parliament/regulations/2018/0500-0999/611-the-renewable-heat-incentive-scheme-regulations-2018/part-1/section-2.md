@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-3d10ecf86f5611ba9added130f79c948] In these Regulations—
+(1)[^c-3d10ecf86f5611ba9added130f79c948] In these Regulations—
 
 - “**accreditation**” means accreditation of an eligible installation by the Authority [^c22955401] following an application under regulation 30;
 - “**accredited RHI installation**” means an eligible installation which has been given accreditation;
@@ -34,9 +34,9 @@ summary: ''
 - “**building**” means any permanent or long-lasting building or structure of whatever kind and whether fixed or moveable which, except for doors and windows, is wholly enclosed on all sides with a roof or ceiling and walls;
 - “**certified installer**” means a person who is certified by the Microgeneration Certification Scheme [^c22955411] or a scheme which is—
   - (a) equivalent to that scheme; and
-  - (b) under which installers are certified to that scheme's standards by a certification body or organisation accredited to [^key-c597dbcd223c272c8b9e47a16dc68691]... EN ISO/IEC 17065:2012 [^c22955431] or a subsequent version of that standard[^key-32b8e0ce2166b63c1539410b47b4128c];
+  - (b) under which installers are certified to that scheme's standards by a certification body or organisation accredited to [^c-c597dbcd223c272c8b9e47a16dc68691]... EN ISO/IEC 17065:2012 [^c22955431] or a subsequent version of that standard[^c-32b8e0ce2166b63c1539410b47b4128c];
 - “**CHP system**” means a system which generates power and is (or may be) operated for purposes including the supply to any premises (using liquid or steam) of heat produced in association with that power;
-- “**CHPQA**” means, except in regulation 27, the Combined Heat and Power Quality Assurance Standard, Issue 6, October 2016 [^c22955441] or a subsequent version of that standard, whichever was relevant at the time of certification[^key-f849cb4a9c539b2a2d7ac1ffcf083313];
+- “**CHPQA**” means, except in regulation 27, the Combined Heat and Power Quality Assurance Standard, Issue 6, October 2016 [^c22955441] or a subsequent version of that standard, whichever was relevant at the time of certification[^c-f849cb4a9c539b2a2d7ac1ffcf083313];
 - “**class 2 heat meter**” means a heat meter which—
   - (a) complies with the relevant requirements set out in Annex I to the Measuring Instruments Directive;
   - (b) complies with the specific requirements listed in Annex VI (Thermal energy meters (MI-004)) to that Directive; and
@@ -45,14 +45,14 @@ summary: ''
 - “**combustion unit**” means—
   - (a) a boiler which uses solid biomass, or solid biomass contained in waste, as fuel; or
   - (b) a boiler, turbine or engine which uses biogas as fuel;
-- “**commissioned**”, in relation to an eligible installation or equipment used to produce biomethane for injection[^key-9a3bbc34107bab2142a1fffc70536493], means the completion of such procedures and tests as constitute, at the time they are undertaken, the usual industry standards and practices for commissioning that type of eligible installation or equipment used to produce biomethane for injection[^key-f9e7167b1ddac3e5f06c265e9b9e42d6] in order to demonstrate that it is capable of operating and delivering heat to the premises or process for which it was installed , or producing biomethane for injection[^key-64abbb0e86c7a38f0b30bb5ae698109a];
+- “**commissioned**”, in relation to an eligible installation or equipment used to produce biomethane for injection[^c-9a3bbc34107bab2142a1fffc70536493], means the completion of such procedures and tests as constitute, at the time they are undertaken, the usual industry standards and practices for commissioning that type of eligible installation or equipment used to produce biomethane for injection[^c-f9e7167b1ddac3e5f06c265e9b9e42d6] in order to demonstrate that it is capable of operating and delivering heat to the premises or process for which it was installed , or producing biomethane for injection[^c-64abbb0e86c7a38f0b30bb5ae698109a];
 - “**connected person**”, in relation to an applicant or a participant, means any person connected to them within the meaning of section 1122 of the Corporation Tax Act 2010 [^c22955451];
 - “**connection agreement**” means an agreement between a person who proposes to inject biomethane into a pipe-line system and the operator of the pipe-line system which provides for the design and construction of a connection whereby the biomethane may be injected into the pipe-line system;
 - “**consumer prices index**” means—
   - (a) the consumer prices index calculated and published by the Office for National Statistics; or
   - (b) where the index is not published for a year, any substituted index or figures published by that Office;
 - “**current information**” means information which is no more than five working days out of date;
-- “date of accreditation” means in relation to an accredited RHI installation which is—[^key-18b9b3eb963ce84ce4eab16dcb68f46a]
+- “date of accreditation” means in relation to an accredited RHI installation which is—[^c-18b9b3eb963ce84ce4eab16dcb68f46a]
   - (a) not a replacement plant, the later of—
     - (i) the first day which falls on or after the date of receipt by the Authority of the application for accreditation on which, in the Authority’s opinion, both—
       - (aa) the application was properly made, and
@@ -66,7 +66,7 @@ summary: ''
 - “**eligibility criteria**” has the meaning given in regulation 4;
 - “**eligible biomethane**” has the meaning given in regulation 73;
 - “**eligible installation**” means a plant which meets the eligibility criteria;
-- “eligible purpose”—[^key-9bfeca9992b7cae958a617dbdbecee80]
+- “eligible purpose”—[^c-9bfeca9992b7cae958a617dbdbecee80]
   - (a) where the installation capacity of an accredited RHI installation is modified under regulation 52A by the addition of one or more ground source heat pumps, in relation to that additional ground source heat pump or pumps, means either of the following purposes—
     - (i) heating a space;
     - (ii) heating water;
@@ -95,7 +95,7 @@ summary: ''
 - “**EPC**” means an energy performance certificate within the meaning given—
   - (a) in relation to a property in England and Wales, by regulation 2(1) of the Energy Performance of Buildings (England and Wales) Regulations 2012 [^c22955491];
   - (b) in relation to a property in Scotland, by regulation 2(1) of the Energy Performance of Buildings (Scotland) Regulations 2008 [^c22955501];
-- “extension application” has the meaning given in regulation 3B(3);[^key-4c571a3104f374ed37c9dd512f92d13e]
+- “extension application” has the meaning given in regulation 3B(3);[^c-4c571a3104f374ed37c9dd512f92d13e]
 - “**GWh**” means gigawatt hours;
 - “**gasification**” means the substoichiometric oxidation or steam reformation of a substance to produce a gaseous mixture containing two or all of the following: carbon, methane or oxides of carbon;
 - “**gas transporter**” means the holder of a licence granted under section 7 of the Gas Act 1986 [^c22955511];
@@ -128,7 +128,7 @@ summary: ''
   - (b) a plant which generates heat using geothermal sources;
   - (c) a plant which is, or forms part of, a new solid biomass CHP system;
   - (d) any other plant which has an installation capacity of at least 1MWth;
-- “local and national laws” means laws applying in the locality in which the site is situated, whether made at a local or national level;[^key-e9e98d41cb0a8659aeac65d4bdbed24e]
+- “local and national laws” means laws applying in the locality in which the site is situated, whether made at a local or national level;[^c-e9e98d41cb0a8659aeac65d4bdbed24e]
 - “**maximum additional capacity**” has the meaning given in regulation 77;
 - “**maximum initial capacity**” means the maximum volume of biomethane, expressed in cubic metres per quarterly period which a participant is entitled to supply for injection under the network entry agreement applicable to the biomethane in relation to which an application for registration under regulation 32 is made;
 - “**Measuring Instruments Directive**” means Directive 2014/32/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of measuring instruments (recast) [^c22955531];
@@ -140,10 +140,10 @@ summary: ''
 - “**NOₓ**” means oxides of nitrogen;
 - “**ongoing obligations**” means the obligations specified in Part 4 and regulations 48 to 50;
 - “**original biomethane**” means biomethane which is produced by a relevant producer (within the meaning given in regulation 56) and which falls within that producer's maximum initial capacity;
-- “original plant” means an accredited RHI installation which is replaced by a replacement plant;[^key-3b68c7897688ea00c12aa1fe5daa2941]
+- “original plant” means an accredited RHI installation which is replaced by a replacement plant;[^c-3b68c7897688ea00c12aa1fe5daa2941]
 - “**participant**” means—
   - (a) the owner of an accredited RHI installation or, where there is more than one such owner, the owner with authority to act on behalf of all owners in accordance with regulation 30(3); or
-  - (b) a producer of biomethane for injection whose name appears on the central register referred to in regulation 32(10)(b)[^key-7ff950045921267091e6766f975f2f9f];
+  - (b) a producer of biomethane for injection whose name appears on the central register referred to in regulation 32(10)(b)[^c-7ff950045921267091e6766f975f2f9f];
 - “**periodic support payments**” has the meaning given in regulation 3;
 - “**pipe-line system**” has the same meaning as in section 5(10) of the Gas Act 1986 [^c22955541];
 - “**PM**” means particulate matter;
@@ -163,13 +163,13 @@ summary: ''
   - (a) in relation to an accredited RHI installation, the tariff start date for that installation;
   - (b) in relation to a producer of biomethane for injection who is registered in relation to any original biomethane or additional biomethane, the tariff start date for the original biomethane;
 - “**relevant tariff**” means the tariff applicable to the source of energy and technology and installation capacity of an accredited RHI installation, or to the production of biomethane;
-- “replacement plant” means a plant which is installed in place of an original plant and uses the same source of energy and technology as the original plant;[^key-13bd9427f1901d03549eafc74c166002]
+- “replacement plant” means a plant which is installed in place of an original plant and uses the same source of energy and technology as the original plant;[^c-13bd9427f1901d03549eafc74c166002]
 - “**retail prices index**” means—
   - (a) the general index of retail prices (for all items) published by the Office for National Statistics; or
   - (b) where the index is not published for a year, any substituted index or figures published by that Office;
 - “**RHI emission certificate**” means a document which meets the requirements in regulation 6;
 - “**the Scheme**” has the meaning given in regulation 3(1);
-- “Scheme closure” has the meaning given in regulation 3A(1);[^key-6caf811b41b0d24331df750eb2ed1338]
+- “Scheme closure” has the meaning given in regulation 3A(1);[^c-6caf811b41b0d24331df750eb2ed1338]
 - “**seasonal performance factor**”, in relation to an air source heat pump or a ground source heat pump, means the ratio of its heat output to electricity input expressed as an average over a year;
 - “**shared ground loop system**” means a system in which a ground loop provides heat energy through a hydraulic connection to two or more ground source heat pumps installed in separate or the same premises, provided that not more than one ground source heat pump is installed in a single domestic premises;
 - “**solar collector**” means a liquid filled flat plate or evacuated tube solar collector;
@@ -179,7 +179,7 @@ summary: ''
   - (c) a temperature sensor; and
   - (d) a digital integrator or calculator able to determine the cumulative energy in megawatt hours thermal which has passed a specific point;
 - “**subsequent tariff**” means the tariff calculated in accordance with regulation 62;
-- “[^key-9fe74a1c7807718f0fbc1b92d988531f]**subsequent version**”, in relation to a standard, means an issue or version of that standard approved by the Secretary of State under regulation 2A;
+- “[^c-9fe74a1c7807718f0fbc1b92d988531f]**subsequent version**”, in relation to a standard, means an issue or version of that standard approved by the Secretary of State under regulation 2A;
 - “**tariff**” means the payment rate per kWhth in respect of an accredited RHI installation and per kWh in respect of biomethane injection;
 - “**tariff end date**” means the last day of the tariff lifetime;
 - “**tariff guarantee**” means a guarantee granted in accordance with regulation 35(7);
@@ -204,33 +204,33 @@ summary: ''
 
 ## Annotations
 
-[^key-3d10ecf86f5611ba9added130f79c948]: Modification: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/611/regulation/2/1) modified (temp.) (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Renewable Heat Incentive Scheme (Temporary Modification) Regulations 2021 (S.I. 2021/346)](https://www.legislation.gov.uk/uksi/2021/346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/346/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/346/regulation/2/2)
+[^c-3d10ecf86f5611ba9added130f79c948]: Modification: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/611/regulation/2/1) modified (temp.) (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Renewable Heat Incentive Scheme (Temporary Modification) Regulations 2021 (S.I. 2021/346)](https://www.legislation.gov.uk/uksi/2021/346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/346/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/346/regulation/2/2)
 
 [^c22955401]: Marginal citation: The “**Authority**” means the Gas and Electricity Markets Authority; see section 100(3) of the Energy Act 2008.
 
 [^c22955411]: Marginal citation: Details of which are available at www.microgenerationcertification.org
 
-[^key-c597dbcd223c272c8b9e47a16dc68691]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/611/regulation/2/1) omitted (1.4.2022) by virtue of [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [32(a)(i)](https://www.legislation.gov.uk/uksi/2022/159/regulation/32/a/i)
+[^c-c597dbcd223c272c8b9e47a16dc68691]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/611/regulation/2/1) omitted (1.4.2022) by virtue of [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [32(a)(i)](https://www.legislation.gov.uk/uksi/2022/159/regulation/32/a/i)
 
 [^c22955431]: Marginal citation: The ISBN for the English language version of this standard is ISBN 978 0 580 78472 9. This standard was published by the British Standards Institution on 31st October 2012 and copies, including hard copies, can be obtained at www.bsigroup.com.
 
-[^key-32b8e0ce2166b63c1539410b47b4128c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/611/regulation/2/1) inserted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [32(a)(ii)](https://www.legislation.gov.uk/uksi/2022/159/regulation/32/a/ii)
+[^c-32b8e0ce2166b63c1539410b47b4128c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/611/regulation/2/1) inserted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [32(a)(ii)](https://www.legislation.gov.uk/uksi/2022/159/regulation/32/a/ii)
 
 [^c22955441]: Marginal citation: This standard was published by the Department for Business, Energy and Industrial Strategy and is available, including in hard copy, at www.gov.uk/guidance/combined-heat-power-quality-assurance-programme.
 
-[^key-f849cb4a9c539b2a2d7ac1ffcf083313]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/611/regulation/2/1) inserted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [32(b)](https://www.legislation.gov.uk/uksi/2022/159/regulation/32/b)
+[^c-f849cb4a9c539b2a2d7ac1ffcf083313]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/611/regulation/2/1) inserted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [32(b)](https://www.legislation.gov.uk/uksi/2022/159/regulation/32/b)
 
-[^key-9a3bbc34107bab2142a1fffc70536493]: Textual amendment: Words in reg. 2(1) inserted (20.6.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/2), [9(a)(i)](https://www.legislation.gov.uk/uksi/2018/635/regulation/9/a/i)
+[^c-9a3bbc34107bab2142a1fffc70536493]: Textual amendment: Words in reg. 2(1) inserted (20.6.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/2), [9(a)(i)](https://www.legislation.gov.uk/uksi/2018/635/regulation/9/a/i)
 
-[^key-f9e7167b1ddac3e5f06c265e9b9e42d6]: Textual amendment: Words in reg. 2(1) inserted (20.6.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/2), [9(a)(ii)](https://www.legislation.gov.uk/uksi/2018/635/regulation/9/a/ii)
+[^c-f9e7167b1ddac3e5f06c265e9b9e42d6]: Textual amendment: Words in reg. 2(1) inserted (20.6.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/2), [9(a)(ii)](https://www.legislation.gov.uk/uksi/2018/635/regulation/9/a/ii)
 
-[^key-64abbb0e86c7a38f0b30bb5ae698109a]: Textual amendment: Words in reg. 2(1) inserted (20.6.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/2), [9(a)(iii)](https://www.legislation.gov.uk/uksi/2018/635/regulation/9/a/iii)
+[^c-64abbb0e86c7a38f0b30bb5ae698109a]: Textual amendment: Words in reg. 2(1) inserted (20.6.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/2), [9(a)(iii)](https://www.legislation.gov.uk/uksi/2018/635/regulation/9/a/iii)
 
 [^c22955451]: Marginal citation: [2010 c.4](https://www.legislation.gov.uk/ukpga/2010/4).
 
-[^key-18b9b3eb963ce84ce4eab16dcb68f46a]: Textual amendment: Words in reg. 2(1) substituted (1.10.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/4), [9(b)](https://www.legislation.gov.uk/uksi/2018/635/regulation/9/b)
+[^c-18b9b3eb963ce84ce4eab16dcb68f46a]: Textual amendment: Words in reg. 2(1) substituted (1.10.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/4), [9(b)](https://www.legislation.gov.uk/uksi/2018/635/regulation/9/b)
 
-[^key-9bfeca9992b7cae958a617dbdbecee80]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/611/regulation/2/1) substituted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [8(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/8/a)
+[^c-9bfeca9992b7cae958a617dbdbecee80]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/611/regulation/2/1) substituted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [8(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/8/a)
 
 [^c22955461]: Marginal citation: The ISBN for the English language version of this standard is ISBN 0 580 19482 5. This standard was published by the British Standards Institution on 28th June 2011 and copies, including hard copies, can be obtained at www.bsigroup.com.
 
@@ -242,19 +242,19 @@ summary: ''
 
 [^c22955501]: Marginal citation: [S.S.I. 2008/309](https://www.legislation.gov.uk/ssi/2008/309), to which there are amendments not relevant to these Regulations.
 
-[^key-4c571a3104f374ed37c9dd512f92d13e]: Textual amendment: Words in reg. 2(1) inserted (1.3.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/2/b/ii), [8(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/8/b)
+[^c-4c571a3104f374ed37c9dd512f92d13e]: Textual amendment: Words in reg. 2(1) inserted (1.3.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/2/b/ii), [8(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/8/b)
 
 [^c22955511]: Marginal citation: [1986 c.44](https://www.legislation.gov.uk/ukpga/1986/44). Section 7 was substituted by section 5 of the [Gas Act 1995 (c.45)](https://www.legislation.gov.uk/ukpga/1995/45), and amended by sections 3(2) and 76 of, and paragraph 4 of Schedule 6, and paragraph 1 of Schedule 8 to, the [Utilities Act 2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27), by section 149(5) of the [Energy Act 2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20), and by [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704).
 
 [^c22955521]: Marginal citation: The ISBN for the English language version of this standard is ISBN 978 1903287 804. This standard was published by the Chartered Institute of Building Services Engineers in 2007 and copies, including hard copies, can be obtained at www.cibse.org.
 
-[^key-e9e98d41cb0a8659aeac65d4bdbed24e]: Textual amendment: Words in reg. 2(1) inserted (1.10.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/4), [9(c)](https://www.legislation.gov.uk/uksi/2018/635/regulation/9/c)
+[^c-e9e98d41cb0a8659aeac65d4bdbed24e]: Textual amendment: Words in reg. 2(1) inserted (1.10.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/4), [9(c)](https://www.legislation.gov.uk/uksi/2018/635/regulation/9/c)
 
 [^c22955531]: Marginal citation: OJ L 96, 29.3.2014, p149.
 
-[^key-3b68c7897688ea00c12aa1fe5daa2941]: Textual amendment: Words in reg. 2(1) inserted (1.10.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/4), [9(d)](https://www.legislation.gov.uk/uksi/2018/635/regulation/9/d)
+[^c-3b68c7897688ea00c12aa1fe5daa2941]: Textual amendment: Words in reg. 2(1) inserted (1.10.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/4), [9(d)](https://www.legislation.gov.uk/uksi/2018/635/regulation/9/d)
 
-[^key-7ff950045921267091e6766f975f2f9f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/611/regulation/2/1) substituted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [8(c)](https://www.legislation.gov.uk/uksi/2021/76/regulation/8/c)
+[^c-7ff950045921267091e6766f975f2f9f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/611/regulation/2/1) substituted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [8(c)](https://www.legislation.gov.uk/uksi/2021/76/regulation/8/c)
 
 [^c22955541]: Marginal citation: Section 5(6) to (10) was inserted by section 149(3) of the Energy Act 2004.
 
@@ -266,11 +266,11 @@ summary: ''
 
 [^c22955581]: Marginal citation: The ISBN for the English language version of this standard is ISBN 978 0 580 69184 3. This standard was published by the British Standards Institution on 31st December 2008 and copies, including hard copies, can be obtained at www.bsigroup.com.
 
-[^key-13bd9427f1901d03549eafc74c166002]: Textual amendment: Words in reg. 2(1) inserted (1.10.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/4), [9(e)](https://www.legislation.gov.uk/uksi/2018/635/regulation/9/e)
+[^c-13bd9427f1901d03549eafc74c166002]: Textual amendment: Words in reg. 2(1) inserted (1.10.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/4), [9(e)](https://www.legislation.gov.uk/uksi/2018/635/regulation/9/e)
 
-[^key-6caf811b41b0d24331df750eb2ed1338]: Textual amendment: Words in reg. 2(1) inserted (1.3.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/2/b/ii), [8(d)](https://www.legislation.gov.uk/uksi/2021/76/regulation/8/d)
+[^c-6caf811b41b0d24331df750eb2ed1338]: Textual amendment: Words in reg. 2(1) inserted (1.3.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/2/b/ii), [8(d)](https://www.legislation.gov.uk/uksi/2021/76/regulation/8/d)
 
-[^key-9fe74a1c7807718f0fbc1b92d988531f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/611/regulation/2/1) inserted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [32(c)](https://www.legislation.gov.uk/uksi/2022/159/regulation/32/c)
+[^c-9fe74a1c7807718f0fbc1b92d988531f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/611/regulation/2/1) inserted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [32(c)](https://www.legislation.gov.uk/uksi/2022/159/regulation/32/c)
 
 [^c22955591]: Marginal citation: OJ No L 312, 22.11.2008, p3.
 

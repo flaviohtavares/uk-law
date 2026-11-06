@@ -24,11 +24,11 @@ Section 2
 
 ### PART 1 — Amendments to the Markets in Financial Instruments Regulation
 
-#### 1. Introductory[^key-610cd280af83744dde98073e0c2a7357][^key-f927c77dfde741a8bd5a4f190c59ad7c][^key-057048f57bc3c5c734c26ce426ba9298][^key-ffa7a7f46945def53f19073386c5aa32][^key-4a58c71b0acd763d658115038ec9091f][^key-1de537552df350acdc75ac156390d541][^key-67aeba3a8024046792f3ceb2e951e7b8]
+#### 1. Introductory[^c-610cd280af83744dde98073e0c2a7357][^c-f927c77dfde741a8bd5a4f190c59ad7c][^c-057048f57bc3c5c734c26ce426ba9298][^c-ffa7a7f46945def53f19073386c5aa32][^c-4a58c71b0acd763d658115038ec9091f][^c-1de537552df350acdc75ac156390d541][^c-67aeba3a8024046792f3ceb2e951e7b8]
 
 [Regulation (EU) No 600/2014](https://www.legislation.gov.uk/european/regulation/2014/0600) of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments is amended in accordance with this Part of this Schedule.
 
-#### 2. Transparency requirements for equities[^key-c8df130ee1c4893737cc90a5531d63c1]
+#### 2. Transparency requirements for equities[^c-c8df130ee1c4893737cc90a5531d63c1]
 
 **Not yet in force.**
 
@@ -41,7 +41,7 @@ In Article 3 (pre-trade transparency requirements), after paragraph 3 insert—
 >
 > **5.** In making technical standards under paragraph 4 the FCA must take into account the necessary calibration for the different types of trading systems referred to in paragraph 2.
 
-**3.**[^key-f53df85510dee17f76f5a4d8b86d2326][^key-a35023bb37ec93f819b49a9c270f5032] For Article 4 substitute—
+**3.**[^c-f53df85510dee17f76f5a4d8b86d2326][^c-a35023bb37ec93f819b49a9c270f5032] For Article 4 substitute—
 
 > **Article 4 — Waivers for equity instruments**
 >
@@ -58,7 +58,7 @@ In Article 3 (pre-trade transparency requirements), after paragraph 3 insert—
 > - (a) in a way that deviates from its original purpose, or
 > - (b) to avoid requirements imposed by the rules.
 
-**4.**[^key-916f81746651239e108c86605e5d5b16][^key-600aa447a7c10ac5ea9bc9a85a40978f] After Article 4 insert—
+**4.**[^c-916f81746651239e108c86605e5d5b16][^c-600aa447a7c10ac5ea9bc9a85a40978f] After Article 4 insert—
 
 > **Article 4a — Suspension of waivers**
 >
@@ -81,9 +81,9 @@ In Article 3 (pre-trade transparency requirements), after paragraph 3 insert—
 > - (a) the transparency of the price formation process, or
 > - (b) the interests of consumers (within the meaning of section 1G of FSMA).
 
-**5.**[^key-7801b360b97435d06586303cfec79435][^M_I_4a368110-2692-4fd6-ab33-80e1c7b76055] Omit Article 5 (volume cap mechanism).
+**5.**[^c-7801b360b97435d06586303cfec79435][^M_I_4a368110-2692-4fd6-ab33-80e1c7b76055] Omit Article 5 (volume cap mechanism).
 
-**6.**[^key-dd5e3157ecc1f189d006bfbdd905fa0a][^M_I_4570dca2-14fa-401d-9c37-cf64efaad5f3] (1) Article 14 (obligation for systematic internalisers to make public firm quotes in respect of shares etc) is amended as follows.
+**6.**[^c-dd5e3157ecc1f189d006bfbdd905fa0a][^M_I_4570dca2-14fa-401d-9c37-cf64efaad5f3] (1) Article 14 (obligation for systematic internalisers to make public firm quotes in respect of shares etc) is amended as follows.
 
 (2) In paragraph 6A, omit “referred to in Article 5(3A)”.
 
@@ -96,7 +96,7 @@ In Article 3 (pre-trade transparency requirements), after paragraph 3 insert—
 >
 > **6E.** In deciding whether to issue a direction under paragraph 6D(b), the Treasury must take into account whether the FCA is able to carry out its functions relating to transparency under this Regulation and its implementing measures.
 
-#### 7. Transparency requirements for fixed income instruments and derivatives etc[^key-185376b0046845eace74fcecae04b391][^key-9e557202545896392e1dc4f63297d045][^key-face1264874e7a2829b9e5485f8bcafc]
+#### 7. Transparency requirements for fixed income instruments and derivatives etc[^c-185376b0046845eace74fcecae04b391][^c-9e557202545896392e1dc4f63297d045][^c-face1264874e7a2829b9e5485f8bcafc]
 
 For Articles 8 to 11 substitute—
 
@@ -206,7 +206,7 @@ For Articles 8 to 11 substitute—
 > - (a) its consumer protection objective under section 1C of FSMA, and
 > - (b) its competition objective under section 1E of FSMA.
 
-#### 8. Systematic internalisers and other investment firms[^key-a164dfac769afbc4e678d18d99cfdf56][^key-16a4b60e7ebb873262e49d767ea0d166][^key-1f578448600b213529551d923f8ace93]
+#### 8. Systematic internalisers and other investment firms[^c-a164dfac769afbc4e678d18d99cfdf56][^c-16a4b60e7ebb873262e49d767ea0d166][^c-1f578448600b213529551d923f8ace93]
 
 In Article 2(1) (definitions), for points (12) and (12A) substitute—
 
@@ -219,9 +219,9 @@ In Article 2(1) (definitions), for points (12) and (12A) substitute—
 
 .
 
-**9.**[^key-b7f6ea3d76d47368fbf4beb78ebdaefd][^M_I_6494cadc-b35b-461d-800d-7cbdb871d925] In Article 17a (tick sizes), in the second paragraph, omit “large in scale”.
+**9.**[^c-b7f6ea3d76d47368fbf4beb78ebdaefd][^M_I_6494cadc-b35b-461d-800d-7cbdb871d925] In Article 17a (tick sizes), in the second paragraph, omit “large in scale”.
 
-**10.**[^key-b843b070021ea1e975d1c077ebaf1033][^key-3ca132ff83857f842bf5c3f8130a90cc][^key-e10ee43d4e6ec9712a7f97978c0dfbf6] For Article 18 substitute—
+**10.**[^c-b843b070021ea1e975d1c077ebaf1033][^c-3ca132ff83857f842bf5c3f8130a90cc][^c-e10ee43d4e6ec9712a7f97978c0dfbf6] For Article 18 substitute—
 
 > **Article 18 — Systematic internalisers: pre-trade transparency requirements for fixed income instruments and derivatives etc**
 >
@@ -278,7 +278,7 @@ In Article 2(1) (definitions), for points (12) and (12A) substitute—
 >
 > **2.** The FCA must publish, and keep up to date, a list of the systematic internalisers for which it has received notification under paragraph 1.
 
-**11.**[^key-12f49e18ddfa90f03cf87f54eff43c6d][^key-e5aa93bc360551e09be6b3d41f737611][^key-fd52d0024bd45957ccb7e6a0c961eb7e] For Article 21 substitute—
+**11.**[^c-12f49e18ddfa90f03cf87f54eff43c6d][^c-e5aa93bc360551e09be6b3d41f737611][^c-fd52d0024bd45957ccb7e6a0c961eb7e] For Article 21 substitute—
 
 > **Article 21 — Investment firms (including systematic internalisers): post-trade transparency requirements for fixed income instruments and derivatives etc**
 >
@@ -326,11 +326,11 @@ In Article 2(1) (definitions), for points (12) and (12A) substitute—
 > - “**relevant instruments**” means bonds, structured finance products, emission allowances, derivatives and instruments included within package transactions;
 > - “**relevant persons**” means investment firms which, either on own account or on behalf of clients, conclude transactions in relevant instruments.
 
-#### 12. Systematic internalisers and other investment firms[^key-62cabd5f3bb00b7f7d8572b2bbaa352b][^key-fed487b547dd6eaf2ab01717ac58da3c][^key-0b2c4d4d99ff5441fe37d2646c8bf91d]
+#### 12. Systematic internalisers and other investment firms[^c-62cabd5f3bb00b7f7d8572b2bbaa352b][^c-fed487b547dd6eaf2ab01717ac58da3c][^c-0b2c4d4d99ff5441fe37d2646c8bf91d]
 
 In Article 22 (providing information for the purposes of transparency and other calculations), in paragraph 1 omit “and for determining whether an investment firm is a systematic internaliser”.
 
-#### 13. Share trading obligation[^key-f39b3850f52975e51d018195890d8827][^key-cecabcf03afcdd7a748dca0ccac0544c]
+#### 13. Share trading obligation[^c-f39b3850f52975e51d018195890d8827][^c-cecabcf03afcdd7a748dca0ccac0544c]
 
 (1) Article 23 (trading obligation for investment firms) is amended as follows.
 
@@ -338,13 +338,13 @@ In Article 22 (providing information for the purposes of transparency and other 
 
 (3) In the title, for “Trading obligation for investment firms” substitute “Investment firms operating internal matching systems”.
 
-**14.**[^key-41782e935f67e6c31f9cfcb270b25ec5][^key-991efdab2c8c2a77940e9d20ce908179] In Article 1(2E), omit “Article 23,”.
+**14.**[^c-41782e935f67e6c31f9cfcb270b25ec5][^c-991efdab2c8c2a77940e9d20ce908179] In Article 1(2E), omit “Article 23,”.
 
-#### 15. Derivatives trading obligation[^key-2145d2dec74a97957beec58343e320c1][^key-bdd66a2b12e809bf6541fcbdafa50ac5]
+#### 15. Derivatives trading obligation[^c-2145d2dec74a97957beec58343e320c1][^c-bdd66a2b12e809bf6541fcbdafa50ac5]
 
 In Article 1(3) (subject matter and scope), for “financial counterparties” to the end substitute “counterparties that are relevant financial counterparties, or relevant non-financial counterparties, for the purposes of Article 28 (see paragraph 1A of that Article)”.
 
-**16.**[^key-c24ed3a3e191a6dae2f851b9babc54f9][^key-6c1b327934fe51778f777eca9287dbe9] (1) Article 28 (obligation to trade on regulated markets, MTFs or OTFs) is amended as follows.
+**16.**[^c-c24ed3a3e191a6dae2f851b9babc54f9][^c-6c1b327934fe51778f777eca9287dbe9] (1) Article 28 (obligation to trade on regulated markets, MTFs or OTFs) is amended as follows.
 
 (2) In paragraph 1, for the words from the beginning to “Article 10(1)(b) of [Regulation (EU) No 648/2012](https://www.legislation.gov.uk/european/regulation/2012/0648)” substitute “Relevant financial counterparties and relevant non-financial counterparties shall conclude transactions which are neither intragroup transactions as defined in Article 3 of [Regulation (EU) No 648/2012](https://www.legislation.gov.uk/european/regulation/2012/0648) nor transactions covered by the transitional provisions in Article 89 of that Regulation with other relevant financial counterparties or other relevant non-financial counterparties”.
 
@@ -356,7 +356,7 @@ In Article 1(3) (subject matter and scope), for “financial counterparties” t
 > - (b) a financial counterparty is a “relevant” financial counterparty if it is subject to the clearing obligation referred to in Article 4 of [Regulation (EU) No 648/2012](https://www.legislation.gov.uk/european/regulation/2012/0648);
 > - (c) a non-financial counterparty is a “relevant” non-financial counterparty in respect of derivative contracts pertaining to any asset classes if it is subject to that clearing obligation in respect of derivative contracts pertaining to those asset classes.
 
-**17.**[^key-ebbd4310b4ab1e8442bf49282df004bd][^M_I_49f8039a-f33c-4c6e-a7a7-60784be7eb0c][^key-2d98fff858a07303a424b1fd76762dd3] After Article 28 insert—
+**17.**[^c-ebbd4310b4ab1e8442bf49282df004bd][^M_I_49f8039a-f33c-4c6e-a7a7-60784be7eb0c][^c-2d98fff858a07303a424b1fd76762dd3] After Article 28 insert—
 
 > **Article 28a — Suspension or modification of Article 28**
 >
@@ -415,7 +415,7 @@ In Article 1(3) (subject matter and scope), for “financial counterparties” t
 >
 > **13.** The functions of the FCA under this Article are not “**relevant functions**” for the purposes of section 84 of the Financial Services Act 2012 (arrangements for the investigation of complaints relating to exercise of relevant functions of regulators).
 
-**18.**[^key-29ef149901868aaca7c9793600771f1d][^M_I_9b7f0925-2abe-40d3-f8ed-7d9b32881c11][^key-4fe86b0255bcedb6996f0962dee65b0f] For Article 31 substitute—
+**18.**[^c-29ef149901868aaca7c9793600771f1d][^M_I_9b7f0925-2abe-40d3-f8ed-7d9b32881c11][^c-4fe86b0255bcedb6996f0962dee65b0f] For Article 31 substitute—
 
 > **Article 31 — Risk reduction services**
 >
@@ -444,28 +444,28 @@ In Article 1(3) (subject matter and scope), for “financial counterparties” t
 > - “**risk reduction service**” means a service provided to two or more counterparties to derivatives transactions for the purpose of reducing non-market risks in derivatives portfolios (including, for example, portfolio compression);
 > - “**specified**” means specified in the rules.
 
-#### 19. Consequential amendments relating to this Part[^key-1e66fa4375adaf86a8a0f8c5e055fb20][^key-61cba7105368beed2679353d46648a33]
+#### 19. Consequential amendments relating to this Part[^c-1e66fa4375adaf86a8a0f8c5e055fb20][^c-61cba7105368beed2679353d46648a33]
 
 In Article 2(1) (definitions), in point (17) (“liquid market”)—
 
 - (a) omit paragraph (a);
 - (b) in paragraph (b), for “Articles 4, 5 and 14” substitute “Article 14”.
 
-**20.**[^key-b20e699d250300ee0d63b2c032177f7f][^key-a8b210d237e9b8f94a3e5906d089a06e] In Article 12(1) after “accordance with” insert “, or with rules made under,”.
+**20.**[^c-b20e699d250300ee0d63b2c032177f7f][^c-a8b210d237e9b8f94a3e5906d089a06e] In Article 12(1) after “accordance with” insert “, or with rules made under,”.
 
-**21.**[^key-4e8e04e745a30a3dcccd4ac038236407][^key-a4d33c0aa0d95ac7e5420d96a63b9f2e] In Article 13(1) after “accordance with” insert “, or with rules made under,”.
+**21.**[^c-4e8e04e745a30a3dcccd4ac038236407][^c-a4d33c0aa0d95ac7e5420d96a63b9f2e] In Article 13(1) after “accordance with” insert “, or with rules made under,”.
 
-**22.**[^key-e94b5b63b109184e27e46061b1e8d4d3][^key-f16e326d52a716e3e2083cb78a9af4af] Omit Article 19.
+**22.**[^c-e94b5b63b109184e27e46061b1e8d4d3][^c-f16e326d52a716e3e2083cb78a9af4af] Omit Article 19.
 
 **Not yet in force.**
 
-**23.**[^key-04e23bbc5a942a2a4f2666d2f58b2ba3] In Article 26(3), omit “and Article 21(5)(a)”.
+**23.**[^c-04e23bbc5a942a2a4f2666d2f58b2ba3] In Article 26(3), omit “and Article 21(5)(a)”.
 
-**24.**[^key-4223fd766c74d317b7c7717abebe140b][^key-a6fa07ecf7417a7f1e37bc741593951e] In Article 47(1A)(a), after “Regulation” insert “or in rules made by the FCA under this Regulation”.
+**24.**[^c-4223fd766c74d317b7c7717abebe140b][^c-a6fa07ecf7417a7f1e37bc741593951e] In Article 47(1A)(a), after “Regulation” insert “or in rules made by the FCA under this Regulation”.
 
-**25.**[^key-9796b9c644d0493ca5a0dbbefb9817b7][^key-d7d8a16f602ec92b67122853bce97e63][^key-f3f65c5688bfeaf42a2fcd37719b91c3] In Article 50B (FCA directions), omit “Article 5, Article 9 or”.
+**25.**[^c-9796b9c644d0493ca5a0dbbefb9817b7][^c-d7d8a16f602ec92b67122853bce97e63][^c-f3f65c5688bfeaf42a2fcd37719b91c3] In Article 50B (FCA directions), omit “Article 5, Article 9 or”.
 
-**26.**[^key-2e0ece543c7f95cfc5e3dcb97a26954f][^key-08151f18f6010806248ab188b7205c09] (1) Article 50C (other FCA directions) is amended as follows.
+**26.**[^c-2e0ece543c7f95cfc5e3dcb97a26954f][^c-08151f18f6010806248ab188b7205c09] (1) Article 50C (other FCA directions) is amended as follows.
 
 (2) In paragraph 2 after “Article” insert “4a or”.
 
@@ -473,7 +473,7 @@ In Article 2(1) (definitions), in point (17) (“liquid market”)—
 
 (4) In paragraph 4 after “Article” insert “4a or”.
 
-**27.**[^key-e73642ab0c2f4c6bc77a9ab9a477f648][^key-a8e3209b19062658bfc10097f6eb878b][^key-532e46b7440c56a22a315f155568a44f] (1) Article 50D (FCA rules) is amended as follows.
+**27.**[^c-e73642ab0c2f4c6bc77a9ab9a477f648][^c-a8e3209b19062658bfc10097f6eb878b][^c-532e46b7440c56a22a315f155568a44f] (1) Article 50D (FCA rules) is amended as follows.
 
 (2) In paragraph 1—
 
@@ -490,9 +490,9 @@ In Article 2(1) (definitions), in point (17) (“liquid market”)—
 
 ### PART 2 — Amendments to the European Market Infrastructure Regulation
 
-**28.**[^key-0a2a5be5b3b818749eb11f5154c17fcf][^key-2df29f9e7267aafba00fae89b5c2c1dd] [Regulation (EU) No 648/2012](https://www.legislation.gov.uk/european/regulation/2012/0648) on OTC derivatives, central counterparties and trade repositories is amended in accordance with this Part of this Schedule.
+**28.**[^c-0a2a5be5b3b818749eb11f5154c17fcf][^c-2df29f9e7267aafba00fae89b5c2c1dd] [Regulation (EU) No 648/2012](https://www.legislation.gov.uk/european/regulation/2012/0648) on OTC derivatives, central counterparties and trade repositories is amended in accordance with this Part of this Schedule.
 
-**29.**[^key-209d8a4df0f770d4536506bc0cfeec01][^key-99f59b5786cc338437d65bd1ddeac778] After Article 6a insert—
+**29.**[^c-209d8a4df0f770d4536506bc0cfeec01][^c-99f59b5786cc338437d65bd1ddeac778] After Article 6a insert—
 
 > **Article 6b — Risk reduction services**
 >
@@ -515,7 +515,7 @@ In Article 2(1) (definitions), in point (17) (“liquid market”)—
 > - “**risk reduction service**” means a service provided to two or more counterparties to derivatives transactions for the purpose of reducing non-market risks in derivatives portfolios (including, for example, portfolio compression);
 > - “**specified**” means specified in the rules.
 
-**30.**[^key-5172ffce330da66349976d06db0b7343][^key-60e4e0f90cfc42a09902e70f5b4fa0fd] After Article 84b insert—
+**30.**[^c-5172ffce330da66349976d06db0b7343][^c-60e4e0f90cfc42a09902e70f5b4fa0fd] After Article 84b insert—
 
 > **Article 84c — Bank of England rules**
 >
@@ -541,11 +541,11 @@ In Article 2(1) (definitions), in point (17) (“liquid market”)—
 
 ### PART 3 — Amendments to the EU Securitisation Regulation
 
-#### 31. Introductory[^key-0c7df058f7fbc05fb83551139b6dc5c7][^key-d2ad976cf375f94614a36162c33a001f]
+#### 31. Introductory[^c-0c7df058f7fbc05fb83551139b6dc5c7][^c-d2ad976cf375f94614a36162c33a001f]
 
 [Regulation (EU) 2017/2402](https://www.legislation.gov.uk/european/regulation/2017/2402) of the European Parliament and of the Council of 12 December 2017 laying down a general framework for securitisation and creating a specific framework for simple, transparent and standardised securitisation, and amending [Directives 2009/65/EC](https://www.legislation.gov.uk/european/directive/2009/0065), [2009/138/EC](https://www.legislation.gov.uk/european/directive/2009/0138) and [2011/61/EU](https://www.legislation.gov.uk/european/directive/2011/0061) and Regulations [(EC) No 1060/2009](https://www.legislation.gov.uk/european/regulation/2009/1060) and [(EU) No 648/2012](https://www.legislation.gov.uk/european/regulation/2012/0648) (“the EU Securitisation Regulation 2017”) is amended in accordance with this Part of this Schedule.
 
-#### 32. STS equivalent non-UK securitisations[^key-c7dbcb7adc6b8e1cc56b695671fc06cf][^key-d4badbfcdb29ad62ae59f8376ec15c22]
+#### 32. STS equivalent non-UK securitisations[^c-c7dbcb7adc6b8e1cc56b695671fc06cf][^c-d4badbfcdb29ad62ae59f8376ec15c22]
 
 (1) Article 2 (definitions) is amended as follows.
 
@@ -561,7 +561,7 @@ In Article 2(1) (definitions), in point (17) (“liquid market”)—
 
 (4) In point (5) (definition of “sponsor”), for “third country” substitute “country or territory outside the United Kingdom”.
 
-**33.**[^key-692ab6333f946602e786332f5ecf16d2][^key-4d7be08ff6c1d553ee82136a4ac11ddb] After Article 28 (third party verifying STS compliance) insert—
+**33.**[^c-692ab6333f946602e786332f5ecf16d2][^c-4d7be08ff6c1d553ee82136a4ac11ddb] After Article 28 (third party verifying STS compliance) insert—
 
 > **CHAPTER 4A — STS equivalent non-UK securitisations**
 >
@@ -599,17 +599,17 @@ In Article 2(1) (definitions), in point (17) (“liquid market”)—
 >
 > **>10..** Regulations under this Article are subject to annulment in pursuance of a resolution of either House of Parliament.
 
-#### 34. Minor and consequential amendments[^key-8f29b897e0ba177337ecad18f70d61c3][^key-9bf56e12f9a14cc2c046e112e81e0051]
+#### 34. Minor and consequential amendments[^c-8f29b897e0ba177337ecad18f70d61c3][^c-9bf56e12f9a14cc2c046e112e81e0051]
 
 The EU Securitisation Regulation 2017 is amended in accordance with paragraphs 35 to 37.
 
-**35.**[^key-1ff57f087fc817560a48c4d701fa4b29][^key-3934a7a6c213f4d819936219bc142c0d] In Article 4 (requirements for securitisation special purpose entities)—
+**35.**[^c-1ff57f087fc817560a48c4d701fa4b29][^c-3934a7a6c213f4d819936219bc142c0d] In Article 4 (requirements for securitisation special purpose entities)—
 
 - (a) in the words before point (a), for “third country” substitute “country or territory outside the United Kingdom”;
 - (b) in point (a), for “third country” substitute “country or territory”;
 - (c) in point (b), for “third country”, in both places, substitute “country or territory”.
 
-**36.**[^key-868aeabd2ac75c1f3c785b322ec9b7f9][^key-641daf12a7f00f05a3213428c8316956] (1) Article 5 (due-diligence requirements for institutional investors) is amended as follows.
+**36.**[^c-868aeabd2ac75c1f3c785b322ec9b7f9][^c-641daf12a7f00f05a3213428c8316956] (1) Article 5 (due-diligence requirements for institutional investors) is amended as follows.
 
 (2) In paragraph 1, for “third country”, in each place, substitute “country or territory outside the United Kingdom”.
 
@@ -617,7 +617,7 @@ The EU Securitisation Regulation 2017 is amended in accordance with paragraphs 3
 
 > - (da) with regard to an STS equivalent non-UK securitisation, such matters as may be specified in regulations under Article 28A (and may rely on such matters to such extent as may be specified).
 
-**37.**[^key-e11548dbe34d3dbf22bd5b2ebb855e54][^key-66e58b375edc0faaa15f1fe1bf0f93dd] (1) Article 46 (Treasury review) is amended as follows.
+**37.**[^c-e11548dbe34d3dbf22bd5b2ebb855e54][^c-66e58b375edc0faaa15f1fe1bf0f93dd] (1) Article 46 (Treasury review) is amended as follows.
 
 (2) In paragraph 1, omit the second subparagraph.
 
@@ -626,7 +626,7 @@ The EU Securitisation Regulation 2017 is amended in accordance with paragraphs 3
 - (a) in point (a), omit “in the Union”;
 - (b) omit point (e).
 
-**38.**[^key-dc61b60014f151bad3cf8e13a7f957d1][^key-521030ea7953d9ae07de694cce44c6b9] In [Regulation (EU) No 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575) of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending [Regulation (EU) No 648/2012](https://www.legislation.gov.uk/european/regulation/2012/0648), in Article 242 (definitions), in point (10) (meaning of “simple, transparent and standardised securitisation” or “STS securitisation”)—
+**38.**[^c-dc61b60014f151bad3cf8e13a7f957d1][^c-521030ea7953d9ae07de694cce44c6b9] In [Regulation (EU) No 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575) of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending [Regulation (EU) No 648/2012](https://www.legislation.gov.uk/european/regulation/2012/0648), in Article 242 (definitions), in point (10) (meaning of “simple, transparent and standardised securitisation” or “STS securitisation”)—
 
 - (a) the words from “a securitisation” to the end become paragraph (a);
 - (b) at the end of that paragraph, insert
@@ -637,7 +637,7 @@ The EU Securitisation Regulation 2017 is amended in accordance with paragraphs 3
 
   .
 
-**39.**[^key-8bb5cabe0011984a4921bad9f3449c4a][^key-40d345176866049a1b057cfd2f079126] In [Commission Delegated Regulation (EU) 2015/35](https://www.legislation.gov.uk/european/regulation/2015/0035) of 10 October 2014 supplementing [Directive 2009/138/EC](https://www.legislation.gov.uk/european/directive/2009/0138) of the European Parliament and of the Council on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II), in Article 1 (definitions), in point 18b (meaning of “**STS securitisation**”)—
+**39.**[^c-8bb5cabe0011984a4921bad9f3449c4a][^c-40d345176866049a1b057cfd2f079126] In [Commission Delegated Regulation (EU) 2015/35](https://www.legislation.gov.uk/european/regulation/2015/0035) of 10 October 2014 supplementing [Directive 2009/138/EC](https://www.legislation.gov.uk/european/directive/2009/0138) of the European Parliament and of the Council on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II), in Article 1 (definitions), in point 18b (meaning of “**STS securitisation**”)—
 
 - (a) the words from “a securitisation” to the end become paragraph (a);
 - (b) at the end of that paragraph, insert
@@ -648,23 +648,23 @@ The EU Securitisation Regulation 2017 is amended in accordance with paragraphs 3
 
   .
 
-**40.**[^key-833b742e4683245b85910ee915138997][^key-3dcc85e374812490e10e260a94e697a4] In Article 11(1) of [Regulation (EU) 2017/1131](https://www.legislation.gov.uk/european/regulation/2017/1131) of the European Parliament and of the Council of 14 June 2017 on money market funds (eligible securitisations and ABCPs), after paragraph (c) insert—
+**40.**[^c-833b742e4683245b85910ee915138997][^c-3dcc85e374812490e10e260a94e697a4] In Article 11(1) of [Regulation (EU) 2017/1131](https://www.legislation.gov.uk/european/regulation/2017/1131) of the European Parliament and of the Council of 14 June 2017 on money market funds (eligible securitisations and ABCPs), after paragraph (c) insert—
 
 > - (d) an STS equivalent non-UK securitisation as defined in point (A9) of Article 2 of [Regulation (EU) 2017/2402](https://www.legislation.gov.uk/european/regulation/2017/2402).
 
-**41.**[^key-bad5c087655e25f41832edaff9d447ea][^key-2322a3be55fb562996dcc20830285681] The Securitisation Regulations 2018 ([S.I. 2018/1288](https://www.legislation.gov.uk/uksi/2018/1288)) are amended in accordance with paragraphs 42 and 43.
+**41.**[^c-bad5c087655e25f41832edaff9d447ea][^c-2322a3be55fb562996dcc20830285681] The Securitisation Regulations 2018 ([S.I. 2018/1288](https://www.legislation.gov.uk/uksi/2018/1288)) are amended in accordance with paragraphs 42 and 43.
 
-**42.**[^key-07ac90b5f2a1f6671af56b5ab1a2de89][^key-84b6b4e0a910f2dea80e6e20cab002db] In regulation 2 (interpretation), in the definition of “SRUP”, in paragraph (c), for “third country” substitute “country or territory outside the United Kingdom”.
+**42.**[^c-07ac90b5f2a1f6671af56b5ab1a2de89][^c-84b6b4e0a910f2dea80e6e20cab002db] In regulation 2 (interpretation), in the definition of “SRUP”, in paragraph (c), for “third country” substitute “country or territory outside the United Kingdom”.
 
-**43.**[^key-c1cc128f8eac64be692164a87d44c14f][^key-65ee831579d4b89ff5b597f39c2cf470] In regulation 4 (designation of competent authorities), in paragraph (1)(b), for “third country” substitute “country or territory outside the United Kingdom”.
+**43.**[^c-c1cc128f8eac64be692164a87d44c14f][^c-65ee831579d4b89ff5b597f39c2cf470] In regulation 4 (designation of competent authorities), in paragraph (1)(b), for “third country” substitute “country or territory outside the United Kingdom”.
 
 ### PART 4 — Amendments to the Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017
 
-#### 44. Introductory[^key-bdb8e4662185931767eb0ab93badbabf][^key-6389c359bfd1068612808b64ca18e96b][^key-5d78b60c57bc357d1ca634e04e921d7a]
+#### 44. Introductory[^c-bdb8e4662185931767eb0ab93badbabf][^c-6389c359bfd1068612808b64ca18e96b][^c-5d78b60c57bc357d1ca634e04e921d7a]
 
 The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 ([S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701)) is amended in accordance with this Part of this Schedule.
 
-#### 45. Position limits for commodity derivatives[^key-0b2a35d4c204dbf5ccea1705eac62f06][^key-e79f3ed001dc537f23fc9fda353108c0][^key-7777b1517ef9a14c9f5496ae07b47e2c]
+#### 45. Position limits for commodity derivatives[^c-0b2a35d4c204dbf5ccea1705eac62f06][^c-e79f3ed001dc537f23fc9fda353108c0][^c-7777b1517ef9a14c9f5496ae07b47e2c]
 
 In Part 3 (position limits and position management controls in commodity derivatives), before regulation 16 insert—
 
@@ -701,7 +701,7 @@ In Part 3 (position limits and position management controls in commodity derivat
 >
 > (10) In this Part “**relevant persons**” means market operators and investment firms operating a trading venue.
 
-**46.**[^key-490f49cd07a4c616319451232513b50b][^key-727c69f405d3a38fbaac4f205aebaee1] (1) Regulation 16 (FCA duty to establish position limits) is amended as follows.
+**46.**[^c-490f49cd07a4c616319451232513b50b][^c-727c69f405d3a38fbaac4f205aebaee1] (1) Regulation 16 (FCA duty to establish position limits) is amended as follows.
 
 (2) In the title, for “duty” substitute “power”.
 
@@ -718,7 +718,7 @@ In Part 3 (position limits and position management controls in commodity derivat
 
 (5) Omit paragraphs (2), (3) and (5).
 
-**47.**[^key-774706a10be01f4157008e6f08605087][^key-1b6ada19831d7aea81e9482a12fb4475] (1) Regulation 27 (FCA power to require information) is amended as follows.
+**47.**[^c-774706a10be01f4157008e6f08605087][^c-1b6ada19831d7aea81e9482a12fb4475] (1) Regulation 27 (FCA power to require information) is amended as follows.
 
 (2) In paragraph (1), in both of sub-paragraphs (a) and (b) omit “or over the counter contract”.
 
@@ -731,7 +731,7 @@ In Part 3 (position limits and position management controls in commodity derivat
 > - (a) requirements imposed by rules under regulation 15A apply to the commodity derivative (or to commodity derivatives of that class), or
 > - (b) it is a commodity derivative (or falls within a class of commodity derivatives) to which the FCA is considering making such requirements apply.
 
-**48.**[^key-99abbc6553c4b90fd477dbe31a1883f4][^key-9775040d5c5e840217dc22f0c89a6a02] (1) Regulation 28 (FCA power to intervene) is amended as follows.
+**48.**[^c-99abbc6553c4b90fd477dbe31a1883f4][^c-9775040d5c5e840217dc22f0c89a6a02] (1) Regulation 28 (FCA power to intervene) is amended as follows.
 
 (2) In paragraph (1), in the words before sub-paragraph (a), for the words from “the exercise” to “regulation” substitute “advancing one or more of its operational objectives referred to in section 1B(3) of the Act”.
 
@@ -739,7 +739,7 @@ In Part 3 (position limits and position management controls in commodity derivat
 
 (4) In paragraph (3) omit “or an economically equivalent over the counter contract”.
 
-**49.**[^key-fc12dd2e872cc024b5cfbdee57e72dde][^key-e63825e008bdade3126843e5fdb940f1][^key-57cb6bae9180567df9bf60ef54f1a595] In regulation 29 (interpretation of Part 3), in paragraph (2)—
+**49.**[^c-fc12dd2e872cc024b5cfbdee57e72dde][^c-e63825e008bdade3126843e5fdb940f1][^c-57cb6bae9180567df9bf60ef54f1a595] In regulation 29 (interpretation of Part 3), in paragraph (2)—
 
 - (a) before the definition of “position” insert—
 
@@ -752,7 +752,7 @@ In Part 3 (position limits and position management controls in commodity derivat
 
   .
 
-#### 50. Consequential revocations relating to this Part[^key-2852df24c8517d458c64e1df816b670d][^key-95378eb63fc2ee411b13536fe61a4e6e]
+#### 50. Consequential revocations relating to this Part[^c-2852df24c8517d458c64e1df816b670d][^c-95378eb63fc2ee411b13536fe61a4e6e]
 
 The following provisions are revoked—
 
@@ -770,7 +770,7 @@ The following provisions are revoked—
 
 ### PART 5 — Amendments to the Central Counterparties (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2018
 
-**51.**[^key-c7e7e349193b9a0bd5e8053c6c9046e2] (1) Regulation 19B of the Central Counterparties (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2018 ([S.I. 2018/1184](https://www.legislation.gov.uk/uksi/2018/1184)) is amended as follows.
+**51.**[^c-c7e7e349193b9a0bd5e8053c6c9046e2] (1) Regulation 19B of the Central Counterparties (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2018 ([S.I. 2018/1184](https://www.legislation.gov.uk/uksi/2018/1184)) is amended as follows.
 
 (2) In paragraph (2) for “one year” substitute “3 years and 6 months”.
 
@@ -794,21 +794,21 @@ The following provisions are revoked—
 
 ### PART 6 — Amendments relating to critical third parties
 
-**52.**[^key-8f0d333dbf7960f7f3cb2d72ba4ff11c][^key-60a275a52fa5cef060a9c97966c3ff86] The Electronic Money Regulations 2011 ([S.I. 2011/99](https://www.legislation.gov.uk/uksi/2011/99)) are amended in accordance with paragraphs 53 to 62.
+**52.**[^c-8f0d333dbf7960f7f3cb2d72ba4ff11c][^c-60a275a52fa5cef060a9c97966c3ff86] The Electronic Money Regulations 2011 ([S.I. 2011/99](https://www.legislation.gov.uk/uksi/2011/99)) are amended in accordance with paragraphs 53 to 62.
 
-**53.**[^key-7b6afff05686cbbb9ab58bac04313494][^key-4fe8cf735d9b66e56f915bf8b06fa95a] In regulation 48 (monitoring and enforcement), after paragraph (1)(a) insert—
+**53.**[^c-7b6afff05686cbbb9ab58bac04313494][^c-4fe8cf735d9b66e56f915bf8b06fa95a] In regulation 48 (monitoring and enforcement), after paragraph (1)(a) insert—
 
 > - (aa) electronic money institutions on whom requirements are imposed by or under section 312R of the 2000 Act are complying with them;
 
 .
 
-**54.**[^key-1085083766e0253e790c32e67d6180c0][^key-926489a4e9a864236a211bc79ea22999] In regulation 49 (reporting requirements), after paragraph (1) insert—
+**54.**[^c-1085083766e0253e790c32e67d6180c0][^c-926489a4e9a864236a211bc79ea22999] In regulation 49 (reporting requirements), after paragraph (1) insert—
 
 > (1A) An electronic money institution must give the Authority such information in respect of its compliance with requirements imposed by or under section 312R of the 2000 Act as the Authority may direct.
 
-**55.**[^key-a72f4e3287ccbde4588a1d1155263b95][^key-63e0f82ef5bc07d171b2cf7cc1309feb] In regulation 50 (public censure), after “Regulations” insert “or, in the case of an electronic money institution, section 312R of the 2000 Act”.
+**55.**[^c-a72f4e3287ccbde4588a1d1155263b95][^c-63e0f82ef5bc07d171b2cf7cc1309feb] In regulation 50 (public censure), after “Regulations” insert “or, in the case of an electronic money institution, section 312R of the 2000 Act”.
 
-**56.**[^key-7ce5ccc24249aca89b8a8837595f8860][^key-e5f7d4df4f580b0df0e7a7dd1de56201] In regulation 51 (financial penalties)—
+**56.**[^c-7ce5ccc24249aca89b8a8837595f8860][^c-e5f7d4df4f580b0df0e7a7dd1de56201] In regulation 51 (financial penalties)—
 
 - (a) omit “or” at the end of paragraph (1)(a), and
 - (b) after that paragraph insert—
@@ -817,9 +817,9 @@ The following provisions are revoked—
 
   .
 
-**57.**[^key-47e06949828d0acddfe75980dfeb1b82][^key-42512bbed6bd003e53b5d9ca75769f9d] In regulation 52 (suspending authorisation etc), in paragraph (1) after “Regulations” insert “or by or under section 312R of the 2000 Act”.
+**57.**[^c-47e06949828d0acddfe75980dfeb1b82][^c-42512bbed6bd003e53b5d9ca75769f9d] In regulation 52 (suspending authorisation etc), in paragraph (1) after “Regulations” insert “or by or under section 312R of the 2000 Act”.
 
-**58.**[^key-c4d844f823e9ae5c5f120b2ea8d6e274][^key-71e2ab263f34888542400866052f302d] In regulation 54 (injunctions)—
+**58.**[^c-c4d844f823e9ae5c5f120b2ea8d6e274][^c-71e2ab263f34888542400866052f302d] In regulation 54 (injunctions)—
 
 - (a) omit “or” at the end of paragraph (1)(a);
 - (b) after paragraph (1)(b) insert—
@@ -838,11 +838,11 @@ The following provisions are revoked—
   ;
 - (g) in paragraph (3)(b) for “such a requirement” substitute “a requirement described in sub-paragraph (a) or (aa)”.
 
-**59.**[^key-70aa1062a3d9e8ae502f441049ccaf9f][^key-de666661ce409c6f9e8c87ea076dcd59] In regulation 55 (power to require restitution), in paragraph (1) after “requirement,” insert “or, where the electronic money issuer is an electronic money institution, has contravened a requirement imposed on it by or under section 312R of the 2000 Act, or been knowingly concerned in the contravention of such a requirement,”.
+**59.**[^c-70aa1062a3d9e8ae502f441049ccaf9f][^c-de666661ce409c6f9e8c87ea076dcd59] In regulation 55 (power to require restitution), in paragraph (1) after “requirement,” insert “or, where the electronic money issuer is an electronic money institution, has contravened a requirement imposed on it by or under section 312R of the 2000 Act, or been knowingly concerned in the contravention of such a requirement,”.
 
-**60.**[^key-c735cf1802161856c5c1ac737f9d2446][^key-a3b63c2d6978b67609ef473e00fefd82] In regulation 57 (restitution orders), in paragraph (1) after “requirement,” insert “or, where the electronic money issuer is an electronic money institution, has contravened a requirement imposed on it by or under section 312R of the 2000 Act, or been knowingly concerned in the contravention of such a requirement,”.
+**60.**[^c-c735cf1802161856c5c1ac737f9d2446][^c-a3b63c2d6978b67609ef473e00fefd82] In regulation 57 (restitution orders), in paragraph (1) after “requirement,” insert “or, where the electronic money issuer is an electronic money institution, has contravened a requirement imposed on it by or under section 312R of the 2000 Act, or been knowingly concerned in the contravention of such a requirement,”.
 
-**61.**[^key-078a399d844adc05ef19eaf5b3a3e770][^key-8869367ca38264cd04a9461e3a2166cf] In regulation 58 (complaints), in paragraph (1)—
+**61.**[^c-078a399d844adc05ef19eaf5b3a3e770][^c-8869367ca38264cd04a9461e3a2166cf] In regulation 58 (complaints), in paragraph (1)—
 
 - (a) the words from “a requirement” to the end become sub-paragraph (a), and
 - (b) after that sub-paragraph insert
@@ -851,7 +851,7 @@ The following provisions are revoked—
   >
   > - (b) a requirement imposed by or under section 312R of the 2000 Act has been breached by an electronic money institution.
 
-**62.**[^key-23c8da45c5f148713ad47db0fbb6639d][^key-d8d5e4d52e2bb2bcf6ddac6c3670069e] In Schedule 3 (application and modification of legislation)—
+**62.**[^c-23c8da45c5f148713ad47db0fbb6639d][^c-d8d5e4d52e2bb2bcf6ddac6c3670069e] In Schedule 3 (application and modification of legislation)—
 
 - (a) in paragraph 1(b), in the inserted text substituting section 66A of the 2000 Act—
   - (i) in subsection (1), the words from “a contravention” to the end become sub-paragraph (a),
@@ -872,21 +872,21 @@ The following provisions are revoked—
     ;
 - (b) in paragraph 3(d)(i), in the inserted subsection (1)(ab), after “2011” insert “or section 312R”.
 
-**63.**[^key-1a9fbaeb89e1f3af6b7a3c1026228c9a][^key-12e2b560fc7e4c756300c8693ec08fa3] The Payment Services Regulations 2017 ([S.I. 2017/752](https://www.legislation.gov.uk/uksi/2017/752)) are amended in accordance with paragraphs 64 to 72.
+**63.**[^c-1a9fbaeb89e1f3af6b7a3c1026228c9a][^c-12e2b560fc7e4c756300c8693ec08fa3] The Payment Services Regulations 2017 ([S.I. 2017/752](https://www.legislation.gov.uk/uksi/2017/752)) are amended in accordance with paragraphs 64 to 72.
 
-**64.**[^key-08ae69ead2a4deb910138b95f7692f61][^key-f28465794793838c9cde69b3c08461d0] In regulation 108 (monitoring and enforcement), after paragraph (1)(a) insert—
+**64.**[^c-08ae69ead2a4deb910138b95f7692f61][^c-f28465794793838c9cde69b3c08461d0] In regulation 108 (monitoring and enforcement), after paragraph (1)(a) insert—
 
 > - (aa) authorised payment institutions, small payment institutions or registered account information services providers on whom requirements are imposed by or under section 312R of the 2000 Act are complying with them;
 
 .
 
-**65.**[^key-5922e1f3140f63b498c71f34e6e29ee5][^key-6db6e31d79c8834e6fb83a28912bf8ac] In regulation 109 (reporting requirements), after paragraph (1) insert—
+**65.**[^c-5922e1f3140f63b498c71f34e6e29ee5][^c-6db6e31d79c8834e6fb83a28912bf8ac] In regulation 109 (reporting requirements), after paragraph (1) insert—
 
 > (1A) An authorised payment institution, small payment institution, or registered account information services provider must give the FCA such information as the FCA may direct in respect of its compliance with requirements imposed by or under section 312R of the 2000 Act.
 
-**66.**[^key-6c5832e9b24e79c9ecbf60336c16deee][^key-c6f8de0f87e23161c20b294c70790ae8] In regulation 110 (public censure), after “Regulations” insert “or, in the case of an authorised payment institution, small payment institution, or registered account information services provider, section 312R of the 2000 Act”.
+**66.**[^c-6c5832e9b24e79c9ecbf60336c16deee][^c-c6f8de0f87e23161c20b294c70790ae8] In regulation 110 (public censure), after “Regulations” insert “or, in the case of an authorised payment institution, small payment institution, or registered account information services provider, section 312R of the 2000 Act”.
 
-**67.**[^key-a9200b35877c98d4d1cd075ac51b19ab][^key-4a1be3cb781af152a3d34777e548eb15] In regulation 111 (financial penalties)—
+**67.**[^c-a9200b35877c98d4d1cd075ac51b19ab][^c-4a1be3cb781af152a3d34777e548eb15] In regulation 111 (financial penalties)—
 
 - (a) omit “or” at the end of paragraph (1)(a), and
 - (b) after that paragraph insert—
@@ -895,7 +895,7 @@ The following provisions are revoked—
 
   .
 
-**68.**[^key-8d7d9a571caa006cd632411f4bc12ecd][^key-43c8eea36e9c350eb0d2a96974ad6a74] In regulation 113 (injunctions)—
+**68.**[^c-8d7d9a571caa006cd632411f4bc12ecd][^c-43c8eea36e9c350eb0d2a96974ad6a74] In regulation 113 (injunctions)—
 
 - (a) omit “or” at the end of paragraph (1)(a);
 - (b) after paragraph (1)(b) insert—
@@ -914,11 +914,11 @@ The following provisions are revoked—
   ;
 - (g) in paragraph (3)(b) for “such a requirement” substitute “a requirement described in sub-paragraph (a) or (aa)”.
 
-**69.**[^key-dd1387ee4c44661cdaab2a9382351699][^key-76694b99784266f1df3fc8874fb2c945] In regulation 114 (power to require restitution), in paragraph (1) after “requirement,” insert “or, where the payment service provider is an authorised payment institution, small payment institution, or registered account information services provider, has contravened a requirement imposed on it by or under section 312R of the 2000 Act, or been knowingly concerned in the contravention of such a requirement,”.
+**69.**[^c-dd1387ee4c44661cdaab2a9382351699][^c-76694b99784266f1df3fc8874fb2c945] In regulation 114 (power to require restitution), in paragraph (1) after “requirement,” insert “or, where the payment service provider is an authorised payment institution, small payment institution, or registered account information services provider, has contravened a requirement imposed on it by or under section 312R of the 2000 Act, or been knowingly concerned in the contravention of such a requirement,”.
 
-**70.**[^key-a55d37b5f27a9bb3f6982c69a0e52268][^key-93a23b569fee78d77664de91a64909f1] In regulation 116 (restitution orders), in paragraph (1) after “requirement,” insert “or, where the payment service provider is an authorised payment institution, small payment institution, or registered account information services provider, has contravened a requirement imposed on it by or under section 312R of the 2000 Act, or been knowingly concerned in the contravention of such a requirement,”.
+**70.**[^c-a55d37b5f27a9bb3f6982c69a0e52268][^c-93a23b569fee78d77664de91a64909f1] In regulation 116 (restitution orders), in paragraph (1) after “requirement,” insert “or, where the payment service provider is an authorised payment institution, small payment institution, or registered account information services provider, has contravened a requirement imposed on it by or under section 312R of the 2000 Act, or been knowingly concerned in the contravention of such a requirement,”.
 
-**71.**[^key-e5769b73dbff2dc21ff855a26cfe53a3][^key-8de55355b9333e8cc9cfd9248f65b954] In regulation 117 (complaints), in paragraph (1)—
+**71.**[^c-e5769b73dbff2dc21ff855a26cfe53a3][^c-8de55355b9333e8cc9cfd9248f65b954] In regulation 117 (complaints), in paragraph (1)—
 
 - (a) the words from “a requirement” to the end become sub-paragraph (a), and
 - (b) after that sub-paragraph insert
@@ -927,7 +927,7 @@ The following provisions are revoked—
   >
   > - (b) a requirement imposed by or under section 312R of the 2000 Act has been breached by an authorised payment institution, small payment institution, or registered account information services provider.
 
-**72.**[^key-ef5046a3495e9bc14284a5deb31cd522][^key-3c7dd86161df49ff18c6b4ebcaa11b95] In Schedule 6 (application and modification of legislation)—
+**72.**[^c-ef5046a3495e9bc14284a5deb31cd522][^c-3c7dd86161df49ff18c6b4ebcaa11b95] In Schedule 6 (application and modification of legislation)—
 
 - (a) in paragraph 1, in the inserted text substituting section 66A of the 2000 Act—
   - (i) in subsection (1), the words from “a contravention” to the end become sub-paragraph (a), and
@@ -950,318 +950,318 @@ The following provisions are revoked—
 
 ## Annotations
 
-[^key-610cd280af83744dde98073e0c2a7357]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-610cd280af83744dde98073e0c2a7357]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-f927c77dfde741a8bd5a4f190c59ad7c]: Commencement: Sch. 2 para. 1 in force at 29.10.2024 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [regs. 2(e)(i)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/2/e/i), [3(b)(i)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/3/b/i)
+[^c-f927c77dfde741a8bd5a4f190c59ad7c]: Commencement: Sch. 2 para. 1 in force at 29.10.2024 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [regs. 2(e)(i)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/2/e/i), [3(b)(i)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/3/b/i)
 
-[^key-057048f57bc3c5c734c26ce426ba9298]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/1) in force at 1.12.2024 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 4(b)(i)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/4/b/i)
+[^c-057048f57bc3c5c734c26ce426ba9298]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/1) in force at 1.12.2024 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 4(b)(i)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/4/b/i)
 
-[^key-ffa7a7f46945def53f19073386c5aa32]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/1) in force at 31.12.2024 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 5(d)(i)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/5/d/i)
+[^c-ffa7a7f46945def53f19073386c5aa32]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/1) in force at 31.12.2024 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 5(d)(i)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/5/d/i)
 
-[^key-4a58c71b0acd763d658115038ec9091f]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/1) in force at 31.3.2025 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 6(b)(i)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/6/b/i)
+[^c-4a58c71b0acd763d658115038ec9091f]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/1) in force at 31.3.2025 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 6(b)(i)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/6/b/i)
 
-[^key-1de537552df350acdc75ac156390d541]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/1) in force at 30.6.2025 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 7(b)(i)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/7/b/i)
+[^c-1de537552df350acdc75ac156390d541]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/1) in force at 30.6.2025 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 7(b)(i)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/7/b/i)
 
-[^key-67aeba3a8024046792f3ceb2e951e7b8]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/1) in force at 1.12.2025 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 8(b)(i)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/8/b/i)
+[^c-67aeba3a8024046792f3ceb2e951e7b8]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/1) in force at 1.12.2025 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 8(b)(i)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/8/b/i)
 
-[^key-c8df130ee1c4893737cc90a5531d63c1]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-c8df130ee1c4893737cc90a5531d63c1]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-f53df85510dee17f76f5a4d8b86d2326]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-f53df85510dee17f76f5a4d8b86d2326]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-a35023bb37ec93f819b49a9c270f5032]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/3) in force at 26.11.2025 by [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/3/b)
+[^c-a35023bb37ec93f819b49a9c270f5032]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/3) in force at 26.11.2025 by [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/3/b)
 
-[^key-916f81746651239e108c86605e5d5b16]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-916f81746651239e108c86605e5d5b16]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-600aa447a7c10ac5ea9bc9a85a40978f]: Commencement: Sch. 2 para. 4 in force at 14.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 6(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/6/b)
+[^c-600aa447a7c10ac5ea9bc9a85a40978f]: Commencement: Sch. 2 para. 4 in force at 14.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 6(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/6/b)
 
-[^key-7801b360b97435d06586303cfec79435]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-7801b360b97435d06586303cfec79435]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
 [^M_I_4a368110-2692-4fd6-ab33-80e1c7b76055]: Commencement: Sch. 2 para. 5 in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(i)(aa)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/i/aa)
 
-[^key-dd5e3157ecc1f189d006bfbdd905fa0a]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-dd5e3157ecc1f189d006bfbdd905fa0a]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
 [^M_I_4570dca2-14fa-401d-9c37-cf64efaad5f3]: Commencement: Sch. 2 para. 6 in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(i)(aa)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/i/aa)
 
-[^key-185376b0046845eace74fcecae04b391]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-185376b0046845eace74fcecae04b391]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-9e557202545896392e1dc4f63297d045]: Commencement: Sch. 2 para. 7 in force at 29.10.2024 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/3/b/ii)
+[^c-9e557202545896392e1dc4f63297d045]: Commencement: Sch. 2 para. 7 in force at 29.10.2024 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/3/b/ii)
 
-[^key-face1264874e7a2829b9e5485f8bcafc]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/7) in force at 1.12.2024 in so far as not already in force by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/4/b/ii)
+[^c-face1264874e7a2829b9e5485f8bcafc]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/7) in force at 1.12.2024 in so far as not already in force by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/4/b/ii)
 
-[^key-a164dfac769afbc4e678d18d99cfdf56]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-a164dfac769afbc4e678d18d99cfdf56]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-16a4b60e7ebb873262e49d767ea0d166]: Commencement: Sch. 2 para. 8 in force at 29.10.2024 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 3(b)(iii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/3/b/iii)
+[^c-16a4b60e7ebb873262e49d767ea0d166]: Commencement: Sch. 2 para. 8 in force at 29.10.2024 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 3(b)(iii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/3/b/iii)
 
-[^key-1f578448600b213529551d923f8ace93]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/8) in force at 1.12.2025 in so far as not already in force by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 8(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/8/b/ii)
+[^c-1f578448600b213529551d923f8ace93]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/8) in force at 1.12.2025 in so far as not already in force by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 8(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/8/b/ii)
 
-[^key-b7f6ea3d76d47368fbf4beb78ebdaefd]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-b7f6ea3d76d47368fbf4beb78ebdaefd]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
 [^M_I_6494cadc-b35b-461d-800d-7cbdb871d925]: Commencement: Sch. 2 para. 9 in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(i)(bb)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/i/bb)
 
-[^key-b843b070021ea1e975d1c077ebaf1033]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-b843b070021ea1e975d1c077ebaf1033]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-3ca132ff83857f842bf5c3f8130a90cc]: Commencement: Sch. 2 para. 10 in force at 29.10.2024 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/3/b/iv)
+[^c-3ca132ff83857f842bf5c3f8130a90cc]: Commencement: Sch. 2 para. 10 in force at 29.10.2024 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/3/b/iv)
 
-[^key-e10ee43d4e6ec9712a7f97978c0dfbf6]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/10) in force at 1.12.2024 in so far as not already in force by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 4(b)(iii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/4/b/iii)
+[^c-e10ee43d4e6ec9712a7f97978c0dfbf6]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/10) in force at 1.12.2024 in so far as not already in force by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 4(b)(iii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/4/b/iii)
 
-[^key-12f49e18ddfa90f03cf87f54eff43c6d]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-12f49e18ddfa90f03cf87f54eff43c6d]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-e5aa93bc360551e09be6b3d41f737611]: Commencement: Sch. 2 para. 11 in force at 29.10.2024 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 3(b)(v)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/3/b/v)
+[^c-e5aa93bc360551e09be6b3d41f737611]: Commencement: Sch. 2 para. 11 in force at 29.10.2024 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 3(b)(v)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/3/b/v)
 
-[^key-fd52d0024bd45957ccb7e6a0c961eb7e]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/11) in force at 1.12.2024 in so far as not already in force by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 4(b)(iv)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/4/b/iv)
+[^c-fd52d0024bd45957ccb7e6a0c961eb7e]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/11) in force at 1.12.2024 in so far as not already in force by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 4(b)(iv)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/4/b/iv)
 
-[^key-62cabd5f3bb00b7f7d8572b2bbaa352b]: Commencement: Sch. 2 para. 12 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-62cabd5f3bb00b7f7d8572b2bbaa352b]: Commencement: Sch. 2 para. 12 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-fed487b547dd6eaf2ab01717ac58da3c]: Commencement: Sch. 2 para. 12 in force at 29.10.2024 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 3(b)(vi)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/3/b/vi)
+[^c-fed487b547dd6eaf2ab01717ac58da3c]: Commencement: Sch. 2 para. 12 in force at 29.10.2024 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 3(b)(vi)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/3/b/vi)
 
-[^key-0b2c4d4d99ff5441fe37d2646c8bf91d]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/12) in force at 1.12.2025 in so far as not already in force by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 8(b)(iii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/8/b/iii)
+[^c-0b2c4d4d99ff5441fe37d2646c8bf91d]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/12) in force at 1.12.2025 in so far as not already in force by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 8(b)(iii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/8/b/iii)
 
-[^key-f39b3850f52975e51d018195890d8827]: Commencement: Sch. 2 para. 13 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-f39b3850f52975e51d018195890d8827]: Commencement: Sch. 2 para. 13 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-cecabcf03afcdd7a748dca0ccac0544c]: Commencement: Sch. 2 para. 13 in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(i)(cc)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/i/cc)
+[^c-cecabcf03afcdd7a748dca0ccac0544c]: Commencement: Sch. 2 para. 13 in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(i)(cc)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/i/cc)
 
-[^key-41782e935f67e6c31f9cfcb270b25ec5]: Commencement: Sch. 2 para. 14 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-41782e935f67e6c31f9cfcb270b25ec5]: Commencement: Sch. 2 para. 14 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-991efdab2c8c2a77940e9d20ce908179]: Commencement: Sch. 2 para. 14 in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(i)(cc)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/i/cc)
+[^c-991efdab2c8c2a77940e9d20ce908179]: Commencement: Sch. 2 para. 14 in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(i)(cc)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/i/cc)
 
-[^key-2145d2dec74a97957beec58343e320c1]: Commencement: Sch. 2 para. 15 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-2145d2dec74a97957beec58343e320c1]: Commencement: Sch. 2 para. 15 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-bdd66a2b12e809bf6541fcbdafa50ac5]: Commencement: Sch. 2 para. 15 in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(i)(cc)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/i/cc)
+[^c-bdd66a2b12e809bf6541fcbdafa50ac5]: Commencement: Sch. 2 para. 15 in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(i)(cc)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/i/cc)
 
-[^key-c24ed3a3e191a6dae2f851b9babc54f9]: Commencement: Sch. 2 para. 16 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-c24ed3a3e191a6dae2f851b9babc54f9]: Commencement: Sch. 2 para. 16 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-6c1b327934fe51778f777eca9287dbe9]: Commencement: Sch. 2 para. 16 in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(i)(cc)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/i/cc)
+[^c-6c1b327934fe51778f777eca9287dbe9]: Commencement: Sch. 2 para. 16 in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(i)(cc)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/i/cc)
 
-[^key-ebbd4310b4ab1e8442bf49282df004bd]: Commencement: Sch. 2 para. 17 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-ebbd4310b4ab1e8442bf49282df004bd]: Commencement: Sch. 2 para. 17 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
 [^M_I_49f8039a-f33c-4c6e-a7a7-60784be7eb0c]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/17) in force at 29.10.2024 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 3(b)(vii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/3/b/vii)
 
-[^key-2d98fff858a07303a424b1fd76762dd3]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/17) in force at 31.12.2024 in so far as not already in force by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 5(d)(ii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/5/d/ii)
+[^c-2d98fff858a07303a424b1fd76762dd3]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/17) in force at 31.12.2024 in so far as not already in force by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 5(d)(ii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/5/d/ii)
 
-[^key-29ef149901868aaca7c9793600771f1d]: Commencement: Sch. 2 para. 18 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-29ef149901868aaca7c9793600771f1d]: Commencement: Sch. 2 para. 18 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
 [^M_I_9b7f0925-2abe-40d3-f8ed-7d9b32881c11]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/18) in force at 29.10.2024 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 3(b)(viii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/3/b/viii)
 
-[^key-4fe86b0255bcedb6996f0962dee65b0f]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/18) in force at 30.6.2025 in so far as not already in force by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 7(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/7/b/ii)
+[^c-4fe86b0255bcedb6996f0962dee65b0f]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/18) in force at 30.6.2025 in so far as not already in force by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 7(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/7/b/ii)
 
-[^key-1e66fa4375adaf86a8a0f8c5e055fb20]: Commencement: Sch. 2 para. 19 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-1e66fa4375adaf86a8a0f8c5e055fb20]: Commencement: Sch. 2 para. 19 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-61cba7105368beed2679353d46648a33]: Commencement: Sch. 2 para. 19 in force at 29.8.2023 for specified purposes by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(i)(dd)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/i/dd)
+[^c-61cba7105368beed2679353d46648a33]: Commencement: Sch. 2 para. 19 in force at 29.8.2023 for specified purposes by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(i)(dd)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/i/dd)
 
-[^key-b20e699d250300ee0d63b2c032177f7f]: Commencement: Sch. 2 para. 20 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-b20e699d250300ee0d63b2c032177f7f]: Commencement: Sch. 2 para. 20 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-a8b210d237e9b8f94a3e5906d089a06e]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/20) in force at 1.12.2024 by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 4(b)(v)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/4/b/v)
+[^c-a8b210d237e9b8f94a3e5906d089a06e]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/20) in force at 1.12.2024 by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 4(b)(v)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/4/b/v)
 
-[^key-4e8e04e745a30a3dcccd4ac038236407]: Commencement: Sch. 2 para. 21 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-4e8e04e745a30a3dcccd4ac038236407]: Commencement: Sch. 2 para. 21 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-a4d33c0aa0d95ac7e5420d96a63b9f2e]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/21) in force at 1.12.2024 by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 4(b)(vi)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/4/b/vi)
+[^c-a4d33c0aa0d95ac7e5420d96a63b9f2e]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/21) in force at 1.12.2024 by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 4(b)(vi)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/4/b/vi)
 
-[^key-e94b5b63b109184e27e46061b1e8d4d3]: Commencement: Sch. 2 para. 22 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-e94b5b63b109184e27e46061b1e8d4d3]: Commencement: Sch. 2 para. 22 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-f16e326d52a716e3e2083cb78a9af4af]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/22) in force at 31.3.2025 by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 6(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/6/b/ii)
+[^c-f16e326d52a716e3e2083cb78a9af4af]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/22) in force at 31.3.2025 by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 6(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/6/b/ii)
 
-[^key-04e23bbc5a942a2a4f2666d2f58b2ba3]: Commencement: Sch. 2 para. 23 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-04e23bbc5a942a2a4f2666d2f58b2ba3]: Commencement: Sch. 2 para. 23 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-4223fd766c74d317b7c7717abebe140b]: Commencement: Sch. 2 para. 24 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-4223fd766c74d317b7c7717abebe140b]: Commencement: Sch. 2 para. 24 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-a6fa07ecf7417a7f1e37bc741593951e]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/24) in force at 1.12.2024 by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 4(b)(vii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/4/b/vii)
+[^c-a6fa07ecf7417a7f1e37bc741593951e]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/24) in force at 1.12.2024 by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 4(b)(vii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/4/b/vii)
 
-[^key-9796b9c644d0493ca5a0dbbefb9817b7]: Commencement: Sch. 2 para. 25 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-9796b9c644d0493ca5a0dbbefb9817b7]: Commencement: Sch. 2 para. 25 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-d7d8a16f602ec92b67122853bce97e63]: Commencement: Sch. 2 para. 25 in force at 29.8.2023 for specified purposes by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(i)(ee)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/i/ee)
+[^c-d7d8a16f602ec92b67122853bce97e63]: Commencement: Sch. 2 para. 25 in force at 29.8.2023 for specified purposes by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(i)(ee)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/i/ee)
 
-[^key-f3f65c5688bfeaf42a2fcd37719b91c3]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/25) in force at 1.12.2024 in so far as not already in force by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 4(b)(viii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/4/b/viii)
+[^c-f3f65c5688bfeaf42a2fcd37719b91c3]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/25) in force at 1.12.2024 in so far as not already in force by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 4(b)(viii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/4/b/viii)
 
-[^key-2e0ece543c7f95cfc5e3dcb97a26954f]: Commencement: Sch. 2 para. 26 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-2e0ece543c7f95cfc5e3dcb97a26954f]: Commencement: Sch. 2 para. 26 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-08151f18f6010806248ab188b7205c09]: Commencement: Sch. 2 para. 26 in force at 29.10.2024 by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 2(e)(ii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/2/e/ii)
+[^c-08151f18f6010806248ab188b7205c09]: Commencement: Sch. 2 para. 26 in force at 29.10.2024 by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 2(e)(ii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/2/e/ii)
 
-[^key-e73642ab0c2f4c6bc77a9ab9a477f648]: Commencement: Sch. 2 para. 27 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-e73642ab0c2f4c6bc77a9ab9a477f648]: Commencement: Sch. 2 para. 27 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-a8e3209b19062658bfc10097f6eb878b]: Commencement: Sch. 2 para. 27 in force at 29.10.2024 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 3(b)(ix)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/3/b/ix)
+[^c-a8e3209b19062658bfc10097f6eb878b]: Commencement: Sch. 2 para. 27 in force at 29.10.2024 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 3(b)(ix)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/3/b/ix)
 
-[^key-532e46b7440c56a22a315f155568a44f]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/27) in force at 31.3.2025 in so far as not already in force by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 6(b)(iii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/6/b/iii)
+[^c-532e46b7440c56a22a315f155568a44f]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/27) in force at 31.3.2025 in so far as not already in force by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 6(b)(iii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/6/b/iii)
 
-[^key-0a2a5be5b3b818749eb11f5154c17fcf]: Commencement: Sch. 2 para. 28 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-0a2a5be5b3b818749eb11f5154c17fcf]: Commencement: Sch. 2 para. 28 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-2df29f9e7267aafba00fae89b5c2c1dd]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/28) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(ii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/ii)
+[^c-2df29f9e7267aafba00fae89b5c2c1dd]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/28) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(ii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/ii)
 
-[^key-209d8a4df0f770d4536506bc0cfeec01]: Commencement: Sch. 2 para. 29 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-209d8a4df0f770d4536506bc0cfeec01]: Commencement: Sch. 2 para. 29 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-99f59b5786cc338437d65bd1ddeac778]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/29) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(ii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/ii)
+[^c-99f59b5786cc338437d65bd1ddeac778]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/29) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(ii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/ii)
 
-[^key-5172ffce330da66349976d06db0b7343]: Commencement: Sch. 2 para. 30 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-5172ffce330da66349976d06db0b7343]: Commencement: Sch. 2 para. 30 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-60e4e0f90cfc42a09902e70f5b4fa0fd]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/30) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(ii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/ii)
+[^c-60e4e0f90cfc42a09902e70f5b4fa0fd]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/30) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(ii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/ii)
 
-[^key-0c7df058f7fbc05fb83551139b6dc5c7]: Commencement: Sch. 2 para. 31 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-0c7df058f7fbc05fb83551139b6dc5c7]: Commencement: Sch. 2 para. 31 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-d2ad976cf375f94614a36162c33a001f]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/31) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iii)
+[^c-d2ad976cf375f94614a36162c33a001f]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/31) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iii)
 
-[^key-c7dbcb7adc6b8e1cc56b695671fc06cf]: Commencement: Sch. 2 para. 32 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-c7dbcb7adc6b8e1cc56b695671fc06cf]: Commencement: Sch. 2 para. 32 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-d4badbfcdb29ad62ae59f8376ec15c22]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/32) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iii)
+[^c-d4badbfcdb29ad62ae59f8376ec15c22]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/32) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iii)
 
-[^key-692ab6333f946602e786332f5ecf16d2]: Commencement: Sch. 2 para. 33 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-692ab6333f946602e786332f5ecf16d2]: Commencement: Sch. 2 para. 33 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-4d7be08ff6c1d553ee82136a4ac11ddb]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/33) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iii)
+[^c-4d7be08ff6c1d553ee82136a4ac11ddb]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/33) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iii)
 
-[^key-8f29b897e0ba177337ecad18f70d61c3]: Commencement: Sch. 2 para. 34 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-8f29b897e0ba177337ecad18f70d61c3]: Commencement: Sch. 2 para. 34 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-9bf56e12f9a14cc2c046e112e81e0051]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/34) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iii)
+[^c-9bf56e12f9a14cc2c046e112e81e0051]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/34) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iii)
 
-[^key-1ff57f087fc817560a48c4d701fa4b29]: Commencement: Sch. 2 para. 35 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-1ff57f087fc817560a48c4d701fa4b29]: Commencement: Sch. 2 para. 35 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-3934a7a6c213f4d819936219bc142c0d]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/35) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iii)
+[^c-3934a7a6c213f4d819936219bc142c0d]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/35) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iii)
 
-[^key-868aeabd2ac75c1f3c785b322ec9b7f9]: Commencement: Sch. 2 para. 36 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-868aeabd2ac75c1f3c785b322ec9b7f9]: Commencement: Sch. 2 para. 36 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-641daf12a7f00f05a3213428c8316956]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/36) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iii)
+[^c-641daf12a7f00f05a3213428c8316956]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/36) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iii)
 
-[^key-e11548dbe34d3dbf22bd5b2ebb855e54]: Commencement: Sch. 2 para. 37 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-e11548dbe34d3dbf22bd5b2ebb855e54]: Commencement: Sch. 2 para. 37 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-66e58b375edc0faaa15f1fe1bf0f93dd]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/37) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iii)
+[^c-66e58b375edc0faaa15f1fe1bf0f93dd]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/37) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iii)
 
-[^key-dc61b60014f151bad3cf8e13a7f957d1]: Commencement: Sch. 2 para. 38 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-dc61b60014f151bad3cf8e13a7f957d1]: Commencement: Sch. 2 para. 38 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-521030ea7953d9ae07de694cce44c6b9]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/38) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iii)
+[^c-521030ea7953d9ae07de694cce44c6b9]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/38) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iii)
 
-[^key-8bb5cabe0011984a4921bad9f3449c4a]: Commencement: Sch. 2 para. 39 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-8bb5cabe0011984a4921bad9f3449c4a]: Commencement: Sch. 2 para. 39 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-40d345176866049a1b057cfd2f079126]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/39) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iii)
+[^c-40d345176866049a1b057cfd2f079126]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/39) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iii)
 
-[^key-833b742e4683245b85910ee915138997]: Commencement: Sch. 2 para. 40 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-833b742e4683245b85910ee915138997]: Commencement: Sch. 2 para. 40 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-3dcc85e374812490e10e260a94e697a4]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/40) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iii)
+[^c-3dcc85e374812490e10e260a94e697a4]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/40) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iii)
 
-[^key-bad5c087655e25f41832edaff9d447ea]: Commencement: Sch. 2 para. 41 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-bad5c087655e25f41832edaff9d447ea]: Commencement: Sch. 2 para. 41 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-2322a3be55fb562996dcc20830285681]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/41) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iii)
+[^c-2322a3be55fb562996dcc20830285681]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/41) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iii)
 
-[^key-07ac90b5f2a1f6671af56b5ab1a2de89]: Commencement: Sch. 2 para. 42 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-07ac90b5f2a1f6671af56b5ab1a2de89]: Commencement: Sch. 2 para. 42 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-84b6b4e0a910f2dea80e6e20cab002db]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/42) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iii)
+[^c-84b6b4e0a910f2dea80e6e20cab002db]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/42) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iii)
 
-[^key-c1cc128f8eac64be692164a87d44c14f]: Commencement: Sch. 2 para. 43 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-c1cc128f8eac64be692164a87d44c14f]: Commencement: Sch. 2 para. 43 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-65ee831579d4b89ff5b597f39c2cf470]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/43) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iii)
+[^c-65ee831579d4b89ff5b597f39c2cf470]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/43) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iii)
 
-[^key-bdb8e4662185931767eb0ab93badbabf]: Commencement: Sch. 2 para. 44 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-bdb8e4662185931767eb0ab93badbabf]: Commencement: Sch. 2 para. 44 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-6389c359bfd1068612808b64ca18e96b]: Commencement: Sch. 2 para. 44 in force at 29.10.2024 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 3(c)(i)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/3/c/i)
+[^c-6389c359bfd1068612808b64ca18e96b]: Commencement: Sch. 2 para. 44 in force at 29.10.2024 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 3(c)(i)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/3/c/i)
 
-[^key-5d78b60c57bc357d1ca634e04e921d7a]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/44) in force at 6.7.2026 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 9(b)(i)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/9/b/i)
+[^c-5d78b60c57bc357d1ca634e04e921d7a]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/44) in force at 6.7.2026 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 9(b)(i)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/9/b/i)
 
-[^key-0b2a35d4c204dbf5ccea1705eac62f06]: Commencement: Sch. 2 para. 45 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-0b2a35d4c204dbf5ccea1705eac62f06]: Commencement: Sch. 2 para. 45 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-e79f3ed001dc537f23fc9fda353108c0]: Commencement: Sch. 2 para. 45 in force at 29.10.2024 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 3(c)(ii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/3/c/ii)
+[^c-e79f3ed001dc537f23fc9fda353108c0]: Commencement: Sch. 2 para. 45 in force at 29.10.2024 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 3(c)(ii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/3/c/ii)
 
-[^key-7777b1517ef9a14c9f5496ae07b47e2c]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/45) in force at 6.7.2026 in so far as not already in force by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 9(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/9/b/ii)
+[^c-7777b1517ef9a14c9f5496ae07b47e2c]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/45) in force at 6.7.2026 in so far as not already in force by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 9(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/9/b/ii)
 
-[^key-490f49cd07a4c616319451232513b50b]: Commencement: Sch. 2 para. 46 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-490f49cd07a4c616319451232513b50b]: Commencement: Sch. 2 para. 46 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-727c69f405d3a38fbaac4f205aebaee1]: Commencement: [Sch. 2 para. 46](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/46) in force at 6.7.2026 by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 9(b)(iii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/9/b/iii)
+[^c-727c69f405d3a38fbaac4f205aebaee1]: Commencement: [Sch. 2 para. 46](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/46) in force at 6.7.2026 by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 9(b)(iii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/9/b/iii)
 
-[^key-774706a10be01f4157008e6f08605087]: Commencement: Sch. 2 para. 47 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-774706a10be01f4157008e6f08605087]: Commencement: Sch. 2 para. 47 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-1b6ada19831d7aea81e9482a12fb4475]: Commencement: [Sch. 2 para. 47](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/47) in force at 6.7.2026 by [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 8(b)(i)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/8/b/i)
+[^c-1b6ada19831d7aea81e9482a12fb4475]: Commencement: [Sch. 2 para. 47](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/47) in force at 6.7.2026 by [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 8(b)(i)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/8/b/i)
 
-[^key-99abbc6553c4b90fd477dbe31a1883f4]: Commencement: Sch. 2 para. 48 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-99abbc6553c4b90fd477dbe31a1883f4]: Commencement: Sch. 2 para. 48 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-9775040d5c5e840217dc22f0c89a6a02]: Commencement: [Sch. 2 para. 48](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/48) in force at 6.7.2026 by [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 8(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/8/b/ii)
+[^c-9775040d5c5e840217dc22f0c89a6a02]: Commencement: [Sch. 2 para. 48](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/48) in force at 6.7.2026 by [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 8(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/8/b/ii)
 
-[^key-fc12dd2e872cc024b5cfbdee57e72dde]: Commencement: Sch. 2 para. 49 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-fc12dd2e872cc024b5cfbdee57e72dde]: Commencement: Sch. 2 para. 49 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-e63825e008bdade3126843e5fdb940f1]: Commencement: Sch. 2 para. 49 in force at 29.10.2024 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 3(c)(iii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/3/c/iii)
+[^c-e63825e008bdade3126843e5fdb940f1]: Commencement: Sch. 2 para. 49 in force at 29.10.2024 for specified purposes by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 3(c)(iii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/3/c/iii)
 
-[^key-57cb6bae9180567df9bf60ef54f1a595]: Commencement: [Sch. 2 para. 49](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/49) in force at 6.7.2026 in so far as not already in force by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 9(b)(iv)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/9/b/iv)
+[^c-57cb6bae9180567df9bf60ef54f1a595]: Commencement: [Sch. 2 para. 49](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/49) in force at 6.7.2026 in so far as not already in force by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 9(b)(iv)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/9/b/iv)
 
-[^key-2852df24c8517d458c64e1df816b670d]: Commencement: Sch. 2 para. 50 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-2852df24c8517d458c64e1df816b670d]: Commencement: Sch. 2 para. 50 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-95378eb63fc2ee411b13536fe61a4e6e]: Commencement: [Sch. 2 para. 50](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/50) in force at 6.7.2026 by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 9(b)(v)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/9/b/v)
+[^c-95378eb63fc2ee411b13536fe61a4e6e]: Commencement: [Sch. 2 para. 50](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/50) in force at 6.7.2026 by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 9(b)(v)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/9/b/v)
 
-[^key-c7e7e349193b9a0bd5e8053c6c9046e2]: Commencement: Sch. 2 para. 51 in force at Royal Assent, see [s. 86(1)(b)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/b)
+[^c-c7e7e349193b9a0bd5e8053c6c9046e2]: Commencement: Sch. 2 para. 51 in force at Royal Assent, see [s. 86(1)(b)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/b)
 
-[^key-8f0d333dbf7960f7f3cb2d72ba4ff11c]: Commencement: Sch. 2 para. 52 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-8f0d333dbf7960f7f3cb2d72ba4ff11c]: Commencement: Sch. 2 para. 52 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-60a275a52fa5cef060a9c97966c3ff86]: Commencement: [Sch. 2 para. 52](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/52) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
+[^c-60a275a52fa5cef060a9c97966c3ff86]: Commencement: [Sch. 2 para. 52](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/52) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
 
-[^key-7b6afff05686cbbb9ab58bac04313494]: Commencement: Sch. 2 para. 53 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-7b6afff05686cbbb9ab58bac04313494]: Commencement: Sch. 2 para. 53 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-4fe8cf735d9b66e56f915bf8b06fa95a]: Commencement: [Sch. 2 para. 53](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/53) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
+[^c-4fe8cf735d9b66e56f915bf8b06fa95a]: Commencement: [Sch. 2 para. 53](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/53) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
 
-[^key-1085083766e0253e790c32e67d6180c0]: Commencement: Sch. 2 para. 54 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-1085083766e0253e790c32e67d6180c0]: Commencement: Sch. 2 para. 54 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-926489a4e9a864236a211bc79ea22999]: Commencement: [Sch. 2 para. 54](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/54) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
+[^c-926489a4e9a864236a211bc79ea22999]: Commencement: [Sch. 2 para. 54](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/54) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
 
-[^key-a72f4e3287ccbde4588a1d1155263b95]: Commencement: Sch. 2 para. 55 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-a72f4e3287ccbde4588a1d1155263b95]: Commencement: Sch. 2 para. 55 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-63e0f82ef5bc07d171b2cf7cc1309feb]: Commencement: [Sch. 2 para. 55](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/55) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
+[^c-63e0f82ef5bc07d171b2cf7cc1309feb]: Commencement: [Sch. 2 para. 55](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/55) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
 
-[^key-7ce5ccc24249aca89b8a8837595f8860]: Commencement: Sch. 2 para. 56 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-7ce5ccc24249aca89b8a8837595f8860]: Commencement: Sch. 2 para. 56 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-e5f7d4df4f580b0df0e7a7dd1de56201]: Commencement: [Sch. 2 para. 56](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/56) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
+[^c-e5f7d4df4f580b0df0e7a7dd1de56201]: Commencement: [Sch. 2 para. 56](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/56) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
 
-[^key-47e06949828d0acddfe75980dfeb1b82]: Commencement: Sch. 2 para. 57 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-47e06949828d0acddfe75980dfeb1b82]: Commencement: Sch. 2 para. 57 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-42512bbed6bd003e53b5d9ca75769f9d]: Commencement: [Sch. 2 para. 57](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/57) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
+[^c-42512bbed6bd003e53b5d9ca75769f9d]: Commencement: [Sch. 2 para. 57](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/57) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
 
-[^key-c4d844f823e9ae5c5f120b2ea8d6e274]: Commencement: Sch. 2 para. 58 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-c4d844f823e9ae5c5f120b2ea8d6e274]: Commencement: Sch. 2 para. 58 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-71e2ab263f34888542400866052f302d]: Commencement: [Sch. 2 para. 58](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/58) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
+[^c-71e2ab263f34888542400866052f302d]: Commencement: [Sch. 2 para. 58](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/58) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
 
-[^key-70aa1062a3d9e8ae502f441049ccaf9f]: Commencement: Sch. 2 para. 59 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-70aa1062a3d9e8ae502f441049ccaf9f]: Commencement: Sch. 2 para. 59 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-de666661ce409c6f9e8c87ea076dcd59]: Commencement: [Sch. 2 para. 59](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/59) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
+[^c-de666661ce409c6f9e8c87ea076dcd59]: Commencement: [Sch. 2 para. 59](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/59) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
 
-[^key-c735cf1802161856c5c1ac737f9d2446]: Commencement: Sch. 2 para. 60 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-c735cf1802161856c5c1ac737f9d2446]: Commencement: Sch. 2 para. 60 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-a3b63c2d6978b67609ef473e00fefd82]: Commencement: [Sch. 2 para. 60](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/60) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
+[^c-a3b63c2d6978b67609ef473e00fefd82]: Commencement: [Sch. 2 para. 60](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/60) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
 
-[^key-078a399d844adc05ef19eaf5b3a3e770]: Commencement: Sch. 2 para. 61 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-078a399d844adc05ef19eaf5b3a3e770]: Commencement: Sch. 2 para. 61 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-8869367ca38264cd04a9461e3a2166cf]: Commencement: [Sch. 2 para. 61](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/61) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
+[^c-8869367ca38264cd04a9461e3a2166cf]: Commencement: [Sch. 2 para. 61](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/61) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
 
-[^key-23c8da45c5f148713ad47db0fbb6639d]: Commencement: Sch. 2 para. 62 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-23c8da45c5f148713ad47db0fbb6639d]: Commencement: Sch. 2 para. 62 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-d8d5e4d52e2bb2bcf6ddac6c3670069e]: Commencement: [Sch. 2 para. 62](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/62) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
+[^c-d8d5e4d52e2bb2bcf6ddac6c3670069e]: Commencement: [Sch. 2 para. 62](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/62) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
 
-[^key-1a9fbaeb89e1f3af6b7a3c1026228c9a]: Commencement: Sch. 2 para. 63 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-1a9fbaeb89e1f3af6b7a3c1026228c9a]: Commencement: Sch. 2 para. 63 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-12e2b560fc7e4c756300c8693ec08fa3]: Commencement: [Sch. 2 para. 63](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/63) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
+[^c-12e2b560fc7e4c756300c8693ec08fa3]: Commencement: [Sch. 2 para. 63](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/63) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
 
-[^key-08ae69ead2a4deb910138b95f7692f61]: Commencement: Sch. 2 para. 64 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-08ae69ead2a4deb910138b95f7692f61]: Commencement: Sch. 2 para. 64 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-f28465794793838c9cde69b3c08461d0]: Commencement: [Sch. 2 para. 64](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/64) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
+[^c-f28465794793838c9cde69b3c08461d0]: Commencement: [Sch. 2 para. 64](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/64) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
 
-[^key-5922e1f3140f63b498c71f34e6e29ee5]: Commencement: Sch. 2 para. 65 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-5922e1f3140f63b498c71f34e6e29ee5]: Commencement: Sch. 2 para. 65 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-6db6e31d79c8834e6fb83a28912bf8ac]: Commencement: [Sch. 2 para. 65](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/65) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
+[^c-6db6e31d79c8834e6fb83a28912bf8ac]: Commencement: [Sch. 2 para. 65](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/65) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
 
-[^key-6c5832e9b24e79c9ecbf60336c16deee]: Commencement: Sch. 2 para. 66 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-6c5832e9b24e79c9ecbf60336c16deee]: Commencement: Sch. 2 para. 66 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-c6f8de0f87e23161c20b294c70790ae8]: Commencement: [Sch. 2 para. 66](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/66) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
+[^c-c6f8de0f87e23161c20b294c70790ae8]: Commencement: [Sch. 2 para. 66](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/66) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
 
-[^key-a9200b35877c98d4d1cd075ac51b19ab]: Commencement: Sch. 2 para. 67 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-a9200b35877c98d4d1cd075ac51b19ab]: Commencement: Sch. 2 para. 67 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-4a1be3cb781af152a3d34777e548eb15]: Commencement: [Sch. 2 para. 67](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/67) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
+[^c-4a1be3cb781af152a3d34777e548eb15]: Commencement: [Sch. 2 para. 67](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/67) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
 
-[^key-8d7d9a571caa006cd632411f4bc12ecd]: Commencement: Sch. 2 para. 68 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-8d7d9a571caa006cd632411f4bc12ecd]: Commencement: Sch. 2 para. 68 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-43c8eea36e9c350eb0d2a96974ad6a74]: Commencement: [Sch. 2 para. 68](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/68) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
+[^c-43c8eea36e9c350eb0d2a96974ad6a74]: Commencement: [Sch. 2 para. 68](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/68) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
 
-[^key-dd1387ee4c44661cdaab2a9382351699]: Commencement: Sch. 2 para. 69 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-dd1387ee4c44661cdaab2a9382351699]: Commencement: Sch. 2 para. 69 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-76694b99784266f1df3fc8874fb2c945]: Commencement: [Sch. 2 para. 69](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/69) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
+[^c-76694b99784266f1df3fc8874fb2c945]: Commencement: [Sch. 2 para. 69](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/69) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
 
-[^key-a55d37b5f27a9bb3f6982c69a0e52268]: Commencement: Sch. 2 para. 70 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-a55d37b5f27a9bb3f6982c69a0e52268]: Commencement: Sch. 2 para. 70 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-93a23b569fee78d77664de91a64909f1]: Commencement: [Sch. 2 para. 70](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/70) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
+[^c-93a23b569fee78d77664de91a64909f1]: Commencement: [Sch. 2 para. 70](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/70) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
 
-[^key-e5769b73dbff2dc21ff855a26cfe53a3]: Commencement: Sch. 2 para. 71 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-e5769b73dbff2dc21ff855a26cfe53a3]: Commencement: Sch. 2 para. 71 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-8de55355b9333e8cc9cfd9248f65b954]: Commencement: [Sch. 2 para. 71](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/71) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
+[^c-8de55355b9333e8cc9cfd9248f65b954]: Commencement: [Sch. 2 para. 71](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/71) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
 
-[^key-ef5046a3495e9bc14284a5deb31cd522]: Commencement: Sch. 2 para. 72 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-ef5046a3495e9bc14284a5deb31cd522]: Commencement: Sch. 2 para. 72 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-3c7dd86161df49ff18c6b4ebcaa11b95]: Commencement: [Sch. 2 para. 72](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/72) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
+[^c-3c7dd86161df49ff18c6b4ebcaa11b95]: Commencement: [Sch. 2 para. 72](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/72) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)

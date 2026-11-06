@@ -47,7 +47,7 @@ summary: ''
 
 (3) Without prejudice to the width of subsection (2)(e), the Secretary of State[^c20629391] must exercise his power to provide for the imposition of conditions as mentioned there so as to secure that members of the public are permitted to attend when two people sign the civil partnership schedule on approved premises in accordance with section 6(3A)(a).
 
-(3A)[^key-de3b5e47ee173a981909159de2c13094] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-de3b5e47ee173a981909159de2c13094] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3B)[^c21547911] “**Civil marriage**” means marriage solemnised otherwise than according to the rites of the Church of England or any other religious usages.
 
@@ -68,6 +68,6 @@ summary: ''
 
 [^c20629391]: Textual amendment: Words in s. 6A(3) substituted (3.4.2008) by [The Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 5(1)](https://www.legislation.gov.uk/uksi/2008/678/article/5/1), [Sch. 2 para. 14(a)](https://www.legislation.gov.uk/uksi/2008/678/schedule/2/paragraph/14/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
 
-[^key-de3b5e47ee173a981909159de2c13094]: Textual amendment: [S. 6A(3A)](https://www.legislation.gov.uk/ukpga/2004/33/section/6A/3A) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/9/2)
+[^c-de3b5e47ee173a981909159de2c13094]: Textual amendment: [S. 6A(3A)](https://www.legislation.gov.uk/ukpga/2004/33/section/6A/3A) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/9/2)
 
 [^c21547911]: Textual amendment: S. 6A(3A)-(3C) inserted (11.7.2011 so far as relating to the insertion of s. 6A(3B)(3C)) by [Equality Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [ss. 202(4)](https://www.legislation.gov.uk/ukpga/2010/33/section/202/4), [216(3)](https://www.legislation.gov.uk/ukpga/2010/33/section/216/3) (with [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2010/33/section/6/4), [205](https://www.legislation.gov.uk/ukpga/2010/33/section/205)); [S.I. 2011/1636](https://www.legislation.gov.uk/uksi/2011/1636), [art. 2(d)](https://www.legislation.gov.uk/uksi/2011/1636/article/2/d)

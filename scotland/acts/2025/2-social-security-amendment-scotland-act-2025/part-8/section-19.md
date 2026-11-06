@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Recovery of value of assistance from compensation payments[^key-24e4193311b6e90f6507376a5923bba5][^key-d6c187c818508efb6c9019f80c8510dd]
+## 19. Recovery of value of assistance from compensation payments[^c-24e4193311b6e90f6507376a5923bba5][^c-d6c187c818508efb6c9019f80c8510dd]
 
 *Extent: S*
 
@@ -709,6 +709,6 @@ summary: ''
 
 ## Annotations
 
-[^key-24e4193311b6e90f6507376a5923bba5]: Commencement: S. 19 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
+[^c-24e4193311b6e90f6507376a5923bba5]: Commencement: S. 19 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
 
-[^key-d6c187c818508efb6c9019f80c8510dd]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2025/2/section/19) in force at 2.11.2026 for specified purposes by [S.S.I. 2026/274](https://www.legislation.gov.uk/ssi/2026/274), [reg. 2](https://www.legislation.gov.uk/ssi/2026/274/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/274/schedule)
+[^c-d6c187c818508efb6c9019f80c8510dd]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2025/2/section/19) in force at 2.11.2026 for specified purposes by [S.S.I. 2026/274](https://www.legislation.gov.uk/ssi/2026/274), [reg. 2](https://www.legislation.gov.uk/ssi/2026/274/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/274/schedule)

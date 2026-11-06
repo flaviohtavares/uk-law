@@ -32,7 +32,7 @@ summary: ''
 
 Representation Of The People
 
-The Electoral Registration Data Schemes Order 2011 (revoked)[^key-69b80553d355888cc2d2febdd8a2c440]
+The Electoral Registration Data Schemes Order 2011 (revoked)[^c-69b80553d355888cc2d2febdd8a2c440]
 
 Made
 
@@ -40,33 +40,33 @@ Made
 
 Coming into force in accordance with article 1
 
-[^key-69b80553d355888cc2d2febdd8a2c440]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-69b80553d355888cc2d2febdd8a2c440]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-69b80553d355888cc2d2febdd8a2c440]
+## 1. Citation, commencement and interpretation[^c-69b80553d355888cc2d2febdd8a2c440]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-69b80553d355888cc2d2febdd8a2c440] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-69b80553d355888cc2d2febdd8a2c440] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Schemes[^key-69b80553d355888cc2d2febdd8a2c440]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4. Agreements as to processing of data[^key-69b80553d355888cc2d2febdd8a2c440]
+## 3. Schemes[^c-69b80553d355888cc2d2febdd8a2c440]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Evaluation date[^key-69b80553d355888cc2d2febdd8a2c440]
+## 4. Agreements as to processing of data[^c-69b80553d355888cc2d2febdd8a2c440]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-69b80553d355888cc2d2febdd8a2c440]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 5. Evaluation date[^c-69b80553d355888cc2d2febdd8a2c440]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-69b80553d355888cc2d2febdd8a2c440]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Specification of areas, authorities and data[^key-69b80553d355888cc2d2febdd8a2c440]
+## SCHEDULE — Specification of areas, authorities and data[^c-69b80553d355888cc2d2febdd8a2c440]
 
 Article 2
 
@@ -74,8 +74,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-69b80553d355888cc2d2febdd8a2c440]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-69b80553d355888cc2d2febdd8a2c440]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-69b80553d355888cc2d2febdd8a2c440]: Textual amendment: Order revoked (18.7.2012) by [The Electoral Registration Data Schemes Order 2012 (S.I. 2012/1944)](https://www.legislation.gov.uk/uksi/2012/1944), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1944/article/1), [6](https://www.legislation.gov.uk/uksi/2012/1944/article/6)
+[^c-69b80553d355888cc2d2febdd8a2c440]: Textual amendment: Order revoked (18.7.2012) by [The Electoral Registration Data Schemes Order 2012 (S.I. 2012/1944)](https://www.legislation.gov.uk/uksi/2012/1944), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1944/article/1), [6](https://www.legislation.gov.uk/uksi/2012/1944/article/6)

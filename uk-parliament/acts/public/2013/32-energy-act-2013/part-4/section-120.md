@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Rights in relation to the government pipe-line and storage system[^key-e6913989e90ebbba1dcaeeaebe43f9db]
+## 120. Rights in relation to the government pipe-line and storage system[^c-e6913989e90ebbba1dcaeeaebe43f9db]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6913989e90ebbba1dcaeeaebe43f9db]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2013/32/section/120) in force at 30.4.2015 by [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/817/article/2/a)
+[^c-e6913989e90ebbba1dcaeeaebe43f9db]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2013/32/section/120) in force at 30.4.2015 by [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/817/article/2/a)

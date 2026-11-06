@@ -43,73 +43,73 @@ Coming into force
 
 The National Assembly for Wales and the Secretary of State for Environment, Food and Rural Affairs, acting jointly in exercise of their powers under sections 1, 7(1), 8(1), 15(4), 17(1), 23, 25, 32(2), 34(7), 35(1) and (3), 36(2) and (5), 83(2) and 88(2) of the Animal Health Act 1981 [^c5178881], make the following Order:
 
-## 1. Title, commencement and application[^key-540269ce2c08f3b7682524b8c7bc5e31]
+## 1. Title, commencement and application[^c-540269ce2c08f3b7682524b8c7bc5e31]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-540269ce2c08f3b7682524b8c7bc5e31]
+## 2. Interpretation[^c-540269ce2c08f3b7682524b8c7bc5e31]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Extension of definition of “disease”[^key-540269ce2c08f3b7682524b8c7bc5e31]
+## 3. Extension of definition of “disease”[^c-540269ce2c08f3b7682524b8c7bc5e31]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exemption for activities authorised under the Specified Animal Pathogens Order 1998[^key-540269ce2c08f3b7682524b8c7bc5e31]
+## 4. Exemption for activities authorised under the Specified Animal Pathogens Order 1998[^c-540269ce2c08f3b7682524b8c7bc5e31]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Vaccination against the disease[^key-540269ce2c08f3b7682524b8c7bc5e31]
+## 5. Vaccination against the disease[^c-540269ce2c08f3b7682524b8c7bc5e31]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Initial requirements where disease is known or suspected to exist[^key-540269ce2c08f3b7682524b8c7bc5e31]
+## 6. Initial requirements where disease is known or suspected to exist[^c-540269ce2c08f3b7682524b8c7bc5e31]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Isolation of animals[^key-540269ce2c08f3b7682524b8c7bc5e31]
+## 7. Isolation of animals[^c-540269ce2c08f3b7682524b8c7bc5e31]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Notification by inspectors[^key-540269ce2c08f3b7682524b8c7bc5e31]
+## 8. Notification by inspectors[^c-540269ce2c08f3b7682524b8c7bc5e31]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Powers of veterinary inspectors and officers[^key-540269ce2c08f3b7682524b8c7bc5e31]
+## 9. Powers of veterinary inspectors and officers[^c-540269ce2c08f3b7682524b8c7bc5e31]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Measures when the disease is confirmed[^key-540269ce2c08f3b7682524b8c7bc5e31]
+## 10. Measures when the disease is confirmed[^c-540269ce2c08f3b7682524b8c7bc5e31]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Restrictions in protection and surveillance zones[^key-540269ce2c08f3b7682524b8c7bc5e31]
+## 11. Restrictions in protection and surveillance zones[^c-540269ce2c08f3b7682524b8c7bc5e31]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Powers of inspectors and officers in protection and surveillance zones[^key-540269ce2c08f3b7682524b8c7bc5e31]
+## 12. Powers of inspectors and officers in protection and surveillance zones[^c-540269ce2c08f3b7682524b8c7bc5e31]
 
 **No longer in force.**
 
@@ -123,37 +123,37 @@ The National Assembly for Wales and the Secretary of State for Environment, Food
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Slaughter of animals[^key-540269ce2c08f3b7682524b8c7bc5e31]
+## 13. Slaughter of animals[^c-540269ce2c08f3b7682524b8c7bc5e31]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. General duties of occupiers and keepers[^key-540269ce2c08f3b7682524b8c7bc5e31]
+## 14. General duties of occupiers and keepers[^c-540269ce2c08f3b7682524b8c7bc5e31]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Powers of inspectors in case of default[^key-540269ce2c08f3b7682524b8c7bc5e31]
+## 15. Powers of inspectors in case of default[^c-540269ce2c08f3b7682524b8c7bc5e31]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. General powers of inspectors[^key-540269ce2c08f3b7682524b8c7bc5e31]
+## 16. General powers of inspectors[^c-540269ce2c08f3b7682524b8c7bc5e31]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Licences, notices and directions[^key-540269ce2c08f3b7682524b8c7bc5e31]
+## 17. Licences, notices and directions[^c-540269ce2c08f3b7682524b8c7bc5e31]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Enforcement[^key-540269ce2c08f3b7682524b8c7bc5e31]
+## 18. Enforcement[^c-540269ce2c08f3b7682524b8c7bc5e31]
 
 **No longer in force.**
 
@@ -193,7 +193,7 @@ A Regulatory Appraisal has been prepared and published on the National Assembly 
 
 [^c5178881]: Marginal citation: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22).
 
-[^key-540269ce2c08f3b7682524b8c7bc5e31]: Textual amendment: Order revoked (except art. 19) (2.11.2007 at 6.00 p.m.) by [The Bluetongue (Wales) Order 2007 (S.I. 2007/3150)](https://www.legislation.gov.uk/uksi/2007/3150), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3150/regulation/1), [27(a)](https://www.legislation.gov.uk/uksi/2007/3150/regulation/27/a)
+[^c-540269ce2c08f3b7682524b8c7bc5e31]: Textual amendment: Order revoked (except art. 19) (2.11.2007 at 6.00 p.m.) by [The Bluetongue (Wales) Order 2007 (S.I. 2007/3150)](https://www.legislation.gov.uk/uksi/2007/3150), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3150/regulation/1), [27(a)](https://www.legislation.gov.uk/uksi/2007/3150/regulation/27/a)
 
 [^c5178901]: Marginal citation: [S.I. 1992/3159](https://www.legislation.gov.uk/uksi/1992/3159).
 

@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-a18ec57b4175751cced2d50984adce24][^key-60becefc75fb546992243ae50218062f][^key-4092776edd15130751348b680732f71c] The Welfare Reform Act 2007 is amended as follows.
+(1)[^c-a18ec57b4175751cced2d50984adce24][^c-60becefc75fb546992243ae50218062f][^c-4092776edd15130751348b680732f71c] The Welfare Reform Act 2007 is amended as follows.
 
-(2)[^key-0b4aecc60a37a290c093dfa5826f717e][^key-e42ed92dc566c46aa80223ee9b85c9d8] For sections 11 to 16 (and the italic heading preceding section 11) there is substituted—
+(2)[^c-0b4aecc60a37a290c093dfa5826f717e][^c-e42ed92dc566c46aa80223ee9b85c9d8] For sections 11 to 16 (and the italic heading preceding section 11) there is substituted—
 
 > **Work-related requirements**
 >
@@ -262,7 +262,7 @@ summary: ''
 - (a) people remaining in work, or
 - (b) people obtaining or being able to obtain work (or more work or better-paid work).”
 
-(4)[^key-3704580e43e5b3ed730158725bddda67] In section 24 (interpretation), in subsection (1)—
+(4)[^c-3704580e43e5b3ed730158725bddda67] In section 24 (interpretation), in subsection (1)—
 
 - (a) at the appropriate places there is inserted—
 
@@ -295,9 +295,9 @@ summary: ''
 
   .
 
-(5)[^key-3704580e43e5b3ed730158725bddda67] In section 25 (regulations), in subsection (6), for “to 15” there is substituted “ to 11J ”.
+(5)[^c-3704580e43e5b3ed730158725bddda67] In section 25 (regulations), in subsection (6), for “to 15” there is substituted “ to 11J ”.
 
-(6)[^key-7772789336fe176b7da5621c9e48769c] In section 26 (parliamentary control), in subsection (1), after paragraph (a) there is inserted—
+(6)[^c-7772789336fe176b7da5621c9e48769c] In section 26 (parliamentary control), in subsection (1), after paragraph (a) there is inserted—
 
 > - (aa) the first regulations under section 11D(2)(d) or 11J,
 
@@ -326,20 +326,20 @@ summary: ''
 >
 > Regulations may for any purpose of this Part specify circumstances in which a person is or is not responsible for a child.
 
-(9)[^key-3704580e43e5b3ed730158725bddda67] In that Schedule, in paragraph 13 (information), for “13” there is substituted “ 11K ”.
+(9)[^c-3704580e43e5b3ed730158725bddda67] In that Schedule, in paragraph 13 (information), for “13” there is substituted “ 11K ”.
 
 ## Annotations
 
-[^key-a18ec57b4175751cced2d50984adce24]: Commencement: S. 57(1) in force at 25.2.2013 for specified purposes by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/12)
+[^c-a18ec57b4175751cced2d50984adce24]: Commencement: S. 57(1) in force at 25.2.2013 for specified purposes by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/12)
 
-[^key-60becefc75fb546992243ae50218062f]: Commencement: S. 57(1) in force at 25.2.2013 for specified purposes by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/24)
+[^c-60becefc75fb546992243ae50218062f]: Commencement: S. 57(1) in force at 25.2.2013 for specified purposes by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/24)
 
-[^key-4092776edd15130751348b680732f71c]: Commencement: S. 57(1) in force at 29.4.2013 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation by [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 7(1)(d)](https://www.legislation.gov.uk/uksi/2013/983/article/7/1/d) (with [art. 7(3)](https://www.legislation.gov.uk/uksi/2013/983/article/7/3))
+[^c-4092776edd15130751348b680732f71c]: Commencement: S. 57(1) in force at 29.4.2013 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation by [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 7(1)(d)](https://www.legislation.gov.uk/uksi/2013/983/article/7/1/d) (with [art. 7(3)](https://www.legislation.gov.uk/uksi/2013/983/article/7/3))
 
-[^key-0b4aecc60a37a290c093dfa5826f717e]: Commencement: S. 57(2) in force at 25.2.2013 for specified purposes by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/12)
+[^c-0b4aecc60a37a290c093dfa5826f717e]: Commencement: S. 57(2) in force at 25.2.2013 for specified purposes by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/12)
 
-[^key-e42ed92dc566c46aa80223ee9b85c9d8]: Commencement: S. 57(2) in force at 29.4.2013 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation by [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 7(1)(d)](https://www.legislation.gov.uk/uksi/2013/983/article/7/1/d) (with [art. 7(3)](https://www.legislation.gov.uk/uksi/2013/983/article/7/3))
+[^c-e42ed92dc566c46aa80223ee9b85c9d8]: Commencement: S. 57(2) in force at 29.4.2013 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation by [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 7(1)(d)](https://www.legislation.gov.uk/uksi/2013/983/article/7/1/d) (with [art. 7(3)](https://www.legislation.gov.uk/uksi/2013/983/article/7/3))
 
-[^key-3704580e43e5b3ed730158725bddda67]: Commencement: S. 57(4)(5)(9) in force at 29.4.2013 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation by [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 7(1)(d)](https://www.legislation.gov.uk/uksi/2013/983/article/7/1/d) (with [art. 7(3)](https://www.legislation.gov.uk/uksi/2013/983/article/7/3))
+[^c-3704580e43e5b3ed730158725bddda67]: Commencement: S. 57(4)(5)(9) in force at 29.4.2013 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation by [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 7(1)(d)](https://www.legislation.gov.uk/uksi/2013/983/article/7/1/d) (with [art. 7(3)](https://www.legislation.gov.uk/uksi/2013/983/article/7/3))
 
-[^key-7772789336fe176b7da5621c9e48769c]: Commencement: S. 57(6) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/24)
+[^c-7772789336fe176b7da5621c9e48769c]: Commencement: S. 57(6) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/24)

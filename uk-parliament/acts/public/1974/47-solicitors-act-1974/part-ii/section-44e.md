@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44E. Appeals against disciplinary action under section 44D[^key-7e3c3cabd2ce4989a6c86eeb6214cd72][^c20571631][^c19663341]
+## 44E. Appeals against disciplinary action under section 44D[^c-7e3c3cabd2ce4989a6c86eeb6214cd72][^c20571631][^c19663341]
 
 *Extent: E+W*
 
@@ -51,7 +51,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7e3c3cabd2ce4989a6c86eeb6214cd72]: Modification: [S. 44E](https://www.legislation.gov.uk/ukpga/1974/47/section/44E) applied in part (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2024/1379/regulation/25)
+[^c-7e3c3cabd2ce4989a6c86eeb6214cd72]: Modification: [S. 44E](https://www.legislation.gov.uk/ukpga/1974/47/section/44E) applied in part (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2024/1379/regulation/25)
 
 [^c20571631]: Modification: [S. 44E](https://www.legislation.gov.uk/ukpga/1974/47/section/44E) extended (with modifications) (1.7.2009) by [S.I. 2000/1119](https://www.legislation.gov.uk/uksi/2000/1119), [Sch. 4 para. 7(2)](https://www.legislation.gov.uk/uksi/2000/1119/schedule/4/paragraph/7/2) [Table (as amended by The Legal Services Act 2007 (Registered European Lawyers) Order 2009 (S.I. 2009/1587)](https://www.legislation.gov.uk/uksi/2009/1587), [art. 3(7)(c)](https://www.legislation.gov.uk/uksi/2009/1587/article/3/7/c))
 

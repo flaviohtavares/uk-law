@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Charging scheme[^key-a47fa3727ad57f5cbc60646c0f1bb2bd]
+## 49. Charging scheme[^c-a47fa3727ad57f5cbc60646c0f1bb2bd]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a47fa3727ad57f5cbc60646c0f1bb2bd]: Commencement: [S. 49](https://www.legislation.gov.uk/anaw/2015/5/section/49) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-a47fa3727ad57f5cbc60646c0f1bb2bd]: Commencement: [S. 49](https://www.legislation.gov.uk/anaw/2015/5/section/49) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

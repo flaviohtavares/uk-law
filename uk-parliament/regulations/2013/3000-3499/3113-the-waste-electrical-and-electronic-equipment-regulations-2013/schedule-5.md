@@ -22,17 +22,17 @@ summary: ''
 
 Regulation 9
 
-**1.**[^key-2f1d0dc4bb42c0bc16dfd9fe0c6bf5aa] The following amendments apply in relation to the first compliance period.
+**1.**[^c-2f1d0dc4bb42c0bc16dfd9fe0c6bf5aa] The following amendments apply in relation to the first compliance period.
 
-### 2. Record Keeping[^key-1d2445156c75b7df0c7000a96837f0d0][^key-52e6f6f4f7c844627f87233515f97e74]
+### 2. Record Keeping[^c-1d2445156c75b7df0c7000a96837f0d0][^c-52e6f6f4f7c844627f87233515f97e74]
 
 For regulation 11(11)(a)(i), substitute—
 
 > - (i) during the first compliance period, in compliance with the provisions that applied to the 2013 compliance period on 31 December 2013;
 
-### 3. Take back: Application to use existing collection facilities[^key-9b632e21a0903614b467a2fc880dbebf]
+### 3. Take back: Application to use existing collection facilities[^c-9b632e21a0903614b467a2fc880dbebf]
 
-For regulation 69(2)(b)[^key-52a9a96b6f2bde25ba0296900c41cdea] insert—
+For regulation 69(2)(b)[^c-52a9a96b6f2bde25ba0296900c41cdea] insert—
 
 > - (b) during the first compliance period, on or before 15th January 2014. If granted, the approval will apply from 15th February 2014;
 
@@ -40,12 +40,12 @@ For regulation 69(2)(b)[^key-52a9a96b6f2bde25ba0296900c41cdea] insert—
 
 ## Annotations
 
-[^key-2f1d0dc4bb42c0bc16dfd9fe0c6bf5aa]: Commencement: Sch. 5 para. 1 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-2f1d0dc4bb42c0bc16dfd9fe0c6bf5aa]: Commencement: Sch. 5 para. 1 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
 
-[^key-1d2445156c75b7df0c7000a96837f0d0]: Commencement: Sch. 5 para. 2 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-1d2445156c75b7df0c7000a96837f0d0]: Commencement: Sch. 5 para. 2 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
 
-[^key-52e6f6f4f7c844627f87233515f97e74]: Textual amendment: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2013/3113/schedule/5/paragraph/2) substituted (25.12.2015) by [The Waste Electrical and Electronic Equipment (Amendment) Regulations 2015 (S.I. 2015/1968)](https://www.legislation.gov.uk/uksi/2015/1968), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1968/regulation/1), [2(40)(a)](https://www.legislation.gov.uk/uksi/2015/1968/regulation/2/40/a)
+[^c-52e6f6f4f7c844627f87233515f97e74]: Textual amendment: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2013/3113/schedule/5/paragraph/2) substituted (25.12.2015) by [The Waste Electrical and Electronic Equipment (Amendment) Regulations 2015 (S.I. 2015/1968)](https://www.legislation.gov.uk/uksi/2015/1968), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1968/regulation/1), [2(40)(a)](https://www.legislation.gov.uk/uksi/2015/1968/regulation/2/40/a)
 
-[^key-9b632e21a0903614b467a2fc880dbebf]: Commencement: Sch. 5 para. 3 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-9b632e21a0903614b467a2fc880dbebf]: Commencement: Sch. 5 para. 3 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
 
-[^key-52a9a96b6f2bde25ba0296900c41cdea]: Textual amendment: Word in [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2013/3113/schedule/5/paragraph/3) substituted (25.12.2015) by [The Waste Electrical and Electronic Equipment (Amendment) Regulations 2015 (S.I. 2015/1968)](https://www.legislation.gov.uk/uksi/2015/1968), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1968/regulation/1), [2(40)(b)](https://www.legislation.gov.uk/uksi/2015/1968/regulation/2/40/b)
+[^c-52a9a96b6f2bde25ba0296900c41cdea]: Textual amendment: Word in [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2013/3113/schedule/5/paragraph/3) substituted (25.12.2015) by [The Waste Electrical and Electronic Equipment (Amendment) Regulations 2015 (S.I. 2015/1968)](https://www.legislation.gov.uk/uksi/2015/1968), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1968/regulation/1), [2(40)(b)](https://www.legislation.gov.uk/uksi/2015/1968/regulation/2/40/b)

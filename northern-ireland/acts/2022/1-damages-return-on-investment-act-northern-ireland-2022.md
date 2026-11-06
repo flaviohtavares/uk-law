@@ -36,7 +36,7 @@ An Act to make provision in relation to the assumed rate of return on investment
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
-## 1. Assumed return on investment[^key-dde6474c5403a9ad743a40a2e24c2fc0][^key-5707732bf2aff9411f99128524f51cd7]
+## 1. Assumed return on investment[^c-dde6474c5403a9ad743a40a2e24c2fc0][^c-5707732bf2aff9411f99128524f51cd7]
 
 (1) Before section 1 of the Damages Act 1996 insert—
 
@@ -68,11 +68,11 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (2) Section 1 of the Damages Act 1996 is repealed.
 
-## 2. Process for setting rate of return[^key-ddd071670627161b8293d7f09c6bb3f0][^key-97c9fc45b3ce2fa69c1674ec9402896a]
+## 2. Process for setting rate of return[^c-ddd071670627161b8293d7f09c6bb3f0][^c-97c9fc45b3ce2fa69c1674ec9402896a]
 
 Before Schedule 1 to the Damages Act 1996, insert Schedule C1 as set out in the Schedule to this Act.
 
-## 3. Ancillary provision[^key-523ddfcc9663d042414c779aab32bf7b]
+## 3. Ancillary provision[^c-523ddfcc9663d042414c779aab32bf7b]
 
 (1) The Department may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision that it considers appropriate for the purposes of, in connection with or for giving full effect to this Act.
 
@@ -83,14 +83,14 @@ Before Schedule 1 to the Damages Act 1996, insert Schedule C1 as set out in the 
 - (a) may not be made unless a draft of the regulations has been laid before, and approved by a resolution of, the Assembly, if they modify Northern Ireland legislation or an Act of Parliament;
 - (b) otherwise, are subject to negative resolution.
 
-## 4. Interpretation[^key-8e04d8fe60a572ef9c7395304f85ee86]
+## 4. Interpretation[^c-8e04d8fe60a572ef9c7395304f85ee86]
 
 In this Act—
 
 - “**the Department**” means the Department of Justice;
 - “**statutory provision**” has the meaning given by section 1(f) of the Interpretation Act (Northern Ireland) 1954.
 
-## 5. Commencement[^key-8c8798cf9b105112fcc30152e0ba5830]
+## 5. Commencement[^c-8c8798cf9b105112fcc30152e0ba5830]
 
 (1) Sections 3 to 6 come into operation on the day after this Act receives Royal Assent.
 
@@ -98,15 +98,15 @@ In this Act—
 
 (3) An order under subsection (2) may include transitional, transitory or saving provision.
 
-## 6. Short title[^key-1dbb16599e80676aa21ea8641d193da2]
+## 6. Short title[^c-1dbb16599e80676aa21ea8641d193da2]
 
 This Act may be cited as the Damages (Return on Investment) Act (Northern Ireland) 2022.
 
-## SCHEDULE — Schedule C1 to the Damages Act 1996, as inserted[^key-11168d895db9f160686e2e4874f62f7a][^key-2309dc6292a1d5a3ddb0fa6d6089fa2c]
+## SCHEDULE — Schedule C1 to the Damages Act 1996, as inserted[^c-11168d895db9f160686e2e4874f62f7a][^c-2309dc6292a1d5a3ddb0fa6d6089fa2c]
 
 Section 2.
 
-[^key-2309dc6292a1d5a3ddb0fa6d6089fa2c]
+[^c-2309dc6292a1d5a3ddb0fa6d6089fa2c]
 
 > **SCHEDULE C1 — Setting the rate for section C1(1): Northern Ireland**
 >
@@ -407,22 +407,22 @@ Section 2.
 
 ## Annotations
 
-[^key-dde6474c5403a9ad743a40a2e24c2fc0]: Commencement: S. 1 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/1/section/5/2)
+[^c-dde6474c5403a9ad743a40a2e24c2fc0]: Commencement: S. 1 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/1/section/5/2)
 
-[^key-5707732bf2aff9411f99128524f51cd7]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2022/1/section/1) in operation at 10.2.2022 by [S.R. 2022/30](https://www.legislation.gov.uk/nisr/2022/30), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/30/article/2/a)
+[^c-5707732bf2aff9411f99128524f51cd7]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2022/1/section/1) in operation at 10.2.2022 by [S.R. 2022/30](https://www.legislation.gov.uk/nisr/2022/30), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/30/article/2/a)
 
-[^key-ddd071670627161b8293d7f09c6bb3f0]: Commencement: S. 2 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/1/section/5/2)
+[^c-ddd071670627161b8293d7f09c6bb3f0]: Commencement: S. 2 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/1/section/5/2)
 
-[^key-97c9fc45b3ce2fa69c1674ec9402896a]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2022/1/section/2) in operation at 10.2.2022 by [S.R. 2022/30](https://www.legislation.gov.uk/nisr/2022/30), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/30/article/2/b)
+[^c-97c9fc45b3ce2fa69c1674ec9402896a]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2022/1/section/2) in operation at 10.2.2022 by [S.R. 2022/30](https://www.legislation.gov.uk/nisr/2022/30), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/30/article/2/b)
 
-[^key-523ddfcc9663d042414c779aab32bf7b]: Commencement: S. 3 in operation at 3.2.2022, see [s. 5(1)](https://www.legislation.gov.uk/nia/2022/1/section/5/1)
+[^c-523ddfcc9663d042414c779aab32bf7b]: Commencement: S. 3 in operation at 3.2.2022, see [s. 5(1)](https://www.legislation.gov.uk/nia/2022/1/section/5/1)
 
-[^key-8e04d8fe60a572ef9c7395304f85ee86]: Commencement: S. 4 in operation at 3.2.2022, see [s. 5(1)](https://www.legislation.gov.uk/nia/2022/1/section/5/1)
+[^c-8e04d8fe60a572ef9c7395304f85ee86]: Commencement: S. 4 in operation at 3.2.2022, see [s. 5(1)](https://www.legislation.gov.uk/nia/2022/1/section/5/1)
 
-[^key-8c8798cf9b105112fcc30152e0ba5830]: Commencement: S. 5 in operation at 3.2.2022, see [s. 5(1)](https://www.legislation.gov.uk/nia/2022/1/section/5/1)
+[^c-8c8798cf9b105112fcc30152e0ba5830]: Commencement: S. 5 in operation at 3.2.2022, see [s. 5(1)](https://www.legislation.gov.uk/nia/2022/1/section/5/1)
 
-[^key-1dbb16599e80676aa21ea8641d193da2]: Commencement: S. 6 in operation at 3.2.2022, see [s. 5(1)](https://www.legislation.gov.uk/nia/2022/1/section/5/1)
+[^c-1dbb16599e80676aa21ea8641d193da2]: Commencement: S. 6 in operation at 3.2.2022, see [s. 5(1)](https://www.legislation.gov.uk/nia/2022/1/section/5/1)
 
-[^key-11168d895db9f160686e2e4874f62f7a]: Commencement: Sch. not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/1/section/5/2)
+[^c-11168d895db9f160686e2e4874f62f7a]: Commencement: Sch. not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/1/section/5/2)
 
-[^key-2309dc6292a1d5a3ddb0fa6d6089fa2c]: Commencement: [Sch.](https://www.legislation.gov.uk/nia/2022/1/schedule) in operation at 10.2.2022 by [S.R. 2022/30](https://www.legislation.gov.uk/nisr/2022/30), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/30/article/2/c)
+[^c-2309dc6292a1d5a3ddb0fa6d6089fa2c]: Commencement: [Sch.](https://www.legislation.gov.uk/nia/2022/1/schedule) in operation at 10.2.2022 by [S.R. 2022/30](https://www.legislation.gov.uk/nisr/2022/30), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/30/article/2/c)

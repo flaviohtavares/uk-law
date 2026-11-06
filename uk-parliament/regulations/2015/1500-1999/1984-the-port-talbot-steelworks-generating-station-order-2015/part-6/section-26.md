@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Crown rights[^key-0844dc52aa2d2ad8112c0ddd87575e11]
+## 26. Crown rights[^c-0844dc52aa2d2ad8112c0ddd87575e11]
 
 *Extent: E+W+S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0844dc52aa2d2ad8112c0ddd87575e11]: Commencement: Art. 26 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-0844dc52aa2d2ad8112c0ddd87575e11]: Commencement: Art. 26 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
 
 [^f00028]: Footnote: “Crown Estate Commissioners” is defined in Schedule 1 to the Interpretation Act 1978.

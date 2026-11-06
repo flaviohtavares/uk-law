@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73J. Communications made by certain providers of referrals[^key-f11698a7cd0ad40f9f946fbec67d6282]
+## 73J. Communications made by certain providers of referrals[^c-f11698a7cd0ad40f9f946fbec67d6282]
 
 *Extent: E+W+S*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) the activity is incidental to the introducer’s main business;
 - (c) the details are only referred to authorised persons, legal practitioners, or a firm, organisation or body corporate that provides the service through legal practitioners;
 - (d) of the claims that the introducer refers to such persons, that introducer is paid, in money or money’s worth, for no more than 25 claims per calendar quarter; and
-- (e) the introducer, in obtaining and referring those details has complied with the provisions of the Data Protection Act 2018, the Privacy and Electronic Communications (EC Directive) Regulations 2003, the General Data Protection Regulation (EU) of the European Parliament and of the Council 2016/679 and Chapter 1 of Part 4 of the Digital Markets, Competition and Consumers Act 2024[^key-716cf6b1a627c3630a75c168f2f15c6b].
+- (e) the introducer, in obtaining and referring those details has complied with the provisions of the Data Protection Act 2018, the Privacy and Electronic Communications (EC Directive) Regulations 2003, the General Data Protection Regulation (EU) of the European Parliament and of the Council 2016/679 and Chapter 1 of Part 4 of the Digital Markets, Competition and Consumers Act 2024[^c-716cf6b1a627c3630a75c168f2f15c6b].
 
 (2) Paragraph 1(e) does not apply in the case of a referral to a legal practitioner or firm, organisation or body corporate that carries on the activity through legal practitioners.
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f11698a7cd0ad40f9f946fbec67d6282]: Textual amendment: Pt. 6A inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [36](https://www.legislation.gov.uk/uksi/2018/1253/article/36)
+[^c-f11698a7cd0ad40f9f946fbec67d6282]: Textual amendment: Pt. 6A inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [36](https://www.legislation.gov.uk/uksi/2018/1253/article/36)
 
-[^key-716cf6b1a627c3630a75c168f2f15c6b]: Textual amendment: Words in art. 73J(1)(e) substituted (6.4.2025) by [The Digital Markets, Competition and Consumers Act 2024 (Consequential Amendments) Regulations 2025 (S.I. 2025/381)](https://www.legislation.gov.uk/uksi/2025/381), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/381/regulation/1/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2025/381/schedule/paragraph/26)
+[^c-716cf6b1a627c3630a75c168f2f15c6b]: Textual amendment: Words in art. 73J(1)(e) substituted (6.4.2025) by [The Digital Markets, Competition and Consumers Act 2024 (Consequential Amendments) Regulations 2025 (S.I. 2025/381)](https://www.legislation.gov.uk/uksi/2025/381), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/381/regulation/1/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2025/381/schedule/paragraph/26)

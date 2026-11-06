@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 145. Notice of appeal[^key-a653200b99e3f0c44a0797215e588c83]
+## 145. Notice of appeal[^c-a653200b99e3f0c44a0797215e588c83]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ the scheme manager may extend the period for giving notice for such length, not 
 
 ## Annotations
 
-[^key-a653200b99e3f0c44a0797215e588c83]: Commencement: [Reg. 145](https://www.legislation.gov.uk/ssi/2015/19/regulation/145) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-a653200b99e3f0c44a0797215e588c83]: Commencement: [Reg. 145](https://www.legislation.gov.uk/ssi/2015/19/regulation/145) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

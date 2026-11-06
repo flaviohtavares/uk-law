@@ -30,8 +30,8 @@ summary: ''
 - (a) which is contained, immediately before the day on which this Act is passed, in an enactment specified in Schedule 6, and
 - (b) in relation to which that regulator has an enforcement function.
 
-(3) The entry in Schedule 6 for Part 5 of the Disability Discrimination Act 1995 is, in relation to England and Wales and Scotland, to be read as a reference to Part 12 of the Equality Act 2010.[^key-a06cd88c732cdd8779d4dbfc4c322811]
+(3) The entry in Schedule 6 for Part 5 of the Disability Discrimination Act 1995 is, in relation to England and Wales and Scotland, to be read as a reference to Part 12 of the Equality Act 2010.[^c-a06cd88c732cdd8779d4dbfc4c322811]
 
 ## Annotations
 
-[^key-a06cd88c732cdd8779d4dbfc4c322811]: Textual amendment: S. 38(3) inserted by 2010 c. 15 Sch. 26 Pt. 1 para. 98 (as inserted) (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/6) (see S.I. 2010/2317, art. 2)
+[^c-a06cd88c732cdd8779d4dbfc4c322811]: Textual amendment: S. 38(3) inserted by 2010 c. 15 Sch. 26 Pt. 1 para. 98 (as inserted) (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/6) (see S.I. 2010/2317, art. 2)

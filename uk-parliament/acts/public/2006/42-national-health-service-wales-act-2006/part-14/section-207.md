@@ -28,7 +28,7 @@ In this Act the following expressions are defined or otherwise explained by the 
 | commissioner, in relation to an NHS contract | section 7(1) |
 | contractor, in relation to a general dental services contract | section 57(4) |
 | contractor, in relation to a general medical services contract | section 42(5) |
-| direct payment service provider[^key-2c422bc2c947e77edd586d68decfe528] | section 187(3) |
+| direct payment service provider[^c-2c422bc2c947e77edd586d68decfe528] | section 187(3) |
 | fraud case | section 107(3) |
 | general dental services contract | section 57(2) |
 | general medical services contract | section 42(2) |
@@ -37,7 +37,7 @@ In this Act the following expressions are defined or otherwise explained by the 
 | LPS scheme | paragraph 1(2) of Schedule 7 |
 | NHS contract | section 7(1) |
 | NHS trust order | section 18(2) |
-| nurse staffing level[^key-9ace890241dae15e34e0c46c64f0fedb] | section 25B(1)(a) |
+| nurse staffing level[^c-9ace890241dae15e34e0c46c64f0fedb] | section 25B(1)(a) |
 | ophthalmic list | section 72(7) |
 | optical appliances | section 128(5) |
 | pharmaceutical list | section 83(11) |
@@ -58,6 +58,6 @@ In this Act the following expressions are defined or otherwise explained by the 
 
 ## Annotations
 
-[^key-2c422bc2c947e77edd586d68decfe528]: Textual amendment: Words in s. 207 inserted (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 2 para. 3(5)](https://www.legislation.gov.uk/asc/2025/1/schedule/2/paragraph/3/5); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)
+[^c-2c422bc2c947e77edd586d68decfe528]: Textual amendment: Words in s. 207 inserted (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 2 para. 3(5)](https://www.legislation.gov.uk/asc/2025/1/schedule/2/paragraph/3/5); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)
 
-[^key-9ace890241dae15e34e0c46c64f0fedb]: Textual amendment: Words in s. 207 inserted (21.1.2021) by [Nurse Staffing Levels (Wales) Act 2016 (anaw 5)](https://www.legislation.gov.uk/anaw/2016/5), [ss. 1(3)](https://www.legislation.gov.uk/anaw/2016/5/section/1/3), [2(1)](https://www.legislation.gov.uk/anaw/2016/5/section/2/1); [S.I. 2021/61](https://www.legislation.gov.uk/wsi/2021/61), [art. 2](https://www.legislation.gov.uk/wsi/2021/61/article/2)
+[^c-9ace890241dae15e34e0c46c64f0fedb]: Textual amendment: Words in s. 207 inserted (21.1.2021) by [Nurse Staffing Levels (Wales) Act 2016 (anaw 5)](https://www.legislation.gov.uk/anaw/2016/5), [ss. 1(3)](https://www.legislation.gov.uk/anaw/2016/5/section/1/3), [2(1)](https://www.legislation.gov.uk/anaw/2016/5/section/2/1); [S.I. 2021/61](https://www.legislation.gov.uk/wsi/2021/61), [art. 2](https://www.legislation.gov.uk/wsi/2021/61/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 189. General interpretation.[^key-236e3669562c1bbe687c90f84db7e739]
+## 189. General interpretation.[^c-236e3669562c1bbe687c90f84db7e739]
 
 *Extent: E+W*
 
@@ -56,7 +56,7 @@ and cognate expressions shall be construed accordingly;
 - “**functions**”, in relation to the Authority or a water undertaker or sewerage undertaker, means the functions of the Authority or, as the case may be, of such an undertaker under or by virtue of any enactment and shall be construed subject to section 188 above;
 - “**harbour authority**” means a person who is a harbour authority within the meaning of the [^c3799771]Prevention of Oil Pollution Act 1971 and is not a navigation authority;
 - “**highway**” has the same meaning as in the [^c3799781]Highways Act 1980;
-- “**holding company**” has the same meaning as in the [^c3799791] the Companies Acts (see section 1159 of the Companies Act 2006)[^key-fb87a4d34fb0f667b7deff994de84fa8] ;
+- “**holding company**” has the same meaning as in the [^c3799791] the Companies Acts (see section 1159 of the Companies Act 2006)[^c-fb87a4d34fb0f667b7deff994de84fa8] ;
 - “**house**” means any building or part of a building which is occupied as a dwelling-house, whether or not a private dwelling-house, or which, if unoccupied, is likely to be so occupied;
 - “**information**” includes anything contained in any records, accounts, estimates or returns;
 - “**inland waters**”, except in Chapter I of Part III of this Act, has the same meaning as in the [^c3799801]Water Resources Act 1963;
@@ -134,7 +134,7 @@ and includes part of any service pipe;
 
 ## Annotations
 
-[^key-236e3669562c1bbe687c90f84db7e739]: Modification: S. 189 applied (Isles of Scilly) (with modifications) (1.11.2019) by [The Isles of Scilly (Application of Water Legislation) Order 2019 (S.I. 2019/1259)](https://www.legislation.gov.uk/uksi/2019/1259), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2019/1259/article/2/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2019/1259/article/3/1/b)[(3)](https://www.legislation.gov.uk/uksi/2019/1259/article/3/3)
+[^c-236e3669562c1bbe687c90f84db7e739]: Modification: S. 189 applied (Isles of Scilly) (with modifications) (1.11.2019) by [The Isles of Scilly (Application of Water Legislation) Order 2019 (S.I. 2019/1259)](https://www.legislation.gov.uk/uksi/2019/1259), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2019/1259/article/2/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2019/1259/article/3/1/b)[(3)](https://www.legislation.gov.uk/uksi/2019/1259/article/3/3)
 
 [^c3799721]: Textual amendment: S. 189(1) except in so far as it defines “the 1945 Act”, “the 1973 Act”, “the Authority”, “contravention”, “the Director”, “disposal” and cognate expressions, “enactment”, “holding company”, “information”, “local statutory provision”, “the Minister”, “modifications” and cognate expressions, “sewer”, “subordinate legislation”, “statutory water company”, “successor company”, “transfer date” and “water authority” repealed by [Water Consolidation (Consequential Provisions) Act 1991 (c. 60, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/60), [s. 3](https://www.legislation.gov.uk/ukpga/1991/60/section/3), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1991/60/schedule/3/part/I) (with [s. 2](https://www.legislation.gov.uk/ukpga/1991/60/section/2), [Sch. 2 paras. 10](https://www.legislation.gov.uk/ukpga/1991/60/schedule/2/paragraph/10), [14(1)](https://www.legislation.gov.uk/ukpga/1991/60/schedule/2/paragraph/14/1), [15](https://www.legislation.gov.uk/ukpga/1991/60/schedule/2/paragraph/15))
 
@@ -152,7 +152,7 @@ and includes part of any service pipe;
 
 [^c3799791]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 
-[^key-fb87a4d34fb0f667b7deff994de84fa8]: Textual amendment: Words in s. 189(1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 101(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/101/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-fb87a4d34fb0f667b7deff994de84fa8]: Textual amendment: Words in s. 189(1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 101(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/101/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c3799801]: Marginal citation: [1963 c. 38](https://www.legislation.gov.uk/ukpga/1963/38).
 

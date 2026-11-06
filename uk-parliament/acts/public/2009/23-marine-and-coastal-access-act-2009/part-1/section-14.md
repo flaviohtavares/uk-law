@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Agreements between the Secretary of State and the MMO[^key-de466eb411649c75ce6bd32a0e5a531b]
+## 14. Agreements between the Secretary of State and the MMO[^c-de466eb411649c75ce6bd32a0e5a531b]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de466eb411649c75ce6bd32a0e5a531b]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2009/23/section/14) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/2)
+[^c-de466eb411649c75ce6bd32a0e5a531b]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2009/23/section/14) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/2)

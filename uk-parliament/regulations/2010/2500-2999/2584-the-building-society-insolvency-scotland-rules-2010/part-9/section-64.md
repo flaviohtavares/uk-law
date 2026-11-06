@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. The chair at meetings[^key-7f2a4c7e1a5fd091a70ad6c61f4e9b40]
+## 64. The chair at meetings[^c-7f2a4c7e1a5fd091a70ad6c61f4e9b40]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 4.46 of the 1986 Rules.
 
 ## Annotations
 
-[^key-7f2a4c7e1a5fd091a70ad6c61f4e9b40]: Commencement: Rule 64 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-7f2a4c7e1a5fd091a70ad6c61f4e9b40]: Commencement: Rule 64 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

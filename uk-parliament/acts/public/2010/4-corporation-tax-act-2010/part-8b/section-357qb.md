@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357QB. Tax credit: entitlement[^key-daff5b22d7ee6f395950067d2a1daa9d]
+## 357QB. Tax credit: entitlement[^c-daff5b22d7ee6f395950067d2a1daa9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,7 +42,7 @@ summary: ''
 (5) The amount of a mainstream qualifying land remediation loss is—
 
 - (a) so much of the mainstream loss in question as is unrelieved, or
-- (b) if less, the qualifying land remediation expenditure in respect of which the relief was obtained that is not Northern Ireland qualifying land remediation[^key-0f74ef0a816c1de71f6111062b43e490] expenditure, multiplied by the percentage specified in section 1152(2)(b) of CTA 2009.
+- (b) if less, the qualifying land remediation expenditure in respect of which the relief was obtained that is not Northern Ireland qualifying land remediation[^c-0f74ef0a816c1de71f6111062b43e490] expenditure, multiplied by the percentage specified in section 1152(2)(b) of CTA 2009.
 
 (6) For the purposes of this section “**the adjusted section 1152 percentage**” means—
 
@@ -65,6 +65,6 @@ NIR is the Northern Ireland rate for the financial year in which the expenditure
 
 ## Annotations
 
-[^key-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
+[^c-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
 
-[^key-0f74ef0a816c1de71f6111062b43e490]: Textual amendment: Words in [s. 357QB(5)(b)](https://www.legislation.gov.uk/ukpga/2010/4/section/357QB/5/b) substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/27)
+[^c-0f74ef0a816c1de71f6111062b43e490]: Textual amendment: Words in [s. 357QB(5)(b)](https://www.legislation.gov.uk/ukpga/2010/4/section/357QB/5/b) substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/27)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Power to disapply requirement for development consent[^key-fa9bfc8c9e1b859006d9b5d0f20ac583][^key-84ff3364398be6af2578f89554923281]
+## 4. Power to disapply requirement for development consent[^c-fa9bfc8c9e1b859006d9b5d0f20ac583][^c-84ff3364398be6af2578f89554923281]
 
 *Extent: E+W*
 
@@ -146,6 +146,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fa9bfc8c9e1b859006d9b5d0f20ac583]: Commencement: S. 4 not in force at Royal Assent, see [s. 118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c)
+[^c-fa9bfc8c9e1b859006d9b5d0f20ac583]: Commencement: S. 4 not in force at Royal Assent, see [s. 118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c)
 
-[^key-84ff3364398be6af2578f89554923281]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2025/34/section/4) in force at 24.7.2026 by [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/a)
+[^c-84ff3364398be6af2578f89554923281]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2025/34/section/4) in force at 24.7.2026 by [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/a)

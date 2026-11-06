@@ -20,17 +20,17 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-59b66b45b8713251ec68380a58db72ac][^key-afe9fad76317516876ac66ee9ab11af0][^key-f3fab22668c8b0747bd1d615415d223e][^key-b8f2f8817abaee26646df693698f61e1] Section 114 of the TA 2000 (quality partnership schemes) is amended as follows.
+(1)[^c-59b66b45b8713251ec68380a58db72ac][^c-afe9fad76317516876ac66ee9ab11af0][^c-f3fab22668c8b0747bd1d615415d223e][^c-b8f2f8817abaee26646df693698f61e1] Section 114 of the TA 2000 (quality partnership schemes) is amended as follows.
 
-(2)[^key-2c9688c149d16200bc92c042aeb6ecef][^key-d63df5d944c75ee333b8a90eb48a2d1d] In subsection (1), for the words from “will to any extent” to the end (which make it a condition that a scheme implement the policies in the authority's bus strategy) substitute “ will contribute to the implementation of their local transport policies ”.
+(2)[^c-2c9688c149d16200bc92c042aeb6ecef][^c-d63df5d944c75ee333b8a90eb48a2d1d] In subsection (1), for the words from “will to any extent” to the end (which make it a condition that a scheme implement the policies in the authority's bus strategy) substitute “ will contribute to the implementation of their local transport policies ”.
 
-(3)[^key-047eaad8334f7536d19260ee587f9f20][^key-038b07b0306fe7db26185899633d83a5] For subsection (3)(a) (authority must be satisfied that scheme will improve quality of local services) substitute—
+(3)[^c-047eaad8334f7536d19260ee587f9f20][^c-038b07b0306fe7db26185899633d83a5] For subsection (3)(a) (authority must be satisfied that scheme will improve quality of local services) substitute—
 
 > - (a) bring benefits to persons using local services in the whole or any part of their area, or combined area, by improving the quality of those services, or
 
 .
 
-(4)[^key-047eaad8334f7536d19260ee587f9f20][^key-038b07b0306fe7db26185899633d83a5] After subsection (3) insert—
+(4)[^c-047eaad8334f7536d19260ee587f9f20][^c-038b07b0306fe7db26185899633d83a5] After subsection (3) insert—
 
 > (3A) If the authority or authorities consider that it is necessary or expedient for any restrictions to be imposed on the registration of—
 >
@@ -55,7 +55,7 @@ summary: ''
 
 .
 
-(5)[^key-047eaad8334f7536d19260ee587f9f20][^key-038b07b0306fe7db26185899633d83a5] For subsection (6) substitute—
+(5)[^c-047eaad8334f7536d19260ee587f9f20][^c-038b07b0306fe7db26185899633d83a5] For subsection (6) substitute—
 
 > (6) The standard of services which may be specified in a scheme includes—
 >
@@ -66,7 +66,7 @@ summary: ''
 
 .
 
-(6)[^key-047eaad8334f7536d19260ee587f9f20][^key-038b07b0306fe7db26185899633d83a5] After subsection (6) insert—
+(6)[^c-047eaad8334f7536d19260ee587f9f20][^c-038b07b0306fe7db26185899633d83a5] After subsection (6) insert—
 
 > (6A) The standard of services which may be specified in a scheme may also include requirements as to the maximum fares that may be charged for particular journeys, or for journeys of particular descriptions, on services to which the scheme applies.
 >
@@ -76,7 +76,7 @@ summary: ''
 
 .
 
-(7)[^key-047eaad8334f7536d19260ee587f9f20][^key-038b07b0306fe7db26185899633d83a5] After subsection (6B) insert—
+(7)[^c-047eaad8334f7536d19260ee587f9f20][^c-038b07b0306fe7db26185899633d83a5] After subsection (6B) insert—
 
 > (6C) The power to make a quality partnership scheme includes power to provide for different facilities, or different standards of services, to be provided under the scheme as from different dates after the scheme comes into operation.
 
@@ -84,18 +84,18 @@ summary: ''
 
 ## Annotations
 
-[^key-59b66b45b8713251ec68380a58db72ac]: Commencement: S. 13(1) in force at 9.2.2009 for specified purposes for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-59b66b45b8713251ec68380a58db72ac]: Commencement: S. 13(1) in force at 9.2.2009 for specified purposes for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-afe9fad76317516876ac66ee9ab11af0]: Commencement: S. 13(1) in force at 1.4.2009 for specified purposes for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/579/article/2/c)
+[^c-afe9fad76317516876ac66ee9ab11af0]: Commencement: S. 13(1) in force at 1.4.2009 for specified purposes for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/579/article/2/c)
 
-[^key-f3fab22668c8b0747bd1d615415d223e]: Commencement: S. 13(1) in force at 6.4.2009 for E. in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(2)](https://www.legislation.gov.uk/uksi/2009/107/article/4/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2009/107/schedule/5)
+[^c-f3fab22668c8b0747bd1d615415d223e]: Commencement: S. 13(1) in force at 6.4.2009 for E. in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(2)](https://www.legislation.gov.uk/uksi/2009/107/article/4/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2009/107/schedule/5)
 
-[^key-b8f2f8817abaee26646df693698f61e1]: Commencement: S. 13(1) in force at 31.1.2010 for W. in so far as not already in force by [S.I. 2009/3294](https://www.legislation.gov.uk/uksi/2009/3294), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/3294/article/2/a)
+[^c-b8f2f8817abaee26646df693698f61e1]: Commencement: S. 13(1) in force at 31.1.2010 for W. in so far as not already in force by [S.I. 2009/3294](https://www.legislation.gov.uk/uksi/2009/3294), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/3294/article/2/a)
 
-[^key-2c9688c149d16200bc92c042aeb6ecef]: Commencement: S. 13(2) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-2c9688c149d16200bc92c042aeb6ecef]: Commencement: S. 13(2) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-d63df5d944c75ee333b8a90eb48a2d1d]: Commencement: S. 13(2) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/579/article/2/c)
+[^c-d63df5d944c75ee333b8a90eb48a2d1d]: Commencement: S. 13(2) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/579/article/2/c)
 
-[^key-047eaad8334f7536d19260ee587f9f20]: Commencement: S. 13(3)-(7) in force at 6.4.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(2)](https://www.legislation.gov.uk/uksi/2009/107/article/4/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2009/107/schedule/5)
+[^c-047eaad8334f7536d19260ee587f9f20]: Commencement: S. 13(3)-(7) in force at 6.4.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(2)](https://www.legislation.gov.uk/uksi/2009/107/article/4/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2009/107/schedule/5)
 
-[^key-038b07b0306fe7db26185899633d83a5]: Commencement: S. 13(3)-(7) in force at 31.1.2010 for W. by [S.I. 2009/3294](https://www.legislation.gov.uk/uksi/2009/3294), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/3294/article/2/a)
+[^c-038b07b0306fe7db26185899633d83a5]: Commencement: S. 13(3)-(7) in force at 31.1.2010 for W. by [S.I. 2009/3294](https://www.legislation.gov.uk/uksi/2009/3294), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/3294/article/2/a)

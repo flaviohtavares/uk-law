@@ -37,7 +37,7 @@ summary: ''
 
 (4) The preceding provisions of this section are without prejudice to the exercise by the High Court of any power to make orders which is exercisable apart from those provisions.
 
-(5)[^key-7fdfcbc55b995a43a6dafde57be2f908] Subsections (2) and (3) apply in relation to the family court as they apply in relation to the High Court.
+(5)[^c-7fdfcbc55b995a43a6dafde57be2f908] Subsections (2) and (3) apply in relation to the family court as they apply in relation to the High Court.
 
 ## Annotations
 
@@ -47,4 +47,4 @@ summary: ''
 
 [^c12332541]: Textual amendment: By [S.I. 1998/2940](https://www.legislation.gov.uk/uksi/1998/2940), [art. 5(b)(ii)](https://www.legislation.gov.uk/uksi/1998/2940/article/5/b/ii) it is provided that in s. 34 in each subsection (2) and (3) the words “to which this subsection applies” are to be omitted
 
-[^key-7fdfcbc55b995a43a6dafde57be2f908]: Textual amendment: [S. 34(5)](https://www.legislation.gov.uk/ukpga/1981/54/section/34/5) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 56](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/56); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-7fdfcbc55b995a43a6dafde57be2f908]: Textual amendment: [S. 34(5)](https://www.legislation.gov.uk/ukpga/1981/54/section/34/5) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 56](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/56); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

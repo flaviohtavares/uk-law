@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Offences by officers of a body corporate etc[^key-9baeac61aea9bf720306709a3aa82ff9][^key-f2046f916380f6f93993a6545cb272f3]
+## 96. Offences by officers of a body corporate etc[^c-9baeac61aea9bf720306709a3aa82ff9][^c-f2046f916380f6f93993a6545cb272f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ the partner as well as the partnership is guilty of the offence and liable to be
 
 ## Annotations
 
-[^key-9baeac61aea9bf720306709a3aa82ff9]: Commencement: S. 96 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-9baeac61aea9bf720306709a3aa82ff9]: Commencement: S. 96 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-f2046f916380f6f93993a6545cb272f3]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2024/13/section/96) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-f2046f916380f6f93993a6545cb272f3]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2024/13/section/96) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

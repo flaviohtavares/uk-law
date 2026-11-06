@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Information about inrush hazards[^key-a7f71878a4e8be6c30423ff01fd311f2]
+## 34. Information about inrush hazards[^c-a7f71878a4e8be6c30423ff01fd311f2]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7f71878a4e8be6c30423ff01fd311f2]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2016/427/regulation/34) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-a7f71878a4e8be6c30423ff01fd311f2]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2016/427/regulation/34) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Calculation of net profit of self-employed earners[^key-9604a8ca5bceeb0665c798e9f4ec7dac]
+## 22. Calculation of net profit of self-employed earners[^c-9604a8ca5bceeb0665c798e9f4ec7dac]
 
 *Extent: E+W+S*
 
@@ -77,6 +77,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9604a8ca5bceeb0665c798e9f4ec7dac]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1992/1814/regulation/22) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-9604a8ca5bceeb0665c798e9f4ec7dac]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1992/1814/regulation/22) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
 [^f00034]: Footnote: S.I. [1975/529](https://www.legislation.gov.uk/uksi/1975/529).

@@ -62,7 +62,7 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 (1) In these Regulations—
 
 - “**the Act**” means the Energy Act 2013;
-- “annual accounts”—[^key-604568e059bb8b741459afa592c1ddf8]
+- “annual accounts”—[^c-604568e059bb8b741459afa592c1ddf8]
   - (a) in the case of a company within the meaning of section 1(1) of the Companies Act 2006, has the meaning given in section 471 of that Act;
   - (b) in the case of a limited liability partnership incorporated under the Limited Liability Partnerships Act 2000, has the meaning given in section 471 of the Companies Act 2006 as applied with modifications by regulation 29 of the Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008;
   - (c) in the case of a business carried on by any other person, means accounts which relate to that business which are prepared by that person—
@@ -70,31 +70,31 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
     - (ii) in accordance with accounting standards which are, in the opinion of the Secretary of State, satisfactory;
 - “**the Balancing and Settlement Code**”, “**the BSCCo**” and “**BSC volume allocation run**” have the meanings given in the ESO Regulations;
 - “BM Unit Identification Number”, “CMRS”, “MSID” and “SMRS” are to be construed in accordance with the Balancing and Settlement Code (see Sections X-1 and X-2 of that code);
-- “business year”—[^key-e4886620c57562d96b23ce3c01efc478]
+- “business year”—[^c-e4886620c57562d96b23ce3c01efc478]
   - (a) in the case of a company within the meaning of section 1(1) of the Companies Act 2006, means the company’s “financial year” as determined in accordance with section 390 of that Act;
   - (b) in the case of a limited liability partnership incorporated under the Limited Liability Partnerships Act 2000, means the limited liability partnership’s financial year as determined in accordance with section 390 of the Companies Act 2006 as applied with modifications by regulation 7 of the Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008;
   - (c) in the case of a business carried on by any other person, means a period of one year commencing with 1st April;
 - “**CFD period contribution**” has the meaning given in the ESO Regulations;
-- “[^key-e03e0f0bb8549066e5bdad12c2409f0b]**continuing change**” (and “**commence**” in relation to a continuing change) must be construed in accordance with regulation 2A;
-- “**earnings**” in relation to a business, means the earnings of that business before interest, taxes, depreciation and amortisation , excluding items which are extraordinary in the opinion of the Secretary of State[^key-b39370bec7a929f0f6a4e483cc1ccd99] ;
+- “[^c-e03e0f0bb8549066e5bdad12c2409f0b]**continuing change**” (and “**commence**” in relation to a continuing change) must be construed in accordance with regulation 2A;
+- “**earnings**” in relation to a business, means the earnings of that business before interest, taxes, depreciation and amortisation , excluding items which are extraordinary in the opinion of the Secretary of State[^c-b39370bec7a929f0f6a4e483cc1ccd99] ;
 - “**EII application**” means an application under regulation 10;
 - “**EII certificate**” has the meaning given by regulation 8(1);
 - “**EII excluded electricity**” means any amount of electricity determined as such in accordance with regulation 6;
 - “**electricity supplier**” has the meaning given in the ESO Regulations;
 - “**energy from renewable sources**” is to be construed in accordance with Directive [2009/28/EC](https://www.legislation.gov.uk/eudr/2009/28) of the European Parliament and of the Council of 23 April 2009 on the promotion of the use of energy from renewable sources and amending and subsequently repealing Directives [2001/77/EC](https://www.legislation.gov.uk/eudr/2001/77) and [2003/30/EC](https://www.legislation.gov.uk/eudr/2003/30) [^c22447091];
 - “**ESO Regulations**” means the Contracts for Difference (Electricity Supplier Obligations) Regulations 2014 [^c22447101];
-- [^key-bd1242e28f4ab6f8edb457051e3ce7b0]...
-- “financial data” in relation to a person’s business, means complete details of the earnings and staff costs of that business;[^key-47e14fa61421cea7010b4cff76135688]
+- [^c-bd1242e28f4ab6f8edb457051e3ce7b0]...
+- “financial data” in relation to a person’s business, means complete details of the earnings and staff costs of that business;[^c-47e14fa61421cea7010b4cff76135688]
 - “financial quarter” means a period of three consecutive months in a business year;
 - “**financial year**” means a period of 12 months commencing with 1st April and a reference to a financial year followed by the number of a calendar year is to be construed as a reference to the financial year commencing with 1st April of that year;
-- “force majeure” means abnormal and unforeseeable circumstances, including natural events, outside the control of the person applying for an EII certificate, the consequences of which could not have been avoided by the exercise of all due care by that person;[^key-fce6414f2190f341ae232dec98f3ea1c]
+- “force majeure” means abnormal and unforeseeable circumstances, including natural events, outside the control of the person applying for an EII certificate, the consequences of which could not have been avoided by the exercise of all due care by that person;[^c-fce6414f2190f341ae232dec98f3ea1c]
 - “force majeure application” means an EII application which states that the person’s business to which the application relates was affected by force majeure during the relevant period;
-- “[^key-d864bcc0c94f7e06cb2e70e15edf3a65]**insolvent**” in relation to a person means circumstances where—
+- “[^c-d864bcc0c94f7e06cb2e70e15edf3a65]**insolvent**” in relation to a person means circumstances where—
   - (a) the person is unable to pay their debts as those debts fall due, or
   - (b) the value of the person’s assets is less than the amount of the person’s liabilities, taking into account the person’s contingent and prospective liabilities;
-- [^key-c2719c6f35328378dfaff122365ac197]...
-- “NACE Rev 2” is as set out in Annex I to Regulation [(EC) No 1893/2006](https://www.legislation.gov.uk/eur/2006/1893) of the European Parliament and of the Council of 20 December 2006 (relating to the statistical classification of economic activities) [^c22447111] as that Regulation had effect in[^key-63e75c8895cda27ba8ed066c7a02dae6] EU law immediately before IP completion day[^key-9674105f303b31957276e4af51a93e63];
-- “new business” means a person’s business—[^key-e85f10e9251834d47d68281263a670fc]
+- [^c-c2719c6f35328378dfaff122365ac197]...
+- “NACE Rev 2” is as set out in Annex I to Regulation [(EC) No 1893/2006](https://www.legislation.gov.uk/eur/2006/1893) of the European Parliament and of the Council of 20 December 2006 (relating to the statistical classification of economic activities) [^c22447111] as that Regulation had effect in[^c-63e75c8895cda27ba8ed066c7a02dae6] EU law immediately before IP completion day[^c-9674105f303b31957276e4af51a93e63];
+- “new business” means a person’s business—[^c-e85f10e9251834d47d68281263a670fc]
   - (a) in respect of which no annual accounts have been prepared by that person;
   - (b) in respect of which there is financial data for two or more consecutive financial quarters in the 12 month period immediately prior to the making of an EII application in relation to it; and
   - (c) in respect of which that person has been trading for no more than 21 months;
@@ -139,13 +139,13 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
   - (iii) the words “most recently designated under section 7 of the Act” appeared after “The CFD counterparty” in paragraph (3);
   - (iv) the reference in paragraph (4) to “The CFD counterparty” were to “A CFD counterparty”;
   - (v) the reference in paragraph (5) “the CFD counterparty” were to “a CFD counterparty”;
-- (f) the references to “the CFD counterparty” in regulations 12A(7)[^key-e2f1880b3d09342922ae9adfea6ff470] and 13(6) were to “every CFD counterparty”;
+- (f) the references to “the CFD counterparty” in regulations 12A(7)[^c-e2f1880b3d09342922ae9adfea6ff470] and 13(6) were to “every CFD counterparty”;
 - (g) the reference to “the CFD counterparty” in regulation 13(8) were to “the CFD counterparty most recently designated under section 7 of the Act”;
 - (h) the reference to “the CFD counterparty” in regulation 14 were to “a CFD counterparty”.
 
-(5)[^key-e506a3fda48b503ddd2f94873fb98fd6] A reference in these Regulations to a notice issued under regulation 12A includes a reference to a notice issued under regulation 11(3) (before its substitution by the Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020).
+(5)[^c-e506a3fda48b503ddd2f94873fb98fd6] A reference in these Regulations to a notice issued under regulation 12A includes a reference to a notice issued under regulation 11(3) (before its substitution by the Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020).
 
-### 2A. Meaning of continuing change etc.[^key-5d4d222d183c229fd99007f49107a8a9]
+### 2A. Meaning of continuing change etc.[^c-5d4d222d183c229fd99007f49107a8a9]
 
 (1) This regulation applies where a person—
 
@@ -198,7 +198,7 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 
 ## PART 2 — Excluded electricity
 
-### CHAPTER 1 — Green excluded electricity[^key-acc9c49afd1837edb20a11e588f77a0f]
+### CHAPTER 1 — Green excluded electricity[^c-acc9c49afd1837edb20a11e588f77a0f]
 
 **No longer in force.**
 
@@ -222,8 +222,8 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 
 (2) For the purposes of paragraph (1) the relevant proportion in relation to a meter in respect of which an EII certificate is in force is—
 
-- (a) where no notice under regulation 12A[^key-bd68c1bc17f7244924a494464c485e06] in relation to that certificate has effect, the proportion specified by virtue of regulation 11(1) in that certificate; or
-- (b) where a notice under regulation 12A[^key-57883c2a021570c1d209f16a6976e39f] has effect in relation to that certificate, the proportion specified in that notice.
+- (a) where no notice under regulation 12A[^c-bd68c1bc17f7244924a494464c485e06] in relation to that certificate has effect, the proportion specified by virtue of regulation 11(1) in that certificate; or
+- (b) where a notice under regulation 12A[^c-57883c2a021570c1d209f16a6976e39f] has effect in relation to that certificate, the proportion specified in that notice.
 
 (3) Where the CFD counterparty makes a determination under the ESO regulations which requires the determination of the amount of electricity supplied which is EII excluded electricity, it must, where possible, base that determination of EII excluded electricity on information derived from the most recent BSC volume allocation run carried out by the BSCCo in relation to the day on which the electricity was supplied.
 
@@ -244,22 +244,22 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 
 (5) Where the CFD counterparty approves relevant arrangements it must publish, in such manner as it considers appropriate for the purpose of bringing it to the attention of electricity suppliers, a document which describes those arrangements.
 
-#### 8. EII certificates[^key-2be6b847fde8821acd0ea62f66f45953]
+#### 8. EII certificates[^c-2be6b847fde8821acd0ea62f66f45953]
 
 (1) Subject to regulation 10(7), a person who uses electricity for a specified activity is entitled, on application to the Secretary of State under regulation 10, to be issued with a certificate by the Secretary of State (an “EII certificate”) in respect of the electricity meter which measures the supply of that electricity where—
 
 - (a) the specified activity—
   - (i) is carried out in the course of the person’s business, and
-  - (ii) has been carried out in the course of the person’s business for at least two consecutive financial quarters *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-05e004db81d4abd216073fb7b859380f] one financial quarter *(Extent: E+W+S)* in the 12 month period immediately prior to the making of the EII application; [^key-22398c68307180d5b92adeebc4cb6223]...
+  - (ii) has been carried out in the course of the person’s business for at least two consecutive financial quarters *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-05e004db81d4abd216073fb7b859380f] one financial quarter *(Extent: E+W+S)* in the 12 month period immediately prior to the making of the EII application; [^c-22398c68307180d5b92adeebc4cb6223]...
 - (b) either—
   - (i) the test in paragraph (2) is met in relation to that business, or
-  - (ii) paragraph (4) or (7) applies to that business ; and[^key-3dc29085b781584cd919a5b6aee0bd5e]
-- (c)[^key-b9e81e999b0ad5601782e3bcdc9358a2] the EII application contains evidence under regulation 10(2)(h) of the proportion of electricity measured by the meter that was used for a specified activity in the course of the person’s business in a period that is at least 3 months in length.
+  - (ii) paragraph (4) or (7) applies to that business ; and[^c-3dc29085b781584cd919a5b6aee0bd5e]
+- (c)[^c-b9e81e999b0ad5601782e3bcdc9358a2] the EII application contains evidence under regulation 10(2)(h) of the proportion of electricity measured by the meter that was used for a specified activity in the course of the person’s business in a period that is at least 3 months in length.
 
-(2)[^key-f1e16e37c8a078c394ed50f485910437] The test in this paragraph is met in relation to a person’s business if—
+(2)[^c-f1e16e37c8a078c394ed50f485910437] The test in this paragraph is met in relation to a person’s business if—
 
 - (a) the electricity cost impact of the business in the relevant period is equal to, or greater than, 0.2; and
-- (b)[^key-1c6e26c1f9e96ea8a7752006f8b1a3aa] paragraph (9) applies to the person. *(affected by repeal, see note)*[^key-1c6e26c1f9e96ea8a7752006f8b1a3aa]
+- (b)[^c-1c6e26c1f9e96ea8a7752006f8b1a3aa] paragraph (9) applies to the person. *(affected by repeal, see note)*[^c-1c6e26c1f9e96ea8a7752006f8b1a3aa]
 - (b) it is reasonable to assume that, at the date of making the application, the person is not insolvent or likely to be insolvent.
 
 (3) For the purposes of paragraph (2), the electricity cost impact is the amount calculated in accordance with the formula—
@@ -279,7 +279,7 @@ where—
 
 - (a) an EII certificate has previously been issued to that person;
 - (b) that EII certificate is in force in respect of the meter that measures the supply of electricity to that business on the date of that person’s EII application; and
-- (c) when that person applied for that EII certificate, the relevant period was the three most recent business years for which there are annual accounts in respect of that person’s business or would have been but for the application of regulation 9A *(Extent: E+W+S)*[^key-c6b77f1233495324424db5d1aa459fca].
+- (c) when that person applied for that EII certificate, the relevant period was the three most recent business years for which there are annual accounts in respect of that person’s business or would have been but for the application of regulation 9A *(Extent: E+W+S)*[^c-c6b77f1233495324424db5d1aa459fca].
 
 (5) Where a notice has been issued in respect of an EII certificate pursuant to regulation 12(7)(a), and the person who is identified in that notice makes an EII application in respect of the meter identified in that certificate before that certificate ceases to be valid, paragraph (4) is to be treated as applying to that person’s business in respect of that EII application if paragraph (4) applies to that person’s business in respect of another EII certificate.
 
@@ -287,19 +287,19 @@ where—
 
 (7) This paragraph applies to a person’s business where—
 
-- (a) that person makes a force majeure application in relation to that business; [^key-29ff23c52520a90439c739fb5579ee8a]...
-- (b) in the opinion of the Secretary of State, but for force majeure the test in paragraph (2) would have been met ; and[^key-8f8d5d74dc226c369288806314cbb3bd]
-- (c)[^key-6b8ec3db06dab19f75b24cc74f58b217] paragraph (9) applies to that person. *(affected by repeal, see note)*[^key-2b83794cd427836762b436704f77a01e]
+- (a) that person makes a force majeure application in relation to that business; [^c-29ff23c52520a90439c739fb5579ee8a]...
+- (b) in the opinion of the Secretary of State, but for force majeure the test in paragraph (2) would have been met ; and[^c-8f8d5d74dc226c369288806314cbb3bd]
+- (c)[^c-6b8ec3db06dab19f75b24cc74f58b217] paragraph (9) applies to that person. *(affected by repeal, see note)*[^c-2b83794cd427836762b436704f77a01e]
 - (c) sub-paragraph (b) of that test is met in relation to the person’s business.
 
 (8) An EII certificate must set out an address and an email address provided by the Secretary of State for correspondence about that certificate.
 
-(9)[^key-ec71c1c9f0a970fdac1542fb23132e7f][^key-b0b2921e95cfb66053b29c2b46ad3d76] This paragraph applies to a person if— *(affected by repeal, see note)*[^key-ec71c1c9f0a970fdac1542fb23132e7f]
+(9)[^c-ec71c1c9f0a970fdac1542fb23132e7f][^c-b0b2921e95cfb66053b29c2b46ad3d76] This paragraph applies to a person if— *(affected by repeal, see note)*[^c-ec71c1c9f0a970fdac1542fb23132e7f]
 
-- (a) the person is not in difficulty; and *(affected by repeal, see note)*[^key-ec71c1c9f0a970fdac1542fb23132e7f]
-- (b) the person is not subject to an outstanding recovery order made by virtue of Article 108(2) of the Treaty on the Functioning of the European Union (Commission decision declaring aid illegal and incompatible with the common market). *(affected by repeal, see note)*[^key-ec71c1c9f0a970fdac1542fb23132e7f]
+- (a) the person is not in difficulty; and *(affected by repeal, see note)*[^c-ec71c1c9f0a970fdac1542fb23132e7f]
+- (b) the person is not subject to an outstanding recovery order made by virtue of Article 108(2) of the Treaty on the Functioning of the European Union (Commission decision declaring aid illegal and incompatible with the common market). *(affected by repeal, see note)*[^c-ec71c1c9f0a970fdac1542fb23132e7f]
 
-(10)[^key-5aa6ff4bf69226f4885d6795f79a1ce7] For the purposes of these Regulations, a person is “not in difficulty” if it is reasonable to assume that the person would not be regarded as an undertaking in difficulty for the purposes of the European Commission’s Guidelines on State aid for rescuing and restructuring non-financial undertakings in difficulty (2014/C 249/01). *(affected by repeal, see note)*[^key-5aa6ff4bf69226f4885d6795f79a1ce7]
+(10)[^c-5aa6ff4bf69226f4885d6795f79a1ce7] For the purposes of these Regulations, a person is “not in difficulty” if it is reasonable to assume that the person would not be regarded as an undertaking in difficulty for the purposes of the European Commission’s Guidelines on State aid for rescuing and restructuring non-financial undertakings in difficulty (2014/C 249/01). *(affected by repeal, see note)*[^c-5aa6ff4bf69226f4885d6795f79a1ce7]
 
 #### 9. Relevant period for a business
 
@@ -318,7 +318,7 @@ where—
 
 (3) For the purposes of this regulation the relevant date is the date on which a person applies for an EII certificate in respect of their business.
 
-#### 9A. Modification of the application of Regulation 9[^key-6977bc696ff408b01476cccb65a21964]
+#### 9A. Modification of the application of Regulation 9[^c-6977bc696ff408b01476cccb65a21964]
 
 *Extent: E+W+S*
 
@@ -347,9 +347,9 @@ where—
   - (ii) the sum paid to the electricity supplier supplying such electricity for such supply;
 - (f) a statement—
   - (i) confirming that all the electricity supplied to that meter is used in the course of business by the person applying for the EII certificate, or
-  - (ii)[^key-1e00d67e18231362a6b06067dd32e036] identifying any person with whom that electricity is shared;
+  - (ii)[^c-1e00d67e18231362a6b06067dd32e036] identifying any person with whom that electricity is shared;
 - (g) if applicable, a statement identifying any third party, other than an electricity supplier, from whom the person applying for the EII certificate obtains electricity;
-- (h)[^key-76c49269d9a8f7514756bde3fb00a86e] evidence of the proportion of the electricity measured by that meter that was used for a specified activity in the course of the person’s business—
+- (h)[^c-76c49269d9a8f7514756bde3fb00a86e] evidence of the proportion of the electricity measured by that meter that was used for a specified activity in the course of the person’s business—
   - (i) where at the date of the EII application there is a continuing change in relation to that meter, in the period—
     - (aa) beginning on the date (the “commencement date”) on which the last-commencing continuing change commenced; and
     - (bb) ending on the earlier of 12 months after the commencement date and the last date for which (at the date of the application) the person has such evidence:
@@ -359,26 +359,26 @@ where—
     - (aa) if that meter measured the supply of such electricity during the entire previous year, in the previous year; or
     - (bb) if that meter did not measure the supply of such electricity during the entire previous year, in the period beginning on the date (the “start date”) on which the supply of such electricity began and ending on the earlier of 12 months after the start date and the last date for which (at the date of the EII application) the person has such evidence;
 - (ha) where at the date of the EII application there is a continuing change in relation to that meter, a statement setting out the date on which the last-commencing continuing change commenced;
-- (i)[^key-996a13e38d6206f69818dff6691c9dba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-996a13e38d6206f69818dff6691c9dba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (j) information identifying the electricity supplier who, when the EII application is made, supplies electricity which is measured by that meter;
 - (k) information identifying the name of the person who pays the electricity supplier referred to in sub-paragraph (j) where that person is not the person making the EII application;
 - (l) an address and an email address at which the person applying for the EII certificate can be contacted, and where a statement is made in accordance with sub-paragraph (g), an address and an email address at which the third party referred to in that statement can be contacted;
 - (m) a statement setting out the business year used in respect of the person’s business to which the EII application relates;
-- (n) in respect of a force majeure application, evidence of force majeure and of its effect on the amount of electricity used by the person’s business during the relevant period; [^key-df22caaead70cbf2c0f1dea23a3998b3]...
-- (o) except where an EII application relates to a new business, a statement setting out the accounting standards to which the annual accounts have been prepared in respect of the person’s business to which the application relates ; and[^key-10494c21e61fc322b37acad2424da861]
-- (p)[^key-6eabe5c2a5d77f3efc48789904af22e0] a statement that the person is not in difficulty (see regulation 8(10)) *(affected by repeal, see note)*[^key-d093714e3b7e1abacf900e4376c50dd5] insolvent or likely to become insolvent within the period of the EII certificate..
+- (n) in respect of a force majeure application, evidence of force majeure and of its effect on the amount of electricity used by the person’s business during the relevant period; [^c-df22caaead70cbf2c0f1dea23a3998b3]...
+- (o) except where an EII application relates to a new business, a statement setting out the accounting standards to which the annual accounts have been prepared in respect of the person’s business to which the application relates ; and[^c-10494c21e61fc322b37acad2424da861]
+- (p)[^c-6eabe5c2a5d77f3efc48789904af22e0] a statement that the person is not in difficulty (see regulation 8(10)) *(affected by repeal, see note)*[^c-d093714e3b7e1abacf900e4376c50dd5] insolvent or likely to become insolvent within the period of the EII certificate..
 
-(3) Where regulation 8(4) applies to a person’s business, the EII application made by that person in respect of that business does not need to contain the evidence mentioned in paragraph (2)(a) and (b) or the statement mentioned in paragraph (2)(p)[^key-dc6690f51f83224638724f05237b6e29].
+(3) Where regulation 8(4) applies to a person’s business, the EII application made by that person in respect of that business does not need to contain the evidence mentioned in paragraph (2)(a) and (b) or the statement mentioned in paragraph (2)(p)[^c-dc6690f51f83224638724f05237b6e29].
 
 (4) Where a person provided information or evidence required by paragraph (2) to the Secretary of State before 1 March 2017, an EII application made by that person need not contain that information or evidence.
 
-(4A)[^key-ae5aff216041ef9288fe49bc8e827db5] Where the EII application is required under paragraph (2)(p) to contain a statement that the person making the application is not in difficulty, the Secretary of State may request the person to provide such information or evidence as the Secretary of State thinks necessary to satisfy the Secretary of State that the person is not in difficulty.
+(4A)[^c-ae5aff216041ef9288fe49bc8e827db5] Where the EII application is required under paragraph (2)(p) to contain a statement that the person making the application is not in difficulty, the Secretary of State may request the person to provide such information or evidence as the Secretary of State thinks necessary to satisfy the Secretary of State that the person is not in difficulty.
 
-(5)[^key-bb372e7a799c246786fad1bad7943576] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-bb372e7a799c246786fad1bad7943576] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-aa778cd4c2253cb52c68de9bcc051602] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-aa778cd4c2253cb52c68de9bcc051602] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-00bbd5cd6593fcecad2fa53817c58d47] The Secretary of State may decide not to issue an EII certificate in respect of an EII application where, in the opinion of the Secretary of State, the information or evidence contained in that application pursuant to paragraph (2) *(affected by repeal, see note)*[^key-00bbd5cd6593fcecad2fa53817c58d47] or provided pursuant to a request under paragraph (4A)[^key-82259f5f6206c138684107236ad28c8a] *(affected by repeal, see note)*[^key-00bbd5cd6593fcecad2fa53817c58d47] is not sufficient or not satisfactory. *(affected by repeal, see note)*[^key-00bbd5cd6593fcecad2fa53817c58d47]
+(7)[^c-00bbd5cd6593fcecad2fa53817c58d47] The Secretary of State may decide not to issue an EII certificate in respect of an EII application where, in the opinion of the Secretary of State, the information or evidence contained in that application pursuant to paragraph (2) *(affected by repeal, see note)*[^c-00bbd5cd6593fcecad2fa53817c58d47] or provided pursuant to a request under paragraph (4A)[^c-82259f5f6206c138684107236ad28c8a] *(affected by repeal, see note)*[^c-00bbd5cd6593fcecad2fa53817c58d47] is not sufficient or not satisfactory. *(affected by repeal, see note)*[^c-00bbd5cd6593fcecad2fa53817c58d47]
 
 (7) The Secretary of State may decide not to issue an EII certificate in respect of an EII application where, in the opinion of the Secretary of State—
 
@@ -389,16 +389,16 @@ where—
 
 (9) Where an EII application is made by a person who pays a third party other than an electricity supplier for the supply of electricity measured by the meter identified in that application, the Secretary of State may issue EII certificates to both that person and that third party in respect of that application.
 
-(10)[^key-17abce1fa2870803035fa2cd1738b5b6] In this regulation, “**previous year**”, in relation to an EII application, means the calendar year immediately preceding the calendar year in which the EII application is made.
+(10)[^c-17abce1fa2870803035fa2cd1738b5b6] In this regulation, “**previous year**”, in relation to an EII application, means the calendar year immediately preceding the calendar year in which the EII application is made.
 
-#### 11. Proportion to be specified in an EII certificate[^key-ad6aa5f2656a304a8a8bfff3a2724dc2]
+#### 11. Proportion to be specified in an EII certificate[^c-ad6aa5f2656a304a8a8bfff3a2724dc2]
 
 (1) An EII certificate issued in respect of an electricity meter must specify—
 
 - (a) the proportion of electricity measured by the meter that constitutes EII excluded electricity, rounded to the nearest one-hundredth with 0.005 being rounded upwards; and
-- (b) the start and end dates of the certificate[^key-6ecec52d7710643da858ccc74e8ed8a1] period by reference to which the proportion is determined.
+- (b) the start and end dates of the certificate[^c-6ecec52d7710643da858ccc74e8ed8a1] period by reference to which the proportion is determined.
 
-(2) The proportion to be specified in an EII certificate under paragraph (1)(a) is 0.85 multiplied by the proportion of relevant electricity measured by the meter in the certificate period. *(affected by repeal, see note)*[^key-36a87e80b9bd09b7f2772d6f96361ea6]
+(2) The proportion to be specified in an EII certificate under paragraph (1)(a) is 0.85 multiplied by the proportion of relevant electricity measured by the meter in the certificate period. *(affected by repeal, see note)*[^c-36a87e80b9bd09b7f2772d6f96361ea6]
 
 (3)  The certificate period is—
 
@@ -418,19 +418,19 @@ where—
 
 (1) Where any of the following occur in respect of a relevant person’s business, that person must notify the Secretary of State of such occurrence as soon as possible—
 
-- (a) every specified activity[^key-9227cabb2694be3a51ff29935ca85545] which was carried out using electricity measured by the meter identified in an EII certificate has ceased to be carried out;
-- (b) that person becomes aware of an error in a successful EII application made in respect of a meter that measures the supply of electricity to that person’s business and, but for the error, the test in regulation 8(2)(a)[^key-5a3cdaa1c29f84effb0da0853506b869] would not have been met using the information and evidence contained in that application;
+- (a) every specified activity[^c-9227cabb2694be3a51ff29935ca85545] which was carried out using electricity measured by the meter identified in an EII certificate has ceased to be carried out;
+- (b) that person becomes aware of an error in a successful EII application made in respect of a meter that measures the supply of electricity to that person’s business and, but for the error, the test in regulation 8(2)(a)[^c-5a3cdaa1c29f84effb0da0853506b869] would not have been met using the information and evidence contained in that application;
 - (c) that person becomes aware of an error in any successful EII application in respect of a meter that measures the supply of electricity to that person’s business, as a result of which the proportion of electricity measured by the meter in respect of which the certificate was issued which constitutes EII excluded electricity should be, or should have been, lower;
-- (d)[^key-148d2b5347d02f6cbdf633159ee9b307] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-148d2b5347d02f6cbdf633159ee9b307] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) For the purposes of paragraph (1), a “relevant person” refers to any of the following—
 
 - (a) a person who has successfully applied for an EII certificate;
 - (b) a person identified in a notice issued pursuant to paragraph (7), where that notice is in force.
 
-(3)[^key-9dc29315aeaf45b1d209e547f0aadce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9dc29315aeaf45b1d209e547f0aadce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-be1647a7c5954ae5203ca2c5e3147371] Subject to paragraph (4A), where an EII certificate issued in respect of an electricity meter is in force on the first day of a quarter, the person who applied for the certificate or, where a notice under paragraph (7)(a) has been issued in respect of the certificate, the person identified in the notice must send a report (the “quarterly report”) in respect of the certificate to the Secretary of State during the quarter.
+(4)[^c-be1647a7c5954ae5203ca2c5e3147371] Subject to paragraph (4A), where an EII certificate issued in respect of an electricity meter is in force on the first day of a quarter, the person who applied for the certificate or, where a notice under paragraph (7)(a) has been issued in respect of the certificate, the person identified in the notice must send a report (the “quarterly report”) in respect of the certificate to the Secretary of State during the quarter.
 
 (4A) Paragraph (4) does not apply if the EII certificate ceases to be valid before the last day of the quarter.
 
@@ -484,9 +484,9 @@ where—
   - (iv) the BSCCo, and
   - (v) the CFD counterparty.
 
-(9)[^key-8391453552220318682ab0f810585fc0] In this regulation, “quarter” means a period of 3 months beginning on 1st January, 1st April, 1st July or 1st October.
+(9)[^c-8391453552220318682ab0f810585fc0] In this regulation, “quarter” means a period of 3 months beginning on 1st January, 1st April, 1st July or 1st October.
 
-#### 12A. Notices correcting and updating EII certificates[^key-54d885c64e0e82a9c93e3756477f6fdc]
+#### 12A. Notices correcting and updating EII certificates[^c-54d885c64e0e82a9c93e3756477f6fdc]
 
 (1) Subject to paragraph (5), where at any time after issuing an EII certificate the Secretary of State is satisfied that—
 
@@ -540,18 +540,18 @@ is incorrect, the Secretary of State must give a notice in relation to the certi
 - (a) midnight on the day falling 16 months after the first day of the relevant period for the purposes of the EII application in respect of which the EII certificate was issued, if—
   - (i) at the time of that application the person’s business in respect of which the application was made was a new business, and
   - (ii) at the time of that application the person’s business in respect of which the application was made had been trading for not more than four consecutive financial quarters; or
-- (b)[^key-c5fb6a0c9296743fff0eeb7bf9f22fdd] in the case of all other businesses, the end of June in the calendar year immediately following the calendar year in which the EII certificate comes into force.
+- (b)[^c-c5fb6a0c9296743fff0eeb7bf9f22fdd] in the case of all other businesses, the end of June in the calendar year immediately following the calendar year in which the EII certificate comes into force.
 
 (4) An EII certificate may only be revoked where the Secretary of State is satisfied that—
 
 - (a) the person who applied for the certificate or, if applicable, the person identified in a notice issued in respect of the certificate pursuant to regulation 12(7)(a)—
   - (i) is not entitled to the EII certificate pursuant to regulation 8, or
-  - (ii) has failed to comply with the requirements of regulation 12; [^key-d712d65a9b8a746d904e659e8f582fe7]...
-- (aa)[^key-192d347831ef03cadf6ad3a9719ab890] any evidence or information included in a report under regulation 12(4) is not sufficient or not satisfactory; or
+  - (ii) has failed to comply with the requirements of regulation 12; [^c-d712d65a9b8a746d904e659e8f582fe7]...
+- (aa)[^c-192d347831ef03cadf6ad3a9719ab890] any evidence or information included in a report under regulation 12(4) is not sufficient or not satisfactory; or
 - (b) the certificate was issued pursuant to regulation 10(9) to a third party other than an electricity supplier and—
   - (i) the person who applied for the certificate no longer pays that third party for the supply of electricity, or
-  - (ii) either of the circumstances described in sub-paragraph (a) or the circumstances described in sub-paragraph (aa)[^key-30735578fa625175e7b2dd5025597b5e] exist.
-- (c)[^key-70584f8ccae85b5bed05da94abff5d07] there is a risk of incompatibility with international law obligations in respect of subsidy control, if the EII certificate is not revoked.
+  - (ii) either of the circumstances described in sub-paragraph (a) or the circumstances described in sub-paragraph (aa)[^c-30735578fa625175e7b2dd5025597b5e] exist.
+- (c)[^c-70584f8ccae85b5bed05da94abff5d07] there is a risk of incompatibility with international law obligations in respect of subsidy control, if the EII certificate is not revoked.
 
 (5) Where an EII certificate is revoked the Secretary of State must give a notice of such revocation to—
 
@@ -564,9 +564,9 @@ is incorrect, the Secretary of State must give a notice in relation to the certi
 
 (6) Revocation of an EII certificate has effect from the beginning of the 6th day after the notice under paragraph (5) is given.
 
-(7) Where an EII certificate is revoked, or a notice under regulation 12A[^key-97716ba311b31e8be13fb5d68bfa58d5] or regulation 12(7) has been given in respect of an EII certificate, the CFD counterparty must, as soon as reasonably practicable, inform electricity suppliers who supply electricity which is measured by the meter identified in that certificate.
+(7) Where an EII certificate is revoked, or a notice under regulation 12A[^c-97716ba311b31e8be13fb5d68bfa58d5] or regulation 12(7) has been given in respect of an EII certificate, the CFD counterparty must, as soon as reasonably practicable, inform electricity suppliers who supply electricity which is measured by the meter identified in that certificate.
 
-#### 13ZA. Extension of validity of certain EII certificates[^key-dd45c826066decc8158b8d598807381c]
+#### 13ZA. Extension of validity of certain EII certificates[^c-dd45c826066decc8158b8d598807381c]
 
 (1) This regulation applies to an EII certificate that—
 
@@ -585,15 +585,15 @@ is incorrect, the Secretary of State must give a notice in relation to the certi
 
 #### 13ZB. Modification of Regulations if State aid decisions cease to be relevant
 
-(1)[^key-e21688e13a98b2f30224754492a69bc9]  This regulation applies if all of the decisions of the European Commission mentioned in paragraph (2) cease to be relevant to any question of law in the United Kingdom that relates to whether EII certificates may be issued under this Chapter. *(affected by repeal, see note)*[^key-e21688e13a98b2f30224754492a69bc9]
+(1)[^c-e21688e13a98b2f30224754492a69bc9]  This regulation applies if all of the decisions of the European Commission mentioned in paragraph (2) cease to be relevant to any question of law in the United Kingdom that relates to whether EII certificates may be issued under this Chapter. *(affected by repeal, see note)*[^c-e21688e13a98b2f30224754492a69bc9]
 
-(2) The decisions are— *(affected by repeal, see note)*[^key-e21688e13a98b2f30224754492a69bc9]
+(2) The decisions are— *(affected by repeal, see note)*[^c-e21688e13a98b2f30224754492a69bc9]
 
-- (a) SA.43657 (2015/N) of 14th December 2015 (aid for indirect costs of renewable energy support in the UK); *(affected by repeal, see note)*[^key-e21688e13a98b2f30224754492a69bc9]
-- (b) SA.45155 (2017/N) of 12th June 2017 (amendment to the decision providing aid to exempt energy intensive users from the indirect costs of renewable obligation); *(affected by repeal, see note)*[^key-e21688e13a98b2f30224754492a69bc9]
-- (c) SA.52615 (2019/N) of 26th March 2019 (modification of the support scheme providing aid for indirect costs of renewable energy support). *(affected by repeal, see note)*[^key-e21688e13a98b2f30224754492a69bc9]
+- (a) SA.43657 (2015/N) of 14th December 2015 (aid for indirect costs of renewable energy support in the UK); *(affected by repeal, see note)*[^c-e21688e13a98b2f30224754492a69bc9]
+- (b) SA.45155 (2017/N) of 12th June 2017 (amendment to the decision providing aid to exempt energy intensive users from the indirect costs of renewable obligation); *(affected by repeal, see note)*[^c-e21688e13a98b2f30224754492a69bc9]
+- (c) SA.52615 (2019/N) of 26th March 2019 (modification of the support scheme providing aid for indirect costs of renewable energy support). *(affected by repeal, see note)*[^c-e21688e13a98b2f30224754492a69bc9]
 
-(3) These Regulations have effect as if the amendments made by regulations 7(3) to (5) and 8(2)(d) to (f), (3), (4) and (6) of the Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 had not been made. *(affected by repeal, see note)*[^key-e21688e13a98b2f30224754492a69bc9]
+(3) These Regulations have effect as if the amendments made by regulations 7(3) to (5) and 8(2)(d) to (f), (3), (4) and (6) of the Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 had not been made. *(affected by repeal, see note)*[^c-e21688e13a98b2f30224754492a69bc9]
 
 #### 13A. Information sharing
 
@@ -924,7 +924,7 @@ Regulation 2
 | Operation of gravel and sand pits; mining of clays and kaolin | 08.12 |
 | Other mining and quarrying not elsewhere classified | 08.99 |
 | Processing and preserving of poultry meat | 10.12 |
-| Manufacture of grain mill products[^key-0779fdfeacbc877f69a2513309a8446b] | 10.61 |
+| Manufacture of grain mill products[^c-0779fdfeacbc877f69a2513309a8446b] | 10.61 |
 | Manufacture of prepared feeds for farm animals | 10.91 |
 | Manufacture of malt | 11.06 |
 | Preparation and spinning of textile fibres | 13.10 |
@@ -1070,150 +1070,150 @@ A full impact assessment of the effect the CFD regime will have on the costs of 
 
 [^c22447081]: Marginal citation: [2013 c.32](https://www.legislation.gov.uk/ukpga/2013/32).
 
-[^key-604568e059bb8b741459afa592c1ddf8]: Textual amendment: Words in reg. 2(1) inserted (31.10.2017) by [The Electricity Supplier Obligations (Amendment and Excluded Electricity) (Amendment) Regulations 2017 (S.I. 2017/1051)](https://www.legislation.gov.uk/uksi/2017/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/2/2/a)
+[^c-604568e059bb8b741459afa592c1ddf8]: Textual amendment: Words in reg. 2(1) inserted (31.10.2017) by [The Electricity Supplier Obligations (Amendment and Excluded Electricity) (Amendment) Regulations 2017 (S.I. 2017/1051)](https://www.legislation.gov.uk/uksi/2017/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/2/2/a)
 
-[^key-e4886620c57562d96b23ce3c01efc478]: Textual amendment: Words in reg. 2(1) inserted (31.10.2017) by [The Electricity Supplier Obligations (Amendment and Excluded Electricity) (Amendment) Regulations 2017 (S.I. 2017/1051)](https://www.legislation.gov.uk/uksi/2017/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/2/2/b)
+[^c-e4886620c57562d96b23ce3c01efc478]: Textual amendment: Words in reg. 2(1) inserted (31.10.2017) by [The Electricity Supplier Obligations (Amendment and Excluded Electricity) (Amendment) Regulations 2017 (S.I. 2017/1051)](https://www.legislation.gov.uk/uksi/2017/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/2/2/b)
 
-[^key-e03e0f0bb8549066e5bdad12c2409f0b]: Textual amendment: Words in reg. 2(1) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/130/regulation/4/2)
+[^c-e03e0f0bb8549066e5bdad12c2409f0b]: Textual amendment: Words in reg. 2(1) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/130/regulation/4/2)
 
-[^key-b39370bec7a929f0f6a4e483cc1ccd99]: Textual amendment: Words in reg. 2(1) added (31.10.2017) by [The Electricity Supplier Obligations (Amendment and Excluded Electricity) (Amendment) Regulations 2017 (S.I. 2017/1051)](https://www.legislation.gov.uk/uksi/2017/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/2/2/c)
+[^c-b39370bec7a929f0f6a4e483cc1ccd99]: Textual amendment: Words in reg. 2(1) added (31.10.2017) by [The Electricity Supplier Obligations (Amendment and Excluded Electricity) (Amendment) Regulations 2017 (S.I. 2017/1051)](https://www.legislation.gov.uk/uksi/2017/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/2/2/c)
 
 [^c22447091]: Marginal citation: L140 5.6.2009, p16-62.
 
 [^c22447101]: Marginal citation: [S.I. 2014/2014](https://www.legislation.gov.uk/uksi/2014/2014).
 
-[^key-bd1242e28f4ab6f8edb457051e3ce7b0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/721/regulation/2/1) omitted (1.4.2023) by virtue of [The Electricity Supplier Obligations (Green Excluded Electricity) (Amendment) Regulations 2023 (S.I. 2023/389)](https://www.legislation.gov.uk/uksi/2023/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/389/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2023/389/regulation/3/2/a)
+[^c-bd1242e28f4ab6f8edb457051e3ce7b0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/721/regulation/2/1) omitted (1.4.2023) by virtue of [The Electricity Supplier Obligations (Green Excluded Electricity) (Amendment) Regulations 2023 (S.I. 2023/389)](https://www.legislation.gov.uk/uksi/2023/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/389/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2023/389/regulation/3/2/a)
 
-[^key-47e14fa61421cea7010b4cff76135688]: Textual amendment: Words in reg. 2(1) inserted (31.10.2017) by [The Electricity Supplier Obligations (Amendment and Excluded Electricity) (Amendment) Regulations 2017 (S.I. 2017/1051)](https://www.legislation.gov.uk/uksi/2017/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/2/2/d)
+[^c-47e14fa61421cea7010b4cff76135688]: Textual amendment: Words in reg. 2(1) inserted (31.10.2017) by [The Electricity Supplier Obligations (Amendment and Excluded Electricity) (Amendment) Regulations 2017 (S.I. 2017/1051)](https://www.legislation.gov.uk/uksi/2017/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/2/2/d)
 
-[^key-fce6414f2190f341ae232dec98f3ea1c]: Textual amendment: Words in reg. 2(1) inserted (31.10.2017) by [The Electricity Supplier Obligations (Amendment and Excluded Electricity) (Amendment) Regulations 2017 (S.I. 2017/1051)](https://www.legislation.gov.uk/uksi/2017/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/1/2), [2(2)(e)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/2/2/e)
+[^c-fce6414f2190f341ae232dec98f3ea1c]: Textual amendment: Words in reg. 2(1) inserted (31.10.2017) by [The Electricity Supplier Obligations (Amendment and Excluded Electricity) (Amendment) Regulations 2017 (S.I. 2017/1051)](https://www.legislation.gov.uk/uksi/2017/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/1/2), [2(2)(e)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/2/2/e)
 
-[^key-d864bcc0c94f7e06cb2e70e15edf3a65]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/721/regulation/2/1) inserted (E.W.S.) (1.4.2024) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2024 (S.I. 2024/419)](https://www.legislation.gov.uk/uksi/2024/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/3/2)
+[^c-d864bcc0c94f7e06cb2e70e15edf3a65]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/721/regulation/2/1) inserted (E.W.S.) (1.4.2024) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2024 (S.I. 2024/419)](https://www.legislation.gov.uk/uksi/2024/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/3/2)
 
-[^key-c2719c6f35328378dfaff122365ac197]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/721/regulation/2/1) omitted (1.4.2023) by virtue of [The Electricity Supplier Obligations (Green Excluded Electricity) (Amendment) Regulations 2023 (S.I. 2023/389)](https://www.legislation.gov.uk/uksi/2023/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/389/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2023/389/regulation/3/2/b)
+[^c-c2719c6f35328378dfaff122365ac197]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/721/regulation/2/1) omitted (1.4.2023) by virtue of [The Electricity Supplier Obligations (Green Excluded Electricity) (Amendment) Regulations 2023 (S.I. 2023/389)](https://www.legislation.gov.uk/uksi/2023/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/389/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2023/389/regulation/3/2/b)
 
 [^c22447111]: Marginal citation: L393 30.12.2006, p.1.
 
-[^key-63e75c8895cda27ba8ed066c7a02dae6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/721/regulation/2/1) inserted (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [regs. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/489/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-63e75c8895cda27ba8ed066c7a02dae6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/721/regulation/2/1) inserted (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [regs. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/489/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9674105f303b31957276e4af51a93e63]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/721/regulation/2/1) substituted (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [4](https://www.legislation.gov.uk/uksi/2021/1300/regulation/4)
+[^c-9674105f303b31957276e4af51a93e63]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/721/regulation/2/1) substituted (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [4](https://www.legislation.gov.uk/uksi/2021/1300/regulation/4)
 
-[^key-e85f10e9251834d47d68281263a670fc]: Textual amendment: Words in reg. 2(1) inserted (31.10.2017) by [The Electricity Supplier Obligations (Amendment and Excluded Electricity) (Amendment) Regulations 2017 (S.I. 2017/1051)](https://www.legislation.gov.uk/uksi/2017/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/1/2), [2(2)(f)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/2/2/f)
+[^c-e85f10e9251834d47d68281263a670fc]: Textual amendment: Words in reg. 2(1) inserted (31.10.2017) by [The Electricity Supplier Obligations (Amendment and Excluded Electricity) (Amendment) Regulations 2017 (S.I. 2017/1051)](https://www.legislation.gov.uk/uksi/2017/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/1/2), [2(2)(f)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/2/2/f)
 
 [^c22447121]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
 [^c22447131]: Marginal citation: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29).
 
-[^key-e2f1880b3d09342922ae9adfea6ff470]: Textual amendment: Word in reg. 2(4)(f) substituted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [4(3)](https://www.legislation.gov.uk/uksi/2020/130/regulation/4/3)
+[^c-e2f1880b3d09342922ae9adfea6ff470]: Textual amendment: Word in reg. 2(4)(f) substituted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [4(3)](https://www.legislation.gov.uk/uksi/2020/130/regulation/4/3)
 
-[^key-e506a3fda48b503ddd2f94873fb98fd6]: Textual amendment: Reg. 2(5) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [4(4)](https://www.legislation.gov.uk/uksi/2020/130/regulation/4/4)
+[^c-e506a3fda48b503ddd2f94873fb98fd6]: Textual amendment: Reg. 2(5) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [4(4)](https://www.legislation.gov.uk/uksi/2020/130/regulation/4/4)
 
-[^key-5d4d222d183c229fd99007f49107a8a9]: Textual amendment: Reg. 2A inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [5](https://www.legislation.gov.uk/uksi/2020/130/regulation/5)
+[^c-5d4d222d183c229fd99007f49107a8a9]: Textual amendment: Reg. 2A inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [5](https://www.legislation.gov.uk/uksi/2020/130/regulation/5)
 
-[^key-acc9c49afd1837edb20a11e588f77a0f]: Textual amendment: [Pt. 2 Ch. 1](https://www.legislation.gov.uk/uksi/2015/721/part/2/chapter/1) omitted (1.4.2023) by virtue of [The Electricity Supplier Obligations (Green Excluded Electricity) (Amendment) Regulations 2023 (S.I. 2023/389)](https://www.legislation.gov.uk/uksi/2023/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/389/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2023/389/regulation/3/3)
+[^c-acc9c49afd1837edb20a11e588f77a0f]: Textual amendment: [Pt. 2 Ch. 1](https://www.legislation.gov.uk/uksi/2015/721/part/2/chapter/1) omitted (1.4.2023) by virtue of [The Electricity Supplier Obligations (Green Excluded Electricity) (Amendment) Regulations 2023 (S.I. 2023/389)](https://www.legislation.gov.uk/uksi/2023/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/389/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2023/389/regulation/3/3)
 
-[^key-bd68c1bc17f7244924a494464c485e06]: Textual amendment: Word in reg. 6(2)(a) substituted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2020/130/regulation/6/2/a)
+[^c-bd68c1bc17f7244924a494464c485e06]: Textual amendment: Word in reg. 6(2)(a) substituted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2020/130/regulation/6/2/a)
 
-[^key-57883c2a021570c1d209f16a6976e39f]: Textual amendment: Word in reg. 6(2)(b) substituted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2020/130/regulation/6/2/b)
+[^c-57883c2a021570c1d209f16a6976e39f]: Textual amendment: Word in reg. 6(2)(b) substituted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2020/130/regulation/6/2/b)
 
-[^key-2be6b847fde8821acd0ea62f66f45953]: Textual amendment: Regs. 8-13A substituted for regs. 8-13 (31.10.2017) by [The Electricity Supplier Obligations (Amendment and Excluded Electricity) (Amendment) Regulations 2017 (S.I. 2017/1051)](https://www.legislation.gov.uk/uksi/2017/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/2/3)
+[^c-2be6b847fde8821acd0ea62f66f45953]: Textual amendment: Regs. 8-13A substituted for regs. 8-13 (31.10.2017) by [The Electricity Supplier Obligations (Amendment and Excluded Electricity) (Amendment) Regulations 2017 (S.I. 2017/1051)](https://www.legislation.gov.uk/uksi/2017/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/2/3)
 
-[^key-05e004db81d4abd216073fb7b859380f]: Textual amendment: Words in reg. 8(1)(a)(ii) substituted (E.W.S.) (24.4.2023) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2023 (S.I. 2023/415)](https://www.legislation.gov.uk/uksi/2023/415), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/415/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2023/415/regulation/3/2)
+[^c-05e004db81d4abd216073fb7b859380f]: Textual amendment: Words in reg. 8(1)(a)(ii) substituted (E.W.S.) (24.4.2023) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2023 (S.I. 2023/415)](https://www.legislation.gov.uk/uksi/2023/415), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/415/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2023/415/regulation/3/2)
 
-[^key-22398c68307180d5b92adeebc4cb6223]: Textual amendment: Word in reg. 8(1)(a)(ii) omitted (2.3.2020) by virtue of [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2020/130/regulation/7/2/a)
+[^c-22398c68307180d5b92adeebc4cb6223]: Textual amendment: Word in reg. 8(1)(a)(ii) omitted (2.3.2020) by virtue of [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2020/130/regulation/7/2/a)
 
-[^key-3dc29085b781584cd919a5b6aee0bd5e]: Textual amendment: Word in reg. 8(1)(b)(ii) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/130/regulation/7/2/b)
+[^c-3dc29085b781584cd919a5b6aee0bd5e]: Textual amendment: Word in reg. 8(1)(b)(ii) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/130/regulation/7/2/b)
 
-[^key-b9e81e999b0ad5601782e3bcdc9358a2]: Textual amendment: Reg. 8(1)(c) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [7(2)(c)](https://www.legislation.gov.uk/uksi/2020/130/regulation/7/2/c)
+[^c-b9e81e999b0ad5601782e3bcdc9358a2]: Textual amendment: Reg. 8(1)(c) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [7(2)(c)](https://www.legislation.gov.uk/uksi/2020/130/regulation/7/2/c)
 
-[^key-f1e16e37c8a078c394ed50f485910437]: Textual amendment: Reg. 8(2) substituted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [7(3)](https://www.legislation.gov.uk/uksi/2020/130/regulation/7/3)
+[^c-f1e16e37c8a078c394ed50f485910437]: Textual amendment: Reg. 8(2) substituted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [7(3)](https://www.legislation.gov.uk/uksi/2020/130/regulation/7/3)
 
-[^key-1c6e26c1f9e96ea8a7752006f8b1a3aa]: Textual amendment: Reg. 8(2)(b) substituted (E.W.S.) (1.4.2024) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2024 (S.I. 2024/419)](https://www.legislation.gov.uk/uksi/2024/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/4/2)
+[^c-1c6e26c1f9e96ea8a7752006f8b1a3aa]: Textual amendment: Reg. 8(2)(b) substituted (E.W.S.) (1.4.2024) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2024 (S.I. 2024/419)](https://www.legislation.gov.uk/uksi/2024/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/4/2)
 
-[^key-c6b77f1233495324424db5d1aa459fca]: Textual amendment: Words in reg. 8(4)(c) inserted (E.W.S.) (24.4.2023) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2023 (S.I. 2023/415)](https://www.legislation.gov.uk/uksi/2023/415), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/415/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2023/415/regulation/3/3)
+[^c-c6b77f1233495324424db5d1aa459fca]: Textual amendment: Words in reg. 8(4)(c) inserted (E.W.S.) (24.4.2023) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2023 (S.I. 2023/415)](https://www.legislation.gov.uk/uksi/2023/415), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/415/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2023/415/regulation/3/3)
 
-[^key-29ff23c52520a90439c739fb5579ee8a]: Textual amendment: Word in reg. 8(7)(a) omitted (2.3.2020) by virtue of [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [7(4)(a)](https://www.legislation.gov.uk/uksi/2020/130/regulation/7/4/a)
+[^c-29ff23c52520a90439c739fb5579ee8a]: Textual amendment: Word in reg. 8(7)(a) omitted (2.3.2020) by virtue of [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [7(4)(a)](https://www.legislation.gov.uk/uksi/2020/130/regulation/7/4/a)
 
-[^key-8f8d5d74dc226c369288806314cbb3bd]: Textual amendment: Word in reg. 8(7)(b) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2020/130/regulation/7/4/b)
+[^c-8f8d5d74dc226c369288806314cbb3bd]: Textual amendment: Word in reg. 8(7)(b) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2020/130/regulation/7/4/b)
 
-[^key-6b8ec3db06dab19f75b24cc74f58b217]: Textual amendment: Reg. 8(7)(c) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [7(4)(c)](https://www.legislation.gov.uk/uksi/2020/130/regulation/7/4/c)
+[^c-6b8ec3db06dab19f75b24cc74f58b217]: Textual amendment: Reg. 8(7)(c) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [7(4)(c)](https://www.legislation.gov.uk/uksi/2020/130/regulation/7/4/c)
 
-[^key-2b83794cd427836762b436704f77a01e]: Textual amendment: Reg. 8(7)(c) substituted (E.W.S.) (1.4.2024) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2024 (S.I. 2024/419)](https://www.legislation.gov.uk/uksi/2024/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2024/419/regulation/4/3)
+[^c-2b83794cd427836762b436704f77a01e]: Textual amendment: Reg. 8(7)(c) substituted (E.W.S.) (1.4.2024) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2024 (S.I. 2024/419)](https://www.legislation.gov.uk/uksi/2024/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2024/419/regulation/4/3)
 
-[^key-ec71c1c9f0a970fdac1542fb23132e7f]: Textual amendment: Reg. 8(9) omitted (E.W.S.) (1.4.2024) by virtue of [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2024 (S.I. 2024/419)](https://www.legislation.gov.uk/uksi/2024/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2024/419/regulation/4/4)
+[^c-ec71c1c9f0a970fdac1542fb23132e7f]: Textual amendment: Reg. 8(9) omitted (E.W.S.) (1.4.2024) by virtue of [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2024 (S.I. 2024/419)](https://www.legislation.gov.uk/uksi/2024/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2024/419/regulation/4/4)
 
-[^key-b0b2921e95cfb66053b29c2b46ad3d76]: Textual amendment: Reg. 8(9)(10) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [7(5)](https://www.legislation.gov.uk/uksi/2020/130/regulation/7/5)
+[^c-b0b2921e95cfb66053b29c2b46ad3d76]: Textual amendment: Reg. 8(9)(10) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [7(5)](https://www.legislation.gov.uk/uksi/2020/130/regulation/7/5)
 
-[^key-5aa6ff4bf69226f4885d6795f79a1ce7]: Textual amendment: Reg. 8(10) omitted (E.W.S.) (1.4.2024) by virtue of [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2024 (S.I. 2024/419)](https://www.legislation.gov.uk/uksi/2024/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2024/419/regulation/4/4)
+[^c-5aa6ff4bf69226f4885d6795f79a1ce7]: Textual amendment: Reg. 8(10) omitted (E.W.S.) (1.4.2024) by virtue of [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2024 (S.I. 2024/419)](https://www.legislation.gov.uk/uksi/2024/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2024/419/regulation/4/4)
 
-[^key-6977bc696ff408b01476cccb65a21964]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2015/721/regulation/9A) inserted (E.W.S.) (24.4.2023) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2023 (S.I. 2023/415)](https://www.legislation.gov.uk/uksi/2023/415), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/415/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/415/regulation/4)
+[^c-6977bc696ff408b01476cccb65a21964]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2015/721/regulation/9A) inserted (E.W.S.) (24.4.2023) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2023 (S.I. 2023/415)](https://www.legislation.gov.uk/uksi/2023/415), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/415/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/415/regulation/4)
 
-[^key-1e00d67e18231362a6b06067dd32e036]: Textual amendment: Reg. 10(2)(f)(ii) substituted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2020/130/regulation/8/2/a)
+[^c-1e00d67e18231362a6b06067dd32e036]: Textual amendment: Reg. 10(2)(f)(ii) substituted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2020/130/regulation/8/2/a)
 
-[^key-76c49269d9a8f7514756bde3fb00a86e]: Textual amendment: Reg. 10(2)(h)(ha) substituted for reg. 10(2)(h) (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2020/130/regulation/8/2/b)
+[^c-76c49269d9a8f7514756bde3fb00a86e]: Textual amendment: Reg. 10(2)(h)(ha) substituted for reg. 10(2)(h) (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2020/130/regulation/8/2/b)
 
-[^key-996a13e38d6206f69818dff6691c9dba]: Textual amendment: Reg. 10(2)(i) omitted (2.3.2020) by virtue of [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [8(2)(c)](https://www.legislation.gov.uk/uksi/2020/130/regulation/8/2/c)
+[^c-996a13e38d6206f69818dff6691c9dba]: Textual amendment: Reg. 10(2)(i) omitted (2.3.2020) by virtue of [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [8(2)(c)](https://www.legislation.gov.uk/uksi/2020/130/regulation/8/2/c)
 
-[^key-df22caaead70cbf2c0f1dea23a3998b3]: Textual amendment: Word in reg. 10(2)(n) omitted (2.3.2020) by virtue of [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [8(2)(d)](https://www.legislation.gov.uk/uksi/2020/130/regulation/8/2/d)
+[^c-df22caaead70cbf2c0f1dea23a3998b3]: Textual amendment: Word in reg. 10(2)(n) omitted (2.3.2020) by virtue of [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [8(2)(d)](https://www.legislation.gov.uk/uksi/2020/130/regulation/8/2/d)
 
-[^key-10494c21e61fc322b37acad2424da861]: Textual amendment: Word in reg. 10(2)(o) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [8(2)(e)](https://www.legislation.gov.uk/uksi/2020/130/regulation/8/2/e)
+[^c-10494c21e61fc322b37acad2424da861]: Textual amendment: Word in reg. 10(2)(o) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [8(2)(e)](https://www.legislation.gov.uk/uksi/2020/130/regulation/8/2/e)
 
-[^key-6eabe5c2a5d77f3efc48789904af22e0]: Textual amendment: Reg. 10(2)(p) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [8(2)(f)](https://www.legislation.gov.uk/uksi/2020/130/regulation/8/2/f)
+[^c-6eabe5c2a5d77f3efc48789904af22e0]: Textual amendment: Reg. 10(2)(p) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [8(2)(f)](https://www.legislation.gov.uk/uksi/2020/130/regulation/8/2/f)
 
-[^key-d093714e3b7e1abacf900e4376c50dd5]: Textual amendment: Words in reg. 10(2)(p) substituted (E.W.S.) (1.4.2024) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2024 (S.I. 2024/419)](https://www.legislation.gov.uk/uksi/2024/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/5/2)
+[^c-d093714e3b7e1abacf900e4376c50dd5]: Textual amendment: Words in reg. 10(2)(p) substituted (E.W.S.) (1.4.2024) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2024 (S.I. 2024/419)](https://www.legislation.gov.uk/uksi/2024/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/5/2)
 
-[^key-dc6690f51f83224638724f05237b6e29]: Textual amendment: Words in reg. 10(3) substituted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [8(3)](https://www.legislation.gov.uk/uksi/2020/130/regulation/8/3)
+[^c-dc6690f51f83224638724f05237b6e29]: Textual amendment: Words in reg. 10(3) substituted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [8(3)](https://www.legislation.gov.uk/uksi/2020/130/regulation/8/3)
 
-[^key-ae5aff216041ef9288fe49bc8e827db5]: Textual amendment: Reg. 10(4A) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [8(4)](https://www.legislation.gov.uk/uksi/2020/130/regulation/8/4)
+[^c-ae5aff216041ef9288fe49bc8e827db5]: Textual amendment: Reg. 10(4A) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [8(4)](https://www.legislation.gov.uk/uksi/2020/130/regulation/8/4)
 
-[^key-bb372e7a799c246786fad1bad7943576]: Textual amendment: Reg. 10(5) omitted (2.3.2020) by virtue of [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [8(5)](https://www.legislation.gov.uk/uksi/2020/130/regulation/8/5)
+[^c-bb372e7a799c246786fad1bad7943576]: Textual amendment: Reg. 10(5) omitted (2.3.2020) by virtue of [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [8(5)](https://www.legislation.gov.uk/uksi/2020/130/regulation/8/5)
 
-[^key-aa778cd4c2253cb52c68de9bcc051602]: Textual amendment: Reg. 10(6) omitted (2.3.2020) by virtue of [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [8(5)](https://www.legislation.gov.uk/uksi/2020/130/regulation/8/5)
+[^c-aa778cd4c2253cb52c68de9bcc051602]: Textual amendment: Reg. 10(6) omitted (2.3.2020) by virtue of [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [8(5)](https://www.legislation.gov.uk/uksi/2020/130/regulation/8/5)
 
-[^key-00bbd5cd6593fcecad2fa53817c58d47]: Textual amendment: Reg. 10(7) substituted (E.W.S.) (1.4.2024) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2024 (S.I. 2024/419)](https://www.legislation.gov.uk/uksi/2024/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2024/419/regulation/5/3)
+[^c-00bbd5cd6593fcecad2fa53817c58d47]: Textual amendment: Reg. 10(7) substituted (E.W.S.) (1.4.2024) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2024 (S.I. 2024/419)](https://www.legislation.gov.uk/uksi/2024/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2024/419/regulation/5/3)
 
-[^key-82259f5f6206c138684107236ad28c8a]: Textual amendment: Words in reg. 10(7) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [8(6)](https://www.legislation.gov.uk/uksi/2020/130/regulation/8/6)
+[^c-82259f5f6206c138684107236ad28c8a]: Textual amendment: Words in reg. 10(7) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [8(6)](https://www.legislation.gov.uk/uksi/2020/130/regulation/8/6)
 
-[^key-17abce1fa2870803035fa2cd1738b5b6]: Textual amendment: Reg. 10(10) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [8(7)](https://www.legislation.gov.uk/uksi/2020/130/regulation/8/7)
+[^c-17abce1fa2870803035fa2cd1738b5b6]: Textual amendment: Reg. 10(10) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [8(7)](https://www.legislation.gov.uk/uksi/2020/130/regulation/8/7)
 
-[^key-ad6aa5f2656a304a8a8bfff3a2724dc2]: Textual amendment: Reg. 11 substituted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [9](https://www.legislation.gov.uk/uksi/2020/130/regulation/9)
+[^c-ad6aa5f2656a304a8a8bfff3a2724dc2]: Textual amendment: Reg. 11 substituted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [9](https://www.legislation.gov.uk/uksi/2020/130/regulation/9)
 
-[^key-6ecec52d7710643da858ccc74e8ed8a1]: Textual amendment: Word in [reg. 11(1)(b)](https://www.legislation.gov.uk/uksi/2015/721/regulation/11/1/b) inserted (E.W.S.) (1.4.2024) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2024 (S.I. 2024/419)](https://www.legislation.gov.uk/uksi/2024/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/6/2)
+[^c-6ecec52d7710643da858ccc74e8ed8a1]: Textual amendment: Word in [reg. 11(1)(b)](https://www.legislation.gov.uk/uksi/2015/721/regulation/11/1/b) inserted (E.W.S.) (1.4.2024) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2024 (S.I. 2024/419)](https://www.legislation.gov.uk/uksi/2024/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/6/2)
 
-[^key-36a87e80b9bd09b7f2772d6f96361ea6]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2015/721/regulation/11/2) omitted (E.W.S.) (1.4.2024) by virtue of [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2024 (S.I. 2024/419)](https://www.legislation.gov.uk/uksi/2024/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2024/419/regulation/6/3)
+[^c-36a87e80b9bd09b7f2772d6f96361ea6]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2015/721/regulation/11/2) omitted (E.W.S.) (1.4.2024) by virtue of [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2024 (S.I. 2024/419)](https://www.legislation.gov.uk/uksi/2024/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2024/419/regulation/6/3)
 
-[^key-9227cabb2694be3a51ff29935ca85545]: Textual amendment: Words in reg. 12(1)(a) substituted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2020/130/regulation/10/2/a)
+[^c-9227cabb2694be3a51ff29935ca85545]: Textual amendment: Words in reg. 12(1)(a) substituted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2020/130/regulation/10/2/a)
 
-[^key-5a3cdaa1c29f84effb0da0853506b869]: Textual amendment: Word in reg. 12(1)(b) substituted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2020/130/regulation/10/2/b)
+[^c-5a3cdaa1c29f84effb0da0853506b869]: Textual amendment: Word in reg. 12(1)(b) substituted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2020/130/regulation/10/2/b)
 
-[^key-148d2b5347d02f6cbdf633159ee9b307]: Textual amendment: Reg. 12(1)(d) omitted (2.3.2020) by virtue of [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [10(2)(c)](https://www.legislation.gov.uk/uksi/2020/130/regulation/10/2/c)
+[^c-148d2b5347d02f6cbdf633159ee9b307]: Textual amendment: Reg. 12(1)(d) omitted (2.3.2020) by virtue of [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [10(2)(c)](https://www.legislation.gov.uk/uksi/2020/130/regulation/10/2/c)
 
-[^key-9dc29315aeaf45b1d209e547f0aadce3]: Textual amendment: Reg. 12(3) omitted (2.3.2020) by virtue of [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [10(3)](https://www.legislation.gov.uk/uksi/2020/130/regulation/10/3)
+[^c-9dc29315aeaf45b1d209e547f0aadce3]: Textual amendment: Reg. 12(3) omitted (2.3.2020) by virtue of [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [10(3)](https://www.legislation.gov.uk/uksi/2020/130/regulation/10/3)
 
-[^key-be1647a7c5954ae5203ca2c5e3147371]: Textual amendment: Reg. 12(4)-(4F) substituted for reg. 12(4) (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [10(4)](https://www.legislation.gov.uk/uksi/2020/130/regulation/10/4)
+[^c-be1647a7c5954ae5203ca2c5e3147371]: Textual amendment: Reg. 12(4)-(4F) substituted for reg. 12(4) (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [10(4)](https://www.legislation.gov.uk/uksi/2020/130/regulation/10/4)
 
-[^key-8391453552220318682ab0f810585fc0]: Textual amendment: Reg. 12(9) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [10(5)](https://www.legislation.gov.uk/uksi/2020/130/regulation/10/5)
+[^c-8391453552220318682ab0f810585fc0]: Textual amendment: Reg. 12(9) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [10(5)](https://www.legislation.gov.uk/uksi/2020/130/regulation/10/5)
 
-[^key-54d885c64e0e82a9c93e3756477f6fdc]: Textual amendment: Reg. 12A inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [11](https://www.legislation.gov.uk/uksi/2020/130/regulation/11)
+[^c-54d885c64e0e82a9c93e3756477f6fdc]: Textual amendment: Reg. 12A inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [11](https://www.legislation.gov.uk/uksi/2020/130/regulation/11)
 
-[^key-c5fb6a0c9296743fff0eeb7bf9f22fdd]: Textual amendment: Reg. 13(3)(b) substituted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [12(2)](https://www.legislation.gov.uk/uksi/2020/130/regulation/12/2)
+[^c-c5fb6a0c9296743fff0eeb7bf9f22fdd]: Textual amendment: Reg. 13(3)(b) substituted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [12(2)](https://www.legislation.gov.uk/uksi/2020/130/regulation/12/2)
 
-[^key-d712d65a9b8a746d904e659e8f582fe7]: Textual amendment: Word in reg. 13(4)(a)(ii) omitted (2.3.2020) by virtue of [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [12(3)(a)](https://www.legislation.gov.uk/uksi/2020/130/regulation/12/3/a)
+[^c-d712d65a9b8a746d904e659e8f582fe7]: Textual amendment: Word in reg. 13(4)(a)(ii) omitted (2.3.2020) by virtue of [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [12(3)(a)](https://www.legislation.gov.uk/uksi/2020/130/regulation/12/3/a)
 
-[^key-192d347831ef03cadf6ad3a9719ab890]: Textual amendment: Reg. 13(4)(aa) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [12(3)(b)](https://www.legislation.gov.uk/uksi/2020/130/regulation/12/3/b)
+[^c-192d347831ef03cadf6ad3a9719ab890]: Textual amendment: Reg. 13(4)(aa) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [12(3)(b)](https://www.legislation.gov.uk/uksi/2020/130/regulation/12/3/b)
 
-[^key-30735578fa625175e7b2dd5025597b5e]: Textual amendment: Words in reg. 13(4)(b)(ii) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [12(3)(c)](https://www.legislation.gov.uk/uksi/2020/130/regulation/12/3/c)
+[^c-30735578fa625175e7b2dd5025597b5e]: Textual amendment: Words in reg. 13(4)(b)(ii) inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [12(3)(c)](https://www.legislation.gov.uk/uksi/2020/130/regulation/12/3/c)
 
-[^key-70584f8ccae85b5bed05da94abff5d07]: Textual amendment: [Reg. 13(4)(c)](https://www.legislation.gov.uk/uksi/2015/721/regulation/13/c) inserted (E.W.S.) (1.4.2024) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2024 (S.I. 2024/419)](https://www.legislation.gov.uk/uksi/2024/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/7/2)
+[^c-70584f8ccae85b5bed05da94abff5d07]: Textual amendment: [Reg. 13(4)(c)](https://www.legislation.gov.uk/uksi/2015/721/regulation/13/c) inserted (E.W.S.) (1.4.2024) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2024 (S.I. 2024/419)](https://www.legislation.gov.uk/uksi/2024/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/7/2)
 
-[^key-97716ba311b31e8be13fb5d68bfa58d5]: Textual amendment: Word in reg. 13(7) substituted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [12(4)](https://www.legislation.gov.uk/uksi/2020/130/regulation/12/4)
+[^c-97716ba311b31e8be13fb5d68bfa58d5]: Textual amendment: Word in reg. 13(7) substituted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [12(4)](https://www.legislation.gov.uk/uksi/2020/130/regulation/12/4)
 
-[^key-dd45c826066decc8158b8d598807381c]: Textual amendment: Regs. 13ZA, 13ZB inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [13](https://www.legislation.gov.uk/uksi/2020/130/regulation/13)
+[^c-dd45c826066decc8158b8d598807381c]: Textual amendment: Regs. 13ZA, 13ZB inserted (2.3.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/1), [13](https://www.legislation.gov.uk/uksi/2020/130/regulation/13)
 
-[^key-e21688e13a98b2f30224754492a69bc9]: Textual amendment: [Reg. 13ZB](https://www.legislation.gov.uk/uksi/2015/721/regulation/13ZB) omitted (E.W.S.) (1.4.2024) by virtue of [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2024 (S.I. 2024/419)](https://www.legislation.gov.uk/uksi/2024/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2024/419/regulation/8)
+[^c-e21688e13a98b2f30224754492a69bc9]: Textual amendment: [Reg. 13ZB](https://www.legislation.gov.uk/uksi/2015/721/regulation/13ZB) omitted (E.W.S.) (1.4.2024) by virtue of [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2024 (S.I. 2024/419)](https://www.legislation.gov.uk/uksi/2024/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/419/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2024/419/regulation/8)
 
 [^c22447141]: Marginal citation: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29)
 
 [^M_F_100476d5-91bf-46db-c0ba-44cdf448c720]: Textual amendment: Sch. substituted (31.10.2017) by [The Electricity Supplier Obligations (Amendment and Excluded Electricity) (Amendment) Regulations 2017 (S.I. 2017/1051)](https://www.legislation.gov.uk/uksi/2017/1051), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1051/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2017/1051/schedule)
 
-[^key-0779fdfeacbc877f69a2513309a8446b]: Textual amendment: Words in Sch. inserted (1.4.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/2), [14(2)](https://www.legislation.gov.uk/uksi/2020/130/regulation/14/2)
+[^c-0779fdfeacbc877f69a2513309a8446b]: Textual amendment: Words in Sch. inserted (1.4.2020) by [The Electricity Supplier Obligations (Excluded Electricity) (Amendment) Regulations 2020 (S.I. 2020/130)](https://www.legislation.gov.uk/uksi/2020/130), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/130/regulation/2/2), [14(2)](https://www.legislation.gov.uk/uksi/2020/130/regulation/14/2)

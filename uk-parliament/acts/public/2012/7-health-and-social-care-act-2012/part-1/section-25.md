@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Clinical commissioning groups: establishment etc.[^key-039402af3dbaf1a94ce2f044cb2e4397][^c2191280]
+## 25. Clinical commissioning groups: establishment etc.[^c-039402af3dbaf1a94ce2f044cb2e4397][^c2191280]
 
 *Extent: E+W*
 
-(1)[^key-5f688bc38c771694cb050d3a978da1f7] After Chapter A1 of Part 2 of the National Health Service Act 2006 insert—
+(1)[^c-5f688bc38c771694cb050d3a978da1f7] After Chapter A1 of Part 2 of the National Health Service Act 2006 insert—
 
 > **CHAPTER A2 — Clinical commissioning groups**
 >
@@ -309,14 +309,14 @@ summary: ''
 >
 > (7) For the purposes of this section, the commissioning functions of a clinical commissioning group are the functions of the group in arranging for the provision of services as part of the health service.
 
-(2)[^key-4f6bccb7201087bae06261c837b3d26d] After Schedule 1 to the National Health Service Act 2006 insert the Schedule set out in Schedule 2 to this Act.
+(2)[^c-4f6bccb7201087bae06261c837b3d26d] After Schedule 1 to the National Health Service Act 2006 insert the Schedule set out in Schedule 2 to this Act.
 
 ## Annotations
 
-[^key-039402af3dbaf1a94ce2f044cb2e4397]: Commencement: S. 25 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-039402af3dbaf1a94ce2f044cb2e4397]: Commencement: S. 25 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c2191280]: Commencement: S. 25 partly in force; s. 25 in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)
 
-[^key-5f688bc38c771694cb050d3a978da1f7]: Commencement: S. 25(1) in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1831/article/5))
+[^c-5f688bc38c771694cb050d3a978da1f7]: Commencement: S. 25(1) in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1831/article/5))
 
-[^key-4f6bccb7201087bae06261c837b3d26d]: Commencement: S. 25(2) in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
+[^c-4f6bccb7201087bae06261c837b3d26d]: Commencement: S. 25(2) in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)

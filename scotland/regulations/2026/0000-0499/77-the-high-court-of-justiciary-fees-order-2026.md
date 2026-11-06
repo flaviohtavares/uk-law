@@ -46,13 +46,13 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 107(1) and (2) of the Courts Reform (Scotland) Act 2014[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and effect[^key-bc4ad19a9786975c369ac098096b20ab]
+## 1. Citation, commencement and effect[^c-bc4ad19a9786975c369ac098096b20ab]
 
 (1) This Order may be cited as the High Court of Justiciary Fees Order 2026 and, subject to paragraph (2), comes into force on 1 April 2026.
 
 (2) Article 2(1)(b) and schedule 2 take effect, and article 2(1)(a) and schedule 1 cease to have effect, on 1 April 2027.
 
-## 2. Fees payable in the High Court of Justiciary[^key-748aec2fc8758fbd68fef04fc7c87487]
+## 2. Fees payable in the High Court of Justiciary[^c-748aec2fc8758fbd68fef04fc7c87487]
 
 (1) Subject to paragraph (3) and articles 3 and 4—
 
@@ -68,7 +68,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 - (a) the payment of that fee, or
 - (b) an arrangement being entered into for payment of that fee.
 
-## 3. Exemptions of certain persons from fees: legal aid[^key-6700ff3bc643d1ce7eee0326bbef3582]
+## 3. Exemptions of certain persons from fees: legal aid[^c-6700ff3bc643d1ce7eee0326bbef3582]
 
 (1) A fee specified by this Order is not payable by a person if—
 
@@ -80,7 +80,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 (3) In this article, “**the 1986 Act**” means the Legal Aid (Scotland) Act 1986[^f00003].
 
-## 4. Exemption of certain persons from fees: social security[^key-43d295119150fb99f4222f2ca50071b5]
+## 4. Exemption of certain persons from fees: social security[^c-43d295119150fb99f4222f2ca50071b5]
 
 (1) A fee specified by this Order is not payable by a person if—
 
@@ -103,7 +103,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 - “**the 2012 Act**” means the Welfare Reform Act 2012[^f00012],
 - “**partner**” means a person to whom a person is married or with whom the person is in a civil partnership.
 
-## 5. Revocation[^key-13c40348c92440ea5ab0ab65a2c40207]
+## 5. Revocation[^c-13c40348c92440ea5ab0ab65a2c40207]
 
 The High Court of Justiciary Fees Order 2024[^f00013] is revoked.
 
@@ -117,7 +117,7 @@ Edinburgh
 
 11th February 2026
 
-## Schedule 1 — Table of Fees[^key-e61e961b812d5d42ea1e50d63c541b63]
+## Schedule 1 — Table of Fees[^c-e61e961b812d5d42ea1e50d63c541b63]
 
 Article 2(1)(a)
 
@@ -137,7 +137,7 @@ Payable from 1 April 2026
 | In addition, correspondence fee where applicable. | 16 | 15 |
 | 5\. Petition for removal of disqualification from driving. | 114 | 111 |
 
-## Schedule 2 — Table of Fees[^key-ca3ef0541f3eb48580d215fbef46ace7]
+## Schedule 2 — Table of Fees[^c-ca3ef0541f3eb48580d215fbef46ace7]
 
 Article 2(1)(b)
 
@@ -180,17 +180,17 @@ Article 5 revokes the High Court of Justiciary Fees Order 2024 ([S.S.I. 2024/237
 
 [^f00001]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18). The definition of “relevant officer” in section 107(3) was amended by [S.S.I. 2016/387](https://www.legislation.gov.uk/ssi/2016/387).
 
-[^key-bc4ad19a9786975c369ac098096b20ab]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2026/77/article/1) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/77/article/1/1)
+[^c-bc4ad19a9786975c369ac098096b20ab]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2026/77/article/1) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/77/article/1/1)
 
-[^key-748aec2fc8758fbd68fef04fc7c87487]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2026/77/article/2) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/77/article/1/1)
+[^c-748aec2fc8758fbd68fef04fc7c87487]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2026/77/article/2) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/77/article/1/1)
 
-[^key-6700ff3bc643d1ce7eee0326bbef3582]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2026/77/article/3) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/77/article/1/1)
+[^c-6700ff3bc643d1ce7eee0326bbef3582]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2026/77/article/3) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/77/article/1/1)
 
 [^f00002]: Footnote: [1986 c. 47](https://www.legislation.gov.uk/ukpga/1986/47). Section 13(2) was amended by paragraph 36 of schedule 8 and schedule 9 of the Law Reform (Miscellaneous Provisions) (Scotland) Act [1990 (c. 40)](https://www.legislation.gov.uk/ukpga/1990/40).
 
 [^f00003]: Footnote: [1986 c. 47](https://www.legislation.gov.uk/ukpga/1986/47).
 
-[^key-43d295119150fb99f4222f2ca50071b5]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2026/77/article/4) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/77/article/1/1)
+[^c-43d295119150fb99f4222f2ca50071b5]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2026/77/article/4) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/77/article/1/1)
 
 [^f00004]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 124, which provides for income support, was amended by paragraph 30 of schedule 2 and schedule 3 of the Jobseekers Act [1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18), paragraph 28 of schedule 8 of the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), paragraph 2 of schedule 2 and schedule 3 of the State Pension Credit Act [2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), paragraph 42 of schedule 24 of the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), paragraph 9 of schedule 3 and schedule 8 of the Welfare Reform Act [2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), section 3 of the Welfare Reform Act [2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), and section 58 and schedule 14 of the Welfare Reform Act [2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5).
 
@@ -210,14 +210,14 @@ Article 5 revokes the High Court of Justiciary Fees Order 2024 ([S.S.I. 2024/237
 
 [^f00012]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-13c40348c92440ea5ab0ab65a2c40207]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2026/77/article/5) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/77/article/1/1)
+[^c-13c40348c92440ea5ab0ab65a2c40207]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2026/77/article/5) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/77/article/1/1)
 
 [^f00013]: Footnote: [S.S.I. 2024/237](https://www.legislation.gov.uk/ssi/2024/237).
 
-[^key-e61e961b812d5d42ea1e50d63c541b63]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2026/77/schedule/1) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/77/article/1/1)
+[^c-e61e961b812d5d42ea1e50d63c541b63]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2026/77/schedule/1) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/77/article/1/1)
 
 [^f00014]: Footnote: Column 3 shows the fees payable by virtue of the schedule of [S.S.I. 2024/237](https://www.legislation.gov.uk/ssi/2024/237) immediately before the coming into force of this schedule.
 
-[^key-ca3ef0541f3eb48580d215fbef46ace7]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2026/77/schedule/2) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/77/article/1/1)
+[^c-ca3ef0541f3eb48580d215fbef46ace7]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2026/77/schedule/2) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/77/article/1/1)
 
 [^f00015]: Footnote: Column 3 shows the fees which were payable by virtue of schedule 1 of this Order immediately before the coming into force of this schedule.

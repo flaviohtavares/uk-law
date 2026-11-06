@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Application of the Community Infrastructure Levy Regulations 2010[^key-06ee22f062c4177106c4c3944a804631]
+## 10. Application of the Community Infrastructure Levy Regulations 2010[^c-06ee22f062c4177106c4c3944a804631]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-06ee22f062c4177106c4c3944a804631]: Commencement: Art. 10 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-06ee22f062c4177106c4c3944a804631]: Commencement: Art. 10 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
 [^f00018]: Footnote: [S.I. 2010/948](https://www.legislation.gov.uk/uksi/2010/948).

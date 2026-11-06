@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 67. Continuation of references made by the Regulator to the First-tier Tribunal[^key-64f50091eda418b37265848ada5e234e][^key-62706ca7e8d87e6016777c30df3386e8]
+## 67. Continuation of references made by the Regulator to the First-tier Tribunal[^c-64f50091eda418b37265848ada5e234e][^c-62706ca7e8d87e6016777c30df3386e8]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-64f50091eda418b37265848ada5e234e]: Commencement: Art. 67 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-64f50091eda418b37265848ada5e234e]: Commencement: Art. 67 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-62706ca7e8d87e6016777c30df3386e8]: Commencement: [Art. 67](https://www.legislation.gov.uk/uksi/2018/1253/article/67) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-62706ca7e8d87e6016777c30df3386e8]: Commencement: [Art. 67](https://www.legislation.gov.uk/uksi/2018/1253/article/67) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

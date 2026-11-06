@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Section 63E (certification of employees by relevant authorised persons)[^key-5d780ee27751e308d88390548520c170]
+## 26. Section 63E (certification of employees by relevant authorised persons)[^c-5d780ee27751e308d88390548520c170]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 63E [^c23657501] (certification of employees by relevant authorised p
 
 ## Annotations
 
-[^key-5d780ee27751e308d88390548520c170]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-5d780ee27751e308d88390548520c170]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23657501]: Marginal citation: Section 63E was inserted by section 29 of the Financial Services (Banking Reform) Act 2013.

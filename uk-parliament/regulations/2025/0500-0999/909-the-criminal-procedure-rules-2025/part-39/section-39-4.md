@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39.4. Crown Court judge’s certificate that case is fit for appeal[^key-b0fca002b0023eddd37845135e32dfc2]
+## 39.4. Crown Court judge’s certificate that case is fit for appeal[^c-b0fca002b0023eddd37845135e32dfc2]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0fca002b0023eddd37845135e32dfc2]: Commencement: [Rule 39.4](https://www.legislation.gov.uk/uksi/2025/909/rule/39.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-b0fca002b0023eddd37845135e32dfc2]: Commencement: [Rule 39.4](https://www.legislation.gov.uk/uksi/2025/909/rule/39.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

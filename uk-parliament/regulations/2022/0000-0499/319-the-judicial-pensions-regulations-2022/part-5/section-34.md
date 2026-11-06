@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Establishment of deferred member’s account[^key-70a4d203537ea0472d2dadbd36dd8245]
+## 34. Establishment of deferred member’s account[^c-70a4d203537ea0472d2dadbd36dd8245]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70a4d203537ea0472d2dadbd36dd8245]: Commencement: Reg. 34 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-70a4d203537ea0472d2dadbd36dd8245]: Commencement: Reg. 34 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

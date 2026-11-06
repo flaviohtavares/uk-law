@@ -56,13 +56,13 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with paragraph 8F of Schedule 7 to that Act, a draft of this instrument has been laid before Parliament and approved by a resolution of each House.
 
-## 1. Citation, commencement and extent[^key-cca86629e3091c3fd9515e0e8f00fd99]
+## 1. Citation, commencement and extent[^c-cca86629e3091c3fd9515e0e8f00fd99]
 
 (1) These Regulations may be cited as the Market Surveillance (Northern Ireland) Regulations 2021 and come into force on 16th July 2021.
 
 (2) These Regulations extend to Northern Ireland only.
 
-## 2. Interpretation[^key-3107c638d4169c5b6db2eb715a975ab7]
+## 2. Interpretation[^c-3107c638d4169c5b6db2eb715a975ab7]
 
 (1) In these Regulations, “**MSC Regulation**” means Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive [2004/42/EC](https://www.legislation.gov.uk/european/directive/2004/0042) and Regulations [(EC) No 765/2008](https://www.legislation.gov.uk/european/regulation/2008/0765) and (EU) No 305/2011 [^c24559911] as it has effect in EU law as amended from time to time.
 
@@ -106,7 +106,7 @@ In accordance with paragraph 8F of Schedule 7 to that Act, a draft of this instr
   - (a) a contravention of an obligation placed on an economic operator by, or under, the MSC Regulation or the enforcer's legislation; or
   - (b) a product presenting a risk.
 
-## 3. Application[^key-8ca76ae7bf5a200c33e089fa53bb05fa]
+## 3. Application[^c-8ca76ae7bf5a200c33e089fa53bb05fa]
 
 (1) Subject to paragraphs (2) and (3), these Regulations apply in respect of a product that is subject to the Union harmonisation legislation.
 
@@ -120,11 +120,11 @@ In accordance with paragraph 8F of Schedule 7 to that Act, a draft of this instr
 
 (3) These Regulations do not apply to any product to which no other Union harmonisation legislation applies, solely by reason of the product being subject to Regulation 66/2010 of the European Parliament and of the Council of 25 November 2009 on the EU Ecolabel [^c24560011].
 
-## 4. Designation of market surveillance authorities[^key-08489b33a9d0914ef59977e9fbf0a2fb]
+## 4. Designation of market surveillance authorities[^c-08489b33a9d0914ef59977e9fbf0a2fb]
 
 For the purposes of the MSC Regulation, an enforcer is deemed to be a market surveillance authority for those products in respect of which it enforces the enforcer's legislation.
 
-## 5. Enforcement powers giving effect to Article 14(4) of the MSC Regulation[^key-b9dd0d92bd260d9a7a7cd0f9fa028e1c]
+## 5. Enforcement powers giving effect to Article 14(4) of the MSC Regulation[^c-b9dd0d92bd260d9a7a7cd0f9fa028e1c]
 
 (1) For the purposes of enforcing the MSC Regulation, an enforcer, in relation to a product, is the person who enforces the enforcer's legislation in respect of that product.
 
@@ -138,7 +138,7 @@ For the purposes of the MSC Regulation, an enforcer is deemed to be a market sur
 
 (3) When enforcing the MSC Regulation or the enforcer's legislation, an enforcer must exercise its powers in a manner consistent with Article 18 of the MSC Regulation.
 
-## 6. Enforcer's legislation[^key-76c8963127046583a463395f59e7a32b]
+## 6. Enforcer's legislation[^c-76c8963127046583a463395f59e7a32b]
 
 The duties and powers of an enforcer are those arising under any of the following provisions—
 
@@ -187,9 +187,9 @@ The duties and powers of an enforcer are those arising under any of the followin
 - (oo) regulation 22 of the Cableway Installation Regulations 2018 [^c24560421];
 - (pp) paragraph 17 of Schedule 3 to the Construction Products (Amendment etc.) (EU Exit) Regulations 2020 [^c24560431];
 - (qq) regulation 3 of the Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 [^c24560441].
-- (rr)[^key-ed816a4adc35d489c41c417b310c2df5] regulation 26 of the Medical Devices (Northern Ireland Protocol) Regulations 2021.
+- (rr)[^c-ed816a4adc35d489c41c417b310c2df5] regulation 26 of the Medical Devices (Northern Ireland Protocol) Regulations 2021.
 
-## 7. Table of enforcer's legislation[^key-f401310ae1d9e6c9dce417b8e3763a14]
+## 7. Table of enforcer's legislation[^c-f401310ae1d9e6c9dce417b8e3763a14]
 
 The following table applies for the purposes of paragraph (b) of the definition of enforcer's legislation.
 
@@ -224,11 +224,11 @@ The following table applies for the purposes of paragraph (b) of the definition 
 | The Secretary of State or a district council in Northern Ireland | Chapter 3 of Part 4 of the Medicines and Medical Devices Act 2021 [^c24560581] |
 |  |  |
 
-## 8. Offences[^key-afdbe4bbc7eda76b3389acdfe779dab5]
+## 8. Offences[^c-afdbe4bbc7eda76b3389acdfe779dab5]
 
 Schedule 6 (offences) has effect.
 
-## 9. Amendment of Schedule 5 to the Consumer Rights Act 2015[^key-507def8e49607f2eadc330f4a255ff30]
+## 9. Amendment of Schedule 5 to the Consumer Rights Act 2015[^c-507def8e49607f2eadc330f4a255ff30]
 
 (1) Schedule 5 (investigatory powers etc.) to the Consumer Rights Act 2015 [^c24560591] is amended as follows.
 
@@ -253,16 +253,16 @@ Department for Business, Energy & Industrial Strategy
 
 Regulation 5(2)(a)
 
-### 1. Interpretation of terms used in this Schedule[^key-5e08f4647784d13945de454c99d83853]
+### 1. Interpretation of terms used in this Schedule[^c-5e08f4647784d13945de454c99d83853]
 
 In this Schedule—
 
 - “**premises**” includes any trading stall, vehicle, vessel or aircraft;
 - “**proceedings**” may include an application for forfeiture.
-- “Regulation (EU) 2017/745 on medical devices” means Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending[^key-ebca75aca1941c3b3f27eb3a5f900e04] [Directive 2001/83/EC](https://www.legislation.gov.uk/eudr/2001/0083), Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/eur/2002/0178) and Regulation [(EC) No 1223/2009](https://www.legislation.gov.uk/eur/2009/1223) and repealing Council Directives [90/385/EEC](https://www.legislation.gov.uk/eudr/1990/385) and [93/42/EEC](https://www.legislation.gov.uk/eudr/1993/42).
-- “Regulation (EU) 2017/746 on[^key-bd214883f2d34fa29ad4d87c3184d311] *in vitro* diagnostic medical devices” means [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) of the European Parliament and of the Council of 5 April 2017 on *in vitro* diagnostic medical devices and repealing [Directive 98/79/EC](https://www.legislation.gov.uk/european/directive/1998/0079) and Commission [Decision 2010/227/EU](https://www.legislation.gov.uk/european/decision/2010/0227).
+- “Regulation (EU) 2017/745 on medical devices” means Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending[^c-ebca75aca1941c3b3f27eb3a5f900e04] [Directive 2001/83/EC](https://www.legislation.gov.uk/eudr/2001/0083), Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/eur/2002/0178) and Regulation [(EC) No 1223/2009](https://www.legislation.gov.uk/eur/2009/1223) and repealing Council Directives [90/385/EEC](https://www.legislation.gov.uk/eudr/1990/385) and [93/42/EEC](https://www.legislation.gov.uk/eudr/1993/42).
+- “Regulation (EU) 2017/746 on[^c-bd214883f2d34fa29ad4d87c3184d311] *in vitro* diagnostic medical devices” means [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) of the European Parliament and of the Council of 5 April 2017 on *in vitro* diagnostic medical devices and repealing [Directive 98/79/EC](https://www.legislation.gov.uk/european/directive/1998/0079) and Commission [Decision 2010/227/EU](https://www.legislation.gov.uk/european/decision/2010/0227).
 
-### 2. Power to require the production of information[^key-950f66e2c32fbd4477345b47f1b78366]
+### 2. Power to require the production of information[^c-950f66e2c32fbd4477345b47f1b78366]
 
 (1) An enforcer or an officer of an enforcer may give notice to a person requiring the person to provide the enforcer with the information specified in the notice.
 
@@ -270,7 +270,7 @@ In this Schedule—
 
 (3) An enforcer may exercise the powers in this paragraph for the purpose of ascertaining whether there is, or has been, any non-compliance.
 
-### 3. Procedure for notice under paragraph 2[^key-f3ae84d792b85c0d9e9999d49d8e6ddd]
+### 3. Procedure for notice under paragraph 2[^c-f3ae84d792b85c0d9e9999d49d8e6ddd]
 
 (1) A notice under paragraph 2 must be in writing and specify the purpose for which the information is required.
 
@@ -290,7 +290,7 @@ In this Schedule—
 
 (6) A notice under paragraph 2 does not require a person to provide any information or create any documents which the person would be entitled to refuse to provide or produce in proceedings in the High Court on the grounds of legal professional privilege.
 
-### 4. Enforcement of notice under paragraph 2[^key-881e3ef65c9cbac3bb565bab2d72f23f]
+### 4. Enforcement of notice under paragraph 2[^c-881e3ef65c9cbac3bb565bab2d72f23f]
 
 (1) If a person fails to comply with a notice under paragraph 2, the enforcer or an officer of the enforcer may make an application under this paragraph to the court.
 
@@ -314,7 +314,7 @@ In this Schedule—
 - (c) in the case of a partnership other than a limited liability partnership, a partner; and
 - (d) in the case of an unincorporated association, a person who is concerned in the management or control of its affairs.
 
-### 5. Limitations on use of information provided in response to a notice under paragraph 2[^key-279f12be5e255e8b5a6cf562fec789d8]
+### 5. Limitations on use of information provided in response to a notice under paragraph 2[^c-279f12be5e255e8b5a6cf562fec789d8]
 
 (1) This paragraph applies if a person provides information in response to a notice under paragraph 2.
 
@@ -335,7 +335,7 @@ In this Schedule—
 - (a) an offence under paragraph 21 (obstruction),
 - (b) an offence under Article 10 of the Perjury (Northern Ireland) Order 1979 [^c24560601] (false statutory declarations and other false unsworn statements).
 
-### 6. Power to purchase products[^key-a637fd430c45fac77e7a6860243770b1]
+### 6. Power to purchase products[^c-a637fd430c45fac77e7a6860243770b1]
 
 (1) An officer of an enforcer may—
 
@@ -353,7 +353,7 @@ In this Schedule—
 
 (5) The powers in this paragraph may be exercised by an officer acting under a cover identity.
 
-### 7. Power to observe carrying on of a business etc[^key-973540492c0a29c4c2ce0c7e2bf2fed6]
+### 7. Power to observe carrying on of a business etc[^c-973540492c0a29c4c2ce0c7e2bf2fed6]
 
 (1) An officer of an enforcer may enter premises to which the public has access in order to observe the carrying on of a business on those premises.
 
@@ -363,7 +363,7 @@ In this Schedule—
 
 (4) An enforcer may exercise the power in this paragraph for the purpose of ascertaining whether there has been any non-compliance.
 
-### 8. Power to enter premises without a warrant[^key-06a2378f95242915c27a195ac88dfe28]
+### 8. Power to enter premises without a warrant[^c-06a2378f95242915c27a195ac88dfe28]
 
 (1) An officer of an enforcer may enter premises at any reasonable time.
 
@@ -379,11 +379,11 @@ In this Schedule—
 
 (7) An enforcer may exercise the power in this paragraph for the purpose of ascertaining whether there has been any non-compliance.
 
-### 9. Application of paragraphs 10 to 17[^key-badd22c2df0ff3a927ee7d123553e8a6]
+### 9. Application of paragraphs 10 to 17[^c-badd22c2df0ff3a927ee7d123553e8a6]
 
 Paragraphs 10 to 17 apply if an officer of an enforcer has entered any premises under the power in paragraph 8(1) or under a warrant under paragraph 18.
 
-### 10. Power to inspect products etc[^key-75f260112b195ca0514f00bc48127b9f]
+### 10. Power to inspect products etc[^c-75f260112b195ca0514f00bc48127b9f]
 
 (1) The officer may inspect any product on the premises.
 
@@ -403,7 +403,7 @@ Paragraphs 10 to 17 apply if an officer of an enforcer has entered any premises 
 
 (6) An enforcer may exercise the power in this paragraph for the purpose of ascertaining whether there has been any non-compliance.
 
-### 11. Power to test equipment[^key-64df528fda4824dd061563026dfb5da5]
+### 11. Power to test equipment[^c-64df528fda4824dd061563026dfb5da5]
 
 (1) An officer of an enforcer may test any weighing or measuring equipment—
 
@@ -421,7 +421,7 @@ Paragraphs 10 to 17 apply if an officer of an enforcer has entered any premises 
 
 (5) An enforcer may exercise the power in this paragraph for the purpose of ascertaining whether there has been any non-compliance.
 
-### 12. Power to require the production of documents[^key-74176ba61679db113bdf10ac1881e941]
+### 12. Power to require the production of documents[^c-74176ba61679db113bdf10ac1881e941]
 
 (1) The officer may, at any reasonable time—
 
@@ -448,7 +448,7 @@ Paragraphs 10 to 17 apply if an officer of an enforcer has entered any premises 
 
 (8) In this paragraph “**trader**” means a person acting for purposes relating to that person's trade, business, craft or profession, whether acting personally or through another person acting in the trader's name or on the trader's behalf.
 
-### 13. Power to seize and detain products[^key-0298f4111963dc922e9bb03b8b4e2328]
+### 13. Power to seize and detain products[^c-0298f4111963dc922e9bb03b8b4e2328]
 
 (1) The officer may seize and detain products other than documents (for which see paragraph 14).
 
@@ -479,7 +479,7 @@ Paragraphs 10 to 17 apply if an officer of an enforcer has entered any premises 
 - (a) for a period of more than 3 months beginning with the day on which they were seized, or
 - (b) where the products are reasonably required to be detained for a longer period by the enforcer for a purpose for which they were seized, for longer than they are required for that purpose.
 
-### 14. Power to seize documents required as evidence[^key-321e9bc153af0b12987b5462b188763e]
+### 14. Power to seize documents required as evidence[^c-321e9bc153af0b12987b5462b188763e]
 
 (1) The officer may seize and detain documents.
 
@@ -506,7 +506,7 @@ Paragraphs 10 to 17 apply if an officer of an enforcer has entered any premises 
 - (a) for a period of more than 3 months beginning with the day on which they were seized, or
 - (b) where the documents are reasonably required to be detained for a longer period by the enforcer for the purposes of the proceedings for which they were seized, for longer than they are required for those purposes.
 
-### 15. Power to decommission or switch off fixed installations[^key-6b99db4faa3e9528ad7d62589ceb354a]
+### 15. Power to decommission or switch off fixed installations[^c-6b99db4faa3e9528ad7d62589ceb354a]
 
 (1) The power in sub-paragraph (2) is available to an officer of an enforcer acting pursuant to the duty in regulation 52(1)(b)(ii) of the Electromagnetic Compatibility Regulations 2016.
 
@@ -517,27 +517,27 @@ Paragraphs 10 to 17 apply if an officer of an enforcer has entered any premises 
 - (a) if an officer of the enforcer reasonably suspects a contravention of an obligation on an economic operator under the MSC Regulation or the Electromagnetic Compatibility Regulations 2016; and
 - (b) for the purpose of ascertaining (by means of testing or otherwise) whether there has been such non-compliance.
 
-### 16. Power to decommission or switch off any medical device[^key-93f392f311324de6dd7c7ec18b8e6af9]
+### 16. Power to decommission or switch off any medical device[^c-93f392f311324de6dd7c7ec18b8e6af9]
 
-(1) The power in sub-paragraph (2) is available to an officer of an enforcer acting pursuant to—[^key-99692bcf566ddb16f62f30218f4a9342]
+(1) The power in sub-paragraph (2) is available to an officer of an enforcer acting pursuant to—[^c-99692bcf566ddb16f62f30218f4a9342]
 
 - (a) the duty in regulation 61(1A) or (1B) of the Medical Devices Regulations 2002,
 - (b) a duty in regulations made under section 15(1) of the Medicines and Medical Devices Act 2021, or
 - (c) the duty in regulation 26(1) or (2) of the Medical Devices (Northern Ireland Protocol) Regulations 2021.
 
-(2)[^key-8dd6315a65daadd38b0c41567bad93b9] The officer may decommission or switch off any medical device to which the Medical Devices Regulations 2002, [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) on medical devices or [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) on *in vitro* diagnostic medical devices apply which is installed at a given location.
+(2)[^c-8dd6315a65daadd38b0c41567bad93b9] The officer may decommission or switch off any medical device to which the Medical Devices Regulations 2002, [Regulation (EU) 2017/745](https://www.legislation.gov.uk/european/regulation/2017/0745) on medical devices or [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) on *in vitro* diagnostic medical devices apply which is installed at a given location.
 
 (3) An enforcer may exercise the power in this paragraph—
 
 - (a) if an officer of the enforcer reasonably suspects a contravention of an obligation on an economic operator under any of—
   - (i) the Medical Devices Regulations 2002;
-  - (ii) regulations made under section 15(1) of the Medicines and Medical Devices Act 2021; [^key-d551638d20400d6492ccf13130b2d0f8]...
-  - (iii)[^key-ad690d9240f8256e3e321a7e896c452e] the Medical Devices (Northern Ireland Protocol) Regulations 2021;
-  - (iv) Regulation (EU) 2017/745 on medical devices; [^key-d94277c89f30f2e84c6dd137e19aec89]...
-  - (v)[^key-f4384bf63e359bdd4a609cb38d4c5735] [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) on *in vitro* diagnostic medical devices; and
+  - (ii) regulations made under section 15(1) of the Medicines and Medical Devices Act 2021; [^c-d551638d20400d6492ccf13130b2d0f8]...
+  - (iii)[^c-ad690d9240f8256e3e321a7e896c452e] the Medical Devices (Northern Ireland Protocol) Regulations 2021;
+  - (iv) Regulation (EU) 2017/745 on medical devices; [^c-d94277c89f30f2e84c6dd137e19aec89]...
+  - (v)[^c-f4384bf63e359bdd4a609cb38d4c5735] [Regulation (EU) 2017/746](https://www.legislation.gov.uk/european/regulation/2017/0746) on *in vitro* diagnostic medical devices; and
 - (b) for the purpose of ascertaining (by means of testing or otherwise) whether there has been such non-compliance.
 
-### 17. Power to break open container etc[^key-bd896f31944bc88dbfdc4b2c1492a158]
+### 17. Power to break open container etc[^c-bd896f31944bc88dbfdc4b2c1492a158]
 
 (1) The officer may, for the purpose of exercising any of the powers in paragraphs 13 to 16, require a person with authority to do so to—
 
@@ -557,7 +557,7 @@ Paragraphs 10 to 17 apply if an officer of an enforcer has entered any premises 
 
 (5) In this paragraph “**container**” means anything in which products may be stored.
 
-### 18. Power to enter premises with warrant[^key-fad1ff898ac571e6fadd8d7d4c097a9f]
+### 18. Power to enter premises with warrant[^c-fad1ff898ac571e6fadd8d7d4c097a9f]
 
 (1) A lay magistrate may issue a warrant authorising an officer of an enforcer to enter premises if satisfied, on a written complaint on oath given by such an officer, that there are reasonable grounds for believing that—
 
@@ -585,7 +585,7 @@ Paragraphs 10 to 17 apply if an officer of an enforcer has entered any premises 
 
 (7) A warrant may be issued under sub-paragraph (1) for the purpose of ascertaining whether there has been any non-compliance.
 
-### 19. Entry to premises under warrant[^key-43b1f404fa36bf730831569083fb3e7e]
+### 19. Entry to premises under warrant[^c-43b1f404fa36bf730831569083fb3e7e]
 
 (1) A warrant under paragraph 18 authorises an officer of the enforcer to enter the premises at any reasonable time, using reasonable force if necessary.
 
@@ -604,7 +604,7 @@ Paragraphs 10 to 17 apply if an officer of an enforcer has entered any premises 
 
 (7) An enforcer may exercise the power in this paragraph for the purpose of ascertaining whether there has been any non-compliance.
 
-### 20. Power to require assistance from person on premises[^key-0490fa20bd50efd870f89f35abf566db]
+### 20. Power to require assistance from person on premises[^c-0490fa20bd50efd870f89f35abf566db]
 
 (1) If an officer of an enforcer has entered premises under the power in paragraph 8(1) or under a warrant under paragraph 18, the officer may require any person on the premises to provide such assistance or information as the officer reasonably considers necessary.
 
@@ -616,7 +616,7 @@ Paragraphs 10 to 17 apply if an officer of an enforcer has entered any premises 
 
 (5) In sub-paragraph (3) “**importer**”, “**package**” and “**packer**” have the same meaning as in the 2011 Regulations.
 
-### 21. Offence of obstruction[^key-701bbd615e1a4acde18176811c0dba52]
+### 21. Offence of obstruction[^c-701bbd615e1a4acde18176811c0dba52]
 
 (1) A person commits an offence if the person—
 
@@ -633,13 +633,13 @@ Paragraphs 10 to 17 apply if an officer of an enforcer has entered any premises 
 
 (4) Nothing in this paragraph requires a person to answer any question or give any information if to do so might incriminate that person.
 
-### 22. Offence of purporting to act as an officer[^key-501fd30a4603375ca2c177d39a5a7cce]
+### 22. Offence of purporting to act as an officer[^c-501fd30a4603375ca2c177d39a5a7cce]
 
 (1) A person who is not an officer of an enforcer commits an offence if the person purports to act as such under this Schedule.
 
 (2) A person who is guilty of an offence under sub-paragraph (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 23. Access to seized products and documents[^key-6428fe27e8eea0dcce55e578c3b7def0]
+### 23. Access to seized products and documents[^c-6428fe27e8eea0dcce55e578c3b7def0]
 
 (1) This paragraph applies where anything seized by an officer of an enforcer under this Schedule is detained by the enforcer.
 
@@ -658,7 +658,7 @@ Paragraphs 10 to 17 apply if an officer of an enforcer has entered any premises 
 
 (7) References in this paragraph to a person who had custody or control of a thing immediately before it was seized include a representative of such a person.
 
-### 24. Notice of testing of products[^key-84615365ca90ed06a834478b6dd88950]
+### 24. Notice of testing of products[^c-84615365ca90ed06a834478b6dd88950]
 
 (1) Sub-paragraphs (3) and (4) apply where products purchased by an officer of an enforcer under paragraph 6 are submitted to a test and as a result—
 
@@ -682,7 +682,7 @@ Paragraphs 10 to 17 apply if an officer of an enforcer has entered any premises 
 - (b) in a case within sub-paragraph (1)(a), a person who is a party to the proceedings, and
 - (c) in a case within sub-paragraph (1)(b), a person with an interest in the products.
 
-### 25. Appeals against detention of products and documents[^key-a4799b8a8ac8ed33d6aa2f6b5604af7c]
+### 25. Appeals against detention of products and documents[^c-a4799b8a8ac8ed33d6aa2f6b5604af7c]
 
 (1) This paragraph applies where products or documents are being detained as the result of the exercise of a power in this Schedule.
 
@@ -714,7 +714,7 @@ Paragraphs 10 to 17 apply if an officer of an enforcer has entered any premises 
 
 (9) In sub-paragraph (8) “**appeal**” includes an application under Article 146 of the Magistrates' Courts (Northern Ireland) Order 1981 [^c24560621] (cases stated by magistrates' courts).
 
-### 26. Compensation[^key-e5740532650843836111a885c1fb5a4f]
+### 26. Compensation[^c-e5740532650843836111a885c1fb5a4f]
 
 (1) This paragraph applies where an officer of an enforcer has seized and detained products under this Schedule for a purpose within paragraph 13(7)(a).
 
@@ -727,7 +727,7 @@ Paragraphs 10 to 17 apply if an officer of an enforcer has entered any premises 
 
 (4) Any dispute about the right to or amount of any compensation payable under this paragraph is to be determined by arbitration.
 
-### 27. Powers of a district council[^key-ee1c7e6106c6bd07be9adaee36e2b969]
+### 27. Powers of a district council[^c-ee1c7e6106c6bd07be9adaee36e2b969]
 
 (1) Sub-paragraph (2) applies in relation to the exercise by an enforcer, who is a district council in Northern Ireland—
 
@@ -736,7 +736,7 @@ Paragraphs 10 to 17 apply if an officer of an enforcer has entered any premises 
 
 (2) The district council may exercise the power in a part of Northern Ireland which is outside that council's district.
 
-### 28. Civil proceedings[^key-bec92667e75973109c0b03cb9f8018e3]
+### 28. Civil proceedings[^c-bec92667e75973109c0b03cb9f8018e3]
 
 (1) Sub-paragraph (4) applies in relation to civil proceedings which may be brought by an enforcer under—
 
@@ -749,7 +749,7 @@ Paragraphs 10 to 17 apply if an officer of an enforcer has entered any premises 
 
 (4) A district council in Northern Ireland may bring civil proceedings in respect of conduct in a part of Northern Ireland which is outside that council's district.
 
-### 29. Criminal proceedings[^key-ee0f83236a5f137e69312307127be13e]
+### 29. Criminal proceedings[^c-ee0f83236a5f137e69312307127be13e]
 
 (1) A district council in Northern Ireland may bring proceedings for a consumer offence allegedly committed in a part of Northern Ireland which is outside that council's district.
 
@@ -764,7 +764,7 @@ Paragraphs 10 to 17 apply if an officer of an enforcer has entered any premises 
 
 Regulation 5(2)(b)
 
-### 1. Enforcement powers under the 1987 Act[^key-5c2926c2a4bb8d48ff497d070cf04e47]
+### 1. Enforcement powers under the 1987 Act[^c-5c2926c2a4bb8d48ff497d070cf04e47]
 
 For the purposes of enforcing the MSC Regulation and the enforcer's legislation, the following provisions of the 1987 Act apply subject to the modifications in paragraph 2—
 
@@ -786,7 +786,7 @@ For the purposes of enforcing the MSC Regulation and the enforcer's legislation,
   - (ii) subsection (7)(a) and (b) so far as having effect for the purposes of section 16(7)(a);
 - (o) Schedule 2 (prohibition notices and notices to warn).
 
-### 2. Modifications to the 1987 Act[^key-4467bac013225aa6c0a462909d44ab8c]
+### 2. Modifications to the 1987 Act[^c-4467bac013225aa6c0a462909d44ab8c]
 
 The sections of the 1987 Act referred to in paragraph 1 apply as if—
 
@@ -942,7 +942,7 @@ The sections of the 1987 Act referred to in paragraph 1 apply as if—
 
 Regulation 5(2)(c)
 
-### 1. HSAW enforcer[^key-92694c6122d08f96ea11871f3c782f03]
+### 1. HSAW enforcer[^c-92694c6122d08f96ea11871f3c782f03]
 
 In this Schedule, a “**HSAW enforcer**” means—
 
@@ -951,7 +951,7 @@ In this Schedule, a “**HSAW enforcer**” means—
 - (c) the Department of Justice in Northern Ireland; or
 - (d) the Secretary of State.
 
-### 2. Enforcement powers under the 1978 Order[^key-e2f02f61912937083e717e32e52d0542]
+### 2. Enforcement powers under the 1978 Order[^c-e2f02f61912937083e717e32e52d0542]
 
 (1) An Article of the 1978 Order listed in sub-paragraph (2) applies, as modified by paragraph 3, for the purposes of the enforcement of the MSC Regulation in relation to a product to which these Regulations apply if, and to the extent that, the Article applies for the purposes of the HSAW enforcer in relation to a relevant product.
 
@@ -976,7 +976,7 @@ In this Schedule, a “**HSAW enforcer**” means—
 - (q) Article 38 (evidence);
 - (r) Article 39 (power of court to order cause of offence to be remedied and, in certain cases, forfeiture).
 
-### 3. Modifications to the 1978 Order[^key-3eaa24215a48e7693925c9e67f90bfb3]
+### 3. Modifications to the 1978 Order[^c-3eaa24215a48e7693925c9e67f90bfb3]
 
 Those Articles of the 1978 Order apply as if—
 
@@ -1040,7 +1040,7 @@ Those Articles of the 1978 Order apply as if—
 
 Regulation 5(2)(d)
 
-### 1. Compliance Notice[^key-3e1956da2ad244fb35116b33007400ca]
+### 1. Compliance Notice[^c-3e1956da2ad244fb35116b33007400ca]
 
 (1) An enforcer may serve a compliance notice on an economic operator in respect of a product to which these Regulations apply if the enforcer has reasonable grounds for believing that there is non-compliance.
 
@@ -1060,7 +1060,7 @@ Regulation 5(2)(d)
 
 (5) An enforcer may not vary a compliance notice so as to make it more restrictive for the economic operator or more onerous for the economic operator to comply.
 
-### 2. Withdrawal Notice[^key-42bf15d719cf97f412f1f89b0e75583d]
+### 2. Withdrawal Notice[^c-42bf15d719cf97f412f1f89b0e75583d]
 
 (1) An enforcer may serve a withdrawal notice on an economic operator in respect of a product to which these Regulations apply if the enforcer has reasonable grounds for believing that there is non-compliance.
 
@@ -1078,7 +1078,7 @@ Regulation 5(2)(d)
 
 (8) A withdrawal notice has effect in Northern Ireland.
 
-### 3. Recall notice[^key-19d99f79bf365e38f4921262e6b09b2e]
+### 3. Recall notice[^c-19d99f79bf365e38f4921262e6b09b2e]
 
 (1) The enforcer may serve a recall notice on an economic operator in respect of a product to which these Regulations apply if the enforcer has reasonable grounds for believing that there is non-compliance.
 
@@ -1124,7 +1124,7 @@ Regulation 5(2)(d)
 
 (13) A recall notice has effect in Northern Ireland.
 
-### 4. Appeals against notices[^key-adc8920331748fa1013aa22dd7ecca0c]
+### 4. Appeals against notices[^c-adc8920331748fa1013aa22dd7ecca0c]
 
 (1) An application for an order to vary or set aside the terms of a notice may be made to the appropriate court—
 
@@ -1153,7 +1153,7 @@ has occurred in relation to the product to which the notice relates.
   - (v) a withdrawal notice served in accordance with paragraph 2 (withdrawal notice);
   - (vi) a recall notice served in accordance with paragraph 3 (recall notice).
 
-### 5. Appropriate court for appeals against notices etc and further appeals[^key-5c7dfa582e6b70f75bb41432997b8618]
+### 5. Appropriate court for appeals against notices etc and further appeals[^c-5c7dfa582e6b70f75bb41432997b8618]
 
 (1) The appropriate court for the purposes of paragraph 4 is—
 
@@ -1167,34 +1167,34 @@ has occurred in relation to the product to which the notice relates.
 
 Regulation 5(2)(e)
 
-### 1. Online interface notice[^key-4c7b263da152adc50c75c0bd4980731f]
+### 1. Online interface notice[^c-4c7b263da152adc50c75c0bd4980731f]
 
 Where paragraph 2 applies, an enforcer may serve on an ISSP a notice (“an online interface notice”) requiring that ISSP to take such steps as are specified in the notice.
 
-**2.**[^key-cc8160838dbb0a50b150d9a8687454d3] This paragraph applies where the enforcer considers that service of an online interface notice is appropriate in accordance with—
+**2.**[^c-cc8160838dbb0a50b150d9a8687454d3] This paragraph applies where the enforcer considers that service of an online interface notice is appropriate in accordance with—
 
 - (a) Article 7(2) (obligation of ISSPs to cooperate with market surveillance authorities) of the MSC Regulation, or
 - (b) Article 14(4)(k)(ii) (restricting access to an online interface) of the MSC Regulation.
 
-**3.**[^key-42c5d7fd16ea032f57d8d5a34e5745a8] An online interface notice must specify only such steps as the enforcer considers appropriate—
+**3.**[^c-42c5d7fd16ea032f57d8d5a34e5745a8] An online interface notice must specify only such steps as the enforcer considers appropriate—
 
 - (a) in connection with the supply of a product to which these Regulations apply, and
 - (b) in accordance with the requirements of Article 7(2) or 14(4)(k)(ii) of the MSC Regulation.
 
-**4.**[^key-1fe7f3c520ab852f608b33057054e3d4] An ISSP must take the steps specified in an online interface notice when it is requested by an enforcer to do so.
+**4.**[^c-1fe7f3c520ab852f608b33057054e3d4] An ISSP must take the steps specified in an online interface notice when it is requested by an enforcer to do so.
 
-**5.**[^key-f3a73395911b6dacb9b9fa5bcafab2ca] The duty imposed by paragraph (4) is enforceable only—
+**5.**[^c-f3a73395911b6dacb9b9fa5bcafab2ca] The duty imposed by paragraph (4) is enforceable only—
 
 - (a) by way of an action for damages for breach of statutory duty against the ISSP on which the notice was served, and
 - (b) by a person supplied in Northern Ireland with the product to which the notice relates through the use of an online service provided by that ISSP.
 
-**6.**[^key-746ce3c5d79a2e5ad2661a97d0a5f799] For the purposes of this Schedule, “**ISSP**” means an information society service provider.
+**6.**[^c-746ce3c5d79a2e5ad2661a97d0a5f799] For the purposes of this Schedule, “**ISSP**” means an information society service provider.
 
 ## SCHEDULE 6 — Offences
 
 Regulation 8
 
-### 1. Offences[^key-8b94f72670cf8ae19cfa0706633b5457]
+### 1. Offences[^c-8b94f72670cf8ae19cfa0706633b5457]
 
 (1) It is an offence for a person to place a product on the market in contravention of Article 4(1) of the MSC Regulation.
 
@@ -1212,11 +1212,11 @@ Regulation 8
 
 (8) Sub-paragraphs (1) to (5) do not apply where the acts or omissions constituting a contravention of a provision of the MSC Regulation also constitute a contravention of or an offence pursuant to a provision of enforcer's legislation.
 
-### 2. Penalties[^key-4c13646e74c92252d43a0e39c875a1c9]
+### 2. Penalties[^c-4c13646e74c92252d43a0e39c875a1c9]
 
 A person guilty of an offence under paragraph 1 is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 3. Defence of due diligence[^key-b667ec47f226b3ef24dc01c9ab3c7f19]
+### 3. Defence of due diligence[^c-b667ec47f226b3ef24dc01c9ab3c7f19]
 
 (1) In proceedings for an offence under these Regulations, it is a defence for a person (“P”) to show that P took all reasonable steps and exercised all due diligence to avoid committing the offence.
 
@@ -1242,7 +1242,7 @@ A person guilty of an offence under paragraph 1 is liable on summary conviction 
 - (a) the act or default of another person; or
 - (b) reliance on information supplied by another person.
 
-### 4. Liability of persons other than the principal offender[^key-508754af62f70c8a0d17a90dc32caa84]
+### 4. Liability of persons other than the principal offender[^c-508754af62f70c8a0d17a90dc32caa84]
 
 (1) Where the commission by a person (“P”) of an offence under these Regulations is due to anything which another person (“S”) did or failed to do in the course of business, S is guilty of that offence and may be proceeded against and punished, whether or not proceedings are taken against P.
 
@@ -1257,7 +1257,7 @@ A person guilty of an offence under paragraph 1 is liable on summary conviction 
 - (b) in relation to a body corporate managed by its members, a member of that body performing managerial functions; or
 - (c) a person purporting to act as a person described in paragraphs (a) or (b).
 
-### 5. Time limit for prosecution of offences[^key-c689c3669d2b6eb5e618b9c7478ccef7]
+### 5. Time limit for prosecution of offences[^c-c689c3669d2b6eb5e618b9c7478ccef7]
 
 (1) Summary proceedings for an offence under these Regulations may be instituted within 12 months after the date on which evidence sufficient in the opinion of the prosecutor to justify proceedings comes to the knowledge of the prosecutor.
 
@@ -1287,9 +1287,9 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24559901]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), as amended by section 21 of the [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1); there are other amendments not relevant to these Regulations.
 
-[^key-cca86629e3091c3fd9515e0e8f00fd99]: Commencement: Reg. 1 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-cca86629e3091c3fd9515e0e8f00fd99]: Commencement: Reg. 1 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-3107c638d4169c5b6db2eb715a975ab7]: Commencement: Reg. 2 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-3107c638d4169c5b6db2eb715a975ab7]: Commencement: Reg. 2 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
 [^c24559911]: Marginal citation: OJ L 169, 25.06.2019, p. 1.
 
@@ -1301,7 +1301,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24559951]: Marginal citation: [1972 c. 9](https://www.legislation.gov.uk/ukpga/1972/9).
 
-[^key-8ca76ae7bf5a200c33e089fa53bb05fa]: Commencement: Reg. 3 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-8ca76ae7bf5a200c33e089fa53bb05fa]: Commencement: Reg. 3 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
 [^c24559961]: Marginal citation: OJ L 269, 21.10.2000, p. 34.
 
@@ -1315,11 +1315,11 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24560011]: Marginal citation: OJ L 27, 30.01.2010, p. 1.
 
-[^key-08489b33a9d0914ef59977e9fbf0a2fb]: Commencement: Reg. 4 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-08489b33a9d0914ef59977e9fbf0a2fb]: Commencement: Reg. 4 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-b9dd0d92bd260d9a7a7cd0f9fa028e1c]: Commencement: Reg. 5 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-b9dd0d92bd260d9a7a7cd0f9fa028e1c]: Commencement: Reg. 5 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-76c8963127046583a463395f59e7a32b]: Commencement: Reg. 6 in force at 16.7.2021, see reg. 1(1)
+[^c-76c8963127046583a463395f59e7a32b]: Commencement: Reg. 6 in force at 16.7.2021, see reg. 1(1)
 
 [^c24560021]: Marginal citation: [1968 c. 29](https://www.legislation.gov.uk/ukpga/1968/29). There are amendments to section 40 but none are relevant.
 
@@ -1407,9 +1407,9 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24560441]: Marginal citation: [S.I. 2020/1509](https://www.legislation.gov.uk/uksi/2020/1509).
 
-[^key-ed816a4adc35d489c41c417b310c2df5]: Textual amendment: [Reg. 6(rr)](https://www.legislation.gov.uk/uksi/2021/858/regulation/6/rr) inserted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [43(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/43/2)
+[^c-ed816a4adc35d489c41c417b310c2df5]: Textual amendment: [Reg. 6(rr)](https://www.legislation.gov.uk/uksi/2021/858/regulation/6/rr) inserted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [43(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/43/2)
 
-[^key-f401310ae1d9e6c9dce417b8e3763a14]: Commencement: Reg. 7 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-f401310ae1d9e6c9dce417b8e3763a14]: Commencement: Reg. 7 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
 [^c24560451]: Marginal citation: [S.I. 1977/932](https://www.legislation.gov.uk/uksi/1977/932), amended by [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460); there are other amending instruments but none is relevant.
 
@@ -1439,130 +1439,130 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24560581]: Marginal citation: [2021 c. 3](https://www.legislation.gov.uk/ukpga/2021/3).
 
-[^key-afdbe4bbc7eda76b3389acdfe779dab5]: Commencement: Reg. 8 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-afdbe4bbc7eda76b3389acdfe779dab5]: Commencement: Reg. 8 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-507def8e49607f2eadc330f4a255ff30]: Commencement: Reg. 9 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-507def8e49607f2eadc330f4a255ff30]: Commencement: Reg. 9 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
 [^c24560591]: Marginal citation: [2015 c. 15](https://www.legislation.gov.uk/ukpga/2015/15).
 
-[^key-5e08f4647784d13945de454c99d83853]: Commencement: Sch. 1 para. 1 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-5e08f4647784d13945de454c99d83853]: Commencement: Sch. 1 para. 1 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-ebca75aca1941c3b3f27eb3a5f900e04]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2021/858/schedule/1/paragraph/1) inserted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [43(3)(a)](https://www.legislation.gov.uk/uksi/2021/905/regulation/43/3/a)
+[^c-ebca75aca1941c3b3f27eb3a5f900e04]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2021/858/schedule/1/paragraph/1) inserted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [43(3)(a)](https://www.legislation.gov.uk/uksi/2021/905/regulation/43/3/a)
 
-[^key-bd214883f2d34fa29ad4d87c3184d311]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2021/858/schedule/1/paragraph/1) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [26(a)](https://www.legislation.gov.uk/uksi/2024/221/regulation/26/a)
+[^c-bd214883f2d34fa29ad4d87c3184d311]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2021/858/schedule/1/paragraph/1) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [26(a)](https://www.legislation.gov.uk/uksi/2024/221/regulation/26/a)
 
-[^key-950f66e2c32fbd4477345b47f1b78366]: Commencement: Sch. 1 para. 2 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-950f66e2c32fbd4477345b47f1b78366]: Commencement: Sch. 1 para. 2 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-f3ae84d792b85c0d9e9999d49d8e6ddd]: Commencement: Sch. 1 para. 3 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-f3ae84d792b85c0d9e9999d49d8e6ddd]: Commencement: Sch. 1 para. 3 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-881e3ef65c9cbac3bb565bab2d72f23f]: Commencement: Sch. 1 para. 4 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-881e3ef65c9cbac3bb565bab2d72f23f]: Commencement: Sch. 1 para. 4 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-279f12be5e255e8b5a6cf562fec789d8]: Commencement: Sch. 1 para. 5 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-279f12be5e255e8b5a6cf562fec789d8]: Commencement: Sch. 1 para. 5 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
 [^c24560601]: Marginal citation: [S.I. 1979/1714 (N.I. 19)](https://www.legislation.gov.uk/nisi/1979/1714), to which there are amendments not relevant to these Regulations.
 
-[^key-a637fd430c45fac77e7a6860243770b1]: Commencement: Sch. 1 para. 6 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-a637fd430c45fac77e7a6860243770b1]: Commencement: Sch. 1 para. 6 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-973540492c0a29c4c2ce0c7e2bf2fed6]: Commencement: Sch. 1 para. 7 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-973540492c0a29c4c2ce0c7e2bf2fed6]: Commencement: Sch. 1 para. 7 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-06a2378f95242915c27a195ac88dfe28]: Commencement: Sch. 1 para. 8 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-06a2378f95242915c27a195ac88dfe28]: Commencement: Sch. 1 para. 8 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-badd22c2df0ff3a927ee7d123553e8a6]: Commencement: Sch. 1 para. 9 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-badd22c2df0ff3a927ee7d123553e8a6]: Commencement: Sch. 1 para. 9 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-75f260112b195ca0514f00bc48127b9f]: Commencement: Sch. 1 para. 10 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-75f260112b195ca0514f00bc48127b9f]: Commencement: Sch. 1 para. 10 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-64df528fda4824dd061563026dfb5da5]: Commencement: Sch. 1 para. 11 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-64df528fda4824dd061563026dfb5da5]: Commencement: Sch. 1 para. 11 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-74176ba61679db113bdf10ac1881e941]: Commencement: Sch. 1 para. 12 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-74176ba61679db113bdf10ac1881e941]: Commencement: Sch. 1 para. 12 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-0298f4111963dc922e9bb03b8b4e2328]: Commencement: Sch. 1 para. 13 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-0298f4111963dc922e9bb03b8b4e2328]: Commencement: Sch. 1 para. 13 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
 [^c24560611]: Marginal citation: [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341); relevant amending instruments are [S.I. 2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288), and paragraph 22 of Schedule 9 to the [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9).
 
-[^key-321e9bc153af0b12987b5462b188763e]: Commencement: Sch. 1 para. 14 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-321e9bc153af0b12987b5462b188763e]: Commencement: Sch. 1 para. 14 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-6b99db4faa3e9528ad7d62589ceb354a]: Commencement: Sch. 1 para. 15 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-6b99db4faa3e9528ad7d62589ceb354a]: Commencement: Sch. 1 para. 15 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-93f392f311324de6dd7c7ec18b8e6af9]: Commencement: Sch. 1 para. 16 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-93f392f311324de6dd7c7ec18b8e6af9]: Commencement: Sch. 1 para. 16 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-99692bcf566ddb16f62f30218f4a9342]: Textual amendment: Words in [Sch. 1 para. 16(1)](https://www.legislation.gov.uk/uksi/2021/858/schedule/1/paragraph/16/1) substituted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [43(3)(b)(i)](https://www.legislation.gov.uk/uksi/2021/905/regulation/43/3/b/i)
+[^c-99692bcf566ddb16f62f30218f4a9342]: Textual amendment: Words in [Sch. 1 para. 16(1)](https://www.legislation.gov.uk/uksi/2021/858/schedule/1/paragraph/16/1) substituted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [43(3)(b)(i)](https://www.legislation.gov.uk/uksi/2021/905/regulation/43/3/b/i)
 
-[^key-8dd6315a65daadd38b0c41567bad93b9]: Textual amendment: [Sch. 1 para. 16(2)](https://www.legislation.gov.uk/uksi/2021/858/schedule/1/paragraph/16/2) substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [26(b)(i)](https://www.legislation.gov.uk/uksi/2024/221/regulation/26/b/i)
+[^c-8dd6315a65daadd38b0c41567bad93b9]: Textual amendment: [Sch. 1 para. 16(2)](https://www.legislation.gov.uk/uksi/2021/858/schedule/1/paragraph/16/2) substituted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [26(b)(i)](https://www.legislation.gov.uk/uksi/2024/221/regulation/26/b/i)
 
-[^key-d551638d20400d6492ccf13130b2d0f8]: Textual amendment: Word in [Sch. 1 para. 16(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/858/schedule/1/paragraph/16/3/a/ii) omitted (27.7.2021) by virtue of [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [43(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2021/905/regulation/43/3/b/iii)
+[^c-d551638d20400d6492ccf13130b2d0f8]: Textual amendment: Word in [Sch. 1 para. 16(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/858/schedule/1/paragraph/16/3/a/ii) omitted (27.7.2021) by virtue of [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [43(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2021/905/regulation/43/3/b/iii)
 
-[^key-ad690d9240f8256e3e321a7e896c452e]: Textual amendment: [Sch. 1 para. 16(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2021/858/schedule/1/paragraph/16/3/a/iii)[(iv)](https://www.legislation.gov.uk/uksi/2021/858/schedule/1/paragraph/16/3/a/iv) inserted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [43(3)(b)(iv)](https://www.legislation.gov.uk/uksi/2021/905/regulation/43/3/b/iv)
+[^c-ad690d9240f8256e3e321a7e896c452e]: Textual amendment: [Sch. 1 para. 16(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2021/858/schedule/1/paragraph/16/3/a/iii)[(iv)](https://www.legislation.gov.uk/uksi/2021/858/schedule/1/paragraph/16/3/a/iv) inserted (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [43(3)(b)(iv)](https://www.legislation.gov.uk/uksi/2021/905/regulation/43/3/b/iv)
 
-[^key-d94277c89f30f2e84c6dd137e19aec89]: Textual amendment: Word in [Sch. 1 para. 16(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2021/858/schedule/1/paragraph/16/3/a/iv) omitted (21.3.2024) by virtue of [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [26(b)(ii)](https://www.legislation.gov.uk/uksi/2024/221/regulation/26/b/ii)
+[^c-d94277c89f30f2e84c6dd137e19aec89]: Textual amendment: Word in [Sch. 1 para. 16(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2021/858/schedule/1/paragraph/16/3/a/iv) omitted (21.3.2024) by virtue of [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [26(b)(ii)](https://www.legislation.gov.uk/uksi/2024/221/regulation/26/b/ii)
 
-[^key-f4384bf63e359bdd4a609cb38d4c5735]: Textual amendment: [Sch. 1 para. 16(3)(a)(v)](https://www.legislation.gov.uk/uksi/2021/858/schedule/1/paragraph/16/3/a/v) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [26(b)(ii)](https://www.legislation.gov.uk/uksi/2024/221/regulation/26/b/ii)
+[^c-f4384bf63e359bdd4a609cb38d4c5735]: Textual amendment: [Sch. 1 para. 16(3)(a)(v)](https://www.legislation.gov.uk/uksi/2021/858/schedule/1/paragraph/16/3/a/v) inserted (21.3.2024) by [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [26(b)(ii)](https://www.legislation.gov.uk/uksi/2024/221/regulation/26/b/ii)
 
-[^key-bd896f31944bc88dbfdc4b2c1492a158]: Commencement: Sch. 1 para. 17 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-bd896f31944bc88dbfdc4b2c1492a158]: Commencement: Sch. 1 para. 17 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-fad1ff898ac571e6fadd8d7d4c097a9f]: Commencement: Sch. 1 para. 18 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-fad1ff898ac571e6fadd8d7d4c097a9f]: Commencement: Sch. 1 para. 18 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-43b1f404fa36bf730831569083fb3e7e]: Commencement: Sch. 1 para. 19 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-43b1f404fa36bf730831569083fb3e7e]: Commencement: Sch. 1 para. 19 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-0490fa20bd50efd870f89f35abf566db]: Commencement: Sch. 1 para. 20 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-0490fa20bd50efd870f89f35abf566db]: Commencement: Sch. 1 para. 20 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-701bbd615e1a4acde18176811c0dba52]: Commencement: Sch. 1 para. 21 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-701bbd615e1a4acde18176811c0dba52]: Commencement: Sch. 1 para. 21 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-501fd30a4603375ca2c177d39a5a7cce]: Commencement: Sch. 1 para. 22 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-501fd30a4603375ca2c177d39a5a7cce]: Commencement: Sch. 1 para. 22 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-6428fe27e8eea0dcce55e578c3b7def0]: Commencement: Sch. 1 para. 23 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-6428fe27e8eea0dcce55e578c3b7def0]: Commencement: Sch. 1 para. 23 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-84615365ca90ed06a834478b6dd88950]: Commencement: Sch. 1 para. 24 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-84615365ca90ed06a834478b6dd88950]: Commencement: Sch. 1 para. 24 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-a4799b8a8ac8ed33d6aa2f6b5604af7c]: Commencement: Sch. 1 para. 25 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-a4799b8a8ac8ed33d6aa2f6b5604af7c]: Commencement: Sch. 1 para. 25 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
 [^c24560621]: Marginal citation: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675), to which there are amendments not relevant to these Regulations.
 
-[^key-e5740532650843836111a885c1fb5a4f]: Commencement: Sch. 1 para. 26 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-e5740532650843836111a885c1fb5a4f]: Commencement: Sch. 1 para. 26 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-ee1c7e6106c6bd07be9adaee36e2b969]: Commencement: Sch. 1 para. 27 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-ee1c7e6106c6bd07be9adaee36e2b969]: Commencement: Sch. 1 para. 27 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-bec92667e75973109c0b03cb9f8018e3]: Commencement: Sch. 1 para. 28 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-bec92667e75973109c0b03cb9f8018e3]: Commencement: Sch. 1 para. 28 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-ee0f83236a5f137e69312307127be13e]: Commencement: Sch. 1 para. 29 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-ee0f83236a5f137e69312307127be13e]: Commencement: Sch. 1 para. 29 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-5c2926c2a4bb8d48ff497d070cf04e47]: Commencement: Sch. 2 para. 1 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-5c2926c2a4bb8d48ff497d070cf04e47]: Commencement: Sch. 2 para. 1 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-4467bac013225aa6c0a462909d44ab8c]: Commencement: Sch. 2 para. 2 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-4467bac013225aa6c0a462909d44ab8c]: Commencement: Sch. 2 para. 2 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-92694c6122d08f96ea11871f3c782f03]: Commencement: Sch. 3 para. 1 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-92694c6122d08f96ea11871f3c782f03]: Commencement: Sch. 3 para. 1 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-e2f02f61912937083e717e32e52d0542]: Commencement: Sch. 3 para. 2 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-e2f02f61912937083e717e32e52d0542]: Commencement: Sch. 3 para. 2 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-3eaa24215a48e7693925c9e67f90bfb3]: Commencement: Sch. 3 para. 3 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-3eaa24215a48e7693925c9e67f90bfb3]: Commencement: Sch. 3 para. 3 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-3e1956da2ad244fb35116b33007400ca]: Commencement: Sch. 4 para. 1 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-3e1956da2ad244fb35116b33007400ca]: Commencement: Sch. 4 para. 1 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-42bf15d719cf97f412f1f89b0e75583d]: Commencement: Sch. 4 para. 2 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-42bf15d719cf97f412f1f89b0e75583d]: Commencement: Sch. 4 para. 2 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-19d99f79bf365e38f4921262e6b09b2e]: Commencement: Sch. 4 para. 3 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-19d99f79bf365e38f4921262e6b09b2e]: Commencement: Sch. 4 para. 3 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-adc8920331748fa1013aa22dd7ecca0c]: Commencement: Sch. 4 para. 4 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-adc8920331748fa1013aa22dd7ecca0c]: Commencement: Sch. 4 para. 4 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-5c7dfa582e6b70f75bb41432997b8618]: Commencement: Sch. 4 para. 5 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-5c7dfa582e6b70f75bb41432997b8618]: Commencement: Sch. 4 para. 5 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-4c7b263da152adc50c75c0bd4980731f]: Commencement: Sch. 5 para. 1 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-4c7b263da152adc50c75c0bd4980731f]: Commencement: Sch. 5 para. 1 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-cc8160838dbb0a50b150d9a8687454d3]: Commencement: Sch. 5 para. 2 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-cc8160838dbb0a50b150d9a8687454d3]: Commencement: Sch. 5 para. 2 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-42c5d7fd16ea032f57d8d5a34e5745a8]: Commencement: Sch. 5 para. 3 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-42c5d7fd16ea032f57d8d5a34e5745a8]: Commencement: Sch. 5 para. 3 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-1fe7f3c520ab852f608b33057054e3d4]: Commencement: Sch. 5 para. 4 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-1fe7f3c520ab852f608b33057054e3d4]: Commencement: Sch. 5 para. 4 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-f3a73395911b6dacb9b9fa5bcafab2ca]: Commencement: Sch. 5 para. 5 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-f3a73395911b6dacb9b9fa5bcafab2ca]: Commencement: Sch. 5 para. 5 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-746ce3c5d79a2e5ad2661a97d0a5f799]: Commencement: Sch. 5 para. 6 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-746ce3c5d79a2e5ad2661a97d0a5f799]: Commencement: Sch. 5 para. 6 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-8b94f72670cf8ae19cfa0706633b5457]: Commencement: Sch. 6 para. 1 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-8b94f72670cf8ae19cfa0706633b5457]: Commencement: Sch. 6 para. 1 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-4c13646e74c92252d43a0e39c875a1c9]: Commencement: Sch. 6 para. 2 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-4c13646e74c92252d43a0e39c875a1c9]: Commencement: Sch. 6 para. 2 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-b667ec47f226b3ef24dc01c9ab3c7f19]: Commencement: Sch. 6 para. 3 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-b667ec47f226b3ef24dc01c9ab3c7f19]: Commencement: Sch. 6 para. 3 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-508754af62f70c8a0d17a90dc32caa84]: Commencement: Sch. 6 para. 4 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-508754af62f70c8a0d17a90dc32caa84]: Commencement: Sch. 6 para. 4 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
 
-[^key-c689c3669d2b6eb5e618b9c7478ccef7]: Commencement: Sch. 6 para. 5 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)
+[^c-c689c3669d2b6eb5e618b9c7478ccef7]: Commencement: Sch. 6 para. 5 in force at 16.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/858/regulation/1/1)

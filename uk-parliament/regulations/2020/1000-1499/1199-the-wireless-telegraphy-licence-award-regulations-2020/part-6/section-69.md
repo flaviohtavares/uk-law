@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Preparing a 3.6 GHz assignment stage option list for each bidder[^key-4e860a24b40a96e2e1c35676f054aa8f]
+## 69. Preparing a 3.6 GHz assignment stage option list for each bidder[^c-4e860a24b40a96e2e1c35676f054aa8f]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e860a24b40a96e2e1c35676f054aa8f]: Commencement: Reg. 69 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-4e860a24b40a96e2e1c35676f054aa8f]: Commencement: Reg. 69 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

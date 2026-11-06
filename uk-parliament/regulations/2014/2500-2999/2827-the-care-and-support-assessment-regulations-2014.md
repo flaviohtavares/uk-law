@@ -46,7 +46,7 @@ Coming into force in accordance with regulation 1(1)
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by sections 12(1) and (2), 65(1) and 125(7) and (8) of the Care Act 2014[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-185b1d23cbb1ffaafb36757b63435567]
+## 1. Citation, commencement and interpretation[^c-185b1d23cbb1ffaafb36757b63435567]
 
 (1) These Regulations may be cited as the Care and Support (Assessment) Regulations 2014 and come into force immediately after section 12(1) of the Care Act 2014 comes fully into force[^f00002].
 
@@ -61,7 +61,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
   - (e) a young carer’s assessment[^f00007];
 - “supported self-assessment” has the meaning given by regulation 2(1).
 
-## 2. Supported self-assessment[^key-d020009a12ef56acbdf919700bad77d1]
+## 2. Supported self-assessment[^c-d020009a12ef56acbdf919700bad77d1]
 
 (1) A supported self-assessment is an assessment carried out jointly by the local authority[^f00008] and the individual to whom it relates.
 
@@ -93,7 +93,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (7) The information must be provided in a format which is accessible to the individual to whom it is given.
 
-## 3. Assessment – general requirements[^key-2676d8fa34319fc0f64e18478dc0c337]
+## 3. Assessment – general requirements[^c-2676d8fa34319fc0f64e18478dc0c337]
 
 (1) A local authority must carry out an assessment in a manner which—
 
@@ -115,7 +115,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (5) The information must be provided prior to the assessment wherever practicable, and in a format which is accessible to the individual to whom it is given.
 
-## 4. Impact on the individual’s family etc[^key-5797e3ed6859ffe4862f5a59c5b1749a]
+## 4. Impact on the individual’s family etc[^c-5797e3ed6859ffe4862f5a59c5b1749a]
 
 (1) A local authority carrying out an assessment must consider the impact of the needs of the individual to whom the assessment relates on—
 
@@ -129,7 +129,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - (a) consider the impact of the needs of the individual concerned on the child’s well-being, welfare, education and development; and
 - (b) identify whether any of the tasks which the child is performing for the individual are inappropriate for the child to perform having regard to all the circumstances.
 
-## 5. Training, expertise and consultation[^key-e589a4717a4cb6e4b8007137dd6aecf2]
+## 5. Training, expertise and consultation[^c-e589a4717a4cb6e4b8007137dd6aecf2]
 
 (1) A local authority must ensure that any person (other than in the case of a supported self-assessment, the individual to whom it relates) carrying out an assessment—
 
@@ -140,7 +140,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (3) Such consultation may take place before, or during, the carrying out of the assessment.
 
-## 6. Requirement for specialist expertise – deafblind individuals[^key-cd59f4e1cfbc0ca59820f4f84e613efe]
+## 6. Requirement for specialist expertise – deafblind individuals[^c-cd59f4e1cfbc0ca59820f4f84e613efe]
 
 (1) An assessment which relates to an individual who is deafblind must be carried out by a person who has specific training and expertise relating to individuals who are deafblind.
 
@@ -154,15 +154,15 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (3) In this regulation, an individual is “deafblind” if the individual has combined sight and hearing impairment which causes difficulties with communication, access to information and mobility.
 
-## 7. NHS Continuing Healthcare[^key-6d3cba133fac676f4db729fac9e52653]
+## 7. NHS Continuing Healthcare[^c-6d3cba133fac676f4db729fac9e52653]
 
 (1) Where it appears to a local authority carrying out a needs assessment that the individual to whom the assessment relates may be eligible for NHS continuing healthcare[^f00012], the local authority must refer the individual to the relevant body.
 
 (2) Where it appears to a local authority carrying out a child’s needs assessment that the child may, after becoming 18, be eligible for NHS continuing healthcare, the local authority must refer the individual to the relevant body.
 
-(3) In performing its duties under this regulation, a local authority must have regard to the National Framework for NHS Continuing Healthcare and NHS-funded Nursing Care issued by the Secretary of State and dated 1st March 2018[^key-07a29f809e4fc72df58954d41aee4105].
+(3) In performing its duties under this regulation, a local authority must have regard to the National Framework for NHS Continuing Healthcare and NHS-funded Nursing Care issued by the Secretary of State and dated 1st March 2018[^c-07a29f809e4fc72df58954d41aee4105].
 
-(4) The “relevant body” means NHS England[^key-d4dc7d404b890c497e44cfff4aeafbbe] or an integrated care board[^key-602678e6ae9a00e9a5faf35c84cd6771] as the case may be, which appears to the local authority to have responsibility for the individual by reason of regulation 20(2) of the National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) Regulations 2012 [^f00016].
+(4) The “relevant body” means NHS England[^c-d4dc7d404b890c497e44cfff4aeafbbe] or an integrated care board[^c-602678e6ae9a00e9a5faf35c84cd6771] as the case may be, which appears to the local authority to have responsibility for the individual by reason of regulation 20(2) of the National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) Regulations 2012 [^f00016].
 
 Signed by authority of the Secretary of State for Health.
 
@@ -192,7 +192,7 @@ A separate impact assessment has not been prepared for these Regulations. These 
 
 [^f00001]: Footnote: [2014 c.23](https://www.legislation.gov.uk/ukpga/2014/23) (“the Act”). The powers to make regulations is exercisable by the Secretary of State - *see* section 125(1).
 
-[^key-185b1d23cbb1ffaafb36757b63435567]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/2827/regulation/1) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2827/regulation/1/1)
+[^c-185b1d23cbb1ffaafb36757b63435567]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/2827/regulation/1) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2827/regulation/1/1)
 
 [^f00002]: Footnote: Section 12(1) was commenced for the purpose of making regulations by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473).
 
@@ -206,7 +206,7 @@ A separate impact assessment has not been prepared for these Regulations. These 
 
 [^f00007]: Footnote: *See* section 63 of the Act.
 
-[^key-d020009a12ef56acbdf919700bad77d1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/2827/regulation/2) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2827/regulation/1/1)
+[^c-d020009a12ef56acbdf919700bad77d1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/2827/regulation/2) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2827/regulation/1/1)
 
 [^f00008]: Footnote: *See* section 1(4) of the Act for the meaning of “local authority”; the definition is limited to local authorities in England.
 
@@ -214,24 +214,24 @@ A separate impact assessment has not been prepared for these Regulations. These 
 
 [^f00010]: Footnote: *See* section 10(3) of the Act for the meaning of “adult needing care”.
 
-[^key-2676d8fa34319fc0f64e18478dc0c337]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/2827/regulation/3) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2827/regulation/1/1)
+[^c-2676d8fa34319fc0f64e18478dc0c337]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/2827/regulation/3) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2827/regulation/1/1)
 
 [^f00011]: Footnote: *See* section 58(6) of the Act for the meaning of “parent”.
 
-[^key-5797e3ed6859ffe4862f5a59c5b1749a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/2827/regulation/4) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2827/regulation/1/1)
+[^c-5797e3ed6859ffe4862f5a59c5b1749a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/2827/regulation/4) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2827/regulation/1/1)
 
-[^key-e589a4717a4cb6e4b8007137dd6aecf2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/2827/regulation/5) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2827/regulation/1/1)
+[^c-e589a4717a4cb6e4b8007137dd6aecf2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/2827/regulation/5) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2827/regulation/1/1)
 
-[^key-cd59f4e1cfbc0ca59820f4f84e613efe]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/2827/regulation/6) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2827/regulation/1/1)
+[^c-cd59f4e1cfbc0ca59820f4f84e613efe]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/2827/regulation/6) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2827/regulation/1/1)
 
-[^key-6d3cba133fac676f4db729fac9e52653]: Commencement: Reg. 7 in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2827/regulation/1/1)
+[^c-6d3cba133fac676f4db729fac9e52653]: Commencement: Reg. 7 in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2827/regulation/1/1)
 
 [^f00012]: Footnote: *See* section 12(10) of the Act for the meaning of “NHS continuing healthcare”.
 
-[^key-07a29f809e4fc72df58954d41aee4105]: Textual amendment: Words in reg. 7(3) substituted (1.10.2018) by [The Responsibilities and Standing Rules, and Care and Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/283)](https://www.legislation.gov.uk/uksi/2018/283), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/283/regulation/1/4), [4](https://www.legislation.gov.uk/uksi/2018/283/regulation/4)
+[^c-07a29f809e4fc72df58954d41aee4105]: Textual amendment: Words in reg. 7(3) substituted (1.10.2018) by [The Responsibilities and Standing Rules, and Care and Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/283)](https://www.legislation.gov.uk/uksi/2018/283), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/283/regulation/1/4), [4](https://www.legislation.gov.uk/uksi/2018/283/regulation/4)
 
-[^key-d4dc7d404b890c497e44cfff4aeafbbe]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-d4dc7d404b890c497e44cfff4aeafbbe]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-602678e6ae9a00e9a5faf35c84cd6771]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-602678e6ae9a00e9a5faf35c84cd6771]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
 [^f00016]: Footnote: [S.I. 2012/2996](https://www.legislation.gov.uk/uksi/2012/2996).

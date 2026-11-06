@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Wilful obstruction of highway[^key-84a062a39bd718ddad47c1c1376d2467][^key-9300c437bea472c7d637163930b3f77d]
+## 80. Wilful obstruction of highway[^c-84a062a39bd718ddad47c1c1376d2467][^c-9300c437bea472c7d637163930b3f77d]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-84a062a39bd718ddad47c1c1376d2467]: Commencement: S. 80 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-84a062a39bd718ddad47c1c1376d2467]: Commencement: S. 80 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-9300c437bea472c7d637163930b3f77d]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2022/32/section/80) in force at 12.5.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/520/regulation/4/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2022/520/regulation/8))
+[^c-9300c437bea472c7d637163930b3f77d]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2022/32/section/80) in force at 12.5.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/520/regulation/4/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2022/520/regulation/8))

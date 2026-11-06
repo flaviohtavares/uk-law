@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. The burdens section of the title sheet[^key-3965cdadaf1cfd44c4cfc0563a94bc04]
+## 9. The burdens section of the title sheet[^c-3965cdadaf1cfd44c4cfc0563a94bc04]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3965cdadaf1cfd44c4cfc0563a94bc04]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2012/5/section/9) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-3965cdadaf1cfd44c4cfc0563a94bc04]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2012/5/section/9) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

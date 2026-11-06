@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S*
 
-In relation to a person who was at a time before 1st January 1997 the holder of a licence authorising the driving of vehicles of a class included in category B (except a licence authorising only the driving of vehicles included in former sub-category B1 or sub-category[^key-532b09e4631b2a5917974f76ca082480] or B1 (invalid carriages)), regulation 7(5) shall apply as if paragraphs (b) and (c) and the words “on behalf of a non-commercial body" were omitted.
+In relation to a person who was at a time before 1st January 1997 the holder of a licence authorising the driving of vehicles of a class included in category B (except a licence authorising only the driving of vehicles included in former sub-category B1 or sub-category[^c-532b09e4631b2a5917974f76ca082480] or B1 (invalid carriages)), regulation 7(5) shall apply as if paragraphs (b) and (c) and the words “on behalf of a non-commercial body" were omitted.
 
 ## Annotations
 
-[^key-532b09e4631b2a5917974f76ca082480]: Textual amendment: Words in reg. 79 substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 44](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/44)
+[^c-532b09e4631b2a5917974f76ca082480]: Textual amendment: Words in reg. 79 substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 44](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/44)

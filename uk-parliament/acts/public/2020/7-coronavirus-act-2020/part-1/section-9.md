@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Compensation for emergency volunteers[^key-18a85e4496624dafd15ec6f9556629e0]
+## 9. Compensation for emergency volunteers[^c-18a85e4496624dafd15ec6f9556629e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18a85e4496624dafd15ec6f9556629e0]: Textual amendment: S. 9 expires (17.7.2021) by [The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856)](https://www.legislation.gov.uk/uksi/2021/856), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2021/856/regulation/2/1/b)
+[^c-18a85e4496624dafd15ec6f9556629e0]: Textual amendment: S. 9 expires (17.7.2021) by [The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856)](https://www.legislation.gov.uk/uksi/2021/856), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2021/856/regulation/2/1/b)

@@ -24,7 +24,7 @@ summary: ''
 
 ### Content of application
 
-**1.**[^key-c4bc6b6bd62d30f85a93df686ecdf52b] (1) An application for an HMO licence must be written in such form as the local authority may reasonably require.
+**1.**[^c-c4bc6b6bd62d30f85a93df686ecdf52b] (1) An application for an HMO licence must be written in such form as the local authority may reasonably require.
 
 (2) Such an application must set out—
 
@@ -50,7 +50,7 @@ summary: ''
 
 ### Notice of application
 
-**2.**[^key-242883ed0620fc66bdd157b2fbfea2dc] (1) A “notice of HMO application” is a notice which—
+**2.**[^c-242883ed0620fc66bdd157b2fbfea2dc] (1) A “notice of HMO application” is a notice which—
 
 - (a) states that an application for an HMO licence has been made in respect of living accommodation,
 - (b) sets out the information described in paragraph 1(2) and (3) (excluding the information described in sub-paragraph (3)(c) of that provision),
@@ -86,7 +86,7 @@ the certificate must state the relevant circumstances.
 
 ### Notices: exceptions
 
-**3.**[^key-70f281dc499e53ba78f2807bd18355f5] (1) This paragraph applies where the local authority considers, on the submission of any applicant—
+**3.**[^c-70f281dc499e53ba78f2807bd18355f5] (1) This paragraph applies where the local authority considers, on the submission of any applicant—
 
 - (a) that the applicant has been unable to comply with paragraph 2(2) or (3) because of a lack of necessary rights (of access or otherwise) despite having taken reasonable steps for the purposes of acquiring those rights, or
 - (b) that complying with paragraph 2(2) or (3) is likely to jeopardise—
@@ -111,7 +111,7 @@ the certificate must state the relevant circumstances.
 
 ### Representations
 
-**4.**[^key-4144ba49cbd3b22ada5b8672e9755ac2] (1) A written representation about an application for an HMO licence is valid only if it—
+**4.**[^c-4144ba49cbd3b22ada5b8672e9755ac2] (1) A written representation about an application for an HMO licence is valid only if it—
 
 - (a) sets out the name and address of the respondent,
 - (b) is signed by or on behalf of the respondent, and
@@ -128,13 +128,13 @@ the certificate must state the relevant circumstances.
 
 ### Inquiries
 
-**5.**[^key-ed0d099e010d68b2fe6fd579f95983d3] (1) The local authority may make such inquiries about the application as the authority thinks fit.
+**5.**[^c-ed0d099e010d68b2fe6fd579f95983d3] (1) The local authority may make such inquiries about the application as the authority thinks fit.
 
 (2) The local authority must make a report of any matter arising from any such inquiries which the local authority considers relevant to the determination of the application.
 
 ### Applicant's opportunity to respond
 
-**6.**[^key-752eba63257f43ea25ce01707fe9a9ad] (1) The local authority must give the applicant a copy of—
+**6.**[^c-752eba63257f43ea25ce01707fe9a9ad] (1) The local authority must give the applicant a copy of—
 
 - (a) any valid written representation,
 - (b) any late written representation which the authority intends to consider, and
@@ -144,7 +144,7 @@ the certificate must state the relevant circumstances.
 
 ### Hearings
 
-**7.**[^key-755f68bd9220678db8a352d0dcd8c221] (1) The local authority may decide to hear oral representations about the application.
+**7.**[^c-755f68bd9220678db8a352d0dcd8c221] (1) The local authority may decide to hear oral representations about the application.
 
 (2) If the local authority decides to hold such a hearing, it must invite—
 
@@ -158,7 +158,7 @@ to make oral representations.
 
 ### Consideration of application
 
-**8.**[^key-569b5f22c3fa13c6e287223a83c1dd70] (1) Before determining an application for an HMO licence, the local authority must consider any—
+**8.**[^c-569b5f22c3fa13c6e287223a83c1dd70] (1) Before determining an application for an HMO licence, the local authority must consider any—
 
 - (a) valid written representations (unless withdrawn),
 - (b) reports made under paragraph 5(2),
@@ -171,9 +171,9 @@ to make oral representations.
 
 ### Time limit for determining application
 
-**9.**[^key-ce637b9e20fcad17d1287869ea87e6ef] (1) The local authority must decide whether to grant or refuse an application for an HMO licence within 12 months of it receiving the application.
+**9.**[^c-ce637b9e20fcad17d1287869ea87e6ef] (1) The local authority must decide whether to grant or refuse an application for an HMO licence within 12 months of it receiving the application.
 
-(2)[^key-b08afc4ccadbb4c5aa0b83ffb0196eee] The period mentioned in sub-paragraph (1) may be extended by the sheriff, on summary application by the local authority, by such period as the sheriff thinks fit.
+(2)[^c-b08afc4ccadbb4c5aa0b83ffb0196eee] The period mentioned in sub-paragraph (1) may be extended by the sheriff, on summary application by the local authority, by such period as the sheriff thinks fit.
 
 (3) The sheriff may not extend a period unless the local authority applies for the extension before the period expires.
 
@@ -187,24 +187,24 @@ to make oral representations.
 
 ## Annotations
 
-[^key-c4bc6b6bd62d30f85a93df686ecdf52b]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/asp/2006/1/schedule/4/paragraph/1) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-c4bc6b6bd62d30f85a93df686ecdf52b]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/asp/2006/1/schedule/4/paragraph/1) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
-[^key-242883ed0620fc66bdd157b2fbfea2dc]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2006/1/schedule/4/paragraph/2) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-242883ed0620fc66bdd157b2fbfea2dc]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2006/1/schedule/4/paragraph/2) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
 [^c1898095]: Textual amendment: Words in [Sch. 4 para. 2(9)(a)](https://www.legislation.gov.uk/asp/2006/1/schedule/4/paragraph/2/9/a) substituted (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/475/article/2/1), [Sch. 1 para. 17(2)(3)(e)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/17/2/3/e)
 
-[^key-70f281dc499e53ba78f2807bd18355f5]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/asp/2006/1/schedule/4/paragraph/3) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-70f281dc499e53ba78f2807bd18355f5]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/asp/2006/1/schedule/4/paragraph/3) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
-[^key-4144ba49cbd3b22ada5b8672e9755ac2]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/asp/2006/1/schedule/4/paragraph/4) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-4144ba49cbd3b22ada5b8672e9755ac2]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/asp/2006/1/schedule/4/paragraph/4) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
-[^key-ed0d099e010d68b2fe6fd579f95983d3]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/asp/2006/1/schedule/4/paragraph/5) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-ed0d099e010d68b2fe6fd579f95983d3]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/asp/2006/1/schedule/4/paragraph/5) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
-[^key-752eba63257f43ea25ce01707fe9a9ad]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/asp/2006/1/schedule/4/paragraph/6) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-752eba63257f43ea25ce01707fe9a9ad]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/asp/2006/1/schedule/4/paragraph/6) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
-[^key-755f68bd9220678db8a352d0dcd8c221]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/4/paragraph/7) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-755f68bd9220678db8a352d0dcd8c221]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/4/paragraph/7) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
-[^key-569b5f22c3fa13c6e287223a83c1dd70]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/asp/2006/1/schedule/4/paragraph/8) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-569b5f22c3fa13c6e287223a83c1dd70]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/asp/2006/1/schedule/4/paragraph/8) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
-[^key-ce637b9e20fcad17d1287869ea87e6ef]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/asp/2006/1/schedule/4/paragraph/9) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-ce637b9e20fcad17d1287869ea87e6ef]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/asp/2006/1/schedule/4/paragraph/9) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
-[^key-b08afc4ccadbb4c5aa0b83ffb0196eee]: Modification: [Sch. 4 para. 9(2)](https://www.legislation.gov.uk/asp/2006/1/schedule/4/paragraph/9/2) power to disapply conferred (20.11.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 20(2)(a)(iii)](https://www.legislation.gov.uk/asp/2014/14/section/20/2/a/iii), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-b08afc4ccadbb4c5aa0b83ffb0196eee]: Modification: [Sch. 4 para. 9(2)](https://www.legislation.gov.uk/asp/2006/1/schedule/4/paragraph/9/2) power to disapply conferred (20.11.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 20(2)(a)(iii)](https://www.legislation.gov.uk/asp/2014/14/section/20/2/a/iii), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)

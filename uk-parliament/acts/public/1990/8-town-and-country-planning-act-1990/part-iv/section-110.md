@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 110. Registration of compensation for depreciation.[^key-45e1ff7f98887be3ee404b0a281ddb5e]
+## 110. Registration of compensation for depreciation.[^c-45e1ff7f98887be3ee404b0a281ddb5e]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-45e1ff7f98887be3ee404b0a281ddb5e]: Modification: S. 110 applied (with modifications) (1.10.2011) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011 (S.I. 2011/2055)](https://www.legislation.gov.uk/uksi/2011/2055), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2055/regulation/1), [64](https://www.legislation.gov.uk/uksi/2011/2055/regulation/64)
+[^c-45e1ff7f98887be3ee404b0a281ddb5e]: Modification: S. 110 applied (with modifications) (1.10.2011) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011 (S.I. 2011/2055)](https://www.legislation.gov.uk/uksi/2011/2055), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2055/regulation/1), [64](https://www.legislation.gov.uk/uksi/2011/2055/regulation/64)
 
 [^c14021091]: Textual amendment: Words in s. 110(2) inserted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 20(4)](https://www.legislation.gov.uk/ukpga/1994/19/section/20/4), [Sch. 6 Pt. II para. 24(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/6/part/II/paragraph/24/2) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 3](https://www.legislation.gov.uk/uksi/1996/396/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/396/schedule/1)
 

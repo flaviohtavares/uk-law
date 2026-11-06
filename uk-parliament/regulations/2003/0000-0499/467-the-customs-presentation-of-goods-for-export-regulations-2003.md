@@ -57,7 +57,7 @@ In these Regulations—
 - “**the Council Regulation**” means the Council Regulation [(EEC) 2913/92](https://www.legislation.gov.uk/eur/1992/2913) establishing the Community Customs Code [^c5004861];
 - “**customs declaration**” has the meaning given by Article 4(17) of the Council Regulation;
 - “**electronic communication**” means a communication transmitted (whether from one person to another, from one device to another or from a person to a device or vice versa)—
-  - (a) by means of electronic communications network, or[^key-d95720e56b90681218de6091d5fa0526]
+  - (a) by means of electronic communications network, or[^c-d95720e56b90681218de6091d5fa0526]
   - (b) by other means but while in an electronic form;
 - “**export**” means the customs procedure for export described in Articles 4(16), 161 and 162 of the Council Regulation;
 - “**official system**” means a system operated by the Commissioners for the acceptance of an electronic communication containing information in connection with the completion of a customs procedure.
@@ -149,4 +149,4 @@ Regulation 5 makes evidential provision concerning information delivered by an e
 
 [^c5004861]: Marginal citation: OJ No. L302, 19.10.92, p.1; there are amendments to the Council Regulation not relevant to these Regulations.
 
-[^key-d95720e56b90681218de6091d5fa0526]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/467/regulation/2) substituted (17.9.2003) by [The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/52)
+[^c-d95720e56b90681218de6091d5fa0526]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/467/regulation/2) substituted (17.9.2003) by [The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/52)

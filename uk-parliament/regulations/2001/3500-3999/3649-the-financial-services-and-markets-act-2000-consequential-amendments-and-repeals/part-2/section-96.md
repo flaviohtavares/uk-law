@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Application of Part 5 in relation to overseas investment exchanges and clearing houses[^key-ade8ad5e8f97293feb07cd4f08fc9d09]
+## 96. Application of Part 5 in relation to overseas investment exchanges and clearing houses[^c-ade8ad5e8f97293feb07cd4f08fc9d09]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In Article 92(1) of the Companies (No. 2) (Northern Ireland) Order 1990 (power t
 
 ## Annotations
 
-[^key-ade8ad5e8f97293feb07cd4f08fc9d09]: Commencement: Art. 96 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-ade8ad5e8f97293feb07cd4f08fc9d09]: Commencement: Art. 96 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 76. Maximum permitted laden weight of a vehicle and trailer, other than an articulated vehicle[^key-b73e2d9c61adc01357813be31621826b]
+## 76. Maximum permitted laden weight of a vehicle and trailer, other than an articulated vehicle[^c-b73e2d9c61adc01357813be31621826b]
 
 *Extent: E+W+S*
 
 (1) The total laden weight of a motor vehicle and the trailer or trailers (other than semi-trailers) drawn by it shall not, in a case specified in an item in column 2 of the Table, exceed the maximum permitted train weight specified in that item in column 3.
 
-(1A)[^key-140d5d3b07d1ddc22b0d66be2ca99b53] This regulation is subject to Schedule 11A (exemptions relating to intermodal transport operations[^key-dafd5a66af5afd376054ec6c7d1829af]).
+(1A)[^c-140d5d3b07d1ddc22b0d66be2ca99b53] This regulation is subject to Schedule 11A (exemptions relating to intermodal transport operations[^c-dafd5a66af5afd376054ec6c7d1829af]).
 
-(2)[^key-721b4c274f5add40769f9ffdba5294a3] In this regulation, the expressions “road friendly suspension”, “twin tyres” and “unbalanced agricultural trailer” shall be construed in accordance with regulation 75(4), (5) and (6).
+(2)[^c-721b4c274f5add40769f9ffdba5294a3] In this regulation, the expressions “road friendly suspension”, “twin tyres” and “unbalanced agricultural trailer” shall be construed in accordance with regulation 75(4), (5) and (6).
 
 TABLE
 
@@ -49,24 +49,24 @@ TABLE
 </tbody>
 </table>
 
-[^key-002fa326e308e462ad88d3d5df4a3190][^key-91cdda06b64018f00e69d9487472230e][^key-8775ed11e114b1ecdc5e0c532c98b0e2][^key-c82aa73d8d69346a5b3beba0c7c3bd95][^key-0eca78723585cbe1e1f589cbcb92d089]
+[^c-002fa326e308e462ad88d3d5df4a3190][^c-91cdda06b64018f00e69d9487472230e][^c-8775ed11e114b1ecdc5e0c532c98b0e2][^c-c82aa73d8d69346a5b3beba0c7c3bd95][^c-0eca78723585cbe1e1f589cbcb92d089]
 
 ## Annotations
 
-[^key-b73e2d9c61adc01357813be31621826b]: Commencement: [Reg. 76](https://www.legislation.gov.uk/uksi/1986/1078/regulation/76) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-b73e2d9c61adc01357813be31621826b]: Commencement: [Reg. 76](https://www.legislation.gov.uk/uksi/1986/1078/regulation/76) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-140d5d3b07d1ddc22b0d66be2ca99b53]: Textual amendment: [Reg. 76(1A)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/76/1A) inserted (24.3.1994) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1994 (S.I. 1994/329)](https://www.legislation.gov.uk/uksi/1994/329), [regs. 1](https://www.legislation.gov.uk/uksi/1994/329/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/1994/329/regulation/7/2)
+[^c-140d5d3b07d1ddc22b0d66be2ca99b53]: Textual amendment: [Reg. 76(1A)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/76/1A) inserted (24.3.1994) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1994 (S.I. 1994/329)](https://www.legislation.gov.uk/uksi/1994/329), [regs. 1](https://www.legislation.gov.uk/uksi/1994/329/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/1994/329/regulation/7/2)
 
-[^key-dafd5a66af5afd376054ec6c7d1829af]: Textual amendment: Words in [reg. 76(1A)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/76/1A) substituted (1.10.2017) by [The Road Vehicles (Authorised Weight) and (Construction and Use) (Amendment) Regulations 2017 (S.I. 2017/881)](https://www.legislation.gov.uk/uksi/2017/881), [regs. 1](https://www.legislation.gov.uk/uksi/2017/881/regulation/1), [14](https://www.legislation.gov.uk/uksi/2017/881/regulation/14)
+[^c-dafd5a66af5afd376054ec6c7d1829af]: Textual amendment: Words in [reg. 76(1A)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/76/1A) substituted (1.10.2017) by [The Road Vehicles (Authorised Weight) and (Construction and Use) (Amendment) Regulations 2017 (S.I. 2017/881)](https://www.legislation.gov.uk/uksi/2017/881), [regs. 1](https://www.legislation.gov.uk/uksi/2017/881/regulation/1), [14](https://www.legislation.gov.uk/uksi/2017/881/regulation/14)
 
-[^key-721b4c274f5add40769f9ffdba5294a3]: Textual amendment: [Reg. 76(2)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/76/2) substituted (1.1.1993) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1992 (S.I. 1992/2016)](https://www.legislation.gov.uk/uksi/1992/2016), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2016/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/1992/2016/regulation/5/2)
+[^c-721b4c274f5add40769f9ffdba5294a3]: Textual amendment: [Reg. 76(2)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/76/2) substituted (1.1.1993) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1992 (S.I. 1992/2016)](https://www.legislation.gov.uk/uksi/1992/2016), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2016/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/1992/2016/regulation/5/2)
 
-[^key-002fa326e308e462ad88d3d5df4a3190]: Textual amendment: Words in [reg. 76](https://www.legislation.gov.uk/uksi/1986/1078/regulation/76) Table substituted (24.3.1994) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1994 (S.I. 1994/329)](https://www.legislation.gov.uk/uksi/1994/329), [regs. 1](https://www.legislation.gov.uk/uksi/1994/329/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/1994/329/regulation/7/3)
+[^c-002fa326e308e462ad88d3d5df4a3190]: Textual amendment: Words in [reg. 76](https://www.legislation.gov.uk/uksi/1986/1078/regulation/76) Table substituted (24.3.1994) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1994 (S.I. 1994/329)](https://www.legislation.gov.uk/uksi/1994/329), [regs. 1](https://www.legislation.gov.uk/uksi/1994/329/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/1994/329/regulation/7/3)
 
-[^key-91cdda06b64018f00e69d9487472230e]: Textual amendment: Words in [reg. 76](https://www.legislation.gov.uk/uksi/1986/1078/regulation/76) Table inserted (9.3.2015) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2015 (S.I. 2015/142)](https://www.legislation.gov.uk/uksi/2015/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/1/2), [21(1)](https://www.legislation.gov.uk/uksi/2015/142/regulation/21/1)
+[^c-91cdda06b64018f00e69d9487472230e]: Textual amendment: Words in [reg. 76](https://www.legislation.gov.uk/uksi/1986/1078/regulation/76) Table inserted (9.3.2015) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2015 (S.I. 2015/142)](https://www.legislation.gov.uk/uksi/2015/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/1/2), [21(1)](https://www.legislation.gov.uk/uksi/2015/142/regulation/21/1)
 
-[^key-8775ed11e114b1ecdc5e0c532c98b0e2]: Textual amendment: Words in [reg. 76](https://www.legislation.gov.uk/uksi/1986/1078/regulation/76) Table inserted (1.1.1993) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1992 (S.I. 1992/2016)](https://www.legislation.gov.uk/uksi/1992/2016), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2016/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/1992/2016/regulation/5/3/b)
+[^c-8775ed11e114b1ecdc5e0c532c98b0e2]: Textual amendment: Words in [reg. 76](https://www.legislation.gov.uk/uksi/1986/1078/regulation/76) Table inserted (1.1.1993) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1992 (S.I. 1992/2016)](https://www.legislation.gov.uk/uksi/1992/2016), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2016/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/1992/2016/regulation/5/3/b)
 
-[^key-c82aa73d8d69346a5b3beba0c7c3bd95]: Textual amendment: Word in [reg. 76](https://www.legislation.gov.uk/uksi/1986/1078/regulation/76) Table inserted (24.3.1994) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1994 (S.I. 1994/329)](https://www.legislation.gov.uk/uksi/1994/329), [regs. 1](https://www.legislation.gov.uk/uksi/1994/329/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/1994/329/regulation/7/4)
+[^c-c82aa73d8d69346a5b3beba0c7c3bd95]: Textual amendment: Word in [reg. 76](https://www.legislation.gov.uk/uksi/1986/1078/regulation/76) Table inserted (24.3.1994) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1994 (S.I. 1994/329)](https://www.legislation.gov.uk/uksi/1994/329), [regs. 1](https://www.legislation.gov.uk/uksi/1994/329/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/1994/329/regulation/7/4)
 
-[^key-0eca78723585cbe1e1f589cbcb92d089]: Textual amendment: Words in [reg. 76](https://www.legislation.gov.uk/uksi/1986/1078/regulation/76) Table substituted (9.3.2015) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2015 (S.I. 2015/142)](https://www.legislation.gov.uk/uksi/2015/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/21/2)
+[^c-0eca78723585cbe1e1f589cbcb92d089]: Textual amendment: Words in [reg. 76](https://www.legislation.gov.uk/uksi/1986/1078/regulation/76) Table substituted (9.3.2015) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2015 (S.I. 2015/142)](https://www.legislation.gov.uk/uksi/2015/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/21/2)

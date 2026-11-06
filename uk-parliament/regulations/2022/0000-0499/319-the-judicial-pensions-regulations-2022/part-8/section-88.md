@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Eligibility for eligible child’s pension[^key-3affff409677f3791c1df3d6634d9d23]
+## 88. Eligibility for eligible child’s pension[^c-3affff409677f3791c1df3d6634d9d23]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3affff409677f3791c1df3d6634d9d23]: Commencement: Reg. 88 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-3affff409677f3791c1df3d6634d9d23]: Commencement: Reg. 88 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

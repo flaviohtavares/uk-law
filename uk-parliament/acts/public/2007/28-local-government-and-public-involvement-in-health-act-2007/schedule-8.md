@@ -24,9 +24,9 @@ Section 144
 
 ### Part 1 — Part 1 of Local Government Act 1999
 
-**1.**[^key-4476fd8b3502ec6b5d56d11d405b616c] Part 1 of the Local Government Act 1999 (c. 27) (best value authorities) is amended in accordance with this Part of this Schedule.
+**1.**[^c-4476fd8b3502ec6b5d56d11d405b616c] Part 1 of the Local Government Act 1999 (c. 27) (best value authorities) is amended in accordance with this Part of this Schedule.
 
-**2.**[^key-6d9b915780cf633e2680cf24863a118a] (1) Section 1 (best value authorities) is amended as follows.
+**2.**[^c-6d9b915780cf633e2680cf24863a118a] (1) Section 1 (best value authorities) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -59,7 +59,7 @@ Section 144
 
 (7) Omit subsection (8) (exclusion of police authorities from certain provisions).
 
-**3.**[^key-d9db151d9e0723f008dc5439980eb3b3] (1) Section 2 (power to extend or disapply) is amended as follows.
+**3.**[^c-d9db151d9e0723f008dc5439980eb3b3] (1) Section 2 (power to extend or disapply) is amended as follows.
 
 (2) In the title, at the end insert “ : Secretary of State ”.
 
@@ -76,7 +76,7 @@ Section 144
 
 > (5A) Subsection (5) does not apply in relation to a Welsh best value authority.
 
-**4.**[^key-2c6967fef66596a5bb87892f0aa1b1ff] (1) Section 2A (power of National Assembly for Wales to extend or disapply best value duties) is amended as follows.
+**4.**[^c-2c6967fef66596a5bb87892f0aa1b1ff] (1) Section 2A (power of National Assembly for Wales to extend or disapply best value duties) is amended as follows.
 
 (2) In the title, for “best value authorities in Wales” substitute “ Welsh Ministers ”.
 
@@ -89,9 +89,9 @@ Section 144
 - (a) in paragraph (a), at the end insert “ in respect of which the county council or charging authority referred to in section 74(1)(b) of that Act was a council or authority for an area in Wales ”;
 - (b) in paragraph (b), at the end insert “ and which as regards the financial year beginning in 1989 had power to levy a rate by reference to property in Wales ”.
 
-**5.**[^key-58efdb64dd1ef0b9fae1d55b4c09830a] For the heading immediately preceding section 3 substitute “ *Duties: general* ”.
+**5.**[^c-58efdb64dd1ef0b9fae1d55b4c09830a] For the heading immediately preceding section 3 substitute “ *Duties: general* ”.
 
-**6.**[^key-8fb5e19494d3fa720ad291e1565c38d7] (1) Section 4 (performance indicators and standards) is amended as follows.
+**6.**[^c-8fb5e19494d3fa720ad291e1565c38d7] (1) Section 4 (performance indicators and standards) is amended as follows.
 
 (2) In subsections (1), (3) and (4) for “Secretary of State” substitute “ Welsh Ministers ”.
 
@@ -107,11 +107,11 @@ Section 144
 
 (5) Omit subsection (6) (definition of relevant audit authority).
 
-**7.**[^key-a3a7a89973ebe77fb77cb9dbaada8717] In section 6 (best value performance plans), in subsections (2), (3)(b) and (4) for “Secretary of State” substitute “ Welsh Ministers ”.
+**7.**[^c-a3a7a89973ebe77fb77cb9dbaada8717] In section 6 (best value performance plans), in subsections (2), (3)(b) and (4) for “Secretary of State” substitute “ Welsh Ministers ”.
 
-**8.**[^key-244092081ef6c04f5aaffbfeedef4ff3] In the heading immediately before section 7, at the end insert “ *: Welsh best value authorities* ”.
+**8.**[^c-244092081ef6c04f5aaffbfeedef4ff3] In the heading immediately before section 7, at the end insert “ *: Welsh best value authorities* ”.
 
-**9.**[^key-4caf753cd8e5b3d6d22036f27326852f] (1) Section 7 (audit of best value performance plans) is amended as follows.
+**9.**[^c-4caf753cd8e5b3d6d22036f27326852f] (1) Section 7 (audit of best value performance plans) is amended as follows.
 
 (2) In subsection (1), for “best value authority” substitute “ Welsh best value authority ”.
 
@@ -148,24 +148,24 @@ Section 144
 
 (11) Omit subsection (9) (application of section 3 of Audit Commission Act 1998 where auditor appointed by the Audit Commission).
 
-**10.**[^key-216b14ceeb6bac5b08e567c0f0b9c0de] Omit section 8 (Audit Commission's code of practice and fees).
+**10.**[^c-216b14ceeb6bac5b08e567c0f0b9c0de] Omit section 8 (Audit Commission's code of practice and fees).
 
-**11.**[^key-0bc5d225693d497663bd5da2a2e66fc2] In section 8A(5)—
+**11.**[^c-0bc5d225693d497663bd5da2a2e66fc2] In section 8A(5)—
 
 - (a) in paragraph (a), for “Assembly” substitute “ Welsh Ministers ”;
 - (b) in paragraph (b), for “best value authorities in Wales” substitute “ Welsh best value authorities ”.
 
-**12.**[^key-9b49e30ee25f4c99b937b44ead7ddf0d] In section 8B (auditor's duty in relation to codes) omit—
+**12.**[^c-9b49e30ee25f4c99b937b44ead7ddf0d] In section 8B (auditor's duty in relation to codes) omit—
 
 - (a) subsection (1) (auditors appointed by Audit Commission); and
 - (b) subsections (3) and (4) (transitional provision).
 
-**13.**[^key-64659bcb570674336e89693960904137] In section 9 (response to audit)—
+**13.**[^c-64659bcb570674336e89693960904137] In section 9 (response to audit)—
 
 - (a) in subsections (1) and (2) for “best value authority” substitute “ Welsh best value authority ”;
 - (b) in subsection (6) (in both places) for “Secretary of State” substitute “ Welsh Ministers ”.
 
-**14.**[^key-a8353def6d8aa165ae4773d70ca275b6] (1) Section 10 (best value inspections by Audit Commission) is amended as follows.
+**14.**[^c-a8353def6d8aa165ae4773d70ca275b6] (1) Section 10 (best value inspections by Audit Commission) is amended as follows.
 
 (2) In subsection (4), omit paragraph (a).
 
@@ -176,7 +176,7 @@ Section 144
 > - (a) a Welsh best value authority, or
 > - (b) a police authority for a police area in Wales.
 
-**15.**[^key-7f01b31a45871cb82107e0de1d744e32] (1) Section 10A (best value inspections by Auditor General for Wales) is amended as follows.
+**15.**[^c-7f01b31a45871cb82107e0de1d744e32] (1) Section 10A (best value inspections by Auditor General for Wales) is amended as follows.
 
 (2) In subsection (1) for “a best value authority in Wales” substitute
 
@@ -187,15 +187,15 @@ Section 144
 
 (3) In subsection (2) for “specified best value authority in Wales” substitute “ specified authority mentioned in subsection (1) ”.
 
-**16.**[^key-730734c7e0ccee44e35c7ff64f7eb1de] In section 11 (inspectors' powers and duties), in subsection (4)(b) omit “must”.
+**16.**[^c-730734c7e0ccee44e35c7ff64f7eb1de] In section 11 (inspectors' powers and duties), in subsection (4)(b) omit “must”.
 
-**17.**[^key-4143d4fe9f132ee7eb2abc5991a87f55] In section 12A(4)(b) (consultation about fees for inspections by Auditor General for Wales) for “best value authorities in Wales” substitute “ best value authorities which may be inspected under section 10A ”.
+**17.**[^c-4143d4fe9f132ee7eb2abc5991a87f55] In section 12A(4)(b) (consultation about fees for inspections by Auditor General for Wales) for “best value authorities in Wales” substitute “ best value authorities which may be inspected under section 10A ”.
 
-**18.**[^key-1433cf8f37531776d59c66a37af2bc8d] In section 13 (reports by Audit Commission) omit subsection (5) (performance plans to record failure to comply with Part 1).
+**18.**[^c-1433cf8f37531776d59c66a37af2bc8d] In section 13 (reports by Audit Commission) omit subsection (5) (performance plans to record failure to comply with Part 1).
 
-**19.**[^key-fd8bb5f482a311f632de952ad622fb38] In section 13A (reports by Auditor General for Wales), in subsection (5) (performance plans to record failure to comply with Part 1), for “an authority” substitute “ a Welsh best value authority ”.
+**19.**[^c-fd8bb5f482a311f632de952ad622fb38] In section 13A (reports by Auditor General for Wales), in subsection (5) (performance plans to record failure to comply with Part 1), for “an authority” substitute “ a Welsh best value authority ”.
 
-**20.**[^key-0373f0071889d49e2969117918872706] In section 15(2) (Secretary of State's powers)—
+**20.**[^c-0373f0071889d49e2969117918872706] In section 15(2) (Secretary of State's powers)—
 
 - (a) for the words from “direct it” to the end of paragraph (b) substitute—
 
@@ -204,7 +204,7 @@ Section 144
   ;
 - (b) in paragraph (c), at the beginning insert “ in the case of any best value authority, direct it ”.
 
-**21.**[^key-1e098708fa16341b4680d1ab89887541] (1) Section 23 (accounts) is amended as follows.
+**21.**[^c-1e098708fa16341b4680d1ab89887541] (1) Section 23 (accounts) is amended as follows.
 
 (2) In subsection (4), in paragraph (za), for “best value authorities in Wales” substitute “ Welsh best value authorities or police authorities for police areas in Wales ”.
 
@@ -214,7 +214,7 @@ Section 144
 
 > (7) In subsection (6), “**auditor**” means an auditor appointed by the Audit Commission or the Auditor General for Wales to audit the best value authority's accounts.
 
-**22.**[^key-6e926acf6b4f70aec0527cfe9bfd626d] (1) Section 29 (modification for Wales) is amended as follows.
+**22.**[^c-6e926acf6b4f70aec0527cfe9bfd626d] (1) Section 29 (modification for Wales) is amended as follows.
 
 (2) For subsections (1) and (2) substitute—
 
@@ -237,11 +237,11 @@ Section 144
 
 #### Housing Associations Act 1985 (c. 69)
 
-**23.**[^key-b12881fc2e9a516aba8cfe2cdf804bbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-b12881fc2e9a516aba8cfe2cdf804bbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Railways and Transport Safety Act 2003 (c. 20)
 
-**24.**[^key-ec532f0da334516708bc5db7d707d200] In section 54 of the Railways and Transport Safety Act 2003 (performance directions), for subsection (1) substitute—
+**24.**[^c-ec532f0da334516708bc5db7d707d200] In section 54 of the Railways and Transport Safety Act 2003 (performance directions), for subsection (1) substitute—
 
 > (1) The Secretary of State may give a direction to the Authority—
 >
@@ -263,7 +263,7 @@ Section 144
 
 #### Local Government Act 2003 (c. 26)
 
-**25.**[^key-c2e6ae8c9258d8b29470ed0242dbba3c] (1) The Local Government Act 2003 is amended as follows.
+**25.**[^c-c2e6ae8c9258d8b29470ed0242dbba3c] (1) The Local Government Act 2003 is amended as follows.
 
 (2) In section 36(1) (grants in connection with designation for service excellence), for “subject to any of the duties in sections 3 to 6 of the Local Government Act 1999 (best value duties)” substitute “ which, in relation to any of its functions, is subject to the duty in section 3(1) of the Local Government Act 1999 (best value duty) ”.
 
@@ -275,7 +275,7 @@ Section 144
 
 #### Fire and Rescue Services Act 2004 (c. 21)
 
-**26.**[^key-1f439c3e8f7d314c956bce10c79fedef] (1) Section 24 of the Fire and Rescue Services Act 2004 (inspection of compliance with obligation to have regard to Fire and Rescue National Framework) is amended as follows.
+**26.**[^c-1f439c3e8f7d314c956bce10c79fedef] (1) Section 24 of the Fire and Rescue Services Act 2004 (inspection of compliance with obligation to have regard to Fire and Rescue National Framework) is amended as follows.
 
 (2) In subsection (1), for “13” substitute “ 13A ”.
 
@@ -283,60 +283,60 @@ Section 144
 
 #### Public Audit (Wales) Act 2004 (c. 23)
 
-**27.**[^key-4b887a5fb65e6f7e29b0ddb5bdbe8200] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-4b887a5fb65e6f7e29b0ddb5bdbe8200] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4476fd8b3502ec6b5d56d11d405b616c]: Commencement: Sch. 8 para. 1 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
+[^c-4476fd8b3502ec6b5d56d11d405b616c]: Commencement: Sch. 8 para. 1 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
 
-[^key-6d9b915780cf633e2680cf24863a118a]: Commencement: Sch. 8 para. 2 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
+[^c-6d9b915780cf633e2680cf24863a118a]: Commencement: Sch. 8 para. 2 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
 
-[^key-d9db151d9e0723f008dc5439980eb3b3]: Commencement: Sch. 8 para. 3 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
+[^c-d9db151d9e0723f008dc5439980eb3b3]: Commencement: Sch. 8 para. 3 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
 
-[^key-2c6967fef66596a5bb87892f0aa1b1ff]: Commencement: Sch. 8 para. 4 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
+[^c-2c6967fef66596a5bb87892f0aa1b1ff]: Commencement: Sch. 8 para. 4 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
 
-[^key-58efdb64dd1ef0b9fae1d55b4c09830a]: Commencement: Sch. 8 para. 5 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
+[^c-58efdb64dd1ef0b9fae1d55b4c09830a]: Commencement: Sch. 8 para. 5 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
 
-[^key-8fb5e19494d3fa720ad291e1565c38d7]: Commencement: Sch. 8 para. 6 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
+[^c-8fb5e19494d3fa720ad291e1565c38d7]: Commencement: Sch. 8 para. 6 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
 
-[^key-a3a7a89973ebe77fb77cb9dbaada8717]: Commencement: Sch. 8 para. 7 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
+[^c-a3a7a89973ebe77fb77cb9dbaada8717]: Commencement: Sch. 8 para. 7 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
 
-[^key-244092081ef6c04f5aaffbfeedef4ff3]: Commencement: Sch. 8 para. 8 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
+[^c-244092081ef6c04f5aaffbfeedef4ff3]: Commencement: Sch. 8 para. 8 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
 
-[^key-4caf753cd8e5b3d6d22036f27326852f]: Commencement: Sch. 8 para. 9 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
+[^c-4caf753cd8e5b3d6d22036f27326852f]: Commencement: Sch. 8 para. 9 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
 
-[^key-216b14ceeb6bac5b08e567c0f0b9c0de]: Commencement: Sch. 8 para. 10 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
+[^c-216b14ceeb6bac5b08e567c0f0b9c0de]: Commencement: Sch. 8 para. 10 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
 
-[^key-0bc5d225693d497663bd5da2a2e66fc2]: Commencement: Sch. 8 para. 11 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
+[^c-0bc5d225693d497663bd5da2a2e66fc2]: Commencement: Sch. 8 para. 11 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
 
-[^key-9b49e30ee25f4c99b937b44ead7ddf0d]: Commencement: Sch. 8 para. 12 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
+[^c-9b49e30ee25f4c99b937b44ead7ddf0d]: Commencement: Sch. 8 para. 12 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
 
-[^key-64659bcb570674336e89693960904137]: Commencement: Sch. 8 para. 13 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
+[^c-64659bcb570674336e89693960904137]: Commencement: Sch. 8 para. 13 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
 
-[^key-a8353def6d8aa165ae4773d70ca275b6]: Commencement: Sch. 8 para. 14 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
+[^c-a8353def6d8aa165ae4773d70ca275b6]: Commencement: Sch. 8 para. 14 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
 
-[^key-7f01b31a45871cb82107e0de1d744e32]: Commencement: Sch. 8 para. 15 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
+[^c-7f01b31a45871cb82107e0de1d744e32]: Commencement: Sch. 8 para. 15 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
 
-[^key-730734c7e0ccee44e35c7ff64f7eb1de]: Commencement: Sch. 8 para. 16 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
+[^c-730734c7e0ccee44e35c7ff64f7eb1de]: Commencement: Sch. 8 para. 16 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
 
-[^key-4143d4fe9f132ee7eb2abc5991a87f55]: Commencement: Sch. 8 para. 17 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
+[^c-4143d4fe9f132ee7eb2abc5991a87f55]: Commencement: Sch. 8 para. 17 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
 
-[^key-1433cf8f37531776d59c66a37af2bc8d]: Commencement: Sch. 8 para. 18 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
+[^c-1433cf8f37531776d59c66a37af2bc8d]: Commencement: Sch. 8 para. 18 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
 
-[^key-fd8bb5f482a311f632de952ad622fb38]: Commencement: Sch. 8 para. 19 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
+[^c-fd8bb5f482a311f632de952ad622fb38]: Commencement: Sch. 8 para. 19 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
 
-[^key-0373f0071889d49e2969117918872706]: Commencement: Sch. 8 para. 20 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
+[^c-0373f0071889d49e2969117918872706]: Commencement: Sch. 8 para. 20 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
 
-[^key-1e098708fa16341b4680d1ab89887541]: Commencement: Sch. 8 para. 21 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
+[^c-1e098708fa16341b4680d1ab89887541]: Commencement: Sch. 8 para. 21 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
 
-[^key-6e926acf6b4f70aec0527cfe9bfd626d]: Commencement: Sch. 8 para. 22 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
+[^c-6e926acf6b4f70aec0527cfe9bfd626d]: Commencement: Sch. 8 para. 22 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
 
-[^key-b12881fc2e9a516aba8cfe2cdf804bbd]: Textual amendment: Sch. 8 para. 23 repealed (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-b12881fc2e9a516aba8cfe2cdf804bbd]: Textual amendment: Sch. 8 para. 23 repealed (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
 
-[^key-ec532f0da334516708bc5db7d707d200]: Commencement: Sch. 8 para. 24 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
+[^c-ec532f0da334516708bc5db7d707d200]: Commencement: Sch. 8 para. 24 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
 
-[^key-c2e6ae8c9258d8b29470ed0242dbba3c]: Commencement: Sch. 8 para. 25 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
+[^c-c2e6ae8c9258d8b29470ed0242dbba3c]: Commencement: Sch. 8 para. 25 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
 
-[^key-1f439c3e8f7d314c956bce10c79fedef]: Commencement: Sch. 8 para. 26 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
+[^c-1f439c3e8f7d314c956bce10c79fedef]: Commencement: Sch. 8 para. 26 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
 
-[^key-4b887a5fb65e6f7e29b0ddb5bdbe8200]: Textual amendment: Sch. 8 para. 27 omitted (1.4.2021) by virtue of [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296)](https://www.legislation.gov.uk/wsi/2021/296), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2021/296/regulation/7)
+[^c-4b887a5fb65e6f7e29b0ddb5bdbe8200]: Textual amendment: Sch. 8 para. 27 omitted (1.4.2021) by virtue of [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296)](https://www.legislation.gov.uk/wsi/2021/296), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2021/296/regulation/7)

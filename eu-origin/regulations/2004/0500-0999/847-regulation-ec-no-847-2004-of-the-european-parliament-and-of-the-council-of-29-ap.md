@@ -33,50 +33,50 @@ of 29 April 2004
 
 on the negotiation and implementation of air service agreements between Member States and third countries (revoked)
 
-[^key-cc9e3aafc16d4df30e09807d3dc6cfe0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc9e3aafc16d4df30e09807d3dc6cfe0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Notification to the Commission[^key-cc9e3aafc16d4df30e09807d3dc6cfe0]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Consultation of stakeholders and participation in negotiations[^key-cc9e3aafc16d4df30e09807d3dc6cfe0]
+## Article 1. Notification to the Commission[^c-cc9e3aafc16d4df30e09807d3dc6cfe0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Prohibition on introducing more restrictive arrangements[^key-cc9e3aafc16d4df30e09807d3dc6cfe0]
+## Article 2. Consultation of stakeholders and participation in negotiations[^c-cc9e3aafc16d4df30e09807d3dc6cfe0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Conclusion of agreements[^key-cc9e3aafc16d4df30e09807d3dc6cfe0]
+## Article 3. Prohibition on introducing more restrictive arrangements[^c-cc9e3aafc16d4df30e09807d3dc6cfe0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Distribution of traffic rights[^key-cc9e3aafc16d4df30e09807d3dc6cfe0]
+## Article 4. Conclusion of agreements[^c-cc9e3aafc16d4df30e09807d3dc6cfe0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Publication of procedures[^key-cc9e3aafc16d4df30e09807d3dc6cfe0]
+## Article 5. Distribution of traffic rights[^c-cc9e3aafc16d4df30e09807d3dc6cfe0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Committee procedure[^key-cc9e3aafc16d4df30e09807d3dc6cfe0]
+## Article 6. Publication of procedures[^c-cc9e3aafc16d4df30e09807d3dc6cfe0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Confidentiality[^key-cc9e3aafc16d4df30e09807d3dc6cfe0]
+## Article 7. Committee procedure[^c-cc9e3aafc16d4df30e09807d3dc6cfe0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Gibraltar[^key-cc9e3aafc16d4df30e09807d3dc6cfe0]
+## Article 8. Confidentiality[^c-cc9e3aafc16d4df30e09807d3dc6cfe0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Entry into force[^key-cc9e3aafc16d4df30e09807d3dc6cfe0]
+## Article 9. Gibraltar[^c-cc9e3aafc16d4df30e09807d3dc6cfe0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cc9e3aafc16d4df30e09807d3dc6cfe0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 10. Entry into force[^c-cc9e3aafc16d4df30e09807d3dc6cfe0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-cc9e3aafc16d4df30e09807d3dc6cfe0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cc9e3aafc16d4df30e09807d3dc6cfe0]: Textual amendment: Regulation revoked (31.12.2020) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2018/1392/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cc9e3aafc16d4df30e09807d3dc6cfe0]: Textual amendment: Regulation revoked (31.12.2020) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2018/1392/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

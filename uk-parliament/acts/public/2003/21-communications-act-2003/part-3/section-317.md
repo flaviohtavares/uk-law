@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 317. Exercise of Broadcasting Act powers for a competition purpose[^key-0736d9986cb9646c068a6f4211257fe0]
+## 317. Exercise of Broadcasting Act powers for a competition purpose[^c-0736d9986cb9646c068a6f4211257fe0]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 
 (6) A person affected by a decision by OFCOM to exercise any of their Broadcasting Act powers for a competition purpose may appeal to the Competition Appeal Tribunal against so much of that decision as relates to the exercise of that power for that purpose.
 
-(7)[^key-3fbe82858fa10c769e1f7aec7ec5ecaa] Sections 192(3) to (5), (7) and (8), 194A and 196 apply in the case of an appeal under subsection (6) as they apply in the case of an appeal under section 192(2).
+(7)[^c-3fbe82858fa10c769e1f7aec7ec5ecaa] Sections 192(3) to (5), (7) and (8), 194A and 196 apply in the case of an appeal under subsection (6) as they apply in the case of an appeal under section 192(2).
 
 (8) The jurisdiction of the Competition Appeal Tribunal on an appeal under subsection (6) excludes—
 
@@ -68,6 +68,6 @@ which OFCOM consider, or would consider, to be prejudicial to fair and effective
 
 ## Annotations
 
-[^key-0736d9986cb9646c068a6f4211257fe0]: Commencement: S. 317 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-0736d9986cb9646c068a6f4211257fe0]: Commencement: S. 317 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-3fbe82858fa10c769e1f7aec7ec5ecaa]: Textual amendment: S. 317(7) substituted (31.7.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 87(11)](https://www.legislation.gov.uk/ukpga/2017/30/section/87/11), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6) (with [s. 87(12)](https://www.legislation.gov.uk/ukpga/2017/30/section/87/12)); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/w)
+[^c-3fbe82858fa10c769e1f7aec7ec5ecaa]: Textual amendment: S. 317(7) substituted (31.7.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 87(11)](https://www.legislation.gov.uk/ukpga/2017/30/section/87/11), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6) (with [s. 87(12)](https://www.legislation.gov.uk/ukpga/2017/30/section/87/12)); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/w)

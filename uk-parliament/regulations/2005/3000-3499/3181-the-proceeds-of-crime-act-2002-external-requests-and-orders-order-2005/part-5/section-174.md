@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Exclusion of property which is not recoverable etc. under interim administration order[^key-3e71afe1b4c1fcf670aee69d53d239c7]
+## 174. Exclusion of property which is not recoverable etc. under interim administration order[^c-3e71afe1b4c1fcf670aee69d53d239c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e71afe1b4c1fcf670aee69d53d239c7]: Commencement: [Art. 174](https://www.legislation.gov.uk/uksi/2005/3181/article/174) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-3e71afe1b4c1fcf670aee69d53d239c7]: Commencement: [Art. 174](https://www.legislation.gov.uk/uksi/2005/3181/article/174) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Application of the subsidy control principles[^key-b59d281a77cd2566227059879ad67696][^key-24bb9e2655643699be9d00a5b838b21f]
+## 12. Application of the subsidy control principles[^c-b59d281a77cd2566227059879ad67696][^c-24bb9e2655643699be9d00a5b838b21f]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b59d281a77cd2566227059879ad67696]: Commencement: S. 12 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-b59d281a77cd2566227059879ad67696]: Commencement: S. 12 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-24bb9e2655643699be9d00a5b838b21f]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2022/23/section/12) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-24bb9e2655643699be9d00a5b838b21f]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2022/23/section/12) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

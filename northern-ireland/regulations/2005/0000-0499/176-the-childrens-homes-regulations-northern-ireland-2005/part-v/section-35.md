@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Financial position[^key-327c7501e0195ebcf4e2c59189a4e7d9]
+## 35. Financial position[^c-327c7501e0195ebcf4e2c59189a4e7d9]
 
 *Extent: N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) The registered person shall –
 
 - (a) ensure that adequate accounts are maintained and kept up to date in respect of a children’s home;
-- (b) supply a copy of the accounts to the RQIA[^key-4ca5e5950155e725f54604a422e453f9] at its request.
+- (b) supply a copy of the accounts to the RQIA[^c-4ca5e5950155e725f54604a422e453f9] at its request.
 
 (3) The registered person shall provide the RQIA with such information as it may require for the purpose of considering the financial viability of the children’s home, including –
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-327c7501e0195ebcf4e2c59189a4e7d9]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2005/176/regulation/35) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-327c7501e0195ebcf4e2c59189a4e7d9]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2005/176/regulation/35) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
 
-[^key-4ca5e5950155e725f54604a422e453f9]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-4ca5e5950155e725f54604a422e453f9]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))

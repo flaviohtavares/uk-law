@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83B. Duties of Welsh local authorities in relation to designated areas[^key-d7cfe45941e1be925f0c4bd4f5b43df1]
+## 83B. Duties of Welsh local authorities in relation to designated areas[^c-d7cfe45941e1be925f0c4bd4f5b43df1]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7cfe45941e1be925f0c4bd4f5b43df1]: Textual amendment: S. 83B inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 17(1)](https://www.legislation.gov.uk/asc/2024/2/section/17/1), [30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(b)](https://www.legislation.gov.uk/wsi/2025/937/article/2/b)
+[^c-d7cfe45941e1be925f0c4bd4f5b43df1]: Textual amendment: S. 83B inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 17(1)](https://www.legislation.gov.uk/asc/2024/2/section/17/1), [30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(b)](https://www.legislation.gov.uk/wsi/2025/937/article/2/b)

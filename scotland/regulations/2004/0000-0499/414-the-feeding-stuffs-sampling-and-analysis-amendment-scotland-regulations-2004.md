@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Feeding Stuffs (Sampling and Analysis) Amendment (Scotland) Regulations 2004 (revoked)[^key-fc69d0e1e18f1b760e196f0590675be3]
+The Feeding Stuffs (Sampling and Analysis) Amendment (Scotland) Regulations 2004 (revoked)[^c-fc69d0e1e18f1b760e196f0590675be3]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 1st November 2004
 
-[^key-fc69d0e1e18f1b760e196f0590675be3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc69d0e1e18f1b760e196f0590675be3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-fc69d0e1e18f1b760e196f0590675be3]
+## 1. Citation, commencement and extent[^c-fc69d0e1e18f1b760e196f0590675be3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Feeding Stuffs (Sampling and Analysis) Regulations 1999[^key-fc69d0e1e18f1b760e196f0590675be3]
+## 2. Amendment to the Feeding Stuffs (Sampling and Analysis) Regulations 1999[^c-fc69d0e1e18f1b760e196f0590675be3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fc69d0e1e18f1b760e196f0590675be3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc69d0e1e18f1b760e196f0590675be3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fc69d0e1e18f1b760e196f0590675be3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc69d0e1e18f1b760e196f0590675be3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fc69d0e1e18f1b760e196f0590675be3]: Textual amendment: Regulations revoked (15.11.2010) by [The Feed (Sampling and Analysis and Specified Undesirable Substances) (Scotland) Regulations 2010 (S.S.I. 2010/354)](https://www.legislation.gov.uk/ssi/2010/354), [regs. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1), [24(e)](https://www.legislation.gov.uk/ssi/2010/354/regulation/24/e)
+[^c-fc69d0e1e18f1b760e196f0590675be3]: Textual amendment: Regulations revoked (15.11.2010) by [The Feed (Sampling and Analysis and Specified Undesirable Substances) (Scotland) Regulations 2010 (S.S.I. 2010/354)](https://www.legislation.gov.uk/ssi/2010/354), [regs. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1), [24(e)](https://www.legislation.gov.uk/ssi/2010/354/regulation/24/e)

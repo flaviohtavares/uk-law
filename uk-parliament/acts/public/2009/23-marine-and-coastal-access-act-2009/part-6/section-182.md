@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 182. Exemption from liability[^key-d0b5e5dc842f7abf2cbf8fcada192464]
+## 182. Exemption from liability[^c-d0b5e5dc842f7abf2cbf8fcada192464]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0b5e5dc842f7abf2cbf8fcada192464]: Commencement: [S. 182](https://www.legislation.gov.uk/ukpga/2009/23/section/182) in force at 1.10.2010 by [S.I. 2010/2195](https://www.legislation.gov.uk/uksi/2010/2195), [art. 3(2)(j)](https://www.legislation.gov.uk/uksi/2010/2195/article/3/2/j)
+[^c-d0b5e5dc842f7abf2cbf8fcada192464]: Commencement: [S. 182](https://www.legislation.gov.uk/ukpga/2009/23/section/182) in force at 1.10.2010 by [S.I. 2010/2195](https://www.legislation.gov.uk/uksi/2010/2195), [art. 3(2)(j)](https://www.legislation.gov.uk/uksi/2010/2195/article/3/2/j)

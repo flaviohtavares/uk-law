@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Taking of dead salmon or trout[^key-8a550e0bc325aa481ded33adb36e167f]
+## 8. Taking of dead salmon or trout[^c-8a550e0bc325aa481ded33adb36e167f]
 
 *Extent: S*
 
-(1) [^key-87c4adc4db30516afc3caea30f70aec8]... any person other than—
+(1) [^c-87c4adc4db30516afc3caea30f70aec8]... any person other than—
 
 - (a) a constable or a water bailiff in the exercise of their respective duties;
 - (b) a person authorised in that regard by the Scottish Ministers or a district salmon fishery board; or
@@ -32,6 +32,6 @@ who takes or removes dead salmon or trout from any waters, including any part of
 
 ## Annotations
 
-[^key-8a550e0bc325aa481ded33adb36e167f]: Commencement: S. 8 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-8a550e0bc325aa481ded33adb36e167f]: Commencement: S. 8 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
-[^key-87c4adc4db30516afc3caea30f70aec8]: Textual amendment: Words in [s. 8(1)](https://www.legislation.gov.uk/asp/2003/15/section/8/1) omitted (27.3.2009) by virtue of [Aquatic Animal Health (Scotland) Regulations 2009 (S.S.I. 2009/85)](https://www.legislation.gov.uk/ssi/2009/85), [reg. 1(2)(c)](https://www.legislation.gov.uk/ssi/2009/85/regulation/1/2/c), [Sch. 2 para. 10(a)](https://www.legislation.gov.uk/ssi/2009/85/schedule/2/paragraph/10/a) (with [reg. 2.](https://www.legislation.gov.uk/ssi/2009/85/regulation/2.))
+[^c-87c4adc4db30516afc3caea30f70aec8]: Textual amendment: Words in [s. 8(1)](https://www.legislation.gov.uk/asp/2003/15/section/8/1) omitted (27.3.2009) by virtue of [Aquatic Animal Health (Scotland) Regulations 2009 (S.S.I. 2009/85)](https://www.legislation.gov.uk/ssi/2009/85), [reg. 1(2)(c)](https://www.legislation.gov.uk/ssi/2009/85/regulation/1/2/c), [Sch. 2 para. 10(a)](https://www.legislation.gov.uk/ssi/2009/85/schedule/2/paragraph/10/a) (with [reg. 2.](https://www.legislation.gov.uk/ssi/2009/85/regulation/2.))

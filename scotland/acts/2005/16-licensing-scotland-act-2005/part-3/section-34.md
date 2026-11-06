@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Transfer on application of person other than licence holder[^key-d24d574a273eaf8063d0127b4f4bcc05]
+## 34. Transfer on application of person other than licence holder[^c-d24d574a273eaf8063d0127b4f4bcc05]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d24d574a273eaf8063d0127b4f4bcc05]: Commencement: S. 34 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-d24d574a273eaf8063d0127b4f4bcc05]: Commencement: S. 34 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)

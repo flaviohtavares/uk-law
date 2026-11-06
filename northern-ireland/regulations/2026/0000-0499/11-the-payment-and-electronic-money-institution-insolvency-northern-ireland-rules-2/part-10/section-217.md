@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 217. Application of Chapter 8[^key-8a5d8aaec796858439177d76cab5cb75]
+## 217. Application of Chapter 8[^c-8a5d8aaec796858439177d76cab5cb75]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8a5d8aaec796858439177d76cab5cb75]: Commencement: [Rule 217](https://www.legislation.gov.uk/nisr/2026/11/rule/217) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-8a5d8aaec796858439177d76cab5cb75]: Commencement: [Rule 217](https://www.legislation.gov.uk/nisr/2026/11/rule/217) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
 
 [^f00019]: Footnote: [1986 No. 596](https://www.legislation.gov.uk/uksi/1986/596).

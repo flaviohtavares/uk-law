@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Sustainable development and protection and enhancement of the health of the Scottish marine area[^key-c5bb6515fda6e0730b4f2f13cb0a8ff9]
+## 3. Sustainable development and protection and enhancement of the health of the Scottish marine area[^c-c5bb6515fda6e0730b4f2f13cb0a8ff9]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ must act in the way best calculated to further the achievement of sustainable de
 
 ## Annotations
 
-[^key-c5bb6515fda6e0730b4f2f13cb0a8ff9]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2010/5/section/3) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)
+[^c-c5bb6515fda6e0730b4f2f13cb0a8ff9]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2010/5/section/3) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)

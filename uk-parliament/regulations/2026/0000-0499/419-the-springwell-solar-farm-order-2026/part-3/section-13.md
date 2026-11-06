@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Temporary prohibition or restriction on use of streets and public rights of way[^key-44698a551ed4739dd348535ffd416b83]
+## 13. Temporary prohibition or restriction on use of streets and public rights of way[^c-44698a551ed4739dd348535ffd416b83]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44698a551ed4739dd348535ffd416b83]: Commencement: Art. 13 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-44698a551ed4739dd348535ffd416b83]: Commencement: Art. 13 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)

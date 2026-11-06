@@ -150,7 +150,7 @@ Solicitors (Scotland) Act 1980
 
 - [Section 34 — Rules as to professional practice, conduct and discipline.](part-iii/section-34.md)
 
-#### Accounts rules and fees[^key-edaa5ccf14818b0811f0edabb9d7119f]
+#### Accounts rules and fees[^c-edaa5ccf14818b0811f0edabb9d7119f]
 
 *Extent: S*
 
@@ -277,4 +277,4 @@ SCHEDULES
 
 [^c8119531]: Textual amendment: Cross-heading and ss. 24A - 24G and inserted (22.5.2000) by [S.S.I. 2000/121](https://www.legislation.gov.uk/ssi/2000/121), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2000/121/regulation/1/1), [37(1)](https://www.legislation.gov.uk/ssi/2000/121/regulation/37/1), [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/ssi/2000/121/schedule/1/paragraph/1/3)
 
-[^key-edaa5ccf14818b0811f0edabb9d7119f]: Textual amendment: Words in [s. 35 cross-heading](https://www.legislation.gov.uk/ukpga/1980/46/part/III/crossheading/accounts-rules) inserted (18.1.2018) by [The Oversight of Professional Body Anti-Money Laundering and Counter Terrorist Financing Supervision Regulations 2017 (S.I. 2017/1301)](https://www.legislation.gov.uk/uksi/2017/1301), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1301/regulation/1/1), [28(2)](https://www.legislation.gov.uk/uksi/2017/1301/regulation/28/2)
+[^c-edaa5ccf14818b0811f0edabb9d7119f]: Textual amendment: Words in [s. 35 cross-heading](https://www.legislation.gov.uk/ukpga/1980/46/part/III/crossheading/accounts-rules) inserted (18.1.2018) by [The Oversight of Professional Body Anti-Money Laundering and Counter Terrorist Financing Supervision Regulations 2017 (S.I. 2017/1301)](https://www.legislation.gov.uk/uksi/2017/1301), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1301/regulation/1/1), [28(2)](https://www.legislation.gov.uk/uksi/2017/1301/regulation/28/2)

@@ -42,7 +42,7 @@ The Department for Communities[^f00001] makes the following Regulations in exerc
 
 The powers under the Welfare Reform (Northern Ireland) Order 2015 are exercisable by the Department for Communities by virtue of Article 2 of the Welfare Reform (Northern Ireland) Order 2015 (Cessation of Transitory Provision) Order 2020[^f00008].
 
-## 1. Citation and commencement[^key-24fa7964c94ae73c2394cbf602e65638]
+## 1. Citation and commencement[^c-24fa7964c94ae73c2394cbf602e65638]
 
 (1) These Regulations may be cited as the Social Security and Universal Credit (Migration of Tax Credit Claimants and Miscellaneous Amendments) Regulations (Northern Ireland) 2024.
 
@@ -54,7 +54,7 @@ The powers under the Welfare Reform (Northern Ireland) Order 2015 are exercisabl
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00009], shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Income Support (General) Regulations[^key-2423e788fa0142cfd7abdeca18005dbc]
+## 2. Amendment of the Income Support (General) Regulations[^c-2423e788fa0142cfd7abdeca18005dbc]
 
 After regulation 66C of the Income Support (General) Regulations (Northern Ireland) 1987[^f00010] (treatment of fee loans) insert —
 
@@ -64,7 +64,7 @@ After regulation 66C of the Income Support (General) Regulations (Northern Irela
 
 .
 
-## 3. Amendment of the Jobseeker’s Allowance Regulations[^key-9d4ec01bd63bbe9e8ec772bbc727e192]
+## 3. Amendment of the Jobseeker’s Allowance Regulations[^c-9d4ec01bd63bbe9e8ec772bbc727e192]
 
 After regulation 136B of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00013] (treatment of fee loans) insert—
 
@@ -74,7 +74,7 @@ After regulation 136B of the Jobseeker’s Allowance Regulations (Northern Irela
 
 .
 
-## 4. Amendment of the Housing Benefit Regulations[^key-bb1847e057511e5ec680e7e7bcb12ebd]
+## 4. Amendment of the Housing Benefit Regulations[^c-bb1847e057511e5ec680e7e7bcb12ebd]
 
 After regulation 62 of the Housing Benefit Regulations (Northern Ireland) 2006[^f00014] (treatment of fee loans), insert—
 
@@ -84,7 +84,7 @@ After regulation 62 of the Housing Benefit Regulations (Northern Ireland) 2006[^
 
 .
 
-## 5. Amendment of the Employment and Support Allowance Regulations[^key-442d98daaee897a206f394c40b225083]
+## 5. Amendment of the Employment and Support Allowance Regulations[^c-442d98daaee897a206f394c40b225083]
 
 After regulation 139 of the Employment and Support Allowance Regulations (Northern Ireland) 2008[^f00015], (treatment of fee loans), insert—
 
@@ -94,7 +94,7 @@ After regulation 139 of the Employment and Support Allowance Regulations (Northe
 
 .
 
-## 6. Amendment of the Social Security (Payments on Account of Benefit) Regulations[^key-9ec3f21c114043a5ac93e5d89e0fd4c2]
+## 6. Amendment of the Social Security (Payments on Account of Benefit) Regulations[^c-9ec3f21c114043a5ac93e5d89e0fd4c2]
 
 (1) The Social Security (Payments on Account of Benefit) Regulations (Northern Ireland) 2016[^f00016], are amended in accordance with paragraph (2).
 
@@ -108,7 +108,7 @@ After regulation 139 of the Employment and Support Allowance Regulations (Northe
 
   .
 
-## 7. Amendment of the Universal Credit Regulations[^key-55d7689c47c9edf22f15460aa241530e]
+## 7. Amendment of the Universal Credit Regulations[^c-55d7689c47c9edf22f15460aa241530e]
 
 (1) The Universal Credit Regulations (Northern Ireland) 2016[^f00017] are amended as follows.
 
@@ -127,23 +127,23 @@ After regulation 139 of the Employment and Support Allowance Regulations (Northe
 
 .
 
-## 8. Amendment of the Universal Credit (Transitional Provisions) Regulations[^key-0036f8d2e091b91b94589788f3696613][^key-3c0a58fef7dcbc4d236fb03c2288a8e7][^key-c89cc3a2e6c7b59cc86d8ad6309f3cda]
+## 8. Amendment of the Universal Credit (Transitional Provisions) Regulations[^c-0036f8d2e091b91b94589788f3696613][^c-3c0a58fef7dcbc4d236fb03c2288a8e7][^c-c89cc3a2e6c7b59cc86d8ad6309f3cda]
 
-(1)[^key-0036f8d2e091b91b94589788f3696613] The Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016[^f00019], are amended as follows.
+(1)[^c-0036f8d2e091b91b94589788f3696613] The Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016[^f00019], are amended as follows.
 
-(2)[^key-3c0a58fef7dcbc4d236fb03c2288a8e7] In regulation 4A (restrictions on claims for housing benefit, income support or a tax credit)—
+(2)[^c-3c0a58fef7dcbc4d236fb03c2288a8e7] In regulation 4A (restrictions on claims for housing benefit, income support or a tax credit)—
 
 - (a) in paragraph (1), for “(7)” substitute “(5)”;
 - (b) omit paragraph (6);
 - (c) omit paragraph (7);
 - (d) in paragraph (8), omit the words after sub-paragraph (b).
 
-(3)[^key-c89cc3a2e6c7b59cc86d8ad6309f3cda] In regulation 11(1) (modification of tax credits legislation: finalisation of tax credits)—
+(3)[^c-c89cc3a2e6c7b59cc86d8ad6309f3cda] In regulation 11(1) (modification of tax credits legislation: finalisation of tax credits)—
 
 - (a) in sub-paragraph (a), after “having been made” insert “, or a migration notice is issued and the notified person fails to make a claim on or before the deadline day”;
 - (b) in sub-paragraph (b), after “treated as made” insert “or in which the deadline day falls”.
 
-(4)[^key-c89cc3a2e6c7b59cc86d8ad6309f3cda] In Schedule 1 (modification of tax credits legislation – finalisation of tax credits), in paragraph 16, for sub-paragraph (c) substitute—
+(4)[^c-c89cc3a2e6c7b59cc86d8ad6309f3cda] In Schedule 1 (modification of tax credits legislation – finalisation of tax credits), in paragraph 16, for sub-paragraph (c) substitute—
 
 > - (c) after paragraph (1) insert—
 >
@@ -201,11 +201,11 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00008]: Footnote: [S.I. 2020/927](https://www.legislation.gov.uk/uksi/2020/927)
 
-[^key-24fa7964c94ae73c2394cbf602e65638]: Commencement: Reg. 1 in operation at 3.4.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2024/54/regulation/1/2/c)
+[^c-24fa7964c94ae73c2394cbf602e65638]: Commencement: Reg. 1 in operation at 3.4.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2024/54/regulation/1/2/c)
 
 [^f00009]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-2423e788fa0142cfd7abdeca18005dbc]: Commencement: Reg. 2 in operation at 3.4.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2024/54/regulation/1/2/c)
+[^c-2423e788fa0142cfd7abdeca18005dbc]: Commencement: Reg. 2 in operation at 3.4.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2024/54/regulation/1/2/c)
 
 [^f00010]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); regulation 66C was inserted by reg 2(4) of [S.R. 2006 No. 301](https://www.legislation.gov.uk/nisr/2006/301)
 
@@ -213,33 +213,33 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00012]: Footnote: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44)
 
-[^key-9d4ec01bd63bbe9e8ec772bbc727e192]: Commencement: Reg. 3 in operation at 3.4.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2024/54/regulation/1/2/c)
+[^c-9d4ec01bd63bbe9e8ec772bbc727e192]: Commencement: Reg. 3 in operation at 3.4.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2024/54/regulation/1/2/c)
 
 [^f00013]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); regulation 136B was inserted by reg 4(4) of [S.R. 2006 No. 301](https://www.legislation.gov.uk/nisr/2006/301)
 
-[^key-bb1847e057511e5ec680e7e7bcb12ebd]: Commencement: Reg. 4 in operation at 3.4.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2024/54/regulation/1/2/c)
+[^c-bb1847e057511e5ec680e7e7bcb12ebd]: Commencement: Reg. 4 in operation at 3.4.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2024/54/regulation/1/2/c)
 
 [^f00014]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405)
 
-[^key-442d98daaee897a206f394c40b225083]: Commencement: Reg. 5 in operation at 3.4.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2024/54/regulation/1/2/c)
+[^c-442d98daaee897a206f394c40b225083]: Commencement: Reg. 5 in operation at 3.4.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2024/54/regulation/1/2/c)
 
 [^f00015]: Footnote: [S.R. 2008 No. 280](https://www.legislation.gov.uk/nisr/2008/280)
 
-[^key-9ec3f21c114043a5ac93e5d89e0fd4c2]: Commencement: Reg. 6 in operation at 3.4.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2024/54/regulation/1/2/c)
+[^c-9ec3f21c114043a5ac93e5d89e0fd4c2]: Commencement: Reg. 6 in operation at 3.4.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2024/54/regulation/1/2/c)
 
 [^f00016]: Footnote: [S.R. 2016 No. 223](https://www.legislation.gov.uk/nisr/2016/223)
 
-[^key-55d7689c47c9edf22f15460aa241530e]: Commencement: Reg. 7 in operation at 3.4.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2024/54/regulation/1/2/c)
+[^c-55d7689c47c9edf22f15460aa241530e]: Commencement: Reg. 7 in operation at 3.4.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2024/54/regulation/1/2/c)
 
 [^f00017]: Footnote: [S.R. 2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216)
 
 [^f00018]: Footnote: [1987 No. 2203 (N.I. 22)](https://www.legislation.gov.uk/nisi/1987/2203)
 
-[^key-0036f8d2e091b91b94589788f3696613]: Commencement: Reg. 8(1) in operation at 3.4.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2024/54/regulation/1/2/c)
+[^c-0036f8d2e091b91b94589788f3696613]: Commencement: Reg. 8(1) in operation at 3.4.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2024/54/regulation/1/2/c)
 
-[^key-3c0a58fef7dcbc4d236fb03c2288a8e7]: Commencement: [Reg. 8(2)](https://www.legislation.gov.uk/nisr/2024/54/regulation/8/2) in operation at 6.4.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2024/54/regulation/1/2/a)
+[^c-3c0a58fef7dcbc4d236fb03c2288a8e7]: Commencement: [Reg. 8(2)](https://www.legislation.gov.uk/nisr/2024/54/regulation/8/2) in operation at 6.4.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2024/54/regulation/1/2/a)
 
-[^key-c89cc3a2e6c7b59cc86d8ad6309f3cda]: Commencement: Reg. 8(3)-(4) in operation at 6.4.2024, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2024/54/regulation/1/2/b)
+[^c-c89cc3a2e6c7b59cc86d8ad6309f3cda]: Commencement: Reg. 8(3)-(4) in operation at 6.4.2024, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2024/54/regulation/1/2/b)
 
 [^f00019]: Footnote: [S.R. 2016 No. 226](https://www.legislation.gov.uk/nisr/2016/226)
 

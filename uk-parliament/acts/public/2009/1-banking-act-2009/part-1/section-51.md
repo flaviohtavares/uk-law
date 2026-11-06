@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Transfer to temporary public ownership[^M_I_eb722987-9d68-4947-b341-ff372ec1b773][^key-a4c10d62dd56e8e5d3ff6cbaf62b4521]
+## 51. Transfer to temporary public ownership[^M_I_eb722987-9d68-4947-b341-ff372ec1b773][^c-a4c10d62dd56e8e5d3ff6cbaf62b4521]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^M_I_eb722987-9d68-4947-b341-ff372ec1b773]: Commencement: S. 51 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 1
 
-[^key-a4c10d62dd56e8e5d3ff6cbaf62b4521]: Commencement: S. 51 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
+[^c-a4c10d62dd56e8e5d3ff6cbaf62b4521]: Commencement: S. 51 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)

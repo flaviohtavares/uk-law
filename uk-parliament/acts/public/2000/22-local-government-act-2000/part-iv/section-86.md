@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(A1)[^key-31de308128456732d0e0c4ad0b415aa8] The Secretary of State may by order make provision to secure that the scheme for the ordinary elections of councillors of any specified council in England is the scheme under the first option set out in section 85.
+(A1)[^c-31de308128456732d0e0c4ad0b415aa8] The Secretary of State may by order make provision to secure that the scheme for the ordinary elections of councillors of any specified council in England is the scheme under the first option set out in section 85.
 
-(1)[^key-919c34700b15455b9bfccf166de3a02f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-919c34700b15455b9bfccf166de3a02f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) A council is specified if it is—
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-31de308128456732d0e0c4ad0b415aa8]: Textual amendment: S. 86(A1) inserted (30.12.2007) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2007/28/section/54/3/a), [245(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/2)
+[^c-31de308128456732d0e0c4ad0b415aa8]: Textual amendment: S. 86(A1) inserted (30.12.2007) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2007/28/section/54/3/a), [245(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/2)
 
-[^key-919c34700b15455b9bfccf166de3a02f]: Textual amendment: [S. 86(1)](https://www.legislation.gov.uk/ukpga/2000/22/section/86/1) omitted (20.3.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 9(3)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/9/3)
+[^c-919c34700b15455b9bfccf166de3a02f]: Textual amendment: [S. 86(1)](https://www.legislation.gov.uk/ukpga/2000/22/section/86/1) omitted (20.3.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 9(3)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/9/3)

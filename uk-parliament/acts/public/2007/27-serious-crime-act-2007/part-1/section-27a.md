@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27A. Powers to wind up companies etc: Scotland[^key-4273159a2980d98c97327cc15d781874]
+## 27A. Powers to wind up companies etc: Scotland[^c-4273159a2980d98c97327cc15d781874]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the company, relevant body or partnership has been convicted of an offence under section 25 in relation to a serious crime prevention order; and
 - (b) the Scottish Ministers consider that it would be in the public interest for the company or (as the case may be) relevant body to be wound up or the partnership to be dissolved.
 
-(1A)[^key-f9dee6cfbc2e47491f913ff40d788044] The chief constable of the Police Service of Scotland may present a petition to the court for the winding up of a company or relevant body, or the dissolution of a partnership, if—
+(1A)[^c-f9dee6cfbc2e47491f913ff40d788044] The chief constable of the Police Service of Scotland may present a petition to the court for the winding up of a company or relevant body, or the dissolution of a partnership, if—
 
 - (a) the company, relevant body or partnership has been convicted of an offence under section 25 in relation to a serious crime prevention order that was made on the application of the chief constable; and
 - (b) the chief constable considers that it would be in the public interest for the company or (as the case may be) relevant body to be wound up or the partnership to be dissolved.
@@ -37,7 +37,7 @@ summary: ''
 
 as it applies in relation to a petition under section 124A of the Act of 1986 for the winding up of a company and the company's winding up (winding up on grounds of public interest) but subject to the modifications in subsections (3) and (4).
 
-(3) Section 124(4)(b) of the Act of 1986 (application for winding up) applies in relation to a petition under this section as if it permits the petition to be presented by the Scottish Ministers or the chief constable of the Police Service of Scotland[^key-c0a9840bfcc502f570cf35a2aa0c9e42].
+(3) Section 124(4)(b) of the Act of 1986 (application for winding up) applies in relation to a petition under this section as if it permits the petition to be presented by the Scottish Ministers or the chief constable of the Police Service of Scotland[^c-c0a9840bfcc502f570cf35a2aa0c9e42].
 
 (4) The court may make an order under section 125 of the Act of 1986 (powers of court on hearing of petition) to wind up the company only if—
 
@@ -93,8 +93,8 @@ and the references to sections 124 to 125 of the Insolvency Act 1986 include ref
 
 ## Annotations
 
-[^key-4273159a2980d98c97327cc15d781874]: Textual amendment: S. 27A inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/20); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f)
+[^c-4273159a2980d98c97327cc15d781874]: Textual amendment: S. 27A inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/20); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f)
 
-[^key-f9dee6cfbc2e47491f913ff40d788044]: Textual amendment: S. 27A(1A) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(t)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/t), [Sch. 12 para. 8(2)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/12/paragraph/8/2)
+[^c-f9dee6cfbc2e47491f913ff40d788044]: Textual amendment: S. 27A(1A) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(t)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/t), [Sch. 12 para. 8(2)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/12/paragraph/8/2)
 
-[^key-c0a9840bfcc502f570cf35a2aa0c9e42]: Textual amendment: Words in s. 27A(3) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(t)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/t), [Sch. 12 para. 8(3)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/12/paragraph/8/3)
+[^c-c0a9840bfcc502f570cf35a2aa0c9e42]: Textual amendment: Words in s. 27A(3) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(t)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/t), [Sch. 12 para. 8(3)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/12/paragraph/8/3)

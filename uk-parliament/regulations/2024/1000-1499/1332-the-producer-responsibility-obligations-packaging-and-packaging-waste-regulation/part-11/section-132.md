@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Approved persons[^key-73bd422e179599760b6f56fd9672f457]
+## 132. Approved persons[^c-73bd422e179599760b6f56fd9672f457]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73bd422e179599760b6f56fd9672f457]: Commencement: Reg. 132 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-73bd422e179599760b6f56fd9672f457]: Commencement: Reg. 132 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

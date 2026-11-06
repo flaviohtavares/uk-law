@@ -24,7 +24,7 @@ Section 8.
 
 ### CONTENT OF APPLICATION
 
-**1.**[^key-1f4a7791df1849c11eceacca120e76a1] (1) An application for an HMO licence must be in writing and in such form as the council may specify by general notice.
+**1.**[^c-1f4a7791df1849c11eceacca120e76a1] (1) An application for an HMO licence must be in writing and in such form as the council may specify by general notice.
 
 (2) The application must include the following information—
 
@@ -59,7 +59,7 @@ Section 8.
 
 #### Regulations regarding notice of application
 
-**2.**[^key-74af2a00551d31d0a8255cff8eaa48d6] (1) The Department must make regulations providing for the giving of notice of the making of applications for an HMO licence.
+**2.**[^c-74af2a00551d31d0a8255cff8eaa48d6] (1) The Department must make regulations providing for the giving of notice of the making of applications for an HMO licence.
 
 (2) Regulations under sub-paragraph (1) may in particular—
 
@@ -72,11 +72,11 @@ Section 8.
 
 #### Notice to statutory authorities
 
-**3.**[^key-300eac96057d44547c54c011971d2101] The council must send a copy of any application for an HMO licence to the statutory authorities.
+**3.**[^c-300eac96057d44547c54c011971d2101] The council must send a copy of any application for an HMO licence to the statutory authorities.
 
 #### Representations in response to notices
 
-**4.**[^key-54b6624a60d532d8546f2f28492d82c5] (1) A representation made in response to a notice under regulations under paragraph 2 is valid only if it—
+**4.**[^c-54b6624a60d532d8546f2f28492d82c5] (1) A representation made in response to a notice under regulations under paragraph 2 is valid only if it—
 
 - (a) is made in writing,
 - (b) sets out the name and address of the person making the representation, and
@@ -86,9 +86,9 @@ Section 8.
 
 ### REFUSAL OF APPLICATION: BREACH OF PLANNING CONTROL
 
-**5.**[^key-98280f97c4f5c4b9d7d67b82b12efbe7] Paragraphs 6 and 7 apply where the council is not satisfied that the occupation of the living accommodation as an HMO would not constitute a breach of planning control (within the meaning given by section 131 of the Planning Act (Northern Ireland) 2011).
+**5.**[^c-98280f97c4f5c4b9d7d67b82b12efbe7] Paragraphs 6 and 7 apply where the council is not satisfied that the occupation of the living accommodation as an HMO would not constitute a breach of planning control (within the meaning given by section 131 of the Planning Act (Northern Ireland) 2011).
 
-**6.**[^key-a7e83a844d4b499eeaaefa4d4b361284] (1) The council must serve on the applicant a notice which—
+**6.**[^c-a7e83a844d4b499eeaaefa4d4b361284] (1) The council must serve on the applicant a notice which—
 
 - (a) states that the council has decided to refuse the application,
 - (b) sets out the reason for the decision, and
@@ -98,7 +98,7 @@ Section 8.
 
 (3) The council must send a copy of the notice to the statutory authorities.
 
-**7.**[^key-99fef0e81d15ca6650c14a9e6110e235] (1) This paragraph applies if, after the council has refused an application under paragraph 6, the applicant obtains—
+**7.**[^c-99fef0e81d15ca6650c14a9e6110e235] (1) This paragraph applies if, after the council has refused an application under paragraph 6, the applicant obtains—
 
 - (a) planning permission under Part 3 of the Planning Act (Northern Ireland) 2011, or
 - (b) a certificate of lawfulness of use or development under section 169 or 170 of that Act,
@@ -114,11 +114,11 @@ no fee may be charged in respect of that application.
 
 ### CONSIDERATION OF APPLICATION AND HEARINGS
 
-**8.**[^key-e15612a2b4e5a601c4698924606f403a] Paragraphs 9 to 13 apply where the council does not consider that occupation of the living accommodation would constitute a breach of planning control (within the meaning given by section 131 of the Planning Act (Northern Ireland) 2011).
+**8.**[^c-e15612a2b4e5a601c4698924606f403a] Paragraphs 9 to 13 apply where the council does not consider that occupation of the living accommodation would constitute a breach of planning control (within the meaning given by section 131 of the Planning Act (Northern Ireland) 2011).
 
 #### Notice of proposed decision
 
-**9.**[^key-e516f5eaa101885b22aa402a058e9f11] (1) The council must serve a notice under this paragraph on—
+**9.**[^c-e516f5eaa101885b22aa402a058e9f11] (1) The council must serve a notice under this paragraph on—
 
 - (a) the applicant, and
 - (b) each relevant person.
@@ -155,7 +155,7 @@ no fee may be charged in respect of that application.
 
 #### Hearings
 
-**10.**[^key-4a4eca7a0bc6dd23c27e9858db5767c2] (1) This paragraph applies if the council decides (whether on a submission by the applicant or a relevant person, or on its own initiative) to hear oral representations about the application.
+**10.**[^c-4a4eca7a0bc6dd23c27e9858db5767c2] (1) This paragraph applies if the council decides (whether on a submission by the applicant or a relevant person, or on its own initiative) to hear oral representations about the application.
 
 (2) The council must serve notice of the hearing on—
 
@@ -172,7 +172,7 @@ no fee may be charged in respect of that application.
 
 #### Consideration of application
 
-**11.**[^key-514625133c31336ebd3d752e34994ab7] In determining whether to grant the licence (and in what terms) the council must consider—
+**11.**[^c-514625133c31336ebd3d752e34994ab7] In determining whether to grant the licence (and in what terms) the council must consider—
 
 - (a) any valid representations made in response to a notice under regulations under paragraph 2,
 - (b) any written representations made by a recipient of a notice under paragraph 9 before the date specified under paragraph 9(3)(c), and
@@ -180,7 +180,7 @@ no fee may be charged in respect of that application.
 
 #### Time limit for determining application
 
-**12.**[^key-6cbd7d9cf70e8614a8186b6435293faa] (1) The council must decide whether to grant or refuse an application for an HMO licence before the end of the period of 3 months beginning with the date on which the council received it.
+**12.**[^c-6cbd7d9cf70e8614a8186b6435293faa] (1) The council must decide whether to grant or refuse an application for an HMO licence before the end of the period of 3 months beginning with the date on which the council received it.
 
 (2) A court of summary jurisdiction may extend the period mentioned in sub-paragraph (1) in the case of a particular HMO application.
 
@@ -196,7 +196,7 @@ no fee may be charged in respect of that application.
 
 #### Notice of determination
 
-**13.**[^key-a2f9e766ed754fce17e58f6079fbdc75] (1) The council must serve notice of its decision on an application for an HMO licence on—
+**13.**[^c-a2f9e766ed754fce17e58f6079fbdc75] (1) The council must serve notice of its decision on an application for an HMO licence on—
 
 - (a) the applicant,
 - (b) each relevant person (within the meaning given by paragraph 9(6)), and
@@ -213,7 +213,7 @@ no fee may be charged in respect of that application.
 
 ### FALSE OR MISLEADING INFORMATION
 
-**14.**[^key-8bd872a09cc39d3555bd370a3ae802a9] (1) A person commits an offence if—
+**14.**[^c-8bd872a09cc39d3555bd370a3ae802a9] (1) A person commits an offence if—
 
 - (a) the person provides information in connection with an application for an HMO licence,
 - (b) the information is false or misleading in a material particular, and
@@ -223,30 +223,30 @@ no fee may be charged in respect of that application.
 
 ## Annotations
 
-[^key-1f4a7791df1849c11eceacca120e76a1]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nia/2016/22/schedule/2/paragraph/1) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-1f4a7791df1849c11eceacca120e76a1]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nia/2016/22/schedule/2/paragraph/1) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-74af2a00551d31d0a8255cff8eaa48d6]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2016/22/schedule/2/paragraph/2) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-74af2a00551d31d0a8255cff8eaa48d6]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2016/22/schedule/2/paragraph/2) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-300eac96057d44547c54c011971d2101]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2016/22/schedule/2/paragraph/3) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-300eac96057d44547c54c011971d2101]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2016/22/schedule/2/paragraph/3) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-54b6624a60d532d8546f2f28492d82c5]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2016/22/schedule/2/paragraph/4) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-54b6624a60d532d8546f2f28492d82c5]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2016/22/schedule/2/paragraph/4) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-98280f97c4f5c4b9d7d67b82b12efbe7]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2016/22/schedule/2/paragraph/5) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-98280f97c4f5c4b9d7d67b82b12efbe7]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2016/22/schedule/2/paragraph/5) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-a7e83a844d4b499eeaaefa4d4b361284]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2016/22/schedule/2/paragraph/6) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-a7e83a844d4b499eeaaefa4d4b361284]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2016/22/schedule/2/paragraph/6) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-99fef0e81d15ca6650c14a9e6110e235]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nia/2016/22/schedule/2/paragraph/7) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-99fef0e81d15ca6650c14a9e6110e235]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nia/2016/22/schedule/2/paragraph/7) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-e15612a2b4e5a601c4698924606f403a]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nia/2016/22/schedule/2/paragraph/8) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-e15612a2b4e5a601c4698924606f403a]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nia/2016/22/schedule/2/paragraph/8) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-e516f5eaa101885b22aa402a058e9f11]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2016/22/schedule/2/paragraph/9) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-e516f5eaa101885b22aa402a058e9f11]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2016/22/schedule/2/paragraph/9) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-4a4eca7a0bc6dd23c27e9858db5767c2]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2016/22/schedule/2/paragraph/10) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-4a4eca7a0bc6dd23c27e9858db5767c2]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2016/22/schedule/2/paragraph/10) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-514625133c31336ebd3d752e34994ab7]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nia/2016/22/schedule/2/paragraph/11) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-514625133c31336ebd3d752e34994ab7]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nia/2016/22/schedule/2/paragraph/11) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-6cbd7d9cf70e8614a8186b6435293faa]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nia/2016/22/schedule/2/paragraph/12) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-6cbd7d9cf70e8614a8186b6435293faa]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nia/2016/22/schedule/2/paragraph/12) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-a2f9e766ed754fce17e58f6079fbdc75]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nia/2016/22/schedule/2/paragraph/13) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-a2f9e766ed754fce17e58f6079fbdc75]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nia/2016/22/schedule/2/paragraph/13) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-8bd872a09cc39d3555bd370a3ae802a9]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nia/2016/22/schedule/2/paragraph/14) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-8bd872a09cc39d3555bd370a3ae802a9]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nia/2016/22/schedule/2/paragraph/14) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

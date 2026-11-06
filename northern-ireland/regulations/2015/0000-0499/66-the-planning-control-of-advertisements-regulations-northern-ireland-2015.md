@@ -44,11 +44,11 @@ The Department of the Environment makes the following Regulations in exercise of
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-c22e5a2b9254ea0e38660f7d71c762cb]
+### 1. Citation and commencement[^c-c22e5a2b9254ea0e38660f7d71c762cb]
 
 These Regulations may be cited as the Planning (Control of Advertisements) Regulations (Northern Ireland) 2015 and come into operation on 1st April 2015.
 
-### 2. Interpretation[^key-494322873844f211748d10bc552feaf6]
+### 2. Interpretation[^c-494322873844f211748d10bc552feaf6]
 
 (1) In these Regulations—
 
@@ -103,7 +103,7 @@ These Regulations may be cited as the Planning (Control of Advertisements) Regul
 
 (10) A requirement in these Regulations that any application, notice or other document should be in writing is fulfilled where the document meets the criteria in paragraph (6).
 
-### 3. Powers to be exercised in the interests of amenity and public safety[^key-6bdc0fc72e081a4d515084d87ef84369]
+### 3. Powers to be exercised in the interests of amenity and public safety[^c-6bdc0fc72e081a4d515084d87ef84369]
 
 (1) A council shall exercise its powers under these Regulations only in the interests of amenity and public safety, taking into account—
 
@@ -123,7 +123,7 @@ These Regulations may be cited as the Planning (Control of Advertisements) Regul
 
 (5) A consent for the display of advertisements shall take effect as consent for the use of the site for the purposes of the display, whether by the erection of structures or otherwise, and for the benefit of any person interested in the site.
 
-### 4. Requirement for consent[^key-b5da604fd70072641b67462d21f2682f]
+### 4. Requirement for consent[^c-b5da604fd70072641b67462d21f2682f]
 
 (1) Subject to paragraph (2), no advertisement may be displayed unless consent for its display has been granted—
 
@@ -137,7 +137,7 @@ These Regulations may be cited as the Planning (Control of Advertisements) Regul
 
 ## PART 2 — DEEMED CONSENT
 
-### 5. Deemed consent for the display of advertisements[^key-ae1722484e1a458bd03a08d04152bc3e]
+### 5. Deemed consent for the display of advertisements[^c-ae1722484e1a458bd03a08d04152bc3e]
 
 (1) Subject to regulations 6 and 7, deemed consent is hereby granted for the display of an advertisement falling within any class specified in Part 1 of Schedule 3, subject—
 
@@ -146,7 +146,7 @@ These Regulations may be cited as the Planning (Control of Advertisements) Regul
 
 (2) Part 2 of Schedule 3 applies for the interpretation of that Schedule.
 
-### 6. Directions restricting deemed consent[^key-f1e5deee9925a31c4af1d37483476966]
+### 6. Directions restricting deemed consent[^c-f1e5deee9925a31c4af1d37483476966]
 
 (1) If the Department is satisfied, upon a proposal made to it by a council, that the display of advertisements of any class or description specified in Schedule 3, other than Class 10 or 12, should not be undertaken in any particular area or in any particular case without express consent, it may direct that the deemed consent for that class or description shall not apply in that area or in that case, for a specified period or indefinitely.
 
@@ -181,7 +181,7 @@ These Regulations may be cited as the Planning (Control of Advertisements) Regul
 
 (9) A direction for an area shall come into force on the date specified in the notice given under paragraph (7), and a direction for a particular case shall come into force on the date on which notice is served on the occupier or, if there is no occupier, on the owner of the land affected.
 
-### 7. Discontinuance of deemed consent[^key-c8b87c5dd4b17881493462779d4db494]
+### 7. Discontinuance of deemed consent[^c-c8b87c5dd4b17881493462779d4db494]
 
 (1) If it appears to the council that to remedy a substantial injury to the amenity of the locality or a danger to public safety—
 
@@ -203,7 +203,7 @@ the council may by order require the discontinuance of that consent or use withi
 
 ## PART 3 — EXPRESS CONSENT
 
-### 8. Applications for express consent to display advertisements[^key-ec6711f9dd3de0678b2aa840e7625193]
+### 8. Applications for express consent to display advertisements[^c-ec6711f9dd3de0678b2aa840e7625193]
 
 (1) The provisions of section 40 of the 2011 Act specified in column 1 of Part 1 of Schedule 4 shall apply to applications for express consent to display advertisements as if references in those provisions to planning permission were references to consent for the display of an advertisement, references to a development order were references to these Regulations and subject to the modifications specified in column 2.
 
@@ -224,11 +224,11 @@ the council may by order require the discontinuance of that consent or use withi
 
 (7) On receipt of an application for express consent, the council shall send an acknowledgment in writing to the applicant.
 
-### 9. Department’s directions[^key-83af206683b497c6c376de9ab5b32fe2]
+### 9. Department’s directions[^c-83af206683b497c6c376de9ab5b32fe2]
 
 The Department may give directions to a council, either generally or in relation to a particular case or class of case, specifying the kinds of particulars, plans or information that are to accompany an application for express consent.
 
-### 10. Duty to consult[^key-c6e72e6d72aef2a8fbbbc3a2d37998a9]
+### 10. Duty to consult[^c-c6e72e6d72aef2a8fbbbc3a2d37998a9]
 
 (1) Before granting an express consent, the council shall consult—
 
@@ -243,7 +243,7 @@ the Department for Regional Development.
 
 (2) The council shall give to those with whom consultation is required at least 14 days notice that the relevant application is to be considered and shall take into account, in dealing with the application, any representations made in response to that consultation.
 
-### 11. Determination of applications by the council[^key-5a80598ba3fc0c740964f9b1b9f2f3c8]
+### 11. Determination of applications by the council[^c-5a80598ba3fc0c740964f9b1b9f2f3c8]
 
 (1) Where an application for express consent is made to the council it may—
 
@@ -264,7 +264,7 @@ the Department for Regional Development.
 
 (4) The council shall not, under paragraph (1)(b), impose any conditions in relation to the display of an advertisement within any class specified in Part 1 of Schedule 3, more restrictive than those imposed by that part in relation to that class.
 
-### 12. Applications by interested councils[^key-11475891db0d56296369110333584904]
+### 12. Applications by interested councils[^c-11475891db0d56296369110333584904]
 
 (1) An application made by an interested council (whether solely or jointly with any other person) for express consent to display an advertisement shall be determined by the council concerned unless the application is referred to the Department under section 29 of the 2011 Act (as modified by paragraph 2) for determination by it.
 
@@ -279,7 +279,7 @@ the Department for Regional Development.
 - (a) references to the council (in whatever terms) were references to the Department; and
 - (b) references to “applicant” were references to an “interested council”.
 
-### 13. Notification of decision[^key-2eb0639b06c293cb8d1b1d2c4449aaa7]
+### 13. Notification of decision[^c-2eb0639b06c293cb8d1b1d2c4449aaa7]
 
 (1) The grant or refusal of an express consent by the council shall be notified in writing to the applicant within a period of 8 weeks from the date of the receipt of the application or such longer period as the applicant may, before that date, agree in writing.
 
@@ -290,25 +290,25 @@ the Department for Regional Development.
 
 (3) Where a request has been made to the Secretary of State for a certificate in respect of section 235(1) of the 2011 Act or the Department of Justice in respect of section 235(4) of the 2011 Act, the period specified in paragraph (1) of this regulation shall begin on the date that the council is notified of that decision.
 
-### 14. Notice requiring application for express consent[^key-d40b1c9f450eced07d3457fcaa523ba4]
+### 14. Notice requiring application for express consent[^c-d40b1c9f450eced07d3457fcaa523ba4]
 
 (1) The provisions of sections 43 and 44 of the 2011 Act specified in column 1 of Part 1 of Schedule 4 shall apply to the display of advertisements as if references in those provisions to planning permission were references to consent for the display of an advertisement and subject to the modifications specified in column 2.
 
 (2) The provisions of sections 43 and 44 of the 2011 Act as modified are set out in Part 2 of Schedule 4.
 
-### 15. Appeals to the planning appeals commission[^key-d1c391a5df3b36212f43e6ef35df6c84]
+### 15. Appeals to the planning appeals commission[^c-d1c391a5df3b36212f43e6ef35df6c84]
 
 (1) Where an application is made to the council for consent to display an advertisement and the consent is refused or granted subject to conditions, the provisions of sections 58 to 60 of the 2011 Act specified in column 1, of Part 1 of Schedule 4 shall apply as if references in those provisions to planning permission were references to consent for the display of an advertisement, references to a development order were references to these Regulations and subject to the modifications set out in column 2.
 
 (2) The provisions of sections 58 to 60 of the 2011 Act as modified under paragraph (1), are set out in Part 2 of Schedule 4.
 
-### 16. Revocation or modification of express consent[^key-23db2e66cb7effae16c6a922d5dfa5e7]
+### 16. Revocation or modification of express consent[^c-23db2e66cb7effae16c6a922d5dfa5e7]
 
 (1) The provisions of sections 68 and 70 of the 2011 Act specified in column 1 of Part 1 of Schedule 4 shall apply to the revocation or modification of a consent for the display of an advertisement subject to the modifications set out in column 2.
 
 (2) The provisions of sections 68 and 70 of the 2011 Act as modified under paragraph (1), are set out in Part 2 of Schedule 4.
 
-### 17. Compensation for revocation or modification of consent[^key-60a63982b6a94156e7278c9fd0a6697c]
+### 17. Compensation for revocation or modification of consent[^c-60a63982b6a94156e7278c9fd0a6697c]
 
 (1) Where a consent for the display of an advertisement has been revoked or modified by an order made under section 68 of the 2011 Act as applied by regulation 16 and a claim is made in accordance with paragraph (3) the provisions of section 26 of the 1965 Act specified in column 1 of Part 3 of Schedule 4 shall apply subject to the modifications set out in column 2.
 
@@ -316,7 +316,7 @@ the Department for Regional Development.
 
 (3) A claim for compensation must be made in writing and received by the council within 6 months of the date from the making of the order to which it relates, or such extended period as the council may allow in any particular case.
 
-### 18. Use of electronic communications[^key-cc254f4059a656463ce554ec0435a2e5]
+### 18. Use of electronic communications[^c-cc254f4059a656463ce554ec0435a2e5]
 
 (1) Paragraphs (2) and (3) apply where a person uses electronic communications for any of the following purposes—
 
@@ -335,19 +335,19 @@ the Department for Regional Development.
 
 ## PART 4 — MISCELLANEOUS
 
-### 19. Exercise of discontinuance powers by the Department[^key-637c93d6112efffebd4a7a2045ff7ec6]
+### 19. Exercise of discontinuance powers by the Department[^c-637c93d6112efffebd4a7a2045ff7ec6]
 
 (1) If it appears to the Department, after consultation with the council, that a discontinuance notice should be served under regulation 7, the Department may itself serve such a notice.
 
 (2) Where the Department exercises its powers under paragraph (1), regulation 7 shall apply in relation to it as it applies in relation to a council as if for references to the council there were substituted references to the Department.
 
-### 20. Discontinuance notice in respect of council’s advertisement[^key-a9115e244fb4885fcd314dacc75b51fa]
+### 20. Discontinuance notice in respect of council’s advertisement[^c-a9115e244fb4885fcd314dacc75b51fa]
 
 (1) If the Department is satisfied that it is necessary to remedy a substantial injury to the amenity of the locality or a danger to members of the public, it may serve a discontinuance notice under regulation 7 in relation to an advertisement displayed by an interested council.
 
 (2) Regulation 7 shall apply in relation to a discontinuance notice served under paragraph (1) as it applies in relation to a discontinuance notice served by a council, with such modifications as may be necessary.
 
-### 21. Revocation[^key-391f21ec477bf5837525d51ced17e931]
+### 21. Revocation[^c-391f21ec477bf5837525d51ced17e931]
 
 The Planning (Control of Advertisements) Regulations (Northern Ireland) 1992[^f00005] are revoked.
 
@@ -361,17 +361,17 @@ A senior officer of the Department of the Environment
 
 Regulation 2(1)
 
-**1.**[^key-cbfa7eae902d380aa59a478e63359f47] Any advertisements displayed, and any site used for the display of advertisements, shall be maintained in a clean and tidy condition to the reasonable satisfaction of the council.
+**1.**[^c-cbfa7eae902d380aa59a478e63359f47] Any advertisements displayed, and any site used for the display of advertisements, shall be maintained in a clean and tidy condition to the reasonable satisfaction of the council.
 
-**2.**[^key-f9b87379a5a457b0a90d2d92d201bb34] Any structure or hoarding erected or used principally for the purpose of displaying advertisements shall be maintained in a safe condition.
+**2.**[^c-f9b87379a5a457b0a90d2d92d201bb34] Any structure or hoarding erected or used principally for the purpose of displaying advertisements shall be maintained in a safe condition.
 
-**3.**[^key-c0da620e755336ead4acd8a222237602] Where an advertisement is required to be removed under these Regulations the removal shall be carried out to the reasonable satisfaction of the council.
+**3.**[^c-c0da620e755336ead4acd8a222237602] Where an advertisement is required to be removed under these Regulations the removal shall be carried out to the reasonable satisfaction of the council.
 
-**4.**[^key-d53f763e053a430f5bd765a20b650ea0] No advertisement may be displayed without the permission of the owner of the site or any other person with an interest in the site entitled to grant permission.
+**4.**[^c-d53f763e053a430f5bd765a20b650ea0] No advertisement may be displayed without the permission of the owner of the site or any other person with an interest in the site entitled to grant permission.
 
-**5.**[^key-3508b274fe30005c0ef4fa168c25809c] No advertisement may be displayed on or so as to obscure, or hinder the ready interpretation of, any road traffic sign, railway signal or aid to navigation by water or air, or so as otherwise to render hazardous the use of any road, railway, waterway (including coastal waters) or aerodrome (civil or military).
+**5.**[^c-3508b274fe30005c0ef4fa168c25809c] No advertisement may be displayed on or so as to obscure, or hinder the ready interpretation of, any road traffic sign, railway signal or aid to navigation by water or air, or so as otherwise to render hazardous the use of any road, railway, waterway (including coastal waters) or aerodrome (civil or military).
 
-## SCHEDULE 2 — CLASSES OF ADVERTISEMENT TO WHICH THE PROHIBITION IN REGULATION 4(1) DOES NOT APPLY[^key-ddf1b3603daaffcddea7caa6905ca49f]
+## SCHEDULE 2 — CLASSES OF ADVERTISEMENT TO WHICH THE PROHIBITION IN REGULATION 4(1) DOES NOT APPLY[^c-ddf1b3603daaffcddea7caa6905ca49f]
 
 Regulation 4(2)
 
@@ -413,7 +413,7 @@ Regulation 4(2)
 
 Regulation 5
 
-### PART 1 — CLASSES OF ADVERTISEMENTS WHICH MAY BE DISPLAYED WITH DEEMED CONSENT[^key-ba4ab692b15308a7458ff102fdc923f1]
+### PART 1 — CLASSES OF ADVERTISEMENTS WHICH MAY BE DISPLAYED WITH DEEMED CONSENT[^c-ba4ab692b15308a7458ff102fdc923f1]
 
 <table>
 <tbody>
@@ -476,11 +476,11 @@ Regulation 5
 </tbody>
 </table>
 
-[^key-aad962e3a6a313dcbb980c06ae1ba503]
+[^c-aad962e3a6a313dcbb980c06ae1ba503]
 
 ### PART 2 — INTERPRETATION
 
-**1.**[^key-cdfbda35e5729c9153cc521ba9829a6c] (1) In Part 1 of this Schedule—
+**1.**[^c-cdfbda35e5729c9153cc521ba9829a6c] (1) In Part 1 of this Schedule—
 
 - “agricultural” has the same meaning as in section 43(1) of the Agriculture Act (Northern Ireland) 1949[^f00007];
 - “business premises” means any building or part of a building normally used for the purpose of any professional, commercial or industrial undertaking or for the purpose of providing services to members of the public or of any association, and includes a public restaurant, licensed premises and a place of public entertainment, but not—
@@ -499,7 +499,7 @@ Regulation 5
 
 (2) Where a maximum area is specified in relation to any class in this Schedule, in the case of a double-sided board, the area of 1 side only shall be taken into account.
 
-**2.**[^key-2bb0f7075c255e38016412ffd8577815] (1) The permitted limits of luminance for advertisements falling within Class 4(1) or 4(2) are, subject to sub-paragraph (2), for an illuminated area measuring not more than—
+**2.**[^c-2bb0f7075c255e38016412ffd8577815] (1) The permitted limits of luminance for advertisements falling within Class 4(1) or 4(2) are, subject to sub-paragraph (2), for an illuminated area measuring not more than—
 
 - (a) 0.5 square metre, 1,000 candela;
 - (b) 2 square metres, 800 candela;
@@ -512,9 +512,9 @@ and for any greater area, 400 candela.
 - (a) each advertisement, or in the ease of a double-sided projecting advertisement, each side of the advertisement is to be taken separately;
 - (b) no unilluminated part of the advertisement is to be taken into account.
 
-**3.**[^key-7bfe8d4d60b5809119e7aca5640bd20c] In relation to advertisements within Class 4(1) or 4(2) “halo illumination” means illumination from within built-up boxes comprising characters or symbols where the only source of light is directed through the back of the box onto an otherwise unilluminated backing panel.
+**3.**[^c-7bfe8d4d60b5809119e7aca5640bd20c] In relation to advertisements within Class 4(1) or 4(2) “halo illumination” means illumination from within built-up boxes comprising characters or symbols where the only source of light is directed through the back of the box onto an otherwise unilluminated backing panel.
 
-**4.**[^key-a64a4ad9855dbd0f1838fa87ac57b01c] (1) For the purposes of Class 7(2)—
+**4.**[^c-a64a4ad9855dbd0f1838fa87ac57b01c] (1) For the purposes of Class 7(2)—
 
 - “aggregate number” means the aggregate of the number of houses constructed, in the course of construction or proposed to be constructed on the land concerned;
 - “flat” means a separate and self-contained set of premises constructed for use for the purpose of a dwelling and forming part of a building from some other part of which it is divided horizontally;
@@ -533,7 +533,7 @@ and for any greater area, 400 candela.
 
 Regulations 8(1), 14(1), 15(1) and 16(1)
 
-### PART 1 — MODIFICATIONS OF SECTIONS 40, 43, 44, 58, 59, 60, 68 AND 70 OF THE PLANNING ACT (NORTHERN IRELAND) 2011[^key-392a8cb61de8583d583f887a24d570af]
+### PART 1 — MODIFICATIONS OF SECTIONS 40, 43, 44, 58, 59, 60, 68 AND 70 OF THE PLANNING ACT (NORTHERN IRELAND) 2011[^c-392a8cb61de8583d583f887a24d570af]
 
 | Column 1<br>*Provision of the 2011 Act* | Column 2<br>*Modifications* |
 | --- | --- |
@@ -576,7 +576,7 @@ Regulations 8(1), 14(1), 15(1) and 16(1)
 
 Regulations 8(2), 14(2), 15(2) and 16(2)
 
-#### 40. Form and content of applications[^key-01e0c63992ea24d353d8a6d9df5c83a7]
+#### 40. Form and content of applications[^c-01e0c63992ea24d353d8a6d9df5c83a7]
 
 (1) Any application for consent to display an advertisement—
 
@@ -585,7 +585,7 @@ Regulations 8(2), 14(2), 15(2) and 16(2)
 
 (2) A direction under subsection (1)(b) must not be inconsistent with the Regulations.
 
-#### 43. Notice requiring application for consent to be made[^key-63971b7de2cd08da68a83a88f81c0214]
+#### 43. Notice requiring application for consent to be made[^c-63971b7de2cd08da68a83a88f81c0214]
 
 (1) Where it appears to a council that any advertisement has been displayed without the grant of consent for the display of an advertisement required in that behalf the council may issue a notice under this section requiring the making of an application for such consent to the council within 28 days from the service of the notice.
 
@@ -607,7 +607,7 @@ Regulations 8(2), 14(2), 15(2) and 16(2)
 
 (12) For the purposes of this section an application to the council for any consent shall not be taken to be made unless it is accompanied by the fee prescribed under section 223 in relation to that application.
 
-#### 44. Appeal against notice under section 43[^key-584624eface22cece642f93ab0e95c85]
+#### 44. Appeal against notice under section 43[^c-584624eface22cece642f93ab0e95c85]
 
 (1) A person on whom a copy of a notice has been served under section 43 may, at any time before the end of the period allowed for compliance with that notice, appeal to the planning appeals commission against the notice.
 
@@ -630,7 +630,7 @@ Regulations 8(2), 14(2), 15(2) and 16(2)
 
 (7) The validity of a notice under section 43 shall not, except by way of an appeal under this section, be questioned in any proceedings whatsoever on any of the grounds on which such an appeal may be brought.
 
-#### 58. Appeals[^key-f43eb925f6feff487f7d343dfeb2d781]
+#### 58. Appeals[^c-f43eb925f6feff487f7d343dfeb2d781]
 
 (1) Where an application is made to a council for consent for the display of an advertisement then if that consent is refused or is granted subject to conditions, the applicant may by notice in writing appeal to the planning appeals commission.
 
@@ -645,7 +645,7 @@ Regulations 8(2), 14(2), 15(2) and 16(2)
 - (a) give the appellant notice that the appeal will be dismissed unless the appellant takes, within the period specified in the notice, such steps as are specified in the notice for the expedition of the appeal; and
 - (b) if the appellant fails to take those steps within that period, dismiss the appeal accordingly.
 
-#### 59. Matters which may be raised in an appeal under section 58[^key-089ada0cea9870c68df7971a87e75041]
+#### 59. Matters which may be raised in an appeal under section 58[^c-089ada0cea9870c68df7971a87e75041]
 
 (1) In an appeal under section 58, a party to the proceedings is not to raise any matter which was not before the council at the time the decision appealed against was made unless that party can demonstrate to the satisfaction of the planning appeals commission—
 
@@ -657,14 +657,14 @@ Regulations 8(2), 14(2), 15(2) and 16(2)
 - (a) the provisions of the local development plan, or
 - (b) any other material consideration.
 
-#### 60. Appeal against failure to take planning decision[^key-f247dfc15b950455d386837672e8db22]
+#### 60. Appeal against failure to take planning decision[^c-f247dfc15b950455d386837672e8db22]
 
 (1) Where any such application as is mentioned in section 58(1) as applied and modified by the Planning (Control of Advertisements) Regulations (Northern Ireland) 2015 is made to a council, then unless within such period as may be specified by the Regulations, or within such extended period as may be agreed upon in writing between the applicant and the council, the council gives notice to the applicant of its decision on the application, section 58 shall apply in relation to the application—
 
 - (i) as if the consent to which it relates had been refused by the council; and
 - (ii) as if notification of the council’s decision had been received by the applicant at the end of the period so specified, or at the end of the said extended period, as the case may be.
 
-#### 68. Revocation or modification of express consent by council[^key-bbd9e7c3024903763eb186d8eb710855]
+#### 68. Revocation or modification of express consent by council[^c-bbd9e7c3024903763eb186d8eb710855]
 
 (1) If it appears to a council that it is expedient to revoke or modify any consent for the display of an advertisement, the council may, subject to subsections (3) and (4), by order revoke or modify the consent to such extent as it considers expedient.
 
@@ -685,7 +685,7 @@ except that the revocation or modification of consent for a display which involv
   - (iii) any other person who, in its opinion, would be affected by the order;
 - (b) the order shall take effect on the day after that on which the council complies with the requirements of paragraph (a).
 
-#### 70. Procedure for section 68 orders: opposed cases[^key-28af2c565f54522f9afbacf0d96ea4b2]
+#### 70. Procedure for section 68 orders: opposed cases[^c-28af2c565f54522f9afbacf0d96ea4b2]
 
 (1) An order under section 68 shall not take effect unless it is confirmed by the Department.
 
@@ -708,7 +708,7 @@ except that the revocation or modification of consent for a display which involv
   - (i) may have regard to any material change in circumstances that has occurred since the consent was granted;
   - (ii) where a hearing is held under subsection (3), the Department shall consider the report of the commission.
 
-### PART 3 — MODIFICATIONS TO SECTION 26 OF THE LAND DEVELOPMENT VALUES (COMPENSATION) ACT (NORTHERN IRELAND) 1965[^key-257338ef852fa9194e51a4bb005dc52a]
+### PART 3 — MODIFICATIONS TO SECTION 26 OF THE LAND DEVELOPMENT VALUES (COMPENSATION) ACT (NORTHERN IRELAND) 1965[^c-257338ef852fa9194e51a4bb005dc52a]
 
 Regulation 17(1)
 
@@ -735,7 +735,7 @@ Regulation 17(1)
 
 Regulation 17(2)
 
-#### 26. Compensation where consent is revoked or modified[^key-0071e20dbc01743c0d6e476298b6fff8]
+#### 26. Compensation where consent is revoked or modified[^c-0071e20dbc01743c0d6e476298b6fff8]
 
 (1) Where any consent for the display of an advertisement is revoked or modified by an order under section 68 of the Planning Act as modified by the Planning (Control of Advertisements) Regulations (Northern Ireland) 2015 then, if on a claim duly made to the council in accordance with this section, it is shown that a person interested in the land to which the consent for the display of an advertisement related—
 
@@ -816,9 +816,9 @@ Regulation 21 revokes the 1992 Regulations.
 
 [^f00001]: Footnote: [2011 c.25 (N.I.)](https://www.legislation.gov.uk/nia/2011/25)
 
-[^key-c22e5a2b9254ea0e38660f7d71c762cb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-c22e5a2b9254ea0e38660f7d71c762cb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-494322873844f211748d10bc552feaf6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2015/66/regulation/2) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-494322873844f211748d10bc552feaf6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2015/66/regulation/2) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
 [^f00002]: Footnote: [1965 c.23 (N.I.)](https://www.legislation.gov.uk/apni/1965/23) as amended by [2011 c.25 (N.I.)](https://www.legislation.gov.uk/nia/2011/25) section 179(4) Schedule 4
 
@@ -826,92 +826,92 @@ Regulation 21 revokes the 1992 Regulations.
 
 [^f00004]: Footnote: [2001 c.9 (N.I.)](https://www.legislation.gov.uk/nia/2001/9) as amended by [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21)
 
-[^key-6bdc0fc72e081a4d515084d87ef84369]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/66/regulation/3) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-6bdc0fc72e081a4d515084d87ef84369]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/66/regulation/3) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-b5da604fd70072641b67462d21f2682f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2015/66/regulation/4) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-b5da604fd70072641b67462d21f2682f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2015/66/regulation/4) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-ae1722484e1a458bd03a08d04152bc3e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2015/66/regulation/5) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-ae1722484e1a458bd03a08d04152bc3e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2015/66/regulation/5) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-f1e5deee9925a31c4af1d37483476966]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2015/66/regulation/6) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-f1e5deee9925a31c4af1d37483476966]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2015/66/regulation/6) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-c8b87c5dd4b17881493462779d4db494]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2015/66/regulation/7) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-c8b87c5dd4b17881493462779d4db494]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2015/66/regulation/7) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-ec6711f9dd3de0678b2aa840e7625193]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2015/66/regulation/8) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-ec6711f9dd3de0678b2aa840e7625193]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2015/66/regulation/8) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-83af206683b497c6c376de9ab5b32fe2]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2015/66/regulation/9) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-83af206683b497c6c376de9ab5b32fe2]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2015/66/regulation/9) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-c6e72e6d72aef2a8fbbbc3a2d37998a9]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2015/66/regulation/10) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-c6e72e6d72aef2a8fbbbc3a2d37998a9]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2015/66/regulation/10) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-5a80598ba3fc0c740964f9b1b9f2f3c8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2015/66/regulation/11) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-5a80598ba3fc0c740964f9b1b9f2f3c8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2015/66/regulation/11) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-11475891db0d56296369110333584904]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2015/66/regulation/12) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-11475891db0d56296369110333584904]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2015/66/regulation/12) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-2eb0639b06c293cb8d1b1d2c4449aaa7]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2015/66/regulation/13) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-2eb0639b06c293cb8d1b1d2c4449aaa7]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2015/66/regulation/13) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-d40b1c9f450eced07d3457fcaa523ba4]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2015/66/regulation/14) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-d40b1c9f450eced07d3457fcaa523ba4]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2015/66/regulation/14) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-d1c391a5df3b36212f43e6ef35df6c84]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2015/66/regulation/15) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-d1c391a5df3b36212f43e6ef35df6c84]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2015/66/regulation/15) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-23db2e66cb7effae16c6a922d5dfa5e7]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2015/66/regulation/16) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-23db2e66cb7effae16c6a922d5dfa5e7]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2015/66/regulation/16) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-60a63982b6a94156e7278c9fd0a6697c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2015/66/regulation/17) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-60a63982b6a94156e7278c9fd0a6697c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2015/66/regulation/17) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-cc254f4059a656463ce554ec0435a2e5]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2015/66/regulation/18) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-cc254f4059a656463ce554ec0435a2e5]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2015/66/regulation/18) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-637c93d6112efffebd4a7a2045ff7ec6]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2015/66/regulation/19) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-637c93d6112efffebd4a7a2045ff7ec6]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2015/66/regulation/19) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-a9115e244fb4885fcd314dacc75b51fa]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2015/66/regulation/20) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-a9115e244fb4885fcd314dacc75b51fa]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2015/66/regulation/20) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-391f21ec477bf5837525d51ced17e931]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/66/regulation/21) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-391f21ec477bf5837525d51ced17e931]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2015/66/regulation/21) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
 [^f00005]: Footnote: [S.R. 1992 No. 448](https://www.legislation.gov.uk/nisr/1992/448)
 
-[^key-cbfa7eae902d380aa59a478e63359f47]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2015/66/schedule/1/paragraph/1) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-cbfa7eae902d380aa59a478e63359f47]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2015/66/schedule/1/paragraph/1) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-f9b87379a5a457b0a90d2d92d201bb34]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2015/66/schedule/1/paragraph/2) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-f9b87379a5a457b0a90d2d92d201bb34]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2015/66/schedule/1/paragraph/2) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-c0da620e755336ead4acd8a222237602]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2015/66/schedule/1/paragraph/3) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-c0da620e755336ead4acd8a222237602]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2015/66/schedule/1/paragraph/3) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-d53f763e053a430f5bd765a20b650ea0]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2015/66/schedule/1/paragraph/4) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-d53f763e053a430f5bd765a20b650ea0]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2015/66/schedule/1/paragraph/4) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-3508b274fe30005c0ef4fa168c25809c]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2015/66/schedule/1/paragraph/5) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-3508b274fe30005c0ef4fa168c25809c]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2015/66/schedule/1/paragraph/5) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-ddf1b3603daaffcddea7caa6905ca49f]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2015/66/schedule/2) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-ddf1b3603daaffcddea7caa6905ca49f]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2015/66/schedule/2) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
 [^f00006]: Footnote: [S.I.1997/276 (N.I.2)](https://www.legislation.gov.uk/nisi/1997/276)
 
-[^key-ba4ab692b15308a7458ff102fdc923f1]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/nisr/2015/66/schedule/3/part/1) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-ba4ab692b15308a7458ff102fdc923f1]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/nisr/2015/66/schedule/3/part/1) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-aad962e3a6a313dcbb980c06ae1ba503]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisr/2015/66/schedule/3) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2018/1235/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aad962e3a6a313dcbb980c06ae1ba503]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisr/2015/66/schedule/3) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2018/1235/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cdfbda35e5729c9153cc521ba9829a6c]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2015/66/schedule/3/paragraph/1) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-cdfbda35e5729c9153cc521ba9829a6c]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2015/66/schedule/3/paragraph/1) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
 [^f00007]: Footnote: [1949 c.2 (N.I.)](https://www.legislation.gov.uk/apni/1949/2)
 
-[^key-2bb0f7075c255e38016412ffd8577815]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2015/66/schedule/3/paragraph/2) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-2bb0f7075c255e38016412ffd8577815]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2015/66/schedule/3/paragraph/2) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-7bfe8d4d60b5809119e7aca5640bd20c]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2015/66/schedule/3/paragraph/3) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-7bfe8d4d60b5809119e7aca5640bd20c]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2015/66/schedule/3/paragraph/3) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-a64a4ad9855dbd0f1838fa87ac57b01c]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2015/66/schedule/3/paragraph/4) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-a64a4ad9855dbd0f1838fa87ac57b01c]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2015/66/schedule/3/paragraph/4) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-392a8cb61de8583d583f887a24d570af]: Commencement: [Sch. 4 Pt. 1](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/part/1) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-392a8cb61de8583d583f887a24d570af]: Commencement: [Sch. 4 Pt. 1](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/part/1) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-01e0c63992ea24d353d8a6d9df5c83a7]: Commencement: [Sch. 4 para. 40](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/paragraph/40) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-01e0c63992ea24d353d8a6d9df5c83a7]: Commencement: [Sch. 4 para. 40](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/paragraph/40) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-63971b7de2cd08da68a83a88f81c0214]: Commencement: [Sch. 4 para. 43](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/paragraph/43) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-63971b7de2cd08da68a83a88f81c0214]: Commencement: [Sch. 4 para. 43](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/paragraph/43) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-584624eface22cece642f93ab0e95c85]: Commencement: [Sch. 4 para. 44](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/paragraph/44) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-584624eface22cece642f93ab0e95c85]: Commencement: [Sch. 4 para. 44](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/paragraph/44) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-f43eb925f6feff487f7d343dfeb2d781]: Commencement: [Sch. 4 para. 58](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/paragraph/58) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-f43eb925f6feff487f7d343dfeb2d781]: Commencement: [Sch. 4 para. 58](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/paragraph/58) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-089ada0cea9870c68df7971a87e75041]: Commencement: [Sch. 4 para. 59](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/paragraph/59) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-089ada0cea9870c68df7971a87e75041]: Commencement: [Sch. 4 para. 59](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/paragraph/59) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-f247dfc15b950455d386837672e8db22]: Commencement: [Sch. 4 para. 60](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/paragraph/60) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-f247dfc15b950455d386837672e8db22]: Commencement: [Sch. 4 para. 60](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/paragraph/60) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-bbd9e7c3024903763eb186d8eb710855]: Commencement: [Sch. 4 para. 68](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/paragraph/68) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-bbd9e7c3024903763eb186d8eb710855]: Commencement: [Sch. 4 para. 68](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/paragraph/68) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-28af2c565f54522f9afbacf0d96ea4b2]: Commencement: [Sch. 4 para. 70](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/paragraph/70) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-28af2c565f54522f9afbacf0d96ea4b2]: Commencement: [Sch. 4 para. 70](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/paragraph/70) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-257338ef852fa9194e51a4bb005dc52a]: Commencement: [Sch. 4 Pt. 3](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/part/3) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-257338ef852fa9194e51a4bb005dc52a]: Commencement: [Sch. 4 Pt. 3](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/part/3) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
 
-[^key-0071e20dbc01743c0d6e476298b6fff8]: Commencement: [Sch. 4 para. 26](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/paragraph/26) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)
+[^c-0071e20dbc01743c0d6e476298b6fff8]: Commencement: [Sch. 4 para. 26](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/paragraph/26) in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1)

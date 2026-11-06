@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Restrictions on arrangements under section 1[^key-be189bd920488af91017605db19a68d8]
+## 2. Restrictions on arrangements under section 1[^c-be189bd920488af91017605db19a68d8]
 
 *Extent: E+W*
 
@@ -38,7 +38,7 @@ summary: ''
 
 (6) “ **Registered social worker** ” means a person registered as a social worker—
 
-- (a)[^key-2962240142978b2b702a06bc8cf963b2] in the register maintained by Social Work England under section 39(1) of the Children and Social Work Act 2017;
+- (a)[^c-2962240142978b2b702a06bc8cf963b2] in the register maintained by Social Work England under section 39(1) of the Children and Social Work Act 2017;
 - (b) in the register maintained by the Scottish Social Services Council under section 44 of the Regulation of Care (Scotland) Act 2001 (2001 asp 8); or
 - (c) in the register maintained by the Northern Ireland Social Care Council under section 3 of the Health and Personal Social Services Act (Northern Ireland) 2001 (c. 3).
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-be189bd920488af91017605db19a68d8]: Commencement: S. 2 in force at 16.2.2009 for E. by [S.I. 2009/323](https://www.legislation.gov.uk/uksi/2009/323), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/323/article/2/b)
+[^c-be189bd920488af91017605db19a68d8]: Commencement: S. 2 in force at 16.2.2009 for E. by [S.I. 2009/323](https://www.legislation.gov.uk/uksi/2009/323), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/323/article/2/b)
 
-[^key-2962240142978b2b702a06bc8cf963b2]: Textual amendment: [S. 2(6)(a)](https://www.legislation.gov.uk/ukpga/2008/23/section/2/6/a) substituted (2.12.2019) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 5 para. 37(1)](https://www.legislation.gov.uk/ukpga/2017/16/schedule/5/paragraph/37/1) (with [Sch. 5 para. 37(2)](https://www.legislation.gov.uk/ukpga/2017/16/schedule/5/paragraph/37/2)); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/s)
+[^c-2962240142978b2b702a06bc8cf963b2]: Textual amendment: [S. 2(6)(a)](https://www.legislation.gov.uk/ukpga/2008/23/section/2/6/a) substituted (2.12.2019) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 5 para. 37(1)](https://www.legislation.gov.uk/ukpga/2017/16/schedule/5/paragraph/37/1) (with [Sch. 5 para. 37(2)](https://www.legislation.gov.uk/ukpga/2017/16/schedule/5/paragraph/37/2)); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/s)

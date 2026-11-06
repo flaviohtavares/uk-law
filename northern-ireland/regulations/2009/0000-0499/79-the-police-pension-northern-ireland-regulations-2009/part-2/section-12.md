@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Service reckonable by reason of transfer value[^key-a95382a9838a89ce1f9359043a0cbb3b]
+## 12. Service reckonable by reason of transfer value[^c-a95382a9838a89ce1f9359043a0cbb3b]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a95382a9838a89ce1f9359043a0cbb3b]: Commencement: Reg. 12 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-a95382a9838a89ce1f9359043a0cbb3b]: Commencement: Reg. 12 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

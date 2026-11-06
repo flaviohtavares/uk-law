@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 157. Supplementary and consequential provision[^key-3ae30b75d8f140e015a8c729d9fcc4ba]
+## 157. Supplementary and consequential provision[^c-3ae30b75d8f140e015a8c729d9fcc4ba]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ which that Department considers necessary or expedient for the purposes of, in c
 
 ## Annotations
 
-[^key-3ae30b75d8f140e015a8c729d9fcc4ba]: Commencement: S. 157 in operation at 28.4.2022, see [s. 160(2)](https://www.legislation.gov.uk/nia/2022/18/section/160/2)
+[^c-3ae30b75d8f140e015a8c729d9fcc4ba]: Commencement: S. 157 in operation at 28.4.2022, see [s. 160(2)](https://www.legislation.gov.uk/nia/2022/18/section/160/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019[^key-7657b73e86d5e55a95dd90968e888b53]
+## 62. The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019[^c-7657b73e86d5e55a95dd90968e888b53]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In paragraph 63(1) of Schedule 1 to the International Accounting Standards and E
 
 ## Annotations
 
-[^key-7657b73e86d5e55a95dd90968e888b53]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/2020/1385/regulation/62) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
+[^c-7657b73e86d5e55a95dd90968e888b53]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/2020/1385/regulation/62) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
 
 [^f00054]: Footnote: [S.I. 2019/685](https://www.legislation.gov.uk/uksi/2019/685), as amended by [S.I 2019/1416](https://www.legislation.gov.uk/uksi/2019/1416) and [2020/646](https://www.legislation.gov.uk/uksi/2020/646).

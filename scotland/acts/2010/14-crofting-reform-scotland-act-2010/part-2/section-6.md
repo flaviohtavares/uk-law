@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-4e37be32c7db3256794288e7d0df64d7] An application for first registration of a croft is to be submitted—
+(1)[^c-4e37be32c7db3256794288e7d0df64d7] An application for first registration of a croft is to be submitted—
 
 - (a) in the case of a transfer of ownership of an owner-occupied croft such as is mentioned in section 4(1)(b), by the person to whom such ownership is transferred;
 - (b) in the case of a step mentioned in section 4(4), by the person mentioned in the entry in column 2 of Table 1 in schedule 2 which corresponds to the entry relating to that step in column 1 of that table.
 
-(2)[^key-9dc5af7cdb2781b39ee67af375847afe] An application for registration of an event in relation to a registered croft is to be submitted—
+(2)[^c-9dc5af7cdb2781b39ee67af375847afe] An application for registration of an event in relation to a registered croft is to be submitted—
 
 - (a) in the case of a transfer of ownership of a owner-occupied croft such as is mentioned in section 5(1)(a), by the person to whom such ownership is transferred;
 - (b) in the case of a transfer of ownership of land such as is mentioned in section 5(1)(b)(i), by the person to whom such ownership is transferred;
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4e37be32c7db3256794288e7d0df64d7]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/asp/2010/14/section/6/1) in force at 30.11.2013 by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/c)
+[^c-4e37be32c7db3256794288e7d0df64d7]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/asp/2010/14/section/6/1) in force at 30.11.2013 by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/c)
 
-[^key-9dc5af7cdb2781b39ee67af375847afe]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/asp/2010/14/section/6/2) in force at 30.11.2012 by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2)
+[^c-9dc5af7cdb2781b39ee67af375847afe]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/asp/2010/14/section/6/2) in force at 30.11.2012 by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2)

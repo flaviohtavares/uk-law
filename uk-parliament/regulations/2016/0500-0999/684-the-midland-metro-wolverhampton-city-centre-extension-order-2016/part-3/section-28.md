@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Application of Part 1 of the 1965 Act[^key-c10cc7f97f780687800e58b5fe59b732]
+## 28. Application of Part 1 of the 1965 Act[^c-c10cc7f97f780687800e58b5fe59b732]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c10cc7f97f780687800e58b5fe59b732]: Commencement: Art. 28 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-c10cc7f97f780687800e58b5fe59b732]: Commencement: Art. 28 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
 
 [^f00036]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).

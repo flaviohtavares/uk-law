@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 51. Entitlement to vote (creditors)[^key-af83c0fe12edcb0237fdef30d0da4ccb]
+## 51. Entitlement to vote (creditors)[^c-af83c0fe12edcb0237fdef30d0da4ccb]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af83c0fe12edcb0237fdef30d0da4ccb]: Commencement: [Rule 51](https://www.legislation.gov.uk/nisr/2026/11/rule/51) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-af83c0fe12edcb0237fdef30d0da4ccb]: Commencement: [Rule 51](https://www.legislation.gov.uk/nisr/2026/11/rule/51) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

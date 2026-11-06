@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — ENACTMENTS WHERE “STRATEGIC HEALTH AUTHORITY” IS SUBSTITUTED FOR “HEALTH AUTHORITY”[^key-1e69cad854f07490e0ea6d8b4d334530]
+## SCHEDULE 3 — ENACTMENTS WHERE “STRATEGIC HEALTH AUTHORITY” IS SUBSTITUTED FOR “HEALTH AUTHORITY”[^c-1e69cad854f07490e0ea6d8b4d334530]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ Regulation 6
 
 ## Annotations
 
-[^key-1e69cad854f07490e0ea6d8b4d334530]: Commencement: Sch. 3 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
+[^c-1e69cad854f07490e0ea6d8b4d334530]: Commencement: Sch. 3 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
 
 [^f00154]: Footnote: [S.I. 1991/589](https://www.legislation.gov.uk/uksi/1991/589), amended by [S.I. 2000/694](https://www.legislation.gov.uk/uksi/2000/694).
 

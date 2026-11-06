@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19.[^key-f027433758025f0526a3fd96c90cefdd]
+## 19.[^c-f027433758025f0526a3fd96c90cefdd]
 
 *Extent: E+W+S*
 
@@ -28,6 +28,6 @@ In section 103(1) [^c23620741], before the definition of “agriculture” inser
 
 ## Annotations
 
-[^key-f027433758025f0526a3fd96c90cefdd]: Commencement: Reg. 19 in force at 26.3.2019, see reg. 1(2)
+[^c-f027433758025f0526a3fd96c90cefdd]: Commencement: Reg. 19 in force at 26.3.2019, see reg. 1(2)
 
 [^c23620741]: Marginal citation: Section 103(1) was amended by section 2(1) of the [Road Traffic (Drivers' Ages and Hours of Work) Act 1976 (c. 3)](https://www.legislation.gov.uk/ukpga/1976/3) and by [S.I. 1979/1746](https://www.legislation.gov.uk/uksi/1979/1746), 1981/1373, 1986/1458, 2005/1904, 2007/1819, 2008/198, 2011/1043, 2013/1644, 2016/248, 2018/24.

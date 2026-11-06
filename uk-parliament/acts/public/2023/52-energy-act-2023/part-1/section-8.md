@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Power to create licence types[^key-2e8d732a447799e661627080feacfe0c]
+## 8. Power to create licence types[^c-2e8d732a447799e661627080feacfe0c]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ and references to provision being within devolved competence are to provision th
 
 ## Annotations
 
-[^key-2e8d732a447799e661627080feacfe0c]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/52/section/8) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-2e8d732a447799e661627080feacfe0c]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/52/section/8) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

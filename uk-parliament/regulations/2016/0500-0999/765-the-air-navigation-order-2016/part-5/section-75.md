@@ -29,8 +29,8 @@ summary: ''
 
 (2) Before commencing an approach to land, the pilot in command must be satisfied that, according to the information available, the weather at the aerodrome or the operating site and the condition of the runway or final approach and take-off area intended to be used would not prevent a safe approach, landing or missed approach.
 
-(3)[^key-9f1e69b85c74e24018c142cd70febb98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9f1e69b85c74e24018c142cd70febb98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9f1e69b85c74e24018c142cd70febb98]: Textual amendment: [Art. 75(3)](https://www.legislation.gov.uk/uksi/2016/765/article/75/3) omitted (14.12.2017) by virtue of [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [19](https://www.legislation.gov.uk/uksi/2017/1112/article/19)
+[^c-9f1e69b85c74e24018c142cd70febb98]: Textual amendment: [Art. 75(3)](https://www.legislation.gov.uk/uksi/2016/765/article/75/3) omitted (14.12.2017) by virtue of [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [19](https://www.legislation.gov.uk/uksi/2017/1112/article/19)

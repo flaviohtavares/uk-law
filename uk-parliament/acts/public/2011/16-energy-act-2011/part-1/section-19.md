@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Power to modify energy supply licences to require provision of information[^key-1b7bbd290331ae3b5609fb61cbb6fac5]
+## 19. Power to modify energy supply licences to require provision of information[^c-1b7bbd290331ae3b5609fb61cbb6fac5]
 
 *Extent: E+W+S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b7bbd290331ae3b5609fb61cbb6fac5]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2011/16/section/19) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(v)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/v)
+[^c-1b7bbd290331ae3b5609fb61cbb6fac5]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2011/16/section/19) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(v)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/v)

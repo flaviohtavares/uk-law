@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section has effect in relation to capital losses which accrue during the currency of a mineral lease or agreement entered into before the relevant date[^key-8dc6ac615f84cd27fae30dc4d8474d66], and applies in any case where, at the time of the occurrence of a relevant event in relation to a mineral lease or agreement entered into before that date[^key-b9279443bac71fe86c49e14fed6d54ef], the person who immediately before that event occurred was entitled to receive mineral royalties under the lease or agreement (“**the taxpayer**”) has an interest in the land to which the mineral lease or agreement relates (“**the relevant interest**”).
+(1) This section has effect in relation to capital losses which accrue during the currency of a mineral lease or agreement entered into before the relevant date[^c-8dc6ac615f84cd27fae30dc4d8474d66], and applies in any case where, at the time of the occurrence of a relevant event in relation to a mineral lease or agreement entered into before that date[^c-b9279443bac71fe86c49e14fed6d54ef], the person who immediately before that event occurred was entitled to receive mineral royalties under the lease or agreement (“**the taxpayer**”) has an interest in the land to which the mineral lease or agreement relates (“**the relevant interest**”).
 
-(1A)[^key-96ac0dc6b1b05c4a959c03a7a4f40685] For the purposes of this section “**the relevant date**” means—
+(1A)[^c-96ac0dc6b1b05c4a959c03a7a4f40685] For the purposes of this section “**the relevant date**” means—
 
 - (a) for the purposes of capital gains tax, 6 April 2013; and
 - (b) for the purposes of corporation tax in respect of chargeable gains, 1 April 2013.
@@ -32,7 +32,7 @@ summary: ''
 - (a) on the expiry or termination of the mineral lease or agreement;
 - (b) if the relevant interest is disposed of, or is treated as having been disposed of by virtue of any provision of this Act.
 
-(3) On the expiry or termination of a mineral lease or agreement entered into before the relevant date[^key-edd32d25d59e1eefe9c4c64a74d48e98] the taxpayer shall, if he makes a claim in that behalf, be treated for purposes of tax in respect of chargeable gains as if he had disposed of and immediately reacquired the relevant interest for a consideration equal to its market value, but a claim may not be made under this subsection—
+(3) On the expiry or termination of a mineral lease or agreement entered into before the relevant date[^c-edd32d25d59e1eefe9c4c64a74d48e98] the taxpayer shall, if he makes a claim in that behalf, be treated for purposes of tax in respect of chargeable gains as if he had disposed of and immediately reacquired the relevant interest for a consideration equal to its market value, but a claim may not be made under this subsection—
 
 - (a) if the expiry or termination of the mineral lease or agreement is also a relevant event falling within subsection (2)(b) above; nor
 - (b) unless, on the notional disposal referred to above, an allowable loss would accrue to the taxpayer.
@@ -55,10 +55,10 @@ summary: ''
 
 ## Annotations
 
-[^key-8dc6ac615f84cd27fae30dc4d8474d66]: Textual amendment: Words in s. 202(1) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 46(2)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/46/2/a)
+[^c-8dc6ac615f84cd27fae30dc4d8474d66]: Textual amendment: Words in s. 202(1) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 46(2)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/46/2/a)
 
-[^key-b9279443bac71fe86c49e14fed6d54ef]: Textual amendment: Words in s. 202(1) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 46(2)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/46/2/b)
+[^c-b9279443bac71fe86c49e14fed6d54ef]: Textual amendment: Words in s. 202(1) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 46(2)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/46/2/b)
 
-[^key-96ac0dc6b1b05c4a959c03a7a4f40685]: Textual amendment: S. 202(1A) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 46(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/46/3)
+[^c-96ac0dc6b1b05c4a959c03a7a4f40685]: Textual amendment: S. 202(1A) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 46(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/46/3)
 
-[^key-edd32d25d59e1eefe9c4c64a74d48e98]: Textual amendment: Words in s. 202(3) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 46(4)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/46/4)
+[^c-edd32d25d59e1eefe9c4c64a74d48e98]: Textual amendment: Words in s. 202(3) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 46(4)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/46/4)

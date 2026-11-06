@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Determination of tribunal as to estate management charges[^key-ff8f27fb9b19a8e87f0685479775e275]
+## 77. Determination of tribunal as to estate management charges[^c-ff8f27fb9b19a8e87f0685479775e275]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ of any question which may be the subject of an application under subsection (1) 
 
 ## Annotations
 
-[^key-ff8f27fb9b19a8e87f0685479775e275]: Commencement: S. 77 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-ff8f27fb9b19a8e87f0685479775e275]: Commencement: S. 77 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

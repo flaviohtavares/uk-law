@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15A. Power to specify rounded figures[^key-1e4d350dbbc3a9d7f21c7e37d3e86faf]
+## 15A. Power to specify rounded figures[^c-1e4d350dbbc3a9d7f21c7e37d3e86faf]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e4d350dbbc3a9d7f21c7e37d3e86faf]: Textual amendment: S. 15A inserted (2.6.2012 for specified purposes, 7.6.2012 in so far as not already in operation) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 10](https://www.legislation.gov.uk/nia/2012/3/section/10), [34(1)](https://www.legislation.gov.uk/nia/2012/3/section/34/1)[(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3); [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2012/233/article/2/1/a)
+[^c-1e4d350dbbc3a9d7f21c7e37d3e86faf]: Textual amendment: S. 15A inserted (2.6.2012 for specified purposes, 7.6.2012 in so far as not already in operation) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 10](https://www.legislation.gov.uk/nia/2012/3/section/10), [34(1)](https://www.legislation.gov.uk/nia/2012/3/section/34/1)[(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3); [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2012/233/article/2/1/a)

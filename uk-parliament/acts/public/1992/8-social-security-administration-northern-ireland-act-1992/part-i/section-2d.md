@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2D. Work-related activity[^key-8f10ad6b4e32a43c45ad49bbe71bca8f]
+## 2D. Work-related activity[^c-8f10ad6b4e32a43c45ad49bbe71bca8f]
 
 *Extent: N.I.*
 
@@ -73,7 +73,7 @@ a requirement to undertake work-related activity in accordance with regulations 
   - (ii) is responsible for, and a member of the same household as, a child;
 - (c) “**prescribed**” means specified in, or determined in accordance with, regulations;
 - (d) “**work-related activity**”, in relation to a person, means activity which makes it more likely that the person will obtain or remain in work or be able to do so;
-- (e) any reference to a person attaining pensionable age is, in the case of a man born before 6 December 1953[^key-ff48c10a71645dadbcf8decac1051dc4] , a reference to the time when a woman born on the same day as the man would attain pensionable age;
+- (e) any reference to a person attaining pensionable age is, in the case of a man born before 6 December 1953[^c-ff48c10a71645dadbcf8decac1051dc4] , a reference to the time when a woman born on the same day as the man would attain pensionable age;
 - (f) any reference to a benefit payable to C at a higher rate referable to P is a reference to any case where the amount payable is more than it would be if C and P were not members of the same couple.
 
 (10) For the purposes of this section regulations may make provision—
@@ -85,6 +85,6 @@ a requirement to undertake work-related activity in accordance with regulations 
 
 ## Annotations
 
-[^key-8f10ad6b4e32a43c45ad49bbe71bca8f]: Textual amendment: Ss. 2D-2H inserted (13.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 2(2)](https://www.legislation.gov.uk/nia/2010/13/section/2/2), [36(1)(a)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/a)
+[^c-8f10ad6b4e32a43c45ad49bbe71bca8f]: Textual amendment: Ss. 2D-2H inserted (13.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 2(2)](https://www.legislation.gov.uk/nia/2010/13/section/2/2), [36(1)(a)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/a)
 
-[^key-ff48c10a71645dadbcf8decac1051dc4]: Textual amendment: Words in [s. 2D(9)(e)](https://www.legislation.gov.uk/ukpga/1992/8/section/2D/9/e) substituted (2.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(2)](https://www.legislation.gov.uk/nia/2012/3/section/34/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2012/3/schedule/1/paragraph/3)
+[^c-ff48c10a71645dadbcf8decac1051dc4]: Textual amendment: Words in [s. 2D(9)(e)](https://www.legislation.gov.uk/ukpga/1992/8/section/2D/9/e) substituted (2.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(2)](https://www.legislation.gov.uk/nia/2012/3/section/34/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2012/3/schedule/1/paragraph/3)

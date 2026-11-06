@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Power of arrest and seizure[^c22719411][^key-f2a337c108b297d2eaf633306bb6eb90]
+## 102. Power of arrest and seizure[^c22719411][^c-f2a337c108b297d2eaf633306bb6eb90]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^c22719411]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2017/3/section/102) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-f2a337c108b297d2eaf633306bb6eb90]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2017/3/section/102) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/227/article/2/e)
+[^c-f2a337c108b297d2eaf633306bb6eb90]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2017/3/section/102) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/227/article/2/e)

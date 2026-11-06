@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Certificates[^key-8f84c3227b297d11f240ae9359db2af4]
+## 19. Certificates[^c-8f84c3227b297d11f240ae9359db2af4]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8f84c3227b297d11f240ae9359db2af4]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2023/953/regulation/19) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
+[^c-8f84c3227b297d11f240ae9359db2af4]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2023/953/regulation/19) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
 
 [^f00055]: Footnote: [S.I. 1976/615](https://www.legislation.gov.uk/uksi/1976/615). Regulation 2(1) was substituted by [S.I. 2010/137](https://www.legislation.gov.uk/uksi/2010/137).
 

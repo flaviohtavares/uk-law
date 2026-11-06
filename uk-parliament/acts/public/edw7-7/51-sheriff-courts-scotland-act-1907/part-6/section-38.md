@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Summary removing.[^c17820921][^key-4a2fbc01d2837c2d58f3a30aa6d3de05]
+## 38. Summary removing.[^c17820921][^c-4a2fbc01d2837c2d58f3a30aa6d3de05]
 
 *Extent: S*
 
@@ -28,7 +28,7 @@ Provided that in no case shall notice of removal be given less than 28 days befo
 
 [^c17820921]: Modification: [S. 38](https://www.legislation.gov.uk/ukpga/Edw7/7/51/section/38) applied (10.6.2002) by [Act of Sederunt (Summary Cause Rules) 2002 (S.S.I. 2002/132)](https://www.legislation.gov.uk/ssi/2002/132), [art. 2](https://www.legislation.gov.uk/ssi/2002/132/article/2), {Sch. 1 rule 30.3} (with art. 3)
 
-[^key-4a2fbc01d2837c2d58f3a30aa6d3de05]: Modification: Ss. 34-38A excluded (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29), [s. 269A(5)](https://www.legislation.gov.uk/ukpga/2002/29/section/269A/5) (as inserted by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 29(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/29/5), [58(1)(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/l))
+[^c-4a2fbc01d2837c2d58f3a30aa6d3de05]: Modification: Ss. 34-38A excluded (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29), [s. 269A(5)](https://www.legislation.gov.uk/ukpga/2002/29/section/269A/5) (as inserted by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 29(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/29/5), [58(1)(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/l))
 
 [^c15187421]: Textual amendment: Words substituted by virtue of [Sheriff Courts (Scotland) Act 1971 (c. 58)](https://www.legislation.gov.uk/ukpga/1971/58), [s. 4](https://www.legislation.gov.uk/ukpga/1971/58/section/4)
 

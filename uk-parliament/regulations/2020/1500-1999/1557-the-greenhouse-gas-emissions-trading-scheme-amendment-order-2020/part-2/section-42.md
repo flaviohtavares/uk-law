@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Schedule 10 amended (appeals to Planning Appeals Commission (Northern Ireland))[^key-23fda657d44b356bad8f8485e9cf42ef]
+## 42. Schedule 10 amended (appeals to Planning Appeals Commission (Northern Ireland))[^c-23fda657d44b356bad8f8485e9cf42ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23fda657d44b356bad8f8485e9cf42ef]: Commencement: Art. 42 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-23fda657d44b356bad8f8485e9cf42ef]: Commencement: Art. 42 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

@@ -24,12 +24,12 @@ summary: ''
 
 Section 4
 
-**1.**[^key-ec577ea1cb5c8041f0672140362a2dcb] A user-to-user service described in any of paragraphs 1 to 5 of Schedule 1—
+**1.**[^c-ec577ea1cb5c8041f0672140362a2dcb] A user-to-user service described in any of paragraphs 1 to 5 of Schedule 1—
 
 - (a) on which regulated provider pornographic content is published or displayed, and
 - (b) that has links with the United Kingdom.
 
-**2.**[^key-7b7c6d5e3bbf277993a52975de37f87a] (1) A user-to-user service within sub-paragraph (2) or (3).
+**2.**[^c-7b7c6d5e3bbf277993a52975de37f87a] (1) A user-to-user service within sub-paragraph (2) or (3).
 
 (2) A user-to-user service is within this sub-paragraph if—
 
@@ -47,7 +47,7 @@ Section 4
 - (c) regulated provider pornographic content is published or displayed on the rest of the service, and
 - (d) the service has links with the United Kingdom.
 
-**3.**[^key-1832569550d54c3d804c8c4fad7cdc02] (1) A search service within sub-paragraph (2).
+**3.**[^c-1832569550d54c3d804c8c4fad7cdc02] (1) A search service within sub-paragraph (2).
 
 (2) A search service is within this sub-paragraph if—
 
@@ -56,9 +56,9 @@ Section 4
 - (c) regulated provider pornographic content is published or displayed on the rest of the service, and
 - (d) the service has links with the United Kingdom.
 
-**4.**[^key-bc7716e3acc3773f913464b0db2e0300] For the purposes of this Schedule, a service “has links with the United Kingdom” if it has links with the United Kingdom within the meaning of section 80(4).
+**4.**[^c-bc7716e3acc3773f913464b0db2e0300] For the purposes of this Schedule, a service “has links with the United Kingdom” if it has links with the United Kingdom within the meaning of section 80(4).
 
-**5.**[^key-645099af77a0d1fdd14a67b3ed02bcef] In this Schedule—
+**5.**[^c-645099af77a0d1fdd14a67b3ed02bcef] In this Schedule—
 
 - “**the internal business service conditions**” means the conditions in paragraph 7(2) of Schedule 1;
 - “**public search engine**” means a search engine other than one in relation to which the internal business service conditions are met;
@@ -68,12 +68,12 @@ Section 4
 
 ## Annotations
 
-[^key-ec577ea1cb5c8041f0672140362a2dcb]: Commencement: Sch. 2 para. 1 in force at Royal Assent, see [s. 240(4)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
+[^c-ec577ea1cb5c8041f0672140362a2dcb]: Commencement: Sch. 2 para. 1 in force at Royal Assent, see [s. 240(4)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
 
-[^key-7b7c6d5e3bbf277993a52975de37f87a]: Commencement: Sch. 2 para. 2 in force at Royal Assent, see [s. 240(4)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
+[^c-7b7c6d5e3bbf277993a52975de37f87a]: Commencement: Sch. 2 para. 2 in force at Royal Assent, see [s. 240(4)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
 
-[^key-1832569550d54c3d804c8c4fad7cdc02]: Commencement: Sch. 2 para. 3 in force at Royal Assent, see [s. 240(4)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
+[^c-1832569550d54c3d804c8c4fad7cdc02]: Commencement: Sch. 2 para. 3 in force at Royal Assent, see [s. 240(4)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
 
-[^key-bc7716e3acc3773f913464b0db2e0300]: Commencement: Sch. 2 para. 4 in force at Royal Assent, see [s. 240(4)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
+[^c-bc7716e3acc3773f913464b0db2e0300]: Commencement: Sch. 2 para. 4 in force at Royal Assent, see [s. 240(4)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
 
-[^key-645099af77a0d1fdd14a67b3ed02bcef]: Commencement: Sch. 2 para. 5 in force at Royal Assent, see [s. 240(4)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
+[^c-645099af77a0d1fdd14a67b3ed02bcef]: Commencement: Sch. 2 para. 5 in force at Royal Assent, see [s. 240(4)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)

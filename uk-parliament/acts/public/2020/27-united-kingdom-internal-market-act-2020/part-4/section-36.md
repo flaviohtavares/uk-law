@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Report on request on provision considered to have detrimental effects[^key-c5185f5a64b30ea7c89d82421ca8eb09]
+## 36. Report on request on provision considered to have detrimental effects[^c-c5185f5a64b30ea7c89d82421ca8eb09]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5185f5a64b30ea7c89d82421ca8eb09]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2020/27/section/36) in force at 20.9.2021 by [S.I. 2021/1062](https://www.legislation.gov.uk/uksi/2021/1062), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/1062/regulation/2/f)
+[^c-c5185f5a64b30ea7c89d82421ca8eb09]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2020/27/section/36) in force at 20.9.2021 by [S.I. 2021/1062](https://www.legislation.gov.uk/uksi/2021/1062), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/1062/regulation/2/f)

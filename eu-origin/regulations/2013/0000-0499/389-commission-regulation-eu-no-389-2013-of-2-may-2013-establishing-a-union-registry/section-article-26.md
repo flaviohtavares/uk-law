@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1.[^key-cad5297cdc01dc2cfecfd044f5aceb96] Person holding accounts may have a trusted account list in the Registry
+1.[^c-cad5297cdc01dc2cfecfd044f5aceb96] Person holding accounts may have a trusted account list in the Registry
 
 2. Accounts held by the same account holder shall be automatically included on the trusted account list.
 
-3.[^key-9d8664be4a8994be65349fdbe9a9deae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-9d8664be4a8994be65349fdbe9a9deae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cad5297cdc01dc2cfecfd044f5aceb96]: Textual amendment: [Art. 26(1)](https://www.legislation.gov.uk/eur/2013/389/article/26/1) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [4(17)(a)](https://www.legislation.gov.uk/uksi/2021/511/regulation/4/17/a)
+[^c-cad5297cdc01dc2cfecfd044f5aceb96]: Textual amendment: [Art. 26(1)](https://www.legislation.gov.uk/eur/2013/389/article/26/1) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [4(17)(a)](https://www.legislation.gov.uk/uksi/2021/511/regulation/4/17/a)
 
-[^key-9d8664be4a8994be65349fdbe9a9deae]: Textual amendment: [Art. 26(3)](https://www.legislation.gov.uk/eur/2013/389/article/26/3) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [4(17)(b)](https://www.legislation.gov.uk/uksi/2021/511/regulation/4/17/b)
+[^c-9d8664be4a8994be65349fdbe9a9deae]: Textual amendment: [Art. 26(3)](https://www.legislation.gov.uk/eur/2013/389/article/26/3) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [4(17)(b)](https://www.legislation.gov.uk/uksi/2021/511/regulation/4/17/b)

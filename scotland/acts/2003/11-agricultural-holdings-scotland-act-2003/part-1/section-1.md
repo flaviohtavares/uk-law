@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Application of the 1991 Act to agricultural holdings[^key-7d8dd0161e929c74c0d292cedb05f415]
+## 1. Application of the 1991 Act to agricultural holdings[^c-7d8dd0161e929c74c0d292cedb05f415]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ the tenancy under the lease is in this Act referred to as a “**1991 Act tenanc
 
 ## Annotations
 
-[^key-7d8dd0161e929c74c0d292cedb05f415]: Commencement: S. 1 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/548/article/2/a) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-7d8dd0161e929c74c0d292cedb05f415]: Commencement: S. 1 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/548/article/2/a) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

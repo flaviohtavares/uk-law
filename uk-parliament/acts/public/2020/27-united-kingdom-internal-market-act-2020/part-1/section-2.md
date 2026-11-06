@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. The mutual recognition principle for goods[^key-58f35bfd4f4fb8df975c37ac37b0188b]
+## 2. The mutual recognition principle for goods[^c-58f35bfd4f4fb8df975c37ac37b0188b]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ So, for example, if goods are to be sold by auction, the condition is met if (an
 
 ## Annotations
 
-[^key-58f35bfd4f4fb8df975c37ac37b0188b]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2020/27/section/2) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)
+[^c-58f35bfd4f4fb8df975c37ac37b0188b]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2020/27/section/2) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)

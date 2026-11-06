@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Interpretation[^key-df7c72463ede15877981469890406ac8][^key-0e176dc4375e7e109bccd619244a1aed]
+## 12. Interpretation[^c-df7c72463ede15877981469890406ac8][^c-0e176dc4375e7e109bccd619244a1aed]
 
 *Extent: E+W+S*
 
@@ -32,14 +32,14 @@ summary: ''
 
 (4) In this Part “**securities**” means shares (including stock), debentures, bonds and other securities, whether constituting a charge on the assets of a company or not.
 
-(5) An expression used in this Part which is given a meaning by the Companies Acts (as defined in section 2 of the Companies Act 2006)[^key-2293daca6c6a7d317d04ceb617f0105e] for general purposes of that Act shall have the same meaning for the purposes of this Part.
+(5) An expression used in this Part which is given a meaning by the Companies Acts (as defined in section 2 of the Companies Act 2006)[^c-2293daca6c6a7d317d04ceb617f0105e] for general purposes of that Act shall have the same meaning for the purposes of this Part.
 
 (6) An expression used in this Part and in the Betting, Gaming and Lotteries Act 1963 (c. 2) shall have the same meaning in this Part as in that Act.
 
 ## Annotations
 
-[^key-df7c72463ede15877981469890406ac8]: Commencement: S. 12 in force at 1.1.2005 for specified purposes by [S.I. 2004/3283](https://www.legislation.gov.uk/uksi/2004/3283), [art. 4](https://www.legislation.gov.uk/uksi/2004/3283/article/4)
+[^c-df7c72463ede15877981469890406ac8]: Commencement: S. 12 in force at 1.1.2005 for specified purposes by [S.I. 2004/3283](https://www.legislation.gov.uk/uksi/2004/3283), [art. 4](https://www.legislation.gov.uk/uksi/2004/3283/article/4)
 
-[^key-0e176dc4375e7e109bccd619244a1aed]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2004/25/section/12) in force at 25.2.2011 for specified purposes by [S.I. 2011/462](https://www.legislation.gov.uk/uksi/2011/462), [art. 2](https://www.legislation.gov.uk/uksi/2011/462/article/2)
+[^c-0e176dc4375e7e109bccd619244a1aed]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2004/25/section/12) in force at 25.2.2011 for specified purposes by [S.I. 2011/462](https://www.legislation.gov.uk/uksi/2011/462), [art. 2](https://www.legislation.gov.uk/uksi/2011/462/article/2)
 
-[^key-2293daca6c6a7d317d04ceb617f0105e]: Textual amendment: Words in [s. 12](https://www.legislation.gov.uk/ukpga/2004/25/section/12) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 231(3)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/231/3) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-2293daca6c6a7d317d04ceb617f0105e]: Textual amendment: Words in [s. 12](https://www.legislation.gov.uk/ukpga/2004/25/section/12) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 231(3)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/231/3) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))

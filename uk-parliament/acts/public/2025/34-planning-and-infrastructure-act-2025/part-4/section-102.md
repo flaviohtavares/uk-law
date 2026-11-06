@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Duties to have regard to sustainable development and climate change[^key-830b2cc75b8bd6b1c8be1b06bd38e0d1][^key-9e1b4cb261c8d62233a6c6b424f6456c]
+## 102. Duties to have regard to sustainable development and climate change[^c-830b2cc75b8bd6b1c8be1b06bd38e0d1][^c-9e1b4cb261c8d62233a6c6b424f6456c]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-830b2cc75b8bd6b1c8be1b06bd38e0d1]: Commencement: S. 102 not in force at Royal Assent, see [s. 118(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/4)
+[^c-830b2cc75b8bd6b1c8be1b06bd38e0d1]: Commencement: S. 102 not in force at Royal Assent, see [s. 118(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/4)
 
-[^key-9e1b4cb261c8d62233a6c6b424f6456c]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2025/34/section/102) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(f)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/f)
+[^c-9e1b4cb261c8d62233a6c6b424f6456c]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2025/34/section/102) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(f)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/f)

@@ -28,10 +28,10 @@ summary: ''
 
 (4) No embryo appropriated for the purposes of any project of research shall be kept or used otherwise than for the purposes of such a project.
 
-(5)[^key-8ce348fd8cbc5efdbad8b56cdf1e6598] If by virtue of paragraph 20 of Schedule 3 (existing cells or cell lines) qualifying cells, as defined by paragraph 20(2) of that Schedule, of a person (“P”) are used to bring about the creation *in vitro* of an embryo or human admixed embryo without P's consent, steps shall be taken to ensure that the embryo or human admixed embryo cannot subsequently be attributed to P.
+(5)[^c-8ce348fd8cbc5efdbad8b56cdf1e6598] If by virtue of paragraph 20 of Schedule 3 (existing cells or cell lines) qualifying cells, as defined by paragraph 20(2) of that Schedule, of a person (“P”) are used to bring about the creation *in vitro* of an embryo or human admixed embryo without P's consent, steps shall be taken to ensure that the embryo or human admixed embryo cannot subsequently be attributed to P.
 
 ## Annotations
 
 [^c271621]: Commencement: S. 15 wholly in force at 1.8.1991 see s. 49(2) and [S.I. 1991/1400](https://www.legislation.gov.uk/uksi/1991/1400), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/1400/article/2/2)
 
-[^key-8ce348fd8cbc5efdbad8b56cdf1e6598]: Textual amendment: S. 15(5) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2008/22/schedule/7/paragraph/7); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(y)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/y)
+[^c-8ce348fd8cbc5efdbad8b56cdf1e6598]: Textual amendment: S. 15(5) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2008/22/schedule/7/paragraph/7); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(y)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/y)

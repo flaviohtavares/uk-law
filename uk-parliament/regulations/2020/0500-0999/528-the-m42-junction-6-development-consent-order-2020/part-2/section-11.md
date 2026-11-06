@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Planning permission[^key-0501f98edb9bf8b1a3c2ecf92c66358e]
+## 11. Planning permission[^c-0501f98edb9bf8b1a3c2ecf92c66358e]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ then the carrying out, use or operation of such development pursuant to the term
 
 ## Annotations
 
-[^key-0501f98edb9bf8b1a3c2ecf92c66358e]: Commencement: Art. 11 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-0501f98edb9bf8b1a3c2ecf92c66358e]: Commencement: Art. 11 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)

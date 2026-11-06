@@ -40,39 +40,39 @@ Coming into force
 
 12th April 2010
 
-[^key-2331869ceff85b8cb107a5ea1133d079]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2331869ceff85b8cb107a5ea1133d079]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^key-2331869ceff85b8cb107a5ea1133d079][^key-2331869ceff85b8cb107a5ea1133d079]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^key-2331869ceff85b8cb107a5ea1133d079][^key-2331869ceff85b8cb107a5ea1133d079]
+## 1. Citation, commencement and interpretation[^c-2331869ceff85b8cb107a5ea1133d079][^c-2331869ceff85b8cb107a5ea1133d079]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Persons not ordinarily resident in Great Britain[^key-2331869ceff85b8cb107a5ea1133d079][^key-2331869ceff85b8cb107a5ea1133d079]
+## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^c-2331869ceff85b8cb107a5ea1133d079][^c-2331869ceff85b8cb107a5ea1133d079]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Social Security Benefit (Dependency) Regulations 1977[^key-2331869ceff85b8cb107a5ea1133d079][^key-2331869ceff85b8cb107a5ea1133d079]
+## 3. Persons not ordinarily resident in Great Britain[^c-2331869ceff85b8cb107a5ea1133d079][^c-2331869ceff85b8cb107a5ea1133d079]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Social Security (Claims and Payments) Regulations 1987[^key-2331869ceff85b8cb107a5ea1133d079][^key-2331869ceff85b8cb107a5ea1133d079]
+## 4. Amendment of the Social Security Benefit (Dependency) Regulations 1977[^c-2331869ceff85b8cb107a5ea1133d079][^c-2331869ceff85b8cb107a5ea1133d079]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation[^key-2331869ceff85b8cb107a5ea1133d079][^key-2331869ceff85b8cb107a5ea1133d079]
+## 5. Amendment of the Social Security (Claims and Payments) Regulations 1987[^c-2331869ceff85b8cb107a5ea1133d079][^c-2331869ceff85b8cb107a5ea1133d079]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Revocation[^c-2331869ceff85b8cb107a5ea1133d079][^c-2331869ceff85b8cb107a5ea1133d079]
 
 **No longer in force.**
 
@@ -80,10 +80,10 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-2331869ceff85b8cb107a5ea1133d079]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2331869ceff85b8cb107a5ea1133d079]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2331869ceff85b8cb107a5ea1133d079]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2331869ceff85b8cb107a5ea1133d079]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2331869ceff85b8cb107a5ea1133d079]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2010/826) revoked (11.4.2011) by [The Social Security Benefits Up-rating Regulations 2011 (S.I. 2011/830)](https://www.legislation.gov.uk/uksi/2011/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/830/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2011/830/regulation/6/b)
+[^c-2331869ceff85b8cb107a5ea1133d079]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2010/826) revoked (11.4.2011) by [The Social Security Benefits Up-rating Regulations 2011 (S.I. 2011/830)](https://www.legislation.gov.uk/uksi/2011/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/830/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2011/830/regulation/6/b)

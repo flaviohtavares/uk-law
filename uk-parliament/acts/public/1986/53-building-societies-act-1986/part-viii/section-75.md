@@ -22,7 +22,7 @@ summary: ''
 
 (1) The directors of a building society shall prepare for submission to the annual general meeting a report on the business of the society containing—
 
-- (a)[^key-73c0aa5400217754f4d046dd204556ad] a fair review of the business of the society and its connected undertakings (if any), complying with section 75A,
+- (a)[^c-73c0aa5400217754f4d046dd204556ad] a fair review of the business of the society and its connected undertakings (if any), complying with section 75A,
 - (aa) a description of the principal risks and uncertainties facing the society and its connected undertakings (if any),
 - (b)[^c15511801] such information relating to such aspects of the business of the society or the society and any connected undertakings[^c15511811] as may be prescribed by regulations made by the [^c15511821]. . . Treasury, and
 - (c)[^c15511831] a statement as to the matters mentioned in subsection (1A) below.
@@ -33,9 +33,9 @@ summary: ''
 - (b) if the society has acquired or established, or allowed such an undertaking to acquire or establish, such a business, what the business is and whether the society complied with the requirements of subsection (1) of that section; and
 - (c) if the society did not comply with those requirements, why the society nevertheless proceeded, or allowed the undertaking to proceed, with the acquisition or establishment.
 
-(1B)[^key-e4158c437560af150feae5daae30cbcb] If the building society has subsidiary undertakings, the report may, where appropriate, give greater emphasis to those matters which are significant to the society and its subsidiary undertakings taken as a whole.
+(1B)[^c-e4158c437560af150feae5daae30cbcb] If the building society has subsidiary undertakings, the report may, where appropriate, give greater emphasis to those matters which are significant to the society and its subsidiary undertakings taken as a whole.
 
-(2)[^key-288a764358b7eb85d0f9cc0de36318ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-288a764358b7eb85d0f9cc0de36318ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The power to make regulations under subsection (1) above is exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-73c0aa5400217754f4d046dd204556ad]: Textual amendment: S. 75(1)(a)(aa) substituted (22.12.2004) for s. 75(1)(a) (with effect in accordance with art. 1(2) of the amending S.I.) by [The Building Societies Act 1986 (International Accounting Standards and Other Accounting Amendments) Order 2004 (S.I. 2004/3380)](https://www.legislation.gov.uk/uksi/2004/3380), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3380/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/3/2)
+[^c-73c0aa5400217754f4d046dd204556ad]: Textual amendment: S. 75(1)(a)(aa) substituted (22.12.2004) for s. 75(1)(a) (with effect in accordance with art. 1(2) of the amending S.I.) by [The Building Societies Act 1986 (International Accounting Standards and Other Accounting Amendments) Order 2004 (S.I. 2004/3380)](https://www.legislation.gov.uk/uksi/2004/3380), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3380/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/3/2)
 
 [^c15511801]: Modification: S. 75(1)(b): Functions of the Building Societies Commission transferred (1.12.2001) to the Treasury by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2(b)](https://www.legislation.gov.uk/uksi/2001/2617/article/2/b), [4(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/4/1), [Sch. 1 Pt. III](https://www.legislation.gov.uk/uksi/2001/2617/schedule/1/part/III) (with [art. 5](https://www.legislation.gov.uk/uksi/2001/2617/article/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 
@@ -55,8 +55,8 @@ summary: ''
 
 [^c15511841]: Textual amendment: S. 75(1A) inserted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 43](https://www.legislation.gov.uk/ukpga/1997/32/section/43), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3), [Sch. 7 para. 32(2)](https://www.legislation.gov.uk/ukpga/1997/32/schedule/7/paragraph/32/2); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(w)(z)(xix)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/w/z/xix)
 
-[^key-e4158c437560af150feae5daae30cbcb]: Textual amendment: S. 75(1B) inserted (22.12.2004) (with effect in accordance with art. 1(2) of the amending S.I.) by [The Building Societies Act 1986 (International Accounting Standards and Other Accounting Amendments) Order 2004 (S.I. 2004/3380)](https://www.legislation.gov.uk/uksi/2004/3380), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3380/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2004/3380/article/3/3)
+[^c-e4158c437560af150feae5daae30cbcb]: Textual amendment: S. 75(1B) inserted (22.12.2004) (with effect in accordance with art. 1(2) of the amending S.I.) by [The Building Societies Act 1986 (International Accounting Standards and Other Accounting Amendments) Order 2004 (S.I. 2004/3380)](https://www.legislation.gov.uk/uksi/2004/3380), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3380/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2004/3380/article/3/3)
 
-[^key-288a764358b7eb85d0f9cc0de36318ab]: Textual amendment: S. 75(2) omitted (22.12.2004) (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [The Building Societies Act 1986 (International Accounting Standards and Other Accounting Amendments) Order 2004 (S.I. 2004/3380)](https://www.legislation.gov.uk/uksi/2004/3380), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3380/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2004/3380/article/3/4)
+[^c-288a764358b7eb85d0f9cc0de36318ab]: Textual amendment: S. 75(2) omitted (22.12.2004) (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [The Building Societies Act 1986 (International Accounting Standards and Other Accounting Amendments) Order 2004 (S.I. 2004/3380)](https://www.legislation.gov.uk/uksi/2004/3380), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3380/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2004/3380/article/3/4)
 
 [^c15511871]: Textual amendment: Words in s. 75(4) substituted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 43](https://www.legislation.gov.uk/ukpga/1997/32/section/43), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3), [Sch. 7 para. 32(4)](https://www.legislation.gov.uk/ukpga/1997/32/schedule/7/paragraph/32/4); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(w)(z)(xix)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/w/z/xix)

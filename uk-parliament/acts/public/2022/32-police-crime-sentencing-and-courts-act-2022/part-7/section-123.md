@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Penalty for causing or allowing a child or vulnerable adult to die or suffer serious physical harm[^key-ed102296e04c4331b40e59e31e5121c9]
+## 123. Penalty for causing or allowing a child or vulnerable adult to die or suffer serious physical harm[^c-ed102296e04c4331b40e59e31e5121c9]
 
 *Extent: E+W+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed102296e04c4331b40e59e31e5121c9]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2022/32/section/123) in force at 28.6.2022, see [s. 208(5)(j)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/j)
+[^c-ed102296e04c4331b40e59e31e5121c9]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2022/32/section/123) in force at 28.6.2022, see [s. 208(5)(j)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/j)

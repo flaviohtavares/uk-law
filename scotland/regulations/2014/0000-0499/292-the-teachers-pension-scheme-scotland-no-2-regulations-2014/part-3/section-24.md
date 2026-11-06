@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Pensionable service – armed forces service[^key-daf13b46b6ef2bd867c0e621a7d1a657]
+## 24. Pensionable service – armed forces service[^c-daf13b46b6ef2bd867c0e621a7d1a657]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ For the purpose of these Regulations, a person is in pensionable service during 
 
 ## Annotations
 
-[^key-daf13b46b6ef2bd867c0e621a7d1a657]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2014/292/regulation/24) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-daf13b46b6ef2bd867c0e621a7d1a657]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2014/292/regulation/24) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

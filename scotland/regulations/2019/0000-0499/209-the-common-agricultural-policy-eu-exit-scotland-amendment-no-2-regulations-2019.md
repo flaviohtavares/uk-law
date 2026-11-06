@@ -52,7 +52,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and extent[^key-affd390ee25fbe3467fde20b650c63b3]
+### 1. Citation, commencement and extent[^c-affd390ee25fbe3467fde20b650c63b3]
 
 (1) These Regulations may be cited as the Common Agricultural Policy (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 and come into force as follows—
 
@@ -63,7 +63,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 ## PART 2 — Amendments in reliance of section 2(2) and paragraph 1A of schedule 2 of the European Communities Act 1972
 
-### 2. The Rural Development (Scotland) Regulations 2015[^key-9662f56db60d7c63ed5bca4b7d5ea04a]
+### 2. The Rural Development (Scotland) Regulations 2015[^c-9662f56db60d7c63ed5bca4b7d5ea04a]
 
 (1) The Rural Development (Scotland) Regulations 2015 [^c23777391] are amended as follows.
 
@@ -177,7 +177,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 ## PART 3 — Amendment of secondary legislation relating to withdrawal from the European Union
 
-### 3. The Marketing of Horticultural Produce (Scotland) Regulations 2009[^key-c28f678cfdbda1b1735d94f36e4a98d1]
+### 3. The Marketing of Horticultural Produce (Scotland) Regulations 2009[^c-c28f678cfdbda1b1735d94f36e4a98d1]
 
 After regulation 24 (disapplication) of the Marketing of Horticultural Produce (Scotland) Regulations 2009 [^c23777491] insert—
 
@@ -185,7 +185,7 @@ After regulation 24 (disapplication) of the Marketing of Horticultural Produce (
 >
 > (1) An authorised officer must not exercise the powers under regulation 8(1) in relation to a failure to comply with Article 7 of Commission Implementing Regulation 543/2011 if the matter constituting the alleged contravention—
 >
-> - (a) relates to a product that was placed on the market before the end of the period of 21 months beginning on IP completion day[^key-dffa8dd1597eba0f43f7703cfbc1ee8b], and
+> - (a) relates to a product that was placed on the market before the end of the period of 21 months beginning on IP completion day[^c-dffa8dd1597eba0f43f7703cfbc1ee8b], and
 > - (b) would not have constituted a contravention of that Regulation as it applied immediately before IP completion day.
 >
 > (2) Regulation 15 does not apply in relation to a failure to comply with Article 7 of Commission Implementing Regulation 543/2011 if the matter constituting the alleged contravention—
@@ -195,7 +195,7 @@ After regulation 24 (disapplication) of the Marketing of Horticultural Produce (
 
 .
 
-### 4. The Rural Development (Scotland) Regulations 2015[^key-858c2f77246a92f70686117c81a107d0]
+### 4. The Rural Development (Scotland) Regulations 2015[^c-858c2f77246a92f70686117c81a107d0]
 
 (1) The Rural Development (Scotland) Regulations 2015 are amended as follows.
 
@@ -221,7 +221,7 @@ After regulation 24 (disapplication) of the Marketing of Horticultural Produce (
 >
 > (2) In regulation 15 (powers of authorised persons)—
 >
-> - (a) in paragraph (1)(c), at the end insert “ as it had effect immediately before IP completion day[^key-cc7a527a44fe7a819c9689d5be2d9a4a] ”,
+> - (a) in paragraph (1)(c), at the end insert “ as it had effect immediately before IP completion day[^c-cc7a527a44fe7a819c9689d5be2d9a4a] ”,
 > - (b) for paragraph (5) substitute—
 >
 >   > (5) An authorised person entering any land under paragraph (1) may be accompanied by such other persons as the responsible body considers necessary for any of the purposes mentioned in paragraph (1).
@@ -296,15 +296,15 @@ After regulation 24 (disapplication) of the Marketing of Horticultural Produce (
 
 .
 
-## PART 4 — Revocations[^key-f364c9cc8651c4d68d91d268a76cedbe]
+## PART 4 — Revocations[^c-f364c9cc8651c4d68d91d268a76cedbe]
 
 **No longer in force.**
 
-### 5. The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019[^key-f364c9cc8651c4d68d91d268a76cedbe]
+### 5. The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019[^c-f364c9cc8651c4d68d91d268a76cedbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. The Marketing of Horticultural Produce and Bananas (EU Exit) (Scotland) (Amendment) Regulations 2019[^key-f364c9cc8651c4d68d91d268a76cedbe]
+### 6. The Marketing of Horticultural Produce and Bananas (EU Exit) (Scotland) (Amendment) Regulations 2019[^c-f364c9cc8651c4d68d91d268a76cedbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -342,9 +342,9 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^c23777381]: Marginal citation: OJ L 227, 31.7.2014, p.69.
 
-[^key-affd390ee25fbe3467fde20b650c63b3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/209/regulation/1) in force at 26.9.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/209/regulation/1/1/a)
+[^c-affd390ee25fbe3467fde20b650c63b3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/209/regulation/1) in force at 26.9.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/209/regulation/1/1/a)
 
-[^key-9662f56db60d7c63ed5bca4b7d5ea04a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/209/regulation/2) in force at 26.9.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/209/regulation/1/1/a)
+[^c-9662f56db60d7c63ed5bca4b7d5ea04a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/209/regulation/2) in force at 26.9.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/209/regulation/1/1/a)
 
 [^c23777391]: Marginal citation: [S.S.I. 2015/192](https://www.legislation.gov.uk/ssi/2015/192).
 
@@ -366,20 +366,20 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^c23777481]: Marginal citation: [S.S.I. 2015/58](https://www.legislation.gov.uk/ssi/2015/58), relevant amending instruments are [S.S.I. 2015/215](https://www.legislation.gov.uk/ssi/2015/215) and [S.S.I. 2016/178](https://www.legislation.gov.uk/ssi/2016/178)***.***
 
-[^key-c28f678cfdbda1b1735d94f36e4a98d1]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
+[^c-c28f678cfdbda1b1735d94f36e4a98d1]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
 
 [^c23777491]: Marginal citation: [S.S.I. 2009/225](https://www.legislation.gov.uk/ssi/2009/225), amended by [S.S.I. 2011/324](https://www.legislation.gov.uk/ssi/2011/324), [S.I](https://www.legislation.gov.uk/ssi/2011/324/section/I). 2011/1043, [S.I. 2013/3235](https://www.legislation.gov.uk/uksi/2013/3235), [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391) and [S.S.I. 2019/169](https://www.legislation.gov.uk/ssi/2019/169).
 
-[^key-dffa8dd1597eba0f43f7703cfbc1ee8b]: Textual amendment: Words in reg. 3 substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/368)](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [5(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/5/2)
+[^c-dffa8dd1597eba0f43f7703cfbc1ee8b]: Textual amendment: Words in reg. 3 substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/368)](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [5(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/5/2)
 
-[^key-858c2f77246a92f70686117c81a107d0]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
+[^c-858c2f77246a92f70686117c81a107d0]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
 
 [^c23777501]: Marginal citation: Regulation 22(3) is inserted by regulation 2(2)(b) of this instrument.
 
 [^c23777511]: Marginal citation: [S.S.I. 2008/66](https://www.legislation.gov.uk/ssi/2008/66), amended by [S.S.I. 2011/260](https://www.legislation.gov.uk/ssi/2011/260), [S.I](https://www.legislation.gov.uk/ssi/2011/260/section/I). 2011/1043 and [S.S.I. 2012/182](https://www.legislation.gov.uk/ssi/2012/182). [S.S.I. 2008/66](https://www.legislation.gov.uk/ssi/2008/66) was revoked subject to savings by [S.S.I. 2015/192](https://www.legislation.gov.uk/ssi/2015/192).
 
-[^key-cc7a527a44fe7a819c9689d5be2d9a4a]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/ssi/2019/209/regulation/4/4) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/368)](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [5(3)](https://www.legislation.gov.uk/ssi/2020/368/regulation/5/3)
+[^c-cc7a527a44fe7a819c9689d5be2d9a4a]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/ssi/2019/209/regulation/4/4) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/368)](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [5(3)](https://www.legislation.gov.uk/ssi/2020/368/regulation/5/3)
 
 [^c23777521]: Marginal citation: [S.I. 2019/764](https://www.legislation.gov.uk/uksi/2019/764).
 
-[^key-f364c9cc8651c4d68d91d268a76cedbe]: Textual amendment: Pt. 4 revoked (31.12.2020 immediately before IP completion day) by [The Seed, Propagating Material and Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/289)](https://www.legislation.gov.uk/ssi/2019/289), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/289/regulation/1/1/b), [9](https://www.legislation.gov.uk/ssi/2019/289/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f364c9cc8651c4d68d91d268a76cedbe]: Textual amendment: Pt. 4 revoked (31.12.2020 immediately before IP completion day) by [The Seed, Propagating Material and Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/289)](https://www.legislation.gov.uk/ssi/2019/289), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/289/regulation/1/1/b), [9](https://www.legislation.gov.uk/ssi/2019/289/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

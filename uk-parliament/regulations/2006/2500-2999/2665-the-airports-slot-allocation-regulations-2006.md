@@ -44,15 +44,15 @@ Coming into force
 
 1st January 2007
 
-The Secretary of State for Transport is a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to air transport.[^key-e523d0fc78783610faa1302e4630b73c]
+The Secretary of State for Transport is a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to air transport.[^c-e523d0fc78783610faa1302e4630b73c]
 
-Accordingly, the Secretary of State makes the following Regulations in exercise of the powers conferred upon him by that section.[^key-e523d0fc78783610faa1302e4630b73c]
+Accordingly, the Secretary of State makes the following Regulations in exercise of the powers conferred upon him by that section.[^c-e523d0fc78783610faa1302e4630b73c]
 
-## 1. Citation and commencement[^key-46f537b6538c63ff4f1bde4f946e3ba6]
+## 1. Citation and commencement[^c-46f537b6538c63ff4f1bde4f946e3ba6]
 
 These Regulations may be cited as the Airports Slot Allocation Regulations 2006 and shall come into force on 1st January 2007.
 
-## 2. Interpretation[^key-429d4133112f627eee8d035d2687e4aa]
+## 2. Interpretation[^c-429d4133112f627eee8d035d2687e4aa]
 
 (1) In these Regulations—
 
@@ -68,8 +68,8 @@ These Regulations may be cited as the Airports Slot Allocation Regulations 2006 
 - “air traffic services provider” means a person who provides air traffic services pursuant to an air traffic services licence, exemption, approval or designation;
 - “amending regulations” means each of—
   - (a) [Council Regulation (EEC) No. 894/2002](https://www.legislation.gov.uk/european/regulation/2002/0894)[^f00006]amending [Council Regulation (EEC) No. 95/93](https://www.legislation.gov.uk/european/regulation/1993/0095)[^f00007] on common rules for the allocation of slots at Community airports;
-  - (b) Council Regulation [(EC) No. 1554/2003](https://www.legislation.gov.uk/european/regulation/2003/1554)[^f00008] amending [Council Regulation (EEC) No. 95/93](https://www.legislation.gov.uk/european/regulation/1993/0095) on common rules for the allocation of slots at Community airports; [^key-22959db870733b17bf9d36f4eed887f5]...
-  - (c) Council Regulation [(EC) No. 793/2004](https://www.legislation.gov.uk/european/regulation/2004/0793)[^f00009] amending [Council Regulation (EEC) No. 95/93](https://www.legislation.gov.uk/european/regulation/1993/0095) on common rules for the allocation of slots at Community airports; and[^key-a6b6f5aaefd018ee44513430c50e61d5]
+  - (b) Council Regulation [(EC) No. 1554/2003](https://www.legislation.gov.uk/european/regulation/2003/1554)[^f00008] amending [Council Regulation (EEC) No. 95/93](https://www.legislation.gov.uk/european/regulation/1993/0095) on common rules for the allocation of slots at Community airports; [^c-22959db870733b17bf9d36f4eed887f5]...
+  - (c) Council Regulation [(EC) No. 793/2004](https://www.legislation.gov.uk/european/regulation/2004/0793)[^f00009] amending [Council Regulation (EEC) No. 95/93](https://www.legislation.gov.uk/european/regulation/1993/0095) on common rules for the allocation of slots at Community airports; and[^c-a6b6f5aaefd018ee44513430c50e61d5]
   - (d) the Airports Slot Allocation (Amendment) (EU Exit) Regulations 2019;
 - “business aviation” has the meaning given in Article 2(l) of the Council Regulation;
 - “CAA” means the Civil Aviation Authority;
@@ -77,8 +77,8 @@ These Regulations may be cited as the Airports Slot Allocation Regulations 2006 
   - (a) for the purposes of regulations 3(1) and 4(7) and the definition of fully coordinated airport, means an airport where a coordinator has been appointed to facilitate the operations of air carriers operating or intending to operate at that airport, in accordance with the original council regulation; and
   - (b) for all other purposes, has the meaning given in Article 2(g) of the council regulation;
 - “coordination parameters” has the meaning given in Article 2(m) of the council regulation;
-- “council regulation” means [Council Regulation (EEC) No. 95/93](https://www.legislation.gov.uk/european/regulation/1993/0095) on common rules for the allocation of slots at United Kingdom[^key-295b85d2d89009cc935646fa1891c01d] airports, as amended by the amending regulations [^key-e8ad07239eb6774e34c85bb1e6d5b9c7]...;
-- [^key-317586db026c32084e07606d488ed672]...
+- “council regulation” means [Council Regulation (EEC) No. 95/93](https://www.legislation.gov.uk/european/regulation/1993/0095) on common rules for the allocation of slots at United Kingdom[^c-295b85d2d89009cc935646fa1891c01d] airports, as amended by the amending regulations [^c-e8ad07239eb6774e34c85bb1e6d5b9c7]...;
+- [^c-317586db026c32084e07606d488ed672]...
 - “electronic communication” has the meaning given in section 15(1) of the Electronic Communications Act 2000[^f00013];
 - “enforcement code” means a code adopted by a coordinator or a schedules facilitator pursuant to regulation 18, as amended or modified in accordance with that regulation;
 - “fully coordinated airport” means a coordinated airport where, in order to land or take off, during the periods for which it is fully coordinated, it is necessary for an air carrier to have a slot allocated by a coordinator, in accordance with the original council regulation;
@@ -86,7 +86,7 @@ These Regulations may be cited as the Airports Slot Allocation Regulations 2006 
 - “managing body of an airport” has the meaning given in Article 2(j) of the council regulation and “managing body” shall be construed accordingly;
 - “new entrant” has the meaning given in Article 2(b) of the council regulation;
 - “1993 regulations” means the Airports Slot Allocation Regulations 1993[^f00014];
-- “Olympic coordinated airport” means an airport which is designated, on or after 1st August 2011, as a coordinated airport in accordance with paragraph 6 of Article 3 of the council regulation by reason of the Olympic Games;[^key-593ee0ffbd4cd729f0fd8bec4a263c7c]
+- “Olympic coordinated airport” means an airport which is designated, on or after 1st August 2011, as a coordinated airport in accordance with paragraph 6 of Article 3 of the council regulation by reason of the Olympic Games;[^c-593ee0ffbd4cd729f0fd8bec4a263c7c]
 - “Olympic Games” means that part of the London Olympics which consist of the Games more particularly described in section 1(1)(a) of the London Olympic Games and Paralympic Games Act 2006;
 - “operative date” means 30th July 2004, being the date on which Council Regulation [(EC) No. 793/2004](https://www.legislation.gov.uk/european/regulation/2004/0793) came into force (except as stated in paragraph 2 of Article 2 of that Regulation);
 - “original committee” means a coordination committee established at a fully coordinated airport prior to the operative date in accordance with Article 5 of the original council regulation and the 1993 regulations and which continues to subsist;
@@ -97,7 +97,7 @@ These Regulations may be cited as the Airports Slot Allocation Regulations 2006 
 
 (2) Terms defined in paragraph (1) and other terms used in these Regulations shall be construed consistently with equivalent terms defined or used in the council regulation.
 
-## 3. Conditions for airport coordination[^key-d390fc6ac4619bf6775b912d7e1e04a5]
+## 3. Conditions for airport coordination[^c-d390fc6ac4619bf6775b912d7e1e04a5]
 
 (1) An airport which, prior to the operative date, was designated by the Secretary of State in accordance with Article 3 of the original council regulation as a coordinated airport shall be deemed to have been designated in accordance with Article 3 of the council regulation as a schedules facilitated airport.
 
@@ -121,17 +121,17 @@ shall carry out a thorough capacity analysis in the circumstances specified in (
 - (a) schedules facilitated airport; or
 - (b) coordinated airport.
 
-## 4. The schedules facilitator and the coordinator[^key-950c1dac719ff5f13008d3de21040231]
+## 4. The schedules facilitator and the coordinator[^c-950c1dac719ff5f13008d3de21040231]
 
 (1) The managing body of an airport which is designated as a schedules facilitated airport shall appoint a person as the schedules facilitator for that airport.
 
-(2) The managing body of an airport which is designated as a coordinated airport shall , subject to paragraph (2A),[^key-7b0dff168dabe241010ffba469f53c1e] appoint a person as the coordinator for that airport.
+(2) The managing body of an airport which is designated as a coordinated airport shall , subject to paragraph (2A),[^c-7b0dff168dabe241010ffba469f53c1e] appoint a person as the coordinator for that airport.
 
-(2A)[^key-1cbbeb6246c047d1b19edec312503998] In relation to an Olympic coordinated airport, the Secretary of State shall appoint a person as the coordinator for that airport.
+(2A)[^c-1cbbeb6246c047d1b19edec312503998] In relation to an Olympic coordinated airport, the Secretary of State shall appoint a person as the coordinator for that airport.
 
 (3) No person shall be appointed pursuant to paragraph (1) or paragraph (2) unless that appointment has been approved by the Secretary of State following consultation by him in accordance with paragraph 1 of Article 4 of the council regulation.
 
-(4) No person shall be appointed pursuant to paragraph (2) or (2A) respectively[^key-a2fe6c2b0d11c444af04b69541da1189] unless the managing body or, as the case may be, the Secretary of State[^key-3d6f948e9eea6f52b5f89b84a3f84dcc] is satisfied that—
+(4) No person shall be appointed pursuant to paragraph (2) or (2A) respectively[^c-a2fe6c2b0d11c444af04b69541da1189] unless the managing body or, as the case may be, the Secretary of State[^c-3d6f948e9eea6f52b5f89b84a3f84dcc] is satisfied that—
 
 - (a) that person’s functions in his capacity as a coordinator are separate or will be separated from the functions of any interested party; and
 - (b) that person’s activities in his capacity as a coordinator are financed by means of a system that guarantees the coordinator’s independence.
@@ -150,19 +150,19 @@ shall carry out a thorough capacity analysis in the circumstances specified in (
 - (a) Article 4 of the council regulation; and
 - (b) this regulation.
 
-(9) Any appointment (or deemed appointment) referred to in this regulation shall , subject to paragraph (9A),[^key-5411e326fc53a3912eb025ff03c0a7ac] continue unless and until, following consultation by the Secretary of State in accordance with paragraph 1 of Article 4 of the council regulation, the Secretary of State determines that such appointment shall cease to have effect by written notice served on the—
+(9) Any appointment (or deemed appointment) referred to in this regulation shall , subject to paragraph (9A),[^c-5411e326fc53a3912eb025ff03c0a7ac] continue unless and until, following consultation by the Secretary of State in accordance with paragraph 1 of Article 4 of the council regulation, the Secretary of State determines that such appointment shall cease to have effect by written notice served on the—
 
 - (a) managing body of the airport to which the appointment relates; and
 - (b) the schedules facilitator or coordinator for that airport.
 
-(9A)[^key-2822e5aa1893c2f37643e9d14c0400df] The Secretary of State may, by written notice served on the managing body of an Olympic coordinated airport and the coordinator for that airport, withdraw the appointment of that coordinator if the Secretary of State is satisfied that a breach of paragraph (4) or (5) has occurred in relation to that person.
+(9A)[^c-2822e5aa1893c2f37643e9d14c0400df] The Secretary of State may, by written notice served on the managing body of an Olympic coordinated airport and the coordinator for that airport, withdraw the appointment of that coordinator if the Secretary of State is satisfied that a breach of paragraph (4) or (5) has occurred in relation to that person.
 
 (10) If a notice is served in accordance with paragraph (9), an appointment shall cease to have effect at the end of the period specified in that notice but without prejudice to any rights or liabilities acquired or incurred by the—
 
 - (a) managing body of the airport to which the appointment relates; and
 - (b) schedules facilitator or coordinator at that airport.
 
-(10A)[^key-40643edb4ae8e6e8b20ab728339f389d] Where an appointment under paragraph (2A) ceases to have effect in accordance with paragraph (10) it shall also be without prejudice to any rights or liabilities acquired or incurred by—
+(10A)[^c-40643edb4ae8e6e8b20ab728339f389d] Where an appointment under paragraph (2A) ceases to have effect in accordance with paragraph (10) it shall also be without prejudice to any rights or liabilities acquired or incurred by—
 
 - (a) the managing body of London City Airport, Gatwick Airport, Heathrow Airport and Stansted Airport; and
 - (b) the coordinator to whom the appointment relates,
@@ -171,12 +171,12 @@ in connection with regulation 4A(1)(b).
 
 (11) No person shall act as a schedules facilitator for an airport which is designated (or deemed to have been designated by regulation 3(1)) as a schedules facilitated airport or as a coordinator for an airport which is designated (or deemed to have been designated by regulation 3(2)) as a coordinated airport unless he is either—
 
-- (a) duly approved as the case may require[^key-b3bab2c4e63617786f4ebefc42bd6f57] and appointed by virtue of paragraphs (1) to (3); or
+- (a) duly approved as the case may require[^c-b3bab2c4e63617786f4ebefc42bd6f57] and appointed by virtue of paragraphs (1) to (3); or
 - (b) deemed to be so duly approved and appointed by virtue of paragraph (7) or paragraph (8).
 
 (12) Any person who contravenes paragraph (11) shall be guilty of an offence.
 
-## 4A. Charging – Olympic Games[^key-6c2bd418da8ead344636608dd8340f93]
+## 4A. Charging – Olympic Games[^c-6c2bd418da8ead344636608dd8340f93]
 
 (1) A coordinator appointed under regulation 4(2A) may charge the managing body of—
 
@@ -197,16 +197,16 @@ a fee calculated using the formula specified in paragraph (2).
 
 - “air traffic movement” means any take-off or landing requiring a slot.
 
-## 5. Coordination committee[^key-29d603165d39cc8a407d8b56ccaced93]
+## 5. Coordination committee[^c-29d603165d39cc8a407d8b56ccaced93]
 
-(1) The managing body of an airport which is designated (or deemed to have been designated by regulation 3(2)) as a coordinated airport shall , subject to regulation 5A,[^key-798ad0f6d3cb0a6581e1e4ea500797a9] establish and maintain a coordination committee in accordance with Article 5 of the council regulation.
+(1) The managing body of an airport which is designated (or deemed to have been designated by regulation 3(2)) as a coordinated airport shall , subject to regulation 5A,[^c-798ad0f6d3cb0a6581e1e4ea500797a9] establish and maintain a coordination committee in accordance with Article 5 of the council regulation.
 
 (2) Any original committee shall be deemed to have been established in accordance with—
 
 - (a) Article 5 of the council regulation; and
 - (b) this regulation.
 
-## 5A. Coordination committee - Olympic Games[^key-9eee2c83a40555ef2e517f1bc4c3a1ac]
+## 5A. Coordination committee - Olympic Games[^c-9eee2c83a40555ef2e517f1bc4c3a1ac]
 
 (1) In relation to an Olympic coordinated airport, the Secretary of State shall establish and maintain a coordination committee in accordance with Article 5 of the council regulation.
 
@@ -216,56 +216,56 @@ a fee calculated using the formula specified in paragraph (2).
 
 (4) The tasks of the committee are restricted to matters connected with the Olympic Games.
 
-## 6. Coordination parameters[^key-dd8edadfd6716f40dfb15b2cb07d9254]
+## 6. Coordination parameters[^c-dd8edadfd6716f40dfb15b2cb07d9254]
 
 The managing body at each coordinated airport shall determine the parameters for slot allocation biannually in accordance with Article 6 of the council regulation.
 
-## 6A. Coordination parameters – Olympic Games[^key-e6fab5b6be3e4969b9d9e3b4f8a5a9fd]
+## 6A. Coordination parameters – Olympic Games[^c-e6fab5b6be3e4969b9d9e3b4f8a5a9fd]
 
 (1) A determination made under regulation 6, in relation to an Olympic coordinated airport, may be modified by the Secretary of State.
 
 (2) In making such modification, the Secretary of State shall adopt the approach set out in paragraphs 1 and 3 of Article 6 of the council regulation.
 
-## 7. Information for schedules facilitators and coordinators[^key-2c317a9f23e6d81fdc31b41c4bbbe580]
+## 7. Information for schedules facilitators and coordinators[^c-2c317a9f23e6d81fdc31b41c4bbbe580]
 
 Subject to regulations 17, 18 and 19, a penalty of up to £20,000 may be imposed by a coordinator or schedules facilitator by written notice served on any air carrier or managing body of an airport with no designation status on each occasion on which that person—
 
 - (a) fails to comply with a request for information made by that coordinator or schedules facilitator pursuant to paragraph 1 of Article 7 of the council regulation without reasonable excuse; or
 - (b) in purported compliance with that paragraph, knowingly or recklessly furnishes information which is false in a material particular.
 
-## 8. Process of slot allocation[^key-ac7b4e63aaf4cc5f731cbe77ad2b4447]
+## 8. Process of slot allocation[^c-ac7b4e63aaf4cc5f731cbe77ad2b4447]
 
 (1) The managing body of a coordinated airport shall—
 
 - (a) be the competent body for the purpose of approving any local guidelines proposed by the coordination committee at that airport in accordance with paragraph 5 of Article 8 of the council regulation; and
 - (b) give written notice to the Secretary of State of the adoption, amendment or revocation of any such local guidelines.
 
-(2) A coordinator shall give written notice to the Secretary of State of such additional rules established by the air transport industry worldwide or within Europe[^key-1f37e59358a68e55d3186751854646f5] as that coordinator has taken into account in accordance with paragraph 5 of Article 8 of the council regulation.
+(2) A coordinator shall give written notice to the Secretary of State of such additional rules established by the air transport industry worldwide or within Europe[^c-1f37e59358a68e55d3186751854646f5] as that coordinator has taken into account in accordance with paragraph 5 of Article 8 of the council regulation.
 
-## 9. Slot mobility[^key-50b6ad6881f9e785a46917a859c08b62]
+## 9. Slot mobility[^c-50b6ad6881f9e785a46917a859c08b62]
 
 An air carrier who exchanges or transfers a slot contrary to the requirements of Article 8a of the council regulation shall be guilty of an offence.
 
-## 10. Public service obligations[^key-9252c52eb3dbb24214c9268cad2bed68]
+## 10. Public service obligations[^c-9252c52eb3dbb24214c9268cad2bed68]
 
 A coordinator shall perform his duties under the council regulation subject to and in accordance with any reservation of slots—
 
 - (a) effected by the Secretary of State pursuant to Article 9 of the council regulation; and
 - (b) notified by the Secretary of State to him.
 
-## 11. Slot pool[^key-ca61f35e963e76056b14addc7227395c]
+## 11. Slot pool[^c-ca61f35e963e76056b14addc7227395c]
 
 (1) In the circumstances described in paragraph (2), the managing body of a coordinated airport shall—
 
 - (a) convene a meeting of the coordination committee for that airport to examine possible means of remedying serious capacity problems at that airport; and
-- (b) invite the Secretary of State[^key-50d644745c062dbf1af006cac9d511cd] to attend the meeting.
+- (b) invite the Secretary of State[^c-50d644745c062dbf1af006cac9d511cd] to attend the meeting.
 
 (2) Paragraph (1) applies if, after application of the procedures set out in paragraphs 1 to 8 of Article 10 of the council regulation—
 
 - (a) the coordinator for that airport is unable to satisfy the requests of new entrants for additional slots; and
 - (b) in consequence, serious capacity problems continue to exist at that airport for new entrants.
 
-## 12. Complaints[^key-c58a391e3f635e936fcb02d836817973]
+## 12. Complaints[^c-c58a391e3f635e936fcb02d836817973]
 
 (1) Save in cases of gross negligence or wilful misconduct, none of the persons specified in paragraph (2) shall be liable in damages in relation to any exercise or purported exercise of (or failure to exercise) his functions under—
 
@@ -289,21 +289,21 @@ A coordinator shall perform his duties under the council regulation subject to a
 - (a) an air traffic services provider; and
 - (b) a managing body of an airport.
 
-## 13. Relations with third countries[^key-edf689c547a583b0a9a09955de805f5e]
+## 13. Relations with third countries[^c-edf689c547a583b0a9a09955de805f5e]
 
 A schedules facilitator or coordinator shall perform his duties and an air carrier’s rights shall be subject to any measures which the Secretary of State—
 
-- (a) takes[^key-3a23383f3a88413f81184caa20cc95cc] pursuant to paragraph 1 of Article 12 of the council regulation; and
+- (a) takes[^c-3a23383f3a88413f81184caa20cc95cc] pursuant to paragraph 1 of Article 12 of the council regulation; and
 - (b) notifies in writing to that schedules facilitator, coordinator or air carrier.
 
-## 14. Enforcement[^key-7550f4526b0284aaf53c4b5a8703703e]
+## 14. Enforcement[^c-7550f4526b0284aaf53c4b5a8703703e]
 
 An air carrier operating at a coordinated airport shall not repeatedly and intentionally—
 
 - (a) operate air services at times significantly different from the allocated slots; or
 - (b) use slots in a significantly different way from that indicated at the time of allocation, where such use causes prejudice to airport or air traffic operations.
 
-## 15. Directions[^key-749b9f8f4e895b5f1e54cd3c756c6c0b]
+## 15. Directions[^c-749b9f8f4e895b5f1e54cd3c756c6c0b]
 
 (1) A coordinator may issue a direction to any of the persons specified in paragraph (2) for the purpose of securing compliance by an air carrier with the duty set out in paragraph 14, subject to the conditions specified in paragraph (3).
 
@@ -330,7 +330,7 @@ An air carrier operating at a coordinated airport shall not repeatedly and inten
 
 (5) A person specified in paragraph (2) who receives a direction issued (or purporting to have been issued) by a coordinator pursuant to this regulation shall be entitled to assume that it has been lawfully and properly issued by that coordinator.
 
-## 16. Penalties and other proceedings[^key-1de149a40d7e5fafdaaf72be8e39a8dd]
+## 16. Penalties and other proceedings[^c-1de149a40d7e5fafdaaf72be8e39a8dd]
 
 (1) Subject to regulations 17, 18 and 19, a penalty of up to £20,000 may be imposed by a coordinator by written notice served on any air carrier on each occasion on which that air carrier fails to comply with either of the duties set out in regulations 14 and 15(4).
 
@@ -340,7 +340,7 @@ An air carrier operating at a coordinated airport shall not repeatedly and inten
 
 (4) No penalty may be imposed on any person pursuant to paragraph (1) and no other proceedings may be commenced under these Regulations in respect of any failure by any person to comply with either of the duties set out in regulations 14 and 15(4) to the extent that the person concerned demonstrates that the failure in question was beyond his reasonable control.
 
-## 17. Enforcement procedure[^key-a5645c5a9adcc2b22ad2b386c80b3cfe]
+## 17. Enforcement procedure[^c-a5645c5a9adcc2b22ad2b386c80b3cfe]
 
 (1) A coordinator or schedules facilitator shall give reasons which explain—
 
@@ -390,7 +390,7 @@ and, in either case, may vary or cancel the decision to such extent as the coord
 
 (10) A coordinator shall publish an annual report concerning the implementation of regulations 14 to 16 in such manner and in such form and containing such information (including a summary of any penalties imposed or directions issued) as he considers appropriate or as the Secretary of State may by written notice require from time to time.
 
-## 18. Enforcement code[^key-2175150029fa56566f9442e0aa7fdf71]
+## 18. Enforcement code[^c-2175150029fa56566f9442e0aa7fdf71]
 
 (1) A coordinator or schedules facilitator shall adopt and publish an enforcement code which makes provision for the manner in which that coordinator or schedules facilitator will—
 
@@ -438,7 +438,7 @@ and, in either case, may vary or cancel the decision to such extent as the coord
 
 (8) The modification, amendment or revocation of any provision of any enforcement code shall not affect the validity of anything previously done under that provision.
 
-## 19. Independent reviewer[^key-8c67ce0a66c371359365950f855d78b4]
+## 19. Independent reviewer[^c-8c67ce0a66c371359365950f855d78b4]
 
 (1) An independent reviewer shall be a natural person—
 
@@ -474,7 +474,7 @@ and, in either case, may vary or cancel the decision to such extent as the coord
 - (b) resignation; or
 - (c) expiry of the period of the appointment.
 
-## 20. Offences[^key-c3201f620db6d2055a389e67ed44af05]
+## 20. Offences[^c-c3201f620db6d2055a389e67ed44af05]
 
 (1) A person guilty of an offence under these Regulations shall be liable—
 
@@ -495,7 +495,7 @@ he as well as the body corporate shall be guilty of that offence and liable to b
 
 (4) Where a limited partnership is guilty of an offence under these Regulations and that offence is proved to have been committed with the consent or the connivance of, or to be attributable to any neglect on the part of, a partner, he as well as the partnership shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
-## 21. Notices[^key-2fd44ddb209ce51322d1d80a9607376c]
+## 21. Notices[^c-2fd44ddb209ce51322d1d80a9607376c]
 
 (1) In any case where notice may be or is required to be given to or served on any person by these Regulations, that notice may be given or served—
 
@@ -524,7 +524,7 @@ he as well as the body corporate shall be guilty of that offence and liable to b
 
 (7) \`This regulation shall not apply to any document in relation to the service of which provision is made by the rules of the court.
 
-## 22. Revocation[^key-7107aded4c66c4451fd0fc8422194f12]
+## 22. Revocation[^c-7107aded4c66c4451fd0fc8422194f12]
 
 The following Regulations are revoked—
 
@@ -595,11 +595,11 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-e523d0fc78783610faa1302e4630b73c]: Modification: Regulations: power to amend conferred (29.4.2021) by Regulation (EEC) No. 95/1993, Art. 10aa (as inserted (E.W.S.) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2021/12/section/12/2), [21(1)(b)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/1/b))
+[^c-e523d0fc78783610faa1302e4630b73c]: Modification: Regulations: power to amend conferred (29.4.2021) by Regulation (EEC) No. 95/1993, Art. 10aa (as inserted (E.W.S.) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2021/12/section/12/2), [21(1)(b)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/1/b))
 
-[^key-46f537b6538c63ff4f1bde4f946e3ba6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+[^c-46f537b6538c63ff4f1bde4f946e3ba6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
 
-[^key-429d4133112f627eee8d035d2687e4aa]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2006/2665/regulation/2) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+[^c-429d4133112f627eee8d035d2687e4aa]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2006/2665/regulation/2) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
 
 [^f00003]: Footnote: [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38).
 
@@ -613,95 +613,95 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00008]: Footnote: O.J. No. L 221, 04.09.2003, p.1.
 
-[^key-22959db870733b17bf9d36f4eed887f5]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/2/1) omitted (31.12.2020) by virtue of [The Airports Slot Allocation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/276)](https://www.legislation.gov.uk/uksi/2019/276), [regs. 1](https://www.legislation.gov.uk/uksi/2019/276/regulation/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/276/regulation/2/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-22959db870733b17bf9d36f4eed887f5]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/2/1) omitted (31.12.2020) by virtue of [The Airports Slot Allocation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/276)](https://www.legislation.gov.uk/uksi/2019/276), [regs. 1](https://www.legislation.gov.uk/uksi/2019/276/regulation/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/276/regulation/2/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00009]: Footnote: O.J. No. L 138, 30.04.2004, p.50.
 
-[^key-a6b6f5aaefd018ee44513430c50e61d5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/2/1) inserted (31.12.2020) by [The Airports Slot Allocation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/276)](https://www.legislation.gov.uk/uksi/2019/276), [regs. 1](https://www.legislation.gov.uk/uksi/2019/276/regulation/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/276/regulation/2/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a6b6f5aaefd018ee44513430c50e61d5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/2/1) inserted (31.12.2020) by [The Airports Slot Allocation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/276)](https://www.legislation.gov.uk/uksi/2019/276), [regs. 1](https://www.legislation.gov.uk/uksi/2019/276/regulation/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/276/regulation/2/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-295b85d2d89009cc935646fa1891c01d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/2/1) substituted (31.12.2020) by [The Airports Slot Allocation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/276)](https://www.legislation.gov.uk/uksi/2019/276), [regs. 1](https://www.legislation.gov.uk/uksi/2019/276/regulation/1), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/276/regulation/2/2/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-295b85d2d89009cc935646fa1891c01d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/2/1) substituted (31.12.2020) by [The Airports Slot Allocation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/276)](https://www.legislation.gov.uk/uksi/2019/276), [regs. 1](https://www.legislation.gov.uk/uksi/2019/276/regulation/1), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/276/regulation/2/2/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e8ad07239eb6774e34c85bb1e6d5b9c7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/2/1) omitted (31.12.2020) by virtue of [The Airports Slot Allocation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/276)](https://www.legislation.gov.uk/uksi/2019/276), [regs. 1](https://www.legislation.gov.uk/uksi/2019/276/regulation/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/276/regulation/2/2/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e8ad07239eb6774e34c85bb1e6d5b9c7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/2/1) omitted (31.12.2020) by virtue of [The Airports Slot Allocation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/276)](https://www.legislation.gov.uk/uksi/2019/276), [regs. 1](https://www.legislation.gov.uk/uksi/2019/276/regulation/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/276/regulation/2/2/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-317586db026c32084e07606d488ed672]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/2/1) omitted (31.12.2020) by virtue of [The Airports Slot Allocation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/276)](https://www.legislation.gov.uk/uksi/2019/276), [regs. 1](https://www.legislation.gov.uk/uksi/2019/276/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2019/276/regulation/2/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-317586db026c32084e07606d488ed672]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/2/1) omitted (31.12.2020) by virtue of [The Airports Slot Allocation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/276)](https://www.legislation.gov.uk/uksi/2019/276), [regs. 1](https://www.legislation.gov.uk/uksi/2019/276/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2019/276/regulation/2/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00013]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). The definition of “electronic communication” in section 15(1) of that Act was amended by paragraph 158 of Schedule 17 to the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
 [^f00014]: Footnote: [S.I. 1993/1067](https://www.legislation.gov.uk/uksi/1993/1067), amended by [S.I. 1993/3042](https://www.legislation.gov.uk/uksi/1993/3042), [S.I. 1994/1736](https://www.legislation.gov.uk/uksi/1994/1736) and [S.I. 2004/1256](https://www.legislation.gov.uk/uksi/2004/1256).
 
-[^key-593ee0ffbd4cd729f0fd8bec4a263c7c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/2/1) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2011/1610/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
+[^c-593ee0ffbd4cd729f0fd8bec4a263c7c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/2/1) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2011/1610/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
 
-[^key-d390fc6ac4619bf6775b912d7e1e04a5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2006/2665/regulation/3) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+[^c-d390fc6ac4619bf6775b912d7e1e04a5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2006/2665/regulation/3) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
 
-[^key-950c1dac719ff5f13008d3de21040231]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+[^c-950c1dac719ff5f13008d3de21040231]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
 
-[^key-7b0dff168dabe241010ffba469f53c1e]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4/2) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/4/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
+[^c-7b0dff168dabe241010ffba469f53c1e]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4/2) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/4/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
 
-[^key-1cbbeb6246c047d1b19edec312503998]: Textual amendment: [Reg. 4(2A)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4/2A) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/4/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
+[^c-1cbbeb6246c047d1b19edec312503998]: Textual amendment: [Reg. 4(2A)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4/2A) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/4/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
 
-[^key-a2fe6c2b0d11c444af04b69541da1189]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4/4) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [4(c)(i)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/4/c/i) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
+[^c-a2fe6c2b0d11c444af04b69541da1189]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4/4) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [4(c)(i)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/4/c/i) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
 
-[^key-3d6f948e9eea6f52b5f89b84a3f84dcc]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4/4) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [4(c)(ii)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/4/c/ii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
+[^c-3d6f948e9eea6f52b5f89b84a3f84dcc]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4/4) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [4(c)(ii)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/4/c/ii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
 
-[^key-5411e326fc53a3912eb025ff03c0a7ac]: Textual amendment: Words in [reg. 4(9)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4/9) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [4(d)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/4/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
+[^c-5411e326fc53a3912eb025ff03c0a7ac]: Textual amendment: Words in [reg. 4(9)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4/9) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [4(d)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/4/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
 
-[^key-2822e5aa1893c2f37643e9d14c0400df]: Textual amendment: [Reg. 4(9A)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4/9A) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [4(e)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/4/e) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
+[^c-2822e5aa1893c2f37643e9d14c0400df]: Textual amendment: [Reg. 4(9A)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4/9A) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [4(e)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/4/e) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
 
-[^key-40643edb4ae8e6e8b20ab728339f389d]: Textual amendment: [Reg. 4(10A)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4/10A) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [4(f)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/4/f) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
+[^c-40643edb4ae8e6e8b20ab728339f389d]: Textual amendment: [Reg. 4(10A)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4/10A) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [4(f)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/4/f) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
 
-[^key-b3bab2c4e63617786f4ebefc42bd6f57]: Textual amendment: Words in [reg. 4(11)(a)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4/11/a) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [4(g)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/4/g) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
+[^c-b3bab2c4e63617786f4ebefc42bd6f57]: Textual amendment: Words in [reg. 4(11)(a)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4/11/a) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [4(g)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/4/g) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
 
-[^key-6c2bd418da8ead344636608dd8340f93]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4A) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2011/1610/regulation/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
+[^c-6c2bd418da8ead344636608dd8340f93]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2006/2665/regulation/4A) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2011/1610/regulation/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
 
-[^key-29d603165d39cc8a407d8b56ccaced93]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2006/2665/regulation/5) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+[^c-29d603165d39cc8a407d8b56ccaced93]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2006/2665/regulation/5) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
 
-[^key-798ad0f6d3cb0a6581e1e4ea500797a9]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/5/1) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/6/1) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
+[^c-798ad0f6d3cb0a6581e1e4ea500797a9]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/5/1) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/6/1) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
 
-[^key-9eee2c83a40555ef2e517f1bc4c3a1ac]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2006/2665/regulation/5A) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/6/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
+[^c-9eee2c83a40555ef2e517f1bc4c3a1ac]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2006/2665/regulation/5A) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/6/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
 
-[^key-dd8edadfd6716f40dfb15b2cb07d9254]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2006/2665/regulation/6) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+[^c-dd8edadfd6716f40dfb15b2cb07d9254]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2006/2665/regulation/6) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
 
-[^key-e6fab5b6be3e4969b9d9e3b4f8a5a9fd]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2006/2665/regulation/6A) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2011/1610/regulation/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
+[^c-e6fab5b6be3e4969b9d9e3b4f8a5a9fd]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2006/2665/regulation/6A) inserted (temp.) (1.8.2011) by virtue of [The Airports Slot Allocation (Amendment) Regulations 2011 (S.I. 2011/1610)](https://www.legislation.gov.uk/uksi/2011/1610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2011/1610/regulation/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1610/regulation/1/2))
 
-[^key-2c317a9f23e6d81fdc31b41c4bbbe580]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/2665/regulation/7) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+[^c-2c317a9f23e6d81fdc31b41c4bbbe580]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/2665/regulation/7) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
 
-[^key-ac7b4e63aaf4cc5f731cbe77ad2b4447]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2006/2665/regulation/8) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+[^c-ac7b4e63aaf4cc5f731cbe77ad2b4447]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2006/2665/regulation/8) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
 
-[^key-1f37e59358a68e55d3186751854646f5]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/8/2) substituted (31.12.2020) by [The Airports Slot Allocation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/276)](https://www.legislation.gov.uk/uksi/2019/276), [regs. 1](https://www.legislation.gov.uk/uksi/2019/276/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/276/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1f37e59358a68e55d3186751854646f5]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/8/2) substituted (31.12.2020) by [The Airports Slot Allocation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/276)](https://www.legislation.gov.uk/uksi/2019/276), [regs. 1](https://www.legislation.gov.uk/uksi/2019/276/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/276/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-50b6ad6881f9e785a46917a859c08b62]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2006/2665/regulation/9) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+[^c-50b6ad6881f9e785a46917a859c08b62]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2006/2665/regulation/9) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
 
-[^key-9252c52eb3dbb24214c9268cad2bed68]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2006/2665/regulation/10) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+[^c-9252c52eb3dbb24214c9268cad2bed68]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2006/2665/regulation/10) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
 
-[^key-ca61f35e963e76056b14addc7227395c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2006/2665/regulation/11) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+[^c-ca61f35e963e76056b14addc7227395c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2006/2665/regulation/11) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
 
-[^key-50d644745c062dbf1af006cac9d511cd]: Textual amendment: Words in [reg. 11(1)(b)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/11/1/b) substituted (31.12.2020) by [The Airports Slot Allocation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/276)](https://www.legislation.gov.uk/uksi/2019/276), [regs. 1](https://www.legislation.gov.uk/uksi/2019/276/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/276/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-50d644745c062dbf1af006cac9d511cd]: Textual amendment: Words in [reg. 11(1)(b)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/11/1/b) substituted (31.12.2020) by [The Airports Slot Allocation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/276)](https://www.legislation.gov.uk/uksi/2019/276), [regs. 1](https://www.legislation.gov.uk/uksi/2019/276/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/276/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c58a391e3f635e936fcb02d836817973]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2006/2665/regulation/12) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+[^c-c58a391e3f635e936fcb02d836817973]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2006/2665/regulation/12) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
 
-[^key-edf689c547a583b0a9a09955de805f5e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2006/2665/regulation/13) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+[^c-edf689c547a583b0a9a09955de805f5e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2006/2665/regulation/13) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
 
-[^key-3a23383f3a88413f81184caa20cc95cc]: Textual amendment: Word in [reg. 13(a)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/13/a) substituted (31.12.2020) by [The Airports Slot Allocation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/276)](https://www.legislation.gov.uk/uksi/2019/276), [regs. 1](https://www.legislation.gov.uk/uksi/2019/276/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2019/276/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3a23383f3a88413f81184caa20cc95cc]: Textual amendment: Word in [reg. 13(a)](https://www.legislation.gov.uk/uksi/2006/2665/regulation/13/a) substituted (31.12.2020) by [The Airports Slot Allocation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/276)](https://www.legislation.gov.uk/uksi/2019/276), [regs. 1](https://www.legislation.gov.uk/uksi/2019/276/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2019/276/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7550f4526b0284aaf53c4b5a8703703e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2006/2665/regulation/14) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+[^c-7550f4526b0284aaf53c4b5a8703703e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2006/2665/regulation/14) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
 
-[^key-749b9f8f4e895b5f1e54cd3c756c6c0b]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2006/2665/regulation/15) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+[^c-749b9f8f4e895b5f1e54cd3c756c6c0b]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2006/2665/regulation/15) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
 
-[^key-1de149a40d7e5fafdaaf72be8e39a8dd]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2006/2665/regulation/16) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+[^c-1de149a40d7e5fafdaaf72be8e39a8dd]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2006/2665/regulation/16) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
 
-[^key-a5645c5a9adcc2b22ad2b386c80b3cfe]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2006/2665/regulation/17) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+[^c-a5645c5a9adcc2b22ad2b386c80b3cfe]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2006/2665/regulation/17) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
 
-[^key-2175150029fa56566f9442e0aa7fdf71]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2006/2665/regulation/18) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+[^c-2175150029fa56566f9442e0aa7fdf71]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2006/2665/regulation/18) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
 
-[^key-8c67ce0a66c371359365950f855d78b4]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2006/2665/regulation/19) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+[^c-8c67ce0a66c371359365950f855d78b4]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2006/2665/regulation/19) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
 
-[^key-c3201f620db6d2055a389e67ed44af05]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2006/2665/regulation/20) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+[^c-c3201f620db6d2055a389e67ed44af05]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2006/2665/regulation/20) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
 
-[^key-2fd44ddb209ce51322d1d80a9607376c]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2006/2665/regulation/21) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+[^c-2fd44ddb209ce51322d1d80a9607376c]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2006/2665/regulation/21) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
 
 [^f00015]: Footnote: [S.I. 1991/1672](https://www.legislation.gov.uk/uksi/1991/1672), to which there are amendments not relevant to these Regulations.
 
-[^key-7107aded4c66c4451fd0fc8422194f12]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2006/2665/regulation/22) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
+[^c-7107aded4c66c4451fd0fc8422194f12]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2006/2665/regulation/22) in force at 1.1.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2665/regulation/1)
 
 [^f00016]: Footnote: [S.I. 1993/3042](https://www.legislation.gov.uk/uksi/1993/3042).
 

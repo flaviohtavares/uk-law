@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Electricity production[^key-d91fb4557788783aa177a9a466cf77b2]
+## 47. Electricity production[^c-d91fb4557788783aa177a9a466cf77b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d91fb4557788783aa177a9a466cf77b2]: Textual amendment: Reg. 47 omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [24(o)](https://www.legislation.gov.uk/uksi/2025/507/regulation/24/o)
+[^c-d91fb4557788783aa177a9a466cf77b2]: Textual amendment: Reg. 47 omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [24(o)](https://www.legislation.gov.uk/uksi/2025/507/regulation/24/o)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**152.**[^key-6d290e5bca86e5246f984f871222ccf0] Section 100 of the Housing Grants, Construction and Regeneration Act 1996 (disabled persons) is amended as follows—
+**152.**[^c-6d290e5bca86e5246f984f871222ccf0] Section 100 of the Housing Grants, Construction and Regeneration Act 1996 (disabled persons) is amended as follows—
 
 - (a) in subsection (2), for paragraphs (a) and (b) substitute—
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6d290e5bca86e5246f984f871222ccf0]: Commencement: Reg. 152 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-6d290e5bca86e5246f984f871222ccf0]: Commencement: Reg. 152 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00166]: Footnote: Section 100(5) was amended by [S.I. 2015/914](https://www.legislation.gov.uk/uksi/2015/914), Schedule, paragraph 57(1), (3)(b).

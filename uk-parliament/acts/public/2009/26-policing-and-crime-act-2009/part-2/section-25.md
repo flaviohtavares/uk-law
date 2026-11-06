@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Foreign travel orders: surrender of passports[^key-96704b0fed60880e7c56964e59c689e6]
+## 25. Foreign travel orders: surrender of passports[^c-96704b0fed60880e7c56964e59c689e6]
 
 *Extent: E+W+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96704b0fed60880e7c56964e59c689e6]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2009/26/section/25) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(l)](https://www.legislation.gov.uk/uksi/2010/507/article/5/l)
+[^c-96704b0fed60880e7c56964e59c689e6]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2009/26/section/25) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(l)](https://www.legislation.gov.uk/uksi/2010/507/article/5/l)

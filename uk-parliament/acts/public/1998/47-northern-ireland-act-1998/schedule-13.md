@@ -58,7 +58,7 @@ Section 99.
 
 (2) In section 134(3)(a) (correspondence of patients), after “Parliament” insert “ or of the Northern Ireland Assembly ”.
 
-(3)[^key-80e69cf442888436a8cf48180afbf200] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-80e69cf442888436a8cf48180afbf200] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Insolvency Act 1986 (c.45)
 
@@ -156,11 +156,11 @@ Section 99.
 
 ### Commissioner for Complaints (Northern Ireland) Order 1996 (S.I. 1996/1297 (N.I.7))
 
-**17.**[^key-c1912cb618d29413ce5f77fd2a6a7e1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-c1912cb618d29413ce5f77fd2a6a7e1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Ombudsman (Northern Ireland) Order 1996 (S.I. 1996/1298 (N.I.8))
 
-**18.**[^key-c1912cb618d29413ce5f77fd2a6a7e1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-c1912cb618d29413ce5f77fd2a6a7e1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Race Relations (Northern Ireland) Order 1997 (S.I. 1997/869 (N.I.6))
 
@@ -199,7 +199,7 @@ Section 99.
 
 [^c12401311]: Marginal citation: [1974 c.28](https://www.legislation.gov.uk/ukpga/1974/28).
 
-[^key-80e69cf442888436a8cf48180afbf200]: Textual amendment: Sch. 13 para. 5(3) omitted (28.4.2013) by virtue of [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [s. 4(1)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/1), [Sch. para. 4(2)](https://www.legislation.gov.uk/ukpga/2013/8/schedule/paragraph/4/2)
+[^c-80e69cf442888436a8cf48180afbf200]: Textual amendment: Sch. 13 para. 5(3) omitted (28.4.2013) by virtue of [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [s. 4(1)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/1), [Sch. para. 4(2)](https://www.legislation.gov.uk/ukpga/2013/8/schedule/paragraph/4/2)
 
 [^c20130311]: Textual amendment: Sch. 13 para. 8(2)-(4) repealed (1.4.2007) by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), [ss. 161](https://www.legislation.gov.uk/ukpga/2006/32/section/161), [163](https://www.legislation.gov.uk/ukpga/2006/32/section/163), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/32/schedule/12), (with Sch. 11 para. 22) the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) see ss. 46, 161(1)(4)(5) of the amending Act.
 
@@ -207,4 +207,4 @@ Section 99.
 
 [^c12401331]: Textual amendment: Sch. 13 para. 16 repealed (25.4.2000) by [S.I. 2000/1110 (N.I. 2)](https://www.legislation.gov.uk/nisi/2000/1110), [art. 16](https://www.legislation.gov.uk/nisi/2000/1110/article/16), [Sch. 2](https://www.legislation.gov.uk/nisi/2000/1110/schedule/2) (with [art. 17](https://www.legislation.gov.uk/nisi/2000/1110/article/17)); [S.R. 2000/140](https://www.legislation.gov.uk/nisr/2000/140), [art. 2](https://www.legislation.gov.uk/nisr/2000/140/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2000/140/schedule) Appendix
 
-[^key-c1912cb618d29413ce5f77fd2a6a7e1c]: Textual amendment: Sch. 13 paras. 17, 18 repealed (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)
+[^c-c1912cb618d29413ce5f77fd2a6a7e1c]: Textual amendment: Sch. 13 paras. 17, 18 repealed (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)

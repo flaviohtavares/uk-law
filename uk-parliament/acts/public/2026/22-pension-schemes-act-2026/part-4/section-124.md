@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Pensions dashboards[^key-706730dc92008fa0f002bf42bc245222]
+## 124. Pensions dashboards[^c-706730dc92008fa0f002bf42bc245222]
 
 *Extent: E+W+S*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-706730dc92008fa0f002bf42bc245222]: Commencement: S. 124 in force at Royal Assent, see [s. 133(11)(c)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/c)
+[^c-706730dc92008fa0f002bf42bc245222]: Commencement: S. 124 in force at Royal Assent, see [s. 133(11)(c)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/c)

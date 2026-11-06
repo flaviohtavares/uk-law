@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25E. Section 25D: interpretation[^key-75b4625f1ed237a4fc02829102a43d64]
+## 25E. Section 25D: interpretation[^c-75b4625f1ed237a4fc02829102a43d64]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,12 +61,12 @@ summary: ''
 
 (9) “**Unregulated social care worker in England**” means a person engaged in social care work in England within the meaning of section 60 of the Health Act 1999.
 
-(10)[^key-b00238f3a769ab92ced321f0d043106e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-b00238f3a769ab92ced321f0d043106e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-b00238f3a769ab92ced321f0d043106e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-b00238f3a769ab92ced321f0d043106e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-75b4625f1ed237a4fc02829102a43d64]: Textual amendment: Ss. 25D-25F inserted (1.12.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 228](https://www.legislation.gov.uk/ukpga/2012/7/section/228), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/3)
+[^c-75b4625f1ed237a4fc02829102a43d64]: Textual amendment: Ss. 25D-25F inserted (1.12.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 228](https://www.legislation.gov.uk/ukpga/2012/7/section/228), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/3)
 
-[^key-b00238f3a769ab92ced321f0d043106e]: Textual amendment: S. 25E(10)(11) omitted (2.12.2019) by virtue of [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2017/16/schedule/4/paragraph/7); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/r)
+[^c-b00238f3a769ab92ced321f0d043106e]: Textual amendment: S. 25E(10)(11) omitted (2.12.2019) by virtue of [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2017/16/schedule/4/paragraph/7); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/r)

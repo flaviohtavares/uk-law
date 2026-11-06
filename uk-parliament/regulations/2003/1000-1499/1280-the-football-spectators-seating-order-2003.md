@@ -31,7 +31,7 @@ summary: ''
 
 SPORTS GROUNDS AND SPORTING EVENTS
 
-The Football Spectators (Seating) Order 2003 (revoked)[^key-541ea4d4c4ab9092f3997276eaea989d]
+The Football Spectators (Seating) Order 2003 (revoked)[^c-541ea4d4c4ab9092f3997276eaea989d]
 
 Made
 
@@ -45,40 +45,40 @@ Coming into force
 
 1st August 2003
 
-[^key-541ea4d4c4ab9092f3997276eaea989d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-541ea4d4c4ab9092f3997276eaea989d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-541ea4d4c4ab9092f3997276eaea989d]
+## 1. Citation and commencement[^c-541ea4d4c4ab9092f3997276eaea989d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Direction[^key-541ea4d4c4ab9092f3997276eaea989d]
+## 2. Direction[^c-541ea4d4c4ab9092f3997276eaea989d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-541ea4d4c4ab9092f3997276eaea989d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-541ea4d4c4ab9092f3997276eaea989d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — PREMISES IN RESPECT OF WHICH A CONDITION IMPOSING REQUIREMENTS AS RESPECTS THE SEATING OF SPECTATORS AT DESIGNATED FOOTBALL MATCHES SHALL BE IMPOSED[^key-541ea4d4c4ab9092f3997276eaea989d]
+## SCHEDULE 1 — PREMISES IN RESPECT OF WHICH A CONDITION IMPOSING REQUIREMENTS AS RESPECTS THE SEATING OF SPECTATORS AT DESIGNATED FOOTBALL MATCHES SHALL BE IMPOSED[^c-541ea4d4c4ab9092f3997276eaea989d]
 
 Article 2(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — REQUIREMENTS TO BE IMPOSED[^key-541ea4d4c4ab9092f3997276eaea989d]
+## SCHEDULE 2 — REQUIREMENTS TO BE IMPOSED[^c-541ea4d4c4ab9092f3997276eaea989d]
 
 Article 2(2)
 
-**1.**[^key-541ea4d4c4ab9092f3997276eaea989d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-541ea4d4c4ab9092f3997276eaea989d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-541ea4d4c4ab9092f3997276eaea989d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-541ea4d4c4ab9092f3997276eaea989d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-541ea4d4c4ab9092f3997276eaea989d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-541ea4d4c4ab9092f3997276eaea989d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-541ea4d4c4ab9092f3997276eaea989d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2003/1280) revoked (25.7.2022) by [The Football Spectators (Seating) Order 2022 (S.I. 2022/728)](https://www.legislation.gov.uk/uksi/2022/728), [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/728/article/1/1), [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2022/728/schedule/3/paragraph/10)
+[^c-541ea4d4c4ab9092f3997276eaea989d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2003/1280) revoked (25.7.2022) by [The Football Spectators (Seating) Order 2022 (S.I. 2022/728)](https://www.legislation.gov.uk/uksi/2022/728), [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/728/article/1/1), [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2022/728/schedule/3/paragraph/10)

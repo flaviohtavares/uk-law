@@ -32,7 +32,7 @@ summary: ''
 
 Building Societies
 
-The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2008 (revoked)[^key-49c04acb3674cc537c7b430985c08862]
+The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2008 (revoked)[^c-49c04acb3674cc537c7b430985c08862]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 29th June 2008
 
-[^key-49c04acb3674cc537c7b430985c08862]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49c04acb3674cc537c7b430985c08862]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-49c04acb3674cc537c7b430985c08862]
+## 1. Citation, commencement and application[^c-49c04acb3674cc537c7b430985c08862]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Building Societies (Accounts and Related Provisions) Regulations 1998[^key-49c04acb3674cc537c7b430985c08862]
+## 2. Amendments to the Building Societies (Accounts and Related Provisions) Regulations 1998[^c-49c04acb3674cc537c7b430985c08862]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-49c04acb3674cc537c7b430985c08862] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-49c04acb3674cc537c7b430985c08862] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-49c04acb3674cc537c7b430985c08862] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-49c04acb3674cc537c7b430985c08862] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-49c04acb3674cc537c7b430985c08862] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-49c04acb3674cc537c7b430985c08862] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-49c04acb3674cc537c7b430985c08862]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49c04acb3674cc537c7b430985c08862]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-49c04acb3674cc537c7b430985c08862]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49c04acb3674cc537c7b430985c08862]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-49c04acb3674cc537c7b430985c08862]: Textual amendment: Regulations revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-49c04acb3674cc537c7b430985c08862]: Textual amendment: Regulations revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)

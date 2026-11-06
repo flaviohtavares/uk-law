@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Removal of vehicles and vessels[^key-7292f330525c8974f5d6e25e5fa54264]
+## 28. Removal of vehicles and vessels[^c-7292f330525c8974f5d6e25e5fa54264]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ notice that it has exercised the powers of the article and of the place to which
 
 ## Annotations
 
-[^key-7292f330525c8974f5d6e25e5fa54264]: Commencement: Art. 28 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-7292f330525c8974f5d6e25e5fa54264]: Commencement: Art. 28 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
 
 [^f00016]: Footnote: [S.I. 2002/2742](https://www.legislation.gov.uk/uksi/2002/2742).

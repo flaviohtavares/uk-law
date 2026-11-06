@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90A. Interpretation[^key-1e3c9238c446f1c5ba736520357b529b]
+## 90A. Interpretation[^c-1e3c9238c446f1c5ba736520357b529b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e3c9238c446f1c5ba736520357b529b]: Textual amendment: S. 90A repealed (with effect in accordance with Sch. 10 para. 17(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 10 para. 14(3)(c)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/10/paragraph/14/3/c), [Sch. 27 Pt. 2(10)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/10)
+[^c-1e3c9238c446f1c5ba736520357b529b]: Textual amendment: S. 90A repealed (with effect in accordance with Sch. 10 para. 17(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 10 para. 14(3)(c)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/10/paragraph/14/3/c), [Sch. 27 Pt. 2(10)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/10)

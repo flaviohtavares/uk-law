@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Where the MMO thinks that there is an urgent need to protect an MCZ, a byelaw made by it for that purpose under section 129[^key-8d6cb73954ab58b01000b118d1fc91d1] has effect without being confirmed by the Secretary of State.
+(1) Where the MMO thinks that there is an urgent need to protect an MCZ, a byelaw made by it for that purpose under section 129[^c-8d6cb73954ab58b01000b118d1fc91d1] has effect without being confirmed by the Secretary of State.
 
-(1A)[^key-2ffff22e72dc261b5715f139e265e7cc] Where the MMO thinks that there is an urgent need to protect the English offshore region, a byelaw made by it under section 129B for that purpose has effect without being confirmed by the Secretary of State.
+(1A)[^c-2ffff22e72dc261b5715f139e265e7cc] Where the MMO thinks that there is an urgent need to protect the English offshore region, a byelaw made by it under section 129B for that purpose has effect without being confirmed by the Secretary of State.
 
 (2) A byelaw that has effect by virtue of this section (an “emergency byelaw”)—
 
@@ -45,7 +45,7 @@ summary: ''
 
 (8) The MMO may not make a byelaw under subsection (7) unless—
 
-- (a) it intends to make a byelaw under section 129 in respect of the MCZ , or under section 129B in respect of the English offshore region,[^key-f7b97d4b18665ac842cba852b4f14693] in accordance with section 130 (“the permanent byelaw”), and
+- (a) it intends to make a byelaw under section 129 in respect of the MCZ , or under section 129B in respect of the English offshore region,[^c-f7b97d4b18665ac842cba852b4f14693] in accordance with section 130 (“the permanent byelaw”), and
 - (b) it has, in respect of the permanent byelaw, complied with section 130(6).
 
 (9) A period specified under subsection (7) may not exceed 6 months.
@@ -54,8 +54,8 @@ summary: ''
 
 [^c2007899]: Commencement: S. 131 partly in force; s. 131 in force for specified purposes at 12.1.2010 see s. 324(2)(b)(i)
 
-[^key-8d6cb73954ab58b01000b118d1fc91d1]: Textual amendment: Words in s. 131(1) inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 13(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/13/2) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-8d6cb73954ab58b01000b118d1fc91d1]: Textual amendment: Words in s. 131(1) inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 13(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/13/2) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-2ffff22e72dc261b5715f139e265e7cc]: Textual amendment: S. 131(1A) inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 13(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/13/3) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-2ffff22e72dc261b5715f139e265e7cc]: Textual amendment: S. 131(1A) inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 13(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/13/3) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-f7b97d4b18665ac842cba852b4f14693]: Textual amendment: Words in s. 131(8)(a) inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 13(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/13/4) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-f7b97d4b18665ac842cba852b4f14693]: Textual amendment: Words in s. 131(8)(a) inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 13(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/13/4) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

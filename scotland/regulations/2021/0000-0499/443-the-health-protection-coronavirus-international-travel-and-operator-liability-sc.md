@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Amendment (No. 10) Regulations 2021 (revoked)[^key-c8365687919eaf2fa9349c0f900acae0]
+The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Amendment (No. 10) Regulations 2021 (revoked)[^c-c8365687919eaf2fa9349c0f900acae0]
 
 Approved by the Scottish Parliament
 
@@ -48,63 +48,63 @@ Laid before the Scottish Parliament
 
 at 9.00 a.m. on 30th November 2021
 
-[^key-c8365687919eaf2fa9349c0f900acae0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8365687919eaf2fa9349c0f900acae0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c8365687919eaf2fa9349c0f900acae0]
+## 1. Citation and commencement[^c-c8365687919eaf2fa9349c0f900acae0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Regulations 2021[^key-c8365687919eaf2fa9349c0f900acae0]
+## 2. Amendment of the Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Regulations 2021[^c-c8365687919eaf2fa9349c0f900acae0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 5 – requirement to update passenger information[^key-c8365687919eaf2fa9349c0f900acae0]
+## 3. Amendment of regulation 5 – requirement to update passenger information[^c-c8365687919eaf2fa9349c0f900acae0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 11 – Part 4: application and interpretation[^key-c8365687919eaf2fa9349c0f900acae0]
+## 4. Amendment of regulation 11 – Part 4: application and interpretation[^c-c8365687919eaf2fa9349c0f900acae0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 14 – requirement to undertake tests[^key-c8365687919eaf2fa9349c0f900acae0]
+## 5. Amendment of regulation 14 – requirement to undertake tests[^c-c8365687919eaf2fa9349c0f900acae0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 15 – requirement to self-isolate on failure to undertake a test[^key-c8365687919eaf2fa9349c0f900acae0]
+## 6. Amendment of regulation 15 – requirement to self-isolate on failure to undertake a test[^c-c8365687919eaf2fa9349c0f900acae0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Omission of regulations 16A and 16B[^key-c8365687919eaf2fa9349c0f900acae0]
+## 7. Omission of regulations 16A and 16B[^c-c8365687919eaf2fa9349c0f900acae0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of regulation 26 – requirement to stay in specified premises[^key-c8365687919eaf2fa9349c0f900acae0]
+## 8. Amendment of regulation 26 – requirement to stay in specified premises[^c-c8365687919eaf2fa9349c0f900acae0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of regulation 27 – Part 6: persons not required to comply[^key-c8365687919eaf2fa9349c0f900acae0]
+## 9. Amendment of regulation 27 – Part 6: persons not required to comply[^c-c8365687919eaf2fa9349c0f900acae0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of regulation 30 - Part 4 (testing following arrival in Scotland): offences and penalties)[^key-c8365687919eaf2fa9349c0f900acae0]
+## 10. Amendment of regulation 30 - Part 4 (testing following arrival in Scotland): offences and penalties)[^c-c8365687919eaf2fa9349c0f900acae0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment to Schedule 8 – passenger notices[^key-c8365687919eaf2fa9349c0f900acae0]
+## 11. Amendment to Schedule 8 – passenger notices[^c-c8365687919eaf2fa9349c0f900acae0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Saving[^key-c8365687919eaf2fa9349c0f900acae0]
+## 12. Saving[^c-c8365687919eaf2fa9349c0f900acae0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c8365687919eaf2fa9349c0f900acae0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8365687919eaf2fa9349c0f900acae0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-c8365687919eaf2fa9349c0f900acae0]EXPLANATORY NOTE
+[^c-c8365687919eaf2fa9349c0f900acae0]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -132,4 +132,4 @@ An impact assessment is being prepared and will be published online at www.legis
 
 ## Annotations
 
-[^key-c8365687919eaf2fa9349c0f900acae0]: Textual amendment: Regulations revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Revocation Regulations 2022 (S.S.I. 2022/99)](https://www.legislation.gov.uk/ssi/2022/99), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/99/regulation/1/2), [sch.](https://www.legislation.gov.uk/ssi/2022/99/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/99/regulation/3))
+[^c-c8365687919eaf2fa9349c0f900acae0]: Textual amendment: Regulations revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Revocation Regulations 2022 (S.S.I. 2022/99)](https://www.legislation.gov.uk/ssi/2022/99), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/99/regulation/1/2), [sch.](https://www.legislation.gov.uk/ssi/2022/99/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/99/regulation/3))

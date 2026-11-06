@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 513. Revocation of the 1995 Regulations[^key-01b2f591285ba80be1cf0365380138ae]
+## 513. Revocation of the 1995 Regulations[^c-01b2f591285ba80be1cf0365380138ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Financial Markets and Insolvency (Money Market) Regulations 1995 are revoked
 
 ## Annotations
 
-[^key-01b2f591285ba80be1cf0365380138ae]: Commencement: Art. 513 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-01b2f591285ba80be1cf0365380138ae]: Commencement: Art. 513 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

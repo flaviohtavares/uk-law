@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Power to remit winding up to Lord Ordinary.[^key-5554ee2cd8937711e4e2bd59202f2951]
+## 121. Power to remit winding up to Lord Ordinary.[^c-5554ee2cd8937711e4e2bd59202f2951]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5554ee2cd8937711e4e2bd59202f2951]: Modification: S. 121 applied (with modifications) (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1388/part/3) [reg. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [Sch. 2 paras. 3](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/5) Table (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+[^c-5554ee2cd8937711e4e2bd59202f2951]: Modification: S. 121 applied (with modifications) (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1388/part/3) [reg. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [Sch. 2 paras. 3](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/5) Table (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))

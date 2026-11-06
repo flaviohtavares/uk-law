@@ -37,26 +37,26 @@ determining, pursuant to Regulation (EU) No 517/2014 of the European Parliament 
 
 (Only the Bulgarian, Czech, Croatian, Danish, Dutch, English, Estonian, Finish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovakian, Slovenian, Spanish and Swedish are authentic) (revoked)
 
-[^key-5a7fea6e015c75ed33544809b107dea8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a7fea6e015c75ed33544809b107dea8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Determination of reference values[^key-5a7fea6e015c75ed33544809b107dea8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Period of validity[^key-5a7fea6e015c75ed33544809b107dea8]
+## Article 1. Determination of reference values[^c-5a7fea6e015c75ed33544809b107dea8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Addressees[^key-5a7fea6e015c75ed33544809b107dea8]
+## Article 2. Period of validity[^c-5a7fea6e015c75ed33544809b107dea8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a7fea6e015c75ed33544809b107dea8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 3. Addressees[^c-5a7fea6e015c75ed33544809b107dea8]
 
-## ANNEX[^key-5a7fea6e015c75ed33544809b107dea8]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-5a7fea6e015c75ed33544809b107dea8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-5a7fea6e015c75ed33544809b107dea8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5a7fea6e015c75ed33544809b107dea8]: Textual amendment: Decision revoked (31.12.2020) by The Ozone-[Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [72](https://www.legislation.gov.uk/uksi/2019/583/regulation/72); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5a7fea6e015c75ed33544809b107dea8]: Textual amendment: Decision revoked (31.12.2020) by The Ozone-[Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [72](https://www.legislation.gov.uk/uksi/2019/583/regulation/72); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

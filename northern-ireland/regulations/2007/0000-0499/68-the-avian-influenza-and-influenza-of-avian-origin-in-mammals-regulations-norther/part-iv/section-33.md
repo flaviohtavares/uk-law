@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Alternative measures where avian influenza is confirmed at a hatchery or in other captive birds on special category premises[^key-0843fd4277c1c01a4c9a05dceb01101c]
+## 33. Alternative measures where avian influenza is confirmed at a hatchery or in other captive birds on special category premises[^c-0843fd4277c1c01a4c9a05dceb01101c]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0843fd4277c1c01a4c9a05dceb01101c]: Commencement: Reg. 33 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-0843fd4277c1c01a4c9a05dceb01101c]: Commencement: Reg. 33 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

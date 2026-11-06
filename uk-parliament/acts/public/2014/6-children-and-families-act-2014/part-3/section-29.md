@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Co-operating generally: governing body functions[^key-9d9826abe5d5ccb450a934b0c1f2c493]
+## 29. Co-operating generally: governing body functions[^c-9d9826abe5d5ccb450a934b0c1f2c493]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d9826abe5d5ccb450a934b0c1f2c493]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2014/6/section/29) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)
+[^c-9d9826abe5d5ccb450a934b0c1f2c493]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2014/6/section/29) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)

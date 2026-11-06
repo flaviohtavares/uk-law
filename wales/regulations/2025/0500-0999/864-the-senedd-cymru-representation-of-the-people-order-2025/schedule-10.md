@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 10 — Appendix of forms[^key-7ff483777731bd43c085c4ed95961585]
+## SCHEDULE 10 — Appendix of forms[^c-7ff483777731bd43c085c4ed95961585]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ff483777731bd43c085c4ed95961585]: Commencement: Sch. 10 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-7ff483777731bd43c085c4ed95961585]: Commencement: Sch. 10 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

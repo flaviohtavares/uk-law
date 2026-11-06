@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Measures on suspicion of disease in feral pigs[^key-bfb0e5bb1f47204d0630e20757bf769d]
+## 20. Measures on suspicion of disease in feral pigs[^c-bfb0e5bb1f47204d0630e20757bf769d]
 
 *Extent: E+W+S*
 
@@ -34,10 +34,10 @@ summary: ''
 
 *Extent: E+W*
 
-(4)[^key-be566badebd3750bd9efc363efdc5b2d] The Secretary of State may also, following suspicion of disease in Wales or Scotland, declare a feral pig investigation zone in England and apply some or all of the Schedule 2 measures.
+(4)[^c-be566badebd3750bd9efc363efdc5b2d] The Secretary of State may also, following suspicion of disease in Wales or Scotland, declare a feral pig investigation zone in England and apply some or all of the Schedule 2 measures.
 
 ## Annotations
 
-[^key-bfb0e5bb1f47204d0630e20757bf769d]: Commencement: Reg. 20 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
+[^c-bfb0e5bb1f47204d0630e20757bf769d]: Commencement: Reg. 20 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
 
-[^key-be566badebd3750bd9efc363efdc5b2d]: Textual amendment: [Reg. 20(4)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/20/4) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(14)](https://www.legislation.gov.uk/uksi/2026/475/article/3/14)
+[^c-be566badebd3750bd9efc363efdc5b2d]: Textual amendment: [Reg. 20(4)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/20/4) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(14)](https://www.legislation.gov.uk/uksi/2026/475/article/3/14)

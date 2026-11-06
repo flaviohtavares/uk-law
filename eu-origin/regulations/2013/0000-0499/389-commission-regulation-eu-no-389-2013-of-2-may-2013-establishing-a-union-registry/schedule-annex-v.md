@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX V — Additional information to be provided for opening a verifier account (Article 21)[^key-7fab6f804de2951eb7d43a8a33673a6e]
+## ANNEX V — Additional information to be provided for opening a verifier account (Article 21)[^c-7fab6f804de2951eb7d43a8a33673a6e]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-[^key-7fab6f804de2951eb7d43a8a33673a6e]1.
+[^c-7fab6f804de2951eb7d43a8a33673a6e]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7fab6f804de2951eb7d43a8a33673a6e]: Textual amendment: Annexes 5-7 omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [10(5)](https://www.legislation.gov.uk/uksi/2021/511/regulation/10/5)
+[^c-7fab6f804de2951eb7d43a8a33673a6e]: Textual amendment: Annexes 5-7 omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [10(5)](https://www.legislation.gov.uk/uksi/2021/511/regulation/10/5)

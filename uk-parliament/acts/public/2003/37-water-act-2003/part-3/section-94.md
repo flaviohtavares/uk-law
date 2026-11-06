@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Provision of public sewers otherwise than by requisition[^key-35e0de0022dccc14afba83cc6cabe84e]
+## 94. Provision of public sewers otherwise than by requisition[^c-35e0de0022dccc14afba83cc6cabe84e]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In section 101A of the WIA (which imposes a duty on sewerage undertakers to prov
 
 ## Annotations
 
-[^key-35e0de0022dccc14afba83cc6cabe84e]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2003/37/section/94) in force at 28.5.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/641/article/4/b) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-35e0de0022dccc14afba83cc6cabe84e]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2003/37/section/94) in force at 28.5.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/641/article/4/b) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

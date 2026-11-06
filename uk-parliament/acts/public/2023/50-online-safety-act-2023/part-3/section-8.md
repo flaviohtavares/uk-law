@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Scope of duties of care[^key-626cd4821b1fe14921997ad90a2fef62][^key-0d619abc7cc7b2e5f0f3bcc4f201e8a1]
+## 8. Scope of duties of care[^c-626cd4821b1fe14921997ad90a2fef62][^c-0d619abc7cc7b2e5f0f3bcc4f201e8a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ See Part 5 for the duties which relate to regulated provider pornographic conten
 
 ## Annotations
 
-[^key-626cd4821b1fe14921997ad90a2fef62]: Commencement: S. 8 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-626cd4821b1fe14921997ad90a2fef62]: Commencement: S. 8 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-0d619abc7cc7b2e5f0f3bcc4f201e8a1]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/50/section/8) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/b)
+[^c-0d619abc7cc7b2e5f0f3bcc4f201e8a1]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/50/section/8) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/b)

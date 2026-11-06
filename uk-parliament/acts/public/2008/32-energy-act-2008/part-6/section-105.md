@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Parliamentary control of subordinate legislation[^c1952849][^key-9afe1b74387ccfba0131c5ed06135722]
+## 105. Parliamentary control of subordinate legislation[^c1952849][^c-9afe1b74387ccfba0131c5ed06135722]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,22 +30,22 @@ summary: ''
   - (iii) section 41(6) (feed-in tariffs for small-scale electricity generation),
   - (iv) section 45(6)(a) (power to specify matters as designated technical matters),
   - (v) section 62(1) (power to apply Chapter 1 of Part 3 to other nuclear installations), or
-  - (va)[^key-cdbe9dcd281737289d709617dac3a8a9] section 82N (power to make regulations in relation to persons appointed as inspectors etc),
+  - (va)[^c-cdbe9dcd281737289d709617dac3a8a9] section 82N (power to make regulations in relation to persons appointed as inspectors etc),
   - (vb) section 82P (power to extend application of Part 4A),
-  - (vi)[^key-ecfdf8832b785317c6bf56b24ed00e5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (aa)[^key-e5c84a7b69048f31038519d7a973a64b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (vi)[^c-ecfdf8832b785317c6bf56b24ed00e5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^c-e5c84a7b69048f31038519d7a973a64b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
-- (ab)[^key-44a110d319baea0dcb33205d2d8acf1a] regulations which contain (whether alone or together with other provision) affirmative resolution provision made under section 100 (renewable heat incentives);
+- (ab)[^c-44a110d319baea0dcb33205d2d8acf1a] regulations which contain (whether alone or together with other provision) affirmative resolution provision made under section 100 (renewable heat incentives);
 - (b) an order, regulations or Order in Council which contains (whether alone or together with other provision) provision which, by virtue of section 43(3)(b), 86(3), 90(3), 104(4), 107(2)(a) or 109(3)(a) modifies an Act or an Act of the Scottish Parliament;
 - (c) an order which contains provision made under section 110 (commencement orders) only.
 
-(3) No order, regulations or recommendation to make an Order in Council, within subsection (2)(a) , (ab) *(Extent: E+W+S)*[^key-57fdd954f8e245e5e4258bf13ca1b544] or (b), may be made unless a draft of the order, regulations or Order in Council has been laid before, and approved by a resolution of, each House of Parliament.
+(3) No order, regulations or recommendation to make an Order in Council, within subsection (2)(a) , (ab) *(Extent: E+W+S)*[^c-57fdd954f8e245e5e4258bf13ca1b544] or (b), may be made unless a draft of the order, regulations or Order in Council has been laid before, and approved by a resolution of, each House of Parliament.
 
 *Extent: E+W+S*
 
-(3A)[^key-18f1490019726947a9b0f804283749a8] Provision made under section 100 is affirmative resolution provision if—
+(3A)[^c-18f1490019726947a9b0f804283749a8] Provision made under section 100 is affirmative resolution provision if—
 
 - (a) the provision is made under any of the powers which always attract the affirmative resolution procedure, or
 - (b) the provision—
@@ -104,16 +104,16 @@ summary: ''
 
 [^c1952849]: Commencement: S. 105 partly in force; s. 105 in force for certain purposes at Royal Assent, see [s. 110(1)(b)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/1/b)
 
-[^key-9afe1b74387ccfba0131c5ed06135722]: Commencement: S. 105 in force at 26.1.2009 in so far as not already in force by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(e)(iii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/e/iii)
+[^c-9afe1b74387ccfba0131c5ed06135722]: Commencement: S. 105 in force at 26.1.2009 in so far as not already in force by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(e)(iii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/e/iii)
 
-[^key-cdbe9dcd281737289d709617dac3a8a9]: Textual amendment: S. 105(2)(a)(va)(vb) inserted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 314(2)](https://www.legislation.gov.uk/ukpga/2009/23/section/314/2), [324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/c)
+[^c-cdbe9dcd281737289d709617dac3a8a9]: Textual amendment: S. 105(2)(a)(va)(vb) inserted (6.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 314(2)](https://www.legislation.gov.uk/ukpga/2009/23/section/314/2), [324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/c)
 
-[^key-ecfdf8832b785317c6bf56b24ed00e5d]: Textual amendment: S. 105(2)(a)(vi) omitted (12.2.2015) by virtue of [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 51(6)(a)](https://www.legislation.gov.uk/ukpga/2015/7/section/51/6/a), [57(7)(d)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/7/d)
+[^c-ecfdf8832b785317c6bf56b24ed00e5d]: Textual amendment: S. 105(2)(a)(vi) omitted (12.2.2015) by virtue of [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 51(6)(a)](https://www.legislation.gov.uk/ukpga/2015/7/section/51/6/a), [57(7)(d)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/7/d)
 
-[^key-e5c84a7b69048f31038519d7a973a64b]: Textual amendment: [S. 105(2)(aa)](https://www.legislation.gov.uk/ukpga/2008/32/section/105/2/aa) omitted (26.12.2023) by virtue of [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 98(2)](https://www.legislation.gov.uk/ukpga/2023/52/section/98/2), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-e5c84a7b69048f31038519d7a973a64b]: Textual amendment: [S. 105(2)(aa)](https://www.legislation.gov.uk/ukpga/2008/32/section/105/2/aa) omitted (26.12.2023) by virtue of [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 98(2)](https://www.legislation.gov.uk/ukpga/2023/52/section/98/2), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
 
-[^key-44a110d319baea0dcb33205d2d8acf1a]: Textual amendment: S. 105(2)(ab) inserted (E.W.S.) (12.2.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 51(6)(b)](https://www.legislation.gov.uk/ukpga/2015/7/section/51/6/b), [57(7)(d)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/7/d)
+[^c-44a110d319baea0dcb33205d2d8acf1a]: Textual amendment: S. 105(2)(ab) inserted (E.W.S.) (12.2.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 51(6)(b)](https://www.legislation.gov.uk/ukpga/2015/7/section/51/6/b), [57(7)(d)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/7/d)
 
-[^key-57fdd954f8e245e5e4258bf13ca1b544]: Textual amendment: Words in s. 105(3) inserted (E.W.S.) (12.2.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 51(7)](https://www.legislation.gov.uk/ukpga/2015/7/section/51/7), [57(7)(d)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/7/d)
+[^c-57fdd954f8e245e5e4258bf13ca1b544]: Textual amendment: Words in s. 105(3) inserted (E.W.S.) (12.2.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 51(7)](https://www.legislation.gov.uk/ukpga/2015/7/section/51/7), [57(7)(d)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/7/d)
 
-[^key-18f1490019726947a9b0f804283749a8]: Textual amendment: S. 105(3A)-(3I) inserted (E.W.S.) (12.2.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 51(8)](https://www.legislation.gov.uk/ukpga/2015/7/section/51/8), [57(7)(d)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/7/d)
+[^c-18f1490019726947a9b0f804283749a8]: Textual amendment: S. 105(3A)-(3I) inserted (E.W.S.) (12.2.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 51(8)](https://www.legislation.gov.uk/ukpga/2015/7/section/51/8), [57(7)(d)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/7/d)

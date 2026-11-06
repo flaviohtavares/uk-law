@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Residents of a dwelling to whom regulation 14(6) does not apply[^key-1e13e0b703ce05803fc4481ea976f9e0]
+## 79. Residents of a dwelling to whom regulation 14(6) does not apply[^c-1e13e0b703ce05803fc4481ea976f9e0]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e13e0b703ce05803fc4481ea976f9e0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2012/303) revoked (except regs. 2 (in part), 37, 38, sch. 4 paras. 37, 38) (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
+[^c-1e13e0b703ce05803fc4481ea976f9e0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2012/303) revoked (except regs. 2 (in part), 37, 38, sch. 4 paras. 37, 38) (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1A. Duty as to improvement in quality of services[^key-b7b707d38e307a9664b342cfdd62dec2]
+## 1A. Duty as to improvement in quality of services[^c-b7b707d38e307a9664b342cfdd62dec2]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7b707d38e307a9664b342cfdd62dec2]: Textual amendment: [S. 1A](https://www.legislation.gov.uk/ukpga/2006/41/section/1A) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 2](https://www.legislation.gov.uk/ukpga/2012/7/section/2), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-b7b707d38e307a9664b342cfdd62dec2]: Textual amendment: [S. 1A](https://www.legislation.gov.uk/ukpga/2006/41/section/1A) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 2](https://www.legislation.gov.uk/ukpga/2012/7/section/2), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 10 — DOCUMENTS TO BE CERTIFIED[^key-0d20d81a06003aea99cb68470db09b21]
+## SCHEDULE 10 — DOCUMENTS TO BE CERTIFIED[^c-0d20d81a06003aea99cb68470db09b21]
 
 *Extent: E+W*
 
 Articles 2 and 45
 
-[^key-0d20d81a06003aea99cb68470db09b21]
+[^c-0d20d81a06003aea99cb68470db09b21]
 
 The reference to a document in the table with a numbered regulation is a reference to the regulation as numbered in the Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009[^f00126].
 
@@ -40,9 +40,9 @@ The reference to a document in the table with a numbered regulation is a referen
 | Outline Arboricultural Method Statement | TR010029/EXAM/9.64 | 1 |
 | Outline Archaeological Management Plan – Regulation 5(2)(q) | TR010029/EXAM/9.45 | 2 |
 | Outline Construction Environmental Management Plan – Regulation 5(2)(q) | TR010029/APP/7.2 | 4 |
-| Outline Landscape and Ecology Management and Monitoring Plan | TR010029/APP/6.3[^key-b44e242d522ca2a71bdae0bad07e2535] | 2 |
+| Outline Landscape and Ecology Management and Monitoring Plan | TR010029/APP/6.3[^c-b44e242d522ca2a71bdae0bad07e2535] | 2 |
 | Outline Traffic Management Plan | TR010029/EXAM/9.52 | 1 |
-| [^key-a10b3515a24f3fb5115f58ecccad3e6d]. . . |  |  |
+| [^c-a10b3515a24f3fb5115f58ecccad3e6d]. . . |  |  |
 | Register of Environmental Actions and Commitments – Regulation 5(2)(q) | TR010029/APP/7.3 | 4 |
 | Scheme layout plans – Regulation 5(2)(o) | TR010029/APP/2.7 | 2 |
 | Special category land plans – Regulation 5(2)(i)(iv) | TR010029/APP/2.11 | 2 |
@@ -54,10 +54,10 @@ The reference to a document in the table with a numbered regulation is a referen
 
 ## Annotations
 
-[^key-0d20d81a06003aea99cb68470db09b21]: Commencement: Sch. 10 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
+[^c-0d20d81a06003aea99cb68470db09b21]: Commencement: Sch. 10 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
 
 [^f00126]: Footnote: [S.I. 2009/2264](https://www.legislation.gov.uk/uksi/2009/2264).
 
-[^key-b44e242d522ca2a71bdae0bad07e2535]: Textual amendment: Word in [Sch. 10](https://www.legislation.gov.uk/uksi/2022/573/schedule/10) substituted (7.2.2024) by [The M25 Junction 28 Development Consent (Correction) Order 2024 (S.I. 2024/129)](https://www.legislation.gov.uk/uksi/2024/129), [art. 1](https://www.legislation.gov.uk/uksi/2024/129/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/129/schedule)
+[^c-b44e242d522ca2a71bdae0bad07e2535]: Textual amendment: Word in [Sch. 10](https://www.legislation.gov.uk/uksi/2022/573/schedule/10) substituted (7.2.2024) by [The M25 Junction 28 Development Consent (Correction) Order 2024 (S.I. 2024/129)](https://www.legislation.gov.uk/uksi/2024/129), [art. 1](https://www.legislation.gov.uk/uksi/2024/129/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/129/schedule)
 
-[^key-a10b3515a24f3fb5115f58ecccad3e6d]: Textual amendment: Words in [Sch. 10](https://www.legislation.gov.uk/uksi/2022/573/schedule/10) omitted (7.2.2024) by virtue of [The M25 Junction 28 Development Consent (Correction) Order 2024 (S.I. 2024/129)](https://www.legislation.gov.uk/uksi/2024/129), [art. 1](https://www.legislation.gov.uk/uksi/2024/129/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/129/schedule)
+[^c-a10b3515a24f3fb5115f58ecccad3e6d]: Textual amendment: Words in [Sch. 10](https://www.legislation.gov.uk/uksi/2022/573/schedule/10) omitted (7.2.2024) by virtue of [The M25 Junction 28 Development Consent (Correction) Order 2024 (S.I. 2024/129)](https://www.legislation.gov.uk/uksi/2024/129), [art. 1](https://www.legislation.gov.uk/uksi/2024/129/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/129/schedule)

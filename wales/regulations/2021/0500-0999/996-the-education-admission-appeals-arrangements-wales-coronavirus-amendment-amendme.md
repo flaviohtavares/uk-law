@@ -31,7 +31,7 @@ summary: ''
 
 Education, Wales
 
-The Education (Admission Appeals Arrangements) (Wales) (Coronavirus) (Amendment) (Amendment) Regulations 2021 (revoked)[^key-f5a4e8a6c6f76b83967f46a6e6776eb0]
+The Education (Admission Appeals Arrangements) (Wales) (Coronavirus) (Amendment) (Amendment) Regulations 2021 (revoked)[^c-f5a4e8a6c6f76b83967f46a6e6776eb0]
 
 Made
 
@@ -45,22 +45,22 @@ Coming into force
 
 29 September 2021
 
-[^key-f5a4e8a6c6f76b83967f46a6e6776eb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f5a4e8a6c6f76b83967f46a6e6776eb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-f5a4e8a6c6f76b83967f46a6e6776eb0]
+## 1. Title and commencement[^c-f5a4e8a6c6f76b83967f46a6e6776eb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Education (Admission Appeals Arrangements) (Wales) (Coronavirus) (Amendment) Regulations 2020[^key-f5a4e8a6c6f76b83967f46a6e6776eb0]
+## 2. Amendment of the Education (Admission Appeals Arrangements) (Wales) (Coronavirus) (Amendment) Regulations 2020[^c-f5a4e8a6c6f76b83967f46a6e6776eb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5a4e8a6c6f76b83967f46a6e6776eb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f5a4e8a6c6f76b83967f46a6e6776eb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5a4e8a6c6f76b83967f46a6e6776eb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f5a4e8a6c6f76b83967f46a6e6776eb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f5a4e8a6c6f76b83967f46a6e6776eb0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/996) revoked (3.5.2023) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2023 (S.I. 2023/420)](https://www.legislation.gov.uk/wsi/2023/420), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/420/regulation/1/2), [2(c)](https://www.legislation.gov.uk/wsi/2023/420/regulation/2/c)
+[^c-f5a4e8a6c6f76b83967f46a6e6776eb0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/996) revoked (3.5.2023) by [The Education (Admission Appeals Arrangements) (Wales) (Amendment) Regulations 2023 (S.I. 2023/420)](https://www.legislation.gov.uk/wsi/2023/420), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/420/regulation/1/2), [2(c)](https://www.legislation.gov.uk/wsi/2023/420/regulation/2/c)

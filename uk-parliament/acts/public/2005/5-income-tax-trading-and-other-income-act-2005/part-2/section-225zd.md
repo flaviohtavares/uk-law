@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 225ZD. Effect of claim for spreading profits[^key-2f6ef58ac1b32d27aaebea07e3c91b2e]
+## 225ZD. Effect of claim for spreading profits[^c-2f6ef58ac1b32d27aaebea07e3c91b2e]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
   - (a) the total compensation profit for period X, or
   - (b) if the total compensation profit exceeds the profits of Year 1, such portion of the total compensation profit as will reduce the profits to nil.
   - “Year 1” is—
-    - (a) the tax year which[^key-6870d77757a7e9f245f1068865a0ecc8] includes the whole or a part of period X, or
+    - (a) the tax year which[^c-6870d77757a7e9f245f1068865a0ecc8] includes the whole or a part of period X, or
     - (b) if there is more than one, the earliest of those tax years.
 - *Step 3*
 
@@ -61,12 +61,12 @@ summary: ''
 
   Include in the profits of each of the 3 consecutive tax years following Year 1 an amount equal to one third of the total amount deducted by virtue of steps 2 and 3.
 
-(2)[^key-326036cb0fc229e1d0391b76a10f846f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-326036cb0fc229e1d0391b76a10f846f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2f6ef58ac1b32d27aaebea07e3c91b2e]: Textual amendment: Pt. 2 Ch. 16ZA inserted (1.3.2012) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [6](https://www.legislation.gov.uk/uksi/2012/266/article/6) (with [art. 9](https://www.legislation.gov.uk/uksi/2012/266/article/9))
+[^c-2f6ef58ac1b32d27aaebea07e3c91b2e]: Textual amendment: Pt. 2 Ch. 16ZA inserted (1.3.2012) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [6](https://www.legislation.gov.uk/uksi/2012/266/article/6) (with [art. 9](https://www.legislation.gov.uk/uksi/2012/266/article/9))
 
-[^key-6870d77757a7e9f245f1068865a0ecc8]: Textual amendment: Word in [s. 225ZD(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/225ZD/1) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 14(2)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/14/2), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
+[^c-6870d77757a7e9f245f1068865a0ecc8]: Textual amendment: Word in [s. 225ZD(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/225ZD/1) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 14(2)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/14/2), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
 
-[^key-326036cb0fc229e1d0391b76a10f846f]: Textual amendment: [S. 225ZD(2)](https://www.legislation.gov.uk/ukpga/2005/5/section/225ZD/2) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 14(3)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/14/3), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
+[^c-326036cb0fc229e1d0391b76a10f846f]: Textual amendment: [S. 225ZD(2)](https://www.legislation.gov.uk/ukpga/2005/5/section/225ZD/2) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 14(3)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/14/3), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)

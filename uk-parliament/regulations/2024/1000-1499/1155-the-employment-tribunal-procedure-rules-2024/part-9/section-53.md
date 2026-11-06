@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. Direction for preliminary hearing[^key-eafc764fe202663fc4af2de52a9a1d09]
+## 53. Direction for preliminary hearing[^c-eafc764fe202663fc4af2de52a9a1d09]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eafc764fe202663fc4af2de52a9a1d09]: Commencement: [Rule 53](https://www.legislation.gov.uk/uksi/2024/1155/rule/53) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-eafc764fe202663fc4af2de52a9a1d09]: Commencement: [Rule 53](https://www.legislation.gov.uk/uksi/2024/1155/rule/53) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

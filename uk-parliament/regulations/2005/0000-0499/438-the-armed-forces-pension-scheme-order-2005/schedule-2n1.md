@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Transitional Provision[^key-ed70ec70c323b2ebc986a9aa8aed8f81][^key-c9b13d1b15063a1ea162bd155e21eddf]
+## SCHEDULE 2 — Transitional Provision[^c-ed70ec70c323b2ebc986a9aa8aed8f81][^c-c9b13d1b15063a1ea162bd155e21eddf]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ In this Schedule—
   - (a) in accordance with the club transfer arrangements; and
   - (b) by reference to the guidance and tables provided by the Government Actuary for this purpose that are in use on the date used for the calculation;
 - “connected scheme” means another statutory pension scheme that is connected with the AFPS 2005 within the meaning of section 4(6) of the 2013 Act;
-- “flexible service” has the meaning given in rule A.1(4) of Schedule 1;[^key-23982ef18318a2bbebe48def6b961aab]
+- “flexible service” has the meaning given in rule A.1(4) of Schedule 1;[^c-23982ef18318a2bbebe48def6b961aab]
 - “full protection member” has the meaning given in Part 2;
 - “part-time service” has the meaning given in rule A.1(4) of Schedule 1;
 - “pensionable public service” means pensionable service under an existing scheme or a public body pension scheme;
@@ -44,7 +44,7 @@ In this Schedule—
 - “restricted separation service” has the meaning given in rule A.1(4) of Schedule 1;
 - “scheme employment” has the meaning given in regulation 13 of the AFP Regulations 2014;
 - “service reduction percentage” has the meaning given in rule A.2A of Schedule 1;
-- “[^key-49beb7c3bc90e4aaa4f87f4f1587da03]**transition date**” in relation to a transition member means—
+- “[^c-49beb7c3bc90e4aaa4f87f4f1587da03]**transition date**” in relation to a transition member means—
   - (a) where the member has remediable service in a Scheme within the meaning of section 1 of PSPJOA 2022 (whether or not by virtue of section 2(1) of PSPJOA 2022), 1st April 2022;
   - (b) in any other case, 1st April 2015;
 - “transition member” means a person—
@@ -61,7 +61,7 @@ In this Schedule—
 - (a) begins on or before T’s transition date; and
 - (b) ends on the day on which T becomes an active member of the AFPS 2015.
 
-(2) For the purpose of sub-paragraph (1), during the period starting with 1st April 2015[^key-328dc5f47fe10a50ec909b26b5b4ed18], T is not on a gap in service while T is in service which is pensionable under an existing scheme, a public body pension scheme or a scheme under section 1 of the 2013 Act.
+(2) For the purpose of sub-paragraph (1), during the period starting with 1st April 2015[^c-328dc5f47fe10a50ec909b26b5b4ed18], T is not on a gap in service while T is in service which is pensionable under an existing scheme, a public body pension scheme or a scheme under section 1 of the 2013 Act.
 
 #### 3. Commencement of active membership of the AFPS 2015 for a transition member
 
@@ -110,7 +110,7 @@ In this Schedule—
 
 (1) A person (P) to whom either of paragraphs 8 or 9 applies is a full protection member of the AFPS 2005.
 
-(2)[^key-1903e50daccc761fcebea91e60023441] P ceases to be a full protection member of the AFPS 2005 at the end of whichever of the following days occurs first—
+(2)[^c-1903e50daccc761fcebea91e60023441] P ceases to be a full protection member of the AFPS 2005 at the end of whichever of the following days occurs first—
 
 - (a) the day on which P ceases to be in pensionable service under that scheme unless sub-paragraph (3) or (4) applies; or
 - (b) 31st March 2022.
@@ -140,14 +140,14 @@ In this Schedule—
 
 (2) This sub-paragraph applies if—
 
-- (a) P was a conditional full protection member of the AFPS 2005 on 31st March 2015 and on 31st March 2012; [^key-b18f053c15a91364a15a1e30b5dddcb0]...
-- (b) [^key-b18f053c15a91364a15a1e30b5dddcb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) P was a conditional full protection member of the AFPS 2005 on 31st March 2015 and on 31st March 2012; [^c-b18f053c15a91364a15a1e30b5dddcb0]...
+- (b) [^c-b18f053c15a91364a15a1e30b5dddcb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) This sub-paragraph applies if—
 
 - (a) P was a conditional full protection member of an existing scheme or a public body pension scheme on 31st March 2012;
-- (b) P was a conditional full protection member of the AFPS 05 on 31st March 2015; [^key-bf337664ea5b8f95d14fae7d0f4eb564]...
-- (c) [^key-bf337664ea5b8f95d14fae7d0f4eb564]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) P was a conditional full protection member of the AFPS 05 on 31st March 2015; [^c-bf337664ea5b8f95d14fae7d0f4eb564]...
+- (c) [^c-bf337664ea5b8f95d14fae7d0f4eb564]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 9. Members of an existing scheme or a public body pension scheme
 
@@ -155,13 +155,13 @@ In this Schedule—
 
 - (a) P was a conditional full protection member of a public body pension scheme or an existing scheme other than the AFPS 2005 on the closing date for that scheme;
 - (b) P was a conditional full protection member of a public body pension scheme or an existing scheme (“P’s transitional scheme”) on 31st March 2012;
-- (c) P begins service which is pensionable under the AFPS 2005 not more than 5 years after leaving pensionable service under an existing scheme or a public body pension scheme; and[^key-110894de5bf236f6d43fbdb665759922]
-- (d) sub-paragraph (1A) applies or[^key-e9cb7d4b5acf1890f77795f1dea2123b] P would have been—
+- (c) P begins service which is pensionable under the AFPS 2005 not more than 5 years after leaving pensionable service under an existing scheme or a public body pension scheme; and[^c-110894de5bf236f6d43fbdb665759922]
+- (d) sub-paragraph (1A) applies or[^c-e9cb7d4b5acf1890f77795f1dea2123b] P would have been—
   - (i) a full protection member of the existing scheme referred to in paragraph (c) had P re-entered pensionable service under that scheme on the date P begins service which is pensionable under the AFPS 2005; or
-  - (ii) a fully protected member of the public body pension scheme referred to in paragraph (c) had P re-entered service which is pensionable under that scheme on the date P begins service which is pensionable under the AFPS 2005; [^key-5e131aa26204cf6fb27f98c34e76ac4c]...
-- (e) [^key-5e131aa26204cf6fb27f98c34e76ac4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) a fully protected member of the public body pension scheme referred to in paragraph (c) had P re-entered service which is pensionable under that scheme on the date P begins service which is pensionable under the AFPS 2005; [^c-5e131aa26204cf6fb27f98c34e76ac4c]...
+- (e) [^c-5e131aa26204cf6fb27f98c34e76ac4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-21cdd0e3bcc57edc04edee572b9424c0] This sub-paragraph applies if—
+(1A)[^c-21cdd0e3bcc57edc04edee572b9424c0] This sub-paragraph applies if—
 
 - (a) P was a full protection member of the existing scheme referred to in sub-paragraph (1)(c);
 - (b) P had ceased to be a full protection member of that scheme after leaving pensionable service under it; and
@@ -226,7 +226,7 @@ A transition member with continuity of service is not to receive early benefits 
 > - (c) In this paragraph, Y is the greater of—
 >   - (i) half of the further reckonable service which the member would have been able to count under the AFPS 2005 if the member had remained an accruing member of that scheme from the date of the ill-health retirement until age 55; and
 >   - (ii) 20, minus the total of the member’s years of reckonable service in the AFPS 2005 and years of pensionable service in the AFPS 2015.
-> - (d)[^key-ab4f90fb1369031d3f9ecaeb3c5276a7] For the purposes of calculating the member’s pensionable service in the AFPS 2015 under this rule, any period of pensionable service which is also a period when the member has served on flexible terms is reduced by the service reduction percentage applicable to that period of service.
+> - (d)[^c-ab4f90fb1369031d3f9ecaeb3c5276a7] For the purposes of calculating the member’s pensionable service in the AFPS 2015 under this rule, any period of pensionable service which is also a period when the member has served on flexible terms is reduced by the service reduction percentage applicable to that period of service.
 
 .
 
@@ -241,7 +241,7 @@ A transition member with continuity of service is not to receive early benefits 
 >   - (ii) the lesser of—
 >     - (aa) 25 minus the total of the member’s years of reckonable service in the AFPS 2005 and pensionable service in the AFPS 2015; and
 >     - (bb) the further pensionable service which the member would have been able to count under the AFPS 2015 if the member had remained an accruing member of that scheme from the date of the ill-health retirement until age 60.
-> - (e)[^key-5a5e988601c771c526bbd81384b2d3df] For the purposes of calculating the member’s pensionable service in the AFPS 2015 under sub-paragraphs (b)(i), (c) and (d)(ii)(aa), any period of pensionable service which is also a period when the member has served on flexible terms is reduced by the service reduction percentage applicable to that period of service.
+> - (e)[^c-5a5e988601c771c526bbd81384b2d3df] For the purposes of calculating the member’s pensionable service in the AFPS 2015 under sub-paragraphs (b)(i), (c) and (d)(ii)(aa), any period of pensionable service which is also a period when the member has served on flexible terms is reduced by the service reduction percentage applicable to that period of service.
 
 .
 
@@ -302,7 +302,7 @@ A transition member with continuity of service is not to receive early benefits 
 >   - (ii) X multiplied by Y; and
 > - (b) In this paragraph, X is equal to the member’s years of reckonable service in the AFPS 2005 divided by the total of the member’s years of reckonable service in the AFPS 2005 and pensionable service in the AFPS 2015.
 > - (c) In this paragraph, Y is one third of the further reckonable service which the member would have been able to count under the AFPS 2005 if the member had remained an accruing member of that scheme from the date of the ill-health retirement until age 55.
-> - (d)[^key-eb87a52534075ea559771dfa061462b2] For the purposes of calculating the member’s pensionable service in the AFPS 2015 under this rule, any period of pensionable service which is also a period when the member has served on flexible terms is reduced by the service reduction percentage applicable to that period of service.
+> - (d)[^c-eb87a52534075ea559771dfa061462b2] For the purposes of calculating the member’s pensionable service in the AFPS 2015 under this rule, any period of pensionable service which is also a period when the member has served on flexible terms is reduced by the service reduction percentage applicable to that period of service.
 
 .
 
@@ -313,7 +313,7 @@ A transition member with continuity of service is not to receive early benefits 
 >   - (ii) X multiplied by N.
 > - (c) In this paragraph, X is equal to the member’s years of pensionable service in the AFPS 2015 divided by the total of the member’s years of reckonable service in the AFPS 2005 and pensionable service in the AFPS 2015.
 > - (d) In this paragraph, N is one third of the further pensionable service which the member would have been able to count under the AFPS 2015 if the member had remained an accruing member of that scheme from the date of the ill-health retirement until age 60.
-> - (e)[^key-fe2d2392674b9d60360e0cd386e32a31] For the purposes of calculating the member’s pensionable service in the AFPS 2015 under sub-paragraphs (b)(i) and (c), any period of pensionable service which is also a period when the member has served on flexible terms is reduced by the service reduction percentage applicable to that period of service.
+> - (e)[^c-fe2d2392674b9d60360e0cd386e32a31] For the purposes of calculating the member’s pensionable service in the AFPS 2015 under sub-paragraphs (b)(i) and (c), any period of pensionable service which is also a period when the member has served on flexible terms is reduced by the service reduction percentage applicable to that period of service.
 
 .
 
@@ -391,7 +391,7 @@ A transition member with continuity of service is not to receive early benefits 
 
 #### 23. Review of ill-health awards at request of member or Secretary of State
 
-Regulations 57 and 58 of the AFP Regulations 2014 apply to a transition member with continuity of service who is entitled under this Part to an ill-health award in respect of their service before their transition date[^key-af5a410617ebde1c65914c015a7a935d].
+Regulations 57 and 58 of the AFP Regulations 2014 apply to a transition member with continuity of service who is entitled under this Part to an ill-health award in respect of their service before their transition date[^c-af5a410617ebde1c65914c015a7a935d].
 
 ### PART 4 — Payment of death benefits in respect of transition members with continuity of service
 
@@ -583,11 +583,11 @@ No benefits under the AFPS 2005 are to be provided to or in respect of a transit
 
 (1) In calculating benefits payable under the AFPS 2005 to or in respect of a transition member with continuity of service (T), T’s final pensionable earnings are determined by reference to Schedule 7 to the 2013 Act as if “final salary” were a reference to “final pensionable earnings”.
 
-(2)[^key-2db3659a856e60be2a4a21197994afe1] If a member’s final pensionable earnings on leaving service as a member of AFPS 2015 are lower than the member’s final pensionable earnings on their last day of reckonable service in the AFPS 2005, the member’s final pensionable earnings are to be determined as if paragraph (1) of rule A.4 of the AFPS 2015 were replaced by the following—
+(2)[^c-2db3659a856e60be2a4a21197994afe1] If a member’s final pensionable earnings on leaving service as a member of AFPS 2015 are lower than the member’s final pensionable earnings on their last day of reckonable service in the AFPS 2005, the member’s final pensionable earnings are to be determined as if paragraph (1) of rule A.4 of the AFPS 2015 were replaced by the following—
 
 > (1) In these Rules, “final pensionable earnings”, in relation to a member, means the greatest amount that is the member’s total pensionable earnings for 365 consecutive days falling within the period beginning three years before their last day of reckonable service in the AFPS 2005.
 
-#### 41. Secretary of State does not consider that the member has suffered a permanent breakdown of health involving incapacity for any full-time employment[^key-9f356dfdf7c7f3c5e178f1c37cfb6085]
+#### 41. Secretary of State does not consider that the member has suffered a permanent breakdown of health involving incapacity for any full-time employment[^c-9f356dfdf7c7f3c5e178f1c37cfb6085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -627,16 +627,16 @@ Where any element of pension under the AFPS 2005 which is in payment has been ca
 
 (1) This paragraph applies if a transition member with continuity of service—
 
-- (a) has exercised an option under rule C.1(1) (member’s option to pay contributions to increase service) before the member’s transition date[^key-b61bb3ef36f34b2a456cd1abee591f1a]; and
+- (a) has exercised an option under rule C.1(1) (member’s option to pay contributions to increase service) before the member’s transition date[^c-b61bb3ef36f34b2a456cd1abee591f1a]; and
 - (b) on the member’s transition date, the contractual option period is extant.
 
-(2) Periodical payments paid by the member in accordance with Part C of the AFPS 2005 on or after the member’s transition date[^key-c960083aa3fe88605c4eabb4dcc69446] and before the end of the contractual option period are valid for the purposes of Part C, and the contractual option period continues as if the member continued in pensionable service under the AFPS 2005.
+(2) Periodical payments paid by the member in accordance with Part C of the AFPS 2005 on or after the member’s transition date[^c-c960083aa3fe88605c4eabb4dcc69446] and before the end of the contractual option period are valid for the purposes of Part C, and the contractual option period continues as if the member continued in pensionable service under the AFPS 2005.
 
 #### 47. Opting out of AFPS 2015 - contributions under the AFPS 2005 cease to be payable
 
 If a transition member with continuity of service opts out of the AFPS 2015 any periodical payments paid by the member in accordance with Part C of the AFPS 2005 cease to be payable.
 
-#### 47A. Purchase of added years for members seconded to NATO or the UN etc[^key-6ca1a14531c7059da9fdafd343795b0f]
+#### 47A. Purchase of added years for members seconded to NATO or the UN etc[^c-6ca1a14531c7059da9fdafd343795b0f]
 
 (1) This paragraph applies to a transition member with continuity of service (T) if on T’s transition date T is in qualifying service in accordance with rule A.7(1)(b) (qualifying service) of the AFPS 2005.
 
@@ -684,46 +684,46 @@ That part of a club transfer value payment that relates to final salary benefit 
 
 ## Annotations
 
-[^key-ed70ec70c323b2ebc986a9aa8aed8f81]: Modification: [Schs. 1-3](https://www.legislation.gov.uk/uksi/2005/438/schedule/1) modified (14.7.2026 for the tax year 2014-15 and subsequent tax years) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2026 (S.I. 2026/673)](https://www.legislation.gov.uk/uksi/2026/673), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2026/673/regulation/10)
+[^c-ed70ec70c323b2ebc986a9aa8aed8f81]: Modification: [Schs. 1-3](https://www.legislation.gov.uk/uksi/2005/438/schedule/1) modified (14.7.2026 for the tax year 2014-15 and subsequent tax years) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2026 (S.I. 2026/673)](https://www.legislation.gov.uk/uksi/2026/673), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2026/673/regulation/10)
 
-[^key-c9b13d1b15063a1ea162bd155e21eddf]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) inserted (1.4.2015) by [The Armed Forces (Transitional Provisions) Pensions Regulations 2015 (S.I. 2015/568)](https://www.legislation.gov.uk/uksi/2015/568), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/568/schedule/2)
+[^c-c9b13d1b15063a1ea162bd155e21eddf]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) inserted (1.4.2015) by [The Armed Forces (Transitional Provisions) Pensions Regulations 2015 (S.I. 2015/568)](https://www.legislation.gov.uk/uksi/2015/568), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/568/schedule/2)
 
-[^key-23982ef18318a2bbebe48def6b961aab]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) inserted (1.4.2019) by [The Armed Forces Pension Schemes and Early Departure Payments Schemes (Amendments Relating to Flexible Working and Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1111)](https://www.legislation.gov.uk/uksi/2018/1111), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/1/made), [3(2)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/3/made)
+[^c-23982ef18318a2bbebe48def6b961aab]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) inserted (1.4.2019) by [The Armed Forces Pension Schemes and Early Departure Payments Schemes (Amendments Relating to Flexible Working and Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1111)](https://www.legislation.gov.uk/uksi/2018/1111), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/1/made), [3(2)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/3/made)
 
-[^key-49beb7c3bc90e4aaa4f87f4f1587da03]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) substituted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [9(2)](https://www.legislation.gov.uk/uksi/2023/998/regulation/9/2)
+[^c-49beb7c3bc90e4aaa4f87f4f1587da03]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) substituted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [9(2)](https://www.legislation.gov.uk/uksi/2023/998/regulation/9/2)
 
-[^key-328dc5f47fe10a50ec909b26b5b4ed18]: Textual amendment: Words in [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2005/438/schedule/2/paragraph/2/2) substituted (19.3.2025 with effect on and after 1.10.2023) by [The Armed Forces Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/188)](https://www.legislation.gov.uk/uksi/2025/188), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/188/regulation/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2025/188/regulation/3/3)[(5)](https://www.legislation.gov.uk/uksi/2025/188/regulation/3/5)
+[^c-328dc5f47fe10a50ec909b26b5b4ed18]: Textual amendment: Words in [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2005/438/schedule/2/paragraph/2/2) substituted (19.3.2025 with effect on and after 1.10.2023) by [The Armed Forces Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/188)](https://www.legislation.gov.uk/uksi/2025/188), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/188/regulation/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2025/188/regulation/3/3)[(5)](https://www.legislation.gov.uk/uksi/2025/188/regulation/3/5)
 
-[^key-1903e50daccc761fcebea91e60023441]: Textual amendment: [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) substituted (1.4.2022) by [The Armed Forces Pensions (Amendment) Regulations 2022 (S.I. 2022/323)](https://www.legislation.gov.uk/uksi/2022/323), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/323/regulation/1/made), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/323/regulation/3/made)
+[^c-1903e50daccc761fcebea91e60023441]: Textual amendment: [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) substituted (1.4.2022) by [The Armed Forces Pensions (Amendment) Regulations 2022 (S.I. 2022/323)](https://www.legislation.gov.uk/uksi/2022/323), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/323/regulation/1/made), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/323/regulation/3/made)
 
-[^key-b18f053c15a91364a15a1e30b5dddcb0]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) para. 8(2)(b) and word omitted (1.10.2023) by virtue of [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [9(3)(a)](https://www.legislation.gov.uk/uksi/2023/998/regulation/9/3/a)
+[^c-b18f053c15a91364a15a1e30b5dddcb0]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) para. 8(2)(b) and word omitted (1.10.2023) by virtue of [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [9(3)(a)](https://www.legislation.gov.uk/uksi/2023/998/regulation/9/3/a)
 
-[^key-bf337664ea5b8f95d14fae7d0f4eb564]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) para. 8(3)(c) and word omitted (1.10.2023) by virtue of [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [9(3)(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/9/3/b)
+[^c-bf337664ea5b8f95d14fae7d0f4eb564]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) para. 8(3)(c) and word omitted (1.10.2023) by virtue of [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [9(3)(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/9/3/b)
 
-[^key-110894de5bf236f6d43fbdb665759922]: Textual amendment: Word in [Sch. 2 para. 9(1)(c)](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) inserted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [9(4)(a)](https://www.legislation.gov.uk/uksi/2023/998/regulation/9/4/a)
+[^c-110894de5bf236f6d43fbdb665759922]: Textual amendment: Word in [Sch. 2 para. 9(1)(c)](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) inserted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [9(4)(a)](https://www.legislation.gov.uk/uksi/2023/998/regulation/9/4/a)
 
-[^key-e9cb7d4b5acf1890f77795f1dea2123b]: Textual amendment: Words in [Sch. 2 para. 9(1)(d)](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) inserted (31.3.2022 with effect on and after 1.4.2015) by [The Armed Forces Pensions (Amendment) Regulations 2022 (S.I. 2022/323)](https://www.legislation.gov.uk/uksi/2022/323), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/323/regulation/1/3), [3(2)(c)(i)](https://www.legislation.gov.uk/uksi/2022/323/regulation/3) (with [reg. 3(3))](https://www.legislation.gov.uk/uksi/2022/323/regulation/3)
+[^c-e9cb7d4b5acf1890f77795f1dea2123b]: Textual amendment: Words in [Sch. 2 para. 9(1)(d)](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) inserted (31.3.2022 with effect on and after 1.4.2015) by [The Armed Forces Pensions (Amendment) Regulations 2022 (S.I. 2022/323)](https://www.legislation.gov.uk/uksi/2022/323), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/323/regulation/1/3), [3(2)(c)(i)](https://www.legislation.gov.uk/uksi/2022/323/regulation/3) (with [reg. 3(3))](https://www.legislation.gov.uk/uksi/2022/323/regulation/3)
 
-[^key-5e131aa26204cf6fb27f98c34e76ac4c]: Textual amendment: [Sch. 2 para. 9(1)(e)](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) and word omitted (1.10.2023) by virtue of [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [9(4)(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/9/4/b)
+[^c-5e131aa26204cf6fb27f98c34e76ac4c]: Textual amendment: [Sch. 2 para. 9(1)(e)](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) and word omitted (1.10.2023) by virtue of [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [9(4)(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/9/4/b)
 
-[^key-21cdd0e3bcc57edc04edee572b9424c0]: Textual amendment: [Sch. 2 para. 9(1A)](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) inserted (31.3.2022 with effect on and after 1.4.2015) by [The Armed Forces Pensions (Amendment) Regulations 2022 (S.I. 2022/323)](https://www.legislation.gov.uk/uksi/2022/323), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/323/regulation/1/3), [3(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/323/regulation/3) (with [reg. 3(3))](https://www.legislation.gov.uk/uksi/2022/323/regulation/3)
+[^c-21cdd0e3bcc57edc04edee572b9424c0]: Textual amendment: [Sch. 2 para. 9(1A)](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) inserted (31.3.2022 with effect on and after 1.4.2015) by [The Armed Forces Pensions (Amendment) Regulations 2022 (S.I. 2022/323)](https://www.legislation.gov.uk/uksi/2022/323), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/323/regulation/1/3), [3(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/323/regulation/3) (with [reg. 3(3))](https://www.legislation.gov.uk/uksi/2022/323/regulation/3)
 
-[^key-ab4f90fb1369031d3f9ecaeb3c5276a7]: Textual amendment: Words in [Sch. 2 para. 14(4)](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) inserted (1.4.2019) by [The Armed Forces Pension Schemes and Early Departure Payments Schemes (Amendments Relating to Flexible Working and Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1111)](https://www.legislation.gov.uk/uksi/2018/1111), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/1/made), [3(3)(a)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/3/made)
+[^c-ab4f90fb1369031d3f9ecaeb3c5276a7]: Textual amendment: Words in [Sch. 2 para. 14(4)](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) inserted (1.4.2019) by [The Armed Forces Pension Schemes and Early Departure Payments Schemes (Amendments Relating to Flexible Working and Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1111)](https://www.legislation.gov.uk/uksi/2018/1111), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/1/made), [3(3)(a)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/3/made)
 
-[^key-5a5e988601c771c526bbd81384b2d3df]: Textual amendment: Words in [Sch. 2 para. 14(5)](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) inserted (1.4.2019) by [The Armed Forces Pension Schemes and Early Departure Payments Schemes (Amendments Relating to Flexible Working and Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1111)](https://www.legislation.gov.uk/uksi/2018/1111), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/1/made), [3(3)(b)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/3/made)
+[^c-5a5e988601c771c526bbd81384b2d3df]: Textual amendment: Words in [Sch. 2 para. 14(5)](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) inserted (1.4.2019) by [The Armed Forces Pension Schemes and Early Departure Payments Schemes (Amendments Relating to Flexible Working and Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1111)](https://www.legislation.gov.uk/uksi/2018/1111), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/1/made), [3(3)(b)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/3/made)
 
-[^key-eb87a52534075ea559771dfa061462b2]: Textual amendment: Words in [Sch. 2 para. 17(4)](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) inserted (1.4.2019) by [The Armed Forces Pension Schemes and Early Departure Payments Schemes (Amendments Relating to Flexible Working and Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1111)](https://www.legislation.gov.uk/uksi/2018/1111), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/1/made), [3(4)(a)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/3/made)
+[^c-eb87a52534075ea559771dfa061462b2]: Textual amendment: Words in [Sch. 2 para. 17(4)](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) inserted (1.4.2019) by [The Armed Forces Pension Schemes and Early Departure Payments Schemes (Amendments Relating to Flexible Working and Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1111)](https://www.legislation.gov.uk/uksi/2018/1111), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/1/made), [3(4)(a)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/3/made)
 
-[^key-fe2d2392674b9d60360e0cd386e32a31]: Textual amendment: Words in [Sch. 2 para. 17(5)](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) inserted (1.4.2019) by [The Armed Forces Pension Schemes and Early Departure Payments Schemes (Amendments Relating to Flexible Working and Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1111)](https://www.legislation.gov.uk/uksi/2018/1111), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/1/made), [3(4)(b)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/3/made)
+[^c-fe2d2392674b9d60360e0cd386e32a31]: Textual amendment: Words in [Sch. 2 para. 17(5)](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) inserted (1.4.2019) by [The Armed Forces Pension Schemes and Early Departure Payments Schemes (Amendments Relating to Flexible Working and Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1111)](https://www.legislation.gov.uk/uksi/2018/1111), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/1/made), [3(4)(b)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/3/made)
 
-[^key-af5a410617ebde1c65914c015a7a935d]: Textual amendment: Words in [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2005/438/schedule/2/paragraph/23) substituted (11.6.2026 with effect from 1.4.2015) by [The Armed Forces Pension (Amendment) Regulations 2026 (S.I. 2026/523)](https://www.legislation.gov.uk/uksi/2026/523), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/523/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2026/523/regulation/2/2), [6](https://www.legislation.gov.uk/uksi/2026/523/regulation/6)
+[^c-af5a410617ebde1c65914c015a7a935d]: Textual amendment: Words in [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2005/438/schedule/2/paragraph/23) substituted (11.6.2026 with effect from 1.4.2015) by [The Armed Forces Pension (Amendment) Regulations 2026 (S.I. 2026/523)](https://www.legislation.gov.uk/uksi/2026/523), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/523/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2026/523/regulation/2/2), [6](https://www.legislation.gov.uk/uksi/2026/523/regulation/6)
 
-[^key-2db3659a856e60be2a4a21197994afe1]: Textual amendment: [Sch. 2 para. 40(2)](https://www.legislation.gov.uk/uksi/2005/438/schedule/2/paragraph/40/2) substituted (1.12.2018) by [The Armed Forces Pension Schemes and Early Departure Payments Schemes (Amendments Relating to Flexible Working and Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1111)](https://www.legislation.gov.uk/uksi/2018/1111), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/1/2/c), [3(5)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/3/5)
+[^c-2db3659a856e60be2a4a21197994afe1]: Textual amendment: [Sch. 2 para. 40(2)](https://www.legislation.gov.uk/uksi/2005/438/schedule/2/paragraph/40/2) substituted (1.12.2018) by [The Armed Forces Pension Schemes and Early Departure Payments Schemes (Amendments Relating to Flexible Working and Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1111)](https://www.legislation.gov.uk/uksi/2018/1111), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/1/2/c), [3(5)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/3/5)
 
-[^key-9f356dfdf7c7f3c5e178f1c37cfb6085]: Textual amendment: [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) omitted (1.4.2022) by virtue of [The Armed Forces Pensions (Amendment) Regulations 2022 (S.I. 2022/323)](https://www.legislation.gov.uk/uksi/2022/323), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/323/regulation/1/made), [3(2)(d)](https://www.legislation.gov.uk/uksi/2022/323/regulation/3/made)
+[^c-9f356dfdf7c7f3c5e178f1c37cfb6085]: Textual amendment: [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) omitted (1.4.2022) by virtue of [The Armed Forces Pensions (Amendment) Regulations 2022 (S.I. 2022/323)](https://www.legislation.gov.uk/uksi/2022/323), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/323/regulation/1/made), [3(2)(d)](https://www.legislation.gov.uk/uksi/2022/323/regulation/3/made)
 
-[^key-b61bb3ef36f34b2a456cd1abee591f1a]: Textual amendment: Words in [Sch. 2 para. 46(1)](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) substituted (1.4.2022) by [The Armed Forces Pensions (Amendment) Regulations 2022 (S.I. 2022/323)](https://www.legislation.gov.uk/uksi/2022/323), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/323/regulation/1/made), [3(2)(e)(i)](https://www.legislation.gov.uk/uksi/2022/323/regulation/3/made)
+[^c-b61bb3ef36f34b2a456cd1abee591f1a]: Textual amendment: Words in [Sch. 2 para. 46(1)](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) substituted (1.4.2022) by [The Armed Forces Pensions (Amendment) Regulations 2022 (S.I. 2022/323)](https://www.legislation.gov.uk/uksi/2022/323), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/323/regulation/1/made), [3(2)(e)(i)](https://www.legislation.gov.uk/uksi/2022/323/regulation/3/made)
 
-[^key-c960083aa3fe88605c4eabb4dcc69446]: Textual amendment: Words in [Sch. 2 para. 46(2)](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) substituted (1.4.2022) by [The Armed Forces Pensions (Amendment) Regulations 2022 (S.I. 2022/323)](https://www.legislation.gov.uk/uksi/2022/323), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/323/regulation/1/made), [3(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2022/323/regulation/3/made)
+[^c-c960083aa3fe88605c4eabb4dcc69446]: Textual amendment: Words in [Sch. 2 para. 46(2)](https://www.legislation.gov.uk/uksi/2005/438/schedule/2) substituted (1.4.2022) by [The Armed Forces Pensions (Amendment) Regulations 2022 (S.I. 2022/323)](https://www.legislation.gov.uk/uksi/2022/323), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/323/regulation/1/made), [3(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2022/323/regulation/3/made)
 
-[^key-6ca1a14531c7059da9fdafd343795b0f]: Textual amendment: [Sch. 2 para. 47A](https://www.legislation.gov.uk/uksi/2005/438/schedule/2/paragraph/47A) inserted (1.4.2022 with effect on and after 1.4.2015) by [The Armed Forces Pensions (Amendment) Regulations 2022 (S.I. 2022/323)](https://www.legislation.gov.uk/uksi/2022/323), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/323/regulation/1/2), [3(2)(f)](https://www.legislation.gov.uk/uksi/2022/323/regulation/3/2/f) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/323/regulation/3/3))
+[^c-6ca1a14531c7059da9fdafd343795b0f]: Textual amendment: [Sch. 2 para. 47A](https://www.legislation.gov.uk/uksi/2005/438/schedule/2/paragraph/47A) inserted (1.4.2022 with effect on and after 1.4.2015) by [The Armed Forces Pensions (Amendment) Regulations 2022 (S.I. 2022/323)](https://www.legislation.gov.uk/uksi/2022/323), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/323/regulation/1/2), [3(2)(f)](https://www.legislation.gov.uk/uksi/2022/323/regulation/3/2/f) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/323/regulation/3/3))

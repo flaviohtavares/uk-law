@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 695A. Disguised distribution arrangements involving derivative contracts[^key-ab8178958e9361f51e0d8d167c87d9e6]
+## 695A. Disguised distribution arrangements involving derivative contracts[^c-ab8178958e9361f51e0d8d167c87d9e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ are not to be so brought into account to the extent that the total of those cred
 
 ## Annotations
 
-[^key-ab8178958e9361f51e0d8d167c87d9e6]: Textual amendment: S. 695A inserted (with effect in accordance with s. 29(2)-(6) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 29(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/29/1)
+[^c-ab8178958e9361f51e0d8d167c87d9e6]: Textual amendment: S. 695A inserted (with effect in accordance with s. 29(2)-(6) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 29(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/29/1)

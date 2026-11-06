@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 56. Amount of penalty for failing to comply with requirements[^key-2ba4f78be5abff0b14fbc5edefaecaa8][^key-dd9765702b6ade74880779cdcb64c69d]
+## 56. Amount of penalty for failing to comply with requirements[^c-2ba4f78be5abff0b14fbc5edefaecaa8][^c-dd9765702b6ade74880779cdcb64c69d]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2ba4f78be5abff0b14fbc5edefaecaa8]: Commencement: S. 56 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
+[^c-2ba4f78be5abff0b14fbc5edefaecaa8]: Commencement: S. 56 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
 
-[^key-dd9765702b6ade74880779cdcb64c69d]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2025/28/section/56) in force at 1.4.2026 in so far as not already in force by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-dd9765702b6ade74880779cdcb64c69d]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2025/28/section/56) in force at 1.4.2026 in so far as not already in force by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

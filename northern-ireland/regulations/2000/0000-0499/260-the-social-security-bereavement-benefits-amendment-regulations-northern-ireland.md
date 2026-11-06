@@ -43,7 +43,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by sections 122(1)(a) and (d), 123(1)(e), 131(1), 132(4)(b) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], and Article 14(4)(b) of the Jobseekers (Northern Ireland) Order 1995[^f00002] and now vested in it[^f00003], and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel[^f00004] in so far as regulation 4 and regulation 5, in so far as it relates to regulation 4, are concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of those regulations should not be referred to it[^f00005], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-c1c9eb0951d999f97cb944d08a81c141]
+## 1. Citation, commencement and interpretation[^c-c1c9eb0951d999f97cb944d08a81c141]
 
 (1) These Regulations may be cited as the Social Security (Bereavement Benefits Amendment) Regulations (Northern Ireland) 2000 and subject to paragraphs (2) and (3) shall come into operation on 9th April 2001.
 
@@ -59,7 +59,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (5) The Interpretation Act (Northern Ireland) 1954[^f00011] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Income Support Regulations[^key-9b84d0b3fbc51e8f13f7db71d1b0710e][^key-ee8eead0d32fa3a4639d38a8ede56286]
+## 2. Amendment of the Income Support Regulations[^c-9b84d0b3fbc51e8f13f7db71d1b0710e][^c-ee8eead0d32fa3a4639d38a8ede56286]
 
 (1) The Income Support Regulations shall be amended in accordance with paragraphs (2) to (4).
 
@@ -108,7 +108,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 .
 
-## 3. Amendment of the Jobseeker’s Allowance Regulations[^key-7a4b62851dea1c4b1908aea6f9c73bb0][^key-9d1ee68b2e6b6f44086559f8c82b2401]
+## 3. Amendment of the Jobseeker’s Allowance Regulations[^c-7a4b62851dea1c4b1908aea6f9c73bb0][^c-9d1ee68b2e6b6f44086559f8c82b2401]
 
 (1) The Jobseeker’s Allowance Regulations shall be amended in accordance with paragraphs (2) and (3).
 
@@ -145,7 +145,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 .
 
-## 4. Amendment of the Housing Benefit Regulations[^key-f6ba8088c42d67868353a0d9d989a429]
+## 4. Amendment of the Housing Benefit Regulations[^c-f6ba8088c42d67868353a0d9d989a429]
 
 (1) The Housing Benefit Regulations shall be amended in accordance with paragraphs (2) and (3).
 
@@ -189,7 +189,7 @@ The Department for Social Development, in exercise of the powers conferred on it
   ;
 - (b) in paragraph 35[^f00019] for “paragraphs 15” there shall be substituted “paragraphs 14A, 15”.
 
-## 5. Cessation in operation of certain provisions of these Regulations[^key-02bf0c3da1a04f6f1f102e13cef3bc4c]
+## 5. Cessation in operation of certain provisions of these Regulations[^c-02bf0c3da1a04f6f1f102e13cef3bc4c]
 
 Regulations 2(2) and (3), 3(2) and 4(2) shall cease to have effect on 10th April 2006 and the Income Support Regulations, the Jobseeker’s Allowance Regulations and the Housing Benefit Regulations shall apply thereafter as if the amendments made to them by those regulations had not been made.
 
@@ -241,7 +241,7 @@ These Regulations do not impose any charge on business.
 
 [^f00005]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-c1c9eb0951d999f97cb944d08a81c141]: Commencement: Reg. 1 in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/260/regulation/1/1)
+[^c-c1c9eb0951d999f97cb944d08a81c141]: Commencement: Reg. 1 in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/260/regulation/1/1)
 
 [^f00006]: Footnote: The definition of “benefit week” was amended by regulation 2(*a*) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318)
 
@@ -255,9 +255,9 @@ These Regulations do not impose any charge on business.
 
 [^f00011]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-9b84d0b3fbc51e8f13f7db71d1b0710e]: Commencement: Reg. 2(1)(2)(3) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/260/regulation/1/1)
+[^c-9b84d0b3fbc51e8f13f7db71d1b0710e]: Commencement: Reg. 2(1)(2)(3) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/260/regulation/1/1)
 
-[^key-ee8eead0d32fa3a4639d38a8ede56286]: Commencement: Reg. 2(4) in operation at 9.4.2001 with effect in accordance with reg. 1(2)
+[^c-ee8eead0d32fa3a4639d38a8ede56286]: Commencement: Reg. 2(4) in operation at 9.4.2001 with effect in accordance with reg. 1(2)
 
 [^f00012]: Footnote: Schedule 1B was inserted by regulation 22 of, and Schedule 1 to, [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199)
 
@@ -269,16 +269,16 @@ These Regulations do not impose any charge on business.
 
 [^f00016]: Footnote: Section 39A is inserted by Article 52(2) of [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)
 
-[^key-7a4b62851dea1c4b1908aea6f9c73bb0]: Commencement: Reg. 3(1)(2) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/260/regulation/1/1)
+[^c-7a4b62851dea1c4b1908aea6f9c73bb0]: Commencement: Reg. 3(1)(2) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/260/regulation/1/1)
 
-[^key-9d1ee68b2e6b6f44086559f8c82b2401]: Commencement: Reg. 3(3) in operation at 9.4.2001 with effect in accordance with reg. 1(3)
+[^c-9d1ee68b2e6b6f44086559f8c82b2401]: Commencement: Reg. 3(3) in operation at 9.4.2001 with effect in accordance with reg. 1(3)
 
 [^f00017]: Footnote: Paragraph 5 was amended by regulation 9(4)(*b*)(i) of [S.R. 1996 No. 288](https://www.legislation.gov.uk/nisr/1996/288)
 
-[^key-f6ba8088c42d67868353a0d9d989a429]: Commencement: Reg. 4 in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/260/regulation/1/1)
+[^c-f6ba8088c42d67868353a0d9d989a429]: Commencement: Reg. 4 in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/260/regulation/1/1)
 
 [^f00018]: Footnote: Paragraph 4 was amended by regulation 9(*a*) of [S.R. 1990 No. 345](https://www.legislation.gov.uk/nisr/1990/345) and regulation 6(*b*)(i) of [S.R. 1997 No. 4](https://www.legislation.gov.uk/nisr/1997/4)
 
 [^f00019]: Footnote: Paragraph 35 was amended by regulation 3(3) of [S.R. 1990 No. 305](https://www.legislation.gov.uk/nisr/1990/305), regulation 7(*b*) of [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93) and regulation 4(3) of [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81)
 
-[^key-02bf0c3da1a04f6f1f102e13cef3bc4c]: Commencement: Reg. 5 in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/260/regulation/1/1)
+[^c-02bf0c3da1a04f6f1f102e13cef3bc4c]: Commencement: Reg. 5 in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/260/regulation/1/1)

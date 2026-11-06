@@ -48,11 +48,11 @@ The Department intends the accounts under section 14 of the Government Resources
 
 Accordingly the Department makes the following Order in exercise of the powers conferred on it by section 15(1) of the Act.
 
-## 1. Title and commencement[^key-94741159a28cc91c3b74c142b8536b6b]
+## 1. Title and commencement[^c-94741159a28cc91c3b74c142b8536b6b]
 
 This Order may be cited as the Whole of Government Accounts (Designation of Bodies) (Northern Ireland) Order 2006 and shall come into operation on 14th June 2006.
 
-## 2. Designation[^key-6df8dc1bec1ecbdb9721f563f39e3957]
+## 2. Designation[^c-6df8dc1bec1ecbdb9721f563f39e3957]
 
 For the purposes of section 15 of the Government Resources and Accounts Act (Northern Ireland) 2001, the Department hereby designates the bodies listed in the Schedule in respect of the financial year ending with 31st March 2006.
 
@@ -68,7 +68,7 @@ Department of Finance and Personnel
 
 Article 2
 
-### Part1 — Bodies for Central Government Accounts[^key-556861c028ccc6c080cc9e03fd505541]
+### Part1 — Bodies for Central Government Accounts[^c-556861c028ccc6c080cc9e03fd505541]
 
 - Agricultural Research Institute for Northern Ireland
 - Air Route Development (Northern Ireland) Limited
@@ -128,7 +128,7 @@ Article 2
 - Western Education and Library Board
 - Youth Council for Northern Ireland
 
-### Part 2 — Additional bodies for Whole of Government Accounts[^key-05a1484e9ec074261a716d0fc4359061]
+### Part 2 — Additional bodies for Whole of Government Accounts[^c-05a1484e9ec074261a716d0fc4359061]
 
 - Antrim Borough Council
 - Ards Borough Council
@@ -171,7 +171,7 @@ Article 2
 - North and West Belfast Health and Social Services Trust
 - Northern Ireland Ambulance Service Health and Social Services Trust
 - Northern Ireland Central Services Agency for the Health and Social Services
-- Health and Social Care Regulation and Quality Improvement Authority[^key-7561d288923ca14b385ce3ed2ad23a5b]
+- Health and Social Care Regulation and Quality Improvement Authority[^c-7561d288923ca14b385ce3ed2ad23a5b]
 - Royal Group of Hospitals and Dental Hospital Health and Social Services Trust
 - South and East Belfast Health and Social Services Trust
 - Sperrin Lakeland Health and Social Services Trust
@@ -192,12 +192,12 @@ WGA are financial statements prepared on the basis of Generally Accepted Account
 
 ## Annotations
 
-[^key-94741159a28cc91c3b74c142b8536b6b]: Commencement: Art. 1 in operation at 14.6.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/226/article/1)
+[^c-94741159a28cc91c3b74c142b8536b6b]: Commencement: Art. 1 in operation at 14.6.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/226/article/1)
 
-[^key-6df8dc1bec1ecbdb9721f563f39e3957]: Commencement: Art. 2 in operation at 14.6.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/226/article/1)
+[^c-6df8dc1bec1ecbdb9721f563f39e3957]: Commencement: Art. 2 in operation at 14.6.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/226/article/1)
 
-[^key-556861c028ccc6c080cc9e03fd505541]: Commencement: Sch. Pt. 1 in operation at 14.6.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/226/article/1)
+[^c-556861c028ccc6c080cc9e03fd505541]: Commencement: Sch. Pt. 1 in operation at 14.6.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/226/article/1)
 
-[^key-05a1484e9ec074261a716d0fc4359061]: Commencement: Sch. Pt. 2 in operation at 14.6.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/226/article/1)
+[^c-05a1484e9ec074261a716d0fc4359061]: Commencement: Sch. Pt. 2 in operation at 14.6.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/226/article/1)
 
-[^key-7561d288923ca14b385ce3ed2ad23a5b]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisr/2006/226) substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-7561d288923ca14b385ce3ed2ad23a5b]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisr/2006/226) substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))

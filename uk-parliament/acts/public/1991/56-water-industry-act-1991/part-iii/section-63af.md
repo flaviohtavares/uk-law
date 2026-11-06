@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63AF. Interim duty: code[^key-dd423d2c304dfb35205f899cef684b17]
+## 63AF. Interim duty: code[^c-dd423d2c304dfb35205f899cef684b17]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd423d2c304dfb35205f899cef684b17]: Textual amendment: Ss. 63AC-63AF substituted for s. 63AC (1.4.2017) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 31](https://www.legislation.gov.uk/ukpga/2014/21/section/31), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(f)](https://www.legislation.gov.uk/uksi/2017/462/article/3/f)
+[^c-dd423d2c304dfb35205f899cef684b17]: Textual amendment: Ss. 63AC-63AF substituted for s. 63AC (1.4.2017) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 31](https://www.legislation.gov.uk/ukpga/2014/21/section/31), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(f)](https://www.legislation.gov.uk/uksi/2017/462/article/3/f)

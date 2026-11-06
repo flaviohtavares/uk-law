@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 65. Notification under this Part[^key-989cee80eca98027437050436f2f50d3]
+## 65. Notification under this Part[^c-989cee80eca98027437050436f2f50d3]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-989cee80eca98027437050436f2f50d3]: Commencement: [Reg. 65](https://www.legislation.gov.uk/nisr/2008/280/regulation/65) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-989cee80eca98027437050436f2f50d3]: Commencement: [Reg. 65](https://www.legislation.gov.uk/nisr/2008/280/regulation/65) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

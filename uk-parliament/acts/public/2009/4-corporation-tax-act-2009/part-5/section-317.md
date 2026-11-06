@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 317. Carrying value[^key-e74a82f3c670708e7fc445009b66ba00]
+## 317. Carrying value[^c-e74a82f3c670708e7fc445009b66ba00]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e74a82f3c670708e7fc445009b66ba00]: Textual amendment: S. 317 omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/11)
+[^c-e74a82f3c670708e7fc445009b66ba00]: Textual amendment: S. 317 omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/11)

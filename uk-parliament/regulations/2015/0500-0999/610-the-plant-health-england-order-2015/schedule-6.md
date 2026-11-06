@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — Prohibitions on the introduction into or movement within England of relevant material without a plant passport[^key-afee4f3eb0706a29a963a10e5fb00045]
+## SCHEDULE 6 — Prohibitions on the introduction into or movement within England of relevant material without a plant passport[^c-afee4f3eb0706a29a963a10e5fb00045]
 
 *Extent: E+W*
 
@@ -24,64 +24,64 @@ summary: ''
 
 Articles 21(1) to (4) and 23(1)
 
-### PART A — Relevant material which may only be landed or moved within England if accompanied by a plant passport[^key-afee4f3eb0706a29a963a10e5fb00045]
+### PART A — Relevant material which may only be landed or moved within England if accompanied by a plant passport[^c-afee4f3eb0706a29a963a10e5fb00045]
 
-**1.**[^key-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16A.**[^key-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16A.**[^c-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17A.**[^key-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17A.**[^c-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17B.**[^key-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17B.**[^c-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART B — Relevant material which may only be landed or moved within England if accompanied by a plant passport which is valid for England as a protected zone[^key-afee4f3eb0706a29a963a10e5fb00045]
+### PART B — Relevant material which may only be landed or moved within England if accompanied by a plant passport which is valid for England as a protected zone[^c-afee4f3eb0706a29a963a10e5fb00045]
 
-**19.**[^key-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20A.**[^key-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20A.**[^c-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20B.**[^key-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20B.**[^c-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-afee4f3eb0706a29a963a10e5fb00045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-afee4f3eb0706a29a963a10e5fb00045]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/610) revoked (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2019/1517/schedule/6) (with [regs. 51-54](https://www.legislation.gov.uk/uksi/2019/1517/regulation/51))
+[^c-afee4f3eb0706a29a963a10e5fb00045]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/610) revoked (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2019/1517/schedule/6) (with [regs. 51-54](https://www.legislation.gov.uk/uksi/2019/1517/regulation/51))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Service of notices[^key-9624f53275610147f1786c5180423d9b]
+## 46. Service of notices[^c-9624f53275610147f1786c5180423d9b]
 
 *Extent: E+W+S*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9624f53275610147f1786c5180423d9b]: Commencement: Art. 46 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-9624f53275610147f1786c5180423d9b]: Commencement: Art. 46 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
 [^f00045]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30). Section 7 was amended by section 144 and paragraph 19 of Schedule 10 to the Road Traffic Regulation Act [1984 (c. 27)](https://www.legislation.gov.uk/ukpga/1984/27). There are other amendments not relevant to this Order.

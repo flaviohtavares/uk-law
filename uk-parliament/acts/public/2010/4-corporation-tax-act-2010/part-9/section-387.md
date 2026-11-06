@@ -24,15 +24,15 @@ summary: ''
 
 (2) A business carried on by the relevant company is a business of leasing plant or machinery on the relevant day if condition A or B is met.
 
-(3) Condition A is that at least half of the relevant plant or machinery value relates to plant or machinery falling within subsection (7)[^key-f88467fe623ad54f9022b44bc3433170].
+(3) Condition A is that at least half of the relevant plant or machinery value relates to plant or machinery falling within subsection (7)[^c-f88467fe623ad54f9022b44bc3433170].
 
 (4) Subsection (3) is supplemented by section 388.
 
-(5)[^key-ba430482f762aef744733091107ad58f] Condition B is that at least half of the relevant company's income in the past 12 months derives from plant or machinery falling within subsection (7).
+(5)[^c-ba430482f762aef744733091107ad58f] Condition B is that at least half of the relevant company's income in the past 12 months derives from plant or machinery falling within subsection (7).
 
 (6) Subsection (5) is supplemented by section 391.
 
-(7)[^key-83ecb5912c9583c19b0e87de99f326b4] Plant or machinery falls within this subsection if—
+(7)[^c-83ecb5912c9583c19b0e87de99f326b4] Plant or machinery falls within this subsection if—
 
 - (a) it is or at any time in the past 12 months has been leased out by the relevant company or a qualifying associate,
 - (b) the lease under which it is or has been leased out is a plant or machinery lease but not an excluded lease of background plant or machinery for a building (see section 437(3)), and
@@ -53,8 +53,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f88467fe623ad54f9022b44bc3433170]: Textual amendment: Words in s. 387(3) substituted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11) , [Sch. 6 para. 2(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/2/2)
+[^c-f88467fe623ad54f9022b44bc3433170]: Textual amendment: Words in s. 387(3) substituted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11) , [Sch. 6 para. 2(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/2/2)
 
-[^key-ba430482f762aef744733091107ad58f]: Textual amendment: S. 387(5) substituted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11) , [Sch. 6 para. 2(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/2/3)
+[^c-ba430482f762aef744733091107ad58f]: Textual amendment: S. 387(5) substituted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11) , [Sch. 6 para. 2(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/2/3)
 
-[^key-83ecb5912c9583c19b0e87de99f326b4]: Textual amendment: S. 387(7)-(10) substituted for s. 387(7)(8) (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11) , [Sch. 6 para. 2(4)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/2/4)
+[^c-83ecb5912c9583c19b0e87de99f326b4]: Textual amendment: S. 387(7)-(10) substituted for s. 387(7)(8) (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11) , [Sch. 6 para. 2(4)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/2/4)

@@ -32,7 +32,7 @@ summary: ''
 
 Employment
 
-The Gangmasters Licensing (Exclusions) Regulations (Northern Ireland) 2010 (revoked)[^key-0a27a5b1c901ee0fa802637fce4d4ffd]
+The Gangmasters Licensing (Exclusions) Regulations (Northern Ireland) 2010 (revoked)[^c-0a27a5b1c901ee0fa802637fce4d4ffd]
 
 Made
 
@@ -42,90 +42,90 @@ Coming into operation-
 
 14th May 2010
 
-[^key-0a27a5b1c901ee0fa802637fce4d4ffd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a27a5b1c901ee0fa802637fce4d4ffd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0a27a5b1c901ee0fa802637fce4d4ffd]
+## 1. Citation and commencement[^c-0a27a5b1c901ee0fa802637fce4d4ffd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-0a27a5b1c901ee0fa802637fce4d4ffd]
+## 2. Interpretation[^c-0a27a5b1c901ee0fa802637fce4d4ffd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Circumstances in which a licence is not required[^key-0a27a5b1c901ee0fa802637fce4d4ffd]
+## 3. Circumstances in which a licence is not required[^c-0a27a5b1c901ee0fa802637fce4d4ffd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-0a27a5b1c901ee0fa802637fce4d4ffd]
+## 4. Revocation[^c-0a27a5b1c901ee0fa802637fce4d4ffd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a27a5b1c901ee0fa802637fce4d4ffd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a27a5b1c901ee0fa802637fce4d4ffd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — CIRCUMSTANCES IN WHICH A LICENCE IS NOT REQUIRED UNDER THE 2004 ACT[^key-0a27a5b1c901ee0fa802637fce4d4ffd]
+## SCHEDULE — CIRCUMSTANCES IN WHICH A LICENCE IS NOT REQUIRED UNDER THE 2004 ACT[^c-0a27a5b1c901ee0fa802637fce4d4ffd]
 
 Regulation 3
 
-### PART 1[^key-0a27a5b1c901ee0fa802637fce4d4ffd]
+### PART 1[^c-0a27a5b1c901ee0fa802637fce4d4ffd]
 
-#### 1. Produce workers[^key-0a27a5b1c901ee0fa802637fce4d4ffd]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-0a27a5b1c901ee0fa802637fce4d4ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-0a27a5b1c901ee0fa802637fce4d4ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART 2[^key-0a27a5b1c901ee0fa802637fce4d4ffd]
-
-#### 1. Agricultural workers[^key-0a27a5b1c901ee0fa802637fce4d4ffd]
+#### 1. Produce workers[^c-0a27a5b1c901ee0fa802637fce4d4ffd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-0a27a5b1c901ee0fa802637fce4d4ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-0a27a5b1c901ee0fa802637fce4d4ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-0a27a5b1c901ee0fa802637fce4d4ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-0a27a5b1c901ee0fa802637fce4d4ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-0a27a5b1c901ee0fa802637fce4d4ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### PART 2[^c-0a27a5b1c901ee0fa802637fce4d4ffd]
 
-**5.**[^key-0a27a5b1c901ee0fa802637fce4d4ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**6.**[^key-0a27a5b1c901ee0fa802637fce4d4ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-0a27a5b1c901ee0fa802637fce4d4ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-0a27a5b1c901ee0fa802637fce4d4ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-0a27a5b1c901ee0fa802637fce4d4ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**10.**[^key-0a27a5b1c901ee0fa802637fce4d4ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**11.**[^key-0a27a5b1c901ee0fa802637fce4d4ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**12.**[^key-0a27a5b1c901ee0fa802637fce4d4ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**13.**[^key-0a27a5b1c901ee0fa802637fce4d4ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART 3[^key-0a27a5b1c901ee0fa802637fce4d4ffd]
-
-#### Shellfish gatherers[^key-0a27a5b1c901ee0fa802637fce4d4ffd]
+#### 1. Agricultural workers[^c-0a27a5b1c901ee0fa802637fce4d4ffd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4[^key-0a27a5b1c901ee0fa802637fce4d4ffd]
+**2.**[^c-0a27a5b1c901ee0fa802637fce4d4ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Bodies corporate[^key-0a27a5b1c901ee0fa802637fce4d4ffd]
+**3.**[^c-0a27a5b1c901ee0fa802637fce4d4ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^c-0a27a5b1c901ee0fa802637fce4d4ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^c-0a27a5b1c901ee0fa802637fce4d4ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^c-0a27a5b1c901ee0fa802637fce4d4ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^c-0a27a5b1c901ee0fa802637fce4d4ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^c-0a27a5b1c901ee0fa802637fce4d4ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^c-0a27a5b1c901ee0fa802637fce4d4ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^c-0a27a5b1c901ee0fa802637fce4d4ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^c-0a27a5b1c901ee0fa802637fce4d4ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^c-0a27a5b1c901ee0fa802637fce4d4ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^c-0a27a5b1c901ee0fa802637fce4d4ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 3[^c-0a27a5b1c901ee0fa802637fce4d4ffd]
+
+#### Shellfish gatherers[^c-0a27a5b1c901ee0fa802637fce4d4ffd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 4[^c-0a27a5b1c901ee0fa802637fce4d4ffd]
+
+#### Bodies corporate[^c-0a27a5b1c901ee0fa802637fce4d4ffd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0a27a5b1c901ee0fa802637fce4d4ffd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a27a5b1c901ee0fa802637fce4d4ffd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0a27a5b1c901ee0fa802637fce4d4ffd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/162) revoked (7.3.2014) by [The Gangmasters Licensing (Exclusions) Regulations (Northern Ireland) 2014 (S.R. 2014/23)](https://www.legislation.gov.uk/nisr/2014/23), [regs. 1](https://www.legislation.gov.uk/nisr/2014/23/regulation/1), [4](https://www.legislation.gov.uk/nisr/2014/23/regulation/4)
+[^c-0a27a5b1c901ee0fa802637fce4d4ffd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/162) revoked (7.3.2014) by [The Gangmasters Licensing (Exclusions) Regulations (Northern Ireland) 2014 (S.R. 2014/23)](https://www.legislation.gov.uk/nisr/2014/23), [regs. 1](https://www.legislation.gov.uk/nisr/2014/23/regulation/1), [4](https://www.legislation.gov.uk/nisr/2014/23/regulation/4)

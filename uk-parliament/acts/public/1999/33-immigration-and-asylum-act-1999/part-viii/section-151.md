@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Intervention by Secretary of State.[^key-410099bee8694a51676a6e9a6388127a]
+## 151. Intervention by Secretary of State.[^c-410099bee8694a51676a6e9a6388127a]
 
 *Extent: E+W+S+N.I.*
 
 (1) The Secretary of State may exercise the powers conferred by this section if it appears to him that—
 
-- (a) the manager of a contracted out removal centre[^key-8f6ed8afd3e5ae126568312d9d06dbfe] has lost, or is likely to lose, effective control of the centre or of any part of it; or
+- (a) the manager of a contracted out removal centre[^c-8f6ed8afd3e5ae126568312d9d06dbfe] has lost, or is likely to lose, effective control of the centre or of any part of it; or
 - (b) it is necessary to do so in the interests of preserving the safety of any person, or of preventing serious damage to any property.
 
 (2) The Secretary of State may appoint a person (to be known as the Controller) to act as manager of the removal centre for the period—
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-410099bee8694a51676a6e9a6388127a]: Modification: [S. 151](https://www.legislation.gov.uk/ukpga/1999/33/section/151) extended (2.7.2018) by [The Short-term Holding Facility Rules 2018 (S.I. 2018/409)](https://www.legislation.gov.uk/uksi/2018/409), [rules 1](https://www.legislation.gov.uk/uksi/2018/409/rule/1), [57(a)](https://www.legislation.gov.uk/uksi/2018/409/rule/57/a) (with [rule 3](https://www.legislation.gov.uk/uksi/2018/409/rule/3))
+[^c-410099bee8694a51676a6e9a6388127a]: Modification: [S. 151](https://www.legislation.gov.uk/ukpga/1999/33/section/151) extended (2.7.2018) by [The Short-term Holding Facility Rules 2018 (S.I. 2018/409)](https://www.legislation.gov.uk/uksi/2018/409), [rules 1](https://www.legislation.gov.uk/uksi/2018/409/rule/1), [57(a)](https://www.legislation.gov.uk/uksi/2018/409/rule/57/a) (with [rule 3](https://www.legislation.gov.uk/uksi/2018/409/rule/3))
 
-[^key-8f6ed8afd3e5ae126568312d9d06dbfe]: Textual amendment: Words in s. 151 substituted (10.2.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss.](https://www.legislation.gov.uk/ukpga/2002/41/section) [66(2)(3)(d)](https://www.legislation.gov.uk/ukpga/2002/41/section/66/3/d), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/1](https://www.legislation.gov.uk/uksi/2003/1), [art. 2](https://www.legislation.gov.uk/uksi/2003/1/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1/schedule)
+[^c-8f6ed8afd3e5ae126568312d9d06dbfe]: Textual amendment: Words in s. 151 substituted (10.2.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss.](https://www.legislation.gov.uk/ukpga/2002/41/section) [66(2)(3)(d)](https://www.legislation.gov.uk/ukpga/2002/41/section/66/3/d), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/1](https://www.legislation.gov.uk/uksi/2003/1), [art. 2](https://www.legislation.gov.uk/uksi/2003/1/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1/schedule)

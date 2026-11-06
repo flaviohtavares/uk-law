@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. Supplementary provisions with respect to agreements under section 167[^key-caf501c8083148df90481dc59b61666e]
+## 171. Supplementary provisions with respect to agreements under section 167[^c-caf501c8083148df90481dc59b61666e]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-caf501c8083148df90481dc59b61666e]: Commencement: [S. 171](https://www.legislation.gov.uk/ukpga/2009/23/section/171) in force at 1.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/e)
+[^c-caf501c8083148df90481dc59b61666e]: Commencement: [S. 171](https://www.legislation.gov.uk/ukpga/2009/23/section/171) in force at 1.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/e)

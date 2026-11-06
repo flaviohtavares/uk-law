@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Power to borrow[^key-18ea760629d7e401eecdc445c4cd5156]
+## 13. Power to borrow[^c-18ea760629d7e401eecdc445c4cd5156]
 
 *Extent: E+W*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18ea760629d7e401eecdc445c4cd5156]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2026/23/section/13) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-18ea760629d7e401eecdc445c4cd5156]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2026/23/section/13) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

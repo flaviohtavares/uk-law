@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 127. Estimate of quantum[^key-fcfad056bbbc050312bd59a4cc4cf493]
+## 127. Estimate of quantum[^c-fcfad056bbbc050312bd59a4cc4cf493]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fcfad056bbbc050312bd59a4cc4cf493]: Commencement: [Rule 127](https://www.legislation.gov.uk/nisr/2026/11/rule/127) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-fcfad056bbbc050312bd59a4cc4cf493]: Commencement: [Rule 127](https://www.legislation.gov.uk/nisr/2026/11/rule/127) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

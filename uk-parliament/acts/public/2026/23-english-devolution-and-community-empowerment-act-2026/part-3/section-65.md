@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Publication of addresses of members etc in authority registers[^key-be7e1672b0cf4d05e183ccc0d597cf68]
+## 65. Publication of addresses of members etc in authority registers[^c-be7e1672b0cf4d05e183ccc0d597cf68]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be7e1672b0cf4d05e183ccc0d597cf68]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2026/23/section/65) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-be7e1672b0cf4d05e183ccc0d597cf68]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2026/23/section/65) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

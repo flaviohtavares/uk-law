@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Termination of membership[^key-142e1b3dd894ba133525ce6f9592b675]
+## 68. Termination of membership[^c-142e1b3dd894ba133525ce6f9592b675]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 4.50 of the 1986 Rules.
 
 ## Annotations
 
-[^key-142e1b3dd894ba133525ce6f9592b675]: Commencement: Rule 68 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-142e1b3dd894ba133525ce6f9592b675]: Commencement: Rule 68 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

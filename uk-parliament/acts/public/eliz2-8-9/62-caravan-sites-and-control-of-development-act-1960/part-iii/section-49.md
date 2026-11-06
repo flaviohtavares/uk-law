@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49 (Extent: S). Financial provisions. (Extent: S)[^key-8847684b151be95d5b31cd9e36fd5bf5]
+## 49 (Extent: S). Financial provisions. (Extent: S)[^c-8847684b151be95d5b31cd9e36fd5bf5]
 
 *Extent: E+W+S*
 
@@ -27,6 +27,6 @@ There shall be paid out of monies provided by Parliament— *(Extent: S)*
 
 ## Annotations
 
-[^key-8847684b151be95d5b31cd9e36fd5bf5]: Textual amendment: Pt. 1A heading inserted (S.) (20.11.2014 for the purposes of ss. 32B-32I, 32N, 32Y) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 63(2)](https://www.legislation.gov.uk/asp/2014/14/section/63/2), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-8847684b151be95d5b31cd9e36fd5bf5]: Textual amendment: Pt. 1A heading inserted (S.) (20.11.2014 for the purposes of ss. 32B-32I, 32N, 32Y) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 63(2)](https://www.legislation.gov.uk/asp/2014/14/section/63/2), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
 
 [^c6636161]: Modification: Functions of Minister of Housing and Local Government transferred to Secretary of State by virtue of [S.I. 1965/319](https://www.legislation.gov.uk/uksi/1965/319), [arts. 2](https://www.legislation.gov.uk/uksi/1965/319/article/2), [10(1)](https://www.legislation.gov.uk/uksi/1965/319/article/10/1)(*a*), Sch. 1 Pt. I and 1970/1681, arts. 2, 6(3)

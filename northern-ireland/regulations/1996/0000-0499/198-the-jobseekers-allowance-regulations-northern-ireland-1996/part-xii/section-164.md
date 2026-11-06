@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 164. Amount payable[^key-d1321969b7e284e30e94582b3e1bc2ca]
+## 164. Amount payable[^c-d1321969b7e284e30e94582b3e1bc2ca]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1321969b7e284e30e94582b3e1bc2ca]: Commencement: Reg. 164 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-d1321969b7e284e30e94582b3e1bc2ca]: Commencement: Reg. 164 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

@@ -28,10 +28,10 @@ summary: ''
 - “**costs**” includes fees, charges, disbursements, expenses or remuneration;
 - “**court of assize**” has the meaning assigned to it by section 42(1) of the [^c13728141]Interpretation Act (Northern Ireland) 1954;
 - “**Court of Criminal Appeal**” means the Court of Criminal Appeal heretofore existing in Northern Ireland;
-- “**county court**” means a county court held [^key-00fe4d77f8e1db50bf2f028cb6b28854]... under the County Courts (Northern Ireland) Order 1980[^c13728151];
+- “**county court**” means a county court held [^c-00fe4d77f8e1db50bf2f028cb6b28854]... under the County Courts (Northern Ireland) Order 1980[^c13728151];
 - “**Criminal Appeal Act**” means the [^c13728161]Criminal Appeal (Northern Ireland) Act 1980[^c13728171];
 - “**defendant**” includes any person served with any writ of summons or process or served with notice of, or entitled to attend, any proceedings;
-- “division” [^key-356614d358500504d001e78b609a7bfe]... means division of the High Court;
+- “division” [^c-356614d358500504d001e78b609a7bfe]... means division of the High Court;
 - “**heretofore**” means immediately before the date of the commencement of the provision in which it occurs;
 - “**judgment**” includes order, decision and decree;
 - “**jurisdiction**” includes power and authority;
@@ -63,7 +63,7 @@ summary: ''
 
 [^c13728141]: Marginal citation: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-00fe4d77f8e1db50bf2f028cb6b28854]: Textual amendment: Words in s. 120(1) repealed (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 74(2)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/74/2/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-00fe4d77f8e1db50bf2f028cb6b28854]: Textual amendment: Words in s. 120(1) repealed (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 74(2)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/74/2/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c13728151]: Textual amendment: Words substituted by [S.I. 1980/397 (N.I. 3)](https://www.legislation.gov.uk/nisi/1980/397), [Sch. 1 Pt II](https://www.legislation.gov.uk/nisi/1980/397/schedule/1)
 
@@ -71,7 +71,7 @@ summary: ''
 
 [^c13728171]: Textual amendment: Words substituted by [Criminal Appeal (Northern Ireland) Act 1980 (c. 47, SIF 38)](https://www.legislation.gov.uk/ukpga/1980/47), [s. 51(1)](https://www.legislation.gov.uk/ukpga/1980/47/section/51/1), [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/1980/47/schedule/4/paragraph/18)
 
-[^key-356614d358500504d001e78b609a7bfe]: Textual amendment: Words in s. 120(1) repealed (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 74(2)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/74/2/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-356614d358500504d001e78b609a7bfe]: Textual amendment: Words in s. 120(1) repealed (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 74(2)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/74/2/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c13728181]: Textual amendment: Words substituted by [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675), [art. 170(2)](https://www.legislation.gov.uk/nisi/1981/1675/article/170/2), [Sch. 6 para. 54](https://www.legislation.gov.uk/nisi/1981/1675/schedule/6/paragraph/54)
 

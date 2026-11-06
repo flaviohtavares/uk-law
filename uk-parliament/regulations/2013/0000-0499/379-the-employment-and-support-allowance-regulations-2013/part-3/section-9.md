@@ -29,7 +29,7 @@ summary: ''
 
 (2) The conditions referred to in paragraph (1) are that the claimant—
 
-- (a) was entitled to a carer's allowance or carer support payment[^key-8df3fd142942b33d0a8ccc430c3cf5fe] in the last complete tax year immediately preceding the relevant benefit year;
+- (a) was entitled to a carer's allowance or carer support payment[^c-8df3fd142942b33d0a8ccc430c3cf5fe] in the last complete tax year immediately preceding the relevant benefit year;
 - (b) had been—
   - (i) engaged in qualifying remunerative work (which has the meaning given by Part 1 of the Tax Credits Act) for a period of more than two years immediately before the first day of the period of limited capability for work; and
   - (ii) entitled to working tax credit where the disability element or the severe disability element of working tax credit specified in regulation 20(1)(b) or (f) of the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002 [^c21661041] was included in the award;
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8df3fd142942b33d0a8ccc430c3cf5fe]: Textual amendment: Words in [reg. 9(2)(a)](https://www.legislation.gov.uk/uksi/2013/379/regulation/9/2/a) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [25(3)](https://www.legislation.gov.uk/uksi/2023/1218/article/25/3)
+[^c-8df3fd142942b33d0a8ccc430c3cf5fe]: Textual amendment: Words in [reg. 9(2)(a)](https://www.legislation.gov.uk/uksi/2013/379/regulation/9/2/a) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [25(3)](https://www.legislation.gov.uk/uksi/2023/1218/article/25/3)
 
 [^c21661041]: Marginal citation: [S.I. 2002/2005](https://www.legislation.gov.uk/uksi/2002/2005).
 

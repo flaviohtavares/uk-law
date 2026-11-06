@@ -53,12 +53,12 @@ This does not affect the generality of subsection (4).
 
 (7) An order under this section may authorise any act even though—
 
-- (a) it is prohibited by the Ecclesiastical Leases Act 1836, or *(Extent: E)* *(affected by repeal, see note)*[^key-c0886123025c02d357bd5df91a85ec58]
+- (a) it is prohibited by the Ecclesiastical Leases Act 1836, or *(Extent: E)* *(affected by repeal, see note)*[^c-c0886123025c02d357bd5df91a85ec58]
 - (b) the trusts of the charity provide for the act to be done by or under the authority of the court.
 
 (8) But an order under this section may not—
 
-- (a) authorise the doing of any act expressly prohibited by any Act other than the Ecclesiastical Leases Act 1836, *(Extent: E)* *(affected by repeal, see note)*[^key-ce31a7b1834c1a2ce02130ac4284cc57] or by the trusts of the charity, or
+- (a) authorise the doing of any act expressly prohibited by any Act other than the Ecclesiastical Leases Act 1836, *(Extent: E)* *(affected by repeal, see note)*[^c-ce31a7b1834c1a2ce02130ac4284cc57] or by the trusts of the charity, or
 - (b) extend or alter the purposes of the charity.
 
 (9) In the case of a charitable company, an order under this section may authorise an act even though it involves the breach of a duty imposed on a director of the company under Chapter 2 of Part 10 of the Companies Act 2006 (general duties of directors).
@@ -72,6 +72,6 @@ This does not affect the generality of subsection (4).
 
 ## Annotations
 
-[^key-c0886123025c02d357bd5df91a85ec58]: Textual amendment: S. 105(7)(a) repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/3); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-c0886123025c02d357bd5df91a85ec58]: Textual amendment: S. 105(7)(a) repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/3); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
-[^key-ce31a7b1834c1a2ce02130ac4284cc57]: Textual amendment: Words in s. 105(8) repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/3); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-ce31a7b1834c1a2ce02130ac4284cc57]: Textual amendment: Words in s. 105(8) repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/3); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)

@@ -35,26 +35,26 @@ amending Implementing Regulation (EU) 2016/1799 as regards the mapping tables sp
 
 (Text with EEA relevance) (revoked)
 
-[^key-a89edd0cc779571da9462fa932244650]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a89edd0cc779571da9462fa932244650]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Amendment to Implementing Regulation (EU) 2016/1799[^key-a89edd0cc779571da9462fa932244650]
+## Article 1. Amendment to Implementing Regulation (EU) 2016/1799[^c-a89edd0cc779571da9462fa932244650]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Entry into force[^key-a89edd0cc779571da9462fa932244650]
+## Article 2. Entry into force[^c-a89edd0cc779571da9462fa932244650]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a89edd0cc779571da9462fa932244650]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a89edd0cc779571da9462fa932244650]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-a89edd0cc779571da9462fa932244650]
+## ANNEX[^c-a89edd0cc779571da9462fa932244650]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a89edd0cc779571da9462fa932244650]: Textual amendment: Regulation revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/d), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/3)
+[^c-a89edd0cc779571da9462fa932244650]: Textual amendment: Regulation revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/d), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/3)

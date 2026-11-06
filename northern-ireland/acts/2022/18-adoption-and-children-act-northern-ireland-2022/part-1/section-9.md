@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. General power to regulate adoption agencies[^key-6bf2b7201a7c9df123ac6f4b651c6ab9]
+## 9. General power to regulate adoption agencies[^c-6bf2b7201a7c9df123ac6f4b651c6ab9]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6bf2b7201a7c9df123ac6f4b651c6ab9]: Commencement: S. 9 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-6bf2b7201a7c9df123ac6f4b651c6ab9]: Commencement: S. 9 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

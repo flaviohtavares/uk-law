@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Charges[^key-027aad0d050a21615d8a32227929d51f]
+## 40. Charges[^c-027aad0d050a21615d8a32227929d51f]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The undertaker may demand, take or recover or waive such charges for carrying go
 
 ## Annotations
 
-[^key-027aad0d050a21615d8a32227929d51f]: Commencement: Art. 40 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-027aad0d050a21615d8a32227929d51f]: Commencement: Art. 40 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)

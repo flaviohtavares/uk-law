@@ -30,7 +30,7 @@ summary: ''
 
 REGISTERED HOMES
 
-The Nursing Homes (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^key-884d0a44ed79880d97f56433b041c476]
+The Nursing Homes (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^c-884d0a44ed79880d97f56433b041c476]
 
 Made
 
@@ -40,28 +40,28 @@ Coming into operation
 
 1st May 1998
 
-[^key-884d0a44ed79880d97f56433b041c476]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-884d0a44ed79880d97f56433b041c476]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-884d0a44ed79880d97f56433b041c476]
+## 1. Citation, commencement and interpretation[^c-884d0a44ed79880d97f56433b041c476]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Schedule 1 to the principal regulations[^key-884d0a44ed79880d97f56433b041c476]
+## 2. Amendment of Schedule 1 to the principal regulations[^c-884d0a44ed79880d97f56433b041c476]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Schedule 3 to the principal regulations[^key-884d0a44ed79880d97f56433b041c476]
+## 3. Amendment of Schedule 3 to the principal regulations[^c-884d0a44ed79880d97f56433b041c476]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-884d0a44ed79880d97f56433b041c476]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-884d0a44ed79880d97f56433b041c476]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-884d0a44ed79880d97f56433b041c476]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-884d0a44ed79880d97f56433b041c476]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-884d0a44ed79880d97f56433b041c476]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/140) revoked (1.4.2005) by [The Nursing Homes Regulations (Northern Ireland) 2005 (S.R. 2005/160)](https://www.legislation.gov.uk/nisr/2005/160), [regs. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1), [38](https://www.legislation.gov.uk/nisr/2005/160/regulation/38)
+[^c-884d0a44ed79880d97f56433b041c476]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/140) revoked (1.4.2005) by [The Nursing Homes Regulations (Northern Ireland) 2005 (S.R. 2005/160)](https://www.legislation.gov.uk/nisr/2005/160), [regs. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1), [38](https://www.legislation.gov.uk/nisr/2005/160/regulation/38)

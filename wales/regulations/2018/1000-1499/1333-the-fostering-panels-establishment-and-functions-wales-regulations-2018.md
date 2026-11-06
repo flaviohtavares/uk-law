@@ -53,7 +53,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ## 2. Interpretation
 
-(1)[^key-da48f117ba765c3a874739ed494de550] In these Regulations—
+(1)[^c-da48f117ba765c3a874739ed494de550] In these Regulations—
 
 - “**the 2014 Act**” (“***Deddf 2014***”) means the Social Services and Well-being (Wales) Act 2014;
 - “**the 2016 Act**” (“***Deddf 2016***”) means the Regulation and Inspection of Social Care (Wales) Act 2016 [^c23504831];
@@ -76,9 +76,9 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 - “**placement**” (“***lleoliad***”) means the placement of a child with a foster parent under section 81(5), (6)(a) and (b) of the 2014 Act;
 - “**regulated fostering service**” (“***gwasanaeth maethu rheoleiddiedig***”) means any service provided in Wales by a person registered under section 7 of the 2016 Act to provide a fostering service;
 - “**regulated fostering services provider**” (“***darparwr gwasanaethau maethu rheoleiddiedig***”) means a person registered under section 7 of the 2016 Act to provide a fostering service;
-- “**social worker**” (“***gweithiwr cymdeithasol***”) means a person who is registered as a social worker in the register maintained by Social Care Wales [^c23504891] under section 80 of the 2016 Act, in the register of social workers in England maintained under section 39(1) of the Children and Social Work Act 2017[^key-92120f4f6a8184a917370d0ba24eea67] or in a corresponding register maintained under the law of Scotland or Northern Ireland.
+- “**social worker**” (“***gweithiwr cymdeithasol***”) means a person who is registered as a social worker in the register maintained by Social Care Wales [^c23504891] under section 80 of the 2016 Act, in the register of social workers in England maintained under section 39(1) of the Children and Social Work Act 2017[^c-92120f4f6a8184a917370d0ba24eea67] or in a corresponding register maintained under the law of Scotland or Northern Ireland.
 
-(2)[^key-25eb71c89567cf2bbd34b32e784e3248] In these Regulations, references to members of a person’s household include any person living in the household whether under a placement or other arrangements with the local authority.
+(2)[^c-25eb71c89567cf2bbd34b32e784e3248] In these Regulations, references to members of a person’s household include any person living in the household whether under a placement or other arrangements with the local authority.
 
 ## 3. Central list
 
@@ -178,11 +178,11 @@ where the chair is not present and the vice chair who is present is not independ
 
 (2) Subject to paragraph (3), the fostering services provider—
 
-- (a) must, as soon as reasonably practicable, obtain the information specified in Part 1 of Schedule 1 relating to the person and other members of the person's household [^key-d9020eaadac834ee74a71811be4dc525]...,
+- (a) must, as soon as reasonably practicable, obtain the information specified in Part 1 of Schedule 1 relating to the person and other members of the person's household [^c-d9020eaadac834ee74a71811be4dc525]...,
 - (b) where the person has been a foster parent within the preceding three years and was approved as such by another fostering services provider or by a fostering services provider in England, must request a written reference from that other fostering services provider,
 - (c) except in a case where sub-paragraph (b) applies and the other fostering services provider provides the reference requested, must interview at least two individuals nominated by the person to provide personal references for them, and prepare written reports of the interviews,
 - (d) except where the fostering services provider is a local authority and the person lives in the area of that authority, must consult, and take into account the views of, the local authority in whose area the person lives,
-- (e)[^key-71158a9aa73191f866db56c550027ba6] must, where the person was approved as a foster parent by another fostering services provider or by a fostering services provider in England and consents to the sharing of their information, request access to the following if prepared by that other fostering services provider—
+- (e)[^c-71158a9aa73191f866db56c550027ba6] must, where the person was approved as a foster parent by another fostering services provider or by a fostering services provider in England and consents to the sharing of their information, request access to the following if prepared by that other fostering services provider—
   - (i) the report prepared under paragraph (5)(c),
   - (ii) the report of the most recent review of approval prepared under regulation 9(4),
   - (iii) any records under regulation 20(4)(d) of the Local Authority Fostering Services (Wales) Regulations 2018,
@@ -193,7 +193,7 @@ where the chair is not present and the vice chair who is present is not independ
   - (viii) any other records that may be relevant to the person’s suitability to be a foster parent, and
 - (f) may, where the person has been approved as a prospective adopter by an adoption agency and consents, request access to the relevant records compiled by that adoption agency in relation to that person.
 
-(2A)[^key-d73a2609dad02789f4ebc32fa5a64a51] In this regulation “**the 2011 Regulations**” means the Fostering Services (England) Regulations 2011.
+(2A)[^c-d73a2609dad02789f4ebc32fa5a64a51] In this regulation “**the 2011 Regulations**” means the Fostering Services (England) Regulations 2011.
 
 (2B) Where a fostering services provider makes a request to another fostering services provider or a fostering services provider in England for a reference under paragraph (2)(b) or for records under paragraph (2)(e), the request must be made in writing.
 
@@ -212,18 +212,18 @@ the fostering services provider must notify the person in writing that they are 
 
 (5) Where the fostering services provider has obtained all the information set out in paragraph (2) and has not given the notification in paragraph (3) within 10 working days of doing so, the fostering services provider must, subject to paragraph (6)—
 
-- (a)[^key-d8a60899f8a58cea6433453450437bb0] obtain the information relating to the person and other members of the person’s household specified in—
+- (a)[^c-d8a60899f8a58cea6433453450437bb0] obtain the information relating to the person and other members of the person’s household specified in—
   - (i) Part 3 of Schedule 1 where the person is a relative, friend or other person connected with the child, or
   - (ii) Part 2 of Schedule 1 in all other cases,
-- (aa)[^key-669d0deb8d60d826910f1aa171f9ddfd] obtain any other information the fostering services provider considers to be relevant,
-- (b) consider whether the person is suitable to be a foster parent and whether the person's household is suitable [^key-ed8b2fcf95719efd182e422f21ccb396]...,
+- (aa)[^c-669d0deb8d60d826910f1aa171f9ddfd] obtain any other information the fostering services provider considers to be relevant,
+- (b) consider whether the person is suitable to be a foster parent and whether the person's household is suitable [^c-ed8b2fcf95719efd182e422f21ccb396]...,
 - (c) prepare a written report on the person which includes the following matters—
   - (i) the information required by Schedule 1 and any other information the fostering services provider considers relevant,
   - (ii) the assessment of the fostering services provider of the person's suitability to be a foster parent, and
   - (iii) the proposals of the fostering services provider about any terms of approval, and
 - (d) notify the person that the case is to be referred to the fostering panel, and give the person a copy of the report prepared under sub-paragraph (c) inviting the person to send any observations in writing to the fostering services provider within 10 working days beginning with the date on which the notification is sent.
 
-(6) Where, having regard to any information obtained under paragraph (5)(a) and (aa)[^key-b8a3fe3e8b7e2b5023d8c61f3eab0f13], the fostering services provider decides that the person is unlikely to be considered suitable to become a foster parent, it may proceed to prepare a written report under paragraph (5)(c) notwithstanding that it may not have obtained all the information about the person which is required by paragraph (5)(c).
+(6) Where, having regard to any information obtained under paragraph (5)(a) and (aa)[^c-b8a3fe3e8b7e2b5023d8c61f3eab0f13], the fostering services provider decides that the person is unlikely to be considered suitable to become a foster parent, it may proceed to prepare a written report under paragraph (5)(c) notwithstanding that it may not have obtained all the information about the person which is required by paragraph (5)(c).
 
 (7) At the end of the 10 working days referred to in paragraph (5)(d) (or when the person's observations are received, whichever is sooner), the fostering services provider must send—
 
@@ -254,12 +254,12 @@ the expression “**offence against a child**” (“***trosedd yn erbyn plentyn
 
 notwithstanding that the statutory offences in Part 2 of Schedule 2 have been repealed.
 
-(11) The fostering services provider may regard a person who falls within paragraph (8) or (10) as suitable to be a foster parent in relation to a particular child [^key-1e40fb5f7d595549f8a72e86e69e8c9a]..., if the fostering services provider is satisfied that the welfare of that child [^key-d39e2fc38e1c238690c55ec9d2fdee92]... requires it, and either—
+(11) The fostering services provider may regard a person who falls within paragraph (8) or (10) as suitable to be a foster parent in relation to a particular child [^c-1e40fb5f7d595549f8a72e86e69e8c9a]..., if the fostering services provider is satisfied that the welfare of that child [^c-d39e2fc38e1c238690c55ec9d2fdee92]... requires it, and either—
 
-- (a)[^key-68cef713c6be88abca467e9a217f13f6] the person is a relative, friend or other person connected with the child, or
+- (a)[^c-68cef713c6be88abca467e9a217f13f6] the person is a relative, friend or other person connected with the child, or
 - (b) the person is already acting as a foster parent for the child.
 
-(12)[^key-30baf49a8c450a943b4b883bd8959812] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-30baf49a8c450a943b4b883bd8959812] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 8. Approval of foster parents
 
@@ -379,7 +379,7 @@ the fostering services provider may proceed to make its decision.
 - (b) any relevant information in relation to the person which was obtained by the fostering services provider after the date on which the report was prepared or the documents referred to the fostering panel, and
 - (c) a copy of the notice and of any other documents sent in accordance with regulation 8(6)(a) or 9(7)(a).
 
-## 10A. Information Sharing[^key-5fc2d378ac38c25974b85a062dc9e1e2]
+## 10A. Information Sharing[^c-5fc2d378ac38c25974b85a062dc9e1e2]
 
 (1) This regulation applies where a fostering services provider receives a request for information made under regulation 7(2)(b) (a request for a reference) or (e) (a request for records).
 
@@ -457,9 +457,9 @@ Huw Irranca-Davies
 
 Minister for Children, Older People and Social Care under authority of the Cabinet Secretary for Health and Social Services, one of the Welsh Ministers
 
-## SCHEDULE 1 — Information as to prospective foster parents and other members of their household ...[^key-aa8b74201b184cec5f715a8d57f57454]
+## SCHEDULE 1 — Information as to prospective foster parents and other members of their household ...[^c-aa8b74201b184cec5f715a8d57f57454]
 
-Regulation 7(2) and (5)[^key-d77d0b2622663810f31fbcbcca6dbacc]
+Regulation 7(2) and (5)[^c-d77d0b2622663810f31fbcbcca6dbacc]
 
 ### PART 1
 
@@ -477,7 +477,7 @@ Regulation 7(2) and (5)[^key-d77d0b2622663810f31fbcbcca6dbacc]
 
 **7.** If the person has, in the preceding three years, been a foster parent approved by another fostering services provider or a fostering services provider in England, the name and address of that fostering services provider.
 
-**8.** Names and addresses[^key-3dd85a1b75f8303c898f8416020347e9] of two persons who will provide personal references for the person.
+**8.** Names and addresses[^c-3dd85a1b75f8303c898f8416020347e9] of two persons who will provide personal references for the person.
 
 **9.** In relation to the person and any other member of the person's household who is aged 18 or over, an enhanced criminal record certificate issued under section 113B of the Police Act 1997 [^c23504981] which includes suitability information relating to children (within the meaning of section 113BA(2) of that Act).
 
@@ -499,7 +499,7 @@ Regulation 7(2) and (5)[^key-d77d0b2622663810f31fbcbcca6dbacc]
 
 **17.** Skill, competence and potential relevant to their capacity to care effectively for a child placed with them.
 
-### PART 3[^key-c4806acbcd8a99ea15218bdb266b37b9]
+### PART 3[^c-c4806acbcd8a99ea15218bdb266b37b9]
 
 #### 18. PART 3
 
@@ -537,7 +537,7 @@ Any of the following offences against an adult—
 - (f) an offence of inducement, threat or deception to procure sexual activity with a person with a mental disorder under section 34 of that Act, if the touching involved fell within subsection (2) of that section, and
 - (g) an offence of causing a person with a mental disorder to engage in or agree to engage in sexual activity by inducement, threat or deception under section 35 of that Act, if the activity fell within subsection (2) of that section.
 
-**1A.**[^key-64034f9f2c0f54c17ed74df76124a2bd] Any of the following offences—
+**1A.**[^c-64034f9f2c0f54c17ed74df76124a2bd] Any of the following offences—
 
 - (a) an offence of virginity testing under section 136 of the Health and Care Act 2022,
 - (b) an offence of offering to carry out virginity testing under section 137 of that Act,
@@ -558,7 +558,7 @@ An offence under section 1 (rape) and 18 (rape of a young child) of the Sexual O
 
 **6.** An offence under section 3 of the Sexual Offences (Amendment) Act 2000 [^c23505041] (abuse of trust).
 
-**6A.**[^key-a63fd5df67f08c59c9e510ab755ddf09] Any of the following offences—
+**6A.**[^c-a63fd5df67f08c59c9e510ab755ddf09] Any of the following offences—
 
 - (a) an offence of virginity testing under section 140 of the Health and Care Act 2022,
 - (b) an offence of offering to carry out virginity testing under section 141 of that Act,
@@ -577,7 +577,7 @@ An offence under Article 5 (rape) and Article 12 (rape of a child under 13) of t
 
 **10.** An offence contrary to Article 15 of the Criminal Justice (Evidence, etc.) (Northern Ireland) Order 1988 [^c23505081] (possession of indecent photographs of children).
 
-**10A.**[^key-9b2c93d8acc6546904ae7057ff21bcdb] Any of the following offences—
+**10A.**[^c-9b2c93d8acc6546904ae7057ff21bcdb] Any of the following offences—
 
 - (a) an offence of virginity testing under section 144 of the Health and Care Act 2022,
 - (b) an offence of offering to carry out virginity testing under section 145 of that Act,
@@ -701,7 +701,7 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23504821]: Marginal citation: 2014 anaw 4.
 
-[^key-da48f117ba765c3a874739ed494de550]: Textual amendment: Word in reg. 2 inserted (1.4.2026) by [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/2/a)
+[^c-da48f117ba765c3a874739ed494de550]: Textual amendment: Word in reg. 2 inserted (1.4.2026) by [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/2/a)
 
 [^c23504831]: Marginal citation: [2016 anaw 2](https://www.legislation.gov.uk/anaw/2016/2).
 
@@ -717,23 +717,23 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23504891]: Marginal citation: See section 67(3) of the 2016 Act for the definition of Social Care Wales.
 
-[^key-92120f4f6a8184a917370d0ba24eea67]: Textual amendment: Words in reg. 2 substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 46(2)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/46/2); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), reg. 2(b)
+[^c-92120f4f6a8184a917370d0ba24eea67]: Textual amendment: Words in reg. 2 substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 46(2)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/46/2); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), reg. 2(b)
 
-[^key-25eb71c89567cf2bbd34b32e784e3248]: Textual amendment: Reg. 2(2) inserted (1.4.2026) by [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/2/b)
+[^c-25eb71c89567cf2bbd34b32e784e3248]: Textual amendment: Reg. 2(2) inserted (1.4.2026) by [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/2/b)
 
-[^key-d9020eaadac834ee74a71811be4dc525]: Textual amendment: Words in reg. 7(2)(a) omitted (1.4.2026) by virtue of [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/3/a)
+[^c-d9020eaadac834ee74a71811be4dc525]: Textual amendment: Words in reg. 7(2)(a) omitted (1.4.2026) by virtue of [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/3/a)
 
-[^key-71158a9aa73191f866db56c550027ba6]: Textual amendment: Reg. 7(2)(e) substituted (1.4.2026) by [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/3/b)
+[^c-71158a9aa73191f866db56c550027ba6]: Textual amendment: Reg. 7(2)(e) substituted (1.4.2026) by [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/3/b)
 
-[^key-d73a2609dad02789f4ebc32fa5a64a51]: Textual amendment: Reg. 7(2A)(2B) inserted (1.4.2026) by [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(3)(c)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/3/c)
+[^c-d73a2609dad02789f4ebc32fa5a64a51]: Textual amendment: Reg. 7(2A)(2B) inserted (1.4.2026) by [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(3)(c)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/3/c)
 
-[^key-d8a60899f8a58cea6433453450437bb0]: Textual amendment: Reg. 7(5)(a) substituted (1.4.2026) by [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(3)(d)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/3/d)
+[^c-d8a60899f8a58cea6433453450437bb0]: Textual amendment: Reg. 7(5)(a) substituted (1.4.2026) by [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(3)(d)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/3/d)
 
-[^key-669d0deb8d60d826910f1aa171f9ddfd]: Textual amendment: Reg. 7(5)(aa) inserted (1.4.2026) by [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(3)(e)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/3/e)
+[^c-669d0deb8d60d826910f1aa171f9ddfd]: Textual amendment: Reg. 7(5)(aa) inserted (1.4.2026) by [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(3)(e)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/3/e)
 
-[^key-ed8b2fcf95719efd182e422f21ccb396]: Textual amendment: Words in reg. 7(5)(b) omitted (1.4.2026) by virtue of [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(3)(f)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/3/f)
+[^c-ed8b2fcf95719efd182e422f21ccb396]: Textual amendment: Words in reg. 7(5)(b) omitted (1.4.2026) by virtue of [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(3)(f)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/3/f)
 
-[^key-b8a3fe3e8b7e2b5023d8c61f3eab0f13]: Textual amendment: Words in reg. 7(6) inserted (1.4.2026) by [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(3)(g)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/3/g)
+[^c-b8a3fe3e8b7e2b5023d8c61f3eab0f13]: Textual amendment: Words in reg. 7(6) inserted (1.4.2026) by [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(3)(g)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/3/g)
 
 [^c23504911]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
 
@@ -745,33 +745,33 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23504951]: Marginal citation: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42).
 
-[^key-1e40fb5f7d595549f8a72e86e69e8c9a]: Textual amendment: Words in reg. 7(11) omitted (1.4.2026) by virtue of [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(3)(h)(i)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/3/h/i)
+[^c-1e40fb5f7d595549f8a72e86e69e8c9a]: Textual amendment: Words in reg. 7(11) omitted (1.4.2026) by virtue of [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(3)(h)(i)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/3/h/i)
 
-[^key-d39e2fc38e1c238690c55ec9d2fdee92]: Textual amendment: Words in reg. 7(11) omitted (1.4.2026) by virtue of [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(3)(h)(ii)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/3/h/ii)
+[^c-d39e2fc38e1c238690c55ec9d2fdee92]: Textual amendment: Words in reg. 7(11) omitted (1.4.2026) by virtue of [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(3)(h)(ii)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/3/h/ii)
 
-[^key-68cef713c6be88abca467e9a217f13f6]: Textual amendment: Reg. 7(11)(a) substituted (1.4.2026) by [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(3)(h)(iii)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/3/h/iii)
+[^c-68cef713c6be88abca467e9a217f13f6]: Textual amendment: Reg. 7(11)(a) substituted (1.4.2026) by [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(3)(h)(iii)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/3/h/iii)
 
-[^key-30baf49a8c450a943b4b883bd8959812]: Textual amendment: Reg. 7(12) omitted (1.4.2026) by virtue of [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(3)(i)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/3/i)
+[^c-30baf49a8c450a943b4b883bd8959812]: Textual amendment: Reg. 7(12) omitted (1.4.2026) by virtue of [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(3)(i)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/3/i)
 
-[^key-5fc2d378ac38c25974b85a062dc9e1e2]: Textual amendment: Reg. 10A inserted (1.4.2026) by [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(4)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/4)
+[^c-5fc2d378ac38c25974b85a062dc9e1e2]: Textual amendment: Reg. 10A inserted (1.4.2026) by [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(4)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/4)
 
 [^c23504961]: Marginal citation: *See* the definition of “fostering service provider” in regulation 2(1) of the 2003 Regulations.
 
-[^key-aa8b74201b184cec5f715a8d57f57454]: Textual amendment: Words in Sch. 1 heading omitted (1.4.2026) by virtue of [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(5)(a)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/5/a)
+[^c-aa8b74201b184cec5f715a8d57f57454]: Textual amendment: Words in Sch. 1 heading omitted (1.4.2026) by virtue of [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(5)(a)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/5/a)
 
-[^key-d77d0b2622663810f31fbcbcca6dbacc]: Textual amendment: Words in Sch. 1 shoulder note substituted (1.4.2026) by [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(5)(b)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/5/b)
+[^c-d77d0b2622663810f31fbcbcca6dbacc]: Textual amendment: Words in Sch. 1 shoulder note substituted (1.4.2026) by [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(5)(b)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/5/b)
 
 [^c23504971]: Marginal citation: [2010 nawm 1](https://www.legislation.gov.uk/mwa/2010/1).
 
-[^key-3dd85a1b75f8303c898f8416020347e9]: Textual amendment: Word in Sch. 1 para. 8 substituted (1.4.2026) by [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(5)(c)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/5/c)
+[^c-3dd85a1b75f8303c898f8416020347e9]: Textual amendment: Word in Sch. 1 para. 8 substituted (1.4.2026) by [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(5)(c)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/5/c)
 
 [^c23504981]: Marginal citation: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50).
 
-[^key-c4806acbcd8a99ea15218bdb266b37b9]: Textual amendment: Sch. 1 Pt. 3 inserted (1.4.2026) by [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(5)(d)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/5/d)
+[^c-c4806acbcd8a99ea15218bdb266b37b9]: Textual amendment: Sch. 1 Pt. 3 inserted (1.4.2026) by [The Fostering Panels and Care Planning (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/16)](https://www.legislation.gov.uk/wsi/2026/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/16/regulation/1/2), [4(5)(d)](https://www.legislation.gov.uk/wsi/2026/16/regulation/4/5/d)
 
 [^c23504991]: Marginal citation: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42).
 
-[^key-64034f9f2c0f54c17ed74df76124a2bd]: Textual amendment: [Sch. 2 para. 1A](https://www.legislation.gov.uk/wsi/2018/1333/schedule/2/paragraph/1A) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [134(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/134/2/a)
+[^c-64034f9f2c0f54c17ed74df76124a2bd]: Textual amendment: [Sch. 2 para. 1A](https://www.legislation.gov.uk/wsi/2018/1333/schedule/2/paragraph/1A) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [134(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/134/2/a)
 
 [^c23505001]: Marginal citation: [2009 asp 9](https://www.legislation.gov.uk/asp/2009/9).
 
@@ -781,7 +781,7 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23505041]: Marginal citation: [2000 c. 44](https://www.legislation.gov.uk/ukpga/2000/44). Section 3 was amended by paragraph 62 of Schedule 28 to the [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33) and repealed by Schedule 6 of the Sexual Offences (Scotland) Act 2009 (not yet in force).
 
-[^key-a63fd5df67f08c59c9e510ab755ddf09]: Textual amendment: [Sch. 2 para. 6A](https://www.legislation.gov.uk/wsi/2018/1333/schedule/2/paragraph/6A) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [134(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/134/2/b)
+[^c-a63fd5df67f08c59c9e510ab755ddf09]: Textual amendment: [Sch. 2 para. 6A](https://www.legislation.gov.uk/wsi/2018/1333/schedule/2/paragraph/6A) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [134(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/134/2/b)
 
 [^c23505051]: Marginal citation: [S.I. 2008/1769 (N.I. 2)](https://www.legislation.gov.uk/nisi/2008/1769) (“**the 2008 Order**”).
 
@@ -791,7 +791,7 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23505081]: Marginal citation: [S.I. 1988/1847 (N.I. 17)](https://www.legislation.gov.uk/nisi/1988/1847). Article 15 was amended by section 41(4) of the [Criminal Justice and Courts Services Act 2000 (c. 43)](https://www.legislation.gov.uk/ukpga/2000/43), [section 84(11)](https://www.legislation.gov.uk/ukpga/2000/43/section/84/11) of the 1994 Act, paragraph 25 of Schedule 26 to the Criminal Justice and Immigration Act 2008 and Article 42(7) of the 2008 Order.
 
-[^key-9b2c93d8acc6546904ae7057ff21bcdb]: Textual amendment: [Sch. 2 para. 10A](https://www.legislation.gov.uk/wsi/2018/1333/schedule/2/paragraph/10A) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [134(2)(c)](https://www.legislation.gov.uk/uksi/2022/634/regulation/134/2/c)
+[^c-9b2c93d8acc6546904ae7057ff21bcdb]: Textual amendment: [Sch. 2 para. 10A](https://www.legislation.gov.uk/wsi/2018/1333/schedule/2/paragraph/10A) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [134(2)(c)](https://www.legislation.gov.uk/uksi/2022/634/regulation/134/2/c)
 
 [^c23505091]: Marginal citation: [1956 c. 69](https://www.legislation.gov.uk/ukpga/1956/69).
 

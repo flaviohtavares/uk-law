@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Partnerships[^key-8f18134838f6c8667f931d5cd27c7226]
+## 41. Partnerships[^c-8f18134838f6c8667f931d5cd27c7226]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f18134838f6c8667f931d5cd27c7226]: Commencement: [S. 41](https://www.legislation.gov.uk/anaw/2017/1/section/41) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-8f18134838f6c8667f931d5cd27c7226]: Commencement: [S. 41](https://www.legislation.gov.uk/anaw/2017/1/section/41) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

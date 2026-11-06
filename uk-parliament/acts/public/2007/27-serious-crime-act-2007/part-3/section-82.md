@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Powers of management receivers and enforcement receivers[^key-9b2c2163884db4e1b0bebacf2b787728]
+## 82. Powers of management receivers and enforcement receivers[^c-9b2c2163884db4e1b0bebacf2b787728]
 
 *Extent: E+W+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b2c2163884db4e1b0bebacf2b787728]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2007/27/section/82) in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(h)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/h) (with [art. 17(3)](https://www.legislation.gov.uk/uksi/2008/755/article/17/3))
+[^c-9b2c2163884db4e1b0bebacf2b787728]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2007/27/section/82) in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(h)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/h) (with [art. 17(3)](https://www.legislation.gov.uk/uksi/2008/755/article/17/3))

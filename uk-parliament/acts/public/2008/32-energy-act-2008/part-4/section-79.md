@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Modification of pipelines[^key-6742de74651bbc0193c7b2ed37b4c5c7]
+## 79. Modification of pipelines[^c-6742de74651bbc0193c7b2ed37b4c5c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -86,4 +86,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6742de74651bbc0193c7b2ed37b4c5c7]: Commencement: S. 79 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(c)](https://www.legislation.gov.uk/uksi/2009/45/article/4/c)
+[^c-6742de74651bbc0193c7b2ed37b4c5c7]: Commencement: S. 79 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(c)](https://www.legislation.gov.uk/uksi/2009/45/article/4/c)

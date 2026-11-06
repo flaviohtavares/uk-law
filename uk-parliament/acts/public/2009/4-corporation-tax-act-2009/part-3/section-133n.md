@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133N. Powers to amend[^key-c98210a82b63e9fb0bbc42a0013b43b0]
+## 133N. Powers to amend[^c-c98210a82b63e9fb0bbc42a0013b43b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 (3) Regulations under this section may include transitional provision.
 
-(3A)[^key-dd6e0ba53b57a3623262b4fe1ff67079] Regulations under this section made on or before 30 June 2022 may have retrospective effect in relation to any time on or after 1 January 2022.
+(3A)[^c-dd6e0ba53b57a3623262b4fe1ff67079] Regulations under this section made on or before 30 June 2022 may have retrospective effect in relation to any time on or after 1 January 2022.
 
 (4) A statutory instrument containing only regulations under subsection (1) or (2)(b) is subject to annulment in pursuance of a resolution of the House of Commons.
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c98210a82b63e9fb0bbc42a0013b43b0]: Textual amendment: Ss. 133A-133N and cross-heading inserted (with effect in accordance with s. 18(2) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/18/1)
+[^c-c98210a82b63e9fb0bbc42a0013b43b0]: Textual amendment: Ss. 133A-133N and cross-heading inserted (with effect in accordance with s. 18(2) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/18/1)
 
-[^key-dd6e0ba53b57a3623262b4fe1ff67079]: Textual amendment: [S. 133N(3A)](https://www.legislation.gov.uk/ukpga/2009/4/section/133N/3A) inserted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 134(1)](https://www.legislation.gov.uk/ukpga/2021/26/section/134/1)
+[^c-dd6e0ba53b57a3623262b4fe1ff67079]: Textual amendment: [S. 133N(3A)](https://www.legislation.gov.uk/ukpga/2009/4/section/133N/3A) inserted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 134(1)](https://www.legislation.gov.uk/ukpga/2021/26/section/134/1)

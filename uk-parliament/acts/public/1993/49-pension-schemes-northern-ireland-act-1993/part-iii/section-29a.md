@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29A. Appropriate schemes: “Blowing the whistle”.[^key-1d0b4c8c63207230ef00d3601a05b65e]
+## 29A. Appropriate schemes: “Blowing the whistle”.[^c-1d0b4c8c63207230ef00d3601a05b65e]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d0b4c8c63207230ef00d3601a05b65e]: Textual amendment: S. 29A repealed (6.4.2012) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 85(3)(f)](https://www.legislation.gov.uk/nia/2008/13/section/85/3/f), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/nia/2008/13/schedule/10/part/3) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2012/119](https://www.legislation.gov.uk/nisr/2012/119), [art. 2(a)(c)](https://www.legislation.gov.uk/nisr/2012/119/article/2/a/c)
+[^c-1d0b4c8c63207230ef00d3601a05b65e]: Textual amendment: S. 29A repealed (6.4.2012) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 85(3)(f)](https://www.legislation.gov.uk/nia/2008/13/section/85/3/f), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/nia/2008/13/schedule/10/part/3) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2012/119](https://www.legislation.gov.uk/nisr/2012/119), [art. 2(a)(c)](https://www.legislation.gov.uk/nisr/2012/119/article/2/a/c)

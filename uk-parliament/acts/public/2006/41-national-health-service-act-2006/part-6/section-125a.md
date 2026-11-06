@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125A. Exercise of functions[^key-027312edf16b66b0cec6949238de7729][^key-677d6271d7a4cd330ed7341e8cebe301]
+## 125A. Exercise of functions[^c-027312edf16b66b0cec6949238de7729][^c-677d6271d7a4cd330ed7341e8cebe301]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-027312edf16b66b0cec6949238de7729]: Modification: [S. 125A](https://www.legislation.gov.uk/ukpga/2006/41/section/125A) modified (temp.) (1.7.2022) by [The Health and Care Act 2022 (Commencement No. 2 and Transitional and Saving Provision) Regulations 2022 (S.I. 2022/734)](https://www.legislation.gov.uk/uksi/2022/734), [reg. 22(2)](https://www.legislation.gov.uk/uksi/2022/734/regulation/22/2)[(4)](https://www.legislation.gov.uk/uksi/2022/734/regulation/22/4) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-027312edf16b66b0cec6949238de7729]: Modification: [S. 125A](https://www.legislation.gov.uk/ukpga/2006/41/section/125A) modified (temp.) (1.7.2022) by [The Health and Care Act 2022 (Commencement No. 2 and Transitional and Saving Provision) Regulations 2022 (S.I. 2022/734)](https://www.legislation.gov.uk/uksi/2022/734), [reg. 22(2)](https://www.legislation.gov.uk/uksi/2022/734/regulation/22/2)[(4)](https://www.legislation.gov.uk/uksi/2022/734/regulation/22/4) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-677d6271d7a4cd330ed7341e8cebe301]: Textual amendment: S. 125A and cross-heading inserted (27.3.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 49(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/49/3), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-677d6271d7a4cd330ed7341e8cebe301]: Textual amendment: S. 125A and cross-heading inserted (27.3.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 49(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/49/3), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

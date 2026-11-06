@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32B. Disease control (slaughter) protocol[^key-cefc97d367c61776b4e328a4888ac69d][^c10345811]
+## 32B. Disease control (slaughter) protocol[^c-cefc97d367c61776b4e328a4888ac69d][^c10345811]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cefc97d367c61776b4e328a4888ac69d]: Modification: S. 32B applied (28.8.2003) by [Avian Influenza and Nescastle Disease (Biosecurity Guidance and Disease Control Slaughter Protocol) (England and Wales) Order 2003 (S.I. 2003/2035)](https://www.legislation.gov.uk/uksi/2003/2035), [arts. 1](https://www.legislation.gov.uk/uksi/2003/2035/article/1), [3](https://www.legislation.gov.uk/uksi/2003/2035/article/3)
+[^c-cefc97d367c61776b4e328a4888ac69d]: Modification: S. 32B applied (28.8.2003) by [Avian Influenza and Nescastle Disease (Biosecurity Guidance and Disease Control Slaughter Protocol) (England and Wales) Order 2003 (S.I. 2003/2035)](https://www.legislation.gov.uk/uksi/2003/2035), [arts. 1](https://www.legislation.gov.uk/uksi/2003/2035/article/1), [3](https://www.legislation.gov.uk/uksi/2003/2035/article/3)
 
 [^c10345811]: Textual amendment: Ss. 32B, 32C inserted (E.W.) (14.1.2003) by [2002 c. 42](https://www.legislation.gov.uk/ukpga/2002/42), [s. 3](https://www.legislation.gov.uk/ukpga/2002/42/section/3); [S.I. 2002/3044](https://www.legislation.gov.uk/uksi/2002/3044), [art. 2](https://www.legislation.gov.uk/uksi/2002/3044/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Co-operation with Commissioner[^key-db63bcb088fc8eec68220489767f0e40]
+## 23. Co-operation with Commissioner[^c-db63bcb088fc8eec68220489767f0e40]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db63bcb088fc8eec68220489767f0e40]: Commencement: S. 23 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-db63bcb088fc8eec68220489767f0e40]: Commencement: S. 23 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

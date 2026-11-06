@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Amount of penalties etc[^key-85734b0c222134adaad0a2192f9caeb2][^key-addf0e4bb7ba88d07d9714e17c436e08]
+## 143. Amount of penalties etc[^c-85734b0c222134adaad0a2192f9caeb2][^c-addf0e4bb7ba88d07d9714e17c436e08]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 13 contains provision about the amount of penalties that OFCOM may impo
 
 ## Annotations
 
-[^key-85734b0c222134adaad0a2192f9caeb2]: Commencement: S. 143 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-85734b0c222134adaad0a2192f9caeb2]: Commencement: S. 143 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-addf0e4bb7ba88d07d9714e17c436e08]: Commencement: [S. 143](https://www.legislation.gov.uk/ukpga/2023/50/section/143) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)
+[^c-addf0e4bb7ba88d07d9714e17c436e08]: Commencement: [S. 143](https://www.legislation.gov.uk/ukpga/2023/50/section/143) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)

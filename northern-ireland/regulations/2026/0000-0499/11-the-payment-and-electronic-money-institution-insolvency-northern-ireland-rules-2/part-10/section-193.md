@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 193. Filing and service of affidavits[^key-5f953d2ba2bec3ee9b5d66beaad504ce]
+## 193. Filing and service of affidavits[^c-5f953d2ba2bec3ee9b5d66beaad504ce]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ Unless the provision of the Regulations or Rules under which the application is 
 
 ## Annotations
 
-[^key-5f953d2ba2bec3ee9b5d66beaad504ce]: Commencement: [Rule 193](https://www.legislation.gov.uk/nisr/2026/11/rule/193) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-5f953d2ba2bec3ee9b5d66beaad504ce]: Commencement: [Rule 193](https://www.legislation.gov.uk/nisr/2026/11/rule/193) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

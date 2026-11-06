@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Extension of scheme to Scotland and Northern Ireland[^key-d990ce27e801b209f2f9c1cf3c4672cb][^key-3d90c98ec9ad0fcf8c9b02108c40d2b6]
+## 53. Extension of scheme to Scotland and Northern Ireland[^c-d990ce27e801b209f2f9c1cf3c4672cb][^c-3d90c98ec9ad0fcf8c9b02108c40d2b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d990ce27e801b209f2f9c1cf3c4672cb]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2014/22/section/53) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/f)
+[^c-d990ce27e801b209f2f9c1cf3c4672cb]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2014/22/section/53) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/f)
 
-[^key-3d90c98ec9ad0fcf8c9b02108c40d2b6]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2014/22/section/53) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/g)
+[^c-3d90c98ec9ad0fcf8c9b02108c40d2b6]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2014/22/section/53) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/g)

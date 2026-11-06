@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Appeals against improvement notices[^key-d3d5ad7bd66a65072814fb77d347110a]
+## 38. Appeals against improvement notices[^c-d3d5ad7bd66a65072814fb77d347110a]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d3d5ad7bd66a65072814fb77d347110a]: Commencement: Reg. 38 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-d3d5ad7bd66a65072814fb77d347110a]: Commencement: Reg. 38 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
 [^f00008]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); sections 51 and 52 have been substituted by the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), section 47.

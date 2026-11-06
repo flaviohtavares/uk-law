@@ -52,22 +52,22 @@ In accordance with section 459(7B)[^f00002] of the Act, a draft of this order wa
 
 Accordingly, the Department of Justice, in exercise of the powers conferred by section 459(2) of the Act, makes the following Order.
 
-## 1. Citation and commencement[^key-4da75ef3514c532a9b171ba0c3d1f102]
+## 1. Citation and commencement[^c-4da75ef3514c532a9b171ba0c3d1f102]
 
 This Order may be cited as the Proceeds of Crime Act 2002 (Search, Recovery of Cryptoassets and Investigations: Codes of Practice) Order (Northern Ireland) 2024 and it comes into operation on 17th July 2024.
 
-## 2. Revised codes of practice[^key-a2291730e9f3822eae4dc5f52a0aabf7]
+## 2. Revised codes of practice[^c-a2291730e9f3822eae4dc5f52a0aabf7]
 
 The revised codes of practice with the following titles, each laid in draft before the Assembly on 17th May 2024, come into operation on 17th July 2024—
 
 - (a) “Code of Practice issued under section 195T of the Proceeds of Crime Act 2002: Search, Seizure and Detention of Property (Northern Ireland)”; and
 - (b) “Code of Practice issued under section 377ZA of the Proceeds of Crime Act 2002: Investigations (Northern Ireland)”.
 
-## 3. New code of practice[^key-261ed2ebed3fdafd41dd34f92f6439aa]
+## 3. New code of practice[^c-261ed2ebed3fdafd41dd34f92f6439aa]
 
 The new code of practice entitled “Code of Practice issued under section 303Z25 of the Proceeds of Crime Act 2002: Recovery of Cryptoassets and Related Items — Search Powers (Northern Ireland)”, and laid in draft before the Assembly on 17th May 2024, comes into operation on 17th July 2024.
 
-## 4. Revocations[^key-32ea3cbe7bba1962efdcd73529a7c568]
+## 4. Revocations[^c-32ea3cbe7bba1962efdcd73529a7c568]
 
 The following Orders are revoked—
 
@@ -104,13 +104,13 @@ A full impact assessment has not been produced for this order as there is no or 
 
 [^f00002]: Footnote: Section 459(7B) was inserted by paragraph 74(1) and (4) of Schedule 14 to the Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 ([S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976)).
 
-[^key-4da75ef3514c532a9b171ba0c3d1f102]: Commencement: Art. 1 in operation at 17.7.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/139/article/1)
+[^c-4da75ef3514c532a9b171ba0c3d1f102]: Commencement: Art. 1 in operation at 17.7.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/139/article/1)
 
-[^key-a2291730e9f3822eae4dc5f52a0aabf7]: Commencement: Art. 2 in operation at 17.7.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/139/article/1)
+[^c-a2291730e9f3822eae4dc5f52a0aabf7]: Commencement: Art. 2 in operation at 17.7.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/139/article/1)
 
-[^key-261ed2ebed3fdafd41dd34f92f6439aa]: Commencement: Art. 3 in operation at 17.7.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/139/article/1)
+[^c-261ed2ebed3fdafd41dd34f92f6439aa]: Commencement: Art. 3 in operation at 17.7.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/139/article/1)
 
-[^key-32ea3cbe7bba1962efdcd73529a7c568]: Commencement: Art. 4 in operation at 17.7.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/139/article/1)
+[^c-32ea3cbe7bba1962efdcd73529a7c568]: Commencement: Art. 4 in operation at 17.7.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/139/article/1)
 
 [^f00003]: Footnote: [S.R. 2021/168](https://www.legislation.gov.uk/nisr/2021/168).
 

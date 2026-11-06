@@ -45,25 +45,25 @@ summary: ''
   Subtract the result of Step 6 from 15%. If the result is nil or less, the top-up amount is nil. Otherwise, proceed to Step 8.
 - *Step 8*
 
-  Multiply the result of Step 7 by the result of Step 5. This is the top-up amount for the entity , unless the entity has a positive undistributed income amount (see sections 214 and 215) for the period (in which case proceed to Step 9)[^key-89d482e67ce116b62f1d5bf6164ff8eb].
+  Multiply the result of Step 7 by the result of Step 5. This is the top-up amount for the entity , unless the entity has a positive undistributed income amount (see sections 214 and 215) for the period (in which case proceed to Step 9)[^c-89d482e67ce116b62f1d5bf6164ff8eb].
 
-- *Step 9[^key-7b0e535b4ef7df064b24ca2863d62ac6]*
+- *Step 9[^c-7b0e535b4ef7df064b24ca2863d62ac6]*
 
   Where this Step applies, the top-up amount for the entity is the sum of—
 
   - (a) the result of Step 8, and
   - (b) the positive undistributed income amount for the entity for the period multiplied by 15%.
 
-(2)[^key-19ae8d198ce7ac5ce114e4d968534d58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-19ae8d198ce7ac5ce114e4d968534d58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) For the purposes of applying Chapter 4 in relation to an investment entity, the references in that Chapter[^key-c29bd5919c495b3822a29a96e02e68f2] to “standard members” of a multinational group are instead to members of the multinational group that are investment entities.
+(3) For the purposes of applying Chapter 4 in relation to an investment entity, the references in that Chapter[^c-c29bd5919c495b3822a29a96e02e68f2] to “standard members” of a multinational group are instead to members of the multinational group that are investment entities.
 
 ## Annotations
 
-[^key-89d482e67ce116b62f1d5bf6164ff8eb]: Textual amendment: Words in s. 220(1) inserted (in relation to accounting periods commencing on or after 31.12.2023) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 66(a)(i)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/66/a/i), [72(1)(f)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/1/f)
+[^c-89d482e67ce116b62f1d5bf6164ff8eb]: Textual amendment: Words in s. 220(1) inserted (in relation to accounting periods commencing on or after 31.12.2023) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 66(a)(i)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/66/a/i), [72(1)(f)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/1/f)
 
-[^key-7b0e535b4ef7df064b24ca2863d62ac6]: Textual amendment: S. 220(1) Step 9 inserted (in relation to accounting periods commencing on or after 31.12.2023) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 66(a)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/66/a/ii), [72(1)(f)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/1/f)
+[^c-7b0e535b4ef7df064b24ca2863d62ac6]: Textual amendment: S. 220(1) Step 9 inserted (in relation to accounting periods commencing on or after 31.12.2023) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 66(a)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/66/a/ii), [72(1)(f)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/1/f)
 
-[^key-19ae8d198ce7ac5ce114e4d968534d58]: Textual amendment: S. 220(2) omitted (in relation to accounting periods commencing on or after 31.12.2023) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 66(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/66/b), [72(1)(f)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/1/f)
+[^c-19ae8d198ce7ac5ce114e4d968534d58]: Textual amendment: S. 220(2) omitted (in relation to accounting periods commencing on or after 31.12.2023) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 66(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/66/b), [72(1)(f)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/1/f)
 
-[^key-c29bd5919c495b3822a29a96e02e68f2]: Textual amendment: Words in s. 220(3) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 55(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/55/1)
+[^c-c29bd5919c495b3822a29a96e02e68f2]: Textual amendment: Words in s. 220(3) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 55(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/55/1)

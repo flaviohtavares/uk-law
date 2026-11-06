@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The Commission may delegate to one or more of its members or one or more assistant commissioners[^key-f5ef6f403539dabcd73fa19180ef072c] such of its functions under —[^key-407233761d21e63e8de40a8f12a98280]
+(1) The Commission may delegate to one or more of its members or one or more assistant commissioners[^c-f5ef6f403539dabcd73fa19180ef072c] such of its functions under —[^c-407233761d21e63e8de40a8f12a98280]
 
 - (a) Chapters 2 to 4, 6 or 7 of Part 3 (functions relating to the conduct of reviews of local government or local inquiries);
 - (b) Part 3A (functions relating to Senedd constituency boundary reviews);
@@ -35,6 +35,6 @@ as it may determine to the extent so delegated.
 
 ## Annotations
 
-[^key-f5ef6f403539dabcd73fa19180ef072c]: Textual amendment: Words in s. 13(1) substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 16(2)](https://www.legislation.gov.uk/asc/2024/4/section/16/2), [25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a)
+[^c-f5ef6f403539dabcd73fa19180ef072c]: Textual amendment: Words in s. 13(1) substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 16(2)](https://www.legislation.gov.uk/asc/2024/4/section/16/2), [25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a)
 
-[^key-407233761d21e63e8de40a8f12a98280]: Textual amendment: Words in s. 13(1) substituted (24.8.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(2)(c)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/c), [Sch. 3 para. 2(3)](https://www.legislation.gov.uk/asc/2024/4/schedule/3/paragraph/2/3)
+[^c-407233761d21e63e8de40a8f12a98280]: Textual amendment: Words in s. 13(1) substituted (24.8.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(2)(c)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/c), [Sch. 3 para. 2(3)](https://www.legislation.gov.uk/asc/2024/4/schedule/3/paragraph/2/3)

@@ -30,7 +30,7 @@ summary: ''
 
 AGRICULTURE
 
-Feeding Stuffs (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^key-f728bad2893a10b5bcb0786d23c4fabb]
+Feeding Stuffs (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^c-f728bad2893a10b5bcb0786d23c4fabb]
 
 Made
 
@@ -40,60 +40,60 @@ Coming into operation
 
 4th May 1998
 
-[^key-f728bad2893a10b5bcb0786d23c4fabb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f728bad2893a10b5bcb0786d23c4fabb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-f728bad2893a10b5bcb0786d23c4fabb]
+## 1. Citation, commencement and interpretation[^c-f728bad2893a10b5bcb0786d23c4fabb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Feeding Stuffs Regulations (Northern Ireland) 1995[^key-f728bad2893a10b5bcb0786d23c4fabb]
+## 2. Amendment of the Feeding Stuffs Regulations (Northern Ireland) 1995[^c-f728bad2893a10b5bcb0786d23c4fabb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f728bad2893a10b5bcb0786d23c4fabb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f728bad2893a10b5bcb0786d23c4fabb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f728bad2893a10b5bcb0786d23c4fabb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f728bad2893a10b5bcb0786d23c4fabb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-f728bad2893a10b5bcb0786d23c4fabb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f728bad2893a10b5bcb0786d23c4fabb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-f728bad2893a10b5bcb0786d23c4fabb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f728bad2893a10b5bcb0786d23c4fabb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-f728bad2893a10b5bcb0786d23c4fabb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-f728bad2893a10b5bcb0786d23c4fabb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-f728bad2893a10b5bcb0786d23c4fabb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-f728bad2893a10b5bcb0786d23c4fabb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f728bad2893a10b5bcb0786d23c4fabb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f728bad2893a10b5bcb0786d23c4fabb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Provisions to be inserted into the table to Schedule 4 to the Feeding Stuffs Regulations (Northern Ireland) 1995[^key-f728bad2893a10b5bcb0786d23c4fabb]
+## SCHEDULE 1 — Provisions to be inserted into the table to Schedule 4 to the Feeding Stuffs Regulations (Northern Ireland) 1995[^c-f728bad2893a10b5bcb0786d23c4fabb]
 
 Regulation 7
 
-> **Part XI — Permitted enzymes (other than any enzyme referred to in Part X of this Schedule) and Permitted Micro-Organisms[^key-f728bad2893a10b5bcb0786d23c4fabb]**
+> **Part XI — Permitted enzymes (other than any enzyme referred to in Part X of this Schedule) and Permitted Micro-Organisms[^c-f728bad2893a10b5bcb0786d23c4fabb]**
 >
-> **Section A. — Enzymes[^key-f728bad2893a10b5bcb0786d23c4fabb]**
+> **Section A. — Enzymes[^c-f728bad2893a10b5bcb0786d23c4fabb]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Section B. — Micro-Organisms[^key-f728bad2893a10b5bcb0786d23c4fabb]**
+> **Section B. — Micro-Organisms[^c-f728bad2893a10b5bcb0786d23c4fabb]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Provisions to be substituted for Part II of Schedule 6 to the Feeding Stuffs Regulations (Northern Ireland) 1995[^key-f728bad2893a10b5bcb0786d23c4fabb]
+## SCHEDULE 2 — Provisions to be substituted for Part II of Schedule 6 to the Feeding Stuffs Regulations (Northern Ireland) 1995[^c-f728bad2893a10b5bcb0786d23c4fabb]
 
 Regulation 8
 
-> **Part II — Categories of ingredients for use in relation to compound feeding stuffs for animals other than pets[^key-f728bad2893a10b5bcb0786d23c4fabb]**
+> **Part II — Categories of ingredients for use in relation to compound feeding stuffs for animals other than pets[^c-f728bad2893a10b5bcb0786d23c4fabb]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f728bad2893a10b5bcb0786d23c4fabb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f728bad2893a10b5bcb0786d23c4fabb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f728bad2893a10b5bcb0786d23c4fabb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/124) revoked (2.4.2001) by [Feeding Stuffs Regulations (Northern Ireland) 2001 (S.R. 2001/47)](https://www.legislation.gov.uk/nisr/2001/47), [regs. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1), [24](https://www.legislation.gov.uk/nisr/2001/47/regulation/24)
+[^c-f728bad2893a10b5bcb0786d23c4fabb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/124) revoked (2.4.2001) by [Feeding Stuffs Regulations (Northern Ireland) 2001 (S.R. 2001/47)](https://www.legislation.gov.uk/nisr/2001/47), [regs. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1), [24](https://www.legislation.gov.uk/nisr/2001/47/regulation/24)

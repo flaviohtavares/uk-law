@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Closure of active member’s account[^key-da6793cc17de0d684c7187d4e214f700]
+## 45. Closure of active member’s account[^c-da6793cc17de0d684c7187d4e214f700]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da6793cc17de0d684c7187d4e214f700]: Commencement: [Reg. 45](https://www.legislation.gov.uk/nisr/2014/290/regulation/45) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-da6793cc17de0d684c7187d4e214f700]: Commencement: [Reg. 45](https://www.legislation.gov.uk/nisr/2014/290/regulation/45) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

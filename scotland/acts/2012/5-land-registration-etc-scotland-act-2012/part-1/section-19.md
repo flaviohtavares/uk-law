@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Conversion of shared plot title sheet to ordinary title sheet[^key-001a6417342990e1c641a1c34bb29058]
+## 19. Conversion of shared plot title sheet to ordinary title sheet[^c-001a6417342990e1c641a1c34bb29058]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-001a6417342990e1c641a1c34bb29058]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2012/5/section/19) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-001a6417342990e1c641a1c34bb29058]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2012/5/section/19) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

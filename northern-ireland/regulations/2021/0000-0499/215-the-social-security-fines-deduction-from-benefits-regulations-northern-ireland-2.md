@@ -42,11 +42,11 @@ Coming into operation
 
 The Department for Communities makes the following regulations in exercise of the powers conferred by sections 5(1)(m) and (q), 165(1) and (4) to (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and now vested in it[^f00002] and sections 15(1) and 60(2), (4) and (7) of the Justice Act (Northern Ireland) 2016[^f00003].
 
-## 1. Citation and commencement[^key-16d5faaaea1cacae5185dd7feb19b984]
+## 1. Citation and commencement[^c-16d5faaaea1cacae5185dd7feb19b984]
 
 (1) These Regulations may be cited as the Social Security (Fines) (Deduction from Benefits) Regulations (Northern Ireland) 2021 and shall come into operation on 11th August 2021.
 
-## 2. Interpretation[^key-26c4552529756630cd0d9e10436abb78]
+## 2. Interpretation[^c-26c4552529756630cd0d9e10436abb78]
 
 (1) In these Regulations—
 
@@ -65,7 +65,7 @@ The Department for Communities makes the following regulations in exercise of th
 
 (3) For the purposes of these Regulations and notwithstanding section 39(2) of the Interpretation Act (Northern Ireland) 1954, where a period of time is expressed to begin on, or to be reckoned from, a particular day, that day shall be included in the period.
 
-## 3. Deduction from debtor’s universal credit[^key-f0e5a267f95279ff28df6d745199062d]
+## 3. Deduction from debtor’s universal credit[^c-f0e5a267f95279ff28df6d745199062d]
 
 (1) Subject to regulation 4, where—
 
@@ -77,7 +77,7 @@ the Department may deduct a sum from that benefit which is equal to 5 per cent. 
 
 (2) The Department shall notify the debtor and the court in writing of a decision to make a deduction under this regulation so far as is practicable within 14 days from the date on which it made the decision and at the same time shall notify the debtor of a right to appeal.
 
-## 4. Circumstances, time of making and termination of deductions[^key-a2c708dadaa878616a5d51d8395115a4]
+## 4. Circumstances, time of making and termination of deductions[^c-a2c708dadaa878616a5d51d8395115a4]
 
 (1) The Department may make deductions from universal credit under regulation 3(1) only if—
 
@@ -100,7 +100,7 @@ the Department may deduct a sum from that benefit which is equal to 5 per cent. 
 - (a) on receipt of a written request for such information from the debtor; or
 - (b) on the termination of deductions made under any such application.
 
-## 5. Amendment to the Claims and Payments Regulations[^key-7cd97863b307d5d8a389835639e814bb]
+## 5. Amendment to the Claims and Payments Regulations[^c-7cd97863b307d5d8a389835639e814bb]
 
 Schedule 5 of the Universal Credit, Personal Independence Payment, Jobseekers Allowance and Employment and Support Allowance (Claims and Payments) Regulations (Northern Ireland) 2016 is amended as follows—
 
@@ -114,7 +114,7 @@ Schedule 5 of the Universal Credit, Personal Independence Payment, Jobseekers Al
   > - (h) regulation 3 (deductions from debtor’s universal credit) of the Fines Regulations
 
   ;
-- (c)[^key-6c08ccedf5eec101a1633a24f29e3382] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-6c08ccedf5eec101a1633a24f29e3382] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Sealed with the Official Seal of the Department for Communities on 20th July 2021
 
@@ -146,9 +146,9 @@ Provisions for appeal can be found in section 14(6) of the Justice Act (Northern
 
 [^f00003]: Footnote: [2016 c. 21 (N.I.)](https://www.legislation.gov.uk/nia/2016/21) as amended by Article 2 of The Justice Act (Northern Ireland) 2016 (Relevant Benefits) Order (Northern Ireland) 2021 [S.R. 2021 No.203](https://www.legislation.gov.uk/nisr/2021/203)
 
-[^key-16d5faaaea1cacae5185dd7feb19b984]: Commencement: Reg. 1 in operation at 11.8.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/215/regulation/1/1)
+[^c-16d5faaaea1cacae5185dd7feb19b984]: Commencement: Reg. 1 in operation at 11.8.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/215/regulation/1/1)
 
-[^key-26c4552529756630cd0d9e10436abb78]: Commencement: Reg. 2 in operation at 11.8.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/215/regulation/1/1)
+[^c-26c4552529756630cd0d9e10436abb78]: Commencement: Reg. 2 in operation at 11.8.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/215/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006)
 
@@ -158,10 +158,10 @@ Provisions for appeal can be found in section 14(6) of the Justice Act (Northern
 
 [^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-f0e5a267f95279ff28df6d745199062d]: Commencement: Reg. 3 in operation at 11.8.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/215/regulation/1/1)
+[^c-f0e5a267f95279ff28df6d745199062d]: Commencement: Reg. 3 in operation at 11.8.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/215/regulation/1/1)
 
-[^key-a2c708dadaa878616a5d51d8395115a4]: Commencement: Reg. 4 in operation at 11.8.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/215/regulation/1/1)
+[^c-a2c708dadaa878616a5d51d8395115a4]: Commencement: Reg. 4 in operation at 11.8.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/215/regulation/1/1)
 
-[^key-7cd97863b307d5d8a389835639e814bb]: Commencement: Reg. 5 in operation at 11.8.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/215/regulation/1/1)
+[^c-7cd97863b307d5d8a389835639e814bb]: Commencement: Reg. 5 in operation at 11.8.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/215/regulation/1/1)
 
-[^key-6c08ccedf5eec101a1633a24f29e3382]: Textual amendment: [Reg. 5(c)](https://www.legislation.gov.uk/nisr/2021/215/regulation/5/c) revoked (30.4.2025) by [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment and Modification) Regulations (Northern Ireland) 2025 (S.R. 2025/73)](https://www.legislation.gov.uk/nisr/2025/73), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/73/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2025/73/regulation/4)
+[^c-6c08ccedf5eec101a1633a24f29e3382]: Textual amendment: [Reg. 5(c)](https://www.legislation.gov.uk/nisr/2021/215/regulation/5/c) revoked (30.4.2025) by [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment and Modification) Regulations (Northern Ireland) 2025 (S.R. 2025/73)](https://www.legislation.gov.uk/nisr/2025/73), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/73/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2025/73/regulation/4)

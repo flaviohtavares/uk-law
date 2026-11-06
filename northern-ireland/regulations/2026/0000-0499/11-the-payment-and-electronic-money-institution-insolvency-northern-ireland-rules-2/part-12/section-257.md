@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 257. Use of websites by administrator[^key-9b2da73f1c731fe63bb2556a9d0840d7]
+## 257. Use of websites by administrator[^c-9b2da73f1c731fe63bb2556a9d0840d7]
 
 *Extent: N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9b2da73f1c731fe63bb2556a9d0840d7]: Commencement: [Rule 257](https://www.legislation.gov.uk/nisr/2026/11/rule/257) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-9b2da73f1c731fe63bb2556a9d0840d7]: Commencement: [Rule 257](https://www.legislation.gov.uk/nisr/2026/11/rule/257) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
 
 [^f00024]: Footnote: Article 208ZB was inserted by the Insolvency Amendment Act (Northern Ireland) 2016, c.2.

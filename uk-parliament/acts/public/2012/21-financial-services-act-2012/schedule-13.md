@@ -22,9 +22,9 @@ summary: ''
 
 Section 42
 
-**1.**[^key-c90c65a47f43f7b277698ea249320238] FSMA 2000 is amended as follows.
+**1.**[^c-c90c65a47f43f7b277698ea249320238] FSMA 2000 is amended as follows.
 
-**2.**[^key-b20540089615bf9788d3f4bd8deecfbe][^key-740514f80ee76327dd50dfa1123d00c2] In Part 22 (auditors and actuaries), before section 340 (and the italic heading immediately before it) insert—
+**2.**[^c-b20540089615bf9788d3f4bd8deecfbe][^c-740514f80ee76327dd50dfa1123d00c2] In Part 22 (auditors and actuaries), before section 340 (and the italic heading immediately before it) insert—
 
 > **General duties of PRA**
 >
@@ -50,7 +50,7 @@ Section 42
 >
 > (7) “**Auditor**” means an auditor appointed under or as a result of a statutory provision.
 
-**3.**[^key-2241ce9f2b47e4731864d57810b58aae] (1) Section 340 (appointment) is amended as follows.
+**3.**[^c-2241ce9f2b47e4731864d57810b58aae] (1) Section 340 (appointment) is amended as follows.
 
 (2) In subsection (1), for “Rules may require” substitute “ The appropriate regulator may make rules requiring ”.
 
@@ -87,7 +87,7 @@ Section 42
 > - (a) in the case of the FCA, for the purpose of advancing one or more of its operational objectives, or
 > - (b) in the case of the PRA, for the purpose of advancing any of its objectives.
 
-**4.**[^key-54b323395055351f4cf8f07732cca104] (1) Section 342 (information given by auditor or actuary) is amended as follows.
+**4.**[^c-54b323395055351f4cf8f07732cca104] (1) Section 342 (information given by auditor or actuary) is amended as follows.
 
 (2) In subsection (1), after “authorised person” insert “ or recognised investment exchange, ”.
 
@@ -103,7 +103,7 @@ Section 42
 
 (6) For “the Authority”, in each other place (including the heading), substitute “ a regulator ”.
 
-**5.**[^key-82495d8000556129be965599711e9533] (1) Section 343 (information given by auditor or actuary: persons with close links) is amended as follows.
+**5.**[^c-82495d8000556129be965599711e9533] (1) Section 343 (information given by auditor or actuary: persons with close links) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -124,7 +124,7 @@ Section 42
 
 (7) For “the Authority”, in each other place (including the heading), substitute “ a regulator ”.
 
-**6.**[^key-6b6e3cd93a17c5860b38b89541a29d5b] (1) Section 344 (duty of auditor or actuary resigning to give notice) is amended as follows.
+**6.**[^c-6b6e3cd93a17c5860b38b89541a29d5b] (1) Section 344 (duty of auditor or actuary resigning to give notice) is amended as follows.
 
 (2) In each place for “Authority” substitute “ appropriate regulator ”.
 
@@ -139,7 +139,7 @@ Section 42
 > - (a) in the case of an auditor of, or an actuary acting for, a PRA-authorised person, the PRA;
 > - (b) in any other case, the FCA.
 
-**7.**[^key-e1daaf20c83a1bf21a4877769638ef39][^key-e09eb8f2cc6537f71d39349b556e2b54] (1) For section 345 (disqualification of auditor or actuary) and the italic heading before it substitute—
+**7.**[^c-e1daaf20c83a1bf21a4877769638ef39][^c-e09eb8f2cc6537f71d39349b556e2b54] (1) For section 345 (disqualification of auditor or actuary) and the italic heading before it substitute—
 
 > **Disciplinary measures**
 >
@@ -277,7 +277,7 @@ Section 42
 >
 > (7) This section also applies to a proposal to alter or replace a statement.
 
-**8.**[^key-62c49ce620802954b2d35f4cfba1eb78] (1) Section 392 (application of sections 393 and 394) is amended as follows.
+**8.**[^c-62c49ce620802954b2d35f4cfba1eb78] (1) Section 392 (application of sections 393 and 394) is amended as follows.
 
 (2) In paragraph (a), for “345(2) (whether as a result of subsection (1) of that section” substitute “ 345B(1) (whether as a result of section 345(2), 345A(3) ”.
 
@@ -285,22 +285,22 @@ Section 42
 
 ## Annotations
 
-[^key-c90c65a47f43f7b277698ea249320238]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2012/21/schedule/13/paragraph/1) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-c90c65a47f43f7b277698ea249320238]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2012/21/schedule/13/paragraph/1) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-b20540089615bf9788d3f4bd8deecfbe]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2012/21/schedule/13/paragraph/2) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
+[^c-b20540089615bf9788d3f4bd8deecfbe]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2012/21/schedule/13/paragraph/2) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
 
-[^key-740514f80ee76327dd50dfa1123d00c2]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2012/21/schedule/13/paragraph/2) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-740514f80ee76327dd50dfa1123d00c2]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2012/21/schedule/13/paragraph/2) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-2241ce9f2b47e4731864d57810b58aae]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2012/21/schedule/13/paragraph/3) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-2241ce9f2b47e4731864d57810b58aae]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2012/21/schedule/13/paragraph/3) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-54b323395055351f4cf8f07732cca104]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2012/21/schedule/13/paragraph/4) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-54b323395055351f4cf8f07732cca104]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2012/21/schedule/13/paragraph/4) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-82495d8000556129be965599711e9533]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2012/21/schedule/13/paragraph/5) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-82495d8000556129be965599711e9533]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2012/21/schedule/13/paragraph/5) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-6b6e3cd93a17c5860b38b89541a29d5b]: Commencement: [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2012/21/schedule/13/paragraph/6) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-6b6e3cd93a17c5860b38b89541a29d5b]: Commencement: [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2012/21/schedule/13/paragraph/6) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-e1daaf20c83a1bf21a4877769638ef39]: Commencement: [Sch. 13 para. 7](https://www.legislation.gov.uk/ukpga/2012/21/schedule/13/paragraph/7) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
+[^c-e1daaf20c83a1bf21a4877769638ef39]: Commencement: [Sch. 13 para. 7](https://www.legislation.gov.uk/ukpga/2012/21/schedule/13/paragraph/7) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
 
-[^key-e09eb8f2cc6537f71d39349b556e2b54]: Commencement: [Sch. 13 para. 7](https://www.legislation.gov.uk/ukpga/2012/21/schedule/13/paragraph/7) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-e09eb8f2cc6537f71d39349b556e2b54]: Commencement: [Sch. 13 para. 7](https://www.legislation.gov.uk/ukpga/2012/21/schedule/13/paragraph/7) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-62c49ce620802954b2d35f4cfba1eb78]: Commencement: [Sch. 13 para. 8](https://www.legislation.gov.uk/ukpga/2012/21/schedule/13/paragraph/8) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-62c49ce620802954b2d35f4cfba1eb78]: Commencement: [Sch. 13 para. 8](https://www.legislation.gov.uk/ukpga/2012/21/schedule/13/paragraph/8) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

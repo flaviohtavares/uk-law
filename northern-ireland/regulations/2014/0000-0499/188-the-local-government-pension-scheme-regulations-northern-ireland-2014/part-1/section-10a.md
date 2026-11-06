@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10A. Separate employments, etc.[^key-c41fa5b9aa6077dc74872133c2ed8f5b]
+## 10A. Separate employments, etc.[^c-c41fa5b9aa6077dc74872133c2ed8f5b]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c41fa5b9aa6077dc74872133c2ed8f5b]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/nisr/2014/188/regulation/10A) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2016/128/regulation/4)
+[^c-c41fa5b9aa6077dc74872133c2ed8f5b]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/nisr/2014/188/regulation/10A) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2016/128/regulation/4)

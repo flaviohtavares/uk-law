@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Collective money purchase benefits and schemes[^c24459311][^key-86c8aff89608acb204501c5ee7000774]
+## 52. Collective money purchase benefits and schemes[^c24459311][^c-86c8aff89608acb204501c5ee7000774]
 
 *Extent: N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 under which all of the benefits that may be provided are qualifying benefits.
 
-(3)[^key-0339af49e63c01437fd8f792614622cc] In this Part—
+(3)[^c-0339af49e63c01437fd8f792614622cc] In this Part—
 
 - “**single or connected employer scheme**” means a collective money purchase scheme not used, or intended to be used, by any employers other than—
   - (a) a single employer, or
@@ -43,6 +43,6 @@ under which all of the benefits that may be provided are qualifying benefits.
 
 [^c24459311]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2021/1/section/52) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-86c8aff89608acb204501c5ee7000774]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2021/1/section/52) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-86c8aff89608acb204501c5ee7000774]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2021/1/section/52) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
 
-[^key-0339af49e63c01437fd8f792614622cc]: Textual amendment: [S. 52(3)](https://www.legislation.gov.uk/ukpga/2021/1/section/52/3) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [3(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/3/1)
+[^c-0339af49e63c01437fd8f792614622cc]: Textual amendment: [S. 52(3)](https://www.legislation.gov.uk/ukpga/2021/1/section/52/3) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [3(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/3/1)

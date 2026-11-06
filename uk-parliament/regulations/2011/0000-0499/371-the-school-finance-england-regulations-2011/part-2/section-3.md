@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. The Non-Schools Education Budget[^key-20d2f132d9cf6a516b7bc9489359148d]
+## 3. The Non-Schools Education Budget[^c-20d2f132d9cf6a516b7bc9489359148d]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The following classes or descriptions of local authority expenditure are prescri
 
 ## Annotations
 
-[^key-20d2f132d9cf6a516b7bc9489359148d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/371/regulation/3) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)
+[^c-20d2f132d9cf6a516b7bc9489359148d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/371/regulation/3) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)

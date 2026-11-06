@@ -32,7 +32,7 @@ summary: ''
 
 Landfill Tax
 
-The Scottish Landfill Tax (Standard Rate and Lower Rate) Order 2022 (revoked)[^key-54585fe9c1e5a178a859c2bf5fd66d7b]
+The Scottish Landfill Tax (Standard Rate and Lower Rate) Order 2022 (revoked)[^c-54585fe9c1e5a178a859c2bf5fd66d7b]
 
 Approved by the Scottish Parliament
 
@@ -48,26 +48,26 @@ Coming into force
 
 1st April 2022
 
-[^key-54585fe9c1e5a178a859c2bf5fd66d7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-54585fe9c1e5a178a859c2bf5fd66d7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-54585fe9c1e5a178a859c2bf5fd66d7b]
+## 1. Citation, commencement and application[^c-54585fe9c1e5a178a859c2bf5fd66d7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Rates of Scottish landfill tax[^key-54585fe9c1e5a178a859c2bf5fd66d7b]
+## 2. Rates of Scottish landfill tax[^c-54585fe9c1e5a178a859c2bf5fd66d7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-54585fe9c1e5a178a859c2bf5fd66d7b]
+## 3. Revocations[^c-54585fe9c1e5a178a859c2bf5fd66d7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-54585fe9c1e5a178a859c2bf5fd66d7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-54585fe9c1e5a178a859c2bf5fd66d7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-54585fe9c1e5a178a859c2bf5fd66d7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-54585fe9c1e5a178a859c2bf5fd66d7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-54585fe9c1e5a178a859c2bf5fd66d7b]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2022/46) revoked (1.4.2023) by [The Scottish Landfill Tax (Standard Rate and Lower Rate) Order 2023 (S.S.I. 2023/50)](https://www.legislation.gov.uk/ssi/2023/50), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/50/article/1/1), [3](https://www.legislation.gov.uk/ssi/2023/50/article/3) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2023/50/article/1/2))
+[^c-54585fe9c1e5a178a859c2bf5fd66d7b]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2022/46) revoked (1.4.2023) by [The Scottish Landfill Tax (Standard Rate and Lower Rate) Order 2023 (S.S.I. 2023/50)](https://www.legislation.gov.uk/ssi/2023/50), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/50/article/1/1), [3](https://www.legislation.gov.uk/ssi/2023/50/article/3) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2023/50/article/1/2))

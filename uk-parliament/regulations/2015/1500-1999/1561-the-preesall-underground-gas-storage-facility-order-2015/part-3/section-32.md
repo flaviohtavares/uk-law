@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Private rights of way[^key-09b5d537b4b54c8f0a9ab514afecaa52]
+## 32. Private rights of way[^c-09b5d537b4b54c8f0a9ab514afecaa52]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ it shall be effective in respect of the persons so deriving title, whether the t
 
 ## Annotations
 
-[^key-09b5d537b4b54c8f0a9ab514afecaa52]: Commencement: Art. 32 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)
+[^c-09b5d537b4b54c8f0a9ab514afecaa52]: Commencement: Art. 32 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)
 
 [^f00027]: Footnote: Section 11 is amended by Schedule 4 to the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), Schedule 1 to the Housing (Consequential Provisions) Act [1985 (c. 71)](https://www.legislation.gov.uk/ukpga/1985/71), the Church of England (Miscellaneous Provisions) Measure [2006 No. 1](https://www.legislation.gov.uk/ukcm/2006/1) Schedule 5 paragraph 12(1) and the Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 ([S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307)).

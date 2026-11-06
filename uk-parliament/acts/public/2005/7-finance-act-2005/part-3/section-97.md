@@ -30,16 +30,16 @@ summary: ''
 
 .
 
-(3)[^key-523a06bb03ffa16ecd5d92a754e6f03a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-523a06bb03ffa16ecd5d92a754e6f03a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-523a06bb03ffa16ecd5d92a754e6f03a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-523a06bb03ffa16ecd5d92a754e6f03a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The amendment in subsection (2) applies where the relevant day for the purposes of section 87 of FA 1986 falls on or after the day on which this Act is passed.
 
-(6)[^key-ead08f0fb5bf92b921c87067ccb21020] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-ead08f0fb5bf92b921c87067ccb21020] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-523a06bb03ffa16ecd5d92a754e6f03a]: Textual amendment: [S. 97(3)](https://www.legislation.gov.uk/ukpga/2005/7/section/97/3)[(4)](https://www.legislation.gov.uk/ukpga/2005/7/section/97/4) omitted (with effect in accordance with s. 114(4) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 114(3)(d)](https://www.legislation.gov.uk/ukpga/2014/26/section/114/3/d)
+[^c-523a06bb03ffa16ecd5d92a754e6f03a]: Textual amendment: [S. 97(3)](https://www.legislation.gov.uk/ukpga/2005/7/section/97/3)[(4)](https://www.legislation.gov.uk/ukpga/2005/7/section/97/4) omitted (with effect in accordance with s. 114(4) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 114(3)(d)](https://www.legislation.gov.uk/ukpga/2014/26/section/114/3/d)
 
-[^key-ead08f0fb5bf92b921c87067ccb21020]: Textual amendment: [S. 97(6)](https://www.legislation.gov.uk/ukpga/2005/7/section/97/6) omitted (with effect in accordance with s. 114(4) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 114(3)(d)](https://www.legislation.gov.uk/ukpga/2014/26/section/114/3/d)
+[^c-ead08f0fb5bf92b921c87067ccb21020]: Textual amendment: [S. 97(6)](https://www.legislation.gov.uk/ukpga/2005/7/section/97/6) omitted (with effect in accordance with s. 114(4) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 114(3)(d)](https://www.legislation.gov.uk/ukpga/2014/26/section/114/3/d)

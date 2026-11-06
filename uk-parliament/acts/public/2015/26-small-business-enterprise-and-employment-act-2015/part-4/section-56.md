@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Recommendations[^key-b9d145480f1f8e47b9057f3b0da2a62b]
+## 56. Recommendations[^c-b9d145480f1f8e47b9057f3b0da2a62b]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9d145480f1f8e47b9057f3b0da2a62b]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2015/26/section/56) in force at 21.7.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)
+[^c-b9d145480f1f8e47b9057f3b0da2a62b]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2015/26/section/56) in force at 21.7.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)

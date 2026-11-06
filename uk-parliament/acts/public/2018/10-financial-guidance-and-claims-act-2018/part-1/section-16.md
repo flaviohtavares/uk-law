@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Offences under section 15 committed by bodies corporate etc[^key-55aab12bcce879e18b73878fcd0f882e]
+## 16. Offences under section 15 committed by bodies corporate etc[^c-55aab12bcce879e18b73878fcd0f882e]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ the officer or member, as well as the association, is guilty of the offence and 
 
 ## Annotations
 
-[^key-55aab12bcce879e18b73878fcd0f882e]: Commencement: S. 16 in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/j)
+[^c-55aab12bcce879e18b73878fcd0f882e]: Commencement: S. 16 in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/j)

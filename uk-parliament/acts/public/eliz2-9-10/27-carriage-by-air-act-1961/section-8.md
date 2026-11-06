@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Actions against parties to Conventions.[^key-e8c542bdb15a3bbca3aa00a5a0b654b6][^key-e3e878e0a8e82b02fe8328033e0d2a88][^c12407331]
+## 8. Actions against parties to Conventions.[^c-e8c542bdb15a3bbca3aa00a5a0b654b6][^c-e3e878e0a8e82b02fe8328033e0d2a88][^c12407331]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e8c542bdb15a3bbca3aa00a5a0b654b6]: Modification: [S. 8](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/8) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2004/1899/article/6/1)[(4)](https://www.legislation.gov.uk/uksi/2004/1899/article/6/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/1899/schedule/3) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
+[^c-e8c542bdb15a3bbca3aa00a5a0b654b6]: Modification: [S. 8](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/8) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2004/1899/article/6/1)[(4)](https://www.legislation.gov.uk/uksi/2004/1899/article/6/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/1899/schedule/3) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
 
-[^key-e3e878e0a8e82b02fe8328033e0d2a88]: Modification: [S. 8](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/8) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2004/1899/article/5/1)[(4)](https://www.legislation.gov.uk/uksi/2004/1899/article/5/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1899/schedule/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
+[^c-e3e878e0a8e82b02fe8328033e0d2a88]: Modification: [S. 8](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/8) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2004/1899/article/5/1)[(4)](https://www.legislation.gov.uk/uksi/2004/1899/article/5/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1899/schedule/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
 
 [^c12407331]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/8) substituted (coming into force in accordance with art. 1(2)) by [S.I. 2002/263](https://www.legislation.gov.uk/uksi/2002/263), [art. 2(21)](https://www.legislation.gov.uk/uksi/2002/263/article/2/21) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/263/article/1/3))

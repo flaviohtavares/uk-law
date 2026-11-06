@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Language and communication[^key-eb348a4e7410d838c5b87c8617a6e21a]
+## 17. Language and communication[^c-eb348a4e7410d838c5b87c8617a6e21a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The service provider must take reasonable steps to meet the language and communi
 
 ## Annotations
 
-[^key-eb348a4e7410d838c5b87c8617a6e21a]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2019/165/regulation/17) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-eb348a4e7410d838c5b87c8617a6e21a]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2019/165/regulation/17) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)

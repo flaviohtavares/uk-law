@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 107. Notice of the bar date[^key-4e92dea069de1dc8960ac2354771e921]
+## 107. Notice of the bar date[^c-4e92dea069de1dc8960ac2354771e921]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e92dea069de1dc8960ac2354771e921]: Commencement: Rule 107 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-4e92dea069de1dc8960ac2354771e921]: Commencement: Rule 107 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

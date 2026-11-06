@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.19. Expenses[^key-8150a1568a9fd6bd5c41c655a1c0ef21]
+## 3.19. Expenses[^c-8150a1568a9fd6bd5c41c655a1c0ef21]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ No expenses shall be awarded in any proceedings to which this Chapter applies.
 
 ## Annotations
 
-[^key-8150a1568a9fd6bd5c41c655a1c0ef21]: Commencement: Rule 3.19 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-8150a1568a9fd6bd5c41c655a1c0ef21]: Commencement: Rule 3.19 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Surcharge on planning fees[^key-151c3c3fd37c69aa9ad1e0c79b186b8b]
+## 52. Surcharge on planning fees[^c-151c3c3fd37c69aa9ad1e0c79b186b8b]
 
 *Extent: E+W*
 
@@ -69,4 +69,4 @@ In the [Town and Country Planning Act 1990](https://www.legislation.gov.uk/ukpga
 
 ## Annotations
 
-[^key-151c3c3fd37c69aa9ad1e0c79b186b8b]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2025/34/section/52) in force at 18.2.2026, see [s. 118(2)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/b)
+[^c-151c3c3fd37c69aa9ad1e0c79b186b8b]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2025/34/section/52) in force at 18.2.2026, see [s. 118(2)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/b)

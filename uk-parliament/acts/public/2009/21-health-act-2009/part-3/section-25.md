@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Pharmaceutical needs assessments[^M_I_87269a3a-e7ed-49de-8ed2-e5a2a418c302][^key-e5f778c4d9632c7807d42e27bc1bca41]
+## 25. Pharmaceutical needs assessments[^M_I_87269a3a-e7ed-49de-8ed2-e5a2a418c302][^c-e5f778c4d9632c7807d42e27bc1bca41]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ After section 128 of the National Health Service Act 2006 (c. 41) insert—
 
 [^M_I_87269a3a-e7ed-49de-8ed2-e5a2a418c302]: Commencement: S. 25 in force at 18.3.2010 for specified purposes by [S.I. 2010/779](https://www.legislation.gov.uk/uksi/2010/779), [art. 2](https://www.legislation.gov.uk/uksi/2010/779/article/2)
 
-[^key-e5f778c4d9632c7807d42e27bc1bca41]: Commencement: S. 25 in force at 24.5.2010 in so far as not already in force by [S.I. 2010/779](https://www.legislation.gov.uk/uksi/2010/779), [art. 2](https://www.legislation.gov.uk/uksi/2010/779/article/2)
+[^c-e5f778c4d9632c7807d42e27bc1bca41]: Commencement: S. 25 in force at 24.5.2010 in so far as not already in force by [S.I. 2010/779](https://www.legislation.gov.uk/uksi/2010/779), [art. 2](https://www.legislation.gov.uk/uksi/2010/779/article/2)

@@ -26,7 +26,7 @@ Section 2
 
 #### Membership
 
-**1.** (1) The Secretary of State[^key-7f34c27cbf3d3bcc7c2b7a41661d7320] shall appoint not less than 10 or more than 15 individuals as members of the Commission (to be known as Commissioners).
+**1.** (1) The Secretary of State[^c-7f34c27cbf3d3bcc7c2b7a41661d7320] shall appoint not less than 10 or more than 15 individuals as members of the Commission (to be known as Commissioners).
 
 (2) The chief executive of the Commission (appointed under paragraph 7 below) shall be a Commissioner *ex officio*.
 
@@ -211,7 +211,7 @@ Section 2
 - (a) shall be treated by virtue of this paragraph as having been delegated by the Commission to the Scotland Committee in so far as its exercise, in the opinion of the Commission, affects Scotland, and
 - (b) to that extent shall not be exercisable by the Commission.
 
-(2)[^key-ee17317a149b41d6c6dfff8bde923029] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ee17317a149b41d6c6dfff8bde923029] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Sub-paragraph (1) shall not prevent the Commission from making arrangements under section 13(1)(d) or (e) for the provision of advice or guidance to persons anywhere in Great Britain.
 
@@ -225,7 +225,7 @@ Section 2
 - (a) shall be treated by virtue of this paragraph as having been delegated by the Commission to the Scotland Committee in so far as it concerns the giving of advice to devolved government about proposed changes in the law which, in the opinion of the Commission, would affect only Scotland, and
 - (b) to that extent shall not be exercisable by the Commission.
 
-(3)[^key-f2e0b024f56c0f00d46fd6a9970d2865] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f2e0b024f56c0f00d46fd6a9970d2865] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **23.** In allocating its resources the Commission shall ensure that the Scotland Committee receives a share sufficient to enable it to exercise its functions.
 
@@ -251,7 +251,7 @@ Section 2
 - (a) shall be treated by virtue of this paragraph as having been delegated by the Commission to the Wales Committee in so far as its exercise, in the opinion of the Commission, affects Wales, and
 - (b) to that extent shall not be exercisable by the Commission.
 
-(2)[^key-d7d36ba4a39174ceff1055919812f6ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d7d36ba4a39174ceff1055919812f6ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Sub-paragraph (1) shall not prevent the Commission from making arrangements under section 13(1)(d) or (e) for the provision of advice or guidance to persons anywhere in Great Britain.
 
@@ -265,7 +265,7 @@ Section 2
 - (a) shall be treated by virtue of this paragraph as having been delegated by the Commission to the Wales Committee in so far as it concerns the giving of advice to devolved government about proposed changes in the law which, in the opinion of the Commission, would affect only Wales, and
 - (b) to that extent shall not be exercisable by the Commission.
 
-(3)[^key-b919ef2699dbc7d0856f7659e62c19ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b919ef2699dbc7d0856f7659e62c19ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **31.** In allocating its resources the Commission shall ensure that the Wales Committee receives a share sufficient to enable it to exercise its functions.
 
@@ -346,7 +346,7 @@ Section 2
 
 #### Charging
 
-**39.** The Commission may make a charge for a service provided under section 13 [^key-20539fcccac00c4d7de80c87e6e48cb1]....
+**39.** The Commission may make a charge for a service provided under section 13 [^c-20539fcccac00c4d7de80c87e6e48cb1]....
 
 #### Accounts
 
@@ -421,70 +421,70 @@ Section 2
 
 **48.** In Part VI of Schedule 1 to the Freedom of Information Act 2000 (c. 36) (public bodies) at the appropriate place insert— “ The Commission for Equality and Human Rights. ”
 
-### Part 5 — Disability Committee[^key-3e06c752dde06e185fa5645bfa0ca6de]
+### Part 5 — Disability Committee[^c-3e06c752dde06e185fa5645bfa0ca6de]
 
 **No longer in force.**
 
-#### Establishment[^key-3e06c752dde06e185fa5645bfa0ca6de]
+#### Establishment[^c-3e06c752dde06e185fa5645bfa0ca6de]
 
-**49.**[^key-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**49.**[^c-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Membership[^key-3e06c752dde06e185fa5645bfa0ca6de]
+#### Membership[^c-3e06c752dde06e185fa5645bfa0ca6de]
 
-**50.**[^key-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**50.**[^c-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**51.**[^key-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**51.**[^c-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Functions[^key-3e06c752dde06e185fa5645bfa0ca6de]
+#### Functions[^c-3e06c752dde06e185fa5645bfa0ca6de]
 
-**52.**[^key-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**52.**[^c-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**53.**[^key-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**53.**[^c-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**54.**[^key-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**54.**[^c-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Resources[^key-3e06c752dde06e185fa5645bfa0ca6de]
+#### Resources[^c-3e06c752dde06e185fa5645bfa0ca6de]
 
-**55.**[^key-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**55.**[^c-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Report[^key-3e06c752dde06e185fa5645bfa0ca6de]
+#### Report[^c-3e06c752dde06e185fa5645bfa0ca6de]
 
-**56.**[^key-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**56.**[^c-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5-year review[^key-3e06c752dde06e185fa5645bfa0ca6de]
+#### 5-year review[^c-3e06c752dde06e185fa5645bfa0ca6de]
 
-**57.**[^key-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**57.**[^c-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**58.**[^key-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**58.**[^c-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**59.**[^key-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**59.**[^c-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**60.**[^key-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**60.**[^c-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**61.**[^key-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**61.**[^c-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**62.**[^key-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**62.**[^c-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**63.**[^key-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**63.**[^c-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**64.**[^key-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**64.**[^c-3e06c752dde06e185fa5645bfa0ca6de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7f34c27cbf3d3bcc7c2b7a41661d7320]: Textual amendment: Words in Sch. 1 substituted (18.8.2010) by [Transfer of Functions (Equality) Order 2010 (S.I. 2010/1839)](https://www.legislation.gov.uk/uksi/2010/1839), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1839/article/1/2), [Sch. para. 7(2)(o)](https://www.legislation.gov.uk/uksi/2010/1839/schedule/paragraph/7/2/o)
+[^c-7f34c27cbf3d3bcc7c2b7a41661d7320]: Textual amendment: Words in Sch. 1 substituted (18.8.2010) by [Transfer of Functions (Equality) Order 2010 (S.I. 2010/1839)](https://www.legislation.gov.uk/uksi/2010/1839), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1839/article/1/2), [Sch. para. 7(2)(o)](https://www.legislation.gov.uk/uksi/2010/1839/schedule/paragraph/7/2/o)
 
 [^c2035183]: Textual amendment: Words in Sch. 1 para. 2(3)(c) substituted by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [art. 3](https://www.legislation.gov.uk/uksi/2007/1388/article/3), [Sch. 1 para. 120](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/120), the amending provision coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see Government of Wales Act 2006, ss. 46, 161(5)
 
 [^c2035072]: Modification: Sch. 1 para. 9(3)(b) modified (1.10.2007) by [The Equality Act 2006 (Dissolution of Commissions and Consequential and Transitional Provisions) Order 2007 (S.I. 2007/2602)](https://www.legislation.gov.uk/uksi/2007/2602), [art. 5(2)](https://www.legislation.gov.uk/uksi/2007/2602/article/5/2)
 
-[^key-ee17317a149b41d6c6dfff8bde923029]: Textual amendment: [Sch. 1 para. 21(2)](https://www.legislation.gov.uk/ukpga/2006/3/schedule/1/paragraph/21/2) omitted (31.3.2017) by virtue of [The Equality Act 2006 (Dissolution of the Disability Committee) Order 2014 (S.I. 2014/406)](https://www.legislation.gov.uk/uksi/2014/406), [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/406/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2014/406/article/3/2)
+[^c-ee17317a149b41d6c6dfff8bde923029]: Textual amendment: [Sch. 1 para. 21(2)](https://www.legislation.gov.uk/ukpga/2006/3/schedule/1/paragraph/21/2) omitted (31.3.2017) by virtue of [The Equality Act 2006 (Dissolution of the Disability Committee) Order 2014 (S.I. 2014/406)](https://www.legislation.gov.uk/uksi/2014/406), [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/406/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2014/406/article/3/2)
 
-[^key-f2e0b024f56c0f00d46fd6a9970d2865]: Textual amendment: [Sch. 1 para. 22(3)](https://www.legislation.gov.uk/ukpga/2006/3/schedule/1/paragraph/22/3) omitted (31.3.2017) by virtue of [The Equality Act 2006 (Dissolution of the Disability Committee) Order 2014 (S.I. 2014/406)](https://www.legislation.gov.uk/uksi/2014/406), [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/406/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2014/406/article/3/2)
+[^c-f2e0b024f56c0f00d46fd6a9970d2865]: Textual amendment: [Sch. 1 para. 22(3)](https://www.legislation.gov.uk/ukpga/2006/3/schedule/1/paragraph/22/3) omitted (31.3.2017) by virtue of [The Equality Act 2006 (Dissolution of the Disability Committee) Order 2014 (S.I. 2014/406)](https://www.legislation.gov.uk/uksi/2014/406), [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/406/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2014/406/article/3/2)
 
-[^key-d7d36ba4a39174ceff1055919812f6ee]: Textual amendment: [Sch. 1 para. 29(2)](https://www.legislation.gov.uk/ukpga/2006/3/schedule/1/paragraph/29/2) omitted (31.3.2017) by virtue of [The Equality Act 2006 (Dissolution of the Disability Committee) Order 2014 (S.I. 2014/406)](https://www.legislation.gov.uk/uksi/2014/406), [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/406/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2014/406/article/3/2)
+[^c-d7d36ba4a39174ceff1055919812f6ee]: Textual amendment: [Sch. 1 para. 29(2)](https://www.legislation.gov.uk/ukpga/2006/3/schedule/1/paragraph/29/2) omitted (31.3.2017) by virtue of [The Equality Act 2006 (Dissolution of the Disability Committee) Order 2014 (S.I. 2014/406)](https://www.legislation.gov.uk/uksi/2014/406), [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/406/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2014/406/article/3/2)
 
-[^key-b919ef2699dbc7d0856f7659e62c19ab]: Textual amendment: [Sch. 1 para. 30(3)](https://www.legislation.gov.uk/ukpga/2006/3/schedule/1/paragraph/30/3) omitted (31.3.2017) by virtue of [The Equality Act 2006 (Dissolution of the Disability Committee) Order 2014 (S.I. 2014/406)](https://www.legislation.gov.uk/uksi/2014/406), [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/406/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2014/406/article/3/2)
+[^c-b919ef2699dbc7d0856f7659e62c19ab]: Textual amendment: [Sch. 1 para. 30(3)](https://www.legislation.gov.uk/ukpga/2006/3/schedule/1/paragraph/30/3) omitted (31.3.2017) by virtue of [The Equality Act 2006 (Dissolution of the Disability Committee) Order 2014 (S.I. 2014/406)](https://www.legislation.gov.uk/uksi/2014/406), [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/406/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2014/406/article/3/2)
 
-[^key-20539fcccac00c4d7de80c87e6e48cb1]: Textual amendment: Words in [Sch. 1 para. 39](https://www.legislation.gov.uk/ukpga/2006/3/schedule/1/paragraph/39) omitted (25.6.2013) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 64(11)(a)](https://www.legislation.gov.uk/ukpga/2013/24/section/64/11/a), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2)
+[^c-20539fcccac00c4d7de80c87e6e48cb1]: Textual amendment: Words in [Sch. 1 para. 39](https://www.legislation.gov.uk/ukpga/2006/3/schedule/1/paragraph/39) omitted (25.6.2013) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 64(11)(a)](https://www.legislation.gov.uk/ukpga/2013/24/section/64/11/a), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2)
 
-[^key-3e06c752dde06e185fa5645bfa0ca6de]: Textual amendment: [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2006/3/schedule/1/part/5) repealed (31.3.2017) by [The Equality Act 2006 (Dissolution of the Disability Committee) Order 2014 (S.I. 2014/406)](https://www.legislation.gov.uk/uksi/2014/406), [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/406/article/3/1)[(1)](https://www.legislation.gov.uk/uksi/2014/406/article/3/1)
+[^c-3e06c752dde06e185fa5645bfa0ca6de]: Textual amendment: [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2006/3/schedule/1/part/5) repealed (31.3.2017) by [The Equality Act 2006 (Dissolution of the Disability Committee) Order 2014 (S.I. 2014/406)](https://www.legislation.gov.uk/uksi/2014/406), [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/406/article/3/1)[(1)](https://www.legislation.gov.uk/uksi/2014/406/article/3/1)

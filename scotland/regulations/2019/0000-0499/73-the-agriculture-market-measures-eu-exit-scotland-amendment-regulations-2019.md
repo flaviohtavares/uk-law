@@ -52,7 +52,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c23602141], during the preparation and evaluation of these Regulations so far as they relate to food.
 
-## 1. Citation and commencement[^key-807928276e8b6cf4b3e8bda338222ee0]
+## 1. Citation and commencement[^c-807928276e8b6cf4b3e8bda338222ee0]
 
 (1) These Regulations may be cited as the Agriculture Market Measures (EU Exit) (Scotland) (Amendment) Regulations 2019.
 
@@ -60,7 +60,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 (3) Regulations 2 and 5(3)(a) and (b) come into force on 28 March 2019.
 
-## 2. Amendment of the Reporting of Prices of Milk Products (Scotland) Regulations 2005[^key-dd930c926588c16500ac922fc8728844]
+## 2. Amendment of the Reporting of Prices of Milk Products (Scotland) Regulations 2005[^c-dd930c926588c16500ac922fc8728844]
 
 (1) The Reporting of Prices of Milk Products (Scotland) Regulations 2005 [^c23602151] are amended as follows.
 
@@ -79,13 +79,13 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 (3) In regulation 3(1) (provision of information on prices) for “Articles 2 and 3” substitute “ Articles 7, 11 and 12 ”.
 
-## 3. Amendment of the Quality Meat Scotland Order 2008[^key-e9ef1c634a78823da83ebdd955dad109]
+## 3. Amendment of the Quality Meat Scotland Order 2008[^c-e9ef1c634a78823da83ebdd955dad109]
 
 (1) The Quality Meat Scotland Order 2008 [^c23602171] is amended as follows.
 
 (2) In paragraph 9(1) of schedule 3 (levies) for “from another member State” substitute “ into the United Kingdom ”.
 
-## 4. Amendment of the Beef and Pig Carcase Classification (Scotland) Regulations 2010[^key-62d4d48fcdda94e9a3c1918bd7adba02]
+## 4. Amendment of the Beef and Pig Carcase Classification (Scotland) Regulations 2010[^c-62d4d48fcdda94e9a3c1918bd7adba02]
 
 (1) The Beef and Pig Carcase Classification (Scotland) Regulations 2010 [^c23602181] are amended as follows.
 
@@ -119,19 +119,19 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 - (b) in the heading of column 1 of the table, for “European” substitute “ retained EU ”;
 - (c) in the third row of the table, for “methods authorised by the Commission” substitute “ authorised methods ”.
 
-## 5. Amendment of the Beef and Veal Labelling (Scotland) Regulations 2010[^key-29d42dc7109169ca9f172300155c0117]
+## 5. Amendment of the Beef and Veal Labelling (Scotland) Regulations 2010[^c-29d42dc7109169ca9f172300155c0117]
 
-(1)[^key-29d42dc7109169ca9f172300155c0117] The Beef and Veal Labelling (Scotland) Regulations 2010 [^c23602191] are amended as follows.
+(1)[^c-29d42dc7109169ca9f172300155c0117] The Beef and Veal Labelling (Scotland) Regulations 2010 [^c23602191] are amended as follows.
 
-(2)[^key-29d42dc7109169ca9f172300155c0117] In regulation 3 (enforcement authorities), omit paragraph (1)(d).
+(2)[^c-29d42dc7109169ca9f172300155c0117] In regulation 3 (enforcement authorities), omit paragraph (1)(d).
 
 (3) In regulation 4 (offences under European legislation), in paragraph (1) omit—
 
-- (a)[^key-192f7e686ed50c7c175d15cff5fd3ec1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-192f7e686ed50c7c175d15cff5fd3ec1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-29d42dc7109169ca9f172300155c0117] sub-paragraph (b)(viii).
+- (a)[^c-192f7e686ed50c7c175d15cff5fd3ec1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-192f7e686ed50c7c175d15cff5fd3ec1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-29d42dc7109169ca9f172300155c0117] sub-paragraph (b)(viii).
 
-(4)[^key-29d42dc7109169ca9f172300155c0117] In regulation 7(2) (powers of entry), omit “, including any representative of the European Commission”.
+(4)[^c-29d42dc7109169ca9f172300155c0117] In regulation 7(2) (powers of entry), omit “, including any representative of the European Commission”.
 
 FERGUS EWING
 
@@ -161,24 +161,24 @@ Regulations 3 to 5 both update cross-references and fix deficiencies in the Scot
 
 [^c23602141]: Marginal citation: OJ L 131, 1.2.2002, p.1, as last amended by Commission Regulation (EU) 2017/228 (OJ L 35, 10.2.2017, p.10).
 
-[^key-807928276e8b6cf4b3e8bda338222ee0]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-807928276e8b6cf4b3e8bda338222ee0]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-dd930c926588c16500ac922fc8728844]: Commencement: Reg. 2 in force at 28.3.2019, see reg. 1(3)
+[^c-dd930c926588c16500ac922fc8728844]: Commencement: Reg. 2 in force at 28.3.2019, see reg. 1(3)
 
 [^c23602151]: Marginal citation: [S.S.I. 2005/484](https://www.legislation.gov.uk/ssi/2005/484), as amended by [S.S.I. 2011/81](https://www.legislation.gov.uk/ssi/2011/81).
 
 [^c23602161]: Marginal citation: OJ No. L 171, 4.7.2017, p. 113.
 
-[^key-e9ef1c634a78823da83ebdd955dad109]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-e9ef1c634a78823da83ebdd955dad109]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23602171]: Marginal citation: [S.S.I. 2008/77](https://www.legislation.gov.uk/ssi/2008/77).
 
-[^key-62d4d48fcdda94e9a3c1918bd7adba02]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-62d4d48fcdda94e9a3c1918bd7adba02]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23602181]: Marginal citation: [S.S.I. 2010/330](https://www.legislation.gov.uk/ssi/2010/330), as amended by [S.I. 2013/3235](https://www.legislation.gov.uk/uksi/2013/3235) and [S.S.I. 2018/182](https://www.legislation.gov.uk/ssi/2018/182).
 
-[^key-29d42dc7109169ca9f172300155c0117]: Commencement: Reg. 5(1)(2)(3)(c)(4) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-29d42dc7109169ca9f172300155c0117]: Commencement: Reg. 5(1)(2)(3)(c)(4) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23602191]: Marginal citation: S.S.I 2010/402, as amended by [S.I. 2013/3235](https://www.legislation.gov.uk/uksi/2013/3235) and by [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391).
 
-[^key-192f7e686ed50c7c175d15cff5fd3ec1]: Textual amendment: Reg. 5(3)(a)(b) omitted (27.3.2019) by virtue of [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) Amendment Regulations 2019 (S.S.I. 2019/89)](https://www.legislation.gov.uk/ssi/2019/89), [regs. 1](https://www.legislation.gov.uk/ssi/2019/89/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/89/regulation/2/2)
+[^c-192f7e686ed50c7c175d15cff5fd3ec1]: Textual amendment: Reg. 5(3)(a)(b) omitted (27.3.2019) by virtue of [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) Amendment Regulations 2019 (S.S.I. 2019/89)](https://www.legislation.gov.uk/ssi/2019/89), [regs. 1](https://www.legislation.gov.uk/ssi/2019/89/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/89/regulation/2/2)

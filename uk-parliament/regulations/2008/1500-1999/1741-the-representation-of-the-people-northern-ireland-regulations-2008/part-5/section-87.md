@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 87. Procedure in relation to declarations of identity[^key-abb4ca8b563d882cf2e6a892ba92da34]
+## 87. Procedure in relation to declarations of identity[^c-abb4ca8b563d882cf2e6a892ba92da34]
 
 *Extent: N.I.*
 
 (1) A declaration of identity is a valid declaration of identity for the purposes of this Part of these Regulations if—
 
-- (a) it is duly signed by the voter and authenticated by a witness who has signed the declaration [^key-2c413f08a94b48f7e8dabe5065ed8eef]...; and
+- (a) it is duly signed by the voter and authenticated by a witness who has signed the declaration [^c-2c413f08a94b48f7e8dabe5065ed8eef]...; and
 - (b) in the case of an elector, the requirements of rule 45(2)(b) and (2A)[^f00068]) of the elections rules are satisfied.
 
-(1A)[^key-745a589cdbf0ca506e89b6ab9a0bfc91] A person must not sign the declaration as a witness under paragraph (1)(a) unless he is—
+(1A)[^c-745a589cdbf0ca506e89b6ab9a0bfc91] A person must not sign the declaration as a witness under paragraph (1)(a) unless he is—
 
 - (a) aged 18 years or over; and
 - (b) satisfied to the best of his knowledge and belief as to the identity of the voter.
@@ -41,7 +41,7 @@ summary: ''
 (6) Where—
 
 - (a) the number on a valid declaration of identity is not the same as the number on the ballot paper envelope; or
-- (b) that envelope has no number on it and the number is not displayed through a window in it[^key-1a6afcfd3eac91863a122a94b0b0e516],
+- (b) that envelope has no number on it and the number is not displayed through a window in it[^c-1a6afcfd3eac91863a122a94b0b0e516],
 
 the returning officer shall open the envelope.
 
@@ -59,12 +59,12 @@ the returning officer shall open the envelope.
 
 ## Annotations
 
-[^key-abb4ca8b563d882cf2e6a892ba92da34]: Modification: [Reg. 87](https://www.legislation.gov.uk/uksi/2008/1741/regulation/87) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 99](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/99)
+[^c-abb4ca8b563d882cf2e6a892ba92da34]: Modification: [Reg. 87](https://www.legislation.gov.uk/uksi/2008/1741/regulation/87) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 99](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/99)
 
-[^key-2c413f08a94b48f7e8dabe5065ed8eef]: Textual amendment: Words in [reg. 87(1)(a)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/87/1/a) omitted (12.2.2015) by virtue of [The Parliamentary Elections (Forms) (Northern Ireland) Regulations 2015 (S.I. 2015/221)](https://www.legislation.gov.uk/uksi/2015/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/221/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/221/regulation/2/2/a)
+[^c-2c413f08a94b48f7e8dabe5065ed8eef]: Textual amendment: Words in [reg. 87(1)(a)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/87/1/a) omitted (12.2.2015) by virtue of [The Parliamentary Elections (Forms) (Northern Ireland) Regulations 2015 (S.I. 2015/221)](https://www.legislation.gov.uk/uksi/2015/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/221/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/221/regulation/2/2/a)
 
 [^f00068]: Footnote: Rule 45(2)(b) was amended by, and paragraph (2A) was inserted by, section 3(4)(c) of the 2002 Act.
 
-[^key-745a589cdbf0ca506e89b6ab9a0bfc91]: Textual amendment: [Reg. 87(1A)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/87/1A) inserted (12.2.2015) by [The Parliamentary Elections (Forms) (Northern Ireland) Regulations 2015 (S.I. 2015/221)](https://www.legislation.gov.uk/uksi/2015/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/221/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/221/regulation/2/2/b)
+[^c-745a589cdbf0ca506e89b6ab9a0bfc91]: Textual amendment: [Reg. 87(1A)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/87/1A) inserted (12.2.2015) by [The Parliamentary Elections (Forms) (Northern Ireland) Regulations 2015 (S.I. 2015/221)](https://www.legislation.gov.uk/uksi/2015/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/221/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/221/regulation/2/2/b)
 
-[^key-1a6afcfd3eac91863a122a94b0b0e516]: Textual amendment: Words in [reg. 87(6)(b)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/87/6/b) inserted (4.2.2010) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2010 (S.I. 2010/278)](https://www.legislation.gov.uk/uksi/2010/278), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/278/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2010/278/regulation/9/2)
+[^c-1a6afcfd3eac91863a122a94b0b0e516]: Textual amendment: Words in [reg. 87(6)(b)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/87/6/b) inserted (4.2.2010) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2010 (S.I. 2010/278)](https://www.legislation.gov.uk/uksi/2010/278), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/278/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2010/278/regulation/9/2)

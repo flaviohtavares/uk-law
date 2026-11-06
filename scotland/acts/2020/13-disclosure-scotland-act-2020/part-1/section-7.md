@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Provision of new Level 1 disclosure on conclusion of review proceedings[^key-7f0b5d62ea0d1b0d41c1e90b1f8b7d4f]
+## 7. Provision of new Level 1 disclosure on conclusion of review proceedings[^c-7f0b5d62ea0d1b0d41c1e90b1f8b7d4f]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f0b5d62ea0d1b0d41c1e90b1f8b7d4f]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2020/13/section/7) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-7f0b5d62ea0d1b0d41c1e90b1f8b7d4f]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2020/13/section/7) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Qualification of sub-tenant protection[^key-e04e3c4826c9808e38b1f4bce88a4d24]
+## 47. Qualification of sub-tenant protection[^c-e04e3c4826c9808e38b1f4bce88a4d24]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e04e3c4826c9808e38b1f4bce88a4d24]: Commencement: S. 47 in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-e04e3c4826c9808e38b1f4bce88a4d24]: Commencement: S. 47 in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

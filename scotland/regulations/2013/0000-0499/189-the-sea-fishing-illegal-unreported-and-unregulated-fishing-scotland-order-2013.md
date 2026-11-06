@@ -54,11 +54,11 @@ This Order makes provision for a purpose mentioned in section 2(2) of the Europe
 
 to be construed as references to those Articles or, as the case may be, to those Annexes, as amended from time to time.
 
-## 1. Citation, commencement, extent and application[^key-e23bd96ed85f16821ab1636b0c7b926b]
+## 1. Citation, commencement, extent and application[^c-e23bd96ed85f16821ab1636b0c7b926b]
 
 (1) This Order may be cited as the Sea Fishing (Illegal, Unreported and Unregulated Fishing) (Scotland) Order 2013 and comes into force on 29th June 2013.
 
-(2)[^key-916c20d1c448f80ff79148f5d74974b0] Subject to paragraph (2A), this Order extends to Scotland and the Scottish zone only.
+(2)[^c-916c20d1c448f80ff79148f5d74974b0] Subject to paragraph (2A), this Order extends to Scotland and the Scottish zone only.
 
 (2A) So far as this Order extends beyond Scotland and the Scottish zone, it does so only as a matter of Scots law.
 
@@ -71,7 +71,7 @@ to be construed as references to those Articles or, as the case may be, to those
 
 (5) In paragraph (4)(a), a “Scottish fishing boat” means a fishing vessel which is registered in the register maintained under section 8 of the Merchant Shipping Act 1995[^f00007], and whose entry in the register specifies a port in Scotland as the port to which the vessel is to be treated as belonging.
 
-## 2. Interpretation[^key-e8f6fc874423995b3ab076921c3b8450]
+## 2. Interpretation[^c-e8f6fc874423995b3ab076921c3b8450]
 
 (1) In this Order—
 
@@ -83,7 +83,7 @@ to be construed as references to those Articles or, as the case may be, to those
 - “Council Regulation” means Council Regulation [(EC) No 1005/2008](https://www.legislation.gov.uk/european/regulation/2008/1005) establishing a Community system to prevent, deter and eliminate illegal, unreported and unregulated fishing, amending Regulations [(EEC) No 2847/93](https://www.legislation.gov.uk/european/regulation/1993/2847), [(EC) No 1936/2001](https://www.legislation.gov.uk/european/regulation/2001/1936) and [(EC) No 601/2004](https://www.legislation.gov.uk/european/regulation/2004/0601) and repealing Regulations [(EC) No 1093/94](https://www.legislation.gov.uk/european/regulation/1994/1093) and [(EC) No 1447/1999](https://www.legislation.gov.uk/european/regulation/1999/1447);
 - “Council Regulation 1224/2009” means Council Regulation [(EC) No 1224/2009](https://www.legislation.gov.uk/european/regulation/2009/1224) establishing a Community control system for ensuring compliance with the rules of the common fisheries policy, amending Regulations [(EC) No 847/96](https://www.legislation.gov.uk/european/regulation/1996/0847), [(EC) No 2371/2002](https://www.legislation.gov.uk/european/regulation/2002/2371), [(EC) No 811/2004](https://www.legislation.gov.uk/european/regulation/2004/0811), [(EC) No 768/2005](https://www.legislation.gov.uk/european/regulation/2005/0768), [(EC) No 2115/2005](https://www.legislation.gov.uk/european/regulation/2005/2115), [(EC) No 2166/2005](https://www.legislation.gov.uk/european/regulation/2005/2166), [(EC) No 388/2006](https://www.legislation.gov.uk/european/regulation/2006/0388), [(EC) No 509/2007](https://www.legislation.gov.uk/european/regulation/2007/0509), [(EC) No 676/2007](https://www.legislation.gov.uk/european/regulation/2007/0676), [(EC) No 1098/2007](https://www.legislation.gov.uk/european/regulation/2007/1098), [(EC) No 1300/2008](https://www.legislation.gov.uk/european/regulation/2008/1300), [(EC) No 1342/2008](https://www.legislation.gov.uk/european/regulation/2008/1342) and repealing Regulations [(EEC) No 2847/93](https://www.legislation.gov.uk/european/regulation/1993/2847), [(EC) No 1627/94](https://www.legislation.gov.uk/european/regulation/1994/1627) and [(EC) No 1966/2006](https://www.legislation.gov.uk/european/regulation/2006/1966);
 - “equivalent provision” means any provision in any other Order extending to any part of the United Kingdom which has equivalent effect to a provision in this Order, proceedings in respect of which may be taken in Scotland by virtue of section 30(2A) of the Fisheries Act 1981;
-- [^key-6bcbea07464767dede1d211a2cacd3eb]...
+- [^c-6bcbea07464767dede1d211a2cacd3eb]...
 - “fishery products” are those products described in Article 2(8) of the Council Regulation with the exception of the products listed in Annex I of that Regulation;
 - “fishing logbook” has the same meaning as in Articles 14 and 15 of Council Regulation 1224/2009 and for the purposes of this Order any reference to a fishing logbook, declaration or document includes, in addition to a fishing logbook, declaration or document in writing, any related—
   - (a) map, plan, graph or drawing;
@@ -94,8 +94,8 @@ to be construed as references to those Articles or, as the case may be, to those
   - (f) film (including microfilm), negative, tape, disk or other device on which one or more visual images are recorded so as to be capable (with or without the aid of some other equipment) of being reproduced;
 - “local authority” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994[^f00009];
 - “Scotland” and “the Scottish zone” have the same meanings assigned to those terms by section 126(1) of the Scotland Act 1998[^f00010]; and
-- “third country fishing boat” means a fishing boat which is not a United Kingdom[^key-9917d1981ef650a25d550ac0a9365c1f] fishing boat.
-- “[^key-b0f9e6cdd121a0707f2d9d6deb324c97]**United Kingdom fishing boat**” means a fishing vessel which is registered in the United Kingdom under Part 2 of the Merchant Shipping Act 1995;
+- “third country fishing boat” means a fishing boat which is not a United Kingdom[^c-9917d1981ef650a25d550ac0a9365c1f] fishing boat.
+- “[^c-b0f9e6cdd121a0707f2d9d6deb324c97]**United Kingdom fishing boat**” means a fishing vessel which is registered in the United Kingdom under Part 2 of the Merchant Shipping Act 1995;
 
 (2) Expressions used in this Order that appear or are referred to in the Council Regulation or the Commission Regulation, and which are not defined in this article, have the same meaning in this Order as in those Regulations.
 
@@ -109,7 +109,7 @@ is a reference to that Article or, as the case may be, Annex as amended from tim
 
 (4) Any information provided to any authority for the purposes of any provision of this Order is to be treated as also provided for the purposes of any equivalent provision.
 
-## 3. Competent authority[^key-738335d746f9be9ffdb491d0ac4ab652]
+## 3. Competent authority[^c-738335d746f9be9ffdb491d0ac4ab652]
 
 (1) The Scottish Ministers are the competent authority for the purposes of the Council Regulation and the Commission Regulation.
 
@@ -123,7 +123,7 @@ is a reference to that Article or, as the case may be, Annex as amended from tim
 - (d) Article 17(2) of the Council Regulation and Article 20 of the Commission Regulation (verifications); and
 - (e) Article 18(1), (2) and (3) of the Council Regulation (refusal of importation).
 
-## 4. Control on movement[^key-41c59cbf832bab049eaa85aaae719321]
+## 4. Control on movement[^c-41c59cbf832bab049eaa85aaae719321]
 
 (1) An authorised officer may prohibit the movement of a consignment of fishery products from the place of import while a verification takes place pursuant to Article 17 of the Council Regulation or Article 20 of the Commission Regulation.
 
@@ -148,7 +148,7 @@ the officer must revoke the notice issued under this article.
 
 (6) A notice served under this article may be revoked under paragraph (5) by service of a further notice signed by an authorised officer.
 
-## 5. Consent to movement[^key-3a3bd6aadff38a652a782e55d7d788ac]
+## 5. Consent to movement[^c-3a3bd6aadff38a652a782e55d7d788ac]
 
 (1) An authorised officer may give written consent to the movement of a controlled consignment.
 
@@ -165,7 +165,7 @@ the officer must revoke the notice issued under this article.
 
 (4) Where such consent has been given and the consignment has been moved to the place specified under paragraph (3)(b), the prohibition on movement under article 4 applies to it at such place as it applied at the place of import.
 
-## 6. Refusal of importation[^key-73d84904157d1ee73fd5ff4431203f38]
+## 6. Refusal of importation[^c-73d84904157d1ee73fd5ff4431203f38]
 
 (1) The competent authority must refuse importation or permission to use transhipment facilities where a pre-landing or pre-transhipment declaration has not been submitted in accordance with Article 8 of the Council Regulation and Article 3 of, and Annexes IIIA and IIIB to, the Commission Regulation.
 
@@ -178,7 +178,7 @@ the officer must revoke the notice issued under this article.
   - (i) the appeal has been withdrawn; or
   - (ii) the sheriff dismisses the appeal.
 
-## 7. Right of appeal[^key-49feb86084a8afbed8f791d4b5a6503e]
+## 7. Right of appeal[^c-49feb86084a8afbed8f791d4b5a6503e]
 
 (1) Where the competent authority has decided—
 
@@ -230,11 +230,11 @@ the importer may appeal against the competent authority’s decision to the sher
 
 (11) Pending the determination of an appeal under this article any fishery product which is seized under article 6(2) must be kept in storage under the control of the competent authority and the cost of the storage must be borne by the importer.
 
-## 8. Fees relating to third country imports[^key-4fc9ceebdaf2bdd04b76d32631743ee6]
+## 8. Fees relating to third country imports[^c-4fc9ceebdaf2bdd04b76d32631743ee6]
 
 The local authority may charge an importer a consignment fee to recover any expenses reasonably incurred by it in carrying out its functions under article 3(2) or 4 in respect of any consignment.
 
-## 9. Offences[^key-b8b650b7c20a262f878fe648010f3a74]
+## 9. Offences[^c-b8b650b7c20a262f878fe648010f3a74]
 
 (1) It is an offence for the person in charge of a third country fishing boat to enter port without authorisation under Article 7 of the Council Regulation.
 
@@ -244,19 +244,19 @@ The local authority may charge an importer a consignment fee to recover any expe
 
 (4) It is an offence for a person to import fishery products obtained from IUU fishing.
 
-(4A)[^key-3cfcd4a48ce867fef84f9249a4e63f98] It is an offence for a person to import fishery products caught by a third country fishing boat flying the flag of a non-cooperating third country unless the products are from stock or species to which the listing by the Secretary of State[^key-90f44fcd290a8e3bfac8b2161f49c7fe] under Article 33 of the Council Regulation of the country as a non-cooperating third country does not apply.
+(4A)[^c-3cfcd4a48ce867fef84f9249a4e63f98] It is an offence for a person to import fishery products caught by a third country fishing boat flying the flag of a non-cooperating third country unless the products are from stock or species to which the listing by the Secretary of State[^c-90f44fcd290a8e3bfac8b2161f49c7fe] under Article 33 of the Council Regulation of the country as a non-cooperating third country does not apply.
 
-(5) It is an offence for a person in charge of a fishing boat to engage in directed fishing for a stock which is subject to a moratorium or for which fishing is prohibited under Article 3(1)(d), as read with Article 42(1)[^key-2f45dd0234e4c57146f8958aad4a3fc7], of the Council Regulation.
+(5) It is an offence for a person in charge of a fishing boat to engage in directed fishing for a stock which is subject to a moratorium or for which fishing is prohibited under Article 3(1)(d), as read with Article 42(1)[^c-2f45dd0234e4c57146f8958aad4a3fc7], of the Council Regulation.
 
 (6) It is an offence for a person in charge of a fishing boat to tranship fishery products to or from, participate in joint fishing operations with, support or re-supply, a boat that—
 
 - (a) has engaged in IUU fishing;
-- (b) is on the United Kingdom[^key-6361f8a28ecdb472e95aced7bc0663f9] IUU vessel list; or
-- (c) is on an IUU vessel list of a regional fisheries management organisation [^key-2655c9894ca845ee49f89718a82867bd]....
+- (b) is on the United Kingdom[^c-6361f8a28ecdb472e95aced7bc0663f9] IUU vessel list; or
+- (c) is on an IUU vessel list of a regional fisheries management organisation [^c-2655c9894ca845ee49f89718a82867bd]....
 
-(7) It is an offence for a person in charge of a United Kingdom[^key-196fc7c80a72a31bb0d7ab1a57bced2b] fishing boat to engage in fish processing operations with a boat that is on the United Kingdom[^key-fd16b252855226628045f43fb7bbc7de] IUU vessel list.
+(7) It is an offence for a person in charge of a United Kingdom[^c-196fc7c80a72a31bb0d7ab1a57bced2b] fishing boat to engage in fish processing operations with a boat that is on the United Kingdom[^c-fd16b252855226628045f43fb7bbc7de] IUU vessel list.
 
-(8) In relation to a fishing boat on the United Kingdom[^key-41e95670e8261331eca7a8cf118303f7] IUU vessel list, it is an offence for a person—
+(8) In relation to a fishing boat on the United Kingdom[^c-41e95670e8261331eca7a8cf118303f7] IUU vessel list, it is an offence for a person—
 
 - (a) to enter into an agreement to operate or beneficially own it;
 - (b) to furnish it with any supplies, gear or people, except as necessary in the case of *force majeure* or distress; or
@@ -266,9 +266,9 @@ The local authority may charge an importer a consignment fee to recover any expe
 
 (10) It is an offence for a person to purchase a third country fishing boat flying the flag of a non-cooperating third country.
 
-(10A)[^key-e906d42f86446e2db3a942d656f15d9c] It is an offence for a person to reflag a United Kingdom fishing boat[^key-34f01ecae7d48be197cce278c2679dc4] so that it flies the flag of a non-cooperating third country.
+(10A)[^c-e906d42f86446e2db3a942d656f15d9c] It is an offence for a person to reflag a United Kingdom fishing boat[^c-34f01ecae7d48be197cce278c2679dc4] so that it flies the flag of a non-cooperating third country.
 
-(11) It is an offence for a person in charge of a United Kingdom[^key-2d69b9f797b3cf609094d655e5d99eff] fishing boat to enter into an agreement to purchase fishing quota authorising fishing in a non-cooperating third country.
+(11) It is an offence for a person in charge of a United Kingdom[^c-2d69b9f797b3cf609094d655e5d99eff] fishing boat to enter into an agreement to purchase fishing quota authorising fishing in a non-cooperating third country.
 
 (12) It is an offence for a person in charge of a fishing boat to participate in joint fishing operations with a boat flying the flag of a non-cooperating third country.
 
@@ -280,7 +280,7 @@ The local authority may charge an importer a consignment fee to recover any expe
 
 (16) In paragraphs (1), (2), (5), (6), (7), (11) and (12), the “person in charge” of a fishing boat means the owner, master, charterer (if any) or agent acting for such owner, master or charterer.
 
-## 10. Penalties[^key-0796a9c48c729e04b7a09b0f5e83ec90]
+## 10. Penalties[^c-0796a9c48c729e04b7a09b0f5e83ec90]
 
 (1) A person convicted of an offence under article 9(1) to (14) or 17(1), or under an equivalent provision, is liable—
 
@@ -303,7 +303,7 @@ The local authority may charge an importer a consignment fee to recover any expe
 
 (6) Subject to paragraph (5), any fine to which a person is liable under paragraph (4) is in addition to any other penalty (whether pecuniary or otherwise) to which that person is liable in respect of that offence under this article or under an equivalent provision.
 
-## 11. Recovery of fines[^key-2492faad1698810c785a333e7c3fdad5]
+## 11. Recovery of fines[^c-2492faad1698810c785a333e7c3fdad5]
 
 (1) Without prejudice to section 221 of the Criminal Procedure (Scotland) Act 1995[^f00011], where a sheriff court imposes a fine on a person convicted of an offence under this Order or under an equivalent provision, that court may for the purpose of recovering the fine—
 
@@ -321,7 +321,7 @@ The local authority may charge an importer a consignment fee to recover any expe
 
 (4) Where in relation to a fine in respect of an offence under this Order or under an equivalent provision, a transfer of fine order under section 222 of the Criminal Procedure (Scotland) Act 1995[^f00012], section 90 of the Magistrates’ Courts Act 1980[^f00013] or article 95 of the Magistrates’ Courts (Northern Ireland) Order 1981[^f00014] specifies a court of summary jurisdiction in Scotland this article shall apply as if the fine were a fine imposed by that court.
 
-## 12. Powers of British sea-fishery officers in relation to fishing boats[^key-3989cfed7704fc330f46a5333c761a62]
+## 12. Powers of British sea-fishery officers in relation to fishing boats[^c-3989cfed7704fc330f46a5333c761a62]
 
 (1) For the purpose of enforcing this Order or an equivalent provision, a British sea-fishery officer has the powers set out in this article in relation to any fishing boat to which this Order applies.
 
@@ -345,7 +345,7 @@ The local authority may charge an importer a consignment fee to recover any expe
 
 (6) A British sea-fishery officer who detains or requires the detention of a boat must serve on the master a written notice stating that the boat is, or is required to be, detained until the notice is withdrawn by the service on the master of a further written notice signed by a British sea-fishery officer.
 
-## 13. Powers of British sea-fishery officers on land[^key-7d69e8f40083e831759bbfaf830b5420]
+## 13. Powers of British sea-fishery officers on land[^c-7d69e8f40083e831759bbfaf830b5420]
 
 (1) For the purpose of enforcing this Order or an equivalent provision, a British sea-fishery officer may—
 
@@ -362,7 +362,7 @@ The local authority may charge an importer a consignment fee to recover any expe
 
 (2) The provisions of paragraph (1) also apply in relation to any land used in connection with any of the activities described in paragraph (1), or in respect of any vehicle which a British sea-fishery officer has reasonable cause to believe is being used to transport fishery products, as they apply in relation to premises and, in the case of a vehicle, include power to require the vehicle to stop at any time and, if necessary, direct the vehicle to some other place to facilitate the inspection.
 
-## 14. Warrants to enter premises[^key-6e38eda3f6cfdceca928bad76bc39217]
+## 14. Warrants to enter premises[^c-6e38eda3f6cfdceca928bad76bc39217]
 
 (1) A sheriff who by information on oath is satisfied that the circumstances in paragraph (2) apply may by signed warrant, valid for a period of no more than one month, authorise a British sea-fishery officer to enter any premises, if necessary using reasonable force, and to take with that officer such persons as appear to be necessary.
 
@@ -376,14 +376,14 @@ The local authority may charge an importer a consignment fee to recover any expe
   - (iii) the premises are unoccupied; or
   - (iv) the occupier is temporarily absent and it would defeat the object of the entry to await that person’s return.
 
-## 15. Powers of British sea-fishery officers to seize fishery products and fishing gear[^key-8e2317a8fd2284ee6977a1d97eb91e66]
+## 15. Powers of British sea-fishery officers to seize fishery products and fishing gear[^c-8e2317a8fd2284ee6977a1d97eb91e66]
 
 A British sea-fishery officer may seize—
 
 - (a) any fishery product, including any receptacle which contains the fishery product, in respect of which the officer has reasonable grounds to suspect that an offence under this Order or an equivalent provision has been committed; and
 - (b) any net or other fishing gear which the officer has reasonable grounds to suspect has been used in the commission of such offence.
 
-## 16. Protection of officers[^key-7d9c4b2c843a35614d4485e142f5a58d]
+## 16. Protection of officers[^c-7d9c4b2c843a35614d4485e142f5a58d]
 
 (1) An officer is not liable in any civil or criminal proceedings for anything done or omitted to be done in the purported exercise of any of the powers conferred by articles 4 to 6 or 12 to 15 or in carrying out checks and verifications under the Council Regulation or the Commission Regulation if the court is satisfied that—
 
@@ -399,7 +399,7 @@ A British sea-fishery officer may seize—
   - (i) article 12(2) or 13(1)(b); or
   - (ii) a warrant issued under article 14(1).
 
-## 17. Obstruction of officers[^key-908e41302b160a1e954d008a14b03bbc]
+## 17. Obstruction of officers[^c-908e41302b160a1e954d008a14b03bbc]
 
 (1) A person commits an offence if that person—
 
@@ -411,7 +411,7 @@ A British sea-fishery officer may seize—
 
 (2) In paragraph (1), “officer” has the same meaning as set out in article 16(2).
 
-## 18. Offences by bodies corporate[^key-0a32fdceeba0b1eadbd5d35e5b59091c]
+## 18. Offences by bodies corporate[^c-0a32fdceeba0b1eadbd5d35e5b59091c]
 
 (1) Where—
 
@@ -430,7 +430,7 @@ the individual as well as the body corporate, Scottish partnership or unincorpor
 - (b) in relation to a Scottish partnership, a partner; or
 - (c) in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.
 
-## 19. Exchange of information[^key-f6c5a9045ee5351670a33166814d8243]
+## 19. Exchange of information[^c-f6c5a9045ee5351670a33166814d8243]
 
 (1) The Scottish Ministers, the Commissioners or any local authority may exchange information for the purpose of this Order and may divulge information to the enforcement authorities of England, Wales and Northern Ireland for the purposes of this Order or the equivalent provision in those jurisdictions.
 
@@ -444,7 +444,7 @@ the individual as well as the body corporate, Scottish partnership or unincorpor
 - (b) the disclosure is for a purpose other than the purposes specified in paragraph (1); and
 - (c) the Commissioners have not given their prior consent to its disclosure.
 
-## 20. Obtaining samples and analysis[^key-1ff2ec3a26be1d5a7079a6f320a83fb4]
+## 20. Obtaining samples and analysis[^c-1ff2ec3a26be1d5a7079a6f320a83fb4]
 
 (1) An authorised officer may, for the purposes of ascertaining whether any offence under this Order or an equivalent provision has been committed, purchase or take a sample of any fishery product.
 
@@ -468,7 +468,7 @@ is evidence of the facts stated in it unless, in a case falling within sub-parag
 
 (7) In this Order, “public analyst” has the same meaning as in section 27 of the Food Safety Act 1990[^f00015].
 
-## 21. Admissibility of documents in evidence[^key-3abb438e2262684193c3c1f4c0634225]
+## 21. Admissibility of documents in evidence[^c-3abb438e2262684193c3c1f4c0634225]
 
 (1) Any—
 
@@ -550,67 +550,67 @@ A Business and Regulatory Impact Assessment in relation to this Order has been p
 
 [^f00005]: Footnote: OJ L 343, 22.12.2009, p.1.
 
-[^key-e23bd96ed85f16821ab1636b0c7b926b]: Commencement: Art. 1 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
+[^c-e23bd96ed85f16821ab1636b0c7b926b]: Commencement: Art. 1 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
 
-[^key-916c20d1c448f80ff79148f5d74974b0]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/ssi/2013/189/article/1/2)[(2A)](https://www.legislation.gov.uk/ssi/2013/189/article/1/2A) substituted for [art. 1(2)](https://www.legislation.gov.uk/ssi/2013/189/article/1/2) (5.10.2015) by [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [30(2)](https://www.legislation.gov.uk/ssi/2015/320/article/30/2) (with [art. 31(2)](https://www.legislation.gov.uk/ssi/2015/320/article/31/2))
+[^c-916c20d1c448f80ff79148f5d74974b0]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/ssi/2013/189/article/1/2)[(2A)](https://www.legislation.gov.uk/ssi/2013/189/article/1/2A) substituted for [art. 1(2)](https://www.legislation.gov.uk/ssi/2013/189/article/1/2) (5.10.2015) by [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [30(2)](https://www.legislation.gov.uk/ssi/2015/320/article/30/2) (with [art. 31(2)](https://www.legislation.gov.uk/ssi/2015/320/article/31/2))
 
 [^f00006]: Footnote: Section 30(2A) was inserted by the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 ([S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)), Schedule 2, paragraph 68(5)(a).
 
 [^f00007]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-e8f6fc874423995b3ab076921c3b8450]: Commencement: Art. 2 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
+[^c-e8f6fc874423995b3ab076921c3b8450]: Commencement: Art. 2 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
 
 [^f00008]: Footnote: [1968 c.77](https://www.legislation.gov.uk/ukpga/1968/77); section 7 is relevantly amended by the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 ([S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)), Schedule 2, paragraph 48(3); the 1981 Act, section 46; and the Marine and Coastal Access Act [2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23), section 239 and Schedule 22, Part 6.
 
-[^key-6bcbea07464767dede1d211a2cacd3eb]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2013/189/article/2) omitted (31.12.2020) by virtue of [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [11(2)(a)](https://www.legislation.gov.uk/ssi/2019/24/regulation/11/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6bcbea07464767dede1d211a2cacd3eb]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2013/189/article/2) omitted (31.12.2020) by virtue of [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [11(2)(a)](https://www.legislation.gov.uk/ssi/2019/24/regulation/11/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00009]: Footnote: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39).
 
 [^f00010]: Footnote: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46). The sea within British fishery limits (that is, the limits set by or under section 1 of the Fishery Limits Act [1976 (c.86)](https://www.legislation.gov.uk/ukpga/1976/86)) which is adjacent to Scotland is determined by the Scottish Adjacent Waters Boundaries Order 1999 ([S.I. 1999/1126](https://www.legislation.gov.uk/uksi/1999/1126)).
 
-[^key-9917d1981ef650a25d550ac0a9365c1f]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2013/189/article/2) substituted (31.12.2020) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [11(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/11/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9917d1981ef650a25d550ac0a9365c1f]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2013/189/article/2) substituted (31.12.2020) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [11(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/11/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b0f9e6cdd121a0707f2d9d6deb324c97]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2013/189/article/2) inserted (31.12.2020) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [11(2)(c)](https://www.legislation.gov.uk/ssi/2019/24/regulation/11/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b0f9e6cdd121a0707f2d9d6deb324c97]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2013/189/article/2) inserted (31.12.2020) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [11(2)(c)](https://www.legislation.gov.uk/ssi/2019/24/regulation/11/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-738335d746f9be9ffdb491d0ac4ab652]: Commencement: Art. 3 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
+[^c-738335d746f9be9ffdb491d0ac4ab652]: Commencement: Art. 3 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
 
-[^key-41c59cbf832bab049eaa85aaae719321]: Commencement: Art. 4 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
+[^c-41c59cbf832bab049eaa85aaae719321]: Commencement: Art. 4 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
 
-[^key-3a3bd6aadff38a652a782e55d7d788ac]: Commencement: Art. 5 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
+[^c-3a3bd6aadff38a652a782e55d7d788ac]: Commencement: Art. 5 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
 
-[^key-73d84904157d1ee73fd5ff4431203f38]: Commencement: Art. 6 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
+[^c-73d84904157d1ee73fd5ff4431203f38]: Commencement: Art. 6 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
 
-[^key-49feb86084a8afbed8f791d4b5a6503e]: Commencement: Art. 7 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
+[^c-49feb86084a8afbed8f791d4b5a6503e]: Commencement: Art. 7 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
 
-[^key-4fc9ceebdaf2bdd04b76d32631743ee6]: Commencement: Art. 8 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
+[^c-4fc9ceebdaf2bdd04b76d32631743ee6]: Commencement: Art. 8 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
 
-[^key-b8b650b7c20a262f878fe648010f3a74]: Commencement: Art. 9 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
+[^c-b8b650b7c20a262f878fe648010f3a74]: Commencement: Art. 9 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
 
-[^key-3cfcd4a48ce867fef84f9249a4e63f98]: Textual amendment: [Art. 9(4A)](https://www.legislation.gov.uk/ssi/2013/189/article/9/4A) inserted (5.10.2015) by [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [30(3)(a)](https://www.legislation.gov.uk/ssi/2015/320/article/30/3/a) (with [art. 31(2)](https://www.legislation.gov.uk/ssi/2015/320/article/31/2))
+[^c-3cfcd4a48ce867fef84f9249a4e63f98]: Textual amendment: [Art. 9(4A)](https://www.legislation.gov.uk/ssi/2013/189/article/9/4A) inserted (5.10.2015) by [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [30(3)(a)](https://www.legislation.gov.uk/ssi/2015/320/article/30/3/a) (with [art. 31(2)](https://www.legislation.gov.uk/ssi/2015/320/article/31/2))
 
-[^key-90f44fcd290a8e3bfac8b2161f49c7fe]: Textual amendment: Words in [art. 9(4A)](https://www.legislation.gov.uk/ssi/2013/189/article/9/4A) substituted (31.12.2020) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [11(3)(a)](https://www.legislation.gov.uk/ssi/2019/24/regulation/11/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-90f44fcd290a8e3bfac8b2161f49c7fe]: Textual amendment: Words in [art. 9(4A)](https://www.legislation.gov.uk/ssi/2013/189/article/9/4A) substituted (31.12.2020) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [11(3)(a)](https://www.legislation.gov.uk/ssi/2019/24/regulation/11/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2f45dd0234e4c57146f8958aad4a3fc7]: Textual amendment: Words in [art. 9(5)](https://www.legislation.gov.uk/ssi/2013/189/article/9/5) substituted (31.12.2020) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [11(3)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/11/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2f45dd0234e4c57146f8958aad4a3fc7]: Textual amendment: Words in [art. 9(5)](https://www.legislation.gov.uk/ssi/2013/189/article/9/5) substituted (31.12.2020) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [11(3)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/11/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6361f8a28ecdb472e95aced7bc0663f9]: Textual amendment: Words in [art. 9(6)(b)](https://www.legislation.gov.uk/ssi/2013/189/article/9/6/b) substituted (31.12.2020) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [11(3)(c)(i)](https://www.legislation.gov.uk/ssi/2019/24/regulation/11/3/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6361f8a28ecdb472e95aced7bc0663f9]: Textual amendment: Words in [art. 9(6)(b)](https://www.legislation.gov.uk/ssi/2013/189/article/9/6/b) substituted (31.12.2020) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [11(3)(c)(i)](https://www.legislation.gov.uk/ssi/2019/24/regulation/11/3/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2655c9894ca845ee49f89718a82867bd]: Textual amendment: Words in [art. 9(6)(c)](https://www.legislation.gov.uk/ssi/2013/189/article/9/6/c) omitted (31.12.2020) by virtue of [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [11(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/24/regulation/11/3/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2655c9894ca845ee49f89718a82867bd]: Textual amendment: Words in [art. 9(6)(c)](https://www.legislation.gov.uk/ssi/2013/189/article/9/6/c) omitted (31.12.2020) by virtue of [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [11(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/24/regulation/11/3/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-196fc7c80a72a31bb0d7ab1a57bced2b]: Textual amendment: Words in [art. 9(7)](https://www.legislation.gov.uk/ssi/2013/189/article/9/7) substituted (31.12.2020) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [11(3)(d)(i)](https://www.legislation.gov.uk/ssi/2019/24/regulation/11/3/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-196fc7c80a72a31bb0d7ab1a57bced2b]: Textual amendment: Words in [art. 9(7)](https://www.legislation.gov.uk/ssi/2013/189/article/9/7) substituted (31.12.2020) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [11(3)(d)(i)](https://www.legislation.gov.uk/ssi/2019/24/regulation/11/3/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fd16b252855226628045f43fb7bbc7de]: Textual amendment: Words in [art. 9(7)](https://www.legislation.gov.uk/ssi/2013/189/article/9/7) substituted (31.12.2020) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [11(3)(d)(ii)](https://www.legislation.gov.uk/ssi/2019/24/regulation/11/3/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fd16b252855226628045f43fb7bbc7de]: Textual amendment: Words in [art. 9(7)](https://www.legislation.gov.uk/ssi/2013/189/article/9/7) substituted (31.12.2020) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [11(3)(d)(ii)](https://www.legislation.gov.uk/ssi/2019/24/regulation/11/3/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-41e95670e8261331eca7a8cf118303f7]: Textual amendment: Words in [art. 9(8)](https://www.legislation.gov.uk/ssi/2013/189/article/9/8) substituted (31.12.2020) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [11(3)(e)](https://www.legislation.gov.uk/ssi/2019/24/regulation/11/3/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-41e95670e8261331eca7a8cf118303f7]: Textual amendment: Words in [art. 9(8)](https://www.legislation.gov.uk/ssi/2013/189/article/9/8) substituted (31.12.2020) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [11(3)(e)](https://www.legislation.gov.uk/ssi/2019/24/regulation/11/3/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e906d42f86446e2db3a942d656f15d9c]: Textual amendment: [Art. 9(10A)](https://www.legislation.gov.uk/ssi/2013/189/article/9/10A) inserted (5.10.2015) by [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [30(3)(b)](https://www.legislation.gov.uk/ssi/2015/320/article/30/3/b) (with [art. 31(2)](https://www.legislation.gov.uk/ssi/2015/320/article/31/2))
+[^c-e906d42f86446e2db3a942d656f15d9c]: Textual amendment: [Art. 9(10A)](https://www.legislation.gov.uk/ssi/2013/189/article/9/10A) inserted (5.10.2015) by [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [30(3)(b)](https://www.legislation.gov.uk/ssi/2015/320/article/30/3/b) (with [art. 31(2)](https://www.legislation.gov.uk/ssi/2015/320/article/31/2))
 
-[^key-34f01ecae7d48be197cce278c2679dc4]: Textual amendment: Words in [art. 9(10A)](https://www.legislation.gov.uk/ssi/2013/189/article/9/10A) substituted (31.12.2020) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [11(3)(f)](https://www.legislation.gov.uk/ssi/2019/24/regulation/11/3/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-34f01ecae7d48be197cce278c2679dc4]: Textual amendment: Words in [art. 9(10A)](https://www.legislation.gov.uk/ssi/2013/189/article/9/10A) substituted (31.12.2020) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [11(3)(f)](https://www.legislation.gov.uk/ssi/2019/24/regulation/11/3/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2d69b9f797b3cf609094d655e5d99eff]: Textual amendment: Words in [art. 9(11)](https://www.legislation.gov.uk/ssi/2013/189/article/9/11) substituted (31.12.2020) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [11(3)(g)](https://www.legislation.gov.uk/ssi/2019/24/regulation/11/3/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2d69b9f797b3cf609094d655e5d99eff]: Textual amendment: Words in [art. 9(11)](https://www.legislation.gov.uk/ssi/2013/189/article/9/11) substituted (31.12.2020) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [11(3)(g)](https://www.legislation.gov.uk/ssi/2019/24/regulation/11/3/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0796a9c48c729e04b7a09b0f5e83ec90]: Commencement: Art. 10 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
+[^c-0796a9c48c729e04b7a09b0f5e83ec90]: Commencement: Art. 10 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
 
-[^key-2492faad1698810c785a333e7c3fdad5]: Commencement: Art. 11 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
+[^c-2492faad1698810c785a333e7c3fdad5]: Commencement: Art. 11 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
 
 [^f00011]: Footnote: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46); section 221 is amended by the Bankruptcy and Diligence etc. (Scotland) Act [2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), schedule 5, paragraph 23(a) and (b).
 
@@ -620,24 +620,24 @@ A Business and Regulatory Impact Assessment in relation to this Order has been p
 
 [^f00014]: Footnote: [S.I. 1981/1675 (NI 26)](https://www.legislation.gov.uk/nisi/1981/1675).
 
-[^key-3989cfed7704fc330f46a5333c761a62]: Commencement: Art. 12 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
+[^c-3989cfed7704fc330f46a5333c761a62]: Commencement: Art. 12 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
 
-[^key-7d69e8f40083e831759bbfaf830b5420]: Commencement: Art. 13 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
+[^c-7d69e8f40083e831759bbfaf830b5420]: Commencement: Art. 13 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
 
-[^key-6e38eda3f6cfdceca928bad76bc39217]: Commencement: Art. 14 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
+[^c-6e38eda3f6cfdceca928bad76bc39217]: Commencement: Art. 14 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
 
-[^key-8e2317a8fd2284ee6977a1d97eb91e66]: Commencement: Art. 15 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
+[^c-8e2317a8fd2284ee6977a1d97eb91e66]: Commencement: Art. 15 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
 
-[^key-7d9c4b2c843a35614d4485e142f5a58d]: Commencement: Art. 16 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
+[^c-7d9c4b2c843a35614d4485e142f5a58d]: Commencement: Art. 16 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
 
-[^key-908e41302b160a1e954d008a14b03bbc]: Commencement: Art. 17 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
+[^c-908e41302b160a1e954d008a14b03bbc]: Commencement: Art. 17 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
 
-[^key-0a32fdceeba0b1eadbd5d35e5b59091c]: Commencement: Art. 18 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
+[^c-0a32fdceeba0b1eadbd5d35e5b59091c]: Commencement: Art. 18 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
 
-[^key-f6c5a9045ee5351670a33166814d8243]: Commencement: Art. 19 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
+[^c-f6c5a9045ee5351670a33166814d8243]: Commencement: Art. 19 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
 
-[^key-1ff2ec3a26be1d5a7079a6f320a83fb4]: Commencement: Art. 20 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
+[^c-1ff2ec3a26be1d5a7079a6f320a83fb4]: Commencement: Art. 20 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
 
 [^f00015]: Footnote: [1990 c.16](https://www.legislation.gov.uk/ukpga/1990/16). Section 27(2) was amended by the Food Standards Act [1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28), section 40(1) and Schedule 5, paragraphs 7 and 8. There are further amendments not relevant to this Order.
 
-[^key-3abb438e2262684193c3c1f4c0634225]: Commencement: Art. 21 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)
+[^c-3abb438e2262684193c3c1f4c0634225]: Commencement: Art. 21 in force at 29.6.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/189/article/1/1)

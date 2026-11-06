@@ -166,8 +166,8 @@ In this Part, “**existing licence**” has the meaning given in section 49(5) 
 
 - (a) in clauses or parts of clauses corresponding to clause 1(1) of the relevant Schedule, in the definition of “Block”, for the words “London, SW1” there were substituted “ Glasgow, G2 8LU ”;
 - (b) in clauses or parts of clauses corresponding to clauses 4(1)(a) or 5(1) of the relevant Schedule, the words “to payment of those sums hereinafter provided for and” were omitted;
-- (c)[^key-3d7cd71a38f8dac353e05db9d124cba8] clauses or parts of clauses corresponding to clauses 9, 25(5), 31, 32 or 36(2)(a) of the relevant Schedule were omitted;
-- (d)[^key-10fc69e235f07702f5c2e8a9c756db2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-3d7cd71a38f8dac353e05db9d124cba8] clauses or parts of clauses corresponding to clauses 9, 25(5), 31, 32 or 36(2)(a) of the relevant Schedule were omitted;
+- (d)[^c-10fc69e235f07702f5c2e8a9c756db2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) except in the definition of “the OGA”, references to “the OGA” (including references having effect as such), “the Secretary of State” or “the Minister” were references to “the Scottish Ministers”.
 
 (2) Any existing licence has effect as if the clauses in Schedule 3 to these Regulations were incorporated in the licence.
@@ -205,7 +205,7 @@ In this Part, “**existing licence**” has the meaning given in section 49(5) 
   - (ii) in clauses 5(1)(a) and 7(1), the words “to payment of those sums hereinafter provided for and” were omitted;
   - (iii) in clause 6(2), the words “to payment of the sums specified in Schedule 2 and” were omitted;
   - (iv) in clause 20(11), the reference to “OGA” were a reference to “Scottish Ministers or the Secretary of State”;
-  - (v)[^key-c0dd3079a1a02b46706390d5da1d93f8] the following were omitted—
+  - (v)[^c-c0dd3079a1a02b46706390d5da1d93f8] the following were omitted—
     - (aa) clause 12;
     - (bb) clause 30(5);
     - (cc) clauses 36 and 37;
@@ -449,9 +449,9 @@ A full regulatory impact assessment has not been produced for these Regulations 
 
 [^c22922211]: Marginal citation: [2016 c.11](https://www.legislation.gov.uk/ukpga/2016/11). “Existing licence” is defined in s49(5) as a licence granted, before the commencement of section 47, under section 3 of the Petroleum Act 1998, or section 2 of the Petroleum (Production) Act 1934, in respect of an area all or part of which is within the Scottish onshore area, within the meaning given by Section D2 of Part 2 of Schedule 5 to the Scotland Act 1998.
 
-[^key-3d7cd71a38f8dac353e05db9d124cba8]: Textual amendment: [Reg. 7(1)(c)](https://www.legislation.gov.uk/uksi/2018/56/regulation/7/1/c) substituted (1.10.2018) by [The Scotland Act 2016, Wales Act 2017 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/980)](https://www.legislation.gov.uk/uksi/2018/980), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/980/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2018/980/regulation/7/2) (with [reg. 16](https://www.legislation.gov.uk/uksi/2018/980/regulation/16))
+[^c-3d7cd71a38f8dac353e05db9d124cba8]: Textual amendment: [Reg. 7(1)(c)](https://www.legislation.gov.uk/uksi/2018/56/regulation/7/1/c) substituted (1.10.2018) by [The Scotland Act 2016, Wales Act 2017 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/980)](https://www.legislation.gov.uk/uksi/2018/980), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/980/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2018/980/regulation/7/2) (with [reg. 16](https://www.legislation.gov.uk/uksi/2018/980/regulation/16))
 
-[^key-10fc69e235f07702f5c2e8a9c756db2f]: Textual amendment: [Reg. 7(1)(d)](https://www.legislation.gov.uk/uksi/2018/56/regulation/7/1/d) omitted (1.10.2018) by virtue of [The Scotland Act 2016, Wales Act 2017 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/980)](https://www.legislation.gov.uk/uksi/2018/980), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/980/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2018/980/regulation/7/3) (with [reg. 16](https://www.legislation.gov.uk/uksi/2018/980/regulation/16))
+[^c-10fc69e235f07702f5c2e8a9c756db2f]: Textual amendment: [Reg. 7(1)(d)](https://www.legislation.gov.uk/uksi/2018/56/regulation/7/1/d) omitted (1.10.2018) by virtue of [The Scotland Act 2016, Wales Act 2017 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/980)](https://www.legislation.gov.uk/uksi/2018/980), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/980/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2018/980/regulation/7/3) (with [reg. 16](https://www.legislation.gov.uk/uksi/2018/980/regulation/16))
 
 [^c22922221]: Marginal citation: [S.I. 2004/352](https://www.legislation.gov.uk/uksi/2004/352), amended by section 77 of, and paragraph 20 of Schedule 3 to, [Energy Act 2008 (c.32)](https://www.legislation.gov.uk/ukpga/2008/32), [S.I](https://www.legislation.gov.uk/ukpga/2008/32/section/I). 2006/784, [S.I. 2009/229](https://www.legislation.gov.uk/uksi/2009/229) and [S.I. 2009/3283](https://www.legislation.gov.uk/uksi/2009/3283). Schedule 6 is disapplied by regulation 2(2) of [S.I. 2014/1686](https://www.legislation.gov.uk/uksi/2014/1686) in relation to any licence granted on or after the commencement of that instrument.
 
@@ -459,7 +459,7 @@ A full regulatory impact assessment has not been produced for these Regulations 
 
 [^c22922241]: Marginal citation: Section 8A(2), inserted by s48(16) Scotland Act 2016 (on a date to be appointed), provides that in relation to the Scottish onshore area, the Scottish Ministers are the “appropriate Minister” for purposes of s4(1) (as amended by s48(6) on a date to be appointed).
 
-[^key-c0dd3079a1a02b46706390d5da1d93f8]: Textual amendment: [Reg. 9(4)(b)(v)](https://www.legislation.gov.uk/uksi/2018/56/regulation/9/4/b/v) substituted (1.10.2018) by [The Scotland Act 2016, Wales Act 2017 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/980)](https://www.legislation.gov.uk/uksi/2018/980), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/980/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2018/980/regulation/7/4) (with [reg. 16](https://www.legislation.gov.uk/uksi/2018/980/regulation/16))
+[^c-c0dd3079a1a02b46706390d5da1d93f8]: Textual amendment: [Reg. 9(4)(b)(v)](https://www.legislation.gov.uk/uksi/2018/56/regulation/9/4/b/v) substituted (1.10.2018) by [The Scotland Act 2016, Wales Act 2017 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/980)](https://www.legislation.gov.uk/uksi/2018/980), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/980/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2018/980/regulation/7/4) (with [reg. 16](https://www.legislation.gov.uk/uksi/2018/980/regulation/16))
 
 [^c22922251]: Marginal citation: The “OGA” is defined as the Oil and Gas Authority in section 1(4) of the [Energy Act 2016 (c.20)](https://www.legislation.gov.uk/ukpga/2016/20).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Recovery of payments[^key-70c855fd5e5d3804882ae06743db60ee]
+## 117. Recovery of payments[^c-70c855fd5e5d3804882ae06743db60ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The scheme manager may recover a lump sum death benefit paid to any person if th
 
 ## Annotations
 
-[^key-70c855fd5e5d3804882ae06743db60ee]: Commencement: [Reg. 117](https://www.legislation.gov.uk/uksi/2015/182/regulation/117) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-70c855fd5e5d3804882ae06743db60ee]: Commencement: [Reg. 117](https://www.legislation.gov.uk/uksi/2015/182/regulation/117) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

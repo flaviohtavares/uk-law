@@ -32,7 +32,7 @@ summary: ''
 - (g) to a highway of a description not mentioned in any of the preceding paragraphs of this definition whose use by vehicular traffic is prohibited by a traffic order but whose use by other traffic is not prohibited or restricted or regulated by such an order; and
 - (h) to a local Act walkway.
 
-(2)[^key-feaebfbc138f3a31c596b19d791e133a] In this Part of this Act—
+(2)[^c-feaebfbc138f3a31c596b19d791e133a] In this Part of this Act—
 
 - “**local Act walkway**” means a way or place which is declared in pursuance of a local enactment to be a walkway, city walkway or pedestrian way;
 - “**pedestrian planning order**” means an order made under section 249(2)[^c13423201] or (2A)[^c18515841] of the Town and Country Planning Act 1990; and
@@ -52,7 +52,7 @@ summary: ''
 
 (4) In the following provisions of this Part of this Act “**walkway**” includes both a walkway as defined in section 35(2) above and a local Act walkway.
 
-(5)[^key-67dae138cab65cf018ebc8ec0f4bcf9a] Any reference in this Part of this Act to a highway to which this Part of this Act applies includes a reference to a local Act walkway which but for this subsection—
+(5)[^c-67dae138cab65cf018ebc8ec0f4bcf9a] Any reference in this Part of this Act to a highway to which this Part of this Act applies includes a reference to a local Act walkway which but for this subsection—
 
 - (a) is not a highway; or
 - (b) is a highway only for certain purposes.
@@ -71,7 +71,7 @@ summary: ''
 
 [^M_F_4f0691b2-f2ec-4096-e93c-5f9b2395dfe5]: Textual amendment: S. 115A(1)(aa) inserted (2.5.2006 for E. and 11.5.2006 for W.) by [The Restricted Byways (Application and Consequential Amendment of Provisions) Regulations 2006 (S.I. 2006/1177)](https://www.legislation.gov.uk/uksi/2006/1177), [regs. 1(2)(4)](https://www.legislation.gov.uk/uksi/2006/1177/regulation/1/2/4), [2](https://www.legislation.gov.uk/uksi/2006/1177/regulation/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2006/1177/schedule/part/1); [S.I. 2006/1172](https://www.legislation.gov.uk/uksi/2006/1172), [art. 2(a)-(d)](https://www.legislation.gov.uk/uksi/2006/1172/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/1172/article/3)); [S.I. 2006/1279](https://www.legislation.gov.uk/uksi/2006/1279), [art. 2(a)-(d)](https://www.legislation.gov.uk/uksi/2006/1279/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/1279/article/3))
 
-[^key-feaebfbc138f3a31c596b19d791e133a]: Modification: S. 115A(2) modified (temp.) (22.7.2020) by [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 9(3)](https://www.legislation.gov.uk/ukpga/2020/16/section/9/3), [25(1)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/1) (with [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2020/16/section/7/4), [10](https://www.legislation.gov.uk/ukpga/2020/16/section/10))
+[^c-feaebfbc138f3a31c596b19d791e133a]: Modification: S. 115A(2) modified (temp.) (22.7.2020) by [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 9(3)](https://www.legislation.gov.uk/ukpga/2020/16/section/9/3), [25(1)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/1) (with [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2020/16/section/7/4), [10](https://www.legislation.gov.uk/ukpga/2020/16/section/10))
 
 [^c13423201]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123: 1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 45(6)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/45/6)
 
@@ -79,4 +79,4 @@ summary: ''
 
 [^c13423211]: Textual amendment: Words substituted by [Road Traffic Regulation Act 1984 (c. 27, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1984/27), [s. 146](https://www.legislation.gov.uk/ukpga/1984/27/section/146), [Sch. 13 para. 44](https://www.legislation.gov.uk/ukpga/1984/27/schedule/13/paragraph/44)
 
-[^key-67dae138cab65cf018ebc8ec0f4bcf9a]: Modification: S. 115A(5) applied (temp.) (22.7.2020) by [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 9(4)](https://www.legislation.gov.uk/ukpga/2020/16/section/9/4), [25(1)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/1) (with [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2020/16/section/7/4), [10](https://www.legislation.gov.uk/ukpga/2020/16/section/10))
+[^c-67dae138cab65cf018ebc8ec0f4bcf9a]: Modification: S. 115A(5) applied (temp.) (22.7.2020) by [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 9(4)](https://www.legislation.gov.uk/ukpga/2020/16/section/9/4), [25(1)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/1) (with [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2020/16/section/7/4), [10](https://www.legislation.gov.uk/ukpga/2020/16/section/10))

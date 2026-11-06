@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Paying for sexual services of a prostitute subjected to force etc: Northern Ireland[^key-04ea85b442d7ed640a06c3bde94ba7ea]
+## 15. Paying for sexual services of a prostitute subjected to force etc: Northern Ireland[^c-04ea85b442d7ed640a06c3bde94ba7ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-04ea85b442d7ed640a06c3bde94ba7ea]: Textual amendment: [S. 15](https://www.legislation.gov.uk/ukpga/2009/26/section/15) repealed (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 5](https://www.legislation.gov.uk/nia/2015/2/schedule/5)
+[^c-04ea85b442d7ed640a06c3bde94ba7ea]: Textual amendment: [S. 15](https://www.legislation.gov.uk/ukpga/2009/26/section/15) repealed (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 5](https://www.legislation.gov.uk/nia/2015/2/schedule/5)

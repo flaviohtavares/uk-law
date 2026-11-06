@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Considerations for a review of principal area electoral arrangements[^key-2614d5eb8197a78317fc535df435e94d]
+## 40. Considerations for a review of principal area electoral arrangements[^c-2614d5eb8197a78317fc535df435e94d]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2614d5eb8197a78317fc535df435e94d]: Commencement: [S. 40](https://www.legislation.gov.uk/asc/2024/5/section/40) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)
+[^c-2614d5eb8197a78317fc535df435e94d]: Commencement: [S. 40](https://www.legislation.gov.uk/asc/2024/5/section/40) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)

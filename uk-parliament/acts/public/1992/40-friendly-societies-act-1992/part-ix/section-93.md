@@ -34,7 +34,7 @@ summary: ''
 (5) Before the end of the transitional period each existing friendly society shall—
 
 - (a) by special resolution agree upon the alterations to be made to its rules so that they conform to this Act and the 1974 Act; and
-- (b) send to the FCA[^key-00cab5bc456b2aab7f26d02894cb1a03] three[^c15386471] copies of the rules as altered each signed by the secretary and accompanied by a statutory declaration by the secretary that that agreement was effected by a resolution passed as a special resolution.
+- (b) send to the FCA[^c-00cab5bc456b2aab7f26d02894cb1a03] three[^c15386471] copies of the rules as altered each signed by the secretary and accompanied by a statutory declaration by the secretary that that agreement was effected by a resolution passed as a special resolution.
 
 (6) On agreeing upon any such alteration to its rules a society shall, subject to subsection (7) below, determine the date on which the society intends it to take effect, and any alteration to the society’s rules sent to the FCA shall be accompanied by a record specifying that date (in this paragraph referred to as “**the specified date**”).
 
@@ -76,7 +76,7 @@ and the rules so registered shall be for all purposes the rules of the society u
 
 [^c15386451]: Marginal citation: [1974 c.46](https://www.legislation.gov.uk/ukpga/1974/46)
 
-[^key-00cab5bc456b2aab7f26d02894cb1a03]: Textual amendment: Word in [s. 93](https://www.legislation.gov.uk/ukpga/1992/40/section/93) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 41](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/41) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-00cab5bc456b2aab7f26d02894cb1a03]: Textual amendment: Word in [s. 93](https://www.legislation.gov.uk/ukpga/1992/40/section/93) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 41](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/41) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15386471]: Textual amendment: Word in [s. 93(5)(b)](https://www.legislation.gov.uk/ukpga/1992/40/section/93/5/b) substituted (1.8.1996) by [S.I. 1996/1188](https://www.legislation.gov.uk/uksi/1996/1188) art. 5
 

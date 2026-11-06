@@ -91,7 +91,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 31 — Transfer of staff, property etc.](part-1/section-31.md)
 - [Section 32 — Interpretation of Chapter 1](part-1/section-32.md)
 
-#### Chapter 2 — Complaints and misconduct[^key-1cd82cb87abd95845781ca30bed48ff5]
+#### Chapter 2 — Complaints and misconduct[^c-1cd82cb87abd95845781ca30bed48ff5]
 
 *Extent: S*
 
@@ -116,7 +116,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 40A — Arrangements for handling relevant complaints and investigation of whistleblowing complaints](part-1/section-40a.md)
 - [Section 41 — Appropriate authority in relation to a complaint](part-1/section-41.md)
 
-##### Investigations[^key-148e1f449ac5f16da47ac64b85ea6eca]
+##### Investigations[^c-148e1f449ac5f16da47ac64b85ea6eca]
 
 - [Section 41A — Investigations under supervision of Lord Advocate or procurator fiscal](part-1/section-41a.md)
 - [Section 41B — Serious incidents involving the police](part-1/section-41b.md)
@@ -135,7 +135,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 46 — Disclosure of information by and to the Commissioner](part-1/section-46.md)
 - [Section 46A — Protection from actions for defamation](part-1/section-46a.md)
 
-##### Advisory board[^key-ab7582531e50e397f8a2fb3ac9b4fcfc]
+##### Advisory board[^c-ab7582531e50e397f8a2fb3ac9b4fcfc]
 
 - [Section 46B — Advisory board](part-1/section-46b.md)
 
@@ -286,10 +286,10 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-1cd82cb87abd95845781ca30bed48ff5]: Modification: Pt. 1 Ch. 2 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) OrderÂ 2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [16](https://www.legislation.gov.uk/ssi/2013/121/article/16)
+[^c-1cd82cb87abd95845781ca30bed48ff5]: Modification: Pt. 1 Ch. 2 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) OrderÂ 2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [16](https://www.legislation.gov.uk/ssi/2013/121/article/16)
 
 [^M_F_ba4642dc-c233-4a60-b582-faf99501d28d]: Textual amendment: S. 33 heading substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), ss. 61(2)(a) , [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) (with [s. 100](https://www.legislation.gov.uk/asp/2012/8/section/100)); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-148e1f449ac5f16da47ac64b85ea6eca]: Textual amendment: S. 41A and cross-heading inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 63](https://www.legislation.gov.uk/asp/2012/8/section/63), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) (with [s. 100](https://www.legislation.gov.uk/asp/2012/8/section/100)); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121), arts. 1(1), 11)
+[^c-148e1f449ac5f16da47ac64b85ea6eca]: Textual amendment: S. 41A and cross-heading inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 63](https://www.legislation.gov.uk/asp/2012/8/section/63), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) (with [s. 100](https://www.legislation.gov.uk/asp/2012/8/section/100)); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121), arts. 1(1), 11)
 
-[^key-ab7582531e50e397f8a2fb3ac9b4fcfc]: Textual amendment: [S. 46B](https://www.legislation.gov.uk/asp/2006/10/section/46B) and cross-heading inserted (25.6.2025) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 20](https://www.legislation.gov.uk/asp/2025/5/section/20), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(n)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/n)
+[^c-ab7582531e50e397f8a2fb3ac9b4fcfc]: Textual amendment: [S. 46B](https://www.legislation.gov.uk/asp/2006/10/section/46B) and cross-heading inserted (25.6.2025) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 20](https://www.legislation.gov.uk/asp/2025/5/section/20), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(n)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/n)

@@ -46,13 +46,13 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 107(1) and (2) of the Courts Reform (Scotland) Act 2014[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and effect[^key-701c2bc9f75e2a5b77be9a2b508d95d4]
+## 1. Citation, commencement and effect[^c-701c2bc9f75e2a5b77be9a2b508d95d4]
 
 (1) This Order may be cited as the Justice of the Peace Court Fees (Scotland) Order 2026 and, subject to paragraph (2), comes into force on 1 April 2026.
 
 (2) Article 2(1)(b) and schedule 2 take effect, and article 2(1)(a) and schedule 1 cease to have effect, on 1 April 2027.
 
-## 2. Fees payable in justice of the peace courts[^key-2064d1028e9b7bf733d53d69cee118e7]
+## 2. Fees payable in justice of the peace courts[^c-2064d1028e9b7bf733d53d69cee118e7]
 
 (1) Subject to paragraph (3) and articles 3 and 4—
 
@@ -68,7 +68,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 - (a) the payment of that fee, or
 - (b) an arrangement being entered into for payment of that fee.
 
-## 3. Exemption of certain persons from fees: legal aid[^key-be2d2ef644f2a1ab08faf4f339856e15]
+## 3. Exemption of certain persons from fees: legal aid[^c-be2d2ef644f2a1ab08faf4f339856e15]
 
 (1) A fee specified by this Order is not payable by a person if—
 
@@ -80,7 +80,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 (3) In this article, “**the 1986 Act**” means the Legal Aid (Scotland) Act 1986[^f00003].
 
-## 4. Exemption of certain persons from fees: social security[^key-f127901adc53532191883220ce04ae08]
+## 4. Exemption of certain persons from fees: social security[^c-f127901adc53532191883220ce04ae08]
 
 (1) A fee specified by this Order is not payable by a person if—
 
@@ -103,7 +103,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 - “**the 2012 Act**” means the Welfare Reform Act 2012[^f00012],
 - “**partner**” means a person to whom a person is married or with whom the person is in a civil partnership.
 
-## 5. Revocation[^key-324c5ed1c2c1e081300de9fc1b89ca68]
+## 5. Revocation[^c-324c5ed1c2c1e081300de9fc1b89ca68]
 
 The Justice of the Peace Court Fees (Scotland) Order 2024[^f00013] is revoked.
 
@@ -117,7 +117,7 @@ Edinburgh
 
 11th February 2026
 
-## Schedule 1 — Table of Fees[^key-fa95dbd2e947554af59b786357374bb8]
+## Schedule 1 — Table of Fees[^c-fa95dbd2e947554af59b786357374bb8]
 
 Article 2(1)(a)
 
@@ -137,7 +137,7 @@ Payable from 1 April 2026
 | In addition, correspondence fee where applicable. | 16 | 15 |
 | 5\. Petition for removal of disqualification from driving. | 114 | 111 |
 
-## Schedule 2 — Table of Fees[^key-88af54de10675cca017b60263df0e37d]
+## Schedule 2 — Table of Fees[^c-88af54de10675cca017b60263df0e37d]
 
 Article 2(1)(b)
 
@@ -180,17 +180,17 @@ Article 5 revokes the Justice of the Peace Court Fees (Scotland) Order 2024 ([S.
 
 [^f00001]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18). The definition of “relevant officer” in section 107(3) was amended by [S.S.I. 2016/387](https://www.legislation.gov.uk/ssi/2016/387).
 
-[^key-701c2bc9f75e2a5b77be9a2b508d95d4]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2026/78/article/1) in force at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/ssi/2026/78/article/1)
+[^c-701c2bc9f75e2a5b77be9a2b508d95d4]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2026/78/article/1) in force at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/ssi/2026/78/article/1)
 
-[^key-2064d1028e9b7bf733d53d69cee118e7]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2026/78/article/2) in force at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/ssi/2026/78/article/1)
+[^c-2064d1028e9b7bf733d53d69cee118e7]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2026/78/article/2) in force at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/ssi/2026/78/article/1)
 
-[^key-be2d2ef644f2a1ab08faf4f339856e15]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2026/78/article/3) in force at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/ssi/2026/78/article/1)
+[^c-be2d2ef644f2a1ab08faf4f339856e15]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2026/78/article/3) in force at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/ssi/2026/78/article/1)
 
 [^f00002]: Footnote: [1986 c. 47](https://www.legislation.gov.uk/ukpga/1986/47). Section 13(2) was amended by paragraph 36 of schedule 8 and schedule 9 of the Law Reform (Miscellaneous Provisions) (Scotland) Act [1990 (c. 40)](https://www.legislation.gov.uk/ukpga/1990/40).
 
 [^f00003]: Footnote: [1986 c. 47](https://www.legislation.gov.uk/ukpga/1986/47).
 
-[^key-f127901adc53532191883220ce04ae08]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2026/78/article/4) in force at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/ssi/2026/78/article/1)
+[^c-f127901adc53532191883220ce04ae08]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2026/78/article/4) in force at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/ssi/2026/78/article/1)
 
 [^f00004]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 124, which provides for income support, was amended by paragraph 30 of schedule 2 and schedule 3 of the Jobseekers Act [1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18), paragraph 28 of schedule 8 of the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), paragraph 2 of schedule 2 and schedule 3 of the State Pension Credit Act [2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), paragraph 42 of schedule 24 of the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), paragraph 9 of schedule 3 and schedule 8 of the Welfare Reform Act [2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), section 3 of the Welfare Reform Act [2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), and section 58 and schedule 14 of the Welfare Reform Act [2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5).
 
@@ -210,17 +210,17 @@ Article 5 revokes the Justice of the Peace Court Fees (Scotland) Order 2024 ([S.
 
 [^f00012]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-324c5ed1c2c1e081300de9fc1b89ca68]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2026/78/article/5) in force at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/ssi/2026/78/article/1)
+[^c-324c5ed1c2c1e081300de9fc1b89ca68]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2026/78/article/5) in force at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/ssi/2026/78/article/1)
 
 [^f00013]: Footnote: [S.S.I. 2024/239](https://www.legislation.gov.uk/ssi/2024/239).
 
-[^key-fa95dbd2e947554af59b786357374bb8]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2026/78/schedule/1) in force at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/ssi/2026/78/article/1)
+[^c-fa95dbd2e947554af59b786357374bb8]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2026/78/schedule/1) in force at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/ssi/2026/78/article/1)
 
 [^f00014]: Footnote: Column 3 shows the fees which were payable by virtue of schedule 3 of [S.S.I. 2024/239](https://www.legislation.gov.uk/ssi/2024/239) immediately before the coming into force of this schedule.
 
 [^f00015]: Footnote: [1982 c. 45](https://www.legislation.gov.uk/ukpga/1982/45), as relevantly amended by paragraph 35(2) of schedule 2 of the Criminal Justice and Licensing (Scotland) Act [2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13).
 
-[^key-88af54de10675cca017b60263df0e37d]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2026/78/schedule/2) in force at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/ssi/2026/78/article/1)
+[^c-88af54de10675cca017b60263df0e37d]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2026/78/schedule/2) in force at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/ssi/2026/78/article/1)
 
 [^f00016]: Footnote: Column 3 shows the fees which were payable by virtue of schedule 1 of this Order immediately before the coming into force of this schedule.
 

@@ -26,7 +26,7 @@ summary: ''
 - (b) set out the conclusions of the review in a report; and
 - (c) publish the report.
 
-(2) In carrying out a review the Department must, so far as is reasonable, have regard to how the EU Regulation is enforced in member States[^key-e7fdc5c6d46c9bfbded6350d6437a471] .
+(2) In carrying out a review the Department must, so far as is reasonable, have regard to how the EU Regulation is enforced in member States[^c-e7fdc5c6d46c9bfbded6350d6437a471] .
 
 (3) The report must in particular—
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7fdc5c6d46c9bfbded6350d6437a471]: Textual amendment: Words in [reg. 38(2)](https://www.legislation.gov.uk/nisr/2014/107/regulation/38/2) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [19(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/19/3)
+[^c-e7fdc5c6d46c9bfbded6350d6437a471]: Textual amendment: Words in [reg. 38(2)](https://www.legislation.gov.uk/nisr/2014/107/regulation/38/2) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [19(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/19/3)

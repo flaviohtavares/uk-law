@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 197. Service of court documents within the jurisdiction[^key-e80e40f89b41b5165044c3d526373322]
+## 197. Service of court documents within the jurisdiction[^c-e80e40f89b41b5165044c3d526373322]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Except where different provision is made in the Regulations or these Rules, CPR 
 
 ## Annotations
 
-[^key-e80e40f89b41b5165044c3d526373322]: Commencement: Rule 197 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-e80e40f89b41b5165044c3d526373322]: Commencement: Rule 197 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

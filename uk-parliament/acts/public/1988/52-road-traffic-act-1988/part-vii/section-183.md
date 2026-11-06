@@ -30,7 +30,7 @@ summary: ''
 
 apply to vehicles and persons in the public service of the Crown.
 
-(2) Sections 49 to 63 and section 65[^key-52a571f82289e502d31f65a9679b71c9] of this Act apply—
+(2) Sections 49 to 63 and section 65[^c-52a571f82289e502d31f65a9679b71c9] of this Act apply—
 
 - (a) to vehicles in the public service of the Crown only if they are registered or liable to be registered under the vehicle Excise and Registration Act 1994[^c13999331], and
 - (b) to trailers in the public service of the Crown only while drawn by vehicles (whether or not in the public service of the Crown) which are required to be so registered.
@@ -60,7 +60,7 @@ apply to vehicles and persons in the public service of the Crown.
 
 [^c13999311]: Textual amendment: Words in s. 183(1)(c) repealed (E.W.) (1.10.2002) by [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30), [s. 107](https://www.legislation.gov.uk/ukpga/2002/30/section/107), [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2002/30/schedule/7/paragraph/12), [Sch. 8](https://www.legislation.gov.uk/ukpga/2002/30/schedule/8); [S.I. 2002/2306](https://www.legislation.gov.uk/uksi/2002/2306), [art. 2(g)(i)-(iii)](https://www.legislation.gov.uk/uksi/2002/2306/article/2/g/i)(a)
 
-[^key-52a571f82289e502d31f65a9679b71c9]: Textual amendment: Words in [s. 183(2)](https://www.legislation.gov.uk/ukpga/1988/52/section/183/2) substituted (20.5.2018) by [The Motorcycles (Type-Approval) Regulations 2018 (S.I. 2018/235)](https://www.legislation.gov.uk/uksi/2018/235), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/235/regulation/1/b), [Sch. 2 para. 1(6)](https://www.legislation.gov.uk/uksi/2018/235/schedule/2/paragraph/1/6) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2018/235/regulation/1/c), [Sch. 1 paras. 16](https://www.legislation.gov.uk/uksi/2018/235/schedule/1/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2018/235/schedule/1/paragraph/17))
+[^c-52a571f82289e502d31f65a9679b71c9]: Textual amendment: Words in [s. 183(2)](https://www.legislation.gov.uk/ukpga/1988/52/section/183/2) substituted (20.5.2018) by [The Motorcycles (Type-Approval) Regulations 2018 (S.I. 2018/235)](https://www.legislation.gov.uk/uksi/2018/235), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/235/regulation/1/b), [Sch. 2 para. 1(6)](https://www.legislation.gov.uk/uksi/2018/235/schedule/2/paragraph/1/6) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2018/235/regulation/1/c), [Sch. 1 paras. 16](https://www.legislation.gov.uk/uksi/2018/235/schedule/1/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2018/235/schedule/1/paragraph/17))
 
 [^c13999331]: Textual amendment: Words in s. 183(2)(a) substituted (1.9.1994) by [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22) ss. 63, 66(1), Sch. 3 para. 24(1) (with s. 57(4))
 

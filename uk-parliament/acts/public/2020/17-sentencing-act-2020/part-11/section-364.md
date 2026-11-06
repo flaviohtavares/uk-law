@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 364. Restraining orders: meaning of “conduct” and “harassment”[^key-20624806449e248ee7bbda4debcc5d10]
+## 364. Restraining orders: meaning of “conduct” and “harassment”[^c-20624806449e248ee7bbda4debcc5d10]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ For the purposes of this Chapter—
 
 ## Annotations
 
-[^key-20624806449e248ee7bbda4debcc5d10]: Commencement: S. 364 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-20624806449e248ee7bbda4debcc5d10]: Commencement: S. 364 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

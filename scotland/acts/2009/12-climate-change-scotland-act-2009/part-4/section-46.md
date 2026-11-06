@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Reporting on climate change duties[^key-ac04a64fcf1fe124daa0b93b46a48806]
+## 46. Reporting on climate change duties[^c-ac04a64fcf1fe124daa0b93b46a48806]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ have contributed to compliance with climate change duties.
 
 ## Annotations
 
-[^key-ac04a64fcf1fe124daa0b93b46a48806]: Commencement: S. 46 in force at 1.1.2011 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(4)](https://www.legislation.gov.uk/ssi/2009/341/article/2/4)
+[^c-ac04a64fcf1fe124daa0b93b46a48806]: Commencement: S. 46 in force at 1.1.2011 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(4)](https://www.legislation.gov.uk/ssi/2009/341/article/2/4)

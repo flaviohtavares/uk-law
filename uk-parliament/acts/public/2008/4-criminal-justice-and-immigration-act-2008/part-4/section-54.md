@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Trial or sentencing in absence of accused in magistrates' courts[^key-8953ca4b960c52c9f042463984639555]
+## 54. Trial or sentencing in absence of accused in magistrates' courts[^c-8953ca4b960c52c9f042463984639555]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8953ca4b960c52c9f042463984639555]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2008/4/section/54) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/28)
+[^c-8953ca4b960c52c9f042463984639555]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2008/4/section/54) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/28)

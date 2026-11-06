@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Meaning of “mine”[^key-d2c9c867ac12268fae36dd7cc27c422b]
+## 3. Meaning of “mine”[^c-d2c9c867ac12268fae36dd7cc27c422b]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2c9c867ac12268fae36dd7cc27c422b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/3248/regulation/3) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-d2c9c867ac12268fae36dd7cc27c422b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/3248/regulation/3) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

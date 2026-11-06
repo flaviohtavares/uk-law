@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41B. Ships licences[^key-d582d39d93327943088e604877a010ec]
+## 41B. Ships licences[^c-d582d39d93327943088e604877a010ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The prohibitions in regulation 36F(1) and (2) (prohibition on chartering or oper
 
 ## Annotations
 
-[^key-d582d39d93327943088e604877a010ec]: Textual amendment: [Regs. 41A](https://www.legislation.gov.uk/uksi/2019/461/regulation/41A), [41B](https://www.legislation.gov.uk/uksi/2019/461/regulation/41B) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [9(f)](https://www.legislation.gov.uk/uksi/2026/983/regulation/9/f)
+[^c-d582d39d93327943088e604877a010ec]: Textual amendment: [Regs. 41A](https://www.legislation.gov.uk/uksi/2019/461/regulation/41A), [41B](https://www.legislation.gov.uk/uksi/2019/461/regulation/41B) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [9(f)](https://www.legislation.gov.uk/uksi/2026/983/regulation/9/f)

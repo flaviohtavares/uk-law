@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Directions to enforcing authorities[^key-9ed03a197bc45c633a49e59f90dba82e]
+## 40. Directions to enforcing authorities[^c-9ed03a197bc45c633a49e59f90dba82e]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ed03a197bc45c633a49e59f90dba82e]: Commencement: Reg. 40 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-9ed03a197bc45c633a49e59f90dba82e]: Commencement: Reg. 40 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Registration[^key-93b21d1350c375725941d3f147649b79]
+## 38. Registration[^c-93b21d1350c375725941d3f147649b79]
 
 *Extent: E+W*
 
@@ -368,4 +368,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93b21d1350c375725941d3f147649b79]: Commencement: S. 38 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(3)(5)
+[^c-93b21d1350c375725941d3f147649b79]: Commencement: S. 38 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(3)(5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E26. Counting of non-contributing service[^key-1c06c6abba838ae5b010e316f375e079]
+## E26. Counting of non-contributing service[^c-1c06c6abba838ae5b010e316f375e079]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ shall for the purposes of these regulations be counted at half its full length.
 
 ## Annotations
 
-[^key-1c06c6abba838ae5b010e316f375e079]: Commencement: [Reg. E26](https://www.legislation.gov.uk/uksi/1986/24/regulation/E26) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-1c06c6abba838ae5b010e316f375e079]: Commencement: [Reg. E26](https://www.legislation.gov.uk/uksi/1986/24/regulation/E26) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

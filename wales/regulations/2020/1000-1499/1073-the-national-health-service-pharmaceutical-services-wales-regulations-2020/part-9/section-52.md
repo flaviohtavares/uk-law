@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Payment withholdings: supplementary matters[^key-44733b093ea4316b35a754a49b125ce2]
+## 52. Payment withholdings: supplementary matters[^c-44733b093ea4316b35a754a49b125ce2]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44733b093ea4316b35a754a49b125ce2]: Commencement: Reg. 52 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)
+[^c-44733b093ea4316b35a754a49b125ce2]: Commencement: Reg. 52 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 538. Provision of information[^key-188a650063d89cda339b3e93cb536d5b]
+## 538. Provision of information[^c-188a650063d89cda339b3e93cb536d5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ The National Health Service Pension Scheme (Provision of Information and Adminis
 
 ## Annotations
 
-[^key-188a650063d89cda339b3e93cb536d5b]: Commencement: Art. 538 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-188a650063d89cda339b3e93cb536d5b]: Commencement: Art. 538 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

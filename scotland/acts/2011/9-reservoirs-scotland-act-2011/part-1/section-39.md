@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Final certificates[^key-c7427dc132d311fe3a1b4f6c5bf89395]
+## 39. Final certificates[^c-c7427dc132d311fe3a1b4f6c5bf89395]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7427dc132d311fe3a1b4f6c5bf89395]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2011/9/section/39) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
+[^c-c7427dc132d311fe3a1b4f6c5bf89395]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2011/9/section/39) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))

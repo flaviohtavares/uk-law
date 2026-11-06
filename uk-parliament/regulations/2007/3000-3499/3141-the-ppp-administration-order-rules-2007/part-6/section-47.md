@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Adjournment of hearing: directions[^key-4f83a8b88cdf7649ee343730842d9382]
+## 47. Adjournment of hearing: directions[^c-4f83a8b88cdf7649ee343730842d9382]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f83a8b88cdf7649ee343730842d9382]: Commencement: [Rule 47](https://www.legislation.gov.uk/uksi/2007/3141/rule/47) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-4f83a8b88cdf7649ee343730842d9382]: Commencement: [Rule 47](https://www.legislation.gov.uk/uksi/2007/3141/rule/47) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

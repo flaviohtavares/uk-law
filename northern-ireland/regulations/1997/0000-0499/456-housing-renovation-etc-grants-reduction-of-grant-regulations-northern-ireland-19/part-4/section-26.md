@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Determination of net profit of self-employed earners[^key-55795950d44916fcb5056fca8978fa4f]
+## 26. Determination of net profit of self-employed earners[^c-55795950d44916fcb5056fca8978fa4f]
 
 *Extent: N.I.*
 
@@ -88,6 +88,6 @@ summary: ''
 
 ## Annotations
 
-[^key-55795950d44916fcb5056fca8978fa4f]: Commencement: Reg. 26 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-55795950d44916fcb5056fca8978fa4f]: Commencement: Reg. 26 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
 
 [^f00042]: Footnote: [S.R. 1975 No. 108](https://www.legislation.gov.uk/nisr/1975/108); to which there are no relevant amendments

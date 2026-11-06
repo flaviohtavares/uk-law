@@ -32,7 +32,7 @@ summary: ''
 
 Rating And Valuation
 
-The Non-Domestic Rates (Levying) (Scotland) Regulations 2010 (revoked)[^key-e8a44d4749b9c20812921d5e7178b39f]
+The Non-Domestic Rates (Levying) (Scotland) Regulations 2010 (revoked)[^c-e8a44d4749b9c20812921d5e7178b39f]
 
 Made
 
@@ -46,40 +46,40 @@ Coming into force
 
 1st April 2010
 
-[^key-e8a44d4749b9c20812921d5e7178b39f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e8a44d4749b9c20812921d5e7178b39f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e8a44d4749b9c20812921d5e7178b39f]
+## 1. Citation and commencement[^c-e8a44d4749b9c20812921d5e7178b39f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-e8a44d4749b9c20812921d5e7178b39f]
+## 2. Interpretation[^c-e8a44d4749b9c20812921d5e7178b39f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amount payable as rates – lands and heritages with rateable value of £18,000 or less[^key-e8a44d4749b9c20812921d5e7178b39f]
+## 3. Amount payable as rates – lands and heritages with rateable value of £18,000 or less[^c-e8a44d4749b9c20812921d5e7178b39f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amount payable as rates – lands and heritages with rateable value of more than £35,000[^key-e8a44d4749b9c20812921d5e7178b39f]
+## 4. Amount payable as rates – lands and heritages with rateable value of more than £35,000[^c-e8a44d4749b9c20812921d5e7178b39f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Exemptions and discretionary reductions and remissions[^key-e8a44d4749b9c20812921d5e7178b39f]
+## 5. Exemptions and discretionary reductions and remissions[^c-e8a44d4749b9c20812921d5e7178b39f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation[^key-e8a44d4749b9c20812921d5e7178b39f]
+## 6. Revocation[^c-e8a44d4749b9c20812921d5e7178b39f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e8a44d4749b9c20812921d5e7178b39f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e8a44d4749b9c20812921d5e7178b39f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e8a44d4749b9c20812921d5e7178b39f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e8a44d4749b9c20812921d5e7178b39f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e8a44d4749b9c20812921d5e7178b39f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/43) revoked (1.4.2011) by [The Non-Domestic Rates (Levying) (Scotland) (No. 2) Regulations 2010 (S.S.I. 2010/440)](https://www.legislation.gov.uk/ssi/2010/440), [regs. 1](https://www.legislation.gov.uk/ssi/2010/440/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2010/440/regulation/7/2) (with [regs. 6](https://www.legislation.gov.uk/ssi/2010/440/regulation/6), [7(3)](https://www.legislation.gov.uk/ssi/2010/440/regulation/7/3))
+[^c-e8a44d4749b9c20812921d5e7178b39f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/43) revoked (1.4.2011) by [The Non-Domestic Rates (Levying) (Scotland) (No. 2) Regulations 2010 (S.S.I. 2010/440)](https://www.legislation.gov.uk/ssi/2010/440), [regs. 1](https://www.legislation.gov.uk/ssi/2010/440/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2010/440/regulation/7/2) (with [regs. 6](https://www.legislation.gov.uk/ssi/2010/440/regulation/6), [7(3)](https://www.legislation.gov.uk/ssi/2010/440/regulation/7/3))

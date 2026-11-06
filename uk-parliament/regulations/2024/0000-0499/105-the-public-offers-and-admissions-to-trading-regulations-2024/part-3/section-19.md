@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Matters to which FCA must have regard when making certain rules[^key-79b09926260a1dc1bea17ad2956b284d]
+## 19. Matters to which FCA must have regard when making certain rules[^c-79b09926260a1dc1bea17ad2956b284d]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ The desirability of facilitating offers of transferable securities in the United
 
 ## Annotations
 
-[^key-79b09926260a1dc1bea17ad2956b284d]: Commencement: Reg. 19 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-79b09926260a1dc1bea17ad2956b284d]: Commencement: Reg. 19 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
 
 [^f00029]: Footnote: Section 138EA was inserted by section 31(2) of the Financial Services and Markets Act 2023.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Power to impose prevention and investigation measures[^key-6b82cd67de64da92cd002b6d291946b0][^key-8b90b0d24a0cc7b965d5d011900374cc]
+## 39. Power to impose prevention and investigation measures[^c-6b82cd67de64da92cd002b6d291946b0][^c-8b90b0d24a0cc7b965d5d011900374cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6b82cd67de64da92cd002b6d291946b0]: Commencement: S. 39 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-6b82cd67de64da92cd002b6d291946b0]: Commencement: S. 39 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-8b90b0d24a0cc7b965d5d011900374cc]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2023/32/section/39) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-8b90b0d24a0cc7b965d5d011900374cc]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2023/32/section/39) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Transfer of property, rights and liabilities to Academies[^key-3fe8046b8515dc99236a3ac897abf72b]
+## 59. Transfer of property, rights and liabilities to Academies[^c-3fe8046b8515dc99236a3ac897abf72b]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fe8046b8515dc99236a3ac897abf72b]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2011/21/section/59) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
+[^c-3fe8046b8515dc99236a3ac897abf72b]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2011/21/section/59) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)

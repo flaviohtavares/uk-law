@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Strategy for carrying out functions[^key-e0c15ed3bef5f6fd4459180311e647df]
+## 11. Strategy for carrying out functions[^c-e0c15ed3bef5f6fd4459180311e647df]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0c15ed3bef5f6fd4459180311e647df]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2004/20/section/11) in force at 31.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/442/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/442/schedule/2)
+[^c-e0c15ed3bef5f6fd4459180311e647df]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2004/20/section/11) in force at 31.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/442/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/442/schedule/2)

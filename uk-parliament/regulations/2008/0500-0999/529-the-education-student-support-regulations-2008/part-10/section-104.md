@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Payment of grants for living and other costs[^key-2f69b70edeb18064abba523d18d92d72]
+## 104. Payment of grants for living and other costs[^c-2f69b70edeb18064abba523d18d92d72]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f69b70edeb18064abba523d18d92d72]: Commencement: Reg. 104 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-2f69b70edeb18064abba523d18d92d72]: Commencement: Reg. 104 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

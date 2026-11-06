@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Calculation of period of detention at customs office etc. where person previously detained.[^key-784715d80ca444bc8018ebdabfe8e23b]
+## 110. Calculation of period of detention at customs office etc. where person previously detained.[^c-784715d80ca444bc8018ebdabfe8e23b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-784715d80ca444bc8018ebdabfe8e23b]: Textual amendment: S. 110 repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(c)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/c), [17(1)](https://www.legislation.gov.uk/uksi/2018/46/article/17/1) (with [art. 17(2)](https://www.legislation.gov.uk/uksi/2018/46/article/17/2))
+[^c-784715d80ca444bc8018ebdabfe8e23b]: Textual amendment: S. 110 repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(c)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/c), [17(1)](https://www.legislation.gov.uk/uksi/2018/46/article/17/1) (with [art. 17(2)](https://www.legislation.gov.uk/uksi/2018/46/article/17/2))

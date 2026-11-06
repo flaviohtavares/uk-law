@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67.2. Power to order solicitor to deliver cash account etc.[^key-0db9e51b0f85054bd91a5747c4c888a8]
+## 67.2. Power to order solicitor to deliver cash account etc.[^c-0db9e51b0f85054bd91a5747c4c888a8]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0db9e51b0f85054bd91a5747c4c888a8]: Textual amendment: [Pt. 67](https://www.legislation.gov.uk/uksi/1998/3132/part/67) inserted (1.4.2005) by [The Civil Procedure (Amendment No. 4) Rules 2004 (S.I. 2004/3419)](https://www.legislation.gov.uk/uksi/2004/3419), [rule 1](https://www.legislation.gov.uk/uksi/2004/3419/rule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3419/schedule/2)
+[^c-0db9e51b0f85054bd91a5747c4c888a8]: Textual amendment: [Pt. 67](https://www.legislation.gov.uk/uksi/1998/3132/part/67) inserted (1.4.2005) by [The Civil Procedure (Amendment No. 4) Rules 2004 (S.I. 2004/3419)](https://www.legislation.gov.uk/uksi/2004/3419), [rule 1](https://www.legislation.gov.uk/uksi/2004/3419/rule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3419/schedule/2)

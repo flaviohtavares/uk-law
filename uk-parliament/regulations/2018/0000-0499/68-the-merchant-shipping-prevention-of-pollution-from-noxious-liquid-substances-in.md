@@ -48,7 +48,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 The Secretary of State has consulted such persons in the United Kingdom as the Secretary of State considers will be affected by the exercise of powers in this instrument in accordance with section 86(4) of the Merchant Shipping Act 1995.
 
-These Regulations are made with the consent of the Treasury in so far as is required under section 302(1) of the Merchant Shipping Act 1995.[^key-8069218c843fe1ef349745f7cc5f40a0]
+These Regulations are made with the consent of the Treasury in so far as is required under section 302(1) of the Merchant Shipping Act 1995.[^c-8069218c843fe1ef349745f7cc5f40a0]
 
 ## PART 1 — General
 
@@ -87,7 +87,7 @@ which is valid on the day on which these Regulations come into force, continues 
 - “**approved**” in relation to a Procedures and Arrangements Manual or Marine Pollution Emergency Plan means—
   - (a) in the case of a United Kingdom NLS ship, approved by a Certifying Authority as respects that ship; and
   - (b) in the case of any other NLS ship, approved by or on behalf of the government of the Contracting State in which the ship is registered;
-- “BCH Code” has the same meaning as that given to “Bulk Chemical Code” in regulation 1 of Annex II[^key-1f0ed2bc136f8462c5a8b375f392dd57][^M_F_485c9c50-1380-49ec-cfe1-3f4c7c0e39c3];
+- “BCH Code” has the same meaning as that given to “Bulk Chemical Code” in regulation 1 of Annex II[^c-1f0ed2bc136f8462c5a8b375f392dd57][^M_F_485c9c50-1380-49ec-cfe1-3f4c7c0e39c3];
 - “**Cargo Record Book**” has the meaning given in regulation 29(1);
 - “Certifying Authority”, except in regulation 2, means the Secretary of State or any person authorised by the Secretary of State in accordance with paragraph (6);
 - “**chemical tanker**” means a cargo ship constructed or adapted for the carriage in bulk of any liquid substance listed in Chapter 17 of the IBC Code, but does not include an offshore support vessel or a gas carrier;
@@ -96,15 +96,15 @@ which is valid on the day on which these Regulations come into force, continues 
 - “**controlled waters**” means the areas of sea specified by the Merchant Shipping (Prevention of Pollution) (Limits) Regulations 2014 [^c22910681] as waters within which the jurisdiction and rights of the United Kingdom are exercisable in accordance with Part XII of the United Nations Convention on the Law of the Sea [^c22910691] for the protection and preservation of the marine environment;
 - “**the Convention**” means the International Convention for the Prevention of Pollution from Ships, 1973 [^c22910701];
 - “**discharge**”, in relation to noxious liquid substances, means any release howsoever caused from a ship and includes any escape, disposal, spilling, leaking, pumping, emitting or emptying, but does not include the release of noxious liquid substances directly arising from the exploration, exploitation and associated off-shore processing of sea-bed mineral resources, or the release of such substances for purposes of legitimate scientific research into pollution abatement or control;
-- “flag State”, in relation to a ship, means the State whose flag the ship is entitled to fly;[^key-376084f366f48527b2d34c4e2f54c5f2]
+- “flag State”, in relation to a ship, means the State whose flag the ship is entitled to fly;[^c-376084f366f48527b2d34c4e2f54c5f2]
 - “**gas carrier**” means a cargo ship—
   - (a) for which a certificate certifying compliance with the IGC Code (an International Certificate of Fitness for the Carriage of Liquefied Gases in Bulk) is in force;
   - (b) which is constructed or adapted for the carriage in bulk of any substance listed in Chapter 19 of the IGC Code and identified in that list by an asterisk; and
   - (c) which is not intended for, or engaged in, the carriage of any other noxious liquid substance in bulk;
 - “**gross tonnage**” means gross tonnage as determined in accordance with regulation 6 of the Merchant Shipping (Tonnage) Regulations 1997 [^c22910711];
 - “**harbour master**” includes a dock master, pier master and any person specifically appointed by a harbour authority (within the meaning of section 151(1) of the 1995 Act) for the purpose of enforcing the provisions of these Regulations;
-- “IBC Code” has the same meaning as that given to “International Bulk Chemical Code” in regulation 1 of Annex II[^key-0d14648ff187b751fc3350ca6c8677c1];
-- “IGC Code” has the same meaning as that given to “International Gas Carrier Code” in regulation 11.1 of Chapter VII in the Annex to the International Convention for the Safety of Life at Sea, 1974[^key-92a5feebe62885ede05fc7ffb2234b24];
+- “IBC Code” has the same meaning as that given to “International Bulk Chemical Code” in regulation 1 of Annex II[^c-0d14648ff187b751fc3350ca6c8677c1];
+- “IGC Code” has the same meaning as that given to “International Gas Carrier Code” in regulation 11.1 of Chapter VII in the Annex to the International Convention for the Safety of Life at Sea, 1974[^c-92a5feebe62885ede05fc7ffb2234b24];
 - “**IMO**” means the International Maritime Organization;
 - “**in bulk**” means directly and without any intermediate form of containment in a tank forming an integral part of, or permanently located in, or on, a ship;
 - “**intermediate survey period**” means a period of six months beginning three months before the second or third anniversary date;
@@ -123,8 +123,8 @@ which is valid on the day on which these Regulations come into force, continues 
 - “**offshore support vessel**” means—
   - (a) a vessel which is primarily engaged in the transport of stores, materials and equipment to and from mobile offshore drilling units, fixed or floating platforms or other similar offshore installations; or
   - (b) a vessel, including a well-stimulation vessel but excluding a mobile offshore drilling unit, derrick barge, pipelaying barge or floating accommodation unit, which is otherwise primarily engaged in supporting the work of offshore installations;
-- “OSV Chemical Code” means the Code for the Transport and Handling of Hazardous and Noxious Liquid Substances in Bulk on Offshore Support Vessels[^key-06babe698a0fdd02bf0d7665544b9fe5];
-- “**OSV Guidelines**” means the Guidelines for the Transport and Handling of Limited Amounts of Hazardous and Noxious Liquid Substances in Bulk on Offshore Support Vessels (OSV) [^key-e08f2fc73b3e5b6c2bdc9f7a6048581a]... [^c22910761];
+- “OSV Chemical Code” means the Code for the Transport and Handling of Hazardous and Noxious Liquid Substances in Bulk on Offshore Support Vessels[^c-06babe698a0fdd02bf0d7665544b9fe5];
+- “**OSV Guidelines**” means the Guidelines for the Transport and Handling of Limited Amounts of Hazardous and Noxious Liquid Substances in Bulk on Offshore Support Vessels (OSV) [^c-e08f2fc73b3e5b6c2bdc9f7a6048581a]... [^c22910761];
 - “**Polar Code**” means the International Code for Ships Operating in Polar Waters, consisting of an introduction, parts I-A and II-A and parts I-B and II-B as adopted by IMO Resolutions MSC.385(94) and MEPC.264(68) [^c22910771];
 - “**polar waters**” means the Antarctic area and Arctic waters and, for the purposes of this definition, the “**Antarctic area**” means the sea area south of latitude 60<sup>o</sup>S, and “**Arctic waters**” has the meaning given in regulation 21.2 of Annex II;
 - “**Procedures and Arrangements Manual**” has the meaning given in regulation 28;
@@ -146,7 +146,7 @@ which is valid on the day on which these Regulations come into force, continues 
   - (i) in the case of an NLS ship which is a chemical tanker constructed or adapted before 1st July 1986, in accordance with section 1.6 of the BCH Code;
   - (ii) in the case of an NLS ship which is a chemical tanker constructed or adapted on or after 1st July 1986, in accordance with section 1.5.2 of the IBC Code;
   - (iii) in the case of an NLS ship which is a gas carrier, in accordance with regulation 8.1 of Annex II;
-  - (iv)[^key-31c9eca570fe957c7ab04071c23afb78] in the case of an NLS ship which is an offshore support vessel constructed or adapted before 1st July 2018, in accordance with regulation 8.1 of Annex II and section 1.5 of the OSV Guidelines;
+  - (iv)[^c-31c9eca570fe957c7ab04071c23afb78] in the case of an NLS ship which is an offshore support vessel constructed or adapted before 1st July 2018, in accordance with regulation 8.1 of Annex II and section 1.5 of the OSV Guidelines;
   - (iva) in the case of an NLS ship which is an offshore support vessel constructed or adapted on or after 1st July 2018, in accordance with regulation 8.1 of Annex II and section 1.4 of the OSV Chemical Code;
   - (v) in the case of any other NLS ship, in accordance with regulation 8.1 of Annex II; and
 - (b) “**relevant**” in relation to a survey carried out in respect of an NLS ship means a survey described in any of sub-paragraph (a)(i) to (v) which is relevant to that ship.
@@ -157,7 +157,7 @@ which is valid on the day on which these Regulations come into force, continues 
   - (i) as respects an NLS ship which is a chemical tanker constructed or adapted before 1st July 1986, a BCH Code certificate in the form set out in the Appendix to the BCH Code issued and endorsed for a specified period in accordance with the requirements of that Code;
   - (ii) as respects an NLS ship which is a chemical tanker constructed or adapted on or after 1st July 1986, an IBC Code certificate in the form set out in the Appendix to the IBC Code issued and endorsed for a specified period in accordance with the requirements of that Code;
   - (iii) as respects an NLS ship which is a gas carrier, a certificate in the form set out in Appendix 3 to Annex II which satisfies the requirements of regulations 9 (issue or endorsement of certificate) and 10 (duration and validity of certificate) of that Annex;
-  - (iv)[^key-315a16924064fa81ec8f2e0bb78310ac] as respects an NLS ship which is an offshore support vessel constructed or adapted before 1st July 2018, a Certificate of Fitness as set out in Appendix 2 to the OSV Guidelines issued and endorsed for a specified period in accordance with the requirements of the OSV Guidelines, together with a certificate as described in paragraph (iii);
+  - (iv)[^c-315a16924064fa81ec8f2e0bb78310ac] as respects an NLS ship which is an offshore support vessel constructed or adapted before 1st July 2018, a Certificate of Fitness as set out in Appendix 2 to the OSV Guidelines issued and endorsed for a specified period in accordance with the requirements of the OSV Guidelines, together with a certificate as described in paragraph (iii);
   - (iva) as respects an NLS ship which is an offshore support vessel constructed or adapted on or after 1st July 2018, a Certificate of Fitness as set out in Appendix 1 to the OSV Chemical Code issued and endorsed for a specified period in accordance with the requirements of the OSV Chemical Code, together with a certificate as described in paragraph (iii);
   - (v) as respects any other NLS ship, a certificate as described in paragraph (iii); and
 - (b) “**endorsement**” in relation to a relevant NLS certificate means an endorsement drawn up in English which—
@@ -184,15 +184,15 @@ any reference in these Regulations to the provision of any approval, exemption, 
 - (b) Parts 1 and 2 of the RO Code (which are mandatory); and
 - (c) Part 3 of the RO Code (which is recommendatory).
 
-(7) In any provision of the BCH Code, the IBC Code, the IGC Code, Annex II, the Polar Code, the RO Code , the OSV Chemical Code[^key-135b1cfaba513097447d04925cf2416d] or the OSV Guidelines which is applied by these Regulations—
+(7) In any provision of the BCH Code, the IBC Code, the IGC Code, Annex II, the Polar Code, the RO Code , the OSV Chemical Code[^c-135b1cfaba513097447d04925cf2416d] or the OSV Guidelines which is applied by these Regulations—
 
 - (a) references to the Administration are, in relation to United Kingdom ships, to be read as references to the Secretary of State;
-- (b) references to the Port Administration are, in relation to any ship in the territorial waters of the United Kingdom, to be read as references to the Secretary of State; [^key-abff4dcd5872e0f3e2e16eb551d12c73]...
-- (c)[^key-72a0761bdc1d01fe206fbb86eaa0462f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) references to the Port Administration are, in relation to any ship in the territorial waters of the United Kingdom, to be read as references to the Secretary of State; [^c-abff4dcd5872e0f3e2e16eb551d12c73]...
+- (c)[^c-72a0761bdc1d01fe206fbb86eaa0462f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 4. Ambulatory reference
 
-(1) Any reference in these Regulations to a specific provision in the Convention, Annex II, the BCH Code, the IBC Code, the IGC Code, the Polar Code, the RO Code , the OSV Chemical Code[^key-c9cb8a9d4fe03dda51f19874afd6415e] or the OSV Guidelines is to be construed as—
+(1) Any reference in these Regulations to a specific provision in the Convention, Annex II, the BCH Code, the IBC Code, the IGC Code, the Polar Code, the RO Code , the OSV Chemical Code[^c-c9cb8a9d4fe03dda51f19874afd6415e] or the OSV Guidelines is to be construed as—
 
 - (a) a reference to the provision in that instrument as modified from time to time; and
 - (b) a reference, if the instrument is replaced by another instrument, to the provision in that other instrument.
@@ -218,9 +218,9 @@ any reference in these Regulations to the provision of any approval, exemption, 
 
 has effect at the time that such modification or replacement comes into force in accordance with Article 16(8) of the Convention.
 
-(6) For the purposes of paragraph (1) the BCH Code, the IBC Code, the IGC Code , the OSV Chemical Code[^key-45b8c9c9f367193469cdb6e3e8a13fa3] or the OSV Guidelines are modified if omissions, additions or other alterations to the text take effect in accordance with a Resolution of either the Marine Environment Protection Committee or the Maritime Safety Committee of the IMO.
+(6) For the purposes of paragraph (1) the BCH Code, the IBC Code, the IGC Code , the OSV Chemical Code[^c-45b8c9c9f367193469cdb6e3e8a13fa3] or the OSV Guidelines are modified if omissions, additions or other alterations to the text take effect in accordance with a Resolution of either the Marine Environment Protection Committee or the Maritime Safety Committee of the IMO.
 
-(7) A modification of the BCH Code, the IBC Code, the IGC Code, the Polar Code, the RO Code , the OSV Chemical Code[^key-701a22ba3339e09af684ca9b090ea8be] or the OSV Guidelines has effect at the time specified in any Resolution described in paragraph (3)(b), (4)(c) or (6).
+(7) A modification of the BCH Code, the IBC Code, the IGC Code, the Polar Code, the RO Code , the OSV Chemical Code[^c-701a22ba3339e09af684ca9b090ea8be] or the OSV Guidelines has effect at the time specified in any Resolution described in paragraph (3)(b), (4)(c) or (6).
 
 (8) No modification or replacement of a reference to an instrument by virtue of paragraph (1) affects any rights or liabilities arising before the date on which the modification or replacement has effect.
 
@@ -239,9 +239,9 @@ has effect at the time that such modification or replacement comes into force in
   - (i) in a port in the United Kingdom; or
   - (ii) at an offshore installation in the United Kingdom or controlled waters, other than a floating platform which is in transit.
 
-(3) Subject to paragraph (5), regulation 24 applies to the discharge into the sea from any ship which has caused, or is likely to cause, pollution within United Kingdom waters or controlled waters[^key-570d5b0256430c4e462bce6a223b49cc].
+(3) Subject to paragraph (5), regulation 24 applies to the discharge into the sea from any ship which has caused, or is likely to cause, pollution within United Kingdom waters or controlled waters[^c-570d5b0256430c4e462bce6a223b49cc].
 
-(4) Subject to paragraph (5), regulation 26 applies to any ship which, having been enabled to proceed contrary to the requirements of that regulation, has caused, or is likely to cause, pollution within United Kingdom waters or controlled waters[^key-ada0b160b3e3f480e1038ef2e70d186c].
+(4) Subject to paragraph (5), regulation 26 applies to any ship which, having been enabled to proceed contrary to the requirements of that regulation, has caused, or is likely to cause, pollution within United Kingdom waters or controlled waters[^c-ada0b160b3e3f480e1038ef2e70d186c].
 
 (5) These Regulations do not apply to any—
 
@@ -288,7 +288,7 @@ Any fitting, material, appliance or apparatus may be fitted in an NLS ship as an
   - (i) regulation 12.3, 12.5, 12.6 and 12.8 to 12.11 and Appendix 5 to Annex II; and
   - (ii) Chapters 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13 and 14 of the IBC Code;
 - (d) as respects an NLS ship which is a gas carrier, as set out in Regulation 5.3 of Annex II;
-- (e)[^key-e169fa3cad2730601e20e73952d084ae] as respects an NLS ship which is an offshore support vessel constructed or adapted before 1st July 2018, as set out in Chapters 2, 3, 4, 5 and 7 of the OSV Guidelines;
+- (e)[^c-e169fa3cad2730601e20e73952d084ae] as respects an NLS ship which is an offshore support vessel constructed or adapted before 1st July 2018, as set out in Chapters 2, 3, 4, 5 and 7 of the OSV Guidelines;
 - (f) as respects an NLS ship which is an offshore support vessel constructed or adapted on or after 1st July 2018, as set out in Chapters 2 to 14 and 18 of the OSV Chemical Code; and
 - (g) as respects any other NLS ship, as set out in—
   - (i) regulation 12.1, 12.2 or 12.3 of Annex II; and
@@ -438,7 +438,7 @@ unless the requirements in paragraph (3) are met.
 
 - (a) that Authority has been notified by a surveyor that the surveyor has carried out a relevant initial or renewal survey;
 - (b) the notification described in paragraph (a) includes confirmation that, at the date of that survey, the surveyor is satisfied that the ship complies with the relevant requirements which apply to that ship; and
-- (c) any fee due under the Merchant Shipping (Fees) Regulations 2018[^key-8834b63862218e695024dcc0067c0f2c] has been paid to that Authority.
+- (c) any fee due under the Merchant Shipping (Fees) Regulations 2018[^c-8834b63862218e695024dcc0067c0f2c] has been paid to that Authority.
 
 (2) A Certifying Authority must issue a relevant NLS certificate in respect of a ship which becomes a United Kingdom NLS ship on transfer from the flag of another Contracting State where—
 
@@ -469,7 +469,7 @@ unless the requirements in paragraph (3) are met.
 
 (1) The Secretary of State, when requested to do so by a Contracting State other than the United Kingdom, may cause a survey to be carried out in respect of an NLS ship which is not a United Kingdom ship.
 
-(2) If a survey described in paragraph (1) has been carried out and the Secretary of State is satisfied that the relevant requirements are complied with the Secretary of State must, subject to the payment of any fee due under the Merchant Shipping (Fees) Regulations 2018[^key-fdb4423d061bcbe4cb49d924498a8e37]—
+(2) If a survey described in paragraph (1) has been carried out and the Secretary of State is satisfied that the relevant requirements are complied with the Secretary of State must, subject to the payment of any fee due under the Merchant Shipping (Fees) Regulations 2018[^c-fdb4423d061bcbe4cb49d924498a8e37]—
 
 - (a) in the case of a ship for which there is no NLS certificate, issue a new certificate; or
 - (b) in the case of a ship for which there is an existing NLS certificate, endorse that certificate.
@@ -703,7 +703,7 @@ but this paragraph does not apply in Scotland.
 
 is prohibited.
 
-(2) Subject to paragraph (3), it is permitted for a noxious liquid substance to be discharged into the sea from a certificated NLS ship , except from a certificated NLS ship which is an offshore support vessel,[^key-42faa24e471278bcaa453c242b0779a2] where—
+(2) Subject to paragraph (3), it is permitted for a noxious liquid substance to be discharged into the sea from a certificated NLS ship , except from a certificated NLS ship which is an offshore support vessel,[^c-42faa24e471278bcaa453c242b0779a2] where—
 
 - (a) the ship is proceeding en route at a speed of at least—
   - (i) 7 knots in the case of a ship which is self-propelled; or
@@ -786,7 +786,7 @@ if it is carrying in bulk any liquid substance which has not been categorised, p
 
 ### 29. Cargo Record Book
 
-(1)[^key-6def182502553913d3b0c7dabc7a0548] Every NLS ship must be provided with a Cargo Record Book in—
+(1)[^c-6def182502553913d3b0c7dabc7a0548] Every NLS ship must be provided with a Cargo Record Book in—
 
 - (a) the format specified in regulation 15.1 of Annex II (cargo record book); or
 - (b) the form specified in Appendix 2 to Annex II (form of cargo record book).
@@ -802,7 +802,7 @@ an entry must be made in the Cargo Record Book stating the circumstances of, and
 
 (4) Each entry in the Cargo Record Book must be signed by the officer or officers in charge of the relevant operation.
 
-(5) Each page of , or group of electronic entries in,[^key-71fdb8b85e76931e5d51d7615d4932f5] the Cargo Record Book must be signed by the master of the ship.
+(5) Each page of , or group of electronic entries in,[^c-71fdb8b85e76931e5d51d7615d4932f5] the Cargo Record Book must be signed by the master of the ship.
 
 (6) In the case of a United Kingdom NLS ship, the Cargo Record Book must be written in English and, in the case of any other NLS ship, it must be written in or translated into English, French or Spanish.
 
@@ -822,11 +822,11 @@ an entry must be made in the Cargo Record Book stating the circumstances of, and
 - (b) be written in a working language or languages understood by the master and officers on board the ship; and
 - (c) contain, as a minimum, the information specified in regulation 17.2.1 to 17.2.4 of Annex II.
 
-(3) In the case of an NLS ship to which regulation 37 of Annex I of the Convention [^c22910861] also applies, an approved Marine Pollution Emergency Plan may be combined with the approved Shipboard Oil Pollution Emergency Plan required by regulation 34 of the Merchant Shipping (Prevention of Oil Pollution) Regulations 2019[^key-6b8bf6f4b66ad13c7576d3146042be85].
+(3) In the case of an NLS ship to which regulation 37 of Annex I of the Convention [^c22910861] also applies, an approved Marine Pollution Emergency Plan may be combined with the approved Shipboard Oil Pollution Emergency Plan required by regulation 34 of the Merchant Shipping (Prevention of Oil Pollution) Regulations 2019[^c-6b8bf6f4b66ad13c7576d3146042be85].
 
 (4) Where paragraph (3) applies the title of the combined plan must be “Shipboard Marine Pollution Emergency Plan”.
 
-(5) In this regulation “**the relevant Guidelines**” means the Guidelines for the Development of Shipboard Marine Pollution Emergency Plans For Oil and/or Noxious Liquid Substances in IMO[^key-a747ebd911de1a3292a4e116b87b420c] Resolution MEPC.85(44) [^c22910881], as adopted on 13th March 2000, and includes any amendment or replacement of those Guidelines which is considered by the Secretary of State to be relevant from time to time and which is specified in a Merchant Shipping Notice.
+(5) In this regulation “**the relevant Guidelines**” means the Guidelines for the Development of Shipboard Marine Pollution Emergency Plans For Oil and/or Noxious Liquid Substances in IMO[^c-a747ebd911de1a3292a4e116b87b420c] Resolution MEPC.85(44) [^c22910881], as adopted on 13th March 2000, and includes any amendment or replacement of those Guidelines which is considered by the Secretary of State to be relevant from time to time and which is specified in a Merchant Shipping Notice.
 
 ## PART 4 — Polar Code
 
@@ -994,20 +994,20 @@ If the harbour master of a harbour in the United Kingdom has reason to believe t
 
 ### 37. Right of appeal and compensation
 
-(1) Regulations 20 and 21[^key-05f7dd13308ec7cc5b7615143e3a1e87] of the Merchant Shipping (Port State Control) Regulations 2026 (arbitration and compensation for unjustified detention) apply in relation to the exercise of the powers of detention under these Regulations as they apply in relation to the exercise of those powers under Part 1 of those Regulations, subject to the modifications in paragraph (2).
+(1) Regulations 20 and 21[^c-05f7dd13308ec7cc5b7615143e3a1e87] of the Merchant Shipping (Port State Control) Regulations 2026 (arbitration and compensation for unjustified detention) apply in relation to the exercise of the powers of detention under these Regulations as they apply in relation to the exercise of those powers under Part 1 of those Regulations, subject to the modifications in paragraph (2).
 
 (2) The modifications are—
 
 - (a) references to “inspector” are to be read as references to the authority detaining the ship, or the harbour master, as the case may be;
 - (b) references to—
   - (i) “issue of a refusal of access notice”;
-  - (ii)[^key-d468aba27950648f789c46f6abc7a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-d468aba27950648f789c46f6abc7a9ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) “refusal of access notice”;
   - (iv) “served with a refusal of access notice”; and
   - (v) “service of a refusal of access notice”,
 
   are omitted; and
-- (c) in regulation 21(3)[^key-05b048ede31002ad0320ba41941de0d6] after the word “State” insert “ , except where the ship is detained by a harbour master, in which case any compensation awarded under this section is payable by the harbour authority. ”.
+- (c) in regulation 21(3)[^c-05b048ede31002ad0320ba41941de0d6] after the word “State” insert “ , except where the ship is detained by a harbour master, in which case any compensation awarded under this section is payable by the harbour authority. ”.
 
 ### 38. Offences
 
@@ -1143,7 +1143,7 @@ In the table in paragraph 1 of Part 1 of Schedule 1 (fees under the Merchant Shi
 - (b) in column 2 substitute “ S.I. 2018/68 ”; and
 - (c) omit the entry in column 3.
 
-#### 5. The Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2015[^key-ef3c4687bcf67c3cc4e8fc2156b8176e]
+#### 5. The Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2015[^c-ef3c4687bcf67c3cc4e8fc2156b8176e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1190,11 +1190,11 @@ A full Impact Assessment has not been produced for this instrument as it is not 
 
 [^c22910651]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). Section 85 is amended by the [Merchant Shipping and Maritime Security Act 1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), [sections 8](https://www.legislation.gov.uk/ukpga/1997/28/section/8) and 29 and Schedule 7, Part 1. Section 306A is inserted by the [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [section 106](https://www.legislation.gov.uk/ukpga/2015/20/section/106). There are other amendments but none is relevant. Sections 85 and 86 apply to hovercraft by virtue of article 4 of the [Hovercraft (Application of Enactments) Order 1989 (S.I. 1989/1350)](https://www.legislation.gov.uk/uksi/1989/1350).
 
-[^key-8069218c843fe1ef349745f7cc5f40a0]: Modification: Regulations extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 3](https://www.legislation.gov.uk/uksi/1989/1350/article/3) (as amended by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(3)(e)(f)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/e))
+[^c-8069218c843fe1ef349745f7cc5f40a0]: Modification: Regulations extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 3](https://www.legislation.gov.uk/uksi/1989/1350/article/3) (as amended by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(3)(e)(f)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/e))
 
 [^c22910661]: Marginal citation: Regulations for the Control of Pollution by Noxious Liquid Substances in Bulk. See footnote (e) for further information.
 
-[^key-1f0ed2bc136f8462c5a8b375f392dd57]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/1) substituted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/a/i)
+[^c-1f0ed2bc136f8462c5a8b375f392dd57]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/1) substituted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/a/i)
 
 [^M_F_485c9c50-1380-49ec-cfe1-3f4c7c0e39c3]: Textual amendment: The BCH Code is the Code for the Construction and Equipment of Ships carrying Dangerous Chemicals in Bulk, adopted by Resolution MEPC.20(22), and may be obtained in copy from the International Maritime Organization (IMO) of 4 Albert Embankment, London SE1 7SR or the Maritime and Coastguard Agency of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk). Annex II is defined in regulation 3(1) of the Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018 as meaning Annex II to the International Convention for the Prevention of Pollution from Ships, 1973 (“MARPOL”). MARPOL was published in Cmnd. 5748, and amended by the Protocols of 1978 (Cmnd. 7347) and 1997 (Cm. 4427). Hard copies of the Command Papers are available for inspection free of charge but by appointment at the Parliamentary Archives, Houses of Parliament, London SW1A 0PW. The Parliamentary Archives catalogue numbers are as follows: HL/PO/JO/10/11/1853/505 (Cmnd. 5748), HL/PO/JO/10/11/1959/2033 (Cmnd. 7347) and HL/PO/JO/10/11/3156/2285 (Cm. 4427). The BCH Code has been amended by IMO Resolutions MSC.212(81), MEPC.144(54), MEPC.249(66), MSC.376(93), MEPC.303(72), MSC.446(99), MEPC.319(74) and MSC.463(101). The amendments to the BCH Code are available from the International Maritime Organization of 4 Albert Embankment, London SE1 7SR or the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
@@ -1204,21 +1204,21 @@ A full Impact Assessment has not been produced for this instrument as it is not 
 
 [^c22910701]: Marginal citation: This Convention (the “MARPOL” Convention) was published in Cmnd. 5748, and amended by the Protocol of 1978 (Cmnd. 7347) and 1997 (Cmnd. 4427). Hard copies of the Command Papers are available for inspection free of charge but by appointment at the Parliamentary Archives, Houses of Parliament, London, SW1A 0PW. IMO Resolution MEPC.21(22) introduced Protocol 1 to the Convention, which was amended by MEPC.68(38). Annex II was revised and replaced by IMO Resolution MEPC.118(52) and further amended by MEPC.216(63), MEPC.238(65), MEPC.246(66), MEPC.265(86), MEPC.270(69) and the Polar Code. The MEPC Resolutions may be obtained from the IMO Library. The 2017 Consolidated Version of the Convention, which contains all amendments up to the date of publication of this instrument, may be obtained from IMO Publishing: ISBN: 978-92-801-16571.
 
-[^key-376084f366f48527b2d34c4e2f54c5f2]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/1) inserted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/a/ii)
+[^c-376084f366f48527b2d34c4e2f54c5f2]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/1) inserted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/a/ii)
 
 [^c22910711]: Marginal citation: [S.I. 1997/1510](https://www.legislation.gov.uk/uksi/1997/1510). These regulations are amended by [S.I. 1998/1916](https://www.legislation.gov.uk/uksi/1998/1916) and [S.I. 1999/3206](https://www.legislation.gov.uk/uksi/1999/3206). There are other amendments but none is relevant.
 
-[^key-0d14648ff187b751fc3350ca6c8677c1]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/1) substituted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/a/iv)
+[^c-0d14648ff187b751fc3350ca6c8677c1]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/1) substituted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/a/iv)
 
-[^key-92a5feebe62885ede05fc7ffb2234b24]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/1) substituted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(a)(v)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/a/v)
+[^c-92a5feebe62885ede05fc7ffb2234b24]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/1) substituted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(a)(v)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/a/v)
 
 [^c22910741]: Marginal citation: The MEPC.2/Circ. lists noxious liquid substances with associated categories and minimum carriage requirements which have been established through Tripartite Agreements and registered with the IMO Secretariat in accordance with regulation 6.3 of Annex II. The current circular is MEPC.2/Circ.23 dated December 2017 and is available at http://www.imo.org/en/OurWork/Environment/PollutionPrevention/ChemicalPollution/Documents/MEPC.2-Circ.23.pdf or from the IMO Library.
 
 [^c22910751]: Marginal citation: Products assessed between the dates of publication of MEPC.2/Circ. are published by the IMO at http://www.imo.org/en/OurWork/Environment/PollutionPrevention/ChemicalPollution/Pages/TripartiteAgreements.aspx and available from the IMO Library.
 
-[^key-06babe698a0fdd02bf0d7665544b9fe5]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/1) inserted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/a/iii)
+[^c-06babe698a0fdd02bf0d7665544b9fe5]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/1) inserted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/a/iii)
 
-[^key-e08f2fc73b3e5b6c2bdc9f7a6048581a]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/1) omitted (3.8.2021) by virtue of [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(a)(vi)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/a/vi)
+[^c-e08f2fc73b3e5b6c2bdc9f7a6048581a]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/1) omitted (3.8.2021) by virtue of [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(a)(vi)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/a/vi)
 
 [^c22910761]: Marginal citation: These Guidelines were adopted by IMO Assembly Resolution A.673(16) in October 1989 and amended and adopted by IMO Resolution MSC.184(79), MEPC.158(55) and MSC.236(82). The 2007 Edition is available from IMO Publishing: ISBN 978-92-801-14874. Copies of the Resolutions are available from the IMO Library.
 
@@ -1226,33 +1226,33 @@ A full Impact Assessment has not been produced for this instrument as it is not 
 
 [^c22910781]: Marginal citation: The RO Code is available from the IMO Library.
 
-[^key-31c9eca570fe957c7ab04071c23afb78]: Textual amendment: [Reg. 3(2)(a)(iv)(iva)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/2/a/iv/iva) substituted for [reg. 3(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/2/a/iv) (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/b)
+[^c-31c9eca570fe957c7ab04071c23afb78]: Textual amendment: [Reg. 3(2)(a)(iv)(iva)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/2/a/iv/iva) substituted for [reg. 3(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/2/a/iv) (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/b)
 
-[^key-315a16924064fa81ec8f2e0bb78310ac]: Textual amendment: [Reg. 3(3)(a)(iv)(iva)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/3/a/iv/iva) substituted for [reg. 3(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/3/a/iv) (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/c)
+[^c-315a16924064fa81ec8f2e0bb78310ac]: Textual amendment: [Reg. 3(3)(a)(iv)(iva)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/3/a/iv/iva) substituted for [reg. 3(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/3/a/iv) (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/c)
 
 [^c22910791]: Marginal citation: Regulation (EC) No. 391/2009 of the European Parliament and of the Council of 23rd April 2009 on common rules and standards for ship inspection and survey organisations may also be applicable.
 
-[^key-135b1cfaba513097447d04925cf2416d]: Textual amendment: Words in [reg. 3(7)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/7) inserted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(d)(i)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/d/i)
+[^c-135b1cfaba513097447d04925cf2416d]: Textual amendment: Words in [reg. 3(7)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/7) inserted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(d)(i)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/d/i)
 
-[^key-abff4dcd5872e0f3e2e16eb551d12c73]: Textual amendment: Word in [reg. 3(7)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/7) omitted (3.8.2021) by virtue of [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/d/ii)
+[^c-abff4dcd5872e0f3e2e16eb551d12c73]: Textual amendment: Word in [reg. 3(7)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/7) omitted (3.8.2021) by virtue of [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/d/ii)
 
-[^key-72a0761bdc1d01fe206fbb86eaa0462f]: Textual amendment: [Reg. 3(7)(c)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/7/c) omitted (3.8.2021) by virtue of [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(d)(iii)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/d/iii)
+[^c-72a0761bdc1d01fe206fbb86eaa0462f]: Textual amendment: [Reg. 3(7)(c)](https://www.legislation.gov.uk/uksi/2018/68/regulation/3/7/c) omitted (3.8.2021) by virtue of [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(2)(d)(iii)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/2/d/iii)
 
-[^key-c9cb8a9d4fe03dda51f19874afd6415e]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/4/1) inserted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/3/a)
+[^c-c9cb8a9d4fe03dda51f19874afd6415e]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/4/1) inserted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/3/a)
 
-[^key-45b8c9c9f367193469cdb6e3e8a13fa3]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/uksi/2018/68/regulation/4/6) inserted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/3/b)
+[^c-45b8c9c9f367193469cdb6e3e8a13fa3]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/uksi/2018/68/regulation/4/6) inserted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/3/b)
 
-[^key-701a22ba3339e09af684ca9b090ea8be]: Textual amendment: Words in [reg. 4(7)](https://www.legislation.gov.uk/uksi/2018/68/regulation/4/7) inserted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/3/a)
+[^c-701a22ba3339e09af684ca9b090ea8be]: Textual amendment: Words in [reg. 4(7)](https://www.legislation.gov.uk/uksi/2018/68/regulation/4/7) inserted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/3/a)
 
-[^key-570d5b0256430c4e462bce6a223b49cc]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2018/68/regulation/5/3) inserted (1.6.2020) by [The Merchant Shipping (Port State Control and Prevention of Pollution from Noxious Liquid Substances in Bulk) (Amendment) Regulations 2020 (S.I. 2020/496)](https://www.legislation.gov.uk/uksi/2020/496), [regs. 1](https://www.legislation.gov.uk/uksi/2020/496/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/496/regulation/3/2)
+[^c-570d5b0256430c4e462bce6a223b49cc]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2018/68/regulation/5/3) inserted (1.6.2020) by [The Merchant Shipping (Port State Control and Prevention of Pollution from Noxious Liquid Substances in Bulk) (Amendment) Regulations 2020 (S.I. 2020/496)](https://www.legislation.gov.uk/uksi/2020/496), [regs. 1](https://www.legislation.gov.uk/uksi/2020/496/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/496/regulation/3/2)
 
-[^key-ada0b160b3e3f480e1038ef2e70d186c]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/2018/68/regulation/5/4) inserted (1.6.2020) by [The Merchant Shipping (Port State Control and Prevention of Pollution from Noxious Liquid Substances in Bulk) (Amendment) Regulations 2020 (S.I. 2020/496)](https://www.legislation.gov.uk/uksi/2020/496), [regs. 1](https://www.legislation.gov.uk/uksi/2020/496/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/496/regulation/3/2)
+[^c-ada0b160b3e3f480e1038ef2e70d186c]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/2018/68/regulation/5/4) inserted (1.6.2020) by [The Merchant Shipping (Port State Control and Prevention of Pollution from Noxious Liquid Substances in Bulk) (Amendment) Regulations 2020 (S.I. 2020/496)](https://www.legislation.gov.uk/uksi/2020/496), [regs. 1](https://www.legislation.gov.uk/uksi/2020/496/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/496/regulation/3/2)
 
-[^key-e169fa3cad2730601e20e73952d084ae]: Textual amendment: [Reg. 8(2)(e)-(g)](https://www.legislation.gov.uk/uksi/2018/68/regulation/8/2/e) substituted for [reg. 8(2)(e)(f)](https://www.legislation.gov.uk/uksi/2018/68/regulation/8/2/e) (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/4)
+[^c-e169fa3cad2730601e20e73952d084ae]: Textual amendment: [Reg. 8(2)(e)-(g)](https://www.legislation.gov.uk/uksi/2018/68/regulation/8/2/e) substituted for [reg. 8(2)(e)(f)](https://www.legislation.gov.uk/uksi/2018/68/regulation/8/2/e) (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/4)
 
-[^key-8834b63862218e695024dcc0067c0f2c]: Textual amendment: Words in [reg. 15(1)(c)](https://www.legislation.gov.uk/uksi/2018/68/regulation/15/1/c) substituted (13.11.2018) by [The Merchant Shipping (Fees) Regulations 2018 (S.I. 2018/1104)](https://www.legislation.gov.uk/uksi/2018/1104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1104/regulation/1/1), [7(2)(e)](https://www.legislation.gov.uk/uksi/2018/1104/regulation/7/2/e)
+[^c-8834b63862218e695024dcc0067c0f2c]: Textual amendment: Words in [reg. 15(1)(c)](https://www.legislation.gov.uk/uksi/2018/68/regulation/15/1/c) substituted (13.11.2018) by [The Merchant Shipping (Fees) Regulations 2018 (S.I. 2018/1104)](https://www.legislation.gov.uk/uksi/2018/1104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1104/regulation/1/1), [7(2)(e)](https://www.legislation.gov.uk/uksi/2018/1104/regulation/7/2/e)
 
-[^key-fdb4423d061bcbe4cb49d924498a8e37]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2018/68/regulation/17/2) substituted (13.11.2018) by [The Merchant Shipping (Fees) Regulations 2018 (S.I. 2018/1104)](https://www.legislation.gov.uk/uksi/2018/1104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1104/regulation/1/1), [7(2)(e)](https://www.legislation.gov.uk/uksi/2018/1104/regulation/7/2/e)
+[^c-fdb4423d061bcbe4cb49d924498a8e37]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2018/68/regulation/17/2) substituted (13.11.2018) by [The Merchant Shipping (Fees) Regulations 2018 (S.I. 2018/1104)](https://www.legislation.gov.uk/uksi/2018/1104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1104/regulation/1/1), [7(2)(e)](https://www.legislation.gov.uk/uksi/2018/1104/regulation/7/2/e)
 
 [^c22910811]: Marginal citation: MSN 1613 Merchant Shipping (Survey and Certification) Regulations 1995: Arbitration Procedure, published by the MCA on 1st June 1995.
 
@@ -1260,21 +1260,21 @@ A full Impact Assessment has not been produced for this instrument as it is not 
 
 [^c22910831]: Marginal citation: Cmnd 9266. The Command Paper is available electronically at http://treaties.fco.gov.uk/docs/pdf/1984/TS0050.pdf. Hard copies of the Command Papers are available for inspection free of charge but by appointment at the Parliamentary Archives, Houses of Parliament, London, SW1A 0PW. Following a review of the Convention amendments were adopted by a Conference of Parties to the STCW Convention in Manila from 21st to 25th June 2010 and a consolidated text produced. This 2011 Consolidated version of the Convention, including the Final Act of the 2010 Manila Conference of Parties to the STCW Convention, is available from IMO Publishing. ISBN 978-92-801-15284. Further amendments have been made by IMO resolutions MSC.373(93) and MSC 396.(95). It is prospectively amended by IMO regulation MSC.417(97) which comes into effect on 1st July 2018. Copies of the resolutions are available from the IMO Library.
 
-[^key-42faa24e471278bcaa453c242b0779a2]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2018/68/regulation/24/2) inserted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/5)
+[^c-42faa24e471278bcaa453c242b0779a2]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2018/68/regulation/24/2) inserted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/5)
 
 [^c22910841]: Marginal citation: The MEPC.2/Circ. lists noxious liquid substances with associated categories and minimum carriage requirements which have been established through Tripartite Agreements and registered with the IMO Secretariat in accordance with regulation 6.3 of Annex II. The current circular is MEPC.2/Circ.23 dated December 2017 and is available from the IMO Library or http://www.imo.org/en/OurWork/Environment/PollutionPrevention/ChemicalPollution/Documents/MEPC.2-CIRC.23.pdf.
 
 [^c22910851]: Marginal citation: Products assessed between the dates of publication of MEPC.2/Circ. are published by the IMO at http://www.imo.org/en/OurWork/Environment/PollutionPrevention/ChemicalPollution/Pages/TripartiteAgreements.aspx and available from the IMO Library.
 
-[^key-6def182502553913d3b0c7dabc7a0548]: Textual amendment: [Reg. 29(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/29/1) substituted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/6/a)
+[^c-6def182502553913d3b0c7dabc7a0548]: Textual amendment: [Reg. 29(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/29/1) substituted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/6/a)
 
-[^key-71fdb8b85e76931e5d51d7615d4932f5]: Textual amendment: Words in [reg. 29(5)](https://www.legislation.gov.uk/uksi/2018/68/regulation/29/5) inserted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/6/b)
+[^c-71fdb8b85e76931e5d51d7615d4932f5]: Textual amendment: Words in [reg. 29(5)](https://www.legislation.gov.uk/uksi/2018/68/regulation/29/5) inserted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/6/b)
 
 [^c22910861]: Marginal citation: Regulations for the Prevention of Pollution by Oil.
 
-[^key-6b8bf6f4b66ad13c7576d3146042be85]: Textual amendment: Words in reg. 30(3) substituted (1.3.2019) by [The Merchant Shipping (Prevention of Oil Pollution) Regulations 2019 (S.I. 2019/42)](https://www.legislation.gov.uk/uksi/2019/42), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2019/42/schedule/paragraph/7) (with [regs. 2](https://www.legislation.gov.uk/uksi/2019/42/regulation/2), [5](https://www.legislation.gov.uk/uksi/2019/42/regulation/5))
+[^c-6b8bf6f4b66ad13c7576d3146042be85]: Textual amendment: Words in reg. 30(3) substituted (1.3.2019) by [The Merchant Shipping (Prevention of Oil Pollution) Regulations 2019 (S.I. 2019/42)](https://www.legislation.gov.uk/uksi/2019/42), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2019/42/schedule/paragraph/7) (with [regs. 2](https://www.legislation.gov.uk/uksi/2019/42/regulation/2), [5](https://www.legislation.gov.uk/uksi/2019/42/regulation/5))
 
-[^key-a747ebd911de1a3292a4e116b87b420c]: Textual amendment: Words in [reg. 30(5)](https://www.legislation.gov.uk/uksi/2018/68/regulation/30/5) substituted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/7)
+[^c-a747ebd911de1a3292a4e116b87b420c]: Textual amendment: Words in [reg. 30(5)](https://www.legislation.gov.uk/uksi/2018/68/regulation/30/5) substituted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2021/818/regulation/2/7)
 
 [^c22910881]: Marginal citation: A copy of the Guidelines may be obtained from the IMO Library.
 
@@ -1286,11 +1286,11 @@ A full Impact Assessment has not been produced for this instrument as it is not 
 
 [^c22910921]: Marginal citation: [Section 145](https://www.legislation.gov.uk/uksi/2018/68/section/145) is amended by the [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [Schedule 36](https://www.legislation.gov.uk/ukpga/2003/44/schedule/36), [Part 2](https://www.legislation.gov.uk/ukpga/2003/44/part/2), [paragraph 13](https://www.legislation.gov.uk/ukpga/2003/44/paragraph/13), and by the [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [Schedule 11](https://www.legislation.gov.uk/ukpga/2015/2/schedule/11), [paragraph 16](https://www.legislation.gov.uk/ukpga/2015/2/paragraph/16).
 
-[^key-05f7dd13308ec7cc5b7615143e3a1e87]: Textual amendment: Words in [reg. 37(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/37/1) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-05f7dd13308ec7cc5b7615143e3a1e87]: Textual amendment: Words in [reg. 37(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/37/1) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
-[^key-d468aba27950648f789c46f6abc7a9ef]: Textual amendment: [Reg. 37(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/68/regulation/37/2/b/ii) omitted (23.6.2026) by virtue of [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-d468aba27950648f789c46f6abc7a9ef]: Textual amendment: [Reg. 37(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/68/regulation/37/2/b/ii) omitted (23.6.2026) by virtue of [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
-[^key-05b048ede31002ad0320ba41941de0d6]: Textual amendment: Word in [reg. 37(2)(c)](https://www.legislation.gov.uk/uksi/2018/68/regulation/37/2/c) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-05b048ede31002ad0320ba41941de0d6]: Textual amendment: Word in [reg. 37(2)(c)](https://www.legislation.gov.uk/uksi/2018/68/regulation/37/2/c) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
 [^c22910941]: Marginal citation: [Section 143(6)](https://www.legislation.gov.uk/uksi/2018/68/section/143/6) is amended by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).
 
@@ -1304,4 +1304,4 @@ A full Impact Assessment has not been produced for this instrument as it is not 
 
 [^c22910991]: Marginal citation: [S.I. 2006/2055](https://www.legislation.gov.uk/uksi/2006/2055).
 
-[^key-ef3c4687bcf67c3cc4e8fc2156b8176e]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2018/68/schedule/paragraph/5) revoked (10.1.2023) by [The Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2022 (S.I. 2022/1342)](https://www.legislation.gov.uk/uksi/2022/1342), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2022/1342/schedule/1/part/2)
+[^c-ef3c4687bcf67c3cc4e8fc2156b8176e]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2018/68/schedule/paragraph/5) revoked (10.1.2023) by [The Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2022 (S.I. 2022/1342)](https://www.legislation.gov.uk/uksi/2022/1342), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2022/1342/schedule/1/part/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Amendment to the Identification and Traceability of Explosives Regulations (Northern Ireland) 2013[^key-6696e6f674d3a0e6fd88e94167937dcd]
+## 20. Amendment to the Identification and Traceability of Explosives Regulations (Northern Ireland) 2013[^c-6696e6f674d3a0e6fd88e94167937dcd]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ Schedule 19 makes amendments to the Identification and Traceability of Explosive
 
 ## Annotations
 
-[^key-6696e6f674d3a0e6fd88e94167937dcd]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2020/1112/regulation/20) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-6696e6f674d3a0e6fd88e94167937dcd]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2020/1112/regulation/20) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
 [^c24301641]: Marginal citation: S.R. [2013 No. 48](https://www.legislation.gov.uk/ukcm/2013/48); amendments are made prospectively with effect from IP completion day, by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696) but these amendments were revoked by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676) with effect immediately before IP completion day.

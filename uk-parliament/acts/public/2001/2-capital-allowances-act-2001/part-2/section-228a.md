@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 228A. Application of sections 228B and 228C[^key-7e3d59d134b8ddd2f8943519e9d3b970][^key-f4ac0e0ec46c6a6677536a519cd7c2a2]
+## 228A. Application of sections 228B and 228C[^c-7e3d59d134b8ddd2f8943519e9d3b970][^c-f4ac0e0ec46c6a6677536a519cd7c2a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7e3d59d134b8ddd2f8943519e9d3b970]: Textual amendment: S. 228A substituted (with effect in accordance with Sch. 20 para. 12(12) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 12(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/12/2)
+[^c-7e3d59d134b8ddd2f8943519e9d3b970]: Textual amendment: S. 228A substituted (with effect in accordance with Sch. 20 para. 12(12) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 12(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/12/2)
 
-[^key-f4ac0e0ec46c6a6677536a519cd7c2a2]: Textual amendment: Ss. 228A-228J and cross-heading inserted (with effect in accordance with s. 134(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 134](https://www.legislation.gov.uk/ukpga/2004/12/section/134)
+[^c-f4ac0e0ec46c6a6677536a519cd7c2a2]: Textual amendment: Ss. 228A-228J and cross-heading inserted (with effect in accordance with s. 134(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 134](https://www.legislation.gov.uk/ukpga/2004/12/section/134)

@@ -32,7 +32,7 @@ summary: ''
 
 REGISTERS AND RECORDS
 
-The Fees in the Registers of Scotland Amendment Order 2009 (revoked)[^key-4f870b45b5ac783bbeb7e55e4cb55315]
+The Fees in the Registers of Scotland Amendment Order 2009 (revoked)[^c-4f870b45b5ac783bbeb7e55e4cb55315]
 
 Made
 
@@ -42,34 +42,34 @@ Coming into force
 
 31st May 2009
 
-[^key-4f870b45b5ac783bbeb7e55e4cb55315]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4f870b45b5ac783bbeb7e55e4cb55315]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4f870b45b5ac783bbeb7e55e4cb55315]
+## 1. Citation and commencement[^c-4f870b45b5ac783bbeb7e55e4cb55315]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Fees in the Register of Scotland Order 1995[^key-4f870b45b5ac783bbeb7e55e4cb55315]
+## 2. Amendment of the Fees in the Register of Scotland Order 1995[^c-4f870b45b5ac783bbeb7e55e4cb55315]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Part I of the Schedule[^key-4f870b45b5ac783bbeb7e55e4cb55315]
+## 3. Amendment of Part I of the Schedule[^c-4f870b45b5ac783bbeb7e55e4cb55315]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of Part XII of the Schedule[^key-4f870b45b5ac783bbeb7e55e4cb55315]
+## 4. Amendment of Part XII of the Schedule[^c-4f870b45b5ac783bbeb7e55e4cb55315]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-4f870b45b5ac783bbeb7e55e4cb55315] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4f870b45b5ac783bbeb7e55e4cb55315] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4f870b45b5ac783bbeb7e55e4cb55315]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4f870b45b5ac783bbeb7e55e4cb55315]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4f870b45b5ac783bbeb7e55e4cb55315]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4f870b45b5ac783bbeb7e55e4cb55315]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4f870b45b5ac783bbeb7e55e4cb55315]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2009/171) revoked (8.12.2014) by [The Registers of Scotland (Fees) Order 2014 (S.S.I. 2014/188)](https://www.legislation.gov.uk/ssi/2014/188), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/188/article/1/2), [5](https://www.legislation.gov.uk/ssi/2014/188/article/5), [sch. 2](https://www.legislation.gov.uk/ssi/2014/188/schedule/2)
+[^c-4f870b45b5ac783bbeb7e55e4cb55315]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2009/171) revoked (8.12.2014) by [The Registers of Scotland (Fees) Order 2014 (S.S.I. 2014/188)](https://www.legislation.gov.uk/ssi/2014/188), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/188/article/1/2), [5](https://www.legislation.gov.uk/ssi/2014/188/article/5), [sch. 2](https://www.legislation.gov.uk/ssi/2014/188/schedule/2)

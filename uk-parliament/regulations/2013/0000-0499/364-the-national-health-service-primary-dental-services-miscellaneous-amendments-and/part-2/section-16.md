@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Amendment of regulation 24A[^key-2eae0a8a759042227b0aef20f454985b]
+## 16. Amendment of regulation 24A[^c-2eae0a8a759042227b0aef20f454985b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Omit regulation 24A (variation of contractual terms in respect of election to en
 
 ## Annotations
 
-[^key-2eae0a8a759042227b0aef20f454985b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2013/364/regulation/16) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-2eae0a8a759042227b0aef20f454985b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2013/364/regulation/16) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-fca040446f62a6b4ce5be6078b674f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-fca040446f62a6b4ce5be6078b674f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Where paragraph (3) applies, a contracting authority may require an economic operator to state, in its tender or request to participate, the names and relevant professional qualifications of the staff to be responsible for the performance of the contract.
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fca040446f62a6b4ce5be6078b674f8c]: Textual amendment: [Reg. 20(1)](https://www.legislation.gov.uk/ssi/2015/446/regulation/20/1) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(18)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/18) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-fca040446f62a6b4ce5be6078b674f8c]: Textual amendment: [Reg. 20(1)](https://www.legislation.gov.uk/ssi/2015/446/regulation/20/1) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(18)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/18) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

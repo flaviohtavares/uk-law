@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Offences by bodies corporate[^key-58f26d4d984322e669a29207aa605408]
+## 35. Offences by bodies corporate[^c-58f26d4d984322e669a29207aa605408]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ that person as well as the body corporate commits the offence and is liable to b
 
 ## Annotations
 
-[^key-58f26d4d984322e669a29207aa605408]: Commencement: [S. 35](https://www.legislation.gov.uk/anaw/2014/7/section/35) in force at 23.11.2016 by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)
+[^c-58f26d4d984322e669a29207aa605408]: Commencement: [S. 35](https://www.legislation.gov.uk/anaw/2014/7/section/35) in force at 23.11.2016 by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)

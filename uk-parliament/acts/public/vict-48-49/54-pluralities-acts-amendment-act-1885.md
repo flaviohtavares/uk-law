@@ -29,13 +29,13 @@ Pluralities Acts Amendment Act 1885
 
 1885 c.54
 
-An Act to amend the Law relating to Pluralities.[^key-b75c92c361f8dac94bd730f4aebbb3ba]
+An Act to amend the Law relating to Pluralities.[^c-b75c92c361f8dac94bd730f4aebbb3ba]
 
 \[6th August 1885\][^c7370451]
 
 ## 1. Short title.
 
-This Act may be cited as the Pluralities Acts Amendment Act 1885. *(affected by repeal, see note)*[^key-b75c92c361f8dac94bd730f4aebbb3ba]
+This Act may be cited as the Pluralities Acts Amendment Act 1885. *(affected by repeal, see note)*[^c-b75c92c361f8dac94bd730f4aebbb3ba]
 
 ## 2. Construction and interpretation.
 
@@ -73,7 +73,7 @@ Every notice, requisition, nomination, or certificate to be given or sent pursua
 
 ## Annotations
 
-[^key-b75c92c361f8dac94bd730f4aebbb3ba]: Textual amendment: Act repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/2); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-b75c92c361f8dac94bd730f4aebbb3ba]: Textual amendment: Act repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/2); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
 [^c7370451]: Commencement: Act wholly in force at Royal Assent
 

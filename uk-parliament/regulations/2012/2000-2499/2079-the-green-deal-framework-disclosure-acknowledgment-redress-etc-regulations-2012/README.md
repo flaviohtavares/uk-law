@@ -179,7 +179,7 @@ Accordingly, the Secretary of State makes the following Regulations, in exercise
 - [Section 41 — Specified period under section 8(3)](part-7/section-41.md)
 - [Section 42 — Action to be taken under section 8(4)](part-7/section-42.md)
 
-#### CHAPTER 1A — Updating of disclosure document[^key-f8f60f70bca526dee54a3c9b3d2b10be]
+#### CHAPTER 1A — Updating of disclosure document[^c-f8f60f70bca526dee54a3c9b3d2b10be]
 
 - [Section 42A — Circumstances in which green deal information in disclosure document must be updated](part-7/section-42a.md)
 - [Section 42B — Requirement to update green deal information in disclosure document](part-7/section-42b.md)
@@ -423,4 +423,4 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00004]: Footnote: Section 2(2) was amended by the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51), section 27(1), and by the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), section 3(3) and Schedule, Part 1. Under section 57(1) of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), despite the transfer to Scottish Ministers of functions in relation to implementing obligations under EU law in relation to devolved matters, the Secretary of State retains power to exercise such functions as regards Scotland.
 
-[^key-f8f60f70bca526dee54a3c9b3d2b10be]: Textual amendment: [Pt. 7 Ch. 1A](https://www.legislation.gov.uk/uksi/2012/2079/part/7/chapter/1A) inserted (28.1.2013) by [The Green Deal Framework (Disclosure, Acknowledgment, Redress etc.) (Amendment) Regulations 2013 (S.I. 2013/139)](https://www.legislation.gov.uk/uksi/2013/139), [regs. 1](https://www.legislation.gov.uk/uksi/2013/139/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/139/regulation/7)
+[^c-f8f60f70bca526dee54a3c9b3d2b10be]: Textual amendment: [Pt. 7 Ch. 1A](https://www.legislation.gov.uk/uksi/2012/2079/part/7/chapter/1A) inserted (28.1.2013) by [The Green Deal Framework (Disclosure, Acknowledgment, Redress etc.) (Amendment) Regulations 2013 (S.I. 2013/139)](https://www.legislation.gov.uk/uksi/2013/139), [regs. 1](https://www.legislation.gov.uk/uksi/2013/139/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/139/regulation/7)

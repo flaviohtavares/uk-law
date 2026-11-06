@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16A. Power to set thresholds for exemption from registration[^key-0b9a3d6b709aaaccf4ef52f4c587e583]
+## 16A. Power to set thresholds for exemption from registration[^c-0b9a3d6b709aaaccf4ef52f4c587e583]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b9a3d6b709aaaccf4ef52f4c587e583]: Textual amendment: [Ss. 16A-16C](https://www.legislation.gov.uk/nia/2008/12/section/16A) inserted (30.3.2022) by [Charities Act (Northern Ireland) 2022 (c. 11)](https://www.legislation.gov.uk/nia/2022/11), [ss. 3(5)](https://www.legislation.gov.uk/nia/2022/11/section/3/5), [4(2)](https://www.legislation.gov.uk/nia/2022/11/section/4/2)
+[^c-0b9a3d6b709aaaccf4ef52f4c587e583]: Textual amendment: [Ss. 16A-16C](https://www.legislation.gov.uk/nia/2008/12/section/16A) inserted (30.3.2022) by [Charities Act (Northern Ireland) 2022 (c. 11)](https://www.legislation.gov.uk/nia/2022/11), [ss. 3(5)](https://www.legislation.gov.uk/nia/2022/11/section/3/5), [4(2)](https://www.legislation.gov.uk/nia/2022/11/section/4/2)

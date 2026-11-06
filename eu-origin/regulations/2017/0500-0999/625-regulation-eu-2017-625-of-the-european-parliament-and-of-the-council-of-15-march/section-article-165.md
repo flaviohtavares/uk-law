@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 165. Amendments to Regulation (EU) 2016/2031 and related transitional provisions[^key-391f8e11f8effb9f936e58e8e7705f3f]
+## Article 165. Amendments to Regulation (EU) 2016/2031 and related transitional provisions[^c-391f8e11f8effb9f936e58e8e7705f3f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-391f8e11f8effb9f936e58e8e7705f3f]: Textual amendment: [Art. 165](https://www.legislation.gov.uk/eur/2017/625/article/165) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [28(8)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/28/8) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-391f8e11f8effb9f936e58e8e7705f3f]: Textual amendment: [Art. 165](https://www.legislation.gov.uk/eur/2017/625/article/165) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [28(8)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/28/8) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

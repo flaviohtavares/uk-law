@@ -37,16 +37,16 @@ amending Decision 1999/847/EC as regards the extension of the Community action p
 
 (2005/12/EC) (revoked)
 
-[^key-0231f12c7f6cc366646d6bf49ee90880]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0231f12c7f6cc366646d6bf49ee90880]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-0231f12c7f6cc366646d6bf49ee90880] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-0231f12c7f6cc366646d6bf49ee90880] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-0231f12c7f6cc366646d6bf49ee90880] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-0231f12c7f6cc366646d6bf49ee90880] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0231f12c7f6cc366646d6bf49ee90880]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0231f12c7f6cc366646d6bf49ee90880]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0231f12c7f6cc366646d6bf49ee90880]: Textual amendment: Decision revoked (14.8.2021) by [The Union Civil Protection Mechanism (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/896)](https://www.legislation.gov.uk/uksi/2021/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/896/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2021/896/regulation/2/b)
+[^c-0231f12c7f6cc366646d6bf49ee90880]: Textual amendment: Decision revoked (14.8.2021) by [The Union Civil Protection Mechanism (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/896)](https://www.legislation.gov.uk/uksi/2021/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/896/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2021/896/regulation/2/b)

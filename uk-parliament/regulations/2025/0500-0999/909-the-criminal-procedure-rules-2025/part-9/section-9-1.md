@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9.1. When this Part applies[^key-48ec95e98ef6200df1088719ee4475af]
+## 9.1. When this Part applies[^c-48ec95e98ef6200df1088719ee4475af]
 
 *Extent: E+W*
 
@@ -52,7 +52,7 @@ summary: ''
 
 ## Annotations
 
-[^key-48ec95e98ef6200df1088719ee4475af]: Commencement: [Rule 9.1](https://www.legislation.gov.uk/uksi/2025/909/rule/9.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-48ec95e98ef6200df1088719ee4475af]: Commencement: [Rule 9.1](https://www.legislation.gov.uk/uksi/2025/909/rule/9.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00251]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); sections 17A to 17C were inserted by section 49 of the Criminal Procedure and Investigations Act [1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25). Sections 17A, 17D, 17E, 18 to 21 and 23 to 26 were amended or inserted by Schedule 3 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44). Sections 17A, 17D, 20, 20A, 24 and 24A were further amended by paragraphs 44, 45, 46, 47, 48 and 49 respectively of Schedule 24 to the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17). Section 19 was further amended by section 378 of, and paragraph 88 of Schedule 16 to, the Armed Forces Act [2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), sections 144, 177 and 178 of, and paragraph 4 of Schedule 17, paragraph 80 of Schedule 21 and Schedule 23 to, the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25) and [S.I. 2019/780](https://www.legislation.gov.uk/uksi/2019/780). Section 22 was amended by sections 38 and 170 of, and Schedule 16 to, the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33), section 68 of, and paragraph 6 of Schedule 8 to, the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53), section 2 of the Aggravated Vehicle-Taking Act [1992 (c. 11)](https://www.legislation.gov.uk/ukpga/1992/11) and sections 46 and 168 of, and Schedule 11 to, the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33). Section 22A was inserted by section 176 of the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12) and amended by section 52 of the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2).
 

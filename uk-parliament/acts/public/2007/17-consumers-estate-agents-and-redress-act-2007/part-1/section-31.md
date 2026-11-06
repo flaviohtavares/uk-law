@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Designation of the Consumer Council for Water for abolition[^key-773755eb8e5a6505c2cd395d0f961910]
+## 31. Designation of the Consumer Council for Water for abolition[^c-773755eb8e5a6505c2cd395d0f961910]
 
 *Extent: E+W*
 
@@ -27,13 +27,13 @@ summary: ''
 (3) Before making an order under this section the Secretary of State must consult—
 
 - (a) the Consumer Council for Water,
-- (b) Citizens Advice[^key-e4be72b5e6cd1028323a476b532d3299], and
+- (b) Citizens Advice[^c-e4be72b5e6cd1028323a476b532d3299], and
 - (c) such other persons as the Secretary of State considers appropriate.
 
 (4) An order under this section may only be made with the consent of the Welsh Ministers.
 
 ## Annotations
 
-[^key-773755eb8e5a6505c2cd395d0f961910]: Commencement: S. 31 in force at 1.10.2008 by [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550) , [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2) , [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-773755eb8e5a6505c2cd395d0f961910]: Commencement: S. 31 in force at 1.10.2008 by [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550) , [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2) , [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
 
-[^key-e4be72b5e6cd1028323a476b532d3299]: Textual amendment: Words in s. 31(3)(b) substituted (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading's Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 12(33)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/12/33) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
+[^c-e4be72b5e6cd1028323a476b532d3299]: Textual amendment: Words in s. 31(3)(b) substituted (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading's Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 12(33)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/12/33) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))

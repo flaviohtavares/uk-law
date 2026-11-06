@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Minimum compensation in case of listed building deliberately left derelict.[^key-b717f0e4d68c249f15048c0eb92cb76c][^c12917031]
+## 50. Minimum compensation in case of listed building deliberately left derelict.[^c-b717f0e4d68c249f15048c0eb92cb76c][^c12917031]
 
 *Extent: E+W*
 
@@ -51,7 +51,7 @@ they may include in the compulsory purchase order as submitted to the Secretary 
 
 ## Annotations
 
-[^key-b717f0e4d68c249f15048c0eb92cb76c]: Modification: Ss. 32-50 applied in part (Isles of Scilly) (with modifications) (2.10.2013) by [The Town and Country Planning (Isles of Scilly) Order 2013 (S.I. 2013/2148)](https://www.legislation.gov.uk/uksi/2013/2148), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2148/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/2))
+[^c-b717f0e4d68c249f15048c0eb92cb76c]: Modification: Ss. 32-50 applied in part (Isles of Scilly) (with modifications) (2.10.2013) by [The Town and Country Planning (Isles of Scilly) Order 2013 (S.I. 2013/2148)](https://www.legislation.gov.uk/uksi/2013/2148), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2148/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/2))
 
 [^c12917031]: Modification: Ss. 47–50 modified by [S.I. 1990/1519](https://www.legislation.gov.uk/uksi/1990/1519), [reg. 13(1)](https://www.legislation.gov.uk/uksi/1990/1519/regulation/13/1)
 

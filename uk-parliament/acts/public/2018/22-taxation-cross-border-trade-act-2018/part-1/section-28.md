@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Requirement to have regard to international obligations[^c23439301][^key-690f4dc1c3a409d2c9198d03afece67f]
+## 28. Requirement to have regard to international obligations[^c23439301][^c-690f4dc1c3a409d2c9198d03afece67f]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ must have regard to international arrangements to which Her Majesty's government
 
 [^c23439301]: Commencement: S. 28 in force for specified purposes at 13.9.2018, see s. 57(1)(a)
 
-[^key-690f4dc1c3a409d2c9198d03afece67f]: Commencement: S. 28 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-690f4dc1c3a409d2c9198d03afece67f]: Commencement: S. 28 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)

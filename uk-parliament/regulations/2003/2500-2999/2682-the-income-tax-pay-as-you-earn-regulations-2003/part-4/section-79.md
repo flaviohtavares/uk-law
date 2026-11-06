@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This regulation applies if there is an inspection of an employer’s PAYE records under Schedule 36 to the Finance Act 2008 (information and inspection powers)[^key-8ae106886ca09cf3285c8837ff587a5a].
+(1) This regulation applies if there is an inspection of an employer’s PAYE records under Schedule 36 to the Finance Act 2008 (information and inspection powers)[^c-8ae106886ca09cf3285c8837ff587a5a].
 
 (2) The Inland Revenue may, by reference to the information obtained from the inspection, prepare a certificate showing—
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ae106886ca09cf3285c8837ff587a5a]: Textual amendment: Words in [reg. 79(1)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/79/1) substituted (1.4.2009) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2009 (S.I. 2009/588)](https://www.legislation.gov.uk/uksi/2009/588), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/588/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2009/588/regulation/5)
+[^c-8ae106886ca09cf3285c8837ff587a5a]: Textual amendment: Words in [reg. 79(1)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/79/1) substituted (1.4.2009) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2009 (S.I. 2009/588)](https://www.legislation.gov.uk/uksi/2009/588), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/588/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2009/588/regulation/5)

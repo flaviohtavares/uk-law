@@ -90,7 +90,7 @@ The provision by an individual (“**A**”) of A's own services which A provide
 
 (2) The provision by any other individual of computing or printing equipment which was acquired by that individual principally for his or her own personal use if the provision is made free of charge.
 
-#### 13.[^key-05a5ca815642e5634b363d5b5efd77b6]
+#### 13.[^c-05a5ca815642e5634b363d5b5efd77b6]
 
 (1) Any matter that is reasonably attributable to the candidate’s disability, to the extent that the expenses in respect of the matter are reasonably incurred.
 
@@ -100,4 +100,4 @@ The provision by an individual (“**A**”) of A's own services which A provide
 
 [^c21918971]: Textual amendment: [Schs. 3A](https://www.legislation.gov.uk/apni/1962/14/schedule/3A), 3B inserted (16.12.2010) by [Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/2), [4](https://www.legislation.gov.uk/uksi/2010/2977/article/4), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2010/2977/schedule/1/paragraph/19) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3))
 
-[^key-05a5ca815642e5634b363d5b5efd77b6]: Textual amendment: [Sch. 3B para. 13](https://www.legislation.gov.uk/apni/1962/14/schedule/3B/paragraph/13) inserted (14.3.2019) by [The Local Elections (Northern Ireland) (Election Expenses) Order 2019 (S.I. 2019/564)](https://www.legislation.gov.uk/uksi/2019/564), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/564/article/1/2), [4](https://www.legislation.gov.uk/uksi/2019/564/article/4)
+[^c-05a5ca815642e5634b363d5b5efd77b6]: Textual amendment: [Sch. 3B para. 13](https://www.legislation.gov.uk/apni/1962/14/schedule/3B/paragraph/13) inserted (14.3.2019) by [The Local Elections (Northern Ireland) (Election Expenses) Order 2019 (S.I. 2019/564)](https://www.legislation.gov.uk/uksi/2019/564), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/564/article/1/2), [4](https://www.legislation.gov.uk/uksi/2019/564/article/4)

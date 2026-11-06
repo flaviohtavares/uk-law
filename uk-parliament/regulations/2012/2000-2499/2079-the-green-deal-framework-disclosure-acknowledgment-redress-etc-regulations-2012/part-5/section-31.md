@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Payment period not to exceed savings period[^key-f0795d549d94f1b48c41efd6856a4d58]
+## 31. Payment period not to exceed savings period[^c-f0795d549d94f1b48c41efd6856a4d58]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The energy plan must not provide for the payment period to end after the date on
 
 ## Annotations
 
-[^key-f0795d549d94f1b48c41efd6856a4d58]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2012/2079/regulation/31) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)
+[^c-f0795d549d94f1b48c41efd6856a4d58]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2012/2079/regulation/31) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Duty not to act against users except in accordance with terms of service[^key-4aad463132c54a003aaa9bc449f36e82]
+## 71. Duty not to act against users except in accordance with terms of service[^c-4aad463132c54a003aaa9bc449f36e82]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ except in accordance with the terms of service.
 (2) Nothing in subsection (1) is to be read as preventing a provider from taking down content from a service or restricting users’ access to it, or suspending or banning a user, if such an action is taken—
 
 - (a) to comply with the duties set out in—
-  - (i) section 10(2) , (3) or (3A)[^key-22d752cc397bb3c0cc8df6650a424a08] (protecting individuals from illegal content), or
+  - (i) section 10(2) , (3) or (3A)[^c-22d752cc397bb3c0cc8df6650a424a08] (protecting individuals from illegal content), or
   - (ii) section 12(2) or (3) (protecting children from content that is harmful to children), or
 - (b) to avoid criminal or civil liability on the part of the provider that might reasonably be expected to arise if such an action were not taken.
 
@@ -61,6 +61,6 @@ except in accordance with the terms of service.
 
 ## Annotations
 
-[^key-4aad463132c54a003aaa9bc449f36e82]: Commencement: S. 71 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-4aad463132c54a003aaa9bc449f36e82]: Commencement: S. 71 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-22d752cc397bb3c0cc8df6650a424a08]: Textual amendment: Words in s. 71(2)(a)(i) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 101(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/101/7), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
+[^c-22d752cc397bb3c0cc8df6650a424a08]: Textual amendment: Words in s. 71(2)(a)(i) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 101(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/101/7), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)

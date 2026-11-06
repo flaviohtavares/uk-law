@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 79. Interpretation of Part 6[^key-fca5c106b8a6202e768fd69db8a8e407]
+## 79. Interpretation of Part 6[^c-fca5c106b8a6202e768fd69db8a8e407]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ In this Part—
 
 ## Annotations
 
-[^key-fca5c106b8a6202e768fd69db8a8e407]: Commencement: [Reg. 79](https://www.legislation.gov.uk/nisr/2007/195/regulation/79) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-fca5c106b8a6202e768fd69db8a8e407]: Commencement: [Reg. 79](https://www.legislation.gov.uk/nisr/2007/195/regulation/79) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

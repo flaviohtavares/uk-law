@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 116. Distribution to creditors[^key-cc6b1edecb112c0f768879d8cd0b3d36]
+## 116. Distribution to creditors[^c-cc6b1edecb112c0f768879d8cd0b3d36]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc6b1edecb112c0f768879d8cd0b3d36]: Commencement: Rule 116 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-cc6b1edecb112c0f768879d8cd0b3d36]: Commencement: Rule 116 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

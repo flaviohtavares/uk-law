@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^c847738] Subject to subsection (4) below [^key-4c9640445ab1bdfd2e5126be7c5b4acd]... a Circuit judge shall vacate his office on the day on which he attains the age of 75[^key-8a14143d0848ede4b3970bc52f7416a6].
+(1)[^c847738] Subject to subsection (4) below [^c-4c9640445ab1bdfd2e5126be7c5b4acd]... a Circuit judge shall vacate his office on the day on which he attains the age of 75[^c-8a14143d0848ede4b3970bc52f7416a6].
 
 (2)[^c847739] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -36,9 +36,9 @@ summary: ''
 
 [^c847738]: Textual amendment: [S. 17(1)](https://www.legislation.gov.uk/ukpga/1971/23/section/17/1) substituted (31.3.1995) by [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8), [s. 26](https://www.legislation.gov.uk/ukpga/1993/8/section/26), [Sch. 6 para. 8(2)](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/8/2); [S.I. 1995/631](https://www.legislation.gov.uk/uksi/1995/631), [art. 2](https://www.legislation.gov.uk/uksi/1995/631/article/2)
 
-[^key-4c9640445ab1bdfd2e5126be7c5b4acd]: Textual amendment: Words in [s. 17(1)](https://www.legislation.gov.uk/ukpga/1971/23/section/17/1) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 11(2)(a)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/11/2/a) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-4c9640445ab1bdfd2e5126be7c5b4acd]: Textual amendment: Words in [s. 17(1)](https://www.legislation.gov.uk/ukpga/1971/23/section/17/1) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 11(2)(a)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/11/2/a) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
-[^key-8a14143d0848ede4b3970bc52f7416a6]: Textual amendment: Word in [s. 17(1)](https://www.legislation.gov.uk/ukpga/1971/23/section/17/1) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 11(2)(b)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/11/2/b) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-8a14143d0848ede4b3970bc52f7416a6]: Textual amendment: Word in [s. 17(1)](https://www.legislation.gov.uk/ukpga/1971/23/section/17/1) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 11(2)(b)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/11/2/b) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
 [^c847739]: Textual amendment: [S. 17(2)(3)](https://www.legislation.gov.uk/ukpga/1971/23/section/17/2/3) repealed (31.3.1995) by [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8), [s. 26](https://www.legislation.gov.uk/ukpga/1993/8/section/26), [Sch. 6 para. 8(3)(4)](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/8/3/4), [Sch.9](https://www.legislation.gov.uk/ukpga/1993/8/schedule/9); [S.I. 1995/631](https://www.legislation.gov.uk/uksi/1995/631), [art. 2](https://www.legislation.gov.uk/uksi/1995/631/article/2)
 

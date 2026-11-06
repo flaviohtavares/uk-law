@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Guidance about inspections[^key-5c7b3e12958bbf9e55ec33ba2eedfbb3]
+## 59. Guidance about inspections[^c-5c7b3e12958bbf9e55ec33ba2eedfbb3]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ After section 73E of the 1991 Act (as inserted by section 56 above) there is ins
 
 ## Annotations
 
-[^key-5c7b3e12958bbf9e55ec33ba2eedfbb3]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2004/18/section/59) in force at 6.4.2015 for E. by [S.I. 2015/199](https://www.legislation.gov.uk/uksi/2015/199), [art. 2](https://www.legislation.gov.uk/uksi/2015/199/article/2)
+[^c-5c7b3e12958bbf9e55ec33ba2eedfbb3]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2004/18/section/59) in force at 6.4.2015 for E. by [S.I. 2015/199](https://www.legislation.gov.uk/uksi/2015/199), [art. 2](https://www.legislation.gov.uk/uksi/2015/199/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Implementation strategy[^c24481151][^key-c7d94488510e0ded6e6f0ca7220048a0]
+## 90. Implementation strategy[^c24481151][^c-c7d94488510e0ded6e6f0ca7220048a0]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ Subsections (3) to (5) of section 83 apply for the purposes of paragraph (b) abo
 
 [^c24481151]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2021/1/section/90) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-c7d94488510e0ded6e6f0ca7220048a0]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2021/1/section/90) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-c7d94488510e0ded6e6f0ca7220048a0]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2021/1/section/90) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)

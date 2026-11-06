@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Agreements with Network Rail[^key-46b84f616c0f59aeaa804e77e84ef7d1]
+## 44. Agreements with Network Rail[^c-46b84f616c0f59aeaa804e77e84ef7d1]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ together with any rights and obligations (whether or not statutory) of Network R
 
 ## Annotations
 
-[^key-46b84f616c0f59aeaa804e77e84ef7d1]: Commencement: Art. 44 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-46b84f616c0f59aeaa804e77e84ef7d1]: Commencement: Art. 44 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

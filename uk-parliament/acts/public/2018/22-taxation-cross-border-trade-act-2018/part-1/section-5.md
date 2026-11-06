@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Goods not presented to Customs or Customs declaration not made[^c23428771][^key-df06b84866d635ea5756f40e2e0a6ff5]
+## 5. Goods not presented to Customs or Customs declaration not made[^c23428771][^c-df06b84866d635ea5756f40e2e0a6ff5]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ a liability to import duty is incurred at the time at which the goods become lia
 
 [^c23428771]: Commencement: S. 5 in force for specified purposes at 13.9.2018, see s. 57(1)(a)
 
-[^key-df06b84866d635ea5756f40e2e0a6ff5]: Commencement: S. 5 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/1642/regulation/5))
+[^c-df06b84866d635ea5756f40e2e0a6ff5]: Commencement: S. 5 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/1642/regulation/5))

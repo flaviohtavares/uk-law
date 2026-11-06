@@ -78,7 +78,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Enforcement
 
-#### 3. Action by Accounts Commission following report by Controller of Audit[^key-a3ad72d40212667ab75f7c6dd883829d]
+#### 3. Action by Accounts Commission following report by Controller of Audit[^c-a3ad72d40212667ab75f7c6dd883829d]
 
 (1) On a report being made to it by the Controller of Audit under section 102(1) of the Local Government (Scotland) Act 1973 (c. 65) (the “**1973 Act**”), the Accounts Commission for Scotland may do, in any order, all or any of the following, or none of them—
 
@@ -88,7 +88,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (2) Findings which do not follow a hearing shall, for the purposes of section 103D of the 1973 Act, as applied by section 4 below, be treated as the findings of the members of the Commission holding a hearing.
 
-#### 4. Hearings under section 3 above[^key-a3ad72d40212667ab75f7c6dd883829d]
+#### 4. Hearings under section 3 above[^c-a3ad72d40212667ab75f7c6dd883829d]
 
 (1) Sections 103C (procedure, evidence etc. at hearings held by Commission) and 103D (findings of hearings) of the 1973 Act apply to hearings held under section 3(1)(b) above as they apply to hearings held under section 103B(1)(b) of that Act.
 
@@ -110,7 +110,7 @@ the opportunity of appearing and being heard.
 
 (6) Subsections (1), (6) and (7) of section 103 of the 1973 Act (which are superseded by provisions of section 3 above and this section) are repealed.
 
-#### 5. Action by local authorities on receipt of findings[^key-a3ad72d40212667ab75f7c6dd883829d]
+#### 5. Action by local authorities on receipt of findings[^c-a3ad72d40212667ab75f7c6dd883829d]
 
 (1) A local authority receiving a copy of findings under section 103D of the 1973 Act as applied by section 4 above shall consider those findings in accordance with section 103E(1) and (2) of that Act and subsections (3) to (7) of the said section 103E shall apply accordingly.
 
@@ -328,7 +328,7 @@ revenue is not less than expenditure.
 
 ### Accounts, finance and performance accountability
 
-#### 12. Proper accounting practices[^key-7dd43da425917c5be53bd56fa140ddc5]
+#### 12. Proper accounting practices[^c-7dd43da425917c5be53bd56fa140ddc5]
 
 (1) It is the duty of a local authority to observe proper accounting practices.
 
@@ -340,7 +340,7 @@ revenue is not less than expenditure.
 
 (3) In the event of a conflict in any respect between the practices within paragraph (a) of subsection (2) above and those within paragraph (b) or (c) of that subsection, only those within paragraph (a) are to be regarded as proper accounting practices in that respect, and in the event of a conflict in any respect between those within paragraph (b) and paragraph (c) of that subsection, only those within paragraph (b) are, in that respect, to be so regarded.
 
-#### 13. Publication by local authorities of information about finance and performance[^key-aa7e117e1ee3fbcc447d905fc9141e88]
+#### 13. Publication by local authorities of information about finance and performance[^c-aa7e117e1ee3fbcc447d905fc9141e88]
 
 (1) It is the duty of a local authority to make arrangements for the reporting to the public of the outcome of the performance of its functions.
 
@@ -387,27 +387,27 @@ revenue is not less than expenditure.
 
 This Part of this Act applies also to those bodies to which Part VII (finance) of the 1973 Act applies by virtue of section 106(1) of that Act (application to committees, joint committees and joint boards the members of which are appointed by local authorities and to charities etc. the trustees of which are local authorities or their members).
 
-## Part 2 — Community planning[^key-de2c7fbcb864496d6acf099275d4d514]
+## Part 2 — Community planning[^c-de2c7fbcb864496d6acf099275d4d514]
 
 **No longer in force.**
 
-### 15. Community planning[^key-de2c7fbcb864496d6acf099275d4d514]
+### 15. Community planning[^c-de2c7fbcb864496d6acf099275d4d514]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Community planning: further provision[^key-de2c7fbcb864496d6acf099275d4d514]
+### 16. Community planning: further provision[^c-de2c7fbcb864496d6acf099275d4d514]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Reports and information[^key-de2c7fbcb864496d6acf099275d4d514]
+### 17. Reports and information[^c-de2c7fbcb864496d6acf099275d4d514]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Guidance[^key-de2c7fbcb864496d6acf099275d4d514]
+### 18. Guidance[^c-de2c7fbcb864496d6acf099275d4d514]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Establishment of corporate bodies to co-ordinate and further community planning etc.[^key-de2c7fbcb864496d6acf099275d4d514]
+### 19. Establishment of corporate bodies to co-ordinate and further community planning etc.[^c-de2c7fbcb864496d6acf099275d4d514]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -477,11 +477,11 @@ if the authority considers that doing so is likely to achieve the purpose set ou
 - (a) setting and determining amounts of council tax; or
 - (b) subject to subsection (9) below, imposing reasonable charges for anything done by the authority under section 20 above.
 
-(9) [^key-d6804feaeb7d2e437fff74cef46920c7]... the saving in subsection (8)(b) above does not enable a local authority to impose charges in respect of anything done by it in pursuance of any of the following functions—
+(9) [^c-d6804feaeb7d2e437fff74cef46920c7]... the saving in subsection (8)(b) above does not enable a local authority to impose charges in respect of anything done by it in pursuance of any of the following functions—
 
 - (a) functions relating to education in schools;
 - (b) functions relating to the provision of a public library service;
-- (c)[^key-b1bd4b1dd6c0fe41c27511aaef7236c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-b1bd4b1dd6c0fe41c27511aaef7236c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) functions relating to the registration of elections;
 - (e) functions relating to the conduct of elections;
 - (f) such other functions as may by order be prescribed for the purposes of this subsection by the Scottish Ministers.
@@ -546,7 +546,7 @@ they may serve a preliminary notice on the authority.
 - (a) prepare a report on their exercise of that power; and
 - (b) lay that report before the Scottish Parliament.
 
-### 25. Scrutiny of local authorities' police and fire functions[^key-6316275de178c9be7371c5279f0ddc7d]
+### 25. Scrutiny of local authorities' police and fire functions[^c-6316275de178c9be7371c5279f0ddc7d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -773,36 +773,36 @@ In section 14 (which provides that certain buildings used in connection with agr
   ; and
 - (b) for the words “this section”, where they appear in subsections (8), (9) and (10), there is substituted “ subsection (7) above ”.
 
-### 33. Council tax: variation for unoccupied dwellings[^key-53d27438cce533dee3068c46b21cc891]
+### 33. Council tax: variation for unoccupied dwellings[^c-53d27438cce533dee3068c46b21cc891]
 
 (1) The Scottish Ministers may, by regulations—
 
-- (a)[^key-41065be608d0708baf5346c95adf68ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) provide [^key-cb59c4d80375b3c983158a69ea4ec561]... that the amount of council tax payable in respect of a chargeable dwelling and any day is to be subject to a variation[^key-4fc4b5fc043795366b9b3a1388935655] if, on that day, there is no resident of the dwelling and for the calculation of the amount of that variation.
+- (a)[^c-41065be608d0708baf5346c95adf68ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) provide [^c-cb59c4d80375b3c983158a69ea4ec561]... that the amount of council tax payable in respect of a chargeable dwelling and any day is to be subject to a variation[^c-4fc4b5fc043795366b9b3a1388935655] if, on that day, there is no resident of the dwelling and for the calculation of the amount of that variation.
 
-(1A)[^key-108708a462a594ec9265955ba8fb0d4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-108708a462a594ec9265955ba8fb0d4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Regulations made under paragraph (b) of subsection (1) above may, in particular—
 
 - (a) provide in relation to some circumstances in which there is no resident of a chargeable dwelling but not in relation to others;
 - (b) confer on local authorities powers—
-  - (i)[^key-d693f29a092b50cbd28fbf873d7db2d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (ii) to modify the application of the regulations within their respective areas so that a different amount of variation, or no variation, applies[^key-7015f715b5896964e327936f29c2d3fd] in relation to some circumstances in which there is no resident of a chargeable dwelling but not in relation to others (and to make different modifications for different cases or different classes of case, including for different areas);
+  - (i)[^c-d693f29a092b50cbd28fbf873d7db2d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) to modify the application of the regulations within their respective areas so that a different amount of variation, or no variation, applies[^c-7015f715b5896964e327936f29c2d3fd] in relation to some circumstances in which there is no resident of a chargeable dwelling but not in relation to others (and to make different modifications for different cases or different classes of case, including for different areas);
 - (c) make different provision for different cases or different classes of case, including different provision for different areas or for different local authorities.
 
-(2A)[^key-1af34e58270f0438ba75a30f486bd04f] Regulations under subsection (1) may not provide (or allow provision to be made by local authorities) for unoccupied dwellings owned by a local authority or a registered social landlord to be treated more favourably than other unoccupied dwellings solely on the ground of that ownership.
+(2A)[^c-1af34e58270f0438ba75a30f486bd04f] Regulations under subsection (1) may not provide (or allow provision to be made by local authorities) for unoccupied dwellings owned by a local authority or a registered social landlord to be treated more favourably than other unoccupied dwellings solely on the ground of that ownership.
 
 (3) The circumstances referred to in subsections (2)(a) and (b)(ii) above include—
 
 - (a) those deriving from the use to which a chargeable dwelling is put; and
 - (b) the personal circumstances of the owner of the dwelling.
 
-(4) A power conferred under subsection (2)(b)(ii) above may not permit local authorities to modify regulations under this section so as to —[^key-e2eadc7ba361378e3cdadf9b51be59ea]
+(4) A power conferred under subsection (2)(b)(ii) above may not permit local authorities to modify regulations under this section so as to —[^c-e2eadc7ba361378e3cdadf9b51be59ea]
 
-- (a)[^key-baa2113f1cb77313d185fc3ff8487136] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-baa2113f1cb77313d185fc3ff8487136] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) contravene any limits that may be specified in the regulations.
 
-(4A)[^key-eeb446f4ed31a987f0034db85252cc22] If regulations under subsection (1) confer on local authorities a power under subsection (2)(b)(ii), the regulations may provide that, in exercising the power, a local authority must have regard to any guidance issued by the Scottish Ministers about the exercise of the power.
+(4A)[^c-eeb446f4ed31a987f0034db85252cc22] If regulations under subsection (1) confer on local authorities a power under subsection (2)(b)(ii), the regulations may provide that, in exercising the power, a local authority must have regard to any guidance issued by the Scottish Ministers about the exercise of the power.
 
 (5) Expressions used in this section and in section 79 of the Local Government Finance Act 1992 (c. 14) have in this section the same meaning as they have in that one.
 
@@ -955,7 +955,7 @@ and they may make different provision for different cases or different classes o
 
 ### 38. Scottish Ministers' power to pay off loans made to local authorities
 
-(1) The Scottish Ministers may make to the Treasury, in respect of a local loan made under section 3 of the National Loans Act 1968,[^key-088d3edd864598d00e90f120414e8169] or to any other person payment reducing or extinguishing a local authority’s liability to the Treasury[^key-6c4de6a44eca303ec615ee0f9ef9973c] or, as the case may be, that other person in respect of a loan made by the Treasury or that other person to the authority for the purposes of capital expenditure.
+(1) The Scottish Ministers may make to the Treasury, in respect of a local loan made under section 3 of the National Loans Act 1968,[^c-088d3edd864598d00e90f120414e8169] or to any other person payment reducing or extinguishing a local authority’s liability to the Treasury[^c-6c4de6a44eca303ec615ee0f9ef9973c] or, as the case may be, that other person in respect of a loan made by the Treasury or that other person to the authority for the purposes of capital expenditure.
 
 (2) If the Scottish Ministers make a payment in pursuance of subsection (1) above they shall—
 
@@ -1113,7 +1113,7 @@ and they may make different provision for different cases or different classes o
 
 ### 46. Power to provide funds for speed cameras etc.
 
-(1) The Scottish Ministers may make payments in respect of the whole or any part of the expenditure of a local authority [^key-e4a97ff80bb7c94f2d0c7b9171fe207c]... in relation to—
+(1) The Scottish Ministers may make payments in respect of the whole or any part of the expenditure of a local authority [^c-e4a97ff80bb7c94f2d0c7b9171fe207c]... in relation to—
 
 - (a) the prevention or detection of offences to which subsection (2) below applies; or
 - (b) any enforcement action or proceedings in respect of such offences or any alleged such offences.
@@ -1128,8 +1128,8 @@ and they may make different provision for different cases or different classes o
 
 (3) Payments under this section shall be made to—
 
-- (a) the authority [^key-f8a8b64e2db7b702587d9020d89cac07]... in respect of whose expenditure the payments are being made; or
-- (b) any other authority [^key-bf03988d6d0b36b33b45539be68336c0]... for payment, in accordance with arrangements agreed with the Scottish Ministers, to, or on behalf of, the authority [^key-bf03988d6d0b36b33b45539be68336c0]... in respect of whose expenditure the payments are being made.
+- (a) the authority [^c-f8a8b64e2db7b702587d9020d89cac07]... in respect of whose expenditure the payments are being made; or
+- (b) any other authority [^c-bf03988d6d0b36b33b45539be68336c0]... for payment, in accordance with arrangements agreed with the Scottish Ministers, to, or on behalf of, the authority [^c-bf03988d6d0b36b33b45539be68336c0]... in respect of whose expenditure the payments are being made.
 
 (4) Payments under this section shall be paid at such times, in such manner and subject to such conditions as the Scottish Ministers may determine.
 
@@ -1264,8 +1264,8 @@ For subsections (1) and (2) of section 102 (reports by Controller of Audit) of t
 
 (2) This section applies to—
 
-- (a) any enactment which the Scottish Ministers consider prevents local authorities from discharging their duty under section 1(1) or 13(1)[^key-7cdf5955490cf2bf0390749952530f0e] above or hinders them in that discharge;
-- (b)[^key-a7770fff990fb1ca281379767a3285d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) any enactment which the Scottish Ministers consider prevents local authorities from discharging their duty under section 1(1) or 13(1)[^c-7cdf5955490cf2bf0390749952530f0e] above or hinders them in that discharge;
+- (b)[^c-a7770fff990fb1ca281379767a3285d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) any enactment which the Scottish Ministers consider prevents local authorities from exercising their power under section 20(1) above.
 
 (3) The power under subsection (1) above may be exercised in relation to—
@@ -1327,14 +1327,14 @@ For subsections (1) and (2) of section 102 (reports by Controller of Audit) of t
 
 In this Act—
 
-- (a)[^key-e1ef1ee4b10ff3bf6be24dcc300db74c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-f9ba00c60f9f7d58a29580c4de23af88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e1ef1ee4b10ff3bf6be24dcc300db74c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-f9ba00c60f9f7d58a29580c4de23af88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) “**local authority**” means—
   - (i) in Part 1, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39) and the Strathclyde Passenger Transport Authority;
   - (ii) in Parts 2, 5 and 8 (other than sections 51 and 52 above) and section 25 above, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39);
-  - (iii) in Part 3 [^c21063651]. . . , a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39)[^key-66a33f2a68448bad04bb2e54a90aa937]... [^key-9224f7c5bb7a5cf8846064672483ad4d]...;
-  - (iv) in Parts 4 (other than section 25 above) and 7, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39)[^key-66a33f2a68448bad04bb2e54a90aa937]..., a joint police board , a Transport Partnership created under the Transport (Scotland) Act 2005 (asp 12)[^c21063631] and the Strathclyde Passenger Transport Authority;
-  - (iva)[^c21063671] in sections 51 and 52 above, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39)[^key-66a33f2a68448bad04bb2e54a90aa937]..., a joint police board and a Transport Partnership created under the Transport (Scotland) Act 2005 (asp 12);
+  - (iii) in Part 3 [^c21063651]. . . , a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39)[^c-66a33f2a68448bad04bb2e54a90aa937]... [^c-9224f7c5bb7a5cf8846064672483ad4d]...;
+  - (iv) in Parts 4 (other than section 25 above) and 7, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39)[^c-66a33f2a68448bad04bb2e54a90aa937]..., a joint police board , a Transport Partnership created under the Transport (Scotland) Act 2005 (asp 12)[^c21063631] and the Strathclyde Passenger Transport Authority;
+  - (iva)[^c21063671] in sections 51 and 52 above, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39)[^c-66a33f2a68448bad04bb2e54a90aa937]..., a joint police board and a Transport Partnership created under the Transport (Scotland) Act 2005 (asp 12);
   - (v) in each of those provisions of this Part which refer to provisions of other Parts, the same meaning as it has in those respective provisions of those other Parts;
 - (d) the “**1973 Act**” means the Local Government (Scotland) Act 1973 (c. 65).
 
@@ -1352,7 +1352,7 @@ In this Act—
 
 [^c21062361]: Modification: [S. 2](https://www.legislation.gov.uk/asp/2003/1/section/2) modified (prosp.) by Local Government Act 2003 (c, 26), {ss. 101(5)}, 128(5)
 
-[^key-a3ad72d40212667ab75f7c6dd883829d]: Modification: Ss. 3-5 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) OrderÂ 2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [7](https://www.legislation.gov.uk/ssi/2013/121/article/7), [Sch.](https://www.legislation.gov.uk/ssi/2013/121/schedule)
+[^c-a3ad72d40212667ab75f7c6dd883829d]: Modification: Ss. 3-5 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) OrderÂ 2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [7](https://www.legislation.gov.uk/ssi/2013/121/article/7), [Sch.](https://www.legislation.gov.uk/ssi/2013/121/schedule)
 
 [^c21062741]: Textual amendment: Words in [s. 7(3)](https://www.legislation.gov.uk/asp/2003/1/section/7/3) substituted (1.5.2005) by [Building (Scotland) Act 2003 (asp 8)](https://www.legislation.gov.uk/asp/2003/8), [ss. 58](https://www.legislation.gov.uk/asp/2003/8/section/58), [59](https://www.legislation.gov.uk/asp/2003/8/section/59), [Sch. 6 para. 25](https://www.legislation.gov.uk/asp/2003/8/schedule/6/paragraph/25) (with [s. 53](https://www.legislation.gov.uk/asp/2003/8/section/53)); [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
 
@@ -1362,75 +1362,75 @@ In this Act—
 
 [^c21063531]: Textual amendment: [S. 11(2)](https://www.legislation.gov.uk/asp/2003/1/section/11/2) repealed (2.8.2005) by [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5), [ss. 89(2)](https://www.legislation.gov.uk/asp/2005/5/section/89/2), [90](https://www.legislation.gov.uk/asp/2005/5/section/90), {sch. 4) (with s. 77)}; [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2(k)](https://www.legislation.gov.uk/ssi/2005/392/article/2/k)
 
-[^key-7dd43da425917c5be53bd56fa140ddc5]: Modification: S. 12 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order 2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [7](https://www.legislation.gov.uk/ssi/2013/121/article/7), [Sch.](https://www.legislation.gov.uk/ssi/2013/121/schedule)
+[^c-7dd43da425917c5be53bd56fa140ddc5]: Modification: S. 12 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order 2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [7](https://www.legislation.gov.uk/ssi/2013/121/article/7), [Sch.](https://www.legislation.gov.uk/ssi/2013/121/schedule)
 
-[^key-aa7e117e1ee3fbcc447d905fc9141e88]: Modification: S. 13 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order 2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [7](https://www.legislation.gov.uk/ssi/2013/121/article/7), [Sch.](https://www.legislation.gov.uk/ssi/2013/121/schedule)
+[^c-aa7e117e1ee3fbcc447d905fc9141e88]: Modification: S. 13 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order 2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [7](https://www.legislation.gov.uk/ssi/2013/121/article/7), [Sch.](https://www.legislation.gov.uk/ssi/2013/121/schedule)
 
-[^key-de2c7fbcb864496d6acf099275d4d514]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/asp/2003/1/part/2) repealed (20.12.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 5](https://www.legislation.gov.uk/asp/2015/6/schedule/5); [S.S.I. 2016/410](https://www.legislation.gov.uk/ssi/2016/410), [art. 2(b)](https://www.legislation.gov.uk/ssi/2016/410/article/2/b)
+[^c-de2c7fbcb864496d6acf099275d4d514]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/asp/2003/1/part/2) repealed (20.12.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 5](https://www.legislation.gov.uk/asp/2015/6/schedule/5); [S.S.I. 2016/410](https://www.legislation.gov.uk/ssi/2016/410), [art. 2(b)](https://www.legislation.gov.uk/ssi/2016/410/article/2/b)
 
 [^c21065321]: Modification: [Pt. 3](https://www.legislation.gov.uk/asp/2003/1/part/3) modified (24.7.2006) by [Waverley Railway (Scotland) Act 2006 (asp 13)](https://www.legislation.gov.uk/asp/2006/13), [s. 39](https://www.legislation.gov.uk/asp/2006/13/section/39) (with [ss. 50(2)](https://www.legislation.gov.uk/asp/2006/13/section/50/2), [51](https://www.legislation.gov.uk/asp/2006/13/section/51))
 
-[^key-d6804feaeb7d2e437fff74cef46920c7]: Textual amendment: Words in s. 22(9) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-d6804feaeb7d2e437fff74cef46920c7]: Textual amendment: Words in s. 22(9) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-b1bd4b1dd6c0fe41c27511aaef7236c1]: Textual amendment: S. 22(9)(c) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-b1bd4b1dd6c0fe41c27511aaef7236c1]: Textual amendment: S. 22(9)(c) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-6316275de178c9be7371c5279f0ddc7d]: Textual amendment: [S. 25](https://www.legislation.gov.uk/asp/2003/1/section/25) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 3](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-6316275de178c9be7371c5279f0ddc7d]: Textual amendment: [S. 25](https://www.legislation.gov.uk/asp/2003/1/section/25) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 3](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-53d27438cce533dee3068c46b21cc891]: Textual amendment: Word in the title of s. 33 substituted (5.12.2012) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 2(7)](https://www.legislation.gov.uk/asp/2012/11/section/2/7), [5(1)](https://www.legislation.gov.uk/asp/2012/11/section/5/1)
+[^c-53d27438cce533dee3068c46b21cc891]: Textual amendment: Word in the title of s. 33 substituted (5.12.2012) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 2(7)](https://www.legislation.gov.uk/asp/2012/11/section/2/7), [5(1)](https://www.legislation.gov.uk/asp/2012/11/section/5/1)
 
-[^key-41065be608d0708baf5346c95adf68ad]: Textual amendment: S. 33(1)(a) repealed (5.12.2012) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 2(2)(a)](https://www.legislation.gov.uk/asp/2012/11/section/2/2/a), [5(1)](https://www.legislation.gov.uk/asp/2012/11/section/5/1)
+[^c-41065be608d0708baf5346c95adf68ad]: Textual amendment: S. 33(1)(a) repealed (5.12.2012) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 2(2)(a)](https://www.legislation.gov.uk/asp/2012/11/section/2/2/a), [5(1)](https://www.legislation.gov.uk/asp/2012/11/section/5/1)
 
-[^key-cb59c4d80375b3c983158a69ea4ec561]: Textual amendment: Words in s. 33(1)(b) repealed (5.12.2012) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 2(2)(b)(i)](https://www.legislation.gov.uk/asp/2012/11/section/2/2/b/i), [5(1)](https://www.legislation.gov.uk/asp/2012/11/section/5/1)
+[^c-cb59c4d80375b3c983158a69ea4ec561]: Textual amendment: Words in s. 33(1)(b) repealed (5.12.2012) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 2(2)(b)(i)](https://www.legislation.gov.uk/asp/2012/11/section/2/2/b/i), [5(1)](https://www.legislation.gov.uk/asp/2012/11/section/5/1)
 
-[^key-4fc4b5fc043795366b9b3a1388935655]: Textual amendment: Words in s. 33(1)(b) substituted (5.12.2012) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 2(2)(b)(ii)](https://www.legislation.gov.uk/asp/2012/11/section/2/2/b/ii), [5(1)](https://www.legislation.gov.uk/asp/2012/11/section/5/1)
+[^c-4fc4b5fc043795366b9b3a1388935655]: Textual amendment: Words in s. 33(1)(b) substituted (5.12.2012) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 2(2)(b)(ii)](https://www.legislation.gov.uk/asp/2012/11/section/2/2/b/ii), [5(1)](https://www.legislation.gov.uk/asp/2012/11/section/5/1)
 
-[^key-108708a462a594ec9265955ba8fb0d4c]: Textual amendment: S. 33(1A) repealed (12.1.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 75(2)(a)](https://www.legislation.gov.uk/asp/2025/13/section/75/2/a), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2025/408](https://www.legislation.gov.uk/ssi/2025/408), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2025/408/regulation/2/a)
+[^c-108708a462a594ec9265955ba8fb0d4c]: Textual amendment: S. 33(1A) repealed (12.1.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 75(2)(a)](https://www.legislation.gov.uk/asp/2025/13/section/75/2/a), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2025/408](https://www.legislation.gov.uk/ssi/2025/408), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2025/408/regulation/2/a)
 
-[^key-d693f29a092b50cbd28fbf873d7db2d9]: Textual amendment: S. 33(2)(b)(i) repealed (5.12.2012) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 2(4)(a)](https://www.legislation.gov.uk/asp/2012/11/section/2/4/a), [5(1)](https://www.legislation.gov.uk/asp/2012/11/section/5/1)
+[^c-d693f29a092b50cbd28fbf873d7db2d9]: Textual amendment: S. 33(2)(b)(i) repealed (5.12.2012) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 2(4)(a)](https://www.legislation.gov.uk/asp/2012/11/section/2/4/a), [5(1)](https://www.legislation.gov.uk/asp/2012/11/section/5/1)
 
-[^key-7015f715b5896964e327936f29c2d3fd]: Textual amendment: Words in s. 33(2)(b)(ii) substituted (5.12.2012) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 2(4)(b)](https://www.legislation.gov.uk/asp/2012/11/section/2/4/b), [5(1)](https://www.legislation.gov.uk/asp/2012/11/section/5/1)
+[^c-7015f715b5896964e327936f29c2d3fd]: Textual amendment: Words in s. 33(2)(b)(ii) substituted (5.12.2012) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 2(4)(b)](https://www.legislation.gov.uk/asp/2012/11/section/2/4/b), [5(1)](https://www.legislation.gov.uk/asp/2012/11/section/5/1)
 
-[^key-1af34e58270f0438ba75a30f486bd04f]: Textual amendment: S. 33(2A) inserted (5.12.2012) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 2(5)](https://www.legislation.gov.uk/asp/2012/11/section/2/5), [5(1)](https://www.legislation.gov.uk/asp/2012/11/section/5/1)
+[^c-1af34e58270f0438ba75a30f486bd04f]: Textual amendment: S. 33(2A) inserted (5.12.2012) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 2(5)](https://www.legislation.gov.uk/asp/2012/11/section/2/5), [5(1)](https://www.legislation.gov.uk/asp/2012/11/section/5/1)
 
-[^key-e2eadc7ba361378e3cdadf9b51be59ea]: Textual amendment: S. 33(4)(a)[(b)](https://www.legislation.gov.uk/asp/2003/1/section/33/4/b) substituted (5.12.2012) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 2(6)](https://www.legislation.gov.uk/asp/2012/11/section/2/6), [5(1)](https://www.legislation.gov.uk/asp/2012/11/section/5/1)
+[^c-e2eadc7ba361378e3cdadf9b51be59ea]: Textual amendment: S. 33(4)(a)[(b)](https://www.legislation.gov.uk/asp/2003/1/section/33/4/b) substituted (5.12.2012) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 2(6)](https://www.legislation.gov.uk/asp/2012/11/section/2/6), [5(1)](https://www.legislation.gov.uk/asp/2012/11/section/5/1)
 
-[^key-baa2113f1cb77313d185fc3ff8487136]: Textual amendment: S. 33(4)(a) repealed (12.1.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 75(2)(b)](https://www.legislation.gov.uk/asp/2025/13/section/75/2/b), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2025/408](https://www.legislation.gov.uk/ssi/2025/408), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2025/408/regulation/2/a)
+[^c-baa2113f1cb77313d185fc3ff8487136]: Textual amendment: S. 33(4)(a) repealed (12.1.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 75(2)(b)](https://www.legislation.gov.uk/asp/2025/13/section/75/2/b), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2025/408](https://www.legislation.gov.uk/ssi/2025/408), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2025/408/regulation/2/a)
 
-[^key-eeb446f4ed31a987f0034db85252cc22]: Textual amendment: S. 33(4A) inserted (12.1.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 75(2)(c)](https://www.legislation.gov.uk/asp/2025/13/section/75/2/c), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2025/408](https://www.legislation.gov.uk/ssi/2025/408), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2025/408/regulation/2/a)
+[^c-eeb446f4ed31a987f0034db85252cc22]: Textual amendment: S. 33(4A) inserted (12.1.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 75(2)(c)](https://www.legislation.gov.uk/asp/2025/13/section/75/2/c), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2025/408](https://www.legislation.gov.uk/ssi/2025/408), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2025/408/regulation/2/a)
 
 [^c21062001]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2003/1/section/35) wholly in force at 30.1.2004; [s. 35](https://www.legislation.gov.uk/asp/2003/1/section/35) not in force at Royal Assent see [s. 62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [s. 35(1)](https://www.legislation.gov.uk/asp/2003/1/section/35/1) in force at 1.4.2003 by [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule); [s. 35(2)-(4)](https://www.legislation.gov.uk/asp/2003/1/section/35/2) in force at 30.1.2004 by [S.S.I. 2004/28](https://www.legislation.gov.uk/ssi/2004/28), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/28/article/2/1)
 
-[^key-088d3edd864598d00e90f120414e8169]: Textual amendment: Words in [s. 38(1)](https://www.legislation.gov.uk/asp/2003/1/section/38/1) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 85(2)(a)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/85/2/a) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
+[^c-088d3edd864598d00e90f120414e8169]: Textual amendment: Words in [s. 38(1)](https://www.legislation.gov.uk/asp/2003/1/section/38/1) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 85(2)(a)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/85/2/a) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
 
-[^key-6c4de6a44eca303ec615ee0f9ef9973c]: Textual amendment: Word in [s. 38(1)](https://www.legislation.gov.uk/asp/2003/1/section/38/1) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 85(2)(b)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/85/2/b) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
+[^c-6c4de6a44eca303ec615ee0f9ef9973c]: Textual amendment: Word in [s. 38(1)](https://www.legislation.gov.uk/asp/2003/1/section/38/1) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 85(2)(b)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/85/2/b) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
 
 [^c5220191]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2003/1/section/42) wholly in force at 1.4.2003; [s. 42(1)(2)](https://www.legislation.gov.uk/asp/2003/1/section/42/1/2) in force at Royal Assent, see [s. 62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2) (s. 42(1) with retrospective effect, see [s. 42(2)](https://www.legislation.gov.uk/asp/2003/1/section/42/2)); [s. 42(3)](https://www.legislation.gov.uk/asp/2003/1/section/42/3) in force at 1.4.2003 by [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
 
-[^key-e4a97ff80bb7c94f2d0c7b9171fe207c]: Textual amendment: Words in [s. 46(1)](https://www.legislation.gov.uk/asp/2003/1/section/46/1) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-e4a97ff80bb7c94f2d0c7b9171fe207c]: Textual amendment: Words in [s. 46(1)](https://www.legislation.gov.uk/asp/2003/1/section/46/1) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-f8a8b64e2db7b702587d9020d89cac07]: Textual amendment: Words in [s. 46(3)(a)](https://www.legislation.gov.uk/asp/2003/1/section/46/3/a) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-f8a8b64e2db7b702587d9020d89cac07]: Textual amendment: Words in [s. 46(3)(a)](https://www.legislation.gov.uk/asp/2003/1/section/46/3/a) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-bf03988d6d0b36b33b45539be68336c0]: Textual amendment: Words in [s. 46(3)(b)](https://www.legislation.gov.uk/asp/2003/1/section/46/3/b) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-bf03988d6d0b36b33b45539be68336c0]: Textual amendment: Words in [s. 46(3)(b)](https://www.legislation.gov.uk/asp/2003/1/section/46/3/b) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
 [^c21063691]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2003/1/section/47) wholly in force at 3.7.2006; [s. 47](https://www.legislation.gov.uk/asp/2003/1/section/47) not in force at Royal Assent see [s. 62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [s. 47(2)-(6)](https://www.legislation.gov.uk/asp/2003/1/section/47/2) in force at 20.3.2006 and s. 47(1)(7) in force at 3.7.2006 by [S.S.I. 2006/89](https://www.legislation.gov.uk/ssi/2006/89), [art. 2](https://www.legislation.gov.uk/ssi/2006/89/article/2)
 
 [^c21065351]: Textual amendment: [S. 50](https://www.legislation.gov.uk/asp/2003/1/section/50) repealed (1.8.2007) by [Scottish Schools (Parental Involvement) Act 2006 (asp 8)](https://www.legislation.gov.uk/asp/2006/8), [ss. 23](https://www.legislation.gov.uk/asp/2006/8/section/23), [24(2)](https://www.legislation.gov.uk/asp/2006/8/section/24/2), [sch.](https://www.legislation.gov.uk/asp/2006/8/schedule); [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
 
-[^key-7cdf5955490cf2bf0390749952530f0e]: Textual amendment: Words in [s. 57(2)(a)](https://www.legislation.gov.uk/asp/2003/1/section/57/2/a) substituted (20.12.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 4 para. 7](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/7); [S.S.I. 2016/410](https://www.legislation.gov.uk/ssi/2016/410), [art. 2(a)](https://www.legislation.gov.uk/ssi/2016/410/article/2/a)
+[^c-7cdf5955490cf2bf0390749952530f0e]: Textual amendment: Words in [s. 57(2)(a)](https://www.legislation.gov.uk/asp/2003/1/section/57/2/a) substituted (20.12.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 4 para. 7](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/7); [S.S.I. 2016/410](https://www.legislation.gov.uk/ssi/2016/410), [art. 2(a)](https://www.legislation.gov.uk/ssi/2016/410/article/2/a)
 
-[^key-a7770fff990fb1ca281379767a3285d2]: Textual amendment: [S. 57(2)(b)](https://www.legislation.gov.uk/asp/2003/1/section/57/2/b) repealed (20.12.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 5](https://www.legislation.gov.uk/asp/2015/6/schedule/5); [S.S.I. 2016/410](https://www.legislation.gov.uk/ssi/2016/410), [art. 2(b)](https://www.legislation.gov.uk/ssi/2016/410/article/2/b)
+[^c-a7770fff990fb1ca281379767a3285d2]: Textual amendment: [S. 57(2)(b)](https://www.legislation.gov.uk/asp/2003/1/section/57/2/b) repealed (20.12.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 5](https://www.legislation.gov.uk/asp/2015/6/schedule/5); [S.S.I. 2016/410](https://www.legislation.gov.uk/ssi/2016/410), [art. 2(b)](https://www.legislation.gov.uk/ssi/2016/410/article/2/b)
 
 [^c21062011]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2003/1/section/60) wholly in force at 1.4.2004; [s. 60](https://www.legislation.gov.uk/asp/2003/1/section/60) not in force at Royal Assent see [s. 62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [s. 60(1)(a)(c)-(f)](https://www.legislation.gov.uk/asp/2003/1/section/60/1/a/c)(h)-(j)(2)(3) in force at 1.4.2003 by [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule) and s. 60(1)(g) in force at 1.5.2003 by art. 2(2) of that S.S.I.; [s. 60(1)(b)](https://www.legislation.gov.uk/asp/2003/1/section/60/1/b) in force at 1.4.2004 by [S.S.I. 2004/28](https://www.legislation.gov.uk/ssi/2004/28), [art. 2(2)](https://www.legislation.gov.uk/ssi/2004/28/article/2/2)
 
-[^key-e1ef1ee4b10ff3bf6be24dcc300db74c]: Textual amendment: [S. 61(a)](https://www.legislation.gov.uk/asp/2003/1/section/61/a) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-e1ef1ee4b10ff3bf6be24dcc300db74c]: Textual amendment: [S. 61(a)](https://www.legislation.gov.uk/asp/2003/1/section/61/a) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-f9ba00c60f9f7d58a29580c4de23af88]: Textual amendment: S. 61(b) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-f9ba00c60f9f7d58a29580c4de23af88]: Textual amendment: S. 61(b) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
 [^c21063651]: Textual amendment: Words in s. 61(c)(iii) repealed (10.10.2005) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 4](https://www.legislation.gov.uk/asp/2005/12/section/4), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 1 para. 16(5)(a)](https://www.legislation.gov.uk/asp/2005/12/schedule/1/paragraph/16/5/a); [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
 
-[^key-66a33f2a68448bad04bb2e54a90aa937]: Textual amendment: Words in s. 61(c) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-66a33f2a68448bad04bb2e54a90aa937]: Textual amendment: Words in s. 61(c) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-9224f7c5bb7a5cf8846064672483ad4d]: Textual amendment: Words in s. 61(c)(iii) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-9224f7c5bb7a5cf8846064672483ad4d]: Textual amendment: Words in s. 61(c)(iii) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
 [^c21063631]: Textual amendment: Words in s. 61(c)(iv) inserted (10.10.2005) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 4](https://www.legislation.gov.uk/asp/2005/12/section/4), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 1 para. 15(5)](https://www.legislation.gov.uk/asp/2005/12/schedule/1/paragraph/15/5); [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
 

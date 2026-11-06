@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Procedure for making appeal[^key-8037e22f14e1843bda095e8bf9701326]
+## 74. Procedure for making appeal[^c-8037e22f14e1843bda095e8bf9701326]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8037e22f14e1843bda095e8bf9701326]: Commencement: S. 74 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-8037e22f14e1843bda095e8bf9701326]: Commencement: S. 74 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

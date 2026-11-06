@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Power to make regulations about registration, absent voting and other matters[^key-db0efeea24b70fe7e87385b3c269a0ca][^key-62017efcbf34334aff7e2fc10c5914b4][^key-384eb5c2bf52711f32e344243fde5fee]
+## 2. Power to make regulations about registration, absent voting and other matters[^c-db0efeea24b70fe7e87385b3c269a0ca][^c-62017efcbf34334aff7e2fc10c5914b4][^c-384eb5c2bf52711f32e344243fde5fee]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,8 +24,8 @@ Schedule 2 contains provision, including provision amending Schedule 2 to RPA 19
 
 ## Annotations
 
-[^key-db0efeea24b70fe7e87385b3c269a0ca]: Commencement: S. 2 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-db0efeea24b70fe7e87385b3c269a0ca]: Commencement: S. 2 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-62017efcbf34334aff7e2fc10c5914b4]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/37/section/2) in force at 27.8.2022 for specified purposes by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/b)
+[^c-62017efcbf34334aff7e2fc10c5914b4]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/37/section/2) in force at 27.8.2022 for specified purposes by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/b)
 
-[^key-384eb5c2bf52711f32e344243fde5fee]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/37/section/2) in force at 16.1.2023 for specified purposes by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/b)
+[^c-384eb5c2bf52711f32e344243fde5fee]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/37/section/2) in force at 16.1.2023 for specified purposes by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/b)

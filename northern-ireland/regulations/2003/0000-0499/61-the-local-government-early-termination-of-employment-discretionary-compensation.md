@@ -45,11 +45,11 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 
 ## PART I — GENERAL
 
-### 1. Citation and commencement[^key-95a08fd8dbbe80a2a4989fb63bb6ad01]
+### 1. Citation and commencement[^c-95a08fd8dbbe80a2a4989fb63bb6ad01]
 
 These Regulations may be cited as the Local Government (Early Termination of Employment) (Discretionary Compensation) Regulations (Northern Ireland) 2003 and shall come into operation on 24th March 2003.
 
-### 2. General interpretation[^key-c3a6c11ee7e2c677c309b568b4e950be]
+### 2. General interpretation[^c-c3a6c11ee7e2c677c309b568b4e950be]
 
 (1) Schedule 1 contains definitions of expressions used in these Regulations which apply for their interpretation.
 
@@ -61,7 +61,7 @@ These Regulations may be cited as the Local Government (Early Termination of Emp
 
 (5) Where these Regulations refer to a Scheme member or a person who would be or would have been a Scheme member, those references shall include a pensionable employee and a person who would be or would have been a pensionable employee.
 
-### 3. General and special application of Regulations[^key-ef0f6a267cbdb04b97fd5e48a3268b89]
+### 3. General and special application of Regulations[^c-ef0f6a267cbdb04b97fd5e48a3268b89]
 
 (1) These Regulations apply in relation to, or as the case may be, in consequence of the death of, a person –
 
@@ -77,7 +77,7 @@ and in the following provisions of these Regulations “person” shall be const
 
 ## PART II — INCREASE OF STATUTORY REDUNDANCY PAYMENTS
 
-### 4. Power to increase statutory redundancy payments[^key-fbf4b31fd4643086e22fe623cc64fc53]
+### 4. Power to increase statutory redundancy payments[^c-fbf4b31fd4643086e22fe623cc64fc53]
 
 (1) Compensation may be paid in accordance with this regulation to a person who is entitled to a redundancy payment under the 1996 Order on the termination of his employment.
 
@@ -90,7 +90,7 @@ and in the following provisions of these Regulations “person” shall be const
 
 ## PART III — DISCRETIONARY COMPENSATION FOR REDUNDANCY: GENERAL
 
-### 5. Discretionary compensation for redundancy: general[^key-93d9bad827a6430abcd945b51c8a92fd]
+### 5. Discretionary compensation for redundancy: general[^c-93d9bad827a6430abcd945b51c8a92fd]
 
 (1) This Part applies where a person –
 
@@ -129,7 +129,7 @@ and in the following provisions of these Regulations “person” shall be const
 
 ## PART IV — ALTERNATIVE DISCRETIONARY AWARDS FOR THOSE AGED 50 AND OVER
 
-### 6. Persons eligible for discretionary awards[^key-71302de51ed9cb04977e146d27179ecd]
+### 6. Persons eligible for discretionary awards[^c-71302de51ed9cb04977e146d27179ecd]
 
 (1) A person is an eligible person for this Part if he satisfies the requirements in paragraph (2).
 
@@ -150,7 +150,7 @@ and in the following provisions of these Regulations “person” shall be const
   - (i) amounts in total to at least 5 years; and
   - (ii) does not in total exceed 40 years.
 
-### 7. Award of credited period by way of compensation[^key-d407a7a32104f440bed8afb1817fc130]
+### 7. Award of credited period by way of compensation[^c-d407a7a32104f440bed8afb1817fc130]
 
 (1) An employing authority may award a credited period to an eligible person.
 
@@ -168,7 +168,7 @@ and in the following provisions of these Regulations “person” shall be const
 
 (3) An award may not be made later than six months after the termination date.
 
-### 8. Period of residual entitlement[^key-4b0cc8a364e75f26e08b9bb1a377ab9f]
+### 8. Period of residual entitlement[^c-4b0cc8a364e75f26e08b9bb1a377ab9f]
 
 (1) A person has a period of residual entitlement under regulation 7(2)(b) if he has been awarded a credited period in respect of an earlier cessation.
 
@@ -191,7 +191,7 @@ where –
 
 (4) The earlier extra service of a person to whom paragraph (3) applies shall be reduced by the period of his subsequent employment or, where the reduction in paragraph (3)(b) or (c) was of, or attributable to, part of that period, by that part.
 
-### 9. Lump sum compensation[^key-11e52b94f5b48a9c69cf950d5f74542e]
+### 9. Lump sum compensation[^c-11e52b94f5b48a9c69cf950d5f74542e]
 
 (1) Subject to Part V, an eligible person who has been awarded a credited period is entitled to compensation in the form of a lump sum if –
 
@@ -200,7 +200,7 @@ where –
 
 (2) The amount of lump sum compensation payable, unless adjusted in accordance with Part V, is an amount equal to that by which his retirement grant would be increased on the relevant assumptions and in accordance with the Pension Regulations if his total membership were increased by the credited period.
 
-### 10. Annual compensation: general provisions[^key-174ac10466be73b5a49998cf39ef102f]
+### 10. Annual compensation: general provisions[^c-174ac10466be73b5a49998cf39ef102f]
 
 (1) Subject to Part V, an eligible person who has been awarded a credited period is entitled to annual compensation.
 
@@ -215,7 +215,7 @@ would be increased, on the relevant assumptions and in accordance with those Reg
 
 ## PART V — EFFECT OF OTHER RECEIPTS ON PART IV COMPENSATION
 
-### 11. Effect of occupational pension[^key-136f8cd7a756d493a0f3b398d352f3d4]
+### 11. Effect of occupational pension[^c-136f8cd7a756d493a0f3b398d352f3d4]
 
 (1) Where the conditions in paragraph (2) are met, an eligible person’s basic entitlement shall, if necessary, be reduced so that the total of the annual rates for the time being of –
 
@@ -230,7 +230,7 @@ is not more than the relevant amount.
 - (a) that immediately before the termination date the eligible person was entitled to an occupational pension in respect of any period (whether or not it was being paid); and
 - (b) that the total of that period, his total membership and any credited period is more than 40 years.
 
-### 12. Effect of redundancy payments[^key-3ecbb378895813c0ad12586f02f1a260]
+### 12. Effect of redundancy payments[^c-3ecbb378895813c0ad12586f02f1a260]
 
 (1) This regulation applies to an eligible person who, in respect of any terminated employment –
 
@@ -257,7 +257,7 @@ where –
 - B is the amount, expressed in years and fractions of a year to the nearest day, by which the credited period exceeds 6⅔; and
 - C is the total amount of any reductions made in the redundancy payment and compensation referred to in paragraph (1)(b) in accordance with the 1965 Regulations.
 
-### 13. Effect of other termination payments[^key-f9cb37645c8c209e00568181d173074c]
+### 13. Effect of other termination payments[^c-f9cb37645c8c209e00568181d173074c]
 
 (1) This regulation applies to an eligible person who –
 
@@ -276,7 +276,7 @@ where –
 
 (5) Where adjustments to a person’s basic entitlement are required in accordance with paragraph (4), no instalment of annual compensation is payable to him until the total of the deductions under that paragraph equals the amount of the adjustment.
 
-### 14. Effect of periodic payments[^key-2d7dfbc62f238c42abd4a4cad88cc522]
+### 14. Effect of periodic payments[^c-2d7dfbc62f238c42abd4a4cad88cc522]
 
 (1) An eligible person who receives periodic payments from his employing authority shall not be entitled to annual compensation for any period in which the total of the periodic payments received is greater than his basic entitlement (as adjusted, where required, under regulations 12, 13, 16 and 18) otherwise payable for that period.
 
@@ -289,7 +289,7 @@ is the amount of his basic entitlement for that period (as adjusted, where requi
 
 ## PART VI — EFFECT ON NEW EMPLOYMENT ON PART IV COMPENSATION
 
-### 15. Interpretation: Part VI[^key-caa0fef5b9b19012e85237729b310f7a]
+### 15. Interpretation: Part VI[^c-caa0fef5b9b19012e85237729b310f7a]
 
 (1) In this Part, “annual compensation” means the annual compensation, after any necessary adjustment in accordance with Part V, which would, apart from regulation 16, be payable to a person under these Regulations.
 
@@ -300,7 +300,7 @@ is the amount of his basic entitlement for that period (as adjusted, where requi
 
 shall be treated as if he had again entered a new employment.
 
-### 16. Reduction of annual compensation[^key-6af69601b4d9b8db3331fbf70b8ab17e]
+### 16. Reduction of annual compensation[^c-6af69601b4d9b8db3331fbf70b8ab17e]
 
 (1) Where an eligible person to whom a credited period has been awarded enters a new employment, the employing authority must reduce his annual compensation by such amount (if any) as it considers appropriate.
 
@@ -321,7 +321,7 @@ greater than the annual rate of pay to which he would have been entitled had he 
 
 ## PART VII — EFFECT OF CESSATION OF NEW EMPLOYMENT ON PART IV COMPENSATION
 
-### 17. Interpretation: Part VII[^key-460c855b52212a5680c00d6547d42216]
+### 17. Interpretation: Part VII[^c-460c855b52212a5680c00d6547d42216]
 
 (1) In this Part, “annual compensation” means the compensation payable to an eligible person under regulation 10 after any necessary adjustment in accordance with regulation 12.
 
@@ -332,7 +332,7 @@ greater than the annual rate of pay to which he would have been entitled had he 
 
 shall be treated as if he had again entered a new employment.
 
-### 18. Effect of cessation of new employment[^key-8de0f17fd564440a201e2c70d26e1c25]
+### 18. Effect of cessation of new employment[^c-8de0f17fd564440a201e2c70d26e1c25]
 
 (1) Where an eligible person who has been awarded a credited period has ceased to hold a new employment in which he was a Scheme member or an assumed member, and the sum, in years, of –
 
@@ -357,7 +357,7 @@ exceeds the total membership which would have been used for the purpose of that 
 
 ## PART VIII — SURRENDERS AND AWARDS TO SURVIVING SPOUSES AND CHILDREN
 
-### 19. Surrender of part of annual compensation[^key-0fb4b9517883ae4f1f29442016dd0518]
+### 19. Surrender of part of annual compensation[^c-0fb4b9517883ae4f1f29442016dd0518]
 
 (1) A person who, under regulation 36 (surrenders of pension) of the Pension Regulations has been allowed to surrender part of the retirement pension to which he would otherwise have been entitled on ceasing to hold his former employment, may (having been awarded a credited period) notify his employing authority, in accordance with paragraph (2) or (3), that he wishes to surrender part of his annual compensation.
 
@@ -392,7 +392,7 @@ whichever is the latest.
 - (b) if he is a person to whom an allowance for life has been granted (see regulation 14(2)), in accordance with that regulation;
 - (c) under regulation 18.
 
-### 20. Awards to surviving spouses[^key-87240084f65dcf832c9b2cfa3aca3ff9]
+### 20. Awards to surviving spouses[^c-87240084f65dcf832c9b2cfa3aca3ff9]
 
 (1) This regulation applies where, on the death of a person who has been awarded a credited period, there is a surviving spouse –
 
@@ -425,7 +425,7 @@ only such one of them as they may choose shall be so entitled; and the other sha
 
 (7) The employing authority may determine by resolution in any case where the surviving spouse had not, as at 1st February 2003 entered into a subsequent marriage or a period of cohabitation that paragraph (5) or (6), as appropriate, shall not apply.
 
-### 21. Amount of surviving spouse’s short-term and long-term compensation[^key-9114022d1e18943fddf44fad880237ec]
+### 21. Amount of surviving spouse’s short-term and long-term compensation[^c-9114022d1e18943fddf44fad880237ec]
 
 (1) Surviving spouse’s short-term compensation is payable at an annual rate equal to that at which annual compensation would have been payable to the deceased immediately before his death in accordance with these Regulations, ignoring –
 
@@ -441,7 +441,7 @@ only such one of them as they may choose shall be so entitled; and the other sha
 
 (4) The amount payable under regulation 20 for a period to a surviving spouse who receives periodic payments is the amount which would have been paid to that surviving spouse for that period, less the total of the periodic payments received for that period.
 
-### 22. Short-term compensation for children[^key-cf75f027176c888d67f701287c6b6018]
+### 22. Short-term compensation for children[^c-cf75f027176c888d67f701287c6b6018]
 
 (1) This regulation applies where a person who has been awarded a credited period dies, leaving one or more eligible children –
 
@@ -458,7 +458,7 @@ only such one of them as they may choose shall be so entitled; and the other sha
 
 (5) If eligible children to whom or for whose benefit periodic payments are made are entitled to children’s short-term compensation for a period, the amount payable to or for their benefit for that period is the amount which would have been paid to them (in accordance with paragraph (1) or (2)) for that period, less the total of any periodic payments made for that period.
 
-### 23. Long-term compensation for children[^key-2816aa73afb533c9b30c8b4afd95ff67]
+### 23. Long-term compensation for children[^c-2816aa73afb533c9b30c8b4afd95ff67]
 
 (1) This regulation applies where a person who has been awarded a credited period dies, leaving one or more eligible children –
 
@@ -480,7 +480,7 @@ only such one of them as they may choose shall be so entitled; and the other sha
 
 (6) The amounts payable under this regulation for a period to a child who receives periodic payments is the amount which would have been paid to him for that period, less the total of the periodic payments received for that period.
 
-### 24. Payment of children’s compensation[^key-6328bc8de8c68be046167eeb714b8b42]
+### 24. Payment of children’s compensation[^c-6328bc8de8c68be046167eeb714b8b42]
 
 (1) Where children’s compensation is payable to, or for the benefit of, the same children to whom, or for whose benefit, children’s pensions are payable under regulation 49 (discretions as to payment of children’s pensions) of the Pension Regulations, the compensation shall be paid to the same person and, if applicable, in the same proportions as the pension is paid under that regulation.
 
@@ -493,7 +493,7 @@ the employing authority shall decide to whom the children’s compensation is to
 
 ## PART IX — INFORMATION ABOUT AND PAYMENT OF COMPENSATION
 
-### 25. Policy statements[^key-57533475d53afd9e3292a91a16c55036]
+### 25. Policy statements[^c-57533475d53afd9e3292a91a16c55036]
 
 (1) Each Scheme employer must formulate, publish within four months of the commencement date, and keep under review –
 
@@ -509,7 +509,7 @@ the employing authority shall decide to whom the children’s compensation is to
 - (a) have regard to the extent to which the exercise of its discretionary powers (in accordance with the policy), unless properly limited, could lead to a serious loss of confidence in the public service; and
 - (b) be satisfied that the policy is workable, affordable and reasonable having regard to the foreseeable costs.
 
-### 26. Information relevant to compensation – employing authorities[^key-d01d46a9ef7e4447ede36812e9f02ce7]
+### 26. Information relevant to compensation – employing authorities[^c-d01d46a9ef7e4447ede36812e9f02ce7]
 
 (1) Within one month after the date of –
 
@@ -526,13 +526,13 @@ the employing authority must, by notice in writing, inform the recipient of the 
 
 as it may reasonably require for the discharge of its functions under these Regulations; and may require the information and documents to be supplied and produced within such reasonable period as may be specified in the notice.
 
-### 27. Information relevant to compensation – individuals[^key-cdf5d97f4cc81692ec8c5c58c112b127]
+### 27. Information relevant to compensation – individuals[^c-cdf5d97f4cc81692ec8c5c58c112b127]
 
 (1) Within one month after the date of his entry into, or departure from, a new employment, a person to whom a credited period has been awarded must, by notice in writing, inform his employing authority of that fact.
 
 (2) A person who has received a notice under regulation 26(2) must supply the information and produce the documents required (in so far as they are in his possession or under his control); and, if a period for their supply and production has been specified in the notice, must supply and produce them before the end of that period.
 
-### 28. Payments and repayments[^key-385a5e8b29dc5859103a90df6165ab7b]
+### 28. Payments and repayments[^c-385a5e8b29dc5859103a90df6165ab7b]
 
 (1) Any compensation payable under these Regulations –
 
@@ -553,13 +553,13 @@ as it may reasonably require for the discharge of its functions under these Regu
 
 (4) The paying authority shall take into account the person’s circumstances (so far as known or reasonably ascertainable), before taking steps under paragraph (3)(c).
 
-### 29. Interest on late payments[^key-3331f3caed116dcc63c0b8c688708d6b]
+### 29. Interest on late payments[^c-3331f3caed116dcc63c0b8c688708d6b]
 
 (1) Where all or part of any compensation due under either of Part IV or VIII is not paid by the paying authority within the relevant period after the due date, that authority must pay interest on the unpaid amount to the person to whom it is payable.
 
 (2) Interest under paragraph (1) must be calculated at one per cent. above base rate on a day to day basis from the due date to the date of payment, and compounded with three-monthly rests.
 
-### 30. Authority by whom compensation is payable[^key-c5b1f244bb778e8dbec0ed59755212c5]
+### 30. Authority by whom compensation is payable[^c-c5b1f244bb778e8dbec0ed59755212c5]
 
 (1) Unless other provisions of these Regulations have a different effect, compensation payable under either of Part IV or VIII shall be paid by the employing authority.
 
@@ -571,22 +571,22 @@ as it may reasonably require for the discharge of its functions under these Regu
 
 ## PART X — MISCELLANEOUS AND SUPPLEMENTARY
 
-### 31. Finance[^key-d35ee6e9d4f9e6a077124b85dcfb3a65]
+### 31. Finance[^c-d35ee6e9d4f9e6a077124b85dcfb3a65]
 
 The cost of any payment to be made under these Regulations must not be met out of the fund.
 
-### 32. Transitional provisions and savings[^key-c1236bcf8f031a6f921b0279eb118d2a]
+### 32. Transitional provisions and savings[^c-c1236bcf8f031a6f921b0279eb118d2a]
 
 Regulations 20, 22, 23 and 24 shall have effect as if references in them to provisions of the Pension Regulations included, in relation to any case in which comparable provisions of the 2000 Regulations apply (by virtue of the Transitional Regulations), references to those comparable provisions.
 
-### 33. Consequential amendments[^key-0b7a590080be7099f98951b65142e3ec]
+### 33. Consequential amendments[^c-0b7a590080be7099f98951b65142e3ec]
 
 In the Pension Regulations –
 
 - (a) in paragraph (9) of regulation 54 (power of employing authority to increase total membership of members leaving employment at or after 50), immediately before the words “in respect of a cessation”, there shall be inserted “or regulation 7 of the Local Government (Early Termination of Employment) (Discretionary Compensation) Regulations (Northern Ireland) 2003”;
 - (b) in paragraph (2)(a) of regulation 130 (conversion of periods credited under Discretionary Payments Regulations etc. into membership), immediately before the words “with a period”, there shall be inserted “or Part IV of the Local Government (Early Termination of Employment) (Discretionary Compensation) Regulations (Northern Ireland) 2003”.
 
-### 34. Revocations and savings[^key-c16785ef62fbf517f27c4843171bd90e]
+### 34. Revocations and savings[^c-c16785ef62fbf517f27c4843171bd90e]
 
 (1) Subject to paragraph (2), the following provisions of the 2001 Regulations are hereby revoked –
 
@@ -604,7 +604,7 @@ A senior officer of the
 
 Department of the Environment
 
-## SCHEDULE 1 — INTERPRETATION[^key-4faff1e0c2c0a310f1582ea6400524fa]
+## SCHEDULE 1 — INTERPRETATION[^c-4faff1e0c2c0a310f1582ea6400524fa]
 
 Regulation 2(1) to (3)
 
@@ -716,7 +716,7 @@ In these Regulations –
 - “total membership” includes any period of special service (other than special service consisting of periods of unpaid leave or other unpaid absence from duty); and
 - “Transitional Regulations” means the Local Government Pension Scheme (Amendment No. 2 and Transitional Provisions) Regulations (Northern Ireland) 2002[^f00024].
 
-## SCHEDULE 2 — TABLE FOR DETERMINATION OF “APPROPRIATE PERCENTAGE”[^key-9ab10fe95be9bbf9ac6c938e39eec367]
+## SCHEDULE 2 — TABLE FOR DETERMINATION OF “APPROPRIATE PERCENTAGE”[^c-9ab10fe95be9bbf9ac6c938e39eec367]
 
 Regulation 2(3) and Schedule 1
 
@@ -744,7 +744,7 @@ Regulation 2(3) and Schedule 1
 </tbody>
 </table>
 
-## SCHEDULE 3 — EMPLOYERS TO WHICH PARTS IV TO VIII APPLY[^key-52ead02afbd2f212acc2b4aac9b3bfff]
+## SCHEDULE 3 — EMPLOYERS TO WHICH PARTS IV TO VIII APPLY[^c-52ead02afbd2f212acc2b4aac9b3bfff]
 
 Schedule 1
 
@@ -801,83 +801,83 @@ Regulation 31 prevents the cost of payments under the Regulations being charged 
 
 [^f00002]: Footnote: [S.R. & O. (N.I.) 1973 No. 504](https://www.legislation.gov.uk/nisro/1973/504) Article 7(1); [S.I. 1976/424 (N.I. 6)](https://www.legislation.gov.uk/nisi/1976/424)
 
-[^key-95a08fd8dbbe80a2a4989fb63bb6ad01]: Commencement: Reg. 1 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-95a08fd8dbbe80a2a4989fb63bb6ad01]: Commencement: Reg. 1 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-c3a6c11ee7e2c677c309b568b4e950be]: Commencement: Reg. 2 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-c3a6c11ee7e2c677c309b568b4e950be]: Commencement: Reg. 2 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-ef0f6a267cbdb04b97fd5e48a3268b89]: Commencement: Reg. 3 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-ef0f6a267cbdb04b97fd5e48a3268b89]: Commencement: Reg. 3 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-fbf4b31fd4643086e22fe623cc64fc53]: Commencement: Reg. 4 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-fbf4b31fd4643086e22fe623cc64fc53]: Commencement: Reg. 4 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
 [^f00003]: Footnote: *See* Article 23(1)(c) of the Employment Rights (Northern Ireland) Order 1996
 
-[^key-93d9bad827a6430abcd945b51c8a92fd]: Commencement: Reg. 5 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-93d9bad827a6430abcd945b51c8a92fd]: Commencement: Reg. 5 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-71302de51ed9cb04977e146d27179ecd]: Commencement: Reg. 6 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-71302de51ed9cb04977e146d27179ecd]: Commencement: Reg. 6 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
 [^f00004]: Footnote: *See* regulation 8(2) of the Pension Regulations
 
 [^f00005]: Footnote: *See* regulation 9 of the Pension Regulations
 
-[^key-d407a7a32104f440bed8afb1817fc130]: Commencement: Reg. 7 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-d407a7a32104f440bed8afb1817fc130]: Commencement: Reg. 7 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-4b0cc8a364e75f26e08b9bb1a377ab9f]: Commencement: Reg. 8 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-4b0cc8a364e75f26e08b9bb1a377ab9f]: Commencement: Reg. 8 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-11e52b94f5b48a9c69cf950d5f74542e]: Commencement: Reg. 9 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-11e52b94f5b48a9c69cf950d5f74542e]: Commencement: Reg. 9 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-174ac10466be73b5a49998cf39ef102f]: Commencement: Reg. 10 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-174ac10466be73b5a49998cf39ef102f]: Commencement: Reg. 10 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-136f8cd7a756d493a0f3b398d352f3d4]: Commencement: Reg. 11 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-136f8cd7a756d493a0f3b398d352f3d4]: Commencement: Reg. 11 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-3ecbb378895813c0ad12586f02f1a260]: Commencement: Reg. 12 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-3ecbb378895813c0ad12586f02f1a260]: Commencement: Reg. 12 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-f9cb37645c8c209e00568181d173074c]: Commencement: Reg. 13 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-f9cb37645c8c209e00568181d173074c]: Commencement: Reg. 13 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-2d7dfbc62f238c42abd4a4cad88cc522]: Commencement: Reg. 14 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-2d7dfbc62f238c42abd4a4cad88cc522]: Commencement: Reg. 14 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-caa0fef5b9b19012e85237729b310f7a]: Commencement: Reg. 15 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-caa0fef5b9b19012e85237729b310f7a]: Commencement: Reg. 15 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-6af69601b4d9b8db3331fbf70b8ab17e]: Commencement: Reg. 16 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-6af69601b4d9b8db3331fbf70b8ab17e]: Commencement: Reg. 16 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-460c855b52212a5680c00d6547d42216]: Commencement: Reg. 17 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-460c855b52212a5680c00d6547d42216]: Commencement: Reg. 17 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-8de0f17fd564440a201e2c70d26e1c25]: Commencement: Reg. 18 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-8de0f17fd564440a201e2c70d26e1c25]: Commencement: Reg. 18 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-0fb4b9517883ae4f1f29442016dd0518]: Commencement: Reg. 19 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-0fb4b9517883ae4f1f29442016dd0518]: Commencement: Reg. 19 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
 [^f00006]: Footnote: *See* regulation 26(2) of the Pension Regulations
 
-[^key-87240084f65dcf832c9b2cfa3aca3ff9]: Commencement: Reg. 20 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-87240084f65dcf832c9b2cfa3aca3ff9]: Commencement: Reg. 20 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-9114022d1e18943fddf44fad880237ec]: Commencement: Reg. 21 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-9114022d1e18943fddf44fad880237ec]: Commencement: Reg. 21 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-cf75f027176c888d67f701287c6b6018]: Commencement: Reg. 22 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-cf75f027176c888d67f701287c6b6018]: Commencement: Reg. 22 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-2816aa73afb533c9b30c8b4afd95ff67]: Commencement: Reg. 23 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-2816aa73afb533c9b30c8b4afd95ff67]: Commencement: Reg. 23 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-6328bc8de8c68be046167eeb714b8b42]: Commencement: Reg. 24 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-6328bc8de8c68be046167eeb714b8b42]: Commencement: Reg. 24 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-57533475d53afd9e3292a91a16c55036]: Commencement: Reg. 25 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-57533475d53afd9e3292a91a16c55036]: Commencement: Reg. 25 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-d01d46a9ef7e4447ede36812e9f02ce7]: Commencement: Reg. 26 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-d01d46a9ef7e4447ede36812e9f02ce7]: Commencement: Reg. 26 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-cdf5d97f4cc81692ec8c5c58c112b127]: Commencement: Reg. 27 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-cdf5d97f4cc81692ec8c5c58c112b127]: Commencement: Reg. 27 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-385a5e8b29dc5859103a90df6165ab7b]: Commencement: Reg. 28 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-385a5e8b29dc5859103a90df6165ab7b]: Commencement: Reg. 28 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-3331f3caed116dcc63c0b8c688708d6b]: Commencement: Reg. 29 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-3331f3caed116dcc63c0b8c688708d6b]: Commencement: Reg. 29 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-c5b1f244bb778e8dbec0ed59755212c5]: Commencement: Reg. 30 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-c5b1f244bb778e8dbec0ed59755212c5]: Commencement: Reg. 30 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-d35ee6e9d4f9e6a077124b85dcfb3a65]: Commencement: Reg. 31 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-d35ee6e9d4f9e6a077124b85dcfb3a65]: Commencement: Reg. 31 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-c1236bcf8f031a6f921b0279eb118d2a]: Commencement: Reg. 32 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-c1236bcf8f031a6f921b0279eb118d2a]: Commencement: Reg. 32 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-0b7a590080be7099f98951b65142e3ec]: Commencement: Reg. 33 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-0b7a590080be7099f98951b65142e3ec]: Commencement: Reg. 33 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-c16785ef62fbf517f27c4843171bd90e]: Commencement: Reg. 34 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-c16785ef62fbf517f27c4843171bd90e]: Commencement: Reg. 34 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-4faff1e0c2c0a310f1582ea6400524fa]: Commencement: Sch. 1 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-4faff1e0c2c0a310f1582ea6400524fa]: Commencement: Sch. 1 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
 [^f00007]: Footnote: [1965 c. 19 (N.I.)](https://www.legislation.gov.uk/apni/1965/19)
 
@@ -915,9 +915,9 @@ Regulation 31 prevents the cost of payments under the Regulations being charged 
 
 [^f00024]: Footnote: [S.R. 2002 No. 353](https://www.legislation.gov.uk/nisr/2002/353)
 
-[^key-9ab10fe95be9bbf9ac6c938e39eec367]: Commencement: Sch. 2 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-9ab10fe95be9bbf9ac6c938e39eec367]: Commencement: Sch. 2 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
-[^key-52ead02afbd2f212acc2b4aac9b3bfff]: Commencement: Sch. 3 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
+[^c-52ead02afbd2f212acc2b4aac9b3bfff]: Commencement: Sch. 3 in operation at 24.3.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/61/regulation/1)
 
 [^f00025]: Footnote: [S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594) as amended by [S.I. 1989/2406 (N.I. 20)](https://www.legislation.gov.uk/nisi/1989/2406) (Article 166 and Schedule 9)
 

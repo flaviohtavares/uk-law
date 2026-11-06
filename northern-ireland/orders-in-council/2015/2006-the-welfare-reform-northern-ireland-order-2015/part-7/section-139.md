@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 139. Duty to report on operation of this Order[^key-97268af18770157f077c1b9b1ad21a55]
+## 139. Duty to report on operation of this Order[^c-97268af18770157f077c1b9b1ad21a55]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97268af18770157f077c1b9b1ad21a55]: Commencement: [Art. 139](https://www.legislation.gov.uk/nisi/2015/2006/article/139) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(h)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/h)
+[^c-97268af18770157f077c1b9b1ad21a55]: Commencement: [Art. 139](https://www.legislation.gov.uk/nisi/2015/2006/article/139) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(h)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/h)

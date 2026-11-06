@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809EZF. Disguised investment management fees: anti-avoidance[^key-be3329172140d2b2dd1606d8d16f11da]
+## 809EZF. Disguised investment management fees: anti-avoidance[^c-be3329172140d2b2dd1606d8d16f11da]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In determining whether section 809EZA applies in relation to an individual, no r
 
 ## Annotations
 
-[^key-be3329172140d2b2dd1606d8d16f11da]: Textual amendment: Pt. 13 Ch. 5E inserted (with effect in accordance with s. 21(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 21(1)](https://www.legislation.gov.uk/ukpga/2015/11/section/21/1)
+[^c-be3329172140d2b2dd1606d8d16f11da]: Textual amendment: Pt. 13 Ch. 5E inserted (with effect in accordance with s. 21(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 21(1)](https://www.legislation.gov.uk/ukpga/2015/11/section/21/1)

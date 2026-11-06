@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Category 1 and category 2 buildings: structural safety duties of residents etc.[^key-da38f6f29452204ad0df3b6fbe86d7a5]
+## 55. Category 1 and category 2 buildings: structural safety duties of residents etc.[^c-da38f6f29452204ad0df3b6fbe86d7a5]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da38f6f29452204ad0df3b6fbe86d7a5]: Commencement: S. 55 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-da38f6f29452204ad0df3b6fbe86d7a5]: Commencement: S. 55 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

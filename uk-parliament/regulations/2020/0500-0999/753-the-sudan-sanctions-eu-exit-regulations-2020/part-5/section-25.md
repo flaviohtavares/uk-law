@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Technical assistance relating to military goods and military technology[^key-b04e452a07dcb38c5a055ba801b160bb]
+## 25. Technical assistance relating to military goods and military technology[^c-b04e452a07dcb38c5a055ba801b160bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b04e452a07dcb38c5a055ba801b160bb]: Commencement: Reg. 25 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)
+[^c-b04e452a07dcb38c5a055ba801b160bb]: Commencement: Reg. 25 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)

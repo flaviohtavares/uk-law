@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 238. Implied tenancies and licences[^key-554fef2fc71f8da75b2bfa4e7bb0af97]
+## 238. Implied tenancies and licences[^c-554fef2fc71f8da75b2bfa4e7bb0af97]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ P is to be treated as having made a periodic contract with T immediately after t
 
 ## Annotations
 
-[^key-554fef2fc71f8da75b2bfa4e7bb0af97]: Commencement: [S. 238](https://www.legislation.gov.uk/anaw/2016/1/section/238) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-554fef2fc71f8da75b2bfa4e7bb0af97]: Commencement: [S. 238](https://www.legislation.gov.uk/anaw/2016/1/section/238) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

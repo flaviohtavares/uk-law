@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Reduction of cases in which prisoners released unconditionally[^key-c8987a813d2968cd3e6edb566ea4939e]
+## 1. Reduction of cases in which prisoners released unconditionally[^c-c8987a813d2968cd3e6edb566ea4939e]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ In section 243A of the Criminal Justice Act 2003 (duty to release prisoners serv
 
 ## Annotations
 
-[^key-c8987a813d2968cd3e6edb566ea4939e]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/11/section/1) in force at 1.2.2015 by [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/40/article/2/a)
+[^c-c8987a813d2968cd3e6edb566ea4939e]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/11/section/1) in force at 1.2.2015 by [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/40/article/2/a)

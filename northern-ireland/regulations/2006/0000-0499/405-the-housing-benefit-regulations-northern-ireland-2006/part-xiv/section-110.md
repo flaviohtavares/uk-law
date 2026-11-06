@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 110. Criminal offence[^key-e838bd615934bfaab86d32a0c959131c]
+## 110. Criminal offence[^c-e838bd615934bfaab86d32a0c959131c]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Any supplier who fails to supply relevant information to the requirer as, when a
 
 ## Annotations
 
-[^key-e838bd615934bfaab86d32a0c959131c]: Textual amendment: [Reg. 110](https://www.legislation.gov.uk/nisr/2006/405/regulation/110) substituted (1.10.2008) by [The Housing Benefit (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/371)](https://www.legislation.gov.uk/nisr/2008/371), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/371/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2008/371/regulation/2/4)
+[^c-e838bd615934bfaab86d32a0c959131c]: Textual amendment: [Reg. 110](https://www.legislation.gov.uk/nisr/2006/405/regulation/110) substituted (1.10.2008) by [The Housing Benefit (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/371)](https://www.legislation.gov.uk/nisr/2008/371), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/371/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2008/371/regulation/2/4)

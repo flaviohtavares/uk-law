@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175. Commencement: Parts 1 to 4[^key-07c623824daebb2224dc2bb38cfa95b8]
+## 175. Commencement: Parts 1 to 4[^c-07c623824daebb2224dc2bb38cfa95b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07c623824daebb2224dc2bb38cfa95b8]: Commencement: S. 175 in force at Royal Assent, see [s. 176(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/4)
+[^c-07c623824daebb2224dc2bb38cfa95b8]: Commencement: S. 175 in force at Royal Assent, see [s. 176(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/4)

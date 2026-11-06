@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Cooperation and information sharing between the OfS and UKRI[^key-ab42dc50db07c7c88b688e0bd2509db7]
+## 112. Cooperation and information sharing between the OfS and UKRI[^c-ab42dc50db07c7c88b688e0bd2509db7]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,14 +33,14 @@ summary: ''
 - (a) an obligation of confidence owed by the person making the disclosure, or
 - (b) any other restriction on the provision of information (however imposed).
 
-(6) But nothing in this section authorises the OfS or UKRI to provide information where doing so contravenes the data protection legislation[^key-206ea73054135a7771f038a0744d881e] .
+(6) But nothing in this section authorises the OfS or UKRI to provide information where doing so contravenes the data protection legislation[^c-206ea73054135a7771f038a0744d881e] .
 
-(7)[^key-0ef0444242e8c4ca5d347e25a06cd41f] In this section, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
+(7)[^c-0ef0444242e8c4ca5d347e25a06cd41f] In this section, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
 
 ## Annotations
 
-[^key-ab42dc50db07c7c88b688e0bd2509db7]: Commencement: S. 112 in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/m)
+[^c-ab42dc50db07c7c88b688e0bd2509db7]: Commencement: S. 112 in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/m)
 
-[^key-206ea73054135a7771f038a0744d881e]: Textual amendment: Words in [s. 112(6)](https://www.legislation.gov.uk/ukpga/2017/29/section/112/6) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 214(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/214/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-206ea73054135a7771f038a0744d881e]: Textual amendment: Words in [s. 112(6)](https://www.legislation.gov.uk/ukpga/2017/29/section/112/6) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 214(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/214/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-0ef0444242e8c4ca5d347e25a06cd41f]: Textual amendment: [S. 112(7)](https://www.legislation.gov.uk/ukpga/2017/29/section/112/7) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 214(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/214/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-0ef0444242e8c4ca5d347e25a06cd41f]: Textual amendment: [S. 112(7)](https://www.legislation.gov.uk/ukpga/2017/29/section/112/7) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 214(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/214/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

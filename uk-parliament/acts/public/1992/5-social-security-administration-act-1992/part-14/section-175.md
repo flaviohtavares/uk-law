@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175. Disability Living Allowance Advisory Board[^key-d9af659340f0cb8b81843c9ace6f59c5]
+## 175. Disability Living Allowance Advisory Board[^c-d9af659340f0cb8b81843c9ace6f59c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9af659340f0cb8b81843c9ace6f59c5]: Textual amendment: S. 175 repealed (7.2.2013) by [The Public Bodies (Abolition of the Disability Living Allowance Advisory Board) Order 2013 (S.I. 2013/252)](https://www.legislation.gov.uk/uksi/2013/252), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/252/article/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/252/schedule/part/1)
+[^c-d9af659340f0cb8b81843c9ace6f59c5]: Textual amendment: S. 175 repealed (7.2.2013) by [The Public Bodies (Abolition of the Disability Living Allowance Advisory Board) Order 2013 (S.I. 2013/252)](https://www.legislation.gov.uk/uksi/2013/252), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/252/article/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/252/schedule/part/1)

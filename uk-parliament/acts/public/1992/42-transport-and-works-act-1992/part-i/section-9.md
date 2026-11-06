@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Schemes of national significance.[^key-10c7577d15893e8dc3e78226366559d4]
+## 9. Schemes of national significance.[^c-10c7577d15893e8dc3e78226366559d4]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10c7577d15893e8dc3e78226366559d4]: Textual amendment: S. 9 omitted (18.2.2026) by virtue of [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/37/1), [118(1)(v)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/v) (with [ss. 37(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/37/3), [116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-10c7577d15893e8dc3e78226366559d4]: Textual amendment: S. 9 omitted (18.2.2026) by virtue of [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/37/1), [118(1)(v)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/v) (with [ss. 37(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/37/3), [116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))

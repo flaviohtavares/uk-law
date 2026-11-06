@@ -44,7 +44,7 @@ An Act of Senedd Cymru to prohibit greyhound racing in Wales.
 
 **Not yet in force.**
 
-### 1. Prohibition of greyhound racing[^key-e634b7046cfe1975f876484356d336c3]
+### 1. Prohibition of greyhound racing[^c-e634b7046cfe1975f876484356d336c3]
 
 (1) A person commits an offence if a person—
 
@@ -55,7 +55,7 @@ An Act of Senedd Cymru to prohibit greyhound racing in Wales.
 
 (2) A person guilty of an offence under subsection (1) is liable on summary conviction to a fine.
 
-### 2. Interpretation[^key-be7c479fd9286982c68eba709e5a63a4]
+### 2. Interpretation[^c-be7c479fd9286982c68eba709e5a63a4]
 
 In this Act—
 
@@ -64,7 +64,7 @@ In this Act—
   - (i) the owner of the stadium or venue;
   - (ii) the person, other than the owner, with overall responsibility for the operation of the stadium or venue or, if that person is not present in the United Kingdom, the person in the United Kingdom responsible for the operation of the stadium or venue.
 
-### 3. Offences by bodies corporate etc.[^key-491981b6fcbabe1dffbf0a81753a409b]
+### 3. Offences by bodies corporate etc.[^c-491981b6fcbabe1dffbf0a81753a409b]
 
 Schedule 1 makes provision about offences under section 1 committed by bodies corporate, partnerships and unincorporated associations other than partnerships.
 
@@ -72,13 +72,13 @@ Schedule 1 makes provision about offences under section 1 committed by bodies co
 
 **Not yet in force.**
 
-### 4. Enforcement of prohibition of greyhound racing[^key-b282a14a3132ee185080a5f2f2064614]
+### 4. Enforcement of prohibition of greyhound racing[^c-b282a14a3132ee185080a5f2f2064614]
 
 Schedule 2 makes provision about enforcing offences under section 1.
 
 ## General
 
-### 5. Post-legislative review[^key-b425c0a3d43621ee9c16af58acb93794]
+### 5. Post-legislative review[^c-b425c0a3d43621ee9c16af58acb93794]
 
 **Not yet in force.**
 
@@ -89,7 +89,7 @@ Schedule 2 makes provision about enforcing offences under section 1.
 
 (2) The review must be completed before the end of the period of 3 years beginning with the day on which section 1 comes into force.
 
-### 6. Coming into force[^key-219e76e60b49d69e80b1efb0ef57ab5a]
+### 6. Coming into force[^c-219e76e60b49d69e80b1efb0ef57ab5a]
 
 (1) This section and section 7 come into force on the day after the day on which this Act receives Royal Assent.
 
@@ -98,7 +98,7 @@ Schedule 2 makes provision about enforcing offences under section 1.
 - (a) no sooner than 1 April 2027, and
 - (b) no later than 1 April 2030.
 
-### 7. Short title[^key-7f02bfb232a5a434e6d8c45b175fd031]
+### 7. Short title[^c-7f02bfb232a5a434e6d8c45b175fd031]
 
 This Act may be referred to as—
 
@@ -111,7 +111,7 @@ This Act may be referred to as—
 
 (introduced by section 3)
 
-### 1. Commission of offences[^key-02b8cef52dec0f311825d0af884a11bb]
+### 1. Commission of offences[^c-02b8cef52dec0f311825d0af884a11bb]
 
 (1) This paragraph applies where an offence under section 1 is committed by—
 
@@ -137,7 +137,7 @@ This Act may be referred to as—
 - (a) a partnership within the Partnership Act [1890 (c. 39)](https://www.legislation.gov.uk/ukpga/1890/39), or
 - (b) a limited partnership registered under the Limited Partnerships Act [1907 (c. 24)](https://www.legislation.gov.uk/ukpga/1907/24).
 
-### 2. Proceedings: partnerships and unincorporated associations[^key-20483334af4059217b4191d9333d9f61]
+### 2. Proceedings: partnerships and unincorporated associations[^c-20483334af4059217b4191d9333d9f61]
 
 (1) Proceedings for an offence under section 1 alleged to have been committed by a partnership are to be brought in the name of the partnership (and not in that of any of the partners).
 
@@ -151,7 +151,7 @@ This Act may be referred to as—
 
 (introduced by section 4)
 
-### 1. Interpretation[^key-0d0f3ae320e00558e20dd4cf6c9a7b40]
+### 1. Interpretation[^c-0d0f3ae320e00558e20dd4cf6c9a7b40]
 
 In this Schedule—
 
@@ -163,7 +163,7 @@ In this Schedule—
   - (b) a warrant under paragraph 3 (warrant to enter a dwelling);
 - “**premises**” (*“mangre”*) includes a vehicle, and a reference to the occupier of premises that are a vehicle is a reference to the person who appears to be in charge of the vehicle.
 
-### 2. Power to enter premises other than dwellings[^key-762c6f759f6561b3d1f7e9f888a5cc75]
+### 2. Power to enter premises other than dwellings[^c-762c6f759f6561b3d1f7e9f888a5cc75]
 
 (1) An inspector may enter any premises if the inspector has reasonable grounds for suspecting that—
 
@@ -172,7 +172,7 @@ In this Schedule—
 
 (2) But this does not apply in relation to premises used wholly or mainly as a dwelling.
 
-### 3. Warrant to enter a dwelling[^key-5c1b8d1965700d5ae6c82eb8872869e0]
+### 3. Warrant to enter a dwelling[^c-5c1b8d1965700d5ae6c82eb8872869e0]
 
 (1) An inspector may not enter any premises used wholly or mainly as a dwelling unless—
 
@@ -200,12 +200,12 @@ In this Schedule—
 - (a) the occupier of the premises is temporarily absent, and
 - (b) it might defeat the object of entry to wait for the occupier’s return.
 
-**4.**[^key-b778f425647f3c2e35bbbb9a6c85b820] A warrant issued under paragraph 3—
+**4.**[^c-b778f425647f3c2e35bbbb9a6c85b820] A warrant issued under paragraph 3—
 
 - (a) authorises entry on one occasion;
 - (b) must be executed within 28 days beginning with the date it was issued.
 
-### 5. Entering premises[^key-630edf234128301c2452d2027a6da5ca]
+### 5. Entering premises[^c-630edf234128301c2452d2027a6da5ca]
 
 (1) An inspector exercising a power of entry must, if asked by a person on the premises—
 
@@ -222,16 +222,16 @@ In this Schedule—
 - (a) the inspector must leave a copy of the warrant in a prominent place on the premises, and
 - (b) on leaving the premises, the inspector must leave them as effectively secured against unauthorised entry as when the inspector found them.
 
-**6.**[^key-33bb577db4619dfc446e4c29c203fbc5] An inspector exercising a power of entry must do so at a reasonable hour unless it appears to the inspector that the purpose of entry would be frustrated by entry at a reasonable hour.
+**6.**[^c-33bb577db4619dfc446e4c29c203fbc5] An inspector exercising a power of entry must do so at a reasonable hour unless it appears to the inspector that the purpose of entry would be frustrated by entry at a reasonable hour.
 
-**7.**[^key-a948b36efa1ee7876363c6e66179118f] An inspector exercising a power of entry may use reasonable force to enter the premises if necessary.
+**7.**[^c-a948b36efa1ee7876363c6e66179118f] An inspector exercising a power of entry may use reasonable force to enter the premises if necessary.
 
-**8.**[^key-0f41a199d9e980f2a67c1f771e000891] An inspector exercising a power of entry may take—
+**8.**[^c-0f41a199d9e980f2a67c1f771e000891] An inspector exercising a power of entry may take—
 
 - (a) such other persons onto the premises as appear to the inspector to be appropriate, and
 - (b) such equipment and materials onto the premises as appear to the inspector to be appropriate.
 
-### 9. Powers of inspection etc.[^key-6c9b18f80e2b5664f1af8b8cfe6fe6db]
+### 9. Powers of inspection etc.[^c-6c9b18f80e2b5664f1af8b8cfe6fe6db]
 
 An inspector exercising a power of entry may—
 
@@ -244,9 +244,9 @@ An inspector exercising a power of entry may—
 - (g) require information that is stored in an electronic form and is accessible from the premises to be produced in a form in which it can be taken away and in which it is visible and legible or from which it can readily be produced in a visible and legible form;
 - (h) seize any item, except a dog, that is found on the premises and that the inspector reasonably believes to be evidence of the commission of an offence under section 1.
 
-**10.**[^key-feb810a1121a16389a746f8a9d8817de] A person taken onto the premises under paragraph 8(a) may exercise any power conferred on an inspector by paragraph 9 if the person is under the supervision of the inspector.
+**10.**[^c-feb810a1121a16389a746f8a9d8817de] A person taken onto the premises under paragraph 8(a) may exercise any power conferred on an inspector by paragraph 9 if the person is under the supervision of the inspector.
 
-### 11. Power of seizure: supplementary[^key-ee0a5d20032da5c0b0a7335c939470ff]
+### 11. Power of seizure: supplementary[^c-ee0a5d20032da5c0b0a7335c939470ff]
 
 (1) Any item seized under paragraph 9(h) may be retained for so long as is necessary.
 
@@ -257,7 +257,7 @@ An inspector exercising a power of entry may—
 
 (3) Paragraph 9(h) does not include power to seize any item in respect of which a claim to legal professional privilege could be maintained in legal proceedings.
 
-### 12. Obstruction etc[^key-da98438115e99dc0c6c6275ea717d25c]
+### 12. Obstruction etc[^c-da98438115e99dc0c6c6275ea717d25c]
 
 (1) A person commits an offence if—
 
@@ -266,7 +266,7 @@ An inspector exercising a power of entry may—
 
 (2) A person guilty of an offence under this paragraph is liable on summary conviction to a fine.
 
-### 13. Liability of inspectors[^key-7abbcf080ef88f8ea8357766f7b39366]
+### 13. Liability of inspectors[^c-7abbcf080ef88f8ea8357766f7b39366]
 
 (1) An inspector is not liable in any civil or criminal proceedings for anything done in the purported performance of the inspector’s functions under this Schedule if the court is satisfied that the act was done in good faith and that there were reasonable grounds for doing it.
 
@@ -274,46 +274,46 @@ An inspector exercising a power of entry may—
 
 ## Annotations
 
-[^key-e634b7046cfe1975f876484356d336c3]: Commencement: S. 1 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
+[^c-e634b7046cfe1975f876484356d336c3]: Commencement: S. 1 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
 
-[^key-be7c479fd9286982c68eba709e5a63a4]: Commencement: S. 2 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
+[^c-be7c479fd9286982c68eba709e5a63a4]: Commencement: S. 2 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
 
-[^key-491981b6fcbabe1dffbf0a81753a409b]: Commencement: S. 3 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
+[^c-491981b6fcbabe1dffbf0a81753a409b]: Commencement: S. 3 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
 
-[^key-b282a14a3132ee185080a5f2f2064614]: Commencement: S. 4 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
+[^c-b282a14a3132ee185080a5f2f2064614]: Commencement: S. 4 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
 
-[^key-b425c0a3d43621ee9c16af58acb93794]: Commencement: S. 5 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
+[^c-b425c0a3d43621ee9c16af58acb93794]: Commencement: S. 5 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
 
-[^key-219e76e60b49d69e80b1efb0ef57ab5a]: Commencement: S. 6 in force at 28.4.2026, see [s. 6(1)](https://www.legislation.gov.uk/asc/2026/11/section/6/1)
+[^c-219e76e60b49d69e80b1efb0ef57ab5a]: Commencement: S. 6 in force at 28.4.2026, see [s. 6(1)](https://www.legislation.gov.uk/asc/2026/11/section/6/1)
 
-[^key-7f02bfb232a5a434e6d8c45b175fd031]: Commencement: S. 7 in force at 28.4.2026, see [s. 6(1)](https://www.legislation.gov.uk/asc/2026/11/section/6/1)
+[^c-7f02bfb232a5a434e6d8c45b175fd031]: Commencement: S. 7 in force at 28.4.2026, see [s. 6(1)](https://www.legislation.gov.uk/asc/2026/11/section/6/1)
 
-[^key-02b8cef52dec0f311825d0af884a11bb]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
+[^c-02b8cef52dec0f311825d0af884a11bb]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
 
-[^key-20483334af4059217b4191d9333d9f61]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
+[^c-20483334af4059217b4191d9333d9f61]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
 
-[^key-0d0f3ae320e00558e20dd4cf6c9a7b40]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
+[^c-0d0f3ae320e00558e20dd4cf6c9a7b40]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
 
-[^key-762c6f759f6561b3d1f7e9f888a5cc75]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
+[^c-762c6f759f6561b3d1f7e9f888a5cc75]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
 
-[^key-5c1b8d1965700d5ae6c82eb8872869e0]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
+[^c-5c1b8d1965700d5ae6c82eb8872869e0]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
 
-[^key-b778f425647f3c2e35bbbb9a6c85b820]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
+[^c-b778f425647f3c2e35bbbb9a6c85b820]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
 
-[^key-630edf234128301c2452d2027a6da5ca]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
+[^c-630edf234128301c2452d2027a6da5ca]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
 
-[^key-33bb577db4619dfc446e4c29c203fbc5]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
+[^c-33bb577db4619dfc446e4c29c203fbc5]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
 
-[^key-a948b36efa1ee7876363c6e66179118f]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
+[^c-a948b36efa1ee7876363c6e66179118f]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
 
-[^key-0f41a199d9e980f2a67c1f771e000891]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
+[^c-0f41a199d9e980f2a67c1f771e000891]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
 
-[^key-6c9b18f80e2b5664f1af8b8cfe6fe6db]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
+[^c-6c9b18f80e2b5664f1af8b8cfe6fe6db]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
 
-[^key-feb810a1121a16389a746f8a9d8817de]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
+[^c-feb810a1121a16389a746f8a9d8817de]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
 
-[^key-ee0a5d20032da5c0b0a7335c939470ff]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
+[^c-ee0a5d20032da5c0b0a7335c939470ff]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
 
-[^key-da98438115e99dc0c6c6275ea717d25c]: Commencement: Sch. 2 para. 12 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
+[^c-da98438115e99dc0c6c6275ea717d25c]: Commencement: Sch. 2 para. 12 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
 
-[^key-7abbcf080ef88f8ea8357766f7b39366]: Commencement: Sch. 2 para. 13 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)
+[^c-7abbcf080ef88f8ea8357766f7b39366]: Commencement: Sch. 2 para. 13 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/asc/2026/11/section/6/2)

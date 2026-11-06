@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Assessment of housing support services[^key-99a4cf9a32005098f5457080f578d14b]
+## 54. Assessment of housing support services[^c-99a4cf9a32005098f5457080f578d14b]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99a4cf9a32005098f5457080f578d14b]: Commencement: S. 54 not in force at Royal Assent, see [s. 86(2)(3)](https://www.legislation.gov.uk/asp/2025/13/section/86/2/3)
+[^c-99a4cf9a32005098f5457080f578d14b]: Commencement: S. 54 not in force at Royal Assent, see [s. 86(2)(3)](https://www.legislation.gov.uk/asp/2025/13/section/86/2/3)

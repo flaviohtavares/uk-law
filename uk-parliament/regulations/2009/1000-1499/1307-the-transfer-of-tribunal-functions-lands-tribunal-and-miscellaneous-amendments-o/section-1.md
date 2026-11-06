@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-959719ed3eda68b53f402bf3b144016a]
+## 1. Citation and commencement[^c-959719ed3eda68b53f402bf3b144016a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Transfer of Tribunal Functions (Lands Tribunal an
 
 ## Annotations
 
-[^key-959719ed3eda68b53f402bf3b144016a]: Commencement: Art. 1 in force at 1.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1)
+[^c-959719ed3eda68b53f402bf3b144016a]: Commencement: Art. 1 in force at 1.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1)

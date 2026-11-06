@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103DB. UK property rich collective investment vehicles etc[^key-c036b660e66121d71a72e6fa366c5118]
+## 103DB. UK property rich collective investment vehicles etc[^c-c036b660e66121d71a72e6fa366c5118]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 5AAA makes provision in relation to collective investment vehicles wher
 
 ## Annotations
 
-[^key-c036b660e66121d71a72e6fa366c5118]: Textual amendment: [S. 103DB](https://www.legislation.gov.uk/ukpga/1992/12/section/103DB) inserted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/8)
+[^c-c036b660e66121d71a72e6fa366c5118]: Textual amendment: [S. 103DB](https://www.legislation.gov.uk/ukpga/1992/12/section/103DB) inserted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 165. Deduction of payments for added pension under Schedule 3[^key-291c3785caa87936f2da5f92a2cdd65d]
+## 165. Deduction of payments for added pension under Schedule 3[^c-291c3785caa87936f2da5f92a2cdd65d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 3 has effect for the purpose of enabling deductions of payments for add
 
 ## Annotations
 
-[^key-291c3785caa87936f2da5f92a2cdd65d]: Commencement: Reg. 165 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-291c3785caa87936f2da5f92a2cdd65d]: Commencement: Reg. 165 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

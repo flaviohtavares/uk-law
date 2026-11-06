@@ -42,7 +42,7 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety[^f00001] makes the following Regulations in exercise of the powers conferred by Articles 42, 98, 106 and 107(6) of, and Schedule 15 to, the Health and Personal Social Services (Northern Ireland) Order 1972[^f00002], in conjunction with the Department of Finance and Personnel insofar as they relate to the Provision of Health Services to Persons not Ordinarily Resident and with the approval of the Department of Finance and Personnel insofar as they relate to Charges for Drugs and Appliances.
 
-## 1. Citation, commencement and interpretation[^key-023f61ce1cea6061524127bbfae60fcc]
+## 1. Citation, commencement and interpretation[^c-023f61ce1cea6061524127bbfae60fcc]
 
 (1) These Regulations may be cited as the Charges for Drugs and Appliances and Provision of Health Services to Persons not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2009 and shall come into operation on 9th May 2009.
 
@@ -55,7 +55,7 @@ The Department of Health, Social Services and Public Safety[^f00001] makes the f
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Provision of Health Services to Persons not Ordinarily Resident Regulations (Northern Ireland) 2005[^key-af5a6b5cab36ee2198135769fb50ab4e][^key-5d3ff102f9c52c7149bf9398b4e44244]
+## 3. Amendment of the Provision of Health Services to Persons not Ordinarily Resident Regulations (Northern Ireland) 2005[^c-af5a6b5cab36ee2198135769fb50ab4e][^c-5d3ff102f9c52c7149bf9398b4e44244]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -103,7 +103,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00002]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265) relevant amending instruments are [S.I. 1978/1907 (N.I. 26)](https://www.legislation.gov.uk/nisi/1978/1907) Article 14; [S.I. 1986/2023 (N.I. 20)](https://www.legislation.gov.uk/nisi/1986/2023) Articles 5(1) and (2); [S.I. 1986/2229 (N.I. 24)](https://www.legislation.gov.uk/nisi/1986/2229); [S.I. 1988/2249 (N.I. 24)](https://www.legislation.gov.uk/nisi/1988/2249) Article 7; [S.I 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194) Articles 31(1) and (2), 34 and Part II of Schedule 5; [S.I. 1992/2671 (N.I. 18)](https://www.legislation.gov.uk/nisi/1992/2671) Article 3; [S.I. 1997/1177 (N.I. 7)](https://www.legislation.gov.uk/nisi/1997/1177) Article 29; [2001 c. 3 (N.I.)](https://www.legislation.gov.uk/nia/2001/3) section 48 and [2008 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2008/2)
 
-[^key-023f61ce1cea6061524127bbfae60fcc]: Commencement: Reg. 1 in operation at 9.5.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/186/regulation/1/1)
+[^c-023f61ce1cea6061524127bbfae60fcc]: Commencement: Reg. 1 in operation at 9.5.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/186/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1997 No. 382](https://www.legislation.gov.uk/nisr/1997/382) relevant amending instruments are [S.R. 1998 Nos. 94](https://www.legislation.gov.uk/nisr/1998/94) and [135](https://www.legislation.gov.uk/nisr/1998/135), [S.R. 1999 No. 166](https://www.legislation.gov.uk/nisr/1999/166); [S.R. 2000 No. 57](https://www.legislation.gov.uk/nisr/2000/57); [S.R. 2001 No. 123](https://www.legislation.gov.uk/nisr/2001/123), [S.R. 2002 No. 91](https://www.legislation.gov.uk/nisr/2002/91); [S.R. 2003 No. 153](https://www.legislation.gov.uk/nisr/2003/153), [S.R. 2004 No. 94](https://www.legislation.gov.uk/nisr/2004/94), [S.R. 2005 No.97](https://www.legislation.gov.uk/nisr/2005/97), [S.R. 2006 No.145](https://www.legislation.gov.uk/nisr/2006/145), [S.R. 2007 No. 140](https://www.legislation.gov.uk/nisr/2007/140) and [S.R. 2008 No. 488](https://www.legislation.gov.uk/nisr/2008/488)
 
@@ -111,6 +111,6 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^M_F_643ba869-ff7e-4ade-9118-9cee9513530f]: Textual amendment: Reg. 2 revoked (1.4.2010) by [The Charges for Drugs and Appliances (Abolition) and Supply of Appliances Regulations (Northern Ireland) 2010](https://www.legislation.gov.uk/nisr/2010/71/made), [regs. 1](https://www.legislation.gov.uk/nisr/2010/71/regulation/1/made), [sch](https://www.legislation.gov.uk/nisr/2010/71/schedule/made)
 
-[^key-af5a6b5cab36ee2198135769fb50ab4e]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/186/regulation/3) revoked (23.2.2015) by [Provision of Health Services to Persons Not Ordinarily Resident Regulations (Northern Ireland) 2015 (S.R. 2015/27)](https://www.legislation.gov.uk/nisr/2015/27), [regs. 1](https://www.legislation.gov.uk/nisr/2015/27/regulation/1), [27(c)](https://www.legislation.gov.uk/nisr/2015/27/regulation/27/c)
+[^c-af5a6b5cab36ee2198135769fb50ab4e]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/186/regulation/3) revoked (23.2.2015) by [Provision of Health Services to Persons Not Ordinarily Resident Regulations (Northern Ireland) 2015 (S.R. 2015/27)](https://www.legislation.gov.uk/nisr/2015/27), [regs. 1](https://www.legislation.gov.uk/nisr/2015/27/regulation/1), [27(c)](https://www.legislation.gov.uk/nisr/2015/27/regulation/27/c)
 
-[^key-5d3ff102f9c52c7149bf9398b4e44244]: Commencement: Reg. 3 in operation at 9.5.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/186/regulation/1/1)
+[^c-5d3ff102f9c52c7149bf9398b4e44244]: Commencement: Reg. 3 in operation at 9.5.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/186/regulation/1/1)

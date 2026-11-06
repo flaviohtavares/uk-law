@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**131I.**[^key-a4c10c3c57a0bd24f412daa771f3c917] (1) Carriers of chargeable goods destined for a RoRo listed location or an other listed location must provide a notification to HMRC immediately after the relevant vehicle on which the goods have been boarded or loaded has departed for the United Kingdom (a “notification of embarkation”).
+**131I.**[^c-a4c10c3c57a0bd24f412daa771f3c917] (1) Carriers of chargeable goods destined for a RoRo listed location or an other listed location must provide a notification to HMRC immediately after the relevant vehicle on which the goods have been boarded or loaded has departed for the United Kingdom (a “notification of embarkation”).
 
 (2) Paragraph (1) does not apply in relation to—
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) goods in respect of which a voluntary Customs declaration may be made under regulation 39B(3);
 - (c) goods described in regulation 39(1), 39A(1), 131(1)(b) or 131F(1)(b);
 - (d) goods in respect of which a simplified Customs declaration has been made using the EIDR procedure.
-- (e)[^key-4825f04be2256e15898bd589f4dd3835] goods to which section 30C(3) of the Act applies.
+- (e)[^c-4825f04be2256e15898bd589f4dd3835] goods to which section 30C(3) of the Act applies.
 
 (3) The notification of embarkation must be made in the form and manner, and contain such information, as is specified in a notice published by HMRC Commissioners.
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a4c10c3c57a0bd24f412daa771f3c917]: Textual amendment: Pt. 13E inserted (1.1.2022) by [The Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2021 (S.I. 2021/1347)](https://www.legislation.gov.uk/uksi/2021/1347), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1/4), [3(9)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/3/9)
+[^c-a4c10c3c57a0bd24f412daa771f3c917]: Textual amendment: Pt. 13E inserted (1.1.2022) by [The Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2021 (S.I. 2021/1347)](https://www.legislation.gov.uk/uksi/2021/1347), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1/4), [3(9)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/3/9)
 
-[^key-4825f04be2256e15898bd589f4dd3835]: Textual amendment: Reg. 131I(2)(e) substituted (31.1.2024) by [The Taxation (Cross-border Trade) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/12)](https://www.legislation.gov.uk/uksi/2024/12), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/12/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/12/regulation/2/4)
+[^c-4825f04be2256e15898bd589f4dd3835]: Textual amendment: Reg. 131I(2)(e) substituted (31.1.2024) by [The Taxation (Cross-border Trade) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/12)](https://www.legislation.gov.uk/uksi/2024/12), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/12/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/12/regulation/2/4)

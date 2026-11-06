@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 94. Power to add to supplies protected under the 1989 Order[^key-4fcecc1e7ca27cfc1e67f13165522499][^key-32bdec4ff659a2ff3c5fde475f6ae0a8]
+## 94. Power to add to supplies protected under the 1989 Order[^c-4fcecc1e7ca27cfc1e67f13165522499][^c-32bdec4ff659a2ff3c5fde475f6ae0a8]
 
 *Extent: N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4fcecc1e7ca27cfc1e67f13165522499]: Commencement: S. 94 in operation at 25.6.2026, see [s. 120(01)](https://www.legislation.gov.uk/nia/2026/6/section/120/01)
+[^c-4fcecc1e7ca27cfc1e67f13165522499]: Commencement: S. 94 in operation at 25.6.2026, see [s. 120(01)](https://www.legislation.gov.uk/nia/2026/6/section/120/01)
 
-[^key-32bdec4ff659a2ff3c5fde475f6ae0a8]: Commencement: [S. 94](https://www.legislation.gov.uk/nia/2026/6/section/94) in operation at 25.6.2026, see [s. 120(1)](https://www.legislation.gov.uk/nia/2026/6/section/120/1)
+[^c-32bdec4ff659a2ff3c5fde475f6ae0a8]: Commencement: [S. 94](https://www.legislation.gov.uk/nia/2026/6/section/94) in operation at 25.6.2026, see [s. 120(1)](https://www.legislation.gov.uk/nia/2026/6/section/120/1)

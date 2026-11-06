@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Working jointly with the Public Services Ombudsman for Wales[^key-277907b91150411d84e1bc923b27ae20]
+## 20. Working jointly with the Public Services Ombudsman for Wales[^c-277907b91150411d84e1bc923b27ae20]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-277907b91150411d84e1bc923b27ae20]: Commencement: [S. 20](https://www.legislation.gov.uk/mwa/2011/1/section/20) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(a)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/a)
+[^c-277907b91150411d84e1bc923b27ae20]: Commencement: [S. 20](https://www.legislation.gov.uk/mwa/2011/1/section/20) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(a)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/a)

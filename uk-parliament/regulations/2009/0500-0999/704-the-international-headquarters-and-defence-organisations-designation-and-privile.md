@@ -32,7 +32,7 @@ summary: ''
 
 Defence
 
-The International Headquarters and Defence Organisations (Designation and Privileges) (Amendment) Order 2009 (revoked)[^key-08ed2181db964dfe10e7f369a201c9ad]
+The International Headquarters and Defence Organisations (Designation and Privileges) (Amendment) Order 2009 (revoked)[^c-08ed2181db964dfe10e7f369a201c9ad]
 
 Made
 
@@ -48,32 +48,32 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-08ed2181db964dfe10e7f369a201c9ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08ed2181db964dfe10e7f369a201c9ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-08ed2181db964dfe10e7f369a201c9ad]
+## 1. Citation and Commencement[^c-08ed2181db964dfe10e7f369a201c9ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-08ed2181db964dfe10e7f369a201c9ad]
+## 2. Interpretation[^c-08ed2181db964dfe10e7f369a201c9ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the 1965 Order[^key-08ed2181db964dfe10e7f369a201c9ad]
+## 3. Amendment of the 1965 Order[^c-08ed2181db964dfe10e7f369a201c9ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-08ed2181db964dfe10e7f369a201c9ad]
+## 4. Revocation[^c-08ed2181db964dfe10e7f369a201c9ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-08ed2181db964dfe10e7f369a201c9ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08ed2181db964dfe10e7f369a201c9ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-08ed2181db964dfe10e7f369a201c9ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08ed2181db964dfe10e7f369a201c9ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-08ed2181db964dfe10e7f369a201c9ad]: Textual amendment: Order revoked (14.12.2017) by [The International Headquarters and Defence Organisations (Designation and Privileges) Order 2017 (S.I. 2017/1276)](https://www.legislation.gov.uk/uksi/2017/1276), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1276/article/1), [6](https://www.legislation.gov.uk/uksi/2017/1276/article/6)
+[^c-08ed2181db964dfe10e7f369a201c9ad]: Textual amendment: Order revoked (14.12.2017) by [The International Headquarters and Defence Organisations (Designation and Privileges) Order 2017 (S.I. 2017/1276)](https://www.legislation.gov.uk/uksi/2017/1276), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1276/article/1), [6](https://www.legislation.gov.uk/uksi/2017/1276/article/6)

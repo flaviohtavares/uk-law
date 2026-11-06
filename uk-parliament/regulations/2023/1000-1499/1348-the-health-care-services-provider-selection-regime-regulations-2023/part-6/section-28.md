@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Amendment of the Public Contracts Regulations 2015 consequential on the revocation of the National Health Service (Procurement, Patient Choice and Competition) (No. 2) Regulations 2013 ([S.I. 2013/500](https://www.legislation.gov.uk/uksi/2013/500))[^key-9c6c02a6ade1b2d7cdc00763b17b1dcd]
+## 28. Amendment of the Public Contracts Regulations 2015 consequential on the revocation of the National Health Service (Procurement, Patient Choice and Competition) (No. 2) Regulations 2013 ([S.I. 2013/500](https://www.legislation.gov.uk/uksi/2013/500))[^c-9c6c02a6ade1b2d7cdc00763b17b1dcd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c6c02a6ade1b2d7cdc00763b17b1dcd]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/2023/1348/regulation/28) omitted (24.2.2025) by virtue of [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [28(7)](https://www.legislation.gov.uk/uksi/2025/163/regulation/28/7) (with [reg. 34](https://www.legislation.gov.uk/uksi/2025/163/regulation/34))
+[^c-9c6c02a6ade1b2d7cdc00763b17b1dcd]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/2023/1348/regulation/28) omitted (24.2.2025) by virtue of [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [28(7)](https://www.legislation.gov.uk/uksi/2025/163/regulation/28/7) (with [reg. 34](https://www.legislation.gov.uk/uksi/2025/163/regulation/34))

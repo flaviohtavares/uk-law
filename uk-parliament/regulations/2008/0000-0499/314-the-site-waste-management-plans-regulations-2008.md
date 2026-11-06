@@ -32,7 +32,7 @@ summary: ''
 
 Environmental PROTECTION, england
 
-The Site Waste Management Plans Regulations 2008 (revoked)[^key-041cfe8a2e11c57d0192cc509b0e33ad]
+The Site Waste Management Plans Regulations 2008 (revoked)[^c-041cfe8a2e11c57d0192cc509b0e33ad]
 
 Made
 
@@ -46,95 +46,95 @@ Coming into force
 
 6th April 2008
 
-[^key-041cfe8a2e11c57d0192cc509b0e33ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-041cfe8a2e11c57d0192cc509b0e33ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, application and commencement[^key-041cfe8a2e11c57d0192cc509b0e33ad]
+## 1. Citation, application and commencement[^c-041cfe8a2e11c57d0192cc509b0e33ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-041cfe8a2e11c57d0192cc509b0e33ad]
+## 2. Interpretation[^c-041cfe8a2e11c57d0192cc509b0e33ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exemptions[^key-041cfe8a2e11c57d0192cc509b0e33ad]
+## 3. Exemptions[^c-041cfe8a2e11c57d0192cc509b0e33ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Appointment of principal contractor[^key-041cfe8a2e11c57d0192cc509b0e33ad]
+## 4. Appointment of principal contractor[^c-041cfe8a2e11c57d0192cc509b0e33ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Preparation of a site waste management plan[^key-041cfe8a2e11c57d0192cc509b0e33ad]
+## 5. Preparation of a site waste management plan[^c-041cfe8a2e11c57d0192cc509b0e33ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Requirements for a site waste management plan[^key-041cfe8a2e11c57d0192cc509b0e33ad]
+## 6. Requirements for a site waste management plan[^c-041cfe8a2e11c57d0192cc509b0e33ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Updating a site waste management plan for a project of £500,000 or less[^key-041cfe8a2e11c57d0192cc509b0e33ad]
+## 7. Updating a site waste management plan for a project of £500,000 or less[^c-041cfe8a2e11c57d0192cc509b0e33ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Updating a site waste management plan for a project worth more than £500,000[^key-041cfe8a2e11c57d0192cc509b0e33ad]
+## 8. Updating a site waste management plan for a project worth more than £500,000[^c-041cfe8a2e11c57d0192cc509b0e33ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Availability of the plan[^key-041cfe8a2e11c57d0192cc509b0e33ad]
+## 9. Availability of the plan[^c-041cfe8a2e11c57d0192cc509b0e33ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Keeping plans[^key-041cfe8a2e11c57d0192cc509b0e33ad]
+## 10. Keeping plans[^c-041cfe8a2e11c57d0192cc509b0e33ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Additional duties[^key-041cfe8a2e11c57d0192cc509b0e33ad]
+## 11. Additional duties[^c-041cfe8a2e11c57d0192cc509b0e33ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. False statements[^key-041cfe8a2e11c57d0192cc509b0e33ad]
+## 12. False statements[^c-041cfe8a2e11c57d0192cc509b0e33ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Obstruction[^key-041cfe8a2e11c57d0192cc509b0e33ad]
+## 13. Obstruction[^c-041cfe8a2e11c57d0192cc509b0e33ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Penalties[^key-041cfe8a2e11c57d0192cc509b0e33ad]
+## 14. Penalties[^c-041cfe8a2e11c57d0192cc509b0e33ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Enforcement[^key-041cfe8a2e11c57d0192cc509b0e33ad]
+## 15. Enforcement[^c-041cfe8a2e11c57d0192cc509b0e33ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Fixed penalty notices[^key-041cfe8a2e11c57d0192cc509b0e33ad]
+## 16. Fixed penalty notices[^c-041cfe8a2e11c57d0192cc509b0e33ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Transitional provisions[^key-041cfe8a2e11c57d0192cc509b0e33ad]
+## 17. Transitional provisions[^c-041cfe8a2e11c57d0192cc509b0e33ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-041cfe8a2e11c57d0192cc509b0e33ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-041cfe8a2e11c57d0192cc509b0e33ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Additional duties[^key-041cfe8a2e11c57d0192cc509b0e33ad]
+## SCHEDULE — Additional duties[^c-041cfe8a2e11c57d0192cc509b0e33ad]
 
 Regulation 11
 
-### 1. Additional duties on the principal contractor[^key-041cfe8a2e11c57d0192cc509b0e33ad]
+### 1. Additional duties on the principal contractor[^c-041cfe8a2e11c57d0192cc509b0e33ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Additional duties on the client[^key-041cfe8a2e11c57d0192cc509b0e33ad]
+### 2. Additional duties on the client[^c-041cfe8a2e11c57d0192cc509b0e33ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Additional duties on both the client and the principal contractor[^key-041cfe8a2e11c57d0192cc509b0e33ad]
+### 3. Additional duties on both the client and the principal contractor[^c-041cfe8a2e11c57d0192cc509b0e33ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -159,4 +159,4 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 ## Annotations
 
-[^key-041cfe8a2e11c57d0192cc509b0e33ad]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/314) revoked (1.12.2013) by [The Environmental Noise, Site Waste Management Plans and Spreadable Fats etc. (Revocations and Amendments) Regulations 2013 (S.I. 2013/2854)](https://www.legislation.gov.uk/uksi/2013/2854), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2854/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2013/2854/regulation/2/c)
+[^c-041cfe8a2e11c57d0192cc509b0e33ad]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/314) revoked (1.12.2013) by [The Environmental Noise, Site Waste Management Plans and Spreadable Fats etc. (Revocations and Amendments) Regulations 2013 (S.I. 2013/2854)](https://www.legislation.gov.uk/uksi/2013/2854), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2854/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2013/2854/regulation/2/c)

@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-9d9a1f905f551bd5e8b8ade5357e999e] In this Part “child”, “children's home”, “day care setting”, “domiciliary care agency”, “nursing home”, “personal care”, “registered care home”, “residential family centre”, “school” and “undertaking” have the same meanings as in the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003.
+(1)[^c-9d9a1f905f551bd5e8b8ade5357e999e] In this Part “child”, “children's home”, “day care setting”, “domiciliary care agency”, “nursing home”, “personal care”, “registered care home”, “residential family centre”, “school” and “undertaking” have the same meanings as in the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003.
 
-(2)[^key-4e251ce4012ccdfb897710b70c8da6cf] In this Part—
+(2)[^c-4e251ce4012ccdfb897710b70c8da6cf] In this Part—
 
 - “**the register**” means the register maintained under section 3;
 - “**registered person**” means a person registered in a part of the register.
@@ -31,6 +31,6 @@ summary: ''
 
 [^c17100241]: Textual amendment: [2003 NI 9](https://www.legislation.gov.uk/nisi/2003)
 
-[^key-9d9a1f905f551bd5e8b8ade5357e999e]: Textual amendment: S. 22: renumbered as s. 22(1) (13.5.2016) by [Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23)](https://www.legislation.gov.uk/nia/2016/23), [ss. 6(5)(a)](https://www.legislation.gov.uk/nia/2016/23/section/6/5/a), [8](https://www.legislation.gov.uk/nia/2016/23/section/8)
+[^c-9d9a1f905f551bd5e8b8ade5357e999e]: Textual amendment: S. 22: renumbered as s. 22(1) (13.5.2016) by [Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23)](https://www.legislation.gov.uk/nia/2016/23), [ss. 6(5)(a)](https://www.legislation.gov.uk/nia/2016/23/section/6/5/a), [8](https://www.legislation.gov.uk/nia/2016/23/section/8)
 
-[^key-4e251ce4012ccdfb897710b70c8da6cf]: Textual amendment: [S. 22(2)](https://www.legislation.gov.uk/nia/2001/3/section/22/2) inserted (13.5.2016) by [Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23)](https://www.legislation.gov.uk/nia/2016/23), [ss. 6(5)(b)](https://www.legislation.gov.uk/nia/2016/23/section/6/5/b), [8](https://www.legislation.gov.uk/nia/2016/23/section/8)
+[^c-4e251ce4012ccdfb897710b70c8da6cf]: Textual amendment: [S. 22(2)](https://www.legislation.gov.uk/nia/2001/3/section/22/2) inserted (13.5.2016) by [Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23)](https://www.legislation.gov.uk/nia/2016/23), [ss. 6(5)(b)](https://www.legislation.gov.uk/nia/2016/23/section/6/5/b), [8](https://www.legislation.gov.uk/nia/2016/23/section/8)

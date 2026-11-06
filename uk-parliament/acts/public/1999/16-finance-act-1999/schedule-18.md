@@ -39,11 +39,11 @@ the payment is treated as made on the day on which the cheque was first received
 
 (2) Sub-paragraph (1) applies where the cheque was first received by the Commissioners on or after 1st October 1999.
 
-#### Admissibility of evidence not affected by offer of settlement, etc.[^key-2b25e83ad11b83acab4124bd732c73a0]
+#### Admissibility of evidence not affected by offer of settlement, etc.[^c-2b25e83ad11b83acab4124bd732c73a0]
 
 **3.** (1) Statements made or documents produced by or on behalf of a person are not inadmissible in any such proceedings as are mentioned in sub-paragraph (2) by reason only that it has been drawn to that person’s attention—
 
-- (a)[^key-980cfe89197f7fff367969221950f51d] that where serious stamp duty fraud has been committed the Board may accept a money settlement and that the Board will accept such a settlement, and will not pursue a criminal prosecution, if he makes a full confession of all stamp duty irregularities, or
+- (a)[^c-980cfe89197f7fff367969221950f51d] that where serious stamp duty fraud has been committed the Board may accept a money settlement and that the Board will accept such a settlement, and will not pursue a criminal prosecution, if he makes a full confession of all stamp duty irregularities, or
 - (b) that the extent to which he is helpful and volunteers information is a factor that will be taken into account in determining the amount of any penalty,
 
 and that he was or may have been induced thereby to make the statements or produce the documents.
@@ -100,8 +100,8 @@ and that he was or may have been induced thereby to make the statements or produ
 
 ## Annotations
 
-[^key-2b25e83ad11b83acab4124bd732c73a0]: Textual amendment: [Sch. 18 para. 3 heading](https://www.legislation.gov.uk/ukpga/1999/16/schedule/18/part/I/crossheading/evidence-in-cases-of-fraudulent-conduct-etc) substituted (with effect in accordance with s. 206(5) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 206(4)](https://www.legislation.gov.uk/ukpga/2003/14/section/206/4)
+[^c-2b25e83ad11b83acab4124bd732c73a0]: Textual amendment: [Sch. 18 para. 3 heading](https://www.legislation.gov.uk/ukpga/1999/16/schedule/18/part/I/crossheading/evidence-in-cases-of-fraudulent-conduct-etc) substituted (with effect in accordance with s. 206(5) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 206(4)](https://www.legislation.gov.uk/ukpga/2003/14/section/206/4)
 
-[^key-980cfe89197f7fff367969221950f51d]: Textual amendment: Sch. 18 para. 3(1)(a)(b) substituted (with effect in accordance with s. 206(5) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 206(3)](https://www.legislation.gov.uk/ukpga/2003/14/section/206/3)
+[^c-980cfe89197f7fff367969221950f51d]: Textual amendment: Sch. 18 para. 3(1)(a)(b) substituted (with effect in accordance with s. 206(5) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 206(3)](https://www.legislation.gov.uk/ukpga/2003/14/section/206/3)
 
 [^c1126535]: Marginal citation: [1891 c.38](https://www.legislation.gov.uk/ukpga/1891/38).

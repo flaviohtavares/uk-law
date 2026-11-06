@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 523. Revocation of the 1996 Regulations[^key-b23fccd14314504a782944a2449f253d]
+## 523. Revocation of the 1996 Regulations[^c-b23fccd14314504a782944a2449f253d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Insurance Companies (Reserves) Regulations 1996 are revoked.
 
 ## Annotations
 
-[^key-b23fccd14314504a782944a2449f253d]: Commencement: Art. 523 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-b23fccd14314504a782944a2449f253d]: Commencement: Art. 523 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

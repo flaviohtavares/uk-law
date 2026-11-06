@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Unexplained wealth orders: England and Wales and Northern Ireland[^key-f1d9f20e5dcdb78a6ed9d04bc5055f39][^key-9f18fdc3aed8504779d897cfaa9e2957][^c22725061]
+## 1. Unexplained wealth orders: England and Wales and Northern Ireland[^c-f1d9f20e5dcdb78a6ed9d04bc5055f39][^c-9f18fdc3aed8504779d897cfaa9e2957][^c22725061]
 
 *Extent: E+W+N.I.*
 
@@ -91,7 +91,7 @@ In Chapter 2 of Part 8 of the Proceeds of Crime Act 2002 (investigations: Englan
 >
 > (7) In subsection (4)(a), “**politically exposed person**” means a person who is—
 >
-> - (a) an individual who is, or has been, entrusted with prominent public functions by an international organisation or by a State other than the United Kingdom or another EEA State, *(Extent: N.I.)* *(affected by repeal, see note)*[^key-473f19d9a7d6f4cb53a31fc977c22871]
+> - (a) an individual who is, or has been, entrusted with prominent public functions by an international organisation or by a State other than the United Kingdom or another EEA State, *(Extent: N.I.)* *(affected by repeal, see note)*[^c-473f19d9a7d6f4cb53a31fc977c22871]
 >   - (i) the United Kingdom, or
 >   - (ii) an EEA state,
 > - (b) a family member of a person within paragraph (a),
@@ -262,10 +262,10 @@ In Chapter 2 of Part 8 of the Proceeds of Crime Act 2002 (investigations: Englan
 
 ## Annotations
 
-[^key-f1d9f20e5dcdb78a6ed9d04bc5055f39]: Commencement: S. 1 in force at 31.1.2018 for E.W. in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/a)
+[^c-f1d9f20e5dcdb78a6ed9d04bc5055f39]: Commencement: S. 1 in force at 31.1.2018 for E.W. in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/a)
 
-[^key-9f18fdc3aed8504779d897cfaa9e2957]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2017/22/section/1) in force at 28.6.2021 for N.I. in so far as not already in force by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/a)
+[^c-9f18fdc3aed8504779d897cfaa9e2957]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2017/22/section/1) in force at 28.6.2021 for N.I. in so far as not already in force by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/a)
 
 [^c22725061]: Commencement: S. 1 in force at Royal Assent for specified purposes, see s. 58
 
-[^key-473f19d9a7d6f4cb53a31fc977c22871]: Textual amendment: Words in s. 1 substituted (N.I.) (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [109(2)](https://www.legislation.gov.uk/uksi/2019/742/regulation/109/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-473f19d9a7d6f4cb53a31fc977c22871]: Textual amendment: Words in s. 1 substituted (N.I.) (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [109(2)](https://www.legislation.gov.uk/uksi/2019/742/regulation/109/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

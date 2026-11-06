@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 250. Index of defined terms[^key-2d7115a7958eef3c28ba6f94fb9a48f6][^key-924a5710123152eed08a8710a0f1a095]
+## 250. Index of defined terms[^c-2d7115a7958eef3c28ba6f94fb9a48f6][^c-924a5710123152eed08a8710a0f1a095]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ In this Chapter, the expressions listed in the left-hand column have the meaning
 
 ## Annotations
 
-[^key-2d7115a7958eef3c28ba6f94fb9a48f6]: Commencement: S. 250 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-2d7115a7958eef3c28ba6f94fb9a48f6]: Commencement: S. 250 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-924a5710123152eed08a8710a0f1a095]: Commencement: [S. 250](https://www.legislation.gov.uk/ukpga/2024/13/section/250) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)
+[^c-924a5710123152eed08a8710a0f1a095]: Commencement: [S. 250](https://www.legislation.gov.uk/ukpga/2024/13/section/250) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)

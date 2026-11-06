@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 139. Powers of Tribunal[^key-cbdc794cbd9419c93a4701a3d1a1d451]
+## 139. Powers of Tribunal[^c-cbdc794cbd9419c93a4701a3d1a1d451]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cbdc794cbd9419c93a4701a3d1a1d451]: Commencement: [S. 139](https://www.legislation.gov.uk/asp/2010/16/section/139) in force at 1.5.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 4(a)](https://www.legislation.gov.uk/ssi/2011/180/article/4/a)
+[^c-cbdc794cbd9419c93a4701a3d1a1d451]: Commencement: [S. 139](https://www.legislation.gov.uk/asp/2010/16/section/139) in force at 1.5.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 4(a)](https://www.legislation.gov.uk/ssi/2011/180/article/4/a)

@@ -418,7 +418,7 @@ Section 14
 
 #### Enterprise management incentives
 
-**31.** (1)[^key-3017eca12f7b9021054f0a12a4339a86] In Part 6 of Schedule 5 (company reorganisations) in paragraph 39 (introduction) after sub-paragraph (3) insert—
+**31.** (1)[^c-3017eca12f7b9021054f0a12a4339a86] In Part 6 of Schedule 5 (company reorganisations) in paragraph 39 (introduction) after sub-paragraph (3) insert—
 
 > (4) In sub-paragraph (2)(a)(i) the reference to the issued share capital of the company does not include any capital already held by the person making the offer or a person connected with that person and in sub-paragraph (2)(a)(ii) the reference to the shares in the company does not include any shares already held by the person making the offer or a person connected with that person.
 >
@@ -754,4 +754,4 @@ Section 14
 
 ## Annotations
 
-[^key-3017eca12f7b9021054f0a12a4339a86]: Commencement: Sch. 2 para. 31(1) in force at 31.10.2013 in so far as not already in force by [S.I. 2013/2796](https://www.legislation.gov.uk/uksi/2013/2796), [art. 2](https://www.legislation.gov.uk/uksi/2013/2796/article/2)
+[^c-3017eca12f7b9021054f0a12a4339a86]: Commencement: Sch. 2 para. 31(1) in force at 31.10.2013 in so far as not already in force by [S.I. 2013/2796](https://www.legislation.gov.uk/uksi/2013/2796), [art. 2](https://www.legislation.gov.uk/uksi/2013/2796/article/2)

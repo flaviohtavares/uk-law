@@ -35,30 +35,30 @@ amending Regulation (EU) No 1031/2010 to list an auction platform to be appointe
 
 (Text with EEA relevance) (revoked)
 
-[^key-723cc3227b599bbd21e7ff73e2bc586b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-723cc3227b599bbd21e7ff73e2bc586b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Amendments to Regulation (EU) No 1031/2010[^key-723cc3227b599bbd21e7ff73e2bc586b]
+## Article 1. Amendments to Regulation (EU) No 1031/2010[^c-723cc3227b599bbd21e7ff73e2bc586b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Correction to Regulation (EU) No 1031/2010[^key-723cc3227b599bbd21e7ff73e2bc586b]
+## Article 2. Correction to Regulation (EU) No 1031/2010[^c-723cc3227b599bbd21e7ff73e2bc586b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-723cc3227b599bbd21e7ff73e2bc586b]
+## Article 3. Entry into force[^c-723cc3227b599bbd21e7ff73e2bc586b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-723cc3227b599bbd21e7ff73e2bc586b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-723cc3227b599bbd21e7ff73e2bc586b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-723cc3227b599bbd21e7ff73e2bc586b]
+## ANNEX[^c-723cc3227b599bbd21e7ff73e2bc586b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-723cc3227b599bbd21e7ff73e2bc586b]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-723cc3227b599bbd21e7ff73e2bc586b]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

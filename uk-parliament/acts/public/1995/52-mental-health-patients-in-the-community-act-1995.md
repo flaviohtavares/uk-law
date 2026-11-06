@@ -39,7 +39,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ### 1. After-care under supervision.
 
-(1)[^key-7baec7840994d2382e75161cf6622312] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-7baec7840994d2382e75161cf6622312] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Schedule 1 to this Act (supplementary provisions about after-care under supervision) shall have effect.
 
@@ -163,15 +163,15 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Scotland
 
-### 4. Community care orders.[^key-e0cfb7ef307a003f36fb31cc5738f0de]
+### 4. Community care orders.[^c-e0cfb7ef307a003f36fb31cc5738f0de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Absence without leave.[^key-e0cfb7ef307a003f36fb31cc5738f0de]
+### 5. Absence without leave.[^c-e0cfb7ef307a003f36fb31cc5738f0de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Leave of absence from hospital.[^key-e0cfb7ef307a003f36fb31cc5738f0de]
+### 6. Leave of absence from hospital.[^c-e0cfb7ef307a003f36fb31cc5738f0de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -200,16 +200,16 @@ Section 1(2).
 **2.** In section 32 of that Act (regulations for purposes of Part II), in subsection (2)(c) (records etc.)—
 
 - (a) for the words “the managers of hospitals and local social services authorities” there shall be substituted “ such bodies as may be prescribed by the regulations ”;
-- (b) for the words “prescribed by the regulations” there shall be substituted “ so prescribed ”; [^key-b0c8bb8a0e3e789034ecd8879c984673]...
-- (c)[^key-b0c8bb8a0e3e789034ecd8879c984673] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) for the words “prescribed by the regulations” there shall be substituted “ so prescribed ”; [^c-b0c8bb8a0e3e789034ecd8879c984673]...
+- (c)[^c-b0c8bb8a0e3e789034ecd8879c984673] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Wards of court
 
-**3.**[^key-cd949f5be716c48eb80f9bd1e425013e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cd949f5be716c48eb80f9bd1e425013e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Medical officers and supervisors
 
-**4.**[^key-70bd1c602c32af683fae17008c916809] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-70bd1c602c32af683fae17008c916809] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part III patients
 
@@ -219,36 +219,36 @@ Section 1(2).
 
 .
 
-**6.**[^key-495dba7f56f88f412944650c3c2acd35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-495dba7f56f88f412944650c3c2acd35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Mental Health Review Tribunals
 
-**7.**[^key-879fcf760e0d1d5f0be73e9ccaa6c905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-879fcf760e0d1d5f0be73e9ccaa6c905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.** (1) Section 67 of that Act (references to tribunals by Secretary of State) shall be amended in accordance with sub-paragraphs (2) and (3) below.
 
-(2)[^key-becee76d6d512de84e534d7fc7d3fa0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-becee76d6d512de84e534d7fc7d3fa0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (2) (power of registered medical practitioner to require records), at the end there shall be inserted the words “ or to any after-care services provided for the patient under section 117 below ”.
 
 **9.** In section 68 of that Act (duty of managers of hospitals to refer cases to tribunal), in subsection (3) (power of registered medical practitioner to require records), at the end there shall be inserted the words “ or to any after-care services provided for the patient under section 117 below ”.
 
-**10.** (1)[^key-b3bc5820c263dda21bb1ac22fdda6bb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.** (1)[^c-b3bc5820c263dda21bb1ac22fdda6bb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-b3bc5820c263dda21bb1ac22fdda6bb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b3bc5820c263dda21bb1ac22fdda6bb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-b3bc5820c263dda21bb1ac22fdda6bb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b3bc5820c263dda21bb1ac22fdda6bb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-6f10ee5f8975af6f1af9456e51b751fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6f10ee5f8975af6f1af9456e51b751fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **11.** In section 76(1) of that Act (visiting and examination of patients)—
 
-- (a)[^key-2797e13b3850d024c92d0c8f42a8ea55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-2797e13b3850d024c92d0c8f42a8ea55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (b), at the end there shall be inserted the words “ or to any after-care services provided for the patient under section 117 below. ”
 
-**12.**[^key-6fa7c16a5542d7da6e766499ea76034d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-6fa7c16a5542d7da6e766499ea76034d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-ef3f2b29b14a18998a0dbcb79be9df19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-ef3f2b29b14a18998a0dbcb79be9df19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **14.** In Schedule 1 to that Act (application of provisions to patients subject to hospital and guardianship orders), in Part I (patients not subject to special restrictions), in paragraph 9(b) (modifications of section 66(2)), for the words from “shall be omitted” to the end there shall be substituted “ , and in paragraph (d) “, (g)”, shall be omitted. ”
 
@@ -277,71 +277,71 @@ Section 1(2).
 
 **17.** In section 126 of that Act (forgery, false statements etc.), in subsection (3)(b) (subsection (1) to apply to medical recommendations and reports), after the word “medical” there shall be inserted “ or other ”.
 
-**18.**[^key-dab3a2b81aaaeb16ecdab28515ec49e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-dab3a2b81aaaeb16ecdab28515ec49e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **19.** In section 129 of that Act (obstruction), in subsection (1)(b) (refusal to allow visiting, interviewing or examination by a person authorised by or under the Act), after the word “Act” there shall be inserted “ or to give access to any person to a person so authorised ”.
 
 ### Interpretation
 
-**20.**[^key-8f2b00147e723b462ee01132a5d287c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-8f2b00147e723b462ee01132a5d287c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Community care orders: supplementary[^key-8faaf588e1dc6d2e4b89e003499d82d5]
+## SCHEDULE 2 — Community care orders: supplementary[^c-8faaf588e1dc6d2e4b89e003499d82d5]
 
 Section 4(2).
 
-### Mental Welfare Commission[^key-8faaf588e1dc6d2e4b89e003499d82d5]
+### Mental Welfare Commission[^c-8faaf588e1dc6d2e4b89e003499d82d5]
 
 **No longer in force.**
 
-**1.**[^key-8faaf588e1dc6d2e4b89e003499d82d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-8faaf588e1dc6d2e4b89e003499d82d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-8faaf588e1dc6d2e4b89e003499d82d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8faaf588e1dc6d2e4b89e003499d82d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### After-care services[^key-8faaf588e1dc6d2e4b89e003499d82d5]
-
-**No longer in force.**
-
-**3.**[^key-8faaf588e1dc6d2e4b89e003499d82d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Part VI patients[^key-8faaf588e1dc6d2e4b89e003499d82d5]
+### After-care services[^c-8faaf588e1dc6d2e4b89e003499d82d5]
 
 **No longer in force.**
 
-**4.**[^key-8faaf588e1dc6d2e4b89e003499d82d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8faaf588e1dc6d2e4b89e003499d82d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-8faaf588e1dc6d2e4b89e003499d82d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Offences[^key-8faaf588e1dc6d2e4b89e003499d82d5]
+### Part VI patients[^c-8faaf588e1dc6d2e4b89e003499d82d5]
 
 **No longer in force.**
 
-**6.**[^key-8faaf588e1dc6d2e4b89e003499d82d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-8faaf588e1dc6d2e4b89e003499d82d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-8faaf588e1dc6d2e4b89e003499d82d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-8faaf588e1dc6d2e4b89e003499d82d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Duty to inform nearest relative[^key-8faaf588e1dc6d2e4b89e003499d82d5]
-
-**No longer in force.**
-
-**8.**[^key-8faaf588e1dc6d2e4b89e003499d82d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Code of practice[^key-8faaf588e1dc6d2e4b89e003499d82d5]
+### Offences[^c-8faaf588e1dc6d2e4b89e003499d82d5]
 
 **No longer in force.**
 
-**9.**[^key-8faaf588e1dc6d2e4b89e003499d82d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-8faaf588e1dc6d2e4b89e003499d82d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Interpretation[^key-8faaf588e1dc6d2e4b89e003499d82d5]
+**7.**[^c-8faaf588e1dc6d2e4b89e003499d82d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Duty to inform nearest relative[^c-8faaf588e1dc6d2e4b89e003499d82d5]
 
 **No longer in force.**
 
-**10.**[^key-8faaf588e1dc6d2e4b89e003499d82d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-8faaf588e1dc6d2e4b89e003499d82d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Code of practice[^c-8faaf588e1dc6d2e4b89e003499d82d5]
+
+**No longer in force.**
+
+**9.**[^c-8faaf588e1dc6d2e4b89e003499d82d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Interpretation[^c-8faaf588e1dc6d2e4b89e003499d82d5]
+
+**No longer in force.**
+
+**10.**[^c-8faaf588e1dc6d2e4b89e003499d82d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c831860]: Commencement: Act not in force at Royal Assent; Act wholly in force at 1.4.1996 see [s. 7(2)](https://www.legislation.gov.uk/ukpga/1995/52/section/7/2)
 
-[^key-7baec7840994d2382e75161cf6622312]: Textual amendment: [S. 1(1)](https://www.legislation.gov.uk/ukpga/1995/52/section/1/1) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/5); [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/d)
+[^c-7baec7840994d2382e75161cf6622312]: Textual amendment: [S. 1(1)](https://www.legislation.gov.uk/ukpga/1995/52/section/1/1) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/5); [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/d)
 
 [^c831863]: Marginal citation: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
 
@@ -349,34 +349,34 @@ Section 4(2).
 
 [^c831865]: Marginal citation: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
 
-[^key-e0cfb7ef307a003f36fb31cc5738f0de]: Textual amendment: Ss. 4-6 repealed (S.) (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-e0cfb7ef307a003f36fb31cc5738f0de]: Textual amendment: Ss. 4-6 repealed (S.) (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
 [^c831871]: Marginal citation: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
 
-[^key-b0c8bb8a0e3e789034ecd8879c984673]: Textual amendment: Sch. 1 para. 2(c) and preceding word repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/5); [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/d)
+[^c-b0c8bb8a0e3e789034ecd8879c984673]: Textual amendment: Sch. 1 para. 2(c) and preceding word repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/5); [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/d)
 
-[^key-cd949f5be716c48eb80f9bd1e425013e]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/1995/52/schedule/1/paragraph/3) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/5); [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/d)
+[^c-cd949f5be716c48eb80f9bd1e425013e]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/1995/52/schedule/1/paragraph/3) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/5); [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/d)
 
-[^key-70bd1c602c32af683fae17008c916809]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/1995/52/schedule/1/paragraph/4) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/5); [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/d)
+[^c-70bd1c602c32af683fae17008c916809]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/1995/52/schedule/1/paragraph/4) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/5); [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/d)
 
-[^key-495dba7f56f88f412944650c3c2acd35]: Textual amendment: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/1995/52/schedule/1/paragraph/6) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/5); [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/d)
+[^c-495dba7f56f88f412944650c3c2acd35]: Textual amendment: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/1995/52/schedule/1/paragraph/6) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/5); [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/d)
 
-[^key-879fcf760e0d1d5f0be73e9ccaa6c905]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/1995/52/schedule/1/paragraph/7) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/5); [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/d)
+[^c-879fcf760e0d1d5f0be73e9ccaa6c905]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/1995/52/schedule/1/paragraph/7) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/5); [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/d)
 
-[^key-becee76d6d512de84e534d7fc7d3fa0b]: Textual amendment: [Sch. 1 para. 8(2)](https://www.legislation.gov.uk/ukpga/1995/52/schedule/1/paragraph/8/2) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/5); [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/d)
+[^c-becee76d6d512de84e534d7fc7d3fa0b]: Textual amendment: [Sch. 1 para. 8(2)](https://www.legislation.gov.uk/ukpga/1995/52/schedule/1/paragraph/8/2) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/5); [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/d)
 
-[^key-b3bc5820c263dda21bb1ac22fdda6bb4]: Textual amendment: Sch. 1 para. 10(1)-(3) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/5); [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/d)
+[^c-b3bc5820c263dda21bb1ac22fdda6bb4]: Textual amendment: Sch. 1 para. 10(1)-(3) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/5); [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/d)
 
-[^key-6f10ee5f8975af6f1af9456e51b751fe]: Textual amendment: [Sch. 1 para. 10(4)](https://www.legislation.gov.uk/ukpga/1995/52/schedule/1/paragraph/10/4) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/1); [S.I. 2008/1900](https://www.legislation.gov.uk/uksi/2008/1900), [art. 2(p)](https://www.legislation.gov.uk/uksi/2008/1900/article/2/p) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1900/article/3) [Sch.](https://www.legislation.gov.uk/uksi/2008/1900/schedule))
+[^c-6f10ee5f8975af6f1af9456e51b751fe]: Textual amendment: [Sch. 1 para. 10(4)](https://www.legislation.gov.uk/ukpga/1995/52/schedule/1/paragraph/10/4) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/1); [S.I. 2008/1900](https://www.legislation.gov.uk/uksi/2008/1900), [art. 2(p)](https://www.legislation.gov.uk/uksi/2008/1900/article/2/p) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1900/article/3) [Sch.](https://www.legislation.gov.uk/uksi/2008/1900/schedule))
 
-[^key-2797e13b3850d024c92d0c8f42a8ea55]: Textual amendment: [Sch. 1 para. 11(a)](https://www.legislation.gov.uk/ukpga/1995/52/schedule/1/paragraph/11/a) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/5); [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/d)
+[^c-2797e13b3850d024c92d0c8f42a8ea55]: Textual amendment: [Sch. 1 para. 11(a)](https://www.legislation.gov.uk/ukpga/1995/52/schedule/1/paragraph/11/a) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/5); [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/d)
 
-[^key-6fa7c16a5542d7da6e766499ea76034d]: Textual amendment: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/1995/52/schedule/1/paragraph/12) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/5); [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/d)
+[^c-6fa7c16a5542d7da6e766499ea76034d]: Textual amendment: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/1995/52/schedule/1/paragraph/12) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/5); [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/d)
 
-[^key-ef3f2b29b14a18998a0dbcb79be9df19]: Textual amendment: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/1995/52/schedule/1/paragraph/13) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/5); [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/d)
+[^c-ef3f2b29b14a18998a0dbcb79be9df19]: Textual amendment: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/1995/52/schedule/1/paragraph/13) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/5); [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/d)
 
-[^key-dab3a2b81aaaeb16ecdab28515ec49e6]: Textual amendment: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/1995/52/schedule/1/paragraph/18) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/5); [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/d)
+[^c-dab3a2b81aaaeb16ecdab28515ec49e6]: Textual amendment: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/1995/52/schedule/1/paragraph/18) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/5); [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/d)
 
-[^key-8f2b00147e723b462ee01132a5d287c0]: Textual amendment: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/1995/52/schedule/1/paragraph/20) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/5); [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/d)
+[^c-8f2b00147e723b462ee01132a5d287c0]: Textual amendment: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/1995/52/schedule/1/paragraph/20) repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 11 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/5); [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/d)
 
-[^key-8faaf588e1dc6d2e4b89e003499d82d5]: Textual amendment: Sch. 2 repealed (S.) (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-8faaf588e1dc6d2e4b89e003499d82d5]: Textual amendment: Sch. 2 repealed (S.) (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

@@ -41,7 +41,7 @@ An Act to empower certain officers and other persons to administer oaths and tak
 
 - (a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c590670]
 - (b) an extract of an instrument creating a power of attorney registered in Scotland in the books of council and session; or
-- (c) an office copy of an instrument deposited in the proper office of the Court of Judicature[^key-46262f8aab4d199e2d9faa695843c8dd] under section forty-eight of the [^c590671]Conveyancing Act, 1881, as it applies to Northern Ireland;
+- (c) an office copy of an instrument deposited in the proper office of the Court of Judicature[^c-46262f8aab4d199e2d9faa695843c8dd] under section forty-eight of the [^c590671]Conveyancing Act, 1881, as it applies to Northern Ireland;
 
 shall, in any part of the United Kingdom, without further proof be sufficient evidence of the contents of the instrument and of the fact that it has been so deposited or registered.
 
@@ -71,7 +71,7 @@ shall, in any part of the United Kingdom, without further proof be sufficient ev
 
 [^c590670]: Textual amendment: S. 4(1)(a) repealed by [Supreme Court Act 1981 (c. 54, SIF 37)](https://www.legislation.gov.uk/ukpga/1981/54), [s. 152(4)](https://www.legislation.gov.uk/ukpga/1981/54/section/152/4), [Sch. 7](https://www.legislation.gov.uk/ukpga/1981/54/schedule/7)
 
-[^key-46262f8aab4d199e2d9faa695843c8dd]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/Geo6/3-4/28) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/6); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-46262f8aab4d199e2d9faa695843c8dd]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/Geo6/3-4/28) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/6); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c590671]: Marginal citation: [1881 c. 41](https://www.legislation.gov.uk/ukpga/1881/41).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Repeal of section 52B of the 2018 Act[^key-100d0fe1f397d06019eabf81b932d19e]
+## 3. Repeal of section 52B of the 2018 Act[^c-100d0fe1f397d06019eabf81b932d19e]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-100d0fe1f397d06019eabf81b932d19e]: Commencement: S. 3 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
+[^c-100d0fe1f397d06019eabf81b932d19e]: Commencement: S. 3 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)

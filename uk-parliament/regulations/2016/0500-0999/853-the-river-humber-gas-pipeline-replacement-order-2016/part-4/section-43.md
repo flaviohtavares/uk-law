@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Crown rights[^key-6dc9f04e0fda0be2fe403b9b1222bb62]
+## 43. Crown rights[^c-6dc9f04e0fda0be2fe403b9b1222bb62]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6dc9f04e0fda0be2fe403b9b1222bb62]: Commencement: Art. 43 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-6dc9f04e0fda0be2fe403b9b1222bb62]: Commencement: Art. 43 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)

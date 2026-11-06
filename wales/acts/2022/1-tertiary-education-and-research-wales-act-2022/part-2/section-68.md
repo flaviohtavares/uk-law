@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Funding of inspections and reports on further education and training etc.[^key-96a939c98ef534c7f3136b84076b8a5b][^key-f4263a4f9aa15522a0eeb6e9149b9f01]
+## 68. Funding of inspections and reports on further education and training etc.[^c-96a939c98ef534c7f3136b84076b8a5b][^c-f4263a4f9aa15522a0eeb6e9149b9f01]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-96a939c98ef534c7f3136b84076b8a5b]: Commencement: S. 68 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-96a939c98ef534c7f3136b84076b8a5b]: Commencement: S. 68 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-f4263a4f9aa15522a0eeb6e9149b9f01]: Commencement: [S. 68](https://www.legislation.gov.uk/asc/2022/1/section/68) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(l)](https://www.legislation.gov.uk/wsi/2026/62/article/2/l)
+[^c-f4263a4f9aa15522a0eeb6e9149b9f01]: Commencement: [S. 68](https://www.legislation.gov.uk/asc/2022/1/section/68) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(l)](https://www.legislation.gov.uk/wsi/2026/62/article/2/l)

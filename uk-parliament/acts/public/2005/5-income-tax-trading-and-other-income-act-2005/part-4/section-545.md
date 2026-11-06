@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-e23ea98e89faf23eb7bb5a0011fca8dd] In this Chapter—
+(1)[^c-e23ea98e89faf23eb7bb5a0011fca8dd] In this Chapter—
 
-- [^key-e72f227ba085a153f92faa46908d90c8]...
+- [^c-e72f227ba085a153f92faa46908d90c8]...
 - “**contract of insurance**” has the meaning given by Article 3(1) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 (S.I. 2001/544),
 - “**friendly society**” has the meaning given in the Friendly Societies Act 1992 (c. 40) and includes a society which under section 96(2) of that Act is to be treated as a registered friendly society,
 - “**insurance company**” means an undertaking carrying on the business of effecting or carrying out contracts of insurance,
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e23ea98e89faf23eb7bb5a0011fca8dd]: Modification: S. 545(1) applied by 1988 c. 1, Sch. 15 Pt. A1 para. A5(4)(b) (as inserted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/9/paragraph/2))
+[^c-e23ea98e89faf23eb7bb5a0011fca8dd]: Modification: S. 545(1) applied by 1988 c. 1, Sch. 15 Pt. A1 para. A5(4)(b) (as inserted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/9/paragraph/2))
 
-[^key-e72f227ba085a153f92faa46908d90c8]: Textual amendment: Words in s. 545(1) omitted (with effect in accordance with art. 15 of the commencing S.I.) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 6 paras. 21(3)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/21/3), [34(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/34/2); [S.I. 2012/736](https://www.legislation.gov.uk/uksi/2012/736), [art. 15](https://www.legislation.gov.uk/uksi/2012/736/article/15)
+[^c-e72f227ba085a153f92faa46908d90c8]: Textual amendment: Words in s. 545(1) omitted (with effect in accordance with art. 15 of the commencing S.I.) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 6 paras. 21(3)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/21/3), [34(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/34/2); [S.I. 2012/736](https://www.legislation.gov.uk/uksi/2012/736), [art. 15](https://www.legislation.gov.uk/uksi/2012/736/article/15)

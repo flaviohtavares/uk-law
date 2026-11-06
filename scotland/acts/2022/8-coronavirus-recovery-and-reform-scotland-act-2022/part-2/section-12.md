@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Procedure for regulations[^key-60d47f4599270bfac58a1ff3db20b108]
+## 12. Procedure for regulations[^c-60d47f4599270bfac58a1ff3db20b108]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60d47f4599270bfac58a1ff3db20b108]: Commencement: S. 12 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-60d47f4599270bfac58a1ff3db20b108]: Commencement: S. 12 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

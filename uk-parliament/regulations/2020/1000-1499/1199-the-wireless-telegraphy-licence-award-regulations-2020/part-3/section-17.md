@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Recording of existing spectrum holdings[^key-f87e78f4fae45181edfb453af6a418a1]
+## 17. Recording of existing spectrum holdings[^c-f87e78f4fae45181edfb453af6a418a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f87e78f4fae45181edfb453af6a418a1]: Commencement: Reg. 17 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-f87e78f4fae45181edfb453af6a418a1]: Commencement: Reg. 17 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

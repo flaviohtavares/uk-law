@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — ACQUISITION OF NEW RIGHTS ONLY[^key-0ca69ec9de28d7c09337479b3d93eaf1]
+## SCHEDULE 4 — ACQUISITION OF NEW RIGHTS ONLY[^c-0ca69ec9de28d7c09337479b3d93eaf1]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ Article 36
 
 ## Annotations
 
-[^key-0ca69ec9de28d7c09337479b3d93eaf1]: Commencement: Sch. 4 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-0ca69ec9de28d7c09337479b3d93eaf1]: Commencement: Sch. 4 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

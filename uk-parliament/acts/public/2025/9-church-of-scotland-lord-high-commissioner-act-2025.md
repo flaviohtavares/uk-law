@@ -36,13 +36,13 @@ An Act to make provision for persons of the Roman Catholic faith to be eligible 
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Holding of office of Lord High Commissioner by Roman Catholic[^key-630b21eb41102eb8137110b4b1bad118]
+## 1. Holding of office of Lord High Commissioner by Roman Catholic[^c-630b21eb41102eb8137110b4b1bad118]
 
 (1) A person of the Roman Catholic faith may hold the office of His Majesty’s High Commissioner to the General Assembly of the Church of Scotland.
 
 (2) In section 12 of the Roman Catholic Relief Act 1829 (offices withheld from Roman Catholics) omit “; or his Majesty’s high commissioner to the general assembly of the Church of Scotland”.
 
-## 2. Extent, commencement and short title[^key-bbcc8d33f1a6150f8a9bcb65d7541ccf]
+## 2. Extent, commencement and short title[^c-bbcc8d33f1a6150f8a9bcb65d7541ccf]
 
 (1) This Act extends to England and Wales, Scotland and Northern Ireland.
 
@@ -52,6 +52,6 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Annotations
 
-[^key-630b21eb41102eb8137110b4b1bad118]: Commencement: S. 1 in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2025/9/section/2/2)
+[^c-630b21eb41102eb8137110b4b1bad118]: Commencement: S. 1 in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2025/9/section/2/2)
 
-[^key-bbcc8d33f1a6150f8a9bcb65d7541ccf]: Commencement: S. 2 in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2025/9/section/2/2)
+[^c-bbcc8d33f1a6150f8a9bcb65d7541ccf]: Commencement: S. 2 in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2025/9/section/2/2)

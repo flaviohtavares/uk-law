@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Further provision: land and buildings transaction tax[^key-4840b15dde67b36beee156e57ce2a914]
+## 81. Further provision: land and buildings transaction tax[^c-4840b15dde67b36beee156e57ce2a914]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4840b15dde67b36beee156e57ce2a914]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2014/16/section/81) in force at 7.11.2014 by [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-4840b15dde67b36beee156e57ce2a914]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2014/16/section/81) in force at 7.11.2014 by [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)

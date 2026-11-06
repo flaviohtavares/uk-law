@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 163. Contravention of section 162[^key-75e4b77d85faadd2b966e5b7779cba2d]
+## 163. Contravention of section 162[^c-75e4b77d85faadd2b966e5b7779cba2d]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75e4b77d85faadd2b966e5b7779cba2d]: Commencement: S. 163 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-75e4b77d85faadd2b966e5b7779cba2d]: Commencement: S. 163 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

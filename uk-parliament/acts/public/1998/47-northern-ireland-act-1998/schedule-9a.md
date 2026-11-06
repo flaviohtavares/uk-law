@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 9A — The Office of Identity and Cultural Expression[^key-518531bac97c16fb5ea8de56d8815000]
+## Schedule 9A — The Office of Identity and Cultural Expression[^c-518531bac97c16fb5ea8de56d8815000]
 
 *Extent: E+W+S+N.I.*
 
@@ -151,4 +151,4 @@ The Office may do whatever the Office considers is appropriate for facilitating,
 
 ## Annotations
 
-[^key-518531bac97c16fb5ea8de56d8815000]: Textual amendment: Sch. 9A inserted (22.5.2023) by [Identity and Language (Northern Ireland) Act 2022 (c. 45)](https://www.legislation.gov.uk/ukpga/2022/45), [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2), [Sch. 1](https://www.legislation.gov.uk/ukpga/2022/45/schedule/1); [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/b)
+[^c-518531bac97c16fb5ea8de56d8815000]: Textual amendment: Sch. 9A inserted (22.5.2023) by [Identity and Language (Northern Ireland) Act 2022 (c. 45)](https://www.legislation.gov.uk/ukpga/2022/45), [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2), [Sch. 1](https://www.legislation.gov.uk/ukpga/2022/45/schedule/1); [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/b)

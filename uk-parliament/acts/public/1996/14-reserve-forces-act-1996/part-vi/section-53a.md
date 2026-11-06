@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53A. Agreement to alter limits in section 53[^key-b390786414f0bce14e2a0a0a07c3c44a]
+## 53A. Agreement to alter limits in section 53[^c-b390786414f0bce14e2a0a0a07c3c44a]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b390786414f0bce14e2a0a0a07c3c44a]: Textual amendment: S. 53A inserted (15.10.2007) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 34](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/34); [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 2](https://www.legislation.gov.uk/uksi/2007/2913/article/2)
+[^c-b390786414f0bce14e2a0a0a07c3c44a]: Textual amendment: S. 53A inserted (15.10.2007) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 34](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/34); [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 2](https://www.legislation.gov.uk/uksi/2007/2913/article/2)

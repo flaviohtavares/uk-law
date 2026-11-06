@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 6 — NEW SCHEDULE 15 TO BE INSERTED INTO THE 2018 REGULATIONS[^key-1912edcbb200e6f5791444e9d0b461f7][^key-3167341841c526cf64546348bf434753]
+## SCHEDULE 6 — NEW SCHEDULE 15 TO BE INSERTED INTO THE 2018 REGULATIONS[^c-1912edcbb200e6f5791444e9d0b461f7][^c-3167341841c526cf64546348bf434753]
 
 *Extent: S*
 
@@ -125,9 +125,9 @@ Regulation 9(2)
 
 ## Annotations
 
-[^key-1912edcbb200e6f5791444e9d0b461f7]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ssi/2025/165/schedule/6) in force at 1.6.2025 for specified purposes (subject to reg. 1(5)), see [reg. 1(4)(d)(ii)(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/d/ii/5)
+[^c-1912edcbb200e6f5791444e9d0b461f7]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ssi/2025/165/schedule/6) in force at 1.6.2025 for specified purposes (subject to reg. 1(5)), see [reg. 1(4)(d)(ii)(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/d/ii/5)
 
-[^key-3167341841c526cf64546348bf434753]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ssi/2025/165/schedule/6) in force at 1.11.2025 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-3167341841c526cf64546348bf434753]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ssi/2025/165/schedule/6) in force at 1.11.2025 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00052]: Footnote: [S.I. 2003/2635](https://www.legislation.gov.uk/uksi/2003/2635), relevantly amended by [S.I. 2005/263](https://www.legislation.gov.uk/uksi/2005/263), [S.I. 2010/1094](https://www.legislation.gov.uk/uksi/2010/1094), [S.I. 2018/235](https://www.legislation.gov.uk/uksi/2018/235), [S.I. 2018/942](https://www.legislation.gov.uk/uksi/2018/942), [S.I. 2019/188](https://www.legislation.gov.uk/uksi/2019/188), [S.I. 2020/818](https://www.legislation.gov.uk/uksi/2020/818), and [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226).
 

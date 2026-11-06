@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 60. Penalty notices[^key-aafcc08a649e27b0d6b092f8b3bdbaa7]
+## 60. Penalty notices[^c-aafcc08a649e27b0d6b092f8b3bdbaa7]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aafcc08a649e27b0d6b092f8b3bdbaa7]: Commencement: [S. 60](https://www.legislation.gov.uk/nia/2011/24/section/60) in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(m)](https://www.legislation.gov.uk/nisr/2012/214/article/2/m)
+[^c-aafcc08a649e27b0d6b092f8b3bdbaa7]: Commencement: [S. 60](https://www.legislation.gov.uk/nia/2011/24/section/60) in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(m)](https://www.legislation.gov.uk/nisr/2012/214/article/2/m)

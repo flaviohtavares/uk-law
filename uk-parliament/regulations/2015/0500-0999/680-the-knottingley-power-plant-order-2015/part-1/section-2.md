@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-9a09f159b5afd9aa8f8f18804c0c1013]
+## 2. Interpretation[^c-9a09f159b5afd9aa8f8f18804c0c1013]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 - “commence”, unless otherwise provided for, means beginning to carry out any material operation (as defined in section 155 of the 2008 Act) forming the relevant part of the authorised development other than operations consisting of preliminary works, site clearance, demolition work, archaeological investigations, environmental surveys, investigations for the purpose of assessing ground conditions, remedial work in respect of any contamination or other adverse ground conditions, diversion and laying of services, erection of any temporary means of enclosure, the temporary display of site notices or advertisements and “commencement” is construed accordingly;
 - “commissioning” means the process of assuring that all systems and components of the authorised development (which are installed or installation is near to completion) are tested to verify that they function and are operable in accordance with the design objectives, specifications and operational requirements of the undertaker;
 - “compulsory acquisition notice” means a notice served in accordance with section 134 of the 2008 Act;
-- “design drawings” means the indicative AGI layout drawings, indicative generating station layout drawings, indicative overhead lines and pylons layout drawings and indicative pump hose layout drawing;[^key-4787d1596ed68ea0d725cc32f42dca7f]
+- “design drawings” means the indicative AGI layout drawings, indicative generating station layout drawings, indicative overhead lines and pylons layout drawings and indicative pump hose layout drawing;[^c-4787d1596ed68ea0d725cc32f42dca7f]
 - “environmental statement” means the document certified as the environmental statement by the Secretary of State for the purposes of this Order and submitted with the application together with any supplementary or further environmental information submitted by the undertaker in support of the application;
 - “flood risk assessment” means section K.1 of the environmental statement’s Appendix 1 (“Flood Risk Assessment”); section 20.8 of the environmental statement (“Assessment of Flood Risk”); and the Flood Risk Assessment Addendum (cooling water pipeline and pump house) (reference JL30840-NHY-RP-001 Rev D dated 4th April 2014);
 - “highway” and “highway authority” have the same meaning as in the 1980 Act;
@@ -52,7 +52,7 @@ summary: ''
 - “the land plan” means the plan certified as the land plan by the Secretary of State for the purposes of this Order (key plan drawing number Land/001 revision 9, sheet 1 drawing number Land/002 revision 9, sheet 2 drawing number Land/003 revision 9, sheet 3 drawing number Land /004 revision 9, sheet 4 drawing number Land/005 revision 9, sheet 5 drawing number Land/006 revision 9, sheet 6 drawing number Land/007 revision 9, sheet 7 drawing number Land/008 revision 9);
 - “maintain” includes, to the extent assessed in the environmental statement, inspect, maintain, repair, adjust, alter, refurbish, improve, clear, and remove; and “maintenance” is construed accordingly;
 - “operational phase” means the period of time that the relevant part of the authorised development is in operation after construction and commissioning is complete, which begins on the date specified in the operational phase notice and “operational” and “operation” should be construed accordingly;
-- “operational phase notice” means a written notice served by the undertaker on the relevant planning authority and the Environment Agency confirming that the operational phase is about to be begin or has begun, in accordance with Requirement 38[^key-50d70fa7afe1d3d022e5a54af54104e3] in Part 2 of Schedule 1;
+- “operational phase notice” means a written notice served by the undertaker on the relevant planning authority and the Environment Agency confirming that the operational phase is about to be begin or has begun, in accordance with Requirement 38[^c-50d70fa7afe1d3d022e5a54af54104e3] in Part 2 of Schedule 1;
 - “the Order land” means the land shown on the land plan which is within the limits of land to be acquired and described in the book of reference;
 - “the Order limits” means the limits shown on the works plan within which the authorised development may be carried out;
 - “owner”, in relation to land, has the same meaning as in section 7 (interpretation) of the Acquisition of Land Act 1981[^f00010];
@@ -82,7 +82,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9a09f159b5afd9aa8f8f18804c0c1013]: Commencement: Art. 2 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-9a09f159b5afd9aa8f8f18804c0c1013]: Commencement: Art. 2 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
 [^f00004]: Footnote: [1961 c.33](https://www.legislation.gov.uk/ukpga/1961/33). There are amendments to the 1961 Act which are not relevant to this Order.
 
@@ -96,8 +96,8 @@ summary: ''
 
 [^f00009]: Footnote: [1991 c.22](https://www.legislation.gov.uk/ukpga/1991/22). Section 48(3A) was inserted by section 124 of the Local Transport Act [2008 (c.26)](https://www.legislation.gov.uk/ukpga/2008/26). Sections 78(4), 80(4), and 83(4) were amended by section 40 of, and Schedule 1 to, the Traffic Management Act [2004 (c.18)](https://www.legislation.gov.uk/ukpga/2004/18).
 
-[^key-4787d1596ed68ea0d725cc32f42dca7f]: Textual amendment: Words in art. 2(1) inserted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
+[^c-4787d1596ed68ea0d725cc32f42dca7f]: Textual amendment: Words in art. 2(1) inserted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
 
-[^key-50d70fa7afe1d3d022e5a54af54104e3]: Textual amendment: Words in art. 2(1) substituted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
+[^c-50d70fa7afe1d3d022e5a54af54104e3]: Textual amendment: Words in art. 2(1) substituted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
 
 [^f00010]: Footnote: [1981 c.67](https://www.legislation.gov.uk/ukpga/1981/67). Section 7 was amended by section 70 of, and paragraph 9 of Schedule 15 to, the Planning and Compensation Act [1991 (c.34)](https://www.legislation.gov.uk/ukpga/1991/34). There are other amendments to the 1981 Act which are not relevant to this Order.

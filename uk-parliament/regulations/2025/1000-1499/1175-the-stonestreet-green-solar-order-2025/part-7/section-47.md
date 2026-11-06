@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Guarantees in respect of payment of compensation[^key-02f068c4461b75fe4c6152da247f5ca2]
+## 47. Guarantees in respect of payment of compensation[^c-02f068c4461b75fe4c6152da247f5ca2]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02f068c4461b75fe4c6152da247f5ca2]: Commencement: Art. 47 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-02f068c4461b75fe4c6152da247f5ca2]: Commencement: Art. 47 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)

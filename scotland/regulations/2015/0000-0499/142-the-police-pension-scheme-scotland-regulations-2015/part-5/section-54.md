@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Application of Chapter[^key-61d4ac55382872c1017fe0974f0e1c50]
+## 54. Application of Chapter[^c-61d4ac55382872c1017fe0974f0e1c50]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61d4ac55382872c1017fe0974f0e1c50]: Commencement: Reg. 54 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-61d4ac55382872c1017fe0974f0e1c50]: Commencement: Reg. 54 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

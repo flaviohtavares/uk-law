@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Dissolution order not precluded by previous separation order etc.[^key-a091281e14e30f60a9fa16fb7caa13e9]
+## 46. Dissolution order not precluded by previous separation order etc.[^c-a091281e14e30f60a9fa16fb7caa13e9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a091281e14e30f60a9fa16fb7caa13e9]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/2004/33/section/46) omitted (6.4.2022) by virtue of [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 39](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/39) (with [s. 8(7)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/7)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-a091281e14e30f60a9fa16fb7caa13e9]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/2004/33/section/46) omitted (6.4.2022) by virtue of [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 39](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/39) (with [s. 8(7)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/7)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)

@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes the following Order in exercise of the power conferred by paragraph 24(1) and (2)(a) of Schedule 15 to the Police Reform and Social Responsibility Act 2011[^f00001].
 
-## 1. Citation, commencement, expiry and interpretation[^key-449458b2fefb5c70f9203b2aa7e1fc4d]
+## 1. Citation, commencement, expiry and interpretation[^c-449458b2fefb5c70f9203b2aa7e1fc4d]
 
 (1) This Order may be cited as the Police Reform and Social Responsibility Act 2011 (Transitional Provision) Order 2013.
 
@@ -56,7 +56,7 @@ The Secretary of State makes the following Order in exercise of the power confer
 
 (4) In this Order “the 2011 Act” means the Police Reform and Social Responsibility Act 2011.
 
-## 2. Accounts of chief officers of police[^key-652bca53e44c8abf5374d4a5a3f8c0d0]
+## 2. Accounts of chief officers of police[^c-652bca53e44c8abf5374d4a5a3f8c0d0]
 
 (1) Schedule 2 to the 2011 Act has effect as if the following paragraph were inserted after paragraph 7—
 
@@ -106,8 +106,8 @@ An Impact Assessment has not been produced for this instrument as there will be 
 
 [^f00001]: Footnote: [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13).
 
-[^key-449458b2fefb5c70f9203b2aa7e1fc4d]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/2319/article/1) in force at 31.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2319/article/1/2)
+[^c-449458b2fefb5c70f9203b2aa7e1fc4d]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/2319/article/1) in force at 31.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2319/article/1/2)
 
-[^key-652bca53e44c8abf5374d4a5a3f8c0d0]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/2319/article/2) in force at 31.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2319/article/1/2)
+[^c-652bca53e44c8abf5374d4a5a3f8c0d0]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/2319/article/2) in force at 31.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2319/article/1/2)
 
 [^f00002]: Footnote: [2003 c. 26](https://www.legislation.gov.uk/ukpga/2003/26). Section 21 is amended by section 238 of the Local Government and Public Involvement in Health Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28) and section 73 of the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20).

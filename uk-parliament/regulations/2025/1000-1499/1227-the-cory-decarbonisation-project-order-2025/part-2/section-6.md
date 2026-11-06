@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Operation of the authorised development[^key-d8e1ca7e351af45d4da9a9fdf1db920a]
+## 6. Operation of the authorised development[^c-d8e1ca7e351af45d4da9a9fdf1db920a]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8e1ca7e351af45d4da9a9fdf1db920a]: Commencement: Art. 6 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-d8e1ca7e351af45d4da9a9fdf1db920a]: Commencement: Art. 6 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

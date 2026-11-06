@@ -16,33 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Powers exercisable by contracted-out staff[^c19956831][^key-ab57c844e990f10570f78882a8050a55]
+## SCHEDULE 4 — Powers exercisable by contracted-out staff[^c19956831][^c-ab57c844e990f10570f78882a8050a55]
 
 *Extent: E+W+S+N.I.*
 
 Section 38
 
-### Part 1 — Community Support Officers[^key-018ab532dfbb30976796ae20dd24886e]
+### Part 1 — Community Support Officers[^c-018ab532dfbb30976796ae20dd24886e]
 
-#### 1. Powers to issue fixed penalty notices[^key-018ab532dfbb30976796ae20dd24886e]
-
-*Extent: E+W*
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**No longer in force.**
-
-**1ZA.**[^key-018ab532dfbb30976796ae20dd24886e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 1ZB. Power to issue community protection notices[^key-018ab532dfbb30976796ae20dd24886e]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 1A. Power to require name and address[^key-018ab532dfbb30976796ae20dd24886e]
+#### 1. Powers to issue fixed penalty notices[^c-018ab532dfbb30976796ae20dd24886e]
 
 *Extent: E+W*
 
@@ -50,7 +32,17 @@ Section 38
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. Power to detain etc.[^key-018ab532dfbb30976796ae20dd24886e]
+**No longer in force.**
+
+**1ZA.**[^c-018ab532dfbb30976796ae20dd24886e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 1ZB. Power to issue community protection notices[^c-018ab532dfbb30976796ae20dd24886e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 1A. Power to require name and address[^c-018ab532dfbb30976796ae20dd24886e]
 
 *Extent: E+W*
 
@@ -58,7 +50,7 @@ Section 38
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2A. Powers to search individuals and to seize and retain items[^key-018ab532dfbb30976796ae20dd24886e]
+#### 2. Power to detain etc.[^c-018ab532dfbb30976796ae20dd24886e]
 
 *Extent: E+W*
 
@@ -66,13 +58,7 @@ Section 38
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2B. General power of seizure[^key-018ab532dfbb30976796ae20dd24886e]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 3. Power to require name and address of person acting in an anti-social manner[^key-018ab532dfbb30976796ae20dd24886e]
+#### 2A. Powers to search individuals and to seize and retain items[^c-018ab532dfbb30976796ae20dd24886e]
 
 *Extent: E+W*
 
@@ -80,7 +66,13 @@ Section 38
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3A. Power to require name and address: road traffic offences[^key-018ab532dfbb30976796ae20dd24886e]
+#### 2B. General power of seizure[^c-018ab532dfbb30976796ae20dd24886e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 3. Power to require name and address of person acting in an anti-social manner[^c-018ab532dfbb30976796ae20dd24886e]
 
 *Extent: E+W*
 
@@ -88,13 +80,7 @@ Section 38
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3B. Power to require name and address etc: charity collectors[^key-018ab532dfbb30976796ae20dd24886e]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 4. Power to use reasonable force to detain person[^key-018ab532dfbb30976796ae20dd24886e]
+#### 3A. Power to require name and address: road traffic offences[^c-018ab532dfbb30976796ae20dd24886e]
 
 *Extent: E+W*
 
@@ -102,217 +88,13 @@ Section 38
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-*Extent: E+W*
-
-**No longer in force.**
-
-**4ZA.**[^key-018ab532dfbb30976796ae20dd24886e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-*Extent: E+W*
-
-**No longer in force.**
-
-**4ZB.**[^key-018ab532dfbb30976796ae20dd24886e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 4A. Power to disperse groups and remove young persons to their place of residence[^key-018ab532dfbb30976796ae20dd24886e]
-
-*Extent: E+W*
+#### 3B. Power to require name and address etc: charity collectors[^c-018ab532dfbb30976796ae20dd24886e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4AB.**[^key-018ab532dfbb30976796ae20dd24886e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 4B. Power to disperse groups and remove young persons to their place of residence[^key-018ab532dfbb30976796ae20dd24886e]
-
-*Extent: E+W*
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 4C. Power to remove truants and excluded pupils to designated premises etc.[^key-018ab532dfbb30976796ae20dd24886e]
-
-*Extent: E+W*
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 5. Alcohol consumption in restricted areas[^key-018ab532dfbb30976796ae20dd24886e]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 5A. Power to serve closure notice for licensed premises persistently selling to children[^key-018ab532dfbb30976796ae20dd24886e]
-
-*Extent: E+W*
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 6. Confiscation of alcohol[^key-018ab532dfbb30976796ae20dd24886e]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 7. Confiscation of tobacco etc.[^key-018ab532dfbb30976796ae20dd24886e]
-
-*Extent: E+W*
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 7A. Search and seizure powers: alcohol and tobacco[^key-018ab532dfbb30976796ae20dd24886e]
-
-*Extent: E+W*
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 7B. Powers to seize and detain: controlled drugs[^key-018ab532dfbb30976796ae20dd24886e]
-
-*Extent: E+W*
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 7C. Powers to seize and detain: controlled drugs[^key-018ab532dfbb30976796ae20dd24886e]
-
-*Extent: E+W*
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 7D. Park Trading offences[^key-018ab532dfbb30976796ae20dd24886e]
-
-*Extent: E+W*
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 7E. Powers to seize and detain: psychoactive substances[^key-018ab532dfbb30976796ae20dd24886e]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7F.**[^key-018ab532dfbb30976796ae20dd24886e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 8. Entry to save life or limb or prevent serious damage to property[^key-018ab532dfbb30976796ae20dd24886e]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 8A. Entry to investigate licensing offences[^key-018ab532dfbb30976796ae20dd24886e]
-
-*Extent: E+W*
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 9. Seizure of vehicles used to cause alarm etc.[^key-018ab532dfbb30976796ae20dd24886e]
-
-*Extent: E+W*
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 10. Abandoned vehicles[^key-018ab532dfbb30976796ae20dd24886e]
-
-*Extent: E+W*
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 11. Power to stop vehicle for testing[^key-018ab532dfbb30976796ae20dd24886e]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 11A. Power to stop cycles[^key-018ab532dfbb30976796ae20dd24886e]
-
-*Extent: E+W*
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 11B. Power to control traffic for purposes other than escorting a load of exceptional dimensions[^key-018ab532dfbb30976796ae20dd24886e]
-
-*Extent: E+W*
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 12. Power to control traffic for purposes of escorting a load of exceptional dimensions[^key-018ab532dfbb30976796ae20dd24886e]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 13. Carrying out of road checks[^key-018ab532dfbb30976796ae20dd24886e]
-
-*Extent: E+W*
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 13A. Power to place traffic signs[^key-018ab532dfbb30976796ae20dd24886e]
-
-*Extent: E+W*
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 14. Cordoned areas[^key-018ab532dfbb30976796ae20dd24886e]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 15. Power to stop and search vehicles etc. in authorised areas[^key-018ab532dfbb30976796ae20dd24886e]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 15ZA. Photographing of persons arrested, detained or given fixed penalty notices[^key-018ab532dfbb30976796ae20dd24886e]
-
-*Extent: E+W*
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 15A. Power to modify paragraph 1(2A)[^key-018ab532dfbb30976796ae20dd24886e]
-
-*Extent: E+W*
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Part 2 — Investigating Officers[^key-d01eaaefe432c871b57246bf4b22a06a]
-
-#### 16. Search warrants[^key-d01eaaefe432c871b57246bf4b22a06a]
+#### 4. Power to use reasonable force to detain person[^c-018ab532dfbb30976796ae20dd24886e]
 
 *Extent: E+W*
 
@@ -322,17 +104,235 @@ Section 38
 
 *Extent: E+W*
 
-**May not be in force at this date. Check the source.**
+**No longer in force.**
 
-**16A.**[^key-d01eaaefe432c871b57246bf4b22a06a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4ZA.**[^c-018ab532dfbb30976796ae20dd24886e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+*Extent: E+W*
+
+**No longer in force.**
+
+**4ZB.**[^c-018ab532dfbb30976796ae20dd24886e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 4A. Power to disperse groups and remove young persons to their place of residence[^c-018ab532dfbb30976796ae20dd24886e]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4AB.**[^c-018ab532dfbb30976796ae20dd24886e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 4B. Power to disperse groups and remove young persons to their place of residence[^c-018ab532dfbb30976796ae20dd24886e]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 4C. Power to remove truants and excluded pupils to designated premises etc.[^c-018ab532dfbb30976796ae20dd24886e]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 5. Alcohol consumption in restricted areas[^c-018ab532dfbb30976796ae20dd24886e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 5A. Power to serve closure notice for licensed premises persistently selling to children[^c-018ab532dfbb30976796ae20dd24886e]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 6. Confiscation of alcohol[^c-018ab532dfbb30976796ae20dd24886e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 7. Confiscation of tobacco etc.[^c-018ab532dfbb30976796ae20dd24886e]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 7A. Search and seizure powers: alcohol and tobacco[^c-018ab532dfbb30976796ae20dd24886e]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 7B. Powers to seize and detain: controlled drugs[^c-018ab532dfbb30976796ae20dd24886e]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 7C. Powers to seize and detain: controlled drugs[^c-018ab532dfbb30976796ae20dd24886e]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 7D. Park Trading offences[^c-018ab532dfbb30976796ae20dd24886e]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 7E. Powers to seize and detain: psychoactive substances[^c-018ab532dfbb30976796ae20dd24886e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7F.**[^c-018ab532dfbb30976796ae20dd24886e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 8. Entry to save life or limb or prevent serious damage to property[^c-018ab532dfbb30976796ae20dd24886e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 8A. Entry to investigate licensing offences[^c-018ab532dfbb30976796ae20dd24886e]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 9. Seizure of vehicles used to cause alarm etc.[^c-018ab532dfbb30976796ae20dd24886e]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 10. Abandoned vehicles[^c-018ab532dfbb30976796ae20dd24886e]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 11. Power to stop vehicle for testing[^c-018ab532dfbb30976796ae20dd24886e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 11A. Power to stop cycles[^c-018ab532dfbb30976796ae20dd24886e]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 11B. Power to control traffic for purposes other than escorting a load of exceptional dimensions[^c-018ab532dfbb30976796ae20dd24886e]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 12. Power to control traffic for purposes of escorting a load of exceptional dimensions[^c-018ab532dfbb30976796ae20dd24886e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 13. Carrying out of road checks[^c-018ab532dfbb30976796ae20dd24886e]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 13A. Power to place traffic signs[^c-018ab532dfbb30976796ae20dd24886e]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 14. Cordoned areas[^c-018ab532dfbb30976796ae20dd24886e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 15. Power to stop and search vehicles etc. in authorised areas[^c-018ab532dfbb30976796ae20dd24886e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 15ZA. Photographing of persons arrested, detained or given fixed penalty notices[^c-018ab532dfbb30976796ae20dd24886e]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 15A. Power to modify paragraph 1(2A)[^c-018ab532dfbb30976796ae20dd24886e]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part 2 — Investigating Officers[^c-d01eaaefe432c871b57246bf4b22a06a]
+
+#### 16. Search warrants[^c-d01eaaefe432c871b57246bf4b22a06a]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-**16B.**[^key-d01eaaefe432c871b57246bf4b22a06a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16A.**[^c-d01eaaefe432c871b57246bf4b22a06a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Access to excluded and special procedure material[^key-d01eaaefe432c871b57246bf4b22a06a]
+*Extent: E+W*
+
+**May not be in force at this date. Check the source.**
+
+**16B.**[^c-d01eaaefe432c871b57246bf4b22a06a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 17. Access to excluded and special procedure material[^c-d01eaaefe432c871b57246bf4b22a06a]
 
 *Extent: E+W*
 
@@ -340,37 +340,37 @@ Section 38
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18. Entry and search after arrest[^key-d01eaaefe432c871b57246bf4b22a06a]
+#### 18. Entry and search after arrest[^c-d01eaaefe432c871b57246bf4b22a06a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18A. Entry and search for evidence of nationality after arrest[^key-d01eaaefe432c871b57246bf4b22a06a]
+#### 18A. Entry and search for evidence of nationality after arrest[^c-d01eaaefe432c871b57246bf4b22a06a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 19. General power of seizure[^key-d01eaaefe432c871b57246bf4b22a06a]
+#### 19. General power of seizure[^c-d01eaaefe432c871b57246bf4b22a06a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 20. Access and copying in the case of things seized by constables[^key-d01eaaefe432c871b57246bf4b22a06a]
+#### 20. Access and copying in the case of things seized by constables[^c-d01eaaefe432c871b57246bf4b22a06a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 21. Arrest at a police station for another offence[^key-d01eaaefe432c871b57246bf4b22a06a]
+#### 21. Arrest at a police station for another offence[^c-d01eaaefe432c871b57246bf4b22a06a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 22. Power to transfer persons into custody of investigating officers[^key-d01eaaefe432c871b57246bf4b22a06a]
+#### 22. Power to transfer persons into custody of investigating officers[^c-d01eaaefe432c871b57246bf4b22a06a]
 
 *Extent: E+W*
 
@@ -378,7 +378,7 @@ Section 38
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 22A. Powers in respect of detained persons[^key-d01eaaefe432c871b57246bf4b22a06a]
+#### 22A. Powers in respect of detained persons[^c-d01eaaefe432c871b57246bf4b22a06a]
 
 *Extent: E+W*
 
@@ -386,19 +386,19 @@ Section 38
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 23. Power to require arrested person to account for certain matters[^key-d01eaaefe432c871b57246bf4b22a06a]
+#### 23. Power to require arrested person to account for certain matters[^c-d01eaaefe432c871b57246bf4b22a06a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 24. Extended powers of seizure[^key-d01eaaefe432c871b57246bf4b22a06a]
+#### 24. Extended powers of seizure[^c-d01eaaefe432c871b57246bf4b22a06a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 24A. Persons accompanying investigating officers[^key-d01eaaefe432c871b57246bf4b22a06a]
+#### 24A. Persons accompanying investigating officers[^c-d01eaaefe432c871b57246bf4b22a06a]
 
 **No longer in force.**
 
@@ -408,7 +408,7 @@ Section 38
 
 #### 25. Attendance at police station for fingerprinting
 
-Where a designation applies this paragraph to any person, he shall, in respect of police stations in the relevant police area, have the power of a constable under Schedule 2A to the 1984 Act (fingerprinting and samples: power to require attendance at a police station)[^key-b031b70b93158d65b5c01d373f14b968] to require a person to attend a police station in order to have his fingerprints taken.
+Where a designation applies this paragraph to any person, he shall, in respect of police stations in the relevant police area, have the power of a constable under Schedule 2A to the 1984 Act (fingerprinting and samples: power to require attendance at a police station)[^c-b031b70b93158d65b5c01d373f14b968] to require a person to attend a police station in order to have his fingerprints taken.
 
 #### 26. Non-intimate searches of detained persons
 
@@ -426,7 +426,7 @@ Where a designation applies this paragraph to any person, he shall have the powe
 - (a) to carry out a search or examination at any police station in the relevant police area; and
 - (b) to take a photograph at any such police station of an identifying mark.
 
-#### 27A. Searches of persons answering to live link bail[^key-8d93c905c4ed212b9a9332b82679a49d]
+#### 27A. Searches of persons answering to live link bail[^c-8d93c905c4ed212b9a9332b82679a49d]
 
 (1) Where a designation applies this paragraph to any person, that person has the powers of a constable under section 54B of the 1984 Act (searches of persons answering to live link bail)—
 
@@ -450,7 +450,7 @@ Where a designation applies this paragraph to any person—
 
 #### 30. Warnings about intimate samples
 
-Where a designation applies this paragraph to any person, the requirement by virtue of section 62(5)(c)[^key-566f685aa8e08862bd01ff619d8f9578] of the 1984 Act (intimate samples) that a person must be informed by an officer that a sample taken from him may be the subject of a speculative search shall be capable of being discharged, in the case of a person in a police station in the relevant police area, by his being so informed by the person to whom this paragraph applies.
+Where a designation applies this paragraph to any person, the requirement by virtue of section 62(5)(c)[^c-566f685aa8e08862bd01ff619d8f9578] of the 1984 Act (intimate samples) that a person must be informed by an officer that a sample taken from him may be the subject of a speculative search shall be capable of being discharged, in the case of a person in a police station in the relevant police area, by his being so informed by the person to whom this paragraph applies.
 
 #### 31. Non-intimate samples
 
@@ -462,7 +462,7 @@ Where a designation applies this paragraph to any person—
 
 #### 32. Attendance at police station for the taking of a sample
 
-Where a designation applies this paragraph to any person, he shall, as respects any police station in the relevant police area, have the power of a constable under Schedule 2A to the 1984 Act (fingerprinting and samples: power to require attendance at a police station)[^key-ed4de6f3a2867f01e61e4af7a190a6b2] to require a person to attend a police station in order to have a sample taken.
+Where a designation applies this paragraph to any person, he shall, as respects any police station in the relevant police area, have the power of a constable under Schedule 2A to the 1984 Act (fingerprinting and samples: power to require attendance at a police station)[^c-ed4de6f3a2867f01e61e4af7a190a6b2] to require a person to attend a police station in order to have a sample taken.
 
 #### 33. Photographing persons in police detention
 
@@ -603,22 +603,22 @@ Where a designation applies this paragraph to any person, he is authorised to ca
 - (a) section 55 of the Police and Criminal Evidence Act 1984 of informing a person who is to be subject to an intimate search under that section of the matters of which he is required to be informed in pursuance of subsection (3B) of that section;
 - (b) section 55A of that Act of informing a person who is to be subject to x-ray or ultrasound (as the case may be) under that section of the matters of which he is required to be informed in pursuance of subsection (3) of that section.
 
-### Part 5 — Interpretation of Schedule[^key-ab57c844e990f10570f78882a8050a55]
+### Part 5 — Interpretation of Schedule[^c-ab57c844e990f10570f78882a8050a55]
 
 *Extent: E+W*
 
 **36.** (1) In this Schedule “**the relevant police area**”—
 
-- (a) in relation to a person designated[^c20045961] under section 39[^key-466eb17206f6c9ce01c720145d623da0] by the chief officer of any police force, means the police area for which that force is maintained; [^c20023061]. . .
+- (a) in relation to a person designated[^c20045961] under section 39[^c-466eb17206f6c9ce01c720145d623da0] by the chief officer of any police force, means the police area for which that force is maintained; [^c20023061]. . .
 - (b) [^c20023061]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-0ef32bbe1d36eb56c3ae20835c7444f9][^c20045981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0ef32bbe1d36eb56c3ae20835c7444f9][^c20045981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2A)[^key-0ef32bbe1d36eb56c3ae20835c7444f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-0ef32bbe1d36eb56c3ae20835c7444f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) In Parts 3 and 4 of this Schedule “**a designation**” means a designation under section 39[^key-b6a1967ed294fc3160f3c0fe19957d19].
+(3) In Parts 3 and 4 of this Schedule “**a designation**” means a designation under section 39[^c-b6a1967ed294fc3160f3c0fe19957d19].
 
-(3A)[^key-87453865eb09c79756a2299b4e313e50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-87453865eb09c79756a2299b4e313e50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Expressions used in this Schedule and in the 1984 Act have the same meanings in this Schedule as in that Act.
 
@@ -626,19 +626,19 @@ Where a designation applies this paragraph to any person, he is authorised to ca
 
 [^c19956831]: Modification: Sch. 4 applied (with modifications) (1.7.2004) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [ss. 28(1)(g)(2)](https://www.legislation.gov.uk/ukpga/2003/20/section/28/1/g/2), [120](https://www.legislation.gov.uk/ukpga/2003/20/section/120) (with [s. 72](https://www.legislation.gov.uk/ukpga/2003/20/section/72)); [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(k)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/k)
 
-[^key-ab57c844e990f10570f78882a8050a55]: Textual amendment: Sch. 4 heading substituted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 12 para. 5(2)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/5/2); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))
+[^c-ab57c844e990f10570f78882a8050a55]: Textual amendment: Sch. 4 heading substituted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 12 para. 5(2)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/5/2); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))
 
-[^key-018ab532dfbb30976796ae20dd24886e]: Textual amendment: Sch. 4 Pt. 1 omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 12 para. 5(3)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/5/3); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))
+[^c-018ab532dfbb30976796ae20dd24886e]: Textual amendment: Sch. 4 Pt. 1 omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 12 para. 5(3)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/5/3); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))
 
-[^key-d01eaaefe432c871b57246bf4b22a06a]: Textual amendment: Sch. 4 Pt. 2 omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 12 para. 5(3)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/5/3); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))
+[^c-d01eaaefe432c871b57246bf4b22a06a]: Textual amendment: Sch. 4 Pt. 2 omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 12 para. 5(3)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/5/3); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))
 
-[^key-b031b70b93158d65b5c01d373f14b968]: Textual amendment: Words in Sch. 4 para. 25 substituted (7.3.2011) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [ss. 6(4)(a)](https://www.legislation.gov.uk/ukpga/2010/17/section/6/4/a), [59(1)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/1); [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/414/article/2/e)
+[^c-b031b70b93158d65b5c01d373f14b968]: Textual amendment: Words in Sch. 4 para. 25 substituted (7.3.2011) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [ss. 6(4)(a)](https://www.legislation.gov.uk/ukpga/2010/17/section/6/4/a), [59(1)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/1); [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/414/article/2/e)
 
-[^key-8d93c905c4ed212b9a9332b82679a49d]: Textual amendment: Sch. 4 para. 27A and cross-heading inserted (14.12.2009 for specified purposes, 3.10.2011 for specified purposes, 8.10.2012 in so far as not already in force) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 108(3)](https://www.legislation.gov.uk/ukpga/2009/25/section/108/3), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2009/3253](https://www.legislation.gov.uk/uksi/2009/3253), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2009/3253/article/3/1/c); [S.I. 2011/2148](https://www.legislation.gov.uk/uksi/2011/2148), [art. 2](https://www.legislation.gov.uk/uksi/2011/2148/article/2); [S.I. 2012/2374](https://www.legislation.gov.uk/uksi/2012/2374), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/2374/article/3/c)
+[^c-8d93c905c4ed212b9a9332b82679a49d]: Textual amendment: Sch. 4 para. 27A and cross-heading inserted (14.12.2009 for specified purposes, 3.10.2011 for specified purposes, 8.10.2012 in so far as not already in force) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 108(3)](https://www.legislation.gov.uk/ukpga/2009/25/section/108/3), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2009/3253](https://www.legislation.gov.uk/uksi/2009/3253), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2009/3253/article/3/1/c); [S.I. 2011/2148](https://www.legislation.gov.uk/uksi/2011/2148), [art. 2](https://www.legislation.gov.uk/uksi/2011/2148/article/2); [S.I. 2012/2374](https://www.legislation.gov.uk/uksi/2012/2374), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/2374/article/3/c)
 
-[^key-566f685aa8e08862bd01ff619d8f9578]: Textual amendment: Words in Sch. 4 para. 30 substituted (7.3.2011) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [ss. 4(6)](https://www.legislation.gov.uk/ukpga/2010/17/section/4/6), [59(1)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/1); [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/414/article/2/b)
+[^c-566f685aa8e08862bd01ff619d8f9578]: Textual amendment: Words in Sch. 4 para. 30 substituted (7.3.2011) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [ss. 4(6)](https://www.legislation.gov.uk/ukpga/2010/17/section/4/6), [59(1)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/1); [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/414/article/2/b)
 
-[^key-ed4de6f3a2867f01e61e4af7a190a6b2]: Textual amendment: Words in Sch. 4 para. 32 substituted (7.3.2011) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [ss. 6(4)(b)](https://www.legislation.gov.uk/ukpga/2010/17/section/6/4/b), [59(1)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/1); [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/414/article/2/e)
+[^c-ed4de6f3a2867f01e61e4af7a190a6b2]: Textual amendment: Words in Sch. 4 para. 32 substituted (7.3.2011) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [ss. 6(4)(b)](https://www.legislation.gov.uk/ukpga/2010/17/section/6/4/b), [59(1)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/1); [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/414/article/2/e)
 
 [^c20011881]: Textual amendment: Sch. 4 para. 33A inserted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 122](https://www.legislation.gov.uk/ukpga/2005/15/section/122), [178](https://www.legislation.gov.uk/ukpga/2005/15/section/178), [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/2005/15/schedule/8/paragraph/16); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(q)(r)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/q/r)
 
@@ -670,14 +670,14 @@ Where a designation applies this paragraph to any person, he is authorised to ca
 
 [^c20045961]: Textual amendment: Words in Sch. 4 para. 36(1)(a) substituted (1.12.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 9](https://www.legislation.gov.uk/ukpga/2006/48/section/9), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 5 para. 5(12)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/5/paragraph/5/12); [S.I. 2007/3203](https://www.legislation.gov.uk/uksi/2007/3203), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3203/article/2/c)
 
-[^key-466eb17206f6c9ce01c720145d623da0]: Textual amendment: Words in Sch. 4 para. 36(1)(a) substituted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 12 para. 5(4)(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/5/4/a); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))
+[^c-466eb17206f6c9ce01c720145d623da0]: Textual amendment: Words in Sch. 4 para. 36(1)(a) substituted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 12 para. 5(4)(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/5/4/a); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))
 
 [^c20023061]: Textual amendment: Sch. 4 para. 36(1)(b) and preceding word repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/15/section/59), [174](https://www.legislation.gov.uk/ukpga/2005/15/section/174), [178](https://www.legislation.gov.uk/ukpga/2005/15/section/178), [Sch. 4 para. 190](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/190), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. paras. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10), [12](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/12), [13(oo)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/oo) (subject to [art. 4(2)-(7)](https://www.legislation.gov.uk/uksi/2006/378/article/4/2))
 
-[^key-0ef32bbe1d36eb56c3ae20835c7444f9]: Textual amendment: Sch. 4 para. 36(2)(2A) omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 12 para. 5(4)(b)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/5/4/b); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))
+[^c-0ef32bbe1d36eb56c3ae20835c7444f9]: Textual amendment: Sch. 4 para. 36(2)(2A) omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 12 para. 5(4)(b)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/5/4/b); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))
 
 [^c20045981]: Textual amendment: Sch. 4 para. 36(2)(2A)(3) substituted for Sch. 4 para. 36(2)(3) (1.12.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 9](https://www.legislation.gov.uk/ukpga/2006/48/section/9), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 5 para. 5(13)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/5/paragraph/5/13); [S.I. 2007/3203](https://www.legislation.gov.uk/uksi/2007/3203), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3203/article/2/c)
 
-[^key-b6a1967ed294fc3160f3c0fe19957d19]: Textual amendment: Words in Sch. 4 para. 36(3) substituted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 12 para. 5(4)(c)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/5/4/c); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))
+[^c-b6a1967ed294fc3160f3c0fe19957d19]: Textual amendment: Words in Sch. 4 para. 36(3) substituted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 12 para. 5(4)(c)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/5/4/c); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))
 
-[^key-87453865eb09c79756a2299b4e313e50]: Textual amendment: Sch. 4 para. 36(3A) omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 12 para. 5(4)(d)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/5/4/d); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))
+[^c-87453865eb09c79756a2299b4e313e50]: Textual amendment: Sch. 4 para. 36(3A) omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 12 para. 5(4)(d)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/5/4/d); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))

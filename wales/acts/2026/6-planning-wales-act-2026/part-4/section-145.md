@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 145. Power of planning authority to issue stop notice[^key-48125e86931926b605f84926782616ab]
+## 145. Power of planning authority to issue stop notice[^c-48125e86931926b605f84926782616ab]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48125e86931926b605f84926782616ab]: Commencement: S. 145 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-48125e86931926b605f84926782616ab]: Commencement: S. 145 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

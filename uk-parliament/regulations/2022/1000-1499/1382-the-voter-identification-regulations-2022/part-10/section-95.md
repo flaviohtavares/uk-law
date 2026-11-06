@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Amendment of Schedule 2 (modifications of Acts and statutory instrument)[^key-24ef453491ef90d717632f7646e8feb3]
+## 95. Amendment of Schedule 2 (modifications of Acts and statutory instrument)[^c-24ef453491ef90d717632f7646e8feb3]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ In Schedule 2 (modifications of Acts and statutory instrument), in paragraph 1 (
 
 ## Annotations
 
-[^key-24ef453491ef90d717632f7646e8feb3]: Commencement: Reg. 95 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-24ef453491ef90d717632f7646e8feb3]: Commencement: Reg. 95 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
 
 [^f00068]: Footnote: [S.I. 2017/69](https://www.legislation.gov.uk/uksi/2017/69).

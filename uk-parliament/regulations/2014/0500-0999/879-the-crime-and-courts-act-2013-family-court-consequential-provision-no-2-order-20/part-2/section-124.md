@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**124.**[^key-53689d3f23c224121d5dbba812889e9a] Omit regulation 6.
+**124.**[^c-53689d3f23c224121d5dbba812889e9a] Omit regulation 6.
 
 ## Annotations
 
-[^key-53689d3f23c224121d5dbba812889e9a]: Commencement: Art. 124 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-53689d3f23c224121d5dbba812889e9a]: Commencement: Art. 124 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

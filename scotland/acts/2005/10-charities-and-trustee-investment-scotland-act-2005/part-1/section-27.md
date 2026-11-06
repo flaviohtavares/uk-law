@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Disclosure of information: entitlement under other enactments etc.[^key-51ecfdd3c0513b6eb41680f120b1c3a8]
+## 27. Disclosure of information: entitlement under other enactments etc.[^c-51ecfdd3c0513b6eb41680f120b1c3a8]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Sections 21 to 25 are without prejudice to any entitlement to receive or disclos
 
 ## Annotations
 
-[^key-51ecfdd3c0513b6eb41680f120b1c3a8]: Commencement: S. 27 in force at 24.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(2)](https://www.legislation.gov.uk/ssi/2006/189/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/2)
+[^c-51ecfdd3c0513b6eb41680f120b1c3a8]: Commencement: S. 27 in force at 24.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(2)](https://www.legislation.gov.uk/ssi/2006/189/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/2)

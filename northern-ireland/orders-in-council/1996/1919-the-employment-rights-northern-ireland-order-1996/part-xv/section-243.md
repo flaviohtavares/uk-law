@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 243. Police officers[^key-4759b9b1ecb207c204a3859c578ee604]
+## 243. Police officers[^c-4759b9b1ecb207c204a3859c578ee604]
 
 *Extent: N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4759b9b1ecb207c204a3859c578ee604]: Modification: [Art. 243](https://www.legislation.gov.uk/nisi/1996/1919/article/243) restricted (1.12.2023) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4), [Sch. 1 paras. 15](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/15), [21](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/21) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61)); [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
+[^c-4759b9b1ecb207c204a3859c578ee604]: Modification: [Art. 243](https://www.legislation.gov.uk/nisi/1996/1919/article/243) restricted (1.12.2023) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4), [Sch. 1 paras. 15](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/15), [21](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/21) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61)); [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
 
 [^c17628141]: Textual amendment: [2003 c. 6](https://www.legislation.gov.uk/ukpga/2003/6)
 

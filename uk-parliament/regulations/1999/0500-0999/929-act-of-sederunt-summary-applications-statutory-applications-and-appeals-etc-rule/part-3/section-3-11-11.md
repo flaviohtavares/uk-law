@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.11.11. List of votes objected to and of objections[^key-889d98e72414d041f7647e1657c2158f]
+## 3.11.11. List of votes objected to and of objections[^c-889d98e72414d041f7647e1657c2158f]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-889d98e72414d041f7647e1657c2158f]: Commencement: Rule 3.11.11 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-889d98e72414d041f7647e1657c2158f]: Commencement: Rule 3.11.11 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

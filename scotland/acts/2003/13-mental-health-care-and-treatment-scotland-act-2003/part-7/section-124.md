@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 124. Transfer to other hospital[^key-922c82a0e9b658505b465a316ffb6474]
+## 124. Transfer to other hospital[^c-922c82a0e9b658505b465a316ffb6474]
 
 *Extent: S*
 
-(1) This section applies where the detention of a patient in hospital is authorised by—[^key-3e120b4953ba0ff482d20cbd931163a7]
+(1) This section applies where the detention of a patient in hospital is authorised by—[^c-3e120b4953ba0ff482d20cbd931163a7]
 
 - (a) a compulsory treatment order, or
 - (b) an interim compulsory treatment order.
@@ -73,12 +73,12 @@ the managers of the hospital may transfer the patient as proposed only if subsec
   - (ii) if no such notice was given, the reasons why it was necessary that the patient be transferred urgently; and
 - (d) whether notice was given under subsection (6) or (10)(b) above.
 
-(14) Where the patient is transferred under subsection (2) above, the order in question[^key-efe0a6fabd0cf50bbaeed0dd6b498e5f] shall, for the purposes of this Act (other than sections 125 and 126), be taken to specify the hospital to which the patient is transferred.
+(14) Where the patient is transferred under subsection (2) above, the order in question[^c-efe0a6fabd0cf50bbaeed0dd6b498e5f] shall, for the purposes of this Act (other than sections 125 and 126), be taken to specify the hospital to which the patient is transferred.
 
 ## Annotations
 
-[^key-922c82a0e9b658505b465a316ffb6474]: Commencement: S. 124 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-922c82a0e9b658505b465a316ffb6474]: Commencement: S. 124 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-3e120b4953ba0ff482d20cbd931163a7]: Textual amendment: Words in [s. 124(1)](https://www.legislation.gov.uk/asp/2003/13/section/124/1) substituted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 3(2)(a)](https://www.legislation.gov.uk/asp/2015/9/section/3/2/a), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-3e120b4953ba0ff482d20cbd931163a7]: Textual amendment: Words in [s. 124(1)](https://www.legislation.gov.uk/asp/2003/13/section/124/1) substituted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 3(2)(a)](https://www.legislation.gov.uk/asp/2015/9/section/3/2/a), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-efe0a6fabd0cf50bbaeed0dd6b498e5f]: Textual amendment: Words in [s. 124(14)](https://www.legislation.gov.uk/asp/2003/13/section/124/14) substituted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 3(2)(b)](https://www.legislation.gov.uk/asp/2015/9/section/3/2/b), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-efe0a6fabd0cf50bbaeed0dd6b498e5f]: Textual amendment: Words in [s. 124(14)](https://www.legislation.gov.uk/asp/2003/13/section/124/14) substituted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 3(2)(b)](https://www.legislation.gov.uk/asp/2015/9/section/3/2/b), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)

@@ -46,13 +46,13 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with those sections, he has consulted the Northern Ireland Policing Board, the Chief Constable, the Equality Commission for Northern Ireland and the Police Association for Northern Ireland:
 
-## 1. Citation and commencement[^key-74d46a77a1a0690a80293b29d3794d60]
+## 1. Citation and commencement[^c-74d46a77a1a0690a80293b29d3794d60]
 
 (1) These regulations may be cited as the Police (Testing for Substance Misuse) Regulations (Northern Ireland) 2008.
 
 (2) These regulations shall come into operation on 1st September 2008.
 
-## 2. Police Trainees[^key-2b830da245d5be7a19eba6369cd12b1e]
+## 2. Police Trainees[^c-2b830da245d5be7a19eba6369cd12b1e]
 
 (1) The Police Trainee Regulations (Northern Ireland) 2001[^f00003] shall be amended as follows.
 
@@ -104,7 +104,7 @@ In accordance with those sections, he has consulted the Northern Ireland Policin
 
 .
 
-## 3. Police officers in the Police Service of Northern Ireland[^key-7a31ab8fc82610bdc55de6682cdf30e2]
+## 3. Police officers in the Police Service of Northern Ireland[^c-7a31ab8fc82610bdc55de6682cdf30e2]
 
 (1) The Police Service of Northern Ireland Regulations 2005[^f00005] shall be amended as follows.
 
@@ -143,7 +143,7 @@ In accordance with those sections, he has consulted the Northern Ireland Policin
 >
 > shall face such consequences as are specified in a determination of the Secretary of State.
 
-## 4. Police officers seconded from the Garda Síochána[^key-93d45c9a6b2104f9313e6b3755103682]
+## 4. Police officers seconded from the Garda Síochána[^c-93d45c9a6b2104f9313e6b3755103682]
 
 (1) The Police Service of Northern Ireland (Secondment) (Garda Síochána) Regulations 2004[^f00006] shall be amended as follows.
 
@@ -155,11 +155,11 @@ In accordance with those sections, he has consulted the Northern Ireland Policin
 
 > (2) Regulation 19A of the Police Service of Northern Ireland Regulations 2005 (testing for evidence of drugs and alcohol) shall apply in relation to members seconded from the Garda Síochána.
 
-## 5. Appointment of police reserve trainees[^key-186a30eee4bdd3358f293b29d6ef31d7]
+## 5. Appointment of police reserve trainees[^c-186a30eee4bdd3358f293b29d6ef31d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Police Reserve Trainees[^key-8ef8b7ecb1fdb82ad8bdb365e988f739]
+## 6. Police Reserve Trainees[^c-8ef8b7ecb1fdb82ad8bdb365e988f739]
 
 (1) The Police Reserve Trainee Regulations (Northern Ireland) 2004[^f00007] shall be amended as follows.
 
@@ -188,7 +188,7 @@ In accordance with those sections, he has consulted the Northern Ireland Policin
 > - ; or
 >   - (a) if he is found to have taken a controlled drug under regulation 4A(3)(b), or fails to give a sample as required under regulation 4A(1).
 
-## 7. Police Officers (Part-Time) in the Police Service of Northern Ireland Reserve[^key-7daf7be693693cc8e036eec51965b06d]
+## 7. Police Officers (Part-Time) in the Police Service of Northern Ireland Reserve[^c-7daf7be693693cc8e036eec51965b06d]
 
 (1) The Police Service of Northern Ireland Reserve (Part-Time) Regulations 2004[^f00008] shall be amended as follows.
 
@@ -216,7 +216,7 @@ In accordance with those sections, he has consulted the Northern Ireland Policin
 >
 > (4) A determination under paragraph (1), (2) or (3) may make different provision for different cases and circumstances.
 
-## 8. Police Officers (Full-Time) in the Police Service of Northern Ireland Reserve[^key-68438094c82953b81a624233dfd3bc98]
+## 8. Police Officers (Full-Time) in the Police Service of Northern Ireland Reserve[^c-68438094c82953b81a624233dfd3bc98]
 
 (1) The Royal Ulster Constabulary Reserve (Full-time) (Appointment and Conditions of Service) Regulations 1996[^f00009] shall be amended as follows.
 
@@ -260,32 +260,32 @@ The regulations also require applicants to pass a drug test before being appoint
 
 [^f00002]: Footnote: [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32).
 
-[^key-74d46a77a1a0690a80293b29d3794d60]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/325/regulation/1) in operation at 1.9.2008, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2)
+[^c-74d46a77a1a0690a80293b29d3794d60]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/325/regulation/1) in operation at 1.9.2008, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2)
 
-[^key-2b830da245d5be7a19eba6369cd12b1e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/325/regulation/2) in operation at 1.9.2008, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2)
+[^c-2b830da245d5be7a19eba6369cd12b1e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/325/regulation/2) in operation at 1.9.2008, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2)
 
 [^f00003]: Footnote: [S.R. 2001 No. 369](https://www.legislation.gov.uk/nisr/2001/369), as amended by [S.R. 2003 No. 436](https://www.legislation.gov.uk/nisr/2003/436) and [S.R. 2008 No. 314](https://www.legislation.gov.uk/nisr/2008/314).
 
 [^f00004]: Footnote: [1971 c. 38](https://www.legislation.gov.uk/ukpga/1971/38).
 
-[^key-7a31ab8fc82610bdc55de6682cdf30e2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/325/regulation/3) in operation at 1.9.2008, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2)
+[^c-7a31ab8fc82610bdc55de6682cdf30e2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/325/regulation/3) in operation at 1.9.2008, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2)
 
 [^f00005]: Footnote: [S.R. 2005 No. 547](https://www.legislation.gov.uk/nisr/2005/547).
 
-[^key-93d45c9a6b2104f9313e6b3755103682]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/325/regulation/4) in operation at 1.9.2008, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2)
+[^c-93d45c9a6b2104f9313e6b3755103682]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/325/regulation/4) in operation at 1.9.2008, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2)
 
 [^f00006]: Footnote: [S.R. 2004 No. 122](https://www.legislation.gov.uk/nisr/2004/122).
 
-[^key-186a30eee4bdd3358f293b29d6ef31d7]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2008/325/regulation/5) revoked (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [5(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/5/2)
+[^c-186a30eee4bdd3358f293b29d6ef31d7]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2008/325/regulation/5) revoked (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [5(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/5/2)
 
-[^key-8ef8b7ecb1fdb82ad8bdb365e988f739]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2008/325/regulation/6) in operation at 1.9.2008, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2)
+[^c-8ef8b7ecb1fdb82ad8bdb365e988f739]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2008/325/regulation/6) in operation at 1.9.2008, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2)
 
 [^f00007]: Footnote: [S.R. 2004 No. 2](https://www.legislation.gov.uk/nisr/2004/2).
 
-[^key-7daf7be693693cc8e036eec51965b06d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2008/325/regulation/7) in operation at 1.9.2008, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2)
+[^c-7daf7be693693cc8e036eec51965b06d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2008/325/regulation/7) in operation at 1.9.2008, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2)
 
 [^f00008]: Footnote: [S.R. 2004 No. 3](https://www.legislation.gov.uk/nisr/2004/3).
 
-[^key-68438094c82953b81a624233dfd3bc98]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2008/325/regulation/8) in operation at 1.9.2008, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2)
+[^c-68438094c82953b81a624233dfd3bc98]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2008/325/regulation/8) in operation at 1.9.2008, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2)
 
 [^f00009]: Footnote: [S.R. 1996 No. 564](https://www.legislation.gov.uk/nisr/1996/564).

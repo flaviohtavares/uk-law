@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 94. Improvement of land out of moneys provided by Parliament[^key-ce08f71603e729ab17722a1e9f80a94a]
+## 94. Improvement of land out of moneys provided by Parliament[^c-ce08f71603e729ab17722a1e9f80a94a]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce08f71603e729ab17722a1e9f80a94a]: Commencement: Reg. 94 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-ce08f71603e729ab17722a1e9f80a94a]: Commencement: Reg. 94 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

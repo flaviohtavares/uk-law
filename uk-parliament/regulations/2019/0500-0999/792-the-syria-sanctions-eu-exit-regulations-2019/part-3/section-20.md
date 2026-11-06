@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Insurance and reinsurance services[^key-f89f4e0a40e536a34748b8718056e48c]
+## 20. Insurance and reinsurance services[^c-f89f4e0a40e536a34748b8718056e48c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f89f4e0a40e536a34748b8718056e48c]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2019/792/regulation/20) omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [24(d)](https://www.legislation.gov.uk/uksi/2025/507/regulation/24/d)
+[^c-f89f4e0a40e536a34748b8718056e48c]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2019/792/regulation/20) omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [24(d)](https://www.legislation.gov.uk/uksi/2025/507/regulation/24/d)

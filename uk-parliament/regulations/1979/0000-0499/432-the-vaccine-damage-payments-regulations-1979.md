@@ -54,8 +54,8 @@ The Secretary of State for Social Services in exercise of powers conferred on hi
 - “**hearing**” means oral hearing;
 - “**medical practitioner**” means registered medical practitioner;
 - “**payment**” means a payment under section 1(1) of the Act;
-- [^key-9b01ad8c98abb8dfbac793cd637425f8]...
-- [^key-9b01ad8c98abb8dfbac793cd637425f8]...
+- [^c-9b01ad8c98abb8dfbac793cd637425f8]...
+- [^c-9b01ad8c98abb8dfbac793cd637425f8]...
 
 (3) Any notice required to be given to any person under the provisions of these regulations may be given by being sent by post to that person at his ordinary or last known address.
 
@@ -73,7 +73,7 @@ Every person who makes a claim shall furnish such certificates, documents, infor
 
 ### 4. Obligations of disabled person
 
-(1) Subject to the following provisions of this regulation, every disabled person in respect of whom a claim has been made under section 3 of the Act shall comply with every notice given to him or, where he is not the claimant, to the claimant by the Secretary of State which requires such disabled person to submit himself to a medical examination either by a medical practitioner appointed by the Secretary of State or by an appeal tribunal[^key-a95df2a966b1f6ad06ecbdb8987bdce0] for the purpose of determining whether he is severely disabled as a result of vaccination against any of the diseases to which the Act applies.
+(1) Subject to the following provisions of this regulation, every disabled person in respect of whom a claim has been made under section 3 of the Act shall comply with every notice given to him or, where he is not the claimant, to the claimant by the Secretary of State which requires such disabled person to submit himself to a medical examination either by a medical practitioner appointed by the Secretary of State or by an appeal tribunal[^c-a95df2a966b1f6ad06ecbdb8987bdce0] for the purpose of determining whether he is severely disabled as a result of vaccination against any of the diseases to which the Act applies.
 
 (2) Every notice given under the preceding paragraph shall be given in writing and shall specify the time and place of examination and shall not require the disabled person to submit himself to examination before the expiration of the period of fourteen days beginning with the date of the notice or such shorter period as may be reasonable in the circumstances.
 
@@ -84,12 +84,12 @@ Every person who makes a claim shall furnish such certificates, documents, infor
 (2) For the purposes of section 2(5) of the Act—
 
 - (a) “**serving members of Her Majesty's forces**” means a member of the naval, military or air forces of the Crown or of any women's service administered by the Defence Council;
-- (b)[^key-5ac89c5352ef5361585127f42c634fd7] a person is a member of the family of a serving member of Her Majesty’s forces if—
+- (b)[^c-5ac89c5352ef5361585127f42c634fd7] a person is a member of the family of a serving member of Her Majesty’s forces if—
   - (i) he is the spouse or civil partner of that serving member,
-  - (ii) he and that serving member live together as if they were a married couple or[^key-8d0d7048e118005faf4a0d971f397c73] civil partners, or
+  - (ii) he and that serving member live together as if they were a married couple or[^c-8d0d7048e118005faf4a0d971f397c73] civil partners, or
   - (iii) he is a child whose requirements are provided by that serving member.
 
-### 5A. Circumstances prescribed in relation to cases of damage through contact[^key-275de96d248332fbf2d402077bd9dcc3]
+### 5A. Circumstances prescribed in relation to cases of damage through contact[^c-275de96d248332fbf2d402077bd9dcc3]
 
 The circumstances prescribed for the purposes of section 1(3) of the Vaccine Damage Payments Act 1979 (Act to have effect with respect to a person severely disabled as a result of contracting a disease through contact with a third person who was vaccinated against it) are that:—
 
@@ -108,27 +108,27 @@ The circumstances prescribed for the purposes of section 1(3) of the Vaccine Dam
 
 (2) Any information and other evidence furnished and other things done before the commencement of the Act in connection with any such claim made before the passing of the Act shall be treated as furnished or done in connection with a claim falling within section 3(1) of the Act.
 
-## PART III — REVIEW BY TRIBUNALS[^key-8dda1252fa4bc2ee846bb3c8715e6394]
+## PART III — REVIEW BY TRIBUNALS[^c-8dda1252fa4bc2ee846bb3c8715e6394]
 
 **No longer in force.**
 
-### 7. Vaccine damage tribunals[^key-8dda1252fa4bc2ee846bb3c8715e6394]
+### 7. Vaccine damage tribunals[^c-8dda1252fa4bc2ee846bb3c8715e6394]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Procedure of vaccine damage tribunals[^key-8dda1252fa4bc2ee846bb3c8715e6394]
+### 8. Procedure of vaccine damage tribunals[^c-8dda1252fa4bc2ee846bb3c8715e6394]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Notice of decision of tribunal[^key-8dda1252fa4bc2ee846bb3c8715e6394]
+### 9. Notice of decision of tribunal[^c-8dda1252fa4bc2ee846bb3c8715e6394]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Non-disclosure of evidence[^key-8dda1252fa4bc2ee846bb3c8715e6394]
+### 10. Non-disclosure of evidence[^c-8dda1252fa4bc2ee846bb3c8715e6394]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART IV — DECISIONS REVERSING EARLIER DECISIONS[^key-9aee0a44ccd1ed3a456a226698d2a12c]
+## PART IV — DECISIONS REVERSING EARLIER DECISIONS[^c-9aee0a44ccd1ed3a456a226698d2a12c]
 
 ### 11. Decisions reversing earlier decisions made by the Secretary of State or appeal tribunals
 
@@ -140,7 +140,7 @@ The circumstances prescribed for the purposes of section 1(3) of the Vaccine Dam
 (2) The circumstances referred to in paragraph (1)(a) above are—
 
 - (a) the application is made in writing and contains an explanation as to why the applicant believes the decision in respect of which the application is made to be wrong; and
-- (b) where the application is in respect of a decision of the Secretary of State, the application is made at any time after notification of that decision was given but before a decision of an appeal tribunal has been made[^key-0af18f9c9cdd19ed01fbb833e41e7b12]; or
+- (b) where the application is in respect of a decision of the Secretary of State, the application is made at any time after notification of that decision was given but before a decision of an appeal tribunal has been made[^c-0af18f9c9cdd19ed01fbb833e41e7b12]; or
 - (c) where the application is in respect of a decision of an appeal tribunal, the application is made before whichever is the later of—
   - (i) the date two years after the date on which notification of that decision was given; or
   - (ii) the date six years after the date on which notification of the decision of the Secretary of State which was appealed was given.
@@ -157,7 +157,7 @@ The circumstances prescribed for the purposes of section 1(3) of the Vaccine Dam
 
 of that decision and the reasons for it.
 
-### 11A. Consideration of reversal before appeal[^key-fc70ca1ca0a5f21a3cb0447553cb613f]
+### 11A. Consideration of reversal before appeal[^c-fc70ca1ca0a5f21a3cb0447553cb613f]
 
 (1) This regulation applies in a case where—
 
@@ -192,20 +192,20 @@ The Regulations also make provision for the appointment by the Secretary of Stat
 
 ## Annotations
 
-[^key-9b01ad8c98abb8dfbac793cd637425f8]: Textual amendment: Words in reg. 1(2) omitted (18.10.1999) by virtue of [The Social Security and Child Support (Decisions and Appeals), Vaccine Damage Payments and Jobseeker’s Allowance (Amendment) Regulations 1999 (S.I. 1999/2677)](https://www.legislation.gov.uk/uksi/1999/2677), [regs. 1](https://www.legislation.gov.uk/uksi/1999/2677/regulation/1), [2](https://www.legislation.gov.uk/uksi/1999/2677/regulation/2)
+[^c-9b01ad8c98abb8dfbac793cd637425f8]: Textual amendment: Words in reg. 1(2) omitted (18.10.1999) by virtue of [The Social Security and Child Support (Decisions and Appeals), Vaccine Damage Payments and Jobseeker’s Allowance (Amendment) Regulations 1999 (S.I. 1999/2677)](https://www.legislation.gov.uk/uksi/1999/2677), [regs. 1](https://www.legislation.gov.uk/uksi/1999/2677/regulation/1), [2](https://www.legislation.gov.uk/uksi/1999/2677/regulation/2)
 
-[^key-a95df2a966b1f6ad06ecbdb8987bdce0]: Textual amendment: Words in reg. 4(1) substituted (18.10.1999) by [The Social Security and Child Support (Decisions and Appeals), Vaccine Damage Payments and Jobseeker’s Allowance (Amendment) Regulations 1999 (S.I. 1999/2677)](https://www.legislation.gov.uk/uksi/1999/2677), [regs. 1](https://www.legislation.gov.uk/uksi/1999/2677/regulation/1), [3](https://www.legislation.gov.uk/uksi/1999/2677/regulation/3)
+[^c-a95df2a966b1f6ad06ecbdb8987bdce0]: Textual amendment: Words in reg. 4(1) substituted (18.10.1999) by [The Social Security and Child Support (Decisions and Appeals), Vaccine Damage Payments and Jobseeker’s Allowance (Amendment) Regulations 1999 (S.I. 1999/2677)](https://www.legislation.gov.uk/uksi/1999/2677), [regs. 1](https://www.legislation.gov.uk/uksi/1999/2677/regulation/1), [3](https://www.legislation.gov.uk/uksi/1999/2677/regulation/3)
 
-[^key-5ac89c5352ef5361585127f42c634fd7]: Textual amendment: Reg. 5(2)(b) substituted (5.12.2005) by [The Vaccine Damage Payments (Amendment) Regulations 2005 (S.I. 2005/3070)](https://www.legislation.gov.uk/uksi/2005/3070), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3070/regulation/1), [2](https://www.legislation.gov.uk/uksi/2005/3070/regulation/2)
+[^c-5ac89c5352ef5361585127f42c634fd7]: Textual amendment: Reg. 5(2)(b) substituted (5.12.2005) by [The Vaccine Damage Payments (Amendment) Regulations 2005 (S.I. 2005/3070)](https://www.legislation.gov.uk/uksi/2005/3070), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3070/regulation/1), [2](https://www.legislation.gov.uk/uksi/2005/3070/regulation/2)
 
-[^key-8d0d7048e118005faf4a0d971f397c73]: Textual amendment: Words in [reg. 5(2)(b)(ii)](https://www.legislation.gov.uk/uksi/1979/432/regulation/5/2/b/ii) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 39](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/39)
+[^c-8d0d7048e118005faf4a0d971f397c73]: Textual amendment: Words in [reg. 5(2)(b)(ii)](https://www.legislation.gov.uk/uksi/1979/432/regulation/5/2/b/ii) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 39](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/39)
 
-[^key-275de96d248332fbf2d402077bd9dcc3]: Textual amendment: Reg. 5A inserted (13.12.1979) by [The Vaccine Damage Payments (Amendment) Regulations 1979 (S.I. 1979/1441)](https://www.legislation.gov.uk/uksi/1979/1441), [regs. 1](https://www.legislation.gov.uk/uksi/1979/1441/regulation/1), [2](https://www.legislation.gov.uk/uksi/1979/1441/regulation/2)
+[^c-275de96d248332fbf2d402077bd9dcc3]: Textual amendment: Reg. 5A inserted (13.12.1979) by [The Vaccine Damage Payments (Amendment) Regulations 1979 (S.I. 1979/1441)](https://www.legislation.gov.uk/uksi/1979/1441), [regs. 1](https://www.legislation.gov.uk/uksi/1979/1441/regulation/1), [2](https://www.legislation.gov.uk/uksi/1979/1441/regulation/2)
 
-[^key-8dda1252fa4bc2ee846bb3c8715e6394]: Textual amendment: Pt. III revoked (5.7.1999 for specified purposes, 6.9.1999 for specified purposes, 5.10.1999 for specified purposes, 18.10.1999 for specified purposes, 29.11.1999 in so far as not already in force) by [The Social Security and Child Support (Decisions and Appeals) Regulations 1999 (S.I. 1999/991)](https://www.legislation.gov.uk/uksi/1999/991), [reg. 59(1)](https://www.legislation.gov.uk/uksi/1999/991/regulation/59/1), [Sch. 4](https://www.legislation.gov.uk/uksi/1999/991/schedule/4) (with [reg. 59(2)](https://www.legislation.gov.uk/uksi/1999/991/regulation/59/2)[(3)](https://www.legislation.gov.uk/uksi/1999/991/regulation/59/3))
+[^c-8dda1252fa4bc2ee846bb3c8715e6394]: Textual amendment: Pt. III revoked (5.7.1999 for specified purposes, 6.9.1999 for specified purposes, 5.10.1999 for specified purposes, 18.10.1999 for specified purposes, 29.11.1999 in so far as not already in force) by [The Social Security and Child Support (Decisions and Appeals) Regulations 1999 (S.I. 1999/991)](https://www.legislation.gov.uk/uksi/1999/991), [reg. 59(1)](https://www.legislation.gov.uk/uksi/1999/991/regulation/59/1), [Sch. 4](https://www.legislation.gov.uk/uksi/1999/991/schedule/4) (with [reg. 59(2)](https://www.legislation.gov.uk/uksi/1999/991/regulation/59/2)[(3)](https://www.legislation.gov.uk/uksi/1999/991/regulation/59/3))
 
-[^key-9aee0a44ccd1ed3a456a226698d2a12c]: Textual amendment: Pt. IV substituted (18.10.1999) by [The Social Security and Child Support (Decisions and Appeals), Vaccine Damage Payments and Jobseeker’s Allowance (Amendment) Regulations 1999 (S.I. 1999/2677)](https://www.legislation.gov.uk/uksi/1999/2677), [regs. 1](https://www.legislation.gov.uk/uksi/1999/2677/regulation/1), [4](https://www.legislation.gov.uk/uksi/1999/2677/regulation/4)
+[^c-9aee0a44ccd1ed3a456a226698d2a12c]: Textual amendment: Pt. IV substituted (18.10.1999) by [The Social Security and Child Support (Decisions and Appeals), Vaccine Damage Payments and Jobseeker’s Allowance (Amendment) Regulations 1999 (S.I. 1999/2677)](https://www.legislation.gov.uk/uksi/1999/2677), [regs. 1](https://www.legislation.gov.uk/uksi/1999/2677/regulation/1), [4](https://www.legislation.gov.uk/uksi/1999/2677/regulation/4)
 
-[^key-0af18f9c9cdd19ed01fbb833e41e7b12]: Textual amendment: Words in reg. 11(2)(b) substituted (28.10.2013) by [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/2/2)
+[^c-0af18f9c9cdd19ed01fbb833e41e7b12]: Textual amendment: Words in reg. 11(2)(b) substituted (28.10.2013) by [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/2/2)
 
-[^key-fc70ca1ca0a5f21a3cb0447553cb613f]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/1979/432/regulation/11A) inserted (28.10.2013) by [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/2/3)
+[^c-fc70ca1ca0a5f21a3cb0447553cb613f]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/1979/432/regulation/11A) inserted (28.10.2013) by [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/2/3)

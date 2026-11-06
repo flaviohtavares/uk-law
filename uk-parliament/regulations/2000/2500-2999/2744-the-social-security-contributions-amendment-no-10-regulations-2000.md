@@ -27,7 +27,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security (Contributions) (Amendment No. 10) Regulations 2000 (revoked)[^key-25f7e89831285005c3c763e46c50a7f7]
+The Social Security (Contributions) (Amendment No. 10) Regulations 2000 (revoked)[^c-25f7e89831285005c3c763e46c50a7f7]
 
 Made
 
@@ -41,64 +41,64 @@ Coming into force
 
 10th October 2000
 
-[^key-25f7e89831285005c3c763e46c50a7f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25f7e89831285005c3c763e46c50a7f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-25f7e89831285005c3c763e46c50a7f7]
+## 1. Citation and commencement[^c-25f7e89831285005c3c763e46c50a7f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Social Security (Contributions) Regulations 1979[^key-25f7e89831285005c3c763e46c50a7f7]
+## 2. Amendments to the Social Security (Contributions) Regulations 1979[^c-25f7e89831285005c3c763e46c50a7f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-25f7e89831285005c3c763e46c50a7f7]
+## 3.[^c-25f7e89831285005c3c763e46c50a7f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-25f7e89831285005c3c763e46c50a7f7]
+## 4.[^c-25f7e89831285005c3c763e46c50a7f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-25f7e89831285005c3c763e46c50a7f7]
+## 5.[^c-25f7e89831285005c3c763e46c50a7f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-25f7e89831285005c3c763e46c50a7f7]
+## 6.[^c-25f7e89831285005c3c763e46c50a7f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-25f7e89831285005c3c763e46c50a7f7]
+## 7.[^c-25f7e89831285005c3c763e46c50a7f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-25f7e89831285005c3c763e46c50a7f7]
+## 8.[^c-25f7e89831285005c3c763e46c50a7f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-25f7e89831285005c3c763e46c50a7f7]
+## 9.[^c-25f7e89831285005c3c763e46c50a7f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-25f7e89831285005c3c763e46c50a7f7]
+## 10.[^c-25f7e89831285005c3c763e46c50a7f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-25f7e89831285005c3c763e46c50a7f7]
+## 11.[^c-25f7e89831285005c3c763e46c50a7f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-25f7e89831285005c3c763e46c50a7f7]
+## 12.[^c-25f7e89831285005c3c763e46c50a7f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-25f7e89831285005c3c763e46c50a7f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25f7e89831285005c3c763e46c50a7f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-25f7e89831285005c3c763e46c50a7f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25f7e89831285005c3c763e46c50a7f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-25f7e89831285005c3c763e46c50a7f7]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2000/2744) revoked (6.4.2001) by [The Social Security (Contributions) Regulations 2001 (S.I. 2001/1004)](https://www.legislation.gov.uk/uksi/2001/1004), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/1/1), [Sch. 8 Pt. I](https://www.legislation.gov.uk/uksi/2001/1004/schedule/8/part/I)
+[^c-25f7e89831285005c3c763e46c50a7f7]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2000/2744) revoked (6.4.2001) by [The Social Security (Contributions) Regulations 2001 (S.I. 2001/1004)](https://www.legislation.gov.uk/uksi/2001/1004), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/1/1), [Sch. 8 Pt. I](https://www.legislation.gov.uk/uksi/2001/1004/schedule/8/part/I)

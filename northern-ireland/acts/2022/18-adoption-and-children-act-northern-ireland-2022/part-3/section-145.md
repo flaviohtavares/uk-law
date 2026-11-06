@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 145. Use of an organisation to establish the register[^key-0e61a329616b78838b2a73da6f2e3836]
+## 145. Use of an organisation to establish the register[^c-0e61a329616b78838b2a73da6f2e3836]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e61a329616b78838b2a73da6f2e3836]: Commencement: S. 145 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-0e61a329616b78838b2a73da6f2e3836]: Commencement: S. 145 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

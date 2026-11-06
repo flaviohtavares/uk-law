@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Type 1 and type 2 teacher training students who are not 2008 cohort students[^key-a4cd5ea0045fcbb818e563ae4309f3f2]
+## 68. Type 1 and type 2 teacher training students who are not 2008 cohort students[^c-a4cd5ea0045fcbb818e563ae4309f3f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4cd5ea0045fcbb818e563ae4309f3f2]: Commencement: Reg. 68 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-a4cd5ea0045fcbb818e563ae4309f3f2]: Commencement: Reg. 68 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

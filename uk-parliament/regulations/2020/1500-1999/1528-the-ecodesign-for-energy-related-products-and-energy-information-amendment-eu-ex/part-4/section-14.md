@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Amendments to Commission Regulation (EU) 2019/424[^key-b95bab2b657119e9c01c5ffa0b615df9]
+## 14. Amendments to Commission Regulation (EU) 2019/424[^c-b95bab2b657119e9c01c5ffa0b615df9]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,6 +77,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b95bab2b657119e9c01c5ffa0b615df9]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
+[^c-b95bab2b657119e9c01c5ffa0b615df9]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
 
 [^f00013]: Footnote: See regulation 2(1) of the 2010 Regulations ([S.I. 2010/2617](https://www.legislation.gov.uk/uksi/2010/2617)) (as amended by [S.I. 2019/539](https://www.legislation.gov.uk/uksi/2019/539)) for the meaning of RAMS. The definitions of “market surveillance” and “market surveillance authority” are set out in Article 2(17) and (18) respectively of RAMS, and are amended by paragraph 3 of Schedule 33 to [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696).

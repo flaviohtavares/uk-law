@@ -31,7 +31,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-The Transportable Pressure Vessels Regulations 2001 (revoked)[^key-e37ed1a8864b7d6de74d63ee0912f906]
+The Transportable Pressure Vessels Regulations 2001 (revoked)[^c-e37ed1a8864b7d6de74d63ee0912f906]
 
 Made
 
@@ -51,11 +51,11 @@ remaining regulations
 
 1st July 2001
 
-[^key-e37ed1a8864b7d6de74d63ee0912f906]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e37ed1a8864b7d6de74d63ee0912f906]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — PRELIMINARY[^key-e37ed1a8864b7d6de74d63ee0912f906]
+### PART I — PRELIMINARY[^c-e37ed1a8864b7d6de74d63ee0912f906]
 
 **No longer in force.**
 
@@ -63,7 +63,7 @@ remaining regulations
 - [Section 2 — Interpretation](part-i/section-2.md)
 - [Section 3 — Application](part-i/section-3.md)
 
-### PART II — GENERAL REQUIREMENTS[^key-e37ed1a8864b7d6de74d63ee0912f906]
+### PART II — GENERAL REQUIREMENTS[^c-e37ed1a8864b7d6de74d63ee0912f906]
 
 **No longer in force.**
 
@@ -76,7 +76,7 @@ remaining regulations
 - [Section 10 — Appointment of notified bodies and approved bodies by the Executive](part-ii/section-10.md)
 - [Section 11 — Conformity marking](part-ii/section-11.md)
 
-### PART III — MISCELLANEOUS[^key-e37ed1a8864b7d6de74d63ee0912f906]
+### PART III — MISCELLANEOUS[^c-e37ed1a8864b7d6de74d63ee0912f906]
 
 **No longer in force.**
 
@@ -97,16 +97,16 @@ remaining regulations
 
 **No longer in force.**
 
-[^key-e37ed1a8864b7d6de74d63ee0912f906]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e37ed1a8864b7d6de74d63ee0912f906]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
 **May not be in force at this date. Check the source.**
 
-[^key-e37ed1a8864b7d6de74d63ee0912f906]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e37ed1a8864b7d6de74d63ee0912f906]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e37ed1a8864b7d6de74d63ee0912f906]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2001/1426) revoked (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 14](https://www.legislation.gov.uk/uksi/2004/568/schedule/14) (with [reg. 63(5)](https://www.legislation.gov.uk/uksi/2004/568/regulation/63/5))
+[^c-e37ed1a8864b7d6de74d63ee0912f906]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2001/1426) revoked (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 14](https://www.legislation.gov.uk/uksi/2004/568/schedule/14) (with [reg. 63(5)](https://www.legislation.gov.uk/uksi/2004/568/regulation/63/5))
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. Revised versions of how the S.I. stood at its first commencement are available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

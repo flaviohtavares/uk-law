@@ -48,13 +48,13 @@ The Secretary of State, in exercise of the powers conferred by section 22(5)(a) 
 
 The Secretary of State has, in accordance with the requirements of section 26(4)(a) that Act, given any local authority affected and any other person affected an opportunity to submit objections or representations with respect to the subject matter of this Order. The Secretary of State has also, in accordance with section 26(4)(b) of the Act, consulted with Natural England, being the advisory body he considered was best able to advise him as to whether this Order should be made.
 
-## 1. Citation, commencement and extent[^key-50e71f82cce1c0a95ea0123b746ce8c8]
+## 1. Citation, commencement and extent[^c-50e71f82cce1c0a95ea0123b746ce8c8]
 
 (1) This Order may be cited as the Wildlife and Countryside Act 1981 (Variation of Schedule 9) (England) (No. 2) Order 2021 and comes into force on 31st May 2021.
 
 (2) This Order extends to England and Wales.
 
-## 2. Variation of Schedule 9[^key-53118ce0349086fff8a7323587803fda]
+## 2. Variation of Schedule 9[^c-53118ce0349086fff8a7323587803fda]
 
 (1) Schedule 9 (animals and plants to which section 14 applies)[^f00002] to the Wildlife and Countryside Act 1981 is varied as follows.
 
@@ -67,7 +67,7 @@ The Secretary of State has, in accordance with the requirements of section 26(4)
 
 .
 
-## 3. Review[^key-2dec62d80ba6e218e083eef9d0614a2e]
+## 3. Review[^c-2dec62d80ba6e218e083eef9d0614a2e]
 
 (1) Before 30th May 2024, the Secretary of State must—
 
@@ -81,7 +81,7 @@ The Secretary of State has, in accordance with the requirements of section 26(4)
 - (b) assess the extent to which those objectives are achieved; and
 - (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved in a less burdensome way.
 
-## 4. Expiry[^key-fa6000b2dc8f4bb8ce6e8ae03e31e069]
+## 4. Expiry[^c-fa6000b2dc8f4bb8ce6e8ae03e31e069]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -107,9 +107,9 @@ An impact assessment has been prepared in relation to this Order and is being va
 
 [^f00001]: Footnote: [1981 c.69](https://www.legislation.gov.uk/ukpga/1981/69); section 22(5)(a) was amended by Infrastructure Act [2015 c. 7](https://www.legislation.gov.uk/ukpga/2015/7), section 25(5).
 
-[^key-50e71f82cce1c0a95ea0123b746ce8c8]: Commencement: Art. 1 in force at 31.5.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/548/article/1/1)
+[^c-50e71f82cce1c0a95ea0123b746ce8c8]: Commencement: Art. 1 in force at 31.5.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/548/article/1/1)
 
-[^key-53118ce0349086fff8a7323587803fda]: Commencement: Art. 2 in force at 31.5.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/548/article/1/1)
+[^c-53118ce0349086fff8a7323587803fda]: Commencement: Art. 2 in force at 31.5.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/548/article/1/1)
 
 [^f00002]: Footnote: Schedule 9 was amended by section 24 of the Infrastructure Act 2015 and by [S.I. 1992/320](https://www.legislation.gov.uk/uksi/1992/320), [2674](https://www.legislation.gov.uk/uksi/1992/2674), [1997/226](https://www.legislation.gov.uk/uksi/1997/226), [1999/1002](https://www.legislation.gov.uk/uksi/1999/1002), [2010/609](https://www.legislation.gov.uk/uksi/2010/609), [2019/527](https://www.legislation.gov.uk/uksi/2019/527), [2021/236](https://www.legislation.gov.uk/uksi/2021/236).
 
@@ -117,6 +117,6 @@ An impact assessment has been prepared in relation to this Order and is being va
 
 [^f00004]: Footnote: These sites are listed on the on the document “A copy of the Register of European sites, which is maintained by the Secretary State in relation to European sites in England by virtue of regulation 17(1)(a) of the Conservation of Habitats and Species Regulations 2017, as at 31st May 2021”, accessible at https://www.gov.uk/government/publications/copy-of-register-of-european-sites-in-england-as-at-31-may-2021. Printed copies of this document can be requested from the offices of the Department for Environment, Food and Rural Affairs at 2 Marsham Street, London, SW1P 4DF.
 
-[^key-2dec62d80ba6e218e083eef9d0614a2e]: Commencement: Art. 3 in force at 31.5.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/548/article/1/1)
+[^c-2dec62d80ba6e218e083eef9d0614a2e]: Commencement: Art. 3 in force at 31.5.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/548/article/1/1)
 
-[^key-fa6000b2dc8f4bb8ce6e8ae03e31e069]: Textual amendment: Art. 4 omitted (31.1.2025) by virtue of [The Wildlife and Countryside Act 1981 (Variation of Schedule 9) (England) (No. 2) (Amendment) Order 2024 (S.I. 2024/1342)](https://www.legislation.gov.uk/uksi/2024/1342), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1342/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/1342/article/2/2)
+[^c-fa6000b2dc8f4bb8ce6e8ae03e31e069]: Textual amendment: Art. 4 omitted (31.1.2025) by virtue of [The Wildlife and Countryside Act 1981 (Variation of Schedule 9) (England) (No. 2) (Amendment) Order 2024 (S.I. 2024/1342)](https://www.legislation.gov.uk/uksi/2024/1342), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1342/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/1342/article/2/2)

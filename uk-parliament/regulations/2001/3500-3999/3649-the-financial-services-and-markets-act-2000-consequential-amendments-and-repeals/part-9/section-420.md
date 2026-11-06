@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 420. Actionable contravention giving rise to loss[^key-14ab1ac35c6c0bf2f5547371a05b5fb3]
+## 420. Actionable contravention giving rise to loss[^c-14ab1ac35c6c0bf2f5547371a05b5fb3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In Schedule 2 to the Firemen’s Pension Scheme Order 1992, in sub-paragraph (1)
 
 ## Annotations
 
-[^key-14ab1ac35c6c0bf2f5547371a05b5fb3]: Commencement: Art. 420 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-14ab1ac35c6c0bf2f5547371a05b5fb3]: Commencement: Art. 420 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00298]: Footnote: Paragraph F6A was inserted by [S.I. 1997/2851](https://www.legislation.gov.uk/uksi/1997/2851), article 2(1), Schedule, paragraph 2.

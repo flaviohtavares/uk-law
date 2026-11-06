@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Power of Commissioners of Customs and Excise to make regulations.[^c1130405][^key-96bcbbee01b5b4b3b8a2b7e008304cc3][^key-d83ec2860eb8a4f7e1912995aa77510f]
+## 90. Power of Commissioners of Customs and Excise to make regulations.[^c1130405][^c-96bcbbee01b5b4b3b8a2b7e008304cc3][^c-d83ec2860eb8a4f7e1912995aa77510f]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (4) Regulations under this section shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(5)[^key-063a614a6462d57fea40ca6d89bef911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-063a614a6462d57fea40ca6d89bef911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -43,8 +43,8 @@ summary: ''
 
     S. 90 applied (with modifications) (14.8.1996) by [S.I. 1996/1908](https://www.legislation.gov.uk/uksi/1996/1908), [reg. 6](https://www.legislation.gov.uk/uksi/1996/1908/regulation/6)
 
-[^key-96bcbbee01b5b4b3b8a2b7e008304cc3]: Modification: [S. 90](https://www.legislation.gov.uk/ukpga/1994/26/section/90) applied (29.4.2006) by [Community Trade Mark Regulations 2006 (S.I. 2006/1027)](https://www.legislation.gov.uk/uksi/2006/1027), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1027/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2006/1027/regulation/7/2)
+[^c-96bcbbee01b5b4b3b8a2b7e008304cc3]: Modification: [S. 90](https://www.legislation.gov.uk/ukpga/1994/26/section/90) applied (29.4.2006) by [Community Trade Mark Regulations 2006 (S.I. 2006/1027)](https://www.legislation.gov.uk/uksi/2006/1027), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1027/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2006/1027/regulation/7/2)
 
-[^key-d83ec2860eb8a4f7e1912995aa77510f]: Modification: [S. 90](https://www.legislation.gov.uk/ukpga/1994/26/section/90) applied by 1995 c. 32, s. 12B(1) (as inserted (with effect in accordance with s. 40(7) of the amending Act) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(2)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/2), [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/14) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5)); [S.I. 2007/1064](https://www.legislation.gov.uk/uksi/2007/1064), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/1064/article/2/c))
+[^c-d83ec2860eb8a4f7e1912995aa77510f]: Modification: [S. 90](https://www.legislation.gov.uk/ukpga/1994/26/section/90) applied by 1995 c. 32, s. 12B(1) (as inserted (with effect in accordance with s. 40(7) of the amending Act) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(2)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/2), [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/14) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5)); [S.I. 2007/1064](https://www.legislation.gov.uk/uksi/2007/1064), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/1064/article/2/c))
 
-[^key-063a614a6462d57fea40ca6d89bef911]: Textual amendment: [S. 90(5)](https://www.legislation.gov.uk/ukpga/1994/26/section/90/5) repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 57](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/57), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)
+[^c-063a614a6462d57fea40ca6d89bef911]: Textual amendment: [S. 90(5)](https://www.legislation.gov.uk/ukpga/1994/26/section/90/5) repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 57](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/57), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)

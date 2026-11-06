@@ -37,16 +37,16 @@ An Act to make provision for postponing the operation of certain enactments rela
 
 ## 1. Restoration of previous law relating to election publications
 
-(1 (Extent: N.I.) (affected by repeal, see note) (affected by repeal, see note))[^key-80360f5ced8c8c2cfebea6dbf54d2c24][^c2010308] Despite the relevant commencement order— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-80360f5ced8c8c2cfebea6dbf54d2c24] *(affected by repeal, see note)*[^c2010308]
+(1 (Extent: N.I.) (affected by repeal, see note) (affected by repeal, see note))[^c-80360f5ced8c8c2cfebea6dbf54d2c24][^c2010308] Despite the relevant commencement order— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-80360f5ced8c8c2cfebea6dbf54d2c24] *(affected by repeal, see note)*[^c2010308]
 
-- (a (Extent: N.I.) (affected by repeal, see note) (affected by repeal, see note))[^key-80360f5ced8c8c2cfebea6dbf54d2c24][^c2010308] section 143 of the Political Parties, Elections and Referendums Act 2000 (c. 41) (details to appear on election material), and *(Extent: N.I.)* *(affected by repeal, see note)*[^key-80360f5ced8c8c2cfebea6dbf54d2c24] *(affected by repeal, see note)*[^c2010308]
-- (b (Extent: N.I.) (affected by repeal, see note) (affected by repeal, see note))[^key-80360f5ced8c8c2cfebea6dbf54d2c24][^c2010308] paragraph 14 of Schedule 18 to that Act (replacement of section 110 of the Representation of the People Act 1983 (c. 2)), *(Extent: N.I.)* *(affected by repeal, see note)*[^key-80360f5ced8c8c2cfebea6dbf54d2c24] *(affected by repeal, see note)*[^c2010308]
+- (a (Extent: N.I.) (affected by repeal, see note) (affected by repeal, see note))[^c-80360f5ced8c8c2cfebea6dbf54d2c24][^c2010308] section 143 of the Political Parties, Elections and Referendums Act 2000 (c. 41) (details to appear on election material), and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-80360f5ced8c8c2cfebea6dbf54d2c24] *(affected by repeal, see note)*[^c2010308]
+- (b (Extent: N.I.) (affected by repeal, see note) (affected by repeal, see note))[^c-80360f5ced8c8c2cfebea6dbf54d2c24][^c2010308] paragraph 14 of Schedule 18 to that Act (replacement of section 110 of the Representation of the People Act 1983 (c. 2)), *(Extent: N.I.)* *(affected by repeal, see note)*[^c-80360f5ced8c8c2cfebea6dbf54d2c24] *(affected by repeal, see note)*[^c2010308]
 
-shall be deemed not to have come into force on the commencement date. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-80360f5ced8c8c2cfebea6dbf54d2c24] *(affected by repeal, see note)*[^c2010308]
+shall be deemed not to have come into force on the commencement date. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-80360f5ced8c8c2cfebea6dbf54d2c24] *(affected by repeal, see note)*[^c2010308]
 
 (2) As a result of subsection (1)(b), section 110 of the 1983 Act (details to appear on candidates’ election material)— *(affected by repeal, see note)*[^c2010308]
 
-- (a (Extent: N.I.) (affected by repeal, see note) (affected by repeal, see note) (affected by repeal, see note))[^key-80360f5ced8c8c2cfebea6dbf54d2c24][^c2010308][^c2010308] shall, as from the passing of this Act, have effect in the form in which it had effect immediately before the commencement date, and *(Extent: N.I.)* *(affected by repeal, see note)*[^key-80360f5ced8c8c2cfebea6dbf54d2c24] *(affected by repeal, see note)*[^c2010308] *(affected by repeal, see note)*[^c2010308]
+- (a (Extent: N.I.) (affected by repeal, see note) (affected by repeal, see note) (affected by repeal, see note))[^c-80360f5ced8c8c2cfebea6dbf54d2c24][^c2010308][^c2010308] shall, as from the passing of this Act, have effect in the form in which it had effect immediately before the commencement date, and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-80360f5ced8c8c2cfebea6dbf54d2c24] *(affected by repeal, see note)*[^c2010308] *(affected by repeal, see note)*[^c2010308]
 - (b) shall be deemed to have had effect in that form at all times on or after the commencement date and before the passing of this Act. *(affected by repeal, see note)*[^c2010308]
 
 (3) Subsection (2) has effect despite any repeal by the 2000 Act of any provision amending section 110 of the 1983 Act. *(affected by repeal, see note)*[^c2010308]
@@ -96,7 +96,7 @@ any provisions of the new section 110 (the “relevant provisions” of that sec
 
 [^c887465]: Modification: Act: functions transferred (25.11.2002) by [S.I. 2002/2626](https://www.legislation.gov.uk/uksi/2002/2626), [art. 11(1) Sch. 1](https://www.legislation.gov.uk/uksi/2002/2626/article/11/1/schedule/1) (with [arts. 12](https://www.legislation.gov.uk/uksi/2002/2626/article/12), [13](https://www.legislation.gov.uk/uksi/2002/2626/article/13))
 
-[^key-80360f5ced8c8c2cfebea6dbf54d2c24]: Textual amendment: S. 1(1)(2)(a) ceases to have effect (N.I.) (11.8.2021) by virtue of [The Political Parties, Elections and Referendums Act 2000 (Commencement No. 4 and Transitional Provisions) Order 2021 (S.I. 2021/890)](https://www.legislation.gov.uk/uksi/2021/890), [art. 2(2)](https://www.legislation.gov.uk/uksi/2021/890/article/2/2) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2021/890/article/2/3))
+[^c-80360f5ced8c8c2cfebea6dbf54d2c24]: Textual amendment: S. 1(1)(2)(a) ceases to have effect (N.I.) (11.8.2021) by virtue of [The Political Parties, Elections and Referendums Act 2000 (Commencement No. 4 and Transitional Provisions) Order 2021 (S.I. 2021/890)](https://www.legislation.gov.uk/uksi/2021/890), [art. 2(2)](https://www.legislation.gov.uk/uksi/2021/890/article/2/2) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2021/890/article/2/3))
 
 [^c2010308]: Textual amendment: S. 1(1)(2)(a) ceases to have effect (E.W.S.) (1.1.2007) by virtue of [The Political Parties, Elections and Referendums Act 2000 (Commencement No. 3 and Transitional Provisions) Order 2006 (S.I. 2006/3416)](https://www.legislation.gov.uk/uksi/2006/3416), [art. 4](https://www.legislation.gov.uk/uksi/2006/3416/article/4) (with [art. 5](https://www.legislation.gov.uk/uksi/2006/3416/article/5))
 

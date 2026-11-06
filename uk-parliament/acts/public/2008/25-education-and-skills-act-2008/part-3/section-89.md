@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Use of information[^key-319c30f4bba3938cf9560063fb3d8a2d]
+## 89. Use of information[^c-319c30f4bba3938cf9560063fb3d8a2d]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-319c30f4bba3938cf9560063fb3d8a2d]: Commencement: S. 89 in force at 26.1.2009 by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(c)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/c)
+[^c-319c30f4bba3938cf9560063fb3d8a2d]: Commencement: S. 89 in force at 26.1.2009 by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(c)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/c)

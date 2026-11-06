@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 113. Time limits for taking enforcement action[^key-bd78189877bd2ddd8ba3ce4f4ac17e92]
+## 113. Time limits for taking enforcement action[^c-bd78189877bd2ddd8ba3ce4f4ac17e92]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ TABLE 1
 
 ## Annotations
 
-[^key-bd78189877bd2ddd8ba3ce4f4ac17e92]: Commencement: S. 113 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-bd78189877bd2ddd8ba3ce4f4ac17e92]: Commencement: S. 113 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

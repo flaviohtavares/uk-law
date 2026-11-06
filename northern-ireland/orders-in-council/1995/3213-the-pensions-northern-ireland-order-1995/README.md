@@ -26,7 +26,7 @@ summary: ''
 
 1995 No. 3213 (N.I. 22)
 
-The Pensions (Northern Ireland) Order 1995 [^c17247841][^key-6949e4886ba91a817eb2dccffb9479bc]
+The Pensions (Northern Ireland) Order 1995 [^c17247841][^c-6949e4886ba91a817eb2dccffb9479bc]
 
 [^c17247851]13th December 1995 [^c19427841][^c21164651][^c21411221][^c22016231][^c22529251]
 
@@ -380,7 +380,7 @@ The Pensions (Northern Ireland) Order 1995 [^c17247841][^key-6949e4886ba91a817eb
 
 [^c17247841]: Textual amendment: functions transf. by SR 1999/481
 
-[^key-6949e4886ba91a817eb2dccffb9479bc]: Modification: [Order](https://www.legislation.gov.uk/nisi/1995/3213) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 3 paras. 2, 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(2)(e)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/2/e)[(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4))
+[^c-6949e4886ba91a817eb2dccffb9479bc]: Modification: [Order](https://www.legislation.gov.uk/nisi/1995/3213) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 3 paras. 2, 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(2)(e)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/2/e)[(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4))
 
 [^c17247851]: Textual amendment: functions transf. by [2005 NI 1](https://www.legislation.gov.uk/2005/ni1)
 

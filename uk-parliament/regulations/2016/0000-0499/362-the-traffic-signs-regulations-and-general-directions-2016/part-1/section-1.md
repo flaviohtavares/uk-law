@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation, commencement and extent[^key-5a58d93b67b9aca9adea17becb5964e1]
+## 1. Citation, commencement and extent[^c-5a58d93b67b9aca9adea17becb5964e1]
 
 *Extent: E+W+S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5a58d93b67b9aca9adea17becb5964e1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-5a58d93b67b9aca9adea17becb5964e1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
 [^f00011]: Footnote: For provision about the school crossing patrol sign in Scotland, see the School Crossing Patrol Sign (Scotland) Regulations 2008 ([S.S.I. 2008/4](https://www.legislation.gov.uk/ssi/2008/4)).

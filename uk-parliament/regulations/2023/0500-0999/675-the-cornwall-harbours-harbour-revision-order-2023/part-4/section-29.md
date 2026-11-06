@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Power to make byelaws[^key-f32e4e9c19bfa05dcca146893e3cdb55]
+## 29. Power to make byelaws[^c-f32e4e9c19bfa05dcca146893e3cdb55]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f32e4e9c19bfa05dcca146893e3cdb55]: Commencement: Art. 29 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-f32e4e9c19bfa05dcca146893e3cdb55]: Commencement: Art. 29 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

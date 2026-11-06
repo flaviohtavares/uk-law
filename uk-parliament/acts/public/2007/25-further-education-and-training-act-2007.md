@@ -42,15 +42,15 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W*
 
-#### 1. Minimum membership of the Council[^key-2c9111f35927274f053162e914cefb1f]
+#### 1. Minimum membership of the Council[^c-2c9111f35927274f053162e914cefb1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. Regional councils[^key-39df03dad1e509d6c44a2de9c57a4629]
+#### 2. Regional councils[^c-39df03dad1e509d6c44a2de9c57a4629]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Abolition of local councils[^key-24dba0dab2420bdb841edbaa98ece2a4]
+#### 3. Abolition of local councils[^c-24dba0dab2420bdb841edbaa98ece2a4]
 
 (1) The local learning and skills councils established under section 19 of LSA 2000 are abolished.
 
@@ -59,57 +59,57 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (a) sections 19 to 24 of LSA 2000;
 - (b) Schedule 2 to that Act.
 
-#### 4. Strategies for functions of Council[^key-71689bec8aad850b45bdabe30a7ff5da]
+#### 4. Strategies for functions of Council[^c-71689bec8aad850b45bdabe30a7ff5da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Young people's learning committee and adult learning committee[^key-71689bec8aad850b45bdabe30a7ff5da]
+#### 5. Young people's learning committee and adult learning committee[^c-71689bec8aad850b45bdabe30a7ff5da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Functions of the Council
 
-#### 6. Duty in relation to diversity and choice[^key-71689bec8aad850b45bdabe30a7ff5da]
+#### 6. Duty in relation to diversity and choice[^c-71689bec8aad850b45bdabe30a7ff5da]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Consultation by the Council[^key-71689bec8aad850b45bdabe30a7ff5da]
+#### 7. Consultation by the Council[^c-71689bec8aad850b45bdabe30a7ff5da]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Plans for academic years[^key-71689bec8aad850b45bdabe30a7ff5da]
+#### 8. Plans for academic years[^c-71689bec8aad850b45bdabe30a7ff5da]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Powers to form or be involved in certain bodies corporate[^key-71689bec8aad850b45bdabe30a7ff5da]
+#### 9. Powers to form or be involved in certain bodies corporate[^c-71689bec8aad850b45bdabe30a7ff5da]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Directions[^key-71689bec8aad850b45bdabe30a7ff5da]
+#### 10. Directions[^c-71689bec8aad850b45bdabe30a7ff5da]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Provision of services[^key-65553e7f36925c945e3da49323c4356f]
+#### 11. Provision of services[^c-65553e7f36925c945e3da49323c4356f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Assistance with respect to employment and training[^key-65553e7f36925c945e3da49323c4356f][^key-4a53eaed1f7f415fb41ce43a0311d669]
+#### 12. Assistance with respect to employment and training[^c-65553e7f36925c945e3da49323c4356f][^c-4a53eaed1f7f415fb41ce43a0311d669]
 
 *Extent: E+W+S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Assistance with respect to employment and training: Northern Ireland[^key-65553e7f36925c945e3da49323c4356f]
+#### 13. Assistance with respect to employment and training: Northern Ireland[^c-65553e7f36925c945e3da49323c4356f]
 
 *Extent: E+W+N.I.*
 
@@ -121,21 +121,21 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### Further education corporations
 
-#### 14. Incorporation of further education institutions[^key-fb7987fe5f4c3e3499409081cdb4958b]
+#### 14. Incorporation of further education institutions[^c-fb7987fe5f4c3e3499409081cdb4958b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Dissolution of further education corporations[^key-fb7987fe5f4c3e3499409081cdb4958b]
+#### 15. Dissolution of further education corporations[^c-fb7987fe5f4c3e3499409081cdb4958b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Publication of proposals[^key-fb7987fe5f4c3e3499409081cdb4958b]
+#### 16. Publication of proposals[^c-fb7987fe5f4c3e3499409081cdb4958b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Intervention in further education institutions
 
-#### 17. Intervention: England[^key-2b42319e4e11b158b4a9a253f35ebb89][^key-b86c3cef3ac73438c550b653621f7b74]
+#### 17. Intervention: England[^c-2b42319e4e11b158b4a9a253f35ebb89][^c-b86c3cef3ac73438c550b653621f7b74]
 
 Before section 57 of FHEA 1992, insert—
 
@@ -231,27 +231,27 @@ Before section 57 of FHEA 1992, insert—
 
 #### 18. Intervention: Wales
 
-(1)[^key-d915f2ff570b4d2a78d56b3bb224a060] Section 57 of FHEA 1992 (intervention) is amended as set out in subsections (2) to (4).
+(1)[^c-d915f2ff570b4d2a78d56b3bb224a060] Section 57 of FHEA 1992 (intervention) is amended as set out in subsections (2) to (4).
 
-(2)[^key-d915f2ff570b4d2a78d56b3bb224a060] In subsection (2) (conditions for intervention), for paragraph (d) substitute—
+(2)[^c-d915f2ff570b4d2a78d56b3bb224a060] In subsection (2) (conditions for intervention), for paragraph (d) substitute—
 
 > - (d) they are satisfied that the institution is performing significantly less well than it might in all the circumstances reasonably be expected to perform, or is failing or likely to fail to give an acceptable standard of education or training.
 
-(3)[^key-d915f2ff570b4d2a78d56b3bb224a060] After subsection (5) insert—
+(3)[^c-d915f2ff570b4d2a78d56b3bb224a060] After subsection (5) insert—
 
 > (5A) The directions that may be given to a governing body under this section include a direction requiring a governing body to make collaboration arrangements (within the meaning of section 166 of the Education and Inspections Act 2006) with such bodies and on such terms as may be specified in the direction.
 
-(4)[^key-d915f2ff570b4d2a78d56b3bb224a060] After subsection (6) insert—
+(4)[^c-d915f2ff570b4d2a78d56b3bb224a060] After subsection (6) insert—
 
 > (6A) The Welsh Ministers may not direct a governing body under subsection (5)(c) to dismiss a member of staff.
 >
 > (6B) But subsection (6A) does not prevent the Welsh Ministers, where they consider that it may be appropriate to dismiss a member of staff whom the governing body have power under their institution's articles of government to dismiss, from giving the governing body such directions under this section as are necessary to secure that the procedures applicable to the consideration of the case for dismissal of that member of staff are given effect to in relation to that member of staff.
 
-(5)[^key-a2a9f48c753a5abb3b63cf42db9680c1][^key-7487bc71bd99cfa4537c27fa89505a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-a2a9f48c753a5abb3b63cf42db9680c1][^c-7487bc71bd99cfa4537c27fa89505a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Foundation degrees
 
-#### 19. Power to award foundation degrees[^key-d469fd531c8dfe348b26004ff1d4b395]
+#### 19. Power to award foundation degrees[^c-d469fd531c8dfe348b26004ff1d4b395]
 
 (1) Section 76 of FHEA 1992 (power to award degrees etc) is amended as follows.
 
@@ -300,7 +300,7 @@ Before section 57 of FHEA 1992, insert—
 
 > (6A) An order under subsection (1) above specifying an institution as competent to grant in pursuance of this section only the kind of award mentioned in subsection (2A) above may provide that the institution is not to grant such an award to a person unless he was enrolled at the institution at the time he completed the course of study for which the award is granted.
 
-#### 20. Report[^key-c10a7338950ae48e936a544cdaf70957]
+#### 20. Report[^c-c10a7338950ae48e936a544cdaf70957]
 
 Within the period of four years beginning with the commencement of section 19, the Secretary of State must lay before Parliament a report about the effect of that section.
 
@@ -317,11 +317,11 @@ Within the period of four years beginning with the commencement of section 19, t
 
 .
 
-(3)[^key-e13a4c24a8056b9da86b0fa5a95d0ad7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e13a4c24a8056b9da86b0fa5a95d0ad7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-e13a4c24a8056b9da86b0fa5a95d0ad7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-e13a4c24a8056b9da86b0fa5a95d0ad7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-e13a4c24a8056b9da86b0fa5a95d0ad7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e13a4c24a8056b9da86b0fa5a95d0ad7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) At the end, insert—
 
@@ -329,11 +329,11 @@ Within the period of four years beginning with the commencement of section 19, t
 
 (7) In relation to the period beginning on 1st April 2001 and ending immediately before the coming into force of this section, the power conferred by section 19(4)(bb) of FHEA 1992 is to be taken to have included power to form, participate in forming or become a member of a company limited by guarantee.
 
-#### 22. Consultation by governing bodies of further education institutions[^key-6e0df776006c1a579398d520c173a337][^key-39b3d5ec5ca8e910fa13898989f55b2c]
+#### 22. Consultation by governing bodies of further education institutions[^c-6e0df776006c1a579398d520c173a337][^c-39b3d5ec5ca8e910fa13898989f55b2c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 23. Qualifications of principals of further education institutions[^key-fb0263af1be5cc9b73a50a0d8164a2de]
+#### 23. Qualifications of principals of further education institutions[^c-fb0263af1be5cc9b73a50a0d8164a2de]
 
 (1) Section 137 of the Education Act 2002 (c. 32) (power of Secretary of State or Welsh Ministers to make regulations requiring principals of further education institutions to have specified qualifications) is amended as follows.
 
@@ -350,7 +350,7 @@ Within the period of four years beginning with the commencement of section 19, t
 
 *Extent: E+W*
 
-### 24. Conditions relating to levy proposals[^key-587caafdcd51e62d8f1f4b4a22feaae8]
+### 24. Conditions relating to levy proposals[^c-587caafdcd51e62d8f1f4b4a22feaae8]
 
 (1) Section 11 of the Industrial Training Act 1982 (c. 10) (levies imposed for industrial training board expenses) is amended as follows.
 
@@ -382,7 +382,7 @@ Within the period of four years beginning with the commencement of section 19, t
 
 (5) In subsection (8) (interpretation) omit the definition of “the relevant organisations”.
 
-### 25. Duration of levy orders[^key-ffc301ec27b09d7487e167ff4f9fdf37]
+### 25. Duration of levy orders[^c-ffc301ec27b09d7487e167ff4f9fdf37]
 
 (1) Section 11 of the Industrial Training Act 1982 (c. 10) is amended as set out in subsections (2) to (5).
 
@@ -533,13 +533,13 @@ Within the period of four years beginning with the commencement of section 19, t
 - (b) to make provision generally or in relation to specific cases;
 - (c) to make such incidental, supplementary, transitional or saving provision as the person making the order or regulations thinks fit.
 
-### 29. Amendments[^key-77917bcef86762e8276272b47040f12d][^key-0717e6ad66e9e3194a87923c09945a7c][^key-cf8315e8f9d957dad3508ba89de906c2][^key-0e97eaffc27222e821feef1171c0482a][^key-055e34d857ad347d6136b628a0d960b4]
+### 29. Amendments[^c-77917bcef86762e8276272b47040f12d][^c-0717e6ad66e9e3194a87923c09945a7c][^c-cf8315e8f9d957dad3508ba89de906c2][^c-0e97eaffc27222e821feef1171c0482a][^c-055e34d857ad347d6136b628a0d960b4]
 
 *Extent: E+W*
 
 Schedule 1 (which contains miscellaneous and consequential amendments) has effect.
 
-### 30. Repeals[^key-47c2bd84ea3e7e017d665b88c06d5171][^key-337b1b0f724650f45380e748ebff1f9e][^key-c58df915e1c73bacc21403a6f43bb173][^key-af356462a47746b76c51028e1f96f3af]
+### 30. Repeals[^c-47c2bd84ea3e7e017d665b88c06d5171][^c-337b1b0f724650f45380e748ebff1f9e][^c-c58df915e1c73bacc21403a6f43bb173][^c-af356462a47746b76c51028e1f96f3af]
 
 *Extent: E+W*
 
@@ -603,9 +603,9 @@ Section 29
 
 ### Industrial Training Act 1982 (c. 10)
 
-**1.**[^key-013202fc3a4b0e15f6fdac1be190db1c] The Industrial Training Act 1982 is amended as follows.
+**1.**[^c-013202fc3a4b0e15f6fdac1be190db1c] The Industrial Training Act 1982 is amended as follows.
 
-**2.**[^key-27d2e1cbb150d30a48d1cb5dc77e1c20] In section 1(2) (definitions)—
+**2.**[^c-27d2e1cbb150d30a48d1cb5dc77e1c20] In section 1(2) (definitions)—
 
 - (a) before the definition of “employee” insert—
 
@@ -619,7 +619,7 @@ Section 29
 
   .
 
-**3.**[^key-f8f76402fe7a0b4d21f2bee7c22213c7] (1) Section 11 (levies imposed for industrial training board expenses) is amended as follows.
+**3.**[^c-f8f76402fe7a0b4d21f2bee7c22213c7] (1) Section 11 (levies imposed for industrial training board expenses) is amended as follows.
 
 (2) In subsection (3)—
 
@@ -647,9 +647,9 @@ Section 29
 - (a) after “unless the amount” insert “ of levy payable in respect of each levy period ”;
 - (b) in paragraph (a), after “the relevant emoluments” insert “ in respect of the base period for that levy period ”.
 
-**4.**[^key-f2f4574683ab74d39bf70d92bda47a28] In section 12 (supplementary provision), in paragraph (a) of subsection (3), for “a period specified in the order” substitute “ a levy period ”.
+**4.**[^c-f2f4574683ab74d39bf70d92bda47a28] In section 12 (supplementary provision), in paragraph (a) of subsection (3), for “a period specified in the order” substitute “ a levy period ”.
 
-**5.**[^key-fe2a4278d423e7ecba2efd063815feb2] (1) In section 13 (proposals for exemption certificates), subsection (2) is amended as follows.
+**5.**[^c-fe2a4278d423e7ecba2efd063815feb2] (1) In section 13 (proposals for exemption certificates), subsection (2) is amended as follows.
 
 (2) In paragraph (b)—
 
@@ -662,13 +662,13 @@ Section 29
 
 ### Further and Higher Education Act 1992 (c. 13)
 
-**6.**[^key-a8cdfcdb2dcc41abd8dd31502063db09][^key-c5361d9d4e4f154534de47c0179e819e] FHEA 1992 is amended as follows.
+**6.**[^c-a8cdfcdb2dcc41abd8dd31502063db09][^c-c5361d9d4e4f154534de47c0179e819e] FHEA 1992 is amended as follows.
 
-**7.**[^key-b4509078679092120d9a8f5b6d8ad04a] In section 19 (supplementary powers of a further education corporation), in subsection (4C), for “the Council” substitute “ the council ”.
+**7.**[^c-b4509078679092120d9a8f5b6d8ad04a] In section 19 (supplementary powers of a further education corporation), in subsection (4C), for “the Council” substitute “ the council ”.
 
-**8.**[^key-6cbf5a18f5dbc4e39c3d98636bad47d3][^key-fd8ba7865177e60bddde92f0b914ac12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-6cbf5a18f5dbc4e39c3d98636bad47d3][^c-fd8ba7865177e60bddde92f0b914ac12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-ec4ba2c55b036f071c6648dca7e2921d] (1) Section 57 (intervention) is amended as follows.
+**9.**[^c-ec4ba2c55b036f071c6648dca7e2921d] (1) Section 57 (intervention) is amended as follows.
 
 (2) In subsection (1), after “an institution” insert “ in Wales ”.
 
@@ -688,23 +688,23 @@ Section 29
 
 (7) In the heading, after “Intervention” insert “ : Wales ”.
 
-**10.**[^key-e33c22a7b143ec6dbd13ea6bb7ef4fab] In section 83 (efficiency studies), in subsection (2), for “a, the” substitute “ the ”.
+**10.**[^c-e33c22a7b143ec6dbd13ea6bb7ef4fab] In section 83 (efficiency studies), in subsection (2), for “a, the” substitute “ the ”.
 
-**11.**[^key-ab2563aea6ef5e45fb3f1d2ced623681] In section 89 (orders, regulations and directions), in subsection (4), for “the Secretary of State” substitute “ the person making the order or regulations ”.
+**11.**[^c-ab2563aea6ef5e45fb3f1d2ced623681] In section 89 (orders, regulations and directions), in subsection (4), for “the Secretary of State” substitute “ the person making the order or regulations ”.
 
 ### Learning and Skills Act 2000 (c. 21)
 
-**12.**[^key-7a86c14d15b51eab1c5ee5191fb70ce6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-7a86c14d15b51eab1c5ee5191fb70ce6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-7a86c14d15b51eab1c5ee5191fb70ce6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-7a86c14d15b51eab1c5ee5191fb70ce6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-7a86c14d15b51eab1c5ee5191fb70ce6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-7a86c14d15b51eab1c5ee5191fb70ce6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-7a86c14d15b51eab1c5ee5191fb70ce6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-7a86c14d15b51eab1c5ee5191fb70ce6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-7a86c14d15b51eab1c5ee5191fb70ce6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-7a86c14d15b51eab1c5ee5191fb70ce6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Repeals[^key-e4d5973f6a4dc88d2a34d87659d23715][^key-658f29c2288b9b92e3df1c059a93553e][^key-3fb2d87cc1bcd9bba8ea18585fddc903][^key-aa5214456a8964edfe3e495074d9a8f4][^key-6df8efe4e2a346e3abf96232698db23a][^key-6c0a328f8f880e044dbb5d9a64f70ea9][^key-844584e2944db35196dd1f78f501676b]
+## SCHEDULE 2 — Repeals[^c-e4d5973f6a4dc88d2a34d87659d23715][^c-658f29c2288b9b92e3df1c059a93553e][^c-3fb2d87cc1bcd9bba8ea18585fddc903][^c-aa5214456a8964edfe3e495074d9a8f4][^c-6df8efe4e2a346e3abf96232698db23a][^c-6c0a328f8f880e044dbb5d9a64f70ea9][^c-844584e2944db35196dd1f78f501676b]
 
 Section 30
 
@@ -719,102 +719,102 @@ Section 30
 
 ## Annotations
 
-[^key-2c9111f35927274f053162e914cefb1f]: Textual amendment: S. 1 repealed (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/2); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 13](https://www.legislation.gov.uk/uksi/2010/303/article/13) [14](https://www.legislation.gov.uk/uksi/2010/303/article/14)) (as amended (30.3.3010) by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), art. 22)
+[^c-2c9111f35927274f053162e914cefb1f]: Textual amendment: S. 1 repealed (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/2); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 13](https://www.legislation.gov.uk/uksi/2010/303/article/13) [14](https://www.legislation.gov.uk/uksi/2010/303/article/14)) (as amended (30.3.3010) by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), art. 22)
 
-[^key-39df03dad1e509d6c44a2de9c57a4629]: Textual amendment: S. 2 repealed (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/2); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 13](https://www.legislation.gov.uk/uksi/2010/303/article/13) [14](https://www.legislation.gov.uk/uksi/2010/303/article/14)) (as amended (30.3.3010) by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), art. 22)
+[^c-39df03dad1e509d6c44a2de9c57a4629]: Textual amendment: S. 2 repealed (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/2); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 13](https://www.legislation.gov.uk/uksi/2010/303/article/13) [14](https://www.legislation.gov.uk/uksi/2010/303/article/14)) (as amended (30.3.3010) by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), art. 22)
 
-[^key-24dba0dab2420bdb841edbaa98ece2a4]: Commencement: S. 3 in force at 21.2.2008 by [S.I. 2008/313](https://www.legislation.gov.uk/uksi/2008/313), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/313/article/2/b)
+[^c-24dba0dab2420bdb841edbaa98ece2a4]: Commencement: S. 3 in force at 21.2.2008 by [S.I. 2008/313](https://www.legislation.gov.uk/uksi/2008/313), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/313/article/2/b)
 
-[^key-71689bec8aad850b45bdabe30a7ff5da]: Textual amendment: Ss. 4-10 repealed (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/2); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 13](https://www.legislation.gov.uk/uksi/2010/303/article/13) [14](https://www.legislation.gov.uk/uksi/2010/303/article/14)) (as amended (30.3.3010) by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), art. 22)
+[^c-71689bec8aad850b45bdabe30a7ff5da]: Textual amendment: Ss. 4-10 repealed (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/2); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 13](https://www.legislation.gov.uk/uksi/2010/303/article/13) [14](https://www.legislation.gov.uk/uksi/2010/303/article/14)) (as amended (30.3.3010) by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), art. 22)
 
-[^key-65553e7f36925c945e3da49323c4356f]: Textual amendment: [Ss. 11-13](https://www.legislation.gov.uk/ukpga/2007/25/section/11) repealed (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 6 para. 61](https://www.legislation.gov.uk/ukpga/2009/22/schedule/6/paragraph/61), [Sch. 16 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/2); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 13](https://www.legislation.gov.uk/uksi/2010/303/article/13) [14](https://www.legislation.gov.uk/uksi/2010/303/article/14)) (as amended (30.3.3010) by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), art. 22)
+[^c-65553e7f36925c945e3da49323c4356f]: Textual amendment: [Ss. 11-13](https://www.legislation.gov.uk/ukpga/2007/25/section/11) repealed (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 6 para. 61](https://www.legislation.gov.uk/ukpga/2009/22/schedule/6/paragraph/61), [Sch. 16 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/2); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 13](https://www.legislation.gov.uk/uksi/2010/303/article/13) [14](https://www.legislation.gov.uk/uksi/2010/303/article/14)) (as amended (30.3.3010) by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), art. 22)
 
-[^key-4a53eaed1f7f415fb41ce43a0311d669]: Commencement: S. 12 in force at 23.12.2007 by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3505/article/2/b)
+[^c-4a53eaed1f7f415fb41ce43a0311d669]: Commencement: S. 12 in force at 23.12.2007 by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3505/article/2/b)
 
-[^key-fb7987fe5f4c3e3499409081cdb4958b]: Textual amendment: [Ss. 14-16](https://www.legislation.gov.uk/ukpga/2007/25/section/14) repealed (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 6 para. 62](https://www.legislation.gov.uk/ukpga/2009/22/schedule/6/paragraph/62), [Sch. 16 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/2); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 13](https://www.legislation.gov.uk/uksi/2010/303/article/13) [14](https://www.legislation.gov.uk/uksi/2010/303/article/14)) (as amended (30.3.3010) by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), art. 22)
+[^c-fb7987fe5f4c3e3499409081cdb4958b]: Textual amendment: [Ss. 14-16](https://www.legislation.gov.uk/ukpga/2007/25/section/14) repealed (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 6 para. 62](https://www.legislation.gov.uk/ukpga/2009/22/schedule/6/paragraph/62), [Sch. 16 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/2); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 13](https://www.legislation.gov.uk/uksi/2010/303/article/13) [14](https://www.legislation.gov.uk/uksi/2010/303/article/14)) (as amended (30.3.3010) by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), art. 22)
 
-[^key-2b42319e4e11b158b4a9a253f35ebb89]: Commencement: S. 17 in force at 23.12.2007 for specified purposes by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3505/article/2/c)
+[^c-2b42319e4e11b158b4a9a253f35ebb89]: Commencement: S. 17 in force at 23.12.2007 for specified purposes by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3505/article/2/c)
 
-[^key-b86c3cef3ac73438c550b653621f7b74]: Commencement: S. 17 in force at 18.4.2008 in so far as not already in force by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 5](https://www.legislation.gov.uk/uksi/2007/3505/article/5)
+[^c-b86c3cef3ac73438c550b653621f7b74]: Commencement: S. 17 in force at 18.4.2008 in so far as not already in force by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 5](https://www.legislation.gov.uk/uksi/2007/3505/article/5)
 
-[^key-d915f2ff570b4d2a78d56b3bb224a060]: Commencement: S. 18(1)-(4) in force at 18.4.2008 by [S.I. 2008/983](https://www.legislation.gov.uk/uksi/2008/983), [art. 2](https://www.legislation.gov.uk/uksi/2008/983/article/2)
+[^c-d915f2ff570b4d2a78d56b3bb224a060]: Commencement: S. 18(1)-(4) in force at 18.4.2008 by [S.I. 2008/983](https://www.legislation.gov.uk/uksi/2008/983), [art. 2](https://www.legislation.gov.uk/uksi/2008/983/article/2)
 
-[^key-a2a9f48c753a5abb3b63cf42db9680c1]: Textual amendment: [S. 18(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/18/5) omitted (1.9.2014) by virtue of [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [s. 11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/anaw/2014/1/schedule/2/paragraph/4/a); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(h)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/h)
+[^c-a2a9f48c753a5abb3b63cf42db9680c1]: Textual amendment: [S. 18(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/18/5) omitted (1.9.2014) by virtue of [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [s. 11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/anaw/2014/1/schedule/2/paragraph/4/a); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(h)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/h)
 
-[^key-7487bc71bd99cfa4537c27fa89505a6d]: Commencement: S. 18(5) in force at 23.12.2007 by [S.I. 2007/3565](https://www.legislation.gov.uk/uksi/2007/3565), [art. 2](https://www.legislation.gov.uk/uksi/2007/3565/article/2)
+[^c-7487bc71bd99cfa4537c27fa89505a6d]: Commencement: S. 18(5) in force at 23.12.2007 by [S.I. 2007/3565](https://www.legislation.gov.uk/uksi/2007/3565), [art. 2](https://www.legislation.gov.uk/uksi/2007/3565/article/2)
 
-[^key-d469fd531c8dfe348b26004ff1d4b395]: Commencement: S. 19 in force at 1.5.2008 by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 6](https://www.legislation.gov.uk/uksi/2007/3505/article/6)
+[^c-d469fd531c8dfe348b26004ff1d4b395]: Commencement: S. 19 in force at 1.5.2008 by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 6](https://www.legislation.gov.uk/uksi/2007/3505/article/6)
 
-[^key-c10a7338950ae48e936a544cdaf70957]: Commencement: S. 20 in force at 1.5.2008 by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 6](https://www.legislation.gov.uk/uksi/2007/3505/article/6)
+[^c-c10a7338950ae48e936a544cdaf70957]: Commencement: S. 20 in force at 1.5.2008 by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 6](https://www.legislation.gov.uk/uksi/2007/3505/article/6)
 
-[^key-e13a4c24a8056b9da86b0fa5a95d0ad7]: Textual amendment: [S. 21(3)-(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/21/3) omitted (1.9.2014) by virtue of [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [s. 11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/anaw/2014/1/schedule/2/paragraph/4/b); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(h)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/h)
+[^c-e13a4c24a8056b9da86b0fa5a95d0ad7]: Textual amendment: [S. 21(3)-(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/21/3) omitted (1.9.2014) by virtue of [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [s. 11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/anaw/2014/1/schedule/2/paragraph/4/b); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(h)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/h)
 
-[^key-6e0df776006c1a579398d520c173a337]: Textual amendment: [S. 22](https://www.legislation.gov.uk/ukpga/2007/25/section/22) omitted (1.9.2014) by virtue of [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [s. 11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2), [Sch. 2 para. 4(c)](https://www.legislation.gov.uk/anaw/2014/1/schedule/2/paragraph/4/c); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(h)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/h)
+[^c-6e0df776006c1a579398d520c173a337]: Textual amendment: [S. 22](https://www.legislation.gov.uk/ukpga/2007/25/section/22) omitted (1.9.2014) by virtue of [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [s. 11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2), [Sch. 2 para. 4(c)](https://www.legislation.gov.uk/anaw/2014/1/schedule/2/paragraph/4/c); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(h)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/h)
 
-[^key-39b3d5ec5ca8e910fa13898989f55b2c]: Commencement: S. 22 in force at 23.12.2007 for E. by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 2(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/2/d)
+[^c-39b3d5ec5ca8e910fa13898989f55b2c]: Commencement: S. 22 in force at 23.12.2007 for E. by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 2(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/2/d)
 
-[^key-fb0263af1be5cc9b73a50a0d8164a2de]: Commencement: S. 23 in force at 23.12.2007 for E. by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 2(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/2/d)
+[^c-fb0263af1be5cc9b73a50a0d8164a2de]: Commencement: S. 23 in force at 23.12.2007 for E. by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 2(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/2/d)
 
-[^key-587caafdcd51e62d8f1f4b4a22feaae8]: Commencement: S. 24 in force at 2.3.2008 by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-587caafdcd51e62d8f1f4b4a22feaae8]: Commencement: S. 24 in force at 2.3.2008 by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-ffc301ec27b09d7487e167ff4f9fdf37]: Commencement: S. 25 in force at 2.3.2008 by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-ffc301ec27b09d7487e167ff4f9fdf37]: Commencement: S. 25 in force at 2.3.2008 by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-77917bcef86762e8276272b47040f12d]: Commencement: S. 29 in force at 23.12.2007 for specified purposes by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 2(e)](https://www.legislation.gov.uk/uksi/2007/3505/article/2/e)
+[^c-77917bcef86762e8276272b47040f12d]: Commencement: S. 29 in force at 23.12.2007 for specified purposes by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 2(e)](https://www.legislation.gov.uk/uksi/2007/3505/article/2/e)
 
-[^key-0717e6ad66e9e3194a87923c09945a7c]: Commencement: S. 29 in force at 31.1.2008 for specified purposes by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3505/article/3/b)
+[^c-0717e6ad66e9e3194a87923c09945a7c]: Commencement: S. 29 in force at 31.1.2008 for specified purposes by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3505/article/3/b)
 
-[^key-cf8315e8f9d957dad3508ba89de906c2]: Commencement: S. 29 in force at 21.2.2008 for specified purposes by [S.I. 2008/313](https://www.legislation.gov.uk/uksi/2008/313), [art. 2(e)](https://www.legislation.gov.uk/uksi/2008/313/article/2/e)
+[^c-cf8315e8f9d957dad3508ba89de906c2]: Commencement: S. 29 in force at 21.2.2008 for specified purposes by [S.I. 2008/313](https://www.legislation.gov.uk/uksi/2008/313), [art. 2(e)](https://www.legislation.gov.uk/uksi/2008/313/article/2/e)
 
-[^key-0e97eaffc27222e821feef1171c0482a]: Commencement: S. 29 in force at 2.3.2008 for specified purposes by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-0e97eaffc27222e821feef1171c0482a]: Commencement: S. 29 in force at 2.3.2008 for specified purposes by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-055e34d857ad347d6136b628a0d960b4]: Commencement: S. 29 in force at 18.4.2008 in so far as not already in force by [S.I. 2008/1065](https://www.legislation.gov.uk/uksi/2008/1065), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/1065/article/2/a)
+[^c-055e34d857ad347d6136b628a0d960b4]: Commencement: S. 29 in force at 18.4.2008 in so far as not already in force by [S.I. 2008/1065](https://www.legislation.gov.uk/uksi/2008/1065), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/1065/article/2/a)
 
-[^key-47c2bd84ea3e7e017d665b88c06d5171]: Commencement: S. 30 in force at 23.12.2007 for specified purposes by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 2(f)](https://www.legislation.gov.uk/uksi/2007/3505/article/2/f)
+[^c-47c2bd84ea3e7e017d665b88c06d5171]: Commencement: S. 30 in force at 23.12.2007 for specified purposes by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 2(f)](https://www.legislation.gov.uk/uksi/2007/3505/article/2/f)
 
-[^key-337b1b0f724650f45380e748ebff1f9e]: Commencement: S. 30 in force at 21.2.2008 for specified purposes by [S.I. 2008/313](https://www.legislation.gov.uk/uksi/2008/313), [art. 2(f)](https://www.legislation.gov.uk/uksi/2008/313/article/2/f)
+[^c-337b1b0f724650f45380e748ebff1f9e]: Commencement: S. 30 in force at 21.2.2008 for specified purposes by [S.I. 2008/313](https://www.legislation.gov.uk/uksi/2008/313), [art. 2(f)](https://www.legislation.gov.uk/uksi/2008/313/article/2/f)
 
-[^key-c58df915e1c73bacc21403a6f43bb173]: Commencement: S. 30 in force at 2.3.2008 for specified purposes by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(c)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/c) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-c58df915e1c73bacc21403a6f43bb173]: Commencement: S. 30 in force at 2.3.2008 for specified purposes by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(c)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/c) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-af356462a47746b76c51028e1f96f3af]: Commencement: S. 30 in force at 18.4.2008 for specified purposes by [S.I. 2008/1065](https://www.legislation.gov.uk/uksi/2008/1065), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/1065/article/2/b)
+[^c-af356462a47746b76c51028e1f96f3af]: Commencement: S. 30 in force at 18.4.2008 for specified purposes by [S.I. 2008/1065](https://www.legislation.gov.uk/uksi/2008/1065), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/1065/article/2/b)
 
-[^key-013202fc3a4b0e15f6fdac1be190db1c]: Commencement: Sch. 1 para. 1 in force at 2.3.2008 by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-013202fc3a4b0e15f6fdac1be190db1c]: Commencement: Sch. 1 para. 1 in force at 2.3.2008 by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-27d2e1cbb150d30a48d1cb5dc77e1c20]: Commencement: Sch. 1 para. 2 in force at 2.3.2008 by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-27d2e1cbb150d30a48d1cb5dc77e1c20]: Commencement: Sch. 1 para. 2 in force at 2.3.2008 by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-f8f76402fe7a0b4d21f2bee7c22213c7]: Commencement: Sch. 1 para. 3 in force at 2.3.2008 by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-f8f76402fe7a0b4d21f2bee7c22213c7]: Commencement: Sch. 1 para. 3 in force at 2.3.2008 by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-f2f4574683ab74d39bf70d92bda47a28]: Commencement: Sch. 1 para. 4 in force at 2.3.2008 by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-f2f4574683ab74d39bf70d92bda47a28]: Commencement: Sch. 1 para. 4 in force at 2.3.2008 by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-fe2a4278d423e7ecba2efd063815feb2]: Commencement: Sch. 1 para. 5 in force at 2.3.2008 by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-fe2a4278d423e7ecba2efd063815feb2]: Commencement: Sch. 1 para. 5 in force at 2.3.2008 by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-a8cdfcdb2dcc41abd8dd31502063db09]: Commencement: Sch. 1 para. 6 in force at 23.12.2007 for specified purposes by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 2(g)](https://www.legislation.gov.uk/uksi/2007/3505/article/2/g)
+[^c-a8cdfcdb2dcc41abd8dd31502063db09]: Commencement: Sch. 1 para. 6 in force at 23.12.2007 for specified purposes by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 2(g)](https://www.legislation.gov.uk/uksi/2007/3505/article/2/g)
 
-[^key-c5361d9d4e4f154534de47c0179e819e]: Commencement: Sch. 1 para. 6 in force at 18.4.2008 in so far as not already in force by [S.I. 2008/1065](https://www.legislation.gov.uk/uksi/2008/1065), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/1065/article/2/c)
+[^c-c5361d9d4e4f154534de47c0179e819e]: Commencement: Sch. 1 para. 6 in force at 18.4.2008 in so far as not already in force by [S.I. 2008/1065](https://www.legislation.gov.uk/uksi/2008/1065), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/1065/article/2/c)
 
-[^key-b4509078679092120d9a8f5b6d8ad04a]: Commencement: Sch. 1 para. 7 in force at 23.12.2007 by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 2(h)](https://www.legislation.gov.uk/uksi/2007/3505/article/2/h)
+[^c-b4509078679092120d9a8f5b6d8ad04a]: Commencement: Sch. 1 para. 7 in force at 23.12.2007 by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 2(h)](https://www.legislation.gov.uk/uksi/2007/3505/article/2/h)
 
-[^key-6cbf5a18f5dbc4e39c3d98636bad47d3]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/8) repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-6cbf5a18f5dbc4e39c3d98636bad47d3]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/8) repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-fd8ba7865177e60bddde92f0b914ac12]: Commencement: Sch. 1 para. 8 in force at 23.12.2007 by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 2(h)](https://www.legislation.gov.uk/uksi/2007/3505/article/2/h)
+[^c-fd8ba7865177e60bddde92f0b914ac12]: Commencement: Sch. 1 para. 8 in force at 23.12.2007 by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 2(h)](https://www.legislation.gov.uk/uksi/2007/3505/article/2/h)
 
-[^key-ec4ba2c55b036f071c6648dca7e2921d]: Commencement: Sch. 1 para. 9 in force at 18.4.2008 by [S.I. 2008/1065](https://www.legislation.gov.uk/uksi/2008/1065), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/1065/article/2/c)
+[^c-ec4ba2c55b036f071c6648dca7e2921d]: Commencement: Sch. 1 para. 9 in force at 18.4.2008 by [S.I. 2008/1065](https://www.legislation.gov.uk/uksi/2008/1065), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/1065/article/2/c)
 
-[^key-e33c22a7b143ec6dbd13ea6bb7ef4fab]: Commencement: Sch. 1 para. 10 in force at 23.12.2007 by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 2(h)](https://www.legislation.gov.uk/uksi/2007/3505/article/2/h)
+[^c-e33c22a7b143ec6dbd13ea6bb7ef4fab]: Commencement: Sch. 1 para. 10 in force at 23.12.2007 by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 2(h)](https://www.legislation.gov.uk/uksi/2007/3505/article/2/h)
 
-[^key-ab2563aea6ef5e45fb3f1d2ced623681]: Commencement: Sch. 1 para. 11 in force at 23.12.2007 by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 2(h)](https://www.legislation.gov.uk/uksi/2007/3505/article/2/h)
+[^c-ab2563aea6ef5e45fb3f1d2ced623681]: Commencement: Sch. 1 para. 11 in force at 23.12.2007 by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 2(h)](https://www.legislation.gov.uk/uksi/2007/3505/article/2/h)
 
-[^key-7a86c14d15b51eab1c5ee5191fb70ce6]: Textual amendment: [Sch. 1 paras. 12-16](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/12) repealed (1.4.2010) by [The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080)](https://www.legislation.gov.uk/uksi/2010/1080), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2/a)[(b)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2/b)[(b)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2/b), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2010/1080/schedule/1/paragraph/72), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2010/1080/schedule/2/part/1) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2010/1080/article/2/3))
+[^c-7a86c14d15b51eab1c5ee5191fb70ce6]: Textual amendment: [Sch. 1 paras. 12-16](https://www.legislation.gov.uk/ukpga/2007/25/schedule/1/paragraph/12) repealed (1.4.2010) by [The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080)](https://www.legislation.gov.uk/uksi/2010/1080), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2/a)[(b)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2/b)[(b)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2/b), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2010/1080/schedule/1/paragraph/72), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2010/1080/schedule/2/part/1) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2010/1080/article/2/3))
 
-[^key-e4d5973f6a4dc88d2a34d87659d23715]: Commencement: Sch. 2 in force at 23.12.2007 for specified purposes by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3505/article/2/i)
+[^c-e4d5973f6a4dc88d2a34d87659d23715]: Commencement: Sch. 2 in force at 23.12.2007 for specified purposes by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3505/article/2/i)
 
-[^key-658f29c2288b9b92e3df1c059a93553e]: Commencement: Sch. 2 in force at 21.2.2008 for specified purposes by [S.I. 2008/313](https://www.legislation.gov.uk/uksi/2008/313), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/313/article/2/i)
+[^c-658f29c2288b9b92e3df1c059a93553e]: Commencement: Sch. 2 in force at 21.2.2008 for specified purposes by [S.I. 2008/313](https://www.legislation.gov.uk/uksi/2008/313), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/313/article/2/i)
 
-[^key-3fb2d87cc1bcd9bba8ea18585fddc903]: Commencement: Sch. 2 in force at 21.2.2008 for specified purposes by [S.I. 2008/313](https://www.legislation.gov.uk/uksi/2008/313), [art. 2(k)](https://www.legislation.gov.uk/uksi/2008/313/article/2/k)
+[^c-3fb2d87cc1bcd9bba8ea18585fddc903]: Commencement: Sch. 2 in force at 21.2.2008 for specified purposes by [S.I. 2008/313](https://www.legislation.gov.uk/uksi/2008/313), [art. 2(k)](https://www.legislation.gov.uk/uksi/2008/313/article/2/k)
 
-[^key-aa5214456a8964edfe3e495074d9a8f4]: Commencement: Sch. 2 in force at 21.2.2008 for specified purposes by [S.I. 2008/313](https://www.legislation.gov.uk/uksi/2008/313), [art. 2(j)](https://www.legislation.gov.uk/uksi/2008/313/article/2/j)
+[^c-aa5214456a8964edfe3e495074d9a8f4]: Commencement: Sch. 2 in force at 21.2.2008 for specified purposes by [S.I. 2008/313](https://www.legislation.gov.uk/uksi/2008/313), [art. 2(j)](https://www.legislation.gov.uk/uksi/2008/313/article/2/j)
 
-[^key-6df8efe4e2a346e3abf96232698db23a]: Commencement: Sch. 2 in force at 2.3.2008 for specified purposes by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(e)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/e) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
+[^c-6df8efe4e2a346e3abf96232698db23a]: Commencement: Sch. 2 in force at 2.3.2008 for specified purposes by [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 4(e)](https://www.legislation.gov.uk/uksi/2007/3505/article/4/e) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/3505/article/7))
 
-[^key-6c0a328f8f880e044dbb5d9a64f70ea9]: Commencement: Sch. 2 in force at 18.4.2008 for specified purposes by [S.I. 2008/1065](https://www.legislation.gov.uk/uksi/2008/1065), [art. 2(e)](https://www.legislation.gov.uk/uksi/2008/1065/article/2/e)
+[^c-6c0a328f8f880e044dbb5d9a64f70ea9]: Commencement: Sch. 2 in force at 18.4.2008 for specified purposes by [S.I. 2008/1065](https://www.legislation.gov.uk/uksi/2008/1065), [art. 2(e)](https://www.legislation.gov.uk/uksi/2008/1065/article/2/e)
 
-[^key-844584e2944db35196dd1f78f501676b]: Commencement: Sch. 2 in force at 18.4.2008 for specified purposes by [S.I. 2008/1065](https://www.legislation.gov.uk/uksi/2008/1065), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1065/article/2/d)
+[^c-844584e2944db35196dd1f78f501676b]: Commencement: Sch. 2 in force at 18.4.2008 for specified purposes by [S.I. 2008/1065](https://www.legislation.gov.uk/uksi/2008/1065), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1065/article/2/d)

@@ -22,7 +22,7 @@ summary: ''
 
 Section 115(2)
 
-### Part 1 — Destruction, retention and use of fingerprints etc.[^key-7d4324a9b039ff05002d96e39bb5ffd9]
+### Part 1 — Destruction, retention and use of fingerprints etc.[^c-7d4324a9b039ff05002d96e39bb5ffd9]
 
 <table>
 <tbody>
@@ -46,7 +46,7 @@ Section 115(2)
 </tbody>
 </table>
 
-### Part 2 — Powers of entry[^key-7249fd770f3d59b218da783cf0dfb05b]
+### Part 2 — Powers of entry[^c-7249fd770f3d59b218da783cf0dfb05b]
 
 <table>
 <tfoot>
@@ -77,7 +77,7 @@ Section 115(2)
 </tbody>
 </table>
 
-### Part 3 — Vehicles left on land[^key-cc87ee1a4f4e45b54389e2b206ad45f3]
+### Part 3 — Vehicles left on land[^c-cc87ee1a4f4e45b54389e2b206ad45f3]
 
 *Extent: E+W*
 
@@ -103,7 +103,7 @@ Section 115(2)
 </tbody>
 </table>
 
-### Part 4 — Counter-terrorism powers[^key-fd787c104f286e290d9234652b27b678]
+### Part 4 — Counter-terrorism powers[^c-fd787c104f286e290d9234652b27b678]
 
 <table>
 <tbody>
@@ -122,7 +122,7 @@ Section 115(2)
 </tbody>
 </table>
 
-### Part 5 — Safeguarding of vulnerable groups[^M_C_7019afbd-d41a-49b1-e57d-5e9c7e4af001][^key-6c5c611c0400501e48d955a1ae1d580f][^key-76d7d52ca9d3e44f6d829ca174e11709][^key-60c3a00e3ff47351fb3f93012adedba4][^key-3aa3ab7d9c7e4bcdd4e64c5f7fae1bb8][^key-b0b280216ce7069d3d249ef0dac7d7c5][^key-d62ac67df507976375a57a867e541fc1]
+### Part 5 — Safeguarding of vulnerable groups[^M_C_7019afbd-d41a-49b1-e57d-5e9c7e4af001][^c-6c5c611c0400501e48d955a1ae1d580f][^c-76d7d52ca9d3e44f6d829ca174e11709][^c-60c3a00e3ff47351fb3f93012adedba4][^c-3aa3ab7d9c7e4bcdd4e64c5f7fae1bb8][^c-b0b280216ce7069d3d249ef0dac7d7c5][^c-d62ac67df507976375a57a867e541fc1]
 
 *Extent: E+W+N.I.*
 
@@ -235,7 +235,7 @@ Section 115(2)
 </tbody>
 </table>
 
-### Part 6 — Criminal records[^M_C_d4625478-d337-47e4-b25e-bb2248b8ebcc][^key-91add37040450d8effdc2af6ad25853b][^key-d553f9d59a4833ff0a6cf829ad11ec40][^key-8dd30c5c157056c43f532e6e83ab1a77][^key-c5ded94ebe612497dc16c0087ad39733]
+### Part 6 — Criminal records[^M_C_d4625478-d337-47e4-b25e-bb2248b8ebcc][^c-91add37040450d8effdc2af6ad25853b][^c-d553f9d59a4833ff0a6cf829ad11ec40][^c-8dd30c5c157056c43f532e6e83ab1a77][^c-c5ded94ebe612497dc16c0087ad39733]
 
 *Extent: E+W*
 
@@ -254,7 +254,7 @@ Section 115(2)
 </tbody>
 </table>
 
-### Part 7 — Freedom of information[^key-4c9c6d74d72ffb844e3fb58336c400d0]
+### Part 7 — Freedom of information[^c-4c9c6d74d72ffb844e3fb58336c400d0]
 
 <table>
 <tbody>
@@ -265,7 +265,7 @@ Section 115(2)
 </tbody>
 </table>
 
-### Part 8 — The Information Commissioner[^key-45129c00350d399612bc23126bcafad3]
+### Part 8 — The Information Commissioner[^c-45129c00350d399612bc23126bcafad3]
 
 <table>
 <tbody>
@@ -278,7 +278,7 @@ Section 115(2)
 </tbody>
 </table>
 
-### Part 9 — Trafficking people for exploitation[^key-1e8c2ced766fa555aaf8cf5c60eae51e]
+### Part 9 — Trafficking people for exploitation[^c-1e8c2ced766fa555aaf8cf5c60eae51e]
 
 *Extent: E+W*
 
@@ -325,40 +325,40 @@ Section 115(2)
 
 ## Annotations
 
-[^key-7d4324a9b039ff05002d96e39bb5ffd9]: Commencement: [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/1) in force at 31.10.2013 by [S.I. 2013/2104](https://www.legislation.gov.uk/uksi/2013/2104), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2104/article/3/d)
+[^c-7d4324a9b039ff05002d96e39bb5ffd9]: Commencement: [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/1) in force at 31.10.2013 by [S.I. 2013/2104](https://www.legislation.gov.uk/uksi/2013/2104), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2104/article/3/d)
 
-[^key-7249fd770f3d59b218da783cf0dfb05b]: Commencement: [Sch. 10 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/2) in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(bb)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/bb)
+[^c-7249fd770f3d59b218da783cf0dfb05b]: Commencement: [Sch. 10 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/2) in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(bb)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/bb)
 
-[^key-cc87ee1a4f4e45b54389e2b206ad45f3]: Commencement: [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/3) in force at 1.10.2012 by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(h)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/h)
+[^c-cc87ee1a4f4e45b54389e2b206ad45f3]: Commencement: [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/3) in force at 1.10.2012 by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(h)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/h)
 
-[^key-fd787c104f286e290d9234652b27b678]: Commencement: [Sch. 10 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/4) in force at 10.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(l)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/l)
+[^c-fd787c104f286e290d9234652b27b678]: Commencement: [Sch. 10 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/4) in force at 10.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(l)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/l)
 
 [^M_C_7019afbd-d41a-49b1-e57d-5e9c7e4af001]: Modification: Sch. 10 Pt. 5 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(2)(3) of the amending S.I.) by [The Police Act 1997 (Criminal Records) (Guernsey) (Amendment) Order 2012 (S.I. 2012/1762)](https://www.legislation.gov.uk/uksi/2012/1762), [art. 4(5)](https://www.legislation.gov.uk/uksi/2012/1762/article/4/5), [Sch. 4](https://www.legislation.gov.uk/uksi/2012/1762/schedule/4)
 
-[^key-6c5c611c0400501e48d955a1ae1d580f]: Commencement: Sch. 10 Pt. 5 in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) for specified purposes by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
+[^c-6c5c611c0400501e48d955a1ae1d580f]: Commencement: Sch. 10 Pt. 5 in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) for specified purposes by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
 
-[^key-76d7d52ca9d3e44f6d829ca174e11709]: Modification: Sch. 10 Pt. 5 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(2)(3) of the amending S.I.) by [The Police Act 1997 (Criminal Records) (Jersey) (Amendment) Order 2012 (S.I. 2012/2591)](https://www.legislation.gov.uk/uksi/2012/2591), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2591/article/1/2)[(3),](https://www.legislation.gov.uk/uksi/2012/2591/article/1/3) [4(1)](https://www.legislation.gov.uk/uksi/2012/2591/article/4/1)[(5)](https://www.legislation.gov.uk/uksi/2012/2591/article/4/5), [Sch. 4](https://www.legislation.gov.uk/uksi/2012/2591/schedule/4) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2591/article/5)) (as amended (coming into force in accordance with art. 1(1) of the amending S.I.) by [S.I. 2025/827](https://www.legislation.gov.uk/uksi/2025/827), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/827/article/1/1), [3](https://www.legislation.gov.uk/uksi/2025/827/article/3) and (coming into force in accordance with art. 1(1) of the amending S.I.) by [S.I. 2025/825](https://www.legislation.gov.uk/uksi/2025/825), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/825/article/1/1), [3](https://www.legislation.gov.uk/uksi/2025/825/article/3))
+[^c-76d7d52ca9d3e44f6d829ca174e11709]: Modification: Sch. 10 Pt. 5 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(2)(3) of the amending S.I.) by [The Police Act 1997 (Criminal Records) (Jersey) (Amendment) Order 2012 (S.I. 2012/2591)](https://www.legislation.gov.uk/uksi/2012/2591), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2591/article/1/2)[(3),](https://www.legislation.gov.uk/uksi/2012/2591/article/1/3) [4(1)](https://www.legislation.gov.uk/uksi/2012/2591/article/4/1)[(5)](https://www.legislation.gov.uk/uksi/2012/2591/article/4/5), [Sch. 4](https://www.legislation.gov.uk/uksi/2012/2591/schedule/4) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2591/article/5)) (as amended (coming into force in accordance with art. 1(1) of the amending S.I.) by [S.I. 2025/827](https://www.legislation.gov.uk/uksi/2025/827), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/827/article/1/1), [3](https://www.legislation.gov.uk/uksi/2025/827/article/3) and (coming into force in accordance with art. 1(1) of the amending S.I.) by [S.I. 2025/825](https://www.legislation.gov.uk/uksi/2025/825), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/825/article/1/1), [3](https://www.legislation.gov.uk/uksi/2025/825/article/3))
 
-[^key-60c3a00e3ff47351fb3f93012adedba4]: Modification: Sch. 10 Pt. 5 extended (Isle of Man) (with modifications) (with effect in accordance with art. 1(3)(4) of the amending S.I.) by [The Police Act 1997 (Criminal Records) (Isle of Man) (Amendment) Order 2012 (S.I. 2012/2598)](https://www.legislation.gov.uk/uksi/2012/2598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2012/2598/article/4/4), [Sch. 4](https://www.legislation.gov.uk/uksi/2012/2598/schedule/4) (as amended (10.7.2025) by [S.I. 2025/824](https://www.legislation.gov.uk/uksi/2025/824), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/824/article/1/1), [3](https://www.legislation.gov.uk/uksi/2025/824/article/3))
+[^c-60c3a00e3ff47351fb3f93012adedba4]: Modification: Sch. 10 Pt. 5 extended (Isle of Man) (with modifications) (with effect in accordance with art. 1(3)(4) of the amending S.I.) by [The Police Act 1997 (Criminal Records) (Isle of Man) (Amendment) Order 2012 (S.I. 2012/2598)](https://www.legislation.gov.uk/uksi/2012/2598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2012/2598/article/4/4), [Sch. 4](https://www.legislation.gov.uk/uksi/2012/2598/schedule/4) (as amended (10.7.2025) by [S.I. 2025/824](https://www.legislation.gov.uk/uksi/2025/824), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/824/article/1/1), [3](https://www.legislation.gov.uk/uksi/2025/824/article/3))
 
-[^key-3aa3ab7d9c7e4bcdd4e64c5f7fae1bb8]: Modification: Sch. 10 Pt. 5 extended in part (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Safeguarding Vulnerable Groups Act 2006 (Guernsey) Order 2025 (S.I. 2025/827)](https://www.legislation.gov.uk/uksi/2025/827), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/827/article/1/1), [2](https://www.legislation.gov.uk/uksi/2025/827/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/827/schedule)
+[^c-3aa3ab7d9c7e4bcdd4e64c5f7fae1bb8]: Modification: Sch. 10 Pt. 5 extended in part (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Safeguarding Vulnerable Groups Act 2006 (Guernsey) Order 2025 (S.I. 2025/827)](https://www.legislation.gov.uk/uksi/2025/827), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/827/article/1/1), [2](https://www.legislation.gov.uk/uksi/2025/827/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/827/schedule)
 
-[^key-b0b280216ce7069d3d249ef0dac7d7c5]: Modification: Sch. 10 Pt. 5 extended in part (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Safeguarding Vulnerable Groups Act 2006 (Jersey) Order 2025 (S.I. 2025/825)](https://www.legislation.gov.uk/uksi/2025/825), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/825/article/1/1), [2](https://www.legislation.gov.uk/uksi/2025/825/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/825/schedule)
+[^c-b0b280216ce7069d3d249ef0dac7d7c5]: Modification: Sch. 10 Pt. 5 extended in part (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Safeguarding Vulnerable Groups Act 2006 (Jersey) Order 2025 (S.I. 2025/825)](https://www.legislation.gov.uk/uksi/2025/825), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/825/article/1/1), [2](https://www.legislation.gov.uk/uksi/2025/825/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/825/schedule)
 
-[^key-d62ac67df507976375a57a867e541fc1]: Modification: Sch. 10 Pt. 5 extended in part (Isle of Man) (with modifications) (10.7.2025) by [The Safeguarding Vulnerable Groups Act 2006 (Isle of Man) Order 2025 (S.I. 2025/824)](https://www.legislation.gov.uk/uksi/2025/824), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/824/article/1/1), [2](https://www.legislation.gov.uk/uksi/2025/824/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/824/schedule)
+[^c-d62ac67df507976375a57a867e541fc1]: Modification: Sch. 10 Pt. 5 extended in part (Isle of Man) (with modifications) (10.7.2025) by [The Safeguarding Vulnerable Groups Act 2006 (Isle of Man) Order 2025 (S.I. 2025/824)](https://www.legislation.gov.uk/uksi/2025/824), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/824/article/1/1), [2](https://www.legislation.gov.uk/uksi/2025/824/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/824/schedule)
 
 [^M_C_d4625478-d337-47e4-b25e-bb2248b8ebcc]: Modification: Sch. 10 Pt. 6 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(2)(3) of the amending S.I.) by [The Police Act 1997 (Criminal Records) (Guernsey) (Amendment) Order 2012 (S.I. 2012/1762)](https://www.legislation.gov.uk/uksi/2012/1762), [art. 4(6)](https://www.legislation.gov.uk/uksi/2012/1762/article/4/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/1762/schedule/5)
 
-[^key-91add37040450d8effdc2af6ad25853b]: Commencement: Sch. 10 Pt. 6 in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) for specified purposes by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(cc)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/cc)
+[^c-91add37040450d8effdc2af6ad25853b]: Commencement: Sch. 10 Pt. 6 in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) for specified purposes by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(cc)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/cc)
 
-[^key-d553f9d59a4833ff0a6cf829ad11ec40]: Modification: Sch. 10 Pt. 6 extended (Jersey) (with modifications) (17.10.2012 coming into force in accordance with art. 1(2)(3)) by [The Police Act 1997 (Criminal Records) (Jersey) (Amendment) Order 2012 (S.I. 2012/2591)](https://www.legislation.gov.uk/uksi/2012/2591), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2591/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2591/article/1/3)[4(1)](https://www.legislation.gov.uk/uksi/2012/2591/article/4/1)[(5)](https://www.legislation.gov.uk/uksi/2012/2591/article/4/5), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/2591/schedule/5) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2591/article/5))
+[^c-d553f9d59a4833ff0a6cf829ad11ec40]: Modification: Sch. 10 Pt. 6 extended (Jersey) (with modifications) (17.10.2012 coming into force in accordance with art. 1(2)(3)) by [The Police Act 1997 (Criminal Records) (Jersey) (Amendment) Order 2012 (S.I. 2012/2591)](https://www.legislation.gov.uk/uksi/2012/2591), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2591/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2591/article/1/3)[4(1)](https://www.legislation.gov.uk/uksi/2012/2591/article/4/1)[(5)](https://www.legislation.gov.uk/uksi/2012/2591/article/4/5), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/2591/schedule/5) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2591/article/5))
 
-[^key-8dd30c5c157056c43f532e6e83ab1a77]: Modification: Sch. 10 Pt. 6 extended (Isle of Man) (with modifications) (with effect in accordance with art. 1(3)(4) of the amending S.I.) by [The Police Act 1997 (Criminal Records) (Isle of Man) (Amendment) Order 2012 (S.I. 2012/2598)](https://www.legislation.gov.uk/uksi/2012/2598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2012/2598/article/4/5), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/2598/schedule/5)
+[^c-8dd30c5c157056c43f532e6e83ab1a77]: Modification: Sch. 10 Pt. 6 extended (Isle of Man) (with modifications) (with effect in accordance with art. 1(3)(4) of the amending S.I.) by [The Police Act 1997 (Criminal Records) (Isle of Man) (Amendment) Order 2012 (S.I. 2012/2598)](https://www.legislation.gov.uk/uksi/2012/2598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2012/2598/article/4/5), [Sch. 5](https://www.legislation.gov.uk/uksi/2012/2598/schedule/5)
 
-[^key-c5ded94ebe612497dc16c0087ad39733]: Commencement: Sch. 10 Pt. 6 in force at 17.6.2013 in so far as not already in force by [S.I. 2013/1180](https://www.legislation.gov.uk/uksi/2013/1180), [art. 2(f)](https://www.legislation.gov.uk/uksi/2013/1180/article/2/f)
+[^c-c5ded94ebe612497dc16c0087ad39733]: Commencement: Sch. 10 Pt. 6 in force at 17.6.2013 in so far as not already in force by [S.I. 2013/1180](https://www.legislation.gov.uk/uksi/2013/1180), [art. 2(f)](https://www.legislation.gov.uk/uksi/2013/1180/article/2/f)
 
-[^key-4c9c6d74d72ffb844e3fb58336c400d0]: Commencement: [Sch. 10 Pt. 7](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/7) in force at 1.7.2012 for specified purposes by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(cc)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/cc)
+[^c-4c9c6d74d72ffb844e3fb58336c400d0]: Commencement: [Sch. 10 Pt. 7](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/7) in force at 1.7.2012 for specified purposes by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(cc)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/cc)
 
-[^key-45129c00350d399612bc23126bcafad3]: Commencement: [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/8) in force at 16.3.2015 for specified purposes by [S.I. 2015/587](https://www.legislation.gov.uk/uksi/2015/587), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/587/article/2/c)
+[^c-45129c00350d399612bc23126bcafad3]: Commencement: [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/8) in force at 16.3.2015 for specified purposes by [S.I. 2015/587](https://www.legislation.gov.uk/uksi/2015/587), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/587/article/2/c)
 
-[^key-1e8c2ced766fa555aaf8cf5c60eae51e]: Commencement: [Sch. 10 Pt. 9](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/9) in force at 6.4.2013 by [S.I. 2013/470](https://www.legislation.gov.uk/uksi/2013/470), [art. 2(f)](https://www.legislation.gov.uk/uksi/2013/470/article/2/f) (with [arts. 3(a)](https://www.legislation.gov.uk/uksi/2013/470/article/3/a), [4-8](https://www.legislation.gov.uk/uksi/2013/470/article/4))
+[^c-1e8c2ced766fa555aaf8cf5c60eae51e]: Commencement: [Sch. 10 Pt. 9](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/9) in force at 6.4.2013 by [S.I. 2013/470](https://www.legislation.gov.uk/uksi/2013/470), [art. 2(f)](https://www.legislation.gov.uk/uksi/2013/470/article/2/f) (with [arts. 3(a)](https://www.legislation.gov.uk/uksi/2013/470/article/3/a), [4-8](https://www.legislation.gov.uk/uksi/2013/470/article/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Powers of inspectors[^key-f8a08c6040a6f4c110eb8061b1292dd6]
+## 14. Powers of inspectors[^c-f8a08c6040a6f4c110eb8061b1292dd6]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8a08c6040a6f4c110eb8061b1292dd6]: Textual amendment: Regulations revoked in part (28.5.2010) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2010 (S.S.I. 2010/177)](https://www.legislation.gov.uk/ssi/2010/177), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/177/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2010/177/schedule/10) (with [reg. 22](https://www.legislation.gov.uk/ssi/2010/177/regulation/22))
+[^c-f8a08c6040a6f4c110eb8061b1292dd6]: Textual amendment: Regulations revoked in part (28.5.2010) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2010 (S.S.I. 2010/177)](https://www.legislation.gov.uk/ssi/2010/177), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/177/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2010/177/schedule/10) (with [reg. 22](https://www.legislation.gov.uk/ssi/2010/177/regulation/22))

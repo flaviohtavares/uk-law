@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. Remediation[^key-9edb466468a28f73106dfc3e4b39f423]
+## 170. Remediation[^c-9edb466468a28f73106dfc3e4b39f423]
 
 *Extent: E+W*
 
@@ -131,4 +131,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9edb466468a28f73106dfc3e4b39f423]: Commencement: [S. 170](https://www.legislation.gov.uk/ukpga/2023/55/section/170) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
+[^c-9edb466468a28f73106dfc3e4b39f423]: Commencement: [S. 170](https://www.legislation.gov.uk/ukpga/2023/55/section/170) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)

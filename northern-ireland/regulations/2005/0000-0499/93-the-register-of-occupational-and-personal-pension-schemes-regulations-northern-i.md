@@ -39,7 +39,7 @@ Coming into operation in accordance with regulation 1(1)
 
 The Department for Social Development, in exercise of the powers conferred on it by Articles 55(2)(h), (3) and (5), 56(1) to (3), 280(1) and 287(2) and (3) of the Pensions (Northern Ireland) Order 2005[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-8dcd050f376ec496fc922604a0c48e36][^key-8dcd050f376ec496fc922604a0c48e36]
+## 1. Citation, commencement and interpretation[^c-8dcd050f376ec496fc922604a0c48e36][^c-8dcd050f376ec496fc922604a0c48e36]
 
 (1) These Regulations may be cited as the Register of Occupational and Personal Pension Schemes Regulations (Northern Ireland) 2005 and shall come into operation as follows –
 
@@ -59,12 +59,12 @@ The Department for Social Development, in exercise of the powers conferred on it
 - “relevant public authority” in relation to a Crown guarantee means –
   - (a) a Minister of the Crown (within the meaning of the Ministers of the Crown Act 1975[^f00003]),
   - (b) a government department (including any body or authority exercising statutory functions on behalf of the Crown);
-- [^key-06d6ead332af8b1e654cdfe2f59d0e5d]...
+- [^c-06d6ead332af8b1e654cdfe2f59d0e5d]...
   - (a)
   - (b)
 - “trust scheme” means an occupational or personal pension scheme which is established under a trust.
 
-## 2. Registrable schemes[^key-1a8e529ee832f726a7b2609a7b559f14][^key-1a8e529ee832f726a7b2609a7b559f14]
+## 2. Registrable schemes[^c-1a8e529ee832f726a7b2609a7b559f14][^c-1a8e529ee832f726a7b2609a7b559f14]
 
 (1) A scheme which is of a description prescribed for the purposes of Article 55(5) of the 2005 Order (register of occupational and personal pension schemes – prescribed description of “registrable schemes”) is a scheme –
 
@@ -75,18 +75,18 @@ The Department for Social Development, in exercise of the powers conferred on it
   - (i) prior to 6th April 2006, has received the approval of the Board of Inland Revenue for the purposes of section 590 or section 591 (other than subsection (2)(g)) of the Income and Corporation Taxes Act 1988[^f00004] (conditions for approval of retirement benefit schemes and discretionary approval), or for the purposes of Chapter IV of Part XIV of that Act (personal pension schemes),
   - (ii) is a public service pension scheme, or
   - (iii) on or after 6th April 2006, is or has been registered in accordance with section 153 of the Finance Act 2004[^f00005] (registration of pension schemes) (or is treated as registered by virtue of Schedule 36 to that Act).
-- (c)[^key-1a98117c23a09d241f838622e975e304] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-1a98117c23a09d241f838622e975e304] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Paragraph (1)(a)(ii) and (b)(i) and (ii) shall cease to have effect on 6th April 2006.
 
-## 3. Registrable information[^key-f03bd117c946aa3f8661dc7a798fd590]
+## 3. Registrable information[^c-f03bd117c946aa3f8661dc7a798fd590]
 
 (1) The information prescribed for the purposes of Article 55(2)(h) of the 2005 Order (registrable information – other prescribed information) is –
 
 - (a) the category of the scheme by reference to –
   - (i) whether the scheme is an occupational or a personal pension scheme,
-  - (ii)[^key-cba5fd3ff901e77227d110f1dfdd50e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (iii)[^key-91e5d363553c228f1a2f41f8b9cc6a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-cba5fd3ff901e77227d110f1dfdd50e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-91e5d363553c228f1a2f41f8b9cc6a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iv) where the scheme is or is to be registered as a stakeholder pension scheme under Article 4 of the 1999 Order[^f00006] (registration of stakeholder pension schemes), whether the scheme is a trust scheme or is established in accordance with regulation 2 of the Stakeholder Pension Schemes Regulations (Northern Ireland) 2000[^f00007] (manner of establishment);
 - (b) in the case of a personal pension scheme, the number of members of the scheme on the later of –
   - (i) the last day of the scheme year which ended most recently, and
@@ -99,13 +99,13 @@ The Department for Social Development, in exercise of the powers conferred on it
   - (ii) if so –
     - (aa) the name and address of the insurance company providing such a contract, and
     - (bb) the policy number of that contract or the insurance company reference number in relation to that contract;
-- (da)[^key-2fa2494a5854fcedf3c939446998ccdd] in the case of an occupational pension scheme which is a relevant scheme within the meaning of the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997, the name of the person for the time being appointed as the chair within the meaning of regulation 1(2) of those Regulations;
-- (db)[^key-5c73be54979496e82e92b639a4302192] the value of the assets held by the scheme for the purpose of providing benefits to members, calculated on the last day of the scheme year which ended most recently;
-- (e)[^key-14a9d65d9381229118aa0971d828c87b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (da)[^c-2fa2494a5854fcedf3c939446998ccdd] in the case of an occupational pension scheme which is a relevant scheme within the meaning of the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997, the name of the person for the time being appointed as the chair within the meaning of regulation 1(2) of those Regulations;
+- (db)[^c-5c73be54979496e82e92b639a4302192] the value of the assets held by the scheme for the purpose of providing benefits to members, calculated on the last day of the scheme year which ended most recently;
+- (e)[^c-14a9d65d9381229118aa0971d828c87b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) in the case of a trust scheme which is in the process of being wound up, the date on which the winding up commenced.
-- (g)[^key-22a75c3bba0190db0ff1f2a456e0aa29] in the case where an occupational pension scheme in respect of which a recovery plan has been prepared under Article 205 of the 2005 Order begins to wind up during the recovery period, the date on which the winding up commenced;[^key-4e502458bcfe0fec7ac55a9c61d243e7]
-- (h)[^key-de92fe3223b97ff6ee37a36daf459cd2] in the case of an occupational pension scheme which is a relevant scheme within the meaning of the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997, whether the trustees or managers of that scheme have prepared the statement that they are required to prepare in accordance with regulation 23 of those Regulations (annual statement regarding governance);[^key-0ca758ca501a464c40c41a5564c2c496]
-- (ha)[^key-55ed502c82da17f6d87a5758411270b6] subject to paragraph (3A), in the case of a specified scheme—
+- (g)[^c-22a75c3bba0190db0ff1f2a456e0aa29] in the case where an occupational pension scheme in respect of which a recovery plan has been prepared under Article 205 of the 2005 Order begins to wind up during the recovery period, the date on which the winding up commenced;[^c-4e502458bcfe0fec7ac55a9c61d243e7]
+- (h)[^c-de92fe3223b97ff6ee37a36daf459cd2] in the case of an occupational pension scheme which is a relevant scheme within the meaning of the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997, whether the trustees or managers of that scheme have prepared the statement that they are required to prepare in accordance with regulation 23 of those Regulations (annual statement regarding governance);[^c-0ca758ca501a464c40c41a5564c2c496]
+- (ha)[^c-55ed502c82da17f6d87a5758411270b6] subject to paragraph (3A), in the case of a specified scheme—
   - (i) whether, on the basis of the most recent assessment required by virtue of regulation 25(1A) of the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997 (assessment of charges and transaction costs), the trustees or managers of the scheme consider that the scheme provides good value for members;
   - (ii) where a value assessment was carried out for the previous scheme year, whether, on the basis of that value assessment, the trustees or managers of the scheme considered that the scheme provided good value for members;
 - (hb) subject to paragraph (3A), in the case of a specified scheme where the trustees or managers of the scheme have stated under sub-paragraph (ha)(i) that they do not consider that the scheme provides good value for members—
@@ -113,13 +113,13 @@ The Department for Social Development, in exercise of the powers conferred on it
   - (ii) if the trustees or managers do not propose to wind up the scheme—
     - (aa) their reasons for not doing so, and
     - (bb) what improvements they propose to make to the scheme to ensure that it does provide good value for members,
-- (i) in the case of an occupational pension scheme in respect of which the requirements of Part 2 of the Occupational Pension Schemes (Charges and Governance) Regulations (Northern Ireland) 2015 (restrictions on charges) apply to one or more of its members, whether the trustees or managers of that scheme have complied with those requirements in respect of each member to whom they apply,[^key-b3ffec62535419041f5cdb1e49fb334c] [^key-aaab92e8babbbe855d3e2a27e2a2fca6]...
+- (i) in the case of an occupational pension scheme in respect of which the requirements of Part 2 of the Occupational Pension Schemes (Charges and Governance) Regulations (Northern Ireland) 2015 (restrictions on charges) apply to one or more of its members, whether the trustees or managers of that scheme have complied with those requirements in respect of each member to whom they apply,[^c-b3ffec62535419041f5cdb1e49fb334c] [^c-aaab92e8babbbe855d3e2a27e2a2fca6]...
 - (j) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (k)[^key-6649ab5abb8db766907b0dfd36fbb4dc] in the case of an occupational pension scheme in respect of which the trustees are required to publish a report in accordance with regulation 6(1)(b) of the Occupational Pension Schemes (Climate Change Governance and Reporting) Regulations (Northern Ireland) 2021 (climate change reporting and publication requirements)—
+- (k)[^c-6649ab5abb8db766907b0dfd36fbb4dc] in the case of an occupational pension scheme in respect of which the trustees are required to publish a report in accordance with regulation 6(1)(b) of the Occupational Pension Schemes (Climate Change Governance and Reporting) Regulations (Northern Ireland) 2021 (climate change reporting and publication requirements)—
   - (i) the website address where the most recent report has been published, or
   - (ii) where no report has been published, whether the period for publication specified in regulation 6(1) of those Regulations has ended;
-- (l) in the case of an occupational pension scheme in respect of which the trustees are required to publish the information specified in regulation 29A(2), (2A) or (2B) of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (publishing charges and transaction costs and other relevant information), the website address where the information has been published;[^key-2e68da949ab012b45b1f663294dabdfd]
-- (m) in the case of an occupational pension scheme which is a relevant trust scheme—[^key-f349a0ba2e290cb5d864133a66f0c04c]
+- (l) in the case of an occupational pension scheme in respect of which the trustees are required to publish the information specified in regulation 29A(2), (2A) or (2B) of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (publishing charges and transaction costs and other relevant information), the website address where the information has been published;[^c-2e68da949ab012b45b1f663294dabdfd]
+- (m) in the case of an occupational pension scheme which is a relevant trust scheme—[^c-f349a0ba2e290cb5d864133a66f0c04c]
   - (i) the information mentioned in paragraph (3C) in respect of each in-scope FM provider for the time being appointed in relation to the scheme;
   - (ii) the information mentioned in paragraph (3D) in respect of each IC provider for the time being appointed in relation to the scheme.
 
@@ -127,9 +127,9 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (3) Where the scheme is a multi-employer scheme, for the purposes of sub-paragraph (1)(e), Article 55(4) of the 2005 Order shall be modified so as to have effect as if for “the employer” in the definition of “relevant employer” there were substituted “an employer”.
 
-(3A)[^key-225e9e11d49be39b44ab624b921db40d] Paragraph (1)(ha) and (hb) does not apply if the Regulator has been notified under Article 57(4) or (5) of the 2005 Order (the register: duties of trustees or managers) that the winding up of the scheme in question has commenced.
+(3A)[^c-225e9e11d49be39b44ab624b921db40d] Paragraph (1)(ha) and (hb) does not apply if the Regulator has been notified under Article 57(4) or (5) of the 2005 Order (the register: duties of trustees or managers) that the winding up of the scheme in question has commenced.
 
-(3B) For the purposes of this regulation, “[^key-7cbd67b950d0829d36a27773c57e1f76]**IC provider**”, “**in-scope FM provider**” and “**relevant trust scheme**” have the meanings given in Part 6 of the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997 (governance of relevant trust schemes).
+(3B) For the purposes of this regulation, “[^c-7cbd67b950d0829d36a27773c57e1f76]**IC provider**”, “**in-scope FM provider**” and “**relevant trust scheme**” have the meanings given in Part 6 of the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997 (governance of relevant trust schemes).
 
 (3C) The information referred to in paragraph (1)(m)(i) is—
 
@@ -151,11 +151,11 @@ The Department for Social Development, in exercise of the powers conferred on it
 - (a) the reappointment of the provider;
 - (b) the extension of the provider’s term of appointment.
 
-(4)[^key-3d7abd6c7084d269bfd2ac6eeea9f341] In this regulation—
+(4)[^c-3d7abd6c7084d269bfd2ac6eeea9f341] In this regulation—
 
 - “multi-employer scheme” means a trust scheme in relation to which there is more than one employer;
 - “recovery period” means the period specified in the scheme’s recovery plan in accordance with Article 205(2)(b) of the 2005 Order.
-- “[^key-b9594737402f2cb0d1a285ec9f61eeb4]**specified scheme**” has the meaning given in regulation 25(5) of the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997.
+- “[^c-b9594737402f2cb0d1a285ec9f61eeb4]**specified scheme**” has the meaning given in regulation 25(5) of the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997.
 
 (5) For the purposes of Article 55(2)(g)(i) of the 2005 Order and of this regulation, “scheme year” means –
 
@@ -164,7 +164,7 @@ The Department for Social Development, in exercise of the powers conferred on it
   - (i) in connection with the commencement or termination of the scheme, or
   - (ii) in connection with a variation of the date on which the year or period referred to in sub-paragraph (a) is to commence.
 
-## 4. Pension Tracing Service[^key-17c331c4688092f97fca8b123ef09035]
+## 4. Pension Tracing Service[^c-17c331c4688092f97fca8b123ef09035]
 
 (1) The Department shall provide an information service to be known as the Pension Tracing Service.
 
@@ -188,7 +188,7 @@ the Department shall provide sufficient information relating to that scheme or t
 
 (6) Where the Department has authorised another person (“the authorised person”) to carry on the Pension Tracing Service on its behalf, the provisions of this regulation and regulation 5 shall apply to the authorised person as they apply to the Department.
 
-## 5. Provision of information[^key-7f4061db715aeb7cea38ba5c7c3be715]
+## 5. Provision of information[^c-7f4061db715aeb7cea38ba5c7c3be715]
 
 (1) For the purposes of carrying on the Pension Tracing Service, the Department –
 
@@ -209,7 +209,7 @@ the Department shall provide sufficient information relating to that scheme or t
 
 (3) When information is disclosed in accordance with paragraph (2), Article 77(2) of the 2005 Order (restricted information – prohibition on disclosure) shall apply as if there were inserted after sub-paragraph (b) “and regulations made under Article 56”.
 
-## 5A. The Office for National Statistics - provision of information[^key-27d6ad0ac363ddd4d6b2fe82cb93fa83]
+## 5A. The Office for National Statistics - provision of information[^c-27d6ad0ac363ddd4d6b2fe82cb93fa83]
 
 (1) The Office for National Statistics—
 
@@ -228,7 +228,7 @@ the Department shall provide sufficient information relating to that scheme or t
 
 (2) When information is disclosed in accordance with paragraph (1), Article 77(2) of the 2005 Order (restricted information – prohibition on disclosure) shall apply as if in sub-paragraph (b) after “Articles 66(9) and 78 to 83” there were inserted “, and regulations made under Article 56,”.
 
-## 6. Revocations[^key-52c03a1f2f6003c184413862b5b36b90]
+## 6. Revocations[^c-52c03a1f2f6003c184413862b5b36b90]
 
 The following regulations are hereby revoked –
 
@@ -278,75 +278,75 @@ As these Regulations are made before the end of the period of six months beginni
 
 [^f00001]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
-[^key-8dcd050f376ec496fc922604a0c48e36]: Commencement: Reg. 1 in operation at 1.4.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/93/regulation/1/1/a)
+[^c-8dcd050f376ec496fc922604a0c48e36]: Commencement: Reg. 1 in operation at 1.4.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/93/regulation/1/1/a)
 
 [^f00002]: Footnote: The definition of “pensioner member” was amended by paragraph 5(3) of Schedule 5 to the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4))
 
 [^f00003]: Footnote: [1975 c. 26](https://www.legislation.gov.uk/ukpga/1975/26)
 
-[^key-06d6ead332af8b1e654cdfe2f59d0e5d]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/93/regulation/1/2) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/17/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-06d6ead332af8b1e654cdfe2f59d0e5d]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/93/regulation/1/2) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/17/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1a8e529ee832f726a7b2609a7b559f14]: Commencement: Reg. 2 in operation at 1.4.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/93/regulation/1/1/a)
+[^c-1a8e529ee832f726a7b2609a7b559f14]: Commencement: Reg. 2 in operation at 1.4.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/93/regulation/1/1/a)
 
 [^f00004]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1). Section 590 is amended by section 35 of, and paragraph 18 of Part I of Schedule 3 to, the Finance Act [1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39); sections 75 and 187 of, and paragraphs 3 and 18(2) and (3) of Schedule 6, and Part 4 of Schedule 17 to, the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26); sections 34(2) to (4), 36(2) and (3) and 123 of, and Part 5 of Schedule 19 to, the Finance Act [1991 (c. 31)](https://www.legislation.gov.uk/ukpga/1991/31); and section 79 of, and paragraphs 2(1) to (4) and (7) and (8) and 18(1) and (3) of Schedule 10 to, the Finance Act [1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16). Section 591 is amended by section 146 of, and paragraph 6 of Part I of Schedule 13 to, the Finance Act 1988; sections 107(2) to (4) and 258 of, and Part 5 of Schedule 26 to, the Finance Act [1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9); sections 59(2) and 60(1) of the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4); and section 79 of, and paragraphs 3(a) and (b) and 18(1) and (3) of Schedule 10 to, the Finance Act 1999
 
 [^f00005]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12)
 
-[^key-1a98117c23a09d241f838622e975e304]: Textual amendment: [Reg. 2(1)(c)](https://www.legislation.gov.uk/nisr/2005/93/regulation/2/1/c) and word omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [17(3)](https://www.legislation.gov.uk/uksi/2019/193/regulation/17/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1a98117c23a09d241f838622e975e304]: Textual amendment: [Reg. 2(1)(c)](https://www.legislation.gov.uk/nisr/2005/93/regulation/2/1/c) and word omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [17(3)](https://www.legislation.gov.uk/uksi/2019/193/regulation/17/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f03bd117c946aa3f8661dc7a798fd590]: Commencement: Reg. 3 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/93/regulation/1/1/b)
+[^c-f03bd117c946aa3f8661dc7a798fd590]: Commencement: Reg. 3 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/93/regulation/1/1/b)
 
-[^key-cba5fd3ff901e77227d110f1dfdd50e0]: Textual amendment: [Reg. 3(1)(a)(ii)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/a/ii) omitted (26.3.2024) by virtue of [The Occupational Pension Schemes (Governance and Registration) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/74)](https://www.legislation.gov.uk/nisr/2024/74), [regs. 1](https://www.legislation.gov.uk/nisr/2024/74/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/nisr/2024/74/regulation/3/a/i), [4](https://www.legislation.gov.uk/nisr/2024/74/regulation/4)
+[^c-cba5fd3ff901e77227d110f1dfdd50e0]: Textual amendment: [Reg. 3(1)(a)(ii)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/a/ii) omitted (26.3.2024) by virtue of [The Occupational Pension Schemes (Governance and Registration) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/74)](https://www.legislation.gov.uk/nisr/2024/74), [regs. 1](https://www.legislation.gov.uk/nisr/2024/74/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/nisr/2024/74/regulation/3/a/i), [4](https://www.legislation.gov.uk/nisr/2024/74/regulation/4)
 
-[^key-91e5d363553c228f1a2f41f8b9cc6a6d]: Textual amendment: [Reg. 3(1)(a)(iii)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/a/iii) omitted (26.3.2024) by virtue of [The Occupational Pension Schemes (Governance and Registration) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/74)](https://www.legislation.gov.uk/nisr/2024/74), [regs. 1](https://www.legislation.gov.uk/nisr/2024/74/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/nisr/2024/74/regulation/3/a/i), [4](https://www.legislation.gov.uk/nisr/2024/74/regulation/4)
+[^c-91e5d363553c228f1a2f41f8b9cc6a6d]: Textual amendment: [Reg. 3(1)(a)(iii)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/a/iii) omitted (26.3.2024) by virtue of [The Occupational Pension Schemes (Governance and Registration) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/74)](https://www.legislation.gov.uk/nisr/2024/74), [regs. 1](https://www.legislation.gov.uk/nisr/2024/74/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/nisr/2024/74/regulation/3/a/i), [4](https://www.legislation.gov.uk/nisr/2024/74/regulation/4)
 
 [^f00006]: Footnote: Article 4 is amended by Article 262(5) of the Pensions (Northern Ireland) Order 2005
 
 [^f00007]: Footnote: [S.R. 2000 No. 262](https://www.legislation.gov.uk/nisr/2000/262); regulation 2(2) was substituted by regulation 2 of [S.R. 2001 No. 13](https://www.legislation.gov.uk/nisr/2001/13)
 
-[^key-2fa2494a5854fcedf3c939446998ccdd]: Textual amendment: [Reg. 3(1)(da)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/da) inserted (17.7.2015) by [The Occupational Pension Schemes (Charges and Governance) Regulations (Northern Ireland) 2015 (S.R. 2015/309)](https://www.legislation.gov.uk/nisr/2015/309), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/309/regulation/1/2), [16(4)](https://www.legislation.gov.uk/nisr/2015/309/regulation/16/4)
+[^c-2fa2494a5854fcedf3c939446998ccdd]: Textual amendment: [Reg. 3(1)(da)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/da) inserted (17.7.2015) by [The Occupational Pension Schemes (Charges and Governance) Regulations (Northern Ireland) 2015 (S.R. 2015/309)](https://www.legislation.gov.uk/nisr/2015/309), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/309/regulation/1/2), [16(4)](https://www.legislation.gov.uk/nisr/2015/309/regulation/16/4)
 
-[^key-5c73be54979496e82e92b639a4302192]: Textual amendment: [Reg. 3(1)(db)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/db) inserted (1.10.2022) by [The Occupational Pension Schemes (Administration, Investment and Charges and Governance) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/272)](https://www.legislation.gov.uk/nisr/2021/272), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/272/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2021/272/regulation/3/2/a)
+[^c-5c73be54979496e82e92b639a4302192]: Textual amendment: [Reg. 3(1)(db)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/db) inserted (1.10.2022) by [The Occupational Pension Schemes (Administration, Investment and Charges and Governance) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/272)](https://www.legislation.gov.uk/nisr/2021/272), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/272/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2021/272/regulation/3/2/a)
 
-[^key-14a9d65d9381229118aa0971d828c87b]: Textual amendment: [Reg. 3(1)(e)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/e) omitted (26.3.2024) by virtue of [The Occupational Pension Schemes (Governance and Registration) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/74)](https://www.legislation.gov.uk/nisr/2024/74), [regs. 1](https://www.legislation.gov.uk/nisr/2024/74/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/nisr/2024/74/regulation/3/a/ii), [4](https://www.legislation.gov.uk/nisr/2024/74/regulation/4)
+[^c-14a9d65d9381229118aa0971d828c87b]: Textual amendment: [Reg. 3(1)(e)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/e) omitted (26.3.2024) by virtue of [The Occupational Pension Schemes (Governance and Registration) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/74)](https://www.legislation.gov.uk/nisr/2024/74), [regs. 1](https://www.legislation.gov.uk/nisr/2024/74/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/nisr/2024/74/regulation/3/a/ii), [4](https://www.legislation.gov.uk/nisr/2024/74/regulation/4)
 
-[^key-22a75c3bba0190db0ff1f2a456e0aa29]: Textual amendment: [Reg. 3(1)(g)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/g) added (24.7.2006) by [The Occupational Pension Schemes (Winding up Procedure Requirement) Regulations (Northern Ireland) 2006 (S.R. 2006/297)](https://www.legislation.gov.uk/nisr/2006/297), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/297/regulation/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2006/297/regulation/4/a)
+[^c-22a75c3bba0190db0ff1f2a456e0aa29]: Textual amendment: [Reg. 3(1)(g)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/g) added (24.7.2006) by [The Occupational Pension Schemes (Winding up Procedure Requirement) Regulations (Northern Ireland) 2006 (S.R. 2006/297)](https://www.legislation.gov.uk/nisr/2006/297), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/297/regulation/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2006/297/regulation/4/a)
 
-[^key-4e502458bcfe0fec7ac55a9c61d243e7]: Textual amendment: Word in [reg. 3(1)(g)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/g) substituted (17.7.2015) by [The Occupational Pension Schemes (Charges and Governance) Regulations (Northern Ireland) 2015 (S.R. 2015/309)](https://www.legislation.gov.uk/nisr/2015/309), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/309/regulation/1/2), [24(b)](https://www.legislation.gov.uk/nisr/2015/309/regulation/24/b)
+[^c-4e502458bcfe0fec7ac55a9c61d243e7]: Textual amendment: Word in [reg. 3(1)(g)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/g) substituted (17.7.2015) by [The Occupational Pension Schemes (Charges and Governance) Regulations (Northern Ireland) 2015 (S.R. 2015/309)](https://www.legislation.gov.uk/nisr/2015/309), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/309/regulation/1/2), [24(b)](https://www.legislation.gov.uk/nisr/2015/309/regulation/24/b)
 
-[^key-de92fe3223b97ff6ee37a36daf459cd2]: Textual amendment: [Reg. 3(1)(h)-(i)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/h) added (17.7.2015) by [The Occupational Pension Schemes (Charges and Governance) Regulations (Northern Ireland) 2015 (S.R. 2015/309)](https://www.legislation.gov.uk/nisr/2015/309), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/309/regulation/1/2), [24(c)](https://www.legislation.gov.uk/nisr/2015/309/regulation/24/c)
+[^c-de92fe3223b97ff6ee37a36daf459cd2]: Textual amendment: [Reg. 3(1)(h)-(i)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/h) added (17.7.2015) by [The Occupational Pension Schemes (Charges and Governance) Regulations (Northern Ireland) 2015 (S.R. 2015/309)](https://www.legislation.gov.uk/nisr/2015/309), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/309/regulation/1/2), [24(c)](https://www.legislation.gov.uk/nisr/2015/309/regulation/24/c)
 
-[^key-0ca758ca501a464c40c41a5564c2c496]: Textual amendment: Words in [reg. 3(1)(h)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/h) substituted (13.1.2019) by [The Occupational Pension Schemes (Cross-border Activities) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/182)](https://www.legislation.gov.uk/nisr/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/182/regulation/1/1), [5(a)](https://www.legislation.gov.uk/nisr/2018/182/regulation/5/a)
+[^c-0ca758ca501a464c40c41a5564c2c496]: Textual amendment: Words in [reg. 3(1)(h)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/h) substituted (13.1.2019) by [The Occupational Pension Schemes (Cross-border Activities) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/182)](https://www.legislation.gov.uk/nisr/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/182/regulation/1/1), [5(a)](https://www.legislation.gov.uk/nisr/2018/182/regulation/5/a)
 
-[^key-55ed502c82da17f6d87a5758411270b6]: Textual amendment: [Reg. 3(1)(ha)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/ha)[(hb)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/hb) inserted (1.10.2022) by [The Occupational Pension Schemes (Administration, Investment and Charges and Governance) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/272)](https://www.legislation.gov.uk/nisr/2021/272), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/272/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2021/272/regulation/3/2/b)
+[^c-55ed502c82da17f6d87a5758411270b6]: Textual amendment: [Reg. 3(1)(ha)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/ha)[(hb)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/hb) inserted (1.10.2022) by [The Occupational Pension Schemes (Administration, Investment and Charges and Governance) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/272)](https://www.legislation.gov.uk/nisr/2021/272), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/272/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2021/272/regulation/3/2/b)
 
-[^key-b3ffec62535419041f5cdb1e49fb334c]: Textual amendment: Words in [reg. 3(1)(i)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/i) substituted (13.1.2019) by [The Occupational Pension Schemes (Cross-border Activities) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/182)](https://www.legislation.gov.uk/nisr/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/182/regulation/1/1), [5(b)](https://www.legislation.gov.uk/nisr/2018/182/regulation/5/b)
+[^c-b3ffec62535419041f5cdb1e49fb334c]: Textual amendment: Words in [reg. 3(1)(i)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/i) substituted (13.1.2019) by [The Occupational Pension Schemes (Cross-border Activities) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/182)](https://www.legislation.gov.uk/nisr/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/182/regulation/1/1), [5(b)](https://www.legislation.gov.uk/nisr/2018/182/regulation/5/b)
 
-[^key-aaab92e8babbbe855d3e2a27e2a2fca6]: Textual amendment: [Reg. 3(1)(j)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/j) and word omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [17(4)](https://www.legislation.gov.uk/uksi/2019/193/regulation/17/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aaab92e8babbbe855d3e2a27e2a2fca6]: Textual amendment: [Reg. 3(1)(j)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/j) and word omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [17(4)](https://www.legislation.gov.uk/uksi/2019/193/regulation/17/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6649ab5abb8db766907b0dfd36fbb4dc]: Textual amendment: [Reg. 3(1)(k)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/k)[(l)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/l) inserted (1.10.2021) by [The Occupational Pension Schemes (Climate Change Governance and Reporting) (Miscellaneous Provisions and Amendments) Regulations (Northern Ireland) 2021 (S.R. 2021/246)](https://www.legislation.gov.uk/nisr/2021/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/246/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2021/246/regulation/3)
+[^c-6649ab5abb8db766907b0dfd36fbb4dc]: Textual amendment: [Reg. 3(1)(k)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/k)[(l)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/l) inserted (1.10.2021) by [The Occupational Pension Schemes (Climate Change Governance and Reporting) (Miscellaneous Provisions and Amendments) Regulations (Northern Ireland) 2021 (S.R. 2021/246)](https://www.legislation.gov.uk/nisr/2021/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/246/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2021/246/regulation/3)
 
-[^key-2e68da949ab012b45b1f663294dabdfd]: Textual amendment: Word in [reg. 3(1)(l)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/l) substituted (26.3.2024) by [The Occupational Pension Schemes (Governance and Registration) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/74)](https://www.legislation.gov.uk/nisr/2024/74), [regs. 1](https://www.legislation.gov.uk/nisr/2024/74/regulation/1), [3(a)(iii)](https://www.legislation.gov.uk/nisr/2024/74/regulation/3/a/iii), [4](https://www.legislation.gov.uk/nisr/2024/74/regulation/4)
+[^c-2e68da949ab012b45b1f663294dabdfd]: Textual amendment: Word in [reg. 3(1)(l)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/l) substituted (26.3.2024) by [The Occupational Pension Schemes (Governance and Registration) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/74)](https://www.legislation.gov.uk/nisr/2024/74), [regs. 1](https://www.legislation.gov.uk/nisr/2024/74/regulation/1), [3(a)(iii)](https://www.legislation.gov.uk/nisr/2024/74/regulation/3/a/iii), [4](https://www.legislation.gov.uk/nisr/2024/74/regulation/4)
 
-[^key-f349a0ba2e290cb5d864133a66f0c04c]: Textual amendment: [Reg. 3(1)(m)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/m) added (26.3.2024) by [The Occupational Pension Schemes (Governance and Registration) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/74)](https://www.legislation.gov.uk/nisr/2024/74), [regs. 1](https://www.legislation.gov.uk/nisr/2024/74/regulation/1), [3(a)(iv)](https://www.legislation.gov.uk/nisr/2024/74/regulation/3/a/iv), [4](https://www.legislation.gov.uk/nisr/2024/74/regulation/4)
+[^c-f349a0ba2e290cb5d864133a66f0c04c]: Textual amendment: [Reg. 3(1)(m)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/1/m) added (26.3.2024) by [The Occupational Pension Schemes (Governance and Registration) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/74)](https://www.legislation.gov.uk/nisr/2024/74), [regs. 1](https://www.legislation.gov.uk/nisr/2024/74/regulation/1), [3(a)(iv)](https://www.legislation.gov.uk/nisr/2024/74/regulation/3/a/iv), [4](https://www.legislation.gov.uk/nisr/2024/74/regulation/4)
 
 [^f00008]: Footnote: *See* Article 121(4) to (8) as inserted by section 45(2) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000
 
-[^key-225e9e11d49be39b44ab624b921db40d]: Textual amendment: [Reg. 3(3A)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/3A) inserted (1.10.2022) by [The Occupational Pension Schemes (Administration, Investment and Charges and Governance) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/272)](https://www.legislation.gov.uk/nisr/2021/272), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/272/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2021/272/regulation/3/3)
+[^c-225e9e11d49be39b44ab624b921db40d]: Textual amendment: [Reg. 3(3A)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/3A) inserted (1.10.2022) by [The Occupational Pension Schemes (Administration, Investment and Charges and Governance) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/272)](https://www.legislation.gov.uk/nisr/2021/272), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/272/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2021/272/regulation/3/3)
 
-[^key-7cbd67b950d0829d36a27773c57e1f76]: Textual amendment: [Reg. 3(3B)-(3E)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/3B) inserted (26.3.2024) by [The Occupational Pension Schemes (Governance and Registration) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/74)](https://www.legislation.gov.uk/nisr/2024/74), [regs. 1](https://www.legislation.gov.uk/nisr/2024/74/regulation/1), [3(b)](https://www.legislation.gov.uk/nisr/2024/74/regulation/3/b), [4](https://www.legislation.gov.uk/nisr/2024/74/regulation/4)
+[^c-7cbd67b950d0829d36a27773c57e1f76]: Textual amendment: [Reg. 3(3B)-(3E)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/3B) inserted (26.3.2024) by [The Occupational Pension Schemes (Governance and Registration) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/74)](https://www.legislation.gov.uk/nisr/2024/74), [regs. 1](https://www.legislation.gov.uk/nisr/2024/74/regulation/1), [3(b)](https://www.legislation.gov.uk/nisr/2024/74/regulation/3/b), [4](https://www.legislation.gov.uk/nisr/2024/74/regulation/4)
 
-[^key-3d7abd6c7084d269bfd2ac6eeea9f341]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/4) substituted (24.7.2006) by [The Occupational Pension Schemes (Winding up Procedure Requirement) Regulations (Northern Ireland) 2006 (S.R. 2006/297)](https://www.legislation.gov.uk/nisr/2006/297), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/297/regulation/1/1), [4(b)](https://www.legislation.gov.uk/nisr/2006/297/regulation/4/b)
+[^c-3d7abd6c7084d269bfd2ac6eeea9f341]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/4) substituted (24.7.2006) by [The Occupational Pension Schemes (Winding up Procedure Requirement) Regulations (Northern Ireland) 2006 (S.R. 2006/297)](https://www.legislation.gov.uk/nisr/2006/297), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/297/regulation/1/1), [4(b)](https://www.legislation.gov.uk/nisr/2006/297/regulation/4/b)
 
-[^key-b9594737402f2cb0d1a285ec9f61eeb4]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/4) added (1.10.2022) by [The Occupational Pension Schemes (Administration, Investment and Charges and Governance) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/272)](https://www.legislation.gov.uk/nisr/2021/272), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/272/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2021/272/regulation/3/4)
+[^c-b9594737402f2cb0d1a285ec9f61eeb4]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/nisr/2005/93/regulation/3/4) added (1.10.2022) by [The Occupational Pension Schemes (Administration, Investment and Charges and Governance) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/272)](https://www.legislation.gov.uk/nisr/2021/272), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/272/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2021/272/regulation/3/4)
 
-[^key-17c331c4688092f97fca8b123ef09035]: Commencement: Reg. 4 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/93/regulation/1/1/b)
+[^c-17c331c4688092f97fca8b123ef09035]: Commencement: Reg. 4 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/93/regulation/1/1/b)
 
-[^key-7f4061db715aeb7cea38ba5c7c3be715]: Commencement: Reg. 5 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/93/regulation/1/1/b)
+[^c-7f4061db715aeb7cea38ba5c7c3be715]: Commencement: Reg. 5 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/93/regulation/1/1/b)
 
-[^key-27d6ad0ac363ddd4d6b2fe82cb93fa83]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/nisr/2005/93/regulation/5A) inserted (4.7.2007) by [The Register of Occupational and Personal Pension Schemes (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/297)](https://www.legislation.gov.uk/nisr/2007/297), [regs. 1](https://www.legislation.gov.uk/nisr/2007/297/regulation/1), [2](https://www.legislation.gov.uk/nisr/2007/297/regulation/2)
+[^c-27d6ad0ac363ddd4d6b2fe82cb93fa83]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/nisr/2005/93/regulation/5A) inserted (4.7.2007) by [The Register of Occupational and Personal Pension Schemes (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/297)](https://www.legislation.gov.uk/nisr/2007/297), [regs. 1](https://www.legislation.gov.uk/nisr/2007/297/regulation/1), [2](https://www.legislation.gov.uk/nisr/2007/297/regulation/2)
 
-[^key-52c03a1f2f6003c184413862b5b36b90]: Commencement: Reg. 6 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/93/regulation/1/1/b)
+[^c-52c03a1f2f6003c184413862b5b36b90]: Commencement: Reg. 6 in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/93/regulation/1/1/b)
 
 [^f00009]: Footnote: [S.R. 1997 No. 102](https://www.legislation.gov.uk/nisr/1997/102)
 

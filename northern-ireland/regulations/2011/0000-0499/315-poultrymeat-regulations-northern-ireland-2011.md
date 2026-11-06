@@ -49,15 +49,15 @@ These Regulations make provision for a purpose mentioned in that section and it 
 - (a)
 - (b)
 
-There has been open and transparent public consultation during the preparation of these Regulations as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council[^f00005] laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.[^key-fbfd2496c6c669570bb075338eaa676f]
+There has been open and transparent public consultation during the preparation of these Regulations as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council[^f00005] laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.[^c-fbfd2496c6c669570bb075338eaa676f]
 
-The Department of Agriculture and Rural Development makes the following Regulations in exercise of the powers conferred on it by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972[^f00006].[^key-fbfd2496c6c669570bb075338eaa676f]
+The Department of Agriculture and Rural Development makes the following Regulations in exercise of the powers conferred on it by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972[^f00006].[^c-fbfd2496c6c669570bb075338eaa676f]
 
-## 1. Citation, commencement and application[^key-1125ff3f111c8f14b671f49776106817]
+## 1. Citation, commencement and application[^c-1125ff3f111c8f14b671f49776106817]
 
 (1) These Regulations may be cited as the Poultrymeat Regulations (Northern Ireland) 2011 and shall come into operation on 14 October 2011.
 
-(2) These Regulations shall apply to poultrymeat described in point 1 of Part V of Annex VII to Regulation (EU) 2013[^key-5d64e786286196ff882dbce7299af372] , excluding poultrymeat described in point I(2) of Part B of Annex XIV to that Regulation[^key-8f54489607b8690799c1fabd5d908191] .
+(2) These Regulations shall apply to poultrymeat described in point 1 of Part V of Annex VII to Regulation (EU) 2013[^c-5d64e786286196ff882dbce7299af372] , excluding poultrymeat described in point I(2) of Part B of Annex XIV to that Regulation[^c-8f54489607b8690799c1fabd5d908191] .
 
 (3) These Regulations shall not apply to the direct supply of small quantities of poultrymeat by a producer with an annual production of under 10,000 birds where the meat—
 
@@ -66,7 +66,7 @@ The Department of Agriculture and Rural Development makes the following Regulati
   - (i) the final consumer; or
   - (ii) a local retail establishment directly supplying such meat to the final consumer as fresh meat.
 
-## 2. Interpretation[^key-8d0d61652f47d0521dd7e212f5ed3264]
+## 2. Interpretation[^c-8d0d61652f47d0521dd7e212f5ed3264]
 
 (1) In these Regulations—
 
@@ -74,29 +74,29 @@ The Department of Agriculture and Rural Development makes the following Regulati
 - “Commission Regulation” means [Commission Regulation (EC) No. 543/2008](https://www.legislation.gov.uk/european/regulation/2008/0543) laying down detailed rules for the application of Council Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards the marketing standards for poultrymeat, as amended from time to time;
 - “Department” means the Department of Agriculture and Rural Development;
 - “enforcement authority” means an authority exercising a function conferred on it by regulation 9;
-- “European poultrymeat provision” means a provision of the Single CMO Regulation or Regulation (EU) 2013[^key-f8660355a9c7005dafe7d9760bb22b80] or the Commission Regulation specified in column 1 of Part 1 or 2 of Schedule 1, as read with any provision mentioned in the corresponding entry in column 2 of Part 1 or 2 of that Schedule;
+- “European poultrymeat provision” means a provision of the Single CMO Regulation or Regulation (EU) 2013[^c-f8660355a9c7005dafe7d9760bb22b80] or the Commission Regulation specified in column 1 of Part 1 or 2 of Schedule 1, as read with any provision mentioned in the corresponding entry in column 2 of Part 1 or 2 of that Schedule;
 - “officer”—
   - (a) in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body; and
   - (b) in relation to an unincorporated body, means any member of its governing body or a chief executive, manager or other similar officer of the body;
 - “the Order” means the Food Safety (Northern Ireland) Order 1991[^f00007];
-- “[^key-9050d91dba4e0bbb8b563d88b6ee8320]**poultrymeat**” has the meaning given by point II(1) of Part V of Annex VII to Regulation (EU) 2013;
+- “[^c-9050d91dba4e0bbb8b563d88b6ee8320]**poultrymeat**” has the meaning given by point II(1) of Part V of Annex VII to Regulation (EU) 2013;
 - “premises” means any place, including those requiring inspection under Article 12(5)(a) to (d) of the Commission Regulation, and any vehicle, trailer, stall or moveable structure; and
-- “[^key-b3762fd1eefbd232a7a389983fc035cd]**Regulation (EU) 2013**” means Regulation (EU) No 1308/2013 of the European Parliament and of the Council adopted on the 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time;
-- “Single CMO Regulation” means Council Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) establishing a common organisation of agricultural markets and on specific provision for certain agricultural products (Single CMO Regulation) as amended from time to time[^key-e12729f3172b8788bc26feb245972ab9] .
+- “[^c-b3762fd1eefbd232a7a389983fc035cd]**Regulation (EU) 2013**” means Regulation (EU) No 1308/2013 of the European Parliament and of the Council adopted on the 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time;
+- “Single CMO Regulation” means Council Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) establishing a common organisation of agricultural markets and on specific provision for certain agricultural products (Single CMO Regulation) as amended from time to time[^c-e12729f3172b8788bc26feb245972ab9] .
 
 (2) In these Regulations, any reference to Part B of Annex XIV to the Single CMO Regulation is a reference to Part B of Annex XIV to the Single CMO Regulation as amended from time to time.
 
-(3) Other expressions used in these Regulations and in the Single CMO Regulation or Regulation (EU) 2013[^key-7f15f5e781d43b3f8326fbdf14c23330] or the Commission Regulation shall have the same meaning in these Regulations as in the European Regulation in which they are used.
+(3) Other expressions used in these Regulations and in the Single CMO Regulation or Regulation (EU) 2013[^c-7f15f5e781d43b3f8326fbdf14c23330] or the Commission Regulation shall have the same meaning in these Regulations as in the European Regulation in which they are used.
 
 (4) The Interpretation Act (Northern Ireland) 1954[^f00008] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-(5)[^key-8fe52a26db4556fdbefb7b167ae63bba] Any reference in these Regulations to Part VI of Annex VII of Regulation (EU) 2013 includes a reference to the equivalent transitional marketing standards under Article 116 of and Annex XIV to, the Single CMO Regulation.
+(5)[^c-8fe52a26db4556fdbefb7b167ae63bba] Any reference in these Regulations to Part VI of Annex VII of Regulation (EU) 2013 includes a reference to the equivalent transitional marketing standards under Article 116 of and Annex XIV to, the Single CMO Regulation.
 
-## 3. Offences[^key-5b2cce508057672e01f1ef50fbb603e7]
+## 3. Offences[^c-5b2cce508057672e01f1ef50fbb603e7]
 
 A person is guilty of an offence if that person contravenes a provision of the Commission Regulation referred to in column 1 of Schedule 2, as read with any provision mentioned in the corresponding entry in column 2 of that Schedule.
 
-## 4. Temperature requirement for fresh poultrymeat[^key-20abb9eba966f146d8d2a8383df0d781]
+## 4. Temperature requirement for fresh poultrymeat[^c-20abb9eba966f146d8d2a8383df0d781]
 
 (1) Poultrymeat that is cut and handled in premises of the type mentioned in paragraph (2) and is marketed on those premises as fresh poultrymeat shall be kept on those premises at a temperature not below –2ºC and not higher than 8ºC[^f00009].
 
@@ -107,7 +107,7 @@ A person is guilty of an offence if that person contravenes a provision of the C
 
 where the cutting and handling are performed solely for the purpose of supplying the consumer directly on the spot.
 
-## 5. Registration as required by Article 12 of the Commission Regulation[^key-2d3427294ad93231268e2c4d9e48452d]
+## 5. Registration as required by Article 12 of the Commission Regulation[^c-2d3427294ad93231268e2c4d9e48452d]
 
 (1) The Department is designated as the competent authority for the purpose of registration of slaughterhouses and producers as required by Article 12 of the Commission Regulation.
 
@@ -135,7 +135,7 @@ authorised to use the terms specified in Article 11 of the Commission Regulation
 - (c) the reasons for the cancellation; and
 - (d) the right of appeal conferred by regulation 6.
 
-## 6. Appeals against registration decisions[^key-8740a56d6f2a5d3f4bc47a7714294967]
+## 6. Appeals against registration decisions[^c-8740a56d6f2a5d3f4bc47a7714294967]
 
 (1) Any person who is aggrieved about a decision specified in paragraph (2) may appeal against that decision to a magistrates’ court.
 
@@ -150,11 +150,11 @@ authorised to use the terms specified in Article 11 of the Commission Regulation
 
 (5) The cancellation of a registration mentioned in paragraph (2)(b) shall not take effect until the time for appealing against it has expired or, if an appeal is lodged, until the appeal is finally disposed of or withdrawn.
 
-## 7. Powers of a magistrates’ court on appeal[^key-f516d4cac12aecb6a104962e48b04e2f]
+## 7. Powers of a magistrates’ court on appeal[^c-f516d4cac12aecb6a104962e48b04e2f]
 
 On an appeal against a decision by the Department mentioned in regulation 6(2) the magistrates’ court may either overturn the decision or confirm the decision.
 
-## 8. Water content checks[^key-48d50664d18c8f4686fb21611934ff6b]
+## 8. Water content checks[^c-48d50664d18c8f4686fb21611934ff6b]
 
 (1) Except where a water content check required by Article 16(1), (2), (3) or (4) or 20(2), (3) and (4) of the Commission Regulation is carried out by the Department, such a check shall be carried out by the food business operator of the slaughterhouse or cutting plant concerned.
 
@@ -167,7 +167,7 @@ On an appeal against a decision by the Department mentioned in regulation 6(2) t
 
 (4) In this regulation “food business operator” shall have the same meaning as in Article 3(3) of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.
 
-## 9. Enforcement[^key-c3bed2b31b7883733f1cbb25dcd24787]
+## 9. Enforcement[^c-c3bed2b31b7883733f1cbb25dcd24787]
 
 (1) The Department shall enforce the European poultrymeat provisions in relation to—
 
@@ -181,15 +181,15 @@ On an appeal against a decision by the Department mentioned in regulation 6(2) t
 - (a) the European poultrymeat provisions (other than at slaughterhouses, cutting plants and producers); and
 - (b) regulation 4.
 
-## 10. Duty to give assistance and provide information[^key-9ac2379358dd4298ccdc3c44bfa56261]
+## 10. Duty to give assistance and provide information[^c-9ac2379358dd4298ccdc3c44bfa56261]
 
 Each enforcement authority shall give such assistance and information to any other enforcement authority as that authority may reasonably require for the purpose of helping that authority perform its duties under these Regulations.
 
-## 11. Powers of entry[^key-9d4760eff6c3545dcac3290d1d61bcf3]
+## 11. Powers of entry[^c-9d4760eff6c3545dcac3290d1d61bcf3]
 
 (1) An authorised officer may enter any premises (except premises used as a private dwelling house) at any reasonable hour for the purpose of ensuring that the provisions of these Regulations are being complied with.
 
-(2)[^key-6459d9d18340d75c7900b46442d6b625] The authorised officer may be accompanied by such other persons as the authorised officer considers necessary.
+(2)[^c-6459d9d18340d75c7900b46442d6b625] The authorised officer may be accompanied by such other persons as the authorised officer considers necessary.
 
 (3) An authorised officer shall not exercise the powers under paragraph (1) or (2) except on the production, if so required, of a duly authenticated document showing the officer’s authority.
 
@@ -221,7 +221,7 @@ Each enforcement authority shall give such assistance and information to any oth
 
 (14) An authorised officer who enters any premises that are unoccupied or where the occupier is temporarily absent shall leave the premises as effectively secured against unauthorised entry as when the officer found them.
 
-## 12. Powers of an authorised officer[^key-150ba2dcdc97a054c9e3f55809a9c1ff]
+## 12. Powers of an authorised officer[^c-150ba2dcdc97a054c9e3f55809a9c1ff]
 
 (1) An authorised officer (“O”) entering premises under regulation 11 may—
 
@@ -274,11 +274,11 @@ Each enforcement authority shall give such assistance and information to any oth
 
 (11) O shall not exercise any power under this regulation, or give a direction under this regulation, except on the production, if so required, of a duly authenticated document showing O’s authority.
 
-(12)[^key-415371202facc3771631e0f365167342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-415371202facc3771631e0f365167342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(13) In this regulation “live poultry” has the meaning given to it in Part XX of Annex I to the Regulation (EU) 2013[^key-43f032027ce8916531b5e8f04328d7a8] .
+(13) In this regulation “live poultry” has the meaning given to it in Part XX of Annex I to the Regulation (EU) 2013[^c-43f032027ce8916531b5e8f04328d7a8] .
 
-## 13. Procedure on seizure[^key-cd5b3580b19ff9f09d388711afcdee72]
+## 13. Procedure on seizure[^c-cd5b3580b19ff9f09d388711afcdee72]
 
 (1) An authorised officer (“O”) shall follow the procedures set out in this regulation if O seizes anything under regulation 12(4), (5) or (6).
 
@@ -352,7 +352,7 @@ Each enforcement authority shall give such assistance and information to any oth
 
 (17) The procedure in a magistrates’ court under this regulation is by way of complaint and the Magistrates’ Courts (Northern Ireland) Order 1981 shall apply to the proceedings.
 
-## 14. Compliance notices[^key-6c9098feac706f834db2cf05d72f9dd6]
+## 14. Compliance notices[^c-6c9098feac706f834db2cf05d72f9dd6]
 
 (1) If an authorised officer has reasonable grounds for believing that any person is contravening, or has contravened–
 
@@ -372,7 +372,7 @@ the authorised officer may, by notice (a “compliance notice”), require a per
 
 (3) It is an offence not to comply with a compliance notice.
 
-## 15. Appeals against compliance notices[^key-92f54b0c58d6526062b312c873d50667]
+## 15. Appeals against compliance notices[^c-92f54b0c58d6526062b312c873d50667]
 
 (1) Any person who is aggrieved about a compliance notice may appeal against that notice to a magistrates’ court.
 
@@ -382,11 +382,11 @@ the authorised officer may, by notice (a “compliance notice”), require a per
 
 (4) A magistrates’ court may suspend a compliance notice pending an appeal.
 
-## 16. Powers of a magistrates’ court on appeal[^key-a6e609c988402e6f9f14a6e6b50ef37b]
+## 16. Powers of a magistrates’ court on appeal[^c-a6e609c988402e6f9f14a6e6b50ef37b]
 
 On an appeal against a compliance notice, the magistrates’ court may either cancel the compliance notice or confirm the notice with or without modification.
 
-## 17. Publicity[^key-77aa38d4d075e543cfb0242e3b67d657]
+## 17. Publicity[^c-77aa38d4d075e543cfb0242e3b67d657]
 
 (1) Subject to paragraph (2) an enforcement authority may publicise the cases in which—
 
@@ -401,7 +401,7 @@ in such manner as it sees fit.
 - (b) during the period that any appeal against the compliance notice is ongoing; or
 - (c) where an appeal against the compliance notice is successful.
 
-## 18. Obstruction[^key-738f5be02c658f005eb1e8b925aa8dcd]
+## 18. Obstruction[^c-738f5be02c658f005eb1e8b925aa8dcd]
 
 A person shall be guilty of an offence if that person—
 
@@ -412,11 +412,11 @@ A person shall be guilty of an offence if that person—
 - (e) intentionally furnishes any false or misleading information to an authorised officer; or
 - (f) fails without reasonable excuse to produce a document or record when required to do so by an authorised officer.
 
-## 19. Criminal offences: penalty[^key-99677295fff070da2e01520245328a6d]
+## 19. Criminal offences: penalty[^c-99677295fff070da2e01520245328a6d]
 
 A person guilty of an offence under regulation 3, 14(3), or 18, shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 20. Extended period for bringing prosecutions[^key-16fff8f91940afe7bcab15b4184918de]
+## 20. Extended period for bringing prosecutions[^c-16fff8f91940afe7bcab15b4184918de]
 
 (1) Proceedings for an offence under these Regulations may be commenced within the period of 1 year from the date on which evidence sufficient in the opinion of the prosecutor to warrant the proceedings came to the prosecutor’s knowledge.
 
@@ -427,7 +427,7 @@ A person guilty of an offence under regulation 3, 14(3), or 18, shall be liable 
 - (a) a certificate signed by or on behalf of the prosecutor and stating the date on which evidence sufficient in the prosecutor’s opinion to warrant the proceedings came to the prosecutor’s knowledge shall be conclusive evidence of that fact; and
 - (b) a certificate stating that matter and purporting to be so signed shall be deemed to be so signed unless the contrary is proved.
 
-## 21. Offences by bodies corporate etc.[^key-0d70b6857e4b443062a88ca5abb3d2d1]
+## 21. Offences by bodies corporate etc.[^c-0d70b6857e4b443062a88ca5abb3d2d1]
 
 (1) Where an offence committed by a body corporate (other than a limited liability partnership or a Scottish partnership) is proved to have been committed with the consent or connivance of, or is attributable to any neglect on the part of, an officer of the body corporate, or a person purporting to act in such a capacity, that officer or person (as well as the body corporate) is guilty of the offence and is liable to be proceeded against and punished accordingly.
 
@@ -439,11 +439,11 @@ A person guilty of an offence under regulation 3, 14(3), or 18, shall be liable 
 
 (5) In this regulation “offence” means an offence under these Regulations.
 
-## 22. Act or default of third person[^key-daceecacf8e6e895ab3e831f72d3431c]
+## 22. Act or default of third person[^c-daceecacf8e6e895ab3e831f72d3431c]
 
 Where the commission by one person (“A”) of an offence under these Regulations is due to the act or default of another (“B”), B also commits the offence, and B may be charged with and convicted of the offence by virtue of this regulation whether or not proceedings are taken against A.
 
-## 23. Defences[^key-bb7145c5fdbd1ab19742024e9137ac50]
+## 23. Defences[^c-bb7145c5fdbd1ab19742024e9137ac50]
 
 (1) It shall be a defence for a person charged with an offence under these Regulations to prove that that person took all reasonable steps and exercised all due diligence to avoid committing the offence.
 
@@ -452,7 +452,7 @@ Where the commission by one person (“A”) of an offence under these Regulatio
 - (a) at least 7 days before the hearing A has given to the prosecutor a notice in writing giving such information identifying or assisting in the identification of B as was then in A’s possession; or
 - (b) the court grants A leave.
 
-## 24. Giving of notices[^key-f196a5d7525f3c493090f275d61363d6]
+## 24. Giving of notices[^c-f196a5d7525f3c493090f275d61363d6]
 
 (1) Any notice required to be given under these Regulations to any person must be given to that person by—
 
@@ -490,7 +490,7 @@ Where the commission by one person (“A”) of an offence under these Regulatio
 - “body corporate” does not include a limited liability partnership or a Scottish partnership; and
 - “electronic communication” has the same meaning as in section 4(1) of the Electronic Communications Act (Northern Ireland) 2001[^f00011].
 
-## 25. Application of various provisions of the Food Safety (Northern Ireland) Order 1991[^key-7c70fefc4193447e21d3f8506ec9805b]
+## 25. Application of various provisions of the Food Safety (Northern Ireland) Order 1991[^c-7c70fefc4193447e21d3f8506ec9805b]
 
 (1) The following provisions of the Order shall apply for the purposes of these Regulations with the modifications specified in paragraph (2)—
 
@@ -508,11 +508,11 @@ Where the commission by one person (“A”) of an offence under these Regulatio
   - (ii) in sub-paragraph (d), omit the words “or of regulations or orders made under it”;
 - (d) in relation to Article 30(8)(a), omit the words “under paragraph (6)”.
 
-## 26. Consequential amendment[^key-ff8a054bbacc92c2a6139b659e675b6c]
+## 26. Consequential amendment[^c-ff8a054bbacc92c2a6139b659e675b6c]
 
 In the Food Safety (Sampling and Qualifications) Regulations (Northern Ireland) 1991[^f00012] in Schedule 1 (provisions to which those Regulations do not apply), for the title and reference to the Poultry Meat (Water Content) Regulations (Northern Ireland) 1982[^f00013] there shall be substituted the title and reference to these Regulations.
 
-## 27. Revocations[^key-1dfbff69a518b5d09ebdf56294f697a2]
+## 27. Revocations[^c-1dfbff69a518b5d09ebdf56294f697a2]
 
 The following shall be revoked—
 
@@ -533,16 +533,16 @@ A senior officer of the Department of Agriculture and Rural Development
 
 Regulation 2(1)
 
-### PART 1 — PROVISIONS OF THE SINGLE CMO REGULATION or Regulation (EU) 2013[^key-0bea6680add71c0c58b163a5a7efe29d][^key-0a0c565de6f541b6545e2d9df5f07e68]
+### PART 1 — PROVISIONS OF THE SINGLE CMO REGULATION or Regulation (EU) 2013[^c-0bea6680add71c0c58b163a5a7efe29d][^c-0a0c565de6f541b6545e2d9df5f07e68]
 
 | ***Column 1*** | ***Column 2*** | ***Column 3*** |
 | --- | --- | --- |
-| **Relevant provision of the Single CMO Regulation or Regulation (EU) 2013[^key-37f352746e4406450d1153283df3541d]** | ***Provisions to be read with the provisions of the Single CMO Regulation or Regulation (EU) 2013[^key-75030d47d6afea27995a58d41cc42d9f] mentioned in column 1*** | ***Subject matter*** |
-| Article 74 of Regulation (EU) 2013[^key-2b2b05394d608cf3c8cf32a680bd6aca] , insofar as it relates to the marketing of poultrymeat | Article 116 and Part B(I)(2) and (3) and (III)(1) of the Annex XIV to the Single CMO Regulation and Part V of Annex VII to Regulation (EU) 2013[^key-d446b0a00b87934ab25ff362c15c50a8] and the Commission Regulation | Prohibition on the marketing of poultrymeat except in accordance with the marketing standards laid down in Part B(I)(2) and(3) and (III(I) of Annex XIV to the Single CMO Regulation and Part V of Annex VII to Regulation (EU) 2013[^key-41ae04511be7f9df74f3c931446d9351] and the Commission Regulation. |
-| Point III(1) of Part B of Annex XIV to the Single CMO Regulation[^key-beab504b1ac52bc99e6809c3602a69a9] | Article 7 of the Commission Regulation | Quality grading. |
-| point III of Part V of Annex VII to Regulation (EU) 2013[^key-f1259107c54772820c87922112a25349] | Regulation 4 of these Regulations and Point II(2) of Part V of Annex VII to Regulation (EU) 2013[^key-250ac92beffadeb2939724b79adc982a] in relation to fresh poultrymeat<br>Point II(3) of Part B of Annex XIV to the Single CMO Regulation in relation to frozen poultrymeat<br>Point II(4) of Part V of Annex VII to Regulation (EU) 2013 in relation to quick-frozen poultrymeat Point II(6) of Part B of Annex XIV to the Single CMO Regulation in relation to fresh poultrymeat preparation | Marketing of poultrymeat and poultrymeat preparations in a fresh, frozen or quick-frozen condition. |
+| **Relevant provision of the Single CMO Regulation or Regulation (EU) 2013[^c-37f352746e4406450d1153283df3541d]** | ***Provisions to be read with the provisions of the Single CMO Regulation or Regulation (EU) 2013[^c-75030d47d6afea27995a58d41cc42d9f] mentioned in column 1*** | ***Subject matter*** |
+| Article 74 of Regulation (EU) 2013[^c-2b2b05394d608cf3c8cf32a680bd6aca] , insofar as it relates to the marketing of poultrymeat | Article 116 and Part B(I)(2) and (3) and (III)(1) of the Annex XIV to the Single CMO Regulation and Part V of Annex VII to Regulation (EU) 2013[^c-d446b0a00b87934ab25ff362c15c50a8] and the Commission Regulation | Prohibition on the marketing of poultrymeat except in accordance with the marketing standards laid down in Part B(I)(2) and(3) and (III(I) of Annex XIV to the Single CMO Regulation and Part V of Annex VII to Regulation (EU) 2013[^c-41ae04511be7f9df74f3c931446d9351] and the Commission Regulation. |
+| Point III(1) of Part B of Annex XIV to the Single CMO Regulation[^c-beab504b1ac52bc99e6809c3602a69a9] | Article 7 of the Commission Regulation | Quality grading. |
+| point III of Part V of Annex VII to Regulation (EU) 2013[^c-f1259107c54772820c87922112a25349] | Regulation 4 of these Regulations and Point II(2) of Part V of Annex VII to Regulation (EU) 2013[^c-250ac92beffadeb2939724b79adc982a] in relation to fresh poultrymeat<br>Point II(3) of Part B of Annex XIV to the Single CMO Regulation in relation to frozen poultrymeat<br>Point II(4) of Part V of Annex VII to Regulation (EU) 2013 in relation to quick-frozen poultrymeat Point II(6) of Part B of Annex XIV to the Single CMO Regulation in relation to fresh poultrymeat preparation | Marketing of poultrymeat and poultrymeat preparations in a fresh, frozen or quick-frozen condition. |
 
-### PART 2 — PROVISIONS OF THE COMMISSION REGULATION[^key-7b2b71ae920590d5b0e5c4f1380b5e1c]
+### PART 2 — PROVISIONS OF THE COMMISSION REGULATION[^c-7b2b71ae920590d5b0e5c4f1380b5e1c]
 
 <table>
 <tbody>
@@ -584,9 +584,9 @@ Regulation 2(1)
 </tbody>
 </table>
 
-[^key-187eef84340b6837a961753b3620d382][^key-18288084c3c408735024692bdc9cf461]
+[^c-187eef84340b6837a961753b3620d382][^c-18288084c3c408735024692bdc9cf461]
 
-## SCHEDULE 2 — PROVISIONS OF THE COMMISSION REGULATION, CONTRAVENTION OF WHICH IS AN OFFENCE[^key-497297b3c6a8202bf327f06c6f6278d9]
+## SCHEDULE 2 — PROVISIONS OF THE COMMISSION REGULATION, CONTRAVENTION OF WHICH IS AN OFFENCE[^c-497297b3c6a8202bf327f06c6f6278d9]
 
 Regulation 3
 
@@ -602,7 +602,7 @@ Regulation 3
 
 Regulation 8(3)
 
-**1.**[^key-d496fe774d46e1746ebd663476e42ee0] In this Schedule—
+**1.**[^c-d496fe774d46e1746ebd663476e42ee0] In this Schedule—
 
 - “Article 16(1) water content check” means a check of the type mentioned in the first sub-paragraph of Article 16(1) of the Commission Regulation;
 - “Article 16(2) water content check” means a check of the type mentioned in Article 16(2) of the Commission Regulation;
@@ -611,7 +611,7 @@ Regulation 8(3)
 - “Article 20(3) water content check” means a check of the type mentioned in Article 20(3) of the Commission Regulation; and
 - “Article 20(4) water content check” means a check of the type mentioned in second sub-paragraph of Article 16(3) of the Commission Regulation, as applying to poultry cuts by virtue of Article 20(4) of that Regulation.
 
-**2.**[^key-f91518361c3eba0916008b4ac1f6d624] The following table sets out the fees payable in respect of water content checks carried out by the Department—
+**2.**[^c-f91518361c3eba0916008b4ac1f6d624] The following table sets out the fees payable in respect of water content checks carried out by the Department—
 
 | ***Check*** | ***Fee (£)*** |
 | --- | --- |
@@ -622,7 +622,7 @@ Regulation 8(3)
 | Article 20(3) water content check | 207.02 |
 | Article 20(4) water content check | 207.02 |
 
-**3.**[^key-70fe407dc0a89df6d6728b683935e781] All fees payable under this Schedule shall be payable to the Department within 28 days of the Department giving an operator an invoice demanding the payment of the fee, beginning with the day on which the invoice is received.
+**3.**[^c-70fe407dc0a89df6d6728b683935e781] All fees payable under this Schedule shall be payable to the Department within 28 days of the Department giving an operator an invoice demanding the payment of the fee, beginning with the day on which the invoice is received.
 
 EXPLANATORY NOTE
 
@@ -654,132 +654,132 @@ Offences under the Regulations are punishable on summary conviction by a fine no
 
 [^f00005]: Footnote: O.J. No. L 31, 1.2.2002, p. 1, last amended by Regulation [(EC) No. 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) (O.J. No. L 188, 18.7.2009, p. 14)
 
-[^key-fbfd2496c6c669570bb075338eaa676f]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2011/315) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+[^c-fbfd2496c6c669570bb075338eaa676f]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2011/315) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
 
 [^f00006]: Footnote: Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51)
 
-[^key-1125ff3f111c8f14b671f49776106817]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2011/315/regulation/1) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-1125ff3f111c8f14b671f49776106817]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2011/315/regulation/1) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
-[^key-5d64e786286196ff882dbce7299af372]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/2) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(2)(a)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/2/a)
+[^c-5d64e786286196ff882dbce7299af372]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/2) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(2)(a)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/2/a)
 
-[^key-8f54489607b8690799c1fabd5d908191]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/2) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(2)(b)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/2/b)
+[^c-8f54489607b8690799c1fabd5d908191]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/2) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(2)(b)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/2/b)
 
-[^key-8d0d61652f47d0521dd7e212f5ed3264]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/315/regulation/2) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-8d0d61652f47d0521dd7e212f5ed3264]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/315/regulation/2) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
-[^key-f8660355a9c7005dafe7d9760bb22b80]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/2/1) inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(3)(a)(i)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/3/a/i)
+[^c-f8660355a9c7005dafe7d9760bb22b80]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/2/1) inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(3)(a)(i)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/3/a/i)
 
 [^f00007]: Footnote: [S.I. 1991/762 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by [S.I. 1996/1633 (N.I. 12)](https://www.legislation.gov.uk/nisi/1996/1633) and [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28)
 
-[^key-9050d91dba4e0bbb8b563d88b6ee8320]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/2/1) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/3/a/ii)
+[^c-9050d91dba4e0bbb8b563d88b6ee8320]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/2/1) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/3/a/ii)
 
-[^key-b3762fd1eefbd232a7a389983fc035cd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/2/1) inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(3)(a)(iii)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/3/a/iii)
+[^c-b3762fd1eefbd232a7a389983fc035cd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/2/1) inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(3)(a)(iii)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/3/a/iii)
 
-[^key-e12729f3172b8788bc26feb245972ab9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/2/1) added (6.3.2019) by [The Agriculture (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/11)](https://www.legislation.gov.uk/nisr/2019/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/11/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2019/11/regulation/3)
+[^c-e12729f3172b8788bc26feb245972ab9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/2/1) added (6.3.2019) by [The Agriculture (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/11)](https://www.legislation.gov.uk/nisr/2019/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/11/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2019/11/regulation/3)
 
-[^key-7f15f5e781d43b3f8326fbdf14c23330]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/nisr/2011/315/regulation/2/3) inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(3)(b)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/3/b)
+[^c-7f15f5e781d43b3f8326fbdf14c23330]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/nisr/2011/315/regulation/2/3) inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(3)(b)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/3/b)
 
 [^f00008]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-8fe52a26db4556fdbefb7b167ae63bba]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2011/315/regulation/2/5) inserted (19.11.2019) by [The Eggs and Chicks and Poultrymeat (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/210)](https://www.legislation.gov.uk/nisr/2019/210), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/210/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2019/210/regulation/3)
+[^c-8fe52a26db4556fdbefb7b167ae63bba]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2011/315/regulation/2/5) inserted (19.11.2019) by [The Eggs and Chicks and Poultrymeat (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/210)](https://www.legislation.gov.uk/nisr/2019/210), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/210/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2019/210/regulation/3)
 
-[^key-5b2cce508057672e01f1ef50fbb603e7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2011/315/regulation/3) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-5b2cce508057672e01f1ef50fbb603e7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2011/315/regulation/3) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
-[^key-20abb9eba966f146d8d2a8383df0d781]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2011/315/regulation/4) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-20abb9eba966f146d8d2a8383df0d781]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2011/315/regulation/4) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
 [^f00009]: Footnote: This derogates from the provisions of point II(2) of Part B of Annex XIV to the Single CMO Regulation
 
-[^key-2d3427294ad93231268e2c4d9e48452d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2011/315/regulation/5) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-2d3427294ad93231268e2c4d9e48452d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2011/315/regulation/5) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
-[^key-8740a56d6f2a5d3f4bc47a7714294967]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2011/315/regulation/6) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-8740a56d6f2a5d3f4bc47a7714294967]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2011/315/regulation/6) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
 [^f00010]: Footnote: [S.I.1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
 
-[^key-f516d4cac12aecb6a104962e48b04e2f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2011/315/regulation/7) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-f516d4cac12aecb6a104962e48b04e2f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2011/315/regulation/7) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
-[^key-48d50664d18c8f4686fb21611934ff6b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2011/315/regulation/8) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-48d50664d18c8f4686fb21611934ff6b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2011/315/regulation/8) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
-[^key-c3bed2b31b7883733f1cbb25dcd24787]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2011/315/regulation/9) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-c3bed2b31b7883733f1cbb25dcd24787]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2011/315/regulation/9) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
-[^key-9ac2379358dd4298ccdc3c44bfa56261]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2011/315/regulation/10) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-9ac2379358dd4298ccdc3c44bfa56261]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2011/315/regulation/10) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
-[^key-9d4760eff6c3545dcac3290d1d61bcf3]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2011/315/regulation/11) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-9d4760eff6c3545dcac3290d1d61bcf3]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2011/315/regulation/11) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
-[^key-6459d9d18340d75c7900b46442d6b625]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/nisr/2011/315/regulation/11/2) substituted (31.12.2020) by [The Agriculture, Food and Horse (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/347)](https://www.legislation.gov.uk/uksi/2019/347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/347/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2019/347/regulation/6/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6459d9d18340d75c7900b46442d6b625]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/nisr/2011/315/regulation/11/2) substituted (31.12.2020) by [The Agriculture, Food and Horse (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/347)](https://www.legislation.gov.uk/uksi/2019/347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/347/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2019/347/regulation/6/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-150ba2dcdc97a054c9e3f55809a9c1ff]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2011/315/regulation/12) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-150ba2dcdc97a054c9e3f55809a9c1ff]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2011/315/regulation/12) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
-[^key-415371202facc3771631e0f365167342]: Textual amendment: [Reg. 12(12)](https://www.legislation.gov.uk/nisr/2011/315/regulation/12/12) omitted (31.12.2020) by virtue of [The Agriculture, Food and Horse (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/347)](https://www.legislation.gov.uk/uksi/2019/347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/347/regulation/1), [6(4)(b)](https://www.legislation.gov.uk/uksi/2019/347/regulation/6/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-415371202facc3771631e0f365167342]: Textual amendment: [Reg. 12(12)](https://www.legislation.gov.uk/nisr/2011/315/regulation/12/12) omitted (31.12.2020) by virtue of [The Agriculture, Food and Horse (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/347)](https://www.legislation.gov.uk/uksi/2019/347), [regs. 1](https://www.legislation.gov.uk/uksi/2019/347/regulation/1), [6(4)(b)](https://www.legislation.gov.uk/uksi/2019/347/regulation/6/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-43f032027ce8916531b5e8f04328d7a8]: Textual amendment: Words in [reg. 12(13)](https://www.legislation.gov.uk/nisr/2011/315/regulation/12/13) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(4)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/4)
+[^c-43f032027ce8916531b5e8f04328d7a8]: Textual amendment: Words in [reg. 12(13)](https://www.legislation.gov.uk/nisr/2011/315/regulation/12/13) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(4)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/4)
 
-[^key-cd5b3580b19ff9f09d388711afcdee72]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2011/315/regulation/13) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-cd5b3580b19ff9f09d388711afcdee72]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2011/315/regulation/13) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
-[^key-6c9098feac706f834db2cf05d72f9dd6]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2011/315/regulation/14) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-6c9098feac706f834db2cf05d72f9dd6]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2011/315/regulation/14) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
-[^key-92f54b0c58d6526062b312c873d50667]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2011/315/regulation/15) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-92f54b0c58d6526062b312c873d50667]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2011/315/regulation/15) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
-[^key-a6e609c988402e6f9f14a6e6b50ef37b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2011/315/regulation/16) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-a6e609c988402e6f9f14a6e6b50ef37b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2011/315/regulation/16) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
-[^key-77aa38d4d075e543cfb0242e3b67d657]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2011/315/regulation/17) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-77aa38d4d075e543cfb0242e3b67d657]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2011/315/regulation/17) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
-[^key-738f5be02c658f005eb1e8b925aa8dcd]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2011/315/regulation/18) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-738f5be02c658f005eb1e8b925aa8dcd]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2011/315/regulation/18) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
-[^key-99677295fff070da2e01520245328a6d]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2011/315/regulation/19) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-99677295fff070da2e01520245328a6d]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2011/315/regulation/19) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
-[^key-16fff8f91940afe7bcab15b4184918de]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2011/315/regulation/20) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-16fff8f91940afe7bcab15b4184918de]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2011/315/regulation/20) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
-[^key-0d70b6857e4b443062a88ca5abb3d2d1]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2011/315/regulation/21) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-0d70b6857e4b443062a88ca5abb3d2d1]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2011/315/regulation/21) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
-[^key-daceecacf8e6e895ab3e831f72d3431c]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2011/315/regulation/22) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-daceecacf8e6e895ab3e831f72d3431c]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2011/315/regulation/22) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
-[^key-bb7145c5fdbd1ab19742024e9137ac50]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2011/315/regulation/23) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-bb7145c5fdbd1ab19742024e9137ac50]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2011/315/regulation/23) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
-[^key-f196a5d7525f3c493090f275d61363d6]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2011/315/regulation/24) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-f196a5d7525f3c493090f275d61363d6]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2011/315/regulation/24) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
 [^f00011]: Footnote: [2001 c. 9 (N.I.)](https://www.legislation.gov.uk/nia/2001/9); section 4(1) was amended by section 406(1) and paragraph 170 of Schedule 17 of the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21)
 
-[^key-7c70fefc4193447e21d3f8506ec9805b]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2011/315/regulation/25) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-7c70fefc4193447e21d3f8506ec9805b]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2011/315/regulation/25) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
-[^key-ff8a054bbacc92c2a6139b659e675b6c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2011/315/regulation/26) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-ff8a054bbacc92c2a6139b659e675b6c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2011/315/regulation/26) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
 [^f00012]: Footnote: [S.R. 1991 No. 198](https://www.legislation.gov.uk/nisr/1991/198)
 
 [^f00013]: Footnote: [S.R. 1982 No. 386](https://www.legislation.gov.uk/nisr/1982/386)
 
-[^key-1dfbff69a518b5d09ebdf56294f697a2]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2011/315/regulation/27) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-1dfbff69a518b5d09ebdf56294f697a2]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2011/315/regulation/27) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
 [^f00014]: Footnote: [S.R. 1991 No. 203](https://www.legislation.gov.uk/nisr/1991/203)
 
-[^key-0bea6680add71c0c58b163a5a7efe29d]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2011/315/schedule/1/part/1) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-0bea6680add71c0c58b163a5a7efe29d]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2011/315/schedule/1/part/1) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
-[^key-0a0c565de6f541b6545e2d9df5f07e68]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2011/315/schedule/1/part/1) heading inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(5)(a)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/5/a)
+[^c-0a0c565de6f541b6545e2d9df5f07e68]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2011/315/schedule/1/part/1) heading inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(5)(a)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/5/a)
 
-[^key-37f352746e4406450d1153283df3541d]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2011/315/schedule/1/part/1) table substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(5)(b)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/5/b)
+[^c-37f352746e4406450d1153283df3541d]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2011/315/schedule/1/part/1) table substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(5)(b)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/5/b)
 
-[^key-75030d47d6afea27995a58d41cc42d9f]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2011/315/schedule/1/part/1) table inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(5)(c)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/5/c)
+[^c-75030d47d6afea27995a58d41cc42d9f]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2011/315/schedule/1/part/1) table inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(5)(c)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/5/c)
 
-[^key-2b2b05394d608cf3c8cf32a680bd6aca]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2011/315/schedule/1/part/1) table substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(5)(d)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/5/d)
+[^c-2b2b05394d608cf3c8cf32a680bd6aca]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2011/315/schedule/1/part/1) table substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(5)(d)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/5/d)
 
-[^key-d446b0a00b87934ab25ff362c15c50a8]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2011/315/schedule/1/part/1) table substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(5)(e)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/5/e)
+[^c-d446b0a00b87934ab25ff362c15c50a8]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2011/315/schedule/1/part/1) table substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(5)(e)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/5/e)
 
-[^key-41ae04511be7f9df74f3c931446d9351]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2011/315/schedule/1/part/1) table substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(5)(f)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/5/f)
+[^c-41ae04511be7f9df74f3c931446d9351]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2011/315/schedule/1/part/1) table substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(5)(f)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/5/f)
 
-[^key-beab504b1ac52bc99e6809c3602a69a9]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2011/315/schedule/1/part/1) table inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(5)(g)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/5/g)
+[^c-beab504b1ac52bc99e6809c3602a69a9]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2011/315/schedule/1/part/1) table inserted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(5)(g)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/5/g)
 
-[^key-f1259107c54772820c87922112a25349]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2011/315/schedule/1/part/1) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(5)(h)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/5/h)
+[^c-f1259107c54772820c87922112a25349]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2011/315/schedule/1/part/1) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(5)(h)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/5/h)
 
-[^key-250ac92beffadeb2939724b79adc982a]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2011/315/schedule/1/part/1) table substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(5)(i)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/5/i)
+[^c-250ac92beffadeb2939724b79adc982a]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2011/315/schedule/1/part/1) table substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(5)(i)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/5/i)
 
-[^key-7b2b71ae920590d5b0e5c4f1380b5e1c]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2011/315/schedule/1/part/2) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-7b2b71ae920590d5b0e5c4f1380b5e1c]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2011/315/schedule/1/part/2) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
-[^key-187eef84340b6837a961753b3620d382]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2011/315/schedule/1/part/2) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(6)(a)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/6/a)
+[^c-187eef84340b6837a961753b3620d382]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2011/315/schedule/1/part/2) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(6)(a)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/6/a)
 
-[^key-18288084c3c408735024692bdc9cf461]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2011/315/schedule/1/part/2) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(6)(b)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/6/b)
+[^c-18288084c3c408735024692bdc9cf461]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2011/315/schedule/1/part/2) substituted (21.3.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/92)](https://www.legislation.gov.uk/nisr/2014/92), [regs. 1](https://www.legislation.gov.uk/nisr/2014/92/regulation/1), [9(6)(b)](https://www.legislation.gov.uk/nisr/2014/92/regulation/9/6/b)
 
-[^key-497297b3c6a8202bf327f06c6f6278d9]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2011/315/schedule/2) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-497297b3c6a8202bf327f06c6f6278d9]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2011/315/schedule/2) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
-[^key-d496fe774d46e1746ebd663476e42ee0]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2011/315/schedule/3/paragraph/1) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-d496fe774d46e1746ebd663476e42ee0]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2011/315/schedule/3/paragraph/1) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
-[^key-f91518361c3eba0916008b4ac1f6d624]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2011/315/schedule/3/paragraph/2) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-f91518361c3eba0916008b4ac1f6d624]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2011/315/schedule/3/paragraph/2) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
 
-[^key-70fe407dc0a89df6d6728b683935e781]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2011/315/schedule/3/paragraph/3) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)
+[^c-70fe407dc0a89df6d6728b683935e781]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2011/315/schedule/3/paragraph/3) in operation at 14.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/315/regulation/1/1)

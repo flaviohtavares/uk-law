@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Bulk supplies[^key-faf22172c16b9dcda05d28e9fffd33ac]
+## 31. Bulk supplies[^c-faf22172c16b9dcda05d28e9fffd33ac]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-faf22172c16b9dcda05d28e9fffd33ac]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2003/37/section/31) in force at 1.10.2004 by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(c)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
+[^c-faf22172c16b9dcda05d28e9fffd33ac]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2003/37/section/31) in force at 1.10.2004 by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(c)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))

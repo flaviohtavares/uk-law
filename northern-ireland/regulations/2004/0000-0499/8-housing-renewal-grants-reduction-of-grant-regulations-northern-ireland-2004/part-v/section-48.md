@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Disregard of contribution[^key-93733224039198415f85a64c47b91e46]
+## 48. Disregard of contribution[^c-93733224039198415f85a64c47b91e46]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Where the relevant person or his partner is a student and the income of one is t
 
 ## Annotations
 
-[^key-93733224039198415f85a64c47b91e46]: Commencement: Reg. 48 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-93733224039198415f85a64c47b91e46]: Commencement: Reg. 48 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)

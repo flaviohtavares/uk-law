@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Compulsory acquisition of land[^key-eb0e098b61f5daa36f655627f2b3b052]
+## 24. Compulsory acquisition of land[^c-eb0e098b61f5daa36f655627f2b3b052]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ but the undertaker may acquire by agreement any part of those lands, or any righ
 
 ## Annotations
 
-[^key-eb0e098b61f5daa36f655627f2b3b052]: Commencement: Art. 24 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-eb0e098b61f5daa36f655627f2b3b052]: Commencement: Art. 24 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 214. Costs of officers charged with executions of writs or other process[^key-fcd132d1d6562f14f8a251e7842a12f9]
+## 214. Costs of officers charged with executions of writs or other process[^c-fcd132d1d6562f14f8a251e7842a12f9]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fcd132d1d6562f14f8a251e7842a12f9]: Commencement: Rule 214 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-fcd132d1d6562f14f8a251e7842a12f9]: Commencement: Rule 214 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00072]: Footnote: Paragraph (1) was amended by [S.I. 2005/527](https://www.legislation.gov.uk/uksi/2005/527).

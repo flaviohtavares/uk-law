@@ -26,29 +26,29 @@ Section 47
 
 **1.** ICTA is amended as follows.
 
-**2.**[^key-1f55641341c2529cb911d18270624ba7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1f55641341c2529cb911d18270624ba7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1f55641341c2529cb911d18270624ba7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1f55641341c2529cb911d18270624ba7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ac55deacc58ffe410f311ea573ab72a3] Omit sections 730A and 730B (treatment of price differential on sale and repurchase of securities).
+**4.**[^c-ac55deacc58ffe410f311ea573ab72a3] Omit sections 730A and 730B (treatment of price differential on sale and repurchase of securities).
 
-**5.**[^key-8754841110a1f897f00d1b2e6aa0262c] Omit section 730BB (exchange gains and losses on sale and repurchase of securities).
+**5.**[^c-8754841110a1f897f00d1b2e6aa0262c] Omit section 730BB (exchange gains and losses on sale and repurchase of securities).
 
-**6.**[^key-4320ed92171bfc782c76c283f566ac1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-4320ed92171bfc782c76c283f566ac1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-940fc989638e6377a1f53fc19b4bf1e0] Omit sections 737A to 737C (sale and repurchase of securities: deemed manufactured payments).
+**7.**[^c-940fc989638e6377a1f53fc19b4bf1e0] Omit sections 737A to 737C (sale and repurchase of securities: deemed manufactured payments).
 
-**8.**[^key-013f0e358a9cac6e4eb15b75cfa5d15a] Omit section 737E (power to modify sections 730A, 730BB and 737A to 737C).
+**8.**[^c-013f0e358a9cac6e4eb15b75cfa5d15a] Omit section 737E (power to modify sections 730A, 730BB and 737A to 737C).
 
-**9.**[^key-534f5a9b8ff137900f1b9c9fa12db43f][^key-c14cbca83a15188e7ac9486c03dd5a0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-534f5a9b8ff137900f1b9c9fa12db43f][^c-c14cbca83a15188e7ac9486c03dd5a0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-0484f221f6fd896672217f686353ddfd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-0484f221f6fd896672217f686353ddfd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Taxation of Chargeable Gains Act 1992 (c. 12)
 
 **11.** TCGA 1992 is amended as follows.
 
-**12.**[^key-63a19e305ee85ea550e5d414b68434fc] (1) Section 263A (agreements for sale and repurchase of securities) is amended as follows.
+**12.**[^c-63a19e305ee85ea550e5d414b68434fc] (1) Section 263A (agreements for sale and repurchase of securities) is amended as follows.
 
 (2) In subsection (1), for the words from the beginning to “were different” substitute “ Subject to subsections (3) and (4) below, in any case falling within section 607(1) of ITA 2007 (treatment of price differences under repos) ”.
 
@@ -68,7 +68,7 @@ Section 47
 
 (6) The heading accordingly becomes “ **Agreements for sale and repurchase of securities: capital gains tax** ”.
 
-**13.**[^key-31e5157da546bdd3822e19b60a84a8f3] (1) For paragraph 12 of Schedule 7AC substitute—
+**13.**[^c-31e5157da546bdd3822e19b60a84a8f3] (1) For paragraph 12 of Schedule 7AC substitute—
 
 > **12.** (1) This paragraph applies where—
 >
@@ -93,19 +93,19 @@ Section 47
 
 ### Finance Act 1996 (c. 8)
 
-**14.**[^key-d981440ebf115a15fce59480264eded3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-d981440ebf115a15fce59480264eded3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-d981440ebf115a15fce59480264eded3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-d981440ebf115a15fce59480264eded3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-d981440ebf115a15fce59480264eded3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-d981440ebf115a15fce59480264eded3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-d981440ebf115a15fce59480264eded3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-d981440ebf115a15fce59480264eded3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-d981440ebf115a15fce59480264eded3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-d981440ebf115a15fce59480264eded3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Finance Act 1994 (c. 9)
 
-**19.**[^key-f28af5fa9c96766b0c451fab9a85bc9f] In section 229(1)(ca) of FA 1994 (Lloyd's corporate members: regulations), for sub-paragraph (ii) substitute—
+**19.**[^c-f28af5fa9c96766b0c451fab9a85bc9f] In section 229(1)(ca) of FA 1994 (Lloyd's corporate members: regulations), for sub-paragraph (ii) substitute—
 
 > - (ii) arrangements involving repos (within the meaning of paragraph 15 of Schedule 13 to the Finance Act 2007) or redemption arrangements (within the meaning of that paragraph);
 
@@ -113,48 +113,48 @@ Section 47
 
 ### Finance Act 2006 (c. 25)
 
-**20.**[^key-7c7f76092832a3584f44658c05fe90c0] In section 139 of FA 2006 (Real Estate Investment Trusts: manufactured dividends), omit subsection (5).
+**20.**[^c-7c7f76092832a3584f44658c05fe90c0] In section 139 of FA 2006 (Real Estate Investment Trusts: manufactured dividends), omit subsection (5).
 
 ### Income Tax Act 2007 (c. 3)
 
 **21.** ITA 2007 is amended as follows.
 
-**22.**[^key-9c5e2b30151bb9ed09d3c1c8f7e57923] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-9c5e2b30151bb9ed09d3c1c8f7e57923] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-9c5e2b30151bb9ed09d3c1c8f7e57923] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-9c5e2b30151bb9ed09d3c1c8f7e57923] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-040cd5852a8ce1d32dabc2722431dca0] In section 886(2) (interest paid by recognised clearing houses etc), after “repos)” insert “ , or paragraph 5 of Schedule 13 to FA 2007 (relief for borrower for finance charges in case of debtor repos and debtor quasi-repos), ”.
+**24.**[^c-040cd5852a8ce1d32dabc2722431dca0] In section 886(2) (interest paid by recognised clearing houses etc), after “repos)” insert “ , or paragraph 5 of Schedule 13 to FA 2007 (relief for borrower for finance charges in case of debtor repos and debtor quasi-repos), ”.
 
 ## Annotations
 
-[^key-1f55641341c2529cb911d18270624ba7]: Textual amendment: Sch. 14 paras. 2, 3 repealed (1.4.2010) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-1f55641341c2529cb911d18270624ba7]: Textual amendment: Sch. 14 paras. 2, 3 repealed (1.4.2010) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-ac55deacc58ffe410f311ea573ab72a3]: Commencement: Sch. 14 para. 4 in force at 1.10.2007 for the purposes of the amendments made by that paragraph, with effect in relation to an arrangement that comes into force on or after 1.10.2007 by [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 3](https://www.legislation.gov.uk/uksi/2007/2483/article/3)
+[^c-ac55deacc58ffe410f311ea573ab72a3]: Commencement: Sch. 14 para. 4 in force at 1.10.2007 for the purposes of the amendments made by that paragraph, with effect in relation to an arrangement that comes into force on or after 1.10.2007 by [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 3](https://www.legislation.gov.uk/uksi/2007/2483/article/3)
 
-[^key-8754841110a1f897f00d1b2e6aa0262c]: Commencement: Sch. 14 para. 5 in force at 1.10.2007 for the purposes of the amendment made by that paragraph, with effect in relation to an arrangement that comes into force on or after 1.10.2007 by [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 3](https://www.legislation.gov.uk/uksi/2007/2483/article/3)
+[^c-8754841110a1f897f00d1b2e6aa0262c]: Commencement: Sch. 14 para. 5 in force at 1.10.2007 for the purposes of the amendment made by that paragraph, with effect in relation to an arrangement that comes into force on or after 1.10.2007 by [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 3](https://www.legislation.gov.uk/uksi/2007/2483/article/3)
 
-[^key-4320ed92171bfc782c76c283f566ac1c]: Textual amendment: Sch. 14 para. 6 omitted (with effect in accordance with s. 66(8) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 66(4)(m)](https://www.legislation.gov.uk/ukpga/2008/9/section/66/4/m)
+[^c-4320ed92171bfc782c76c283f566ac1c]: Textual amendment: Sch. 14 para. 6 omitted (with effect in accordance with s. 66(8) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 66(4)(m)](https://www.legislation.gov.uk/ukpga/2008/9/section/66/4/m)
 
-[^key-940fc989638e6377a1f53fc19b4bf1e0]: Commencement: Sch. 14 para. 7 in force at 1.10.2007 for the purposes of the amendments made by that paragraph, with effect in relation to an arrangement that comes into force on or after 1.10.2007 by [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 3](https://www.legislation.gov.uk/uksi/2007/2483/article/3)
+[^c-940fc989638e6377a1f53fc19b4bf1e0]: Commencement: Sch. 14 para. 7 in force at 1.10.2007 for the purposes of the amendments made by that paragraph, with effect in relation to an arrangement that comes into force on or after 1.10.2007 by [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 3](https://www.legislation.gov.uk/uksi/2007/2483/article/3)
 
-[^key-013f0e358a9cac6e4eb15b75cfa5d15a]: Commencement: Sch. 14 para. 8 in force at 1.10.2007 for the purposes of the amendment made by that paragraph, with effect in relation to an arrangement that comes into force on or after 1.10.2007 by [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 3](https://www.legislation.gov.uk/uksi/2007/2483/article/3)
+[^c-013f0e358a9cac6e4eb15b75cfa5d15a]: Commencement: Sch. 14 para. 8 in force at 1.10.2007 for the purposes of the amendment made by that paragraph, with effect in relation to an arrangement that comes into force on or after 1.10.2007 by [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 3](https://www.legislation.gov.uk/uksi/2007/2483/article/3)
 
-[^key-534f5a9b8ff137900f1b9c9fa12db43f]: Textual amendment: Sch. 14 para. 9 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-534f5a9b8ff137900f1b9c9fa12db43f]: Textual amendment: Sch. 14 para. 9 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-c14cbca83a15188e7ac9486c03dd5a0b]: Textual amendment: Sch. 14 para. 9 repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 10](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/10) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-c14cbca83a15188e7ac9486c03dd5a0b]: Textual amendment: Sch. 14 para. 9 repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 10](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/10) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-0484f221f6fd896672217f686353ddfd]: Textual amendment: Sch. 14 para. 10 repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-0484f221f6fd896672217f686353ddfd]: Textual amendment: Sch. 14 para. 10 repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-63a19e305ee85ea550e5d414b68434fc]: Commencement: Sch. 14 para. 12 in force at 1.10.2007 for the purposes of the amendments made by that paragraph, with effect in relation to an arrangement that comes into force on or after 1.10.2007 by [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 3](https://www.legislation.gov.uk/uksi/2007/2483/article/3)
+[^c-63a19e305ee85ea550e5d414b68434fc]: Commencement: Sch. 14 para. 12 in force at 1.10.2007 for the purposes of the amendments made by that paragraph, with effect in relation to an arrangement that comes into force on or after 1.10.2007 by [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 3](https://www.legislation.gov.uk/uksi/2007/2483/article/3)
 
-[^key-31e5157da546bdd3822e19b60a84a8f3]: Commencement: Sch. 14 para. 13 in force at 1.10.2007 for the purposes of the amendments made by that paragraph, with effect in relation to an arrangement that comes into force on or after 1.10.2007 by [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 3](https://www.legislation.gov.uk/uksi/2007/2483/article/3)
+[^c-31e5157da546bdd3822e19b60a84a8f3]: Commencement: Sch. 14 para. 13 in force at 1.10.2007 for the purposes of the amendments made by that paragraph, with effect in relation to an arrangement that comes into force on or after 1.10.2007 by [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 3](https://www.legislation.gov.uk/uksi/2007/2483/article/3)
 
-[^key-d981440ebf115a15fce59480264eded3]: Textual amendment: Sch. 14 paras. 14-18 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-d981440ebf115a15fce59480264eded3]: Textual amendment: Sch. 14 paras. 14-18 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-f28af5fa9c96766b0c451fab9a85bc9f]: Commencement: Sch. 14 para. 19 in force at 1.10.2007 for the purposes of the amendment made by that paragraph, with effect in relation to an arrangement that comes into force on or after 1.10.2007 by [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 3](https://www.legislation.gov.uk/uksi/2007/2483/article/3)
+[^c-f28af5fa9c96766b0c451fab9a85bc9f]: Commencement: Sch. 14 para. 19 in force at 1.10.2007 for the purposes of the amendment made by that paragraph, with effect in relation to an arrangement that comes into force on or after 1.10.2007 by [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 3](https://www.legislation.gov.uk/uksi/2007/2483/article/3)
 
-[^key-7c7f76092832a3584f44658c05fe90c0]: Commencement: Sch. 14 para. 20 in force at 1.10.2007 for the purposes of the amendment made by that paragraph, with effect in relation to an arrangement that comes into force on or after 1.10.2007 by [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 3](https://www.legislation.gov.uk/uksi/2007/2483/article/3)
+[^c-7c7f76092832a3584f44658c05fe90c0]: Commencement: Sch. 14 para. 20 in force at 1.10.2007 for the purposes of the amendment made by that paragraph, with effect in relation to an arrangement that comes into force on or after 1.10.2007 by [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 3](https://www.legislation.gov.uk/uksi/2007/2483/article/3)
 
-[^key-9c5e2b30151bb9ed09d3c1c8f7e57923]: Textual amendment: Sch. 14 paras. 22, 23 omitted (with effect in accordance with Sch. 12 para. 18(1) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 12 para. 14](https://www.legislation.gov.uk/ukpga/2013/29/schedule/12/paragraph/14)
+[^c-9c5e2b30151bb9ed09d3c1c8f7e57923]: Textual amendment: Sch. 14 paras. 22, 23 omitted (with effect in accordance with Sch. 12 para. 18(1) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 12 para. 14](https://www.legislation.gov.uk/ukpga/2013/29/schedule/12/paragraph/14)
 
-[^key-040cd5852a8ce1d32dabc2722431dca0]: Commencement: Sch. 14 para. 24 in force at 1.10.2007 for the purposes of the amendment made by that paragraph, with effect in relation to an arrangement that comes into force on or after 1.10.2007 by [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 3](https://www.legislation.gov.uk/uksi/2007/2483/article/3)
+[^c-040cd5852a8ce1d32dabc2722431dca0]: Commencement: Sch. 14 para. 24 in force at 1.10.2007 for the purposes of the amendment made by that paragraph, with effect in relation to an arrangement that comes into force on or after 1.10.2007 by [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 3](https://www.legislation.gov.uk/uksi/2007/2483/article/3)

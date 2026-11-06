@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Armed Forces Code of Practice for Victims of Crime[^key-423518ea1c85c6615b6aa5c65ab1ecfe]
+## 2. Armed Forces Code of Practice for Victims of Crime[^c-423518ea1c85c6615b6aa5c65ab1ecfe]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The code of practice entitled “The Armed Forces Code of Practice for Victims o
 
 ## Annotations
 
-[^key-423518ea1c85c6615b6aa5c65ab1ecfe]: Commencement: Reg. 2 in force at 16.11.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1811/regulation/1)
+[^c-423518ea1c85c6615b6aa5c65ab1ecfe]: Commencement: Reg. 2 in force at 16.11.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1811/regulation/1)

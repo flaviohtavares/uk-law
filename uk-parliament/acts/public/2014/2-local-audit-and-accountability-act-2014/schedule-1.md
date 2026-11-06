@@ -26,7 +26,7 @@ Section 1
 
 #### Transfer of property, rights and liabilities
 
-**1.**[^key-972c2f40af60840b0c76b6a55f47204c] (1) The Secretary of State may make one or more schemes for the transfer of property, rights and liabilities of the Audit Commission to a person or persons specified in the scheme.
+**1.**[^c-972c2f40af60840b0c76b6a55f47204c] (1) The Secretary of State may make one or more schemes for the transfer of property, rights and liabilities of the Audit Commission to a person or persons specified in the scheme.
 
 (2) The things that may be transferred under a transfer scheme include—
 
@@ -56,11 +56,11 @@ Section 1
 
 #### Reduction in membership pending abolition
 
-**2.**[^key-c077ed25d73171a777b9e2dfeeee6dd9] Until the coming into force of section 1, in section 1(2) of the Audit Commission Act 1998 (Audit Commission to consist of not less than 10 nor more than 15 members) there is omitted the words “less than 10 nor”.
+**2.**[^c-c077ed25d73171a777b9e2dfeeee6dd9] Until the coming into force of section 1, in section 1(2) of the Audit Commission Act 1998 (Audit Commission to consist of not less than 10 nor more than 15 members) there is omitted the words “less than 10 nor”.
 
 #### Final accounts
 
-**3.**[^key-39cab9d3fb42f49c85c5e06dcc80ed6c] (1) As soon as is reasonably practicable after the abolition date, the Secretary of State must prepare—
+**3.**[^c-39cab9d3fb42f49c85c5e06dcc80ed6c] (1) As soon as is reasonably practicable after the abolition date, the Secretary of State must prepare—
 
 - (a) a statement of account for the Audit Commission for the last financial year to end before the abolition date, and
 - (b) a statement of account for the Audit Commission for the period (if any) beginning immediately after the end of that financial year and ending immediately before the abolition date.
@@ -82,7 +82,7 @@ Section 1
 
 #### Final annual report
 
-**4.**[^key-8a131869004f97ef167540ed97669134] (1) As soon as is reasonably practicable after the abolition date, the Secretary of State must publish a report on the discharge of the functions of the Audit Commission.
+**4.**[^c-8a131869004f97ef167540ed97669134] (1) As soon as is reasonably practicable after the abolition date, the Secretary of State must publish a report on the discharge of the functions of the Audit Commission.
 
 (2) The report must relate to the period—
 
@@ -95,16 +95,16 @@ Section 1
 
 #### Payments in respect of pension liabilities
 
-**5.**[^key-2849cb0bacc5e02876aafb88a9fb921b] The Secretary of State may make payments to any person to enable that person to meet—
+**5.**[^c-2849cb0bacc5e02876aafb88a9fb921b] The Secretary of State may make payments to any person to enable that person to meet—
 
 - (a) liabilities arising as the result of provision made under paragraph 5(2) of Schedule 1 to the Audit Commission Act 1998 for the payment of sums by way of pension, allowances or gratuities, or
 - (b) liabilities under the pension scheme established under paragraph 7(4)(c) of that Schedule.
 
 #### Meaning of “the abolition date”
 
-**6.**[^key-d146817390dd8356c00e0a2ebff42dfd] In this Schedule “**the abolition date**” means the date on which section 1(1) (abolition of Audit Commission) comes into force.
+**6.**[^c-d146817390dd8356c00e0a2ebff42dfd] In this Schedule “**the abolition date**” means the date on which section 1(1) (abolition of Audit Commission) comes into force.
 
-### Part 2 — Repeal of Audit Commission Act 1998: consequential repeals and revocations[^key-2654e71d5666c76e71e884783be5e945]
+### Part 2 — Repeal of Audit Commission Act 1998: consequential repeals and revocations[^c-2654e71d5666c76e71e884783be5e945]
 
 <table>
 <tbody>
@@ -164,16 +164,16 @@ Section 1
 
 ## Annotations
 
-[^key-972c2f40af60840b0c76b6a55f47204c]: Commencement: Sch. 1 para. 1 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2; (17.12.2018) by S.I. 2018/1369, art. 2; (16.12.2020) by S.I. 2020/1565, art. 2)
+[^c-972c2f40af60840b0c76b6a55f47204c]: Commencement: Sch. 1 para. 1 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2; (17.12.2018) by S.I. 2018/1369, art. 2; (16.12.2020) by S.I. 2020/1565, art. 2)
 
-[^key-c077ed25d73171a777b9e2dfeeee6dd9]: Commencement: Sch. 1 para. 2 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2; (17.12.2018) by S.I. 2018/1369, art. 2; (16.12.2020) by S.I. 2020/1565, art. 2)
+[^c-c077ed25d73171a777b9e2dfeeee6dd9]: Commencement: Sch. 1 para. 2 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2; (17.12.2018) by S.I. 2018/1369, art. 2; (16.12.2020) by S.I. 2020/1565, art. 2)
 
-[^key-39cab9d3fb42f49c85c5e06dcc80ed6c]: Commencement: Sch. 1 para. 3 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2; (17.12.2018) by S.I. 2018/1369, art. 2; (16.12.2020) by S.I. 2020/1565, art. 2)
+[^c-39cab9d3fb42f49c85c5e06dcc80ed6c]: Commencement: Sch. 1 para. 3 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2; (17.12.2018) by S.I. 2018/1369, art. 2; (16.12.2020) by S.I. 2020/1565, art. 2)
 
-[^key-8a131869004f97ef167540ed97669134]: Commencement: Sch. 1 para. 4 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2; (17.12.2018) by S.I. 2018/1369, art. 2; (16.12.2020) by S.I. 2020/1565, art. 2)
+[^c-8a131869004f97ef167540ed97669134]: Commencement: Sch. 1 para. 4 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2; (17.12.2018) by S.I. 2018/1369, art. 2; (16.12.2020) by S.I. 2020/1565, art. 2)
 
-[^key-2849cb0bacc5e02876aafb88a9fb921b]: Commencement: Sch. 1 para. 5 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2; (17.12.2018) by S.I. 2018/1369, art. 2; (16.12.2020) by S.I. 2020/1565, art. 2)
+[^c-2849cb0bacc5e02876aafb88a9fb921b]: Commencement: Sch. 1 para. 5 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2; (17.12.2018) by S.I. 2018/1369, art. 2; (16.12.2020) by S.I. 2020/1565, art. 2)
 
-[^key-d146817390dd8356c00e0a2ebff42dfd]: Commencement: Sch. 1 para. 6 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2; (17.12.2018) by S.I. 2018/1369, art. 2; (16.12.2020) by S.I. 2020/1565, art. 2)
+[^c-d146817390dd8356c00e0a2ebff42dfd]: Commencement: Sch. 1 para. 6 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2; (17.12.2018) by S.I. 2018/1369, art. 2; (16.12.2020) by S.I. 2020/1565, art. 2)
 
-[^key-2654e71d5666c76e71e884783be5e945]: Commencement: Sch. 1 Pt. 2 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2; (17.12.2018) by S.I. 2018/1369, art. 2; (16.12.2020) by S.I. 2020/1565, art. 2)
+[^c-2654e71d5666c76e71e884783be5e945]: Commencement: Sch. 1 Pt. 2 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2; (17.12.2018) by S.I. 2018/1369, art. 2; (16.12.2020) by S.I. 2020/1565, art. 2)

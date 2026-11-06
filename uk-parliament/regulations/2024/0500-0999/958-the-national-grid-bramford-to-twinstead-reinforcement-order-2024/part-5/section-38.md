@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Statutory authority to override easements and other rights[^key-8717d45936dc25d61bd29710c88383ce]
+## 38. Statutory authority to override easements and other rights[^c-8717d45936dc25d61bd29710c88383ce]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ authorised by virtue of this Order and the operation of section 158 of the 2008 
 
 ## Annotations
 
-[^key-8717d45936dc25d61bd29710c88383ce]: Commencement: Art. 38 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-8717d45936dc25d61bd29710c88383ce]: Commencement: Art. 38 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Power to require information[^key-38e25a61561b6df313c88923fea15c1c][^key-420b96582e3b0a105aabf9cdb22e984e]
+## 69. Power to require information[^c-38e25a61561b6df313c88923fea15c1c][^c-420b96582e3b0a105aabf9cdb22e984e]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-38e25a61561b6df313c88923fea15c1c]: Commencement: S. 69 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-38e25a61561b6df313c88923fea15c1c]: Commencement: S. 69 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-420b96582e3b0a105aabf9cdb22e984e]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2024/13/section/69) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-420b96582e3b0a105aabf9cdb22e984e]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2024/13/section/69) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

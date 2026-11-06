@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15A. Other functions of RBSO[^key-1a75ae4d13c9142859f2597f1fd910ac]
+## 15A. Other functions of RBSO[^c-1a75ae4d13c9142859f2597f1fd910ac]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a75ae4d13c9142859f2597f1fd910ac]: Textual amendment: [S. 15A](https://www.legislation.gov.uk/nia/2009/1/section/15A) inserted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [s. 2](https://www.legislation.gov.uk/nia/2014/5/section/2)
+[^c-1a75ae4d13c9142859f2597f1fd910ac]: Textual amendment: [S. 15A](https://www.legislation.gov.uk/nia/2009/1/section/15A) inserted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [s. 2](https://www.legislation.gov.uk/nia/2014/5/section/2)

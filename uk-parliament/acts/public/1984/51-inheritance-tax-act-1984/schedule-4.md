@@ -70,7 +70,7 @@ and where a trustee is a corporation, the question whether the trustee is reside
 
 - (a) it has been designated under section 34(1) of the [^c13616151]Finance Act 1975 or section 77(1)(b), (c), (d) or (e) of the [^c13616161]Finance Act 1976 or section 31(1)(b), (c), (d) or (e) of this Act; and
 - (b) the requisite undertaking has been given with respect to it under section 34 of the Finance Act 1975 or under section 76, 78(5)(b) or 82(3) of the Finance Act 1976 or under section 30, 32(5)(b), 32A(6), (8)(b) or (9)(b)[^c13616171] or 79(3) of this Act or paragraph 5 of Schedule 5 to this Act; and
-- (c) tax has not (since the last occasion on which such an undertaking was given) become chargeable with respect to it under the said section 34 or under section 78 or 82(3) of the Finance Act 1976 or under section 32, 32A or 79(3A)[^key-2ebab5855dcc9dce1cb18e19cf9d6b08] of this Act or paragraph 3 of Schedule 5 to this Act.
+- (c) tax has not (since the last occasion on which such an undertaking was given) become chargeable with respect to it under the said section 34 or under section 78 or 82(3) of the Finance Act 1976 or under section 32, 32A or 79(3A)[^c-2ebab5855dcc9dce1cb18e19cf9d6b08] of this Act or paragraph 3 of Schedule 5 to this Act.
 
 (3) If it appears to the Treasury that provision is, or is to be, made by a settlement for the maintenance, repair or preservation of any such property as is mentioned in subsection (1)(b), (c), (d) or (e) of section 31 of this Act they may, on a claim made for the purpose—
 
@@ -167,7 +167,7 @@ and the reference in sub-paragraph (2) above to the amount on which tax is charg
 - (a) before it last became property to which paragraph 8 above applies it was comprised in another settlement in which it was property to which that paragraph applies, and
 - (b) it ceased to be comprised in the other settlement and last became property to which that paragraph applies in circumstances such that by virtue of paragraph 9(1) above there was no charge (or, but for paragraph 9(4), there would have been no charge) to tax in respect of it.
 
-(8) Sub-paragraph (1) above shall not apply unless the person who becomes beneficially entitled to the property is a long-term UK resident[^key-70779b913725ef70d9d5a7118d9b3ff2] at the time when he becomes so entitled.
+(8) Sub-paragraph (1) above shall not apply unless the person who becomes beneficially entitled to the property is a long-term UK resident[^c-70779b913725ef70d9d5a7118d9b3ff2] at the time when he becomes so entitled.
 
 #### Rates of charge
 
@@ -226,7 +226,7 @@ and ending with the day before the event giving rise to the charge.
 
 (3) If the settlor died before 13th March 1975, the second rate is the effective rate at which tax would have been charged, on the amount on which it is chargeable (“the chargeable amount”), in accordance with the appropriate provision of section 7 of this Act if the settlor had died when the event occasioning the charge under paragraph 8 above occurred, the value transferred on his death had been equal to the amount on which estate duty was chargeable when he in fact died, and the chargeable amount had been added to that value and had formed the highest part of it.
 
-(2A)[^key-b4eaffbde0a28b5b37a46ccd1bce4122] In determining for the purposes of sub-paragraph (2) the effective rate or rates at which tax would have been charged on the amount in accordance with section 7(1), the effect of Schedule 1A (if it would have applied) is to be disregarded.
+(2A)[^c-b4eaffbde0a28b5b37a46ccd1bce4122] In determining for the purposes of sub-paragraph (2) the effective rate or rates at which tax would have been charged on the amount in accordance with section 7(1), the effect of Schedule 1A (if it would have applied) is to be disregarded.
 
 (4) Where, in the case of a settlement (“the current settlement”), tax is chargeable under paragraph 8 above in respect of property which—
 
@@ -350,7 +350,7 @@ and the references to the amount on which tax is charged are references to the a
 
 [^c13616171]: Textual amendment: Finance Act 1985 Sch. 26, para. 12,*in relation to events occurring after* 18*March* 1985.
 
-[^key-2ebab5855dcc9dce1cb18e19cf9d6b08]: Textual amendment: Words in Sch. 4 para. 3(2)(c) substituted (with effect in accordance with s. 12(9) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 12(8)(d)](https://www.legislation.gov.uk/ukpga/2015/33/section/12/8/d)
+[^c-2ebab5855dcc9dce1cb18e19cf9d6b08]: Textual amendment: Words in Sch. 4 para. 3(2)(c) substituted (with effect in accordance with s. 12(9) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 12(8)(d)](https://www.legislation.gov.uk/ukpga/2015/33/section/12/8/d)
 
 [^c13616231]: Marginal citation: [1982 c.39](https://www.legislation.gov.uk/ukpga/1982/39).
 
@@ -360,7 +360,7 @@ and the references to the amount on which tax is charged are references to the a
 
 [^c19781041]: Textual amendment: Words in Sch. 4 para. 10(1)(b) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [39(2)(b)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/39/2/b)
 
-[^key-70779b913725ef70d9d5a7118d9b3ff2]: Textual amendment: Words in [Sch. 4 para. 10(8)](https://www.legislation.gov.uk/ukpga/1984/51/schedule/4/paragraph/10/8) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 30](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/30), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
+[^c-70779b913725ef70d9d5a7118d9b3ff2]: Textual amendment: Words in [Sch. 4 para. 10(8)](https://www.legislation.gov.uk/ukpga/1984/51/schedule/4/paragraph/10/8) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 30](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/30), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
 
 [^c13616251]: Textual amendment: Finance Act 1986 Sch. 19, para. 38(1),*with effect from* 18*March* 1986.*Originally*
 
@@ -368,7 +368,7 @@ and the references to the amount on which tax is charged are references to the a
 
 [^c13616261]: Textual amendment: Finance Act 1986 Sch. 19, para. 38(2),*with effect from* 18*March* 1986.
 
-[^key-b4eaffbde0a28b5b37a46ccd1bce4122]: Textual amendment: Sch. 4 para. 14(2A) inserted (with effect in accordance with Sch. 33 para. 10(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 33 para. 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/33/paragraph/8)
+[^c-b4eaffbde0a28b5b37a46ccd1bce4122]: Textual amendment: Sch. 4 para. 14(2A) inserted (with effect in accordance with Sch. 33 para. 10(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 33 para. 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/33/paragraph/8)
 
 [^c13616291]: Textual amendment: Finance Act 1986 Sch. 19, para. 38(3),*with effect from* 18*March* 1986.*Originally*
 

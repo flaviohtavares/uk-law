@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Current system students[^key-b335287bd56578a76bb40481d6184283]
+## 37. Current system students[^c-b335287bd56578a76bb40481d6184283]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ The following grants are available to a current system student in connection wit
 
 ## Annotations
 
-[^key-b335287bd56578a76bb40481d6184283]: Commencement: Reg. 37 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-b335287bd56578a76bb40481d6184283]: Commencement: Reg. 37 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)

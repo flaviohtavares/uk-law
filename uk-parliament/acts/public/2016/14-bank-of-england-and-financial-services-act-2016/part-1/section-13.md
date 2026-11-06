@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Prudential Regulation Committee[^key-e2aca07ab2425fa41696b0f61d67ce8b]
+## 13. Prudential Regulation Committee[^c-e2aca07ab2425fa41696b0f61d67ce8b]
 
 *Extent: E+W+S+N.I.*
 
@@ -89,4 +89,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2aca07ab2425fa41696b0f61d67ce8b]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2016/14/section/13) in force at 1.3.2017 by [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/d)
+[^c-e2aca07ab2425fa41696b0f61d67ce8b]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2016/14/section/13) in force at 1.3.2017 by [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/d)

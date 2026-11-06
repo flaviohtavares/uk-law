@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 71. Performance of ecclesiastical duties during suspension or inhibition.[^key-db809c23f3c41318437bcda9b370bedf]
+## 71. Performance of ecclesiastical duties during suspension or inhibition.[^c-db809c23f3c41318437bcda9b370bedf]
 
 *Extent: E*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-db809c23f3c41318437bcda9b370bedf]: Modification: [S. 71](https://www.legislation.gov.uk/ukcm/1963/1/section/71) applied (with modifications) (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [ss. 35(1)](https://www.legislation.gov.uk/ukcm/2003/3/section/35/1), [48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-db809c23f3c41318437bcda9b370bedf]: Modification: [S. 71](https://www.legislation.gov.uk/ukcm/1963/1/section/71) applied (with modifications) (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [ss. 35(1)](https://www.legislation.gov.uk/ukcm/2003/3/section/35/1), [48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
 [^c1021391]: Textual amendment: Words substituted by [Endowments and Glebe Measure 1976 (No. 4)](https://www.legislation.gov.uk/ukcm/1976/4), [s. 49(2) Sch. 5 para. 2](https://www.legislation.gov.uk/ukcm/1976/4/section/49/2/schedule/5/paragraph/2)
 

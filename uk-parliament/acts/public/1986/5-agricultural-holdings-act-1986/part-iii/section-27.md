@@ -44,7 +44,7 @@ summary: ''
 
 the Tribunal may by order impose on the landlord a penalty of an amount not exceeding two years’ rent of the holding at the rate at which rent was payable immediately before the termination of the tenancy, or, where the notice to quit related to a part only of the holding, of an amount not exceeding the proportion of the said two years’ rent which it appears to the Tribunal is attributable to that part.
 
-(7) The Agricultural Land Tribunal[^key-1bc76564b921acaf638d24b5f49deef9] may, in proceedings under this section, by order provide for the payment by any party of such sum as the Agricultural Land Tribunal consider a reasonable contribution towards costs.
+(7) The Agricultural Land Tribunal[^c-1bc76564b921acaf638d24b5f49deef9] may, in proceedings under this section, by order provide for the payment by any party of such sum as the Agricultural Land Tribunal consider a reasonable contribution towards costs.
 
 (8) A penalty imposed under subsection (6) above shall be a debt due to the Crown and shall, when recovered, be paid into the Consolidated Fund.
 
@@ -54,4 +54,4 @@ the Tribunal may by order impose on the landlord a penalty of an amount not exce
 
 [^c10154381]: Modification: S. 27(1)(3) modified by [Opencast Coal Act 1958 (c. 69, SIF 86)](https://www.legislation.gov.uk/ukpga/1958/69), [s. 14(5)](https://www.legislation.gov.uk/ukpga/1958/69/section/14/5) as substituted by [Housing and Planning Act 1986 (c. 63, SIF 86)](https://www.legislation.gov.uk/ukpga/1986/63), [s. 39(3)](https://www.legislation.gov.uk/ukpga/1986/63/section/39/3), [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/1986/63/schedule/8/paragraph/5)
 
-[^key-1bc76564b921acaf638d24b5f49deef9]: Textual amendment: Words in s. 27(7) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 204](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/204) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-1bc76564b921acaf638d24b5f49deef9]: Textual amendment: Words in s. 27(7) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 204](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/204) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

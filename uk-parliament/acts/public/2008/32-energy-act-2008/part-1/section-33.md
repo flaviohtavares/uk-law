@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Enhanced petroleum recovery: power to make orders[^key-b401587c4d040e94b6f80a21ae7bdf3e]
+## 33. Enhanced petroleum recovery: power to make orders[^c-b401587c4d040e94b6f80a21ae7bdf3e]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 only in the circumstances specified by the Secretary of State by order.
 
-(1A)[^key-585d9b5f49dd2b16857a940a7d3bd9b1] Before making an order under subsection (1), the Secretary of State must consult the OGA.
+(1A)[^c-585d9b5f49dd2b16857a940a7d3bd9b1] Before making an order under subsection (1), the Secretary of State must consult the OGA.
 
 (2) Subsection (1) and orders made under it are without prejudice to Part 1 of the Petroleum Act 1998 (c. 17).
 
@@ -39,6 +39,6 @@ only in the circumstances specified by the Secretary of State by order.
 
 ## Annotations
 
-[^key-b401587c4d040e94b6f80a21ae7bdf3e]: Commencement: S. 33 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/ii)
+[^c-b401587c4d040e94b6f80a21ae7bdf3e]: Commencement: S. 33 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/ii)
 
-[^key-585d9b5f49dd2b16857a940a7d3bd9b1]: Textual amendment: [S. 33(1A)](https://www.legislation.gov.uk/ukpga/2008/32/section/33/1A) inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 61](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/61); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-585d9b5f49dd2b16857a940a7d3bd9b1]: Textual amendment: [S. 33(1A)](https://www.legislation.gov.uk/ukpga/2008/32/section/33/1A) inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 61](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/61); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)

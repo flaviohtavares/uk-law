@@ -55,11 +55,11 @@ And Whereas by section 179(1) and (2) of the Social Security Administration Act 
 
 Now therefore, Her Majesty, in pursuance of section 179(1) and (2) of the Social Security Administration Act 1992 and of all other powers enabling Her to do so, is pleased, by and with the advice of Her Privy Council, to order as follows:
 
-## 1. Citation and commencement[^key-c0944fc6e64254496b97c1b8529fa5af]
+## 1. Citation and commencement[^c-c0944fc6e64254496b97c1b8529fa5af]
 
 This Order may be cited as the Social Security (Norway) Order 2020 and comes into force on 1st January 2021.
 
-## 2. Modification of legislation and variation of the Principal Order[^key-27b389b2ef269c0327f3fbdac2bd6097]
+## 2. Modification of legislation and variation of the Principal Order[^c-27b389b2ef269c0327f3fbdac2bd6097]
 
 (1) Subject to paragraph (3), the legislation specified in paragraph (2) is modified, and the Principal Order is varied, to the extent required to give effect to the Principal Convention as amended by the Agreement set out in the Schedule to this Order, as it applies to England, Wales and Scotland.
 
@@ -79,11 +79,11 @@ This Order may be cited as the Social Security (Norway) Order 2020 and comes int
   - (ii) Regulation [(EC) No 987/2009](https://www.legislation.gov.uk/european/regulation/2009/0987) of the European Parliament and of the Council of 16 September 2009 laying down the procedure for implementing Regulation [(EC) No 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883) on the coordination of social security systems;
 - (k) regulations within the scope of section 179(5)[^f00019] of the Social Security Administration Act 1992.
 
-(3) Paragraph (1) does not modify legislation in so far as it would be within the legislative competence of the Scottish Parliament to make such modifications[^key-a1f85a9545ccfd187e20aed3659a7150]...[^f00020].
+(3) Paragraph (1) does not modify legislation in so far as it would be within the legislative competence of the Scottish Parliament to make such modifications[^c-a1f85a9545ccfd187e20aed3659a7150]...[^f00020].
 
-(4) Paragraph (1) also modifies Part 3[^key-a8d041b7a1ab10c04348c5432a8d3924] of the Social Security Contributions (Transfer of Functions, etc) (Northern Ireland) Order 1999 so far as such provision relates to Northern Ireland[^f00021].
+(4) Paragraph (1) also modifies Part 3[^c-a8d041b7a1ab10c04348c5432a8d3924] of the Social Security Contributions (Transfer of Functions, etc) (Northern Ireland) Order 1999 so far as such provision relates to Northern Ireland[^f00021].
 
-## 3. Revocations[^key-b6961ed19cde251da0d9124a88c36151]
+## 3. Revocations[^c-b6961ed19cde251da0d9124a88c36151]
 
 The Social Security (Norway) Order 1992[^f00022] is revoked[^f00023].
 
@@ -91,7 +91,7 @@ Richard Tilbrook
 
 Clerk of the Privy Council
 
-## SCHEDULE — Exchange of Letters between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Kingdom of Norway for the continued application and amendment of the Convention on Social Security between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Kingdom of Norway, and the Protocol concerning Medical Treatment, done at Oslo on 19 June 1990[^key-e0b3b80c8b9106b4194b02d1eea918e3]
+## SCHEDULE — Exchange of Letters between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Kingdom of Norway for the continued application and amendment of the Convention on Social Security between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Kingdom of Norway, and the Protocol concerning Medical Treatment, done at Oslo on 19 June 1990[^c-e0b3b80c8b9106b4194b02d1eea918e3]
 
 Article 2
 
@@ -129,9 +129,9 @@ The Order does not impose any costs on business, charities or the voluntary sect
 
 [^f00009]: Footnote: The Agreement is laid before Parliament in the Treaty Series for information.
 
-[^key-c0944fc6e64254496b97c1b8529fa5af]: Commencement: Art. 1 in force at 1.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1597/article/1)
+[^c-c0944fc6e64254496b97c1b8529fa5af]: Commencement: Art. 1 in force at 1.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1597/article/1)
 
-[^key-27b389b2ef269c0327f3fbdac2bd6097]: Commencement: Art. 2 in force at 1.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1597/article/1)
+[^c-27b389b2ef269c0327f3fbdac2bd6097]: Commencement: Art. 2 in force at 1.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1597/article/1)
 
 [^f00010]: Footnote: No modifications are made in respect of community charge benefits, payments out of the social fund, Christmas bonus, statutory sick pay, or statutory maternity pay because the power in section 179(4)(b)(i)-(v) of the Social Security Administration Act 1992 excludes these benefits from the scope of the power.
 
@@ -153,18 +153,18 @@ The Order does not impose any costs on business, charities or the voluntary sect
 
 [^f00019]: Footnote: Subsection (5) of section 179 has been amended by paragraph 70(4) of Schedule 2 to the Jobseekers Act 1995; paragraph 21(4) of Schedule 2 to the State Pension Credit Act 2002; paragraph 1 of Schedule 6 to the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21); paragraph 10(29)(c) of Schedule 3 to the Welfare Reform Act 2007; paragraph 27(4) of Schedule 2, to the Welfare Reform Act 2012 and paragraph 25(4)(a) and (b) of Schedule 12, and paragraph 33(4)(a) and (b) of Schedule 16, to the Pensions Act 2014 and by regulation 3 of [S.I. 2011/2425](https://www.legislation.gov.uk/uksi/2011/2425).
 
-[^key-a1f85a9545ccfd187e20aed3659a7150]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/uksi/2020/1597/article/2/3) omitted (12.10.2023) by virtue of [The Social Security (Iceland) (Liechtenstein) (Norway) Order 2023 (S.I. 2023/1060)](https://www.legislation.gov.uk/uksi/2023/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1060/article/1/2), [4(1)(a)](https://www.legislation.gov.uk/uksi/2023/1060/article/4/1/a)
+[^c-a1f85a9545ccfd187e20aed3659a7150]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/uksi/2020/1597/article/2/3) omitted (12.10.2023) by virtue of [The Social Security (Iceland) (Liechtenstein) (Norway) Order 2023 (S.I. 2023/1060)](https://www.legislation.gov.uk/uksi/2023/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1060/article/1/2), [4(1)(a)](https://www.legislation.gov.uk/uksi/2023/1060/article/4/1/a)
 
 [^f00020]: Footnote: [S. I. 2017/444](https://www.legislation.gov.uk/uksi/2017/444).
 
-[^key-a8d041b7a1ab10c04348c5432a8d3924]: Textual amendment: Words in [art. 2(4)](https://www.legislation.gov.uk/uksi/2020/1597/article/2/4) substituted (12.10.2023) by [The Social Security (Iceland) (Liechtenstein) (Norway) Order 2023 (S.I. 2023/1060)](https://www.legislation.gov.uk/uksi/2023/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1060/article/1/2), [4(1)(b)](https://www.legislation.gov.uk/uksi/2023/1060/article/4/1/b)
+[^c-a8d041b7a1ab10c04348c5432a8d3924]: Textual amendment: Words in [art. 2(4)](https://www.legislation.gov.uk/uksi/2020/1597/article/2/4) substituted (12.10.2023) by [The Social Security (Iceland) (Liechtenstein) (Norway) Order 2023 (S.I. 2023/1060)](https://www.legislation.gov.uk/uksi/2023/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1060/article/1/2), [4(1)(b)](https://www.legislation.gov.uk/uksi/2023/1060/article/4/1/b)
 
 [^f00021]: Footnote: [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671).
 
-[^key-b6961ed19cde251da0d9124a88c36151]: Commencement: Art. 3 in force at 1.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1597/article/1)
+[^c-b6961ed19cde251da0d9124a88c36151]: Commencement: Art. 3 in force at 1.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1597/article/1)
 
 [^f00022]: Footnote: [S.I. 1992/3212](https://www.legislation.gov.uk/uksi/1992/3212).
 
 [^f00023]: Footnote: The Agreement set out in the Schedule to this Order renders the Social Security (Norway) Order 1992 ([S.I. 1992/3212](https://www.legislation.gov.uk/uksi/1992/3212)) redundant.
 
-[^key-e0b3b80c8b9106b4194b02d1eea918e3]: Commencement: Sch. in force at 1.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1597/article/1)
+[^c-e0b3b80c8b9106b4194b02d1eea918e3]: Commencement: Sch. in force at 1.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1597/article/1)

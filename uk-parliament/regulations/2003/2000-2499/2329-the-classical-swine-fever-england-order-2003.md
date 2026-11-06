@@ -33,7 +33,7 @@ ANIMALS, ENGLAND
 
 ANIMAL HEALTH
 
-The Classical Swine Fever (England) Order 2003 (revoked)[^key-e1bfd28c220f2c93069933558a10c474]
+The Classical Swine Fever (England) Order 2003 (revoked)[^c-e1bfd28c220f2c93069933558a10c474]
 
 Made
 
@@ -43,198 +43,198 @@ Coming into force
 
 1st October2003
 
-[^key-e1bfd28c220f2c93069933558a10c474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e1bfd28c220f2c93069933558a10c474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, Commencement and extent[^key-e1bfd28c220f2c93069933558a10c474]
+## 1. Title, Commencement and extent[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-e1bfd28c220f2c93069933558a10c474]
+## 2. Interpretation[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exemptions[^key-e1bfd28c220f2c93069933558a10c474]
+## 3. Exemptions[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Notification of the disease[^key-e1bfd28c220f2c93069933558a10c474]
+## 4. Notification of the disease[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Measures while the suspicion of the disease is being investigated[^key-e1bfd28c220f2c93069933558a10c474]
+## 5. Measures while the suspicion of the disease is being investigated[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Further measures where a notice has been served under article 5[^key-e1bfd28c220f2c93069933558a10c474]
+## 6. Further measures where a notice has been served under article 5[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Measures where the disease is confirmed on a holding[^key-e1bfd28c220f2c93069933558a10c474]
+## 7. Measures where the disease is confirmed on a holding[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Measures where the disease is confirmed in a slaughterhouse, knacker’s yard or on a means of transport[^key-e1bfd28c220f2c93069933558a10c474]
+## 8. Measures where the disease is confirmed in a slaughterhouse, knacker’s yard or on a means of transport[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Measures that apply in respect of holdings from or to which the disease may have been transmitted[^key-e1bfd28c220f2c93069933558a10c474]
+## 9. Measures that apply in respect of holdings from or to which the disease may have been transmitted[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Temporary Control Zone[^key-e1bfd28c220f2c93069933558a10c474]
+## 10. Temporary Control Zone[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Protection and surveillance zones[^key-e1bfd28c220f2c93069933558a10c474]
+## 11. Protection and surveillance zones[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Cleansing and disinfection[^key-e1bfd28c220f2c93069933558a10c474]
+## 12. Cleansing and disinfection[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Feral pig investigation zone[^key-e1bfd28c220f2c93069933558a10c474]
+## 13. Feral pig investigation zone[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Measures where the disease is confirmed in a feral pig[^key-e1bfd28c220f2c93069933558a10c474]
+## 14. Measures where the disease is confirmed in a feral pig[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Vaccines[^key-e1bfd28c220f2c93069933558a10c474]
+## 15. Vaccines[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Compliance with notices etc.[^key-e1bfd28c220f2c93069933558a10c474]
+## 16. Compliance with notices etc.[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. General Powers of Inspectors and Veterinary Inspectors[^key-e1bfd28c220f2c93069933558a10c474]
+## 17. General Powers of Inspectors and Veterinary Inspectors[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Enforcement[^key-e1bfd28c220f2c93069933558a10c474]
+## 18. Enforcement[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Revocations[^key-e1bfd28c220f2c93069933558a10c474]
+## 19. Revocations[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e1bfd28c220f2c93069933558a10c474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e1bfd28c220f2c93069933558a10c474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — MEASURES THAT APPLY IN PROTECTION AND SURVEILLANCE ZONES[^key-e1bfd28c220f2c93069933558a10c474]
+## SCHEDULE 1 — MEASURES THAT APPLY IN PROTECTION AND SURVEILLANCE ZONES[^c-e1bfd28c220f2c93069933558a10c474]
 
 article 11(3)
 
-### PART I — Measures that apply in a protection zone[^key-e1bfd28c220f2c93069933558a10c474]
+### PART I — Measures that apply in a protection zone[^c-e1bfd28c220f2c93069933558a10c474]
 
-#### 1. Movement Restrictions[^key-e1bfd28c220f2c93069933558a10c474]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-e1bfd28c220f2c93069933558a10c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-e1bfd28c220f2c93069933558a10c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-e1bfd28c220f2c93069933558a10c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**5.**[^key-e1bfd28c220f2c93069933558a10c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**6.**[^key-e1bfd28c220f2c93069933558a10c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-e1bfd28c220f2c93069933558a10c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 8. Notification of pig deaths on a holding[^key-e1bfd28c220f2c93069933558a10c474]
+#### 1. Movement Restrictions[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Bio-security[^key-e1bfd28c220f2c93069933558a10c474]
+**2.**[^c-e1bfd28c220f2c93069933558a10c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-e1bfd28c220f2c93069933558a10c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^c-e1bfd28c220f2c93069933558a10c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^c-e1bfd28c220f2c93069933558a10c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^c-e1bfd28c220f2c93069933558a10c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^c-e1bfd28c220f2c93069933558a10c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 8. Notification of pig deaths on a holding[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-e1bfd28c220f2c93069933558a10c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART II — Measures that apply in a Surveillance Zone[^key-e1bfd28c220f2c93069933558a10c474]
-
-#### 11. Movement restrictions[^key-e1bfd28c220f2c93069933558a10c474]
+#### 9. Bio-security[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-e1bfd28c220f2c93069933558a10c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-e1bfd28c220f2c93069933558a10c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-e1bfd28c220f2c93069933558a10c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### PART II — Measures that apply in a Surveillance Zone[^c-e1bfd28c220f2c93069933558a10c474]
 
-**14.**[^key-e1bfd28c220f2c93069933558a10c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**15.**[^key-e1bfd28c220f2c93069933558a10c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 16. Movement of pigs[^key-e1bfd28c220f2c93069933558a10c474]
+#### 11. Movement restrictions[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-e1bfd28c220f2c93069933558a10c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-e1bfd28c220f2c93069933558a10c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18. Bio-security[^key-e1bfd28c220f2c93069933558a10c474]
+**13.**[^c-e1bfd28c220f2c93069933558a10c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^c-e1bfd28c220f2c93069933558a10c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15.**[^c-e1bfd28c220f2c93069933558a10c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 16. Movement of pigs[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-e1bfd28c220f2c93069933558a10c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-e1bfd28c220f2c93069933558a10c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 20. Notification of deaths of pigs on a holding[^key-e1bfd28c220f2c93069933558a10c474]
+#### 18. Bio-security[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — MEASURES THAT APPLY IN AN INFECTED AREA ESTABLISHED UNDER ARTICLE 14[^key-e1bfd28c220f2c93069933558a10c474]
+**19.**[^c-e1bfd28c220f2c93069933558a10c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 20. Notification of deaths of pigs on a holding[^c-e1bfd28c220f2c93069933558a10c474]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — MEASURES THAT APPLY IN AN INFECTED AREA ESTABLISHED UNDER ARTICLE 14[^c-e1bfd28c220f2c93069933558a10c474]
 
 article 14
 
-### PART I — Measures that apply to holdings in the infected area[^key-e1bfd28c220f2c93069933558a10c474]
+### PART I — Measures that apply to holdings in the infected area[^c-e1bfd28c220f2c93069933558a10c474]
 
-#### 1. Census of pigs[^key-e1bfd28c220f2c93069933558a10c474]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Isolation of pigs[^key-e1bfd28c220f2c93069933558a10c474]
+#### 1. Census of pigs[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Movement of pigs[^key-e1bfd28c220f2c93069933558a10c474]
+#### 2. Isolation of pigs[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Bio-security[^key-e1bfd28c220f2c93069933558a10c474]
+#### 3. Movement of pigs[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Dead or diseased pigs[^key-e1bfd28c220f2c93069933558a10c474]
+#### 4. Bio-security[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Feral pigs[^key-e1bfd28c220f2c93069933558a10c474]
+#### 5. Dead or diseased pigs[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — Measures that apply in the infected area[^key-e1bfd28c220f2c93069933558a10c474]
-
-#### 7. Export of pigs, semen, ova or embryos from the infected area[^key-e1bfd28c220f2c93069933558a10c474]
+#### 6. Feral pigs[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Feral pigs[^key-e1bfd28c220f2c93069933558a10c474]
+### PART II — Measures that apply in the infected area[^c-e1bfd28c220f2c93069933558a10c474]
+
+#### 7. Export of pigs, semen, ova or embryos from the infected area[^c-e1bfd28c220f2c93069933558a10c474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-e1bfd28c220f2c93069933558a10c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### 8. Feral pigs[^c-e1bfd28c220f2c93069933558a10c474]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^c-e1bfd28c220f2c93069933558a10c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e1bfd28c220f2c93069933558a10c474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e1bfd28c220f2c93069933558a10c474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e1bfd28c220f2c93069933558a10c474]: Textual amendment: Order revoked (14.8.2014) by [The Diseases of Swine Regulations 2014 (S.I. 2014/1894)](https://www.legislation.gov.uk/uksi/2014/1894), reg. 1(c), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/1894/schedule/5) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/4/1))
+[^c-e1bfd28c220f2c93069933558a10c474]: Textual amendment: Order revoked (14.8.2014) by [The Diseases of Swine Regulations 2014 (S.I. 2014/1894)](https://www.legislation.gov.uk/uksi/2014/1894), reg. 1(c), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/1894/schedule/5) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/4/1))

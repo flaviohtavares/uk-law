@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64A. Failure to comply with notice to return allowances[^key-7ed2b06ad00b6f4423aa3385ccee501a]
+## 64A. Failure to comply with notice to return allowances[^c-7ed2b06ad00b6f4423aa3385ccee501a]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ed2b06ad00b6f4423aa3385ccee501a]: Textual amendment: Art. 64A inserted (14.4.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2022 (S.I. 2022/454)](https://www.legislation.gov.uk/uksi/2022/454), [arts. 2](https://www.legislation.gov.uk/uksi/2022/454/article/2), [10](https://www.legislation.gov.uk/uksi/2022/454/article/10)
+[^c-7ed2b06ad00b6f4423aa3385ccee501a]: Textual amendment: Art. 64A inserted (14.4.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2022 (S.I. 2022/454)](https://www.legislation.gov.uk/uksi/2022/454), [arts. 2](https://www.legislation.gov.uk/uksi/2022/454/article/2), [10](https://www.legislation.gov.uk/uksi/2022/454/article/10)

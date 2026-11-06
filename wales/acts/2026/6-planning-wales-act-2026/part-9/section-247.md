@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 247. Preservation of trees in conservation areas[^key-87cf18bc1ced1ee966b63b0573d9443f]
+## 247. Preservation of trees in conservation areas[^c-87cf18bc1ced1ee966b63b0573d9443f]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87cf18bc1ced1ee966b63b0573d9443f]: Commencement: S. 247 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-87cf18bc1ced1ee966b63b0573d9443f]: Commencement: S. 247 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

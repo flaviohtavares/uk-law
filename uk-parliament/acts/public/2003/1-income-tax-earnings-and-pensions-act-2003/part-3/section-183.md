@@ -22,7 +22,7 @@ summary: ''
 
 (1) The alternative method of calculating for the purposes of this Chapter the amount of interest that would be payable on a loan for a tax year at the official rate applies for a tax year—
 
-- (a) if an officer of Revenue and Customs[^key-4f3a0614079ff004d8042e82d44ecd6f] so requires[^key-fda1915496e9034e74c713f3dc505a88] , by notice to the employee, or
+- (a) if an officer of Revenue and Customs[^c-4f3a0614079ff004d8042e82d44ecd6f] so requires[^c-fda1915496e9034e74c713f3dc505a88] , by notice to the employee, or
 - (b) if the employee so elects, by notice to an officer of Revenue and Customs .
 
 (2) Notice may be given on or before the first anniversary of the normal self-assessment filing date for the tax year in relation to which the question arises whether the loan is a taxable cheap loan.
@@ -48,6 +48,6 @@ Divide the result by the number of days in the tax year.
 
 ## Annotations
 
-[^key-4f3a0614079ff004d8042e82d44ecd6f]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-4f3a0614079ff004d8042e82d44ecd6f]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-fda1915496e9034e74c713f3dc505a88]: Textual amendment: Word in s. 183(1)(a) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 110](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/110); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-fda1915496e9034e74c713f3dc505a88]: Textual amendment: Word in s. 183(1)(a) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 110](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/110); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)

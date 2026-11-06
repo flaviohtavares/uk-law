@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Partial revocation and amendment of [Regulation (EU) 63/2011](https://www.legislation.gov.uk/european/regulation/2011/0063) and [Regulation (EU) 114/2013](https://www.legislation.gov.uk/european/regulation/2013/0114) (derogations)[^key-e5adb73dc3ae904728af2aea621ba81d]
+## 114. Partial revocation and amendment of [Regulation (EU) 63/2011](https://www.legislation.gov.uk/european/regulation/2011/0063) and [Regulation (EU) 114/2013](https://www.legislation.gov.uk/european/regulation/2013/0114) (derogations)[^c-e5adb73dc3ae904728af2aea621ba81d]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5adb73dc3ae904728af2aea621ba81d]: Commencement: Art. 114 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-e5adb73dc3ae904728af2aea621ba81d]: Commencement: Art. 114 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

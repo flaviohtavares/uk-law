@@ -93,15 +93,15 @@ A Measure passed by the General Synod of the Church of England to further the mi
 - [Section 21 — Power of Commissioners to pay stipend, etc. of certain bishops](part-ii/section-21.md)
 - [Section 22 — Interpretation of Part II](part-ii/section-22.md)
 
-### Part III — Procedure for making pastoral schemes and orders and pastoral church buildings schemes[^key-a7b968c2d1226702368ad952ad35e145]
+### Part III — Procedure for making pastoral schemes and orders and pastoral church buildings schemes[^c-a7b968c2d1226702368ad952ad35e145]
 
-#### Introduction[^key-a7b968c2d1226702368ad952ad35e145]
+#### Introduction[^c-a7b968c2d1226702368ad952ad35e145]
 
 **No longer in force.**
 
 - [Section 23 — Amendment of Part I of Pastoral Measure 1983](part-iii/section-23.md)
 
-#### Pastoral schemes and orders[^key-a7b968c2d1226702368ad952ad35e145]
+#### Pastoral schemes and orders[^c-a7b968c2d1226702368ad952ad35e145]
 
 **No longer in force.**
 
@@ -114,7 +114,7 @@ A Measure passed by the General Synod of the Church of England to further the mi
 - [Section 30 — Making of scheme or order](part-iii/section-30.md)
 - [Section 31 — Transmission of copies of scheme or order](part-iii/section-31.md)
 
-#### Supplementary[^key-a7b968c2d1226702368ad952ad35e145]
+#### Supplementary[^c-a7b968c2d1226702368ad952ad35e145]
 
 **No longer in force.**
 
@@ -122,7 +122,7 @@ A Measure passed by the General Synod of the Church of England to further the mi
 - [Section 33 — Withdrawal of scheme or order at request of bishop](part-iii/section-33.md)
 - [Section 34 — Supplementary powers of Commissioners and mission and pastoral committees](part-iii/section-34.md)
 
-#### Pastoral church buildings schemes[^key-a7b968c2d1226702368ad952ad35e145]
+#### Pastoral church buildings schemes[^c-a7b968c2d1226702368ad952ad35e145]
 
 **No longer in force.**
 
@@ -132,28 +132,28 @@ A Measure passed by the General Synod of the Church of England to further the mi
 - [Section 38 — Notice and publication and amendment of draft scheme](part-iii/section-38.md)
 - [Section 39 — Transmission of copies of scheme](part-iii/section-39.md)
 
-### Part IV — Church buildings closed for regular public worship[^key-2b69d302b724937814c1f47a6252a996]
+### Part IV — Church buildings closed for regular public worship[^c-2b69d302b724937814c1f47a6252a996]
 
-#### Introduction[^key-2b69d302b724937814c1f47a6252a996]
+#### Introduction[^c-2b69d302b724937814c1f47a6252a996]
 
 **No longer in force.**
 
 - [Section 40 — Amendment of Part III of Pastoral Measure 1983](part-iv/section-40.md)
 
-#### Functions of mission and pastoral committee concerning buildings closed for regular public worship[^key-2b69d302b724937814c1f47a6252a996]
+#### Functions of mission and pastoral committee concerning buildings closed for regular public worship[^c-2b69d302b724937814c1f47a6252a996]
 
 **No longer in force.**
 
 - [Section 41 — Functions of mission and pastoral committee concerning buildings closed for regular public worship](part-iv/section-41.md)
 
-#### Pastoral church buildings schemes[^key-2b69d302b724937814c1f47a6252a996]
+#### Pastoral church buildings schemes[^c-2b69d302b724937814c1f47a6252a996]
 
 **No longer in force.**
 
 - [Section 42 — Provision by pastoral church buildings scheme for appropriation or demolition of church to be closed for regular public worship to be replaced by new church](part-iv/section-42.md)
 - [Section 43 — Other provision by pastoral church buildings scheme for church closed for regular public worship](part-iv/section-43.md)
 
-#### Pastoral (church buildings disposal) schemes[^key-2b69d302b724937814c1f47a6252a996]
+#### Pastoral (church buildings disposal) schemes[^c-2b69d302b724937814c1f47a6252a996]
 
 **No longer in force.**
 
@@ -161,9 +161,9 @@ A Measure passed by the General Synod of the Church of England to further the mi
 - [Section 45 — Procedure for making pastoral (church buildings disposal) schemes](part-iv/section-45.md)
 - [Section 46 — Contents of pastoral (church buildings disposal) schemes](part-iv/section-46.md)
 
-### Part V — Mission[^key-270bab2fd834d08cef5ef698ab7049c3]
+### Part V — Mission[^c-270bab2fd834d08cef5ef698ab7049c3]
 
-#### Mission initiatives[^key-270bab2fd834d08cef5ef698ab7049c3]
+#### Mission initiatives[^c-270bab2fd834d08cef5ef698ab7049c3]
 
 **No longer in force.**
 
@@ -173,9 +173,9 @@ A Measure passed by the General Synod of the Church of England to further the mi
 - [Section 50 — Review of duration of mission initiatives and further provisions](part-v/section-50.md)
 - [Section 51 — Code of Practice](part-v/section-51.md)
 
-### Part VI — Mission and pastoral committees[^key-bf6cd6edbc54cd7d8e8ed978c5dd4654]
+### Part VI — Mission and pastoral committees[^c-bf6cd6edbc54cd7d8e8ed978c5dd4654]
 
-#### Mission and pastoral committees[^key-bf6cd6edbc54cd7d8e8ed978c5dd4654]
+#### Mission and pastoral committees[^c-bf6cd6edbc54cd7d8e8ed978c5dd4654]
 
 **No longer in force.**
 
@@ -229,10 +229,10 @@ SCHEDULES
 
 ## Annotations
 
-[^key-a7b968c2d1226702368ad952ad35e145]: Textual amendment: [Pt. III](https://www.legislation.gov.uk/ukcm/2007/1/part/III) repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Schs. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [2012 No. 1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-a7b968c2d1226702368ad952ad35e145]: Textual amendment: [Pt. III](https://www.legislation.gov.uk/ukcm/2007/1/part/III) repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Schs. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [2012 No. 1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-2b69d302b724937814c1f47a6252a996]: Textual amendment: [Pt. IV](https://www.legislation.gov.uk/ukcm/2007/1/part/IV) repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Schs. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [2012 No. 1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-2b69d302b724937814c1f47a6252a996]: Textual amendment: [Pt. IV](https://www.legislation.gov.uk/ukcm/2007/1/part/IV) repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Schs. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [2012 No. 1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-270bab2fd834d08cef5ef698ab7049c3]: Textual amendment: [Pt. V](https://www.legislation.gov.uk/ukcm/2007/1/part/V) repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Schs. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [2012 No. 1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-270bab2fd834d08cef5ef698ab7049c3]: Textual amendment: [Pt. V](https://www.legislation.gov.uk/ukcm/2007/1/part/V) repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Schs. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [2012 No. 1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-bf6cd6edbc54cd7d8e8ed978c5dd4654]: Textual amendment: [Pt. VI](https://www.legislation.gov.uk/ukcm/2007/1/part/VI) repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Schs. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [2012 No. 1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-bf6cd6edbc54cd7d8e8ed978c5dd4654]: Textual amendment: [Pt. VI](https://www.legislation.gov.uk/ukcm/2007/1/part/VI) repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Schs. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [2012 No. 1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

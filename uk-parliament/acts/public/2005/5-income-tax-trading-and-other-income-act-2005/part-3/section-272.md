@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 272. Application of trading income rules: GAAP[^key-0df801004f7727c382c318dfb8fef1f6]
+## 272. Application of trading income rules: GAAP[^c-0df801004f7727c382c318dfb8fef1f6]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-f76d272dea3291c189c8648baa761164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-f76d272dea3291c189c8648baa761164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) In relation to a property business whose profits are calculated in accordance with[^key-1e805e62e91da6b61699180c1e416dc3] GAAP, the provisions of Part 2 (trading income) which apply as a result of section 271E(1) are limited to the following—
+(2) In relation to a property business whose profits are calculated in accordance with[^c-1e805e62e91da6b61699180c1e416dc3] GAAP, the provisions of Part 2 (trading income) which apply as a result of section 271E(1) are limited to the following—
 
 <table>
 <tbody>
@@ -84,40 +84,40 @@ summary: ''
 </tbody>
 </table>
 
-[^key-35e8f3aa2f902a970a65e4e24f2ba164][^key-35e8f3aa2f902a970a65e4e24f2ba164][^key-0c5871b9d8d4b1fc93135f7a02a902c4][^key-4b2832d5cab51f56b8e4d290d3e8a49a][^key-0ca05bfb45ebaf7ef890b982a99bd4ef][^c19740491][^c19740491][^key-d2d891de6b8e31e09383c220807c6622][^key-d2d891de6b8e31e09383c220807c6622][^key-d2d891de6b8e31e09383c220807c6622][^key-553faefb91effbb5177782cea0b06a00][^key-47fca22e13b1bd2be3e49d48b9eca056][^key-47fca22e13b1bd2be3e49d48b9eca056][^key-4d97d2a12e69ee8e9552008e211ffb56][^key-b1f8e4ed6218d35c94463a256e32bb03][^key-a13e72fd7323e767bb641ee28f9ccb2f][^key-250ac415a34b2bef50c1a70921793efd][^c19178011]
+[^c-35e8f3aa2f902a970a65e4e24f2ba164][^c-35e8f3aa2f902a970a65e4e24f2ba164][^c-0c5871b9d8d4b1fc93135f7a02a902c4][^c-4b2832d5cab51f56b8e4d290d3e8a49a][^c-0ca05bfb45ebaf7ef890b982a99bd4ef][^c19740491][^c19740491][^c-d2d891de6b8e31e09383c220807c6622][^c-d2d891de6b8e31e09383c220807c6622][^c-d2d891de6b8e31e09383c220807c6622][^c-553faefb91effbb5177782cea0b06a00][^c-47fca22e13b1bd2be3e49d48b9eca056][^c-47fca22e13b1bd2be3e49d48b9eca056][^c-4d97d2a12e69ee8e9552008e211ffb56][^c-b1f8e4ed6218d35c94463a256e32bb03][^c-a13e72fd7323e767bb641ee28f9ccb2f][^c-250ac415a34b2bef50c1a70921793efd][^c19178011]
 
 (3) In those provisions the expression “**this Part**” is to be read as a reference to those provisions as applied by subsection (2) and to the other provisions of Part 3.
 
 ## Annotations
 
-[^key-0df801004f7727c382c318dfb8fef1f6]: Textual amendment: S. 272 heading substituted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/16/2)
+[^c-0df801004f7727c382c318dfb8fef1f6]: Textual amendment: S. 272 heading substituted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/16/2)
 
-[^key-f76d272dea3291c189c8648baa761164]: Textual amendment: S. 272(1) omitted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 16(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/16/3)
+[^c-f76d272dea3291c189c8648baa761164]: Textual amendment: S. 272(1) omitted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 16(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/16/3)
 
-[^key-1e805e62e91da6b61699180c1e416dc3]: Textual amendment: Words in s. 272(2) substituted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 16(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/16/4)
+[^c-1e805e62e91da6b61699180c1e416dc3]: Textual amendment: Words in s. 272(2) substituted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 16(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/16/4)
 
-[^key-35e8f3aa2f902a970a65e4e24f2ba164]: Textual amendment: S. 272(2) entry omitted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 16(5)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/16/5)
+[^c-35e8f3aa2f902a970a65e4e24f2ba164]: Textual amendment: S. 272(2) entry omitted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 16(5)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/16/5)
 
-[^key-0c5871b9d8d4b1fc93135f7a02a902c4]: Textual amendment: Words in s. 272(2) Table inserted (with effect in accordance with s. 71(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 71(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/71/3)
+[^c-0c5871b9d8d4b1fc93135f7a02a902c4]: Textual amendment: Words in s. 272(2) Table inserted (with effect in accordance with s. 71(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 71(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/71/3)
 
-[^key-4b2832d5cab51f56b8e4d290d3e8a49a]: Textual amendment: Word in s. 272(2) Table substituted (with effect in accordance with Sch. 11 paras. 65-67 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 41(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/41/a)
+[^c-4b2832d5cab51f56b8e4d290d3e8a49a]: Textual amendment: Word in s. 272(2) Table substituted (with effect in accordance with Sch. 11 paras. 65-67 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 41(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/41/a)
 
-[^key-0ca05bfb45ebaf7ef890b982a99bd4ef]: Textual amendment: Words in s. 272(2) Table omitted (with effect in accordance with Sch. 11 paras. 65-67 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 41(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/41/b)
+[^c-0ca05bfb45ebaf7ef890b982a99bd4ef]: Textual amendment: Words in s. 272(2) Table omitted (with effect in accordance with Sch. 11 paras. 65-67 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 41(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/41/b)
 
 [^c19740491]: Textual amendment: S. 272(2) Table: entry repealed (6.4.2007 with effect as stated in [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), ss, 1027, 1031, 1034, Sch. 1 para. 507, {Sch. 3 Pt. 1} (with transitional provisions and savings in Sch. 2)
 
-[^key-d2d891de6b8e31e09383c220807c6622]: Textual amendment: Words in [s. 272(2)](https://www.legislation.gov.uk/ukpga/2005/5/section/272/2) substituted (1.1.2023 for specified purposes, 6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 32](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/32); [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(b)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/b); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-d2d891de6b8e31e09383c220807c6622]: Textual amendment: Words in [s. 272(2)](https://www.legislation.gov.uk/ukpga/2005/5/section/272/2) substituted (1.1.2023 for specified purposes, 6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 32](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/32); [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(b)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/b); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-553faefb91effbb5177782cea0b06a00]: Textual amendment: Words in s. 272(2) Table inserted (with effect in accordance with s. 73(6) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 73(5)](https://www.legislation.gov.uk/ukpga/2008/9/section/73/5)
+[^c-553faefb91effbb5177782cea0b06a00]: Textual amendment: Words in s. 272(2) Table inserted (with effect in accordance with s. 73(6) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 73(5)](https://www.legislation.gov.uk/ukpga/2008/9/section/73/5)
 
-[^key-47fca22e13b1bd2be3e49d48b9eca056]: Textual amendment: Words in s. 272(2) Table omitted (with effect in accordance with s. 72(4) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 72(2)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/72/2/b)
+[^c-47fca22e13b1bd2be3e49d48b9eca056]: Textual amendment: Words in s. 272(2) Table omitted (with effect in accordance with s. 72(4) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 72(2)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/72/2/b)
 
-[^key-4d97d2a12e69ee8e9552008e211ffb56]: Textual amendment: Words in s. 272(2) Table inserted (with effect in accordance with Sch. 5 para. 9 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2015/11/schedule/5/paragraph/2)
+[^c-4d97d2a12e69ee8e9552008e211ffb56]: Textual amendment: Words in s. 272(2) Table inserted (with effect in accordance with Sch. 5 para. 9 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2015/11/schedule/5/paragraph/2)
 
-[^key-b1f8e4ed6218d35c94463a256e32bb03]: Textual amendment: Words in s. 272(2) Table inserted (1.4.2010) (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 29](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/29) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-b1f8e4ed6218d35c94463a256e32bb03]: Textual amendment: Words in s. 272(2) Table inserted (1.4.2010) (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 29](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/29) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-a13e72fd7323e767bb641ee28f9ccb2f]: Textual amendment: Words in s. 272(2) Table inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 paras. 3(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/3/3), [6](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/6)
+[^c-a13e72fd7323e767bb641ee28f9ccb2f]: Textual amendment: Words in s. 272(2) Table inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 paras. 3(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/3/3), [6](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/6)
 
-[^key-250ac415a34b2bef50c1a70921793efd]: Textual amendment: Words in s. 272(2) Table inserted (with effect in accordance with s. 36(8) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 36(4)](https://www.legislation.gov.uk/ukpga/2018/3/section/36/4)
+[^c-250ac415a34b2bef50c1a70921793efd]: Textual amendment: Words in s. 272(2) Table inserted (with effect in accordance with s. 36(8) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 36(4)](https://www.legislation.gov.uk/ukpga/2018/3/section/36/4)
 
 [^c19178011]: Textual amendment: S. 272(2) Table: entry relating to Ch. 10A (long funding leases) inserted (with effect as mentioned in [Sch. 8 para. 15](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/15) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 81](https://www.legislation.gov.uk/ukpga/2006/25/section/81), [Sch. 8 para. 14(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/14/2)

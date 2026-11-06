@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 134. Duration of HMO licence[^key-096b48d921b603cc98a28229426bc22a]
+## 134. Duration of HMO licence[^c-096b48d921b603cc98a28229426bc22a]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ the date by which the local authority was required by sub-paragraph (1) of that 
 
 ## Annotations
 
-[^key-096b48d921b603cc98a28229426bc22a]: Commencement: [S. 134](https://www.legislation.gov.uk/asp/2006/1/section/134) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-096b48d921b603cc98a28229426bc22a]: Commencement: [S. 134](https://www.legislation.gov.uk/asp/2006/1/section/134) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

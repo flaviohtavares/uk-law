@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Application to the Crown[^key-d9f461642080525835ef2575a2c18e4c]
+## 61. Application to the Crown[^c-d9f461642080525835ef2575a2c18e4c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act binds the Crown.
 
 ## Annotations
 
-[^key-d9f461642080525835ef2575a2c18e4c]: Commencement: S. 61 in force at 18.9.2023, see [s. 63(1)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/1/a)
+[^c-d9f461642080525835ef2575a2c18e4c]: Commencement: S. 61 in force at 18.9.2023, see [s. 63(1)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/1/a)

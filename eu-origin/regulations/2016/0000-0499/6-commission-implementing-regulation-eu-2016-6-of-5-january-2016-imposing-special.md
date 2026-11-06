@@ -37,130 +37,130 @@ imposing special conditions governing the import of feed and food originating in
 
 (Text with EEA relevance) (revoked)
 
-[^key-904354e250f11d2f91603e0e14948f2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-904354e250f11d2f91603e0e14948f2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Scope[^key-904354e250f11d2f91603e0e14948f2e]
+## Article 1. Scope[^c-904354e250f11d2f91603e0e14948f2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definition[^key-7c49085087d16b8deb0bb8b6f5497c43]
+## Article 2. Definition[^c-7c49085087d16b8deb0bb8b6f5497c43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Import into Great Britain[^key-904354e250f11d2f91603e0e14948f2e]
+## Article 3. Import into Great Britain[^c-904354e250f11d2f91603e0e14948f2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Maximum levels of caesium-134 and caesium-137[^key-904354e250f11d2f91603e0e14948f2e]
+## Article 4. Maximum levels of caesium-134 and caesium-137[^c-904354e250f11d2f91603e0e14948f2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Declaration for certain products[^key-904354e250f11d2f91603e0e14948f2e]
+## Article 5. Declaration for certain products[^c-904354e250f11d2f91603e0e14948f2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Drawing up and signing of the declaration[^key-904354e250f11d2f91603e0e14948f2e]
+## Article 6. Drawing up and signing of the declaration[^c-904354e250f11d2f91603e0e14948f2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Identification[^key-904354e250f11d2f91603e0e14948f2e]
+## Article 7. Identification[^c-904354e250f11d2f91603e0e14948f2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Border inspection posts and designated point of entry[^key-904354e250f11d2f91603e0e14948f2e]
+## Article 8. Border inspection posts and designated point of entry[^c-904354e250f11d2f91603e0e14948f2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Prior notification[^key-904354e250f11d2f91603e0e14948f2e]
+## Article 9. Prior notification[^c-904354e250f11d2f91603e0e14948f2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Official controls[^key-904354e250f11d2f91603e0e14948f2e]
+## Article 10. Official controls[^c-904354e250f11d2f91603e0e14948f2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Costs[^key-904354e250f11d2f91603e0e14948f2e]
+## Article 11. Costs[^c-904354e250f11d2f91603e0e14948f2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Release for free circulation[^key-904354e250f11d2f91603e0e14948f2e]
+## Article 12. Release for free circulation[^c-904354e250f11d2f91603e0e14948f2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Non-compliant products[^key-904354e250f11d2f91603e0e14948f2e]
+## Article 13. Non-compliant products[^c-904354e250f11d2f91603e0e14948f2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Review[^key-904354e250f11d2f91603e0e14948f2e]
+## Article 14. Review[^c-904354e250f11d2f91603e0e14948f2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 15. Repeal[^key-904354e250f11d2f91603e0e14948f2e]
+## Article 15. Repeal[^c-904354e250f11d2f91603e0e14948f2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 16. Transitional provision[^key-904354e250f11d2f91603e0e14948f2e]
+## Article 16. Transitional provision[^c-904354e250f11d2f91603e0e14948f2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 17. Entry into force[^key-904354e250f11d2f91603e0e14948f2e]
+## Article 17. Entry into force[^c-904354e250f11d2f91603e0e14948f2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-904354e250f11d2f91603e0e14948f2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-904354e250f11d2f91603e0e14948f2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-904354e250f11d2f91603e0e14948f2e]
+## ANNEX I[^c-904354e250f11d2f91603e0e14948f2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Food and feed for which sampling and analysis regarding the presence of caesium-134 and caesium-137 are required before export to Great Britain[^key-904354e250f11d2f91603e0e14948f2e]
+## ANNEX II — Food and feed for which sampling and analysis regarding the presence of caesium-134 and caesium-137 are required before export to Great Britain[^c-904354e250f11d2f91603e0e14948f2e]
 
-[^key-904354e250f11d2f91603e0e14948f2e](a)
+[^c-904354e250f11d2f91603e0e14948f2e](a)
 
 **products originating in the prefecture of Fukushima:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-904354e250f11d2f91603e0e14948f2e](b)
+[^c-904354e250f11d2f91603e0e14948f2e](b)
 
 **products originating in the prefecture of Miyagi**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-904354e250f11d2f91603e0e14948f2e](c)
+[^c-904354e250f11d2f91603e0e14948f2e](c)
 
 **products originating in the prefecture of Gunma**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-904354e250f11d2f91603e0e14948f2e](d)
+[^c-904354e250f11d2f91603e0e14948f2e](d)
 
 **products originating in the prefectures of Yamanashi, Yamagata or Shizuoka:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-904354e250f11d2f91603e0e14948f2e](e)
+[^c-904354e250f11d2f91603e0e14948f2e](e)
 
 **products originating in the prefectures of Ibaraki, Nagano or Niigata:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-904354e250f11d2f91603e0e14948f2e](f)
+[^c-904354e250f11d2f91603e0e14948f2e](f)
 
 **compound products containing more than 50 % of the products listed under points (a) to (e) of this Annex.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — Declaration for the import into Great Britain of — … (Product and country of origin)[^key-904354e250f11d2f91603e0e14948f2e]
+## ANNEX III — Declaration for the import into Great Britain of — … (Product and country of origin)[^c-904354e250f11d2f91603e0e14948f2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-904354e250f11d2f91603e0e14948f2e]: Textual amendment: Regulation revoked (S.) (25.6.2022) by [The Food and Feed Safety (Fukushima Restrictions) (Scotland) Revocation Regulations 2022 (S.S.I. 2022/166)](https://www.legislation.gov.uk/ssi/2022/166), [regs. 1](https://www.legislation.gov.uk/ssi/2022/166/regulation/1), [2](https://www.legislation.gov.uk/ssi/2022/166/regulation/2); Regulation revoked (E.) (29.6.2022) by [The Food and Feed (Fukushima Restrictions) (Revocation) (England) Regulations 2022 (S.I. 2022/543)](https://www.legislation.gov.uk/uksi/2022/543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/543/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2022/543/regulation/2/a); and Regulation revoked (W.) revoked (29.6.2022) by [The Food and Feed (Fukushima Restrictions) (Revocation) (Wales) Regulations 2022 (S.I. 2022/594)](https://www.legislation.gov.uk/wsi/2022/594), [regs. 1(2)(c)](https://www.legislation.gov.uk/wsi/2022/594/regulation/1/2/c), [2(a)](https://www.legislation.gov.uk/wsi/2022/594/regulation/2/a)
+[^c-904354e250f11d2f91603e0e14948f2e]: Textual amendment: Regulation revoked (S.) (25.6.2022) by [The Food and Feed Safety (Fukushima Restrictions) (Scotland) Revocation Regulations 2022 (S.S.I. 2022/166)](https://www.legislation.gov.uk/ssi/2022/166), [regs. 1](https://www.legislation.gov.uk/ssi/2022/166/regulation/1), [2](https://www.legislation.gov.uk/ssi/2022/166/regulation/2); Regulation revoked (E.) (29.6.2022) by [The Food and Feed (Fukushima Restrictions) (Revocation) (England) Regulations 2022 (S.I. 2022/543)](https://www.legislation.gov.uk/uksi/2022/543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/543/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2022/543/regulation/2/a); and Regulation revoked (W.) revoked (29.6.2022) by [The Food and Feed (Fukushima Restrictions) (Revocation) (Wales) Regulations 2022 (S.I. 2022/594)](https://www.legislation.gov.uk/wsi/2022/594), [regs. 1(2)(c)](https://www.legislation.gov.uk/wsi/2022/594/regulation/1/2/c), [2(a)](https://www.legislation.gov.uk/wsi/2022/594/regulation/2/a)
 
-[^key-7c49085087d16b8deb0bb8b6f5497c43]: Textual amendment.
+[^c-7c49085087d16b8deb0bb8b6f5497c43]: Textual amendment.

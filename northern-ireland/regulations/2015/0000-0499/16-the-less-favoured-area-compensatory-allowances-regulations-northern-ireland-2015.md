@@ -229,7 +229,7 @@ the Department may exercise any of the powers specified in regulation 10.
 - (a) except where sub-paragraph (b) applies, the rate announced from time to time by the Monetary Policy Committee of the Bank of England as the official dealing rate, being the rate at which the Bank is willing to enter into transactions for providing short-term liquidity in the money markets; or
 - (b) if an order under section 19 (reserve powers) of the Bank of England Act 1998(b) is in force, any equivalent rate determined by the Treasury under that section.
 
-(3)[^key-7d30b79aa7e3559b7f6c331674d81dfa] For the purposes of this regulation, interest shall be charged from the payment deadline as recorded in the recovery notice issued by the Department.
+(3)[^c-7d30b79aa7e3559b7f6c331674d81dfa] For the purposes of this regulation, interest shall be charged from the payment deadline as recorded in the recovery notice issued by the Department.
 
 (3A) For the purposes of paragraph (3) the payment deadline shall be set at 60 days from the date of the recovery notice issued by the Department.
 
@@ -367,4 +367,4 @@ The Northern Ireland Rural Development Programme, and the revisions thereto, tog
 
 [^c22334841]: Marginal citation: OJ No L 347, 20.12.2013, p. 865–883
 
-[^key-7d30b79aa7e3559b7f6c331674d81dfa]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/nisr/2015/16/regulation/11/3)[(3A)](https://www.legislation.gov.uk/nisr/2015/16/regulation/11/3A) substituted for [reg. 11(3)](https://www.legislation.gov.uk/nisr/2015/16/regulation/11/3) (4.6.2015) by [The Less Favoured Area Compensatory Allowances (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/248)](https://www.legislation.gov.uk/nisr/2015/248), [regs. 1](https://www.legislation.gov.uk/nisr/2015/248/regulation/1), [2](https://www.legislation.gov.uk/nisr/2015/248/regulation/2)
+[^c-7d30b79aa7e3559b7f6c331674d81dfa]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/nisr/2015/16/regulation/11/3)[(3A)](https://www.legislation.gov.uk/nisr/2015/16/regulation/11/3A) substituted for [reg. 11(3)](https://www.legislation.gov.uk/nisr/2015/16/regulation/11/3) (4.6.2015) by [The Less Favoured Area Compensatory Allowances (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/248)](https://www.legislation.gov.uk/nisr/2015/248), [regs. 1](https://www.legislation.gov.uk/nisr/2015/248/regulation/1), [2](https://www.legislation.gov.uk/nisr/2015/248/regulation/2)

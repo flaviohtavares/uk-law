@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Acquisition of parental responsibility by step-parent[^key-98d0507865849a61c99a81c90224dea1]
+## 112. Acquisition of parental responsibility by step-parent[^c-98d0507865849a61c99a81c90224dea1]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ After section 4 of the 1989 Act there is inserted—
 
 ## Annotations
 
-[^key-98d0507865849a61c99a81c90224dea1]: Commencement: S. 112 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(k)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/k) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-98d0507865849a61c99a81c90224dea1]: Commencement: S. 112 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(k)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/k) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)

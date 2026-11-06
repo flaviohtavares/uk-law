@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Duty to submit a funded decommissioning programme[^key-6b054df71ed4f14b964a3f26d3ed1d53]
+## 45. Duty to submit a funded decommissioning programme[^c-6b054df71ed4f14b964a3f26d3ed1d53]
 
 *Extent: E+W+N.I.*
 
@@ -65,4 +65,4 @@ and for the purposes of paragraph (a) a nuclear installation is not to be regard
 
 ## Annotations
 
-[^key-6b054df71ed4f14b964a3f26d3ed1d53]: Commencement: S. 45 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)
+[^c-6b054df71ed4f14b964a3f26d3ed1d53]: Commencement: S. 45 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)

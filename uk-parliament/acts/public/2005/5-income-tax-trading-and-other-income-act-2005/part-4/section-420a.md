@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 420A. Temporary non-residents[^key-c16140e9afb2ce552a86b99605018177]
+## 420A. Temporary non-residents[^c-c16140e9afb2ce552a86b99605018177]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c16140e9afb2ce552a86b99605018177]: Textual amendment: S. 420A inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 136](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/136)
+[^c-c16140e9afb2ce552a86b99605018177]: Textual amendment: S. 420A inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 136](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/136)

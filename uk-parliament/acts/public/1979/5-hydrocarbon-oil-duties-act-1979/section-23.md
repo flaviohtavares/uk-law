@@ -36,7 +36,7 @@ a road vehicle any road fuel gas on which he knows or has reasonable cause to be
 
 a road vehicle any road fuel gas on which the excise duty chargeable under section 8 above has not been paid, the Commissioners may assess the amount of that duty as being excise duty due from that person and notify him or his representative accordingly.
 
-(2)[^key-8ba1f839bb537c9bcdbf7c7324eccaa4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8ba1f839bb537c9bcdbf7c7324eccaa4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -50,4 +50,4 @@ a road vehicle any road fuel gas on which the excise duty chargeable under secti
 
 [^c11248251]: Textual amendment: S. 23(1B) inserted (1.6.1997) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 50(2)](https://www.legislation.gov.uk/ukpga/1997/16/section/50/2), [Sch. 6 para. 6(4)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/6/paragraph/6/4); [S.I. 1997/1305](https://www.legislation.gov.uk/uksi/1997/1305), [art. 2](https://www.legislation.gov.uk/uksi/1997/1305/article/2)
 
-[^key-8ba1f839bb537c9bcdbf7c7324eccaa4]: Textual amendment: S. 23(2) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 5 paras. 19](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/19), [26(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26/b)
+[^c-8ba1f839bb537c9bcdbf7c7324eccaa4]: Textual amendment: S. 23(2) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 5 paras. 19](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/19), [26(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26/b)

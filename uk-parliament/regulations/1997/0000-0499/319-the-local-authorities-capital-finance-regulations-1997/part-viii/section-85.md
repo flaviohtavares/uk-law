@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. Meaning of regeneration project[^key-c8ad22cbaae9c2d1b2854af3fb39b491]
+## 85. Meaning of regeneration project[^c-c8ad22cbaae9c2d1b2854af3fb39b491]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ For the purposes of this Part, “regeneration project” means any project for 
 
 ## Annotations
 
-[^key-c8ad22cbaae9c2d1b2854af3fb39b491]: Commencement: Reg. 85 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-c8ad22cbaae9c2d1b2854af3fb39b491]: Commencement: Reg. 85 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

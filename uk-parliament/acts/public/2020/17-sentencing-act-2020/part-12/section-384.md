@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 384. Commencement of sentence[^key-c659ac776f667547b42d4fbc13301210]
+## 384. Commencement of sentence[^c-c659ac776f667547b42d4fbc13301210]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c659ac776f667547b42d4fbc13301210]: Commencement: S. 384 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-c659ac776f667547b42d4fbc13301210]: Commencement: S. 384 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

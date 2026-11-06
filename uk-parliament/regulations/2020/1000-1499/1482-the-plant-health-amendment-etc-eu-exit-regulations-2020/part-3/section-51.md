@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Commission Implementing Regulation (EU) 2020/1002 establishing a derogation from Implementing Regulation (EU) 2019/2072 as regards the requirements for introduction into the Union of ash wood originating or processed in the United States[^key-95b61316dafabddc8bf5aaba46fc22f4]
+## 51. Commission Implementing Regulation (EU) 2020/1002 establishing a derogation from Implementing Regulation (EU) 2019/2072 as regards the requirements for introduction into the Union of ash wood originating or processed in the United States[^c-95b61316dafabddc8bf5aaba46fc22f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-95b61316dafabddc8bf5aaba46fc22f4]: Commencement: Reg. 51 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
+[^c-95b61316dafabddc8bf5aaba46fc22f4]: Commencement: Reg. 51 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
 
 [^c24375291]: Marginal citation: EUR 2020/1002.

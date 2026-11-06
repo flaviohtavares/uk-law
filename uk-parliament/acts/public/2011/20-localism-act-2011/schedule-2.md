@@ -24,7 +24,7 @@ Section 21
 
 ### PART 1 — New Part 1A of the Local Government Act 2000
 
-**1.**[^key-fe1d6276bf67e2d01adde372fc62f07e][^key-8ac8c7bb2ec44f18c6041a2929fa9822][^key-10d93d71161c38c7e17ca285b3462e58][^key-c1dd7be8551ac359933b90467cb1b495] After Part 1 of the Local Government Act 2000 insert—
+**1.**[^c-fe1d6276bf67e2d01adde372fc62f07e][^c-8ac8c7bb2ec44f18c6041a2929fa9822][^c-10d93d71161c38c7e17ca285b3462e58][^c-c1dd7be8551ac359933b90467cb1b495] After Part 1 of the Local Government Act 2000 insert—
 
 > **PART 1A — Arrangements with respect to local authority governance in England**
 >
@@ -1242,7 +1242,7 @@ Section 21
 
 ### PART 2 — New Schedule A1 to the Local Government Act 2000
 
-**2.**[^key-eb19d803e67d5567366036eb3da07f04][^key-1a378d8eb946b7228d88962ab48f5cfa][^key-b2c4c4d0cd908782c5cca7d1c2e3e32f] Before Schedule 1 to the Local Government Act 2000 (executive arrangements: further provision) insert—
+**2.**[^c-eb19d803e67d5567366036eb3da07f04][^c-1a378d8eb946b7228d88962ab48f5cfa][^c-b2c4c4d0cd908782c5cca7d1c2e3e32f] Before Schedule 1 to the Local Government Act 2000 (executive arrangements: further provision) insert—
 
 > **SCHEDULE A1 — Executive arrangements in England: further provision**
 >
@@ -1423,16 +1423,16 @@ Section 21
 
 ## Annotations
 
-[^key-fe1d6276bf67e2d01adde372fc62f07e]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/2/paragraph/1) in force at 3.12.2011 for specified purposes by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/e)
+[^c-fe1d6276bf67e2d01adde372fc62f07e]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/2/paragraph/1) in force at 3.12.2011 for specified purposes by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/e)
 
-[^key-8ac8c7bb2ec44f18c6041a2929fa9822]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/2/paragraph/1) in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/b) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-8ac8c7bb2ec44f18c6041a2929fa9822]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/2/paragraph/1) in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/b) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-10d93d71161c38c7e17ca285b3462e58]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/2/paragraph/1) in force at 9.3.2012 for specified purposes by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/628/article/2/a)
+[^c-10d93d71161c38c7e17ca285b3462e58]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/2/paragraph/1) in force at 9.3.2012 for specified purposes by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/628/article/2/a)
 
-[^key-c1dd7be8551ac359933b90467cb1b495]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/2/paragraph/1) in force at 4.5.2012 in so far as not already in force by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b)
+[^c-c1dd7be8551ac359933b90467cb1b495]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/2/paragraph/1) in force at 4.5.2012 in so far as not already in force by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b)
 
-[^key-eb19d803e67d5567366036eb3da07f04]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/2/paragraph/2) in force at 3.12.2011 for specified purposes by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/e)
+[^c-eb19d803e67d5567366036eb3da07f04]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/2/paragraph/2) in force at 3.12.2011 for specified purposes by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/e)
 
-[^key-1a378d8eb946b7228d88962ab48f5cfa]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/2/paragraph/2) in force at 9.3.2012 for specified purposes by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/628/article/2/a)
+[^c-1a378d8eb946b7228d88962ab48f5cfa]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/2/paragraph/2) in force at 9.3.2012 for specified purposes by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/628/article/2/a)
 
-[^key-b2c4c4d0cd908782c5cca7d1c2e3e32f]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/2/paragraph/2) in force at 4.5.2012 in so far as not already in force by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b)
+[^c-b2c4c4d0cd908782c5cca7d1c2e3e32f]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/2/paragraph/2) in force at 4.5.2012 in so far as not already in force by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b)

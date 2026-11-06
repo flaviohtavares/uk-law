@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Time limit for exercise of authority to acquire land compulsorily[^key-0da286a3fa962570b1133a87291c03de]
+## 17. Time limit for exercise of authority to acquire land compulsorily[^c-0da286a3fa962570b1133a87291c03de]
 
 *Extent: E+W+S*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0da286a3fa962570b1133a87291c03de]: Commencement: Art. 17 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
+[^c-0da286a3fa962570b1133a87291c03de]: Commencement: Art. 17 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
 
 [^f00029]: Footnote: Section 5 (notice to treat, and untraced owners) of the Compulsory Purchase Act 1965 was amended by section 67 of the Planning and Compensation Act 1991 and by paragraph 60 of Schedule 1 to [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

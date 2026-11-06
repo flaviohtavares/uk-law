@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 228. Guidance[^key-836d84d44c657052e349dc0ef54c7b56][^key-c8381e8f0ee5c56a1501e276c2232af9]
+## 228. Guidance[^c-836d84d44c657052e349dc0ef54c7b56][^c-c8381e8f0ee5c56a1501e276c2232af9]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-836d84d44c657052e349dc0ef54c7b56]: Commencement: S. 228 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-836d84d44c657052e349dc0ef54c7b56]: Commencement: S. 228 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-c8381e8f0ee5c56a1501e276c2232af9]: Commencement: [S. 228](https://www.legislation.gov.uk/ukpga/2026/20/section/228) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z4)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z4)
+[^c-c8381e8f0ee5c56a1501e276c2232af9]: Commencement: [S. 228](https://www.legislation.gov.uk/ukpga/2026/20/section/228) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z4)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Detailed design[^key-54767f3e16f7f49080ecdbfa3194cde1]
+## 54. Detailed design[^c-54767f3e16f7f49080ecdbfa3194cde1]
 
 *Extent: E+W*
 
@@ -42,7 +42,7 @@ summary: ''
 
 (7) The floodplain compensation scheme approved under paragraph (5) must be implemented and maintained for the lifetime of scheme 06 unless otherwise agreed with the Environment Agency.
 
-(8) The undertaker must not commence construction of any of the viaducts comprised in Work Nos. 0405-1A(xii), 0405-2A(x), 06-1C(vi) and 06-1C(x) until details of the design and external appearance of the viaducts have been submitted to and[^key-3a0f2475234434d3869689dfa10c170f] approved in writing by the Secretary of State following consultation with the relevant planning authority.
+(8) The undertaker must not commence construction of any of the viaducts comprised in Work Nos. 0405-1A(xii), 0405-2A(x), 06-1C(vi) and 06-1C(x) until details of the design and external appearance of the viaducts have been submitted to and[^c-3a0f2475234434d3869689dfa10c170f] approved in writing by the Secretary of State following consultation with the relevant planning authority.
 
 (9) The undertaker must not commence the construction of Work No. 06-7 until detailed designs for these Works including the locations of any draining ponds and access roads and the associated ancillary works have been submitted to and approved in writing by the Secretary of State following consultation with the relevant planning authority.
 
@@ -50,10 +50,10 @@ summary: ''
 
 ## Annotations
 
-[^key-54767f3e16f7f49080ecdbfa3194cde1]: Commencement: Art. 54 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-54767f3e16f7f49080ecdbfa3194cde1]: Commencement: Art. 54 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
 
 [^f00112]: Footnote: [1949 c. 97](https://www.legislation.gov.uk/ukpga/1949/97). Section 11A was inserted by section 62 of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25). It was further amended by section 245(3) of the Levelling-up and Regeneration Act [2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55) to make provision for the amended statutory duty placed on relevant authorities.
 
 [^f00113]: Footnote: [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37). Section 85 was amended by section 245(6) of the Levelling-up and Regeneration Act 2023 to make provision for the amended statutory duty placed on relevant authorities.
 
-[^key-3a0f2475234434d3869689dfa10c170f]: Textual amendment: Word in [art. 54(8)](https://www.legislation.gov.uk/uksi/2024/360/article/54/8) inserted (15.10.2025) by [The A66 Northern Trans-Pennine Development Consent (Correction) Order 2025 (S.I. 2025/1084)](https://www.legislation.gov.uk/uksi/2025/1084), [art. 1](https://www.legislation.gov.uk/uksi/2025/1084/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/1084/schedule/paragraph/1)
+[^c-3a0f2475234434d3869689dfa10c170f]: Textual amendment: Word in [art. 54(8)](https://www.legislation.gov.uk/uksi/2024/360/article/54/8) inserted (15.10.2025) by [The A66 Northern Trans-Pennine Development Consent (Correction) Order 2025 (S.I. 2025/1084)](https://www.legislation.gov.uk/uksi/2025/1084), [art. 1](https://www.legislation.gov.uk/uksi/2025/1084/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/1084/schedule/paragraph/1)

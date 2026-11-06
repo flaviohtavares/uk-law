@@ -34,7 +34,7 @@ Exiting The European Union
 
 Public Procurement
 
-The Public Procurement etc. (Scotland) (Amendment) (EU Exit) Amendment (No. 2) Regulations 2019 (revoked)[^key-c074175fe8d91a91b3efcd4533de0839]
+The Public Procurement etc. (Scotland) (Amendment) (EU Exit) Amendment (No. 2) Regulations 2019 (revoked)[^c-c074175fe8d91a91b3efcd4533de0839]
 
 Made
 
@@ -46,24 +46,24 @@ Laid before the Scottish Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-c074175fe8d91a91b3efcd4533de0839]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c074175fe8d91a91b3efcd4533de0839]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c074175fe8d91a91b3efcd4533de0839]
+## 1. Citation and commencement[^c-c074175fe8d91a91b3efcd4533de0839]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Public Procurement etc. (Scotland) (Amendment) (EU Exit) Regulations 2019[^key-c074175fe8d91a91b3efcd4533de0839]
+## 2. Amendment of the Public Procurement etc. (Scotland) (Amendment) (EU Exit) Regulations 2019[^c-c074175fe8d91a91b3efcd4533de0839]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c074175fe8d91a91b3efcd4533de0839]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c074175fe8d91a91b3efcd4533de0839]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c074175fe8d91a91b3efcd4533de0839]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c074175fe8d91a91b3efcd4533de0839]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c074175fe8d91a91b3efcd4533de0839]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2020/468/regulation/2/2/c)
+[^c-c074175fe8d91a91b3efcd4533de0839]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2020/468/regulation/2/2/c)

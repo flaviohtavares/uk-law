@@ -35,34 +35,34 @@ approving the basic substance cow milk in accordance with Regulation (EC) No 110
 
 (Text with EEA relevance) (revoked)
 
-[^key-a94aead1ceebd7c715be2c06c9fff703]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a94aead1ceebd7c715be2c06c9fff703]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Approval of a basic substance[^key-a94aead1ceebd7c715be2c06c9fff703]
+## Article 1. Approval of a basic substance[^c-a94aead1ceebd7c715be2c06c9fff703]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Amendments to Implementing Regulation (EU) No 540/2011[^key-a94aead1ceebd7c715be2c06c9fff703]
+## Article 2. Amendments to Implementing Regulation (EU) No 540/2011[^c-a94aead1ceebd7c715be2c06c9fff703]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-a94aead1ceebd7c715be2c06c9fff703]
+## Article 3. Entry into force[^c-a94aead1ceebd7c715be2c06c9fff703]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a94aead1ceebd7c715be2c06c9fff703]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a94aead1ceebd7c715be2c06c9fff703]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-a94aead1ceebd7c715be2c06c9fff703]
+## ANNEX I[^c-a94aead1ceebd7c715be2c06c9fff703]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-a94aead1ceebd7c715be2c06c9fff703]
+## ANNEX II[^c-a94aead1ceebd7c715be2c06c9fff703]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a94aead1ceebd7c715be2c06c9fff703]: Textual amendment: Regulation revoked (4.4.2022) by [The Pesticides (Revocation) (EU Exit) Regulations 2022 (S.I. 2022/144)](https://www.legislation.gov.uk/uksi/2022/144), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/144/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/144/schedule)
+[^c-a94aead1ceebd7c715be2c06c9fff703]: Textual amendment: Regulation revoked (4.4.2022) by [The Pesticides (Revocation) (EU Exit) Regulations 2022 (S.I. 2022/144)](https://www.legislation.gov.uk/uksi/2022/144), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/144/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/144/schedule)

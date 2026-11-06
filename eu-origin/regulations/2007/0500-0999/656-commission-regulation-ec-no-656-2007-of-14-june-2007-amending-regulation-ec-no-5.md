@@ -33,22 +33,22 @@ of 14 June 2007
 
 amending Regulation (EC) No 586/2001 on implementing Council Regulation (EC) No 1165/98 concerning short-term statistics as regards the definition of main industrial groupings (MIGS) (revoked)
 
-[^key-9907b776751e243759ff8619cc1de9c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9907b776751e243759ff8619cc1de9c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-9907b776751e243759ff8619cc1de9c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-9907b776751e243759ff8619cc1de9c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-9907b776751e243759ff8619cc1de9c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-9907b776751e243759ff8619cc1de9c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9907b776751e243759ff8619cc1de9c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9907b776751e243759ff8619cc1de9c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-9907b776751e243759ff8619cc1de9c8]
+## ANNEX[^c-9907b776751e243759ff8619cc1de9c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9907b776751e243759ff8619cc1de9c8]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [Sch. 1 para. 101](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/101); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9907b776751e243759ff8619cc1de9c8]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [Sch. 1 para. 101](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/101); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

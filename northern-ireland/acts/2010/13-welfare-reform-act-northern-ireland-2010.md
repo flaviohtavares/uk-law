@@ -115,9 +115,9 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 > - (a) regulations under Article 19A may make different provision for different areas; *(affected by repeal, see note)*[^M_F_4b5eb95f-fd3a-43da-aeda-7643bddec627]
 > - (b) regulations under Article 19A may make provision which applies only in relation to an area or areas specified in the regulations. *(affected by repeal, see note)*[^M_F_4b5eb95f-fd3a-43da-aeda-7643bddec627]
 
-(4)[^key-ba8bd50a6cb2ead6460361f3f6bf1eee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ba8bd50a6cb2ead6460361f3f6bf1eee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-ba8bd50a6cb2ead6460361f3f6bf1eee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-ba8bd50a6cb2ead6460361f3f6bf1eee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Revised system of working-age benefits
 
@@ -392,16 +392,16 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (2) In Article 3 (the jobseeker's allowance)—
 
-- (a)[^key-a5009e8b13211ae8967fbe6366f3f4f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-a5009e8b13211ae8967fbe6366f3f4f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (4), for the definition of “a joint-claim couple” substitute—
 
   > “**a joint-claim couple**” means a couple other than a couple of a prescribed description;
 
   .
 
-(3)[^key-5a411fd772f9baffa81b9b409887c654] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5a411fd772f9baffa81b9b409887c654] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-5a411fd772f9baffa81b9b409887c654] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-5a411fd772f9baffa81b9b409887c654] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 5. Couples where at least one member capable of work
 
@@ -492,17 +492,17 @@ by virtue of any provision of sections 4 to 6.
 - “**income-related employment and support allowance**” means an income-related allowance under Part 1 of the Welfare Reform Act (employment and support allowance);
 - “**transitional allowance**” means an income-based jobseeker's allowance or income-related employment and support allowance.
 
-#### 8. Assembly procedure: regulations imposing work-related activity requirements on lone parents of children under 5[^key-f2c07038335fa4217bdf710ed67d5b5b]
+#### 8. Assembly procedure: regulations imposing work-related activity requirements on lone parents of children under 5[^c-f2c07038335fa4217bdf710ed67d5b5b]
 
 (1) This section applies to regulations— *(affected by repeal, see note)*[^M_F_60f4429c-541f-4ade-dd58-bab721339259]
 
 - (a) made within 5 years of the passing of this Act; and *(affected by repeal, see note)*[^M_F_60f4429c-541f-4ade-dd58-bab721339259]
-- (b) made under any relevant provision which impose a requirement on any lone parent of a child under the age of *(affected by repeal, see note)*[^M_F_60f4429c-541f-4ade-dd58-bab721339259] 5[^key-1c3cba8a63b42499b95ffc91d0af05e1] *(affected by repeal, see note)*[^M_F_60f4429c-541f-4ade-dd58-bab721339259] to undertake work-related activity (within the meaning of the regulations). *(affected by repeal, see note)*[^M_F_60f4429c-541f-4ade-dd58-bab721339259]
+- (b) made under any relevant provision which impose a requirement on any lone parent of a child under the age of *(affected by repeal, see note)*[^M_F_60f4429c-541f-4ade-dd58-bab721339259] 5[^c-1c3cba8a63b42499b95ffc91d0af05e1] *(affected by repeal, see note)*[^M_F_60f4429c-541f-4ade-dd58-bab721339259] to undertake work-related activity (within the meaning of the regulations). *(affected by repeal, see note)*[^M_F_60f4429c-541f-4ade-dd58-bab721339259]
 
 (2) In subsection (1) “**relevant provision**” means—
 
 - (a) section 2D(1) of the Administration Act,
-- (b)[^key-6932dc48504604cbf05dfd1d6da8fed5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-6932dc48504604cbf05dfd1d6da8fed5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) section 13 of the Welfare Reform Act. *(affected by repeal, see note)*[^M_F_a08358fa-7c37-48da-ba26-71bcb7b6142c]
 
 (3) Regulations (whether alone or with other provisions) to which this section applies shall be laid before the Assembly after being made and shall take effect on such date as may be specified in the regulations, but shall (without prejudice to the validity of anything done thereunder or to the making of new regulations) cease to have effect upon the expiration of a period of six months from that date unless at some time before the expiration of that period the regulations have been approved by a resolution of the Assembly. *(affected by repeal, see note)*[^M_F_122a93ea-7d8c-437d-d84e-0f902943251e]
@@ -709,19 +709,19 @@ In section 15 of the Welfare Reform Act (directions about work-related activity)
 
 ### Community care grants
 
-#### 15. Community care grants relating to specified goods or services[^key-3c30eed53e99adbffd289072016e54e5]
+#### 15. Community care grants relating to specified goods or services[^c-3c30eed53e99adbffd289072016e54e5]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Community care grants: reviews and information[^key-3c30eed53e99adbffd289072016e54e5]
+#### 16. Community care grants: reviews and information[^c-3c30eed53e99adbffd289072016e54e5]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Regulations relating to information: Assembly control[^key-3c30eed53e99adbffd289072016e54e5]
+#### 17. Regulations relating to information: Assembly control[^c-3c30eed53e99adbffd289072016e54e5]
 
 **Not yet in force.**
 
@@ -731,7 +731,7 @@ In section 15 of the Welfare Reform Act (directions about work-related activity)
 
 **Not yet in force.**
 
-#### 18. Payments on account[^key-1bf3ccd647727d01fa7908fc4f7d6bc3]
+#### 18. Payments on account[^c-1bf3ccd647727d01fa7908fc4f7d6bc3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -865,7 +865,7 @@ In section 15 of the Welfare Reform Act (directions about work-related activity)
 - (a) Part 1 contains further amendments of the 2001 Act, and
 - (b) Part 2 contains related amendments of other statutory provisions.
 
-#### 20. Jobseeker's allowance: sanctions for violent conduct etc. in connection with claim[^key-4afb9a9950e2c1f93b0ce9e56aa77f8c]
+#### 20. Jobseeker's allowance: sanctions for violent conduct etc. in connection with claim[^c-4afb9a9950e2c1f93b0ce9e56aa77f8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -952,7 +952,7 @@ In the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (
 
 (2) In section 14 of the Welfare Reform Act (employment and support allowance: action plans in connection with work-focused interviews) at the end add—
 
-> (5) In preparing any claimant commitment or[^key-67e1707922eb1f10a00f03d4a4472e1a] action plan, the Department or the Department for Employment and Learning must have regard (so far as practicable) to its impact on the well-being of any person under the age of 16 who may be affected by it.
+> (5) In preparing any claimant commitment or[^c-67e1707922eb1f10a00f03d4a4472e1a] action plan, the Department or the Department for Employment and Learning must have regard (so far as practicable) to its impact on the well-being of any person under the age of 16 who may be affected by it.
 
 .
 
@@ -964,25 +964,25 @@ In the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (
 
 > **22E. Contracting out (affected by repeal, see note)[^M_F_7d81e198-4397-4d90-d513-0370bb94597c]**
 >
-> (1)[^key-7257ed8ab214b88e465561a95345f211] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (1)[^c-7257ed8ab214b88e465561a95345f211] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > (2) The following functions of officers of the Department or of the Department for Employment and Learning may be exercised by, or by employees of, such person (if any) as that Department may authorise for the purpose, namely— *(affected by repeal, see note)*[^M_F_7d81e198-4397-4d90-d513-0370bb94597c]
 >
 > - (a) specifying places and times, and being contacted, under Article 10; *(affected by repeal, see note)*[^M_F_7d81e198-4397-4d90-d513-0370bb94597c]
 > - (b) entering into or varying any jobseeker's agreement under Article 11 or 12 and referring any proposed agreement or variation to the Department under Article 11 or 12; *(affected by repeal, see note)*[^M_F_7d81e198-4397-4d90-d513-0370bb94597c]
-> - (c) giving notifications under Article 18 *(affected by repeal, see note)*[^M_F_7d81e198-4397-4d90-d513-0370bb94597c] [^key-7257ed8ab214b88e465561a95345f211]...;
-> - (d)[^key-7257ed8ab214b88e465561a95345f211] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (c) giving notifications under Article 18 *(affected by repeal, see note)*[^M_F_7d81e198-4397-4d90-d513-0370bb94597c] [^c-7257ed8ab214b88e465561a95345f211]...;
+> - (d)[^c-7257ed8ab214b88e465561a95345f211] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > (3) Regulations may provide for any of the following functions of the Department or of the Department for Employment and Learning to be exercisable by, or by employees of, such person (if any) as that Department may authorise for the purpose— *(affected by repeal, see note)*[^M_F_7d81e198-4397-4d90-d513-0370bb94597c]
 >
-> - (a) any function under regulations under Article 10, *(affected by repeal, see note)*[^M_F_7d81e198-4397-4d90-d513-0370bb94597c] [^key-7257ed8ab214b88e465561a95345f211]... 19A [^key-7257ed8ab214b88e465561a95345f211]..., except the making of an excluded decision (see paragraph (4)); *(affected by repeal, see note)*[^M_F_7d81e198-4397-4d90-d513-0370bb94597c]
+> - (a) any function under regulations under Article 10, *(affected by repeal, see note)*[^M_F_7d81e198-4397-4d90-d513-0370bb94597c] [^c-7257ed8ab214b88e465561a95345f211]... 19A [^c-7257ed8ab214b88e465561a95345f211]..., except the making of an excluded decision (see paragraph (4)); *(affected by repeal, see note)*[^M_F_7d81e198-4397-4d90-d513-0370bb94597c]
 > - (b) the function under Article 10(1) of the 1998 Order (revision of decisions) so far as relating to decisions (other than excluded decisions) that relate to any matter arising under any such regulations; *(affected by repeal, see note)*[^M_F_7d81e198-4397-4d90-d513-0370bb94597c]
 > - (c) the function under Article 11(1) of the 1998 Order (superseding of decisions) so far as relating to decisions (other than excluded decisions) that relate to any matter arising under any such regulations; *(affected by repeal, see note)*[^M_F_7d81e198-4397-4d90-d513-0370bb94597c]
 > - (d) any function under Chapter 2 of Part 2 of the 1998 Order (social security decisions), except Article 25(2) and (3) (decisions involving issues arising on appeal in other cases), which relates to the exercise of any of the functions within sub-paragraphs (a) to (c). *(affected by repeal, see note)*[^M_F_7d81e198-4397-4d90-d513-0370bb94597c]
 >
 > (4) Each of the following is an “ *(affected by repeal, see note)*[^M_F_7d81e198-4397-4d90-d513-0370bb94597c]**excluded decision *(affected by repeal, see note)*[^M_F_7d81e198-4397-4d90-d513-0370bb94597c]**” for the purposes of paragraph (3)— *(affected by repeal, see note)*[^M_F_7d81e198-4397-4d90-d513-0370bb94597c]
 >
-> - (a) a decision about whether a person has failed to comply with a requirement imposed by regulations under Article 10, *(affected by repeal, see note)*[^M_F_7d81e198-4397-4d90-d513-0370bb94597c] [^key-7257ed8ab214b88e465561a95345f211]... [^key-c4d7e3b246aed844f3a2cf34615fe5f3]...;
+> - (a) a decision about whether a person has failed to comply with a requirement imposed by regulations under Article 10, *(affected by repeal, see note)*[^M_F_7d81e198-4397-4d90-d513-0370bb94597c] [^c-7257ed8ab214b88e465561a95345f211]... [^c-c4d7e3b246aed844f3a2cf34615fe5f3]...;
 > - (b) a decision about whether a person had good cause for failure to comply with such a requirement; *(affected by repeal, see note)*[^M_F_7d81e198-4397-4d90-d513-0370bb94597c]
 > - (c) a decision about not paying or reducing a jobseeker's allowance in consequence of a failure to comply with such a requirement. *(affected by repeal, see note)*[^M_F_7d81e198-4397-4d90-d513-0370bb94597c]
 >
@@ -1035,14 +1035,14 @@ In the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (
 - (a) Article 10(1)(a), *(affected by repeal, see note)*[^M_F_8e9c13a7-9e2b-4a2e-c275-5531968aa9bb]
 - (b) Article 11(1), (5), (6) and (7)(b), *(affected by repeal, see note)*[^M_F_8e9c13a7-9e2b-4a2e-c275-5531968aa9bb]
 - (c) Article 12(1), (4), (5) and (6)(b)(ii), *(affected by repeal, see note)*[^M_F_8e9c13a7-9e2b-4a2e-c275-5531968aa9bb]
-- (d)[^key-de994293c4efa91c1ce01ac2af48921c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-de994293c4efa91c1ce01ac2af48921c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-de994293c4efa91c1ce01ac2af48921c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-de994293c4efa91c1ce01ac2af48921c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-ebf0fbca24760158feaf7731b92d87d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ebf0fbca24760158feaf7731b92d87d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-c38ace1f293a6c32b5c99950cbd1b678] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c38ace1f293a6c32b5c99950cbd1b678] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 27. Attendance in connection with jobseeker's allowance: sanctions[^key-43cc8566a08d4009e136803d224a0734]
+#### 27. Attendance in connection with jobseeker's allowance: sanctions[^c-43cc8566a08d4009e136803d224a0734]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1117,7 +1117,7 @@ In the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (
 
 ## PART 2 — CHILD MAINTENANCE
 
-### 31. Payments of child support maintenance[^key-7de1cc9a78c2c737db04d55db2ca0a1a]
+### 31. Payments of child support maintenance[^c-7de1cc9a78c2c737db04d55db2ca0a1a]
 
 (1) Article 29 of the Child Support Order (collection of child support maintenance) is amended as follows.
 
@@ -1141,9 +1141,9 @@ In the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (
 
 ### 32. Child support maintenance: offences relating to information[^c20432121]
 
-(1)[^key-8b168ce13dd66ffd59183747733cd1a3] Article 16A of the Child Support Order (information – offences) is amended as follows.
+(1)[^c-8b168ce13dd66ffd59183747733cd1a3] Article 16A of the Child Support Order (information – offences) is amended as follows.
 
-(2)[^key-8b168ce13dd66ffd59183747733cd1a3] For paragraph (3A) substitute
+(2)[^c-8b168ce13dd66ffd59183747733cd1a3] For paragraph (3A) substitute
 
 > (3A) In the case of regulations under Article 16 which require a person liable to make payments of child support maintenance to notify—
 >
@@ -1233,7 +1233,7 @@ This Act may be cited as the Welfare Reform Act (Northern Ireland) 2010.
 
 SCHEDULES
 
-## SCHEDULE 1 — AMENDMENTS CONNECTED TO SECTION 4[^key-4925a2b34853c98c0f5102d813e26d04]
+## SCHEDULE 1 — AMENDMENTS CONNECTED TO SECTION 4[^c-4925a2b34853c98c0f5102d813e26d04]
 
 **Not yet in force.**
 
@@ -1536,16 +1536,16 @@ Section 34.
 | Short Title | Extent of repeal |
 | --- | --- |
 | The Social Security Administration (Northern Ireland) Act 1992 (c. 8) | In section 2A(8), in the definition of “the designated authority”, paragraph (b).<br>In section 2AA(7), in the definition of “designated authority”, paragraph (b).<br>Section 2B.<br>Section 5(1)(s).<br>In section 149(5), in paragraph (af) of the definition of “the relevant enactments”, the words “, 53 to 56”. |
-| The Jobseekers (Northern Ireland) Order 1995 (NI 15) | [^key-4df0f6af3267b45de09af7c432d13646]...<br>[^key-4df0f6af3267b45de09af7c432d13646]...<br>[^key-21d466714f31fb65282f970709bca17b]...<br>[^key-21d466714f31fb65282f970709bca17b]...<br>Article 21(10)(a). |
+| The Jobseekers (Northern Ireland) Order 1995 (NI 15) | [^c-4df0f6af3267b45de09af7c432d13646]...<br>[^c-4df0f6af3267b45de09af7c432d13646]...<br>[^c-21d466714f31fb65282f970709bca17b]...<br>[^c-21d466714f31fb65282f970709bca17b]...<br>Article 21(10)(a). |
 | The Employment Rights (Northern Ireland) Order 1996 (NI 16) | In Schedule 1, in the entry relating to the Jobseekers (Northern Ireland) Order 1995, the words “and 21(7)”. |
 | The Social Security (Northern Ireland) Order 1998 (NI 10) | In Schedule 2, paragraph 5A (together with the italic heading immediately before it).<br>In Schedule 3, paragraph 3(e).<br>In Schedule 6, paragraphs 110, 111 and 113. |
-| The Welfare Reform and Pensions (Northern Ireland) Order 1999 (NI 11) | Article 57.<br>Article 69(3)(b).<br>In Article 73(6) and (7), the words “57 or”.<br>In Schedule 7, paragraphs [^key-21d466714f31fb65282f970709bca17b]... 8(5) to (7)[^key-21d466714f31fb65282f970709bca17b]....<br>In Schedule 8, paragraph 27(3), (5) and (6).<br>In Schedule 9, paragraph 61. |
+| The Welfare Reform and Pensions (Northern Ireland) Order 1999 (NI 11) | Article 57.<br>Article 69(3)(b).<br>In Article 73(6) and (7), the words “57 or”.<br>In Schedule 7, paragraphs [^c-21d466714f31fb65282f970709bca17b]... 8(5) to (7)[^c-21d466714f31fb65282f970709bca17b]....<br>In Schedule 8, paragraph 27(3), (5) and (6).<br>In Schedule 9, paragraph 61. |
 | The Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4) | Sections 53 to 57. |
 | The Social Security Fraud Act (Northern Ireland) 2001 (c. 17) | In section 6, in subsection (8), the definitions of “disqualifying benefit” and “sanctionable benefit”.<br>In section 7(2)(b), sub-paragraph (ii) and the word “or” before it.<br>Section 11(1).<br>In section 12, the definitions of “disqualification period” and “post-commencement offence”. |
 | The Social Security Act (Northern Ireland) 2002 (c. 10) | In Schedule 1, paragraphs 6, 10 and 11. |
 | The State Pension Credit Act (Northern Ireland) 2002 (c. 14) | In Schedule 2, paragraph 33(b). |
-| [^key-867c9d3e9d43995c3f4507ed18b532ab]. . . | [^key-867c9d3e9d43995c3f4507ed18b532ab]. . . |
-| The Welfare Reform Act (Northern Ireland) 2007 (c. 2) | In Schedule 3, paragraphs [^key-21d466714f31fb65282f970709bca17b]... 13 and 14(3). |
+| [^c-867c9d3e9d43995c3f4507ed18b532ab]. . . | [^c-867c9d3e9d43995c3f4507ed18b532ab]. . . |
+| The Welfare Reform Act (Northern Ireland) 2007 (c. 2) | In Schedule 3, paragraphs [^c-21d466714f31fb65282f970709bca17b]... 13 and 14(3). |
 
 ### PART 4 — CHILD MAINTENANCE
 
@@ -1564,7 +1564,7 @@ Section 34.
 
 [^M_F_4b5eb95f-fd3a-43da-aeda-7643bddec627]: Textual amendment: S. 1(1)-(3) repealed (27.9.2017 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/uksi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/uksi/2015/2006/article/2/2), [Sch. 12 Pt. 4](https://www.legislation.gov.uk/uksi/2015/2006/schedule/12/part/4); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 9](https://www.legislation.gov.uk/nisr/2017/190/article/9) (with [arts. 10-25](https://www.legislation.gov.uk/nisr/2017/190/article/10))
 
-[^key-ba8bd50a6cb2ead6460361f3f6bf1eee]: Textual amendment: S. 1(4)(5) repealed (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 3](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/3); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 3(1)](https://www.legislation.gov.uk/nisr/2017/190/article/3/1)[(2)(j)](https://www.legislation.gov.uk/nisr/2017/190/article/3/2/j)
+[^c-ba8bd50a6cb2ead6460361f3f6bf1eee]: Textual amendment: S. 1(4)(5) repealed (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 3](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/3); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 3(1)](https://www.legislation.gov.uk/nisr/2017/190/article/3/1)[(2)(j)](https://www.legislation.gov.uk/nisr/2017/190/article/3/2/j)
 
 [^M_F_efa65180-7faf-4d15-f8d0-ff2bf81b1895]: Textual amendment: S. 3(3)-(5) repealed (27.9.2017 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/uksi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/uksi/2015/2006/article/2/2), [Sch. 12 Pt. 5](https://www.legislation.gov.uk/uksi/2015/2006/schedule/12/part/5); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 9](https://www.legislation.gov.uk/nisr/2017/190/article/9) (with [arts. 10-25](https://www.legislation.gov.uk/nisr/2017/190/article/10))
 
@@ -1572,17 +1572,17 @@ Section 34.
 
 [^M_F_08204359-d0ed-4258-fae2-03e8286d3746]: Textual amendment: S. 3(3)-(5) repealed (27.9.2017 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/uksi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/uksi/2015/2006/article/2/2), [Sch. 12 Pt. 5](https://www.legislation.gov.uk/uksi/2015/2006/schedule/12/part/5); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 9](https://www.legislation.gov.uk/nisr/2017/190/article/9) (with [arts. 10-25](https://www.legislation.gov.uk/nisr/2017/190/article/10))
 
-[^key-a5009e8b13211ae8967fbe6366f3f4f7]: Textual amendment: [S. 4(2)(a)](https://www.legislation.gov.uk/nia/2010/13/section/4/2/a) repealed (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/2); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/b)
+[^c-a5009e8b13211ae8967fbe6366f3f4f7]: Textual amendment: [S. 4(2)(a)](https://www.legislation.gov.uk/nia/2010/13/section/4/2/a) repealed (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/2); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/b)
 
-[^key-5a411fd772f9baffa81b9b409887c654]: Textual amendment: [S. 4(3)](https://www.legislation.gov.uk/nia/2010/13/section/4/3)[(4)](https://www.legislation.gov.uk/nia/2010/13/section/4/4) repealed (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/2); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/b)
+[^c-5a411fd772f9baffa81b9b409887c654]: Textual amendment: [S. 4(3)](https://www.legislation.gov.uk/nia/2010/13/section/4/3)[(4)](https://www.legislation.gov.uk/nia/2010/13/section/4/4) repealed (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/2); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/b)
 
-[^key-f2c07038335fa4217bdf710ed67d5b5b]: Textual amendment: Word in s. 8 heading heading substituted (16.1.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [64(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/64/2); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 5(b)](https://www.legislation.gov.uk/nisr/2016/46/article/5/b)
+[^c-f2c07038335fa4217bdf710ed67d5b5b]: Textual amendment: Word in s. 8 heading heading substituted (16.1.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [64(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/64/2); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 5(b)](https://www.legislation.gov.uk/nisr/2016/46/article/5/b)
 
 [^M_F_60f4429c-541f-4ade-dd58-bab721339259]: Textual amendment: S. 8(1) repealed (27.9.2017 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/uksi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/uksi/2015/2006/article/2/2), [Sch. 12 Pt. 5](https://www.legislation.gov.uk/uksi/2015/2006/schedule/12/part/5); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 9](https://www.legislation.gov.uk/nisr/2017/190/article/9) (with [arts. 10-25](https://www.legislation.gov.uk/nisr/2017/190/article/10))
 
-[^key-1c3cba8a63b42499b95ffc91d0af05e1]: Textual amendment: Word in s. 8(1) substituted (16.1.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [64(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/64/2); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 5(b)](https://www.legislation.gov.uk/nisr/2016/46/article/5/b)
+[^c-1c3cba8a63b42499b95ffc91d0af05e1]: Textual amendment: Word in s. 8(1) substituted (16.1.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [64(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/64/2); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 5(b)](https://www.legislation.gov.uk/nisr/2016/46/article/5/b)
 
-[^key-6932dc48504604cbf05dfd1d6da8fed5]: Textual amendment: S. 8(2)(b) repealed (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/2); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/b)
+[^c-6932dc48504604cbf05dfd1d6da8fed5]: Textual amendment: S. 8(2)(b) repealed (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/2); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/b)
 
 [^M_F_a08358fa-7c37-48da-ba26-71bcb7b6142c]: Textual amendment: S. 8(2)(c) repealed (27.9.2017 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/uksi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/uksi/2015/2006/article/2/2), [Sch. 12 Pt. 5](https://www.legislation.gov.uk/uksi/2015/2006/schedule/12/part/5); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 9](https://www.legislation.gov.uk/nisr/2017/190/article/9) (with [arts. 10-25](https://www.legislation.gov.uk/nisr/2017/190/article/10))
 
@@ -1598,15 +1598,15 @@ Section 34.
 
 [^c21962801]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2010/13/section/13) wholly in operation at 11.4.2011; [s. 13](https://www.legislation.gov.uk/nia/2010/13/section/13) not in operation at Royal Assent see [s. 36(2)](https://www.legislation.gov.uk/nia/2010/13/section/36/2); [s. 13](https://www.legislation.gov.uk/nia/2010/13/section/13) in operation for certain purposes at 23.9.2010 and 15.10.2010 and in operation for all other purposes at 11.4.2011 by [S.R. 2010/327](https://www.legislation.gov.uk/nisr/2010/327), [art. 2(1)](https://www.legislation.gov.uk/nisr/2010/327/article/2/1)
 
-[^key-3c30eed53e99adbffd289072016e54e5]: Textual amendment: [Ss. 15-17](https://www.legislation.gov.uk/nia/2010/13/section/15) repealed (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [79](https://www.legislation.gov.uk/nisi/2015/2006/article/79); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/46/article/3/3)
+[^c-3c30eed53e99adbffd289072016e54e5]: Textual amendment: [Ss. 15-17](https://www.legislation.gov.uk/nia/2010/13/section/15) repealed (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [79](https://www.legislation.gov.uk/nisi/2015/2006/article/79); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/46/article/3/3)
 
-[^key-1bf3ccd647727d01fa7908fc4f7d6bc3]: Textual amendment: [S. 18](https://www.legislation.gov.uk/nia/2010/13/section/18) repealed (2.5.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [106(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/106/2); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(6)(a)](https://www.legislation.gov.uk/nisr/2016/215/article/2/6/a)
+[^c-1bf3ccd647727d01fa7908fc4f7d6bc3]: Textual amendment: [S. 18](https://www.legislation.gov.uk/nia/2010/13/section/18) repealed (2.5.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [106(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/106/2); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(6)(a)](https://www.legislation.gov.uk/nisr/2016/215/article/2/6/a)
 
-[^key-4afb9a9950e2c1f93b0ce9e56aa77f8c]: Textual amendment: [S. 20](https://www.legislation.gov.uk/nia/2010/13/section/20) repealed (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 3](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/3); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 3(1)](https://www.legislation.gov.uk/nisr/2017/190/article/3/1)[(2)(j)](https://www.legislation.gov.uk/nisr/2017/190/article/3/2/j)
+[^c-4afb9a9950e2c1f93b0ce9e56aa77f8c]: Textual amendment: [S. 20](https://www.legislation.gov.uk/nia/2010/13/section/20) repealed (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 3](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/3); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 3(1)](https://www.legislation.gov.uk/nisr/2017/190/article/3/1)[(2)(j)](https://www.legislation.gov.uk/nisr/2017/190/article/3/2/j)
 
 [^M_F_85aa225a-e830-4c88-a8a9-086229cc7f91]: Textual amendment: S. 23 repealed (27.9.2017 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/uksi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/uksi/2015/2006/article/2/2), [Sch. 12 Pt. 4](https://www.legislation.gov.uk/uksi/2015/2006/schedule/12/part/4); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 9](https://www.legislation.gov.uk/nisr/2017/190/article/9) (with [arts. 10-25](https://www.legislation.gov.uk/nisr/2017/190/article/10))
 
-[^key-67e1707922eb1f10a00f03d4a4472e1a]: Textual amendment: Words in [s. 25(2)](https://www.legislation.gov.uk/nia/2010/13/section/25/2) inserted (2.5.2016 for specified purposes) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [60(7)](https://www.legislation.gov.uk/nisi/2015/2006/article/60/7); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(3)(b)](https://www.legislation.gov.uk/nisr/2016/215/article/2/3/b)
+[^c-67e1707922eb1f10a00f03d4a4472e1a]: Textual amendment: Words in [s. 25(2)](https://www.legislation.gov.uk/nia/2010/13/section/25/2) inserted (2.5.2016 for specified purposes) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [60(7)](https://www.legislation.gov.uk/nisi/2015/2006/article/60/7); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(3)(b)](https://www.legislation.gov.uk/nisr/2016/215/article/2/3/b)
 
 [^c22526311]: Commencement: S. 26 partly in operation; s. 26 not in operation at Royal Assent see s. 36(2); s. 26(1) in operation for certain purposes at 20.6.2011 by [S.R. 2011/213](https://www.legislation.gov.uk/nisr/2011/213), [art. 2(a)](https://www.legislation.gov.uk/nisr/2011/213/article/2/a); s. 26(2) in operation for certain purposes at 20.6.2011 by [S.R. 2011/213](https://www.legislation.gov.uk/nisr/2011/213), [art. 2(b)(c)](https://www.legislation.gov.uk/nisr/2011/213/article/2/b/c);
 
@@ -1614,25 +1614,25 @@ Section 34.
 
 [^M_F_7d81e198-4397-4d90-d513-0370bb94597c]: Textual amendment: S. 26(1)-(3) repealed (27.9.2017 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/uksi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/uksi/2015/2006/article/2/2), [Sch. 12 Pt. 4](https://www.legislation.gov.uk/uksi/2015/2006/schedule/12/part/4); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 9](https://www.legislation.gov.uk/nisr/2017/190/article/9) (with [arts. 10-25](https://www.legislation.gov.uk/nisr/2017/190/article/10))
 
-[^key-7257ed8ab214b88e465561a95345f211]: Textual amendment: Words in s. 26(2) repealed (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/2); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/b)
+[^c-7257ed8ab214b88e465561a95345f211]: Textual amendment: Words in s. 26(2) repealed (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/2); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/b)
 
-[^key-c4d7e3b246aed844f3a2cf34615fe5f3]: Textual amendment: Words in s. 26(2) repealed (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 7 para. 15(2)(c)](https://www.legislation.gov.uk/nisi/2015/2006/schedule/7/paragraph/15/2/c); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 3(1)](https://www.legislation.gov.uk/nisr/2017/190/article/3/1)[(2)(h)](https://www.legislation.gov.uk/nisr/2017/190/article/3/2/h)
+[^c-c4d7e3b246aed844f3a2cf34615fe5f3]: Textual amendment: Words in s. 26(2) repealed (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 7 para. 15(2)(c)](https://www.legislation.gov.uk/nisi/2015/2006/schedule/7/paragraph/15/2/c); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 3(1)](https://www.legislation.gov.uk/nisr/2017/190/article/3/1)[(2)(h)](https://www.legislation.gov.uk/nisr/2017/190/article/3/2/h)
 
 [^M_F_8e9c13a7-9e2b-4a2e-c275-5531968aa9bb]: Textual amendment: S. 26(1)-(3) repealed (27.9.2017 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/uksi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/uksi/2015/2006/article/2/2), [Sch. 12 Pt. 4](https://www.legislation.gov.uk/uksi/2015/2006/schedule/12/part/4); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 9](https://www.legislation.gov.uk/nisr/2017/190/article/9) (with [arts. 10-25](https://www.legislation.gov.uk/nisr/2017/190/article/10))
 
-[^key-de994293c4efa91c1ce01ac2af48921c]: Textual amendment: S. 26(3)(d)(e) repealed (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 3](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/3); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 3(1)](https://www.legislation.gov.uk/nisr/2017/190/article/3/1)[(2)(j)](https://www.legislation.gov.uk/nisr/2017/190/article/3/2/j)
+[^c-de994293c4efa91c1ce01ac2af48921c]: Textual amendment: S. 26(3)(d)(e) repealed (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 3](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/3); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 3(1)](https://www.legislation.gov.uk/nisr/2017/190/article/3/1)[(2)(j)](https://www.legislation.gov.uk/nisr/2017/190/article/3/2/j)
 
-[^key-ebf0fbca24760158feaf7731b92d87d7]: Textual amendment: S. 26(4) repealed (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 3](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/3); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 3(1)](https://www.legislation.gov.uk/nisr/2017/190/article/3/1)[(2)(j)](https://www.legislation.gov.uk/nisr/2017/190/article/3/2/j)
+[^c-ebf0fbca24760158feaf7731b92d87d7]: Textual amendment: S. 26(4) repealed (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 3](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/3); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 3(1)](https://www.legislation.gov.uk/nisr/2017/190/article/3/1)[(2)(j)](https://www.legislation.gov.uk/nisr/2017/190/article/3/2/j)
 
-[^key-c38ace1f293a6c32b5c99950cbd1b678]: Textual amendment: S. 26(5) repealed (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/2); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/b)
+[^c-c38ace1f293a6c32b5c99950cbd1b678]: Textual amendment: S. 26(5) repealed (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/2); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/b)
 
-[^key-43cc8566a08d4009e136803d224a0734]: Textual amendment: [S. 27](https://www.legislation.gov.uk/nia/2010/13/section/27) repealed (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 3](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/3); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 3(1)](https://www.legislation.gov.uk/nisr/2017/190/article/3/1)[(2)(j)](https://www.legislation.gov.uk/nisr/2017/190/article/3/2/j)
+[^c-43cc8566a08d4009e136803d224a0734]: Textual amendment: [S. 27](https://www.legislation.gov.uk/nia/2010/13/section/27) repealed (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 3](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/3); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 3(1)](https://www.legislation.gov.uk/nisr/2017/190/article/3/1)[(2)(j)](https://www.legislation.gov.uk/nisr/2017/190/article/3/2/j)
 
-[^key-7de1cc9a78c2c737db04d55db2ca0a1a]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2010/13/section/31) in operation at 3.12.2012 by [S.R. 2012/424](https://www.legislation.gov.uk/nisr/2012/424), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/424/article/2/a)
+[^c-7de1cc9a78c2c737db04d55db2ca0a1a]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2010/13/section/31) in operation at 3.12.2012 by [S.R. 2012/424](https://www.legislation.gov.uk/nisr/2012/424), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/424/article/2/a)
 
 [^c20432121]: Commencement: [S. 32](https://www.legislation.gov.uk/nia/2010/13/section/32) partly in operation; [s. 32(3)](https://www.legislation.gov.uk/nia/2010/13/section/32/3) in operation at 13.8.2010 see [s. 36(1)(n)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/n)
 
-[^key-8b168ce13dd66ffd59183747733cd1a3]: Commencement: [S. 32(1)](https://www.legislation.gov.uk/nia/2010/13/section/32/1)[(2)](https://www.legislation.gov.uk/nia/2010/13/section/32/2) in operation at 3.12.2012 by [S.R. 2012/424](https://www.legislation.gov.uk/nisr/2012/424), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/424/article/2/b)
+[^c-8b168ce13dd66ffd59183747733cd1a3]: Commencement: [S. 32(1)](https://www.legislation.gov.uk/nia/2010/13/section/32/1)[(2)](https://www.legislation.gov.uk/nia/2010/13/section/32/2) in operation at 3.12.2012 by [S.R. 2012/424](https://www.legislation.gov.uk/nisr/2012/424), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/424/article/2/b)
 
 [^c20432361]: Commencement: [S. 34](https://www.legislation.gov.uk/nia/2010/13/section/34) partly in operation; [s. 34(2)(3)](https://www.legislation.gov.uk/nia/2010/13/section/34/2/3) in operation at 13.8.2010 see [s. 36(1)(p)(2)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/p/2); [s. 34(1)](https://www.legislation.gov.uk/nia/2010/13/section/34/1) in operation for certain purposes at 23.9.2010 by [S.R. 2010/327](https://www.legislation.gov.uk/nisr/2010/327), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2010/327/article/2/2/d)
 
@@ -1644,14 +1644,14 @@ Section 34.
 
     16.12.2011 appointed for specified provisions by [S.R. 2011/430](https://www.legislation.gov.uk/nisr/2011/430), [art. 2](https://www.legislation.gov.uk/nisr/2011/430/article/2)
 
-[^key-4925a2b34853c98c0f5102d813e26d04]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nia/2010/13/schedule/1) repealed (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/2); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/b)
+[^c-4925a2b34853c98c0f5102d813e26d04]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nia/2010/13/schedule/1) repealed (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/2); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/b)
 
 [^c20432481]: Commencement: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nia/2010/13/schedule/4/part/2) partly in force; [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nia/2010/13/schedule/4/part/2) in force for specified purposes at 13.8.2010 but with effect for certain repeals at 14.8.2010, see [ss. 34(2)](https://www.legislation.gov.uk/nia/2010/13/section/34/2), [36(1)(p)(2)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/p/2)
 
 [^c21962811]: Commencement: Sch. 4 Pt. 3 partly in operation; Sch. 4 Pt. 3 not in operation at Royal Assent see s. 36(2); Sch. 4 Pt. 3 in operation for certain purposes at 23.9.2010 by [S.R. 2010/327](https://www.legislation.gov.uk/nisr/2010/327), [art. 2(2)(c)](https://www.legislation.gov.uk/nisr/2010/327/article/2/2/c)
 
-[^key-4df0f6af3267b45de09af7c432d13646]: Textual amendment: Words in Sch. 4 Pt. 3 repealed (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 3](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/3); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 3(1)](https://www.legislation.gov.uk/nisr/2017/190/article/3/1)[(2)(j)](https://www.legislation.gov.uk/nisr/2017/190/article/3/2/j)
+[^c-4df0f6af3267b45de09af7c432d13646]: Textual amendment: Words in Sch. 4 Pt. 3 repealed (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 3](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/3); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 3(1)](https://www.legislation.gov.uk/nisr/2017/190/article/3/1)[(2)(j)](https://www.legislation.gov.uk/nisr/2017/190/article/3/2/j)
 
-[^key-21d466714f31fb65282f970709bca17b]: Textual amendment: Words in Sch. 4 Pt. 3 repealed (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/2); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/b)
+[^c-21d466714f31fb65282f970709bca17b]: Textual amendment: Words in Sch. 4 Pt. 3 repealed (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/2); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/b)
 
-[^key-867c9d3e9d43995c3f4507ed18b532ab]: Textual amendment: Words in [Sch. 4 Pt. 3](https://www.legislation.gov.uk/nia/2010/13/schedule/4/part/3) repealed (27.9.2017 for the repeal of the entry relating to the Civil Partnership Act 2004 for specified purposes, 15.11.2017 and 13.12.2017 for the repeal of the entry relating to the Civil Partnership Act 2004 for specified purposes, 17.1.2018 and further specified dates for the repeal of the entry relating to the Civil Partnership Act 2004 for specified purposes, 16.5.2018 and further specified dates for the repeal of the entry relating to the Civil Partnership Act 2004 for specified purposes, 5.9.2018 and further specified dates for the repeal of the entry relating to the Civil Partnership Act 2004 for specified purposes, 1.2.2019 for the repeal of the entry relating to the Civil Partnership Act 2004 for specified purposes, 1.12.2025 for specified purposes, 1.4.2026 for specified purposes) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 1](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/1); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 6](https://www.legislation.gov.uk/nisr/2017/190/article/6), [Sch. 2](https://www.legislation.gov.uk/nisr/2017/190/schedule/2) (with [arts. 7](https://www.legislation.gov.uk/nisr/2017/190/article/7), [8](https://www.legislation.gov.uk/nisr/2017/190/article/8), [10-25](https://www.legislation.gov.uk/nisr/2017/190/article/10), [Sch. 3](https://www.legislation.gov.uk/nisr/2017/190/schedule/3)); [S.R. 2017/216](https://www.legislation.gov.uk/nisr/2017/216), [art. 4](https://www.legislation.gov.uk/nisr/2017/216/article/4) (with [art. 5](https://www.legislation.gov.uk/nisr/2017/216/article/5)); [S.R. 2018/1](https://www.legislation.gov.uk/nisr/2018/1), [art. 4](https://www.legislation.gov.uk/nisr/2018/1/article/4) (with [art. 5](https://www.legislation.gov.uk/nisr/2018/1/article/5)); [S.R. 2018/97](https://www.legislation.gov.uk/nisr/2018/97), [art. 4](https://www.legislation.gov.uk/nisr/2018/97/article/4) (with [art. 5](https://www.legislation.gov.uk/nisr/2018/97/article/5)); [S.R. 2018/138](https://www.legislation.gov.uk/nisr/2018/138), [art. 4](https://www.legislation.gov.uk/nisr/2018/138/article/4) (with [art. 5](https://www.legislation.gov.uk/nisr/2018/138/article/5)); [S.R. 2019/7](https://www.legislation.gov.uk/nisr/2019/7), [art. 2(5)-(7)](https://www.legislation.gov.uk/nisr/2019/7/article/2/5) (with [art. 2(8)-(12)](https://www.legislation.gov.uk/nisr/2019/7/article/2/8)); [S.R. 2025/176](https://www.legislation.gov.uk/nisr/2025/176), [arts. 2](https://www.legislation.gov.uk/nisr/2025/176/article/2), [4](https://www.legislation.gov.uk/nisr/2025/176/article/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2025/176/article/3))
+[^c-867c9d3e9d43995c3f4507ed18b532ab]: Textual amendment: Words in [Sch. 4 Pt. 3](https://www.legislation.gov.uk/nia/2010/13/schedule/4/part/3) repealed (27.9.2017 for the repeal of the entry relating to the Civil Partnership Act 2004 for specified purposes, 15.11.2017 and 13.12.2017 for the repeal of the entry relating to the Civil Partnership Act 2004 for specified purposes, 17.1.2018 and further specified dates for the repeal of the entry relating to the Civil Partnership Act 2004 for specified purposes, 16.5.2018 and further specified dates for the repeal of the entry relating to the Civil Partnership Act 2004 for specified purposes, 5.9.2018 and further specified dates for the repeal of the entry relating to the Civil Partnership Act 2004 for specified purposes, 1.2.2019 for the repeal of the entry relating to the Civil Partnership Act 2004 for specified purposes, 1.12.2025 for specified purposes, 1.4.2026 for specified purposes) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 1](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/1); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 6](https://www.legislation.gov.uk/nisr/2017/190/article/6), [Sch. 2](https://www.legislation.gov.uk/nisr/2017/190/schedule/2) (with [arts. 7](https://www.legislation.gov.uk/nisr/2017/190/article/7), [8](https://www.legislation.gov.uk/nisr/2017/190/article/8), [10-25](https://www.legislation.gov.uk/nisr/2017/190/article/10), [Sch. 3](https://www.legislation.gov.uk/nisr/2017/190/schedule/3)); [S.R. 2017/216](https://www.legislation.gov.uk/nisr/2017/216), [art. 4](https://www.legislation.gov.uk/nisr/2017/216/article/4) (with [art. 5](https://www.legislation.gov.uk/nisr/2017/216/article/5)); [S.R. 2018/1](https://www.legislation.gov.uk/nisr/2018/1), [art. 4](https://www.legislation.gov.uk/nisr/2018/1/article/4) (with [art. 5](https://www.legislation.gov.uk/nisr/2018/1/article/5)); [S.R. 2018/97](https://www.legislation.gov.uk/nisr/2018/97), [art. 4](https://www.legislation.gov.uk/nisr/2018/97/article/4) (with [art. 5](https://www.legislation.gov.uk/nisr/2018/97/article/5)); [S.R. 2018/138](https://www.legislation.gov.uk/nisr/2018/138), [art. 4](https://www.legislation.gov.uk/nisr/2018/138/article/4) (with [art. 5](https://www.legislation.gov.uk/nisr/2018/138/article/5)); [S.R. 2019/7](https://www.legislation.gov.uk/nisr/2019/7), [art. 2(5)-(7)](https://www.legislation.gov.uk/nisr/2019/7/article/2/5) (with [art. 2(8)-(12)](https://www.legislation.gov.uk/nisr/2019/7/article/2/8)); [S.R. 2025/176](https://www.legislation.gov.uk/nisr/2025/176), [arts. 2](https://www.legislation.gov.uk/nisr/2025/176/article/2), [4](https://www.legislation.gov.uk/nisr/2025/176/article/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2025/176/article/3))

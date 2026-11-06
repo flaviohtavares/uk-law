@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Low cost home ownership[^key-866ed8872e5649942faa9bb539a60eb4][^key-04308b78f4225cf10a2db1c4f39a888b]
+## 70. Low cost home ownership[^c-866ed8872e5649942faa9bb539a60eb4][^c-04308b78f4225cf10a2db1c4f39a888b]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-866ed8872e5649942faa9bb539a60eb4]: Commencement: S. 70 in force at 8.9.2008 for specified purposes by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/3/1)
+[^c-866ed8872e5649942faa9bb539a60eb4]: Commencement: S. 70 in force at 8.9.2008 for specified purposes by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/3/1)
 
-[^key-04308b78f4225cf10a2db1c4f39a888b]: Commencement: S. 70 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-04308b78f4225cf10a2db1c4f39a888b]: Commencement: S. 70 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))

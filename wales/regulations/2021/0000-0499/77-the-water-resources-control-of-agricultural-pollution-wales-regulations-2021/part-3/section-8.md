@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Total nitrogen spread on a holding[^key-9003c0627a9838c452329d750c91344d]
+## 8. Total nitrogen spread on a holding[^c-9003c0627a9838c452329d750c91344d]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ does not in any 12 month period exceed the limits set out in regulation 10.
 
 ## Annotations
 
-[^key-9003c0627a9838c452329d750c91344d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2021/77/regulation/8) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-9003c0627a9838c452329d750c91344d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2021/77/regulation/8) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

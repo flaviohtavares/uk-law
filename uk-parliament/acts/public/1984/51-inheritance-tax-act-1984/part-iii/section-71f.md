@@ -60,11 +60,11 @@ the tax is calculated in accordance with this section.
 (9) The amount referred to in subsection (8)(a) above is equal to the aggregate of—
 
 - (a) the value, immediately after the settlement commenced, of the property then comprised in it,
-- (b) the value, immediately afer a related settlement commenced, of the property then comprised in it which was property to which section 71D above applied[^key-d014485db5f05533de2d9437c3d3007a] , and
+- (b) the value, immediately afer a related settlement commenced, of the property then comprised in it which was property to which section 71D above applied[^c-d014485db5f05533de2d9437c3d3007a] , and
 - (c) the value, immediately after it became comprised in the settlement, of any property which became so comprised after the settlement commenced and before the occasion of the charge under section 71E above (whether or not it has remained so comprised).
 
 ## Annotations
 
 [^c19473191]: Textual amendment: Ss. 71A-71H inserted (22.3.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 156](https://www.legislation.gov.uk/ukpga/2006/25/section/156), [Sch. 20 para. 1(1)(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/20/paragraph/1/1/2)
 
-[^key-d014485db5f05533de2d9437c3d3007a]: Textual amendment: Words in s. 71F(9)(b) inserted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2015/33/schedule/1/paragraph/6)
+[^c-d014485db5f05533de2d9437c3d3007a]: Textual amendment: Words in s. 71F(9)(b) inserted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2015/33/schedule/1/paragraph/6)

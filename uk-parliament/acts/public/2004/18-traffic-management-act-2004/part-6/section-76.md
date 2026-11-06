@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Civil enforcement officers[^key-c71615f83219cf9f5a2e5d50a61e0dbf][^key-c9988c799f86512ab9d69f4fc69cc07c]
+## 76. Civil enforcement officers[^c-c71615f83219cf9f5a2e5d50a61e0dbf][^c-c9988c799f86512ab9d69f4fc69cc07c]
 
 *Extent: E+W*
 
@@ -39,12 +39,12 @@ summary: ''
 - (a) is a civil enforcement officer in relation to parking contraventions for which that authority is the enforcement authority, and
 - (b) may be appointed a civil enforcement officer in relation to other road traffic contraventions for which they are the enforcement authority.
 
-(6)[^key-fa0f6241fec892ad9496dd553da20ba7] In this section “ **local authority** ” includes a non-metropolitan district council.
+(6)[^c-fa0f6241fec892ad9496dd553da20ba7] In this section “ **local authority** ” includes a non-metropolitan district council.
 
 ## Annotations
 
-[^key-c71615f83219cf9f5a2e5d50a61e0dbf]: Commencement: S. 76 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/c)
+[^c-c71615f83219cf9f5a2e5d50a61e0dbf]: Commencement: S. 76 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/c)
 
-[^key-c9988c799f86512ab9d69f4fc69cc07c]: Commencement: S. 76 in force at 23.7.2007 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(c)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
+[^c-c9988c799f86512ab9d69f4fc69cc07c]: Commencement: S. 76 in force at 23.7.2007 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(c)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
 
-[^key-fa0f6241fec892ad9496dd553da20ba7]: Textual amendment: S. 76(6) inserted (26.1.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 127(2)](https://www.legislation.gov.uk/ukpga/2008/26/section/127/2), [134(2)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/2)
+[^c-fa0f6241fec892ad9496dd553da20ba7]: Textual amendment: S. 76(6) inserted (26.1.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 127(2)](https://www.legislation.gov.uk/ukpga/2008/26/section/127/2), [134(2)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/2)

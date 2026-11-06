@@ -29,10 +29,10 @@ summary: ''
 - (c) ensure that any systems used in connection with the processing function properly and may, in the case of interruption, be restored, and
 - (d) ensure that stored personal data cannot be corrupted if a system used in connection with the processing malfunctions.
 
-(3)[^key-02a6528f0ef1de1eccead8b29c583d45] Adherence to a code of conduct approved under section 71A may be used by a controller or processor as a means of demonstrating compliance with subsection (1).
+(3)[^c-02a6528f0ef1de1eccead8b29c583d45] Adherence to a code of conduct approved under section 71A may be used by a controller or processor as a means of demonstrating compliance with subsection (1).
 
 ## Annotations
 
 [^M_I_b816fd11-02d6-4987-c11f-0d83ef14b625]: Commencement: S. 66 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/c)
 
-[^key-02a6528f0ef1de1eccead8b29c583d45]: Textual amendment: [S. 66(3)](https://www.legislation.gov.uk/ukpga/2018/12/section/66/3) inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 84(5)](https://www.legislation.gov.uk/ukpga/2025/18/section/84/5), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/d)
+[^c-02a6528f0ef1de1eccead8b29c583d45]: Textual amendment: [S. 66(3)](https://www.legislation.gov.uk/ukpga/2018/12/section/66/3) inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 84(5)](https://www.legislation.gov.uk/ukpga/2025/18/section/84/5), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/d)

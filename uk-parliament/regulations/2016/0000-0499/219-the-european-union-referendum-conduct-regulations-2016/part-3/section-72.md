@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Entitlement to vote by post or by proxy[^key-4231325c8b205ceab8e543193905881d]
+## 72. Entitlement to vote by post or by proxy[^c-4231325c8b205ceab8e543193905881d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4231325c8b205ceab8e543193905881d]: Commencement: Reg. 72 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-4231325c8b205ceab8e543193905881d]: Commencement: Reg. 72 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

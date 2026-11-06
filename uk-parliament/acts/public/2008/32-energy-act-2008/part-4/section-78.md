@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Third party access to infrastructure[^key-cc08cbe280e9a934a4e27e504b6caea6]
+## 78. Third party access to infrastructure[^c-cc08cbe280e9a934a4e27e504b6caea6]
 
 *Extent: E+W+S+N.I.*
 
@@ -99,4 +99,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc08cbe280e9a934a4e27e504b6caea6]: Commencement: S. 78 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(c)](https://www.legislation.gov.uk/uksi/2009/45/article/4/c)
+[^c-cc08cbe280e9a934a4e27e504b6caea6]: Commencement: S. 78 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(c)](https://www.legislation.gov.uk/uksi/2009/45/article/4/c)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18B. Information to be given on communicating with a member about what the member may do with flexible benefits[^key-99ed6e5768be6f3800354b15f2aebf65]
+## 18B. Information to be given on communicating with a member about what the member may do with flexible benefits[^c-99ed6e5768be6f3800354b15f2aebf65]
 
 *Extent: E+W+S*
 
-(1) Subject to paragraph (5) and regulation 18C[^key-f0dd583c4a03af8b3f27aa25827d46b9], the information mentioned in paragraph (2) must be given to a member in accordance with this regulation where—
+(1) Subject to paragraph (5) and regulation 18C[^c-f0dd583c4a03af8b3f27aa25827d46b9], the information mentioned in paragraph (2) must be given to a member in accordance with this regulation where—
 
 - (a) the member has an opportunity to transfer flexible benefits;
 - (b) the trustees or managers of the scheme contact the member, or the member contacts the trustees or managers of the scheme, in connection with what the member may do with the flexible benefits; and
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-99ed6e5768be6f3800354b15f2aebf65]: Textual amendment: Regs. 18A, 18B inserted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations 2015 (S.I. 2015/482)](https://www.legislation.gov.uk/uksi/2015/482), [regs. 1](https://www.legislation.gov.uk/uksi/2015/482/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/482/regulation/7)
+[^c-99ed6e5768be6f3800354b15f2aebf65]: Textual amendment: Regs. 18A, 18B inserted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations 2015 (S.I. 2015/482)](https://www.legislation.gov.uk/uksi/2015/482), [regs. 1](https://www.legislation.gov.uk/uksi/2015/482/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/482/regulation/7)
 
-[^key-f0dd583c4a03af8b3f27aa25827d46b9]: Textual amendment: Words in [reg. 18B(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/18B/1) inserted (1.6.2022) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Requirements to Refer Members to Guidance etc.) (Amendment) Regulations 2022 (S.I. 2022/30)](https://www.legislation.gov.uk/uksi/2022/30), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/30/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2022/30/regulation/2/5)
+[^c-f0dd583c4a03af8b3f27aa25827d46b9]: Textual amendment: Words in [reg. 18B(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/18B/1) inserted (1.6.2022) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Requirements to Refer Members to Guidance etc.) (Amendment) Regulations 2022 (S.I. 2022/30)](https://www.legislation.gov.uk/uksi/2022/30), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/30/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2022/30/regulation/2/5)

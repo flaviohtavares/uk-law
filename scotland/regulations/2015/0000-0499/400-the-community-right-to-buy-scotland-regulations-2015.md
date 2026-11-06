@@ -48,7 +48,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — Introductory and general
 
-### 1. Citation, commencement, interpretation and application[^key-983b37a1fba531077bbae222f7333790]
+### 1. Citation, commencement, interpretation and application[^c-983b37a1fba531077bbae222f7333790]
 
 (1) These Regulations may be cited as the Community Right to Buy (Scotland) Regulations 2015 and come into force on 15th April 2016.
 
@@ -68,7 +68,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - (c) any right to buy land arising under Part 2 of the Act in which a community interest in land has been registered, or the exercise of such a right, where that interest relates to an application to register a community interest in land made on or after 15th April 2016;
 - (d) a type of area specified in regulation 2 where—
   - (i) any such type of area relates to a community body; and
-  - (ii) the community body makes an application to register a community interest in land on or after 15th April 2016[^key-804764e38a4141a83187e78a678c6507];
+  - (ii) the community body makes an application to register a community interest in land on or after 15th April 2016[^c-804764e38a4141a83187e78a678c6507];
 - (e) maps, plans or other drawings that must be provided under section 41(3)(b)[^f00006] of the Act where these describe land in respect of which a community interest in land is registered and that interest relates to an application to register a community interest in land made on or after 15th April 2016;
 - (f) a notice or notification that is required to be—
   - (i) affixed to land as required by section 37(4)(b)[^f00007] of the Act where the public notice under section 37(4)(b) is given on or after 15th April 2016;
@@ -85,7 +85,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 2 — Community areas
 
-### 2. Prescribed types of area[^key-aeb36c50b6fd62f89a94014375842837]
+### 2. Prescribed types of area[^c-aeb36c50b6fd62f89a94014375842837]
 
 For the purposes of section 34(5)[^f00010] of the Act, the types of area by reference to which a community shall be defined are—
 
@@ -100,18 +100,18 @@ For the purposes of section 34(5)[^f00010] of the Act, the types of area by refe
 
 ## PART 3 — Applications to register and re-register an interest in land
 
-### 3. Specifications of maps, plans or other drawings[^key-e46202c837b2ddc9dfce9c36d77a4c7a]
+### 3. Specifications of maps, plans or other drawings[^c-e46202c837b2ddc9dfce9c36d77a4c7a]
 
 The specifications to which maps, plans or other drawings are to be prepared for the purpose of section 36(2)(f) of the Act are specified in Part 1 of Schedule 1.
 
-### 4. Application to register or re-register a community interest in land[^key-91ee2f45d42d4e9f7bc4c948085b12ba]
+### 4. Application to register or re-register a community interest in land[^c-91ee2f45d42d4e9f7bc4c948085b12ba]
 
 For the purposes of section 37(1) of the Act, an application to register a community interest in land must—
 
 - (a) except where it is an application to re-register a community interest in land, be provided in the form specified in Schedule 2; or
 - (b) where a community body which has registered a community interest in land applies to re-register that interest[^f00015], be provided in the form specified in Schedule 3.
 
-### 5. Kinds of information to accompany an application to register or re-register a community interest in land[^key-47da2a022581cf89fa5721caf20c70bf]
+### 5. Kinds of information to accompany an application to register or re-register a community interest in land[^c-47da2a022581cf89fa5721caf20c70bf]
 
 For the purposes of section 37(1), the kinds of information that must accompany an application to register a community interest in land are—
 
@@ -122,11 +122,11 @@ For the purposes of section 37(1), the kinds of information that must accompany 
 
 ## PART 4 — Notices
 
-### 6. Public notice of application to register a community interest in land where the owner or creditor is unknown or cannot be found[^key-cbc140e46639d91fa64f3f5bc653304f]
+### 6. Public notice of application to register a community interest in land where the owner or creditor is unknown or cannot be found[^c-cbc140e46639d91fa64f3f5bc653304f]
 
 A notice that is required to be affixed to land as required by section 37(4)(b)[^f00016] of the Act is to be in the form of notice specified in Schedule 4.
 
-### 7. Salmon fishings or mineral rights: public notice of application to register a community interest in land where the owner or creditor is unknown or cannot be found[^key-c56c5da9e79ebaabcc9e926983e6bcf0]
+### 7. Salmon fishings or mineral rights: public notice of application to register a community interest in land where the owner or creditor is unknown or cannot be found[^c-c56c5da9e79ebaabcc9e926983e6bcf0]
 
 (1) Subject to paragraph (2), for the purposes of section 37(4A)[^f00017] of the Act, the community body must advertise the proposed application to register a community interest in land in at least one of the following ways—
 
@@ -136,15 +136,15 @@ A notice that is required to be affixed to land as required by section 37(4)(b)[
 
 (2) For the purposes of paragraph (1)(c), the local newsletter, circular or similar document may be in paper or electronic form.
 
-### 8. Notice by Ministers on whether a community interest in land is to be entered in the Register[^key-a28faee40fc4d741cde9c4d4bfbb821d]
+### 8. Notice by Ministers on whether a community interest in land is to be entered in the Register[^c-a28faee40fc4d741cde9c4d4bfbb821d]
 
 A notice that is required to be sent under section 37(17) of the Act containing the decision of Ministers whether or not a community interest in land is to be entered in the Register[^f00018] is to be in the form of notice specified in Schedule 5.
 
-### 9. Notification by an owner or creditor of proposed transfer of land[^key-08d49b48a7a19e7ac7e5b45d952b3641]
+### 9. Notification by an owner or creditor of proposed transfer of land[^c-08d49b48a7a19e7ac7e5b45d952b3641]
 
 A notification that requires to be given under section 48(1) of the Act, by an owner of land in respect of which a community interest in land is registered or, as the case may be, a creditor in a standard security with a right to sell such land, is to be in the form of a notification specified in Schedule 6.
 
-### 10. Notices following receipt of a notice under section 48 of the Act[^key-3e9d538e94f8862aed96288ea74e4723]
+### 10. Notices following receipt of a notice under section 48 of the Act[^c-3e9d538e94f8862aed96288ea74e4723]
 
 (1) A notice that is required to be sent by Ministers under section 49(2)(a) of the Act is to be in the form of notice specified in Schedule 7.
 
@@ -152,7 +152,7 @@ A notification that requires to be given under section 48(1) of the Act, by an o
 
 ## PART 5 — Late applications
 
-### 11. Late applications: similar community bodies[^key-eee5550a0480c23d34a50f0c7d59aa28]
+### 11. Late applications: similar community bodies[^c-eee5550a0480c23d34a50f0c7d59aa28]
 
 (1) The matters that Ministers must have regard to when considering under section 39(3)(ab)[^f00019] of the Act, as read with section 39(7)(c)[^f00020] of the Act, whether a community body is similar to another community body to a significant degree are—
 
@@ -171,27 +171,27 @@ A notification that requires to be given under section 48(1) of the Act, by an o
 
 ## PART 6 — Exempt transfer
 
-### 12. Exempt transfer: specifications of maps, plans or other drawings[^key-52e14c3d0231ac3781f0768cf6c6738f]
+### 12. Exempt transfer: specifications of maps, plans or other drawings[^c-52e14c3d0231ac3781f0768cf6c6738f]
 
 The specifications to which maps, plans or other drawings are to be prepared when provided under section 41(3)(b)[^f00024] of the Act are specified in Schedule 9.
 
 ## PART 7 — Ballots
 
-### 13. Information to be provided to the ballotter by Ministers[^key-2ba05c54891f08eb39169c3f1433842c]
+### 13. Information to be provided to the ballotter by Ministers[^c-2ba05c54891f08eb39169c3f1433842c]
 
 The information that Ministers must provide to a ballotter under section 51A(2)(b)[^f00025] of the Act is—
 
 - (a) the date by which the ballotter must notify Ministers, the community body, the owner of the land to which the ballot relates and any creditor in a standard security with a right to sell the land of the information referred to in section 52(3)[^f00026] of the Act; and
 - (b) where Ministers have given the community body their consent in writing under section 35(1)[^f00027] of the Act, a copy of the community body’s modified memorandum, articles of association, constitution or registered rules.
 
-### 14. Information to be provided to ballotter by community body[^key-5ac3e2205b97393eba7ad2daed15f733]
+### 14. Information to be provided to ballotter by community body[^c-5ac3e2205b97393eba7ad2daed15f733]
 
 The information that the community body must provide to a ballotter under section 51A(6) of the Act must—
 
 - (a) be provided in the form specified in Schedule 10; and
 - (b) consist of the information specified in that Schedule.
 
-### 15. Conduct of ballot[^key-51e691456f67d8a37f8feba89e83ae33]
+### 15. Conduct of ballot[^c-51e691456f67d8a37f8feba89e83ae33]
 
 (1) The ballot must be conducted as a secret postal ballot.
 
@@ -205,7 +205,7 @@ The information that the community body must provide to a ballotter under sectio
 
 (4) The ballotter must provide to each person eligible to vote a stamped addressed envelope for returning the completed ballot paper.
 
-### 16. Proxy Votes[^key-b2032cea9e0f703ffbda9f6e3a544734]
+### 16. Proxy Votes[^c-b2032cea9e0f703ffbda9f6e3a544734]
 
 (1) A person eligible to vote in the ballot may make a request, in writing, to the ballotter to be permitted a proxy vote.
 
@@ -219,7 +219,7 @@ The information that the community body must provide to a ballotter under sectio
 
 (3) The ballotter must permit a proxy vote to a person who makes a valid request in accordance with paragraphs (1) and (2).
 
-### 17. Ballot results[^key-c55c38c5819c70c9ea7427eb33187c0f]
+### 17. Ballot results[^c-c55c38c5819c70c9ea7427eb33187c0f]
 
 (1) The ballotter must, not later than 14 days from the date specified for the return of the ballot papers, publish in a newspaper circulating in the vicinity of the community—
 
@@ -229,7 +229,7 @@ The information that the community body must provide to a ballotter under sectio
 
 (2) A notification that is required to be made under section 52(3)[^f00029] of the Act must be in the form of return specified in Schedule 11.
 
-### 18. Retention and provision of information by the ballotter[^key-7b7d27e891aeb9cafd62da08cfd456f5]
+### 18. Retention and provision of information by the ballotter[^c-7b7d27e891aeb9cafd62da08cfd456f5]
 
 (1) The ballotter must retain—
 
@@ -246,7 +246,7 @@ for a period of 2 years after the date by which the ballot papers must be return
 - (a) Ministers (for the purposes of conducting a review under regulation 19 or otherwise); or
 - (b) any person with a right of appeal under section 61[^f00031] of the Act.
 
-### 19. Ballot not conducted as prescribed[^key-d81015641a0304a098bdb94db077c931]
+### 19. Ballot not conducted as prescribed[^c-d81015641a0304a098bdb94db077c931]
 
 (1) Ministers may review whether a ballot was conducted in accordance with regulations 15 to 17—
 
@@ -288,11 +288,11 @@ for a period of 2 years after the date by which the ballot papers must be return
 
 (8) If Ministers decide that a ballot has not been conducted in accordance with regulations 15 to 17, a further ballot must be conducted in accordance with regulation 20.
 
-### 20. Conduct of further ballot[^key-70f59d76c8de33c7195ad4df7dbfa690]
+### 20. Conduct of further ballot[^c-70f59d76c8de33c7195ad4df7dbfa690]
 
 (1) Subject to paragraphs (2) and (3), if, by virtue of regulation 19(8), a further ballot must be conducted, that further ballot must be conducted by a ballotter in accordance with the requirements of regulations 15, 16 and 17(1).
 
-(2) In any case where Ministers have given their consent in writing under section 35(1)[^f00033] of the Act, Ministers must provide to the ballotter[^key-88cb2c687e22fe212446dc2b9918dc41] a copy of the community body’s modified memorandum, articles of association, constitution or registered rules not later than 14 days after the date on which Ministers sent notification in accordance with regulation 19(5)(c).
+(2) In any case where Ministers have given their consent in writing under section 35(1)[^f00033] of the Act, Ministers must provide to the ballotter[^c-88cb2c687e22fe212446dc2b9918dc41] a copy of the community body’s modified memorandum, articles of association, constitution or registered rules not later than 14 days after the date on which Ministers sent notification in accordance with regulation 19(5)(c).
 
 (3) Within 14 days from the date on which Ministers sent notification in accordance with regulation 19(5)(c), the community body must provide to the ballotter the following information—
 
@@ -336,7 +336,7 @@ for a period of 2 years after the date by which the ballot papers must be return
 
 ## PART 8 — Consent to right to buy
 
-### 21. Consent to right to buy under section 51 of the Act: duty to provide information[^key-23cf65b012b980eca8bb10ac1752a3c4]
+### 21. Consent to right to buy under section 51 of the Act: duty to provide information[^c-23cf65b012b980eca8bb10ac1752a3c4]
 
 The information that must be provided by a community body in accordance with section 51B(1)(a)[^f00035] of the Act must be—
 
@@ -345,7 +345,7 @@ The information that must be provided by a community body in accordance with sec
 
 ## PART 9 — Compensation
 
-### 22. Procedure for recovering losses and expenses under section 63 of the Act[^key-4a4546352e068958ed416ae001fef868]
+### 22. Procedure for recovering losses and expenses under section 63 of the Act[^c-4a4546352e068958ed416ae001fef868]
 
 (1) A claim for compensation under section 63(1)(a) of the Act in relation to loss or expense incurred in complying with the procedural requirements of Part 2 of the Act must be made within 90 days of the act or event which was last to occur as a result of compliance with those procedural requirements and which gave rise to part or all of the claim.
 
@@ -369,7 +369,7 @@ The information that must be provided by a community body in accordance with sec
 
 ## PART 10 — REVOCATIONS AND SAVINGS
 
-### 23. Revocations and savings[^key-cedd257911ab01cd43596e6e708272b2]
+### 23. Revocations and savings[^c-cedd257911ab01cd43596e6e708272b2]
 
 (1) Subject to paragraph (2), the Regulations specified in the table in Schedule 13 are revoked.
 
@@ -416,7 +416,7 @@ Regulations 3 and 5
 
 ### PART 1 — REGISTER OF COMMUNITY INTERESTS IN LAND – SECTION 36(2)(f) OF THE ACT
 
-**1.**[^key-33c7e8a5ff00827d162962c013f2b205] Maps, plans or other drawings must—
+**1.**[^c-33c7e8a5ff00827d162962c013f2b205] Maps, plans or other drawings must—
 
 - (a) be drawn to a metric scale corresponding to a scale used by the Ordnance Survey for that land;
 - (b) be taxative and not demonstrative only;
@@ -425,11 +425,11 @@ Regulations 3 and 5
 - (e) show the boundaries of the land; and
 - (f) where measurements are given, give those measurements to one decimal place.
 
-**2.**[^key-bcb85c4b7ee2c3943e8c31fbd16d33f7] Where salmon fishings or mineral rights are the subject of the application to register a community interest in land, the land in respect of which the salmon fishings or mineral rights are exigible must be clearly marked on the map, plan or other drawing.
+**2.**[^c-bcb85c4b7ee2c3943e8c31fbd16d33f7] Where salmon fishings or mineral rights are the subject of the application to register a community interest in land, the land in respect of which the salmon fishings or mineral rights are exigible must be clearly marked on the map, plan or other drawing.
 
 ### PART 2 — DESCRIPTION OF AREA OF COMMUNITY
 
-**3.**[^key-b962860f5fc1c8bdc29174899384ab88] Maps or drawings must—
+**3.**[^c-b962860f5fc1c8bdc29174899384ab88] Maps or drawings must—
 
 - (a) be drawn to a metric scale corresponding to a scale used by the Ordnance Survey for that land;
 - (b) be taxative and not demonstrative only;
@@ -438,35 +438,35 @@ Regulations 3 and 5
 - (e) show the boundaries of the area of the community; and
 - (f) where measurements are given, give those measurements to one decimal place.
 
-## SCHEDULE 2 — FORM OF APPLICATION TO REGISTER A COMMUNITY INTEREST IN LAND – SECTION 37(1) OF THE ACT[^key-e0c0af0dd2d7241b98f1dac6fc259fea]
+## SCHEDULE 2 — FORM OF APPLICATION TO REGISTER A COMMUNITY INTEREST IN LAND – SECTION 37(1) OF THE ACT[^c-e0c0af0dd2d7241b98f1dac6fc259fea]
 
 Regulation 4(a)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_001) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_002) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_003) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_004) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_005) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_006) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_007) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_008) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_009) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_010) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_011) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_012) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_013)
 
-## SCHEDULE 3 — FORM OF APPLICATION TO RE-REGISTER AN INTEREST IN LAND – SECTION 37(1) OF THE ACT[^key-9c92a3910b948f66fa75fea4f385b53c]
+## SCHEDULE 3 — FORM OF APPLICATION TO RE-REGISTER AN INTEREST IN LAND – SECTION 37(1) OF THE ACT[^c-9c92a3910b948f66fa75fea4f385b53c]
 
 Regulation 4(b)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_014) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_015) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_016) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_017) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_018) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_019) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_020) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_021) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_022) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_023) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_024) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_025) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_026) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_027)
 
-## SCHEDULE 4 — FORM OF PUBLIC NOTICE OF APPLICATION TO BE AFFIXED TO LAND – SECTION 37(4) OF THE ACT[^key-6bfb7ee30dd85e02de6424774547f9c4]
+## SCHEDULE 4 — FORM OF PUBLIC NOTICE OF APPLICATION TO BE AFFIXED TO LAND – SECTION 37(4) OF THE ACT[^c-6bfb7ee30dd85e02de6424774547f9c4]
 
 Regulation 6
 
-## SCHEDULE 5 — FORM OF NOTICE UNDER SECTION 37(17) OF THE ACT OF MINISTERS’ DECISION ON WHETHER OR NOT A COMMUNITY INTEREST IS TO BE REGISTERED OR RE-REGISTERED[^key-7e26464fcf526e0fe92b07287900f6b7]
+## SCHEDULE 5 — FORM OF NOTICE UNDER SECTION 37(17) OF THE ACT OF MINISTERS’ DECISION ON WHETHER OR NOT A COMMUNITY INTEREST IS TO BE REGISTERED OR RE-REGISTERED[^c-7e26464fcf526e0fe92b07287900f6b7]
 
 Regulation 8
 
-## SCHEDULE 6 — FORM OF NOTICE BY OWNER OR CREDITOR OF PROPOSED TRANSFER OF LAND UNDER SECTION 48(1) OF THE ACT[^key-66316681670b4610eeaf0316d1b26b21]
+## SCHEDULE 6 — FORM OF NOTICE BY OWNER OR CREDITOR OF PROPOSED TRANSFER OF LAND UNDER SECTION 48(1) OF THE ACT[^c-66316681670b4610eeaf0316d1b26b21]
 
 Regulation 9
 
-## SCHEDULE 7 — FORM OF NOTICE UNDER SECTION 49(2)(a) OF THE ACT[^key-adc1629fb9285f23425ed269fa46e8db]
+## SCHEDULE 7 — FORM OF NOTICE UNDER SECTION 49(2)(a) OF THE ACT[^c-adc1629fb9285f23425ed269fa46e8db]
 
 Regulation 10(1)
 
-## SCHEDULE 8 — FORM OF NOTICE UNDER SECTION 49(2)(b) OF THE ACT[^key-eb3e5579ce4ca513f0b0ac54307d1ed2]
+## SCHEDULE 8 — FORM OF NOTICE UNDER SECTION 49(2)(b) OF THE ACT[^c-eb3e5579ce4ca513f0b0ac54307d1ed2]
 
 Regulation 10(2)
 
@@ -474,7 +474,7 @@ Regulation 10(2)
 
 Regulation 12
 
-**1.**[^key-cf5410c8d717fa5996b07913987eeee3] Maps, plans or other drawings must—
+**1.**[^c-cf5410c8d717fa5996b07913987eeee3] Maps, plans or other drawings must—
 
 - (a) be drawn to a metric scale corresponding to a scale used by the Ordnance Survey for that land;
 - (b) be taxative and not demonstrative only;
@@ -483,27 +483,27 @@ Regulation 12
 - (e) show the boundaries of the land; and
 - (f) where measurements are given, give those measurements to one decimal place.
 
-**2.**[^key-539c813090981e6b540201bd18f891d7] Where the land to which the transfer under section 40(4)[^f00043] of the Act relates consists of salmon fishings or mineral rights, the land in respect of which those salmon fishings or mineral rights are eligible must be clearly marked on the map, plan or drawing.
+**2.**[^c-539c813090981e6b540201bd18f891d7] Where the land to which the transfer under section 40(4)[^f00043] of the Act relates consists of salmon fishings or mineral rights, the land in respect of which those salmon fishings or mineral rights are eligible must be clearly marked on the map, plan or drawing.
 
-## SCHEDULE 10 — INFORMATION TO BE PROVIDED TO BALLOTTER – SECTION 51A(6) OF THE ACT[^key-c566f8dc763c9acdb752a7a1859c18aa]
+## SCHEDULE 10 — INFORMATION TO BE PROVIDED TO BALLOTTER – SECTION 51A(6) OF THE ACT[^c-c566f8dc763c9acdb752a7a1859c18aa]
 
 Regulation 14
 
 [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_034) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_035)
 
-## SCHEDULE 11 — FORM OF RETURN OF BALLOT RESULTS – SECTION 52(3) OF THE ACT[^key-662fc4e9fdf88674697b3d09709e7dac][^key-fac7584a4ce2c3871195fa45af05b58f][^key-f063c7b48a633bfecdfe641f3ef50c7e]
+## SCHEDULE 11 — FORM OF RETURN OF BALLOT RESULTS – SECTION 52(3) OF THE ACT[^c-662fc4e9fdf88674697b3d09709e7dac][^c-fac7584a4ce2c3871195fa45af05b58f][^c-f063c7b48a633bfecdfe641f3ef50c7e]
 
 Regulation 17(2)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_036)[image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_epp_001.gif)[image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_037)
 
-## SCHEDULE 12 — FORM OF INFORMATION TO BE PROVIDED BY THE COMMUNITY BODY TO MINISTERS – SECTION 51B OF THE ACT[^key-91e08bb0bdb554f4e4fdf1c998ff0efa]
+## SCHEDULE 12 — FORM OF INFORMATION TO BE PROVIDED BY THE COMMUNITY BODY TO MINISTERS – SECTION 51B OF THE ACT[^c-91e08bb0bdb554f4e4fdf1c998ff0efa]
 
 Regulation 21
 
 [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_038) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_039) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_040) [image: see source](https://www.legislation.gov.uk/ssi/2015/400/images/ssi_20150400_en_041)
 
-## SCHEDULE 13 — REVOCATIONS[^key-02608103031caa55790adaa9a826c3e7]
+## SCHEDULE 13 — REVOCATIONS[^c-02608103031caa55790adaa9a826c3e7]
 
 Regulation 23
 
@@ -570,7 +570,7 @@ Regulation 23 provides for savings. It sets out the circumstances in which the r
 
 [^f00001]: Footnote: [2003 asp 2](https://www.legislation.gov.uk/asp/2003/2). Section 98(1) contains definitions of “Ministers” and “prescribed” relevant to the exercise of the statutory powers under which these Regulations are made. Sections 34, 36, 37, 39, 41, 52 and 53 are relevantly amended by, and sections 51A and 51B inserted by, the Community Empowerment (Scotland) Act [2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6) (“the 2015 Act”), sections 37, 39, 40, 42, 44, 49, 50 and 52, paragraph 8 of schedule 4 and schedule 5.
 
-[^key-983b37a1fba531077bbae222f7333790]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/400/regulation/1) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-983b37a1fba531077bbae222f7333790]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/400/regulation/1) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
 [^f00002]: Footnote: [2005 asp 10](https://www.legislation.gov.uk/asp/2005/10).
 
@@ -580,7 +580,7 @@ Regulation 23 provides for savings. It sets out the circumstances in which the r
 
 [^f00005]: Footnote: [2014 c.14](https://www.legislation.gov.uk/ukpga/2014/14).
 
-[^key-804764e38a4141a83187e78a678c6507]: Textual amendment: Word in [reg. 1(3)(d)(ii)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/3/d/ii) substituted (15.4.2016) by [The Community Right to Buy (Scotland) Amendment Regulations 2016 (S.S.I. 2016/4)](https://www.legislation.gov.uk/ssi/2016/4), [regs. 1](https://www.legislation.gov.uk/ssi/2016/4/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2016/4/regulation/2/2)
+[^c-804764e38a4141a83187e78a678c6507]: Textual amendment: Word in [reg. 1(3)(d)(ii)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/3/d/ii) substituted (15.4.2016) by [The Community Right to Buy (Scotland) Amendment Regulations 2016 (S.S.I. 2016/4)](https://www.legislation.gov.uk/ssi/2016/4), [regs. 1](https://www.legislation.gov.uk/ssi/2016/4/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2016/4/regulation/2/2)
 
 [^f00006]: Footnote: Section 41(3) is inserted by section 44 of the 2015 Act.
 
@@ -590,7 +590,7 @@ Regulation 23 provides for savings. It sets out the circumstances in which the r
 
 [^f00009]: Footnote: Section 56(3)(a) is amended by section 54(a) of the 2015 Act.
 
-[^key-aeb36c50b6fd62f89a94014375842837]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/400/regulation/2) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-aeb36c50b6fd62f89a94014375842837]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/400/regulation/2) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
 [^f00010]: Footnote: Section 34(5) is amended by section 37(7) of the 2015 Act.
 
@@ -602,31 +602,31 @@ Regulation 23 provides for savings. It sets out the circumstances in which the r
 
 [^f00014]: Footnote: ISBN 1-874451-68-0. A National Statistics publication, available via the following weblink http://www.nrscotland.gov.uk/statistics-and-data/census/2001-census/results-and-products/reports-and-data/key-statistics-for-settlements-and-localities-scotland
 
-[^key-e46202c837b2ddc9dfce9c36d77a4c7a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/400/regulation/3) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-e46202c837b2ddc9dfce9c36d77a4c7a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/400/regulation/3) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
-[^key-91ee2f45d42d4e9f7bc4c948085b12ba]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/400/regulation/4) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-91ee2f45d42d4e9f7bc4c948085b12ba]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/400/regulation/4) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
 [^f00015]: Footnote: Section 44(2) of the Act states that a community body which has registered a community interest may, at any time before the expiry of that period, apply under section 37 of the Act to re-register the interest.
 
-[^key-47da2a022581cf89fa5721caf20c70bf]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2015/400/regulation/5) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-47da2a022581cf89fa5721caf20c70bf]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2015/400/regulation/5) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
-[^key-cbc140e46639d91fa64f3f5bc653304f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2015/400/regulation/6) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-cbc140e46639d91fa64f3f5bc653304f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2015/400/regulation/6) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
 [^f00016]: Footnote: Section 37(4)(b) is amended by section 40(a) of the 2015 Act.
 
-[^key-c56c5da9e79ebaabcc9e926983e6bcf0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2015/400/regulation/7) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-c56c5da9e79ebaabcc9e926983e6bcf0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2015/400/regulation/7) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
 [^f00017]: Footnote: Section 37(4A) is inserted by section 40(b) of the 2015 Act.
 
-[^key-a28faee40fc4d741cde9c4d4bfbb821d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2015/400/regulation/8) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-a28faee40fc4d741cde9c4d4bfbb821d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2015/400/regulation/8) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
 [^f00018]: Footnote: Section 36(1) of the Act states that the Keeper shall set up and keep a register, to be known as the Register of Community interests in land (the “Register”).
 
-[^key-08d49b48a7a19e7ac7e5b45d952b3641]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2015/400/regulation/9) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-08d49b48a7a19e7ac7e5b45d952b3641]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2015/400/regulation/9) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
-[^key-3e9d538e94f8862aed96288ea74e4723]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2015/400/regulation/10) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-3e9d538e94f8862aed96288ea74e4723]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2015/400/regulation/10) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
-[^key-eee5550a0480c23d34a50f0c7d59aa28]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2015/400/regulation/11) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-eee5550a0480c23d34a50f0c7d59aa28]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2015/400/regulation/11) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
 [^f00019]: Footnote: Section 39(3)(ab) is substituted by section 42(4) of the 2015 Act.
 
@@ -638,11 +638,11 @@ Regulation 23 provides for savings. It sets out the circumstances in which the r
 
 [^f00023]: Footnote: Section 34(1B)(a) is inserted by section 37(4) of the 2015 Act.
 
-[^key-52e14c3d0231ac3781f0768cf6c6738f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2015/400/regulation/12) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-52e14c3d0231ac3781f0768cf6c6738f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2015/400/regulation/12) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
 [^f00024]: Footnote: Section 41(3)(b) is inserted by section 44 of the 2015 Act.
 
-[^key-2ba05c54891f08eb39169c3f1433842c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2015/400/regulation/13) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-2ba05c54891f08eb39169c3f1433842c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2015/400/regulation/13) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
 [^f00025]: Footnote: Section 51A is inserted by section 49 of the 2015 Act.
 
@@ -650,41 +650,41 @@ Regulation 23 provides for savings. It sets out the circumstances in which the r
 
 [^f00027]: Footnote: Section 35(1) is amended by section 38(3) of the 2015 Act.
 
-[^key-5ac3e2205b97393eba7ad2daed15f733]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2015/400/regulation/14) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-5ac3e2205b97393eba7ad2daed15f733]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2015/400/regulation/14) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
-[^key-51e691456f67d8a37f8feba89e83ae33]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2015/400/regulation/15) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-51e691456f67d8a37f8feba89e83ae33]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2015/400/regulation/15) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
 [^f00028]: Footnote: Section 34(5) of the Act sets out how a community shall be defined for the purposes of section 34(1)(a), (1A)(a) and (1B(a) of the Act.
 
-[^key-b2032cea9e0f703ffbda9f6e3a544734]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2015/400/regulation/16) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-b2032cea9e0f703ffbda9f6e3a544734]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2015/400/regulation/16) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
-[^key-c55c38c5819c70c9ea7427eb33187c0f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2015/400/regulation/17) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-c55c38c5819c70c9ea7427eb33187c0f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2015/400/regulation/17) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
 [^f00029]: Footnote: Section 52(3) is amended by paragraph 8(4)(a) of schedule 4 to the 2015 Act.
 
-[^key-7b7d27e891aeb9cafd62da08cfd456f5]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2015/400/regulation/18) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-7b7d27e891aeb9cafd62da08cfd456f5]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2015/400/regulation/18) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
 [^f00030]: Footnote: Section 51A is inserted by section 49 of the 2015 Act.
 
 [^f00031]: Footnote: Section 61 is amended by section 58 of, and schedule 5 to, the 2015 Act.
 
-[^key-d81015641a0304a098bdb94db077c931]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2015/400/regulation/19) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-d81015641a0304a098bdb94db077c931]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2015/400/regulation/19) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
 [^f00032]: Footnote: Section 52(3) is amended by paragraph 8(4)(a) of schedule 4 to the 2015 Act.
 
-[^key-70f59d76c8de33c7195ad4df7dbfa690]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2015/400/regulation/20) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-70f59d76c8de33c7195ad4df7dbfa690]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2015/400/regulation/20) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
 [^f00033]: Footnote: Section 35(1) is amended by section 38(3) of the 2015 Act.
 
-[^key-88cb2c687e22fe212446dc2b9918dc41]: Textual amendment: Words in [reg. 20(2)](https://www.legislation.gov.uk/ssi/2015/400/regulation/20/2) inserted (15.4.2016) by [The Community Right to Buy (Scotland) Amendment Regulations 2016 (S.S.I. 2016/4)](https://www.legislation.gov.uk/ssi/2016/4), [regs. 1](https://www.legislation.gov.uk/ssi/2016/4/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2016/4/regulation/2/3)
+[^c-88cb2c687e22fe212446dc2b9918dc41]: Textual amendment: Words in [reg. 20(2)](https://www.legislation.gov.uk/ssi/2015/400/regulation/20/2) inserted (15.4.2016) by [The Community Right to Buy (Scotland) Amendment Regulations 2016 (S.S.I. 2016/4)](https://www.legislation.gov.uk/ssi/2016/4), [regs. 1](https://www.legislation.gov.uk/ssi/2016/4/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2016/4/regulation/2/3)
 
 [^f00034]: Footnote: Section 61 is amended by section 58 of, and schedule 5 to, the 2015 Act.
 
-[^key-23cf65b012b980eca8bb10ac1752a3c4]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2015/400/regulation/21) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-23cf65b012b980eca8bb10ac1752a3c4]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2015/400/regulation/21) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
 [^f00035]: Footnote: Section 51B is inserted by section 50 of the 2015 Act.
 
-[^key-4a4546352e068958ed416ae001fef868]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2015/400/regulation/22) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-4a4546352e068958ed416ae001fef868]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2015/400/regulation/22) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
 [^f00036]: Footnote: Section 57 is amended by section 55 of the 2015 Act.
 
@@ -692,7 +692,7 @@ Regulation 23 provides for savings. It sets out the circumstances in which the r
 
 [^f00038]: Footnote: Section 56(3)(a) is amended by section 54(a) of the 2015 Act.
 
-[^key-cedd257911ab01cd43596e6e708272b2]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2015/400/regulation/23) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-cedd257911ab01cd43596e6e708272b2]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2015/400/regulation/23) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
 [^f00039]: Footnote: Section 57 is amended by section 55 of the 2015 Act.
 
@@ -702,40 +702,40 @@ Regulation 23 provides for savings. It sets out the circumstances in which the r
 
 [^f00042]: Footnote: Section 56(3)(a) is amended by section 54(a) of the 2015 Act.
 
-[^key-33c7e8a5ff00827d162962c013f2b205]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2015/400/schedule/1/paragraph/1) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-33c7e8a5ff00827d162962c013f2b205]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2015/400/schedule/1/paragraph/1) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
-[^key-bcb85c4b7ee2c3943e8c31fbd16d33f7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2015/400/schedule/1/paragraph/2) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-bcb85c4b7ee2c3943e8c31fbd16d33f7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2015/400/schedule/1/paragraph/2) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
-[^key-b962860f5fc1c8bdc29174899384ab88]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2015/400/schedule/1/paragraph/3) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-b962860f5fc1c8bdc29174899384ab88]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2015/400/schedule/1/paragraph/3) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
-[^key-e0c0af0dd2d7241b98f1dac6fc259fea]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2015/400/schedule/2) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-e0c0af0dd2d7241b98f1dac6fc259fea]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2015/400/schedule/2) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
-[^key-9c92a3910b948f66fa75fea4f385b53c]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2015/400/schedule/3) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-9c92a3910b948f66fa75fea4f385b53c]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2015/400/schedule/3) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
-[^key-6bfb7ee30dd85e02de6424774547f9c4]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ssi/2015/400/schedule/4) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-6bfb7ee30dd85e02de6424774547f9c4]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ssi/2015/400/schedule/4) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
-[^key-7e26464fcf526e0fe92b07287900f6b7]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ssi/2015/400/schedule/5) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-7e26464fcf526e0fe92b07287900f6b7]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ssi/2015/400/schedule/5) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
-[^key-66316681670b4610eeaf0316d1b26b21]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ssi/2015/400/schedule/6) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-66316681670b4610eeaf0316d1b26b21]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ssi/2015/400/schedule/6) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
-[^key-adc1629fb9285f23425ed269fa46e8db]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ssi/2015/400/schedule/7) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-adc1629fb9285f23425ed269fa46e8db]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ssi/2015/400/schedule/7) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
-[^key-eb3e5579ce4ca513f0b0ac54307d1ed2]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ssi/2015/400/schedule/8) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-eb3e5579ce4ca513f0b0ac54307d1ed2]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ssi/2015/400/schedule/8) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
-[^key-cf5410c8d717fa5996b07913987eeee3]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ssi/2015/400/schedule/9/paragraph/1) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-cf5410c8d717fa5996b07913987eeee3]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ssi/2015/400/schedule/9/paragraph/1) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
-[^key-539c813090981e6b540201bd18f891d7]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ssi/2015/400/schedule/9/paragraph/2) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-539c813090981e6b540201bd18f891d7]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ssi/2015/400/schedule/9/paragraph/2) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
 [^f00043]: Footnote: Section 40(4) is amended by schedule 5 to the 2015 Act.
 
-[^key-c566f8dc763c9acdb752a7a1859c18aa]: Commencement: [Sch. 10](https://www.legislation.gov.uk/ssi/2015/400/schedule/10) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-c566f8dc763c9acdb752a7a1859c18aa]: Commencement: [Sch. 10](https://www.legislation.gov.uk/ssi/2015/400/schedule/10) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
-[^key-662fc4e9fdf88674697b3d09709e7dac]: Commencement: [Sch. 11](https://www.legislation.gov.uk/ssi/2015/400/schedule/11) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-662fc4e9fdf88674697b3d09709e7dac]: Commencement: [Sch. 11](https://www.legislation.gov.uk/ssi/2015/400/schedule/11) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
-[^key-fac7584a4ce2c3871195fa45af05b58f]: Textual amendment: Words in [sch. 11](https://www.legislation.gov.uk/ssi/2015/400/schedule/11) heading inserted (15.4.2016) by [The Community Right to Buy (Scotland) Amendment Regulations 2016 (S.S.I. 2016/4)](https://www.legislation.gov.uk/ssi/2016/4), [regs. 1](https://www.legislation.gov.uk/ssi/2016/4/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2016/4/regulation/2/4/a)
+[^c-fac7584a4ce2c3871195fa45af05b58f]: Textual amendment: Words in [sch. 11](https://www.legislation.gov.uk/ssi/2015/400/schedule/11) heading inserted (15.4.2016) by [The Community Right to Buy (Scotland) Amendment Regulations 2016 (S.S.I. 2016/4)](https://www.legislation.gov.uk/ssi/2016/4), [regs. 1](https://www.legislation.gov.uk/ssi/2016/4/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2016/4/regulation/2/4/a)
 
-[^key-f063c7b48a633bfecdfe641f3ef50c7e]: Textual amendment: [sch. 11 Form 9A](https://www.legislation.gov.uk/ssi/2015/400/schedule/11/form) inserted (15.4.2016) by [The Community Right to Buy (Scotland) Amendment Regulations 2016 (S.S.I. 2016/4)](https://www.legislation.gov.uk/ssi/2016/4), [regs. 1](https://www.legislation.gov.uk/ssi/2016/4/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2016/4/regulation/2/4/b)
+[^c-f063c7b48a633bfecdfe641f3ef50c7e]: Textual amendment: [sch. 11 Form 9A](https://www.legislation.gov.uk/ssi/2015/400/schedule/11/form) inserted (15.4.2016) by [The Community Right to Buy (Scotland) Amendment Regulations 2016 (S.S.I. 2016/4)](https://www.legislation.gov.uk/ssi/2016/4), [regs. 1](https://www.legislation.gov.uk/ssi/2016/4/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2016/4/regulation/2/4/b)
 
-[^key-91e08bb0bdb554f4e4fdf1c998ff0efa]: Commencement: [Sch. 12](https://www.legislation.gov.uk/ssi/2015/400/schedule/12) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-91e08bb0bdb554f4e4fdf1c998ff0efa]: Commencement: [Sch. 12](https://www.legislation.gov.uk/ssi/2015/400/schedule/12) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
 
-[^key-02608103031caa55790adaa9a826c3e7]: Commencement: [Sch. 13](https://www.legislation.gov.uk/ssi/2015/400/schedule/13) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)
+[^c-02608103031caa55790adaa9a826c3e7]: Commencement: [Sch. 13](https://www.legislation.gov.uk/ssi/2015/400/schedule/13) in force at 15.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/400/regulation/1/1)

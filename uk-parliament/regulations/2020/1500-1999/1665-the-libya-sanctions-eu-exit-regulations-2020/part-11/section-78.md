@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Seizure power[^key-984f8ef09e6250a5cc727e8c03d001bb]
+## 78. Seizure power[^c-984f8ef09e6250a5cc727e8c03d001bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-984f8ef09e6250a5cc727e8c03d001bb]: Commencement: Reg. 78 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-984f8ef09e6250a5cc727e8c03d001bb]: Commencement: Reg. 78 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

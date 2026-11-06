@@ -44,13 +44,13 @@ Coming into force in accordance with regulation 1
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by Articles 17(1), (2), (3)(c), (4)(b) and (5)(a)[^f00001] and 55(2) of, and paragraphs 1(1) and (4), 2(2), 5(1), 14(1) and 15 of Schedule 3 to, the Health and Safety at Work (Northern Ireland) Order 1978[^f00002](“the 1978 Order”), as applied and modified, in relation to explosives, by Article 53 of the 1978 Order[^f00003]. In accordance with Article 46(1)[^f00004] of the 1978 Order, as so applied and modified, the Secretary of State has consulted with the Health and Safety Executive for Northern Ireland and such other bodies as appear to the Secretary of State to be appropriate.
 
-## 1. Citation and commencement[^key-4d43147747ba03761bc07551b6cfef16]
+## 1. Citation and commencement[^c-4d43147747ba03761bc07551b6cfef16]
 
 (1) These Regulations may be cited as the Identification and Traceability of Explosives Regulations (Northern Ireland) 2013 and, except as provided in paragraph (2), come into force on 5th April 2013.
 
 (2) Regulations 4(7) and 6, and regulation 8 to the extent that it relates to regulations 4(7) and 6, come into force on 5th April 2015.
 
-## 2. Interpretation[^key-fc72f0ccefd4209dda0edfc80ef63f6c]
+## 2. Interpretation[^c-fc72f0ccefd4209dda0edfc80ef63f6c]
 
 (1) In these Regulations—
 
@@ -66,7 +66,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - “manufacture” includes—
   - (a) in relation to explosive articles, their repair, modification, disassembly or unmaking; and
   - (b) in relation to explosive substances, their reprocessing, modification or adaptation;
-- “[^key-8a7d9e5cebc2283a520221cc088cbb44]**relevant state**” means—
+- “[^c-8a7d9e5cebc2283a520221cc088cbb44]**relevant state**” means—
   - (a) Northern Ireland, or
   - (b) any EEA State;
 - “site”, in relation to a site within Northern Ireland, means the whole area under the control of the same person and, for these purposes—
@@ -86,7 +86,7 @@ and
 - (b) a person engaged in the work of loading or unloading; or
 - (c) the occupier of a place it passes through while on the journey.
 
-## 3. General application[^key-1e81f7278eaab82fca2ec9c7bd84cdb2]
+## 3. General application[^c-1e81f7278eaab82fca2ec9c7bd84cdb2]
 
 (1) These Regulations apply to every explosive except the following—
 
@@ -104,40 +104,40 @@ and
 - (a) “mobile explosives manufacturing unit” means a moveable unit, whether mounted on a vehicle or not, for manufacturing and charging explosives from dangerous goods that are not explosives, with the unit consisting of various tanks, bulk containers and related equipment; and
 - (b) “pyrotechnic article” means any article containing explosive substances or an explosive mixture of substances designed to produce heat, light, sound, gas or smoke or a combination of such effects through self-sustained exothermic chemical reactions.
 
-## 4. Unique identification[^key-7eb671e7d18e40c23b8dccdfcbd651b1][^key-f2ffcb61e0f00a8534b7f31b157d9f28][^key-b1ae470a513c481b13ec1b0cc66e746f]
+## 4. Unique identification[^c-7eb671e7d18e40c23b8dccdfcbd651b1][^c-f2ffcb61e0f00a8534b7f31b157d9f28][^c-b1ae470a513c481b13ec1b0cc66e746f]
 
-(1)[^key-7eb671e7d18e40c23b8dccdfcbd651b1] Subject to paragraphs (3) and (4), any person who manufactures an explosive must, as soon as is practicable after that manufacture and before the explosive may be moved away from the site where it is manufactured—
+(1)[^c-7eb671e7d18e40c23b8dccdfcbd651b1] Subject to paragraphs (3) and (4), any person who manufactures an explosive must, as soon as is practicable after that manufacture and before the explosive may be moved away from the site where it is manufactured—
 
 - (a) mark each explosive item in respect of the explosive with a unique identification in accordance with Schedule 2;
 - (b) where an associated label in respect of that marking is required by that Schedule, attach the label in accordance with those requirements; and
 - (c) where a passive inert electronic tag or associated tag is to be applied in respect of that marking, place that tag in accordance with the applicable provisions of that Schedule.
 
-(2)[^key-7eb671e7d18e40c23b8dccdfcbd651b1] The unique identification must—
+(2)[^c-7eb671e7d18e40c23b8dccdfcbd651b1] The unique identification must—
 
 - (a) comprise the components described in Schedule 1; and
 - (b) be marked on or firmly affixed to the explosive item concerned in a way which ensures that it is durable and clearly legible.
 
-(3)[^key-7eb671e7d18e40c23b8dccdfcbd651b1] Paragraph (1) does not apply where the explosive is manufactured for export and is marked with an identification in accordance with the requirements of the importing country for allowing traceability of the explosive.
+(3)[^c-7eb671e7d18e40c23b8dccdfcbd651b1] Paragraph (1) does not apply where the explosive is manufactured for export and is marked with an identification in accordance with the requirements of the importing country for allowing traceability of the explosive.
 
-(4)[^key-7eb671e7d18e40c23b8dccdfcbd651b1] Where an explosive is subject to a further manufacturing process after its original manufacture, the manufacturer must mark each explosive item in respect of the explosive subjected to that further process, with a new unique identification only if the original unique identification is no longer marked in the way that paragraph (2)(b) requires and any new marking so required must be done as soon as is practicable after that further process and before the explosive may be moved away from the site where it is manufactured.
+(4)[^c-7eb671e7d18e40c23b8dccdfcbd651b1] Where an explosive is subject to a further manufacturing process after its original manufacture, the manufacturer must mark each explosive item in respect of the explosive subjected to that further process, with a new unique identification only if the original unique identification is no longer marked in the way that paragraph (2)(b) requires and any new marking so required must be done as soon as is practicable after that further process and before the explosive may be moved away from the site where it is manufactured.
 
-(5)[^key-7eb671e7d18e40c23b8dccdfcbd651b1] Subject to paragraph (6), a person who imports an explosive into Northern Ireland must, as soon as is practicable after import and before acquisition of the explosive by another person —
+(5)[^c-7eb671e7d18e40c23b8dccdfcbd651b1] Subject to paragraph (6), a person who imports an explosive into Northern Ireland must, as soon as is practicable after import and before acquisition of the explosive by another person —
 
 - (a) mark each explosive item in respect of the explosive with a unique identification in accordance with Schedule 2;
 - (b) where an associated label in respect of that marking is required by that Schedule, attach the label in accordance with those requirements; and
 - (c) where a passive inert electronic tag or associated tag is to be applied in respect of that marking, place that tag in accordance with the applicable provisions of that Schedule.
 
-(6)[^key-7eb671e7d18e40c23b8dccdfcbd651b1] Paragraph (5) does not apply where the explosive items are marked with a unique identification before importation.
+(6)[^c-7eb671e7d18e40c23b8dccdfcbd651b1] Paragraph (5) does not apply where the explosive items are marked with a unique identification before importation.
 
-(7)[^key-f2ffcb61e0f00a8534b7f31b157d9f28] Where a distributor repackages an explosive, the distributor must ensure that—
+(7)[^c-f2ffcb61e0f00a8534b7f31b157d9f28] Where a distributor repackages an explosive, the distributor must ensure that—
 
 - (a) the explosive items in respect of the explosive have the unique identification marked on or affixed to them in accordance with Schedule 2;
 - (b) where an associated label in respect of that marking is required by that Schedule, the label is attached in accordance with those requirements; and
 - (c) where a passive inert electronic tag or associated tag is applied in respect of that marking, that tag is placed in accordance with the applicable provisions of that Schedule.
 
-(8)[^key-7eb671e7d18e40c23b8dccdfcbd651b1] In this regulation, “explosive item” means an explosive article, a container containing an explosive substance or each smallest packaging unit containing explosive.
+(8)[^c-7eb671e7d18e40c23b8dccdfcbd651b1] In this regulation, “explosive item” means an explosive article, a container containing an explosive substance or each smallest packaging unit containing explosive.
 
-## 5. Attribution of manufacturing site codes[^key-912d53681291a3f8878f9a005f5dd85a][^key-fd9db0b1a76727c238977fe12540f471]
+## 5. Attribution of manufacturing site codes[^c-912d53681291a3f8878f9a005f5dd85a][^c-fd9db0b1a76727c238977fe12540f471]
 
 (1) This regulation applies for the purposes of the attribution of a three digit code (referred to in this regulation as the “code”) to a site where explosives are manufactured, which is unique to that site and is a component of the unique identification described in Schedule 1.
 
@@ -146,18 +146,18 @@ and
 - (a) the manufacturer must apply to the Secretary of State to attribute a code for the site; and
 - (b) the Secretary of State must attribute the code and inform the manufacturer accordingly.
 
-(3) For the purposes of the attribution of a code to a site where explosives are manufactured outside of a relevant state[^key-841930e32c694e2fd3d22871922f0d4c]—
+(3) For the purposes of the attribution of a code to a site where explosives are manufactured outside of a relevant state[^c-841930e32c694e2fd3d22871922f0d4c]—
 
-- (a) paragraph (4) applies where the manufacturer is established in a relevant state[^key-daad30c5e1c3bcfe39974b0306aa9209] and the place of import of the explosive is Northern Ireland;
-- (b) paragraph (5) applies where the manufacturer is not established in a relevant state[^key-0f7e4eba07001f931f840baa24d04bb3] and the place of import of the explosive is Northern Ireland; and
-- (c) paragraph (6) applies where the manufacturer is established in Northern Ireland and the place of import of the explosive is [^key-a3dd828432dd1f7d6ed43db7f7724753]... an EEA State [^key-a3dd828432dd1f7d6ed43db7f7724753]....
+- (a) paragraph (4) applies where the manufacturer is established in a relevant state[^c-daad30c5e1c3bcfe39974b0306aa9209] and the place of import of the explosive is Northern Ireland;
+- (b) paragraph (5) applies where the manufacturer is not established in a relevant state[^c-0f7e4eba07001f931f840baa24d04bb3] and the place of import of the explosive is Northern Ireland; and
+- (c) paragraph (6) applies where the manufacturer is established in Northern Ireland and the place of import of the explosive is [^c-a3dd828432dd1f7d6ed43db7f7724753]... an EEA State [^c-a3dd828432dd1f7d6ed43db7f7724753]....
 
 (4) Where this paragraph applies—
 
 - (a) in the case where the manufacturer is established in Northern Ireland—
   - (i) the manufacturer must apply to the Secretary of State to attribute a code for the site where the explosives are manufactured; and
   - (ii) the Secretary of State must attribute the code and inform the manufacturer accordingly; and
-- (b) in the case where the manufacturer is established in [^key-27603b98ba01874f45a31adea4dc1654]... an EEA State [^key-27603b98ba01874f45a31adea4dc1654]...—
+- (b) in the case where the manufacturer is established in [^c-27603b98ba01874f45a31adea4dc1654]... an EEA State [^c-27603b98ba01874f45a31adea4dc1654]...—
   - (i) the Secretary of State must attribute a code for the site where the explosives are manufactured when it receives a request from the manufacturer to do so; and
   - (ii) the Secretary of State must inform the manufacturer accordingly.
 
@@ -166,9 +166,9 @@ and
 - (a) the importer must apply to the Secretary of State to attribute a code for the site where the explosives are manufactured; and
 - (b) the Secretary of State must attribute the code and inform the importer accordingly.
 
-(6)[^key-71305950fd5e7e1e2265a38e49fd4990] Where this paragraph applies, the manufacturer must apply to the national authority of the EEA State of import of the explosive for that national authority to attribute a code for the site where the explosives are manufactured.
+(6)[^c-71305950fd5e7e1e2265a38e49fd4990] Where this paragraph applies, the manufacturer must apply to the national authority of the EEA State of import of the explosive for that national authority to attribute a code for the site where the explosives are manufactured.
 
-## 6. Records[^key-57f6db6f59ffdb198b19489b7915b27d][^key-24e8911f526eec5fa180dda0000bc3f1]
+## 6. Records[^c-57f6db6f59ffdb198b19489b7915b27d][^c-24e8911f526eec5fa180dda0000bc3f1]
 
 (1) Subject to paragraph (2), a person (referred to in this regulation as “person A”) who manufactures, imports, distributes, acquires or keeps any explosive must, in respect of any explosive manufactured in, or imported into, Northern Ireland on or after 5th April 2015, keep a record in respect of that explosive containing the information referred to in paragraph (3).
 
@@ -207,7 +207,7 @@ and
 
 (9) Where a business of person A which manufactures, imports, distributes, acquires or keeps explosives is to cease to trade, person A must notify the enforcing authority of that fact and provide any record still required to be kept pursuant to paragraph (6) to that authority, who must keep that record for the remainder of the period referred to in that paragraph.
 
-## 7. Review[^key-41a47fe7d09ae3879baafc99c500f2fc]
+## 7. Review[^c-41a47fe7d09ae3879baafc99c500f2fc]
 
 (1) The Secretary of State must from time to time—
 
@@ -215,7 +215,7 @@ and
 - (b) set out the conclusions of the review in a report, and
 - (c) publish the report.
 
-(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how EEA[^key-7d6a46ecaee7974dad899c2cf24da8ed] States have implemented Commission Directive [2008/43/EC](https://www.legislation.gov.uk/european/directive/2008/0043) setting up, pursuant to Council Directive [93/15/EC](https://www.legislation.gov.uk/european/directive/1993/0015)[^f00008], a system for the identification and traceability of explosives for civil uses[^f00009] as amended by Commission Directive 2012/4/EU[^f00010], which these Regulations implement.
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how EEA[^c-7d6a46ecaee7974dad899c2cf24da8ed] States have implemented Commission Directive [2008/43/EC](https://www.legislation.gov.uk/european/directive/2008/0043) setting up, pursuant to Council Directive [93/15/EC](https://www.legislation.gov.uk/european/directive/1993/0015)[^f00008], a system for the identification and traceability of explosives for civil uses[^f00009] as amended by Commission Directive 2012/4/EU[^f00010], which these Regulations implement.
 
 (3) The report must in particular—
 
@@ -227,18 +227,18 @@ and
 
 (5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
 
-## 8. Enforcement[^key-0268581e6b170d44756b56f8b44b28a9][^key-12b99140018c9fbae2388be539efa801]
+## 8. Enforcement[^c-0268581e6b170d44756b56f8b44b28a9][^c-12b99140018c9fbae2388be539efa801]
 
 The Secretary of State is the enforcing authority for—
 
 - (a) regulation 5, to the extent that it imposes requirements on manufacturers of explosives who are established within Northern Ireland and importers of explosives into Northern Ireland; and
 - (b) the remainder of these Regulations as they apply within Northern Ireland and within the territorial sea.
 
-## 9. Application within the territorial sea[^key-d723705987e7fa7afe893f396fd62f58]
+## 9. Application within the territorial sea[^c-d723705987e7fa7afe893f396fd62f58]
 
 These Regulations apply within the territorial sea only to and in relation to the acquisition or keeping of an explosive on premises to which, or in relation to which, any of paragraphs 2 to 8 of Schedule 3 applies.
 
-## 10. Revocation[^key-abee7c4ddfff05dfa34e60c67a66aa4a]
+## 10. Revocation[^c-abee7c4ddfff05dfa34e60c67a66aa4a]
 
 The following Regulations are revoked—
 
@@ -255,24 +255,24 @@ Northern Ireland Office
 
 Regulation 4(2)(a)
 
-**1.**[^key-2312f86f391bf2c13c705e2eeb7ed326] Subject to paragraph 2, the unique identification must comprise—
+**1.**[^c-2312f86f391bf2c13c705e2eeb7ed326] Subject to paragraph 2, the unique identification must comprise—
 
 - (a) a part which can be read by a human being containing the following—
   - (i) the name of the manufacturer;
   - (ii) an alphanumeric code containing—
-    - (aa)[^key-93f7dc367dc75fae436753a8fe17ee77] where the place of production or place of import (onto the market of any relevant state) is Northern Ireland, the letters “UK(NI)”;
+    - (aa)[^c-93f7dc367dc75fae436753a8fe17ee77] where the place of production or place of import (onto the market of any relevant state) is Northern Ireland, the letters “UK(NI)”;
     - (ab) where the place of production or place of import (onto the market of any relevant state) is an EEA State, two letters identifying the EEA State;
     - (bb) three digits identifying the site of manufacture; and
     - (cc) the unique product code and logistical information designed by the manufacturer; and
 - (b) a part which can be read electronically in barcode or matrix code format, or both, which relates directly to the alphanumeric identification code.
 
-**2.**[^key-0b79b5fd5be992a6369f8f8dd17e1a89] For articles too small to affix the unique product code and logistical information designed by the manufacturer, the information under sub-paragraphs (a)(ii)(aa), (ab), (bb) and (b)[^key-dbc6be4ba83c21b43e7ef000eb2e5671] of paragraph 1 is sufficient for the purposes of the unique identification.
+**2.**[^c-0b79b5fd5be992a6369f8f8dd17e1a89] For articles too small to affix the unique product code and logistical information designed by the manufacturer, the information under sub-paragraphs (a)(ii)(aa), (ab), (bb) and (b)[^c-dbc6be4ba83c21b43e7ef000eb2e5671] of paragraph 1 is sufficient for the purposes of the unique identification.
 
 ## SCHEDULE 2 — Methods of marking or affixing the unique identification to explosives
 
 Regulation 4(1), (5) and (7)
 
-### 1. Cartridged explosives and explosives in sacks[^key-12d8514fc89574c25c47bea51ba985c7][^key-b43a7f1878f78d3b57da615f9716a7c7]
+### 1. Cartridged explosives and explosives in sacks[^c-12d8514fc89574c25c47bea51ba985c7][^c-b43a7f1878f78d3b57da615f9716a7c7]
 
 For a cartridged explosive and any explosive in sacks—
 
@@ -280,11 +280,11 @@ For a cartridged explosive and any explosive in sacks—
 - (b) an associated label must be placed on each case of cartridges; and
 - (c) in addition, a passive inert electronic tag may be attached to each cartridge or sack and an associated electronic tag attached to each case of cartridges.
 
-### 2. Packaged two-component explosives[^key-8779c510f0ee37f4538d64ccbf607a14][^key-4d87c8cc65318851e0cce5d436f11fe3]
+### 2. Packaged two-component explosives[^c-8779c510f0ee37f4538d64ccbf607a14][^c-4d87c8cc65318851e0cce5d436f11fe3]
 
 Subject to paragraph 9(1), for a packaged two-component explosive, the unique identification must be on an adhesive label attached to, or be directly printed on, each smallest packaging unit containing the two components.
 
-### 3. Plain detonators[^key-40783baaafd027f3f0ae5a217f10cb03][^key-03e84a6c15be93c3c36b71f48b2ccc71]
+### 3. Plain detonators[^c-40783baaafd027f3f0ae5a217f10cb03][^c-03e84a6c15be93c3c36b71f48b2ccc71]
 
 For plain detonators—
 
@@ -292,7 +292,7 @@ For plain detonators—
 - (b) an associated label must be placed on each case of detonators; and
 - (c) in addition, a passive inert electronic tag may be attached to each detonator and an associated tag attached to each case of detonators.
 
-### 4. Electric, non-electric and electronic detonators[^key-411bd3f55098d533154c06b4ff53d1b3][^key-e22ed76a587fa947aee7e88dd5d0b669]
+### 4. Electric, non-electric and electronic detonators[^c-411bd3f55098d533154c06b4ff53d1b3][^c-e22ed76a587fa947aee7e88dd5d0b669]
 
 For electric, non-electric and electronic detonators—
 
@@ -302,7 +302,7 @@ For electric, non-electric and electronic detonators—
 - (b) an associated label must be placed on each case of detonators; and
 - (c) in addition, a passive inert electronic tag may be attached to each detonator and an associated tag attached to each case of detonators.
 
-### 5. Primers and boosters[^key-b816812569a0682d9f7b203f8d442a4a][^key-4cd990d1c11f3a49e70550c23bb473d8]
+### 5. Primers and boosters[^c-b816812569a0682d9f7b203f8d442a4a][^c-4cd990d1c11f3a49e70550c23bb473d8]
 
 For primers and boosters—
 
@@ -310,7 +310,7 @@ For primers and boosters—
 - (b) an associated label must be placed on each case of primers or boosters; and
 - (c) in addition, a passive inert electronic tag may be attached to each primer or booster and an associated tag attached to each case of primers or boosters.
 
-### 6. Detonating cords[^key-8b134a8683ad288a8e567b9135b5a291][^key-7f5203e5b56b9bde9c7cc5f636f6c3e6]
+### 6. Detonating cords[^c-8b134a8683ad288a8e567b9135b5a291][^c-7f5203e5b56b9bde9c7cc5f636f6c3e6]
 
 For detonating cords—
 
@@ -319,20 +319,20 @@ For detonating cords—
 - (c) an associated label must be placed on each case of detonating cord; and
 - (d) in addition, a passive inert electronic tag may be inserted within the cord and an associated tag attached to each case of cord.
 
-### 7. Cans, boxes and drums containing explosives[^key-7aae80989749a3518f468e6de8ca5041][^key-0a97c052aa2980cb2e6bfd7ada1a22b5]
+### 7. Cans, boxes and drums containing explosives[^c-7aae80989749a3518f468e6de8ca5041][^c-0a97c052aa2980cb2e6bfd7ada1a22b5]
 
 For cans, boxes and drums containing any explosive—
 
 - (a) subject to paragraph 9(1), the unique identification must be on an adhesive label attached to, or be directly printed on, the can, box or drum containing the explosive; and
 - (b) in addition, a passive inert electronic tag may be attached to each can, box and drum.
 
-### 8. General[^key-bf1d05916deef21047834b6515a37ec4][^key-9570a6ce54a1e5c9b6f79ac0777e53ec]
+### 8. General[^c-bf1d05916deef21047834b6515a37ec4][^c-9570a6ce54a1e5c9b6f79ac0777e53ec]
 
 Where adhesive detachable copies of the labels referred to in paragraphs 1 to 7 are attached to the explosive article, container or each smallest packaging unit concerned for use by other persons, those copies must be clearly marked as copies of the original.
 
-### 9. Small explosive articles[^key-691050bb35600a76aa0e888a780fb459][^key-cb016c4bb7eb9ac424255523fa6b4074]
+### 9. Small explosive articles[^c-691050bb35600a76aa0e888a780fb459][^c-cb016c4bb7eb9ac424255523fa6b4074]
 
-(1) For articles smaller than those to which paragraph 2 of Schedule 1 applies, which are too small to affix the information under sub-paragraphs (a)(ii)(aa), (ab), (bb) and (b)[^key-ed3d0df947930e3cf6685e63d0c6035b] of paragraph 1 of Schedule 1 or where it is technically impossible due to their shape or design to affix a unique identification—
+(1) For articles smaller than those to which paragraph 2 of Schedule 1 applies, which are too small to affix the information under sub-paragraphs (a)(ii)(aa), (ab), (bb) and (b)[^c-ed3d0df947930e3cf6685e63d0c6035b] of paragraph 1 of Schedule 1 or where it is technically impossible due to their shape or design to affix a unique identification—
 
 - (a) the unique identification specified in paragraph 1 of that Schedule must be affixed on each smallest packaging unit; and
 - (b) that packaging unit must be closed with a seal.
@@ -340,7 +340,7 @@ Where adhesive detachable copies of the labels referred to in paragraphs 1 to 7 
 (2) In the case of each plain detonator or booster to which sub-paragraph (1) applies—
 
 - (a) the requirements of, respectively, paragraphs 3(a) and 5(a) do not apply;
-- (b) the information under sub-paragraph (a)(ii)(aa) , (ab)[^key-df434c369d5176df0c252e2c33743757] and (bb) of paragraph 1 of Schedule 1 must be marked, in a durable and clearly legible way, on, as the case may be, the plain detonator or booster; and
+- (b) the information under sub-paragraph (a)(ii)(aa) , (ab)[^c-df434c369d5176df0c252e2c33743757] and (bb) of paragraph 1 of Schedule 1 must be marked, in a durable and clearly legible way, on, as the case may be, the plain detonator or booster; and
 - (c) the number of plain detonators or boosters contained in each smallest packaging unit must be printed on that unit.
 
 (3) In the case of each detonating cord to which sub-paragraph (1) applies—
@@ -354,7 +354,7 @@ Where adhesive detachable copies of the labels referred to in paragraphs 1 to 7 
 
 Regulation 9
 
-### 1. Interpretation[^key-254262cba93cef107b3cb0950c87c66a]
+### 1. Interpretation[^c-254262cba93cef107b3cb0950c87c66a]
 
 (1) In this Schedule—
 
@@ -371,7 +371,7 @@ Regulation 9
 
 (3) Any reference in this Schedule to premises and activities includes a reference to any person, article or substance on those premises or engaged in, or, as the case may be, used or for use in connection with any such activity, but does not include a reference to an aircraft which is airborne.
 
-### 2. Offshore installations[^key-89a53d14d3d37f73e6a5c640e6cfd7ad]
+### 2. Offshore installations[^c-89a53d14d3d37f73e6a5c640e6cfd7ad]
 
 (1) This paragraph shall apply to and in relation to—
 
@@ -400,7 +400,7 @@ together with any supplementary unit which is ordinarily connected to it, and al
 - (d) a mobile structure which has been taken out of use and is not yet being moved with a view to its being used for any of the purposes specified in sub-paragraph (2); and
 - (e) any part of a pipeline.
 
-### 3. Wells[^key-745a1d41e3249ca7113ccc4b7db7b752]
+### 3. Wells[^c-745a1d41e3249ca7113ccc4b7db7b752]
 
 (1) Subject to sub-paragraph (2), this paragraph applies to and in relation to—
 
@@ -409,7 +409,7 @@ together with any supplementary unit which is ordinarily connected to it, and al
 
 (2) Sub-paragraph (1) includes keeping a vessel on station for the purpose of working on a well but otherwise does not include navigation or an activity connected with navigation.
 
-### 4. Pipelines[^key-99857d6a3d994e579d67c242054d16a0]
+### 4. Pipelines[^c-99857d6a3d994e579d67c242054d16a0]
 
 (1) This paragraph applies to and in relation to—
 
@@ -442,13 +442,13 @@ but not including a pipeline of which no initial or terminal point is situated i
   - (e) any activities incidental to the activities described in heads (a) to (d);
   - (f) a diving project in connection with any of the works mentioned in heads (a) to (e) or for the purpose of determining whether a place is suitable as part of the site of a proposed pipeline and the carrying out of surveying operations for settling the route of a proposed pipeline.
 
-### 5. Mines[^key-7594b783929f7af62e29e0fe30b29724]
+### 5. Mines[^c-7594b783929f7af62e29e0fe30b29724]
 
 (1) This paragraph applies to and in relation to a mine within the territorial sea or extending beyond it, and any activity in connection with it, while it is being worked.
 
 (2) In this paragraph “mine” has the same meaning as in the Mines Act (Northern Ireland) 1969[^f00015].
 
-### 6. Other activities[^key-300beba5e6157d98638efd3e02280329]
+### 6. Other activities[^c-300beba5e6157d98638efd3e02280329]
 
 (1) Subject to sub-paragraph (2), this paragraph applies to and in relation to—
 
@@ -466,11 +466,11 @@ but not including a pipeline of which no initial or terminal point is situated i
 - (a) to a case where paragraph 2, 3, 4 or 5 applies; or
 - (b) to vessels which are registered outside the United Kingdom and are on passage through the territorial sea.
 
-### 7. Other activities within a designated area[^key-0e281ea1124f323992837f5219999574]
+### 7. Other activities within a designated area[^c-0e281ea1124f323992837f5219999574]
 
 This paragraph applies within a designated area to and in relation to the construction, reconstruction, alteration, repair, maintenance, cleaning, use, operation, demolition and dismantling of any structure which would be an offshore installation were it not a structure to which paragraph 2(3)(c) applies, or any preparation for any such activity.
 
-### 8. Activities within a renewable energy zone[^key-e07a70ba1c52310791130bd02a8051c7]
+### 8. Activities within a renewable energy zone[^c-e07a70ba1c52310791130bd02a8051c7]
 
 (1) Subject to sub-paragraph (2), this paragraph applies within a renewable energy zone to and in relation to—
 
@@ -528,47 +528,47 @@ EXPLANATORY NOTE
 
 [^f00004]: Footnote: Article 46(1) was amended by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795).
 
-[^key-4d43147747ba03761bc07551b6cfef16]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2013/48/regulation/1) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
+[^c-4d43147747ba03761bc07551b6cfef16]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2013/48/regulation/1) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
 
-[^key-fc72f0ccefd4209dda0edfc80ef63f6c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2013/48/regulation/2) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
+[^c-fc72f0ccefd4209dda0edfc80ef63f6c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2013/48/regulation/2) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
 
-[^key-8a7d9e5cebc2283a520221cc088cbb44]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2013/48/regulation/2) inserted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 19 para. 2](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/2)
+[^c-8a7d9e5cebc2283a520221cc088cbb44]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2013/48/regulation/2) inserted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 19 para. 2](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/2)
 
 [^f00005]: Footnote: Current edition (1997): ISBN 92-1-139057 5.
 
-[^key-1e81f7278eaab82fca2ec9c7bd84cdb2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2013/48/regulation/3) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
+[^c-1e81f7278eaab82fca2ec9c7bd84cdb2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2013/48/regulation/3) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 2004/702 (N.I. 3)](https://www.legislation.gov.uk/nisi/2004/702).
 
-[^key-7eb671e7d18e40c23b8dccdfcbd651b1]: Commencement: [Reg. 4(1)-(6)](https://www.legislation.gov.uk/nisr/2013/48/regulation/4/1)(8) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
+[^c-7eb671e7d18e40c23b8dccdfcbd651b1]: Commencement: [Reg. 4(1)-(6)](https://www.legislation.gov.uk/nisr/2013/48/regulation/4/1)(8) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
 
-[^key-f2ffcb61e0f00a8534b7f31b157d9f28]: Commencement: [Reg. 4(7)](https://www.legislation.gov.uk/nisr/2013/48/regulation/4/7) in operation at 5.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/2)
+[^c-f2ffcb61e0f00a8534b7f31b157d9f28]: Commencement: [Reg. 4(7)](https://www.legislation.gov.uk/nisr/2013/48/regulation/4/7) in operation at 5.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/2)
 
-[^key-b1ae470a513c481b13ec1b0cc66e746f]: Modification: [Reg. 4](https://www.legislation.gov.uk/nisr/2013/48/regulation/4) excluded (21.10.2016) by [The Making Available on the Market and Supervision of Transfers of Explosives Regulations (Northern Ireland) 2016 (S.R. 2016/366)](https://www.legislation.gov.uk/nisr/2016/366), [regs. 1](https://www.legislation.gov.uk/nisr/2016/366/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2016/366/regulation/3/2)
+[^c-b1ae470a513c481b13ec1b0cc66e746f]: Modification: [Reg. 4](https://www.legislation.gov.uk/nisr/2013/48/regulation/4) excluded (21.10.2016) by [The Making Available on the Market and Supervision of Transfers of Explosives Regulations (Northern Ireland) 2016 (S.R. 2016/366)](https://www.legislation.gov.uk/nisr/2016/366), [regs. 1](https://www.legislation.gov.uk/nisr/2016/366/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2016/366/regulation/3/2)
 
-[^key-912d53681291a3f8878f9a005f5dd85a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2013/48/regulation/5) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
+[^c-912d53681291a3f8878f9a005f5dd85a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2013/48/regulation/5) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
 
-[^key-fd9db0b1a76727c238977fe12540f471]: Modification: [Reg. 5](https://www.legislation.gov.uk/nisr/2013/48/regulation/5) excluded (21.10.2016) by [The Making Available on the Market and Supervision of Transfers of Explosives Regulations (Northern Ireland) 2016 (S.R. 2016/366)](https://www.legislation.gov.uk/nisr/2016/366), [regs. 1](https://www.legislation.gov.uk/nisr/2016/366/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2016/366/regulation/3/2)
+[^c-fd9db0b1a76727c238977fe12540f471]: Modification: [Reg. 5](https://www.legislation.gov.uk/nisr/2013/48/regulation/5) excluded (21.10.2016) by [The Making Available on the Market and Supervision of Transfers of Explosives Regulations (Northern Ireland) 2016 (S.R. 2016/366)](https://www.legislation.gov.uk/nisr/2016/366), [regs. 1](https://www.legislation.gov.uk/nisr/2016/366/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2016/366/regulation/3/2)
 
-[^key-841930e32c694e2fd3d22871922f0d4c]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/nisr/2013/48/regulation/5/3) substituted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 19 para. 3(a)(i)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/3/a/i)
+[^c-841930e32c694e2fd3d22871922f0d4c]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/nisr/2013/48/regulation/5/3) substituted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 19 para. 3(a)(i)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/3/a/i)
 
-[^key-daad30c5e1c3bcfe39974b0306aa9209]: Textual amendment: Words in [reg. 5(3)(a)](https://www.legislation.gov.uk/nisr/2013/48/regulation/5/3/a) substituted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 19 para. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/3/a/ii)
+[^c-daad30c5e1c3bcfe39974b0306aa9209]: Textual amendment: Words in [reg. 5(3)(a)](https://www.legislation.gov.uk/nisr/2013/48/regulation/5/3/a) substituted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 19 para. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/3/a/ii)
 
-[^key-0f7e4eba07001f931f840baa24d04bb3]: Textual amendment: Words in [reg. 5(3)(b)](https://www.legislation.gov.uk/nisr/2013/48/regulation/5/3/b) substituted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 19 para. 3(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/3/a/iii)
+[^c-0f7e4eba07001f931f840baa24d04bb3]: Textual amendment: Words in [reg. 5(3)(b)](https://www.legislation.gov.uk/nisr/2013/48/regulation/5/3/b) substituted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 19 para. 3(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/3/a/iii)
 
-[^key-a3dd828432dd1f7d6ed43db7f7724753]: Textual amendment: Words in [reg. 5(3)(c)](https://www.legislation.gov.uk/nisr/2013/48/regulation/5/3/c) omitted (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 19 para. 3(a)(iv)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/3/a/iv)
+[^c-a3dd828432dd1f7d6ed43db7f7724753]: Textual amendment: Words in [reg. 5(3)(c)](https://www.legislation.gov.uk/nisr/2013/48/regulation/5/3/c) omitted (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 19 para. 3(a)(iv)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/3/a/iv)
 
-[^key-27603b98ba01874f45a31adea4dc1654]: Textual amendment: Words in [reg. 5(4)(b)](https://www.legislation.gov.uk/nisr/2013/48/regulation/5/4/b) omitted (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 19 para. 3(b)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/3/b)
+[^c-27603b98ba01874f45a31adea4dc1654]: Textual amendment: Words in [reg. 5(4)(b)](https://www.legislation.gov.uk/nisr/2013/48/regulation/5/4/b) omitted (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 19 para. 3(b)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/3/b)
 
-[^key-71305950fd5e7e1e2265a38e49fd4990]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/nisr/2013/48/regulation/5/6) substituted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 19 para. 3(c)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/3/c)
+[^c-71305950fd5e7e1e2265a38e49fd4990]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/nisr/2013/48/regulation/5/6) substituted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 19 para. 3(c)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/3/c)
 
-[^key-57f6db6f59ffdb198b19489b7915b27d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2013/48/regulation/6) in operation at 5.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/2)
+[^c-57f6db6f59ffdb198b19489b7915b27d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2013/48/regulation/6) in operation at 5.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/2)
 
-[^key-24e8911f526eec5fa180dda0000bc3f1]: Modification: [Reg. 6](https://www.legislation.gov.uk/nisr/2013/48/regulation/6) excluded (21.10.2016) by [The Making Available on the Market and Supervision of Transfers of Explosives Regulations (Northern Ireland) 2016 (S.R. 2016/366)](https://www.legislation.gov.uk/nisr/2016/366), [regs. 1](https://www.legislation.gov.uk/nisr/2016/366/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2016/366/regulation/3/2)
+[^c-24e8911f526eec5fa180dda0000bc3f1]: Modification: [Reg. 6](https://www.legislation.gov.uk/nisr/2013/48/regulation/6) excluded (21.10.2016) by [The Making Available on the Market and Supervision of Transfers of Explosives Regulations (Northern Ireland) 2016 (S.R. 2016/366)](https://www.legislation.gov.uk/nisr/2016/366), [regs. 1](https://www.legislation.gov.uk/nisr/2016/366/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2016/366/regulation/3/2)
 
-[^key-41a47fe7d09ae3879baafc99c500f2fc]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2013/48/regulation/7) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
+[^c-41a47fe7d09ae3879baafc99c500f2fc]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2013/48/regulation/7) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
 
-[^key-7d6a46ecaee7974dad899c2cf24da8ed]: Textual amendment: Word in [reg. 7(2)](https://www.legislation.gov.uk/nisr/2013/48/regulation/7/2) substituted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 19 para. 4](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/4)
+[^c-7d6a46ecaee7974dad899c2cf24da8ed]: Textual amendment: Word in [reg. 7(2)](https://www.legislation.gov.uk/nisr/2013/48/regulation/7/2) substituted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 19 para. 4](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/4)
 
 [^f00008]: Footnote: OJ L 121, 15.5.1993, p.20, amended by Regulation [(EC) No. 1882/2003](https://www.legislation.gov.uk/european/regulation/2003/1882) of the European Parliament and the Council (OJ L 284, 31.10.2003, p.1) and Regulation [(EC) No. 219/2009](https://www.legislation.gov.uk/european/regulation/2009/0219) of the European Parliament and the Council (OJ L 87, 31.3.2009, p.109).
 
@@ -576,87 +576,87 @@ EXPLANATORY NOTE
 
 [^f00010]: Footnote: OJ L 50, 22.2.2012, p.18.
 
-[^key-0268581e6b170d44756b56f8b44b28a9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2013/48/regulation/8) in operation at 5.4.2013 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
+[^c-0268581e6b170d44756b56f8b44b28a9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2013/48/regulation/8) in operation at 5.4.2013 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
 
-[^key-12b99140018c9fbae2388be539efa801]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2013/48/regulation/8) in operation at 5.4.2015 in so far as not already in operation, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/2)
+[^c-12b99140018c9fbae2388be539efa801]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2013/48/regulation/8) in operation at 5.4.2015 in so far as not already in operation, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/2)
 
-[^key-d723705987e7fa7afe893f396fd62f58]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2013/48/regulation/9) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
+[^c-d723705987e7fa7afe893f396fd62f58]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2013/48/regulation/9) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
 
-[^key-abee7c4ddfff05dfa34e60c67a66aa4a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2013/48/regulation/10) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
+[^c-abee7c4ddfff05dfa34e60c67a66aa4a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2013/48/regulation/10) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
 
 [^f00011]: Footnote: [S.R. 2010/143](https://www.legislation.gov.uk/nisr/2010/143), as amended by [S.R. 2012/123](https://www.legislation.gov.uk/nisr/2012/123).
 
 [^f00012]: Footnote: [S.R. 2012/123](https://www.legislation.gov.uk/nisr/2012/123).
 
-[^key-2312f86f391bf2c13c705e2eeb7ed326]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2013/48/schedule/1/paragraph/1) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
+[^c-2312f86f391bf2c13c705e2eeb7ed326]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2013/48/schedule/1/paragraph/1) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
 
-[^key-93f7dc367dc75fae436753a8fe17ee77]: Textual amendment: [Sch. 1 para. 1(a)(ii)(aa)(ab)](https://www.legislation.gov.uk/nisr/2013/48/schedule/1/paragraph/1/a/ii/aa/ab) substituted for Sch. 1 para. 1(a)(ii)(aa) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 19 para. 5(a)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/5/a)
+[^c-93f7dc367dc75fae436753a8fe17ee77]: Textual amendment: [Sch. 1 para. 1(a)(ii)(aa)(ab)](https://www.legislation.gov.uk/nisr/2013/48/schedule/1/paragraph/1/a/ii/aa/ab) substituted for Sch. 1 para. 1(a)(ii)(aa) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 19 para. 5(a)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/5/a)
 
-[^key-0b79b5fd5be992a6369f8f8dd17e1a89]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2013/48/schedule/1/paragraph/2) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
+[^c-0b79b5fd5be992a6369f8f8dd17e1a89]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2013/48/schedule/1/paragraph/2) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
 
-[^key-dbc6be4ba83c21b43e7ef000eb2e5671]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2013/48/schedule/1/paragraph/2) substituted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 19 para. 5(b)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/5/b)
+[^c-dbc6be4ba83c21b43e7ef000eb2e5671]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2013/48/schedule/1/paragraph/2) substituted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 19 para. 5(b)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/5/b)
 
-[^key-12d8514fc89574c25c47bea51ba985c7]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/1) in operation at 5.4.2013 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
+[^c-12d8514fc89574c25c47bea51ba985c7]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/1) in operation at 5.4.2013 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
 
-[^key-b43a7f1878f78d3b57da615f9716a7c7]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/1) in operation at 5.4.2015 in so far as not already in operation, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/2)
+[^c-b43a7f1878f78d3b57da615f9716a7c7]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/1) in operation at 5.4.2015 in so far as not already in operation, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/2)
 
-[^key-8779c510f0ee37f4538d64ccbf607a14]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/2) in operation at 5.4.2013 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
+[^c-8779c510f0ee37f4538d64ccbf607a14]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/2) in operation at 5.4.2013 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
 
-[^key-4d87c8cc65318851e0cce5d436f11fe3]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/2) in operation at 5.4.2015 in so far as not already in operation, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/2)
+[^c-4d87c8cc65318851e0cce5d436f11fe3]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/2) in operation at 5.4.2015 in so far as not already in operation, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/2)
 
-[^key-40783baaafd027f3f0ae5a217f10cb03]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/3) in operation at 5.4.2013 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
+[^c-40783baaafd027f3f0ae5a217f10cb03]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/3) in operation at 5.4.2013 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
 
-[^key-03e84a6c15be93c3c36b71f48b2ccc71]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/3) in operation at 5.4.2015 in so far as not already in operation, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/2)
+[^c-03e84a6c15be93c3c36b71f48b2ccc71]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/3) in operation at 5.4.2015 in so far as not already in operation, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/2)
 
-[^key-411bd3f55098d533154c06b4ff53d1b3]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/4) in operation at 5.4.2013 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
+[^c-411bd3f55098d533154c06b4ff53d1b3]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/4) in operation at 5.4.2013 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
 
-[^key-e22ed76a587fa947aee7e88dd5d0b669]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/4) in operation at 5.4.2015 in so far as not already in operation, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/2)
+[^c-e22ed76a587fa947aee7e88dd5d0b669]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/4) in operation at 5.4.2015 in so far as not already in operation, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/2)
 
-[^key-b816812569a0682d9f7b203f8d442a4a]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/5) in operation at 5.4.2013 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
+[^c-b816812569a0682d9f7b203f8d442a4a]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/5) in operation at 5.4.2013 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
 
-[^key-4cd990d1c11f3a49e70550c23bb473d8]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/5) in operation at 5.4.2015 in so far as not already in operation, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/2)
+[^c-4cd990d1c11f3a49e70550c23bb473d8]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/5) in operation at 5.4.2015 in so far as not already in operation, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/2)
 
-[^key-8b134a8683ad288a8e567b9135b5a291]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/6) in operation at 5.4.2013 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
+[^c-8b134a8683ad288a8e567b9135b5a291]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/6) in operation at 5.4.2013 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
 
-[^key-7f5203e5b56b9bde9c7cc5f636f6c3e6]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/6) in operation at 5.4.2015 in so far as not already in operation, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/2)
+[^c-7f5203e5b56b9bde9c7cc5f636f6c3e6]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/6) in operation at 5.4.2015 in so far as not already in operation, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/2)
 
-[^key-7aae80989749a3518f468e6de8ca5041]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/7) in operation at 5.4.2013 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
+[^c-7aae80989749a3518f468e6de8ca5041]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/7) in operation at 5.4.2013 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
 
-[^key-0a97c052aa2980cb2e6bfd7ada1a22b5]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/7) in operation at 5.4.2015 in so far as not already in operation, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/2)
+[^c-0a97c052aa2980cb2e6bfd7ada1a22b5]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/7) in operation at 5.4.2015 in so far as not already in operation, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/2)
 
-[^key-bf1d05916deef21047834b6515a37ec4]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/8) in operation at 5.4.2013 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
+[^c-bf1d05916deef21047834b6515a37ec4]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/8) in operation at 5.4.2013 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
 
-[^key-9570a6ce54a1e5c9b6f79ac0777e53ec]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/8) in operation at 5.4.2015 in so far as not already in operation, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/2)
+[^c-9570a6ce54a1e5c9b6f79ac0777e53ec]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/8) in operation at 5.4.2015 in so far as not already in operation, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/2)
 
-[^key-691050bb35600a76aa0e888a780fb459]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/9) in operation at 5.4.2013 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
+[^c-691050bb35600a76aa0e888a780fb459]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/9) in operation at 5.4.2013 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
 
-[^key-cb016c4bb7eb9ac424255523fa6b4074]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/9) in operation at 5.4.2015 in so far as not already in operation, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/2)
+[^c-cb016c4bb7eb9ac424255523fa6b4074]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/9) in operation at 5.4.2015 in so far as not already in operation, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/2)
 
-[^key-ed3d0df947930e3cf6685e63d0c6035b]: Textual amendment: Words in [Sch. 2 para. 9(1)](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/9/1) substituted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 19 para. 6(a)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/6/a)
+[^c-ed3d0df947930e3cf6685e63d0c6035b]: Textual amendment: Words in [Sch. 2 para. 9(1)](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/9/1) substituted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 19 para. 6(a)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/6/a)
 
-[^key-df434c369d5176df0c252e2c33743757]: Textual amendment: Word in [Sch. 2 para. 9(2)(b)](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/9/2/b) inserted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 19 para. 6(b)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/6/b)
+[^c-df434c369d5176df0c252e2c33743757]: Textual amendment: Word in [Sch. 2 para. 9(2)(b)](https://www.legislation.gov.uk/nisr/2013/48/schedule/2/paragraph/9/2/b) inserted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 19 para. 6(b)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/19/paragraph/6/b)
 
-[^key-254262cba93cef107b3cb0950c87c66a]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2013/48/schedule/3/paragraph/1) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
+[^c-254262cba93cef107b3cb0950c87c66a]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2013/48/schedule/3/paragraph/1) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
 
 [^f00013]: Footnote: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29); section 1(7) was amended by section 37 of, and paragraph 1 of Schedule 3 to, the Oil and Gas (Enterprise) Act [1982 (c. 23)](https://www.legislation.gov.uk/ukpga/1982/23) and section 103 of the Energy Act [2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16).
 
 [^f00014]: Footnote: [S.R. 2005/45](https://www.legislation.gov.uk/nisr/2005/45), as amended by [S.R. 2007/247](https://www.legislation.gov.uk/nisr/2007/247).
 
-[^key-89a53d14d3d37f73e6a5c640e6cfd7ad]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2013/48/schedule/3/paragraph/2) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
+[^c-89a53d14d3d37f73e6a5c640e6cfd7ad]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2013/48/schedule/3/paragraph/2) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
 
-[^key-745a1d41e3249ca7113ccc4b7db7b752]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2013/48/schedule/3/paragraph/3) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
+[^c-745a1d41e3249ca7113ccc4b7db7b752]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2013/48/schedule/3/paragraph/3) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
 
-[^key-99857d6a3d994e579d67c242054d16a0]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2013/48/schedule/3/paragraph/4) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
+[^c-99857d6a3d994e579d67c242054d16a0]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2013/48/schedule/3/paragraph/4) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
 
-[^key-7594b783929f7af62e29e0fe30b29724]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2013/48/schedule/3/paragraph/5) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
+[^c-7594b783929f7af62e29e0fe30b29724]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2013/48/schedule/3/paragraph/5) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
 
 [^f00015]: Footnote: [1969 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1969/6).
 
-[^key-300beba5e6157d98638efd3e02280329]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/2013/48/schedule/3/paragraph/6) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
+[^c-300beba5e6157d98638efd3e02280329]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/2013/48/schedule/3/paragraph/6) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
 
-[^key-0e281ea1124f323992837f5219999574]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/nisr/2013/48/schedule/3/paragraph/7) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
+[^c-0e281ea1124f323992837f5219999574]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/nisr/2013/48/schedule/3/paragraph/7) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
 
-[^key-e07a70ba1c52310791130bd02a8051c7]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/nisr/2013/48/schedule/3/paragraph/8) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
+[^c-e07a70ba1c52310791130bd02a8051c7]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/nisr/2013/48/schedule/3/paragraph/8) in operation at 5.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1)
 
 [^f00016]: Footnote: [2004 c. 20](https://www.legislation.gov.uk/ukpga/2004/20). Section 84(4) of the 2004 Act was substituted by section 41(8) of, and paragraph 4 of Schedule 4 to, the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23) but that substitution is not yet in force.
 

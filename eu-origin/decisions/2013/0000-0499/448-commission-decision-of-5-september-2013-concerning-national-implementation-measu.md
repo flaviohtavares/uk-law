@@ -40,64 +40,64 @@ concerning national implementation measures for the transitional free allocation
 
 (2013/448/EU) (revoked)
 
-[^key-6d8c161354cbf2b474f86449f08d6323]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d8c161354cbf2b474f86449f08d6323]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## CHAPTER I — NATIONAL IMPLEMENTING MEASURES[^key-6d8c161354cbf2b474f86449f08d6323]
+## CHAPTER I — NATIONAL IMPLEMENTING MEASURES[^c-6d8c161354cbf2b474f86449f08d6323]
 
-**Article 1.**[^key-6d8c161354cbf2b474f86449f08d6323] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-6d8c161354cbf2b474f86449f08d6323] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-6d8c161354cbf2b474f86449f08d6323] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-6d8c161354cbf2b474f86449f08d6323] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER II — TOTAL QUANTITY OF ALLOWANCES[^key-6d8c161354cbf2b474f86449f08d6323]
+## CHAPTER II — TOTAL QUANTITY OF ALLOWANCES[^c-6d8c161354cbf2b474f86449f08d6323]
 
-**Article 3.**[^key-6d8c161354cbf2b474f86449f08d6323] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-6d8c161354cbf2b474f86449f08d6323] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — CROSS-SECTORAL CORRECTION FACTOR[^key-6d8c161354cbf2b474f86449f08d6323]
+## CHAPTER III — CROSS-SECTORAL CORRECTION FACTOR[^c-6d8c161354cbf2b474f86449f08d6323]
 
-**Article 4.**[^key-6d8c161354cbf2b474f86449f08d6323] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-6d8c161354cbf2b474f86449f08d6323] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-6d8c161354cbf2b474f86449f08d6323] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-6d8c161354cbf2b474f86449f08d6323] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-6d8c161354cbf2b474f86449f08d6323]
+## ANNEX I[^c-6d8c161354cbf2b474f86449f08d6323]
 
-[^key-6d8c161354cbf2b474f86449f08d6323]POINT A
+[^c-6d8c161354cbf2b474f86449f08d6323]POINT A
 
-[^key-6d8c161354cbf2b474f86449f08d6323]**Installation Identifier as submitted in the NIMs**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-6d8c161354cbf2b474f86449f08d6323]POINT B
-
-[^key-6d8c161354cbf2b474f86449f08d6323]**Installation Identifier as submitted in the NIMs**
+[^c-6d8c161354cbf2b474f86449f08d6323]**Installation Identifier as submitted in the NIMs**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6d8c161354cbf2b474f86449f08d6323]POINT C
+[^c-6d8c161354cbf2b474f86449f08d6323]POINT B
 
-[^key-6d8c161354cbf2b474f86449f08d6323]**Installation identifier as submitted in the NIMs**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-6d8c161354cbf2b474f86449f08d6323]POINT D
-
-[^key-6d8c161354cbf2b474f86449f08d6323]**Installation Identifier as submitted in the NIMs**
+[^c-6d8c161354cbf2b474f86449f08d6323]**Installation Identifier as submitted in the NIMs**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6d8c161354cbf2b474f86449f08d6323]POINT E
+[^c-6d8c161354cbf2b474f86449f08d6323]POINT C
 
-[^key-6d8c161354cbf2b474f86449f08d6323]**Installation Identifier as submitted in the NIMs**
+[^c-6d8c161354cbf2b474f86449f08d6323]**Installation identifier as submitted in the NIMs**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-6d8c161354cbf2b474f86449f08d6323]
+[^c-6d8c161354cbf2b474f86449f08d6323]POINT D
+
+[^c-6d8c161354cbf2b474f86449f08d6323]**Installation Identifier as submitted in the NIMs**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-6d8c161354cbf2b474f86449f08d6323]POINT E
+
+[^c-6d8c161354cbf2b474f86449f08d6323]**Installation Identifier as submitted in the NIMs**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II[^c-6d8c161354cbf2b474f86449f08d6323]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6d8c161354cbf2b474f86449f08d6323]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-6d8c161354cbf2b474f86449f08d6323]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

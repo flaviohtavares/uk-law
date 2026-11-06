@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Establishment of safe access zones for protected premises
 
-### 1. Meaning of “protected premises”[^key-d00f2e1856ebedef70b1ba45b61107d0][^key-1104e707f5b59724d04c794351754916]
+### 1. Meaning of “protected premises”[^c-d00f2e1856ebedef70b1ba45b61107d0][^c-1104e707f5b59724d04c794351754916]
 
 In this Act, “**protected premises**” means—
 
@@ -45,7 +45,7 @@ In this Act, “**protected premises**” means—
   - (ii) in which abortion services are provided, or
 - (b) a place that is approved under section 1(3) of the Abortion Act 1967 for the purposes of that section but does not include a place forming part of a class of place that is so approved (see section 1(3A)(a) of that Act).
 
-### 2. Establishment of safe access zones[^key-b73637b9d896577702670e29a6df5313][^key-4f3feef376f93078a21719e5cd0deb46]
+### 2. Establishment of safe access zones[^c-b73637b9d896577702670e29a6df5313][^c-4f3feef376f93078a21719e5cd0deb46]
 
 (1) A safe access zone is established for each protected premises in accordance with this section.
 
@@ -87,7 +87,7 @@ In this Act, “**protected premises**” means—
   - (a) an outdoor area of land that the public may access, and
   - (b) any partially enclosed structure on the land that the public may access.
 
-### 3. Notification of proposed protected premises etc.[^key-5668dbfcf76b065a2cf726318bfd2ff5][^key-911f02dbd15ac0e897cc933020ccf9b3]
+### 3. Notification of proposed protected premises etc.[^c-5668dbfcf76b065a2cf726318bfd2ff5][^c-911f02dbd15ac0e897cc933020ccf9b3]
 
 (1) Subsection (2) applies where, after section 1 comes into force, abortion services are intended to be provided at premises (“proposed protected premises”) being—
 
@@ -104,7 +104,7 @@ In this Act, “**protected premises**” means—
 
 ## Offences relating to safe access zones
 
-### 4. Offence of influencing, preventing access or causing harassment etc. in safe access zone[^key-9065bf07697f4614456b6938bf545aeb][^key-54ea80ffc6ce978a50f14b0be2e301fa]
+### 4. Offence of influencing, preventing access or causing harassment etc. in safe access zone[^c-9065bf07697f4614456b6938bf545aeb][^c-54ea80ffc6ce978a50f14b0be2e301fa]
 
 (1) A person who is in a safe access zone for protected premises commits an offence if the person does an act with the intention of, or is reckless as to whether the act has the effect of—
 
@@ -121,7 +121,7 @@ where in each case the other person is in the safe access zone for the purpose o
 - (a) on summary conviction, to a fine not exceeding the statutory maximum,
 - (b) on conviction on indictment, to a fine.
 
-### 5. Offence of influencing, preventing access or causing harassment etc. in area visible or audible from safe access zone[^key-f2d785d3e1ba1d0761c31f4dd28abb1a][^key-e6b8365d6a774ff5f7c4baf695d5e301]
+### 5. Offence of influencing, preventing access or causing harassment etc. in area visible or audible from safe access zone[^c-f2d785d3e1ba1d0761c31f4dd28abb1a][^c-e6b8365d6a774ff5f7c4baf695d5e301]
 
 (1) A person who is in a relevant area relating to protected premises commits an offence if the person—
 
@@ -144,7 +144,7 @@ where in each case the other person is in the safe access zone for the purpose o
 
 (5) In this section, “**relevant area**”, in relation to protected premises, means an area that is not a public area (within the meaning of section 2(7)) forming part of the safe access zone for the protected premises but which is situated within the area between the protected premises and the boundary of the safe access zone.
 
-### 6. Exceptions to offences[^key-ee68d2d9bfb4afd9bef40e369b6da45c][^key-a746b20c203f0eb4a2190deea5696d71]
+### 6. Exceptions to offences[^c-ee68d2d9bfb4afd9bef40e369b6da45c][^c-a746b20c203f0eb4a2190deea5696d71]
 
 A person does not commit an offence under section 4(1) or 5(1) where the person does anything in the course of—
 
@@ -155,7 +155,7 @@ A person does not commit an offence under section 4(1) or 5(1) where the person 
 
 ## Changes to safe access zones
 
-### 7. Extension of safe access zones[^key-9d199d8d44812fc07bb6fee73bc7f56a][^key-6ebe4d37380a167f169afcff9a1d171f]
+### 7. Extension of safe access zones[^c-9d199d8d44812fc07bb6fee73bc7f56a][^c-6ebe4d37380a167f169afcff9a1d171f]
 
 (1) If an operator of protected premises considers that the condition mentioned in subsection (4) is met, the operator may apply to the Scottish Ministers for an extension of the distance between the boundary of the protected site and the boundary of the safe access zone to an extent that the operator considers appropriate.
 
@@ -182,7 +182,7 @@ A person does not commit an offence under section 4(1) or 5(1) where the person 
 
 (10) Where the Scottish Ministers update the list in accordance with subsection (9), the day specified for the purposes of section 2(4)(e) as the day on which the extended safe access zone takes effect must be no earlier than the end of the period of 14 days beginning with the day on which the list is updated.
 
-### 8. Reduction of safe access zones[^key-0c652c69c9420304655cdaaeaa679e24][^key-56b025566b7d4f63ca08ddace74536e9]
+### 8. Reduction of safe access zones[^c-0c652c69c9420304655cdaaeaa679e24][^c-56b025566b7d4f63ca08ddace74536e9]
 
 (1) The Scottish Ministers may reduce the distance between the boundary of the protected site and the boundary of the safe access zone for one or more protected premises if they consider it appropriate to do so.
 
@@ -197,19 +197,19 @@ A person does not commit an offence under section 4(1) or 5(1) where the person 
 
 (4) Where the Scottish Ministers update the list in accordance with subsection (3), the day specified for the purposes of section 2(4)(e) as the day on which the reduced safe access zone takes effect must be no earlier than the day on which the list is updated.
 
-### 9. Cessation of safe access zones[^key-0544eed1969318e61e6851cf244e46c7][^key-a7eff7a3dd55efa9d999065d2ec22b1e]
+### 9. Cessation of safe access zones[^c-0544eed1969318e61e6851cf244e46c7][^c-a7eff7a3dd55efa9d999065d2ec22b1e]
 
 (1) If an operator of protected premises intends to cease providing abortion services at the protected premises, the operator must, as soon as practicable, notify the Scottish Ministers of the day on which abortion services will cease to be provided at the protected premises.
 
 (2) Where the Scottish Ministers receive notification under subsection (1), they must, as soon as practicable after abortion services cease to be provided at the protected premises, update the list maintained under section 2(3)(b).
 
-### 10. Report on changes to safe access zones[^key-918778013c3cf7cc047e95e7aa9deb27][^key-5d7cc876c3c209d0ea1211789ceca77b]
+### 10. Report on changes to safe access zones[^c-918778013c3cf7cc047e95e7aa9deb27][^c-5d7cc876c3c209d0ea1211789ceca77b]
 
 (1) Subsection (2) applies where the Scottish Ministers have updated the list maintained under section 2(3)(b) in accordance with section 7(9) or 8(3).
 
 (2) The Scottish Ministers must, no later than 7 days after the day on which the list is updated, lay a report before the Scottish Parliament setting out the reasons for the change to the safe access zone (or zones) concerned.
 
-### 11. Power to modify meaning of “protected premises”[^key-320a14e927bd13af5550ecea81761798][^key-acc8b06ab059e8978aaa425d6dff31b7]
+### 11. Power to modify meaning of “protected premises”[^c-320a14e927bd13af5550ecea81761798][^c-acc8b06ab059e8978aaa425d6dff31b7]
 
 (1) The Scottish Ministers may by regulations modify the definition of “protected premises” in section 1 to include—
 
@@ -244,7 +244,7 @@ A person does not commit an offence under section 4(1) or 5(1) where the person 
 
 ## Ministerial guidance
 
-### 12. Ministerial guidance[^key-f98db6a14ee48786a4aaf4581421c7a9][^key-5df3b8b2c4fcbd328ecd2d79b2c0fc5f]
+### 12. Ministerial guidance[^c-f98db6a14ee48786a4aaf4581421c7a9][^c-5df3b8b2c4fcbd328ecd2d79b2c0fc5f]
 
 (1) An operator of protected premises (or proposed protected premises) must have regard to any guidance given by the Scottish Ministers in relation to protected premises (or proposed protected premises) and the establishment, extension, reduction or cessation of safe access zones for protected premises.
 
@@ -255,7 +255,7 @@ A person does not commit an offence under section 4(1) or 5(1) where the person 
 
 ## Review of Act
 
-### 13. Review of Act[^key-6a06d9cc479037c5cd7a417900b114e5][^key-b059471c3554ea23e259882a728bc439]
+### 13. Review of Act[^c-6a06d9cc479037c5cd7a417900b114e5][^c-b059471c3554ea23e259882a728bc439]
 
 (1) The Scottish Ministers must, as soon as reasonably practicable after the end of the review period—
 
@@ -283,7 +283,7 @@ A person does not commit an offence under section 4(1) or 5(1) where the person 
 
 ## General provisions
 
-### 14. Ancillary power[^key-a65ba11d5ea6f8629758d3fc8272967a]
+### 14. Ancillary power[^c-a65ba11d5ea6f8629758d3fc8272967a]
 
 (1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act or any provision made under it.
 
@@ -294,7 +294,7 @@ A person does not commit an offence under section 4(1) or 5(1) where the person 
 - (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act (including this Act), but
 - (b) otherwise, are subject to the negative procedure.
 
-### 15. Interpretation[^key-cd51339302055789c4e9dd5762e48a8e]
+### 15. Interpretation[^c-cd51339302055789c4e9dd5762e48a8e]
 
 In this Act—
 
@@ -309,7 +309,7 @@ In this Act—
 - “**protected site**” has the meaning given in section 2(7),
 - “**safe access zone**”, in relation to protected premises, is to be construed in accordance with section 2.
 
-### 16. Crown application[^key-64bdf5f263242958bf9cd6bb53b1cb3d]
+### 16. Crown application[^c-64bdf5f263242958bf9cd6bb53b1cb3d]
 
 (1) Nothing in this Act makes the Crown criminally liable.
 
@@ -317,7 +317,7 @@ In this Act—
 
 (3) Subsection (1) does not affect the criminal liability of persons in the service of the Crown.
 
-### 17. Commencement[^key-ab8f15a426d22c2ca924d8df92775df7]
+### 17. Commencement[^c-ab8f15a426d22c2ca924d8df92775df7]
 
 (1) This section and sections 14, 15, 16 and 18 come into force on the day after Royal Assent.
 
@@ -328,70 +328,70 @@ In this Act—
 - (a) include transitional, transitory or saving provision,
 - (b) make different provision for different purposes.
 
-### 18. Short title[^key-3f7f8e5a688c5bc51ece5738d881decd]
+### 18. Short title[^c-3f7f8e5a688c5bc51ece5738d881decd]
 
 The short title of this Act is the Abortion Services (Safe Access Zones) (Scotland) Act 2024.
 
 ## Annotations
 
-[^key-d00f2e1856ebedef70b1ba45b61107d0]: Commencement: S. 1 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/asp/2024/10/section/17/2)
+[^c-d00f2e1856ebedef70b1ba45b61107d0]: Commencement: S. 1 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/asp/2024/10/section/17/2)
 
-[^key-1104e707f5b59724d04c794351754916]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2024/10/section/1) in force at 24.9.2024 by [S.S.I. 2024/232](https://www.legislation.gov.uk/ssi/2024/232), [reg. 2](https://www.legislation.gov.uk/ssi/2024/232/regulation/2)
+[^c-1104e707f5b59724d04c794351754916]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2024/10/section/1) in force at 24.9.2024 by [S.S.I. 2024/232](https://www.legislation.gov.uk/ssi/2024/232), [reg. 2](https://www.legislation.gov.uk/ssi/2024/232/regulation/2)
 
-[^key-b73637b9d896577702670e29a6df5313]: Commencement: S. 2 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/asp/2024/10/section/17/2)
+[^c-b73637b9d896577702670e29a6df5313]: Commencement: S. 2 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/asp/2024/10/section/17/2)
 
-[^key-4f3feef376f93078a21719e5cd0deb46]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2024/10/section/2) in force at 24.9.2024 by [S.S.I. 2024/232](https://www.legislation.gov.uk/ssi/2024/232), [reg. 2](https://www.legislation.gov.uk/ssi/2024/232/regulation/2)
+[^c-4f3feef376f93078a21719e5cd0deb46]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2024/10/section/2) in force at 24.9.2024 by [S.S.I. 2024/232](https://www.legislation.gov.uk/ssi/2024/232), [reg. 2](https://www.legislation.gov.uk/ssi/2024/232/regulation/2)
 
-[^key-5668dbfcf76b065a2cf726318bfd2ff5]: Commencement: S. 3 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/asp/2024/10/section/17/2)
+[^c-5668dbfcf76b065a2cf726318bfd2ff5]: Commencement: S. 3 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/asp/2024/10/section/17/2)
 
-[^key-911f02dbd15ac0e897cc933020ccf9b3]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2024/10/section/3) in force at 24.9.2024 by [S.S.I. 2024/232](https://www.legislation.gov.uk/ssi/2024/232), [reg. 2](https://www.legislation.gov.uk/ssi/2024/232/regulation/2)
+[^c-911f02dbd15ac0e897cc933020ccf9b3]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2024/10/section/3) in force at 24.9.2024 by [S.S.I. 2024/232](https://www.legislation.gov.uk/ssi/2024/232), [reg. 2](https://www.legislation.gov.uk/ssi/2024/232/regulation/2)
 
-[^key-9065bf07697f4614456b6938bf545aeb]: Commencement: S. 4 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/asp/2024/10/section/17/2)
+[^c-9065bf07697f4614456b6938bf545aeb]: Commencement: S. 4 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/asp/2024/10/section/17/2)
 
-[^key-54ea80ffc6ce978a50f14b0be2e301fa]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2024/10/section/4) in force at 24.9.2024 by [S.S.I. 2024/232](https://www.legislation.gov.uk/ssi/2024/232), [reg. 2](https://www.legislation.gov.uk/ssi/2024/232/regulation/2)
+[^c-54ea80ffc6ce978a50f14b0be2e301fa]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2024/10/section/4) in force at 24.9.2024 by [S.S.I. 2024/232](https://www.legislation.gov.uk/ssi/2024/232), [reg. 2](https://www.legislation.gov.uk/ssi/2024/232/regulation/2)
 
-[^key-f2d785d3e1ba1d0761c31f4dd28abb1a]: Commencement: S. 5 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/asp/2024/10/section/17/2)
+[^c-f2d785d3e1ba1d0761c31f4dd28abb1a]: Commencement: S. 5 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/asp/2024/10/section/17/2)
 
-[^key-e6b8365d6a774ff5f7c4baf695d5e301]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2024/10/section/5) in force at 24.9.2024 by [S.S.I. 2024/232](https://www.legislation.gov.uk/ssi/2024/232), [reg. 2](https://www.legislation.gov.uk/ssi/2024/232/regulation/2)
+[^c-e6b8365d6a774ff5f7c4baf695d5e301]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2024/10/section/5) in force at 24.9.2024 by [S.S.I. 2024/232](https://www.legislation.gov.uk/ssi/2024/232), [reg. 2](https://www.legislation.gov.uk/ssi/2024/232/regulation/2)
 
-[^key-ee68d2d9bfb4afd9bef40e369b6da45c]: Commencement: S. 6 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/asp/2024/10/section/17/2)
+[^c-ee68d2d9bfb4afd9bef40e369b6da45c]: Commencement: S. 6 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/asp/2024/10/section/17/2)
 
-[^key-a746b20c203f0eb4a2190deea5696d71]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2024/10/section/6) in force at 24.9.2024 by [S.S.I. 2024/232](https://www.legislation.gov.uk/ssi/2024/232), [reg. 2](https://www.legislation.gov.uk/ssi/2024/232/regulation/2)
+[^c-a746b20c203f0eb4a2190deea5696d71]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2024/10/section/6) in force at 24.9.2024 by [S.S.I. 2024/232](https://www.legislation.gov.uk/ssi/2024/232), [reg. 2](https://www.legislation.gov.uk/ssi/2024/232/regulation/2)
 
-[^key-9d199d8d44812fc07bb6fee73bc7f56a]: Commencement: S. 7 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/asp/2024/10/section/17/2)
+[^c-9d199d8d44812fc07bb6fee73bc7f56a]: Commencement: S. 7 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/asp/2024/10/section/17/2)
 
-[^key-6ebe4d37380a167f169afcff9a1d171f]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2024/10/section/7) in force at 24.9.2024 by [S.S.I. 2024/232](https://www.legislation.gov.uk/ssi/2024/232), [reg. 2](https://www.legislation.gov.uk/ssi/2024/232/regulation/2)
+[^c-6ebe4d37380a167f169afcff9a1d171f]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2024/10/section/7) in force at 24.9.2024 by [S.S.I. 2024/232](https://www.legislation.gov.uk/ssi/2024/232), [reg. 2](https://www.legislation.gov.uk/ssi/2024/232/regulation/2)
 
-[^key-0c652c69c9420304655cdaaeaa679e24]: Commencement: S. 8 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/asp/2024/10/section/17/2)
+[^c-0c652c69c9420304655cdaaeaa679e24]: Commencement: S. 8 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/asp/2024/10/section/17/2)
 
-[^key-56b025566b7d4f63ca08ddace74536e9]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2024/10/section/8) in force at 24.9.2024 by [S.S.I. 2024/232](https://www.legislation.gov.uk/ssi/2024/232), [reg. 2](https://www.legislation.gov.uk/ssi/2024/232/regulation/2)
+[^c-56b025566b7d4f63ca08ddace74536e9]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2024/10/section/8) in force at 24.9.2024 by [S.S.I. 2024/232](https://www.legislation.gov.uk/ssi/2024/232), [reg. 2](https://www.legislation.gov.uk/ssi/2024/232/regulation/2)
 
-[^key-0544eed1969318e61e6851cf244e46c7]: Commencement: S. 9 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/asp/2024/10/section/17/2)
+[^c-0544eed1969318e61e6851cf244e46c7]: Commencement: S. 9 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/asp/2024/10/section/17/2)
 
-[^key-a7eff7a3dd55efa9d999065d2ec22b1e]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2024/10/section/9) in force at 24.9.2024 by [S.S.I. 2024/232](https://www.legislation.gov.uk/ssi/2024/232), [reg. 2](https://www.legislation.gov.uk/ssi/2024/232/regulation/2)
+[^c-a7eff7a3dd55efa9d999065d2ec22b1e]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2024/10/section/9) in force at 24.9.2024 by [S.S.I. 2024/232](https://www.legislation.gov.uk/ssi/2024/232), [reg. 2](https://www.legislation.gov.uk/ssi/2024/232/regulation/2)
 
-[^key-918778013c3cf7cc047e95e7aa9deb27]: Commencement: S. 10 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/asp/2024/10/section/17/2)
+[^c-918778013c3cf7cc047e95e7aa9deb27]: Commencement: S. 10 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/asp/2024/10/section/17/2)
 
-[^key-5d7cc876c3c209d0ea1211789ceca77b]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2024/10/section/10) in force at 24.9.2024 by [S.S.I. 2024/232](https://www.legislation.gov.uk/ssi/2024/232), [reg. 2](https://www.legislation.gov.uk/ssi/2024/232/regulation/2)
+[^c-5d7cc876c3c209d0ea1211789ceca77b]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2024/10/section/10) in force at 24.9.2024 by [S.S.I. 2024/232](https://www.legislation.gov.uk/ssi/2024/232), [reg. 2](https://www.legislation.gov.uk/ssi/2024/232/regulation/2)
 
-[^key-320a14e927bd13af5550ecea81761798]: Commencement: S. 11 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/asp/2024/10/section/17/2)
+[^c-320a14e927bd13af5550ecea81761798]: Commencement: S. 11 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/asp/2024/10/section/17/2)
 
-[^key-acc8b06ab059e8978aaa425d6dff31b7]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2024/10/section/11) in force at 24.9.2024 by [S.S.I. 2024/232](https://www.legislation.gov.uk/ssi/2024/232), [reg. 2](https://www.legislation.gov.uk/ssi/2024/232/regulation/2)
+[^c-acc8b06ab059e8978aaa425d6dff31b7]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2024/10/section/11) in force at 24.9.2024 by [S.S.I. 2024/232](https://www.legislation.gov.uk/ssi/2024/232), [reg. 2](https://www.legislation.gov.uk/ssi/2024/232/regulation/2)
 
-[^key-f98db6a14ee48786a4aaf4581421c7a9]: Commencement: S. 12 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/asp/2024/10/section/17/2)
+[^c-f98db6a14ee48786a4aaf4581421c7a9]: Commencement: S. 12 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/asp/2024/10/section/17/2)
 
-[^key-5df3b8b2c4fcbd328ecd2d79b2c0fc5f]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2024/10/section/12) in force at 24.9.2024 by [S.S.I. 2024/232](https://www.legislation.gov.uk/ssi/2024/232), [reg. 2](https://www.legislation.gov.uk/ssi/2024/232/regulation/2)
+[^c-5df3b8b2c4fcbd328ecd2d79b2c0fc5f]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2024/10/section/12) in force at 24.9.2024 by [S.S.I. 2024/232](https://www.legislation.gov.uk/ssi/2024/232), [reg. 2](https://www.legislation.gov.uk/ssi/2024/232/regulation/2)
 
-[^key-6a06d9cc479037c5cd7a417900b114e5]: Commencement: S. 13 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/asp/2024/10/section/17/2)
+[^c-6a06d9cc479037c5cd7a417900b114e5]: Commencement: S. 13 not in force at Royal Assent, see [s. 17(2)](https://www.legislation.gov.uk/asp/2024/10/section/17/2)
 
-[^key-b059471c3554ea23e259882a728bc439]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2024/10/section/13) in force at 24.9.2024 by [S.S.I. 2024/232](https://www.legislation.gov.uk/ssi/2024/232), [reg. 2](https://www.legislation.gov.uk/ssi/2024/232/regulation/2)
+[^c-b059471c3554ea23e259882a728bc439]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2024/10/section/13) in force at 24.9.2024 by [S.S.I. 2024/232](https://www.legislation.gov.uk/ssi/2024/232), [reg. 2](https://www.legislation.gov.uk/ssi/2024/232/regulation/2)
 
-[^key-a65ba11d5ea6f8629758d3fc8272967a]: Commencement: S. 14 in force at 23.7.2024, see [s. 17(1)](https://www.legislation.gov.uk/asp/2024/10/section/17/1)
+[^c-a65ba11d5ea6f8629758d3fc8272967a]: Commencement: S. 14 in force at 23.7.2024, see [s. 17(1)](https://www.legislation.gov.uk/asp/2024/10/section/17/1)
 
-[^key-cd51339302055789c4e9dd5762e48a8e]: Commencement: S. 15 in force at 23.7.2024, see [s. 17(1)](https://www.legislation.gov.uk/asp/2024/10/section/17/1)
+[^c-cd51339302055789c4e9dd5762e48a8e]: Commencement: S. 15 in force at 23.7.2024, see [s. 17(1)](https://www.legislation.gov.uk/asp/2024/10/section/17/1)
 
-[^key-64bdf5f263242958bf9cd6bb53b1cb3d]: Commencement: S. 16 in force at 23.7.2024, see [s. 17(1)](https://www.legislation.gov.uk/asp/2024/10/section/17/1)
+[^c-64bdf5f263242958bf9cd6bb53b1cb3d]: Commencement: S. 16 in force at 23.7.2024, see [s. 17(1)](https://www.legislation.gov.uk/asp/2024/10/section/17/1)
 
-[^key-ab8f15a426d22c2ca924d8df92775df7]: Commencement: S. 17 in force at 23.7.2024, see [s. 17(1)](https://www.legislation.gov.uk/asp/2024/10/section/17/1)
+[^c-ab8f15a426d22c2ca924d8df92775df7]: Commencement: S. 17 in force at 23.7.2024, see [s. 17(1)](https://www.legislation.gov.uk/asp/2024/10/section/17/1)
 
-[^key-3f7f8e5a688c5bc51ece5738d881decd]: Commencement: S. 18 in force at 23.7.2024, see [s. 17(1)](https://www.legislation.gov.uk/asp/2024/10/section/17/1)
+[^c-3f7f8e5a688c5bc51ece5738d881decd]: Commencement: S. 18 in force at 23.7.2024, see [s. 17(1)](https://www.legislation.gov.uk/asp/2024/10/section/17/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Use of CORE information[^key-2b735fc03e2eeea2f082b6d36ffa703c]
+## 29. Use of CORE information[^c-2b735fc03e2eeea2f082b6d36ffa703c]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b735fc03e2eeea2f082b6d36ffa703c]: Textual amendment: S. 29 repealed (2.4.2013) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/2013/6/section/23/2), [27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1); [S.I. 2013/702](https://www.legislation.gov.uk/uksi/2013/702), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/702/article/3/e)
+[^c-2b735fc03e2eeea2f082b6d36ffa703c]: Textual amendment: S. 29 repealed (2.4.2013) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/2013/6/section/23/2), [27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1); [S.I. 2013/702](https://www.legislation.gov.uk/uksi/2013/702), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/702/article/3/e)

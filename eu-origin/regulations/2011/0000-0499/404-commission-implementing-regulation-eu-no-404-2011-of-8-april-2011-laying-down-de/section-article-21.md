@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 21. Control measures to be adopted by a fisheries administration[^key-2547f72c723b8ab3159d210b11c50f46]
+## Article 21. Control measures to be adopted by a fisheries administration[^c-2547f72c723b8ab3159d210b11c50f46]
 
 *Extent: E+W+S+N.I.*
 
-A fisheries administration must[^key-e20993bff94ca4e8e753f0a251f7939e] ensure the continuous and systematic monitoring and control of the accuracy of the data referred to in Article 19 of this Regulation, and shall act promptly whenever data are found to be inaccurate or incomplete.
+A fisheries administration must[^c-e20993bff94ca4e8e753f0a251f7939e] ensure the continuous and systematic monitoring and control of the accuracy of the data referred to in Article 19 of this Regulation, and shall act promptly whenever data are found to be inaccurate or incomplete.
 
 ## Annotations
 
-[^key-2547f72c723b8ab3159d210b11c50f46]: Textual amendment: Words in [Art. 21](https://www.legislation.gov.uk/eur/2011/404/article/21) heading substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(18)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/18/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2547f72c723b8ab3159d210b11c50f46]: Textual amendment: Words in [Art. 21](https://www.legislation.gov.uk/eur/2011/404/article/21) heading substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(18)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/18/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e20993bff94ca4e8e753f0a251f7939e]: Textual amendment: Words in [Art. 21](https://www.legislation.gov.uk/eur/2011/404/article/21) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(18)(b)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/18/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e20993bff94ca4e8e753f0a251f7939e]: Textual amendment: Words in [Art. 21](https://www.legislation.gov.uk/eur/2011/404/article/21) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(18)(b)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/18/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -266,19 +266,19 @@ Section 29 shall be amended as follows—
 
 .
 
-#### 11. Amendment of provisions relating to things done for the purposes of instruction or examination[^key-64191954aa102e493543d0ee70b22a1a]
+#### 11. Amendment of provisions relating to things done for the purposes of instruction or examination[^c-64191954aa102e493543d0ee70b22a1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Amendment of provisions relating to recordings by educational establishments of broadcasts[^key-64191954aa102e493543d0ee70b22a1a]
+#### 12. Amendment of provisions relating to recordings by educational establishments of broadcasts[^c-64191954aa102e493543d0ee70b22a1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Amendment of provision relating to reprographic copying by educational establishments[^key-64191954aa102e493543d0ee70b22a1a]
+#### 13. Amendment of provision relating to reprographic copying by educational establishments[^c-64191954aa102e493543d0ee70b22a1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Amendment of provisions relating to copying by librarians[^key-64191954aa102e493543d0ee70b22a1a]
+#### 14. Amendment of provisions relating to copying by librarians[^c-64191954aa102e493543d0ee70b22a1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -306,7 +306,7 @@ Section 29 shall be amended as follows—
 
 .
 
-#### 16. Amendment of provision relating to recordings of folksongs[^key-af7efee8d9d17803837674e3420c405b]
+#### 16. Amendment of provision relating to recordings of folksongs[^c-af7efee8d9d17803837674e3420c405b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -553,11 +553,11 @@ In section 63(2) for the words “or distributed”, there shall be substituted 
 
 .
 
-#### 22. Amendment of provisions on the reception and re-transmission of broadcasts[^key-b146177e7f15c63f353374c77f154c24]
+#### 22. Amendment of provisions on the reception and re-transmission of broadcasts[^c-b146177e7f15c63f353374c77f154c24]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 23. Amendment of the provisions on the sub-titling of copies of broadcasts[^key-bb5f566cfaca5420523b1f81b1e7e76f]
+#### 23. Amendment of the provisions on the sub-titling of copies of broadcasts[^c-bb5f566cfaca5420523b1f81b1e7e76f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1394,7 +1394,7 @@ for the words from “broadcasts” to “service” there shall be substituted 
   ;
 - (b) in subsection (2)(b) for the words “cable programme” there shall be substituted “ communicating to the public ”.
 
-**22.**[^key-fd193d1fc5b04760bca4b0fbb4add5e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-fd193d1fc5b04760bca4b0fbb4add5e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **23.** In paragraph 92(1) of Schedule 17 of the Communications Act 2003 [^c5083891] for the words from “broadcast” to “service” there shall be substituted “ wireless broadcasts by cable ”.
 
@@ -1552,13 +1552,13 @@ A regulatory impact assessment and transposition note is available, copies of wh
 
 [^c5083831]: Marginal citation: [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48).
 
-[^key-64191954aa102e493543d0ee70b22a1a]: Textual amendment: [Regs. 11-14](https://www.legislation.gov.uk/uksi/2003/2498/regulation/11) revoked (coming into force at 00.02 on 1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2014/1372/schedule/paragraph/14) Table
+[^c-64191954aa102e493543d0ee70b22a1a]: Textual amendment: [Regs. 11-14](https://www.legislation.gov.uk/uksi/2003/2498/regulation/11) revoked (coming into force at 00.02 on 1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2014/1372/schedule/paragraph/14) Table
 
-[^key-af7efee8d9d17803837674e3420c405b]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2003/2498/regulation/16) revoked (coming into force at 00.02 on 1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2014/1372/schedule/paragraph/14) Table
+[^c-af7efee8d9d17803837674e3420c405b]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2003/2498/regulation/16) revoked (coming into force at 00.02 on 1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2014/1372/schedule/paragraph/14) Table
 
-[^key-b146177e7f15c63f353374c77f154c24]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2003/2498/regulation/22) revoked (31.7.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 34(2)(c)](https://www.legislation.gov.uk/ukpga/2017/30/section/34/2/c), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/n)
+[^c-b146177e7f15c63f353374c77f154c24]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2003/2498/regulation/22) revoked (31.7.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 34(2)(c)](https://www.legislation.gov.uk/ukpga/2017/30/section/34/2/c), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/n)
 
-[^key-bb5f566cfaca5420523b1f81b1e7e76f]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2003/2498/regulation/23) revoked (coming into force at 00.01 on 1.6.2014) by [The Copyright and Rights in Performances (Disability) Regulations 2014 (S.I. 2014/1384)](https://www.legislation.gov.uk/uksi/2014/1384), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2014/1384/schedule/paragraph/8) Table
+[^c-bb5f566cfaca5420523b1f81b1e7e76f]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2003/2498/regulation/23) revoked (coming into force at 00.01 on 1.6.2014) by [The Copyright and Rights in Performances (Disability) Regulations 2014 (S.I. 2014/1384)](https://www.legislation.gov.uk/uksi/2014/1384), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2014/1384/schedule/paragraph/8) Table
 
 [^c5083841]: Marginal citation: [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48).
 
@@ -1570,7 +1570,7 @@ A regulatory impact assessment and transposition note is available, copies of wh
 
 [^c5083871]: Marginal citation: [1996 c. 55](https://www.legislation.gov.uk/ukpga/1996/55).
 
-[^key-fd193d1fc5b04760bca4b0fbb4add5e4]: Textual amendment: [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2003/2498/schedule/1/paragraph/22) revoked (coming into force at 00.01 on 1.6.2014) by [The Copyright and Rights in Performances (Disability) Regulations 2014 (S.I. 2014/1384)](https://www.legislation.gov.uk/uksi/2014/1384), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2014/1384/schedule/paragraph/8) Table
+[^c-fd193d1fc5b04760bca4b0fbb4add5e4]: Textual amendment: [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2003/2498/schedule/1/paragraph/22) revoked (coming into force at 00.01 on 1.6.2014) by [The Copyright and Rights in Performances (Disability) Regulations 2014 (S.I. 2014/1384)](https://www.legislation.gov.uk/uksi/2014/1384), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2014/1384/schedule/paragraph/8) Table
 
 [^c5083891]: Marginal citation: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. Modification in pursuance of proposals under section 52.[^key-64c0521fd523bfa9b699afee03f07af5]
+## 53. Modification in pursuance of proposals under section 52.[^c-64c0521fd523bfa9b699afee03f07af5]
 
 *Extent: E+W*
 
-(1) Subject to the following provisions of this section, where the appropriate agency[^key-65c5b87bfb39eb393b150f08cecffa0e] has formulated any proposals under section 52 above with respect to any licence under this Chapter, it may—
+(1) Subject to the following provisions of this section, where the appropriate agency[^c-65c5b87bfb39eb393b150f08cecffa0e] has formulated any proposals under section 52 above with respect to any licence under this Chapter, it may—
 
 - (a) if the proposals are for the revocation of the licence, revoke the licence; and
 - (b) if the proposals are proposals for varying the licence, vary the licence in accordance with those proposals or, with the consent of the holder of the licence, in any other way.
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-64c0521fd523bfa9b699afee03f07af5]: Modification: S. 53 applied (with modifications) (1.4.2006) by [Water Resources (Abstraction and Impounding) Regulations 2006 (S.I. 2006/641)](https://www.legislation.gov.uk/uksi/2006/641), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2), [19(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/19/2)
+[^c-64c0521fd523bfa9b699afee03f07af5]: Modification: S. 53 applied (with modifications) (1.4.2006) by [Water Resources (Abstraction and Impounding) Regulations 2006 (S.I. 2006/641)](https://www.legislation.gov.uk/uksi/2006/641), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2), [19(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/19/2)
 
-[^key-65c5b87bfb39eb393b150f08cecffa0e]: Textual amendment: Words in ss. 53-57 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(i)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/i) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-65c5b87bfb39eb393b150f08cecffa0e]: Textual amendment: Words in ss. 53-57 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(i)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/i) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

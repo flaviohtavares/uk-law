@@ -26,7 +26,7 @@ Regulation 39
 
 *Extent: E+W+S*
 
-#### 1. Amendment of the Gas Appliances (Enforcement) and Miscellaneous Amendments Regulations 2018[^key-e8e2717728f15d190f3db9c8792a5699]
+#### 1. Amendment of the Gas Appliances (Enforcement) and Miscellaneous Amendments Regulations 2018[^c-e8e2717728f15d190f3db9c8792a5699]
 
 (1) The Gas Appliances (Enforcement) and Miscellaneous Amendments Regulations 2018 are amended as follows.
 
@@ -34,7 +34,7 @@ Regulation 39
 
 - (a) in paragraph (2), at the appropriate place, insert—
 
-  > Regulation 2016/426 (pre-exit)” means Regulation (EU) 2016/426 of the European Parliament and of the Council on appliances burning gaseous fuels and repealing Directive [2009/142/EC](https://www.legislation.gov.uk/eudr/2009/142) as it had effect immediately before IP completion day[^key-77ff88a8beae0c0a228e596ecf4135c8];
+  > Regulation 2016/426 (pre-exit)” means Regulation (EU) 2016/426 of the European Parliament and of the Council on appliances burning gaseous fuels and repealing Directive [2009/142/EC](https://www.legislation.gov.uk/eudr/2009/142) as it had effect immediately before IP completion day[^c-77ff88a8beae0c0a228e596ecf4135c8];
 
   ;
 - (b) in paragraph (3)—
@@ -124,7 +124,7 @@ Regulation 39
 > - (b) any reference to “conformity assessment procedure” in Articles 7(2) and 9(2) (first and second subparagraphs) is to be read as including the conformity assessment procedure referred to in Article 14(2) of Regulation 2016/426 (pre-exit) as EU type-examination;
 > - (c) any reference to “technical documentation” in Articles 7(2), 7(3), 9(2) (first and second subparagraphs) and 9(8) is to be read as including the technical documentation relating to the design of the appliance or fitting as referred to in point 1 of Annex III to Regulation 2016/426 (pre-exit).
 >
-> **2C. Expiry of regulations 2A and 2B[^key-c2331331e32ae5913f5a9585e3404ee0]**
+> **2C. Expiry of regulations 2A and 2B[^c-c2331331e32ae5913f5a9585e3404ee0]**
 >
 > (1) Subject to paragraph (2), regulation 2A ceases to have effect at the end of the period of 12 months beginning with IP completion day.
 >
@@ -186,7 +186,7 @@ Regulation 39
 
 ### PART 2 — Amendment of retained direct EU legislation
 
-#### 2. Amendment of Regulation (EU) 2016/426[^key-e2a18d8e6f9e79af063390215c7d9fa5]
+#### 2. Amendment of Regulation (EU) 2016/426[^c-e2a18d8e6f9e79af063390215c7d9fa5]
 
 (1) Regulation (EU) 2016/426 of the European Parliament and of the Council on appliances burning gaseous fuels and repealing Directive [2009/142/EC](https://www.legislation.gov.uk/eudr/2009/142) is amended as follows.
 
@@ -199,12 +199,12 @@ Regulation 39
 
 (3) In Article 2—
 
-- (a)[^key-837027f3c3c4efea053cbc99f9831ff6] in points (14) and (15) for “Union market” substitute “ market of Great Britain ”;
-- (aa)[^key-5a8304b3a020052470457446bffb252c] in point (16) for “the Union” substitute “ Great Britain ”;
-- (b)[^key-2450132cb8b1e27ea23211ed365ff55d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-837027f3c3c4efea053cbc99f9831ff6] in points (14) and (15) for “Union market” substitute “ market of Great Britain ”;
+- (aa)[^c-5a8304b3a020052470457446bffb252c] in point (16) for “the Union” substitute “ Great Britain ”;
+- (b)[^c-2450132cb8b1e27ea23211ed365ff55d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) for point (19), substitute—
 
-  > (19)[^key-3be637344e78b9d7aa9ad18958db6671] “**importer**” means a person who—
+  > (19)[^c-3be637344e78b9d7aa9ad18958db6671] “**importer**” means a person who—
   >
   > - (a) is established in the United Kingdom and places an appliance or fitting from a country outside of the United Kingdom on the market; or
   > - (b) is established in Northern Ireland and places an appliance or fitting on the market that has been supplied to them for distribution, consumption or use in the course of a commercial activity, whether in return for payment or free of charge, from an EEA state;
@@ -223,7 +223,7 @@ Regulation 39
   >
   > (36) ‘UK national accreditation body’ means the body appointed by the Secretary of State in accordance with Article 4 of Regulation [(EC) 765/2008](https://www.legislation.gov.uk/eur/2008/765) of the European Parliament and of the Council setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation [(EEC) 339/93](https://www.legislation.gov.uk/eur/1993/339);
   >
-  > (37) ‘Regulation 2016/426 (pre-exit)’ means Regulation (EU) 2016/426 of the European Parliament and of the Council on appliances burning gaseous fuels and repealing Directive [2009/142/EC](https://www.legislation.gov.uk/eudr/2009/142), as it had effect immediately before IP completion day[^key-d27c92f729ecbc70abb75962e05f0d16];
+  > (37) ‘Regulation 2016/426 (pre-exit)’ means Regulation (EU) 2016/426 of the European Parliament and of the Council on appliances burning gaseous fuels and repealing Directive [2009/142/EC](https://www.legislation.gov.uk/eudr/2009/142), as it had effect immediately before IP completion day[^c-d27c92f729ecbc70abb75962e05f0d16];
   >
   > (38) In this Regulation, references to “the market surveillance authority” are to be construed in accordance with regulation 3 of the Gas Appliances (Enforcement) and Miscellaneous Amendments Regulations 2018.
 
@@ -344,7 +344,7 @@ Regulation 39
     >
     > - (a) either—
     >   - (i) it is not possible to indicate that information on the appliance or fitting, or
-    >   - (ii) the importer has imported the appliance or fitting from an EEA state or Switzerland[^key-e3cae83817a038847d937e873b519053] and places it on the market within the period of 24 months[^key-974896940d4db71268e175ab1ce1896d] beginning with IP completion day[^key-e98757af81e4492ed8da0f02901849d2], and
+    >   - (ii) the importer has imported the appliance or fitting from an EEA state or Switzerland[^c-e3cae83817a038847d937e873b519053] and places it on the market within the period of 24 months[^c-974896940d4db71268e175ab1ce1896d] beginning with IP completion day[^c-e98757af81e4492ed8da0f02901849d2], and
     > - (b) before placing the appliance or fitting on the market, the importer sets out the information referred to in the first and second subparagraphs on the packaging of the appliance or fitting or in a document accompanying the appliance or fitting.
 
     ;
@@ -410,7 +410,7 @@ Regulation 39
 
 (17) In Article 17—
 
-- (aa)[^key-11ffd709ef8d023a799e207766b00cfa] before paragraph 1 insert——
+- (aa)[^c-11ffd709ef8d023a799e207766b00cfa] before paragraph 1 insert——
 
   > **A1.** Paragraph 1 is subject to paragraph (1A).
 
@@ -438,7 +438,7 @@ Regulation 39
 > **1.** An approved body is a conformity assessment body which—
 >
 > - (a) has been approved by the Secretary of State pursuant to the procedure set out in Article 20 (approval of conformity assessment bodies); or
-> - (b) immediately before IP completion day[^key-a79d59271e49fc0450833c3e2c1d918b] was a notified body in respect of which the Secretary of State had taken no action under Article 29 (changes to notifications) of Regulation 2016/426 (pre-exit), to suspend or withdraw the body's status as a notified body.
+> - (b) immediately before IP completion day[^c-a79d59271e49fc0450833c3e2c1d918b] was a notified body in respect of which the Secretary of State had taken no action under Article 29 (changes to notifications) of Regulation 2016/426 (pre-exit), to suspend or withdraw the body's status as a notified body.
 >
 > **2.** Paragraph 1 has effect subject to Article 29 (restriction, suspension or withdrawal of approval).
 >
@@ -645,7 +645,7 @@ Regulation 39
 
 (33) Omit Article 34 and 35.
 
-(34) For the heading to Chapter V, substitute— “ MARKET SURVEILLANCE AND CONTROL OF APPLIANCES AND FITTINGS ENTERING THE MARKET OF GREAT BRITAIN[^key-eda71d7f1ebcbea9701277f864c51a0d] ”.
+(34) For the heading to Chapter V, substitute— “ MARKET SURVEILLANCE AND CONTROL OF APPLIANCES AND FITTINGS ENTERING THE MARKET OF GREAT BRITAIN[^c-eda71d7f1ebcbea9701277f864c51a0d] ”.
 
 (35) In Article 36—
 
@@ -699,7 +699,7 @@ Regulation 39
 
 > **Article 44 — Transitional provision in relation to EU exit**
 >
-> **1.** In this Article, “**pre-exit period**” means the period beginning with 21 April 2018 and ending immediately before IP completion day[^key-c97451f45cc5fe50f6f7bd810d64b48e].
+> **1.** In this Article, “**pre-exit period**” means the period beginning with 21 April 2018 and ending immediately before IP completion day[^c-c97451f45cc5fe50f6f7bd810d64b48e].
 >
 > **2.** Subject to paragraph 3, where an appliance or fitting was made available on the market during the pre-exit period, despite the amendments made by Schedule 36 of the Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 [^c24327901], any obligation to which a person was subject under Regulation 2016/426 (pre-exit), continues to have effect as it did immediately before IP completion day, in relation to that appliance or fitting.
 >
@@ -830,41 +830,41 @@ Regulation 39
 
 ## Annotations
 
-[^key-e8e2717728f15d190f3db9c8792a5699]: Commencement: Sch. 36 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e8e2717728f15d190f3db9c8792a5699]: Commencement: Sch. 36 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-77ff88a8beae0c0a228e596ecf4135c8]: Textual amendment: Words in Sch. 36 para. 1(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(v)(i)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/i)
+[^c-77ff88a8beae0c0a228e596ecf4135c8]: Textual amendment: Words in Sch. 36 para. 1(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(v)(i)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/i)
 
-[^key-c2331331e32ae5913f5a9585e3404ee0]: Textual amendment: Words in Sch. 36 para. 1(4) inserted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 25(2)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/25/2)
+[^c-c2331331e32ae5913f5a9585e3404ee0]: Textual amendment: Words in Sch. 36 para. 1(4) inserted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 25(2)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/25/2)
 
-[^key-e2a18d8e6f9e79af063390215c7d9fa5]: Commencement: Sch. 36 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e2a18d8e6f9e79af063390215c7d9fa5]: Commencement: Sch. 36 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c24327881]: Marginal citation: [S.I. 2010/2617](https://www.legislation.gov.uk/uksi/2010/2617), amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.I](https://www.legislation.gov.uk/uksi/2011/1043/section/I). 2011/2677, [S.I. 2012/3005](https://www.legislation.gov.uk/uksi/2012/3005), [S.I](https://www.legislation.gov.uk/uksi/2012/3005/section/I). 2013/1232, [S.I. 2014/1290](https://www.legislation.gov.uk/uksi/2014/1290), [S.I](https://www.legislation.gov.uk/uksi/2014/1290/section/I). 2015/469, [S.I. 2016/838](https://www.legislation.gov.uk/uksi/2016/838) and [S.I. 2017/1143](https://www.legislation.gov.uk/uksi/2017/1143).
 
-[^key-837027f3c3c4efea053cbc99f9831ff6]: Textual amendment: Sch. 36 para. 2(3)(a) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 25(4)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/25/4)
+[^c-837027f3c3c4efea053cbc99f9831ff6]: Textual amendment: Sch. 36 para. 2(3)(a) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 25(4)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/25/4)
 
-[^key-5a8304b3a020052470457446bffb252c]: Textual amendment: Sch. 36 para. 2(3)(aa) inserted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 25(5)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/25/5)
+[^c-5a8304b3a020052470457446bffb252c]: Textual amendment: Sch. 36 para. 2(3)(aa) inserted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 25(5)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/25/5)
 
-[^key-2450132cb8b1e27ea23211ed365ff55d]: Textual amendment: Sch. 36 para. 2(3)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 3(p)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/3/p)
+[^c-2450132cb8b1e27ea23211ed365ff55d]: Textual amendment: Sch. 36 para. 2(3)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 3(p)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/3/p)
 
-[^key-3be637344e78b9d7aa9ad18958db6671]: Textual amendment: Words in Sch. 36 para. 2(3)(c) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 25(3)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/25/3)
+[^c-3be637344e78b9d7aa9ad18958db6671]: Textual amendment: Words in Sch. 36 para. 2(3)(c) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 25(3)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/25/3)
 
-[^key-d27c92f729ecbc70abb75962e05f0d16]: Textual amendment: Words in Sch. 36 para. 2(3)(e) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(v)(iii)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/iii)
+[^c-d27c92f729ecbc70abb75962e05f0d16]: Textual amendment: Words in Sch. 36 para. 2(3)(e) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(v)(iii)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/iii)
 
-[^key-e3cae83817a038847d937e873b519053]: Textual amendment: Words in Sch. 36 para. 2(10)(b) inserted (31.12.2020 immediately before IP completion day) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2019/1246/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e3cae83817a038847d937e873b519053]: Textual amendment: Words in Sch. 36 para. 2(10)(b) inserted (31.12.2020 immediately before IP completion day) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2019/1246/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-974896940d4db71268e175ab1ce1896d]: Textual amendment: Words in Sch. 36 para. 2(10)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 2(1)(o)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/2/1/o)
+[^c-974896940d4db71268e175ab1ce1896d]: Textual amendment: Words in Sch. 36 para. 2(10)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 2(1)(o)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/2/1/o)
 
-[^key-e98757af81e4492ed8da0f02901849d2]: Textual amendment: Words in Sch. 36 para. 2(10)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(v)(iv)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/iv)
+[^c-e98757af81e4492ed8da0f02901849d2]: Textual amendment: Words in Sch. 36 para. 2(10)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(v)(iv)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/iv)
 
-[^key-11ffd709ef8d023a799e207766b00cfa]: Textual amendment: Sch. 36 para. 2(17)(aa)(ab) inserted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 25(6)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/25/6)
+[^c-11ffd709ef8d023a799e207766b00cfa]: Textual amendment: Sch. 36 para. 2(17)(aa)(ab) inserted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 25(6)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/25/6)
 
-[^key-a79d59271e49fc0450833c3e2c1d918b]: Textual amendment: Words in Sch. 36 para. 2(19) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(v)(v)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/v)
+[^c-a79d59271e49fc0450833c3e2c1d918b]: Textual amendment: Words in Sch. 36 para. 2(19) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(v)(v)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/v)
 
 [^c24327891]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-eda71d7f1ebcbea9701277f864c51a0d]: Textual amendment: Words in Sch. 36 para. 2(34) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 25(7)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/25/7)
+[^c-eda71d7f1ebcbea9701277f864c51a0d]: Textual amendment: Words in Sch. 36 para. 2(34) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 25(7)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/25/7)
 
-[^key-c97451f45cc5fe50f6f7bd810d64b48e]: Textual amendment: Words in Sch. 36 para. 2(41) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(v)(vi)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/v)
+[^c-c97451f45cc5fe50f6f7bd810d64b48e]: Textual amendment: Words in Sch. 36 para. 2(41) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(v)(vi)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/v)
 
 [^c24327901]: Marginal citation: [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696)
 

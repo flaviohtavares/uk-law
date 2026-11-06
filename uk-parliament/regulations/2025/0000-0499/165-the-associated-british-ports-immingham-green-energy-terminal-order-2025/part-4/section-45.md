@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Powers to dredge[^key-77a5ad68afc5d477382a302054b20514]
+## 45. Powers to dredge[^c-77a5ad68afc5d477382a302054b20514]
 
 *Extent: E+W+S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-77a5ad68afc5d477382a302054b20514]: Commencement: Art. 45 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-77a5ad68afc5d477382a302054b20514]: Commencement: Art. 45 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
 
 [^f00090]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).

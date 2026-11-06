@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 78. General requirements[^key-245d88531b4b9d494f91f8b747cd8f05]
+## Article 78. General requirements[^c-245d88531b4b9d494f91f8b747cd8f05]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 8. A trade repository shall publicly disclose the prices and fees associated with services provided under this Regulation. It shall disclose the prices and fees of each service provided separately, including discounts and rebates and the conditions to benefit from those reductions. It shall allow reporting entities to access specific services separately. The prices and fees charged by a trade repository shall be cost-related.
 
-9.[^key-0e556eb64bceaef09a827c069ae19354] A trade repository must establish the following procedures and policies—
+9.[^c-0e556eb64bceaef09a827c069ae19354] A trade repository must establish the following procedures and policies—
 
 - (a) procedures for the effective reconciliation of data between trade repositories;
 - (b) procedures to verify the completeness and correctness of the data reported;
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-245d88531b4b9d494f91f8b747cd8f05]: Modification: [Arts. 78-80](https://www.legislation.gov.uk/eur/2012/648/article/78) modified (30.1.2024 for specified purposes, 1.11.2024 in so far as not already in force) by [The Securitisation Regulations 2024 (S.I. 2024/102)](https://www.legislation.gov.uk/uksi/2024/102), [regs. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)[(2)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/102/regulation/14/4) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2024/102/schedule/3)) (as amended by [S.I. 2024/705](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/2))
+[^c-245d88531b4b9d494f91f8b747cd8f05]: Modification: [Arts. 78-80](https://www.legislation.gov.uk/eur/2012/648/article/78) modified (30.1.2024 for specified purposes, 1.11.2024 in so far as not already in force) by [The Securitisation Regulations 2024 (S.I. 2024/102)](https://www.legislation.gov.uk/uksi/2024/102), [regs. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)[(2)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/102/regulation/14/4) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2024/102/schedule/3)) (as amended by [S.I. 2024/705](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/2))
 
-[^key-0e556eb64bceaef09a827c069ae19354]: Textual amendment: [Art. 78(9)](https://www.legislation.gov.uk/eur/2012/648/article/78/9)[(10)](https://www.legislation.gov.uk/eur/2012/648/article/78/10) inserted (1.7.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [ss. 40(3)](https://www.legislation.gov.uk/ukpga/2021/22/section/40/3), [49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/40/5)); [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(v)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/v)
+[^c-0e556eb64bceaef09a827c069ae19354]: Textual amendment: [Art. 78(9)](https://www.legislation.gov.uk/eur/2012/648/article/78/9)[(10)](https://www.legislation.gov.uk/eur/2012/648/article/78/10) inserted (1.7.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [ss. 40(3)](https://www.legislation.gov.uk/ukpga/2021/22/section/40/3), [49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/40/5)); [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(v)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/v)

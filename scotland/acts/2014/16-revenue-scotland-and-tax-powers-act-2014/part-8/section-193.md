@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 193. Assessment of penalties under this Chapter[^key-f8a7aac796e082d10ff05c2de5a3a952]
+## 193. Assessment of penalties under this Chapter[^c-f8a7aac796e082d10ff05c2de5a3a952]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8a7aac796e082d10ff05c2de5a3a952]: Commencement: [S. 193](https://www.legislation.gov.uk/asp/2014/16/section/193) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-f8a7aac796e082d10ff05c2de5a3a952]: Commencement: [S. 193](https://www.legislation.gov.uk/asp/2014/16/section/193) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

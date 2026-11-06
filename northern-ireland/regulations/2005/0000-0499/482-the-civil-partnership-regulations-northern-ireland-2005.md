@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Finance and Personnel, in exercise of the powers conferred upon it by sections 144(4), 147 and 159 of the Civil Partnership Act 2004[^f00001], and all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-94d9a506de969992513dcac15996cb12]
+## 1. Citation and commencement[^c-94d9a506de969992513dcac15996cb12]
 
 These Regulations may be cited as the Civil Partnership Regulations (Northern Ireland) 2005 and shall come into operation on 5th December 2005.
 
-## 2. Interpretation[^key-287a7484b8866662d078ad12d5a65580]
+## 2. Interpretation[^c-287a7484b8866662d078ad12d5a65580]
 
 (1) In these Regulations—
 
@@ -62,27 +62,27 @@ These Regulations may be cited as the Civil Partnership Regulations (Northern Ir
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00002] shall apply to these regulations as it applies to an Act of the Assembly.
 
-## 3. Civil Partnership Notice[^key-e82588e0010780d9c08fbcaef77d2ee7]
+## 3. Civil Partnership Notice[^c-e82588e0010780d9c08fbcaef77d2ee7]
 
 (1) A civil partnership notice shall be in the form as set out in Schedule 1.
 
-(2) The civil partnership notice for each party to a civil partnership intended to be registered in Northern Ireland shall be served on the registrar at least 28 days[^key-f45aa10d7c933f3fbee7df36d2adab6b] before the date of the intended civil partnership except where—
+(2) The civil partnership notice for each party to a civil partnership intended to be registered in Northern Ireland shall be served on the registrar at least 28 days[^c-f45aa10d7c933f3fbee7df36d2adab6b] before the date of the intended civil partnership except where—
 
 - (a) the registrar has received a written request from one or both of the parties giving the reason why 28 days notice cannot be given; and
-- (b) subject to paragraph (3),[^key-3e8fe238b2e7e2124248a5aa1ed3641f] the registrar has been authorised by the Registrar General to reduce the period of 28 days to such shorter period as he considers necessary.
+- (b) subject to paragraph (3),[^c-3e8fe238b2e7e2124248a5aa1ed3641f] the registrar has been authorised by the Registrar General to reduce the period of 28 days to such shorter period as he considers necessary.
 
-(3)[^key-54f1d527ec0c7336dd2109de22bf39c4] Unless paragraph (4) applies, if a proposed civil partnership is referred to the Secretary of State under section 139E of the Act (“the referred civil partnership”) the Registrar General may only authorise the registrar to reduce the period of 28 days notice mentioned in paragraph (2)(b) with the consent of Secretary of State.
+(3)[^c-54f1d527ec0c7336dd2109de22bf39c4] Unless paragraph (4) applies, if a proposed civil partnership is referred to the Secretary of State under section 139E of the Act (“the referred civil partnership”) the Registrar General may only authorise the registrar to reduce the period of 28 days notice mentioned in paragraph (2)(b) with the consent of Secretary of State.
 
 (4) This paragraph applies if the request is made because a party to the referred civil partnership is gravely ill and not expected to recover.
 
-**4.**[^key-77243028f3f9b23984772ddba6221e8c][^key-e82588e0010780d9c08fbcaef77d2ee7] The registrar may require either of the parties to the civil partnership to give the civil partnership notice in person to the registrar of the district in which the civil partnership is to take place or to a registrar of any other district where—
+**4.**[^c-77243028f3f9b23984772ddba6221e8c][^c-e82588e0010780d9c08fbcaef77d2ee7] The registrar may require either of the parties to the civil partnership to give the civil partnership notice in person to the registrar of the district in which the civil partnership is to take place or to a registrar of any other district where—
 
 - (a) the registrar is not satisfied that the civil partnership notice has been completed correctly; or
 - (b) there is any doubt about the identity of the parties; or
 - (c) there appears to be a legal impediment to the civil partnership; or
 - (d) any of the documents submitted is not in order.
 
-## 5. Civil Partnership Notice Book[^key-839d8e54e70611ca6f2f66ed51d47a88]
+## 5. Civil Partnership Notice Book[^c-839d8e54e70611ca6f2f66ed51d47a88]
 
 The prescribed particulars, in relation to a person to be taken from each civil partnership notice received by the registrar, shall be that person's—
 
@@ -92,23 +92,23 @@ The prescribed particulars, in relation to a person to be taken from each civil 
 - (d) date of birth; and
 - (e) date of intended civil partnership registration.
 
-## 6. Civil Partnership Schedule[^key-d0b8223ced02fc4a511affb68bacb815]
+## 6. Civil Partnership Schedule[^c-d0b8223ced02fc4a511affb68bacb815]
 
-(1)[^key-ebcf46ae6eaee4aeee3d7477e949a97d] A civil partnership schedule shall be in the form set out in Schedule 2 , 2A or 2B[^key-29a24255f43fbcf4150db54af1cd5b1e].
+(1)[^c-ebcf46ae6eaee4aeee3d7477e949a97d] A civil partnership schedule shall be in the form set out in Schedule 2 , 2A or 2B[^c-29a24255f43fbcf4150db54af1cd5b1e].
 
-(2)[^key-43b46b3939107145c9f20805436ab7c6] Where a civil partnership schedule is cancelled under section 143A of the Act, the registrar shall inform both parties to the proposed civil partnership.
+(2)[^c-43b46b3939107145c9f20805436ab7c6] Where a civil partnership schedule is cancelled under section 143A of the Act, the registrar shall inform both parties to the proposed civil partnership.
 
 ## Civil Partnership Registration in Approved Places
 
 **Not yet in force.**
 
-## 7. Applicants for an approval of a place for civil partnership registration[^key-fe0e8951c7f3668988dc0571e1e93477]
+## 7. Applicants for an approval of a place for civil partnership registration[^c-fe0e8951c7f3668988dc0571e1e93477]
 
 (1) An application for a place approval may, following the procedures set out in regulation 8, be made to the authority by any person.
 
 (2) An application for a temporary approval may, following the procedures set out in regulation 9, be made to the authority by either of the parties to an intended civil partnership registration in respect of any place which at the time of the application does not have place approval, other than one where an approval will expire before the date of the intended civil partnership registration.
 
-## 8. Place approvals[^key-c4bb080f57b59558ed2f73816caecfe7]
+## 8. Place approvals[^c-c4bb080f57b59558ed2f73816caecfe7]
 
 (1) An applicant for place approval shall deliver to the authority an application in writing to include—
 
@@ -121,7 +121,7 @@ The prescribed particulars, in relation to a person to be taken from each civil 
 
 (4) The authority may, if it considers it to be appropriate after receiving the application, arrange for the place to be inspected.
 
-## 9. Temporary place approvals[^key-3697a3c2774d2fab776b4ed6a83db7fd]
+## 9. Temporary place approvals[^c-3697a3c2774d2fab776b4ed6a83db7fd]
 
 (1) An applicant for a temporary place approval shall deliver to the authority an application in writing to include—
 
@@ -135,7 +135,7 @@ The prescribed particulars, in relation to a person to be taken from each civil 
 
 (4) The authority may, if it considers it to be appropriate after receiving the application, arrange for the place to be inspected.
 
-## 10. Public notice[^key-8055f658e3d249b82e5a2c55593d2770]
+## 10. Public notice[^c-8055f658e3d249b82e5a2c55593d2770]
 
 (1) As soon as practicable after receiving an application the authority shall, in accordance with paragraph (2), cause a notice to be placed on public display at the place named in the application.
 
@@ -146,7 +146,7 @@ The prescribed particulars, in relation to a person to be taken from each civil 
 - (c) state that objections to the application may be made to the authority in accordance with regulation 11;
 - (d) state the address at which the application can be inspected and the address to which such objections should be given.
 
-## 11. Objections[^key-1b564834b07721543d5d9c0789222621]
+## 11. Objections[^c-1b564834b07721543d5d9c0789222621]
 
 (1) Any person may give notice in writing to the authority of an objection to an application in accordance with this regulation.
 
@@ -160,7 +160,7 @@ The prescribed particulars, in relation to a person to be taken from each civil 
 
 (4) The authority shall send a copy of any objection submitted in accordance with this regulation to the applicant.
 
-## 12. Determination of applications[^key-11b7641d817a435dbd0d3afb441bb1fc]
+## 12. Determination of applications[^c-11b7641d817a435dbd0d3afb441bb1fc]
 
 (1) The authority shall not grant an approval if the application has not been made in accordance with these regulations.
 
@@ -177,14 +177,14 @@ The prescribed particulars, in relation to a person to be taken from each civil 
 
 (4) The authority shall not grant a place approval if, in its opinion, the applicant is not a fit and proper person.
 
-## 13. Conditions attached to approvals[^key-e3a864b35615013123793d5f199b605f]
+## 13. Conditions attached to approvals[^c-e3a864b35615013123793d5f199b605f]
 
 In granting an approval the authority—
 
 - (a) shall attach to a place approval the standard conditions contained in Schedule 3; and
 - (b) may attach to a temporary place approval such conditions, and to a place approval such further conditions, as it considers reasonable in order to ensure that the facilities provided at the place are suitable.
 
-## 14. Notification of decisions[^key-aef38daa5c7b50d79c14dc26e4a848f7]
+## 14. Notification of decisions[^c-aef38daa5c7b50d79c14dc26e4a848f7]
 
 (1) The authority shall, within 7 days of its decision, notify the applicant in writing of that decision including any conditions attached to an approval under regulation 13.
 
@@ -195,17 +195,17 @@ In granting an approval the authority—
 
 (3) The authority shall, at the same time as it notifies the applicant under paragraph (1), send a copy of any approval to the registrar.
 
-## 15. Restriction on successive applications[^key-3c49337373504b64b19b314e1f91bfb8]
+## 15. Restriction on successive applications[^c-3c49337373504b64b19b314e1f91bfb8]
 
 Where the authority has refused an application for an approval it shall not, within one year of that refusal, consider a subsequent application for the same kind of approval in respect of the same place unless, in its opinion, there has been a material change in the circumstances.
 
-## 16. Duration of approvals[^key-217a6a5351d1a5acd6332a2a54192a31]
+## 16. Duration of approvals[^c-217a6a5351d1a5acd6332a2a54192a31]
 
 (1) Subject to regulations 17(3), 20 and 21, a place approval shall be valid from the date it is granted for a period of three years, or such lesser period as the authority may determine.
 
 (2) Subject to regulations 20 and 21, a temporary place approval shall be valid only for the date stated in that approval unless the authority, on the request of the applicant in writing, agrees to amend the stated date.
 
-## 17. Renewal of place approvals[^key-533920cec564cb795b98b51c1bbc068c]
+## 17. Renewal of place approvals[^c-533920cec564cb795b98b51c1bbc068c]
 
 (1) An application for renewal of a place approval may be made by the approval holder.
 
@@ -216,7 +216,7 @@ Where the authority has refused an application for an approval it shall not, wit
 
 (3) If an application for renewal has been made in accordance with paragraph (1) and (2) and that application has not been finally determined or withdrawn before the date on which the approval would otherwise expire, the approval shall continue in effect until such time as the application is finally determined or withdrawn.
 
-## 18. Fees for applications and renewals[^key-28f51abca6ae4de2afa7a9e360f73f5f]
+## 18. Fees for applications and renewals[^c-28f51abca6ae4de2afa7a9e360f73f5f]
 
 (1) An authority may, in accordance with this regulation, determine a fee in respect of an application for an approval, or the renewal of a place approval.
 
@@ -224,14 +224,14 @@ Where the authority has refused an application for an approval it shall not, wit
 
 (3) An authority may charge a fee in respect of an application or renewal, or an amount on account of such fee, where it has not yet incurred any costs in respect of that application or renewal.
 
-## 19. Fees for attendance of Registrars[^key-2f4880f6a0221511c81fbd7cf636eb26][^key-5958a5965896f64780b77ffadaf488f1]
+## 19. Fees for attendance of Registrars[^c-2f4880f6a0221511c81fbd7cf636eb26][^c-5958a5965896f64780b77ffadaf488f1]
 
 An authority may determine a fee in respect of the attendance by the registrar at approved places and any such fee shall—
 
 - (a) be the amount which reasonably represents the costs incurred or to be incurred directly or indirectly by the authority in respect of that attendance; and
-- (b) be payable to the authority by the parties to an intended civil partnership registration not less than 28 days[^key-f61f6312aa524d1461875103136caaaa] , or such lesser period as the authority may determine, prior to the registration of the civil partnership.
+- (b) be payable to the authority by the parties to an intended civil partnership registration not less than 28 days[^c-f61f6312aa524d1461875103136caaaa] , or such lesser period as the authority may determine, prior to the registration of the civil partnership.
 
-## 20. Revocation and suspension of approvals[^key-34d85929589fe0800c9e7ffc5eea98b5]
+## 20. Revocation and suspension of approvals[^c-34d85929589fe0800c9e7ffc5eea98b5]
 
 (1) An authority may revoke or suspend an approval in accordance with the provisions of this regulation.
 
@@ -265,7 +265,7 @@ an opportunity to be heard by the authority or, if that person prefers, to submi
 
 (10) Upon receipt of the notice of revocation or suspension under paragraph (9) the approval holder shall forthwith serve notice of the revocation or suspension on all parties whose intended civil partnerships have not yet been registered in the place in respect of which the notice of revocation or suspension has been received.
 
-## 21. Variation of approvals[^key-7e621149ebcd61cc5082f750e54f6668]
+## 21. Variation of approvals[^c-7e621149ebcd61cc5082f750e54f6668]
 
 (1) Subject to the following paragraphs an authority may, at any time, vary the conditions attached to an approval under regulation 13(b) on any grounds it thinks fit.
 
@@ -278,7 +278,7 @@ an opportunity to be heard by the authority or, if that person prefers, to submi
 - (a) upon expiry of the period for applying for a review under regulation 22; or
 - (b) where such an application has been lodged, when the review has been determined in favour of the variation.
 
-## 22. Review[^key-2865e0e2a058af6688dc3938f0c3827a]
+## 22. Review[^c-2865e0e2a058af6688dc3938f0c3827a]
 
 (1) An applicant or an approval holder may seek a review by the authority of any decision made by the authority in relation to an application (including any decision to revoke or suspend, or vary any of the conditions imposed in relation to, an approval granted in pursuance of that application).
 
@@ -286,7 +286,7 @@ an opportunity to be heard by the authority or, if that person prefers, to submi
 
 (3) On review under paragraph (1) the authority shall notify the applicant or the approval holder of its decision together with details of the right of appeal to the county court in accordance with regulation 23.
 
-## 23. Appeal[^key-c375b1115b188d8076c5700130840cea]
+## 23. Appeal[^c-c375b1115b188d8076c5700130840cea]
 
 (1) An applicant or an approval holder may appeal any decision made by an authority on review under regulation 22 to the county court.
 
@@ -299,13 +299,13 @@ an opportunity to be heard by the authority or, if that person prefers, to submi
 - (c) that the authority has acted contrary to natural justice; or
 - (d) that the authority has acted unreasonably in the exercise of its discretion.
 
-## 24. Deemed approval holder[^key-af2155d07e7e2f828c1fd607fbe436b9]
+## 24. Deemed approval holder[^c-af2155d07e7e2f828c1fd607fbe436b9]
 
 (1) Without prejudice to the provisions of these regulations as to the duration, or the revocation, suspension or variation, of an approval, a place approval shall remain in operation notwithstanding that the approval holder ceases to have an interest in the approved place and the person to whom his interest is transferred shall be deemed to be the approval holder in his place.
 
 (2) Where a person is deemed to be an approval holder under paragraph (1) that person shall immediately notify the authority of that fact, whereupon the authority shall consider the matter and may revoke, suspend or vary the approval, in accordance with regulations 20 and 21.
 
-## 25. Registers of approved places[^key-30ad8d3c77209664395e4b8dd2248cfd]
+## 25. Registers of approved places[^c-30ad8d3c77209664395e4b8dd2248cfd]
 
 (1) Each authority shall keep a register of every approved place within its area for which an approval has been granted, containing—
 
@@ -320,19 +320,19 @@ an opportunity to be heard by the authority or, if that person prefers, to submi
 
 (4) The authority shall make the register available for public inspection during the normal working hours of the authority.
 
-## 26. Guidance concerning grants of approval and approved places[^key-bef7bf1e6af79d5d0c2161cf56ea5917]
+## 26. Guidance concerning grants of approval and approved places[^c-bef7bf1e6af79d5d0c2161cf56ea5917]
 
 The Registrar General shall from time to time issue guidance supplementing the provisions made by these regulations for or in connection with the approval of places where civil partnerships will be registered.
 
-## 27. Medical statement[^key-a7212af3ee5190c8417b73141dcb6863]
+## 27. Medical statement[^c-a7212af3ee5190c8417b73141dcb6863]
 
 The medical statement for the purposes of section 144(6) of the Act shall be in the form set out in Schedule 4.
 
-## 28. Consent[^key-f9312698f7c134ad2c33858fce2626b5]
+## 28. Consent[^c-f9312698f7c134ad2c33858fce2626b5]
 
 The relevant consents for the purpose of section 145 of the Act shall be in the form set out in Schedule 5.
 
-**29.**[^key-1fbb2413235efe131fe19ed4a8e6e715][^key-f9312698f7c134ad2c33858fce2626b5] The prescribed particulars to be taken from an order made under Schedule 13 Part 2 or from each consent under Schedule 13 Part 3 of the Act shall be—
+**29.**[^c-1fbb2413235efe131fe19ed4a8e6e715][^c-f9312698f7c134ad2c33858fce2626b5] The prescribed particulars to be taken from an order made under Schedule 13 Part 2 or from each consent under Schedule 13 Part 3 of the Act shall be—
 
 - (a) date of intended civil partnership registration;
 - (b) name and surname of each party;
@@ -342,7 +342,7 @@ The relevant consents for the purpose of section 145 of the Act shall be in the 
 - (f) name of Health and Social Services Board or Health and Social Services Trust (if applicable); and
 - (g) date of consent or order.
 
-## 30. Corrections[^key-b70a79893a891a1b9a6eaedfc182c64c]
+## 30. Corrections[^c-b70a79893a891a1b9a6eaedfc182c64c]
 
 (1) The Registrar General or any registrar may—
 
@@ -351,18 +351,18 @@ The relevant consents for the purpose of section 145 of the Act shall be in the 
 
 (2) The statutory declaration referred to in paragraph (1)(b) shall be in the form set out in Schedule 6.
 
-## 31. Detained persons[^key-62ee7ae5b084d6f7c5f1cb7d85622e97]
+## 31. Detained persons[^c-62ee7ae5b084d6f7c5f1cb7d85622e97]
 
 The statement for the purposes of section 149(2) of the Act shall be in the form set out in Schedule 7.
 
-## 32. Certified copies of entries[^key-4df9a4805f0d3d96198c2eb4ad394c91]
+## 32. Certified copies of entries[^c-4df9a4805f0d3d96198c2eb4ad394c91]
 
 The document given under section 155(3)(b) of the Act—
 
-- (a) shall be in the form as set out in Schedule 8 , 8A or 8B[^key-5a0f3ca031e818cc4dcd51b668390a3a] where it is given by the Registrar General; and
-- (b) shall be in the form as set out in Schedule 9 , 9A or 9B[^key-828ec8f8ab46ec9497be728edd35ea80] where it is given by the registrar.
+- (a) shall be in the form as set out in Schedule 8 , 8A or 8B[^c-5a0f3ca031e818cc4dcd51b668390a3a] where it is given by the Registrar General; and
+- (b) shall be in the form as set out in Schedule 9 , 9A or 9B[^c-828ec8f8ab46ec9497be728edd35ea80] where it is given by the registrar.
 
-**33.**[^key-df16f63c7862417f439e8ada4a552e38][^key-4df9a4805f0d3d96198c2eb4ad394c91] (1) The document for the purposes of section 156(1) of the Act shall be in the form set out in Schedule 10 , 10A or 10B[^M_F_0082ac68-1a41-40e6-97e2-d8ce63ca9fbf] .
+**33.**[^c-df16f63c7862417f439e8ada4a552e38][^c-4df9a4805f0d3d96198c2eb4ad394c91] (1) The document for the purposes of section 156(1) of the Act shall be in the form set out in Schedule 10 , 10A or 10B[^M_F_0082ac68-1a41-40e6-97e2-d8ce63ca9fbf] .
 
 (2) The statutory provisions to be prescribed under section 156(1) of the Act are listed in Schedule 11.
 
@@ -374,111 +374,111 @@ Senior Officer of the
 
 Department of Finance and Personnel
 
-## SCHEDULE 1 — Civil Partnership Notice in Northern Ireland[^M_I_c82180f9-f512-4bd1-a97b-dd10be562a7f][^key-355dd84891e6e508880d75fa2f94c9dc]
+## SCHEDULE 1 — Civil Partnership Notice in Northern Ireland[^M_I_c82180f9-f512-4bd1-a97b-dd10be562a7f][^c-355dd84891e6e508880d75fa2f94c9dc]
 
 Regulation 3(1)
 
 [image: see source](https://www.legislation.gov.uk/nisr/2005/482/images/nisr_20050482_en_epp_001.gif)[image: see source](https://www.legislation.gov.uk/nisr/2005/482/images/nisr_20050482_en_epp_002.gif)
 
-## SCHEDULE 2 — Civil Partnership Schedule[^key-9043661d1190bf06ac4e0be2cf7308df][^key-d60414508b6c892b29630ce8ce0d8015]
+## SCHEDULE 2 — Civil Partnership Schedule[^c-9043661d1190bf06ac4e0be2cf7308df][^c-d60414508b6c892b29630ce8ce0d8015]
 
 Regulation 6
 
 [image: see source](https://www.legislation.gov.uk/nisr/2005/482/images/nisr_20050482_en_epp_003.gif)
 
-## SCHEDULE 2A — Civil Partnership Schedule[^key-f96d61f7e7842af238269b7a3f4a9649]
+## SCHEDULE 2A — Civil Partnership Schedule[^c-f96d61f7e7842af238269b7a3f4a9649]
 
 Regulation 6
 
-## SCHEDULE 2B — Civil Partnership Schedule[^key-a69eb383d6469861df920cdfec7374bb]
+## SCHEDULE 2B — Civil Partnership Schedule[^c-a69eb383d6469861df920cdfec7374bb]
 
 Regulation 6
 
-## SCHEDULE 3 — STANDARD CONDITIONS TO BE ATTACHED TO PLACE APPROVALS[^key-ee2f7b833af43fe8507c1e103a5317e0]
+## SCHEDULE 3 — STANDARD CONDITIONS TO BE ATTACHED TO PLACE APPROVALS[^c-ee2f7b833af43fe8507c1e103a5317e0]
 
 Regulation 13(a)
 
 [image: see source](https://www.legislation.gov.uk/nisr/2005/482/images/nisr_20050482_en_006)[image: see source](https://www.legislation.gov.uk/nisr/2005/482/images/nisr_20050482_en_007)
 
-## SCHEDULE 4 — STATEMENT BY REGISTERED MEDICAL PRACTITIONER[^key-e8c7d1216389c744043ec81824e8600e]
+## SCHEDULE 4 — STATEMENT BY REGISTERED MEDICAL PRACTITIONER[^c-e8c7d1216389c744043ec81824e8600e]
 
 Regulation 27
 
 [image: see source](https://www.legislation.gov.uk/nisr/2005/482/images/nisr_20050482_en_008)
 
-## SCHEDULE 5 — FORM OF CONSENT TO THE CIVIL PARTNERSHIP REGISTRATION OF A YOUNG PERSON[^key-1b2d8bee99dbf2343e99527243f2b495][^key-68694f02566a612d19af4d1adf1b04dd]
+## SCHEDULE 5 — FORM OF CONSENT TO THE CIVIL PARTNERSHIP REGISTRATION OF A YOUNG PERSON[^c-1b2d8bee99dbf2343e99527243f2b495][^c-68694f02566a612d19af4d1adf1b04dd]
 
 Regulation 28
 
 [image: see source](https://www.legislation.gov.uk/nisr/2005/482/images/nisr_20050482_en_009)[image: see source](https://www.legislation.gov.uk/nisr/2005/482/images/nisr_20050482_en_010)
 
-## SCHEDULE 6 — STATUTORY DECLARATION IN CASE OF ERROR OF FACT OR SUBSTANCE IN A CIVIL PARTNERSHIP REGISTRATION[^key-370326bb1bcabf2f8de107ecd7a1adf5]
+## SCHEDULE 6 — STATUTORY DECLARATION IN CASE OF ERROR OF FACT OR SUBSTANCE IN A CIVIL PARTNERSHIP REGISTRATION[^c-370326bb1bcabf2f8de107ecd7a1adf5]
 
 Regulation 30(2)
 
 [image: see source](https://www.legislation.gov.uk/nisr/2005/482/images/nisr_20050482_en_011)
 
-## SCHEDULE 7 — STATEMENT BY THE RESPONSIBLE AUTHORITY[^key-b6971fb8b5e8be1d3f3352099ca7caa9]
+## SCHEDULE 7 — STATEMENT BY THE RESPONSIBLE AUTHORITY[^c-b6971fb8b5e8be1d3f3352099ca7caa9]
 
 Regulation 31
 
 [image: see source](https://www.legislation.gov.uk/nisr/2005/482/images/nisr_20050482_en_012)
 
-## SCHEDULE 8 — Civil Partnership Registration in Northern Ireland[^key-3156a6e1607aa1e9a5a55637f21cb2e7][^key-9c57953dc72a2657f622551beab0873a]
+## SCHEDULE 8 — Civil Partnership Registration in Northern Ireland[^c-3156a6e1607aa1e9a5a55637f21cb2e7][^c-9c57953dc72a2657f622551beab0873a]
 
 Regulation 32(a)
 
 [image: see source](https://www.legislation.gov.uk/nisr/2005/482/images/nisr_20050482_en_epp_006.gif)
 
-## SCHEDULE 8A — Civil Partnership Registration in Northern Ireland[^key-1ea2ec36edddb8af77039d33e7851600]
+## SCHEDULE 8A — Civil Partnership Registration in Northern Ireland[^c-1ea2ec36edddb8af77039d33e7851600]
 
 Regulation 32(a)
 
 [image: see source](https://www.legislation.gov.uk/nisr/2005/482/images/nisr_20050482_en_epp_013.gif)
 
-## SCHEDULE 8B — Civil Partnership Registration in Northern Ireland[^key-354a6c2df9d7524016cadf67d6337538]
+## SCHEDULE 8B — Civil Partnership Registration in Northern Ireland[^c-354a6c2df9d7524016cadf67d6337538]
 
 Regulation 32(a)
 
 [image: see source](https://www.legislation.gov.uk/nisr/2005/482/images/nisr_20050482_en_epp_014.gif)
 
-## SCHEDULE 9 — Civil Partnership Registration in Northern Ireland[^key-4e16663546988867e8e8cd4a80c58807][^key-ffa014398e116cba6ca2de1479c6e48f]
+## SCHEDULE 9 — Civil Partnership Registration in Northern Ireland[^c-4e16663546988867e8e8cd4a80c58807][^c-ffa014398e116cba6ca2de1479c6e48f]
 
 Regulation 32(b)
 
 [image: see source](https://www.legislation.gov.uk/nisr/2005/482/images/nisr_20050482_en_epp_007.gif)
 
-## SCHEDULE 9A — Civil Partnership Registration in Northern Ireland[^key-078583c12ab2ede650599cdcfbee3a35]
+## SCHEDULE 9A — Civil Partnership Registration in Northern Ireland[^c-078583c12ab2ede650599cdcfbee3a35]
 
 Regulation 32(b)
 
 [image: see source](https://www.legislation.gov.uk/nisr/2005/482/images/nisr_20050482_en_epp_011.gif)
 
-## SCHEDULE 9B — Civil Partnership Registration in Northern Ireland[^key-367d8d24130db299fb5cf62936f072db]
+## SCHEDULE 9B — Civil Partnership Registration in Northern Ireland[^c-367d8d24130db299fb5cf62936f072db]
 
 Regulation 32(b)
 
 [image: see source](https://www.legislation.gov.uk/nisr/2005/482/images/nisr_20050482_en_epp_012.gif)
 
-## SCHEDULE 10 — Extract from Civil Partnership Registration Records[^key-6b00c890ca49f82b3fc00ecbc24aec69][^key-a67d547ea7dfd0c2efa60f92665a7bc6]
+## SCHEDULE 10 — Extract from Civil Partnership Registration Records[^c-6b00c890ca49f82b3fc00ecbc24aec69][^c-a67d547ea7dfd0c2efa60f92665a7bc6]
 
 Regulation 33(1)
 
 [image: see source](https://www.legislation.gov.uk/nisr/2005/482/images/nisr_20050482_en_epp_008.gif)
 
-## SCHEDULE 10A — Extract from Civil Partnership Registration Records[^key-dbb0dd125c7a7ae3c74037d5cf4f559c]
+## SCHEDULE 10A — Extract from Civil Partnership Registration Records[^c-dbb0dd125c7a7ae3c74037d5cf4f559c]
 
 Regulation 33(1)
 
 [image: see source](https://www.legislation.gov.uk/nisr/2005/482/images/nisr_20050482_en_epp_009.gif)
 
-## SCHEDULE 10B — Extract from Civil Partnership Registration Records[^key-fd83954467262f10aaccb35bd7eeafc1]
+## SCHEDULE 10B — Extract from Civil Partnership Registration Records[^c-fd83954467262f10aaccb35bd7eeafc1]
 
 Regulation 33(1)
 
 [image: see source](https://www.legislation.gov.uk/nisr/2005/482/images/nisr_20050482_en_epp_010.gif)
 
-## SCHEDULE 11[^key-bce03082bd3405c01954d58ebf8dc3dd]
+## SCHEDULE 11[^c-bce03082bd3405c01954d58ebf8dc3dd]
 
 Regulation 33(2)
 
@@ -542,142 +542,142 @@ In particular the regulations set out—
 
 [^f00001]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 
-[^key-94d9a506de969992513dcac15996cb12]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-94d9a506de969992513dcac15996cb12]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-287a7484b8866662d078ad12d5a65580]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/482/regulation/2) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-287a7484b8866662d078ad12d5a65580]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/482/regulation/2) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
 [^f00002]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-e82588e0010780d9c08fbcaef77d2ee7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/482/regulation/3) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-e82588e0010780d9c08fbcaef77d2ee7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/482/regulation/3) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-f45aa10d7c933f3fbee7df36d2adab6b]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/nisr/2005/482/regulation/3/2) substituted (2.3.2015) by [The Civil Partnership (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/297)](https://www.legislation.gov.uk/nisr/2014/297), [regs. 1](https://www.legislation.gov.uk/nisr/2014/297/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2014/297/regulation/2/2)
+[^c-f45aa10d7c933f3fbee7df36d2adab6b]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/nisr/2005/482/regulation/3/2) substituted (2.3.2015) by [The Civil Partnership (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/297)](https://www.legislation.gov.uk/nisr/2014/297), [regs. 1](https://www.legislation.gov.uk/nisr/2014/297/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2014/297/regulation/2/2)
 
-[^key-3e8fe238b2e7e2124248a5aa1ed3641f]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/nisr/2005/482/regulation/3/2/b) inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 3 para. 10(a)](https://www.legislation.gov.uk/uksi/2015/395/schedule/3/paragraph/10/a) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
+[^c-3e8fe238b2e7e2124248a5aa1ed3641f]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/nisr/2005/482/regulation/3/2/b) inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 3 para. 10(a)](https://www.legislation.gov.uk/uksi/2015/395/schedule/3/paragraph/10/a) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
 
-[^key-54f1d527ec0c7336dd2109de22bf39c4]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2005/482/regulation/3/3)[(4)](https://www.legislation.gov.uk/nisr/2005/482/regulation/3/4) inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 3 para. 10(b)](https://www.legislation.gov.uk/uksi/2015/395/schedule/3/paragraph/10/b) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
+[^c-54f1d527ec0c7336dd2109de22bf39c4]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2005/482/regulation/3/3)[(4)](https://www.legislation.gov.uk/nisr/2005/482/regulation/3/4) inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 3 para. 10(b)](https://www.legislation.gov.uk/uksi/2015/395/schedule/3/paragraph/10/b) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
 
-[^key-77243028f3f9b23984772ddba6221e8c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/482/regulation/4) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-77243028f3f9b23984772ddba6221e8c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/482/regulation/4) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-839d8e54e70611ca6f2f66ed51d47a88]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/482/regulation/5) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-839d8e54e70611ca6f2f66ed51d47a88]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/482/regulation/5) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-d0b8223ced02fc4a511affb68bacb815]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/482/regulation/6) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-d0b8223ced02fc4a511affb68bacb815]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/482/regulation/6) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-ebcf46ae6eaee4aeee3d7477e949a97d]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/nisr/2005/482/regulation/6/1): reg. 6 renumbered as reg. 6(1) (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2015/395/schedule/3/paragraph/11) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
+[^c-ebcf46ae6eaee4aeee3d7477e949a97d]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/nisr/2005/482/regulation/6/1): reg. 6 renumbered as reg. 6(1) (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2015/395/schedule/3/paragraph/11) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
 
-[^key-29a24255f43fbcf4150db54af1cd5b1e]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/nisr/2005/482/regulation/6) inserted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [regs. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [4(2)](https://www.legislation.gov.uk/nisr/2022/48/regulation/4/2)
+[^c-29a24255f43fbcf4150db54af1cd5b1e]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/nisr/2005/482/regulation/6) inserted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [regs. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [4(2)](https://www.legislation.gov.uk/nisr/2022/48/regulation/4/2)
 
-[^key-43b46b3939107145c9f20805436ab7c6]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/nisr/2005/482/regulation/6/2) inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2015/395/schedule/3/paragraph/11) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
+[^c-43b46b3939107145c9f20805436ab7c6]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/nisr/2005/482/regulation/6/2) inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2015/395/schedule/3/paragraph/11) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
 
-[^key-fe0e8951c7f3668988dc0571e1e93477]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/482/regulation/7) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-fe0e8951c7f3668988dc0571e1e93477]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/482/regulation/7) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-c4bb080f57b59558ed2f73816caecfe7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/482/regulation/8) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-c4bb080f57b59558ed2f73816caecfe7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/482/regulation/8) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-3697a3c2774d2fab776b4ed6a83db7fd]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2005/482/regulation/9) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-3697a3c2774d2fab776b4ed6a83db7fd]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2005/482/regulation/9) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-8055f658e3d249b82e5a2c55593d2770]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/482/regulation/10) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-8055f658e3d249b82e5a2c55593d2770]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/482/regulation/10) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-1b564834b07721543d5d9c0789222621]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/482/regulation/11) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-1b564834b07721543d5d9c0789222621]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/482/regulation/11) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-11b7641d817a435dbd0d3afb441bb1fc]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2005/482/regulation/12) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-11b7641d817a435dbd0d3afb441bb1fc]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2005/482/regulation/12) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-e3a864b35615013123793d5f199b605f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2005/482/regulation/13) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-e3a864b35615013123793d5f199b605f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2005/482/regulation/13) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-aef38daa5c7b50d79c14dc26e4a848f7]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2005/482/regulation/14) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-aef38daa5c7b50d79c14dc26e4a848f7]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2005/482/regulation/14) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-3c49337373504b64b19b314e1f91bfb8]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2005/482/regulation/15) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-3c49337373504b64b19b314e1f91bfb8]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2005/482/regulation/15) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-217a6a5351d1a5acd6332a2a54192a31]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2005/482/regulation/16) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-217a6a5351d1a5acd6332a2a54192a31]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2005/482/regulation/16) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-533920cec564cb795b98b51c1bbc068c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2005/482/regulation/17) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-533920cec564cb795b98b51c1bbc068c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2005/482/regulation/17) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-28f51abca6ae4de2afa7a9e360f73f5f]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2005/482/regulation/18) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-28f51abca6ae4de2afa7a9e360f73f5f]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2005/482/regulation/18) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-2f4880f6a0221511c81fbd7cf636eb26]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2005/482/regulation/19) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-2f4880f6a0221511c81fbd7cf636eb26]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2005/482/regulation/19) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-5958a5965896f64780b77ffadaf488f1]: Modification: [Reg. 19](https://www.legislation.gov.uk/nisr/2005/482/regulation/19) modified (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [17(9)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/17/9) (with [reg. 17(10)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/17/10))
+[^c-5958a5965896f64780b77ffadaf488f1]: Modification: [Reg. 19](https://www.legislation.gov.uk/nisr/2005/482/regulation/19) modified (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [17(9)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/17/9) (with [reg. 17(10)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/17/10))
 
-[^key-f61f6312aa524d1461875103136caaaa]: Textual amendment: Words in [reg. 19(b)](https://www.legislation.gov.uk/nisr/2005/482/regulation/19/b) substituted (2.3.2015) by [The Civil Partnership (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/297)](https://www.legislation.gov.uk/nisr/2014/297), [regs. 1](https://www.legislation.gov.uk/nisr/2014/297/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2014/297/regulation/2/3)
+[^c-f61f6312aa524d1461875103136caaaa]: Textual amendment: Words in [reg. 19(b)](https://www.legislation.gov.uk/nisr/2005/482/regulation/19/b) substituted (2.3.2015) by [The Civil Partnership (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/297)](https://www.legislation.gov.uk/nisr/2014/297), [regs. 1](https://www.legislation.gov.uk/nisr/2014/297/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2014/297/regulation/2/3)
 
-[^key-34d85929589fe0800c9e7ffc5eea98b5]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2005/482/regulation/20) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-34d85929589fe0800c9e7ffc5eea98b5]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2005/482/regulation/20) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-7e621149ebcd61cc5082f750e54f6668]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2005/482/regulation/21) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-7e621149ebcd61cc5082f750e54f6668]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2005/482/regulation/21) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-2865e0e2a058af6688dc3938f0c3827a]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2005/482/regulation/22) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-2865e0e2a058af6688dc3938f0c3827a]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2005/482/regulation/22) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-c375b1115b188d8076c5700130840cea]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2005/482/regulation/23) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-c375b1115b188d8076c5700130840cea]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2005/482/regulation/23) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-af2155d07e7e2f828c1fd607fbe436b9]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2005/482/regulation/24) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-af2155d07e7e2f828c1fd607fbe436b9]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2005/482/regulation/24) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-30ad8d3c77209664395e4b8dd2248cfd]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2005/482/regulation/25) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-30ad8d3c77209664395e4b8dd2248cfd]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2005/482/regulation/25) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-bef7bf1e6af79d5d0c2161cf56ea5917]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2005/482/regulation/26) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-bef7bf1e6af79d5d0c2161cf56ea5917]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2005/482/regulation/26) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-a7212af3ee5190c8417b73141dcb6863]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2005/482/regulation/27) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-a7212af3ee5190c8417b73141dcb6863]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2005/482/regulation/27) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-f9312698f7c134ad2c33858fce2626b5]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2005/482/regulation/28) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-f9312698f7c134ad2c33858fce2626b5]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2005/482/regulation/28) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-1fbb2413235efe131fe19ed4a8e6e715]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2005/482/regulation/29) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-1fbb2413235efe131fe19ed4a8e6e715]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2005/482/regulation/29) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-b70a79893a891a1b9a6eaedfc182c64c]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2005/482/regulation/30) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-b70a79893a891a1b9a6eaedfc182c64c]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2005/482/regulation/30) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-62ee7ae5b084d6f7c5f1cb7d85622e97]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2005/482/regulation/31) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-62ee7ae5b084d6f7c5f1cb7d85622e97]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2005/482/regulation/31) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-4df9a4805f0d3d96198c2eb4ad394c91]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2005/482/regulation/32) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-4df9a4805f0d3d96198c2eb4ad394c91]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2005/482/regulation/32) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-5a0f3ca031e818cc4dcd51b668390a3a]: Textual amendment: Words in [reg. 32(a)](https://www.legislation.gov.uk/nisr/2005/482/regulation/32/a) inserted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [regs. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/nisr/2022/48/regulation/4/3/a)
+[^c-5a0f3ca031e818cc4dcd51b668390a3a]: Textual amendment: Words in [reg. 32(a)](https://www.legislation.gov.uk/nisr/2005/482/regulation/32/a) inserted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [regs. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/nisr/2022/48/regulation/4/3/a)
 
-[^key-828ec8f8ab46ec9497be728edd35ea80]: Textual amendment: Words in [reg. 32(b)](https://www.legislation.gov.uk/nisr/2005/482/regulation/32/b) inserted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [regs. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/nisr/2022/48/regulation/4/3/b)
+[^c-828ec8f8ab46ec9497be728edd35ea80]: Textual amendment: Words in [reg. 32(b)](https://www.legislation.gov.uk/nisr/2005/482/regulation/32/b) inserted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [regs. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/nisr/2022/48/regulation/4/3/b)
 
-[^key-df16f63c7862417f439e8ada4a552e38]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2005/482/regulation/33) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-df16f63c7862417f439e8ada4a552e38]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2005/482/regulation/33) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
 [^M_F_0082ac68-1a41-40e6-97e2-d8ce63ca9fbf]: Textual amendment: Words in reg. 33(1) inserted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [regs. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [4(4)](https://www.legislation.gov.uk/nisr/2022/48/regulation/4/4)
 
 [^M_I_c82180f9-f512-4bd1-a97b-dd10be562a7f]: Commencement: Sch. 1 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-355dd84891e6e508880d75fa2f94c9dc]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/482/schedule/1) substituted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [reg. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [Sch. Pt. 2 para. 1](https://www.legislation.gov.uk/nisr/2022/48/schedule/part/2/paragraph/1)
+[^c-355dd84891e6e508880d75fa2f94c9dc]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/482/schedule/1) substituted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [reg. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [Sch. Pt. 2 para. 1](https://www.legislation.gov.uk/nisr/2022/48/schedule/part/2/paragraph/1)
 
-[^key-9043661d1190bf06ac4e0be2cf7308df]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2005/482/schedule/2) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-9043661d1190bf06ac4e0be2cf7308df]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2005/482/schedule/2) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-d60414508b6c892b29630ce8ce0d8015]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2005/482/schedule/2) substituted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [reg. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/nisr/2022/48/schedule/part/2/paragraph/2)
+[^c-d60414508b6c892b29630ce8ce0d8015]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2005/482/schedule/2) substituted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [reg. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/nisr/2022/48/schedule/part/2/paragraph/2)
 
-[^key-f96d61f7e7842af238269b7a3f4a9649]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/nisr/2005/482/schedule/2A) inserted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [reg. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [Sch. Pt. 2 para. 3](https://www.legislation.gov.uk/nisr/2022/48/schedule/part/2/paragraph/3)
+[^c-f96d61f7e7842af238269b7a3f4a9649]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/nisr/2005/482/schedule/2A) inserted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [reg. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [Sch. Pt. 2 para. 3](https://www.legislation.gov.uk/nisr/2022/48/schedule/part/2/paragraph/3)
 
-[^key-a69eb383d6469861df920cdfec7374bb]: Textual amendment: [Sch. 2B](https://www.legislation.gov.uk/nisr/2005/482/schedule/2B) inserted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [reg. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [Sch. Pt. 2 para. 3](https://www.legislation.gov.uk/nisr/2022/48/schedule/part/2/paragraph/3)
+[^c-a69eb383d6469861df920cdfec7374bb]: Textual amendment: [Sch. 2B](https://www.legislation.gov.uk/nisr/2005/482/schedule/2B) inserted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [reg. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [Sch. Pt. 2 para. 3](https://www.legislation.gov.uk/nisr/2022/48/schedule/part/2/paragraph/3)
 
-[^key-ee2f7b833af43fe8507c1e103a5317e0]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2005/482/schedule/3) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-ee2f7b833af43fe8507c1e103a5317e0]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2005/482/schedule/3) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-e8c7d1216389c744043ec81824e8600e]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2005/482/schedule/4) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-e8c7d1216389c744043ec81824e8600e]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2005/482/schedule/4) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-1b2d8bee99dbf2343e99527243f2b495]: Commencement: [Sch. 5](https://www.legislation.gov.uk/nisr/2005/482/schedule/5) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-1b2d8bee99dbf2343e99527243f2b495]: Commencement: [Sch. 5](https://www.legislation.gov.uk/nisr/2005/482/schedule/5) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-68694f02566a612d19af4d1adf1b04dd]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/nisr/2005/482/schedule/5) Form inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [20(4)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/20/4) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-68694f02566a612d19af4d1adf1b04dd]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/nisr/2005/482/schedule/5) Form inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [20(4)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/20/4) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-370326bb1bcabf2f8de107ecd7a1adf5]: Commencement: [Sch. 6](https://www.legislation.gov.uk/nisr/2005/482/schedule/6) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-370326bb1bcabf2f8de107ecd7a1adf5]: Commencement: [Sch. 6](https://www.legislation.gov.uk/nisr/2005/482/schedule/6) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-b6971fb8b5e8be1d3f3352099ca7caa9]: Commencement: [Sch. 7](https://www.legislation.gov.uk/nisr/2005/482/schedule/7) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-b6971fb8b5e8be1d3f3352099ca7caa9]: Commencement: [Sch. 7](https://www.legislation.gov.uk/nisr/2005/482/schedule/7) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-3156a6e1607aa1e9a5a55637f21cb2e7]: Commencement: [Sch. 8](https://www.legislation.gov.uk/nisr/2005/482/schedule/8) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-3156a6e1607aa1e9a5a55637f21cb2e7]: Commencement: [Sch. 8](https://www.legislation.gov.uk/nisr/2005/482/schedule/8) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-9c57953dc72a2657f622551beab0873a]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/nisr/2005/482/schedule/8) substituted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [reg. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [Sch. Pt. 2 para. 4](https://www.legislation.gov.uk/nisr/2022/48/schedule/part/2/paragraph/4)
+[^c-9c57953dc72a2657f622551beab0873a]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/nisr/2005/482/schedule/8) substituted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [reg. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [Sch. Pt. 2 para. 4](https://www.legislation.gov.uk/nisr/2022/48/schedule/part/2/paragraph/4)
 
-[^key-1ea2ec36edddb8af77039d33e7851600]: Textual amendment: [Sch. 8A](https://www.legislation.gov.uk/nisr/2005/482/schedule/8A) inserted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [reg. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [Sch. Pt. 2 para. 5](https://www.legislation.gov.uk/nisr/2022/48/schedule/part/2/paragraph/5)
+[^c-1ea2ec36edddb8af77039d33e7851600]: Textual amendment: [Sch. 8A](https://www.legislation.gov.uk/nisr/2005/482/schedule/8A) inserted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [reg. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [Sch. Pt. 2 para. 5](https://www.legislation.gov.uk/nisr/2022/48/schedule/part/2/paragraph/5)
 
-[^key-354a6c2df9d7524016cadf67d6337538]: Textual amendment: [Sch. 8B](https://www.legislation.gov.uk/nisr/2005/482/schedule/8B) inserted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [reg. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [Sch. Pt. 2 para. 5](https://www.legislation.gov.uk/nisr/2022/48/schedule/part/2/paragraph/5)
+[^c-354a6c2df9d7524016cadf67d6337538]: Textual amendment: [Sch. 8B](https://www.legislation.gov.uk/nisr/2005/482/schedule/8B) inserted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [reg. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [Sch. Pt. 2 para. 5](https://www.legislation.gov.uk/nisr/2022/48/schedule/part/2/paragraph/5)
 
-[^key-4e16663546988867e8e8cd4a80c58807]: Commencement: [Sch. 9](https://www.legislation.gov.uk/nisr/2005/482/schedule/9) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-4e16663546988867e8e8cd4a80c58807]: Commencement: [Sch. 9](https://www.legislation.gov.uk/nisr/2005/482/schedule/9) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-ffa014398e116cba6ca2de1479c6e48f]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/nisr/2005/482/schedule/9) substituted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [reg. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [Sch. Pt. 2 para. 6](https://www.legislation.gov.uk/nisr/2022/48/schedule/part/2/paragraph/6)
+[^c-ffa014398e116cba6ca2de1479c6e48f]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/nisr/2005/482/schedule/9) substituted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [reg. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [Sch. Pt. 2 para. 6](https://www.legislation.gov.uk/nisr/2022/48/schedule/part/2/paragraph/6)
 
-[^key-078583c12ab2ede650599cdcfbee3a35]: Textual amendment: [Sch. 9A](https://www.legislation.gov.uk/nisr/2005/482/schedule/9A) inserted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [reg. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [Sch. Pt. 2 para. 7](https://www.legislation.gov.uk/nisr/2022/48/schedule/part/2/paragraph/7)
+[^c-078583c12ab2ede650599cdcfbee3a35]: Textual amendment: [Sch. 9A](https://www.legislation.gov.uk/nisr/2005/482/schedule/9A) inserted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [reg. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [Sch. Pt. 2 para. 7](https://www.legislation.gov.uk/nisr/2022/48/schedule/part/2/paragraph/7)
 
-[^key-367d8d24130db299fb5cf62936f072db]: Textual amendment: [Sch. 9B](https://www.legislation.gov.uk/nisr/2005/482/schedule/9B) inserted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [reg. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [Sch. Pt. 2 para. 7](https://www.legislation.gov.uk/nisr/2022/48/schedule/part/2/paragraph/7)
+[^c-367d8d24130db299fb5cf62936f072db]: Textual amendment: [Sch. 9B](https://www.legislation.gov.uk/nisr/2005/482/schedule/9B) inserted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [reg. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [Sch. Pt. 2 para. 7](https://www.legislation.gov.uk/nisr/2022/48/schedule/part/2/paragraph/7)
 
-[^key-6b00c890ca49f82b3fc00ecbc24aec69]: Commencement: [Sch. 10](https://www.legislation.gov.uk/nisr/2005/482/schedule/10) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-6b00c890ca49f82b3fc00ecbc24aec69]: Commencement: [Sch. 10](https://www.legislation.gov.uk/nisr/2005/482/schedule/10) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
 
-[^key-a67d547ea7dfd0c2efa60f92665a7bc6]: Textual amendment: [Sch. 10](https://www.legislation.gov.uk/nisr/2005/482/schedule/10) substituted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [reg. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [Sch. Pt. 2 para. 8](https://www.legislation.gov.uk/nisr/2022/48/schedule/part/2/paragraph/8)
+[^c-a67d547ea7dfd0c2efa60f92665a7bc6]: Textual amendment: [Sch. 10](https://www.legislation.gov.uk/nisr/2005/482/schedule/10) substituted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [reg. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [Sch. Pt. 2 para. 8](https://www.legislation.gov.uk/nisr/2022/48/schedule/part/2/paragraph/8)
 
-[^key-dbb0dd125c7a7ae3c74037d5cf4f559c]: Textual amendment: [Sch. 10A](https://www.legislation.gov.uk/nisr/2005/482/schedule/10A) inserted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [reg. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [Sch. Pt. 2 para. 9](https://www.legislation.gov.uk/nisr/2022/48/schedule/part/2/paragraph/9)
+[^c-dbb0dd125c7a7ae3c74037d5cf4f559c]: Textual amendment: [Sch. 10A](https://www.legislation.gov.uk/nisr/2005/482/schedule/10A) inserted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [reg. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [Sch. Pt. 2 para. 9](https://www.legislation.gov.uk/nisr/2022/48/schedule/part/2/paragraph/9)
 
-[^key-fd83954467262f10aaccb35bd7eeafc1]: Textual amendment: [Sch. 10B](https://www.legislation.gov.uk/nisr/2005/482/schedule/10B) inserted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [reg. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [Sch. Pt. 2 para. 9](https://www.legislation.gov.uk/nisr/2022/48/schedule/part/2/paragraph/9)
+[^c-fd83954467262f10aaccb35bd7eeafc1]: Textual amendment: [Sch. 10B](https://www.legislation.gov.uk/nisr/2005/482/schedule/10B) inserted (11.3.2022) by [The Marriage, Civil Partnership and Civil Registration (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/48)](https://www.legislation.gov.uk/nisr/2022/48), [reg. 1](https://www.legislation.gov.uk/nisr/2022/48/regulation/1), [Sch. Pt. 2 para. 9](https://www.legislation.gov.uk/nisr/2022/48/schedule/part/2/paragraph/9)
 
-[^key-bce03082bd3405c01954d58ebf8dc3dd]: Commencement: [Sch. 11](https://www.legislation.gov.uk/nisr/2005/482/schedule/11) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)
+[^c-bce03082bd3405c01954d58ebf8dc3dd]: Commencement: [Sch. 11](https://www.legislation.gov.uk/nisr/2005/482/schedule/11) in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/482/regulation/1)

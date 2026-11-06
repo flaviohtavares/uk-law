@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Offences by bodies corporate[^key-499ec072c3a8943aa72ecf0feff5915b][^key-5d583da99274d1b639ae2b67efdd78ce]
+## 131. Offences by bodies corporate[^c-499ec072c3a8943aa72ecf0feff5915b][^c-5d583da99274d1b639ae2b67efdd78ce]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ In paragraph (a) “**director**”, in relation to a body corporate whose affai
 
 ## Annotations
 
-[^key-499ec072c3a8943aa72ecf0feff5915b]: Commencement: S. 131 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-499ec072c3a8943aa72ecf0feff5915b]: Commencement: S. 131 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-5d583da99274d1b639ae2b67efdd78ce]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2022/31/section/131) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)
+[^c-5d583da99274d1b639ae2b67efdd78ce]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2022/31/section/131) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)

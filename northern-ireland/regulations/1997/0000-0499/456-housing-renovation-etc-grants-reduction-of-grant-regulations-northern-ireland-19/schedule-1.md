@@ -28,7 +28,7 @@ Regulations 13 and 14
 
 Regulations 13(*a*) and (*b*) and 14(*a*) to (*c*)
 
-**1.**[^key-44d603fa574bda687955e2214445547f] The amounts specified in column (2) below in respect of each person or couple specified in column (1) shall be the amounts specified for the purposes of regulations 13(*a*) and 14(*a*) and (*b*)—
+**1.**[^c-44d603fa574bda687955e2214445547f] The amounts specified in column (2) below in respect of each person or couple specified in column (1) shall be the amounts specified for the purposes of regulations 13(*a*) and 14(*a*) and (*b*)—
 
 <table>
 <thead>
@@ -48,7 +48,7 @@ Regulations 13(*a*) and (*b*) and 14(*a*) to (*c*)
 </tbody>
 </table>
 
-**2.**[^key-feda29703285b2599cf6dad473e280f4] The amounts specified in column (2) below in respect of each person specified in column (1) shall be the amounts specified for the purposes of regulations 13(*b*) and 14(*c*)—
+**2.**[^c-feda29703285b2599cf6dad473e280f4] The amounts specified in column (2) below in respect of each person specified in column (1) shall be the amounts specified for the purposes of regulations 13(*b*) and 14(*c*)—
 
 <table>
 <thead>
@@ -67,39 +67,39 @@ Regulations 13(*a*) and (*b*) and 14(*a*) to (*c*)
 
 Regulations 13(*c*) and 14(*d*)
 
-**3.**[^key-47f062c25625a8fc75fb31f30e0d68ad] The amount for the purposes of regulations 13(*c*) and 14(*d*) in respect of a family of which at least one member is a child or young person shall be £10·55.
+**3.**[^c-47f062c25625a8fc75fb31f30e0d68ad] The amount for the purposes of regulations 13(*c*) and 14(*d*) in respect of a family of which at least one member is a child or young person shall be £10·55.
 
 ### Part III — Premiums
 
 Regulations 13(*d*) and 14(*e*)
 
-**4.**[^key-81ec9625e8dc4fe4b15fe4ea024030b2] Except as provided in paragraph 5, the premiums specified in Part IV shall for the purposes of regulations 13(*d*) and 14(*e*) be applicable to a relevant person who satisfies the condition specified in paragraphs 7 to 15 in respect of that premium.
+**4.**[^c-81ec9625e8dc4fe4b15fe4ea024030b2] Except as provided in paragraph 5, the premiums specified in Part IV shall for the purposes of regulations 13(*d*) and 14(*e*) be applicable to a relevant person who satisfies the condition specified in paragraphs 7 to 15 in respect of that premium.
 
-**5.**[^key-4f41ad1e5d4866caa623f615e3295c49] Subject to paragraph 6, where a relevant person satisfies the condition in this Part in respect of more than one premium, only one premium shall be applicable to him and, if they are different amounts, the higher or highest amount shall apply.
+**5.**[^c-4f41ad1e5d4866caa623f615e3295c49] Subject to paragraph 6, where a relevant person satisfies the condition in this Part in respect of more than one premium, only one premium shall be applicable to him and, if they are different amounts, the higher or highest amount shall apply.
 
-**6.**[^key-b9e97e2239589054ce1c08ec3c8b050d] (1) The severe disability premium to which paragraph 13 applies may be applicable in addition to any other premium which may apply under this Schedule.
+**6.**[^c-b9e97e2239589054ce1c08ec3c8b050d] (1) The severe disability premium to which paragraph 13 applies may be applicable in addition to any other premium which may apply under this Schedule.
 
 (2) The disabled child premium and the carer premium to which paragraphs 14 and 15 respectively apply may be applicable in addition to any other premium which may apply under this Schedule.
 
-#### 7. Lone parent premium[^key-c348c2ea1aad2668fc6ee10a044374d0]
+#### 7. Lone parent premium[^c-c348c2ea1aad2668fc6ee10a044374d0]
 
 The condition is that the relevant person is a lone parent.
 
-#### 8. Pensioner premium for persons under 75[^key-4c98fef90034f9d44a1f57a39c32608b]
+#### 8. Pensioner premium for persons under 75[^c-4c98fef90034f9d44a1f57a39c32608b]
 
 The condition is that the relevant person—
 
 - (a) is a single person or lone parent aged not less than 60 but less than 75; or
 - (b) has a partner and is, or his partner is, aged not less than 60 but less than 75.
 
-#### 9. Pensioner premium for persons 75 and over[^key-5a6aa9ddf1e65f88db8a532a729a65de]
+#### 9. Pensioner premium for persons 75 and over[^c-5a6aa9ddf1e65f88db8a532a729a65de]
 
 The condition is that the relevant person—
 
 - (a) is a single person or lone parent aged not less than 75 but less than 80; or
 - (b) has a partner and is, or his partner is, aged not less than 75 but less than 80.
 
-#### 10. Higher pensioner premium[^key-3ecab308a5eb713ff912f072dd06ccdc]
+#### 10. Higher pensioner premium[^c-3ecab308a5eb713ff912f072dd06ccdc]
 
 (1) Where the relevant person is a single person or a lone parent, the condition is that—
 
@@ -111,7 +111,7 @@ The condition is that the relevant person—
 - (a) he or his partner is aged not less than 80; or
 - (b) he or his partner is aged less than 80 but not less than 60 and the additional condition specified in paragraph 12(1)(*a*) is satisfied.
 
-#### 11. Disability premium[^key-6d0b7f6adb7e0e3e866068809b84d5ee]
+#### 11. Disability premium[^c-6d0b7f6adb7e0e3e866068809b84d5ee]
 
 The condition is that—
 
@@ -120,7 +120,7 @@ The condition is that—
   - (i) the relevant person is aged less than 60 and the additional condition specified in paragraph 12(1)(*a*) or (*b*) is satisfied by him, or
   - (ii) his partner is aged less than 60 and the additional condition specified in paragraph 12(1)(*a*) is satisfied by his partner.
 
-#### 12. Additional condition for the higher pensioner and disability premiums[^key-d375db52fc0d8e1a10fd1c6b1e324fa1]
+#### 12. Additional condition for the higher pensioner and disability premiums[^c-d375db52fc0d8e1a10fd1c6b1e324fa1]
 
 (1) Subject to sub-paragraph (2) and paragraphs 16 and 17, the additional condition referred to in paragraphs 10 and 11 is that either—
 
@@ -146,7 +146,7 @@ The condition is that—
 
 (6) For the purposes of this paragraph, a reference to a person who is or was in receipt of long-term incapacity benefit includes a person who is or was in receipt of short-term incapacity benefit at a rate equal to the long-term rate by virtue of Section 30B(4)(*a*) of the 1992 Act (short-term incapacity benefit for a person who is terminally ill), or who would be or would have been in receipt of short-term incapacity benefit at such a rate but for the fact that the rate of short-term incapacity benefit already payable to him is or was equal to or greater than the long-term rate.
 
-#### 13. Severe disability premium[^key-2b31e0fa5ad1f25d4904c20299200622]
+#### 13. Severe disability premium[^c-2b31e0fa5ad1f25d4904c20299200622]
 
 (1) Subject to paragraphs 16 and 17, the condition is that the relevant person is a severely disabled person.
 
@@ -175,7 +175,7 @@ The condition is that—
 
 (6) For the purposes of sub-paragraph (2)(*a*)(iii) and (*b*), no account shall be taken of an award of invalid care allowance to the extent that payment of such an award is back-dated for a period before the date on which the award is made.
 
-#### 14. Disabled child premium[^key-f0b283405bbe2ea49f0d71d19be735e6]
+#### 14. Disabled child premium[^c-f0b283405bbe2ea49f0d71d19be735e6]
 
 (1) Subject to paragraphs 16 and 17, the condition is that a child or young person for whom the relevant person or a partner of his is responsible and who is a member of the relevant person’s household—
 
@@ -185,7 +185,7 @@ The condition is that—
 
 (2) In paragraph (1), “patient” means a person (other than a person who is serving a sentence of imprisonment or detention in a youth custody institution) who is regarded as receiving free in-patient treatment within the meaning of regulation 2(2) of the Social Security (Hospital In-Patients) Regulations (Northern Ireland) 1975[^f00061].
 
-#### 15. Carer premium[^key-c1927a49bfde66f484d1298e7e0d4621]
+#### 15. Carer premium[^c-c1927a49bfde66f484d1298e7e0d4621]
 
 (1) Subject to paragraphs 16 and 17, the condition is that the relevant person or his partner is, or both of them are, in receipt of invalid care allowance under section 70 of the 1992 Act.
 
@@ -198,11 +198,11 @@ he or his partner, or both of them, as the case may be, shall be treated for the
 
 (3) Where the relevant person or his partner ceases to be in receipt of, or ceases to be treated as being in receipt of, invalid care allowance, the condition mentioned in sub-paragraph (1) shall be treated as satisfied for a period of 8 weeks from the date on which he or his partner, as the case may be, was last in receipt of, or was last treated as being in receipt of, invalid care allowance.
 
-#### 16. Persons in receipt of concessionary payments[^key-fa35744278b3189011a0070849304304]
+#### 16. Persons in receipt of concessionary payments[^c-fa35744278b3189011a0070849304304]
 
 For the purposes of determining whether a premium is applicable to a person under paragraphs 12 to 15, any concessionary payment made to compensate that person for the non-payment of any benefit mentioned in those paragraphs shall be treated as if it were a payment of that benefit.
 
-#### 17. Persons in receipt of benefit[^key-72d233913b3bf85b9e94bcd111a2b7c3]
+#### 17. Persons in receipt of benefit[^c-72d233913b3bf85b9e94bcd111a2b7c3]
 
 For the purposes of this Part, a person shall be regarded as being in receipt of any benefit if, and only if, it is paid in respect of him and shall be so regarded only for any period in respect of which that benefit is paid.
 
@@ -210,7 +210,7 @@ For the purposes of this Part, a person shall be regarded as being in receipt of
 
 Regulations 13(*d*) and 14(*e*)
 
-**18.**[^key-1bd94bfb05b07d28659c800bddb06e74] —
+**18.**[^c-1bd94bfb05b07d28659c800bddb06e74] —
 
 |  |  |
 | --- | --- |
@@ -237,29 +237,29 @@ Regulations 13(*d*) and 14(*e*)
 
 ## Annotations
 
-[^key-44d603fa574bda687955e2214445547f]: Commencement: Sch. 1 para. 1 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-44d603fa574bda687955e2214445547f]: Commencement: Sch. 1 para. 1 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
 
-[^key-feda29703285b2599cf6dad473e280f4]: Commencement: Sch. 1 para. 2 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-feda29703285b2599cf6dad473e280f4]: Commencement: Sch. 1 para. 2 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
 
-[^key-47f062c25625a8fc75fb31f30e0d68ad]: Commencement: Sch. 1 para. 3 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-47f062c25625a8fc75fb31f30e0d68ad]: Commencement: Sch. 1 para. 3 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
 
-[^key-81ec9625e8dc4fe4b15fe4ea024030b2]: Commencement: Sch. 1 para. 4 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-81ec9625e8dc4fe4b15fe4ea024030b2]: Commencement: Sch. 1 para. 4 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
 
-[^key-4f41ad1e5d4866caa623f615e3295c49]: Commencement: Sch. 1 para. 5 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-4f41ad1e5d4866caa623f615e3295c49]: Commencement: Sch. 1 para. 5 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
 
-[^key-b9e97e2239589054ce1c08ec3c8b050d]: Commencement: Sch. 1 para. 6 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-b9e97e2239589054ce1c08ec3c8b050d]: Commencement: Sch. 1 para. 6 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
 
-[^key-c348c2ea1aad2668fc6ee10a044374d0]: Commencement: Sch. 1 para. 7 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-c348c2ea1aad2668fc6ee10a044374d0]: Commencement: Sch. 1 para. 7 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
 
-[^key-4c98fef90034f9d44a1f57a39c32608b]: Commencement: Sch. 1 para. 8 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-4c98fef90034f9d44a1f57a39c32608b]: Commencement: Sch. 1 para. 8 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
 
-[^key-5a6aa9ddf1e65f88db8a532a729a65de]: Commencement: Sch. 1 para. 9 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-5a6aa9ddf1e65f88db8a532a729a65de]: Commencement: Sch. 1 para. 9 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
 
-[^key-3ecab308a5eb713ff912f072dd06ccdc]: Commencement: Sch. 1 para. 10 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-3ecab308a5eb713ff912f072dd06ccdc]: Commencement: Sch. 1 para. 10 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
 
-[^key-6d0b7f6adb7e0e3e866068809b84d5ee]: Commencement: Sch. 1 para. 11 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-6d0b7f6adb7e0e3e866068809b84d5ee]: Commencement: Sch. 1 para. 11 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
 
-[^key-d375db52fc0d8e1a10fd1c6b1e324fa1]: Commencement: Sch. 1 para. 12 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-d375db52fc0d8e1a10fd1c6b1e324fa1]: Commencement: Sch. 1 para. 12 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
 
 [^f00055]: Footnote: [S.R. 1975 No. 109](https://www.legislation.gov.uk/nisr/1975/109); regulation 2(2) was substituted by regulation 2 of [S.R. 1992 No. 453](https://www.legislation.gov.uk/nisr/1992/453)
 
@@ -273,18 +273,18 @@ Regulations 13(*d*) and 14(*e*)
 
 [^f00060]: Footnote: S.I. [1950 c. 29 (N.I.)](https://www.legislation.gov.uk/apni/1950/29); section 3 was amended by Article 35 and Schedule 4 to the Industrial Training (Northern Ireland) Order 1984 ([S.I. 1984/1159 (N.I. 9)](https://www.legislation.gov.uk/nisi/1984/1159))
 
-[^key-2b31e0fa5ad1f25d4904c20299200622]: Commencement: Sch. 1 para. 13 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-2b31e0fa5ad1f25d4904c20299200622]: Commencement: Sch. 1 para. 13 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
 
-[^key-f0b283405bbe2ea49f0d71d19be735e6]: Commencement: Sch. 1 para. 14 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-f0b283405bbe2ea49f0d71d19be735e6]: Commencement: Sch. 1 para. 14 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
 
 [^f00061]: Footnote: [S.R. 1975 No. 109](https://www.legislation.gov.uk/nisr/1975/109); regulation 2(2) was substituted by regulation 2 of [S.R. 1992 No. 453](https://www.legislation.gov.uk/nisr/1992/453)
 
-[^key-c1927a49bfde66f484d1298e7e0d4621]: Commencement: Sch. 1 para. 15 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-c1927a49bfde66f484d1298e7e0d4621]: Commencement: Sch. 1 para. 15 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
 
 [^f00062]: Footnote: [S.R. 1979 No. 242](https://www.legislation.gov.uk/nisr/1979/242); the relevant amending regulations are [S.R. 1980 No. 451](https://www.legislation.gov.uk/nisr/1980/451), [S.R. 1983 No. 36](https://www.legislation.gov.uk/nisr/1983/36) and [S.R. 1984 No. 317](https://www.legislation.gov.uk/nisr/1984/317)
 
-[^key-fa35744278b3189011a0070849304304]: Commencement: Sch. 1 para. 16 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-fa35744278b3189011a0070849304304]: Commencement: Sch. 1 para. 16 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
 
-[^key-72d233913b3bf85b9e94bcd111a2b7c3]: Commencement: Sch. 1 para. 17 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-72d233913b3bf85b9e94bcd111a2b7c3]: Commencement: Sch. 1 para. 17 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
 
-[^key-1bd94bfb05b07d28659c800bddb06e74]: Commencement: Sch. 1 para. 18 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-1bd94bfb05b07d28659c800bddb06e74]: Commencement: Sch. 1 para. 18 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

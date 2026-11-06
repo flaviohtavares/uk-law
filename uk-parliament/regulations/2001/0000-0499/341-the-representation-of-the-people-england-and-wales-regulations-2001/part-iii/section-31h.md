@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31H. Anonymous registration: determination of applications by registration officer[^key-4f386e42518a3c33fa422ff80893f7eb]
+## 31H. Anonymous registration: determination of applications by registration officer[^c-4f386e42518a3c33fa422ff80893f7eb]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f386e42518a3c33fa422ff80893f7eb]: Textual amendment: Regs. 31G-31J inserted (1.1.2007) by [The Representation of the People (England and Wales) (Amendment) (No. 2) Regulations 2006 (S.I. 2006/2910)](https://www.legislation.gov.uk/uksi/2006/2910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2006/2910/regulation/12)
+[^c-4f386e42518a3c33fa422ff80893f7eb]: Textual amendment: Regs. 31G-31J inserted (1.1.2007) by [The Representation of the People (England and Wales) (Amendment) (No. 2) Regulations 2006 (S.I. 2006/2910)](https://www.legislation.gov.uk/uksi/2006/2910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2006/2910/regulation/12)

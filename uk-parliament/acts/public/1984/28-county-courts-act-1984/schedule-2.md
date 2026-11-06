@@ -240,7 +240,7 @@ there shall be added the following subsection—
 
 #### Industrial and Provident Societies Act 1965 (c. 12)
 
-**29.**[^key-2d13cc66294e9191890928a2cc79eba3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-2d13cc66294e9191890928a2cc79eba3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Hire-Purchase Act 1965 (c. 66)
 
@@ -385,7 +385,7 @@ there shall be added the following subsection—
 
 #### Torts (Interference with Goods) Act 1977 (c. 32)
 
-**64.**[^key-84a95f4a650d62cd63f51df707a20241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**64.**[^c-84a95f4a650d62cd63f51df707a20241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **65.** In subsection (3) of section 9 of that Act (concurrent actions) for the words “the County Courts Act 1959” there shall be substituted the words “the County Courts Act 1984”.
 
@@ -457,7 +457,7 @@ there shall be added the following subsection—
 
 [^c4409911]: Textual amendment: [Sch. 2 Pt. V paras. 27](https://www.legislation.gov.uk/ukpga/1984/28/schedule/2/part/V/paragraph/27), [28](https://www.legislation.gov.uk/ukpga/1984/28/schedule/2/part/V/paragraph/28) repealed by [Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61)](https://www.legislation.gov.uk/ukpga/1985/71), [s. 3](https://www.legislation.gov.uk/ukpga/1985/71/section/3), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1985/71/schedule/1/part/I)
 
-[^key-2d13cc66294e9191890928a2cc79eba3]: Textual amendment: [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/1984/28/schedule/2/paragraph/29) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-2d13cc66294e9191890928a2cc79eba3]: Textual amendment: [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/1984/28/schedule/2/paragraph/29) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
 [^c20589571]: Textual amendment: [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/1984/28/schedule/2/paragraph/30) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2004/14/section/1/1), {Sch. 1 Pt. 1 Group 4}
 
@@ -513,7 +513,7 @@ there shall be added the following subsection—
 
 [^c20589721]: Textual amendment: [Sch. 2 para. 63](https://www.legislation.gov.uk/ukpga/1984/28/schedule/2/paragraph/63) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2004/14/section/1/1), {Sch. 1 Pt. 1 Group 4}
 
-[^key-84a95f4a650d62cd63f51df707a20241]: Textual amendment: [Sch. 2 para. 64](https://www.legislation.gov.uk/ukpga/1984/28/schedule/2/paragraph/64) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 141](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/141); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-84a95f4a650d62cd63f51df707a20241]: Textual amendment: [Sch. 2 para. 64](https://www.legislation.gov.uk/ukpga/1984/28/schedule/2/paragraph/64) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 141](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/141); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c4410071]: Textual amendment: [Sch. 2 para. 70](https://www.legislation.gov.uk/ukpga/1984/28/schedule/2/paragraph/70) repealed (31.1.1997) by [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23), [s. 107(2)](https://www.legislation.gov.uk/ukpga/1996/23/section/107/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1996/23/schedule/4) (with [s. 81(2)](https://www.legislation.gov.uk/ukpga/1996/23/section/81/2)); [S.I. 1996/3146](https://www.legislation.gov.uk/uksi/1996/3146), [art. 3](https://www.legislation.gov.uk/uksi/1996/3146/article/3)
 

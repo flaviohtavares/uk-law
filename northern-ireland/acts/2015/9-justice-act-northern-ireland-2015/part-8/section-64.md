@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 64. Offenders subject to notification requirements[^key-b10238cdf6c0786f5078ed50d3292780]
+## 64. Offenders subject to notification requirements[^c-b10238cdf6c0786f5078ed50d3292780]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b10238cdf6c0786f5078ed50d3292780]: Commencement: [S. 64](https://www.legislation.gov.uk/nia/2015/9/section/64) in operation at 1.12.2016 by [S.R. 2016/417](https://www.legislation.gov.uk/nisr/2016/417), [art. 2(j)](https://www.legislation.gov.uk/nisr/2016/417/article/2/j)
+[^c-b10238cdf6c0786f5078ed50d3292780]: Commencement: [S. 64](https://www.legislation.gov.uk/nia/2015/9/section/64) in operation at 1.12.2016 by [S.R. 2016/417](https://www.legislation.gov.uk/nisr/2016/417), [art. 2(j)](https://www.legislation.gov.uk/nisr/2016/417/article/2/j)

@@ -24,10 +24,10 @@ Section 43
 
 ### Power to restrict charges
 
-**1.**[^key-f8f90114be012d456bbf93ce27c0acbe] (1) The Secretary of State may by regulations make provision—
+**1.**[^c-f8f90114be012d456bbf93ce27c0acbe] (1) The Secretary of State may by regulations make provision—
 
-- (a) prohibiting administration charges which are of a specified class or description, or which exceed specified limits, from being imposed on members[^key-f368f872c810a3ca2bb23088c77fb601] of a relevant scheme;
-- (b) prohibiting a relevant scheme from containing provision under which administration charges which are of a specified class or description, or which exceed specified limits, will or may be imposed on members[^key-5121c608e784f464aa35330d9167637f] of the scheme.
+- (a) prohibiting administration charges which are of a specified class or description, or which exceed specified limits, from being imposed on members[^c-f368f872c810a3ca2bb23088c77fb601] of a relevant scheme;
+- (b) prohibiting a relevant scheme from containing provision under which administration charges which are of a specified class or description, or which exceed specified limits, will or may be imposed on members[^c-5121c608e784f464aa35330d9167637f] of the scheme.
 
 “**Specified**” means specified in the regulations.
 
@@ -45,7 +45,7 @@ Section 43
 
 (5) In this paragraph—
 
-- “**administration charge**”, in relation to a member of a pension scheme, means any of the following to the extent that they may be used to meet the administrative expenses of the scheme, to pay commission or in any other way that does not constitute[^key-cbd7b96c7c89ce43708310b63f4bee4d] the provision of pension benefits for or in respect of members or the making of transfer payments with a view to acquiring rights or entitlements to pension benefits under different pension schemes[^key-f8a4a0d5f8e40c3012eff318ae41c19c]—
+- “**administration charge**”, in relation to a member of a pension scheme, means any of the following to the extent that they may be used to meet the administrative expenses of the scheme, to pay commission or in any other way that does not constitute[^c-cbd7b96c7c89ce43708310b63f4bee4d] the provision of pension benefits for or in respect of members or the making of transfer payments with a view to acquiring rights or entitlements to pension benefits under different pension schemes[^c-f8a4a0d5f8e40c3012eff318ae41c19c]—
   - (a) any payments made to the scheme by, or on behalf or in respect of, the member,
   - (b) any income or capital gain arising from the investment of such payments, or
   - (c) the value of the member's rights under the scheme;
@@ -53,7 +53,7 @@ Section 43
 
 ### Power to impose requirements relating to administration or governance
 
-**2.**[^key-c796bb55934d59f803bab458d2f4c1f0] (1) The Secretary of State may by regulations impose requirements relating to the administration or governance of a relevant scheme that must be satisfied in relation to the scheme.
+**2.**[^c-c796bb55934d59f803bab458d2f4c1f0] (1) The Secretary of State may by regulations impose requirements relating to the administration or governance of a relevant scheme that must be satisfied in relation to the scheme.
 
 (2) The regulations—
 
@@ -71,7 +71,7 @@ Section 43
 
 ### Compliance
 
-**3.**[^key-2707e1b6f59c06ca75ea60adc842e222] (1) The Secretary of State may by regulations make provision with a view to ensuring compliance with a provision of regulations under paragraph 1 or 2.
+**3.**[^c-2707e1b6f59c06ca75ea60adc842e222] (1) The Secretary of State may by regulations make provision with a view to ensuring compliance with a provision of regulations under paragraph 1 or 2.
 
 (2) The regulations may in particular—
 
@@ -90,15 +90,15 @@ Section 43
 
 ### Interpretation
 
-**4.**[^key-28a3438fabb52df3de1c1c916c9bbab2] (1)[^key-fb82eebbd2a4be80a96a88f4dde07b5c] The definitions in paragraph 15(1) of Schedule 17 apply for the purposes of this Schedule.
+**4.**[^c-28a3438fabb52df3de1c1c916c9bbab2] (1)[^c-fb82eebbd2a4be80a96a88f4dde07b5c] The definitions in paragraph 15(1) of Schedule 17 apply for the purposes of this Schedule.
 
 (2) In this Schedule “**relevant scheme**” is to be construed in accordance with paragraphs 1(5) and 2(5).
 
-(3)[^key-b5a7bdb6531ea823c7d5fb4d76f93dbd] Where a pension scheme is divided into sections, each section that is a collective money purchase scheme for the purposes of Part 1 of the Pension Schemes Act 2021 (see section 1(2)(b) of that Act) is to be treated for the purposes of this Schedule as a separate scheme.
+(3)[^c-b5a7bdb6531ea823c7d5fb4d76f93dbd] Where a pension scheme is divided into sections, each section that is a collective money purchase scheme for the purposes of Part 1 of the Pension Schemes Act 2021 (see section 1(2)(b) of that Act) is to be treated for the purposes of this Schedule as a separate scheme.
 
 ### Crown application
 
-**5.**[^key-b4b3c9e1ac1fe92e277c3719f9546f71] (1) This Schedule applies to a pension scheme managed by or on behalf of the Crown as it applies to other pension schemes.
+**5.**[^c-b4b3c9e1ac1fe92e277c3719f9546f71] (1) This Schedule applies to a pension scheme managed by or on behalf of the Crown as it applies to other pension schemes.
 
 (2) Accordingly, a reference in this Schedule to a person in the person's capacity as a trustee or manager of a pension scheme include the Crown, or a person acting on behalf of the Crown, in that capacity.
 
@@ -106,25 +106,25 @@ Section 43
 
 ### Overriding provision
 
-**6.**[^key-4e6668ba5edce94c8e88f7d7217f46b3] (1) The Secretary of State may by regulations provide that specified provisions override any provision of a relevant scheme to the extent that it conflicts with them.
+**6.**[^c-4e6668ba5edce94c8e88f7d7217f46b3] (1) The Secretary of State may by regulations provide that specified provisions override any provision of a relevant scheme to the extent that it conflicts with them.
 
-(1A)[^key-aea7edfdde7bc069d391afc502116c36] The Secretary of State may by regulations provide that specified provisions override any term of a relevant contract to the extent that it conflicts with them.
+(1A)[^c-aea7edfdde7bc069d391afc502116c36] The Secretary of State may by regulations provide that specified provisions override any term of a relevant contract to the extent that it conflicts with them.
 
-(2) A “specified provision” is a provision of regulations under this Schedule specified in regulations made under sub-paragraph (1) or (1A)[^key-f9af883769c1e5d61efd1cc11caa5258] .
+(2) A “specified provision” is a provision of regulations under this Schedule specified in regulations made under sub-paragraph (1) or (1A)[^c-f9af883769c1e5d61efd1cc11caa5258] .
 
-(3)[^key-beb5a347692b78c9d0778aa2dcc584d6] “**Relevant contract**” means a contract between the trustees or managers of a relevant scheme and a person providing services in relation to the scheme.
+(3)[^c-beb5a347692b78c9d0778aa2dcc584d6] “**Relevant contract**” means a contract between the trustees or managers of a relevant scheme and a person providing services in relation to the scheme.
 
 ### Other provision relating to regulations under this Schedule
 
-**7.**[^key-03bd0a3c2a64e8f72fc975574149c591] (1) The Secretary of State may by regulations amend or otherwise modify any enactment (whenever passed or made) in connection with any provision made by regulations under the preceding provisions of this Schedule.
+**7.**[^c-03bd0a3c2a64e8f72fc975574149c591] (1) The Secretary of State may by regulations amend or otherwise modify any enactment (whenever passed or made) in connection with any provision made by regulations under the preceding provisions of this Schedule.
 
 (2) In this paragraph “**enactment**” includes an enactment contained in subordinate legislation within the meaning of the Interpretation Act 1978.
 
-**8.**[^key-86bf57403874f5d57506e20f54195f57] Before making any regulations under this Schedule, the Secretary of State must consult such persons as the Secretary of State considers appropriate.
+**8.**[^c-86bf57403874f5d57506e20f54195f57] Before making any regulations under this Schedule, the Secretary of State must consult such persons as the Secretary of State considers appropriate.
 
 ### Amendments
 
-**9.**[^key-8d7e47e4d3eb6aac2b590aa7e938f54f] (1) The Pension Schemes Act 1993 is amended as follows.
+**9.**[^c-8d7e47e4d3eb6aac2b590aa7e938f54f] (1) The Pension Schemes Act 1993 is amended as follows.
 
 (2) In section 94(2A) (right to cash equivalent)—
 
@@ -148,9 +148,9 @@ Section 43
 
   > - (vii) regulations made under paragraph 6 of Schedule 18 to the Pensions Act 2014.
 
-**10.**[^key-7bc8b34c05a92cc19fe891b5afc5a98b] In section 256 of the Pensions Act 2004 (no indemnification for fines or civil penalties), in subsection (1)(b), after “or paragraph 10 of Schedule 17 to the Pensions Act 2014” (inserted by Schedule 17 to this Act) insert “ or paragraph 3 of Schedule 18 to that Act ”.
+**10.**[^c-7bc8b34c05a92cc19fe891b5afc5a98b] In section 256 of the Pensions Act 2004 (no indemnification for fines or civil penalties), in subsection (1)(b), after “or paragraph 10 of Schedule 17 to the Pensions Act 2014” (inserted by Schedule 17 to this Act) insert “ or paragraph 3 of Schedule 18 to that Act ”.
 
-**11.**[^key-c0a46627798b87cc3c3492be159ebd24] (1) Section 16 of the Pensions Act 2008 (automatic enrolment: qualifying schemes) is amended as follows.
+**11.**[^c-c0a46627798b87cc3c3492be159ebd24] (1) Section 16 of the Pensions Act 2008 (automatic enrolment: qualifying schemes) is amended as follows.
 
 (2) In subsection (3), omit paragraphs (a), (aa) and (ab).
 
@@ -160,48 +160,48 @@ Section 43
 
 (4) Omit subsections (4) and (5).
 
-**12.**[^key-b808ece6aae0d76eef89bbdbc87da06c] In consequence of the amendments made by paragraph 11, section 10 of the Pensions Act 2011 (qualifying schemes: administration charges) is repealed.
+**12.**[^c-b808ece6aae0d76eef89bbdbc87da06c] In consequence of the amendments made by paragraph 11, section 10 of the Pensions Act 2011 (qualifying schemes: administration charges) is repealed.
 
 ## Annotations
 
-[^key-f8f90114be012d456bbf93ce27c0acbe]: Commencement: Sch. 18 para. 1 in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
+[^c-f8f90114be012d456bbf93ce27c0acbe]: Commencement: Sch. 18 para. 1 in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
 
-[^key-f368f872c810a3ca2bb23088c77fb601]: Textual amendment: Word in [Sch. 18 para. 1(1)(a)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/1/1/a) substituted (11.2.2021 for specified purposes, 13.12.2021 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 3 para. 25(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/3/paragraph/25/2); [S.I. 2021/1394](https://www.legislation.gov.uk/uksi/2021/1394), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/1394/regulation/2/a)
+[^c-f368f872c810a3ca2bb23088c77fb601]: Textual amendment: Word in [Sch. 18 para. 1(1)(a)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/1/1/a) substituted (11.2.2021 for specified purposes, 13.12.2021 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 3 para. 25(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/3/paragraph/25/2); [S.I. 2021/1394](https://www.legislation.gov.uk/uksi/2021/1394), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/1394/regulation/2/a)
 
-[^key-5121c608e784f464aa35330d9167637f]: Textual amendment: Word in [Sch. 18 para. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/1/1/b) substituted (11.2.2021 for specified purposes, 13.12.2021 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 3 para. 25(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/3/paragraph/25/2); [S.I. 2021/1394](https://www.legislation.gov.uk/uksi/2021/1394), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/1394/regulation/2/a)
+[^c-5121c608e784f464aa35330d9167637f]: Textual amendment: Word in [Sch. 18 para. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/1/1/b) substituted (11.2.2021 for specified purposes, 13.12.2021 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 3 para. 25(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/3/paragraph/25/2); [S.I. 2021/1394](https://www.legislation.gov.uk/uksi/2021/1394), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/1394/regulation/2/a)
 
-[^key-cbd7b96c7c89ce43708310b63f4bee4d]: Textual amendment: Word in Sch. 18 para. 1(5) substituted (31.8.2021 for the purpose of making regulations and immediately before 1.10.2021 for all other purposes) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 127(2)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/127/2/a), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/2) (with [reg. 10](https://www.legislation.gov.uk/uksi/2021/950/regulation/10))
+[^c-cbd7b96c7c89ce43708310b63f4bee4d]: Textual amendment: Word in Sch. 18 para. 1(5) substituted (31.8.2021 for the purpose of making regulations and immediately before 1.10.2021 for all other purposes) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 127(2)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/127/2/a), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/2) (with [reg. 10](https://www.legislation.gov.uk/uksi/2021/950/regulation/10))
 
-[^key-f8a4a0d5f8e40c3012eff318ae41c19c]: Textual amendment: Words in Sch. 18 para. 1(5) inserted (31.8.2021 for the purpose of making regulations and immediately before 1.10.2021 for all other purposes) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 127(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/127/2/b), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/2) (with [reg. 10](https://www.legislation.gov.uk/uksi/2021/950/regulation/10))
+[^c-f8a4a0d5f8e40c3012eff318ae41c19c]: Textual amendment: Words in Sch. 18 para. 1(5) inserted (31.8.2021 for the purpose of making regulations and immediately before 1.10.2021 for all other purposes) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 127(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/127/2/b), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/2) (with [reg. 10](https://www.legislation.gov.uk/uksi/2021/950/regulation/10))
 
-[^key-c796bb55934d59f803bab458d2f4c1f0]: Commencement: [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/2) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
+[^c-c796bb55934d59f803bab458d2f4c1f0]: Commencement: [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/2) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
 
-[^key-2707e1b6f59c06ca75ea60adc842e222]: Commencement: [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/3) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
+[^c-2707e1b6f59c06ca75ea60adc842e222]: Commencement: [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/3) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
 
-[^key-28a3438fabb52df3de1c1c916c9bbab2]: Commencement: Sch. 18 para. 4 in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
+[^c-28a3438fabb52df3de1c1c916c9bbab2]: Commencement: Sch. 18 para. 4 in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
 
-[^key-fb82eebbd2a4be80a96a88f4dde07b5c]: Textual amendment: Sch. 18 para. 4(1) substituted (29.4.2026) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2026/22/section/39/2), [133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b) (with [s. 35](https://www.legislation.gov.uk/ukpga/2026/22/section/35))
+[^c-fb82eebbd2a4be80a96a88f4dde07b5c]: Textual amendment: Sch. 18 para. 4(1) substituted (29.4.2026) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2026/22/section/39/2), [133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b) (with [s. 35](https://www.legislation.gov.uk/ukpga/2026/22/section/35))
 
-[^key-b5a7bdb6531ea823c7d5fb4d76f93dbd]: Textual amendment: Sch. 18 para. 4(3) inserted (11.2.2021 for specified purposes, 13.12.2021 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 3 para. 25(3)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/3/paragraph/25/3); [S.I. 2021/1394](https://www.legislation.gov.uk/uksi/2021/1394), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/1394/regulation/2/a)
+[^c-b5a7bdb6531ea823c7d5fb4d76f93dbd]: Textual amendment: Sch. 18 para. 4(3) inserted (11.2.2021 for specified purposes, 13.12.2021 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 3 para. 25(3)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/3/paragraph/25/3); [S.I. 2021/1394](https://www.legislation.gov.uk/uksi/2021/1394), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/1394/regulation/2/a)
 
-[^key-b4b3c9e1ac1fe92e277c3719f9546f71]: Commencement: [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/5) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
+[^c-b4b3c9e1ac1fe92e277c3719f9546f71]: Commencement: [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/5) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
 
-[^key-4e6668ba5edce94c8e88f7d7217f46b3]: Commencement: Sch. 18 para. 6 in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
+[^c-4e6668ba5edce94c8e88f7d7217f46b3]: Commencement: Sch. 18 para. 6 in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
 
-[^key-aea7edfdde7bc069d391afc502116c36]: Textual amendment: [Sch. 18 para. 6(1A)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/6/1A) inserted (27.4.2017) by [Pension Schemes Act 2017 (c. 17)](https://www.legislation.gov.uk/ukpga/2017/17), [ss. 41(2)](https://www.legislation.gov.uk/ukpga/2017/17/section/41/2), [44(1)(d)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/d)
+[^c-aea7edfdde7bc069d391afc502116c36]: Textual amendment: [Sch. 18 para. 6(1A)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/6/1A) inserted (27.4.2017) by [Pension Schemes Act 2017 (c. 17)](https://www.legislation.gov.uk/ukpga/2017/17), [ss. 41(2)](https://www.legislation.gov.uk/ukpga/2017/17/section/41/2), [44(1)(d)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/d)
 
-[^key-f9af883769c1e5d61efd1cc11caa5258]: Textual amendment: Words in [Sch. 18 para. 6(2)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/6/2) inserted (27.4.2017) by [Pension Schemes Act 2017 (c. 17)](https://www.legislation.gov.uk/ukpga/2017/17), [ss. 41(3)](https://www.legislation.gov.uk/ukpga/2017/17/section/41/3), [44(1)(d)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/d)
+[^c-f9af883769c1e5d61efd1cc11caa5258]: Textual amendment: Words in [Sch. 18 para. 6(2)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/6/2) inserted (27.4.2017) by [Pension Schemes Act 2017 (c. 17)](https://www.legislation.gov.uk/ukpga/2017/17), [ss. 41(3)](https://www.legislation.gov.uk/ukpga/2017/17/section/41/3), [44(1)(d)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/d)
 
-[^key-beb5a347692b78c9d0778aa2dcc584d6]: Textual amendment: [Sch. 18 para. 6(3)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/6/3) inserted (27.4.2017) by [Pension Schemes Act 2017 (c. 17)](https://www.legislation.gov.uk/ukpga/2017/17), [ss. 41(4)](https://www.legislation.gov.uk/ukpga/2017/17/section/41/4), [44(1)(d)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/d)
+[^c-beb5a347692b78c9d0778aa2dcc584d6]: Textual amendment: [Sch. 18 para. 6(3)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/6/3) inserted (27.4.2017) by [Pension Schemes Act 2017 (c. 17)](https://www.legislation.gov.uk/ukpga/2017/17), [ss. 41(4)](https://www.legislation.gov.uk/ukpga/2017/17/section/41/4), [44(1)(d)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/d)
 
-[^key-03bd0a3c2a64e8f72fc975574149c591]: Commencement: [Sch. 18 para. 7](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/7) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
+[^c-03bd0a3c2a64e8f72fc975574149c591]: Commencement: [Sch. 18 para. 7](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/7) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
 
-[^key-86bf57403874f5d57506e20f54195f57]: Commencement: [Sch. 18 para. 8](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/8) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
+[^c-86bf57403874f5d57506e20f54195f57]: Commencement: [Sch. 18 para. 8](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/8) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
 
-[^key-8d7e47e4d3eb6aac2b590aa7e938f54f]: Commencement: [Sch. 18 para. 9](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/9) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
+[^c-8d7e47e4d3eb6aac2b590aa7e938f54f]: Commencement: [Sch. 18 para. 9](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/9) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
 
-[^key-7bc8b34c05a92cc19fe891b5afc5a98b]: Commencement: [Sch. 18 para. 10](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/10) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
+[^c-7bc8b34c05a92cc19fe891b5afc5a98b]: Commencement: [Sch. 18 para. 10](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/10) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
 
-[^key-c0a46627798b87cc3c3492be159ebd24]: Commencement: [Sch. 18 para. 11](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/11) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
+[^c-c0a46627798b87cc3c3492be159ebd24]: Commencement: [Sch. 18 para. 11](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/11) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
 
-[^key-b808ece6aae0d76eef89bbdbc87da06c]: Commencement: [Sch. 18 para. 12](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/12) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
+[^c-b808ece6aae0d76eef89bbdbc87da06c]: Commencement: [Sch. 18 para. 12](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/12) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)

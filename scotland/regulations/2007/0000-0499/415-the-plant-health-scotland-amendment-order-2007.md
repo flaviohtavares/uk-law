@@ -32,7 +32,7 @@ summary: ''
 
 PLANT HEALTH
 
-The Plant Health (Scotland) (Amendment) Order 2007 (revoked)[^key-327fd704ece4ee86eb6571d8cea4c373]
+The Plant Health (Scotland) (Amendment) Order 2007 (revoked)[^c-327fd704ece4ee86eb6571d8cea4c373]
 
 Made
 
@@ -46,50 +46,50 @@ Coming into force
 
 30th September 2007
 
-[^key-327fd704ece4ee86eb6571d8cea4c373]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-327fd704ece4ee86eb6571d8cea4c373]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-327fd704ece4ee86eb6571d8cea4c373]
+## 1. Citation and commencement[^c-327fd704ece4ee86eb6571d8cea4c373]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (Scotland) Order 2005[^key-327fd704ece4ee86eb6571d8cea4c373]
+## 2. Amendment of the Plant Health (Scotland) Order 2005[^c-327fd704ece4ee86eb6571d8cea4c373]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of article 2[^key-327fd704ece4ee86eb6571d8cea4c373]
+## 3. Amendment of article 2[^c-327fd704ece4ee86eb6571d8cea4c373]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of article 39[^key-327fd704ece4ee86eb6571d8cea4c373]
+## 4. Amendment of article 39[^c-327fd704ece4ee86eb6571d8cea4c373]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of article 42[^key-327fd704ece4ee86eb6571d8cea4c373]
+## 5. Amendment of article 42[^c-327fd704ece4ee86eb6571d8cea4c373]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of Schedule 4[^key-327fd704ece4ee86eb6571d8cea4c373]
+## 6. Amendment of Schedule 4[^c-327fd704ece4ee86eb6571d8cea4c373]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of Schedule 16[^key-327fd704ece4ee86eb6571d8cea4c373]
+## 7. Amendment of Schedule 16[^c-327fd704ece4ee86eb6571d8cea4c373]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of Part A of Schedule 17[^key-327fd704ece4ee86eb6571d8cea4c373]
+## 8. Amendment of Part A of Schedule 17[^c-327fd704ece4ee86eb6571d8cea4c373]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of Part B of Schedule 17[^key-327fd704ece4ee86eb6571d8cea4c373]
+## 9. Amendment of Part B of Schedule 17[^c-327fd704ece4ee86eb6571d8cea4c373]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-327fd704ece4ee86eb6571d8cea4c373]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-327fd704ece4ee86eb6571d8cea4c373]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-327fd704ece4ee86eb6571d8cea4c373]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-327fd704ece4ee86eb6571d8cea4c373]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-327fd704ece4ee86eb6571d8cea4c373]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2007/415) revoked (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421)](https://www.legislation.gov.uk/ssi/2019/421), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1), [sch. 6](https://www.legislation.gov.uk/ssi/2019/421/schedule/6)
+[^c-327fd704ece4ee86eb6571d8cea4c373]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2007/415) revoked (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421)](https://www.legislation.gov.uk/ssi/2019/421), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1), [sch. 6](https://www.legislation.gov.uk/ssi/2019/421/schedule/6)

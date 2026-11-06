@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188. Sections 184 to 187: consequential provision[^key-bcfb2396cb5cf94cffe9138c39820c5e]
+## 188. Sections 184 to 187: consequential provision[^c-bcfb2396cb5cf94cffe9138c39820c5e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 19 makes provision that is consequential on sections 184 to 187.
 
 ## Annotations
 
-[^key-bcfb2396cb5cf94cffe9138c39820c5e]: Commencement: [S. 188](https://www.legislation.gov.uk/ukpga/2022/32/section/188) in force at 28.6.2022, see [s. 208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w)
+[^c-bcfb2396cb5cf94cffe9138c39820c5e]: Commencement: [S. 188](https://www.legislation.gov.uk/ukpga/2022/32/section/188) in force at 28.6.2022, see [s. 208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w)

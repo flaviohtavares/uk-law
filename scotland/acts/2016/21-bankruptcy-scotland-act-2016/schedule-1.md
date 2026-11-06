@@ -24,7 +24,7 @@ summary: ''
 
 ### Modification of certain provisions of Act
 
-**1.**[^key-970fb3f719b120a846b87eb001df4e3e] (1) Where section 2(2) applies in relation to a debtor, this Act applies subject to the modifications mentioned in sub-paragraphs (2) to (6).
+**1.**[^c-970fb3f719b120a846b87eb001df4e3e] (1) Where section 2(2) applies in relation to a debtor, this Act applies subject to the modifications mentioned in sub-paragraphs (2) to (6).
 
 (2) Section 42 applies as if for subsection (1) there were substituted—
 
@@ -57,7 +57,7 @@ summary: ''
 
 ### Accountant in Bankruptcy's duty to consider whether paragraph 1 should cease to have effect
 
-**2.**[^key-d47f7f7426978dc5c6546e22cab48254] (1) This paragraph applies where paragraph 1 applies in relation to a debtor.
+**2.**[^c-d47f7f7426978dc5c6546e22cab48254] (1) This paragraph applies where paragraph 1 applies in relation to a debtor.
 
 (2) If AiB considers that the circumstances mentioned in any of sub-paragraphs (3) to (6) apply in relation to the debtor, AiB must consider whether paragraph 1 should cease to have effect in relation to the debtor.
 
@@ -90,7 +90,7 @@ summary: ''
 
 ### Procedure where Accountant in Bankruptcy considers paragraph 1 should cease to have effect
 
-**3.**[^key-8000fd9952a2fcec383d67291dc65c64] (1) If AiB considers under paragraph 2(2) that paragraph 1 should cease to have effect in relation to a debtor, AiB must notify the debtor of that fact and of the matters mentioned in sub-paragraph (2).
+**3.**[^c-8000fd9952a2fcec383d67291dc65c64] (1) If AiB considers under paragraph 2(2) that paragraph 1 should cease to have effect in relation to a debtor, AiB must notify the debtor of that fact and of the matters mentioned in sub-paragraph (2).
 
 (2) The matters are—
 
@@ -106,7 +106,7 @@ summary: ''
 
 ### Debtor's right of appeal against decision under paragraph 3
 
-**4.**[^key-6fb4c2fedd4a5c60914655d1048c2d7b] (1) This paragraph applies where AiB gives notice to a debtor under paragraph 3(4).
+**4.**[^c-6fb4c2fedd4a5c60914655d1048c2d7b] (1) This paragraph applies where AiB gives notice to a debtor under paragraph 3(4).
 
 (2) The debtor may appeal to the sheriff against the decision.
 
@@ -118,7 +118,7 @@ summary: ''
 
 ### Decision that paragraph 1 ceases to have effect: modification of certain provisions of Act
 
-**5.**[^key-253618f3a0a1f77304c7a34d0f8eece3] (1) Where paragraph 1 ceases to have effect in relation to a debtor, this Act applies subject to sub-paragraphs (2) to (4).
+**5.**[^c-253618f3a0a1f77304c7a34d0f8eece3] (1) Where paragraph 1 ceases to have effect in relation to a debtor, this Act applies subject to sub-paragraphs (2) to (4).
 
 (2) The debtor must send to the trustee a statement of assets and liabilities—
 
@@ -141,12 +141,12 @@ summary: ''
 
 ## Annotations
 
-[^key-970fb3f719b120a846b87eb001df4e3e]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2016/21/schedule/1/paragraph/1) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-970fb3f719b120a846b87eb001df4e3e]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2016/21/schedule/1/paragraph/1) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-d47f7f7426978dc5c6546e22cab48254]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2016/21/schedule/1/paragraph/2) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-d47f7f7426978dc5c6546e22cab48254]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2016/21/schedule/1/paragraph/2) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-8000fd9952a2fcec383d67291dc65c64]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2016/21/schedule/1/paragraph/3) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-8000fd9952a2fcec383d67291dc65c64]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2016/21/schedule/1/paragraph/3) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-6fb4c2fedd4a5c60914655d1048c2d7b]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2016/21/schedule/1/paragraph/4) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-6fb4c2fedd4a5c60914655d1048c2d7b]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2016/21/schedule/1/paragraph/4) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-253618f3a0a1f77304c7a34d0f8eece3]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2016/21/schedule/1/paragraph/5) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-253618f3a0a1f77304c7a34d0f8eece3]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2016/21/schedule/1/paragraph/5) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

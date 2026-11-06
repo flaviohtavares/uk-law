@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-e141b09a04ede8b232acc13a3f3a0eee]
+## 2. Interpretation[^c-e141b09a04ede8b232acc13a3f3a0eee]
 
 *Extent: E+W*
 
@@ -66,7 +66,7 @@ summary: ''
 - “**maintain**” includes, to the extent assessed in the environmental statement, inspect, repair, adjust, alter, remove, reconstruct, replace or improve in relation to the authorised development and any derivative of “**maintain**” is to be construed accordingly;
 - “**Master CEMP**” means the document certified as the master construction environmental management plan by the Secretary of State for the purposes of this Order;
 - “**National Highways**” means National Highways Limited, company number 9346363, and includes any successor in function authorised to operate the strategic highway network in the area in which the authorised development is located;
-- “**Network Rail**” means Network Rail Infrastructure Limited, company [^key-442082ef594a93386652b21579ad540a]... number 02904587 whose registered office is at 1 Eversholt Street, London, NW1 2DN, and includes any successor in function to Network Rail authorised to operate that part of the national rail network that the authorised development is or will be included in;
+- “**Network Rail**” means Network Rail Infrastructure Limited, company [^c-442082ef594a93386652b21579ad540a]... number 02904587 whose registered office is at 1 Eversholt Street, London, NW1 2DN, and includes any successor in function to Network Rail authorised to operate that part of the national rail network that the authorised development is or will be included in;
 - “**new highways plans**” means the plans certified as the new highways plans by the Secretary of State for the purpose of this Order;
 - “**operational railway land**” means—
   - (a) land required permanently for the construction and operation of Work Nos. 1, 1A and 1B;
@@ -82,7 +82,7 @@ summary: ''
 - “**Portishead Railway Acts**” means the Bristol and Portishead Pier and Railway Act 1863[^f00016] and the Bristol and Portishead Pier and Railway Act 1866[^f00017];
 - “**private means of access**” means a private access to the highway network from neighbouring land;
 - “**relevant highway authority**” means North Somerset District Council for highways within the administrative area of North Somerset District Council and Bristol City Council for highways within the administrative area of Bristol City Council or any successor highway authority to those authorities;
-- “**relevant lead local flood authority**” means North Somerset District Council for land within the administrative area of North Somerset District Council and Bristol City Council for land within the administrative area of Bristol City Council as lead local flood authority or any successor flood authority to those authorities[^key-34fa5041a9fa662cffddd9036ea73b8d];
+- “**relevant lead local flood authority**” means North Somerset District Council for land within the administrative area of North Somerset District Council and Bristol City Council for land within the administrative area of Bristol City Council as lead local flood authority or any successor flood authority to those authorities[^c-34fa5041a9fa662cffddd9036ea73b8d];
 - “relevant planning authority” for land within the administrative area of North Somerset District Council means North Somerset District Council or for land within the administrative area of Bristol City Council means Bristol City Council or any successor planning authority to those authorities;
 - “**section drawings**” means the drawings certified as the section drawings by the Secretary of State for the purposes of this Order;
 - “**statutory undertaker**” has the same meaning as in section 127(8) (statutory undertakers’ land) of the 2008 Act;
@@ -108,7 +108,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e141b09a04ede8b232acc13a3f3a0eee]: Commencement: Art. 2 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-e141b09a04ede8b232acc13a3f3a0eee]: Commencement: Art. 2 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
 
 [^f00004]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -132,7 +132,7 @@ summary: ''
 
 [^f00014]: Footnote: Section 32(1) was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).
 
-[^key-442082ef594a93386652b21579ad540a]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2022/1194/article/2/1) omitted (17.10.2025) by virtue of [The Portishead Branch Line (MetroWest Phase 1) (Correction) Order 2025 (S.I. 2025/1097)](https://www.legislation.gov.uk/uksi/2025/1097), [art. 1](https://www.legislation.gov.uk/uksi/2025/1097/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1097/schedule)
+[^c-442082ef594a93386652b21579ad540a]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2022/1194/article/2/1) omitted (17.10.2025) by virtue of [The Portishead Branch Line (MetroWest Phase 1) (Correction) Order 2025 (S.I. 2025/1097)](https://www.legislation.gov.uk/uksi/2025/1097), [art. 1](https://www.legislation.gov.uk/uksi/2025/1097/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1097/schedule)
 
 [^f00015]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67). The definition of “owner” was amended by section 70 of, and paragraph 9 of Schedule 15 to, the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34). There are other amendments to the 1981 Act which are not relevant to this Order.
 
@@ -140,6 +140,6 @@ summary: ''
 
 [^f00017]: Footnote: 29 & 30 Vict. c. lxxxviii.
 
-[^key-34fa5041a9fa662cffddd9036ea73b8d]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2022/1194/article/2/1) substituted (17.10.2025) by [The Portishead Branch Line (MetroWest Phase 1) (Correction) Order 2025 (S.I. 2025/1097)](https://www.legislation.gov.uk/uksi/2025/1097), [art. 1](https://www.legislation.gov.uk/uksi/2025/1097/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1097/schedule)
+[^c-34fa5041a9fa662cffddd9036ea73b8d]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2022/1194/article/2/1) substituted (17.10.2025) by [The Portishead Branch Line (MetroWest Phase 1) (Correction) Order 2025 (S.I. 2025/1097)](https://www.legislation.gov.uk/uksi/2025/1097), [art. 1](https://www.legislation.gov.uk/uksi/2025/1097/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1097/schedule)
 
 [^f00018]: Footnote: Section 121A was inserted by section 168(1) of, and paragraph 70 of Schedule 8 to, the 1991 Act.

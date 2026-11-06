@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 236. Application of Chapter 12[^key-eb2f556c8bd06732e2e95fb798b97075]
+## 236. Application of Chapter 12[^c-eb2f556c8bd06732e2e95fb798b97075]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Chapter applies in relation to decisions of the court under the Regulations
 
 ## Annotations
 
-[^key-eb2f556c8bd06732e2e95fb798b97075]: Commencement: Rule 236 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-eb2f556c8bd06732e2e95fb798b97075]: Commencement: Rule 236 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

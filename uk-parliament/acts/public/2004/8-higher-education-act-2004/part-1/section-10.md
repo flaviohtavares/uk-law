@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-e9c4b9008e512e16ecb87d794d791723] The Secretary of State may—
+(1)[^c-e9c4b9008e512e16ecb87d794d791723] The Secretary of State may—
 
 - (a) carry out or support research in the arts and humanities,
 - (b) disseminate the results of research in the arts and humanities,
@@ -28,7 +28,7 @@ summary: ''
 - (d) establish advisory bodies for the purpose of assisting the Secretary of State in matters connected with research in the arts and humanities, and
 - (e) if the Secretary of State establishes such a body, appoint its members on terms which include the payment of remuneration, allowances or pension benefits to or in respect of them.
 
-(2)[^key-89a58653e08f667c81e80fba386e9e02] The National Assembly for Wales (in this Act referred to as “**the Assembly**”) may, in relation to Wales,—
+(2)[^c-89a58653e08f667c81e80fba386e9e02] The National Assembly for Wales (in this Act referred to as “**the Assembly**”) may, in relation to Wales,—
 
 - (a) carry out or support research in the arts and humanities,
 - (b) disseminate the results of research in the arts and humanities,
@@ -36,7 +36,7 @@ summary: ''
 - (d) establish advisory bodies for the purpose of assisting the Assembly in matters connected with research in the arts and humanities, and
 - (e) if the Assembly establishes such a body, appoint its members on terms which include the payment of remuneration, allowances or pension benefits to or in respect of them.
 
-(3)[^key-19b54f6689dcf9b840ec396fbc0ff37d] The Scottish Ministers may, in relation to Scotland,—
+(3)[^c-19b54f6689dcf9b840ec396fbc0ff37d] The Scottish Ministers may, in relation to Scotland,—
 
 - (a) carry out or support research in the arts and humanities,
 - (b) disseminate the results of research in the arts and humanities,
@@ -44,7 +44,7 @@ summary: ''
 - (d) establish advisory bodies for the purpose of assisting the Scottish Ministers in matters connected with research in the arts and humanities, and
 - (e) if the Scottish Ministers establish such a body, appoint its members on terms which include the payment of remuneration, allowances or pension benefits to or in respect of them.
 
-(4)[^key-e9c4b9008e512e16ecb87d794d791723] The Northern Ireland Department having responsibility for higher education may, in relation to Northern Ireland,—
+(4)[^c-e9c4b9008e512e16ecb87d794d791723] The Northern Ireland Department having responsibility for higher education may, in relation to Northern Ireland,—
 
 - (a) carry out or support research in the arts and humanities,
 - (b) disseminate the results of research in the arts and humanities,
@@ -52,7 +52,7 @@ summary: ''
 - (d) establish advisory bodies for the purpose of assisting the Department in matters connected with research in the arts and humanities, and
 - (e) if the Department establishes such a body, appoint its members on terms which include the payment of remuneration, allowances or pension benefits to or in respect of them.
 
-(5)[^key-327bb27ddff232b4f0932de0add7d1cb] The powers under this section to give financial support include, in particular, power to make a grant, loan or other payment, on such terms and conditions as the relevant authority considers appropriate.
+(5)[^c-327bb27ddff232b4f0932de0add7d1cb] The powers under this section to give financial support include, in particular, power to make a grant, loan or other payment, on such terms and conditions as the relevant authority considers appropriate.
 
 (6) The terms and conditions may, in particular—
 
@@ -69,10 +69,10 @@ summary: ''
 
 ## Annotations
 
-[^key-e9c4b9008e512e16ecb87d794d791723]: Commencement: S. 10(1)(4) in force at 16.12.2004 by [S.I. 2004/3255](https://www.legislation.gov.uk/uksi/2004/3255), [art. 2](https://www.legislation.gov.uk/uksi/2004/3255/article/2)
+[^c-e9c4b9008e512e16ecb87d794d791723]: Commencement: S. 10(1)(4) in force at 16.12.2004 by [S.I. 2004/3255](https://www.legislation.gov.uk/uksi/2004/3255), [art. 2](https://www.legislation.gov.uk/uksi/2004/3255/article/2)
 
-[^key-89a58653e08f667c81e80fba386e9e02]: Commencement: S. 10(2) in force for W. at 7.7.2005 by [S.I. 2005/1833](https://www.legislation.gov.uk/uksi/2005/1833), [art. 4(a)](https://www.legislation.gov.uk/uksi/2005/1833/article/4/a)
+[^c-89a58653e08f667c81e80fba386e9e02]: Commencement: S. 10(2) in force for W. at 7.7.2005 by [S.I. 2005/1833](https://www.legislation.gov.uk/uksi/2005/1833), [art. 4(a)](https://www.legislation.gov.uk/uksi/2005/1833/article/4/a)
 
-[^key-19b54f6689dcf9b840ec396fbc0ff37d]: Commencement: S. 10(3) in force for S. at 31.1.2005 by [S.S.I. 2005/33](https://www.legislation.gov.uk/ssi/2005/33), [art. 3](https://www.legislation.gov.uk/ssi/2005/33/article/3)
+[^c-19b54f6689dcf9b840ec396fbc0ff37d]: Commencement: S. 10(3) in force for S. at 31.1.2005 by [S.S.I. 2005/33](https://www.legislation.gov.uk/ssi/2005/33), [art. 3](https://www.legislation.gov.uk/ssi/2005/33/article/3)
 
-[^key-327bb27ddff232b4f0932de0add7d1cb]: Textual amendment: [S. 10(5)-(7)](https://www.legislation.gov.uk/ukpga/2004/8/section/10/5) inserted (27.6.2017) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [ss. 110(2)](https://www.legislation.gov.uk/ukpga/2017/29/section/110/2), [124(4)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/4)
+[^c-327bb27ddff232b4f0932de0add7d1cb]: Textual amendment: [S. 10(5)-(7)](https://www.legislation.gov.uk/ukpga/2004/8/section/10/5) inserted (27.6.2017) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [ss. 110(2)](https://www.legislation.gov.uk/ukpga/2017/29/section/110/2), [124(4)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/4)

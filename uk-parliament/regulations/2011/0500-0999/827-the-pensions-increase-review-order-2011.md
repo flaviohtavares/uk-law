@@ -48,11 +48,11 @@ In accordance with section 151(1) of the Social Security Administration Act 1992
 
 The Treasury now make the following Order in exercise of the powers conferred by section 59(1), (2), (5) and (5ZA) of the Social Security Pensions Act 1975[^f00004] and now vested in them[^f00005]:
 
-## 1. Citation and Commencement[^key-ae7957bcd40d8f133e7080dacb93aa49]
+## 1. Citation and Commencement[^c-ae7957bcd40d8f133e7080dacb93aa49]
 
 This Order may be cited as the Pensions Increase (Review) Order 2011 and comes into force on 11th April 2011.
 
-## 2. Interpretation[^key-528662c40172a64ccb2599454ca1b9e2]
+## 2. Interpretation[^c-528662c40172a64ccb2599454ca1b9e2]
 
 (1) In this Order—
 
@@ -69,7 +69,7 @@ This Order may be cited as the Pensions Increase (Review) Order 2011 and comes i
 
 (3) Where, for the purposes of this Order, it is necessary to calculate the number of complete months in any period an incomplete month shall be treated as a complete month if it consists of at least 16 days.
 
-## 3. Pension increases[^key-fdac908d158b10cf19f952b590691ded]
+## 3. Pension increases[^c-fdac908d158b10cf19f952b590691ded]
 
 (1) The pension authority may, if any of the conditions in paragraph (2) are fulfilled, increase the annual rate of an official pension in respect of any period on or after 11th April 2011 as follows—
 
@@ -91,7 +91,7 @@ This Order may be cited as the Pensions Increase (Review) Order 2011 and comes i
   - (ii) a substituted pension; or
   - (iii) a relevant injury pension.
 
-## 4. Increases in certain lump sums[^key-ee8159a08a09a1f8bd226dadef5e8899]
+## 4. Increases in certain lump sums[^c-ee8159a08a09a1f8bd226dadef5e8899]
 
 (1) This article applies to any lump sum or instalment of a lump sum which became payable on or after 12th April 2010 but before 11th April 2011.
 
@@ -104,7 +104,7 @@ where
 - (a) A is the number of complete months in the period between the beginning date for the lump sum or, if later, 12th April 2010 and the date on which it became payable; and
 - (b) B is 12.
 
-## 5. Reductions in respect of guaranteed minimum pensions[^key-09a189b380b1f7f449550a67b115f28c]
+## 5. Reductions in respect of guaranteed minimum pensions[^c-09a189b380b1f7f449550a67b115f28c]
 
 The amount by reference to which any increase in the rate of an official pension provided for by this Order is to be calculated shall, in the case of a person—
 
@@ -113,7 +113,7 @@ The amount by reference to which any increase in the rate of an official pension
 
 be reduced by an amount equal to the rate of the guaranteed minimum pension unless the Treasury[^f00013] otherwise direct, in accordance with the provisions of section 59A of the 1975 Act.
 
-## 6.[^key-95d186d2ae270ee57e3ff764d89844f0]
+## 6.[^c-95d186d2ae270ee57e3ff764d89844f0]
 
 The amount by reference to which any increase in the rate of a surviving spouse’s or surviving civil partner’s pension provided for by this Order is to be calculated shall, where the pensioner becomes entitled on the death of the deceased spouse or deceased civil partner to a guaranteed minimum pension, be reduced in accordance with section 59(5ZA) of the 1975 Act.
 
@@ -166,9 +166,9 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00005]: Footnote: By virtue of article 2(1)(c) and (d) of the Transfer of Functions (Minister for the Civil Service and Treasury) Order 1981 ([S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670)).
 
-[^key-ae7957bcd40d8f133e7080dacb93aa49]: Commencement: Art. 1 in force at 11.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/827/article/1)
+[^c-ae7957bcd40d8f133e7080dacb93aa49]: Commencement: Art. 1 in force at 11.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/827/article/1)
 
-[^key-528662c40172a64ccb2599454ca1b9e2]: Commencement: Art. 2 in force at 11.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/827/article/1)
+[^c-528662c40172a64ccb2599454ca1b9e2]: Commencement: Art. 2 in force at 11.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/827/article/1)
 
 [^f00006]: Footnote: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).
 
@@ -184,12 +184,12 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00012]: Footnote: Section 8(2) was amended by section 1(5) of the Pensions (Miscellaneous Provisions) Act [1990 (c.7)](https://www.legislation.gov.uk/ukpga/1990/7) and by the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), section 39(1) and (4).
 
-[^key-fdac908d158b10cf19f952b590691ded]: Commencement: Art. 3 in force at 11.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/827/article/1)
+[^c-fdac908d158b10cf19f952b590691ded]: Commencement: Art. 3 in force at 11.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/827/article/1)
 
-[^key-ee8159a08a09a1f8bd226dadef5e8899]: Commencement: Art. 4 in force at 11.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/827/article/1)
+[^c-ee8159a08a09a1f8bd226dadef5e8899]: Commencement: Art. 4 in force at 11.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/827/article/1)
 
-[^key-09a189b380b1f7f449550a67b115f28c]: Commencement: Art. 5 in force at 11.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/827/article/1)
+[^c-09a189b380b1f7f449550a67b115f28c]: Commencement: Art. 5 in force at 11.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/827/article/1)
 
 [^f00013]: Footnote: [S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670).
 
-[^key-95d186d2ae270ee57e3ff764d89844f0]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2011/827/article/6) substituted (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 6 para. 35](https://www.legislation.gov.uk/uksi/2014/3229/schedule/6/paragraph/35)
+[^c-95d186d2ae270ee57e3ff764d89844f0]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2011/827/article/6) substituted (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 6 para. 35](https://www.legislation.gov.uk/uksi/2014/3229/schedule/6/paragraph/35)

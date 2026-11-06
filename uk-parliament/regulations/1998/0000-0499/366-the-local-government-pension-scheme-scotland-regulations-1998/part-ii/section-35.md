@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Guaranteed minimum pensions etc.[^key-3d5902070776d7850b94ccc44208a898]
+## 35. Guaranteed minimum pensions etc.[^c-3d5902070776d7850b94ccc44208a898]
 
 *Extent: E+W+S*
 
@@ -66,4 +66,4 @@ references in paragraphs (7) and (8) to the retirement pension are references to
 
 ## Annotations
 
-[^key-3d5902070776d7850b94ccc44208a898]: Commencement: Reg. 35 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-3d5902070776d7850b94ccc44208a898]: Commencement: Reg. 35 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

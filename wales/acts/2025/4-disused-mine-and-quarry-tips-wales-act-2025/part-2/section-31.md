@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Duty to compile and maintain list of all disused tips[^key-3a91426dcc135acf5b2007c7a2847a7d]
+## 31. Duty to compile and maintain list of all disused tips[^c-3a91426dcc135acf5b2007c7a2847a7d]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a91426dcc135acf5b2007c7a2847a7d]: Commencement: S. 31 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-3a91426dcc135acf5b2007c7a2847a7d]: Commencement: S. 31 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

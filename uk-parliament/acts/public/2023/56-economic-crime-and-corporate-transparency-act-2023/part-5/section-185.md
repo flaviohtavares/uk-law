@@ -16,26 +16,26 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 185. Money laundering: information orders[^key-6f67b1c1e80afa870c0252d84befc2ca][^key-c2abf78e34e8c983f873c0f1491801b1]
+## 185. Money laundering: information orders[^c-6f67b1c1e80afa870c0252d84befc2ca][^c-c2abf78e34e8c983f873c0f1491801b1]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-6f67b1c1e80afa870c0252d84befc2ca][^key-bb884657018e3073daa4462aa64894e3] Section 339ZH of the Proceeds of Crime Act 2002 (further information orders) is amended in accordance with subsections (2) to (11).
+(1)[^c-6f67b1c1e80afa870c0252d84befc2ca][^c-bb884657018e3073daa4462aa64894e3] Section 339ZH of the Proceeds of Crime Act 2002 (further information orders) is amended in accordance with subsections (2) to (11).
 
-(2)[^key-6f67b1c1e80afa870c0252d84befc2ca][^key-bb884657018e3073daa4462aa64894e3] In the heading for “Further information” substitute “Information”.
+(2)[^c-6f67b1c1e80afa870c0252d84befc2ca][^c-bb884657018e3073daa4462aa64894e3] In the heading for “Further information” substitute “Information”.
 
-(3)[^key-6f67b1c1e80afa870c0252d84befc2ca][^key-bb884657018e3073daa4462aa64894e3] In subsection (1)—
+(3)[^c-6f67b1c1e80afa870c0252d84befc2ca][^c-bb884657018e3073daa4462aa64894e3] In subsection (1)—
 
 - (a) for “a further” substitute “an”;
 - (b) for “either condition 1 or condition 2” substitute “one of conditions 1 to 4”.
 
-(4)[^key-6f67b1c1e80afa870c0252d84befc2ca][^key-bb884657018e3073daa4462aa64894e3] In subsection (3) for “A further” substitute “An”.
+(4)[^c-6f67b1c1e80afa870c0252d84befc2ca][^c-bb884657018e3073daa4462aa64894e3] In subsection (3) for “A further” substitute “An”.
 
-(5)[^key-6f67b1c1e80afa870c0252d84befc2ca][^key-bb884657018e3073daa4462aa64894e3] In subsection (4) for “a further” substitute “an”.
+(5)[^c-6f67b1c1e80afa870c0252d84befc2ca][^c-bb884657018e3073daa4462aa64894e3] In subsection (4) for “a further” substitute “an”.
 
-(6)[^key-6f67b1c1e80afa870c0252d84befc2ca][^key-bb884657018e3073daa4462aa64894e3] In subsection (5) for “a further” substitute “an”.
+(6)[^c-6f67b1c1e80afa870c0252d84befc2ca][^c-bb884657018e3073daa4462aa64894e3] In subsection (5) for “a further” substitute “an”.
 
-(7)[^key-6f67b1c1e80afa870c0252d84befc2ca][^key-bb884657018e3073daa4462aa64894e3] After subsection (6) insert—
+(7)[^c-6f67b1c1e80afa870c0252d84befc2ca][^c-bb884657018e3073daa4462aa64894e3] After subsection (6) insert—
 
 > (6A) Condition 3 for the making of an information order is met if—
 >
@@ -67,11 +67,11 @@ summary: ''
 >   - (ii) the person making that request has had regard to the code of practice under section 339ZL, and
 > - (g) it is reasonable in all the circumstances for the information to be provided.
 
-(8)[^key-6f67b1c1e80afa870c0252d84befc2ca][^key-bb884657018e3073daa4462aa64894e3] In subsection (7) for “A further” substitute “An”.
+(8)[^c-6f67b1c1e80afa870c0252d84befc2ca][^c-bb884657018e3073daa4462aa64894e3] In subsection (7) for “A further” substitute “An”.
 
-(9)[^key-6f67b1c1e80afa870c0252d84befc2ca][^key-bb884657018e3073daa4462aa64894e3] In subsection (8) for “a further” substitute “an”.
+(9)[^c-6f67b1c1e80afa870c0252d84befc2ca][^c-bb884657018e3073daa4462aa64894e3] In subsection (8) for “a further” substitute “an”.
 
-(10)[^key-6f67b1c1e80afa870c0252d84befc2ca][^key-bb884657018e3073daa4462aa64894e3] In subsection (12), at the appropriate places, insert—
+(10)[^c-6f67b1c1e80afa870c0252d84befc2ca][^c-bb884657018e3073daa4462aa64894e3] In subsection (12), at the appropriate places, insert—
 
 > - “**authorised NCA officer**” means a National Crime Agency officer authorised by the Director General (whether generally or specifically) for the purposes of this section;
 
@@ -85,9 +85,9 @@ summary: ''
 
 .
 
-(11)[^key-6f67b1c1e80afa870c0252d84befc2ca][^key-bb884657018e3073daa4462aa64894e3] In that subsection, in the definition of “relevant person”, in paragraph (a), for “other National Crime Agency officer” to the end substitute “authorised NCA officer,”.
+(11)[^c-6f67b1c1e80afa870c0252d84befc2ca][^c-bb884657018e3073daa4462aa64894e3] In that subsection, in the definition of “relevant person”, in paragraph (a), for “other National Crime Agency officer” to the end substitute “authorised NCA officer,”.
 
-(12)[^key-c2abf78e34e8c983f873c0f1491801b1] After section 339ZK of the Proceeds of Crime Act 2002 insert—
+(12)[^c-c2abf78e34e8c983f873c0f1491801b1] After section 339ZK of the Proceeds of Crime Act 2002 insert—
 
 > **339ZL. Code of practice about certain information orders**
 >
@@ -118,7 +118,7 @@ summary: ''
 >
 > (10) In this section “**authorised NCA officer**” has the meaning given in section 339ZH(12).
 
-(13)[^key-c2abf78e34e8c983f873c0f1491801b1] In section 459 of that Act (orders and regulations)—
+(13)[^c-c2abf78e34e8c983f873c0f1491801b1] In section 459 of that Act (orders and regulations)—
 
 - (a) in subsection (4), after paragraph (azaa) (inserted by section 182(7)(a) of this Act) insert—
 
@@ -129,7 +129,7 @@ summary: ''
 
   > (6ZBB) No regulations may be made by the Secretary of State under section 339ZL(5) unless a draft of the regulations has been laid before Parliament and approved by a resolution of each House.
 
-(14)[^key-6f67b1c1e80afa870c0252d84befc2ca][^key-bb884657018e3073daa4462aa64894e3] In consequence of further information orders being renamed information orders by this section, the following amendments are also made to that Act—
+(14)[^c-6f67b1c1e80afa870c0252d84befc2ca][^c-bb884657018e3073daa4462aa64894e3] In consequence of further information orders being renamed information orders by this section, the following amendments are also made to that Act—
 
 - (a) in the italic heading before section 339ZH for “Further information” substitute “Information”;
 - (b) in section 339ZI (statements), in subsection (1) for “a further” substitute “an”;
@@ -143,8 +143,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6f67b1c1e80afa870c0252d84befc2ca]: Commencement: S. 185(1)-(11)(14) in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-6f67b1c1e80afa870c0252d84befc2ca]: Commencement: S. 185(1)-(11)(14) in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-c2abf78e34e8c983f873c0f1491801b1]: Commencement: S. 185(12)(13) in force at Royal Assent, see [s. 219(1)(2)(h)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-c2abf78e34e8c983f873c0f1491801b1]: Commencement: S. 185(12)(13) in force at Royal Assent, see [s. 219(1)(2)(h)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-bb884657018e3073daa4462aa64894e3]: Commencement: [S. 185(1)-(11)](https://www.legislation.gov.uk/ukpga/2023/56/section/185/1)(14) in force at 26.4.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/d)
+[^c-bb884657018e3073daa4462aa64894e3]: Commencement: [S. 185(1)-(11)](https://www.legislation.gov.uk/ukpga/2023/56/section/185/1)(14) in force at 26.4.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/d)

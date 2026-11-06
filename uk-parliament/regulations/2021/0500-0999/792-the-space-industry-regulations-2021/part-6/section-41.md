@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Interpretation[^key-4074f1a18999f0d1f71b73039c2c080a]
+## 41. Interpretation[^c-4074f1a18999f0d1f71b73039c2c080a]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ In this Part—
 
 ## Annotations
 
-[^key-4074f1a18999f0d1f71b73039c2c080a]: Commencement: Reg. 41 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-4074f1a18999f0d1f71b73039c2c080a]: Commencement: Reg. 41 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00036]: Footnote: “**range control licence**” has the meaning given in section 7(2) of the Space Industry Act 2018.
 

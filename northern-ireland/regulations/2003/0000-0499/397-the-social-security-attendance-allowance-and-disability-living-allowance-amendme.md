@@ -31,7 +31,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security (Attendance Allowance and Disability Living Allowance) (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^key-f494cf50c904b0602910d515ce8db96a]
+The Social Security (Attendance Allowance and Disability Living Allowance) (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^c-f494cf50c904b0602910d515ce8db96a]
 
 Made
 
@@ -41,38 +41,38 @@ Coming into operation
 
 6th October 2003
 
-[^key-f494cf50c904b0602910d515ce8db96a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f494cf50c904b0602910d515ce8db96a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f494cf50c904b0602910d515ce8db96a]
+## 1. Citation and commencement[^c-f494cf50c904b0602910d515ce8db96a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Security (Attendance Allowance) Regulations[^key-f494cf50c904b0602910d515ce8db96a]
+## 2. Amendment of the Social Security (Attendance Allowance) Regulations[^c-f494cf50c904b0602910d515ce8db96a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Social Security (Disability Living Allowance) Regulations[^key-f494cf50c904b0602910d515ce8db96a]
+## 3. Amendment of the Social Security (Disability Living Allowance) Regulations[^c-f494cf50c904b0602910d515ce8db96a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocations[^key-f494cf50c904b0602910d515ce8db96a]
+## 4. Revocations[^c-f494cf50c904b0602910d515ce8db96a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f494cf50c904b0602910d515ce8db96a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f494cf50c904b0602910d515ce8db96a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — REGULATIONS REVOKED[^key-f494cf50c904b0602910d515ce8db96a]
+## SCHEDULE — REGULATIONS REVOKED[^c-f494cf50c904b0602910d515ce8db96a]
 
 Regulation 4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f494cf50c904b0602910d515ce8db96a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f494cf50c904b0602910d515ce8db96a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f494cf50c904b0602910d515ce8db96a]: Textual amendment: Regulations revoked (29.10.2007) by [The Social Security (Attendance Allowance and Disability Living Allowance) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/431)](https://www.legislation.gov.uk/nisr/2007/431), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/431/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2007/431/regulation/5), [Sch.](https://www.legislation.gov.uk/nisr/2007/431/schedule)
+[^c-f494cf50c904b0602910d515ce8db96a]: Textual amendment: Regulations revoked (29.10.2007) by [The Social Security (Attendance Allowance and Disability Living Allowance) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/431)](https://www.legislation.gov.uk/nisr/2007/431), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/431/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2007/431/regulation/5), [Sch.](https://www.legislation.gov.uk/nisr/2007/431/schedule)

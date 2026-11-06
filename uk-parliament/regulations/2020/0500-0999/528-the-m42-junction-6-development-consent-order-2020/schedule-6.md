@@ -22,7 +22,7 @@ summary: ''
 
 Article 17
 
-### PART 1 — STREETS TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-36aa9d654ad91e0cb447203878e50753]
+### PART 1 — STREETS TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-36aa9d654ad91e0cb447203878e50753]
 
 | *(1)*<br>*Street to be stopped up* | *(2)*<br>*Extent of stopping up* | *(3)*<br>*New street to be substituted or provided* |
 | --- | --- | --- |
@@ -31,14 +31,14 @@ Article 17
 | St Peters Lane Northern Junction | Existing section of public road, to be stopped up between points A/4 and A/14 shown on Sheet 3 of the Streets, Rights of Way and Access Plans. | Realigned Catherine-de-Barnes Lane and St Peters Lane Northern Junction between points A/9 and A/15 shown on Sheet 3 of the Streets, Rights of Way and Access Plans. |
 | M42 Junction 6 slip to<br>East Way | Existing section of public road, to be stopped up between points A/23 and A/24 and between points A/25 and A/26 shown on Sheet 5 of the Streets, Rights of Way and Access Plans. | East Way between points A/27 and A/28 and M42 Junction 6 slip to East way between points A/29 and A/30 shown on Sheets 5 and 6 of the Streets, Rights of Way and Access Plans. |
 
-### PART 2 — STREETS TO BE STOPPED UP AND FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-039656a5ab2161df7b92ca16d1e9f0d0]
+### PART 2 — STREETS TO BE STOPPED UP AND FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-039656a5ab2161df7b92ca16d1e9f0d0]
 
 | *(1)*<br>*Streets to be stopped up* | *(2)*<br>*Extent of stopping up* |
 | --- | --- |
 | B4438 Catherine-de-Barnes Lane to Clock Interchange | Existing section of public road, to be stopped up between points A/18 and A/19 shown on Sheet 4 of the Streets, Rights of Way and Access Plans. |
 | M42 Junction 6 slip to Middle Bickenhill Lane | Existing section of public road, to be stopped up between points A/20 and A/21 shown on Sheet 5 of the Streets, Rights of Way and Access Plans. |
 
-### PART 3 — PUBLIC RIGHTS OF WAY TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-b0edc273a5a7e4dd650c420b0a80e5b8]
+### PART 3 — PUBLIC RIGHTS OF WAY TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-b0edc273a5a7e4dd650c420b0a80e5b8]
 
 | *(1)*<br>*Public right of way to be stopped up* | *(2)*<br>*Extent of stopping up* | *(3)*<br>*New public right of way to be substituted or provided* |
 | --- | --- | --- |
@@ -57,14 +57,14 @@ Article 17
 | Public Right of Way west of Clock Interchange | Existing section of public footway, to be stopped up between points 4/4 and 4/9 shown on Sheet 4 of the Streets, Rights of Way and Access Plans. | East west connectivity between the A45 Coventry road and Airport way connector road to be provided between points 4/4, 4/5, 4/26, 4/8 and 4/9 shown on Sheet 4 of the Streets, Rights of Way and Access Plans. |
 | Public Right of Way east of M42 Junction 6 | Existing section of public Right of Way to be stopped up between points 5/7 and 5/8 shown on Sheet 5 of the Streets, Rights of Way and Access Plans. | A new Public Right of Way provided between points 5/7 and 5/8 shown on Sheet 5 of the Streets, Rights of Way and Access Plans. |
 
-### PART 4 — PUBLIC RIGHTS OF WAY TO BE STOPPED UP AND FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-f91dab518ef02eac68b1a870307f8634]
+### PART 4 — PUBLIC RIGHTS OF WAY TO BE STOPPED UP AND FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-f91dab518ef02eac68b1a870307f8634]
 
 | *(1)*<br>*Public right of way to be stopped up* | *(2)*<br>*Extent of stopping up* |
 | --- | --- |
 | Public Right of Way west and north west of M42 Junction 6 | Existing section of public footway, to be stopped up between points 4/12 and 5/1 shown on Sheets 4 and 5 of the Streets, Rights of Way and Access Plans. |
 | Public Right of Way east of M42 Junction 6 | Existing section of public footway, to be stopped up between points 5/4 and 5/2, and between points 5/2 and 5/6 shown on Sheet 5 of the Streets, Rights of Way and Access Plans. |
 
-### PART 5 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-6798634978f876fbad3d7a6a24122bc1]
+### PART 5 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-6798634978f876fbad3d7a6a24122bc1]
 
 | *(1)*<br>*Private means of access to be stopped up* | *(2)*<br>*Extent of stopping up* | *(3)*<br>*New private means of access to be substituted or provided* |
 | --- | --- | --- |
@@ -85,7 +85,7 @@ Article 17
 | Field Access (gate) off St Peters Lane providing access to land South of Clock Interchange and East of the mainline link road. | Field Access at point 3/53 to be stopped up shown on Sheet 3 of the Streets, Rights of Way and Access Plans. | A new Field Access to land is to be provided at point 3/20 shown on Sheet 3 of the Streets, Rights of Way and Access Plans. |
 | Field Access (gate) off the A45 Coventry road to the East of the Arden Hotel. | Field Access at point 4/20 to be stopped up shown on Sheet 4 of the Streets, Rights of Way and Access Plans. | A new Field Access is to be provided at point 4/21 shown on Sheet 4 of the Streets, Rights of Way and Access Plans. |
 
-### PART 6 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP AND FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-9e76e37d0364b25d7a47896573a777c0]
+### PART 6 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP AND FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-9e76e37d0364b25d7a47896573a777c0]
 
 | *(1)*<br>*Private means of access to be stopped up* | *(2)*<br>*Extent of stopping up* |
 | --- | --- |
@@ -95,7 +95,7 @@ Article 17
 | Private Means of Access off the M42 Junction 6 slip road to Middle Bickenhill Lane. | Private Means of Access off M42 Junction 6 slip road to Middle Bickenhill Lane at point 5/16 to be stopped up shown on Sheet 5 of the Streets, Rights of Way and Access Plans. Access to this commercial property to be maintained via existing Private Means of Access points 5/17 and 5/18 shown on Sheet 5 of the Streets, Rights of Way and Access Plans. |
 | Field Access (gate) (No. 1) off the existing B4438 Catherine-de-Barnes Lane providing access to land opposite Bracey’s Garden Centre to the west of Catherine-de-Barnes Lane. | Field Access at point 3/36 to be stopped up shown on Sheet 3 of the Streets, Right of Way and Access Plans. |
 
-### PART 7 — ALTERATIONS TO PRIVATE MEANS OF ACCESS[^key-5387566bc8b1ea47864b24c7593d3b00]
+### PART 7 — ALTERATIONS TO PRIVATE MEANS OF ACCESS[^c-5387566bc8b1ea47864b24c7593d3b00]
 
 | *(1)*<br>*Private means of access to be altered* | *(2)*<br>*Extent of alteration* |
 | --- | --- |
@@ -116,16 +116,16 @@ Article 17
 
 ## Annotations
 
-[^key-36aa9d654ad91e0cb447203878e50753]: Commencement: Sch. 6 Pt. 1 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-36aa9d654ad91e0cb447203878e50753]: Commencement: Sch. 6 Pt. 1 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-039656a5ab2161df7b92ca16d1e9f0d0]: Commencement: Sch. 6 Pt. 2 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-039656a5ab2161df7b92ca16d1e9f0d0]: Commencement: Sch. 6 Pt. 2 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-b0edc273a5a7e4dd650c420b0a80e5b8]: Commencement: Sch. 6 Pt. 3 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-b0edc273a5a7e4dd650c420b0a80e5b8]: Commencement: Sch. 6 Pt. 3 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-f91dab518ef02eac68b1a870307f8634]: Commencement: Sch. 6 Pt. 4 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-f91dab518ef02eac68b1a870307f8634]: Commencement: Sch. 6 Pt. 4 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-6798634978f876fbad3d7a6a24122bc1]: Commencement: Sch. 6 Pt. 5 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-6798634978f876fbad3d7a6a24122bc1]: Commencement: Sch. 6 Pt. 5 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-9e76e37d0364b25d7a47896573a777c0]: Commencement: Sch. 6 Pt. 6 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-9e76e37d0364b25d7a47896573a777c0]: Commencement: Sch. 6 Pt. 6 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-5387566bc8b1ea47864b24c7593d3b00]: Commencement: Sch. 6 Pt. 7 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-5387566bc8b1ea47864b24c7593d3b00]: Commencement: Sch. 6 Pt. 7 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)

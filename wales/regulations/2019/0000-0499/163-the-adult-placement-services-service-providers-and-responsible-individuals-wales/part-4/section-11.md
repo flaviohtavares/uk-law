@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Carer agreement[^key-455000171647cb01661d358c478f73b8]
+## 11. Carer agreement[^c-455000171647cb01661d358c478f73b8]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-455000171647cb01661d358c478f73b8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2019/163/regulation/11) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-455000171647cb01661d358c478f73b8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2019/163/regulation/11) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)

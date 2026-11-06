@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 339. Breach of order[^key-1b7612e01385d6098d0071788d295f9a]
+## 339. Breach of order[^c-1b7612e01385d6098d0071788d295f9a]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) A person guilty of an offence under this section is liable—
 
-- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-da4a825bad5dfb870716d7687c771d42], or a fine, or both;
+- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-da4a825bad5dfb870716d7687c771d42], or a fine, or both;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 5 years, or a fine, or both.
 
 (3) If a person is convicted of an offence under this section, an order for conditional discharge under section 80 is not available to the court by or before which the person is convicted.
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1b7612e01385d6098d0071788d295f9a]: Commencement: S. 339 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-1b7612e01385d6098d0071788d295f9a]: Commencement: S. 339 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-da4a825bad5dfb870716d7687c771d42]: Textual amendment: Words in s. 339(2)(a) substituted (29.6.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/15/1), [18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2) (with [s. 15(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/15/2))
+[^c-da4a825bad5dfb870716d7687c771d42]: Textual amendment: Words in s. 339(2)(a) substituted (29.6.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/15/1), [18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2) (with [s. 15(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/15/2))

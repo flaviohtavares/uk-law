@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Amendment of Regulation (EU) 2016/426 and the Gas Appliances (Enforcement) and Miscellaneous Amendments Regulations 2018[^key-4bc9209e82e9e68989bcfd3c1bbdfa2b]
+## 39. Amendment of Regulation (EU) 2016/426 and the Gas Appliances (Enforcement) and Miscellaneous Amendments Regulations 2018[^c-4bc9209e82e9e68989bcfd3c1bbdfa2b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 36 contains amendment of Regulation (EU) 2016/426 of the European Parli
 
 ## Annotations
 
-[^key-4bc9209e82e9e68989bcfd3c1bbdfa2b]: Commencement: Reg. 39 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-4bc9209e82e9e68989bcfd3c1bbdfa2b]: Commencement: Reg. 39 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c24326351]: Marginal citation: [S.I. 2018/389](https://www.legislation.gov.uk/uksi/2018/389); they were made in part under section 2(2) of the European Communities Act 1972 and are accordingly saved by virtue of section 2(2)(a) of the European Union (Withdrawal) Act 2018.

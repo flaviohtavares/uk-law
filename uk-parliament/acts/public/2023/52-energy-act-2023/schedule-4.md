@@ -22,7 +22,7 @@ summary: ''
 
 Section 52
 
-### 1. Application and commencement of scheme[^key-4928aa2076a40ecd8907d566facddeb1]
+### 1. Application and commencement of scheme[^c-4928aa2076a40ecd8907d566facddeb1]
 
 (1) A scheme may set out the property, rights and liabilities to be transferred in one or more of the following ways—
 
@@ -32,7 +32,7 @@ Section 52
 
 (2) A scheme comes into force on the date appointed by the scheme.
 
-### 2. Property, rights and liabilities that may be transferred[^key-e42987d39f92cf39b8cc12f7f50253d1]
+### 2. Property, rights and liabilities that may be transferred[^c-e42987d39f92cf39b8cc12f7f50253d1]
 
 (1) The property, rights and liabilities that may be transferred by a scheme include—
 
@@ -70,7 +70,7 @@ to the extent only that the scheme provides for it to be so enforceable.
 - (a) as if the reference in sub-paragraph (3) to the terms on which the transferor is entitled or subject to anything to which the transfer relates included a reference to the terms on which the subsidiary is entitled or subject to anything immediately before the transfer takes effect, and
 - (b) as if the reference in sub-paragraph (4) to the transferor included a reference to the subsidiary.
 
-### 3. Dividing and modifying transferor’s property, rights and liabilities[^key-6195682d59c4ee45af0328618289b933]
+### 3. Dividing and modifying transferor’s property, rights and liabilities[^c-6195682d59c4ee45af0328618289b933]
 
 (1) A scheme may contain provision—
 
@@ -91,7 +91,7 @@ to the extent only that the scheme provides for it to be so enforceable.
 
 (6) Paragraph 2(2) and (3) applies to the creation of interests and rights in accordance with a scheme as it applies to the transfer of interests and rights.
 
-### 4. Obligation to effect transfers etc. under a scheme[^key-e4f7a537e3e37840267b8cc4cf50b16c]
+### 4. Obligation to effect transfers etc. under a scheme[^c-e4f7a537e3e37840267b8cc4cf50b16c]
 
 (1) A scheme may contain provision for imposing on a transferee or a transferor an obligation—
 
@@ -108,7 +108,7 @@ as may be specified or described in the scheme.
 
 (3) The relevant person for the purposes of sub-paragraph (2) is the person with, or in favour of whom, the agreement or instrument is to be entered into or executed.
 
-### 5. Transfer of licences and permits[^key-4e8d05669b23fd6a63735bf043f4564d]
+### 5. Transfer of licences and permits[^c-4e8d05669b23fd6a63735bf043f4564d]
 
 (1) A scheme may include provision to transfer any licence or permit held by the transferor from the transferor to the transferee.
 
@@ -126,7 +126,7 @@ as may be specified or described in the scheme.
 - (a) a part of the activities authorised by the licence or (as the case may be) permit;
 - (b) a part of the area in relation to which the holder of the licence or (as the case may be) permit is authorised to carry on those activities.
 
-### 6. Powers and duties under statutory provisions[^key-846687fcefe02c5cd6529325bf171028]
+### 6. Powers and duties under statutory provisions[^c-846687fcefe02c5cd6529325bf171028]
 
 (1) A scheme may contain provision for some or all of the powers and duties to which this paragraph applies—
 
@@ -143,7 +143,7 @@ as may be specified or described in the scheme.
 
 (4) The powers and duties mentioned in sub-paragraph (3) include, in particular, powers and duties relating to the carrying out of works or the acquisition of land.
 
-### 7. Effect of scheme[^key-058f40f368efd9b9d26906ec811940bb]
+### 7. Effect of scheme[^c-058f40f368efd9b9d26906ec811940bb]
 
 (1) Where a scheme provides for the transfer of property, rights or liabilities, or for the creation of interests, rights or liabilities—
 
@@ -159,7 +159,7 @@ to be effected by or under an agreement or instrument entered into or executed i
 
 (3) In its application to Scotland, sub-paragraph (1) has effect with the omission of the words “without further assurance”.
 
-### 8. Supplementary provisions of schemes[^key-3055bcbd06b454d02f99db0634ede7f0]
+### 8. Supplementary provisions of schemes[^c-3055bcbd06b454d02f99db0634ede7f0]
 
 (1) A scheme may—
 
@@ -190,7 +190,7 @@ to be effected by or under an agreement or instrument entered into or executed i
 
 (7) In this paragraph references to a transfer in accordance with a scheme include references to the creation in accordance with such a scheme of an interest, right or liability.
 
-### 9. Modification of scheme[^key-97f47cbc7c97378ff6a634bcb1b9e3df]
+### 9. Modification of scheme[^c-97f47cbc7c97378ff6a634bcb1b9e3df]
 
 (1) The Secretary of State may modify a scheme.
 
@@ -204,7 +204,7 @@ to be effected by or under an agreement or instrument entered into or executed i
 
 (4) A modification takes effect from such date as the Secretary of State may specify (which may be the date when the original scheme came into effect).
 
-### 10. Compensation for third parties[^key-50f8e2fbef93257639cab3ab67312a44]
+### 10. Compensation for third parties[^c-50f8e2fbef93257639cab3ab67312a44]
 
 (1) Where—
 
@@ -222,7 +222,7 @@ the third party is entitled to compensation in respect of the extinguishment of 
 
 (5) This paragraph has effect in relation to the provisions of an agreement or instrument entered into or executed in pursuance of an obligation imposed by a scheme as it has effect in relation to the scheme.
 
-### 11. Provision relating to foreign property etc[^key-86b9f5c6406ca07adf9b733d6bbe6444]
+### 11. Provision relating to foreign property etc[^c-86b9f5c6406ca07adf9b733d6bbe6444]
 
 (1) Where there is a transfer in accordance with a scheme of—
 
@@ -255,7 +255,7 @@ the property, right or liability acquired or incurred immediately becomes the pr
 
 (9) An obligation imposed under this paragraph in relation to property, rights or liabilities is to be enforceable as if contained in a contract between the transferor and the transferee.
 
-### 12. Provision of information to Secretary of State[^key-8b0ea7299223cafeb221b40fef019f38]
+### 12. Provision of information to Secretary of State[^c-8b0ea7299223cafeb221b40fef019f38]
 
 (1) If the Secretary of State proposes to make a scheme, the Secretary of State may direct—
 
@@ -310,7 +310,7 @@ to provide the Secretary of State with such information as the Secretary of Stat
 - (b) in Scotland, the Court of Session;
 - (c) in Northern Ireland, the High Court.
 
-### 13. Interpretation[^key-091b693cbd0a1b765a836727e8013d76]
+### 13. Interpretation[^c-091b693cbd0a1b765a836727e8013d76]
 
 (1) In this Schedule—
 
@@ -328,28 +328,28 @@ to provide the Secretary of State with such information as the Secretary of Stat
 
 ## Annotations
 
-[^key-4928aa2076a40ecd8907d566facddeb1]: Commencement: Sch. 4 para. 1 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-4928aa2076a40ecd8907d566facddeb1]: Commencement: Sch. 4 para. 1 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-e42987d39f92cf39b8cc12f7f50253d1]: Commencement: Sch. 4 para. 2 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-e42987d39f92cf39b8cc12f7f50253d1]: Commencement: Sch. 4 para. 2 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-6195682d59c4ee45af0328618289b933]: Commencement: Sch. 4 para. 3 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-6195682d59c4ee45af0328618289b933]: Commencement: Sch. 4 para. 3 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-e4f7a537e3e37840267b8cc4cf50b16c]: Commencement: Sch. 4 para. 4 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-e4f7a537e3e37840267b8cc4cf50b16c]: Commencement: Sch. 4 para. 4 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-4e8d05669b23fd6a63735bf043f4564d]: Commencement: Sch. 4 para. 5 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-4e8d05669b23fd6a63735bf043f4564d]: Commencement: Sch. 4 para. 5 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-846687fcefe02c5cd6529325bf171028]: Commencement: Sch. 4 para. 6 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-846687fcefe02c5cd6529325bf171028]: Commencement: Sch. 4 para. 6 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-058f40f368efd9b9d26906ec811940bb]: Commencement: Sch. 4 para. 7 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-058f40f368efd9b9d26906ec811940bb]: Commencement: Sch. 4 para. 7 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-3055bcbd06b454d02f99db0634ede7f0]: Commencement: Sch. 4 para. 8 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-3055bcbd06b454d02f99db0634ede7f0]: Commencement: Sch. 4 para. 8 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-97f47cbc7c97378ff6a634bcb1b9e3df]: Commencement: Sch. 4 para. 9 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-97f47cbc7c97378ff6a634bcb1b9e3df]: Commencement: Sch. 4 para. 9 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-50f8e2fbef93257639cab3ab67312a44]: Commencement: Sch. 4 para. 10 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-50f8e2fbef93257639cab3ab67312a44]: Commencement: Sch. 4 para. 10 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-86b9f5c6406ca07adf9b733d6bbe6444]: Commencement: Sch. 4 para. 11 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-86b9f5c6406ca07adf9b733d6bbe6444]: Commencement: Sch. 4 para. 11 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-8b0ea7299223cafeb221b40fef019f38]: Commencement: Sch. 4 para. 12 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-8b0ea7299223cafeb221b40fef019f38]: Commencement: Sch. 4 para. 12 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-091b693cbd0a1b765a836727e8013d76]: Commencement: Sch. 4 para. 13 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-091b693cbd0a1b765a836727e8013d76]: Commencement: Sch. 4 para. 13 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

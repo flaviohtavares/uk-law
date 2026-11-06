@@ -30,12 +30,12 @@ summary: ''
 
 (3) Subsection (2) above shall not apply to the supply or offer of a staple commercial product unless the supply or the offer is made for the purpose of inducing the person supplied or, as the case may be, the person to whom the offer is made to do an act which constitutes an infringement of the patent by virtue of subsection (1) above.
 
-(3A)[^key-643298654d80faeae3c826ae313dc276] Subsections (1) and (2) shall not apply to an act done in relation to a product that is subject to a patent where the product has been put on the market in the United Kingdom or the European Economic Area by or with the consent of the proprietor of the patent unless—
+(3A)[^c-643298654d80faeae3c826ae313dc276] Subsections (1) and (2) shall not apply to an act done in relation to a product that is subject to a patent where the product has been put on the market in the United Kingdom or the European Economic Area by or with the consent of the proprietor of the patent unless—
 
 - (a) there exist legitimate reasons for the proprietor of the patent to oppose the act for the purpose of protecting the proprietor’s property, and
 - (b) the opposition to the act interferes with the rights of any other person no more than is necessary to achieve that purpose.
 
-(4)[^key-983460d34980f282f0b9e80974710c3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-983460d34980f282f0b9e80974710c3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) An act which, apart from this subsection, would constitute an infringement of a patent for an invention shall not do so if—
 
@@ -47,16 +47,16 @@ summary: ''
 - (f) it consists of the use of an exempted aircraft which has lawfully entered or is lawfully crossing the United Kingdom as aforesaid or of the importation into the United Kingdom, or the use or storage there, of any part or accessory for such an aircraft.
 - (g)[^c8020871] it consists of the use by a farmer of the product of his harvest for propagation or multiplication by him on his own holding, where there has been a sale of plant propagating material to the farmer by the proprietor of the patent or with his consent for agricultural use;
 - (h) it consists of the use of an animal or animal reproductive material by a farmer for an agricultural purpose following a sale to the farmer, by the proprietor of the patent or with his consent, of breeding stock or other animal reproductive material which constitutes or contains the patented invention.
-- (i)[^key-e3cb721c0abbe241b5556a656e439939] it consists of—
+- (i)[^c-e3cb721c0abbe241b5556a656e439939] it consists of—
   - (i) an act done in conducting a study, test or trial which is necessary for and is conducted with a view to the application of paragraphs 1 to 5 of article 13 of Directive [2001/82/EC](https://www.legislation.gov.uk/european/directive/2001/0082) or paragraphs 1 to 4 of article 10 of Directive [2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083), or
   - (ii) any other act which is required for the purpose of the application of those paragraphs.
-- (j)[^key-b2a0a9dc440ae0dae886fff260444965] it consists of a use referred to in Article 27(c) of the Agreement on a Unified Patent Court;
+- (j)[^c-b2a0a9dc440ae0dae886fff260444965] it consists of a use referred to in Article 27(c) of the Agreement on a Unified Patent Court;
 - (k) subject to subsection (6H), it consists of an act or use referred to in Article 27(k) of the Agreement on a Unified Patent Court.
 
 (6) For the purposes of subsection (2) above a person who does an act in relation to an invention which is prevented only by virtue of paragraph (a), (b) or (c) of subsection (5) above from constituting an infringement of a patent for the invention shall not be treated as a person entitled to work the invention, but—
 
 - (a) the reference in that subsection to a person entitled to work an invention includes a reference to a person so entitled by virtue of section 55 above, and
-- (b) a person who by virtue of section 20B(4) or (5) above or[^key-6fa76b11c8534740c5a5ad97028e9e50] section 28A(4) or (5)[^c8020881] above or section 64 below or section 117A(4) or (5) below[^key-aef831489d68faa7980dd3fca174ffa9] is entitled to do an act in relation to the invention without it constituting such an infringement shall, so far as concerns that act, be treated as a person entitled to work the invention.
+- (b) a person who by virtue of section 20B(4) or (5) above or[^c-6fa76b11c8534740c5a5ad97028e9e50] section 28A(4) or (5)[^c8020881] above or section 64 below or section 117A(4) or (5) below[^c-aef831489d68faa7980dd3fca174ffa9] is entitled to do an act in relation to the invention without it constituting such an infringement shall, so far as concerns that act, be treated as a person entitled to work the invention.
 
 (6A)[^c8020891] Schedule A1 contains—
 
@@ -90,44 +90,44 @@ summary: ''
 
 (6G) Nothing in subsections (6D) to (6F) is to be read as affecting the application of subsection (5)(b) in relation to any act of a kind not falling within subsection (6D).
 
-(6H)[^key-df2a0c7ef3de5e9ec3790f01cbefa681] Subsection 5(k) applies to an act or use in relation to a European patent (UK) or a European patent with unitary effect, but does not apply to an act or use in relation to a patent granted by the comptroller.
+(6H)[^c-df2a0c7ef3de5e9ec3790f01cbefa681] Subsection 5(k) applies to an act or use in relation to a European patent (UK) or a European patent with unitary effect, but does not apply to an act or use in relation to a patent granted by the comptroller.
 
 (7) In this section—
 
 - “**relevant ship**” and “**relevant aircraft, hovercraft or vehicle**” mean respectively a ship and an aircraft, hovercraft or vehicle registered in, or belonging to, any country, other than the United Kingdom, which is a party to the Convention for the Protection of Industrial Property signed at Paris on 20th March 1883 or which is a member of the World Trade Organisation[^c8020901]; and
 - “**exempted aircraft**” means an aircraft to which section 89 of the Civil Aviation Act 1982[^c8020911] (aircraft exempted from seizure in respect of patent claims) applies.
 
-- “Directive[^key-29528d3f115fdda3d71278bb8d6a3e7f] [2001/82/EC](https://www.legislation.gov.uk/european/directive/2001/0082)” means Directive [2001/82/EC](https://www.legislation.gov.uk/european/directive/2001/0082) of the European Parliament and of the Council on the Community code relating to veterinary medicinal products as amended by Directive[^key-d7f9ff62b7c2551c175e32ca422b9253] [2004/28/EC](https://www.legislation.gov.uk/european/directive/2004/0028) of the European Parliament and of the Council;
+- “Directive[^c-29528d3f115fdda3d71278bb8d6a3e7f] [2001/82/EC](https://www.legislation.gov.uk/european/directive/2001/0082)” means Directive [2001/82/EC](https://www.legislation.gov.uk/european/directive/2001/0082) of the European Parliament and of the Council on the Community code relating to veterinary medicinal products as amended by Directive[^c-d7f9ff62b7c2551c175e32ca422b9253] [2004/28/EC](https://www.legislation.gov.uk/european/directive/2004/0028) of the European Parliament and of the Council;
 - “Directive [2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083)” means Directive [2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083) of the European Parliament and of the Council on the Community code relating to medicinal products for human use, as amended by Directive [2002/98/EC](https://www.legislation.gov.uk/european/directive/2002/0098) of the European Parliament and of the Council, by Commission Directive [2003/63/EC](https://www.legislation.gov.uk/european/directive/2003/0063) and by Directives [2004/24/EC](https://www.legislation.gov.uk/european/directive/2004/0024) and [2004/27/EC](https://www.legislation.gov.uk/european/directive/2004/0027) of the European Parliament and of the Council
 
 ## Annotations
 
-[^key-643298654d80faeae3c826ae313dc276]: Textual amendment: [S. 60(3A)](https://www.legislation.gov.uk/ukpga/1977/37/section/60/3A) inserted (31.12.2023 immediately before the end of 2023) by [The Intellectual Property (Exhaustion of Rights) (Amendment) Regulations 2023 (S.I. 2023/1287)](https://www.legislation.gov.uk/uksi/2023/1287), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/1287/regulation/1/b), [3](https://www.legislation.gov.uk/uksi/2023/1287/regulation/3)
+[^c-643298654d80faeae3c826ae313dc276]: Textual amendment: [S. 60(3A)](https://www.legislation.gov.uk/ukpga/1977/37/section/60/3A) inserted (31.12.2023 immediately before the end of 2023) by [The Intellectual Property (Exhaustion of Rights) (Amendment) Regulations 2023 (S.I. 2023/1287)](https://www.legislation.gov.uk/uksi/2023/1287), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/1287/regulation/1/b), [3](https://www.legislation.gov.uk/uksi/2023/1287/regulation/3)
 
-[^key-983460d34980f282f0b9e80974710c3f]: Textual amendment: S. 60(4) repealed (1.1.2005) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [s. 17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/13), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/16/schedule/3); [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(g)(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/g/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-983460d34980f282f0b9e80974710c3f]: Textual amendment: S. 60(4) repealed (1.1.2005) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [s. 17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/13), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/16/schedule/3); [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(g)(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/g/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
 [^c8020871]: Textual amendment: S. 60(5)(g)(h) inserted (28.7.2000) by [S.I. 2000/2037](https://www.legislation.gov.uk/uksi/2000/2037), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2000/2037/regulation/4/a)
 
-[^key-e3cb721c0abbe241b5556a656e439939]: Textual amendment: S. 60(5)(i) inserted (30.10.2005) by [Medicines (Marketing Authorisations Etc.) Amendment Regulations 2005 (S.I. 2005/2759)](https://www.legislation.gov.uk/uksi/2005/2759), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2005/2759/regulation/1/a), [3(a)](https://www.legislation.gov.uk/uksi/2005/2759/regulation/3/a)
+[^c-e3cb721c0abbe241b5556a656e439939]: Textual amendment: S. 60(5)(i) inserted (30.10.2005) by [Medicines (Marketing Authorisations Etc.) Amendment Regulations 2005 (S.I. 2005/2759)](https://www.legislation.gov.uk/uksi/2005/2759), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2005/2759/regulation/1/a), [3(a)](https://www.legislation.gov.uk/uksi/2005/2759/regulation/3/a)
 
-[^key-b2a0a9dc440ae0dae886fff260444965]: Textual amendment: S. 60(5)(j)(k) inserted (coming into force in accordance with art. 1(2)) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) Order 2016 (S.I. 2016/388)](https://www.legislation.gov.uk/uksi/2016/388), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/388/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2016/388/article/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/388/article/3))
+[^c-b2a0a9dc440ae0dae886fff260444965]: Textual amendment: S. 60(5)(j)(k) inserted (coming into force in accordance with art. 1(2)) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) Order 2016 (S.I. 2016/388)](https://www.legislation.gov.uk/uksi/2016/388), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/388/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2016/388/article/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/388/article/3))
 
-[^key-6fa76b11c8534740c5a5ad97028e9e50]: Textual amendment: Words in s. 60(6)(b) inserted (1.1.2005) by [The Regulatory Reform (Patents) Order 2004 (S.I. 2004/2357)](https://www.legislation.gov.uk/uksi/2004/2357), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2357/article/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2004/2357/article/11/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2004/2357/article/20))
+[^c-6fa76b11c8534740c5a5ad97028e9e50]: Textual amendment: Words in s. 60(6)(b) inserted (1.1.2005) by [The Regulatory Reform (Patents) Order 2004 (S.I. 2004/2357)](https://www.legislation.gov.uk/uksi/2004/2357), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2357/article/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2004/2357/article/11/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2004/2357/article/20))
 
 [^c8020881]: Textual amendment: Words substituted by [Copyright, Designs and Patents Act 1988 (c. 48, SIF 67A)](https://www.legislation.gov.uk/ukpga/1988/48), [s. 295](https://www.legislation.gov.uk/ukpga/1988/48/section/295), [Sch. 5 para. 8(a)](https://www.legislation.gov.uk/ukpga/1988/48/schedule/5/paragraph/8/a)
 
-[^key-aef831489d68faa7980dd3fca174ffa9]: Textual amendment: Words in s. 60(6)(b) inserted (1.1.2005) by [The Regulatory Reform (Patents) Order 2004 (S.I. 2004/2357)](https://www.legislation.gov.uk/uksi/2004/2357), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2357/article/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2004/2357/article/11/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2004/2357/article/20))
+[^c-aef831489d68faa7980dd3fca174ffa9]: Textual amendment: Words in s. 60(6)(b) inserted (1.1.2005) by [The Regulatory Reform (Patents) Order 2004 (S.I. 2004/2357)](https://www.legislation.gov.uk/uksi/2004/2357), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2357/article/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2004/2357/article/11/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2004/2357/article/20))
 
 [^c8020891]: Textual amendment: S. 60(6A)(6B)(6C) inserted (28.7.2000) by [S.I. 2000/2037](https://www.legislation.gov.uk/uksi/2000/2037), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2000/2037/regulation/4/b)
 
 [^M_F_076f7aef-3dba-40d4-c90b-5cd2a5219131]: Textual amendment: S. 60(6D)-(6G) inserted (1.10.2014) by [The Legislative Reform (Patents) Order 2014 (S.I. 2014/1997)](https://www.legislation.gov.uk/uksi/2014/1997), arts. 1(2), 2
 
-[^key-df2a0c7ef3de5e9ec3790f01cbefa681]: Textual amendment: S. 60(6H) inserted (coming into force in accordance with art. 1(2)) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) Order 2016 (S.I. 2016/388)](https://www.legislation.gov.uk/uksi/2016/388), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/388/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2016/388/article/2/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/388/article/3))
+[^c-df2a0c7ef3de5e9ec3790f01cbefa681]: Textual amendment: S. 60(6H) inserted (coming into force in accordance with art. 1(2)) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) Order 2016 (S.I. 2016/388)](https://www.legislation.gov.uk/uksi/2016/388), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/388/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2016/388/article/2/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/388/article/3))
 
 [^c8020901]: Textual amendment: Words in s. 60(7) in the definition of “relevant ship” and “relevant aircraft, hovercraft or vehicle” inserted (29.7.1999) by virtue of [S.I. 1999/1899](https://www.legislation.gov.uk/uksi/1999/1899), [reg. 7](https://www.legislation.gov.uk/uksi/1999/1899/regulation/7)
 
 [^c8020911]: Textual amendment: Words substituted by [Civil Aviation Act 1982 (c. 16, SIF 9)](https://www.legislation.gov.uk/ukpga/1982/16), [s. 109](https://www.legislation.gov.uk/ukpga/1982/16/section/109), [Sch. 15 para. 19](https://www.legislation.gov.uk/ukpga/1982/16/schedule/15/paragraph/19)
 
-[^key-29528d3f115fdda3d71278bb8d6a3e7f]: Textual amendment: Words in s. 60(7) inserted (30.10.2005) by [Medicines (Marketing Authorisations Etc.) Amendment Regulations 2005 (S.I. 2005/2759)](https://www.legislation.gov.uk/uksi/2005/2759), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2005/2759/regulation/1/a), [3(b)](https://www.legislation.gov.uk/uksi/2005/2759/regulation/3/b)
+[^c-29528d3f115fdda3d71278bb8d6a3e7f]: Textual amendment: Words in s. 60(7) inserted (30.10.2005) by [Medicines (Marketing Authorisations Etc.) Amendment Regulations 2005 (S.I. 2005/2759)](https://www.legislation.gov.uk/uksi/2005/2759), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2005/2759/regulation/1/a), [3(b)](https://www.legislation.gov.uk/uksi/2005/2759/regulation/3/b)
 
-[^key-d7f9ff62b7c2551c175e32ca422b9253]: Textual amendment: Words in s. 60(7) substituted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1), [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2014/18/schedule/paragraph/5); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-d7f9ff62b7c2551c175e32ca422b9253]: Textual amendment: Words in s. 60(7) substituted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1), [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2014/18/schedule/paragraph/5); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)

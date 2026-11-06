@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 179. Extraction of online information following agreement etc[^key-8a6cbd4cabe4022904f2926b1f23fc4e]
+## 179. Extraction of online information following agreement etc[^c-8a6cbd4cabe4022904f2926b1f23fc4e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Schedule 19 amends Chapter 3 of Part 2 of the Police, Crime, Sentencing and Cour
 
 ## Annotations
 
-[^key-8a6cbd4cabe4022904f2926b1f23fc4e]: Commencement: S. 179 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-8a6cbd4cabe4022904f2926b1f23fc4e]: Commencement: S. 179 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28G. Variations: revision and supersession.[^key-02bf5e6bce15dae6fdf6f33aa599646f]
+## 28G. Variations: revision and supersession.[^c-02bf5e6bce15dae6fdf6f33aa599646f]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ to apply with prescribed modifications in relation to such applications.
 
 ## Annotations
 
-[^key-02bf5e6bce15dae6fdf6f33aa599646f]: Textual amendment: S. 28G substituted (10.11.2000 for specified purposes, 1.1.2001 for specified purposes, 3.3.2003 for specified purposes) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [ss. 7](https://www.legislation.gov.uk/ukpga/2000/19/section/7), [86(1)(a)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/a)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/2) (with [ss. 28](https://www.legislation.gov.uk/ukpga/2000/19/section/28), [83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2000/2994](https://www.legislation.gov.uk/uksi/2000/2994), [art. 2](https://www.legislation.gov.uk/uksi/2000/2994/article/2), [Sch. Pts. 1, 2](https://www.legislation.gov.uk/uksi/2000/2994/schedule); [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192), [art. 3](https://www.legislation.gov.uk/uksi/2003/192/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2003/192/schedule)
+[^c-02bf5e6bce15dae6fdf6f33aa599646f]: Textual amendment: S. 28G substituted (10.11.2000 for specified purposes, 1.1.2001 for specified purposes, 3.3.2003 for specified purposes) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [ss. 7](https://www.legislation.gov.uk/ukpga/2000/19/section/7), [86(1)(a)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/a)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/2) (with [ss. 28](https://www.legislation.gov.uk/ukpga/2000/19/section/28), [83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2000/2994](https://www.legislation.gov.uk/uksi/2000/2994), [art. 2](https://www.legislation.gov.uk/uksi/2000/2994/article/2), [Sch. Pts. 1, 2](https://www.legislation.gov.uk/uksi/2000/2994/schedule); [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192), [art. 3](https://www.legislation.gov.uk/uksi/2003/192/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2003/192/schedule)

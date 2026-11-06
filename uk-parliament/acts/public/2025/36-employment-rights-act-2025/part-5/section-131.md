@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Warrants[^key-ac645a4bf92e5e1e3990b5d6bc7956bc][^key-2a3b58dda98e680da24e9e7a7d476e39]
+## 131. Warrants[^c-ac645a4bf92e5e1e3990b5d6bc7956bc][^c-2a3b58dda98e680da24e9e7a7d476e39]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ac645a4bf92e5e1e3990b5d6bc7956bc]: Commencement: S. 131 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-ac645a4bf92e5e1e3990b5d6bc7956bc]: Commencement: S. 131 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-2a3b58dda98e680da24e9e7a7d476e39]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2025/36/section/131) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(32)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/32)
+[^c-2a3b58dda98e680da24e9e7a7d476e39]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2025/36/section/131) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(32)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/32)

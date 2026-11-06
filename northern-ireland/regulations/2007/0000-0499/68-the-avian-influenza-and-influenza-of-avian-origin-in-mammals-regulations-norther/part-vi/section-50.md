@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50. Measures on special category premises[^key-99666948b31c80bdb384ee6b4b1cabea]
+## 50. Measures on special category premises[^c-99666948b31c80bdb384ee6b4b1cabea]
 
 *Extent: N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
   - (ii) isolated (if so directed by an inspector on the basis that housing is impractical or would adversely affect the welfare of the birds to a significant degree);
 - (b) poultry or other captive birds are not moved from the premises except—
   - (i) to a designated slaughterhouse or other premises under and in accordance with the conditions of a licence granted by the Department, or
-  - (ii) to a designated slaughterhouse in a[^key-ab7263fe691f6dc856c01fcb5582e260] member State, or other premises in a member State, if the movement is under and in accordance with the conditions of a licence granted by the Department and is authorised by the competent authority of that member State.
+  - (ii) to a designated slaughterhouse in a[^c-ab7263fe691f6dc856c01fcb5582e260] member State, or other premises in a member State, if the movement is under and in accordance with the conditions of a licence granted by the Department and is authorised by the competent authority of that member State.
 
 (2) The occupier of the premises must take all reasonable steps to minimise contact between birds isolated under paragraph (1)(a)(ii) and wild birds.
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-99666948b31c80bdb384ee6b4b1cabea]: Commencement: Reg. 50 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-99666948b31c80bdb384ee6b4b1cabea]: Commencement: Reg. 50 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
 
-[^key-ab7263fe691f6dc856c01fcb5582e260]: Textual amendment: Word in [reg. 50(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2007/68/regulation/50/1/b/ii) substituted (31.12.2020) by [The Exotic Disease (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/111)](https://www.legislation.gov.uk/uksi/2019/111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/111/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2019/111/regulation/6/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ab7263fe691f6dc856c01fcb5582e260]: Textual amendment: Word in [reg. 50(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2007/68/regulation/50/1/b/ii) substituted (31.12.2020) by [The Exotic Disease (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/111)](https://www.legislation.gov.uk/uksi/2019/111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/111/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2019/111/regulation/6/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

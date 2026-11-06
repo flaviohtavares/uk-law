@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 72A. Transitional provision in relation to EU Exit[^key-2ea812e3a359ebd5df4cc1834a9c71b2]
+## 72A. Transitional provision in relation to EU Exit[^c-2ea812e3a359ebd5df4cc1834a9c71b2]
 
 *Extent: E+W+S*
 
@@ -31,14 +31,14 @@ summary: ''
 - (a) any obligation of any enforcing authority to inform the European Commission or the member States of any matter; or
 - (b) any obligation to take action outside of the market in respect of that product.
 
-(4)[^key-115ad6b668b2800a8a27f1c2e87e42bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-115ad6b668b2800a8a27f1c2e87e42bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-115ad6b668b2800a8a27f1c2e87e42bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-115ad6b668b2800a8a27f1c2e87e42bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-115ad6b668b2800a8a27f1c2e87e42bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-115ad6b668b2800a8a27f1c2e87e42bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2ea812e3a359ebd5df4cc1834a9c71b2]: Textual amendment: Reg. 72A inserted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 25 para. 34](https://www.legislation.gov.uk/uksi/2019/696/schedule/25/paragraph/34) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(n)(vi)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/n/vi))
+[^c-2ea812e3a359ebd5df4cc1834a9c71b2]: Textual amendment: Reg. 72A inserted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 25 para. 34](https://www.legislation.gov.uk/uksi/2019/696/schedule/25/paragraph/34) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(n)(vi)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/n/vi))
 
-[^key-115ad6b668b2800a8a27f1c2e87e42bf]: Textual amendment: Reg. 72A(4)-(6) omitted (1.10.2024) by virtue of [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [16(5)](https://www.legislation.gov.uk/uksi/2024/696/regulation/16/5) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))
+[^c-115ad6b668b2800a8a27f1c2e87e42bf]: Textual amendment: Reg. 72A(4)-(6) omitted (1.10.2024) by virtue of [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [16(5)](https://www.legislation.gov.uk/uksi/2024/696/regulation/16/5) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))

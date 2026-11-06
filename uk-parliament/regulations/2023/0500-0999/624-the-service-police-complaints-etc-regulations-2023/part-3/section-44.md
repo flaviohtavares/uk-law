@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Failure to comply with information notice[^key-3d5c102f0b60767c0c654c7e19bdfcbd]
+## 44. Failure to comply with information notice[^c-3d5c102f0b60767c0c654c7e19bdfcbd]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d5c102f0b60767c0c654c7e19bdfcbd]: Commencement: Reg. 44 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-3d5c102f0b60767c0c654c7e19bdfcbd]: Commencement: Reg. 44 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

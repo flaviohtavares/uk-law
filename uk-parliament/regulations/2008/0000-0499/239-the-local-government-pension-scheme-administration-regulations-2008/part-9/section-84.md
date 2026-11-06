@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 84. Right to count credited period[^key-ece1410fdc6ddad9fb7d29016287a0de]
+## 84. Right to count credited period[^c-ece1410fdc6ddad9fb7d29016287a0de]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ the credited period is the period which, if used to calculate a transfer value t
 
 ## Annotations
 
-[^key-ece1410fdc6ddad9fb7d29016287a0de]: Commencement: Reg. 84 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-ece1410fdc6ddad9fb7d29016287a0de]: Commencement: Reg. 84 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

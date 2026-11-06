@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Publication of schemes[^key-7475c270dc1a728c287cb71c473c0323]
+## 28. Publication of schemes[^c-7475c270dc1a728c287cb71c473c0323]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A local education authority must publish their scheme in such manner as they see
 
 ## Annotations
 
-[^key-7475c270dc1a728c287cb71c473c0323]: Commencement: Reg. 28 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-7475c270dc1a728c287cb71c473c0323]: Commencement: Reg. 28 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)

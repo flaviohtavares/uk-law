@@ -38,8 +38,8 @@ summary: ''
 - 4. The charitable resources objective is to promote the effective use of charitable resources.
 - 5. The accountability objective is to enhance the accountability of charities to donors, beneficiaries and the general public.
 
-(4)[^key-73379de914cfa1c9312d80d0cc8886ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-73379de914cfa1c9312d80d0cc8886ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-73379de914cfa1c9312d80d0cc8886ed]: Textual amendment: S. 7(4) repealed (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 2](https://www.legislation.gov.uk/nia/2013/3/schedule/2)
+[^c-73379de914cfa1c9312d80d0cc8886ed]: Textual amendment: S. 7(4) repealed (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 2](https://www.legislation.gov.uk/nia/2013/3/schedule/2)

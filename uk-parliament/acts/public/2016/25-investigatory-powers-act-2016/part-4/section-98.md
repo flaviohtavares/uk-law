@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Part 4: interpretation[^key-62472b9ad002158a6a1c18119cf8002a]
+## 98. Part 4: interpretation[^c-62472b9ad002158a6a1c18119cf8002a]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62472b9ad002158a6a1c18119cf8002a]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2016/25/section/98) in force at 30.12.2016 by [S.I. 2016/1233](https://www.legislation.gov.uk/uksi/2016/1233), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2016/1233/regulation/2/m)
+[^c-62472b9ad002158a6a1c18119cf8002a]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2016/25/section/98) in force at 30.12.2016 by [S.I. 2016/1233](https://www.legislation.gov.uk/uksi/2016/1233), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2016/1233/regulation/2/m)

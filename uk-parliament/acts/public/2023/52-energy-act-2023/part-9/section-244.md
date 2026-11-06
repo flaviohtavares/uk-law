@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 244. Regulations: procedure and supplemental[^key-d562b6d0dda4274858e0b633f34179c3][^key-fdf72fb177b6d6fb0e3671691299435b]
+## 244. Regulations: procedure and supplemental[^c-d562b6d0dda4274858e0b633f34179c3][^c-fdf72fb177b6d6fb0e3671691299435b]
 
 *Extent: E+W+S*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d562b6d0dda4274858e0b633f34179c3]: Commencement: S. 244 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-d562b6d0dda4274858e0b633f34179c3]: Commencement: S. 244 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-fdf72fb177b6d6fb0e3671691299435b]: Commencement: [S. 244](https://www.legislation.gov.uk/ukpga/2023/52/section/244) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/ii)
+[^c-fdf72fb177b6d6fb0e3671691299435b]: Commencement: [S. 244](https://www.legislation.gov.uk/ukpga/2023/52/section/244) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/ii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 263. Restriction on imposing custodial sentence or service detention on unrepresented offender[^key-729564b91ceb314c3d70e2feb2e31695][^key-6ac3f8359cb98b6dfe1b1fe28e77f842]
+## 263. Restriction on imposing custodial sentence or service detention on unrepresented offender[^c-729564b91ceb314c3d70e2feb2e31695][^c-6ac3f8359cb98b6dfe1b1fe28e77f842]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,11 +30,11 @@ must not be passed by the Court Martial or the Service Civilian Court, or passed
 (2) Subsection (1) does not apply if the offender—
 
 - (a) having been informed of his right to apply for legal representation and having had the opportunity to do so, refused or failed to apply; or
-- (b) was aged 21 or over when convicted, and has previously been sentenced to imprisonment by a civilian court in any part of the United Kingdom or for a service offence [^key-a3ac203c3e06d4897441e6f73c07b90e]....
+- (b) was aged 21 or over when convicted, and has previously been sentenced to imprisonment by a civilian court in any part of the United Kingdom or for a service offence [^c-a3ac203c3e06d4897441e6f73c07b90e]....
 
 (3) The Court Martial or the Service Civilian Court must not—
 
-- (a)[^key-52cbb1f3bb4c597752cbb3c4ad99dafd] pass a custodial sentence on an offender who is aged under 21 on conviction, or
+- (a)[^c-52cbb1f3bb4c597752cbb3c4ad99dafd] pass a custodial sentence on an offender who is aged under 21 on conviction, or
 - (b) make an order under section 211 (detention and training),
 
 on or in respect of an offender who is not legally represented in that court unless the offender, having been informed of his right to apply for legal representation and having had the opportunity to do so, refused or failed to apply.
@@ -50,17 +50,17 @@ on or in respect of an offender who is not legally represented in that court unl
 
 - (a) a previous sentence of imprisonment which has been suspended and has not taken effect is to be disregarded;
 - (b) “**sentence of imprisonment**” does not include a committal for contempt of court or any kindred offence;
-- (c)[^key-b97434595ebddb32cdfed642d6fc1777] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-b97434595ebddb32cdfed642d6fc1777] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-b97434595ebddb32cdfed642d6fc1777] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-b97434595ebddb32cdfed642d6fc1777] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-729564b91ceb314c3d70e2feb2e31695]: Commencement: S. 263 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-729564b91ceb314c3d70e2feb2e31695]: Commencement: S. 263 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-6ac3f8359cb98b6dfe1b1fe28e77f842]: Commencement: S. 263 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-6ac3f8359cb98b6dfe1b1fe28e77f842]: Commencement: S. 263 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-a3ac203c3e06d4897441e6f73c07b90e]: Textual amendment: Words in s. 263(2)(b) omitted (13.11.2023) by virtue of [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 17(3)(a)](https://www.legislation.gov.uk/ukpga/2021/35/section/17/3/a), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2023/1102](https://www.legislation.gov.uk/uksi/2023/1102), [reg. 4](https://www.legislation.gov.uk/uksi/2023/1102/regulation/4)
+[^c-a3ac203c3e06d4897441e6f73c07b90e]: Textual amendment: Words in s. 263(2)(b) omitted (13.11.2023) by virtue of [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 17(3)(a)](https://www.legislation.gov.uk/ukpga/2021/35/section/17/3/a), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2023/1102](https://www.legislation.gov.uk/uksi/2023/1102), [reg. 4](https://www.legislation.gov.uk/uksi/2023/1102/regulation/4)
 
-[^key-52cbb1f3bb4c597752cbb3c4ad99dafd]: Textual amendment: S. 263(3)(a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 63](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/63) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-52cbb1f3bb4c597752cbb3c4ad99dafd]: Textual amendment: S. 263(3)(a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 63](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/63) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-b97434595ebddb32cdfed642d6fc1777]: Textual amendment: S. 263(6)(c)(d) omitted (13.11.2023) by virtue of [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 17(3)(b)](https://www.legislation.gov.uk/ukpga/2021/35/section/17/3/b), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2023/1102](https://www.legislation.gov.uk/uksi/2023/1102), [reg. 4](https://www.legislation.gov.uk/uksi/2023/1102/regulation/4)
+[^c-b97434595ebddb32cdfed642d6fc1777]: Textual amendment: S. 263(6)(c)(d) omitted (13.11.2023) by virtue of [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 17(3)(b)](https://www.legislation.gov.uk/ukpga/2021/35/section/17/3/b), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2023/1102](https://www.legislation.gov.uk/uksi/2023/1102), [reg. 4](https://www.legislation.gov.uk/uksi/2023/1102/regulation/4)

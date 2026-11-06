@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Local authorities: investigations[^key-f1986f4cb3e84a7deb65ead4eae57d0c]
+## 19. Local authorities: investigations[^c-f1986f4cb3e84a7deb65ead4eae57d0c]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1986f4cb3e84a7deb65ead4eae57d0c]: Commencement: S. 19 in force at 6.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2011/694/article/4/1/b)
+[^c-f1986f4cb3e84a7deb65ead4eae57d0c]: Commencement: S. 19 in force at 6.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2011/694/article/4/1/b)

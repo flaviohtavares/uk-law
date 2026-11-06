@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Exclusion of review of Upper Tribunal’s permission-to-appeal decisions[^key-01202788d3efb0ca09c8b8e00bbfbc02][^key-f6395b1918b2914d2cb6b49be4b73ba4]
+## 2. Exclusion of review of Upper Tribunal’s permission-to-appeal decisions[^c-01202788d3efb0ca09c8b8e00bbfbc02][^c-f6395b1918b2914d2cb6b49be4b73ba4]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-01202788d3efb0ca09c8b8e00bbfbc02]: Commencement: S. 2 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-01202788d3efb0ca09c8b8e00bbfbc02]: Commencement: S. 2 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-f6395b1918b2914d2cb6b49be4b73ba4]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/35/section/2) in force at 14.7.2022 by [S.I. 2022/816](https://www.legislation.gov.uk/uksi/2022/816), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/816/regulation/3/b)
+[^c-f6395b1918b2914d2cb6b49be4b73ba4]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/35/section/2) in force at 14.7.2022 by [S.I. 2022/816](https://www.legislation.gov.uk/uksi/2022/816), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/816/regulation/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Discharge of water[^key-ca56685af61ea5f7be920aa60ecea66f][^key-0e712beb9f67ebb4c7fc40d98d06bc34]
+## 82. Discharge of water[^c-ca56685af61ea5f7be920aa60ecea66f][^c-0e712beb9f67ebb4c7fc40d98d06bc34]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ca56685af61ea5f7be920aa60ecea66f]: Commencement: S. 82 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-ca56685af61ea5f7be920aa60ecea66f]: Commencement: S. 82 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-0e712beb9f67ebb4c7fc40d98d06bc34]: Commencement: [S. 82](https://www.legislation.gov.uk/asc/2024/3/section/82) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)
+[^c-0e712beb9f67ebb4c7fc40d98d06bc34]: Commencement: [S. 82](https://www.legislation.gov.uk/asc/2024/3/section/82) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Removal of reporting requirements[^key-4a3d44bff7494389af13dd253d1ac672]
+## 63. Removal of reporting requirements[^c-4a3d44bff7494389af13dd253d1ac672]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a3d44bff7494389af13dd253d1ac672]: Commencement: S. 63 in force at Royal Assent, see [s. 69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-4a3d44bff7494389af13dd253d1ac672]: Commencement: S. 63 in force at Royal Assent, see [s. 69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 221. Winding up of unregistered companies.[^c15574641][^c15574651][^key-554f9e0fef572df21840476b87635fcc]
+## 221. Winding up of unregistered companies.[^c15574641][^c15574651][^c-554f9e0fef572df21840476b87635fcc]
 
 *Extent: E+W+S*
 
@@ -31,12 +31,12 @@ summary: ''
 
 and the principal place of business situated in that part of Great Britain in which proceedings are being instituted is, for all purposes of the winding up, deemed to be the registered office of the company.
 
-(4) No unregistered company shall be wound up under this Act voluntarily , except in accordance with the[^c15574661] EU Regulation[^key-1e4d25fade5cb7dfa9129750b0a5e14e] .
+(4) No unregistered company shall be wound up under this Act voluntarily , except in accordance with the[^c15574661] EU Regulation[^c-1e4d25fade5cb7dfa9129750b0a5e14e] .
 
 (5) The circumstances in which an unregistered company may be wound up are as follows—
 
 - (a) if the company is dissolved, or has ceased to carry on business, or is carrying on business only for the purpose of winding up its affairs;
-- (b)[^c15574671][^c21423231][^key-a50e6500366090c38a7ada12a46e2138] if the company is unable to pay its debts;
+- (b)[^c15574671][^c21423231][^c-a50e6500366090c38a7ada12a46e2138] if the company is unable to pay its debts;
 - (c) if the court is of opinion that it is just and equitable that the company should be wound up.
 
 (6) A petition for winding up a trustee savings bank may be presented by the Trustee Savings Banks Central Board or by a commissioner appointed under section 35 of the [^c15574681]Trustee Savings Banks Act 1981 as well as by any person authorised under Part IV of this Act to present a petition for the winding up of a company.
@@ -63,7 +63,7 @@ For this purpose a creditor’s security is deemed to be in jeopardy if the cour
 
 [^c15574651]: Modification: S. 221 restricted (20.4.2003) by [The Insurers (Reorganisation and Winding Up) Regulations 2003 (S.I. 2003/1102)](https://www.legislation.gov.uk/uksi/2003/1102), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2003/1102/regulation/4/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2003/1102/regulation/3))
 
-[^key-554f9e0fef572df21840476b87635fcc]: Modification: S. 221 applied (with modifications) (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1388/part/3) [reg. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [Sch. 2 paras. 3](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/5) Table (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+[^c-554f9e0fef572df21840476b87635fcc]: Modification: S. 221 applied (with modifications) (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1388/part/3) [reg. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [Sch. 2 paras. 3](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/5) Table (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
 
 [^c18976221]: Modification: S. 221(1) applied (10.8.2005) by [The Insurers (Reorganisation and Winding Up) (Lloyd's) Regulations 2005 (S.I. 2005/1998)](https://www.legislation.gov.uk/uksi/2005/1998), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2005/1998/regulation/2/3), [29(2)](https://www.legislation.gov.uk/uksi/2005/1998/regulation/29/2)
 
@@ -71,13 +71,13 @@ For this purpose a creditor’s security is deemed to be in jeopardy if the cour
 
 [^c15574661]: Textual amendment: Words in s. 221(4) inserted (31.5.2002) by [S.I. 2002/1240](https://www.legislation.gov.uk/uksi/2002/1240), [reg. 9](https://www.legislation.gov.uk/uksi/2002/1240/regulation/9)
 
-[^key-1e4d25fade5cb7dfa9129750b0a5e14e]: Textual amendment: Words in s. 221(4) substituted (26.6.2017) by [The Insolvency Amendment (EU 2015/848) Regulations 2017 (S.I. 2017/702)](https://www.legislation.gov.uk/uksi/2017/702), [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/13) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/702/regulation/3), [4](https://www.legislation.gov.uk/uksi/2017/702/regulation/4))
+[^c-1e4d25fade5cb7dfa9129750b0a5e14e]: Textual amendment: Words in s. 221(4) substituted (26.6.2017) by [The Insolvency Amendment (EU 2015/848) Regulations 2017 (S.I. 2017/702)](https://www.legislation.gov.uk/uksi/2017/702), [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/13) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/702/regulation/3), [4](https://www.legislation.gov.uk/uksi/2017/702/regulation/4))
 
 [^c15574671]: Modification: S. 221(5)(b) extended (1.4.1992) by [S.I. 1992/613](https://www.legislation.gov.uk/uksi/1992/613), [reg. 49(2)](https://www.legislation.gov.uk/uksi/1992/613/regulation/49/2)
 
 [^c21423231]: Modification: S. 221(5)(b) modified (6.4.2010) by [The Community Infrastructure Levy Regulations 2010 (S.I. 2010/948)](https://www.legislation.gov.uk/uksi/2010/948), [reg. 105(2)](https://www.legislation.gov.uk/uksi/2010/948/regulation/105/2)
 
-[^key-a50e6500366090c38a7ada12a46e2138]: Modification: S. 221(5)(b) restricted (retrospective to 27.4.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [Sch. 10 para. 6(1)-(3)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/10/paragraph/6/1)[(4)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/10/paragraph/6/4) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-a50e6500366090c38a7ada12a46e2138]: Modification: S. 221(5)(b) restricted (retrospective to 27.4.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [Sch. 10 para. 6(1)-(3)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/10/paragraph/6/1)[(4)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/10/paragraph/6/4) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
 [^c15574681]: Marginal citation: [1981 c. 65](https://www.legislation.gov.uk/ukpga/1981/65).
 

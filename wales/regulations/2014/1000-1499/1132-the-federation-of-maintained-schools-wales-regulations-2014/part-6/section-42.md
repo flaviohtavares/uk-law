@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Duty to have regard to guidance[^key-444da262ac28b74a6e46870ed78a15ed]
+## 42. Duty to have regard to guidance[^c-444da262ac28b74a6e46870ed78a15ed]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In respect of the making of instruments of government, the matters to be dealt w
 
 ## Annotations
 
-[^key-444da262ac28b74a6e46870ed78a15ed]: Commencement: Reg. 42 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-444da262ac28b74a6e46870ed78a15ed]: Commencement: Reg. 42 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

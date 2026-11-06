@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36.5. Renewing an application refused by a judge or the Registrar[^key-6cb28357ff28809640dcbcbdb96eeb5d]
+## 36.5. Renewing an application refused by a judge or the Registrar[^c-6cb28357ff28809640dcbcbdb96eeb5d]
 
 *Extent: E+W*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6cb28357ff28809640dcbcbdb96eeb5d]: Commencement: [Rule 36.5](https://www.legislation.gov.uk/uksi/2025/909/rule/36.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-6cb28357ff28809640dcbcbdb96eeb5d]: Commencement: [Rule 36.5](https://www.legislation.gov.uk/uksi/2025/909/rule/36.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00916]: Footnote: [S.I. 2005/2798](https://www.legislation.gov.uk/uksi/2005/2798).
 

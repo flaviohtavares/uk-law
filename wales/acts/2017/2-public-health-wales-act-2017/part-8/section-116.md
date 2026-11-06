@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 116. Local authority power to provide public toilets[^key-59b30d47ba1fe9238bbeff102e1cd4e7]
+## 116. Local authority power to provide public toilets[^c-59b30d47ba1fe9238bbeff102e1cd4e7]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59b30d47ba1fe9238bbeff102e1cd4e7]: Commencement: [S. 116](https://www.legislation.gov.uk/anaw/2017/2/section/116) in force at 31.5.2018 by [S.I. 2018/605](https://www.legislation.gov.uk/wsi/2018/605), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/605/article/2/a)
+[^c-59b30d47ba1fe9238bbeff102e1cd4e7]: Commencement: [S. 116](https://www.legislation.gov.uk/anaw/2017/2/section/116) in force at 31.5.2018 by [S.I. 2018/605](https://www.legislation.gov.uk/wsi/2018/605), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/605/article/2/a)

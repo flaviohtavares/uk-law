@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Extent[^key-bbaef41223ab8eb150efd6a2f3ebc637]
+## 54. Extent[^c-bbaef41223ab8eb150efd6a2f3ebc637]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ may be exercised so as to extend to any of the Channel Islands or the Isle of Ma
 
 ## Annotations
 
-[^key-bbaef41223ab8eb150efd6a2f3ebc637]: Commencement: S. 54 in force at Royal Assent, see [s. 55(1)(b)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/1/b)
+[^c-bbaef41223ab8eb150efd6a2f3ebc637]: Commencement: S. 54 in force at Royal Assent, see [s. 55(1)(b)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/1/b)

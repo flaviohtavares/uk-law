@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Rules made by the Council under this Act [^key-6d9d99a1e0bb0201adbdc995ad37dcc1]... shall not come into force until approved by order of the Privy Council.
+(1) Rules made by the Council under this Act [^c-6d9d99a1e0bb0201adbdc995ad37dcc1]... shall not come into force until approved by order of the Privy Council.
 
-(1A)[^key-6e1304594c4c84608844e9423f2dd089] Subsection (1) above shall not apply to rules made under section 10 above in so far as they relate to fees.
+(1A)[^c-6e1304594c4c84608844e9423f2dd089] Subsection (1) above shall not apply to rules made under section 10 above in so far as they relate to fees.
 
 (2)[^M_F_cc763c20-a150-4aa6-aecd-4451a142d915] The Privy Council may approve rules under section 23C above either in the form submitted to them or subject to such modifications as appear to the Privy Council requisite.
 
@@ -47,8 +47,8 @@ shall be subject to annulment in pursuance of a resolution of either House of Pa
 
 (7) Subsection (6) above applies to the following orders of the Privy Council—
 
-- (a) an order approving rules under section 4, 5 or 31 above [^key-6b42211328612f097c836b7880f46ffa]...; and
-- (b)[^key-c9a280fc432c25b791f0aa00ebf68ca6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) an order approving rules under section 4, 5 or 31 above [^c-6b42211328612f097c836b7880f46ffa]...; and
+- (b)[^c-c9a280fc432c25b791f0aa00ebf68ca6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c)[^M_F_5f10a696-d3f2-4ae5-a681-3eccdd7b2ec2] an order under section 1(4) or 27.
 
 (8)[^M_F_5d5e714c-2b2e-47ad-9da7-2f318e587ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -59,9 +59,9 @@ shall be subject to annulment in pursuance of a resolution of either House of Pa
 
 ## Annotations
 
-[^key-6d9d99a1e0bb0201adbdc995ad37dcc1]: Textual amendment: Words in s. 34(1) omitted (1.4.2009) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(4)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/4), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/2/paragraph/4/a); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/a/ii)
+[^c-6d9d99a1e0bb0201adbdc995ad37dcc1]: Textual amendment: Words in s. 34(1) omitted (1.4.2009) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(4)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/4), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/2/paragraph/4/a); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/a/ii)
 
-[^key-6e1304594c4c84608844e9423f2dd089]: Textual amendment: S. 34(1A) inserted (22.3.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2005/848/article/1/2), [25(2)](https://www.legislation.gov.uk/uksi/2005/848/article/25/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-6e1304594c4c84608844e9423f2dd089]: Textual amendment: S. 34(1A) inserted (22.3.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2005/848/article/1/2), [25(2)](https://www.legislation.gov.uk/uksi/2005/848/article/25/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
 
 [^M_F_cc763c20-a150-4aa6-aecd-4451a142d915]: Textual amendment: S. 34(2) substituted (22.3.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2005/848/article/1/2), [25(3)](https://www.legislation.gov.uk/uksi/2005/848/article/25/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
 
@@ -75,9 +75,9 @@ shall be subject to annulment in pursuance of a resolution of either House of Pa
 
 [^M_F_521fc06b-428d-4ee7-8a72-c0cff85b342b]: Textual amendment: Words in s. 34(6)(b) substituted (22.3.2005) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2005/848/article/1/2), [25(5)](https://www.legislation.gov.uk/uksi/2005/848/article/25/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
 
-[^key-6b42211328612f097c836b7880f46ffa]: Textual amendment: Words in s. 34(7)(a) omitted (1.4.2009) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(4)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/4), [Sch. 2 para. 4(b)(i)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/2/paragraph/4/b/i); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/a/ii)
+[^c-6b42211328612f097c836b7880f46ffa]: Textual amendment: Words in s. 34(7)(a) omitted (1.4.2009) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(4)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/4), [Sch. 2 para. 4(b)(i)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/2/paragraph/4/b/i); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/a/ii)
 
-[^key-c9a280fc432c25b791f0aa00ebf68ca6]: Textual amendment: S. 34(7)(b) omitted (1.4.2009) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(4)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/4), [Sch. 2 para. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/2/paragraph/4/b/ii); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/a/ii)
+[^c-c9a280fc432c25b791f0aa00ebf68ca6]: Textual amendment: S. 34(7)(b) omitted (1.4.2009) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(4)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/4), [Sch. 2 para. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/2/paragraph/4/b/ii); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/a/ii)
 
 [^M_F_5f10a696-d3f2-4ae5-a681-3eccdd7b2ec2]: Textual amendment: S. 34(7)(c) substituted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 2 para. 4(b)(iii)](https://www.legislation.gov.uk/uksi/2008/1774/schedule/2/paragraph/4/b/iii); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/a/i)
 

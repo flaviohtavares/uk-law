@@ -68,7 +68,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
   - (a) the Cattle Identification (Scotland) Regulations 2007 [^c18760181] (in the case of bovine animals born in Scotland); and
   - (b) Council Regulation 1760/2000 (in the case of bovine animals born outside Scotland);
 - “**centre veterinarian**” has the meaning given in regulation 5(b);
-- “[^key-c06864fff921aeb31df3d8c8801be0d1]**a certificate**” means an animal health certificate published by the Scottish Ministers from time to time;
+- “[^c-c06864fff921aeb31df3d8c8801be0d1]**a certificate**” means an animal health certificate published by the Scottish Ministers from time to time;
 - “**collection**” means a quantity of semen taken from a donor at any time;
 - “**consignment**” means a quantity of semen covered by a single certificate;
 - “**Council Regulation 1760/2000**” means Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products [^c18760191] and repealing Council Regulation [(EC) No. 820/97](https://www.legislation.gov.uk/european/regulation/1997/0820) [^c18760201], as amended from time to time;
@@ -77,12 +77,12 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 - “**Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432)**” means Council Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432) on animal health problems affecting intra Community trade in bovine animals and swine [^c18760221], as amended from time to time;
 - “**domestic collection centre**” has the meaning given in regulation 4(b)(ii);
 - “**domestic storage centre**” has the meaning given in regulation 4(c)(ii);
-- [^key-9038de38324444fbe2d71abcea0bf25f]...
-- [^key-9038de38324444fbe2d71abcea0bf25f]...
-- [^key-9038de38324444fbe2d71abcea0bf25f]...
+- [^c-9038de38324444fbe2d71abcea0bf25f]...
+- [^c-9038de38324444fbe2d71abcea0bf25f]...
+- [^c-9038de38324444fbe2d71abcea0bf25f]...
 - “**fresh semen**” means semen which has not been frozen;
 - “**inspector**” means a person authorised in writing by the Scottish Ministers in accordance with section 10(4) of the Animal Health and Welfare Act 1984;
-- “[^key-87b981f2629dd6dfbc586ccc7c165ab3]**licensed collection centre**” has the meaning given in regulation 4(b)(i);
+- “[^c-87b981f2629dd6dfbc586ccc7c165ab3]**licensed collection centre**” has the meaning given in regulation 4(b)(i);
 - “**licensed quarantine centre**” has the meaning given in regulation 4(a);
 - “**licensed storage centre**” has the meaning given in regulation 4(c)(i);
 - “**processing**” means one or more of–
@@ -91,12 +91,12 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
   - (c) adding any antibiotic;
   - (d) packing into straws or other appropriate receptacles; and
   - (e) freezing;
-- “[^key-c531fcb61f057e207d293a1edcfd3297]**relevant approval**” means an approval under these Regulations except regulation 24(3);
-- “[^key-df605eeea41d8f40fbbecb65d8cf805b]**semen**” means the prepared or diluted ejaculate of a domestic animal of the bovine species;
+- “[^c-c531fcb61f057e207d293a1edcfd3297]**relevant approval**” means an approval under these Regulations except regulation 24(3);
+- “[^c-df605eeea41d8f40fbbecb65d8cf805b]**semen**” means the prepared or diluted ejaculate of a domestic animal of the bovine species;
 - “**straw**” means a receptacle used to contain a single dose of semen;
 - “**teaser animal**” means a bovine animal which is used as an aid in the collection of semen;
-- “unlicensed premises” are premises that do not have a licence under regulation 4 other than unlicensed processing premises[^key-c56ddb70389dab867d4cbfcd20a7142c]; [^key-fe0d7b96be16a7470059accf53486f66]...
-- “[^key-39d088be8eeac1dd87cf3e366df7f862]**unlicensed processing premises**” means premises used for the processing of semen other than a licensed collection centre or domestic collection centre; and
+- “unlicensed premises” are premises that do not have a licence under regulation 4 other than unlicensed processing premises[^c-c56ddb70389dab867d4cbfcd20a7142c]; [^c-fe0d7b96be16a7470059accf53486f66]...
+- “[^c-39d088be8eeac1dd87cf3e366df7f862]**unlicensed processing premises**” means premises used for the processing of semen other than a licensed collection centre or domestic collection centre; and
 - “**veterinary surgeon**” means a veterinary surgeon or veterinary practitioner registered under the Veterinary Surgeons Act 1966 [^c18760231].
 
 (2) Unless the context otherwise requires, any expressions used in these Regulations have the same meaning as in the Directive.
@@ -121,11 +121,11 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 - (b) diagnosing infection or disease in a bovine animal; or
 - (c) education or research,
 
-provided the semen collected is not used for artificial insemination and is not the subject of trade with a member State[^key-8504c01b4cfa06ebf53219efad257c69].
+provided the semen collected is not used for artificial insemination and is not the subject of trade with a member State[^c-8504c01b4cfa06ebf53219efad257c69].
 
 (3) These Regulations do not apply to research authorised under the Animals (Scientific Procedures) Act 1986 [^c18760261].
 
-(4)[^key-5c20af8d62206177c08b5d7e0e6989db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-5c20af8d62206177c08b5d7e0e6989db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 2 — Licensing of bovine semen centres and approval of bovine animals
 
@@ -133,13 +133,13 @@ provided the semen collected is not used for artificial insemination and is not 
 
 The Scottish Ministers may grant a licence for the following premises–
 
-- (a) if they comply with Part 1 of Schedule 1, as premises for the quarantine of bovine animals (a “licensed quarantine centre”)[^key-346698406722d91d52133a5da40c0fbc];
+- (a) if they comply with Part 1 of Schedule 1, as premises for the quarantine of bovine animals (a “licensed quarantine centre”)[^c-346698406722d91d52133a5da40c0fbc];
 - (b) if they comply with Part 2 of Schedule 1, either as–
-  - (i) premises for the collection, processing and quarantine of semen intended for trade with a member State[^key-e57f7881a900dfad7d33c89bbe08140d] ((a “licensed collection centre”)[^key-20b23dc4fe568fa42436ff1352009bfc]; or
-  - (ii) premises for the collection, processing and quarantine of semen not intended for trade with a member State[^key-9643ccf3c3de8310c30eb08b6e58a8ea] (a “domestic collection centre”); or
+  - (i) premises for the collection, processing and quarantine of semen intended for trade with a member State[^c-e57f7881a900dfad7d33c89bbe08140d] ((a “licensed collection centre”)[^c-20b23dc4fe568fa42436ff1352009bfc]; or
+  - (ii) premises for the collection, processing and quarantine of semen not intended for trade with a member State[^c-9643ccf3c3de8310c30eb08b6e58a8ea] (a “domestic collection centre”); or
 - (c) if they comply with Part 3 of Schedule 1, either as–
-  - (i) premises for the storage of semen intended for trade with a member State[^key-e9985192c1e15bbeda4ec1fa7d1adea2] (a “licensed storage centre”)[^key-68b9957b1849ee81d7cfeb9bb0e640fb]; or
-  - (ii) premises for the storage of semen not intended for trade with a member State[^key-332587e798d60e64fe27cc647a7df4b0] (a “domestic storage centre”).
+  - (i) premises for the storage of semen intended for trade with a member State[^c-e9985192c1e15bbeda4ec1fa7d1adea2] (a “licensed storage centre”)[^c-68b9957b1849ee81d7cfeb9bb0e640fb]; or
+  - (ii) premises for the storage of semen not intended for trade with a member State[^c-332587e798d60e64fe27cc647a7df4b0] (a “domestic storage centre”).
 
 ### 5. Application for a licence to operate a bovine semen centre
 
@@ -168,7 +168,7 @@ An application for a licence to operate a bovine semen centre must–
 
 ### 7. Approval of a bovine animal
 
-(1) The Scottish Ministers may approve a bovine animal for use in a licensed[^key-39fc808de228b45a44adfbd79c6af096] collection centre, a domestic collection centre, or at unlicensed premises if it has tested negative for–
+(1) The Scottish Ministers may approve a bovine animal for use in a licensed[^c-39fc808de228b45a44adfbd79c6af096] collection centre, a domestic collection centre, or at unlicensed premises if it has tested negative for–
 
 - (a) the tests set out in Schedule 2, paragraph 2(1)(a) to (e), prior to its entry to a licensed quarantine centre; and
 - (b) the tests set out in Schedule 2, paragraph 3(1)(a) to (d) and paragraph 4(1)(a), after its entry to a licensed quarantine centre.
@@ -200,7 +200,7 @@ Any application for approval of a bovine animal for the purpose of collecting it
 
 ### 10. Approval of bovine animals for use at unlicensed premises
 
-(1) The Scottish Ministers may approve the use of a bovine animal for the collection of its semen [^key-5f15b41e79760c512eec600843262c12]... at unlicensed premises for a maximum period of 3 months.
+(1) The Scottish Ministers may approve the use of a bovine animal for the collection of its semen [^c-5f15b41e79760c512eec600843262c12]... at unlicensed premises for a maximum period of 3 months.
 
 (2) The Scottish Ministers may renew an approval under paragraph (1) for subsequent periods of up to 3 months if–
 
@@ -214,7 +214,7 @@ Any application for approval of a bovine animal for the purpose of collecting it
 - (a) collected from a bovine animal; or
 - (b) processed following such collection,
 
-until negative results to the tests on the bovine animal [^key-578282429cd47d7d6afea9fea740090e]... are confirmed.
+until negative results to the tests on the bovine animal [^c-578282429cd47d7d6afea9fea740090e]... are confirmed.
 
 ## PART 3 — The operation of a bovine semen centre and collection at unlicensed premises
 
@@ -253,7 +253,7 @@ until negative results to the tests on the bovine animal [^key-578282429cd47d7d6
 
 ### 14. Requirement to keep records of semen
 
-(1) This regulation does not apply to licensed[^key-c0980ff3df9ceb59d43c7fbedc8a3b1c] quarantine centres.
+(1) This regulation does not apply to licensed[^c-c0980ff3df9ceb59d43c7fbedc8a3b1c] quarantine centres.
 
 (2) Whenever semen is moved from or to a bovine semen centre or is destroyed, the centre veterinarian must record–
 
@@ -265,7 +265,7 @@ until negative results to the tests on the bovine animal [^key-578282429cd47d7d6
 - (f) the premises, or bovine semen centre, of dispatch (if applicable); and
 - (g) the destination (if applicable).
 
-(3) The operator of unlicensed premises must record the information in paragraphs 2(a) to (g) for semen sent from the premises for processing[^key-9b25a4a49ac28329d07e99b31aa4c34a].
+(3) The operator of unlicensed premises must record the information in paragraphs 2(a) to (g) for semen sent from the premises for processing[^c-9b25a4a49ac28329d07e99b31aa4c34a].
 
 (4) The operator of unlicensed premises or the centre veterinarian must ensure that each consignment of semen is accompanied by documents containing the information in paragraphs 2(a) to (g).
 
@@ -284,7 +284,7 @@ until negative results to the tests on the bovine animal [^key-578282429cd47d7d6
 
 (3) The centre veterinarian must ensure that the Scottish Ministers are notified immediately if the result of any test carried out on a bovine animal at the centre for any disease that must be tested for under these Regulations indicates a change in the health status of the bovine animal.
 
-### 16. Specific duties of centre veterinarians , veterinarians supervising unlicensed processing premises and operators of unlicensed premises[^key-223edcf86cf8e37176c481d69c5a9c75]
+### 16. Specific duties of centre veterinarians , veterinarians supervising unlicensed processing premises and operators of unlicensed premises[^c-223edcf86cf8e37176c481d69c5a9c75]
 
 (1) The duties of the centre veterinarian–
 
@@ -294,7 +294,7 @@ until negative results to the tests on the bovine animal [^key-578282429cd47d7d6
 - (d) of a domestic collection centre are set out in Schedule 5; and
 - (e) of a domestic storage centre are set out in Schedule 6.
 
-(1A)[^key-033a6d62e236ea4a13c2be54f636b37b] A veterinarian responsible for supervising processing of semen at unlicensed processing premises in accordance with regulation 24(2)(c) must perform the duties of a centre veterinarian of a licensed collection centre to the extent listed in Part 3 of Schedule 3, paragraphs 1(d), (e) and (f) and 2(b).
+(1A)[^c-033a6d62e236ea4a13c2be54f636b37b] A veterinarian responsible for supervising processing of semen at unlicensed processing premises in accordance with regulation 24(2)(c) must perform the duties of a centre veterinarian of a licensed collection centre to the extent listed in Part 3 of Schedule 3, paragraphs 1(d), (e) and (f) and 2(b).
 
 (2) The duties of the operator of unlicensed premises are set out in Schedule 7.
 
@@ -343,9 +343,9 @@ in accordance with these Regulations.
 
 ### 21. Use of teaser animals
 
-(1)[^key-da00b3abedf927c2093f0d942f799d5d] Subject to paragraph (2),[^key-a83b79764f06e11bec8bd8a9a9b229cf] no person may use a teaser animal to assist in the collection of semen unless it is approved for that purpose by the Scottish Ministers.
+(1)[^c-da00b3abedf927c2093f0d942f799d5d] Subject to paragraph (2),[^c-a83b79764f06e11bec8bd8a9a9b229cf] no person may use a teaser animal to assist in the collection of semen unless it is approved for that purpose by the Scottish Ministers.
 
-(2)[^key-d88db008366f6aa500363725de832e27] No such approval is required in respect of use of a teaser animal to assist in the collection of semen at unlicensed premises.
+(2)[^c-d88db008366f6aa500363725de832e27] No such approval is required in respect of use of a teaser animal to assist in the collection of semen at unlicensed premises.
 
 ### 22. Entry of bovine animals to licensed quarantine centres, licensed collection centres, domestic collection centres or to unlicensed premises
 
@@ -362,7 +362,7 @@ without the authorisation of the centre veterinarian.
 - (a) officially tuberculosis free; and
 - (b) officially brucellosis free,
 
-in accordance with the text before paragraph 1, paragraph 1 and paragraph 2 of Annex A.1 and the text before paragraph 1, paragraph 1 and paragraph 2 of Annex A.2 to[^key-bb8398d7b7404f3b53cb73a1e76b620a] Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
+in accordance with the text before paragraph 1, paragraph 1 and paragraph 2 of Annex A.1 and the text before paragraph 1, paragraph 1 and paragraph 2 of Annex A.2 to[^c-bb8398d7b7404f3b53cb73a1e76b620a] Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
 
 (3) The centre veterinarian may not authorise a bovine animal to enter a licensed collection centre unless the requirements of Part 1 of Schedule 8 are met.
 
@@ -378,7 +378,7 @@ in accordance with the text before paragraph 1, paragraph 1 and paragraph 2 of A
 
 (7) The centre veterinarian or the operator of unlicensed premises may not authorise the admission of any bovine animal which shows any clinical sign of disease on the day of the proposed admission.
 
-(8)[^key-b5b889ff88c3f81436d949f2fd4d5d98] For the purposes of paragraph (2)—
+(8)[^c-b5b889ff88c3f81436d949f2fd4d5d98] For the purposes of paragraph (2)—
 
 - (a) the text before paragraph 1, paragraph 1 and paragraph 2 of Annex A.1 to Directive 64/432/EEC are to be read as if—
   - (i) the references to “competent authority” and “competent authority of a Member State” include**—**
@@ -401,9 +401,9 @@ in accordance with the text before paragraph 1, paragraph 1 and paragraph 2 of A
 - (a) in means of transport that have been cleansed and disinfected before use in accordance with the Transport of Animals (Cleansing and Disinfection) (Scotland) Regulations 2005 [^c18760281]; and
 - (b) under conditions that ensure that the bovine animal does not come into contact with cloven hoofed animals that are not authorised to enter the centre or premises of destination.
 
-(2) No person may move a bovine animal from one collection centre to one in a[^key-cc0023794daa5b16175d25509902f9cc] member State except in accordance with Article 5 of[^key-2fe2228ad54771c5c57ec69658ac278b] Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
+(2) No person may move a bovine animal from one collection centre to one in a[^c-cc0023794daa5b16175d25509902f9cc] member State except in accordance with Article 5 of[^c-2fe2228ad54771c5c57ec69658ac278b] Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
 
-(3)[^key-0d3f65861f9b3f7710366dbd804feac0] For the purposes of paragraph (2), Article 5 of Directive 64/432/EEC is to be read as if—
+(3)[^c-0d3f65861f9b3f7710366dbd804feac0] For the purposes of paragraph (2), Article 5 of Directive 64/432/EEC is to be read as if—
 
 - (a) the references to “health certificate” or “certification” are to “**a certificate**” as defined in these Regulations,
 - (b) the reference to “the competent authority” is to the Scottish Ministers,
@@ -412,10 +412,10 @@ in accordance with the text before paragraph 1, paragraph 1 and paragraph 2 of A
 
 ### 24. Processing of semen
 
-(1)[^key-da94061a6e16707a55e5af1bbdbb52eb] No person may process semen except at–
+(1)[^c-da94061a6e16707a55e5af1bbdbb52eb] No person may process semen except at–
 
-- (a) a licensed collection centre; [^key-ae4b342cbecad238c543068947a7bd22]...
-- (b) a domestic collection centre ; or[^key-99f576198dbf354390bff370fff1856c]
+- (a) a licensed collection centre; [^c-ae4b342cbecad238c543068947a7bd22]...
+- (b) a domestic collection centre ; or[^c-99f576198dbf354390bff370fff1856c]
 - (c) unlicensed processing premises.
 
 (2) Semen may only be processed at unlicensed processing premises if it—
@@ -460,7 +460,7 @@ No person storing or moving semen may allow it to come into contact with materia
 
 (1) This regulation does not apply to the steps necessary to move semen to a licensed storage centre or a domestic storage centre.
 
-(2) No person may supply frozen semen or use it in artificial insemination unless it has been previously[^key-9dff36913425d2335c96676b97a424cc] stored–
+(2) No person may supply frozen semen or use it in artificial insemination unless it has been previously[^c-9dff36913425d2335c96676b97a424cc] stored–
 
 - (a) at a licensed storage centre;
 - (b) at a domestic storage centre; or
@@ -472,20 +472,20 @@ No person may supply or use semen for artificial insemination if that person kno
 
 - (a) in accordance with these Regulations;
 - (b) lawfully in another part of the United Kingdom; or
-- (c) in the case of semen originating outside the United Kingdom[^key-fea750fad34f38091289be9db958a4e3], in accordance with the Directive,
+- (c) in the case of semen originating outside the United Kingdom[^c-fea750fad34f38091289be9db958a4e3], in accordance with the Directive,
 
 unless the supply or use is authorised by the Scottish Ministers.
 
-### 30. Trade in semen to a member State[^key-feece1f1c2e5c59a827c23ff4e99625a]
+### 30. Trade in semen to a member State[^c-feece1f1c2e5c59a827c23ff4e99625a]
 
-(1) No person may supply semen to a member State[^key-e25586d52c1437f5819896eb7f61a83c] unless–
+(1) No person may supply semen to a member State[^c-e25586d52c1437f5819896eb7f61a83c] unless–
 
 - (a) it was–
   - (i) collected, processed and quarantined at a licensed collection centre; and
   - (ii) stored at a licensed storage centre; or
-- (b) in the case of semen supplied from outside the United Kingdom[^key-c32dad3886293264fce13c2f189eb0d0], it has been stored at a licensed storage centre.
+- (b) in the case of semen supplied from outside the United Kingdom[^c-c32dad3886293264fce13c2f189eb0d0], it has been stored at a licensed storage centre.
 
-(2)[^key-fd12d7217a1732a7b5e79044ae702eb8] Any person who supplies semen to a member State must ensure that it is accompanied by a certificate.
+(2)[^c-fd12d7217a1732a7b5e79044ae702eb8] Any person who supplies semen to a member State must ensure that it is accompanied by a certificate.
 
 ### 31. Duties to keep records of the supply of semen
 
@@ -507,7 +507,7 @@ unless the supply or use is authorised by the Scottish Ministers.
 
 ### 32. Refusal of an approval or licence
 
-If the Scottish Ministers refuse to grant a relevant approval or a licence, or grant a relevant approval or a[^key-5c37a3a6401d3eea26047434130c2676] licence subject to conditions, they must–
+If the Scottish Ministers refuse to grant a relevant approval or a licence, or grant a relevant approval or a[^c-5c37a3a6401d3eea26047434130c2676] licence subject to conditions, they must–
 
 - (a) give their reasons in writing; and
 - (b) explain the right of the applicant to request a review of the decision to refuse to grant a relevant approval or a licence, or grant a relevant approval or a licence subject to conditions under regulation 36.
@@ -524,7 +524,7 @@ If the Scottish Ministers refuse to grant a relevant approval or a licence, or g
 
 ### 34. Suspension and amendment
 
-(1) The Scottish Ministers may suspend or amend a relevant[^key-041015f5fa919805b1c787af58b1078d] approval or a[^key-3fe4092475e7d733a511e4cbc08df17c] licence granted under these Regulations in whole or in part if–
+(1) The Scottish Ministers may suspend or amend a relevant[^c-041015f5fa919805b1c787af58b1078d] approval or a[^c-3fe4092475e7d733a511e4cbc08df17c] licence granted under these Regulations in whole or in part if–
 
 - (a) any of the conditions under which it was granted are not fulfilled; or
 - (b) they are satisfied that the provisions of these Regulations are not being complied with.
@@ -546,14 +546,14 @@ If the Scottish Ministers refuse to grant a relevant approval or a licence, or g
 
 ### 35. Revocation of an approval or licence
 
-(1) The Scottish Ministers may revoke a relevant[^key-6fe5b40dbff09848d8a91a53e6b77888] approval or a[^key-d1ce23aeaef44bd6daca757e806e172e] licence granted under these Regulations in whole or in part if–
+(1) The Scottish Ministers may revoke a relevant[^c-6fe5b40dbff09848d8a91a53e6b77888] approval or a[^c-d1ce23aeaef44bd6daca757e806e172e] licence granted under these Regulations in whole or in part if–
 
 - (a) they have notified their decision to suspend the approval or licence and the period for review under regulation 36 has expired;
 - (b) they have upheld their decision to suspend following an review under regulation 36;
 - (c) they have previously suspended the approval or licence and there is further non compliance with these Regulations; or
 - (d) they are satisfied that the occupier no longer uses the premises for the purpose for which a licence was granted.
 
-(2) Notification of a revocation under paragraph (1)[^key-a283d998732286066561174edea40755] must–
+(2) Notification of a revocation under paragraph (1)[^c-a283d998732286066561174edea40755] must–
 
 - (a) be in writing;
 - (b) state what it applies to;
@@ -567,7 +567,7 @@ If the Scottish Ministers refuse to grant a relevant approval or a licence, or g
 
 (1) A person may apply in writing to the Scottish Ministers for a review of any decision of the Scottish Ministers concerning–
 
-- (a) the grant, refusal, suspension, amendment or revocation of a relevant[^key-32ac1eb3fb83a5416636ff7212ca9044] approval or a[^key-83f693f90921faedea5685fb2c3dd6f7] licence under these Regulations; or
+- (a) the grant, refusal, suspension, amendment or revocation of a relevant[^c-32ac1eb3fb83a5416636ff7212ca9044] approval or a[^c-83f693f90921faedea5685fb2c3dd6f7] licence under these Regulations; or
 - (b) the conditions to which a relevant approval or a licence is subject,
 
 within 21 days of notification of the decision to that person.
@@ -596,7 +596,7 @@ within 21 days of notification of the decision to that person.
 
 ### 38. Notice concerning illegal consignments
 
-(1) If an inspector knows or suspects that semen has been imported from a[^key-d90f0494374aee59a58d4946839fceed] member State in contravention of the Directive, the inspector may serve a notice in accordance with paragraph (2) on the person appearing to the inspector to be in charge of the semen.
+(1) If an inspector knows or suspects that semen has been imported from a[^c-d90f0494374aee59a58d4946839fceed] member State in contravention of the Directive, the inspector may serve a notice in accordance with paragraph (2) on the person appearing to the inspector to be in charge of the semen.
 
 (2) The notice may require that person to–
 
@@ -614,11 +614,11 @@ No person shall provide any information or make any statement for the purpose of
 
 The Scottish Ministers must examine all bovine semen centres at least twice a year.
 
-### 41. Payment of fees[^key-0d2689b8b3d39114c4bb07f7b0a662c0]
+### 41. Payment of fees[^c-0d2689b8b3d39114c4bb07f7b0a662c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 42. Refund of fees[^key-5444b4bc05cc4e9abc6e90f57f381aec]
+### 42. Refund of fees[^c-5444b4bc05cc4e9abc6e90f57f381aec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -691,12 +691,12 @@ Regulations 7 and 16
 
 **1.** (1) The centre veterinarian must make a record of any bovine animals to be admitted that–
 
-- (a) did not belong to a herd officially free of enzootic bovine leukosis in accordance with sections A and B of Chapter 1 of Annex D to[^key-d5613b02530a31bacc3f678ce6c9f9a8] Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432); or
+- (a) did not belong to a herd officially free of enzootic bovine leukosis in accordance with sections A and B of Chapter 1 of Annex D to[^c-d5613b02530a31bacc3f678ce6c9f9a8] Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432); or
 - (b) was produced by a dam which did not, after removal of the bovine animal from it, test negative to a test carried out in accordance with Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
 
 (2) The centre veterinarian must pass a copy of any record made under sub paragraph (1) to the centre veterinarian of the collection centre to which the bovine animals move, not later than the date of such move.
 
-(3)[^key-daca1735eeab54b03a46fa071c675044] For the purposes of sub-paragraph (1)(a), Section A(iii) of Chapter 1 of Annex D to Directive 64/432/EEC is to be read as if the reference to “**Member State or region**” includes the United Kingdom or region of the United Kingdom.
+(3)[^c-daca1735eeab54b03a46fa071c675044] For the purposes of sub-paragraph (1)(a), Section A(iii) of Chapter 1 of Annex D to Directive 64/432/EEC is to be read as if the reference to “**Member State or region**” includes the United Kingdom or region of the United Kingdom.
 
 (4) For the purposes of sub-paragraph (1)(b), Annex D (Chapter II) to Directive 64/432/EEC is to be read as if the references to “The State institutes, national reference laboratories or official institutes designated in accordance with Article 6a” include—
 
@@ -721,9 +721,9 @@ for co-ordinating the standards and methods of diagnosis referred to.
 
 (4) In the case of group quarantine, the quarantine period does not commence for the remaining bovine animals until the bovine animal which tested positive has been removed.
 
-(5)[^key-2f22e2dfcc0153771a3ba40e0d1646fd] For the purposes of sub-paragraph (1)(a), Annex B to Directive 64/432/EEC is to be read as if—
+(5)[^c-2f22e2dfcc0153771a3ba40e0d1646fd] For the purposes of sub-paragraph (1)(a), Annex B to Directive 64/432/EEC is to be read as if—
 
-- (a) the reference to “**Officially tuberculosis-free herd status may be suspended**” includes the herd no longer being considered to be free from tuberculosis under the Tuberculosis (Scotland) Order 2023[^key-1be067d6bab54d61f2da6498cf2c4501] (or legislation having equivalent effect in another part of the United Kingdom),
+- (a) the reference to “**Officially tuberculosis-free herd status may be suspended**” includes the herd no longer being considered to be free from tuberculosis under the Tuberculosis (Scotland) Order 2023[^c-1be067d6bab54d61f2da6498cf2c4501] (or legislation having equivalent effect in another part of the United Kingdom),
 - (b) the references to “intra-Community trade” include trade between the United Kingdom and a member State,
 - (c) the reference to “**Community legislation**” includes these Regulations and legislation having equivalent effect in another part of the United Kingdom,
 - (d) the reference to “**in a region, Member States**” includes—
@@ -771,7 +771,7 @@ for co-ordinating the standards and methods of diagnosis referred to.
 - (a) it is removed immediately from the quarantine centre; and
 - (b) any other bovine animal of the same group is retested for the relevant disease in accordance with sub paragraph (1), with the period after which it can be retested starting on the date the positive bovine animal is removed.
 
-(3)[^key-9feda69820c328800c3b036af4ea6e7e] For the purposes of sub-paragraph (1)(a), Annex C to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if—
+(3)[^c-9feda69820c328800c3b036af4ea6e7e] For the purposes of sub-paragraph (1)(a), Annex C to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if—
 
 - (a) the references to “each Member State” and “the Member State” include the United Kingdom,
 - (b) the references to “certification” include a “certificate” as defined in these Regulations or an equivalent certificate published by an authority in another part of the United Kingdom under legislation in force there;
@@ -806,16 +806,16 @@ for co-ordinating the standards and methods of diagnosis referred to.
 
 Regulations 16 and 41
 
-### PART 1 — Records of enzootic bovine leukosis and marking of semen ...[^key-fd1187e6d797a297d86b1f6201c200fb]
+### PART 1 — Records of enzootic bovine leukosis and marking of semen ...[^c-fd1187e6d797a297d86b1f6201c200fb]
 
 **1.** (1) The centre veterinarian must make a record of a bovine animal admitted that–
 
-- (a) did not belong to a herd officially free of enzootic bovine leukosis in accordance with sections A and B of Chapter 1 of Annex D to[^key-74b9949c1d54236ac4b2df397266e20a] Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432); or
+- (a) did not belong to a herd officially free of enzootic bovine leukosis in accordance with sections A and B of Chapter 1 of Annex D to[^c-74b9949c1d54236ac4b2df397266e20a] Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432); or
 - (b) was produced by a dam which did not, after removal of the bovine animal from it, test negative to a test carried out in accordance with Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
 
 (2) The centre veterinarian must pass a copy of any record made under sub paragraph (1) to the centre veterinarian of any collection centre to which the bovine animals or their semen may move, not later than the date of such move.
 
-(3)[^key-2e7fbfabeee14ce8726771fba63b1300] For the purposes of sub-paragraph (1)(a), Section A(iii) of Chapter 1 of Annex D to Directive 64/432/EEC is to be read as if the reference to “**Member State or region**” includes the United Kingdom or region of the United Kingdom.
+(3)[^c-2e7fbfabeee14ce8726771fba63b1300] For the purposes of sub-paragraph (1)(a), Section A(iii) of Chapter 1 of Annex D to Directive 64/432/EEC is to be read as if the reference to “**Member State or region**” includes the United Kingdom or region of the United Kingdom.
 
 (4) For the purposes of sub-paragraph (1)(b), Annex D (Chapter II) to Directive 64/432/EEC is to be read as if the references to “The State institutes, national reference laboratories or official institutes designated in accordance with Article 6a” include—
 
@@ -824,7 +824,7 @@ Regulations 16 and 41
 
 for co-ordinating the standards and methods of diagnosis referred to.
 
-**2.** The centre veterinarian must ensure that each individual collection[^key-24acf993ce22217566b26d3b3d3a87cb] of semen collected at the centre is clearly marked in such a way that the following information can be readily established–
+**2.** The centre veterinarian must ensure that each individual collection[^c-24acf993ce22217566b26d3b3d3a87cb] of semen collected at the centre is clearly marked in such a way that the following information can be readily established–
 
 - (a) the date the semen was collected;
 - (b) the identity of the donor bovine animal under the cattle identification regulations;
@@ -862,9 +862,9 @@ for co-ordinating the standards and methods of diagnosis referred to.
 
 (6) Where any person has been supplied with ejaculate, other than from the centre, and that person subsequently supplies that ejaculate to any other person, sub-paragraph (4)(b) shall apply equally to that other person.
 
-(7)[^key-30f2e4ac74127b1c6ccda631b0893cb9] For the purposes of sub-paragraph (1)(a), Annex B to Directive 64/432/EEC is to be read as if—
+(7)[^c-30f2e4ac74127b1c6ccda631b0893cb9] For the purposes of sub-paragraph (1)(a), Annex B to Directive 64/432/EEC is to be read as if—
 
-- (a) the reference to “**Officially tuberculosis-free herd status may be suspended**” includes the herd no longer being considered to be free from tuberculosis under the Tuberculosis (Scotland) Order 2023[^key-28b36ee55832268a3dc5319be639ce76] (or legislation having equivalent effect in another part of the United Kingdom),
+- (a) the reference to “**Officially tuberculosis-free herd status may be suspended**” includes the herd no longer being considered to be free from tuberculosis under the Tuberculosis (Scotland) Order 2023[^c-28b36ee55832268a3dc5319be639ce76] (or legislation having equivalent effect in another part of the United Kingdom),
 - (b) the references to “intra-Community trade” include trade between the United Kingdom and a member State,
 - (c) the reference to “**Community legislation**” includes these Regulations and legislation having equivalent effect in another part of the United Kingdom,
 - (d) the reference to “**in a region, Member States**” includes—
@@ -900,30 +900,30 @@ for co-ordinating the standards and methods of diagnosis referred to.
 
 - (a) the bovine animal is isolated;
 - (b) semen collected from that animal since the date of the last negative test (or the date that animal arrived at the centre if the positive result is from the first test carried out there) is–
-  - (i) if held at the centre, not placed on the market[^key-68368b14d8672ffb5e4457950d882151]; and
+  - (i) if held at the centre, not placed on the market[^c-68368b14d8672ffb5e4457950d882151]; and
   - (ii) if supplied to any person from the centre, the subject of notice to that person under paragraph 2;
 - (c) semen collected from any other bovine animal at the centre since the date of the positive test is–
   - (i) if held at the centre–
     - (aa) kept in separate storage; and
-    - (bb) not placed on the market[^key-ad18bf5de16a283e7683a55e432fa016],
+    - (bb) not placed on the market[^c-ad18bf5de16a283e7683a55e432fa016],
 
-    until the health status of the centre has been restored to the level required by [^key-a3804b40bd8ab4b388c971a4ef3e2e3b]... these Regulations;
+    until the health status of the centre has been restored to the level required by [^c-a3804b40bd8ab4b388c971a4ef3e2e3b]... these Regulations;
   - (ii) if supplied to any person, the subject of notice to that person under sub paragraph (2).
 
 (2) Notice shall be given that semen supplied from–
 
-- (a) the bovine animal that tested positive shall not be placed on the market[^key-26ad88f054d8fa98c25b714b9fc22648]; or
+- (a) the bovine animal that tested positive shall not be placed on the market[^c-26ad88f054d8fa98c25b714b9fc22648]; or
 - (b) any other bovine animal at the centre shall be–
   - (i) kept in separate storage; and
-  - (ii) not placed on the market[^key-15b9d1e5e7db5286816af9df9a101c0c],
+  - (ii) not placed on the market[^c-15b9d1e5e7db5286816af9df9a101c0c],
 
-  until the health status of the centre has been restored to the level required by [^key-5658f544024b3a70bd39994acfd1b3d7]... these Regulations.
+  until the health status of the centre has been restored to the level required by [^c-5658f544024b3a70bd39994acfd1b3d7]... these Regulations.
 
 (3) Where any person has been supplied with semen, other than from the centre, and that person subsequently supplies that semen to any other person, sub–paragraph (2) shall apply equally to that other person.
 
 **3.** A person given notice under paragraphs 1 and 2 must ensure that semen held by or for that person is kept or supplied in accordance with that notice.
 
-**4.** Paragraphs 2 and 3 are subject to the exception that ejaculate from a bovine animal that tested positive under paragraph 1 for BVD/MD may be the subject of trade with a member State[^key-0a1493ca09da19e6259269068a358a22] if the ejaculate tests negative for BVD/MD.
+**4.** Paragraphs 2 and 3 are subject to the exception that ejaculate from a bovine animal that tested positive under paragraph 1 for BVD/MD may be the subject of trade with a member State[^c-0a1493ca09da19e6259269068a358a22] if the ejaculate tests negative for BVD/MD.
 
 ### PART 3 — Measures applicable to processing facilities at a licensed collection centre
 
@@ -931,12 +931,12 @@ for co-ordinating the standards and methods of diagnosis referred to.
 
 - (a) semen processed at the centre is–
   - (i) collected at a licensed collection centre;
-  - (ii) collected at a collection centre approved under legislation equivalent to these Regulations[^key-3137e656e77780001731fae57ee9665b] in another part of the United Kingdom; or
+  - (ii) collected at a collection centre approved under legislation equivalent to these Regulations[^c-3137e656e77780001731fae57ee9665b] in another part of the United Kingdom; or
   - (iii) from bovine animals which have been subjected to the tests specified in Schedule 2, paragraph 2(1);
 - (b) any semen referred to at sub paragraph (a)(iii) is–
-  - (i) processed using separate equipment (which must be cleaned and sterilised after use) or at a different time from the processing of semen intended for trade with a member State[^key-756aa011f45eccd4d89623cede817507]; and
+  - (i) processed using separate equipment (which must be cleaned and sterilised after use) or at a different time from the processing of semen intended for trade with a member State[^c-756aa011f45eccd4d89623cede817507]; and
   - (ii) identified by a marking different from that required under sub paragraph (f);
-- (c) semen collected, processed and quarantined at licensed collection centres and intended for trade with a member State[^key-20ec69c67ef5200e60c671ae58f558c1] does not come into contact with and is not stored in the same room as any other semen processed at the centre;
+- (c) semen collected, processed and quarantined at licensed collection centres and intended for trade with a member State[^c-20ec69c67ef5200e60c671ae58f558c1] does not come into contact with and is not stored in the same room as any other semen processed at the centre;
 - (d) products of animal origin used in the processing of semen, including additives and diluents, are obtained from sources which present no animal health risk or are so treated prior to use that such risk is removed;
 - (e) the cryogenic agent used has not been previously used for other products of animal origin;
 - (f) each individual dose of semen is sealed, numbered and clearly marked so that the following information can be readily established–
@@ -949,7 +949,7 @@ for co-ordinating the standards and methods of diagnosis referred to.
 **2.** The centre veterinarian may not admit semen not collected at the centre for processing unless it is accompanied by–
 
 - (a) the documents specified in regulation 14(4); and
-- (b) if the semen comes from unlicensed premises, the documents specified in Schedule 7, paragraph 1(d)[^key-e7034bd1b8b07d20504428684a07f50c].
+- (b) if the semen comes from unlicensed premises, the documents specified in Schedule 7, paragraph 1(d)[^c-e7034bd1b8b07d20504428684a07f50c].
 
 **3.** (1) Subject to sub paragraph (2), the centre veterinarian must ensure that the antibiotics streptomycin, penicillin, lincomycin and spectinomycin are added to produce the following concentrations in the final diluted semen–
 
@@ -977,14 +977,14 @@ for co-ordinating the standards and methods of diagnosis referred to.
 
 for 30 days after collection or, in the case of fresh semen, until the date of dispatch of the semen.
 
-**4.** (1)[^key-76fec3422e90dc75b22ac22d2b6c02d8] With regard to a bovine animal that–
+**4.** (1)[^c-76fec3422e90dc75b22ac22d2b6c02d8] With regard to a bovine animal that–
 
-- (a) did not belong to a herd officially free of enzootic bovine leukosis in accordance with sections A and B of Chapter 1 of Annex D to[^key-f13419050b5ebfa7146d4dee6d1de192] Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432); or
+- (a) did not belong to a herd officially free of enzootic bovine leukosis in accordance with sections A and B of Chapter 1 of Annex D to[^c-f13419050b5ebfa7146d4dee6d1de192] Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432); or
 - (b) was produced by a dam which did not, after removal of the bovine animal from it, test negative to a test carried out in accordance with Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432),
 
 the centre veterinarian must not allow its semen to leave the centre until the bovine animal has reached the age of two years and has tested negative for enzootic bovine leukosis, under a serological test carried out in accordance with the procedure described in Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
 
-(2)[^key-92f46224e2f54fe9926397c1a4ae2d11] For the purposes of sub-paragraph (1)(a), Section A(iii) of Chapter 1 of Annex D to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if the reference to “**Member State or region**” includes the United Kingdom or region of the United Kingdom.
+(2)[^c-92f46224e2f54fe9926397c1a4ae2d11] For the purposes of sub-paragraph (1)(a), Section A(iii) of Chapter 1 of Annex D to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if the reference to “**Member State or region**” includes the United Kingdom or region of the United Kingdom.
 
 (3) For the purposes of sub-paragraph (1)(b) and the words following that sub-paragraph, Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if the references to “The State institutes, national reference laboratories or official institutes designated in accordance with Article 6a” include—
 
@@ -1003,7 +1003,7 @@ Regulation 16
 
 - (a) only semen is stored at the centre;
 - (b) semen is only stored at the centre if it has not come into contact with any other semen and–
-  - (i) it has been collected and processed at licensed collection centres, or at centres otherwise approved for semen collection under the Directive or legislation equivalent to these Regulations in another part of the United Kingdom[^key-07daa0c49a92298a2caef396532782bc]; or
+  - (i) it has been collected and processed at licensed collection centres, or at centres otherwise approved for semen collection under the Directive or legislation equivalent to these Regulations in another part of the United Kingdom[^c-07daa0c49a92298a2caef396532782bc]; or
   - (ii) following collection and processing at licensed collection centres or at centres otherwise approved for semen collection under the Directive or legislation equivalent to these Regulations in another part of the United Kingdom, it has been stored at licensed storage centres or at centres otherwise approved for semen storage under the Directive or legislation equivalent to these Regulations in another part of the United Kingdom;
 - (c) the cryogenic agent used has not been previously used for other products of animal origin; and
 - (d) each individual dose of semen is sealed, numbered and clearly marked in such a way that the following information can be readily established–
@@ -1023,14 +1023,14 @@ Regulation 16
 
 Regulations 16 and 41
 
-### PART 1 — Records of enzootic bovine leukosis and marking of semen ...[^key-99ce8de5429dd9c6b2f7627d0be0bd70]
+### PART 1 — Records of enzootic bovine leukosis and marking of semen ...[^c-99ce8de5429dd9c6b2f7627d0be0bd70]
 
 **1.** (1) The centre veterinarian must make a record of a bovine animal admitted that–
 
-- (a) did not belong to a herd officially free of enzootic bovine leukosis in accordance with sections A and B of Chapter 1 of Annex D to[^key-a692856d8cb300d7bacd9d8360f32108] Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432); or
+- (a) did not belong to a herd officially free of enzootic bovine leukosis in accordance with sections A and B of Chapter 1 of Annex D to[^c-a692856d8cb300d7bacd9d8360f32108] Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432); or
 - (b) was produced by a dam which did not, after removal of the bovine animal from it, test negative to a test carried out in accordance with Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
 
-(3)[^key-ed5fbaa5d50d2b607afd8245bda335dd] For the purposes of sub-paragraph (1)(a), Section A(iii) of Chapter 1 of Annex D to Directive 64/432/EEC is to be read as if the reference to “**Member State or region**” includes the United Kingdom or region of the United Kingdom.
+(3)[^c-ed5fbaa5d50d2b607afd8245bda335dd] For the purposes of sub-paragraph (1)(a), Section A(iii) of Chapter 1 of Annex D to Directive 64/432/EEC is to be read as if the reference to “**Member State or region**” includes the United Kingdom or region of the United Kingdom.
 
 (4) For the purposes of sub-paragraph (1)(b), Annex D (Chapter II) to Directive 64/432/EEC is to be read as if the references to “The State institutes, national reference laboratories or official institutes designated in accordance with Article 6a” include—
 
@@ -1041,7 +1041,7 @@ for co-ordinating the standards and methods of diagnosis referred to.
 
 (2) The centre veterinarian must pass a copy of any record made under sub paragraph (1) to the centre veterinarian of any collection centre to which the bovine animal or semen of that animal may move, not later than the date of such move.
 
-**2.** The centre veterinarian must ensure that each individual collection[^key-9b5b41ab90ea21ef64a5af1e6e58737e] of semen collected at the centre is clearly marked in such a way that the following information can be readily established–
+**2.** The centre veterinarian must ensure that each individual collection[^c-9b5b41ab90ea21ef64a5af1e6e58737e] of semen collected at the centre is clearly marked in such a way that the following information can be readily established–
 
 - (a) the date the semen was collected;
 - (b) the identity of the donor bovine animal under the cattle identification regulations;
@@ -1050,15 +1050,15 @@ for co-ordinating the standards and methods of diagnosis referred to.
 
 ### PART 2 — Routine tests and treatment which must be applied to all bovine animals in domestic collection centres
 
-**1.** (1)[^key-dc4c6d4f025e1eb1c29800876843f27d] The centre veterinarian must ensure that all bovine animals kept at a domestic collection centre must be subjected at least once a year to the following tests–
+**1.** (1)[^c-dc4c6d4f025e1eb1c29800876843f27d] The centre veterinarian must ensure that all bovine animals kept at a domestic collection centre must be subjected at least once a year to the following tests–
 
 - (a) for bovine tuberculosis, an intradermal tuberculin test, carried out in accordance with the procedure laid down in Annex B to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432);
 - (b) for bovine brucellosis, a serological test carried out in accordance with the procedure described in Annex C to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432); and
 - (c) for enzootic bovine leukosis, a serological test carried out in accordance with the procedure described in Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
 
-(2)[^key-c5ee1ed82bc4bb6d79213375abf0b042] For the purposes of sub-paragraph (1)(a), Annex B to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if—
+(2)[^c-c5ee1ed82bc4bb6d79213375abf0b042] For the purposes of sub-paragraph (1)(a), Annex B to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if—
 
-- (a) the reference to “**Officially tuberculosis-free herd status may be suspended**” includes the herd no longer being considered to be free from tuberculosis under the Tuberculosis (Scotland) Order 2023[^key-0907d73b711a6eb1f451fcbbe3992b25] (or legislation having equivalent effect in another part of the United Kingdom),
+- (a) the reference to “**Officially tuberculosis-free herd status may be suspended**” includes the herd no longer being considered to be free from tuberculosis under the Tuberculosis (Scotland) Order 2023[^c-0907d73b711a6eb1f451fcbbe3992b25] (or legislation having equivalent effect in another part of the United Kingdom),
 - (b) the references to “intra-Community trade” include trade between the United Kingdom and a member State,
 - (c) the reference to “**Community legislation**” includes these Regulations and legislation having equivalent effect in another part of the United Kingdom,
 - (d) the reference to “**in a region, Member States**” includes—
@@ -1096,7 +1096,7 @@ for co-ordinating the standards and methods of diagnosis referred to.
 - (b) where the semen collected from it is held at the centre–
   - (i) the semen collected from the bovine animal since the last negative test is destroyed;
   - (ii) semen collected from all other bovine animals at the centre since the date when the positive test was carried out is held in separate storage; and
-  - (iii) such semen is not used or supplied until the health status of the centre has been restored to the level required by [^key-a72495e1c3ce4f9459d909572bee5527]... these Regulations.
+  - (iii) such semen is not used or supplied until the health status of the centre has been restored to the level required by [^c-a72495e1c3ce4f9459d909572bee5527]... these Regulations.
 
 (2) Where the semen has been supplied to any person from the centre, the centre veterinarian must notify that person that the semen is subject to the requirements of sub-paragraph (1)(b).
 
@@ -1110,11 +1110,11 @@ for co-ordinating the standards and methods of diagnosis referred to.
 
 - (a) semen processed at the centre is semen collected–
   - (i) at a licensed collection centre;
-  - (ii) at a collection centre approved under the Directive in a[^key-c3bd91024520f07a374b54f588ab858a] member State or under legislation equivalent to these Regulations in another part of the United Kingdom[^key-70c83e43a9e2aea4524ac08d13b118fa];
+  - (ii) at a collection centre approved under the Directive in a[^c-c3bd91024520f07a374b54f588ab858a] member State or under legislation equivalent to these Regulations in another part of the United Kingdom[^c-70c83e43a9e2aea4524ac08d13b118fa];
   - (iii) at a domestic collection centre;
   - (iv) at unlicensed premises in accordance with these Regulations; or
   - (v) lawfully in another part of the United Kingdom;
-- (b) semen is not stored with semen of a different health status and semen must be identifiable by a distinct marking that is different to marking used at licensed collection centres and licensed storage centres.[^key-ec073db195cec6d8a296e8b7be7a9988]
+- (b) semen is not stored with semen of a different health status and semen must be identifiable by a distinct marking that is different to marking used at licensed collection centres and licensed storage centres.[^c-ec073db195cec6d8a296e8b7be7a9988]
 - (c) products of animal origin used in the processing of semen, including additives or dilutents, are obtained from sources which present no animal health risk or are so treated prior to use that such risk is removed;
 - (d) the cryogenic agent used has not been previously used for other products of animal origin;
 - (e) each individual dose of semen is sealed, numbered and clearly marked so that the following information can be readily established–
@@ -1126,7 +1126,7 @@ for co-ordinating the standards and methods of diagnosis referred to.
 **2.** The centre veterinarian may not admit semen not collected at the centre for processing unless it is accompanied by–
 
 - (a) the documents specified in regulation 14(4); and
-- (b) if the semen comes from unlicensed premises, the documents specified in Schedule 7, paragraph 1(d)[^key-eaf891a82f74551c1606f0fcbd07ec49].
+- (b) if the semen comes from unlicensed premises, the documents specified in Schedule 7, paragraph 1(d)[^c-eaf891a82f74551c1606f0fcbd07ec49].
 
 **3.** (1) Subject to sub paragraph (2), the centre veterinarian must ensure that the antibiotics streptomycin, penicillin, lincomycin and spectinomycin are added to produce the following concentrations in the final diluted semen–
 
@@ -1150,14 +1150,14 @@ for co-ordinating the standards and methods of diagnosis referred to.
 
 for 30 days after collection or, in the case of fresh semen, until the date of dispatch of the semen.
 
-**3.** (1)[^key-8d6b933512621599212c1cb4f9d108d5] With regard to a bovine animal that–
+**3.** (1)[^c-8d6b933512621599212c1cb4f9d108d5] With regard to a bovine animal that–
 
-- (a) did not belong to a herd officially free of enzootic bovine leukosis in accordance with sections A and B of Chapter 1 of Annex D to[^key-0b4e862d37de1b5a197aa72e48c25cd8] Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432); or
+- (a) did not belong to a herd officially free of enzootic bovine leukosis in accordance with sections A and B of Chapter 1 of Annex D to[^c-0b4e862d37de1b5a197aa72e48c25cd8] Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432); or
 - (b) was produced by a dam which did not, after removal of the bovine animal from it, test negative to a test carried out in accordance with Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432),
 
 the centre veterinarian must not allow its semen to leave the centre until the bovine animal has reached the age of two years and has tested negative for enzootic bovine leukosis, under a serological test carried out in accordance with the procedure described in Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
 
-(2)[^key-152f3cbb8310802b624fbd5dd75f559c] For the purposes of sub-paragraph (1)(a), Section A(iii) of Chapter 1 of Annex D to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if the reference to “**Member State or region**” includes the United Kingdom or region of the United Kingdom.
+(2)[^c-152f3cbb8310802b624fbd5dd75f559c] For the purposes of sub-paragraph (1)(a), Section A(iii) of Chapter 1 of Annex D to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if the reference to “**Member State or region**” includes the United Kingdom or region of the United Kingdom.
 
 (3) For the purposes of sub-paragraph (1)(b) and the words following that sub-paragraph, Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if the references to “The State institutes, national reference laboratories or official institutes designated in accordance with Article 6a” include—
 
@@ -1200,7 +1200,7 @@ Regulation 16
 
 - (a) the accommodation in which the bovine animals from which semen is to be collected are kept, and the collection facilities (if different), are constructed so that they can be readily cleaned and disinfected;
 - (b) the Scottish Ministers are notified immediately if the result of any test carried out on a bovine animal on the premises, for any disease that must be tested for under these Regulations, indicates a change in the health status of the bovine animal;
-- (c)[^key-30e8df119e81b46d829c5e3e67a7067b] semen collected is moved for processing to—
+- (c)[^c-30e8df119e81b46d829c5e3e67a7067b] semen collected is moved for processing to—
   - (i) a licensed collection centre;
   - (ii) a domestic collection centre;
   - (iii) unlicensed processing premises in Scotland; or
@@ -1213,17 +1213,17 @@ Regulation 16
 
 **2.** (1) The operator of unlicensed premises must make a record of a bovine animal to be admitted that–
 
-- (a) did not belong to a herd officially free of enzootic bovine leukosis in accordance with sections A and B of Chapter 1 of Annex D to[^key-4b19ecee3b53d75517401a024c0addc4] Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432); or
+- (a) did not belong to a herd officially free of enzootic bovine leukosis in accordance with sections A and B of Chapter 1 of Annex D to[^c-4b19ecee3b53d75517401a024c0addc4] Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432); or
 - (b) was produced by a dam which did not, after removal of the bovine animal from it, test negative to a test carried out in accordance with Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
 
-(2) The operator of unlicensed premises must pass a copy of any record made under sub paragraph (1) to —[^key-842b1a9e6e73859ff46892cc7280408f]
+(2) The operator of unlicensed premises must pass a copy of any record made under sub paragraph (1) to —[^c-842b1a9e6e73859ff46892cc7280408f]
 
 - (a) the centre veterinarian of the centre if the bovine animal’s semen is moved for processing to a licensed collection centre or a domestic collection centre; or
 - (b) the veterinarian responsible for supervision of processing if the bovine animal’s semen is moved for processing to any other premises;
 
 not later than the date of such move.
 
-(3)[^key-818c68e60ba9a9906feec370e8e0bcc1] For the purposes of sub-paragraph (1)(a), Section A(iii) of Chapter 1 of Annex D to Directive 64/432/EEC is to be read as if the reference to “**Member State or region**” includes the United Kingdom or region of the United Kingdom.
+(3)[^c-818c68e60ba9a9906feec370e8e0bcc1] For the purposes of sub-paragraph (1)(a), Section A(iii) of Chapter 1 of Annex D to Directive 64/432/EEC is to be read as if the reference to “**Member State or region**” includes the United Kingdom or region of the United Kingdom.
 
 (4) For the purposes of sub-paragraph (1)(b), Annex D (Chapter II) to Directive 64/432/EEC is to be read as if the references to “The State institutes, national reference laboratories or official institutes designated in accordance with Article 6a” include—
 
@@ -1238,20 +1238,20 @@ Regulations 7 and 22
 
 ### PART 1 — Bovine animals that may move to a licensed or domestic collection centre or to unlicensed premises
 
-#### 1.[^key-e2baa95e2ef1b962dbec7b6f5f42f2cf]
+#### 1.[^c-e2baa95e2ef1b962dbec7b6f5f42f2cf]
 
 (1) The bovine animals have–
 
 - (a) completed 28 days' quarantine in–
   - (i) a licensed quarantine centre; or
-  - (ii) a quarantine centre approved in accordance with paragraph 1(a) of Chapter 1 of Annex B to the Directive by the competent authority of a[^key-7bbb6f5b14eaa4946523f0bc9f5800b4] member State or part of the United Kingdom,
+  - (ii) a quarantine centre approved in accordance with paragraph 1(a) of Chapter 1 of Annex B to the Directive by the competent authority of a[^c-7bbb6f5b14eaa4946523f0bc9f5800b4] member State or part of the United Kingdom,
 
   where only other cloven hoofed animals having at least the same health status were present; or
 - (b) undergone the tests referred to in Part 2 of Schedule 3 during the previous 12 months and have been kept in–
-  - (i) a[^key-af41b5d53bd535051e20505ae4e7cbc6] licensed collection centre; or
+  - (i) a[^c-af41b5d53bd535051e20505ae4e7cbc6] licensed collection centre; or
   - (ii) a semen collection centre authorised under the Directive in accordance with paragraph 5 of Chapter 1 of Annex B to the Directive, in the case of movement of a bovine animal kept in a semen collection centre authorised under the Directive in another member State or part of the United Kingdom.
 
-(2)[^key-8f6d765ef6e768aaa09dc5ebd2eef182] For the purposes of sub-paragraph (1)—
+(2)[^c-8f6d765ef6e768aaa09dc5ebd2eef182] For the purposes of sub-paragraph (1)—
 
 - (a) paragraph 1(a) of Chapter 1 of Annex B to the Directive is to be read as if—
   - (i) the reference to “competent authority” includes the authority of another part of the United Kingdom which approves accommodation for the purpose of that period of quarantine, in accordance with legislation in force in that part of the United Kingdom;
@@ -1260,12 +1260,12 @@ Regulations 7 and 22
 
 ### PART 2 — Bovine animals that may move to a domestic collection centre or to unlicensed premises
 
-**1.** (1)[^key-d961beb42eb55e296bae7a7b269ae84b] The bovine animals belonged to a herd–
+**1.** (1)[^c-d961beb42eb55e296bae7a7b269ae84b] The bovine animals belonged to a herd–
 
-- (a) officially tuberculosis free in accordance with the text before paragraph 1, paragraph 1 and paragraph 2 of Annex A.1 to[^key-d68845115a7ddea1536964980eb627d4] Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432) and the herd must not contain any bovine animals that have suffered a positive reaction, or given an inconclusive result, to a tuberculin skin test carried out in accordance with Annex B to[^key-15036b6532f4f6992e63a732f1c75e62] Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432); and
-- (b) officially brucellosis free in accordance with the text before paragraph 1, paragraph 1 and paragraph 2 of Annex A.2 to[^key-43b7de97d4b3dfa954e0eda279b32935] Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
+- (a) officially tuberculosis free in accordance with the text before paragraph 1, paragraph 1 and paragraph 2 of Annex A.1 to[^c-d68845115a7ddea1536964980eb627d4] Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432) and the herd must not contain any bovine animals that have suffered a positive reaction, or given an inconclusive result, to a tuberculin skin test carried out in accordance with Annex B to[^c-15036b6532f4f6992e63a732f1c75e62] Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432); and
+- (b) officially brucellosis free in accordance with the text before paragraph 1, paragraph 1 and paragraph 2 of Annex A.2 to[^c-43b7de97d4b3dfa954e0eda279b32935] Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
 
-(2)[^key-9500aedafd219568f053bdd07e1d47c5] For the purposes of paragraph (1)—
+(2)[^c-9500aedafd219568f053bdd07e1d47c5] For the purposes of paragraph (1)—
 
 - (a) the text before paragraph 1, paragraph 1 and paragraph 2 of Annex A.1 to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) are to be read as if—
   - (i) the references to “competent authority” and “competent authority of a Member State” include**—**
@@ -1281,7 +1281,7 @@ Regulations 7 and 22
   - (ii) the reference to “**the Member State or part of the Member state**” includes the United Kingdom or part of the United Kingdom,
   - (iii) the references to “Member States, or regions of Member States” and “that Member State or region” include the United Kingdom or region of the United Kingdom,
 - (c) Annex B to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if—
-  - (i) the reference to “**Officially tuberculosis-free herd status may be suspended**” includes the herd no longer being considered to be free from tuberculosis under the Tuberculosis (Scotland) Order 2023[^key-6dae460d1162bb4401ad468ce5e3d728] (or legislation having equivalent effect in another part of the United Kingdom),
+  - (i) the reference to “**Officially tuberculosis-free herd status may be suspended**” includes the herd no longer being considered to be free from tuberculosis under the Tuberculosis (Scotland) Order 2023[^c-6dae460d1162bb4401ad468ce5e3d728] (or legislation having equivalent effect in another part of the United Kingdom),
   - (ii) the references to “intra-Community trade” include trade between the United Kingdom and a member State,
   - (iii) the reference to “**Community legislation**” includes these Regulations and legislation having equivalent effect in another part of the United Kingdom,
   - (iv) the reference to “**in a region, Member States**” includes—
@@ -1294,15 +1294,15 @@ Regulations 7 and 22
     for co-ordinating the standards and methods of diagnosis referred to;
   - (vi) the reference to “**in their respective Member States**” includes in respective parts of the United Kingdom.
 
-**2.** (1)[^key-1c8f424fbc393ddb024a82dc5d8f6a31] The bovine animals have been subjected to the following tests within the 28 days preceding the date of admission to a domestic collection centre or to unlicensed premises, with negative results–
+**2.** (1)[^c-1c8f424fbc393ddb024a82dc5d8f6a31] The bovine animals have been subjected to the following tests within the 28 days preceding the date of admission to a domestic collection centre or to unlicensed premises, with negative results–
 
 - (a) for bovine tuberculosis, an intradermal tuberculin test carried out in accordance with the procedure laid down in Annex B to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432);
 - (b) for bovine brucellosis, a serological test carried out in accordance with the procedure described in Annex C to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432); and
 - (c) for enzootic bovine leukosis, a serological test carried out in accordance with the procedure laid down in Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
 
-(2)[^key-07fa442c695b1f03c80ec748feaf7c20] For the purposes of sub-paragraph (1)(a), Annex B to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if—
+(2)[^c-07fa442c695b1f03c80ec748feaf7c20] For the purposes of sub-paragraph (1)(a), Annex B to Directive [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) is to be read as if—
 
-- (a) the reference to “**Officially tuberculosis-free herd status may be suspended**” includes the herd no longer being considered to be free from tuberculosis under the Tuberculosis (Scotland) Order 2023[^key-7249ca1da8b97b3140c8bf9f6c8ad10b] (or legislation having equivalent effect in another part of the United Kingdom),
+- (a) the reference to “**Officially tuberculosis-free herd status may be suspended**” includes the herd no longer being considered to be free from tuberculosis under the Tuberculosis (Scotland) Order 2023[^c-7249ca1da8b97b3140c8bf9f6c8ad10b] (or legislation having equivalent effect in another part of the United Kingdom),
 - (b) the references to “intra-Community trade” include trade between the United Kingdom and a member State,
 - (c) the reference to “**Community legislation**” includes these Regulations and legislation having equivalent effect in another part of the United Kingdom,
 - (d) the reference to “**in a region, Member States**” includes—
@@ -1428,7 +1428,7 @@ A Regulatory Impact Assessment has not been prepared for these Regulations.
 
 [^c18760181]: Marginal citation: [S.S.I. 2007/174](https://www.legislation.gov.uk/ssi/2007/174).
 
-[^key-c06864fff921aeb31df3d8c8801be0d1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/2/1) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(3)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c06864fff921aeb31df3d8c8801be0d1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/2/1) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(3)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c18760191]: Marginal citation: O.J. No. L 204, 11.8.2000, p.1.
 
@@ -1438,19 +1438,19 @@ A Regulatory Impact Assessment has not been prepared for these Regulations.
 
 [^c18760221]: Marginal citation: O.J. No. P 121, 29.7.1964, p.1977.
 
-[^key-9038de38324444fbe2d71abcea0bf25f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/2/1) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(3)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9038de38324444fbe2d71abcea0bf25f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/2/1) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(3)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-87b981f2629dd6dfbc586ccc7c165ab3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/2/1) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(3)(c)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-87b981f2629dd6dfbc586ccc7c165ab3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/2/1) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(3)(c)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c531fcb61f057e207d293a1edcfd3297]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/2/1) inserted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2023/370/regulation/3/a)
+[^c-c531fcb61f057e207d293a1edcfd3297]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/2/1) inserted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2023/370/regulation/3/a)
 
-[^key-df605eeea41d8f40fbbecb65d8cf805b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/2/1) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(3)(d)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-df605eeea41d8f40fbbecb65d8cf805b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/2/1) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(3)(d)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c56ddb70389dab867d4cbfcd20a7142c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/2/1) inserted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2023/370/regulation/3/b)
+[^c-c56ddb70389dab867d4cbfcd20a7142c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/2/1) inserted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2023/370/regulation/3/b)
 
-[^key-fe0d7b96be16a7470059accf53486f66]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/2/1) omitted (2.2.2024) by virtue of [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [3(c)](https://www.legislation.gov.uk/ssi/2023/370/regulation/3/c)
+[^c-fe0d7b96be16a7470059accf53486f66]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/2/1) omitted (2.2.2024) by virtue of [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [3(c)](https://www.legislation.gov.uk/ssi/2023/370/regulation/3/c)
 
-[^key-39d088be8eeac1dd87cf3e366df7f862]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/2/1) inserted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [3(d)](https://www.legislation.gov.uk/ssi/2023/370/regulation/3/d)
+[^c-39d088be8eeac1dd87cf3e366df7f862]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/2/1) inserted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [3(d)](https://www.legislation.gov.uk/ssi/2023/370/regulation/3/d)
 
 [^c18760231]: Marginal citation: [1966 c. 36](https://www.legislation.gov.uk/ukpga/1966/36).
 
@@ -1458,224 +1458,224 @@ A Regulatory Impact Assessment has not been prepared for these Regulations.
 
 [^c18760251]: Marginal citation: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22). Section 17(4) was repealed by the Animal Health and Welfare Act 1984, section 16(2) and Schedule 2.
 
-[^key-8504c01b4cfa06ebf53219efad257c69]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/ssi/2007/330/regulation/3/2) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(4)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8504c01b4cfa06ebf53219efad257c69]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/ssi/2007/330/regulation/3/2) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(4)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c18760261]: Marginal citation: [1986 c. 14](https://www.legislation.gov.uk/ukpga/1986/14).
 
-[^key-5c20af8d62206177c08b5d7e0e6989db]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/ssi/2007/330/regulation/3/4) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(4)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5c20af8d62206177c08b5d7e0e6989db]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/ssi/2007/330/regulation/3/4) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(4)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-346698406722d91d52133a5da40c0fbc]: Textual amendment: Words in [reg. 4(a)](https://www.legislation.gov.uk/ssi/2007/330/regulation/4/a) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(5)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-346698406722d91d52133a5da40c0fbc]: Textual amendment: Words in [reg. 4(a)](https://www.legislation.gov.uk/ssi/2007/330/regulation/4/a) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(5)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e57f7881a900dfad7d33c89bbe08140d]: Textual amendment: Words in [reg. 4(b)(i)](https://www.legislation.gov.uk/ssi/2007/330/regulation/4/b/i) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(5)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/5/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e57f7881a900dfad7d33c89bbe08140d]: Textual amendment: Words in [reg. 4(b)(i)](https://www.legislation.gov.uk/ssi/2007/330/regulation/4/b/i) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(5)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/5/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-20b23dc4fe568fa42436ff1352009bfc]: Textual amendment: Words in [reg. 4(b)(i)](https://www.legislation.gov.uk/ssi/2007/330/regulation/4/b/i) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(5)(b)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/5/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-20b23dc4fe568fa42436ff1352009bfc]: Textual amendment: Words in [reg. 4(b)(i)](https://www.legislation.gov.uk/ssi/2007/330/regulation/4/b/i) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(5)(b)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/5/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9643ccf3c3de8310c30eb08b6e58a8ea]: Textual amendment: Words in [reg. 4(b)(ii)](https://www.legislation.gov.uk/ssi/2007/330/regulation/4/b/ii) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(5)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/5/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9643ccf3c3de8310c30eb08b6e58a8ea]: Textual amendment: Words in [reg. 4(b)(ii)](https://www.legislation.gov.uk/ssi/2007/330/regulation/4/b/ii) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(5)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/5/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e9985192c1e15bbeda4ec1fa7d1adea2]: Textual amendment: Words in [reg. 4(c)(i)](https://www.legislation.gov.uk/ssi/2007/330/regulation/4/c/i) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(5)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/5/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e9985192c1e15bbeda4ec1fa7d1adea2]: Textual amendment: Words in [reg. 4(c)(i)](https://www.legislation.gov.uk/ssi/2007/330/regulation/4/c/i) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(5)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/5/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-68b9957b1849ee81d7cfeb9bb0e640fb]: Textual amendment: Words in [reg. 4(c)(i)](https://www.legislation.gov.uk/ssi/2007/330/regulation/4/c/i) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(5)(c)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/5/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-68b9957b1849ee81d7cfeb9bb0e640fb]: Textual amendment: Words in [reg. 4(c)(i)](https://www.legislation.gov.uk/ssi/2007/330/regulation/4/c/i) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(5)(c)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/5/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-332587e798d60e64fe27cc647a7df4b0]: Textual amendment: Words in [reg. 4(c)(ii)](https://www.legislation.gov.uk/ssi/2007/330/regulation/4/c/ii) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(5)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/5/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-332587e798d60e64fe27cc647a7df4b0]: Textual amendment: Words in [reg. 4(c)(ii)](https://www.legislation.gov.uk/ssi/2007/330/regulation/4/c/ii) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(5)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/5/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-39fc808de228b45a44adfbd79c6af096]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/ssi/2007/330) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(2)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-39fc808de228b45a44adfbd79c6af096]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/ssi/2007/330) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(2)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5f15b41e79760c512eec600843262c12]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/10/1) omitted (2.2.2024) by virtue of [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2023/370/regulation/4/a)
+[^c-5f15b41e79760c512eec600843262c12]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/10/1) omitted (2.2.2024) by virtue of [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2023/370/regulation/4/a)
 
-[^key-578282429cd47d7d6afea9fea740090e]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/ssi/2007/330/regulation/10/4) omitted (2.2.2024) by virtue of [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2023/370/regulation/4/b)
+[^c-578282429cd47d7d6afea9fea740090e]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/ssi/2007/330/regulation/10/4) omitted (2.2.2024) by virtue of [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2023/370/regulation/4/b)
 
-[^key-c0980ff3df9ceb59d43c7fbedc8a3b1c]: Textual amendment: Word in [Regulations](https://www.legislation.gov.uk/ssi/2007/330) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(2)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c0980ff3df9ceb59d43c7fbedc8a3b1c]: Textual amendment: Word in [Regulations](https://www.legislation.gov.uk/ssi/2007/330) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(2)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9b25a4a49ac28329d07e99b31aa4c34a]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/ssi/2007/330/regulation/14/3) substituted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [5](https://www.legislation.gov.uk/ssi/2023/370/regulation/5)
+[^c-9b25a4a49ac28329d07e99b31aa4c34a]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/ssi/2007/330/regulation/14/3) substituted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [5](https://www.legislation.gov.uk/ssi/2023/370/regulation/5)
 
-[^key-223edcf86cf8e37176c481d69c5a9c75]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/ssi/2007/330/regulation/16) heading inserted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [6(a)](https://www.legislation.gov.uk/ssi/2023/370/regulation/6/a)
+[^c-223edcf86cf8e37176c481d69c5a9c75]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/ssi/2007/330/regulation/16) heading inserted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [6(a)](https://www.legislation.gov.uk/ssi/2023/370/regulation/6/a)
 
-[^key-033a6d62e236ea4a13c2be54f636b37b]: Textual amendment: [Reg. 16(1A)](https://www.legislation.gov.uk/ssi/2007/330/regulation/16/1A) inserted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [6(b)](https://www.legislation.gov.uk/ssi/2023/370/regulation/6/b)
+[^c-033a6d62e236ea4a13c2be54f636b37b]: Textual amendment: [Reg. 16(1A)](https://www.legislation.gov.uk/ssi/2007/330/regulation/16/1A) inserted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [6(b)](https://www.legislation.gov.uk/ssi/2023/370/regulation/6/b)
 
 [^c18760271]: Marginal citation: [S.I. 1983/6](https://www.legislation.gov.uk/uksi/1983/6), amended by [S.I. 1988/1090](https://www.legislation.gov.uk/uksi/1988/1090) and 1990/2271.
 
-[^key-da00b3abedf927c2093f0d942f799d5d]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/ssi/2007/330/regulation/21) renumbered as reg. 21(1) (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [7(a)](https://www.legislation.gov.uk/ssi/2023/370/regulation/7/a)
+[^c-da00b3abedf927c2093f0d942f799d5d]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/ssi/2007/330/regulation/21) renumbered as reg. 21(1) (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [7(a)](https://www.legislation.gov.uk/ssi/2023/370/regulation/7/a)
 
-[^key-a83b79764f06e11bec8bd8a9a9b229cf]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/21/1) inserted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [7(b)](https://www.legislation.gov.uk/ssi/2023/370/regulation/7/b)
+[^c-a83b79764f06e11bec8bd8a9a9b229cf]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/21/1) inserted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [7(b)](https://www.legislation.gov.uk/ssi/2023/370/regulation/7/b)
 
-[^key-d88db008366f6aa500363725de832e27]: Textual amendment: [Reg. 21(2)](https://www.legislation.gov.uk/ssi/2007/330/regulation/21/2) inserted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [7(c)](https://www.legislation.gov.uk/ssi/2023/370/regulation/7/c)
+[^c-d88db008366f6aa500363725de832e27]: Textual amendment: [Reg. 21(2)](https://www.legislation.gov.uk/ssi/2007/330/regulation/21/2) inserted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [7(c)](https://www.legislation.gov.uk/ssi/2023/370/regulation/7/c)
 
-[^key-bb8398d7b7404f3b53cb73a1e76b620a]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/ssi/2007/330/regulation/22/2) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(6)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bb8398d7b7404f3b53cb73a1e76b620a]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/ssi/2007/330/regulation/22/2) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(6)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b5b889ff88c3f81436d949f2fd4d5d98]: Textual amendment: [Reg. 22(8)](https://www.legislation.gov.uk/ssi/2007/330/regulation/22/8) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(6)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/6/b) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b5b889ff88c3f81436d949f2fd4d5d98]: Textual amendment: [Reg. 22(8)](https://www.legislation.gov.uk/ssi/2007/330/regulation/22/8) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(6)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/6/b) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c18760281]: Marginal citation: [S.S.I. 2005/653](https://www.legislation.gov.uk/ssi/2005/653).
 
-[^key-cc0023794daa5b16175d25509902f9cc]: Textual amendment: Word in [reg. 23(2)](https://www.legislation.gov.uk/ssi/2007/330/regulation/23/2) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(7)(a)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/7/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cc0023794daa5b16175d25509902f9cc]: Textual amendment: Word in [reg. 23(2)](https://www.legislation.gov.uk/ssi/2007/330/regulation/23/2) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(7)(a)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/7/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2fe2228ad54771c5c57ec69658ac278b]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/ssi/2007/330/regulation/23/2) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(7)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/7/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2fe2228ad54771c5c57ec69658ac278b]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/ssi/2007/330/regulation/23/2) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(7)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/7/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0d3f65861f9b3f7710366dbd804feac0]: Textual amendment: [Reg. 23(3)](https://www.legislation.gov.uk/ssi/2007/330/regulation/23/3) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(7)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0d3f65861f9b3f7710366dbd804feac0]: Textual amendment: [Reg. 23(3)](https://www.legislation.gov.uk/ssi/2007/330/regulation/23/3) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(7)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-da94061a6e16707a55e5af1bbdbb52eb]: Textual amendment: Reg. 24 renumbered as reg. 24(1) (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [8(a)](https://www.legislation.gov.uk/ssi/2023/370/regulation/8/a)
+[^c-da94061a6e16707a55e5af1bbdbb52eb]: Textual amendment: Reg. 24 renumbered as reg. 24(1) (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [8(a)](https://www.legislation.gov.uk/ssi/2023/370/regulation/8/a)
 
-[^key-ae4b342cbecad238c543068947a7bd22]: Textual amendment: Word in [reg. 24(1)(a)](https://www.legislation.gov.uk/ssi/2007/330/regulation/24/1/a) omitted (2.2.2024) by virtue of [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [8(b)(i)](https://www.legislation.gov.uk/ssi/2023/370/regulation/8/b/i)
+[^c-ae4b342cbecad238c543068947a7bd22]: Textual amendment: Word in [reg. 24(1)(a)](https://www.legislation.gov.uk/ssi/2007/330/regulation/24/1/a) omitted (2.2.2024) by virtue of [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [8(b)(i)](https://www.legislation.gov.uk/ssi/2023/370/regulation/8/b/i)
 
-[^key-99f576198dbf354390bff370fff1856c]: Textual amendment: [Reg. 24(1)(c)](https://www.legislation.gov.uk/ssi/2007/330/regulation/24/1/c)[(2)-(5)](https://www.legislation.gov.uk/ssi/2007/330/regulation/24/2) and word inserted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [8(b)(ii)](https://www.legislation.gov.uk/ssi/2023/370/regulation/8/b/ii)
+[^c-99f576198dbf354390bff370fff1856c]: Textual amendment: [Reg. 24(1)(c)](https://www.legislation.gov.uk/ssi/2007/330/regulation/24/1/c)[(2)-(5)](https://www.legislation.gov.uk/ssi/2007/330/regulation/24/2) and word inserted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [8(b)(ii)](https://www.legislation.gov.uk/ssi/2023/370/regulation/8/b/ii)
 
-[^key-9dff36913425d2335c96676b97a424cc]: Textual amendment: Word in [reg. 28(2)](https://www.legislation.gov.uk/ssi/2007/330/regulation/28/2) inserted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [9](https://www.legislation.gov.uk/ssi/2023/370/regulation/9)
+[^c-9dff36913425d2335c96676b97a424cc]: Textual amendment: Word in [reg. 28(2)](https://www.legislation.gov.uk/ssi/2007/330/regulation/28/2) inserted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [9](https://www.legislation.gov.uk/ssi/2023/370/regulation/9)
 
-[^key-fea750fad34f38091289be9db958a4e3]: Textual amendment: Words in [reg. 29(c)](https://www.legislation.gov.uk/ssi/2007/330/regulation/29/c) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(8)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fea750fad34f38091289be9db958a4e3]: Textual amendment: Words in [reg. 29(c)](https://www.legislation.gov.uk/ssi/2007/330/regulation/29/c) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(8)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-feece1f1c2e5c59a827c23ff4e99625a]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/ssi/2007/330/regulation/30) heading substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(9)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-feece1f1c2e5c59a827c23ff4e99625a]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/ssi/2007/330/regulation/30) heading substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(9)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e25586d52c1437f5819896eb7f61a83c]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/30/1) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(9)(b)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/9/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e25586d52c1437f5819896eb7f61a83c]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/30/1) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(9)(b)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/9/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c32dad3886293264fce13c2f189eb0d0]: Textual amendment: Words in [reg. 30(1)(b)](https://www.legislation.gov.uk/ssi/2007/330/regulation/30/1/b) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(9)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/9/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c32dad3886293264fce13c2f189eb0d0]: Textual amendment: Words in [reg. 30(1)(b)](https://www.legislation.gov.uk/ssi/2007/330/regulation/30/1/b) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(9)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/9/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fd12d7217a1732a7b5e79044ae702eb8]: Textual amendment: [Reg. 30(2)](https://www.legislation.gov.uk/ssi/2007/330/regulation/30/2) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(9)(c)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/9/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fd12d7217a1732a7b5e79044ae702eb8]: Textual amendment: [Reg. 30(2)](https://www.legislation.gov.uk/ssi/2007/330/regulation/30/2) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(9)(c)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/9/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5c37a3a6401d3eea26047434130c2676]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/ssi/2007/330/regulation/32) substituted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [10](https://www.legislation.gov.uk/ssi/2023/370/regulation/10)
+[^c-5c37a3a6401d3eea26047434130c2676]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/ssi/2007/330/regulation/32) substituted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [10](https://www.legislation.gov.uk/ssi/2023/370/regulation/10)
 
-[^key-041015f5fa919805b1c787af58b1078d]: Textual amendment: Words in [reg. 34(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/34/1) substituted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [11(a)](https://www.legislation.gov.uk/ssi/2023/370/regulation/11/a)
+[^c-041015f5fa919805b1c787af58b1078d]: Textual amendment: Words in [reg. 34(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/34/1) substituted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [11(a)](https://www.legislation.gov.uk/ssi/2023/370/regulation/11/a)
 
-[^key-3fe4092475e7d733a511e4cbc08df17c]: Textual amendment: Word in [reg. 34(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/34/1) inserted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [11(b)](https://www.legislation.gov.uk/ssi/2023/370/regulation/11/b)
+[^c-3fe4092475e7d733a511e4cbc08df17c]: Textual amendment: Word in [reg. 34(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/34/1) inserted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [11(b)](https://www.legislation.gov.uk/ssi/2023/370/regulation/11/b)
 
-[^key-6fe5b40dbff09848d8a91a53e6b77888]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/35/1) substituted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [12(a)(i)](https://www.legislation.gov.uk/ssi/2023/370/regulation/12/a/i)
+[^c-6fe5b40dbff09848d8a91a53e6b77888]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/35/1) substituted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [12(a)(i)](https://www.legislation.gov.uk/ssi/2023/370/regulation/12/a/i)
 
-[^key-d1ce23aeaef44bd6daca757e806e172e]: Textual amendment: Word in [reg. 35(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/35/1) inserted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [12(a)(ii)](https://www.legislation.gov.uk/ssi/2023/370/regulation/12/a/ii)
+[^c-d1ce23aeaef44bd6daca757e806e172e]: Textual amendment: Word in [reg. 35(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/35/1) inserted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [12(a)(ii)](https://www.legislation.gov.uk/ssi/2023/370/regulation/12/a/ii)
 
-[^key-a283d998732286066561174edea40755]: Textual amendment: Words in [reg. 35(2)](https://www.legislation.gov.uk/ssi/2007/330/regulation/35/2) inserted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [12(b)](https://www.legislation.gov.uk/ssi/2023/370/regulation/12/b)
+[^c-a283d998732286066561174edea40755]: Textual amendment: Words in [reg. 35(2)](https://www.legislation.gov.uk/ssi/2007/330/regulation/35/2) inserted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [12(b)](https://www.legislation.gov.uk/ssi/2023/370/regulation/12/b)
 
-[^key-32ac1eb3fb83a5416636ff7212ca9044]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/36/1) substituted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [13(a)](https://www.legislation.gov.uk/ssi/2023/370/regulation/13/a)
+[^c-32ac1eb3fb83a5416636ff7212ca9044]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/36/1) substituted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [13(a)](https://www.legislation.gov.uk/ssi/2023/370/regulation/13/a)
 
-[^key-83f693f90921faedea5685fb2c3dd6f7]: Textual amendment: Word in [reg. 36(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/36/1) inserted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [13(b)](https://www.legislation.gov.uk/ssi/2023/370/regulation/13/b)
+[^c-83f693f90921faedea5685fb2c3dd6f7]: Textual amendment: Word in [reg. 36(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/36/1) inserted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [13(b)](https://www.legislation.gov.uk/ssi/2023/370/regulation/13/b)
 
-[^key-d90f0494374aee59a58d4946839fceed]: Textual amendment: Word in [reg. 38(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/38/1) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(10)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d90f0494374aee59a58d4946839fceed]: Textual amendment: Word in [reg. 38(1)](https://www.legislation.gov.uk/ssi/2007/330/regulation/38/1) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(10)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0d2689b8b3d39114c4bb07f7b0a662c0]: Textual amendment: [Reg. 41](https://www.legislation.gov.uk/ssi/2007/330/regulation/41) revoked (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [sch. 7](https://www.legislation.gov.uk/ssi/2013/151/schedule/7)
+[^c-0d2689b8b3d39114c4bb07f7b0a662c0]: Textual amendment: [Reg. 41](https://www.legislation.gov.uk/ssi/2007/330/regulation/41) revoked (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [sch. 7](https://www.legislation.gov.uk/ssi/2013/151/schedule/7)
 
-[^key-5444b4bc05cc4e9abc6e90f57f381aec]: Textual amendment: [Reg. 42](https://www.legislation.gov.uk/ssi/2007/330/regulation/42) revoked (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [sch. 7](https://www.legislation.gov.uk/ssi/2013/151/schedule/7)
+[^c-5444b4bc05cc4e9abc6e90f57f381aec]: Textual amendment: [Reg. 42](https://www.legislation.gov.uk/ssi/2007/330/regulation/42) revoked (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [sch. 7](https://www.legislation.gov.uk/ssi/2013/151/schedule/7)
 
 [^c18760301]: Marginal citation: [S.I. 1985/1857](https://www.legislation.gov.uk/uksi/1985/1857)(S.138), amended by [S.I. 1987/904](https://www.legislation.gov.uk/uksi/1987/904), 1992/1192(S.114), 1995/2556(S.185), [S.S.I. 2001/179](https://www.legislation.gov.uk/ssi/2001/179) and [S.S.I. 2002/191](https://www.legislation.gov.uk/ssi/2002/191).
 
 [^c18760311]: Marginal citation: [S.I. 1987/390](https://www.legislation.gov.uk/uksi/1987/390), amended by [S.I. 1992/2592](https://www.legislation.gov.uk/uksi/1992/2592).
 
-[^key-d5613b02530a31bacc3f678ce6c9f9a8]: Textual amendment: Words in [sch. 2 para. 1(1)(a)](https://www.legislation.gov.uk/ssi/2007/330/schedule/2/paragraph/1/1/a) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(11)(a)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/11/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d5613b02530a31bacc3f678ce6c9f9a8]: Textual amendment: Words in [sch. 2 para. 1(1)(a)](https://www.legislation.gov.uk/ssi/2007/330/schedule/2/paragraph/1/1/a) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(11)(a)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/11/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-daca1735eeab54b03a46fa071c675044]: Textual amendment: Sch. 2 para. 1(3)(4) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(11)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/11/a/ii) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(b)(i)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/b/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-daca1735eeab54b03a46fa071c675044]: Textual amendment: Sch. 2 para. 1(3)(4) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(11)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/11/a/ii) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(b)(i)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/b/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c18760321]: Marginal citation: Available at http://www.oie.int/eng/normes/mcode/en\_chapitre\_2.3.5.htm.
 
-[^key-2f22e2dfcc0153771a3ba40e0d1646fd]: Textual amendment: [Sch. 2 para. 2(5)-(7)](https://www.legislation.gov.uk/ssi/2007/330/schedule/2/paragraph/2/5) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(11)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/11/b) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/b/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2f22e2dfcc0153771a3ba40e0d1646fd]: Textual amendment: [Sch. 2 para. 2(5)-(7)](https://www.legislation.gov.uk/ssi/2007/330/schedule/2/paragraph/2/5) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(11)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/11/b) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/b/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1be067d6bab54d61f2da6498cf2c4501]: Textual amendment: Words in [sch. 2 para. 2(5)(a)](https://www.legislation.gov.uk/ssi/2007/330/schedule/2/paragraph/2/5/a) substituted (18.5.2023) by [The Tuberculosis (Scotland) Order 2023 (S.S.I. 2023/93)](https://www.legislation.gov.uk/ssi/2023/93), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/93/article/1/1), [40(2)](https://www.legislation.gov.uk/ssi/2023/93/article/40/2)
+[^c-1be067d6bab54d61f2da6498cf2c4501]: Textual amendment: Words in [sch. 2 para. 2(5)(a)](https://www.legislation.gov.uk/ssi/2007/330/schedule/2/paragraph/2/5/a) substituted (18.5.2023) by [The Tuberculosis (Scotland) Order 2023 (S.S.I. 2023/93)](https://www.legislation.gov.uk/ssi/2023/93), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/93/article/1/1), [40(2)](https://www.legislation.gov.uk/ssi/2023/93/article/40/2)
 
-[^key-9feda69820c328800c3b036af4ea6e7e]: Textual amendment: [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/ssi/2007/330/schedule/2/paragraph/3/3) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(11)(c)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/11/c) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(b)(iii)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/b/iii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9feda69820c328800c3b036af4ea6e7e]: Textual amendment: [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/ssi/2007/330/schedule/2/paragraph/3/3) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(11)(c)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/11/c) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(b)(iii)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/b/iii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fd1187e6d797a297d86b1f6201c200fb]: Textual amendment: Word in [sch. 3 Pt. 1](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/1) heading omitted (2.2.2024) by virtue of [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [14(a)](https://www.legislation.gov.uk/ssi/2023/370/regulation/14/a)
+[^c-fd1187e6d797a297d86b1f6201c200fb]: Textual amendment: Word in [sch. 3 Pt. 1](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/1) heading omitted (2.2.2024) by virtue of [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [14(a)](https://www.legislation.gov.uk/ssi/2023/370/regulation/14/a)
 
-[^key-74b9949c1d54236ac4b2df397266e20a]: Textual amendment: Words in [sch. 3 Pt. 1 para. 1(1)(a)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/1/paragraph/1/1/a) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(a)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-74b9949c1d54236ac4b2df397266e20a]: Textual amendment: Words in [sch. 3 Pt. 1 para. 1(1)(a)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/1/paragraph/1/1/a) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(a)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2e7fbfabeee14ce8726771fba63b1300]: Textual amendment: [Sch. 3 Pt. 1 para. 1(3)(4)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/1/paragraph/1/3/4) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/a/ii) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(c)(i)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/c/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2e7fbfabeee14ce8726771fba63b1300]: Textual amendment: [Sch. 3 Pt. 1 para. 1(3)(4)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/1/paragraph/1/3/4) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/a/ii) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(c)(i)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/c/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-24acf993ce22217566b26d3b3d3a87cb]: Textual amendment: Word in [sch. 3 Pt. 1 para. 2](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/1/paragraph/2) substituted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [14(b)](https://www.legislation.gov.uk/ssi/2023/370/regulation/14/b)
+[^c-24acf993ce22217566b26d3b3d3a87cb]: Textual amendment: Word in [sch. 3 Pt. 1 para. 2](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/1/paragraph/2) substituted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [14(b)](https://www.legislation.gov.uk/ssi/2023/370/regulation/14/b)
 
-[^key-30f2e4ac74127b1c6ccda631b0893cb9]: Textual amendment: [Sch. 3 Pt. 2 para. 1(7)-(9)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/2/paragraph/1/7) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(b)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/b/i) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/c/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-30f2e4ac74127b1c6ccda631b0893cb9]: Textual amendment: [Sch. 3 Pt. 2 para. 1(7)-(9)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/2/paragraph/1/7) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(b)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/b/i) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/c/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-28b36ee55832268a3dc5319be639ce76]: Textual amendment: Words in [sch. 3 Pt. 2 para. 1(7)(a)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/2/paragraph/1/7/a) substituted (18.5.2023) by [The Tuberculosis (Scotland) Order 2023 (S.S.I. 2023/93)](https://www.legislation.gov.uk/ssi/2023/93), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/93/article/1/1), [40(3)](https://www.legislation.gov.uk/ssi/2023/93/article/40/3)
+[^c-28b36ee55832268a3dc5319be639ce76]: Textual amendment: Words in [sch. 3 Pt. 2 para. 1(7)(a)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/2/paragraph/1/7/a) substituted (18.5.2023) by [The Tuberculosis (Scotland) Order 2023 (S.S.I. 2023/93)](https://www.legislation.gov.uk/ssi/2023/93), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/93/article/1/1), [40(3)](https://www.legislation.gov.uk/ssi/2023/93/article/40/3)
 
-[^key-68368b14d8672ffb5e4457950d882151]: Textual amendment: Words in [sch. 3 Pt. 2 para. 2(1)(b)(i)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/2/paragraph/2/1/b/i) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(b)(ii)(aa)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/b/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-68368b14d8672ffb5e4457950d882151]: Textual amendment: Words in [sch. 3 Pt. 2 para. 2(1)(b)(i)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/2/paragraph/2/1/b/i) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(b)(ii)(aa)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/b/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ad18bf5de16a283e7683a55e432fa016]: Textual amendment: Words in [sch. 3 Pt. 2 para. 2(1)(c)(i)(bb)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/2/paragraph/2/1/c/i/bb) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(b)(ii)(aa)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/b/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ad18bf5de16a283e7683a55e432fa016]: Textual amendment: Words in [sch. 3 Pt. 2 para. 2(1)(c)(i)(bb)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/2/paragraph/2/1/c/i/bb) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(b)(ii)(aa)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/b/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a3804b40bd8ab4b388c971a4ef3e2e3b]: Textual amendment: Words in [sch. 3 Pt. 2 para. 2(1)(c)(i)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/2/paragraph/2/1/c/i) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(b)(ii)(bb)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/b/ii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a3804b40bd8ab4b388c971a4ef3e2e3b]: Textual amendment: Words in [sch. 3 Pt. 2 para. 2(1)(c)(i)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/2/paragraph/2/1/c/i) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(b)(ii)(bb)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/b/ii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-26ad88f054d8fa98c25b714b9fc22648]: Textual amendment: Words in [sch. 3 Pt. 2 para. 2(2)(a)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/2/paragraph/2/2/a) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(b)(ii)(aa)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/b/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-26ad88f054d8fa98c25b714b9fc22648]: Textual amendment: Words in [sch. 3 Pt. 2 para. 2(2)(a)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/2/paragraph/2/2/a) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(b)(ii)(aa)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/b/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-15b9d1e5e7db5286816af9df9a101c0c]: Textual amendment: Words in [sch. 3 Pt. 2 para. 2(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/2/paragraph/2/2/b/ii) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(b)(ii)(aa)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/b/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-15b9d1e5e7db5286816af9df9a101c0c]: Textual amendment: Words in [sch. 3 Pt. 2 para. 2(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/2/paragraph/2/2/b/ii) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(b)(ii)(aa)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/b/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5658f544024b3a70bd39994acfd1b3d7]: Textual amendment: Words in [sch. 3 Pt. 2 para. 2(2)(b)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/2/paragraph/2/2/b) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(b)(ii)(bb)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/b/ii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5658f544024b3a70bd39994acfd1b3d7]: Textual amendment: Words in [sch. 3 Pt. 2 para. 2(2)(b)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/2/paragraph/2/2/b) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(b)(ii)(bb)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/b/ii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0a1493ca09da19e6259269068a358a22]: Textual amendment: Words in [sch. 3 Pt. 2 para. 4](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/2/paragraph/4) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(b)(iii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0a1493ca09da19e6259269068a358a22]: Textual amendment: Words in [sch. 3 Pt. 2 para. 4](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/2/paragraph/4) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(b)(iii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3137e656e77780001731fae57ee9665b]: Textual amendment: Words in [sch. 3 Pt. 3 para. 1(a)(ii)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/3/paragraph/1/a/ii) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(c)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3137e656e77780001731fae57ee9665b]: Textual amendment: Words in [sch. 3 Pt. 3 para. 1(a)(ii)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/3/paragraph/1/a/ii) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(c)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-756aa011f45eccd4d89623cede817507]: Textual amendment: Words in [sch. 3 Pt. 3 para. 1(b)(i)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/3/paragraph/1/b/i) substituted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-756aa011f45eccd4d89623cede817507]: Textual amendment: Words in [sch. 3 Pt. 3 para. 1(b)(i)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/3/paragraph/1/b/i) substituted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-20ec69c67ef5200e60c671ae58f558c1]: Textual amendment: Words in [sch. 3 Pt. 3 para. 1(c)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/3/paragraph/1/c) substituted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-20ec69c67ef5200e60c671ae58f558c1]: Textual amendment: Words in [sch. 3 Pt. 3 para. 1(c)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/3/paragraph/1/c) substituted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e7034bd1b8b07d20504428684a07f50c]: Textual amendment: Word in [sch. 3 Pt. 3 para. 2(b)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/3/paragraph/2/b) substituted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [14(c)](https://www.legislation.gov.uk/ssi/2023/370/regulation/14/c)
+[^c-e7034bd1b8b07d20504428684a07f50c]: Textual amendment: Word in [sch. 3 Pt. 3 para. 2(b)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/3/paragraph/2/b) substituted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [14(c)](https://www.legislation.gov.uk/ssi/2023/370/regulation/14/c)
 
-[^key-76fec3422e90dc75b22ac22d2b6c02d8]: Textual amendment: Sch. 3 Pt. 4 para. 4 renumbered as para. 4(1) (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(d)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-76fec3422e90dc75b22ac22d2b6c02d8]: Textual amendment: Sch. 3 Pt. 4 para. 4 renumbered as para. 4(1) (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(d)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f13419050b5ebfa7146d4dee6d1de192]: Textual amendment: Words in [sch. 3 Pt. 4 para. 4(1)(a)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/4/paragraph/4/1/a) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(d)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f13419050b5ebfa7146d4dee6d1de192]: Textual amendment: Words in [sch. 3 Pt. 4 para. 4(1)(a)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/4/paragraph/4/1/a) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(d)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-92f46224e2f54fe9926397c1a4ae2d11]: Textual amendment: [Sch. 3 Pt. 4 para. 4(2)(3)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/4/paragraph/4/2/3) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(d)(iii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/d/iii) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(c)(iii)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/c/iii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-92f46224e2f54fe9926397c1a4ae2d11]: Textual amendment: [Sch. 3 Pt. 4 para. 4(2)(3)](https://www.legislation.gov.uk/ssi/2007/330/schedule/3/part/4/paragraph/4/2/3) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(12)(d)(iii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/12/d/iii) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(c)(iii)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/c/iii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-07daa0c49a92298a2caef396532782bc]: Textual amendment: Words in [sch. 4 para. 1(b)](https://www.legislation.gov.uk/ssi/2007/330/schedule/4/paragraph/1/b) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(13)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-07daa0c49a92298a2caef396532782bc]: Textual amendment: Words in [sch. 4 para. 1(b)](https://www.legislation.gov.uk/ssi/2007/330/schedule/4/paragraph/1/b) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(13)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c18760331]: Marginal citation: O.J. No. L 302, 19.10.1989, p.1.
 
 [^c18760341]: Marginal citation: [S.I. 1995/2478](https://www.legislation.gov.uk/uksi/1995/2478), amended by [S.I. 1996/3124](https://www.legislation.gov.uk/uksi/1996/3124).
 
-[^key-99ce8de5429dd9c6b2f7627d0be0bd70]: Textual amendment: Word in [sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2007/330/schedule/5/part/1) heading omitted (2.2.2024) by virtue of [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [15(a)](https://www.legislation.gov.uk/ssi/2023/370/regulation/15/a)
+[^c-99ce8de5429dd9c6b2f7627d0be0bd70]: Textual amendment: Word in [sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2007/330/schedule/5/part/1) heading omitted (2.2.2024) by virtue of [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [15(a)](https://www.legislation.gov.uk/ssi/2023/370/regulation/15/a)
 
-[^key-a692856d8cb300d7bacd9d8360f32108]: Textual amendment: Words in [sch. 5 Pt. 1 para. 1(1)(a)](https://www.legislation.gov.uk/ssi/2007/330/schedule/5/part/1/paragraph/1/1/a) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(14)(a)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/14/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a692856d8cb300d7bacd9d8360f32108]: Textual amendment: Words in [sch. 5 Pt. 1 para. 1(1)(a)](https://www.legislation.gov.uk/ssi/2007/330/schedule/5/part/1/paragraph/1/1/a) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(14)(a)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/14/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ed5fbaa5d50d2b607afd8245bda335dd]: Textual amendment: [Sch. 5 Pt. 1 paras. 1(3)](https://www.legislation.gov.uk/ssi/2007/330/schedule/5/part/1/paragraph/1/3), (4) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(14)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/14/a/ii) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(d)(i)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/d/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ed5fbaa5d50d2b607afd8245bda335dd]: Textual amendment: [Sch. 5 Pt. 1 paras. 1(3)](https://www.legislation.gov.uk/ssi/2007/330/schedule/5/part/1/paragraph/1/3), (4) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(14)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/14/a/ii) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(d)(i)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/d/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9b5b41ab90ea21ef64a5af1e6e58737e]: Textual amendment: Word in [sch. 5 Pt. 1 para. 2](https://www.legislation.gov.uk/ssi/2007/330/schedule/5/part/1/paragraph/2) substituted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [15(b)](https://www.legislation.gov.uk/ssi/2023/370/regulation/15/b)
+[^c-9b5b41ab90ea21ef64a5af1e6e58737e]: Textual amendment: Word in [sch. 5 Pt. 1 para. 2](https://www.legislation.gov.uk/ssi/2007/330/schedule/5/part/1/paragraph/2) substituted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [15(b)](https://www.legislation.gov.uk/ssi/2023/370/regulation/15/b)
 
-[^key-dc4c6d4f025e1eb1c29800876843f27d]: Textual amendment: Sch. 5 Pt. 2 para. 1 renumbered as para. 1(1) (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(14)(b)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/14/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dc4c6d4f025e1eb1c29800876843f27d]: Textual amendment: Sch. 5 Pt. 2 para. 1 renumbered as para. 1(1) (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(14)(b)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/14/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c5ee1ed82bc4bb6d79213375abf0b042]: Textual amendment: [Sch. 5 Pt. 2 para. 1(2)-(4)](https://www.legislation.gov.uk/ssi/2007/330/schedule/5/part/2/paragraph/1/2) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(14)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/14/b/ii) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(d)(ii)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/d/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c5ee1ed82bc4bb6d79213375abf0b042]: Textual amendment: [Sch. 5 Pt. 2 para. 1(2)-(4)](https://www.legislation.gov.uk/ssi/2007/330/schedule/5/part/2/paragraph/1/2) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(14)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/14/b/ii) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(d)(ii)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/d/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0907d73b711a6eb1f451fcbbe3992b25]: Textual amendment: Words in [sch. 5 Pt. 2 para. 1(2)(a)](https://www.legislation.gov.uk/ssi/2007/330/schedule/5/part/2/paragraph/1/2/a) substituted (18.5.2023) by [The Tuberculosis (Scotland) Order 2023 (S.S.I. 2023/93)](https://www.legislation.gov.uk/ssi/2023/93), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/93/article/1/1), [40(4)](https://www.legislation.gov.uk/ssi/2023/93/article/40/4)
+[^c-0907d73b711a6eb1f451fcbbe3992b25]: Textual amendment: Words in [sch. 5 Pt. 2 para. 1(2)(a)](https://www.legislation.gov.uk/ssi/2007/330/schedule/5/part/2/paragraph/1/2/a) substituted (18.5.2023) by [The Tuberculosis (Scotland) Order 2023 (S.S.I. 2023/93)](https://www.legislation.gov.uk/ssi/2023/93), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/93/article/1/1), [40(4)](https://www.legislation.gov.uk/ssi/2023/93/article/40/4)
 
-[^key-a72495e1c3ce4f9459d909572bee5527]: Textual amendment: Words in [sch. 5 Pt. 2 para. 2(1)(b)(iii)](https://www.legislation.gov.uk/ssi/2007/330/schedule/5/part/2/paragraph/2/1/b/iii) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(14)(c)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/14/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a72495e1c3ce4f9459d909572bee5527]: Textual amendment: Words in [sch. 5 Pt. 2 para. 2(1)(b)(iii)](https://www.legislation.gov.uk/ssi/2007/330/schedule/5/part/2/paragraph/2/1/b/iii) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(14)(c)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/14/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c3bd91024520f07a374b54f588ab858a]: Textual amendment: Word in [sch. 5 Pt. 3 para. 1(a)(ii)](https://www.legislation.gov.uk/ssi/2007/330/schedule/5/part/3/paragraph/1/a/ii) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(14)(d)(i)(aa)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/14/d/i/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c3bd91024520f07a374b54f588ab858a]: Textual amendment: Word in [sch. 5 Pt. 3 para. 1(a)(ii)](https://www.legislation.gov.uk/ssi/2007/330/schedule/5/part/3/paragraph/1/a/ii) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(14)(d)(i)(aa)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/14/d/i/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-70c83e43a9e2aea4524ac08d13b118fa]: Textual amendment: Words in [sch. 5 Pt. 3 para. 1(a)(ii)](https://www.legislation.gov.uk/ssi/2007/330/schedule/5/part/3/paragraph/1/a/ii) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(14)(d)(i)(bb)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/14/d/i/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-70c83e43a9e2aea4524ac08d13b118fa]: Textual amendment: Words in [sch. 5 Pt. 3 para. 1(a)(ii)](https://www.legislation.gov.uk/ssi/2007/330/schedule/5/part/3/paragraph/1/a/ii) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(14)(d)(i)(bb)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/14/d/i/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ec073db195cec6d8a296e8b7be7a9988]: Textual amendment: Words in [sch. 5 Pt. 3 para. 1(b)](https://www.legislation.gov.uk/ssi/2007/330/schedule/5/part/3/paragraph/1/b) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(14)(d)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/14/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ec073db195cec6d8a296e8b7be7a9988]: Textual amendment: Words in [sch. 5 Pt. 3 para. 1(b)](https://www.legislation.gov.uk/ssi/2007/330/schedule/5/part/3/paragraph/1/b) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(14)(d)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/14/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eaf891a82f74551c1606f0fcbd07ec49]: Textual amendment: Word in [sch. 5 Pt. 3 para. 2(b)](https://www.legislation.gov.uk/ssi/2007/330/schedule/5/part/3/paragraph/2/b) substituted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [15(c)](https://www.legislation.gov.uk/ssi/2023/370/regulation/15/c)
+[^c-eaf891a82f74551c1606f0fcbd07ec49]: Textual amendment: Word in [sch. 5 Pt. 3 para. 2(b)](https://www.legislation.gov.uk/ssi/2007/330/schedule/5/part/3/paragraph/2/b) substituted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [15(c)](https://www.legislation.gov.uk/ssi/2023/370/regulation/15/c)
 
-[^key-8d6b933512621599212c1cb4f9d108d5]: Textual amendment: Sch. 5 Pt. 4 para. 3 renumbered as para. 3(1) (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(14)(e)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/14/e/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8d6b933512621599212c1cb4f9d108d5]: Textual amendment: Sch. 5 Pt. 4 para. 3 renumbered as para. 3(1) (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(14)(e)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/14/e/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0b4e862d37de1b5a197aa72e48c25cd8]: Textual amendment: [Sch. 5 Pt. 4 para. 3(3)(b)](https://www.legislation.gov.uk/ssi/2007/330/schedule/5/part/4/paragraph/3/3/b) substituted (31.12.2020) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(d)(iii)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/d/iii)
+[^c-0b4e862d37de1b5a197aa72e48c25cd8]: Textual amendment: [Sch. 5 Pt. 4 para. 3(3)(b)](https://www.legislation.gov.uk/ssi/2007/330/schedule/5/part/4/paragraph/3/3/b) substituted (31.12.2020) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(d)(iii)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/d/iii)
 
-[^key-152f3cbb8310802b624fbd5dd75f559c]: Textual amendment: [Sch. 5 Pt. 4 para. 3(2)(3)](https://www.legislation.gov.uk/ssi/2007/330/schedule/5/part/4/paragraph/3/2/3) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(14)(e)(iii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/14/e/iii) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(d)(iii)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/d/iii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-152f3cbb8310802b624fbd5dd75f559c]: Textual amendment: [Sch. 5 Pt. 4 para. 3(2)(3)](https://www.legislation.gov.uk/ssi/2007/330/schedule/5/part/4/paragraph/3/2/3) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(14)(e)(iii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/14/e/iii) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(d)(iii)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/d/iii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c18760351]: Marginal citation: [S.I. 1995/2478](https://www.legislation.gov.uk/uksi/1995/2478), amended by [S.I. 1996/3124](https://www.legislation.gov.uk/uksi/1996/3124).
 
-[^key-30e8df119e81b46d829c5e3e67a7067b]: Textual amendment: [Sch. 7 para. 1(c)(d)](https://www.legislation.gov.uk/ssi/2007/330/schedule/7/paragraph/1/c) substituted for sch. 7 para. 1(c) (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [16(a)](https://www.legislation.gov.uk/ssi/2023/370/regulation/16/a)
+[^c-30e8df119e81b46d829c5e3e67a7067b]: Textual amendment: [Sch. 7 para. 1(c)(d)](https://www.legislation.gov.uk/ssi/2007/330/schedule/7/paragraph/1/c) substituted for sch. 7 para. 1(c) (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [16(a)](https://www.legislation.gov.uk/ssi/2023/370/regulation/16/a)
 
-[^key-4b19ecee3b53d75517401a024c0addc4]: Textual amendment: Words in [sch. 7 para. 2(1)(a)](https://www.legislation.gov.uk/ssi/2007/330/schedule/7/paragraph/2/1/a) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(15)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/15/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4b19ecee3b53d75517401a024c0addc4]: Textual amendment: Words in [sch. 7 para. 2(1)(a)](https://www.legislation.gov.uk/ssi/2007/330/schedule/7/paragraph/2/1/a) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(15)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/15/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-842b1a9e6e73859ff46892cc7280408f]: Textual amendment: Words in [sch. 7 para. 2(2)](https://www.legislation.gov.uk/ssi/2007/330/schedule/7/paragraph/2/2) substituted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [16(b)](https://www.legislation.gov.uk/ssi/2023/370/regulation/16/b)
+[^c-842b1a9e6e73859ff46892cc7280408f]: Textual amendment: Words in [sch. 7 para. 2(2)](https://www.legislation.gov.uk/ssi/2007/330/schedule/7/paragraph/2/2) substituted (2.2.2024) by [The Bovine Semen (Scotland) Amendment Regulations 2023 (S.S.I. 2023/370)](https://www.legislation.gov.uk/ssi/2023/370), [regs. 1](https://www.legislation.gov.uk/ssi/2023/370/regulation/1), [16(b)](https://www.legislation.gov.uk/ssi/2023/370/regulation/16/b)
 
-[^key-818c68e60ba9a9906feec370e8e0bcc1]: Textual amendment: [Sch. 7 para. 2(3)(4)](https://www.legislation.gov.uk/ssi/2007/330/schedule/7/paragraph/2/3/4) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(15)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/15/b) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(e)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/e)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-818c68e60ba9a9906feec370e8e0bcc1]: Textual amendment: [Sch. 7 para. 2(3)(4)](https://www.legislation.gov.uk/ssi/2007/330/schedule/7/paragraph/2/3/4) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(15)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/15/b) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(e)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/e)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e2baa95e2ef1b962dbec7b6f5f42f2cf]: Textual amendment: Words in sch. 8 Pt. 1 renumbered as sch. 8 Pt. 1 para. 1(1) (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(16)(a)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/16/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e2baa95e2ef1b962dbec7b6f5f42f2cf]: Textual amendment: Words in sch. 8 Pt. 1 renumbered as sch. 8 Pt. 1 para. 1(1) (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(16)(a)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/16/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7bbb6f5b14eaa4946523f0bc9f5800b4]: Textual amendment: Word in [sch. 8 Pt. 1 para. 1(1)(a)(ii)](https://www.legislation.gov.uk/ssi/2007/330/schedule/8/part/1/paragraph/1/1/a/ii) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(16)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/16/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7bbb6f5b14eaa4946523f0bc9f5800b4]: Textual amendment: Word in [sch. 8 Pt. 1 para. 1(1)(a)(ii)](https://www.legislation.gov.uk/ssi/2007/330/schedule/8/part/1/paragraph/1/1/a/ii) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(16)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/16/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-af41b5d53bd535051e20505ae4e7cbc6]: Textual amendment: Word in [sch. 8 Pt. 1 para. 1(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2007/330/schedule/8/part/1/paragraph/1/1/b/ii) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(16)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/16/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-af41b5d53bd535051e20505ae4e7cbc6]: Textual amendment: Word in [sch. 8 Pt. 1 para. 1(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2007/330/schedule/8/part/1/paragraph/1/1/b/ii) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(16)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/16/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8f6d765ef6e768aaa09dc5ebd2eef182]: Textual amendment: [Sch. 8 Pt. 1 para. 1(2)](https://www.legislation.gov.uk/ssi/2007/330/schedule/8/part/1/paragraph/1/2) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(16)(a)(iii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/16/a/iii) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(f)(i)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/f/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8f6d765ef6e768aaa09dc5ebd2eef182]: Textual amendment: [Sch. 8 Pt. 1 para. 1(2)](https://www.legislation.gov.uk/ssi/2007/330/schedule/8/part/1/paragraph/1/2) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(16)(a)(iii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/16/a/iii) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(f)(i)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/f/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d961beb42eb55e296bae7a7b269ae84b]: Textual amendment: Sch. 8 Pt. 2 para. 1 renumbered as para. 1(1) (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(16)(b)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/16/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d961beb42eb55e296bae7a7b269ae84b]: Textual amendment: Sch. 8 Pt. 2 para. 1 renumbered as para. 1(1) (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(16)(b)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/16/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d68845115a7ddea1536964980eb627d4]: Textual amendment: Words in [sch. 8 Pt. 2 para. 1(1)(a)](https://www.legislation.gov.uk/ssi/2007/330/schedule/8/part/2/paragraph/1/1/a) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(16)(b)(ii)(aa)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/16/b/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d68845115a7ddea1536964980eb627d4]: Textual amendment: Words in [sch. 8 Pt. 2 para. 1(1)(a)](https://www.legislation.gov.uk/ssi/2007/330/schedule/8/part/2/paragraph/1/1/a) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(16)(b)(ii)(aa)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/16/b/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-15036b6532f4f6992e63a732f1c75e62]: Textual amendment: Words in [sch. 8 Pt. 2 para. 1(1)(a)](https://www.legislation.gov.uk/ssi/2007/330/schedule/8/part/2/paragraph/1/1/a) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(16)(b)(ii)(bb)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/16/b/ii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-15036b6532f4f6992e63a732f1c75e62]: Textual amendment: Words in [sch. 8 Pt. 2 para. 1(1)(a)](https://www.legislation.gov.uk/ssi/2007/330/schedule/8/part/2/paragraph/1/1/a) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(16)(b)(ii)(bb)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/16/b/ii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-43b7de97d4b3dfa954e0eda279b32935]: Textual amendment: Words in [sch. 8 Pt. 2 para. 1(1)(b)](https://www.legislation.gov.uk/ssi/2007/330/schedule/8/part/2/paragraph/1/1/b) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(16)(b)(iii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/16/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-43b7de97d4b3dfa954e0eda279b32935]: Textual amendment: Words in [sch. 8 Pt. 2 para. 1(1)(b)](https://www.legislation.gov.uk/ssi/2007/330/schedule/8/part/2/paragraph/1/1/b) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(16)(b)(iii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/16/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9500aedafd219568f053bdd07e1d47c5]: Textual amendment: [Sch. 8 Pt. 2 para. 1(2)](https://www.legislation.gov.uk/ssi/2007/330/schedule/8/part/2/paragraph/1/2) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(16)(b)(iv)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/16/b/iv) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(f)(ii)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/f/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9500aedafd219568f053bdd07e1d47c5]: Textual amendment: [Sch. 8 Pt. 2 para. 1(2)](https://www.legislation.gov.uk/ssi/2007/330/schedule/8/part/2/paragraph/1/2) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(16)(b)(iv)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/16/b/iv) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(f)(ii)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/f/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6dae460d1162bb4401ad468ce5e3d728]: Textual amendment: Words in [sch. 8 Pt. 2 para. 1(2)(c)(i)](https://www.legislation.gov.uk/ssi/2007/330/schedule/8/part/2/paragraph/1/2/c/i) substituted (18.5.2023) by [The Tuberculosis (Scotland) Order 2023 (S.S.I. 2023/93)](https://www.legislation.gov.uk/ssi/2023/93), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/93/article/1/1), [40(5)(a)](https://www.legislation.gov.uk/ssi/2023/93/article/40/5/a)
+[^c-6dae460d1162bb4401ad468ce5e3d728]: Textual amendment: Words in [sch. 8 Pt. 2 para. 1(2)(c)(i)](https://www.legislation.gov.uk/ssi/2007/330/schedule/8/part/2/paragraph/1/2/c/i) substituted (18.5.2023) by [The Tuberculosis (Scotland) Order 2023 (S.S.I. 2023/93)](https://www.legislation.gov.uk/ssi/2023/93), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/93/article/1/1), [40(5)(a)](https://www.legislation.gov.uk/ssi/2023/93/article/40/5/a)
 
-[^key-1c8f424fbc393ddb024a82dc5d8f6a31]: Textual amendment: Sch. 8 Pt. 2 para. 2 renumbered as para. 2(1) (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(16)(c)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/16/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1c8f424fbc393ddb024a82dc5d8f6a31]: Textual amendment: Sch. 8 Pt. 2 para. 2 renumbered as para. 2(1) (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(16)(c)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/16/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-07fa442c695b1f03c80ec748feaf7c20]: Textual amendment: [Sch. 8 Pt. 2 para. 2(2)-(4)](https://www.legislation.gov.uk/ssi/2007/330/schedule/8/part/2/paragraph/2/2) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(16)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/16/c/ii) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(f)(iii)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/f/iii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-07fa442c695b1f03c80ec748feaf7c20]: Textual amendment: [Sch. 8 Pt. 2 para. 2(2)-(4)](https://www.legislation.gov.uk/ssi/2007/330/schedule/8/part/2/paragraph/2/2) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [22(16)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/22/16/c/ii) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(3)(f)(iii)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/3/f/iii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7249ca1da8b97b3140c8bf9f6c8ad10b]: Textual amendment: Words in [sch. 8 Pt. 2 para. 2(2)(a)](https://www.legislation.gov.uk/ssi/2007/330/schedule/8/part/2/paragraph/2/2/a) substituted (18.5.2023) by [The Tuberculosis (Scotland) Order 2023 (S.S.I. 2023/93)](https://www.legislation.gov.uk/ssi/2023/93), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/93/article/1/1), [40(5)(b)](https://www.legislation.gov.uk/ssi/2023/93/article/40/5/b)
+[^c-7249ca1da8b97b3140c8bf9f6c8ad10b]: Textual amendment: Words in [sch. 8 Pt. 2 para. 2(2)(a)](https://www.legislation.gov.uk/ssi/2007/330/schedule/8/part/2/paragraph/2/2/a) substituted (18.5.2023) by [The Tuberculosis (Scotland) Order 2023 (S.S.I. 2023/93)](https://www.legislation.gov.uk/ssi/2023/93), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/93/article/1/1), [40(5)(b)](https://www.legislation.gov.uk/ssi/2023/93/article/40/5/b)

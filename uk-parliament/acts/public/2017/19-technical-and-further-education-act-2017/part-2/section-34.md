@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Modification of this Chapter under the Enterprise Act 2002[^key-16f6cd2ba1e25c3f7d3e3bcb13ef9bd7]
+## 34. Modification of this Chapter under the Enterprise Act 2002[^c-16f6cd2ba1e25c3f7d3e3bcb13ef9bd7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A power to modify or apply enactments conferred on the Secretary of State by sec
 
 ## Annotations
 
-[^key-16f6cd2ba1e25c3f7d3e3bcb13ef9bd7]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2017/19/section/34) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-16f6cd2ba1e25c3f7d3e3bcb13ef9bd7]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2017/19/section/34) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

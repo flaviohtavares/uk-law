@@ -91,14 +91,14 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 15A — Review of LSCBs' performance of functions](part-2/section-15a.md)
 - [Section 16 — LCSBs: supplementary](part-2/section-16.md)
 
-#### Child Safeguarding Practice Review Panel[^key-cd0d6d37a319e631046cbe01f191bb40]
+#### Child Safeguarding Practice Review Panel[^c-cd0d6d37a319e631046cbe01f191bb40]
 
 - [Section 16A — Child Safeguarding Practice Review Panel](part-2/section-16a.md)
 - [Section 16B — Functions of the Panel](part-2/section-16b.md)
 - [Section 16C — Events to be notified to the Panel](part-2/section-16c.md)
 - [Section 16D — Information](part-2/section-16d.md)
 
-#### Safeguarding partners for local authority areas[^key-0dcc6577bc836a9858688c3bf36e8ba7]
+#### Safeguarding partners for local authority areas[^c-0dcc6577bc836a9858688c3bf36e8ba7]
 
 - [Section 16E — Local arrangements for safeguarding and promoting welfare of children](part-2/section-16e.md)
 - [Section 16EA — Section 16E arrangements: multi-agency child protection teams](part-2/section-16ea.md)
@@ -111,14 +111,14 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 16K — Guidance by Secretary of State](part-2/section-16k.md)
 - [Section 16L — Interpretation of sections 16E to 16K](part-2/section-16l.md)
 
-#### Continuity of information for safeguarding and welfare purposes[^key-2e20cad419654c2c935dad7dd1fc51c4]
+#### Continuity of information for safeguarding and welfare purposes[^c-2e20cad419654c2c935dad7dd1fc51c4]
 
 - [Section 16LA — Duty to share information](part-2/section-16la.md)
 - [Section 16LB — Information standards](part-2/section-16lb.md)
 - [Section 16LC — Consistent identifiers for children](part-2/section-16lc.md)
 - [Section 16LD — Consistent identifiers for children: code of practice](part-2/section-16ld.md)
 
-#### Child death review partners for local authority areas[^key-43ff5b245671d85122c11d70e776f6fe]
+#### Child death review partners for local authority areas[^c-43ff5b245671d85122c11d70e776f6fe]
 
 - [Section 16M — Child death reviews](part-2/section-16m.md)
 - [Section 16N — Information](part-2/section-16n.md)
@@ -249,10 +249,10 @@ SCHEDULES
 
 [^c20904841]: Textual amendment: Ss. 12A-12D and cross-heading inserted (26.2.2010 for certain purposes and 1.4.2010 otherwise) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 194(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/194/2), [269](https://www.legislation.gov.uk/ukpga/2009/22/section/269); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [arts. 2](https://www.legislation.gov.uk/uksi/2010/303/article/2), [3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/303/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2)
 
-[^key-cd0d6d37a319e631046cbe01f191bb40]: Textual amendment: S. 16A and cross-heading inserted (29.6.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 12](https://www.legislation.gov.uk/ukpga/2017/16/section/12), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/a)
+[^c-cd0d6d37a319e631046cbe01f191bb40]: Textual amendment: S. 16A and cross-heading inserted (29.6.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 12](https://www.legislation.gov.uk/ukpga/2017/16/section/12), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/a)
 
-[^key-0dcc6577bc836a9858688c3bf36e8ba7]: Textual amendment: S. 16E and crossheading inserted (19.3.2018 for specified purposes, 29.6.2018 in so far as not already in force) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 16](https://www.legislation.gov.uk/ukpga/2017/16/section/16), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/346/regulation/3/b); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/e)
+[^c-0dcc6577bc836a9858688c3bf36e8ba7]: Textual amendment: S. 16E and crossheading inserted (19.3.2018 for specified purposes, 29.6.2018 in so far as not already in force) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 16](https://www.legislation.gov.uk/ukpga/2017/16/section/16), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/346/regulation/3/b); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/e)
 
-[^key-2e20cad419654c2c935dad7dd1fc51c4]: Textual amendment: Ss. 16LA-16LD and cross-heading inserted (29.4.2026 so far as it confers or relates to a power to make regulations; 30.9.2026 the insertion of ss. 16LA, 16LB; and otherwise prosp.) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 4](https://www.legislation.gov.uk/ukpga/2026/21/section/4), [78(1)(a)(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 6(a)](https://www.legislation.gov.uk/uksi/2026/803/regulation/6/a)
+[^c-2e20cad419654c2c935dad7dd1fc51c4]: Textual amendment: Ss. 16LA-16LD and cross-heading inserted (29.4.2026 so far as it confers or relates to a power to make regulations; 30.9.2026 the insertion of ss. 16LA, 16LB; and otherwise prosp.) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 4](https://www.legislation.gov.uk/ukpga/2026/21/section/4), [78(1)(a)(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 6(a)](https://www.legislation.gov.uk/uksi/2026/803/regulation/6/a)
 
-[^key-43ff5b245671d85122c11d70e776f6fe]: Textual amendment: S. 16M and cross-heading inserted (29.6.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 24](https://www.legislation.gov.uk/ukpga/2017/16/section/24), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/m)
+[^c-43ff5b245671d85122c11d70e776f6fe]: Textual amendment: S. 16M and cross-heading inserted (29.6.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 24](https://www.legislation.gov.uk/ukpga/2017/16/section/24), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/m)

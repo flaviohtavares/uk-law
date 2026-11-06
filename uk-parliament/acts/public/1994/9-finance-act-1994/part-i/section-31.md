@@ -36,7 +36,7 @@ summary: ''
 
 is not a chargeable passenger.
 
-(4ZA)[^key-838f99bb14e7a7cabcadd7647cfee9b8] A child who has not attained the age of 16 years is not a chargeable passenger in relation to a flight if the child's agreement for carriage—
+(4ZA)[^c-838f99bb14e7a7cabcadd7647cfee9b8] A child who has not attained the age of 16 years is not a chargeable passenger in relation to a flight if the child's agreement for carriage—
 
 - (a) is evidenced by a ticket, and
 - (b) provides for standard class travel in relation to every flight on the child's journey.
@@ -48,7 +48,7 @@ is not a chargeable passenger.
 - (a) the flight is to depart from and return to the same airport, and
 - (b) the duration of the flight (excluding any period during which the aircraft’s doors are open for boarding or disembarkation) is not to exceed 60 minutes.
 
-(4B)[^c14451491] A passenger is not a chargeable passenger in relation to a flight if under his agreement for carriage (whether or not it is evidenced by a ticket) the flight is to depart from an airport which is in a region of England, Wales or Northern Ireland[^key-dccfbfb66d0393d5a68b7ff70635e65b] designated by order.
+(4B)[^c14451491] A passenger is not a chargeable passenger in relation to a flight if under his agreement for carriage (whether or not it is evidenced by a ticket) the flight is to depart from an airport which is in a region of England, Wales or Northern Ireland[^c-dccfbfb66d0393d5a68b7ff70635e65b] designated by order.
 
 (4C) An order may be made for the purposes of subsection (4B) above in respect of any region which has a population density of not more than 12.5 persons per square kilometre.
 
@@ -65,10 +65,10 @@ is not a chargeable passenger.
 
 [^c14451461]: Textual amendment: S. 31(1)(2)(6) repealed (28.7.2000 with application as mentioned in s. 19(6) of the repealing Act) by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [ss. 19(2)(4)](https://www.legislation.gov.uk/ukpga/2000/17/section/19/2/4), [156](https://www.legislation.gov.uk/ukpga/2000/17/section/156), [Sch. 40 Pt. I(4)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/40/part/I/4)
 
-[^key-838f99bb14e7a7cabcadd7647cfee9b8]: Textual amendment: S. 31(4ZA)(4ZB) inserted (with effect in accordance with s. 57(2) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/11/section/57/1)
+[^c-838f99bb14e7a7cabcadd7647cfee9b8]: Textual amendment: S. 31(4ZA)(4ZB) inserted (with effect in accordance with s. 57(2) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/11/section/57/1)
 
 [^c14451481]: Textual amendment: S. 31(4A) inserted (29.4.1996) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 13(1)](https://www.legislation.gov.uk/ukpga/1996/8/section/13/1)
 
 [^c14451491]: Textual amendment: S. 31(4B)-(4D) inserted (28.7.2000 with application as mentioned in [s. 19(6)](https://www.legislation.gov.uk/ukpga/2000/17/section/19/6) of the amending Act) by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 19(3)](https://www.legislation.gov.uk/ukpga/2000/17/section/19/3)
 
-[^key-dccfbfb66d0393d5a68b7ff70635e65b]: Textual amendment: Words in s. 31(4B) substituted (with effect in accordance with s. 17(7) of the amending Act) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 17(5)](https://www.legislation.gov.uk/ukpga/2016/11/section/17/5), [72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3)
+[^c-dccfbfb66d0393d5a68b7ff70635e65b]: Textual amendment: Words in s. 31(4B) substituted (with effect in accordance with s. 17(7) of the amending Act) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 17(5)](https://www.legislation.gov.uk/ukpga/2016/11/section/17/5), [72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3)

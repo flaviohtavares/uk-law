@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Ballot to indicate approval for purposes of section 56[^key-06a28413857ccba827018b41ddc90538]
+## 57. Ballot to indicate approval for purposes of section 56[^c-06a28413857ccba827018b41ddc90538]
 
 *Extent: S*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06a28413857ccba827018b41ddc90538]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2016/18/section/57) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)
+[^c-06a28413857ccba827018b41ddc90538]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2016/18/section/57) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

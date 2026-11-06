@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. The adjusted cost of arrangements—general provision[^key-49bf5cdcf60b88e2d9a2889d6ed32084]
+## 47. The adjusted cost of arrangements—general provision[^c-49bf5cdcf60b88e2d9a2889d6ed32084]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49bf5cdcf60b88e2d9a2889d6ed32084]: Commencement: Reg. 47 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-49bf5cdcf60b88e2d9a2889d6ed32084]: Commencement: Reg. 47 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

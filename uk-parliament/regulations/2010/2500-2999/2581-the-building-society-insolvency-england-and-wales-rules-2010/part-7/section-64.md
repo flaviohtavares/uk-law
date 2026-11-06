@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. New building society liquidator appointed[^key-b96da7e0155a150746651ef75f12ffbb]
+## 64. New building society liquidator appointed[^c-b96da7e0155a150746651ef75f12ffbb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.81 of the 1986 Rules.
 
 ## Annotations
 
-[^key-b96da7e0155a150746651ef75f12ffbb]: Commencement: Rule 64 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-b96da7e0155a150746651ef75f12ffbb]: Commencement: Rule 64 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

@@ -607,7 +607,7 @@ Repeals having effect on abolition date
 </tbody>
 </table>
 
-[^key-61f12a8f065eb0ee93cb8d286c44df88]
+[^c-61f12a8f065eb0ee93cb8d286c44df88]
 
 ### Part VI — Interest on customs duty etc
 
@@ -635,4 +635,4 @@ Repeals having effect on abolition date
 
 [^c1126573]: Commencement: Sch. 20 Pt. V in force at Royal Assent except for repeals in (4) which come into force on 1.10.1999
 
-[^key-61f12a8f065eb0ee93cb8d286c44df88]: Textual amendment: Word in Sch. 20 Pt. 5(6) omitted (19.7.2011) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 26 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/26/paragraph/7/2/b)
+[^c-61f12a8f065eb0ee93cb8d286c44df88]: Textual amendment: Word in Sch. 20 Pt. 5(6) omitted (19.7.2011) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 26 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/26/paragraph/7/2/b)

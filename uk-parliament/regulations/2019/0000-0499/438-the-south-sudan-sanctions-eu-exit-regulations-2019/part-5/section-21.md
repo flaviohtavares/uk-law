@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Export of military goods[^key-549346d1c4e4f5fc4d28a17bd7514893][^key-054bdce26b67f65e790aca9f64d7bdd2]
+## 21. Export of military goods[^c-549346d1c4e4f5fc4d28a17bd7514893][^c-054bdce26b67f65e790aca9f64d7bdd2]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-549346d1c4e4f5fc4d28a17bd7514893]: Commencement: Reg. 21 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
+[^c-549346d1c4e4f5fc4d28a17bd7514893]: Commencement: Reg. 21 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
 
-[^key-054bdce26b67f65e790aca9f64d7bdd2]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2019/438/regulation/21) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-054bdce26b67f65e790aca9f64d7bdd2]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2019/438/regulation/21) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Commission and Public Appointments Commissioner for Scotland to be subject to Freedom of Information (Scotland) Act[^key-de6cbb79773a4a1f942a03bc2ac47f85]
+## 27. Commission and Public Appointments Commissioner for Scotland to be subject to Freedom of Information (Scotland) Act[^c-de6cbb79773a4a1f942a03bc2ac47f85]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de6cbb79773a4a1f942a03bc2ac47f85]: Textual amendment: S. 27 omitted (1.7.2013) by virtue of [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 29](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/29)
+[^c-de6cbb79773a4a1f942a03bc2ac47f85]: Textual amendment: S. 27 omitted (1.7.2013) by virtue of [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 29](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/29)

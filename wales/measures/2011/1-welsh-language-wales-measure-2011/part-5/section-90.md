@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90. Failure to comply with requirement to publicise failure to comply[^key-c3d8603c5bd6305c847de5faed4ee970]
+## 90. Failure to comply with requirement to publicise failure to comply[^c-c3d8603c5bd6305c847de5faed4ee970]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3d8603c5bd6305c847de5faed4ee970]: Commencement: [S. 90](https://www.legislation.gov.uk/mwa/2011/1/section/90) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)
+[^c-c3d8603c5bd6305c847de5faed4ee970]: Commencement: [S. 90](https://www.legislation.gov.uk/mwa/2011/1/section/90) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)

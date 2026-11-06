@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Minor and consequential amendments, transitionals, and repeals[^key-11ea6f05d5c212ea3f81990adbc1f557][^key-6f1dd0c07e5c88a9472ea6107cff9484][^key-c37949706789445de2320b344f345265][^key-1022a0cdacb349bbb011e63ce059a92a][^key-50ed424c30aa271ca6bbfb9a992bccb6][^key-3f7db4327b656192989ba3774ae5a778]
+## 39. Minor and consequential amendments, transitionals, and repeals[^c-11ea6f05d5c212ea3f81990adbc1f557][^c-6f1dd0c07e5c88a9472ea6107cff9484][^c-c37949706789445de2320b344f345265][^c-1022a0cdacb349bbb011e63ce059a92a][^c-50ed424c30aa271ca6bbfb9a992bccb6][^c-3f7db4327b656192989ba3774ae5a778]
 
 *Extent: E+W*
 
@@ -24,14 +24,14 @@ Schedules 3 (minor and consequential amendments), 4 (transitional and transitory
 
 ## Annotations
 
-[^key-11ea6f05d5c212ea3f81990adbc1f557]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2007/21/section/39) in force at 1.11.2007 for specified purposes by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(p)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/p)
+[^c-11ea6f05d5c212ea3f81990adbc1f557]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2007/21/section/39) in force at 1.11.2007 for specified purposes by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(p)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/p)
 
-[^key-6f1dd0c07e5c88a9472ea6107cff9484]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2007/21/section/39) in force at 1.4.2008 for specified purposes by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 4(1)(l)](https://www.legislation.gov.uk/uksi/2008/504/article/4/1/l)[(2)](https://www.legislation.gov.uk/uksi/2008/504/article/4/2)
+[^c-6f1dd0c07e5c88a9472ea6107cff9484]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2007/21/section/39) in force at 1.4.2008 for specified purposes by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 4(1)(l)](https://www.legislation.gov.uk/uksi/2008/504/article/4/1/l)[(2)](https://www.legislation.gov.uk/uksi/2008/504/article/4/2)
 
-[^key-c37949706789445de2320b344f345265]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2007/21/section/39) in force at 1.4.2008 for specified purposes by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 3(k)](https://www.legislation.gov.uk/uksi/2008/504/article/3/k)
+[^c-c37949706789445de2320b344f345265]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2007/21/section/39) in force at 1.4.2008 for specified purposes by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 3(k)](https://www.legislation.gov.uk/uksi/2008/504/article/3/k)
 
-[^key-1022a0cdacb349bbb011e63ce059a92a]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2007/21/section/39) in force at 1.5.2008 for specified purposes by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3001/article/3/b)
+[^c-1022a0cdacb349bbb011e63ce059a92a]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2007/21/section/39) in force at 1.5.2008 for specified purposes by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3001/article/3/b)
 
-[^key-50ed424c30aa271ca6bbfb9a992bccb6]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2007/21/section/39) in force at 1.4.2009 for specified purposes by [S.I. 2009/547](https://www.legislation.gov.uk/uksi/2009/547), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2009/547/article/2/1/l)[(2)](https://www.legislation.gov.uk/uksi/2009/547/article/2/2)
+[^c-50ed424c30aa271ca6bbfb9a992bccb6]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2007/21/section/39) in force at 1.4.2009 for specified purposes by [S.I. 2009/547](https://www.legislation.gov.uk/uksi/2009/547), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2009/547/article/2/1/l)[(2)](https://www.legislation.gov.uk/uksi/2009/547/article/2/2)
 
-[^key-3f7db4327b656192989ba3774ae5a778]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2007/21/section/39) in force at 1.4.2010 for specified purposes by [S.I. 2010/191](https://www.legislation.gov.uk/uksi/2010/191), [art. 2(12)](https://www.legislation.gov.uk/uksi/2010/191/article/2/12)
+[^c-3f7db4327b656192989ba3774ae5a778]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2007/21/section/39) in force at 1.4.2010 for specified purposes by [S.I. 2010/191](https://www.legislation.gov.uk/uksi/2010/191), [art. 2(12)](https://www.legislation.gov.uk/uksi/2010/191/article/2/12)

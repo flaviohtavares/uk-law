@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 20.2. Non-compliance[^key-cad07f1882df6e963ac6fba40d9f4fe6]
+## 20.2. Non-compliance[^c-cad07f1882df6e963ac6fba40d9f4fe6]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cad07f1882df6e963ac6fba40d9f4fe6]: Commencement: [Rule 20.2](https://www.legislation.gov.uk/uksi/2015/1568/article/20.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-cad07f1882df6e963ac6fba40d9f4fe6]: Commencement: [Rule 20.2](https://www.legislation.gov.uk/uksi/2015/1568/article/20.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

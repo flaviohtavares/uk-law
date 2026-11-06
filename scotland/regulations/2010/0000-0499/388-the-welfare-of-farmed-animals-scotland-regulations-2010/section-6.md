@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Additional duties on a person responsible for animals and at slaughterhouses[^key-cd3fe7a484eb1d70ff168ff4367059a4]
+## 6. Additional duties on a person responsible for animals and at slaughterhouses[^c-cd3fe7a484eb1d70ff168ff4367059a4]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd3fe7a484eb1d70ff168ff4367059a4]: Commencement: Reg. 6 in force at 5.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/388/regulation/1)
+[^c-cd3fe7a484eb1d70ff168ff4367059a4]: Commencement: Reg. 6 in force at 5.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/388/regulation/1)

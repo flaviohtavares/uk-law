@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Restrictions on appointing a manager for more than one service[^key-2abbb3cf7b669d579f27292809a25afd]
+## 52. Restrictions on appointing a manager for more than one service[^c-2abbb3cf7b669d579f27292809a25afd]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2abbb3cf7b669d579f27292809a25afd]: Commencement: [Reg. 52](https://www.legislation.gov.uk/wsi/2019/169/regulation/52) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-2abbb3cf7b669d579f27292809a25afd]: Commencement: [Reg. 52](https://www.legislation.gov.uk/wsi/2019/169/regulation/52) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

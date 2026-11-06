@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 12. Disciplinary tribunals to be unaffected by vacation of see[^key-ed7d3193f59d6ff4f934e43587f8079e]
+## 12. Disciplinary tribunals to be unaffected by vacation of see[^c-ed7d3193f59d6ff4f934e43587f8079e]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed7d3193f59d6ff4f934e43587f8079e]: Textual amendment: S. 12 substituted (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 1 para. 14](https://www.legislation.gov.uk/ukcm/2018/3/schedule/1/paragraph/14) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-ed7d3193f59d6ff4f934e43587f8079e]: Textual amendment: S. 12 substituted (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 1 para. 14](https://www.legislation.gov.uk/ukcm/2018/3/schedule/1/paragraph/14) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

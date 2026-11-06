@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Terminal illness[^key-07397090cbc2ad21849795cdaf393333][^key-e0e238d4eb2edd2adbd254f7f5a3e294]
+## 82. Terminal illness[^c-07397090cbc2ad21849795cdaf393333][^c-e0e238d4eb2edd2adbd254f7f5a3e294]
 
 *Extent: E+W+S*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) Section 79(1)(c) and (2)(c) (required period condition for mobility component) do not apply to a person to whom this section applies.
 
-(4) For the purposes of this section a person is “terminally ill” at any time if at that time the person suffers from a progressive disease and the person's death in consequence of that disease can reasonably be expected within 12[^key-444fc2acb764ac28dbb91c188bc28d5e] months.
+(4) For the purposes of this section a person is “terminally ill” at any time if at that time the person suffers from a progressive disease and the person's death in consequence of that disease can reasonably be expected within 12[^c-444fc2acb764ac28dbb91c188bc28d5e] months.
 
 (5) For the purposes of this section, where—
 
@@ -42,8 +42,8 @@ that person is to be regarded as making the claim despite its being made without
 
 ## Annotations
 
-[^key-07397090cbc2ad21849795cdaf393333]: Commencement: S. 82 in force at 8.4.2013 for specified purposes by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 7(1)](https://www.legislation.gov.uk/uksi/2013/358/article/7/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2013/358/article/7/2/d), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/358/schedule/3)
+[^c-07397090cbc2ad21849795cdaf393333]: Commencement: S. 82 in force at 8.4.2013 for specified purposes by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 7(1)](https://www.legislation.gov.uk/uksi/2013/358/article/7/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2013/358/article/7/2/d), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/358/schedule/3)
 
-[^key-e0e238d4eb2edd2adbd254f7f5a3e294]: Commencement: S. 82 in force at 10.6.2013 in so far as not already in force by [S.I. 2013/1250](https://www.legislation.gov.uk/uksi/2013/1250), [art. 2](https://www.legislation.gov.uk/uksi/2013/1250/article/2)
+[^c-e0e238d4eb2edd2adbd254f7f5a3e294]: Commencement: S. 82 in force at 10.6.2013 in so far as not already in force by [S.I. 2013/1250](https://www.legislation.gov.uk/uksi/2013/1250), [art. 2](https://www.legislation.gov.uk/uksi/2013/1250/article/2)
 
-[^key-444fc2acb764ac28dbb91c188bc28d5e]: Textual amendment: Word in [s. 82(4)](https://www.legislation.gov.uk/ukpga/2012/5/section/82/4) substituted (3.4.2023) by [Social Security (Special Rules for End of Life) Act 2022 (c. 42)](https://www.legislation.gov.uk/ukpga/2022/42), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2022/42/section/1/2), [2(2)](https://www.legislation.gov.uk/ukpga/2022/42/section/2/2); [S.I. 2023/383](https://www.legislation.gov.uk/uksi/2023/383), [reg. 2](https://www.legislation.gov.uk/uksi/2023/383/regulation/2)
+[^c-444fc2acb764ac28dbb91c188bc28d5e]: Textual amendment: Word in [s. 82(4)](https://www.legislation.gov.uk/ukpga/2012/5/section/82/4) substituted (3.4.2023) by [Social Security (Special Rules for End of Life) Act 2022 (c. 42)](https://www.legislation.gov.uk/ukpga/2022/42), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2022/42/section/1/2), [2(2)](https://www.legislation.gov.uk/ukpga/2022/42/section/2/2); [S.I. 2023/383](https://www.legislation.gov.uk/uksi/2023/383), [reg. 2](https://www.legislation.gov.uk/uksi/2023/383/regulation/2)

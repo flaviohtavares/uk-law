@@ -41,40 +41,40 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety makes the following regulations in exercise of the powers conferred by section 12(2) of, and paragraphs 3 and 18(1) of Schedule 2 to, the Health and Social Care (Reform) Act (Northern Ireland) 2009[^f00001]:
 
-## 1. Citation, commencement and interpretation[^key-3f5457adce74215198c6c7b5ec40a88f]
+## 1. Citation, commencement and interpretation[^c-3f5457adce74215198c6c7b5ec40a88f]
 
 (1) These regulations may be cited as the Regional Agency for Public Health and Social Well-being (Membership) Regulations (Northern Ireland) 2009 and shall come into operation on 1st April 2009.
 
 (2) In these regulations—
 
 - “the Act” means the Health and Social Care (Reform) Act (Northern Ireland) 2009;
-- “bankruptcy restrictions order” means an order made under Schedule 2A of the Insolvency (Northern Ireland) Order 1989[^f00002] or Schedule 4A of the Insolvency Act 1986[^key-3e84c3da217241299f49e033f9dbe89b];
+- “bankruptcy restrictions order” means an order made under Schedule 2A of the Insolvency (Northern Ireland) Order 1989[^f00002] or Schedule 4A of the Insolvency Act 1986[^c-3e84c3da217241299f49e033f9dbe89b];
 - “charity trustee” means one of the persons having the general control and management of the administration of a charity;
-- debt relief restrictions order” means an order made under Schedule 2ZB to the Insolvency (Northern Ireland) Order 1989 or Schedule 4ZB to the Insolvency Act 1986;[^key-3f2801a6d390277f231773c6f1c7d82d]
-- **former health service body[^key-5d4fafefb871656564d8dbd83b945f18]**” means a clinical commissioning group,[^key-5f8d0014fc619448e32f70d613fc25b7] a Strategic Health Authority, a Primary Care Trust , the Health and Social Care Information Centre[^key-4643909ba9dfb1d7c8cef9ff8623076c] or the Health Protection Agency;
+- debt relief restrictions order” means an order made under Schedule 2ZB to the Insolvency (Northern Ireland) Order 1989 or Schedule 4ZB to the Insolvency Act 1986;[^c-3f2801a6d390277f231773c6f1c7d82d]
+- **former health service body[^c-5d4fafefb871656564d8dbd83b945f18]**” means a clinical commissioning group,[^c-5f8d0014fc619448e32f70d613fc25b7] a Strategic Health Authority, a Primary Care Trust , the Health and Social Care Information Centre[^c-4643909ba9dfb1d7c8cef9ff8623076c] or the Health Protection Agency;
 - “health service body” means—
   - (a) any of the following within the meaning of the National Health Service Act 2006[^f00003]—
-    - (i) [^key-59f5dd973289c65404bd9f7a2d31e51e]...
-    - (ii) [^key-59f5dd973289c65404bd9f7a2d31e51e]...
+    - (i) [^c-59f5dd973289c65404bd9f7a2d31e51e]...
+    - (ii) [^c-59f5dd973289c65404bd9f7a2d31e51e]...
     - (iii) an NHS trust;
     - (iv) a Special Health Authority;
-    - (iva) [^key-42a3d9e986286d1b047a5780afbe5d54]...[^key-3ceb0e2974c35de6d58792429086ebe5]
-    - (ivb) NHS England[^key-39443c8c4d88e77e935d14f996668b71];
+    - (iva) [^c-42a3d9e986286d1b047a5780afbe5d54]...[^c-3ceb0e2974c35de6d58792429086ebe5]
+    - (ivb) NHS England[^c-39443c8c4d88e77e935d14f996668b71];
     - (ivc) the National Institute for Health and Care Excellence;
-    - (ivd) [^key-b2f0bfc64b9e7acba462db4399dcdd60]...
+    - (ivd) [^c-b2f0bfc64b9e7acba462db4399dcdd60]...
     - (v) a Local Health Board;
-    - (vi) an integrated care board;[^key-f7f41989e21d82f284f5452cff675934]
+    - (vi) an integrated care board;[^c-f7f41989e21d82f284f5452cff675934]
   - (b) any of the following within the meaning of the National Health Service (Scotland) Act 1978[^f00004]—
     - (i) a Health Board;
     - (ii) a Special Health Board;
     - (iii) the Common Services Agency for the Scottish Health Service;
     - (iv) the Scottish Dental Practice Board;
   - (c) the Wales Centre for Health established under section 2 of the Health (Wales) Act 2003[^f00005];
-  - (d) [^key-358664444d1c365079e0f5a5d9506dff]... and
+  - (d) [^c-358664444d1c365079e0f5a5d9506dff]... and
   - (e) the Care Quality Commission established under section 1 of the Health and Social Care Act 2008[^f00007];
 - “trustee for a charity” is a person not being a charity trustee, in whom legal title to the property of the charity is vested.
 
-## 2. Membership[^key-53679ef66d4afdd55080c45c0a24e2df]
+## 2. Membership[^c-53679ef66d4afdd55080c45c0a24e2df]
 
 (1) The prescribed number of persons appointed by the Department for the purposes of paragraph 3(1)(b) of Schedule 2 to the Act shall be 5.
 
@@ -87,26 +87,26 @@ The Department of Health, Social Services and Public Safety makes the following 
 
 (4) For the purposes of paragraph 3(1)(f) of Schedule 2 to the Act the prescribed number of members of district councils appointed by the Department shall be 2 and the appointments shall be made in accordance with the Code of Practice for Ministerial Appointments to Public Bodies[^f00008].
 
-## 3. Joint membership[^key-d27fe7af0eafe8e1a68d93b623960aa9]
+## 3. Joint membership[^c-d27fe7af0eafe8e1a68d93b623960aa9]
 
 Where more than one person is appointed jointly to a post in the Agency which qualifies the holder for membership in accordance with paragraph 3(1)(d) of Schedule 2 to the Act or in relation to which an officer is to be appointed in accordance with paragraph 3(1)(e) of Schedule 2 to the Act those persons shall become or be appointed as a member jointly, and shall count for the purposes of regulation 2 as one person.
 
-## 4. Disqualification for appointment[^key-9c5c6a9405bce9bda82d0301d042157a]
+## 4. Disqualification for appointment[^c-9c5c6a9405bce9bda82d0301d042157a]
 
 (1) Subject to regulation 5, a person shall be disqualified for appointment under regulation 2(1) and 2(4) if that person—
 
 - (a) has within five years of the day the appointment would otherwise have taken effect been convicted, whether in the United Kingdom or elsewhere, of any offence and has been given a sentence of imprisonment (whether suspended or not) for a period of not less than three months without the option of a fine;
-- (b) has been dismissed, other than by reason of redundancy, from any paid employment with the Department, a health and social care body , a health service body or a former health service body[^key-21726c7080d3387a960cfe7f6db5fb53];
-- (c) is the subject of a bankruptcy restrictions order or he is the subject of a debt relief restrictions order[^key-7ce2c66b1ad81eff1199b22f389c281c];
+- (b) has been dismissed, other than by reason of redundancy, from any paid employment with the Department, a health and social care body , a health service body or a former health service body[^c-21726c7080d3387a960cfe7f6db5fb53];
+- (c) is the subject of a bankruptcy restrictions order or he is the subject of a debt relief restrictions order[^c-7ce2c66b1ad81eff1199b22f389c281c];
 - (d) is subject to a disqualification under the Company Directors Disqualification (Northern Ireland) Order 2002[^f00009], the Company Directors Disqualification Act 1986[^f00010] or to an order made under section 429(2)(b) of the Insolvency Act 1986[^f00011] (failure to pay under county court administration order);
 - (e) has been
   - (i) removed from the office of charity trustee or trustee for a charity in Northern Ireland or by an order made by the Charity Commissioners or the High Court in England and Wales on the grounds of any misconduct or mismanagement in the administration of the charity for which that person was responsible or to which that person was privy, or which that person by his conduct contributed to or facilitated; or,
   - (ii) removed under section 7 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990[^f00012] (powers of the Court of Session to deal with management of charities), from being concerned in the management or control of any body;
-- (f) is a Chair, chairman, member or non-executive director of a health and social care body or a health service body [^key-7586af8be3d72c25a4bbbd8026bf743f]...;
-- (fa)[^key-a801ab9b9cb6cbab5c8c1e965043d19a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f) is a Chair, chairman, member or non-executive director of a health and social care body or a health service body [^c-7586af8be3d72c25a4bbbd8026bf743f]...;
+- (fa)[^c-a801ab9b9cb6cbab5c8c1e965043d19a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) holds any paid employment or office with the Department, a health and social care body or a health service body;
-- (h) is a person who has been removed from office as the Chair, chairman, member or non-executive director of a health and social care body , a health service body[^key-01fec4a0d33f4479e00f965440e5730a] [^key-731f5336f897584aee5b7d8735954a9b]... or a former health service body (other than a clinical commissioning group)[^key-4d148f6e6c5775aec576117e42a81fd4];
-- (i)[^key-7fe97293b15f2b6a3ef8183c20eef555] is a person who has been removed from office as the chair or a member of the governing body of a clinical commissioning group.
+- (h) is a person who has been removed from office as the Chair, chairman, member or non-executive director of a health and social care body , a health service body[^c-01fec4a0d33f4479e00f965440e5730a] [^c-731f5336f897584aee5b7d8735954a9b]... or a former health service body (other than a clinical commissioning group)[^c-4d148f6e6c5775aec576117e42a81fd4];
+- (i)[^c-7fe97293b15f2b6a3ef8183c20eef555] is a person who has been removed from office as the chair or a member of the governing body of a clinical commissioning group.
 
 (2) For the purposes of paragraph 1(a)—
 
@@ -118,11 +118,11 @@ Where more than one person is appointed jointly to a post in the Agency which qu
 (3) For the purposes of paragraph 1(b)—
 
 - (a) a person shall not be treated as having been in paid employment by reason only of his being
-  - (i)[^key-926b36d5352eb344733da9225032e601] a Chair, chairman, member or non-executive director of a health and social care body , a health service body[^key-ebc3427d0eb7dc2d102c76c5c94cace5] [^key-72997c924f6e15509a0feec3ebf10fea]... or a former health service body (other than a clinical commissioning group)[^key-7cb91dd20d37fa3857d249cb70cb93b2], or
+  - (i)[^c-926b36d5352eb344733da9225032e601] a Chair, chairman, member or non-executive director of a health and social care body , a health service body[^c-ebc3427d0eb7dc2d102c76c5c94cace5] [^c-72997c924f6e15509a0feec3ebf10fea]... or a former health service body (other than a clinical commissioning group)[^c-7cb91dd20d37fa3857d249cb70cb93b2], or
   - (ii) the chair or a member of the governing body of a clinical commissioning group; and
 - (b) “dismissed” excludes dismissal which was established to have been unfair in industrial tribunal proceedings.
 
-## 5. Cessation of disqualification[^key-6a366cfb46233e33a66c231921d532ff]
+## 5. Cessation of disqualification[^c-6a366cfb46233e33a66c231921d532ff]
 
 (1) Subject to paragraph (2), where a person is disqualified under regulation 4(1)(b) (dismissed employees) that person may, after the expiry of a period of not less than two years, apply in writing to the Department to remove the disqualification and the Department may direct that the disqualification shall cease.
 
@@ -130,7 +130,7 @@ Where more than one person is appointed jointly to a post in the Agency which qu
 
 (3) Where a person is disqualified under regulation 4(1)(h) (certain Chairs, chairmen, members and non-executive directors whose appointments have been terminated), the disqualification shall cease on the expiry of a period of two years or such longer period as the Department specifies when terminating his period of office but the Department may on application being made to it by that person reduce the period of disqualification.
 
-## 6. Annual report[^key-45f914425e3b8fb638a55251e1dc2714]
+## 6. Annual report[^c-45f914425e3b8fb638a55251e1dc2714]
 
 The Agency shall, in respect of each financial year, prepare and send to the Department a report on the exercise of its functions which shall—
 
@@ -161,53 +161,53 @@ These regulations make provision concerning the membership of the Regional Agenc
 
 [^f00001]: Footnote: [2009 c.1 (N.I.)](https://www.legislation.gov.uk/nia/2009/1)
 
-[^key-3f5457adce74215198c6c7b5ec40a88f]: Commencement: Reg. 1 in operation at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/1)
+[^c-3f5457adce74215198c6c7b5ec40a88f]: Commencement: Reg. 1 in operation at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405). The relevant amending instrument is [S.I. 2005/1455 (N.I. 10)](https://www.legislation.gov.uk/nisi/2005/1455)
 
-[^key-3e84c3da217241299f49e033f9dbe89b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/2) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 45](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/45)
+[^c-3e84c3da217241299f49e033f9dbe89b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/2) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 45](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/45)
 
-[^key-3f2801a6d390277f231773c6f1c7d82d]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/2) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 52(2)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/52/2)
+[^c-3f2801a6d390277f231773c6f1c7d82d]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/2) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 52(2)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/52/2)
 
-[^key-5d4fafefb871656564d8dbd83b945f18]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/2) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 136(2)(a)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/136/2/a)
+[^c-5d4fafefb871656564d8dbd83b945f18]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/2) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 136(2)(a)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/136/2/a)
 
-[^key-5f8d0014fc619448e32f70d613fc25b7]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/2) inserted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/8/2/a)
+[^c-5f8d0014fc619448e32f70d613fc25b7]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/2) inserted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/8/2/a)
 
-[^key-4643909ba9dfb1d7c8cef9ff8623076c]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/2) inserted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 33(a)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/33/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-4643909ba9dfb1d7c8cef9ff8623076c]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/2) inserted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 33(a)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/33/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
 [^f00003]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41)
 
-[^key-59f5dd973289c65404bd9f7a2d31e51e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/2) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 136(2)(b)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/136/2/b/i)
+[^c-59f5dd973289c65404bd9f7a2d31e51e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/2) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 136(2)(b)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/136/2/b/i)
 
-[^key-42a3d9e986286d1b047a5780afbe5d54]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/2) omitted (16.12.2024) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [8(2)(b)(i)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/8/2/b/i)
+[^c-42a3d9e986286d1b047a5780afbe5d54]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/2) omitted (16.12.2024) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [8(2)(b)(i)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/8/2/b/i)
 
-[^key-3ceb0e2974c35de6d58792429086ebe5]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/2) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 136(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/136/2/b/ii)
+[^c-3ceb0e2974c35de6d58792429086ebe5]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/2) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 136(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/136/2/b/ii)
 
-[^key-39443c8c4d88e77e935d14f996668b71]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-39443c8c4d88e77e935d14f996668b71]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-b2f0bfc64b9e7acba462db4399dcdd60]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/2) omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 33(b)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/33/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-b2f0bfc64b9e7acba462db4399dcdd60]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/2) omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 33(b)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/33/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-f7f41989e21d82f284f5452cff675934]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/2) inserted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [8(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/8/2/b/ii)
+[^c-f7f41989e21d82f284f5452cff675934]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/2) inserted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [8(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/8/2/b/ii)
 
 [^f00004]: Footnote: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29); section 2 was amended by paragraph 1 of Schedule 7 to the Health and Social Services and Social Security Adjudications Act [1983 (c.41)](https://www.legislation.gov.uk/ukpga/1983/41) and by section 28 of the National Health Service and Community Care Act [1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19); section 10 was amended by paragraph 2 of Schedule 6 to the Health Services Act [1980 (c.53)](https://www.legislation.gov.uk/ukpga/1980/53)
 
 [^f00005]: Footnote: [2003 c.4](https://www.legislation.gov.uk/ukpga/2003/4)
 
-[^key-358664444d1c365079e0f5a5d9506dff]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/2) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 136(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/136/2/b/iii)
+[^c-358664444d1c365079e0f5a5d9506dff]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/2) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 136(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/136/2/b/iii)
 
 [^f00007]: Footnote: [2008 c.14](https://www.legislation.gov.uk/ukpga/2008/14)
 
-[^key-53679ef66d4afdd55080c45c0a24e2df]: Commencement: Reg. 2 in operation at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/1)
+[^c-53679ef66d4afdd55080c45c0a24e2df]: Commencement: Reg. 2 in operation at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/1)
 
 [^f00008]: Footnote: Issued in May 2007 and available online at www.ocpani.gov.uk
 
-[^key-d27fe7af0eafe8e1a68d93b623960aa9]: Commencement: Reg. 3 in operation at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/1)
+[^c-d27fe7af0eafe8e1a68d93b623960aa9]: Commencement: Reg. 3 in operation at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/1)
 
-[^key-9c5c6a9405bce9bda82d0301d042157a]: Commencement: Reg. 4 in operation at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/1)
+[^c-9c5c6a9405bce9bda82d0301d042157a]: Commencement: Reg. 4 in operation at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/1)
 
-[^key-21726c7080d3387a960cfe7f6db5fb53]: Textual amendment: Words in [reg. 4(1)(b)](https://www.legislation.gov.uk/nisr/2009/93/regulation/4/1/b) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 136(3)(a)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/136/3/a)
+[^c-21726c7080d3387a960cfe7f6db5fb53]: Textual amendment: Words in [reg. 4(1)(b)](https://www.legislation.gov.uk/nisr/2009/93/regulation/4/1/b) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 136(3)(a)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/136/3/a)
 
-[^key-7ce2c66b1ad81eff1199b22f389c281c]: Textual amendment: Words in [reg. 4(1)(c)](https://www.legislation.gov.uk/nisr/2009/93/regulation/4/1/c) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 52(3)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/52/3)
+[^c-7ce2c66b1ad81eff1199b22f389c281c]: Textual amendment: Words in [reg. 4(1)(c)](https://www.legislation.gov.uk/nisr/2009/93/regulation/4/1/c) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 52(3)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/52/3)
 
 [^f00009]: Footnote: [S.I. 2002/3150 (N.I. 4)](https://www.legislation.gov.uk/nisi/2002/3150)
 
@@ -217,26 +217,26 @@ These regulations make provision concerning the membership of the Regional Agenc
 
 [^f00012]: Footnote: [1990 c.40](https://www.legislation.gov.uk/ukpga/1990/40)
 
-[^key-7586af8be3d72c25a4bbbd8026bf743f]: Textual amendment: Words in [reg. 4(1)(f)](https://www.legislation.gov.uk/nisr/2009/93/regulation/4/1/f) omitted (16.12.2024) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [8(3)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/8/3/a/i)
+[^c-7586af8be3d72c25a4bbbd8026bf743f]: Textual amendment: Words in [reg. 4(1)(f)](https://www.legislation.gov.uk/nisr/2009/93/regulation/4/1/f) omitted (16.12.2024) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [8(3)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/8/3/a/i)
 
-[^key-a801ab9b9cb6cbab5c8c1e965043d19a]: Textual amendment: [Reg. 4(1)(fa)](https://www.legislation.gov.uk/nisr/2009/93/regulation/4/1/fa) omitted (16.12.2024) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [8(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/8/3/a/ii)
+[^c-a801ab9b9cb6cbab5c8c1e965043d19a]: Textual amendment: [Reg. 4(1)(fa)](https://www.legislation.gov.uk/nisr/2009/93/regulation/4/1/fa) omitted (16.12.2024) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [8(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/8/3/a/ii)
 
-[^key-01fec4a0d33f4479e00f965440e5730a]: Textual amendment: Words in [reg. 4(1)(h)](https://www.legislation.gov.uk/nisr/2009/93/regulation/4/1/h) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 136(3)(d)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/136/3/d)
+[^c-01fec4a0d33f4479e00f965440e5730a]: Textual amendment: Words in [reg. 4(1)(h)](https://www.legislation.gov.uk/nisr/2009/93/regulation/4/1/h) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 136(3)(d)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/136/3/d)
 
-[^key-731f5336f897584aee5b7d8735954a9b]: Textual amendment: Words in [reg. 4(1)(h)](https://www.legislation.gov.uk/nisr/2009/93/regulation/4/1/h) omitted (16.12.2024) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [8(3)(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/8/3/a/iii/aa)
+[^c-731f5336f897584aee5b7d8735954a9b]: Textual amendment: Words in [reg. 4(1)(h)](https://www.legislation.gov.uk/nisr/2009/93/regulation/4/1/h) omitted (16.12.2024) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [8(3)(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/8/3/a/iii/aa)
 
-[^key-4d148f6e6c5775aec576117e42a81fd4]: Textual amendment: Words in [reg. 4(1)(h)](https://www.legislation.gov.uk/nisr/2009/93/regulation/4/1/h) inserted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [8(3)(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/8/3/a/iii/bb)
+[^c-4d148f6e6c5775aec576117e42a81fd4]: Textual amendment: Words in [reg. 4(1)(h)](https://www.legislation.gov.uk/nisr/2009/93/regulation/4/1/h) inserted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [8(3)(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/8/3/a/iii/bb)
 
-[^key-7fe97293b15f2b6a3ef8183c20eef555]: Textual amendment: [Reg. 4(1)(i)](https://www.legislation.gov.uk/nisr/2009/93/regulation/4/1/i) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 136(3)(e)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/136/3/e)
+[^c-7fe97293b15f2b6a3ef8183c20eef555]: Textual amendment: [Reg. 4(1)(i)](https://www.legislation.gov.uk/nisr/2009/93/regulation/4/1/i) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 136(3)(e)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/136/3/e)
 
-[^key-926b36d5352eb344733da9225032e601]: Textual amendment: Word in [reg. 4(3)(a)](https://www.legislation.gov.uk/nisr/2009/93/regulation/4/3/a) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 136(3)(f)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/136/3/f/i)
+[^c-926b36d5352eb344733da9225032e601]: Textual amendment: Word in [reg. 4(3)(a)](https://www.legislation.gov.uk/nisr/2009/93/regulation/4/3/a) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 136(3)(f)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/136/3/f/i)
 
-[^key-ebc3427d0eb7dc2d102c76c5c94cace5]: Textual amendment: Words in [reg. 4(3)(a)](https://www.legislation.gov.uk/nisr/2009/93/regulation/4/3/a) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 136(3)(f)(ii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/136/3/f/ii)
+[^c-ebc3427d0eb7dc2d102c76c5c94cace5]: Textual amendment: Words in [reg. 4(3)(a)](https://www.legislation.gov.uk/nisr/2009/93/regulation/4/3/a) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 136(3)(f)(ii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/136/3/f/ii)
 
-[^key-72997c924f6e15509a0feec3ebf10fea]: Textual amendment: Words in [reg. 4(3)(a)(i)](https://www.legislation.gov.uk/nisr/2009/93/regulation/4/3/a/i) omitted (16.12.2024) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [8(3)(b)(i)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/8/3/b/i)
+[^c-72997c924f6e15509a0feec3ebf10fea]: Textual amendment: Words in [reg. 4(3)(a)(i)](https://www.legislation.gov.uk/nisr/2009/93/regulation/4/3/a/i) omitted (16.12.2024) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [8(3)(b)(i)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/8/3/b/i)
 
-[^key-7cb91dd20d37fa3857d249cb70cb93b2]: Textual amendment: Words in [reg. 4(3)(a)(i)](https://www.legislation.gov.uk/nisr/2009/93/regulation/4/3/a/i) inserted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [8(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/8/3/b/ii)
+[^c-7cb91dd20d37fa3857d249cb70cb93b2]: Textual amendment: Words in [reg. 4(3)(a)(i)](https://www.legislation.gov.uk/nisr/2009/93/regulation/4/3/a/i) inserted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [8(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/8/3/b/ii)
 
-[^key-6a366cfb46233e33a66c231921d532ff]: Commencement: Reg. 5 in operation at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/1)
+[^c-6a366cfb46233e33a66c231921d532ff]: Commencement: Reg. 5 in operation at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/1)
 
-[^key-45f914425e3b8fb638a55251e1dc2714]: Commencement: Reg. 6 in operation at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/1)
+[^c-45f914425e3b8fb638a55251e1dc2714]: Commencement: Reg. 6 in operation at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/93/regulation/1/1)

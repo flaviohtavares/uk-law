@@ -74,7 +74,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (5) Omit regulation 6A (exemption for service stations).
 
-## 4. Amendment of the Pollution Prevention and Control Regulations[^key-1d5fde23f0c8897fb9d47036e3078f57]
+## 4. Amendment of the Pollution Prevention and Control Regulations[^c-1d5fde23f0c8897fb9d47036e3078f57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -116,6 +116,6 @@ A Business and Regulatory Impact Assessment has been prepared, and placed in the
 
 [^c21118101]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-1d5fde23f0c8897fb9d47036e3078f57]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/418/regulation/4) revoked (7.1.2013) by [The Pollution Prevention and Control (Scotland) Regulations 2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1/2), [sch. 12](https://www.legislation.gov.uk/ssi/2012/360/schedule/12) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))
+[^c-1d5fde23f0c8897fb9d47036e3078f57]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/418/regulation/4) revoked (7.1.2013) by [The Pollution Prevention and Control (Scotland) Regulations 2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1/2), [sch. 12](https://www.legislation.gov.uk/ssi/2012/360/schedule/12) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))
 
 [^c21118141]: Marginal citation: [S.I. 1996/2678](https://www.legislation.gov.uk/uksi/1996/2678); relevantly amended by [S.S.I. 2004/512](https://www.legislation.gov.uk/ssi/2004/512).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 104. Transitional provisions, etc.[^key-ef03449299fee83c5dbbd734af096ddc]
+## 104. Transitional provisions, etc.[^c-ef03449299fee83c5dbbd734af096ddc]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule8 (which contains transitional provisions and savings) has effect.
 
 ## Annotations
 
-[^key-ef03449299fee83c5dbbd734af096ddc]: Commencement: [S. 104](https://www.legislation.gov.uk/nia/2015/9/section/104) in operation at 31.10.2016 for specified purposes by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(i)](https://www.legislation.gov.uk/nisr/2016/387/article/2/i) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-ef03449299fee83c5dbbd734af096ddc]: Commencement: [S. 104](https://www.legislation.gov.uk/nia/2015/9/section/104) in operation at 31.10.2016 for specified purposes by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(i)](https://www.legislation.gov.uk/nisr/2016/387/article/2/i) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

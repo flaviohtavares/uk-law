@@ -37,7 +37,7 @@ In relating this Schedule to the rights of way and access plans, the provisions 
 - (c) Private means of access to be stopped up, as described in column (2) of Parts 3 and 4 of this Schedule, are shown by solid lime green shading (as shown in the key on the rights of way and access plans) over the extent of stopping up described in column (3) of Parts 3 and 4 of this Schedule, and are given a reference label in a square (a capital B followed by a number).
 - (d) New private means of access to be substituted for a private means of access to be stopped up (or which are otherwise to be provided), as are included in column (4) of Part 3 of this Schedule, are shown by red diagonal hatching (as shown in the key on the rights of way and access plans) and are given a reference label in a square (a capital C followed by a number).
 
-### PART 1 — HIGHWAYS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-12e86b151ae7950f96908d60183a9da5]
+### PART 1 — HIGHWAYS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-12e86b151ae7950f96908d60183a9da5]
 
 <table>
 <thead>
@@ -59,7 +59,7 @@ In relating this Schedule to the rights of way and access plans, the provisions 
 </tbody>
 </table>
 
-### PART 2 — HIGHWAYS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW HIGHWAYS WHICH ARE OTHERWISE TO BE PROVIDED[^key-9f76f64bef12994aa8c37c92f258804d]
+### PART 2 — HIGHWAYS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW HIGHWAYS WHICH ARE OTHERWISE TO BE PROVIDED[^c-9f76f64bef12994aa8c37c92f258804d]
 
 <table>
 <thead>
@@ -124,7 +124,7 @@ In relating this Schedule to the rights of way and access plans, the provisions 
 </tbody>
 </table>
 
-### PART 3 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW PRIVATE MEANS OF ACCESS WHICH ARE OTHERWISE TO BE PROVIDED[^key-91b27903209b749c4a1c2d9f9ea8e73a]
+### PART 3 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW PRIVATE MEANS OF ACCESS WHICH ARE OTHERWISE TO BE PROVIDED[^c-91b27903209b749c4a1c2d9f9ea8e73a]
 
 <table>
 <thead>
@@ -168,7 +168,7 @@ In relating this Schedule to the rights of way and access plans, the provisions 
 </tbody>
 </table>
 
-### PART 4 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-08a452a68344788ecc41fc893572898d]
+### PART 4 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-08a452a68344788ecc41fc893572898d]
 
 <table>
 <thead>
@@ -184,10 +184,10 @@ In relating this Schedule to the rights of way and access plans, the provisions 
 
 ## Annotations
 
-[^key-12e86b151ae7950f96908d60183a9da5]: Commencement: Sch. 4 Pt. 1n2 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
+[^c-12e86b151ae7950f96908d60183a9da5]: Commencement: Sch. 4 Pt. 1n2 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
 
-[^key-9f76f64bef12994aa8c37c92f258804d]: Commencement: Sch. 4 Pt. 2 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
+[^c-9f76f64bef12994aa8c37c92f258804d]: Commencement: Sch. 4 Pt. 2 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
 
-[^key-91b27903209b749c4a1c2d9f9ea8e73a]: Commencement: Sch. 4 Pt. 3 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
+[^c-91b27903209b749c4a1c2d9f9ea8e73a]: Commencement: Sch. 4 Pt. 3 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
 
-[^key-08a452a68344788ecc41fc893572898d]: Commencement: Sch. 4 Pt. 4 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
+[^c-08a452a68344788ecc41fc893572898d]: Commencement: Sch. 4 Pt. 4 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)

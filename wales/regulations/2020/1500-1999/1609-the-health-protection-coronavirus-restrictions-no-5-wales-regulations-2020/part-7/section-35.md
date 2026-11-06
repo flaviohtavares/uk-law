@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Power of police to conduct road checks[^key-be7c62a5f2a63be0e1309382147ed39e]
+## 35. Power of police to conduct road checks[^c-be7c62a5f2a63be0e1309382147ed39e]
 
 *Extent: E+W*
 
@@ -58,6 +58,6 @@ an offence under these Regulations.
 
 ## Annotations
 
-[^key-be7c62a5f2a63be0e1309382147ed39e]: Commencement: Reg. 35 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)
+[^c-be7c62a5f2a63be0e1309382147ed39e]: Commencement: Reg. 35 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)
 
 [^c24382721]: Marginal citation: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52), as amended by the [Road Traffic Act 1991 (c. 40) and the Traffic Management Act 2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18).

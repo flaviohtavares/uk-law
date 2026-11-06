@@ -45,7 +45,7 @@ If the offeror is a company, every officer of that company who is in default or 
 (7) A person guilty of an offence under this section is liable—
 
 - (a) on conviction on indictment, to a fine;
-- (b) on summary conviction, to a fine not exceeding the statutory maximum and, for continued contravention, a daily default fine not exceeding one-fiftieth of the statutory maximum *(Extent: E+W)* *(affected by repeal, see note)*[^key-4c4b0446b44a1bf3a19b09ed44c9dcd0]one-fiftieth of the greater of £5,000 or the amount corresponding to level 4 on the standard scale for summary offences *(Extent: E+W)*.
+- (b) on summary conviction, to a fine not exceeding the statutory maximum and, for continued contravention, a daily default fine not exceeding one-fiftieth of the statutory maximum *(Extent: E+W)* *(affected by repeal, see note)*[^c-4c4b0446b44a1bf3a19b09ed44c9dcd0]one-fiftieth of the greater of £5,000 or the amount corresponding to level 4 on the standard scale for summary offences *(Extent: E+W)*.
 
 ## Annotations
 
@@ -53,4 +53,4 @@ If the offeror is a company, every officer of that company who is in default or 
 
 [^c20618621]: Modification: Ss. 974-991 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 14(2)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/14/2) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2))
 
-[^key-4c4b0446b44a1bf3a19b09ed44c9dcd0]: Textual amendment: Words in s. 984(7)(b) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 9(21)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/9/21) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-4c4b0446b44a1bf3a19b09ed44c9dcd0]: Textual amendment: Words in s. 984(7)(b) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 9(21)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/9/21) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

@@ -32,7 +32,7 @@ summary: ''
 
 Police, England And Wales
 
-The Police (Conduct) (Amendment) Regulations 2014 (revoked)[^key-c876d1f45cd637aba666f361e810ed5d]
+The Police (Conduct) (Amendment) Regulations 2014 (revoked)[^c-c876d1f45cd637aba666f361e810ed5d]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 12th January 2015
 
-[^key-c876d1f45cd637aba666f361e810ed5d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c876d1f45cd637aba666f361e810ed5d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c876d1f45cd637aba666f361e810ed5d]
+## 1. Citation and commencement[^c-c876d1f45cd637aba666f361e810ed5d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Police (Conduct) Regulations 2012[^key-c876d1f45cd637aba666f361e810ed5d]
+## 2. Amendment to the Police (Conduct) Regulations 2012[^c-c876d1f45cd637aba666f361e810ed5d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c876d1f45cd637aba666f361e810ed5d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c876d1f45cd637aba666f361e810ed5d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c876d1f45cd637aba666f361e810ed5d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c876d1f45cd637aba666f361e810ed5d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c876d1f45cd637aba666f361e810ed5d]: Textual amendment: Regulations revoked (1.2.2020) by [The Police (Conduct) Regulations 2020 (S.I. 2020/4)](https://www.legislation.gov.uk/uksi/2020/4), [regs. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2020/4/regulation/3/1/b) (with [regs. 3(2)](https://www.legislation.gov.uk/uksi/2020/4/regulation/3/2), [4](https://www.legislation.gov.uk/uksi/2020/4/regulation/4))
+[^c-c876d1f45cd637aba666f361e810ed5d]: Textual amendment: Regulations revoked (1.2.2020) by [The Police (Conduct) Regulations 2020 (S.I. 2020/4)](https://www.legislation.gov.uk/uksi/2020/4), [regs. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2020/4/regulation/3/1/b) (with [regs. 3(2)](https://www.legislation.gov.uk/uksi/2020/4/regulation/3/2), [4](https://www.legislation.gov.uk/uksi/2020/4/regulation/4))

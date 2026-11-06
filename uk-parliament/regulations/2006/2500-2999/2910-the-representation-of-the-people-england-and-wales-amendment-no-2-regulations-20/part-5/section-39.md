@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Procedure in relation to postal voting statements: personal identifier verification[^key-fc320a565a85e1de2e19bea685793180]
+## 39. Procedure in relation to postal voting statements: personal identifier verification[^c-fc320a565a85e1de2e19bea685793180]
 
 *Extent: E+W*
 
@@ -82,4 +82,4 @@ After regulation 85 insert the following—
 
 ## Annotations
 
-[^key-fc320a565a85e1de2e19bea685793180]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2006/2910/regulation/39) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-fc320a565a85e1de2e19bea685793180]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2006/2910/regulation/39) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)

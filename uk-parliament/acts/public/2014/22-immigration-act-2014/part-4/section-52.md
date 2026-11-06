@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Referral of proposed marriages and civil partnerships in England and Wales[^key-8c2bf8b3583d746240ca75e3fe57e681][^key-c70d2cbe726b2f5d87906cf927d0d4aa]
+## 52. Referral of proposed marriages and civil partnerships in England and Wales[^c-8c2bf8b3583d746240ca75e3fe57e681][^c-c70d2cbe726b2f5d87906cf927d0d4aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 4 (referral of proposed marriages and civil partnerships in England and
 
 ## Annotations
 
-[^key-8c2bf8b3583d746240ca75e3fe57e681]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2014/22/section/52) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/d)
+[^c-8c2bf8b3583d746240ca75e3fe57e681]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2014/22/section/52) in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/d)
 
-[^key-c70d2cbe726b2f5d87906cf927d0d4aa]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2014/22/section/52) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/e)
+[^c-c70d2cbe726b2f5d87906cf927d0d4aa]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2014/22/section/52) in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Average weekly earnings of self-employed earners[^key-de22eaa9dbf16370b5eb682798b99fe6]
+## 14. Average weekly earnings of self-employed earners[^c-de22eaa9dbf16370b5eb682798b99fe6]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de22eaa9dbf16370b5eb682798b99fe6]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1989/1321/regulation/14) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-de22eaa9dbf16370b5eb682798b99fe6]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1989/1321/regulation/14) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)

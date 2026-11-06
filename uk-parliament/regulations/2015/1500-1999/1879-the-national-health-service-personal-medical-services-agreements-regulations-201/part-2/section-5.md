@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) NHS England[^key-9520329cffeb7671913a444ac58ebf84] must not enter into an agreement with—
+(1) NHS England[^c-9520329cffeb7671913a444ac58ebf84] must not enter into an agreement with—
 
 - (a) a person falling within section 93(1)(b) to (d) of the Act (persons with whom agreements may be made under section 92), to whom paragraph (2) applies;
 - (b) a qualifying body if paragraph (2) applies to—
@@ -50,7 +50,7 @@ summary: ''
 - (j) the contractor has, within the period of five years before the signing of the agreement or commencement of the agreement (whichever is the earlier), been removed from the office of charity trustee or trustee for a charity by an order made by the Charity Commission, the Charity Commission for Northern Ireland or the High Court, and that order was made on the grounds of misconduct or mismanagement in the administration of a charity for which the contractor was responsible or to which the contractor was privy, or which was contributed to, or facilitated by, the contractor's conduct;
 - (k) the contractor has, within the period of five years before the signing of the agreement or commencement of the agreement (whichever is the earlier), been removed from being concerned with the management or control of any body in any case where removal was by virtue of section 34(5)(e) of the Charities and Trustees Investment (Scotland) Act 2005 [^c22689851] (powers of Court of Session);
 - (l) the contractor—
-  - (i) has been made[^key-4177a7930bab33a33dfdcc50a432b98e] bankrupt and has not been discharged from the bankruptcy or the bankruptcy order has not been annulled, or
+  - (i) has been made[^c-4177a7930bab33a33dfdcc50a432b98e] bankrupt and has not been discharged from the bankruptcy or the bankruptcy order has not been annulled, or
   - (ii) has had sequestration of the contractor's estate awarded and has not been discharged from the sequestration;
 - (m) the contractor is the subject of a bankruptcy restrictions order or an interim bankruptcy restrictions order under Schedule 4A to the Insolvency Act 1986 [^c22689861] (bankruptcy restrictions order and undertaking), or Schedule 2A to the Insolvency (Northern Ireland) Order 1989 [^c22689871] (bankruptcy restrictions order and undertaking), or sections 56A to 56K of the Bankruptcy (Scotland) Act 1985 [^c22689881] (bankruptcy restrictions order, interim bankruptcy restrictions order and bankruptcy restrictions undertaking), unless the contractor has been discharged from that order or that order has been annulled;
 - (n) the contractor—
@@ -84,7 +84,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c22689801]: Marginal citation: Section 151 was amended by paragraph 79 of Schedule 4 to the [Health and Social Care Act 2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7).
 
@@ -98,7 +98,7 @@ summary: ''
 
 [^c22689851]: Marginal citation: [2005 asp 10](https://www.legislation.gov.uk/asp/2005/10). Section 34 was amended by section 122 of the [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8).
 
-[^key-4177a7930bab33a33dfdcc50a432b98e]: Textual amendment: Word in [reg. 5(2)(l)(i)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/5/2/l/i) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
+[^c-4177a7930bab33a33dfdcc50a432b98e]: Textual amendment: Word in [reg. 5(2)(l)(i)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/5/2/l/i) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
 
 [^c22689861]: Marginal citation: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45). Schedule 4A was inserted by Schedule 20 to the [Enterprise Act 2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40) and was amended by section 71(3) of, and paragraph 63(1), (3), (2)(a) and (b) to, the [Enterprise and Regulatory Reform Act 2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24).
 

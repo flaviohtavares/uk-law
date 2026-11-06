@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Voyeurism: breast-feeding[^key-4a976e1f2f6731c2b613c584567ddfaa][^key-fd972e8e29f7d994b40dd13153d5d9a2]
+## 48. Voyeurism: breast-feeding[^c-4a976e1f2f6731c2b613c584567ddfaa][^c-fd972e8e29f7d994b40dd13153d5d9a2]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4a976e1f2f6731c2b613c584567ddfaa]: Commencement: S. 48 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-4a976e1f2f6731c2b613c584567ddfaa]: Commencement: S. 48 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-fd972e8e29f7d994b40dd13153d5d9a2]: Commencement: S. 48 in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(e)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/e)
+[^c-fd972e8e29f7d994b40dd13153d5d9a2]: Commencement: S. 48 in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(e)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/e)

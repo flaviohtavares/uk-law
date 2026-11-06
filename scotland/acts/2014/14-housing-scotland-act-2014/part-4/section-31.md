@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Offence of providing false information in an application[^key-99f5163ad10d1837c151bf7d245943e4]
+## 31. Offence of providing false information in an application[^c-99f5163ad10d1837c151bf7d245943e4]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99f5163ad10d1837c151bf7d245943e4]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2014/14/section/31) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-99f5163ad10d1837c151bf7d245943e4]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2014/14/section/31) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

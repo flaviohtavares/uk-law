@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75. Duty to maintain register of special procedure licences and approved premises and vehicles[^key-ae67acb6366301ce8a0a6bc3cd2981b3]
+## 75. Duty to maintain register of special procedure licences and approved premises and vehicles[^c-ae67acb6366301ce8a0a6bc3cd2981b3]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae67acb6366301ce8a0a6bc3cd2981b3]: Commencement: [S. 75](https://www.legislation.gov.uk/anaw/2017/2/section/75) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(r)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/r) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-ae67acb6366301ce8a0a6bc3cd2981b3]: Commencement: [S. 75](https://www.legislation.gov.uk/anaw/2017/2/section/75) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(r)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/r) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

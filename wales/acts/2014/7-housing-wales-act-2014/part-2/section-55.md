@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Meaning of homeless and threatened homelessness[^key-6d5113dd26f3d630fd12037e358da53b]
+## 55. Meaning of homeless and threatened homelessness[^c-6d5113dd26f3d630fd12037e358da53b]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d5113dd26f3d630fd12037e358da53b]: Commencement: [S. 55](https://www.legislation.gov.uk/anaw/2014/7/section/55) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 6](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/6)
+[^c-6d5113dd26f3d630fd12037e358da53b]: Commencement: [S. 55](https://www.legislation.gov.uk/anaw/2014/7/section/55) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 6](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 492. Holding coming within section 490: calculation to undo avoidance[^key-79d55b03ff672b896e70b1fc741445c1]
+## 492. Holding coming within section 490: calculation to undo avoidance[^c-79d55b03ff672b896e70b1fc741445c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79d55b03ff672b896e70b1fc741445c1]: Textual amendment: S. 492 substituted (with effect in accordance with s. 27(7)-(9) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 27(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/27/5)
+[^c-79d55b03ff672b896e70b1fc741445c1]: Textual amendment: S. 492 substituted (with effect in accordance with s. 27(7)-(9) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 27(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/27/5)

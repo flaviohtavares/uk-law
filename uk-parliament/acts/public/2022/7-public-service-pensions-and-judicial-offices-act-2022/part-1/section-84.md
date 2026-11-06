@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Interest and process[^key-30b956408daa602f132cc0c17fd7d00b][^key-abc32ef14f4418d44090e27099710385]
+## 84. Interest and process[^c-30b956408daa602f132cc0c17fd7d00b][^c-abc32ef14f4418d44090e27099710385]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-30b956408daa602f132cc0c17fd7d00b]: Commencement: S. 84 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-30b956408daa602f132cc0c17fd7d00b]: Commencement: S. 84 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-abc32ef14f4418d44090e27099710385]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2022/7/section/84) in force at 1.10.2023 in force in so far as not already in force (or on such earlier day as may be appointed), see [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/d)[(e)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/e)
+[^c-abc32ef14f4418d44090e27099710385]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2022/7/section/84) in force at 1.10.2023 in force in so far as not already in force (or on such earlier day as may be appointed), see [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/d)[(e)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/e)

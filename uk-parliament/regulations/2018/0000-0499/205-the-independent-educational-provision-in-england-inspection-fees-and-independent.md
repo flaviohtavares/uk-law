@@ -46,35 +46,35 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 94(1) and (2), 111(1), (2), (3)(a) and (c) and (4)(b), and 166(6) of the Education and Skills Act 2008 [^c22917531], makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-5ef22d694297b534c2362a7070be95d8]
+## 1. Citation, commencement and interpretation[^c-5ef22d694297b534c2362a7070be95d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees for inspections by the Chief Inspector[^key-5ef22d694297b534c2362a7070be95d8]
+## 2. Fees for inspections by the Chief Inspector[^c-5ef22d694297b534c2362a7070be95d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Composition of the overall inspection fee and time for payment[^key-5ef22d694297b534c2362a7070be95d8]
+## 3. Composition of the overall inspection fee and time for payment[^c-5ef22d694297b534c2362a7070be95d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Fee not to be refunded where inspection does not take place[^key-5ef22d694297b534c2362a7070be95d8]
+## 4. Fee not to be refunded where inspection does not take place[^c-5ef22d694297b534c2362a7070be95d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Fee for a pre-registration inspection[^key-5ef22d694297b534c2362a7070be95d8]
+## 5. Fee for a pre-registration inspection[^c-5ef22d694297b534c2362a7070be95d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Fees for progress monitoring inspections and time at which they must be paid[^key-5ef22d694297b534c2362a7070be95d8]
+## 6. Fees for progress monitoring inspections and time at which they must be paid[^c-5ef22d694297b534c2362a7070be95d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amount of fees in respect of an inspection to which regulation 6 applies[^key-5ef22d694297b534c2362a7070be95d8]
+## 7. Amount of fees in respect of an inspection to which regulation 6 applies[^c-5ef22d694297b534c2362a7070be95d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Notifications[^key-5ef22d694297b534c2362a7070be95d8]
+## 8. Notifications[^c-5ef22d694297b534c2362a7070be95d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -89,7 +89,7 @@ The Secretary of State, in exercise of the powers conferred by sections 94(1) an
 
 (3) In paragraph 8(b) of Part 3 of the Schedule, omit “or the National Minimum Standards for Accommodation of Students under Eighteen by Further Education Colleges”.
 
-## 10. Revocations and saving[^key-5ef22d694297b534c2362a7070be95d8]
+## 10. Revocations and saving[^c-5ef22d694297b534c2362a7070be95d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -121,4 +121,4 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^c22917531]: Marginal citation: [2008 c.25](https://www.legislation.gov.uk/ukpga/2008/25) (“**the 2008 Act**”); [section 111](https://www.legislation.gov.uk/uksi/2018/205/section/111) was amended by section 23 of the [Children, Schools and Families Act 2010 (c. 26)](https://www.legislation.gov.uk/ukpga/2010/26). See section 168(1) for the definition of “prescribed” and “regulations”.
 
-[^key-5ef22d694297b534c2362a7070be95d8]: Textual amendment: Regulations revoked (except reg. 9) (1.7.2019) by [The Independent Educational Provision in England (Inspection Fees and Savings Provisions) Regulations 2019 (S.I. 2019/995)](https://www.legislation.gov.uk/uksi/2019/995), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/995/regulation/1/1), [9(1)](https://www.legislation.gov.uk/uksi/2019/995/regulation/9/1) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2019/995/regulation/9/2)[(3)](https://www.legislation.gov.uk/uksi/2019/995/regulation/9/3))
+[^c-5ef22d694297b534c2362a7070be95d8]: Textual amendment: Regulations revoked (except reg. 9) (1.7.2019) by [The Independent Educational Provision in England (Inspection Fees and Savings Provisions) Regulations 2019 (S.I. 2019/995)](https://www.legislation.gov.uk/uksi/2019/995), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/995/regulation/1/1), [9(1)](https://www.legislation.gov.uk/uksi/2019/995/regulation/9/1) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2019/995/regulation/9/2)[(3)](https://www.legislation.gov.uk/uksi/2019/995/regulation/9/3))

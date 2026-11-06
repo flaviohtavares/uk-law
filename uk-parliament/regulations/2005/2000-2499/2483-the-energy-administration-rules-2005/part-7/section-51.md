@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Secured creditors[^key-d93265da7e2420b44c1287247fa52812]
+## 51. Secured creditors[^c-d93265da7e2420b44c1287247fa52812]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d93265da7e2420b44c1287247fa52812]: Commencement: Rule 51 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-d93265da7e2420b44c1287247fa52812]: Commencement: Rule 51 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27D. Microgeneration Certification Scheme[^key-600fd53aeb598c8a336793af959fe131]
+## 27D. Microgeneration Certification Scheme[^c-600fd53aeb598c8a336793af959fe131]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-600fd53aeb598c8a336793af959fe131]: Textual amendment: [Arts. 27-27D](https://www.legislation.gov.uk/nisr/2009/154/article/27) substituted for arts. 27-27B (1.4.2011) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/169)](https://www.legislation.gov.uk/nisr/2011/169), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2011/169/article/1/1), [10](https://www.legislation.gov.uk/nisr/2011/169/article/10) (with [art. 18](https://www.legislation.gov.uk/nisr/2011/169/article/18))
+[^c-600fd53aeb598c8a336793af959fe131]: Textual amendment: [Arts. 27-27D](https://www.legislation.gov.uk/nisr/2009/154/article/27) substituted for arts. 27-27B (1.4.2011) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/169)](https://www.legislation.gov.uk/nisr/2011/169), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2011/169/article/1/1), [10](https://www.legislation.gov.uk/nisr/2011/169/article/10) (with [art. 18](https://www.legislation.gov.uk/nisr/2011/169/article/18))

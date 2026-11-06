@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Declining to determine an application: further provision[^key-b231f01cf276dcb36c856a164e175ae4]
+## 38. Declining to determine an application: further provision[^c-b231f01cf276dcb36c856a164e175ae4]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b231f01cf276dcb36c856a164e175ae4]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2019/13/section/38) in force at 1.10.2022 by [S.S.I. 2022/275](https://www.legislation.gov.uk/ssi/2022/275), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2022/275/regulation/2/2/d) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/275/regulation/3))
+[^c-b231f01cf276dcb36c856a164e175ae4]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2019/13/section/38) in force at 1.10.2022 by [S.S.I. 2022/275](https://www.legislation.gov.uk/ssi/2022/275), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2022/275/regulation/2/2/d) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/275/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.2. Notices or statements in writing[^key-cd2354de4a448f01e38cd5d5acf22b0d]
+## 7.2. Notices or statements in writing[^c-cd2354de4a448f01e38cd5d5acf22b0d]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd2354de4a448f01e38cd5d5acf22b0d]: Commencement: Rule 7.2 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-cd2354de4a448f01e38cd5d5acf22b0d]: Commencement: Rule 7.2 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

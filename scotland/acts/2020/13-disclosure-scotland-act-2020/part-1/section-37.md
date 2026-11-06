@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Regulations about review procedure[^key-a13a0a046362d0d264c7ef656ca19315]
+## 37. Regulations about review procedure[^c-a13a0a046362d0d264c7ef656ca19315]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a13a0a046362d0d264c7ef656ca19315]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2020/13/section/37) in force at 30.9.2024 by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
+[^c-a13a0a046362d0d264c7ef656ca19315]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2020/13/section/37) in force at 30.9.2024 by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)

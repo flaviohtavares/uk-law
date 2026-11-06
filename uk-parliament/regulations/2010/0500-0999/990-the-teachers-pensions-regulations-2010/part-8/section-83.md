@@ -32,7 +32,7 @@ summary: ''
 
 (3) For the purpose of paragraph (2) an ill-health pension does not become payable before a person's death unless payment is initiated before the person's death.
 
-(3A)[^key-99aa2460922fe4fe8ecbae78070ccf78] Paragraph (3) does not apply if —
+(3A)[^c-99aa2460922fe4fe8ecbae78070ccf78] Paragraph (3) does not apply if —
 
 - (a) D made an application before D’s death under regulation 107 (payment of benefits on application to Secretary of State) for retirement benefits on the basis that Case C, and no other Case (apart from Case A), applied to D’s reckonable service;
 - (b) at the same time that D made the application mentioned in sub-paragraph (a), D made an application for commutation of the ill-health pension (and any total incapacity pension payable under regulation 65 (total incapacity benefits)) under regulation 118 (commutation: serious ill health); and
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99aa2460922fe4fe8ecbae78070ccf78]: Textual amendment: [Reg. 83(3A)](https://www.legislation.gov.uk/uksi/2010/990/regulation/83/3A) inserted (30.11.2017) by [The Teachers’ Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [5](https://www.legislation.gov.uk/uksi/2017/1084/regulation/5)
+[^c-99aa2460922fe4fe8ecbae78070ccf78]: Textual amendment: [Reg. 83(3A)](https://www.legislation.gov.uk/uksi/2010/990/regulation/83/3A) inserted (30.11.2017) by [The Teachers’ Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [5](https://www.legislation.gov.uk/uksi/2017/1084/regulation/5)

@@ -41,7 +41,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 The Secretary of State has consulted the Scottish Ministers in accordance with section 219(6) of that Act.
 
-## 1. Citation, extent and interpretation[^key-240b3371045c145832e013910c0afd0b]
+## 1. Citation, extent and interpretation[^c-240b3371045c145832e013910c0afd0b]
 
 (1) These Regulations may be cited as the Economic Crime and Corporate Transparency Act 2023 (Commencement No. 3) Regulations 2024.
 
@@ -49,13 +49,13 @@ The Secretary of State has consulted the Scottish Ministers in accordance with s
 
 (3) In these Regulations, “**the Act**” means the Economic Crime and Corporate Transparency Act 2023.
 
-## 2. Commencement on 7th November 2024[^key-356330f4b02b145e6a1b49a835213c70]
+## 2. Commencement on 7th November 2024[^c-356330f4b02b145e6a1b49a835213c70]
 
 *Extent: S*
 
 Section 180 of, and Schedule 9 to, the Act (cryptoassets: civil recovery) come into force on 7th November 2024, so far as not already in force.
 
-## 3. Commencement on 1st September 2025[^key-c72416836c7520ce1efe3bf63d28eb13]
+## 3. Commencement on 1st September 2025[^c-c72416836c7520ce1efe3bf63d28eb13]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -150,8 +150,8 @@ The following provisions of the Economic Crime and Corporate Transparency Act [2
 
 [^f00001]: Footnote: [2023 c. 56](https://www.legislation.gov.uk/ukpga/2023/56).
 
-[^key-240b3371045c145832e013910c0afd0b]: Commencement: Reg. 1 in force at made date
+[^c-240b3371045c145832e013910c0afd0b]: Commencement: Reg. 1 in force at made date
 
-[^key-356330f4b02b145e6a1b49a835213c70]: Commencement: Reg. 2 in force at made date
+[^c-356330f4b02b145e6a1b49a835213c70]: Commencement: Reg. 2 in force at made date
 
-[^key-c72416836c7520ce1efe3bf63d28eb13]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/1108/regulation/3) revoked (13.3.2025) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 4) Regulations 2025 (S.I. 2025/349)](https://www.legislation.gov.uk/uksi/2025/349), [reg. 4](https://www.legislation.gov.uk/uksi/2025/349/regulation/4)
+[^c-c72416836c7520ce1efe3bf63d28eb13]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/1108/regulation/3) revoked (13.3.2025) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 4) Regulations 2025 (S.I. 2025/349)](https://www.legislation.gov.uk/uksi/2025/349), [reg. 4](https://www.legislation.gov.uk/uksi/2025/349/regulation/4)

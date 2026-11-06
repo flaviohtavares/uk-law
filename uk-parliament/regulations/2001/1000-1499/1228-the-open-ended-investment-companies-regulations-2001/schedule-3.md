@@ -28,11 +28,11 @@ Regulation 49
 
 (2) Except to the extent that the aggregate numbers of shares mentioned in paragraphs 5(1)(b) and 7 include bearer shares, nothing in this Schedule requires any entry to be made in the register in respect of bearer shares.
 
-**2.** (1) [^key-b5e0300c644d58eb88ef810af38232ab]... The register of shareholders is prima facie evidence of any matters which are by these Regulations directed or authorised to be contained in it.
+**2.** (1) [^c-b5e0300c644d58eb88ef810af38232ab]... The register of shareholders is prima facie evidence of any matters which are by these Regulations directed or authorised to be contained in it.
 
-(2)[^key-28754b541b3f5045b88cec8fee2d786a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-28754b541b3f5045b88cec8fee2d786a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.** In the case of companies registered in England and Wales or Northern Ireland[^key-a2433d15faca40c53d47b08eb611ac7d], no notice of any trust, express, implied or constructive, is to be entered on the company’s register or be receivable by the company.
+**3.** In the case of companies registered in England and Wales or Northern Ireland[^c-a2433d15faca40c53d47b08eb611ac7d], no notice of any trust, express, implied or constructive, is to be entered on the company’s register or be receivable by the company.
 
 (2) A company must exercise all due diligence and take all reasonable steps to ensure that the information contained in the register is at all times complete and up to date.
 
@@ -41,8 +41,8 @@ Regulation 49
 **5.** (1) The register of shareholders must contain an entry consisting of—
 
 - (a) the name of the designated person;
-- (b) a statement of the aggregate number of all shares in the company held by that person; [^key-4aa03a8360938d4458bb1c68983b6073]...
-- (c)[^key-4aa03a8360938d4458bb1c68983b6073] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) a statement of the aggregate number of all shares in the company held by that person; [^c-4aa03a8360938d4458bb1c68983b6073]...
+- (c)[^c-4aa03a8360938d4458bb1c68983b6073] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In sub-paragraph (1), for the purposes of sub-paragraph (b), the designated person is to be taken as holding all shares in the company which are in issue and in respect of which no other person’s name is entered on the register.
 
@@ -56,8 +56,8 @@ Regulation 49
 
 - (a) the address of the shareholder;
 - (b) the date on which the shareholder’s name was entered on the register;
-- (c) a statement of the aggregate number of shares held by the shareholder, distinguishing each share by its number (if it has one) and, where the company has more than one class of shares, by its class; [^key-c9dcc788b3bbe77bb86ad45daee04df1]...
-- (d)[^key-c9dcc788b3bbe77bb86ad45daee04df1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) a statement of the aggregate number of shares held by the shareholder, distinguishing each share by its number (if it has one) and, where the company has more than one class of shares, by its class; [^c-c9dcc788b3bbe77bb86ad45daee04df1]...
+- (d)[^c-c9dcc788b3bbe77bb86ad45daee04df1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.** The register of shareholders must contain a monthly statement of the aggregate number of all the bearer shares in issue except for any bearer shares in issue which, at the time when the statement is made, are held by the designated person.
 
@@ -79,7 +79,7 @@ Regulation 49
 
 ### Location
 
-**9.**[^key-3bd18bbbca276ac0c22c2cdaf0467dd8] The register of shareholders of a company must be kept available for inspection—
+**9.**[^c-3bd18bbbca276ac0c22c2cdaf0467dd8] The register of shareholders of a company must be kept available for inspection—
 
 - (a) at its head office, or
 - (b) where an alternative inspection location has been notified to the Authority under regulation 36(3)(b), at that place.
@@ -96,7 +96,7 @@ Regulation 49
 
 ### Inspection
 
-**11.** (1) Subject to regulation 50 and to FCA[^key-22e07a67ed7afbb1a72aaed221fbf07f] rules, the register of shareholders and the index of names must be open to the inspection of any shareholder (including any holder of bearer shares) without charge.
+**11.** (1) Subject to regulation 50 and to FCA[^c-22e07a67ed7afbb1a72aaed221fbf07f] rules, the register of shareholders and the index of names must be open to the inspection of any shareholder (including any holder of bearer shares) without charge.
 
 (2) Any shareholder may require a copy of the entries on the register relating to him and the company must cause any copy so required by a person to be sent to him free of charge.
 
@@ -104,22 +104,22 @@ Regulation 49
 
 ### Agent’s default
 
-**12.**[^key-9f9d32ab880bc6c3c50599d326314ccd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-9f9d32ab880bc6c3c50599d326314ccd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b5e0300c644d58eb88ef810af38232ab]: Textual amendment: Words in Sch. 3 para. 2(1) omitted (26.11.2001) by virtue of [The Uncertificated Securities Regulations 2001 (S.I. 2001/3755)](https://www.legislation.gov.uk/uksi/2001/3755), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1), [Sch. 7 para. 24(c)](https://www.legislation.gov.uk/uksi/2001/3755/schedule/7/paragraph/24/c)
+[^c-b5e0300c644d58eb88ef810af38232ab]: Textual amendment: Words in Sch. 3 para. 2(1) omitted (26.11.2001) by virtue of [The Uncertificated Securities Regulations 2001 (S.I. 2001/3755)](https://www.legislation.gov.uk/uksi/2001/3755), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1), [Sch. 7 para. 24(c)](https://www.legislation.gov.uk/uksi/2001/3755/schedule/7/paragraph/24/c)
 
-[^key-28754b541b3f5045b88cec8fee2d786a]: Textual amendment: Sch. 3 para. 2(2) revoked (26.11.2001) by [The Uncertificated Securities Regulations 2001 (S.I. 2001/3755)](https://www.legislation.gov.uk/uksi/2001/3755), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1), [52(4)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/52/4)
+[^c-28754b541b3f5045b88cec8fee2d786a]: Textual amendment: Sch. 3 para. 2(2) revoked (26.11.2001) by [The Uncertificated Securities Regulations 2001 (S.I. 2001/3755)](https://www.legislation.gov.uk/uksi/2001/3755), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1), [52(4)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/52/4)
 
-[^key-a2433d15faca40c53d47b08eb611ac7d]: Textual amendment: Words in Sch. 3 para. 3(1) inserted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 31(a)](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/31/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
+[^c-a2433d15faca40c53d47b08eb611ac7d]: Textual amendment: Words in Sch. 3 para. 3(1) inserted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 31(a)](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/31/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
 
-[^key-4aa03a8360938d4458bb1c68983b6073]: Textual amendment: Sch. 3 para. 5(1)(c) and word revoked (26.11.2001) by [The Uncertificated Securities Regulations 2001 (S.I. 2001/3755)](https://www.legislation.gov.uk/uksi/2001/3755), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1), [52(4)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/52/4)
+[^c-4aa03a8360938d4458bb1c68983b6073]: Textual amendment: Sch. 3 para. 5(1)(c) and word revoked (26.11.2001) by [The Uncertificated Securities Regulations 2001 (S.I. 2001/3755)](https://www.legislation.gov.uk/uksi/2001/3755), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1), [52(4)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/52/4)
 
-[^key-c9dcc788b3bbe77bb86ad45daee04df1]: Textual amendment: Sch. 3 para. 6(3)(d) and word revoked (26.11.2001) by [The Uncertificated Securities Regulations 2001 (S.I. 2001/3755)](https://www.legislation.gov.uk/uksi/2001/3755), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1), [52(4)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/52/4)
+[^c-c9dcc788b3bbe77bb86ad45daee04df1]: Textual amendment: Sch. 3 para. 6(3)(d) and word revoked (26.11.2001) by [The Uncertificated Securities Regulations 2001 (S.I. 2001/3755)](https://www.legislation.gov.uk/uksi/2001/3755), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1), [52(4)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/52/4)
 
-[^key-3bd18bbbca276ac0c22c2cdaf0467dd8]: Textual amendment: Sch. 3 para. 9 substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 31(b)](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/31/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
+[^c-3bd18bbbca276ac0c22c2cdaf0467dd8]: Textual amendment: Sch. 3 para. 9 substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 31(b)](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/31/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
 
-[^key-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)
+[^c-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)
 
-[^key-9f9d32ab880bc6c3c50599d326314ccd]: Textual amendment: Sch. 3 para. 12 omitted (12.5.2011) by virtue of [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 31(c)](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/31/c) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
+[^c-9f9d32ab880bc6c3c50599d326314ccd]: Textual amendment: Sch. 3 para. 12 omitted (12.5.2011) by virtue of [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 31(c)](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/31/c) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))

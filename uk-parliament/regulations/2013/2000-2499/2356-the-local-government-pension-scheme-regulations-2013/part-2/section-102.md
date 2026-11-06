@@ -29,14 +29,14 @@ summary: ''
 
 (3) In this regulation—
 
-- (a) “**EU institution**” means a body treated as one of the EU's institutions for the purposes of the European Union's scheme; [^key-bbfbe7a0090c96040f5a9070c6b12bb0]...
-- (b) “**the European Union's scheme**” means the pension scheme provided for officials and other servants of the European Union in accordance with regulations adopted by the Council of the European Union; and[^key-9b948246ca3662ba09bd4c567d37c590]
-- (c)[^key-6b8a071d1d04966f9c0aab270d69d3ac] “local government service” includes employment in respect of which a person satisfies the conditions in regulation 3(1)(b).
+- (a) “**EU institution**” means a body treated as one of the EU's institutions for the purposes of the European Union's scheme; [^c-bbfbe7a0090c96040f5a9070c6b12bb0]...
+- (b) “**the European Union's scheme**” means the pension scheme provided for officials and other servants of the European Union in accordance with regulations adopted by the Council of the European Union; and[^c-9b948246ca3662ba09bd4c567d37c590]
+- (c)[^c-6b8a071d1d04966f9c0aab270d69d3ac] “local government service” includes employment in respect of which a person satisfies the conditions in regulation 3(1)(b).
 
 ## Annotations
 
-[^key-bbfbe7a0090c96040f5a9070c6b12bb0]: Textual amendment: Word in [reg. 102(3)(a)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/102/3/a) omitted (14.5.2018) by virtue of [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [18(a)](https://www.legislation.gov.uk/uksi/2018/493/regulation/18/a)
+[^c-bbfbe7a0090c96040f5a9070c6b12bb0]: Textual amendment: Word in [reg. 102(3)(a)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/102/3/a) omitted (14.5.2018) by virtue of [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [18(a)](https://www.legislation.gov.uk/uksi/2018/493/regulation/18/a)
 
-[^key-9b948246ca3662ba09bd4c567d37c590]: Textual amendment: Word in [reg. 102(3)(b)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/102/3/b) inserted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [18(b)](https://www.legislation.gov.uk/uksi/2018/493/regulation/18/b)
+[^c-9b948246ca3662ba09bd4c567d37c590]: Textual amendment: Word in [reg. 102(3)(b)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/102/3/b) inserted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [18(b)](https://www.legislation.gov.uk/uksi/2018/493/regulation/18/b)
 
-[^key-6b8a071d1d04966f9c0aab270d69d3ac]: Textual amendment: [Reg. 102(3)(c)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/102/3/c) inserted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [18(c)](https://www.legislation.gov.uk/uksi/2018/493/regulation/18/c)
+[^c-6b8a071d1d04966f9c0aab270d69d3ac]: Textual amendment: [Reg. 102(3)(c)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/102/3/c) inserted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [18(c)](https://www.legislation.gov.uk/uksi/2018/493/regulation/18/c)

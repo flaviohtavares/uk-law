@@ -22,9 +22,9 @@ summary: ''
 
 The scheme manager may make a decision under this Chapter on such evidence and medical advice as the scheme manager thinks necessary if—
 
-- (a)[^key-7a210f786de8914134c58a3bb1fa6755] the question in regulation 104 (Referral of medical question for purpose of reduction of benefits) is referred to a selected medical practitioner for decision; and
+- (a)[^c-7a210f786de8914134c58a3bb1fa6755] the question in regulation 104 (Referral of medical question for purpose of reduction of benefits) is referred to a selected medical practitioner for decision; and
 - (b) the member wilfully or negligently fails to submit to any medical examination or to attend any interviews that the selected medical practitioner considers necessary in order to make a decision.
 
 ## Annotations
 
-[^key-7a210f786de8914134c58a3bb1fa6755]: Textual amendment: [Reg. 106(a)](https://www.legislation.gov.uk/nisr/2015/113/regulation/106/a) substituted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [27](https://www.legislation.gov.uk/nisr/2024/38/regulation/27)
+[^c-7a210f786de8914134c58a3bb1fa6755]: Textual amendment: [Reg. 106(a)](https://www.legislation.gov.uk/nisr/2015/113/regulation/106/a) substituted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [27](https://www.legislation.gov.uk/nisr/2024/38/regulation/27)

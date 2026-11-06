@@ -33,10 +33,10 @@ summary: ''
 - (a) to amend the rule in such manner as he and the Lord President consider appropriate; and
 - (b) to bring the rule, as so amended, into force as soon as is practicable.
 
-(6) The provisions of sections 64A and 64B apply to rules submitted to the Secretary of State under this section as they apply to rules submitted to him under section 25A(9) or (10)[^key-81a9b9bcefc8b986cec220c884c458b3] .
+(6) The provisions of sections 64A and 64B apply to rules submitted to the Secretary of State under this section as they apply to rules submitted to him under section 25A(9) or (10)[^c-81a9b9bcefc8b986cec220c884c458b3] .
 
 ## Annotations
 
 [^c8124321]: Textual amendment: [Ss. 64A–64D](https://www.legislation.gov.uk/ukpga/1980/46/section/64A) inserted (3.6.1991) by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40, SIF 76:2)](https://www.legislation.gov.uk/ukpga/1990/40), [s. 43](https://www.legislation.gov.uk/ukpga/1990/40/section/43); [S.I. 1991/1252](https://www.legislation.gov.uk/uksi/1991/1252), [art. 3](https://www.legislation.gov.uk/uksi/1991/1252/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1991/1252/schedule/1)
 
-[^key-81a9b9bcefc8b986cec220c884c458b3]: Textual amendment: Words in [s. 64D(6)](https://www.legislation.gov.uk/ukpga/1980/46/section/64D/6) substituted (2.7.2012) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 124(2)(d)](https://www.legislation.gov.uk/asp/2010/16/section/124/2/d), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-81a9b9bcefc8b986cec220c884c458b3]: Textual amendment: Words in [s. 64D(6)](https://www.legislation.gov.uk/ukpga/1980/46/section/64D/6) substituted (2.7.2012) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 124(2)(d)](https://www.legislation.gov.uk/asp/2010/16/section/124/2/d), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

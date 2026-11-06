@@ -82,8 +82,8 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (4) For the purposes of this section “the relevant public authorities” are—
 
-- (a)[^key-372ad66c00baa88c0746bb4f2f7f7757] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-372ad66c00baa88c0746bb4f2f7f7757] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-372ad66c00baa88c0746bb4f2f7f7757] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-372ad66c00baa88c0746bb4f2f7f7757] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the Department of Enterprise, Trade and Investment;
 - (d) the Department for Regional Development;
 - (e) the Agri-food and Biosciences Institute;
@@ -130,8 +130,8 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 (11) For the purposes of this Part “the relevant Northern Ireland departments” are—
 
 - (a) the Department;
-- (b)[^key-bd0b59d2ea304af1d523461ce677c902] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-bd0b59d2ea304af1d523461ce677c902] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-bd0b59d2ea304af1d523461ce677c902] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-bd0b59d2ea304af1d523461ce677c902] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) the Department of Enterprise, Trade and Investment; and
 - (e) the Department for Regional Development.
 
@@ -332,7 +332,7 @@ and an interim order has effect until the proceedings are finally determined.
 
 (2) Any reference in this Part to a marine policy statement governing marine planning for an area is to be construed in accordance with section 4(10).
 
-## Part 3 — Marine protection[^key-73999ee2439d8db4d2c5a8858c5eba5f]
+## Part 3 — Marine protection[^c-73999ee2439d8db4d2c5a8858c5eba5f]
 
 ### Designation of MCZs
 
@@ -504,7 +504,7 @@ form a network which satisfies the conditions in subsection (3).
   - (ii) the amendments known as the Regina Amendments adopted at the Extraordinary Conference of the Contracting Parties held at Regina, Saskatchewan, Canada, between 28th May and 3rd June 1987; and
   - (iii) any further amendments coming into force from time to time.
 
-(5) When complying with the duty imposed by subsection (1), the Department must have regard to any assimilated[^key-1b1ec7e77e2d8babdf280e65b0dd82a1][^key-e25cfe3513aee25dec560680da130850] obligations or obligations under international law that relate to the conservation or improvement of the marine environment.
+(5) When complying with the duty imposed by subsection (1), the Department must have regard to any assimilated[^c-1b1ec7e77e2d8babdf280e65b0dd82a1][^c-e25cfe3513aee25dec560680da130850] obligations or obligations under international law that relate to the conservation or improvement of the marine environment.
 
 (6) In subsection (3)(a) the reference to “**the conservation or improvement of the marine environment**” includes the preservation, maintenance and re-establishment of a sufficient diversity and area of habitat for wild birds in Northern Ireland in implementation of Article 3 of the Wild Birds Directive (including by means of the upkeep, management and creation of such habitat, as appropriate), having regard to the requirements of Article 2 of that Directive.
 
@@ -526,7 +526,7 @@ form a network which satisfies the conditions in subsection (3).
 - “**UK marine area**” has the meaning given by section 42 of the 2009 Act;
 - “**the Wild Birds Directive**” means Directive [2009/147/EC](https://www.legislation.gov.uk/eudr/2009/147) of the European Parliament and of the Council on the conservation of wild birds.
 
-(11)[^key-58443ba1256584bdbec8b309d33f6887] For the purposes of this section, the Wild Birds Directive is to be read with the following modifications—
+(11)[^c-58443ba1256584bdbec8b309d33f6887] For the purposes of this section, the Wild Birds Directive is to be read with the following modifications—
 
 - (a) references to “the European territory of the Member States to which the Treaty applies” include the United Kingdom;
 - (b) references to a Member State (or Member States) include the United Kingdom.
@@ -604,7 +604,7 @@ form a network which satisfies the conditions in subsection (3).
 
 (11) In carrying out its duties under this section a public authority must have regard to any advice or guidance given by the Department under section 24.
 
-#### 23. Duties of public authorities in relation to certain decisions[^key-715a11afb3198b232bed73218a639dfc]
+#### 23. Duties of public authorities in relation to certain decisions[^c-715a11afb3198b232bed73218a639dfc]
 
 (1) This section applies where—
 
@@ -1002,8 +1002,8 @@ Schedule 2 (which makes further provision about fixed monetary penalties) has ef
 
 - “**flag state**”, in relation to a vessel, means the State whose flag the vessel is flying or is entitled to fly;
 - “**third country vessel**” means a vessel which—
-  - (a) is flying a flag of, or is registered in, any State or territory other than the United Kingdom[^key-9fc832a8af860c9e11c79962f35482ae]; and
-  - (b) is not registered in the United Kingdom[^key-120042ab1403a2cc06c4ffc329829c33].
+  - (a) is flying a flag of, or is registered in, any State or territory other than the United Kingdom[^c-9fc832a8af860c9e11c79962f35482ae]; and
+  - (b) is not registered in the United Kingdom[^c-120042ab1403a2cc06c4ffc329829c33].
 
 (8) Sections 289 to 292 of the 2009 Act (which provide for the identification, liability and protection of enforcement officers under that Act) apply to a person appointed under this section as they apply to such enforcement officers, but with the substitution—
 
@@ -1583,35 +1583,35 @@ Section 37.
 
 (5) Nothing in this paragraph authorises the making of a disclosure in contravention of—
 
-- (a) the data protection legislation[^key-7a497136591b596318ae5ee61cad0dec] , or
-- (b)[^key-f8a93ed96a445f8eaef0d2c222e4899e] any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
+- (a) the data protection legislation[^c-7a497136591b596318ae5ee61cad0dec] , or
+- (b)[^c-f8a93ed96a445f8eaef0d2c222e4899e] any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
 
 (6) This paragraph does not affect a power to disclose which exists apart from this paragraph.
 
-(7)[^key-1c000319b34638801e579cc24bb64496] In this paragraph, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
+(7)[^c-1c000319b34638801e579cc24bb64496] In this paragraph, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
 
 ## Annotations
 
-[^key-372ad66c00baa88c0746bb4f2f7f7757]: Textual amendment: [S. 3(4)(a)](https://www.legislation.gov.uk/nia/2013/10/section/3/4/a)[(b)](https://www.legislation.gov.uk/nia/2013/10/section/3/4/b) omitted (8.5.2016) by virtue of [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 89](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/89) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-372ad66c00baa88c0746bb4f2f7f7757]: Textual amendment: [S. 3(4)(a)](https://www.legislation.gov.uk/nia/2013/10/section/3/4/a)[(b)](https://www.legislation.gov.uk/nia/2013/10/section/3/4/b) omitted (8.5.2016) by virtue of [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 89](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/89) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-bd0b59d2ea304af1d523461ce677c902]: Textual amendment: [S. 4(11)(b)](https://www.legislation.gov.uk/nia/2013/10/section/4/11/b)[(c)](https://www.legislation.gov.uk/nia/2013/10/section/4/11/c) omitted (8.5.2016) by virtue of [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 90](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/90) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-bd0b59d2ea304af1d523461ce677c902]: Textual amendment: [S. 4(11)(b)](https://www.legislation.gov.uk/nia/2013/10/section/4/11/b)[(c)](https://www.legislation.gov.uk/nia/2013/10/section/4/11/c) omitted (8.5.2016) by virtue of [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 90](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/90) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-73999ee2439d8db4d2c5a8858c5eba5f]: Modification: Pt. 3 applied (with modifications) by S.R. 1995/380, reg. 31(1)(2) (as substituted (18.9.2013) by [Marine Act (Northern Ireland) 2013 (c. 10)](https://www.legislation.gov.uk/nia/2013/10), [ss. 40(5)](https://www.legislation.gov.uk/nia/2013/10/section/40/5), [49](https://www.legislation.gov.uk/nia/2013/10/section/49) (with [ss. 1(1)](https://www.legislation.gov.uk/nia/2013/10/section/1/1), [46(3)](https://www.legislation.gov.uk/nia/2013/10/section/46/3), [47](https://www.legislation.gov.uk/nia/2013/10/section/47)))
+[^c-73999ee2439d8db4d2c5a8858c5eba5f]: Modification: Pt. 3 applied (with modifications) by S.R. 1995/380, reg. 31(1)(2) (as substituted (18.9.2013) by [Marine Act (Northern Ireland) 2013 (c. 10)](https://www.legislation.gov.uk/nia/2013/10), [ss. 40(5)](https://www.legislation.gov.uk/nia/2013/10/section/40/5), [49](https://www.legislation.gov.uk/nia/2013/10/section/49) (with [ss. 1(1)](https://www.legislation.gov.uk/nia/2013/10/section/1/1), [46(3)](https://www.legislation.gov.uk/nia/2013/10/section/46/3), [47](https://www.legislation.gov.uk/nia/2013/10/section/47)))
 
-[^key-1b1ec7e77e2d8babdf280e65b0dd82a1]: Textual amendment: Word in [s. 20(5)](https://www.legislation.gov.uk/nia/2013/10/section/20/5) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 81](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/81)
+[^c-1b1ec7e77e2d8babdf280e65b0dd82a1]: Textual amendment: Word in [s. 20(5)](https://www.legislation.gov.uk/nia/2013/10/section/20/5) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 81](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/81)
 
-[^key-e25cfe3513aee25dec560680da130850]: Textual amendment: Words in [s. 20(5)](https://www.legislation.gov.uk/nia/2013/10/section/20/5) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/112/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e25cfe3513aee25dec560680da130850]: Textual amendment: Words in [s. 20(5)](https://www.legislation.gov.uk/nia/2013/10/section/20/5) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/112/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-58443ba1256584bdbec8b309d33f6887]: Textual amendment: [S. 20(11)](https://www.legislation.gov.uk/nia/2013/10/section/20/11) inserted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/112/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-58443ba1256584bdbec8b309d33f6887]: Textual amendment: [S. 20(11)](https://www.legislation.gov.uk/nia/2013/10/section/20/11) inserted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/112/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-715a11afb3198b232bed73218a639dfc]: Modification: [S. 23](https://www.legislation.gov.uk/nia/2013/10/section/23) power to disapply or modify conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 293(4)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/4)[(5)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/5), [334(3)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/j) (with [s. 293(6)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/6))
+[^c-715a11afb3198b232bed73218a639dfc]: Modification: [S. 23](https://www.legislation.gov.uk/nia/2013/10/section/23) power to disapply or modify conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 293(4)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/4)[(5)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/5), [334(3)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/j) (with [s. 293(6)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/6))
 
-[^key-9fc832a8af860c9e11c79962f35482ae]: Textual amendment: Words in s. 38(7) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/112/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9fc832a8af860c9e11c79962f35482ae]: Textual amendment: Words in s. 38(7) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/112/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-120042ab1403a2cc06c4ffc329829c33]: Textual amendment: Words in s. 38(7) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/112/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-120042ab1403a2cc06c4ffc329829c33]: Textual amendment: Words in s. 38(7) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/112/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7a497136591b596318ae5ee61cad0dec]: Textual amendment: Words in Sch. 2 para. 8(5)(a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 183(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/183/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-7a497136591b596318ae5ee61cad0dec]: Textual amendment: Words in Sch. 2 para. 8(5)(a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 183(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/183/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-f8a93ed96a445f8eaef0d2c222e4899e]: Textual amendment: [Sch. 2 para. 8(5)(b)](https://www.legislation.gov.uk/nia/2013/10/schedule/2/paragraph/8/5/b) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 30](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/30) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)
+[^c-f8a93ed96a445f8eaef0d2c222e4899e]: Textual amendment: [Sch. 2 para. 8(5)(b)](https://www.legislation.gov.uk/nia/2013/10/schedule/2/paragraph/8/5/b) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 30](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/30) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)
 
-[^key-1c000319b34638801e579cc24bb64496]: Textual amendment: Sch. 2 para. 8(7) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 183(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/183/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-1c000319b34638801e579cc24bb64496]: Textual amendment: Sch. 2 para. 8(7) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 183(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/183/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

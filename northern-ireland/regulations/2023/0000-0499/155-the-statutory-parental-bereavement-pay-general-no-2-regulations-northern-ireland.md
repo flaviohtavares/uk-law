@@ -48,15 +48,15 @@ The Department for the Economy makes the following Regulations in exercise of th
 
 ## PART 1 — GENERAL
 
-### 1. Citation and Commencement[^key-5a6893ffc355fe324a2567a8964ccbbf]
+### 1. Citation and Commencement[^c-5a6893ffc355fe324a2567a8964ccbbf]
 
 These Regulations may be cited as the Statutory Parental Bereavement Pay (General) (No. 2) Regulations (Northern Ireland) 2023 and shall come into operation on 29th September 2023.
 
-### 2. Application[^key-9aa9d53bf6f62faa21de31c89b46429c]
+### 2. Application[^c-9aa9d53bf6f62faa21de31c89b46429c]
 
-These Regulations apply in respect of children who die on or after 6th April 2022 and to cases where a woman experiences a miscarriage and becomes aware of it on or after 6th April 2026[^key-6ea8a18cc9d3f81fb5803221e09fa4d0] .
+These Regulations apply in respect of children who die on or after 6th April 2022 and to cases where a woman experiences a miscarriage and becomes aware of it on or after 6th April 2026[^c-6ea8a18cc9d3f81fb5803221e09fa4d0] .
 
-### 3. Interpretation[^key-ce786365e2a92c0e7f4a7e5ed0e3e41f]
+### 3. Interpretation[^c-ce786365e2a92c0e7f4a7e5ed0e3e41f]
 
 (1) In these Regulations—
 
@@ -67,11 +67,11 @@ These Regulations apply in respect of children who die on or after 6th April 202
 - “**authority**” has the same meaning as in the Children (Northern Ireland) Order 1995[^f00009];
 - “**C**” means the child in relation to whom an entitlement to statutory parental bereavement pay arises;
 - “**the Commissioners**” means the Commissioners for His Majesty’s Revenue and Customs;
-- “[^key-8d49ba1a36d6aee08bac6a091ab6a57c]**the first day of bereavement**” means—
+- “[^c-8d49ba1a36d6aee08bac6a091ab6a57c]**the first day of bereavement**” means—
   - (a) the date of C’s death, or
   - (b) the date that S experienced the miscarriage or became aware that she had experienced a miscarriage.
 - “**intended parent**” means a person who—
-  - (aa) but for the occurrence of a miscarriage, would have intended to meet the requirements of sub-paragraphs (a) and (b);[^key-0cb2cb0691cb8ada54cfb1d0f1437c70]
+  - (aa) but for the occurrence of a miscarriage, would have intended to meet the requirements of sub-paragraphs (a) and (b);[^c-0cb2cb0691cb8ada54cfb1d0f1437c70]
   - (a) has applied, or intended to apply during the period of 6 months beginning with the day of C’s birth—
     - (i) with another person for an order under section 54 (parental orders: two applicants) of the Human Fertilisation and Embryology Act 2008[^f00010] in respect of C; or
     - (ii) as the sole applicant for an order under section 54A (parental orders: one applicant) of that Act[^f00011] in respect of C; and
@@ -91,10 +91,10 @@ These Regulations apply in respect of children who die on or after 6th April 202
 - “**relevant domestic authority**” means—
   - (a) in the case of an adopter to whom the Intercountry Adoption (Hague Convention) Regulations (Northern Ireland) 2003 apply, the Department of Health[^f00020]; and
   - (b) in any other case, the Central Authority designated in accordance with Article 6 of the Convention on Protection of Children and Co-operation in respect of Intercountry Adoption, concluded at the Hague on 29th May 1993;
-- “[^key-b30ea1a72292c674f702494bde40948a]**S**” means a woman who has experienced a miscarriage;
+- “[^c-b30ea1a72292c674f702494bde40948a]**S**” means a woman who has experienced a miscarriage;
 - “**statutory parental bereavement pay**” means statutory parental bereavement pay payable in accordance with Part 12ZD of the 1992 Act;
 - “week”, except in Part 3, means a period of seven days[^f00021];
-- “[^key-ff1d454d7897c2741a4d6a3cca5bbe40]**week of the bereavement**” means the week, beginning with a Sunday, in which either C died or the woman experienced the miscarriage or became aware of the miscarriage.
+- “[^c-ff1d454d7897c2741a4d6a3cca5bbe40]**week of the bereavement**” means the week, beginning with a Sunday, in which either C died or the woman experienced the miscarriage or became aware of the miscarriage.
 
 (2) In these Regulations—
 
@@ -105,7 +105,7 @@ These Regulations apply in respect of children who die on or after 6th April 202
 
 ## PART 2 — ENTITLEMENT
 
-### 4. Conditions of entitlement to statutory parental bereavement pay[^key-4d1a3639f6807ca45887672edb0c9660]
+### 4. Conditions of entitlement to statutory parental bereavement pay[^c-4d1a3639f6807ca45887672edb0c9660]
 
 (1) The conditions prescribed under section 167ZZ9(3) of the 1992 Act (conditions as to relationship with a child who has died) are that, at the date of C’s death, the person is—
 
@@ -161,7 +161,7 @@ These Regulations apply in respect of children who die on or after 6th April 202
 
   but do not include any other adoptive relationships.
 
-### 4A. Application of entitlement to statutory parental bereavement pay for cases of miscarriage[^key-584d4d2af050ec97358b9cfab72e4376]
+### 4A. Application of entitlement to statutory parental bereavement pay for cases of miscarriage[^c-584d4d2af050ec97358b9cfab72e4376]
 
 (1) Part 12ZD of the 1992 Act (Statutory Parental Bereavement Pay) and regulations under it, including these regulations, apply to a woman who has experienced a miscarriage as they apply in relation to a bereaved parent as set out in section 167ZZ9 (entitlement) with such modifications as are specified in these regulations.
 
@@ -185,22 +185,22 @@ These Regulations apply in respect of children who die on or after 6th April 202
 
   but do not include any other adoptive relationships.
 
-### 5. Number of weeks of pay[^key-18ef25fc1ccf15baf909cfd92abdefcd]
+### 5. Number of weeks of pay[^c-18ef25fc1ccf15baf909cfd92abdefcd]
 
 The number of weeks in respect of which a person is entitled to payments of statutory parental bereavement pay is two weeks.
 
-### 6. Options in respect of payment of statutory parental bereavement pay[^key-30024d714b02517aa7c1b89ed18a2159]
+### 6. Options in respect of payment of statutory parental bereavement pay[^c-30024d714b02517aa7c1b89ed18a2159]
 
 A person may choose for statutory parental bereavement pay to be paid in respect of—
 
 - (a) a single period of either one week or two weeks; or
 - (b) discontinuous periods of a week each.
 
-### 7. Qualifying period[^key-4b42dffa5fd24058b6e8655b1a37b22b]
+### 7. Qualifying period[^c-4b42dffa5fd24058b6e8655b1a37b22b]
 
-The qualifying period for the purposes of section 167ZZ12(5) of the 1992 Act (period within which statutory parental bereavement pay is payable) is a period of 56 weeks beginning with the first day of bereavement[^key-e1f6e7329abba5253997f90f826fcc9d] .
+The qualifying period for the purposes of section 167ZZ12(5) of the 1992 Act (period within which statutory parental bereavement pay is payable) is a period of 56 weeks beginning with the first day of bereavement[^c-e1f6e7329abba5253997f90f826fcc9d] .
 
-### 8. Notice and evidence requirements for statutory parental bereavement pay[^key-1de037395a8f4c722f69304d7b46df59]
+### 8. Notice and evidence requirements for statutory parental bereavement pay[^c-1de037395a8f4c722f69304d7b46df59]
 
 (1) The notice provided for in section 167ZZ10(1) of the 1992 Act (notice to be given stating the week or weeks in respect of which payments are to be made) must be given to whoever will be liable to pay statutory parental bereavement pay—
 
@@ -209,18 +209,18 @@ The qualifying period for the purposes of section 167ZZ12(5) of the 1992 Act (pe
 
 (2) A person must provide evidence of entitlement to statutory parental bereavement pay by providing in writing to whoever will be liable to pay statutory parental bereavement pay—
 
-- (a) the information specified in paragraph (3); and either,[^key-7250a111e57717909dec7b275a0f4ae5]
-- (b) a declaration that the person meets one of the conditions prescribed in regulation 4(1) , or[^key-56ad543a3972fcea62b19d5d6f785221]
-- (c)[^key-726ab9a1ec9e01b3158a2ce9009c1b50] a declaration that the person meets one of the conditions prescribed in regulation 4A(2) or (3).
+- (a) the information specified in paragraph (3); and either,[^c-7250a111e57717909dec7b275a0f4ae5]
+- (b) a declaration that the person meets one of the conditions prescribed in regulation 4(1) , or[^c-56ad543a3972fcea62b19d5d6f785221]
+- (c)[^c-726ab9a1ec9e01b3158a2ce9009c1b50] a declaration that the person meets one of the conditions prescribed in regulation 4A(2) or (3).
 
 (3) The information referred to in paragraph (2)(a) is as follows—
 
 - (a) the name of the person claiming the statutory parental bereavement pay; and
-- (b) the first day of bereavement[^key-e78bd64a0c6310f6fe4028f899015895] .
+- (b) the first day of bereavement[^c-e78bd64a0c6310f6fe4028f899015895] .
 
 (4) The information referred to in paragraph (3) must be provided at the same time as a notice is given under paragraph (1).
 
-(5)[^key-e8ea4dee4746f6e39b2667c80ad7cb37] The relevant declaration referred to in either, paragraph 2(b) or 2(c), must be provided at the same time as a notice is first given under paragraph (1) in respect of the first day of bereavement.
+(5)[^c-e8ea4dee4746f6e39b2667c80ad7cb37] The relevant declaration referred to in either, paragraph 2(b) or 2(c), must be provided at the same time as a notice is first given under paragraph (1) in respect of the first day of bereavement.
 
 (6) Where notice under paragraph (1) is given prior to the start of the week or weeks specified in that notice, the person may withdraw that notice by giving notice of withdrawal in writing to the person who will be liable to pay statutory parental bereavement pay in the manner specified in paragraphs (7) and (8).
 
@@ -233,10 +233,10 @@ The qualifying period for the purposes of section 167ZZ12(5) of the 1992 Act (pe
 
 (9) In this regulation—
 
-- “**Period A**” means the period of 56 days beginning with the first day of bereavement[^key-a45ef478f40e1716ff9c9fc6bc39c571] ;
+- “**Period A**” means the period of 56 days beginning with the first day of bereavement[^c-a45ef478f40e1716ff9c9fc6bc39c571] ;
 - “**Period B**” means the period beginning the day after the end of Period A and ending with the end of the period specified in regulation 7.
 
-### 9. Cases where there is no liability to pay statutory parental bereavement pay[^key-314d04add9f69047b8075f7a0c62f16f]
+### 9. Cases where there is no liability to pay statutory parental bereavement pay[^c-314d04add9f69047b8075f7a0c62f16f]
 
 (1) There is no liability to pay statutory parental bereavement pay to a person in respect of any week—
 
@@ -250,12 +250,12 @@ The qualifying period for the purposes of section 167ZZ12(5) of the 1992 Act (pe
 - (b) is subsequently found not guilty of any offence and is released; or
 - (c) is convicted of an offence but does not receive a custodial sentence.
 
-### 10. Work during period of payment of statutory parental bereavement pay[^key-8d4a4f0641c37268a6b2f0a8c7706f21]
+### 10. Work during period of payment of statutory parental bereavement pay[^c-8d4a4f0641c37268a6b2f0a8c7706f21]
 
 (1) Despite section 167ZZ12(8) of the 1992 Act (statutory parental bereavement pay not payable to a person in respect of a week during any part of which the person works for any employer who is not liable to pay the person statutory parental bereavement pay), statutory parental bereavement pay is payable to a person in respect of a statutory pay week[^f00030] during any part of which the person works only for an employer—
 
 - (a) who is not liable to pay the person statutory parental bereavement pay; and
-- (b) for whom the person has worked in the week immediately preceding the week of the bereavement[^key-83ba76f353684bb5cc535804ad3c2a37] .
+- (b) for whom the person has worked in the week immediately preceding the week of the bereavement[^c-83ba76f353684bb5cc535804ad3c2a37] .
 
 (2) Where a person works for an employer falling within paragraph (1)(a) but not paragraph (1)(b) for any part of a period which is specified by that person in a notice under regulation 8(1), the person must notify the employer liable to pay statutory parental bereavement pay of the fact of that work within seven days of the first day during which the person does such work.
 
@@ -263,7 +263,7 @@ The qualifying period for the purposes of section 167ZZ12(5) of the 1992 Act (pe
 
 ## PART 3 — CONDITIONS OF ENTITLEMENT RELATING TO EMPLOYMENT AND EARNINGS
 
-### 11. Treatment of persons as employees[^key-f50f6fc3b6fb8b7efaa0956fea54f408]
+### 11. Treatment of persons as employees[^c-f50f6fc3b6fb8b7efaa0956fea54f408]
 
 (1) A person is treated as an employee for the purposes of Part 12ZD of the 1992 Act (even though not falling within the definition of ‘employee’ in section 167ZZ17(2) of that Act) where, and in so far as, that person is treated as an employed earner by virtue of the Social Security (Categorisation of Earners) Regulations (Northern Ireland) 1978[^f00031] (but see paragraph (3)).
 
@@ -285,25 +285,25 @@ as they have effect in relation to a person who is, or as the case may be, is no
   - (i) is exempt from the provisions of the 1992 Act; or
   - (ii) is a person against whom the provisions of the 1992 Act are not enforceable.
 
-### 12. Continuous employment[^key-5dec816f06fb2b9d07ef617f24b1ff42]
+### 12. Continuous employment[^c-5dec816f06fb2b9d07ef617f24b1ff42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Continuous employment and unfair dismissal[^key-5dec816f06fb2b9d07ef617f24b1ff42]
+### 13. Continuous employment and unfair dismissal[^c-5dec816f06fb2b9d07ef617f24b1ff42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Continuous employment and stoppages of work[^key-5dec816f06fb2b9d07ef617f24b1ff42]
+### 14. Continuous employment and stoppages of work[^c-5dec816f06fb2b9d07ef617f24b1ff42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Modification for periods of employment between 25 and 26 weeks[^key-5dec816f06fb2b9d07ef617f24b1ff42]
+### 15. Modification for periods of employment between 25 and 26 weeks[^c-5dec816f06fb2b9d07ef617f24b1ff42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Change of employer[^key-b5bb8eedd944b996e39413aa9fec753e]
+### 16. Change of employer[^c-b5bb8eedd944b996e39413aa9fec753e]
 
-(1) Where a person’s employer changes, a person’s employment is to be treated for the purposes of section 167ZZ9 of the 1992 Act and for the purposes of calculating earnings as[^key-0b9dfe9ea2ab0415c04fe2163ed1e288] employment with the second employer in the following circumstances—
+(1) Where a person’s employer changes, a person’s employment is to be treated for the purposes of section 167ZZ9 of the 1992 Act and for the purposes of calculating earnings as[^c-0b9dfe9ea2ab0415c04fe2163ed1e288] employment with the second employer in the following circumstances—
 
 - (a) the employer’s trade or business or an undertaking (whether or not it is an undertaking established by or under Northern Ireland legislation or an Act of Parliament) is transferred from one person to another;
 - (b) a contract of employment between any body corporate and the person is modified by or under Northern Ireland legislation or an Act of Parliament, whether public or local and whenever passed and some other body corporate is substituted as that person’s employer;
@@ -314,11 +314,11 @@ as they have effect in relation to a person who is, or as the case may be, is no
 
 (2) In paragraph (1)(e) “associated employer” must be construed in accordance with Article 4 of the Employment Rights (Northern Ireland) Order 1996.
 
-### 17. Reinstatement after service with the armed forces[^key-0144316554649389a34ca734a4fcadbb]
+### 17. Reinstatement after service with the armed forces[^c-0144316554649389a34ca734a4fcadbb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Treatment of two or more employers or two or more contracts of service as one[^key-ef18b0606c30aaa51cfdf64aae75ed4a]
+### 18. Treatment of two or more employers or two or more contracts of service as one[^c-ef18b0606c30aaa51cfdf64aae75ed4a]
 
 (1) In a case where the earnings paid to a person in respect of two or more employments are aggregated and treated as a single payment of earnings under regulation 15(1) (aggregation of earnings paid in respect of different employed earner’s employments by different persons) of the Social Security (Contributions) Regulations 2001, the employers of that person in respect of those employments shall be treated as one for the purposes of Part 12ZD of the 1992 Act (and these Regulations).
 
@@ -326,7 +326,7 @@ as they have effect in relation to a person who is, or as the case may be, is no
 
 (3) Where two or more contracts of service exist concurrently between one employer and one employee, they shall be treated as one for the purposes of Part 12ZD of the 1992 Act (and these Regulations) except where, by virtue of regulation 14 (aggregation of earnings paid in respect of separate employed earner’s employments under the same employer) of the Social Security (Contributions) Regulations 2001, the earnings from those contracts of service are not aggregated for the purpose of earnings-related contributions.
 
-### 19. Normal weekly earnings[^key-ad31610d618ea99f9d0e6d50b7ec0f82]
+### 19. Normal weekly earnings[^c-ad31610d618ea99f9d0e6d50b7ec0f82]
 
 (1) For the purposes of section 167ZZ17(6) (which defines normal weekly earnings for the purposes of Part 12ZD of the 1992 Act) “earnings” and “relevant period” have the meanings given in this regulation.
 
@@ -348,7 +348,7 @@ as they have effect in relation to a person who is, or as the case may be, is no
 - (i) any sum payable by way of statutory adoption pay;
 - (j) any sum payable by way of statutory parental bereavement pay.
 
-(4)[^key-534c4a51d9d1e3e404115c577b12145c] For the purposes of calculating a person’s normal weekly earnings—
+(4)[^c-534c4a51d9d1e3e404115c577b12145c] For the purposes of calculating a person’s normal weekly earnings—
 
 - (a) for the period of 8 weeks referred to in section 167ZZ9(6)(a) of the 1992 Act, the relevant period is that period of 8 weeks;
 - (b) for a continuous period of weeks within that period of 8 weeks that ends at the end of that period of 8 weeks, the relevant period is that continuous period of weeks.
@@ -371,7 +371,7 @@ as they have effect in relation to a person who is, or as the case may be, is no
 - (a) “**day of payment**” means a day on which a person is paid;
 - (b) “**normal pay day**” means a day on which the terms of a person’s contract of service require the person to be paid, or the practice in that person’s employment is for that person to be paid if any payment is due to them.
 
-**19A.**[^key-051c1807496a18d82b9d51770d1e9fcf] (1) For the purposes of section 167ZZ9(7) of the 1992 Act, a person’s expected normal weekly earnings—
+**19A.**[^c-051c1807496a18d82b9d51770d1e9fcf] (1) For the purposes of section 167ZZ9(7) of the 1992 Act, a person’s expected normal weekly earnings—
 
 - (a) for the period of 7 weeks beginning immediately after the end of the week of the bereavement, are to be taken to be the average weekly earnings which the person could reasonably be expected to earn in that period of 7 weeks;
 - (b) for a continuous period of weeks within that period of 7 weeks that begins immediately after the end of the week of the bereavement, are to be taken to be the average weekly earnings which the person could reasonably be expected to earn in that continuous period of weeks;
@@ -397,12 +397,12 @@ as they have effect in relation to a person who is, or as the case may be, is no
 
 ## PART 4 — PAYMENT OF STATUTORY PARENTAL BEREAVEMENT PAY
 
-### 20. Weekly rate of payment[^key-4b49ce1d8bd4b912489fd936371ee027]
+### 20. Weekly rate of payment[^c-4b49ce1d8bd4b912489fd936371ee027]
 
 (1) The weekly rate of payment of statutory parental bereavement pay is the smaller of the following two amounts—
 
-- (a) £194.32[^key-4023a788b2f43fdc8366d8251b18b7e9];
-- (b)[^key-2456aa9635013400486a486301470f3d] where a person entitled to statutory parental bereavement pay meets the weekly earnings threshold—
+- (a) £194.32[^c-4023a788b2f43fdc8366d8251b18b7e9];
+- (b)[^c-2456aa9635013400486a486301470f3d] where a person entitled to statutory parental bereavement pay meets the weekly earnings threshold—
   - (i) by reference to the period of 8 weeks referred to in section 167ZZ9(6)(a) of the 1992 Act, 90% of the normal weekly earnings for that period (regardless of whether the person also meets the weekly earnings threshold by reference to any other continuous period of 8 weeks within the relevant window referred to in section 167ZZ9(5) and (6) of the 1992 Act);
   - (ii) by reference to a continuous period of 7 weeks within the period of 8 weeks referred to in section 167ZZ9(6)(a) of the 1992 Act in combination with the week of the bereavement but not also by reference to the period of 8 weeks referred to in head (i), 90% of the figure produced by the calculation referred to in paragraph (1A) (regardless of whether the person also meets the weekly earnings threshold by reference to any other continuous period of 8 weeks within the relevant window referred to in section 167ZZ9(5) and (6) of the 1992 Act);
   - (iii) by reference to a continuous period of 8 weeks that includes 6 weeks within the period of 8 weeks referred to in section 167ZZ9(6)(a) of the 1992 Act and 1 week within the period of 7 weeks referred to in regulation 19A(1)(a) but not also by reference to any of the periods of 8 weeks referred to in heads (i) and (ii), 90% of the figure produced by the calculation referred to in paragraph (1B) (regardless of whether the person also meets the weekly earnings threshold by reference to any other continuous period of 8 weeks within the relevant window referred to in section 167ZZ9(5) and (6) of the 1992 Act);
@@ -413,7 +413,7 @@ as they have effect in relation to a person who is, or as the case may be, is no
   - (viii) by reference to a continuous period of 8 weeks that includes 1 week within the period of 8 weeks referred to in section 167ZZ9(6)(a) of the 1992 Act and 6 weeks within the period of 7 weeks referred to in regulation 19A(1)(a) but not also by reference to any of the periods of 8 weeks referred to in heads (i), (ii), (iii), (iv), (v), (vi) and (vii), 90% of the figure produced by the calculation referred to in paragraph (1G) (regardless of whether the person also meets the weekly earnings threshold by reference to any other continuous period of 8 weeks within the relevant window referred to in section 167ZZ9(5) and (6) of the 1992 Act);
   - (ix) by reference to the period of 7 weeks referred to in regulation 19A(1)(a) in combination with the week of the bereavement but not by reference to any other continuous period of 8 weeks within the relevant window, 90% of the figure produced by the calculation referred to in paragraph (1H).
 
-(1A)[^key-69f30fe02eadfed8be87a5ddca52bac4] The calculation required by this paragraph is—
+(1A)[^c-69f30fe02eadfed8be87a5ddca52bac4] The calculation required by this paragraph is—
 
 - (a) the person’s normal weekly earnings for the 7 week period multiplied by 7, plus
 - (b) the person’s normal weekly earnings, for the purposes of section 167ZZ9(5) of the 1992 Act, for the week of the bereavement (that is, the sum of the person’s normal weekly earnings and expected normal weekly earnings for the week),
@@ -474,16 +474,16 @@ as they have effect in relation to a person who is, or as the case may be, is no
 
 and that amount includes a fraction of a penny, the payment shall be rounded up to the nearest whole number of pence.
 
-### 21. Statutory parental bereavement pay and contractual remuneration[^key-b82873e341283fdcc44515930a469814]
+### 21. Statutory parental bereavement pay and contractual remuneration[^c-b82873e341283fdcc44515930a469814]
 
 For the purposes of section 167ZZ14(1) and (2) of the 1992 Act (payment of contractual remuneration to go towards discharging liability to pay statutory parental bereavement pay and payment of statutory parental bereavement pay to go towards discharging liability to pay contractual remuneration), the payments which are to be treated as contractual remuneration are sums payable under a contract of service—
 
 - (a) by way of remuneration;
-- (b) for incapacity for work due to sickness or injury; [^key-8e3546aeef8501c8cd307d953832946c]...
-- (c) by reason of the birth, adoption, care or death of a child ; or[^key-9743d60d88beac47694779fa934b665c]
-- (d)[^key-8839f73b7198310bb2405c0174192e7b] by reason of experiencing a miscarriage.
+- (b) for incapacity for work due to sickness or injury; [^c-8e3546aeef8501c8cd307d953832946c]...
+- (c) by reason of the birth, adoption, care or death of a child ; or[^c-9743d60d88beac47694779fa934b665c]
+- (d)[^c-8839f73b7198310bb2405c0174192e7b] by reason of experiencing a miscarriage.
 
-### 22. Avoidance of liability for statutory parental bereavement pay[^key-e91561f234c736300f7f30f2593fd751]
+### 22. Avoidance of liability for statutory parental bereavement pay[^c-e91561f234c736300f7f30f2593fd751]
 
 (1) A former employer shall be liable to make payments of statutory parental bereavement pay to a former employee in any case where the employee was in employed earner’s employment with the employer and the employee’s employment was brought to an end by the former employer solely, or mainly, for the purpose of avoiding liability for statutory parental bereavement pay.
 
@@ -492,11 +492,11 @@ For the purposes of section 167ZZ14(1) and (2) of the 1992 Act (payment of contr
 - (a) the employee shall be treated as if the employee had been employed for a period ending with the week of the bereavement; and
 - (b) the employee’s normal weekly earnings or expected normal weekly earnings are to be determined in accordance with regulation 19 or regulation 19A as the case may be
 
-### 23. Payment of statutory parental bereavement pay[^key-567322ca99c58d6b42d981e0e8d27594]
+### 23. Payment of statutory parental bereavement pay[^c-567322ca99c58d6b42d981e0e8d27594]
 
 Payments of statutory parental bereavement pay may be made in like manner to payments of remuneration but shall not include payment in kind or by way of the provision of board and lodgings.
 
-### 24. Time when statutory parental bereavement pay is to be paid[^key-dd4884949a8ed3127012c059518afded]
+### 24. Time when statutory parental bereavement pay is to be paid[^c-dd4884949a8ed3127012c059518afded]
 
 (1) In any case where—
 
@@ -520,7 +520,7 @@ that amount statutory parental bereavement pay shall be paid within the time spe
 
 (5) In this regulation “**pay day**” means a day on which it has been agreed, or it is the normal practice between an employer or former employer and a person who is or was an employee of theirs, that payments by way of remuneration are to be made, or, where there is no such agreement or normal practice, the last day of a calendar month.
 
-### 25. Liability of the Commissioners to pay statutory parental bereavement pay[^key-071bbe2dd306b5596994e1d4e3a0e034]
+### 25. Liability of the Commissioners to pay statutory parental bereavement pay[^c-071bbe2dd306b5596994e1d4e3a0e034]
 
 (1) Despite section 167ZZ11(1) of the 1992 Act (liability to make payments of statutory parental bereavement pay is liability of the employer), where the conditions in regulation 24(1)(a) and (b) are satisfied, liability to make payments of statutory parental bereavement pay to a person is to be the liability of the Commissioners and not the employer for—
 
@@ -540,7 +540,7 @@ that amount statutory parental bereavement pay shall be paid within the time spe
   - (iv) possession is taken, by or on behalf of the holders of any debentures secured by a floating charge, of any property of the company or limited liability partnership comprised in or subject to the charge; or
   - (v) a voluntary arrangement proposed for the purposes of Part 1 of the Insolvency (Northern Ireland) Order 1989 is approved under that Part.
 
-### 26. Liability of the Commissioners to pay statutory parental bereavement pay in cases of legal custody or imprisonment[^key-3ca80ddf4e3fef74b3ca393360a9ec5b]
+### 26. Liability of the Commissioners to pay statutory parental bereavement pay in cases of legal custody or imprisonment[^c-3ca80ddf4e3fef74b3ca393360a9ec5b]
 
 Where there is liability to pay statutory parental bereavement pay—
 
@@ -549,11 +549,11 @@ Where there is liability to pay statutory parental bereavement pay—
 
 that liability, despite section 167ZZ11(1) of the 1992 Act, shall be that of the Commissioners and not the employer.
 
-### 27. Payments by the Commissioners[^key-d2e0b4fd9de07eecdc7f027d717f0073]
+### 27. Payments by the Commissioners[^c-d2e0b4fd9de07eecdc7f027d717f0073]
 
 Where the Commissioners become liable in accordance with regulation 25 (liability of the Commissioners to pay statutory parental bereavement pay) or regulation 26 (liability of the Commissioners to pay statutory parental bereavement pay in case of legal custody or imprisonment) then payment is to be made as soon as reasonably practicable after they become so liable, by means of an instrument of payment or by such other means as appear to the Commissioners to be appropriate in the circumstances of any particular case.
 
-### 28. Persons unable to act[^key-bd172b1f96d516b749903fb180df2d22]
+### 28. Persons unable to act[^c-bd172b1f96d516b749903fb180df2d22]
 
 (1) This regulation applies where—
 
@@ -575,7 +575,7 @@ Where the Commissioners become liable in accordance with regulation 25 (liabilit
 
 (4) Anything required by Part 12ZD of the 1992 Act to be done by or to the person who is unable to act may be done by or to the person appointed under this regulation to act on behalf of the person unable to act, and the receipt of the person so appointed shall be a good discharge to the employer or former employer of the person unable to act for any sum paid.
 
-### 29. Service of notices[^key-bba8cc97d02c990a840e2e53375ca1c6]
+### 29. Service of notices[^c-bba8cc97d02c990a840e2e53375ca1c6]
 
 (1) Where a notice is to be given under these Regulations, it may be given—
 
@@ -593,11 +593,11 @@ Where the Commissioners become liable in accordance with regulation 25 (liabilit
 
 ## PART 5 — TRANSITIONAL, REVOCATION AND EXPIRY
 
-### 30. Transitional provisions[^key-946256f3df51f4a393811f965020cf11]
+### 30. Transitional provisions[^c-946256f3df51f4a393811f965020cf11]
 
 The revocation and re-enactment of provisions by these Regulations does not affect the continuity of the law.
 
-**31.**[^key-705a49ebb30ac9368299de23d054bb3c] (1) This regulation applies to a reference (expressed or implied) in these Regulations, any statutory provision, or any other instrument or document, to a provision of these Regulations.
+**31.**[^c-705a49ebb30ac9368299de23d054bb3c] (1) This regulation applies to a reference (expressed or implied) in these Regulations, any statutory provision, or any other instrument or document, to a provision of these Regulations.
 
 (2) The reference is, subject to its context, to be read as being or including a reference to any or all of the corresponding earlier provisions, in relation to times, circumstances or purposes in relation to which those earlier provisions had effect.
 
@@ -607,7 +607,7 @@ The revocation and re-enactment of provisions by these Regulations does not affe
 - (b) the corresponding provision revoked by the Statutory Parental Bereavement Pay (General) Regulations (Northern Ireland) 2023[^f00045];
 - (c) the corresponding provision revoked by the Statutory Parental Bereavement Pay (General) (No. 2) Regulations (Northern Ireland) 2022[^f00046].
 
-**32.**[^key-5e962d4bc838103626e27041cfcbf7c4] (1) This regulation applies to a reference (expressed or implied) in any statutory provision, or any other instrument or document to—
+**32.**[^c-5e962d4bc838103626e27041cfcbf7c4] (1) This regulation applies to a reference (expressed or implied) in any statutory provision, or any other instrument or document to—
 
 - (a) a provision revoked by these Regulations;
 - (b) a provision revoked by the Statutory Parental Bereavement Pay (General) Regulations (Northern Ireland) 2023; or
@@ -615,11 +615,11 @@ The revocation and re-enactment of provisions by these Regulations does not affe
 
 (2) The reference is, subject to its context, to be read as being or including a reference to the corresponding provision of these Regulations, in relation to times, circumstances or purposes in relation to which that provision has effect.
 
-**33.**[^key-53e1023cfe536b4c941f9dd584028d29] (1) The revocation of any provision by these Regulations does not affect the previous operation of that provision, except as provided by regulation 34.
+**33.**[^c-53e1023cfe536b4c941f9dd584028d29] (1) The revocation of any provision by these Regulations does not affect the previous operation of that provision, except as provided by regulation 34.
 
 (2) The revocation by these Regulations of the savings made by regulations 33 and 34 of the Statutory Parental Bereavement Pay (General) Regulations (Northern Ireland) 2023 does not affect the operation of those savings in so far as they are not specifically reproduced in these Regulations but remain capable of having effect.
 
-**34.**[^key-5f3f180f3a54e8d42962a1b0e10e6129] (1) Anything done, or having effect as if done, under (or for the purposes of or in reliance on) a provision revoked by these Regulations and in operation or effective immediately before the time these Regulations come into operation, has effect after that time as if done instead under (or for the purposes of or in reliance on) the corresponding provision of these Regulations.
+**34.**[^c-5f3f180f3a54e8d42962a1b0e10e6129] (1) Anything done, or having effect as if done, under (or for the purposes of or in reliance on) a provision revoked by these Regulations and in operation or effective immediately before the time these Regulations come into operation, has effect after that time as if done instead under (or for the purposes of or in reliance on) the corresponding provision of these Regulations.
 
 (2) Any right, privilege, obligation or liability acquired, accrued or incurred under a provision revoked by these Regulations is to be treated as having acquired, accrued or incurred instead under the corresponding provision of these Regulations.
 
@@ -637,17 +637,17 @@ includes a reference to a thing that has effect as if done under that provision,
 
 and any investigation or legal proceeding in respect of any such penalty or punishment may be instituted, continued or enforced, and any such penalty or punishment may be imposed, as if the provision had not been revoked.
 
-**35.**[^key-dca749c8b8b50cb476c6e1bd7c2d51fd] (1) Regulations 30 to 34 have effect in place of sections 28(2) and 29 of the Interpretation Act (Northern Ireland) 1954[^f00047] (“**1954 Act**”).
+**35.**[^c-dca749c8b8b50cb476c6e1bd7c2d51fd] (1) Regulations 30 to 34 have effect in place of sections 28(2) and 29 of the Interpretation Act (Northern Ireland) 1954[^f00047] (“**1954 Act**”).
 
 (2) Nothing in this Part affects any other provision of the 1954 Act.
 
 (3) In this Part, “instrument” and “statutory provision” have the meaning given to them by section 1(c) and (f) of the 1954 Act.
 
-### 36. Revocation[^key-6cbf66b460a7b0fd9b8e561ba4dc2e9b]
+### 36. Revocation[^c-6cbf66b460a7b0fd9b8e561ba4dc2e9b]
 
 The Statutory Parental Bereavement Pay (General) Regulations (Northern Ireland) 2023 are revoked.
 
-### 37. Expiry[^key-fda5d36d7b29bfe8225d74779f3efc9e]
+### 37. Expiry[^c-fda5d36d7b29bfe8225d74779f3efc9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -709,13 +709,13 @@ An impact assessment has not been prepared for these Regulations. These Regulati
 
 [^f00005]: Footnote: Regulations made by the Department for the Economy pursuant to [1992 c. 7 (N.I.)](https://www.legislation.gov.uk/nia/1992/7), sections 167ZZ11(3) and 167ZZ17(4), (5), (7) and (8), must, by virtue of those sections, be made with the concurrence of the Commissioners for His Majesty’s Revenue and Customs. By virtue of the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), section 50(1), references to the Commissioners of Inland Revenue in statutory provisions are to be taken as references to the Commissioners for His Majesty’s Revenue and Customs.
 
-[^key-5a6893ffc355fe324a2567a8964ccbbf]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-5a6893ffc355fe324a2567a8964ccbbf]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
-[^key-9aa9d53bf6f62faa21de31c89b46429c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-9aa9d53bf6f62faa21de31c89b46429c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
-[^key-6ea8a18cc9d3f81fb5803221e09fa4d0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2) inserted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2026/63/regulation/3/2)
+[^c-6ea8a18cc9d3f81fb5803221e09fa4d0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2) inserted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2026/63/regulation/3/2)
 
-[^key-ce786365e2a92c0e7f4a7e5ed0e3e41f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2023/155/regulation/3) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-ce786365e2a92c0e7f4a7e5ed0e3e41f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2023/155/regulation/3) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
 [^f00006]: Footnote: [S.R. 2003 No. 16](https://www.legislation.gov.uk/nisr/2003/16).
 
@@ -725,9 +725,9 @@ An impact assessment has not been prepared for these Regulations. These Regulati
 
 [^f00009]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755).
 
-[^key-8d49ba1a36d6aee08bac6a091ab6a57c]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2023/155/regulation/3) inserted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/nisr/2026/63/regulation/3/3/a)
+[^c-8d49ba1a36d6aee08bac6a091ab6a57c]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2023/155/regulation/3) inserted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/nisr/2026/63/regulation/3/3/a)
 
-[^key-0cb2cb0691cb8ada54cfb1d0f1437c70]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2023/155/regulation/3) inserted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/nisr/2026/63/regulation/3/3/b)
+[^c-0cb2cb0691cb8ada54cfb1d0f1437c70]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2023/155/regulation/3) inserted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/nisr/2026/63/regulation/3/3/b)
 
 [^f00010]: Footnote: [2008 c. 22](https://www.legislation.gov.uk/ukpga/2008/22); section 54 was amended by the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), Schedule 11, Part 1, paragraph 206 and by [S.I. 2018/1413](https://www.legislation.gov.uk/uksi/2018/1413).
 
@@ -751,17 +751,17 @@ An impact assessment has not been prepared for these Regulations. These Regulati
 
 [^f00020]: Footnote: The Department of Health, Social Services and Public Safety was renamed the Department of Health under section 1 of the Departments Act (Northern Ireland) [2016 (c. 5)](https://www.legislation.gov.uk/ukpga/2016/5).
 
-[^key-b30ea1a72292c674f702494bde40948a]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2023/155/regulation/3) inserted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [3(3)(c)](https://www.legislation.gov.uk/nisr/2026/63/regulation/3/3/c)
+[^c-b30ea1a72292c674f702494bde40948a]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2023/155/regulation/3) inserted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [3(3)(c)](https://www.legislation.gov.uk/nisr/2026/63/regulation/3/3/c)
 
 [^f00021]: Footnote: For the meaning of ‘week’ in Part 3, see section 167ZZ17(5) of the 1992 Act.
 
-[^key-ff1d454d7897c2741a4d6a3cca5bbe40]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2023/155/regulation/3) substituted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [3(3)(d)](https://www.legislation.gov.uk/nisr/2026/63/regulation/3/3/d)
+[^c-ff1d454d7897c2741a4d6a3cca5bbe40]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2023/155/regulation/3) substituted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [3(3)(d)](https://www.legislation.gov.uk/nisr/2026/63/regulation/3/3/d)
 
 [^f00022]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
 [^f00023]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-4d1a3639f6807ca45887672edb0c9660]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2023/155/regulation/4) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-4d1a3639f6807ca45887672edb0c9660]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2023/155/regulation/4) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
 [^f00024]: Footnote: Section 51A was inserted by the Children and Families Act 2014, section 9.
 
@@ -775,55 +775,55 @@ An impact assessment has not been prepared for these Regulations. These Regulati
 
 [^f00029]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755).
 
-[^key-584d4d2af050ec97358b9cfab72e4376]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/nisr/2023/155/regulation/4A) inserted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2026/63/regulation/3/4)
+[^c-584d4d2af050ec97358b9cfab72e4376]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/nisr/2023/155/regulation/4A) inserted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2026/63/regulation/3/4)
 
-[^key-18ef25fc1ccf15baf909cfd92abdefcd]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2023/155/regulation/5) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-18ef25fc1ccf15baf909cfd92abdefcd]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2023/155/regulation/5) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
-[^key-30024d714b02517aa7c1b89ed18a2159]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2023/155/regulation/6) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-30024d714b02517aa7c1b89ed18a2159]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2023/155/regulation/6) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
-[^key-4b42dffa5fd24058b6e8655b1a37b22b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2023/155/regulation/7) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-4b42dffa5fd24058b6e8655b1a37b22b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2023/155/regulation/7) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
-[^key-e1f6e7329abba5253997f90f826fcc9d]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/nisr/2023/155/regulation/7) substituted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [3(5)](https://www.legislation.gov.uk/nisr/2026/63/regulation/3/5)
+[^c-e1f6e7329abba5253997f90f826fcc9d]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/nisr/2023/155/regulation/7) substituted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [3(5)](https://www.legislation.gov.uk/nisr/2026/63/regulation/3/5)
 
-[^key-1de037395a8f4c722f69304d7b46df59]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2023/155/regulation/8) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-1de037395a8f4c722f69304d7b46df59]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2023/155/regulation/8) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
-[^key-7250a111e57717909dec7b275a0f4ae5]: Textual amendment: Word in [reg. 8(2)(a)](https://www.legislation.gov.uk/nisr/2023/155/regulation/8/2/a) inserted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [3(6)(a)](https://www.legislation.gov.uk/nisr/2026/63/regulation/3/6/a)
+[^c-7250a111e57717909dec7b275a0f4ae5]: Textual amendment: Word in [reg. 8(2)(a)](https://www.legislation.gov.uk/nisr/2023/155/regulation/8/2/a) inserted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [3(6)(a)](https://www.legislation.gov.uk/nisr/2026/63/regulation/3/6/a)
 
-[^key-56ad543a3972fcea62b19d5d6f785221]: Textual amendment: Words in [reg. 8(2)(b)](https://www.legislation.gov.uk/nisr/2023/155/regulation/8/2/b) substituted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [3(6)(b)](https://www.legislation.gov.uk/nisr/2026/63/regulation/3/6/b)
+[^c-56ad543a3972fcea62b19d5d6f785221]: Textual amendment: Words in [reg. 8(2)(b)](https://www.legislation.gov.uk/nisr/2023/155/regulation/8/2/b) substituted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [3(6)(b)](https://www.legislation.gov.uk/nisr/2026/63/regulation/3/6/b)
 
-[^key-726ab9a1ec9e01b3158a2ce9009c1b50]: Textual amendment: [Reg. 8(2)(c)](https://www.legislation.gov.uk/nisr/2023/155/regulation/8/2/c) inserted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [3(6)(c)](https://www.legislation.gov.uk/nisr/2026/63/regulation/3/6/c)
+[^c-726ab9a1ec9e01b3158a2ce9009c1b50]: Textual amendment: [Reg. 8(2)(c)](https://www.legislation.gov.uk/nisr/2023/155/regulation/8/2/c) inserted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [3(6)(c)](https://www.legislation.gov.uk/nisr/2026/63/regulation/3/6/c)
 
-[^key-e78bd64a0c6310f6fe4028f899015895]: Textual amendment: Words in [reg. 8(3)(b)](https://www.legislation.gov.uk/nisr/2023/155/regulation/8/3/b) substituted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [3(6)(d)](https://www.legislation.gov.uk/nisr/2026/63/regulation/3/6/d)
+[^c-e78bd64a0c6310f6fe4028f899015895]: Textual amendment: Words in [reg. 8(3)(b)](https://www.legislation.gov.uk/nisr/2023/155/regulation/8/3/b) substituted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [3(6)(d)](https://www.legislation.gov.uk/nisr/2026/63/regulation/3/6/d)
 
-[^key-e8ea4dee4746f6e39b2667c80ad7cb37]: Textual amendment: [Reg. 8(5)](https://www.legislation.gov.uk/nisr/2023/155/regulation/8/5) substituted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [3(6)(e)](https://www.legislation.gov.uk/nisr/2026/63/regulation/3/6/e)
+[^c-e8ea4dee4746f6e39b2667c80ad7cb37]: Textual amendment: [Reg. 8(5)](https://www.legislation.gov.uk/nisr/2023/155/regulation/8/5) substituted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [3(6)(e)](https://www.legislation.gov.uk/nisr/2026/63/regulation/3/6/e)
 
-[^key-a45ef478f40e1716ff9c9fc6bc39c571]: Textual amendment: Words in [reg. 8(9)](https://www.legislation.gov.uk/nisr/2023/155/regulation/8/9) substituted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [3(6)(f)](https://www.legislation.gov.uk/nisr/2026/63/regulation/3/6/f)
+[^c-a45ef478f40e1716ff9c9fc6bc39c571]: Textual amendment: Words in [reg. 8(9)](https://www.legislation.gov.uk/nisr/2023/155/regulation/8/9) substituted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [3(6)(f)](https://www.legislation.gov.uk/nisr/2026/63/regulation/3/6/f)
 
-[^key-314d04add9f69047b8075f7a0c62f16f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2023/155/regulation/9) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-314d04add9f69047b8075f7a0c62f16f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2023/155/regulation/9) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
-[^key-8d4a4f0641c37268a6b2f0a8c7706f21]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2023/155/regulation/10) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-8d4a4f0641c37268a6b2f0a8c7706f21]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2023/155/regulation/10) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
 [^f00030]: Footnote: For the definition of “statutory pay week”, see section 167ZZ12 of the 1992 Act.
 
-[^key-83ba76f353684bb5cc535804ad3c2a37]: Textual amendment: Words in [reg. 10(1)(b)](https://www.legislation.gov.uk/nisr/2023/155/regulation/10/1/b) substituted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [3(7)](https://www.legislation.gov.uk/nisr/2026/63/regulation/3/7)
+[^c-83ba76f353684bb5cc535804ad3c2a37]: Textual amendment: Words in [reg. 10(1)(b)](https://www.legislation.gov.uk/nisr/2023/155/regulation/10/1/b) substituted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [3(7)](https://www.legislation.gov.uk/nisr/2026/63/regulation/3/7)
 
-[^key-f50f6fc3b6fb8b7efaa0956fea54f408]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2023/155/regulation/11) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-f50f6fc3b6fb8b7efaa0956fea54f408]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2023/155/regulation/11) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
 [^f00031]: Footnote: [S.R. 1978 No. 401](https://www.legislation.gov.uk/nisr/1978/401), amended for relevant purposes by [S.R. 1980 No. 405](https://www.legislation.gov.uk/nisr/1980/405), [S.R. 1990 No. 339](https://www.legislation.gov.uk/nisr/1990/339), [S.R. 1994 No. 92](https://www.legislation.gov.uk/nisr/1994/92), [S.R. 1998 No. 250](https://www.legislation.gov.uk/nisr/1998/250), [S.I. 2003/733](https://www.legislation.gov.uk/uksi/2003/733), [S.I 2003/2421](https://www.legislation.gov.uk/uksi/2003/2421), [S.I. 2004/770](https://www.legislation.gov.uk/uksi/2004/770), [S.I. 2005/3134](https://www.legislation.gov.uk/uksi/2005/3134), [S.I. 2006/1531](https://www.legislation.gov.uk/uksi/2006/1531) and [S.I. 2014/635](https://www.legislation.gov.uk/uksi/2014/635).
 
 [^f00032]: Footnote: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004); regulation 145 was amended by [S.I. 2012/817](https://www.legislation.gov.uk/uksi/2012/817).
 
-[^key-5dec816f06fb2b9d07ef617f24b1ff42]: Textual amendment: [Regs. 12-15](https://www.legislation.gov.uk/nisr/2023/155/regulation/12) omitted (6.4.2026) by virtue of [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2026/74/regulation/2/2)
+[^c-5dec816f06fb2b9d07ef617f24b1ff42]: Textual amendment: [Regs. 12-15](https://www.legislation.gov.uk/nisr/2023/155/regulation/12) omitted (6.4.2026) by virtue of [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2026/74/regulation/2/2)
 
-[^key-b5bb8eedd944b996e39413aa9fec753e]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2023/155/regulation/16) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-b5bb8eedd944b996e39413aa9fec753e]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2023/155/regulation/16) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
-[^key-0b9dfe9ea2ab0415c04fe2163ed1e288]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/nisr/2023/155/regulation/16/1) substituted (6.4.2026) by [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2026/74/regulation/2/3)
+[^c-0b9dfe9ea2ab0415c04fe2163ed1e288]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/nisr/2023/155/regulation/16/1) substituted (6.4.2026) by [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2026/74/regulation/2/3)
 
-[^key-0144316554649389a34ca734a4fcadbb]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/nisr/2023/155/regulation/17) omitted (6.4.2026) by virtue of [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2026/74/regulation/2/4)
+[^c-0144316554649389a34ca734a4fcadbb]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/nisr/2023/155/regulation/17) omitted (6.4.2026) by virtue of [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2026/74/regulation/2/4)
 
-[^key-ef18b0606c30aaa51cfdf64aae75ed4a]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2023/155/regulation/18) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-ef18b0606c30aaa51cfdf64aae75ed4a]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2023/155/regulation/18) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
-[^key-ad31610d618ea99f9d0e6d50b7ec0f82]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2023/155/regulation/19) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-ad31610d618ea99f9d0e6d50b7ec0f82]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2023/155/regulation/19) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
 [^f00038]: Footnote: Schedule 3 was amended by S.I.s [2001/2412](https://www.legislation.gov.uk/uksi/2001/2412), [2001/3629](https://www.legislation.gov.uk/uksi/2001/3629), [2002/307](https://www.legislation.gov.uk/uksi/2002/307), [2002/2924](https://www.legislation.gov.uk/uksi/2002/2924), [2003/1059](https://www.legislation.gov.uk/uksi/2003/1059), [2003/2085](https://www.legislation.gov.uk/uksi/2003/2085), [2003/2340](https://www.legislation.gov.uk/uksi/2003/2340), [2003/2985](https://www.legislation.gov.uk/uksi/2003/2985), [2004/173](https://www.legislation.gov.uk/uksi/2004/173), [2004/770](https://www.legislation.gov.uk/uksi/2004/770), [2004/2096](https://www.legislation.gov.uk/uksi/2004/2096), [2005/728](https://www.legislation.gov.uk/uksi/2005/728), [2005/778](https://www.legislation.gov.uk/uksi/2005/778), [2005/2422](https://www.legislation.gov.uk/uksi/2005/2422), [2005/3130](https://www.legislation.gov.uk/uksi/2005/3130), [2006/576](https://www.legislation.gov.uk/uksi/2006/576), [2006/883](https://www.legislation.gov.uk/uksi/2006/883), [2006/2003](https://www.legislation.gov.uk/uksi/2006/2003), [2006/2829](https://www.legislation.gov.uk/uksi/2006/2829), [2007/2091](https://www.legislation.gov.uk/uksi/2007/2091), [2007/2401](https://www.legislation.gov.uk/uksi/2007/2401), [2007/2905](https://www.legislation.gov.uk/uksi/2007/2905), [2008/607](https://www.legislation.gov.uk/uksi/2008/607), [2008/1431](https://www.legislation.gov.uk/uksi/2008/1431), [2008/2624](https://www.legislation.gov.uk/uksi/2008/2624), [2009/600](https://www.legislation.gov.uk/uksi/2009/600), [2010/188](https://www.legislation.gov.uk/uksi/2010/188), [2011/225](https://www.legislation.gov.uk/uksi/2011/225), [2011/797](https://www.legislation.gov.uk/uksi/2011/797), [2011/1000](https://www.legislation.gov.uk/uksi/2011/1000), [2011/2700](https://www.legislation.gov.uk/uksi/2011/2700), [2012/817](https://www.legislation.gov.uk/uksi/2012/817), [2013/622](https://www.legislation.gov.uk/uksi/2013/622), [2013/1142](https://www.legislation.gov.uk/uksi/2013/1142), [2013/1907](https://www.legislation.gov.uk/uksi/2013/1907), [2014/608](https://www.legislation.gov.uk/uksi/2014/608), [2014/3159](https://www.legislation.gov.uk/uksi/2014/3159), [2014/3228](https://www.legislation.gov.uk/uksi/2014/3228), [2015/478](https://www.legislation.gov.uk/uksi/2015/478), [2015/543](https://www.legislation.gov.uk/uksi/2015/543), [2016/352](https://www.legislation.gov.uk/uksi/2016/352), [2016/647](https://www.legislation.gov.uk/uksi/2016/647), [2016/1067](https://www.legislation.gov.uk/uksi/2016/1067), [2017/307](https://www.legislation.gov.uk/uksi/2017/307), [2017/373](https://www.legislation.gov.uk/uksi/2017/373), [2018/120](https://www.legislation.gov.uk/uksi/2018/120); regulation 27 was amended by [S.I. 2004/770](https://www.legislation.gov.uk/uksi/2004/770), [2005/3130](https://www.legislation.gov.uk/uksi/2005/3130).
 
@@ -835,64 +835,64 @@ An impact assessment has not been prepared for these Regulations. These Regulati
 
 [^f00042]: Footnote: Section 147(6) was amended by paragraph 10 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ([S.I.1999/671](https://www.legislation.gov.uk/uksi/1999/671)).
 
-[^key-534c4a51d9d1e3e404115c577b12145c]: Textual amendment: [Reg. 19(4)-(10)](https://www.legislation.gov.uk/nisr/2023/155/regulation/19/4) substituted for reg. 19(4)-(9) (6.4.2026) by [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2026/74/regulation/2/5/a)
+[^c-534c4a51d9d1e3e404115c577b12145c]: Textual amendment: [Reg. 19(4)-(10)](https://www.legislation.gov.uk/nisr/2023/155/regulation/19/4) substituted for reg. 19(4)-(9) (6.4.2026) by [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2026/74/regulation/2/5/a)
 
-[^key-051c1807496a18d82b9d51770d1e9fcf]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/nisr/2023/155/regulation/19A) inserted (6.4.2026) by [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2026/74/regulation/2/6)
+[^c-051c1807496a18d82b9d51770d1e9fcf]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/nisr/2023/155/regulation/19A) inserted (6.4.2026) by [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2026/74/regulation/2/6)
 
-[^key-4b49ce1d8bd4b912489fd936371ee027]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2023/155/regulation/20) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-4b49ce1d8bd4b912489fd936371ee027]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2023/155/regulation/20) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
-[^key-4023a788b2f43fdc8366d8251b18b7e9]: Textual amendment: Sum in [reg. 20(1)(a)](https://www.legislation.gov.uk/nisr/2023/155/regulation/20/1/a) substituted (6.4.2026) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c), [10(3)](https://www.legislation.gov.uk/nisr/2026/59/article/10/3)
+[^c-4023a788b2f43fdc8366d8251b18b7e9]: Textual amendment: Sum in [reg. 20(1)(a)](https://www.legislation.gov.uk/nisr/2023/155/regulation/20/1/a) substituted (6.4.2026) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(c)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/c), [10(3)](https://www.legislation.gov.uk/nisr/2026/59/article/10/3)
 
-[^key-2456aa9635013400486a486301470f3d]: Textual amendment: [Reg. 20(1)(b)](https://www.legislation.gov.uk/nisr/2023/155/regulation/20/1/b) substituted (6.4.2026) by [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/nisr/2026/74/regulation/2/7/a)
+[^c-2456aa9635013400486a486301470f3d]: Textual amendment: [Reg. 20(1)(b)](https://www.legislation.gov.uk/nisr/2023/155/regulation/20/1/b) substituted (6.4.2026) by [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/nisr/2026/74/regulation/2/7/a)
 
-[^key-69f30fe02eadfed8be87a5ddca52bac4]: Textual amendment: [Reg. 20(1A)-(1H)](https://www.legislation.gov.uk/nisr/2023/155/regulation/20/1A) inserted (6.4.2026) by [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/nisr/2026/74/regulation/2/7/b)
+[^c-69f30fe02eadfed8be87a5ddca52bac4]: Textual amendment: [Reg. 20(1A)-(1H)](https://www.legislation.gov.uk/nisr/2023/155/regulation/20/1A) inserted (6.4.2026) by [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/nisr/2026/74/regulation/2/7/b)
 
-[^key-b82873e341283fdcc44515930a469814]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2023/155/regulation/21) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-b82873e341283fdcc44515930a469814]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2023/155/regulation/21) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
-[^key-8e3546aeef8501c8cd307d953832946c]: Textual amendment: Word in [reg. 21(b)](https://www.legislation.gov.uk/nisr/2023/155/regulation/21/b) omitted (6.4.2026) by virtue of [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [2(8)(a)](https://www.legislation.gov.uk/nisr/2026/74/regulation/2/8/a)
+[^c-8e3546aeef8501c8cd307d953832946c]: Textual amendment: Word in [reg. 21(b)](https://www.legislation.gov.uk/nisr/2023/155/regulation/21/b) omitted (6.4.2026) by virtue of [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [2(8)(a)](https://www.legislation.gov.uk/nisr/2026/74/regulation/2/8/a)
 
-[^key-9743d60d88beac47694779fa934b665c]: Textual amendment: Word in [reg. 21(c)](https://www.legislation.gov.uk/nisr/2023/155/regulation/21/c) substituted (6.4.2026) by [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [2(8)(b)](https://www.legislation.gov.uk/nisr/2026/74/regulation/2/8/b)
+[^c-9743d60d88beac47694779fa934b665c]: Textual amendment: Word in [reg. 21(c)](https://www.legislation.gov.uk/nisr/2023/155/regulation/21/c) substituted (6.4.2026) by [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [2(8)(b)](https://www.legislation.gov.uk/nisr/2026/74/regulation/2/8/b)
 
-[^key-8839f73b7198310bb2405c0174192e7b]: Textual amendment: [Reg. 21(d)](https://www.legislation.gov.uk/nisr/2023/155/regulation/21/d) inserted (6.4.2026) by [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [2(8)(c)](https://www.legislation.gov.uk/nisr/2026/74/regulation/2/8/c)
+[^c-8839f73b7198310bb2405c0174192e7b]: Textual amendment: [Reg. 21(d)](https://www.legislation.gov.uk/nisr/2023/155/regulation/21/d) inserted (6.4.2026) by [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [2(8)(c)](https://www.legislation.gov.uk/nisr/2026/74/regulation/2/8/c)
 
-[^key-e91561f234c736300f7f30f2593fd751]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/nisr/2023/155/regulation/22) substituted (6.4.2026) by [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [2(9)](https://www.legislation.gov.uk/nisr/2026/74/regulation/2/9)
+[^c-e91561f234c736300f7f30f2593fd751]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/nisr/2023/155/regulation/22) substituted (6.4.2026) by [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [2(9)](https://www.legislation.gov.uk/nisr/2026/74/regulation/2/9)
 
-[^key-567322ca99c58d6b42d981e0e8d27594]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2023/155/regulation/23) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-567322ca99c58d6b42d981e0e8d27594]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2023/155/regulation/23) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
-[^key-dd4884949a8ed3127012c059518afded]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2023/155/regulation/24) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-dd4884949a8ed3127012c059518afded]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2023/155/regulation/24) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
 [^f00043]: Footnote: [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671); Article 7(1) was amended by 2006 ([S.I. 2006/1947 (N.I. 16))](https://www.legislation.gov.uk/nisi/2006/1947), Schedule 1, paragraph 43(1) and (2) and by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), Schedule 1, paragraph 5(1) and (2).
 
-[^key-071bbe2dd306b5596994e1d4e3a0e034]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2023/155/regulation/25) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-071bbe2dd306b5596994e1d4e3a0e034]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2023/155/regulation/25) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
 [^f00044]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405).
 
-[^key-3ca80ddf4e3fef74b3ca393360a9ec5b]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2023/155/regulation/26) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-3ca80ddf4e3fef74b3ca393360a9ec5b]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2023/155/regulation/26) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
-[^key-d2e0b4fd9de07eecdc7f027d717f0073]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2023/155/regulation/27) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-d2e0b4fd9de07eecdc7f027d717f0073]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2023/155/regulation/27) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
-[^key-bd172b1f96d516b749903fb180df2d22]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2023/155/regulation/28) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-bd172b1f96d516b749903fb180df2d22]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2023/155/regulation/28) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
-[^key-bba8cc97d02c990a840e2e53375ca1c6]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2023/155/regulation/29) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-bba8cc97d02c990a840e2e53375ca1c6]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2023/155/regulation/29) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
-[^key-946256f3df51f4a393811f965020cf11]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2023/155/regulation/30) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-946256f3df51f4a393811f965020cf11]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2023/155/regulation/30) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
-[^key-705a49ebb30ac9368299de23d054bb3c]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2023/155/regulation/31) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-705a49ebb30ac9368299de23d054bb3c]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2023/155/regulation/31) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
 [^f00045]: Footnote: [S.R. 2023 No. 57](https://www.legislation.gov.uk/nisr/2023/57).
 
 [^f00046]: Footnote: [S.R. 2022 No. 238](https://www.legislation.gov.uk/nisr/2022/238).
 
-[^key-5e962d4bc838103626e27041cfcbf7c4]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2023/155/regulation/32) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-5e962d4bc838103626e27041cfcbf7c4]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2023/155/regulation/32) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
-[^key-53e1023cfe536b4c941f9dd584028d29]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2023/155/regulation/33) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-53e1023cfe536b4c941f9dd584028d29]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2023/155/regulation/33) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
-[^key-5f3f180f3a54e8d42962a1b0e10e6129]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2023/155/regulation/34) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-5f3f180f3a54e8d42962a1b0e10e6129]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2023/155/regulation/34) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
-[^key-dca749c8b8b50cb476c6e1bd7c2d51fd]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2023/155/regulation/35) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-dca749c8b8b50cb476c6e1bd7c2d51fd]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2023/155/regulation/35) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
 [^f00047]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
-[^key-6cbf66b460a7b0fd9b8e561ba4dc2e9b]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2023/155/regulation/36) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
+[^c-6cbf66b460a7b0fd9b8e561ba4dc2e9b]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2023/155/regulation/36) in operation at 29.9.2023 with application in accordance with reg. 2, see [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/155/regulation/2)
 
-[^key-fda5d36d7b29bfe8225d74779f3efc9e]: Textual amendment: [Reg. 37](https://www.legislation.gov.uk/nisr/2023/155/regulation/37) omitted (20.3.2026) by virtue of [The Statutory Parental Bereavement Pay (General) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/58)](https://www.legislation.gov.uk/nisr/2026/58), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/58/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2026/58/regulation/2/2)
+[^c-fda5d36d7b29bfe8225d74779f3efc9e]: Textual amendment: [Reg. 37](https://www.legislation.gov.uk/nisr/2023/155/regulation/37) omitted (20.3.2026) by virtue of [The Statutory Parental Bereavement Pay (General) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/58)](https://www.legislation.gov.uk/nisr/2026/58), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/58/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2026/58/regulation/2/2)

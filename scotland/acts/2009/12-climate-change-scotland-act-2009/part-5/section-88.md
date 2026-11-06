@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Charges for supply of carrier bags[^key-6a55e275eef95d5f74b8d4095e13c14b]
+## 88. Charges for supply of carrier bags[^c-6a55e275eef95d5f74b8d4095e13c14b]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a55e275eef95d5f74b8d4095e13c14b]: Commencement: S. 88 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-6a55e275eef95d5f74b8d4095e13c14b]: Commencement: S. 88 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)

@@ -45,13 +45,13 @@ Coming into force in accordance with regulation 1(2)
 
 The Welsh Ministers, in exercise of the powers conferred by section 3(3)(a) of the Direct Payments to Farmers (Legislative Continuity) Act 2020[^f00001], make the following Regulations.
 
-## 1. Title and commencement[^key-f2b06ef9c2ef4f187b4a778c2bb1b99b]
+## 1. Title and commencement[^c-f2b06ef9c2ef4f187b4a778c2bb1b99b]
 
 (1) The title of these Regulations is the Common Agricultural Policy (Direct Payments to Farmers) (Miscellaneous Amendments) (Wales) Regulations 2020.
 
 (2) These Regulations come into force on exit day and paragraph 1(1) of Schedule 5 to the European Union (Withdrawal Agreement) Act 2020[^f00002] does not apply.
 
-## 2. The Common Agricultural Policy (Integrated Administration and Control System and Enforcement and Cross Compliance) (Wales) Regulations 2014[^key-c043af9c83922aabf3d3648fab17bc19]
+## 2. The Common Agricultural Policy (Integrated Administration and Control System and Enforcement and Cross Compliance) (Wales) Regulations 2014[^c-c043af9c83922aabf3d3648fab17bc19]
 
 (1) The Common Agricultural Policy (Integrated Administration and Control System and Enforcement and Cross Compliance) (Wales) Regulations 2014[^f00003] are amended as follows.
 
@@ -68,7 +68,7 @@ The Welsh Ministers, in exercise of the powers conferred by section 3(3)(a) of t
 
 (3) In regulation 7, in paragraph (7)(a), at the beginning insert “except for matters relating to direct payments for claim year 2020,”.
 
-## 3. The Common Agricultural Policy Basic Payment and Support Schemes (Wales) Regulations 2015[^key-58b007920e93c3a1f063986dada6ec47]
+## 3. The Common Agricultural Policy Basic Payment and Support Schemes (Wales) Regulations 2015[^c-58b007920e93c3a1f063986dada6ec47]
 
 (1) The Common Agricultural Policy Basic Payment and Support Schemes (Wales) Regulations 2015[^f00004] are amended as follows.
 
@@ -99,14 +99,14 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2020 c. 2](https://www.legislation.gov.uk/ukpga/2020/2); see section 3(10) for the definition of “devolved authority”.
 
-[^key-f2b06ef9c2ef4f187b4a778c2bb1b99b]: Commencement: Reg. 1 in force at 31.12.2020 (in accordance with 2018 c. 16, s. 20(1)) , see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/104/regulation/1/2)
+[^c-f2b06ef9c2ef4f187b4a778c2bb1b99b]: Commencement: Reg. 1 in force at 31.12.2020 (in accordance with 2018 c. 16, s. 20(1)) , see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/104/regulation/1/2)
 
 [^f00002]: Footnote: [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1).
 
-[^key-c043af9c83922aabf3d3648fab17bc19]: Commencement: Reg. 2 in force at 31.12.2020 (in accordance with 2018 c. 16, s. 20(1)) , see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/104/regulation/1/2)
+[^c-c043af9c83922aabf3d3648fab17bc19]: Commencement: Reg. 2 in force at 31.12.2020 (in accordance with 2018 c. 16, s. 20(1)) , see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/104/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2014/3223 (W. 328)](https://www.legislation.gov.uk/wsi/2014/3223), to which there are amendments not relevant to these Regulations.
 
-[^key-58b007920e93c3a1f063986dada6ec47]: Commencement: Reg. 3 in force at 31.12.2020 (in accordance with 2018 c. 16, s. 20(1)) , see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/104/regulation/1/2)
+[^c-58b007920e93c3a1f063986dada6ec47]: Commencement: Reg. 3 in force at 31.12.2020 (in accordance with 2018 c. 16, s. 20(1)) , see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/104/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 2015/1252 (W. 84)](https://www.legislation.gov.uk/wsi/2015/1252), amended by [S.I. 2016/217 (W. 86)](https://www.legislation.gov.uk/wsi/2016/217).

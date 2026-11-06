@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Special provision where buyer is general partner in limited partnership[^key-13d2351fe95a970b94275bcb76564fb1]
+## 35. Special provision where buyer is general partner in limited partnership[^c-13d2351fe95a970b94275bcb76564fb1]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ Where the person exercising a right to buy under section 28 is doing so by virtu
 
 ## Annotations
 
-[^key-13d2351fe95a970b94275bcb76564fb1]: Commencement: S. 35 in force at 15.12.2004 by [S.S.I. 2004/511](https://www.legislation.gov.uk/ssi/2004/511), [art. 2](https://www.legislation.gov.uk/ssi/2004/511/article/2)
+[^c-13d2351fe95a970b94275bcb76564fb1]: Commencement: S. 35 in force at 15.12.2004 by [S.S.I. 2004/511](https://www.legislation.gov.uk/ssi/2004/511), [art. 2](https://www.legislation.gov.uk/ssi/2004/511/article/2)

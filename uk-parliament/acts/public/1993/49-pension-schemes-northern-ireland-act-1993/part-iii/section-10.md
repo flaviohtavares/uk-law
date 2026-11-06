@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^c11718491][^key-c1aba394c3fbbbb2f23ecdae28de9b9a] An earner has a guaranteed minimum in relation to the pension provided by a scheme that was a salary related contracted-out scheme if in any tax week in a relevant year—
+(1)[^c11718491][^c-c1aba394c3fbbbb2f23ecdae28de9b9a] An earner has a guaranteed minimum in relation to the pension provided by a scheme that was a salary related contracted-out scheme if in any tax week in a relevant year—
 
 - (a) earnings were paid to or for the earner's benefit in respect of employment which was contracted-out by reference to the scheme; and
 - (b) those earnings were in excess of the lower earnings limit for that tax week (or the prescribed equivalent if the earner was paid otherwise than weekly).
 
-(2)[^key-1f69e0023b75210d8ba2717ca1c2231e][^key-a6d411d7b1b8a3f83827e76ded6013c3][^key-b0ade6d412f9672bb9dfcc328d29390d] Subject to section 11(1), the guaranteed minimum shall be the weekly equivalent of an amount equal to the appropriate percentage of the total of the earner’s earnings factors for the relevant years, so far as derived from excess earnings mentioned in subsection (1)(b)[^key-1b9b076a304c01074a041fd46fae51b2] upon which primary Class 1 contributions have been paid or treated as paid.
+(2)[^c-1f69e0023b75210d8ba2717ca1c2231e][^c-a6d411d7b1b8a3f83827e76ded6013c3][^c-b0ade6d412f9672bb9dfcc328d29390d] Subject to section 11(1), the guaranteed minimum shall be the weekly equivalent of an amount equal to the appropriate percentage of the total of the earner’s earnings factors for the relevant years, so far as derived from excess earnings mentioned in subsection (1)(b)[^c-1b9b076a304c01074a041fd46fae51b2] upon which primary Class 1 contributions have been paid or treated as paid.
 
-(2A)[^key-cc463c0365d678c5bb424bfb3edfceab] Where any liability of a scheme in respect of an earner’s guaranteed minimum pension ceases by virtue of a civil recovery order, his guaranteed minimum in relation to the scheme is extinguished or reduced accordingly.
+(2A)[^c-cc463c0365d678c5bb424bfb3edfceab] Where any liability of a scheme in respect of an earner’s guaranteed minimum pension ceases by virtue of a civil recovery order, his guaranteed minimum in relation to the scheme is extinguished or reduced accordingly.
 
 (3)[^c11718501] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -59,17 +59,17 @@ where N is the number of years in the earner’s working life (assuming he will 
 
 [^c11718491]: Modification: S. 10(1) modified (6.4.1997) by [S.R. 1996/509](https://www.legislation.gov.uk/nisr/1996/509), [reg. 6(4)](https://www.legislation.gov.uk/nisr/1996/509/regulation/6/4)
 
-[^key-c1aba394c3fbbbb2f23ecdae28de9b9a]: Textual amendment: S. 10(1) substituted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 15(2)](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/15/2)
+[^c-c1aba394c3fbbbb2f23ecdae28de9b9a]: Textual amendment: S. 10(1) substituted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 15(2)](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/15/2)
 
-[^key-1f69e0023b75210d8ba2717ca1c2231e]: Modification: S. 10(2) modified (1.4.2006) by [The Firefighters Pension Scheme Order (Northern Ireland) 2007 (S.R. 2007/144)](https://www.legislation.gov.uk/nisr/2007/144), Scheme, art. 79(2)(b)
+[^c-1f69e0023b75210d8ba2717ca1c2231e]: Modification: S. 10(2) modified (1.4.2006) by [The Firefighters Pension Scheme Order (Northern Ireland) 2007 (S.R. 2007/144)](https://www.legislation.gov.uk/nisr/2007/144), Scheme, art. 79(2)(b)
 
-[^key-a6d411d7b1b8a3f83827e76ded6013c3]: Modification: S. 10(2) modified (1.4.2006) by [The Firemens Pension Scheme Order (Northern Ireland) 2006 (S.R. 2006/210)](https://www.legislation.gov.uk/nisr/2006/210), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2006/210/article/1/2), [90(2)(a)](https://www.legislation.gov.uk/nisr/2006/210/article/90/2/a)
+[^c-a6d411d7b1b8a3f83827e76ded6013c3]: Modification: S. 10(2) modified (1.4.2006) by [The Firemens Pension Scheme Order (Northern Ireland) 2006 (S.R. 2006/210)](https://www.legislation.gov.uk/nisr/2006/210), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2006/210/article/1/2), [90(2)(a)](https://www.legislation.gov.uk/nisr/2006/210/article/90/2/a)
 
-[^key-b0ade6d412f9672bb9dfcc328d29390d]: Modification: S. 10(2) modified (1.4.2006) by [The Firemens Pension Scheme Order (Northern Ireland) 2006 (S.R. 2006/210)](https://www.legislation.gov.uk/nisr/2006/210), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2006/210/article/1/2), [90(2)(b)](https://www.legislation.gov.uk/nisr/2006/210/article/90/2/b)
+[^c-b0ade6d412f9672bb9dfcc328d29390d]: Modification: S. 10(2) modified (1.4.2006) by [The Firemens Pension Scheme Order (Northern Ireland) 2006 (S.R. 2006/210)](https://www.legislation.gov.uk/nisr/2006/210), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2006/210/article/1/2), [90(2)(b)](https://www.legislation.gov.uk/nisr/2006/210/article/90/2/b)
 
-[^key-1b9b076a304c01074a041fd46fae51b2]: Textual amendment: Words in s. 10(2) substituted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 15(3)](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/15/3)
+[^c-1b9b076a304c01074a041fd46fae51b2]: Textual amendment: Words in s. 10(2) substituted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 15(3)](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/15/3)
 
-[^key-cc463c0365d678c5bb424bfb3edfceab]: Textual amendment: S. 10(2A) inserted (24.2.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 23(3)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/23/3); [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3) [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 14](https://www.legislation.gov.uk/nisr/1997/192/article/14))
+[^c-cc463c0365d678c5bb424bfb3edfceab]: Textual amendment: S. 10(2A) inserted (24.2.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 23(3)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/23/3); [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3) [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 14](https://www.legislation.gov.uk/nisr/1997/192/article/14))
 
 [^c11718501]: Textual amendment: S. 10(3) repealed (6.4.1997) by of [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213) arts. 147, 168, Sch. 3 para. 20(a), Sch. 5 Pt. III; [S.R. 1997/192](https://www.legislation.gov.uk/nisr/1997/192), [art. 2(b)](https://www.legislation.gov.uk/nisr/1997/192/article/2/b)
 

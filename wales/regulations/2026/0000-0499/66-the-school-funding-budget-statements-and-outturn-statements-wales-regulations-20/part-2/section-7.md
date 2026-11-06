@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Individual schools budget[^key-5e3fc7d04ed5c9a462a1562c0bfb918d]
+## 7. Individual schools budget[^c-5e3fc7d04ed5c9a462a1562c0bfb918d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e3fc7d04ed5c9a462a1562c0bfb918d]: Commencement: Reg. 7 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-5e3fc7d04ed5c9a462a1562c0bfb918d]: Commencement: Reg. 7 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

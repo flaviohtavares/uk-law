@@ -29,7 +29,7 @@ summary: ''
 - (c) there is a relevant change in relation to the partnership (see section 764), and
 - (d) under the arrangement the share in the partnership's profits of the person involved in the change is determined by reference (wholly or partly) to payments in respect of the security.
 
-(2A)[^key-2a69c94c792dea205502d3c18304638a] For the purposes of subsection (2)(d) it does not matter if any determination of the share in the partnership's profits of the person involved in the relevant change as mentioned is subject to any condition.
+(2A)[^c-2a69c94c792dea205502d3c18304638a] For the purposes of subsection (2)(d) it does not matter if any determination of the share in the partnership's profits of the person involved in the relevant change as mentioned is subject to any condition.
 
 (3) Condition B is that in accordance with generally accepted accounting practice—
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a69c94c792dea205502d3c18304638a]: Textual amendment: S. 767(2A) inserted (with effect in accordance with Sch. 13 para. 42 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 13 para. 41](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/paragraph/41)
+[^c-2a69c94c792dea205502d3c18304638a]: Textual amendment: S. 767(2A) inserted (with effect in accordance with Sch. 13 para. 42 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 13 para. 41](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/paragraph/41)

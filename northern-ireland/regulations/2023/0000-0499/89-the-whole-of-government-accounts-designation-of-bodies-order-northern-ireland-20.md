@@ -49,11 +49,11 @@ The bodies listed in the Schedule to this Order appear to the Department of Fina
 
 The Department intends the accounts under section 14 of the Act for the financial year ending with 31st March 2023 to relate in part to those bodies.
 
-## 1. Title and commencement[^key-60aa79e3141745a50861bef23201d822]
+## 1. Title and commencement[^c-60aa79e3141745a50861bef23201d822]
 
 This Order may be cited as the Whole of Government Accounts (Designation of Bodies) Order (Northern Ireland) 2023 and shall come into operation on 28th June 2023.
 
-## 2. Designation of Bodies[^key-7d3677d797aaf9350766ba01730ed08c]
+## 2. Designation of Bodies[^c-7d3677d797aaf9350766ba01730ed08c]
 
 For the purposes of section 15 of the Government Resources and Accounts Act (Northern Ireland) 2001, the Department designates the bodies listed in the Schedule in respect of the financial year ending with 31st March 2023.
 
@@ -63,11 +63,11 @@ Stuart Stevenson
 
 A senior officer of the Department of Finance
 
-## SCHEDULE — DESIGNATED BODIES FOR 2022-2023[^key-5b4d8d56633d17c0633b3cabe01268b3]
+## SCHEDULE — DESIGNATED BODIES FOR 2022-2023[^c-5b4d8d56633d17c0633b3cabe01268b3]
 
 Article 2
 
-[^key-5b4d8d56633d17c0633b3cabe01268b3]
+[^c-5b4d8d56633d17c0633b3cabe01268b3]
 
 - Agri-Food and Biosciences Institute
 - Antrim and Newtownabbey Borough Council
@@ -192,8 +192,8 @@ WGA are financial statements prepared on the basis of Generally Accepted Account
 
 [^f00002]: Footnote: [2001 (c.6) (NI)](https://www.legislation.gov.uk/nia/2001/6)
 
-[^key-60aa79e3141745a50861bef23201d822]: Commencement: Art. 1 in operation at 28.6.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/89/article/1)
+[^c-60aa79e3141745a50861bef23201d822]: Commencement: Art. 1 in operation at 28.6.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/89/article/1)
 
-[^key-7d3677d797aaf9350766ba01730ed08c]: Commencement: Art. 2 in operation at 28.6.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/89/article/1)
+[^c-7d3677d797aaf9350766ba01730ed08c]: Commencement: Art. 2 in operation at 28.6.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/89/article/1)
 
-[^key-5b4d8d56633d17c0633b3cabe01268b3]: Commencement: Sch. in operation at 28.6.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/89/article/1)
+[^c-5b4d8d56633d17c0633b3cabe01268b3]: Commencement: Sch. in operation at 28.6.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/89/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11.[^key-607f49eef850709f13a1301ac4fa16f2]
+## 11.[^c-607f49eef850709f13a1301ac4fa16f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ In section 35 [^c23882741]—
 
 ## Annotations
 
-[^key-607f49eef850709f13a1301ac4fa16f2]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-607f49eef850709f13a1301ac4fa16f2]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23882741]: Marginal citation: Section 35 was amended by paragraphs 1 and 19 of Schedule 5 to the Enterprise and Regulatory Reform Act 2013, [S.I. 2004/1261](https://www.legislation.gov.uk/uksi/2004/1261), [S.I](https://www.legislation.gov.uk/uksi/2004/1261/section/I). 2011/1043 and [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809).

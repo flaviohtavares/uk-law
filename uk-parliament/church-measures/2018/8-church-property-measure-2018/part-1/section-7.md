@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 7. Leases of excluded parts made before 1 April 1978[^key-e08c6a624afdbf3d4d31c9a6bf0dcc68]
+## 7. Leases of excluded parts made before 1 April 1978[^c-e08c6a624afdbf3d4d31c9a6bf0dcc68]
 
 *Extent: E*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e08c6a624afdbf3d4d31c9a6bf0dcc68]: Commencement: [S. 7](https://www.legislation.gov.uk/ukcm/2018/8/section/7) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-e08c6a624afdbf3d4d31c9a6bf0dcc68]: Commencement: [S. 7](https://www.legislation.gov.uk/ukcm/2018/8/section/7) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

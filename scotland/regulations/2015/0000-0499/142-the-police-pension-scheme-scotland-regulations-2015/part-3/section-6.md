@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Scheme manager’s obligation to pass on member’s records[^key-71f9b974dd23a7934c3285c3a42a2d21]
+## 6. Scheme manager’s obligation to pass on member’s records[^c-71f9b974dd23a7934c3285c3a42a2d21]
 
 *Extent: S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-71f9b974dd23a7934c3285c3a42a2d21]: Commencement: Reg. 6 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-71f9b974dd23a7934c3285c3a42a2d21]: Commencement: Reg. 6 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00028]: Footnote: [2014 c.2 (N.I.)](https://www.legislation.gov.uk/nia/2014/2).

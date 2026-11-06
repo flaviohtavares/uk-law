@@ -24,9 +24,9 @@ summary: ''
 
 (2) This is subject to—
 
-- (a) sections 237 to 239B[^key-27c4df47353929313498494333388cf8] (which provide for spreading of adjustment income), and
+- (a) sections 237 to 239B[^c-27c4df47353929313498494333388cf8] (which provide for spreading of adjustment income), and
 - (b) Part 8 (foreign income: special rules).
 
 ## Annotations
 
-[^key-27c4df47353929313498494333388cf8]: Textual amendment: Words in s. 229(2)(a) substituted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 52(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/52/2)
+[^c-27c4df47353929313498494333388cf8]: Textual amendment: Words in s. 229(2)(a) substituted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 52(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/52/2)

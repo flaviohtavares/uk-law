@@ -30,7 +30,7 @@ summary: ''
 
 (4) In subsection (4)—
 
-- (a)[^key-13814f44e17640d116998b67cd504310] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-13814f44e17640d116998b67cd504310] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for “magistrates' court” substitute “ court which has granted bail ”;
 - (c) omit “such”.
 
@@ -40,7 +40,7 @@ summary: ''
 
 (7) In subsection (8)—
 
-- (a)[^key-440863c3bb2b27110a1ef76244b4a103] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-440863c3bb2b27110a1ef76244b4a103] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) omit “magistrates'”.
 
 (8) In subsection (10)(b) for “reference in subsection (5) above to remand in custody is” substitute “ references in subsections (6) and (9) above to remand in custody are ”.
@@ -59,6 +59,6 @@ summary: ''
 
 [^c2087285]: Commencement: Act wholly in force at 1.1.2004, see s. 221 and [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258) art. 2(2) and [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312) art. 2(2))
 
-[^key-13814f44e17640d116998b67cd504310]: Textual amendment: S. 200(4)(a) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 11 para. 35](https://www.legislation.gov.uk/ukpga/2012/10/schedule/11/paragraph/35); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/i)
+[^c-13814f44e17640d116998b67cd504310]: Textual amendment: S. 200(4)(a) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 11 para. 35](https://www.legislation.gov.uk/ukpga/2012/10/schedule/11/paragraph/35); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/i)
 
-[^key-440863c3bb2b27110a1ef76244b4a103]: Textual amendment: S. 200(7)(a) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 11 para. 35](https://www.legislation.gov.uk/ukpga/2012/10/schedule/11/paragraph/35); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/i)
+[^c-440863c3bb2b27110a1ef76244b4a103]: Textual amendment: S. 200(7)(a) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 11 para. 35](https://www.legislation.gov.uk/ukpga/2012/10/schedule/11/paragraph/35); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/i)

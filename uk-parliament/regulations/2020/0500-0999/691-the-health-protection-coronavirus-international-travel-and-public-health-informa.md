@@ -46,7 +46,7 @@ Coming into force in accordance with regulation 1
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 45B, 45F(2) and 45P(2) of the Public Health (Control of Disease) Act 1984 [^c24187071].
 
-## 1. Citation and commencement provision[^key-691980d3c99edb40cf248c2589ef7455]
+## 1. Citation and commencement provision[^c-691980d3c99edb40cf248c2589ef7455]
 
 (1) These Regulations may be cited as the Health Protection (Coronavirus, International Travel and Public Health Information) (England) (Amendment) Regulations 2020.
 
@@ -54,7 +54,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (3) Regulations 3(a), 5(2) to (4), 7 and 9(1) come into force on 10th July 2020.
 
-## 2. Amendment of the Health Protection (Coronavirus, International Travel) (England) Regulations 2020 and transitional and saving provision[^key-6b967a9589e11c9aaec069278310862a][^key-6b967a9589e11c9aaec069278310862a]
+## 2. Amendment of the Health Protection (Coronavirus, International Travel) (England) Regulations 2020 and transitional and saving provision[^c-6b967a9589e11c9aaec069278310862a][^c-6b967a9589e11c9aaec069278310862a]
 
 (1) The Health Protection (Coronavirus, International Travel) (England) Regulations 2020 [^c24187081] (“**the principal Regulations**”) are amended in accordance with regulations 3 to 9.
 
@@ -65,16 +65,16 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (a) any reference to a non-exempt country or territory in those Regulations were a reference to a country or territory outside the common travel area; and
 - (b) in paragraph 3(1)(aa) of Schedule 2 to those Regulations, the words “or from an exempt country or territory” were omitted.
 
-## 3. Amendments to regulation 2[^key-5c5730d048a605047701e304a9ff725e][^key-0a1b57018010137d3a7a09c493229eac][^key-0a1b57018010137d3a7a09c493229eac]
+## 3. Amendments to regulation 2[^c-5c5730d048a605047701e304a9ff725e][^c-0a1b57018010137d3a7a09c493229eac][^c-0a1b57018010137d3a7a09c493229eac]
 
 In regulation 2—
 
-- (a)[^key-5c5730d048a605047701e304a9ff725e] after the definition of “coronavirus disease” insert—
+- (a)[^c-5c5730d048a605047701e304a9ff725e] after the definition of “coronavirus disease” insert—
 
   > “**exempt country or territory**” means a country or territory specified in Schedule A1 and “**non-exempt country or territory**” means any other country or territory outside the common travel area;
 
   ;
-- (b)[^key-0a1b57018010137d3a7a09c493229eac] at the end insert—
+- (b)[^c-0a1b57018010137d3a7a09c493229eac] at the end insert—
 
   > (3) For the purposes of these Regulations, a person (“P”) is not treated as departing from or transiting through a country or territory if, at all times whilst in that country or territory—
   >
@@ -83,7 +83,7 @@ In regulation 2—
 
   .
 
-## 4. Amendment to regulation 3[^key-fe1fa061b007f8065c3a94f0e643f5a4][^key-fe1fa061b007f8065c3a94f0e643f5a4]
+## 4. Amendment to regulation 3[^c-fe1fa061b007f8065c3a94f0e643f5a4][^c-fe1fa061b007f8065c3a94f0e643f5a4]
 
 For regulation 3(10) substitute—
 
@@ -96,25 +96,25 @@ For regulation 3(10) substitute—
 
 .
 
-## 5. Amendments to regulation 4[^key-fc9bc19c9d8a40079e4083785a9b08d9][^key-57fc715860411c7f3d2b3ff4ce911180][^key-fc9bc19c9d8a40079e4083785a9b08d9]
+## 5. Amendments to regulation 4[^c-fc9bc19c9d8a40079e4083785a9b08d9][^c-57fc715860411c7f3d2b3ff4ce911180][^c-fc9bc19c9d8a40079e4083785a9b08d9]
 
-(1)[^key-fc9bc19c9d8a40079e4083785a9b08d9] Regulation 4 is amended as follows.
+(1)[^c-fc9bc19c9d8a40079e4083785a9b08d9] Regulation 4 is amended as follows.
 
-(2)[^key-57fc715860411c7f3d2b3ff4ce911180] In paragraph (1)—
+(2)[^c-57fc715860411c7f3d2b3ff4ce911180] In paragraph (1)—
 
 - (a) in sub-paragraph (a), for “outside the common travel area” substitute “ a non-exempt country or territory ”;
 - (b) in sub-paragraph (b)—
   - (i) after “within the common travel area” insert “ or from an exempt country or territory ”,
   - (ii) for “been outside the common travel area” substitute “ departed from or transited through a non-exempt country or territory ”.
 
-(3)[^key-57fc715860411c7f3d2b3ff4ce911180] In paragraph (3)(a)—
+(3)[^c-57fc715860411c7f3d2b3ff4ce911180] In paragraph (3)(a)—
 
 - (a) in paragraph (i), for “described in paragraph (1)(a)” substitute “ who has arrived from outside the common travel area ”;
 - (b) in paragraph (ii), for “described in paragraph (1)(b)” substitute “ who has arrived from within the common travel area ”.
 
-(4)[^key-57fc715860411c7f3d2b3ff4ce911180] In paragraph (7)(a), for “arrive in the common travel area” substitute “ last departed from or transited through a non-exempt country or territory ”.
+(4)[^c-57fc715860411c7f3d2b3ff4ce911180] In paragraph (7)(a), for “arrive in the common travel area” substitute “ last departed from or transited through a non-exempt country or territory ”.
 
-(5)[^key-fc9bc19c9d8a40079e4083785a9b08d9] In paragraph (9)—
+(5)[^c-fc9bc19c9d8a40079e4083785a9b08d9] In paragraph (9)—
 
 - (a) in sub-paragraph (b), for the words from “any of the services” to the end substitute “ services from dentists, opticians, audiologists, chiropodists, chiropractors, osteopaths and other medical or health practitioners, including services relating to mental health ”;
 - (b) after sub-paragraph (b) insert—
@@ -123,7 +123,7 @@ For regulation 3(10) substitute—
 
   .
 
-(6)[^key-fc9bc19c9d8a40079e4083785a9b08d9] In paragraph (13), after sub-paragraph (c) insert—
+(6)[^c-fc9bc19c9d8a40079e4083785a9b08d9] In paragraph (13), after sub-paragraph (c) insert—
 
 > - (ca) in paragraph 39 of Schedule 2—
 >   - (i) where P is an international elite sportsperson or an international ancillary sportsperson, P satisfies the requirements of paragraph (2) if P complies with the conditions specified in paragraph 39(4)(a) or (b), as the case may be, of Schedule 2,
@@ -134,7 +134,7 @@ For regulation 3(10) substitute—
 
 .
 
-## 6. Substitution of regulation 11[^key-04815236cf45b547e7e20719bbf0c809][^key-04815236cf45b547e7e20719bbf0c809]
+## 6. Substitution of regulation 11[^c-04815236cf45b547e7e20719bbf0c809][^c-04815236cf45b547e7e20719bbf0c809]
 
 For regulation 11 substitute—
 
@@ -144,7 +144,7 @@ For regulation 11 substitute—
 
 .
 
-## 7. Amendments to Schedule 1[^key-270d72d69c2d27d556468f4dd27ea0f7]
+## 7. Amendments to Schedule 1[^c-270d72d69c2d27d556468f4dd27ea0f7]
 
 (1) Schedule 1 is amended as follows.
 
@@ -158,7 +158,7 @@ For regulation 11 substitute—
 
 .
 
-## 8. Amendments to Schedule 2[^key-6a5998cf84473b6306c9821459b5cb1d][^key-6a5998cf84473b6306c9821459b5cb1d]
+## 8. Amendments to Schedule 2[^c-6a5998cf84473b6306c9821459b5cb1d][^c-6a5998cf84473b6306c9821459b5cb1d]
 
 (1) Schedule 2 is amended as follows.
 
@@ -364,9 +364,9 @@ For regulation 11 substitute—
 
 .
 
-## 9. Insertion of new Schedules[^key-41a532aa21e06a91f5bc8cc55ea1705b][^key-2cb04a8dbfaec86d109e2fffea75ee19][^key-2cb04a8dbfaec86d109e2fffea75ee19]
+## 9. Insertion of new Schedules[^c-41a532aa21e06a91f5bc8cc55ea1705b][^c-2cb04a8dbfaec86d109e2fffea75ee19][^c-2cb04a8dbfaec86d109e2fffea75ee19]
 
-(1)[^key-41a532aa21e06a91f5bc8cc55ea1705b] Before Schedule 1 insert—
+(1)[^c-41a532aa21e06a91f5bc8cc55ea1705b] Before Schedule 1 insert—
 
 > **SCHEDULE A1 — Exempt countries and territories**
 >
@@ -524,7 +524,7 @@ For regulation 11 substitute—
 
 .
 
-(2)[^key-2cb04a8dbfaec86d109e2fffea75ee19] After Schedule 2 insert—
+(2)[^c-2cb04a8dbfaec86d109e2fffea75ee19] After Schedule 2 insert—
 
 > **SCHEDULE 3 — Specified competitions**
 >
@@ -582,7 +582,7 @@ For regulation 11 substitute—
 
 .
 
-## 10. Amendment of the Health Protection (Coronavirus, Public Health Information for Passengers Travelling to England) Regulations 2020[^key-930e6ed227f357baf64e811f7feee4c3][^key-930e6ed227f357baf64e811f7feee4c3][^key-943aef01e98f7b6b539b34d55b03a9af]
+## 10. Amendment of the Health Protection (Coronavirus, Public Health Information for Passengers Travelling to England) Regulations 2020[^c-930e6ed227f357baf64e811f7feee4c3][^c-930e6ed227f357baf64e811f7feee4c3][^c-943aef01e98f7b6b539b34d55b03a9af]
 
 (1) The Health Protection (Coronavirus, Public Health Information for Passengers Travelling to England) Regulations 2020 [^c24187231] are amended in accordance with paragraph (2).
 
@@ -616,27 +616,27 @@ An impact assessment has not been produced for this instrument. An explanatory m
 
 [^c24187071]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22). Part 2A was inserted by section 129 of the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14).
 
-[^key-691980d3c99edb40cf248c2589ef7455]: Commencement: Reg. 1 in force at 7.7.2020, see reg. 1(2)
+[^c-691980d3c99edb40cf248c2589ef7455]: Commencement: Reg. 1 in force at 7.7.2020, see reg. 1(2)
 
-[^key-6b967a9589e11c9aaec069278310862a]: Commencement: Reg. 2 in force at 7.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/691/regulation/1/2)
+[^c-6b967a9589e11c9aaec069278310862a]: Commencement: Reg. 2 in force at 7.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/691/regulation/1/2)
 
 [^c24187081]: Marginal citation: [S.I. 2020/568](https://www.legislation.gov.uk/uksi/2020/568).
 
-[^key-5c5730d048a605047701e304a9ff725e]: Commencement: Reg. 3(a) in force at 10.7.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/691/regulation/1/3)
+[^c-5c5730d048a605047701e304a9ff725e]: Commencement: Reg. 3(a) in force at 10.7.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/691/regulation/1/3)
 
-[^key-0a1b57018010137d3a7a09c493229eac]: Commencement: Reg. 3(b) in force at 7.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/691/regulation/1/2)
+[^c-0a1b57018010137d3a7a09c493229eac]: Commencement: Reg. 3(b) in force at 7.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/691/regulation/1/2)
 
-[^key-fe1fa061b007f8065c3a94f0e643f5a4]: Commencement: Reg. 4 in force at 7.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/691/regulation/1/2)
+[^c-fe1fa061b007f8065c3a94f0e643f5a4]: Commencement: Reg. 4 in force at 7.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/691/regulation/1/2)
 
-[^key-fc9bc19c9d8a40079e4083785a9b08d9]: Commencement: Reg. 5(1)(5)(6) in force at 7.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/691/regulation/1/2)
+[^c-fc9bc19c9d8a40079e4083785a9b08d9]: Commencement: Reg. 5(1)(5)(6) in force at 7.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/691/regulation/1/2)
 
-[^key-57fc715860411c7f3d2b3ff4ce911180]: Commencement: Reg. 5(2)-(4) in force at 10.7.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/691/regulation/1/3)
+[^c-57fc715860411c7f3d2b3ff4ce911180]: Commencement: Reg. 5(2)-(4) in force at 10.7.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/691/regulation/1/3)
 
-[^key-04815236cf45b547e7e20719bbf0c809]: Commencement: Reg. 6 in force at 7.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/691/regulation/1/2)
+[^c-04815236cf45b547e7e20719bbf0c809]: Commencement: Reg. 6 in force at 7.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/691/regulation/1/2)
 
-[^key-270d72d69c2d27d556468f4dd27ea0f7]: Commencement: Reg. 7 in force at 10.7.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/691/regulation/1/3)
+[^c-270d72d69c2d27d556468f4dd27ea0f7]: Commencement: Reg. 7 in force at 10.7.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/691/regulation/1/3)
 
-[^key-6a5998cf84473b6306c9821459b5cb1d]: Commencement: Reg. 8 in force at 7.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/691/regulation/1/2)
+[^c-6a5998cf84473b6306c9821459b5cb1d]: Commencement: Reg. 8 in force at 7.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/691/regulation/1/2)
 
 [^c24187091]: Marginal citation: OJ No. L 300, 14.11.2009, p. 72.
 
@@ -666,12 +666,12 @@ An impact assessment has not been produced for this instrument. An explanatory m
 
 [^c24187221]: Marginal citation: [Part 15A](https://www.legislation.gov.uk/uksi/2020/691/part/15A) was inserted by paragraph 1 of Schedule 1 to the [Finance Act 2013 (c.39)](https://www.legislation.gov.uk/ukpga/2013/39).
 
-[^key-41a532aa21e06a91f5bc8cc55ea1705b]: Commencement: Reg. 9(1) in force at 10.7.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/691/regulation/1/3)
+[^c-41a532aa21e06a91f5bc8cc55ea1705b]: Commencement: Reg. 9(1) in force at 10.7.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/691/regulation/1/3)
 
-[^key-2cb04a8dbfaec86d109e2fffea75ee19]: Commencement: Reg. 9(2) in force at 7.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/691/regulation/1/2)
+[^c-2cb04a8dbfaec86d109e2fffea75ee19]: Commencement: Reg. 9(2) in force at 7.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/691/regulation/1/2)
 
-[^key-930e6ed227f357baf64e811f7feee4c3]: Commencement: Reg. 10 in force at 7.7.2020, see reg. 1(2)
+[^c-930e6ed227f357baf64e811f7feee4c3]: Commencement: Reg. 10 in force at 7.7.2020, see reg. 1(2)
 
-[^key-943aef01e98f7b6b539b34d55b03a9af]: Modification: Reg. 10 modified (8.3.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel and Information for Passengers) (England) (Amendment) Regulations 2021 (S.I. 2021/252)](https://www.legislation.gov.uk/uksi/2021/252), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/252/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2021/252/regulation/14)
+[^c-943aef01e98f7b6b539b34d55b03a9af]: Modification: Reg. 10 modified (8.3.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel and Information for Passengers) (England) (Amendment) Regulations 2021 (S.I. 2021/252)](https://www.legislation.gov.uk/uksi/2021/252), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/252/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2021/252/regulation/14)
 
 [^c24187231]: Marginal citation: [S.I. 2020/567](https://www.legislation.gov.uk/uksi/2020/567).

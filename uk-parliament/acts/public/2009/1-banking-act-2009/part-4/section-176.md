@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176. Information[^key-c1599e89146846ce5e9b0ad1ccb77811]
+## 176. Information[^c-c1599e89146846ce5e9b0ad1ccb77811]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1599e89146846ce5e9b0ad1ccb77811]: Commencement: S. 176 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/4)
+[^c-c1599e89146846ce5e9b0ad1ccb77811]: Commencement: S. 176 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/4)

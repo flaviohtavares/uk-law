@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3B. Modification of the Landfill Directive[^key-b50d4452511dac0092d974be3d31a29e]
+## 3B. Modification of the Landfill Directive[^c-b50d4452511dac0092d974be3d31a29e]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b50d4452511dac0092d974be3d31a29e]: Textual amendment: Regs. 3A-3E inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [16(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/16/3) (as amended by [S.I. 2019/1078](https://www.legislation.gov.uk/uksi/2019/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1078/regulation/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2019/1078/regulation/4/4/a) and [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2/3), [11(2)(10)(b)-(d)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b50d4452511dac0092d974be3d31a29e]: Textual amendment: Regs. 3A-3E inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [16(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/16/3) (as amended by [S.I. 2019/1078](https://www.legislation.gov.uk/uksi/2019/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1078/regulation/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2019/1078/regulation/4/4/a) and [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2/3), [11(2)(10)(b)-(d)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

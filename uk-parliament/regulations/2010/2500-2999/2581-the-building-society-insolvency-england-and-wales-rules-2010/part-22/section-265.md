@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 265. Notices sent simultaneously to the same person[^key-39bae35bca013cdfcf1c82e77647930b]
+## 265. Notices sent simultaneously to the same person[^c-39bae35bca013cdfcf1c82e77647930b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 12.14 of the 1986 Rules.
 
 ## Annotations
 
-[^key-39bae35bca013cdfcf1c82e77647930b]: Commencement: Rule 265 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-39bae35bca013cdfcf1c82e77647930b]: Commencement: Rule 265 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

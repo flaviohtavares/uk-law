@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Power of entry on land believed to contain monument of special historic interest[^key-d736d685042fea4b3ea0d86b59f29fd0][^key-16e88bd643916b33e831dcb75b173247]
+## 67. Power of entry on land believed to contain monument of special historic interest[^c-d736d685042fea4b3ea0d86b59f29fd0][^c-16e88bd643916b33e831dcb75b173247]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d736d685042fea4b3ea0d86b59f29fd0]: Commencement: S. 67 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-d736d685042fea4b3ea0d86b59f29fd0]: Commencement: S. 67 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-16e88bd643916b33e831dcb75b173247]: Commencement: [S. 67](https://www.legislation.gov.uk/asc/2023/3/section/67) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-16e88bd643916b33e831dcb75b173247]: Commencement: [S. 67](https://www.legislation.gov.uk/asc/2023/3/section/67) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

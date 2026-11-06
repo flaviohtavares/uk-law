@@ -260,7 +260,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 #### Chapter 8 — Application and interpretation
 
-##### Exceptions[^key-cef0f83fddaa7caf110c277622f39464]
+##### Exceptions[^c-cef0f83fddaa7caf110c277622f39464]
 
 *Extent: E+W+S+N.I.*
 
@@ -310,7 +310,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W+S*
 
-#### Chapter 1 — Pension compensation on divorce etc[^key-0e6b0d142841463f065c45084f23555d]
+#### Chapter 1 — Pension compensation on divorce etc[^c-0e6b0d142841463f065c45084f23555d]
 
 - [Section 107 — Scope of mechanism](part-3/section-107.md)
 - [Section 108 — Interpretation](part-3/section-108.md)
@@ -407,6 +407,6 @@ SCHEDULES
 
 [^c21673511]: Textual amendment: Cross-heading preceding s. 13 substituted (3.11.2011 for specified purposes otherwise 3.1.2012) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2011/19/section/8/2), [38(1)(4)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/1/4); [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(a)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/a)
 
-[^key-cef0f83fddaa7caf110c277622f39464]: Textual amendment: S. 87A and cross-heading inserted (11.9.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 38(2)](https://www.legislation.gov.uk/ukpga/2014/19/section/38/2), [56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(c)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/c)
+[^c-cef0f83fddaa7caf110c277622f39464]: Textual amendment: S. 87A and cross-heading inserted (11.9.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 38(2)](https://www.legislation.gov.uk/ukpga/2014/19/section/38/2), [56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(c)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/c)
 
-[^key-0e6b0d142841463f065c45084f23555d]: Modification: Pt. 3 Ch. 1 applied (24.7.2014) by [The Pensions Act 2011 (Transitional, Consequential and Supplementary Provisions) Regulations 2014 (S.I. 2014/1711)](https://www.legislation.gov.uk/uksi/2014/1711), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/1/1), [42(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/42/1), [53](https://www.legislation.gov.uk/uksi/2014/1711/regulation/53), [57](https://www.legislation.gov.uk/uksi/2014/1711/regulation/57) (with [regs. 6](https://www.legislation.gov.uk/uksi/2014/1711/regulation/6), [41](https://www.legislation.gov.uk/uksi/2014/1711/regulation/41), [44(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/44/1), [47(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/47/1), [69(2)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/69/2), [72(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/72/1), [76(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/76/1)); coming into force immediately after s. 29 of 2011 c 19 - see S.I. 2014/1683, art. 2
+[^c-0e6b0d142841463f065c45084f23555d]: Modification: Pt. 3 Ch. 1 applied (24.7.2014) by [The Pensions Act 2011 (Transitional, Consequential and Supplementary Provisions) Regulations 2014 (S.I. 2014/1711)](https://www.legislation.gov.uk/uksi/2014/1711), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/1/1), [42(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/42/1), [53](https://www.legislation.gov.uk/uksi/2014/1711/regulation/53), [57](https://www.legislation.gov.uk/uksi/2014/1711/regulation/57) (with [regs. 6](https://www.legislation.gov.uk/uksi/2014/1711/regulation/6), [41](https://www.legislation.gov.uk/uksi/2014/1711/regulation/41), [44(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/44/1), [47(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/47/1), [69(2)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/69/2), [72(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/72/1), [76(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/76/1)); coming into force immediately after s. 29 of 2011 c 19 - see S.I. 2014/1683, art. 2

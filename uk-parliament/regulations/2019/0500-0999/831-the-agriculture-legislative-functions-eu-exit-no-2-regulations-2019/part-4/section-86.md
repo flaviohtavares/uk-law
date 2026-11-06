@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86.[^key-0d6489aceaa325df884f22a39919a63e]
+## 86.[^c-0d6489aceaa325df884f22a39919a63e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 30(2), in the third subparagraph, for the words from “Commission ma
 
 ## Annotations
 
-[^key-0d6489aceaa325df884f22a39919a63e]: Commencement: Reg. 86 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4/a)
+[^c-0d6489aceaa325df884f22a39919a63e]: Commencement: Reg. 86 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4/a)

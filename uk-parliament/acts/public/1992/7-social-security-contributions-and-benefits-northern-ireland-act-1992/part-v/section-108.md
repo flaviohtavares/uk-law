@@ -25,14 +25,14 @@ summary: ''
 - (a) any prescribed disease, or
 - (b) any prescribed personal injury (other than an injury caused by accident arising out of and in the course of his employment),
 
-which is a disease or injury due to the nature of that employment [^key-9ee57208686a9265e3c6f616f35f2b6e]...
+which is a disease or injury due to the nature of that employment [^c-9ee57208686a9265e3c6f616f35f2b6e]...
 
 (2) A disease or injury may be prescribed in relation to any employed earners if the Department is satisfied that—
 
 - (a) it ought to be treated, having regard to its causes and incidence and any other relevant considerations, as a risk of their occupations and not as a risk common to all persons; and
 - (b) it is such that, in the absence of special circumstances, the attribution of particular cases to the nature of the employment can be established or presumed with reasonable certainty.
 
-(3) Regulations prescribing any disease or injury for those purposes may provide that a person who developed the disease or injury on or at any time after a date specified in the regulations (being a date before the regulations came into force [^key-2a8fe93c4a04af86faae9063a729d6c7]... ) shall be treated, subject to any prescribed modifications of this section or section 109 or 110 below, as if the regulations had been in force when he developed the disease or injury.
+(3) Regulations prescribing any disease or injury for those purposes may provide that a person who developed the disease or injury on or at any time after a date specified in the regulations (being a date before the regulations came into force [^c-2a8fe93c4a04af86faae9063a729d6c7]... ) shall be treated, subject to any prescribed modifications of this section or section 109 or 110 below, as if the regulations had been in force when he developed the disease or injury.
 
 (4) Provision may be made by regulations for determining—
 
@@ -45,6 +45,6 @@ which is a disease or injury due to the nature of that employment [^key-9ee57208
 
 ## Annotations
 
-[^key-9ee57208686a9265e3c6f616f35f2b6e]: Textual amendment: Words in [s. 108(1)](https://www.legislation.gov.uk/ukpga/1992/7/section/108/1) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [70(1)(c)](https://www.legislation.gov.uk/nisi/2015/2006/article/70/1/c); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2016/234/article/3/2/a)
+[^c-9ee57208686a9265e3c6f616f35f2b6e]: Textual amendment: Words in [s. 108(1)](https://www.legislation.gov.uk/ukpga/1992/7/section/108/1) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [70(1)(c)](https://www.legislation.gov.uk/nisi/2015/2006/article/70/1/c); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2016/234/article/3/2/a)
 
-[^key-2a8fe93c4a04af86faae9063a729d6c7]: Textual amendment: Words in [s. 108(3)](https://www.legislation.gov.uk/ukpga/1992/7/section/108/3) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [70(1)(d)](https://www.legislation.gov.uk/nisi/2015/2006/article/70/1/d); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2016/234/article/3/2/a)
+[^c-2a8fe93c4a04af86faae9063a729d6c7]: Textual amendment: Words in [s. 108(3)](https://www.legislation.gov.uk/ukpga/1992/7/section/108/3) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [70(1)(d)](https://www.legislation.gov.uk/nisi/2015/2006/article/70/1/d); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2016/234/article/3/2/a)

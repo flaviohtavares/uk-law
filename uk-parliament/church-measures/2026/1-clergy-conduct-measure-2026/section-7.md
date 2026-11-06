@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 7. Registrar of tribunals: functions[^key-9e97a333f5de425af91def3fe83ee63e]
+## 7. Registrar of tribunals: functions[^c-9e97a333f5de425af91def3fe83ee63e]
 
 *Extent: E*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e97a333f5de425af91def3fe83ee63e]: Commencement: S. 7 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-9e97a333f5de425af91def3fe83ee63e]: Commencement: S. 7 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

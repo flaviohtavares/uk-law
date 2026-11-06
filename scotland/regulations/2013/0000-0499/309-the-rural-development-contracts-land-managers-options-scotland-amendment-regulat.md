@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture
 
-The Rural Development Contracts (Land Managers Options) (Scotland) Amendment Regulations 2013 (revoked)[^key-3853b882e33c63b06b1fc955f35292de]
+The Rural Development Contracts (Land Managers Options) (Scotland) Amendment Regulations 2013 (revoked)[^c-3853b882e33c63b06b1fc955f35292de]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st December 2013
 
-[^key-3853b882e33c63b06b1fc955f35292de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3853b882e33c63b06b1fc955f35292de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-3853b882e33c63b06b1fc955f35292de]
+## 1. Citation, commencement and interpretation[^c-3853b882e33c63b06b1fc955f35292de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-3853b882e33c63b06b1fc955f35292de]
+## 2. Amendment of the principal Regulations[^c-3853b882e33c63b06b1fc955f35292de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Saving and transitional provisions[^key-3853b882e33c63b06b1fc955f35292de]
+## 3. Saving and transitional provisions[^c-3853b882e33c63b06b1fc955f35292de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3853b882e33c63b06b1fc955f35292de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3853b882e33c63b06b1fc955f35292de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3853b882e33c63b06b1fc955f35292de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3853b882e33c63b06b1fc955f35292de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3853b882e33c63b06b1fc955f35292de]: Textual amendment: Regulations revoked (12.6.2015) by [The Rural Development (Scotland) Regulations 2015 (S.S.I. 2015/192)](https://www.legislation.gov.uk/ssi/2015/192), [sch.](https://www.legislation.gov.uk/ssi/2015/192/schedule) (with [reg. 22(2)](https://www.legislation.gov.uk/ssi/2015/192/regulation/22/2))
+[^c-3853b882e33c63b06b1fc955f35292de]: Textual amendment: Regulations revoked (12.6.2015) by [The Rural Development (Scotland) Regulations 2015 (S.S.I. 2015/192)](https://www.legislation.gov.uk/ssi/2015/192), [sch.](https://www.legislation.gov.uk/ssi/2015/192/schedule) (with [reg. 22(2)](https://www.legislation.gov.uk/ssi/2015/192/regulation/22/2))

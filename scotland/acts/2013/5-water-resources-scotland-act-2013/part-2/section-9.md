@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Consultation on changes[^key-616a23caaf55c5caee6e936134aaeebe]
+## 9. Consultation on changes[^c-616a23caaf55c5caee6e936134aaeebe]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ Before making regulations under section 7(6) or 8(1)(b) or (2), the Scottish Min
 
 ## Annotations
 
-[^key-616a23caaf55c5caee6e936134aaeebe]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2013/5/section/9) in force at 10.6.2013 for specified purposes by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-616a23caaf55c5caee6e936134aaeebe]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2013/5/section/9) in force at 10.6.2013 for specified purposes by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

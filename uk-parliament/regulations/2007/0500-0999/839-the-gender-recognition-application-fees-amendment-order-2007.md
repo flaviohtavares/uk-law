@@ -46,25 +46,25 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred upon him by sections 7(2) and 24(1) of the Gender Recognition Act 2004[^f00001], makes the following Order:
 
-## 1. Citation and commencement[^key-017807e88f7b25ff2fa0cc08080eba09]
+## 1. Citation and commencement[^c-017807e88f7b25ff2fa0cc08080eba09]
 
 This Order may be cited as the Gender Recognition (Application Fees) (Amendment) Order 2007 and comes into force on 6th April 2007.
 
-## 2. Amendments to the Gender Recognition (Application Fees) Order 2006[^key-008ad99be1abbb576fe02635bde41b57]
+## 2. Amendments to the Gender Recognition (Application Fees) Order 2006[^c-008ad99be1abbb576fe02635bde41b57]
 
 The Gender Recognition (Application Fees) Order 2006[^f00002] is amended as follows.
 
-**3.**[^key-b35f4f58826272a68947fe75bf65ff14] In article 2 (application fees), in the first column of the table (relevant income of applicant)—
+**3.**[^c-b35f4f58826272a68947fe75bf65ff14] In article 2 (application fees), in the first column of the table (relevant income of applicant)—
 
 (1) in the first entry, for “£23,185” substitute “£24,019”, and
 
 (2) for the second entry substitute “Greater than £16,017 but not greater than £24,019”.
 
-**4.**[^key-bda8ef8e542bb6597585ba9e57356a94] In article 3 (circumstances in which no fee is payable), in paragraph (a)(ii), for “£15,460” substitute “£16,017”.
+**4.**[^c-bda8ef8e542bb6597585ba9e57356a94] In article 3 (circumstances in which no fee is payable), in paragraph (a)(ii), for “£15,460” substitute “£16,017”.
 
-**5.**[^key-0e5e8954ebad9c4c0ef5225ea0f347a8] In article 5 (definition of qualifying benefit), in paragraph (b), for “£15,460” substitute “£16,017”.
+**5.**[^c-0e5e8954ebad9c4c0ef5225ea0f347a8] In article 5 (definition of qualifying benefit), in paragraph (b), for “£15,460” substitute “£16,017”.
 
-## 6. Transitional provision[^key-37b430f54dd55e0cdc53602aa3ac4e62]
+## 6. Transitional provision[^c-37b430f54dd55e0cdc53602aa3ac4e62]
 
 This Order does not apply in relation to applications made before 6th April 2007.
 
@@ -86,16 +86,16 @@ Section 7(2) of the Gender Recognition Act [2004 (c.7)](https://www.legislation.
 
 [^f00001]: Footnote: [2004 c.7](https://www.legislation.gov.uk/ukpga/2004/7); section 7 was amended by the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33), section 250.
 
-[^key-017807e88f7b25ff2fa0cc08080eba09]: Commencement: Art. 1 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/839/article/1)
+[^c-017807e88f7b25ff2fa0cc08080eba09]: Commencement: Art. 1 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/839/article/1)
 
-[^key-008ad99be1abbb576fe02635bde41b57]: Commencement: Art. 2 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/839/article/1)
+[^c-008ad99be1abbb576fe02635bde41b57]: Commencement: Art. 2 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/839/article/1)
 
 [^f00002]: Footnote: [S.I. 2006/758](https://www.legislation.gov.uk/uksi/2006/758).
 
-[^key-b35f4f58826272a68947fe75bf65ff14]: Commencement: Art. 3 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/839/article/1)
+[^c-b35f4f58826272a68947fe75bf65ff14]: Commencement: Art. 3 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/839/article/1)
 
-[^key-bda8ef8e542bb6597585ba9e57356a94]: Commencement: Art. 4 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/839/article/1)
+[^c-bda8ef8e542bb6597585ba9e57356a94]: Commencement: Art. 4 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/839/article/1)
 
-[^key-0e5e8954ebad9c4c0ef5225ea0f347a8]: Commencement: Art. 5 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/839/article/1)
+[^c-0e5e8954ebad9c4c0ef5225ea0f347a8]: Commencement: Art. 5 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/839/article/1)
 
-[^key-37b430f54dd55e0cdc53602aa3ac4e62]: Commencement: Art. 6 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/839/article/1)
+[^c-37b430f54dd55e0cdc53602aa3ac4e62]: Commencement: Art. 6 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/839/article/1)

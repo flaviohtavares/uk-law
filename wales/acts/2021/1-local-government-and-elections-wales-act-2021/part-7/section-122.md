@@ -29,7 +29,7 @@ summary: ''
 - (e) the public services board or boards for the principal councils' areas,
 - (f) the Local Health Board for an area any part of which is in one or more of the principal councils' areas,
 - (g) every trade union which is recognised (within the meaning of the Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52)) by one or more of the principal councils,
-- (ga)[^key-1bc6166e6152a7a19b4109e17333751a] each corporate joint committee—
+- (ga)[^c-1bc6166e6152a7a19b4109e17333751a] each corporate joint committee—
   - (i) which includes at least one senior executive member (within the meaning given by section 77(4)) of the principal councils as a member of the corporate joint committee;
   - (ii) which is otherwise likely to be affected by the proposal for merger,
 - (h) every other principal council for a principal area which is likely to be affected by the proposal for merger, and
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1bc6166e6152a7a19b4109e17333751a]: Textual amendment: [S. 122(1)(ga)](https://www.legislation.gov.uk/asc/2021/1/section/122/1/ga) inserted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [33](https://www.legislation.gov.uk/wsi/2021/1349/regulation/33)
+[^c-1bc6166e6152a7a19b4109e17333751a]: Textual amendment: [S. 122(1)(ga)](https://www.legislation.gov.uk/asc/2021/1/section/122/1/ga) inserted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [33](https://www.legislation.gov.uk/wsi/2021/1349/regulation/33)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 101. Remote attendance at meetings and use of websites[^key-d16651a0dcaf4813ea71f0d84849101a]
+## 101. Remote attendance at meetings and use of websites[^c-d16651a0dcaf4813ea71f0d84849101a]
 
 *Extent: N.I.*
 
@@ -115,4 +115,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d16651a0dcaf4813ea71f0d84849101a]: Commencement: S. 101 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-d16651a0dcaf4813ea71f0d84849101a]: Commencement: S. 101 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20A. General purpose of SEPA[^key-f663e706898d9a7b3eade0c0b4376fdc]
+## 20A. General purpose of SEPA[^c-f663e706898d9a7b3eade0c0b4376fdc]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f663e706898d9a7b3eade0c0b4376fdc]: Textual amendment: S. 20A inserted (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [ss. 51](https://www.legislation.gov.uk/asp/2014/3/section/51), [61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2)
+[^c-f663e706898d9a7b3eade0c0b4376fdc]: Textual amendment: S. 20A inserted (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [ss. 51](https://www.legislation.gov.uk/asp/2014/3/section/51), [61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2)

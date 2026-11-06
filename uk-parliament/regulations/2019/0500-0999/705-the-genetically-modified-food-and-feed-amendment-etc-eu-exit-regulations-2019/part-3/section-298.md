@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 298. Amendment of Commission Implementing Decision (EU) 2016/1215[^key-b67667393b2773c5c1e5f96631ff80ad]
+## 298. Amendment of Commission Implementing Decision (EU) 2016/1215[^c-b67667393b2773c5c1e5f96631ff80ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Implementing Decision (EU) 2016/1215 authorising the placing on the m
 
 ## Annotations
 
-[^key-b67667393b2773c5c1e5f96631ff80ad]: Commencement: Reg. 298 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b67667393b2773c5c1e5f96631ff80ad]: Commencement: Reg. 298 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

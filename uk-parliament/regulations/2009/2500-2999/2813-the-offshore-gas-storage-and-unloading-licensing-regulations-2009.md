@@ -48,13 +48,13 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 5, 7(1) and 104(2) of the Energy Act 2008[^f00001], makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-146ddc8314628f4b351d1b8f7f4f070e]
+## 1. Citation, commencement and interpretation[^c-146ddc8314628f4b351d1b8f7f4f070e]
 
 (1) These Regulations may be cited as the Offshore Gas Storage and Unloading (Licensing) Regulations 2009, and come into force on 13th November 2009.
 
 (2) In these Regulations, a reference to a numbered section is to that section of the Energy Act 2008.
 
-## 2. Applications for licences under section 4[^key-367c8c9f5d0feb03ae01ce1dfcbf5653]
+## 2. Applications for licences under section 4[^c-367c8c9f5d0feb03ae01ce1dfcbf5653]
 
 (1) An application for a licence must be—
 
@@ -68,7 +68,7 @@ The Secretary of State, in exercise of the powers conferred by sections 5, 7(1) 
 - (a) explore any controlled place with a view to carrying on an activity within section 2(3)(a) to (d), and
 - (b) establish or maintain an installation in a controlled place for the purpose of such exploration.
 
-## 3. Model clauses for gas storage licences[^key-e57bb4b8167bb376034445ee2d8b9507]
+## 3. Model clauses for gas storage licences[^c-e57bb4b8167bb376034445ee2d8b9507]
 
 (1) For the purposes of section 7, the model clauses prescribed for licences in respect of the activities specified in paragraph (2) are those set out in the Schedule.
 
@@ -90,7 +90,7 @@ Department of Energy and Climate Change
 
 Regulation 3(1)
 
-### 1. Interpretation etc.[^key-2d976c2e392f933c74a975d1089d4bff]
+### 1. Interpretation etc.[^c-2d976c2e392f933c74a975d1089d4bff]
 
 (1) In this licence, the following expressions have the following meanings—
 
@@ -115,7 +115,7 @@ Regulation 3(1)
 
 (3) Any obligations which are to be observed and performed by the Licensee shall at any time at which the Licensee is more than one person be joint and several obligations.
 
-### 2. Licensed Activities[^key-7d7c92961affc6d4600e8886248cb3ea]
+### 2. Licensed Activities[^c-7d7c92961affc6d4600e8886248cb3ea]
 
 (1) This licence, which is granted on the terms and subject to the conditions set out below, authorises the Licensee to carry on within the Licensed Area the activities mentioned in paragraph (2).
 
@@ -127,7 +127,7 @@ Regulation 3(1)
 - (d) exploration with a view to, or in connection with, the carrying on of activities within sub-paragraphs (a) to (c);
 - (e) the establishment or maintenance of installations for the purposes of activities within sub-paragraphs (a) to (d).
 
-### 3. Term of Licence[^key-6dbc2c1bd46e368230d8b054fb543baf]
+### 3. Term of Licence[^c-6dbc2c1bd46e368230d8b054fb543baf]
 
 (1) This licence shall commence with the Start Date, and (unless terminated or revoked in accordance with its provisions) shall continue until the end of the Licence Period.
 
@@ -140,13 +140,13 @@ Regulation 3(1)
 - (a) a Lease that has been granted has expired, or been determined or revoked; and
 - (b) no rights are then exercisable under any other Lease.
 
-### 4. Extension of Exploration Period[^key-d0ce15eaa25f59a4a22a32cced67a061]
+### 4. Extension of Exploration Period[^c-d0ce15eaa25f59a4a22a32cced67a061]
 
 (1) Where an application is made to the Minister not later than two months before the end of the Exploration Period, the Minister may decide that the Exploration Period is to be extended for such further period as the Minister and the Licensee may agree.
 
 (2) The extension may be made subject to such modification of the terms and conditions of this licence as the Minister considers appropriate; and (subject to any such modification) this clause shall apply to the Exploration Period as so extended.
 
-### 5. Right of Licensee to terminate Licence[^key-063d0e54096273ae444a7c556a4a6378]
+### 5. Right of Licensee to terminate Licence[^c-063d0e54096273ae444a7c556a4a6378]
 
 (1) The Licensee may at any time by giving to the Minister not less than one month’s notice in writing to that effect terminate this licence; but such termination does not affect any obligation imposed upon, or liability incurred by, the Licensee under the terms and conditions of this Licence.
 
@@ -155,7 +155,7 @@ Regulation 3(1)
 - (a) the authorisation granted to the person under this licence ceases, but this does not affect any obligation imposed upon, or liability incurred by, that person under the terms and conditions of this Licence; and
 - (b) the Licence continues to have effect in respect of the other person who constitutes, or persons who together constitute, the Licensee and in relation to whom it is not terminated.
 
-### 6. Provision of contact details to Minister[^key-3131f06ac2e76de54dd633146bcf2375]
+### 6. Provision of contact details to Minister[^c-3131f06ac2e76de54dd633146bcf2375]
 
 (1) A notice, direction or other document authorised or required (in whatever terms) to be given to the Licensee by virtue of this licence is treated as given to the Licensee if it is given to the person specified by the Licensee under paragraph (2) at the address so specified.
 
@@ -168,7 +168,7 @@ Regulation 3(1)
 - (a) requires the Licensee to comply with paragraph (2) within the period of 30 days beginning with the date of the notice; and
 - (b) states that, if the Licensee fails to do so, the Licensee will be treated as having supplied under paragraph (2) the name and address specified by the Minister in the notice.
 
-### 7. Working obligations[^key-5b3c5a7e96ad97ae2569f66e84684f5f]
+### 7. Working obligations[^c-5b3c5a7e96ad97ae2569f66e84684f5f]
 
 (1) If a Work Programme is set out in Schedule 4, the Licensee shall before the expiry of the Exploration Period carry out the Work Programme.
 
@@ -207,7 +207,7 @@ and any programme approved by the Minister under this paragraph shall be deemed 
 
 (8) Where the Licensee has a duty by virtue of this clause to carry out a programme during a part of the Licence Period, the Minister may serve notice under paragraph (2) in respect of another part of that period.
 
-### 8. Development plans[^key-999daf5541adb2b4ff0c205bda82dcda]
+### 8. Development plans[^c-999daf5541adb2b4ff0c205bda82dcda]
 
 (1) The Licensee shall not—
 
@@ -236,7 +236,7 @@ except in accordance with a plan to which the Minister has given consent.
   - (ii) the recovery of gas; and
   - (iii) any other operations that are specified in accordance with paragraph (3).
 
-### 9. Commencement and abandonment and plugging of Wells[^key-39059da8417434890d59e85d5597797d]
+### 9. Commencement and abandonment and plugging of Wells[^c-39059da8417434890d59e85d5597797d]
 
 (1) The Licensee shall not commence or recommence the drilling of any Well without the consent of the Minister.
 
@@ -267,7 +267,7 @@ except in accordance with a plan to which the Minister has given consent.
 
 (13) Any Well that, pursuant to a direction by the Minister under paragraph (11), has not been plugged and abandoned, shall be left in good order and fit for further working together with all casings and any Well head fixtures the removal of which would cause damage to such Wells.
 
-### 10. Control of Development Wells[^key-08b578d9014f9e0f59b8ee1440cda1d5]
+### 10. Control of Development Wells[^c-08b578d9014f9e0f59b8ee1440cda1d5]
 
 (1) The Licensee shall not suspend work on the drilling of a Development Well, or having suspended it in accordance with this paragraph shall not begin it again, except with the consent of the Minister and in accordance with the conditions, if any, subject to which the consent is given.
 
@@ -284,11 +284,11 @@ except in accordance with a plan to which the Minister has given consent.
 - “Completion Work”, in relation to a Well, means work, by way of the installation of a casing or equipment or otherwise after the Well has been drilled, for the purpose of bringing the Well into use as a Development Well; and
 - “Development Well” means a Well which the Licensee uses or intends to use in connection with the storage of gas in the Licensed Area.
 
-### 11. Provision of storage tanks, pipes, pipelines or other receptacles[^key-4a991f49d29d98cbd86e2e52fc814d92]
+### 11. Provision of storage tanks, pipes, pipelines or other receptacles[^c-4a991f49d29d98cbd86e2e52fc814d92]
 
 The Licensee shall use methods and practice customarily used in good storage practice for confining the gas stored in or recovered from the Licensed Area in tanks, gasholders, pipes, pipe-lines or other receptacles constructed for that purpose.
 
-### 12. Avoidance of harmful methods of working and ensuring security of supply[^key-fadbc711a250b84c7210f70df3d4bbc5]
+### 12. Avoidance of harmful methods of working and ensuring security of supply[^c-fadbc711a250b84c7210f70df3d4bbc5]
 
 (1) The Licensee shall maintain all apparatus and appliances and all Wells in the Licensed Area which have not been abandoned and plugged as provided by clause 9 in good repair and condition and shall execute all operations in or in connection with the Licensed Area in a proper and workmanlike manner in accordance with methods and practice customarily used in good storage practice and in particular the Licensee shall take all steps practicable in order—
 
@@ -299,23 +299,23 @@ The Licensee shall use methods and practice customarily used in good storage pra
 
 (2) The Licensee shall comply with any instructions from time to time given by the Minister in writing relating to any of the matters set out in the foregoing paragraph. If the Licensee objects to any such instruction on the ground that it is unreasonable he may, within fourteen days from the date upon which the instruction was given, refer the matter to arbitration.
 
-### 13. Appointment of operators[^key-7275de728cd4755b3fc22b7b1689291e]
+### 13. Appointment of operators[^c-7275de728cd4755b3fc22b7b1689291e]
 
 (1) The Licensee shall ensure that another person (including, in the case where the Licensee is two or more persons, any of those persons) does not exercise any function of organising or supervising an activity authorised by this licence unless that other person is a person approved in writing by the Minister and the function in question is one to which that approval relates.
 
 (2) The Minister shall not refuse to approve a person in pursuance of paragraph (1) if that person is competent to exercise the function in question, but where an approved person is no longer competent to exercise that function the Minister may, by notice in writing given to the Licensee, revoke the approval.
 
-### 14. Fishing and navigation[^key-18fec115872fc6509e66984fc121c84a]
+### 14. Fishing and navigation[^c-18fec115872fc6509e66984fc121c84a]
 
 The Licensee shall not carry out any operations in or about the Licensed Area in such manner as to interfere unjustifiably with navigation or fishing in the waters of the Licensed Area or with the conservation of the living resources of the sea.
 
-### 15. Training[^key-3640dfa9fb24440ea22f08355fd4b264]
+### 15. Training[^c-3640dfa9fb24440ea22f08355fd4b264]
 
 (1) The Minister may from time to time (after consulting the Licensee) give to the Licensee instructions in writing as to the training of persons employed or to be employed, whether by the Licensee or by any other person, in any activity which is related to the exercise of the authorisation granted by this licence and the Licensee shall ensure that any instructions so given are complied with.
 
 (2) The Licensee shall furnish the Minister with such information relating to the training of persons referred to in paragraph (1) of this clause as the Minister may from time to time request.
 
-### 16. Licensee to keep records[^key-2ea6e2e2b5154fea67a7efe16a06e42e]
+### 16. Licensee to keep records[^c-2ea6e2e2b5154fea67a7efe16a06e42e]
 
 (1) The Licensee shall keep accurate records in a form from time to time approved by the Minister of the drilling, deepening, plugging or abandonment of all Wells and of any alterations in the casing of the Wells. Such records shall contain particulars of the following matters—
 
@@ -332,7 +332,7 @@ The Licensee shall not carry out any operations in or about the Licensed Area in
 - (a) within any time limit specified in the request; or
 - (b) if there is no time limit specified, within four weeks of the request.
 
-### 17. Returns[^key-c916d30c85b4b0d215affd5a625543df]
+### 17. Returns[^c-c916d30c85b4b0d215affd5a625543df]
 
 (1) The Licensee shall furnish the Minister with such information as the Minister may from time to time request about any of the activities authorised by this licence.
 
@@ -341,7 +341,7 @@ The Licensee shall not carry out any operations in or about the Licensed Area in
 - (a) within any time limit specified in the request; or
 - (b) if there is no time limit specified, within four weeks of the request.
 
-### 18. Licensee to keep samples[^key-122bb854ab584b2b8a3066ba5d055baa]
+### 18. Licensee to keep samples[^c-122bb854ab584b2b8a3066ba5d055baa]
 
 (1) As far as reasonably practicable the Licensee shall correctly label and preserve for reference for a period of five years samples of the sea bed and of the strata encountered in any Well and samples of any Petroleum or water discovered in any Well in the Licensed Area.
 
@@ -357,7 +357,7 @@ The Licensee shall not carry out any operations in or about the Licensed Area in
 
 (4) The Licensee shall forthwith comply with any request for the delivery of the whole or any part of any sample which is made in accordance with the preceding provisions of this clause.
 
-### 19. Reports to be treated as confidential[^key-9c4a680778352a1b7e530057a49c0924]
+### 19. Reports to be treated as confidential[^c-9c4a680778352a1b7e530057a49c0924]
 
 All records, returns, plans, maps, samples, accounts and information (in this clause referred to as “the specified data”) which the Licensee is or may from time to time be required to furnish under the provisions of this licence shall be supplied at the expense of the Licensee and shall not (except with the consent of the Licensee which shall not be unreasonably withheld) be disclosed to any person not in the service or employment of the Crown—
 
@@ -371,25 +371,25 @@ Provided that—
   - (ii) after the licence ceases to have effect, whether because of its termination or revocation or the expiry of the Licence Period; or
   - (iii) after the expiry of such longer period as the Minister may determine after considering any representations made to him by the Licensee about the publication of data in pursuance of this sub-paragraph.
 
-### 20. Inspection of records etc.[^key-83a786525ef0aa20c104a67981909aa2]
+### 20. Inspection of records etc.[^c-83a786525ef0aa20c104a67981909aa2]
 
 The Licensee shall—
 
 - (a) permit any person in the service or employment of the Crown who is appointed by the Minister for the purpose to inspect, and to take copies of and make notes from, all books, papers, maps and other records of any kind kept by the Licensee in pursuance of this licence or in connection with activities about which the Minister is entitled to obtain information in pursuance of clauses 15(2) and 17(1); and
 - (b) furnish that person at reasonable times with such information and provide him at reasonable times with such reasonable assistance as he may request in connection with or arising out of an inspection in pursuance of this clause.
 
-### 21. Power to execute works[^key-88749ef1f9e2e8ee7ef69ac8ebe4cef1]
+### 21. Power to execute works[^c-88749ef1f9e2e8ee7ef69ac8ebe4cef1]
 
 If the Licensee fails at any time to perform the obligations arising under any of clauses 9, 11 or 12, the Minister shall be entitled, after giving to the Licensee reasonable notice in writing, to execute any works and to provide and install any equipment which in the opinion of the Minister may be necessary to secure the performance of all or any of those obligations.
 
-### 22. Rights of access[^key-4a453cf5b0f13fcdee915034259c0aec]
+### 22. Rights of access[^c-4a453cf5b0f13fcdee915034259c0aec]
 
 Any person or persons authorised by the Minister shall be entitled at all reasonable times to enter into and upon any of the Licensee’s installations or equipment used or to be used in connection with an activity authorised by this licence—
 
 - (a) to examine the installations, Wells, plant, appliances and works made or executed by the Licensee in pursuance of this licence and the state of repair and condition thereof; and
 - (b) to execute any works or to provide and install any equipment which the Minister may be entitled to execute or provide and install in accordance with the provisions of this licence.
 
-### 23. Transfer of licence etc.[^key-2f3c4197cf850507ac9dabea2866ee8b]
+### 23. Transfer of licence etc.[^c-2f3c4197cf850507ac9dabea2866ee8b]
 
 The Licensee may, with the prior consent of the Minister—
 
@@ -398,7 +398,7 @@ The Licensee may, with the prior consent of the Minister—
 
 and in either case Schedule 1 shall be amended accordingly.
 
-### 24. Revocation of licence[^key-4efe4597c011f259026f3d8a935b7a54]
+### 24. Revocation of licence[^c-4efe4597c011f259026f3d8a935b7a54]
 
 (1) If any of the events specified in paragraph (3) occurs, or the conditions specified in paragraph (4) are satisfied, then the Minister may (by giving the Licensee notice in writing to that effect) revoke the licence with effect from the date specified in the notice.
 
@@ -437,7 +437,7 @@ and where two or more persons are the Licensee any reference to the Licensee in 
   - (ii) omit the words “and such attributions” onwards; and
   - (iii) in the other provisions of that subsection, any reference to an associate of a person is to be construed as including only a relative of that person (as defined by section 417(4) of the ICTA[^f00003]), a partner of that person, and a trustee of a settlement of which that person is a beneficiary.
 
-### 25. Power of partial revocation[^key-0e09692dc634719b4215d8b159e6d9ab]
+### 25. Power of partial revocation[^c-0e09692dc634719b4215d8b159e6d9ab]
 
 (1) This clause applies in a case where two or more persons are the Licensee and—
 
@@ -450,7 +450,7 @@ and where two or more persons are the Licensee any reference to the Licensee in 
 
 (4) Where this licence is terminated in relation to one person under this clause, it continues to have effect in respect of the other person who constitutes, or persons who together constitute, the Licensee and in relation to whom it is not terminated.
 
-### 26. Arbitration[^key-a783c1c94f3a44b0b0792c5eb8806850]
+### 26. Arbitration[^c-a783c1c94f3a44b0b0792c5eb8806850]
 
 (1) If at any time any dispute, difference or question shall arise between the Minister and the Licensee as to any matter arising under or by virtue of this licence or as to their respective rights and liabilities in respect thereof then the same shall, except where it is expressly provided by this licence that the matter or thing to which the same relates is to be determined, decided, directed, approved or consented to by the Minister, be referred to arbitration as provided by the following paragraphs.
 
@@ -465,7 +465,7 @@ and where two or more persons are the Licensee any reference to the Licensee in 
 
 (5) This clause does not affect the power of the Minister to institute (or authorise the institution) of criminal proceedings, to apply for an injunction, or to give any direction or notice, under any provision contained in Chapter 2 of Part 1 of the Energy Act 2008[^f00005].
 
-### 27. Ministry of Defence[^key-6a8768247df46e2e9b39668a18bfc5a0]
+### 27. Ministry of Defence[^c-6a8768247df46e2e9b39668a18bfc5a0]
 
 (1) The Licensee shall give the Ministry of Defence six months’ prior notice of any installation movements within the Licensed Area
 
@@ -473,7 +473,7 @@ and where two or more persons are the Licensee any reference to the Licensee in 
 
 (3) The Licensee shall at the Licensee’s own expense, install and maintain underwater sonar beacons to Ministry of Defence specifications on any structures that may be temporarily within the Licensed Area provided that there shall be no requirement to fit such beacons to fixed and charted installations.
 
-### 28. Relationship with fishing industry[^key-eec422e61b88418197a1f2e5baf70c93]
+### 28. Relationship with fishing industry[^c-eec422e61b88418197a1f2e5baf70c93]
 
 (1) The Licensee shall appoint a fisheries liaison officer who shall agree suitable arrangements with the seismic survey and supply vessel owners employed by the Licensee, their masters and the organisations or individuals which represent the local fishing industry in order to promote good working relationships between the various parties. The setting up of the arrangements shall be the responsibility of the Licensee. In particular the Licensee shall—
 
@@ -486,7 +486,7 @@ and where two or more persons are the Licensee any reference to the Licensee in 
 
 (3) Claims for damage to or loss of gear or loss of fishing time arising from reported debris shall be dealt with promptly by the Licensee.
 
-### 29. Discovery of Petroleum[^key-3e133ca6964edbde5b5ae3b91bc16298]
+### 29. Discovery of Petroleum[^c-3e133ca6964edbde5b5ae3b91bc16298]
 
 (1) This paragraph applies if paragraph (4) does not apply, and the Licensee—
 
@@ -532,77 +532,77 @@ Alternatively copies can be obtained from: Ricki Kiff, Energy Development Unit, 
 
 [^f00001]: Footnote: [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32).
 
-[^key-146ddc8314628f4b351d1b8f7f4f070e]: Commencement: Reg. 1 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-146ddc8314628f4b351d1b8f7f4f070e]: Commencement: Reg. 1 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-367c8c9f5d0feb03ae01ce1dfcbf5653]: Commencement: Reg. 2 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-367c8c9f5d0feb03ae01ce1dfcbf5653]: Commencement: Reg. 2 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-e57bb4b8167bb376034445ee2d8b9507]: Commencement: Reg. 3 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-e57bb4b8167bb376034445ee2d8b9507]: Commencement: Reg. 3 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-2d976c2e392f933c74a975d1089d4bff]: Commencement: Sch. para. 1 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-2d976c2e392f933c74a975d1089d4bff]: Commencement: Sch. para. 1 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-7d7c92961affc6d4600e8886248cb3ea]: Commencement: Sch. para. 2 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-7d7c92961affc6d4600e8886248cb3ea]: Commencement: Sch. para. 2 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-6dbc2c1bd46e368230d8b054fb543baf]: Commencement: Sch. para. 3 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-6dbc2c1bd46e368230d8b054fb543baf]: Commencement: Sch. para. 3 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-d0ce15eaa25f59a4a22a32cced67a061]: Commencement: Sch. para. 4 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-d0ce15eaa25f59a4a22a32cced67a061]: Commencement: Sch. para. 4 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-063d0e54096273ae444a7c556a4a6378]: Commencement: Sch. para. 5 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-063d0e54096273ae444a7c556a4a6378]: Commencement: Sch. para. 5 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-3131f06ac2e76de54dd633146bcf2375]: Commencement: Sch. para. 6 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-3131f06ac2e76de54dd633146bcf2375]: Commencement: Sch. para. 6 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-5b3c5a7e96ad97ae2569f66e84684f5f]: Commencement: Sch. para. 7 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-5b3c5a7e96ad97ae2569f66e84684f5f]: Commencement: Sch. para. 7 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-999daf5541adb2b4ff0c205bda82dcda]: Commencement: Sch. para. 8 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-999daf5541adb2b4ff0c205bda82dcda]: Commencement: Sch. para. 8 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-39059da8417434890d59e85d5597797d]: Commencement: Sch. para. 9 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-39059da8417434890d59e85d5597797d]: Commencement: Sch. para. 9 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-08b578d9014f9e0f59b8ee1440cda1d5]: Commencement: Sch. para. 10 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-08b578d9014f9e0f59b8ee1440cda1d5]: Commencement: Sch. para. 10 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-4a991f49d29d98cbd86e2e52fc814d92]: Commencement: Sch. para. 11 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-4a991f49d29d98cbd86e2e52fc814d92]: Commencement: Sch. para. 11 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-fadbc711a250b84c7210f70df3d4bbc5]: Commencement: Sch. para. 12 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-fadbc711a250b84c7210f70df3d4bbc5]: Commencement: Sch. para. 12 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-7275de728cd4755b3fc22b7b1689291e]: Commencement: Sch. para. 13 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-7275de728cd4755b3fc22b7b1689291e]: Commencement: Sch. para. 13 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-18fec115872fc6509e66984fc121c84a]: Commencement: Sch. para. 14 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-18fec115872fc6509e66984fc121c84a]: Commencement: Sch. para. 14 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-3640dfa9fb24440ea22f08355fd4b264]: Commencement: Sch. para. 15 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-3640dfa9fb24440ea22f08355fd4b264]: Commencement: Sch. para. 15 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-2ea6e2e2b5154fea67a7efe16a06e42e]: Commencement: Sch. para. 16 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-2ea6e2e2b5154fea67a7efe16a06e42e]: Commencement: Sch. para. 16 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-c916d30c85b4b0d215affd5a625543df]: Commencement: Sch. para. 17 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-c916d30c85b4b0d215affd5a625543df]: Commencement: Sch. para. 17 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-122bb854ab584b2b8a3066ba5d055baa]: Commencement: Sch. para. 18 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-122bb854ab584b2b8a3066ba5d055baa]: Commencement: Sch. para. 18 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-9c4a680778352a1b7e530057a49c0924]: Commencement: Sch. para. 19 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-9c4a680778352a1b7e530057a49c0924]: Commencement: Sch. para. 19 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-83a786525ef0aa20c104a67981909aa2]: Commencement: Sch. para. 20 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-83a786525ef0aa20c104a67981909aa2]: Commencement: Sch. para. 20 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-88749ef1f9e2e8ee7ef69ac8ebe4cef1]: Commencement: Sch. para. 21 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-88749ef1f9e2e8ee7ef69ac8ebe4cef1]: Commencement: Sch. para. 21 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-4a453cf5b0f13fcdee915034259c0aec]: Commencement: Sch. para. 22 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-4a453cf5b0f13fcdee915034259c0aec]: Commencement: Sch. para. 22 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-2f3c4197cf850507ac9dabea2866ee8b]: Commencement: Sch. para. 23 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-2f3c4197cf850507ac9dabea2866ee8b]: Commencement: Sch. para. 23 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-4efe4597c011f259026f3d8a935b7a54]: Commencement: Sch. para. 24 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-4efe4597c011f259026f3d8a935b7a54]: Commencement: Sch. para. 24 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
 [^f00002]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
 [^f00003]: Footnote: Section 417(4) was amended by [SI 2005/3229](https://www.legislation.gov.uk/uksi/2005/3229).
 
-[^key-0e09692dc634719b4215d8b159e6d9ab]: Commencement: Sch. para. 25 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-0e09692dc634719b4215d8b159e6d9ab]: Commencement: Sch. para. 25 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-a783c1c94f3a44b0b0792c5eb8806850]: Commencement: Sch. para. 26 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-a783c1c94f3a44b0b0792c5eb8806850]: Commencement: Sch. para. 26 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
 [^f00004]: Footnote: [SI 1987/2197](https://www.legislation.gov.uk/uksi/1987/2197).
 
 [^f00005]: Footnote: [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32).
 
-[^key-6a8768247df46e2e9b39668a18bfc5a0]: Commencement: Sch. para. 27 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-6a8768247df46e2e9b39668a18bfc5a0]: Commencement: Sch. para. 27 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-eec422e61b88418197a1f2e5baf70c93]: Commencement: Sch. para. 28 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-eec422e61b88418197a1f2e5baf70c93]: Commencement: Sch. para. 28 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
-[^key-3e133ca6964edbde5b5ae3b91bc16298]: Commencement: Sch. para. 29 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
+[^c-3e133ca6964edbde5b5ae3b91bc16298]: Commencement: Sch. para. 29 in force at 13.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2813/regulation/1/1)
 
 [^f00006]: Footnote: [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17).
 

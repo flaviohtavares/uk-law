@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10F. Emergency improvements[^key-b05e7b62e6cab1e664b0901e0b0d860f]
+## 10F. Emergency improvements[^c-b05e7b62e6cab1e664b0901e0b0d860f]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b05e7b62e6cab1e664b0901e0b0d860f]: Textual amendment: Ss. 10A-10F inserted (23.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 119(4)](https://www.legislation.gov.uk/asp/2016/18/section/119/4), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 10](https://www.legislation.gov.uk/ssi/2016/365/regulation/10), [11](https://www.legislation.gov.uk/ssi/2016/365/regulation/11))
+[^c-b05e7b62e6cab1e664b0901e0b0d860f]: Textual amendment: Ss. 10A-10F inserted (23.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 119(4)](https://www.legislation.gov.uk/asp/2016/18/section/119/4), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 10](https://www.legislation.gov.uk/ssi/2016/365/regulation/10), [11](https://www.legislation.gov.uk/ssi/2016/365/regulation/11))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Schedules[^key-6863f3a71d9611dc042802a7dd992736]
+## 70. Schedules[^c-6863f3a71d9611dc042802a7dd992736]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6863f3a71d9611dc042802a7dd992736]: Commencement: Art. 70 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-6863f3a71d9611dc042802a7dd992736]: Commencement: Art. 70 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)

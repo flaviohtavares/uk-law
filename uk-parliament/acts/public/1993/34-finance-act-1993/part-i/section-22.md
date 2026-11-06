@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Mutual recovery and disclosure of information.[^key-04c395b727b50f2e4e7cd78a4dc370cd]
+## 22. Mutual recovery and disclosure of information.[^c-04c395b727b50f2e4e7cd78a4dc370cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-04c395b727b50f2e4e7cd78a4dc370cd]: Textual amendment: [S. 22](https://www.legislation.gov.uk/ukpga/1993/34/section/22) repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 43 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/5/1)
+[^c-04c395b727b50f2e4e7cd78a4dc370cd]: Textual amendment: [S. 22](https://www.legislation.gov.uk/ukpga/1993/34/section/22) repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 43 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/5/1)

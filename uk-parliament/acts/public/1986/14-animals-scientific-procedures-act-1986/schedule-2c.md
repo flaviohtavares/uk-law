@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2C — CONDITIONS IN LICENCES[^key-ceca41ba3c4d5d007939dec2500218b3]
+## SCHEDULE 2C — CONDITIONS IN LICENCES[^c-ceca41ba3c4d5d007939dec2500218b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,9 +53,9 @@ Section 10(1)
 - (b) uses the minimum number of animals; and
 - (c) causes the minimum degree of pain, suffering, distress and lasting harm to the animals used.
 
-(3) The conditions included in a licence by virtue of this paragraph must be such as to ensure that any standard concerning installations and equipment which is set out in a relevant code of practice is met[^key-713d8fe6b82846061b62ab78e52e98d2].
+(3) The conditions included in a licence by virtue of this paragraph must be such as to ensure that any standard concerning installations and equipment which is set out in a relevant code of practice is met[^c-713d8fe6b82846061b62ab78e52e98d2].
 
-(4)[^key-f9f1eb890f05fdf55ba5ec14a96d9466] In sub-paragraph (3), “relevant code of practice” means a code of practice issued or approved under section 21 (as that code has effect from time to time).
+(4)[^c-f9f1eb890f05fdf55ba5ec14a96d9466] In sub-paragraph (3), “relevant code of practice” means a code of practice issued or approved under section 21 (as that code has effect from time to time).
 
 **5.** A section 2C licence must include such conditions as the Secretary of State considers appropriate to ensure—
 
@@ -66,14 +66,14 @@ Section 10(1)
 **6.** (1) A section 2C licence must include a condition requiring the holder to establish and maintain a body (to be known as an “Animal Welfare and Ethical Review Body”) which—
 
 - (a) consists of the persons mentioned in sub-paragraph (2) and such other persons as are determined in accordance with the licence; and
-- (b) carries out the tasks mentioned in sub-paragraph (2A)[^key-1b546d1a71c913d6c50d91b5d5893e64] and such other advisory and reviewing tasks as are specified in the licence.
+- (b) carries out the tasks mentioned in sub-paragraph (2A)[^c-1b546d1a71c913d6c50d91b5d5893e64] and such other advisory and reviewing tasks as are specified in the licence.
 
 (2) The persons referred to in sub-paragraph (1)(a) are—
 
 - (a) the persons specified in the section 2C licence in pursuance of paragraphs (a) and (b) of section 2C(5); and
 - (b) in a case where the section 2C licence authorises the holder to carry on an undertaking that involves the applying of regulated procedures to protected animals, a person with such scientific credentials as are specified in the licence.
 
-(2A)[^key-8ef29d403ca3049756c5d83855b4ad1b] The tasks referred to in sub-paragraph (1)(b) are—
+(2A)[^c-8ef29d403ca3049756c5d83855b4ad1b] The tasks referred to in sub-paragraph (1)(b) are—
 
 - (a) advising the staff dealing with animals on matters related to the welfare of animals, so far as relating to their acquisition, accommodation, care and use;
 - (b) advising the staff on the application of the principles of replacement, reduction and refinement, and keeping them informed of technical and scientific developments concerning the application of those principles;
@@ -87,13 +87,13 @@ Section 10(1)
 
 **7.** A section 2C licence which authorises the holder to carry on an undertaking which involves the activity mentioned in section 2B(2)(b) must include such conditions as the Secretary of State considers appropriate to ensure that primates are not bred at the place specified in the licence unless the holder of the licence has in place a strategy for increasing the proportion of primates bred from primates bred in captivity.
 
-**8.** (1)[^key-4316ca3cca80f30ea98f752fa13bfe1d] A section 2C licence must include conditions requiring the holder—
+**8.** (1)[^c-4316ca3cca80f30ea98f752fa13bfe1d] A section 2C licence must include conditions requiring the holder—
 
-- (a) to maintain records of the information mentioned in sub-paragraph (2)[^key-0d27822165a09a7513d3684f7a34f527];
+- (a) to maintain records of the information mentioned in sub-paragraph (2)[^c-0d27822165a09a7513d3684f7a34f527];
 - (b) to retain any such record for a period determined in accordance with the licence (being a period of at least five years); and
 - (c) to make any such record that is being retained available to the Secretary of State upon request.
 
-(2)[^key-33e5f752d33813418a10d53e3cf0df7c] The information referred to in sub-paragraph (1)(a) is—
+(2)[^c-33e5f752d33813418a10d53e3cf0df7c] The information referred to in sub-paragraph (1)(a) is—
 
 - (a) the origin of each of the animals kept in the place specified in the licence;
 - (b) the number and species of animals that have been—
@@ -149,9 +149,9 @@ Section 10(1)
 - (e) that the well-being and state of health of such animals is monitored by a suitably qualified person in order to prevent pain or avoidable suffering, distress or lasting harm; and
 - (f) that arrangements are made to ensure that any defect discovered and any avoidable pain, suffering, distress or lasting harm discovered is eliminated as quickly as possible.
 
-(2) The conditions included in a section 2C licence under sub-paragraph (1) must include conditions which ensure that at least any standard concerning the care and accommodation of animals which is set out in a relevant code of practice is met[^key-fbfc388e74bfa181a8174ef0ae3e6c43].
+(2) The conditions included in a section 2C licence under sub-paragraph (1) must include conditions which ensure that at least any standard concerning the care and accommodation of animals which is set out in a relevant code of practice is met[^c-fbfc388e74bfa181a8174ef0ae3e6c43].
 
-(3)[^key-dd5de78dce6810d4711b0da0eeb2a074] In sub-paragraph (2) “relevant code of practice” means a code of practice issued or approved under section 21 (as that code has effect from time to time).
+(3)[^c-dd5de78dce6810d4711b0da0eeb2a074] In sub-paragraph (2) “relevant code of practice” means a code of practice issued or approved under section 21 (as that code has effect from time to time).
 
 (4) The conditions included in a section 2C licence by virtue of sub-paragraph (1)(a) and (2) do not have effect in so far as compliance with them would—
 
@@ -162,8 +162,8 @@ Section 10(1)
 
 **12.** A section 2C licence must include conditions requiring the holder to give any necessary assistance to—
 
-- (a) inspectors carrying out visits by virtue of section 18(2A)(b); [^key-d25747c2ddc1ced6dbcedab520ba9916]...
-- (b)[^key-d25747c2ddc1ced6dbcedab520ba9916] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) inspectors carrying out visits by virtue of section 18(2A)(b); [^c-d25747c2ddc1ced6dbcedab520ba9916]...
+- (b)[^c-d25747c2ddc1ced6dbcedab520ba9916] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 2 — Conditions in personal licences
 
@@ -189,8 +189,8 @@ Section 10(1)
 
 **16.** A personal licence must include conditions requiring the holder to give any necessary assistance to—
 
-- (a) inspectors carrying out visits by virtue of section 18(2A)(b); [^key-d06a805f073bff1f6c32342d3f3bde6f]...
-- (b)[^key-d06a805f073bff1f6c32342d3f3bde6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) inspectors carrying out visits by virtue of section 18(2A)(b); [^c-d06a805f073bff1f6c32342d3f3bde6f]...
+- (b)[^c-d06a805f073bff1f6c32342d3f3bde6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 3 — Conditions in project licences
 
@@ -219,9 +219,9 @@ Section 10(1)
 - (a) death as the end point of the procedure is avoided as far as possible and is replaced by an early and humane end point;
 - (b) as soon as the purpose of the procedure has been achieved, the procedure is stopped and appropriate action is taken to minimise the suffering of the animal.
 
-**23.** (1) A project licence must include a condition requiring the holder to ensure that where a regulated procedure has been applied to an animal as part of the specified programme of work a suitably qualified person classifies the severity of the procedure as “non-recovery”, “mild”, “moderate” or “severe” [^key-18cd1288a2987faf05886b1e9f00c8a1]....
+**23.** (1) A project licence must include a condition requiring the holder to ensure that where a regulated procedure has been applied to an animal as part of the specified programme of work a suitably qualified person classifies the severity of the procedure as “non-recovery”, “mild”, “moderate” or “severe” [^c-18cd1288a2987faf05886b1e9f00c8a1]....
 
-(1A)[^key-99186981a1746676af966d8ae35f6405] Section 5BA applies for the purposes of sub-paragraph (1) as it applies for the purposes of section 5B(3)(c), but as if the reference in section 5BA(5) to the Secretary of State were a reference to the suitably qualified person mentioned in sub-paragraph (1).
+(1A)[^c-99186981a1746676af966d8ae35f6405] Section 5BA applies for the purposes of sub-paragraph (1) as it applies for the purposes of section 5B(3)(c), but as if the reference in section 5BA(5) to the Secretary of State were a reference to the suitably qualified person mentioned in sub-paragraph (1).
 
 (2) For the purposes of this paragraph, a series of regulated procedures applied to an animal for a particular purpose is to be treated as constituting a single regulated procedure.
 
@@ -259,14 +259,14 @@ Section 10(1)
 - (b) the colony consists only of animals that have been bred in captivity; and
 - (c) the colony is sustained only by animals being bred within the colony or animals being sourced from other colonies that meet paragraphs (a) and (b).
 
-**26.** (1) A project licence must include such conditions as the Secretary of State considers appropriate to ensure that regulated procedures are not applied to an animal as part of the specified programme of work if the data to be obtained from the application of those procedures is already available [^key-d14e8214d14be7f68b0245005eb14385]... and has been obtained [^key-31606c4d6644964ff63c551b0efb9cd9]... by procedures which satisfy any relevant regulatory requirements [^key-66bd1c9711afe39ede2944c7b47d574b]....
+**26.** (1) A project licence must include such conditions as the Secretary of State considers appropriate to ensure that regulated procedures are not applied to an animal as part of the specified programme of work if the data to be obtained from the application of those procedures is already available [^c-d14e8214d14be7f68b0245005eb14385]... and has been obtained [^c-31606c4d6644964ff63c551b0efb9cd9]... by procedures which satisfy any relevant regulatory requirements [^c-66bd1c9711afe39ede2944c7b47d574b]....
 
 (2) A project licence may include exemptions from the conditions included in it by virtue of sub-paragraph (1) if the Secretary of State considers the exemptions are justified for the protection of public health, safety or the environment.
 
 **27.** A project licence must include conditions requiring the holder to give any necessary assistance to—
 
-- (a) inspectors carrying out visits by virtue of section 18(2A)(b); [^key-5c62c2841c3230df3bc921c18fec8b3b]...
-- (b)[^key-5c62c2841c3230df3bc921c18fec8b3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) inspectors carrying out visits by virtue of section 18(2A)(b); [^c-5c62c2841c3230df3bc921c18fec8b3b]...
+- (b)[^c-5c62c2841c3230df3bc921c18fec8b3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **28.** A project licence must include a condition to the effect that if the holder becomes aware of a failure to comply with any of the other conditions of the licence the holder must—
 
@@ -275,38 +275,38 @@ Section 10(1)
 
 ## Annotations
 
-[^key-ceca41ba3c4d5d007939dec2500218b3]: Textual amendment: Sch. 2C inserted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/10/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3039/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
+[^c-ceca41ba3c4d5d007939dec2500218b3]: Textual amendment: Sch. 2C inserted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/10/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3039/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
 
-[^key-713d8fe6b82846061b62ab78e52e98d2]: Textual amendment: Words in Sch. 2C para. 4(3) substituted (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [11(a)(i)](https://www.legislation.gov.uk/uksi/2026/663/regulation/11/a/i)
+[^c-713d8fe6b82846061b62ab78e52e98d2]: Textual amendment: Words in Sch. 2C para. 4(3) substituted (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [11(a)(i)](https://www.legislation.gov.uk/uksi/2026/663/regulation/11/a/i)
 
-[^key-f9f1eb890f05fdf55ba5ec14a96d9466]: Textual amendment: Sch. 2C para. 4(4) substituted (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [11(a)(ii)](https://www.legislation.gov.uk/uksi/2026/663/regulation/11/a/ii)
+[^c-f9f1eb890f05fdf55ba5ec14a96d9466]: Textual amendment: Sch. 2C para. 4(4) substituted (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [11(a)(ii)](https://www.legislation.gov.uk/uksi/2026/663/regulation/11/a/ii)
 
-[^key-1b546d1a71c913d6c50d91b5d5893e64]: Textual amendment: Words in Sch. 2C para. 6(1)(b) substituted (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [11(b)(i)](https://www.legislation.gov.uk/uksi/2026/663/regulation/11/b/i)
+[^c-1b546d1a71c913d6c50d91b5d5893e64]: Textual amendment: Words in Sch. 2C para. 6(1)(b) substituted (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [11(b)(i)](https://www.legislation.gov.uk/uksi/2026/663/regulation/11/b/i)
 
-[^key-8ef29d403ca3049756c5d83855b4ad1b]: Textual amendment: Sch. 2C para. 6(2A) inserted (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [11(b)(ii)](https://www.legislation.gov.uk/uksi/2026/663/regulation/11/b/ii)
+[^c-8ef29d403ca3049756c5d83855b4ad1b]: Textual amendment: Sch. 2C para. 6(2A) inserted (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [11(b)(ii)](https://www.legislation.gov.uk/uksi/2026/663/regulation/11/b/ii)
 
-[^key-4316ca3cca80f30ea98f752fa13bfe1d]: Textual amendment: Sch. 2C para. 8 renumbered as Sch. 2C para. 8(1) (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [11(c)(i)](https://www.legislation.gov.uk/uksi/2026/663/regulation/11/c/i)
+[^c-4316ca3cca80f30ea98f752fa13bfe1d]: Textual amendment: Sch. 2C para. 8 renumbered as Sch. 2C para. 8(1) (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [11(c)(i)](https://www.legislation.gov.uk/uksi/2026/663/regulation/11/c/i)
 
-[^key-0d27822165a09a7513d3684f7a34f527]: Textual amendment: Words in Sch. 2C para. 8(1)(a) substituted (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [11(c)(ii)](https://www.legislation.gov.uk/uksi/2026/663/regulation/11/c/ii)
+[^c-0d27822165a09a7513d3684f7a34f527]: Textual amendment: Words in Sch. 2C para. 8(1)(a) substituted (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [11(c)(ii)](https://www.legislation.gov.uk/uksi/2026/663/regulation/11/c/ii)
 
-[^key-33e5f752d33813418a10d53e3cf0df7c]: Textual amendment: Sch. 2C para. 8(2) inserted (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [11(c)(iii)](https://www.legislation.gov.uk/uksi/2026/663/regulation/11/c/iii)
+[^c-33e5f752d33813418a10d53e3cf0df7c]: Textual amendment: Sch. 2C para. 8(2) inserted (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [11(c)(iii)](https://www.legislation.gov.uk/uksi/2026/663/regulation/11/c/iii)
 
-[^key-fbfc388e74bfa181a8174ef0ae3e6c43]: Textual amendment: Words in Sch. 2C para. 11(2) substituted (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [11(d)(i)](https://www.legislation.gov.uk/uksi/2026/663/regulation/11/d/i)
+[^c-fbfc388e74bfa181a8174ef0ae3e6c43]: Textual amendment: Words in Sch. 2C para. 11(2) substituted (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [11(d)(i)](https://www.legislation.gov.uk/uksi/2026/663/regulation/11/d/i)
 
-[^key-dd5de78dce6810d4711b0da0eeb2a074]: Textual amendment: Sch. 2C para. 11(3) substituted (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [11(d)(ii)](https://www.legislation.gov.uk/uksi/2026/663/regulation/11/d/ii)
+[^c-dd5de78dce6810d4711b0da0eeb2a074]: Textual amendment: Sch. 2C para. 11(3) substituted (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [11(d)(ii)](https://www.legislation.gov.uk/uksi/2026/663/regulation/11/d/ii)
 
-[^key-d25747c2ddc1ced6dbcedab520ba9916]: Textual amendment: Sch. 2C para. 12(b) and word omitted (31.12.2020) by virtue of [The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72)](https://www.legislation.gov.uk/uksi/2019/72), [regs. 1](https://www.legislation.gov.uk/uksi/2019/72/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2019/72/regulation/2/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d25747c2ddc1ced6dbcedab520ba9916]: Textual amendment: Sch. 2C para. 12(b) and word omitted (31.12.2020) by virtue of [The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72)](https://www.legislation.gov.uk/uksi/2019/72), [regs. 1](https://www.legislation.gov.uk/uksi/2019/72/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2019/72/regulation/2/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d06a805f073bff1f6c32342d3f3bde6f]: Textual amendment: Sch. 2C para. 16(b) and word omitted (31.12.2020) by virtue of [The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72)](https://www.legislation.gov.uk/uksi/2019/72), [regs. 1](https://www.legislation.gov.uk/uksi/2019/72/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2019/72/regulation/2/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d06a805f073bff1f6c32342d3f3bde6f]: Textual amendment: Sch. 2C para. 16(b) and word omitted (31.12.2020) by virtue of [The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72)](https://www.legislation.gov.uk/uksi/2019/72), [regs. 1](https://www.legislation.gov.uk/uksi/2019/72/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2019/72/regulation/2/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-18cd1288a2987faf05886b1e9f00c8a1]: Textual amendment: Words in Sch. 2C para. 23(1) omitted (19.6.2026) by virtue of [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [11(e)(i)](https://www.legislation.gov.uk/uksi/2026/663/regulation/11/e/i)
+[^c-18cd1288a2987faf05886b1e9f00c8a1]: Textual amendment: Words in Sch. 2C para. 23(1) omitted (19.6.2026) by virtue of [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [11(e)(i)](https://www.legislation.gov.uk/uksi/2026/663/regulation/11/e/i)
 
-[^key-99186981a1746676af966d8ae35f6405]: Textual amendment: Sch. 2C para. 23(1A) inserted (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [11(e)(ii)](https://www.legislation.gov.uk/uksi/2026/663/regulation/11/e/ii)
+[^c-99186981a1746676af966d8ae35f6405]: Textual amendment: Sch. 2C para. 23(1A) inserted (19.6.2026) by [The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663)](https://www.legislation.gov.uk/uksi/2026/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/663/regulation/1/1), [11(e)(ii)](https://www.legislation.gov.uk/uksi/2026/663/regulation/11/e/ii)
 
-[^key-d14e8214d14be7f68b0245005eb14385]: Textual amendment: Words in [Sch. 2C para. 26(1)](https://www.legislation.gov.uk/ukpga/1986/14/schedule/2C/paragraph/26/1) omitted (31.12.2020) by virtue of [The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72)](https://www.legislation.gov.uk/uksi/2019/72), [regs. 1](https://www.legislation.gov.uk/uksi/2019/72/regulation/1), [2(6)(c)(i)](https://www.legislation.gov.uk/uksi/2019/72/regulation/2/6/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d14e8214d14be7f68b0245005eb14385]: Textual amendment: Words in [Sch. 2C para. 26(1)](https://www.legislation.gov.uk/ukpga/1986/14/schedule/2C/paragraph/26/1) omitted (31.12.2020) by virtue of [The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72)](https://www.legislation.gov.uk/uksi/2019/72), [regs. 1](https://www.legislation.gov.uk/uksi/2019/72/regulation/1), [2(6)(c)(i)](https://www.legislation.gov.uk/uksi/2019/72/regulation/2/6/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-31606c4d6644964ff63c551b0efb9cd9]: Textual amendment: Word in [Sch. 2C para. 26(1)](https://www.legislation.gov.uk/ukpga/1986/14/schedule/2C/paragraph/26/1) omitted (31.12.2020) by virtue of [The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72)](https://www.legislation.gov.uk/uksi/2019/72), [regs. 1](https://www.legislation.gov.uk/uksi/2019/72/regulation/1), [2(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/72/regulation/2/6/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-31606c4d6644964ff63c551b0efb9cd9]: Textual amendment: Word in [Sch. 2C para. 26(1)](https://www.legislation.gov.uk/ukpga/1986/14/schedule/2C/paragraph/26/1) omitted (31.12.2020) by virtue of [The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72)](https://www.legislation.gov.uk/uksi/2019/72), [regs. 1](https://www.legislation.gov.uk/uksi/2019/72/regulation/1), [2(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/72/regulation/2/6/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-66bd1c9711afe39ede2944c7b47d574b]: Textual amendment: Words in [Sch. 2C para. 26(1)](https://www.legislation.gov.uk/ukpga/1986/14/schedule/2C/paragraph/26/1) omitted (31.12.2020) by virtue of [The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72)](https://www.legislation.gov.uk/uksi/2019/72), [regs. 1](https://www.legislation.gov.uk/uksi/2019/72/regulation/1), [2(6)(c)(iii)](https://www.legislation.gov.uk/uksi/2019/72/regulation/2/6/c/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-66bd1c9711afe39ede2944c7b47d574b]: Textual amendment: Words in [Sch. 2C para. 26(1)](https://www.legislation.gov.uk/ukpga/1986/14/schedule/2C/paragraph/26/1) omitted (31.12.2020) by virtue of [The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72)](https://www.legislation.gov.uk/uksi/2019/72), [regs. 1](https://www.legislation.gov.uk/uksi/2019/72/regulation/1), [2(6)(c)(iii)](https://www.legislation.gov.uk/uksi/2019/72/regulation/2/6/c/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5c62c2841c3230df3bc921c18fec8b3b]: Textual amendment: Sch. 2C para. 27(b) and word omitted (31.12.2020) by virtue of [The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72)](https://www.legislation.gov.uk/uksi/2019/72), [regs. 1](https://www.legislation.gov.uk/uksi/2019/72/regulation/1), [2(6)(d)](https://www.legislation.gov.uk/uksi/2019/72/regulation/2/6/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5c62c2841c3230df3bc921c18fec8b3b]: Textual amendment: Sch. 2C para. 27(b) and word omitted (31.12.2020) by virtue of [The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72)](https://www.legislation.gov.uk/uksi/2019/72), [regs. 1](https://www.legislation.gov.uk/uksi/2019/72/regulation/1), [2(6)(d)](https://www.legislation.gov.uk/uksi/2019/72/regulation/2/6/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

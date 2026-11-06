@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c13479231][^key-eef3a6c5e97ee17bdb8c67f97344d0a6]
+## 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c13479231][^c-eef3a6c5e97ee17bdb8c67f97344d0a6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 [^c13479231]: Textual amendment: S. 10 repealed by [Health and Social Services and Social Security Adjudications Act 1983 (c. 41, SIF 113:3)](https://www.legislation.gov.uk/ukpga/1983/41), [ss. 9](https://www.legislation.gov.uk/ukpga/1983/41/section/9), [30](https://www.legislation.gov.uk/ukpga/1983/41/section/30), [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/1983/41/schedule/2/paragraph/30), [Sch. 10 Pt. I](https://www.legislation.gov.uk/ukpga/1983/41/schedule/10/part/I)
 
-[^key-eef3a6c5e97ee17bdb8c67f97344d0a6]: Textual amendment: Ss. 1-37 repealed (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) (with [Sch. 4 paras. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/2), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2897/article/2/b)
+[^c-eef3a6c5e97ee17bdb8c67f97344d0a6]: Textual amendment: Ss. 1-37 repealed (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) (with [Sch. 4 paras. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/2), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2897/article/2/b)

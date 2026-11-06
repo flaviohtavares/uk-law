@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 225V. Receipts arising from decommissioning[^key-0213b579c0b0123deac213fde4493da4]
+## 225V. Receipts arising from decommissioning[^c-0213b579c0b0123deac213fde4493da4]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ This is subject to subsection (5).
 
 ## Annotations
 
-[^key-0213b579c0b0123deac213fde4493da4]: Textual amendment: S. 225V and cross-heading inserted (with effect in accordance with Sch. 31 para. 23 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 31 para. 22](https://www.legislation.gov.uk/ukpga/2013/29/schedule/31/paragraph/22)
+[^c-0213b579c0b0123deac213fde4493da4]: Textual amendment: S. 225V and cross-heading inserted (with effect in accordance with Sch. 31 para. 23 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 31 para. 22](https://www.legislation.gov.uk/ukpga/2013/29/schedule/31/paragraph/22)

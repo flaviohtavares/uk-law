@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Additional provider parties of a framework agreement during its term[^key-1f4724df39ca4591990b45e3139dbd99]
+## 17. Additional provider parties of a framework agreement during its term[^c-1f4724df39ca4591990b45e3139dbd99]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f4724df39ca4591990b45e3139dbd99]: Commencement: Reg. 17 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-1f4724df39ca4591990b45e3139dbd99]: Commencement: Reg. 17 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)

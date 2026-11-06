@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## F7. Revision of certain elections[^key-95d6661c6c680ba63d4a02b66544027f]
+## F7. Revision of certain elections[^c-95d6661c6c680ba63d4a02b66544027f]
 
 *Extent: E+W+S*
 
@@ -41,6 +41,6 @@ he or his personal representatives may elect that the period which he is or is d
 
 ## Annotations
 
-[^key-95d6661c6c680ba63d4a02b66544027f]: Commencement: [Reg. F7](https://www.legislation.gov.uk/uksi/1986/24/regulation/F7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-95d6661c6c680ba63d4a02b66544027f]: Commencement: [Reg. F7](https://www.legislation.gov.uk/uksi/1986/24/regulation/F7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00053]: Footnote: [S.I. 1979/2](https://www.legislation.gov.uk/uksi/1979/2).

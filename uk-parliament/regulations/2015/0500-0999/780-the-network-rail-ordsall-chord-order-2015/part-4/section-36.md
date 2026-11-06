@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Power to operate and use railway[^key-c581622c76f49a911d8f7e8c2d3d0c12]
+## 36. Power to operate and use railway[^c-c581622c76f49a911d8f7e8c2d3d0c12]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c581622c76f49a911d8f7e8c2d3d0c12]: Commencement: Art. 36 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
+[^c-c581622c76f49a911d8f7e8c2d3d0c12]: Commencement: Art. 36 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
 
 [^f00036]: Footnote: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).

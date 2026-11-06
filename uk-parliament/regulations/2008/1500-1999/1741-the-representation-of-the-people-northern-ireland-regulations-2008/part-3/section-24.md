@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The registration officer may require any person to give such information or documentation as is required for the purposes of that officer’s duties in maintaining registers of parliamentary and local electors except where these Regulations specify the information or documentation that a registration officer may require[^key-f56c65ae1ca4c17d43e063eb84d1a501].
+(1) The registration officer may require any person to give such information or documentation as is required for the purposes of that officer’s duties in maintaining registers of parliamentary and local electors except where these Regulations specify the information or documentation that a registration officer may require[^c-f56c65ae1ca4c17d43e063eb84d1a501].
 
 (2) The registration officer may specify the form in which any information required under paragraph (1) is to be provided.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f56c65ae1ca4c17d43e063eb84d1a501]: Textual amendment: Words in [reg. 24(1)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/24/1) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/43)](https://www.legislation.gov.uk/uksi/2024/43), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2024/43/regulation/9)
+[^c-f56c65ae1ca4c17d43e063eb84d1a501]: Textual amendment: Words in [reg. 24(1)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/24/1) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/43)](https://www.legislation.gov.uk/uksi/2024/43), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2024/43/regulation/9)

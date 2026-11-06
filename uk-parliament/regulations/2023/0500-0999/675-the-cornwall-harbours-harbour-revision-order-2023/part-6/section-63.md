@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Boarding of vessels or vehicles[^key-b9cb90118c3453fa1bb3fd9be1a7506b]
+## 63. Boarding of vessels or vehicles[^c-b9cb90118c3453fa1bb3fd9be1a7506b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A duly authorised officer of the Council may, on producing their authority if so
 
 ## Annotations
 
-[^key-b9cb90118c3453fa1bb3fd9be1a7506b]: Commencement: Art. 63 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-b9cb90118c3453fa1bb3fd9be1a7506b]: Commencement: Art. 63 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

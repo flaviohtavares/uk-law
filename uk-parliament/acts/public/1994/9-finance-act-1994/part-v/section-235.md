@@ -25,9 +25,9 @@ summary: ''
 - (a) for the words “oil consisting of gas” there shall be substituted “ oil ”;
 - (b) for the word “gas”, in each place where it subsequently occurs, there shall be substituted “ oil ”;
 - (c) for the words “for delivery at a place” there shall be substituted “ or another country for delivery at another place in or ”; and
-- (d)[^key-9371329293d151c45409296f46fca74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-9371329293d151c45409296f46fca74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-96c86ac1708e0d895a5a533860e26177] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-96c86ac1708e0d895a5a533860e26177] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In Schedule 10 to the [^c14456951]Finance Act 1987 (nomination scheme for disposals and appropriations of oil), in paragraph 4 (timing of nominations)—
 
@@ -44,8 +44,8 @@ summary: ''
 
 [^c14456941]: Marginal citation: [1975 c. 22](https://www.legislation.gov.uk/ukpga/1975/22).
 
-[^key-9371329293d151c45409296f46fca74f]: Textual amendment: [S. 235(1)(d)](https://www.legislation.gov.uk/ukpga/1994/9/section/235/1/d) repealed (19.7.2006) (with effect in accordance with Sch. 26 Pt. 5(1) Note 2 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/5/1)
+[^c-9371329293d151c45409296f46fca74f]: Textual amendment: [S. 235(1)(d)](https://www.legislation.gov.uk/ukpga/1994/9/section/235/1/d) repealed (19.7.2006) (with effect in accordance with Sch. 26 Pt. 5(1) Note 2 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/5/1)
 
-[^key-96c86ac1708e0d895a5a533860e26177]: Textual amendment: [S. 235(2)](https://www.legislation.gov.uk/ukpga/1994/9/section/235/2) repealed (19.7.2006) (with effect in accordance with Sch. 26 Pt. 5(1) Note 2 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/5/1)
+[^c-96c86ac1708e0d895a5a533860e26177]: Textual amendment: [S. 235(2)](https://www.legislation.gov.uk/ukpga/1994/9/section/235/2) repealed (19.7.2006) (with effect in accordance with Sch. 26 Pt. 5(1) Note 2 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/5/1)
 
 [^c14456951]: Marginal citation: [1987 c. 16](https://www.legislation.gov.uk/ukpga/1987/16).

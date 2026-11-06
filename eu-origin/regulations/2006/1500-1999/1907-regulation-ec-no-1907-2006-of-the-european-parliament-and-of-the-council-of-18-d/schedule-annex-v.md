@@ -55,7 +55,7 @@ Minerals, ores, ore concentrates, raw and processed natural gas, crude oil, coal
 
 8\.
 
-Substances which occur in nature other than those listed under paragraph 7, if they are not chemically modified, unless they meet the criteria for classification as hazardous[^key-f0ebd8131988e313444c93380c62b89e] according to Regulation (EC) No 1272/2008 or unless they are persistent, bioaccumulative and toxic or very persistent and very bioaccumulative in accordance with the criteria set out in Annex XIII or unless they were identified in accordance with Article 59(1) at least two years previously as substances giving rise to an equivalent level of concern as set out in Article 57(f).
+Substances which occur in nature other than those listed under paragraph 7, if they are not chemically modified, unless they meet the criteria for classification as hazardous[^c-f0ebd8131988e313444c93380c62b89e] according to Regulation (EC) No 1272/2008 or unless they are persistent, bioaccumulative and toxic or very persistent and very bioaccumulative in accordance with the criteria set out in Annex XIII or unless they were identified in accordance with Article 59(1) at least two years previously as substances giving rise to an equivalent level of concern as set out in Article 57(f).
 
 9\.
 
@@ -91,6 +91,6 @@ Hydrogen and oxygen.
 
 [^c000002]: Textual amendment: Substituted by [Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2008/1272).
 
-[^key-f0ebd8131988e313444c93380c62b89e]: Textual amendment: Word in [Annex 5 para. 8](https://www.legislation.gov.uk/eur/2006/1907/annex/V/paragraph/8) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2019/758/schedule/3/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f0ebd8131988e313444c93380c62b89e]: Textual amendment: Word in [Annex 5 para. 8](https://www.legislation.gov.uk/eur/2006/1907/annex/V/paragraph/8) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2019/758/schedule/3/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000015]: Textual amendment: Substituted by [Commission Regulation (EU) 2019/1691 of 9 October 2019 amending Annex V to Regulation (EC) No 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/1691).

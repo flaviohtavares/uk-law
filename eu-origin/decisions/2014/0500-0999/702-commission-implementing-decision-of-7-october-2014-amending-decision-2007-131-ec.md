@@ -37,67 +37,67 @@ amending Decision 2007/131/EC on allowing the use of the radio spectrum for equi
 
 (2014/702/EU) (revoked)
 
-[^key-b5e20e7b64c3db912cd56e18da1dcd7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b5e20e7b64c3db912cd56e18da1dcd7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-b5e20e7b64c3db912cd56e18da1dcd7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-b5e20e7b64c3db912cd56e18da1dcd7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-b5e20e7b64c3db912cd56e18da1dcd7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-b5e20e7b64c3db912cd56e18da1dcd7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-b5e20e7b64c3db912cd56e18da1dcd7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-b5e20e7b64c3db912cd56e18da1dcd7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b5e20e7b64c3db912cd56e18da1dcd7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b5e20e7b64c3db912cd56e18da1dcd7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-b5e20e7b64c3db912cd56e18da1dcd7a]
+## ANNEX[^c-b5e20e7b64c3db912cd56e18da1dcd7a]
 
-[^key-b5e20e7b64c3db912cd56e18da1dcd7a]1.
+[^c-b5e20e7b64c3db912cd56e18da1dcd7a]1.
 
 GENERIC UWB USAGE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b5e20e7b64c3db912cd56e18da1dcd7a]2.
+[^c-b5e20e7b64c3db912cd56e18da1dcd7a]2.
 
 LOCATION TRACKING SYSTEMS TYPE 1 (LT1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b5e20e7b64c3db912cd56e18da1dcd7a]3.
+[^c-b5e20e7b64c3db912cd56e18da1dcd7a]3.
 
 UWB DEVICES INSTALLED IN ROAD AND RAIL VEHICLES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b5e20e7b64c3db912cd56e18da1dcd7a]4.
+[^c-b5e20e7b64c3db912cd56e18da1dcd7a]4.
 
 UWB ONBOARD AIRCRAFT
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b5e20e7b64c3db912cd56e18da1dcd7a]5.
+[^c-b5e20e7b64c3db912cd56e18da1dcd7a]5.
 
 MATERIAL SENSING DEVICES USING UWB TECHNOLOGY
 
-[^key-b5e20e7b64c3db912cd56e18da1dcd7a]5.1.
+[^c-b5e20e7b64c3db912cd56e18da1dcd7a]5.1.
 
 **Material sensing devices**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b5e20e7b64c3db912cd56e18da1dcd7a]5.2.
+[^c-b5e20e7b64c3db912cd56e18da1dcd7a]5.2.
 
 Building material analysis devices (BMA)
 
-[^key-b5e20e7b64c3db912cd56e18da1dcd7a]1.
+[^c-b5e20e7b64c3db912cd56e18da1dcd7a]1.
 
 BMA Devices permitted under this Decision shall fulfil the following requirements:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b5e20e7b64c3db912cd56e18da1dcd7a]2.
+[^c-b5e20e7b64c3db912cd56e18da1dcd7a]2.
 
 Emissions radiating from BMA devices shall be kept to a minimum and in any case not exceed the maximum power limits within the table below with the BMA device on a representative wall as defined within ETSI Standards EN 302 435-1 and EN 302 498-2.
 
@@ -105,4 +105,4 @@ Emissions radiating from BMA devices shall be kept to a minimum and in any case 
 
 ## Annotations
 
-[^key-b5e20e7b64c3db912cd56e18da1dcd7a]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/34); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b5e20e7b64c3db912cd56e18da1dcd7a]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/34); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

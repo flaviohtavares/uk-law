@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Fee for further copy of written statement to be a permitted payment[^key-20de962f464ee574bc315d98ed74eac4]
+## 16. Fee for further copy of written statement to be a permitted payment[^c-20de962f464ee574bc315d98ed74eac4]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20de962f464ee574bc315d98ed74eac4]: Commencement: [S. 16](https://www.legislation.gov.uk/asc/2021/3/section/16) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)
+[^c-20de962f464ee574bc315d98ed74eac4]: Commencement: [S. 16](https://www.legislation.gov.uk/asc/2021/3/section/16) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)

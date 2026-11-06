@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Amendment of regulation 76 (obligation in relation to product information)[^M_I_55a3b3b3-fa37-405f-f099-d3b17258571b][^key-7854ff9a104acbaf2744bcbc65eb845f]
+## 84. Amendment of regulation 76 (obligation in relation to product information)[^M_I_55a3b3b3-fa37-405f-f099-d3b17258571b][^c-7854ff9a104acbaf2744bcbc65eb845f]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ For regulation 76(2), substitute—
 
 [^M_I_55a3b3b3-fa37-405f-f099-d3b17258571b]: Commencement: Reg. 84 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-7854ff9a104acbaf2744bcbc65eb845f]: Textual amendment: Reg. 84 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 61](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/61)
+[^c-7854ff9a104acbaf2744bcbc65eb845f]: Textual amendment: Reg. 84 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 61](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/61)

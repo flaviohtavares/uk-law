@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Arrangements for vaccination and immunisation[^key-948771a45f53db06e17c26499c865fac]
+## 4. Arrangements for vaccination and immunisation[^c-948771a45f53db06e17c26499c865fac]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-948771a45f53db06e17c26499c865fac]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2022/8/section/4) in force at 24.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-948771a45f53db06e17c26499c865fac]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2022/8/section/4) in force at 24.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

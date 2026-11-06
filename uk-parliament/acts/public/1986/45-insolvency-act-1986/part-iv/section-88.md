@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Avoidance of share transfers, etc. after winding-up resolution.[^c18367521][^c20464761][^key-f76ad1d6328bb8c50eb30a556afe8012]
+## 88. Avoidance of share transfers, etc. after winding-up resolution.[^c18367521][^c20464761][^c-f76ad1d6328bb8c50eb30a556afe8012]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Any transfer of shares, not being a transfer made to or with the sanction of the
 
 [^c20464761]: Modification: S. 88 excluded by [The Financial Market and Insolvency (Settlement Finality) Regulations 1999 (S.I. 1999/2979)](https://www.legislation.gov.uk/uksi/1999/2979), [reg. 16(3)](https://www.legislation.gov.uk/uksi/1999/2979/regulation/16/3) (as amended (2.2.2006) by [The Financial Markets and Insolvency (Settlement Finality) (Amendment) Regulations 2006 (S.I. 2006/50)](https://www.legislation.gov.uk/uksi/2006/50), [reg. 2(8)(10)](https://www.legislation.gov.uk/uksi/2006/50/regulation/2/8/10) and as amended (1.10.2009) by [The Financial Markets and Insolvency (Settlement Finality) (Amendment) Regulations 2009 (S.I. 2009/1972)](https://www.legislation.gov.uk/uksi/2009/1972), [reg. 6(a)](https://www.legislation.gov.uk/uksi/2009/1972/regulation/6/a))
 
-[^key-f76ad1d6328bb8c50eb30a556afe8012]: Modification: S. 88 excluded (E.W.) (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2019/138/regulation/11) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/a/ii))
+[^c-f76ad1d6328bb8c50eb30a556afe8012]: Modification: S. 88 excluded (E.W.) (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2019/138/regulation/11) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/a/ii))

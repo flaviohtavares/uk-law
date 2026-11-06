@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE A1 — Information to be contained in a recovery plan or group recovery plan[^key-acdf6a736bb5ab1e5bf4a47758ab3415]
+## SCHEDULE A1 — Information to be contained in a recovery plan or group recovery plan[^c-acdf6a736bb5ab1e5bf4a47758ab3415]
 
 *Extent: E+W+S+N.I.*
 
@@ -83,4 +83,4 @@ Articles 7(3), 13(1) & 19(2)
 
 ## Annotations
 
-[^key-acdf6a736bb5ab1e5bf4a47758ab3415]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/uksi/2014/3348/schedule/A1) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 116](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/116); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-acdf6a736bb5ab1e5bf4a47758ab3415]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/uksi/2014/3348/schedule/A1) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 116](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/116); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

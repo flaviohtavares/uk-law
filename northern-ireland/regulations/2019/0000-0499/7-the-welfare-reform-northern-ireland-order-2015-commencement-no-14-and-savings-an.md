@@ -39,7 +39,7 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
 
 Those powers are exercisable by the Secretary of State by virtue of Article 4(1)(a) of the Welfare Reform (Northern Ireland) Order 2015.
 
-## 1. Citation and interpretation[^key-2abe022adf9f0d3f8c00994eb35632b3]
+## 1. Citation and interpretation[^c-2abe022adf9f0d3f8c00994eb35632b3]
 
 (1) This Order may be cited as the Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 14 and Savings and Transitional Provisions) Order 2019.
 
@@ -62,9 +62,9 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 - “UC provisions” means the provisions of the Order listed in Schedule 1 to the No. 8 Order;
 - “UC single claimant” means a single claimant as defined in Article 46 of the Order.
 
-(3)[^key-3fc3b8d4a32c094e858e67e21655f508] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3fc3b8d4a32c094e858e67e21655f508] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointed day – coming into force of universal credit provisions and abolition of income-related employment and support allowance and income-based jobseeker’s allowance[^key-620ca43cf5a34d500d649c550c8a118c]
+## 2. Appointed day – coming into force of universal credit provisions and abolition of income-related employment and support allowance and income-based jobseeker’s allowance[^c-620ca43cf5a34d500d649c550c8a118c]
 
 (1) The day appointed for the coming into force of the UC provisions, in so far as they are not already in force, in relation to the case of a claim referred to in paragraph (2) and any award that is made in respect of the claim, is the day appointed in accordance with paragraph (3).
 
@@ -95,7 +95,7 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 
 (10) Article 24 of the No. 8 Order applies as though the reference in paragraph (1) of that Article to Article 4(3) and (4)(a) of that Order included a reference to paragraphs (1) and (2).
 
-(11)[^key-90ee3dd7a07f3a2e8bde0ddd5ea19bd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-90ee3dd7a07f3a2e8bde0ddd5ea19bd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) Articles 10 to 23 of the No. 8 Order apply in connection with the coming into force of the provisions referred to in Article 6(1)(a) to (c) of the No. 8 Order, in relation to the case of a claim referred to in paragraph (6), and any award made in respect of the claim, as they apply in connection with the coming into force of those provisions in relation to the case of a claim referred to in Article 6(2) of the No. 8 Order and any award that is made in respect of the claim.
 
@@ -126,7 +126,7 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 
   a claim for an employment and support allowance or a jobseeker’s allowance is treated as made at a date that is earlier than the date on which the action referred to in sub-paragraph (f)(i) is taken, the claim is treated as made on that earlier date.
 
-## 3. Amendment of the No. 8 Order[^key-64148e296cce9ab111177eafc914ac84]
+## 3. Amendment of the No. 8 Order[^c-64148e296cce9ab111177eafc914ac84]
 
 (1) With effect from 1st February 2019, the No. 8 Order is amended in accordance with paragraph (2) and (3).
 
@@ -176,7 +176,7 @@ Article 3 of the Order makes changes, consequential on Article 2, to the No. 8 O
 
 [^f00001]: Footnote: [S.I. 2015/2006 (N.I.)](https://www.legislation.gov.uk/nisi/2015/2006).
 
-[^key-2abe022adf9f0d3f8c00994eb35632b3]: Commencement: Art. 1 in operation at 31.1.2019
+[^c-2abe022adf9f0d3f8c00994eb35632b3]: Commencement: Art. 1 in operation at 31.1.2019
 
 [^f00002]: Footnote: [S.R. 2017 No. 190 (C. 11)](https://www.legislation.gov.uk/nisr/2017/190).
 
@@ -196,11 +196,11 @@ Article 3 of the Order makes changes, consequential on Article 2, to the No. 8 O
 
 [^f00010]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705).
 
-[^key-3fc3b8d4a32c094e858e67e21655f508]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/nisr/2019/7/article/1/3) omitted (30.3.2022) by virtue of [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 16 and Commencement No. 8, 13 and 14 and Transitional and Transitory Provisions (Amendment)) Order (Northern Ireland) 2022 (S.R. 2022/132)](https://www.legislation.gov.uk/nisr/2022/132), [art. 4(1)](https://www.legislation.gov.uk/nisr/2022/132/article/4/1)[(3)](https://www.legislation.gov.uk/nisr/2022/132/article/4/3)
+[^c-3fc3b8d4a32c094e858e67e21655f508]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/nisr/2019/7/article/1/3) omitted (30.3.2022) by virtue of [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 16 and Commencement No. 8, 13 and 14 and Transitional and Transitory Provisions (Amendment)) Order (Northern Ireland) 2022 (S.R. 2022/132)](https://www.legislation.gov.uk/nisr/2022/132), [art. 4(1)](https://www.legislation.gov.uk/nisr/2022/132/article/4/1)[(3)](https://www.legislation.gov.uk/nisr/2022/132/article/4/3)
 
-[^key-620ca43cf5a34d500d649c550c8a118c]: Commencement: Art. 2 in operation at 31.1.2019
+[^c-620ca43cf5a34d500d649c550c8a118c]: Commencement: Art. 2 in operation at 31.1.2019
 
-[^key-90ee3dd7a07f3a2e8bde0ddd5ea19bd0]: Textual amendment: [Art. 2(11)](https://www.legislation.gov.uk/nisr/2019/7/article/2/11) omitted (30.3.2022) by virtue of [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 16 and Commencement No. 8, 13 and 14 and Transitional and Transitory Provisions (Amendment)) Order (Northern Ireland) 2022 (S.R. 2022/132)](https://www.legislation.gov.uk/nisr/2022/132), [art. 4(1)](https://www.legislation.gov.uk/nisr/2022/132/article/4/1)[(4)](https://www.legislation.gov.uk/nisr/2022/132/article/4/4)
+[^c-90ee3dd7a07f3a2e8bde0ddd5ea19bd0]: Textual amendment: [Art. 2(11)](https://www.legislation.gov.uk/nisr/2019/7/article/2/11) omitted (30.3.2022) by virtue of [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 16 and Commencement No. 8, 13 and 14 and Transitional and Transitory Provisions (Amendment)) Order (Northern Ireland) 2022 (S.R. 2022/132)](https://www.legislation.gov.uk/nisr/2022/132), [art. 4(1)](https://www.legislation.gov.uk/nisr/2022/132/article/4/1)[(4)](https://www.legislation.gov.uk/nisr/2022/132/article/4/4)
 
 [^f00012]: Footnote: [2007 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2007/2).
 
@@ -216,7 +216,7 @@ Article 3 of the Order makes changes, consequential on Article 2, to the No. 8 O
 
 [^f00018]: Footnote: Regulation 6 (4ZA) to (4ZD) was inserted by regulation 2(5)(c) of [S.R. 2000 No. 365](https://www.legislation.gov.uk/nisr/2000/365) and amended by regulation 2(6)(d) of [S.R. 2009 No. 240](https://www.legislation.gov.uk/nisr/2009/240); regulation 6(4A) was inserted by regulation 2(5)(c) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354) and substituted by regulation 3(4)(d) of [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156) and amended by regulation 2(4)(b)(i) and (ii) of [S.R. 2000 No. 365](https://www.legislation.gov.uk/nisr/2000/365), paragraph 2(4) of Schedule 2 to [S.R. 2001 No. 175](https://www.legislation.gov.uk/nisr/2001/175) and regulation 2(6)(e) of [S.R. 2009 No. 240](https://www.legislation.gov.uk/nisr/2009/240).
 
-[^key-64148e296cce9ab111177eafc914ac84]: Commencement: Art. 3 in operation at 31.1.2019
+[^c-64148e296cce9ab111177eafc914ac84]: Commencement: Art. 3 in operation at 31.1.2019
 
 [^f00019]: Footnote: Article 8(1) was amended by regulation 3(2) of [S.R. 2019 No. 2](https://www.legislation.gov.uk/nisr/2019/2).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Orders under section 31: procedure[^key-4d096cc99314dfbb0acea5a06163be82]
+## 32. Orders under section 31: procedure[^c-4d096cc99314dfbb0acea5a06163be82]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d096cc99314dfbb0acea5a06163be82]: Commencement: [S. 32](https://www.legislation.gov.uk/mwa/2009/2/section/32) in force at 17.7.2009 by [S.I. 2009/1796](https://www.legislation.gov.uk/wsi/2009/1796), [art. 2(l)](https://www.legislation.gov.uk/wsi/2009/1796/article/2/l)
+[^c-4d096cc99314dfbb0acea5a06163be82]: Commencement: [S. 32](https://www.legislation.gov.uk/mwa/2009/2/section/32) in force at 17.7.2009 by [S.I. 2009/1796](https://www.legislation.gov.uk/wsi/2009/1796), [art. 2(l)](https://www.legislation.gov.uk/wsi/2009/1796/article/2/l)

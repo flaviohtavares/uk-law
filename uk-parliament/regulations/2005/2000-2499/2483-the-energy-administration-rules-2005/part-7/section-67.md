@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Payments of dividends and related matters[^key-d99cbc50f79d856fa728f4c76e29ac8d]
+## 67. Payments of dividends and related matters[^c-d99cbc50f79d856fa728f4c76e29ac8d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d99cbc50f79d856fa728f4c76e29ac8d]: Commencement: Rule 67 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-d99cbc50f79d856fa728f4c76e29ac8d]: Commencement: Rule 67 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

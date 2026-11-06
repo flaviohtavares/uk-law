@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 132. Calculation of grant income[^key-485b0e8cb4f5a0d326e5044dd3b7835a]
+## 132. Calculation of grant income[^c-485b0e8cb4f5a0d326e5044dd3b7835a]
 
 *Extent: N.I.*
 
@@ -33,12 +33,12 @@ summary: ''
 - (g) intended to meet travel expenses incurred as a result of the student’s attendance on the course;
 - (h) intended for the maintenance of a child dependant;
 - (i) intended for the child care costs of a child dependant.
-- (j)[^key-beef55f1ef2e6f49cd054968ff88d7f8] of higher education bursary for care leavers made under Part III of the Children Act 1989 or under Part 6 of the Social Services and Well-being (Wales) Act 2014[^key-3d4b1b44eafaf7a562f2689bc2faa03c].
+- (j)[^c-beef55f1ef2e6f49cd054968ff88d7f8] of higher education bursary for care leavers made under Part III of the Children Act 1989 or under Part 6 of the Social Services and Well-being (Wales) Act 2014[^c-3d4b1b44eafaf7a562f2689bc2faa03c].
 
-(3) Where a student does not have a student loan or a postgraduate loan[^key-c2961b197390fa4a054397407ddd2615] and is not treated as possessing a student loan or a postgraduate loan[^key-3d0a175110d4113797ec7eb3654483ce] , there is to be excluded from the student’s grant income—
+(3) Where a student does not have a student loan or a postgraduate loan[^c-c2961b197390fa4a054397407ddd2615] and is not treated as possessing a student loan or a postgraduate loan[^c-3d0a175110d4113797ec7eb3654483ce] , there is to be excluded from the student’s grant income—
 
-- (a) the sum of £295[^key-7515a9c19f81f57c3a4e0cb127a8d780] per academic year in respect of travel costs; and
-- (b) the sum of £390[^key-97e5c19be52b45f1206ae8f9701dede8] per academic year towards the costs of books and equipment,
+- (a) the sum of £295[^c-7515a9c19f81f57c3a4e0cb127a8d780] per academic year in respect of travel costs; and
+- (b) the sum of £390[^c-97e5c19be52b45f1206ae8f9701dede8] per academic year towards the costs of books and equipment,
 
 whether or not any such costs are incurred.
 
@@ -55,16 +55,16 @@ whether or not any such costs are incurred.
 
 ## Annotations
 
-[^key-485b0e8cb4f5a0d326e5044dd3b7835a]: Commencement: [Reg. 132](https://www.legislation.gov.uk/nisr/2008/280/regulation/132) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-485b0e8cb4f5a0d326e5044dd3b7835a]: Commencement: [Reg. 132](https://www.legislation.gov.uk/nisr/2008/280/regulation/132) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
-[^key-beef55f1ef2e6f49cd054968ff88d7f8]: Textual amendment: [Reg. 132(2)(j)](https://www.legislation.gov.uk/nisr/2008/280/regulation/132/2/j) added (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [8(7)](https://www.legislation.gov.uk/nisr/2009/92/regulation/8/7)
+[^c-beef55f1ef2e6f49cd054968ff88d7f8]: Textual amendment: [Reg. 132(2)(j)](https://www.legislation.gov.uk/nisr/2008/280/regulation/132/2/j) added (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [8(7)](https://www.legislation.gov.uk/nisr/2009/92/regulation/8/7)
 
-[^key-3d4b1b44eafaf7a562f2689bc2faa03c]: Textual amendment: Words in [reg. 132(2)(j)](https://www.legislation.gov.uk/nisr/2008/280/regulation/132/2/j) inserted (18.9.2018) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/149)](https://www.legislation.gov.uk/nisr/2018/149), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/149/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2018/149/regulation/5)
+[^c-3d4b1b44eafaf7a562f2689bc2faa03c]: Textual amendment: Words in [reg. 132(2)(j)](https://www.legislation.gov.uk/nisr/2008/280/regulation/132/2/j) inserted (18.9.2018) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/149)](https://www.legislation.gov.uk/nisr/2018/149), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/149/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2018/149/regulation/5)
 
-[^key-c2961b197390fa4a054397407ddd2615]: Textual amendment: Words in [reg. 132(3)](https://www.legislation.gov.uk/nisr/2008/280/regulation/132/3) inserted (15.7.2020) by [The Social Security (Income and Capital) (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/108)](https://www.legislation.gov.uk/nisr/2020/108), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/108/regulation/1/1), [7(7)(a)](https://www.legislation.gov.uk/nisr/2020/108/regulation/7/7/a)
+[^c-c2961b197390fa4a054397407ddd2615]: Textual amendment: Words in [reg. 132(3)](https://www.legislation.gov.uk/nisr/2008/280/regulation/132/3) inserted (15.7.2020) by [The Social Security (Income and Capital) (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/108)](https://www.legislation.gov.uk/nisr/2020/108), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/108/regulation/1/1), [7(7)(a)](https://www.legislation.gov.uk/nisr/2020/108/regulation/7/7/a)
 
-[^key-3d0a175110d4113797ec7eb3654483ce]: Textual amendment: Words in [reg. 132(3)](https://www.legislation.gov.uk/nisr/2008/280/regulation/132/3) substituted (15.7.2020) by [The Social Security (Income and Capital) (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/108)](https://www.legislation.gov.uk/nisr/2020/108), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/108/regulation/1/1), [7(7)(b)](https://www.legislation.gov.uk/nisr/2020/108/regulation/7/7/b)
+[^c-3d0a175110d4113797ec7eb3654483ce]: Textual amendment: Words in [reg. 132(3)](https://www.legislation.gov.uk/nisr/2008/280/regulation/132/3) substituted (15.7.2020) by [The Social Security (Income and Capital) (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/108)](https://www.legislation.gov.uk/nisr/2020/108), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/108/regulation/1/1), [7(7)(b)](https://www.legislation.gov.uk/nisr/2020/108/regulation/7/7/b)
 
-[^key-7515a9c19f81f57c3a4e0cb127a8d780]: Textual amendment: Sum in [Reg. 132(3)(a)](https://www.legislation.gov.uk/nisr/2008/280/regulation/132/3/a) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/413)](https://www.legislation.gov.uk/nisr/2008/413), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/413/regulation/1/1), [3(23)(a)](https://www.legislation.gov.uk/nisr/2008/413/regulation/3/23/a)
+[^c-7515a9c19f81f57c3a4e0cb127a8d780]: Textual amendment: Sum in [Reg. 132(3)(a)](https://www.legislation.gov.uk/nisr/2008/280/regulation/132/3/a) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/413)](https://www.legislation.gov.uk/nisr/2008/413), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/413/regulation/1/1), [3(23)(a)](https://www.legislation.gov.uk/nisr/2008/413/regulation/3/23/a)
 
-[^key-97e5c19be52b45f1206ae8f9701dede8]: Textual amendment: Sum in [Reg. 132(3)](https://www.legislation.gov.uk/nisr/2008/280/regulation/132/3) substituted (1.8.2009 for specified purposes, 1.9.2009 in so far as not already in operation) by [The Social Security (Students and Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/261)](https://www.legislation.gov.uk/nisr/2009/261), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/261/regulation/1/2), [2(2)](https://www.legislation.gov.uk/nisr/2009/261/regulation/2/2)[(3)(d)](https://www.legislation.gov.uk/nisr/2009/261/regulation/2/3/d)
+[^c-97e5c19be52b45f1206ae8f9701dede8]: Textual amendment: Sum in [Reg. 132(3)](https://www.legislation.gov.uk/nisr/2008/280/regulation/132/3) substituted (1.8.2009 for specified purposes, 1.9.2009 in so far as not already in operation) by [The Social Security (Students and Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/261)](https://www.legislation.gov.uk/nisr/2009/261), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/261/regulation/1/2), [2(2)](https://www.legislation.gov.uk/nisr/2009/261/regulation/2/2)[(3)(d)](https://www.legislation.gov.uk/nisr/2009/261/regulation/2/3/d)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The Department[^key-9bbab106e7f31a90e425a460fa0d8d51] shall, in accordance with regulations, make arrangements [^key-fd749ed2aa0811ca7db0ba7b629416c2]... with medical practitioners having the prescribed qualifications, and opthalmic opticians for securing the testing[^c23366281] by them of the sight—[^c23366301]
+(1) The Department[^c-9bbab106e7f31a90e425a460fa0d8d51] shall, in accordance with regulations, make arrangements [^c-fd749ed2aa0811ca7db0ba7b629416c2]... with medical practitioners having the prescribed qualifications, and opthalmic opticians for securing the testing[^c23366281] by them of the sight—[^c23366301]
 
 - (a)[^c23366321] of a child;
 - (b) of a person whose resources fall to be treated under the regulations as being less than his requirements or as being equal to his requirements; or
@@ -30,16 +30,16 @@ and the services provided in accordance with such arrangements are in this Order
 
 (2) Subject to paragraph (3), regulations may make provision as to the arrangements to be made under this Article, and shall include provision—
 
-- (a)[^key-91fd8cc5346174c7dc5a68d1fd655906] for the preparation and publication of lists of medical practitioners, and ophthalmic opticians respectively, who undertake to provide general ophthalmic services;
+- (a)[^c-91fd8cc5346174c7dc5a68d1fd655906] for the preparation and publication of lists of medical practitioners, and ophthalmic opticians respectively, who undertake to provide general ophthalmic services;
 - (b) for conferring a right, subject to any provision made under Article 64C and to the provisions of this Order relating to the disqualification of persons providing services, on any medical practitioner having the prescribed qualifications or ophthalmic optician who wishes to be included in the appropriate list, to be so included;
-- (c) for conferring on any medical practitioner, who is dissatisfied with a determination that he or she does not possess the qualifications prescribed under this Article, a right of appeal to a prescribed body, and[^key-066c4369136a33c14601194c73a59cab] for any matter for which it appears to the Department to be necessary or expedient to make provision in consequence of the conferring of that right;
+- (c) for conferring on any medical practitioner, who is dissatisfied with a determination that he or she does not possess the qualifications prescribed under this Article, a right of appeal to a prescribed body, and[^c-066c4369136a33c14601194c73a59cab] for any matter for which it appears to the Department to be necessary or expedient to make provision in consequence of the conferring of that right;
 - (d) for conferring on any person a right to choose, in accordance with the prescribed procedure, the medical practitioner or ophthalmic optician by whom his sight is to be tested or from whom any prescription for the supply of optical appliances is to be obtained[^c23366421]. . . ;
 
 *Sub-para. (e) rep. by 1984 NI 8*
 
 - (f)[^c23366431] for \[[^c23366441] the determination of\] the remuneration of persons providing or participating in the provision of general ophthalmic services.
 
-(2A)[^key-2fb0064b439c45ed8acd69a321585737] Regulations making provision for any matter which appears to theDepartment to be necessary or expedient in consequence of the right of appeal referred to in paragraph (2)(c), may in particular make provision—
+(2A)[^c-2fb0064b439c45ed8acd69a321585737] Regulations making provision for any matter which appears to theDepartment to be necessary or expedient in consequence of the right of appeal referred to in paragraph (2)(c), may in particular make provision—
 
 - (a) as to the members of the body, including the terms and conditions of their appointment;
 - (b) for the payment of fees and allowances to members of the body.
@@ -94,9 +94,9 @@ as a testing of sight under this Order.
 
 ## Annotations
 
-[^key-9bbab106e7f31a90e425a460fa0d8d51]: Textual amendment: Words in [art. 62(1)](https://www.legislation.gov.uk/nisi/1972/1265/article/62/1) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 32(2)(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/32/2/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-9bbab106e7f31a90e425a460fa0d8d51]: Textual amendment: Words in [art. 62(1)](https://www.legislation.gov.uk/nisi/1972/1265/article/62/1) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 32(2)(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/32/2/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-fd749ed2aa0811ca7db0ba7b629416c2]: Textual amendment: Words in [art. 62(1)](https://www.legislation.gov.uk/nisi/1972/1265/article/62/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 32(2)(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/32/2/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-fd749ed2aa0811ca7db0ba7b629416c2]: Textual amendment: Words in [art. 62(1)](https://www.legislation.gov.uk/nisi/1972/1265/article/62/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 32(2)(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/32/2/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c23366281]: Textual amendment: [1984 NI 8](https://www.legislation.gov.uk/nisi/1984)
 
@@ -104,9 +104,9 @@ as a testing of sight under this Order.
 
 [^c23366321]: Textual amendment: [1988 NI 24](https://www.legislation.gov.uk/nisi/1988)
 
-[^key-91fd8cc5346174c7dc5a68d1fd655906]: Textual amendment: Art. 62(2)(a)-(c) inserted (13.6.2016) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [ss. 10(1)](https://www.legislation.gov.uk/nia/2016/26/section/10/1), [20(2)](https://www.legislation.gov.uk/nia/2016/26/section/20/2)
+[^c-91fd8cc5346174c7dc5a68d1fd655906]: Textual amendment: Art. 62(2)(a)-(c) inserted (13.6.2016) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [ss. 10(1)](https://www.legislation.gov.uk/nia/2016/26/section/10/1), [20(2)](https://www.legislation.gov.uk/nia/2016/26/section/20/2)
 
-[^key-066c4369136a33c14601194c73a59cab]: Textual amendment: Words in [art. 62(2)(c)](https://www.legislation.gov.uk/nisi/1972/1265/article/62/2/c) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 32(3)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/32/3); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-066c4369136a33c14601194c73a59cab]: Textual amendment: Words in [art. 62(2)(c)](https://www.legislation.gov.uk/nisi/1972/1265/article/62/2/c) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 32(3)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/32/3); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c23366421]: Textual amendment: [1984 NI 8](https://www.legislation.gov.uk/nisi/1984)
 
@@ -114,7 +114,7 @@ as a testing of sight under this Order.
 
 [^c23366441]: Textual amendment: [1978 NI 26](https://www.legislation.gov.uk/nisi/1978)
 
-[^key-2fb0064b439c45ed8acd69a321585737]: Textual amendment: [Art. 62(2A)](https://www.legislation.gov.uk/nisi/1972/1265/article/62/2A) inserted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 32(4)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/32/4); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-2fb0064b439c45ed8acd69a321585737]: Textual amendment: [Art. 62(2A)](https://www.legislation.gov.uk/nisi/1972/1265/article/62/2A) inserted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 32(4)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/32/4); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c23366451]: Textual amendment: [1984 NI 8](https://www.legislation.gov.uk/nisi/1984)
 

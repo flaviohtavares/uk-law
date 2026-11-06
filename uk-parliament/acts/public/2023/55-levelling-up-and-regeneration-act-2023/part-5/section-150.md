@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Expiry of Part 5[^key-26cdb808f590ed66f1cdfed1a14d5f53]
+## 150. Expiry of Part 5[^c-26cdb808f590ed66f1cdfed1a14d5f53]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26cdb808f590ed66f1cdfed1a14d5f53]: Commencement: S. 150 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)
+[^c-26cdb808f590ed66f1cdfed1a14d5f53]: Commencement: S. 150 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)

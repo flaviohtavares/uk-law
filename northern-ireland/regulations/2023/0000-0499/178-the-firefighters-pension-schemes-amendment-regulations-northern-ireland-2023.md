@@ -48,11 +48,11 @@ In accordance with section 21 of that Act, the Department has consulted the repr
 
 In accordance with section 3(5) of that Act, the Department of Finance[^f00003] has consented to the making of these Regulations.
 
-## 1. Citation and commencement[^key-85099a0db3885a73535853ed3eacf920]
+## 1. Citation and commencement[^c-85099a0db3885a73535853ed3eacf920]
 
 These Regulations may be cited as the Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 and comes into operation on 31st October 2023.
 
-## 2. Amendment to the Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^key-71403fc7f954f61fd140a36a65914692]
+## 2. Amendment to the Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^c-71403fc7f954f61fd140a36a65914692]
 
 (1) The Annex to the Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^f00004] shall be amended as follows.
 
@@ -61,7 +61,7 @@ These Regulations may be cited as the Firefighters’ Pension Schemes (Amendment
 - (a) in sub-paragraph (a), for “1st July 2000”, substitute “7th April 2000”;
 - (b) in sub-paragraph (b), for “1st July 2000”, substitute “7th April 2000”.
 
-## 3. Amendment to the New Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^key-653c1685afea6c6e03b0405a9abccdf6]
+## 3. Amendment to the New Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^c-653c1685afea6c6e03b0405a9abccdf6]
 
 The Annex to the New Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^f00005] shall be amended in accordance with the Schedule.
 
@@ -87,7 +87,7 @@ Department of Finance
 
 Regulation 3
 
-### 1. Amendment to Part 1[^key-a3d3d4d84e5f3da533afdb8ac79680fe]
+### 1. Amendment to Part 1[^c-a3d3d4d84e5f3da533afdb8ac79680fe]
 
 (1) Part 1 (citation and interpretation) is amended as follows.
 
@@ -127,7 +127,7 @@ Regulation 3
   ;
 - (f) in the definition of “special membership”, after “special firefighter member,” insert “connected special member,”.
 
-### 2. Amendment of Part 2[^key-35e9f484c70c15bcd206ddb8ffb7d5c3]
+### 2. Amendment of Part 2[^c-35e9f484c70c15bcd206ddb8ffb7d5c3]
 
 (1) Part 2 (scheme membership, cessation and retirement) is amended as follows.
 
@@ -136,7 +136,7 @@ Regulation 3
 - (a) in paragraph (7)(b), for “1st July 2000” substitute “7th April 2000”;
 - (b) in paragraph (11)(b), for “1st July 2000” substitute “7th April 2000”.
 
-### 3. Amendment of Part 3[^key-fce597abffdb66dd042dbe81000f0012]
+### 3. Amendment of Part 3[^c-fce597abffdb66dd042dbe81000f0012]
 
 (1) Part 3 (personal awards) is amended as follows.
 
@@ -166,7 +166,7 @@ Regulation 3
 
 .
 
-### 4. Amendment of Part 5[^key-40039025e5d4280ad729efda8c45b9fd]
+### 4. Amendment of Part 5[^c-40039025e5d4280ad729efda8c45b9fd]
 
 (1) Part 5 (awards on death) is amended as follows.
 
@@ -262,7 +262,7 @@ Regulation 3
 
 .
 
-### 5. Amendment of Part 10[^key-c7466ec3f45fb1318962b814ac66fef3]
+### 5. Amendment of Part 10[^c-c7466ec3f45fb1318962b814ac66fef3]
 
 (1) Part 10 (qualifying service and pensionable service) is amended as follows.
 
@@ -276,7 +276,7 @@ Regulation 3
 - (a) in paragraph (1)(b), after “the limited period”, in both places it occurs, insert “or extended limited period”;
 - (b) in paragraph (3), after “the limited period”, insert “or extended limited period”.
 
-### 6. Amendment of Part 11[^key-5a4f6b127261507cc9583f29b2e6f14e]
+### 6. Amendment of Part 11[^c-5a4f6b127261507cc9583f29b2e6f14e]
 
 (1) Part 11 (pensionable pay, pension contributions and purchase of additional service) is amended as follows.
 
@@ -482,7 +482,7 @@ Regulation 3
 
 .
 
-### 7. Amendment of Part 12[^key-af39d6eff038aa4dc599a71f47d22f73]
+### 7. Amendment of Part 12[^c-af39d6eff038aa4dc599a71f47d22f73]
 
 (1) Part 12 (transfers into and out of the scheme) is amended as follows.
 
@@ -576,11 +576,11 @@ Regulation 3
 
 .
 
-### 8. Amendments to Part 14[^key-7daa54d9e63133d12aa5d2de2f440b4b]
+### 8. Amendments to Part 14[^c-7daa54d9e63133d12aa5d2de2f440b4b]
 
 In Part 14 (payment of awards), in article 97 (pensions under more than one contract), in paragraph (3), after “article 65A(5)”, insert “(purchase of service during the limited period) or article 65B(9) (purchase of service during the extended limited period)”.
 
-### 9. Amendment of Schedule 1[^key-0bc5fa5518097250fbc1446f12ebfcf2]
+### 9. Amendment of Schedule 1[^c-0bc5fa5518097250fbc1446f12ebfcf2]
 
 In Schedule 1 (ill health pensions), in paragraph 3C, after “of Part 11”, insert “or, if a notice has been given under article 65B(13) of that Part, set out in that notice”.
 
@@ -618,36 +618,36 @@ A full impact assessment has not been produced for these Regulations as no impac
 
 [^f00003]: Footnote: Formerly the Department of Finance and Personnel, see [2016 c.5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-85099a0db3885a73535853ed3eacf920]: Commencement: Reg. 1 in operation at 31.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1)
+[^c-85099a0db3885a73535853ed3eacf920]: Commencement: Reg. 1 in operation at 31.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1)
 
-[^key-71403fc7f954f61fd140a36a65914692]: Commencement: Reg. 2 in operation at 31.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1)
+[^c-71403fc7f954f61fd140a36a65914692]: Commencement: Reg. 2 in operation at 31.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2007 No. 144](https://www.legislation.gov.uk/nisr/2007/144), amended by [S.R 2008 No. 382](https://www.legislation.gov.uk/nisr/2008/382), [S.R. 2012 No. 161](https://www.legislation.gov.uk/nisr/2012/161), [S.R. 2013 No. 85](https://www.legislation.gov.uk/nisr/2013/85), [S.R. 2014 No. 56](https://www.legislation.gov.uk/nisr/2014/56) and No. [169](https://www.legislation.gov.uk/nisr/2014/169), [S.R. 2015 No.8](https://www.legislation.gov.uk/nisr/2015/8), No. [11](https://www.legislation.gov.uk/nisr/2015/11), No. [420](https://www.legislation.gov.uk/nisr/2015/420) and No. [421](https://www.legislation.gov.uk/nisr/2015/421), [S.R. 2019 No. 109](https://www.legislation.gov.uk/nisr/2019/109) and [S.R. 2022 No. 155](https://www.legislation.gov.uk/nisr/2022/155).
 
-[^key-653c1685afea6c6e03b0405a9abccdf6]: Commencement: Reg. 3 in operation at 31.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1)
+[^c-653c1685afea6c6e03b0405a9abccdf6]: Commencement: Reg. 3 in operation at 31.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1)
 
 [^f00005]: Footnote: [S.R. 2007 No. 215](https://www.legislation.gov.uk/nisr/2007/215), amended by [S.R. 2008 No. 381](https://www.legislation.gov.uk/nisr/2008/381), [S.R. 2012 No. 162](https://www.legislation.gov.uk/nisr/2012/162), [S.R. 2013 No. 84](https://www.legislation.gov.uk/nisr/2013/84) and No. [172](https://www.legislation.gov.uk/nisr/2013/172), [S.R. 2014 No. 57](https://www.legislation.gov.uk/nisr/2014/57) and No. [168](https://www.legislation.gov.uk/nisr/2014/168), and [S.R. 2015 No. 9](https://www.legislation.gov.uk/nisr/2015/9) and No. [10](https://www.legislation.gov.uk/nisr/2015/10), [S.R. 2015 No. 420](https://www.legislation.gov.uk/nisr/2015/420) and No. [422](https://www.legislation.gov.uk/nisr/2015/422) and [S.R. 2022 No. 155](https://www.legislation.gov.uk/nisr/2022/155).
 
-[^key-a3d3d4d84e5f3da533afdb8ac79680fe]: Commencement: Sch. para. 1 in operation at 31.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1)
+[^c-a3d3d4d84e5f3da533afdb8ac79680fe]: Commencement: Sch. para. 1 in operation at 31.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1)
 
 [^f00006]: Footnote: [S.R. 2015 No. 78](https://www.legislation.gov.uk/nisr/2015/78), amended by [S.R. 2015 No. 420](https://www.legislation.gov.uk/nisr/2015/420) and [S.R. 2022 No 155](https://www.legislation.gov.uk/nisr/2022/155).
 
-[^key-35e9f484c70c15bcd206ddb8ffb7d5c3]: Commencement: Sch. para. 2 in operation at 31.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1)
+[^c-35e9f484c70c15bcd206ddb8ffb7d5c3]: Commencement: Sch. para. 2 in operation at 31.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1)
 
-[^key-fce597abffdb66dd042dbe81000f0012]: Commencement: Sch. para. 3 in operation at 31.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1)
+[^c-fce597abffdb66dd042dbe81000f0012]: Commencement: Sch. para. 3 in operation at 31.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1)
 
-[^key-40039025e5d4280ad729efda8c45b9fd]: Commencement: Sch. para. 4 in operation at 31.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1)
+[^c-40039025e5d4280ad729efda8c45b9fd]: Commencement: Sch. para. 4 in operation at 31.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1)
 
-[^key-c7466ec3f45fb1318962b814ac66fef3]: Commencement: Sch. para. 5 in operation at 31.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1)
+[^c-c7466ec3f45fb1318962b814ac66fef3]: Commencement: Sch. para. 5 in operation at 31.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1)
 
-[^key-5a4f6b127261507cc9583f29b2e6f14e]: Commencement: Sch. para. 6 in operation at 31.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1)
+[^c-5a4f6b127261507cc9583f29b2e6f14e]: Commencement: Sch. para. 6 in operation at 31.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1)
 
 [^f00007]: Footnote: [S.R. 1995 No 3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213); section 50 was substituted by Article 250 of the Pensions (Northern Ireland) Order 2005 ([S.I. 2005 No 255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)) and amended by the Pensions Act (Northern Ireland) [2008 (Chapter 1)](https://www.legislation.gov.uk/nia/2008/1).
 
 [^f00008]: Footnote: [S.R. 2008 No.116](https://www.legislation.gov.uk/nisr/2008/116).
 
-[^key-af39d6eff038aa4dc599a71f47d22f73]: Commencement: Sch. para. 7 in operation at 31.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1)
+[^c-af39d6eff038aa4dc599a71f47d22f73]: Commencement: Sch. para. 7 in operation at 31.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1)
 
-[^key-7daa54d9e63133d12aa5d2de2f440b4b]: Commencement: Sch. para. 8 in operation at 31.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1)
+[^c-7daa54d9e63133d12aa5d2de2f440b4b]: Commencement: Sch. para. 8 in operation at 31.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1)
 
-[^key-0bc5fa5518097250fbc1446f12ebfcf2]: Commencement: Sch. para. 9 in operation at 31.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1)
+[^c-0bc5fa5518097250fbc1446f12ebfcf2]: Commencement: Sch. para. 9 in operation at 31.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1)

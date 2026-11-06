@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 735B. Historical liability under section 733A where remittance basis applied[^key-10352b94c5b9f2efd7d49c353ad815b8][^key-26877adab850d911cc18d4a382ac9aec]
+## 735B. Historical liability under section 733A where remittance basis applied[^c-10352b94c5b9f2efd7d49c353ad815b8][^c-26877adab850d911cc18d4a382ac9aec]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-637e78b83e424d2fd844b5e3e45b7276] This section applies in relation to income if—
+(1)[^c-637e78b83e424d2fd844b5e3e45b7276] This section applies in relation to income if—
 
 - (a) the income was treated under section 732 as arising to an individual (“**the beneficiary**”) for any of the tax years 2017-18 to 2024-25,
 - (b) the settlor was under section 733A(2) or (3) (as it had effect for that tax year) liable for tax on the income, and
@@ -34,8 +34,8 @@ summary: ''
 
 ## Annotations
 
-[^key-10352b94c5b9f2efd7d49c353ad815b8]: Textual amendment: S. 735B inserted (with effect in accordance with Sch. 8 para. 39 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 8 para. 38](https://www.legislation.gov.uk/ukpga/2017/32/schedule/8/paragraph/38)
+[^c-10352b94c5b9f2efd7d49c353ad815b8]: Textual amendment: S. 735B inserted (with effect in accordance with Sch. 8 para. 39 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 8 para. 38](https://www.legislation.gov.uk/ukpga/2017/32/schedule/8/paragraph/38)
 
-[^key-26877adab850d911cc18d4a382ac9aec]: Textual amendment: [S. 735B heading](https://www.legislation.gov.uk/ukpga/2007/3/part/13/chapter/2/crossheading/charge-where-benefit-received) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 45(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/45/2), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
+[^c-26877adab850d911cc18d4a382ac9aec]: Textual amendment: [S. 735B heading](https://www.legislation.gov.uk/ukpga/2007/3/part/13/chapter/2/crossheading/charge-where-benefit-received) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 45(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/45/2), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
 
-[^key-637e78b83e424d2fd844b5e3e45b7276]: Textual amendment: [S. 735B(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/735B/1) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 45(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/45/3), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
+[^c-637e78b83e424d2fd844b5e3e45b7276]: Textual amendment: [S. 735B(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/735B/1) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 45(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/45/3), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)

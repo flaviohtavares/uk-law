@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Fees[^key-597c3304a0b8a704cef979fbe682a370]
+## 13. Fees[^c-597c3304a0b8a704cef979fbe682a370]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-597c3304a0b8a704cef979fbe682a370]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2023/1286/regulation/13) substituted (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [10](https://www.legislation.gov.uk/uksi/2024/1379/regulation/10)
+[^c-597c3304a0b8a704cef979fbe682a370]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2023/1286/regulation/13) substituted (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [10](https://www.legislation.gov.uk/uksi/2024/1379/regulation/10)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 59. Reviews and decisions[^key-839f163f880e2ee2c1abc76f169c9284][^key-cf6fdb0c06e9158ac3e6c885dac13d21]
+## 59. Reviews and decisions[^c-839f163f880e2ee2c1abc76f169c9284][^c-cf6fdb0c06e9158ac3e6c885dac13d21]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-839f163f880e2ee2c1abc76f169c9284]: Commencement: S. 59 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-839f163f880e2ee2c1abc76f169c9284]: Commencement: S. 59 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-cf6fdb0c06e9158ac3e6c885dac13d21]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2025/28/section/59) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-cf6fdb0c06e9158ac3e6c885dac13d21]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2025/28/section/59) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

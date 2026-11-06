@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Appointment to sitting in retirement offices: further provision[^key-9ffc43fb2b675a91a2e6184b21d10a0d][^key-2dfc48975cbe30d9d1c683d3d26ade09]
+## 125. Appointment to sitting in retirement offices: further provision[^c-9ffc43fb2b675a91a2e6184b21d10a0d][^c-2dfc48975cbe30d9d1c683d3d26ade09]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9ffc43fb2b675a91a2e6184b21d10a0d]: Commencement: S. 125 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-9ffc43fb2b675a91a2e6184b21d10a0d]: Commencement: S. 125 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-2dfc48975cbe30d9d1c683d3d26ade09]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2022/7/section/125) in force at 1.10.2022 in so far as not already in force by [S.I. 2022/1014](https://www.legislation.gov.uk/uksi/2022/1014), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1014/regulation/2/a)
+[^c-2dfc48975cbe30d9d1c683d3d26ade09]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2022/7/section/125) in force at 1.10.2022 in so far as not already in force by [S.I. 2022/1014](https://www.legislation.gov.uk/uksi/2022/1014), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1014/regulation/2/a)

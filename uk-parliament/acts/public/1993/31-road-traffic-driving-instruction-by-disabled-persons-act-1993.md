@@ -35,7 +35,7 @@ An Act to make provision for enabling persons with certain physical disabilities
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Registration of disabled persons as driving instructors.[^key-a06b6b3b433407b198cce36c9f9bc181]
+## 1. Registration of disabled persons as driving instructors.[^c-a06b6b3b433407b198cce36c9f9bc181]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -71,7 +71,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (3) In subsection (5) of that section, for the words “and shall” there shall be substituted the words “ and, subject to subsection (5A) below, shall ”.
 
-(4)[^key-0872654cb5307f1cda56c05e4fb848fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-0872654cb5307f1cda56c05e4fb848fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. Assessment of disabled person’s ability to control a motor car in an emergency.
 
@@ -264,7 +264,7 @@ Section 6.
 
 (3) In subsection (3), for the words “Those conditions are” there shall be substituted the words “ Except in the case of a registered disabled instructor, the relevant conditions are ”.
 
-(4)[^key-38a521a22e4faa20959f814dff7b85df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-38a521a22e4faa20959f814dff7b85df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) For subsection (4) there shall be substituted the following—
 
@@ -279,9 +279,9 @@ Section 6.
 
 (3) In subsection (2), for the words “Those conditions are” there shall be substituted the words “ Except in the case of a registered disabled instructor, the relevant conditions are ”.
 
-(4)[^key-a9b31571bde14901f8b66e98c9f94ba0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a9b31571bde14901f8b66e98c9f94ba0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-a9b31571bde14901f8b66e98c9f94ba0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-a9b31571bde14901f8b66e98c9f94ba0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.** (1) Section 130 of the principal Act (revocation of licences granted for the giving of instruction so as to obtain practical experience) shall be amended in accordance with this paragraph.
 
@@ -289,7 +289,7 @@ Section 6.
 
 (3) In subsection (2), for the words “The conditions referred to in subsection (1)(b) above are” there shall be substituted the words “ Except in the case of a licence granted by virtue of subsection (2)(b) of section 129 of this Act, the relevant conditions are ”.
 
-(4)[^key-36afd23b81f198062b63070935d1aa8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-36afd23b81f198062b63070935d1aa8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.** In section 142 of the principal Act (index of expressions used in Part V) the following entries shall be inserted in the table at the appropriate places—
 
@@ -345,11 +345,11 @@ Section 6.
 
 [^c861056]: Commencement: Act not in force at Royal Assent see [s.7(2)](https://www.legislation.gov.uk/ukpga/1993/31/section/7/2)
 
-[^key-a06b6b3b433407b198cce36c9f9bc181]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1993/31/section/1) omitted (26.3.2015 for specified purposes, 8.6.2015 in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 2 para. 30(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/30/2); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
+[^c-a06b6b3b433407b198cce36c9f9bc181]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1993/31/section/1) omitted (26.3.2015 for specified purposes, 8.6.2015 in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 2 para. 30(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/30/2); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
 
 [^c861058]: Marginal citation: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
 
-[^key-0872654cb5307f1cda56c05e4fb848fe]: Textual amendment: [S. 2(4)](https://www.legislation.gov.uk/ukpga/1993/31/section/2/4) omitted (26.3.2015 for specified purposes, 8.6.2015 in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 2 para. 30(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/30/3); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
+[^c-0872654cb5307f1cda56c05e4fb848fe]: Textual amendment: [S. 2(4)](https://www.legislation.gov.uk/ukpga/1993/31/section/2/4) omitted (26.3.2015 for specified purposes, 8.6.2015 in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 2 para. 30(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/30/3); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
 
 [^c861059]: Marginal citation: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
 
@@ -361,11 +361,11 @@ Section 6.
 
 [^c861063]: Marginal citation: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53).
 
-[^key-38a521a22e4faa20959f814dff7b85df]: Textual amendment: [Sch. para. 5(4)](https://www.legislation.gov.uk/ukpga/1993/31/schedule/paragraph/5/4) omitted (26.3.2015 for specified purposes, 8.6.2015 in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 2 para. 30(4)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/30/4/a); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
+[^c-38a521a22e4faa20959f814dff7b85df]: Textual amendment: [Sch. para. 5(4)](https://www.legislation.gov.uk/ukpga/1993/31/schedule/paragraph/5/4) omitted (26.3.2015 for specified purposes, 8.6.2015 in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 2 para. 30(4)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/30/4/a); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
 
-[^key-a9b31571bde14901f8b66e98c9f94ba0]: Textual amendment: Sch. paras. 6(4) (5) omitted (26.3.2015 for specified purposes, 8.6.2015 in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 2 para. 30(4)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/30/4/b); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
+[^c-a9b31571bde14901f8b66e98c9f94ba0]: Textual amendment: Sch. paras. 6(4) (5) omitted (26.3.2015 for specified purposes, 8.6.2015 in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 2 para. 30(4)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/30/4/b); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
 
-[^key-36afd23b81f198062b63070935d1aa8d]: Textual amendment: [Sch. para. 7(4)](https://www.legislation.gov.uk/ukpga/1993/31/schedule/paragraph/7/4) omitted (26.3.2015 for specified purposes, 8.6.2015 in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 2 para. 30(4)(c)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/30/4/c); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
+[^c-36afd23b81f198062b63070935d1aa8d]: Textual amendment: [Sch. para. 7(4)](https://www.legislation.gov.uk/ukpga/1993/31/schedule/paragraph/7/4) omitted (26.3.2015 for specified purposes, 8.6.2015 in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 2 para. 30(4)(c)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/30/4/c); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
 
 [^c861064]: Marginal citation: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53).
 

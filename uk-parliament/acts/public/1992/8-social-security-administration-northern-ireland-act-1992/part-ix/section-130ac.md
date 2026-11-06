@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130AC. Revaluation for transitional pensions under Pensions Act (Northern Ireland) 2015[^key-2e779f9a45147fb5a9d7ecedf7b07052]
+## 130AC. Revaluation for transitional pensions under Pensions Act (Northern Ireland) 2015[^c-2e779f9a45147fb5a9d7ecedf7b07052]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e779f9a45147fb5a9d7ecedf7b07052]: Textual amendment: S. 130AC inserted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 16](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/16)
+[^c-2e779f9a45147fb5a9d7ecedf7b07052]: Textual amendment: S. 130AC inserted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 16](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/16)

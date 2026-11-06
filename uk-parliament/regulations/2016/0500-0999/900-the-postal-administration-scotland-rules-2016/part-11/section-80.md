@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Personal delivery of documents[^key-c9a28d3d4efd1051992a13f19c1f8c47]
+## 80. Personal delivery of documents[^c-c9a28d3d4efd1051992a13f19c1f8c47]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Personal delivery of a notice or other document is permissible in any case.
 
 ## Annotations
 
-[^key-c9a28d3d4efd1051992a13f19c1f8c47]: Commencement: Rule 80 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-c9a28d3d4efd1051992a13f19c1f8c47]: Commencement: Rule 80 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

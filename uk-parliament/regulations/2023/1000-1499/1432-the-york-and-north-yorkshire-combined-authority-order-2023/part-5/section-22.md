@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Power to pay grant[^key-2bba3402b941b07344d30e91f808523f]
+## 22. Power to pay grant[^c-2bba3402b941b07344d30e91f808523f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bba3402b941b07344d30e91f808523f]: Textual amendment: Art. 22 omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [33(5)(d)](https://www.legislation.gov.uk/uksi/2026/519/regulation/33/5/d)
+[^c-2bba3402b941b07344d30e91f808523f]: Textual amendment: Art. 22 omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [33(5)(d)](https://www.legislation.gov.uk/uksi/2026/519/regulation/33/5/d)

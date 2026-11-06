@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 64. Students residing with parents (affected by repeal, see note)[^key-6b135c8a0d195289acce2efcabdfe321][^key-38e66e2f9723c92ebe23389f944f7e12][^key-38e66e2f9723c92ebe23389f944f7e12]
+## 64. Students residing with parents (affected by repeal, see note)[^c-6b135c8a0d195289acce2efcabdfe321][^c-38e66e2f9723c92ebe23389f944f7e12][^c-38e66e2f9723c92ebe23389f944f7e12]
 
 *Extent: N.I.*
 
-Where an eligible student resides at his parents' home and the Department is satisfied that in all the circumstances his parents by reason of age, incapacity or otherwise cannot reasonably be expected to support him and that it would be appropriate for the amount of loan for living costs payable to a student in a category other than category A to apply in his case, the student must be treated as if he were not residing at his parents' home for the purposes of this Part. *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12]
+Where an eligible student resides at his parents' home and the Department is satisfied that in all the circumstances his parents by reason of age, incapacity or otherwise cannot reasonably be expected to support him and that it would be appropriate for the amount of loan for living costs payable to a student in a category other than category A to apply in his case, the student must be treated as if he were not residing at his parents' home for the purposes of this Part. *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12]
 
 ## Annotations
 
-[^key-6b135c8a0d195289acce2efcabdfe321]: Commencement: [Reg. 64](https://www.legislation.gov.uk/nisr/2006/312/regulation/64) in operation at 1.9.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/312/regulation/1)
+[^c-6b135c8a0d195289acce2efcabdfe321]: Commencement: [Reg. 64](https://www.legislation.gov.uk/nisr/2006/312/regulation/64) in operation at 1.9.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/312/regulation/1)
 
-[^key-38e66e2f9723c92ebe23389f944f7e12]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/312) revoked (1.5.2007) by [The Education (Student Support) Regulations (Northern Ireland) 2007 (S.R. 2007/195)](https://www.legislation.gov.uk/nisr/2007/195), [regs. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1), [4(1)(a)](https://www.legislation.gov.uk/nisr/2007/195/regulation/4/1/a) (with [reg. 4(3)](https://www.legislation.gov.uk/nisr/2007/195/regulation/4/3))
+[^c-38e66e2f9723c92ebe23389f944f7e12]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/312) revoked (1.5.2007) by [The Education (Student Support) Regulations (Northern Ireland) 2007 (S.R. 2007/195)](https://www.legislation.gov.uk/nisr/2007/195), [regs. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1), [4(1)(a)](https://www.legislation.gov.uk/nisr/2007/195/regulation/4/1/a) (with [reg. 4(3)](https://www.legislation.gov.uk/nisr/2007/195/regulation/4/3))

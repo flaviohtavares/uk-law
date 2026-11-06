@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12G. CMA’s powers on allowing an appeal[^key-81e4211560e1d1d6de14fbc2a7b4eacb][^M_F_941a0666-14b3-4384-e969-9d95b05ca6d7]
+## 12G. CMA’s powers on allowing an appeal[^c-81e4211560e1d1d6de14fbc2a7b4eacb][^M_F_941a0666-14b3-4384-e969-9d95b05ca6d7]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-81e4211560e1d1d6de14fbc2a7b4eacb]: Textual amendment: Ss. 12A-12I and cross-heading inserted (24.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 86(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/86/2), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/m)
+[^c-81e4211560e1d1d6de14fbc2a7b4eacb]: Textual amendment: Ss. 12A-12I and cross-heading inserted (24.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 86(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/86/2), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/m)
 
 [^M_F_941a0666-14b3-4384-e969-9d95b05ca6d7]: Textual amendment: Words in Act substituted (1.4.2006) by virtue of [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 36(2)](https://www.legislation.gov.uk/ukpga/2003/37/section/36/2), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 4(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/c)

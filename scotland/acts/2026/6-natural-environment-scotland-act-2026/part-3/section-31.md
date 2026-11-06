@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Authorisation for use of vehicles to drive deer[^key-45e5cee632e650849dc1621a75f4ceed][^key-cc18e6e29fd2471af4e7beca50169f54]
+## 31. Authorisation for use of vehicles to drive deer[^c-45e5cee632e650849dc1621a75f4ceed][^c-cc18e6e29fd2471af4e7beca50169f54]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-45e5cee632e650849dc1621a75f4ceed]: Commencement: S. 31 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-45e5cee632e650849dc1621a75f4ceed]: Commencement: S. 31 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-cc18e6e29fd2471af4e7beca50169f54]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2026/6/section/31) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(r)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/r)
+[^c-cc18e6e29fd2471af4e7beca50169f54]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2026/6/section/31) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(r)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/r)

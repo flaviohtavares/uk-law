@@ -48,39 +48,39 @@ The Department makes the following Regulations in exercise of the powers conferr
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-02ad9c5d19c71265bfefec36f18ec36c]
+### 1. Citation and commencement[^c-02ad9c5d19c71265bfefec36f18ec36c]
 
 These Regulations may be cited as The Equine Identification Regulations (Northern Ireland) 2019 and, shall come into operation on 29th March 2019.
 
-### 2. Interpretation[^key-37ed52470e16ec81073138ec996d795c]
+### 2. Interpretation[^c-37ed52470e16ec81073138ec996d795c]
 
 (1) The Interpretation Act (Northern Ireland) 1954 shall apply to this Order as it applies to an Act of the Assembly.
 
 (2) In these Regulations—
 
 - “authorised officer” means any person authorised by the Department to enforce these Regulations;
-- “[^key-ec5ae0cd89e9ec14804be59c5550d741]**Commission Delegated Regulation**” means Commission Delegated Regulation (EU) 2019/2035 of 28 June 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for establishments keeping terrestrial animals and hatcheries, and the traceability of certain kept terrestrial animals and hatching eggs.
+- “[^c-ec5ae0cd89e9ec14804be59c5550d741]**Commission Delegated Regulation**” means Commission Delegated Regulation (EU) 2019/2035 of 28 June 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for establishments keeping terrestrial animals and hatcheries, and the traceability of certain kept terrestrial animals and hatching eggs.
 - “the Department” means the Department of Agriculture, Environment and Rural Affairs;
 - “horse” means wild or domesticated solipeds within the genus Equus of the family Equidae, and their crosses;
-- “issuing body” means an issuing body in accordance with the Commission Delegated Regulation[^key-82b03f5aa2aead1650562ad3cfdf17f8] ;
-- “passport” means an identification document for the identification of a horse in accordance with the Commission Delegated Regulation[^key-3d129e0e423a913d789cac07137eb9f8] ;
+- “issuing body” means an issuing body in accordance with the Commission Delegated Regulation[^c-82b03f5aa2aead1650562ad3cfdf17f8] ;
+- “passport” means an identification document for the identification of a horse in accordance with the Commission Delegated Regulation[^c-3d129e0e423a913d789cac07137eb9f8] ;
 - “veterinary surgeon” means a person registered as such under the Veterinary Surgeons Act 1966[^f00008].
 
-(3) Any reference in these Regulations to a numbered Article is a reference to the Article so numbered in the Commission Delegated Regulation[^key-1d0b35ea2ad589a22539a71a11119c07] .
+(3) Any reference in these Regulations to a numbered Article is a reference to the Article so numbered in the Commission Delegated Regulation[^c-1d0b35ea2ad589a22539a71a11119c07] .
 
-(4) Expressions used both in these Regulations and in the Commission Implementing Regulation shall have the same meaning in these Regulations as they have in the Commission Delegated Regulation[^key-73260ec83c5c9d007fbcc59475f27308] .
+(4) Expressions used both in these Regulations and in the Commission Implementing Regulation shall have the same meaning in these Regulations as they have in the Commission Delegated Regulation[^c-73260ec83c5c9d007fbcc59475f27308] .
 
 ## PART 2 — Administrative and procedural provisions and requirements
 
-### 3. Competent Authority for the Commission Delegated Regulation[^key-dd537100094bc50e6c1e765009e91e20][^key-7ddcc3a66ebdadb511558c4ef8476e69]
+### 3. Competent Authority for the Commission Delegated Regulation[^c-dd537100094bc50e6c1e765009e91e20][^c-7ddcc3a66ebdadb511558c4ef8476e69]
 
 The Department is the competent authority for the purposes of the Commission Delegated Regulation .
 
-### 4. Identification of horses[^key-5ffd0fd0d753c334e49dd9558029b7d6]
+### 4. Identification of horses[^c-5ffd0fd0d753c334e49dd9558029b7d6]
 
-A person must not keep a horse unless it is identified in accordance with the Commission Delegated Regulation[^key-079be500acc0baebcef90617878b0a0b] and these Regulations.
+A person must not keep a horse unless it is identified in accordance with the Commission Delegated Regulation[^c-079be500acc0baebcef90617878b0a0b] and these Regulations.
 
-### 5. Transfer of ownership of horses[^key-8e4413159f52d19641eb6d3202f533d2]
+### 5. Transfer of ownership of horses[^c-8e4413159f52d19641eb6d3202f533d2]
 
 (1) A person who transfers the ownership of a horse to another person (the “transferee”) must give its passport to the transferee at the time of the transfer.
 
@@ -91,59 +91,59 @@ A person must not keep a horse unless it is identified in accordance with the Co
   - (ii) the transferee’s name, address and contact details; and
 - (b) send the passport for the horse concerned to the issuing body.
 
-### 6. Application for passports[^key-090507538367c55a093cd38811f5e602]
+### 6. Application for passports[^c-090507538367c55a093cd38811f5e602]
 
-(1) In accordance with Article 58(3)[^key-af9fef267f5e4e4a207ee783739af3cc] it is the responsibility of the owner of a horse located in a holding in Northern Ireland to ensure that an application for a passport is submitted to an issuing body on or before the date set out in paragraph (2).
+(1) In accordance with Article 58(3)[^c-af9fef267f5e4e4a207ee783739af3cc] it is the responsibility of the owner of a horse located in a holding in Northern Ireland to ensure that an application for a passport is submitted to an issuing body on or before the date set out in paragraph (2).
 
 (2) The date is the last day of the period of 6 months beginning with the day on which the horse was born.
 
-### 7. Provision of information to an issuing body[^key-b77ff1d6fb18ee564970b42bfa66181c]
+### 7. Provision of information to an issuing body[^c-b77ff1d6fb18ee564970b42bfa66181c]
 
-The keeper must provide to the issuing body all information necessary to allow the body to complete an existing passport for the purposes of Title IV of Part III of the Commission Delegated Regulation[^key-314ebfc458b5edfba9ad67585dfd9e62] .
+The keeper must provide to the issuing body all information necessary to allow the body to complete an existing passport for the purposes of Title IV of Part III of the Commission Delegated Regulation[^c-314ebfc458b5edfba9ad67585dfd9e62] .
 
-### 8. Transponders[^key-b1debb1e180e2536fa7ca4ba06443bd7]
+### 8. Transponders[^c-b1debb1e180e2536fa7ca4ba06443bd7]
 
 (1) The minimum qualification for the purposes of Article 18(3) (implantation of a transponder) is membership of the Royal College of Veterinary Surgeons.
 
-(2) [^key-164dcf2a4a054aca2683f1c4a25e548b]... The owner of a horse or, if different, the keeper who has primary responsibility for it, must arrange for a veterinary surgeon to implant a transponder into a horse that is deemed to be identified [^key-f682988fc040f674fe13da96438be1d6]... if a previously implanted and recorded transponder ceases to function.
+(2) [^c-164dcf2a4a054aca2683f1c4a25e548b]... The owner of a horse or, if different, the keeper who has primary responsibility for it, must arrange for a veterinary surgeon to implant a transponder into a horse that is deemed to be identified [^c-f682988fc040f674fe13da96438be1d6]... if a previously implanted and recorded transponder ceases to function.
 
 (3) A veterinary surgeon who implants a transponder into a horse must ensure that it displays a code unique to that transponder.
 
-### 9. Detecting previous active markings of horses[^key-547b9ac1c305426c9db42acdb58ba2e5]
+### 9. Detecting previous active markings of horses[^c-547b9ac1c305426c9db42acdb58ba2e5]
 
-A veterinary surgeon who is implanting a transponder into a horse must carry out sufficient measures[^key-fcd7837ff8a60fe4134b167287a30f6e] (measures to detect previous identification of equidae).
+A veterinary surgeon who is implanting a transponder into a horse must carry out sufficient measures[^c-fcd7837ff8a60fe4134b167287a30f6e] (measures to detect previous identification of equidae).
 
-### 10. Accompanying documentation[^key-bbadd40e6aee30237081bea079710971]
+### 10. Accompanying documentation[^c-bbadd40e6aee30237081bea079710971]
 
-The owner of a horse or, if different, the keeper who has primary responsibility for it must comply with Article 66(1)[^key-ae85418641f9ef2fe4f29c59419b1d84] to ensure that a horse’s passport accompanies the horse at all times except –—
+The owner of a horse or, if different, the keeper who has primary responsibility for it must comply with Article 66(1)[^c-ae85418641f9ef2fe4f29c59419b1d84] to ensure that a horse’s passport accompanies the horse at all times except –—
 
-- (a) when not required in accordance with Article 66(2)[^key-95498fee5934c151668b1a7364f1a113] ; or
-- (b) when the horse is accompanied by a smart card [^key-f4078e1b2bcfb77a9e2f1eeb942f4dc3]...; or
-- (c) when the horse is accompanied by a temporary document [^key-5f63d1f1a5098abf765ee54b2d2d0360]....
+- (a) when not required in accordance with Article 66(2)[^c-95498fee5934c151668b1a7364f1a113] ; or
+- (b) when the horse is accompanied by a smart card [^c-f4078e1b2bcfb77a9e2f1eeb942f4dc3]...; or
+- (c) when the horse is accompanied by a temporary document [^c-5f63d1f1a5098abf765ee54b2d2d0360]....
 
-### 11. Modification of identity details in passports[^key-5d798c82b26de59059e07d8f5a7d54d4]
+### 11. Modification of identity details in passports[^c-5d798c82b26de59059e07d8f5a7d54d4]
 
-If the owner believes that any identity details contained in the horse’s passport require modification or updating, [^key-c79fa6537410a47b70346f5be67bc180]... the owner must ask the issuing body to modify or update the passport.
+If the owner believes that any identity details contained in the horse’s passport require modification or updating, [^c-c79fa6537410a47b70346f5be67bc180]... the owner must ask the issuing body to modify or update the passport.
 
-### 12. Slaughter or death of a horse[^key-3ac4c720b7f2009a08d5fbb470a93f4a]
+### 12. Slaughter or death of a horse[^c-3ac4c720b7f2009a08d5fbb470a93f4a]
 
-On the slaughter or death of a horse an official veterinarian or a person acting under the supervision of an official veterinarian, [^key-e008550e8261ad025d032b5d54fba2dd]... must return an invalidated passport to the issuing body as soon as is reasonably practicable.
+On the slaughter or death of a horse an official veterinarian or a person acting under the supervision of an official veterinarian, [^c-e008550e8261ad025d032b5d54fba2dd]... must return an invalidated passport to the issuing body as soon as is reasonably practicable.
 
-### 13. Databases[^key-c75691fbec5124d80e8577f03b93e77e]
+### 13. Databases[^c-c75691fbec5124d80e8577f03b93e77e]
 
-(1)[^key-b28b00ccfb6464762eb1845d7ba15d56] An issuing body must incorporate the information falling within Article 109(1) (d) (i) to (iii) of Regulation EU 2016/429 in to the database established under that Article.
+(1)[^c-b28b00ccfb6464762eb1845d7ba15d56] An issuing body must incorporate the information falling within Article 109(1) (d) (i) to (iii) of Regulation EU 2016/429 in to the database established under that Article.
 
 (2) The Department may issue guidance to issuing bodies about the central database and how to enter information into it.
 
 (3) The Department may share any data or information held or stored in, or which is to be held or stored in, the central database with the Secretary of State in England, the Scottish Ministers, or the Welsh Ministers.
 
-(4)[^key-e978888b525ddc338871db5585fa1198] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-e978888b525ddc338871db5585fa1198] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Enforcement
 
-### 14. General[^key-e30864d402a3313f55c5d537d12c4e86]
+### 14. General[^c-e30864d402a3313f55c5d537d12c4e86]
 
-(1) An owner is guilty of an offence if the owner breaches a prohibition, or fails to comply with a requirement, which applies to an owner in Part 2 or in the Commission Delegated Regulation[^key-83d6e694842add5d343519c9c1c05a57] .
+(1) An owner is guilty of an offence if the owner breaches a prohibition, or fails to comply with a requirement, which applies to an owner in Part 2 or in the Commission Delegated Regulation[^c-83d6e694842add5d343519c9c1c05a57] .
 
 (2) A keeper is guilty of an offence if the keeper breaches a prohibition, or fails to comply with a requirement, which applies to a keeper in Part 2 or in the Commission Delegated Regulation .
 
@@ -153,7 +153,7 @@ On the slaughter or death of a horse an official veterinarian or a person acting
 
 (5) A veterinary surgeon is not guilty of an offence for failing to enter information into, or failing to update, a passport if the veterinary surgeon has asked the responsible person for the passport for that purpose and the responsible person does not provide, or has not provided, the passport to the veterinary surgeon.
 
-### 15. Powers of entry[^key-389a372144a82aa99a88511a1a7aa151]
+### 15. Powers of entry[^c-389a372144a82aa99a88511a1a7aa151]
 
 (1) An authorised officer may, on producing a duly authenticated authorisation document, at all reasonable hours, enter any premises (excluding premises not containing any horse and used only as a dwelling) for the purpose of administering and enforcing these Regulations; and in this regulation premises includes any vehicle or container.
 
@@ -170,7 +170,7 @@ On the slaughter or death of a horse an official veterinarian or a person acting
 
 (3) It is an offence to deface, obliterate or remove any mark applied under paragraph (2) except under written authority of an authorised officer.
 
-### 16. Obstruction[^key-c14adac46c4c274c4069bb494c6f3ecc]
+### 16. Obstruction[^c-c14adac46c4c274c4069bb494c6f3ecc]
 
 It is an offence to—
 
@@ -179,9 +179,9 @@ It is an offence to—
 - (c) furnish to any person acting under these Regulations any information knowing it to be false or misleading; or
 - (d) fail to produce a record or passport when required to do so to any person acting under these Regulations.
 
-### 17. Offences in relation to passports[^key-0b8a926cb8a7afaac8f77b7482000448]
+### 17. Offences in relation to passports[^c-0b8a926cb8a7afaac8f77b7482000448]
 
-(1) A person is guilty of an offence if the person, otherwise than in accordance with any entitlement, obligation or requirement to do so in these Regulations or the Commission Delegated Regulation[^key-a5b6474e76294c7bda5f166f054e9b9f] —
+(1) A person is guilty of an offence if the person, otherwise than in accordance with any entitlement, obligation or requirement to do so in these Regulations or the Commission Delegated Regulation[^c-a5b6474e76294c7bda5f166f054e9b9f] —
 
 - (a) destroys or defaces a passport;
 - (b) alters any entry in a passport;
@@ -190,18 +190,18 @@ It is an offence to—
 
 (2) Paragraph 1(d) does not apply if the person, at the time concerned, holds a forged passport simply for the purpose of destroying it or providing it to an authorised officer, the police or the Department.
 
-### 18. Penalties[^key-7dab6ad1d04c2b190eb5c5285013f73e]
+### 18. Penalties[^c-7dab6ad1d04c2b190eb5c5285013f73e]
 
 a person guilty of an offence under these Regulations is liable—
 
 - (a) on summary conviction, to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment, to a fine.
 
-### 19. Offences by bodies corporate[^key-fd8ef8eb5b8f0ea8e7ceb71fd03a759c]
+### 19. Offences by bodies corporate[^c-fd8ef8eb5b8f0ea8e7ceb71fd03a759c]
 
 For the purposes of these Regulations, section 20(2) of the Interpretation Act (Northern Ireland) 1954 applies with the omission of the words “the liability of whose members is limited” and where the affairs of a body corporate are managed by its members, applies in relation to the acts or defaults of a member in connection with the member’s functions of management as if the member were a director of the body corporate.
 
-### 20. Offences by partnerships and unincorporated associations[^key-e4eb624b2ca338c524b55a28f67174fb]
+### 20. Offences by partnerships and unincorporated associations[^c-e4eb624b2ca338c524b55a28f67174fb]
 
 (1) Proceedings for an offence under these Regulations alleged to have been committed by a partnership or an unincorporated association may be brought in the name of the partnership or association.
 
@@ -220,7 +220,7 @@ For the purposes of these Regulations, section 20(2) of the Interpretation Act (
 
 (7) For these purposes, “officer” means an officer of the association or a member of its governing body, or person purporting to act in such capacity.
 
-### 21. Revocations[^key-68ffc6a50276f78928a169e1066155f6]
+### 21. Revocations[^c-68ffc6a50276f78928a169e1066155f6]
 
 The Horse Passports Regulations (Northern Ireland) 2010[^f00011] are revoked.
 
@@ -257,96 +257,96 @@ Breach of the Regulations is an offence punishable—
 
 [^f00004]: Footnote: Paragraph 1A Schedule 2 to the 1972 Act was inserted by section 28 of the 2006 Act and amended by section 3 of, and the Schedule to, the 2008 Act and by [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388).
 
-[^key-02ad9c5d19c71265bfefec36f18ec36c]: Commencement: Reg. 1 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
+[^c-02ad9c5d19c71265bfefec36f18ec36c]: Commencement: Reg. 1 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
 
-[^key-37ed52470e16ec81073138ec996d795c]: Commencement: Reg. 2 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
+[^c-37ed52470e16ec81073138ec996d795c]: Commencement: Reg. 2 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
 
-[^key-ec5ae0cd89e9ec14804be59c5550d741]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2019/67/regulation/2/2) substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/2)
+[^c-ec5ae0cd89e9ec14804be59c5550d741]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2019/67/regulation/2/2) substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/2)
 
-[^key-82b03f5aa2aead1650562ad3cfdf17f8]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2019/67/regulation/2/2) substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(3)(a)(i)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/3/a/i)
+[^c-82b03f5aa2aead1650562ad3cfdf17f8]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2019/67/regulation/2/2) substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(3)(a)(i)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/3/a/i)
 
-[^key-3d129e0e423a913d789cac07137eb9f8]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2019/67/regulation/2/2) substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/3/a/ii)
+[^c-3d129e0e423a913d789cac07137eb9f8]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2019/67/regulation/2/2) substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/3/a/ii)
 
 [^f00008]: Footnote: [1966 c.36](https://www.legislation.gov.uk/ukpga/1966/36)
 
-[^key-1d0b35ea2ad589a22539a71a11119c07]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/nisr/2019/67/regulation/2/3) substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/3/b)
+[^c-1d0b35ea2ad589a22539a71a11119c07]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/nisr/2019/67/regulation/2/3) substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/3/b)
 
-[^key-73260ec83c5c9d007fbcc59475f27308]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/nisr/2019/67/regulation/2/4) substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/3/b)
+[^c-73260ec83c5c9d007fbcc59475f27308]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/nisr/2019/67/regulation/2/4) substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/3/b)
 
-[^key-dd537100094bc50e6c1e765009e91e20]: Commencement: Reg. 3 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
+[^c-dd537100094bc50e6c1e765009e91e20]: Commencement: Reg. 3 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
 
-[^key-7ddcc3a66ebdadb511558c4ef8476e69]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2019/67/regulation/3) and heading substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/3/c)
+[^c-7ddcc3a66ebdadb511558c4ef8476e69]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2019/67/regulation/3) and heading substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/3/c)
 
-[^key-5ffd0fd0d753c334e49dd9558029b7d6]: Commencement: Reg. 4 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
+[^c-5ffd0fd0d753c334e49dd9558029b7d6]: Commencement: Reg. 4 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
 
-[^key-079be500acc0baebcef90617878b0a0b]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/2019/67/regulation/4) substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(3)(d)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/3/d)
+[^c-079be500acc0baebcef90617878b0a0b]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/2019/67/regulation/4) substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(3)(d)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/3/d)
 
-[^key-8e4413159f52d19641eb6d3202f533d2]: Commencement: Reg. 5 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
+[^c-8e4413159f52d19641eb6d3202f533d2]: Commencement: Reg. 5 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
 
-[^key-090507538367c55a093cd38811f5e602]: Commencement: Reg. 6 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
+[^c-090507538367c55a093cd38811f5e602]: Commencement: Reg. 6 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
 
-[^key-af9fef267f5e4e4a207ee783739af3cc]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/nisr/2019/67/regulation/6) substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/4)
+[^c-af9fef267f5e4e4a207ee783739af3cc]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/nisr/2019/67/regulation/6) substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/4)
 
-[^key-b77ff1d6fb18ee564970b42bfa66181c]: Commencement: Reg. 7 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
+[^c-b77ff1d6fb18ee564970b42bfa66181c]: Commencement: Reg. 7 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
 
-[^key-314ebfc458b5edfba9ad67585dfd9e62]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/nisr/2019/67/regulation/7) substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/5)
+[^c-314ebfc458b5edfba9ad67585dfd9e62]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/nisr/2019/67/regulation/7) substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/5)
 
-[^key-b1debb1e180e2536fa7ca4ba06443bd7]: Commencement: Reg. 8 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
+[^c-b1debb1e180e2536fa7ca4ba06443bd7]: Commencement: Reg. 8 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
 
-[^key-164dcf2a4a054aca2683f1c4a25e548b]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/nisr/2019/67/regulation/8/2) omitted (31.8.2022) by virtue of [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/6/a)
+[^c-164dcf2a4a054aca2683f1c4a25e548b]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/nisr/2019/67/regulation/8/2) omitted (31.8.2022) by virtue of [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/6/a)
 
-[^key-f682988fc040f674fe13da96438be1d6]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/nisr/2019/67/regulation/8/2) omitted (31.8.2022) by virtue of [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/6/b)
+[^c-f682988fc040f674fe13da96438be1d6]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/nisr/2019/67/regulation/8/2) omitted (31.8.2022) by virtue of [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/6/b)
 
-[^key-547b9ac1c305426c9db42acdb58ba2e5]: Commencement: Reg. 9 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
+[^c-547b9ac1c305426c9db42acdb58ba2e5]: Commencement: Reg. 9 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
 
-[^key-fcd7837ff8a60fe4134b167287a30f6e]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/nisr/2019/67/regulation/9) substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(7)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/7)
+[^c-fcd7837ff8a60fe4134b167287a30f6e]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/nisr/2019/67/regulation/9) substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(7)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/7)
 
-[^key-bbadd40e6aee30237081bea079710971]: Commencement: Reg. 10 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
+[^c-bbadd40e6aee30237081bea079710971]: Commencement: Reg. 10 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
 
-[^key-ae85418641f9ef2fe4f29c59419b1d84]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/nisr/2019/67/regulation/10) substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(8)(a)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/8/a)
+[^c-ae85418641f9ef2fe4f29c59419b1d84]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/nisr/2019/67/regulation/10) substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(8)(a)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/8/a)
 
-[^key-95498fee5934c151668b1a7364f1a113]: Textual amendment: Words in [reg. 10(a)](https://www.legislation.gov.uk/nisr/2019/67/regulation/10/a) substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(8)(b)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/8/b)
+[^c-95498fee5934c151668b1a7364f1a113]: Textual amendment: Words in [reg. 10(a)](https://www.legislation.gov.uk/nisr/2019/67/regulation/10/a) substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(8)(b)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/8/b)
 
-[^key-f4078e1b2bcfb77a9e2f1eeb942f4dc3]: Textual amendment: Words in [reg. 10(b)](https://www.legislation.gov.uk/nisr/2019/67/regulation/10/b) omitted (31.8.2022) by virtue of [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(8)(c)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/8/c)
+[^c-f4078e1b2bcfb77a9e2f1eeb942f4dc3]: Textual amendment: Words in [reg. 10(b)](https://www.legislation.gov.uk/nisr/2019/67/regulation/10/b) omitted (31.8.2022) by virtue of [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(8)(c)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/8/c)
 
-[^key-5f63d1f1a5098abf765ee54b2d2d0360]: Textual amendment: Words in [reg. 10(c)](https://www.legislation.gov.uk/nisr/2019/67/regulation/10/c) omitted (31.8.2022) by virtue of [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(8)(d)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/8/d)
+[^c-5f63d1f1a5098abf765ee54b2d2d0360]: Textual amendment: Words in [reg. 10(c)](https://www.legislation.gov.uk/nisr/2019/67/regulation/10/c) omitted (31.8.2022) by virtue of [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(8)(d)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/8/d)
 
-[^key-5d798c82b26de59059e07d8f5a7d54d4]: Commencement: Reg. 11 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
+[^c-5d798c82b26de59059e07d8f5a7d54d4]: Commencement: Reg. 11 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
 
-[^key-c79fa6537410a47b70346f5be67bc180]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/nisr/2019/67/regulation/11) omitted (31.8.2022) by virtue of [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(9)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/9)
+[^c-c79fa6537410a47b70346f5be67bc180]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/nisr/2019/67/regulation/11) omitted (31.8.2022) by virtue of [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(9)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/9)
 
-[^key-3ac4c720b7f2009a08d5fbb470a93f4a]: Commencement: Reg. 12 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
+[^c-3ac4c720b7f2009a08d5fbb470a93f4a]: Commencement: Reg. 12 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
 
-[^key-e008550e8261ad025d032b5d54fba2dd]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/nisr/2019/67/regulation/12) omitted (31.8.2022) by virtue of [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(10)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/10)
+[^c-e008550e8261ad025d032b5d54fba2dd]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/nisr/2019/67/regulation/12) omitted (31.8.2022) by virtue of [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(10)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/10)
 
-[^key-c75691fbec5124d80e8577f03b93e77e]: Commencement: Reg. 13 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
+[^c-c75691fbec5124d80e8577f03b93e77e]: Commencement: Reg. 13 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
 
-[^key-b28b00ccfb6464762eb1845d7ba15d56]: Textual amendment: [Reg. 13(1)](https://www.legislation.gov.uk/nisr/2019/67/regulation/13/1) substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(11)(a)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/11/a)
+[^c-b28b00ccfb6464762eb1845d7ba15d56]: Textual amendment: [Reg. 13(1)](https://www.legislation.gov.uk/nisr/2019/67/regulation/13/1) substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(11)(a)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/11/a)
 
-[^key-e978888b525ddc338871db5585fa1198]: Textual amendment: [Reg. 13(4)](https://www.legislation.gov.uk/nisr/2019/67/regulation/13/4) omitted (31.8.2022) by virtue of [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(11)(b)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/11/b)
+[^c-e978888b525ddc338871db5585fa1198]: Textual amendment: [Reg. 13(4)](https://www.legislation.gov.uk/nisr/2019/67/regulation/13/4) omitted (31.8.2022) by virtue of [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(11)(b)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/11/b)
 
-[^key-e30864d402a3313f55c5d537d12c4e86]: Commencement: Reg. 14 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
+[^c-e30864d402a3313f55c5d537d12c4e86]: Commencement: Reg. 14 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
 
-[^key-83d6e694842add5d343519c9c1c05a57]: Textual amendment: Words in [reg. 14(1)-(4)](https://www.legislation.gov.uk/nisr/2019/67/regulation/14/1) substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(3)(e)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/3/e)
+[^c-83d6e694842add5d343519c9c1c05a57]: Textual amendment: Words in [reg. 14(1)-(4)](https://www.legislation.gov.uk/nisr/2019/67/regulation/14/1) substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(3)(e)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/3/e)
 
-[^key-389a372144a82aa99a88511a1a7aa151]: Commencement: Reg. 15 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
+[^c-389a372144a82aa99a88511a1a7aa151]: Commencement: Reg. 15 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
 
-[^key-c14adac46c4c274c4069bb494c6f3ecc]: Commencement: Reg. 16 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
+[^c-c14adac46c4c274c4069bb494c6f3ecc]: Commencement: Reg. 16 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
 
-[^key-0b8a926cb8a7afaac8f77b7482000448]: Commencement: Reg. 17 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
+[^c-0b8a926cb8a7afaac8f77b7482000448]: Commencement: Reg. 17 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
 
-[^key-a5b6474e76294c7bda5f166f054e9b9f]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/nisr/2019/67/regulation/17/1) substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(3)(f)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/3/f)
+[^c-a5b6474e76294c7bda5f166f054e9b9f]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/nisr/2019/67/regulation/17/1) substituted (31.8.2022) by [The Equine Identification (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/200)](https://www.legislation.gov.uk/nisr/2022/200), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/200/regulation/1/1), [2(3)(f)](https://www.legislation.gov.uk/nisr/2022/200/regulation/2/3/f)
 
-[^key-7dab6ad1d04c2b190eb5c5285013f73e]: Commencement: Reg. 18 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
+[^c-7dab6ad1d04c2b190eb5c5285013f73e]: Commencement: Reg. 18 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
 
-[^key-fd8ef8eb5b8f0ea8e7ceb71fd03a759c]: Commencement: Reg. 19 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
+[^c-fd8ef8eb5b8f0ea8e7ceb71fd03a759c]: Commencement: Reg. 19 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
 
-[^key-e4eb624b2ca338c524b55a28f67174fb]: Commencement: Reg. 20 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
+[^c-e4eb624b2ca338c524b55a28f67174fb]: Commencement: Reg. 20 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
 
 [^f00009]: Footnote: [1945 c.15](https://www.legislation.gov.uk/ukpga/1945/15). Sub-sections (1) and (2) were repealed by [1964 c.21 (NI)](https://www.legislation.gov.uk/apni/1964/21). Sub-section (3) was amended by Article 10 of 1972 NI and by section 85 and paragraph 1 of Schedule 12 to [2002 c.26](https://www.legislation.gov.uk/ukpga/2002/26)
 
 [^f00010]: Footnote: [1981 No. 1675 N.I. 26](https://www.legislation.gov.uk/nisi/1981/1675)
 
-[^key-68ffc6a50276f78928a169e1066155f6]: Commencement: Reg. 21 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
+[^c-68ffc6a50276f78928a169e1066155f6]: Commencement: Reg. 21 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/67/regulation/1)
 
 [^f00011]: Footnote: [S.R. 2010 No.40](https://www.legislation.gov.uk/nisr/2010/40)

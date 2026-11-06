@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Information about interest distributions and TEF distributions (non-dividend) made without deduction of tax[^key-c75c019f04786a7fe854dcdc13febbf5]
+## 72. Information about interest distributions and TEF distributions (non-dividend) made without deduction of tax[^c-c75c019f04786a7fe854dcdc13febbf5]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Commissioners may by notice require a person specified in paragraph (2) to provide them with such information as they may reasonably require for the purpose of determining whether interest distributions and TEF distributions (non-dividend)[^key-f7c9c00c819ec3bc81ff7e24236aa6f4] were properly made by that person without deduction of tax.
+(1) The Commissioners may by notice require a person specified in paragraph (2) to provide them with such information as they may reasonably require for the purpose of determining whether interest distributions and TEF distributions (non-dividend)[^c-f7c9c00c819ec3bc81ff7e24236aa6f4] were properly made by that person without deduction of tax.
 
 (2) The persons specified are—
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c75c019f04786a7fe854dcdc13febbf5]: Textual amendment: Words in reg. 72 heading inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [26](https://www.legislation.gov.uk/uksi/2009/2036/regulation/26)
+[^c-c75c019f04786a7fe854dcdc13febbf5]: Textual amendment: Words in reg. 72 heading inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [26](https://www.legislation.gov.uk/uksi/2009/2036/regulation/26)
 
-[^key-f7c9c00c819ec3bc81ff7e24236aa6f4]: Textual amendment: Words in reg. 72(1) inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [28](https://www.legislation.gov.uk/uksi/2009/2036/regulation/28)
+[^c-f7c9c00c819ec3bc81ff7e24236aa6f4]: Textual amendment: Words in reg. 72(1) inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [28](https://www.legislation.gov.uk/uksi/2009/2036/regulation/28)

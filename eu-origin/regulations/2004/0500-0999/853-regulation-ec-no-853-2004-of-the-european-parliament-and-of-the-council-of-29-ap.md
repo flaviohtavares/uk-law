@@ -50,7 +50,7 @@ of 29 April 2004
 
 laying down specific hygiene rules for food of animal origin
 
-[^key-771e7511de020f278b6a859edcb0550e]
+[^c-771e7511de020f278b6a859edcb0550e]
 
 THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
 
@@ -204,7 +204,7 @@ HAVE ADOPTED THIS REGULATION:
 - (d) the direct supply, by the producer, of small quantities of meat from poultry and lagomorphs slaughtered on the farm to the final consumer or to local retail establishments directly supplying such meat to the final consumer as fresh meat;
 - (e) hunters who supply small quantities of wild game or wild game meat directly to the final consumer or to local retail establishments directly supplying the final consumer.
 
-4.[^key-41a4fd77d07789c0fdc7723e20fc473c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-41a4fd77d07789c0fdc7723e20fc473c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 5.
 
@@ -213,8 +213,8 @@ HAVE ADOPTED THIS REGULATION:
   - ((i)) the operations consist only of storage or transport, in which case the specific temperature requirements laid down in Annex III shall nevertheless apply;
 
     or
-  - ((ii)) the supply of food of animal origin from the retail establishment is to other retail establishments only and [^key-c952441796143cb989ca9219fec8d917]... is a marginal, localised and restricted activity.
-- (c) The appropriate authority[^key-79a7eca5d2bf35614c04b97232da68a3] may adopt [^key-814c0fbb0f646463889e7120f4990977]... measures to apply the requirements of this Regulation to retail establishments [^key-814c0fbb0f646463889e7120f4990977]... to which it would not apply pursuant to subparagraphs (a) or (b).
+  - ((ii)) the supply of food of animal origin from the retail establishment is to other retail establishments only and [^c-c952441796143cb989ca9219fec8d917]... is a marginal, localised and restricted activity.
+- (c) The appropriate authority[^c-79a7eca5d2bf35614c04b97232da68a3] may adopt [^c-814c0fbb0f646463889e7120f4990977]... measures to apply the requirements of this Regulation to retail establishments [^c-814c0fbb0f646463889e7120f4990977]... to which it would not apply pursuant to subparagraphs (a) or (b).
 
 6. This Regulation shall apply without prejudice to:
 
@@ -234,7 +234,7 @@ The following definitions shall apply for the purposes of this Regulation:
 
   and
 - 4.. any technical definitions contained in Annexes II and III.
-- 5.. “[^key-01a65844ef8bd057116d051b32ef693b]**appropriate authority**” means—
+- 5.. “[^c-01a65844ef8bd057116d051b32ef693b]**appropriate authority**” means—
   - ((a)) in relation to England, the Secretary of State;
   - ((b)) in relation to Wales, the Welsh Ministers;
   - ((c)) in relation to Scotland, the Scottish Ministers;
@@ -246,11 +246,11 @@ The following definitions shall apply for the purposes of this Regulation:
 
 1. Food business operators shall comply with the relevant provisions of Annexes II and III.
 
-2.[^key-7516425b67c39fb3aa1cf9b2a7e1481f] Food business operators must not use any substance other than potable water—or, when Regulation [(EC) No. 852/2004](https://www.legislation.gov.uk/european/regulation/2004/0852) or this Regulation permits its use, clean water— to remove surface contamination from products of animal origin, unless use of the substance has been prescribed by the appropriate authority. Food business operators must comply with any conditions of use that may be prescribed by the appropriate authority. The use of a prescribed substance does not affect the food business operator’s duty to comply with the requirements of this Regulation.
+2.[^c-7516425b67c39fb3aa1cf9b2a7e1481f] Food business operators must not use any substance other than potable water—or, when Regulation [(EC) No. 852/2004](https://www.legislation.gov.uk/european/regulation/2004/0852) or this Regulation permits its use, clean water— to remove surface contamination from products of animal origin, unless use of the substance has been prescribed by the appropriate authority. Food business operators must comply with any conditions of use that may be prescribed by the appropriate authority. The use of a prescribed substance does not affect the food business operator’s duty to comply with the requirements of this Regulation.
 
 ### Article 4. Registration and approval of establishments
 
-1. Food business operators shall place products of animal origin [^key-3b9fb7d3ee4e93445f0c54277aa81020]... on the market only if they have been prepared and handled exclusively in establishments:
+1. Food business operators shall place products of animal origin [^c-3b9fb7d3ee4e93445f0c54277aa81020]... on the market only if they have been prepared and handled exclusively in establishments:
 
 - (a) that meet the relevant requirements of Regulation (EC) No 852/2004, those of Annexes II and III of this Regulation and other relevant requirements of food law;
 
@@ -277,7 +277,7 @@ The following definitions shall apply for the purposes of this Regulation:
 
 5. This Article shall not prevent an establishment from placing food on the market between the date of application of this Regulation and the first subsequent inspection by the competent authority, if the establishment:
 
-- (a) is subject to approval in accordance with paragraph 2 and placed products of animal origin on the market in accordance with [^key-3761b19fc34eb48f202a792524eee27e]... legislation immediately prior to the application of this Regulation;
+- (a) is subject to approval in accordance with paragraph 2 and placed products of animal origin on the market in accordance with [^c-3761b19fc34eb48f202a792524eee27e]... legislation immediately prior to the application of this Regulation;
 
   or
 - (b) is of a type in respect of which there was no requirement for approval before the application of this Regulation.
@@ -295,14 +295,14 @@ The following definitions shall apply for the purposes of this Regulation:
 
 3. Food business operators may not remove a health mark applied in accordance with Regulation (EC) No 854/2004 from meat unless they cut or process it or work upon it in another manner.
 
-### Article 6. Products of animal origin from outside Great Britain[^key-56e6d83583b5efc7bf1285dab5b39998]
+### Article 6. Products of animal origin from outside Great Britain[^c-56e6d83583b5efc7bf1285dab5b39998]
 
 1. Food business operators importing products of animal origin from third countries shall ensure that importation takes place only if:
 
-- (a) the [^key-c92971ecef5ca01c08bbf9e0421ccc45]... country of dispatch appears on a list, drawn up in accordance with Article 11 of Regulation (EC) No 854/2004, of [^key-c92971ecef5ca01c08bbf9e0421ccc45]... countries from which imports of that product are permitted;
+- (a) the [^c-c92971ecef5ca01c08bbf9e0421ccc45]... country of dispatch appears on a list, drawn up in accordance with Article 11 of Regulation (EC) No 854/2004, of [^c-c92971ecef5ca01c08bbf9e0421ccc45]... countries from which imports of that product are permitted;
 - (b)
   - ((i)) the establishment from which that product was dispatched, and in which it was obtained or prepared, appears on a list, drawn up in accordance with Article 12 of Regulation (EC) No 854/2004, of establishments from which imports of that product are permitted, when applicable,
-  - ((ii)) in the case of fresh meat, minced meat, meat preparations, meat products and MSM, the product was manufactured from meat obtained in slaughterhouses and cutting plants appearing on lists drawn up and updated in accordance with Article 12 of Regulation (EC) No 854/2004 [^key-b6d930e8b1f9d14e711d2dd9a13d4290]...,
+  - ((ii)) in the case of fresh meat, minced meat, meat preparations, meat products and MSM, the product was manufactured from meat obtained in slaughterhouses and cutting plants appearing on lists drawn up and updated in accordance with Article 12 of Regulation (EC) No 854/2004 [^c-b6d930e8b1f9d14e711d2dd9a13d4290]...,
 
     and
   - ((iii)) in the case of live bivalve molluscs, echinoderms, tunicates and marine gastropods, the production area appears on a list drawn up in accordance with Article 13 of that Regulation, when applicable;
@@ -311,7 +311,7 @@ The following definitions shall apply for the purposes of this Regulation:
   - ((ii)) the requirements of Regulation (EC) No 852/2004;
 
     and
-  - ((iii)) any import conditions laid down in accordance with [^key-133b5f7a6a8fb3a9dc050a6f7b6bd0f9]... legislation governing import controls for products of animal origin,
+  - ((iii)) any import conditions laid down in accordance with [^c-133b5f7a6a8fb3a9dc050a6f7b6bd0f9]... legislation governing import controls for products of animal origin,
 
   and
 - (d) the requirements of Article 14 of Regulation (EC) No 854/2004 concerning certificates and documents are satisfied, when applicable.
@@ -341,7 +341,7 @@ The following definitions shall apply for the purposes of this Regulation:
   and
 - (b) provision may be made for the use of electronic documents.
 
-### Article 8. Special guarantees[^key-0ad34b5469988dac9d6be8a5ec716e54]
+### Article 8. Special guarantees[^c-0ad34b5469988dac9d6be8a5ec716e54]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -353,7 +353,7 @@ The following definitions shall apply for the purposes of this Regulation:
 
 ### Article 10. Amendment and adaptation of Annexes II and III
 
-1.[^key-5f4ccf3b2f47dbbc10fa10edede69d23] The appropriate authority may prescribe amendments to Annexes 2 and 3 to take account of—
+1.[^c-5f4ccf3b2f47dbbc10fa10edede69d23] The appropriate authority may prescribe amendments to Annexes 2 and 3 to take account of—
 
 - (a) the development of guides to good practice;
 - (b) the experience gained from the implementation of HACCP-based systems pursuant to Article 5 of Regulation [(EC) No 852/2004](https://www.legislation.gov.uk/eur/2004/852);
@@ -362,7 +362,7 @@ The following definitions shall apply for the purposes of this Regulation:
 - (e)) microbiological and temperature criteria for foodstuffs; and
 - (f) changes in patterns of consumption.
 
-(1A.)[^key-7eb5cf2cd3cbdcc2261d0bf525da2074] Amendments under paragraph 1 may, in particular, prescribe—
+(1A.)[^c-7eb5cf2cd3cbdcc2261d0bf525da2074] Amendments under paragraph 1 may, in particular, prescribe—
 
 - (a) the requirements on the identification marking of products of animal origin;
 - (b) the objectives of HACCP-based procedures;
@@ -378,36 +378,36 @@ The following definitions shall apply for the purposes of this Regulation:
   - (ii) virus testing procedures and virological standards; and
   - (iii) sampling plans and the methods and analytical tolerances to be applied to check compliance with the health standards.
 
-2.[^key-e9ae78da831257ce15f4b4f700a85372] Without prejudice to the general application of Article 10(1), the appropriate authority may, provided that they do not affect the achievement of the objectives of this Regulation, prescribe derogations[^key-ca0ea90dc0aad696ebcd8546cf9c1ba1] from Annexes 2 and 3 taking into account the relevant risk factors and provided that such derogations do not affect the achievement of the following objectives of this Regulation:[^key-bd8ccb92144c0ca2f68cf88662133995]
+2.[^c-e9ae78da831257ce15f4b4f700a85372] Without prejudice to the general application of Article 10(1), the appropriate authority may, provided that they do not affect the achievement of the objectives of this Regulation, prescribe derogations[^c-ca0ea90dc0aad696ebcd8546cf9c1ba1] from Annexes 2 and 3 taking into account the relevant risk factors and provided that such derogations do not affect the achievement of the following objectives of this Regulation:[^c-bd8ccb92144c0ca2f68cf88662133995]
 
 - (a) to facilitate the fulfilment, by small businesses, of the requirements laid down in the Annexes;
 - (b) to enable the continued use of traditional methods at any of the stages of production, processing or distribution of food;
 - (c) to accommodate the needs of food businesses situated in regions that are subject to special geographic constraints;
 - (d) to facilitate the work of establishments producing raw material which is intended for the production of highly refined food products and which has undergone a treatment ensuring its safety.
 
-3.[^key-92cd798f4f7164dbc4fd852334ba2a85] Nothing in this Regulation prevents the appropriate authority from using any power which the appropriate authority has to make subordinate legislation adapting the requirements set down in Annex 3 where that legislation does not compromise the achievement of the objectives of this Regulation and—
+3.[^c-92cd798f4f7164dbc4fd852334ba2a85] Nothing in this Regulation prevents the appropriate authority from using any power which the appropriate authority has to make subordinate legislation adapting the requirements set down in Annex 3 where that legislation does not compromise the achievement of the objectives of this Regulation and—
 
 - (a) the adaptations have the aim of—
   - enabling the continued use of traditional methods, at any of the stages of production, processing or distribution of food; or
   - accommodating the needs of food businesses situated in regions that are subject to special geographical constraints;
 - (b) in cases not involving the matters at (a), the adaptations apply only to the construction, layout and equipment of establishments.
 
-4.[^key-2dc8991c9148250ee5b1fea62b4a0486] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-2dc8991c9148250ee5b1fea62b4a0486] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-5.[^key-2dc8991c9148250ee5b1fea62b4a0486] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.[^c-2dc8991c9148250ee5b1fea62b4a0486] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-6.[^key-2dc8991c9148250ee5b1fea62b4a0486] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6.[^c-2dc8991c9148250ee5b1fea62b4a0486] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-7.[^key-2dc8991c9148250ee5b1fea62b4a0486] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7.[^c-2dc8991c9148250ee5b1fea62b4a0486] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-8.[^key-2392f47646bea8ce0ff576edca1d7312] Nothing in this Regulation prevents the appropriate authority from using any power which the appropriate authority has to make subordinate legislation—
+8.[^c-2392f47646bea8ce0ff576edca1d7312] Nothing in this Regulation prevents the appropriate authority from using any power which the appropriate authority has to make subordinate legislation—
 
 - (a) prohibiting or restricting the placing on the market raw milk or raw cream intended for direct human consumption;
 - (b) permitting the use, with the authorisation of the competent authority, of raw milk not meeting the criteria laid down in Annex 3, Section 9 as regards plate count and somatic cell count of the manufacture of cheeses with an ageing or ripening period of at least 60 days, and dairy products obtained in connection with the manufacture of such cheeses, provided that this does not prejudice the achievement of the objectives of this Regulation.
 
 ### Article 11. Specific decisions
 
-Without prejudice to the general application of Article 10(1), the appropriate authority may prescribe implementing measures or amendments[^key-9677281ab8b93b617b6220413418f60b] [^key-8cbfdbd2aa2292d70096916627686cd0]...—
+Without prejudice to the general application of Article 10(1), the appropriate authority may prescribe implementing measures or amendments[^c-9677281ab8b93b617b6220413418f60b] [^c-8cbfdbd2aa2292d70096916627686cd0]...—
 
 - 1.. [^c000004]...
 - 2.. to specify, in respect of MSM, which calcium content is not significantly higher than that of minced meat;
@@ -424,11 +424,11 @@ Without prejudice to the general application of Article 10(1), the appropriate a
   and
 - 12.. to approve equivalent processes for the production of gelatine or collagen.
 
-### Article 11a. Exercise of the delegation[^key-e312fa15c4f7df034b62bc92cfe25181]
+### Article 11a. Exercise of the delegation[^c-e312fa15c4f7df034b62bc92cfe25181]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 12. Regulations and devolved powers[^M_F_a7544286-e858-444b-e93b-d704ce5e7032][^key-ae0e61ebdac5adbce1b3f38571995b62]
+### Article 12. Regulations and devolved powers[^M_F_a7544286-e858-444b-e93b-d704ce5e7032][^c-ae0e61ebdac5adbce1b3f38571995b62]
 
 1. Any power to make regulations under this Regulation—
 
@@ -454,11 +454,11 @@ Without prejudice to the general application of Article 10(1), the appropriate a
 - (b)) of the Welsh Ministers to make regulations is limited to regulations which apply in relation to Wales only;
 - (c)) of the Scottish Ministers to make regulations is limited to regulations which apply in relation to Scotland only.
 
-### Article 13. Consultation of the ... Food Safety Authority[^key-4e69f0b5b54f5848c278424ece4a7b60][^key-be6a349b0c702f1a321f2cf9893bb26d]
+### Article 13. Consultation of the ... Food Safety Authority[^c-4e69f0b5b54f5848c278424ece4a7b60][^c-be6a349b0c702f1a321f2cf9893bb26d]
 
 The appropriate authority must consult the Food Safety Authority on matters falling within the scope of this Regulation that could have a significant impact on public health and, in particular, before proposing to extend Annex 3, Section 3, to other animal species.
 
-### Article 14. Report to the European Parliament and to the Council[^key-8b88a427b9671803bcfb377fd30eacf4]
+### Article 14. Report to the European Parliament and to the Council[^c-8b88a427b9671803bcfb377fd30eacf4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -474,7 +474,7 @@ It shall apply 18 months after the date on which all of the following acts have 
 
 However, it shall apply no earlier than 1 January 2006 .
 
-[^key-a01b558c3b36afa2f6e798bfbca0c4ff] ...
+[^c-a01b558c3b36afa2f6e798bfbca0c4ff] ...
 
 ## ANNEX I — DEFINITIONS
 
@@ -757,7 +757,7 @@ An identification mark is not necessary on packs of eggs when a packing centre c
 
 Food business operators must, in accordance with Article 18 of Regulation (EC) No 178/2002, have in place systems and procedures to identify food business operators from whom they have received and to whom they have delivered products of animal origin.
 
-B.[^key-97382bc9ed8afccdbba64bea516c550c]
+B.[^c-97382bc9ed8afccdbba64bea516c550c]
 
 FORM OF THE IDENTIFICATION MARK
 
@@ -807,7 +807,7 @@ When products of animal origin are placed in a package destined for direct suppl
 
 14\.
 
-When the mark is applied directly to products of animal origin, the colours used must be authorised in accordance with applicable legislation in force in the relevant constituent territory of Great Britain[^key-540b38d777f7bb1a909aca09db731530] on the use of colouring substances in foodstuffs.
+When the mark is applied directly to products of animal origin, the colours used must be authorised in accordance with applicable legislation in force in the relevant constituent territory of Great Britain[^c-540b38d777f7bb1a909aca09db731530] on the use of colouring substances in foodstuffs.
 
 ### SECTION II: — OBJECTIVES OF HACCP-BASED PROCEDURES
 
@@ -848,7 +848,7 @@ Slaughterhouse operators must be provided with the information no less than 24 h
 
 The relevant food chain information referred to in point 1 is to cover, in particular:
 
-- ((a)) the status of the holding of provenance or the regional animal health status, and whether the holding is officially recognised to apply controlled housing conditions in relation to[^c000010] *Trichinella* in accordance with Point A of Chapter I of Annex IV to Commission Regulation[^key-5253b090adb1088f27006b35fd40e892] [(EC) No. 2015/1375](https://www.legislation.gov.uk/eur/1375/2015);
+- ((a)) the status of the holding of provenance or the regional animal health status, and whether the holding is officially recognised to apply controlled housing conditions in relation to[^c000010] *Trichinella* in accordance with Point A of Chapter I of Annex IV to Commission Regulation[^c-5253b090adb1088f27006b35fd40e892] [(EC) No. 2015/1375](https://www.legislation.gov.uk/eur/1375/2015);
 - ((b)) the animals' health status;
 - ((c)) veterinary medicinal products or other treatments administered to the animals within a relevant period and with a withdrawal period greater than zero, together with their dates of administration and withdrawal periods;
 - ((d)) the occurrence of diseases that may affect the safety of meat;
@@ -901,7 +901,7 @@ For the purposes of this Section, ‘ date of production ’ means:
 
 2\.
 
-Until the stage at which a food is labelled in accordance with Regulation (EU) 1169/2011[^key-eeb25c852bf4c6cb8f81ce61f82bc77c] or used for further processing, food business operators must ensure that in the case of frozen food of animal origin intended for human consumption, the following information is made available to the food business operator to whom the food is supplied and, upon request, to the competent authority:
+Until the stage at which a food is labelled in accordance with Regulation (EU) 1169/2011[^c-eeb25c852bf4c6cb8f81ce61f82bc77c] or used for further processing, food business operators must ensure that in the case of frozen food of animal origin intended for human consumption, the following information is made available to the food business operator to whom the food is supplied and, upon request, to the competent authority:
 
 - ((a)) the date of production; and
 - ((b)) the date of freezing, if different from the date of production.
@@ -1084,7 +1084,7 @@ Food business operators must ensure that the storage and transport of meat of do
     - ((vi)) a declaration by the food business operator accompanies the consignment; that declaration must state the duration of chilling before loading, the time at which loading of the carcases, half carcases, quarters, or half carcases cut into three wholesale cuts were started, the surface temperature at that time, the maximum transportation air temperature to which carcases, half carcases, quarters, or half carcases cut into three wholesale cuts may be subjected, the maximum transport time permitted, the date of authorisation and the name of the competent authority providing the derogation;
     - ((vii)) the food business operator of destination must notify the competent authorities before he receives for the first time carcases, half carcases, quarters, or half carcases cut into three wholesale cuts, not attaining the temperature specified in point 1 before transport;
     - ((viii)) such meat is transported in accordance with the following parameters:
-      - for a maximum transport time [^f00026][^key-5650683a2d2af449cafe4ccb1c83f8d4] of 6 hours:
+      - for a maximum transport time [^f00026][^c-5650683a2d2af449cafe4ccb1c83f8d4] of 6 hours:
 
         <table>
         <tfoot>
@@ -1259,7 +1259,7 @@ Food business operators may slaughter poultry referred to in Chapter IV, point 1
 - 6.. The slaughtered birds must be accompanied to the slaughterhouse by a declaration by the food business operator who reared the animal indicating any veterinary products or other treatments administered to the animal, dates of administration and withdrawal periods, and the date and time of slaughter.
 - 7.. The slaughtered animal must be accompanied to the slaughterhouse by a certificate issued by the official veterinarian or approved veterinarian in accordance with Regulation (EC) No 854/2004.
 - 8.. In the case of poultry reared for the production of ‘ foie gras ’ , the uneviscerated birds must be transported immediately and, if necessary, refrigerated to a slaughterhouse or cutting plant. They must be eviscerated within 24 hours of slaughter under the supervision of the competent authority.
-- 9.. Delayed eviscerated poultry obtained at the farm of production may be kept for up to 15 days at a temperature of not more than 4 °C. It must then be eviscerated in a slaughterhouse or in a cutting plant located within the United Kingdom[^key-0d2966ba8e43e67dda8cef3cc17e565b].
+- 9.. Delayed eviscerated poultry obtained at the farm of production may be kept for up to 15 days at a temperature of not more than 4 °C. It must then be eviscerated in a slaughterhouse or in a cutting plant located within the United Kingdom[^c-0d2966ba8e43e67dda8cef3cc17e565b].
 
 #### CHAPTER VII: — WATER RETENTION AGENTS[^c000018]
 
@@ -1296,10 +1296,10 @@ Notwithstanding points 1 and 2, food business operators may slaughter farmed rat
 
 By way of derogation from point 3(j), the competent authority may authorise that the attestation of the correct slaughter and bleeding and of the date and time of slaughter be included only in the declaration by the food business operator referred to in point 3(i), provided that:
 
-- ((a)) the holding is situated in a region which is not under health restrictions in accordance with legislation in force in the relevant constituent territory of Great Britain;[^key-1002ebffcabb5718000114b7e77e53c2]
+- ((a)) the holding is situated in a region which is not under health restrictions in accordance with legislation in force in the relevant constituent territory of Great Britain;[^c-1002ebffcabb5718000114b7e77e53c2]
 - ((b)) the food business operator has demonstrated the appropriate level of competence to slaughter animals without causing the animals any avoidable pain, distress or suffering in accordance with Article 7(2) of Regulation (EC) No 1099/2009 and without prejudice to Article 12 of that Regulation.
 
-3b.[^key-6be6f833b27f3106d97148a073f6237f]
+3b.[^c-6be6f833b27f3106d97148a073f6237f]
 
 In paragraph 3a, “**region**” means that part of a constituent territory of Great Britain which is at least 2000km2 in area and which is subject to inspection by the competent authorities and includes at least one of the following administrative regions—
 
@@ -1365,7 +1365,7 @@ Meat of large wild game may be placed on the market only if the body is transpor
 
   However, the competent authority may authorise that heads of animals susceptible to *Trichinella* infestation be sent to a technical plant for the production of game trophies, which has been approved in accordance with Article 18 of Regulation (EC) No 1774/2002. The technical plant shall be indicated in the declaration of the trained person. A copy of that declaration shall be sent to the technical plant. Where the results of the *Trichinella* examination of the carcase are positive, the competent authority shall carry out an official check to verify the proper handling of the head in the technical plant.
 
-  However, hunters must comply with any additional requirements imposed [^key-bb505c962b6dca81e9176da8315c7c53]... where hunting takes place, in particular to permit the monitoring of certain residues and substances in accordance with Directive 96/23/EC.
+  However, hunters must comply with any additional requirements imposed [^c-bb505c962b6dca81e9176da8315c7c53]... where hunting takes place, in particular to permit the monitoring of certain residues and substances in accordance with Directive 96/23/EC.
 - ((b)) In other circumstances, the head (except for tusks, antlers and horns) and all the viscera except for the stomach and intestines must accompany the body. The trained person who carried out the examination must inform the competent authority of the abnormal characteristics, abnormal behaviour or suspicion of environmental contamination that prevented him or her from making a declaration in accordance with (a);
 - ((c)) If no trained person is available to carry out the examination referred to in point 2 in a particular case, the head (except for tusks, antlers and horns) and all the viscera except for the stomach and the intestines must accompany the body.
 
@@ -1388,7 +1388,7 @@ In addition, unskinned large wild game:
 - ((a)) may be skinned and placed on the market only if:
   - ((i)) before skinning, it is stored and handled separately from other food and it is not frozen;
   - ((ii)) after skinning, it undergoes a final inspection in a game-handling establishment in accordance with Regulation (EC) No 854/2004;
-- ((b)) [^key-6d7bf895c431e65017ad62240775dd3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ((b)) [^c-6d7bf895c431e65017ad62240775dd3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 9\.
 
@@ -1518,7 +1518,7 @@ Food business operators producing minced meat, meat preparations or MSM must ens
 
 1\.
 
-In addition to the requirements of Directive 2000/13/EC[^f00033], food business operators must ensure compliance with the requirement of point 2 [^key-d2b8ee0a4c88e7451dd2873a728b8d9d]....
+In addition to the requirements of Directive 2000/13/EC[^f00033], food business operators must ensure compliance with the requirement of point 2 [^c-d2b8ee0a4c88e7451dd2873a728b8d9d]....
 
 2\.
 
@@ -1581,7 +1581,7 @@ Whenever a food business operator moves a batch of live bivalve molluscs between
 
 4\.
 
-The registration document must be in English or in English and Welsh and contain at least the information specified below.[^key-848543da38f0d2e28f295d49ecb89259]
+The registration document must be in English or in English and Welsh and contain at least the information specified below.[^c-848543da38f0d2e28f295d49ecb89259]
 
 - ((a)) In the case of a batch of live bivalve molluscs sent from a production area, the registration document must contain at least the following information:
   - ((i)) the gatherer's identity and address;
@@ -1784,7 +1784,7 @@ In addition to the general requirements for identification marks contained in An
   and
 - ((b)) the date of packaging, comprising at least the day and the month.
 
-By way of derogation from Regulation (EU) 1169/2011[^key-707ba81e264d0da526e0112197b6ffd1], the date of minimum durability may be replaced by the entry ‘these animals must be alive when sold’.
+By way of derogation from Regulation (EU) 1169/2011[^c-707ba81e264d0da526e0112197b6ffd1], the date of minimum durability may be replaced by the entry ‘these animals must be alive when sold’.
 
 3\.
 
@@ -1817,7 +1817,7 @@ Food business operators harvesting pectinidae, marine gastropods and echinoderms
 
 This Section does not apply to bivalve molluscs, echinoderms, tunicates and marine gastropods if they are still alive when placed on the market. With the exception of Chapters I and II, it applies to such animals when not placed on the market live, in which case they must have been obtained in accordance with Section VII.
 
-It applies to thawed unprocessed fishery products and fresh fishery products to which food additives have been added in accordance with the appropriate legislation in force in the relevant constituent territory of Great Britain.[^key-169f9f5d1b422d84a9e233005c1c5080] .
+It applies to thawed unprocessed fishery products and fresh fishery products to which food additives have been added in accordance with the appropriate legislation in force in the relevant constituent territory of Great Britain.[^c-169f9f5d1b422d84a9e233005c1c5080] .
 
 2\.
 
@@ -2001,7 +2001,7 @@ Food business operators responsible for auction and wholesale markets or parts t
 
 When chilling was not possible on board the vessel, fresh fishery products, other than those kept alive, must undergo chilling as soon as possible after landing and be stored at a temperature approaching that of melting ice.
 
-4.[^key-ab3c176841eaf431a08e40805494dda3]
+4.[^c-ab3c176841eaf431a08e40805494dda3]
 
 Food business operators must cooperate with relevant competent authorities so as to permit them to carry out official controls in accordance with Regulation [(EC) No. 854/2004](https://www.legislation.gov.uk/eur/2004/854) and notify the competent authority of where the fishery products are landed.
 
@@ -2129,7 +2129,7 @@ The production process for fish oil must ensure that all raw material intended f
 
 Provided that the raw materials and the production process comply with the requirements applying to fish oil intended for human consumption a food business operator may produce and store both fish oil for human consumption and fish oil and fish meal not intended for human consumption in the same establishment.
 
-[^key-fa6b084584eb33de0fb86efe47cd71e3]4.
+[^c-fa6b084584eb33de0fb86efe47cd71e3]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
 
@@ -2348,7 +2348,7 @@ CRITERIA FOR RAW MILK AND COLOSTRUM
 
 2\.
 
-A representative number of samples of raw milk and colostrum collected from milk production holdings taken by random sampling must be checked for compliance with points 3 and 4 in case of raw milk [^key-f694897fbbdfc79d01923a4f62c74947].... The checks may be carried out by, or on behalf of:
+A representative number of samples of raw milk and colostrum collected from milk production holdings taken by random sampling must be checked for compliance with points 3 and 4 in case of raw milk [^c-f694897fbbdfc79d01923a4f62c74947].... The checks may be carried out by, or on behalf of:
 
 - ((a)) the food business operator producing the milk;
 - ((b)) the food business operator collecting or processing the milk;
@@ -2479,7 +2479,7 @@ Sealing of consumer packages must be carried out immediately after filling in th
 
 1\.
 
-In addition to the requirements of Regulation (EU) No. 1169/2011, except in the cases envisaged in Article 16(1) and (2) of that Regulation, labelling must clearly show—[^key-59ff2c5625db65bf92d578d2773f776d]
+In addition to the requirements of Regulation (EU) No. 1169/2011, except in the cases envisaged in Article 16(1) and (2) of that Regulation, labelling must clearly show—[^c-59ff2c5625db65bf92d578d2773f776d]
 
 - ((a)) in the case of raw milk intended for direct human consumption, the words ‘raw milk’;
 - ((b)) in the case of products made with raw milk, the manufacturing process for which does not include any heat treatment or any physical or chemical treatment, the words ‘made with raw milk’;
@@ -2495,7 +2495,7 @@ The requirements of paragraph 1 apply to products destined for retail trade. The
 By way of derogation from the requirements of Annex II, Section I:
 
 - 1.. rather than indicating the approval number of the establishment, the identification mark may include a reference to where on the wrapping or packaging the approval number of the establishment is indicated;
-- 2.. in the case of the reusable bottles, the identification mark may indicate only the initials of the United Kingdom[^key-948e0c1fd810a8267f3a57cc7069b22a] and the approval number of the establishment.
+- 2.. in the case of the reusable bottles, the identification mark may indicate only the initials of the United Kingdom[^c-948e0c1fd810a8267f3a57cc7069b22a] and the approval number of the establishment.
 
 ### SECTION X: — EGGS AND EGG PRODUCTS
 
@@ -2748,7 +2748,7 @@ All precautions, including safe disposal of animal by-products, waste, unused or
 
 The production process for gelatine must ensure that:
 
-- ((a)) all ruminant bone material derived from animals born, reared or slaughtered in countries or regions with a controlled or undetermined BSE risk in accordance with [^key-d783e893638cb49142bc479c6e734f97]... legislation is subjected to a process which ensures that all bone material is finely crushed and degreased with hot water and treated with dilute hydrochloric acid (at minimum concentration of 4 % and pH \< 1,5) over a period of at least two days. This treatment is followed either by:
+- ((a)) all ruminant bone material derived from animals born, reared or slaughtered in countries or regions with a controlled or undetermined BSE risk in accordance with [^c-d783e893638cb49142bc479c6e734f97]... legislation is subjected to a process which ensures that all bone material is finely crushed and degreased with hot water and treated with dilute hydrochloric acid (at minimum concentration of 4 % and pH \< 1,5) over a period of at least two days. This treatment is followed either by:
   - an alkaline treatment of saturated lime solution (pH > 12,5) for a period of at least 20 days with a heat treatment step of 138 °C minimum during at least four seconds, or
   - an acid treatment (pH \< 3,5) during 10 hours minimum with a heat treatment step of 138 °C minimum during at least four seconds, or
   - a heat-and-pressure process for at least 20 minutes with saturated steam of 133 °C at more than 3 bars, or
@@ -2977,7 +2977,7 @@ Done at …, on …
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EC) No 853/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for food of animal origin (Official Journal of the European Union L 139 of 30 April 2004)](https://www.legislation.gov.uk/eur/2004/853/pdfs/eurcs_20040853_en_001.pdf).
 
-[^key-771e7511de020f278b6a859edcb0550e]: Modification: Regulation applied (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/959/schedule/1) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-771e7511de020f278b6a859edcb0550e]: Modification: Regulation applied (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/959/schedule/1) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
 [^f00001]: Footnote: [OJ C 365 E, 19.12.2000, p. 58](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2000.365E.01.0058.01.ENG)[^c000001] .
 
@@ -3015,75 +3015,75 @@ Done at …, on …
 
 [^f00018]: Footnote: [OJ L 184, 17.7.1999, p. 23](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1999.184.01.0023.01.ENG) .
 
-[^key-41a4fd77d07789c0fdc7723e20fc473c]: Textual amendment: [Art. 1(4)](https://www.legislation.gov.uk/eur/2004/853/article/1/4) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/9/2)
+[^c-41a4fd77d07789c0fdc7723e20fc473c]: Textual amendment: [Art. 1(4)](https://www.legislation.gov.uk/eur/2004/853/article/1/4) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/9/2)
 
-[^key-c952441796143cb989ca9219fec8d917]: Textual amendment: Words in [Art. 1(5)(b)(ii)](https://www.legislation.gov.uk/eur/2004/853/article/1/5/b/ii) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [4(b)(i)](https://www.legislation.gov.uk/uksi/2019/640/regulation/4/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c952441796143cb989ca9219fec8d917]: Textual amendment: Words in [Art. 1(5)(b)(ii)](https://www.legislation.gov.uk/eur/2004/853/article/1/5/b/ii) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [4(b)(i)](https://www.legislation.gov.uk/uksi/2019/640/regulation/4/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-79a7eca5d2bf35614c04b97232da68a3]: Textual amendment: Words in [Art. 1(5)(c)](https://www.legislation.gov.uk/eur/2004/853/article/1/5/c) substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [4(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/640/regulation/4/b/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-79a7eca5d2bf35614c04b97232da68a3]: Textual amendment: Words in [Art. 1(5)(c)](https://www.legislation.gov.uk/eur/2004/853/article/1/5/c) substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [4(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/640/regulation/4/b/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-814c0fbb0f646463889e7120f4990977]: Textual amendment: Words in [Art. 1(5)(c)](https://www.legislation.gov.uk/eur/2004/853/article/1/5/c) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [4(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/640/regulation/4/b/ii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-814c0fbb0f646463889e7120f4990977]: Textual amendment: Words in [Art. 1(5)(c)](https://www.legislation.gov.uk/eur/2004/853/article/1/5/c) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [4(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/640/regulation/4/b/ii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-01a65844ef8bd057116d051b32ef693b]: Textual amendment: Art. 2(5)(6) inserted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/640/regulation/5) (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-01a65844ef8bd057116d051b32ef693b]: Textual amendment: Art. 2(5)(6) inserted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/640/regulation/5) (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7516425b67c39fb3aa1cf9b2a7e1481f]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/eur/2004/853/article/3/2) substituted (31.12.2020) by [The Specific Food Hygiene (Regulation (EC) No. 853/2004) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1247)](https://www.legislation.gov.uk/uksi/2019/1247), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1247/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2019/1247/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7516425b67c39fb3aa1cf9b2a7e1481f]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/eur/2004/853/article/3/2) substituted (31.12.2020) by [The Specific Food Hygiene (Regulation (EC) No. 853/2004) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1247)](https://www.legislation.gov.uk/uksi/2019/1247), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1247/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2019/1247/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3b9fb7d3ee4e93445f0c54277aa81020]: Textual amendment: Words in [Art. 4(1)](https://www.legislation.gov.uk/eur/2004/853/article/4/1) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3b9fb7d3ee4e93445f0c54277aa81020]: Textual amendment: Words in [Art. 4(1)](https://www.legislation.gov.uk/eur/2004/853/article/4/1) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00019]: Footnote: See page 83 of this Official Journal.
 
-[^key-3761b19fc34eb48f202a792524eee27e]: Textual amendment: Word in [Art. 4(5)(a)](https://www.legislation.gov.uk/eur/2004/853/article/4/5/a) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3761b19fc34eb48f202a792524eee27e]: Textual amendment: Word in [Art. 4(5)(a)](https://www.legislation.gov.uk/eur/2004/853/article/4/5/a) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-56e6d83583b5efc7bf1285dab5b39998]: Textual amendment: Words in Art. 6 heading substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [reg. 8(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/8/a) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-56e6d83583b5efc7bf1285dab5b39998]: Textual amendment: Words in Art. 6 heading substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [reg. 8(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/8/a) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c92971ecef5ca01c08bbf9e0421ccc45]: Textual amendment: Word in [Art. 6(1)(a)](https://www.legislation.gov.uk/eur/2004/853/article/6/1/a) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [8(b)(i)](https://www.legislation.gov.uk/uksi/2019/640/regulation/8/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c92971ecef5ca01c08bbf9e0421ccc45]: Textual amendment: Word in [Art. 6(1)(a)](https://www.legislation.gov.uk/eur/2004/853/article/6/1/a) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [8(b)(i)](https://www.legislation.gov.uk/uksi/2019/640/regulation/8/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b6d930e8b1f9d14e711d2dd9a13d4290]: Textual amendment: Words in [Art. 6(1)(b)(ii)](https://www.legislation.gov.uk/eur/2004/853/article/6/1/b/ii) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [8(b)(ii)](https://www.legislation.gov.uk/uksi/2019/640/regulation/8/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b6d930e8b1f9d14e711d2dd9a13d4290]: Textual amendment: Words in [Art. 6(1)(b)(ii)](https://www.legislation.gov.uk/eur/2004/853/article/6/1/b/ii) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [8(b)(ii)](https://www.legislation.gov.uk/uksi/2019/640/regulation/8/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-133b5f7a6a8fb3a9dc050a6f7b6bd0f9]: Textual amendment: Word in [Art. 6(1)(c)(iii)](https://www.legislation.gov.uk/eur/2004/853/article/6/1/c/iii) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [8(b)(iii)](https://www.legislation.gov.uk/uksi/2019/640/regulation/8/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-133b5f7a6a8fb3a9dc050a6f7b6bd0f9]: Textual amendment: Word in [Art. 6(1)(c)(iii)](https://www.legislation.gov.uk/eur/2004/853/article/6/1/c/iii) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [8(b)(iii)](https://www.legislation.gov.uk/uksi/2019/640/regulation/8/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00020]: Footnote: Council Directive 97/78/EC of 18 December 1997 laying down the principles governing the organisation of veterinary checks on products entering the Community from third countries ( [OJ L 24, 30.1.1998, p. 9](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1998.024.01.0009.01.ENG) ). Directive amended by the 2003 Act of Accession.
 
 [^f00021]: Footnote: Council Directive 2002/99/EC of 16 December 2002 laying down the animal health rules governing the production, processing, distribution and introduction of products of animal origin for human consumption ( [OJ L 18, 23.1.2003, p. 11](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.018.01.0011.01.ENG) ).
 
-[^key-0ad34b5469988dac9d6be8a5ec716e54]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/2004/853/article/8) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [9](https://www.legislation.gov.uk/uksi/2019/640/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0ad34b5469988dac9d6be8a5ec716e54]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/2004/853/article/8) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [9](https://www.legislation.gov.uk/uksi/2019/640/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000004]: Textual amendment: Deleted by [Regulation (EU) 2019/1243 of the European Parliament and of the Council of 20 June 2019 adapting a number of legal acts providing for the use of the regulatory procedure with scrutiny to Articles 290 and 291 of the Treaty on the Functioning of the European Union (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/1243).
 
-[^key-5f4ccf3b2f47dbbc10fa10edede69d23]: Textual amendment: [Art. 10(1)](https://www.legislation.gov.uk/eur/2004/853/article/10/1) substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5f4ccf3b2f47dbbc10fa10edede69d23]: Textual amendment: [Art. 10(1)](https://www.legislation.gov.uk/eur/2004/853/article/10/1) substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7eb5cf2cd3cbdcc2261d0bf525da2074]: Textual amendment: [Art. 10(1A)](https://www.legislation.gov.uk/eur/2004/853/article/10/1A) inserted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [9(3)(a)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/9/3/a)
+[^c-7eb5cf2cd3cbdcc2261d0bf525da2074]: Textual amendment: [Art. 10(1A)](https://www.legislation.gov.uk/eur/2004/853/article/10/1A) inserted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [9(3)(a)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/9/3/a)
 
-[^key-e9ae78da831257ce15f4b4f700a85372]: Textual amendment: [Art. 10(2)](https://www.legislation.gov.uk/eur/2004/853/article/10/2) substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e9ae78da831257ce15f4b4f700a85372]: Textual amendment: [Art. 10(2)](https://www.legislation.gov.uk/eur/2004/853/article/10/2) substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ca0ea90dc0aad696ebcd8546cf9c1ba1]: Textual amendment: Word in [Art. 10(2)](https://www.legislation.gov.uk/eur/2004/853/article/10/2) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [9(3)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/9/3/b/i)
+[^c-ca0ea90dc0aad696ebcd8546cf9c1ba1]: Textual amendment: Word in [Art. 10(2)](https://www.legislation.gov.uk/eur/2004/853/article/10/2) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [9(3)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/9/3/b/i)
 
-[^key-bd8ccb92144c0ca2f68cf88662133995]: Textual amendment: Words in [Art. 10(2)](https://www.legislation.gov.uk/eur/2004/853/article/10/2) inserted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [9(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/9/3/b/ii)
+[^c-bd8ccb92144c0ca2f68cf88662133995]: Textual amendment: Words in [Art. 10(2)](https://www.legislation.gov.uk/eur/2004/853/article/10/2) inserted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [9(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/9/3/b/ii)
 
-[^key-92cd798f4f7164dbc4fd852334ba2a85]: Textual amendment: [Art. 10(3)](https://www.legislation.gov.uk/eur/2004/853/article/10/3) substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2019/640/regulation/11/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-92cd798f4f7164dbc4fd852334ba2a85]: Textual amendment: [Art. 10(3)](https://www.legislation.gov.uk/eur/2004/853/article/10/3) substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2019/640/regulation/11/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2dc8991c9148250ee5b1fea62b4a0486]: Textual amendment: [Art. 10(4)-(7)](https://www.legislation.gov.uk/eur/2004/853/article/10/4) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [11(d)](https://www.legislation.gov.uk/uksi/2019/640/regulation/11/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2dc8991c9148250ee5b1fea62b4a0486]: Textual amendment: [Art. 10(4)-(7)](https://www.legislation.gov.uk/eur/2004/853/article/10/4) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [11(d)](https://www.legislation.gov.uk/uksi/2019/640/regulation/11/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2392f47646bea8ce0ff576edca1d7312]: Textual amendment: [Art. 10(8)](https://www.legislation.gov.uk/eur/2004/853/article/10/8) substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [11(e)](https://www.legislation.gov.uk/uksi/2019/640/regulation/11/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2392f47646bea8ce0ff576edca1d7312]: Textual amendment: [Art. 10(8)](https://www.legislation.gov.uk/eur/2004/853/article/10/8) substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [11(e)](https://www.legislation.gov.uk/uksi/2019/640/regulation/11/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9677281ab8b93b617b6220413418f60b]: Textual amendment: Words in Art. 11 substituted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9677281ab8b93b617b6220413418f60b]: Textual amendment: Words in Art. 11 substituted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8cbfdbd2aa2292d70096916627686cd0]: Textual amendment: Words in [Art. 11](https://www.legislation.gov.uk/eur/2004/853/article/11) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/9/4)
+[^c-8cbfdbd2aa2292d70096916627686cd0]: Textual amendment: Words in [Art. 11](https://www.legislation.gov.uk/eur/2004/853/article/11) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/9/4)
 
 [^f00022]: Footnote: Council Directive 96/23/EC of 29 April 1996 on measures to monitor certain substances and residues thereof in live animals and animal products ( [OJ L 125, 23.5.1996, p. 10](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1996.125.01.0010.01.ENG) ). Directive as amended by Regulation (EC) No 806/2003 ( [OJ L 122, 16.5.2003, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.122.01.0001.01.ENG) ).
 
-[^key-e312fa15c4f7df034b62bc92cfe25181]: Textual amendment: Art. 11a omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 12A](https://www.legislation.gov.uk/uksi/2019/640/regulation/12A) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(7)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/7))
+[^c-e312fa15c4f7df034b62bc92cfe25181]: Textual amendment: Art. 11a omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 12A](https://www.legislation.gov.uk/uksi/2019/640/regulation/12A) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(7)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/7))
 
 [^M_F_a7544286-e858-444b-e93b-d704ce5e7032]: Textual amendment: Art. 12 substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/13/b) (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(8)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ae0e61ebdac5adbce1b3f38571995b62]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/eur/2004/853/article/12) heading substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [13(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/13/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ae0e61ebdac5adbce1b3f38571995b62]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/eur/2004/853/article/12) heading substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [13(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/13/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4e69f0b5b54f5848c278424ece4a7b60]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/eur/2004/853/article/13) substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [14(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/14/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4e69f0b5b54f5848c278424ece4a7b60]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/eur/2004/853/article/13) substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [14(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/14/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-be6a349b0c702f1a321f2cf9893bb26d]: Textual amendment: Word in [Art. 13](https://www.legislation.gov.uk/eur/2004/853/article/13) heading omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [14(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/14/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-be6a349b0c702f1a321f2cf9893bb26d]: Textual amendment: Word in [Art. 13](https://www.legislation.gov.uk/eur/2004/853/article/13) heading omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [14(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/14/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8b88a427b9671803bcfb377fd30eacf4]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/eur/2004/853/article/14) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [15](https://www.legislation.gov.uk/uksi/2019/640/regulation/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8b88a427b9671803bcfb377fd30eacf4]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/eur/2004/853/article/14) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [15](https://www.legislation.gov.uk/uksi/2019/640/regulation/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a01b558c3b36afa2f6e798bfbca0c4ff]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2004/853/signature) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [16](https://www.legislation.gov.uk/uksi/2019/640/regulation/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a01b558c3b36afa2f6e798bfbca0c4ff]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2004/853/signature) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [16](https://www.legislation.gov.uk/uksi/2019/640/regulation/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_a2dfe222-5728-4c89-ea2a-e7e8c7cd23f2]: Textual amendment: Words in Annex I para. 1 point 1.5 omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 17](https://www.legislation.gov.uk/uksi/2019/640/regulation/17) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(9)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/9))
 
@@ -3093,19 +3093,19 @@ Done at …, on …
 
 [^f00024]: Footnote: [OJ L 299, 16.11.2007, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.299.01.0001.01.ENG)[^c000006] .
 
-[^key-97382bc9ed8afccdbba64bea516c550c]: Textual amendment: Annex 2 Section 1 Pt. B substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 18(1)(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/18/1/a) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(10)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/10))
+[^c-97382bc9ed8afccdbba64bea516c550c]: Textual amendment: Annex 2 Section 1 Pt. B substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 18(1)(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/18/1/a) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(10)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/10))
 
-[^key-540b38d777f7bb1a909aca09db731530]: Textual amendment: Words in Annex 2 Section 1 Pt. C para. 14 substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 18(1)(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/18/1/b) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(10)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/10))
+[^c-540b38d777f7bb1a909aca09db731530]: Textual amendment: Words in Annex 2 Section 1 Pt. C para. 14 substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 18(1)(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/18/1/b) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(10)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/10))
 
 [^c000010]: Textual amendment: Substituted by [Commission Regulation (EU) No 218/2014 of 7 March 2014 amending Annexes to Regulations (EC) No 853/2004 and (EC) No 854/2004 of the European Parliament and of the Council and Commission Regulation (EC) No 2074/2005 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2014/218).
 
-[^key-5253b090adb1088f27006b35fd40e892]: Textual amendment: Words in Annex 2 Section 3 para. 3(a) substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [18(2)](https://www.legislation.gov.uk/uksi/2019/640/regulation/18/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5253b090adb1088f27006b35fd40e892]: Textual amendment: Words in Annex 2 Section 3 para. 3(a) substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [18(2)](https://www.legislation.gov.uk/uksi/2019/640/regulation/18/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000011]: Textual amendment: Substituted by [Commission Regulation (EC) No 1161/2009 of 30 November 2009 amending Annex II to Regulation (EC) No 853/2004 of the European Parliament and of the Council as regards food chain information to be provided to food business operators operating slaughterhouses (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2009/1161).
 
 [^c000012]: Textual amendment: Inserted by [Commission Regulation (EU) No 16/2012 of 11 January 2012 amending Annex II to Regulation (EC) No 853/2004 of the European Parliament and of the Council as regards the requirements concerning frozen food of animal origin intended for human consumption (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2012/16).
 
-[^key-eeb25c852bf4c6cb8f81ce61f82bc77c]: Textual amendment: Words in Annex 2 Section 4 para. 2 substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [18(3)](https://www.legislation.gov.uk/uksi/2019/640/regulation/18/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eeb25c852bf4c6cb8f81ce61f82bc77c]: Textual amendment: Words in Annex 2 Section 4 para. 2 substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [18(3)](https://www.legislation.gov.uk/uksi/2019/640/regulation/18/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000013]: Textual amendment: Substituted by [Commission Regulation (EU) No 1137/2014 of 27 October 2014 amending Annex III of Regulation (EC) No 853/2004 of the European Parliament and of the Council as regards the handling of certain offal from animals intended for human consumption (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2014/1137).
 
@@ -3115,9 +3115,9 @@ Done at …, on …
 
 [^c000016]: Textual amendment: Substituted by [Commission Regulation (EU) 2017/1981 of 31 October 2017 amending Annex III to Regulation (EC) No 853/2004 of the European Parliament and of the Council as regards temperature conditions during transport of meat (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2017/1981).
 
-[^f00026]: Footnote: Maximum time allowed from the start of loading of meat into the vehicle until the completion of the final delivery. Loading of the meat into the vehicle may be postponed beyond the maximum time allowed for chilling of the meat to its specified surface temperature. If this happens, then the maximum transport time allowed must be shortened by the same length of time by which the loading was postponed. The competent authority[^c000016] ...[^key-5650683a2d2af449cafe4ccb1c83f8d4] of destination may limit the number of delivery points.
+[^f00026]: Footnote: Maximum time allowed from the start of loading of meat into the vehicle until the completion of the final delivery. Loading of the meat into the vehicle may be postponed beyond the maximum time allowed for chilling of the meat to its specified surface temperature. If this happens, then the maximum transport time allowed must be shortened by the same length of time by which the loading was postponed. The competent authority[^c000016] ...[^c-5650683a2d2af449cafe4ccb1c83f8d4] of destination may limit the number of delivery points.
 
-[^key-5650683a2d2af449cafe4ccb1c83f8d4]: Textual amendment: Words in Annex 3 Section 1 Ch. 7 para. 3(b)(viii) footnote omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [19(1)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5650683a2d2af449cafe4ccb1c83f8d4]: Textual amendment: Words in Annex 3 Section 1 Ch. 7 para. 3(b)(viii) footnote omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [19(1)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00027]: Footnote: Maximum surface temperature allowed at loading and thereafter measures at the thickest part of the carcase, half carcases, quarters, or half carcases cut into three wholesale cuts.
 
@@ -3131,37 +3131,37 @@ Done at …, on …
 
 [^c000017]: Textual amendment: Substituted by [Commission Regulation (EU) No 558/2010 of 24 June 2010 amending Annex III to Regulation (EC) No 853/2004 of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2010/558).
 
-[^key-0d2966ba8e43e67dda8cef3cc17e565b]: Textual amendment: Words in Annex 3 Section 2 Ch. 6 para. 9 substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [19(2)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0d2966ba8e43e67dda8cef3cc17e565b]: Textual amendment: Words in Annex 3 Section 2 Ch. 6 para. 9 substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [19(2)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000018]: Textual amendment: Inserted by [Commission Regulation (EC) No 2074/2005 of 5 December 2005 laying down implementing measures for certain products under Regulation (EC) No 853/2004 of the European Parliament and of the Council and for the organisation of official controls under Regulation (EC) No 854/2004 of the European Parliament and of the Council and Regulation (EC) No 882/2004 of the European Parliament and of the Council, derogating from Regulation (EC) No 852/2004 of the European Parliament and of the Council and amending Regulations (EC) No 853/2004 and (EC) No 854/2004 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2005/2074).
 
 [^c000019]: Textual amendment: Inserted by [Commission Regulation (EU) No 150/2011 of 18 February 2011 amending Annex III to Regulation (EC) No 853/2004 of the European Parliament and of the Council as regards farmed and wild game and farmed and wild game meat (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2011/150).
 
-[^key-1002ebffcabb5718000114b7e77e53c2]: Textual amendment: Annex 3 Section 3 para. 3a(a) substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 19(3)(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/3/a) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(11)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/11/a))
+[^c-1002ebffcabb5718000114b7e77e53c2]: Textual amendment: Annex 3 Section 3 para. 3a(a) substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 19(3)(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/3/a) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(11)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/11/a))
 
-[^key-6be6f833b27f3106d97148a073f6237f]: Textual amendment: Annex 3 Section 3 para. 3b inserted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 19(3)(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/3/b) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(11)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/11/a))
+[^c-6be6f833b27f3106d97148a073f6237f]: Textual amendment: Annex 3 Section 3 para. 3b inserted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 19(3)(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/3/b) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(11)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/11/a))
 
 [^c000020]: Textual amendment: Substituted by [Commission Regulation (EU) No 150/2011 of 18 February 2011 amending Annex III to Regulation (EC) No 853/2004 of the European Parliament and of the Council as regards farmed and wild game and farmed and wild game meat (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2011/150).
 
-[^key-bb505c962b6dca81e9176da8315c7c53]: Textual amendment: Words in Annex 3 Section 4 Ch. 2 para. 4(a) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [19(4)(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bb505c962b6dca81e9176da8315c7c53]: Textual amendment: Words in Annex 3 Section 4 Ch. 2 para. 4(a) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [19(4)(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000021]: Textual amendment: Substituted by [Commission Regulation (EU) No 633/2014 of 13 June 2014 amending Annex III to Regulation (EC) No 853/2004 of the European Parliament and of the Council and Annex I to Regulation (EC) No 854/2004 of the European Parliament and of the Council as regards the specific requirements for handling large wild game and for the post-mortem inspection of wild game (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2014/633).
 
-[^key-6d7bf895c431e65017ad62240775dd3b]: Textual amendment: Annex 3 Section 4 Ch. 2 para. 8(b) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [19(4)(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6d7bf895c431e65017ad62240775dd3b]: Textual amendment: Annex 3 Section 4 Ch. 2 para. 8(b) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [19(4)(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00033]: Footnote: Directive 2000/13/EC of the European Parliament and of the Council of 20 March 2000 on the approximation of the laws of the Member States relating to the labelling, presentation and advertising of foodstuffs ( [OJ L 109, 6.5.2000, p. 29](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.109.01.0029.01.ENG) ). Directive as last amended by Directive 2003/89/EC ( [OJ L 308, 25.11.2003, p. 15](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.308.01.0015.01.ENG) ).
 
-[^key-d2b8ee0a4c88e7451dd2873a728b8d9d]: Textual amendment: Words in Annex 3 Section 5 Ch. 4 para. 1 omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [19(5)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d2b8ee0a4c88e7451dd2873a728b8d9d]: Textual amendment: Words in Annex 3 Section 5 Ch. 4 para. 1 omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [19(5)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000022]: Textual amendment: Substituted by [Commission Regulation (EU) 2017/1978 of 31 October 2017 amending Annex III to Regulation (EC) No 853/2004 of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin as regard echinoderms harvested outside classified production areas (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2017/1978).
 
-[^key-848543da38f0d2e28f295d49ecb89259]: Textual amendment: Words in Annex 3 Section 7 Ch. 1 para. 4 substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [19(6)(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-848543da38f0d2e28f295d49ecb89259]: Textual amendment: Words in Annex 3 Section 7 Ch. 1 para. 4 substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [19(6)(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000023]: Textual amendment: Substituted by [Commission Regulation (EU) No 786/2013 of 16 August 2013 amending Annex III to Regulation (EC) No 853/2004 of the European Parliament and of the Council as regards the permitted limits of yessotoxins in live bivalve molluscs (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2013/786).
 
-[^key-707ba81e264d0da526e0112197b6ffd1]: Textual amendment: Words in Annex 3 Section 7 Ch. 7 para. 2 substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [19(6)(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-707ba81e264d0da526e0112197b6ffd1]: Textual amendment: Words in Annex 3 Section 7 Ch. 7 para. 2 substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [19(6)(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-169f9f5d1b422d84a9e233005c1c5080]: Textual amendment: Words in Annex 3 Section 8 para. 1 substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 19(7)(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/7/a) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(11)(b)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/11/b))
+[^c-169f9f5d1b422d84a9e233005c1c5080]: Textual amendment: Words in Annex 3 Section 8 para. 1 substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 19(7)(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/7/a) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(11)(b)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/11/b))
 
 [^c000024]: Textual amendment: Inserted by [Commission Regulation (EC) No 1020/2008 of 17 October 2008 amending Annexes II and III to Regulation (EC) No 853/2004 of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin and Regulation (EC) No 2076/2005 as regards identification marking, raw milk and dairy products, eggs and egg products and certain fishery products (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2008/1020).
 
@@ -3171,13 +3171,13 @@ Done at …, on …
 
 [^c000026]: Textual amendment: Deleted by [Commission Regulation (EC) No 1020/2008 of 17 October 2008 amending Annexes II and III to Regulation (EC) No 853/2004 of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin and Regulation (EC) No 2076/2005 as regards identification marking, raw milk and dairy products, eggs and egg products and certain fishery products (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2008/1020).
 
-[^key-ab3c176841eaf431a08e40805494dda3]: Textual amendment: Annex 3 Section 8 Ch. 2 para. 4 substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [19(7)(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ab3c176841eaf431a08e40805494dda3]: Textual amendment: Annex 3 Section 8 Ch. 2 para. 4 substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [19(7)(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000027]: Textual amendment: Substituted by [Commission Regulation (EU) No 1276/2011 of 8 December 2011 amending Annex III to Regulation (EC) No 853/2004 of the European Parliament and of the Council as regards the treatment to kill viable parasites in fishery products for human consumption (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2011/1276).
 
 [^f00035]: Footnote: [OJ L 338, 22.12.2005, p. 27](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.338.01.0027.01.ENG) .
 
-[^key-fa6b084584eb33de0fb86efe47cd71e3]: Textual amendment: Annex 3 Section 8 Ch. 4 Pt. B para. 4 omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [19(7)(c)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/7/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fa6b084584eb33de0fb86efe47cd71e3]: Textual amendment: Annex 3 Section 8 Ch. 4 Pt. B para. 4 omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [19(7)(c)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/7/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00036]: Footnote: Council Directive 64/432/EEC of[^c000007] 26 June 1964 on animal health problems affecting intra-Community trade in bovine animals and swine ( [OJ 121, 29.7.1964, p. 1977/64](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.P_.1964.121.01.1977.01.ENG) ). Directive as last amended by Regulation (EC) No 21/2004 ( [OJ L 5, 9.1.2004, p. 8](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.005.01.0008.01.ENG) ).
 
@@ -3187,7 +3187,7 @@ Done at …, on …
 
 [^M_F_be7032a4-6990-454f-b9a3-1cc94338d7e2]: Textual amendment: Annex 3 Section 9 Ch. 1 point 3 para. 1(b) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [19(8)(a)(i)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/8/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f694897fbbdfc79d01923a4f62c74947]: Textual amendment: Words in Annex 3 Section 9, Ch. 1 point 3 para. 2 omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [19(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/8/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f694897fbbdfc79d01923a4f62c74947]: Textual amendment: Words in Annex 3 Section 9, Ch. 1 point 3 para. 2 omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [19(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/8/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00039]: Footnote: Rolling geometric average over a two-month period, with at least two samples per month.
 
@@ -3199,9 +3199,9 @@ Done at …, on …
 
 [^f00043]: Footnote: Council Regulation (EEC) No 2377/90 of 26 June 1990 laying down a Community procedure for the establishment of maximum residue limits of veterinary medicinal products in foodstuffs of animal origin ( [OJ L 224, 18.8.1990, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1990.224.01.0001.01.ENG) ). Regulation as last amended by Commission Regulation (EC) No 1231/2006 ( [OJ L 225, 17.8.2006, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.225.01.0003.01.ENG) ).
 
-[^key-59ff2c5625db65bf92d578d2773f776d]: Textual amendment: Words in Annex 3 Section 9 Ch. 4 para. 1 substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [19(8)(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-59ff2c5625db65bf92d578d2773f776d]: Textual amendment: Words in Annex 3 Section 9 Ch. 4 para. 1 substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [19(8)(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-948e0c1fd810a8267f3a57cc7069b22a]: Textual amendment: Words in Annex 3 Section 9 Ch. 5 para. 2 substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [19(8)(c)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/8/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-948e0c1fd810a8267f3a57cc7069b22a]: Textual amendment: Words in Annex 3 Section 9 Ch. 5 para. 2 substituted (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [19(8)(c)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/8/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000028]: Textual amendment: Substituted by [Commission Regulation (EC) No 2074/2005 of 5 December 2005 laying down implementing measures for certain products under Regulation (EC) No 853/2004 of the European Parliament and of the Council and for the organisation of official controls under Regulation (EC) No 854/2004 of the European Parliament and of the Council and Regulation (EC) No 882/2004 of the European Parliament and of the Council, derogating from Regulation (EC) No 852/2004 of the European Parliament and of the Council and amending Regulations (EC) No 853/2004 and (EC) No 854/2004 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2005/2074).
 
@@ -3217,7 +3217,7 @@ Done at …, on …
 
 [^c000031]: Textual amendment: Substituted by [Commission Regulation (EC) No 1243/2007 of 24 October 2007 amending Annex III to Regulation (EC) No 853/2004 of the European Parliament and the Council laying down specific hygiene rules for food of animal origin (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2007/1243).
 
-[^key-d783e893638cb49142bc479c6e734f97]: Textual amendment: Word in Annex 3 Section 14 Ch. 3 para. 1(a) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [19(9)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d783e893638cb49142bc479c6e734f97]: Textual amendment: Word in Annex 3 Section 14 Ch. 3 para. 1(a) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [19(9)](https://www.legislation.gov.uk/uksi/2019/640/regulation/19/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00047]: Footnote: Regulation (EC) No 1333/2008 of the European Parliament and of the Council of[^c000030] 16 December 2008 on food additives ( [OJ L 354, 31.12.2008, p. 16](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.354.01.0016.01.ENG) ).
 

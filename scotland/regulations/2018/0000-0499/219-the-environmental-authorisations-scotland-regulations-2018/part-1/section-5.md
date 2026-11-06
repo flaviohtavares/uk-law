@@ -33,7 +33,7 @@ summary: ''
 
 - (a) where an authorised person has been adjudged bankrupt or the estate of the authorised person is sequestrated, the trustee in bankruptcy;
 - (b) where an executor has been appointed to an authorised person's estate, the executor;
-- (c) where an[^key-faee07c23a178fe9064d502702c5119a] authorised person is a body corporate, and—
+- (c) where an[^c-faee07c23a178fe9064d502702c5119a] authorised person is a body corporate, and—
   - (i) a receiver has been appointed, the receiver;
   - (ii) an administrator has been appointed, the administrator;
   - (iii) a liquidator has been appointed, the liquidator;
@@ -46,7 +46,7 @@ summary: ''
 
 that person must notify SEPA that the person is an authorised person as soon as is practicable.
 
-(4)[^key-3426caf394c4a576a4b256da688a655e] Where a person becomes an authorised person—
+(4)[^c-3426caf394c4a576a4b256da688a655e] Where a person becomes an authorised person—
 
 - (a) as a result of the operation of paragraph (2),
 - (b) in respect of an activity which is carried on in accordance with a permit or a registration, and
@@ -56,6 +56,6 @@ the duty to comply with the notice is transferred to that person.
 
 ## Annotations
 
-[^key-faee07c23a178fe9064d502702c5119a]: Textual amendment: Word in [reg. 5(2)(c)](https://www.legislation.gov.uk/ssi/2018/219/regulation/5/2/c) substituted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [8(a)](https://www.legislation.gov.uk/ssi/2025/165/regulation/8/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-faee07c23a178fe9064d502702c5119a]: Textual amendment: Word in [reg. 5(2)(c)](https://www.legislation.gov.uk/ssi/2018/219/regulation/5/2/c) substituted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [8(a)](https://www.legislation.gov.uk/ssi/2025/165/regulation/8/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-3426caf394c4a576a4b256da688a655e]: Textual amendment: [Reg. 5(4)](https://www.legislation.gov.uk/ssi/2018/219/regulation/5/4) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [8(b)](https://www.legislation.gov.uk/ssi/2025/165/regulation/8/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-3426caf394c4a576a4b256da688a655e]: Textual amendment: [Reg. 5(4)](https://www.legislation.gov.uk/ssi/2018/219/regulation/5/4) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [8(b)](https://www.legislation.gov.uk/ssi/2025/165/regulation/8/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

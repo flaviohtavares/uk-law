@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357WE. Sections 357WC and 357WD: interpretation[^key-daff5b22d7ee6f395950067d2a1daa9d]
+## 357WE. Sections 357WC and 357WD: interpretation[^c-daff5b22d7ee6f395950067d2a1daa9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 - (d) the reference in section 357MA(1) to a qualifying trade by virtue of section 357KB(1) were to a qualifying partnership trade by virtue of section 357WB(1);
 - (e) the reference in section 357MA(3) to a qualifying trade by virtue of section 357KB(2) were to a qualifying partnership trade by virtue of section 357WB(2).
 
-(2)[^key-5a0836a45c38843d784c8a96dc43af48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5a0836a45c38843d784c8a96dc43af48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Section 357NA (profits or losses of trade that are Northern Ireland profits or losses etc: large companies) as applied by section 357WD(4), and the other provisions of Chapter 7 so far as they apply for the purposes of section 357NA as so applied, have effect as if—
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
+[^c-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
 
-[^key-5a0836a45c38843d784c8a96dc43af48]: Textual amendment: [S. 357WE(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/357WE/2) omitted (16.11.2017) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 18](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/18)
+[^c-5a0836a45c38843d784c8a96dc43af48]: Textual amendment: [S. 357WE(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/357WE/2) omitted (16.11.2017) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 18](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/18)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Power to operate, use and maintain the new crossing[^key-2f362e76230d6c9b3c2670d66739d664]
+## 35. Power to operate, use and maintain the new crossing[^c-2f362e76230d6c9b3c2670d66739d664]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The undertaker may operate, use and maintain the new crossing.
 
 ## Annotations
 
-[^key-2f362e76230d6c9b3c2670d66739d664]: Commencement: Art. 35 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-2f362e76230d6c9b3c2670d66739d664]: Commencement: Art. 35 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

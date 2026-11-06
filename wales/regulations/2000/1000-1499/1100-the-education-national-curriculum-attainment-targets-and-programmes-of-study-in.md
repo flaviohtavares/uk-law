@@ -42,7 +42,7 @@ The requirements set out in the Schedule have been fulfilled.
 
 In exercise of the powers conferred on the Secretary of State by section 356(2)(a) and (b) and (4) of the Education Act 1996[^f00001] and now vested in the National Assembly for Wales[^f00002]**,** the National Assembly for Wales makes the following Order:
 
-## 1. Citation, commencement, interpretation and application[^key-3dcc00b1f1b58d8a7d88984d288fb82c][^key-80a2ae8a0724cb6f050f5bf2b2244681][^key-d9529de95bb57221eafac58d27dffc2f]
+## 1. Citation, commencement, interpretation and application[^c-3dcc00b1f1b58d8a7d88984d288fb82c][^c-80a2ae8a0724cb6f050f5bf2b2244681][^c-d9529de95bb57221eafac58d27dffc2f]
 
 (1)  This Order may be cited as the Education (National Curriculum) (Attainment Targets and Programmes of Study in Mathematics) (Wales) Order 2000 and, subject to paragraph (2) below, shall come into force on 1st August 2000.
 
@@ -60,7 +60,7 @@ In exercise of the powers conferred on the Secretary of State by section 356(2)(
 
 (4)  This Order applies only to schools in Wales.
 
-## 2. Revocation[^key-b11165cee7d8f22178ebd651d0be85ab][^key-1ecd91cfca4bdd9d4f9f338f9af0764a][^key-0e61bbb986836560dff27b176be064a2]
+## 2. Revocation[^c-b11165cee7d8f22178ebd651d0be85ab][^c-1ecd91cfca4bdd9d4f9f338f9af0764a][^c-0e61bbb986836560dff27b176be064a2]
 
 The Education (National Curriculum) (Attainment Targets and Programmes of Study in Mathematics) Order 1995[^f00005] shall cease to apply—
 
@@ -69,11 +69,11 @@ The Education (National Curriculum) (Attainment Targets and Programmes of Study 
 
 shall be revoked on 1st August 2002.
 
-## 3. Specification of attainment targets and programmes of study[^key-927f7519a7ccd8c4efefa8881accf98c][^key-491017f0b62633ad9e7e83f5fa951467][^key-e9503de5972e3f4ab3e705ca6d68a656]
+## 3. Specification of attainment targets and programmes of study[^c-927f7519a7ccd8c4efefa8881accf98c][^c-491017f0b62633ad9e7e83f5fa951467][^c-e9503de5972e3f4ab3e705ca6d68a656]
 
 The National Assembly directs that the provisions relating to attainment targets and programmes of study set out in the Document shall have effect for the purpose of specifying the attainment targets and programmes of study in relation to mathematics.
 
-**4.**[^key-793f62af32a6244bd7ee0a33a52fce1b][^key-61e66d20029662bf3ad33417c9f8e82f][^key-5094b8bef0a3aeef0b032f8febe4bf30][^key-927f7519a7ccd8c4efefa8881accf98c][^key-491017f0b62633ad9e7e83f5fa951467][^key-e9503de5972e3f4ab3e705ca6d68a656] The examples printed in italics in the Document (which serve to illustrate the programmes of study described therein) do not form part of the provision made by this Order.
+**4.**[^c-793f62af32a6244bd7ee0a33a52fce1b][^c-61e66d20029662bf3ad33417c9f8e82f][^c-5094b8bef0a3aeef0b032f8febe4bf30][^c-927f7519a7ccd8c4efefa8881accf98c][^c-491017f0b62633ad9e7e83f5fa951467][^c-e9503de5972e3f4ab3e705ca6d68a656] The examples printed in italics in the Document (which serve to illustrate the programmes of study described therein) do not form part of the provision made by this Order.
 
 Signed on behalf of the National Assembly under section 66(1) of the Government of Wales Act 1998[^f00006]
 
@@ -81,9 +81,9 @@ D. Elis Thomas
 
 The Presiding Officer of the National Assembly
 
-## SCHEDULE — REQUIREMENTS UNDER SECTION 368 OF THE EDUCATION ACT 1996[^key-c17eac5bc1e69d2f8590c848e289dc39][^key-bb44a18d023c8509ab784187aa8e03ef][^key-b06a6108bcc16a4c5e035ffcb7f5fdc5][^f00007]
+## SCHEDULE — REQUIREMENTS UNDER SECTION 368 OF THE EDUCATION ACT 1996[^c-c17eac5bc1e69d2f8590c848e289dc39][^c-bb44a18d023c8509ab784187aa8e03ef][^c-b06a6108bcc16a4c5e035ffcb7f5fdc5][^f00007]
 
-[^key-c17eac5bc1e69d2f8590c848e289dc39][^key-bb44a18d023c8509ab784187aa8e03ef][^key-b06a6108bcc16a4c5e035ffcb7f5fdc5]
+[^c-c17eac5bc1e69d2f8590c848e289dc39][^c-bb44a18d023c8509ab784187aa8e03ef][^c-b06a6108bcc16a4c5e035ffcb7f5fdc5]
 
 - **Section 368(2)**
 
@@ -118,43 +118,43 @@ The Order replaces the Education (National Curriculum) (Attainment Targets and P
 
 [^f00002]: Footnote: The functions of the Secretary of State under section 356 of the Education Act 1996 were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
 
-[^key-3dcc00b1f1b58d8a7d88984d288fb82c]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2000/1100/article/1) in force at 1.8.2000 for specified purposes, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/1)
+[^c-3dcc00b1f1b58d8a7d88984d288fb82c]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2000/1100/article/1) in force at 1.8.2000 for specified purposes, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/1)
 
-[^key-80a2ae8a0724cb6f050f5bf2b2244681]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2000/1100/article/1) in force at 1.8.2001 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/2/a)
+[^c-80a2ae8a0724cb6f050f5bf2b2244681]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2000/1100/article/1) in force at 1.8.2001 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/2/a)
 
-[^key-d9529de95bb57221eafac58d27dffc2f]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2000/1100/article/1) in force at 1.8.2002 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/2/b)
+[^c-d9529de95bb57221eafac58d27dffc2f]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2000/1100/article/1) in force at 1.8.2002 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/2/b)
 
 [^f00003]: Footnote: The Qualifications, Curriculum and Assessment Authority for Wales was established by section 14 (1) (b) of the Education Reform Act [1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40), continued in existence by section 360 of the Education Act 1996 and given its current name by section 27(1) of the Education Act 1997.
 
 [^f00004]: Footnote: ISBN 07504 2401X
 
-[^key-b11165cee7d8f22178ebd651d0be85ab]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2000/1100/article/2) in force at 1.8.2000 for specified purposes, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/1)
+[^c-b11165cee7d8f22178ebd651d0be85ab]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2000/1100/article/2) in force at 1.8.2000 for specified purposes, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/1)
 
-[^key-1ecd91cfca4bdd9d4f9f338f9af0764a]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2000/1100/article/2) in force at 1.8.2001 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/2/a)
+[^c-1ecd91cfca4bdd9d4f9f338f9af0764a]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2000/1100/article/2) in force at 1.8.2001 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/2/a)
 
-[^key-0e61bbb986836560dff27b176be064a2]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2000/1100/article/2) in force at 1.8.2002 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/2/b)
+[^c-0e61bbb986836560dff27b176be064a2]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2000/1100/article/2) in force at 1.8.2002 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/2/b)
 
 [^f00005]: Footnote: [S.I.1995/52](https://www.legislation.gov.uk/uksi/1995/52).
 
-[^key-927f7519a7ccd8c4efefa8881accf98c]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2000/1100/article/3) in force at 1.8.2000 for specified purposes, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/1)
+[^c-927f7519a7ccd8c4efefa8881accf98c]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2000/1100/article/3) in force at 1.8.2000 for specified purposes, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/1)
 
-[^key-491017f0b62633ad9e7e83f5fa951467]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2000/1100/article/3) in force at 1.8.2001 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/2/a)
+[^c-491017f0b62633ad9e7e83f5fa951467]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2000/1100/article/3) in force at 1.8.2001 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/2/a)
 
-[^key-e9503de5972e3f4ab3e705ca6d68a656]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2000/1100/article/3) in force at 1.8.2002 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/2/b)
+[^c-e9503de5972e3f4ab3e705ca6d68a656]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2000/1100/article/3) in force at 1.8.2002 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/2/b)
 
-[^key-793f62af32a6244bd7ee0a33a52fce1b]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2000/1100/article/4) in force at 1.8.2000 for specified purposes, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/1)
+[^c-793f62af32a6244bd7ee0a33a52fce1b]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2000/1100/article/4) in force at 1.8.2000 for specified purposes, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/1)
 
-[^key-61e66d20029662bf3ad33417c9f8e82f]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2000/1100/article/4) in force at 1.8.2001 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/2/a)
+[^c-61e66d20029662bf3ad33417c9f8e82f]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2000/1100/article/4) in force at 1.8.2001 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/2/a)
 
-[^key-5094b8bef0a3aeef0b032f8febe4bf30]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2000/1100/article/4) in force at 1.8.2002 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/2/b)
+[^c-5094b8bef0a3aeef0b032f8febe4bf30]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2000/1100/article/4) in force at 1.8.2002 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/2/b)
 
 [^f00006]: Footnote: [1998.c.38](https://www.legislation.gov.uk/ukpga/1998/38)
 
-[^key-c17eac5bc1e69d2f8590c848e289dc39]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2000/1100/schedule) in force at 1.8.2000 for specified purposes, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/1)
+[^c-c17eac5bc1e69d2f8590c848e289dc39]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2000/1100/schedule) in force at 1.8.2000 for specified purposes, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/1)
 
-[^key-bb44a18d023c8509ab784187aa8e03ef]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2000/1100/schedule) in force at 1.8.2001 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/2/a)
+[^c-bb44a18d023c8509ab784187aa8e03ef]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2000/1100/schedule) in force at 1.8.2001 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/2/a)
 
-[^key-b06a6108bcc16a4c5e035ffcb7f5fdc5]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2000/1100/schedule) in force at 1.8.2002 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/2/b)
+[^c-b06a6108bcc16a4c5e035ffcb7f5fdc5]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2000/1100/schedule) in force at 1.8.2002 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/wsi/2000/1100/article/1/2/b)
 
 [^f00007]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 368 is amended by paragraph 28 of Schedule 7 to the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44). The functions of the Secretary of State under section 368 were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 65. Notification of tips[^key-4836f06eb652dc389d4e2ddd55cc4ffb]
+## 65. Notification of tips[^c-4836f06eb652dc389d4e2ddd55cc4ffb]
 
 *Extent: N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4836f06eb652dc389d4e2ddd55cc4ffb]: Commencement: [Reg. 65](https://www.legislation.gov.uk/nisr/2016/427/regulation/65) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-4836f06eb652dc389d4e2ddd55cc4ffb]: Commencement: [Reg. 65](https://www.legislation.gov.uk/nisr/2016/427/regulation/65) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
 
 [^f00017]: Footnote: Regulation 8(1) was amended by [S.R. 2006 No.205](https://www.legislation.gov.uk/nisr/2006/205)

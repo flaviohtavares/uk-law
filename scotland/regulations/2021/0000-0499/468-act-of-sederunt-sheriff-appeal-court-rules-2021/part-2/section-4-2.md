@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4.2. Legal representation[^key-80d435134738b1ae56394590b8f662b9]
+## 4.2. Legal representation[^c-80d435134738b1ae56394590b8f662b9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A party is represented by a legal representative if that party is represented by
 
 ## Annotations
 
-[^key-80d435134738b1ae56394590b8f662b9]: Commencement: Para. 4.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-80d435134738b1ae56394590b8f662b9]: Commencement: Para. 4.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

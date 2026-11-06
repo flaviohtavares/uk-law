@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.12. Request for certificate, extract or information under other legislation[^key-bd20936554c3736c80d01d7b12e8fb36]
+## 5.12. Request for certificate, extract or information under other legislation[^c-bd20936554c3736c80d01d7b12e8fb36]
 
 *Extent: E+W*
 
@@ -54,7 +54,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bd20936554c3736c80d01d7b12e8fb36]: Commencement: [Rule 5.12](https://www.legislation.gov.uk/uksi/2025/909/rule/5.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-bd20936554c3736c80d01d7b12e8fb36]: Commencement: [Rule 5.12](https://www.legislation.gov.uk/uksi/2025/909/rule/5.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00197]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60); section 73 was amended by section 90(1) of, and paragraphs 125 and 128 of Schedule 13 to, the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22), paragraph 285 of Schedule 8 to the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) and paragraph 13 of Schedule 17 to the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25); and section 74 was amended by paragraph 85 of Schedule 36, and Part 5 of Schedule 37, to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and paragraph 14 of Schedule 17 to the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25).
 

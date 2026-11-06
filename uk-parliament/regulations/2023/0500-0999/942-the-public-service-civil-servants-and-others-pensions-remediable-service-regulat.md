@@ -48,13 +48,13 @@ The Minister for the Civil Service makes these Regulations in exercise of the po
 
 In accordance with section 3(5) of the 2013 Act, these Regulations are made with the consent of the Treasury.
 
-In accordance with section 21(1) of the 2013 Act, the Minister for the Civil Service has consulted the representatives of such persons as appear to the Minister likely to be affected by these Regulations.[^key-87fbc2cf5bb03565788daab11ef5922c]
+In accordance with section 21(1) of the 2013 Act, the Minister for the Civil Service has consulted the representatives of such persons as appear to the Minister likely to be affected by these Regulations.[^c-87fbc2cf5bb03565788daab11ef5922c]
 
-To the extent required by section 27 of PSPJOA 2022, these Regulations are made in accordance with Treasury directions made under that section.[^key-87fbc2cf5bb03565788daab11ef5922c]
+To the extent required by section 27 of PSPJOA 2022, these Regulations are made in accordance with Treasury directions made under that section.[^c-87fbc2cf5bb03565788daab11ef5922c]
 
 ## PART 1 — Introductory provisions
 
-### 1. Citation, commencement and extent[^key-a7b864622f324e5a57b3fce39bcc2483]
+### 1. Citation, commencement and extent[^c-a7b864622f324e5a57b3fce39bcc2483]
 
 These Regulations—
 
@@ -62,7 +62,7 @@ These Regulations—
 - (b) come into force on 1st October 2023;
 - (c) extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Interpretation[^key-fecd4d88b3635efeb81e13e1cb666692]
+### 2. Interpretation[^c-fecd4d88b3635efeb81e13e1cb666692]
 
 (1) In these Regulations—
 
@@ -117,13 +117,13 @@ has, in relation to the relevant scheme, the meaning given in that scheme.
 
 (5) In these Regulations, a reference to a provision of the PSP Directions 2022 is a reference to that provision as amended from time to time.
 
-### 3. Delegation[^key-6c5d457316f91c11bfa670d0e4e81dbf]
+### 3. Delegation[^c-6c5d457316f91c11bfa670d0e4e81dbf]
 
 The scheme manager may delegate any functions of the scheme manager under these Regulations, including this power to delegate.
 
 ## PART 2 — Remediable service statements
 
-### 4. Requirements relating to remediable service statements[^key-17ea54b97f400a5737f235ff3d55cff3]
+### 4. Requirements relating to remediable service statements[^c-17ea54b97f400a5737f235ff3d55cff3]
 
 (1) The scheme manager must provide a remediable service statement in respect of a remedy member (“**M**”) in accordance with—
 
@@ -164,7 +164,7 @@ The scheme manager may delegate any functions of the scheme manager under these 
   - (ii) direction 20(1) of the PSP Directions 2022;
 - (b) when a remediable service statement must be combined with a benefit information statement provided under section 14 of the Public Service Pensions Act 2013, see direction 20(2) of the PSP Directions 2022.
 
-### 4A. Voidable remediable service statements[^key-bdd830737ff9bc2e0d80c2a49f835f94]
+### 4A. Voidable remediable service statements[^c-bdd830737ff9bc2e0d80c2a49f835f94]
 
 (1) The scheme manager may treat as void a remediable service statement provided in relation to a member (“**M**”), including where an immediate choice decision or a deferred choice decision has been made in relation to M’s remediable service, provided that the scheme manager is satisfied that—
 
@@ -200,7 +200,7 @@ The scheme manager may delegate any functions of the scheme manager under these 
 
 ### CHAPTER 1 — Opted-out service elections
 
-#### 5. Application and interpretation of Chapter 1[^key-59d38cd26ecf4b60a358be43b70ac7d5]
+#### 5. Application and interpretation of Chapter 1[^c-59d38cd26ecf4b60a358be43b70ac7d5]
 
 (1) This Chapter applies to and in respect of a member (“**M**”) with PCSPS opted-out service.
 
@@ -209,7 +209,7 @@ The scheme manager may delegate any functions of the scheme manager under these 
 - “**opted-out service decision-maker**” means the person who may make an opted-out service election under regulation 6(2);
 - “**PCSPS opted-out service**” means relevant opted-out service[^f00013] in an employment or office in relation to the PCSPS.
 
-#### 6. Election in relation to PCSPS opted-out service[^key-ab443cabf76580ca6a1dcf0a9cc5b71e]
+#### 6. Election in relation to PCSPS opted-out service[^c-ab443cabf76580ca6a1dcf0a9cc5b71e]
 
 (1) An election (an “opted-out service election”) may be made in relation to M’s PCSPS opted-out service in accordance with this Chapter and section 5 of PSPJOA 2022.
 
@@ -256,13 +256,13 @@ The scheme manager may delegate any functions of the scheme manager under these 
 
 ### CHAPTER 2 — Immediate choice decision for alpha or PCSPS benefits
 
-#### 7. Application of Chapter 2[^key-99b218537730b64ad75ebf93739850c8]
+#### 7. Application of Chapter 2[^c-99b218537730b64ad75ebf93739850c8]
 
 (1) This Chapter applies in respect of the remediable service of an immediate choice member (“**M**”).
 
 (2) Where M has remediable service in multiple employments or offices, this Chapter applies separately in relation to the remediable service in each employment or office.
 
-#### 8. Immediate choice decision for alpha or PCSPS benefits: general[^key-f44874871c427d616e085a820a0dbd4e]
+#### 8. Immediate choice decision for alpha or PCSPS benefits: general[^c-f44874871c427d616e085a820a0dbd4e]
 
 (1) A decision (an “immediate choice decision”) may be made in accordance with this Chapter—
 
@@ -298,7 +298,7 @@ The scheme manager may delegate any functions of the scheme manager under these 
 - (b) section 7(1)(b) (provision about when a section 6 election is to be treated as having taken effect);
 - (c) section 9 (provision about persons with remediable service in more than one Chapter 1 legacy scheme).
 
-#### 9. Immediate choice decision: additional requirements[^key-cd35021498ff655224dac89935544d61]
+#### 9. Immediate choice decision: additional requirements[^c-cd35021498ff655224dac89935544d61]
 
 (1) This regulation applies where the immediate choice decision-maker (“**D**”) is a person other than the scheme manager.
 
@@ -309,7 +309,7 @@ The scheme manager may delegate any functions of the scheme manager under these 
 - (a) information in D’s possession, or
 - (b) information which D can reasonably be expected to obtain.
 
-#### 10. Immediate choice decision: deemed section 6 election[^key-4c70fe6fa8e98eac4d2b2e6d62200a3b]
+#### 10. Immediate choice decision: deemed section 6 election[^c-4c70fe6fa8e98eac4d2b2e6d62200a3b]
 
 (1) A section 6 election is treated as made in relation to M’s remediable service immediately before the end of the section 6 election period where—
 
@@ -326,13 +326,13 @@ The scheme manager may delegate any functions of the scheme manager under these 
 
 ### CHAPTER 3 — Deferred choice decision for alpha or PCSPS benefits
 
-#### 11. Application of Chapter 3[^key-ffaa94da0d356721b62e947d8a7f70f9]
+#### 11. Application of Chapter 3[^c-ffaa94da0d356721b62e947d8a7f70f9]
 
 (1) This Chapter applies in respect of the remediable service of a deferred choice member (“**M**”).
 
 (2) Where M has remediable service in multiple employments or offices, this Chapter applies separately in relation to the remediable service in each employment or office.
 
-#### 12. Deferred choice decision for alpha or PCSPS benefits: general[^key-b336245bc1cac609059efbfed9eea7e8]
+#### 12. Deferred choice decision for alpha or PCSPS benefits: general[^c-b336245bc1cac609059efbfed9eea7e8]
 
 (1) A decision (a “deferred choice decision”) may be made—
 
@@ -361,7 +361,7 @@ The scheme manager may delegate any functions of the scheme manager under these 
 - (b) section 11(3)(b), (4) and (7) (provision about when a section 10 election takes effect, and the effect of lapse or revocation of a section 10 election);
 - (c) section 13 (persons with remediable service in more than one Chapter 1 legacy scheme).
 
-#### 13. Deferred choice decision: when a deferred choice decision may be made[^key-e565288df554447a6a3fa1c8f5d4f377]
+#### 13. Deferred choice decision: when a deferred choice decision may be made[^c-e565288df554447a6a3fa1c8f5d4f377]
 
 (1) Where the deferred choice decision-maker is M, a deferred choice decision may be made only during the period—
 
@@ -397,7 +397,7 @@ the period during which a deferred choice decision may be made is to be treated 
 
 D may make a deferred choice decision only if they revoke M’s deferred choice decision in accordance with regulation 14(2).
 
-#### 14. Deferred choice decision: revocation[^key-834bc4eae3adb6ea715a373bd5ddc045]
+#### 14. Deferred choice decision: revocation[^c-834bc4eae3adb6ea715a373bd5ddc045]
 
 (1) Where the deferred choice decision-maker is M, M may revoke a deferred choice decision—
 
@@ -415,7 +415,7 @@ D may revoke M’s deferred choice decision by communicating to the scheme manag
 
 (3) A deferred choice decision made by a person other than M is irrevocable.
 
-#### 15. Deferred choice decision: additional requirements[^key-b0de044eef34f1d8b16097c08fb302eb]
+#### 15. Deferred choice decision: additional requirements[^c-b0de044eef34f1d8b16097c08fb302eb]
 
 Where the deferred choice decision-maker (“**D**”) is a person other than the scheme manager, a deferred choice decision is to be treated as having been made only if D provides any information specified in a written request from the scheme manager that is—
 
@@ -428,7 +428,7 @@ Where the deferred choice decision-maker (“**D**”) is a person other than th
 
 #### SECTION 1 — Application and interpretation of Chapter 1
 
-##### 16. Application and interpretation of Chapter 1[^key-275b504b6720af37890abf7a63c5b491]
+##### 16. Application and interpretation of Chapter 1[^c-275b504b6720af37890abf7a63c5b491]
 
 (1) This Chapter applies in relation to—
 
@@ -461,7 +461,7 @@ Where the deferred choice decision-maker (“**D**”) is a person other than th
 
 #### SECTION 2 — Pension sharing orders: information provided before 1st October 2023
 
-##### 17. Application and interpretation of Section 2[^key-92d678b2c7f0fa7ca0aebec623605bd3]
+##### 17. Application and interpretation of Section 2[^c-92d678b2c7f0fa7ca0aebec623605bd3]
 
 (1) This Section applies where, before 1st October 2023, the scheme manager has provided information for the purpose of determining amounts under section 29 of WRPA 1999 in respect of a remedy member’s remediable service.
 
@@ -480,7 +480,7 @@ Where the deferred choice decision-maker (“**D**”) is a person other than th
 
 (3) For the purposes of this Section, a relevant pension sharing order relates to mixed service if it specifies an appropriate amount in accordance with section 29(2) or (3) of WRPA 1999 by reference to the value of remediable relevant benefits to which D is entitled by virtue of remediable shareable rights secured in both the PCSPS and alpha (and, accordingly, a relevant pension sharing order does not relate to mixed service if it specifies an appropriate amount by reference to remediable shareable rights secured in only one of those schemes).
 
-##### 18. Meaning of “alternative amount”[^key-a63049b8ce6834ac81b414d46bcf1c3d]
+##### 18. Meaning of “alternative amount”[^c-a63049b8ce6834ac81b414d46bcf1c3d]
 
 (1) “**Alternative amount**” means—
 
@@ -499,16 +499,16 @@ Where the deferred choice decision-maker (“**D**”) is a person other than th
     - (ii) in relation to post-taper date remediable relevant benefits, the alpha percentage value,
 
     under that section on the valuation day if all of the remediable relevant benefits had been secured in the PCSPS;
-  - (b) determined under section 29(3) of WRPA 1999 in relation to an amount to be transferred from both the PCSPS and alpha (except where paragraph (2A) applies)[^key-1a41577d0c2d2817e4c7f6be13d35de2], the amount equal to the implied percentage of the cash equivalent of the remediable relevant benefits on the valuation day determined as if all of those benefits had been secured in the PCSPS;
+  - (b) determined under section 29(3) of WRPA 1999 in relation to an amount to be transferred from both the PCSPS and alpha (except where paragraph (2A) applies)[^c-1a41577d0c2d2817e4c7f6be13d35de2], the amount equal to the implied percentage of the cash equivalent of the remediable relevant benefits on the valuation day determined as if all of those benefits had been secured in the PCSPS;
 - “**the alpha amount**” means, where the initial amount was—
   - (a) determined under section 29(2) of WRPA 1999 in relation to a percentage value to be transferred from both the PCSPS and alpha, the amount that would have been determined applying—
     - (i) in relation to pre-taper date remediable relevant benefits, the PCSPS percentage value, and
     - (ii) in relation to post-taper date remediable relevant benefits, the alpha percentage value,
 
     under that section on the valuation day if all of the remediable relevant benefits had been secured in alpha;
-  - (b) determined under section 29(3) of WRPA 1999 in relation to an amount to be transferred from both the PCSPS and alpha (except where paragraph (2A) applies)[^key-ca8e17c7bb62f0326ef30ef5f53ce006], the amount equal to the implied percentage of the cash equivalent of the remediable relevant benefits on the valuation day determined as if all of those benefits had been secured in alpha.
+  - (b) determined under section 29(3) of WRPA 1999 in relation to an amount to be transferred from both the PCSPS and alpha (except where paragraph (2A) applies)[^c-ca8e17c7bb62f0326ef30ef5f53ce006], the amount equal to the implied percentage of the cash equivalent of the remediable relevant benefits on the valuation day determined as if all of those benefits had been secured in alpha.
 
-(2A)[^key-37023d47ac2f1060bfe68baec4d72953] This paragraph applies where the relevant pension order—
+(2A)[^c-37023d47ac2f1060bfe68baec4d72953] This paragraph applies where the relevant pension order—
 
 - (a) relates to mixed service, and
 - (b) specifies a PCSPS specified amount and an alpha specified amount.
@@ -524,7 +524,7 @@ Where the deferred choice decision-maker (“**D**”) is a person other than th
 
 (3) In this regulation—
 
-- “[^key-d4cb994b3216dd5e35f26de54af95ff1]**aggregate PCSPS and alpha implied percentage**” means the percentage that the amount to be transferred from both the PCSPS and alpha represented of the cash equivalent of the relevant benefits determined as if pre-taper date benefits had been secured in the PCSPS and post-taper date benefits had been secured in alpha on valuation day;
+- “[^c-d4cb994b3216dd5e35f26de54af95ff1]**aggregate PCSPS and alpha implied percentage**” means the percentage that the amount to be transferred from both the PCSPS and alpha represented of the cash equivalent of the relevant benefits determined as if pre-taper date benefits had been secured in the PCSPS and post-taper date benefits had been secured in alpha on valuation day;
 - “**alpha implied percentage**” means the percentage that the alpha specified amount represented of the cash equivalent of the post-taper date benefits determined as if all of those benefits had been secured in alpha on valuation day; “**alpha specified amount**” means the amount specified in a relevant pension sharing order in relation to alpha for the purpose of determining an amount under section 29(3) of WRPA 1999;
 - “**alpha percentage value**” means the percentage value specified in a relevant pension sharing order in relation to alpha for the purpose of determining an amount under section 29(2) of WRPA 1999;
 - “**implied percentage**”, in relation to the value of benefits under a civil service scheme, means the percentage that an initial amount determined under section 29(3) of WRPA 1999 represented of the cash equivalent of the remediable relevant benefits under that scheme on valuation day;
@@ -539,7 +539,7 @@ Where the deferred choice decision-maker (“**D**”) is a person other than th
 - “**relevant percentage value**” means the percentage value the relevant pension sharing order specifies in relation to the initial scheme for the purpose of determining an amount under section 29(2) of WRPA 1999;
 - “**tapered protection closing date**”, in relation to D, has the meaning given in paragraph 3 of Schedule 2 to the 2014 Regulations.
 
-##### 19. Information provided before 1st October 2023: calculating a remediable credit adjustment[^key-58f7a9c5879c4d6e00df30007fbdb343]
+##### 19. Information provided before 1st October 2023: calculating a remediable credit adjustment[^c-58f7a9c5879c4d6e00df30007fbdb343]
 
 (1) The scheme manager must determine the alternative amount in relation to C’s pension credit—
 
@@ -559,7 +559,7 @@ C’s pension account is subject to an adjustment (a “remediable credit adjust
 - (b) any remediable credit adjustment, and
 - (c) where regulation 20(4)(b) applies in relation to C, an explanation of the request that may be made in accordance with regulation 20(5) and the consequences of making, or not making, such a request.
 
-##### 20. Information provided before 1st October 2023: applying a remediable credit adjustment[^key-da4dd5d1e051ab00215cdde653847888]
+##### 20. Information provided before 1st October 2023: applying a remediable credit adjustment[^c-da4dd5d1e051ab00215cdde653847888]
 
 (1) This regulation applies where C’s pension account is subject to a remediable credit adjustment.
 
@@ -591,7 +591,7 @@ C’s pension account is subject to an adjustment (a “remediable credit adjust
 - (b) a reference to any effect of sections 2(1) and 6(4) and (5) were a reference to the effect of this regulation;
 - (c) the term “**operative time**” means the time at which the adjustment mentioned in paragraph (2) is made (disregarding paragraph (3)).
 
-##### 21. Information provided before 1st October 2023: recalculating D’s reduction of benefit[^key-ff678b98501c413f6fba43181c211c07]
+##### 21. Information provided before 1st October 2023: recalculating D’s reduction of benefit[^c-ff678b98501c413f6fba43181c211c07]
 
 (1) This regulation applies where D’s remediable relevant benefits have been reduced by an initial reduction amount.
 
@@ -615,7 +615,7 @@ C’s pension account is subject to an adjustment (a “remediable credit adjust
 
 #### SECTION 3 — Information provided on or after 1st October 2023
 
-##### 22. Application and interpretation of Section 3[^key-17a7ecd7e6a27faaebf9ab3b8e6795c3]
+##### 22. Application and interpretation of Section 3[^c-17a7ecd7e6a27faaebf9ab3b8e6795c3]
 
 (1) This Section applies where, on or after 1st October 2023, the scheme manager provides information for the purpose of determining amounts under section 29 of WRPA 1999 in respect of a remedy member’s remediable service.
 
@@ -627,7 +627,7 @@ C’s pension account is subject to an adjustment (a “remediable credit adjust
 - “**immediate choice pensioner member**” means an immediate choice member who is, immediately before these Regulations come into force, a pensioner member in relation to their remediable service;
 - “**the PCSPS cash equivalent**” has the meaning given in regulation 23(2)(a).
 
-##### 23. Information provided on or after 1st October 2023: calculation of pension credits and debits[^key-20379f3c2ad239cae3cb06872c731a32]
+##### 23. Information provided on or after 1st October 2023: calculation of pension credits and debits[^c-20379f3c2ad239cae3cb06872c731a32]
 
 (1) This regulation applies where D is—
 
@@ -646,7 +646,7 @@ C’s pension account is subject to an adjustment (a “remediable credit adjust
 - (a) the PCSPS cash equivalent, or
 - (b) the alpha cash equivalent.
 
-##### 24. Information provided on or after 1st October 2023: recalculating D’s reduction of benefit[^key-1d67a029ab32b0791bfe7f4f7a93adde]
+##### 24. Information provided on or after 1st October 2023: recalculating D’s reduction of benefit[^c-1d67a029ab32b0791bfe7f4f7a93adde]
 
 (1) This regulation applies where D’s remediable relevant benefits are to be reduced in relation to a pension debit calculated under regulation 23(3).
 
@@ -665,7 +665,7 @@ C’s pension account is subject to an adjustment (a “remediable credit adjust
 
 ### CHAPTER 2 — Arrangements on divorce, annulment or dissolution other than a pension sharing order
 
-#### 25. Arrangements other than a pension sharing order: calculating the value of pension benefits[^key-3b607abd5288c4e821068a720dfe4356]
+#### 25. Arrangements other than a pension sharing order: calculating the value of pension benefits[^c-3b607abd5288c4e821068a720dfe4356]
 
 (1) This regulation applies where—
 
@@ -695,7 +695,7 @@ C’s pension account is subject to an adjustment (a “remediable credit adjust
 
 ### CHAPTER 1 — Added pension
 
-#### 26. Interpretation of Chapter 1[^key-e03bf8991ba5e50f2698566cd715f7d2]
+#### 26. Interpretation of Chapter 1[^c-e03bf8991ba5e50f2698566cd715f7d2]
 
 In this Chapter—
 
@@ -707,7 +707,7 @@ In this Chapter—
   - (c) rule D.4 or D.5 of Section III;
 - “**periodic arrangement**” means an arrangement under which a remedy member secures added pension rights by virtue of periodic voluntary contributions.
 
-#### 27. Lump sum purchase of added pension[^key-8f26c2164f8abadd832b648cb5d68a57]
+#### 27. Lump sum purchase of added pension[^c-8f26c2164f8abadd832b648cb5d68a57]
 
 (1) This regulation applies in relation to added pension rights secured by a lump sum voluntary contribution made by a remedy member (“M”) during the period of M’s remediable service (“the remediable voluntary contribution”).
 
@@ -744,7 +744,7 @@ determine the equivalent value of the added pension rights that would have been 
   - (b) in relation to added pension rights secured or treated as secured in the PCSPS, alpha;
 - “**relevant pension year**” has the meaning given in direction 5(16)(c)(i) of the PSP Directions 2022.
 
-#### 28. Periodic arrangements for alpha added pension[^key-f161f6b8f84893580b42a4308e95300d]
+#### 28. Periodic arrangements for alpha added pension[^c-f161f6b8f84893580b42a4308e95300d]
 
 (1) This regulation applies in relation to a periodic arrangement for alpha added pension (“the relevant periodic arrangement”)—
 
@@ -764,7 +764,7 @@ determine the equivalent value of the added pension rights that would have been 
 
 confer rights to PCSPS added pension that are of an equivalent value to the added pension rights that would have been secured in the PCSPS if each voluntary contribution paid to alpha pursuant to the relevant periodic arrangement had been paid to the PCSPS in the same relevant pension year in which the voluntary contribution was paid to alpha.
 
-#### 29. PCSPS added pension: treatment on a section 6 or 10 election[^key-99baf9bb24b31cdbccc1904994f675b1]
+#### 29. PCSPS added pension: treatment on a section 6 or 10 election[^c-99baf9bb24b31cdbccc1904994f675b1]
 
 (1) This regulation applies where—
 
@@ -777,7 +777,7 @@ confer rights to PCSPS added pension that are of an equivalent value to the adde
 
 ### CHAPTER 2 — Effective pension age and enhanced effective pension age
 
-#### 30. Treatment of EPA and EEPA rights[^key-dca80fd1c0438b6696ae8802f9e36ddf]
+#### 30. Treatment of EPA and EEPA rights[^c-dca80fd1c0438b6696ae8802f9e36ddf]
 
 (1) This regulation applies where a remedy member (“**M**”) entered into an arrangement during the period of their remediable service to pay periodic voluntary contributions (the “remediable voluntary contributions”) to secure EPA or EEPA rights.
 
@@ -793,7 +793,7 @@ confer rights to PCSPS added pension that are of an equivalent value to the adde
 - (a) direction 5(10) (provision of explanation);
 - (b) direction 5(11) and (12) (appeals).
 
-(3A)[^key-dd10c42ce93c860bdc2ea819019d287a] Before making a remedy decision, the relevant decision-maker may opt for the scheme manager to pay M or, where M is deceased, M’s personal representatives the compensatable amount.
+(3A)[^c-dd10c42ce93c860bdc2ea819019d287a] Before making a remedy decision, the relevant decision-maker may opt for the scheme manager to pay M or, where M is deceased, M’s personal representatives the compensatable amount.
 
 (3B) The option in paragraph (3A) may only be exercised—
 
@@ -820,7 +820,7 @@ confer rights to PCSPS added pension that are of an equivalent value to the adde
 
 the scheme manager must confer rights to added pension under the PCSPS that are of an equivalent value to the PCSPS added pension value.
 
-(7)[^key-b7cc21f049668604c401bbc4d38f44b5] Where an option is exercised or a decision is made in accordance with—
+(7)[^c-b7cc21f049668604c401bbc4d38f44b5] Where an option is exercised or a decision is made in accordance with—
 
 - (a) paragraph (3B) for the purpose of paragraph (3A), or
 - (b) paragraph (5) for the purpose of paragraph (4)(b),
@@ -847,7 +847,7 @@ any rights that would otherwise have been secured by the remediable voluntary co
 
 ### CHAPTER 3 — Treatment of remediable added pension rights
 
-#### 31. Application and interpretation of Chapter 3[^key-a0c66bb0c83719de4558ee4c02967cca]
+#### 31. Application and interpretation of Chapter 3[^c-a0c66bb0c83719de4558ee4c02967cca]
 
 (1) This Chapter applies in relation to “remediable added pension rights”, being added pension rights secured by a remedy member (“**M**”) by virtue of—
 
@@ -856,7 +856,7 @@ any rights that would otherwise have been secured by the remediable voluntary co
 
 (2) In paragraph (1), “added pension rights” and “periodic arrangement” have the meanings given in regulation 26.
 
-#### 32. Treatment of added pension rights under alpha[^key-6de72d44b77c4216c87423942ac670c8]
+#### 32. Treatment of added pension rights under alpha[^c-6de72d44b77c4216c87423942ac670c8]
 
 (1) Where M’s remediable added pension rights would, apart from this regulation, be rights to benefits under alpha, the rights—
 
@@ -878,7 +878,7 @@ any rights that would otherwise have been secured by the remediable voluntary co
 - (a) the rights to alpha added pension mentioned in paragraph (3)(b) are to be treated for the purposes of these Regulations and of PSPJOA 2022 as if those rights were secured by virtue of M’s remediable service, and
 - (b) section 2(5)(a) of PSPJOA 2022 does not apply in relation to the arrangement by virtue of which M secured the rights to alpha added pension (and, accordingly, section 2(1) of PSPJOA 2022 affects that arrangement).
 
-#### 33. Benefits already paid in relation to added pension rights[^key-6e4c4f6a7995b429f8442117adeea6a3]
+#### 33. Benefits already paid in relation to added pension rights[^c-6e4c4f6a7995b429f8442117adeea6a3]
 
 (1) Paragraph (2) applies in relation to any benefits (“the paid benefits”) that alpha has at any time paid to a person (“**P**”) so far as—
 
@@ -890,7 +890,7 @@ any rights that would otherwise have been secured by the remediable voluntary co
 - (a) as not having been paid to P by alpha, but
 - (b) as having been paid to P instead by the PCSPS.
 
-#### 34. Pension benefits and lump sum benefits in relation to remediable additional rights[^key-cd7f2ae686c7cb7f254f3f1748ba0f0e]
+#### 34. Pension benefits and lump sum benefits in relation to remediable additional rights[^c-cd7f2ae686c7cb7f254f3f1748ba0f0e]
 
 (1) This regulation applies in relation to any benefits that have been paid to or in respect of the remediable added pension rights of an immediate choice member.
 
@@ -915,7 +915,7 @@ the scheme manager must pay an amount equal to the difference to the beneficiary
 
 ### CHAPTER 4 — Remedial arrangements to pay voluntary contributions to the PCSPS
 
-#### 35. Remedial arrangements to pay voluntary contributions to secure EPA or EEPA rights[^key-5861080b32cec09506f94384ed7d9541]
+#### 35. Remedial arrangements to pay voluntary contributions to secure EPA or EEPA rights[^c-5861080b32cec09506f94384ed7d9541]
 
 (1) This regulation applies to a remedy member (“**M**”) who—
 
@@ -974,7 +974,7 @@ the scheme manager must pay an amount equal to the difference to the beneficiary
 
 ### CHAPTER 1 — General
 
-#### 36. Interpretation of Part 6[^key-eceb786d166d58f250759684bc9a4960]
+#### 36. Interpretation of Part 6[^c-eceb786d166d58f250759684bc9a4960]
 
 (1) In this Part—
 
@@ -1006,7 +1006,7 @@ the scheme manager must pay an amount equal to the difference to the beneficiary
 - (a) the provisions of the civil service scheme which apply to the calculation of values of that type, and
 - (b) the guidance and tables provided for the purpose of calculating such values that were, or are, in use on the date used for the calculation of the value which originally secured rights under a civil service scheme.
 
-#### 37. Transferred out remediable service statements[^key-93795bcbec9cad1211e88c3ffc630d42]
+#### 37. Transferred out remediable service statements[^c-93795bcbec9cad1211e88c3ffc630d42]
 
 Where a remedy member has transferred any rights in respect of remediable service out of a civil service scheme, the scheme manager must provide a transferred out remediable service statement in accordance with direction 6(2) to (4) of the PSP Directions 2022 (and direction 6(4) applies as if the reference to “any provision made by virtue of section 29(1) of PSPJOA 2022” were a reference to regulation 4).
 
@@ -1014,11 +1014,11 @@ Where a remedy member has transferred any rights in respect of remediable servic
 
 #### SECTION 1 — Transfers before 1st October 2023
 
-##### 38. Transfers out before 1st October 2023[^key-76e87afcbeab4fcda1a7ef4ffa4573a8]
+##### 38. Transfers out before 1st October 2023[^c-76e87afcbeab4fcda1a7ef4ffa4573a8]
 
-(1) Except where paragraph (1A) applies,[^key-befcb18bd138ab390fc992ccae41ad4e] this regulation applies in relation to a remedy member (“**M**”) in respect of whom the scheme manager paid a remediable transfer value before 1st October 2023.
+(1) Except where paragraph (1A) applies,[^c-befcb18bd138ab390fc992ccae41ad4e] this regulation applies in relation to a remedy member (“**M**”) in respect of whom the scheme manager paid a remediable transfer value before 1st October 2023.
 
-(1A)[^key-8d0adf7074c3588128563a5dec1810bb] This paragraph applies where—
+(1A)[^c-8d0adf7074c3588128563a5dec1810bb] This paragraph applies where—
 
 - (a) the receiving scheme was not a local government scheme within the meaning of section 86(1) of PSPJOA 2022, and
 - (b) the payment was made in circumstances in which any of the following applied—
@@ -1055,11 +1055,11 @@ the scheme manager owes M or, where M is deceased, M’s personal representative
 - (a) would be a payment described in regulation 6 of the Registered Pension Schemes (Authorised Payments) Regulations 2009[^f00020] (“**the 2009 Regulations**”) read as if regulation 6(1)(a) of those Regulations were omitted, the compensatable amount is to be reduced by the amount equal to the income tax that would be chargeable on it if regulation 3(b) of the 2009 Regulations applied to it;
 - (b) would not be a payment so described, the compensatable amount is to be reduced by an amount equal to the income tax that would be charged on the amount if it were taxed as pension income under Part 9 of the Income Tax (Earnings and Pensions) Act 2003[^f00021].
 
-##### 39. Transfers in before 1st October 2023[^key-e0ec659c8fd11058d7d2f4b6d56d7f2d]
+##### 39. Transfers in before 1st October 2023[^c-e0ec659c8fd11058d7d2f4b6d56d7f2d]
 
-(1) Except where paragraph (1A) applies,[^key-39314b8e533806fb0ffe76c5cdec2906] this regulation applies in relation to each payment of a remediable transfer value in respect of a member (“**M**”) which was accepted by the scheme manager before 1st October 2023.
+(1) Except where paragraph (1A) applies,[^c-39314b8e533806fb0ffe76c5cdec2906] this regulation applies in relation to each payment of a remediable transfer value in respect of a member (“**M**”) which was accepted by the scheme manager before 1st October 2023.
 
-(1A)[^key-d7eb1d251af66357a6be8c703dc762c7] This paragraph applies where—
+(1A)[^c-d7eb1d251af66357a6be8c703dc762c7] This paragraph applies where—
 
 - (a) the sending scheme was not a local government scheme within the meaning of section 86(1) PSPJOA 2022, and
 - (b) the payment was accepted in circumstances in which any of the following applied—
@@ -1082,11 +1082,11 @@ the scheme manager owes M or, where M is deceased, M’s personal representative
 
 #### SECTION 2 — Transfers on or after 1st October 2023
 
-##### 40. Application of Section 2[^key-f54a04e1cb76d8d52fa09ff7f689a042]
+##### 40. Application of Section 2[^c-f54a04e1cb76d8d52fa09ff7f689a042]
 
 This Section applies in respect of a deferred choice member (“**M**”) where no pension benefits have become payable in relation to M’s remediable service.
 
-##### 41. Transfers out on or after 1st October 2023[^key-77f895ef4d3e57e4fad10e22749692c0]
+##### 41. Transfers out on or after 1st October 2023[^c-77f895ef4d3e57e4fad10e22749692c0]
 
 (1) This regulation applies to a remediable transfer value to be paid in relation to M by the scheme manager on or after 1st October 2023.
 
@@ -1101,7 +1101,7 @@ This Section applies in respect of a deferred choice member (“**M**”) where 
 
 #### SECTION 1 — Club transfers before 1st October 2023
 
-##### 42. Club transfers out before 1st October 2023[^key-1bc2f2c8bd5d5b7c70ce576c232e5de8]
+##### 42. Club transfers out before 1st October 2023[^c-1bc2f2c8bd5d5b7c70ce576c232e5de8]
 
 (1) This regulation applies in relation to each member (“**M**”) in respect of whom the scheme manager paid a remediable club transfer value before 1st October 2023.
 
@@ -1121,7 +1121,7 @@ the scheme manager must pay the receiving scheme an amount equal to *x* – *y*.
 
 (5) A payment made under paragraph (4) is subject to the same conditions as the remediable club transfer value.
 
-##### 43. Club transfers in before 1st October 2023[^key-3056737fb98ea57ba6493c570f25ec9d]
+##### 43. Club transfers in before 1st October 2023[^c-3056737fb98ea57ba6493c570f25ec9d]
 
 (1) This regulation applies in relation to each remediable club transfer value in respect of a member (“**M**”) which was accepted by the scheme manager before 1st October 2023.
 
@@ -1139,11 +1139,11 @@ the scheme manager must pay the receiving scheme an amount equal to *x* – *y*.
 
 #### SECTION 2 — Club transfers on or after 1st October 2023
 
-##### 44. Application of Section 2[^key-b823a6e831ff2e84ad45bba8afd9ea85]
+##### 44. Application of Section 2[^c-b823a6e831ff2e84ad45bba8afd9ea85]
 
 This Section applies in respect of a member (“**M**”) who is a deferred choice member, and to whom no pension benefits have become payable in relation to M’s remediable service.
 
-##### 45. Club transfers out on or after 1st October 2023[^key-522286be40503299b16158bcd05dd78e]
+##### 45. Club transfers out on or after 1st October 2023[^c-522286be40503299b16158bcd05dd78e]
 
 (1) This regulation applies in relation to a remediable club transfer value to be paid by the scheme manager in respect of M on or after 1st October 2023.
 
@@ -1156,7 +1156,7 @@ This Section applies in respect of a member (“**M**”) who is a deferred choi
 
 (4) The scheme manager must provide to the receiving scheme the result of the calculations mentioned in paragraph (2).
 
-##### 46. Club transfers in on or after 1st October 2023[^key-2a3c822efdda1b7adc00a5c2724a978e]
+##### 46. Club transfers in on or after 1st October 2023[^c-2a3c822efdda1b7adc00a5c2724a978e]
 
 (1) This regulation applies in relation to a remediable club transfer value payment which is accepted by the scheme manager on or after 1st October 2023.
 
@@ -1167,7 +1167,7 @@ This Section applies in respect of a member (“**M**”) who is a deferred choi
 
 #### SECTION 3 — Interim payment of benefits in certain cases
 
-##### 47. Interim payment of benefits in certain cases[^key-b4d16c1d296efa2db1cd2d000ce1509f]
+##### 47. Interim payment of benefits in certain cases[^c-b4d16c1d296efa2db1cd2d000ce1509f]
 
 (1) This regulation applies in relation to a deferred choice member (“**M**”) in respect of whom the scheme manager has accepted a remediable club transfer value, where—
 
@@ -1202,7 +1202,7 @@ the scheme manager must pay an amount equal to the difference to the beneficiary
 
 ### CHAPTER 4 — Treatment of rights secured by virtue of a remediable value
 
-#### 48. Application and interpretation of Chapter 4[^key-fb397438972274e131585361cd6468c1]
+#### 48. Application and interpretation of Chapter 4[^c-fb397438972274e131585361cd6468c1]
 
 (1) This Chapter applies in relation to the following accepted by the scheme manager in respect of a member (“**M**”)—
 
@@ -1211,7 +1211,7 @@ the scheme manager must pay an amount equal to the difference to the beneficiary
 
 (2) In this Chapter, “**transferred in remediable rights**” means M’s remediable rights in a civil service scheme secured by virtue of a remediable value accepted by the scheme manager together with any payment or, as the case may be, adjustment under regulation 39(3) or 43(2).
 
-#### 49. Transferred in remediable rights treated as being in the PCSPS[^key-7a774da2463dfb1c61bd5d3b7b9eeeb4]
+#### 49. Transferred in remediable rights treated as being in the PCSPS[^c-7a774da2463dfb1c61bd5d3b7b9eeeb4]
 
 (1) Where M’s transferred in remediable rights would, apart from this regulation, be rights to benefits under alpha, the rights—
 
@@ -1223,7 +1223,7 @@ the scheme manager must pay an amount equal to the difference to the beneficiary
 - (a) for the purposes of determining which civil service scheme is (or at any time was) required to pay benefits to or in respect of M’s transferred in remediable rights, and
 - (b) subject to regulation 50, for all other purposes.
 
-#### 50. Varying the value of benefits secured by virtue of transferred in remediable rights[^key-6176318c5375eb2501fe5c2247c7bfba]
+#### 50. Varying the value of benefits secured by virtue of transferred in remediable rights[^c-6176318c5375eb2501fe5c2247c7bfba]
 
 (1) Where—
 
@@ -1262,7 +1262,7 @@ the scheme manager must vary the value of those rights so that they are of an eq
 
 (7) In paragraph (6), “**relevant pension year**” has the meaning given by direction 4(14)(f)(i) of the PSP Directions 2022.
 
-#### 51. Benefits already paid in relation to transferred in remediable rights[^key-fe078f3302eefc020b6966ca8dfb506f]
+#### 51. Benefits already paid in relation to transferred in remediable rights[^c-fe078f3302eefc020b6966ca8dfb506f]
 
 (1) Paragraph (2) applies in relation to any benefits (“the paid benefits”) that alpha has at any time paid to a person (“**P**”) so far as—
 
@@ -1274,7 +1274,7 @@ the scheme manager must vary the value of those rights so that they are of an eq
 - (a) as not having been paid to P by alpha, but
 - (b) as having been paid to P instead by the PCSPS.
 
-#### 52. Pension benefits and lump sum benefits in relation to transferred in remediable rights[^key-4e92481cf1a1087fd1897ecc12bad808]
+#### 52. Pension benefits and lump sum benefits in relation to transferred in remediable rights[^c-4e92481cf1a1087fd1897ecc12bad808]
 
 (1) This regulation applies in relation to any benefits that have been paid to or in respect of the transferred in remediable rights of an immediate choice member (“**M**”).
 
@@ -1301,7 +1301,7 @@ the scheme manager must pay an amount equal to the difference to the beneficiary
 
 ### CHAPTER 1 — Ill-health retirement
 
-#### 53. Application and interpretation of Chapter 1[^key-a6c5165cf27e2a4fd9fcba711d804d98]
+#### 53. Application and interpretation of Chapter 1[^c-a6c5165cf27e2a4fd9fcba711d804d98]
 
 (1) This Chapter applies in relation to a remedy member (“**M**”) in respect of whom a process of assessment to determine M’s entitlement to ill-health benefits began during the period of M’s remediable service.
 
@@ -1328,7 +1328,7 @@ the scheme manager must pay an amount equal to the difference to the beneficiary
   - (b) it has been determined that the member does not meet the ill-health retirement criteria of that scheme, and all routes for disputing that determination have been exhausted (including where any deadline for initiating a dispute has passed and no dispute has been initiated);
 - “**remediable ill-health benefits**” means ill-health benefits payable in relation to M’s remediable service.
 
-#### 54. Whether M meets the IHR criteria in M’s alternative scheme[^key-6ed4db607fea9edb18bafb33d344130a]
+#### 54. Whether M meets the IHR criteria in M’s alternative scheme[^c-6ed4db607fea9edb18bafb33d344130a]
 
 (1) Where, pursuant to the initial assessment, it has been finally determined that—
 
@@ -1380,7 +1380,7 @@ the scheme manager must pay an amount equal to the difference to the beneficiary
 
 (6) For the purposes of this regulation, M satisfies the severe ill-health condition if M is a person described in any of section 229(4)(a) to (c) of the FA 2004[^f00022].
 
-#### 55. Deferred choice members entitled to ill-health benefits in their alternative scheme only[^key-25e76b85b869ec62402fd0469a4c99f3]
+#### 55. Deferred choice members entitled to ill-health benefits in their alternative scheme only[^c-25e76b85b869ec62402fd0469a4c99f3]
 
 (1) This regulation applies where—
 
@@ -1423,7 +1423,7 @@ M is to be treated as if the immediate IHR election had not been made (and no su
 
 (7) The provisions of Chapter 1 of PSPJOA 2022 and of these Regulations about the timing and effect of, as the case may be, a deferred choice decision and a section 10 election apply subject to this regulation.
 
-#### 56. Remedy members entitled to ill-health benefits in their alternative scheme only[^key-fbe9d558b1d667450a9da5c2fa222056]
+#### 56. Remedy members entitled to ill-health benefits in their alternative scheme only[^c-fbe9d558b1d667450a9da5c2fa222056]
 
 (1) This regulation applies where—
 
@@ -1440,7 +1440,7 @@ M is to be treated as if the immediate IHR election had not been made (and no su
 
 (3) M is not entitled to the payment of ill-health benefits from the PCSPS.
 
-#### 57. Remedy members with provisional awards of ill-health pension[^key-dfea7dbd13fd989062e04877ecb8739c]
+#### 57. Remedy members with provisional awards of ill-health pension[^c-dfea7dbd13fd989062e04877ecb8739c]
 
 (1) This regulation applies in relation to a remedy member who, immediately before 1st October 2023, is treated as being entitled to ill-health benefits pursuant to—
 
@@ -1453,7 +1453,7 @@ M is to be treated as if the immediate IHR election had not been made (and no su
 - (a) determine whether M meets the IHR criteria in M’s alternative scheme, and
 - (b) in making that determination, obtain the opinion of the scheme medical adviser about whether M meets the IHR criteria in M’s alternative scheme.
 
-#### 58. Disapplication of certain requirements[^key-b413b91f4f55c551413a37d6822038dd]
+#### 58. Disapplication of certain requirements[^c-b413b91f4f55c551413a37d6822038dd]
 
 (1) This regulation applies where, by virtue of these Regulations or PSPJOA 2022, ill-health benefits determined by reference to a remedy member’s alternative scheme are payable to a person.
 
@@ -1464,7 +1464,7 @@ M is to be treated as if the immediate IHR election had not been made (and no su
 
 ### CHAPTER 2 — Miscellaneous special cases
 
-#### 59. Protection of the amount of pension in payment to an eligible child[^key-8028b101bacb58f8620e8ac7c63b9fef]
+#### 59. Protection of the amount of pension in payment to an eligible child[^c-8028b101bacb58f8620e8ac7c63b9fef]
 
 (1) This regulation applies where—
 
@@ -1478,7 +1478,7 @@ M is to be treated as if the immediate IHR election had not been made (and no su
 - (a) E does not owe the scheme manager a liability under section 14(3) of PSPJOA 2022 in respect of the child pension, and
 - (b) the rate of the child pension continues to be the rate that was payable before the immediate choice decision was made.
 
-#### 60. Modification of nomination rules for Section II members[^key-4d2a2b57e0679a9e27c5c4151f65ad5a]
+#### 60. Modification of nomination rules for Section II members[^c-4d2a2b57e0679a9e27c5c4151f65ad5a]
 
 (1) The regulation applies in relation to a remedy member (“**M**”) who is entitled to nominate a person under rule 3.8 of Section II to receive a death benefit.
 
@@ -1499,7 +1499,7 @@ M is to be treated as if the immediate IHR election had not been made (and no su
 
 the original nomination continues as if it were made under rule 3.8 of Section II as that rule applies by virtue of paragraph (2).
 
-#### 61. Aggregation of PCSPS membership[^key-5274896840ba0c836e666c85cfc5a009]
+#### 61. Aggregation of PCSPS membership[^c-5274896840ba0c836e666c85cfc5a009]
 
 (1) This regulation applies in relation to a remedy member (“**M**”)—
 
@@ -1508,7 +1508,7 @@ the original nomination continues as if it were made under rule 3.8 of Section I
 - (c) whose subsequent service would, but for a relevant breach of a non-discrimination rule, have been pensionable under the relevant Section, and
 - (d) who would, had their subsequent service been pensionable under the relevant Section, have been entitled to exercise an aggregation option.
 
-(1A)[^key-403c5efeee9daae4223f9e9c1d1d511d] Paragraphs (1B) and (1C) apply where—
+(1A)[^c-403c5efeee9daae4223f9e9c1d1d511d] Paragraphs (1B) and (1C) apply where—
 
 - (a) M is a deferred choice member,
 - (b) one of regulations 38, 41 or 42 of these Regulations applies in respect of M, and
@@ -1525,7 +1525,7 @@ the original nomination continues as if it were made under rule 3.8 of Section I
 
 (3) An election under paragraph (2) may only be made and revoked in the same circumstances as the relevant remedy decision.
 
-(4) Where an election is made under paragraph (1B) or[^key-2f2bdc155abbc1eab4ad88f01323e2eb] paragraph (2), M’s eligible remediable service is to be treated for all purposes as if the aggregation option had been exercised in relation to that service.
+(4) Where an election is made under paragraph (1B) or[^c-2f2bdc155abbc1eab4ad88f01323e2eb] paragraph (2), M’s eligible remediable service is to be treated for all purposes as if the aggregation option had been exercised in relation to that service.
 
 (5) In this regulation—
 
@@ -1541,11 +1541,11 @@ the original nomination continues as if it were made under rule 3.8 of Section I
   - (a) an immediate choice decision that no section 6 election is to be made in relation to M’s remediable service, or
   - (b) a deferred choice decision that no section 10 election is to be made in relation to M’s remediable service.
 
-#### 62. Payment of annual allowance tax charges and provision of information[^key-14f37ff6f08936224de226455ea4cb97]
+#### 62. Payment of annual allowance tax charges and provision of information[^c-14f37ff6f08936224de226455ea4cb97]
 
 Where a remedy member is unable to give an effective notice to the scheme administrator under section 237B(3) of FA 2004[^f00023] in relation to an in-scope tax year (within the meaning of direction 7(7) of the PSP Directions 2022) because the time limit in section 237BA[^f00024] has passed, direction 7(2) to (6) of the PSP Directions 2022 applies in relation to the remedy member.
 
-#### 62A. Recovery of injury or compensation scheme benefits[^key-6b91387bd30c764d1d790ef60ecb9c79]
+#### 62A. Recovery of injury or compensation scheme benefits[^c-6b91387bd30c764d1d790ef60ecb9c79]
 
 (1) This regulation applies where—
 
@@ -1763,7 +1763,7 @@ Where a remedy member is unable to give an effective notice to the scheme admini
 
 ## PART 8 — Immediate detriment cases
 
-### 63. Treatment of immediate detriment cases[^key-242d624645ef5b621a4da3d12b885a79]
+### 63. Treatment of immediate detriment cases[^c-242d624645ef5b621a4da3d12b885a79]
 
 (1) This regulation applies in relation to a person’s (“A’s”) remediable service where an immediate detriment remedy has been obtained in relation to that service by virtue of the condition provided for in section 32(3) of PSPJOA 2022 (“the second condition”) having been met.
 
@@ -1778,13 +1778,13 @@ Where a remedy member is unable to give an effective notice to the scheme admini
 
 ### CHAPTER 1 — Application of Part 9
 
-#### 64. Application of Part 9[^key-5aa07b2437a8bcddff5fa2fcc7e344a9]
+#### 64. Application of Part 9[^c-5aa07b2437a8bcddff5fa2fcc7e344a9]
 
 This Part applies in relation to relevant amounts[^f00025] owed in respect of the remediable service of a remedy member.
 
 ### CHAPTER 2 — Interest, compensation and netting off
 
-#### 65. Interest[^key-e9bd8468942ee97d0e0c84803178ddad]
+#### 65. Interest[^c-e9bd8468942ee97d0e0c84803178ddad]
 
 (1) The scheme manager must calculate interest on a relevant amount described in direction 15 of the PSP Directions 2022 in accordance with the provisions of directions 14 and 15 which apply to that description of relevant amount.
 
@@ -1795,7 +1795,7 @@ This Part applies in relation to relevant amounts[^f00025] owed in respect of th
 - (a) direction 16(2) (provision of explanation);
 - (b) direction 16(3) and (4) (appeals).
 
-#### 66. Indirect compensation[^key-3ead0bb6bde238f87ec96877cf172dd2]
+#### 66. Indirect compensation[^c-3ead0bb6bde238f87ec96877cf172dd2]
 
 (1) This regulation applies where, pursuant to an application under regulation 67, the scheme manager determines that an immediate choice member (“**M**”) has incurred a compensatable loss[^f00026] that is a Part 4 tax loss[^f00027] (a “relevant loss”).
 
@@ -1803,7 +1803,7 @@ This Part applies in relation to relevant amounts[^f00025] owed in respect of th
 
 (3) Instead, the amount of benefit payable under a civil service scheme is to be increased to reflect the amount of the relevant loss in such manner as determined by the scheme manager in accordance with direction 10(2) to (4) of the PSP Directions 2022.
 
-#### 67. Applications for compensation or indirect compensation[^key-126b8cb4bf1aff8b1eef365b2db719e0]
+#### 67. Applications for compensation or indirect compensation[^c-126b8cb4bf1aff8b1eef365b2db719e0]
 
 (1) This regulation applies in relation to—
 
@@ -1823,7 +1823,7 @@ This Part applies in relation to relevant amounts[^f00025] owed in respect of th
 - (a) direction 18(4) (provision of explanation);
 - (b) direction 18(5) and (6) (appeals).
 
-#### 68. Netting off[^key-1b392fb9fc356692682d592efce56bf1]
+#### 68. Netting off[^c-1b392fb9fc356692682d592efce56bf1]
 
 (1) This regulation applies where—
 
@@ -1841,7 +1841,7 @@ This Part applies in relation to relevant amounts[^f00025] owed in respect of th
 
 ### CHAPTER 3 — Reduction and waiver of liabilities
 
-#### 69. Reduction of liabilities in relation to pension contributions[^key-5433de3e7dfbc298e881e43dbdcaa23f]
+#### 69. Reduction of liabilities in relation to pension contributions[^c-5433de3e7dfbc298e881e43dbdcaa23f]
 
 (1) This regulation applies where—
 
@@ -1855,7 +1855,7 @@ under section 15, 16 or 17 of PSPJOA 2022.
 - (a) determined in accordance with direction 4(5) to (9) of the PSP Directions 2022, and
 - (b) before the liability is netted off in accordance with regulation 68.
 
-(2A)[^key-ac6f4e410b0fa38d37c93fbd65b302f1] Where the aggregate sum of the tax relief amounts as calculated under direction 4(6) of the PSP Directions 2022 is negative in relation to a relevant member who is an active member of the scheme, a reduction may be made at the discretion of the scheme manager in accordance with direction 4(7)(b)(ii) of those Directions.
+(2A)[^c-ac6f4e410b0fa38d37c93fbd65b302f1] Where the aggregate sum of the tax relief amounts as calculated under direction 4(6) of the PSP Directions 2022 is negative in relation to a relevant member who is an active member of the scheme, a reduction may be made at the discretion of the scheme manager in accordance with direction 4(7)(b)(ii) of those Directions.
 
 (3) The following provisions of the PSP Directions 2022 apply where the scheme manager makes a determination under direction 4(8)—
 
@@ -1873,7 +1873,7 @@ under section 15, 16 or 17 of PSPJOA 2022.
 
 (7) In this regulation, “**PCSPS opted-out service**” has the meaning given in regulation 5(2).
 
-#### 70. Power to reduce or waive amounts owed by a person to the scheme manager[^key-d0fad5048162b19503fd161c2a175e7c]
+#### 70. Power to reduce or waive amounts owed by a person to the scheme manager[^c-d0fad5048162b19503fd161c2a175e7c]
 
 (1) The scheme manager may reduce or waive an amount owed by a person to the scheme under—
 
@@ -1882,7 +1882,7 @@ under section 15, 16 or 17 of PSPJOA 2022.
 
 (2) When reducing or waiving an amount under paragraph (1), the scheme manager must comply with the requirements set out in direction 4(1)(a) to (c) of the PSP Directions 2022 (and the reference in direction 4(1)(c) to “any scheme regulations made by virtue of section 26(1)(b) of PSPJOA 2022” is to be read as a reference to regulation 73).
 
-#### 71. Agreement to waive a liability owed by the scheme manager in respect of an immediate correction[^key-de36b5b14df3b4129999c7e57b7a7ea0]
+#### 71. Agreement to waive a liability owed by the scheme manager in respect of an immediate correction[^c-de36b5b14df3b4129999c7e57b7a7ea0]
 
 (1) This regulation applies where the scheme manager owes a liability to pay compensation to a person (“**P**”) under section 16(3) of PSPJOA 2022.
 
@@ -1900,11 +1900,11 @@ under section 15, 16 or 17 of PSPJOA 2022.
 
 ### CHAPTER 4 — Payment of net liabilities
 
-#### 72. Application of Chapter 4[^key-5700535ee3495632adb2e713f1ddc7a8]
+#### 72. Application of Chapter 4[^c-5700535ee3495632adb2e713f1ddc7a8]
 
 This Chapter applies in respect of a relevant amount (together with any interest on that amount) which will be payable after taking into account the effect, if any, of regulations 65 to 71 (a “net liability”).
 
-#### 73. Payment of amounts owed to the scheme manager[^key-6775006a9a36f59174ec95599aee1b98]
+#### 73. Payment of amounts owed to the scheme manager[^c-6775006a9a36f59174ec95599aee1b98]
 
 (1) This regulation applies where a person (“**P**”) has a net liability to the scheme manager within the meaning of regulation 72.
 
@@ -1939,7 +1939,7 @@ the scheme manager must send another notice in writing to P under paragraph (2).
 
 (8) P has no liability to pay any amount on account of the net liability until the time for payment arises in accordance with this regulation or an agreement under this regulation, and until that time the scheme manager has no cause of action for the recovery of any such amount (whether for the purposes of the Limitation Act 1980[^f00029] or otherwise).
 
-#### 74. Payment of amounts owed to a person[^key-ffae87cca355fa2698c73bcd2bcc3b15]
+#### 74. Payment of amounts owed to a person[^c-ffae87cca355fa2698c73bcd2bcc3b15]
 
 (1) This regulation applies where the scheme manager owes a net liability to a person (“**P**”).
 
@@ -1973,7 +1973,7 @@ Two of the Lords Commissioners of His Majesty’s Treasury
 
 Regulations 4(3), 6(2), 8(2) and 12(2)
 
-### 1. Interpretation[^key-756d161e4fbcfdf384d6211c170497c6]
+### 1. Interpretation[^c-756d161e4fbcfdf384d6211c170497c6]
 
 (1) In this Schedule—
 
@@ -2004,7 +2004,7 @@ Regulations 4(3), 6(2), 8(2) and 12(2)
 - (c) M is a reference to the deceased remedy member in respect of whose remediable service an election may be made;
 - (d) a surviving adult is a reference to a surviving adult in relation to M.
 
-### 2. Sole beneficiary: an adult[^key-41a02a275f23cfac3edc2821140a31e1]
+### 2. Sole beneficiary: an adult[^c-41a02a275f23cfac3edc2821140a31e1]
 
 (1) Where a person is—
 
@@ -2032,14 +2032,14 @@ the eligible decision-maker is determined in accordance with sub-paragraph (2).
 - (a) A’s parent or guardian, or
 - (b) where no decision about whether to make an election has been received by the scheme manager by such day as the scheme manager considers reasonable in all the circumstances, the scheme manager.
 
-### 4. Sole beneficiary: a body[^key-68dbfdfd69684afd62f3ff4606ccdbd8]
+### 4. Sole beneficiary: a body[^c-68dbfdfd69684afd62f3ff4606ccdbd8]
 
 Where a body (whether corporate or unincorporated) is the sole beneficiary, the eligible decision-maker is—
 
 - (a) M’s personal representative, or
 - (b) where M has no personal representative, the scheme manager.
 
-### 5. Sole beneficiary: M’s estate[^key-336c1899665d9d438fcc83122a4ec311]
+### 5. Sole beneficiary: M’s estate[^c-336c1899665d9d438fcc83122a4ec311]
 
 Where M’s estate is the sole beneficiary, the eligible decision-maker is—
 
@@ -2060,7 +2060,7 @@ the eligible decision-maker is determined in accordance with sub-paragraph (2).
 - (a) B, or
 - (b) where no decision about whether to make an election has been received by the scheme manager by such day as the scheme manager considers reasonable in all the circumstances, the scheme manager.
 
-### 7. Multiple beneficiaries: including adult eligible children[^key-f1a31a08ae8444bc5761801ec53e1bbe]
+### 7. Multiple beneficiaries: including adult eligible children[^c-f1a31a08ae8444bc5761801ec53e1bbe]
 
 (1) Where—
 
@@ -2075,7 +2075,7 @@ the eligible decision-maker is determined in accordance with sub-paragraph (2).
 - (a) the person agreed upon by the adult eligible children, or
 - (b) where no decision about whether to make an election has been received by the scheme manager by the day four weeks before an election must, in accordance with these Regulations, be received by the scheme manager, the scheme manager.
 
-### 8. Multiple beneficiaries: nominated individuals only[^key-12069be8f3c4c2e220a4b481ea597e38]
+### 8. Multiple beneficiaries: nominated individuals only[^c-12069be8f3c4c2e220a4b481ea597e38]
 
 (1) Where—
 
@@ -2096,7 +2096,7 @@ the eligible decision-maker is determined in accordance with sub-paragraph (2).
 
   the scheme manager.
 
-### 9. Multiple beneficiaries: non-adult eligible children[^key-3a61b5b5c20aca9c1ccebe85f1096ac1]
+### 9. Multiple beneficiaries: non-adult eligible children[^c-3a61b5b5c20aca9c1ccebe85f1096ac1]
 
 Where the only beneficiaries are children, two or more of whom are eligible children, the eligible decision-maker is—
 
@@ -2105,7 +2105,7 @@ Where the only beneficiaries are children, two or more of whom are eligible chil
   - (i) M’s personal representative, or
   - (ii) where M has no personal representative, the scheme manager.
 
-### 10. Multiple beneficiaries: nominated children only[^key-eafa53d10abc9abeb82e52db0c433177]
+### 10. Multiple beneficiaries: nominated children only[^c-eafa53d10abc9abeb82e52db0c433177]
 
 Where the only beneficiaries are two or more children who are not eligible children, the eligible decision-maker is—
 
@@ -2114,7 +2114,7 @@ Where the only beneficiaries are two or more children who are not eligible child
   - (i) M’s personal representative, or
   - (ii) where M has no personal representative, the scheme manager.
 
-### 11. Multiple beneficiaries: one or more adults and one or more children[^key-c017d8b7f36387a2a64f057bdb82aa53]
+### 11. Multiple beneficiaries: one or more adults and one or more children[^c-c017d8b7f36387a2a64f057bdb82aa53]
 
 (1) Where the beneficiaries include one or more adults and one or more children—
 
@@ -2144,11 +2144,11 @@ Where the only beneficiaries are two or more children who are not eligible child
 - (a) where sub-paragraph (1)(b)(ii)(aa) applies, eligible children;
 - (b) where sub-paragraph (1)(b)(ii)(bb) applies, a person who is a beneficiary and who meets any of conditions A, B or C as set out in regulation 113(2), (3) and (4) of the 2014 Regulations.
 
-### 12. Other cases[^key-82c86a2e2c3e66f0cf9e5b13e4e1d959]
+### 12. Other cases[^c-82c86a2e2c3e66f0cf9e5b13e4e1d959]
 
 In any case not covered by paragraphs 2 to 11, the eligible decision-maker is the scheme manager.
 
-### 13. Option for scheme manager to be eligible decision-maker[^key-b96f9e78fece49a1f4b26dab0653799d]
+### 13. Option for scheme manager to be eligible decision-maker[^c-b96f9e78fece49a1f4b26dab0653799d]
 
 (1) A person (other than the scheme manager) determined as the eligible decision-maker in accordance with paragraph 2, 3, 5, or 6 may, subject to sub-paragraph (3), opt for the scheme manager to be the eligible decision-maker (“scheme manager option”).
 
@@ -2220,11 +2220,11 @@ An impact assessment has not been completed for these Regulations. An Explanator
 
 [^f00002]: Footnote: [2022 c. 7](https://www.legislation.gov.uk/ukpga/2022/7).
 
-[^key-87fbc2cf5bb03565788daab11ef5922c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2023/942) modified (1.10.2023) by [The Civil Service (Other Crown Servants) Pension Scheme (Remediable Service) Regulations 2023 (S.I. 2023/963)](https://www.legislation.gov.uk/uksi/2023/963), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/963/regulation/1/b), [3](https://www.legislation.gov.uk/uksi/2023/963/regulation/3), [4](https://www.legislation.gov.uk/uksi/2023/963/regulation/4)
+[^c-87fbc2cf5bb03565788daab11ef5922c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2023/942) modified (1.10.2023) by [The Civil Service (Other Crown Servants) Pension Scheme (Remediable Service) Regulations 2023 (S.I. 2023/963)](https://www.legislation.gov.uk/uksi/2023/963), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/963/regulation/1/b), [3](https://www.legislation.gov.uk/uksi/2023/963/regulation/3), [4](https://www.legislation.gov.uk/uksi/2023/963/regulation/4)
 
-[^key-a7b864622f324e5a57b3fce39bcc2483]: Commencement: Reg. 1 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-a7b864622f324e5a57b3fce39bcc2483]: Commencement: Reg. 1 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-fecd4d88b3635efeb81e13e1cb666692]: Commencement: Reg. 2 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-fecd4d88b3635efeb81e13e1cb666692]: Commencement: Reg. 2 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
 [^f00003]: Footnote: [S.I. 2014/1964](https://www.legislation.gov.uk/uksi/2014/1964).
 
@@ -2242,240 +2242,240 @@ An impact assessment has not been completed for these Regulations. An Explanator
 
 [^f00010]: Footnote: See section 1 of PSPJOA 2022 for the meaning of “remediable service”.
 
-[^key-6c5d457316f91c11bfa670d0e4e81dbf]: Commencement: Reg. 3 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-6c5d457316f91c11bfa670d0e4e81dbf]: Commencement: Reg. 3 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-17ea54b97f400a5737f235ff3d55cff3]: Commencement: Reg. 4 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-17ea54b97f400a5737f235ff3d55cff3]: Commencement: Reg. 4 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
 [^f00011]: Footnote: See section 29(10) of PSPJOA 2022 for the meaning of “the relevant date”.
 
 [^f00012]: Footnote: In accordance with section 29(9) of PSPJOA 2022, only one request under regulation 4(2)(b)(ii) may be made during any period of 12 months.
 
-[^key-bdd830737ff9bc2e0d80c2a49f835f94]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2023/942/regulation/4A) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [4](https://www.legislation.gov.uk/uksi/2025/1115/regulation/4)
+[^c-bdd830737ff9bc2e0d80c2a49f835f94]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2023/942/regulation/4A) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [4](https://www.legislation.gov.uk/uksi/2025/1115/regulation/4)
 
-[^key-59d38cd26ecf4b60a358be43b70ac7d5]: Commencement: Reg. 5 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-59d38cd26ecf4b60a358be43b70ac7d5]: Commencement: Reg. 5 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
 [^f00013]: Footnote: See sections 5(7) (read with section 4) and 36 of PSPJOA 2022 for the meaning of relevant opted-out service in relation to a Chapter 1 legacy scheme (such as the PCSPS).
 
-[^key-ab443cabf76580ca6a1dcf0a9cc5b71e]: Commencement: Reg. 6 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-ab443cabf76580ca6a1dcf0a9cc5b71e]: Commencement: Reg. 6 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
 [^f00014]: Footnote: See section 25(8) of PSPJOA 2022 for the meaning of “non-discrimination rule” and section 25(9) for the circumstances in which breach of a non-discrimination rule is “relevant”.
 
 [^f00015]: Footnote: See section 110(1) of PSPJOA 2022 for the definition of “partnership pension account”.
 
-[^key-99b218537730b64ad75ebf93739850c8]: Commencement: Reg. 7 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-99b218537730b64ad75ebf93739850c8]: Commencement: Reg. 7 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-f44874871c427d616e085a820a0dbd4e]: Commencement: Reg. 8 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-f44874871c427d616e085a820a0dbd4e]: Commencement: Reg. 8 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
 [^f00016]: Footnote: See section 7(2) of PSPJOA 2022 for the meaning of “the end of the section 6 election period”.
 
-[^key-cd35021498ff655224dac89935544d61]: Commencement: Reg. 9 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-cd35021498ff655224dac89935544d61]: Commencement: Reg. 9 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-4c70fe6fa8e98eac4d2b2e6d62200a3b]: Commencement: Reg. 10 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-4c70fe6fa8e98eac4d2b2e6d62200a3b]: Commencement: Reg. 10 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-ffaa94da0d356721b62e947d8a7f70f9]: Commencement: Reg. 11 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-ffaa94da0d356721b62e947d8a7f70f9]: Commencement: Reg. 11 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-b336245bc1cac609059efbfed9eea7e8]: Commencement: Reg. 12 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-b336245bc1cac609059efbfed9eea7e8]: Commencement: Reg. 12 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-e565288df554447a6a3fa1c8f5d4f377]: Commencement: Reg. 13 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-e565288df554447a6a3fa1c8f5d4f377]: Commencement: Reg. 13 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-834bc4eae3adb6ea715a373bd5ddc045]: Commencement: Reg. 14 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-834bc4eae3adb6ea715a373bd5ddc045]: Commencement: Reg. 14 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-b0de044eef34f1d8b16097c08fb302eb]: Commencement: Reg. 15 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-b0de044eef34f1d8b16097c08fb302eb]: Commencement: Reg. 15 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-275b504b6720af37890abf7a63c5b491]: Commencement: Reg. 16 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-275b504b6720af37890abf7a63c5b491]: Commencement: Reg. 16 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
 [^f00017]: Footnote: In accordance with section 110(1) of PSPJOA 2022, “**WRPA 1999**” means the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30).
 
-[^key-92d678b2c7f0fa7ca0aebec623605bd3]: Commencement: Reg. 17 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-92d678b2c7f0fa7ca0aebec623605bd3]: Commencement: Reg. 17 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
 [^f00018]: Footnote: See section 19(6) for the meaning of “mixed service”.
 
-[^key-a63049b8ce6834ac81b414d46bcf1c3d]: Commencement: Reg. 18 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-a63049b8ce6834ac81b414d46bcf1c3d]: Commencement: Reg. 18 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-1a41577d0c2d2817e4c7f6be13d35de2]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/2023/942/regulation/18/2) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [5(2)(a)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/5/2/a)
+[^c-1a41577d0c2d2817e4c7f6be13d35de2]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/2023/942/regulation/18/2) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [5(2)(a)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/5/2/a)
 
-[^key-ca8e17c7bb62f0326ef30ef5f53ce006]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/2023/942/regulation/18/2) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [5(2)(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/5/2/b)
+[^c-ca8e17c7bb62f0326ef30ef5f53ce006]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/2023/942/regulation/18/2) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [5(2)(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/5/2/b)
 
-[^key-37023d47ac2f1060bfe68baec4d72953]: Textual amendment: [Reg. 18(2A)](https://www.legislation.gov.uk/uksi/2023/942/regulation/18/2A)[(2B)](https://www.legislation.gov.uk/uksi/2023/942/regulation/18/2B) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [5(3)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/5/3)
+[^c-37023d47ac2f1060bfe68baec4d72953]: Textual amendment: [Reg. 18(2A)](https://www.legislation.gov.uk/uksi/2023/942/regulation/18/2A)[(2B)](https://www.legislation.gov.uk/uksi/2023/942/regulation/18/2B) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [5(3)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/5/3)
 
-[^key-d4cb994b3216dd5e35f26de54af95ff1]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/uksi/2023/942/regulation/18/3) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [5(4)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/5/4)
+[^c-d4cb994b3216dd5e35f26de54af95ff1]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/uksi/2023/942/regulation/18/3) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [5(4)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/5/4)
 
-[^key-58f7a9c5879c4d6e00df30007fbdb343]: Commencement: Reg. 19 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-58f7a9c5879c4d6e00df30007fbdb343]: Commencement: Reg. 19 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-da4dd5d1e051ab00215cdde653847888]: Commencement: Reg. 20 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-da4dd5d1e051ab00215cdde653847888]: Commencement: Reg. 20 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-ff678b98501c413f6fba43181c211c07]: Commencement: Reg. 21 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-ff678b98501c413f6fba43181c211c07]: Commencement: Reg. 21 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-17a7ecd7e6a27faaebf9ab3b8e6795c3]: Commencement: Reg. 22 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-17a7ecd7e6a27faaebf9ab3b8e6795c3]: Commencement: Reg. 22 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-20379f3c2ad239cae3cb06872c731a32]: Commencement: Reg. 23 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-20379f3c2ad239cae3cb06872c731a32]: Commencement: Reg. 23 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-1d67a029ab32b0791bfe7f4f7a93adde]: Commencement: Reg. 24 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-1d67a029ab32b0791bfe7f4f7a93adde]: Commencement: Reg. 24 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-3b607abd5288c4e821068a720dfe4356]: Commencement: Reg. 25 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-3b607abd5288c4e821068a720dfe4356]: Commencement: Reg. 25 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-e03bf8991ba5e50f2698566cd715f7d2]: Commencement: Reg. 26 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-e03bf8991ba5e50f2698566cd715f7d2]: Commencement: Reg. 26 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-8f26c2164f8abadd832b648cb5d68a57]: Commencement: Reg. 27 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-8f26c2164f8abadd832b648cb5d68a57]: Commencement: Reg. 27 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-f161f6b8f84893580b42a4308e95300d]: Commencement: Reg. 28 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-f161f6b8f84893580b42a4308e95300d]: Commencement: Reg. 28 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-99baf9bb24b31cdbccc1904994f675b1]: Commencement: Reg. 29 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-99baf9bb24b31cdbccc1904994f675b1]: Commencement: Reg. 29 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-dca80fd1c0438b6696ae8802f9e36ddf]: Commencement: Reg. 30 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-dca80fd1c0438b6696ae8802f9e36ddf]: Commencement: Reg. 30 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-dd10c42ce93c860bdc2ea819019d287a]: Textual amendment: [Reg. 30(3A)](https://www.legislation.gov.uk/uksi/2023/942/regulation/30/3A)[(3B)](https://www.legislation.gov.uk/uksi/2023/942/regulation/30/3B) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [6(2)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/6/2)
+[^c-dd10c42ce93c860bdc2ea819019d287a]: Textual amendment: [Reg. 30(3A)](https://www.legislation.gov.uk/uksi/2023/942/regulation/30/3A)[(3B)](https://www.legislation.gov.uk/uksi/2023/942/regulation/30/3B) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [6(2)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/6/2)
 
-[^key-b7cc21f049668604c401bbc4d38f44b5]: Textual amendment: [Reg. 30(7)](https://www.legislation.gov.uk/uksi/2023/942/regulation/30/7) substituted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [6(3)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/6/3)
+[^c-b7cc21f049668604c401bbc4d38f44b5]: Textual amendment: [Reg. 30(7)](https://www.legislation.gov.uk/uksi/2023/942/regulation/30/7) substituted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [6(3)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/6/3)
 
-[^key-a0c66bb0c83719de4558ee4c02967cca]: Commencement: Reg. 31 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-a0c66bb0c83719de4558ee4c02967cca]: Commencement: Reg. 31 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-6de72d44b77c4216c87423942ac670c8]: Commencement: Reg. 32 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-6de72d44b77c4216c87423942ac670c8]: Commencement: Reg. 32 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-6e4c4f6a7995b429f8442117adeea6a3]: Commencement: Reg. 33 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-6e4c4f6a7995b429f8442117adeea6a3]: Commencement: Reg. 33 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-cd7f2ae686c7cb7f254f3f1748ba0f0e]: Commencement: Reg. 34 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-cd7f2ae686c7cb7f254f3f1748ba0f0e]: Commencement: Reg. 34 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-5861080b32cec09506f94384ed7d9541]: Commencement: Reg. 35 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-5861080b32cec09506f94384ed7d9541]: Commencement: Reg. 35 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-eceb786d166d58f250759684bc9a4960]: Commencement: Reg. 36 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-eceb786d166d58f250759684bc9a4960]: Commencement: Reg. 36 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
 [^f00019]: Footnote: See section 33 of PSPJOA 2022 for the meaning of “Chapter 1 scheme”.
 
-[^key-93795bcbec9cad1211e88c3ffc630d42]: Commencement: Reg. 37 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-93795bcbec9cad1211e88c3ffc630d42]: Commencement: Reg. 37 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-76e87afcbeab4fcda1a7ef4ffa4573a8]: Commencement: Reg. 38 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-76e87afcbeab4fcda1a7ef4ffa4573a8]: Commencement: Reg. 38 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-befcb18bd138ab390fc992ccae41ad4e]: Textual amendment: Words in [reg. 38(1)](https://www.legislation.gov.uk/uksi/2023/942/regulation/38/1) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [7(1)(a)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/7/1/a)
+[^c-befcb18bd138ab390fc992ccae41ad4e]: Textual amendment: Words in [reg. 38(1)](https://www.legislation.gov.uk/uksi/2023/942/regulation/38/1) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [7(1)(a)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/7/1/a)
 
-[^key-8d0adf7074c3588128563a5dec1810bb]: Textual amendment: [Reg. 38(1A)](https://www.legislation.gov.uk/uksi/2023/942/regulation/38/1A) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [7(1)(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/7/1/b)
+[^c-8d0adf7074c3588128563a5dec1810bb]: Textual amendment: [Reg. 38(1A)](https://www.legislation.gov.uk/uksi/2023/942/regulation/38/1A) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [7(1)(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/7/1/b)
 
 [^f00020]: Footnote: [S.I. 2009/1171](https://www.legislation.gov.uk/uksi/2009/1171). Regulation 6 was amended by section 42(6)(a) of the Finance Act [2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26).
 
 [^f00021]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1).
 
-[^key-e0ec659c8fd11058d7d2f4b6d56d7f2d]: Commencement: Reg. 39 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-e0ec659c8fd11058d7d2f4b6d56d7f2d]: Commencement: Reg. 39 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-39314b8e533806fb0ffe76c5cdec2906]: Textual amendment: Words in [reg. 39(1)](https://www.legislation.gov.uk/uksi/2023/942/regulation/39/1) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [7(2)(a)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/7/2/a)
+[^c-39314b8e533806fb0ffe76c5cdec2906]: Textual amendment: Words in [reg. 39(1)](https://www.legislation.gov.uk/uksi/2023/942/regulation/39/1) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [7(2)(a)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/7/2/a)
 
-[^key-d7eb1d251af66357a6be8c703dc762c7]: Textual amendment: [Reg. 39(1A)](https://www.legislation.gov.uk/uksi/2023/942/regulation/39/1A) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [7(2)(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/7/2/b)
+[^c-d7eb1d251af66357a6be8c703dc762c7]: Textual amendment: [Reg. 39(1A)](https://www.legislation.gov.uk/uksi/2023/942/regulation/39/1A) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [7(2)(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/7/2/b)
 
-[^key-f54a04e1cb76d8d52fa09ff7f689a042]: Commencement: Reg. 40 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-f54a04e1cb76d8d52fa09ff7f689a042]: Commencement: Reg. 40 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-77f895ef4d3e57e4fad10e22749692c0]: Commencement: Reg. 41 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-77f895ef4d3e57e4fad10e22749692c0]: Commencement: Reg. 41 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-1bc2f2c8bd5d5b7c70ce576c232e5de8]: Commencement: Reg. 42 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-1bc2f2c8bd5d5b7c70ce576c232e5de8]: Commencement: Reg. 42 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-3056737fb98ea57ba6493c570f25ec9d]: Commencement: Reg. 43 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-3056737fb98ea57ba6493c570f25ec9d]: Commencement: Reg. 43 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-b823a6e831ff2e84ad45bba8afd9ea85]: Commencement: Reg. 44 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-b823a6e831ff2e84ad45bba8afd9ea85]: Commencement: Reg. 44 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-522286be40503299b16158bcd05dd78e]: Commencement: Reg. 45 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-522286be40503299b16158bcd05dd78e]: Commencement: Reg. 45 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-2a3c822efdda1b7adc00a5c2724a978e]: Commencement: Reg. 46 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-2a3c822efdda1b7adc00a5c2724a978e]: Commencement: Reg. 46 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-b4d16c1d296efa2db1cd2d000ce1509f]: Commencement: Reg. 47 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-b4d16c1d296efa2db1cd2d000ce1509f]: Commencement: Reg. 47 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-fb397438972274e131585361cd6468c1]: Commencement: Reg. 48 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-fb397438972274e131585361cd6468c1]: Commencement: Reg. 48 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-7a774da2463dfb1c61bd5d3b7b9eeeb4]: Commencement: Reg. 49 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-7a774da2463dfb1c61bd5d3b7b9eeeb4]: Commencement: Reg. 49 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-6176318c5375eb2501fe5c2247c7bfba]: Commencement: Reg. 50 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-6176318c5375eb2501fe5c2247c7bfba]: Commencement: Reg. 50 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-fe078f3302eefc020b6966ca8dfb506f]: Commencement: Reg. 51 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-fe078f3302eefc020b6966ca8dfb506f]: Commencement: Reg. 51 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-4e92481cf1a1087fd1897ecc12bad808]: Commencement: Reg. 52 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-4e92481cf1a1087fd1897ecc12bad808]: Commencement: Reg. 52 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-a6c5165cf27e2a4fd9fcba711d804d98]: Commencement: Reg. 53 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-a6c5165cf27e2a4fd9fcba711d804d98]: Commencement: Reg. 53 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-6ed4db607fea9edb18bafb33d344130a]: Commencement: Reg. 54 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-6ed4db607fea9edb18bafb33d344130a]: Commencement: Reg. 54 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
 [^f00022]: Footnote: In accordance with section 110(1) of PSPJOA 2022, “**FA 2004**” means the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12). Section 229(4) was inserted by paragraph 6(4) of Schedule 17 to the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11).
 
-[^key-25e76b85b869ec62402fd0469a4c99f3]: Commencement: Reg. 55 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-25e76b85b869ec62402fd0469a4c99f3]: Commencement: Reg. 55 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-fbe9d558b1d667450a9da5c2fa222056]: Commencement: Reg. 56 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-fbe9d558b1d667450a9da5c2fa222056]: Commencement: Reg. 56 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-dfea7dbd13fd989062e04877ecb8739c]: Commencement: Reg. 57 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-dfea7dbd13fd989062e04877ecb8739c]: Commencement: Reg. 57 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-b413b91f4f55c551413a37d6822038dd]: Commencement: Reg. 58 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-b413b91f4f55c551413a37d6822038dd]: Commencement: Reg. 58 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-8028b101bacb58f8620e8ac7c63b9fef]: Commencement: Reg. 59 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-8028b101bacb58f8620e8ac7c63b9fef]: Commencement: Reg. 59 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-4d2a2b57e0679a9e27c5c4151f65ad5a]: Commencement: Reg. 60 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-4d2a2b57e0679a9e27c5c4151f65ad5a]: Commencement: Reg. 60 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-5274896840ba0c836e666c85cfc5a009]: Commencement: Reg. 61 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-5274896840ba0c836e666c85cfc5a009]: Commencement: Reg. 61 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-403c5efeee9daae4223f9e9c1d1d511d]: Textual amendment: [Reg. 61(1A)-(1C)](https://www.legislation.gov.uk/uksi/2023/942/regulation/61/1A) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [8(1)(a)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/8/1/a)
+[^c-403c5efeee9daae4223f9e9c1d1d511d]: Textual amendment: [Reg. 61(1A)-(1C)](https://www.legislation.gov.uk/uksi/2023/942/regulation/61/1A) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [8(1)(a)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/8/1/a)
 
-[^key-2f2bdc155abbc1eab4ad88f01323e2eb]: Textual amendment: Words in [reg. 61(4)](https://www.legislation.gov.uk/uksi/2023/942/regulation/61/4) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [8(1)(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/8/1/b)
+[^c-2f2bdc155abbc1eab4ad88f01323e2eb]: Textual amendment: Words in [reg. 61(4)](https://www.legislation.gov.uk/uksi/2023/942/regulation/61/4) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [8(1)(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/8/1/b)
 
-[^key-14f37ff6f08936224de226455ea4cb97]: Commencement: Reg. 62 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-14f37ff6f08936224de226455ea4cb97]: Commencement: Reg. 62 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
 [^f00023]: Footnote: In accordance with section 110(1) of PSPJOA 2022, “**FA 2004**” means the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12). Section 237B was inserted by paragraph 15 of Schedule 17 to the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11).
 
 [^f00024]: Footnote: Section 237BA was inserted by section 9(3) of the Finance Act [2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3).
 
-[^key-6b91387bd30c764d1d790ef60ecb9c79]: Textual amendment: [Regs. 62A-62F](https://www.legislation.gov.uk/uksi/2023/942/regulation/62A) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [8(2)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/8/2)
+[^c-6b91387bd30c764d1d790ef60ecb9c79]: Textual amendment: [Regs. 62A-62F](https://www.legislation.gov.uk/uksi/2023/942/regulation/62A) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [8(2)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/8/2)
 
-[^key-242d624645ef5b621a4da3d12b885a79]: Commencement: Reg. 63 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-242d624645ef5b621a4da3d12b885a79]: Commencement: Reg. 63 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-5aa07b2437a8bcddff5fa2fcc7e344a9]: Commencement: Reg. 64 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-5aa07b2437a8bcddff5fa2fcc7e344a9]: Commencement: Reg. 64 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
 [^f00025]: Footnote: See section 26(3) of PSPJOA 2022 for the meaning of “relevant amounts”.
 
-[^key-e9bd8468942ee97d0e0c84803178ddad]: Commencement: Reg. 65 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-e9bd8468942ee97d0e0c84803178ddad]: Commencement: Reg. 65 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-3ead0bb6bde238f87ec96877cf172dd2]: Commencement: Reg. 66 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-3ead0bb6bde238f87ec96877cf172dd2]: Commencement: Reg. 66 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
 [^f00026]: Footnote: See section 23 of PSPJOA 2022 and direction 11 of the PSP Directions 2022 for the meaning of “compensatable loss”.
 
 [^f00027]: Footnote: See section 23(9) of PSPJOA 2022 for the meaning of “Part 4 tax loss”.
 
-[^key-126b8cb4bf1aff8b1eef365b2db719e0]: Commencement: Reg. 67 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-126b8cb4bf1aff8b1eef365b2db719e0]: Commencement: Reg. 67 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-1b392fb9fc356692682d592efce56bf1]: Commencement: Reg. 68 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-1b392fb9fc356692682d592efce56bf1]: Commencement: Reg. 68 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-5433de3e7dfbc298e881e43dbdcaa23f]: Commencement: Reg. 69 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-5433de3e7dfbc298e881e43dbdcaa23f]: Commencement: Reg. 69 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
 [^f00028]: Footnote: See section 18(4) of PSPJOA 2022 for the meaning of “**tax relief amounts**” for the purposes of a liability mentioned in regulation 68(1)(a) and section 18(7) of that Act for the meaning of that term for the purposes of a liability mentioned in regulation 68(1)(b).
 
-[^key-ac6f4e410b0fa38d37c93fbd65b302f1]: Textual amendment: [Reg. 69(2A)](https://www.legislation.gov.uk/uksi/2023/942/regulation/69/2A) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [9](https://www.legislation.gov.uk/uksi/2025/1115/regulation/9)
+[^c-ac6f4e410b0fa38d37c93fbd65b302f1]: Textual amendment: [Reg. 69(2A)](https://www.legislation.gov.uk/uksi/2023/942/regulation/69/2A) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [9](https://www.legislation.gov.uk/uksi/2025/1115/regulation/9)
 
-[^key-d0fad5048162b19503fd161c2a175e7c]: Commencement: Reg. 70 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-d0fad5048162b19503fd161c2a175e7c]: Commencement: Reg. 70 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-de36b5b14df3b4129999c7e57b7a7ea0]: Commencement: Reg. 71 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-de36b5b14df3b4129999c7e57b7a7ea0]: Commencement: Reg. 71 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-5700535ee3495632adb2e713f1ddc7a8]: Commencement: Reg. 72 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-5700535ee3495632adb2e713f1ddc7a8]: Commencement: Reg. 72 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-6775006a9a36f59174ec95599aee1b98]: Commencement: Reg. 73 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-6775006a9a36f59174ec95599aee1b98]: Commencement: Reg. 73 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
 [^f00029]: Footnote: [1980 c. 58](https://www.legislation.gov.uk/ukpga/1980/58).
 
-[^key-ffae87cca355fa2698c73bcd2bcc3b15]: Commencement: Reg. 74 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-ffae87cca355fa2698c73bcd2bcc3b15]: Commencement: Reg. 74 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-756d161e4fbcfdf384d6211c170497c6]: Commencement: Sch. para. 1 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-756d161e4fbcfdf384d6211c170497c6]: Commencement: Sch. para. 1 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-41a02a275f23cfac3edc2821140a31e1]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2023/942/schedule/paragraph/2) substituted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [10(2)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/10/2)
+[^c-41a02a275f23cfac3edc2821140a31e1]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2023/942/schedule/paragraph/2) substituted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [10(2)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/10/2)
 
 [^M_F_13bda12b-2255-4aba-83b9-f9a25578857f]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2023/942/schedule/paragraph/2) substituted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [10(2)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/10/2)
 
-[^key-68dbfdfd69684afd62f3ff4606ccdbd8]: Commencement: Sch. para. 4 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-68dbfdfd69684afd62f3ff4606ccdbd8]: Commencement: Sch. para. 4 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-336c1899665d9d438fcc83122a4ec311]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2023/942/schedule/paragraph/5) substituted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [10(3)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/10/3)
+[^c-336c1899665d9d438fcc83122a4ec311]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2023/942/schedule/paragraph/5) substituted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [10(3)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/10/3)
 
 [^M_F_6ad1d6d2-cae7-4c7c-93a2-8a89685c29d2]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2023/942/schedule/paragraph/5) substituted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [10(3)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/10/3)
 
-[^key-f1a31a08ae8444bc5761801ec53e1bbe]: Commencement: Sch. para. 7 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-f1a31a08ae8444bc5761801ec53e1bbe]: Commencement: Sch. para. 7 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-12069be8f3c4c2e220a4b481ea597e38]: Commencement: Sch. para. 8 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-12069be8f3c4c2e220a4b481ea597e38]: Commencement: Sch. para. 8 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-3a61b5b5c20aca9c1ccebe85f1096ac1]: Commencement: Sch. para. 9 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-3a61b5b5c20aca9c1ccebe85f1096ac1]: Commencement: Sch. para. 9 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-eafa53d10abc9abeb82e52db0c433177]: Commencement: Sch. para. 10 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-eafa53d10abc9abeb82e52db0c433177]: Commencement: Sch. para. 10 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-c017d8b7f36387a2a64f057bdb82aa53]: Commencement: Sch. para. 11 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-c017d8b7f36387a2a64f057bdb82aa53]: Commencement: Sch. para. 11 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-82c86a2e2c3e66f0cf9e5b13e4e1d959]: Commencement: Sch. para. 12 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
+[^c-82c86a2e2c3e66f0cf9e5b13e4e1d959]: Commencement: Sch. para. 12 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/942/regulation/1/b)
 
-[^key-b96f9e78fece49a1f4b26dab0653799d]: Textual amendment: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2023/942/schedule/paragraph/13) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [10(4)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/10/4)
+[^c-b96f9e78fece49a1f4b26dab0653799d]: Textual amendment: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2023/942/schedule/paragraph/13) inserted (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [10(4)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/10/4)

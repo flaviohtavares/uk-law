@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-0144cf013e85098ed2c2eee048c3d18b]
+## 2. Interpretation[^c-0144cf013e85098ed2c2eee048c3d18b]
 
 *Extent: E+W*
 
@@ -30,16 +30,16 @@ summary: ''
 - “**the 1990 Act**” means the Town and Country Planning Act 1990 [^c24261421];
 - “**the 1991 Act**” means the New Roads and Street Works Act 1991 [^c24261431];
 - “**the 2008 Act**” means the Planning Act 2008 [^c24261441];
-- “**access and rights of way plans**” means the plans which are certified as the access and rights of way plans by the Secretary of State under article 39 (certification of plans etc.) for[^key-caba7e6bb08db0371dc4f6b8c0f09bc0] the purposes of this Order;
+- “**access and rights of way plans**” means the plans which are certified as the access and rights of way plans by the Secretary of State under article 39 (certification of plans etc.) for[^c-caba7e6bb08db0371dc4f6b8c0f09bc0] the purposes of this Order;
 - “**address**” includes any number or address used for the purposes of electronic transmission;
 - “**apparatus**” has the same meaning as in Part 3 (street works in England and Wales) of the 1991 Act and further includes pipelines (and parts of them), aerial markers, cathodic protection test posts, field boundary markers, transformer rectifier kiosks, electricity cables, telecommunications equipment and electricity cabinets;
 - “**Anglian Water**” means Anglian Water Services Limited (company number 2366656) whose registered address is Lancaster House Lancaster Way, Ermine Business Park, Huntingdon, Cambridge, United Kingdom PE29 6XU;
 - “**authorised development**” means the development described in Schedule 1 (authorised development) and any other development authorised by this Order within the meaning of section 32 (meaning of “development”) of the 2008 Act;
-- “[^key-90b620d0bfbf67e166d60d85b4187d8c]**book of reference**” means the document of that description set out in Schedule 11 (documents and plans to be certified) certified by the Secretary of State as the book of reference under article 39 for the purposes of this Order and the document which is certified by the Secretary of State as the supplemental book of reference under article 39 for the purposes of this Order;
+- “[^c-90b620d0bfbf67e166d60d85b4187d8c]**book of reference**” means the document of that description set out in Schedule 11 (documents and plans to be certified) certified by the Secretary of State as the book of reference under article 39 for the purposes of this Order and the document which is certified by the Secretary of State as the supplemental book of reference under article 39 for the purposes of this Order;
 - “**building**” includes any structure or erection or any part of a building, structure or erection;
 - “**carriageway**” has the same meaning as in the 1980 Act;
 - “**commence**” means to carry out any material operation, as defined in section 155 (when development begins) of the 2008 Act, comprised in or carried out for the purposes of the authorised development and the words “commencement” and “commenced” and cognate expressions are to be construed accordingly;
-- “**commissioning**” means the process of testing all systems and components of the authorised development (which are installed or in relation to which installation is nearly complete) in order to ensure that they, and the authorised development as a whole, function in accordance with the plant design specifications and the undertaker's operational and safety requirements and the words “commission” and “commissioned” and cognate expressions are to be construed accordingly;[^key-2d946c83b91f40b49365dac7accac325]
+- “**commissioning**” means the process of testing all systems and components of the authorised development (which are installed or in relation to which installation is nearly complete) in order to ensure that they, and the authorised development as a whole, function in accordance with the plant design specifications and the undertaker's operational and safety requirements and the words “commission” and “commissioned” and cognate expressions are to be construed accordingly;[^c-2d946c83b91f40b49365dac7accac325]
 - “**commitments register**” means the plans which are certified as the access and rights of way plans by the Secretary of State under article 39 (certification of plans etc.) for the purposes of this Order;
 - “**date of completion of construction**” means the date on which the construction of the authorised development is complete including rectification of any construction defects, landscaping and reinstatement works;
 - “**date of final commissioning**” means the date on which the authorised development commences operation by generating power on a commercial basis, but excluding the generation of power during commissioning;
@@ -50,7 +50,7 @@ summary: ''
 - “**the environmental statement**” means the statement certified as the environmental statement by the Secretary of State under article 39 (certification of plans etc.) for the purposes of this Order;
 - “**flood risk assessment**” means the document certified as the flood risk assessment by the Secretary of State under article 39 (certification of plans etc.) for the purposes of this Order;
 - “**footpath**” and “**footway**” have the same meaning as in the 1980 Act;
-- “**framework biodiversity enhancement and management plan**” means the plan which is certified as the framework biodiversity enhancement and management plan by the Secretary of State under article 39 (certification of plans etc.) for the purposes of this Order[^key-d63d0986e450037b216e3776de901bc9];
+- “**framework biodiversity enhancement and management plan**” means the plan which is certified as the framework biodiversity enhancement and management plan by the Secretary of State under article 39 (certification of plans etc.) for the purposes of this Order[^c-d63d0986e450037b216e3776de901bc9];
 - “**framework construction environmental management plan**” means the plan which is certified as the framework construction environmental management plan by the Secretary of State under article 39 (certification of plans etc.) for the purposes of this Order;
 - “**framework construction traffic management plan**” means the plan which is certified as the framework construction traffic management plan by the Secretary of State under article 39 (certification of plans etc.) for the purposes of this Order;
 - “**framework construction worker travel plan**” means the plan which is certified as the framework construction worker travel plan by the Secretary of State under article 39 (certification of plans etc.) for the purposes of this Order;
@@ -62,7 +62,7 @@ summary: ''
 - “**maintain**” includes, inspect, repair, adjust, alter, remove, refurbish, reconstruct, replace and improve any part, but not the whole of, the authorised development provided that such activities are not likely to give rise to any significant adverse effects that have not been assessed in the environmental statement and “maintenance” and “maintaining” are to be construed accordingly;
 - “**National Grid**” means National Grid Electricity Transmission plc (Company Registration Number 02366977) whose registered office is at 1 to 3 Strand, London, WE2N 5EH and/or National Grid Gas plc (Company Registration Number 02006000) whose registered office is at 1 to 3 Strand, London WC2N 5EH as the context requires;
 - “**Network Rail**” means Network Rail Infrastructure Limited (Company Registration Number 02904587) whose registered office is at 1 Eversholt Street, London, NW1 2DN;
-- “[^key-7b1721d2869bf2a62c9dec1469f51d19]**Order land**” means the land which is required for, or is required to facilitate, or is incidental to, or is affected by, the authorised development shown coloured pink, blue, yellow and orange on the land plans and described in the book of reference;
+- “[^c-7b1721d2869bf2a62c9dec1469f51d19]**Order land**” means the land which is required for, or is required to facilitate, or is incidental to, or is affected by, the authorised development shown coloured pink, blue, yellow and orange on the land plans and described in the book of reference;
 - “**Order limits**” means the Order limits shown on the works plans;
 - “**owner**”, in relation to land, has the same meaning as in section 7 (interpretation) of the Acquisition of Land Act 1981 [^c24261451];
 - “**relevant planning authority**” means the local planning authority for the land in question, being North Lincolnshire Council, or any successor to it as planning authority;
@@ -71,7 +71,7 @@ summary: ''
 - “**statement to inform appropriate assessment**” means statement to inform appropriate assessment which are certified as by the Secretary of State under article 39 (certification of plans etc.) for the purposes of this Order;
 - “**street**” means a street within the meaning of section 48 (streets, street works and undertakers) of the 1991 Act, together with land on the verge of a street or between two carriageways, and includes any footpath and “**street**” includes any part of a street;
 - “**street authority**”, in relation to a street, has the same meaning as in Part 3 (street works in England and Wales) of the 1991 Act;
-- “[^key-63ba90a9483c978ebde03c8cee4a5a33]**supplemental land**” means the land which is required for, or is required to facilitate, or is incidental to, or is affected by, the authorised development shown coloured orange on the land plans and described in the book of reference;
+- “[^c-63ba90a9483c978ebde03c8cee4a5a33]**supplemental land**” means the land which is required for, or is required to facilitate, or is incidental to, or is affected by, the authorised development shown coloured orange on the land plans and described in the book of reference;
 - “**traffic authority**” has the same meaning as in section 121A (traffic authorities) of the 1984 Act;
 - “**tribunal**” means the Lands Chamber of the Upper Tribunal;
 - “**undertaker**” means VPI Immingham B Limited or the person who for the time being has the benefit of this Order in accordance with articles 6 (benefit of this Order) and 7 (consent to transfer benefit of the Order);
@@ -93,7 +93,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0144cf013e85098ed2c2eee048c3d18b]: Commencement: Art. 2 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
+[^c-0144cf013e85098ed2c2eee048c3d18b]: Commencement: Art. 2 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
 
 [^c24261371]: Marginal citation: [1961 c.33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -111,16 +111,16 @@ summary: ''
 
 [^c24261441]: Marginal citation: [2008 c.29](https://www.legislation.gov.uk/ukpga/2008/29).
 
-[^key-caba7e6bb08db0371dc4f6b8c0f09bc0]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2020/847/article/2) substituted (17.5.2021) by [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)
+[^c-caba7e6bb08db0371dc4f6b8c0f09bc0]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2020/847/article/2) substituted (17.5.2021) by [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)
 
-[^key-90b620d0bfbf67e166d60d85b4187d8c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2020/847/article/2) substituted (23.5.2025) by [The Immingham Open Cycle Gas Turbine (Amendment) (No. 3) Order 2025 (S.I. 2025/622)](https://www.legislation.gov.uk/uksi/2025/622), [arts. 1](https://www.legislation.gov.uk/uksi/2025/622/article/1), [3](https://www.legislation.gov.uk/uksi/2025/622/article/3)
+[^c-90b620d0bfbf67e166d60d85b4187d8c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2020/847/article/2) substituted (23.5.2025) by [The Immingham Open Cycle Gas Turbine (Amendment) (No. 3) Order 2025 (S.I. 2025/622)](https://www.legislation.gov.uk/uksi/2025/622), [arts. 1](https://www.legislation.gov.uk/uksi/2025/622/article/1), [3](https://www.legislation.gov.uk/uksi/2025/622/article/3)
 
-[^key-2d946c83b91f40b49365dac7accac325]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2020/847/article/2) inserted (1.2.2023) by [The Immingham Open Cycle Gas Turbine (Amendment) Order 2023 (S.I. 2023/119)](https://www.legislation.gov.uk/uksi/2023/119), [arts. 1](https://www.legislation.gov.uk/uksi/2023/119/article/1), [3](https://www.legislation.gov.uk/uksi/2023/119/article/3)
+[^c-2d946c83b91f40b49365dac7accac325]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2020/847/article/2) inserted (1.2.2023) by [The Immingham Open Cycle Gas Turbine (Amendment) Order 2023 (S.I. 2023/119)](https://www.legislation.gov.uk/uksi/2023/119), [arts. 1](https://www.legislation.gov.uk/uksi/2023/119/article/1), [3](https://www.legislation.gov.uk/uksi/2023/119/article/3)
 
-[^key-d63d0986e450037b216e3776de901bc9]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/uksi/2020/847/article/2) substituted (17.5.2021) by [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)
+[^c-d63d0986e450037b216e3776de901bc9]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/uksi/2020/847/article/2) substituted (17.5.2021) by [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)
 
-[^key-7b1721d2869bf2a62c9dec1469f51d19]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2020/847/article/2) substituted (23.5.2025) by [The Immingham Open Cycle Gas Turbine (Amendment) (No. 3) Order 2025 (S.I. 2025/622)](https://www.legislation.gov.uk/uksi/2025/622), [arts. 1](https://www.legislation.gov.uk/uksi/2025/622/article/1), [4](https://www.legislation.gov.uk/uksi/2025/622/article/4)
+[^c-7b1721d2869bf2a62c9dec1469f51d19]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2020/847/article/2) substituted (23.5.2025) by [The Immingham Open Cycle Gas Turbine (Amendment) (No. 3) Order 2025 (S.I. 2025/622)](https://www.legislation.gov.uk/uksi/2025/622), [arts. 1](https://www.legislation.gov.uk/uksi/2025/622/article/1), [4](https://www.legislation.gov.uk/uksi/2025/622/article/4)
 
 [^c24261451]: Marginal citation: [1981 c.67](https://www.legislation.gov.uk/ukpga/1981/67).
 
-[^key-63ba90a9483c978ebde03c8cee4a5a33]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2020/847/article/2) inserted (23.5.2025) by [The Immingham Open Cycle Gas Turbine (Amendment) (No. 3) Order 2025 (S.I. 2025/622)](https://www.legislation.gov.uk/uksi/2025/622), [arts. 1](https://www.legislation.gov.uk/uksi/2025/622/article/1), [5](https://www.legislation.gov.uk/uksi/2025/622/article/5)
+[^c-63ba90a9483c978ebde03c8cee4a5a33]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2020/847/article/2) inserted (23.5.2025) by [The Immingham Open Cycle Gas Turbine (Amendment) (No. 3) Order 2025 (S.I. 2025/622)](https://www.legislation.gov.uk/uksi/2025/622), [arts. 1](https://www.legislation.gov.uk/uksi/2025/622/article/1), [5](https://www.legislation.gov.uk/uksi/2025/622/article/5)

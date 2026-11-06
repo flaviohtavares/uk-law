@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Advising on changes to environmental law etc[^key-d08dbc7e086a5b4834719ffb9889215f][^key-199384da2d8b69a628427415a6c9ab24]
+## 30. Advising on changes to environmental law etc[^c-d08dbc7e086a5b4834719ffb9889215f][^c-199384da2d8b69a628427415a6c9ab24]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ on which the Minister requires it to give advice.
 
 ## Annotations
 
-[^key-d08dbc7e086a5b4834719ffb9889215f]: Commencement: S. 30 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-d08dbc7e086a5b4834719ffb9889215f]: Commencement: S. 30 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-199384da2d8b69a628427415a6c9ab24]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2021/30/section/30) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/f)
+[^c-199384da2d8b69a628427415a6c9ab24]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2021/30/section/30) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/f)

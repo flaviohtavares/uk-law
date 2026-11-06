@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. “Principal authority” and “single tier of local government”[^key-16075234e8ada1ebf4fa242aa2030c94]
+## 1. “Principal authority” and “single tier of local government”[^c-16075234e8ada1ebf4fa242aa2030c94]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16075234e8ada1ebf4fa242aa2030c94]: Commencement: S. 1 in force at 1.11.2007 for E. by [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/a)
+[^c-16075234e8ada1ebf4fa242aa2030c94]: Commencement: S. 1 in force at 1.11.2007 for E. by [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/a)

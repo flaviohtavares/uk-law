@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13ED. Termination of moratorium by monitor[^key-1531dc9ea9123ea203c78422d93482c3]
+## 13ED. Termination of moratorium by monitor[^c-1531dc9ea9123ea203c78422d93482c3]
 
 *Extent: N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1531dc9ea9123ea203c78422d93482c3]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/nisi/1989/2405/part/1A) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/4/1), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-1531dc9ea9123ea203c78422d93482c3]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/nisi/1989/2405/part/1A) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/4/1), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
 [^M_C_44578598-2784-46cf-d4bf-556a8a6aafb2]: Modification: Art. 13ED(1) modified (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2020/12/schedule/8/paragraph/10) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2020/12/schedule/8/paragraph/1))

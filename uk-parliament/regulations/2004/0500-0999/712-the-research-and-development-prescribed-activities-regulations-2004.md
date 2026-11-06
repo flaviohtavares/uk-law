@@ -31,7 +31,7 @@ summary: ''
 
 INCOME TAX
 
-The Research and Development (Prescribed Activities) Regulations 2004 (revoked)[^key-9f9534289538392680c9228e6d49b8d8]
+The Research and Development (Prescribed Activities) Regulations 2004 (revoked)[^c-9f9534289538392680c9228e6d49b8d8]
 
 Made
 
@@ -45,26 +45,26 @@ Coming into force
 
 1st April 2004
 
-[^key-9f9534289538392680c9228e6d49b8d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f9534289538392680c9228e6d49b8d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-9f9534289538392680c9228e6d49b8d8]
+## 1. Citation, commencement and effect[^c-9f9534289538392680c9228e6d49b8d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Activities prescribed as research and development[^key-9f9534289538392680c9228e6d49b8d8]
+## 2. Activities prescribed as research and development[^c-9f9534289538392680c9228e6d49b8d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of the Research and Development (Prescribed Activities) Regulations 2000[^key-9f9534289538392680c9228e6d49b8d8]
+## 3. Revocation of the Research and Development (Prescribed Activities) Regulations 2000[^c-9f9534289538392680c9228e6d49b8d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f9534289538392680c9228e6d49b8d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f9534289538392680c9228e6d49b8d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f9534289538392680c9228e6d49b8d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f9534289538392680c9228e6d49b8d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9f9534289538392680c9228e6d49b8d8]: Textual amendment: Regulations revoked (31.3.2023) by [The Research and Development (Prescribed Activities) Regulations 2023 (S.I. 2023/293)](https://www.legislation.gov.uk/uksi/2023/293), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/293/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2023/293/regulation/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/293/regulation/1/3))
+[^c-9f9534289538392680c9228e6d49b8d8]: Textual amendment: Regulations revoked (31.3.2023) by [The Research and Development (Prescribed Activities) Regulations 2023 (S.I. 2023/293)](https://www.legislation.gov.uk/uksi/2023/293), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/293/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2023/293/regulation/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/293/regulation/1/3))

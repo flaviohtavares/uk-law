@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Food (Figs, Hazelnuts and Pistachios from Turkey) (Emergency Control) (Scotland) Amendment Regulations 2003 (revoked)[^key-061950c9825091854503ae5d1c427e2d]
+The Food (Figs, Hazelnuts and Pistachios from Turkey) (Emergency Control) (Scotland) Amendment Regulations 2003 (revoked)[^c-061950c9825091854503ae5d1c427e2d]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 30th September 2003
 
-[^key-061950c9825091854503ae5d1c427e2d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-061950c9825091854503ae5d1c427e2d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-061950c9825091854503ae5d1c427e2d]
+## 1. Citation, commencement and application[^c-061950c9825091854503ae5d1c427e2d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Food (Figs, Hazelnuts and Pistachios from Turkey) (Emergency Control) (Scotland) (No. 2) Regulations 2002[^key-061950c9825091854503ae5d1c427e2d]
+## 2. Amendment to the Food (Figs, Hazelnuts and Pistachios from Turkey) (Emergency Control) (Scotland) (No. 2) Regulations 2002[^c-061950c9825091854503ae5d1c427e2d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-061950c9825091854503ae5d1c427e2d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-061950c9825091854503ae5d1c427e2d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-061950c9825091854503ae5d1c427e2d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-061950c9825091854503ae5d1c427e2d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-061950c9825091854503ae5d1c427e2d]: Textual amendment: Regulations revoked (1.10.2006) by [The Food (Emergency Control) (Scotland) Revocation Regulations 2006 (S.S.I. 2006/459)](https://www.legislation.gov.uk/ssi/2006/459), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/459/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2006/459/schedule)
+[^c-061950c9825091854503ae5d1c427e2d]: Textual amendment: Regulations revoked (1.10.2006) by [The Food (Emergency Control) (Scotland) Revocation Regulations 2006 (S.S.I. 2006/459)](https://www.legislation.gov.uk/ssi/2006/459), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/459/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2006/459/schedule)

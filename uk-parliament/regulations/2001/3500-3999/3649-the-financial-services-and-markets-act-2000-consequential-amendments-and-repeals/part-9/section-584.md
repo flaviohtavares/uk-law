@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 584. Revocation of the 1999 Regulations[^key-8c81ca14e84930e8cd893354bf1a95e2]
+## 584. Revocation of the 1999 Regulations[^c-8c81ca14e84930e8cd893354bf1a95e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Banking (Gibraltar) Regulations 1999 are revoked.
 
 ## Annotations
 
-[^key-8c81ca14e84930e8cd893354bf1a95e2]: Commencement: Art. 584 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-8c81ca14e84930e8cd893354bf1a95e2]: Commencement: Art. 584 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

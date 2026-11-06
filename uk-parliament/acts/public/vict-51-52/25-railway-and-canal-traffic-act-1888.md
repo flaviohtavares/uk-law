@@ -31,7 +31,7 @@ Railway and Canal Traffic Act 1888
 
 An Act for the better regulation of Railway and Canal Traffic, and for other purposes.
 
-\[10th August 1888\][^c573848][^c573849][^c573850][^c573851][^key-1cccca213daa6554c9e7c392ae0b07ac]
+\[10th August 1888\][^c573848][^c573849][^c573850][^c573851][^c-1cccca213daa6554c9e7c392ae0b07ac]
 
 ## 1. Short title and construction.
 
@@ -181,7 +181,7 @@ Terms defined by the [^c573900]Regulation of Railways Act 1873, have the meaning
 
 [^c573851]: Modification: Definition of 'harbour board' applied (E.W) (1.12.1991) by [Water Resources Act 1991 (c. 57, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/57), [ss. 72(2)(a)(iv)](https://www.legislation.gov.uk/ukpga/1991/57/section/72/2/a/iv), [225(2)](https://www.legislation.gov.uk/ukpga/1991/57/section/225/2) (with [ss. 16(6)](https://www.legislation.gov.uk/ukpga/1991/57/section/16/6), [179](https://www.legislation.gov.uk/ukpga/1991/57/section/179), [222(3)](https://www.legislation.gov.uk/ukpga/1991/57/section/222/3), [Sch. 22 para. 1](https://www.legislation.gov.uk/ukpga/1991/57/schedule/22/paragraph/1), [Sch. 23 para. 6](https://www.legislation.gov.uk/ukpga/1991/57/schedule/23/paragraph/6))
 
-[^key-1cccca213daa6554c9e7c392ae0b07ac]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/51-52/25): transfer of functions (N.I.) (8.5.2016 for specified purposes) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-1cccca213daa6554c9e7c392ae0b07ac]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/51-52/25): transfer of functions (N.I.) (8.5.2016 for specified purposes) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c573852]: Marginal citation: [1873 c. 48](https://www.legislation.gov.uk/ukpga/1873/48).
 

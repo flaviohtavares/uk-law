@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Licences and registration[^key-493446b637c9d4173c205b558104c811]
+## 12. Licences and registration[^c-493446b637c9d4173c205b558104c811]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-493446b637c9d4173c205b558104c811]: Commencement: Art. 12 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-493446b637c9d4173c205b558104c811]: Commencement: Art. 12 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)

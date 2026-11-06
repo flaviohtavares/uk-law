@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. General requirements for electrical connections[^key-ce65c6db993c888b14336cfff6a1cda6]
+## 15. General requirements for electrical connections[^c-ce65c6db993c888b14336cfff6a1cda6]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce65c6db993c888b14336cfff6a1cda6]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1989/1796/regulation/15) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-ce65c6db993c888b14336cfff6a1cda6]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1989/1796/regulation/15) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)

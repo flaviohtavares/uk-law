@@ -44,39 +44,39 @@ Coming into operation
 
 5th April 2012
 
-The Secretary of State makes these regulations in exercise of the powers conferred by Articles 17(1), (2), (3)(c), 4(b) and (5) and 55 (2) of, and paragraphs 1(1) and (4), 2, 5(1), 14(1) and 15 of Schedule 3 to, the Health and Safety at Work (Northern Ireland) Order 1978 *(affected by repeal, see note)*[^key-5165acf21b18c38ce2987946c002fea5] [^c21219951] (“**the 1978 Order *(affected by repeal, see note)*[^key-5165acf21b18c38ce2987946c002fea5]**”), as applied and modified, in relation to explosives, by Article 53 of the 1978 Order *(affected by repeal, see note)*[^key-5165acf21b18c38ce2987946c002fea5] [^c21219961]. In accordance with Article 46(1) *(affected by repeal, see note)*[^key-5165acf21b18c38ce2987946c002fea5] [^c21219971]of the 1978 Order, as so applied and modified, the Secretary of State has consulted with the Health and Safety Executive for Northern Ireland and such other bodies as appear to the Secretary of State to be appropriate. *(affected by repeal, see note)*[^key-5165acf21b18c38ce2987946c002fea5]
+The Secretary of State makes these regulations in exercise of the powers conferred by Articles 17(1), (2), (3)(c), 4(b) and (5) and 55 (2) of, and paragraphs 1(1) and (4), 2, 5(1), 14(1) and 15 of Schedule 3 to, the Health and Safety at Work (Northern Ireland) Order 1978 *(affected by repeal, see note)*[^c-5165acf21b18c38ce2987946c002fea5] [^c21219951] (“**the 1978 Order *(affected by repeal, see note)*[^c-5165acf21b18c38ce2987946c002fea5]**”), as applied and modified, in relation to explosives, by Article 53 of the 1978 Order *(affected by repeal, see note)*[^c-5165acf21b18c38ce2987946c002fea5] [^c21219961]. In accordance with Article 46(1) *(affected by repeal, see note)*[^c-5165acf21b18c38ce2987946c002fea5] [^c21219971]of the 1978 Order, as so applied and modified, the Secretary of State has consulted with the Health and Safety Executive for Northern Ireland and such other bodies as appear to the Secretary of State to be appropriate. *(affected by repeal, see note)*[^c-5165acf21b18c38ce2987946c002fea5]
 
 ## 1. Citation and commencement
 
-These Regulations may be cited as the Identification and Traceability of Explosives (Amendment) (Northern Ireland) Regulations 2012 and shall come into operation on 5th April 2012. *(affected by repeal, see note)*[^key-5165acf21b18c38ce2987946c002fea5]
+These Regulations may be cited as the Identification and Traceability of Explosives (Amendment) (Northern Ireland) Regulations 2012 and shall come into operation on 5th April 2012. *(affected by repeal, see note)*[^c-5165acf21b18c38ce2987946c002fea5]
 
 ## 2. Amendment of the Identification and Traceability of Explosives Regulations (Northern Ireland) 2010
 
-(1) The Identification and Traceability of Explosives Regulations (Northern Ireland) 2010 *(affected by repeal, see note)*[^key-5165acf21b18c38ce2987946c002fea5] [^c21219981]are amended as follows. *(affected by repeal, see note)*[^key-5165acf21b18c38ce2987946c002fea5]
+(1) The Identification and Traceability of Explosives Regulations (Northern Ireland) 2010 *(affected by repeal, see note)*[^c-5165acf21b18c38ce2987946c002fea5] [^c21219981]are amended as follows. *(affected by repeal, see note)*[^c-5165acf21b18c38ce2987946c002fea5]
 
-(2) In regulation 1, for “5th April 2012” substitute *(affected by repeal, see note)*[^key-5165acf21b18c38ce2987946c002fea5] “ 5th April 2013 ” *(affected by repeal, see note)*[^key-5165acf21b18c38ce2987946c002fea5].
+(2) In regulation 1, for “5th April 2012” substitute *(affected by repeal, see note)*[^c-5165acf21b18c38ce2987946c002fea5] “ 5th April 2013 ” *(affected by repeal, see note)*[^c-5165acf21b18c38ce2987946c002fea5].
 
-(3) After regulation 7, insert — *(affected by repeal, see note)*[^key-5165acf21b18c38ce2987946c002fea5]
+(3) After regulation 7, insert — *(affected by repeal, see note)*[^c-5165acf21b18c38ce2987946c002fea5]
 
 > **7A.**
 >
-> (1) The Secretary of State must from time to time — *(affected by repeal, see note)*[^key-5165acf21b18c38ce2987946c002fea5]
+> (1) The Secretary of State must from time to time — *(affected by repeal, see note)*[^c-5165acf21b18c38ce2987946c002fea5]
 >
-> - (a) carry out a review of these Regulations, *(affected by repeal, see note)*[^key-5165acf21b18c38ce2987946c002fea5]
-> - (b) set out the conclusions of the review in a report, and *(affected by repeal, see note)*[^key-5165acf21b18c38ce2987946c002fea5]
-> - (c) publish the report. *(affected by repeal, see note)*[^key-5165acf21b18c38ce2987946c002fea5]
+> - (a) carry out a review of these Regulations, *(affected by repeal, see note)*[^c-5165acf21b18c38ce2987946c002fea5]
+> - (b) set out the conclusions of the review in a report, and *(affected by repeal, see note)*[^c-5165acf21b18c38ce2987946c002fea5]
+> - (c) publish the report. *(affected by repeal, see note)*[^c-5165acf21b18c38ce2987946c002fea5]
 >
-> (2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how other member States have implemented Commission Directive *(affected by repeal, see note)*[^key-5165acf21b18c38ce2987946c002fea5] [2008/43/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2008/0043)[^key-5165acf21b18c38ce2987946c002fea5] setting up, pursuant to Council Directive *(affected by repeal, see note)*[^key-5165acf21b18c38ce2987946c002fea5] [93/15/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1993/0015)[^key-5165acf21b18c38ce2987946c002fea5] [^c21219991], a system for the identification and traceability of explosives for civil uses *(affected by repeal, see note)*[^key-5165acf21b18c38ce2987946c002fea5] [^c21220001] which these Regulations implement. *(affected by repeal, see note)*[^key-5165acf21b18c38ce2987946c002fea5]
+> (2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how other member States have implemented Commission Directive *(affected by repeal, see note)*[^c-5165acf21b18c38ce2987946c002fea5] [2008/43/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2008/0043)[^c-5165acf21b18c38ce2987946c002fea5] setting up, pursuant to Council Directive *(affected by repeal, see note)*[^c-5165acf21b18c38ce2987946c002fea5] [93/15/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1993/0015)[^c-5165acf21b18c38ce2987946c002fea5] [^c21219991], a system for the identification and traceability of explosives for civil uses *(affected by repeal, see note)*[^c-5165acf21b18c38ce2987946c002fea5] [^c21220001] which these Regulations implement. *(affected by repeal, see note)*[^c-5165acf21b18c38ce2987946c002fea5]
 >
-> (3) The report must in particular— *(affected by repeal, see note)*[^key-5165acf21b18c38ce2987946c002fea5]
+> (3) The report must in particular— *(affected by repeal, see note)*[^c-5165acf21b18c38ce2987946c002fea5]
 >
-> - (a) set out the objectives intended to be achieved by the regulatory system established by these Regulations, *(affected by repeal, see note)*[^key-5165acf21b18c38ce2987946c002fea5]
-> - (b) assess the extent to which those objectives are achieved, and *(affected by repeal, see note)*[^key-5165acf21b18c38ce2987946c002fea5]
-> - (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation. *(affected by repeal, see note)*[^key-5165acf21b18c38ce2987946c002fea5]
+> - (a) set out the objectives intended to be achieved by the regulatory system established by these Regulations, *(affected by repeal, see note)*[^c-5165acf21b18c38ce2987946c002fea5]
+> - (b) assess the extent to which those objectives are achieved, and *(affected by repeal, see note)*[^c-5165acf21b18c38ce2987946c002fea5]
+> - (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation. *(affected by repeal, see note)*[^c-5165acf21b18c38ce2987946c002fea5]
 >
-> (4) The first report under this regulation must be published before the end of the period of five years beginning with the day on which this regulation comes into force. *(affected by repeal, see note)*[^key-5165acf21b18c38ce2987946c002fea5]
+> (4) The first report under this regulation must be published before the end of the period of five years beginning with the day on which this regulation comes into force. *(affected by repeal, see note)*[^c-5165acf21b18c38ce2987946c002fea5]
 >
-> (5) Reports under this regulation are afterwards to be published at intervals not exceeding five years. *(affected by repeal, see note)*[^key-5165acf21b18c38ce2987946c002fea5]
+> (5) Reports under this regulation are afterwards to be published at intervals not exceeding five years. *(affected by repeal, see note)*[^c-5165acf21b18c38ce2987946c002fea5]
 
 .
 
@@ -100,7 +100,7 @@ A copy of the transposition note in relation to this partial implementation of t
 
 ## Annotations
 
-[^key-5165acf21b18c38ce2987946c002fea5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2012/123) revoked (5.4.2013) by [The Identification and Traceability of Explosives Regulations (Northern Ireland) 2013 (S.R. 2013/48)](https://www.legislation.gov.uk/nisr/2013/48), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1), [10(b)](https://www.legislation.gov.uk/nisr/2013/48/regulation/10/b) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/48/regulation/3), [9](https://www.legislation.gov.uk/nisr/2013/48/regulation/9))
+[^c-5165acf21b18c38ce2987946c002fea5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2012/123) revoked (5.4.2013) by [The Identification and Traceability of Explosives Regulations (Northern Ireland) 2013 (S.R. 2013/48)](https://www.legislation.gov.uk/nisr/2013/48), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/48/regulation/1/1), [10(b)](https://www.legislation.gov.uk/nisr/2013/48/regulation/10/b) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/48/regulation/3), [9](https://www.legislation.gov.uk/nisr/2013/48/regulation/9))
 
 [^c21219951]: Marginal citation: [S.I. 1978/1039 (N.I.9)](https://www.legislation.gov.uk/nisi/1978/1039).
 

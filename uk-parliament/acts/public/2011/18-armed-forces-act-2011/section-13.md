@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Reduction in rank or rate[^key-3d743c3c0cab5b485c0f2181199a361c]
+## 13. Reduction in rank or rate[^c-3d743c3c0cab5b485c0f2181199a361c]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d743c3c0cab5b485c0f2181199a361c]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2011/18/section/13) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/669/article/6))
+[^c-3d743c3c0cab5b485c0f2181199a361c]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2011/18/section/13) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/669/article/6))

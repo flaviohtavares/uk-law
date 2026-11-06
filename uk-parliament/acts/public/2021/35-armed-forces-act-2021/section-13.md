@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Power of commanding officer to award service detention: Royal Marines[^key-32453e5fa77e369839361fd6cd926c72][^key-4a38705feed4339d8bdb3944e8af7320]
+## 13. Power of commanding officer to award service detention: Royal Marines[^c-32453e5fa77e369839361fd6cd926c72][^c-4a38705feed4339d8bdb3944e8af7320]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-32453e5fa77e369839361fd6cd926c72]: Commencement: S. 13 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
+[^c-32453e5fa77e369839361fd6cd926c72]: Commencement: S. 13 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
 
-[^key-4a38705feed4339d8bdb3944e8af7320]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2021/35/section/13) in force at 1.5.2022 by [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/471/regulation/4/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/471/regulation/5))
+[^c-4a38705feed4339d8bdb3944e8af7320]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2021/35/section/13) in force at 1.5.2022 by [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/471/regulation/4/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/471/regulation/5))

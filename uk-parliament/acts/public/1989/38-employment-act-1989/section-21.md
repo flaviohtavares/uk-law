@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Removal of requirement to notify local authority of storage of celluloid film.[^key-3b4383425cc87720048a23c6d4d1e03c]
+## 21. Removal of requirement to notify local authority of storage of celluloid film.[^c-3b4383425cc87720048a23c6d4d1e03c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b4383425cc87720048a23c6d4d1e03c]: Textual amendment: [S. 21](https://www.legislation.gov.uk/ukpga/1989/38/section/21) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-3b4383425cc87720048a23c6d4d1e03c]: Textual amendment: [S. 21](https://www.legislation.gov.uk/ukpga/1989/38/section/21) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)

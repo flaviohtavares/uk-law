@@ -34,9 +34,9 @@ summary: ''
 (4) In deciding when to conduct a review in accordance with subsection (2), the Scottish Ministers must have regard to representations put to them on the matter by—
 
 - (a) the Scottish Police Authority,
-- (b) the chief constable of the Police Service of Scotland, [^key-96dfff545f05eb5d57bf618fbadd079d]...
+- (b) the chief constable of the Police Service of Scotland, [^c-96dfff545f05eb5d57bf618fbadd079d]...
 - (c) Her Majesty's Inspectors of Constabulary in Scotland.
-- (d)[^key-f321c0748d3fa1eda153d98bee9d1a90] the British Transport Police Authority,
+- (d)[^c-f321c0748d3fa1eda153d98bee9d1a90] the British Transport Police Authority,
 - (e) the chief constable of the British Transport Police Force,
 - (f) the Civil Nuclear Police Authority,
 - (g) the chief constable of the Civil Nuclear Constabulary,
@@ -52,6 +52,6 @@ a reference to a code of practice includes a revised code as allowed by subsecti
 
 ## Annotations
 
-[^key-96dfff545f05eb5d57bf618fbadd079d]: Textual amendment: Word in s. 74(4)(b) omitted (17.1.2018) by virtue of [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/46/article/2/1/b), [11(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/11/2/a)
+[^c-96dfff545f05eb5d57bf618fbadd079d]: Textual amendment: Word in s. 74(4)(b) omitted (17.1.2018) by virtue of [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/46/article/2/1/b), [11(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/11/2/a)
 
-[^key-f321c0748d3fa1eda153d98bee9d1a90]: Textual amendment: S. 74(4)(d)-(i) inserted (17.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/46/article/2/1/b), [11(2)(b)](https://www.legislation.gov.uk/uksi/2018/46/article/11/2/b)
+[^c-f321c0748d3fa1eda153d98bee9d1a90]: Textual amendment: S. 74(4)(d)-(i) inserted (17.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/46/article/2/1/b), [11(2)(b)](https://www.legislation.gov.uk/uksi/2018/46/article/11/2/b)

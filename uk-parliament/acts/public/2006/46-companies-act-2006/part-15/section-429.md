@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 429. Summary financial statements: offences[^key-b1fc416e9aeae8a3813a83459761ee92]
+## 429. Summary financial statements: offences[^c-b1fc416e9aeae8a3813a83459761ee92]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1fc416e9aeae8a3813a83459761ee92]: Textual amendment: S. 429 omitted (with effect in accordance with reg. 1(4) of the amending S.I.) by virtue of [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2013/1970/regulation/13)
+[^c-b1fc416e9aeae8a3813a83459761ee92]: Textual amendment: S. 429 omitted (with effect in accordance with reg. 1(4) of the amending S.I.) by virtue of [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2013/1970/regulation/13)

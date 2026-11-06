@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6A — Prudential Regulation Committee[^key-f424ca41c458a0e60ab8469b8cba65d7]
+## SCHEDULE 6A — Prudential Regulation Committee[^c-f424ca41c458a0e60ab8469b8cba65d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -206,14 +206,14 @@ This is subject to sub-paragraph (9).
 (9) The Committee may not delegate the following functions—
 
 - (a) reporting to the Chancellor of the Exchequer under paragraph 19;
-- (b)[^key-425834ca839d0ef840390df5f3db76fe][^key-87d8ddee4baf4c26cd775170e400e340] making rules under the Financial Services and Markets Act 2000;
+- (b)[^c-425834ca839d0ef840390df5f3db76fe][^c-87d8ddee4baf4c26cd775170e400e340] making rules under the Financial Services and Markets Act 2000;
 - (c) determining, reviewing and revising the prudential regulation strategy under section 2E of that Act;
 - (d) giving and reviewing guidance under section 2I of that Act;
 - (e) giving and revoking directions under section 3I, 3J, 3M, 316 or 318 of that Act;
 - (f) issuing statements under section 63ZD, 63C, 69, 142V, 192H, 192N, 210 or 345D of that Act;
-- (fa)[^key-7f890413ac5ebe1f5b6fed6ec21a129a] making technical standards in accordance with Chapter 2A of Part 9A of that Act;
+- (fa)[^c-7f890413ac5ebe1f5b6fed6ec21a129a] making technical standards in accordance with Chapter 2A of Part 9A of that Act;
 - (g) issuing statements under section 80 of the Financial Services Act 2012.
-- (h)[^key-37a04e52dec84ed257ec5230f083564a] making EU Exit instruments under the Financial Regulators’ Powers (Technical Standards) (Amendment etc.) (EU Exit) Regulations 2018.
+- (h)[^c-37a04e52dec84ed257ec5230f083564a] making EU Exit instruments under the Financial Regulators’ Powers (Technical Standards) (Amendment etc.) (EU Exit) Regulations 2018.
 
 ### Prudential regulation budget
 
@@ -234,12 +234,12 @@ This is subject to sub-paragraph (9).
 
 ## Annotations
 
-[^key-f424ca41c458a0e60ab8469b8cba65d7]: Textual amendment: Sch. 6A inserted (1.3.2017) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 1](https://www.legislation.gov.uk/ukpga/2016/14/schedule/1) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/d)
+[^c-f424ca41c458a0e60ab8469b8cba65d7]: Textual amendment: Sch. 6A inserted (1.3.2017) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 1](https://www.legislation.gov.uk/ukpga/2016/14/schedule/1) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/d)
 
-[^key-425834ca839d0ef840390df5f3db76fe]: Modification: [Sch. 6A para. 17(9)(b)](https://www.legislation.gov.uk/ukpga/1998/11/schedule/6A/paragraph/17/9/b) excluded (31.12.2020) by [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575), [reg. 4B(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/4B/2) (as inserted by The Solvency 2 and [Insurance (Amendment, etc.) (EU Exit) Regulations 2019 (S.I. 2019/407)](https://www.legislation.gov.uk/uksi/2019/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/407/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2019/407/regulation/8/3) (as amended by [S.I. 2020/1385](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [54(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/54/2)))
+[^c-425834ca839d0ef840390df5f3db76fe]: Modification: [Sch. 6A para. 17(9)(b)](https://www.legislation.gov.uk/ukpga/1998/11/schedule/6A/paragraph/17/9/b) excluded (31.12.2020) by [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575), [reg. 4B(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/4B/2) (as inserted by The Solvency 2 and [Insurance (Amendment, etc.) (EU Exit) Regulations 2019 (S.I. 2019/407)](https://www.legislation.gov.uk/uksi/2019/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/407/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2019/407/regulation/8/3) (as amended by [S.I. 2020/1385](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [54(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/54/2)))
 
-[^key-87d8ddee4baf4c26cd775170e400e340]: Modification: [Sch. 6A para. 17(9)(b)](https://www.legislation.gov.uk/ukpga/1998/11/schedule/6A/paragraph/17/9/b) excluded (30.6.2024) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) Regulations 2023 (S.I. 2023/1347)](https://www.legislation.gov.uk/uksi/2023/1347), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/3/2)
+[^c-87d8ddee4baf4c26cd775170e400e340]: Modification: [Sch. 6A para. 17(9)(b)](https://www.legislation.gov.uk/ukpga/1998/11/schedule/6A/paragraph/17/9/b) excluded (30.6.2024) by [The Insurance and Reinsurance Undertakings (Prudential Requirements) Regulations 2023 (S.I. 2023/1347)](https://www.legislation.gov.uk/uksi/2023/1347), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2023/1347/regulation/3/2)
 
-[^key-7f890413ac5ebe1f5b6fed6ec21a129a]: Textual amendment: [Sch. 6A para. 17(9)(fa)](https://www.legislation.gov.uk/ukpga/1998/11/schedule/6A/paragraph/17/9/fa) inserted (26.10.2018) by [The Financial Regulators Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115)](https://www.legislation.gov.uk/uksi/2018/1115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/6/a)
+[^c-7f890413ac5ebe1f5b6fed6ec21a129a]: Textual amendment: [Sch. 6A para. 17(9)(fa)](https://www.legislation.gov.uk/ukpga/1998/11/schedule/6A/paragraph/17/9/fa) inserted (26.10.2018) by [The Financial Regulators Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115)](https://www.legislation.gov.uk/uksi/2018/1115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/6/a)
 
-[^key-37a04e52dec84ed257ec5230f083564a]: Textual amendment: [Sch. 6A para. 17(9)(h)](https://www.legislation.gov.uk/ukpga/1998/11/schedule/6A/paragraph/17/9/h) inserted (26.10.2018) by [The Financial Regulators Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115)](https://www.legislation.gov.uk/uksi/2018/1115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/6/b)
+[^c-37a04e52dec84ed257ec5230f083564a]: Textual amendment: [Sch. 6A para. 17(9)(h)](https://www.legislation.gov.uk/ukpga/1998/11/schedule/6A/paragraph/17/9/h) inserted (26.10.2018) by [The Financial Regulators Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115)](https://www.legislation.gov.uk/uksi/2018/1115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/6/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52. Duty of Passenger Transport Executives to advise Secretary of State[^key-292967ffd8f2b8352bf07e9ed7226e72]
+## 52. Duty of Passenger Transport Executives to advise Secretary of State[^c-292967ffd8f2b8352bf07e9ed7226e72]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-292967ffd8f2b8352bf07e9ed7226e72]: Commencement: S. 52 in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-292967ffd8f2b8352bf07e9ed7226e72]: Commencement: S. 52 in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)

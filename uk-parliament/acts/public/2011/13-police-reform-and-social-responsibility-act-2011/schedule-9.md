@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 9 — Supplementary vote system[^key-a886a7b2bca263bcc81f6d5327662421]
+## SCHEDULE 9 — Supplementary vote system[^c-a886a7b2bca263bcc81f6d5327662421]
 
 *Extent: E+W*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Section 57
 
-### Application[^key-a886a7b2bca263bcc81f6d5327662421]
+### Application[^c-a886a7b2bca263bcc81f6d5327662421]
 
-**1.**[^key-a886a7b2bca263bcc81f6d5327662421] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a886a7b2bca263bcc81f6d5327662421] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### First preference vote and second preference vote[^key-a886a7b2bca263bcc81f6d5327662421]
+### First preference vote and second preference vote[^c-a886a7b2bca263bcc81f6d5327662421]
 
-**2.**[^key-a886a7b2bca263bcc81f6d5327662421] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a886a7b2bca263bcc81f6d5327662421] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Candidate with overall majority of first preference votes[^key-a886a7b2bca263bcc81f6d5327662421]
+### Candidate with overall majority of first preference votes[^c-a886a7b2bca263bcc81f6d5327662421]
 
-**3.**[^key-a886a7b2bca263bcc81f6d5327662421] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a886a7b2bca263bcc81f6d5327662421] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### No candidate with overall majority of first preference votes[^key-a886a7b2bca263bcc81f6d5327662421]
+### No candidate with overall majority of first preference votes[^c-a886a7b2bca263bcc81f6d5327662421]
 
-**4.**[^key-a886a7b2bca263bcc81f6d5327662421] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a886a7b2bca263bcc81f6d5327662421] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a886a7b2bca263bcc81f6d5327662421]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/2011/13/schedule/9) omitted (26.10.2022) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 13(18)](https://www.legislation.gov.uk/ukpga/2022/37/section/13/18), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1093](https://www.legislation.gov.uk/uksi/2022/1093), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1093/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1093/regulation/3))
+[^c-a886a7b2bca263bcc81f6d5327662421]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/2011/13/schedule/9) omitted (26.10.2022) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 13(18)](https://www.legislation.gov.uk/ukpga/2022/37/section/13/18), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1093](https://www.legislation.gov.uk/uksi/2022/1093), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1093/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1093/regulation/3))

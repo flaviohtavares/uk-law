@@ -419,13 +419,13 @@ In section 9 of the 1983 Act (registers of electors), after subsection (5) inser
 
 (1) A young person's information may be disclosed to any person so far as necessary for the purpose of the carrying out by that person of functions in connection with—
 
-- (a) the registration of electors, [^key-1473cf50f69b6fc79589446170090c06]...
-- (b) the conduct of an election, or[^key-09e2ecd7929b65b5611ffca8ec49ea8a]
+- (a) the registration of electors, [^c-1473cf50f69b6fc79589446170090c06]...
+- (b) the conduct of an election, or[^c-09e2ecd7929b65b5611ffca8ec49ea8a]
 - (c) the conduct of a referendum in accordance with the Referendums (Scotland) Act 2020.
 
-(2) A young person's information may be disclosed in accordance with regulation 32ZBD(9) and (9A)[^key-beccec49f36dca189d8ebdf92aa47edd] of the 2001 Regulations (pre-population of the canvass form).
+(2) A young person's information may be disclosed in accordance with regulation 32ZBD(9) and (9A)[^c-beccec49f36dca189d8ebdf92aa47edd] of the 2001 Regulations (pre-population of the canvass form).
 
-(3) A young person's information (other than any information by which the person's date of birth may be ascertained) may be disclosed in a version or copy of the register of local government electors or an absent voters record or list supplied in accordance with a relevant supply enactment, but only so far as it is necessary to do so for the purposes of or in connection with an election or referendum[^key-859fda52a707063dbbb84015edc80ffd] at which the young person will be entitled to vote.
+(3) A young person's information (other than any information by which the person's date of birth may be ascertained) may be disclosed in a version or copy of the register of local government electors or an absent voters record or list supplied in accordance with a relevant supply enactment, but only so far as it is necessary to do so for the purposes of or in connection with an election or referendum[^c-859fda52a707063dbbb84015edc80ffd] at which the young person will be entitled to vote.
 
 (4) In subsection (3), “**relevant supply enactment**” means—
 
@@ -437,12 +437,12 @@ In section 9 of the 1983 Act (registers of electors), after subsection (5) inser
 - (f) any enactment making provision equivalent to that in regulation 61 of the 2001 Regulations (absent voters records and lists) in relation to elections for membership of the Scottish Parliament or local government elections,
 - (g) any enactment making provision equivalent to that in regulation 97(3) of the 2001 Regulations in relation to elections for membership of the Scottish Parliament or local government elections,
 - (h) any enactment making provision equivalent to that in regulations 103 and 107 (and regulation 101 so far as relating to those regulations) of the 2001 Regulations (as those regulations apply to candidates at local government elections) in relation to elections for membership of the Scottish Parliament,
-- (i)[^key-dedc06215f32da165493a46ce03d10a8] the Referendums (Scotland) Act 2020.
+- (i)[^c-dedc06215f32da165493a46ce03d10a8] the Referendums (Scotland) Act 2020.
 
 (5) A young person's information may be disclosed to any person so far as necessary for the purposes of a criminal investigation or criminal proceedings relating to an offence (or alleged offence) under any enactment relating to—
 
-- (a) the registration of electors, [^key-0128802af4427f7e76e60337dfc1d8eb]...
-- (b) the conduct of elections, or[^key-9d78034db73c4415b122fa657537193b]
+- (a) the registration of electors, [^c-0128802af4427f7e76e60337dfc1d8eb]...
+- (b) the conduct of elections, or[^c-9d78034db73c4415b122fa657537193b]
 - (c) the conduct of a referendum in accordance with the Referendums (Scotland) Act 2020.
 
 (6) A young person's information may be disclosed to the young person to whom it relates.
@@ -566,16 +566,16 @@ The short title of this Act is the Scottish Elections (Reduction of Voting Age) 
 
 ## Annotations
 
-[^key-1473cf50f69b6fc79589446170090c06]: Textual amendment: Word in s. 14(1) omitted (30.1.2020) by virtue of [Referendums (Scotland) Act 2020 (asp 2)](https://www.legislation.gov.uk/asp/2020/2), [ss. 33(2)(a)](https://www.legislation.gov.uk/asp/2020/2/section/33/2/a), [41](https://www.legislation.gov.uk/asp/2020/2/section/41)
+[^c-1473cf50f69b6fc79589446170090c06]: Textual amendment: Word in s. 14(1) omitted (30.1.2020) by virtue of [Referendums (Scotland) Act 2020 (asp 2)](https://www.legislation.gov.uk/asp/2020/2), [ss. 33(2)(a)](https://www.legislation.gov.uk/asp/2020/2/section/33/2/a), [41](https://www.legislation.gov.uk/asp/2020/2/section/41)
 
-[^key-09e2ecd7929b65b5611ffca8ec49ea8a]: Textual amendment: S. 14(1)(c) and word inserted (30.1.2020) by [Referendums (Scotland) Act 2020 (asp 2)](https://www.legislation.gov.uk/asp/2020/2), [ss. 33(2)(b)](https://www.legislation.gov.uk/asp/2020/2/section/33/2/b), [41](https://www.legislation.gov.uk/asp/2020/2/section/41)
+[^c-09e2ecd7929b65b5611ffca8ec49ea8a]: Textual amendment: S. 14(1)(c) and word inserted (30.1.2020) by [Referendums (Scotland) Act 2020 (asp 2)](https://www.legislation.gov.uk/asp/2020/2), [ss. 33(2)(b)](https://www.legislation.gov.uk/asp/2020/2/section/33/2/b), [41](https://www.legislation.gov.uk/asp/2020/2/section/41)
 
-[^key-beccec49f36dca189d8ebdf92aa47edd]: Textual amendment: Words in s. 14(2) substituted (27.4.2020) by [The Representation of the People (Annual Canvass) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/113)](https://www.legislation.gov.uk/ssi/2020/113), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/113/regulation/1/1), [16](https://www.legislation.gov.uk/ssi/2020/113/regulation/16)
+[^c-beccec49f36dca189d8ebdf92aa47edd]: Textual amendment: Words in s. 14(2) substituted (27.4.2020) by [The Representation of the People (Annual Canvass) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/113)](https://www.legislation.gov.uk/ssi/2020/113), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/113/regulation/1/1), [16](https://www.legislation.gov.uk/ssi/2020/113/regulation/16)
 
-[^key-859fda52a707063dbbb84015edc80ffd]: Textual amendment: Words in s. 14(3) inserted (30.1.2020) by [Referendums (Scotland) Act 2020 (asp 2)](https://www.legislation.gov.uk/asp/2020/2), [ss. 33(3)](https://www.legislation.gov.uk/asp/2020/2/section/33/3), [41](https://www.legislation.gov.uk/asp/2020/2/section/41)
+[^c-859fda52a707063dbbb84015edc80ffd]: Textual amendment: Words in s. 14(3) inserted (30.1.2020) by [Referendums (Scotland) Act 2020 (asp 2)](https://www.legislation.gov.uk/asp/2020/2), [ss. 33(3)](https://www.legislation.gov.uk/asp/2020/2/section/33/3), [41](https://www.legislation.gov.uk/asp/2020/2/section/41)
 
-[^key-dedc06215f32da165493a46ce03d10a8]: Textual amendment: S. 14(4)(i) inserted (30.1.2020) by [Referendums (Scotland) Act 2020 (asp 2)](https://www.legislation.gov.uk/asp/2020/2), [ss. 33(4)](https://www.legislation.gov.uk/asp/2020/2/section/33/4), [41](https://www.legislation.gov.uk/asp/2020/2/section/41)
+[^c-dedc06215f32da165493a46ce03d10a8]: Textual amendment: S. 14(4)(i) inserted (30.1.2020) by [Referendums (Scotland) Act 2020 (asp 2)](https://www.legislation.gov.uk/asp/2020/2), [ss. 33(4)](https://www.legislation.gov.uk/asp/2020/2/section/33/4), [41](https://www.legislation.gov.uk/asp/2020/2/section/41)
 
-[^key-0128802af4427f7e76e60337dfc1d8eb]: Textual amendment: Word in s. 14(5) omitted (30.1.2020) by virtue of [Referendums (Scotland) Act 2020 (asp 2)](https://www.legislation.gov.uk/asp/2020/2), [ss. 33(5)(a)](https://www.legislation.gov.uk/asp/2020/2/section/33/5/a), [41](https://www.legislation.gov.uk/asp/2020/2/section/41)
+[^c-0128802af4427f7e76e60337dfc1d8eb]: Textual amendment: Word in s. 14(5) omitted (30.1.2020) by virtue of [Referendums (Scotland) Act 2020 (asp 2)](https://www.legislation.gov.uk/asp/2020/2), [ss. 33(5)(a)](https://www.legislation.gov.uk/asp/2020/2/section/33/5/a), [41](https://www.legislation.gov.uk/asp/2020/2/section/41)
 
-[^key-9d78034db73c4415b122fa657537193b]: Textual amendment: S. 14(5)(c) and word inserted (30.1.2020) by [Referendums (Scotland) Act 2020 (asp 2)](https://www.legislation.gov.uk/asp/2020/2), [ss. 33(5)(b)](https://www.legislation.gov.uk/asp/2020/2/section/33/5/b), [41](https://www.legislation.gov.uk/asp/2020/2/section/41)
+[^c-9d78034db73c4415b122fa657537193b]: Textual amendment: S. 14(5)(c) and word inserted (30.1.2020) by [Referendums (Scotland) Act 2020 (asp 2)](https://www.legislation.gov.uk/asp/2020/2), [ss. 33(5)(b)](https://www.legislation.gov.uk/asp/2020/2/section/33/5/b), [41](https://www.legislation.gov.uk/asp/2020/2/section/41)

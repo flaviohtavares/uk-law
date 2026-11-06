@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 185. Power to take additional sample[^key-c6279a7778f8732e6045a4ab31c7a7c5]
+## 185. Power to take additional sample[^c-c6279a7778f8732e6045a4ab31c7a7c5]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6279a7778f8732e6045a4ab31c7a7c5]: Commencement: S. 185 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-c6279a7778f8732e6045a4ab31c7a7c5]: Commencement: S. 185 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

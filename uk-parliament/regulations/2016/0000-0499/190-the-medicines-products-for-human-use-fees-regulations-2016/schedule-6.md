@@ -28,7 +28,7 @@ In this Schedule a reference to an application is to an application made by or o
 
 ### 2. Major application
 
-In connection with a major application for a marketing authorisation for which the fee payable is that specified in entry 1(h)[^key-ea5110df95f37caa1b2b25de938f2207] of the table in paragraph 24 of Part 2 of Schedule 2, the fee payable under regulation 12(1)(a) shall, if the applicant so requests in writing, be payable as to 25% at the time of the application and as to 75% within 30 days following written notice from the licensing authority that the application has been determined.
+In connection with a major application for a marketing authorisation for which the fee payable is that specified in entry 1(h)[^c-ea5110df95f37caa1b2b25de938f2207] of the table in paragraph 24 of Part 2 of Schedule 2, the fee payable under regulation 12(1)(a) shall, if the applicant so requests in writing, be payable as to 25% at the time of the application and as to 75% within 30 days following written notice from the licensing authority that the application has been determined.
 
 ### 3. Complex application
 
@@ -75,4 +75,4 @@ In connection with an application for a marketing authorisation, traditional her
 
 ## Annotations
 
-[^key-ea5110df95f37caa1b2b25de938f2207]: Textual amendment: Words in [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2016/190/schedule/6/paragraph/2) substituted (31.12.2020) by S.I. 2019/775, Sch. 1 para. 8A (as inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(h)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/h))
+[^c-ea5110df95f37caa1b2b25de938f2207]: Textual amendment: Words in [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2016/190/schedule/6/paragraph/2) substituted (31.12.2020) by S.I. 2019/775, Sch. 1 para. 8A (as inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 188(h)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/188/h))

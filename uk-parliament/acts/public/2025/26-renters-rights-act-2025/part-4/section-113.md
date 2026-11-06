@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 113. Enforcement by the lead enforcement authority[^key-9b19306bafed3afcbef6a03a7544ce39]
+## 113. Enforcement by the lead enforcement authority[^c-9b19306bafed3afcbef6a03a7544ce39]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b19306bafed3afcbef6a03a7544ce39]: Commencement: S. 113 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-9b19306bafed3afcbef6a03a7544ce39]: Commencement: S. 113 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)

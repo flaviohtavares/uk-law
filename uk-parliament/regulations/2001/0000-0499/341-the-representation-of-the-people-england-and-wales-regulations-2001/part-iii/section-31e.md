@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31E. List of reviews[^key-791cbe63063a24a5da93db1bbabb99f3]
+## 31E. List of reviews[^c-791cbe63063a24a5da93db1bbabb99f3]
 
 *Extent: E+W*
 
@@ -33,10 +33,10 @@ summary: ''
 
 (4) This regulation does not apply to any review where the subject of the review has an anonymous entry.
 
-(5)[^key-eaec9d4bedc1b7a02c75124ce1d23fc3] In relation to the registration of local government electors in Wales, this regulation does not apply to any review where the subject of the review is under the age of 16.
+(5)[^c-eaec9d4bedc1b7a02c75124ce1d23fc3] In relation to the registration of local government electors in Wales, this regulation does not apply to any review where the subject of the review is under the age of 16.
 
 ## Annotations
 
-[^key-791cbe63063a24a5da93db1bbabb99f3]: Textual amendment: [Regs. 31B-31F](https://www.legislation.gov.uk/uksi/2001/341/regulation/31B) inserted (1.1.2007) by [The Representation of the People (England and Wales) (Amendment) (No. 2) Regulations 2006 (S.I. 2006/2910)](https://www.legislation.gov.uk/uksi/2006/2910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2006/2910/regulation/11)
+[^c-791cbe63063a24a5da93db1bbabb99f3]: Textual amendment: [Regs. 31B-31F](https://www.legislation.gov.uk/uksi/2001/341/regulation/31B) inserted (1.1.2007) by [The Representation of the People (England and Wales) (Amendment) (No. 2) Regulations 2006 (S.I. 2006/2910)](https://www.legislation.gov.uk/uksi/2006/2910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2006/2910/regulation/11)
 
-[^key-eaec9d4bedc1b7a02c75124ce1d23fc3]: Textual amendment: [Reg. 31E(5)](https://www.legislation.gov.uk/uksi/2001/341/regulation/31E/5) inserted (1.6.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [ss. 17(3)](https://www.legislation.gov.uk/anaw/2020/1/section/17/3), [42(3)(a)](https://www.legislation.gov.uk/anaw/2020/1/section/42/3/a)
+[^c-eaec9d4bedc1b7a02c75124ce1d23fc3]: Textual amendment: [Reg. 31E(5)](https://www.legislation.gov.uk/uksi/2001/341/regulation/31E/5) inserted (1.6.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [ss. 17(3)](https://www.legislation.gov.uk/anaw/2020/1/section/17/3), [42(3)(a)](https://www.legislation.gov.uk/anaw/2020/1/section/42/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259JB. Counteraction where mismatch arises because of a dual resident company[^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259JB. Counteraction where mismatch arises because of a dual resident company[^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 - (a) is carried forward to subsequent accounting periods of the company, and
 - (b) may be so deducted for any such period, so far as it cannot be deducted under this paragraph for an earlier period.
 
-(6) Subsection (7) applies if it is reasonable to suppose that all or part of the dual territory double deduction amount is (in substance) deducted (“the illegitimate overseas deduction”), under the law of a territory outside the United Kingdom, from income of any person other than the company[^key-e0f35a1bcfa875a6f3ee6f516e624ca4], for a taxable period, that is not dual inclusion income of the company for an accounting period.
+(6) Subsection (7) applies if it is reasonable to suppose that all or part of the dual territory double deduction amount is (in substance) deducted (“the illegitimate overseas deduction”), under the law of a territory outside the United Kingdom, from income of any person other than the company[^c-e0f35a1bcfa875a6f3ee6f516e624ca4], for a taxable period, that is not dual inclusion income of the company for an accounting period.
 
 (7) For the purposes of determining how much of the dual territory double deduction amount may be deducted (if any) for the accounting period of the company in which the taxable period mentioned in subsection (6) ends, and any subsequent accounting periods of the company, an amount of it equal to the illegitimate overseas deduction is to be taken to have already been deducted for a previous accounting period of the company.
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
 
-[^key-e0f35a1bcfa875a6f3ee6f516e624ca4]: Textual amendment: Words in [s. 259JB(6)](https://www.legislation.gov.uk/ukpga/2010/8/section/259JB/6) inserted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 18(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/18/3)
+[^c-e0f35a1bcfa875a6f3ee6f516e624ca4]: Textual amendment: Words in [s. 259JB(6)](https://www.legislation.gov.uk/ukpga/2010/8/section/259JB/6) inserted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 18(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/18/3)

@@ -35,55 +35,55 @@ implementing Regulation (EC) No 1177/2003 of the European Parliament and of the 
 
 (Text with EEA relevance) (revoked)
 
-[^key-9eb1f16b8bb12048fad9130cb888c267]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9eb1f16b8bb12048fad9130cb888c267]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-9eb1f16b8bb12048fad9130cb888c267] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-9eb1f16b8bb12048fad9130cb888c267] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-9eb1f16b8bb12048fad9130cb888c267] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-9eb1f16b8bb12048fad9130cb888c267] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9eb1f16b8bb12048fad9130cb888c267]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9eb1f16b8bb12048fad9130cb888c267]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-9eb1f16b8bb12048fad9130cb888c267]
+## ANNEX[^c-9eb1f16b8bb12048fad9130cb888c267]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9eb1f16b8bb12048fad9130cb888c267]1.
+[^c-9eb1f16b8bb12048fad9130cb888c267]1.
 
 **Unit**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9eb1f16b8bb12048fad9130cb888c267]2.
+[^c-9eb1f16b8bb12048fad9130cb888c267]2.
 
 **Mode of data collection**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9eb1f16b8bb12048fad9130cb888c267]3.
+[^c-9eb1f16b8bb12048fad9130cb888c267]3.
 
 **Reference period**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9eb1f16b8bb12048fad9130cb888c267]4.
+[^c-9eb1f16b8bb12048fad9130cb888c267]4.
 
 **Definitions**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9eb1f16b8bb12048fad9130cb888c267](1)
+[^c-9eb1f16b8bb12048fad9130cb888c267](1)
 
 *Dwelling installations and facilities*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9eb1f16b8bb12048fad9130cb888c267](2)
+[^c-9eb1f16b8bb12048fad9130cb888c267](2)
 
 *Accessibility of basic needs*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9eb1f16b8bb12048fad9130cb888c267]5.
+[^c-9eb1f16b8bb12048fad9130cb888c267]5.
 
 **Data transmission**
 
@@ -91,4 +91,4 @@ implementing Regulation (EC) No 1177/2003 of the European Parliament and of the 
 
 ## Annotations
 
-[^key-9eb1f16b8bb12048fad9130cb888c267]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 180](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/180); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9eb1f16b8bb12048fad9130cb888c267]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 180](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/180); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

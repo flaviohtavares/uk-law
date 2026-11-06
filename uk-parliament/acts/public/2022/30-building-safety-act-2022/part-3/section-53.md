@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Information[^key-87c1a491645f7da50c10c5885670ef4a][^key-f4363b6998b6d7cc964ff617283d2958]
+## 53. Information[^c-87c1a491645f7da50c10c5885670ef4a][^c-f4363b6998b6d7cc964ff617283d2958]
 
 *Extent: E+W*
 
@@ -84,7 +84,7 @@ summary: ''
 >
 > (7) Schedule 3 to the Building Safety Act 2022 (information sharing) applies as if references to the regulator included references to a person to whom the regulator has delegated functions under subsection (1)(b).
 
-(2)[^key-3f03702f374a2e01374b65a858565a2b][^key-ff132e39e4de24e74003e0398cdfd991] In section 55 of the Building Act 1984 (appeals), after subsection (3) insert—
+(2)[^c-3f03702f374a2e01374b65a858565a2b][^c-ff132e39e4de24e74003e0398cdfd991] In section 55 of the Building Act 1984 (appeals), after subsection (3) insert—
 
 > (4) On an appeal under subsection (1), the local authority must give the specified information to the regulator.
 >
@@ -96,17 +96,17 @@ summary: ''
 
 - (a) in subsection (1)—
   - (i) after “authority” insert “in Wales”;
-  - (ii)[^key-3f03702f374a2e01374b65a858565a2b][^key-ff132e39e4de24e74003e0398cdfd991] after “public body’s notices” insert “, transfer reports”;
-  - (iii)[^key-3f03702f374a2e01374b65a858565a2b][^key-ff132e39e4de24e74003e0398cdfd991] after “such notices” insert “, reports”;
-- (b)[^key-3f03702f374a2e01374b65a858565a2b][^key-ff132e39e4de24e74003e0398cdfd991] in subsection (3), after “plans certificates, final certificates” insert “, transfer certificates”;
+  - (ii)[^c-3f03702f374a2e01374b65a858565a2b][^c-ff132e39e4de24e74003e0398cdfd991] after “public body’s notices” insert “, transfer reports”;
+  - (iii)[^c-3f03702f374a2e01374b65a858565a2b][^c-ff132e39e4de24e74003e0398cdfd991] after “such notices” insert “, reports”;
+- (b)[^c-3f03702f374a2e01374b65a858565a2b][^c-ff132e39e4de24e74003e0398cdfd991] in subsection (3), after “plans certificates, final certificates” insert “, transfer certificates”;
 - (c) in subsection (4), after “section” insert “by a local authority in Wales”.
 
 ## Annotations
 
-[^key-87c1a491645f7da50c10c5885670ef4a]: Commencement: S. 53 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(vii)(c)
+[^c-87c1a491645f7da50c10c5885670ef4a]: Commencement: S. 53 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(vii)(c)
 
-[^key-f4363b6998b6d7cc964ff617283d2958]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2022/30/section/53) in force at 6.4.2023 for specified purposes except in relation to W. by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(v)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/v)
+[^c-f4363b6998b6d7cc964ff617283d2958]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2022/30/section/53) in force at 6.4.2023 for specified purposes except in relation to W. by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(v)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/v)
 
-[^key-3f03702f374a2e01374b65a858565a2b]: Commencement: [S. 53(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/53/2)[(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2022/30/section/53/3/a/ii)[(iii)](https://www.legislation.gov.uk/ukpga/2022/30/section/53/3/a/iii)[(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/53/3/b) in force at 6.4.2024 for W. by [S.I. 2024/207](https://www.legislation.gov.uk/wsi/2024/207), [reg. 2(d)(ix)](https://www.legislation.gov.uk/wsi/2024/207/regulation/2/d/ix) (with [regs. 3](https://www.legislation.gov.uk/wsi/2024/207/regulation/3), [4](https://www.legislation.gov.uk/wsi/2024/207/regulation/4), [8-12](https://www.legislation.gov.uk/wsi/2024/207/regulation/8))
+[^c-3f03702f374a2e01374b65a858565a2b]: Commencement: [S. 53(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/53/2)[(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2022/30/section/53/3/a/ii)[(iii)](https://www.legislation.gov.uk/ukpga/2022/30/section/53/3/a/iii)[(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/53/3/b) in force at 6.4.2024 for W. by [S.I. 2024/207](https://www.legislation.gov.uk/wsi/2024/207), [reg. 2(d)(ix)](https://www.legislation.gov.uk/wsi/2024/207/regulation/2/d/ix) (with [regs. 3](https://www.legislation.gov.uk/wsi/2024/207/regulation/3), [4](https://www.legislation.gov.uk/wsi/2024/207/regulation/4), [8-12](https://www.legislation.gov.uk/wsi/2024/207/regulation/8))
 
-[^key-ff132e39e4de24e74003e0398cdfd991]: Commencement: [S. 53(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/53/2)[(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2022/30/section/53/3/a/ii)[(iii)](https://www.legislation.gov.uk/ukpga/2022/30/section/53/3/a/iii)[(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/53/3/b) in force at 6.4.2024 in force in so far as not already in force except in relation to W. by [S.I. 2024/104](https://www.legislation.gov.uk/uksi/2024/104), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2024/104/regulation/2/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/104/regulation/3))
+[^c-ff132e39e4de24e74003e0398cdfd991]: Commencement: [S. 53(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/53/2)[(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2022/30/section/53/3/a/ii)[(iii)](https://www.legislation.gov.uk/ukpga/2022/30/section/53/3/a/iii)[(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/53/3/b) in force at 6.4.2024 in force in so far as not already in force except in relation to W. by [S.I. 2024/104](https://www.legislation.gov.uk/uksi/2024/104), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2024/104/regulation/2/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/104/regulation/3))

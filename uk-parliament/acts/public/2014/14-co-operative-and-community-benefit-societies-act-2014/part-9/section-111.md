@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Special resolutions under section 109 or 110[^key-ed9eaefa9d80c314b6ee5a46bc199f07]
+## 111. Special resolutions under section 109 or 110[^c-ed9eaefa9d80c314b6ee5a46bc199f07]
 
 *Extent: E+W+S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed9eaefa9d80c314b6ee5a46bc199f07]: Modification: S. 111 modified by SI 2014/229 art. 13 (as substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) Order 2014 (S.I. 2014/1822)](https://www.legislation.gov.uk/uksi/2014/1822), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1822/article/1/2), [4](https://www.legislation.gov.uk/uksi/2014/1822/article/4))
+[^c-ed9eaefa9d80c314b6ee5a46bc199f07]: Modification: S. 111 modified by SI 2014/229 art. 13 (as substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) Order 2014 (S.I. 2014/1822)](https://www.legislation.gov.uk/uksi/2014/1822), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1822/article/1/2), [4](https://www.legislation.gov.uk/uksi/2014/1822/article/4))

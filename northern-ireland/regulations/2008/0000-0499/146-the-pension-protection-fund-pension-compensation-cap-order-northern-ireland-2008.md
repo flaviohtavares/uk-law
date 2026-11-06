@@ -31,7 +31,7 @@ summary: ''
 
 Pensions
 
-The Pension Protection Fund (Pension Compensation Cap) Order (Northern Ireland) 2008 (revoked)[^key-29ff57d6a165829b0e9a672740547a0e]
+The Pension Protection Fund (Pension Compensation Cap) Order (Northern Ireland) 2008 (revoked)[^c-29ff57d6a165829b0e9a672740547a0e]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 1st April 2008
 
-[^key-29ff57d6a165829b0e9a672740547a0e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-29ff57d6a165829b0e9a672740547a0e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-29ff57d6a165829b0e9a672740547a0e]
+## 1. Citation and commencement[^c-29ff57d6a165829b0e9a672740547a0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The compensation cap[^key-29ff57d6a165829b0e9a672740547a0e]
+## 2. The compensation cap[^c-29ff57d6a165829b0e9a672740547a0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-29ff57d6a165829b0e9a672740547a0e]
+## 3. Revocation[^c-29ff57d6a165829b0e9a672740547a0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-29ff57d6a165829b0e9a672740547a0e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-29ff57d6a165829b0e9a672740547a0e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-29ff57d6a165829b0e9a672740547a0e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-29ff57d6a165829b0e9a672740547a0e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-29ff57d6a165829b0e9a672740547a0e]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2008/146) revoked (1.4.2009) by [The Pension Protection Fund (Pension Compensation Cap) Order (Northern Ireland) 2009 (S.R. 2009/140)](https://www.legislation.gov.uk/nisr/2009/140), [arts. 1](https://www.legislation.gov.uk/nisr/2009/140/article/1), [3](https://www.legislation.gov.uk/nisr/2009/140/article/3)
+[^c-29ff57d6a165829b0e9a672740547a0e]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2008/146) revoked (1.4.2009) by [The Pension Protection Fund (Pension Compensation Cap) Order (Northern Ireland) 2009 (S.R. 2009/140)](https://www.legislation.gov.uk/nisr/2009/140), [arts. 1](https://www.legislation.gov.uk/nisr/2009/140/article/1), [3](https://www.legislation.gov.uk/nisr/2009/140/article/3)

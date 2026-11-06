@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 83. Saving for termination of Part 2[^key-54dfe8c137b723c78ac37e64a7477076]
+## 83. Saving for termination of Part 2[^c-54dfe8c137b723c78ac37e64a7477076]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54dfe8c137b723c78ac37e64a7477076]: Commencement: Art. 83 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-54dfe8c137b723c78ac37e64a7477076]: Commencement: Art. 83 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

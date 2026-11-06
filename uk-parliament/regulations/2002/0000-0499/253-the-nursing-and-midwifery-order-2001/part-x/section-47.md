@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Rules and orders[^key-74f5a486e8d9e707195dac7d4f816f90]
+## 47. Rules and orders[^c-74f5a486e8d9e707195dac7d4f816f90]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74f5a486e8d9e707195dac7d4f816f90]: Commencement: [Art. 47](https://www.legislation.gov.uk/uksi/2002/253/article/47) in force at 1.4.2002 as notified in the London Gazette (Issue 56517, published 25.3.2002), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)
+[^c-74f5a486e8d9e707195dac7d4f816f90]: Commencement: [Art. 47](https://www.legislation.gov.uk/uksi/2002/253/article/47) in force at 1.4.2002 as notified in the London Gazette (Issue 56517, published 25.3.2002), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)

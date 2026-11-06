@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Restrictions on mammals on suspicion of influenza of avian origin[^key-84f74e97150c2b36a0500f32483c64f1]
+## 58. Restrictions on mammals on suspicion of influenza of avian origin[^c-84f74e97150c2b36a0500f32483c64f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ On suspicion that influenza of avian origin exists or has in the preceding 56 da
 
 ## Annotations
 
-[^key-84f74e97150c2b36a0500f32483c64f1]: Textual amendment: [Art. 58](https://www.legislation.gov.uk/uksi/2006/2702/article/58) substituted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(32)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/32)
+[^c-84f74e97150c2b36a0500f32483c64f1]: Textual amendment: [Art. 58](https://www.legislation.gov.uk/uksi/2006/2702/article/58) substituted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(32)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/32)

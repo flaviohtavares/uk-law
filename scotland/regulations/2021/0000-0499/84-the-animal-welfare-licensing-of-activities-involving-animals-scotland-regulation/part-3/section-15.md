@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Fees[^key-e358078b72444779170229d0f2e930d0]
+## 15. Fees[^c-e358078b72444779170229d0f2e930d0]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e358078b72444779170229d0f2e930d0]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2021/84/regulation/15) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-e358078b72444779170229d0f2e930d0]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2021/84/regulation/15) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

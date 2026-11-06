@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Complaints: repeal of power to complain to Local Commissioner[^key-aa1fb1739b4246163578b36e87a5604e]
+## 45. Complaints: repeal of power to complain to Local Commissioner[^c-aa1fb1739b4246163578b36e87a5604e]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa1fb1739b4246163578b36e87a5604e]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2011/21/section/45) in force at 1.8.2012 by [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 2](https://www.legislation.gov.uk/uksi/2012/1087/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/1087/article/6))
+[^c-aa1fb1739b4246163578b36e87a5604e]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2011/21/section/45) in force at 1.8.2012 by [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 2](https://www.legislation.gov.uk/uksi/2012/1087/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/1087/article/6))

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84.18. Application for issue of a certificate under section 64 of the 2007Act[^key-f146bf34e754c1428c9e6fb4aac5a79e][^M_F_87b5206e-a9f1-4578-c113-c0749c754001]
+## 84.18. Application for issue of a certificate under section 64 of the 2007Act[^c-f146bf34e754c1428c9e6fb4aac5a79e][^M_F_87b5206e-a9f1-4578-c113-c0749c754001]
 
 *Extent: E+W*
 
 (1) This rule applies to an application for the issue of a certificate under section 64 of the 2007 Act.
 
-(2) The application must be made to the Civil National Business Centre[^key-1ac66d3acbce2f3b10404a26f1cc28be], using the approved form[^key-59861eabad38f626dd24c2c5a79071d9].
+(2) The application must be made to the Civil National Business Centre[^c-1ac66d3acbce2f3b10404a26f1cc28be], using the approved form[^c-59861eabad38f626dd24c2c5a79071d9].
 
 (3) The application must specify one of the County Court hearing centres listed in Practice Direction 84 as the centre at which the application is to be heard.
 
@@ -41,10 +41,10 @@ summary: ''
 
 ## Annotations
 
-[^key-f146bf34e754c1428c9e6fb4aac5a79e]: Textual amendment: [Pt. 84 Section 4](https://www.legislation.gov.uk/uksi/1998/3132/part/84/section/4) inserted (6.4.2014) by [The Civil Procedure (Amendment No.2) Rules 2014 (S.I. 2014/482)](https://www.legislation.gov.uk/uksi/2014/482), [rules 2](https://www.legislation.gov.uk/uksi/2014/482/rule/2), [4](https://www.legislation.gov.uk/uksi/2014/482/rule/4), [Sch.](https://www.legislation.gov.uk/uksi/2014/482/schedule) (with [rule 5](https://www.legislation.gov.uk/uksi/2014/482/rule/5))
+[^c-f146bf34e754c1428c9e6fb4aac5a79e]: Textual amendment: [Pt. 84 Section 4](https://www.legislation.gov.uk/uksi/1998/3132/part/84/section/4) inserted (6.4.2014) by [The Civil Procedure (Amendment No.2) Rules 2014 (S.I. 2014/482)](https://www.legislation.gov.uk/uksi/2014/482), [rules 2](https://www.legislation.gov.uk/uksi/2014/482/rule/2), [4](https://www.legislation.gov.uk/uksi/2014/482/rule/4), [Sch.](https://www.legislation.gov.uk/uksi/2014/482/schedule) (with [rule 5](https://www.legislation.gov.uk/uksi/2014/482/rule/5))
 
 [^M_F_87b5206e-a9f1-4578-c113-c0749c754001]: Textual amendment: [Pt. 84](https://www.legislation.gov.uk/uksi/1998/3132/part/84) inserted (6.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/407/schedule) (with [rule 41](https://www.legislation.gov.uk/uksi/2014/407/rule/41))
 
-[^key-1ac66d3acbce2f3b10404a26f1cc28be]: Textual amendment: Words in [rule 84.18(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/84.18/2) substituted (14.8.2023) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/2), [33](https://www.legislation.gov.uk/uksi/2023/788/rule/33)
+[^c-1ac66d3acbce2f3b10404a26f1cc28be]: Textual amendment: Words in [rule 84.18(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/84.18/2) substituted (14.8.2023) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/2), [33](https://www.legislation.gov.uk/uksi/2023/788/rule/33)
 
-[^key-59861eabad38f626dd24c2c5a79071d9]: Textual amendment: Words in [rule 84.18(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/84.18/2) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [32(a)](https://www.legislation.gov.uk/uksi/2022/783/rule/32/a)
+[^c-59861eabad38f626dd24c2c5a79071d9]: Textual amendment: Words in [rule 84.18(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/84.18/2) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [32(a)](https://www.legislation.gov.uk/uksi/2022/783/rule/32/a)

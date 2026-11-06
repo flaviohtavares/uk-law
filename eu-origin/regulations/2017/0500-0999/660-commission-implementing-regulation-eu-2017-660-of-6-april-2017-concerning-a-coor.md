@@ -35,42 +35,42 @@ concerning a coordinated multiannual control programme of the Union for 2018, 20
 
 (Text with EEA relevance) (repealed) (revoked)
 
-[^key-6103d5c6d2aef95545589dd9c84ea264]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6103d5c6d2aef95545589dd9c84ea264]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-6103d5c6d2aef95545589dd9c84ea264] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-6103d5c6d2aef95545589dd9c84ea264] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-6103d5c6d2aef95545589dd9c84ea264] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-6103d5c6d2aef95545589dd9c84ea264] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-6103d5c6d2aef95545589dd9c84ea264] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-6103d5c6d2aef95545589dd9c84ea264] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-6103d5c6d2aef95545589dd9c84ea264] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-6103d5c6d2aef95545589dd9c84ea264] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-6103d5c6d2aef95545589dd9c84ea264] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-6103d5c6d2aef95545589dd9c84ea264] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6103d5c6d2aef95545589dd9c84ea264]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6103d5c6d2aef95545589dd9c84ea264]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I[^key-6103d5c6d2aef95545589dd9c84ea264]
+## ANNEX I[^c-6103d5c6d2aef95545589dd9c84ea264]
 
-### PART A[^key-6103d5c6d2aef95545589dd9c84ea264]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART B[^key-6103d5c6d2aef95545589dd9c84ea264]
+### PART A[^c-6103d5c6d2aef95545589dd9c84ea264]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART C[^key-6103d5c6d2aef95545589dd9c84ea264]
+### PART B[^c-6103d5c6d2aef95545589dd9c84ea264]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART D[^key-6103d5c6d2aef95545589dd9c84ea264]
+### PART C[^c-6103d5c6d2aef95545589dd9c84ea264]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Number of samples referred to in Article 1[^key-6103d5c6d2aef95545589dd9c84ea264]
+### PART D[^c-6103d5c6d2aef95545589dd9c84ea264]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II — Number of samples referred to in Article 1[^c-6103d5c6d2aef95545589dd9c84ea264]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6103d5c6d2aef95545589dd9c84ea264]: Textual amendment: Regulation revoked (31.12.2020) by [The Pesticides (Maximum Residue Levels) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/557)](https://www.legislation.gov.uk/uksi/2019/557), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/557/regulation/1/1), [Sch. 2 para. 116](https://www.legislation.gov.uk/uksi/2019/557/schedule/2/paragraph/116); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6103d5c6d2aef95545589dd9c84ea264]: Textual amendment: Regulation revoked (31.12.2020) by [The Pesticides (Maximum Residue Levels) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/557)](https://www.legislation.gov.uk/uksi/2019/557), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/557/regulation/1/1), [Sch. 2 para. 116](https://www.legislation.gov.uk/uksi/2019/557/schedule/2/paragraph/116); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

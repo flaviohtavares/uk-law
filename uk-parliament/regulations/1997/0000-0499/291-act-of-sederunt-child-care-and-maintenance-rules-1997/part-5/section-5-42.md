@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.42. Appeal by applicant[^key-d599af637975df2fc7ede02bad5a2588]
+## 5.42. Appeal by applicant[^c-d599af637975df2fc7ede02bad5a2588]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d599af637975df2fc7ede02bad5a2588]: Commencement: Rule 5.42 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-d599af637975df2fc7ede02bad5a2588]: Commencement: Rule 5.42 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

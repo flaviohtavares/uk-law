@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 7[^key-94b5347485bdda51285adb8b34cb2379]
+## SCHEDULE 7[^c-94b5347485bdda51285adb8b34cb2379]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ CLOSURE NOTICE
 
 ## Annotations
 
-[^key-94b5347485bdda51285adb8b34cb2379]: Commencement: Sch. 7 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-94b5347485bdda51285adb8b34cb2379]: Commencement: Sch. 7 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)

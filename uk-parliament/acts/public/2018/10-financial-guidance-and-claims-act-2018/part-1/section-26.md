@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Interpretation of Part 1[^key-5137abe8564e5ba28383f3959c1cbd99]
+## 26. Interpretation of Part 1[^c-5137abe8564e5ba28383f3959c1cbd99]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5137abe8564e5ba28383f3959c1cbd99]: Commencement: S. 26 in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/n)
+[^c-5137abe8564e5ba28383f3959c1cbd99]: Commencement: S. 26 in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/n)

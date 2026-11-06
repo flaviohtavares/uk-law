@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 4
 
-### 1. Commission Implementing Regulation (EU) 2019/2243[^key-1786ede8bc9b57f0a167f8235a933d8b]
+### 1. Commission Implementing Regulation (EU) 2019/2243[^c-1786ede8bc9b57f0a167f8235a933d8b]
 
 (1) Commission Implementing Regulation (EU) 2019/2243 of 17 December 2019 establishing a template for the contract summary to be used by providers of publicly available electronic communications services pursuant to Directive (EU) 2018/1972 of the European Parliament and of the Council is amended as follows.
 
@@ -48,4 +48,4 @@ Regulation 4
 
 ## Annotations
 
-[^key-1786ede8bc9b57f0a167f8235a933d8b]: Commencement: Sch. 3 para. 1 in force at 31.12.2020 on IP completion day, see reg. 1(3)(c)
+[^c-1786ede8bc9b57f0a167f8235a933d8b]: Commencement: Sch. 3 para. 1 in force at 31.12.2020 on IP completion day, see reg. 1(3)(c)

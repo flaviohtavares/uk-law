@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Procedure for direct conferral of general functions on mayor[^key-9dbfff820b72c3e0bea10e960e7878a4]
+## 31. Procedure for direct conferral of general functions on mayor[^c-9dbfff820b72c3e0bea10e960e7878a4]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9dbfff820b72c3e0bea10e960e7878a4]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2023/55/section/31) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-9dbfff820b72c3e0bea10e960e7878a4]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2023/55/section/31) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)

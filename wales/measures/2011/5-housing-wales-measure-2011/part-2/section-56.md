@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Sanction[^key-c097c4a8c1b5fc1d99f04214bb209eff]
+## 56. Sanction[^c-c097c4a8c1b5fc1d99f04214bb209eff]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ After section 50F of the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-c097c4a8c1b5fc1d99f04214bb209eff]: Commencement: [S. 56](https://www.legislation.gov.uk/mwa/2011/5/section/56) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(j)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/j)
+[^c-c097c4a8c1b5fc1d99f04214bb209eff]: Commencement: [S. 56](https://www.legislation.gov.uk/mwa/2011/5/section/56) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(j)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/j)

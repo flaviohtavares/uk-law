@@ -46,13 +46,13 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 1 of the Bees Act 1980[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and extent[^key-c2dd7270c06ada54246a49e2fc5192de]
+## 1. Citation, commencement and extent[^c-c2dd7270c06ada54246a49e2fc5192de]
 
 (1) This Order may be cited as the Bee Diseases and Pests Control (Scotland) Order 2007 and comes into force on 1st December 2007.
 
 (2) This Order extends to Scotland only.
 
-## 2. Interpretation[^key-2ed5fbca30086d5d9189c829665c56ce]
+## 2. Interpretation[^c-2ed5fbca30086d5d9189c829665c56ce]
 
 (1) In this Order–
 
@@ -80,7 +80,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 (6) Any reference in this Order to anything done in writing or produced in written form includes a reference to an electronic communication, as defined in the Electronic Communications Act 2000[^f00002], which has been recorded and is consequently capable of being reproduced.
 
-## 3. Notification of suspicion of a disease or pest[^key-12d578c3ff7792cd913c8fa0fe8fe7c5]
+## 3. Notification of suspicion of a disease or pest[^c-12d578c3ff7792cd913c8fa0fe8fe7c5]
 
 (1) Any owner or person in charge of a hive who knows or suspects that–
 
@@ -99,7 +99,7 @@ a bee pest that that person knows or suspects is a notifiable pest must immediat
 
 (3) Paragraph (2) does not apply to any person who has possession or charge of a bee pest, or who discovers a bee pest, in the course of that person’s occupation at a laboratory to which samples have been sent for testing for the purposes of this Order.
 
-## 4. Prohibition on removal[^key-0c89a0e7a8ad99dba5efb89a8f4fa1a4]
+## 4. Prohibition on removal[^c-0c89a0e7a8ad99dba5efb89a8f4fa1a4]
 
 (1) Where notification has been given under article 3(1), the owner or person in charge of the hive must not remove, or permit to be removed, from the premises or vehicle on or in which the hive is situated–
 
@@ -137,13 +137,13 @@ except for the purpose of submitting a sample under paragraph (2).
 
 (9) Any sample submitted under paragraph (2) or (6) must be packed in a way which prevents as far as possible the risk of the spread of infection during transit.
 
-## 5. Marking of hives and appliances[^key-4903da86a24b174a0702588cb88e2d5f]
+## 5. Marking of hives and appliances[^c-4903da86a24b174a0702588cb88e2d5f]
 
 (1) An authorised person may mark any hive or appliance for identification purposes.
 
 (2) No person shall without reasonable excuse interfere with any identifying mark made under paragraph (1) or permit such a mark to be interfered with.
 
-## 6. Notices prohibiting removal[^key-f85ea6988c61edcfb23a39676acb8be8]
+## 6. Notices prohibiting removal[^c-f85ea6988c61edcfb23a39676acb8be8]
 
 (1) Where an authorised person has reasonable grounds to suspect that a notifiable disease or a notifiable pest is present on or in any premises or vehicle, that authorised person shall serve on the owner or person in charge of–
 
@@ -159,7 +159,7 @@ a notice prohibiting their removal and the removal of any bee pests contained in
 
 (3) An authorised person shall serve a notice revoking a notice served under paragraph (2) if the power of entry under section 2 of the Act is subsequently exercised without obstruction.
 
-## 7. Disease control measures[^key-1e3316113f99da22c6355249cab27e34]
+## 7. Disease control measures[^c-1e3316113f99da22c6355249cab27e34]
 
 (1) The presence of a notifiable disease may be confirmed by an authorised person on the basis of a laboratory test result or a field test kit result.
 
@@ -177,7 +177,7 @@ a notice prohibiting their removal and the removal of any bee pests contained in
 
 (4) If, once any treatment required by a notice served under this article has been carried out, an authorised person confirms on the basis of a laboratory test result or a field test kit result that the notifiable disease remains, an authorised person may serve further notices under this article.
 
-## 8. Pest control measures[^key-07cc1bd402e9e4355b667875d1de6095]
+## 8. Pest control measures[^c-07cc1bd402e9e4355b667875d1de6095]
 
 (1) The presence of a notifiable pest may be confirmed by an authorised person on the basis of a laboratory test result or a physical examination.
 
@@ -192,7 +192,7 @@ a notice prohibiting their removal and the removal of any bee pests contained in
 - (a) any person who has possession or charge of a bee pest;
 - (b) the owner or occupier of the premises, or the owner or person in charge of the vehicle.
 
-## 9. Notices served under article 7 or 8[^key-a30ac9875cb254e6c4fc72b939847e35]
+## 9. Notices served under article 7 or 8[^c-a30ac9875cb254e6c4fc72b939847e35]
 
 A notice served under article 7 or 8 shall specify–
 
@@ -201,7 +201,7 @@ A notice served under article 7 or 8 shall specify–
 
 and may specify that the destruction or treatment is to be carried out by an authorised person, in the presence of an authorised person or under the supervision of an authorised person.
 
-## 10. Declaration of infected area[^key-c023e4028b4103c925c783bd85d04ce0]
+## 10. Declaration of infected area[^c-c023e4028b4103c925c783bd85d04ce0]
 
 (1) The Scottish Ministers may by notice declare an area in which they are satisfied that a notifiable pest is present to be an infected area.
 
@@ -209,7 +209,7 @@ and may specify that the destruction or treatment is to be carried out by an aut
 
 (3) The Scottish Ministers must bring any notice issued under paragraph (1) and any notice amending or revoking such a notice to the attention of persons likely to be affected by it by publishing it in such manner as they consider necessary.
 
-## 11. Imported bees[^key-85d43b9b25b0b0b859310645746ece4f]
+## 11. Imported bees[^c-85d43b9b25b0b0b859310645746ece4f]
 
 (1) This article applies where bees are imported into Scotland in accordance with Articles 1(1) and 2 of Commission Decision [2003/881/EC](https://www.legislation.gov.uk/european/decision/2003/0881) concerning the animal health and certification conditions for imports of bees (*Apis mellifera* and *Bombus* spp.) from certain third countries and repealing Decision [2000/462/EC](https://www.legislation.gov.uk/european/decision/2000/0462)[^f00003].
 
@@ -222,7 +222,7 @@ and may specify that the destruction or treatment is to be carried out by an aut
 
 (4) When bees of the species *Bombus* spp. are imported in accordance with said Article 2, the owner or person in charge of the bees must ensure that the container in which they are transported from the country of origin and all material that accompanies the bees from the country of origin are destroyed either during or immediately at the end of the lifespan of the imported colony.
 
-## 12. Provision of facilities and other obligations[^key-bdbeb4da30fc712f76a09626e770b066]
+## 12. Provision of facilities and other obligations[^c-bdbeb4da30fc712f76a09626e770b066]
 
 The owner or person in charge of any hive, bees, combs, bee products or appliances, the owner or occupier of any premises and the owner or person in charge of any vehicle on or in which there is suspected to be a notifiable disease or a notifiable pest must–
 
@@ -231,22 +231,22 @@ The owner or person in charge of any hive, bees, combs, bee products or applianc
 
 to an authorised person as that authorised person shall reasonably require for the purposes of this Order.
 
-## 13. Prohibition on treatment[^key-fde4fb45bf2ce9119d3cd8347ac067cd]
+## 13. Prohibition on treatment[^c-fde4fb45bf2ce9119d3cd8347ac067cd]
 
 No person may treat bees with a substance which may have the effect of disguising the presence of, or rendering difficult the detection of, a notifiable disease unless that person is carrying out the treatment of bees–
 
 - (a) in accordance with a notice served under article 7; or
 - (b) under the authority of a licence issued by the Scottish Ministers.
 
-## 14. Compliance with notices[^key-8792dd225b564a5647cb60054d4996a1]
+## 14. Compliance with notices[^c-8792dd225b564a5647cb60054d4996a1]
 
 Any person who has been served with a notice under this Order or who is subject to a notice declaring an area to be an infected area issued under article 10 shall comply with the provisions of that notice.
 
-## 15. Action in default[^key-ba0e7fb03e52361400e3fbd2ce1ada0f]
+## 15. Action in default[^c-ba0e7fb03e52361400e3fbd2ce1ada0f]
 
 If any person fails to take any action required to be taken under this Order or under a notice served under this Order, an authorised person may, without prejudice to any proceedings arising out of such default, take such action or cause such action to be taken and the amount of any expenses reasonably incurred by the authorised person in doing so is recoverable by the Scottish Ministers from the person in default.
 
-## 16. Service of notices[^key-1e51fd2f36c2c3c7a158ae35096c2d1d]
+## 16. Service of notices[^c-1e51fd2f36c2c3c7a158ae35096c2d1d]
 
 (1) Any notice served under this Order is properly served on any person if it is–
 
@@ -261,7 +261,7 @@ If any person fails to take any action required to be taken under this Order or 
 
 (3) This article does not apply to a notice issued under article 10.
 
-## 17. Offences by bodies corporate[^key-141ce35b81807fc08617601499fc59e3]
+## 17. Offences by bodies corporate[^c-141ce35b81807fc08617601499fc59e3]
 
 (1) Where a body corporate is guilty of an offence under the Act by virtue of this Order and that offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of–
 
@@ -272,15 +272,15 @@ that person as well as the body corporate is guilty of the offence and is liable
 
 (2) For the purposes of this regulation, “director” in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate and “body corporate” includes a partnership in Scotland, and, in relation to such a partnership, a reference to a director or other officer of a body corporate is a reference to a partner.
 
-## 18. Authorised persons[^key-df1c700f13817b601607eee5364384c3]
+## 18. Authorised persons[^c-df1c700f13817b601607eee5364384c3]
 
 An authorised person incurs no civil or criminal liability for anything which the authorised person does in purported exercise of any functions conferred on the authorised person by this Order where the authorised person acts on reasonable grounds and in good faith.
 
-## 19. Exemptions[^key-7e3d6a499b83ad3b4f532110327803cd]
+## 19. Exemptions[^c-7e3d6a499b83ad3b4f532110327803cd]
 
 The Scottish Ministers may by licence exempt any person who is involved in research into, or in any course of training relating to, pests or diseases affecting bees from any of the provisions of this Order, except the provisions of article 11.
 
-## 20. Revocations[^key-b5a0f4aa7856d5d500ef601f2f383c80]
+## 20. Revocations[^c-b5a0f4aa7856d5d500ef601f2f383c80]
 
 The Bee Diseases Control Order 1982[^f00004] and the Importation of Bees Order 1997[^f00005] are revoked in so far as they apply to Scotland.
 
@@ -298,15 +298,15 @@ Edinburgh
 
 Article 10
 
-**1.**[^key-dd2e7d3fb1341ae41f37fa7e1cae06be] An authorised person may serve on the owner or person in charge of any hive, bees, combs, bee products, hive debris or appliances found to have been exposed to infection with the notifiable pest a notice complying with article 9 requiring their destruction or treatment in accordance with the notice.
+**1.**[^c-dd2e7d3fb1341ae41f37fa7e1cae06be] An authorised person may serve on the owner or person in charge of any hive, bees, combs, bee products, hive debris or appliances found to have been exposed to infection with the notifiable pest a notice complying with article 9 requiring their destruction or treatment in accordance with the notice.
 
-**2.**[^key-1e24052926b89f6a402795567d18e6d3] An authorised person may serve on the owner or occupier of any premises on which a hive found to have been exposed to infection is situated a notice complying with article 9 requiring the treatment in accordance with the notice of the soil surrounding the hive.
+**2.**[^c-1e24052926b89f6a402795567d18e6d3] An authorised person may serve on the owner or occupier of any premises on which a hive found to have been exposed to infection is situated a notice complying with article 9 requiring the treatment in accordance with the notice of the soil surrounding the hive.
 
-**3.**[^key-869950000fccb5de43e0e24922b453ed] No person shall move, or permit to be moved, any hive, bees, bee pests, combs, bee products, hive debris, appliances or other things by which the notifiable pest is liable to be spread into or out of the infected area, except under the authority of a licence granted by the Scottish Ministers.
+**3.**[^c-869950000fccb5de43e0e24922b453ed] No person shall move, or permit to be moved, any hive, bees, bee pests, combs, bee products, hive debris, appliances or other things by which the notifiable pest is liable to be spread into or out of the infected area, except under the authority of a licence granted by the Scottish Ministers.
 
-**4.**[^key-626603984a7de4d0000f14e4e783e4c3] No person shall remove, or permit to be removed, any hive, bees, bee pests, combs, bee products, hive debris, appliances or other things by which the notifiable pest is liable to be spread from the premises or vehicle on or in which they are situated, except under the authority of a licence granted by the Scottish Ministers.
+**4.**[^c-626603984a7de4d0000f14e4e783e4c3] No person shall remove, or permit to be removed, any hive, bees, bee pests, combs, bee products, hive debris, appliances or other things by which the notifiable pest is liable to be spread from the premises or vehicle on or in which they are situated, except under the authority of a licence granted by the Scottish Ministers.
 
-**5.**[^key-3414158bbc0167ae9d0d181e84585611] The owner or person in charge of any hive, bees, combs, bee products or appliances must notify the Scottish Ministers as soon as is reasonably practicable of that person’s name and address and the location of any hive, bees, combs, bee products or appliances in that person’s possession or charge.
+**5.**[^c-3414158bbc0167ae9d0d181e84585611] The owner or person in charge of any hive, bees, combs, bee products or appliances must notify the Scottish Ministers as soon as is reasonably practicable of that person’s name and address and the location of any hive, bees, combs, bee products or appliances in that person’s possession or charge.
 
 (This note is not part of the Order)
 
@@ -350,60 +350,60 @@ A regulatory impact assessment has not been produced for this instrument because
 
 [^f00001]: Footnote: [1980 c. 12](https://www.legislation.gov.uk/ukpga/1980/12). The functions conferred upon the Minister of Agriculture, Fisheries and Food, the Secretary of State for Scotland and the Secretary of State for Wales under section 1 were, in so far as exercisable within devolved competence, transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-c2dd7270c06ada54246a49e2fc5192de]: Commencement: Art. 1 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
+[^c-c2dd7270c06ada54246a49e2fc5192de]: Commencement: Art. 1 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
 
-[^key-2ed5fbca30086d5d9189c829665c56ce]: Commencement: Art. 2 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
+[^c-2ed5fbca30086d5d9189c829665c56ce]: Commencement: Art. 2 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
 
 [^f00002]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7); amended by paragraph 158 of Schedule 17 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-12d578c3ff7792cd913c8fa0fe8fe7c5]: Commencement: Art. 3 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
+[^c-12d578c3ff7792cd913c8fa0fe8fe7c5]: Commencement: Art. 3 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
 
-[^key-0c89a0e7a8ad99dba5efb89a8f4fa1a4]: Commencement: Art. 4 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
+[^c-0c89a0e7a8ad99dba5efb89a8f4fa1a4]: Commencement: Art. 4 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
 
-[^key-4903da86a24b174a0702588cb88e2d5f]: Commencement: Art. 5 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
+[^c-4903da86a24b174a0702588cb88e2d5f]: Commencement: Art. 5 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
 
-[^key-f85ea6988c61edcfb23a39676acb8be8]: Commencement: Art. 6 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
+[^c-f85ea6988c61edcfb23a39676acb8be8]: Commencement: Art. 6 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
 
-[^key-1e3316113f99da22c6355249cab27e34]: Commencement: Art. 7 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
+[^c-1e3316113f99da22c6355249cab27e34]: Commencement: Art. 7 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
 
-[^key-07cc1bd402e9e4355b667875d1de6095]: Commencement: Art. 8 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
+[^c-07cc1bd402e9e4355b667875d1de6095]: Commencement: Art. 8 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
 
-[^key-a30ac9875cb254e6c4fc72b939847e35]: Commencement: Art. 9 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
+[^c-a30ac9875cb254e6c4fc72b939847e35]: Commencement: Art. 9 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
 
-[^key-c023e4028b4103c925c783bd85d04ce0]: Commencement: Art. 10 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
+[^c-c023e4028b4103c925c783bd85d04ce0]: Commencement: Art. 10 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
 
-[^key-85d43b9b25b0b0b859310645746ece4f]: Commencement: Art. 11 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
+[^c-85d43b9b25b0b0b859310645746ece4f]: Commencement: Art. 11 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
 
 [^f00003]: Footnote: O.J. No. L 328, 17.12.2003, p.26 as amended by Commission Decision [2005/60/EC](https://www.legislation.gov.uk/european/decision/2005/0060) (O.J. No. L 25, 28.1.2005, p.64).
 
-[^key-bdbeb4da30fc712f76a09626e770b066]: Commencement: Art. 12 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
+[^c-bdbeb4da30fc712f76a09626e770b066]: Commencement: Art. 12 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
 
-[^key-fde4fb45bf2ce9119d3cd8347ac067cd]: Commencement: Art. 13 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
+[^c-fde4fb45bf2ce9119d3cd8347ac067cd]: Commencement: Art. 13 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
 
-[^key-8792dd225b564a5647cb60054d4996a1]: Commencement: Art. 14 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
+[^c-8792dd225b564a5647cb60054d4996a1]: Commencement: Art. 14 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
 
-[^key-ba0e7fb03e52361400e3fbd2ce1ada0f]: Commencement: Art. 15 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
+[^c-ba0e7fb03e52361400e3fbd2ce1ada0f]: Commencement: Art. 15 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
 
-[^key-1e51fd2f36c2c3c7a158ae35096c2d1d]: Commencement: Art. 16 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
+[^c-1e51fd2f36c2c3c7a158ae35096c2d1d]: Commencement: Art. 16 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
 
-[^key-141ce35b81807fc08617601499fc59e3]: Commencement: Art. 17 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
+[^c-141ce35b81807fc08617601499fc59e3]: Commencement: Art. 17 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
 
-[^key-df1c700f13817b601607eee5364384c3]: Commencement: Art. 18 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
+[^c-df1c700f13817b601607eee5364384c3]: Commencement: Art. 18 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
 
-[^key-7e3d6a499b83ad3b4f532110327803cd]: Commencement: Art. 19 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
+[^c-7e3d6a499b83ad3b4f532110327803cd]: Commencement: Art. 19 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
 
-[^key-b5a0f4aa7856d5d500ef601f2f383c80]: Commencement: Art. 20 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
+[^c-b5a0f4aa7856d5d500ef601f2f383c80]: Commencement: Art. 20 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
 
 [^f00004]: Footnote: S.I. [1982/107](https://www.legislation.gov.uk/uksi/1982/107).
 
 [^f00005]: Footnote: S.I. [1997/310](https://www.legislation.gov.uk/uksi/1997/310).
 
-[^key-dd2e7d3fb1341ae41f37fa7e1cae06be]: Commencement: Sch. para. 1 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
+[^c-dd2e7d3fb1341ae41f37fa7e1cae06be]: Commencement: Sch. para. 1 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
 
-[^key-1e24052926b89f6a402795567d18e6d3]: Commencement: Sch. para. 2 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
+[^c-1e24052926b89f6a402795567d18e6d3]: Commencement: Sch. para. 2 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
 
-[^key-869950000fccb5de43e0e24922b453ed]: Commencement: Sch. para. 3 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
+[^c-869950000fccb5de43e0e24922b453ed]: Commencement: Sch. para. 3 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
 
-[^key-626603984a7de4d0000f14e4e783e4c3]: Commencement: Sch. para. 4 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
+[^c-626603984a7de4d0000f14e4e783e4c3]: Commencement: Sch. para. 4 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
 
-[^key-3414158bbc0167ae9d0d181e84585611]: Commencement: Sch. para. 5 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)
+[^c-3414158bbc0167ae9d0d181e84585611]: Commencement: Sch. para. 5 in force at 1.12.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/506/article/1/1)

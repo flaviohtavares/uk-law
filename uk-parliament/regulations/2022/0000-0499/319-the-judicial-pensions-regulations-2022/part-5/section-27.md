@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Closure and adjustment of pension accounts on transfer out[^key-41401a9a699e01881df70deb4a562d2f]
+## 27. Closure and adjustment of pension accounts on transfer out[^c-41401a9a699e01881df70deb4a562d2f]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41401a9a699e01881df70deb4a562d2f]: Commencement: Reg. 27 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-41401a9a699e01881df70deb4a562d2f]: Commencement: Reg. 27 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

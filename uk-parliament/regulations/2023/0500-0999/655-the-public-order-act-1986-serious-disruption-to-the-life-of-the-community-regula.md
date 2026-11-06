@@ -44,7 +44,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with sections 12(15) and 14(14) of that Act, a draft of this instrument has been laid before and approved by a resolution of each House of Parliament. *(affected by repeal, see note)*[^M_X_58987de0-5226-4d31-a199-0096bbc2bd2c]
 
-## 1. Citation, commencement and extent (affected by repeal, see note)[^key-a5b58837ca296156eb3e4d3a4f425a94][^M_X_58987de0-5226-4d31-a199-0096bbc2bd2c]
+## 1. Citation, commencement and extent (affected by repeal, see note)[^c-a5b58837ca296156eb3e4d3a4f425a94][^M_X_58987de0-5226-4d31-a199-0096bbc2bd2c]
 
 (1) These Regulations may be cited as the Public Order Act 1986 (Serious Disruption to the Life of the Community) Regulations 2023. *(affected by repeal, see note)*[^M_X_58987de0-5226-4d31-a199-0096bbc2bd2c]
 
@@ -52,7 +52,7 @@ In accordance with sections 12(15) and 14(14) of that Act, a draft of this instr
 
 (3) These Regulations extend to England and Wales and Scotland. *(affected by repeal, see note)*[^M_X_58987de0-5226-4d31-a199-0096bbc2bd2c]
 
-## 2. Amendments to section 12 of the Public Order Act 1986 (affected by repeal, see note)[^key-1ecf3c345c2f17547da61f560372bdac][^M_X_58987de0-5226-4d31-a199-0096bbc2bd2c]
+## 2. Amendments to section 12 of the Public Order Act 1986 (affected by repeal, see note)[^c-1ecf3c345c2f17547da61f560372bdac][^M_X_58987de0-5226-4d31-a199-0096bbc2bd2c]
 
 (1) Section 12 of the Public Order Act 1986 (imposing conditions on public processions) is amended as follows *(affected by repeal, see note)*[^M_X_58987de0-5226-4d31-a199-0096bbc2bd2c][^f00002].
 
@@ -95,7 +95,7 @@ In accordance with sections 12(15) and 14(14) of that Act, a draft of this instr
 
 .
 
-## 3. Amendments to section 14 of the Public Order Act 1986 (affected by repeal, see note)[^key-ebcf79c915e4eec65b2be17d04099a76][^M_X_58987de0-5226-4d31-a199-0096bbc2bd2c]
+## 3. Amendments to section 14 of the Public Order Act 1986 (affected by repeal, see note)[^c-ebcf79c915e4eec65b2be17d04099a76][^M_X_58987de0-5226-4d31-a199-0096bbc2bd2c]
 
 (1) Section 14 of the Public Order Act 1986 (imposing conditions on public assemblies) is amended as follows *(affected by repeal, see note)*[^M_X_58987de0-5226-4d31-a199-0096bbc2bd2c][^f00003].
 
@@ -168,12 +168,12 @@ An Economic Note in relation to the effect that these Regulations will have on t
 
 [^f00001]: Footnote: [1986 c. 64](https://www.legislation.gov.uk/ukpga/1986/64). Sections 73 and 74 of the Police, Crime, Sentencing and Courts Act [2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32) made relevant amendments to sections 12 and 14 of this Act, including inserting subsections (2A) to (2C) and (12) to (15) of section 12, and subsections (2A) to (2C) and (11) to (14) of section 14.
 
-[^key-a5b58837ca296156eb3e4d3a4f425a94]: Commencement: Reg. 1 in force at 15.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/655/regulation/1/2)
+[^c-a5b58837ca296156eb3e4d3a4f425a94]: Commencement: Reg. 1 in force at 15.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/655/regulation/1/2)
 
-[^key-1ecf3c345c2f17547da61f560372bdac]: Commencement: Reg. 2 in force at 15.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/655/regulation/1/2)
+[^c-1ecf3c345c2f17547da61f560372bdac]: Commencement: Reg. 2 in force at 15.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/655/regulation/1/2)
 
 [^f00002]: Footnote: See section 16 of the Public Order Act 1986 for the definition of “public procession”.
 
-[^key-ebcf79c915e4eec65b2be17d04099a76]: Commencement: Reg. 3 in force at 15.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/655/regulation/1/2)
+[^c-ebcf79c915e4eec65b2be17d04099a76]: Commencement: Reg. 3 in force at 15.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/655/regulation/1/2)
 
 [^f00003]: Footnote: See section 16 of the Public Order Act 1986 for the definition of “public assembly”.

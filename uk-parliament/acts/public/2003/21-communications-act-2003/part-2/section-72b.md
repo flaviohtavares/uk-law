@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72B. Broadband download speeds: duty to give direction under section 72A[^key-0e2abdfd9f9bbc1b834d731632b85300]
+## 72B. Broadband download speeds: duty to give direction under section 72A[^c-0e2abdfd9f9bbc1b834d731632b85300]
 
 *Extent: E+W+S+N.I.*
 
 (1) The Secretary of State must give OFCOM a direction under section 72A if—
 
-- (a) the universal service order specifies a minimum download speed for broadband connections and services at a fixed location[^key-a174ee94cabb947fafabb977a457778c] and the speed so specified is less than 30 megabits per second, and
+- (a) the universal service order specifies a minimum download speed for broadband connections and services at a fixed location[^c-a174ee94cabb947fafabb977a457778c] and the speed so specified is less than 30 megabits per second, and
 - (b) it appears to the Secretary of State, on the basis of information published by OFCOM, that broadband connections or services that provide a minimum download speed of at least 30 megabits per second are subscribed to for use in at least 75% of premises in the United Kingdom.
 
 (2) The direction—
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0e2abdfd9f9bbc1b834d731632b85300]: Textual amendment: Ss. 72A, 72B inserted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 1(7)](https://www.legislation.gov.uk/ukpga/2017/30/section/1/7), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2)
+[^c-0e2abdfd9f9bbc1b834d731632b85300]: Textual amendment: Ss. 72A, 72B inserted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 1(7)](https://www.legislation.gov.uk/ukpga/2017/30/section/1/7), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2)
 
-[^key-a174ee94cabb947fafabb977a457778c]: Textual amendment: Words in s. 72B(1)(a) inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/28)
+[^c-a174ee94cabb947fafabb977a457778c]: Textual amendment: Words in s. 72B(1)(a) inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/28)

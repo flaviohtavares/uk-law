@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 676AG. Restriction on debits to be brought into account[^key-1460e200fed91b6f4a6f4734313f03b4]
+## 676AG. Restriction on debits to be brought into account[^c-1460e200fed91b6f4a6f4734313f03b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ do not include relevant non-trading debits so far as amount A exceeds amount B.
 
 ## Annotations
 
-[^key-1460e200fed91b6f4a6f4734313f03b4]: Textual amendment: Pt. 14 Ch. 2A inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 75](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/75)
+[^c-1460e200fed91b6f4a6f4734313f03b4]: Textual amendment: Pt. 14 Ch. 2A inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 75](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/75)

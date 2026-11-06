@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51B. Definitions[^key-1a570871de08c474840e7718f4583fc2]
+## 51B. Definitions[^c-1a570871de08c474840e7718f4583fc2]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a570871de08c474840e7718f4583fc2]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/2017/522/part/7A) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [31](https://www.legislation.gov.uk/uksi/2023/403/regulation/31)
+[^c-1a570871de08c474840e7718f4583fc2]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/2017/522/part/7A) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [31](https://www.legislation.gov.uk/uksi/2023/403/regulation/31)

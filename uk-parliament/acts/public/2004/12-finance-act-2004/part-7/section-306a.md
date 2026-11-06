@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 306A. Doubt as to notifiability[^key-4e8b250e4274cddad415d350893c2c52]
+## 306A. Doubt as to notifiability[^c-4e8b250e4274cddad415d350893c2c52]
 
 *Extent: E+W+S+N.I.*
 
-(1) HMRC may apply to the tribunal[^key-f46b195604411cd3797df6841eb40371] for an order that—
+(1) HMRC may apply to the tribunal[^c-f46b195604411cd3797df6841eb40371] for an order that—
 
 - (a) a proposal is to be treated as notifiable, or
 - (b) arrangements are to be treated as notifiable.
@@ -30,7 +30,7 @@ summary: ''
 - (a) the proposal or arrangements in respect of which the order is sought, and
 - (b) the promoter.
 
-(3) On an application the tribunal[^key-f29974b291c7d9f6e865eecb8b2c16c0] may make the order only if satisfied that HMRC—
+(3) On an application the tribunal[^c-f29974b291c7d9f6e865eecb8b2c16c0] may make the order only if satisfied that HMRC—
 
 - (a) have taken all reasonable steps to establish whether the proposal or arrangements are notifiable, and
 - (b) have reasonable grounds for suspecting that the proposal or arrangements may be notifiable.
@@ -52,8 +52,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4e8b250e4274cddad415d350893c2c52]: Textual amendment: S. 306A inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 108(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/108/2) (with [s. 108(10)](https://www.legislation.gov.uk/ukpga/2007/11/section/108/10))
+[^c-4e8b250e4274cddad415d350893c2c52]: Textual amendment: S. 306A inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 108(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/108/2) (with [s. 108(10)](https://www.legislation.gov.uk/ukpga/2007/11/section/108/10))
 
-[^key-f46b195604411cd3797df6841eb40371]: Textual amendment: Word in s. 306A(1) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 429](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/429)
+[^c-f46b195604411cd3797df6841eb40371]: Textual amendment: Word in s. 306A(1) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 429](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/429)
 
-[^key-f29974b291c7d9f6e865eecb8b2c16c0]: Textual amendment: Word in s. 306A(3) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 429](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/429)
+[^c-f29974b291c7d9f6e865eecb8b2c16c0]: Textual amendment: Word in s. 306A(3) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 429](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/429)

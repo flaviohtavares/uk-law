@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Judicial remedies[^key-66bf94ad77b6d465cc09553931ee2712]
+## 8. Judicial remedies[^c-66bf94ad77b6d465cc09553931ee2712]
 
 *Extent: S*
 
@@ -35,10 +35,10 @@ the court or tribunal must consider whether the award of damages and (if any) th
 
 (5) In proceedings brought or intervened in by the Commissioner for Children and Young People in Scotland or the Scottish Commission for Human Rights, no award of damages is to be made to the Commissioner or the Scottish Commission for Human Rights.
 
-(6)[^key-4bc8fa1e4867a5e03f2a8f03a396b998] Section 288BZA of the Criminal Procedure (Scotland) Act 1995 modifies the court’s power under subsection (1) in relation to certain UNCRC compatibility issues in criminal proceedings.
+(6)[^c-4bc8fa1e4867a5e03f2a8f03a396b998] Section 288BZA of the Criminal Procedure (Scotland) Act 1995 modifies the court’s power under subsection (1) in relation to certain UNCRC compatibility issues in criminal proceedings.
 
 ## Annotations
 
-[^key-66bf94ad77b6d465cc09553931ee2712]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2024/1/section/8) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-66bf94ad77b6d465cc09553931ee2712]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2024/1/section/8) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
 
-[^key-4bc8fa1e4867a5e03f2a8f03a396b998]: Textual amendment: [S. 8(6)](https://www.legislation.gov.uk/asp/2024/1/section/8/6) inserted (16.7.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 33(3)](https://www.legislation.gov.uk/asp/2024/5/section/33/3), [38(2)](https://www.legislation.gov.uk/asp/2024/5/section/38/2)
+[^c-4bc8fa1e4867a5e03f2a8f03a396b998]: Textual amendment: [S. 8(6)](https://www.legislation.gov.uk/asp/2024/1/section/8/6) inserted (16.7.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 33(3)](https://www.legislation.gov.uk/asp/2024/5/section/33/3), [38(2)](https://www.legislation.gov.uk/asp/2024/5/section/38/2)

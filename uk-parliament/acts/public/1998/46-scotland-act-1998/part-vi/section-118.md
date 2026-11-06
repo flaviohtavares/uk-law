@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Subsection (2) applies in relation to the exercise by a member of the Scottish Government[^key-1a6eec0a223077253e974615c6946a62] within devolved competence of a function to make, confirm or approve subordinate legislation.
+(1) Subsection (2) applies in relation to the exercise by a member of the Scottish Government[^c-1a6eec0a223077253e974615c6946a62] within devolved competence of a function to make, confirm or approve subordinate legislation.
 
 (2) If a pre-commencement enactment makes provision—
 
@@ -78,7 +78,7 @@ the provision shall have effect, so far as it relates to the exercise of the fun
 
 [^c20334771]: Modification: S. 118 applied (with modifications) (E.W.S.) (10.7.2008) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2008 (S.I. 2008/1776)](https://www.legislation.gov.uk/uksi/2008/1776), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/1776/article/1/1), [3](https://www.legislation.gov.uk/uksi/2008/1776/article/3)
 
-[^key-1a6eec0a223077253e974615c6946a62]: Textual amendment: Words in Act substituted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/2/a), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/3)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/f)
+[^c-1a6eec0a223077253e974615c6946a62]: Textual amendment: Words in Act substituted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/2/a), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/3)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/f)
 
 [^c12395031]: Modification: S. 118(5) excluded (1.7.1999) by [S.I. 1999/1096](https://www.legislation.gov.uk/uksi/1999/1096), [arts. 1(b)](https://www.legislation.gov.uk/uksi/1999/1096/article/1/b), [3(6)](https://www.legislation.gov.uk/uksi/1999/1096/article/3/6); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 

@@ -22,11 +22,11 @@ summary: ''
 
 Regulation 7
 
-### 1. Application[^key-79e2bc767279f44efc0e14c57579b0a2]
+### 1. Application[^c-79e2bc767279f44efc0e14c57579b0a2]
 
 This Schedule applies in relation to any waste incineration plant or waste co-incineration plant to which Chapter IV of the IED applies, which incinerates or co-incinerates solid or liquid waste.
 
-### 2. Interpretation[^key-01958dd586a25b433e84c2d3fb9ba208]
+### 2. Interpretation[^c-01958dd586a25b433e84c2d3fb9ba208]
 
 When interpreting Chapter IV and Annex VI of the IED for the purposes of this Schedule—
 
@@ -34,7 +34,7 @@ When interpreting Chapter IV and Annex VI of the IED for the purposes of this Sc
 - (b) the chief inspector is the competent authority; and
 - (c) sub-paragraph (c) of paragraph 2.1 of Part 6 of Annex VI shall be read as if the words “dioxin-like polychlorinated biphenyls and poly-cyclic aromatic hydrocarbons” appeared after the word “furans”.
 
-### 3. Exercise of relevant functions[^key-262d10041c63aeddebfa0d403682cb48]
+### 3. Exercise of relevant functions[^c-262d10041c63aeddebfa0d403682cb48]
 
 (1) The chief inspector must exercise his functions under regulation 7 so as to ensure compliance with the following provisions of Chapter IV of the IED—
 
@@ -54,9 +54,9 @@ When interpreting Chapter IV and Annex VI of the IED for the purposes of this Sc
 
 (2) The chief inspector shall ensure that a permit which authorises the incineration or co-incineration of waste with energy recovery shall contain conditions ensuring that the recovery of energy shall take place with a high level of energy efficiency.
 
-(3) The chief inspector shall ensure that a permit which authorises the operation of a waste incineration installation shall contain such conditions as the chief inspector considers necessary to give effect to Article 14 of Directive [2006/66/EC](https://www.legislation.gov.uk/european/directive/2006/0066)[^f00056] of the European Parliament and of the Council of 6 September 2006 on batteries and accumulators and waste batteries and accumulators as last amended by Directive 2018/849[^key-31e4ecf4bce8e1fd73455560df185ee1] .
+(3) The chief inspector shall ensure that a permit which authorises the operation of a waste incineration installation shall contain such conditions as the chief inspector considers necessary to give effect to Article 14 of Directive [2006/66/EC](https://www.legislation.gov.uk/european/directive/2006/0066)[^f00056] of the European Parliament and of the Council of 6 September 2006 on batteries and accumulators and waste batteries and accumulators as last amended by Directive 2018/849[^c-31e4ecf4bce8e1fd73455560df185ee1] .
 
-### 4. Waste separately collected for preparing for re-use and recycling not to be incinerated[^key-3742abdcbaabdc24154b837dc2e25caa]
+### 4. Waste separately collected for preparing for re-use and recycling not to be incinerated[^c-3742abdcbaabdc24154b837dc2e25caa]
 
 (1) Every environmental permit which authorises a waste co-incineration plant or a waste incineration plant is deemed to contain the following condition, unless such a condition in the same terms as that condition is included in the permit.
 
@@ -69,14 +69,14 @@ When interpreting Chapter IV and Annex VI of the IED for the purposes of this Sc
 
 ## Annotations
 
-[^key-79e2bc767279f44efc0e14c57579b0a2]: Commencement: Sch. 11 para. 1 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-79e2bc767279f44efc0e14c57579b0a2]: Commencement: Sch. 11 para. 1 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-01958dd586a25b433e84c2d3fb9ba208]: Commencement: Sch. 11 para. 2 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-01958dd586a25b433e84c2d3fb9ba208]: Commencement: Sch. 11 para. 2 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-262d10041c63aeddebfa0d403682cb48]: Commencement: Sch. 11 para. 3 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-262d10041c63aeddebfa0d403682cb48]: Commencement: Sch. 11 para. 3 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
 [^f00056]: Footnote: O.J. No. L266, 26.9.2006, p.1
 
-[^key-31e4ecf4bce8e1fd73455560df185ee1]: Textual amendment: Words in [Sch. 11 para. 3(3)](https://www.legislation.gov.uk/nisr/2013/160/schedule/11/paragraph/3/3) inserted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [11(5)(a)](https://www.legislation.gov.uk/nisr/2020/285/regulation/11/5/a)
+[^c-31e4ecf4bce8e1fd73455560df185ee1]: Textual amendment: Words in [Sch. 11 para. 3(3)](https://www.legislation.gov.uk/nisr/2013/160/schedule/11/paragraph/3/3) inserted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [11(5)(a)](https://www.legislation.gov.uk/nisr/2020/285/regulation/11/5/a)
 
-[^key-3742abdcbaabdc24154b837dc2e25caa]: Textual amendment: [Sch. 11 para. 4](https://www.legislation.gov.uk/nisr/2013/160/schedule/11/paragraph/4) inserted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [11(5)(b)](https://www.legislation.gov.uk/nisr/2020/285/regulation/11/5/b)
+[^c-3742abdcbaabdc24154b837dc2e25caa]: Textual amendment: [Sch. 11 para. 4](https://www.legislation.gov.uk/nisr/2013/160/schedule/11/paragraph/4) inserted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [11(5)(b)](https://www.legislation.gov.uk/nisr/2020/285/regulation/11/5/b)

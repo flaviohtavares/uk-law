@@ -32,7 +32,7 @@ summary: ''
 
 Insolvency
 
-The Compensation Orders (Disqualified Directors) Proceedings Rules (Northern Ireland) 2025 (revoked)[^key-d95d824b8115919b1602ff83dbda6763]
+The Compensation Orders (Disqualified Directors) Proceedings Rules (Northern Ireland) 2025 (revoked)[^c-d95d824b8115919b1602ff83dbda6763]
 
 Made
 
@@ -42,60 +42,60 @@ Coming into operation
 
 11th July 2025
 
-[^key-d95d824b8115919b1602ff83dbda6763]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d95d824b8115919b1602ff83dbda6763]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-d95d824b8115919b1602ff83dbda6763]
+## 1. Citation, commencement and interpretation[^c-d95d824b8115919b1602ff83dbda6763]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application[^key-d95d824b8115919b1602ff83dbda6763]
+## 2. Application[^c-d95d824b8115919b1602ff83dbda6763]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Form and conduct of applications[^key-d95d824b8115919b1602ff83dbda6763]
+## 3. Form and conduct of applications[^c-d95d824b8115919b1602ff83dbda6763]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. The applicant’s case[^key-d95d824b8115919b1602ff83dbda6763]
+## 4. The applicant’s case[^c-d95d824b8115919b1602ff83dbda6763]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Endorsements etc. on summons[^key-d95d824b8115919b1602ff83dbda6763]
+## 5. Endorsements etc. on summons[^c-d95d824b8115919b1602ff83dbda6763]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Service[^key-d95d824b8115919b1602ff83dbda6763]
+## 6. Service[^c-d95d824b8115919b1602ff83dbda6763]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Statement by relevant party[^key-d95d824b8115919b1602ff83dbda6763]
+## 7. Statement by relevant party[^c-d95d824b8115919b1602ff83dbda6763]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Evidence[^key-d95d824b8115919b1602ff83dbda6763]
+## 8. Evidence[^c-d95d824b8115919b1602ff83dbda6763]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. The hearing of the application[^key-d95d824b8115919b1602ff83dbda6763]
+## 9. The hearing of the application[^c-d95d824b8115919b1602ff83dbda6763]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Compensation orders: making and setting aside of an order[^key-d95d824b8115919b1602ff83dbda6763]
+## 10. Compensation orders: making and setting aside of an order[^c-d95d824b8115919b1602ff83dbda6763]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Appeal from order or decision of Master[^key-d95d824b8115919b1602ff83dbda6763]
+## 11. Appeal from order or decision of Master[^c-d95d824b8115919b1602ff83dbda6763]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d95d824b8115919b1602ff83dbda6763]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d95d824b8115919b1602ff83dbda6763]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d95d824b8115919b1602ff83dbda6763]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d95d824b8115919b1602ff83dbda6763]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d95d824b8115919b1602ff83dbda6763]: Textual amendment: Rules revoked (11.7.2025) by [The Compensation Orders (Disqualified Directors) Proceedings (No. 2) Rules (Northern Ireland) 2025 (S.R. 2025/121)](https://www.legislation.gov.uk/nisr/2025/121), [rules. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1), [12](https://www.legislation.gov.uk/nisr/2025/121/article/12)
+[^c-d95d824b8115919b1602ff83dbda6763]: Textual amendment: Rules revoked (11.7.2025) by [The Compensation Orders (Disqualified Directors) Proceedings (No. 2) Rules (Northern Ireland) 2025 (S.R. 2025/121)](https://www.legislation.gov.uk/nisr/2025/121), [rules. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1), [12](https://www.legislation.gov.uk/nisr/2025/121/article/12)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62.10. Hearings[^key-61ad487b8f6703fe6a308989f3dd26b8]
+## 62.10. Hearings[^c-61ad487b8f6703fe6a308989f3dd26b8]
 
 *Extent: E+W*
 
@@ -35,11 +35,11 @@ summary: ''
 
 (4) Paragraph (3)(a) does not apply to—
 
-- (a)[^key-fbefda17c5880f3baf494a17ef9da64f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-fbefda17c5880f3baf494a17ef9da64f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) an application for permission to appeal under section 69(2)(b).
 
 ## Annotations
 
-[^key-61ad487b8f6703fe6a308989f3dd26b8]: Textual amendment: Pt. 62 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [Sch. 6](https://www.legislation.gov.uk/uksi/2001/4015/schedule/6)
+[^c-61ad487b8f6703fe6a308989f3dd26b8]: Textual amendment: Pt. 62 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [Sch. 6](https://www.legislation.gov.uk/uksi/2001/4015/schedule/6)
 
-[^key-fbefda17c5880f3baf494a17ef9da64f]: Textual amendment: [Rule 62.10(4)(a)](https://www.legislation.gov.uk/uksi/1998/3132/rule/62.10/4/a) omitted (1.10.2025) by virtue of [The Civil Procedure (Amendment No. 2) Rules 2025 (S.I. 2025/893)](https://www.legislation.gov.uk/uksi/2025/893), [rules 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/893/rule/1/2/b), [10](https://www.legislation.gov.uk/uksi/2025/893/rule/10)
+[^c-fbefda17c5880f3baf494a17ef9da64f]: Textual amendment: [Rule 62.10(4)(a)](https://www.legislation.gov.uk/uksi/1998/3132/rule/62.10/4/a) omitted (1.10.2025) by virtue of [The Civil Procedure (Amendment No. 2) Rules 2025 (S.I. 2025/893)](https://www.legislation.gov.uk/uksi/2025/893), [rules 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/893/rule/1/2/b), [10](https://www.legislation.gov.uk/uksi/2025/893/rule/10)

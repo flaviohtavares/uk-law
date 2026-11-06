@@ -54,13 +54,13 @@ In relation to Parts 2 and 3 of this instrument, there has been consultation as 
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-b551c0f5d5513b7f1697db228ad61577]
+### 1. Citation and commencement[^c-b551c0f5d5513b7f1697db228ad61577]
 
 These Regulations may be cited as the Environment, Food and Rural Affairs (Amendment) (EU Exit) Regulations 2019 and come into force on the later of exit day or the day after the day on which they are made.
 
 ## PART 2 — Amendment of subordinate legislation relating to food and drink in England
 
-### 2. The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) Regulations 2007[^key-e11ec30e85f5ef74b6e858e99589cd2c]
+### 2. The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) Regulations 2007[^c-e11ec30e85f5ef74b6e858e99589cd2c]
 
 In the Natural Mineral Water, Spring Water and Bottled Drinking Water (England) Regulations 2007 [^c23692841] after regulation 9 insert—
 
@@ -80,7 +80,7 @@ In the Natural Mineral Water, Spring Water and Bottled Drinking Water (England) 
 >
 > (5) In the case of an established Norwegian recognised natural mineral water, if the Secretary of State is of the opinion that there is at least one established recognised UK mineral water that is not treated in Norway as a recognised mineral water for the purposes of Directive [2009/54/EC](https://www.legislation.gov.uk/eudr/2009/54), the Secretary of State may notify the Norwegian Food Safety Authority that the accreditation provided for in paragraph (1)(c) in relation to established Norwegian recognised natural mineral waters is to cease.
 >
-> (6) No notification may be given under paragraph (3), (4) or (5) before the end of the period of six months beginning on the day on which IP completion[^key-1e188924f6d2574bd4a67927cae5a47c] day falls.
+> (6) No notification may be given under paragraph (3), (4) or (5) before the end of the period of six months beginning on the day on which IP completion[^c-1e188924f6d2574bd4a67927cae5a47c] day falls.
 >
 > (7) The accreditation cessation date specified in a notification given under paragraph (3), (4) or (5) must be a date that is at least six months after the date on which the notification is given, beginning with the day after the day on which that notification is given.
 >
@@ -95,7 +95,7 @@ In the Natural Mineral Water, Spring Water and Bottled Drinking Water (England) 
 > (12) In this regulation—
 >
 > - “**accreditation cessation date**” means the cessation date as notified by the Secretary of State under paragraph (3), (4) or (5);
-> - “**Directive [2009/54/EC](https://www.legislation.gov.uk/eudr/2009/54)**” means Directive [2009/54/EC](https://www.legislation.gov.uk/eudr/2009/54) as incorporated into the EEA agreement, and as it had effect, immediately before IP completion[^key-d6fcce0e86800fae975ecf8250b64444] day;
+> - “**Directive [2009/54/EC](https://www.legislation.gov.uk/eudr/2009/54)**” means Directive [2009/54/EC](https://www.legislation.gov.uk/eudr/2009/54) as incorporated into the EEA agreement, and as it had effect, immediately before IP completion[^c-d6fcce0e86800fae975ecf8250b64444] day;
 > - “**established EU recognised natural mineral water**” means—
 >   - (a) a natural mineral water extracted from the ground in any member State—
 >     - (i) that immediately before IP completion day had the status of a recognised natural mineral water for the purposes of Directive [2009/54/EC](https://www.legislation.gov.uk/eudr/2009/54), and
@@ -120,21 +120,21 @@ In the Natural Mineral Water, Spring Water and Bottled Drinking Water (England) 
 
 ## PART 3 — Amendment of retained direct EU legislation relating to food and drink
 
-### 3. Regulation [(EC) No 110/2008](https://www.legislation.gov.uk/eur/2008/110) of the European Parliament and of the Council[^key-db85847b7cda98d6c0e197338b83666d]
+### 3. Regulation [(EC) No 110/2008](https://www.legislation.gov.uk/eur/2008/110) of the European Parliament and of the Council[^c-db85847b7cda98d6c0e197338b83666d]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Regulation (EU) No 1169/2011 of the European Parliament and of the Council[^key-d3fddefafab72935ae99dbacea2e3912]
+### 4. Regulation (EU) No 1169/2011 of the European Parliament and of the Council[^c-d3fddefafab72935ae99dbacea2e3912]
 
 (1) Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers is amended as follows.
 
-(2) In Article 2(2), after point (z1)[^key-38aa2d2ed34ca5eadb2afb65526998c8] insert—
+(2) In Article 2(2), after point (z1)[^c-38aa2d2ed34ca5eadb2afb65526998c8] insert—
 
-> - (z2)[^key-17862e459d57e178f83f47a8b91c803d] ‘type C regulations’ means any regulations made under a provision of this Regulation listed in Annex 16;
-> - (z3)[^key-0d5becba46d9fa477e935eab0a5bc766] ‘type D regulations’ means any regulations made under a provision of this Regulation listed in Annex 17;
-> - (z4)[^key-4e4d5cb167edd5fc92d1145265bc21f2] ‘type E regulations’ means any regulations made under Article 23(2);
+> - (z2)[^c-17862e459d57e178f83f47a8b91c803d] ‘type C regulations’ means any regulations made under a provision of this Regulation listed in Annex 16;
+> - (z3)[^c-0d5becba46d9fa477e935eab0a5bc766] ‘type D regulations’ means any regulations made under a provision of this Regulation listed in Annex 17;
+> - (z4)[^c-4e4d5cb167edd5fc92d1145265bc21f2] ‘type E regulations’ means any regulations made under Article 23(2);
 
 .
 
@@ -146,7 +146,7 @@ In the Natural Mineral Water, Spring Water and Bottled Drinking Water (England) 
 (4) In Article 9—
 
 - (a) in paragraph 3—
-  - (i) in the first subparagraph, for the words from “the Commission” to “acts referred to in[^key-369fd4c2cbd25cd45e25b2346992cb45]” substitute “regulations are made under”;
+  - (i) in the first subparagraph, for the words from “the Commission” to “acts referred to in[^c-369fd4c2cbd25cd45e25b2346992cb45]” substitute “regulations are made under”;
   - (ii) in the second subparagraph—
     - (aa) for “, the Commission, taking into account” substitute “ and ”;
     - (bb) for the words from “, may establish” to “Article 51,” substitute “ is taken into account, regulations may be made to establish ”;
@@ -195,7 +195,7 @@ In the Natural Mineral Water, Spring Water and Bottled Drinking Water (England) 
 - (a) in paragraph 2(b), for the words from “shall be” to the end substitute “ is subject to Commission Implementing Regulation (EU) No 1337/2013 laying down rules for the application of Regulation (EU) No 1169/2011 of the European Parliament and of the Council as regards the indication of the country of origin or place of provenance for fresh, chilled and frozen meat of swine, sheep, goats and poultry and any regulations made under paragraph 8 ”;
 - (b) in paragraph 3, for the second subparagraph substitute—
 
-  > The application of the first subparagraph is subject to [Commission Implementing Regulation (EU) No 2018/775](https://www.legislation.gov.uk/eur/2018/0775)[^key-0cb69a1e9728c87eeecb935eb1d14c3f] laying down rules for the application of Article 26(3) of [Regulation (EU) No 1169/2011](https://www.legislation.gov.uk/eur/2011/1169) of the European Parliament and of the Council on the provision of food information to consumers, as regards the rules for indicating the country of origin or place of provenance of the primary ingredient of a food and any regulations made under paragraph 8 concerning the application of that subparagraph.
+  > The application of the first subparagraph is subject to [Commission Implementing Regulation (EU) No 2018/775](https://www.legislation.gov.uk/eur/2018/0775)[^c-0cb69a1e9728c87eeecb935eb1d14c3f] laying down rules for the application of Article 26(3) of [Regulation (EU) No 1169/2011](https://www.legislation.gov.uk/eur/2011/1169) of the European Parliament and of the Council on the provision of food information to consumers, as regards the rules for indicating the country of origin or place of provenance of the primary ingredient of a food and any regulations made under paragraph 8 concerning the application of that subparagraph.
 
   ;
 - (c) for paragraph 8 substitute—
@@ -205,7 +205,7 @@ In the Natural Mineral Water, Spring Water and Bottled Drinking Water (England) 
   > Regulations may be made:
   >
   > - (a) concerning the application of paragraphs 2(b) and 3;
-  > - (b) to revoke Regulation (EU) No 1337/2013 or[^key-6b2149eaa5b95240c8c5bb88442b2fcb] [Regulation (EU) No 2018/775](https://www.legislation.gov.uk/eur/2018/0775).
+  > - (b) to revoke Regulation (EU) No 1337/2013 or[^c-6b2149eaa5b95240c8c5bb88442b2fcb] [Regulation (EU) No 2018/775](https://www.legislation.gov.uk/eur/2018/0775).
 
   .
 
@@ -231,7 +231,7 @@ In the Natural Mineral Water, Spring Water and Bottled Drinking Water (England) 
 
 - (a) in paragraph 5, in the second subparagraph, for “the Commission may adopt implementing acts regarding” substitute “ regulations may be made relating to ”;
 - (b) in paragraph 6—
-  - (i)[^key-588808b01154699acdd3f253d41a3552] for “the Commission may adopt implementing acts” substitute “regulations may be made”;
+  - (i)[^c-588808b01154699acdd3f253d41a3552] for “the Commission may adopt implementing acts” substitute “regulations may be made”;
   - (ii) omit the second sentence.
 
 (18) In Article 35(6)—
@@ -281,13 +281,13 @@ In the Natural Mineral Water, Spring Water and Bottled Drinking Water (England) 
 
 .
 
-### 5. Regulation (EU) No 251/2014 of the European Parliament and of the Council[^key-a57ea7c2c98f604f526e068d20b4c024]
+### 5. Regulation (EU) No 251/2014 of the European Parliament and of the Council[^c-a57ea7c2c98f604f526e068d20b4c024]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Commission Delegated Regulation (EU) 2019/33[^key-193d62e959d01194668aa3649bee1dce]
+### 6. Commission Delegated Regulation (EU) 2019/33[^c-193d62e959d01194668aa3649bee1dce]
 
 **Not yet in force.**
 
@@ -295,7 +295,7 @@ In the Natural Mineral Water, Spring Water and Bottled Drinking Water (England) 
 
 ## PART 4 — Amendment of retained direct EU legislation relating to genetically modified organisms
 
-### 7. Regulation [(EC) No 1830/2003](https://www.legislation.gov.uk/eur/2003/1830) of the European Parliament and of the Council[^key-167ed1d9445e23b23608bed76930dcd7]
+### 7. Regulation [(EC) No 1830/2003](https://www.legislation.gov.uk/eur/2003/1830) of the European Parliament and of the Council[^c-167ed1d9445e23b23608bed76930dcd7]
 
 (1) Regulation [(EC) No 1830/2003](https://www.legislation.gov.uk/eur/2003/1830) of the European Parliament and of the Council concerning the traceability and labelling of genetically modified organisms and the traceability of food and feed products produced from genetically modified organisms and amending Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18) is amended as follows.
 
@@ -308,19 +308,19 @@ In the Natural Mineral Water, Spring Water and Bottled Drinking Water (England) 
 > - (a) in relation to England, the Secretary of State;
 > - (b) in relation to Wales, the Welsh Ministers;
 > - (c) in relation to Scotland, the Scottish Ministers;
-> - (d)[^key-ab603dc3cbcbfe34be18311d0d2714c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (d)[^c-ab603dc3cbcbfe34be18311d0d2714c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > but the appropriate authority is the Secretary of State if consent is given by—
 >
 > - (a) in relation to Wales, the Welsh Ministers;
 > - (b) in relation to Scotland, the Scottish Ministers;
-> - (c)[^key-07e7e6077aae0e7b611f1cc36be3a1b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (c)[^c-07e7e6077aae0e7b611f1cc36be3a1b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **15.**
 >
 > ‘Relevant food standards authority’ means—
 >
-> - (a) in relation to England and Wales[^key-fa57d3afe15d650924bc4d76951fe572], the Food Standards Agency;
+> - (a) in relation to England and Wales[^c-fa57d3afe15d650924bc4d76951fe572], the Food Standards Agency;
 > - (b) in relation to Scotland, Food Standards Scotland.
 
 .
@@ -381,7 +381,7 @@ In the Natural Mineral Water, Spring Water and Bottled Drinking Water (England) 
 >
 > For regulations made by the Scottish Ministers under this Regulation, see section 27 of the Interpretation and Legislative Reform (Scotland) Act 2010 [^c23692941].
 >
-> **3.[^key-10e69ac86f86f3ae591285674eab60a0]**
+> **3.[^c-10e69ac86f86f3ae591285674eab60a0]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
@@ -397,7 +397,7 @@ In the Natural Mineral Water, Spring Water and Bottled Drinking Water (England) 
 >
 > Regulations made by the Scottish Ministers under this Regulation are subject to the negative procedure (see section 28 of the Interpretation and Legislative Reform (Scotland) Act 2010).
 >
-> **7.[^key-10e69ac86f86f3ae591285674eab60a0]**
+> **7.[^c-10e69ac86f86f3ae591285674eab60a0]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
@@ -410,27 +410,27 @@ In the Natural Mineral Water, Spring Water and Bottled Drinking Water (England) 
 
 .
 
-## PART 5 — Amendment of retained direct EU legislation relating to the import of and trade in animals and animal products[^key-0e1e95513644350a8cd8473fa2a65465]
+## PART 5 — Amendment of retained direct EU legislation relating to the import of and trade in animals and animal products[^c-0e1e95513644350a8cd8473fa2a65465]
 
 **Not yet in force.**
 
-### 8. Commission Regulation [(EC) No 599/2004](https://www.legislation.gov.uk/eur/2004/599)[^key-0e1e95513644350a8cd8473fa2a65465]
+### 8. Commission Regulation [(EC) No 599/2004](https://www.legislation.gov.uk/eur/2004/599)[^c-0e1e95513644350a8cd8473fa2a65465]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Commission Decision [2009/821/EC](https://www.legislation.gov.uk/eudn/2009/821)[^key-0e1e95513644350a8cd8473fa2a65465]
+### 9. Commission Decision [2009/821/EC](https://www.legislation.gov.uk/eudn/2009/821)[^c-0e1e95513644350a8cd8473fa2a65465]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Commission Implementing Decision 2011/630/EU[^key-0e1e95513644350a8cd8473fa2a65465]
+### 10. Commission Implementing Decision 2011/630/EU[^c-0e1e95513644350a8cd8473fa2a65465]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Commission Implementing Decision 2012/137/EU[^key-0e1e95513644350a8cd8473fa2a65465]
+### 11. Commission Implementing Decision 2012/137/EU[^c-0e1e95513644350a8cd8473fa2a65465]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Commission Implementing Regulation (EU) 2018/659[^key-0e1e95513644350a8cd8473fa2a65465]
+### 12. Commission Implementing Regulation (EU) 2018/659[^c-0e1e95513644350a8cd8473fa2a65465]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -440,7 +440,7 @@ Parliamentary Under Secretary of State
 
 Department for Environment, Food and Rural Affairs
 
-## SCHEDULE — Regulation (EU) No 1169/2011 of the European Parliament and of the Council: new Articles 51 to 51f[^key-119aadf1c39f4fae28b298359fb0999c]
+## SCHEDULE — Regulation (EU) No 1169/2011 of the European Parliament and of the Council: new Articles 51 to 51f[^c-119aadf1c39f4fae28b298359fb0999c]
 
 Regulation 4
 
@@ -448,18 +448,18 @@ Regulation 4
 >
 > **1.** The power to make type C regulations is exercisable by the appropriate authority.
 >
-> **2.** But the power to make type C regulations under a provision specified in paragraph 5 may be exercised by the Secretary of State for the whole or part of Great Britain[^key-5e21c4100169f0d6391ae773875cb896] if consent is given by:
+> **2.** But the power to make type C regulations under a provision specified in paragraph 5 may be exercised by the Secretary of State for the whole or part of Great Britain[^c-5e21c4100169f0d6391ae773875cb896] if consent is given by:
 >
-> - (a)[^key-7d0d2e0842ff9fb1a3f71a94dfc1bbfe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-> - (a)[^key-125cb36d7066266c2c921681ac236d37] for regulations applying in relation to Scotland, the Scottish Ministers;
-> - (b)[^key-067037e742f6767000503620eab8aa2b] for regulations applying in relation to Wales, the Welsh Ministers.
+> - (a)[^c-7d0d2e0842ff9fb1a3f71a94dfc1bbfe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (a)[^c-125cb36d7066266c2c921681ac236d37] for regulations applying in relation to Scotland, the Scottish Ministers;
+> - (b)[^c-067037e742f6767000503620eab8aa2b] for regulations applying in relation to Wales, the Welsh Ministers.
 >
-> **3.** The power to make type C regulations under Article 21(2) to update the list in Annex 2 may only be exercised by the Secretary of State for the whole or part of Great Britain[^key-06a369c1f08cdce118eedf4d4a0c8636] if:
+> **3.** The power to make type C regulations under Article 21(2) to update the list in Annex 2 may only be exercised by the Secretary of State for the whole or part of Great Britain[^c-06a369c1f08cdce118eedf4d4a0c8636] if:
 >
 > - (a) the Secretary of State considers it necessary to update the list,
-> - (b)[^key-be1f11c118327e78f7d7317db0ba100f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-> - (b)[^key-7687af5cca3f365c246f7e6be824f0ab] to the extent that the regulations will apply to Scotland, the Scottish Ministers consider it necessary to update the list, and
-> - (c)[^key-ef11555227e103eeeb72660466c0f273] to the extent that the regulations will apply to Wales, the Welsh Ministers consider it necessary to update the list.
+> - (b)[^c-be1f11c118327e78f7d7317db0ba100f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (b)[^c-7687af5cca3f365c246f7e6be824f0ab] to the extent that the regulations will apply to Scotland, the Scottish Ministers consider it necessary to update the list, and
+> - (c)[^c-ef11555227e103eeeb72660466c0f273] to the extent that the regulations will apply to Wales, the Welsh Ministers consider it necessary to update the list.
 >
 > **4.** Type C regulations may:
 >
@@ -480,14 +480,14 @@ Regulation 4
 >
 > **1.** The power to make type D regulations is exercisable:
 >
-> - (a) as regards matters concerning the regulation of, and obligation to provide, particulars of the type specified in Article 9(1)(e), by the Secretary of State[^key-beab19ab99a5f8e0f0f2c0a74907cbb2];
+> - (a) as regards matters concerning the regulation of, and obligation to provide, particulars of the type specified in Article 9(1)(e), by the Secretary of State[^c-beab19ab99a5f8e0f0f2c0a74907cbb2];
 > - (b) as regards other matters, by the appropriate authority.
 >
-> **2.** But in relation to the power to make type D regulations under a provision specified in paragraph 4 as regards a matter covered by paragraph 1(b), the Secretary of State may make regulations for the whole or part of Great Britain[^key-61f4fb832a6ad24617f9b9debea87e79] if consent is given by:
+> **2.** But in relation to the power to make type D regulations under a provision specified in paragraph 4 as regards a matter covered by paragraph 1(b), the Secretary of State may make regulations for the whole or part of Great Britain[^c-61f4fb832a6ad24617f9b9debea87e79] if consent is given by:
 >
-> - (a)[^key-414bd8bdebdc87bd0a5763c6bd7fc796] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-> - (a)[^key-fb93ea8a2c822787ed5419968346a4a7] for regulations applying in relation to Scotland, the Scottish Ministers;
-> - (b)[^key-3f996d72de592d38774ae15072988445] for regulations applying in relation to Wales, the Welsh Ministers.
+> - (a)[^c-414bd8bdebdc87bd0a5763c6bd7fc796] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (a)[^c-fb93ea8a2c822787ed5419968346a4a7] for regulations applying in relation to Scotland, the Scottish Ministers;
+> - (b)[^c-3f996d72de592d38774ae15072988445] for regulations applying in relation to Wales, the Welsh Ministers.
 >
 > **3.** Type D regulations may:
 >
@@ -502,7 +502,7 @@ Regulation 4
 >
 > **Article 51b — Type E regulations: general**
 >
-> **1.** The power to make type E regulations is exercisable by the Secretary of State[^key-27a01d4ebd4d7f0ff2d89590dd895f85].
+> **1.** The power to make type E regulations is exercisable by the Secretary of State[^c-27a01d4ebd4d7f0ff2d89590dd895f85].
 >
 > **2.** Type E regulations may:
 >
@@ -537,11 +537,11 @@ Regulation 4
 > - (a) affect the validity of anything previously done under the regulations;
 > - (b) prevent the making of new regulations.
 >
-> **...[^key-25980d03faa520f01d5c8f5a077fd689]**
+> **...[^c-25980d03faa520f01d5c8f5a077fd689]**
 >
-> [^key-25980d03faa520f01d5c8f5a077fd689] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> [^c-25980d03faa520f01d5c8f5a077fd689] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Article 51d — Type C and D Regulations: the Scottish Ministers[^key-ae757a4fe7028f0b85b2ba63e7f3b055]**
+> **Article 51d — Type C and D Regulations: the Scottish Ministers[^c-ae757a4fe7028f0b85b2ba63e7f3b055]**
 >
 > **1.** For type C and D regulations made by the Scottish Ministers, see section 27 of the Interpretation and Legislative Reform (Scotland) Act 2010.
 >
@@ -567,7 +567,7 @@ Regulation 4
 > - (a) affect the validity of anything previously done under the regulations;
 > - (b) prevent the making of new regulations.
 >
-> **Article 51e — Type C and D regulations: the Welsh Ministers[^key-85d3d02bc7eab0c4b5083f087b074475]**
+> **Article 51e — Type C and D regulations: the Welsh Ministers[^c-85d3d02bc7eab0c4b5083f087b074475]**
 >
 > **1.** Type C and D regulations made by the Welsh Ministers are to be made by statutory instrument.
 >
@@ -613,51 +613,51 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23692831]: Marginal citation: OJ No L 31, 1.2.2002, p 1, to which there are amendments not relevant to these Regulations.
 
-[^key-b551c0f5d5513b7f1697db228ad61577]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b551c0f5d5513b7f1697db228ad61577]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-e11ec30e85f5ef74b6e858e99589cd2c]: Commencement: Reg. 2 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e11ec30e85f5ef74b6e858e99589cd2c]: Commencement: Reg. 2 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23692841]: Marginal citation: [S.I. 2007/2785](https://www.legislation.gov.uk/uksi/2007/2785), to which there are amendments not relevant to these Regulations.
 
 [^c23692851]: Marginal citation: OJ No L 164, 26.6.2009, p. 45.
 
-[^key-1e188924f6d2574bd4a67927cae5a47c]: Textual amendment: Words in reg. 2 substituted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/2/a)
+[^c-1e188924f6d2574bd4a67927cae5a47c]: Textual amendment: Words in reg. 2 substituted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/2/a)
 
-[^key-d6fcce0e86800fae975ecf8250b64444]: Textual amendment: Words in reg. 2 substituted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/2/b)
+[^c-d6fcce0e86800fae975ecf8250b64444]: Textual amendment: Words in reg. 2 substituted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/2/b)
 
-[^key-db85847b7cda98d6c0e197338b83666d]: Textual amendment: Reg. 3 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/6), [5](https://www.legislation.gov.uk/uksi/2020/1637/regulation/5)
+[^c-db85847b7cda98d6c0e197338b83666d]: Textual amendment: Reg. 3 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/6), [5](https://www.legislation.gov.uk/uksi/2020/1637/regulation/5)
 
-[^key-d3fddefafab72935ae99dbacea2e3912]: Commencement: Reg. 4 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d3fddefafab72935ae99dbacea2e3912]: Commencement: Reg. 4 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-38aa2d2ed34ca5eadb2afb65526998c8]: Textual amendment: Word in reg. 4(2) substituted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/3/a/i)
+[^c-38aa2d2ed34ca5eadb2afb65526998c8]: Textual amendment: Word in reg. 4(2) substituted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/3/a/i)
 
-[^key-17862e459d57e178f83f47a8b91c803d]: Textual amendment: Word in reg. 4(2) renumbered (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(3)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/3/a/ii/aa)
+[^c-17862e459d57e178f83f47a8b91c803d]: Textual amendment: Word in reg. 4(2) renumbered (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(3)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/3/a/ii/aa)
 
-[^key-0d5becba46d9fa477e935eab0a5bc766]: Textual amendment: Word in reg. 4(2) renumbered (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(3)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/3/a/ii/bb)
+[^c-0d5becba46d9fa477e935eab0a5bc766]: Textual amendment: Word in reg. 4(2) renumbered (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(3)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/3/a/ii/bb)
 
-[^key-4e4d5cb167edd5fc92d1145265bc21f2]: Textual amendment: Word in reg. 4(2) renumbered (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(3)(a)(ii)(cc)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/3/a/ii/cc)
+[^c-4e4d5cb167edd5fc92d1145265bc21f2]: Textual amendment: Word in reg. 4(2) renumbered (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(3)(a)(ii)(cc)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/3/a/ii/cc)
 
-[^key-369fd4c2cbd25cd45e25b2346992cb45]: Textual amendment: Words in reg. 4(4)(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(3)(b)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/3/b)
+[^c-369fd4c2cbd25cd45e25b2346992cb45]: Textual amendment: Words in reg. 4(4)(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(3)(b)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/3/b)
 
-[^key-0cb69a1e9728c87eeecb935eb1d14c3f]: Textual amendment: Words in reg. 4(12)(b) inserted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(3)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/3/c/i)
+[^c-0cb69a1e9728c87eeecb935eb1d14c3f]: Textual amendment: Words in reg. 4(12)(b) inserted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(3)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/3/c/i)
 
-[^key-6b2149eaa5b95240c8c5bb88442b2fcb]: Textual amendment: Words in reg. 4(12)(c) inserted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/3/c/ii)
+[^c-6b2149eaa5b95240c8c5bb88442b2fcb]: Textual amendment: Words in reg. 4(12)(c) inserted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/3/c/ii)
 
-[^key-588808b01154699acdd3f253d41a3552]: Textual amendment: Reg. 4(17)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(3)(d)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/3/d)
+[^c-588808b01154699acdd3f253d41a3552]: Textual amendment: Reg. 4(17)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(3)(d)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/3/d)
 
-[^key-a57ea7c2c98f604f526e068d20b4c024]: Textual amendment: Reg. 5 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/6), [5](https://www.legislation.gov.uk/uksi/2020/1637/regulation/5)
+[^c-a57ea7c2c98f604f526e068d20b4c024]: Textual amendment: Reg. 5 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/6), [5](https://www.legislation.gov.uk/uksi/2020/1637/regulation/5)
 
-[^key-193d62e959d01194668aa3649bee1dce]: Textual amendment: Reg. 6 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/6), [5](https://www.legislation.gov.uk/uksi/2020/1637/regulation/5)
+[^c-193d62e959d01194668aa3649bee1dce]: Textual amendment: Reg. 6 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/6), [5](https://www.legislation.gov.uk/uksi/2020/1637/regulation/5)
 
-[^key-167ed1d9445e23b23608bed76930dcd7]: Commencement: Reg. 7 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-167ed1d9445e23b23608bed76930dcd7]: Commencement: Reg. 7 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23692891]: Marginal citation: Paragraph 13 in Article 3 was inserted by [S.I. 2019/90](https://www.legislation.gov.uk/uksi/2019/90).
 
-[^key-ab603dc3cbcbfe34be18311d0d2714c7]: Textual amendment: Words in reg. 7(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1421)](https://www.legislation.gov.uk/uksi/2020/1421), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1421/regulation/1/4), [6(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1421/regulation/6/a/i/aa)
+[^c-ab603dc3cbcbfe34be18311d0d2714c7]: Textual amendment: Words in reg. 7(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1421)](https://www.legislation.gov.uk/uksi/2020/1421), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1421/regulation/1/4), [6(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1421/regulation/6/a/i/aa)
 
-[^key-07e7e6077aae0e7b611f1cc36be3a1b0]: Textual amendment: Words in reg. 7(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1421)](https://www.legislation.gov.uk/uksi/2020/1421), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1421/regulation/1/4), [6(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1421/regulation/6/a/i/bb)
+[^c-07e7e6077aae0e7b611f1cc36be3a1b0]: Textual amendment: Words in reg. 7(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1421)](https://www.legislation.gov.uk/uksi/2020/1421), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1421/regulation/1/4), [6(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1421/regulation/6/a/i/bb)
 
-[^key-fa57d3afe15d650924bc4d76951fe572]: Textual amendment: Words in reg. 7(2) substituted (31.12.2020 immediately before IP completion day) by [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1421)](https://www.legislation.gov.uk/uksi/2020/1421), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1421/regulation/1/4), [6(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1421/regulation/6/a/ii)
+[^c-fa57d3afe15d650924bc4d76951fe572]: Textual amendment: Words in reg. 7(2) substituted (31.12.2020 immediately before IP completion day) by [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1421)](https://www.legislation.gov.uk/uksi/2020/1421), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1421/regulation/1/4), [6(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1421/regulation/6/a/ii)
 
 [^c23692901]: Marginal citation: Article 4 was amended by [S.I. 2019/90](https://www.legislation.gov.uk/uksi/2019/90).
 
@@ -669,42 +669,42 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23692941]: Marginal citation: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-10e69ac86f86f3ae591285674eab60a0]: Textual amendment: Words in reg. 7(7) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1421)](https://www.legislation.gov.uk/uksi/2020/1421), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1421/regulation/1/4), [6(b)](https://www.legislation.gov.uk/uksi/2020/1421/regulation/6/b)
+[^c-10e69ac86f86f3ae591285674eab60a0]: Textual amendment: Words in reg. 7(7) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1421)](https://www.legislation.gov.uk/uksi/2020/1421), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1421/regulation/1/4), [6(b)](https://www.legislation.gov.uk/uksi/2020/1421/regulation/6/b)
 
-[^key-0e1e95513644350a8cd8473fa2a65465]: Textual amendment: Pt. 5 omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2020/1462/regulation/35)
+[^c-0e1e95513644350a8cd8473fa2a65465]: Textual amendment: Pt. 5 omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/2/a), [35](https://www.legislation.gov.uk/uksi/2020/1462/regulation/35)
 
-[^key-119aadf1c39f4fae28b298359fb0999c]: Commencement: Sch. in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-119aadf1c39f4fae28b298359fb0999c]: Commencement: Sch. in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-5e21c4100169f0d6391ae773875cb896]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/a/i/aa)
+[^c-5e21c4100169f0d6391ae773875cb896]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/a/i/aa)
 
-[^key-7d0d2e0842ff9fb1a3f71a94dfc1bbfe]: Textual amendment: Words in Sch. omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/a/i/bb)
+[^c-7d0d2e0842ff9fb1a3f71a94dfc1bbfe]: Textual amendment: Words in Sch. omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/a/i/bb)
 
-[^key-125cb36d7066266c2c921681ac236d37]: Textual amendment: Words in Sch. renumbered (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(a)(i)(cc)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/a/i/cc)
+[^c-125cb36d7066266c2c921681ac236d37]: Textual amendment: Words in Sch. renumbered (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(a)(i)(cc)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/a/i/cc)
 
-[^key-067037e742f6767000503620eab8aa2b]: Textual amendment: Words in Sch. renumbered (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(a)(i)(dd)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/a/i/dd)
+[^c-067037e742f6767000503620eab8aa2b]: Textual amendment: Words in Sch. renumbered (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(a)(i)(dd)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/a/i/dd)
 
-[^key-06a369c1f08cdce118eedf4d4a0c8636]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/a/ii/aa)
+[^c-06a369c1f08cdce118eedf4d4a0c8636]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/a/ii/aa)
 
-[^key-be1f11c118327e78f7d7317db0ba100f]: Textual amendment: Words in Sch. omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/a/ii/bb)
+[^c-be1f11c118327e78f7d7317db0ba100f]: Textual amendment: Words in Sch. omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/a/ii/bb)
 
-[^key-7687af5cca3f365c246f7e6be824f0ab]: Textual amendment: Words in Sch. renumbered (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(a)(ii)(cc)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/a/ii/cc)
+[^c-7687af5cca3f365c246f7e6be824f0ab]: Textual amendment: Words in Sch. renumbered (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(a)(ii)(cc)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/a/ii/cc)
 
-[^key-ef11555227e103eeeb72660466c0f273]: Textual amendment: Words in Sch. renumbered (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(a)(ii)(dd)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/a/ii/dd)
+[^c-ef11555227e103eeeb72660466c0f273]: Textual amendment: Words in Sch. renumbered (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(a)(ii)(dd)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/a/ii/dd)
 
-[^key-beab19ab99a5f8e0f0f2c0a74907cbb2]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/b/i)
+[^c-beab19ab99a5f8e0f0f2c0a74907cbb2]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/b/i)
 
-[^key-61f4fb832a6ad24617f9b9debea87e79]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/b/ii/aa)
+[^c-61f4fb832a6ad24617f9b9debea87e79]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/b/ii/aa)
 
-[^key-414bd8bdebdc87bd0a5763c6bd7fc796]: Textual amendment: Words in Sch. omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/b/ii/bb)
+[^c-414bd8bdebdc87bd0a5763c6bd7fc796]: Textual amendment: Words in Sch. omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/b/ii/bb)
 
-[^key-fb93ea8a2c822787ed5419968346a4a7]: Textual amendment: Words in Sch. renumbered (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(b)(ii)(cc)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/b/ii/cc)
+[^c-fb93ea8a2c822787ed5419968346a4a7]: Textual amendment: Words in Sch. renumbered (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(b)(ii)(cc)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/b/ii/cc)
 
-[^key-3f996d72de592d38774ae15072988445]: Textual amendment: Words in Sch. renumbered (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(b)(ii)(dd)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/b/ii/dd)
+[^c-3f996d72de592d38774ae15072988445]: Textual amendment: Words in Sch. renumbered (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(b)(ii)(dd)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/b/ii/dd)
 
-[^key-27a01d4ebd4d7f0ff2d89590dd895f85]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(c)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/c)
+[^c-27a01d4ebd4d7f0ff2d89590dd895f85]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(c)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/c)
 
-[^key-25980d03faa520f01d5c8f5a077fd689]: Textual amendment: Words in Sch. omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(d)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/d)
+[^c-25980d03faa520f01d5c8f5a077fd689]: Textual amendment: Words in Sch. omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(d)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/d)
 
-[^key-ae757a4fe7028f0b85b2ba63e7f3b055]: Textual amendment: Words in Sch. renumbered (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(e)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/e)
+[^c-ae757a4fe7028f0b85b2ba63e7f3b055]: Textual amendment: Words in Sch. renumbered (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(e)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/e)
 
-[^key-85d3d02bc7eab0c4b5083f087b074475]: Textual amendment: Words in Sch. renumbered (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(f)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/f)
+[^c-85d3d02bc7eab0c4b5083f087b074475]: Textual amendment: Words in Sch. renumbered (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [5(4)(f)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/5/4/f)

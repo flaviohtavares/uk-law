@@ -22,11 +22,11 @@ summary: ''
 
 (1) In section 5 of the Protection from Harassment Act 1997 (c. 40) (power to make restraining order where defendant convicted of offence under section 2 or 4 of that Act), in subsection (1) omit “under section 2 or 4”.
 
-(2)[^key-3c8f26ba6bae0db77e872489b07c64e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3c8f26ba6bae0db77e872489b07c64e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-3c8f26ba6bae0db77e872489b07c64e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3c8f26ba6bae0db77e872489b07c64e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-3c8f26ba6bae0db77e872489b07c64e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3c8f26ba6bae0db77e872489b07c64e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) After that section insert—
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c8f26ba6bae0db77e872489b07c64e4]: Textual amendment: S. 12(2)-(4) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2) (see also [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3))
+[^c-3c8f26ba6bae0db77e872489b07c64e4]: Textual amendment: S. 12(2)-(4) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2) (see also [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3))

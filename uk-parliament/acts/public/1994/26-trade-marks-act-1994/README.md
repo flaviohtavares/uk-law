@@ -33,7 +33,7 @@ An Act to make new provision for registered trade marks, implementing Council Di
 
 \[21st July 1994\]
 
-[^c1130328][^c1130329][^c1130330]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-01334f2f0f60c1c4c9650acf2167bdd6][^key-0c0341393963cdf7565ad4916af46f0c]
+[^c1130328][^c1130329][^c1130330]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-01334f2f0f60c1c4c9650acf2167bdd6][^c-0c0341393963cdf7565ad4916af46f0c]
 
 ## Contents
 
@@ -84,7 +84,7 @@ An Act to make new provision for registered trade marks, implementing Council Di
 - [Section 19 — Order as to disposal of infringing goods, material or articles.](part-i/section-19.md)
 - [Section 20 — Jurisdiction of sheriff court or county court in Northern Ireland.](part-i/section-20.md)
 
-#### Unjustified threats[^key-0a6bb98b6839e4cca75c7e192e6fa27d]
+#### Unjustified threats[^c-0a6bb98b6839e4cca75c7e192e6fa27d]
 
 - [Section 21 — Threats of infringement proceedings](part-i/section-21.md)
 - [Section 21A — Actionable threats](part-i/section-21a.md)
@@ -162,11 +162,11 @@ An Act to make new provision for registered trade marks, implementing Council Di
 
 - [Section 50 — Certification marks.](part-i/section-50.md)
 
-### Part II — European Union trade marks and international matters[^key-381c6c5767c3c9be0065bb952b6693b8]
+### Part II — European Union trade marks and international matters[^c-381c6c5767c3c9be0065bb952b6693b8]
 
 *Extent: E+W+S+N.I.*
 
-#### European Union trade marks[^key-5b7ed9d7bcdfdf71fe4c25bec276ba15]
+#### European Union trade marks[^c-5b7ed9d7bcdfdf71fe4c25bec276ba15]
 
 - [Section 51 — Meaning of “European Union trade mark”](part-ii/section-51.md)
 - [Section 52 — Power to make provision in connection with European Union Trade Mark Regulation.](part-ii/section-52.md)
@@ -191,7 +191,7 @@ An Act to make new provision for registered trade marks, implementing Council Di
 
 - [Section 61 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-61.md)
 
-#### Nice Classification[^key-ee0db372f8e9e705f3fe8e874e31ddb6]
+#### Nice Classification[^c-ee0db372f8e9e705f3fe8e874e31ddb6]
 
 *Extent: E+W+S+N.I.*
 
@@ -327,14 +327,14 @@ SCHEDULES
 
 [^c1130330]: Extent: Act extends to the United Kingdom and the Isle of Man, see [s. 108(2)](https://www.legislation.gov.uk/ukpga/1994/26/section/108/2).
 
-[^key-01334f2f0f60c1c4c9650acf2167bdd6]: Modification: Act applied in part (with modifications) (1.10.2008) by [Trade Marks (International Registration) Order 2008 (S.I. 2008/2206)](https://www.legislation.gov.uk/uksi/2008/2206), [art. 3(3)](https://www.legislation.gov.uk/uksi/2008/2206/article/3/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2206/schedule/1/part/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2206/schedule/2) (as amended: (31.3.2013) by [S.I. 2013/445](https://www.legislation.gov.uk/uksi/2013/445), [arts. 1](https://www.legislation.gov.uk/uksi/2013/445/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/445/article/3/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2013/445/article/6)); and (14.1.2019) by [S.I. 2018/825](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [52](https://www.legislation.gov.uk/uksi/2018/825/regulation/52) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5)))
+[^c-01334f2f0f60c1c4c9650acf2167bdd6]: Modification: Act applied in part (with modifications) (1.10.2008) by [Trade Marks (International Registration) Order 2008 (S.I. 2008/2206)](https://www.legislation.gov.uk/uksi/2008/2206), [art. 3(3)](https://www.legislation.gov.uk/uksi/2008/2206/article/3/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2206/schedule/1/part/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2206/schedule/2) (as amended: (31.3.2013) by [S.I. 2013/445](https://www.legislation.gov.uk/uksi/2013/445), [arts. 1](https://www.legislation.gov.uk/uksi/2013/445/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/445/article/3/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2013/445/article/6)); and (14.1.2019) by [S.I. 2018/825](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [52](https://www.legislation.gov.uk/uksi/2018/825/regulation/52) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5)))
 
-[^key-0c0341393963cdf7565ad4916af46f0c]: Modification: Act modified (Isle of Man) (11.11.2013) by [The Trade Marks (Isle of Man) Order 2013 (S.I. 2013/2601)](https://www.legislation.gov.uk/uksi/2013/2601), [art. 2](https://www.legislation.gov.uk/uksi/2013/2601/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2013/2601/schedule) (as amended: (14.1.2019) by [S.I. 2018/1157](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1157/schedule); (31.12.2020) by [S.I. 2019/1335](https://www.legislation.gov.uk/uksi/2019/1335), [art. 3](https://www.legislation.gov.uk/uksi/2019/1335/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1); and (10.7.2025) by [S.I. 2025/679](https://www.legislation.gov.uk/uksi/2025/679), [art. 1](https://www.legislation.gov.uk/uksi/2025/679/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/679/schedule))
+[^c-0c0341393963cdf7565ad4916af46f0c]: Modification: Act modified (Isle of Man) (11.11.2013) by [The Trade Marks (Isle of Man) Order 2013 (S.I. 2013/2601)](https://www.legislation.gov.uk/uksi/2013/2601), [art. 2](https://www.legislation.gov.uk/uksi/2013/2601/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2013/2601/schedule) (as amended: (14.1.2019) by [S.I. 2018/1157](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1157/schedule); (31.12.2020) by [S.I. 2019/1335](https://www.legislation.gov.uk/uksi/2019/1335), [art. 3](https://www.legislation.gov.uk/uksi/2019/1335/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1); and (10.7.2025) by [S.I. 2025/679](https://www.legislation.gov.uk/uksi/2025/679), [art. 1](https://www.legislation.gov.uk/uksi/2025/679/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/679/schedule))
 
-[^key-0a6bb98b6839e4cca75c7e192e6fa27d]: Textual amendment: Ss. 21-21F and cross-heading substituted for s. 21 (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2017/14/section/2/2), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
+[^c-0a6bb98b6839e4cca75c7e192e6fa27d]: Textual amendment: Ss. 21-21F and cross-heading substituted for s. 21 (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2017/14/section/2/2), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
 
-[^key-381c6c5767c3c9be0065bb952b6693b8]: Textual amendment: Words in Pt. II heading substituted (6.4.2016) by [The European Union Trade Mark Regulations 2016 (S.I. 2016/299)](https://www.legislation.gov.uk/uksi/2016/299), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/299/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2016/299/regulation/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2016/299/regulation/13))
+[^c-381c6c5767c3c9be0065bb952b6693b8]: Textual amendment: Words in Pt. II heading substituted (6.4.2016) by [The European Union Trade Mark Regulations 2016 (S.I. 2016/299)](https://www.legislation.gov.uk/uksi/2016/299), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/299/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2016/299/regulation/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2016/299/regulation/13))
 
-[^key-5b7ed9d7bcdfdf71fe4c25bec276ba15]: Textual amendment: Words in s. 51 cross-heading substituted (6.4.2016) by [The European Union Trade Mark Regulations 2016 (S.I. 2016/299)](https://www.legislation.gov.uk/uksi/2016/299), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/299/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2016/299/regulation/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2016/299/regulation/13))
+[^c-5b7ed9d7bcdfdf71fe4c25bec276ba15]: Textual amendment: Words in s. 51 cross-heading substituted (6.4.2016) by [The European Union Trade Mark Regulations 2016 (S.I. 2016/299)](https://www.legislation.gov.uk/uksi/2016/299), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/299/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2016/299/regulation/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2016/299/regulation/13))
 
-[^key-ee0db372f8e9e705f3fe8e874e31ddb6]: Textual amendment: S. 60A and cross-heading inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [29](https://www.legislation.gov.uk/uksi/2018/825/regulation/29) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+[^c-ee0db372f8e9e705f3fe8e874e31ddb6]: Textual amendment: S. 60A and cross-heading inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [29](https://www.legislation.gov.uk/uksi/2018/825/regulation/29) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))

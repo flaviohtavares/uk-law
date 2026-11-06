@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45A. Record of anonymous entries[^key-a0fd54fca2128991fc18df1f96874651]
+## 45A. Record of anonymous entries[^c-a0fd54fca2128991fc18df1f96874651]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0fd54fca2128991fc18df1f96874651]: Textual amendment: [Regs. 45A-45H](https://www.legislation.gov.uk/uksi/2001/341/regulation/45A) inserted (1.1.2007) by [The Representation of the People (England and Wales) (Amendment) (No. 2) Regulations 2006 (S.I. 2006/2910)](https://www.legislation.gov.uk/uksi/2006/2910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2006/2910/regulation/18)
+[^c-a0fd54fca2128991fc18df1f96874651]: Textual amendment: [Regs. 45A-45H](https://www.legislation.gov.uk/uksi/2001/341/regulation/45A) inserted (1.1.2007) by [The Representation of the People (England and Wales) (Amendment) (No. 2) Regulations 2006 (S.I. 2006/2910)](https://www.legislation.gov.uk/uksi/2006/2910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2006/2910/regulation/18)

@@ -44,7 +44,7 @@ the authority shall not disclose the information.
 (5) In subsections (1) and (3), “**relevant authority**” means—
 
 - (a) a local authority;
-- (b)[^key-d6f7140a85503ac8349e4a1d0481d32e] the chief constable of the Police Service of Scotland;
+- (b)[^c-d6f7140a85503ac8349e4a1d0481d32e] the chief constable of the Police Service of Scotland;
 - (c) the Principal Reporter;
 - (d) a registered social landlord;
 - (e) an authority administering housing benefit;
@@ -58,4 +58,4 @@ the authority shall not disclose the information.
 
 ## Annotations
 
-[^key-d6f7140a85503ac8349e4a1d0481d32e]: Textual amendment: [S. 139(5)(b)](https://www.legislation.gov.uk/asp/2004/8/section/139/5/b) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 24(9)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/24/9); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-d6f7140a85503ac8349e4a1d0481d32e]: Textual amendment: [S. 139(5)(b)](https://www.legislation.gov.uk/asp/2004/8/section/139/5/b) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 24(9)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/24/9); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

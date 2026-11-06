@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10.4. Official receiver's expenses[^key-64e52c6059f1bc63079075fc225291e4]
+## 10.4. Official receiver's expenses[^c-64e52c6059f1bc63079075fc225291e4]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64e52c6059f1bc63079075fc225291e4]: Commencement: [Rule 10.4](https://www.legislation.gov.uk/uksi/1986/1925/rule/10.4) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-64e52c6059f1bc63079075fc225291e4]: Commencement: [Rule 10.4](https://www.legislation.gov.uk/uksi/1986/1925/rule/10.4) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

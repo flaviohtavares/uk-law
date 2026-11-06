@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Genetically modified organisms containing antibiotic resistance markers[^key-58c9043c5d17fc6b057c5f638d669dc0]
+## 27. Genetically modified organisms containing antibiotic resistance markers[^c-58c9043c5d17fc6b057c5f638d669dc0]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58c9043c5d17fc6b057c5f638d669dc0]: Commencement: Reg. 27 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-58c9043c5d17fc6b057c5f638d669dc0]: Commencement: Reg. 27 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

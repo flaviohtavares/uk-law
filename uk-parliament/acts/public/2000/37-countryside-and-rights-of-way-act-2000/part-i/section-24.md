@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The relevant authority may by direction, on an application made by a person interested in any land, exclude or restrict access to that land by virtue of section 2(1) during a specified period, if the authority are satisfied that the exclusion or restriction under this section of access by virtue of section 2(1) to the extent provided by the direction is necessary for the purposes of the management of the land by the applicant. *(Extent: E)* *(affected by repeal, see note)*[^key-3197165fd694e2d4f49836b5c71ab2db]
+(1) The relevant authority may by direction, on an application made by a person interested in any land, exclude or restrict access to that land by virtue of section 2(1) during a specified period, if the authority are satisfied that the exclusion or restriction under this section of access by virtue of section 2(1) to the extent provided by the direction is necessary for the purposes of the management of the land by the applicant. *(Extent: E)* *(affected by repeal, see note)*[^c-3197165fd694e2d4f49836b5c71ab2db]
 
 The relevant authority may make a land management direction in relation to any land (“the designated land”). *(Extent: E)*
 
@@ -56,7 +56,7 @@ The relevant authority may make a land management direction in relation to any l
 - (c (Extent: E)) a period which is to be determined by a specified person in accordance with the direction and, where the direction so requires, notified to the relevant authority by the specified person in accordance with the direction; *(Extent: E)*
 - (d (Extent: E)) an indefinite period. *(Extent: E)*
 
-(2) The reference in subsection (1) *(Extent: E)* *(affected by repeal, see note)*[^key-da3a3b7e34ef56ae9918f179a5880455] subsection (1B)(b) *(Extent: E)* to a specified period includes a reference to—
+(2) The reference in subsection (1) *(Extent: E)* *(affected by repeal, see note)*[^c-da3a3b7e34ef56ae9918f179a5880455] subsection (1B)(b) *(Extent: E)* to a specified period includes a reference to—
 
 - (a) a specified period in every calendar year, or
 - (b) a period which is to be—
@@ -73,14 +73,14 @@ The relevant authority may make a land management direction in relation to any l
 
 *Extent: E*
 
-(5)[^key-a8d07eb92bac01ca108eb2ee086174cf] Subsections (3) and (4) do not apply in relation to land management directions under subsection (1B)(a).
+(5)[^c-a8d07eb92bac01ca108eb2ee086174cf] Subsections (3) and (4) do not apply in relation to land management directions under subsection (1B)(a).
 
 (6 (Extent: E)) In this section references to access to land are to access by virtue of section 2(1). *(Extent: E)*
 
 ## Annotations
 
-[^key-3197165fd694e2d4f49836b5c71ab2db]: Textual amendment: [S. 24(1)-(1F)](https://www.legislation.gov.uk/ukpga/2000/37/section/24/1) substituted for [s. 24(1)](https://www.legislation.gov.uk/ukpga/2000/37/section/24/1) (E.) (6.4.2010) by [The Access to the Countryside (Coastal Margin) (England) Order 2010 (S.I. 2010/558)](https://www.legislation.gov.uk/uksi/2010/558), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/558/article/1/2), [Sch. 1 para. 18(2)](https://www.legislation.gov.uk/uksi/2010/558/schedule/1/paragraph/18/2)
+[^c-3197165fd694e2d4f49836b5c71ab2db]: Textual amendment: [S. 24(1)-(1F)](https://www.legislation.gov.uk/ukpga/2000/37/section/24/1) substituted for [s. 24(1)](https://www.legislation.gov.uk/ukpga/2000/37/section/24/1) (E.) (6.4.2010) by [The Access to the Countryside (Coastal Margin) (England) Order 2010 (S.I. 2010/558)](https://www.legislation.gov.uk/uksi/2010/558), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/558/article/1/2), [Sch. 1 para. 18(2)](https://www.legislation.gov.uk/uksi/2010/558/schedule/1/paragraph/18/2)
 
-[^key-da3a3b7e34ef56ae9918f179a5880455]: Textual amendment: Words in [s. 24(2)](https://www.legislation.gov.uk/ukpga/2000/37/section/24/2) substituted (E.) (6.4.2010) by [The Access to the Countryside (Coastal Margin) (England) Order 2010 (S.I. 2010/558)](https://www.legislation.gov.uk/uksi/2010/558), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/558/article/1/2), [Sch. 1 para. 18(3)](https://www.legislation.gov.uk/uksi/2010/558/schedule/1/paragraph/18/3)
+[^c-da3a3b7e34ef56ae9918f179a5880455]: Textual amendment: Words in [s. 24(2)](https://www.legislation.gov.uk/ukpga/2000/37/section/24/2) substituted (E.) (6.4.2010) by [The Access to the Countryside (Coastal Margin) (England) Order 2010 (S.I. 2010/558)](https://www.legislation.gov.uk/uksi/2010/558), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/558/article/1/2), [Sch. 1 para. 18(3)](https://www.legislation.gov.uk/uksi/2010/558/schedule/1/paragraph/18/3)
 
-[^key-a8d07eb92bac01ca108eb2ee086174cf]: Textual amendment: [S. 24(5)](https://www.legislation.gov.uk/ukpga/2000/37/section/24/5)[(6)](https://www.legislation.gov.uk/ukpga/2000/37/section/24/6) added (E.) (6.4.2010) by [The Access to the Countryside (Coastal Margin) (England) Order 2010 (S.I. 2010/558)](https://www.legislation.gov.uk/uksi/2010/558), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/558/article/1/2), [Sch. 1 para. 18(4)](https://www.legislation.gov.uk/uksi/2010/558/schedule/1/paragraph/18/4)
+[^c-a8d07eb92bac01ca108eb2ee086174cf]: Textual amendment: [S. 24(5)](https://www.legislation.gov.uk/ukpga/2000/37/section/24/5)[(6)](https://www.legislation.gov.uk/ukpga/2000/37/section/24/6) added (E.) (6.4.2010) by [The Access to the Countryside (Coastal Margin) (England) Order 2010 (S.I. 2010/558)](https://www.legislation.gov.uk/uksi/2010/558), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/558/article/1/2), [Sch. 1 para. 18(4)](https://www.legislation.gov.uk/uksi/2010/558/schedule/1/paragraph/18/4)

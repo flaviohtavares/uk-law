@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107C. Deputy mayors etc[^key-bbdb5ea67900e834630538772beac767]
+## 107C. Deputy mayors etc[^c-bbdb5ea67900e834630538772beac767]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,12 +44,12 @@ summary: ''
 
 the other members of the combined authority must act together in place of the mayor, taking decisions by a simple majority.
 
-(6A)[^key-097c3f98965d2f92ce8c21958696bcc2] References in this section to a member of a combined authority do not include a non-constituent or associate member.
+(6A)[^c-097c3f98965d2f92ce8c21958696bcc2] References in this section to a member of a combined authority do not include a non-constituent or associate member.
 
 (7) In this Part “**deputy mayor**”, in relation to a mayoral combined authority, means the person appointed under this section by the mayor for the authority's area.
 
 ## Annotations
 
-[^key-bbdb5ea67900e834630538772beac767]: Textual amendment: S. 107C inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 3](https://www.legislation.gov.uk/ukpga/2016/1/section/3), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
+[^c-bbdb5ea67900e834630538772beac767]: Textual amendment: S. 107C inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 3](https://www.legislation.gov.uk/ukpga/2016/1/section/3), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
 
-[^key-097c3f98965d2f92ce8c21958696bcc2]: Textual amendment: S. 107C(6A) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 64(10)](https://www.legislation.gov.uk/ukpga/2023/55/section/64/10), [255(2)(h)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/h) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-097c3f98965d2f92ce8c21958696bcc2]: Textual amendment: S. 107C(6A) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 64(10)](https://www.legislation.gov.uk/ukpga/2023/55/section/64/10), [255(2)(h)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/h) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

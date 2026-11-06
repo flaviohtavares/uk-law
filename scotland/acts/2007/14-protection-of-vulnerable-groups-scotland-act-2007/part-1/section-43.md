@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Transfer from 2003 Act list[^key-e6acd0f9fb2e4d0005ad93527395a520]
+## 43. Transfer from 2003 Act list[^c-e6acd0f9fb2e4d0005ad93527395a520]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6acd0f9fb2e4d0005ad93527395a520]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2007/14/section/43) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
+[^c-e6acd0f9fb2e4d0005ad93527395a520]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2007/14/section/43) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)

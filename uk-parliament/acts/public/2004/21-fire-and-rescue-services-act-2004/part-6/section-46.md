@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Supplementary powers[^key-d78519c5a02375e85bb15398aa761c8d][^key-0307d5f74c686d67c1b10b0012bd45ac][^key-f1697b166a3dbfb007c54cf3120faf4b]
+## 46. Supplementary powers[^c-d78519c5a02375e85bb15398aa761c8d][^c-0307d5f74c686d67c1b10b0012bd45ac][^c-f1697b166a3dbfb007c54cf3120faf4b]
 
 *Extent: E+W*
 
@@ -56,8 +56,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d78519c5a02375e85bb15398aa761c8d]: Commencement: S. 46 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
+[^c-d78519c5a02375e85bb15398aa761c8d]: Commencement: S. 46 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
 
-[^key-0307d5f74c686d67c1b10b0012bd45ac]: Commencement: S. 46 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-0307d5f74c686d67c1b10b0012bd45ac]: Commencement: S. 46 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
 
-[^key-f1697b166a3dbfb007c54cf3120faf4b]: Modification: S. 46 applied (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [17(3)](https://www.legislation.gov.uk/uksi/2013/602/article/17/3)
+[^c-f1697b166a3dbfb007c54cf3120faf4b]: Modification: S. 46 applied (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [17(3)](https://www.legislation.gov.uk/uksi/2013/602/article/17/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Pre-trading expenses[^key-a3abd2d08aa2dabfcdc3d0fdd2b818c0]
+## 57. Pre-trading expenses[^c-a3abd2d08aa2dabfcdc3d0fdd2b818c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ the expenses are treated as if they were incurred on the start date (and therefo
 
 ## Annotations
 
-[^key-a3abd2d08aa2dabfcdc3d0fdd2b818c0]: Modification: [S. 57](https://www.legislation.gov.uk/ukpga/2005/5/section/57) excluded (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 16 para. 4(6)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/4/6)
+[^c-a3abd2d08aa2dabfcdc3d0fdd2b818c0]: Modification: [S. 57](https://www.legislation.gov.uk/ukpga/2005/5/section/57) excluded (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 16 para. 4(6)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/4/6)

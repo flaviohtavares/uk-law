@@ -43,7 +43,7 @@ Regulations 9 and 10 are made with the consent of the Department of Finance and 
 
 The Social Security Advisory Committee has agreed that proposals in respect of regulations 9 and 10 should not be referred to it[^f00007].
 
-## 1. Citation, commencement and interpretation[^key-5ec434bb502436c48dc8d917c75bee77]
+## 1. Citation, commencement and interpretation[^c-5ec434bb502436c48dc8d917c75bee77]
 
 (1) These Regulations may be cited as the Social Security (Miscellaneous Amendments No. 5) Regulations (Northern Ireland) 2007 and, subject to paragraphs (2) to (4), shall come into operation on 1st October 2007.
 
@@ -61,25 +61,25 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 (6) The Interpretation Act (Northern Ireland) 1954[^f00012] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Social Security (Invalid Care Allowance) Regulations[^key-1852c524e201d12adf8ec69060061bae]
+## 2. Amendment of the Social Security (Invalid Care Allowance) Regulations[^c-1852c524e201d12adf8ec69060061bae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Social Security (General Benefit) Regulations[^key-3c51395132fbf60366ecd232a3ff66ee]
+## 3. Amendment of the Social Security (General Benefit) Regulations[^c-3c51395132fbf60366ecd232a3ff66ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Income Support (General) Regulations[^key-cefe784651a386902b53df3326e2629f][^key-aeee91ecb04d603f45cc85686512bc6e][^key-b97c044fab67f3b519f3342fc6ab5aa6][^key-50b22b5dbc7299c46e4ef4aa91263cb7]
+## 4. Amendment of the Income Support (General) Regulations[^c-cefe784651a386902b53df3326e2629f][^c-aeee91ecb04d603f45cc85686512bc6e][^c-b97c044fab67f3b519f3342fc6ab5aa6][^c-50b22b5dbc7299c46e4ef4aa91263cb7]
 
-(1)[^key-cefe784651a386902b53df3326e2629f] The Income Support (General) Regulations (Northern Ireland) 1987 are amended in accordance with paragraphs (2) to (13).
+(1)[^c-cefe784651a386902b53df3326e2629f] The Income Support (General) Regulations (Northern Ireland) 1987 are amended in accordance with paragraphs (2) to (13).
 
-(2)[^key-cefe784651a386902b53df3326e2629f] In regulation 2(1) (interpretation)—
+(2)[^c-cefe784651a386902b53df3326e2629f] In regulation 2(1) (interpretation)—
 
 - (a) omit the definition of “lower rate”[^f00015];
 - (b) in the definition of “maternity leave”[^f00016] for “Articles 15 and 28 to 30 of the Industrial Relations (No. 2) (Northern Ireland) Order 1976” substitute “Part IX of the Employment Rights (Northern Ireland) Order 1996[^f00017]”; and
-- (c)[^key-70b8b0460c50ac783e47fd7488ac2533] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-70b8b0460c50ac783e47fd7488ac2533] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-cefe784651a386902b53df3326e2629f] In regulation 5 (persons treated as engaged in remunerative work)—
+(3)[^c-cefe784651a386902b53df3326e2629f] In regulation 5 (persons treated as engaged in remunerative work)—
 
 - (a) in paragraph (5)[^f00020] for “A person” substitute “Subject to paragraph (5A), a person”; and
 - (b) after paragraph (5) insert—
@@ -88,11 +88,11 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
   .
 
-(4)[^key-cefe784651a386902b53df3326e2629f] In regulation 22A(1)(a)[^f00021] (reduction in applicable amount where the claimant is appealing against a decision which embodies a determination that he is not incapable of work) for “11, 12, 14, 15(c)(i) or (d)(i)” substitute “11 or 12”.
+(4)[^c-cefe784651a386902b53df3326e2629f] In regulation 22A(1)(a)[^f00021] (reduction in applicable amount where the claimant is appealing against a decision which embodies a determination that he is not incapable of work) for “11, 12, 14, 15(c)(i) or (d)(i)” substitute “11 or 12”.
 
-(5)[^key-4ea660b7d120fe2943381f72b852f22b][^key-cefe784651a386902b53df3326e2629f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-4ea660b7d120fe2943381f72b852f22b][^c-cefe784651a386902b53df3326e2629f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-cefe784651a386902b53df3326e2629f] In regulation 35[^f00023] (earnings of employed earners)—
+(6)[^c-cefe784651a386902b53df3326e2629f] In regulation 35[^f00023] (earnings of employed earners)—
 
 - (a) in paragraph (1)—
   - (i) in sub-paragraph (g) for “Article 32(2)(a) or (5) of the Industrial Relations (Northern Ireland) Order 1976 (remedies for unfair dismissal and compensation)” substitute “Article 146(4) or 151(3)(a) of the Employment Rights (Northern Ireland) Order 1996 (the remedies: orders and compensation, enforcement of order and compensation)”;
@@ -104,13 +104,13 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
   - (iii) in sub-paragraph (h) for “Article 14(2) of the Social Security (Miscellaneous Provisions) (Northern Ireland) Order 1977 (certain sums to be earnings for social security purposes)” substitute “section 112(3) of the Contributions and Benefits Act (certain sums to be earnings)”; and
 - (b) in paragraph (3)—
   - (i) in sub-paragraph (a)(iii)[^f00024] for “section 11(1) of the Contracts of Employment and Redundancy Payments Act (Northern Ireland) 1965” substitute “Article 170(1) of the Employment Rights (Northern Ireland) Order 1996”, and
-  - (ii)[^key-f10e2ed05afb67c9afc7cfcfe44fb2ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-f10e2ed05afb67c9afc7cfcfe44fb2ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-544b7b041ecf35b2f1afedcf752d7c03][^key-cefe784651a386902b53df3326e2629f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-544b7b041ecf35b2f1afedcf752d7c03][^c-cefe784651a386902b53df3326e2629f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-464446d24bcfc92f39bd84216e424b8b][^key-cefe784651a386902b53df3326e2629f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-464446d24bcfc92f39bd84216e424b8b][^c-cefe784651a386902b53df3326e2629f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-cefe784651a386902b53df3326e2629f] In regulation 42 (notional income)—
+(9)[^c-cefe784651a386902b53df3326e2629f] In regulation 42 (notional income)—
 
 - (a) omit “or” at the end of (6A)(b)(ii);
 - (b) at the end of paragraph (6A)(c)[^f00027] add—
@@ -122,9 +122,9 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
   > (6AA) In paragraph (6A)(d) “work placement” means practical work experience which is not undertaken in expectation of payment.
 
   ; and
-- (c)[^key-de3402ee4bebe84a0daee3449260efbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-de3402ee4bebe84a0daee3449260efbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-cefe784651a386902b53df3326e2629f] For regulation 49[^f00029] (calculation of capital in the United Kingdom) substitute—
+(10)[^c-cefe784651a386902b53df3326e2629f] For regulation 49[^f00029] (calculation of capital in the United Kingdom) substitute—
 
 > **49. Calculation of capital in the United Kingdom**
 >
@@ -135,7 +135,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 .
 
-(11)[^key-cefe784651a386902b53df3326e2629f] In Schedule 8 (sums to be disregarded in the calculation of earnings)
+(11)[^c-cefe784651a386902b53df3326e2629f] In Schedule 8 (sums to be disregarded in the calculation of earnings)
 
 - (a) for paragraph 1[^f00030] substitute—
 
@@ -166,21 +166,21 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 (12) In Schedule 9 (sums to be disregarded in the calculation of income other than earnings)—
 
-- (a)[^key-aeee91ecb04d603f45cc85686512bc6e] in paragraph 11(1)[^f00032] at the end add “or a payment corresponding to such an education maintenance allowance made pursuant to section 3 of the Employment and Training Act (Northern Ireland) 1950[^f00033]”;
-- (b)[^key-b97c044fab67f3b519f3342fc6ab5aa6] in paragraph 19[^f00034] for sub-paragraphs (a) and (b) substitute—
+- (a)[^c-aeee91ecb04d603f45cc85686512bc6e] in paragraph 11(1)[^f00032] at the end add “or a payment corresponding to such an education maintenance allowance made pursuant to section 3 of the Employment and Training Act (Northern Ireland) 1950[^f00033]”;
+- (b)[^c-b97c044fab67f3b519f3342fc6ab5aa6] in paragraph 19[^f00034] for sub-paragraphs (a) and (b) substitute—
 
   > - (a) where the aggregate of any payments made in respect of any one week in respect of the occupation of the dwelling by that person or a member of his family, or by that person and a member of his family, is less than £20, the whole of that amount; or
   > - (b) where the aggregate of any such payments is £20 or more per week, £20.
 
   ; and
-- (c)[^key-cefe784651a386902b53df3326e2629f] in paragraph 46[^f00035] at the end add “or reduction of liability for rates under Article 30A of the Rates (Northern Ireland) Order 1977[^f00036] (rate relief in respect of dwellings)”.
+- (c)[^c-cefe784651a386902b53df3326e2629f] in paragraph 46[^f00035] at the end add “or reduction of liability for rates under Article 30A of the Rates (Northern Ireland) Order 1977[^f00036] (rate relief in respect of dwellings)”.
 
 (13) In Schedule 10 (capital to be disregarded)—
 
-- (a)[^key-cefe784651a386902b53df3326e2629f] in paragraph 36[^f00037] after “(reduction of liability for council tax)” insert “or reduction of liability for rates under Article 30A of the Rates (Northern Ireland) Order 1977 (rate relief in respect of dwellings)”; and
-- (b)[^key-50b22b5dbc7299c46e4ef4aa91263cb7] in paragraph 56[^f00038] at the end add “or a payment corresponding to such an education maintenance allowance made pursuant to section 3 of the Employment and Training Act (Northern Ireland) 1950”.
+- (a)[^c-cefe784651a386902b53df3326e2629f] in paragraph 36[^f00037] after “(reduction of liability for council tax)” insert “or reduction of liability for rates under Article 30A of the Rates (Northern Ireland) Order 1977 (rate relief in respect of dwellings)”; and
+- (b)[^c-50b22b5dbc7299c46e4ef4aa91263cb7] in paragraph 56[^f00038] at the end add “or a payment corresponding to such an education maintenance allowance made pursuant to section 3 of the Employment and Training Act (Northern Ireland) 1950”.
 
-## 5. Amendment of the Social Security (Incapacity Benefit) Regulations[^key-c872bcb80e734e2b1446379f935af196]
+## 5. Amendment of the Social Security (Incapacity Benefit) Regulations[^c-c872bcb80e734e2b1446379f935af196]
 
 (1) The Social Security (Incapacity Benefit) Regulations (Northern Ireland) 1994[^f00039] are amended in accordance with paragraphs (2) and (3).
 
@@ -206,25 +206,25 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 .
 
-(3)[^key-9f214c47b356aebeef852417abff6914] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9f214c47b356aebeef852417abff6914] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^key-7c32928a5fa025c0f20c457d1ad850d5]
+## 6. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^c-7c32928a5fa025c0f20c457d1ad850d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of the Jobseeker’s Allowance Regulations[^key-bde89d777b83500de4b4ac2eb6c54df5][^key-b6563328c474e5d6992f4ddf698fda19][^key-db2ac8e0a9d0f4320dc9b1cd1f2a2cf5]
+## 7. Amendment of the Jobseeker’s Allowance Regulations[^c-bde89d777b83500de4b4ac2eb6c54df5][^c-b6563328c474e5d6992f4ddf698fda19][^c-db2ac8e0a9d0f4320dc9b1cd1f2a2cf5]
 
-(1)[^key-2c999861de0179958c49de88b509b8b1] The Jobseeker’s Allowance Regulations are amended in accordance with paragraphs (2) to (15).
+(1)[^c-2c999861de0179958c49de88b509b8b1] The Jobseeker’s Allowance Regulations are amended in accordance with paragraphs (2) to (15).
 
-(2)[^key-2c999861de0179958c49de88b509b8b1] In regulation 1(2) (interpretation)—
+(2)[^c-2c999861de0179958c49de88b509b8b1] In regulation 1(2) (interpretation)—
 
 - (a) omit the definition of “lower rate”;
 - (b) in the definition of “maternity leave” for “Articles 14 to 32 of the Industrial Relations (No. 2) (Northern Ireland) Order 1976” substitute “Part IX of the Employment Rights (Northern Ireland) Order 1996[^f00046]”; and
-- (c)[^key-9fd6c530ed95d43a20f6b3262bdfa6b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-9fd6c530ed95d43a20f6b3262bdfa6b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-2c999861de0179958c49de88b509b8b1] In regulation 5(3) (exceptions to requirement to be available immediately: carers, voluntary workers, persons providing a service and persons under an obligation to provide notice) for “section 1 of the Contracts of Employment and Redundancy Payments Act (Northern Ireland) 1965” substitute “Article 118 of the Employment Rights (Northern Ireland) Order 1996”.
+(3)[^c-2c999861de0179958c49de88b509b8b1] In regulation 5(3) (exceptions to requirement to be available immediately: carers, voluntary workers, persons providing a service and persons under an obligation to provide notice) for “section 1 of the Contracts of Employment and Redundancy Payments Act (Northern Ireland) 1965” substitute “Article 118 of the Employment Rights (Northern Ireland) Order 1996”.
 
-(4)[^key-2c999861de0179958c49de88b509b8b1] In regulation 52 (persons treated as engaged in remunerative work)—
+(4)[^c-2c999861de0179958c49de88b509b8b1] In regulation 52 (persons treated as engaged in remunerative work)—
 
 - (a) in paragraph (3) for “A person” substitute “Subject to paragraph (3A), a person”; and
 - (b) after paragraph (3) insert—
@@ -233,17 +233,17 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
   .
 
-(5)[^key-2c999861de0179958c49de88b509b8b1] In regulation 71 (voluntary redundancy)—
+(5)[^c-2c999861de0179958c49de88b509b8b1] In regulation 71 (voluntary redundancy)—
 
 - (a) in paragraph (1)(c)[^f00048] for “section 16(1) of the Contracts of Employment and Redundancy Payments Act (Northern Ireland) 1965” substitute “Article 183 of the Employment Rights (Northern Ireland) Order 1996”; and
 - (b) in paragraph (2) for “section 11(2) of the Contracts of Employment and Redundancy Payments Act (Northern Ireland) 1965” substitute “Article 174(1) of the Employment Rights (Northern Ireland) Order 1996”.
 
-(6)[^key-2c999861de0179958c49de88b509b8b1] In regulation 94 (calculation of earnings derived from employed earner’s employment and income other than earnings)—
+(6)[^c-2c999861de0179958c49de88b509b8b1] In regulation 94 (calculation of earnings derived from employed earner’s employment and income other than earnings)—
 
 - (a) in paragraph (6)(b) for “Article 49 of the Industrial Relations (Northern Ireland) Order 1976” substitute “Article 216 of the Employment Rights (Northern Ireland) Order 1996”; and
 - (b) in paragraph (8)(c)(ii) for “paragraph 5(4) of Schedule 3 to the Contracts of Employment and Redundancy Payments Act (Northern Ireland) 1965” substitute “Article 23(1) of the Employment Rights (Northern Ireland) Order 1996”.
 
-(7)[^key-2c999861de0179958c49de88b509b8b1] In regulation 98 (earnings of employed earners)—
+(7)[^c-2c999861de0179958c49de88b509b8b1] In regulation 98 (earnings of employed earners)—
 
 - (a) in paragraph (1)—
   - (i) in sub-paragraph (f)[^f00049] for “Article 31, 32(2)(a) or (5), 39 or 41(1) to (3) of the Industrial Relations (Northern Ireland) Order 1976 (order for reinstatement or re-engagement, compensation for unfair dismissal and interim relief pending determination of complaint)” substitute “Articles 146(4), 147, 151(3)(a), 163, 166 and 167 of the Employment Rights (Northern Ireland) Order 1996 (the remedies: orders and compensation, the orders, enforcement of order and compensation, interim relief)”;
@@ -251,11 +251,11 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
   - (iii) in sub paragraph (g) for “Article 33, 34, 39(1) to (10), 39A, 40, 40A, 41, 51 or 53 of the Industrial Relations (Northern Ireland) Order 1976 (compensation for unfair dismissal or redundancy on grounds of involvement in trade union activities)” substitute “Article 154(1), 156(3), 163 to 167, 217 or 220 of the Employment Rights (Northern Ireland) Order 1996 (compensation for unfair dismissal, interim relief, complaint and protective award, complaint by employee to industrial tribunal)”; and
 - (b) in paragraph 2(f) for “section 11(1) of the Contracts of Employment and Redundancy Payments Act (Northern Ireland) 1965” substitute “Article 170(1) of the Employment Rights (Northern Ireland) Order 1996”.
 
-(8)[^key-65f95695574aef2de2d73373f6d0c47b][^key-2c999861de0179958c49de88b509b8b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-65f95695574aef2de2d73373f6d0c47b][^c-2c999861de0179958c49de88b509b8b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-6898da1768e5dbab76992982069f1ba0][^key-2c999861de0179958c49de88b509b8b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-6898da1768e5dbab76992982069f1ba0][^c-2c999861de0179958c49de88b509b8b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-2c999861de0179958c49de88b509b8b1] In regulation 105 (notional income)—
+(10)[^c-2c999861de0179958c49de88b509b8b1] In regulation 105 (notional income)—
 
 - (a) at the end of paragraph (13A)(b)(ii)[^f00052] add—
 
@@ -264,14 +264,14 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
   > - (c) to a claimant who is participating in a work placement approved by the Department for Employment and Learning (or a person providing services to that Department) before the placement starts.
 
   ;
-- (b)[^key-425c5f9d29ef969769ca8424b9b9b5c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-425c5f9d29ef969769ca8424b9b9b5c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in paragraph (17) after the definition of “resources” insert—
 
   > - “work placement” means practical work experience which is not undertaken in expectation of payment.
 
   .
 
-(11)[^key-2c999861de0179958c49de88b509b8b1] For regulation 111[^f00054] (calculation of capital in the United Kingdom) substitute—
+(11)[^c-2c999861de0179958c49de88b509b8b1] For regulation 111[^f00054] (calculation of capital in the United Kingdom) substitute—
 
 > **111. Calculation of capital in the United Kingdom**
 >
@@ -282,9 +282,9 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 .
 
-(12)[^key-659c9bd92f9bb7a967df3131df66a3a3][^key-2c999861de0179958c49de88b509b8b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-659c9bd92f9bb7a967df3131df66a3a3][^c-2c999861de0179958c49de88b509b8b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(13)[^key-2c999861de0179958c49de88b509b8b1] In Schedule 5 (sums to be disregarded in the calculation of earnings)—
+(13)[^c-2c999861de0179958c49de88b509b8b1] In Schedule 5 (sums to be disregarded in the calculation of earnings)—
 
 - (a) for paragraphs 1[^f00055] and 2[^f00056] substitute—
 
@@ -318,21 +318,21 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 (14) In Schedule 6 (sums to be disregarded in the calculation of income other than earnings)—
 
-- (a)[^key-bde89d777b83500de4b4ac2eb6c54df5] in paragraph 12(1)[^f00057] at the end add “or a payment corresponding to such an education maintenance allowance made pursuant to section 3 of the Employment and Training Act (Northern Ireland) 1950”;
-- (b)[^key-b6563328c474e5d6992f4ddf698fda19] in paragraph 20 for sub-paragraphs (a) and (b)[^f00058] substitute—
+- (a)[^c-bde89d777b83500de4b4ac2eb6c54df5] in paragraph 12(1)[^f00057] at the end add “or a payment corresponding to such an education maintenance allowance made pursuant to section 3 of the Employment and Training Act (Northern Ireland) 1950”;
+- (b)[^c-b6563328c474e5d6992f4ddf698fda19] in paragraph 20 for sub-paragraphs (a) and (b)[^f00058] substitute—
 
   > - (a) where the aggregate of any payments made in respect of any one week in respect of the occupation of the dwelling by that person or a member of his family, or by that person and a member of his family, is less than £20, the whole of that amount; or
   > - (b) where the aggregate of any such payments is £20 or more per week, £20.
 
   ; and
-- (c)[^key-2c999861de0179958c49de88b509b8b1] in paragraph 45 at the end add “or reduction of liability for rates under Article 30A of the Rates (Northern Ireland) Order 1977 (rate relief in respect of dwellings)”.
+- (c)[^c-2c999861de0179958c49de88b509b8b1] in paragraph 45 at the end add “or reduction of liability for rates under Article 30A of the Rates (Northern Ireland) Order 1977 (rate relief in respect of dwellings)”.
 
 (15) In Schedule 7 (capital to be disregarded)—
 
-- (a)[^key-2c999861de0179958c49de88b509b8b1] in paragraph 35 after “(reduction of liability for council tax)” insert “or reduction of liability for rates under Article 30A of the Rates (Northern Ireland) Order 1977 (rate relief in respect of dwellings)”; and
-- (b)[^key-db2ac8e0a9d0f4320dc9b1cd1f2a2cf5] in paragraph 50(1)[^f00059] at the end add “or a payment corresponding to such an education maintenance allowance made pursuant to section 3 of the Employment and Training Act (Northern Ireland) 1950”.
+- (a)[^c-2c999861de0179958c49de88b509b8b1] in paragraph 35 after “(reduction of liability for council tax)” insert “or reduction of liability for rates under Article 30A of the Rates (Northern Ireland) Order 1977 (rate relief in respect of dwellings)”; and
+- (b)[^c-db2ac8e0a9d0f4320dc9b1cd1f2a2cf5] in paragraph 50(1)[^f00059] at the end add “or a payment corresponding to such an education maintenance allowance made pursuant to section 3 of the Employment and Training Act (Northern Ireland) 1950”.
 
-## 8. Amendment of the State Pension Credit Regulations[^key-0b563b9c8a08086d85faa5cc8c3abe12]
+## 8. Amendment of the State Pension Credit Regulations[^c-0b563b9c8a08086d85faa5cc8c3abe12]
 
 (1) The State Pension Credit Regulations (Northern Ireland) 2003[^f00060] are amended in accordance with paragraphs (2) to (5).
 
@@ -368,16 +368,16 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 .
 
-## 9. Amendment of the Housing Benefit Regulations[^key-69d06dcf355489ad931bbde6161bf2ea][^key-d16d676b2d0d762010e2a8eceabfd905][^key-a1123b22987c20c930ee901bd4630475][^key-10c1a0832a9d5fa36d81403f79898ca4][^key-851e56a2ecd461c753e6388d9d8a6f71]
+## 9. Amendment of the Housing Benefit Regulations[^c-69d06dcf355489ad931bbde6161bf2ea][^c-d16d676b2d0d762010e2a8eceabfd905][^c-a1123b22987c20c930ee901bd4630475][^c-10c1a0832a9d5fa36d81403f79898ca4][^c-851e56a2ecd461c753e6388d9d8a6f71]
 
-(1)[^key-69d06dcf355489ad931bbde6161bf2ea] The Housing Benefit Regulations (Northern Ireland) 2006[^f00063] are amended in accordance with paragraphs (2) to (13).
+(1)[^c-69d06dcf355489ad931bbde6161bf2ea] The Housing Benefit Regulations (Northern Ireland) 2006[^f00063] are amended in accordance with paragraphs (2) to (13).
 
-(2)[^key-69d06dcf355489ad931bbde6161bf2ea] In regulation 2(1) (interpretation)—
+(2)[^c-69d06dcf355489ad931bbde6161bf2ea] In regulation 2(1) (interpretation)—
 
 - (a) omit the definition of “lower rate”; and
-- (b)[^key-65c843a05f30b6c0b6f191fd66ae52cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-65c843a05f30b6c0b6f191fd66ae52cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-69d06dcf355489ad931bbde6161bf2ea] In regulation 7(8) (circumstances in which a person is or is not to be treated as occupying a dwelling as his home)—
+(3)[^c-69d06dcf355489ad931bbde6161bf2ea] In regulation 7(8) (circumstances in which a person is or is not to be treated as occupying a dwelling as his home)—
 
 - (a) for “Where a person” substitute “Where”;
 - (b) in sub-paragraph (a), at the beginning, insert “a person”;
@@ -390,17 +390,17 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
   ; and
 - (d) for “he shall be treated” substitute “the person shall be treated”.
 
-(4)[^key-69d06dcf355489ad931bbde6161bf2ea] In regulation 32(1) (earnings of employed earners) after sub-paragraph (g) insert—
+(4)[^c-69d06dcf355489ad931bbde6161bf2ea] In regulation 32(1) (earnings of employed earners) after sub-paragraph (g) insert—
 
 > - (gg) any payment or remuneration made under Article 60, 66, 96, 100 or 102 of the Employment Rights (Northern Ireland) Order 1996 (right to guarantee payments, remuneration on suspension on medical or maternity grounds, complaints to industrial tribunals);
 
 .
 
-(5)[^key-5ef7ccbf92e9109794cc13e6f7a43545][^key-69d06dcf355489ad931bbde6161bf2ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-5ef7ccbf92e9109794cc13e6f7a43545][^c-69d06dcf355489ad931bbde6161bf2ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-2e6c4c8450a1cba7a2303b1274ebae3c][^key-69d06dcf355489ad931bbde6161bf2ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-2e6c4c8450a1cba7a2303b1274ebae3c][^c-69d06dcf355489ad931bbde6161bf2ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-69d06dcf355489ad931bbde6161bf2ea] In regulation 39 (notional income)—
+(7)[^c-69d06dcf355489ad931bbde6161bf2ea] In regulation 39 (notional income)—
 
 - (a) omit “or” at the end of paragraph 10(a);
 - (b) at the end of paragraph (10)(b)(ii) add—
@@ -412,9 +412,9 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
   > (10A) In paragraph (10)(c) “work placement” means practical work experience which is not undertaken in expectation of payment.
 
   ; and
-- (c)[^key-536a471c4c537b5695791207fdebe1d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-536a471c4c537b5695791207fdebe1d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-69d06dcf355489ad931bbde6161bf2ea] For regulation 44 (calculation of capital in the United Kingdom) substitute—
+(8)[^c-69d06dcf355489ad931bbde6161bf2ea] For regulation 44 (calculation of capital in the United Kingdom) substitute—
 
 > **44. Calculation of capital in the United Kingdom**
 >
@@ -425,7 +425,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 .
 
-(9)[^key-69d06dcf355489ad931bbde6161bf2ea] In regulation 77 (date on which change of circumstances is to take effect)—
+(9)[^c-69d06dcf355489ad931bbde6161bf2ea] In regulation 77 (date on which change of circumstances is to take effect)—
 
 - (a) in paragraph (3) for “and (11)” substitute “to (12)”; and
 - (b) after paragraph (11) add—
@@ -434,13 +434,13 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
   .
 
-(10)[^key-69d06dcf355489ad931bbde6161bf2ea] In Schedule 4 (applicable amounts)—
+(10)[^c-69d06dcf355489ad931bbde6161bf2ea] In Schedule 4 (applicable amounts)—
 
 - (a) in paragraph 4 for “8” substitute “9”;
 - (b) omit paragraph 8 and the preceding heading; and
 - (c) omit paragraph 20(1)[^f00065].
 
-(11)[^key-69d06dcf355489ad931bbde6161bf2ea] In Schedule 5 (sums to be disregarded in the calculation of earnings)—
+(11)[^c-69d06dcf355489ad931bbde6161bf2ea] In Schedule 5 (sums to be disregarded in the calculation of earnings)—
 
 - (a) in paragraph 1—
   - (i) in sub-paragraph (a) after “earnings” insert “paid or due to be paid”, and
@@ -468,28 +468,28 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 (12) In Schedule 6 (sums to be disregarded in the calculation of income other than earnings)—
 
-- (a)[^key-d16d676b2d0d762010e2a8eceabfd905] in paragraph 12(1) at the end add “or a payment corresponding to such an education maintenance allowance made pursuant to section 3 of the Employment and Training Act (Northern Ireland) 1950[^f00067]”;
-- (b)[^key-a1123b22987c20c930ee901bd4630475][^key-10c1a0832a9d5fa36d81403f79898ca4] in paragraph 23 for sub-paragraphs (a) and (b)[^f00068] substitute—
+- (a)[^c-d16d676b2d0d762010e2a8eceabfd905] in paragraph 12(1) at the end add “or a payment corresponding to such an education maintenance allowance made pursuant to section 3 of the Employment and Training Act (Northern Ireland) 1950[^f00067]”;
+- (b)[^c-a1123b22987c20c930ee901bd4630475][^c-10c1a0832a9d5fa36d81403f79898ca4] in paragraph 23 for sub-paragraphs (a) and (b)[^f00068] substitute—
 
   > - (a) where the aggregate of any payments made in respect of any one week in respect of the occupation of the dwelling by that person or a member of his family, or by that person and a member of his family, is less than £20, the whole of that amount; or
   > - (b) where the aggregate of any such payments is £20 or more per week, £20.
 
   ; and
-- (c)[^key-69d06dcf355489ad931bbde6161bf2ea] in paragraph 43 at the end add “or reduction of liability for rates under Article 30A of the Rates (Northern Ireland) Order 1977[^f00069] (rate relief in respect of dwellings)”.
+- (c)[^c-69d06dcf355489ad931bbde6161bf2ea] in paragraph 43 at the end add “or reduction of liability for rates under Article 30A of the Rates (Northern Ireland) Order 1977[^f00069] (rate relief in respect of dwellings)”.
 
 (13) In Schedule 7 (capital to be disregarded)—
 
-- (a)[^key-69d06dcf355489ad931bbde6161bf2ea] in paragraph 38 after “(reduction of liability for council tax)” insert “or reduction of liability for rates under Article 30A of the Rates (Northern Ireland) Order 1977 (rate relief in respect of dwellings)”; and
-- (b)[^key-851e56a2ecd461c753e6388d9d8a6f71] in paragraph 50(1) at the end add “or a payment corresponding to such an education maintenance allowance made pursuant to section 3 of the Employment and Training Act (Northern Ireland) 1950”.
+- (a)[^c-69d06dcf355489ad931bbde6161bf2ea] in paragraph 38 after “(reduction of liability for council tax)” insert “or reduction of liability for rates under Article 30A of the Rates (Northern Ireland) Order 1977 (rate relief in respect of dwellings)”; and
+- (b)[^c-851e56a2ecd461c753e6388d9d8a6f71] in paragraph 50(1) at the end add “or a payment corresponding to such an education maintenance allowance made pursuant to section 3 of the Employment and Training Act (Northern Ireland) 1950”.
 
-## 10. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^key-4bcfc40bcc1cbda28343b7f4f6ef41ae]
+## 10. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^c-4bcfc40bcc1cbda28343b7f4f6ef41ae]
 
 (1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00070] are amended in accordance with paragraphs (2) to (7).
 
 (2) In regulation 2(1) (interpretation)—
 
 - (a) omit the definition of “lower rate”; and
-- (b)[^key-301590d88a2d1a4d1e0c5a1ce7dd2d45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-301590d88a2d1a4d1e0c5a1ce7dd2d45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In regulation 7(8) (circumstances in which a person is or is not to be treated as occupying a dwelling as his home)—
 
@@ -504,9 +504,9 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
   ; and
 - (d) for “he shall be treated” substitute “the person shall be treated”.
 
-(4)[^key-00ce8ed5df2b77d7c744787b1c962144] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-00ce8ed5df2b77d7c744787b1c962144] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-f992362c00d5f77baab328bd1bd5e04d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-f992362c00d5f77baab328bd1bd5e04d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) For regulation 43 (calculation of capital in the United Kingdom) substitute—
 
@@ -528,7 +528,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
   .
 
-## 11. Revocations[^key-4e490b8cb0dea16765956c745b450cb3]
+## 11. Revocations[^c-4e490b8cb0dea16765956c745b450cb3]
 
 The provisions specified in column (1) of the Schedule are revoked to the extent specified in column (3).
 
@@ -550,7 +550,7 @@ Adrian Arbuthnot
 
 A senior officer of the Department of Finance and Personnel
 
-## SCHEDULE — Revocations[^key-4bcac2fe77c9f1712a20d4aaa9a30da2]
+## SCHEDULE — Revocations[^c-4bcac2fe77c9f1712a20d4aaa9a30da2]
 
 Regulation 11
 
@@ -642,7 +642,7 @@ In so far as these Regulations are required, for the purposes of regulations 9 a
 
 [^f00007]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-5ec434bb502436c48dc8d917c75bee77]: Commencement: Reg. 1 in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/1)
+[^c-5ec434bb502436c48dc8d917c75bee77]: Commencement: Reg. 1 in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/1)
 
 [^f00008]: Footnote: The definition of “benefit week” was amended by regulation 2(a) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318)
 
@@ -654,17 +654,17 @@ In so far as these Regulations are required, for the purposes of regulations 9 a
 
 [^f00012]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-1852c524e201d12adf8ec69060061bae]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/396/regulation/2) revoked (12.4.2010) by [The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2010 (S.R. 2010/81)](https://www.legislation.gov.uk/nisr/2010/81), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2010/81/regulation/1/b), [5](https://www.legislation.gov.uk/nisr/2010/81/regulation/5)
+[^c-1852c524e201d12adf8ec69060061bae]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/396/regulation/2) revoked (12.4.2010) by [The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2010 (S.R. 2010/81)](https://www.legislation.gov.uk/nisr/2010/81), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2010/81/regulation/1/b), [5](https://www.legislation.gov.uk/nisr/2010/81/regulation/5)
 
-[^key-3c51395132fbf60366ecd232a3ff66ee]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/396/regulation/3) revoked (1.10.2008) by [The Social Security (Incapacity) (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/375)](https://www.legislation.gov.uk/nisr/2008/375), [regs. 1](https://www.legislation.gov.uk/nisr/2008/375/regulation/1), [5](https://www.legislation.gov.uk/nisr/2008/375/regulation/5)
+[^c-3c51395132fbf60366ecd232a3ff66ee]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/396/regulation/3) revoked (1.10.2008) by [The Social Security (Incapacity) (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/375)](https://www.legislation.gov.uk/nisr/2008/375), [regs. 1](https://www.legislation.gov.uk/nisr/2008/375/regulation/1), [5](https://www.legislation.gov.uk/nisr/2008/375/regulation/5)
 
-[^key-cefe784651a386902b53df3326e2629f]: Commencement: Reg. 4(1)-(11)(12)(c)(13)(a) in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/1)
+[^c-cefe784651a386902b53df3326e2629f]: Commencement: Reg. 4(1)-(11)(12)(c)(13)(a) in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/1)
 
-[^key-aeee91ecb04d603f45cc85686512bc6e]: Commencement: [Reg. 4(12)(a)](https://www.legislation.gov.uk/nisr/2007/396/regulation/4/12/a) in operation at 7.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/2)
+[^c-aeee91ecb04d603f45cc85686512bc6e]: Commencement: [Reg. 4(12)(a)](https://www.legislation.gov.uk/nisr/2007/396/regulation/4/12/a) in operation at 7.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/2)
 
-[^key-b97c044fab67f3b519f3342fc6ab5aa6]: Commencement: [Reg. 4(12)(b)](https://www.legislation.gov.uk/nisr/2007/396/regulation/4/12/b) comes into operation in accordance with reg. 1(3)
+[^c-b97c044fab67f3b519f3342fc6ab5aa6]: Commencement: [Reg. 4(12)(b)](https://www.legislation.gov.uk/nisr/2007/396/regulation/4/12/b) comes into operation in accordance with reg. 1(3)
 
-[^key-50b22b5dbc7299c46e4ef4aa91263cb7]: Commencement: [Reg. 4(13)(b)](https://www.legislation.gov.uk/nisr/2007/396/regulation/4/13/b) in operation at 7.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/2)
+[^c-50b22b5dbc7299c46e4ef4aa91263cb7]: Commencement: [Reg. 4(13)(b)](https://www.legislation.gov.uk/nisr/2007/396/regulation/4/13/b) in operation at 7.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/2)
 
 [^f00015]: Footnote: The definition of “lower rate” was inserted by regulation 4(2) of [S.R. 1992 No. 403](https://www.legislation.gov.uk/nisr/1992/403)
 
@@ -672,27 +672,27 @@ In so far as these Regulations are required, for the purposes of regulations 9 a
 
 [^f00017]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919)
 
-[^key-70b8b0460c50ac783e47fd7488ac2533]: Textual amendment: [Reg. 4(2)(c)](https://www.legislation.gov.uk/nisr/2007/396/regulation/4/2/c) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
+[^c-70b8b0460c50ac783e47fd7488ac2533]: Textual amendment: [Reg. 4(2)(c)](https://www.legislation.gov.uk/nisr/2007/396/regulation/4/2/c) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
 
 [^f00020]: Footnote: Paragraph (5) was amended by regulation 3 of [S.R. 1988 No. 431](https://www.legislation.gov.uk/nisr/1988/431) and regulation 3 of [S.R. 1989 No. 365](https://www.legislation.gov.uk/nisr/1989/365)
 
 [^f00021]: Footnote: Regulation 22A was inserted by regulation 13 of [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199) and paragraph (1) was amended by Article 9(2)(a) of [S.R. 1999 No. 371 (C. 28)](https://www.legislation.gov.uk/nisr/1999/371), regulation 4(2)(a) of [S.R. 2000 No. 4](https://www.legislation.gov.uk/nisr/2000/4) and paragraph 7 of the Schedule to [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132)
 
-[^key-4ea660b7d120fe2943381f72b852f22b]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/nisr/2007/396/regulation/4/5) revoked (14.4.2008) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/112)](https://www.legislation.gov.uk/nisr/2008/112), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/112/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2008/112/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2008/112/schedule)
+[^c-4ea660b7d120fe2943381f72b852f22b]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/nisr/2007/396/regulation/4/5) revoked (14.4.2008) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/112)](https://www.legislation.gov.uk/nisr/2008/112), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/112/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2008/112/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2008/112/schedule)
 
 [^f00023]: Footnote: Regulation 35(1) was amended by regulation 11(a) of [S.R. 1989 No. 365](https://www.legislation.gov.uk/nisr/1989/365)
 
 [^f00024]: Footnote: Paragraph (3) was added by regulation 11(b) of [S.R. 1989 No. 365](https://www.legislation.gov.uk/nisr/1989/365) and sub-paragraph (a) was amended by regulation 4(b) of [S.R. 1997 No. 130](https://www.legislation.gov.uk/nisr/1997/130)
 
-[^key-f10e2ed05afb67c9afc7cfcfe44fb2ba]: Textual amendment: [Reg. 4(6)(b)(ii)](https://www.legislation.gov.uk/nisr/2007/396/regulation/4/6/b/ii) revoked (14.4.2008) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/112)](https://www.legislation.gov.uk/nisr/2008/112), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/112/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2008/112/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2008/112/schedule)
+[^c-f10e2ed05afb67c9afc7cfcfe44fb2ba]: Textual amendment: [Reg. 4(6)(b)(ii)](https://www.legislation.gov.uk/nisr/2007/396/regulation/4/6/b/ii) revoked (14.4.2008) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/112)](https://www.legislation.gov.uk/nisr/2008/112), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/112/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2008/112/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2008/112/schedule)
 
-[^key-544b7b041ecf35b2f1afedcf752d7c03]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/nisr/2007/396/regulation/4/7) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
+[^c-544b7b041ecf35b2f1afedcf752d7c03]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/nisr/2007/396/regulation/4/7) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
 
-[^key-464446d24bcfc92f39bd84216e424b8b]: Textual amendment: [Reg. 4(8)](https://www.legislation.gov.uk/nisr/2007/396/regulation/4/8) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
+[^c-464446d24bcfc92f39bd84216e424b8b]: Textual amendment: [Reg. 4(8)](https://www.legislation.gov.uk/nisr/2007/396/regulation/4/8) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
 
 [^f00027]: Footnote: Paragraph (6A) was inserted by regulation 2(2)(b) and amended by regulation 2(2)(c) of [S.R. 1999 No. 390](https://www.legislation.gov.uk/nisr/1999/390) and sub-paragraph (c) was amended by regulation 4(2)(a) of [S.R. 2004 No. 389](https://www.legislation.gov.uk/nisr/2004/389)
 
-[^key-de3402ee4bebe84a0daee3449260efbc]: Textual amendment: [Reg. 4(9)(c)](https://www.legislation.gov.uk/nisr/2007/396/regulation/4/9/c) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
+[^c-de3402ee4bebe84a0daee3449260efbc]: Textual amendment: [Reg. 4(9)(c)](https://www.legislation.gov.uk/nisr/2007/396/regulation/4/9/c) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
 
 [^f00029]: Footnote: Regulation 49 was amended by Article 7(9) of [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472)
 
@@ -714,7 +714,7 @@ In so far as these Regulations are required, for the purposes of regulations 9 a
 
 [^f00038]: Footnote: Paragraph 56 was substituted by regulation 5(4) of [S.R. 2004 No. 300](https://www.legislation.gov.uk/nisr/2004/300)
 
-[^key-c872bcb80e734e2b1446379f935af196]: Commencement: Reg. 5 in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/1)
+[^c-c872bcb80e734e2b1446379f935af196]: Commencement: Reg. 5 in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/1)
 
 [^f00039]: Footnote: [S.R. 1994 No. 461](https://www.legislation.gov.uk/nisr/1994/461); relevant amending Regulations are [S.R. 2000 No. 404](https://www.legislation.gov.uk/nisr/2000/404) and [S.R. 2006 No. 359](https://www.legislation.gov.uk/nisr/2006/359)
 
@@ -726,37 +726,37 @@ In so far as these Regulations are required, for the purposes of regulations 9 a
 
 [^f00043]: Footnote: *See* regulation 7 as amended by regulation 2(2) of [S.R. 1978 No. 77](https://www.legislation.gov.uk/nisr/1978/77), regulation 5 of [S.R. 1978 No. 153](https://www.legislation.gov.uk/nisr/1978/153), regulation 2 of [S.R. 1988 No. 298](https://www.legislation.gov.uk/nisr/1988/298) and regulation 2 of [S.R. 1989 No. 368](https://www.legislation.gov.uk/nisr/1989/368), regulation 8B as inserted by regulation 2(6) of [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430) and amended by regulation 3 of [S.R. 2000 No. 404](https://www.legislation.gov.uk/nisr/2000/404), regulation 2(2) of [S.R. 2003 No. 151](https://www.legislation.gov.uk/nisr/2003/151) and regulation 2(3) of [S.R. 2007 No. 306](https://www.legislation.gov.uk/nisr/2007/306) and regulation 9 as in operation before the amendments by [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430)
 
-[^key-9f214c47b356aebeef852417abff6914]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/nisr/2007/396/regulation/5/3) revoked (1.10.2008) by [The Social Security (Incapacity) (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/375)](https://www.legislation.gov.uk/nisr/2008/375), [regs. 1](https://www.legislation.gov.uk/nisr/2008/375/regulation/1), [5](https://www.legislation.gov.uk/nisr/2008/375/regulation/5)
+[^c-9f214c47b356aebeef852417abff6914]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/nisr/2007/396/regulation/5/3) revoked (1.10.2008) by [The Social Security (Incapacity) (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/375)](https://www.legislation.gov.uk/nisr/2008/375), [regs. 1](https://www.legislation.gov.uk/nisr/2008/375/regulation/1), [5](https://www.legislation.gov.uk/nisr/2008/375/regulation/5)
 
-[^key-7c32928a5fa025c0f20c457d1ad850d5]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/396/regulation/6) revoked (1.10.2008) by [The Social Security (Incapacity) (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/375)](https://www.legislation.gov.uk/nisr/2008/375), [regs. 1](https://www.legislation.gov.uk/nisr/2008/375/regulation/1), [5](https://www.legislation.gov.uk/nisr/2008/375/regulation/5)
+[^c-7c32928a5fa025c0f20c457d1ad850d5]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/396/regulation/6) revoked (1.10.2008) by [The Social Security (Incapacity) (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/375)](https://www.legislation.gov.uk/nisr/2008/375), [regs. 1](https://www.legislation.gov.uk/nisr/2008/375/regulation/1), [5](https://www.legislation.gov.uk/nisr/2008/375/regulation/5)
 
-[^key-bde89d777b83500de4b4ac2eb6c54df5]: Commencement: [Reg. 7(14)(a)](https://www.legislation.gov.uk/nisr/2007/396/regulation/7/14/a) in operation at 7.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/2)
+[^c-bde89d777b83500de4b4ac2eb6c54df5]: Commencement: [Reg. 7(14)(a)](https://www.legislation.gov.uk/nisr/2007/396/regulation/7/14/a) in operation at 7.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/2)
 
-[^key-b6563328c474e5d6992f4ddf698fda19]: Commencement: [Reg. 7(14)(b)](https://www.legislation.gov.uk/nisr/2007/396/regulation/7/14/b) comes into operation in accordance with reg. 1(3)
+[^c-b6563328c474e5d6992f4ddf698fda19]: Commencement: [Reg. 7(14)(b)](https://www.legislation.gov.uk/nisr/2007/396/regulation/7/14/b) comes into operation in accordance with reg. 1(3)
 
-[^key-db2ac8e0a9d0f4320dc9b1cd1f2a2cf5]: Commencement: [Reg. 7(15)(b)](https://www.legislation.gov.uk/nisr/2007/396/regulation/7/15/b) in operation at 7.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/2)
+[^c-db2ac8e0a9d0f4320dc9b1cd1f2a2cf5]: Commencement: [Reg. 7(15)(b)](https://www.legislation.gov.uk/nisr/2007/396/regulation/7/15/b) in operation at 7.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/2)
 
-[^key-2c999861de0179958c49de88b509b8b1]: Commencement: [Reg. 7(1)-(13)](https://www.legislation.gov.uk/nisr/2007/396/regulation/7/1), [(14)(c)](https://www.legislation.gov.uk/nisr/2007/396/regulation/7/14/c)[(15)(a)](https://www.legislation.gov.uk/nisr/2007/396/regulation/7/15/a) in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/1)
+[^c-2c999861de0179958c49de88b509b8b1]: Commencement: [Reg. 7(1)-(13)](https://www.legislation.gov.uk/nisr/2007/396/regulation/7/1), [(14)(c)](https://www.legislation.gov.uk/nisr/2007/396/regulation/7/14/c)[(15)(a)](https://www.legislation.gov.uk/nisr/2007/396/regulation/7/15/a) in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/1)
 
 [^f00046]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919)
 
-[^key-9fd6c530ed95d43a20f6b3262bdfa6b4]: Textual amendment: [Reg. 7(2)(c)](https://www.legislation.gov.uk/nisr/2007/396/regulation/7/2/c) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
+[^c-9fd6c530ed95d43a20f6b3262bdfa6b4]: Textual amendment: [Reg. 7(2)(c)](https://www.legislation.gov.uk/nisr/2007/396/regulation/7/2/c) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
 
 [^f00048]: Footnote: Sub paragraph (c) was added by regulation 4(b) of [S.R. 1996 No. 356](https://www.legislation.gov.uk/nisr/1996/356)
 
 [^f00049]: Footnote: Sub-paragraphs (f) and (ff) were substituted by regulation 22(2) of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358)
 
-[^key-65f95695574aef2de2d73373f6d0c47b]: Textual amendment: [Reg. 7(8)](https://www.legislation.gov.uk/nisr/2007/396/regulation/7/8) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
+[^c-65f95695574aef2de2d73373f6d0c47b]: Textual amendment: [Reg. 7(8)](https://www.legislation.gov.uk/nisr/2007/396/regulation/7/8) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
 
-[^key-6898da1768e5dbab76992982069f1ba0]: Textual amendment: [Reg. 7(9)](https://www.legislation.gov.uk/nisr/2007/396/regulation/7/9) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
+[^c-6898da1768e5dbab76992982069f1ba0]: Textual amendment: [Reg. 7(9)](https://www.legislation.gov.uk/nisr/2007/396/regulation/7/9) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
 
 [^f00052]: Footnote: Paragraph 13A was inserted by regulation 8(b) of [S.R. 2000 No. 109](https://www.legislation.gov.uk/nisr/2000/109) and amended by regulation 6(b) of [S.R. 2001 No. 151](https://www.legislation.gov.uk/nisr/2001/151)
 
-[^key-425c5f9d29ef969769ca8424b9b9b5c0]: Textual amendment: [Reg. 7(10)(b)](https://www.legislation.gov.uk/nisr/2007/396/regulation/7/10/b) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
+[^c-425c5f9d29ef969769ca8424b9b9b5c0]: Textual amendment: [Reg. 7(10)(b)](https://www.legislation.gov.uk/nisr/2007/396/regulation/7/10/b) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
 
 [^f00054]: Footnote: Regulation 111 was amended by Article 9(8)(d) of [S.R. 1999 No. 428 (C. 32)](https://www.legislation.gov.uk/nisr/1999/428)
 
-[^key-659c9bd92f9bb7a967df3131df66a3a3]: Textual amendment: [Reg. 7(12)](https://www.legislation.gov.uk/nisr/2007/396/regulation/7/12) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
+[^c-659c9bd92f9bb7a967df3131df66a3a3]: Textual amendment: [Reg. 7(12)](https://www.legislation.gov.uk/nisr/2007/396/regulation/7/12) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
 
 [^f00055]: Footnote: Paragraph 1 was amended by regulation 18(a) and (b) of [S.R. 1996 No. 356](https://www.legislation.gov.uk/nisr/1996/356) and regulation 31(2) of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358)
 
@@ -768,7 +768,7 @@ In so far as these Regulations are required, for the purposes of regulations 9 a
 
 [^f00059]: Footnote: Paragraph 50 was substituted by regulation 6(5) of [S.R. 2004 No. 300](https://www.legislation.gov.uk/nisr/2004/300)
 
-[^key-0b563b9c8a08086d85faa5cc8c3abe12]: Commencement: Reg. 8 in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/1)
+[^c-0b563b9c8a08086d85faa5cc8c3abe12]: Commencement: Reg. 8 in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/1)
 
 [^f00060]: Footnote: [S.R. 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28); relevant amending Regulations are [S.R. 2006 No. 359](https://www.legislation.gov.uk/nisr/2006/359)
 
@@ -776,25 +776,25 @@ In so far as these Regulations are required, for the purposes of regulations 9 a
 
 [^f00062]: Footnote: [S.R. 1979 No. 242](https://www.legislation.gov.uk/nisr/1979/242)
 
-[^key-69d06dcf355489ad931bbde6161bf2ea]: Commencement: Reg. 9(1)-(11)(12)(c)(13)(a) in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/1)
+[^c-69d06dcf355489ad931bbde6161bf2ea]: Commencement: Reg. 9(1)-(11)(12)(c)(13)(a) in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/1)
 
-[^key-d16d676b2d0d762010e2a8eceabfd905]: Commencement: [Reg. 9(12)(a)](https://www.legislation.gov.uk/nisr/2007/396/regulation/9/12/a) in operation at 7.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/2)
+[^c-d16d676b2d0d762010e2a8eceabfd905]: Commencement: [Reg. 9(12)(a)](https://www.legislation.gov.uk/nisr/2007/396/regulation/9/12/a) in operation at 7.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/2)
 
-[^key-a1123b22987c20c930ee901bd4630475]: Commencement: [Reg. 9(12)(b)](https://www.legislation.gov.uk/nisr/2007/396/regulation/9/12/b) in operation at 1.4.2008 in so far as not already in operation, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/4)
+[^c-a1123b22987c20c930ee901bd4630475]: Commencement: [Reg. 9(12)(b)](https://www.legislation.gov.uk/nisr/2007/396/regulation/9/12/b) in operation at 1.4.2008 in so far as not already in operation, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/4)
 
-[^key-10c1a0832a9d5fa36d81403f79898ca4]: Commencement: [Reg. 9(12)(b)](https://www.legislation.gov.uk/nisr/2007/396/regulation/9/12/b) in operation at 7.4.2008 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/4)
+[^c-10c1a0832a9d5fa36d81403f79898ca4]: Commencement: [Reg. 9(12)(b)](https://www.legislation.gov.uk/nisr/2007/396/regulation/9/12/b) in operation at 7.4.2008 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/4)
 
-[^key-851e56a2ecd461c753e6388d9d8a6f71]: Commencement: [Reg. 9(13)(b)](https://www.legislation.gov.uk/nisr/2007/396/regulation/9/13/b) in operation at 7.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/2)
+[^c-851e56a2ecd461c753e6388d9d8a6f71]: Commencement: [Reg. 9(13)(b)](https://www.legislation.gov.uk/nisr/2007/396/regulation/9/13/b) in operation at 7.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/2)
 
 [^f00063]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405); relevant amending Rule is [S.R. 2007 No. 153](https://www.legislation.gov.uk/nisr/2007/153)
 
-[^key-65c843a05f30b6c0b6f191fd66ae52cd]: Textual amendment: [Reg. 9(2)(b)](https://www.legislation.gov.uk/nisr/2007/396/regulation/9/2/b) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
+[^c-65c843a05f30b6c0b6f191fd66ae52cd]: Textual amendment: [Reg. 9(2)(b)](https://www.legislation.gov.uk/nisr/2007/396/regulation/9/2/b) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
 
-[^key-5ef7ccbf92e9109794cc13e6f7a43545]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/nisr/2007/396/regulation/9/5) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
+[^c-5ef7ccbf92e9109794cc13e6f7a43545]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/nisr/2007/396/regulation/9/5) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
 
-[^key-2e6c4c8450a1cba7a2303b1274ebae3c]: Textual amendment: [Reg. 9(6)](https://www.legislation.gov.uk/nisr/2007/396/regulation/9/6) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
+[^c-2e6c4c8450a1cba7a2303b1274ebae3c]: Textual amendment: [Reg. 9(6)](https://www.legislation.gov.uk/nisr/2007/396/regulation/9/6) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
 
-[^key-536a471c4c537b5695791207fdebe1d2]: Textual amendment: [Reg. 9(7)(c)](https://www.legislation.gov.uk/nisr/2007/396/regulation/9/7/c) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
+[^c-536a471c4c537b5695791207fdebe1d2]: Textual amendment: [Reg. 9(7)(c)](https://www.legislation.gov.uk/nisr/2007/396/regulation/9/7/c) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
 
 [^f00065]: Footnote: The amount in paragraph 20(1) was amended by Schedule 7 to [S.R. 2007 No. 153](https://www.legislation.gov.uk/nisr/2007/153)
 
@@ -806,16 +806,16 @@ In so far as these Regulations are required, for the purposes of regulations 9 a
 
 [^f00069]: Footnote: [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157); Article 30A was inserted by Article 14 of the Rates (Amendment) (Northern Ireland) Order 2006 ([S.I. 2006/2954 (N.I. 18)](https://www.legislation.gov.uk/nisi/2006/2954))
 
-[^key-4bcfc40bcc1cbda28343b7f4f6ef41ae]: Commencement: Reg. 10 in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/1)
+[^c-4bcfc40bcc1cbda28343b7f4f6ef41ae]: Commencement: Reg. 10 in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/1)
 
 [^f00070]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406) to which there are amendments not relevant to these Regulations
 
-[^key-301590d88a2d1a4d1e0c5a1ce7dd2d45]: Textual amendment: [Reg. 10(2)(b)](https://www.legislation.gov.uk/nisr/2007/396/regulation/10/2/b) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
+[^c-301590d88a2d1a4d1e0c5a1ce7dd2d45]: Textual amendment: [Reg. 10(2)(b)](https://www.legislation.gov.uk/nisr/2007/396/regulation/10/2/b) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
 
-[^key-00ce8ed5df2b77d7c744787b1c962144]: Textual amendment: [Reg. 10(4)](https://www.legislation.gov.uk/nisr/2007/396/regulation/10/4) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
+[^c-00ce8ed5df2b77d7c744787b1c962144]: Textual amendment: [Reg. 10(4)](https://www.legislation.gov.uk/nisr/2007/396/regulation/10/4) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
 
-[^key-f992362c00d5f77baab328bd1bd5e04d]: Textual amendment: [Reg. 10(5)](https://www.legislation.gov.uk/nisr/2007/396/regulation/10/5) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
+[^c-f992362c00d5f77baab328bd1bd5e04d]: Textual amendment: [Reg. 10(5)](https://www.legislation.gov.uk/nisr/2007/396/regulation/10/5) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
 
-[^key-4e490b8cb0dea16765956c745b450cb3]: Commencement: Reg. 11 in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/1)
+[^c-4e490b8cb0dea16765956c745b450cb3]: Commencement: Reg. 11 in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/1)
 
-[^key-4bcac2fe77c9f1712a20d4aaa9a30da2]: Commencement: Sch. in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/1)
+[^c-4bcac2fe77c9f1712a20d4aaa9a30da2]: Commencement: Sch. in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Evidence of proceedings at meetings[^key-ecc450af16d83924160e0984575266a7]
+## 90. Evidence of proceedings at meetings[^c-ecc450af16d83924160e0984575266a7]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A report of proceedings at a meeting of the company or of the creditors in a pos
 
 ## Annotations
 
-[^key-ecc450af16d83924160e0984575266a7]: Commencement: Rule 90 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-ecc450af16d83924160e0984575266a7]: Commencement: Rule 90 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

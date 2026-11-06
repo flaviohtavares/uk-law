@@ -32,7 +32,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES, ENGLAND
 
-The European Regional Development Fund (East of England Operational Programme) (Implementation) Regulations 2007 (revoked)[^key-0198fc2b7ad8c5d1d01d880093ce1703]
+The European Regional Development Fund (East of England Operational Programme) (Implementation) Regulations 2007 (revoked)[^c-0198fc2b7ad8c5d1d01d880093ce1703]
 
 Made
 
@@ -46,52 +46,52 @@ Coming into force
 
 31st January 2008
 
-[^key-0198fc2b7ad8c5d1d01d880093ce1703]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0198fc2b7ad8c5d1d01d880093ce1703]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-0198fc2b7ad8c5d1d01d880093ce1703]
+## 1. Title, commencement and application[^c-0198fc2b7ad8c5d1d01d880093ce1703]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-0198fc2b7ad8c5d1d01d880093ce1703]
+## 2. Interpretation[^c-0198fc2b7ad8c5d1d01d880093ce1703]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation of intermediate body[^key-0198fc2b7ad8c5d1d01d880093ce1703]
+## 3. Designation of intermediate body[^c-0198fc2b7ad8c5d1d01d880093ce1703]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. General duties of intermediate body[^key-0198fc2b7ad8c5d1d01d880093ce1703]
+## 4. General duties of intermediate body[^c-0198fc2b7ad8c5d1d01d880093ce1703]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Power to guide and direct the Agency[^key-0198fc2b7ad8c5d1d01d880093ce1703]
+## 5. Power to guide and direct the Agency[^c-0198fc2b7ad8c5d1d01d880093ce1703]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Statement of accounts[^key-0198fc2b7ad8c5d1d01d880093ce1703]
+## 6. Statement of accounts[^c-0198fc2b7ad8c5d1d01d880093ce1703]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Global grant bodies[^key-0198fc2b7ad8c5d1d01d880093ce1703]
+## 7. Global grant bodies[^c-0198fc2b7ad8c5d1d01d880093ce1703]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Recovery of sums paid under a commitment[^key-0198fc2b7ad8c5d1d01d880093ce1703]
+## 8. Recovery of sums paid under a commitment[^c-0198fc2b7ad8c5d1d01d880093ce1703]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Provision relating to payment of the contribution from the Fund[^key-0198fc2b7ad8c5d1d01d880093ce1703]
+## 9. Provision relating to payment of the contribution from the Fund[^c-0198fc2b7ad8c5d1d01d880093ce1703]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0198fc2b7ad8c5d1d01d880093ce1703]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0198fc2b7ad8c5d1d01d880093ce1703]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0198fc2b7ad8c5d1d01d880093ce1703]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0198fc2b7ad8c5d1d01d880093ce1703]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0198fc2b7ad8c5d1d01d880093ce1703]: Textual amendment: Regulations revoked (1.7.2011) by [The European Regional Development Fund (Operational Programmes) Regulations 2011 (S.I. 2011/1398)](https://www.legislation.gov.uk/uksi/2011/1398), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1398/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2011/1398/schedule) (with [reg. 7](https://www.legislation.gov.uk/uksi/2011/1398/regulation/7))
+[^c-0198fc2b7ad8c5d1d01d880093ce1703]: Textual amendment: Regulations revoked (1.7.2011) by [The European Regional Development Fund (Operational Programmes) Regulations 2011 (S.I. 2011/1398)](https://www.legislation.gov.uk/uksi/2011/1398), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1398/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2011/1398/schedule) (with [reg. 7](https://www.legislation.gov.uk/uksi/2011/1398/regulation/7))

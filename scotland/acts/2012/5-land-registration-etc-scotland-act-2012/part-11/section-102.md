@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 102. Note of date on which entry in register is made[^key-c205d827cbf86237718959dd0b81cbe9]
+## 102. Note of date on which entry in register is made[^c-c205d827cbf86237718959dd0b81cbe9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ When an entry is made in the register there is to be included in that entry the 
 
 ## Annotations
 
-[^key-c205d827cbf86237718959dd0b81cbe9]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2012/5/section/102) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-c205d827cbf86237718959dd0b81cbe9]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2012/5/section/102) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

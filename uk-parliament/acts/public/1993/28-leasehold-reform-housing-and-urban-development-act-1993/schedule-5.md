@@ -32,7 +32,7 @@ Sections 24 and 25.
 
 **2.** (1) Where any interests are to be vested in the nominee purchaser by virtue of a vesting order, then on his paying into court the appropriate sum in respect of each of those interests there shall be executed by such person as the court may designate a conveyance which—
 
-- (a) is in a form approved by the appropriate tribunal[^key-0bba8c0728eb092c7778b6f50f3dd457], and
+- (a) is in a form approved by the appropriate tribunal[^c-0bba8c0728eb092c7778b6f50f3dd457], and
 - (b) contains such provisions as may be so approved for the purpose of giving effect to the relevant terms of acquisition.
 
 (2) The conveyance shall be effective to vest in the nominee purchaser the interests expressed to be conveyed, subject to and in accordance with the terms of the conveyance.
@@ -42,7 +42,7 @@ Sections 24 and 25.
 **3.** (1) In the case of any vesting order, the appropriate sum which in accordance with paragraph 2(1) is to be paid into court in respect of any interest is the aggregate of—
 
 - (a) such amount as is fixed by the relevant terms of acquisition as the price which is payable in accordance with Schedule 6 in respect of that interest; and
-- (b) any amounts or estimated amounts determined by the appropriate tribunal[^key-d943f149f045699539f4322e5ca0a44e] as being, at the time of execution of the conveyance, due to the transferor from any tenants of his of premises comprised in the premises in which that interest subsists (whether due under or in respect of their leases or under or in respect of agreements collateral thereto).
+- (b) any amounts or estimated amounts determined by the appropriate tribunal[^c-d943f149f045699539f4322e5ca0a44e] as being, at the time of execution of the conveyance, due to the transferor from any tenants of his of premises comprised in the premises in which that interest subsists (whether due under or in respect of their leases or under or in respect of agreements collateral thereto).
 
 (2) In this paragraph “**the transferor**”, in relation to any interest, means the person from whom the interest is to be acquired by the nominee purchaser.
 
@@ -74,6 +74,6 @@ Sections 24 and 25.
 
 [^c17027731]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/1993/28/schedule/5) wholly in force at 1.11.1993 see [s. 188(2)](https://www.legislation.gov.uk/ukpga/1993/28/section/188/2) and [S.I. 1993/2134](https://www.legislation.gov.uk/uksi/1993/2134), [art. 5](https://www.legislation.gov.uk/uksi/1993/2134/article/5)
 
-[^key-0bba8c0728eb092c7778b6f50f3dd457]: Textual amendment: Words in Sch. 5 para. 2(1)(a) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 125](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/125) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-0bba8c0728eb092c7778b6f50f3dd457]: Textual amendment: Words in Sch. 5 para. 2(1)(a) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 125](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/125) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-d943f149f045699539f4322e5ca0a44e]: Textual amendment: Words in [Sch. 5 para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/5/paragraph/3/1/b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 125](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/125) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-d943f149f045699539f4322e5ca0a44e]: Textual amendment: Words in [Sch. 5 para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/5/paragraph/3/1/b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 125](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/125) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

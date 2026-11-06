@@ -26,14 +26,14 @@ summary: ''
   - (a) has been called to the Bar by an Inn of Court, and
   - (b) is not disbarred by order of an Inn of Court;
 
-  “the CMA” means the Competition and Markets Authority; *(Extent: E+W)*[^key-8f051246b05fadeaf58cdb2ce1cea900]
+  “the CMA” means the Competition and Markets Authority; *(Extent: E+W)*[^c-8f051246b05fadeaf58cdb2ce1cea900]
 - “**consumers**” means (subject to subsection (3)) persons—
   - (a) who use, have used or are or may be contemplating using, services within subsection (2),
   - (b) who have rights or interests which are derived from, or are otherwise attributable to, the use of such services by other persons, or
   - (c) who have rights or interests which may be adversely affected by the use of such services by persons acting on their behalf or in a fiduciary capacity in relation to them;
 - “**conveyancing services**” has the same meaning as in Part 2 of the Administration of Justice Act 1985 (c. 61) (licensed conveyancing) (see section 11(3) of that Act);
 - “**court**” includes—
-  - (a) a tribunal that was[^key-82252fe119da30dc3f2baa5841217541] (to any extent) a listed tribunal for, or for any of, the purposes of Schedule 7 to the Tribunals, Courts and Enforcement Act 2007 (functions etc of Administrative Justice and Tribunals Council);immediately before the coming into force of the repeal of that Schedule[^key-fe0ef1a68455d0243860c34f03a76e93]
+  - (a) a tribunal that was[^c-82252fe119da30dc3f2baa5841217541] (to any extent) a listed tribunal for, or for any of, the purposes of Schedule 7 to the Tribunals, Courts and Enforcement Act 2007 (functions etc of Administrative Justice and Tribunals Council);immediately before the coming into force of the repeal of that Schedule[^c-fe0ef1a68455d0243860c34f03a76e93]
   - (b) a court-martial;
   - (c) a statutory inquiry within the meaning of section 16(1) of the Tribunals and Inquiries Act 1992 (c. 53);
   - (d) an ecclesiastical court (including the Court of Faculties);
@@ -52,7 +52,7 @@ summary: ''
 - “**not for profit body**” means a body which, by or by virtue of its constitution or any enactment—
   - (a) is required (after payment of outgoings) to apply the whole of its income, and any capital which it expends, for charitable or public purposes, and
   - (b) is prohibited from directly or indirectly distributing amongst its members any part of its assets (otherwise than for charitable or public purposes);
-- “ *(Extent: E+W)* *(affected by repeal, see note)*[^key-db3c43b432928c2865dcf742ba65f3d1] **the *(Extent: E+W)* *(affected by repeal, see note)*[^key-db3c43b432928c2865dcf742ba65f3d1] OFT *(Extent: E+W)* *(affected by repeal, see note)*[^key-db3c43b432928c2865dcf742ba65f3d1]** ” means the Office of Fair Trading; *(Extent: E+W)* *(affected by repeal, see note)*[^key-db3c43b432928c2865dcf742ba65f3d1]
+- “ *(Extent: E+W)* *(affected by repeal, see note)*[^c-db3c43b432928c2865dcf742ba65f3d1] **the *(Extent: E+W)* *(affected by repeal, see note)*[^c-db3c43b432928c2865dcf742ba65f3d1] OFT *(Extent: E+W)* *(affected by repeal, see note)*[^c-db3c43b432928c2865dcf742ba65f3d1]** ” means the Office of Fair Trading; *(Extent: E+W)* *(affected by repeal, see note)*[^c-db3c43b432928c2865dcf742ba65f3d1]
 - “**person**” includes a body of persons (corporate or unincorporate);
 - “**reserved legal services**” means services provided by a person which consist of or include reserved legal activities carried on by, or on behalf of, that person;
 - “**solicitor**” means solicitor of the Senior Courts.
@@ -87,10 +87,10 @@ summary: ''
 
 [^c20062841]: Modification: S. 207 modified (temp.) (7.3.2008) by [The Legal Services Act 2007 (Commencement No.1 and Transitory Provisions) Order 2008 (S.I. 2008/222)](https://www.legislation.gov.uk/uksi/2008/222), [art. 7(1)](https://www.legislation.gov.uk/uksi/2008/222/article/7/1)
 
-[^key-8f051246b05fadeaf58cdb2ce1cea900]: Textual amendment: Words in s. 207(1) inserted (E.W.) (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 116(a)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/116/a); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-8f051246b05fadeaf58cdb2ce1cea900]: Textual amendment: Words in s. 207(1) inserted (E.W.) (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 116(a)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/116/a); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-82252fe119da30dc3f2baa5841217541]: Textual amendment: Word in s. 207 substituted (19.9.2013) by [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 39(a)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/39/a)
+[^c-82252fe119da30dc3f2baa5841217541]: Textual amendment: Word in s. 207 substituted (19.9.2013) by [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 39(a)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/39/a)
 
-[^key-fe0ef1a68455d0243860c34f03a76e93]: Textual amendment: Words in s. 207 inserted (19.9.2013) by [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 39(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/39/b)
+[^c-fe0ef1a68455d0243860c34f03a76e93]: Textual amendment: Words in s. 207 inserted (19.9.2013) by [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 39(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/39/b)
 
-[^key-db3c43b432928c2865dcf742ba65f3d1]: Textual amendment: Words in s. 207(1) omitted (E.W.) (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 116(b)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/116/b); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-db3c43b432928c2865dcf742ba65f3d1]: Textual amendment: Words in s. 207(1) omitted (E.W.) (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 116(b)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/116/b); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

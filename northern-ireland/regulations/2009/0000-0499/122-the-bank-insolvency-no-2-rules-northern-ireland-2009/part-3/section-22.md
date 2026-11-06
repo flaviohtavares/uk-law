@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Order of appointment[^key-f7a73d8b0eb5f8dd7a8938c6e69c07f6]
+## 22. Order of appointment[^c-f7a73d8b0eb5f8dd7a8938c6e69c07f6]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7a73d8b0eb5f8dd7a8938c6e69c07f6]: Commencement: Rule 22 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-f7a73d8b0eb5f8dd7a8938c6e69c07f6]: Commencement: Rule 22 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

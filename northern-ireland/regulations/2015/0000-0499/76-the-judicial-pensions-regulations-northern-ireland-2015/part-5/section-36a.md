@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36A. Purported transfer value payment[^key-8ca82d6f0d596b3b8ce9803e904778c1]
+## 36A. Purported transfer value payment[^c-8ca82d6f0d596b3b8ce9803e904778c1]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ In this Chapter, “**purported transfer value payment**” means a payment—
 
 ## Annotations
 
-[^key-8ca82d6f0d596b3b8ce9803e904778c1]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/nisr/2015/76/regulation/36A) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [2(3)](https://www.legislation.gov.uk/nisr/2024/106/regulation/2/3)
+[^c-8ca82d6f0d596b3b8ce9803e904778c1]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/nisr/2015/76/regulation/36A) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [2(3)](https://www.legislation.gov.uk/nisr/2024/106/regulation/2/3)

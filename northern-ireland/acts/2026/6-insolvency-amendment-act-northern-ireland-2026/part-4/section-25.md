@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Progress report to company[^key-03ea17aa270096b218461b9281421d54]
+## 25. Progress report to company[^c-03ea17aa270096b218461b9281421d54]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In Article 79 as substituted by section 3(1) of the Insolvency (Amendment) Act (
 
 ## Annotations
 
-[^key-03ea17aa270096b218461b9281421d54]: Commencement: S. 25 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-03ea17aa270096b218461b9281421d54]: Commencement: S. 25 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

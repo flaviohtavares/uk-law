@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Application for authorisation[^c24459381][^key-52129a59b9a4710c2c8ebcd2a02fd39a]
+## 59. Application for authorisation[^c24459381][^c-52129a59b9a4710c2c8ebcd2a02fd39a]
 
 *Extent: N.I.*
 
@@ -26,15 +26,15 @@ summary: ''
 
 (3) An application must include—
 
-- (a) the scheme's viability report and viability certificate (see section 64), [^key-88e83eaa305b85d6ea887dcb20426b91]...
-- (aa)[^key-4f99df8036d8a2bde01ba08f21943c5d] where the scheme is an unconnected multiple employer scheme—
+- (a) the scheme's viability report and viability certificate (see section 64), [^c-88e83eaa305b85d6ea887dcb20426b91]...
+- (aa)[^c-4f99df8036d8a2bde01ba08f21943c5d] where the scheme is an unconnected multiple employer scheme—
   - (i) the scheme’s business plan (see section 65A);
   - (ii) the scheme’s latest accounts (if any);
   - (iii) the latest accounts (if any) of the scheme proprietor (see section 65B), prepared and audited as individual accounts in accordance with the applicable requirements, and
   - (iv) the latest accounts of any undertaking, other than an unincorporated association, that partly or wholly funds the scheme proprietor, prepared and audited as individual accounts in accordance with the applicable requirements, and
 - (b) the scheme's continuity strategy (see section 68).
 
-(3A)[^key-6acdf29a9c709914b1b18b80e9648fd1] For the purposes of subsection (3)(aa)(iii) and (iv) accounts of a scheme proprietor or (as the case may be) an undertaking are prepared and audited as individual accounts in accordance with the applicable requirements if the accounts are prepared and audited in accordance with the requirements of the law by which the scheme proprietor or the undertaking is governed, ignoring any provision of that law—
+(3A)[^c-6acdf29a9c709914b1b18b80e9648fd1] For the purposes of subsection (3)(aa)(iii) and (iv) accounts of a scheme proprietor or (as the case may be) an undertaking are prepared and audited as individual accounts in accordance with the applicable requirements if the accounts are prepared and audited in accordance with the requirements of the law by which the scheme proprietor or the undertaking is governed, ignoring any provision of that law—
 
 - (a) that relates to the preparation or audit of group accounts;
 - (b) that provides for accounts to be prepared or audited differently (or not at all) if the scheme proprietor or the undertaking—
@@ -64,10 +64,10 @@ summary: ''
 
 [^c24459381]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2021/1/section/59) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-52129a59b9a4710c2c8ebcd2a02fd39a]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2021/1/section/59) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-52129a59b9a4710c2c8ebcd2a02fd39a]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2021/1/section/59) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
 
-[^key-88e83eaa305b85d6ea887dcb20426b91]: Textual amendment: Word in [s. 59(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/59/3/a) omitted (31.7.2026) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2026/151/regulation/4/a)
+[^c-88e83eaa305b85d6ea887dcb20426b91]: Textual amendment: Word in [s. 59(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/59/3/a) omitted (31.7.2026) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2026/151/regulation/4/a)
 
-[^key-4f99df8036d8a2bde01ba08f21943c5d]: Textual amendment: [S. 59(3)(aa)](https://www.legislation.gov.uk/ukpga/2021/1/section/59/3/aa) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [4(b)](https://www.legislation.gov.uk/nisr/2026/151/regulation/4/b)
+[^c-4f99df8036d8a2bde01ba08f21943c5d]: Textual amendment: [S. 59(3)(aa)](https://www.legislation.gov.uk/ukpga/2021/1/section/59/3/aa) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [4(b)](https://www.legislation.gov.uk/nisr/2026/151/regulation/4/b)
 
-[^key-6acdf29a9c709914b1b18b80e9648fd1]: Textual amendment: [S. 59(3A)-(3C)](https://www.legislation.gov.uk/ukpga/2021/1/section/59/3A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [4(c)](https://www.legislation.gov.uk/nisr/2026/151/regulation/4/c)
+[^c-6acdf29a9c709914b1b18b80e9648fd1]: Textual amendment: [S. 59(3A)-(3C)](https://www.legislation.gov.uk/ukpga/2021/1/section/59/3A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [4(c)](https://www.legislation.gov.uk/nisr/2026/151/regulation/4/c)

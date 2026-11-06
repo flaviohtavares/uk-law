@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 255. Provision of other information in connection with support services[^key-e33e9c617f654737cc38f606c3eea841]
+## 255. Provision of other information in connection with support services[^c-e33e9c617f654737cc38f606c3eea841]
 
 *Extent: E+W*
 
 (1) The Education and Skills Act 2008 (c. 25) is amended as follows.
 
-(2)[^key-6a4e2962e0ef59f80fc5147d15af1884] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-6a4e2962e0ef59f80fc5147d15af1884] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After section 76 insert—
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e33e9c617f654737cc38f606c3eea841]: Commencement: S. 255 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-e33e9c617f654737cc38f606c3eea841]: Commencement: S. 255 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-6a4e2962e0ef59f80fc5147d15af1884]: Textual amendment: S. 255(2) omitted (1.9.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 28(6)](https://www.legislation.gov.uk/ukpga/2011/21/section/28/6), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)
+[^c-6a4e2962e0ef59f80fc5147d15af1884]: Textual amendment: S. 255(2) omitted (1.9.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 28(6)](https://www.legislation.gov.uk/ukpga/2011/21/section/28/6), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)

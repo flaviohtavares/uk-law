@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44D. Disciplinary powers of the Society[^c20571551][^c20571491][^key-14638dcadc685a52602da418e20e0d7f][^c19663341]
+## 44D. Disciplinary powers of the Society[^c20571551][^c20571491][^c-14638dcadc685a52602da418e20e0d7f][^c19663341]
 
 *Extent: E+W*
 
@@ -28,9 +28,9 @@ summary: ''
 (2) The Society may do one or both of the following—
 
 - (a) give the person a written rebuke;
-- (b) direct the person to pay a penalty not exceeding £25,000[^key-a1668bb00ef5c355ff2793e2e72243c4].
+- (b) direct the person to pay a penalty not exceeding £25,000[^c-a1668bb00ef5c355ff2793e2e72243c4].
 
-(2A)[^key-c464ffe5910991f7b3ac4cd20a207443] In a case where this subsection applies, subsection (2)(b) has effect as if the words after “**penalty**” (which set a limit on the amount of the penalty a person may be directed to pay) were omitted.
+(2A)[^c-c464ffe5910991f7b3ac4cd20a207443] In a case where this subsection applies, subsection (2)(b) has effect as if the words after “**penalty**” (which set a limit on the amount of the penalty a person may be directed to pay) were omitted.
 
 (2B) Subsection (2A) applies where the Society takes action against a person under subsection (2)(b)—
 
@@ -86,10 +86,10 @@ and the Society may make such other rules in connection with the exercise of its
 
 [^c20571491]: Modification: [S. 44D](https://www.legislation.gov.uk/ukpga/1974/47/section/44D) extended (with modifications) (1.7.2009) by [S.I. 2000/1119](https://www.legislation.gov.uk/uksi/2000/1119), [Sch. 4 para. 7(2)](https://www.legislation.gov.uk/uksi/2000/1119/schedule/4/paragraph/7/2)[Table (as amended by The Legal Services Act 2007 (Registered European Lawyers) Order 2009 (S.I. 2009/1587)](https://www.legislation.gov.uk/uksi/2009/1587), [art. 3(7)(c)](https://www.legislation.gov.uk/uksi/2009/1587/article/3/7/c))
 
-[^key-14638dcadc685a52602da418e20e0d7f]: Modification: [S. 44D](https://www.legislation.gov.uk/ukpga/1974/47/section/44D) applied in part (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2024/1379/regulation/25)
+[^c-14638dcadc685a52602da418e20e0d7f]: Modification: [S. 44D](https://www.legislation.gov.uk/ukpga/1974/47/section/44D) applied in part (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2024/1379/regulation/25)
 
 [^c19663341]: Textual amendment: [Ss. 44D](https://www.legislation.gov.uk/ukpga/1974/47/section/44D), [44E](https://www.legislation.gov.uk/ukpga/1974/47/section/44E) and cross-heading inserted (31.3.2009) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 177](https://www.legislation.gov.uk/ukpga/2007/29/section/177), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 16 para. 46](https://www.legislation.gov.uk/ukpga/2007/29/schedule/16/paragraph/46) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2009/503/article/2/b/i) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2009/503/article/4))
 
-[^key-a1668bb00ef5c355ff2793e2e72243c4]: Textual amendment: Sum in [s. 44D(2)(b)](https://www.legislation.gov.uk/ukpga/1974/47/section/44D/2/b) substituted (20.7.2022) by [The Solicitors Act 1974 and Administration of Justice Act 1985 (Amendment) Order 2022 (S.I. 2022/701)](https://www.legislation.gov.uk/uksi/2022/701), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/701/article/1/1), [2](https://www.legislation.gov.uk/uksi/2022/701/article/2)
+[^c-a1668bb00ef5c355ff2793e2e72243c4]: Textual amendment: Sum in [s. 44D(2)(b)](https://www.legislation.gov.uk/ukpga/1974/47/section/44D/2/b) substituted (20.7.2022) by [The Solicitors Act 1974 and Administration of Justice Act 1985 (Amendment) Order 2022 (S.I. 2022/701)](https://www.legislation.gov.uk/uksi/2022/701), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/701/article/1/1), [2](https://www.legislation.gov.uk/uksi/2022/701/article/2)
 
-[^key-c464ffe5910991f7b3ac4cd20a207443]: Textual amendment: [S. 44D(2A)-(2C)](https://www.legislation.gov.uk/ukpga/1974/47/section/44D/2A) inserted (4.3.2024) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 207(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/207/1), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z61)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z61)
+[^c-c464ffe5910991f7b3ac4cd20a207443]: Textual amendment: [S. 44D(2A)-(2C)](https://www.legislation.gov.uk/ukpga/1974/47/section/44D/2A) inserted (4.3.2024) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 207(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/207/1), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z61)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z61)

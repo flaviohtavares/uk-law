@@ -43,7 +43,7 @@ he shall have a right of appeal to the appropriate Minister against that decisio
 
 (5) The administrators shall be entitled to appear and be heard on any appeal under this section.
 
-(5A)[^key-1026fd4e884d4a457717056e6a713cff] Regulations under subsection (4) are to be made by statutory instrument.
+(5A)[^c-1026fd4e884d4a457717056e6a713cff] Regulations under subsection (4) are to be made by statutory instrument.
 
 (5B) A statutory instrument containing regulations under subsection (4) is subject to annulment in pursuance of a resolution of either House of Parliament.
 
@@ -64,4 +64,4 @@ he shall have a right of appeal to the appropriate Minister against that decisio
 
 [^c20867571]: Textual amendment: Words in s. 32A(3)(b) substituted (5.12.2005) by [The Civil Partnership (Judicial Pensions and Church Pensions, etc.) Order 2005 (S.I. 2005/3325)](https://www.legislation.gov.uk/uksi/2005/3325), [art. 64](https://www.legislation.gov.uk/uksi/2005/3325/article/64)
 
-[^key-1026fd4e884d4a457717056e6a713cff]: Textual amendment: S. 32A(5A)(5B) inserted (3.1.2012) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [s. 38(4)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/4), [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2011/19/schedule/5/paragraph/5); [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(j)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/j)
+[^c-1026fd4e884d4a457717056e6a713cff]: Textual amendment: S. 32A(5A)(5B) inserted (3.1.2012) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [s. 38(4)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/4), [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2011/19/schedule/5/paragraph/5); [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(j)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/j)

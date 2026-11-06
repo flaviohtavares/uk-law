@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Functions which are not to be the sole responsibility of an authority’s executive[^key-dce85ac65ac6949e49fe6159116f79e1]
+## 5. Functions which are not to be the sole responsibility of an authority’s executive[^c-dce85ac65ac6949e49fe6159116f79e1]
 
 *Extent: E+W*
 
@@ -79,7 +79,7 @@ the actions designated by paragraph (11) (“the designated actions”) are the 
 
 ## Annotations
 
-[^key-dce85ac65ac6949e49fe6159116f79e1]: Commencement: Reg. 5 in force at 16.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/399/regulation/1/1)
+[^c-dce85ac65ac6949e49fe6159116f79e1]: Commencement: Reg. 5 in force at 16.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/399/regulation/1/1)
 
 [^f00004]: Footnote: [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), to which there are amendments not relevant to these Regulations.
 

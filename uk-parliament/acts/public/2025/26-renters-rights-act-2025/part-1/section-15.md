@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Landlords etc: financial penalties and offences[^key-1508167969bb9b1a5eb6de8496c9b9d0][^key-b90fc39ac6b4533674b8abc254863fbf]
+## 15. Landlords etc: financial penalties and offences[^c-1508167969bb9b1a5eb6de8496c9b9d0][^c-b90fc39ac6b4533674b8abc254863fbf]
 
 *Extent: E+W*
 
@@ -150,6 +150,6 @@ In [the 1988 Act](https://www.legislation.gov.uk/ukpga/1988/50), after section 1
 
 ## Annotations
 
-[^key-1508167969bb9b1a5eb6de8496c9b9d0]: Commencement: S. 15 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
+[^c-1508167969bb9b1a5eb6de8496c9b9d0]: Commencement: S. 15 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
 
-[^key-b90fc39ac6b4533674b8abc254863fbf]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2025/26/section/15) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-b90fc39ac6b4533674b8abc254863fbf]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2025/26/section/15) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Notice to registrar where company's constitution altered by enactment[^c20615721][^key-bb5d51c1b2cb0762cec0fd899c9c50de]
+## 34. Notice to registrar where company's constitution altered by enactment[^c20615721][^c-bb5d51c1b2cb0762cec0fd899c9c50de]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ the notice must be accompanied by a copy of the company's articles, or the resol
 
 [^c20615721]: Modification: S. 34 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/2) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2))
 
-[^key-bb5d51c1b2cb0762cec0fd899c9c50de]: Modification: S. 34 applied (29.6.2021) by [Diocesan Boards of Education Measure 2021 (No. 1)](https://www.legislation.gov.uk/ukcm/2021/1), [s. 24(3)](https://www.legislation.gov.uk/ukcm/2021/1/section/24/3), [Sch. 1 para. 1(9)](https://www.legislation.gov.uk/ukcm/2021/1/schedule/1/paragraph/1/9) (with [Sch. 2 para. 6](https://www.legislation.gov.uk/ukcm/2021/1/schedule/2/paragraph/6))
+[^c-bb5d51c1b2cb0762cec0fd899c9c50de]: Modification: S. 34 applied (29.6.2021) by [Diocesan Boards of Education Measure 2021 (No. 1)](https://www.legislation.gov.uk/ukcm/2021/1), [s. 24(3)](https://www.legislation.gov.uk/ukcm/2021/1/section/24/3), [Sch. 1 para. 1(9)](https://www.legislation.gov.uk/ukcm/2021/1/schedule/1/paragraph/1/9) (with [Sch. 2 para. 6](https://www.legislation.gov.uk/ukcm/2021/1/schedule/2/paragraph/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 89. Diminution of capital[^key-2a78cc7a5212926fea92cf2a911ba647]
+## 89. Diminution of capital[^c-2a78cc7a5212926fea92cf2a911ba647]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a78cc7a5212926fea92cf2a911ba647]: Commencement: [Reg. 89](https://www.legislation.gov.uk/uksi/1992/1814/regulation/89) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-2a78cc7a5212926fea92cf2a911ba647]: Commencement: [Reg. 89](https://www.legislation.gov.uk/uksi/1992/1814/regulation/89) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

@@ -88,7 +88,7 @@ whichever period first expires; and for the purposes of such proceedings a certi
 
   - (c) the Lord Mayor, Aldermen and citizens of the city of Belfast acting by the council thereof;
   - (d) the Londonderry and Lough Swilly Railway Company;
-  - (e) [^c5445391]any person operating a bus service under a service agreement or service permit under the Transport Act (Northern Ireland) 2011[^key-a00fa737a693349a2f16f84cd4e04564] ;\]
+  - (e) [^c5445391]any person operating a bus service under a service agreement or service permit under the Transport Act (Northern Ireland) 2011[^c-a00fa737a693349a2f16f84cd4e04564] ;\]
 - *Definition rep. by 1984 NI 15*
 
 *S. 15 rep. by 1992 NI 15*
@@ -135,6 +135,6 @@ whichever period first expires; and for the purposes of such proceedings a certi
 
 [^c5445391]: Textual amendment: [1968 c.17 (NI)](https://www.legislation.gov.uk/apni/1968/17)
 
-[^key-a00fa737a693349a2f16f84cd4e04564]: Textual amendment: Words in [s. 14](https://www.legislation.gov.uk/apni/1966/21/section/14) substituted (5.10.2015) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [s. 48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2011/11/schedule/1/paragraph/2); [S.R. 2015/284](https://www.legislation.gov.uk/nisr/2015/284), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/284/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/284/schedule)
+[^c-a00fa737a693349a2f16f84cd4e04564]: Textual amendment: Words in [s. 14](https://www.legislation.gov.uk/apni/1966/21/section/14) substituted (5.10.2015) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [s. 48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2011/11/schedule/1/paragraph/2); [S.R. 2015/284](https://www.legislation.gov.uk/nisr/2015/284), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/284/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/284/schedule)
 
 [^m00004]: Marginal citation: 1891 c.39

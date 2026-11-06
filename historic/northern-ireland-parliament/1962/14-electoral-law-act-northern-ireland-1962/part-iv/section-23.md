@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Remuneration and expenses of Chief Electoral Officer and other persons at local election.[^key-dea84751ff4cc6bd6a2584bec048d9f1]
+## 23. Remuneration and expenses of Chief Electoral Officer and other persons at local election.[^c-dea84751ff4cc6bd6a2584bec048d9f1]
 
 *Extent: N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-dea84751ff4cc6bd6a2584bec048d9f1]: Modification: [S. 23](https://www.legislation.gov.uk/apni/1962/14/section/23) applied (with modifications) (12.12.2013) by [The Local Elections (Northern Ireland) Order 2013 (S.I. 2013/3156)](https://www.legislation.gov.uk/uksi/2013/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3156/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2013/3156/article/5/2)
+[^c-dea84751ff4cc6bd6a2584bec048d9f1]: Modification: [S. 23](https://www.legislation.gov.uk/apni/1962/14/section/23) applied (with modifications) (12.12.2013) by [The Local Elections (Northern Ireland) Order 2013 (S.I. 2013/3156)](https://www.legislation.gov.uk/uksi/2013/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3156/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2013/3156/article/5/2)
 
 [^c18657081]: Textual amendment: [1972 NI 13](https://www.legislation.gov.uk/1972/ni13)
 

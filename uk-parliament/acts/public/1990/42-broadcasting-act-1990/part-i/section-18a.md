@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18A. Section 18: supplementary provision[^key-d1eca94cc60199ba1aa18f3aac169387][^key-b91bba6464e1caf62c189459f781eed4]
+## 18A. Section 18: supplementary provision[^c-d1eca94cc60199ba1aa18f3aac169387][^c-b91bba6464e1caf62c189459f781eed4]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d1eca94cc60199ba1aa18f3aac169387]: Modification: [S. 18A](https://www.legislation.gov.uk/ukpga/1990/42/section/18A) applied (with modifications) (17.10.2024 for specified purposes, 1.1.2026 in so far as not already in force) by [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21), [Sch. 9 para. 8(7)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/9/paragraph/8/7) (as substituted by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 19(6)](https://www.legislation.gov.uk/ukpga/2024/15/section/19/6), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1033/regulation/2); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/q))
+[^c-d1eca94cc60199ba1aa18f3aac169387]: Modification: [S. 18A](https://www.legislation.gov.uk/ukpga/1990/42/section/18A) applied (with modifications) (17.10.2024 for specified purposes, 1.1.2026 in so far as not already in force) by [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21), [Sch. 9 para. 8(7)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/9/paragraph/8/7) (as substituted by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 19(6)](https://www.legislation.gov.uk/ukpga/2024/15/section/19/6), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1033/regulation/2); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/q))
 
-[^key-b91bba6464e1caf62c189459f781eed4]: Textual amendment: S. 18A inserted (17.10.2024 for specified purposes, 1.1.2026 in so far as not already in force) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 19(3)](https://www.legislation.gov.uk/ukpga/2024/15/section/19/3), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1033/regulation/2); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/q)
+[^c-b91bba6464e1caf62c189459f781eed4]: Textual amendment: S. 18A inserted (17.10.2024 for specified purposes, 1.1.2026 in so far as not already in force) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 19(3)](https://www.legislation.gov.uk/ukpga/2024/15/section/19/3), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1033/regulation/2); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/q)

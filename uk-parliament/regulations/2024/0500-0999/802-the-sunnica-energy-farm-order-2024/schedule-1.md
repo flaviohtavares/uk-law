@@ -22,7 +22,7 @@ summary: ''
 
 Article 2
 
-**1.**[^key-247a4846cea4d3f5a9147c0551953ce8] In this Schedule—
+**1.**[^c-247a4846cea4d3f5a9147c0551953ce8] In this Schedule—
 
 - “**battery station**” means a station comprising transformers, switchgear, power conversion system (PCS) or inverter, and other ancillary equipment with each component for each battery station either—
   - (a) located outside, with a concrete foundation slab or concrete piling for each of the inverters and transformers and a levelling layer of thick sand with a concrete perimeter pavement for the switchgear; or
@@ -43,7 +43,7 @@ Article 2
 - “**transformer**” means a structure containing an electrical device to transform electricity by increasing or reducing the voltage; and
 - “**West A Site**” means the land that forms part of authorised development located within the southern fields of the Chippenham Park Estate bordering the A11 and A14 corridor in Cambridgeshire as shown on the works plans.
 
-**2.**[^key-e41fd3432eb2b18375fe296e1f03b711] In the Districts of West Suffolk and East Cambridgeshire in the Counties of Cambridgeshire and Suffolk a nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act and associated development under section 115(1)(b) of the 2008 Act.
+**2.**[^c-e41fd3432eb2b18375fe296e1f03b711] In the Districts of West Suffolk and East Cambridgeshire in the Counties of Cambridgeshire and Suffolk a nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act and associated development under section 115(1)(b) of the 2008 Act.
 
 The nationally significant infrastructure project comprises up to one generating station with a gross electrical output capacity of over 50 megawatts comprising all or any of the work numbers in this Schedule or any part of any work number in this Schedule—
 
@@ -236,6 +236,6 @@ In connection with and in addition to Work Nos. 1 to 10 further associated devel
 
 ## Annotations
 
-[^key-247a4846cea4d3f5a9147c0551953ce8]: Commencement: Sch. 1 para. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-247a4846cea4d3f5a9147c0551953ce8]: Commencement: Sch. 1 para. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
 
-[^key-e41fd3432eb2b18375fe296e1f03b711]: Commencement: Sch. 1 para. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-e41fd3432eb2b18375fe296e1f03b711]: Commencement: Sch. 1 para. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)

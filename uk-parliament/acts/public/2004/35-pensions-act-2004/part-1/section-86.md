@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-fdf56ed34a5e52ac13d0bf2808d56732] Section 82 does not preclude the disclosure by the Regulator of restricted information to any person specified in the first column of Schedule 3 if the Regulator considers that the disclosure would enable or assist that person to exercise the functions specified in relation to him in the second column of that Schedule.
+(1)[^c-fdf56ed34a5e52ac13d0bf2808d56732] Section 82 does not preclude the disclosure by the Regulator of restricted information to any person specified in the first column of Schedule 3 if the Regulator considers that the disclosure would enable or assist that person to exercise the functions specified in relation to him in the second column of that Schedule.
 
-(2)[^key-419ad6d063430c35c4125afc67509611] The Secretary of State may after consultation with the Regulator—
+(2)[^c-419ad6d063430c35c4125afc67509611] The Secretary of State may after consultation with the Regulator—
 
 - (a) by order amend Schedule 3 by—
   - (i) adding any person exercising regulatory functions and specifying functions in relation to that person,
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fdf56ed34a5e52ac13d0bf2808d56732]: Commencement: S. 86(1) in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-fdf56ed34a5e52ac13d0bf2808d56732]: Commencement: S. 86(1) in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
 
-[^key-419ad6d063430c35c4125afc67509611]: Commencement: S. 86(2) in force at 6.4.2006 by [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
+[^c-419ad6d063430c35c4125afc67509611]: Commencement: S. 86(2) in force at 6.4.2006 by [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Valuation of other land in drainage district: Wales[^key-34b26905604e42106816e9dbbba73d8b]
+## 95. Valuation of other land in drainage district: Wales[^c-34b26905604e42106816e9dbbba73d8b]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34b26905604e42106816e9dbbba73d8b]: Commencement: S. 95 not in force at Royal Assent, see [s. 147(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/4)
+[^c-34b26905604e42106816e9dbbba73d8b]: Commencement: S. 95 not in force at Royal Assent, see [s. 147(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/4)

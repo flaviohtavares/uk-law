@@ -31,10 +31,10 @@ summary: ''
 
 of 18 February 1980 on the setting up of an 'ad hoc' Advisory Committee on the Reprocessing of Irradiated Nuclear Fuels (revoked)
 
-[^key-e2d0b987e217e2d6fb28c775fed54632]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e2d0b987e217e2d6fb28c775fed54632]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-e2d0b987e217e2d6fb28c775fed54632] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-e2d0b987e217e2d6fb28c775fed54632] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e2d0b987e217e2d6fb28c775fed54632]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-e2d0b987e217e2d6fb28c775fed54632]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

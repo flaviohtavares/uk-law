@@ -40,7 +40,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### Presumption against prosecution
 
-#### 1. Prosecutorial decision regarding alleged conduct during overseas operations[^key-1bd03383c311299b2140c1dab59c656f]
+#### 1. Prosecutorial decision regarding alleged conduct during overseas operations[^c-1bd03383c311299b2140c1dab59c656f]
 
 (1) Where a relevant prosecutor makes a decision to which this section applies and the conditions in subsections (3) and (4) are met, the prosecutor must, in making the decision—
 
@@ -65,11 +65,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (6) In this Part “**overseas operations**” means any operations outside the British Islands, including peacekeeping operations and operations for dealing with terrorism, civil unrest or serious public disorder, in the course of which members of Her Majesty's forces come under attack or face the threat of attack or violent resistance.
 
-#### 2. Presumption against prosecution[^key-a3a035bbd4152f08defb607c21e44f0e]
+#### 2. Presumption against prosecution[^c-a3a035bbd4152f08defb607c21e44f0e]
 
 The principle referred to in section 1(1) is that it is to be exceptional for a relevant prosecutor making a decision to which that section applies to determine that proceedings should be brought against the person for the offence or, as the case may be, that the proceedings against the person for the offence should be continued.
 
-#### 3. Matters to be given particular weight[^key-efd2095947bf6c94257c235881f2eb40]
+#### 3. Matters to be given particular weight[^c-efd2095947bf6c94257c235881f2eb40]
 
 (1) In making a decision to which section 1 applies, a relevant prosecutor must give particular weight to the matters set out in subsection (2) (so far as they tend to reduce the person's culpability or otherwise tend against prosecution).
 
@@ -87,7 +87,7 @@ The principle referred to in section 1(1) is that it is to be exceptional for a 
 
 and in this subsection “**effect**” means an effect at the time of the alleged conduct.
 
-#### 4. Section 3: supplementary[^key-42a5617ed4c06b82d12eb2e71d568724]
+#### 4. Section 3: supplementary[^c-42a5617ed4c06b82d12eb2e71d568724]
 
 (1) For the purposes of section 3(2)(b) and this section “**relevant previous investigation**” means an investigation into the alleged conduct which—
 
@@ -102,7 +102,7 @@ and in this subsection “**effect**” means an effect at the time of the alleg
 
 ### Consent to prosecution
 
-#### 5. Requirement of consent to prosecute[^key-5fc77011170c353e0ca00d58c83533b3]
+#### 5. Requirement of consent to prosecute[^c-5fc77011170c353e0ca00d58c83533b3]
 
 (1) This section applies where—
 
@@ -125,7 +125,7 @@ and in this subsection “**effect**” means an effect at the time of the alleg
 
 ### General
 
-#### 6. “Relevant offence”[^key-661068f969586d56b65a8d71d6a080a8]
+#### 6. “Relevant offence”[^c-661068f969586d56b65a8d71d6a080a8]
 
 (1) “**Relevant offence**” means any of the following (but with the exceptions set out in subsections (2) to (5))—
 
@@ -147,7 +147,7 @@ and in this subsection “**effect**” means an effect at the time of the alleg
 
 (6) An offence is not a “relevant offence” if it is an excluded offence by virtue of Part 4 of Schedule 1.
 
-#### 7. General interpretation etc[^key-d1cf8b900893fba6e22545a566587be1]
+#### 7. General interpretation etc[^c-d1cf8b900893fba6e22545a566587be1]
 
 (1) Where—
 
@@ -174,7 +174,7 @@ the day (or time) of the alleged conduct is not to be taken to be different from
 - “**Her Majesty's forces**” has the same meaning as in the Armed Forces Act 2006 (see section 374 of that Act);
 - “**investigating authority**” means—
   - (a) a service police force,
-  - (aa) the tri-service serious crime unit,[^key-a02a393dc96d0bfa5f1e891165492df9]
+  - (aa) the tri-service serious crime unit,[^c-a02a393dc96d0bfa5f1e891165492df9]
   - (b) a UK police force, or
   - (c) an overseas police force;
 - “**overseas operations**” has the meaning given by section 1(6);
@@ -186,14 +186,14 @@ the day (or time) of the alleged conduct is not to be taken to be different from
 - “**the reserve forces**” has the same meaning as in the Armed Forces Act 2006 (see section 374 of that Act);
 - “**service offence**” has the same meaning as in the Armed Forces Act 2006 (see section 50(2) of that Act);
 - “**service police force**” has the same meaning as in the Armed Forces Act 2006 (see section 375 of that Act);
-- “[^key-2e6f233838c7d3dbe474b3a74a124f46]**tri-service serious crime unit**” means the unit described in section 375(1A) of the Armed Forces Act 2006;
+- “[^c-2e6f233838c7d3dbe474b3a74a124f46]**tri-service serious crime unit**” means the unit described in section 375(1A) of the Armed Forces Act 2006;
 - “**UK police force**” has the same meaning as in the Armed Forces Act 2006 (see section 375 of that Act).
 
 (5) Subsections (2) and (3) of section 368 of the Armed Forces Act 2006 (references to members of the regular forces) apply for the purposes of this Part as they apply for the purposes of that Act.
 
 ## PART 2 — Overseas operations: limitation periods
 
-### 8. Restrictions on time limits to bring actions: England and Wales[^key-6c753a3bbb280e59f4c149624f707b3e]
+### 8. Restrictions on time limits to bring actions: England and Wales[^c-6c753a3bbb280e59f4c149624f707b3e]
 
 *Extent: E+W*
 
@@ -204,7 +204,7 @@ the day (or time) of the alleged conduct is not to be taken to be different from
 
 (2) Part 2 of Schedule 2 amends the Foreign Limitation Periods Act 1984 to modify the effect of foreign limitation law (where such law applies by reason of that Act) in respect of actions which relate to overseas operations of the armed forces.
 
-### 9. Restrictions on time limits to bring actions: Scotland[^key-6239e12556f3d2842cfd0297c5a599fe]
+### 9. Restrictions on time limits to bring actions: Scotland[^c-6239e12556f3d2842cfd0297c5a599fe]
 
 *Extent: S*
 
@@ -215,7 +215,7 @@ the day (or time) of the alleged conduct is not to be taken to be different from
 
 (2) Part 2 of Schedule 3 amends that Act to modify the effect of foreign limitation law (where such law applies by virtue of that Act) in respect of actions which relate to overseas operations of the armed forces.
 
-### 10. Restrictions on time limits to bring actions: Northern Ireland[^key-344ec5ef5983e4eb5c10ba14e3794863]
+### 10. Restrictions on time limits to bring actions: Northern Ireland[^c-344ec5ef5983e4eb5c10ba14e3794863]
 
 *Extent: N.I.*
 
@@ -226,7 +226,7 @@ the day (or time) of the alleged conduct is not to be taken to be different from
 
 (2) Part 2 of Schedule 4 amends the Foreign Limitation Periods (Northern Ireland) Order 1985 (S.I. 1985/754 (N.I. 5)) to modify the effect of foreign limitation law (where such law applies by reason of that Order) in respect of actions which relate to overseas operations of the armed forces.
 
-### 11. Court's discretion to extend time in certain Human Rights Act proceedings[^key-345e20f80e80668e552ef74eb0919ffa]
+### 11. Court's discretion to extend time in certain Human Rights Act proceedings[^c-345e20f80e80668e552ef74eb0919ffa]
 
 (1) The Human Rights Act 1998 is amended as follows.
 
@@ -342,7 +342,7 @@ Section 6
 
 #### Criminal conduct etc under armed forces legislation
 
-**1.**[^key-6eba72b1932100009f5d5fd22fc1511b] (1) An offence under section 42 of the Armed Forces Act 2006 (criminal conduct) is an “excluded offence” if the corresponding civil offence is an offence referred to in any of paragraphs 2 to 14, 30 and 31.
+**1.**[^c-6eba72b1932100009f5d5fd22fc1511b] (1) An offence under section 42 of the Armed Forces Act 2006 (criminal conduct) is an “excluded offence” if the corresponding civil offence is an offence referred to in any of paragraphs 2 to 14, 30 and 31.
 
 (2) In sub-paragraph (1) the reference to section 42 of the Armed Forces Act 2006 is to be taken to include a reference to—
 
@@ -352,33 +352,33 @@ Section 6
 
 #### Corresponding offences under law of England and Wales (including under repealed provisions)
 
-**2.**[^key-11b3af6f47c9a85b0ad4d66c9efcbb05] An offence under any provision of the Sexual Offences Act 1956.
+**2.**[^c-11b3af6f47c9a85b0ad4d66c9efcbb05] An offence under any provision of the Sexual Offences Act 1956.
 
-**3.**[^key-62f081417481033a2a3b5a710bb9ae28] An offence under section 1 of the Indecency with Children Act 1960 (indecent conduct towards child under 14).
+**3.**[^c-62f081417481033a2a3b5a710bb9ae28] An offence under section 1 of the Indecency with Children Act 1960 (indecent conduct towards child under 14).
 
-**4.**[^key-35da1ac4af82473b7025b095f8d0ea5d] An offence under section 1(1) of the Genocide Act 1969 (genocide).
+**4.**[^c-35da1ac4af82473b7025b095f8d0ea5d] An offence under section 1(1) of the Genocide Act 1969 (genocide).
 
-**5.**[^key-0763570d45e433510b5683b7a48eff5f] An offence under section 54 of the Criminal Law Act 1977 (inciting child under 16 to commit incest).
+**5.**[^c-0763570d45e433510b5683b7a48eff5f] An offence under section 54 of the Criminal Law Act 1977 (inciting child under 16 to commit incest).
 
-**6.**[^key-66cec36726f89b39e976c223ce6b8d80] An offence under section 1 of the Protection of Children Act 1978 (indecent photographs of children).
+**6.**[^c-66cec36726f89b39e976c223ce6b8d80] An offence under section 1 of the Protection of Children Act 1978 (indecent photographs of children).
 
-**7.**[^key-16350c89d5a4d6c44b07c193d1109758] An offence under section 160 of the Criminal Justice Act 1988 (possession of indecent photograph of a child).
+**7.**[^c-16350c89d5a4d6c44b07c193d1109758] An offence under section 160 of the Criminal Justice Act 1988 (possession of indecent photograph of a child).
 
-**8.**[^key-855fb01d79c3d93a365eb4d14e630879] An offence under any provision of the Sexual Offences Act 2003.
+**8.**[^c-855fb01d79c3d93a365eb4d14e630879] An offence under any provision of the Sexual Offences Act 2003.
 
-**9.**[^key-7001e487aeab674800b44f20a409bf66] An offence under section 63 of the Criminal Justice and Immigration Act 2008 (possession of extreme pornographic images).
+**9.**[^c-7001e487aeab674800b44f20a409bf66] An offence under section 63 of the Criminal Justice and Immigration Act 2008 (possession of extreme pornographic images).
 
-**10.**[^key-09fc5b282e6ee5b3fe67ffab7d52f47e] An offence under section 62 of the Coroners and Justice Act 2009 (possession of prohibited images of children).
+**10.**[^c-09fc5b282e6ee5b3fe67ffab7d52f47e] An offence under section 62 of the Coroners and Justice Act 2009 (possession of prohibited images of children).
 
-**11.**[^key-ea0f7359c645899a56999813c2455a59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-ea0f7359c645899a56999813c2455a59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-c3e596b9bb7bafe4f8606284831849f2] An offence under section 2 of the Modern Slavery Act 2015 (human trafficking) committed with a view to exploitation that consists of or includes behaviour within section 3(3) of that Act (sexual exploitation).
+**12.**[^c-c3e596b9bb7bafe4f8606284831849f2] An offence under section 2 of the Modern Slavery Act 2015 (human trafficking) committed with a view to exploitation that consists of or includes behaviour within section 3(3) of that Act (sexual exploitation).
 
-**13.**[^key-8e6cf9b570227f17566b0acfd528b46e] An offence at common law of outraging public decency.
+**13.**[^c-8e6cf9b570227f17566b0acfd528b46e] An offence at common law of outraging public decency.
 
-**14.**[^key-055b02d05a5922cdcc139fa7fd902f83] An offence within any of paragraphs 18 to 20 (certain offences under the International Criminal Court Act 2001).
+**14.**[^c-055b02d05a5922cdcc139fa7fd902f83] An offence within any of paragraphs 18 to 20 (certain offences under the International Criminal Court Act 2001).
 
-**15.**[^key-6b83f196b3bc8c99460ba665b4608559] A reference in paragraphs 2 to 14 or paragraphs 30 and 31 to an offence (“offence A”) includes—
+**15.**[^c-6b83f196b3bc8c99460ba665b4608559] A reference in paragraphs 2 to 14 or paragraphs 30 and 31 to an offence (“offence A”) includes—
 
 - (a) a reference to an attempt to commit offence A,
 - (b) a reference to a conspiracy to commit offence A,
@@ -388,7 +388,7 @@ Section 6
 
 #### Interpretation etc
 
-**16.**[^key-7667cd4fdea4cafd74832de0da8cd39b] (1) In paragraph 1(1) the reference to the “**corresponding civil offence**” is—
+**16.**[^c-7667cd4fdea4cafd74832de0da8cd39b] (1) In paragraph 1(1) the reference to the “**corresponding civil offence**” is—
 
 - (a) in relation to an offence under section 42 of the Armed Forces Act 2006, to the corresponding offence under the law of England and Wales within the meaning of that section;
 - (b) in relation to an offence under section 70 of the Army Act 1955 or section 70 of the Air Force Act 1955, to the corresponding civil offence within the meaning of that Act;
@@ -400,88 +400,88 @@ Section 6
 
 #### Excluded offences within this Part
 
-**17.**[^key-44e62dce061c4f094c8978b559c239d5] An offence under the law of England and Wales or Northern Ireland within any of paragraphs 18 to 23 is an “excluded offence” in that part of the United Kingdom.
+**17.**[^c-44e62dce061c4f094c8978b559c239d5] An offence under the law of England and Wales or Northern Ireland within any of paragraphs 18 to 23 is an “excluded offence” in that part of the United Kingdom.
 
 #### England and Wales
 
-**18.**[^key-db8d448fe463a34e2660540cb99691a8] An offence under section 51 of the International Criminal Court Act 2001 (genocide, crimes against humanity and war crimes).
+**18.**[^c-db8d448fe463a34e2660540cb99691a8] An offence under section 51 of the International Criminal Court Act 2001 (genocide, crimes against humanity and war crimes).
 
-**19.**[^key-e719eca2b2758985f789a14cc8d80df6] An ancillary offence under the law of England and Wales in relation to an offence within paragraph 18.
+**19.**[^c-e719eca2b2758985f789a14cc8d80df6] An ancillary offence under the law of England and Wales in relation to an offence within paragraph 18.
 
-**20.**[^key-83a8f0f324b526fdd4ae397a8a98fd4d] An offence under subsection (1) of section 52 of the International Criminal Court Act 2001 (conduct ancillary to war crimes etc committed outside jurisdiction) where the act referred to in that subsection would, if committed in England and Wales, constitute—
+**20.**[^c-83a8f0f324b526fdd4ae397a8a98fd4d] An offence under subsection (1) of section 52 of the International Criminal Court Act 2001 (conduct ancillary to war crimes etc committed outside jurisdiction) where the act referred to in that subsection would, if committed in England and Wales, constitute—
 
 - (a) an offence within paragraph 18, or
 - (b) an offence within this paragraph.
 
 #### Northern Ireland
 
-**21.**[^key-e21a058b7b17d87867c185b977fd7b68] An offence under section 58 of the International Criminal Court Act 2001 (genocide, crimes against humanity and war crimes).
+**21.**[^c-e21a058b7b17d87867c185b977fd7b68] An offence under section 58 of the International Criminal Court Act 2001 (genocide, crimes against humanity and war crimes).
 
-**22.**[^key-81dd9e06f2201c0e9c7a2ff8415000ca] An ancillary offence under the law of Northern Ireland in relation to an offence within paragraph 21.
+**22.**[^c-81dd9e06f2201c0e9c7a2ff8415000ca] An ancillary offence under the law of Northern Ireland in relation to an offence within paragraph 21.
 
-**23.**[^key-4d6cda2f2546f96f9ff972eb6f912c62] An offence under subsection (1) of section 59 of the International Criminal Court Act 2001 (conduct ancillary to war crimes etc committed outside jurisdiction) where the act referred to in that subsection would, if committed in Northern Ireland, constitute—
+**23.**[^c-4d6cda2f2546f96f9ff972eb6f912c62] An offence under subsection (1) of section 59 of the International Criminal Court Act 2001 (conduct ancillary to war crimes etc committed outside jurisdiction) where the act referred to in that subsection would, if committed in Northern Ireland, constitute—
 
 - (a) an offence within paragraph 21, or
 - (b) an offence within this paragraph.
 
 #### Interpretation
 
-**24.**[^key-eeceff69c18a552db7a7565abbab72a5] In this Part of this Schedule—
+**24.**[^c-eeceff69c18a552db7a7565abbab72a5] In this Part of this Schedule—
 
 - (a) references to an ancillary offence under the law of England and Wales are to be interpreted in accordance with section 55 of the International Criminal Court Act 2001;
 - (b) references to an ancillary offence under the law of Northern Ireland are to be interpreted in accordance with section 62 of that Act.
 
 ### PART 3 — International Criminal Court (Scotland) Act 2001
 
-**25.**[^key-af60cb3b3b3f8fbe71c0bf5d9ee14e77] An offence within any of paragraphs 26 to 28 is an “excluded offence” in Scotland.
+**25.**[^c-af60cb3b3b3f8fbe71c0bf5d9ee14e77] An offence within any of paragraphs 26 to 28 is an “excluded offence” in Scotland.
 
-**26.**[^key-a14909b85604e184b83ced133f1c42ef] An offence under section 1(1) of the International Criminal Court (Scotland) Act 2001 (asp 13) (genocide, crimes against humanity and war crimes).
+**26.**[^c-a14909b85604e184b83ced133f1c42ef] An offence under section 1(1) of the International Criminal Court (Scotland) Act 2001 (asp 13) (genocide, crimes against humanity and war crimes).
 
-**27.**[^key-44a16c8ee9e31bb7293df758b05e23f7] An offence under section 2(1) of that Act (conduct ancillary to war crimes etc) of engaging in conduct ancillary to an act that constitutes—
+**27.**[^c-44a16c8ee9e31bb7293df758b05e23f7] An offence under section 2(1) of that Act (conduct ancillary to war crimes etc) of engaging in conduct ancillary to an act that constitutes—
 
 - (a) an offence within paragraph 26, or
 - (b) an offence within this paragraph or paragraph 28.
 
-**28.**[^key-3aea6d47189d0229fe0798ecd6ea26c2] An offence under subsection (3) of section 2 of that Act of engaging in conduct ancillary to an act committed (or intended to be committed) outside Scotland, where—
+**28.**[^c-3aea6d47189d0229fe0798ecd6ea26c2] An offence under subsection (3) of section 2 of that Act of engaging in conduct ancillary to an act committed (or intended to be committed) outside Scotland, where—
 
 - (a) the offence mentioned in paragraph (a) of that subsection is an offence within paragraph 26, or
 - (b) (as the case may be) the offence mentioned in paragraph (b) of that subsection is an offence within paragraph 27.
 
 #### Interpretation
 
-**29.**[^key-77c86b8d2777c3cf21579b8f48953d7b] In this Part of this Schedule references to an ancillary offence are to be interpreted in accordance with section 7 of the International Criminal Court (Scotland) Act 2001.
+**29.**[^c-77c86b8d2777c3cf21579b8f48953d7b] In this Part of this Schedule references to an ancillary offence are to be interpreted in accordance with section 7 of the International Criminal Court (Scotland) Act 2001.
 
 ### PART 4 — Other offences
 
-**30.**[^key-3035133d0d300c09bc2f7863e430a35b] An offence under section 134 of the Criminal Justice Act 1988 (torture) is an excluded offence.
+**30.**[^c-3035133d0d300c09bc2f7863e430a35b] An offence under section 134 of the Criminal Justice Act 1988 (torture) is an excluded offence.
 
-**31.**[^key-f9ef20fb3330b6f224f902ac91518367] An offence under section 1(1) of the Geneva Conventions Act 1957 (grave breaches of the Geneva Conventions) is an excluded offence.
+**31.**[^c-f9ef20fb3330b6f224f902ac91518367] An offence under section 1(1) of the Geneva Conventions Act 1957 (grave breaches of the Geneva Conventions) is an excluded offence.
 
 ### PART 5 — Provisions extending jurisdiction in respect of certain sexual offences
 
 #### Section 72 of the Sexual Offences Act 2003
 
-**32.**[^key-ae507962b6c5df9812a591d2dd4bfadc] (1) Where by virtue of section 72 of the Sexual Offences Act 2003 (offences outside the United Kingdom) an act done outside the United Kingdom constitutes an offence under the law of England and Wales or Northern Ireland, that offence is an “excluded offence” in that part of the United Kingdom.
+**32.**[^c-ae507962b6c5df9812a591d2dd4bfadc] (1) Where by virtue of section 72 of the Sexual Offences Act 2003 (offences outside the United Kingdom) an act done outside the United Kingdom constitutes an offence under the law of England and Wales or Northern Ireland, that offence is an “excluded offence” in that part of the United Kingdom.
 
 (2) Where by virtue of subsection (3) of that section proceedings for an offence may be brought against a person in England and Wales or Northern Ireland in respect of an act done outside the United Kingdom, that offence is an “excluded offence” in that part of the United Kingdom.
 
 #### Article 76 of the Sexual Offences (Northern Ireland) Order 2008 (S.I. 2008/1769 (N.I. 2))
 
-**33.**[^key-4bafb78570e0599a12b840b9fe479266] (1) Where by virtue of Article 76 of the Sexual Offences (Northern Ireland) Order 2008 (offences outside the United Kingdom) an act done outside the United Kingdom constitutes an offence under the law of Northern Ireland, that offence is an “excluded offence” in Northern Ireland.
+**33.**[^c-4bafb78570e0599a12b840b9fe479266] (1) Where by virtue of Article 76 of the Sexual Offences (Northern Ireland) Order 2008 (offences outside the United Kingdom) an act done outside the United Kingdom constitutes an offence under the law of Northern Ireland, that offence is an “excluded offence” in Northern Ireland.
 
 (2) Where by virtue of paragraph (3) of that Article proceedings for an offence may be brought against a person in Northern Ireland in respect of an act done outside the United Kingdom, that offence is an “excluded offence” in Northern Ireland.
 
 #### Section 55 of the Sexual Offences (Scotland) Act 2009 (asp 9)
 
-**34.**[^key-65354c9282bf8d24b6cef63d2bb06a2e] (1) Where by virtue of section 55 of the Sexual Offences (Scotland) Act 2009 (offences committed outside the United Kingdom) an act done outside the United Kingdom constitutes an offence under the law of Scotland, that offence is an “excluded offence” in Scotland.
+**34.**[^c-65354c9282bf8d24b6cef63d2bb06a2e] (1) Where by virtue of section 55 of the Sexual Offences (Scotland) Act 2009 (offences committed outside the United Kingdom) an act done outside the United Kingdom constitutes an offence under the law of Scotland, that offence is an “excluded offence” in Scotland.
 
 (2) Where by virtue of subsection (2A) of that section proceedings for an offence may be brought against a person in Scotland in respect of an act done outside the United Kingdom, that offence is an “**excluded offence**” in relation to Scotland.
 
 #### Provisions superseded by provisions mentioned in paragraphs 32 to 34
 
-**35.**[^key-53d2be86b6dfacc1097025c393a909d3] Where by virtue of section 7 of the Sex Offenders Act 1997 (sexual offences committed outside the United Kingdom) an act done outside the United Kingdom constitutes an offence under the law of England and Wales or Northern Ireland, that offence is an “excluded offence” in that part of the United Kingdom.
+**35.**[^c-53d2be86b6dfacc1097025c393a909d3] Where by virtue of section 7 of the Sex Offenders Act 1997 (sexual offences committed outside the United Kingdom) an act done outside the United Kingdom constitutes an offence under the law of England and Wales or Northern Ireland, that offence is an “excluded offence” in that part of the United Kingdom.
 
-**36.**[^key-8667eb494cb965efbdc845e0b6bd7c63] Where by virtue of section 16B of the Criminal Law (Consolidation) (Scotland) Act 1995 (commission of certain sexual acts outside the United Kingdom) an act done outside the United Kingdom constitutes an offence under the law of Scotland, that offence is an “excluded offence” in Scotland.
+**36.**[^c-8667eb494cb965efbdc845e0b6bd7c63] Where by virtue of section 16B of the Criminal Law (Consolidation) (Scotland) Act 1995 (commission of certain sexual acts outside the United Kingdom) an act done outside the United Kingdom constitutes an offence under the law of Scotland, that offence is an “excluded offence” in Scotland.
 
 ## SCHEDULE 2 — Limitation periods: England and Wales
 
@@ -491,7 +491,7 @@ Section 8
 
 ### PART 1 — Court's discretion to disapply time limits
 
-**1.**[^key-b1fd4a5efc16949b5a47424262248189] (1) Section 33 of the Limitation Act 1980 (discretionary exclusion of time limit for actions in respect of personal injuries or death) is amended as follows.
+**1.**[^c-b1fd4a5efc16949b5a47424262248189] (1) Section 33 of the Limitation Act 1980 (discretionary exclusion of time limit for actions in respect of personal injuries or death) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -559,7 +559,7 @@ Section 8
 
 ### PART 2 — Restriction of foreign limitation law
 
-**2.**[^key-d6e6066b63c79faa649a2e91fc9d1921] (1) The Foreign Limitation Periods Act 1984 is amended as follows.
+**2.**[^c-d6e6066b63c79faa649a2e91fc9d1921] (1) The Foreign Limitation Periods Act 1984 is amended as follows.
 
 (2) In section 1 (application of foreign limitation law), in subsection (1)(a), after “subject to” insert “ section 1ZA and ”.
 
@@ -615,7 +615,7 @@ Section 9
 
 ### PART 1 — Court's power to override time-limits
 
-**1.**[^key-7375fa749f2d7b838610054fed6ca412] (1) The Prescription and Limitation (Scotland) Act 1973 is amended as follows.
+**1.**[^c-7375fa749f2d7b838610054fed6ca412] (1) The Prescription and Limitation (Scotland) Act 1973 is amended as follows.
 
 (2) In section 19A (power of court to override time-limits etc), in subsection (1), after “that provision” insert “ (but see section 19AA) ”.
 
@@ -679,7 +679,7 @@ Section 9
 
 ### PART 2 — Restriction of foreign limitation law
 
-**2.**[^key-007c5bca8d6caf1b55563838b5e4b64e] (1) The Prescription and Limitation (Scotland) Act 1973 is amended as follows.
+**2.**[^c-007c5bca8d6caf1b55563838b5e4b64e] (1) The Prescription and Limitation (Scotland) Act 1973 is amended as follows.
 
 (2) In section 23A (private international law application)—
 
@@ -726,7 +726,7 @@ Section 10
 
 ### PART 1 — Court's discretion to disapply time limits
 
-**1.**[^key-43d3013c52f09e8670714d4389b474ba] (1) Article 50 of the Limitation (Northern Ireland) Order 1989 (S.I. 1989/1339 (N.I. 11)) (court's power to override certain time limits) is amended as follows.
+**1.**[^c-43d3013c52f09e8670714d4389b474ba] (1) Article 50 of the Limitation (Northern Ireland) Order 1989 (S.I. 1989/1339 (N.I. 11)) (court's power to override certain time limits) is amended as follows.
 
 (2) After paragraph (1) insert—
 
@@ -795,7 +795,7 @@ Section 10
 
 ### PART 2 — Restriction of foreign limitation law
 
-**2.**[^key-54d3ccb449ed1e8906f042d2655a0773] (1) The Foreign Limitation Periods (Northern Ireland) Order 1985 (S.I. 1985/754 (N.I. 5)) is amended as follows.
+**2.**[^c-54d3ccb449ed1e8906f042d2655a0773] (1) The Foreign Limitation Periods (Northern Ireland) Order 1985 (S.I. 1985/754 (N.I. 5)) is amended as follows.
 
 (2) In Article 3 (application of foreign limitation law), in paragraph (1)(a), after “proceedings” insert “ , subject to Article 3A ”.
 
@@ -845,112 +845,112 @@ Section 10
 
 ## Annotations
 
-[^key-1bd03383c311299b2140c1dab59c656f]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/23/section/1) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-1bd03383c311299b2140c1dab59c656f]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/23/section/1) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-a3a035bbd4152f08defb607c21e44f0e]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/23/section/2) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-a3a035bbd4152f08defb607c21e44f0e]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/23/section/2) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-efd2095947bf6c94257c235881f2eb40]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/23/section/3) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-efd2095947bf6c94257c235881f2eb40]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/23/section/3) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-42a5617ed4c06b82d12eb2e71d568724]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/23/section/4) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-42a5617ed4c06b82d12eb2e71d568724]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/23/section/4) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-5fc77011170c353e0ca00d58c83533b3]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2021/23/section/5) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-5fc77011170c353e0ca00d58c83533b3]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2021/23/section/5) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-661068f969586d56b65a8d71d6a080a8]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2021/23/section/6) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-661068f969586d56b65a8d71d6a080a8]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2021/23/section/6) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-d1cf8b900893fba6e22545a566587be1]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2021/23/section/7) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-d1cf8b900893fba6e22545a566587be1]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2021/23/section/7) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-a02a393dc96d0bfa5f1e891165492df9]: Textual amendment: Words in [s. 7(4)](https://www.legislation.gov.uk/ukpga/2021/23/section/7/4) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 52(a)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/52/a); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
+[^c-a02a393dc96d0bfa5f1e891165492df9]: Textual amendment: Words in [s. 7(4)](https://www.legislation.gov.uk/ukpga/2021/23/section/7/4) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 52(a)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/52/a); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
 
-[^key-2e6f233838c7d3dbe474b3a74a124f46]: Textual amendment: Words in [s. 7(4)](https://www.legislation.gov.uk/ukpga/2021/23/section/7/4) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 52(b)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/52/b); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
+[^c-2e6f233838c7d3dbe474b3a74a124f46]: Textual amendment: Words in [s. 7(4)](https://www.legislation.gov.uk/ukpga/2021/23/section/7/4) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 52(b)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/52/b); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
 
-[^key-6c753a3bbb280e59f4c149624f707b3e]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2021/23/section/8) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-6c753a3bbb280e59f4c149624f707b3e]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2021/23/section/8) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-6239e12556f3d2842cfd0297c5a599fe]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2021/23/section/9) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-6239e12556f3d2842cfd0297c5a599fe]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2021/23/section/9) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-344ec5ef5983e4eb5c10ba14e3794863]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2021/23/section/10) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-344ec5ef5983e4eb5c10ba14e3794863]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2021/23/section/10) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-345e20f80e80668e552ef74eb0919ffa]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2021/23/section/11) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-345e20f80e80668e552ef74eb0919ffa]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2021/23/section/11) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-6eba72b1932100009f5d5fd22fc1511b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/1) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-6eba72b1932100009f5d5fd22fc1511b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/1) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-11b3af6f47c9a85b0ad4d66c9efcbb05]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/2) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-11b3af6f47c9a85b0ad4d66c9efcbb05]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/2) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-62f081417481033a2a3b5a710bb9ae28]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/3) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-62f081417481033a2a3b5a710bb9ae28]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/3) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-35da1ac4af82473b7025b095f8d0ea5d]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/4) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-35da1ac4af82473b7025b095f8d0ea5d]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/4) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-0763570d45e433510b5683b7a48eff5f]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/5) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-0763570d45e433510b5683b7a48eff5f]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/5) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-66cec36726f89b39e976c223ce6b8d80]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/6) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-66cec36726f89b39e976c223ce6b8d80]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/6) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-16350c89d5a4d6c44b07c193d1109758]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/7) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-16350c89d5a4d6c44b07c193d1109758]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/7) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-855fb01d79c3d93a365eb4d14e630879]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/8) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-855fb01d79c3d93a365eb4d14e630879]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/8) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-7001e487aeab674800b44f20a409bf66]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/9) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-7001e487aeab674800b44f20a409bf66]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/9) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-09fc5b282e6ee5b3fe67ffab7d52f47e]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/10) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-09fc5b282e6ee5b3fe67ffab7d52f47e]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/10) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-ea0f7359c645899a56999813c2455a59]: Textual amendment: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/11) omitted (31.1.2024) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1), [Sch. 14 para. 24](https://www.legislation.gov.uk/ukpga/2023/50/schedule/14/paragraph/24); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-ea0f7359c645899a56999813c2455a59]: Textual amendment: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/11) omitted (31.1.2024) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1), [Sch. 14 para. 24](https://www.legislation.gov.uk/ukpga/2023/50/schedule/14/paragraph/24); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
 
-[^key-c3e596b9bb7bafe4f8606284831849f2]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/12) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-c3e596b9bb7bafe4f8606284831849f2]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/12) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-8e6cf9b570227f17566b0acfd528b46e]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/13) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-8e6cf9b570227f17566b0acfd528b46e]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/13) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-055b02d05a5922cdcc139fa7fd902f83]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/14) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-055b02d05a5922cdcc139fa7fd902f83]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/14) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-6b83f196b3bc8c99460ba665b4608559]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/15) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-6b83f196b3bc8c99460ba665b4608559]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/15) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-7667cd4fdea4cafd74832de0da8cd39b]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/16) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-7667cd4fdea4cafd74832de0da8cd39b]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/16) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-44e62dce061c4f094c8978b559c239d5]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/17) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-44e62dce061c4f094c8978b559c239d5]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/17) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-db8d448fe463a34e2660540cb99691a8]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/18) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-db8d448fe463a34e2660540cb99691a8]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/18) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-e719eca2b2758985f789a14cc8d80df6]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/19) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-e719eca2b2758985f789a14cc8d80df6]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/19) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-83a8f0f324b526fdd4ae397a8a98fd4d]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/20) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-83a8f0f324b526fdd4ae397a8a98fd4d]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/20) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-e21a058b7b17d87867c185b977fd7b68]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/21) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-e21a058b7b17d87867c185b977fd7b68]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/21) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-81dd9e06f2201c0e9c7a2ff8415000ca]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/22) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-81dd9e06f2201c0e9c7a2ff8415000ca]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/22) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-4d6cda2f2546f96f9ff972eb6f912c62]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/23) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-4d6cda2f2546f96f9ff972eb6f912c62]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/23) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-eeceff69c18a552db7a7565abbab72a5]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/24) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-eeceff69c18a552db7a7565abbab72a5]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/24) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-af60cb3b3b3f8fbe71c0bf5d9ee14e77]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/25) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-af60cb3b3b3f8fbe71c0bf5d9ee14e77]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/25) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-a14909b85604e184b83ced133f1c42ef]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/26) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-a14909b85604e184b83ced133f1c42ef]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/26) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-44a16c8ee9e31bb7293df758b05e23f7]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/27) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-44a16c8ee9e31bb7293df758b05e23f7]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/27) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-3aea6d47189d0229fe0798ecd6ea26c2]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/28) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-3aea6d47189d0229fe0798ecd6ea26c2]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/28) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-77c86b8d2777c3cf21579b8f48953d7b]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/29) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-77c86b8d2777c3cf21579b8f48953d7b]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/29) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-3035133d0d300c09bc2f7863e430a35b]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/30) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-3035133d0d300c09bc2f7863e430a35b]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/30) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-f9ef20fb3330b6f224f902ac91518367]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/31) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-f9ef20fb3330b6f224f902ac91518367]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/31) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-ae507962b6c5df9812a591d2dd4bfadc]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/32) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-ae507962b6c5df9812a591d2dd4bfadc]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/32) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-4bafb78570e0599a12b840b9fe479266]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/33) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-4bafb78570e0599a12b840b9fe479266]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/33) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-65354c9282bf8d24b6cef63d2bb06a2e]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/34) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-65354c9282bf8d24b6cef63d2bb06a2e]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/34) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-53d2be86b6dfacc1097025c393a909d3]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/35) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-53d2be86b6dfacc1097025c393a909d3]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/35) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-8667eb494cb965efbdc845e0b6bd7c63]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/36) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-8667eb494cb965efbdc845e0b6bd7c63]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/ukpga/2021/23/schedule/1/paragraph/36) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-b1fd4a5efc16949b5a47424262248189]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2021/23/schedule/2/paragraph/1) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-b1fd4a5efc16949b5a47424262248189]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2021/23/schedule/2/paragraph/1) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-d6e6066b63c79faa649a2e91fc9d1921]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2021/23/schedule/2/paragraph/2) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-d6e6066b63c79faa649a2e91fc9d1921]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2021/23/schedule/2/paragraph/2) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-7375fa749f2d7b838610054fed6ca412]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2021/23/schedule/3/paragraph/1) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-7375fa749f2d7b838610054fed6ca412]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2021/23/schedule/3/paragraph/1) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-007c5bca8d6caf1b55563838b5e4b64e]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2021/23/schedule/3/paragraph/2) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-007c5bca8d6caf1b55563838b5e4b64e]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2021/23/schedule/3/paragraph/2) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-43d3013c52f09e8670714d4389b474ba]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2021/23/schedule/4/paragraph/1) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-43d3013c52f09e8670714d4389b474ba]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2021/23/schedule/4/paragraph/1) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-54d3ccb449ed1e8906f042d2655a0773]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2021/23/schedule/4/paragraph/2) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-54d3ccb449ed1e8906f042d2655a0773]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2021/23/schedule/4/paragraph/2) in force at 30.6.2021 by [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)

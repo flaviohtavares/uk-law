@@ -31,7 +31,7 @@ summary: ''
 
 COMPANIES
 
-The Companies (Disqualification Orders) Regulations (Northern Ireland) 2003 (revoked)[^key-96920436f612c2ffaabd7112ba6c2f80]
+The Companies (Disqualification Orders) Regulations (Northern Ireland) 2003 (revoked)[^c-96920436f612c2ffaabd7112ba6c2f80]
 
 Made
 
@@ -41,57 +41,57 @@ Coming into operation
 
 5th September 2003
 
-[^key-96920436f612c2ffaabd7112ba6c2f80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-96920436f612c2ffaabd7112ba6c2f80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-96920436f612c2ffaabd7112ba6c2f80]
+## 1. Citation and commencement[^c-96920436f612c2ffaabd7112ba6c2f80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-96920436f612c2ffaabd7112ba6c2f80]
+## 2. Interpretation[^c-96920436f612c2ffaabd7112ba6c2f80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-96920436f612c2ffaabd7112ba6c2f80]
+## 3. Revocation[^c-96920436f612c2ffaabd7112ba6c2f80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Application[^key-96920436f612c2ffaabd7112ba6c2f80]
+## 4. Application[^c-96920436f612c2ffaabd7112ba6c2f80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Forms[^key-96920436f612c2ffaabd7112ba6c2f80]
+## 5. Forms[^c-96920436f612c2ffaabd7112ba6c2f80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Time for delivery of particulars[^key-96920436f612c2ffaabd7112ba6c2f80]
+## 6. Time for delivery of particulars[^c-96920436f612c2ffaabd7112ba6c2f80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-96920436f612c2ffaabd7112ba6c2f80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-96920436f612c2ffaabd7112ba6c2f80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-96920436f612c2ffaabd7112ba6c2f80]
+## SCHEDULE 1[^c-96920436f612c2ffaabd7112ba6c2f80]
 
 Regulation 5(1)
 
 [image: see source](https://www.legislation.gov.uk/nisr/2003/347/images/nisr_20030347_en_001)
 
-## SCHEDULE 2[^key-96920436f612c2ffaabd7112ba6c2f80]
+## SCHEDULE 2[^c-96920436f612c2ffaabd7112ba6c2f80]
 
 Regulation 5(2)
 
 [image: see source](https://www.legislation.gov.uk/nisr/2003/347/images/nisr_20030347_en_002)
 
-## SCHEDULE 3[^key-96920436f612c2ffaabd7112ba6c2f80]
+## SCHEDULE 3[^c-96920436f612c2ffaabd7112ba6c2f80]
 
 Regulation 5(3)
 
 [image: see source](https://www.legislation.gov.uk/nisr/2003/347/images/nisr_20030347_en_003)
 
-## SCHEDULE 4[^key-96920436f612c2ffaabd7112ba6c2f80]
+## SCHEDULE 4[^c-96920436f612c2ffaabd7112ba6c2f80]
 
 Regulation 5(4)
 
@@ -99,8 +99,8 @@ Regulation 5(4)
 
 **May not be in force at this date. Check the source.**
 
-[^key-96920436f612c2ffaabd7112ba6c2f80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-96920436f612c2ffaabd7112ba6c2f80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-96920436f612c2ffaabd7112ba6c2f80]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/347) revoked (18.6.2010) by [The Companies (Disqualification Orders) Regulations (Northern Ireland) 2010 (S.R. 2010/184)](https://www.legislation.gov.uk/nisr/2010/184), [regs. 1](https://www.legislation.gov.uk/nisr/2010/184/regulation/1), [3](https://www.legislation.gov.uk/nisr/2010/184/regulation/3)
+[^c-96920436f612c2ffaabd7112ba6c2f80]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/347) revoked (18.6.2010) by [The Companies (Disqualification Orders) Regulations (Northern Ireland) 2010 (S.R. 2010/184)](https://www.legislation.gov.uk/nisr/2010/184), [regs. 1](https://www.legislation.gov.uk/nisr/2010/184/regulation/1), [3](https://www.legislation.gov.uk/nisr/2010/184/regulation/3)

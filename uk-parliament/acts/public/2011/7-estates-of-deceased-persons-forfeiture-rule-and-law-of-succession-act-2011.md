@@ -36,7 +36,7 @@ An Act to amend the law relating to the distribution of the estates of deceased 
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Disclaimer or forfeiture on intestacy[^key-d897ab28ba591c31b9546f767efc641b]
+## 1. Disclaimer or forfeiture on intestacy[^c-d897ab28ba591c31b9546f767efc641b]
 
 (1) Part 4 of the Administration of Estates Act 1925 (distribution of residuary estate) is amended as follows.
 
@@ -65,7 +65,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 .
 
-## 2. Disclaimer or forfeiture of a gift under a will[^key-04d309269bfd32f04580de74d925a5de]
+## 2. Disclaimer or forfeiture of a gift under a will[^c-04d309269bfd32f04580de74d925a5de]
 
 (1) The Wills Act 1837 is amended as follows.
 
@@ -88,7 +88,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (3) In section 33(3) (provision that no issue with a parent alive at the testator's death may inherit) after “and so that” insert “(subject to section 33A)”.
 
-## 3. Death of a single parent under 18[^key-b249ffc7eb2b242c326ffe5cad56eada]
+## 3. Death of a single parent under 18[^c-b249ffc7eb2b242c326ffe5cad56eada]
 
 In section 47 of the Administration of Estates Act 1925 (statutory trusts in favour of issue and other classes of relatives of intestate) after subsection (4A) insert—
 
@@ -117,8 +117,8 @@ In section 47 of the Administration of Estates Act 1925 (statutory trusts in fav
 
 ## Annotations
 
-[^key-d897ab28ba591c31b9546f767efc641b]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2011/7/section/1) in force at 1.2.2012 by [S.I. 2011/2913](https://www.legislation.gov.uk/uksi/2011/2913), [art. 2](https://www.legislation.gov.uk/uksi/2011/2913/article/2)
+[^c-d897ab28ba591c31b9546f767efc641b]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2011/7/section/1) in force at 1.2.2012 by [S.I. 2011/2913](https://www.legislation.gov.uk/uksi/2011/2913), [art. 2](https://www.legislation.gov.uk/uksi/2011/2913/article/2)
 
-[^key-04d309269bfd32f04580de74d925a5de]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2011/7/section/2) in force at 1.2.2012 by [S.I. 2011/2913](https://www.legislation.gov.uk/uksi/2011/2913), [art. 2](https://www.legislation.gov.uk/uksi/2011/2913/article/2)
+[^c-04d309269bfd32f04580de74d925a5de]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2011/7/section/2) in force at 1.2.2012 by [S.I. 2011/2913](https://www.legislation.gov.uk/uksi/2011/2913), [art. 2](https://www.legislation.gov.uk/uksi/2011/2913/article/2)
 
-[^key-b249ffc7eb2b242c326ffe5cad56eada]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2011/7/section/3) in force at 1.2.2012 by [S.I. 2011/2913](https://www.legislation.gov.uk/uksi/2011/2913), [art. 2](https://www.legislation.gov.uk/uksi/2011/2913/article/2)
+[^c-b249ffc7eb2b242c326ffe5cad56eada]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2011/7/section/3) in force at 1.2.2012 by [S.I. 2011/2913](https://www.legislation.gov.uk/uksi/2011/2913), [art. 2](https://www.legislation.gov.uk/uksi/2011/2913/article/2)

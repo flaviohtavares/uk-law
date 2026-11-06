@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Pension increase (person with care of children or qualifying young persons).[^key-7ec90f6c7b069b70221122e1e0628d48]
+## 85. Pension increase (person with care of children or qualifying young persons).[^c-7ec90f6c7b069b70221122e1e0628d48]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ec90f6c7b069b70221122e1e0628d48]: Textual amendment: [S. 85](https://www.legislation.gov.uk/ukpga/1992/7/section/85) repealed (6.4.2010 with savings until 6.4.2020) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [s. 4(1)(c)](https://www.legislation.gov.uk/nia/2008/1/section/4/1/c), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/nia/2008/1/schedule/6/part/2) (with [s. 4(5)-(8)](https://www.legislation.gov.uk/nia/2008/1/section/4/5))
+[^c-7ec90f6c7b069b70221122e1e0628d48]: Textual amendment: [S. 85](https://www.legislation.gov.uk/ukpga/1992/7/section/85) repealed (6.4.2010 with savings until 6.4.2020) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [s. 4(1)(c)](https://www.legislation.gov.uk/nia/2008/1/section/4/1/c), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/nia/2008/1/schedule/6/part/2) (with [s. 4(5)-(8)](https://www.legislation.gov.uk/nia/2008/1/section/4/5))

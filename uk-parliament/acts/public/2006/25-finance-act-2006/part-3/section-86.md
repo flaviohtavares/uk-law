@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Insurance companies[^key-f2edf3d5925c37e22f5e1a48aa135001]
+## 86. Insurance companies[^c-f2edf3d5925c37e22f5e1a48aa135001]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2edf3d5925c37e22f5e1a48aa135001]: Textual amendment: [S. 86](https://www.legislation.gov.uk/ukpga/2006/25/section/86) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(o)(i)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/o/i)
+[^c-f2edf3d5925c37e22f5e1a48aa135001]: Textual amendment: [S. 86](https://www.legislation.gov.uk/ukpga/2006/25/section/86) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(o)(i)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/o/i)

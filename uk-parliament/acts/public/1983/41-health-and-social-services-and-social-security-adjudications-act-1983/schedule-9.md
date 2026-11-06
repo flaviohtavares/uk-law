@@ -164,7 +164,7 @@ Section 29.
 
 *Extent: E+W+S*
 
-**19.**[^key-45d5baadeb87f3b73523675e5c17a2d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-45d5baadeb87f3b73523675e5c17a2d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **20.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c12741391]
 
@@ -172,11 +172,11 @@ Section 29.
 
 *Extent: E+W+S*
 
-**21.**[^key-4354c857e758e408e9880035bcf0785a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-4354c857e758e408e9880035bcf0785a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-a00dc4734ccbe3cb12ed0c8250e08825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-a00dc4734ccbe3cb12ed0c8250e08825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-e9ca50804a690058f1a29a9d76ad6bcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-e9ca50804a690058f1a29a9d76ad6bcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### National Health Service (Scotland) Act 1978 (c. 29)
 
@@ -266,15 +266,15 @@ Section 29.
 
 [^c12741381]: Textual amendment: Sch. 2 paras. 34, 37, 46-49, 51-59, Sch. 4 pt. II paras. 38-43, Sch. 9 paras. 16 and 17 repealed (E.W.) (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108](https://www.legislation.gov.uk/ukpga/1989/41/section/108))(7), Sch.15 (with s. 108(6), Sch. 14 paras. 1(1), 27(4)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-45d5baadeb87f3b73523675e5c17a2d1]: Textual amendment: Sch. 9 para. 19 repealed (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) (with [Sch. 4 paras. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/2), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2897/article/2/b)
+[^c-45d5baadeb87f3b73523675e5c17a2d1]: Textual amendment: Sch. 9 para. 19 repealed (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) (with [Sch. 4 paras. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/2), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2897/article/2/b)
 
 [^c12741391]: Textual amendment: Sch. 8 Pts. III, IV, Pt. V para. 18, Pt. VII para. 31(3) and Sch. 9 para. 20 repealed by [Social Security Act 1986 (c. 50, SIF 113:1)](https://www.legislation.gov.uk/ukpga/1986/50), [s. 86(2)](https://www.legislation.gov.uk/ukpga/1986/50/section/86/2), [Sch. 11](https://www.legislation.gov.uk/ukpga/1986/50/schedule/11)
 
-[^key-4354c857e758e408e9880035bcf0785a]: Textual amendment: Sch. 9 para. 21 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-4354c857e758e408e9880035bcf0785a]: Textual amendment: Sch. 9 para. 21 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
-[^key-a00dc4734ccbe3cb12ed0c8250e08825]: Textual amendment: Sch. 9 para. 22 repealed (E.W.) (1.3.2007 immediately before the National Health Service Act 2006 comes into force) by [The National Health Service (Pre-consolidation Amendments) Order 2006 (S.I. 2006/1407)](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1407/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
+[^c-a00dc4734ccbe3cb12ed0c8250e08825]: Textual amendment: Sch. 9 para. 22 repealed (E.W.) (1.3.2007 immediately before the National Health Service Act 2006 comes into force) by [The National Health Service (Pre-consolidation Amendments) Order 2006 (S.I. 2006/1407)](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1407/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
 
-[^key-e9ca50804a690058f1a29a9d76ad6bcd]: Textual amendment: Sch. 9 para. 23 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-e9ca50804a690058f1a29a9d76ad6bcd]: Textual amendment: Sch. 9 para. 23 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
 [^c12741401]: Textual amendment: Sch. 9 Pt. I para. 25 repealed (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 242](https://www.legislation.gov.uk/ukpga/1996/18/section/242), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/18/schedule/3/part/I) (with [ss. 191](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [195](https://www.legislation.gov.uk/ukpga/1996/18/section/195), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202))
 

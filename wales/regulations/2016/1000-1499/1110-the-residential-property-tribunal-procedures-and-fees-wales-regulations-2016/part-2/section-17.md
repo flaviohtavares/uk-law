@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Supply of documents by tribunal[^key-2a44f73689e72383b7eb7b99bba93590]
+## 17. Supply of documents by tribunal[^c-2a44f73689e72383b7eb7b99bba93590]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ the tribunal must adjourn the hearing for a period which it considers will give 
 
 ## Annotations
 
-[^key-2a44f73689e72383b7eb7b99bba93590]: Commencement: Reg. 17 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-2a44f73689e72383b7eb7b99bba93590]: Commencement: Reg. 17 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

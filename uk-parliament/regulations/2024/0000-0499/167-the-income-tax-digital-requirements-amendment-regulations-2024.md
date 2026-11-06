@@ -32,7 +32,7 @@ summary: ''
 
 Income Tax
 
-The Income Tax (Digital Requirements) (Amendment) Regulations 2024 (revoked)[^key-0b99a1df9290fdfe40aab59e927e57b7]
+The Income Tax (Digital Requirements) (Amendment) Regulations 2024 (revoked)[^c-0b99a1df9290fdfe40aab59e927e57b7]
 
 Made
 
@@ -46,68 +46,68 @@ Coming into force
 
 14th March 2024
 
-[^key-0b99a1df9290fdfe40aab59e927e57b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b99a1df9290fdfe40aab59e927e57b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0b99a1df9290fdfe40aab59e927e57b7]
+## 1. Citation and commencement[^c-0b99a1df9290fdfe40aab59e927e57b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Income Tax (Digital Requirements) Regulations 2021[^key-0b99a1df9290fdfe40aab59e927e57b7]
+## 2. Amendment of the Income Tax (Digital Requirements) Regulations 2021[^c-0b99a1df9290fdfe40aab59e927e57b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-0b99a1df9290fdfe40aab59e927e57b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0b99a1df9290fdfe40aab59e927e57b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b99a1df9290fdfe40aab59e927e57b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0b99a1df9290fdfe40aab59e927e57b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b99a1df9290fdfe40aab59e927e57b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0b99a1df9290fdfe40aab59e927e57b7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/167) revoked (1.4.2026) by [The Income Tax (Digital Obligations) Regulations 2026 (S.I. 2026/336)](https://www.legislation.gov.uk/uksi/2026/336), [regs. 1](https://www.legislation.gov.uk/uksi/2026/336/regulation/1), [48(b)](https://www.legislation.gov.uk/uksi/2026/336/regulation/48/b)
+[^c-0b99a1df9290fdfe40aab59e927e57b7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/167) revoked (1.4.2026) by [The Income Tax (Digital Obligations) Regulations 2026 (S.I. 2026/336)](https://www.legislation.gov.uk/uksi/2026/336), [regs. 1](https://www.legislation.gov.uk/uksi/2026/336/regulation/1), [48(b)](https://www.legislation.gov.uk/uksi/2026/336/regulation/48/b)

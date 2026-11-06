@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 212. Registered society: change of rules[^key-ca93d1e485826c7145e541046c029466]
+## 212. Registered society: change of rules[^c-ca93d1e485826c7145e541046c029466]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca93d1e485826c7145e541046c029466]: Textual amendment: Ss. 211-214 and cross-heading omitted (6.4.2017) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2016/22/schedule/4/paragraph/31); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 4](https://www.legislation.gov.uk/uksi/2017/75/regulation/4)
+[^c-ca93d1e485826c7145e541046c029466]: Textual amendment: Ss. 211-214 and cross-heading omitted (6.4.2017) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2016/22/schedule/4/paragraph/31); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 4](https://www.legislation.gov.uk/uksi/2017/75/regulation/4)

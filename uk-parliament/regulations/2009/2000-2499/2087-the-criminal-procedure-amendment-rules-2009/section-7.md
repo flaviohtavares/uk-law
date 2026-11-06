@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**7.**[^key-c13576a51e696f298e4af44e27b264d2] For Part 6 (Court records), substitute the Part as set out in Schedule 2 to these Rules.
+**7.**[^c-c13576a51e696f298e4af44e27b264d2] For Part 6 (Court records), substitute the Part as set out in Schedule 2 to these Rules.
 
 ## Annotations
 
-[^key-c13576a51e696f298e4af44e27b264d2]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2009/2087/article/7) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
+[^c-c13576a51e696f298e4af44e27b264d2]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2009/2087/article/7) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)

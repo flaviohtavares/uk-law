@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Notice of right to decide to remain on a fixed term standard contract[^key-0af4a2daf241f6c33f3b38bc5eff12b4]
+## 15. Notice of right to decide to remain on a fixed term standard contract[^c-0af4a2daf241f6c33f3b38bc5eff12b4]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0af4a2daf241f6c33f3b38bc5eff12b4]: Commencement: [S. 15](https://www.legislation.gov.uk/anaw/2016/1/section/15) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-0af4a2daf241f6c33f3b38bc5eff12b4]: Commencement: [S. 15](https://www.legislation.gov.uk/anaw/2016/1/section/15) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

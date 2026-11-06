@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 94. Exclusion orders[^key-35306ad0a1a254cdd75fbd1c07c1d870][^key-f37e0751c478e91d6c1c50b5f6463859]
+## 94. Exclusion orders[^c-35306ad0a1a254cdd75fbd1c07c1d870][^c-f37e0751c478e91d6c1c50b5f6463859]
 
 *Extent: S*
 
@@ -54,6 +54,6 @@ may grant the order sought.
 
 ## Annotations
 
-[^key-35306ad0a1a254cdd75fbd1c07c1d870]: Modification: Ss. 94-96 modified (1.1.2008) by [Licensing (Transitional and Saving Provisions) (Scotland) Order 2007 (S.S.I. 2007/454)](https://www.legislation.gov.uk/ssi/2007/454), [arts. 1](https://www.legislation.gov.uk/ssi/2007/454/article/1), [26(2)](https://www.legislation.gov.uk/ssi/2007/454/article/26/2)(3)
+[^c-35306ad0a1a254cdd75fbd1c07c1d870]: Modification: Ss. 94-96 modified (1.1.2008) by [Licensing (Transitional and Saving Provisions) (Scotland) Order 2007 (S.S.I. 2007/454)](https://www.legislation.gov.uk/ssi/2007/454), [arts. 1](https://www.legislation.gov.uk/ssi/2007/454/article/1), [26(2)](https://www.legislation.gov.uk/ssi/2007/454/article/26/2)(3)
 
-[^key-f37e0751c478e91d6c1c50b5f6463859]: Commencement: S. 94 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-f37e0751c478e91d6c1c50b5f6463859]: Commencement: S. 94 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)

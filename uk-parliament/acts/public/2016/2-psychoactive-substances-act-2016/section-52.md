@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Appeal against decision under section 51[^key-24d25073ee8dc2bdcfc3c99d92726ea6]
+## 52. Appeal against decision under section 51[^c-24d25073ee8dc2bdcfc3c99d92726ea6]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ the officer must make reasonable efforts to give notice of the appeal to every p
 
 ## Annotations
 
-[^key-24d25073ee8dc2bdcfc3c99d92726ea6]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2016/2/section/52) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-24d25073ee8dc2bdcfc3c99d92726ea6]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2016/2/section/52) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

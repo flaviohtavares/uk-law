@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30ZD. CIECSS monetary penalties: publication of information[^key-30e12a78d13c507ac5be6869df726679]
+## 30ZD. CIECSS monetary penalties: publication of information[^c-30e12a78d13c507ac5be6869df726679]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ The Secretary of State may by regulations make provision requiring the CIECSS to
 
 ## Annotations
 
-[^key-30e12a78d13c507ac5be6869df726679]: Textual amendment: Ss. 30ZC, 30ZD and cross-heading inserted (29.4.2026 for specified purposes, 15.7.2026 but only for the insertion of ss. 30ZC(2)-(6), 30ZD) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/15/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(d)(i)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/d/i)
+[^c-30e12a78d13c507ac5be6869df726679]: Textual amendment: Ss. 30ZC, 30ZD and cross-heading inserted (29.4.2026 for specified purposes, 15.7.2026 but only for the insertion of ss. 30ZC(2)-(6), 30ZD) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/15/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(d)(i)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/d/i)

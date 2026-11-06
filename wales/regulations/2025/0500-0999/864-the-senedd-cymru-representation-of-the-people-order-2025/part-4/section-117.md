@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 117. Avoidance of election for general corruption[^key-6e71eb07bd023f334c0b4b70a3604b54]
+## 117. Avoidance of election for general corruption[^c-6e71eb07bd023f334c0b4b70a3604b54]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e71eb07bd023f334c0b4b70a3604b54]: Commencement: Art. 117 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-6e71eb07bd023f334c0b4b70a3604b54]: Commencement: Art. 117 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

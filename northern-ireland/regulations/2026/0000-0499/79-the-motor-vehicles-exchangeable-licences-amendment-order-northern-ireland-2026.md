@@ -42,11 +42,11 @@ Coming into operation-
 
 The Department for Infrastructure[^f00001], being satisfied that satisfactory provision is made by the laws of the territories specified in this Order as respects the granting of driving licences of the description specified in this Order, makes the following Order in exercise of the powers conferred by Articles 19D(2)(b), (2A), and (2B) and 218 of the Road Traffic (Northern Ireland) Order 1981[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-7e2e7fd2d4a319e2e47e9b67ac6f0013]
+## 1. Citation and commencement[^c-7e2e7fd2d4a319e2e47e9b67ac6f0013]
 
 This Order may be cited as the Motor Vehicles (Exchangeable Licences) (Amendment) Order (Northern Ireland) 2026 and shall come into operation on 1st June 2026.
 
-## 2. Amendment of the Motor Vehicles (Exchangeable Licences) Order[^key-09f8ca4816b95a576c0e003d4547665f]
+## 2. Amendment of the Motor Vehicles (Exchangeable Licences) Order[^c-09f8ca4816b95a576c0e003d4547665f]
 
 (1) The Motor Vehicles (Exchangeable Licences) Order (Northern Ireland) 2022[^f00004] is amended in accordance with paragraph (2) to (8).
 
@@ -133,8 +133,8 @@ An Explanatory Memorandum has been produced and is available from Driving, Vehic
 
 [^f00003]: Footnote: See Article 8(1)(b) of, and Part 2 of Schedule 5 to, the Departments (Transfer of Functions) Order (Northern Ireland) 2016 ([S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76))
 
-[^key-7e2e7fd2d4a319e2e47e9b67ac6f0013]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2026/79/article/1) in operation at 1.6.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/79/article/1)
+[^c-7e2e7fd2d4a319e2e47e9b67ac6f0013]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2026/79/article/1) in operation at 1.6.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/79/article/1)
 
-[^key-09f8ca4816b95a576c0e003d4547665f]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2026/79/article/2) in operation at 1.6.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/79/article/1)
+[^c-09f8ca4816b95a576c0e003d4547665f]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2026/79/article/2) in operation at 1.6.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/79/article/1)
 
 [^f00004]: Footnote: [S.R. 2022 No. 239](https://www.legislation.gov.uk/nisr/2022/239)

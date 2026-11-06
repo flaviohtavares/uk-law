@@ -42,8 +42,8 @@ summary: ''
 
 (5) The amendments made by subsections (2) and (3) apply only where the relevant decision (within the meaning given by section 6(5) of the State Pension Credit Act 2002 (c. 16)) takes effect on or after 6 April 2009.
 
-(6)[^key-08da0870de53d163613fa49973e37150] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-08da0870de53d163613fa49973e37150] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-08da0870de53d163613fa49973e37150]: Textual amendment: S. 105(6) repealed (14.5.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 29(2)(a)](https://www.legislation.gov.uk/ukpga/2014/19/section/29/2/a), [56(2)(a)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/2/a)
+[^c-08da0870de53d163613fa49973e37150]: Textual amendment: S. 105(6) repealed (14.5.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 29(2)(a)](https://www.legislation.gov.uk/ukpga/2014/19/section/29/2/a), [56(2)(a)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/2/a)

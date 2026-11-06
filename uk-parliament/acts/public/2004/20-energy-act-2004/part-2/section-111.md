@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Regulations about decommissioning[^key-50a49466e7fecad5a030f8e0dce8c045]
+## 111. Regulations about decommissioning[^c-50a49466e7fecad5a030f8e0dce8c045]
 
 *Extent: E+W+S+N.I.*
 
-(1) The appropriate Minister[^key-f446ceb88a2c8efd41e9e5af847191b4] may make regulations relating to the decommissioning of relevant objects in waters regulated under this Chapter.
+(1) The appropriate Minister[^c-f446ceb88a2c8efd41e9e5af847191b4] may make regulations relating to the decommissioning of relevant objects in waters regulated under this Chapter.
 
 (2) The provision that may be contained in regulations under this section includes, in particular—
 
@@ -42,26 +42,26 @@ summary: ''
 - (a) organisations appearing to him to be representative of persons who will be affected by the regulations; and
 - (b) any other persons he considers appropriate.
 
-(6) Before making regulations under this section containing provision that relates to the decommissioning of relevant objects which are to be or are, [^key-658295c7d0cfdea709d76bdfa70b439c]... partly—
+(6) Before making regulations under this section containing provision that relates to the decommissioning of relevant objects which are to be or are, [^c-658295c7d0cfdea709d76bdfa70b439c]... partly—
 
 - (a) in Scottish waters, or
 - (b) in waters in a Scottish part of a Renewable Energy Zone,
 
 the Secretary of State must consult the Scottish Ministers.
 
-(7) Regulations under this section—[^key-f2625d5b844be74b9766adf4c8957482]
+(7) Regulations under this section—[^c-f2625d5b844be74b9766adf4c8957482]
 
-- (a) if made by the Secretary of State, are subject to the negative resolution procedure;[^key-0f2de6502aac9c6761da17137b3f684f]
+- (a) if made by the Secretary of State, are subject to the negative resolution procedure;[^c-0f2de6502aac9c6761da17137b3f684f]
 - (b) if made by the Scottish Ministers, are subject to the negative procedure (see section 28 of the Interpretation and Legislative Reform (Scotland) Act 2010).
 
 ## Annotations
 
-[^key-50a49466e7fecad5a030f8e0dce8c045]: Commencement: S. 111 in force at 1.10.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/877/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/877/schedule/2)
+[^c-50a49466e7fecad5a030f8e0dce8c045]: Commencement: S. 111 in force at 1.10.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/877/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/877/schedule/2)
 
-[^key-f446ceb88a2c8efd41e9e5af847191b4]: Textual amendment: Words in Pt. 2 Ch. 3 substituted (1.4.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(10)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/10)[(11)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/11), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))
+[^c-f446ceb88a2c8efd41e9e5af847191b4]: Textual amendment: Words in Pt. 2 Ch. 3 substituted (1.4.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(10)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/10)[(11)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/11), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))
 
-[^key-658295c7d0cfdea709d76bdfa70b439c]: Textual amendment: Words in s. 111(6) omitted (1.4.2017) by virtue of [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(11)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/11)[(12)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/12), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))
+[^c-658295c7d0cfdea709d76bdfa70b439c]: Textual amendment: Words in s. 111(6) omitted (1.4.2017) by virtue of [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(11)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/11)[(12)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/12), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))
 
-[^key-f2625d5b844be74b9766adf4c8957482]: Textual amendment: Words in s. 111(7) inserted (1.4.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(13)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/13/a), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))
+[^c-f2625d5b844be74b9766adf4c8957482]: Textual amendment: Words in s. 111(7) inserted (1.4.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(13)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/13/a), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))
 
-[^key-0f2de6502aac9c6761da17137b3f684f]: Textual amendment: S. 111(7)(b) inserted (1.4.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(13)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/13/b), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))
+[^c-0f2de6502aac9c6761da17137b3f684f]: Textual amendment: S. 111(7)(b) inserted (1.4.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(13)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/13/b), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Conditional discharge: relevant conditions[^key-103b7134571ba1b988efc8697886d29a]
+## 48. Conditional discharge: relevant conditions[^c-103b7134571ba1b988efc8697886d29a]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-103b7134571ba1b988efc8697886d29a]: Commencement: S. 48 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-103b7134571ba1b988efc8697886d29a]: Commencement: S. 48 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

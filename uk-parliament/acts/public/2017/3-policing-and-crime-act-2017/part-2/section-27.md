@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Regulations about super-complaints[^c22718601][^key-93713bc6174881ac6a68879cb5d9c82e]
+## 27. Regulations about super-complaints[^c22718601][^c-93713bc6174881ac6a68879cb5d9c82e]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c22718601]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2017/3/section/27) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-93713bc6174881ac6a68879cb5d9c82e]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2017/3/section/27) in force at 16.4.2018 in so far as not already in force by [S.I. 2018/456](https://www.legislation.gov.uk/uksi/2018/456), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/456/regulation/3/c)
+[^c-93713bc6174881ac6a68879cb5d9c82e]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2017/3/section/27) in force at 16.4.2018 in so far as not already in force by [S.I. 2018/456](https://www.legislation.gov.uk/uksi/2018/456), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/456/regulation/3/c)

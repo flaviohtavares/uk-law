@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Revocation of Commission Decision C(2015) 8005[^key-16bf559e2d0d8fbb5a3a817141d8e9bf]
+## 128. Revocation of Commission Decision C(2015) 8005[^c-16bf559e2d0d8fbb5a3a817141d8e9bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Implementing Decision C(2015) 8005 of 16 November 2015 laying down de
 
 ## Annotations
 
-[^key-16bf559e2d0d8fbb5a3a817141d8e9bf]: Commencement: Reg. 128 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-16bf559e2d0d8fbb5a3a817141d8e9bf]: Commencement: Reg. 128 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Proliferation financing[^key-71de39f2a72db5b2ff9e655f4d3fa9b2][^key-cbf47018821f5e6d79f1eee735a156cb]
+## 101. Proliferation financing[^c-71de39f2a72db5b2ff9e655f4d3fa9b2][^c-cbf47018821f5e6d79f1eee735a156cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-71de39f2a72db5b2ff9e655f4d3fa9b2]: Commencement: Reg. 101 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-71de39f2a72db5b2ff9e655f4d3fa9b2]: Commencement: Reg. 101 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-cbf47018821f5e6d79f1eee735a156cb]: Commencement: [Reg. 101](https://www.legislation.gov.uk/uksi/2019/411/regulation/101) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cbf47018821f5e6d79f1eee735a156cb]: Commencement: [Reg. 101](https://www.legislation.gov.uk/uksi/2019/411/regulation/101) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

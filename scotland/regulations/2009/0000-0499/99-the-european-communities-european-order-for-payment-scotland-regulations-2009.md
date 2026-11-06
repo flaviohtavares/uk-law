@@ -32,7 +32,7 @@ summary: ''
 
 PRIVATE INTERNATIONAL LAW
 
-The European Communities (European Order for Payment) (Scotland) Regulations 2009 (revoked)[^key-a79d0d2d400e87b9f5ac732260549f69]
+The European Communities (European Order for Payment) (Scotland) Regulations 2009 (revoked)[^c-a79d0d2d400e87b9f5ac732260549f69]
 
 Made
 
@@ -46,26 +46,26 @@ Coming into force
 
 6th April 2009
 
-[^key-a79d0d2d400e87b9f5ac732260549f69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a79d0d2d400e87b9f5ac732260549f69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-a79d0d2d400e87b9f5ac732260549f69]
+## 1. Citation, commencement and extent[^c-a79d0d2d400e87b9f5ac732260549f69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-a79d0d2d400e87b9f5ac732260549f69]
+## 2. Interpretation[^c-a79d0d2d400e87b9f5ac732260549f69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Jurisdiction[^key-a79d0d2d400e87b9f5ac732260549f69]
+## 3. Jurisdiction[^c-a79d0d2d400e87b9f5ac732260549f69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a79d0d2d400e87b9f5ac732260549f69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a79d0d2d400e87b9f5ac732260549f69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a79d0d2d400e87b9f5ac732260549f69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a79d0d2d400e87b9f5ac732260549f69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a79d0d2d400e87b9f5ac732260549f69]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2009/99) revoked (31.12.2020) by [The European Enforcement Order, European Order for Payment and European Small Claims Procedure (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1311)](https://www.legislation.gov.uk/uksi/2018/1311), [reg. 6](https://www.legislation.gov.uk/uksi/2018/1311/regulation/6) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/1311/part/5)) (as substituted by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/1493/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a79d0d2d400e87b9f5ac732260549f69]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2009/99) revoked (31.12.2020) by [The European Enforcement Order, European Order for Payment and European Small Claims Procedure (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1311)](https://www.legislation.gov.uk/uksi/2018/1311), [reg. 6](https://www.legislation.gov.uk/uksi/2018/1311/regulation/6) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/1311/part/5)) (as substituted by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/1493/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -26,7 +26,7 @@ summary: ''
 
 **Not yet in force.**
 
-#### 1. Exercise of regulatory functions[^key-9ec05f93bff325fda08b322291014799]
+#### 1. Exercise of regulatory functions[^c-9ec05f93bff325fda08b322291014799]
 
 (1) Section 3A of the 1980 Act (discharge of functions of the Council of the Law Society) is amended as follows.
 
@@ -34,7 +34,7 @@ summary: ''
 
 (3) In subsection (11), in paragraph (a), for “3B to 3G” substitute “3B and 3D and Chapter 2 of Part 1 of the Regulation of Legal Services (Scotland) Act 2025”.
 
-**2.**[^key-53faede412ff5839c581f9f2f248ecb7] (1) Section 3B of the 1980 Act is amended as follows.
+**2.**[^c-53faede412ff5839c581f9f2f248ecb7] (1) Section 3B of the 1980 Act is amended as follows.
 
 (2) In subsection (1), for “for the purpose mentioned in subsection (2)” substitute “in accordance with Chapter 2 of Part 1 of the Regulation of Legal Services (Scotland) Act 2025”.
 
@@ -51,12 +51,12 @@ summary: ''
 
 .
 
-**3.**[^key-3329f682c69eafd8e6813487b1db22a2] The following sections of the 1980 Act are repealed—
+**3.**[^c-3329f682c69eafd8e6813487b1db22a2] The following sections of the 1980 Act are repealed—
 
 - (a) section 3C (particular rules applying),
 - (b) section 3E (further provision for section 3B etc.).
 
-**4.**[^key-e80672827ce3560a26d584082d987f77] (1) Section 3F of the 1980 Act (meaning of regulatory functions) is amended as follows.
+**4.**[^c-e80672827ce3560a26d584082d987f77] (1) Section 3F of the 1980 Act (meaning of regulatory functions) is amended as follows.
 
 (2) In subsection (1), for “3B to 3E” substitute “3B and 3D”.
 
@@ -73,11 +73,11 @@ summary: ''
 
 .
 
-**5.**[^key-d6b8d05bf2c09f3322e0a1716fa66cca] (1) Section 3G of the 1980 Act (extended meaning of regulatory functions under section 3F) is amended as follows.
+**5.**[^c-d6b8d05bf2c09f3322e0a1716fa66cca] (1) Section 3G of the 1980 Act (extended meaning of regulatory functions under section 3F) is amended as follows.
 
 (2) In the opening words, for “3B to 3E” substitute “3B and 3D”.
 
-#### 6. Client Protection Fund[^key-0685ea050f5fa295eafbf3f58d844a61]
+#### 6. Client Protection Fund[^c-0685ea050f5fa295eafbf3f58d844a61]
 
 (1) Section 43 of the 1980 Act (Guarantee Fund) is amended as follows.
 
@@ -144,21 +144,21 @@ summary: ''
 
 .
 
-**7.**[^key-7563fa440422240323ff8b95a31bb1cc] (1) Schedule 3 of the 1980 Act is amended as follows.
+**7.**[^c-7563fa440422240323ff8b95a31bb1cc] (1) Schedule 3 of the 1980 Act is amended as follows.
 
 (2) In Part 1, paragraph 5 of Part 1 (as inserted by section 130(b) of the 2010 Act) is repealed.
 
-**8.**[^key-9f5ff02da10583b6e35e90947f2b7835] In section 39 of the 2007 Act (monitoring effectiveness of guarantee funds etc.), in paragraph (a) of subsection (1), before “the Council” insert “the regulatory committee of”.
+**8.**[^c-9f5ff02da10583b6e35e90947f2b7835] In section 39 of the 2007 Act (monitoring effectiveness of guarantee funds etc.), in paragraph (a) of subsection (1), before “the Council” insert “the regulatory committee of”.
 
 ### Part 2 — Regulation of legal businesses
 
-#### 9. Regulatory functions[^key-7ba05b724e09623091d3b6177c7348ed][^key-6eeebb3792d85885be08ff418dd1060b]
+#### 9. Regulatory functions[^c-7ba05b724e09623091d3b6177c7348ed][^c-6eeebb3792d85885be08ff418dd1060b]
 
 (1) Section 3F of the 1980 Act (meaning of “**regulatory functions**”) is amended as follows.
 
 (2) In paragraph (a) of subsection (1), for “(including firms of solicitors) and incorporated practices” substitute “and authorised legal businesses”.
 
-#### 10. Suspension of authorisation[^key-f024075cc5904fdf6d1a09f98d6f90d8][^key-abd0c2cac8ee720c78b68a8f6d41dd3b]
+#### 10. Suspension of authorisation[^c-f024075cc5904fdf6d1a09f98d6f90d8][^c-abd0c2cac8ee720c78b68a8f6d41dd3b]
 
 (1) Section 18 of the 1980 Act (suspension of practising certificates) is amended as follows.
 
@@ -179,7 +179,7 @@ summary: ''
 - (a) in paragraph (a), for “incorporated practice” substitute “authorised legal business”,
 - (b) in paragraph (b), for “incorporated practice” substitute “authorised legal business”.
 
-#### 11. Consultants[^key-1c06a6029e7fcfc64a17749a0b6c2a3c][^key-d3782af8db8f9fb43bdda71d7835c71e]
+#### 11. Consultants[^c-1c06a6029e7fcfc64a17749a0b6c2a3c][^c-d3782af8db8f9fb43bdda71d7835c71e]
 
 (1) Section 21 of the 1980 Act (consultants to hold practising certificates) is amended as follows.
 
@@ -189,7 +189,7 @@ summary: ''
 
 .
 
-#### 12. Offence of disqualified solicitors dishonestly seeking employment[^key-c8f1d01654cf1f2aed33f24a1983720a][^key-706984213e172277a18d631d5d44dbfd]
+#### 12. Offence of disqualified solicitors dishonestly seeking employment[^c-c8f1d01654cf1f2aed33f24a1983720a][^c-706984213e172277a18d631d5d44dbfd]
 
 (1) Section 28 of the 1980 Act (offence for solicitors who are disqualified to seek employment without informing employer) is amended as follows.
 
@@ -198,7 +198,7 @@ summary: ''
 - (a) for “a solicitor in connection with that solicitors practice or by an incorporated practice or multi-national practice” substitute “an authorised legal business”, and
 - (b) the words “him, or as the case may be,” are repealed.
 
-#### 13. Rules as to professional practice, conduct and discipline[^key-5958331afb5c66b03b47a35d555440cc][^key-c310b27399e05149e33a4c6f3ea75d98]
+#### 13. Rules as to professional practice, conduct and discipline[^c-5958331afb5c66b03b47a35d555440cc][^c-c310b27399e05149e33a4c6f3ea75d98]
 
 (1) Section 34 of the 1980 Act (rules as to professional practice, conduct and discipline) is amended as follows.
 
@@ -215,7 +215,7 @@ summary: ''
 
 (4) In subsection (1D), in paragraph (a), for “incorporated practices” substitute “authorised legal businesses”.
 
-#### 14. Rules as to accounts etc.[^key-c44683b2933be069656971d2ddb70ffd][^key-f181c05b8f24b9549ccb0e25a3b93d60]
+#### 14. Rules as to accounts etc.[^c-c44683b2933be069656971d2ddb70ffd][^c-f181c05b8f24b9549ccb0e25a3b93d60]
 
 (1) Section 35 of the 1980 Act (accounts rules) is amended as follows.
 
@@ -233,7 +233,7 @@ summary: ''
   - (i) after “solicitors” insert “or authorised legal businesses”,
   - (ii) for “a solicitor who” substitute “an authorised legal business which”.
 
-**15.**[^key-d4d0526529cfd4554227c6e4f605831f][^key-0ac32b6906d63c1d0af05d4ff7e9aafe] (1) Section 36 of the 1980 Act (interest on client’s money) is amended as follows.
+**15.**[^c-d4d0526529cfd4554227c6e4f605831f][^c-0ac32b6906d63c1d0af05d4ff7e9aafe] (1) Section 36 of the 1980 Act (interest on client’s money) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -251,7 +251,7 @@ summary: ''
 
 (5) In subsection (4), for “a solicitor and his client or an incorporated practice” substitute “an authorised legal business (or any solicitor acting on its behalf)”.
 
-**16.**[^key-de34bfb57b3ebf8a81025eae0a68d275][^key-22f508ea60f1f5518957d30f4f646d53] (1) Section 37 of the 1980 Act (accountant’s certificates) is amended as follows.
+**16.**[^c-de34bfb57b3ebf8a81025eae0a68d275][^c-22f508ea60f1f5518957d30f4f646d53] (1) Section 37 of the 1980 Act (accountant’s certificates) is amended as follows.
 
 (2) In subsection (2), for “incorporated practice” substitute “authorised legal business”.
 
@@ -285,7 +285,7 @@ summary: ''
 - (a) for “solicitor or incorporated practice” substitute “authorised legal business”,
 - (b) the words “him, or as the case may be,” are repealed.
 
-**17.**[^key-bde0ee92ff05238ad919791e924500c3][^key-9aed6cd34ba5329b20bce00822a2a302] (1) Section 37A of the 1980 Act (accounts and anti-money laundering fees) is amended as follows.
+**17.**[^c-bde0ee92ff05238ad919791e924500c3][^c-9aed6cd34ba5329b20bce00822a2a302] (1) Section 37A of the 1980 Act (accounts and anti-money laundering fees) is amended as follows.
 
 (2) In subsection (1), in paragraph (b), for “incorporated practice” substitute “authorised legal business”.
 
@@ -294,7 +294,7 @@ summary: ''
 - (a) for “incorporated practices” substitute “authorised legal businesses”,
 - (b) after “as” insert “owners, partners,”.
 
-#### 18. Powers where excessive fees etc. charged[^key-534eec435eb4d64345c83bbf2cd6f3a3][^key-7974c3e515345b704aef889d6d8f7434]
+#### 18. Powers where excessive fees etc. charged[^c-534eec435eb4d64345c83bbf2cd6f3a3][^c-7974c3e515345b704aef889d6d8f7434]
 
 (1) Section 39A of the 1980 Act (powers where excessive fees etc. charged) is amended as follows.
 
@@ -313,7 +313,7 @@ summary: ''
 
 (7) In subsection (7), for “incorporated practice” substitute “authorised legal business”.
 
-#### 19. Powers where failure to comply with rules[^key-ba3e195ae1fcef9ca89574e6604e3076][^key-38e45bd025a8efbe7926efbd2a6f85eb]
+#### 19. Powers where failure to comply with rules[^c-ba3e195ae1fcef9ca89574e6604e3076][^c-38e45bd025a8efbe7926efbd2a6f85eb]
 
 (1) Section 40 of the 1980 Act (power where failure to comply with accounts rules etc.) is amended as follows.
 
@@ -324,7 +324,7 @@ summary: ''
 
 (3) In subsection (2), for “incorporated practice” where it first occurs substitute “authorised legal business”.
 
-#### 20. Judicial factors[^key-95e69e644de69bc5346f971bfad3e012][^key-9fc51eff68a95cf9eec3a6887f213491]
+#### 20. Judicial factors[^c-95e69e644de69bc5346f971bfad3e012][^c-9fc51eff68a95cf9eec3a6887f213491]
 
 (1) Section 41 of the 1980 Act (appointment of judicial factor) is amended as follows.
 
@@ -336,7 +336,7 @@ summary: ''
 
 (5) In the closing words, for “incorporated practice” in both places it occurs substitute “authorised legal business”.
 
-#### 21. Distribution of sums in client bank account[^key-fe0695d82acf7f3120fdf749268d14ee][^key-31567d0e4181979eb2464d4f9986ed6b]
+#### 21. Distribution of sums in client bank account[^c-fe0695d82acf7f3120fdf749268d14ee][^c-31567d0e4181979eb2464d4f9986ed6b]
 
 (1) Section 42 of the 1980 Act (distribution of sums in client bank account) is amended as follows.
 
@@ -365,7 +365,7 @@ summary: ''
 
 (5) In subsection (3), for “incorporated practice” in each place it occurs substitute “authorised legal business”.
 
-#### 22. Client Protection Fund[^key-4d4076e2b765fb9bdd03f69e7fc23891][^key-4f5b8c18fee4429e443ea82520893c91]
+#### 22. Client Protection Fund[^c-4d4076e2b765fb9bdd03f69e7fc23891][^c-4f5b8c18fee4429e443ea82520893c91]
 
 (1) Section 43 of the 1980 Act (Guarantee Fund) is amended as follows.
 
@@ -389,7 +389,7 @@ summary: ''
 
 (4) In subsection (7), in paragraph (c), for “incorporated practice” substitute “authorised legal business”.
 
-**23.**[^key-cc1e28ed112ed3bdb8be47277bddd27e][^key-d3b1ab77816a0b62a5f632d69d647299] (1) Part 1 of schedule 3 of the 1980 Act (the Scottish Solicitors Guarantee Fund) is amended as follows.
+**23.**[^c-cc1e28ed112ed3bdb8be47277bddd27e][^c-d3b1ab77816a0b62a5f632d69d647299] (1) Part 1 of schedule 3 of the 1980 Act (the Scottish Solicitors Guarantee Fund) is amended as follows.
 
 (2) In paragraph 1—
 
@@ -415,11 +415,11 @@ summary: ''
 
 (4) In paragraph 4, in sub-paragraph (2), for “incorporated practice” substitute “authorised legal business”.
 
-**24.**[^key-cef7c4b8f93822e90288bbaf0dd2e55a][^key-49acd0f79c42061ce8c653fab2c7e3aa] (1) Part 2 of schedule 3 of the 1980 Act (powers of Council to investigate) is amended as follows.
+**24.**[^c-cef7c4b8f93822e90288bbaf0dd2e55a][^c-49acd0f79c42061ce8c653fab2c7e3aa] (1) Part 2 of schedule 3 of the 1980 Act (powers of Council to investigate) is amended as follows.
 
 (2) In paragraph 5, sub-paragraph (2), for “incorporated practice” substitute “authorised legal business”.
 
-#### 25. Professional indemnity[^key-94f4661db9224293a7b02199a1a872d5][^key-d7075d48ff7b0dc8db0ad7f5e3fe3455]
+#### 25. Professional indemnity[^c-94f4661db9224293a7b02199a1a872d5][^c-d7075d48ff7b0dc8db0ad7f5e3fe3455]
 
 (1) Section 44 of the 1980 Act (professional indemnity) is amended as follows.
 
@@ -434,7 +434,7 @@ summary: ''
 
 (4) In subsection (5), in the definition of “professional liability”, for “incorporated practices” substitute “authorised legal businesses”.
 
-#### 26. Safeguarding interests of clients[^key-8985214629d6daef4e4db30badbadc25][^key-374235774c195a5871a1a8505069fb7f]
+#### 26. Safeguarding interests of clients[^c-8985214629d6daef4e4db30badbadc25][^c-374235774c195a5871a1a8505069fb7f]
 
 (1) The 1980 Act is amended as follows.
 
@@ -556,7 +556,7 @@ summary: ''
 - (b) in sub-paragraph (2) for “45 or 46” substitute “45A or 46A”,
 - (c) sub-paragraph (3) is repealed.
 
-#### 27. Recovery of expenses of intervention[^key-7b26b44d036239711a45e8cca00cbda4][^key-c30fc57120edc2ef81733e34f8a732c4]
+#### 27. Recovery of expenses of intervention[^c-7b26b44d036239711a45e8cca00cbda4][^c-c30fc57120edc2ef81733e34f8a732c4]
 
 (1) In section 62A of the 1980 Act (Council’s power to recover expenses incurred under section 45 or 46)—
 
@@ -613,7 +613,7 @@ summary: ''
 
   .
 
-#### 28. Restrictions on employing a struck off or suspended solicitor[^key-f16d65f85b8c04cbde1f8e450c249c37][^key-4495b57ee9e2742461110ed43e6f7f85]
+#### 28. Restrictions on employing a struck off or suspended solicitor[^c-f16d65f85b8c04cbde1f8e450c249c37][^c-4495b57ee9e2742461110ed43e6f7f85]
 
 (1) Section 47 of the 1980 Act (restriction on employing solicitor struck off or suspended) is amended as follows.
 
@@ -631,7 +631,7 @@ summary: ''
 
 .
 
-#### 29. Complaints[^key-6888e62ff07ad3f10ef5d0826d5dae59][^key-25abb48c84bb952348bf2a5b7e50b19d]
+#### 29. Complaints[^c-6888e62ff07ad3f10ef5d0826d5dae59][^c-25abb48c84bb952348bf2a5b7e50b19d]
 
 (1) Section 51 of the 1980 Act (complaints to Tribunal) is amended as follows.
 
@@ -639,11 +639,11 @@ summary: ''
 
 (3) In subsection (4), after “solicitor” where it third occurs insert “or authorised legal business”.
 
-**30.**[^key-680d3d42a35f79627d41d3fc3865f5de][^key-a7a8bcb90a2dbb208b634b2e47e30bda] (1) Section 52 of the 1980 Act (procedure on complaints and appeals to Tribunal) is amended as follows.
+**30.**[^c-680d3d42a35f79627d41d3fc3865f5de][^c-a7a8bcb90a2dbb208b634b2e47e30bda] (1) Section 52 of the 1980 Act (procedure on complaints and appeals to Tribunal) is amended as follows.
 
 (2) In subsection (1), for “incorporated practice” substitute “authorised legal business”.
 
-**31.**[^key-270e29d0104cd2fe466d88d55b93aa51][^key-a676038f0725ce598ff98c520323b9c7] (1) Section 53 of the 1980 Act (powers of Tribunal) is amended as follows.
+**31.**[^c-270e29d0104cd2fe466d88d55b93aa51][^c-a676038f0725ce598ff98c520323b9c7] (1) Section 53 of the 1980 Act (powers of Tribunal) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -689,7 +689,7 @@ summary: ''
 
 (7) In subsection (7), after “(6A)” in both places it occurs insert “, (6AA)”.
 
-**32.**[^key-42bfa66d01bd2157ee561d183dc51423][^key-ebfad330a299572f2f2da1aae2595133] (1) Section 54 of the 1980 Act (appeals from decisions of Tribunal) is amended as follows.
+**32.**[^c-42bfa66d01bd2157ee561d183dc51423][^c-ebfad330a299572f2f2da1aae2595133] (1) Section 54 of the 1980 Act (appeals from decisions of Tribunal) is amended as follows.
 
 (2) In subsection (1A), for “incorporated practice” substitute “authorised legal business”.
 
@@ -701,7 +701,7 @@ summary: ''
 
 .
 
-**33.**[^key-bc79f1c70f087bc0aa57f6314de1b647][^key-9a61e69e54a6cb0fab98e5b567ebd7b3] (1) Part 2 of schedule 4 of the 1980 Act (procedure and powers of Tribunal) is amended as follows.
+**33.**[^c-bc79f1c70f087bc0aa57f6314de1b647][^c-9a61e69e54a6cb0fab98e5b567ebd7b3] (1) Part 2 of schedule 4 of the 1980 Act (procedure and powers of Tribunal) is amended as follows.
 
 (2) In paragraph 9, for “incorporated practice” in each place it occurs substitute “authorised legal business”.
 
@@ -722,7 +722,7 @@ summary: ''
 
 (6) In paragraph 25, for “, the firm of solicitors or, as the case may be, the incorporated practice,” substitute “or the authorised legal business,”.
 
-#### 34. Protection of banks[^key-df6ffd4fb23e6ac3c0db5f481e7a8713][^key-002f1be56e6e290eb2a3f3f44522001f]
+#### 34. Protection of banks[^c-df6ffd4fb23e6ac3c0db5f481e7a8713][^c-002f1be56e6e290eb2a3f3f44522001f]
 
 (1) Section 61 of the 1980 Act (protection of banks) is amended as follows.
 
@@ -732,13 +732,13 @@ summary: ''
 
 (4) In subsection (3), for “incorporated practice” in both places it occurs substitute “authorised legal business”.
 
-#### 35. Recovery of Council’s expenses[^key-c2cc16624968f70c5e95c56a188e537c][^key-c6901b517af9a3961e9418cd02e4b9dd]
+#### 35. Recovery of Council’s expenses[^c-c2cc16624968f70c5e95c56a188e537c][^c-c6901b517af9a3961e9418cd02e4b9dd]
 
 (1) Section 62A of the 1980 Act (Council’s power to recover expenses incurred under section 45 or 46) is amended as follows.
 
 (2) In subsection (1), for “incorporated practice” substitute “authorised legal business”.
 
-#### 36. Service of notices[^key-679eb37cda63d252f65a6d6807fee803][^key-d7d54af2cdc1ec9d57bb194c73ee8eeb]
+#### 36. Service of notices[^c-679eb37cda63d252f65a6d6807fee803][^c-d7d54af2cdc1ec9d57bb194c73ee8eeb]
 
 (1) Section 64 of the 1980 Act (service of notices etc.) is amended as follows.
 
@@ -746,7 +746,7 @@ summary: ''
 
 (3) After “office” insert “or last intimated address”.
 
-#### 37. Interpretation[^key-97b6a1f7cb0881a1ae0faf112423971d][^key-f6a9aafa72c0c3daac820f2997202123]
+#### 37. Interpretation[^c-97b6a1f7cb0881a1ae0faf112423971d][^c-f6a9aafa72c0c3daac820f2997202123]
 
 (1) Section 65 of the 1980 Act (interpretation) is amended as follows.
 
@@ -756,7 +756,7 @@ summary: ''
 
 .
 
-#### 38. Revenue powers in respect of authorised legal businesses[^key-81afa633db34688870ae2f29adecf0df][^key-a2e7b7bb1d90e059941826db9c682dc0]
+#### 38. Revenue powers in respect of authorised legal businesses[^c-81afa633db34688870ae2f29adecf0df][^c-a2e7b7bb1d90e059941826db9c682dc0]
 
 (1) Schedule 1 of the 1980 Act (the Law Society of Scotland) is amended as follows.
 
@@ -787,138 +787,138 @@ summary: ''
 
 ## Annotations
 
-[^key-9ec05f93bff325fda08b322291014799]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-9ec05f93bff325fda08b322291014799]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-53faede412ff5839c581f9f2f248ecb7]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-53faede412ff5839c581f9f2f248ecb7]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-3329f682c69eafd8e6813487b1db22a2]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-3329f682c69eafd8e6813487b1db22a2]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-e80672827ce3560a26d584082d987f77]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-e80672827ce3560a26d584082d987f77]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-d6b8d05bf2c09f3322e0a1716fa66cca]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-d6b8d05bf2c09f3322e0a1716fa66cca]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-0685ea050f5fa295eafbf3f58d844a61]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-0685ea050f5fa295eafbf3f58d844a61]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-7563fa440422240323ff8b95a31bb1cc]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-7563fa440422240323ff8b95a31bb1cc]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-9f5ff02da10583b6e35e90947f2b7835]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-9f5ff02da10583b6e35e90947f2b7835]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-7ba05b724e09623091d3b6177c7348ed]: Commencement: Sch. 1 para. 9 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-7ba05b724e09623091d3b6177c7348ed]: Commencement: Sch. 1 para. 9 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-6eeebb3792d85885be08ff418dd1060b]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/9) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-6eeebb3792d85885be08ff418dd1060b]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/9) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-f024075cc5904fdf6d1a09f98d6f90d8]: Commencement: Sch. 1 para. 10 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-f024075cc5904fdf6d1a09f98d6f90d8]: Commencement: Sch. 1 para. 10 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-abd0c2cac8ee720c78b68a8f6d41dd3b]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/10) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-abd0c2cac8ee720c78b68a8f6d41dd3b]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/10) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-1c06a6029e7fcfc64a17749a0b6c2a3c]: Commencement: Sch. 1 para. 11 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-1c06a6029e7fcfc64a17749a0b6c2a3c]: Commencement: Sch. 1 para. 11 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-d3782af8db8f9fb43bdda71d7835c71e]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/11) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-d3782af8db8f9fb43bdda71d7835c71e]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/11) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-c8f1d01654cf1f2aed33f24a1983720a]: Commencement: Sch. 1 para. 12 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-c8f1d01654cf1f2aed33f24a1983720a]: Commencement: Sch. 1 para. 12 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-706984213e172277a18d631d5d44dbfd]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/12) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-706984213e172277a18d631d5d44dbfd]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/12) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-5958331afb5c66b03b47a35d555440cc]: Commencement: Sch. 1 para. 13 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-5958331afb5c66b03b47a35d555440cc]: Commencement: Sch. 1 para. 13 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-c310b27399e05149e33a4c6f3ea75d98]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/13) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-c310b27399e05149e33a4c6f3ea75d98]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/13) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-c44683b2933be069656971d2ddb70ffd]: Commencement: Sch. 1 para. 14 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-c44683b2933be069656971d2ddb70ffd]: Commencement: Sch. 1 para. 14 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-f181c05b8f24b9549ccb0e25a3b93d60]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/14) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-f181c05b8f24b9549ccb0e25a3b93d60]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/14) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-d4d0526529cfd4554227c6e4f605831f]: Commencement: Sch. 1 para. 15 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-d4d0526529cfd4554227c6e4f605831f]: Commencement: Sch. 1 para. 15 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-0ac32b6906d63c1d0af05d4ff7e9aafe]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/15) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-0ac32b6906d63c1d0af05d4ff7e9aafe]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/15) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-de34bfb57b3ebf8a81025eae0a68d275]: Commencement: Sch. 1 para. 16 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-de34bfb57b3ebf8a81025eae0a68d275]: Commencement: Sch. 1 para. 16 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-22f508ea60f1f5518957d30f4f646d53]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/16) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-22f508ea60f1f5518957d30f4f646d53]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/16) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-bde0ee92ff05238ad919791e924500c3]: Commencement: Sch. 1 para. 17 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-bde0ee92ff05238ad919791e924500c3]: Commencement: Sch. 1 para. 17 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-9aed6cd34ba5329b20bce00822a2a302]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/17) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-9aed6cd34ba5329b20bce00822a2a302]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/17) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-534eec435eb4d64345c83bbf2cd6f3a3]: Commencement: Sch. 1 para. 18 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-534eec435eb4d64345c83bbf2cd6f3a3]: Commencement: Sch. 1 para. 18 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-7974c3e515345b704aef889d6d8f7434]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/18) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-7974c3e515345b704aef889d6d8f7434]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/18) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-ba3e195ae1fcef9ca89574e6604e3076]: Commencement: Sch. 1 para. 19 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-ba3e195ae1fcef9ca89574e6604e3076]: Commencement: Sch. 1 para. 19 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-38e45bd025a8efbe7926efbd2a6f85eb]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/19) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-38e45bd025a8efbe7926efbd2a6f85eb]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/19) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-95e69e644de69bc5346f971bfad3e012]: Commencement: Sch. 1 para. 20 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-95e69e644de69bc5346f971bfad3e012]: Commencement: Sch. 1 para. 20 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-9fc51eff68a95cf9eec3a6887f213491]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/20) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-9fc51eff68a95cf9eec3a6887f213491]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/20) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-fe0695d82acf7f3120fdf749268d14ee]: Commencement: Sch. 1 para. 21 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-fe0695d82acf7f3120fdf749268d14ee]: Commencement: Sch. 1 para. 21 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-31567d0e4181979eb2464d4f9986ed6b]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/21) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-31567d0e4181979eb2464d4f9986ed6b]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/21) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-4d4076e2b765fb9bdd03f69e7fc23891]: Commencement: Sch. 1 para. 22 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-4d4076e2b765fb9bdd03f69e7fc23891]: Commencement: Sch. 1 para. 22 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-4f5b8c18fee4429e443ea82520893c91]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/22) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-4f5b8c18fee4429e443ea82520893c91]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/22) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-cc1e28ed112ed3bdb8be47277bddd27e]: Commencement: Sch. 1 para. 23 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-cc1e28ed112ed3bdb8be47277bddd27e]: Commencement: Sch. 1 para. 23 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-d3b1ab77816a0b62a5f632d69d647299]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/23) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-d3b1ab77816a0b62a5f632d69d647299]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/23) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-cef7c4b8f93822e90288bbaf0dd2e55a]: Commencement: Sch. 1 para. 24 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-cef7c4b8f93822e90288bbaf0dd2e55a]: Commencement: Sch. 1 para. 24 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-49acd0f79c42061ce8c653fab2c7e3aa]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/24) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-49acd0f79c42061ce8c653fab2c7e3aa]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/24) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-94f4661db9224293a7b02199a1a872d5]: Commencement: Sch. 1 para. 25 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-94f4661db9224293a7b02199a1a872d5]: Commencement: Sch. 1 para. 25 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-d7075d48ff7b0dc8db0ad7f5e3fe3455]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/25) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-d7075d48ff7b0dc8db0ad7f5e3fe3455]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/25) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-8985214629d6daef4e4db30badbadc25]: Commencement: Sch. 1 para. 26 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-8985214629d6daef4e4db30badbadc25]: Commencement: Sch. 1 para. 26 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-374235774c195a5871a1a8505069fb7f]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/26) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-374235774c195a5871a1a8505069fb7f]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/26) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-7b26b44d036239711a45e8cca00cbda4]: Commencement: Sch. 1 para. 27 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-7b26b44d036239711a45e8cca00cbda4]: Commencement: Sch. 1 para. 27 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-c30fc57120edc2ef81733e34f8a732c4]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/27) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-c30fc57120edc2ef81733e34f8a732c4]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/27) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-f16d65f85b8c04cbde1f8e450c249c37]: Commencement: Sch. 1 para. 28 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-f16d65f85b8c04cbde1f8e450c249c37]: Commencement: Sch. 1 para. 28 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-4495b57ee9e2742461110ed43e6f7f85]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/28) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-4495b57ee9e2742461110ed43e6f7f85]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/28) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-6888e62ff07ad3f10ef5d0826d5dae59]: Commencement: Sch. 1 para. 29 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-6888e62ff07ad3f10ef5d0826d5dae59]: Commencement: Sch. 1 para. 29 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-25abb48c84bb952348bf2a5b7e50b19d]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/29) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-25abb48c84bb952348bf2a5b7e50b19d]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/29) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-680d3d42a35f79627d41d3fc3865f5de]: Commencement: Sch. 1 para. 30 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-680d3d42a35f79627d41d3fc3865f5de]: Commencement: Sch. 1 para. 30 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-a7a8bcb90a2dbb208b634b2e47e30bda]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/30) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-a7a8bcb90a2dbb208b634b2e47e30bda]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/30) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-270e29d0104cd2fe466d88d55b93aa51]: Commencement: Sch. 1 para. 31 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-270e29d0104cd2fe466d88d55b93aa51]: Commencement: Sch. 1 para. 31 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-a676038f0725ce598ff98c520323b9c7]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/31) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-a676038f0725ce598ff98c520323b9c7]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/31) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-42bfa66d01bd2157ee561d183dc51423]: Commencement: Sch. 1 para. 32 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-42bfa66d01bd2157ee561d183dc51423]: Commencement: Sch. 1 para. 32 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-ebfad330a299572f2f2da1aae2595133]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/32) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-ebfad330a299572f2f2da1aae2595133]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/32) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-bc79f1c70f087bc0aa57f6314de1b647]: Commencement: Sch. 1 para. 33 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-bc79f1c70f087bc0aa57f6314de1b647]: Commencement: Sch. 1 para. 33 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-9a61e69e54a6cb0fab98e5b567ebd7b3]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/33) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-9a61e69e54a6cb0fab98e5b567ebd7b3]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/33) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-df6ffd4fb23e6ac3c0db5f481e7a8713]: Commencement: Sch. 1 para. 34 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-df6ffd4fb23e6ac3c0db5f481e7a8713]: Commencement: Sch. 1 para. 34 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-002f1be56e6e290eb2a3f3f44522001f]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/34) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-002f1be56e6e290eb2a3f3f44522001f]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/34) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-c2cc16624968f70c5e95c56a188e537c]: Commencement: Sch. 1 para. 35 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-c2cc16624968f70c5e95c56a188e537c]: Commencement: Sch. 1 para. 35 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-c6901b517af9a3961e9418cd02e4b9dd]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/35) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-c6901b517af9a3961e9418cd02e4b9dd]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/35) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-679eb37cda63d252f65a6d6807fee803]: Commencement: Sch. 1 para. 36 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-679eb37cda63d252f65a6d6807fee803]: Commencement: Sch. 1 para. 36 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-d7d54af2cdc1ec9d57bb194c73ee8eeb]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/36) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-d7d54af2cdc1ec9d57bb194c73ee8eeb]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/36) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-97b6a1f7cb0881a1ae0faf112423971d]: Commencement: Sch. 1 para. 37 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-97b6a1f7cb0881a1ae0faf112423971d]: Commencement: Sch. 1 para. 37 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-f6a9aafa72c0c3daac820f2997202123]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/37) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-f6a9aafa72c0c3daac820f2997202123]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/37) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
 
-[^key-81afa633db34688870ae2f29adecf0df]: Commencement: Sch. 1 para. 38 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-81afa633db34688870ae2f29adecf0df]: Commencement: Sch. 1 para. 38 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-a2e7b7bb1d90e059941826db9c682dc0]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/38) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-a2e7b7bb1d90e059941826db9c682dc0]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/38) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)

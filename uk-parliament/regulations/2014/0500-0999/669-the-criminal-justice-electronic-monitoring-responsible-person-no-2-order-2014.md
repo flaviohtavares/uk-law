@@ -31,7 +31,7 @@ summary: ''
 
 Criminal Law, England And Wales
 
-The Criminal Justice (Electronic Monitoring) (Responsible Person) (No. 2) Order 2014 (revoked)[^key-fdd5a2459d6d6fd529dd09774fcb02d9]
+The Criminal Justice (Electronic Monitoring) (Responsible Person) (No. 2) Order 2014 (revoked)[^c-fdd5a2459d6d6fd529dd09774fcb02d9]
 
 Made
 
@@ -41,39 +41,39 @@ Coming into force
 
 at 7.00 a.m. on 23rd March 2014
 
-[^key-fdd5a2459d6d6fd529dd09774fcb02d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fdd5a2459d6d6fd529dd09774fcb02d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-fdd5a2459d6d6fd529dd09774fcb02d9]
+## 1. Citation, commencement and interpretation[^c-fdd5a2459d6d6fd529dd09774fcb02d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Person responsible for electronic monitoring of persons on bail[^key-fdd5a2459d6d6fd529dd09774fcb02d9]
+## 2. Person responsible for electronic monitoring of persons on bail[^c-fdd5a2459d6d6fd529dd09774fcb02d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Person responsible for electronic monitoring of persons subject to community orders and suspended sentence orders[^key-fdd5a2459d6d6fd529dd09774fcb02d9]
+## 3. Person responsible for electronic monitoring of persons subject to community orders and suspended sentence orders[^c-fdd5a2459d6d6fd529dd09774fcb02d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Person responsible for monitoring of persons subject to curfew conditions[^key-fdd5a2459d6d6fd529dd09774fcb02d9]
+## 4. Person responsible for monitoring of persons subject to curfew conditions[^c-fdd5a2459d6d6fd529dd09774fcb02d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Person responsible for electronic monitoring of persons subject to youth rehabilitation orders[^key-fdd5a2459d6d6fd529dd09774fcb02d9]
+## 5. Person responsible for electronic monitoring of persons subject to youth rehabilitation orders[^c-fdd5a2459d6d6fd529dd09774fcb02d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocations[^key-fdd5a2459d6d6fd529dd09774fcb02d9]
+## 6. Revocations[^c-fdd5a2459d6d6fd529dd09774fcb02d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fdd5a2459d6d6fd529dd09774fcb02d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fdd5a2459d6d6fd529dd09774fcb02d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-fdd5a2459d6d6fd529dd09774fcb02d9]
+## SCHEDULE[^c-fdd5a2459d6d6fd529dd09774fcb02d9]
 
 Article 6
 
@@ -81,8 +81,8 @@ Article 6
 
 **May not be in force at this date. Check the source.**
 
-[^key-fdd5a2459d6d6fd529dd09774fcb02d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fdd5a2459d6d6fd529dd09774fcb02d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fdd5a2459d6d6fd529dd09774fcb02d9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/669) revoked (31.1.2025) by [The Electronic Monitoring (Responsible Persons) (Miscellaneous) Regulations 2024 (S.I. 2024/340)](https://www.legislation.gov.uk/uksi/2024/340), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2024/340/regulation/2/3), [9(2)(a)](https://www.legislation.gov.uk/uksi/2024/340/regulation/9/2/a)
+[^c-fdd5a2459d6d6fd529dd09774fcb02d9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/669) revoked (31.1.2025) by [The Electronic Monitoring (Responsible Persons) (Miscellaneous) Regulations 2024 (S.I. 2024/340)](https://www.legislation.gov.uk/uksi/2024/340), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2024/340/regulation/2/3), [9(2)(a)](https://www.legislation.gov.uk/uksi/2024/340/regulation/9/2/a)

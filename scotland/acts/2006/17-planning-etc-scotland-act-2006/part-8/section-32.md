@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Grants for advice and assistance[^key-9d5a1ee9696f9a889d8754ccdff04c4c]
+## 32. Grants for advice and assistance[^c-9d5a1ee9696f9a889d8754ccdff04c4c]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ After section 253 of the principal Act insert—
 
 ## Annotations
 
-[^key-9d5a1ee9696f9a889d8754ccdff04c4c]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2006/17/section/32) in force at 1.4.2007 by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-9d5a1ee9696f9a889d8754ccdff04c4c]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2006/17/section/32) in force at 1.4.2007 by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)

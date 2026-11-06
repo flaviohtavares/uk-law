@@ -39,7 +39,7 @@ A Measure passed by the National Assembly of the Church of England to amend the 
 
 (1) Subject to the provisions of section 1(2) of the Deacons (Ordination of Women) Measure 1986[^c921750] no Bishop shall admit any person into Holy Orders except such person on careful and diligent examination, wherein the Bishop shall have called to his assistance the Archdeacons and other Ministers appointed for this purpose, be found to possess a sufficient knowledge of Holy Scripture, of the doctrine, discipline and worship of the Church of England as set forth in the Thirty-Nine Articles of Religion, the Book of Common Prayer and the Ordinal, and fulfils the requirement as to learning and other qualities which, subject to any directions given by the Convocation of the Province, the Bishop deems necessary for the office of Deacon.
 
-(2)[^key-3cee5c647521424a4ad00319ba1ef3ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3cee5c647521424a4ad00319ba1ef3ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 2. Ordination to priesthood in 24th year of age.
 
@@ -68,13 +68,13 @@ shall not be admitted into Holy Orders.
 
 ### 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c921756]
 
-### 11. Occupations of Ministers.[^key-2cc54fb34beeaaaad750ee9bcadb543c]
+### 11. Occupations of Ministers.[^c-2cc54fb34beeaaaad750ee9bcadb543c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Part III — General
 
-### 12. Provisions during vacancy of a See.[^key-c632c8420a743570149471170177ad6d]
+### 12. Provisions during vacancy of a See.[^c-c632c8420a743570149471170177ad6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -95,7 +95,7 @@ This Measure may be cited as the Clergy (Ordination and Miscellaneous Provisions
 
 [^c921750]: Textual amendment: Words inserted by [Deacons (Ordination of Women) Measure 1986 (No. 4, SIF 21:5)](https://www.legislation.gov.uk/ukcm/1986/4), [s. 1(3)(4)](https://www.legislation.gov.uk/ukcm/1986/4/section/1/3/4)
 
-[^key-3cee5c647521424a4ad00319ba1ef3ef]: Textual amendment: S. 1(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6 Group 1](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6)
+[^c-3cee5c647521424a4ad00319ba1ef3ef]: Textual amendment: S. 1(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6 Group 1](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6)
 
 [^c921752]: Marginal citation: [1804 c. 43](https://www.legislation.gov.uk/ukpga/1804/43).
 
@@ -107,9 +107,9 @@ This Measure may be cited as the Clergy (Ordination and Miscellaneous Provisions
 
 [^c921756]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukcm/1964/6/section/10) repealed by [Church of England (Legal Aid and Miscellaneous Provisions) Measure 1988 (No. 1, SIF 21:1)](https://www.legislation.gov.uk/ukcm/1988/1), [s. 14(2)](https://www.legislation.gov.uk/ukcm/1988/1/section/14/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/1988/1/schedule/3)
 
-[^key-2cc54fb34beeaaaad750ee9bcadb543c]: Textual amendment: S. 11 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6 Group 1](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6)
+[^c-2cc54fb34beeaaaad750ee9bcadb543c]: Textual amendment: S. 11 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6 Group 1](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6)
 
-[^key-c632c8420a743570149471170177ad6d]: Textual amendment: S. 12 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6 Group 1](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6)
+[^c-c632c8420a743570149471170177ad6d]: Textual amendment: S. 12 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6 Group 1](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6)
 
 [^c921763]: Marginal citation: [1931 No. 4](https://www.legislation.gov.uk/ukcm/1931/4).
 

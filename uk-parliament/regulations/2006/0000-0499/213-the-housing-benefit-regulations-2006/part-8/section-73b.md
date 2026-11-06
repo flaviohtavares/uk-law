@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 73B. Amount of extended payment (qualifying contributory benefits)[^key-32e0289911c86f76cf16a930b6d27bc6]
+## 73B. Amount of extended payment (qualifying contributory benefits)[^c-32e0289911c86f76cf16a930b6d27bc6]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ the amount of the extended payment (qualifying contributory benefits) for any we
 
 ## Annotations
 
-[^key-32e0289911c86f76cf16a930b6d27bc6]: Textual amendment: Regs. 73A-73D substituted for (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2008/959/regulation/3/2)
+[^c-32e0289911c86f76cf16a930b6d27bc6]: Textual amendment: Regs. 73A-73D substituted for (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2008/959/regulation/3/2)

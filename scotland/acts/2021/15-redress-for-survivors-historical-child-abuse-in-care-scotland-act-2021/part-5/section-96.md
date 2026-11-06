@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 96. Restriction on additional legal fees[^key-9dda059733b8feae504bec1dd9a08581]
+## 96. Restriction on additional legal fees[^c-9dda059733b8feae504bec1dd9a08581]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9dda059733b8feae504bec1dd9a08581]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2021/15/section/96) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-9dda059733b8feae504bec1dd9a08581]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2021/15/section/96) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

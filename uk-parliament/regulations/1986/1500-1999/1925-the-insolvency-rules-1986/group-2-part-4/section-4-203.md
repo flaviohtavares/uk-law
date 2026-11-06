@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.203. Control by liquidation committee[^key-e80593021db5cb5407eb7bfc1c9c923d]
+## 4.203. Control by liquidation committee[^c-e80593021db5cb5407eb7bfc1c9c923d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e80593021db5cb5407eb7bfc1c9c923d]: Commencement: [Rule 4.203](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.203) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-e80593021db5cb5407eb7bfc1c9c923d]: Commencement: [Rule 4.203](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.203) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

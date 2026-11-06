@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Commission Decision [2007/275/EC](https://www.legislation.gov.uk/european/decision/2007/0275) concerning lists of composite products to be subject to controls at border control posts[^key-d12f953bf5f656271b58c2bd89470cca]
+## 49. Commission Decision [2007/275/EC](https://www.legislation.gov.uk/european/decision/2007/0275) concerning lists of composite products to be subject to controls at border control posts[^c-d12f953bf5f656271b58c2bd89470cca]
 
 *Extent: E+W+S+N.I.*
 
@@ -86,4 +86,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d12f953bf5f656271b58c2bd89470cca]: Commencement: Reg. 49 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-d12f953bf5f656271b58c2bd89470cca]: Commencement: Reg. 49 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

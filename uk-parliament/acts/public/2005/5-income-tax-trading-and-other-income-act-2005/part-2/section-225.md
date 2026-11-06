@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies if, after the taxpayer has made an averaging claim, the relevant profits in any one or more[^key-f57deabc81277c941efc0f08962e500d] of the tax years to which the claim relates are adjusted for another reason.
+(1) This section applies if, after the taxpayer has made an averaging claim, the relevant profits in any one or more[^c-f57deabc81277c941efc0f08962e500d] of the tax years to which the claim relates are adjusted for another reason.
 
 (2) The averaging claim is ignored.
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f57deabc81277c941efc0f08962e500d]: Textual amendment: Words in [s. 225(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/225/1) substituted (with effect in accordance with s. 25(12) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 25(7)](https://www.legislation.gov.uk/ukpga/2016/24/section/25/7)
+[^c-f57deabc81277c941efc0f08962e500d]: Textual amendment: Words in [s. 225(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/225/1) substituted (with effect in accordance with s. 25(12) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 25(7)](https://www.legislation.gov.uk/ukpga/2016/24/section/25/7)

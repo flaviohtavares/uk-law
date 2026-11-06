@@ -35,22 +35,22 @@ implementing Directive 2004/36/EC of the European Parliament and of the Council 
 
 (Text with EEA relevance) (revoked)
 
-[^key-4dd68ae86c3a5ff552bb3647e550597f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4dd68ae86c3a5ff552bb3647e550597f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-4dd68ae86c3a5ff552bb3647e550597f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-4dd68ae86c3a5ff552bb3647e550597f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-4dd68ae86c3a5ff552bb3647e550597f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-4dd68ae86c3a5ff552bb3647e550597f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-4dd68ae86c3a5ff552bb3647e550597f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-4dd68ae86c3a5ff552bb3647e550597f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-4dd68ae86c3a5ff552bb3647e550597f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-4dd68ae86c3a5ff552bb3647e550597f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-4dd68ae86c3a5ff552bb3647e550597f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-4dd68ae86c3a5ff552bb3647e550597f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-4dd68ae86c3a5ff552bb3647e550597f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-4dd68ae86c3a5ff552bb3647e550597f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4dd68ae86c3a5ff552bb3647e550597f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4dd68ae86c3a5ff552bb3647e550597f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4dd68ae86c3a5ff552bb3647e550597f]: Textual amendment: Regulation revoked (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2019/645/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4dd68ae86c3a5ff552bb3647e550597f]: Textual amendment: Regulation revoked (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2019/645/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

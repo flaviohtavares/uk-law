@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — The Partnership Pension Account Ill-Health Benefits Arrangements[^key-dae00d72c50d4a788431396bfaff0390]
+## SCHEDULE 3 — The Partnership Pension Account Ill-Health Benefits Arrangements[^c-dae00d72c50d4a788431396bfaff0390]
 
 *Extent: E+W+S+N.I.*
 
@@ -185,4 +185,4 @@ The amount of the lump sum is equal to the lesser of the following amounts—
 
 ## Annotations
 
-[^key-dae00d72c50d4a788431396bfaff0390]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1964/schedule/3) inserted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2015 (S.I. 2015/602)](https://www.legislation.gov.uk/uksi/2015/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/602/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/602/regulation/2/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/602/schedule/1)
+[^c-dae00d72c50d4a788431396bfaff0390]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1964/schedule/3) inserted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2015 (S.I. 2015/602)](https://www.legislation.gov.uk/uksi/2015/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/602/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/602/regulation/2/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/602/schedule/1)

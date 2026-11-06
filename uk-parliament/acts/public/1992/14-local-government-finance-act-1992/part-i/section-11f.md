@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11F (Extent: W). Discounts: Wales (less discount or no discount) (Extent: W)[^key-fdd74cebbc6444fce1dc65fb3998a31e]
+## 11F (Extent: W). Discounts: Wales (less discount or no discount) (Extent: W)[^c-fdd74cebbc6444fce1dc65fb3998a31e]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fdd74cebbc6444fce1dc65fb3998a31e]: Textual amendment: [Ss. 11E](https://www.legislation.gov.uk/ukpga/1992/14/section/11E), [11F](https://www.legislation.gov.uk/ukpga/1992/14/section/11F) inserted (17.9.2024 for specified purposes, 1.4.2026 in so far as not already in force) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 18(5)](https://www.legislation.gov.uk/asc/2024/6/section/18/5), [23(5)](https://www.legislation.gov.uk/asc/2024/6/section/23/5)[(6)(b)](https://www.legislation.gov.uk/asc/2024/6/section/23/6/b); [W.S.I. 2026/14](https://www.legislation.gov.uk/wsi/2026/14), [art. 2](https://www.legislation.gov.uk/wsi/2026/14/article/2)
+[^c-fdd74cebbc6444fce1dc65fb3998a31e]: Textual amendment: [Ss. 11E](https://www.legislation.gov.uk/ukpga/1992/14/section/11E), [11F](https://www.legislation.gov.uk/ukpga/1992/14/section/11F) inserted (17.9.2024 for specified purposes, 1.4.2026 in so far as not already in force) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 18(5)](https://www.legislation.gov.uk/asc/2024/6/section/18/5), [23(5)](https://www.legislation.gov.uk/asc/2024/6/section/23/5)[(6)(b)](https://www.legislation.gov.uk/asc/2024/6/section/23/6/b); [W.S.I. 2026/14](https://www.legislation.gov.uk/wsi/2026/14), [art. 2](https://www.legislation.gov.uk/wsi/2026/14/article/2)

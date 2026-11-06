@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Judicial review[^key-b77e009ef85153e3e3538c3b1200186e]
+## 89. Judicial review[^c-b77e009ef85153e3e3538c3b1200186e]
 
 *Extent: S*
 
@@ -96,4 +96,4 @@ After section 27 of the Court of Session Act 1988, insert—
 
 ## Annotations
 
-[^key-b77e009ef85153e3e3538c3b1200186e]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2014/18/section/89) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/247/article/4))
+[^c-b77e009ef85153e3e3538c3b1200186e]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2014/18/section/89) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/247/article/4))

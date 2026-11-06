@@ -45,7 +45,7 @@ Coming into force
 
 in accordance with regulation 1
 
-The Treasury, being a government department designated[^c8702761] for the purposes of section 2(2) of the European Communities Act 1972[^c8702771] in relation to information society services, in exercise of the powers conferred by that section, and the powers conferred by sections 349(1), 414 and 428(3) of the Financial Services and Markets Act 2000[^c8702781], hereby make the following Regulations:[^key-a014b5f6e0baadf927bebc217e130c35]
+The Treasury, being a government department designated[^c8702761] for the purposes of section 2(2) of the European Communities Act 1972[^c8702771] in relation to information society services, in exercise of the powers conferred by that section, and the powers conferred by sections 349(1), 414 and 428(3) of the Financial Services and Markets Act 2000[^c8702781], hereby make the following Regulations:[^c-a014b5f6e0baadf927bebc217e130c35]
 
 ## PART 1 — GENERAL
 
@@ -56,107 +56,107 @@ These Regulations may be cited as the Electronic Commerce Directive (Financial S
 - (a) for the purpose of enabling the Authority to make rules, on 18th July 2002;
 - (b) otherwise, on 21st August 2002.
 
-### 2. Interpretation[^key-38b8725cad03f9aecda3bb50feb42559]
+### 2. Interpretation[^c-38b8725cad03f9aecda3bb50feb42559]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — MODIFICATION OF FUNCTIONS OF THE FINANCIAL CONDUCT AUTHORITY[^key-0840cbc12bdc6dfea8df859a0c8ec8a2]
+## PART 2 — MODIFICATION OF FUNCTIONS OF THE FINANCIAL CONDUCT AUTHORITY[^c-0840cbc12bdc6dfea8df859a0c8ec8a2]
 
-### 3. Consumer contract requirements: modification of rule-making power[^key-38b8725cad03f9aecda3bb50feb42559]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 4. Consumer contract requirements: information[^key-38b8725cad03f9aecda3bb50feb42559]
+### 3. Consumer contract requirements: modification of rule-making power[^c-38b8725cad03f9aecda3bb50feb42559]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Application of certain rules[^key-71e95d022d839cbf1c45de05eb0333e5]
+### 4. Consumer contract requirements: information[^c-38b8725cad03f9aecda3bb50feb42559]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Application of certain rules[^c-71e95d022d839cbf1c45de05eb0333e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — ARTICLE 3.4 OF THE ELECTRONIC COMMERCE DIRECTIVE
 
-### 6. Direction by Authority[^key-38b8725cad03f9aecda3bb50feb42559]
+### 6. Direction by Authority[^c-38b8725cad03f9aecda3bb50feb42559]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Policy conditions[^key-38b8725cad03f9aecda3bb50feb42559]
+### 7. Policy conditions[^c-38b8725cad03f9aecda3bb50feb42559]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Procedural conditions[^key-38b8725cad03f9aecda3bb50feb42559]
+### 8. Procedural conditions[^c-38b8725cad03f9aecda3bb50feb42559]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Urgent cases[^key-38b8725cad03f9aecda3bb50feb42559]
+### 9. Urgent cases[^c-38b8725cad03f9aecda3bb50feb42559]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Directions made under regulation 6[^key-38b8725cad03f9aecda3bb50feb42559]
+### 10. Directions made under regulation 6[^c-38b8725cad03f9aecda3bb50feb42559]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Referral to the Upper Tribunal[^key-38b8725cad03f9aecda3bb50feb42559][^key-00c24940e28094a893261bd82f2374a3]
+### 11. Referral to the Upper Tribunal[^c-38b8725cad03f9aecda3bb50feb42559][^c-00c24940e28094a893261bd82f2374a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3A — INCOMING PROVIDERS OF CREDIT-RELATED ACTIVITIES DIRECTING ALL OR MOST OF THEIR ACTIVITY TO THE UNITED KINGDOM[^key-63bb975178784248872c27c2f839641a]
+## PART 3A — INCOMING PROVIDERS OF CREDIT-RELATED ACTIVITIES DIRECTING ALL OR MOST OF THEIR ACTIVITY TO THE UNITED KINGDOM[^c-63bb975178784248872c27c2f839641a]
 
-### 11A. Scope of this Part[^key-38b8725cad03f9aecda3bb50feb42559]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 11B. Direction by Authority[^key-38b8725cad03f9aecda3bb50feb42559]
+### 11A. Scope of this Part[^c-38b8725cad03f9aecda3bb50feb42559]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11C. Article 72A of the Regulated Activities Order[^key-38b8725cad03f9aecda3bb50feb42559]
+### 11B. Direction by Authority[^c-38b8725cad03f9aecda3bb50feb42559]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11C. Article 72A of the Regulated Activities Order[^c-38b8725cad03f9aecda3bb50feb42559]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — ENFORCEMENT
 
-### 12. Application of certain provisions of the 2000 Act[^key-38b8725cad03f9aecda3bb50feb42559]
+### 12. Application of certain provisions of the 2000 Act[^c-38b8725cad03f9aecda3bb50feb42559]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — AMENDMENT OF THE FINANCIAL SERVICES AND MARKETS ACT 2000
 
-### 13. Amendment of sections 417 and 418 of the 2000 Act[^key-38b8725cad03f9aecda3bb50feb42559]
+### 13. Amendment of sections 417 and 418 of the 2000 Act[^c-38b8725cad03f9aecda3bb50feb42559]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 6 — MISCELLANEOUS AND CONSEQUENTIAL PROVISIONS
 
-### 14. Disclosure of information[^key-38b8725cad03f9aecda3bb50feb42559]
+### 14. Disclosure of information[^c-38b8725cad03f9aecda3bb50feb42559]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Notices[^key-38b8725cad03f9aecda3bb50feb42559]
+### 15. Notices[^c-38b8725cad03f9aecda3bb50feb42559]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Amendment of the Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^key-38b8725cad03f9aecda3bb50feb42559]
+### 16. Amendment of the Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^c-38b8725cad03f9aecda3bb50feb42559]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Functions of the Authority[^key-38b8725cad03f9aecda3bb50feb42559]
+### 17. Functions of the Authority[^c-38b8725cad03f9aecda3bb50feb42559]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Rights of action[^key-38b8725cad03f9aecda3bb50feb42559]
+### 18. Rights of action[^c-38b8725cad03f9aecda3bb50feb42559]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Exclusion of general regulations[^key-fa90f931aba8f9d320f21b1f43ecb8a4]
+### 19. Exclusion of general regulations[^c-fa90f931aba8f9d320f21b1f43ecb8a4]
 
-(1)[^key-a7574cf9435e6ebc75d60225e4091f12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-a7574cf9435e6ebc75d60225e4091f12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-d3bc8ac26fab75bfa959fd248cd4f339] Regulation 4(3) of the general regulations does not apply to the Authority or any enforcement authority in respect of its responsibility in relation to a requirement imposed by or under the 2000 Act or these Regulations.
+(2)[^c-d3bc8ac26fab75bfa959fd248cd4f339] Regulation 4(3) of the general regulations does not apply to the Authority or any enforcement authority in respect of its responsibility in relation to a requirement imposed by or under the 2000 Act or these Regulations.
 
 (2A) Regulation 4(3) of the general regulations also does not apply to the Authority in respect of its responsibility in relation to a requirement imposed by or under regulations made by the Treasury under section 8 of the European Union (Withdrawal) Act 2018.
 
@@ -166,10 +166,10 @@ These Regulations may be cited as the Electronic Commerce Directive (Financial S
 
 (5) In this regulation—
 
-- “[^key-b5f3e5a788c34349662018226f7ac2e7]**the Authority**” means the Financial Conduct Authority;
+- “[^c-b5f3e5a788c34349662018226f7ac2e7]**the Authority**” means the Financial Conduct Authority;
 - “enforcement authority” has the same meaning as in the general regulations;
 - “general regulations” means the Electronic Commerce (EC Directive) Regulations 2002;
-- “[^key-07120d95ff851959c22538c6e19dd2bb]**rule**” means a rule made by the Authority under the 2000 Act.
+- “[^c-07120d95ff851959c22538c6e19dd2bb]**rule**” means a rule made by the Authority under the 2000 Act.
 - “relevant regulation” means regulation 6 to 9, 11 or 15 of the general regulations.
 
 Nick Ainger
@@ -206,24 +206,24 @@ Part 6 of the Regulations makes miscellaneous and consequential provisions with 
 
 [^c8702781]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-a014b5f6e0baadf927bebc217e130c35]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2002/1775): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-a014b5f6e0baadf927bebc217e130c35]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2002/1775): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-38b8725cad03f9aecda3bb50feb42559]: Textual amendment: [Regs. 2-18](https://www.legislation.gov.uk/uksi/2002/1775/regulation/2) omitted (31.12.2020) by virtue of [The Electronic Commerce and Solvency 2 (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1361)](https://www.legislation.gov.uk/uksi/2019/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/6/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-38b8725cad03f9aecda3bb50feb42559]: Textual amendment: [Regs. 2-18](https://www.legislation.gov.uk/uksi/2002/1775/regulation/2) omitted (31.12.2020) by virtue of [The Electronic Commerce and Solvency 2 (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1361)](https://www.legislation.gov.uk/uksi/2019/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/6/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0840cbc12bdc6dfea8df859a0c8ec8a2]: Textual amendment: Words in Pt. 2 heading substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/2), [Sch. 2 para. 77(3)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/77/3)
+[^c-0840cbc12bdc6dfea8df859a0c8ec8a2]: Textual amendment: Words in Pt. 2 heading substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/2), [Sch. 2 para. 77(3)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/77/3)
 
-[^key-71e95d022d839cbf1c45de05eb0333e5]: Textual amendment: Reg. 5 revoked (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/472/schedule/1)
+[^c-71e95d022d839cbf1c45de05eb0333e5]: Textual amendment: Reg. 5 revoked (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/472/schedule/1)
 
-[^key-00c24940e28094a893261bd82f2374a3]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2002/1775/regulation/11) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 38](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/38)
+[^c-00c24940e28094a893261bd82f2374a3]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2002/1775/regulation/11) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 38](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/38)
 
-[^key-63bb975178784248872c27c2f839641a]: Textual amendment: Pt. 3A inserted (24.3.2015) by [The Electronic Commerce Directive (Financial Services and Markets) (Amendment) Order 2015 (S.I. 2015/852)](https://www.legislation.gov.uk/uksi/2015/852), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/852/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2015/852/article/2/2)
+[^c-63bb975178784248872c27c2f839641a]: Textual amendment: Pt. 3A inserted (24.3.2015) by [The Electronic Commerce Directive (Financial Services and Markets) (Amendment) Order 2015 (S.I. 2015/852)](https://www.legislation.gov.uk/uksi/2015/852), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/852/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2015/852/article/2/2)
 
-[^key-fa90f931aba8f9d320f21b1f43ecb8a4]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2002/1775/regulation/19) inserted (21.8.2002) by [The Electronic Commerce Directive (Financial Services and Markets) (Amendment) Regulations 2002 (S.I. 2002/2015)](https://www.legislation.gov.uk/uksi/2002/2015), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2015/regulation/1), [2](https://www.legislation.gov.uk/uksi/2002/2015/regulation/2)
+[^c-fa90f931aba8f9d320f21b1f43ecb8a4]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2002/1775/regulation/19) inserted (21.8.2002) by [The Electronic Commerce Directive (Financial Services and Markets) (Amendment) Regulations 2002 (S.I. 2002/2015)](https://www.legislation.gov.uk/uksi/2002/2015), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2015/regulation/1), [2](https://www.legislation.gov.uk/uksi/2002/2015/regulation/2)
 
-[^key-a7574cf9435e6ebc75d60225e4091f12]: Textual amendment: [Reg. 19(1)](https://www.legislation.gov.uk/uksi/2002/1775/regulation/19/1) omitted (31.12.2020) by virtue of [The Electronic Commerce and Solvency 2 (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1361)](https://www.legislation.gov.uk/uksi/2019/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/6/3/a) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a7574cf9435e6ebc75d60225e4091f12]: Textual amendment: [Reg. 19(1)](https://www.legislation.gov.uk/uksi/2002/1775/regulation/19/1) omitted (31.12.2020) by virtue of [The Electronic Commerce and Solvency 2 (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1361)](https://www.legislation.gov.uk/uksi/2019/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/6/3/a) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d3bc8ac26fab75bfa959fd248cd4f339]: Textual amendment: [Reg. 19(2)](https://www.legislation.gov.uk/uksi/2002/1775/regulation/19/2)[(2A)](https://www.legislation.gov.uk/uksi/2002/1775/regulation/19/2A) substituted for [reg. 19(2)](https://www.legislation.gov.uk/uksi/2002/1775/regulation/19/2) (31.12.2020) by [The Electronic Commerce and Solvency 2 (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1361)](https://www.legislation.gov.uk/uksi/2019/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/6/3/b) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d3bc8ac26fab75bfa959fd248cd4f339]: Textual amendment: [Reg. 19(2)](https://www.legislation.gov.uk/uksi/2002/1775/regulation/19/2)[(2A)](https://www.legislation.gov.uk/uksi/2002/1775/regulation/19/2A) substituted for [reg. 19(2)](https://www.legislation.gov.uk/uksi/2002/1775/regulation/19/2) (31.12.2020) by [The Electronic Commerce and Solvency 2 (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1361)](https://www.legislation.gov.uk/uksi/2019/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/6/3/b) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b5f3e5a788c34349662018226f7ac2e7]: Textual amendment: Words in [reg. 19(5)](https://www.legislation.gov.uk/uksi/2002/1775/regulation/19/5) inserted (31.12.2020) by [The Electronic Commerce and Solvency 2 (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1361)](https://www.legislation.gov.uk/uksi/2019/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/1/2), [6(3)(c)(i)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/6/3/c/i) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b5f3e5a788c34349662018226f7ac2e7]: Textual amendment: Words in [reg. 19(5)](https://www.legislation.gov.uk/uksi/2002/1775/regulation/19/5) inserted (31.12.2020) by [The Electronic Commerce and Solvency 2 (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1361)](https://www.legislation.gov.uk/uksi/2019/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/1/2), [6(3)(c)(i)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/6/3/c/i) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-07120d95ff851959c22538c6e19dd2bb]: Textual amendment: Words in [reg. 19(5)](https://www.legislation.gov.uk/uksi/2002/1775/regulation/19/5) inserted (31.12.2020) by [The Electronic Commerce and Solvency 2 (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1361)](https://www.legislation.gov.uk/uksi/2019/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/1/2), [6(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/6/3/c/ii) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-07120d95ff851959c22538c6e19dd2bb]: Textual amendment: Words in [reg. 19(5)](https://www.legislation.gov.uk/uksi/2002/1775/regulation/19/5) inserted (31.12.2020) by [The Electronic Commerce and Solvency 2 (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1361)](https://www.legislation.gov.uk/uksi/2019/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/1/2), [6(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/6/3/c/ii) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

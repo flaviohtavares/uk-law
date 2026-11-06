@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7.2. Timetable in appeal[^key-241f5ca640165a4550683a9e64e720c9]
+## 7.2. Timetable in appeal[^c-241f5ca640165a4550683a9e64e720c9]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-241f5ca640165a4550683a9e64e720c9]: Commencement: Para. 7.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-241f5ca640165a4550683a9e64e720c9]: Commencement: Para. 7.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

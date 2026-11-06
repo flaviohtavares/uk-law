@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Removal from the medical list[^key-4a553462fddd7a3df904ca2debdba311]
+## 6. Removal from the medical list[^c-4a553462fddd7a3df904ca2debdba311]
 
 *Extent: N.I.*
 
@@ -73,6 +73,6 @@ but the failure to give notice to any doctor as required by sub-paragraph (*a*) 
 
 ## Annotations
 
-[^key-4a553462fddd7a3df904ca2debdba311]: Commencement: Reg. 6 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-4a553462fddd7a3df904ca2debdba311]: Commencement: Reg. 6 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
 [^f00017]: Footnote: Article 56(4C) was inserted by Article 7 of [S.I. 1986/2229 (N.I. 24)](https://www.legislation.gov.uk/nisi/1986/2229)

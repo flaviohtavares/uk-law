@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.5. Limited disclosure[^key-157cede1d85545ffcb25a1f99cae5d0f]
+## 3.5. Limited disclosure[^c-157cede1d85545ffcb25a1f99cae5d0f]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-157cede1d85545ffcb25a1f99cae5d0f]: Commencement: [Rule 3.5](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.5) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-157cede1d85545ffcb25a1f99cae5d0f]: Commencement: [Rule 3.5](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.5) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

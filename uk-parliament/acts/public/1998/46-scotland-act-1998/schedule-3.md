@@ -47,7 +47,7 @@ Section 22.
 
 ### The Presiding Officer and deputies
 
-**5.**[^key-50250703c166d6946b22f99ea8723d06] (1) The standing orders shall include provision for ensuring that the available officers do not all represent the same political party.
+**5.**[^c-50250703c166d6946b22f99ea8723d06] (1) The standing orders shall include provision for ensuring that the available officers do not all represent the same political party.
 
 (2) The available officers are—
 
@@ -68,4 +68,4 @@ Section 22.
 
 ## Annotations
 
-[^key-50250703c166d6946b22f99ea8723d06]: Textual amendment: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/1998/46/schedule/3/paragraph/5) substituted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 4(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/4/6), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/a)
+[^c-50250703c166d6946b22f99ea8723d06]: Textual amendment: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/1998/46/schedule/3/paragraph/5) substituted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 4(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/4/6), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/a)

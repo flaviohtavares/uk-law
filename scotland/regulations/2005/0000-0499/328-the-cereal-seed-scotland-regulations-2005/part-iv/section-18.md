@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Marketing of unpacketed seed[^key-8887bfce51d34fee18ba698735c25953]
+## 18. Marketing of unpacketed seed[^c-8887bfce51d34fee18ba698735c25953]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ A person may sell any seed otherwise than in a package which is sealed, labelled
 
 ## Annotations
 
-[^key-8887bfce51d34fee18ba698735c25953]: Commencement: Reg. 18 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
+[^c-8887bfce51d34fee18ba698735c25953]: Commencement: Reg. 18 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)

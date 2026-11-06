@@ -29,27 +29,27 @@ Licensing (Retail Sales) Act 1988 (repealed)
 
 1988 c. 25
 
-[^key-82a09062da430b630645b5fed4d468e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82a09062da430b630645b5fed4d468e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Amendment of definition of “sale by retail” in Licensing Act 1964.[^key-82a09062da430b630645b5fed4d468e7]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Repeal of section 181 of Licensing Act 1964.[^key-82a09062da430b630645b5fed4d468e7]
+## 1. Amendment of definition of “sale by retail” in Licensing Act 1964.[^c-82a09062da430b630645b5fed4d468e7]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Further consequential repeals.[^key-82a09062da430b630645b5fed4d468e7]
+## 2. Repeal of section 181 of Licensing Act 1964.[^c-82a09062da430b630645b5fed4d468e7]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Short title, commencement and extent.[^key-82a09062da430b630645b5fed4d468e7]
+## 3. Further consequential repeals.[^c-82a09062da430b630645b5fed4d468e7]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Short title, commencement and extent.[^c-82a09062da430b630645b5fed4d468e7]
 
 **No longer in force.**
 
@@ -57,4 +57,4 @@ Licensing (Retail Sales) Act 1988 (repealed)
 
 ## Annotations
 
-[^key-82a09062da430b630645b5fed4d468e7]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1988/25) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-82a09062da430b630645b5fed4d468e7]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1988/25) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))

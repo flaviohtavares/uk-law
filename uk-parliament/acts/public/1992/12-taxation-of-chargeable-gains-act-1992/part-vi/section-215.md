@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 215. Disposal of assets on amalgamation of building societies etc.[^key-c85802a4cf31a845d7af9d7499dbe334]
+## 215. Disposal of assets on amalgamation of building societies etc.[^c-c85802a4cf31a845d7af9d7499dbe334]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If, in the course of or as part of an amalgamation of 2 or more building societi
 
 ## Annotations
 
-[^key-c85802a4cf31a845d7af9d7499dbe334]: Modification: Ss. 215, 216 restricted (with effect in accordance with s. 131(4) of the amending Act) by [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), [s. 131(1)](https://www.legislation.gov.uk/ukpga/1995/4/section/131/1)[(2)(a)](https://www.legislation.gov.uk/ukpga/1995/4/section/131/2/a)
+[^c-c85802a4cf31a845d7af9d7499dbe334]: Modification: Ss. 215, 216 restricted (with effect in accordance with s. 131(4) of the amending Act) by [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), [s. 131(1)](https://www.legislation.gov.uk/ukpga/1995/4/section/131/1)[(2)(a)](https://www.legislation.gov.uk/ukpga/1995/4/section/131/2/a)

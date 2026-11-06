@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.4. Power to call witness for cross-examination on hearsay evidence[^key-758f8f134589efb4fd9641989b3e6073]
+## 33.4. Power to call witness for cross-examination on hearsay evidence[^c-758f8f134589efb4fd9641989b3e6073]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ the court may, on the application of any other party, permit that party to call 
 
 ## Annotations
 
-[^key-758f8f134589efb4fd9641989b3e6073]: Commencement: [Rule 33.4](https://www.legislation.gov.uk/uksi/1998/3132/rule/33.4) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-758f8f134589efb4fd9641989b3e6073]: Commencement: [Rule 33.4](https://www.legislation.gov.uk/uksi/1998/3132/rule/33.4) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

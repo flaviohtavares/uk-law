@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.40. Court in which petition to be filed[^key-9d156010a967dcd6505f8845da9baf7a]
+## 6.40. Court in which petition to be filed[^c-9d156010a967dcd6505f8845da9baf7a]
 
 *Extent: E+W*
 
@@ -31,19 +31,19 @@ summary: ''
 - (b) if he has for the greater part of those 6 months carried on business in one insolvency district and resided in another, the county court for that in which he has carried on business, or
 - (c) if he has during those 6 months carried on business in more than one insolvency district, the county court for that in which is, or has been for the longest period in those 6 months, his principal place of business.
 
-(3)[^key-7340b01f956516e27fd136e2bd3928d9] If, in a case not falling within paragraph (1), it is more expedient for the debtor with a view to expediting his petition—
+(3)[^c-7340b01f956516e27fd136e2bd3928d9] If, in a case not falling within paragraph (1), it is more expedient for the debtor with a view to expediting his petition—
 
 - (a) it may in any case be presented to whichever court is specified by Schedule 2 to the Rules as being, in relation to the debtor’s own court, the nearest full-time court, and
 - (b) it may alternatively, in a case falling within paragraph (2)(b), be presented to the court for the insolvency district in which he has resided for the greater part of the 6 months there referred to.
 
-(3A) Notwithstanding any other provision of this Rule, where there is in force for the debtor a voluntary arrangement under Part VIII of the Act the petition shall be presented to the court to which the nominee’s report under section 256 or section 256A or 263C[^key-e2a0421809e8cd4d35672636aa5dba8c] was submitted.
+(3A) Notwithstanding any other provision of this Rule, where there is in force for the debtor a voluntary arrangement under Part VIII of the Act the petition shall be presented to the court to which the nominee’s report under section 256 or section 256A or 263C[^c-e2a0421809e8cd4d35672636aa5dba8c] was submitted.
 
 (4) The petition shall contain sufficient information to establish that it is brought in the appropriate court.
 
 ## Annotations
 
-[^key-9d156010a967dcd6505f8845da9baf7a]: Commencement: Rule 6.40 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-9d156010a967dcd6505f8845da9baf7a]: Commencement: Rule 6.40 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-7340b01f956516e27fd136e2bd3928d9]: Textual amendment: Rule 6.40(3)(3A) substituted for rule 6.40(3) (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/rule/1), [Sch. para. 99](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/99)
+[^c-7340b01f956516e27fd136e2bd3928d9]: Textual amendment: Rule 6.40(3)(3A) substituted for rule 6.40(3) (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/rule/1), [Sch. para. 99](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/99)
 
-[^key-e2a0421809e8cd4d35672636aa5dba8c]: Textual amendment: Words in rule 6.40(3A) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/33)
+[^c-e2a0421809e8cd4d35672636aa5dba8c]: Textual amendment: Words in rule 6.40(3A) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/33)

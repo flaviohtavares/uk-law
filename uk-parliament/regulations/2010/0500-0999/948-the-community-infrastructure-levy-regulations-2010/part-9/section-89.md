@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Preliminary steps[^key-077772d9a6247c46369f466931a724aa]
+## 89. Preliminary steps[^c-077772d9a6247c46369f466931a724aa]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-077772d9a6247c46369f466931a724aa]: Commencement: Reg. 89 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-077772d9a6247c46369f466931a724aa]: Commencement: Reg. 89 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
 [^f00043]: Footnote: As to the consequences of failure to comply with a CIL stop notice, see regulations 93 and 94.

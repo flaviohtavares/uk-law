@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Extension of timetable for parliamentary elections[^key-1955107d7df32fb96275afbcafce1d97]
+## 14. Extension of timetable for parliamentary elections[^c-1955107d7df32fb96275afbcafce1d97]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-f0cb73116f16e95cba6be04b0832bca4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-f0cb73116f16e95cba6be04b0832bca4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Schedule 1 to the Representation of the People Act 1983 (parliamentary elections rules) is amended in accordance with subsections (3) to (5).
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1955107d7df32fb96275afbcafce1d97]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2013/6/section/14) in force at 6.4.2014 by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/414/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/414/article/4))
+[^c-1955107d7df32fb96275afbcafce1d97]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2013/6/section/14) in force at 6.4.2014 by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/414/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/414/article/4))
 
-[^key-f0cb73116f16e95cba6be04b0832bca4]: Textual amendment: [S. 14(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/14/1) omitted (24.3.2022) by virtue of [Dissolution and Calling of Parliament Act 2022 (c. 11)](https://www.legislation.gov.uk/ukpga/2022/11), [s. 6(3)](https://www.legislation.gov.uk/ukpga/2022/11/section/6/3), [Sch. para. 22](https://www.legislation.gov.uk/ukpga/2022/11/schedule/paragraph/22)
+[^c-f0cb73116f16e95cba6be04b0832bca4]: Textual amendment: [S. 14(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/14/1) omitted (24.3.2022) by virtue of [Dissolution and Calling of Parliament Act 2022 (c. 11)](https://www.legislation.gov.uk/ukpga/2022/11), [s. 6(3)](https://www.legislation.gov.uk/ukpga/2022/11/section/6/3), [Sch. para. 22](https://www.legislation.gov.uk/ukpga/2022/11/schedule/paragraph/22)

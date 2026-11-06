@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30A. Finance: humanitarian exception[^key-aa32cc2c06c06ce6a72cd021224d46ce]
+## 30A. Finance: humanitarian exception[^c-aa32cc2c06c06ce6a72cd021224d46ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ where Conditions A and B are met.
 
 ## Annotations
 
-[^key-aa32cc2c06c06ce6a72cd021224d46ce]: Textual amendment: [Reg. 30A](https://www.legislation.gov.uk/uksi/2020/1278/regulation/30A) inserted (9.2.2023) by [The Sanctions (Humanitarian Exception) (Amendment) Regulations 2023 (S.I. 2023/121)](https://www.legislation.gov.uk/uksi/2023/121), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/121/regulation/1/2), [13(2)](https://www.legislation.gov.uk/uksi/2023/121/regulation/13/2)
+[^c-aa32cc2c06c06ce6a72cd021224d46ce]: Textual amendment: [Reg. 30A](https://www.legislation.gov.uk/uksi/2020/1278/regulation/30A) inserted (9.2.2023) by [The Sanctions (Humanitarian Exception) (Amendment) Regulations 2023 (S.I. 2023/121)](https://www.legislation.gov.uk/uksi/2023/121), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/121/regulation/1/2), [13(2)](https://www.legislation.gov.uk/uksi/2023/121/regulation/13/2)

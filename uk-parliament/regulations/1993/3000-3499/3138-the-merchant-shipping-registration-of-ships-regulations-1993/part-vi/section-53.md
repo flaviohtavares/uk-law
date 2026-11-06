@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Transfer of port of choice[^key-9e781036aa7b6a973fec20c56da7689c]
+## 53. Transfer of port of choice[^c-9e781036aa7b6a973fec20c56da7689c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e781036aa7b6a973fec20c56da7689c]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/1993/3138/regulation/53) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-9e781036aa7b6a973fec20c56da7689c]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/1993/3138/regulation/53) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

@@ -29,8 +29,8 @@ transfer that right to the appropriate authority, together with the property in 
 
 For the purposes of this section the following are appropriate authorities:—
 
-- (i) in the case of a trunk road for which he is the highway authority[^key-54d1c7f389768773bd9d1a8e9e1a0131] , the Minister;
-- (ia)[^key-fd0cf085a03e84f843336d657d8a2a0c] in the case of a trunk road for which it is the highway authority, a strategic highways company;
+- (i) in the case of a trunk road for which he is the highway authority[^c-54d1c7f389768773bd9d1a8e9e1a0131] , the Minister;
+- (ia)[^c-fd0cf085a03e84f843336d657d8a2a0c] in the case of a trunk road for which it is the highway authority, a strategic highways company;
 - (ii) in the case of any other highway, except a highway in a London borough or the City, the council of the county or metropolitan district[^c13431141] in which the highway is situated;
 - (iii) in the case of a highway in a London borough or the City, other than a trunk road, the council of the borough or the Common Council, as the case may be. . . [^c13431151].
 
@@ -52,9 +52,9 @@ For the purposes of this section the following are appropriate authorities:—
 
 ## Annotations
 
-[^key-54d1c7f389768773bd9d1a8e9e1a0131]: Textual amendment: Words in [s. 271(1)(i)](https://www.legislation.gov.uk/ukpga/1980/66/section/271/1/i) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 56(2)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/56/2); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-54d1c7f389768773bd9d1a8e9e1a0131]: Textual amendment: Words in [s. 271(1)(i)](https://www.legislation.gov.uk/ukpga/1980/66/section/271/1/i) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 56(2)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/56/2); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-fd0cf085a03e84f843336d657d8a2a0c]: Textual amendment: [S. 271(1)(ia)](https://www.legislation.gov.uk/ukpga/1980/66/section/271/1/ia) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 56(3)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/56/3); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-fd0cf085a03e84f843336d657d8a2a0c]: Textual amendment: [S. 271(1)(ia)](https://www.legislation.gov.uk/ukpga/1980/66/section/271/1/ia) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 56(3)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/56/3); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
 [^c13431141]: Textual amendment: Words inserted by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 8](https://www.legislation.gov.uk/ukpga/1985/51/section/8), [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/1985/51/schedule/4/paragraph/19)
 

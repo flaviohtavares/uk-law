@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## 17B. Microgenerators in respect of which feed-in tariffs may be available[^key-b813e37f4b899e100dd0cd2ffc107a0c]
+## 17B. Microgenerators in respect of which feed-in tariffs may be available[^c-b813e37f4b899e100dd0cd2ffc107a0c]
 
 SROCs are not to be issued in respect of any electricity generated on or after 1st April 2010 by a microgenerator—
 
@@ -26,4 +26,4 @@ SROCs are not to be issued in respect of any electricity generated on or after 1
 
 ## Annotations
 
-[^key-b813e37f4b899e100dd0cd2ffc107a0c]: Textual amendment: Arts. 17A-17E inserted (1.4.2010) by [The Renewables Obligation (Scotland) Amendment Order 2010 (S.S.I. 2010/147)](https://www.legislation.gov.uk/ssi/2010/147), [arts. 1](https://www.legislation.gov.uk/ssi/2010/147/article/1), [8](https://www.legislation.gov.uk/ssi/2010/147/article/8) (with [art. 17](https://www.legislation.gov.uk/ssi/2010/147/article/17))
+[^c-b813e37f4b899e100dd0cd2ffc107a0c]: Textual amendment: Arts. 17A-17E inserted (1.4.2010) by [The Renewables Obligation (Scotland) Amendment Order 2010 (S.S.I. 2010/147)](https://www.legislation.gov.uk/ssi/2010/147), [arts. 1](https://www.legislation.gov.uk/ssi/2010/147/article/1), [8](https://www.legislation.gov.uk/ssi/2010/147/article/8) (with [art. 17](https://www.legislation.gov.uk/ssi/2010/147/article/17))

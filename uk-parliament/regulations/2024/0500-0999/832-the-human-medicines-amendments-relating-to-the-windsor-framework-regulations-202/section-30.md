@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Amendment to regulation 50F[^key-b1b855920f6124f319c13815a4cdc508]
+## 30. Amendment to regulation 50F[^c-b1b855920f6124f319c13815a4cdc508]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In regulation 50F(1) (other applications including paediatric indications)[^f000
 
 ## Annotations
 
-[^key-b1b855920f6124f319c13815a4cdc508]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2024/832/regulation/30) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-b1b855920f6124f319c13815a4cdc508]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2024/832/regulation/30) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00041]: Footnote: Regulation 50F was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

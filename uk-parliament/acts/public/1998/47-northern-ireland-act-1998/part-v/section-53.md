@@ -30,7 +30,7 @@ summary: ''
 (3) Subsection (2) has effect notwithstanding anything in subsection (2)(a) of section 6; but it does not affect—
 
 - (a) the operation of subsection (2)(b) to (f) of that section; or
-- (b) the operation of section 7A,[^key-ee1d954ca4272319a3186e12ce824f8b] 8 or 15 in relation to the enactment of any Act of the Assembly.
+- (b) the operation of section 7A,[^c-ee1d954ca4272319a3186e12ce824f8b] 8 or 15 in relation to the enactment of any Act of the Assembly.
 
 (4) No agreement or arrangement to which this section applies entered into for the establishment after the appointed day of an implementation body shall come into operation without the approval of the Assembly.
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c20345111]: Textual amendment: Words in s. 53(1) substituted (8.5.2007) by [Northern Ireland (St Andrews Agreement) Act 2006 (c. 53)](https://www.legislation.gov.uk/ukpga/2006/53), [ss. 19](https://www.legislation.gov.uk/ukpga/2006/53/section/19), [27(4)(5)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/4/5) (as amended by [Northern Ireland (St Andrews Agreement) Act 2007 (c. 4)](https://www.legislation.gov.uk/ukpga/2007/4), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2007/4/section/1/1)), {Sch. 7 para. 2} (with s. 1(3)); [S.I. 2007/1397](https://www.legislation.gov.uk/uksi/2007/1397), [art. 2](https://www.legislation.gov.uk/uksi/2007/1397/article/2)
 
-[^key-ee1d954ca4272319a3186e12ce824f8b]: Textual amendment: Word in s. 53(3)(b) inserted (13.5.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 6(5)](https://www.legislation.gov.uk/ukpga/2014/13/section/6/5), [28(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/4)
+[^c-ee1d954ca4272319a3186e12ce824f8b]: Textual amendment: Word in s. 53(3)(b) inserted (13.5.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 6(5)](https://www.legislation.gov.uk/ukpga/2014/13/section/6/5), [28(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/4)

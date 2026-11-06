@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) If the Secretary of State has reasonable grounds to believe that any action proposed to be taken by a member of the Scottish Government[^key-1a6eec0a223077253e974615c6946a62] would be incompatible with any international obligations, he may by order direct that the proposed action shall not be taken.
+(1) If the Secretary of State has reasonable grounds to believe that any action proposed to be taken by a member of the Scottish Government[^c-1a6eec0a223077253e974615c6946a62] would be incompatible with any international obligations, he may by order direct that the proposed action shall not be taken.
 
 (2) If the Secretary of State has reasonable grounds to believe that any action capable of being taken by a member of the Scottish Government is required for the purpose of giving effect to any such obligations, he may by order direct that the action shall be taken.
 
@@ -37,4 +37,4 @@ the Secretary of State may by order revoke the legislation.
 
 ## Annotations
 
-[^key-1a6eec0a223077253e974615c6946a62]: Textual amendment: Words in Act substituted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/2/a), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/3)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/f)
+[^c-1a6eec0a223077253e974615c6946a62]: Textual amendment: Words in Act substituted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/2/a), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/3)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/f)

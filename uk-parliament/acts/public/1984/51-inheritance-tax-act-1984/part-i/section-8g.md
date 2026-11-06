@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8G. Meaning of “brought-forward allowance”[^key-1d8c2aa8d9b978eac19f5f41ff3300a1]
+## 8G. Meaning of “brought-forward allowance”[^c-1d8c2aa8d9b978eac19f5f41ff3300a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) P's brought-forward allowance is calculated as follows—
 
-- (a) identify each amount available for carry-forward from the death of a related person (see sections 8E , 8F and 8FD[^key-2282fda483fd1b7a550e85a4aa8aad3f], and subsections (4) and (5)),
+- (a) identify each amount available for carry-forward from the death of a related person (see sections 8E , 8F and 8FD[^c-2282fda483fd1b7a550e85a4aa8aad3f], and subsections (4) and (5)),
 - (b) express each such amount as a percentage of the residential enhancement at the death of the related person concerned,
 - (c) calculate the percentage that is the total of those percentages, and
 - (d) the amount that is that total percentage of the residential enhancement at P's death is P's brought-forward allowance or, if that total percentage is greater than 100%, P's brought-forward allowance is the amount of the residential enhancement at P's death,
@@ -47,6 +47,6 @@ but P's brought-forward allowance is nil if no claim for it is made under sectio
 
 ## Annotations
 
-[^key-1d8c2aa8d9b978eac19f5f41ff3300a1]: Textual amendment: Ss. 8D-8M inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 9(4)](https://www.legislation.gov.uk/ukpga/2015/33/section/9/4)
+[^c-1d8c2aa8d9b978eac19f5f41ff3300a1]: Textual amendment: Ss. 8D-8M inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 9(4)](https://www.legislation.gov.uk/ukpga/2015/33/section/9/4)
 
-[^key-2282fda483fd1b7a550e85a4aa8aad3f]: Textual amendment: Words in s. 8G(3)(a) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2016/24/schedule/15/paragraph/6)
+[^c-2282fda483fd1b7a550e85a4aa8aad3f]: Textual amendment: Words in s. 8G(3)(a) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2016/24/schedule/15/paragraph/6)

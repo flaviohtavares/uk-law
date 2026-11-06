@@ -28,7 +28,7 @@ Consequential amendments
 
 *Extent: E+W*
 
-**1.**[^key-4b6ccbe3ad928d5ff7fe9d99cae36844] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4b6ccbe3ad928d5ff7fe9d99cae36844] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Criminal Appeal Act 1968 (c. 19)
 
@@ -41,11 +41,11 @@ Consequential amendments
 
 ### Misuse of Drugs Act 1971 (c. 38)
 
-**3.**[^key-9f2ca77ee6aa9c93db8a0e5898af22a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9f2ca77ee6aa9c93db8a0e5898af22a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.** In section 23 of that Act (power to search and obtain evidence), in subsection (3A)—
 
-- (a)[^key-452c59eb7531fc7cada3d7680dddf761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-452c59eb7531fc7cada3d7680dddf761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) after the words “that Act” there shall be inserted the words “ of 1990 ”.
 
 **5.** In section 27 of that Act (forfeiture of things relating to certain offences), in subsection (1), for the words “section 38(1) of the Drug Trafficking Offences Act 1986” there shall be substituted the words “ section 1(3) of the Drug Trafficking Act 1994 ”.
@@ -77,15 +77,15 @@ Consequential amendments
 
 *Extent: E+W*
 
-**8.**[^key-d742e9bbd27876e6f67bbdd19f921dea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-d742e9bbd27876e6f67bbdd19f921dea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-45950290b8c4de41d37fbd3a7befa6a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-45950290b8c4de41d37fbd3a7befa6a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Bankruptcy (Scotland) Act 1985 (c. 66)
 
 *Extent: S*
 
-**10.**[^key-2190829923fb19a36f3ce5b69a052fda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-2190829923fb19a36f3ce5b69a052fda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Drug Trafficking Offences Act 1986 (c. 32)
 
@@ -176,7 +176,7 @@ Consequential amendments
 
 *Extent: E+W*
 
-**21.**[^key-9355684fee012aedfce8c4d64696b538] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-9355684fee012aedfce8c4d64696b538] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **22.** In section 151 of that Act (Customs and Excise power of arrest), in subsection (5), for the words “section 38(1) of the Drug Trafficking Offences Act 1986 other than an offence under section 24” there shall be substituted the words “ section 1(3) of the Drug Trafficking Act 1994 other than an offence under section 50 ”.
 
@@ -188,9 +188,9 @@ Consequential amendments
 
 ### Criminal Justice (International Co-operation) Act 1990 (c. 5)
 
-**25.** In [^key-23249aa7b79062e47c7a52883fbe540d]... the Criminal Justice (International Co-operation) Act 1990 [^key-23249aa7b79062e47c7a52883fbe540d]....
+**25.** In [^c-23249aa7b79062e47c7a52883fbe540d]... the Criminal Justice (International Co-operation) Act 1990 [^c-23249aa7b79062e47c7a52883fbe540d]....
 
-**26.**[^key-a689baa2b79af19b6886b9be11f37e2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-a689baa2b79af19b6886b9be11f37e2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **27.** (1) Section 15 of that Act (interest on sums unpaid under confiscation orders) shall be amended as set out in sub-paragraphs (2) to (4) below.
 
@@ -220,24 +220,24 @@ Consequential amendments
 
 [^c8345441]: Extent: [Sch. 1](https://www.legislation.gov.uk/ukpga/1994/37/schedule/1) amendments as specified therein have the same extent as the enactments to which they relate.
 
-[^key-4b6ccbe3ad928d5ff7fe9d99cae36844]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1994/37/schedule/1/paragraph/1) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-4b6ccbe3ad928d5ff7fe9d99cae36844]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1994/37/schedule/1/paragraph/1) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c8345451]: Marginal citation: [1993 c. 36](https://www.legislation.gov.uk/ukpga/1993/36).
 
-[^key-9f2ca77ee6aa9c93db8a0e5898af22a8]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/1994/37/schedule/1/paragraph/3) repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [arts. 10-13](https://www.legislation.gov.uk/uksi/2003/333/article/10))
+[^c-9f2ca77ee6aa9c93db8a0e5898af22a8]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/1994/37/schedule/1/paragraph/3) repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [arts. 10-13](https://www.legislation.gov.uk/uksi/2003/333/article/10))
 
-[^key-452c59eb7531fc7cada3d7680dddf761]: Textual amendment: [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/ukpga/1994/37/schedule/1/paragraph/4/a) repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [arts. 10-13](https://www.legislation.gov.uk/uksi/2003/333/article/10))
+[^c-452c59eb7531fc7cada3d7680dddf761]: Textual amendment: [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/ukpga/1994/37/schedule/1/paragraph/4/a) repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [arts. 10-13](https://www.legislation.gov.uk/uksi/2003/333/article/10))
 
-[^key-d742e9bbd27876e6f67bbdd19f921dea]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/1994/37/schedule/1/paragraph/8) repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [arts. 10-13](https://www.legislation.gov.uk/uksi/2003/333/article/10))
+[^c-d742e9bbd27876e6f67bbdd19f921dea]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/1994/37/schedule/1/paragraph/8) repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [arts. 10-13](https://www.legislation.gov.uk/uksi/2003/333/article/10))
 
-[^key-45950290b8c4de41d37fbd3a7befa6a5]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/1994/37/schedule/1/paragraph/9) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
+[^c-45950290b8c4de41d37fbd3a7befa6a5]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/1994/37/schedule/1/paragraph/9) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
 
-[^key-2190829923fb19a36f3ce5b69a052fda]: Textual amendment: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/1994/37/schedule/1/paragraph/10) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
+[^c-2190829923fb19a36f3ce5b69a052fda]: Textual amendment: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/1994/37/schedule/1/paragraph/10) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
 
 [^c8345461]: Marginal citation: [1975 c. 21](https://www.legislation.gov.uk/ukpga/1975/21).
 
-[^key-9355684fee012aedfce8c4d64696b538]: Textual amendment: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/1994/37/schedule/1/paragraph/21) repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [arts. 10-13](https://www.legislation.gov.uk/uksi/2003/333/article/10))
+[^c-9355684fee012aedfce8c4d64696b538]: Textual amendment: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/1994/37/schedule/1/paragraph/21) repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [arts. 10-13](https://www.legislation.gov.uk/uksi/2003/333/article/10))
 
-[^key-23249aa7b79062e47c7a52883fbe540d]: Textual amendment: Words in [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/1994/37/schedule/1/paragraph/25) repealed (1.7.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(ee)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/ee)
+[^c-23249aa7b79062e47c7a52883fbe540d]: Textual amendment: Words in [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/1994/37/schedule/1/paragraph/25) repealed (1.7.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(ee)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/ee)
 
-[^key-a689baa2b79af19b6886b9be11f37e2b]: Textual amendment: [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/1994/37/schedule/1/paragraph/26) repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [arts. 10-13](https://www.legislation.gov.uk/uksi/2003/333/article/10))
+[^c-a689baa2b79af19b6886b9be11f37e2b]: Textual amendment: [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/1994/37/schedule/1/paragraph/26) repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [arts. 10-13](https://www.legislation.gov.uk/uksi/2003/333/article/10))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Qualifications and disqualifications[^key-e7132b2f3b0dfdb8d5f3061e8d985354]
+## 24. Qualifications and disqualifications[^c-e7132b2f3b0dfdb8d5f3061e8d985354]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 5 sets out the circumstances in which a person is qualified for or disq
 
 ## Annotations
 
-[^key-e7132b2f3b0dfdb8d5f3061e8d985354]: Commencement: Reg. 24 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-e7132b2f3b0dfdb8d5f3061e8d985354]: Commencement: Reg. 24 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)

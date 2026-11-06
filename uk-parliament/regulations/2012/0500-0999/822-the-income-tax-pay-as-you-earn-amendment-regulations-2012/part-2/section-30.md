@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Due date and receipts for payment of tax[^key-848c3bf9a22e6257ac9e0ef88942e93c]
+## 30. Due date and receipts for payment of tax[^c-848c3bf9a22e6257ac9e0ef88942e93c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 69 (due date and receipts for payment of tax), in both places, bef
 
 ## Annotations
 
-[^key-848c3bf9a22e6257ac9e0ef88942e93c]: Commencement: Reg. 30 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-848c3bf9a22e6257ac9e0ef88942e93c]: Commencement: Reg. 30 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

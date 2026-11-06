@@ -26,7 +26,7 @@ Section 39.
 
 **1, 2.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c3168761]
 
-**3.** (1)[^key-028b81bd787601ebf67241145ec6db1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.** (1)[^c-028b81bd787601ebf67241145ec6db1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2)[^c3168771] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -48,7 +48,7 @@ Section 39.
 
 [^c3168761]: Textual amendment: [Sch. 12 paras. 1](https://www.legislation.gov.uk/ukpga/1985/51/schedule/12/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/1985/51/schedule/12/paragraph/2) repealed by [Transport Act 1985 (c.67, SIF 126)](https://www.legislation.gov.uk/ukpga/1985/67), [s. 58(4)](https://www.legislation.gov.uk/ukpga/1985/67/section/58/4)(*a*), Sch. 8
 
-[^key-028b81bd787601ebf67241145ec6db1a]: Textual amendment: Sch. 12 para. 3(1) repealed (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-028b81bd787601ebf67241145ec6db1a]: Textual amendment: Sch. 12 para. 3(1) repealed (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
 [^c3168771]: Textual amendment: Sch. 12 para. 3(2) repealed by [Transport Act 1985 (c.67, SIF 126)](https://www.legislation.gov.uk/ukpga/1985/67), [s. 139(3)](https://www.legislation.gov.uk/ukpga/1985/67/section/139/3), [Sch. 8](https://www.legislation.gov.uk/ukpga/1985/67/schedule/8)
 

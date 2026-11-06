@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Timetable[^key-ad1a6793ccb048a35a3282860e8ec79e]
+## 6. Timetable[^c-ad1a6793ccb048a35a3282860e8ec79e]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ The proceedings at the referendum are to be conducted in accordance with the fol
 
 ## Annotations
 
-[^key-ad1a6793ccb048a35a3282860e8ec79e]: Commencement: Reg. 6 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-ad1a6793ccb048a35a3282860e8ec79e]: Commencement: Reg. 6 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

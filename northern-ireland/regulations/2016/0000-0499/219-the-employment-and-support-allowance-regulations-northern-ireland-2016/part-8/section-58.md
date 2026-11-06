@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 58. Amount of reduction for each benefit week[^key-1cf9072473436f9a06df44e2ac84d288]
+## 58. Amount of reduction for each benefit week[^c-1cf9072473436f9a06df44e2ac84d288]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ Where it has been determined that an award of an employment and support allowanc
 
 ## Annotations
 
-[^key-1cf9072473436f9a06df44e2ac84d288]: Commencement: [Reg. 58](https://www.legislation.gov.uk/nisr/2016/219/regulation/58) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-1cf9072473436f9a06df44e2ac84d288]: Commencement: [Reg. 58](https://www.legislation.gov.uk/nisr/2016/219/regulation/58) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

@@ -44,15 +44,15 @@ Coming into force in accordance with article 2
 
 The Secretary of State makes the following Order in exercise of the powers conferred by sections 41 and 166(3) of the Immigration and Asylum Act 1999[^f00001].
 
-## 1. Citation and Commencement[^key-27c18216be84343da60e5608e47268ad]
+## 1. Citation and Commencement[^c-27c18216be84343da60e5608e47268ad]
 
 This Order may be cited as the Immigration (Passenger Transit Visa) (Amendment) (No. 2) Order 2009.
 
-**2.**[^key-2ede2ba1aab367ce1a3955eade600c7e] (1) Subject to paragraph (2) this Order comes into force on 18th May 2009.
+**2.**[^c-2ede2ba1aab367ce1a3955eade600c7e] (1) Subject to paragraph (2) this Order comes into force on 18th May 2009.
 
 (2) Article 3(3)(b) to (d) comes into force on 1st July 2009.
 
-## 3. Amendments to the Immigration (Passenger Transit Visa) Order 2003[^key-3c27ac23d670cf4ab887a878a85462ee][^key-8eb3e011f5d0835d1c9ef2c8475f4b17]
+## 3. Amendments to the Immigration (Passenger Transit Visa) Order 2003[^c-3c27ac23d670cf4ab887a878a85462ee][^c-8eb3e011f5d0835d1c9ef2c8475f4b17]
 
 (1) The Immigration (Passenger Transit Visa) Order 2003[^f00002] shall be amended as follows.
 
@@ -91,12 +91,12 @@ It also has the effect that nationals and citizens of Bolivia, Lesotho, South Af
 
 [^f00001]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
 
-[^key-27c18216be84343da60e5608e47268ad]: Commencement: Art. 1 in force at 18.5.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1032/article/1/1)
+[^c-27c18216be84343da60e5608e47268ad]: Commencement: Art. 1 in force at 18.5.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1032/article/1/1)
 
-[^key-2ede2ba1aab367ce1a3955eade600c7e]: Commencement: Art. 2 in force at 18.5.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1032/article/1/1)
+[^c-2ede2ba1aab367ce1a3955eade600c7e]: Commencement: Art. 2 in force at 18.5.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1032/article/1/1)
 
-[^key-3c27ac23d670cf4ab887a878a85462ee]: Commencement: Art. 3(1)(2)(3)(a) in force at 18.5.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1032/article/1/1)
+[^c-3c27ac23d670cf4ab887a878a85462ee]: Commencement: Art. 3(1)(2)(3)(a) in force at 18.5.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1032/article/1/1)
 
-[^key-8eb3e011f5d0835d1c9ef2c8475f4b17]: Commencement: Art. 3(3)(b)-(d) in force at 1.7.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1032/article/1/2)
+[^c-8eb3e011f5d0835d1c9ef2c8475f4b17]: Commencement: Art. 3(3)(b)-(d) in force at 1.7.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1032/article/1/2)
 
 [^f00002]: Footnote: [S.I. 2003/1185](https://www.legislation.gov.uk/uksi/2003/1185) as amended by [S.I. 2003/2628](https://www.legislation.gov.uk/uksi/2003/2628), [S.I. 2004/1304](https://www.legislation.gov.uk/uksi/2004/1304), [S.I. 2005/492](https://www.legislation.gov.uk/uksi/2005/492) , [S.I. 2006/493](https://www.legislation.gov.uk/uksi/2006/493) and [S.I. 2009/198](https://www.legislation.gov.uk/uksi/2009/198).

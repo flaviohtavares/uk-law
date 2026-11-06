@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Revocation of Commission Regulation (EU) No 445/2011[^key-d7454490f31a7db400983debf4802fd8]
+## 7. Revocation of Commission Regulation (EU) No 445/2011[^c-d7454490f31a7db400983debf4802fd8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Regulation (EU) No 445/2011 on a system of certification of entities 
 
 ## Annotations
 
-[^key-d7454490f31a7db400983debf4802fd8]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d7454490f31a7db400983debf4802fd8]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

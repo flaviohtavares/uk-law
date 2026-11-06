@@ -44,7 +44,7 @@ Coming into force in accordance with regulation 1
 
 [^c23657131]The Treasury make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972, and section 8(1) of, paragraph 1 of Schedule 4 to, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 .
 
-In accordance with paragraphs 1 and 12 of Schedule 7 to the European Union (Withdrawal) Act 2018, a draft of this instrument has been laid before, and approved by a resolution of, each House of Parliament.[^key-c9aa4dfc05676fb671fc1d7e6f0c8da9]
+In accordance with paragraphs 1 and 12 of Schedule 7 to the European Union (Withdrawal) Act 2018, a draft of this instrument has been laid before, and approved by a resolution of, each House of Parliament.[^c-c9aa4dfc05676fb671fc1d7e6f0c8da9]
 
 ## Contents
 
@@ -291,7 +291,7 @@ In accordance with paragraphs 1 and 12 of Schedule 7 to the European Union (With
 - [Section 118 — Paragraph 30 (offences)](part-2/section-118.md)
 - [Section 119 — Paragraph 36 (fees)](part-2/section-119.md)
 
-### PART 3 — Amendments to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^key-660b7df424255946745807230422752e]
+### PART 3 — Amendments to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^c-660b7df424255946745807230422752e]
 
 *Extent: E+W+S+N.I.*
 
@@ -338,7 +338,7 @@ In accordance with paragraphs 1 and 12 of Schedule 7 to the European Union (With
 - [Section 160 — Schedule 4 (relevant text of the insurance distribution directive)](part-3/section-160.md)
 - [Section 161 — Schedule 8 (persons excluded from regulated activity of managing an AIF)](part-3/section-161.md)
 
-### PART 4 — Amendments to the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^key-660b7df424255946745807230422752e]
+### PART 4 — Amendments to the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^c-660b7df424255946745807230422752e]
 
 *Extent: E+W+S+N.I.*
 
@@ -358,7 +358,7 @@ In accordance with paragraphs 1 and 12 of Schedule 7 to the European Union (With
 - [Section 175 — Article 70 (promotions included in listing particulars etc)](part-4/section-175.md)
 - [Section 176 — Schedule 1 (controlled activities and controlled investments)](part-4/section-176.md)
 
-### PART 5 — Amendments to other secondary legislation[^key-660b7df424255946745807230422752e]
+### PART 5 — Amendments to other secondary legislation[^c-660b7df424255946745807230422752e]
 
 *Extent: E+W+S+N.I.*
 
@@ -380,7 +380,7 @@ In accordance with paragraphs 1 and 12 of Schedule 7 to the European Union (With
 - [Section 192 — The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014](part-5/section-192.md)
 - [Section 193 — The Financial Services and Markets Act 2000 (Relevant Authorised Persons) Order 2015](part-5/section-193.md)
 
-### PART 6 — Minor and consequential amendments[^key-660b7df424255946745807230422752e]
+### PART 6 — Minor and consequential amendments[^c-660b7df424255946745807230422752e]
 
 *Extent: E+W+S+N.I.*
 
@@ -450,6 +450,6 @@ An impact assessment of the effect that this instrument, and other instruments m
 
 [^c23657131]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-c9aa4dfc05676fb671fc1d7e6f0c8da9]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/632): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-c9aa4dfc05676fb671fc1d7e6f0c8da9]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/632): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-660b7df424255946745807230422752e]: Modification: Pts. 3-6 modified in part (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/1)[(4)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/4)[(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/5) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-660b7df424255946745807230422752e]: Modification: Pts. 3-6 modified in part (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/1)[(4)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/4)[(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/5) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

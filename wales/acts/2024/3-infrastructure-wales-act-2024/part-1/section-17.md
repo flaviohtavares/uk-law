@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Power to add, vary or remove projects[^key-06d5f12ab03c7d1fe47c602068692536]
+## 17. Power to add, vary or remove projects[^c-06d5f12ab03c7d1fe47c602068692536]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06d5f12ab03c7d1fe47c602068692536]: Commencement: S. 17 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)
+[^c-06d5f12ab03c7d1fe47c602068692536]: Commencement: S. 17 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)

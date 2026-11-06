@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Buyer and seller[^key-0ab06f3194526f05175e482b305a172a]
+## 7. Buyer and seller[^c-0ab06f3194526f05175e482b305a172a]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ab06f3194526f05175e482b305a172a]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2017/1/section/7) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-0ab06f3194526f05175e482b305a172a]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2017/1/section/7) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

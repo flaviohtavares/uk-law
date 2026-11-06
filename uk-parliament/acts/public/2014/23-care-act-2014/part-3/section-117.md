@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Approval for processing confidential patient information[^key-08f40561b34dec80c02c6cf46194ca39]
+## 117. Approval for processing confidential patient information[^c-08f40561b34dec80c02c6cf46194ca39]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08f40561b34dec80c02c6cf46194ca39]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2014/23/section/117) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(i)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/i)
+[^c-08f40561b34dec80c02c6cf46194ca39]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2014/23/section/117) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(i)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/i)

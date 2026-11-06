@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Deemed refusal of leave to enter: repeals[^key-bc49d02ab919c55a2ea6fcd0b8114f2f]
+## 65. Deemed refusal of leave to enter: repeals[^c-bc49d02ab919c55a2ea6fcd0b8114f2f]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc49d02ab919c55a2ea6fcd0b8114f2f]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2016/19/section/65) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/h)
+[^c-bc49d02ab919c55a2ea6fcd0b8114f2f]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2016/19/section/65) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/h)

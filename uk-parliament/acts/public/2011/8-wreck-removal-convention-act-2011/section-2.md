@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Short title and commencement[^key-f23c7e6fd991ba5fdbc359b2b9011b5d]
+## 2. Short title and commencement[^c-f23c7e6fd991ba5fdbc359b2b9011b5d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f23c7e6fd991ba5fdbc359b2b9011b5d]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2011/8/section/2) in force at 14.4.2015 by [S.I. 2015/133](https://www.legislation.gov.uk/uksi/2015/133), [art. 3](https://www.legislation.gov.uk/uksi/2015/133/article/3)
+[^c-f23c7e6fd991ba5fdbc359b2b9011b5d]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2011/8/section/2) in force at 14.4.2015 by [S.I. 2015/133](https://www.legislation.gov.uk/uksi/2015/133), [art. 3](https://www.legislation.gov.uk/uksi/2015/133/article/3)

@@ -45,7 +45,7 @@ shall be guilty of an offence.
 
 (2) A person shall not be guilty of an offence under this section by reason of his demanding or accepting payment from the owner of a house of any remuneration payable to him as agent for the said owner.
 
-(3)[^c603032] A person being a solicitor or an authorised person[^key-bdc80b6cfe558201b37819b528abb237] shall not be guilty of an offence under this section by reason of his demanding or accepting payment of any remuneration in respect of business done by him as such.
+(3)[^c603032] A person being a solicitor or an authorised person[^c-bdc80b6cfe558201b37819b528abb237] shall not be guilty of an offence under this section by reason of his demanding or accepting payment of any remuneration in respect of business done by him as such.
 
 (4) A person shall not be guilty of an offence under this section by reason of his demanding or accepting any payment in consideration of the display in a shop, or of the publication in a newspaper, of any advertisement or notice, or by reason of the display or publication as aforesaid of an advertisement or notice received for the purpose in the ordinary course of business.
 
@@ -53,7 +53,7 @@ shall be guilty of an offence.
 
 (6) In this section the following expressions have the meanings hereby assigned to them that is to say:—
 
-- “[^key-a144502da0d1004519f66cc4497d3da7]**authorised person**” means a person (other than a solicitor) who, for the purposes of the Legal Services Act 2007, is an authorised person in relation to an activity which is a reserved legal activity (within the meaning of that Act);
+- “[^c-a144502da0d1004519f66cc4497d3da7]**authorised person**” means a person (other than a solicitor) who, for the purposes of the Legal Services Act 2007, is an authorised person in relation to an activity which is a reserved legal activity (within the meaning of that Act);
 - “**house**” includes any part of a building which is occupied or intended to be occupied as a dwelling;
 - “**newspaper**” includes any periodical or magazine;
 - “**owner**”, in relation to a house, means the person having power to grant a lease of the house.
@@ -78,11 +78,11 @@ shall be guilty of an offence.
 
 [^c603032]: Modification: S. 1(3) amended (E.W.) (01.01.1992) by [S.I. 1991/2684](https://www.legislation.gov.uk/uksi/1991/2684), [arts. 2](https://www.legislation.gov.uk/uksi/1991/2684/article/2), [4](https://www.legislation.gov.uk/uksi/1991/2684/article/4), [Sch.1](https://www.legislation.gov.uk/uksi/1991/2684/schedule/1).
 
-[^key-bdc80b6cfe558201b37819b528abb237]: Textual amendment: Words in [s. 1(3)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/23/section/1/3) inserted (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 21 para. 22(a)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/22/a) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/h)
+[^c-bdc80b6cfe558201b37819b528abb237]: Textual amendment: Words in [s. 1(3)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/23/section/1/3) inserted (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 21 para. 22(a)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/22/a) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/h)
 
 [^c603033]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289F](https://www.legislation.gov.uk/ukpga/1975/21/section/289F), [289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)
 
-[^key-a144502da0d1004519f66cc4497d3da7]: Textual amendment: Words in [s. 1(6)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/23/section/1/6) inserted (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 21 para. 22(b)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/22/b) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/h)
+[^c-a144502da0d1004519f66cc4497d3da7]: Textual amendment: Words in [s. 1(6)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/23/section/1/6) inserted (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 21 para. 22(b)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/22/b) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/h)
 
 [^c603034]: Modification: Unreliable marginal note.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Interim orders[^key-e73a68a085778f04c4f92478f7935a5d]
+## 88. Interim orders[^c-e73a68a085778f04c4f92478f7935a5d]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e73a68a085778f04c4f92478f7935a5d]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2014/18/section/88) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-e73a68a085778f04c4f92478f7935a5d]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2014/18/section/88) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

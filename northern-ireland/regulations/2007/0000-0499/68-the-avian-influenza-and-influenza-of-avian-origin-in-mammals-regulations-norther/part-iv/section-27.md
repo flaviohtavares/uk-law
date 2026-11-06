@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Restrictions at contact premises[^key-18a76994bce7d9e4228621d1851dc729]
+## 27. Restrictions at contact premises[^c-18a76994bce7d9e4228621d1851dc729]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18a76994bce7d9e4228621d1851dc729]: Commencement: Reg. 27 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-18a76994bce7d9e4228621d1851dc729]: Commencement: Reg. 27 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

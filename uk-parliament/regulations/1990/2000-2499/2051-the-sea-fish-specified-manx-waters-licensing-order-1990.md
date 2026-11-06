@@ -33,7 +33,7 @@ SEA FISHERIES
 
 CONSERVATION OF SEA FISH
 
-The Sea Fish (Specified Manx Waters) Licensing Order 1990 (revoked)[^key-50da32dda832d0fb76da36b5e10d5a43]
+The Sea Fish (Specified Manx Waters) Licensing Order 1990 (revoked)[^c-50da32dda832d0fb76da36b5e10d5a43]
 
 Made
 
@@ -47,48 +47,48 @@ Coming into force
 
 15th November 1990
 
-[^key-50da32dda832d0fb76da36b5e10d5a43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-50da32dda832d0fb76da36b5e10d5a43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-50da32dda832d0fb76da36b5e10d5a43]
+## 1. Title, commencement and extent[^c-50da32dda832d0fb76da36b5e10d5a43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-50da32dda832d0fb76da36b5e10d5a43]
+## 2. Interpretation[^c-50da32dda832d0fb76da36b5e10d5a43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition of fishing without a licence and exceptions thereto[^key-50da32dda832d0fb76da36b5e10d5a43]
+## 3. Prohibition of fishing without a licence and exceptions thereto[^c-50da32dda832d0fb76da36b5e10d5a43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Powers of British sea-fishery officers in relation to fishing boats[^key-50da32dda832d0fb76da36b5e10d5a43]
+## 4. Powers of British sea-fishery officers in relation to fishing boats[^c-50da32dda832d0fb76da36b5e10d5a43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation[^key-50da32dda832d0fb76da36b5e10d5a43]
+## 5. Revocation[^c-50da32dda832d0fb76da36b5e10d5a43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-50da32dda832d0fb76da36b5e10d5a43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-50da32dda832d0fb76da36b5e10d5a43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — AREA OF SEA IN RESPECT OF WHICH PROHIBITION OF FISHING WITHOUT LICENCE APPLIES[^key-50da32dda832d0fb76da36b5e10d5a43]
+## SCHEDULE 1 — AREA OF SEA IN RESPECT OF WHICH PROHIBITION OF FISHING WITHOUT LICENCE APPLIES[^c-50da32dda832d0fb76da36b5e10d5a43]
 
 Article 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — ORDERS WHICH ARE REVOKED BY THIS ORDER[^key-50da32dda832d0fb76da36b5e10d5a43]
+## SCHEDULE 2 — ORDERS WHICH ARE REVOKED BY THIS ORDER[^c-50da32dda832d0fb76da36b5e10d5a43]
 
 Article 5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-50da32dda832d0fb76da36b5e10d5a43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-50da32dda832d0fb76da36b5e10d5a43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-50da32dda832d0fb76da36b5e10d5a43]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1990/2051) revoked (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/12) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-50da32dda832d0fb76da36b5e10d5a43]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1990/2051) revoked (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/12) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

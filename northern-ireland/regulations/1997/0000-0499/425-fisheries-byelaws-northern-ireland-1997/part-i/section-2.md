@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Interpretation[^key-5b970c76ea6243c6a117010b227c88d5]
+## 2. Interpretation[^c-5b970c76ea6243c6a117010b227c88d5]
 
 *Extent: N.I.*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5b970c76ea6243c6a117010b227c88d5]: Commencement: S. 2 in operation at 1.11.1997, see byelaw 1
+[^c-5b970c76ea6243c6a117010b227c88d5]: Commencement: S. 2 in operation at 1.11.1997, see byelaw 1
 
 [^f00005]: Footnote: [1863 c. 114 (Ireland)](https://www.legislation.gov.uk/ukpga/1863/114)

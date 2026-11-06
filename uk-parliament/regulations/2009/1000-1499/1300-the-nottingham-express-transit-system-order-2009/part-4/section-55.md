@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Powers of disposal, agreements for operation, etc.[^key-108a7b8a9f6b4a9461b426d3f5d89f7b]
+## 55. Powers of disposal, agreements for operation, etc.[^c-108a7b8a9f6b4a9461b426d3f5d89f7b]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-108a7b8a9f6b4a9461b426d3f5d89f7b]: Commencement: Art. 55 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-108a7b8a9f6b4a9461b426d3f5d89f7b]: Commencement: Art. 55 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

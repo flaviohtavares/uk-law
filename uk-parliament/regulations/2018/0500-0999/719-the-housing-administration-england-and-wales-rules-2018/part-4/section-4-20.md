@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.20. Further information and disclosure[^key-78e546b242ced09d3b4d41d27ec6d8dc]
+## 4.20. Further information and disclosure[^c-78e546b242ced09d3b4d41d27ec6d8dc]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78e546b242ced09d3b4d41d27ec6d8dc]: Commencement: Rule 4.20 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-78e546b242ced09d3b4d41d27ec6d8dc]: Commencement: Rule 4.20 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

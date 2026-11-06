@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Development consent granted by the Order[^key-9d81f3570bfc718f18ef0664c5c47d02]
+## 4. Development consent granted by the Order[^c-9d81f3570bfc718f18ef0664c5c47d02]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d81f3570bfc718f18ef0664c5c47d02]: Commencement: Art. 4 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-9d81f3570bfc718f18ef0664c5c47d02]: Commencement: Art. 4 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

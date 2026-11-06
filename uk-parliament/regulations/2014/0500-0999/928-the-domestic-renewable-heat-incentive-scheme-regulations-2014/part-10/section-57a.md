@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57A. Power to investigate an RI’s status and withhold RHI payments[^key-9f727f30002c0689165d74beb38295fb]
+## 57A. Power to investigate an RI’s status and withhold RHI payments[^c-9f727f30002c0689165d74beb38295fb]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ and the Authority requires time to investigate, it may withhold all or part of a
 
 ## Annotations
 
-[^key-9f727f30002c0689165d74beb38295fb]: Textual amendment: [Reg. 57A](https://www.legislation.gov.uk/uksi/2014/928/regulation/57A) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [26](https://www.legislation.gov.uk/uksi/2018/610/regulation/26)
+[^c-9f727f30002c0689165d74beb38295fb]: Textual amendment: [Reg. 57A](https://www.legislation.gov.uk/uksi/2014/928/regulation/57A) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [26](https://www.legislation.gov.uk/uksi/2018/610/regulation/26)

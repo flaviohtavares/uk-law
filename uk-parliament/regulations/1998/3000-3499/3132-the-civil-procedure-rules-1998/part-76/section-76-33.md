@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76.33. Application by Secretary of State for reconsideration of decision[^key-aff08cb562443cad7c83cb0da0e8e7a6]
+## 76.33. Application by Secretary of State for reconsideration of decision[^c-aff08cb562443cad7c83cb0da0e8e7a6]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 
 would cause information to be disclosed contrary to the public interest.
 
-(4)[^key-89bda7bed821c5e5f940c680c999f35b] Where the Secretary of State makes an application under paragraph (3), he must at the same time serve on the special advocate, if one has been appointed—
+(4)[^c-89bda7bed821c5e5f940c680c999f35b] Where the Secretary of State makes an application under paragraph (3), he must at the same time serve on the special advocate, if one has been appointed—
 
 - (a) a copy of the application; and
 - (b) a copy of the notice served on the Secretary of State pursuant to paragraph (2).
@@ -45,6 +45,6 @@ would cause information to be disclosed contrary to the public interest.
 
 ## Annotations
 
-[^key-aff08cb562443cad7c83cb0da0e8e7a6]: Textual amendment: [Pt. 76](https://www.legislation.gov.uk/uksi/1998/3132/part/76) inserted (14.3.2005) by [The Civil Procedure (Amendment No. 2) Rules 2005 (S.I. 2005/656)](https://www.legislation.gov.uk/uksi/2005/656), [rule 1](https://www.legislation.gov.uk/uksi/2005/656/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/656/schedule)
+[^c-aff08cb562443cad7c83cb0da0e8e7a6]: Textual amendment: [Pt. 76](https://www.legislation.gov.uk/uksi/1998/3132/part/76) inserted (14.3.2005) by [The Civil Procedure (Amendment No. 2) Rules 2005 (S.I. 2005/656)](https://www.legislation.gov.uk/uksi/2005/656), [rule 1](https://www.legislation.gov.uk/uksi/2005/656/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/656/schedule)
 
-[^key-89bda7bed821c5e5f940c680c999f35b]: Textual amendment: [Rule 76.33(4)](https://www.legislation.gov.uk/uksi/1998/3132/rule/76.33/4) substituted (6.4.2008) by [The Civil Procedure (Amendment No.2) Rules 2007 (S.I. 2007/3543)](https://www.legislation.gov.uk/uksi/2007/3543), [rules 1(b)](https://www.legislation.gov.uk/uksi/2007/3543/rule/1/b), [10(f)](https://www.legislation.gov.uk/uksi/2007/3543/rule/10/f)
+[^c-89bda7bed821c5e5f940c680c999f35b]: Textual amendment: [Rule 76.33(4)](https://www.legislation.gov.uk/uksi/1998/3132/rule/76.33/4) substituted (6.4.2008) by [The Civil Procedure (Amendment No.2) Rules 2007 (S.I. 2007/3543)](https://www.legislation.gov.uk/uksi/2007/3543), [rules 1(b)](https://www.legislation.gov.uk/uksi/2007/3543/rule/1/b), [10(f)](https://www.legislation.gov.uk/uksi/2007/3543/rule/10/f)

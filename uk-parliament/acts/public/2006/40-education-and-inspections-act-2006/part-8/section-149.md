@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Interaction with other authorities[^key-a364b712ff281d9ea30ea8c8c875fc68]
+## 149. Interaction with other authorities[^c-a364b712ff281d9ea30ea8c8c875fc68]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 13 contains provisions authorising or requiring the Chief Inspector to 
 
 ## Annotations
 
-[^key-a364b712ff281d9ea30ea8c8c875fc68]: Commencement: S. 149 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
+[^c-a364b712ff281d9ea30ea8c8c875fc68]: Commencement: S. 149 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Temporary prohibition relating to management functions: obligations on originator, sponsor or SSPE[^key-a0ab867cff6358b4c1489a6701694e75]
+## 38. Temporary prohibition relating to management functions: obligations on originator, sponsor or SSPE[^c-a0ab867cff6358b4c1489a6701694e75]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ An originator, sponsor or SSPE must take reasonable care to ensure that no indiv
 
 ## Annotations
 
-[^key-a0ab867cff6358b4c1489a6701694e75]: Commencement: Reg. 38 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-a0ab867cff6358b4c1489a6701694e75]: Commencement: Reg. 38 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)

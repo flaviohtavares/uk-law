@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Purity Criteria for Colours, Sweeteners and Miscellaneous Food Additives (Wales) Regulations 2009 (revoked)[^key-1753e1e97f4436faecd145f3af3cf1a1]
+The Purity Criteria for Colours, Sweeteners and Miscellaneous Food Additives (Wales) Regulations 2009 (revoked)[^c-1753e1e97f4436faecd145f3af3cf1a1]
 
 Made
 
@@ -45,32 +45,32 @@ Coming into force
 
 25 May 2009
 
-[^key-1753e1e97f4436faecd145f3af3cf1a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1753e1e97f4436faecd145f3af3cf1a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-1753e1e97f4436faecd145f3af3cf1a1]
+## 1. Title, commencement and application[^c-1753e1e97f4436faecd145f3af3cf1a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Colours in Food Regulations 1995[^key-1753e1e97f4436faecd145f3af3cf1a1]
+## 2. Amendment of the Colours in Food Regulations 1995[^c-1753e1e97f4436faecd145f3af3cf1a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Sweeteners in Food Regulations 1995[^key-1753e1e97f4436faecd145f3af3cf1a1]
+## 3. Amendment of the Sweeteners in Food Regulations 1995[^c-1753e1e97f4436faecd145f3af3cf1a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Miscellaneous Food Additives Regulations 1995[^key-1753e1e97f4436faecd145f3af3cf1a1]
+## 4. Amendment of the Miscellaneous Food Additives Regulations 1995[^c-1753e1e97f4436faecd145f3af3cf1a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1753e1e97f4436faecd145f3af3cf1a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1753e1e97f4436faecd145f3af3cf1a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1753e1e97f4436faecd145f3af3cf1a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1753e1e97f4436faecd145f3af3cf1a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1753e1e97f4436faecd145f3af3cf1a1]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/uksi/2018/806), [reg 1(3)](https://www.legislation.gov.uk/uksi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2018/806/schedule/3)
+[^c-1753e1e97f4436faecd145f3af3cf1a1]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/uksi/2018/806), [reg 1(3)](https://www.legislation.gov.uk/uksi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2018/806/schedule/3)

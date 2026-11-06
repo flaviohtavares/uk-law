@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Membership of the same household[^key-021d43d3d335a0cb37e91c72b8481e37]
+## 10. Membership of the same household[^c-021d43d3d335a0cb37e91c72b8481e37]
 
 *Extent: E+W+S*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-021d43d3d335a0cb37e91c72b8481e37]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1991/2887/regulation/10) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+[^c-021d43d3d335a0cb37e91c72b8481e37]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1991/2887/regulation/10) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 
 [^f00021]: Footnote: [S.I. 1983/1964](https://www.legislation.gov.uk/uksi/1983/1964).
 

@@ -146,7 +146,7 @@ All property, rights and liabilities to which the Pensions Compensation Board is
 - (b) the determination of an application under that section or that article was not made before 1st September 2005; and
 - (c) section 182(1) of the Act or article 165(1) of the Pensions (Northern Ireland) Order 2005 (cases where fraud compensation payments can be made) does not apply.
 
-(8)[^key-95404a4605bd4b1fb104f334641d1daf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-95404a4605bd4b1fb104f334641d1daf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) Where, by virtue of section 302(2) of the Act (transfer of functions, property etc. of the Pensions Compensation Board), information created by the Pensions Compensation Board has been obtained by the Board, such information shall be treated for the purposes of sections 197 to 201 and 203 of the Act or articles 179 to 183 and 185 of the Pensions (Northern Ireland) Order 2005 (disclosure of information and provision of information to members of schemes etc) as having been obtained by the Board in the exercise of its functions from the Pensions Compensation Board.
 
@@ -641,7 +641,7 @@ The following provisions of the Pensions Act 2004 have been brought into force o
 
 [^c1225410]: Marginal citation: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255).
 
-[^key-95404a4605bd4b1fb104f334641d1daf]: Textual amendment: [Art. 4(8)](https://www.legislation.gov.uk/uksi/2005/1720/article/4/8) omitted (26.6.2009) by virtue of [The Pensions Act 2004 (Commencement No.6, Transitional Provisions and Savings) (Amendment) Order 2009 (S.I. 2009/1583)](https://www.legislation.gov.uk/uksi/2009/1583), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1583/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2009/1583/article/2/2)
+[^c-95404a4605bd4b1fb104f334641d1daf]: Textual amendment: [Art. 4(8)](https://www.legislation.gov.uk/uksi/2005/1720/article/4/8) omitted (26.6.2009) by virtue of [The Pensions Act 2004 (Commencement No.6, Transitional Provisions and Savings) (Amendment) Order 2009 (S.I. 2009/1583)](https://www.legislation.gov.uk/uksi/2009/1583), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1583/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2009/1583/article/2/2)
 
 [^c1225411]: Marginal citation: Sub-paragraph (5) of paragraph 17 is added by article 4(10)(c) of this Order.
 

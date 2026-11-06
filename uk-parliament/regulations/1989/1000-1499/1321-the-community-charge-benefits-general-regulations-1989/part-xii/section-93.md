@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 93. Information to be supplied by an appropriate authority to the Secretary of State[^key-c8da747451f1e7c04b72d4611fa98dac]
+## 93. Information to be supplied by an appropriate authority to the Secretary of State[^c-c8da747451f1e7c04b72d4611fa98dac]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ For the purposes of section 31G(2) of the Act (information which shall be suppli
 
 ## Annotations
 
-[^key-c8da747451f1e7c04b72d4611fa98dac]: Commencement: Reg. 93 in force at 11.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-c8da747451f1e7c04b72d4611fa98dac]: Commencement: Reg. 93 in force at 11.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)

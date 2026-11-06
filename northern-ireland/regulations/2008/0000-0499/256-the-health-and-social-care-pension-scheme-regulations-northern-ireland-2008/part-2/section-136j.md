@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 136J. Restriction on pensionable pay used for calculating benefits in respect of capped Optant service[^key-2212ef046179ca474bf07d49bb83903e]
+## 136J. Restriction on pensionable pay used for calculating benefits in respect of capped Optant service[^c-2212ef046179ca474bf07d49bb83903e]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2212ef046179ca474bf07d49bb83903e]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/nisr/2008/256/part/2) c. 10 added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [55](https://www.legislation.gov.uk/nisr/2010/22/regulation/55)
+[^c-2212ef046179ca474bf07d49bb83903e]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/nisr/2008/256/part/2) c. 10 added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [55](https://www.legislation.gov.uk/nisr/2010/22/regulation/55)

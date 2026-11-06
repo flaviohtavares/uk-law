@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 107. Power to provide for fees for SCTS, court clerks and other officers[^key-5f382fbe1555f6d241e0db6bca3e8624]
+## 107. Power to provide for fees for SCTS, court clerks and other officers[^c-5f382fbe1555f6d241e0db6bca3e8624]
 
 *Extent: S*
 
@@ -45,7 +45,7 @@ summary: ''
   - (a) a clerk, deputy clerk or assistant clerk of any of the Scottish Courts,
   - (b) the Accountant of Court,
   - (c) the Auditor of the Court of Session,
-  - (ca) the auditor of the Sheriff Appeal Court,[^key-7a410db5d4ab1c22404d4203c3ba00d8]
+  - (ca) the auditor of the Sheriff Appeal Court,[^c-7a410db5d4ab1c22404d4203c3ba00d8]
   - (d) the auditor of a sheriff court,
   - (e) any other officer who is a member of the staff of the SCTS,
 - “**Scottish Courts**” means—
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5f382fbe1555f6d241e0db6bca3e8624]: Commencement: S. 107 in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-5f382fbe1555f6d241e0db6bca3e8624]: Commencement: S. 107 in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-7a410db5d4ab1c22404d4203c3ba00d8]: Textual amendment: Words in [s. 107(3)](https://www.legislation.gov.uk/asp/2014/18/section/107/3) inserted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [arts. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [2](https://www.legislation.gov.uk/ssi/2016/387/article/2)
+[^c-7a410db5d4ab1c22404d4203c3ba00d8]: Textual amendment: Words in [s. 107(3)](https://www.legislation.gov.uk/asp/2014/18/section/107/3) inserted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [arts. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [2](https://www.legislation.gov.uk/ssi/2016/387/article/2)

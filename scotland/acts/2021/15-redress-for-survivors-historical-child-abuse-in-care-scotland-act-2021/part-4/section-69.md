@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Outcome of a section 68 review[^key-4be364726afd8843eab55cbb496794d4]
+## 69. Outcome of a section 68 review[^c-4be364726afd8843eab55cbb496794d4]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4be364726afd8843eab55cbb496794d4]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2021/15/section/69) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-4be364726afd8843eab55cbb496794d4]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2021/15/section/69) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

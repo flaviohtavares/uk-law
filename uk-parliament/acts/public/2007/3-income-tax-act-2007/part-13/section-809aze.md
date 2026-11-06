@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809AZE. Exception: transfer by way of security[^key-b02ccbce0efab4f93c381d373e62fdc9][^key-e4ae3b38f4418a7e7eade5988cff1cd3]
+## 809AZE. Exception: transfer by way of security[^c-b02ccbce0efab4f93c381d373e62fdc9][^c-e4ae3b38f4418a7e7eade5988cff1cd3]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b02ccbce0efab4f93c381d373e62fdc9]: Textual amendment: S. 809AZE substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 273](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/273) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-b02ccbce0efab4f93c381d373e62fdc9]: Textual amendment: S. 809AZE substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 273](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/273) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-e4ae3b38f4418a7e7eade5988cff1cd3]: Textual amendment: Pt. 13 Ch. 5A inserted (with effect in accordance with Sch. 25 para. 10 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 25 para. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/25/paragraph/7)
+[^c-e4ae3b38f4418a7e7eade5988cff1cd3]: Textual amendment: Pt. 13 Ch. 5A inserted (with effect in accordance with Sch. 25 para. 10 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 25 para. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/25/paragraph/7)

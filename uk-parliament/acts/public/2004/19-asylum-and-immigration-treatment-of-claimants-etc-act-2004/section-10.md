@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-df9004fb1fe496511953b1c68052eac7] At the end of section 4 of the Immigration and Asylum Act 1999 (provision of accommodation for failed asylum seekers, &c.) add—
+(1)[^c-df9004fb1fe496511953b1c68052eac7] At the end of section 4 of the Immigration and Asylum Act 1999 (provision of accommodation for failed asylum seekers, &c.) add—
 
 > (5) The Secretary of State may make regulations specifying criteria to be used in determining—
 >
@@ -45,13 +45,13 @@ summary: ''
 >
 > (9) A local authority or other person may undertake to manage or participate in arrangements for community activities in accordance with this section.
 
-(2)[^key-df9004fb1fe496511953b1c68052eac7] In section 166(5) of that Act (regulations: affirmative instrument) before paragraph (a) insert—
+(2)[^c-df9004fb1fe496511953b1c68052eac7] In section 166(5) of that Act (regulations: affirmative instrument) before paragraph (a) insert—
 
 > - (za) section 4(5),
 
 .
 
-(3)[^key-b6e3efee2110af8f06b5c8235e9237bf] In section 103 of the Immigration and Asylum Act 1999 (c. 33) (support for asylum-seekers: appeal) as it has effect before the commencement of section 53 of the Nationality, Immigration and Asylum Act 2002 (c. 41)—
+(3)[^c-b6e3efee2110af8f06b5c8235e9237bf] In section 103 of the Immigration and Asylum Act 1999 (c. 33) (support for asylum-seekers: appeal) as it has effect before the commencement of section 53 of the Nationality, Immigration and Asylum Act 2002 (c. 41)—
 
 - (a) after subsection (2) insert—
 
@@ -60,7 +60,7 @@ summary: ''
   , and
 - (b) in subsections (6) and (7) for “section 95” substitute “ section 4 or 95 ”.
 
-(4)[^key-b6e3efee2110af8f06b5c8235e9237bf] In section 103 of the Immigration and Asylum Act 1999 (support for asylum-seekers: appeal) as it has effect after the commencement of section 53 of the Nationality, Immigration and Asylum Act 2002—
+(4)[^c-b6e3efee2110af8f06b5c8235e9237bf] In section 103 of the Immigration and Asylum Act 1999 (support for asylum-seekers: appeal) as it has effect after the commencement of section 53 of the Nationality, Immigration and Asylum Act 2002—
 
 - (a) for subsection (1) substitute—
 
@@ -74,14 +74,14 @@ summary: ''
 - (b) in subsection (4)(a) for “the other provision” substitute “ another of those provisions ”, and
 - (c) in subsection (7) for “subsection (1)(a) or (b)” substitute “ subsection (1) ”.
 
-(5)[^key-b6e3efee2110af8f06b5c8235e9237bf] In section 103A of the Immigration and Asylum Act 1999 (appeal about location of support) in subsection (1) (and in the heading) for “section 95” substitute “ section 4 or 95 ”.
+(5)[^c-b6e3efee2110af8f06b5c8235e9237bf] In section 103A of the Immigration and Asylum Act 1999 (appeal about location of support) in subsection (1) (and in the heading) for “section 95” substitute “ section 4 or 95 ”.
 
-(6)[^key-df9004fb1fe496511953b1c68052eac7] In an amendment made by this section a reference to providing accommodation includes a reference to arranging for the provision of accommodation.
+(6)[^c-df9004fb1fe496511953b1c68052eac7] In an amendment made by this section a reference to providing accommodation includes a reference to arranging for the provision of accommodation.
 
-(7)[^key-df9004fb1fe496511953b1c68052eac7] Regulations under section 4(5)(b) of the Immigration and Asylum Act 1999 (c. 33) (as inserted by subsection (1) above) may apply to persons receiving support under section 4 when the regulations come into force.
+(7)[^c-df9004fb1fe496511953b1c68052eac7] Regulations under section 4(5)(b) of the Immigration and Asylum Act 1999 (c. 33) (as inserted by subsection (1) above) may apply to persons receiving support under section 4 when the regulations come into force.
 
 ## Annotations
 
-[^key-df9004fb1fe496511953b1c68052eac7]: Commencement: [S. 10(1)](https://www.legislation.gov.uk/ukpga/2004/19/section/10/1)[(2)](https://www.legislation.gov.uk/ukpga/2004/19/section/10/2)[(6)](https://www.legislation.gov.uk/ukpga/2004/19/section/10/6)[(7)](https://www.legislation.gov.uk/ukpga/2004/19/section/10/7) in force at 1.12.2004 by [S.I. 2004/2999](https://www.legislation.gov.uk/uksi/2004/2999), [art. 2](https://www.legislation.gov.uk/uksi/2004/2999/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2999/schedule)
+[^c-df9004fb1fe496511953b1c68052eac7]: Commencement: [S. 10(1)](https://www.legislation.gov.uk/ukpga/2004/19/section/10/1)[(2)](https://www.legislation.gov.uk/ukpga/2004/19/section/10/2)[(6)](https://www.legislation.gov.uk/ukpga/2004/19/section/10/6)[(7)](https://www.legislation.gov.uk/ukpga/2004/19/section/10/7) in force at 1.12.2004 by [S.I. 2004/2999](https://www.legislation.gov.uk/uksi/2004/2999), [art. 2](https://www.legislation.gov.uk/uksi/2004/2999/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2999/schedule)
 
-[^key-b6e3efee2110af8f06b5c8235e9237bf]: Commencement: [S. 10(3)](https://www.legislation.gov.uk/ukpga/2004/19/section/10/3)[(4)](https://www.legislation.gov.uk/ukpga/2004/19/section/10/4)[(5)](https://www.legislation.gov.uk/ukpga/2004/19/section/10/5) in force at 31.3.2005 by [S.I. 2005/372](https://www.legislation.gov.uk/uksi/2005/372), [art. 2](https://www.legislation.gov.uk/uksi/2005/372/article/2)
+[^c-b6e3efee2110af8f06b5c8235e9237bf]: Commencement: [S. 10(3)](https://www.legislation.gov.uk/ukpga/2004/19/section/10/3)[(4)](https://www.legislation.gov.uk/ukpga/2004/19/section/10/4)[(5)](https://www.legislation.gov.uk/ukpga/2004/19/section/10/5) in force at 31.3.2005 by [S.I. 2005/372](https://www.legislation.gov.uk/uksi/2005/372), [art. 2](https://www.legislation.gov.uk/uksi/2005/372/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Restriction on issue of shares to third parties.[^key-aaaa4ba18566cd1cb28fa07fc6ca9d82]
+## 65. Restriction on issue of shares to third parties.[^c-aaaa4ba18566cd1cb28fa07fc6ca9d82]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aaaa4ba18566cd1cb28fa07fc6ca9d82]: Textual amendment: [Ss. 65-67](https://www.legislation.gov.uk/ukpga/2000/26/section/65) repealed (20.12.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2011/5/section/1/1), [93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3); [S.I. 2011/3044](https://www.legislation.gov.uk/uksi/2011/3044), [art. 2](https://www.legislation.gov.uk/uksi/2011/3044/article/2)
+[^c-aaaa4ba18566cd1cb28fa07fc6ca9d82]: Textual amendment: [Ss. 65-67](https://www.legislation.gov.uk/ukpga/2000/26/section/65) repealed (20.12.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2011/5/section/1/1), [93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3); [S.I. 2011/3044](https://www.legislation.gov.uk/uksi/2011/3044), [art. 2](https://www.legislation.gov.uk/uksi/2011/3044/article/2)

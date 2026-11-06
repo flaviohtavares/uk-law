@@ -36,7 +36,7 @@ An Act to impose a duty on public authorities to have due regard to rural needs;
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
-## 1. Duty of public authorities to have due regard to rural needs[^key-19e69230175b3d9d6ea72e55bb66d23f][^key-49cad7348855ee60d8954f650d70b029]
+## 1. Duty of public authorities to have due regard to rural needs[^c-19e69230175b3d9d6ea72e55bb66d23f][^c-49cad7348855ee60d8954f650d70b029]
 
 (1) A public authority must have due regard to rural needs when—
 
@@ -59,14 +59,14 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (7) An order under subsection (3) must not be made unless a draft of the order has been laid before, and approved by a resolution of, the Assembly.
 
-## 2. Guidance, advice and information, etc.[^key-eedac0ec9a8e1fd9401d0d8d76f29f0e][^key-8406eb9ea94155b35c5419d9d0cad909]
+## 2. Guidance, advice and information, etc.[^c-eedac0ec9a8e1fd9401d0d8d76f29f0e][^c-8406eb9ea94155b35c5419d9d0cad909]
 
 The Department may take such steps as appear to it to be appropriate to—
 
 - (a) provide any person with guidance, advice and information about issues connected with rural needs or ways of meeting those needs;
 - (b) undertake, commission or support (by financial means or otherwise) research into any matter relating to rural needs.
 
-## 3. Monitoring and reporting[^key-773f276095a2588decbf9d76d26b2bac][^key-ee687bcd3c1456720235ffebd2776600]
+## 3. Monitoring and reporting[^c-773f276095a2588decbf9d76d26b2bac][^c-ee687bcd3c1456720235ffebd2776600]
 
 (1) A public authority must, in such manner as may be directed by the Department—
 
@@ -83,7 +83,7 @@ and lay a copy of the report before the Assembly.
 
 (3) The Minister of Agriculture and Rural Development must, on or after the day on which the report is laid before the Assembly, make a statement to the Assembly about the content of the report.
 
-## 4. Co-operation with other bodies[^key-d0a5b99e8ec6cdda23dc47410a49cd3f][^key-0d89b7820304e1c800040c60606c61ee]
+## 4. Co-operation with other bodies[^c-d0a5b99e8ec6cdda23dc47410a49cd3f][^c-0d89b7820304e1c800040c60606c61ee]
 
 The Department must make arrangements with public authorities with a view to securing co-operation and the exchange of information between public authorities.
 
@@ -102,11 +102,11 @@ In this Act—
 
 This Act may be cited as the Rural Needs Act (Northern Ireland) 2016.
 
-## SCHEDULE — PUBLIC AUTHORITIES[^key-b23d2d1bb90553f351ac26fa22eeab09][^key-d612332d2d87b85fafe411608e324b21]
+## SCHEDULE — PUBLIC AUTHORITIES[^c-b23d2d1bb90553f351ac26fa22eeab09][^c-d612332d2d87b85fafe411608e324b21]
 
 Section 1(2).
 
-[^key-b23d2d1bb90553f351ac26fa22eeab09][^key-d612332d2d87b85fafe411608e324b21]
+[^c-b23d2d1bb90553f351ac26fa22eeab09][^c-d612332d2d87b85fafe411608e324b21]
 
 - A Northern Ireland department
 - A district council
@@ -120,29 +120,29 @@ Section 1(2).
 - The Northern Ireland Library Authority
 - The Northern Ireland Tourist Board
 - The Regional Agency for Public Health and Social Well-Being
-- [^key-520b954353a56960880672c98482d536]...
+- [^c-520b954353a56960880672c98482d536]...
 - The Sports Council for Northern Ireland
 
 ## Annotations
 
-[^key-19e69230175b3d9d6ea72e55bb66d23f]: Commencement: S. 1 in operation (1.6.2017 for specified purposes) by [S.R. 2017/78](https://www.legislation.gov.uk/nisr/2017/78), [art. 2](https://www.legislation.gov.uk/nisr/2017/78/article/2)
+[^c-19e69230175b3d9d6ea72e55bb66d23f]: Commencement: S. 1 in operation (1.6.2017 for specified purposes) by [S.R. 2017/78](https://www.legislation.gov.uk/nisr/2017/78), [art. 2](https://www.legislation.gov.uk/nisr/2017/78/article/2)
 
-[^key-49cad7348855ee60d8954f650d70b029]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2016/19/section/1) in operation at 1.6.2018 in so far as not already in operation by [S.R. 2018/115](https://www.legislation.gov.uk/nisr/2018/115), [art. 2](https://www.legislation.gov.uk/nisr/2018/115/article/2)
+[^c-49cad7348855ee60d8954f650d70b029]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2016/19/section/1) in operation at 1.6.2018 in so far as not already in operation by [S.R. 2018/115](https://www.legislation.gov.uk/nisr/2018/115), [art. 2](https://www.legislation.gov.uk/nisr/2018/115/article/2)
 
-[^key-eedac0ec9a8e1fd9401d0d8d76f29f0e]: Commencement: S. 2 in operation (1.6.2017 for specified purposes) by [S.R. 2017/78](https://www.legislation.gov.uk/nisr/2017/78), [art. 2](https://www.legislation.gov.uk/nisr/2017/78/article/2)
+[^c-eedac0ec9a8e1fd9401d0d8d76f29f0e]: Commencement: S. 2 in operation (1.6.2017 for specified purposes) by [S.R. 2017/78](https://www.legislation.gov.uk/nisr/2017/78), [art. 2](https://www.legislation.gov.uk/nisr/2017/78/article/2)
 
-[^key-8406eb9ea94155b35c5419d9d0cad909]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2016/19/section/2) in operation at 1.6.2018 in so far as not already in operation by [S.R. 2018/115](https://www.legislation.gov.uk/nisr/2018/115), [art. 2](https://www.legislation.gov.uk/nisr/2018/115/article/2)
+[^c-8406eb9ea94155b35c5419d9d0cad909]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2016/19/section/2) in operation at 1.6.2018 in so far as not already in operation by [S.R. 2018/115](https://www.legislation.gov.uk/nisr/2018/115), [art. 2](https://www.legislation.gov.uk/nisr/2018/115/article/2)
 
-[^key-773f276095a2588decbf9d76d26b2bac]: Commencement: S. 3 in operation (1.6.2017 for specified purposes) by [S.R. 2017/78](https://www.legislation.gov.uk/nisr/2017/78), [art. 2](https://www.legislation.gov.uk/nisr/2017/78/article/2)
+[^c-773f276095a2588decbf9d76d26b2bac]: Commencement: S. 3 in operation (1.6.2017 for specified purposes) by [S.R. 2017/78](https://www.legislation.gov.uk/nisr/2017/78), [art. 2](https://www.legislation.gov.uk/nisr/2017/78/article/2)
 
-[^key-ee687bcd3c1456720235ffebd2776600]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2016/19/section/3) in operation at 1.6.2018 in so far as not already in operation by [S.R. 2018/115](https://www.legislation.gov.uk/nisr/2018/115), [art. 2](https://www.legislation.gov.uk/nisr/2018/115/article/2)
+[^c-ee687bcd3c1456720235ffebd2776600]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2016/19/section/3) in operation at 1.6.2018 in so far as not already in operation by [S.R. 2018/115](https://www.legislation.gov.uk/nisr/2018/115), [art. 2](https://www.legislation.gov.uk/nisr/2018/115/article/2)
 
-[^key-d0a5b99e8ec6cdda23dc47410a49cd3f]: Commencement: S. 4 in operation (1.6.2017 for specified purposes) by [S.R. 2017/78](https://www.legislation.gov.uk/nisr/2017/78), [art. 2](https://www.legislation.gov.uk/nisr/2017/78/article/2)
+[^c-d0a5b99e8ec6cdda23dc47410a49cd3f]: Commencement: S. 4 in operation (1.6.2017 for specified purposes) by [S.R. 2017/78](https://www.legislation.gov.uk/nisr/2017/78), [art. 2](https://www.legislation.gov.uk/nisr/2017/78/article/2)
 
-[^key-0d89b7820304e1c800040c60606c61ee]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2016/19/section/4) in operation at 1.6.2018 in so far as not already in operation by [S.R. 2018/115](https://www.legislation.gov.uk/nisr/2018/115), [art. 2](https://www.legislation.gov.uk/nisr/2018/115/article/2)
+[^c-0d89b7820304e1c800040c60606c61ee]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2016/19/section/4) in operation at 1.6.2018 in so far as not already in operation by [S.R. 2018/115](https://www.legislation.gov.uk/nisr/2018/115), [art. 2](https://www.legislation.gov.uk/nisr/2018/115/article/2)
 
-[^key-b23d2d1bb90553f351ac26fa22eeab09]: Commencement: Sch. in operation (1.6.2017 for specified purposes) by [S.R. 2017/78](https://www.legislation.gov.uk/nisr/2017/78), [art. 2](https://www.legislation.gov.uk/nisr/2017/78/article/2)
+[^c-b23d2d1bb90553f351ac26fa22eeab09]: Commencement: Sch. in operation (1.6.2017 for specified purposes) by [S.R. 2017/78](https://www.legislation.gov.uk/nisr/2017/78), [art. 2](https://www.legislation.gov.uk/nisr/2017/78/article/2)
 
-[^key-d612332d2d87b85fafe411608e324b21]: Commencement: [Sch.](https://www.legislation.gov.uk/nia/2016/19/schedule) in operation at 1.6.2018 in so far as not already in operation by [S.R. 2018/115](https://www.legislation.gov.uk/nisr/2018/115), [art. 2](https://www.legislation.gov.uk/nisr/2018/115/article/2)
+[^c-d612332d2d87b85fafe411608e324b21]: Commencement: [Sch.](https://www.legislation.gov.uk/nia/2016/19/schedule) in operation at 1.6.2018 in so far as not already in operation by [S.R. 2018/115](https://www.legislation.gov.uk/nisr/2018/115), [art. 2](https://www.legislation.gov.uk/nisr/2018/115/article/2)
 
-[^key-520b954353a56960880672c98482d536]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nia/2016/19/schedule) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 253](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/253); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-520b954353a56960880672c98482d536]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nia/2016/19/schedule) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 253](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/253); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

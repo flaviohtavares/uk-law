@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Hazardous material storage facilities: location requirements and plan[^key-5066bc64c9a6eb1c41d99c2011d0c6e8]
+## 158. Hazardous material storage facilities: location requirements and plan[^c-5066bc64c9a6eb1c41d99c2011d0c6e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5066bc64c9a6eb1c41d99c2011d0c6e8]: Commencement: Reg. 158 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-5066bc64c9a6eb1c41d99c2011d0c6e8]: Commencement: Reg. 158 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00048]: Footnote: [S.I. 2014/1638](https://www.legislation.gov.uk/uksi/2014/1638), amended by [S.I. 2014/3248](https://www.legislation.gov.uk/uksi/2014/3248), [S.I. 2016/315](https://www.legislation.gov.uk/uksi/2016/315), [S.I. 2016/345](https://www.legislation.gov.uk/uksi/2016/345), [S.I. 2016/721](https://www.legislation.gov.uk/uksi/2016/721), [S.I. 2017/469](https://www.legislation.gov.uk/uksi/2017/469) and [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696).

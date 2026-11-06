@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Notification of new information[^key-b3f5e8199750a0f60c0b7a15212d7ed1]
+## 21. Notification of new information[^c-b3f5e8199750a0f60c0b7a15212d7ed1]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ to which the authorisation or the registration relates, which may affect that au
 
 ## Annotations
 
-[^key-b3f5e8199750a0f60c0b7a15212d7ed1]: Commencement: Reg. 21 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-b3f5e8199750a0f60c0b7a15212d7ed1]: Commencement: Reg. 21 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

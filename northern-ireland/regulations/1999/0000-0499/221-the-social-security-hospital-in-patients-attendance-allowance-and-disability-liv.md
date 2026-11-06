@@ -40,15 +40,15 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 113(2) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and sections 71(1)(b) and 165(1) and (4) of the Social Security Administration (Northern Ireland) Act 1992[^f00002] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-6019ca0440468d459b565028d48efce3]
+## 1. Citation and commencement[^c-6019ca0440468d459b565028d48efce3]
 
 These Regulations may be cited as the Social Security (Hospital In-Patients, Attendance Allowance and Disability Living Allowance) (Amendment) Regulations (Northern Ireland) 1999 and shall come into operation on 7th June 1999.
 
-## 2. Amendment of the Social Security (Hospital In-Patients) Regulations[^key-2d1d02f53e18f0c3b7fb172470c24660]
+## 2. Amendment of the Social Security (Hospital In-Patients) Regulations[^c-2d1d02f53e18f0c3b7fb172470c24660]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Social Security (Attendance Allowance) Regulations[^key-fa2e02f1bfce56e328fe7206b8be9627]
+## 3. Amendment of the Social Security (Attendance Allowance) Regulations[^c-fa2e02f1bfce56e328fe7206b8be9627]
 
 In regulation 6 of the Social Security (Attendance Allowance) Regulations (Northern Ireland) 1992[^f00004] (hospitalisation) after paragraph (2) there shall be inserted the following paragraph—
 
@@ -56,7 +56,7 @@ In regulation 6 of the Social Security (Attendance Allowance) Regulations (North
 
 .
 
-## 4. Amendment of the Social Security (Disability Living Allowance) Regulations[^key-1d53f4e91c055e06278ac3da41f14cb3]
+## 4. Amendment of the Social Security (Disability Living Allowance) Regulations[^c-1d53f4e91c055e06278ac3da41f14cb3]
 
 (1) The Social Security (Disability Living Allowance) Regulations (Northern Ireland) 1992[^f00005] shall be amended in accordance with paragraphs (2) and (3) of this regulation.
 
@@ -94,15 +94,15 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00002]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 71(1) was amended by paragraph 32(2) of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995 ([S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)) and section 165(1) was amended by paragraph 49(2) of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671))
 
-[^key-6019ca0440468d459b565028d48efce3]: Commencement: Reg. 1 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/221/regulation/1)
+[^c-6019ca0440468d459b565028d48efce3]: Commencement: Reg. 1 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/221/regulation/1)
 
-[^key-2d1d02f53e18f0c3b7fb172470c24660]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1999/221/regulation/2) revoked (coming into force in accordance with of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
+[^c-2d1d02f53e18f0c3b7fb172470c24660]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1999/221/regulation/2) revoked (coming into force in accordance with of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
 
-[^key-fa2e02f1bfce56e328fe7206b8be9627]: Commencement: Reg. 3 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/221/regulation/1)
+[^c-fa2e02f1bfce56e328fe7206b8be9627]: Commencement: Reg. 3 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/221/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1992 No. 20](https://www.legislation.gov.uk/nisr/1992/20); relevant amending regulations are [S.R. 1992 No. 481](https://www.legislation.gov.uk/nisr/1992/481)
 
-[^key-1d53f4e91c055e06278ac3da41f14cb3]: Commencement: Reg. 4 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/221/regulation/1)
+[^c-1d53f4e91c055e06278ac3da41f14cb3]: Commencement: Reg. 4 in operation at 7.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/221/regulation/1)
 
 [^f00005]: Footnote: [S.R. 1992 No. 32](https://www.legislation.gov.uk/nisr/1992/32); relevant amending regulations are [S.R. 1992 No. 481](https://www.legislation.gov.uk/nisr/1992/481) and [S.R. 1996 No. 225](https://www.legislation.gov.uk/nisr/1996/225)
 

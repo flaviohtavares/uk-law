@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Application within territorial waters[^key-9b82496e58183d836ab5b15fdc7b7ff7]
+## 41. Application within territorial waters[^c-9b82496e58183d836ab5b15fdc7b7ff7]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Within territorial waters these Regulations shall apply only to and in relation 
 
 ## Annotations
 
-[^key-9b82496e58183d836ab5b15fdc7b7ff7]: Commencement: Reg. 41 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-9b82496e58183d836ab5b15fdc7b7ff7]: Commencement: Reg. 41 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

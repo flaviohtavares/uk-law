@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Nature conservation functions: preliminary.[^key-22a725b013b8e8efc5356e56ca05bd53]
+## 131. Nature conservation functions: preliminary.[^c-22a725b013b8e8efc5356e56ca05bd53]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22a725b013b8e8efc5356e56ca05bd53]: Textual amendment: Ss. 128-134 repealed (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [8(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/article/8/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-22a725b013b8e8efc5356e56ca05bd53]: Textual amendment: Ss. 128-134 repealed (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [8(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/article/8/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

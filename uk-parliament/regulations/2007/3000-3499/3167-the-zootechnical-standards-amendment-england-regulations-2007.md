@@ -32,7 +32,7 @@ summary: ''
 
 animals, england
 
-The Zootechnical Standards (Amendment) (England) Regulations 2007 (revoked)[^key-0eb9c7a2f86f09121917c5881ef929e2]
+The Zootechnical Standards (Amendment) (England) Regulations 2007 (revoked)[^c-0eb9c7a2f86f09121917c5881ef929e2]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 7th December 2007
 
-[^key-0eb9c7a2f86f09121917c5881ef929e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0eb9c7a2f86f09121917c5881ef929e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-0eb9c7a2f86f09121917c5881ef929e2]
+## 1. Citation, commencement and application[^c-0eb9c7a2f86f09121917c5881ef929e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-0eb9c7a2f86f09121917c5881ef929e2]
+## 2. Amendments[^c-0eb9c7a2f86f09121917c5881ef929e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0eb9c7a2f86f09121917c5881ef929e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0eb9c7a2f86f09121917c5881ef929e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-0eb9c7a2f86f09121917c5881ef929e2]EXPLANATORY NOTE
+[^c-0eb9c7a2f86f09121917c5881ef929e2]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -78,4 +78,4 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 ## Annotations
 
-[^key-0eb9c7a2f86f09121917c5881ef929e2]: Textual amendment: Regulations revoked (30.11.2012) by [The Zootechnical Standards (England) Regulations 2012 (S.I. 2012/2665)](https://www.legislation.gov.uk/uksi/2012/2665), [reg. 14(b)](https://www.legislation.gov.uk/uksi/2012/2665/regulation/14/b)
+[^c-0eb9c7a2f86f09121917c5881ef929e2]: Textual amendment: Regulations revoked (30.11.2012) by [The Zootechnical Standards (England) Regulations 2012 (S.I. 2012/2665)](https://www.legislation.gov.uk/uksi/2012/2665), [reg. 14(b)](https://www.legislation.gov.uk/uksi/2012/2665/regulation/14/b)

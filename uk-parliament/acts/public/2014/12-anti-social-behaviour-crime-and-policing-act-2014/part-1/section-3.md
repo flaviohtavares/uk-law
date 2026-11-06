@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Requirements included in injunctions[^key-367f92cc354c2bf4824fb2c9fb8d8d80]
+## 3. Requirements included in injunctions[^c-367f92cc354c2bf4824fb2c9fb8d8d80]
 
 *Extent: E+W*
 
-(1) An injunction under this Part[^key-7238443097c5644c7b9d7135a18a705b] that includes a requirement must specify the person who is to be responsible for supervising compliance with the requirement.
+(1) An injunction under this Part[^c-7238443097c5644c7b9d7135a18a705b] that includes a requirement must specify the person who is to be responsible for supervising compliance with the requirement.
 
 The person may be an individual or an organisation.
 
@@ -55,6 +55,6 @@ These obligations have effect as requirements of the injunction.
 
 ## Annotations
 
-[^key-367f92cc354c2bf4824fb2c9fb8d8d80]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/12/section/3) in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/373/article/4/a)
+[^c-367f92cc354c2bf4824fb2c9fb8d8d80]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/12/section/3) in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/373/article/4/a)
 
-[^key-7238443097c5644c7b9d7135a18a705b]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/ukpga/2014/12/section/3) substituted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2026/20/schedule/1/paragraph/5) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/2/3)); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/g)
+[^c-7238443097c5644c7b9d7135a18a705b]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/ukpga/2014/12/section/3) substituted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2026/20/schedule/1/paragraph/5) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/2/3)); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/g)

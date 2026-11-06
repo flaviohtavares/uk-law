@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Qualifying for representation[^key-1726b7e027dea482c6456e20f8480a21]
+## 17. Qualifying for representation[^c-1726b7e027dea482c6456e20f8480a21]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1726b7e027dea482c6456e20f8480a21]: Modification: [Ss. 13-20](https://www.legislation.gov.uk/ukpga/2012/10/section/13) applied (8.3.2018) by [The United Nations (International Residual Mechanism for Criminal Tribunals) Order 2018 (S.I. 2018/187)](https://www.legislation.gov.uk/uksi/2018/187), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/187/article/1/1), [29(1)(b)](https://www.legislation.gov.uk/uksi/2018/187/article/29/1/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/187/article/3))
+[^c-1726b7e027dea482c6456e20f8480a21]: Modification: [Ss. 13-20](https://www.legislation.gov.uk/ukpga/2012/10/section/13) applied (8.3.2018) by [The United Nations (International Residual Mechanism for Criminal Tribunals) Order 2018 (S.I. 2018/187)](https://www.legislation.gov.uk/uksi/2018/187), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/187/article/1/1), [29(1)(b)](https://www.legislation.gov.uk/uksi/2018/187/article/29/1/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/187/article/3))

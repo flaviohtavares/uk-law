@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Compulsory acquisition of land – incorporation of the mineral code[^key-f9475c95186a5e8e30f22f29e5a08e55]
+## 44. Compulsory acquisition of land – incorporation of the mineral code[^c-f9475c95186a5e8e30f22f29e5a08e55]
 
 *Extent: E+W+S*
 
@@ -28,6 +28,6 @@ Parts 2 and 3 of Schedule 2 (minerals) to the Acquisition of Land Act 1981[^f000
 
 ## Annotations
 
-[^key-f9475c95186a5e8e30f22f29e5a08e55]: Commencement: Art. 44 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-f9475c95186a5e8e30f22f29e5a08e55]: Commencement: Art. 44 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
 
 [^f00047]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).

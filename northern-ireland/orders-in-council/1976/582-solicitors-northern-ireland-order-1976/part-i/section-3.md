@@ -35,8 +35,8 @@ summary: ''
 - “enactment” includes any statutory provision within the meaning of section 1( *f*) of the Interpretation Act (Northern Ireland) 1954 [^m00003];
 - “indemnity regulations” means regulations under Article 63;
 - “instrument” includes anything which is a statutory instrument or a statutory document within the meaning of paragraph ( *d*) or paragraph ( *e*) respectively of section 1 of the Interpretation Act (Northern Ireland) 1954;
-- the Legal Services Oversight Commissioner” means the Legal Services Oversight Commissioner for Northern Ireland;[^key-0a4ae3a8a4091df38e343f965bd6a84b]
-- “local authority” means a district council, a joint committee appointed by two or more such councils, the Education Authority[^key-540094aa7315bcc368d74b4316f6e4ba],[^c21335271] [^key-4cbdfc4ab120e805f62b60727e871040]... the Regional Business Services Organisation, the Regional Agency for Public Health and Social Well-being or the Northern Ireland Housing Executive established under section 1 of the Housing Executive Act (Northern Ireland) 1971 [^m00005];
+- the Legal Services Oversight Commissioner” means the Legal Services Oversight Commissioner for Northern Ireland;[^c-0a4ae3a8a4091df38e343f965bd6a84b]
+- “local authority” means a district council, a joint committee appointed by two or more such councils, the Education Authority[^c-540094aa7315bcc368d74b4316f6e4ba],[^c21335271] [^c-4cbdfc4ab120e805f62b60727e871040]... the Regional Business Services Organisation, the Regional Agency for Public Health and Social Well-being or the Northern Ireland Housing Executive established under section 1 of the Housing Executive Act (Northern Ireland) 1971 [^m00005];
 - “non-contentious business” means any business done as a solicitor which is not contentious business as defined by this paragraph;
 - “notice” means notice in writing;
 - “officer”, in relation to a limited liability partnership, means a member of the limited liability partnership;[^c17112241]
@@ -62,7 +62,7 @@ summary: ''
   - (ii) section 8(1)(a) of that Act (land).
 - “unqualified person” means a person not qualified under Article 4 to act as a solicitor.
 
-(2A)[^key-e3a555900b5f52b0ef96885502ba3c01] In this Order—
+(2A)[^c-e3a555900b5f52b0ef96885502ba3c01] In this Order—
 
 - (a) references to civil legal services funded by the Department of Justice shall be construed in accordance with Article 10 of the Access to Justice (Northern Ireland) Order 2003;
 - (b) references to criminal defence services funded by the Department of Justice shall be construed—
@@ -93,13 +93,13 @@ summary: ''
 
 [^m00003]: Marginal citation: 1954 c.33
 
-[^key-0a4ae3a8a4091df38e343f965bd6a84b]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/nisi/1976/582/article/3/2) inserted (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(1)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/1); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-0a4ae3a8a4091df38e343f965bd6a84b]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/nisi/1976/582/article/3/2) inserted (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(1)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/1); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
-[^key-540094aa7315bcc368d74b4316f6e4ba]: Textual amendment: Words in art. 3(2) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 6](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/6) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-540094aa7315bcc368d74b4316f6e4ba]: Textual amendment: Words in art. 3(2) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 6](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/6) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c21335271]: Textual amendment: Art. 3(2): words in definition of "local authority" substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 5](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/5); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-4cbdfc4ab120e805f62b60727e871040]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/nisi/1976/582/article/3/2) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 56](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/56); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-4cbdfc4ab120e805f62b60727e871040]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/nisi/1976/582/article/3/2) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 56](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/56); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^m00005]: Marginal citation: 1971 c.5
 
@@ -109,4 +109,4 @@ summary: ''
 
 [^c17112311]: Textual amendment: [2001 c. 14 (NI)](https://www.legislation.gov.uk/nia/2001/14)
 
-[^key-e3a555900b5f52b0ef96885502ba3c01]: Textual amendment: Art. 3(2A) inserted (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/nisi/2003/435/schedule/4/paragraph/2/2) (as amended (18.11.2014) by [Legal Aid and Coroners’ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), Sch. 2 para 6(44)(a)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
+[^c-e3a555900b5f52b0ef96885502ba3c01]: Textual amendment: Art. 3(2A) inserted (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/nisi/2003/435/schedule/4/paragraph/2/2) (as amended (18.11.2014) by [Legal Aid and Coroners’ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), Sch. 2 para 6(44)(a)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))

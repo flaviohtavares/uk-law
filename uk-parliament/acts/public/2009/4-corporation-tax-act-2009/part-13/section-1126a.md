@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1126A. Attributable expenditure: special rules for consumable items[^key-42da71d8fb3112c466a31698dbb49b26][^key-3c4566a39b0db421bc94ac09a4d189f3][^M_F_8da45c76-6bfb-46fd-da44-1128b91bedff]
+## 1126A. Attributable expenditure: special rules for consumable items[^c-42da71d8fb3112c466a31698dbb49b26][^c-3c4566a39b0db421bc94ac09a4d189f3][^M_F_8da45c76-6bfb-46fd-da44-1128b91bedff]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,8 +78,8 @@ and a reference to the transfer of an item includes, where the item is incorpora
 
 ## Annotations
 
-[^key-42da71d8fb3112c466a31698dbb49b26]: Modification: Ss. 1126-1126B applied (with modifications) by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 357BLB(7)(d)](https://www.legislation.gov.uk/ukpga/2010/4/section/357BLB/7/d) (as inserted (with effect in accordance with s. 64(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 64(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/64/3))
+[^c-42da71d8fb3112c466a31698dbb49b26]: Modification: Ss. 1126-1126B applied (with modifications) by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 357BLB(7)(d)](https://www.legislation.gov.uk/ukpga/2010/4/section/357BLB/7/d) (as inserted (with effect in accordance with s. 64(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 64(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/64/3))
 
-[^key-3c4566a39b0db421bc94ac09a4d189f3]: Textual amendment: Ss. 1126A, 1126B inserted (with effect in accordance with s. 28(7) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 28(3)](https://www.legislation.gov.uk/ukpga/2015/11/section/28/3)
+[^c-3c4566a39b0db421bc94ac09a4d189f3]: Textual amendment: Ss. 1126A, 1126B inserted (with effect in accordance with s. 28(7) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 28(3)](https://www.legislation.gov.uk/ukpga/2015/11/section/28/3)
 
 [^M_F_8da45c76-6bfb-46fd-da44-1128b91bedff]: Textual amendment: Words in s. 1126A heading inserted (with effect in relation to accounting periods beginning on or after 1.4.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 1 paras. 3(6)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/1/paragraph/3/6), [20](https://www.legislation.gov.uk/ukpga/2023/30/schedule/1/paragraph/20)

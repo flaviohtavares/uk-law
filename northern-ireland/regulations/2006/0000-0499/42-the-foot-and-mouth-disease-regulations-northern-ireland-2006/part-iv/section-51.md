@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 51. False information[^key-aca4c11b1fd271fa79d528eca5412663]
+## 51. False information[^c-aca4c11b1fd271fa79d528eca5412663]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A person shall not furnish information which he knows to be false or misleading 
 
 ## Annotations
 
-[^key-aca4c11b1fd271fa79d528eca5412663]: Commencement: Reg. 51 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-aca4c11b1fd271fa79d528eca5412663]: Commencement: Reg. 51 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

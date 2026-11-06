@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Conditional approvals[^key-e2af4d600fac3b469a908942442ca7b1]
+## 16. Conditional approvals[^c-e2af4d600fac3b469a908942442ca7b1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2af4d600fac3b469a908942442ca7b1]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2013/3109/regulation/16) omitted (1.9.2026) by virtue of [The School Organisation (Establishment and Discontinuance of Schools) (Amendment) Regulations 2026 (S.I. 2026/528)](https://www.legislation.gov.uk/uksi/2026/528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/528/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2026/528/regulation/18) (with [reg. 29](https://www.legislation.gov.uk/uksi/2026/528/regulation/29))
+[^c-e2af4d600fac3b469a908942442ca7b1]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2013/3109/regulation/16) omitted (1.9.2026) by virtue of [The School Organisation (Establishment and Discontinuance of Schools) (Amendment) Regulations 2026 (S.I. 2026/528)](https://www.legislation.gov.uk/uksi/2026/528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/528/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2026/528/regulation/18) (with [reg. 29](https://www.legislation.gov.uk/uksi/2026/528/regulation/29))

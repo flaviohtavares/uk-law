@@ -37,11 +37,11 @@ Made
 
 The Department for Communities makes the following Order in exercise of the powers conferred by section 37(2) and (3)(c) of the Financial Guidance and Claims Act 2018[^f00001].
 
-## 1. Citation[^key-f5447c9a5dba284c06c17257c7008f14]
+## 1. Citation[^c-f5447c9a5dba284c06c17257c7008f14]
 
 This Order may be cited as the Financial Guidance and Claims Act 2018 (Commencement No. 1) Order (Northern Ireland) 2022.
 
-## 2. Appointed day[^key-3e4a9b156c1d6682dc977118ca6a8da8]
+## 2. Appointed day[^c-3e4a9b156c1d6682dc977118ca6a8da8]
 
 The day appointed for the coming into operation of the following provisions of the Financial Guidance and Claims Act 2018 is 15th March 2022—
 
@@ -71,6 +71,6 @@ Article 2 also appoints 15th March 2022 as the day for the coming into operation
 
 [^f00001]: Footnote: [2018 c. 10](https://www.legislation.gov.uk/ukpga/2018/10)
 
-[^key-f5447c9a5dba284c06c17257c7008f14]: Commencement: Art. 1 in operation at made date
+[^c-f5447c9a5dba284c06c17257c7008f14]: Commencement: Art. 1 in operation at made date
 
-[^key-3e4a9b156c1d6682dc977118ca6a8da8]: Commencement: Art. 2 in operation at made date
+[^c-3e4a9b156c1d6682dc977118ca6a8da8]: Commencement: Art. 2 in operation at made date

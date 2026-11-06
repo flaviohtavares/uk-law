@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Purposes referred to in section 42[^key-6403fb5855f1752f041aa616dd74a346][^key-de381960df824f75a8671e8be52b402a]
+## 43. Purposes referred to in section 42[^c-6403fb5855f1752f041aa616dd74a346][^c-de381960df824f75a8671e8be52b402a]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6403fb5855f1752f041aa616dd74a346]: Commencement: S. 43 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-6403fb5855f1752f041aa616dd74a346]: Commencement: S. 43 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-de381960df824f75a8671e8be52b402a]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2022/37/section/43) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
+[^c-de381960df824f75a8671e8be52b402a]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2022/37/section/43) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))

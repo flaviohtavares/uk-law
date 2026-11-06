@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Animal welfare guidance[^key-60deafe7f537346796d474c977f86d0a]
+## 38. Animal welfare guidance[^c-60deafe7f537346796d474c977f86d0a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Scottish Ministers may, with a view to securing the welfare of protected ani
 
 ## Annotations
 
-[^key-60deafe7f537346796d474c977f86d0a]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2006/11/section/38) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-60deafe7f537346796d474c977f86d0a]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2006/11/section/38) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

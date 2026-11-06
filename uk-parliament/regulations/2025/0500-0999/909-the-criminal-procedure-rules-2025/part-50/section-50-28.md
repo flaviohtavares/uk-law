@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.28. Declaration of incompatibility with a Convention right[^key-982ef0a8700cf825ebdddefdc654df20]
+## 50.28. Declaration of incompatibility with a Convention right[^c-982ef0a8700cf825ebdddefdc654df20]
 
 *Extent: E+W*
 
@@ -54,7 +54,7 @@ summary: ''
 
 ## Annotations
 
-[^key-982ef0a8700cf825ebdddefdc654df20]: Commencement: [Rule 50.28](https://www.legislation.gov.uk/uksi/2025/909/rule/50.28) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-982ef0a8700cf825ebdddefdc654df20]: Commencement: [Rule 50.28](https://www.legislation.gov.uk/uksi/2025/909/rule/50.28) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01368]: Footnote: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42); section 4 was amended by section 40 of, and paragraph 66 of Schedule 9 to, the Constitutional Reform Act 2005 (c. 4) and section 67 of, and paragraph 43 of Schedule 6 to, the Mental Capacity Act [2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9).
 

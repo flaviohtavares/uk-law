@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26A. Free-circulation procedure: goods imported at RoRo listed locations[^key-e21da658c02375518df0d14505cd88c3]
+## 26A. Free-circulation procedure: goods imported at RoRo listed locations[^c-e21da658c02375518df0d14505cd88c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e21da658c02375518df0d14505cd88c3]: Textual amendment: Reg. 26A inserted (31.12.2020) by [The Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) Regulations 2019 (S.I. 2019/486)](https://www.legislation.gov.uk/uksi/2019/486), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/486/regulation/1/3), [6(7)](https://www.legislation.gov.uk/uksi/2019/486/regulation/6/7); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-e21da658c02375518df0d14505cd88c3]: Textual amendment: Reg. 26A inserted (31.12.2020) by [The Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) Regulations 2019 (S.I. 2019/486)](https://www.legislation.gov.uk/uksi/2019/486), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/486/regulation/1/3), [6(7)](https://www.legislation.gov.uk/uksi/2019/486/regulation/6/7); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

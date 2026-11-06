@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 2A — PENSION SHARING ON DIVORCE OR NULLITY OF MARRIAGE OR, ON THE DISSOLUTION OR NULLITY OF A CIVIL PARTNERSHIP[^key-02a5127ac69eb1fe74022badb423907e][^key-6e1ec6ba3d93f557b3ee64aa26cf6098]
+## SCHEDULE 2A — PENSION SHARING ON DIVORCE OR NULLITY OF MARRIAGE OR, ON THE DISSOLUTION OR NULLITY OF A CIVIL PARTNERSHIP[^c-02a5127ac69eb1fe74022badb423907e][^c-6e1ec6ba3d93f557b3ee64aa26cf6098]
 
 *Extent: E+W+S*
 
@@ -28,31 +28,31 @@ Regulation R12
 
 (2) The amount of a lump sum payable under this paragraph shall be—
 
-- (a) payable in accordance with regulation F5 as modified by paragraph 9[^key-71ea09919ebc6f5067e3e5ed5a1eb9fa] below; and
+- (a) payable in accordance with regulation F5 as modified by paragraph 9[^c-71ea09919ebc6f5067e3e5ed5a1eb9fa] below; and
 - (b) equal to 3 times the annual rate of the pension credit benefit to which the person entitled to the pension credit would have been entitled had he reached normal benefit age on or before the date of death.
 
-### 2. Safeguarded rights[^key-2f6e3afd4d2d2856069e29549f2727e2]
+### 2. Safeguarded rights[^c-2f6e3afd4d2d2856069e29549f2727e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Pension credit benefit on attaining normal benefit age[^key-e70eef1541a3ee1ca78d06cb1caa1a8d]
+### 3. Pension credit benefit on attaining normal benefit age[^c-e70eef1541a3ee1ca78d06cb1caa1a8d]
 
 (1) A pension credit member shall be entitled under this Section of[^M_F_bd19dc74-4cb4-47a4-df2a-c8a2f4791d35] the scheme to pension credit benefit which shall consist of—
 
 - (a) a pension; and
 - (b) where the member, from whose rights the pension credit member’s pension credit rights are derived, has not received a lump sum on or before the day on which the pension sharing order or provision takes effect, a lump sum.
 
-(2) Subject to paragraphs 3A to 4[^key-bb3c13488b02f2436f10732e7eacfd6a], a pension credit member shall be entitled to the payment of the pension credit benefit when he reaches normal benefit age.
+(2) Subject to paragraphs 3A to 4[^c-bb3c13488b02f2436f10732e7eacfd6a], a pension credit member shall be entitled to the payment of the pension credit benefit when he reaches normal benefit age.
 
 (3) Payment of the pension credit benefit to which a pension credit member is entitled shall not be deferred beyond normal benefit age.
 
 (4) A pension payable in accordance with this paragraph shall be payable to the pension credit member for life.
 
-(5) Subject to paragraph (7), the value[^key-f3029326372767a42943dbb74dac25f3] of the pension referred to in this paragraph shall be equal to the value of the pension credit rights which have accrued to or in respect of the pension credit member.
+(5) Subject to paragraph (7), the value[^c-f3029326372767a42943dbb74dac25f3] of the pension referred to in this paragraph shall be equal to the value of the pension credit rights which have accrued to or in respect of the pension credit member.
 
 (6) The lump sum referred to in this paragraph shall be equal to 3 times the annual rate of the pension.
 
-(7)[^key-f8dce8be8403150e2901a4922caa0ae7] A pension credit member who is entitled to a lump sum in accordance with sub-paragraph (1)(b) may opt to exchange part of a pension to which the pension credit member would otherwise be entitled for a lump sum, which must be an evenly divisible multiple of £12.
+(7)[^c-f8dce8be8403150e2901a4922caa0ae7] A pension credit member who is entitled to a lump sum in accordance with sub-paragraph (1)(b) may opt to exchange part of a pension to which the pension credit member would otherwise be entitled for a lump sum, which must be an evenly divisible multiple of £12.
 
 (8) If a pension credit member so opts, for every £1 by which the pension credit member’s annual pension is reduced, the pension credit member is to be paid a lump sum of £12.
 
@@ -67,7 +67,7 @@ Regulation R12
 - (a) at the time of claiming the pension; or
 - (b) before a later time specified in writing by the scheme administrator.
 
-### 3A. Pension credit benefit before attaining normal benefit age (with actuarial reduction)[^key-eb86f1f6ff6ee3d0e07fa89e5ed70213]
+### 3A. Pension credit benefit before attaining normal benefit age (with actuarial reduction)[^c-eb86f1f6ff6ee3d0e07fa89e5ed70213]
 
 (1) Subject to sub-paragraph (2), a pension credit member shall be entitled to the payment of the pension credit benefit described in paragraph 3 of this Schedule on or after attaining normal minimum pension age but before attaining normal benefit age.
 
@@ -84,11 +84,11 @@ Regulation R12
 
 ### 4. Commutation of the whole of pension credit benefit before normal benefit age
 
-(1) A pension credit member shall be entitled to the commutation of the whole of his pension credit benefit before reaching normal benefit age in the circumstances permitted by paragraph (b) of the lump sum rule in section 166(1) of the 2004 Act[^key-c69d9088ef2e329f96d3154997410d28].
+(1) A pension credit member shall be entitled to the commutation of the whole of his pension credit benefit before reaching normal benefit age in the circumstances permitted by paragraph (b) of the lump sum rule in section 166(1) of the 2004 Act[^c-c69d9088ef2e329f96d3154997410d28].
 
-(1A)[^key-65a4241c1131d0d57148e2f175122ef8] For the purpose of sub-paragraph (1), the Secretary of State may require whatever medical evidence that the Secretary of State considers necessary.
+(1A)[^c-65a4241c1131d0d57148e2f175122ef8] For the purpose of sub-paragraph (1), the Secretary of State may require whatever medical evidence that the Secretary of State considers necessary.
 
-(2)[^key-088941bfce0863bd2365e117e56746a7] The pension credit payable in the circumstances described in sub-paragraph (1) shall consist of—
+(2)[^c-088941bfce0863bd2365e117e56746a7] The pension credit payable in the circumstances described in sub-paragraph (1) shall consist of—
 
 - (a) where paragraph 3(1)(b) applies, a lump sum equal to the aggregate of—
   - (i) 3 times the annual rate of the pension otherwise payable under paragraph 3 of this Schedule had the pension credit member reached normal benefit age on the date when commutation in accordance with this paragraph is applied for,
@@ -101,11 +101,11 @@ Regulation R12
 (1) Where—
 
 - (a) the pension credit member is suffering from serious ill health at normal benefit age; or
-- (b)[^key-0ecb98c723fa81c9157c817739ff6e5e] the total benefits payable to the pension credit member, including any pension credit benefit, is of an amount that complies with the provisions of paragraphs 7 to 9 of Part I of Schedule 29 to the 2004 Act (lump sum rule: trivial commutation lump sum) at normal benefit age.
+- (b)[^c-0ecb98c723fa81c9157c817739ff6e5e] the total benefits payable to the pension credit member, including any pension credit benefit, is of an amount that complies with the provisions of paragraphs 7 to 9 of Part I of Schedule 29 to the 2004 Act (lump sum rule: trivial commutation lump sum) at normal benefit age.
 
 the Secretary of State may discharge his liability in respect of the payment of pension credit benefit by the payment of a lump sum to the pension credit member at normal benefit age.
 
-(2)[^key-fc2c5d475e517d5cbd0076290ee8cf4a] The pension credit payable in the circumstances described in sub-paragraph (1)(a) shall consist of—
+(2)[^c-fc2c5d475e517d5cbd0076290ee8cf4a] The pension credit payable in the circumstances described in sub-paragraph (1)(a) shall consist of—
 
 - (a) where paragraph 3(1)(b) applies, a lump sum equal to the aggregate of—
   - (i) 3 times the annual rate of the pension otherwise payable under paragraph 3 of this Schedule,
@@ -127,14 +127,14 @@ the Secretary of State may discharge his liability in respect of the payment of 
 
 (2) Subject to sub-paragraph (3), the lump sum on death shall be equal to 5 times the annual rate of the pension credit member’s pension less the amount of pension already paid.
 
-(3)[^key-37cda29e106b8b342dc60c16a7e15030] The maximum payment under this regulation shall not exceed the amount calculated in accordance with sub-paragraph (4), less the aggregate of—
+(3)[^c-37cda29e106b8b342dc60c16a7e15030] The maximum payment under this regulation shall not exceed the amount calculated in accordance with sub-paragraph (4), less the aggregate of—
 
 - (a) the amount of any lump sum paid to the pension credit member in accordance with paragraph 3(6), and
 - (b) the amount of any lump sum paid to the pension credit member in accordance with paragraph 3(7).
 
 (4) An amount calculated in accordance with this sub-paragraph is an amount equal to twice the amount on the valuation day of the final year’s pensionable pay of the member from whose rights the pension credit is derived.
 
-(5)[^key-a9c80bb6f8e1b99b4bf4b08706934190] Where a pension credit member referred to in paragraph (1) dies on or before 5th April 2011 and[^key-2393dbdbc97efeddf5a53029e569b252] had[^key-7cd7624bc937f28558146981a4aa110f] attained the age of 75 at the date of the pension credit member’s death—
+(5)[^c-a9c80bb6f8e1b99b4bf4b08706934190] Where a pension credit member referred to in paragraph (1) dies on or before 5th April 2011 and[^c-2393dbdbc97efeddf5a53029e569b252] had[^c-7cd7624bc937f28558146981a4aa110f] attained the age of 75 at the date of the pension credit member’s death—
 
 - (a) the lump sum referred to in that paragraph shall cease to be payable, and
 - (b) shall instead be converted into an annual pension to be determined and paid in accordance with paragraph (6).
@@ -175,7 +175,7 @@ Where a pension credit member is also a member of this Section of[^M_F_1628d6d0-
 Regulation F5 (payment of lump sum) shall apply in respect of a person entitled to a pension credit or a pension credit member, as the case may be, with the following modifications—
 
 - (a) the reference in that regulation to “any of regulations F1 to F4” shall be a reference to “paragraph 1, 6 or 7 of Schedule 2A”;
-- (b)[^key-90c1e9ea044f995bb7839f36ee7b3661] the reference in paragraphs (2), (3), (4) and (5) of that regulation to “member” shall be a reference to “person entitled to a pension credit or, as the case may be, the pension credit member”;
+- (b)[^c-90c1e9ea044f995bb7839f36ee7b3661] the reference in paragraphs (2), (3), (4) and (5) of that regulation to “member” shall be a reference to “person entitled to a pension credit or, as the case may be, the pension credit member”;
 - (c) the reference in paragraphs (2), (3), (4) and (10) of that regulation to “member’s personal representative” shall be a reference to “personal representative of the person entitled to a pension credit or, as the case may be, the pension credit member.”;
 - (d) for paragraph (6) substitute—
 
@@ -202,14 +202,14 @@ Regulations T1 (claims for benefits), T2 (deduction of tax), T3 (benefits not as
 Regulation T5 (offset for crime, negligence or fraud) shall apply to a pension credit member with the following modifications wherever the words to be modified appear—
 
 - (a) the reference to “member's” or “member” shall be a reference to “pension credit member's” or “pension credit member”, as the case may be; and
-- (b)[^key-60d258eafdb15b7bf5b85af0da880378] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-60d258eafdb15b7bf5b85af0da880378] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 13. Loss of rights to benefits
 
 Regulation T6 (loss of rights to benefits) shall apply to a pension credit member with the following modifications wherever the words to be modified appear—
 
 - (a) the reference to “member” shall be a reference to “pension credit member”; and
-- (b)[^key-5a41d50033bfe84b776a82d8999c2669] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-5a41d50033bfe84b776a82d8999c2669] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 14. Interest on late payment of benefits
 
@@ -219,7 +219,7 @@ Regulation T8 (interest on late payment of benefits) shall apply in respect of a
 - (b) in the definition of “due date”—
   - (i) in sub-paragraph (a) the reference to “a lump sum under Part F above” shall be a reference to “a lump sum under paragraph 1, 6 or 7 of Schedule 2A”;
   - (ii) in sub-paragraph (a) the reference to “the member’s death” shall be a reference to “the death of the person entitled to the pension credit or the pension credit member”;
-  - (iia)[^key-91591804f791d020c252f6a5f0c7de3b] in sub-paragraph (aa)—
+  - (iia)[^c-91591804f791d020c252f6a5f0c7de3b] in sub-paragraph (aa)—
     - (aa) the reference to a pension under regulation F2 shall be a reference to a pension under sub-paragraph (5) of paragraph 7 of Schedule 2A;
     - (bb) the reference to the member’s personal representatives shall be a reference to the personal representatives of the person entitled to the pension credit or the pension credit member, and
     - (cc) the reference to the member’s death shall be a reference to the death of the person entitled to the pension credit or the pension credit member.
@@ -231,7 +231,7 @@ Regulation T8 (interest on late payment of benefits) shall apply in respect of a
 
 Regulation U2 (determination of questions) shall apply to a person who is entitled to a pension credit or, as the case may be, a pension credit member.
 
-### 16. Medical determinations[^key-34f60a9add727ce297d0c929e060c34d]
+### 16. Medical determinations[^c-34f60a9add727ce297d0c929e060c34d]
 
 The Secretary of State may make arrangements for the Secretary of State’s functions under this Schedule in relation to a decision whether a person is—
 
@@ -247,58 +247,58 @@ approved by the Secretary of State to act on the Secretary of State’s behalf.
 
 ## Annotations
 
-[^key-02a5127ac69eb1fe74022badb423907e]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A) inserted (1.5.2001) by [The National Health Service (Pension Scheme and Additional Voluntary Contributions) (Pension Sharing) Amendment Regulations 2001 (S.I. 2001/1428)](https://www.legislation.gov.uk/uksi/2001/1428), [reg. 1](https://www.legislation.gov.uk/uksi/2001/1428/regulation/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2001/1428/schedule/1/paragraph/3)
+[^c-02a5127ac69eb1fe74022badb423907e]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A) inserted (1.5.2001) by [The National Health Service (Pension Scheme and Additional Voluntary Contributions) (Pension Sharing) Amendment Regulations 2001 (S.I. 2001/1428)](https://www.legislation.gov.uk/uksi/2001/1428), [reg. 1](https://www.legislation.gov.uk/uksi/2001/1428/regulation/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2001/1428/schedule/1/paragraph/3)
 
-[^key-6e1ec6ba3d93f557b3ee64aa26cf6098]: Textual amendment: Words in [Sch. 2A](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A) heading inserted (5.12.2005) by [The National Health Service (Pension Scheme, Injury Benefits, Additional Voluntary Contributions and Compensation for Premature Retirement) (Civil Partnership) Amendment Regulations 2005 (S.I. 2005/3074)](https://www.legislation.gov.uk/uksi/2005/3074), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3074/regulation/1), [2(30)](https://www.legislation.gov.uk/uksi/2005/3074/regulation/2/30)
+[^c-6e1ec6ba3d93f557b3ee64aa26cf6098]: Textual amendment: Words in [Sch. 2A](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A) heading inserted (5.12.2005) by [The National Health Service (Pension Scheme, Injury Benefits, Additional Voluntary Contributions and Compensation for Premature Retirement) (Civil Partnership) Amendment Regulations 2005 (S.I. 2005/3074)](https://www.legislation.gov.uk/uksi/2005/3074), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3074/regulation/1), [2(30)](https://www.legislation.gov.uk/uksi/2005/3074/regulation/2/30)
 
-[^key-71ea09919ebc6f5067e3e5ed5a1eb9fa]: Textual amendment: Words in [Sch. 2A para. 1(2)(a)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/1/2/a) substituted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [66(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/66/2) (as amended by [S.I. 2008/906](https://www.legislation.gov.uk/uksi/2008/906), [reg. 2](https://www.legislation.gov.uk/uksi/2008/906/regulation/2))
+[^c-71ea09919ebc6f5067e3e5ed5a1eb9fa]: Textual amendment: Words in [Sch. 2A para. 1(2)(a)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/1/2/a) substituted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [66(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/66/2) (as amended by [S.I. 2008/906](https://www.legislation.gov.uk/uksi/2008/906), [reg. 2](https://www.legislation.gov.uk/uksi/2008/906/regulation/2))
 
-[^key-2f6e3afd4d2d2856069e29549f2727e2]: Textual amendment: [Sch. 2A para. 2](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/2) omitted (with effect from 6.4.2009) by virtue of [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3/a), [14(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/14/2) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-2f6e3afd4d2d2856069e29549f2727e2]: Textual amendment: [Sch. 2A para. 2](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/2) omitted (with effect from 6.4.2009) by virtue of [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3/a), [14(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/14/2) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
-[^key-e70eef1541a3ee1ca78d06cb1caa1a8d]: Textual amendment: Words in [Sch. 2A para. 3](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/3) heading inserted (with effect from 6.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3/a), [14(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/14/3/a) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-e70eef1541a3ee1ca78d06cb1caa1a8d]: Textual amendment: Words in [Sch. 2A para. 3](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/3) heading inserted (with effect from 6.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3/a), [14(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/14/3/a) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
 [^M_F_bd19dc74-4cb4-47a4-df2a-c8a2f4791d35]: Textual amendment: Words in Sch. 2A para. 3(1) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/1/paragraph/1)
 
-[^key-bb3c13488b02f2436f10732e7eacfd6a]: Textual amendment: Words in [Sch. 2A para. 3(2)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/3/2) substituted (with effect from 6.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3/a), [14(3)(b)](https://www.legislation.gov.uk/uksi/2009/381/regulation/14/3/b) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-bb3c13488b02f2436f10732e7eacfd6a]: Textual amendment: Words in [Sch. 2A para. 3(2)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/3/2) substituted (with effect from 6.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3/a), [14(3)(b)](https://www.legislation.gov.uk/uksi/2009/381/regulation/14/3/b) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
-[^key-f3029326372767a42943dbb74dac25f3]: Textual amendment: Words in [Sch. 2A para. 3(5)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/3/5) substituted (with effect from 6.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3/a), [14(3)(c)](https://www.legislation.gov.uk/uksi/2009/381/regulation/14/3/c) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-f3029326372767a42943dbb74dac25f3]: Textual amendment: Words in [Sch. 2A para. 3(5)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/3/5) substituted (with effect from 6.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3/a), [14(3)(c)](https://www.legislation.gov.uk/uksi/2009/381/regulation/14/3/c) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
-[^key-f8dce8be8403150e2901a4922caa0ae7]: Textual amendment: [Sch. 2A para. 3(7)-(12)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/3/7) added (with effect from 6.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3/a), [14(3)(d)](https://www.legislation.gov.uk/uksi/2009/381/regulation/14/3/d) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-f8dce8be8403150e2901a4922caa0ae7]: Textual amendment: [Sch. 2A para. 3(7)-(12)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/3/7) added (with effect from 6.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3/a), [14(3)(d)](https://www.legislation.gov.uk/uksi/2009/381/regulation/14/3/d) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
-[^key-eb86f1f6ff6ee3d0e07fa89e5ed70213]: Textual amendment: [Sch. 2A paras. 3A](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/3A), [3B](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/3B) inserted (with effect from 6.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3/a), [14(4)](https://www.legislation.gov.uk/uksi/2009/381/regulation/14/4) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-eb86f1f6ff6ee3d0e07fa89e5ed70213]: Textual amendment: [Sch. 2A paras. 3A](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/3A), [3B](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/3B) inserted (with effect from 6.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3/a), [14(4)](https://www.legislation.gov.uk/uksi/2009/381/regulation/14/4) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
-[^key-c69d9088ef2e329f96d3154997410d28]: Textual amendment: Words in [Sch. 2A para. 4(1)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/4/1) substituted (with effect from 6.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3/a), [14(5)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/14/5/a) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-c69d9088ef2e329f96d3154997410d28]: Textual amendment: Words in [Sch. 2A para. 4(1)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/4/1) substituted (with effect from 6.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3/a), [14(5)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/14/5/a) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
-[^key-65a4241c1131d0d57148e2f175122ef8]: Textual amendment: [Sch. 2A para. 4(1A)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/4/1A) inserted (with effect from 6.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3/a), [14(5)(b)](https://www.legislation.gov.uk/uksi/2009/381/regulation/14/5/b) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-65a4241c1131d0d57148e2f175122ef8]: Textual amendment: [Sch. 2A para. 4(1A)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/4/1A) inserted (with effect from 6.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3/a), [14(5)(b)](https://www.legislation.gov.uk/uksi/2009/381/regulation/14/5/b) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
-[^key-088941bfce0863bd2365e117e56746a7]: Textual amendment: [Sch. 2A para. 4(2)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/4/2) substituted (with effect from 6.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3/a), [14(5)(c)](https://www.legislation.gov.uk/uksi/2009/381/regulation/14/5/c) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-088941bfce0863bd2365e117e56746a7]: Textual amendment: [Sch. 2A para. 4(2)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/4/2) substituted (with effect from 6.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3/a), [14(5)(c)](https://www.legislation.gov.uk/uksi/2009/381/regulation/14/5/c) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
-[^key-0ecb98c723fa81c9157c817739ff6e5e]: Textual amendment: [Sch. 2A para. 5(1)(b)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/5/1/b) substituted (6.4.2006) by [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [22(3)](https://www.legislation.gov.uk/uksi/2006/600/regulation/22/3)
+[^c-0ecb98c723fa81c9157c817739ff6e5e]: Textual amendment: [Sch. 2A para. 5(1)(b)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/5/1/b) substituted (6.4.2006) by [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [22(3)](https://www.legislation.gov.uk/uksi/2006/600/regulation/22/3)
 
-[^key-fc2c5d475e517d5cbd0076290ee8cf4a]: Textual amendment: [Sch. 2A para. 5(2)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/5/2) substituted (with effect from 6.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3/a), [14(6)](https://www.legislation.gov.uk/uksi/2009/381/regulation/14/6) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-fc2c5d475e517d5cbd0076290ee8cf4a]: Textual amendment: [Sch. 2A para. 5(2)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/5/2) substituted (with effect from 6.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3/a), [14(6)](https://www.legislation.gov.uk/uksi/2009/381/regulation/14/6) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
 [^M_F_56c9e093-9a04-40bd-a28c-efaec2dd14c5]: Textual amendment: Words in Sch. 2A para. 6(1) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/1/paragraph/1)
 
 [^M_F_250618df-1667-4b13-e5cc-53cddd1fd2da]: Textual amendment: Words in Sch. 2A para. 7 inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/1/paragraph/1)
 
-[^key-37cda29e106b8b342dc60c16a7e15030]: Textual amendment: [Sch. 2A para. 7(3)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/7/3) substituted (with effect from 6.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3/a), [14(7)](https://www.legislation.gov.uk/uksi/2009/381/regulation/14/7) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-37cda29e106b8b342dc60c16a7e15030]: Textual amendment: [Sch. 2A para. 7(3)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/7/3) substituted (with effect from 6.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3/a), [14(7)](https://www.legislation.gov.uk/uksi/2009/381/regulation/14/7) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
-[^key-a9c80bb6f8e1b99b4bf4b08706934190]: Textual amendment: [Sch. 2A para. 7(5)-(10)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/7/5) inserted (1.10.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [23(a)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/23/a) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
+[^c-a9c80bb6f8e1b99b4bf4b08706934190]: Textual amendment: [Sch. 2A para. 7(5)-(10)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/7/5) inserted (1.10.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [23(a)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/23/a) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
 
-[^key-2393dbdbc97efeddf5a53029e569b252]: Textual amendment: Words in [Sch. 2A para. 7(5)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/7/5) inserted (with effect from 6.4.2011) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2011 (S.I. 2011/2586)](https://www.legislation.gov.uk/uksi/2011/2586), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2586/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2011/2586/regulation/1/5), [13](https://www.legislation.gov.uk/uksi/2011/2586/regulation/13)
+[^c-2393dbdbc97efeddf5a53029e569b252]: Textual amendment: Words in [Sch. 2A para. 7(5)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/7/5) inserted (with effect from 6.4.2011) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2011 (S.I. 2011/2586)](https://www.legislation.gov.uk/uksi/2011/2586), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2586/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2011/2586/regulation/1/5), [13](https://www.legislation.gov.uk/uksi/2011/2586/regulation/13)
 
-[^key-7cd7624bc937f28558146981a4aa110f]: Textual amendment: Word in [Sch. 2A para. 7(5)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/7/5) substituted (with effect from 6.4.2011) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2011 (S.I. 2011/2586)](https://www.legislation.gov.uk/uksi/2011/2586), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2586/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2011/2586/regulation/1/5), [13](https://www.legislation.gov.uk/uksi/2011/2586/regulation/13)
+[^c-7cd7624bc937f28558146981a4aa110f]: Textual amendment: Word in [Sch. 2A para. 7(5)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/7/5) substituted (with effect from 6.4.2011) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2011 (S.I. 2011/2586)](https://www.legislation.gov.uk/uksi/2011/2586), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2586/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2011/2586/regulation/1/5), [13](https://www.legislation.gov.uk/uksi/2011/2586/regulation/13)
 
 [^M_F_1628d6d0-f59f-434c-8531-f7e70e6ff06a]: Textual amendment: Words in Sch. 2A para. 8 inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/1/paragraph/1)
 
-[^key-90c1e9ea044f995bb7839f36ee7b3661]: Textual amendment: [Sch. 2A paras. 9(b)-(f)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/9/b) substituted for Sch. 2A paras. 9(b)-(d) (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [66(4)](https://www.legislation.gov.uk/uksi/2008/654/regulation/66/4) (as amended by [S.I. 2008/906](https://www.legislation.gov.uk/uksi/2008/906), [reg. 2](https://www.legislation.gov.uk/uksi/2008/906/regulation/2))
+[^c-90c1e9ea044f995bb7839f36ee7b3661]: Textual amendment: [Sch. 2A paras. 9(b)-(f)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/9/b) substituted for Sch. 2A paras. 9(b)-(d) (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [66(4)](https://www.legislation.gov.uk/uksi/2008/654/regulation/66/4) (as amended by [S.I. 2008/906](https://www.legislation.gov.uk/uksi/2008/906), [reg. 2](https://www.legislation.gov.uk/uksi/2008/906/regulation/2))
 
 [^M_F_9c7b865f-1a71-40f1-f819-33cee4df3871]: Textual amendment: Words in Sch. 2A para. 9 inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/1/paragraph/1)
 
-[^key-60d258eafdb15b7bf5b85af0da880378]: Textual amendment: [Sch. 2A para. 12(b)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/12/b) omitted (with effect from 6.4.2009) by virtue of [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3/a), [14(8)](https://www.legislation.gov.uk/uksi/2009/381/regulation/14/8) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-60d258eafdb15b7bf5b85af0da880378]: Textual amendment: [Sch. 2A para. 12(b)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/12/b) omitted (with effect from 6.4.2009) by virtue of [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3/a), [14(8)](https://www.legislation.gov.uk/uksi/2009/381/regulation/14/8) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
-[^key-5a41d50033bfe84b776a82d8999c2669]: Textual amendment: [Sch. 2A para. 13(b)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/13/b) omitted (with effect from 6.4.2009) by virtue of [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3/a), [14(9)](https://www.legislation.gov.uk/uksi/2009/381/regulation/14/9) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-5a41d50033bfe84b776a82d8999c2669]: Textual amendment: [Sch. 2A para. 13(b)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/13/b) omitted (with effect from 6.4.2009) by virtue of [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3/a), [14(9)](https://www.legislation.gov.uk/uksi/2009/381/regulation/14/9) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
-[^key-91591804f791d020c252f6a5f0c7de3b]: Textual amendment: [Sch. 2A para. 14(b)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/14/b)[(iia)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/14/iia) inserted (1.10.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [23(b)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/23/b) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
+[^c-91591804f791d020c252f6a5f0c7de3b]: Textual amendment: [Sch. 2A para. 14(b)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/14/b)[(iia)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/14/iia) inserted (1.10.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [23(b)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/23/b) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
 
-[^key-34f60a9add727ce297d0c929e060c34d]: Textual amendment: [Sch. 2A para. 16](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/16) added (with effect from 6.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3/a), [14(10)](https://www.legislation.gov.uk/uksi/2009/381/regulation/14/10) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-34f60a9add727ce297d0c929e060c34d]: Textual amendment: [Sch. 2A para. 16](https://www.legislation.gov.uk/uksi/1995/300/schedule/2A/paragraph/16) added (with effect from 6.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3/a), [14(10)](https://www.legislation.gov.uk/uksi/2009/381/regulation/14/10) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))

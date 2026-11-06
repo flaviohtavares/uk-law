@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Wildlife offences: time limits for proceedings[^key-dfb09956f93ed74342759b9a5cbef9b0]
+## 53. Wildlife offences: time limits for proceedings[^c-dfb09956f93ed74342759b9a5cbef9b0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 6 contains provisions extending the time limit for summary proceedings 
 
 ## Annotations
 
-[^key-dfb09956f93ed74342759b9a5cbef9b0]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2006/16/section/53) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
+[^c-dfb09956f93ed74342759b9a5cbef9b0]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2006/16/section/53) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)

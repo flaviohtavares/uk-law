@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Application of Chapter[^key-4e20822f8fe4531cb9e25ec9b45d57e2]
+## 1. Application of Chapter[^c-4e20822f8fe4531cb9e25ec9b45d57e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 - (b) the Security Service;
 - (c) the Government Communications Headquarters;
 - (d) the Northern Ireland Civil Service;
-- (e)[^key-d85060d588ee1993550841f1fb61d069] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-d85060d588ee1993550841f1fb61d069] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Further, this Chapter—
 
@@ -47,6 +47,6 @@ and references to civil servants are to be read accordingly.
 
 ## Annotations
 
-[^key-4e20822f8fe4531cb9e25ec9b45d57e2]: Commencement: S. 1 in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+[^c-4e20822f8fe4531cb9e25ec9b45d57e2]: Commencement: S. 1 in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
 
-[^key-d85060d588ee1993550841f1fb61d069]: Textual amendment: [S. 1(2)(e)](https://www.legislation.gov.uk/ukpga/2010/25/section/1/2/e) omitted (18.10.2012) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [20](https://www.legislation.gov.uk/uksi/2012/2595/article/20) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-d85060d588ee1993550841f1fb61d069]: Textual amendment: [S. 1(2)(e)](https://www.legislation.gov.uk/ukpga/2010/25/section/1/2/e) omitted (18.10.2012) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [20](https://www.legislation.gov.uk/uksi/2012/2595/article/20) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))

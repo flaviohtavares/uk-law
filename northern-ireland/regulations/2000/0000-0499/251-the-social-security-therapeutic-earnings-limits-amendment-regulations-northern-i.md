@@ -31,7 +31,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security (Therapeutic Earnings Limits) (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^key-0fb426a5f6f734261a6e3ab512e09b3f]
+The Social Security (Therapeutic Earnings Limits) (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^c-0fb426a5f6f734261a6e3ab512e09b3f]
 
 Made
 
@@ -41,36 +41,36 @@ Coming into operation
 
 2nd October 2000
 
-[^key-0fb426a5f6f734261a6e3ab512e09b3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fb426a5f6f734261a6e3ab512e09b3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0fb426a5f6f734261a6e3ab512e09b3f]
+## 1. Citation and commencement[^c-0fb426a5f6f734261a6e3ab512e09b3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Security (General Benefit) Regulations[^key-0fb426a5f6f734261a6e3ab512e09b3f]
+## 2. Amendment of the Social Security (General Benefit) Regulations[^c-0fb426a5f6f734261a6e3ab512e09b3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Social Security (Incapacity Benefit) Regulations[^key-0fb426a5f6f734261a6e3ab512e09b3f]
+## 3. Amendment of the Social Security (Incapacity Benefit) Regulations[^c-0fb426a5f6f734261a6e3ab512e09b3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^key-0fb426a5f6f734261a6e3ab512e09b3f]
+## 4. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^c-0fb426a5f6f734261a6e3ab512e09b3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocations[^key-0fb426a5f6f734261a6e3ab512e09b3f]
+## 5. Revocations[^c-0fb426a5f6f734261a6e3ab512e09b3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0fb426a5f6f734261a6e3ab512e09b3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fb426a5f6f734261a6e3ab512e09b3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0fb426a5f6f734261a6e3ab512e09b3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fb426a5f6f734261a6e3ab512e09b3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0fb426a5f6f734261a6e3ab512e09b3f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/251) revoked (9.4.2001) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2001 (S.R. 2001/106)](https://www.legislation.gov.uk/nisr/2001/106), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/106/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2001/106/regulation/8)
+[^c-0fb426a5f6f734261a6e3ab512e09b3f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/251) revoked (9.4.2001) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2001 (S.R. 2001/106)](https://www.legislation.gov.uk/nisr/2001/106), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/106/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2001/106/regulation/8)

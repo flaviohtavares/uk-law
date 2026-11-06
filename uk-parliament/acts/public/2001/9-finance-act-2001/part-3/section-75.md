@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-9b31d0965514a3f1643cc1c4821009be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-9b31d0965514a3f1643cc1c4821009be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In the Taxation of Chargeable Gains Act 1992 (c. 12), for section 59A (limited liability partnerships) substitute—
 
@@ -86,4 +86,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b31d0965514a3f1643cc1c4821009be]: Textual amendment: [S. 75(1)](https://www.legislation.gov.uk/ukpga/2001/9/section/75/1) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-9b31d0965514a3f1643cc1c4821009be]: Textual amendment: [S. 75(1)](https://www.legislation.gov.uk/ukpga/2001/9/section/75/1) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

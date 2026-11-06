@@ -32,7 +32,7 @@ summary: ''
 
 ELECTRICITY
 
-The Renewables Obligation (Scotland) Amendment Order 2008 (revoked)[^key-c0c29cbc3c938e1538ab0e4052cde1c5]
+The Renewables Obligation (Scotland) Amendment Order 2008 (revoked)[^c-c0c29cbc3c938e1538ab0e4052cde1c5]
 
 Made
 
@@ -42,27 +42,27 @@ Coming into force
 
 1st April 2008
 
-[^key-c0c29cbc3c938e1538ab0e4052cde1c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0c29cbc3c938e1538ab0e4052cde1c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c0c29cbc3c938e1538ab0e4052cde1c5]
+## 1. Citation and commencement[^c-c0c29cbc3c938e1538ab0e4052cde1c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Renewables Obligation (Scotland) Order 2007[^key-c0c29cbc3c938e1538ab0e4052cde1c5]
+## 2. Amendments to the Renewables Obligation (Scotland) Order 2007[^c-c0c29cbc3c938e1538ab0e4052cde1c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0c29cbc3c938e1538ab0e4052cde1c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0c29cbc3c938e1538ab0e4052cde1c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-c0c29cbc3c938e1538ab0e4052cde1c5]
+## SCHEDULE[^c-c0c29cbc3c938e1538ab0e4052cde1c5]
 
 Article 2(4)
 
-> **SCHEDULE 1 — AMOUNT OF THE RENEWABLES OBLIGATION[^key-c0c29cbc3c938e1538ab0e4052cde1c5]**
+> **SCHEDULE 1 — AMOUNT OF THE RENEWABLES OBLIGATION[^c-c0c29cbc3c938e1538ab0e4052cde1c5]**
 >
 > Articles 4(2) and 5
 >
@@ -70,8 +70,8 @@ Article 2(4)
 
 **May not be in force at this date. Check the source.**
 
-[^key-c0c29cbc3c938e1538ab0e4052cde1c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0c29cbc3c938e1538ab0e4052cde1c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c0c29cbc3c938e1538ab0e4052cde1c5]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2008/132) revoked (1.4.2009) by [The Renewables Obligation (Scotland) Order 2009 (S.S.I. 2009/140)](https://www.legislation.gov.uk/ssi/2009/140), [arts. 1](https://www.legislation.gov.uk/ssi/2009/140/article/1), [61(1)(b)](https://www.legislation.gov.uk/ssi/2009/140/article/61/1/b)
+[^c-c0c29cbc3c938e1538ab0e4052cde1c5]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2008/132) revoked (1.4.2009) by [The Renewables Obligation (Scotland) Order 2009 (S.S.I. 2009/140)](https://www.legislation.gov.uk/ssi/2009/140), [arts. 1](https://www.legislation.gov.uk/ssi/2009/140/article/1), [61(1)(b)](https://www.legislation.gov.uk/ssi/2009/140/article/61/1/b)

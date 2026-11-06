@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 262. Power of local authority to require culverting of watercourses and ditches where building operations in prospect.[^key-4533e7185da150d3393dccdbfc140694]
+## 262. Power of local authority to require culverting of watercourses and ditches where building operations in prospect.[^c-4533e7185da150d3393dccdbfc140694]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4533e7185da150d3393dccdbfc140694]: Textual amendment: S. 262 repealed (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 63(a)](https://www.legislation.gov.uk/ukpga/2014/21/section/63/a), [94(2)(o)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/o)
+[^c-4533e7185da150d3393dccdbfc140694]: Textual amendment: S. 262 repealed (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 63(a)](https://www.legislation.gov.uk/ukpga/2014/21/section/63/a), [94(2)(o)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/o)

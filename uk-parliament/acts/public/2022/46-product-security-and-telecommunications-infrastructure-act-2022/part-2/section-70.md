@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Complaints relating to the conduct of operators[^key-e838b9bc5dd229ebd23f05aabef98eba]
+## 70. Complaints relating to the conduct of operators[^c-e838b9bc5dd229ebd23f05aabef98eba]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In paragraph 103 of the electronic communications code (duty for OFCOM to prepar
 
 ## Annotations
 
-[^key-e838b9bc5dd229ebd23f05aabef98eba]: Commencement: S. 70 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-e838b9bc5dd229ebd23f05aabef98eba]: Commencement: S. 70 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)

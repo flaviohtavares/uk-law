@@ -24,9 +24,9 @@ Section 140
 
 ### Part 1 — England
 
-**1.**[^key-c7caa95a6b2099d60096d59b00c57ba9] In this Part of this Schedule “**the NHS Act**” means the National Health Service Act 2006 (c. 41).
+**1.**[^c-c7caa95a6b2099d60096d59b00c57ba9] In this Part of this Schedule “**the NHS Act**” means the National Health Service Act 2006 (c. 41).
 
-**2.**[^key-4ec352cbc4c1074f1b441d22a744df8c] (1) Section 228 of the NHS Act (public funding of Primary Care Trusts) is amended as follows.
+**2.**[^c-4ec352cbc4c1074f1b441d22a744df8c] (1) Section 228 of the NHS Act (public funding of Primary Care Trusts) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -38,14 +38,14 @@ Section 140
 
 (5) Omit subsection (12).
 
-**3.**[^key-4b9c5c841689655ca97d1b69fd0a68da] In section 229 of the NHS Act (financial duties of Primary Care Trusts), in subsection (1)—
+**3.**[^c-4b9c5c841689655ca97d1b69fd0a68da] In section 229 of the NHS Act (financial duties of Primary Care Trusts), in subsection (1)—
 
 - (a) omit “(not including its pharmaceutical services expenditure)”, and
 - (b) in paragraph (a), for “section 228(1)(b)” substitute “ section 228(1) ”.
 
-**4.**[^key-07171e7a1e39c541bf20e3f12f223b8c] In section 230 of the NHS Act (resource limits for Primary Care Trusts) omit subsections (2) and (3).
+**4.**[^c-07171e7a1e39c541bf20e3f12f223b8c] In section 230 of the NHS Act (resource limits for Primary Care Trusts) omit subsections (2) and (3).
 
-**5.**[^key-875aec9d30a693e75530c2f4704a0ceb] (1) Schedule 14 to the NHS Act (further provision about expenditure of Primary Care Trusts) is amended as follows.
+**5.**[^c-875aec9d30a693e75530c2f4704a0ceb] (1) Schedule 14 to the NHS Act (further provision about expenditure of Primary Care Trusts) is amended as follows.
 
 (2) Omit paragraphs 1 and 2.
 
@@ -82,22 +82,22 @@ Section 140
 
 ### Part 2 — Wales
 
-**6.**[^key-daaa098e44a98644e1df2717099fde59] In this Part of this Schedule “**the NHS (Wales) Act**” means the National Health Service (Wales) Act 2006 (c. 42).
+**6.**[^c-daaa098e44a98644e1df2717099fde59] In this Part of this Schedule “**the NHS (Wales) Act**” means the National Health Service (Wales) Act 2006 (c. 42).
 
-**7.**[^key-701f1a4b1b7009fed42a5a94744d4230] In section 174 of the NHS (Wales) Act (public funding of Local Health Boards) omit “and pharmaceutical” in—
+**7.**[^c-701f1a4b1b7009fed42a5a94744d4230] In section 174 of the NHS (Wales) Act (public funding of Local Health Boards) omit “and pharmaceutical” in—
 
 - (a) subsection (1)(a),
 - (b) subsection (2)(a) and (b), and
 - (c) subsection (12).
 
-**8.**[^key-ddbd584302f7dd30bc95685341fca095] In section 175 of the NHS (Wales) Act (financial duties of Local Health Boards), in subsection (1) omit “and pharmaceutical”.
+**8.**[^c-ddbd584302f7dd30bc95685341fca095] In section 175 of the NHS (Wales) Act (financial duties of Local Health Boards), in subsection (1) omit “and pharmaceutical”.
 
-**9.**[^key-99bbe83de436f1eb1b5afb7195b59a99] In section 176 of the NHS (Wales) Act (resource limits for Local Health Boards) omit “and pharmaceutical” in—
+**9.**[^c-99bbe83de436f1eb1b5afb7195b59a99] In section 176 of the NHS (Wales) Act (resource limits for Local Health Boards) omit “and pharmaceutical” in—
 
 - (a) subsection (2), and
 - (b) subsection (3)(b).
 
-**10.**[^key-80f95b0d11e98e59a68a2058c1b04fc5] (1) Schedule 8 to the NHS (Wales) Act (further provision about expenditure of Local Health Boards) is amended as follows.
+**10.**[^c-80f95b0d11e98e59a68a2058c1b04fc5] (1) Schedule 8 to the NHS (Wales) Act (further provision about expenditure of Local Health Boards) is amended as follows.
 
 (2) In paragraph 1(1)—
 
@@ -147,22 +147,22 @@ Section 140
 
 ## Annotations
 
-[^key-c7caa95a6b2099d60096d59b00c57ba9]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2008/14/schedule/12/paragraph/1) in force at 1.4.2010 by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/708/article/2/c)
+[^c-c7caa95a6b2099d60096d59b00c57ba9]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2008/14/schedule/12/paragraph/1) in force at 1.4.2010 by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/708/article/2/c)
 
-[^key-4ec352cbc4c1074f1b441d22a744df8c]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2008/14/schedule/12/paragraph/2) in force at 1.4.2010 by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/708/article/2/c)
+[^c-4ec352cbc4c1074f1b441d22a744df8c]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2008/14/schedule/12/paragraph/2) in force at 1.4.2010 by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/708/article/2/c)
 
-[^key-4b9c5c841689655ca97d1b69fd0a68da]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2008/14/schedule/12/paragraph/3) in force at 1.4.2010 by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/708/article/2/c)
+[^c-4b9c5c841689655ca97d1b69fd0a68da]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2008/14/schedule/12/paragraph/3) in force at 1.4.2010 by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/708/article/2/c)
 
-[^key-07171e7a1e39c541bf20e3f12f223b8c]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2008/14/schedule/12/paragraph/4) in force at 1.4.2010 by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/708/article/2/c)
+[^c-07171e7a1e39c541bf20e3f12f223b8c]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2008/14/schedule/12/paragraph/4) in force at 1.4.2010 by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/708/article/2/c)
 
-[^key-875aec9d30a693e75530c2f4704a0ceb]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2008/14/schedule/12/paragraph/5) in force at 1.4.2010 by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/708/article/2/c)
+[^c-875aec9d30a693e75530c2f4704a0ceb]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2008/14/schedule/12/paragraph/5) in force at 1.4.2010 by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/708/article/2/c)
 
-[^key-daaa098e44a98644e1df2717099fde59]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2008/14/schedule/12/paragraph/6) in force at 21.5.2010 by [S.I. 2010/1457](https://www.legislation.gov.uk/wsi/2010/1457), [art. 2(c)](https://www.legislation.gov.uk/wsi/2010/1457/article/2/c)
+[^c-daaa098e44a98644e1df2717099fde59]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2008/14/schedule/12/paragraph/6) in force at 21.5.2010 by [S.I. 2010/1457](https://www.legislation.gov.uk/wsi/2010/1457), [art. 2(c)](https://www.legislation.gov.uk/wsi/2010/1457/article/2/c)
 
-[^key-701f1a4b1b7009fed42a5a94744d4230]: Commencement: [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2008/14/schedule/12/paragraph/7) in force at 21.5.2010 by [S.I. 2010/1457](https://www.legislation.gov.uk/wsi/2010/1457), [art. 2(c)](https://www.legislation.gov.uk/wsi/2010/1457/article/2/c)
+[^c-701f1a4b1b7009fed42a5a94744d4230]: Commencement: [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2008/14/schedule/12/paragraph/7) in force at 21.5.2010 by [S.I. 2010/1457](https://www.legislation.gov.uk/wsi/2010/1457), [art. 2(c)](https://www.legislation.gov.uk/wsi/2010/1457/article/2/c)
 
-[^key-ddbd584302f7dd30bc95685341fca095]: Commencement: [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2008/14/schedule/12/paragraph/8) in force at 21.5.2010 by [S.I. 2010/1457](https://www.legislation.gov.uk/wsi/2010/1457), [art. 2(c)](https://www.legislation.gov.uk/wsi/2010/1457/article/2/c)
+[^c-ddbd584302f7dd30bc95685341fca095]: Commencement: [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2008/14/schedule/12/paragraph/8) in force at 21.5.2010 by [S.I. 2010/1457](https://www.legislation.gov.uk/wsi/2010/1457), [art. 2(c)](https://www.legislation.gov.uk/wsi/2010/1457/article/2/c)
 
-[^key-99bbe83de436f1eb1b5afb7195b59a99]: Commencement: [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2008/14/schedule/12/paragraph/9) in force at 21.5.2010 by [S.I. 2010/1457](https://www.legislation.gov.uk/wsi/2010/1457), [art. 2(c)](https://www.legislation.gov.uk/wsi/2010/1457/article/2/c)
+[^c-99bbe83de436f1eb1b5afb7195b59a99]: Commencement: [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2008/14/schedule/12/paragraph/9) in force at 21.5.2010 by [S.I. 2010/1457](https://www.legislation.gov.uk/wsi/2010/1457), [art. 2(c)](https://www.legislation.gov.uk/wsi/2010/1457/article/2/c)
 
-[^key-80f95b0d11e98e59a68a2058c1b04fc5]: Commencement: [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2008/14/schedule/12/paragraph/10) in force at 21.5.2010 by [S.I. 2010/1457](https://www.legislation.gov.uk/wsi/2010/1457), [art. 2(c)](https://www.legislation.gov.uk/wsi/2010/1457/article/2/c)
+[^c-80f95b0d11e98e59a68a2058c1b04fc5]: Commencement: [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2008/14/schedule/12/paragraph/10) in force at 21.5.2010 by [S.I. 2010/1457](https://www.legislation.gov.uk/wsi/2010/1457), [art. 2(c)](https://www.legislation.gov.uk/wsi/2010/1457/article/2/c)

@@ -30,9 +30,9 @@ summary: ''
 
 | *Annual chargeable amount* | *Taxable value of the interest on the relevant day* |
 | --- | --- |
-| £3,500[^key-e469621ccbdeef86166e92859242bf17] | More than £500,000 but not more than £1 million. |
-| £7,000[^key-59983e703fbb762b4d72654f1ddbb574] | More than £1 million but not more than £2 million. |
-| £23,350[^key-788f4a4d755313e41573e9ec4cb8ad4c] | More than £2 million but not more than £5 million. |
+| £3,500[^c-e469621ccbdeef86166e92859242bf17] | More than £500,000 but not more than £1 million. |
+| £7,000[^c-59983e703fbb762b4d72654f1ddbb574] | More than £1 million but not more than £2 million. |
+| £23,350[^c-788f4a4d755313e41573e9ec4cb8ad4c] | More than £2 million but not more than £5 million. |
 | £54,450 | More than £5 million but not more than £10 million. |
 | £109,050 | More than £10 million but not more than £20 million. |
 | £218,200 | More than £20 million. |
@@ -59,8 +59,8 @@ where—
 
 ## Annotations
 
-[^key-e469621ccbdeef86166e92859242bf17]: Textual amendment: Words in s. 99(4) inserted (1.4.2016) (with effect in accordance with s. 110(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 110(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/110/3)
+[^c-e469621ccbdeef86166e92859242bf17]: Textual amendment: Words in s. 99(4) inserted (1.4.2016) (with effect in accordance with s. 110(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 110(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/110/3)
 
-[^key-59983e703fbb762b4d72654f1ddbb574]: Textual amendment: Words in s. 99(4) inserted (1.4.2015) (with effect in accordance with s. 109(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 109(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/109/3)
+[^c-59983e703fbb762b4d72654f1ddbb574]: Textual amendment: Words in s. 99(4) inserted (1.4.2015) (with effect in accordance with s. 109(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 109(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/109/3)
 
-[^key-788f4a4d755313e41573e9ec4cb8ad4c]: Textual amendment: Words in s. 99(4) substituted (with effect in accordance with s. 70(2) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2015/11/section/70/1)
+[^c-788f4a4d755313e41573e9ec4cb8ad4c]: Textual amendment: Words in s. 99(4) substituted (with effect in accordance with s. 70(2) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2015/11/section/70/1)

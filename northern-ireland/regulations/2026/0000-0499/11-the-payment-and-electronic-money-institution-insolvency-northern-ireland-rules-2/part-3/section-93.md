@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 93. Proxy-holder with financial interest[^key-6ba8a06e134edf71bfbd80bbcfcbd7bb]
+## 93. Proxy-holder with financial interest[^c-6ba8a06e134edf71bfbd80bbcfcbd7bb]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ba8a06e134edf71bfbd80bbcfcbd7bb]: Commencement: [Rule 93](https://www.legislation.gov.uk/nisr/2026/11/rule/93) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-6ba8a06e134edf71bfbd80bbcfcbd7bb]: Commencement: [Rule 93](https://www.legislation.gov.uk/nisr/2026/11/rule/93) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

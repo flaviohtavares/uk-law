@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Rules and fees[^key-f0d535a35dd91ab7e31acaae70f0c65c]
+## 19. Rules and fees[^c-f0d535a35dd91ab7e31acaae70f0c65c]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0d535a35dd91ab7e31acaae70f0c65c]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2010/14/section/19) in force at 30.10.2012 by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/1)
+[^c-f0d535a35dd91ab7e31acaae70f0c65c]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2010/14/section/19) in force at 30.10.2012 by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/1)

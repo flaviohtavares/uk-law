@@ -34,22 +34,22 @@ An Act to make provision about the government of Wales.
 
 \[25th July 2006\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-e952aa502901fcb5e856d03e021145ff][^key-b9299fdb38a09775c88956d9c78cbc68]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-e952aa502901fcb5e856d03e021145ff][^c-b9299fdb38a09775c88956d9c78cbc68]
 
 ## Contents
 
-### Part A1 — Permanence of the Senedd and Welsh Government[^key-e4c869f0e410843665ebd1bf8f9a5298][^key-60edd79c70d763519861630d1afb7962]
+### Part A1 — Permanence of the Senedd and Welsh Government[^c-e4c869f0e410843665ebd1bf8f9a5298][^c-60edd79c70d763519861630d1afb7962]
 
 *Extent: E+W+S+N.I.*
 
 - [Section A1 — Permanence of the Senedd and Welsh Government](part-a1/section-a1.md)
 - [Section A2 — Recognition of Welsh law](part-a1/section-a2.md)
 
-### Part 1 — Senedd Cymru[^key-9d68dafa984f15bca9c49355bdc4dbc4][^key-356c4918a3879549f550c2e980be14d5]
+### Part 1 — Senedd Cymru[^c-9d68dafa984f15bca9c49355bdc4dbc4][^c-356c4918a3879549f550c2e980be14d5]
 
 *Extent: E+W+S+N.I.*
 
-#### The Senedd[^key-60edd79c70d763519861630d1afb7962]
+#### The Senedd[^c-60edd79c70d763519861630d1afb7962]
 
 - [Section 1 — The Senedd](part-1/section-1.md)
 - [Section 2 — Senedd constituencies](part-1/section-2.md)
@@ -161,7 +161,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 43 — Contempt of court](part-1/section-43.md)
 - [Section 44 — Corrupt practices](part-1/section-44.md)
 
-### Part 2 — Welsh ... Government[^key-546c29ecf72928d40cb76993691cfad4]
+### Part 2 — Welsh ... Government[^c-546c29ecf72928d40cb76993691cfad4]
 
 *Extent: E+W+S+N.I.*
 
@@ -227,7 +227,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 78 — The Welsh language](part-2/section-78.md)
 - [Section 79 — Sustainable development](part-2/section-79.md)
 
-#### Assimilated obligations, human rights and international obligations etc.[^key-0aab3b67858b67e0e9f35980f1913fcd][^key-6c725795e0277e381d63b92b1c81daa8]
+#### Assimilated obligations, human rights and international obligations etc.[^c-0aab3b67858b67e0e9f35980f1913fcd][^c-6c725795e0277e381d63b92b1c81daa8]
 
 *Extent: E+W+S+N.I.*
 
@@ -254,18 +254,18 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 91 — Validity of acts](part-2/section-91.md)
 - [Section 92 — Official secrets](part-2/section-92.md)
 
-### Part 3 (affected by repeal, see note) — Assembly Measures (affected by repeal, see note)[^key-ccae0853747c790d8d5bafab32b97960][^key-ccae0853747c790d8d5bafab32b97960]
+### Part 3 (affected by repeal, see note) — Assembly Measures (affected by repeal, see note)[^c-ccae0853747c790d8d5bafab32b97960][^c-ccae0853747c790d8d5bafab32b97960]
 
 *Extent: E+W+S+N.I.*
 
-#### Power (affected by repeal, see note)[^key-ccae0853747c790d8d5bafab32b97960]
+#### Power (affected by repeal, see note)[^c-ccae0853747c790d8d5bafab32b97960]
 
 - [Section 93 — Assembly Measures](part-3/section-93.md)
 - [Section 94 — Legislative competence](part-3/section-94.md)
 - [Section 95 — Legislative competence: supplementary](part-3/section-95.md)
 - [Section 96 — Scrutiny of proposed Orders in Council](part-3/section-96.md)
 
-#### Procedure (affected by repeal, see note)[^key-70d8b16fe610814bb3ba5aa76d90a5f3][^key-ccae0853747c790d8d5bafab32b97960]
+#### Procedure (affected by repeal, see note)[^c-70d8b16fe610814bb3ba5aa76d90a5f3][^c-ccae0853747c790d8d5bafab32b97960]
 
 - [Section 97 — Introduction of proposed Assembly Measures](part-3/section-97.md)
 - [Section 98 — Proceedings on proposed Assembly Measures](part-3/section-98.md)
@@ -274,11 +274,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 101 — Power to intervene in certain cases](part-3/section-101.md)
 - [Section 102 — Approval of proposed Assembly Measures](part-3/section-102.md)
 
-### Part 4 — Acts of the Senedd[^key-60edd79c70d763519861630d1afb7962]
+### Part 4 — Acts of the Senedd[^c-60edd79c70d763519861630d1afb7962]
 
 *Extent: E+W+S+N.I.*
 
-#### ...[^key-339ee9cbcc24bf68e9fbff1a157d453c]
+#### ...[^c-339ee9cbcc24bf68e9fbff1a157d453c]
 
 *Extent: E+W+S+N.I.*
 
@@ -313,17 +313,17 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 115 — Royal Assent](part-4/section-115.md)
 - [Section 116 — Welsh Seal : Letters Patent and proclamations](part-4/section-116.md)
 
-### PART 4A — Taxation[^key-072cc4442b55bad2cd354d03f2953ea6]
+### PART 4A — Taxation[^c-072cc4442b55bad2cd354d03f2953ea6]
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 — Introductory[^key-072cc4442b55bad2cd354d03f2953ea6]
+#### CHAPTER 1 — Introductory[^c-072cc4442b55bad2cd354d03f2953ea6]
 
 - [Section 116A — Overview of Part 4A](part-4a/section-116a.md)
 - [Section 116B — Status of officials of body that collects and manages devolved taxes](part-4a/section-116b.md)
 - [Section 116C — Power to add new devolved taxes](part-4a/section-116c.md)
 
-#### CHAPTER 2 — Income Tax[^key-81368b947583a1007d3e89875d8327c9]
+#### CHAPTER 2 — Income Tax[^c-81368b947583a1007d3e89875d8327c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -336,14 +336,14 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 116J — Reimbursement of expenses](part-4a/section-116j.md)
 - [Section 116K — Report by the Comptroller and Auditor General](part-4a/section-116k.md)
 
-#### CHAPTER 3 — Tax on transactions involving interests in land[^key-e245e107e61639c1e923cd5f4f8cad69]
+#### CHAPTER 3 — Tax on transactions involving interests in land[^c-e245e107e61639c1e923cd5f4f8cad69]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 116L — Tax on transactions involving interests in land](part-4a/section-116l.md)
 - [Section 116M — Duty to disclose information on Welsh land transactions to HMRC](part-4a/section-116m.md)
 
-#### CHAPTER 4 — Tax on disposals to landfill[^key-34c3d0c79ace9f5df74256abaecb1306]
+#### CHAPTER 4 — Tax on disposals to landfill[^c-34c3d0c79ace9f5df74256abaecb1306]
 
 - [Section 116N — Tax on disposals to landfill](part-4a/section-116n.md)
 
@@ -393,7 +393,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 135 — Examinations into Welsh Ministers' use of resources](part-5/section-135.md)
 - [Section 136 — Examinations by Comptroller and Auditor General](part-5/section-136.md)
 
-#### Financial accountability of Senedd Commission[^key-60edd79c70d763519861630d1afb7962]
+#### Financial accountability of Senedd Commission[^c-60edd79c70d763519861630d1afb7962]
 
 *Extent: E+W+S+N.I.*
 
@@ -430,7 +430,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 147 — Transfer of responsibility](part-6/section-147.md)
 - [Section 148 — Meaning of “Welsh public records”](part-6/section-148.md)
 
-#### Consultation with Welsh Ministers[^key-638d66bb3e4588ad94b7bfe5c9bc810d]
+#### Consultation with Welsh Ministers[^c-638d66bb3e4588ad94b7bfe5c9bc810d]
 
 - [Section 148A — Renewable energy incentive schemes](part-6/section-148a.md)
 
@@ -489,36 +489,36 @@ SCHEDULES
 
 ## Annotations
 
-[^key-e952aa502901fcb5e856d03e021145ff]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2006/32) power to apply or incorporate (with modifications) conferred (15.9.2011) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 58(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/58/1), [(7)](https://www.legislation.gov.uk/ukpga/2011/13/section/58/7)
+[^c-e952aa502901fcb5e856d03e021145ff]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2006/32) power to apply or incorporate (with modifications) conferred (15.9.2011) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 58(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/58/1), [(7)](https://www.legislation.gov.uk/ukpga/2011/13/section/58/7)
 
-[^key-b9299fdb38a09775c88956d9c78cbc68]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2006/32) power to apply or incorporate (with modifications) conferred (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 54(2)-(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/54/2), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/b)
+[^c-b9299fdb38a09775c88956d9c78cbc68]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2006/32) power to apply or incorporate (with modifications) conferred (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 54(2)-(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/54/2), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/b)
 
-[^key-e4c869f0e410843665ebd1bf8f9a5298]: Textual amendment: Pt. A1 inserted (31.3.2017) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 1](https://www.legislation.gov.uk/ukpga/2017/4/section/1), [71(2)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/a) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6))
+[^c-e4c869f0e410843665ebd1bf8f9a5298]: Textual amendment: Pt. A1 inserted (31.3.2017) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 1](https://www.legislation.gov.uk/ukpga/2017/4/section/1), [71(2)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/a) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6))
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
 
-[^key-9d68dafa984f15bca9c49355bdc4dbc4]: Modification: Pt. 1 modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1)
+[^c-9d68dafa984f15bca9c49355bdc4dbc4]: Modification: Pt. 1 modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1)
 
-[^key-356c4918a3879549f550c2e980be14d5]: Textual amendment: Words in Pt. 1 heading substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/2)
+[^c-356c4918a3879549f550c2e980be14d5]: Textual amendment: Words in Pt. 1 heading substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/2)
 
-[^key-546c29ecf72928d40cb76993691cfad4]: Textual amendment: Words in Act omitted (17.2.2015) by virtue of [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [s. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/2/a) (with [s. 4(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/3))
+[^c-546c29ecf72928d40cb76993691cfad4]: Textual amendment: Words in Act omitted (17.2.2015) by virtue of [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [s. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/2/a) (with [s. 4(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/3))
 
-[^key-0aab3b67858b67e0e9f35980f1913fcd]: Textual amendment: Word in [s. 80 cross-heading](https://www.legislation.gov.uk/ukpga/2006/32/part/2/crossheading/community-law-human-rights-and-international-obligations-etc) substituted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/5/3) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+[^c-0aab3b67858b67e0e9f35980f1913fcd]: Textual amendment: Word in [s. 80 cross-heading](https://www.legislation.gov.uk/ukpga/2006/32/part/2/crossheading/community-law-human-rights-and-international-obligations-etc) substituted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/5/3) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
 
-[^key-6c725795e0277e381d63b92b1c81daa8]: Textual amendment: Word in [s. 80 cross-heading](https://www.legislation.gov.uk/ukpga/2006/32/part/2/crossheading/community-law-human-rights-and-international-obligations-etc) substituted (31.3.2022) by [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2022/357/regulation/4/2)
+[^c-6c725795e0277e381d63b92b1c81daa8]: Textual amendment: Word in [s. 80 cross-heading](https://www.legislation.gov.uk/ukpga/2006/32/part/2/crossheading/community-law-human-rights-and-international-obligations-etc) substituted (31.3.2022) by [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2022/357/regulation/4/2)
 
-[^key-ccae0853747c790d8d5bafab32b97960]: Textual amendment: Pt. 3 ceases to have effect (5.5.2011) by virtue of [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), [s. 106(1)](https://www.legislation.gov.uk/ukpga/2006/32/section/106/1)[(1)](https://www.legislation.gov.uk/ukpga/2006/32/section/106/1) (with [ss. 106(2)](https://www.legislation.gov.uk/ukpga/2006/32/section/106/2), [106A](https://www.legislation.gov.uk/ukpga/2006/32/section/106A)) (as amended (5.5.2011) by [S.I. 2011/1011](https://www.legislation.gov.uk/uksi/2011/1011), art. 4; see S.I. 2011/1011, arts. 2, 3 for date of commencement of the Assembly Act provisions)
+[^c-ccae0853747c790d8d5bafab32b97960]: Textual amendment: Pt. 3 ceases to have effect (5.5.2011) by virtue of [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), [s. 106(1)](https://www.legislation.gov.uk/ukpga/2006/32/section/106/1)[(1)](https://www.legislation.gov.uk/ukpga/2006/32/section/106/1) (with [ss. 106(2)](https://www.legislation.gov.uk/ukpga/2006/32/section/106/2), [106A](https://www.legislation.gov.uk/ukpga/2006/32/section/106A)) (as amended (5.5.2011) by [S.I. 2011/1011](https://www.legislation.gov.uk/uksi/2011/1011), art. 4; see S.I. 2011/1011, arts. 2, 3 for date of commencement of the Assembly Act provisions)
 
-[^key-70d8b16fe610814bb3ba5aa76d90a5f3]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(18)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/18) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-70d8b16fe610814bb3ba5aa76d90a5f3]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(18)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/18) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
 
-[^key-339ee9cbcc24bf68e9fbff1a157d453c]: Textual amendment: S. 103 cross-heading omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/2) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/q)
+[^c-339ee9cbcc24bf68e9fbff1a157d453c]: Textual amendment: S. 103 cross-heading omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/2) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/q)
 
-[^key-072cc4442b55bad2cd354d03f2953ea6]: Textual amendment: Pt. 4A inserted (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2014/29/section/6/2), [29(2)(b)(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/b)
+[^c-072cc4442b55bad2cd354d03f2953ea6]: Textual amendment: Pt. 4A inserted (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2014/29/section/6/2), [29(2)(b)(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/b)
 
-[^key-81368b947583a1007d3e89875d8327c9]: Textual amendment: Pt. 4A Ch. 2 inserted (with effect in accordance with s. 14(3)-(5) of the amending Act) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 8(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/8/3), [14(2)](https://www.legislation.gov.uk/ukpga/2014/29/section/14/2), [29(4)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/4); [S.I. 2018/892](https://www.legislation.gov.uk/uksi/2018/892), [art. 3](https://www.legislation.gov.uk/uksi/2018/892/article/3) (with [arts. 5](https://www.legislation.gov.uk/uksi/2018/892/article/5), [6](https://www.legislation.gov.uk/uksi/2018/892/article/6), [8](https://www.legislation.gov.uk/uksi/2018/892/article/8))
+[^c-81368b947583a1007d3e89875d8327c9]: Textual amendment: Pt. 4A Ch. 2 inserted (with effect in accordance with s. 14(3)-(5) of the amending Act) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 8(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/8/3), [14(2)](https://www.legislation.gov.uk/ukpga/2014/29/section/14/2), [29(4)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/4); [S.I. 2018/892](https://www.legislation.gov.uk/uksi/2018/892), [art. 3](https://www.legislation.gov.uk/uksi/2018/892/article/3) (with [arts. 5](https://www.legislation.gov.uk/uksi/2018/892/article/5), [6](https://www.legislation.gov.uk/uksi/2018/892/article/6), [8](https://www.legislation.gov.uk/uksi/2018/892/article/8))
 
-[^key-e245e107e61639c1e923cd5f4f8cad69]: Textual amendment: Pt. 4A Ch. 3 inserted (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2014/29/section/15/1), [29(2)(b)(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/b) (with [s. 15(2)](https://www.legislation.gov.uk/ukpga/2014/29/section/15/2))
+[^c-e245e107e61639c1e923cd5f4f8cad69]: Textual amendment: Pt. 4A Ch. 3 inserted (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2014/29/section/15/1), [29(2)(b)(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/b) (with [s. 15(2)](https://www.legislation.gov.uk/ukpga/2014/29/section/15/2))
 
-[^key-34c3d0c79ace9f5df74256abaecb1306]: Textual amendment: Pt. 4A Ch. 4 inserted (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 18(1)](https://www.legislation.gov.uk/ukpga/2014/29/section/18/1), [29(2)(b)(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/b)
+[^c-34c3d0c79ace9f5df74256abaecb1306]: Textual amendment: Pt. 4A Ch. 4 inserted (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 18(1)](https://www.legislation.gov.uk/ukpga/2014/29/section/18/1), [29(2)(b)(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/b)
 
-[^key-638d66bb3e4588ad94b7bfe5c9bc810d]: Textual amendment: S. 148A and cross-heading inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 55(1)](https://www.legislation.gov.uk/ukpga/2017/4/section/55/1), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/l)
+[^c-638d66bb3e4588ad94b7bfe5c9bc810d]: Textual amendment: S. 148A and cross-heading inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 55(1)](https://www.legislation.gov.uk/ukpga/2017/4/section/55/1), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/l)

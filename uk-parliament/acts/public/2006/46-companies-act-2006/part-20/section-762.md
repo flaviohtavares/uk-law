@@ -24,8 +24,8 @@ summary: ''
 
 - (a) state that the nominal value of the company's allotted share capital is not less than the authorised minimum,
 - (b) specify the amount, or estimated amount, of the company's preliminary expenses,
-- (c) specify any amount or benefit paid or given, or intended to be paid or given, to any promoter of the company, and the consideration for the payment or benefit, [^key-a72039c4836c0d7ea9d885f5ae7f3d8a]...
-- (d) be accompanied by a statement of compliance and[^key-a70e3e5b911d382482f606f2f3ef9a03]
+- (c) specify any amount or benefit paid or given, or intended to be paid or given, to any promoter of the company, and the consideration for the payment or benefit, [^c-a72039c4836c0d7ea9d885f5ae7f3d8a]...
+- (d) be accompanied by a statement of compliance and[^c-a70e3e5b911d382482f606f2f3ef9a03]
 - (e) be accompanied by a statement of the aggregate amount paid up on the shares of the company on account of their nominal value.
 
 (2) The statement of compliance is a statement that the company meets the requirements for the issue of a certificate under section 761.
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a72039c4836c0d7ea9d885f5ae7f3d8a]: Textual amendment: Word in [s. 762(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/762/1) omitted (30.6.2016) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 98(3)(a)](https://www.legislation.gov.uk/ukpga/2015/26/section/98/3/a), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(f)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/f)
+[^c-a72039c4836c0d7ea9d885f5ae7f3d8a]: Textual amendment: Word in [s. 762(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/762/1) omitted (30.6.2016) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 98(3)(a)](https://www.legislation.gov.uk/ukpga/2015/26/section/98/3/a), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(f)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/f)
 
-[^key-a70e3e5b911d382482f606f2f3ef9a03]: Textual amendment: [S. 762(1)(e)](https://www.legislation.gov.uk/ukpga/2006/46/section/762/1/e) and word inserted (30.6.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 98(3)(b)](https://www.legislation.gov.uk/ukpga/2015/26/section/98/3/b), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(f)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/f)
+[^c-a70e3e5b911d382482f606f2f3ef9a03]: Textual amendment: [S. 762(1)(e)](https://www.legislation.gov.uk/ukpga/2006/46/section/762/1/e) and word inserted (30.6.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 98(3)(b)](https://www.legislation.gov.uk/ukpga/2015/26/section/98/3/b), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(f)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/f)

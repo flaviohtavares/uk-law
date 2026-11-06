@@ -38,7 +38,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Information
 
-#### 1. Information about fish farms and shellfish farms[^key-1a26bbd5b6a7ecca2154610de1544d56]
+#### 1. Information about fish farms and shellfish farms[^c-1a26bbd5b6a7ecca2154610de1544d56]
 
 (1) The Scottish Ministers may make an order if it appears to them necessary or expedient to do so for the purpose of obtaining information in relation to the prevention, control and reduction of parasites—
 
@@ -67,7 +67,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (6) Information provided, records compiled and records retained by virtue of an order under this section may be provided, compiled and retained electronically.
 
-#### 2. Information: offences[^key-c48bdd517a1f6331af966b5e8628b18a]
+#### 2. Information: offences[^c-c48bdd517a1f6331af966b5e8628b18a]
 
 (1) A person commits an offence who—
 
@@ -79,7 +79,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Parasites
 
-#### 3. Inspections: parasites[^key-e348a621838ad5f1856ea2818347f9cc]
+#### 3. Inspections: parasites[^c-e348a621838ad5f1856ea2818347f9cc]
 
 (1) An inspector may carry out inspections of—
 
@@ -100,7 +100,7 @@ for the purposes mentioned in subsection (2).
 
 (4) An inspector may arrange for the carrying out of such tests as the inspector considers necessary, using samples taken during an inspection under subsection (1), for the purposes mentioned in subsection (2).
 
-#### 4. Meaning of parasite in Part 1[^key-2201624454681ad015c2fb195034d8bb]
+#### 4. Meaning of parasite in Part 1[^c-2201624454681ad015c2fb195034d8bb]
 
 (1) In this Part, “**parasite**” means any of the following—
 
@@ -109,7 +109,7 @@ for the purposes mentioned in subsection (2).
 
 (2) The Scottish Ministers may by order modify the meaning of parasite in subsection (1).
 
-### Fish farm management agreements and statements[^key-976c5c76a55d6ba9a8d4c374c5755362]
+### Fish farm management agreements and statements[^c-976c5c76a55d6ba9a8d4c374c5755362]
 
 #### 4A. Fish farm management agreements and statements
 
@@ -170,7 +170,7 @@ for the purposes mentioned in subsection (2).
 
 ### Containment and escape: fish
 
-#### 5. Inspections: containment and escape of fish[^key-6d0200ab89c8acd122339df0a5395f71]
+#### 5. Inspections: containment and escape of fish[^c-6d0200ab89c8acd122339df0a5395f71]
 
 (1) An inspector may carry out inspections of fish farms for any of the purposes mentioned in subsection (2).
 
@@ -178,7 +178,7 @@ for the purposes mentioned in subsection (2).
 
 - (a) ascertaining the risk of escape of fish from the fish farm,
 - (b) ascertaining whether fish have escaped from the fish farm,
-- (ba)[^key-71467811ff2936093c20d3f95307832d] ascertaining the origin of fish known or believed to have escaped from the fish farm or any other fish farm,
+- (ba)[^c-71467811ff2936093c20d3f95307832d] ascertaining the origin of fish known or believed to have escaped from the fish farm or any other fish farm,
 - (c) assessing the measures in place for—
   - (i) the containment of fish on the fish farm,
   - (ii) the prevention of escape of fish from the fish farm,
@@ -186,12 +186,12 @@ for the purposes mentioned in subsection (2).
 
 (3) In particular, an inspection under subsection (1) may include—
 
-- (a) taking samples (including samples of equipment , fish or material from fish[^key-757c2e9e7cbc664032ebfb90f12687e3]),
+- (a) taking samples (including samples of equipment , fish or material from fish[^c-757c2e9e7cbc664032ebfb90f12687e3]),
 - (b) examining, and taking copies of, documents or records.
 
 (4) An inspector may arrange for the carrying out of such tests as the inspector considers necessary, using samples taken during an inspection under subsection (1), for any of the purposes mentioned in subsection (2).
 
-### Sampling[^key-17aec4be33a7d4a2c6d0332e4a465055]
+### Sampling[^c-17aec4be33a7d4a2c6d0332e4a465055]
 
 #### 5A. Obtaining samples from fish farms
 
@@ -212,9 +212,9 @@ for the purposes mentioned in subsection (2).
 
 ### Enforcement
 
-#### 6. Enforcement notices[^key-abb16493191a50270e7799d4ced634a4]
+#### 6. Enforcement notices[^c-abb16493191a50270e7799d4ced634a4]
 
-(1)[^key-e456559d69417cc6b8a4bfcdbc2ec85d] Where the Scottish Ministers are satisfied that a person who carries on a business of fish farming—
+(1)[^c-e456559d69417cc6b8a4bfcdbc2ec85d] Where the Scottish Ministers are satisfied that a person who carries on a business of fish farming—
 
 - (a) does not have satisfactory measures in place for any of the purposes mentioned in subsection (2), or
 - (b) in relation to a fish farm to which section 4A(1) applies, has failed or is failing to comply with that section,
@@ -262,7 +262,7 @@ as the Scottish Ministers consider necessary for the purpose mentioned in that s
 
 ### Code of practice
 
-#### 7. Code of practice[^key-4083681489e6a4258af5468170006315]
+#### 7. Code of practice[^c-4083681489e6a4258af5468170006315]
 
 (1) The Scottish Ministers may by order approve, whether in whole or in part, any code of practice issued (whether by them or by another person) for any of the purposes of—
 
@@ -286,7 +286,7 @@ with respect to any of the matters mentioned in subsection (2).
 
 (4) Before making an order under this section the Scottish Ministers must consult such persons as they consider appropriate.
 
-#### 8. Monitoring and enforcement: code of practice[^key-88124237f7eb3c6fc5c25c8f1c773396]
+#### 8. Monitoring and enforcement: code of practice[^c-88124237f7eb3c6fc5c25c8f1c773396]
 
 (1) The Scottish Ministers are to monitor compliance with any approved code.
 
@@ -315,7 +315,7 @@ as the Scottish Ministers consider necessary for securing compliance with the ap
 
 ### Powers of inspectors and offences
 
-#### 9. Powers of inspectors: entry[^key-c368c7f3d47f638acc96b11a49d91e8f]
+#### 9. Powers of inspectors: entry[^c-c368c7f3d47f638acc96b11a49d91e8f]
 
 (1) An inspector may enter any fish farm or shellfish farm for the purposes of—
 
@@ -326,7 +326,7 @@ as the Scottish Ministers consider necessary for securing compliance with the ap
 
 (3) Any power of entry conferred on an inspector by or under this Part must be exercised at a reasonable hour unless the inspector considers the case is one of urgency.
 
-#### 10. Entry: supplementary[^key-aff921d24ef221f724e807e265c37d86]
+#### 10. Entry: supplementary[^c-aff921d24ef221f724e807e265c37d86]
 
 (1) This section applies to any inspector exercising any power of entry conferred on an inspector by or under this Part.
 
@@ -345,7 +345,7 @@ as the inspector considers necessary.
 - (b) any other person appearing to the inspector to be under the direction or control of that person,
 - (c) any other person appearing to the inspector to be concerned with the operation of the farm.
 
-#### 11. Offences: general[^key-a8dd665c94dd650ba5fa74c8359879f8]
+#### 11. Offences: general[^c-a8dd665c94dd650ba5fa74c8359879f8]
 
 (1) A person commits an offence who—
 
@@ -362,19 +362,19 @@ In this Part, unless the context otherwise requires—
 
 - “**approved code**” means a code of practice approved, for the time being, by an order under section 7; and includes any part or modification of a code of practice so approved;
 - “**fish**” does not include shellfish but otherwise means fish of any kind;
-- “[^key-070d86fb7d09e2de34f6e063420b8a34] **fish farming** ” means the keeping of live fish with a view to their sale or to their transfer to other waters; but only where the business involved in that activity is authorised as an aquaculture production business under regulation   6 of the 2009 Regulations ;
+- “[^c-070d86fb7d09e2de34f6e063420b8a34] **fish farming** ” means the keeping of live fish with a view to their sale or to their transfer to other waters; but only where the business involved in that activity is authorised as an aquaculture production business under regulation   6 of the 2009 Regulations ;
 - “**fish farm**” means any place used for the purposes of fish farming;
 - “**inspector**” means a person authorised by the Scottish Ministers to act as an inspector under this Act, either generally or for the particular purpose in question;
 - “**parasite**” has the meaning given by section 4(1);
 - “**shellfish**” includes crustaceans and molluscs of any kind, and includes any brood, ware, half-ware, spat or spawn of shellfish;
-- “[^key-cfb65be2415cb5ae45f12d2952ce34fe] **shellfish farming** ” means the cultivation or propagation of shellfish with a view to their sale or transfer to other waters or land; but only where the business involved in that activity is authorised as an aquaculture production business under regulation   6 of the 2009 Regulations ;
+- “[^c-cfb65be2415cb5ae45f12d2952ce34fe] **shellfish farming** ” means the cultivation or propagation of shellfish with a view to their sale or transfer to other waters or land; but only where the business involved in that activity is authorised as an aquaculture production business under regulation   6 of the 2009 Regulations ;
 - “**shellfish farm**” means any place used for the purposes of shellfish farming.
 
 ## Part 2 — Gyrodactylus salaris: containment and treatment
 
 ### Order under section 2 of the 1937 Act: additional powers
 
-#### 13. Order under section 2 of the 1937 Act: additional powers[^key-1098fda7db3cbcf90c4257aaacdd5cea]
+#### 13. Order under section 2 of the 1937 Act: additional powers[^c-1098fda7db3cbcf90c4257aaacdd5cea]
 
 After section 2 of the 1937 Act (power to designate areas), insert—
 
@@ -394,7 +394,7 @@ After section 2 of the 1937 Act (power to designate areas), insert—
 
 ### Preliminary designation of area by order
 
-#### 14. Preliminary designation of area by order[^key-3bc99d724a509413c37390151dea638d]
+#### 14. Preliminary designation of area by order[^c-3bc99d724a509413c37390151dea638d]
 
 After section 2ZA of the 1937 Act (as inserted by section 13 above), insert—
 
@@ -433,7 +433,7 @@ After section 2ZA of the 1937 Act (as inserted by section 13 above), insert—
 
 ### Containment and treatment: additional powers
 
-#### 15. Creation of barriers to movement of fish, treatment of waters with chemical agents etc.[^key-07336f9b912c809bfd6522ca96b79a0a]
+#### 15. Creation of barriers to movement of fish, treatment of waters with chemical agents etc.[^c-07336f9b912c809bfd6522ca96b79a0a]
 
 After section 5 of the 1937 Act (duty to examine waters on demand of fishery board or occupier), insert—
 
@@ -464,7 +464,7 @@ After section 5 of the 1937 Act (duty to examine waters on demand of fishery boa
 
 .
 
-#### 16. Clearance of certain fish farms[^key-0a0767842c35bf8d8e97a78194cdee6d]
+#### 16. Clearance of certain fish farms[^c-0a0767842c35bf8d8e97a78194cdee6d]
 
 After section 5B of the 1937 Act (as inserted by section 15 above), insert—
 
@@ -500,7 +500,7 @@ After section 5B of the 1937 Act (as inserted by section 15 above), insert—
 
 .
 
-#### 17. Gyrodactylus salaris: Scottish Ministers' powers to take other measures[^key-6a9c9cf7686a4f8bd262d0271beb1cd1]
+#### 17. Gyrodactylus salaris: Scottish Ministers' powers to take other measures[^c-6a9c9cf7686a4f8bd262d0271beb1cd1]
 
 After section 5D of the 1937 Act (as inserted by section 16 above), insert—
 
@@ -515,7 +515,7 @@ After section 5D of the 1937 Act (as inserted by section 16 above), insert—
 
 .
 
-#### 18. Gyrodactylus salaris: Scottish Ministers' power to make payments[^key-e0c75f4721c5ad9c08684b22fb183c79]
+#### 18. Gyrodactylus salaris: Scottish Ministers' power to make payments[^c-e0c75f4721c5ad9c08684b22fb183c79]
 
 After section 5E of the 1937 Act (as inserted by section 17 above), insert—
 
@@ -540,7 +540,7 @@ After section 5E of the 1937 Act (as inserted by section 17 above), insert—
 
 ## Part 3 — Salmon and freshwater fisheries
 
-### 19. Use of gaff, tailer or landing net[^key-76af52bd8d7ab25a697902768dd2933b]
+### 19. Use of gaff, tailer or landing net[^c-76af52bd8d7ab25a697902768dd2933b]
 
 (1) In section 3 of the 2003 Act (use of gaff, tailer or landing net)—
 
@@ -549,7 +549,7 @@ After section 5E of the 1937 Act (as inserted by section 17 above), insert—
 
 (2) The title to section 3 of the 2003 Act becomes “**Use of landing nets**”.
 
-### 20. Rod and line[^key-8d575b94f526ac0dfb6f66c3e134d9bd]
+### 20. Rod and line[^c-8d575b94f526ac0dfb6f66c3e134d9bd]
 
 (1) After section 3 of the 2003 Act, insert—
 
@@ -597,7 +597,7 @@ After section 5E of the 1937 Act (as inserted by section 17 above), insert—
 
   .
 
-### 21. Prohibition against using pike gags and certain keepnets[^key-56d4d84c6931b5606ba0bdd062e70f54]
+### 21. Prohibition against using pike gags and certain keepnets[^c-56d4d84c6931b5606ba0bdd062e70f54]
 
 After section 5 of the 2003 Act, insert—
 
@@ -618,7 +618,7 @@ After section 5 of the 2003 Act, insert—
 
 .
 
-### 22. Close times for freshwater fish[^key-9273c7230f355bcc96aa280c01c51199]
+### 22. Close times for freshwater fish[^c-9273c7230f355bcc96aa280c01c51199]
 
 After section 17 of the 2003 Act (annual close time for trout), insert—
 
@@ -664,7 +664,7 @@ After section 17 of the 2003 Act (annual close time for trout), insert—
 
 .
 
-### 23. Exemption from certain offences[^key-066c81a50e7f5517ef407af89e0cccb3]
+### 23. Exemption from certain offences[^c-066c81a50e7f5517ef407af89e0cccb3]
 
 (1) In section 28(2)(a) of the 2003 Act (exemption from certain offences in respect of acts done for scientific and other purposes: fish other than salmon), after “17” insert “, 17A, 17B”.
 
@@ -675,7 +675,7 @@ After section 17 of the 2003 Act (annual close time for trout), insert—
   - (ii) for “and 22(1)” substitute “, 22(1) and 23”,
 - (b) in subsection (5), after “17(2)(b),” insert “17B(3)(b),”.
 
-### 24. Freshwater fish conservation regulations[^key-393696eb0e4d04a91aea67f42d493859]
+### 24. Freshwater fish conservation regulations[^c-393696eb0e4d04a91aea67f42d493859]
 
 (1) After section 51 of the 2003 Act (financial contributions towards organisations developing freshwater fisheries), insert—
 
@@ -723,24 +723,24 @@ After section 17 of the 2003 Act (annual close time for trout), insert—
 
 (2) In section 4(1) of the 2003 Act (meaning of “rod and line”), at the end add “or, in relation to fishing for freshwater fish, under section 51A of this Act”.
 
-## Part 4 — Fixed penalty notices[^key-c58dc79e5329236e68ac1ce381dca2a2]
+## Part 4 — Fixed penalty notices[^c-c58dc79e5329236e68ac1ce381dca2a2]
 
 ### ...[^M_F_52b38a61-f291-4361-b0b2-a7e17858d172]
 
-#### 25. Issue of fixed penalty notices[^key-13eb39cee94974f54c845dc618860ba7]
+#### 25. Issue of fixed penalty notices[^c-13eb39cee94974f54c845dc618860ba7]
 
-(1) Where a fixed penalty[^key-a80609454b5485621847794c8bb75d56] officer has reasonable grounds for suspecting that a person has committed a relevant offence, the officer may issue the person with a fixed penalty notice.
+(1) Where a fixed penalty[^c-a80609454b5485621847794c8bb75d56] officer has reasonable grounds for suspecting that a person has committed a relevant offence, the officer may issue the person with a fixed penalty notice.
 
-(2) In subsection (1), a relevant offence [^key-9efb953cb288f289a101420a83708fb4]...—
+(2) In subsection (1), a relevant offence [^c-9efb953cb288f289a101420a83708fb4]...—
 
-- (a)[^key-73beec0f24e84fcc30aec11a6a5c11ab] is an offence under the Sea Fisheries enactments in respect of which a person mentioned in paragraph (a) of subsection (2A) has functions,
+- (a)[^c-73beec0f24e84fcc30aec11a6a5c11ab] is an offence under the Sea Fisheries enactments in respect of which a person mentioned in paragraph (a) of subsection (2A) has functions,
 - (b) is an offence under the marine protection and nature conservation legislation in respect of which a person mentioned in paragraph (b) of that subsection has functions,
 - (c) is an offence under—
   - (i) Part 4 of the Marine (Scotland) Act 2010 (marine licensing), or
   - (ii) section 5(5) of the Aquaculture and Fisheries (Scotland) Act 2013 (control and monitoring of operation of wellboats),
 - (d) in relation to a person mentioned in any of paragraphs (c) to (f) of that subsection, is an offence in respect of which the person has functions.
 
-(2A)[^key-7eeeab00230339e5e78103b0ec2fd6da] The persons referred to in subsection (2) are—
+(2A)[^c-7eeeab00230339e5e78103b0ec2fd6da] The persons referred to in subsection (2) are—
 
 - (a) a British sea-fishery officer,
 - (b) a marine enforcement officer within the meaning of section 157(1) of the Marine (Scotland) Act 2010,
@@ -768,13 +768,13 @@ After section 17 of the 2003 Act (annual close time for trout), insert—
 
 - “**appropriate fixed penalty**” has the meaning given in section 27(2);
 - “**British sea-fishery officer**” means any person who by virtue of section 7 of the Sea Fisheries Act 1968 (c. 77) is a British sea-fishery officer;
-- “[^key-b15b70c625b0cf0df86e23437cc2fdb6] **fixed penalty officer** ” means a person appointed as such an officer by the Scottish Ministers;
+- “[^c-b15b70c625b0cf0df86e23437cc2fdb6] **fixed penalty officer** ” means a person appointed as such an officer by the Scottish Ministers;
 - “**period for paying**” has the meaning given in section 26(4);
 - “**notice**” means a fixed penalty notice issued under subsection (1);
 - “**Sea Fisheries enactments**” means any enactments for the time being in force relating to sea fish or sea fishing, including any enactment relating to fishing for shellfish, salmon or migratory trout.
-- “[^key-a8e02139235827891a2ed674fa4cb962] **the marine protection and nature conservation legislation** ” has the meaning given in section 132(2) of the Marine (Scotland) Act 2010;
+- “[^c-a8e02139235827891a2ed674fa4cb962] **the marine protection and nature conservation legislation** ” has the meaning given in section 132(2) of the Marine (Scotland) Act 2010;
 
-#### 26. Content and form of fixed penalty notice[^key-a4cf87749cb4c12dcd0273c77c612af8]
+#### 26. Content and form of fixed penalty notice[^c-a4cf87749cb4c12dcd0273c77c612af8]
 
 (1) A notice must—
 
@@ -797,21 +797,21 @@ After section 17 of the 2003 Act (annual close time for trout), insert—
 
 (5) The Scottish Ministers may for the purposes of subsection (4) specify by order a period shorter than 28 days in relation to different cases and categories of case; and may so specify such supplementary provision in connection with the shortening of the period as they consider necessary or expedient.
 
-#### 27. Amount and payment of fixed penalty[^key-b24369bc1272dfff2bbe7be337959450]
+#### 27. Amount and payment of fixed penalty[^c-b24369bc1272dfff2bbe7be337959450]
 
-(1) The Scottish Ministers may by order prescribe a scale of fixed penalties for the purposes of sections 25 to 31, the amount of the maximum penalty on the scale being a sum not exceeding £10,000.[^key-84602110121fbe3da3aecdb475b0141e]
+(1) The Scottish Ministers may by order prescribe a scale of fixed penalties for the purposes of sections 25 to 31, the amount of the maximum penalty on the scale being a sum not exceeding £10,000.[^c-84602110121fbe3da3aecdb475b0141e]
 
-(2) The “**appropriate fixed penalty**” means such fixed penalty on the scale prescribed under subsection (1) as the fixed penalty[^key-3e453829d9ee769c77761180181a8055] officer thinks fit having regard to the circumstances of the case and any relevant provision of an order under that subsection.
+(2) The “**appropriate fixed penalty**” means such fixed penalty on the scale prescribed under subsection (1) as the fixed penalty[^c-3e453829d9ee769c77761180181a8055] officer thinks fit having regard to the circumstances of the case and any relevant provision of an order under that subsection.
 
 (3) The fixed penalty is to be payable to the Scottish Ministers, at such address and by such methods as the Scottish Ministers may by order specify.
 
-#### 28. Effect of payment[^key-504828ce57f4923b66b028830165a900]
+#### 28. Effect of payment[^c-504828ce57f4923b66b028830165a900]
 
 (1) Where a person makes payment of the appropriate fixed penalty before the period for paying has expired no proceedings may be brought against the person for the offence.
 
 (2) Payment of a fixed penalty is not a conviction nor may it be recorded as such.
 
-#### 29. Intimation of non-payment[^key-62a1db02758c4a2f41279a0fa398b464]
+#### 29. Intimation of non-payment[^c-62a1db02758c4a2f41279a0fa398b464]
 
 (1) A person to whom a notice is issued may, before the expiry of the period for paying, intimate an intention not to pay the fixed penalty.
 
@@ -820,7 +820,7 @@ After section 17 of the 2003 Act (annual close time for trout), insert—
 - (a) be in writing,
 - (b) be sent by post or delivered to such person as the Scottish Ministers may by order specify at such address so specified.
 
-#### 30. Restriction on proceedings and notification of procurator fiscal[^key-d3d7f10f7c2e15ee70a963ba62eac8af]
+#### 30. Restriction on proceedings and notification of procurator fiscal[^c-d3d7f10f7c2e15ee70a963ba62eac8af]
 
 (1) Proceedings in respect of an offence to which a notice relates may not be brought against the person to whom the notice relates unless the procurator fiscal has been notified in accordance with subsection (2) or (3).
 
@@ -840,9 +840,9 @@ the Scottish Ministers must notify the procurator fiscal; unless the notice is w
 
 is sufficient evidence of the facts stated.
 
-#### 31. Withdrawal of fixed penalty notice or expiry of period for paying[^key-a4d4474af544f9633b34ace6efa6978d]
+#### 31. Withdrawal of fixed penalty notice or expiry of period for paying[^c-a4d4474af544f9633b34ace6efa6978d]
 
-(1) A notice may be withdrawn by a fixed penalty[^key-1b9735f0be5a0f28b9895d481b17090d] officer, if the officer determines that the offence to which the notice relates was not committed or that the notice ought not to have been issued to the person to whom it was issued.
+(1) A notice may be withdrawn by a fixed penalty[^c-1b9735f0be5a0f28b9895d481b17090d] officer, if the officer determines that the offence to which the notice relates was not committed or that the notice ought not to have been issued to the person to whom it was issued.
 
 (2) Where a notice has been withdrawn—
 
@@ -851,9 +851,9 @@ is sufficient evidence of the facts stated.
 
 (3) Where the period for paying has expired no amount is payable by way of fixed penalty in pursuance of that notice.
 
-## PART 4A — Miscellaneous amendments of sea fisheries legislation[^key-55c9184a18d69f131cad73077d47bd22]
+## PART 4A — Miscellaneous amendments of sea fisheries legislation[^c-55c9184a18d69f131cad73077d47bd22]
 
-### 32. Amendment of the Sea Fisheries (Shellfish) Act 1967[^key-aa3ff8516d923bd62b0eb590deae0ef1]
+### 32. Amendment of the Sea Fisheries (Shellfish) Act 1967[^c-aa3ff8516d923bd62b0eb590deae0ef1]
 
 (1) In section 3(3) of the Sea Fisheries (Shellfish) Act 1967 (c. 83) (effect of grant of right of regulating a fishery), for “level 2 on the standard scale” substitute “£50,000”.
 
@@ -862,7 +862,7 @@ is sufficient evidence of the facts stated.
 - (a) for the words “, having been” substitute “is”,
 - (b) the words “, is subsequently convicted of another such offence” are repealed.
 
-### 33. Enforcement of Community obligations[^key-d29a2c250a319a0233284673cf131fac]
+### 33. Enforcement of Community obligations[^c-d29a2c250a319a0233284673cf131fac]
 
 In section 30(1) of the Fisheries Act 1981 (c. 29) (enforcement of Community rules)—
 
@@ -872,7 +872,7 @@ In section 30(1) of the Fisheries Act 1981 (c. 29) (enforcement of Community rul
 
 ## Part 5 — Miscellaneous
 
-### 34. Unauthorised introduction of fish into certain marine waters[^key-0123f7cfb30e474d5c9de2ff468d8b49]
+### 34. Unauthorised introduction of fish into certain marine waters[^c-0123f7cfb30e474d5c9de2ff468d8b49]
 
 After section 2B of the 1937 Act (designated areas: authority to remove fish), insert—
 
@@ -911,7 +911,7 @@ After section 2B of the 1937 Act (designated areas: authority to remove fish), i
 
 .
 
-### 35. Unauthorised introduction of fish into inland waters[^key-d9b53d751e781e0422a74069521a7cf6]
+### 35. Unauthorised introduction of fish into inland waters[^c-d9b53d751e781e0422a74069521a7cf6]
 
 (1) Section 24 of the 2003 Act is repealed.
 
@@ -945,7 +945,7 @@ After section 2B of the 1937 Act (designated areas: authority to remove fish), i
 
 .
 
-### 36. Payments in respect of fish destroyed[^key-1778361d8f6f0025ae8be776f33dcb9b]
+### 36. Payments in respect of fish destroyed[^c-1778361d8f6f0025ae8be776f33dcb9b]
 
 (1) The Scottish Ministers may, in accordance with a scheme made by them by order, make payments in respect of any fish or shellfish destroyed in pursuance of the exercise of such powers of the Scottish Ministers under or by virtue of such enactments as may be specified by them by order.
 
@@ -958,7 +958,7 @@ After section 2B of the 1937 Act (designated areas: authority to remove fish), i
 
 (3) In subsection (1), “**fish**” and “**shellfish**” have the same meanings as in Part 1.
 
-### 37. Payments for certain purposes[^key-58aa550bdf10b99cb7f17fc09cbf0191]
+### 37. Payments for certain purposes[^c-58aa550bdf10b99cb7f17fc09cbf0191]
 
 (1) The Scottish Ministers may make payments of such amount and subject to such conditions as they may determine to any person or group of persons for any of the purposes mentioned in subsection (2) in relation to any of the matters mentioned in subsection (3).
 
@@ -985,14 +985,14 @@ After section 2B of the 1937 Act (designated areas: authority to remove fish), i
 
 (6) In this section—
 
-- “[^key-292e8627bfbd3576ef8a58578a7ee8a4] **fish farming** ” has the same meaning as in Part   1, except that businesses involved in such activity need not be authorised as an aquaculture production business under regulation   6 of the 2009 Regulations ;
+- “[^c-292e8627bfbd3576ef8a58578a7ee8a4] **fish farming** ” has the same meaning as in Part   1, except that businesses involved in such activity need not be authorised as an aquaculture production business under regulation   6 of the 2009 Regulations ;
 - “**migratory trout**” means any species of trout which migrates to and from the sea;
 - “**salmon**” includes any fish of the salmon species;
 - “**sea fish**” means fish of any kind found in the sea, including shellfish but not salmon or migratory trout;
 - “**shellfish**” has the same meaning as in Part 1;
-- “[^key-c3cd431b0c90684afe8021dcde3b2aae] **shellfish farming** ” has the same meaning as in Part   1, except that businesses involved in such activity need not be authorised as an aquaculture production business under regulation   6 of the 2009 Regulations .
+- “[^c-c3cd431b0c90684afe8021dcde3b2aae] **shellfish farming** ” has the same meaning as in Part   1, except that businesses involved in such activity need not be authorised as an aquaculture production business under regulation   6 of the 2009 Regulations .
 
-### 38. Information about fish farming and shellfish farming: economic, social and environmental aspects[^key-cc5bebf067f9dd5639d9bd96b8378122]
+### 38. Information about fish farming and shellfish farming: economic, social and environmental aspects[^c-cc5bebf067f9dd5639d9bd96b8378122]
 
 (1) The Scottish Ministers may make an order under this section for the purpose of obtaining information in relation to the economic, social and environmental aspects of—
 
@@ -1021,7 +1021,7 @@ After section 2B of the 1937 Act (designated areas: authority to remove fish), i
 
 ## Part 6 — General
 
-### 39. Crown application[^key-1dcd7ccebbbceeea9a86e880bba42cd7]
+### 39. Crown application[^c-1dcd7ccebbbceeea9a86e880bba42cd7]
 
 (1) This Act binds the Crown.
 
@@ -1029,7 +1029,7 @@ After section 2B of the 1937 Act (designated areas: authority to remove fish), i
 
 (3) The Court of Session may, on the application of the Lord Advocate, declare unlawful any act or omission of the Crown which constitutes a contravention of any provision made by or under this Act.
 
-### 40. Offences by bodies corporate etc.[^key-a154198a5cd24f2b70f6bc3749c19741]
+### 40. Offences by bodies corporate etc.[^c-a154198a5cd24f2b70f6bc3749c19741]
 
 (1) Where an offence under this Act committed—
 
@@ -1047,7 +1047,7 @@ the individual (as well as the body corporate, Scottish partnership or, as the c
 
 (2) Where the affairs of a body corporate are managed by its members, subsection (1) applies in relation to the acts and defaults of a member in connection with the member's functions of management as if the member were a director of the body corporate.
 
-### 41. Minor and consequential amendments[^key-93cda095805b75294e51ba2a2aaa7886]
+### 41. Minor and consequential amendments[^c-93cda095805b75294e51ba2a2aaa7886]
 
 The schedule to this Act, which contains minor amendments and amendments consequential on this Act, has effect.
 
@@ -1068,7 +1068,7 @@ The schedule to this Act, which contains minor amendments and amendments consequ
 
 (3) A statutory instrument containing an order under—
 
-- (a) section4A(6) or[^key-129d3306d9d548b5dedce8ae00e150ff] 36(1),
+- (a) section4A(6) or[^c-129d3306d9d548b5dedce8ae00e150ff] 36(1),
 - (b) section 42 containing provisions which add to, replace or omit any part of the text of an Act,
 
 is not to be made unless a draft of the instrument has been laid before, and approved by resolution of, the Parliament.
@@ -1080,7 +1080,7 @@ In this Act—
 - “**the 1937 Act**” means the Diseases of Fish Act 1937 (c. 33);
 - “**the 1983 Act**” means the Diseases of Fish Act 1983 (c. 30);
 - “**the 2003 Act**” means the Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 (asp 15).
-- “the[^key-90487d7fd7ff196502ef4b99600dff89] 2009 Regulations ” means the Aquatic Animal Health (Scotland) Regulations 2009 ( [S.S.I. 2009/85](https://www.legislation.gov.uk/ssi/2009/85) ).
+- “the[^c-90487d7fd7ff196502ef4b99600dff89] 2009 Regulations ” means the Aquatic Animal Health (Scotland) Regulations 2009 ( [S.S.I. 2009/85](https://www.legislation.gov.uk/ssi/2009/85) ).
 
 ### 45. Short title and commencement
 
@@ -1096,7 +1096,7 @@ In this Act—
 
 ### Diseases of Fish Act 1937 (c. 33)
 
-**1.**[^key-298e60c3cf05e67f566061bb2a04e1b1] In the 1937 Act—
+**1.**[^c-298e60c3cf05e67f566061bb2a04e1b1] In the 1937 Act—
 
 - (a) in section 6—
   - (i) in subsection (2), after paragraph (ab) insert—
@@ -1134,7 +1134,7 @@ In this Act—
 
 ### Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 (c. 42)
 
-**2.**[^key-a1654393bd0c27309f877ff732e5f17c] In section 1(1) of the Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 (procedure for compulsory purchase of land by local authorities, Ministers and others), after paragraph (e) insert—
+**2.**[^c-a1654393bd0c27309f877ff732e5f17c] In section 1(1) of the Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 (procedure for compulsory purchase of land by local authorities, Ministers and others), after paragraph (e) insert—
 
 > - (ea) by the Scottish Ministers under section 5A(3) of the Diseases of Fish Act 1937 (c. 33);
 
@@ -1142,7 +1142,7 @@ In this Act—
 
 ### Sea Fish (Conservation) Act 1967 (c. 84)
 
-**3.**[^key-066e05148a92f8f0f45143c359dc8fbb] In the Sea Fish (Conservation) Act 1967—
+**3.**[^c-066e05148a92f8f0f45143c359dc8fbb] In the Sea Fish (Conservation) Act 1967—
 
 - (a) in section 4 (licensing of fishing boats), subsections (9A) and (9B) are repealed,
 - (b) in section 11 (penalties for offences)—
@@ -1155,15 +1155,15 @@ In this Act—
 
 ### Fisheries Act 1981 (c. 29)
 
-**4.**[^key-ebfcb48bcefb68fb467fc1f8306da4e6] In section 30 of the Fisheries Act 1981 (enforcement of Community rules) in subsection (5)(b), for “(5)” substitute “(4)”.
+**4.**[^c-ebfcb48bcefb68fb467fc1f8306da4e6] In section 30 of the Fisheries Act 1981 (enforcement of Community rules) in subsection (5)(b), for “(5)” substitute “(4)”.
 
 ### Criminal Justice and Public Order Act 1994 (c. 33)
 
-**5.**[^key-75caaec351d012d0b62dc1f1745374f5] In Part 1 of Schedule 8 to the Criminal Justice and Public Order Act 1994 (increase in penalties for certain offences), the entry in relation to section 3(3) of the Sea Fisheries (Shellfish) Act 1967 is repealed.
+**5.**[^c-75caaec351d012d0b62dc1f1745374f5] In Part 1 of Schedule 8 to the Criminal Justice and Public Order Act 1994 (increase in penalties for certain offences), the entry in relation to section 3(3) of the Sea Fisheries (Shellfish) Act 1967 is repealed.
 
 ### Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 (asp 15)
 
-**6.**[^key-d5c3212dcf90b7726eeaab2c822f2a3a] (1) The 2003 Act is amended as follows.
+**6.**[^c-d5c3212dcf90b7726eeaab2c822f2a3a] (1) The 2003 Act is amended as follows.
 
 (2) In section 17 (annual close time for trout), after subsection (4) insert—
 
@@ -1237,140 +1237,140 @@ In this Act—
 
 ## Annotations
 
-[^key-1a26bbd5b6a7ecca2154610de1544d56]: Commencement: S. 1 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-1a26bbd5b6a7ecca2154610de1544d56]: Commencement: S. 1 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-c48bdd517a1f6331af966b5e8628b18a]: Commencement: S. 2 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-c48bdd517a1f6331af966b5e8628b18a]: Commencement: S. 2 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-e348a621838ad5f1856ea2818347f9cc]: Commencement: S. 3 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-e348a621838ad5f1856ea2818347f9cc]: Commencement: S. 3 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-2201624454681ad015c2fb195034d8bb]: Commencement: S. 4 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-2201624454681ad015c2fb195034d8bb]: Commencement: S. 4 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-976c5c76a55d6ba9a8d4c374c5755362]: Textual amendment: Ss. 4A, 4B and preceding cross-heading inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 1(2)](https://www.legislation.gov.uk/asp/2013/7/section/1/2), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-976c5c76a55d6ba9a8d4c374c5755362]: Textual amendment: Ss. 4A, 4B and preceding cross-heading inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 1(2)](https://www.legislation.gov.uk/asp/2013/7/section/1/2), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-6d0200ab89c8acd122339df0a5395f71]: Commencement: S. 5 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-6d0200ab89c8acd122339df0a5395f71]: Commencement: S. 5 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-71467811ff2936093c20d3f95307832d]: Textual amendment: S. 5(2)(ba) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 2(2)(a)](https://www.legislation.gov.uk/asp/2013/7/section/2/2/a), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-71467811ff2936093c20d3f95307832d]: Textual amendment: S. 5(2)(ba) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 2(2)(a)](https://www.legislation.gov.uk/asp/2013/7/section/2/2/a), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-757c2e9e7cbc664032ebfb90f12687e3]: Textual amendment: Words in s. 5(3)(a) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 2(2)(b)](https://www.legislation.gov.uk/asp/2013/7/section/2/2/b), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-757c2e9e7cbc664032ebfb90f12687e3]: Textual amendment: Words in s. 5(3)(a) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 2(2)(b)](https://www.legislation.gov.uk/asp/2013/7/section/2/2/b), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-17aec4be33a7d4a2c6d0332e4a465055]: Textual amendment: S. 5A and preceding cross-heading inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 2(3)](https://www.legislation.gov.uk/asp/2013/7/section/2/3), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-17aec4be33a7d4a2c6d0332e4a465055]: Textual amendment: S. 5A and preceding cross-heading inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 2(3)](https://www.legislation.gov.uk/asp/2013/7/section/2/3), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-abb16493191a50270e7799d4ced634a4]: Commencement: S. 6 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-abb16493191a50270e7799d4ced634a4]: Commencement: S. 6 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-e456559d69417cc6b8a4bfcdbc2ec85d]: Textual amendment: S. 6(1) substituted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 1(3)](https://www.legislation.gov.uk/asp/2013/7/section/1/3), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-e456559d69417cc6b8a4bfcdbc2ec85d]: Textual amendment: S. 6(1) substituted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 1(3)](https://www.legislation.gov.uk/asp/2013/7/section/1/3), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-4083681489e6a4258af5468170006315]: Commencement: S. 7 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-4083681489e6a4258af5468170006315]: Commencement: S. 7 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-88124237f7eb3c6fc5c25c8f1c773396]: Commencement: S. 8 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-88124237f7eb3c6fc5c25c8f1c773396]: Commencement: S. 8 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-c368c7f3d47f638acc96b11a49d91e8f]: Commencement: S. 9 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-c368c7f3d47f638acc96b11a49d91e8f]: Commencement: S. 9 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-aff921d24ef221f724e807e265c37d86]: Commencement: S. 10 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-aff921d24ef221f724e807e265c37d86]: Commencement: S. 10 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-a8dd665c94dd650ba5fa74c8359879f8]: Commencement: S. 11 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-a8dd665c94dd650ba5fa74c8359879f8]: Commencement: S. 11 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-070d86fb7d09e2de34f6e063420b8a34]: Textual amendment: Words in s. 12 substituted (2.12.2011) by [The Aquatic Animal Health (Miscellaneous Modifications) (Scotland) RegulationsÂ 2011 (S.S.I. 2011/427)](https://www.legislation.gov.uk/ssi/2011/427), [reg. 3(2)(a)](https://www.legislation.gov.uk/ssi/2011/427/regulation/3/2/a)
+[^c-070d86fb7d09e2de34f6e063420b8a34]: Textual amendment: Words in s. 12 substituted (2.12.2011) by [The Aquatic Animal Health (Miscellaneous Modifications) (Scotland) RegulationsÂ 2011 (S.S.I. 2011/427)](https://www.legislation.gov.uk/ssi/2011/427), [reg. 3(2)(a)](https://www.legislation.gov.uk/ssi/2011/427/regulation/3/2/a)
 
-[^key-cfb65be2415cb5ae45f12d2952ce34fe]: Textual amendment: Words in s. 12 substituted (2.12.2011) by [The Aquatic Animal Health (Miscellaneous Modifications) (Scotland) RegulationsÂ 2011 (S.S.I. 2011/427)](https://www.legislation.gov.uk/ssi/2011/427), [reg. 3(2)(b)](https://www.legislation.gov.uk/ssi/2011/427/regulation/3/2/b)
+[^c-cfb65be2415cb5ae45f12d2952ce34fe]: Textual amendment: Words in s. 12 substituted (2.12.2011) by [The Aquatic Animal Health (Miscellaneous Modifications) (Scotland) RegulationsÂ 2011 (S.S.I. 2011/427)](https://www.legislation.gov.uk/ssi/2011/427), [reg. 3(2)(b)](https://www.legislation.gov.uk/ssi/2011/427/regulation/3/2/b)
 
-[^key-1098fda7db3cbcf90c4257aaacdd5cea]: Commencement: S. 13 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-1098fda7db3cbcf90c4257aaacdd5cea]: Commencement: S. 13 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-3bc99d724a509413c37390151dea638d]: Commencement: S. 14 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-3bc99d724a509413c37390151dea638d]: Commencement: S. 14 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-07336f9b912c809bfd6522ca96b79a0a]: Commencement: S. 15 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-07336f9b912c809bfd6522ca96b79a0a]: Commencement: S. 15 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-0a0767842c35bf8d8e97a78194cdee6d]: Commencement: S. 16 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-0a0767842c35bf8d8e97a78194cdee6d]: Commencement: S. 16 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-6a9c9cf7686a4f8bd262d0271beb1cd1]: Commencement: S. 17 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-6a9c9cf7686a4f8bd262d0271beb1cd1]: Commencement: S. 17 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-e0c75f4721c5ad9c08684b22fb183c79]: Commencement: S. 18 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-e0c75f4721c5ad9c08684b22fb183c79]: Commencement: S. 18 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-76af52bd8d7ab25a697902768dd2933b]: Commencement: S. 19 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-76af52bd8d7ab25a697902768dd2933b]: Commencement: S. 19 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-8d575b94f526ac0dfb6f66c3e134d9bd]: Commencement: S. 20 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-8d575b94f526ac0dfb6f66c3e134d9bd]: Commencement: S. 20 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-56d4d84c6931b5606ba0bdd062e70f54]: Commencement: S. 21 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-56d4d84c6931b5606ba0bdd062e70f54]: Commencement: S. 21 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-9273c7230f355bcc96aa280c01c51199]: Commencement: S. 22 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-9273c7230f355bcc96aa280c01c51199]: Commencement: S. 22 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-066c81a50e7f5517ef407af89e0cccb3]: Commencement: S. 23 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-066c81a50e7f5517ef407af89e0cccb3]: Commencement: S. 23 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-393696eb0e4d04a91aea67f42d493859]: Commencement: S. 24 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-393696eb0e4d04a91aea67f42d493859]: Commencement: S. 24 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-c58dc79e5329236e68ac1ce381dca2a2]: Textual amendment: Pt. 4 title substituted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 60(5)](https://www.legislation.gov.uk/asp/2013/7/section/60/5), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-c58dc79e5329236e68ac1ce381dca2a2]: Textual amendment: Pt. 4 title substituted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 60(5)](https://www.legislation.gov.uk/asp/2013/7/section/60/5), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
 [^M_F_52b38a61-f291-4361-b0b2-a7e17858d172]: Textual amendment: S. 25 cross-heading repealed (16.9.2013) by Aquaculture and Fisheries (Scotland) Act 2013 (asp 7), ss. 60(6), 66(2) (with s. 65); S.S.I. 2013/249, art. 2
 
-[^key-13eb39cee94974f54c845dc618860ba7]: Commencement: S. 25 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-13eb39cee94974f54c845dc618860ba7]: Commencement: S. 25 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-a80609454b5485621847794c8bb75d56]: Textual amendment: Words in s. 25(1) substituted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 60(2)(a)](https://www.legislation.gov.uk/asp/2013/7/section/60/2/a), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-a80609454b5485621847794c8bb75d56]: Textual amendment: Words in s. 25(1) substituted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 60(2)(a)](https://www.legislation.gov.uk/asp/2013/7/section/60/2/a), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-9efb953cb288f289a101420a83708fb4]: Textual amendment: Words in s. 25(2) repealed (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 60(2)(b)(i)](https://www.legislation.gov.uk/asp/2013/7/section/60/2/b/i), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-9efb953cb288f289a101420a83708fb4]: Textual amendment: Words in s. 25(2) repealed (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 60(2)(b)(i)](https://www.legislation.gov.uk/asp/2013/7/section/60/2/b/i), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-73beec0f24e84fcc30aec11a6a5c11ab]: Textual amendment: S. 25(2)(a)-(d) substituted (16.9.2013) for s. 25(2)(a)(b) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 60(2)(b)(ii)](https://www.legislation.gov.uk/asp/2013/7/section/60/2/b/ii), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-73beec0f24e84fcc30aec11a6a5c11ab]: Textual amendment: S. 25(2)(a)-(d) substituted (16.9.2013) for s. 25(2)(a)(b) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 60(2)(b)(ii)](https://www.legislation.gov.uk/asp/2013/7/section/60/2/b/ii), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-7eeeab00230339e5e78103b0ec2fd6da]: Textual amendment: S. 25(2A)-(2D) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 60(2)(c)](https://www.legislation.gov.uk/asp/2013/7/section/60/2/c), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-7eeeab00230339e5e78103b0ec2fd6da]: Textual amendment: S. 25(2A)-(2D) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 60(2)(c)](https://www.legislation.gov.uk/asp/2013/7/section/60/2/c), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-b15b70c625b0cf0df86e23437cc2fdb6]: Textual amendment: Words in s. 25(3) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 60(2)(d)(i)](https://www.legislation.gov.uk/asp/2013/7/section/60/2/d/i), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-b15b70c625b0cf0df86e23437cc2fdb6]: Textual amendment: Words in s. 25(3) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 60(2)(d)(i)](https://www.legislation.gov.uk/asp/2013/7/section/60/2/d/i), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-a8e02139235827891a2ed674fa4cb962]: Textual amendment: Words in s. 25(3) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 60(2)(d)(ii)](https://www.legislation.gov.uk/asp/2013/7/section/60/2/d/ii), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-a8e02139235827891a2ed674fa4cb962]: Textual amendment: Words in s. 25(3) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 60(2)(d)(ii)](https://www.legislation.gov.uk/asp/2013/7/section/60/2/d/ii), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-a4cf87749cb4c12dcd0273c77c612af8]: Commencement: S. 26 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-a4cf87749cb4c12dcd0273c77c612af8]: Commencement: S. 26 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-b24369bc1272dfff2bbe7be337959450]: Commencement: S. 27 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-b24369bc1272dfff2bbe7be337959450]: Commencement: S. 27 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-84602110121fbe3da3aecdb475b0141e]: Textual amendment: Words in s. 27(1) substituted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 60(3)(a)](https://www.legislation.gov.uk/asp/2013/7/section/60/3/a), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-84602110121fbe3da3aecdb475b0141e]: Textual amendment: Words in s. 27(1) substituted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 60(3)(a)](https://www.legislation.gov.uk/asp/2013/7/section/60/3/a), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-3e453829d9ee769c77761180181a8055]: Textual amendment: Words in s. 27(2) substituted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 60(3)(b)](https://www.legislation.gov.uk/asp/2013/7/section/60/3/b), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-3e453829d9ee769c77761180181a8055]: Textual amendment: Words in s. 27(2) substituted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 60(3)(b)](https://www.legislation.gov.uk/asp/2013/7/section/60/3/b), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-504828ce57f4923b66b028830165a900]: Commencement: S. 28 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-504828ce57f4923b66b028830165a900]: Commencement: S. 28 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-62a1db02758c4a2f41279a0fa398b464]: Commencement: S. 29 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-62a1db02758c4a2f41279a0fa398b464]: Commencement: S. 29 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-d3d7f10f7c2e15ee70a963ba62eac8af]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2007/12/section/30) in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-d3d7f10f7c2e15ee70a963ba62eac8af]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2007/12/section/30) in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-a4d4474af544f9633b34ace6efa6978d]: Commencement: S. 31 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-a4d4474af544f9633b34ace6efa6978d]: Commencement: S. 31 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-1b9735f0be5a0f28b9895d481b17090d]: Textual amendment: Words in s. 31(1) substituted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 60(4)](https://www.legislation.gov.uk/asp/2013/7/section/60/4), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-1b9735f0be5a0f28b9895d481b17090d]: Textual amendment: Words in s. 31(1) substituted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 60(4)](https://www.legislation.gov.uk/asp/2013/7/section/60/4), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-55c9184a18d69f131cad73077d47bd22]: Textual amendment: Pt. 4A title substituted (16.9.2013) for cross-heading by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 60(7)](https://www.legislation.gov.uk/asp/2013/7/section/60/7), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-55c9184a18d69f131cad73077d47bd22]: Textual amendment: Pt. 4A title substituted (16.9.2013) for cross-heading by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 60(7)](https://www.legislation.gov.uk/asp/2013/7/section/60/7), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-aa3ff8516d923bd62b0eb590deae0ef1]: Commencement: S. 32 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1) (with [art. 3](https://www.legislation.gov.uk/ssi/2007/333/article/3))
+[^c-aa3ff8516d923bd62b0eb590deae0ef1]: Commencement: S. 32 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1) (with [art. 3](https://www.legislation.gov.uk/ssi/2007/333/article/3))
 
-[^key-d29a2c250a319a0233284673cf131fac]: Commencement: S. 33 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-d29a2c250a319a0233284673cf131fac]: Commencement: S. 33 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-0123f7cfb30e474d5c9de2ff468d8b49]: Commencement: S. 34 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-0123f7cfb30e474d5c9de2ff468d8b49]: Commencement: S. 34 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-d9b53d751e781e0422a74069521a7cf6]: Commencement: S. 35 in force at 1.8.2008 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/333/article/2/2)
+[^c-d9b53d751e781e0422a74069521a7cf6]: Commencement: S. 35 in force at 1.8.2008 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/333/article/2/2)
 
-[^key-1778361d8f6f0025ae8be776f33dcb9b]: Commencement: S. 36 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-1778361d8f6f0025ae8be776f33dcb9b]: Commencement: S. 36 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-58aa550bdf10b99cb7f17fc09cbf0191]: Commencement: S. 37 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-58aa550bdf10b99cb7f17fc09cbf0191]: Commencement: S. 37 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-292e8627bfbd3576ef8a58578a7ee8a4]: Textual amendment: Words in s. 37(6) substituted (2.12.2011) by [The Aquatic Animal Health (Miscellaneous Modifications) (Scotland) RegulationsÂ 2011 (S.S.I. 2011/427)](https://www.legislation.gov.uk/ssi/2011/427), [reg. 3(3)(a)](https://www.legislation.gov.uk/ssi/2011/427/regulation/3/3/a)
+[^c-292e8627bfbd3576ef8a58578a7ee8a4]: Textual amendment: Words in s. 37(6) substituted (2.12.2011) by [The Aquatic Animal Health (Miscellaneous Modifications) (Scotland) RegulationsÂ 2011 (S.S.I. 2011/427)](https://www.legislation.gov.uk/ssi/2011/427), [reg. 3(3)(a)](https://www.legislation.gov.uk/ssi/2011/427/regulation/3/3/a)
 
-[^key-c3cd431b0c90684afe8021dcde3b2aae]: Textual amendment: Words in s. 37(6) substituted (2.12.2011) by [The Aquatic Animal Health (Miscellaneous Modifications) (Scotland) RegulationsÂ 2011 (S.S.I. 2011/427)](https://www.legislation.gov.uk/ssi/2011/427), [reg. 3(3)(b)](https://www.legislation.gov.uk/ssi/2011/427/regulation/3/3/b)
+[^c-c3cd431b0c90684afe8021dcde3b2aae]: Textual amendment: Words in s. 37(6) substituted (2.12.2011) by [The Aquatic Animal Health (Miscellaneous Modifications) (Scotland) RegulationsÂ 2011 (S.S.I. 2011/427)](https://www.legislation.gov.uk/ssi/2011/427), [reg. 3(3)(b)](https://www.legislation.gov.uk/ssi/2011/427/regulation/3/3/b)
 
-[^key-cc5bebf067f9dd5639d9bd96b8378122]: Commencement: S. 38 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-cc5bebf067f9dd5639d9bd96b8378122]: Commencement: S. 38 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-1dcd7ccebbbceeea9a86e880bba42cd7]: Commencement: S. 39 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-1dcd7ccebbbceeea9a86e880bba42cd7]: Commencement: S. 39 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-a154198a5cd24f2b70f6bc3749c19741]: Commencement: S. 40 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-a154198a5cd24f2b70f6bc3749c19741]: Commencement: S. 40 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-93cda095805b75294e51ba2a2aaa7886]: Commencement: S. 41 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-93cda095805b75294e51ba2a2aaa7886]: Commencement: S. 41 in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-129d3306d9d548b5dedce8ae00e150ff]: Textual amendment: Words in s. 43(3)(a) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 1(4)](https://www.legislation.gov.uk/asp/2013/7/section/1/4), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-129d3306d9d548b5dedce8ae00e150ff]: Textual amendment: Words in s. 43(3)(a) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 1(4)](https://www.legislation.gov.uk/asp/2013/7/section/1/4), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-90487d7fd7ff196502ef4b99600dff89]: Textual amendment: Words in s. 44 inserted (2.12.2011) by [The Aquatic Animal Health (Miscellaneous Modifications) (Scotland) Regulations 2011 (S.S.I. 2011/427)](https://www.legislation.gov.uk/ssi/2011/427), [reg. 3(4)](https://www.legislation.gov.uk/ssi/2011/427/regulation/3/4)
+[^c-90487d7fd7ff196502ef4b99600dff89]: Textual amendment: Words in s. 44 inserted (2.12.2011) by [The Aquatic Animal Health (Miscellaneous Modifications) (Scotland) Regulations 2011 (S.S.I. 2011/427)](https://www.legislation.gov.uk/ssi/2011/427), [reg. 3(4)](https://www.legislation.gov.uk/ssi/2011/427/regulation/3/4)
 
-[^key-298e60c3cf05e67f566061bb2a04e1b1]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/1) in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-298e60c3cf05e67f566061bb2a04e1b1]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/1) in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-a1654393bd0c27309f877ff732e5f17c]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/2) in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-a1654393bd0c27309f877ff732e5f17c]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/2) in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-066e05148a92f8f0f45143c359dc8fbb]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/3) in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-066e05148a92f8f0f45143c359dc8fbb]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/3) in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-ebfcb48bcefb68fb467fc1f8306da4e6]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/4) in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-ebfcb48bcefb68fb467fc1f8306da4e6]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/4) in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-75caaec351d012d0b62dc1f1745374f5]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/5) in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-75caaec351d012d0b62dc1f1745374f5]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/5) in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-d5c3212dcf90b7726eeaab2c822f2a3a]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/6) in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/333/article/4))
+[^c-d5c3212dcf90b7726eeaab2c822f2a3a]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/6) in force at 1.8.2007 by [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/333/article/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6A. “Long-term UK resident”: individuals[^key-68c449a76a7e74453225c9bd05249bad]
+## 6A. “Long-term UK resident”: individuals[^c-68c449a76a7e74453225c9bd05249bad]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ The required number is the number in the second column of the following table co
 
 ## Annotations
 
-[^key-68c449a76a7e74453225c9bd05249bad]: Textual amendment: [Ss. 6A-6C](https://www.legislation.gov.uk/ukpga/1984/51/section/6A) inserted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 44(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/44/3)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/44/4)
+[^c-68c449a76a7e74453225c9bd05249bad]: Textual amendment: [Ss. 6A-6C](https://www.legislation.gov.uk/ukpga/1984/51/section/6A) inserted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 44(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/44/3)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/44/4)

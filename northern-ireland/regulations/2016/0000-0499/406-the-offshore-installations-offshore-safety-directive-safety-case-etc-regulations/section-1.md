@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-3406bbb16bcdea6944217efc2b7e2797]
+## 1. Citation and commencement[^c-3406bbb16bcdea6944217efc2b7e2797]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ These Regulations may be cited as the Offshore Installations (Offshore Safety Di
 
 ## Annotations
 
-[^key-3406bbb16bcdea6944217efc2b7e2797]: Commencement: Reg. 1 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-3406bbb16bcdea6944217efc2b7e2797]: Commencement: Reg. 1 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

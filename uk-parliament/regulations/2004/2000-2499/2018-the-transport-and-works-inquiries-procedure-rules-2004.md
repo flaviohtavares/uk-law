@@ -46,11 +46,11 @@ Coming into force
 
 The Lord Chancellor, in exercise of the powers conferred upon him by section 9 of the Tribunals and Inquiries Act 1992 [^f00001], and after consultation with the Council on Tribunals, hereby makes the following Rules:
 
-## 1. Citation and commencement[^key-c7291744eff11dca58f4b9e3da45a164]
+## 1. Citation and commencement[^c-c7291744eff11dca58f4b9e3da45a164]
 
 These Rules may be cited as the Transport and Works (Inquiries Procedure) Rules 2004 and shall come into force on 23rd August 2004.
 
-## 2. Interpretation[^key-6f665fd387d3c5d55760200fef2634be]
+## 2. Interpretation[^c-6f665fd387d3c5d55760200fef2634be]
 
 (1) In these Rules references to sections are references to sections of the Transport and Works Act 1992 [^f00002], and—
 
@@ -88,7 +88,7 @@ These Rules may be cited as the Transport and Works (Inquiries Procedure) Rules 
 - (b) he shall consult or agree with himself upon any matter, or
 - (c) any other person shall serve a document upon the Secretary of State more than once.
 
-(3)[^key-ae1cab3d456987a17350f225cb823f2f] The requirements in rules 7(9), 12(5), 16(8), 17(2) and 21 to give any person who so requests an opportunity to inspect and take copies of any document or to provide copies to them, shall also be taken to have been satisfied where that person is notified of—
+(3)[^c-ae1cab3d456987a17350f225cb823f2f] The requirements in rules 7(9), 12(5), 16(8), 17(2) and 21 to give any person who so requests an opportunity to inspect and take copies of any document or to provide copies to them, shall also be taken to have been satisfied where that person is notified of—
 
 - (a) the publication of the document on a website;
 - (b) the address of the website;
@@ -97,7 +97,7 @@ These Rules may be cited as the Transport and Works (Inquiries Procedure) Rules 
 - (e) details of where and when copies of any document may be obtained; and
 - (f) any charge that will be levied for copies made of any document available for inspection or viewing.
 
-## 3. Application of Rules[^key-56bfba570499c2e1310a6921c4553972]
+## 3. Application of Rules[^c-56bfba570499c2e1310a6921c4553972]
 
 (1) These Rules shall apply in relation to any inquiry which is caused to be held pursuant to section 11—
 
@@ -106,7 +106,7 @@ These Rules may be cited as the Transport and Works (Inquiries Procedure) Rules 
 
 (2) In these Rules, references to the Secretary of State shall mean the National Assembly for Wales where an inquiry is to be held in relation to an application made to that Assembly.
 
-## 4. Preliminary action to be taken by the Secretary of State[^key-309cda4bcd78388b4cc47683b666e892]
+## 4. Preliminary action to be taken by the Secretary of State[^c-309cda4bcd78388b4cc47683b666e892]
 
 (1) Where the Secretary of State intends to cause an inquiry to be held, he shall, not later than 4 weeks after the date specified in paragraph (2), give written notice of that intention to the applicant, to each statutory objector, to any statutory body which has submitted an objection (unless such objection has been withdrawn) and to any official body which has made an official representation.
 
@@ -115,11 +115,11 @@ These Rules may be cited as the Transport and Works (Inquiries Procedure) Rules 
 - (a) in the case of an application to which section 9 applies, the date on which each House of Parliament passes a resolution under section 9(4) (or, if there are two such dates, the later of them); and
 - (b) in every other case, the date of expiry of the period within which an objection to the application may be made.
 
-## 5. Preliminary action to be taken by official bodies[^key-043878bf9c4fcc13b82463a116a5b7b4]
+## 5. Preliminary action to be taken by official bodies[^c-043878bf9c4fcc13b82463a116a5b7b4]
 
 Where an official body has made an official representation it shall (unless it has already done so) serve upon the Secretary of State, the applicant and any statutory objector an official case within 6 weeks of the starting date.
 
-## 6. Special procedure for major inquiries where Secretary of State causes a pre-inquiry meeting to be held[^key-9dcd2d019118644e0f45cf022002a655]
+## 6. Special procedure for major inquiries where Secretary of State causes a pre-inquiry meeting to be held[^c-9dcd2d019118644e0f45cf022002a655]
 
 (1) The Secretary of State may cause a pre-inquiry meeting to be held where it appears to him that this would be desirable because of the extent of interest in the inquiry and where he does so this rule applies.
 
@@ -156,7 +156,7 @@ shall within 8 weeks from the date of such notice serve upon the Secretary of St
 
 (12) The inspector may at any time hold such other meetings (including pre-inquiry meetings) as he considers necessary for the efficient and expeditious conduct of the inquiry and he shall arrange for such notice to be given of such meetings as appears to him necessary; and paragraph (11) shall apply to such meetings.
 
-## 7. Service of statements of case, etc[^key-f8cd6ffa9825c13298b1b8089e474092]
+## 7. Service of statements of case, etc[^c-f8cd6ffa9825c13298b1b8089e474092]
 
 (1) The applicant shall not later than—
 
@@ -168,7 +168,7 @@ serve a statement of case on the Secretary of State and on each statutory object
 (2) In addition to the statement of case served under paragraph (1), the applicant shall serve—
 
 - (a) upon the Secretary of State a copy of every document or the relevant part of any document which he intends to refer to or put in evidence and of the notice mentioned in sub-paragraph (b), and
-- (b)[^key-b9425da4e6632be841ad050a5636bf09] upon each statutory objector and each person who is required to serve a statement of case under paragraph (3), a notice giving—
+- (b)[^c-b9425da4e6632be841ad050a5636bf09] upon each statutory objector and each person who is required to serve a statement of case under paragraph (3), a notice giving—
   - (i) the names of all places, within each area in which the proposals contained in the application are to have effect (or as close as reasonably practicable to that area) where, at all reasonable hours until the date of commencement of the inquiry—
     - (aa) a copy of every document, or
     - (bb) the relevant part of any document,
@@ -198,7 +198,7 @@ shall within 6 weeks from the date of such notice or, where a pre-inquiry meetin
 
 (9) The applicant shall afford to any person who so requests a reasonable opportunity to inspect and, where practicable and subject to payment by that person of a reasonable charge, take copies of any statement or document which, or a copy of which, has been served on or by him in accordance with any of the preceding paragraphs of this rule; and shall specify in his statement of case the time and place at which the opportunity will be afforded.
 
-## 8. Further power of inspector to hold pre-inquiry meetings[^key-fe30e1a2a716f66dc5a2b35189c23221]
+## 8. Further power of inspector to hold pre-inquiry meetings[^c-fe30e1a2a716f66dc5a2b35189c23221]
 
 (1) Where no pre-inquiry meeting is held pursuant to rule 6, the inspector may hold one if he thinks it desirable.
 
@@ -206,7 +206,7 @@ shall within 6 weeks from the date of such notice or, where a pre-inquiry meetin
 
 (3) Rule 6(11) shall apply to a meeting held under this rule.
 
-## 9. Inquiry timetable[^key-801429a3c1c0e486457d4739abd8047b]
+## 9. Inquiry timetable[^c-801429a3c1c0e486457d4739abd8047b]
 
 (1) Where a pre-inquiry meeting is held pursuant to rule 6, the inspector shall at that meeting—
 
@@ -226,11 +226,11 @@ and shall arrange for written notice to be given of the date so specified to eve
 
 (5) An inspector may specify in a timetable arranged under paragraph (4) a date by which any proof of evidence and summary required by rule 16(1) to be sent to him shall be so sent.
 
-## 10. Notification of appointment of assessor[^key-7804fe0ce56ba31f0cdf0eeed3810c3c]
+## 10. Notification of appointment of assessor[^c-7804fe0ce56ba31f0cdf0eeed3810c3c]
 
 (1) Where the Secretary of State appoints an assessor, he shall notify the persons specified in rule 14(1) of the assessor’s name and of the matters on which he is to advise the inspector.
 
-## 11. Appointment of technical adviser[^key-471af81c30c17aa46ebabe875dd91af2]
+## 11. Appointment of technical adviser[^c-471af81c30c17aa46ebabe875dd91af2]
 
 (1) This rule applies where the Secretary of State has caused a pre-inquiry meeting to be held in pursuance of rule 6.
 
@@ -246,7 +246,7 @@ and shall arrange for written notice to be given of the date so specified to eve
 
 (7) The inspector may allow the technical adviser to alter or add to his report so far as may be necessary for the purposes of the inquiry; but he shall (if necessary by adjourning the inquiry) give every other person entitled to appear who is appearing at the inquiry an adequate opportunity of considering any such alteration or addition.
 
-## 12. Mediation[^key-92226b423e4a409a541fdf74404071a5]
+## 12. Mediation[^c-92226b423e4a409a541fdf74404071a5]
 
 (1) This rule applies where the Secretary of State has caused a pre-inquiry meeting to be held in pursuance of rule 6.
 
@@ -266,7 +266,7 @@ then he may, after consulting such persons entitled to appear at the inquiry as 
 
 (6) The inspector shall permit any person entitled to appear at the inquiry to address him on the report referred to in paragraph (5), but the mediator shall not give evidence at the inquiry.
 
-## 13. Date and notification of inquiry[^key-6e95cc8402237ed39a7c91debd2d2159]
+## 13. Date and notification of inquiry[^c-6e95cc8402237ed39a7c91debd2d2159]
 
 (1) The date fixed by the Secretary of State for the commencement of an inquiry shall be determined in consultation with the applicant but shall be—
 
@@ -302,7 +302,7 @@ and paragraph (3) shall apply to a variation of a date as it applied to the date
 
 (9) Any notice of inquiry posted or published pursuant to paragraph (6) shall contain a statement of the date, time and place of the inquiry, and of the relevant section under which the application has been made, together with a sufficient description of the proposals in the application to identify their location with or without reference to a specified map.
 
-## 14. Appearances at inquiry[^key-8677775e0dc8dc6a04dc6743292d62a4]
+## 14. Appearances at inquiry[^c-8677775e0dc8dc6a04dc6743292d62a4]
 
 (1) The persons entitled to appear at an inquiry are—
 
@@ -314,7 +314,7 @@ and paragraph (3) shall apply to a variation of a date as it applied to the date
 
 (3) Any person entitled or permitted to appear may do so on his own behalf or be represented by any other person.
 
-## 15. Representation of official bodies at inquiry[^key-b019b6737c74d5a384cfb39de10cea50]
+## 15. Representation of official bodies at inquiry[^c-b019b6737c74d5a384cfb39de10cea50]
 
 (1) An official body which has provided an official case shall arrange for its representative to attend the inquiry if the official body has received, not later than 4 weeks before the date fixed for the holding of any inquiry, a written request for such attendance from the Secretary of State, the applicant or a statutory objector.
 
@@ -322,7 +322,7 @@ and paragraph (3) shall apply to a variation of a date as it applied to the date
 
 (3) Nothing in paragraph (2) shall require a representative of an official body to answer any question which in the opinion of the inspector is directed to the merits of government policy or, in the case of any inquiry into an application to which section 9 applies, the merits of a resolution passed pursuant to section 9(4).
 
-## 16. Proofs of evidence[^key-e1c8a6c55c6a5e8fba481c2c95bcbf65]
+## 16. Proofs of evidence[^c-e1c8a6c55c6a5e8fba481c2c95bcbf65]
 
 (1) A person entitled to appear at an inquiry who proposes to give, or to call another person to give, evidence at the inquiry by reading a proof of evidence shall send to the inspector a copy of the proof and (subject to paragraph (2)) a written summary of it.
 
@@ -343,13 +343,13 @@ and paragraph (3) shall apply to a variation of a date as it applied to the date
 
 (8) The applicant shall afford to any person who so requests a reasonable opportunity to inspect and, where practicable and on payment of a reasonable charge, take copies of any document sent to or by him in accordance with any of the preceding paragraphs of this rule.
 
-## 17. Statement of common ground[^key-3c67b8e375a4b025fab0c2cfe8ea2bbd]
+## 17. Statement of common ground[^c-3c67b8e375a4b025fab0c2cfe8ea2bbd]
 
 (1) Where practicable, the applicant and any other party who wishes to participate in the inquiry may together prepare an agreed statement of common ground, and where this is done the applicant shall send a copy of such statement to the inspector no later than 4 weeks before the date fixed for the commencement of the inquiry.
 
 (2) The applicant shall afford to any person who so requests a reasonable opportunity to inspect and, where practicable and on payment of a reasonable charge, take copies of any statement of common ground prepared under paragraph (1).
 
-## 18. Procedure at inquiry[^key-e62b3b65b8cf88ba6b309bd1ade1ccdf]
+## 18. Procedure at inquiry[^c-e62b3b65b8cf88ba6b309bd1ade1ccdf]
 
 (1) Except as otherwise provided in these Rules, the inspector shall determine the procedure at an inquiry.
 
@@ -386,7 +386,7 @@ which he considers to be irrelevant or repetitious but, where he refuses to perm
 
 (13) Any person who appears at an inquiry and makes a closing submission shall by the close of the inquiry provide the inspector with a copy of his closing submission in writing.
 
-## 19. Site inspections[^key-a8644dc96237a805dc7d41e9c77f7e1b]
+## 19. Site inspections[^c-a8644dc96237a805dc7d41e9c77f7e1b]
 
 (1) The inspector may make an unaccompanied inspection of any site to which the application relates before or during an inquiry without giving notice of his intention to the persons specified in rule 14(1).
 
@@ -396,7 +396,7 @@ which he considers to be irrelevant or repetitious but, where he refuses to perm
 
 (4) The inspector shall not be bound to defer an inspection of the kind referred to in paragraph (2) where any person mentioned in that paragraph is not present at the time appointed.
 
-## 20. Procedure after inquiry[^key-4d1b3d24d53237acafeccc16ea0b31e1]
+## 20. Procedure after inquiry[^c-4d1b3d24d53237acafeccc16ea0b31e1]
 
 (1) After the close of an inquiry, the inspector shall make a report in writing to the Secretary of State, which shall include his conclusions and his recommendations or his reasons for not making any recommendations.
 
@@ -426,7 +426,7 @@ and is for that reason disposed to disagree with a recommendation made by the in
   - (i) as if references to an inquiry were references to a re-opened inquiry, but with the substitution in paragraph (3) of “4 weeks” for “6 weeks”; and
   - (ii) as if the words “whether or not the revised date is within the applicable period mentioned in paragraph (1)” were omitted from paragraph (4)(a).
 
-## 21. Notification of decision[^key-fd70ff42cdb2b5bf9d5d552e1b34005a]
+## 21. Notification of decision[^c-fd70ff42cdb2b5bf9d5d552e1b34005a]
 
 (1) Where the Secretary of State has published and given notice of his decision under section 14 and a copy of the inspector’s report is not sent with the notification of the decision, the notification shall be accompanied by a copy of the inspector’s conclusions and any recommendations made by him.
 
@@ -436,7 +436,7 @@ and is for that reason disposed to disagree with a recommendation made by the in
 
 (4) In this rule “ inspector’s report” includes any assessor’s report appended to it but does not include any other documents so appended, but any person who has received a copy of the inspector’s report may apply to the Secretary of State in writing, within 6 weeks of the date of the Secretary of State’s decision, for an opportunity of inspecting any such documents and the Secretary of State shall afford him that opportunity.
 
-## 22. Procedure following quashing of decision[^key-a59f164a5a405d2763bc7dd2ee174f51]
+## 22. Procedure following quashing of decision[^c-a59f164a5a405d2763bc7dd2ee174f51]
 
 (1) Where a decision of the Secretary of State on an application in respect of which an inquiry has been held is quashed in proceedings before any court, the Secretary of State—
 
@@ -448,13 +448,13 @@ and is for that reason disposed to disagree with a recommendation made by the in
 
 (2) Any persons making representations or asking for the inquiry to be re-opened under paragraph (1)(b) shall submit such representations or requests to the Secretary of State within 3 weeks of the date of the written statement sent under paragraph (1)(a).
 
-## 23. Allowing further time[^key-b674e684b91808c0aa422a406b5d5087]
+## 23. Allowing further time[^c-b674e684b91808c0aa422a406b5d5087]
 
 The Secretary of State may at any time in any particular case allow further time for the taking of any step which is required or enabled to be taken by virtue of these Rules, and references in these Rules to a day by which, or a period within which, any step is required or enabled to be taken shall be construed accordingly.
 
-## 24. Service of notices[^key-b79596333ddcf7867d8c8d18508cb91c]
+## 24. Service of notices[^c-b79596333ddcf7867d8c8d18508cb91c]
 
-(1)[^key-710173ed38007dd395598aea5de7e714] Notices or documents required or authorised to be served or sent under any of the provisions of these Rules may be effected by—
+(1)[^c-710173ed38007dd395598aea5de7e714] Notices or documents required or authorised to be served or sent under any of the provisions of these Rules may be effected by—
 
 - (a) sending by post;
 - (b) subject to paragraphs (2) to (5), sending by electronic transmission; or
@@ -467,17 +467,17 @@ The Secretary of State may at any time in any particular case allow further time
 
 (3) Where the recipient of a notice or other document served or sent by electronic transmission notifies the sender within 7 days of receipt that he requires a paper copy of all or any part of that notice or other document the sender shall provide such a copy as soon as reasonably practicable.
 
-(4)[^key-4f176d9c373c71a154e7796124f50b34] A person may—
+(4)[^c-4f176d9c373c71a154e7796124f50b34] A person may—
 
 - (a) revoke their consent to the use of electronic transmission; or
 - (b) in accordance with paragraph (5), request that the use of electronic transmission ceases.
 
-(5) Where a person is not[^key-6c9a947e1dad794e5a663b18256ad342] willing to accept the use of electronic transmission for any of the purposes of these Rules he shall—
+(5) Where a person is not[^c-6c9a947e1dad794e5a663b18256ad342] willing to accept the use of electronic transmission for any of the purposes of these Rules he shall—
 
 - (a) give notice in writing or by electronic transmission revoking any consent given by him for that purpose; and
 - (b) such revocation shall be final and shall take effect on a date specified by the person in the notice but that date shall not be less than 7 days after the date on which the notice is given.
 
-(6)[^key-d92d7f7c16a333207ff394b38d7bb24e] The requirements referred to in paragraph (1)(c) are that the person upon whom the notice or other document is being served or sent is notified in writing of—
+(6)[^c-d92d7f7c16a333207ff394b38d7bb24e] The requirements referred to in paragraph (1)(c) are that the person upon whom the notice or other document is being served or sent is notified in writing of—
 
 - (a) the publication of the relevant document on a website;
 - (b) the address of the website;
@@ -488,7 +488,7 @@ The Secretary of State may at any time in any particular case allow further time
 
 (7) In this rule, “**served or sent**” includes “submitted” or “provided”.
 
-## 25. Revocation, savings and transitional provisions[^key-41d2a3e1a436e5f55ad160e23ef52344]
+## 25. Revocation, savings and transitional provisions[^c-41d2a3e1a436e5f55ad160e23ef52344]
 
 (1) Subject to paragraph (2), the Transport and Works (Inquiries Procedure) Rules 1992 [^f00004] (“the 1992 Rules”) are hereby revoked.
 
@@ -518,70 +518,70 @@ A Regulatory Impact Assessment has been prepared in relation to these Rules. It 
 
 [^f00001]: Footnote: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
 
-[^key-c7291744eff11dca58f4b9e3da45a164]: Commencement: Rule 1 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
+[^c-c7291744eff11dca58f4b9e3da45a164]: Commencement: Rule 1 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
 
-[^key-6f665fd387d3c5d55760200fef2634be]: Commencement: Rule 2 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
+[^c-6f665fd387d3c5d55760200fef2634be]: Commencement: Rule 2 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
 
 [^f00002]: Footnote: [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42).
 
-[^key-ae1cab3d456987a17350f225cb823f2f]: Textual amendment: [Rule 2(3)](https://www.legislation.gov.uk/uksi/2004/2018/rule/2/3) inserted (11.8.2023) by [The Transport and Works (Applications, Objections and Inquiries Procedure) (Amendment) (England and Wales) Rules 2023 (S.I. 2023/795)](https://www.legislation.gov.uk/uksi/2023/795), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/795/rule/2/2) (with [rule 1(5)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/5))
+[^c-ae1cab3d456987a17350f225cb823f2f]: Textual amendment: [Rule 2(3)](https://www.legislation.gov.uk/uksi/2004/2018/rule/2/3) inserted (11.8.2023) by [The Transport and Works (Applications, Objections and Inquiries Procedure) (Amendment) (England and Wales) Rules 2023 (S.I. 2023/795)](https://www.legislation.gov.uk/uksi/2023/795), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/795/rule/2/2) (with [rule 1(5)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/5))
 
-[^key-56bfba570499c2e1310a6921c4553972]: Commencement: Rule 3 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
+[^c-56bfba570499c2e1310a6921c4553972]: Commencement: Rule 3 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
 
 [^f00003]: Footnote: The functions of the Secretary of State under section 11 were, so far as exercisable in relation to Wales, transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). See article 2 and the entry in Schedule 1 for the Transport and Works Act 1992.
 
-[^key-309cda4bcd78388b4cc47683b666e892]: Commencement: Rule 4 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
+[^c-309cda4bcd78388b4cc47683b666e892]: Commencement: Rule 4 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
 
-[^key-043878bf9c4fcc13b82463a116a5b7b4]: Commencement: Rule 5 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
+[^c-043878bf9c4fcc13b82463a116a5b7b4]: Commencement: Rule 5 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
 
-[^key-9dcd2d019118644e0f45cf022002a655]: Commencement: Rule 6 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
+[^c-9dcd2d019118644e0f45cf022002a655]: Commencement: Rule 6 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
 
-[^key-f8cd6ffa9825c13298b1b8089e474092]: Commencement: Rule 7 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
+[^c-f8cd6ffa9825c13298b1b8089e474092]: Commencement: Rule 7 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
 
-[^key-b9425da4e6632be841ad050a5636bf09]: Textual amendment: [Rule 7(2)(b)](https://www.legislation.gov.uk/uksi/2004/2018/rule/7/2/b) substituted (11.8.2023) by [The Transport and Works (Applications, Objections and Inquiries Procedure) (Amendment) (England and Wales) Rules 2023 (S.I. 2023/795)](https://www.legislation.gov.uk/uksi/2023/795), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/795/rule/2/3) (with [rule 1(5)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/5))
+[^c-b9425da4e6632be841ad050a5636bf09]: Textual amendment: [Rule 7(2)(b)](https://www.legislation.gov.uk/uksi/2004/2018/rule/7/2/b) substituted (11.8.2023) by [The Transport and Works (Applications, Objections and Inquiries Procedure) (Amendment) (England and Wales) Rules 2023 (S.I. 2023/795)](https://www.legislation.gov.uk/uksi/2023/795), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/795/rule/2/3) (with [rule 1(5)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/5))
 
-[^key-fe30e1a2a716f66dc5a2b35189c23221]: Commencement: Rule 8 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
+[^c-fe30e1a2a716f66dc5a2b35189c23221]: Commencement: Rule 8 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
 
-[^key-801429a3c1c0e486457d4739abd8047b]: Commencement: Rule 9 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
+[^c-801429a3c1c0e486457d4739abd8047b]: Commencement: Rule 9 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
 
-[^key-7804fe0ce56ba31f0cdf0eeed3810c3c]: Commencement: Rule 10 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
+[^c-7804fe0ce56ba31f0cdf0eeed3810c3c]: Commencement: Rule 10 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
 
-[^key-471af81c30c17aa46ebabe875dd91af2]: Commencement: Rule 11 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
+[^c-471af81c30c17aa46ebabe875dd91af2]: Commencement: Rule 11 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
 
-[^key-92226b423e4a409a541fdf74404071a5]: Commencement: Rule 12 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
+[^c-92226b423e4a409a541fdf74404071a5]: Commencement: Rule 12 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
 
-[^key-6e95cc8402237ed39a7c91debd2d2159]: Commencement: Rule 13 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
+[^c-6e95cc8402237ed39a7c91debd2d2159]: Commencement: Rule 13 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
 
-[^key-8677775e0dc8dc6a04dc6743292d62a4]: Commencement: Rule 14 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
+[^c-8677775e0dc8dc6a04dc6743292d62a4]: Commencement: Rule 14 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
 
-[^key-b019b6737c74d5a384cfb39de10cea50]: Commencement: Rule 15 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
+[^c-b019b6737c74d5a384cfb39de10cea50]: Commencement: Rule 15 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
 
-[^key-e1c8a6c55c6a5e8fba481c2c95bcbf65]: Commencement: Rule 16 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
+[^c-e1c8a6c55c6a5e8fba481c2c95bcbf65]: Commencement: Rule 16 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
 
-[^key-3c67b8e375a4b025fab0c2cfe8ea2bbd]: Commencement: Rule 17 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
+[^c-3c67b8e375a4b025fab0c2cfe8ea2bbd]: Commencement: Rule 17 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
 
-[^key-e62b3b65b8cf88ba6b309bd1ade1ccdf]: Commencement: Rule 18 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
+[^c-e62b3b65b8cf88ba6b309bd1ade1ccdf]: Commencement: Rule 18 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
 
-[^key-a8644dc96237a805dc7d41e9c77f7e1b]: Commencement: Rule 19 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
+[^c-a8644dc96237a805dc7d41e9c77f7e1b]: Commencement: Rule 19 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
 
-[^key-4d1b3d24d53237acafeccc16ea0b31e1]: Commencement: Rule 20 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
+[^c-4d1b3d24d53237acafeccc16ea0b31e1]: Commencement: Rule 20 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
 
-[^key-fd70ff42cdb2b5bf9d5d552e1b34005a]: Commencement: Rule 21 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
+[^c-fd70ff42cdb2b5bf9d5d552e1b34005a]: Commencement: Rule 21 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
 
-[^key-a59f164a5a405d2763bc7dd2ee174f51]: Commencement: Rule 22 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
+[^c-a59f164a5a405d2763bc7dd2ee174f51]: Commencement: Rule 22 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
 
-[^key-b674e684b91808c0aa422a406b5d5087]: Commencement: Rule 23 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
+[^c-b674e684b91808c0aa422a406b5d5087]: Commencement: Rule 23 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
 
-[^key-b79596333ddcf7867d8c8d18508cb91c]: Commencement: Rule 24 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
+[^c-b79596333ddcf7867d8c8d18508cb91c]: Commencement: Rule 24 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
 
-[^key-710173ed38007dd395598aea5de7e714]: Textual amendment: [Rule 24(1)](https://www.legislation.gov.uk/uksi/2004/2018/rule/24/1)[(2)](https://www.legislation.gov.uk/uksi/2004/2018/rule/24/2) substituted (11.8.2023) by [The Transport and Works (Applications, Objections and Inquiries Procedure) (Amendment) (England and Wales) Rules 2023 (S.I. 2023/795)](https://www.legislation.gov.uk/uksi/2023/795), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2023/795/rule/2/4/a) (with [rule 1(5)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/5))
+[^c-710173ed38007dd395598aea5de7e714]: Textual amendment: [Rule 24(1)](https://www.legislation.gov.uk/uksi/2004/2018/rule/24/1)[(2)](https://www.legislation.gov.uk/uksi/2004/2018/rule/24/2) substituted (11.8.2023) by [The Transport and Works (Applications, Objections and Inquiries Procedure) (Amendment) (England and Wales) Rules 2023 (S.I. 2023/795)](https://www.legislation.gov.uk/uksi/2023/795), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2023/795/rule/2/4/a) (with [rule 1(5)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/5))
 
-[^key-4f176d9c373c71a154e7796124f50b34]: Textual amendment: [Rule 24(4)](https://www.legislation.gov.uk/uksi/2004/2018/rule/24/4) substituted (11.8.2023) by [The Transport and Works (Applications, Objections and Inquiries Procedure) (Amendment) (England and Wales) Rules 2023 (S.I. 2023/795)](https://www.legislation.gov.uk/uksi/2023/795), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2023/795/rule/2/4/b) (with [rule 1(5)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/5))
+[^c-4f176d9c373c71a154e7796124f50b34]: Textual amendment: [Rule 24(4)](https://www.legislation.gov.uk/uksi/2004/2018/rule/24/4) substituted (11.8.2023) by [The Transport and Works (Applications, Objections and Inquiries Procedure) (Amendment) (England and Wales) Rules 2023 (S.I. 2023/795)](https://www.legislation.gov.uk/uksi/2023/795), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2023/795/rule/2/4/b) (with [rule 1(5)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/5))
 
-[^key-6c9a947e1dad794e5a663b18256ad342]: Textual amendment: Words in [rule 24(5)](https://www.legislation.gov.uk/uksi/2004/2018/rule/24/5) substituted (11.8.2023) by [The Transport and Works (Applications, Objections and Inquiries Procedure) (Amendment) (England and Wales) Rules 2023 (S.I. 2023/795)](https://www.legislation.gov.uk/uksi/2023/795), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2023/795/rule/2/5) (with [rule 1(5)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/5))
+[^c-6c9a947e1dad794e5a663b18256ad342]: Textual amendment: Words in [rule 24(5)](https://www.legislation.gov.uk/uksi/2004/2018/rule/24/5) substituted (11.8.2023) by [The Transport and Works (Applications, Objections and Inquiries Procedure) (Amendment) (England and Wales) Rules 2023 (S.I. 2023/795)](https://www.legislation.gov.uk/uksi/2023/795), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2023/795/rule/2/5) (with [rule 1(5)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/5))
 
-[^key-d92d7f7c16a333207ff394b38d7bb24e]: Textual amendment: [Rule 24(6)](https://www.legislation.gov.uk/uksi/2004/2018/rule/24/6)[(7)](https://www.legislation.gov.uk/uksi/2004/2018/rule/24/7) inserted (11.8.2023) by [The Transport and Works (Applications, Objections and Inquiries Procedure) (Amendment) (England and Wales) Rules 2023 (S.I. 2023/795)](https://www.legislation.gov.uk/uksi/2023/795), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2023/795/rule/2/6) (with [rule 1(5)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/5))
+[^c-d92d7f7c16a333207ff394b38d7bb24e]: Textual amendment: [Rule 24(6)](https://www.legislation.gov.uk/uksi/2004/2018/rule/24/6)[(7)](https://www.legislation.gov.uk/uksi/2004/2018/rule/24/7) inserted (11.8.2023) by [The Transport and Works (Applications, Objections and Inquiries Procedure) (Amendment) (England and Wales) Rules 2023 (S.I. 2023/795)](https://www.legislation.gov.uk/uksi/2023/795), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2023/795/rule/2/6) (with [rule 1(5)](https://www.legislation.gov.uk/uksi/2023/795/rule/1/5))
 
-[^key-41d2a3e1a436e5f55ad160e23ef52344]: Commencement: Rule 25 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
+[^c-41d2a3e1a436e5f55ad160e23ef52344]: Commencement: Rule 25 in force at 23.8.2004, see [rule 1](https://www.legislation.gov.uk/uksi/2004/2018/rule/1)
 
 [^f00004]: Footnote: [S.I. 1992/2817](https://www.legislation.gov.uk/uksi/1992/2817).

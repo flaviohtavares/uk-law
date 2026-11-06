@@ -46,13 +46,13 @@ In accordance with section 11(2) and paragraph 4(3) of schedule 9 of that Act th
 
 In accordance with section 79(2)(c) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament[^f00002].
 
-## 1. Citation and commencement[^key-3d042944f6c24ff5bb17083fc134c728]
+## 1. Citation and commencement[^c-3d042944f6c24ff5bb17083fc134c728]
 
 (1) These Regulations may be cited as the First-tier Tribunal for Scotland General Regulatory Chamber (Police Appeals) (Procedure) Regulations 2025, and the Rules set out in the schedule may be cited as The First-tier Tribunal for Scotland General Regulatory Chamber (Police Appeals) Rules of Procedure 2025.
 
 (2) These Regulations come into force on 29 December 2025.
 
-## 2. Application of the Rules set out in the schedule[^key-73b2ac8c62f119b34d91eb7f62659dfb]
+## 2. Application of the Rules set out in the schedule[^c-73b2ac8c62f119b34d91eb7f62659dfb]
 
 The Rules in the schedule apply to proceedings before the First-tier Tribunal for Scotland General Regulatory Chamber, when exercising the functions transferred to it by regulation 2(1) of the First-tier Tribunal for Scotland (Transfer of Functions and Members of the Police Appeals Tribunal) Regulations 2025[^f00003].
 
@@ -70,7 +70,7 @@ Edinburgh
 
 Regulation 2
 
-### 1. Interpretation[^key-d4b8911a6bb6ae1b397a9773b7d6c01e]
+### 1. Interpretation[^c-d4b8911a6bb6ae1b397a9773b7d6c01e]
 
 (1) In these Rules—
 
@@ -80,14 +80,14 @@ Regulation 2
 - “**the 2014 Conduct Regulations**” means the Police Service of Scotland (Conduct) Regulations 2014[^f00007],
 - “**the 2014 Performance Regulations**” means the Police Service of Scotland (Performance) Regulations 2014[^f00008],
 - “**the 2016 Senior Officers Performance Regulations**” means the Police Service of Scotland (Senior Officers) (Performance) Regulations 2016[^f00009],
-- “[^key-3a801ee5f56f9ec94614cc2681999b02]**the 2024 Act**” means the United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024,
-- “[^key-51fe41827de8c79b437a0a0ca0ad0455]**the 2026 Vetting Regulations**” means the Police Service of Scotland (Vetting) Regulations 2026,
+- “[^c-3a801ee5f56f9ec94614cc2681999b02]**the 2024 Act**” means the United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024,
+- “[^c-51fe41827de8c79b437a0a0ca0ad0455]**the 2026 Vetting Regulations**” means the Police Service of Scotland (Vetting) Regulations 2026,
 - “**appeal**” means an appeal by a constable which is made under section 56(1) of the 2012 Act,
 - “**the appellant**” means the constable making an appeal,
 - “**chairing member**” means the legal member of the First-tier Tribunal chosen by the Chamber President to act as the chairing member (or if a Chamber President has not been appointed or is not available, by the President of Tribunals),
 - “**Chamber President**” means the Chamber President of the First-tier Tribunal,
 - “**chief constable**” means the constable appointed to the office of chief constable under section 7 of the 2012 Act,
-- “[^key-52632abf3821eb17c9fc9b2d331a034e]**compatibility question**” has the meaning given by section 31(1) of the 2024 Act,
+- “[^c-52632abf3821eb17c9fc9b2d331a034e]**compatibility question**” has the meaning given by section 31(1) of the 2024 Act,
 - “**constable**” has the meaning given by section 99(1) of the 2012 Act,
 - “**decision**” means a decision described in section 56(1) of the 2012 Act unless the context requires otherwise,
 - “**electronic communication**” has the meaning given by section 15(1) of the Electronic Communications Act 2000[^f00010] and “**electronic signature**” has the same meaning as in section 7 of that Act[^f00011],
@@ -107,8 +107,8 @@ Regulation 2
     - (ii) a further performance hearing to which a senior officer has been referred under regulation 37(4) of those Regulations,
 - “**Police Appeals Case**” means proceedings where the First-tier Tribunal is exercising the functions allocated to it by regulation 2(1) of the First-tier Tribunal for Scotland (Transfer of Functions and Members of the Police Appeals Tribunal) Regulations 2025,
 - “proceedings” mean proceedings before the First-tier Tribunal,
-- “[^key-e24576bbcd770f86be98d0d8c0e0c45e]**relevant authorities**” means the Lord Advocate, the Commissioner for Children and Young People in Scotland or the Scottish Commission for Human Rights,
-- “[^key-d33dc4a51f6e5f48c744844ec5d2c9c7]**the respondent**” means—
+- “[^c-e24576bbcd770f86be98d0d8c0e0c45e]**relevant authorities**” means the Lord Advocate, the Commissioner for Children and Young People in Scotland or the Scottish Commission for Human Rights,
+- “[^c-d33dc4a51f6e5f48c744844ec5d2c9c7]**the respondent**” means—
   - (a) for an appeal under section 56(1) of the 2012 Act against a decision made under the 2026 Vetting Regulations—
     - (i) in the case of an appeal by the chief constable, the Scottish Police Authority, and
     - (ii) in any other case, the chief constable,
@@ -118,11 +118,11 @@ Regulation 2
 - “**review**” means the internal review provided for by section 43(1) of the 2014 Act,
 - “**senior officer**” has the meaning given by section 99(1) of the 2012 Act,
 - “**the Scottish Police Authority**” means the body established in terms of section 1(1) of the 2012 Act, and
-- “[^key-f3756f0bddbd9a33bebc8770c8df68cd]**vetting appeal meeting**” means a meeting held under regulation 28 of the 2026 Vetting Regulations.
+- “[^c-f3756f0bddbd9a33bebc8770c8df68cd]**vetting appeal meeting**” means a meeting held under regulation 28 of the 2026 Vetting Regulations.
 
 (2) Any reference in these Rules to any document, notice, notification, reply or statement includes a reference to that document, notice, notification, reply or statement being an electronic communication which has been recorded and is consequently capable of being reproduced.
 
-### 2. Overriding objective[^key-375d58c478b93939800a6827868701b6]
+### 2. Overriding objective[^c-375d58c478b93939800a6827868701b6]
 
 (1) The overriding objective of the First-tier Tribunal is to deal with the proceedings fairly and justly.
 
@@ -134,7 +134,7 @@ Regulation 2
 - (d) using any special expertise of the First-tier Tribunal effectively, and
 - (e) avoiding delay, so far as compatible with proper consideration of the issues.
 
-### 3. Application by First-tier Tribunal of the overriding objective[^key-42cd817319655da0d24f9c41b8249b25]
+### 3. Application by First-tier Tribunal of the overriding objective[^c-42cd817319655da0d24f9c41b8249b25]
 
 (1) The Chamber President and the First-tier Tribunal must seek to give effect to the overriding objective when they—
 
@@ -143,13 +143,13 @@ Regulation 2
 
 (2) In particular, the First-tier Tribunal must actively manage proceedings in accordance with the overriding objective.
 
-### 4. Delegation to staff[^key-bd328cc1f4b890f7b5901eadcebbae82]
+### 4. Delegation to staff[^c-bd328cc1f4b890f7b5901eadcebbae82]
 
 (1) Staff of the Scottish Courts and Tribunals Service[^f00012] may, with the approval of the Chamber President, carry out functions of a judicial nature permitted or required to be done by the First-tier Tribunal provided the functions are of a preliminary or incidental nature.
 
 (2) The approval referred to at paragraph (1) may apply generally to the carrying out of specified functions by members of staff of a specified description in specified circumstances.
 
-### 5. Case management powers[^key-4afb17b1c3d5e79c13c977037f50924a]
+### 5. Case management powers[^c-4afb17b1c3d5e79c13c977037f50924a]
 
 (1) Subject to the provisions of the 2014 Act and these Rules, the First-tier Tribunal may regulate its own procedure.
 
@@ -179,7 +179,7 @@ Regulation 2
   - (i) any application to appeal against or have that decision reviewed, and
   - (ii) such appeal or review as the applicable tribunal may subsequently conduct.
 
-### 5A. Compatibility question under the 2024 Act - raising, intimation and notice[^key-201a2c99d0c446132dfec129afb1a6c6]
+### 5A. Compatibility question under the 2024 Act - raising, intimation and notice[^c-201a2c99d0c446132dfec129afb1a6c6]
 
 (1) This rule applies to—
 
@@ -223,7 +223,7 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (11) Where a relevant authority does not take part as a party to proceedings and that relevant authority requests to be notified of the outcome of proceedings in respect of the compatibility question, including regarding any subsequent appeal which relates to the determination of the compatibility question, the First-tier Tribunal must notify the relevant authority of this as soon as practicable.
 
-### 6. Notice of appeal[^key-23bd23093031f7e659076cd08b979831]
+### 6. Notice of appeal[^c-23bd23093031f7e659076cd08b979831]
 
 (1) An appeal to the First-tier Tribunal must be made by written notice sent by the appellant to the First-tier Tribunal.
 
@@ -242,7 +242,7 @@ on the basis of which it is claimed that the compatibility question arises.
   - (ii) where the disputed decision was made under the 2013 Senior Officers Conduct Regulations, a copy of the written notification given under regulation 24(1) of those Regulations,
   - (iii) where the disputed decision was made under the 2014 Performance Regulations, any written notice under regulation 39(2) of those Regulations,
   - (iv) where the disputed decision was under the 2016 Senior Officers Performance Regulations 2016, any written notice under regulation 35(2) of those Regulations,
-  - (v)[^key-34e73d3d66be35c79e319736cebdb29e] where the disputed decision was made under the 2026 Vetting Regulations, a copy of the written notification under regulation 29(5) of those Regulations, and
+  - (v)[^c-34e73d3d66be35c79e319736cebdb29e] where the disputed decision was made under the 2026 Vetting Regulations, a copy of the written notification under regulation 29(5) of those Regulations, and
 - (c) any documentary evidence upon which the appellant intends to rely for the purposes of the appeal.
 
 (4) The appellant or the appellant’s representative must sign the notice of appeal.
@@ -261,7 +261,7 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (9) The First-tier Tribunal must as soon as possible after receipt of the notice of appeal and any other document from a party to the proceedings, send a copy of that document to the other party.
 
-### 7. Reply by the respondent[^key-5e620bd1e8039b7988c61d45831ece24]
+### 7. Reply by the respondent[^c-5e620bd1e8039b7988c61d45831ece24]
 
 (1) The respondent must, not later than 21 days after the date on which a copy of the notice of appeal was sent to the respondent in terms of rule 6(9), send to the First-tier Tribunal a notice stating—
 
@@ -287,7 +287,7 @@ on the basis of which it is claimed that the compatibility question arises.
   - (i) the notice under regulation 29(1) of those Regulations,
   - (ii) the audio recording made under regulation 34(5) of those Regulations (or a written record of the hearing), and
   - (iii) the notice under regulation 35(2) of those Regulations, and
-- (ea)[^key-1a33a6bc9c5adf0432c0caf8eb21e691] where the disputed decision was made under the 2026 Vetting Regulations, a certified copy of—
+- (ea)[^c-1a33a6bc9c5adf0432c0caf8eb21e691] where the disputed decision was made under the 2026 Vetting Regulations, a certified copy of—
   - (i) the notice under regulation 18(1) of those Regulations in connection with the matter giving rise to the appeal,
   - (ii) the audio recording made under regulation 20(16) or (as the case may be) the written record sent under regulation 20(17) of those Regulations,
   - (iii) the audio recording made under regulation 28(13) or (as the case may be) the written record sent under regulation 28(14) of those Regulations,
@@ -305,7 +305,7 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (6) Where the respondent’s notice includes a request as mentioned in paragraph (4), the First-tier Tribunal must decide the matter as soon as reasonably practicable.
 
-### 8. Amendment of statements[^key-6e31c0c07b05db6b39bf344b874ac892]
+### 8. Amendment of statements[^c-6e31c0c07b05db6b39bf344b874ac892]
 
 (1) Within 14 days of the receipt of the notice sent to the First-tier Tribunal pursuant to rule 7(1), the First-tier Tribunal must send to each of the parties a notice informing the party that it may amend its statement required under rule 6(3)(a) or 7(2)(a) as the case may be, by sending a note of any amendments to the First-tier Tribunal, not later than 21 days after the date on which the notice is received by the party.
 
@@ -313,7 +313,7 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (3) In any case where the leave of the First-tier Tribunal is given for the purpose of paragraph (2), the party must send a note of the amendments to the First-tier Tribunal.
 
-### 9. Oral hearing[^key-95b4bf635273aa126ee59f16f907c0fd]
+### 9. Oral hearing[^c-95b4bf635273aa126ee59f16f907c0fd]
 
 (1) Not later than 14 days after—
 
@@ -326,7 +326,7 @@ the First-tier Tribunal must send a notice to each party requesting confirmation
 
 (3) If neither party requires an oral hearing then the appeal must be considered in accordance with rule 16(3) and the First-tier Tribunal must send a notice to each party not later than 14 days after receipt of the notices under paragraph (2) informing them that no oral hearing is to take place and that the First-tier Tribunal will determine the appeal without such a hearing taking place.
 
-### 10. Attendance of witness, production of documents, evidence and submissions[^key-06341a165e0d9c51f96105011b7b0bd1]
+### 10. Attendance of witness, production of documents, evidence and submissions[^c-06341a165e0d9c51f96105011b7b0bd1]
 
 (1) Subject to paragraph (2), the chairing member of the First-tier Tribunal may at any time require the appellant, respondent or any other person to attend a hearing to give evidence or to give to the First-tier Tribunal any such documents or information as the First-tier Tribunal may require—
 
@@ -374,9 +374,9 @@ the First-tier Tribunal must send a notice to each party requesting confirmation
 
 (10) No person may be compelled to give any evidence or produce any document that the person could not be compelled to give or produce in civil proceedings in a court in Scotland.
 
-### 11. Procedure at the hearing[^key-735c04c69e821498ad7ea6c8107731b4]
+### 11. Procedure at the hearing[^c-735c04c69e821498ad7ea6c8107731b4]
 
-(1) The procedure at a hearing of an appeal must be determined by the First-tier Tribunal and it has the power to hear any new evidence or to re-hear the evidence given at the misconduct hearing, performance hearing , inefficiency hearing or vetting appeal meeting[^key-dc7661921dc13c145d7b123102b9668f].
+(1) The procedure at a hearing of an appeal must be determined by the First-tier Tribunal and it has the power to hear any new evidence or to re-hear the evidence given at the misconduct hearing, performance hearing , inefficiency hearing or vetting appeal meeting[^c-dc7661921dc13c145d7b123102b9668f].
 
 (2) At the beginning of the hearing the chairing member of the First-tier Tribunal must explain the order of proceedings which the tribunal proposes to adopt.
 
@@ -390,7 +390,7 @@ the First-tier Tribunal must send a notice to each party requesting confirmation
 
 (5) At the hearing of the appeal the First-tier Tribunal may, if it is satisfied that it is just and reasonable to do so, permit a party to rely on grounds not stated in that party’s statement in terms of rule 6(3)(a) or 7(2)(a), or any amendment of it made in terms of rule 8, and to adduce any evidence not submitted with any such statement.
 
-### 12. Withdrawal of appeal[^key-fb2f8491760cf209ab5d8a233f9112fa]
+### 12. Withdrawal of appeal[^c-fb2f8491760cf209ab5d8a233f9112fa]
 
 (1) The appellant may withdraw the appeal**—**
 
@@ -399,11 +399,11 @@ the First-tier Tribunal must send a notice to each party requesting confirmation
 
 (2) Where an appeal is withdrawn, no further appeal may be made in relation to the same decision.
 
-### 13. Signature of documents[^key-7e43b8e2cbb46808609eb184a0b07f78]
+### 13. Signature of documents[^c-7e43b8e2cbb46808609eb184a0b07f78]
 
 A requirement in these Rules for a document to be signed by a person is satisfied, in the case of a document which is transmitted by electronic communication in accordance with these Rules, by electronic signature of the person who is required to sign the document.
 
-### 14. Sending and delivery of documents[^key-749ed74c2a580c7545c7ec1e08c8650c]
+### 14. Sending and delivery of documents[^c-749ed74c2a580c7545c7ec1e08c8650c]
 
 (1) This rule has effect in relation to any notice or other document required or authorised to be provided under a practice direction, an order or these Rules.
 
@@ -422,7 +422,7 @@ A requirement in these Rules for a document to be signed by a person is satisfie
 
 (7) Unless the contrary is shown, a document sent electronically is treated as delivered to the electronic address to which it is sent at 9.00 am on the next business day after it was sent.
 
-### 15. Notice of hearing[^key-1d05e36fbdba92b3bcf60921d9ba5d32]
+### 15. Notice of hearing[^c-1d05e36fbdba92b3bcf60921d9ba5d32]
 
 (1) The First-tier Tribunal must give each party entitled to attend a hearing notice of the time and place of any hearing not less than 21 days before the date so fixed.
 
@@ -443,7 +443,7 @@ A requirement in these Rules for a document to be signed by a person is satisfie
 
 (4) The notice must include a request to inform the First-tier Tribunal of any reasonable adjustments which any party may require which are relevant to the attendance of that party at the hearing.
 
-### 16. Hearing in absence of a party[^key-562d7580e1a046f8d2561398ac7b3afe]
+### 16. Hearing in absence of a party[^c-562d7580e1a046f8d2561398ac7b3afe]
 
 (1) Where either party to the appeal informs the First-tier Tribunal that it does not intend to appear at the hearing, the First-tier Tribunal is to determine a date by which that party may provide further written submissions to be considered at the hearing.
 
@@ -451,14 +451,14 @@ A requirement in these Rules for a document to be signed by a person is satisfie
 
 (3) Where both parties inform the First-tier Tribunal that they do not intend to appear or be represented at the hearing, the First-tier Tribunal may proceed to decide the appeal at any time after the date determined by the First-tier Tribunal in terms of paragraph (1).
 
-### 17. Absence of member of the First-tier Tribunal[^key-66663978115b187e2917861b9f8406c4]
+### 17. Absence of member of the First-tier Tribunal[^c-66663978115b187e2917861b9f8406c4]
 
 If, at or after the beginning of a hearing, a member of the First-tier Tribunal other than the chairing member is absent, the appeal may, with the consent of the parties, be heard by the other two members and, in that event—
 
 - (a) the First-tier Tribunal is deemed to be properly constituted, and
 - (b) the chairing member has a casting vote in taking the decision of the First-tier Tribunal if the votes are divided.
 
-### 18. Representatives[^key-0328fc68042b99a75f87d49f1e44b017]
+### 18. Representatives[^c-0328fc68042b99a75f87d49f1e44b017]
 
 (1) A party may be represented in any proceedings by a legal representative or lay representative whose details must be communicated to the First-tier Tribunal prior to any hearing.
 
@@ -475,7 +475,7 @@ If, at or after the beginning of a hearing, a member of the First-tier Tribunal 
 
 (6) Where a party is represented, the First-tier Tribunal must send all documents and notices concerning the proceedings to the representative instead of the party.
 
-### 19. Supporters[^key-df66e523e4f4e65aa20dc1573a24d6ef]
+### 19. Supporters[^c-df66e523e4f4e65aa20dc1573a24d6ef]
 
 (1) A party may be accompanied by another person to act as a supporter.
 
@@ -499,7 +499,7 @@ If, at or after the beginning of a hearing, a member of the First-tier Tribunal 
 - (a) it is of the opinion that the supporter is an unsuitable person to act as a supporter (whether generally or in the proceedings concerned), or
 - (b) it is satisfied that to so order would be in the interests of the efficient administration of justice.
 
-### 20. Failure of parties to attend[^key-06f395896a7877db337b7f6bdef6a206]
+### 20. Failure of parties to attend[^c-06f395896a7877db337b7f6bdef6a206]
 
 (1) If a party fails to be present or represented at a hearing, the First-tier Tribunal may, if it is satisfied that the party was duly notified of the hearing and is not aware of any good reason for such absence—
 
@@ -508,7 +508,7 @@ If, at or after the beginning of a hearing, a member of the First-tier Tribunal 
 
 (2) Before deciding to dispose of any appeal in the absence of a party, the First-tier Tribunal must consider any representations in writing submitted by that party.
 
-### 21. Hearings in public or in private[^key-84e35456f4d4b5c20df0513a0140c3b8]
+### 21. Hearings in public or in private[^c-84e35456f4d4b5c20df0513a0140c3b8]
 
 (1) A hearing must be held in public unless the First-tier Tribunal, on its own initiative or on an application by a party, decides that in the interests of justice, it is necessary to hold otherwise.
 
@@ -516,7 +516,7 @@ If, at or after the beginning of a hearing, a member of the First-tier Tribunal 
 
 (3) The First-tier Tribunal may prohibit photography or any audio or visual recording of the hearing by parties, except insofar as is required to make reasonable adjustment for a party or party’s representative or supporter in accordance with the Equality Act 2010[^f00013].
 
-### 22. Exclusion of persons disrupting proceedings[^key-55c22b900b7be7518b220c07174c5530]
+### 22. Exclusion of persons disrupting proceedings[^c-55c22b900b7be7518b220c07174c5530]
 
 (1) Without prejudice to any other powers it has, the First-tier Tribunal may exclude from any hearing, or part of it—
 
@@ -530,7 +530,7 @@ If, at or after the beginning of a hearing, a member of the First-tier Tribunal 
 
 (3) If the First-tier Tribunal decides to exclude a party, it must allow the representative of that party sufficient opportunity to consult the party.
 
-### 23. Persons entitled to be present[^key-f9910f0e550ebbe49c7ff83c0af2a6df]
+### 23. Persons entitled to be present[^c-f9910f0e550ebbe49c7ff83c0af2a6df]
 
 The following persons are entitled to attend a hearing whether or not it is in private—
 
@@ -538,7 +538,7 @@ The following persons are entitled to attend a hearing whether or not it is in p
 - (b) a member of staff of the Scottish Courts and Tribunals Service,
 - (c) any other person permitted by the First-tier Tribunal with the consent of the parties.
 
-### 24. Expenses[^key-cc90f361655968ace73210efe387b55e]
+### 24. Expenses[^c-cc90f361655968ace73210efe387b55e]
 
 (1) Subject to paragraph (2)—
 
@@ -549,7 +549,7 @@ The following persons are entitled to attend a hearing whether or not it is in p
 
 (3) An order under this Rule is not to be made against a party unless that party has been given an opportunity to make representations.
 
-### 25. Decisions of the First-tier Tribunal[^key-37314a645d5e46fde5d6859fe9f4b603]
+### 25. Decisions of the First-tier Tribunal[^c-37314a645d5e46fde5d6859fe9f4b603]
 
 (1) A decision of the First-tier Tribunal may be taken by a majority and the decision must record whether it was unanimous or taken by a majority.
 
@@ -570,7 +570,7 @@ The following persons are entitled to attend a hearing whether or not it is in p
 
 must be excluded from publication in terms of rule 26 and from inspection in the register in terms of rule 27.
 
-### 26. Publication of decisions[^key-fb307c8969c0686cec330100db2ac11e]
+### 26. Publication of decisions[^c-fb307c8969c0686cec330100db2ac11e]
 
 (1) The First-tier Tribunal must make arrangements for the public pronouncement of its decisions, whether by giving its decisions orally at a public hearing or by publishing its decisions in writing.
 
@@ -580,7 +580,7 @@ must be excluded from publication in terms of rule 26 and from inspection in the
 
 (4) Decisions may be published electronically.
 
-### 27. The register[^key-77bb4ab54f52905bd01d26bedb8eda83]
+### 27. The register[^c-77bb4ab54f52905bd01d26bedb8eda83]
 
 (1) A register of Police Appeals Cases (“**the register**”) must be kept by the First-tier Tribunal and must be open for the inspection during reasonable hours by any person without charge.
 
@@ -596,20 +596,20 @@ must be excluded from publication in terms of rule 26 and from inspection in the
 
 (4) Where any decision refers to any evidence that has been heard in private, the material relating to that evidence must be omitted from the register.
 
-### 28. Proof of documents and decisions[^key-86ef15eeafaa843e2d4bcfa2fcad76a5]
+### 28. Proof of documents and decisions[^c-86ef15eeafaa843e2d4bcfa2fcad76a5]
 
 (1) Any document purporting to be a document duly executed or issued by or on behalf of the First-tier Tribunal is, unless the contrary is proved, deemed to be a document so executed or issued as the case may be.
 
 (2) A document purporting to be certified by the First-tier Tribunal to be a true copy of any entry of a decision in the register is, unless the contrary is proved, sufficient evidence of the entry and of the matters contained in it.
 
-### 29. Correction of clerical mistakes or accidental slips or omissions[^key-58175b5387b9ab3b202042849201c85b]
+### 29. Correction of clerical mistakes or accidental slips or omissions[^c-58175b5387b9ab3b202042849201c85b]
 
 The First-tier Tribunal may at any time correct any clerical mistake or other accidental slip or omission contained in a decision, order or any notice or document produced by it, by—
 
 - (a) sending notification of the amended decision or order, or a copy of the amended notice or document to all parties, and
 - (b) making any necessary amendment to any information published in relation to the notice, decision, order or document.
 
-### 30. Review of a decision[^key-453df31d78542b8315c70e38ca9445bb]
+### 30. Review of a decision[^c-453df31d78542b8315c70e38ca9445bb]
 
 (1) The First-tier Tribunal may either at its own instance or at the request of a party review any decision made by it where it is necessary in the interests of justice to do so.
 
@@ -634,7 +634,7 @@ The First-tier Tribunal may at any time correct any clerical mistake or other ac
 
 (8) A review by the First-tier Tribunal in terms of paragraph (1) either at its own instance or on an application of a party does not affect the time limit of 30 days in regulation 2(1) of the Scottish Tribunals (Time Limits) Regulations 2016[^f00014] for making an application for permission to appeal.
 
-### 30A. Reference of compatibility question to the Court of Session[^key-f1ca63c62f1f2b3e0c05632bd221c70b]
+### 30A. Reference of compatibility question to the Court of Session[^c-f1ca63c62f1f2b3e0c05632bd221c70b]
 
 (1) If the First-tier Tribunal refers a compatibility question which arises in proceedings before it to the Inner House of the Court of Session for determination, it must intimate this in writing to all parties and the relevant authorities.
 
@@ -648,7 +648,7 @@ The First-tier Tribunal may at any time correct any clerical mistake or other ac
 
 (4) Where a relevant authority does not take part as a party to proceedings at first instance, that relevant authority is not precluded from taking part as a party in any subsequent reference to the Inner House of the Court of Session.
 
-### 31. Application for permission to appeal a decision of the First-tier Tribunal[^key-1c0e96dd0758e6d85a249ca08e6c458e]
+### 31. Application for permission to appeal a decision of the First-tier Tribunal[^c-1c0e96dd0758e6d85a249ca08e6c458e]
 
 (1) A party seeking permission to appeal under section 46(2)(a) of the 2014 Act must make a written application to the First-tier Tribunal for permission to appeal.
 
@@ -660,7 +660,7 @@ The First-tier Tribunal may at any time correct any clerical mistake or other ac
 
 (3) For the purposes of this rule, the definition of “appeal” in rule 1 does not apply.
 
-### 32. First-tier Tribunal’s consideration of application for permission to appeal[^key-0c2c97a087846572069eefa0c6985356]
+### 32. First-tier Tribunal’s consideration of application for permission to appeal[^c-0c2c97a087846572069eefa0c6985356]
 
 (1) The First-tier Tribunal must decide whether to give permission to appeal on any point of law identified in an application for permission to appeal made under rule 31.
 
@@ -687,13 +687,13 @@ Paragraph 4 of schedule 9 of the 2014 Act enables the Scottish Ministers, by reg
 
 [^f00002]: Footnote: The powers to make these Regulations are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). These Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.
 
-[^key-3d042944f6c24ff5bb17083fc134c728]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2025/384/regulation/1) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-3d042944f6c24ff5bb17083fc134c728]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2025/384/regulation/1) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
-[^key-73b2ac8c62f119b34d91eb7f62659dfb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2025/384/regulation/2) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-73b2ac8c62f119b34d91eb7f62659dfb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2025/384/regulation/2) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
 [^f00003]: Footnote: [S.S.I. 2025/378](https://www.legislation.gov.uk/ssi/2025/378).
 
-[^key-d4b8911a6bb6ae1b397a9773b7d6c01e]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/1) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-d4b8911a6bb6ae1b397a9773b7d6c01e]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/1) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
 [^f00004]: Footnote: [2012 asp 8](https://www.legislation.gov.uk/asp/2012/8) (“**the 2012 Act**”) as amended by the Police (Ethics, Conduct and Scrutiny) (Scotland) Act [2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5) (“**the 2025 Act**”). There are other amendments to the 2012 Act which are not relevant to these Regulations.
 
@@ -707,96 +707,96 @@ Paragraph 4 of schedule 9 of the 2014 Act enables the Scottish Ministers, by reg
 
 [^f00009]: Footnote: [S.S.I. 2016/51](https://www.legislation.gov.uk/ssi/2016/51) as amended by the 2012 Act and [S.S.I. 2020/453](https://www.legislation.gov.uk/ssi/2020/453).
 
-[^key-3a801ee5f56f9ec94614cc2681999b02]: Textual amendment: Words in [sch. rule 1(1)](https://www.legislation.gov.uk/ssi/2025/384/schedule/rule/1/1) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [9(2)(a)(i)](https://www.legislation.gov.uk/ssi/2026/34/regulation/9/2/a/i)
+[^c-3a801ee5f56f9ec94614cc2681999b02]: Textual amendment: Words in [sch. rule 1(1)](https://www.legislation.gov.uk/ssi/2025/384/schedule/rule/1/1) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [9(2)(a)(i)](https://www.legislation.gov.uk/ssi/2026/34/regulation/9/2/a/i)
 
-[^key-51fe41827de8c79b437a0a0ca0ad0455]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2025/384/schedule/rule/1) inserted (1.4.2026 with application in accordance with reg. 3(2) of the amending S.S.I.) by [The Police Service of Scotland (Vetting) Regulations 2026 (S.S.I. 2026/46)](https://www.legislation.gov.uk/ssi/2026/46), [regs. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1), [30(2)(a)](https://www.legislation.gov.uk/ssi/2026/46/regulation/30/2/a) (with [reg. 3(1)](https://www.legislation.gov.uk/ssi/2026/46/regulation/3/1)[(3)](https://www.legislation.gov.uk/ssi/2026/46/regulation/3/3))
+[^c-51fe41827de8c79b437a0a0ca0ad0455]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2025/384/schedule/rule/1) inserted (1.4.2026 with application in accordance with reg. 3(2) of the amending S.S.I.) by [The Police Service of Scotland (Vetting) Regulations 2026 (S.S.I. 2026/46)](https://www.legislation.gov.uk/ssi/2026/46), [regs. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1), [30(2)(a)](https://www.legislation.gov.uk/ssi/2026/46/regulation/30/2/a) (with [reg. 3(1)](https://www.legislation.gov.uk/ssi/2026/46/regulation/3/1)[(3)](https://www.legislation.gov.uk/ssi/2026/46/regulation/3/3))
 
-[^key-52632abf3821eb17c9fc9b2d331a034e]: Textual amendment: Words in [sch. rule 1(1)](https://www.legislation.gov.uk/ssi/2025/384/schedule/rule/1/1) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [9(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/34/regulation/9/2/a/ii)
+[^c-52632abf3821eb17c9fc9b2d331a034e]: Textual amendment: Words in [sch. rule 1(1)](https://www.legislation.gov.uk/ssi/2025/384/schedule/rule/1/1) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [9(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/34/regulation/9/2/a/ii)
 
 [^f00010]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
 
 [^f00011]: Footnote: Section 7 was amended by [S.I. 2016/696](https://www.legislation.gov.uk/uksi/2016/696).
 
-[^key-e24576bbcd770f86be98d0d8c0e0c45e]: Textual amendment: Words in [sch. rule 1(1)](https://www.legislation.gov.uk/ssi/2025/384/schedule/rule/1/1) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [9(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2026/34/regulation/9/2/a/iii)
+[^c-e24576bbcd770f86be98d0d8c0e0c45e]: Textual amendment: Words in [sch. rule 1(1)](https://www.legislation.gov.uk/ssi/2025/384/schedule/rule/1/1) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [9(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2026/34/regulation/9/2/a/iii)
 
-[^key-d33dc4a51f6e5f48c744844ec5d2c9c7]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2025/384/schedule/rule/1) substituted (1.4.2026 with application in accordance with reg. 3(2) of the amending S.S.I.) by [The Police Service of Scotland (Vetting) Regulations 2026 (S.S.I. 2026/46)](https://www.legislation.gov.uk/ssi/2026/46), [regs. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1), [30(2)(b)](https://www.legislation.gov.uk/ssi/2026/46/regulation/30/2/b) (with [reg. 3(1)](https://www.legislation.gov.uk/ssi/2026/46/regulation/3/1)[(3)](https://www.legislation.gov.uk/ssi/2026/46/regulation/3/3))
+[^c-d33dc4a51f6e5f48c744844ec5d2c9c7]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2025/384/schedule/rule/1) substituted (1.4.2026 with application in accordance with reg. 3(2) of the amending S.S.I.) by [The Police Service of Scotland (Vetting) Regulations 2026 (S.S.I. 2026/46)](https://www.legislation.gov.uk/ssi/2026/46), [regs. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1), [30(2)(b)](https://www.legislation.gov.uk/ssi/2026/46/regulation/30/2/b) (with [reg. 3(1)](https://www.legislation.gov.uk/ssi/2026/46/regulation/3/1)[(3)](https://www.legislation.gov.uk/ssi/2026/46/regulation/3/3))
 
-[^key-f3756f0bddbd9a33bebc8770c8df68cd]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2025/384/schedule/rule/1) inserted (1.4.2026 with application in accordance with reg. 3(2) of the amending S.S.I.) by [The Police Service of Scotland (Vetting) Regulations 2026 (S.S.I. 2026/46)](https://www.legislation.gov.uk/ssi/2026/46), [regs. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1), [30(2)(c)](https://www.legislation.gov.uk/ssi/2026/46/regulation/30/2/c) (with [reg. 3(1)](https://www.legislation.gov.uk/ssi/2026/46/regulation/3/1)[(3)](https://www.legislation.gov.uk/ssi/2026/46/regulation/3/3))
+[^c-f3756f0bddbd9a33bebc8770c8df68cd]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2025/384/schedule/rule/1) inserted (1.4.2026 with application in accordance with reg. 3(2) of the amending S.S.I.) by [The Police Service of Scotland (Vetting) Regulations 2026 (S.S.I. 2026/46)](https://www.legislation.gov.uk/ssi/2026/46), [regs. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1), [30(2)(c)](https://www.legislation.gov.uk/ssi/2026/46/regulation/30/2/c) (with [reg. 3(1)](https://www.legislation.gov.uk/ssi/2026/46/regulation/3/1)[(3)](https://www.legislation.gov.uk/ssi/2026/46/regulation/3/3))
 
-[^key-375d58c478b93939800a6827868701b6]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/2) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-375d58c478b93939800a6827868701b6]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/2) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
-[^key-42cd817319655da0d24f9c41b8249b25]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/3) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-42cd817319655da0d24f9c41b8249b25]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/3) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
-[^key-bd328cc1f4b890f7b5901eadcebbae82]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/4) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-bd328cc1f4b890f7b5901eadcebbae82]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/4) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
 [^f00012]: Footnote: The Scottish Courts and Tribunals Service was established by section 60 of the Judiciary and Courts (Scotland) Act [2008 (asp 6)](https://www.legislation.gov.uk/asp/2008/6), as amended by paragraph 1 of schedule 4 of the Courts Reform (Scotland) Act [2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18).
 
-[^key-4afb17b1c3d5e79c13c977037f50924a]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/5) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-4afb17b1c3d5e79c13c977037f50924a]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/5) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
-[^key-201a2c99d0c446132dfec129afb1a6c6]: Textual amendment: [Sch. rule 5A](https://www.legislation.gov.uk/ssi/2025/384/schedule/rule/5A) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [9(2)(b)](https://www.legislation.gov.uk/ssi/2026/34/regulation/9/2/b)
+[^c-201a2c99d0c446132dfec129afb1a6c6]: Textual amendment: [Sch. rule 5A](https://www.legislation.gov.uk/ssi/2025/384/schedule/rule/5A) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [9(2)(b)](https://www.legislation.gov.uk/ssi/2026/34/regulation/9/2/b)
 
-[^key-23bd23093031f7e659076cd08b979831]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/6) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-23bd23093031f7e659076cd08b979831]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/6) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
-[^key-34e73d3d66be35c79e319736cebdb29e]: Textual amendment: [Sch. rule 6(3)(b)(v)](https://www.legislation.gov.uk/ssi/2025/384/schedule/rule/6/3/b/v) inserted (1.4.2026 with application in accordance with reg. 3(2) of the amending S.S.I.) by [The Police Service of Scotland (Vetting) Regulations 2026 (S.S.I. 2026/46)](https://www.legislation.gov.uk/ssi/2026/46), [regs. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1), [30(3)](https://www.legislation.gov.uk/ssi/2026/46/regulation/30/3) (with [reg. 3(1)](https://www.legislation.gov.uk/ssi/2026/46/regulation/3/1)[(3)](https://www.legislation.gov.uk/ssi/2026/46/regulation/3/3))
+[^c-34e73d3d66be35c79e319736cebdb29e]: Textual amendment: [Sch. rule 6(3)(b)(v)](https://www.legislation.gov.uk/ssi/2025/384/schedule/rule/6/3/b/v) inserted (1.4.2026 with application in accordance with reg. 3(2) of the amending S.S.I.) by [The Police Service of Scotland (Vetting) Regulations 2026 (S.S.I. 2026/46)](https://www.legislation.gov.uk/ssi/2026/46), [regs. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1), [30(3)](https://www.legislation.gov.uk/ssi/2026/46/regulation/30/3) (with [reg. 3(1)](https://www.legislation.gov.uk/ssi/2026/46/regulation/3/1)[(3)](https://www.legislation.gov.uk/ssi/2026/46/regulation/3/3))
 
-[^key-5e620bd1e8039b7988c61d45831ece24]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/7) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-5e620bd1e8039b7988c61d45831ece24]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/7) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
-[^key-1a33a6bc9c5adf0432c0caf8eb21e691]: Textual amendment: [Sch. rule 7(2)(ea)](https://www.legislation.gov.uk/ssi/2025/384/schedule/rule/7/2/ea) inserted (1.4.2026 with application in accordance with reg. 3(2) of the amending S.S.I.) by [The Police Service of Scotland (Vetting) Regulations 2026 (S.S.I. 2026/46)](https://www.legislation.gov.uk/ssi/2026/46), [regs. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1), [30(4)](https://www.legislation.gov.uk/ssi/2026/46/regulation/30/4) (with [reg. 3(1)](https://www.legislation.gov.uk/ssi/2026/46/regulation/3/1)[(3)](https://www.legislation.gov.uk/ssi/2026/46/regulation/3/3))
+[^c-1a33a6bc9c5adf0432c0caf8eb21e691]: Textual amendment: [Sch. rule 7(2)(ea)](https://www.legislation.gov.uk/ssi/2025/384/schedule/rule/7/2/ea) inserted (1.4.2026 with application in accordance with reg. 3(2) of the amending S.S.I.) by [The Police Service of Scotland (Vetting) Regulations 2026 (S.S.I. 2026/46)](https://www.legislation.gov.uk/ssi/2026/46), [regs. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1), [30(4)](https://www.legislation.gov.uk/ssi/2026/46/regulation/30/4) (with [reg. 3(1)](https://www.legislation.gov.uk/ssi/2026/46/regulation/3/1)[(3)](https://www.legislation.gov.uk/ssi/2026/46/regulation/3/3))
 
-[^key-6e31c0c07b05db6b39bf344b874ac892]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/8) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-6e31c0c07b05db6b39bf344b874ac892]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/8) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
-[^key-95b4bf635273aa126ee59f16f907c0fd]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/9) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-95b4bf635273aa126ee59f16f907c0fd]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/9) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
-[^key-06341a165e0d9c51f96105011b7b0bd1]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/10) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-06341a165e0d9c51f96105011b7b0bd1]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/10) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
-[^key-735c04c69e821498ad7ea6c8107731b4]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/11) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-735c04c69e821498ad7ea6c8107731b4]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/11) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
-[^key-dc7661921dc13c145d7b123102b9668f]: Textual amendment: Words in [sch. rule 11(1)](https://www.legislation.gov.uk/ssi/2025/384/schedule/rule/11/1) substituted (1.4.2026 with application in accordance with reg. 3(2) of the amending S.S.I.) by [The Police Service of Scotland (Vetting) Regulations 2026 (S.S.I. 2026/46)](https://www.legislation.gov.uk/ssi/2026/46), [regs. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1), [30(5)](https://www.legislation.gov.uk/ssi/2026/46/regulation/30/5) (with [reg. 3(1)](https://www.legislation.gov.uk/ssi/2026/46/regulation/3/1)[(3)](https://www.legislation.gov.uk/ssi/2026/46/regulation/3/3))
+[^c-dc7661921dc13c145d7b123102b9668f]: Textual amendment: Words in [sch. rule 11(1)](https://www.legislation.gov.uk/ssi/2025/384/schedule/rule/11/1) substituted (1.4.2026 with application in accordance with reg. 3(2) of the amending S.S.I.) by [The Police Service of Scotland (Vetting) Regulations 2026 (S.S.I. 2026/46)](https://www.legislation.gov.uk/ssi/2026/46), [regs. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1), [30(5)](https://www.legislation.gov.uk/ssi/2026/46/regulation/30/5) (with [reg. 3(1)](https://www.legislation.gov.uk/ssi/2026/46/regulation/3/1)[(3)](https://www.legislation.gov.uk/ssi/2026/46/regulation/3/3))
 
-[^key-fb2f8491760cf209ab5d8a233f9112fa]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/12) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-fb2f8491760cf209ab5d8a233f9112fa]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/12) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
-[^key-7e43b8e2cbb46808609eb184a0b07f78]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/13) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-7e43b8e2cbb46808609eb184a0b07f78]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/13) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
-[^key-749ed74c2a580c7545c7ec1e08c8650c]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/14) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-749ed74c2a580c7545c7ec1e08c8650c]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/14) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
-[^key-1d05e36fbdba92b3bcf60921d9ba5d32]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/15) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-1d05e36fbdba92b3bcf60921d9ba5d32]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/15) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
-[^key-562d7580e1a046f8d2561398ac7b3afe]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/16) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-562d7580e1a046f8d2561398ac7b3afe]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/16) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
-[^key-66663978115b187e2917861b9f8406c4]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/17) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-66663978115b187e2917861b9f8406c4]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/17) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
-[^key-0328fc68042b99a75f87d49f1e44b017]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/18) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-0328fc68042b99a75f87d49f1e44b017]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/18) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
-[^key-df66e523e4f4e65aa20dc1573a24d6ef]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/19) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-df66e523e4f4e65aa20dc1573a24d6ef]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/19) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
-[^key-06f395896a7877db337b7f6bdef6a206]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/20) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-06f395896a7877db337b7f6bdef6a206]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/20) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
-[^key-84e35456f4d4b5c20df0513a0140c3b8]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/21) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-84e35456f4d4b5c20df0513a0140c3b8]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/21) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
 [^f00013]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
 
-[^key-55c22b900b7be7518b220c07174c5530]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/22) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-55c22b900b7be7518b220c07174c5530]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/22) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
-[^key-f9910f0e550ebbe49c7ff83c0af2a6df]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/23) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-f9910f0e550ebbe49c7ff83c0af2a6df]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/23) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
-[^key-cc90f361655968ace73210efe387b55e]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/24) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-cc90f361655968ace73210efe387b55e]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/24) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
-[^key-37314a645d5e46fde5d6859fe9f4b603]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/25) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-37314a645d5e46fde5d6859fe9f4b603]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/25) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
-[^key-fb307c8969c0686cec330100db2ac11e]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/26) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-fb307c8969c0686cec330100db2ac11e]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/26) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
-[^key-77bb4ab54f52905bd01d26bedb8eda83]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/27) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-77bb4ab54f52905bd01d26bedb8eda83]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/27) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
-[^key-86ef15eeafaa843e2d4bcfa2fcad76a5]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/28) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-86ef15eeafaa843e2d4bcfa2fcad76a5]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/28) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
-[^key-58175b5387b9ab3b202042849201c85b]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/29) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-58175b5387b9ab3b202042849201c85b]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/29) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
-[^key-453df31d78542b8315c70e38ca9445bb]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/30) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-453df31d78542b8315c70e38ca9445bb]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/30) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
 [^f00014]: Footnote: [S.S.I. 2016/231](https://www.legislation.gov.uk/ssi/2016/231).
 
-[^key-f1ca63c62f1f2b3e0c05632bd221c70b]: Textual amendment: [Sch. rule 30A](https://www.legislation.gov.uk/ssi/2025/384/schedule/rule/30A) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [9(2)(c)](https://www.legislation.gov.uk/ssi/2026/34/regulation/9/2/c)
+[^c-f1ca63c62f1f2b3e0c05632bd221c70b]: Textual amendment: [Sch. rule 30A](https://www.legislation.gov.uk/ssi/2025/384/schedule/rule/30A) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [9(2)(c)](https://www.legislation.gov.uk/ssi/2026/34/regulation/9/2/c)
 
-[^key-1c0e96dd0758e6d85a249ca08e6c458e]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/31) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-1c0e96dd0758e6d85a249ca08e6c458e]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/31) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
 
-[^key-0c2c97a087846572069eefa0c6985356]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/32) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)
+[^c-0c2c97a087846572069eefa0c6985356]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/ssi/2025/384/schedule/paragraph/32) in force at 29.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/384/regulation/1/2)

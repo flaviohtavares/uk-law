@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 84. State pension credit: extension of assessed income period for those aged 75 or over[^key-41812cb3523c26d133fb42030c996d74]
+## 84. State pension credit: extension of assessed income period for those aged 75 or over[^c-41812cb3523c26d133fb42030c996d74]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41812cb3523c26d133fb42030c996d74]: Textual amendment: [S. 84(6)](https://www.legislation.gov.uk/nia/2008/13/section/84/6) repealed (24.6.2015 and is to be treated as never having had effect) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 28(1)](https://www.legislation.gov.uk/nia/2015/5/section/28/1), [53(2)(b)](https://www.legislation.gov.uk/nia/2015/5/section/53/2/b)
+[^c-41812cb3523c26d133fb42030c996d74]: Textual amendment: [S. 84(6)](https://www.legislation.gov.uk/nia/2008/13/section/84/6) repealed (24.6.2015 and is to be treated as never having had effect) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 28(1)](https://www.legislation.gov.uk/nia/2015/5/section/28/1), [53(2)(b)](https://www.legislation.gov.uk/nia/2015/5/section/53/2/b)

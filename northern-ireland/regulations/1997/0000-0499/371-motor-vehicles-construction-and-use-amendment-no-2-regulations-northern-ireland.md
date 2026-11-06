@@ -30,7 +30,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-Motor Vehicles (Construction and Use) (Amendment No. 2) Regulations (Northern Ireland) 1997 (revoked)[^key-c16ce159ba84ab8f717c453a6a8945c3]
+Motor Vehicles (Construction and Use) (Amendment No. 2) Regulations (Northern Ireland) 1997 (revoked)[^c-c16ce159ba84ab8f717c453a6a8945c3]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into operation
 
 1st October 1997
 
-[^key-c16ce159ba84ab8f717c453a6a8945c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c16ce159ba84ab8f717c453a6a8945c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c16ce159ba84ab8f717c453a6a8945c3]
+## 1. Citation and commencement[^c-c16ce159ba84ab8f717c453a6a8945c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1989[^key-c16ce159ba84ab8f717c453a6a8945c3]
+## 2. Amendment of the Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1989[^c-c16ce159ba84ab8f717c453a6a8945c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c16ce159ba84ab8f717c453a6a8945c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c16ce159ba84ab8f717c453a6a8945c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c16ce159ba84ab8f717c453a6a8945c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c16ce159ba84ab8f717c453a6a8945c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c16ce159ba84ab8f717c453a6a8945c3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/371) revoked (1.1.2000) by [Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999 (S.R. 1999/454)](https://www.legislation.gov.uk/nisr/1999/454), [regs. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1), [126](https://www.legislation.gov.uk/nisr/1999/454/regulation/26), [Sch. 19](https://www.legislation.gov.uk/nisr/1999/454/schedule/19)
+[^c-c16ce159ba84ab8f717c453a6a8945c3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/371) revoked (1.1.2000) by [Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999 (S.R. 1999/454)](https://www.legislation.gov.uk/nisr/1999/454), [regs. 1](https://www.legislation.gov.uk/nisr/1999/454/regulation/1), [126](https://www.legislation.gov.uk/nisr/1999/454/regulation/26), [Sch. 19](https://www.legislation.gov.uk/nisr/1999/454/schedule/19)

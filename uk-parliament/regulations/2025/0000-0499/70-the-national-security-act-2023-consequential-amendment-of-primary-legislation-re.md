@@ -46,7 +46,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with section 96(5) of that Act, a draft of these Regulations was laid before and approved by resolution of each House of Parliament.
 
-## 1. Citation, commencement and extent[^key-f699982601b17eeb0fe9559ba769723b]
+## 1. Citation, commencement and extent[^c-f699982601b17eeb0fe9559ba769723b]
 
 (1) These Regulations may be cited as the National Security Act 2023 (Consequential Amendment of Primary Legislation) Regulations 2025.
 
@@ -54,7 +54,7 @@ In accordance with section 96(5) of that Act, a draft of these Regulations was l
 
 (3) They extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Consequential amendment of the Public Services Ombudsman (Wales) Act 2019 (Deddf Ombwdsmon Gwasanaethau Cyhoeddus (Cymru) 2019)[^key-b80140aac4d8593dc98cb787a432035f]
+## 2. Consequential amendment of the Public Services Ombudsman (Wales) Act 2019 (Deddf Ombwdsmon Gwasanaethau Cyhoeddus (Cymru) 2019)[^c-b80140aac4d8593dc98cb787a432035f]
 
 (1) The Welsh language text of the Public Services Ombudsman (Wales) Act 2019 (Deddf Ombwdsmon Gwasanaethau Cyhoeddus (Cymru) 2019)[^f00002] is amended as follows.
 
@@ -82,8 +82,8 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2023 c. 32](https://www.legislation.gov.uk/ukpga/2023/32).
 
-[^key-f699982601b17eeb0fe9559ba769723b]: Commencement: Reg. 1 in force at 23.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/70/regulation/1/2)
+[^c-f699982601b17eeb0fe9559ba769723b]: Commencement: Reg. 1 in force at 23.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/70/regulation/1/2)
 
-[^key-b80140aac4d8593dc98cb787a432035f]: Commencement: Reg. 2 in force at 23.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/70/regulation/1/2)
+[^c-b80140aac4d8593dc98cb787a432035f]: Commencement: Reg. 2 in force at 23.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/70/regulation/1/2)
 
 [^f00002]: Footnote: [2019 anaw 3](https://www.legislation.gov.uk/anaw/2019/3).

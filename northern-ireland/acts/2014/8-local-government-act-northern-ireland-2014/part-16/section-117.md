@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 117. Payments for special purposes and public appeals[^key-4abc9420f65b621c266d719ccaa41808]
+## 117. Payments for special purposes and public appeals[^c-4abc9420f65b621c266d719ccaa41808]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ In the Local Government Finance Act (Northern Ireland) 2011 the following provis
 
 ## Annotations
 
-[^key-4abc9420f65b621c266d719ccaa41808]: Commencement: [S. 117](https://www.legislation.gov.uk/nia/2014/8/section/117) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-4abc9420f65b621c266d719ccaa41808]: Commencement: [S. 117](https://www.legislation.gov.uk/nia/2014/8/section/117) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

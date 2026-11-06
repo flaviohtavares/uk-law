@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 135. Offences by bodies corporate[^key-240e50f08c4a469b6810dee58061c9a8]
+## 135. Offences by bodies corporate[^c-240e50f08c4a469b6810dee58061c9a8]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ the senior officer or person (as well as the body corporate) is guilty of the of
 
 ## Annotations
 
-[^key-240e50f08c4a469b6810dee58061c9a8]: Commencement: S. 135 in force at 4.6.2024, see [s. 147(1)(c)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/c)
+[^c-240e50f08c4a469b6810dee58061c9a8]: Commencement: S. 135 in force at 4.6.2024, see [s. 147(1)(c)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/c)

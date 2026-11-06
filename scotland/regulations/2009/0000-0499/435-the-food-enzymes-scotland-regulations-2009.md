@@ -81,7 +81,7 @@ These Regulations may be cited as the Food Enzymes (Scotland) Regulations 2009,
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of the Caseins and Caseinates (Scotland) Regulations 1986[^key-4b0dba9d0c743b6144b3c0a37bc8acb1]
+## 8. Amendment of the Caseins and Caseinates (Scotland) Regulations 1986[^c-4b0dba9d0c743b6144b3c0a37bc8acb1]
 
 In the Schedule to the Caseins and Caseinates (Scotland) Regulations 1986, in column 2 of Part II (technological adjuvants and bacterial cultures) after “rennet” and “other milk-coagulating enzymes” in each case add “meeting the requirements of Regulation [(EC) No. 1332/2008](https://www.legislation.gov.uk/european/regulation/2008/1332) of the European Parliament and of the Council on food enzymes”.
 
@@ -146,7 +146,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^M_F_111d6f89-be04-4454-9d16-5db1d4054eb7]: Textual amendment: Reg. 7 revoked (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1](https://www.legislation.gov.uk/ssi/2014/312/regulation/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/1)
 
-[^key-4b0dba9d0c743b6144b3c0a37bc8acb1]: Textual amendment: Reg. 8 substituted (12.2.2010) by [The Food Enzymes (Scotland) Amendment Regulations 2010 (S.S.I. 2010/26)](https://www.legislation.gov.uk/ssi/2010/26), [regs. 1](https://www.legislation.gov.uk/ssi/2010/26/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2010/26/regulation/2/2)
+[^c-4b0dba9d0c743b6144b3c0a37bc8acb1]: Textual amendment: Reg. 8 substituted (12.2.2010) by [The Food Enzymes (Scotland) Amendment Regulations 2010 (S.S.I. 2010/26)](https://www.legislation.gov.uk/ssi/2010/26), [regs. 1](https://www.legislation.gov.uk/ssi/2010/26/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2010/26/regulation/2/2)
 
 [^M_F_94659712-6432-4b1c-99fb-b212f5d1c768]: Textual amendment: Reg. 9 revoked (20.11.2013) by the [Fruit Juices and Fruit Nectars (Scotland) Regulations 2013 (S.S.I. 2013/305)](https://www.legislation.gov.uk/ssi/2013/305), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/305/regulation/1/2), [19(b)](https://www.legislation.gov.uk/ssi/2013/305/regulation/19/b)
 

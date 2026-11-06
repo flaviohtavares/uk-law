@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 105. Power to make test purchases[^key-6b983a0610e75dc0e4a7a44ae28e0e33]
+## 105. Power to make test purchases[^c-6b983a0610e75dc0e4a7a44ae28e0e33]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ An authorised officer may make such purchases and arrangements, and secure the p
 
 ## Annotations
 
-[^key-6b983a0610e75dc0e4a7a44ae28e0e33]: Commencement: [S. 105](https://www.legislation.gov.uk/anaw/2017/2/section/105) in force at 1.2.2018 by [S.I. 2018/1](https://www.legislation.gov.uk/wsi/2018/1), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/1/article/2/a)
+[^c-6b983a0610e75dc0e4a7a44ae28e0e33]: Commencement: [S. 105](https://www.legislation.gov.uk/anaw/2017/2/section/105) in force at 1.2.2018 by [S.I. 2018/1](https://www.legislation.gov.uk/wsi/2018/1), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/1/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Building industry schemes[^key-4786db0c7a24930290e5489e067e65d3][^key-d3400a17ba021c93d204b3a417814a25]
+## 126. Building industry schemes[^c-4786db0c7a24930290e5489e067e65d3][^c-d3400a17ba021c93d204b3a417814a25]
 
 *Extent: E+W*
 
@@ -63,6 +63,6 @@ In paragraph (e) “**conduct**” includes conduct occurring before the coming 
 
 ## Annotations
 
-[^key-4786db0c7a24930290e5489e067e65d3]: Commencement: S. 126 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
+[^c-4786db0c7a24930290e5489e067e65d3]: Commencement: S. 126 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
 
-[^key-d3400a17ba021c93d204b3a417814a25]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2022/30/section/126) in force at 1.9.2022 by [S.I. 2022/927](https://www.legislation.gov.uk/uksi/2022/927), [reg. 2](https://www.legislation.gov.uk/uksi/2022/927/regulation/2)
+[^c-d3400a17ba021c93d204b3a417814a25]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2022/30/section/126) in force at 1.9.2022 by [S.I. 2022/927](https://www.legislation.gov.uk/uksi/2022/927), [reg. 2](https://www.legislation.gov.uk/uksi/2022/927/regulation/2)

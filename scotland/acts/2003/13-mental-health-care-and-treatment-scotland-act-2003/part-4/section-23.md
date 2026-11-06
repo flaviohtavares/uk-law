@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Provision of services and accommodation for certain patients under 18[^key-cc5b4269cac9ec56ea225a968c2595c4]
+## 23. Provision of services and accommodation for certain patients under 18[^c-cc5b4269cac9ec56ea225a968c2595c4]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ such services and accommodation as are sufficient for the particular needs of th
 
 ## Annotations
 
-[^key-cc5b4269cac9ec56ea225a968c2595c4]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2003/13/section/23) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-cc5b4269cac9ec56ea225a968c2595c4]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2003/13/section/23) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

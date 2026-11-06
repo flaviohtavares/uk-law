@@ -35,58 +35,58 @@ on the implementation of Regulation (EC) No 1049/2001 of the European Parliament
 
 (2004/605/EC) (revoked)
 
-[^key-718864d9cd95d169c8d4ef8c37837469]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-718864d9cd95d169c8d4ef8c37837469]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Beneficiaries and scope[^key-718864d9cd95d169c8d4ef8c37837469]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-718864d9cd95d169c8d4ef8c37837469]
+## Article 1. Beneficiaries and scope[^c-718864d9cd95d169c8d4ef8c37837469]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Applications[^key-718864d9cd95d169c8d4ef8c37837469]
+## Article 2. Definitions[^c-718864d9cd95d169c8d4ef8c37837469]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Processing of initial applications[^key-718864d9cd95d169c8d4ef8c37837469]
+## Article 3. Applications[^c-718864d9cd95d169c8d4ef8c37837469]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Processing of confirmatory applications[^key-718864d9cd95d169c8d4ef8c37837469]
+## Article 4. Processing of initial applications[^c-718864d9cd95d169c8d4ef8c37837469]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Consultation[^key-718864d9cd95d169c8d4ef8c37837469]
+## Article 5. Processing of confirmatory applications[^c-718864d9cd95d169c8d4ef8c37837469]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Exercise of the right of access[^key-718864d9cd95d169c8d4ef8c37837469]
+## Article 6. Consultation[^c-718864d9cd95d169c8d4ef8c37837469]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Measures facilitating access to documents[^key-718864d9cd95d169c8d4ef8c37837469]
+## Article 7. Exercise of the right of access[^c-718864d9cd95d169c8d4ef8c37837469]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Documents directly accessible to the public[^key-718864d9cd95d169c8d4ef8c37837469]
+## Article 8. Measures facilitating access to documents[^c-718864d9cd95d169c8d4ef8c37837469]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Reports[^key-718864d9cd95d169c8d4ef8c37837469]
+## Article 9. Documents directly accessible to the public[^c-718864d9cd95d169c8d4ef8c37837469]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Entry into force[^key-718864d9cd95d169c8d4ef8c37837469]
+## Article 10. Reports[^c-718864d9cd95d169c8d4ef8c37837469]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Publication[^key-718864d9cd95d169c8d4ef8c37837469]
+## Article 11. Entry into force[^c-718864d9cd95d169c8d4ef8c37837469]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-718864d9cd95d169c8d4ef8c37837469]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 12. Publication[^c-718864d9cd95d169c8d4ef8c37837469]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-718864d9cd95d169c8d4ef8c37837469]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-718864d9cd95d169c8d4ef8c37837469]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-718864d9cd95d169c8d4ef8c37837469]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

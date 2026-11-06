@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Variation[^key-1d9569fe08976953a539a2319269686f][^key-eea08a9a5160d744764d7f5fbe30f989]
+## 47. Variation[^c-1d9569fe08976953a539a2319269686f][^c-eea08a9a5160d744764d7f5fbe30f989]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1d9569fe08976953a539a2319269686f]: Commencement: S. 47 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-1d9569fe08976953a539a2319269686f]: Commencement: S. 47 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-eea08a9a5160d744764d7f5fbe30f989]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2025/28/section/47) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-eea08a9a5160d744764d7f5fbe30f989]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2025/28/section/47) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

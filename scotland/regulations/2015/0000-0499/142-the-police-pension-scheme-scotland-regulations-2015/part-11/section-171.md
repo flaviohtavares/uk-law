@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 171. Application for a statement of entitlement[^key-dba8281bfd03620ceff10f1d8b120dc4]
+## 171. Application for a statement of entitlement[^c-dba8281bfd03620ceff10f1d8b120dc4]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dba8281bfd03620ceff10f1d8b120dc4]: Commencement: Reg. 171 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-dba8281bfd03620ceff10f1d8b120dc4]: Commencement: Reg. 171 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

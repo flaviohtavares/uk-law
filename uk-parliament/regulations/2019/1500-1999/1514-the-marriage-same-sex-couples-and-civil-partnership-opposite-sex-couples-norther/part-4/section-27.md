@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Parental responsibility[^key-f209f75d20b027a6d7ba1bf88c23d259]
+## 27. Parental responsibility[^c-f209f75d20b027a6d7ba1bf88c23d259]
 
 *Extent: N.I.*
 
@@ -51,7 +51,7 @@ summary: ''
 
   .
 
-**28.**[^key-a10a3bf28fe09fab96601e00ba206b6d][^key-f209f75d20b027a6d7ba1bf88c23d259] (1) The Children (Parental Responsibility Agreement) Regulations (Northern Ireland) 1996[^f00039] are amended as follows.
+**28.**[^c-a10a3bf28fe09fab96601e00ba206b6d][^c-f209f75d20b027a6d7ba1bf88c23d259] (1) The Children (Parental Responsibility Agreement) Regulations (Northern Ireland) 1996[^f00039] are amended as follows.
 
 (2) In regulation 2[^f00040] (form of parental responsibility agreement), in paragraph (a), for “unmarried father” substitute “father who is not married or a civil partner”.
 
@@ -89,11 +89,11 @@ summary: ''
 
 ## Annotations
 
-[^key-f209f75d20b027a6d7ba1bf88c23d259]: Commencement: Reg. 27 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-f209f75d20b027a6d7ba1bf88c23d259]: Commencement: Reg. 27 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00038]: Footnote: Article 7(1) was amended, and Article 7(1A) was inserted, by section 1 of the Family Law Act (Northern Ireland) [2001 (c.12)](https://www.legislation.gov.uk/ukpga/2001/12); Article 7(1) was amended, and Article 7(1ZB) was inserted, by paragraph 72 of Schedule 6 to the Human Fertilisation and Embryology Act [2008 (c.22)](https://www.legislation.gov.uk/ukpga/2008/22).
 
-[^key-a10a3bf28fe09fab96601e00ba206b6d]: Commencement: Reg. 28 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-a10a3bf28fe09fab96601e00ba206b6d]: Commencement: Reg. 28 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00039]: Footnote: S.R. [(N.I.) 1996 No. 455](https://www.legislation.gov.uk/nisr/1996/455).
 

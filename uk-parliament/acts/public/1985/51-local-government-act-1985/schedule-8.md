@@ -26,7 +26,7 @@ Section 16.
 
 *Extent: E+W*
 
-**1.** (1)[^key-db7c3d9a0b35215c68e41608ef1f8dc3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.** (1)[^c-db7c3d9a0b35215c68e41608ef1f8dc3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2)[^c3167871] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -40,7 +40,7 @@ Section 16.
 
   ,
 
-[^key-a61ec4cf86296bb6597b791e77a66784]...
+[^c-a61ec4cf86296bb6597b791e77a66784]...
 
 (4) In section 5 of the [^c3167891]Greater London Council (General Powers) Act 1978—
 
@@ -52,23 +52,23 @@ Section 16.
 
 ### Private places of entertainment
 
-**2.**[^key-70f7ec0d5c134543be0ae2660eb7c301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-70f7ec0d5c134543be0ae2660eb7c301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Theatres
 
-**3.**[^key-70f7ec0d5c134543be0ae2660eb7c301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-70f7ec0d5c134543be0ae2660eb7c301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Cinemas
 
-**4.**[^key-70f7ec0d5c134543be0ae2660eb7c301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-70f7ec0d5c134543be0ae2660eb7c301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Children’s entertainments
 
-**5.**[^key-70f7ec0d5c134543be0ae2660eb7c301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-70f7ec0d5c134543be0ae2660eb7c301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Tracks for betting
 
-**6.**[^key-67b50c4cd3dc25737b02035396df48b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-67b50c4cd3dc25737b02035396df48b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Sports grounds
 
@@ -115,7 +115,7 @@ Section 16.
 
 (5) In sections 193(1)(d)(ii) and 194(3)(b) of the [^c3168061]Law of Property Act 1925, after the word “county”, there shall be inserted the words “or metropolitan district”.
 
-(6)[^key-a708e9afa959068510ab3c647f48e347] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-a708e9afa959068510ab3c647f48e347] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Gipsy encampments
 
@@ -234,7 +234,7 @@ shall, so far as they relate to Greater London other than the outer London borou
 
 ### Fisheries
 
-**19.**[^key-477cc3facc42f02fa7de8e113f7cf0bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-477cc3facc42f02fa7de8e113f7cf0bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **20.** In paragraph 5(b) of Schedule 3 to the [^c3168291]Salmon and Freshwater Fisheries Act 1975 for the words “county council” there shall be substituted the words “county or metropolitan district council”.
 
@@ -277,19 +277,19 @@ shall, so far as they relate to Greater London other than the outer London borou
 
 ## Annotations
 
-[^key-db7c3d9a0b35215c68e41608ef1f8dc3]: Textual amendment: [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/ukpga/1985/51/schedule/8/paragraph/1/1) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-db7c3d9a0b35215c68e41608ef1f8dc3]: Textual amendment: [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/ukpga/1985/51/schedule/8/paragraph/1/1) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
 [^c3167871]: Textual amendment: Sch. 8 para. 1(2) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt. X](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/X) Group 1.
 
 [^c3167881]: Marginal citation: [1966 c. xxviii](https://www.legislation.gov.uk/ukla/1966/28).
 
-[^key-a61ec4cf86296bb6597b791e77a66784]: Textual amendment: Words in [Sch. 8 para. 1(3)](https://www.legislation.gov.uk/ukpga/1985/51/schedule/8/paragraph/1/3) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-a61ec4cf86296bb6597b791e77a66784]: Textual amendment: Words in [Sch. 8 para. 1(3)](https://www.legislation.gov.uk/ukpga/1985/51/schedule/8/paragraph/1/3) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
 [^c3167891]: Marginal citation: [1978 c. xiii](https://www.legislation.gov.uk/ukla/1978/13).
 
-[^key-70f7ec0d5c134543be0ae2660eb7c301]: Textual amendment: [Sch. 8 paras. 2-5](https://www.legislation.gov.uk/ukpga/1985/51/schedule/8/paragraph/2) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-70f7ec0d5c134543be0ae2660eb7c301]: Textual amendment: [Sch. 8 paras. 2-5](https://www.legislation.gov.uk/ukpga/1985/51/schedule/8/paragraph/2) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
-[^key-67b50c4cd3dc25737b02035396df48b4]: Textual amendment: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/1985/51/schedule/8/paragraph/6) repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [s. 358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)
+[^c-67b50c4cd3dc25737b02035396df48b4]: Textual amendment: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/1985/51/schedule/8/paragraph/6) repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [s. 358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)
 
 [^c3167961]: Marginal citation: [1975 c. 52](https://www.legislation.gov.uk/ukpga/1975/52).
 
@@ -311,7 +311,7 @@ shall, so far as they relate to Greater London other than the outer London borou
 
 [^c3168061]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
-[^key-a708e9afa959068510ab3c647f48e347]: Textual amendment: Sch. 8 para. 10(6) repealed (1.10.2006 for E., 6.9.2007 for W.) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [s. 56](https://www.legislation.gov.uk/ukpga/2006/26/section/56), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/26/schedule/6/part/1) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2006/2504](https://www.legislation.gov.uk/uksi/2006/2504), [art. 2(h)](https://www.legislation.gov.uk/uksi/2006/2504/article/2/h); [S.I. 2007/2386](https://www.legislation.gov.uk/uksi/2007/2386), [art. 3(p)](https://www.legislation.gov.uk/uksi/2007/2386/article/3/p)
+[^c-a708e9afa959068510ab3c647f48e347]: Textual amendment: Sch. 8 para. 10(6) repealed (1.10.2006 for E., 6.9.2007 for W.) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [s. 56](https://www.legislation.gov.uk/ukpga/2006/26/section/56), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/26/schedule/6/part/1) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2006/2504](https://www.legislation.gov.uk/uksi/2006/2504), [art. 2(h)](https://www.legislation.gov.uk/uksi/2006/2504/article/2/h); [S.I. 2007/2386](https://www.legislation.gov.uk/uksi/2007/2386), [art. 3(p)](https://www.legislation.gov.uk/uksi/2007/2386/article/3/p)
 
 [^c3168081]: Marginal citation: [1968 c. 52](https://www.legislation.gov.uk/ukpga/1968/52).
 
@@ -351,7 +351,7 @@ shall, so far as they relate to Greater London other than the outer London borou
 
 [^c3168271]: Marginal citation: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22).
 
-[^key-477cc3facc42f02fa7de8e113f7cf0bc]: Textual amendment: Sch. 8 para. 19 repealed (1.4.2010 for W., 1.4.2011 for E.) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/4); [S.I. 2010/630](https://www.legislation.gov.uk/uksi/2010/630), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/630/article/3/b) (with [arts. 8](https://www.legislation.gov.uk/uksi/2010/630/article/8), [12](https://www.legislation.gov.uk/uksi/2010/630/article/12)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(o)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/o) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/556/article/2/3))
+[^c-477cc3facc42f02fa7de8e113f7cf0bc]: Textual amendment: Sch. 8 para. 19 repealed (1.4.2010 for W., 1.4.2011 for E.) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/4); [S.I. 2010/630](https://www.legislation.gov.uk/uksi/2010/630), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/630/article/3/b) (with [arts. 8](https://www.legislation.gov.uk/uksi/2010/630/article/8), [12](https://www.legislation.gov.uk/uksi/2010/630/article/12)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(o)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/o) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/556/article/2/3))
 
 [^c3168291]: Marginal citation: [1975 c. 51](https://www.legislation.gov.uk/ukpga/1975/51).
 

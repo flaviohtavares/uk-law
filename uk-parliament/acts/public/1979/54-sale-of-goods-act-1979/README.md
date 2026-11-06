@@ -150,7 +150,7 @@ An Act to consolidate the law relating to the sale of goods.
 
 - [Section 48 — Rescission: and re-sale by seller.](part-v/section-48.md)
 
-### PART 5A — ADDITIONAL RIGHTS OF BUYER IN CONSUMER CASES[^key-83a4bdd71b94f2473caff4a7a2e2396a]
+### PART 5A — ADDITIONAL RIGHTS OF BUYER IN CONSUMER CASES[^c-83a4bdd71b94f2473caff4a7a2e2396a]
 
 *Extent: E+W+S+N.I.*
 
@@ -209,4 +209,4 @@ SCHEDULES
 
 [^c1108915]: Textual amendment: Cross-heading preceding s. 15A inserted (3.1.1995) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/1994/35/section/4/1), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3)).
 
-[^key-83a4bdd71b94f2473caff4a7a2e2396a]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/ukpga/1979/54/part/5A) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/27); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-83a4bdd71b94f2473caff4a7a2e2396a]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/ukpga/1979/54/part/5A) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/27); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))

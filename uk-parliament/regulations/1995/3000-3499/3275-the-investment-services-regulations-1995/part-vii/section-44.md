@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Restrictions on voting rights[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+## 44. Restrictions on voting rights[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1995/3275) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2001/3649/article/3/2/c) (with savings in [S.I. 2001/3646](https://www.legislation.gov.uk/uksi/2001/3646), [art. 12](https://www.legislation.gov.uk/uksi/2001/3646/article/12))
+[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1995/3275) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2001/3649/article/3/2/c) (with savings in [S.I. 2001/3646](https://www.legislation.gov.uk/uksi/2001/3646), [art. 12](https://www.legislation.gov.uk/uksi/2001/3646/article/12))

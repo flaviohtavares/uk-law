@@ -910,7 +910,7 @@ Section 37.
 
 ### The Fatal Accidents and Sudden Deaths Inquiry (Scotland) Act 1976
 
-**34.**[^key-95cd077eaa0b7df45626fc993484daef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-95cd077eaa0b7df45626fc993484daef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Fair Employment (Northern Ireland) Act 1976
 
@@ -932,7 +932,7 @@ Section 37.
 
 ### The Energy Act 1976
 
-**37.**[^key-8d8be25179dd828697af1c81e2f76800] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-8d8be25179dd828697af1c81e2f76800] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Sex Discrimination (Northern Ireland) Order 1976
 
@@ -1268,7 +1268,7 @@ Section 37.
 
 [^c7939221]: Textual amendment: [Sch. 3 paras. 26](https://www.legislation.gov.uk/ukpga/1982/23/schedule/3/paragraph/26), [33](https://www.legislation.gov.uk/ukpga/1982/23/schedule/3/paragraph/33) repealed by [Oil and Pipelines Act 1985 (c. 62, SIF 86)](https://www.legislation.gov.uk/ukpga/1985/62), [s. 7](https://www.legislation.gov.uk/ukpga/1985/62/section/7), [Sch. 4 Pt. II](https://www.legislation.gov.uk/ukpga/1985/62/schedule/4/part/II)
 
-[^key-95cd077eaa0b7df45626fc993484daef]: Textual amendment: Sch. 3 para. 34 repealed (E.W.N.I.) (15.6.2017) by [The Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1142)](https://www.legislation.gov.uk/uksi/2016/1142), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2016/1142/schedule/paragraph/5) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/7/2)); and (S.) (15.6.2017) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(2)](https://www.legislation.gov.uk/asp/2016/2/section/42/2), [sch. 2 para. 3](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/3); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-95cd077eaa0b7df45626fc993484daef]: Textual amendment: Sch. 3 para. 34 repealed (E.W.N.I.) (15.6.2017) by [The Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1142)](https://www.legislation.gov.uk/uksi/2016/1142), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2016/1142/schedule/paragraph/5) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/7/2)); and (S.) (15.6.2017) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(2)](https://www.legislation.gov.uk/asp/2016/2/section/42/2), [sch. 2 para. 3](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/3); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
 [^c7939251]: Modification: The text of Sch. 1, Sch. 3 paras. 1–10, 11(1)(2), 21–25, 30, 31, 34–44, Sch. 4 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as specified does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -1278,7 +1278,7 @@ Section 37.
 
 [^c7939281]: Marginal citation: [1976 c. 74](https://www.legislation.gov.uk/ukpga/1976/74).
 
-[^key-8d8be25179dd828697af1c81e2f76800]: Textual amendment: Sch. 3 para. 37 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 17(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/17/a)
+[^c-8d8be25179dd828697af1c81e2f76800]: Textual amendment: Sch. 3 para. 37 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 17(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/17/a)
 
 [^c7939311]: Modification: The text of Sch. 1, Sch. 3 paras. 1–10, 11(1)(2), 21–25, 30, 31, 34–44, Sch. 4 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as specified does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

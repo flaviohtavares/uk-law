@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Annuities[^key-229b42b1219a506c40bb6f9fb694b152]
+## 21. Annuities[^c-229b42b1219a506c40bb6f9fb694b152]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-229b42b1219a506c40bb6f9fb694b152]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2017/1/section/21) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-229b42b1219a506c40bb6f9fb694b152]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2017/1/section/21) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

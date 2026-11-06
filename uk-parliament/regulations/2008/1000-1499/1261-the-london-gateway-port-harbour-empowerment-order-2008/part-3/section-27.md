@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Defence to proceedings in respect of statutory nuisance[^key-1f0d7bff0d7d2d8410d9479ada188a72]
+## 27. Defence to proceedings in respect of statutory nuisance[^c-1f0d7bff0d7d2d8410d9479ada188a72]
 
 *Extent: E+W+S*
 
@@ -36,7 +36,7 @@ shall not apply where the consent relates to the use of premises by the Harbour 
 
 ## Annotations
 
-[^key-1f0d7bff0d7d2d8410d9479ada188a72]: Commencement: Art. 27 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-1f0d7bff0d7d2d8410d9479ada188a72]: Commencement: Art. 27 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
 [^f00021]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 

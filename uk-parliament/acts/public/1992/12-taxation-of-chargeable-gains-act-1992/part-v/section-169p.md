@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169P. Amount of relief: special provision for certain associated disposals[^key-62210e0dd95858649d5b0850e81240b3]
+## 169P. Amount of relief: special provision for certain associated disposals[^c-62210e0dd95858649d5b0850e81240b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Only such part of the amount which would otherwise result under subsection (1) of section 169N as is just and reasonable is to be treated as so resulting.
 
-(3) And the balance of that amount, [^key-b52a78edba90493908cee038a0a89082]... , is accordingly a chargeable gain for the purposes of this Act.
+(3) And the balance of that amount, [^c-b52a78edba90493908cee038a0a89082]... , is accordingly a chargeable gain for the purposes of this Act.
 
 (4) The conditions referred to in subsection (1) are—
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-62210e0dd95858649d5b0850e81240b3]: Textual amendment: Pt. 5 Ch. 3 inserted (with effect in accordance with Sch. 3 para. 5 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/3/paragraph/2) (with [Sch. 3 paras. 6-8](https://www.legislation.gov.uk/ukpga/2008/9/schedule/3/paragraph/6))
+[^c-62210e0dd95858649d5b0850e81240b3]: Textual amendment: Pt. 5 Ch. 3 inserted (with effect in accordance with Sch. 3 para. 5 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/3/paragraph/2) (with [Sch. 3 paras. 6-8](https://www.legislation.gov.uk/ukpga/2008/9/schedule/3/paragraph/6))
 
-[^key-b52a78edba90493908cee038a0a89082]: Textual amendment: Words in s. 169P(3) omitted (with effect in accordance with Sch. 1 para. 14 of the amending Act) by virtue of [Finance (No. 2) Act 2010 (c. 31)](https://www.legislation.gov.uk/ukpga/2010/31), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2010/31/schedule/1/paragraph/7)
+[^c-b52a78edba90493908cee038a0a89082]: Textual amendment: Words in s. 169P(3) omitted (with effect in accordance with Sch. 1 para. 14 of the amending Act) by virtue of [Finance (No. 2) Act 2010 (c. 31)](https://www.legislation.gov.uk/ukpga/2010/31), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2010/31/schedule/1/paragraph/7)

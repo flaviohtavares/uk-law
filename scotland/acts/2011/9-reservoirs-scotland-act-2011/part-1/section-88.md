@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Recovery by SEPA of expenses[^key-e680102e12f3a1181d666229829c1dc3]
+## 88. Recovery by SEPA of expenses[^c-e680102e12f3a1181d666229829c1dc3]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e680102e12f3a1181d666229829c1dc3]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2011/9/section/88) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)
+[^c-e680102e12f3a1181d666229829c1dc3]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2011/9/section/88) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)

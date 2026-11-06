@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16.4. Consent to minute[^key-727c270e415b5a06f11236228dbe50b3]
+## 16.4. Consent to minute[^c-727c270e415b5a06f11236228dbe50b3]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-727c270e415b5a06f11236228dbe50b3]: Commencement: Para. 16.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-727c270e415b5a06f11236228dbe50b3]: Commencement: Para. 16.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

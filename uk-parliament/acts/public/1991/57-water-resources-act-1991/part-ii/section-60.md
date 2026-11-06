@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 60. Liability of the appropriate agency for derogation from protected right.[^key-1277d47477894f27686f6a5b9c50c941][^key-6f3ccd85cbe3e3c4087252cb8c7dd912]
+## 60. Liability of the appropriate agency for derogation from protected right.[^c-1277d47477894f27686f6a5b9c50c941][^c-6f3ccd85cbe3e3c4087252cb8c7dd912]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ as to derogate from rights which, at the time of the authorisation, are protecte
 
 ## Annotations
 
-[^key-1277d47477894f27686f6a5b9c50c941]: Modification: S. 60 applied (with modifications) (1.4.2006) by [Water Resources (Abstraction and Impounding) Regulations 2006 (S.I. 2006/641)](https://www.legislation.gov.uk/uksi/2006/641), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2006/641/regulation/23)
+[^c-1277d47477894f27686f6a5b9c50c941]: Modification: S. 60 applied (with modifications) (1.4.2006) by [Water Resources (Abstraction and Impounding) Regulations 2006 (S.I. 2006/641)](https://www.legislation.gov.uk/uksi/2006/641), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2006/641/regulation/23)
 
-[^key-6f3ccd85cbe3e3c4087252cb8c7dd912]: Textual amendment: Words in s. 60 and heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(k)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/k) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-6f3ccd85cbe3e3c4087252cb8c7dd912]: Textual amendment: Words in s. 60 and heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(k)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/k) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

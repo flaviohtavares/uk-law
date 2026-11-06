@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Wrongful disclosure of information.[^key-4d2236ea2b1ec64e808c83092fa16e3c]
+## 158. Wrongful disclosure of information.[^c-4d2236ea2b1ec64e808c83092fa16e3c]
 
 *Extent: E+W+S+N.I.*
 
 (1) A person who is or has been employed (whether as a detainee custody officer, prisoner custody officer or otherwise)—
 
 - (a) in accordance with escort arrangements,
-- (b) at a contracted out removal centre[^key-322e1dcf9495e77eae0ed436411c9617], or
+- (b) at a contracted out removal centre[^c-322e1dcf9495e77eae0ed436411c9617], or
 - (c) to perform contracted out functions at a directly managed removal centre,
 
 is guilty of an offence if he discloses, otherwise than in the course of his duty or as authorised by the Secretary of State, any information which he acquired in the course of his employment and which relates to a particular detained person.
@@ -37,6 +37,6 @@ is guilty of an offence if he discloses, otherwise than in the course of his dut
 
 ## Annotations
 
-[^key-4d2236ea2b1ec64e808c83092fa16e3c]: Modification: [S. 158](https://www.legislation.gov.uk/ukpga/1999/33/section/158) extended (2.7.2018) by [The Short-term Holding Facility Rules 2018 (S.I. 2018/409)](https://www.legislation.gov.uk/uksi/2018/409), [rules 1](https://www.legislation.gov.uk/uksi/2018/409/rule/1), [57(c)](https://www.legislation.gov.uk/uksi/2018/409/rule/57/c) (with [rule 3](https://www.legislation.gov.uk/uksi/2018/409/rule/3))
+[^c-4d2236ea2b1ec64e808c83092fa16e3c]: Modification: [S. 158](https://www.legislation.gov.uk/ukpga/1999/33/section/158) extended (2.7.2018) by [The Short-term Holding Facility Rules 2018 (S.I. 2018/409)](https://www.legislation.gov.uk/uksi/2018/409), [rules 1](https://www.legislation.gov.uk/uksi/2018/409/rule/1), [57(c)](https://www.legislation.gov.uk/uksi/2018/409/rule/57/c) (with [rule 3](https://www.legislation.gov.uk/uksi/2018/409/rule/3))
 
-[^key-322e1dcf9495e77eae0ed436411c9617]: Textual amendment: Words in s. 158 substituted (10.2.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss.](https://www.legislation.gov.uk/ukpga/2002/41/section) [66(2)(3)(i)](https://www.legislation.gov.uk/ukpga/2002/41/section/66/3/i), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/1](https://www.legislation.gov.uk/uksi/2003/1), [art. 2](https://www.legislation.gov.uk/uksi/2003/1/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1/schedule)
+[^c-322e1dcf9495e77eae0ed436411c9617]: Textual amendment: Words in s. 158 substituted (10.2.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss.](https://www.legislation.gov.uk/ukpga/2002/41/section) [66(2)(3)(i)](https://www.legislation.gov.uk/ukpga/2002/41/section/66/3/i), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/1](https://www.legislation.gov.uk/uksi/2003/1), [art. 2](https://www.legislation.gov.uk/uksi/2003/1/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Determinations by Land Court[^key-4aa89c9c02b01f58adddd79755a6395c]
+## 28. Determinations by Land Court[^c-4aa89c9c02b01f58adddd79755a6395c]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4aa89c9c02b01f58adddd79755a6395c]: Commencement: S. 28 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-4aa89c9c02b01f58adddd79755a6395c]: Commencement: S. 28 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

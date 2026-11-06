@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Exercise of Commissioner's functions by staff[^key-b57b8c7bba3a8a24789b39a6740932e3]
+## 13. Exercise of Commissioner's functions by staff[^c-b57b8c7bba3a8a24789b39a6740932e3]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b57b8c7bba3a8a24789b39a6740932e3]: Commencement: [S. 13](https://www.legislation.gov.uk/mwa/2011/1/section/13) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(f)](https://www.legislation.gov.uk/wsi/2012/969/article/2/f)
+[^c-b57b8c7bba3a8a24789b39a6740932e3]: Commencement: [S. 13](https://www.legislation.gov.uk/mwa/2011/1/section/13) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(f)](https://www.legislation.gov.uk/wsi/2012/969/article/2/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Forfeiture[^key-4bd72b77ca9a874d93672c6bddbd8f33][^key-b65c46f8e0e5207de62ae8494894391b]
+## 42. Forfeiture[^c-4bd72b77ca9a874d93672c6bddbd8f33][^c-b65c46f8e0e5207de62ae8494894391b]
 
 *Extent: E+W+S+N.I.*
 
@@ -94,6 +94,6 @@ Those circumstances include the time and costs involved in separating the proper
 
 ## Annotations
 
-[^key-4bd72b77ca9a874d93672c6bddbd8f33]: Commencement: S. 42 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-4bd72b77ca9a874d93672c6bddbd8f33]: Commencement: S. 42 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-b65c46f8e0e5207de62ae8494894391b]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/46/section/42) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-b65c46f8e0e5207de62ae8494894391b]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/46/section/42) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

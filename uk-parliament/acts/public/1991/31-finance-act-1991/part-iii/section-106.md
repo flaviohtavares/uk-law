@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Relief for reimbursement expenditure under abandonment guarantees.[^key-34c824fdc98973676040b2e0be6017a3]
+## 106. Relief for reimbursement expenditure under abandonment guarantees.[^c-34c824fdc98973676040b2e0be6017a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34c824fdc98973676040b2e0be6017a3]: Textual amendment: [S. 106](https://www.legislation.gov.uk/ukpga/1991/31/section/106) omitted (with effect in relation to expenditure incurred on or after 17.7.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 31 para. 5(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/31/paragraph/5/3) (with [Sch. 31 para. 23](https://www.legislation.gov.uk/ukpga/2013/29/schedule/31/paragraph/23))
+[^c-34c824fdc98973676040b2e0be6017a3]: Textual amendment: [S. 106](https://www.legislation.gov.uk/ukpga/1991/31/section/106) omitted (with effect in relation to expenditure incurred on or after 17.7.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 31 para. 5(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/31/paragraph/5/3) (with [Sch. 31 para. 23](https://www.legislation.gov.uk/ukpga/2013/29/schedule/31/paragraph/23))
